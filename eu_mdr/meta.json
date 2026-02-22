@@ -1,0 +1,17 @@
+{
+  "regulation_id": "eu_mdr",
+  "title": { "zh": "欧盟医疗器械法规", "en": "EU Medical Device Regulation" },
+  "primary_legislation": ["EU MDR (EU) 2017/745", "EU IVDR (EU) 2017/746"],
+  "official_sources": [
+    "https://eur-lex.europa.eu",
+    "https://ec.europa.eu/health/medical-devices",
+    "https://ec.europa.eu/health/mdcg"
+  ],
+  "subdirectories": {
+    "regulations": "EU MDR/IVDR regulation texts and amendments",
+    "standards": "Harmonised standards published in the EU Official Journal (OJ)",
+    "mdcg": "MDCG guidance documents (full text)",
+    "team_nb": "TEAM-NB position papers"
+  },
+  "last_updated": "2026-02-22"
+}

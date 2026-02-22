@@ -1,0 +1,24 @@
+{
+  "regulation_id": "nmpa",
+  "title": { "zh": "国家药品监督管理局医疗器械法规", "en": "NMPA Medical Device Regulations (China)" },
+  "primary_legislation": [
+    "医疗器械监督管理条例（2021年修订）",
+    "医疗器械注册与备案管理办法"
+  ],
+  "official_sources": [
+    "https://www.nmpa.gov.cn",
+    "https://www.cmde.org.cn",
+    "https://www.sac.gov.cn"
+  ],
+  "subdirectories": {
+    "regulations": "NMPA regulations, rules, and announcements",
+    "standards": "Chinese national/industry standards for medical devices (GB/YY)",
+    "guidance": "Registration review guidance principles by device category",
+    "classification": "Medical device classification catalog"
+  },
+  "notes": {
+    "source_format": "NMPA guidance documents are frequently published as Word (.doc/.docx) downloads. See CONTRIBUTING.md for processing instructions.",
+    "url_verification": "NMPA/CMDE URLs may change. Always verify source URLs before submission."
+  },
+  "last_updated": "2026-02-22"
+}

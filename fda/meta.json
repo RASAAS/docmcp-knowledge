@@ -1,0 +1,16 @@
+{
+  "regulation_id": "fda",
+  "title": { "zh": "美国 FDA 医疗器械法规", "en": "US FDA Medical Device Regulations" },
+  "primary_legislation": ["21 CFR Part 800-900", "Federal Food, Drug, and Cosmetic Act (FD&C Act)"],
+  "official_sources": [
+    "https://www.fda.gov/medical-devices",
+    "https://ecfr.gov",
+    "https://accessdata.fda.gov/scripts/cdrh/cfdocs/cfStandards"
+  ],
+  "subdirectories": {
+    "regulations": "FDA regulations (21 CFR) relevant to medical devices",
+    "standards": "FDA-recognized consensus standards (AAMI, ASTM, ANSI, etc.)",
+    "guidance": "FDA guidance documents for medical devices"
+  },
+  "last_updated": "2026-02-22"
+}
