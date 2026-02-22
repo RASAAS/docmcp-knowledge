@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "Open regulatory knowledge base for medical device compliance",
   "scripts": {
-    "docs:dev": "vitepress dev docs",
-    "docs:build": "vitepress build docs",
-    "docs:preview": "vitepress preview docs"
+    "docs:dev": "cd docs && vitepress dev",
+    "docs:build": "cd docs && vitepress build",
+    "docs:preview": "cd docs && vitepress preview"
   },
   "devDependencies": {
     "vitepress": "^1.6.0"

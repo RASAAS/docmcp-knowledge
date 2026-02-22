@@ -3,15 +3,15 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: 'DocMCP Knowledge Base',
   description: 'Open regulatory knowledge base for medical device compliance',
+  srcDir: '.',
 
   locales: {
     root: {
       label: 'English',
       lang: 'en',
-      link: '/en/',
       themeConfig: {
         nav: [
-          { text: 'Home', link: '/en/' },
+          { text: 'Home', link: '/' },
           { text: 'EU MDR', link: '/en/eu_mdr/' },
           { text: 'FDA', link: '/en/fda/' },
           { text: 'NMPA', link: '/en/nmpa/' },
@@ -44,7 +44,7 @@ export default defineConfig({
         ],
         footer: {
           message: 'Content licensed under CC BY 4.0',
-          copyright: 'Copyright © 2026 RASAAS'
+          copyright: 'Copyright \u00a9 2026 RASAAS'
         },
         search: { provider: 'local' }
       }
@@ -96,6 +96,6 @@ export default defineConfig({
   },
 
   themeConfig: {
-    logo: '/logo.png',
+    logo: { light: '/logo.png', dark: '/logo.png', alt: 'DocMCP' },
   }
 })
