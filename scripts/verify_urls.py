@@ -46,7 +46,7 @@ OFFICIAL_DOMAINS = {
     "ecfr.gov", "www.ecfr.gov", "federalregister.gov", "www.federalregister.gov",
     # NMPA
     "nmpa.gov.cn", "www.nmpa.gov.cn", "cmde.org.cn", "www.cmde.org.cn",
-    "samr.gov.cn", "std.samr.gov.cn", "openstd.samr.gov.cn",
+    "samr.gov.cn", "www.samr.gov.cn", "std.samr.gov.cn", "openstd.samr.gov.cn",
     # China government
     "gov.cn", "www.gov.cn",
     # Standards
@@ -184,6 +184,8 @@ def check_url(url: str, session: requests.Session, timeout: int = 15) -> Tuple[O
         elif resp.status_code in (301, 302, 303, 307, 308):
             return True, f"Redirect ({resp.status_code}) -> {resp.headers.get('Location', '?')}"
         elif resp.status_code == 404:
+            if domain in force_get_domains:
+                return None, f"HTTP 404 - FDA anti-scraping (page likely accessible via browser)"
             return False, f"Not Found (404)"
         elif resp.status_code == 403:
             return None, f"Forbidden (403) - may require auth (ISO/IEC anti-scraping)"
