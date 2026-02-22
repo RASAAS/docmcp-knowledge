@@ -1,9 +1,24 @@
-name: Daily Regulatory Update Check
+name: Weekly Regulatory Update Check
+
+# Batched cron schedule to avoid rate limits and stay within Google CSE free quota (100/day):
+#   Mon 02:00 UTC -> EU MDR (HTTP ETag + Google CSE supplement)
+#   Wed 02:00 UTC -> FDA (RSS + OpenFDA API + Google CSE)
+#   Fri 02:00 UTC -> NMPA/CMDE (Google CSE primary)
+#   1st of month 03:00 UTC -> ISO/IEC shared standards (Google CSE)
+# Each run uses ~5-10 Google CSE queries, well within the 100/day free limit.
 
 on:
   schedule:
-    - cron: '0 2 * * *'  # Daily at 02:00 UTC (10:00 Beijing)
+    - cron: '0 2 * * 1'   # Monday:    EU MDR
+    - cron: '0 2 * * 3'   # Wednesday: FDA
+    - cron: '0 2 * * 5'   # Friday:    NMPA
+    - cron: '0 3 1 * *'   # 1st/month: Shared standards (ISO/IEC)
   workflow_dispatch:
+    inputs:
+      regulation_group:
+        description: 'Regulation group to check (eu_mdr/fda/nmpa/shared/all)'
+        required: false
+        default: 'all'
 
 jobs:
   check-updates:
@@ -33,11 +48,51 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
+      - name: Determine regulation group from schedule
+        id: group
+        run: |
+          # Manual dispatch overrides schedule detection
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            GROUP="${{ github.event.inputs.regulation_group }}"
+          else
+            DAY=$(date +%u)   # 1=Mon, 3=Wed, 5=Fri
+            DOM=$(date +%d)   # day of month
+            if [ "$DOM" = "01" ]; then
+              GROUP="shared"
+            elif [ "$DAY" = "1" ]; then
+              GROUP="eu_mdr"
+            elif [ "$DAY" = "3" ]; then
+              GROUP="fda"
+            elif [ "$DAY" = "5" ]; then
+              GROUP="nmpa"
+            else
+              GROUP="all"
+            fi
+          fi
+          echo "group=$GROUP" >> $GITHUB_OUTPUT
+          echo "Checking regulation group: $GROUP"
+
       - name: Run update check
         id: check
         run: |
-          python scripts/fetch_updates.py --check-all --report --output /tmp/update_report.json
-          echo "exit_code=$?" >> $GITHUB_OUTPUT
+          GROUP="${{ steps.group.outputs.group }}"
+          if [ "$GROUP" = "all" ]; then
+            python scripts/fetch_updates.py --check-all --analyze-versions --report --output /tmp/update_report.json
+          else
+            python scripts/fetch_updates.py --check "$GROUP" --analyze-versions --report --output /tmp/update_report.json
+          fi
+        env:
+          GOOGLE_SEARCH_API_KEY: ${{ secrets.GOOGLE_SEARCH_API_KEY }}
+          GOOGLE_SEARCH_ENGINE_ID: ${{ secrets.GOOGLE_SEARCH_ENGINE_ID }}
+          FDA_API_KEY: ${{ secrets.FDA_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        continue-on-error: true
+
+      - name: Commit updated state and version registry
+        run: |
+          git add scripts/.update_state.json scripts/version_registry.json || true
+          git diff --staged --quiet || git commit -m "chore: update regulatory check state [skip ci]"
+          git push || true
         continue-on-error: true
 
       - name: Read report
@@ -46,10 +101,13 @@ jobs:
           if [ -f /tmp/update_report.json ]; then
             SUMMARY=$(python -c "import json; d=json.load(open('/tmp/update_report.json')); print(d['summary'])")
             COUNT=$(python -c "import json; d=json.load(open('/tmp/update_report.json')); print(d['updates_found'])")
+            CONFIRMED=$(python -c "import json; d=json.load(open('/tmp/update_report.json')); print(d.get('confirmed_updates', 0))")
             echo "summary=$SUMMARY" >> $GITHUB_OUTPUT
             echo "count=$COUNT" >> $GITHUB_OUTPUT
+            echo "confirmed=$CONFIRMED" >> $GITHUB_OUTPUT
           else
             echo "count=0" >> $GITHUB_OUTPUT
+            echo "confirmed=0" >> $GITHUB_OUTPUT
           fi
 
       - name: Generate content drafts and create PR
@@ -68,15 +126,32 @@ jobs:
             const fs = require('fs');
             const report = JSON.parse(fs.readFileSync('/tmp/update_report.json', 'utf8'));
             const updates = report.updates;
+            const confirmed = updates.filter(u => u.confirmed_update);
+            const checkers = report.checkers_used || {};
 
             let body = `## Automated Regulatory Update Detection\n\n`;
             body += `**Detected at**: ${report.checked_at}\n`;
-            body += `**Updates found**: ${report.updates_found}\n\n`;
-            body += `### Updates Requiring Review\n\n`;
+            body += `**Potential updates**: ${report.updates_found}\n`;
+            body += `**LLM-confirmed updates**: ${report.confirmed_updates || 0}\n`;
+            body += `**Checkers used**: Google CSE=${checkers.google_cse}, OpenFDA=${checkers.openfda_api}, LLM=${checkers.llm_analysis}\n\n`;
 
+            if (confirmed.length > 0) {
+              body += `### Confirmed Version Updates (High Priority)\n\n`;
+              for (const u of confirmed) {
+                body += `#### ${u.name}\n`;
+                body += `- **Category**: \`${u.category}\`\n`;
+                body += `- **New version**: ${u.new_version || 'unknown'}\n`;
+                body += `- **URL**: ${u.new_url || u.url}\n`;
+                body += `- **Confidence**: ${u.llm_analysis?.confidence ? (u.llm_analysis.confidence * 100).toFixed(0) + '%' : 'N/A'}\n`;
+                body += `- **Reasoning**: ${u.llm_analysis?.reasoning || ''}\n\n`;
+              }
+            }
+
+            body += `### All Detected Updates\n\n`;
             for (const u of updates) {
               body += `#### ${u.name}\n`;
               body += `- **Category**: \`${u.category}\`\n`;
+              body += `- **Check type**: ${u.check_type}\n`;
               body += `- **URL**: ${u.url}\n`;
               body += `- **Note**: ${u.note}\n`;
               if (u.new_items) {
