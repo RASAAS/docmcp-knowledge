@@ -9,9 +9,10 @@ export default defineConfig({
     root: {
       label: 'English',
       lang: 'en',
+      link: '/en/',
       themeConfig: {
         nav: [
-          { text: 'Home', link: '/' },
+          { text: 'Home', link: '/en/' },
           { text: 'EU MDR', link: '/en/eu_mdr/' },
           { text: 'FDA', link: '/en/fda/' },
           { text: 'NMPA', link: '/en/nmpa/' },
@@ -96,6 +97,6 @@ export default defineConfig({
   },
 
   themeConfig: {
-    logo: { light: '/logo.png', dark: '/logo.png', alt: 'DocMCP' },
+    logo: '/logo.svg',
   }
 })
