@@ -23,7 +23,11 @@ jobs:
       - name: Validate JSON schemas
         run: python scripts/validate_schema.py
 
-      - name: Verify changed URLs
+      - name: Verify changed content URLs (front matter source_url)
         run: python scripts/verify_urls.py --changed-only
         env:
           GITHUB_BASE_REF: ${{ github.base_ref }}
+
+      - name: Verify docs page inline links
+        run: python scripts/verify_urls.py --docs --delay 1.0
+        continue-on-error: false

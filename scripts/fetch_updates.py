@@ -55,7 +55,7 @@ SOURCES = {
         },
         "team_nb": {
             "name": "TEAM-NB Position Papers",
-            "url": "https://www.team-nb.org/position-papers/",
+            "url": "https://www.team-nb.org/",
             "check_type": "http_head",
             "category": "eu_mdr/team_nb",
         },

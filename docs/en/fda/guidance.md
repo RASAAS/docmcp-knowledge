@@ -24,7 +24,7 @@ FDA guidance documents represent the agency's current thinking. They are not leg
 ## 510(k) & De Novo
 | Guidance | Year |
 |----------|------|
-| The 510(k) Program: Evaluating Substantial Equivalence | 2014 |
+| [510(k) Database](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm) | 2014 |
 | De Novo Classification Process | 2021 |
 | Recommended Content and Format of Non-Clinical Bench Performance Testing | 2019 |
 
@@ -34,5 +34,5 @@ FDA guidance documents represent the agency's current thinking. They are not leg
 | Use of International Standard ISO 10993-1 | 2020 |
 
 ::: tip Source
-[FDA Guidance Documents A-Z](https://www.fda.gov/medical-devices/guidance-documents-medical-devices-and-radiation-emitting-products/guidance-documents-medical-devices-and-radiation-emitting-products-alphabetical)
+[FDA Standards Database](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfStandards/search.cfm)
 :::

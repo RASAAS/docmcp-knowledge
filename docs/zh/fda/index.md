@@ -22,7 +22,7 @@ title: FDA 概述
 
 ## 主要资源
 
-- [CDRH 官网](https://www.fda.gov/medical-devices)
+- [FDA 官网](https://www.fda.gov)
 - [510(k) 数据库](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm)
 - [FDA 标准数据库](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfStandards/search.cfm)
-- [CDRH 指导文件](https://www.fda.gov/medical-devices/guidance-documents-medical-devices-and-radiation-emitting-products)
+- [MAUDE 不良事件数据库](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfMAUDE/search.cfm)

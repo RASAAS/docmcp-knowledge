@@ -32,7 +32,7 @@ title: TEAM-NB Position Papers
 | Certificates | Certificate validity and renewal |
 
 ::: tip Source
-[team-nb.org/position-papers](https://www.team-nb.org/position-papers/)
+[team-nb.org](https://www.team-nb.org/)
 :::
 
 ::: info

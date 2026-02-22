@@ -22,7 +22,7 @@ The FDA's **Center for Devices and Radiological Health (CDRH)** regulates medica
 
 ## Key Resources
 
-- [CDRH Website](https://www.fda.gov/medical-devices)
+- [FDA Official Website](https://www.fda.gov)
 - [510(k) Database](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm)
 - [FDA Standards Database](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfStandards/search.cfm)
-- [CDRH Guidance Documents](https://www.fda.gov/medical-devices/guidance-documents-medical-devices-and-radiation-emitting-products)
+- [MAUDE Adverse Events](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfMAUDE/search.cfm)

@@ -32,5 +32,5 @@ title: TEAM-NB 立场文件
 | 证书 | 证书有效性和续期 |
 
 ::: tip 来源
-[team-nb.org/position-papers](https://www.team-nb.org/position-papers/)
+[team-nb.org](https://www.team-nb.org/)
 :::

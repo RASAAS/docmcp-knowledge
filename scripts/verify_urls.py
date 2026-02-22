@@ -19,6 +19,7 @@ import sys
 import time
 from datetime import datetime
 from pathlib import Path
+from typing import Optional, Tuple, List
 from urllib.parse import urlparse
 
 try:
@@ -38,20 +39,27 @@ ROOT = Path(__file__).parent.parent
 # Official domains that are acceptable sources
 OFFICIAL_DOMAINS = {
     # EU
-    "eur-lex.europa.eu", "ec.europa.eu", "cen.eu", "team-nb.org",
+    "eur-lex.europa.eu", "ec.europa.eu", "health.ec.europa.eu", "cen.eu", "team-nb.org",
+    "www.team-nb.org",
     # FDA
-    "fda.gov", "www.fda.gov", "accessdata.fda.gov", "ecfr.gov",
+    "fda.gov", "www.fda.gov", "accessdata.fda.gov", "www.accessdata.fda.gov",
+    "ecfr.gov", "www.ecfr.gov", "federalregister.gov", "www.federalregister.gov",
     # NMPA
     "nmpa.gov.cn", "www.nmpa.gov.cn", "cmde.org.cn", "www.cmde.org.cn",
+    "samr.gov.cn", "std.samr.gov.cn", "openstd.samr.gov.cn",
+    # China government
+    "gov.cn", "www.gov.cn",
     # Standards
     "iso.org", "www.iso.org", "iec.ch", "www.iec.ch",
     "sac.gov.cn", "www.sac.gov.cn",
+    # GitHub (for repo links)
+    "github.com",
     # WordPress source (reguverse.com - for migrated content)
     "reguverse.com", "www.reguverse.com",
 }
 
 
-def extract_front_matter(md_content: str) -> dict | None:
+def extract_front_matter(md_content: str) -> Optional[dict]:
     match = re.match(r"^---\n(.+?)\n---", md_content, re.DOTALL)
     if not match:
         return None
@@ -61,7 +69,7 @@ def extract_front_matter(md_content: str) -> dict | None:
         return None
 
 
-def get_changed_files() -> list[Path]:
+def get_changed_files() -> List[Path]:
     """Get list of changed .md files from git diff."""
     base_ref = os.environ.get("GITHUB_BASE_REF", "main")
     try:
@@ -80,7 +88,7 @@ def get_changed_files() -> list[Path]:
         return []
 
 
-def check_url(url: str, session: requests.Session, timeout: int = 15) -> tuple[bool, str]:
+def check_url(url: str, session: requests.Session, timeout: int = 15) -> Tuple[Optional[bool], str]:
     """Check if a URL is accessible. Returns (ok, status_message)."""
     if not url or url.startswith("#"):
         return False, "empty or anchor URL"
@@ -95,11 +103,18 @@ def check_url(url: str, session: requests.Session, timeout: int = 15) -> tuple[b
         return None, f"non-official domain: {domain} (manual review needed)"
 
     try:
-        # Try HEAD first (faster)
-        resp = session.head(url, timeout=timeout, allow_redirects=True)
-        if resp.status_code == 405:  # HEAD not allowed
+        # Some domains block HEAD requests - use GET directly for known cases
+        domain = parsed.netloc.lower()
+        force_get_domains = {"www.fda.gov", "fda.gov"}
+        if domain in force_get_domains:
             resp = session.get(url, timeout=timeout, allow_redirects=True, stream=True)
             resp.close()
+        else:
+            # Try HEAD first (faster)
+            resp = session.head(url, timeout=timeout, allow_redirects=True)
+            if resp.status_code == 405:  # HEAD not allowed
+                resp = session.get(url, timeout=timeout, allow_redirects=True, stream=True)
+                resp.close()
 
         if resp.status_code == 200:
             return True, f"OK ({resp.status_code})"
@@ -108,7 +123,13 @@ def check_url(url: str, session: requests.Session, timeout: int = 15) -> tuple[b
         elif resp.status_code == 404:
             return False, f"Not Found (404)"
         elif resp.status_code == 403:
-            return None, f"Forbidden (403) - may require auth"
+            return None, f"Forbidden (403) - may require auth (ISO/IEC anti-scraping)"
+        elif resp.status_code == 412:
+            return None, f"HTTP 412 - Precondition Failed (server rejects HEAD, page likely accessible)"
+        elif resp.status_code == 202:
+            return None, f"HTTP 202 - Accepted (CMDE async response, page likely accessible)"
+        elif resp.status_code == 429:
+            return None, f"HTTP 429 - Rate Limited (page accessible but too many requests)"
         else:
             return None, f"HTTP {resp.status_code}"
     except requests.Timeout:
@@ -119,7 +140,7 @@ def check_url(url: str, session: requests.Session, timeout: int = 15) -> tuple[b
         return None, f"Error: {str(e)[:60]}"
 
 
-def collect_urls_from_file(md_file: Path) -> tuple[str, str] | None:
+def collect_urls_from_file(md_file: Path) -> Optional[Tuple[str, str]]:
     """Extract source_url from a Markdown file's front matter."""
     content = md_file.read_text(encoding="utf-8")
     fm = extract_front_matter(content)
@@ -131,7 +152,65 @@ def collect_urls_from_file(md_file: Path) -> tuple[str, str] | None:
     return url, fm.get("source_url_status", "ok")
 
 
-def collect_urls_from_index(index_file: Path) -> list[tuple[str, str]]:
+def collect_inline_urls_from_docs(md_file: Path) -> List[str]:
+    """Extract all inline markdown links [text](url) from a docs page."""
+    content = md_file.read_text(encoding="utf-8")
+    # Match [text](url) patterns, skip anchors and relative links
+    pattern = re.compile(r'\[([^\]]+)\]\((https?://[^)\s]+)\)')
+    urls = []
+    for match in pattern.finditer(content):
+        url = match.group(2)
+        # Strip trailing punctuation that may have been captured
+        url = url.rstrip('.,;)')
+        if url not in urls:
+            urls.append(url)
+    return urls
+
+
+def verify_docs_files(files: List[Path], delay: float = 0.3) -> Tuple[int, int, int]:
+    """Verify inline links in docs/ pages. Returns (ok, warn, fail) counts."""
+    session = requests.Session()
+    session.headers.update({"User-Agent": "docmcp-knowledge-url-verifier/1.0"})
+
+    ok_count = warn_count = fail_count = 0
+    checked_urls: set = set()
+
+    for md_file in files:
+        if ".vitepress" in str(md_file):
+            continue
+
+        urls = collect_inline_urls_from_docs(md_file)
+        if not urls:
+            continue
+
+        rel_path = md_file.relative_to(ROOT)
+        print(f"\n  [{rel_path}] ({len(urls)} links)")
+
+        for url in urls:
+            if url in checked_urls:
+                continue
+            checked_urls.add(url)
+
+            ok, msg = check_url(url, session)
+
+            if ok is True:
+                ok_count += 1
+                print(f"    OK   {url}")
+            elif ok is None:
+                warn_count += 1
+                print(f"    WARN {url}")
+                print(f"         {msg}")
+            else:
+                fail_count += 1
+                print(f"    FAIL {url}")
+                print(f"         {msg}")
+
+            time.sleep(delay)
+
+    return ok_count, warn_count, fail_count
+
+
+def collect_urls_from_index(index_file: Path) -> List[Tuple[str, str]]:
     """Extract source_urls from _index.json."""
     try:
         with open(index_file, "r", encoding="utf-8") as f:
@@ -146,7 +225,7 @@ def collect_urls_from_index(index_file: Path) -> list[tuple[str, str]]:
         return []
 
 
-def verify_files(files: list[Path], delay: float = 0.3) -> tuple[int, int, int]:
+def verify_files(files: List[Path], delay: float = 0.3) -> Tuple[int, int, int]:
     """Verify URLs in a list of files. Returns (ok, warn, fail) counts."""
     session = requests.Session()
     session.headers.update({"User-Agent": "docmcp-knowledge-url-verifier/1.0"})
@@ -195,7 +274,8 @@ def verify_files(files: list[Path], delay: float = 0.3) -> tuple[int, int, int]:
 
 def main():
     parser = argparse.ArgumentParser(description="Verify source URLs in content files")
-    parser.add_argument("--all", action="store_true", help="Check all files")
+    parser.add_argument("--all", action="store_true", help="Check all content files (front matter source_url)")
+    parser.add_argument("--docs", action="store_true", help="Check inline links in docs/ pages")
     parser.add_argument("--file", help="Check a specific file")
     parser.add_argument("--path", help="Check all files under a path")
     parser.add_argument("--changed-only", action="store_true",
@@ -203,6 +283,23 @@ def main():
     parser.add_argument("--delay", type=float, default=0.3,
                         help="Delay between requests in seconds (default: 0.3)")
     args = parser.parse_args()
+
+    # --docs mode: verify inline links in docs/ pages
+    if args.docs:
+        docs_dir = ROOT / "docs"
+        docs_files = [
+            f for f in sorted(docs_dir.rglob("*.md"))
+            if ".vitepress" not in str(f)
+        ]
+        print(f"Verifying inline links in {len(docs_files)} docs pages...")
+        ok, warn, fail = verify_docs_files(docs_files, args.delay)
+        print(f"\nResults: {ok} OK, {warn} warnings, {fail} failed")
+        if fail > 0:
+            print(f"\nFAILED: {fail} links are broken. Please fix before merging.")
+            sys.exit(1)
+        else:
+            print("\nAll docs links verified successfully.")
+        return
 
     files = []
 
