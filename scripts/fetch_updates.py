@@ -35,7 +35,15 @@ SOURCES = {
     "eu_mdr": {
         "harmonised_standards": {
             "name": "EU MDR Harmonised Standards (OJ)",
-            "url": "https://ec.europa.eu/health/medical-devices/new-regulations/implementation/standards_en",
+            # Canonical EC page listing all harmonised standards implementing decisions
+            "url": "https://health.ec.europa.eu/medical-devices-topics-interest/harmonised-standards_en",
+            "check_type": "http_head",
+            "category": "eu_mdr/standards",
+        },
+        "harmonised_standards_oj": {
+            "name": "EU MDR Harmonised Standards - Latest Implementing Decision (EUR-Lex)",
+            # CID (EU) 2021/1182 base + amendments tracked via EUR-Lex
+            "url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182/oj",
             "check_type": "http_head",
             "category": "eu_mdr/standards",
         },
@@ -61,29 +69,50 @@ SOURCES = {
         },
         "consensus_standards": {
             "name": "FDA Recognized Consensus Standards",
-            "url": "https://accessdata.fda.gov/scripts/cdrh/cfdocs/cfStandards/search.cfm",
+            # CDRH standards database search page
+            "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfStandards/search.cfm",
             "check_type": "http_head",
             "category": "fda/standards",
+        },
+        "regulations_ecfr": {
+            "name": "FDA 21 CFR (eCFR)",
+            "url": "https://www.ecfr.gov/current/title-21",
+            "check_type": "http_head",
+            "category": "fda/regulations",
         },
     },
     "nmpa": {
         "cmde_guidance": {
-            "name": "CMDE Guidance Principles",
-            "url": "https://www.cmde.org.cn/CL0050/",
+            "name": "CMDE Guidance Principles Index",
+            # CMDE official guidance principles listing page
+            "url": "https://www.cmde.org.cn/flfg/zdyz/",
             "check_type": "http_head",
             "category": "nmpa/guidance",
         },
         "nmpa_announcements": {
-            "name": "NMPA Announcements",
+            "name": "NMPA Medical Device Announcements",
             "url": "https://www.nmpa.gov.cn/ylqx/ylqxggtg/",
+            "check_type": "http_head",
+            "category": "nmpa/regulations",
+        },
+        "nmpa_regulations": {
+            "name": "NMPA Medical Device Regulations",
+            "url": "https://www.nmpa.gov.cn/ylqx/ylqxfgwj/",
             "check_type": "http_head",
             "category": "nmpa/regulations",
         },
     },
     "shared": {
         "iso_standards": {
-            "name": "ISO Medical Device Standards",
+            "name": "ISO TC 210 Medical Device Standards",
+            # ISO TC 210 is the committee for quality management and general aspects of medical devices
             "url": "https://www.iso.org/committee/54892/x/catalogue/",
+            "check_type": "http_head",
+            "category": "_shared/standards",
+        },
+        "iec_standards": {
+            "name": "IEC TC 62 Medical Electrical Equipment Standards",
+            "url": "https://www.iec.ch/dyn/www/f?p=103:7:::::FSP_ORG_ID:1245",
             "check_type": "http_head",
             "category": "_shared/standards",
         },
