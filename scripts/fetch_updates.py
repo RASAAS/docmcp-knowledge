@@ -43,12 +43,19 @@ ROOT = Path(__file__).parent.parent
 VERSION_REGISTRY_PATH = ROOT / "scripts" / "version_registry.json"
 
 # ---------------------------------------------------------------------------
-# Environment variables (set as GitHub Secrets)
+# Environment variables (set as GitHub Secrets / local .env)
 # ---------------------------------------------------------------------------
 GOOGLE_SEARCH_API_KEY = os.environ.get("GOOGLE_SEARCH_API_KEY", "")
 GOOGLE_SEARCH_ENGINE_ID = os.environ.get("GOOGLE_SEARCH_ENGINE_ID", "")
 FDA_API_KEY = os.environ.get("FDA_API_KEY", "")
-OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY", "")
+
+# LLM (OneAPI-compatible, e.g. https://api.reguverse.com/v1)
+# LLM_API_KEY   : API key for the LLM provider
+# LLM_BASE_URL  : Base URL of the OpenAI-compatible endpoint (no trailing slash)
+# LLM_MODEL     : Model name, e.g. deepseek-chat, gpt-4o-mini
+LLM_API_KEY = os.environ.get("LLM_API_KEY", "")
+LLM_BASE_URL = os.environ.get("LLM_BASE_URL", "https://api.openai.com/v1")
+LLM_MODEL = os.environ.get("LLM_MODEL", "deepseek-chat")
 
 # ---------------------------------------------------------------------------
 # Source definitions
@@ -83,12 +90,6 @@ SOURCES = {
         },
     },
     "fda": {
-        "guidance_rss": {
-            "name": "FDA Medical Device Guidance (RSS)",
-            "url": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/medical-devices/rss.xml",
-            "check_type": "rss",
-            "category": "fda/guidance",
-        },
         "guidance_openfda": {
             "name": "FDA Guidance Documents (OpenFDA API)",
             "url": "https://api.fda.gov/other/guidance.json",
@@ -100,7 +101,7 @@ SOURCES = {
             "url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents",
             "check_type": "google_search",
             "category": "fda/guidance",
-            "google_query": "site:fda.gov medical device guidance final 2025 OR 2026",
+            "google_query": "site:fda.gov medical device guidance final 2025 OR 2026 -draft",
         },
         "consensus_standards": {
             "name": "FDA Recognized Consensus Standards",
@@ -422,12 +423,15 @@ class OpenFDAChecker:
 
 
 # ---------------------------------------------------------------------------
-# LLM Version Analyzer (optional - requires OPENAI_API_KEY)
+# LLM Version Analyzer (optional - requires LLM_API_KEY)
+# Uses OneAPI-compatible endpoint (deepseek-chat, gpt-4o-mini, etc.)
 # ---------------------------------------------------------------------------
 
 class LLMVersionAnalyzer:
-    def __init__(self, api_key: str):
+    def __init__(self, api_key: str, base_url: str, model: str):
         self.api_key = api_key
+        self.base_url = base_url.rstrip("/")
+        self.model = model
         self.available = bool(api_key)
 
     def analyze(self, doc_id: str, registry_entry: Optional[dict], new_items: list) -> dict:
@@ -447,10 +451,10 @@ class LLMVersionAnalyzer:
         )
         try:
             resp = requests.post(
-                "https://api.openai.com/v1/chat/completions",
+                f"{self.base_url}/chat/completions",
                 headers={"Authorization": f"Bearer {self.api_key}",
                          "Content-Type": "application/json"},
-                json={"model": "gpt-4o-mini",
+                json={"model": self.model,
                       "messages": [{"role": "user", "content": prompt}],
                       "temperature": 0.1,
                       "response_format": {"type": "json_object"}},
@@ -490,10 +494,13 @@ class UpdateChecker:
         self.google = GoogleSearchChecker(GOOGLE_SEARCH_API_KEY, GOOGLE_SEARCH_ENGINE_ID,
                                           self.state)
         self.openfda = OpenFDAChecker(FDA_API_KEY, self.state)
-        self.llm = LLMVersionAnalyzer(OPENAI_API_KEY)
+        self.llm = LLMVersionAnalyzer(LLM_API_KEY, LLM_BASE_URL, LLM_MODEL)
         if not self.google.available:
             print("INFO: Google CSE not configured - set GOOGLE_SEARCH_API_KEY + "
                   "GOOGLE_SEARCH_ENGINE_ID to enable NMPA/CMDE/ISO checks.")
+        if not self.llm.available:
+            print(f"INFO: LLM analysis not configured - set LLM_API_KEY "
+                  f"(LLM_BASE_URL={LLM_BASE_URL}, LLM_MODEL={LLM_MODEL}).")
 
     def _load_state(self) -> dict:
         if self.state_file.exists():
