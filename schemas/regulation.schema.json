@@ -1,0 +1,31 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Regulation Document",
+  "type": "object",
+  "required": ["id", "title", "regulation", "category", "status", "source_url", "contributor"],
+  "properties": {
+    "id": { "type": "string", "description": "Unique document identifier" },
+    "title": {
+      "type": "object",
+      "required": ["zh", "en"],
+      "properties": {
+        "zh": { "type": "string" },
+        "en": { "type": "string" }
+      }
+    },
+    "regulation": { "type": "string", "enum": ["eu_mdr", "fda", "nmpa", "shared"] },
+    "category": { "type": "string" },
+    "document_number": { "type": "string" },
+    "effective_date": { "type": "string", "format": "date" },
+    "status": { "type": "string", "enum": ["active", "superseded", "draft"] },
+    "source_url": { "type": "string", "format": "uri" },
+    "source_url_verified": { "type": "string", "format": "date" },
+    "source_url_status": { "type": "string", "enum": ["ok", "archived", "broken"] },
+    "source_format": { "type": "string", "enum": ["html", "pdf", "word"] },
+    "content_zh": { "type": "string" },
+    "content_en": { "type": "string" },
+    "translation": { "type": "string", "enum": ["original", "ai-assisted", "human-reviewed"] },
+    "last_verified": { "type": "string", "format": "date" },
+    "contributor": { "type": "string" }
+  }
+}

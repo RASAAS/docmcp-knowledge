@@ -1,0 +1,31 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Guidance Document",
+  "type": "object",
+  "required": ["id", "title", "regulation", "category", "status", "source_url", "source_format", "contributor"],
+  "properties": {
+    "id": { "type": "string" },
+    "title": {
+      "type": "object",
+      "required": ["zh"],
+      "properties": {
+        "zh": { "type": "string" },
+        "en": { "type": "string" }
+      }
+    },
+    "regulation": { "type": "string", "enum": ["eu_mdr", "fda", "nmpa", "shared"] },
+    "category": { "type": "string", "description": "e.g. guidance/21-sw" },
+    "document_number": { "type": "string", "description": "e.g. CMDE-2022-9" },
+    "effective_date": { "type": "string", "format": "date" },
+    "status": { "type": "string", "enum": ["active", "superseded", "draft"] },
+    "source_url": { "type": "string", "format": "uri" },
+    "source_url_verified": { "type": "string", "format": "date" },
+    "source_url_status": { "type": "string", "enum": ["ok", "archived", "broken"] },
+    "source_format": { "type": "string", "enum": ["html", "pdf", "word"] },
+    "content_zh": { "type": "string", "description": "Relative path to Chinese markdown file" },
+    "content_en": { "type": "string", "description": "Relative path to English markdown file" },
+    "translation": { "type": "string", "enum": ["original", "ai-assisted", "human-reviewed"] },
+    "last_verified": { "type": "string", "format": "date" },
+    "contributor": { "type": "string" }
+  }
+}

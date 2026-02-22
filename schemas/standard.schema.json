@@ -1,0 +1,35 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Standard Entry",
+  "type": "object",
+  "required": ["id", "number", "title", "scope", "status"],
+  "properties": {
+    "id": { "type": "string" },
+    "number": { "type": "string", "description": "Standard number e.g. ISO 14971:2019" },
+    "title": {
+      "type": "object",
+      "required": ["en"],
+      "properties": {
+        "zh": { "type": "string" },
+        "en": { "type": "string" }
+      }
+    },
+    "scope": {
+      "type": "object",
+      "properties": {
+        "zh": { "type": "string" },
+        "en": { "type": "string" }
+      }
+    },
+    "publication_year": { "type": "integer" },
+    "status": { "type": "string", "enum": ["active", "superseded", "withdrawn"] },
+    "regulatory_references": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Which regulations reference this standard e.g. [eu_mdr, fda, nmpa]"
+    },
+    "source_url": { "type": "string", "format": "uri" },
+    "source_url_verified": { "type": "string", "format": "date" },
+    "contributor": { "type": "string" }
+  }
+}

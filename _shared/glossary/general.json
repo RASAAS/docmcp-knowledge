@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "last_updated": "2026-02-22",
+  "terms": [
+    { "zh": "医疗器械", "en": "Medical Device", "abbr": "MD" },
+    { "zh": "体外诊断医疗器械", "en": "In Vitro Diagnostic Medical Device", "abbr": "IVD" },
+    { "zh": "风险管理", "en": "Risk Management", "abbr": "RM" },
+    { "zh": "质量管理体系", "en": "Quality Management System", "abbr": "QMS" },
+    { "zh": "临床评价", "en": "Clinical Evaluation", "abbr": "CE" },
+    { "zh": "临床评价报告", "en": "Clinical Evaluation Report", "abbr": "CER" },
+    { "zh": "临床评价计划", "en": "Clinical Evaluation Plan", "abbr": "CEP" },
+    { "zh": "上市后监督", "en": "Post-Market Surveillance", "abbr": "PMS" },
+    { "zh": "技术文件", "en": "Technical Documentation", "abbr": "TD" },
+    { "zh": "基本安全和性能要求", "en": "General Safety and Performance Requirements", "abbr": "GSPR" },
+    { "zh": "合规声明", "en": "Declaration of Conformity", "abbr": "DoC" },
+    { "zh": "指定机构", "en": "Notified Body", "abbr": "NB" },
+    { "zh": "医疗器械软件", "en": "Medical Device Software", "abbr": "MDSW" },
+    { "zh": "人工智能", "en": "Artificial Intelligence", "abbr": "AI" },
+    { "zh": "机器学习", "en": "Machine Learning", "abbr": "ML" },
+    { "zh": "网络安全", "en": "Cybersecurity" },
+    { "zh": "可用性", "en": "Usability" },
+    { "zh": "生物相容性", "en": "Biocompatibility" },
+    { "zh": "突发事件", "en": "Serious Incident" },
+    { "zh": "安全性和性能摘要", "en": "Summary of Safety and Clinical Performance", "abbr": "SSCP" }
+  ]
+}
