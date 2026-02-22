@@ -88,8 +88,57 @@ def get_changed_files() -> List[Path]:
         return []
 
 
+def _is_pdf_url(url: str) -> bool:
+    """Heuristic: does this URL point to a PDF document?"""
+    lower = url.lower()
+    return (
+        lower.endswith(".pdf")
+        or "filename=" in lower and ".pdf" in lower
+        or "/document/download/" in lower
+        or "/system/files/" in lower and (".pdf" in lower or "filename" not in lower)
+    )
+
+
+def _validate_content(resp: "requests.Response", url: str) -> Tuple[Optional[bool], str]:
+    """
+    Validate that the response body looks like the expected content type.
+    Returns (ok, message). ok=True means content looks correct.
+    ok=None means uncertain (warn). ok=False means content is wrong (fail).
+    """
+    content_type = resp.headers.get("Content-Type", "").lower()
+    content_length = resp.headers.get("Content-Length", "")
+
+    if _is_pdf_url(url):
+        # Expect PDF content
+        if "application/pdf" in content_type:
+            size_str = f" ({content_length} bytes)" if content_length else ""
+            # Sanity check: a real PDF should be at least a few KB
+            if content_length and int(content_length) < 1024:
+                return False, f"PDF too small ({content_length} bytes) - likely an error page"
+            return True, f"OK (PDF{size_str})"
+        elif "text/html" in content_type:
+            # Server returned HTML instead of PDF - likely an error or redirect to login
+            return False, f"Expected PDF but got HTML - link may be broken or require auth"
+        elif content_type == "" or "application/octet-stream" in content_type:
+            # Unknown type - warn but don't fail
+            return None, f"Content-Type unclear ({content_type or 'none'}), manual check recommended"
+        else:
+            return None, f"Unexpected Content-Type: {content_type}"
+    else:
+        # For HTML pages, just check it's not an error page
+        if "text/html" in content_type or content_type == "":
+            return True, f"OK (HTML)"
+        return True, f"OK ({content_type})"
+
+
 def check_url(url: str, session: requests.Session, timeout: int = 15) -> Tuple[Optional[bool], str]:
-    """Check if a URL is accessible. Returns (ok, status_message)."""
+    """
+    Check if a URL is accessible and its content is valid.
+    Returns (ok, status_message).
+    ok=True: accessible and content looks correct
+    ok=None: accessible but uncertain (warn)
+    ok=False: broken
+    """
     if not url or url.startswith("#"):
         return False, "empty or anchor URL"
 
@@ -102,12 +151,19 @@ def check_url(url: str, session: requests.Session, timeout: int = 15) -> Tuple[O
     if domain not in OFFICIAL_DOMAINS:
         return None, f"non-official domain: {domain} (manual review needed)"
 
+    # Determine if we need a full GET for content validation
+    needs_content_check = _is_pdf_url(url)
+    force_get_domains = {"www.fda.gov", "fda.gov"}
+
     try:
-        # Some domains block HEAD requests - use GET directly for known cases
-        domain = parsed.netloc.lower()
-        force_get_domains = {"www.fda.gov", "fda.gov"}
-        if domain in force_get_domains:
+        if needs_content_check or domain in force_get_domains:
+            # Use GET with streaming to read headers without downloading full body
             resp = session.get(url, timeout=timeout, allow_redirects=True, stream=True)
+            # Read a small chunk to trigger Content-Type resolution
+            try:
+                next(resp.iter_content(chunk_size=512), None)
+            except Exception:
+                pass
             resp.close()
         else:
             # Try HEAD first (faster)
@@ -117,6 +173,8 @@ def check_url(url: str, session: requests.Session, timeout: int = 15) -> Tuple[O
                 resp.close()
 
         if resp.status_code == 200:
+            if needs_content_check:
+                return _validate_content(resp, url)
             return True, f"OK ({resp.status_code})"
         elif resp.status_code in (301, 302, 303, 307, 308):
             return True, f"Redirect ({resp.status_code}) -> {resp.headers.get('Location', '?')}"
