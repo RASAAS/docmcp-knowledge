@@ -1,0 +1,78 @@
+name: Daily Regulatory Update Check
+
+on:
+  schedule:
+    - cron: '0 2 * * *'  # Daily at 02:00 UTC (10:00 Beijing)
+  workflow_dispatch:
+
+jobs:
+  check-updates:
+    runs-on: ubuntu-latest
+    name: Check for regulatory content updates
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests pyyaml
+
+      - name: Run update check
+        id: check
+        run: |
+          python scripts/fetch_updates.py --check-all --report --output /tmp/update_report.json
+          echo "exit_code=$?" >> $GITHUB_OUTPUT
+        continue-on-error: true
+
+      - name: Read report
+        id: report
+        run: |
+          if [ -f /tmp/update_report.json ]; then
+            SUMMARY=$(python -c "import json; d=json.load(open('/tmp/update_report.json')); print(d['summary'])")
+            COUNT=$(python -c "import json; d=json.load(open('/tmp/update_report.json')); print(d['updates_found'])")
+            echo "summary=$SUMMARY" >> $GITHUB_OUTPUT
+            echo "count=$COUNT" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Create issue if updates found
+        if: steps.report.outputs.count != '0'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const report = JSON.parse(fs.readFileSync('/tmp/update_report.json', 'utf8'));
+            const updates = report.updates;
+
+            let body = `## Automated Regulatory Update Detection\n\n`;
+            body += `**Detected at**: ${report.checked_at}\n`;
+            body += `**Updates found**: ${report.updates_found}\n\n`;
+            body += `### Updates Requiring Review\n\n`;
+
+            for (const u of updates) {
+              body += `#### ${u.name}\n`;
+              body += `- **Category**: \`${u.category}\`\n`;
+              body += `- **URL**: ${u.url}\n`;
+              body += `- **Note**: ${u.note}\n`;
+              if (u.new_items) {
+                body += `- **New items**:\n`;
+                for (const item of u.new_items.slice(0, 5)) {
+                  body += `  - [${item.title}](${item.link})\n`;
+                }
+              }
+              body += `\n`;
+            }
+
+            body += `---\n*This issue was automatically created by the update monitoring workflow.*\n`;
+            body += `*Please review the sources and create PRs to update the knowledge base.*`;
+
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `[Auto] Regulatory updates detected - ${new Date().toISOString().split('T')[0]}`,
+              body: body,
+              labels: ['update', 'automated']
+            });
