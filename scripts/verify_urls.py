@@ -122,6 +122,11 @@ def _validate_content(resp: "requests.Response", url: str) -> Tuple[Optional[boo
         elif content_type == "" or "application/octet-stream" in content_type:
             # Unknown type - warn but don't fail
             return None, f"Content-Type unclear ({content_type or 'none'}), manual check recommended"
+        elif any(x in content_type for x in [
+            "officedocument", "ms-excel", "msword", "opendocument"
+        ]):
+            # Office documents (.docx, .xlsx, etc.) are valid downloadable files
+            return None, f"Unexpected Content-Type: {content_type}"
         else:
             return None, f"Unexpected Content-Type: {content_type}"
     else:
