@@ -97,6 +97,6 @@ export default defineConfig({
   },
 
   themeConfig: {
-    logo: '/logo.svg',
+    logo: { light: '/logo.png', dark: '/logo.png', alt: 'ARS' },
   }
 })
