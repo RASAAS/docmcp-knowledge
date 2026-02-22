@@ -1,0 +1,191 @@
+{
+  "documents": {
+    "eu_mdr/regulations/mdr-2017-745": {
+      "current": {
+        "title": "EU MDR Regulation (EU) 2017/745",
+        "status": "in_force",
+        "published_date": "2017-05-05",
+        "version": "2017/745",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0745",
+        "last_verified": "2026-02-22"
+      },
+      "history": []
+    },
+    "eu_mdr/regulations/ivdr-2017-746": {
+      "current": {
+        "title": "EU IVDR Regulation (EU) 2017/746",
+        "status": "in_force",
+        "published_date": "2017-05-05",
+        "version": "2017/746",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0746",
+        "last_verified": "2026-02-22"
+      },
+      "history": []
+    },
+    "eu_mdr/standards/harmonised-implementing-decision": {
+      "current": {
+        "title": "EU MDR Harmonised Standards - Commission Implementing Decision (EU) 2021/1182",
+        "status": "in_force",
+        "published_date": "2021-07-16",
+        "version": "2021/1182",
+        "url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182/oj",
+        "last_verified": "2026-02-22",
+        "note": "Amended multiple times; check EUR-Lex for latest amendment"
+      },
+      "history": []
+    },
+    "fda/guidance/cybersecurity": {
+      "current": {
+        "title": "Cybersecurity in Medical Devices: Quality System Considerations and Content of Premarket Submissions",
+        "status": "final",
+        "published_date": "2023-09-27",
+        "version": "2023-09",
+        "url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/cybersecurity-medical-devices-quality-system-considerations-and-content-premarket-submissions",
+        "pdf_url": "https://www.fda.gov/media/119933/download",
+        "last_verified": "2026-02-22"
+      },
+      "history": [
+        {
+          "title": "Content of Premarket Submissions for Management of Cybersecurity in Medical Devices",
+          "status": "superseded",
+          "published_date": "2014-10-02",
+          "version": "2014-10",
+          "superseded_by": "2023-09"
+        }
+      ]
+    },
+    "fda/guidance/pccp": {
+      "current": {
+        "title": "Predetermined Change Control Plans for Machine Learning-Enabled Medical Devices",
+        "status": "final",
+        "published_date": "2025-12-01",
+        "version": "2025-12",
+        "url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/predetermined-change-control-plans-machine-learning-enabled-medical-devices",
+        "pdf_url": "https://www.fda.gov/media/166704/download",
+        "last_verified": "2026-02-22"
+      },
+      "history": []
+    },
+    "fda/guidance/sw-functions": {
+      "current": {
+        "title": "Software Functions: Lifecycle Management and Marketing Submission Recommendations",
+        "status": "final",
+        "published_date": "2023-06-27",
+        "version": "2023-06",
+        "url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/software-functions-lifecycle-management-and-marketing-submission-recommendations",
+        "pdf_url": "https://www.fda.gov/media/153781/download",
+        "last_verified": "2026-02-22"
+      },
+      "history": []
+    },
+    "fda/guidance/design-controls": {
+      "current": {
+        "title": "Design Control Guidance for Medical Device Manufacturers",
+        "status": "final",
+        "published_date": "1997-03-11",
+        "version": "1997-03",
+        "url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/design-control-guidance-medical-device-manufacturers",
+        "pdf_url": "https://www.fda.gov/media/87363/download",
+        "last_verified": "2026-02-22"
+      },
+      "history": []
+    },
+    "fda/guidance/rwe": {
+      "current": {
+        "title": "Considerations for the Use of Real-World Data and Real-World Evidence to Support Regulatory Decision-Making for Drug and Biological Products",
+        "status": "final",
+        "published_date": "2025-09-01",
+        "version": "2025-09",
+        "url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/considerations-use-real-world-data-and-real-world-evidence-support-regulatory-decision-making-drug",
+        "pdf_url": "https://www.fda.gov/media/190201/download",
+        "last_verified": "2026-02-22"
+      },
+      "history": []
+    },
+    "fda/guidance/benefit-risk": {
+      "current": {
+        "title": "Factors to Consider When Making Benefit-Risk Determinations in Medical Device Premarket Approval and De Novo Classifications",
+        "status": "final",
+        "published_date": "2019-08-13",
+        "version": "2019-08",
+        "url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/factors-consider-when-making-benefit-risk-determinations-medical-device-premarket-approval-and-de",
+        "pdf_url": "https://www.fda.gov/media/99769/download",
+        "last_verified": "2026-02-22"
+      },
+      "history": []
+    },
+    "fda/guidance/de-novo": {
+      "current": {
+        "title": "De Novo Classification Process (Evaluation of Automatic Class III Designation)",
+        "status": "final",
+        "published_date": "2021-10-25",
+        "version": "2021-10",
+        "url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/de-novo-classification-process-evaluation-automatic-class-iii-designation",
+        "pdf_url": "https://www.fda.gov/media/72674/download",
+        "last_verified": "2026-02-22"
+      },
+      "history": []
+    },
+    "fda/guidance/bench-testing": {
+      "current": {
+        "title": "Reporting of Computational Modeling Studies in Medical Device Submissions",
+        "status": "final",
+        "published_date": "2019-09-26",
+        "version": "2019-09",
+        "url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/reporting-computational-modeling-studies-medical-device-submissions",
+        "pdf_url": "https://www.fda.gov/media/113230/download",
+        "last_verified": "2026-02-22"
+      },
+      "history": []
+    },
+    "fda/guidance/iso-10993-1": {
+      "current": {
+        "title": "Use of International Standard ISO 10993-1 Biological Evaluation of Medical Devices",
+        "status": "final",
+        "published_date": "2023-09-01",
+        "version": "2023-09",
+        "url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/use-international-standard-iso-10993-1-biological-evaluation-medical-devices",
+        "pdf_url": "https://www.fda.gov/media/142959/download",
+        "last_verified": "2026-02-22"
+      },
+      "history": []
+    },
+    "nmpa/regulations/order-739": {
+      "current": {
+        "title": "Medical Device Supervision and Administration Regulations (Order No. 739)",
+        "title_zh": "医疗器械监督管理条例（国务院令第739号）",
+        "status": "in_force",
+        "published_date": "2021-03-18",
+        "effective_date": "2021-06-01",
+        "version": "2021",
+        "url": "https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2021/art_4b2a2e5e7c4b4e5e9e5e5e5e5e5e5e5e.html",
+        "last_verified": "2026-02-22"
+      },
+      "history": [
+        {
+          "title": "Medical Device Supervision and Administration Regulations (Order No. 650)",
+          "status": "superseded",
+          "published_date": "2014-03-07",
+          "version": "2014",
+          "superseded_by": "2021"
+        }
+      ]
+    },
+    "nmpa/regulations/order-740": {
+      "current": {
+        "title": "Medical Device Registration and Filing Administration Regulations (Order No. 47)",
+        "title_zh": "医疗器械注册与备案管理办法（国家市场监督管理总局令第47号）",
+        "status": "in_force",
+        "published_date": "2021-08-26",
+        "effective_date": "2021-10-01",
+        "version": "2021",
+        "url": "https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2021/art_registration.html",
+        "last_verified": "2026-02-22"
+      },
+      "history": []
+    }
+  },
+  "last_updated": "2026-02-22T00:00:00",
+  "_schema_version": "1.0",
+  "_description": "Version registry for regulatory documents tracked by docmcp-knowledge. Each entry tracks current version and full history. Updated automatically by fetch_updates.py when LLM confirms a version change."
+}

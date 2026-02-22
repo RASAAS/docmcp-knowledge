@@ -31,7 +31,7 @@ This is an open regulatory knowledge base for medical device compliance, maintai
 
 All content is:
 - **Bilingual**: Available in both Chinese and English
-- **Structured**: Stored as Markdown + JSON for machine consumption by [DocMCP](https://github.com/RASAAS/docmcp)
+- **Structured**: Stored as Markdown + JSON for machine consumption by [DocMCP](https://github.com/RASAAS/docmcp-knowledge)
 - **Verified**: Source URLs verified against official regulatory bodies
 - **Open**: Licensed under CC BY 4.0
 

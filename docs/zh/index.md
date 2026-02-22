@@ -31,7 +31,7 @@ features:
 
 所有内容均：
 - **双语**：提供中文和英文两个版本
-- **结构化**：以 Markdown + JSON 格式存储，可被 [DocMCP](https://github.com/RASAAS/docmcp) AI 工具直接消费
+- **结构化**：以 Markdown + JSON 格式存储，可被 [DocMCP](https://github.com/RASAAS/docmcp-knowledge) AI 工具直接消费
 - **已验证**：来源 URL 均针对官方机构验证
 - **开放**：以 CC BY 4.0 许可证授权
 
