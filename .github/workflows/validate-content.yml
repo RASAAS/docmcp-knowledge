@@ -1,0 +1,29 @@
+name: Validate Content on PR
+
+on:
+  pull_request:
+    branches: [main]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    name: Validate schemas and URLs
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests jsonschema pyyaml
+
+      - name: Validate JSON schemas
+        run: python scripts/validate_schema.py
+
+      - name: Verify changed URLs
+        run: python scripts/verify_urls.py --changed-only
+        env:
+          GITHUB_BASE_REF: ${{ github.base_ref }}
