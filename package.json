@@ -2,6 +2,7 @@
   "name": "docmcp-knowledge",
   "version": "1.0.0",
   "description": "Open regulatory knowledge base for medical device compliance",
+  "type": "module",
   "scripts": {
     "docs:dev": "cd docs && vitepress dev",
     "docs:build": "cd docs && vitepress build",
