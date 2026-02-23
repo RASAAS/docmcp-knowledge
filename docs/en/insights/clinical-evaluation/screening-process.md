@@ -19,7 +19,7 @@ effective_date: '2025-05-26'
 
 The literature screening process is described in the diagram below:
 
-> [Figure: Literature screening flowchart]
+![](/images/eu_mdr-mdcg/image-15.png)
 
 The screening process begins with reading the title and abstract of each record. Literature not relevant to the clinical evaluation scope will be directly excluded with a stated reason. If the title and abstract indicate that the content may be relevant to the subject device and/or comparator device, as well as the state of the art (applicable for EU MDR), the full text will be retrieved and assessed in detail according to the "Suitability and Contribution Assessment Criteria."
 

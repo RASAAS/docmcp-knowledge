@@ -63,9 +63,9 @@ Per MDR Article 83 and MDCG 2020-6:
 ### PubMed
 On the search results page, click **Send to**, select **Citation manager**, choose **All results**, and click **Create file** to download the **.nbib** file.
 
-> [Figure: PubMed export — Send to Citation manager]
+![](/images/eu_mdr-mdcg/image-16-1024x384.png) ![](/images/eu_mdr-mdcg/image-18-1024x388.png)
 
 ### Embase
 On the search results page, select all results, click **Export**, confirm the format is **RIS format**, and click **Export** to download the **.ris** file.
 
-> [Figure: Embase export — RIS format]
+![](/images/eu_mdr-mdcg/image-19-1024x175.png) ![](/images/eu_mdr-mdcg/image-20-1024x661.png)

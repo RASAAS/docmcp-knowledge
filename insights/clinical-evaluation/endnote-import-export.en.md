@@ -27,25 +27,27 @@ In EndNote X9, click **File → New** to create a **.enl** file to store and man
 
 Double-click the **.nbib** file; all PubMed references will be automatically imported. In **My Groups**, create a group named **PubMed #1** and drag all imported references into it.
 
-> [Figure: PubMed import into EndNote]
+![](/assets/images/eu_mdr-mdcg/image-1024x498.png) ![](/assets/images/eu_mdr-mdcg/image-1-1024x500.png)
 
 Double-click the **.ris** file; all Embase references will be automatically imported. Create a group named **Embase #2** and drag all imported references into it.
 
-> [Figure: Embase import into EndNote]
+![](/assets/images/eu_mdr-mdcg/image-2-1024x459.png) ![](/assets/images/eu_mdr-mdcg/image-3-1024x479.png)
 
 ## Deduplication
 
 From the top menu, select **References → Find Duplicates**. Confirm duplicates in the dialog and retain one copy of each.
 
-> [Figure: Find Duplicates dialog]
+![](/assets/images/eu_mdr-mdcg/image-6-1024x586.png)
 
 ## Export
 
 Select all references, then go to **File → Export**. Set the file type to **Text File (*.txt)** and export in **Author + Title + Abstract** format for subsequent AI-assisted screening.
 
-> [Figure: Export settings]
+![](/assets/images/eu_mdr-mdcg/image-7-1024x743.png)
 
 Open the exported **.txt** file in a text editor to view the complete reference list.
+
+![](/assets/images/eu_mdr-mdcg/image-8-1024x909.png)
 
 **Note**: To use this export format, create a new Output Style in EndNote. Name it (e.g., "Export Author-Year-Title-Abstract") and configure the **Bibliography → Templates** for the Generic reference type using:
 
