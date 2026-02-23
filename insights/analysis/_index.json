@@ -1,0 +1,357 @@
+{
+  "category": "insights/analysis",
+  "last_updated": "2026-02-23",
+  "count": 25,
+  "entries": [
+    {
+      "id": "insights-mdsw-gbt25000-51",
+      "title": {
+        "zh": "关于医疗器械软件和GB/T 25000.51测试",
+        "en": ""
+      },
+      "published_date": "2025-11-13",
+      "subcategory": "analysis",
+      "source_url": "https://reguverse.com/blog/mdsw-gbt25000-51/",
+      "excerpt": {
+        "zh": "根据医疗器械软件注册审查指导原则（2022年修订版）中的说明： GB/T 25000.51适用于医疗器械软件，其中“产品说明要求”、“用户文档集要求”适用于说明书，“软件质量要求”适用于软件本身，同时“使用质量”不适用。 注册申请人需在软件研究资料中提交GB/T 25000.51自测报告，亦可提交自检报告或检验报告代替自测报告…… 此要求并未明确GB/T 25000.51仅适用于独立软件（SaMD",
+        "en": ""
+      }
+    },
+    {
+      "id": "insights-hk-medical-device-regulatory-compliance",
+      "title": {
+        "zh": "香港医疗器械市场准入与监管合规：外国制造商战略指南",
+        "en": ""
+      },
+      "published_date": "2025-10-25",
+      "subcategory": "analysis",
+      "source_url": "https://reguverse.com/blog/hk-medical-device-regulatory-compliance/",
+      "excerpt": {
+        "zh": "香港特别行政区医疗器械监管环境 本部分详细介绍香港独特的、在正式立法前的自愿性管理体系，重点强调本地负责人（LRP）的关键作用，以及该体系对国际公认监管机构批准结果的依赖。 1.1. 监管框架：自愿性医疗器械行政管理制度（MDACS）与医疗仪器科（MDD） 1.1.1. 监管机构与体系 香港的医疗器械监管由卫生署下属的医疗仪器科（Medical Device Division, MDD）负责，该部",
+        "en": ""
+      }
+    },
+    {
+      "id": "insights-thailand-medical-device-regulatory-compliance",
+      "title": {
+        "zh": "泰国医疗器械市场准入与监管合规：外国制造商战略指南",
+        "en": ""
+      },
+      "published_date": "2025-10-25",
+      "subcategory": "analysis",
+      "source_url": "https://reguverse.com/blog/thailand-medical-device-regulatory-compliance/",
+      "excerpt": {
+        "zh": "泰国医疗器械监管环境 本部分深入探讨泰国强制性、依法执行的监管体系，重点介绍其与区域标准的接轨情况以及外国制造商在合规方面面临的具体挑战。 1.1. 监管框架：泰国食品药品监督管理局（Thai FDA）与《医疗器械法》 1.1.1. 监管机构与法律基础 泰国医疗器械的主要监管机构是医疗器械控制司（Medical Device Control Division, MDCD），该机构隶属于泰国食品药品",
+        "en": ""
+      }
+    },
+    {
+      "id": "insights-pdf-translation-tool",
+      "title": {
+        "zh": "构建智能化PDF文档翻译平台：从痛点到解决方案",
+        "en": ""
+      },
+      "published_date": "2025-10-21",
+      "subcategory": "analysis",
+      "source_url": "https://reguverse.com/blog/pdf-translation-tool/",
+      "excerpt": {
+        "zh": "一个面向专业场景的文档翻译系统的架构设计与工程实践 一、背景：文档翻译的困境 在全球化业务中，跨语言文档处理是一个永恒的痛点。传统的解决方案往往面临以下挑战： 1.1 质量与效率的矛盾 1.2 格式保持的难题 PDF作为最常见的文档格式，其排版信息的提取和保持一直是技术难点： 1.3 专业场景的特殊需求 二、解决方案：智能化翻译平台 基于以上痛点，我们构建了一个智能化PDF文档翻译平台，将大语言模",
+        "en": ""
+      }
+    },
+    {
+      "id": "insights-new-standards",
+      "title": {
+        "zh": "标准发布",
+        "en": ""
+      },
+      "published_date": "2025-09-17",
+      "subcategory": "analysis",
+      "source_url": "https://reguverse.com/nmpa-update/cn-stds/new-standards/",
+      "excerpt": {
+        "zh": "2025年第106号公告 序号 标准编号 标准名称 制修订 替代标准 适用范围 实施日期建议 备注 1 YY/T 0910.2—2025 医用电气设备 医学影像显示系统 第2部分：医学影像显示系统的验收和稳定性试验 制定 / 本文件规定了验收试验和稳定性试验的实施准则和测试频率。IEC 62563-1中规定了评价方法。本文件的范围针对可使用基本测试工具进行目视评价或试验测量的实际测试。本文件适用于",
+        "en": ""
+      }
+    },
+    {
+      "id": "insights-std-update",
+      "title": {
+        "zh": "标准修改",
+        "en": ""
+      },
+      "published_date": "2025-09-12",
+      "subcategory": "analysis",
+      "source_url": "https://reguverse.com/nmpa-update/cn-stds/std-update/",
+      "excerpt": {
+        "zh": "2025年第81号公告 YY/T 0661—2017《外科植入物 半结晶型聚丙交酯聚合物和共聚物树脂》医疗器械行业标准第1号修改单 （发布后12个月实施） 一、1 范围 增加： “1.5 本文件不适用于由半结晶型聚丙交酯聚合物和共聚物树脂材料加工的制品。因此本文件对生物相容性测试不做要求。” 二、5.2.2.2 表1 原生半结晶型聚丙交酯均聚物和聚丙交酯基共聚物树脂的物理化学性能要求 分析物 单体",
+        "en": ""
+      }
+    },
+    {
+      "id": "insights-eu-mdr-udi",
+      "title": {
+        "zh": "EU MDR下的UDI实施操作指南",
+        "en": ""
+      },
+      "published_date": "2025-06-03",
+      "subcategory": "analysis",
+      "source_url": "https://reguverse.com/compliance-topics/eu-mdr-udi/",
+      "excerpt": {
+        "zh": "目的: 本指南旨在为医疗器械制造商（特别是对欧盟法规尚不熟悉的制造商）提供一个清晰、分步的操作流程，以正确实施唯一器械标识（UDI）系统，确保符合EU MDR及GS1标准。 第一部分：UDI核心概念解析 在开始操作前，必须清晰地区分UDI系统的三个核心组成部分。混淆这三者是制造商最常犯的错误。 概念 Basic UDI-DI (基础UDI-DI) UDI-DI (器械识别码) UDI-PI (生产",
+        "en": ""
+      }
+    },
+    {
+      "id": "insights-gspr-10_4_1-and-cmr",
+      "title": {
+        "zh": "GSPR 10.4.1与CMR",
+        "en": ""
+      },
+      "published_date": "2025-05-15",
+      "subcategory": "analysis",
+      "source_url": "https://reguverse.com/compliance-topics/gspr-10_4_1-and-cmr/",
+      "excerpt": {
+        "zh": "欧盟MDR GSPR 10.4.1与CMR物质的重要性 自2021年5月26日起施行的欧盟医疗器械法规 (MDR) (Regulation (EU) 2017/745) 代表了在欧洲市场销售的医疗器械监管领域的一次重大变革。1 该法规旨在通过有效运作医疗器械内部市场，建立一个健全且透明的框架，以确保对患者、用户和其他个人的健康和安全提供高水平的保护。2 与之前的医疗器械指令 (93/42/EEC)",
+        "en": ""
+      }
+    },
+    {
+      "id": "insights-clean-room-iso-14698-and-en-17141",
+      "title": {
+        "zh": "洁净室合规性标准 ISO 14698 与 EN 17141 的选择困境",
+        "en": ""
+      },
+      "published_date": "2025-04-25",
+      "subcategory": "analysis",
+      "source_url": "https://reguverse.com/blog/clean-room-iso-14698-and-en-17141/",
+      "excerpt": {
+        "zh": "历史背景与标准演进 ISO/TC 209 的成立与使命： 近 30 年前，国际标准化组织（ISO）成立了技术委员会 TC 209（洁净室及相关受控环境），旨在为全球使用这些特殊制造环境的行业制定国际标准，以最大限度地减少各类污染。 ISO 14644 系列（非生物粒子）： TC 209 的第一个工作组（WG1）专注于基于空气中非生物粒子浓度的洁净室环境分级，制定了 ISO 14644 系列标准。 ",
+        "en": ""
+      }
+    },
+    {
+      "id": "insights-cp-2020-vs-2025-part4-general-1105-1106",
+      "title": {
+        "zh": "中国药典2020年版与2025年版通则1105和1106实质性差异对比检查",
+        "en": ""
+      },
+      "published_date": "2025-04-23",
+      "subcategory": "analysis",
+      "source_url": "https://reguverse.com/nmpa-update/cp-2020-vs-2025-part4-general-1105-1106/",
+      "excerpt": {
+        "zh": "1\\. 引言 本报告旨在对比分析《中国药典》2020年版通则1105《非无菌产品微生物限度检查：微生物计数法》和通则1106《非无菌产品微生物限度检查：控制菌检查法》与2025年版相应通则在方法和要求上的差异，以判断是否存在实质性变化。 2. 对比方法 本报告基于上述两项要求进行逐条逐款对比。实质性差异的判断主要依据检验原理、核心操作步骤、关键参数、判定标准或强制性要求的改变。 [A2]仅涉及文字",
+        "en": ""
+      }
+    },
+    {
+      "id": "insights-residual-risk-and-information-in-ifu",
+      "title": {
+        "zh": "医疗器械中剩余风险的概念及其在风险管理和说明书编写中的意义",
+        "en": ""
+      },
+      "published_date": "2025-03-30",
+      "subcategory": "analysis",
+      "source_url": "https://reguverse.com/blog/residual-risk-and-information-in-ifu/",
+      "excerpt": {
+        "zh": "引言：医疗器械中剩余风险难题的界定 在实施风险控制措施后，风险已降至可接受程度时，是否仍然属于剩余风险？如果所有风险都成为剩余风险，是否需要在医疗器械的使用说明书中告知用户所有剩余风险，从而导致说明书内容充斥着警告信息？解决这一疑问对于确保医疗器械的监管合规性和用户安全至关重要。清晰的定义和风险管理原则的统一应用对于符合监管要求和保障用户安全至关重要 1。此问题揭示了对风险控制措施的层级性质以及标",
+        "en": ""
+      }
+    },
+    {
+      "id": "insights-abolished-standards",
+      "title": {
+        "zh": "废止标准",
+        "en": ""
+      },
+      "published_date": "2025-03-24",
+      "subcategory": "analysis",
+      "source_url": "https://reguverse.com/nmpa-update/cn-stds/abolished-standards/",
+      "excerpt": {
+        "zh": "2025年第80号公告 序号 标准编号 标准名称 废止日期 1 YY/T 1000.1—2005 医疗器械行业标准的制定 第1部分：阶段划分、代码和程序 自公告发布之日起废止 2 YY/T 1000.2—2005 医疗器械行业标准的制定 第2部分：工作指南 自公告发布之日起废止 3 YY/T  0869.1—2016 医疗器械 不良事件分级编码结构 第1部分：事件类型编码 自公告发布之日起废止 4",
+        "en": ""
+      }
+    },
+    {
+      "id": "insights-nmpa-2025-30-notice",
+      "title": {
+        "zh": "医疗器械产业本土化转型的助推剂：国家药监局2025年第30号公告深度解析",
+        "en": ""
+      },
+      "published_date": "2025-03-18",
+      "subcategory": "analysis",
+      "source_url": "https://reguverse.com/blog/nmpa-2025-30-notice/",
+      "excerpt": {
+        "zh": "公告原文及官方解读： https://www.nmpa.gov.cn/xxgk/ggtg/ylqxggtg/ylqxqtggtg/20250318152218159.html https://www.nmpa.gov.cn/xxgk/zhcjd/zhcjdylqx/20250318152833181.html 政策背景与意义 国家药监局最新发布的2025年第30号公告，对2020年第104号公告进",
+        "en": ""
+      }
+    },
+    {
+      "id": "insights-iso-13485-qms-best-practice",
+      "title": {
+        "zh": "ISO 13485质量管理体系的深度解析与卓越实践",
+        "en": ""
+      },
+      "published_date": "2025-01-01",
+      "subcategory": "analysis",
+      "source_url": "https://reguverse.com/compliance-topics/iso-13485-qms-best-practice/",
+      "excerpt": {
+        "zh": "引言 在医疗器械行业，质量不仅仅是一个目标，更是确保患者安全的基石。ISO 13485标准提供了一个系统性的质量管理框架，但真正的挑战在于如何将这个框架转化为有效的实践。本文将深入探讨质量管理体系的核心要素及其实施要点，为医疗器械制造商提供实践指导。 一、设计控制：质量的源头管理 设计控制是质量管理体系中最为关键的环节之一。有效的设计控制始于用户需求的准确理解和转化。制造商需要建立一个结构化的需求",
+        "en": ""
+      }
+    },
+    {
+      "id": "insights-cybersecurity-lifecycle",
+      "title": {
+        "zh": "网络安全生命周期",
+        "en": ""
+      },
+      "published_date": "2024-12-22",
+      "subcategory": "analysis",
+      "source_url": "https://reguverse.com/compliance-topics/cybersecurity/cybersecurity-lifecycle/",
+      "excerpt": {
+        "zh": "网络安全合规过程可分为上市前和上市后两类活动。上市前阶段包含两个主要工作：安全架构和设计与开发。 上市前 – 安全架构阶段： 上市前 – 设计与开发阶段： 上市后活动： 此外，还有其他各种活动和输出文档，本文希望您对确保安全和合规设计所需开展的活动有一个基本的了解。网络安全属于风险管理的更大范畴。评估网络安全威胁和漏洞的最终目标是理解它们给医疗器械（及其连接的系统）带来的风险以及可能造成的危害。I",
+        "en": ""
+      }
+    },
+    {
+      "id": "insights-ai-translator",
+      "title": {
+        "zh": "医疗器械合规文件翻译助手使用指南",
+        "en": ""
+      },
+      "published_date": "2024-12-21",
+      "subcategory": "analysis",
+      "source_url": "https://reguverse.com/ai-assistants/ai-translator/",
+      "excerpt": {
+        "zh": "一、产品简介 医疗器械合规文件翻译助手是一款专门面向医疗器械行业的专业翻译工具，专注于法规文件、技术文档、质量体系文件等的中英互译。本 AI 助手基于深度理解法规背景的原则，确保翻译结果既准确传达原文含义，又符合目标语言的合规要求。 二、核心功能 1. 专业术语管理 2. 法规背景感知 3. 文档处理能力 4. 质量保证机制 三、使用指南 1. 基础使用 2. 进阶功能 3. 最佳实践 四、注意事",
+        "en": ""
+      }
+    },
+    {
+      "id": "insights-2024-120",
+      "title": {
+        "zh": "国家药监局关于发布34项医疗器械行业标准的公告（2024年第120号）",
+        "en": ""
+      },
+      "published_date": "2024-10-25",
+      "subcategory": "analysis",
+      "source_url": "https://reguverse.com/nmpa-update/cn-stds/2024-120/",
+      "excerpt": {
+        "zh": "序号 标准编号 标准名称 制修订 替代标准 适用范围 实施日期 1 YY 0271.2—2024 牙科学 水基水门汀 第2部分：树脂改性水门汀 修订 YY 0271.2—2016 本文件规定了用于粘固、垫底或衬层、修复和牙齿桩核制作的树脂改性水门汀的要求，描述了相应的试验方法。本文件适用于通过多种反应（包括酸碱反应和聚合反应）联合实现固化的树脂改性水基水门汀。例如，传统的聚链烯酸盐玻璃离子水门汀通",
+        "en": ""
+      }
+    },
+    {
+      "id": "insights-2024-92",
+      "title": {
+        "zh": "国家药监局关于发布36项医疗器械行业标准的公告（2024年第92号）",
+        "en": ""
+      },
+      "published_date": "2024-09-23",
+      "subcategory": "analysis",
+      "source_url": "https://reguverse.com/nmpa-update/cn-stds/2024-92/",
+      "excerpt": {
+        "zh": "序号 标准编号 标准名称 制修订 替代标准 适用范围 实施日期 1 YY 0117.1—2024 外科植入物 骨关节假体锻、铸件 第1部分： Ti6Al4V钛合金锻件 修订 YY 0117.1—2005 本文件规定了用外科植入物Ti6Al4V钛合金加工材制造外科植入物骨关节假体锻件的要求、检验规则、质量证明、标记、包装、运输和贮存，描述了相应的试验方法。本文件适用于骨关节假体Ti6Al4V钛合金锻",
+        "en": ""
+      }
+    },
+    {
+      "id": "insights-usability-explanation",
+      "title": {
+        "zh": "医疗器械可用性工程注册审查指导原则的应用说明",
+        "en": ""
+      },
+      "published_date": "2024-03-26",
+      "subcategory": "analysis",
+      "source_url": "https://reguverse.com/blog/usability-explanation/",
+      "excerpt": {
+        "zh": "一、对于拟申请注册的医疗器械产品，高使用风险医疗器械按照目录（详见附件，均为第三类医疗器械）管理，列入目录的产品提交可用性工程研究报告。对于其余第二、三类医疗器械，若相应产品指导原则有可用性或可用性相关要求（如模拟使用等），则按其要求提交相应注册申报资料；其他情况均按照中、低使用风险医疗器械要求提交使用错误评估报告。 二、对于已注册的医疗器械产品，变更注册无需补充变更前产品的可用性工程研究资料；若",
+        "en": ""
+      }
+    },
+    {
+      "id": "insights-sterile-and-chemical-characteristics-testing",
+      "title": {
+        "zh": "无菌和化学性能检验样品数量",
+        "en": ""
+      },
+      "published_date": "2023-12-14",
+      "subcategory": "analysis",
+      "source_url": "https://reguverse.com/blog/sterile-and-chemical-characteristics-testing/",
+      "excerpt": {
+        "zh": "无菌测试 按《中国药典》2020版四部通则1101无菌检查法中规定的直接接种法，使用金黄色葡萄球菌进行检测。 样品准备至少三套。按型号准备，不考虑每套中的产品数量。 化学性能 取样品，按0.2g样品加1ml的比例加水，37℃±1℃条件下，浸提24h，将样品与液体分离，冷至室温，作为检验液。 上述项目共计需要浸提液250mL，按配比计算需样品至少50克。",
+        "en": ""
+      }
+    },
+    {
+      "id": "insights-marking-requirements",
+      "title": {
+        "zh": "有源医疗器械外部标记要求",
+        "en": ""
+      },
+      "published_date": "2023-12-09",
+      "subcategory": "analysis",
+      "source_url": "https://reguverse.com/blog/marking-requirements/",
+      "excerpt": {
+        "zh": "要求来源：GB 9706.1-2020 / IEC 60601-1: 2012；医疗器械说明书和标签管理规定 最低要求（7.2.1）：如果ME设备、部件或附件的尺寸或外壳特征不准许将规定的标记全部标上，则至少应标上下列标记。而其余的标记应在随附文件（如：说明书）中完整地记载。无法做标记的ME设备，这些标记可以贴在独立的包装上。 如果ME设备预期接收来自ME系统中其他电气设备的电能，且依赖其他电气设",
+        "en": ""
+      }
+    },
+    {
+      "id": "insights-gb-9706-1-2020%e5%8f%8a%e9%85%8d%e5%a5%97%e5%b9%b6%e5%88%97%e6%a0%87%e5%87%86%e3%80%81%e4%b8%93%e7%94%a8%e6%a0%87%e5%87%86%e5%ae%9e%e6%96%bd%e5%85%ac%e5%91%8a",
+      "title": {
+        "zh": "GB 9706.1-2020及配套并列标准、专用标准实施公告",
+        "en": ""
+      },
+      "published_date": "2023-12-03",
+      "subcategory": "analysis",
+      "source_url": "https://reguverse.com/blog/gb-9706-1-2020%e5%8f%8a%e9%85%8d%e5%a5%97%e5%b9%b6%e5%88%97%e6%a0%87%e5%87%86%e3%80%81%e4%b8%93%e7%94%a8%e6%a0%87%e5%87%86%e5%ae%9e%e6%96%bd%e5%85%ac%e5%91%8a/",
+      "excerpt": {
+        "zh": "NMPA在3月16日正式发布电气安全系列标准第三版的实施方式，详见全文链接。 目前已发布的GB 9706.1-2020及配套并列标准、专用标准清单 序号 标准编号 标准名称 实施日期 代替标准编号 标准类型 1 GB 9706.1-2020 医用电气设备 第1部分：基本安全和基本性能的通用要求 2023年5月1日 GB 9706.1-2007，GB 9706.15-2008，YY/T 0708-2",
+        "en": ""
+      }
+    },
+    {
+      "id": "insights-%e7%bd%91%e5%bc%8f%e9%9b%be%e5%8c%96%e5%99%a8%e8%ae%be%e8%ae%a1%e6%8a%80%e6%9c%af%e5%8f%82%e6%95%b0",
+      "title": {
+        "zh": "网式雾化器设计技术参数",
+        "en": ""
+      },
+      "published_date": "2023-03-21",
+      "subcategory": "analysis",
+      "source_url": "https://reguverse.com/blog/%e7%bd%91%e5%bc%8f%e9%9b%be%e5%8c%96%e5%99%a8%e8%ae%be%e8%ae%a1%e6%8a%80%e6%9c%af%e5%8f%82%e6%95%b0/",
+      "excerpt": {
+        "zh": "参考：网式雾化器注册审查指导原则 指导原则中未明确的要求 （三）非临床资料 – 2\\. 产品技术要求 2.3 应规定工作时液体容器内药液的温升，并在研究资料中说明确定该温升的理由，尤其应关注在液体容器最低装量及以下时的药液温升。 问题说明：“药液温升”在指导原则中仅出现在上述技术要求的要求中，无其他任何解释性、技术性、参考性描述。中文互联网资源中无法有效获取任何关于“网式雾化器药液温升”的信息。产",
+        "en": ""
+      }
+    },
+    {
+      "id": "insights-writing-cer",
+      "title": {
+        "zh": "如何撰写临床评价报告：IMDRF临床评价指南（2019）",
+        "en": ""
+      },
+      "published_date": "2023-01-29",
+      "subcategory": "analysis",
+      "source_url": "https://reguverse.com/blog/writing-cer/",
+      "excerpt": {
+        "zh": "简介 临床评价报告（CER）是一种提供医疗设备安全性和性能信息的文件。CER由国际医疗设备监管机构论坛（IMDRF）指导评估设备的安全性和性能。IMDRF临床评价指南（2019年版）提供了详细的关于CER编写的指导。 这些指南提供了编写CER的全面要求，包括内容、格式和结构的要求。指南还提供了关于选择适当临床证据、编写风险管理计划以及评估设备的临床安全性和性能的详细指导。 CER编写方法 编写CE",
+        "en": ""
+      }
+    },
+    {
+      "id": "insights-state-of-the-art",
+      "title": {
+        "zh": "现有技术水平(State-of-the-art)",
+        "en": ""
+      },
+      "published_date": "2023-01-27",
+      "subcategory": "analysis",
+      "source_url": "https://reguverse.com/blog/state-of-the-art/",
+      "excerpt": {
+        "zh": "在医疗领域，医疗器械是治疗和诊断疾病的关键工具。在整个器械的生命周期中，需要采取各种措施来确保器械的安全性和有效性。本文将详细介绍器械的研发、生产、使用和维护过程中需要注意的现有技术水平。 现有技术水平，也称为最先进技术水平，是指当前在某一领域中可用的最新技术或最先进的技术。在医疗领域中，现有技术水平可以指医疗器械、诊断方法、治疗方法等。这些技术具有最高的精度和效率，能够提高医疗质量并减少误诊和并",
+        "en": ""
+      }
+    }
+  ]
+}

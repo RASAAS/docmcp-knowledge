@@ -40,13 +40,21 @@ effective_date: '2025-04-19'
 
 产品通常由外壳、滤芯（如有）、热湿交换介质和接口等组成。
 
+![](/assets/images/nmpa-guidance/image-10-3.png)
+
+![](/assets/images/nmpa-guidance/image-11-1.png)
+
 图1
 
 1-机器端口；2-辅助端口；3-外壳；4-热湿交换介质；5-患者端口
 
+![](/assets/images/nmpa-guidance/image-12-2.png)
+
 图2
 
 1-患者端口；2-外壳；3-热湿交换介质；4 -机器端口
+
+![](/assets/images/nmpa-guidance/image-13-2.png)
 
 图3
 

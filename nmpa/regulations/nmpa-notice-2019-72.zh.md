@@ -45,4 +45,4 @@ effective_date: '2025-04-20'
 国家药监局  
 2019年10月12日
 
-[国家药品监督管理局2019年第72号通告附件.doc](<https://www.cmde.org.cn/directory/web/cmde/images/1700014403972033293.doc>)
+![](https://www.cmde.org.cn/directory/web/fileTypeImages/icon_doc.gif)[国家药品监督管理局2019年第72号通告附件.doc](<https://www.cmde.org.cn/directory/web/cmde/images/1700014403972033293.doc>)

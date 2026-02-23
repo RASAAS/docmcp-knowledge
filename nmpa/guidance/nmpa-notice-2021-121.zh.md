@@ -24,20 +24,20 @@ effective_date: '2025-04-20'
 
 特此公告。
 
-附件：1.[中华人民共和国医疗器械注册证（格式）.doc](<https://www.cmde.org.cn/directory/web/cmde/images/1tC7qsjLwG5srrNufrSvcHGxvfQtdeisuHWpKOouPHKvaOp0MIuZG9j.doc>)
+附件：1.![](https://www.cmde.org.cn/directory/web/fileTypeImages/icon_doc.gif)[中华人民共和国医疗器械注册证（格式）.doc](<https://www.cmde.org.cn/directory/web/cmde/images/1tC7qsjLwG5srrNufrSvcHGxvfQtdeisuHWpKOouPHKvaOp0MIuZG9j.doc>)
 
-2.[中华人民共和国医疗器械变更注册（备案）文件（格式）.doc](<https://www.cmde.org.cn/directory/web/cmde/images/1tC7qsjLwG5srrNufrSvcHGxvfQtbHkuPzXorLho6ixuLC4o6nOxLz+o6i48cq9o6nQwi5kb2M=.doc>)
+2.![](https://www.cmde.org.cn/directory/web/fileTypeImages/icon_doc.gif)[中华人民共和国医疗器械变更注册（备案）文件（格式）.doc](<https://www.cmde.org.cn/directory/web/cmde/images/1tC7qsjLwG5srrNufrSvcHGxvfQtbHkuPzXorLho6ixuLC4o6nOxLz+o6i48cq9o6nQwi5kb2M=.doc>)
 
-3.[国家药品监督管理局医疗器械临床试验审批意见单（格式）.doc](<https://www.cmde.org.cn/directory/web/cmde/images/ufq80tKpxre84La9udzA7b7W0r3Bxsb30LXB2bSyytTR6cnzxfrS4rz7taWjqLjxyr2jqdDCLmRvYw==.doc>)
+3.![](https://www.cmde.org.cn/directory/web/fileTypeImages/icon_doc.gif)[国家药品监督管理局医疗器械临床试验审批意见单（格式）.doc](<https://www.cmde.org.cn/directory/web/cmde/images/ufq80tKpxre84La9udzA7b7W0r3Bxsb30LXB2bSyytTR6cnzxfrS4rz7taWjqLjxyr2jqdDCLmRvYw==.doc>)
 
-4.[医疗器械注册申报资料和批准证明文件格式要求.doc](<https://www.cmde.org.cn/directory/web/cmde/images/0r3Bxsb30LXXorLhyeqxqNfKwc+6zcX617zWpMP3zsS8rjxyr3Sqsfz0MIuZG9j.doc>)
+4.![](https://www.cmde.org.cn/directory/web/fileTypeImages/icon_doc.gif)[医疗器械注册申报资料和批准证明文件格式要求.doc](<https://www.cmde.org.cn/directory/web/cmde/images/0r3Bxsb30LXXorLhyeqxqNfKwc+6zcX617zWpMP3zsS8rjxyr3Sqsfz0MIuZG9j.doc>)
 
-5.[医疗器械注册申报资料要求及说明.doc](<https://www.cmde.org.cn/directory/web/cmde/images/0r3Bxsb30LXXorLhyeqxqNfKwcSqsfzvLDLtcP30MIuZG9j.doc>)
+5.![](https://www.cmde.org.cn/directory/web/fileTypeImages/icon_doc.gif)[医疗器械注册申报资料要求及说明.doc](<https://www.cmde.org.cn/directory/web/cmde/images/0r3Bxsb30LXXorLhyeqxqNfKwcSqsfzvLDLtcP30MIuZG9j.doc>)
 
-6.[医疗器械延续注册申报资料要求及说明.doc](<https://www.cmde.org.cn/directory/web/cmde/images/0r3Bxsb30LXR09D416Ky4cnqsajXysHP0qrH87ywy7XD99DCLmRvYw==.doc>)
+6.![](https://www.cmde.org.cn/directory/web/fileTypeImages/icon_doc.gif)[医疗器械延续注册申报资料要求及说明.doc](<https://www.cmde.org.cn/directory/web/cmde/images/0r3Bxsb30LXR09D416Ky4cnqsajXysHP0qrH87ywy7XD99DCLmRvYw==.doc>)
 
-7.[医疗器械变更备案/变更注册申报资料要求及说明.doc](<https://www.cmde.org.cn/directory/web/cmde/images/0r3Bxsb30LWx5Lj8sbiwuF+x5Lj816Ky4cnqsajXysHP0qrH87ywy7XD99DCLmRvYw==.doc>)
+7.![](https://www.cmde.org.cn/directory/web/fileTypeImages/icon_doc.gif)[医疗器械变更备案/变更注册申报资料要求及说明.doc](<https://www.cmde.org.cn/directory/web/cmde/images/0r3Bxsb30LWx5Lj8sbiwuF+x5Lj816Ky4cnqsajXysHP0qrH87ywy7XD99DCLmRvYw==.doc>)
 
-8.[医疗器械临床试验审批申报资料要求及说明.doc](<https://www.cmde.org.cn/directory/web/cmde/images/0r3Bxsb30LXB2bSyytTR6cnzxfrJ6rGo18rBz9KqxO8sMu1wfQwi5kb2M=.doc>)
+8.![](https://www.cmde.org.cn/directory/web/fileTypeImages/icon_doc.gif)[医疗器械临床试验审批申报资料要求及说明.doc](<https://www.cmde.org.cn/directory/web/cmde/images/0r3Bxsb30LXB2bSyytTR6cnzxfrJ6rGo18rBz9KqxO8sMu1wfQwi5kb2M=.doc>)
 
-9.[医疗器械安全和性能基本原则清单.doc](<https://www.cmde.org.cn/directory/web/cmde/images/0r3Bxsb30LWwssirus3Q1MTcumxvtSt1PLH5bWl0MIuZG9j.doc>)
+9.![](https://www.cmde.org.cn/directory/web/fileTypeImages/icon_doc.gif)[医疗器械安全和性能基本原则清单.doc](<https://www.cmde.org.cn/directory/web/cmde/images/0r3Bxsb30LWwssirus3Q1MTcumxvtSt1PLH5bWl0MIuZG9j.doc>)

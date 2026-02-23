@@ -48,6 +48,14 @@ effective_date: '2025-04-19'
 
 一次性使用引流管通常由管体和接头组成，有的根据需要会配有穿透针、负压球（或预置负压装置）。管体远端（病人端）可带有一个或数个侧孔，病人端也可以是“T”形、“蘑菇头”形、Y型或潘氏型（管腔内设计有数条纵向突起的脊）等。产品所用材料有天然乳胶、硅橡胶、TPU[热塑性聚氨酯弹性体(Thermoplasticpolyurethane)]和PVC（聚氯乙烯）等。典型产品外形结构见图1。
 
+![](/assets/images/nmpa-guidance/image-10.png)
+
+![](/assets/images/nmpa-guidance/image-11.png)
+
+![](/assets/images/nmpa-guidance/image-12.png)
+
+![](/assets/images/nmpa-guidance/image-13.png)
+
 图1  引流管种类举例
 
 ### （三）产品的工作原理

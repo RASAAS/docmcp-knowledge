@@ -66,4 +66,4 @@ effective_date: '2025-04-20'
 
 附件：第三批实施医疗器械唯一标识的产品目录
 
-[第三批实施医疗器械唯一标识的产品目录.docx](<https://www.cmde.org.cn/directory/web/cmde/images/1676879788687004779.docx>)
+![](https://www.cmde.org.cn/directory/web/fileTypeImages/icon_doc.gif)[第三批实施医疗器械唯一标识的产品目录.docx](<https://www.cmde.org.cn/directory/web/cmde/images/1676879788687004779.docx>)

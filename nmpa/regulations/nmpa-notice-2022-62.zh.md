@@ -62,12 +62,12 @@ effective_date: '2025-04-20'
 
 附件：
 
-[第一类医疗器械备案资料要求及说明.docx](<https://www.cmde.org.cn/directory/web/cmde/images/1660271285991089080.docx>)
+![](https://www.cmde.org.cn/directory/web/fileTypeImages/icon_doc.gif)[第一类医疗器械备案资料要求及说明.docx](<https://www.cmde.org.cn/directory/web/cmde/images/1660271285991089080.docx>)
 
-[第一类医疗器械备案表（格式）.docx](<https://www.cmde.org.cn/directory/web/cmde/images/1660271299473090074.docx>)
+![](https://www.cmde.org.cn/directory/web/fileTypeImages/icon_doc.gif)[第一类医疗器械备案表（格式）.docx](<https://www.cmde.org.cn/directory/web/cmde/images/1660271299473090074.docx>)
 
-[第一类医疗器械备案编号告知书.docx](<https://www.cmde.org.cn/directory/web/cmde/images/1660271308233073397.docx>)
+![](https://www.cmde.org.cn/directory/web/fileTypeImages/icon_doc.gif)[第一类医疗器械备案编号告知书.docx](<https://www.cmde.org.cn/directory/web/cmde/images/1660271308233073397.docx>)
 
-[第一类医疗器械备案信息表和第一类体外诊断试剂备案信息表.docx](<https://www.cmde.org.cn/directory/web/cmde/images/1660271317065098036.docx>)
+![](https://www.cmde.org.cn/directory/web/fileTypeImages/icon_doc.gif)[第一类医疗器械备案信息表和第一类体外诊断试剂备案信息表.docx](<https://www.cmde.org.cn/directory/web/cmde/images/1660271317065098036.docx>)
 
-[第一类医疗器械备案操作规范.docx](<https://www.cmde.org.cn/directory/web/cmde/images/1660271327595003724.docx>)
+![](https://www.cmde.org.cn/directory/web/fileTypeImages/icon_doc.gif)[第一类医疗器械备案操作规范.docx](<https://www.cmde.org.cn/directory/web/cmde/images/1660271327595003724.docx>)

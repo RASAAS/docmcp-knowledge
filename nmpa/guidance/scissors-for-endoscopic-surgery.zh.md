@@ -104,17 +104,29 @@ effective_date: '2025-09-17'
 
 该产品通常由头部、杆部或软性导管、转轮（若有）、冲洗口（若有）和手柄组成，头部为一对带刃口的刀片，通过手柄操作传递、控制头部工作。一般头部采用不锈钢材料制成。
 
+![](/assets/images/nmpa-guidance/屏幕截图-2025-09-17-192723.png)
+
 图1 内窥镜手术用剪结构组成示例
 
 无源内窥镜用剪典型产品的外形结构图如下：
 
+![](/assets/images/nmpa-guidance/屏幕截图-2025-09-17-192747.png)
+
 图2 鼻窦镜手术剪示意图
+
+![](/assets/images/nmpa-guidance/image-12-1.png)
 
 图3 腹腔镜手术剪示意图
 
+![](/assets/images/nmpa-guidance/image-13-1.png)
+
 图4 膀胱镜手术剪示意图
 
+![](/assets/images/nmpa-guidance/image-14.png)
+
 图5 电子膀胱镜手术剪示意图
+
+![](/assets/images/nmpa-guidance/image-15.png)
 
 图6 刀头示意图
 

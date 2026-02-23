@@ -74,6 +74,10 @@ effective_date: '2025-05-26'
 
 在检索返回的文献列表页面，点击Send to，选择Citation manager，然后在弹出的创建文件选项菜单中选择All results，最后点击Create file按钮下载**.nbib** 文件。
 
+![](/assets/images/eu_mdr-mdcg/image-16-1024x384.png) ![](/assets/images/eu_mdr-mdcg/image-18-1024x388.png)
+
 ### Embase
 
 在检索返回的文献列表页面，选择完整的文献数量，然后点击Export。在弹出的界面确认导出格式为RIS format，点击右下角的Export按钮下载**.ris** 文件。
+
+![](/assets/images/eu_mdr-mdcg/image-19-1024x175.png) ![](/assets/images/eu_mdr-mdcg/image-20-1024x661.png)

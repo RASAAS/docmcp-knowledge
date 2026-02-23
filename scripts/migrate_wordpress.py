@@ -97,7 +97,7 @@ class WordPressMigrator:
         })
         self.h2t = html2text.HTML2Text()
         self.h2t.ignore_links = False
-        self.h2t.ignore_images = True
+        self.h2t.ignore_images = False
         self.h2t.body_width = 0
         self.h2t.protect_links = True
         self.h2t.unicode_snob = True

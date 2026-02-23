@@ -224,7 +224,11 @@ effective_date: '2025-04-20'
 
 6.2.1 个例医疗器械不良事件报告流程图
 
+![](/assets/images/nmpa-guidance/image-60.png)
+
 6.2.2 群体医疗器械不良事件报告流程图
+
+![](/assets/images/nmpa-guidance/image-61.png)
 
 ## 附件1 《注册人医疗器械不良事件报告表》填报说明
 

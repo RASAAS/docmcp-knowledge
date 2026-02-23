@@ -64,9 +64,15 @@ effective_date: '2025-04-19'
 
 产品可由进氧接口、氧气软管、调节环、鼻塞（或面罩）及氧气湿化装置等组成。
 
+![](/assets/images/nmpa-guidance/image-38-1.png)
+
 **图****1**
 
+![](/assets/images/nmpa-guidance/image-37-1.png)
+
 **图****2**
+
+![](/assets/images/nmpa-guidance/image-39-1.png)
 
 **图****3**
 

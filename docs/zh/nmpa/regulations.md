@@ -1,31 +1,40 @@
 ---
-title: NMPA 法规文本
+title: NMPA 法规规章
+generated: '2026-02-23'
+doc_count: 25
 ---
 
-# NMPA 医疗器械法规
+# NMPA 法规规章
 
-## 主要立法
+<!-- AUTO-GENERATED: do not edit below this line -->
 
-| 文件 | 年份 | 链接 |
-|------|------|------|
-| 医疗器械监督管理条例（国务院令第739号） | 2021 | [中国政府网](https://www.gov.cn/zhengce/zhengceku/2021-03/18/content_5593739.htm) |
-| 医疗器械注册与备案管理办法（第47号令） | 2021 | [samr.gov.cn](https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2023/art_568880e3ee344c45b38d073bba1c53ad.html) |
-| 医疗器械生产监督管理办法（第53号令） | 2022 | [samr.gov.cn](https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2023/art_fc2666aec99f4b5d996faa13c4aed7a3.html) |
-| 医疗器械经营监督管理办法（第54号令） | 2022 | [samr.gov.cn](https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2023/art_51afc62ef3c84455b28b113a628f9e35.html) |
+> 共 **25** 篇文档，最后更新：2026-02-23
 
-## 质量管理
+| 文档名称 | 文号 | 发布年份 |
+|----------|------|----------|
+| [医疗器械出口销售证明管理规定](/nmpa/regulations/fsc) |  | 2025 |
+| [医疗器械生产质量管理规范(2025年版)](/nmpa/regulations/gmp-2025) |  | 2025 |
+| [医疗器械生产质量管理规范（2014年版）](/nmpa/regulations/nmpa-2014-64) |  | 2025 |
+| [免于进行临床评价医疗器械目录（2025年）](/nmpa/regulations/clinical-evaluation-exemption-list-2025) |  | 2025 |
+| [25种医疗器械生产环节风险清单和检查要点](/nmpa/regulations/25-medical-device-production-risks-and-inspection-points-2016) |  | 2025 |
+| [医疗器械生产质量管理规范 - 植入性医疗器械现场检查指导原则](/nmpa/regulations/gmp-implants) |  | 2025 |
+| [医疗器械生产质量管理规范 - 无菌医疗器械现场检查指导原则](/nmpa/regulations/gmp-sterile) |  | 2025 |
+| [医疗器械生产企业供应商审核指南](/nmpa/regulations/nmpa-2015-1) |  | 2025 |
+| [禁止委托生产医疗器械目录](/nmpa/regulations/nmpa-2022-17) |  | 2025 |
+| [医疗器械委托生产质量协议编制指南](/nmpa/regulations/nmpa-2022-20) |  | 2025 |
+| [医疗器械生产质量管理规范现场检查指导原则](/nmpa/regulations/nmpa-notice-2015-218) |  | 2025 |
+| [医疗器械生产质量管理规范附录 - 独立软件](/nmpa/regulations/nmpa-notice-2019-43) |  | 2025 |
+| [关于做好第一批实施医疗器械唯一标识工作有关事项的通告](/nmpa/regulations/nmpa-notice-2019-72) |  | 2025 |
+| [关于做好第二批实施医疗器械唯一标识工作的公告](/nmpa/regulations/nmpa-notice-2021-114) |  | 2025 |
+| [企业落实医疗器械质量安全主体责任监督管理规定](/nmpa/regulations/nmpa-notice-2022-124) |  | 2025 |
+| [医疗器械质量管理体系年度自查报告编写指南](/nmpa/regulations/nmpa-notice-2022-13) |  | 2025 |
+| [医疗器械注册质量管理体系核查指南](/nmpa/regulations/nmpa-notice-2022-50) |  | 2025 |
+| [关于第一类医疗器械备案有关事项的公告](/nmpa/regulations/nmpa-notice-2022-62) |  | 2025 |
+| [关于GB 9706.1-2020及配套并列标准、专用标准实施有关工作的通告](/nmpa/regulations/nmpa-notice-2023-14) | `GB 9706.1` | 2025 |
+| [关于做好第三批实施医疗器械唯一标识工作的公告](/nmpa/regulations/nmpa-notice-2023-22) |  | 2025 |
+| [国家药监局关于进一步加强医疗器械注册人委托生产监督管理的公告（2024年第38号）](/nmpa/regulations/nmpa-notice-2024-38) |  | 2025 |
+| [国家药监局综合司关于加强医疗器械跨区域委托生产协同监管工作的意见](/nmpa/regulations/nmpa-opinion-2022-21) |  | 2025 |
+| [药品医疗器械飞行检查办法](/nmpa/regulations/nmpa-order-14) |  | 2025 |
+| [药品医疗器械境外检查管理规定](/nmpa/regulations/provisions-on-overseas-inspection-of-drugs-and-medical-devices) |  | 2025 |
+| [医疗器械生产监督管理办法](/nmpa/regulations/samr-order-53) |  | 2025 |
 
-| 标准 | 说明 |
-|------|------|
-| YY/T 0287-2017（ISO 13485:2016） | 医疗器械质量管理体系 |
-| GB/T 42061-2022（ISO 13485:2016） | 国家标准等同采用 |
-
-## 主要规范性文件
-
-| 文件 | 链接 |
-|------|------|
-| 医疗器械不良事件监测和再评价管理办法 | [samr.gov.cn](https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/bgt/art/2023/art_4b69cde387db4c4fa4465aad987157e0.html) |
-
-::: tip 来源
-[NMPA 部门规章](https://www.nmpa.gov.cn/xxgk/fgwj/nbmgzh/index.html) · [NMPA 医疗器械法规文件](https://www.nmpa.gov.cn/ylqx/ylqxfgwj/)
-:::
