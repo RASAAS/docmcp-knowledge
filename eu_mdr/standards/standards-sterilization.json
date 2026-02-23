@@ -1,0 +1,109 @@
+{
+  "id": "eu-mdr-harmonised-standards-sterilization",
+  "title": {
+    "zh": "EU MDR 协调标准 — 灭菌与包装",
+    "en": "EU MDR Harmonised Standards — Sterilization and Packaging"
+  },
+  "regulation": "eu_mdr",
+  "category": "standards",
+  "category_key": "sterilization",
+  "category_title": {
+    "zh": "灭菌与包装",
+    "en": "Sterilization and Packaging"
+  },
+  "gspr_primary": [
+    "GSPR 11"
+  ],
+  "basis": "Commission Implementing Decision (EU) 2021/1182 and amendments incl. CID 2024/815",
+  "source_url": "https://health.ec.europa.eu/medical-devices-topics-interest/harmonised-standards_en",
+  "source_url_verified": "2026-02-23",
+  "last_updated": "2026-02-23",
+  "contributor": "RASAAS",
+  "standards_count": 6,
+  "standards": [
+    {
+      "id": "hs-en-iso-11135-2014-a1-2019",
+      "number": "EN ISO 11135:2014+A1:2019",
+      "title": {
+        "zh": "医疗保健产品灭菌 — 环氧乙烷 — 灭菌过程的开发、确认和常规控制的要求",
+        "en": "Sterilization of health-care products — Ethylene oxide — Requirements for development, validation and routine control"
+      },
+      "gspr_reference": [
+        "GSPR 11"
+      ],
+      "status": "active",
+      "publication_year": 2019,
+      "source_url": "https://www.iso.org/standard/56137.html"
+    },
+    {
+      "id": "hs-en-iso-11137-1-2015-a2-2019",
+      "number": "EN ISO 11137-1:2015+A2:2019",
+      "title": {
+        "zh": "医疗保健产品灭菌 — 辐射 — 第1部分：灭菌过程的开发、确认和常规控制的要求",
+        "en": "Sterilization of health-care products — Radiation — Part 1: Requirements for development, validation and routine control"
+      },
+      "gspr_reference": [
+        "GSPR 11"
+      ],
+      "status": "active",
+      "publication_year": 2019,
+      "source_url": "https://www.iso.org/standard/62442.html"
+    },
+    {
+      "id": "hs-en-iso-11137-2-2015",
+      "number": "EN ISO 11137-2:2015",
+      "title": {
+        "zh": "医疗保健产品灭菌 — 辐射 — 第2部分：灭菌剂量的确定",
+        "en": "Sterilization of health-care products — Radiation — Part 2: Establishing the sterilization dose"
+      },
+      "gspr_reference": [
+        "GSPR 11"
+      ],
+      "status": "active",
+      "publication_year": 2015,
+      "source_url": "https://www.iso.org/standard/62443.html"
+    },
+    {
+      "id": "hs-en-iso-11607-1-2020",
+      "number": "EN ISO 11607-1:2020",
+      "title": {
+        "zh": "终末灭菌医疗器械的包装 — 第1部分：材料、无菌屏障系统和包装系统的要求",
+        "en": "Packaging for terminally sterilized medical devices — Part 1: Requirements for materials, sterile barrier systems and packaging systems"
+      },
+      "gspr_reference": [
+        "GSPR 11"
+      ],
+      "status": "active",
+      "publication_year": 2020,
+      "source_url": "https://www.iso.org/standard/74261.html"
+    },
+    {
+      "id": "hs-en-iso-11607-2-2020",
+      "number": "EN ISO 11607-2:2020",
+      "title": {
+        "zh": "终末灭菌医疗器械的包装 — 第2部分：成型、密封和装配过程的确认要求",
+        "en": "Packaging for terminally sterilized medical devices — Part 2: Validation requirements for forming, sealing and assembly processes"
+      },
+      "gspr_reference": [
+        "GSPR 11"
+      ],
+      "status": "active",
+      "publication_year": 2020,
+      "source_url": "https://www.iso.org/standard/74262.html"
+    },
+    {
+      "id": "hs-en-iso-17665-1-2006-a1-2013",
+      "number": "EN ISO 17665-1:2006+A1:2013",
+      "title": {
+        "zh": "医疗保健产品灭菌 — 湿热 — 第1部分：灭菌过程的开发、确认和常规控制的要求",
+        "en": "Sterilization of health-care products — Moist heat — Part 1: Requirements for development, validation and routine control"
+      },
+      "gspr_reference": [
+        "GSPR 11"
+      ],
+      "status": "active",
+      "publication_year": 2013,
+      "source_url": "https://www.iso.org/standard/45668.html"
+    }
+  ]
+}

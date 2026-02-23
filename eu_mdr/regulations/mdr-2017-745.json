@@ -1,0 +1,159 @@
+{
+  "id": "eu-mdr-2017-745",
+  "title": {
+    "zh": "欧盟医疗器械法规 (EU) 2017/745",
+    "en": "Regulation (EU) 2017/745 on Medical Devices (EU MDR)"
+  },
+  "regulation": "eu_mdr",
+  "category": "regulations",
+  "document_number": "2017/745",
+  "oj_reference": "OJ L 117, 5.5.2017, p. 1-175",
+  "effective_date": "2017-05-25",
+  "application_date": "2021-05-26",
+  "status": "active",
+  "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0745",
+  "source_url_verified": "2026-02-23",
+  "source_url_status": "ok",
+  "source_format": "html",
+  "translation": "ai-assisted",
+  "last_verified": "2026-02-23",
+  "contributor": "RASAAS",
+  "scope": {
+    "zh": "适用于在欧盟市场上市或投入使用的医疗器械（不含体外诊断器械），包括附件XVI产品。",
+    "en": "Applies to medical devices (excluding IVDs) placed on the EU market or put into service, including Annex XVI products."
+  },
+  "structure": {
+    "chapters": 10,
+    "articles": 123,
+    "annexes": 17
+  },
+  "key_articles": [
+    {
+      "article": "Art. 1",
+      "title": { "zh": "主题和范围", "en": "Subject matter and scope" },
+      "summary_zh": "规定法规的适用范围，包括医疗器械、附件和附件XVI产品，明确排除体外诊断器械（受IVDR 2017/746管辖）。",
+      "summary_en": "Defines the scope covering medical devices, accessories, and Annex XVI products; explicitly excludes IVDs (governed by IVDR 2017/746).",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0745#d1e1050-1-1"
+    },
+    {
+      "article": "Art. 2",
+      "title": { "zh": "定义", "en": "Definitions" },
+      "summary_zh": "包含约70个关键术语定义，包括：医疗器械、预期用途、制造商、授权代表、进口商、经销商、经济运营商、上市、投入使用、合规评估、公告机构、CE标志、UDI、EUDAMED等。",
+      "summary_en": "Contains ~70 key definitions including: medical device, intended purpose, manufacturer, authorised representative, importer, distributor, economic operator, placing on market, putting into service, conformity assessment, notified body, CE marking, UDI, EUDAMED, etc.",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0745#d1e1050-1-1"
+    },
+    {
+      "article": "Art. 5",
+      "title": { "zh": "在市场上市和投入使用", "en": "Placing on the market and putting into service" },
+      "summary_zh": "器械须符合本法规要求方可上市或投入使用。允许在展会展示不合规器械，但须明确标注。",
+      "summary_en": "Devices may only be placed on the market or put into service if they comply with this Regulation. Non-compliant devices may be shown at trade fairs with clear indication.",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0745#d1e2596-1-1"
+    },
+    {
+      "article": "Art. 10",
+      "title": { "zh": "制造商的一般义务", "en": "General obligations of manufacturers" },
+      "summary_zh": "制造商须：(1)确保器械符合附件I GSPR；(2)建立、记录、实施并维护QMS；(3)按附件II/III维护技术文档；(4)开展临床评价（附件XIV）；(5)建立PMS体系；(6)在EUDAMED注册；(7)分配UDI；(8)指定授权代表（欧盟境外制造商）；(9)任命PRRC；(10)确保器械附有符合要求的标签和IFU。",
+      "summary_en": "Manufacturers must: (1) ensure devices comply with Annex I GSPR; (2) establish, document, implement and maintain a QMS; (3) maintain technical documentation per Annex II/III; (4) conduct clinical evaluation (Annex XIV); (5) establish PMS system; (6) register in EUDAMED; (7) assign UDI; (8) designate authorised representative (non-EU manufacturers); (9) appoint PRRC; (10) ensure devices bear compliant labelling and IFU.",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0745#d1e3618-1-1"
+    },
+    {
+      "article": "Art. 13",
+      "title": { "zh": "法规合规负责人（PRRC）", "en": "Person responsible for regulatory compliance (PRRC)" },
+      "summary_zh": "制造商须在组织内至少指定一名具备相应资质的法规合规负责人（PRRC），负责确保器械合规性、技术文档和声明的准备，以及上市后义务的履行。",
+      "summary_en": "Manufacturers must have at least one PRRC with appropriate qualifications responsible for ensuring device compliance, preparation of technical documentation and declarations, and fulfilment of post-market obligations.",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0745#d1e4161-1-1"
+    },
+    {
+      "article": "Art. 52",
+      "title": { "zh": "合规评估程序", "en": "Applicable conformity assessment procedures" },
+      "summary_zh": "根据器械分类确定合规评估程序：Class I（非无菌/非测量）→ 自我声明（附件IV）；Class I无菌/测量 → 附件IX或附件X+XI；Class IIa → 附件IX或附件X+XI；Class IIb → 附件IX或附件X+XI；Class III → 附件IX+设计档案 或 附件X+附件XI。",
+      "summary_en": "Conformity assessment by device class: Class I (non-sterile/non-measuring) → self-declaration (Annex IV); Class I sterile/measuring → Annex IX or Annex X+XI; Class IIa → Annex IX or Annex X+XI; Class IIb → Annex IX or Annex X+XI; Class III → Annex IX + design dossier, or Annex X + Annex XI.",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0745#d1e7218-1-1"
+    },
+    {
+      "article": "Art. 61",
+      "title": { "zh": "临床评价", "en": "Clinical evaluation" },
+      "summary_zh": "制造商须按附件XIV开展临床评价，证明器械在正常使用条件下的安全性和性能。临床评价须持续更新，并纳入PMS数据。Class III和植入类器械通常需要临床调查。",
+      "summary_en": "Manufacturers must conduct clinical evaluation per Annex XIV to demonstrate safety and performance under normal conditions of use. Clinical evaluation must be continuously updated with PMS data. Class III and implantable devices generally require clinical investigations.",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0745#d1e8263-1-1"
+    },
+    {
+      "article": "Art. 83",
+      "title": { "zh": "上市后监督体系", "en": "Post-market surveillance system" },
+      "summary_zh": "制造商须建立、记录、实施、维护和更新PMS体系，主动收集和审查上市后经验数据，用于更新技术文档、临床评价和风险管理。",
+      "summary_en": "Manufacturers must establish, document, implement, maintain and update a PMS system to proactively collect and review post-market experience data for updating technical documentation, clinical evaluation and risk management.",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0745#d1e10571-1-1"
+    },
+    {
+      "article": "Art. 87",
+      "title": { "zh": "严重事故和现场安全纠正措施的报告", "en": "Reporting of serious incidents and field safety corrective actions" },
+      "summary_zh": "制造商须通过EUDAMED向相关成员国主管机构报告严重事故和现场安全纠正措施（FSCA）。",
+      "summary_en": "Manufacturers must report serious incidents and field safety corrective actions (FSCAs) to the relevant Member State competent authorities via EUDAMED.",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0745#d1e10946-1-1"
+    }
+  ],
+  "key_annexes": [
+    {
+      "annex": "Annex I",
+      "title": { "zh": "通用安全和性能要求（GSPR）", "en": "General Safety and Performance Requirements (GSPR)" },
+      "summary_zh": "分三部分：第一部分（GSPR 1-9）通用要求；第二部分（GSPR 10-22）设计和制造要求；第三部分（GSPR 23）随附信息要求。制造商须证明器械满足所有适用的GSPR。",
+      "summary_en": "Three parts: Part I (GSPR 1-9) general requirements; Part II (GSPR 10-22) design and manufacture requirements; Part III (GSPR 23) requirements on information supplied with device. Manufacturers must demonstrate compliance with all applicable GSPRs.",
+      "gspr_count": 23,
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0745#d1e32-175-1"
+    },
+    {
+      "annex": "Annex II",
+      "title": { "zh": "技术文档", "en": "Technical Documentation" },
+      "summary_zh": "规定技术文档的内容要求，包括：器械描述和规格、参考前代和类似器械信息、设计和制造信息、GSPR符合性信息、风险/收益分析和风险管理、产品验证和确认、上市后性能数据。",
+      "summary_en": "Specifies technical documentation content: device description and specification, reference to previous and similar generations, design and manufacturing information, GSPR compliance information, risk/benefit analysis and risk management, product verification and validation, post-market performance data.",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0745#d1e32-175-1"
+    },
+    {
+      "annex": "Annex III",
+      "title": { "zh": "上市后监督技术文档", "en": "Technical Documentation on Post-Market Surveillance" },
+      "summary_zh": "规定PMS技术文档要求，包括PMS计划（PMSP）和PMS报告（PMSR）或定期安全更新报告（PSUR）的内容。",
+      "summary_en": "Specifies PMS technical documentation requirements including content of PMS plan (PMSP) and PMS report (PMSR) or periodic safety update report (PSUR).",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0745#d1e32-175-1"
+    },
+    {
+      "annex": "Annex IX",
+      "title": { "zh": "基于质量管理体系评估和技术文档评估的合规评估", "en": "Conformity Assessment based on a Quality Management System and on Assessment of Technical Documentation" },
+      "summary_zh": "规定公告机构对制造商QMS和技术文档进行审核的程序，包括初始审核、监督审核和再认证审核。",
+      "summary_en": "Specifies procedures for notified body audit of manufacturer QMS and technical documentation, including initial audit, surveillance audits and recertification audits.",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0745#d1e32-175-1"
+    },
+    {
+      "annex": "Annex XIV",
+      "title": { "zh": "临床评价和上市后临床跟踪", "en": "Clinical Evaluation and Post-Market Clinical Follow-up" },
+      "summary_zh": "第A部分规定临床评价要求（临床评价计划、数据收集、数据评价、临床评价报告）；第B部分规定PMCF要求（PMCF计划和PMCF评价报告）。",
+      "summary_en": "Part A specifies clinical evaluation requirements (clinical evaluation plan, data collection, data appraisal, clinical evaluation report); Part B specifies PMCF requirements (PMCF plan and PMCF evaluation report).",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0745#d1e32-175-1"
+    },
+    {
+      "annex": "Annex XV",
+      "title": { "zh": "临床调查", "en": "Clinical Investigations" },
+      "summary_zh": "规定临床调查的申请、开展和报告要求，包括申请文件、伦理委员会审查、知情同意、安全报告等。",
+      "summary_en": "Specifies requirements for application, conduct and reporting of clinical investigations, including application documents, ethics committee review, informed consent, safety reporting, etc.",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0745#d1e32-175-1"
+    }
+  ],
+  "classification_rules": {
+    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0745#d1e32-175-1",
+    "annex": "Annex VIII",
+    "rules_count": 22,
+    "classes": ["Class I", "Class IIa", "Class IIb", "Class III"],
+    "summary_zh": "附件VIII包含22条分类规则，根据预期用途、接触部位、接触时长、是否有源等因素确定器械分类。",
+    "summary_en": "Annex VIII contains 22 classification rules determining device class based on intended purpose, contact site, duration of contact, whether active, etc."
+  },
+  "timeline": [
+    { "date": "2017-05-05", "event_zh": "EU MDR 2017/745 在欧盟官方公报发布", "event_en": "EU MDR 2017/745 published in Official Journal" },
+    { "date": "2017-05-25", "event_zh": "法规生效", "event_en": "Regulation entered into force" },
+    { "date": "2020-04-24", "event_zh": "修正案 2020/561 发布（COVID-19 过渡期延长）", "event_en": "Amendment 2020/561 published (COVID-19 transition extension)" },
+    { "date": "2021-05-26", "event_zh": "EU MDR 全面适用（原计划）", "event_en": "EU MDR fully applicable (original date)" },
+    { "date": "2023-03-20", "event_zh": "修正案 2023/607 发布（遗留器械过渡期延长）", "event_en": "Amendment 2023/607 published (legacy device transition extension)" },
+    { "date": "2024-05-26", "event_zh": "Class III 和 Class IIb 植入类遗留器械截止", "event_en": "Deadline for Class III and Class IIb implantable legacy devices" },
+    { "date": "2024-09-26", "event_zh": "修正案 2024/1860 发布（进一步延长过渡期）", "event_en": "Amendment 2024/1860 published (further transition extension)" },
+    { "date": "2027-12-31", "event_zh": "Class IIb 非植入类 + Class IIa 遗留器械截止", "event_en": "Deadline for Class IIb non-implantable + Class IIa legacy devices" },
+    { "date": "2028-12-31", "event_zh": "Class I 遗留器械截止", "event_en": "Deadline for Class I legacy devices" }
+  ]
+}

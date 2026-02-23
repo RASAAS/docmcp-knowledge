@@ -1,0 +1,64 @@
+{
+  "id": "eu-ivdr-2017-746",
+  "title": {
+    "zh": "欧盟体外诊断医疗器械法规 (EU) 2017/746",
+    "en": "Regulation (EU) 2017/746 on In Vitro Diagnostic Medical Devices (EU IVDR)"
+  },
+  "regulation": "eu_mdr",
+  "category": "regulations",
+  "document_number": "2017/746",
+  "oj_reference": "OJ L 117, 5.5.2017, p. 176-332",
+  "effective_date": "2017-05-25",
+  "application_date": "2022-05-26",
+  "status": "active",
+  "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0746",
+  "source_url_verified": "2026-02-23",
+  "source_url_status": "ok",
+  "source_format": "html",
+  "translation": "ai-assisted",
+  "last_verified": "2026-02-23",
+  "contributor": "RASAAS",
+  "scope": {
+    "zh": "适用于在欧盟市场上市或投入使用的体外诊断医疗器械及其附件。",
+    "en": "Applies to in vitro diagnostic medical devices and their accessories placed on the EU market or put into service."
+  },
+  "structure": {
+    "chapters": 10,
+    "articles": 113,
+    "annexes": 15
+  },
+  "classification": {
+    "classes": ["Class A", "Class B", "Class C", "Class D"],
+    "summary_zh": "IVD按风险分为A（最低）至D（最高）四类，分类规则见附件VIII。",
+    "summary_en": "IVDs classified A (lowest) to D (highest) risk per Annex VIII classification rules."
+  },
+  "key_articles": [
+    {
+      "article": "Art. 10",
+      "title": { "zh": "制造商的一般义务", "en": "General obligations of manufacturers" },
+      "summary_zh": "与MDR Art.10类似，制造商须确保IVD符合附件I GSPR、维护技术文档、建立QMS和PMS体系、在EUDAMED注册、分配UDI、任命PRRC。",
+      "summary_en": "Similar to MDR Art.10: manufacturers must ensure IVDs comply with Annex I GSPR, maintain technical documentation, establish QMS and PMS systems, register in EUDAMED, assign UDI, appoint PRRC.",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0746"
+    },
+    {
+      "article": "Art. 48",
+      "title": { "zh": "合规评估程序", "en": "Applicable conformity assessment procedures" },
+      "summary_zh": "Class A → 自我声明；Class B → 附件IX或附件X+XI；Class C → 附件IX或附件X+XI；Class D → 附件IX（含附件X设计检验）。",
+      "summary_en": "Class A → self-declaration; Class B → Annex IX or Annex X+XI; Class C → Annex IX or Annex X+XI; Class D → Annex IX (including Annex X design examination).",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0746"
+    },
+    {
+      "article": "Art. 56",
+      "title": { "zh": "性能评价", "en": "Performance evaluation" },
+      "summary_zh": "制造商须按附件XIII开展性能评价，证明IVD在正常使用条件下的分析性能和临床性能。",
+      "summary_en": "Manufacturers must conduct performance evaluation per Annex XIII to demonstrate analytical and clinical performance of IVDs under normal conditions of use.",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0746"
+    }
+  ],
+  "transition_timeline": [
+    { "date": "2022-05-26", "event_zh": "EU IVDR 全面适用（D类IVD）", "event_en": "EU IVDR fully applicable (Class D IVDs)" },
+    { "date": "2025-05-26", "event_zh": "C类IVD遗留器械截止", "event_en": "Deadline for Class C IVD legacy devices" },
+    { "date": "2026-05-26", "event_zh": "B类 + A类无菌IVD遗留器械截止", "event_en": "Deadline for Class B + Class A sterile IVD legacy devices" },
+    { "date": "2027-05-26", "event_zh": "A类无菌以外IVD遗留器械截止", "event_en": "Deadline for remaining Class A IVD legacy devices (non-sterile)" }
+  ]
+}

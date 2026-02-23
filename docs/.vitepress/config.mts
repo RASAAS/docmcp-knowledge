@@ -7,8 +7,32 @@ const zhSidebar = Object.assign(
   {
     '/zh/eu_mdr/': [
       { text: 'EU MDR 概述', link: '/zh/eu_mdr/' },
-      { text: '法规文本', link: '/zh/eu_mdr/regulations' },
-      { text: '协调标准', link: '/zh/eu_mdr/standards' },
+      {
+        text: '法规文本', link: '/zh/eu_mdr/regulations',
+        collapsed: true,
+        items: [
+          { text: '第10条 — 制造商一般义务', link: '/zh/eu_mdr/regulations/art-10-manufacturer-obligations' },
+          { text: '第52条 — 合规评估程序', link: '/zh/eu_mdr/regulations/art-52-conformity-assessment' },
+          { text: '附件I — GSPR', link: '/zh/eu_mdr/regulations/annex-i-gspr' },
+          { text: '附件II — 技术文件', link: '/zh/eu_mdr/regulations/annex-ii-technical-documentation' },
+          { text: '附件III — PMS技术文件', link: '/zh/eu_mdr/regulations/annex-iii-pms' },
+          { text: '附件XIV — 临床评价', link: '/zh/eu_mdr/regulations/annex-xiv-clinical-evaluation' },
+        ],
+      },
+      {
+        text: '协调标准', link: '/zh/eu_mdr/standards',
+        collapsed: true,
+        items: [
+          { text: '质量管理', link: '/zh/eu_mdr/standards/quality-management' },
+          { text: '风险管理', link: '/zh/eu_mdr/standards/risk-management' },
+          { text: '生物相容性', link: '/zh/eu_mdr/standards/biocompatibility' },
+          { text: '电气安全与EMC', link: '/zh/eu_mdr/standards/electrical-safety' },
+          { text: '灭菌与包装', link: '/zh/eu_mdr/standards/sterilization' },
+          { text: '软件与可用性', link: '/zh/eu_mdr/standards/software' },
+          { text: '标签与说明书', link: '/zh/eu_mdr/standards/labelling' },
+          { text: '临床评价与临床调查', link: '/zh/eu_mdr/standards/clinical-investigation' },
+        ],
+      },
       { text: 'MDCG 指南', link: '/zh/eu_mdr/mdcg' },
       { text: 'TEAM-NB 立场文件', link: '/zh/eu_mdr/team_nb' },
     ],

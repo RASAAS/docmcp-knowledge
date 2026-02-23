@@ -1,0 +1,88 @@
+{
+  "id": "eu-mdr-amendments",
+  "title": {
+    "zh": "EU MDR/IVDR 修正案汇总",
+    "en": "EU MDR/IVDR Amendments Summary"
+  },
+  "regulation": "eu_mdr",
+  "category": "regulations",
+  "status": "active",
+  "last_verified": "2026-02-23",
+  "contributor": "RASAAS",
+  "amendments": [
+    {
+      "id": "amendment-2020-561",
+      "document_number": "2020/561",
+      "title": {
+        "zh": "修正案 (EU) 2020/561 — MDR 过渡期延长（COVID-19）",
+        "en": "Amendment (EU) 2020/561 — MDR Transition Extension (COVID-19)"
+      },
+      "oj_reference": "OJ L 130, 24.4.2020, p. 18-22",
+      "published_date": "2020-04-24",
+      "status": "active",
+      "amends": "EU MDR 2017/745",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32020R0561",
+      "source_url_verified": "2026-02-23",
+      "source_url_status": "ok",
+      "summary_zh": "因COVID-19疫情，将EU MDR的适用日期从2020年5月26日延迟至2021年5月26日。",
+      "summary_en": "Due to COVID-19 pandemic, postponed EU MDR application date from 26 May 2020 to 26 May 2021."
+    },
+    {
+      "id": "amendment-2023-607",
+      "document_number": "2023/607",
+      "title": {
+        "zh": "修正案 (EU) 2023/607 — 遗留器械过渡期延长",
+        "en": "Amendment (EU) 2023/607 — Legacy Device Transition Extension"
+      },
+      "oj_reference": "OJ L 80, 20.3.2023, p. 24-28",
+      "published_date": "2023-03-20",
+      "status": "active",
+      "amends": "EU MDR 2017/745",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R0607",
+      "source_url_verified": "2026-02-23",
+      "source_url_status": "ok",
+      "summary_zh": "为遗留器械（在MDD/AIMDD下获得CE证书的器械）提供分阶段过渡期延长：Class III和Class IIb植入类至2024年5月26日；Class IIb非植入类和Class IIa至2027年12月31日；Class I至2028年12月31日。",
+      "summary_en": "Provides phased transition extension for legacy devices (CE-certified under MDD/AIMDD): Class III and Class IIb implantable until 26 May 2024; Class IIb non-implantable and Class IIa until 31 December 2027; Class I until 31 December 2028.",
+      "key_conditions": [
+        "器械须在2021年5月26日前已获得MDD/AIMDD证书",
+        "制造商须在2024年5月26日前向公告机构提交MDR合规评估申请",
+        "器械不得有重大变更",
+        "制造商须已建立MDR合规的QMS"
+      ]
+    },
+    {
+      "id": "amendment-2024-1860",
+      "document_number": "2024/1860",
+      "title": {
+        "zh": "修正案 (EU) 2024/1860 — 进一步延长过渡期",
+        "en": "Amendment (EU) 2024/1860 — Further Transition Extension"
+      },
+      "oj_reference": "OJ L, 2024/1860",
+      "published_date": "2024-09-26",
+      "status": "active",
+      "amends": "EU MDR 2017/745",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1860",
+      "source_url_verified": "2026-02-23",
+      "source_url_status": "ok",
+      "summary_zh": "进一步延长遗留器械过渡期，并调整了申请截止日期要求，以解决公告机构产能不足问题。",
+      "summary_en": "Further extends legacy device transition periods and adjusts application deadline requirements to address notified body capacity constraints."
+    },
+    {
+      "id": "ivdr-amendment-2022-112",
+      "document_number": "2022/112",
+      "title": {
+        "zh": "修正案 (EU) 2022/112 — IVDR 过渡期延长",
+        "en": "Amendment (EU) 2022/112 — IVDR Transition Extension"
+      },
+      "oj_reference": "OJ L 19, 28.1.2022, p. 1-5",
+      "published_date": "2022-01-28",
+      "status": "active",
+      "amends": "EU IVDR 2017/746",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R0112",
+      "source_url_verified": "2026-02-23",
+      "source_url_status": "ok",
+      "summary_zh": "为IVDR遗留器械提供分阶段过渡期：D类2022年5月26日适用；C类至2025年5月26日；B类和A类无菌至2026年5月26日。",
+      "summary_en": "Provides phased transition for IVDR legacy devices: Class D applicable 26 May 2022; Class C until 26 May 2025; Class B and Class A sterile until 26 May 2026."
+    }
+  ]
+}

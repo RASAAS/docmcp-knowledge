@@ -1,0 +1,111 @@
+{
+  "id": "eu-mdr-harmonised-standards-electrical_safety",
+  "title": {
+    "zh": "EU MDR 协调标准 — 电气安全与电磁兼容",
+    "en": "EU MDR Harmonised Standards — Electrical Safety and EMC"
+  },
+  "regulation": "eu_mdr",
+  "category": "standards",
+  "category_key": "electrical_safety",
+  "category_title": {
+    "zh": "电气安全与电磁兼容",
+    "en": "Electrical Safety and EMC"
+  },
+  "gspr_primary": [
+    "GSPR 9",
+    "GSPR 14"
+  ],
+  "basis": "Commission Implementing Decision (EU) 2021/1182 and amendments incl. CID 2024/815",
+  "source_url": "https://health.ec.europa.eu/medical-devices-topics-interest/harmonised-standards_en",
+  "source_url_verified": "2026-02-23",
+  "last_updated": "2026-02-23",
+  "contributor": "RASAAS",
+  "standards_count": 6,
+  "standards": [
+    {
+      "id": "hs-en-iec-60601-1-2006-a2-2021",
+      "number": "EN IEC 60601-1:2006+A1:2013+A2:2021",
+      "title": {
+        "zh": "医用电气设备 — 第1部分：基本安全和基本性能的通用要求",
+        "en": "Medical electrical equipment — Part 1: General requirements for basic safety and essential performance"
+      },
+      "gspr_reference": [
+        "GSPR 9",
+        "GSPR 14"
+      ],
+      "status": "active",
+      "publication_year": 2021,
+      "source_url": "https://www.iec.ch/homepage"
+    },
+    {
+      "id": "hs-en-iec-60601-1-2-2015-a1-2021",
+      "number": "EN IEC 60601-1-2:2015+A1:2021",
+      "title": {
+        "zh": "医用电气设备 — 第1-2部分：通用要求 — 并列标准：电磁兼容",
+        "en": "Medical electrical equipment — Part 1-2: General requirements — Collateral Standard: Electromagnetic disturbances"
+      },
+      "gspr_reference": [
+        "GSPR 14"
+      ],
+      "status": "active",
+      "publication_year": 2021,
+      "source_url": "https://www.iec.ch/homepage"
+    },
+    {
+      "id": "hs-en-iec-60601-1-6-2010-a2-2020",
+      "number": "EN IEC 60601-1-6:2010+A1:2015+A2:2020",
+      "title": {
+        "zh": "医用电气设备 — 第1-6部分：通用要求 — 并列标准：可用性",
+        "en": "Medical electrical equipment — Part 1-6: General requirements — Collateral Standard: Usability"
+      },
+      "gspr_reference": [
+        "GSPR 5"
+      ],
+      "status": "active",
+      "publication_year": 2020,
+      "source_url": "https://www.iec.ch/homepage"
+    },
+    {
+      "id": "hs-en-iec-60601-1-8-2007-a2-2021",
+      "number": "EN IEC 60601-1-8:2007+A1:2013+A2:2021",
+      "title": {
+        "zh": "医用电气设备 — 第1-8部分：通用要求 — 并列标准：报警系统",
+        "en": "Medical electrical equipment — Part 1-8: General requirements — Collateral Standard: Alarm systems"
+      },
+      "gspr_reference": [
+        "GSPR 14"
+      ],
+      "status": "active",
+      "publication_year": 2021,
+      "source_url": "https://www.iec.ch/homepage"
+    },
+    {
+      "id": "hs-en-iec-60601-1-11-2015-a1-2020",
+      "number": "EN IEC 60601-1-11:2015+A1:2020",
+      "title": {
+        "zh": "医用电气设备 — 第1-11部分：通用要求 — 并列标准：家庭医疗保健环境",
+        "en": "Medical electrical equipment — Part 1-11: General requirements — Collateral Standard: Home healthcare environment"
+      },
+      "gspr_reference": [
+        "GSPR 14"
+      ],
+      "status": "active",
+      "publication_year": 2020,
+      "source_url": "https://www.iec.ch/homepage"
+    },
+    {
+      "id": "hs-en-iec-60601-1-12-2014-a1-2020",
+      "number": "EN IEC 60601-1-12:2014+A1:2020",
+      "title": {
+        "zh": "医用电气设备 — 第1-12部分：通用要求 — 并列标准：急救医疗服务环境",
+        "en": "Medical electrical equipment — Part 1-12: General requirements — Collateral Standard: Emergency medical services environments"
+      },
+      "gspr_reference": [
+        "GSPR 14"
+      ],
+      "status": "active",
+      "publication_year": 2020,
+      "source_url": "https://www.iec.ch/homepage"
+    }
+  ]
+}

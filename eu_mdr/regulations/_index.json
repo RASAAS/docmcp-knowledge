@@ -1,0 +1,52 @@
+{
+  "directory": "eu_mdr/regulations",
+  "title": {
+    "zh": "EU MDR/IVDR 法规文本",
+    "en": "EU MDR/IVDR Regulatory Texts"
+  },
+  "description": {
+    "zh": "欧盟医疗器械法规（EU MDR 2017/745）和体外诊断医疗器械法规（EU IVDR 2017/746）的结构化数据，包含关键条款、附录摘要和修正案。",
+    "en": "Structured data for EU Medical Device Regulation (EU MDR 2017/745) and In Vitro Diagnostic Medical Devices Regulation (EU IVDR 2017/746), including key articles, annex summaries and amendments."
+  },
+  "last_updated": "2026-02-23",
+  "documents": [
+    {
+      "id": "eu-mdr-2017-745",
+      "file": "mdr-2017-745.json",
+      "title": { "zh": "欧盟医疗器械法规 (EU) 2017/745", "en": "Regulation (EU) 2017/745 on Medical Devices" },
+      "status": "active",
+      "application_date": "2021-05-26",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0745"
+    },
+    {
+      "id": "eu-ivdr-2017-746",
+      "file": "ivdr-2017-746.json",
+      "title": { "zh": "欧盟体外诊断医疗器械法规 (EU) 2017/746", "en": "Regulation (EU) 2017/746 on In Vitro Diagnostic Medical Devices" },
+      "status": "active",
+      "application_date": "2022-05-26",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0746"
+    },
+    {
+      "id": "eu-mdr-amendments",
+      "file": "amendments.json",
+      "title": { "zh": "EU MDR/IVDR 修正案汇总", "en": "EU MDR/IVDR Amendments Summary" },
+      "status": "active",
+      "amendments_count": 4,
+      "latest_amendment": "2024/1860"
+    }
+  ],
+  "official_sources": [
+    {
+      "name": "EUR-Lex",
+      "url": "https://eur-lex.europa.eu",
+      "description_zh": "欧盟法律数据库，法规全文权威来源",
+      "description_en": "EU law database, authoritative source for full regulation text"
+    },
+    {
+      "name": "EC Health - Medical Devices",
+      "url": "https://health.ec.europa.eu/medical-devices-sector/new-regulations_en",
+      "description_zh": "欧盟委员会医疗器械新法规页面",
+      "description_en": "European Commission medical devices new regulations page"
+    }
+  ]
+}

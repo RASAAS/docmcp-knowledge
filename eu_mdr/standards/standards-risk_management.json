@@ -1,0 +1,58 @@
+{
+  "id": "eu-mdr-harmonised-standards-risk_management",
+  "title": {
+    "zh": "EU MDR 协调标准 — 风险管理",
+    "en": "EU MDR Harmonised Standards — Risk Management"
+  },
+  "regulation": "eu_mdr",
+  "category": "standards",
+  "category_key": "risk_management",
+  "category_title": {
+    "zh": "风险管理",
+    "en": "Risk Management"
+  },
+  "gspr_primary": [
+    "GSPR 1",
+    "GSPR 2",
+    "GSPR 3"
+  ],
+  "basis": "Commission Implementing Decision (EU) 2021/1182 and amendments incl. CID 2024/815",
+  "source_url": "https://health.ec.europa.eu/medical-devices-topics-interest/harmonised-standards_en",
+  "source_url_verified": "2026-02-23",
+  "last_updated": "2026-02-23",
+  "contributor": "RASAAS",
+  "standards_count": 2,
+  "standards": [
+    {
+      "id": "hs-en-iso-14971-2019",
+      "number": "EN ISO 14971:2019",
+      "title": {
+        "zh": "医疗器械 — 风险管理在医疗器械中的应用",
+        "en": "Medical devices — Application of risk management to medical devices"
+      },
+      "gspr_reference": [
+        "GSPR 1",
+        "GSPR 2",
+        "GSPR 3"
+      ],
+      "status": "active",
+      "publication_year": 2019,
+      "source_url": "https://www.iso.org/standard/72704.html"
+    },
+    {
+      "id": "hs-en-iso-24971-2020",
+      "number": "EN ISO 24971:2020",
+      "title": {
+        "zh": "医疗器械 — ISO 14971应用指南",
+        "en": "Medical devices — Guidance on the application of ISO 14971"
+      },
+      "gspr_reference": [
+        "GSPR 1",
+        "GSPR 2"
+      ],
+      "status": "active",
+      "publication_year": 2020,
+      "source_url": "https://www.iso.org/standard/74437.html"
+    }
+  ]
+}

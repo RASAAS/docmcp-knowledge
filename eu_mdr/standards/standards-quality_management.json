@@ -1,0 +1,41 @@
+{
+  "id": "eu-mdr-harmonised-standards-quality_management",
+  "title": {
+    "zh": "EU MDR 协调标准 — 质量管理",
+    "en": "EU MDR Harmonised Standards — Quality Management"
+  },
+  "regulation": "eu_mdr",
+  "category": "standards",
+  "category_key": "quality_management",
+  "category_title": {
+    "zh": "质量管理",
+    "en": "Quality Management"
+  },
+  "gspr_primary": [
+    "Annex IX",
+    "Annex XI"
+  ],
+  "basis": "Commission Implementing Decision (EU) 2021/1182 and amendments incl. CID 2024/815",
+  "source_url": "https://health.ec.europa.eu/medical-devices-topics-interest/harmonised-standards_en",
+  "source_url_verified": "2026-02-23",
+  "last_updated": "2026-02-23",
+  "contributor": "RASAAS",
+  "standards_count": 1,
+  "standards": [
+    {
+      "id": "hs-en-iso-13485-2016",
+      "number": "EN ISO 13485:2016",
+      "title": {
+        "zh": "医疗器械 — 质量管理体系 — 用于法规的要求",
+        "en": "Medical devices — Quality management systems — Requirements for regulatory purposes"
+      },
+      "gspr_reference": [
+        "Annex IX",
+        "Annex XI"
+      ],
+      "status": "active",
+      "publication_year": 2016,
+      "source_url": "https://www.iso.org/standard/59752.html"
+    }
+  ]
+}

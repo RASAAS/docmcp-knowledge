@@ -1,0 +1,39 @@
+{
+  "id": "eu-mdr-harmonised-standards-clinical_investigation",
+  "title": {
+    "zh": "EU MDR 协调标准 — 临床评价与临床调查",
+    "en": "EU MDR Harmonised Standards — Clinical Evaluation and Clinical Investigation"
+  },
+  "regulation": "eu_mdr",
+  "category": "standards",
+  "category_key": "clinical_investigation",
+  "category_title": {
+    "zh": "临床评价与临床调查",
+    "en": "Clinical Evaluation and Clinical Investigation"
+  },
+  "gspr_primary": [
+    "GSPR 1"
+  ],
+  "basis": "Commission Implementing Decision (EU) 2021/1182 and amendments incl. CID 2024/815",
+  "source_url": "https://health.ec.europa.eu/medical-devices-topics-interest/harmonised-standards_en",
+  "source_url_verified": "2026-02-23",
+  "last_updated": "2026-02-23",
+  "contributor": "RASAAS",
+  "standards_count": 1,
+  "standards": [
+    {
+      "id": "hs-en-iso-14155-2020",
+      "number": "EN ISO 14155:2020",
+      "title": {
+        "zh": "人体医疗器械临床调查 — 良好临床实践",
+        "en": "Clinical investigation of medical devices for human subjects — Good clinical practice"
+      },
+      "gspr_reference": [
+        "GSPR 1"
+      ],
+      "status": "active",
+      "publication_year": 2020,
+      "source_url": "https://www.iso.org/standard/71690.html"
+    }
+  ]
+}
