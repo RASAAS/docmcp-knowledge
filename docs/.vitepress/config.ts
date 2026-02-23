@@ -4,6 +4,7 @@ export default defineConfig({
   title: 'DocMCP Knowledge Base',
   description: 'Open regulatory knowledge base for medical device compliance',
   srcDir: '.',
+  ignoreDeadLinks: true,
 
   locales: {
     root: {
@@ -60,6 +61,7 @@ export default defineConfig({
           { text: 'FDA', link: '/zh/fda/' },
           { text: 'NMPA', link: '/zh/nmpa/' },
           { text: '\u6807\u51c6', link: '/zh/shared/standards' },
+          { text: '\u6cd5\u89c4\u89e3\u8bfb', link: '/zh/insights/analysis' },
         ],
         sidebar: {
           '/zh/eu_mdr/': [
@@ -81,6 +83,16 @@ export default defineConfig({
             { text: 'GB/YY \u6807\u51c6', link: '/zh/nmpa/standards' },
             { text: '\u6307\u5bfc\u539f\u5219', link: '/zh/nmpa/guidance' },
             { text: '\u5206\u7c7b\u76ee\u5f55', link: '/zh/nmpa/classification' },
+          ],
+          '/zh/insights/': [
+            { text: '\u6cd5\u89c4\u89e3\u8bfb', link: '/zh/insights/analysis' },
+            { text: 'NMPA \u52a8\u6001', link: '/zh/insights/nmpa-updates' },
+            { text: 'EU MDR \u52a8\u6001', link: '/zh/insights/eu-mdr-updates' },
+            { text: 'FDA \u52a8\u6001', link: '/zh/insights/fda-updates' },
+          ],
+          '/zh/shared/': [
+            { text: '\u901a\u7528\u8d44\u6e90', link: '/zh/shared/index' },
+            { text: '\u901a\u7528\u6807\u51c6', link: '/zh/shared/standards' },
           ],
         },
         socialLinks: [

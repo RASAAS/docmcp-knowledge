@@ -119,6 +119,7 @@ def get_doc_entries(data_dir: Path, section_key: str) -> List[dict]:
             "title_zh": title_zh,
             "doc_number": fm.get("document_number", ""),
             "effective_date": fm.get("effective_date", ""),
+            "published_date": fm.get("published_date", ""),
             "status": fm.get("status", "active"),
             "source_url": fm.get("source_url", ""),
             "regulation": fm.get("regulation", ""),
@@ -249,17 +250,19 @@ def generate_section_page(
 def _entry_row(entry: dict, repo_root: Path) -> str:
     """Format a table row for a document entry."""
     title = entry["title_zh"]
-    slug = entry["slug"]
     doc_num = entry.get("doc_number", "")
     # Support both effective_date (docs) and published_date (insights)
     date_raw = entry.get("effective_date", "") or entry.get("published_date", "")
     date = date_raw[:4] if date_raw else ""
 
-    # Link to the data layer file (VitePress will render it)
-    category = entry.get("category", "")
-    link = f"/{category}/{slug}"
+    # Link to source_url (external), or plain text if no URL
+    # Data layer files are outside docs/ dir, so no internal VitePress routing
+    source_url = entry.get("source_url", "")
+    if source_url:
+        title_cell = f"[{title}]({source_url})"
+    else:
+        title_cell = title
 
-    title_cell = f"[{title}]({link})"
     doc_num_cell = f"`{doc_num}`" if doc_num else ""
     date_cell = date
 
