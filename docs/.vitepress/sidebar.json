@@ -1,790 +1,830 @@
 {
-  "/zh/nmpa/guidance/": [
+  "/zh/nmpa/": [
     {
-      "text": "NMPA 指导原则",
-      "link": "/zh/nmpa/guidance"
+      "text": "NMPA 概述",
+      "link": "/zh/nmpa/"
     },
     {
-      "text": "其他 (113)",
-      "collapsed": true,
-      "items": [
-        {
-          "text": "α -氰基丙烯酸酯类医用粘合剂注册审查指导原则(2024年修订版)",
-          "link": "/zh/nmpa/guidance/α-cyanoacrylate-medical-adhesive"
-        },
-        {
-          "text": "01 有源手术器械",
-          "link": "/zh/nmpa/guidance/01-active-surgical"
-        },
-        {
-          "text": "电动病床注册技术审查指导原则（2017年修订版）",
-          "link": "/zh/nmpa/guidance/15-03-01"
-        },
-        {
-          "text": "2025版",
-          "link": "/zh/nmpa/guidance/2025-2"
-        },
-        {
-          "text": "弱视治疗设备（光源不直接照射眼底）注册审查指导原则",
-          "link": "/zh/nmpa/guidance/amblyopia-treatment-device"
-        },
-        {
-          "text": "球囊扩张导管注册技术审查指导原则",
-          "link": "/zh/nmpa/guidance/balloon-catheter-2020"
-        },
-        {
-          "text": "自测用血糖监测系统注册审查指导原则（2023年修订版）",
-          "link": "/zh/nmpa/guidance/bgm-2023"
-        },
-        {
-          "text": "血流变分析仪注册审查指导原则",
-          "link": "/zh/nmpa/guidance/blood-rheology-analyzer"
-        },
-        {
-          "text": "呼吸系统过滤器注册审查指导原则（2023年第22号）",
-          "link": "/zh/nmpa/guidance/bsf-guidance"
-        },
-        {
-          "text": "持续葡萄糖监测系统注册审查指导原则（2023年修订版）",
-          "link": "/zh/nmpa/guidance/cgm-07-04-03"
-        },
-        {
-          "text": "第一类医疗器械产品目录",
-          "link": "/zh/nmpa/guidance/class-i-devces"
-        },
-        {
-          "text": "应用纳米材料的医疗器械产品分类界定指导原则",
-          "link": "/zh/nmpa/guidance/classification-of-medical-device-products-using-nanomaterials"
-        },
-        {
-          "text": "医疗器械分类目录",
-          "link": "/zh/nmpa/guidance/classification"
-        },
-        {
-          "text": "全自动化学发光免疫分析仪注册审查指导原则（2025年修订版）",
-          "link": "/zh/nmpa/guidance/clia-2025"
-        },
-        {
-          "text": "医疗器械生物学评价和审查指南",
-          "link": "/zh/nmpa/guidance/cmde-2007-345"
-        },
-        {
-          "text": "气管插管产品注册技术审查指导原则（食药监办械函[2009]95号）",
-          "link": "/zh/nmpa/guidance/cmde-2009-95"
-        },
-        {
-          "text": "麻醉机和呼吸机用呼吸管路产品注册技术审查指导原则（2012年第210号）",
-          "link": "/zh/nmpa/guidance/cmde-2012-210"
-        },
-        {
-          "text": "正压通气治疗机注册技术审查指导原则（2016年第27号）",
-          "link": "/zh/nmpa/guidance/cmde-2016-27"
-        },
-        {
-          "text": "医疗器械注册单元划分指导原则",
-          "link": "/zh/nmpa/guidance/cmde-2017-187"
-        },
-        {
-          "text": "治疗呼吸机临床评价技术审查指导原则（2017年第212号）",
-          "link": "/zh/nmpa/guidance/cmde-2017-212"
-        },
-        {
-          "text": "一次性使用吸痰管注册技术审查指导原则（2018年第120号）",
-          "link": "/zh/nmpa/guidance/cmde-2018-120"
-        },
-        {
-          "text": "有源医疗器械使用期限注册技术审查指导原则",
-          "link": "/zh/nmpa/guidance/cmde-2019-23"
-        },
-        {
-          "text": "医疗器械注册申请电子提交技术指南（试行）",
-          "link": "/zh/nmpa/guidance/cmde-2019-29"
-        },
-        {
-          "text": "医疗器械已知可沥滤物测定方法验证及确认注册技术审查指导原则（2019年第78号）",
-          "link": "/zh/nmpa/guidance/cmde-2019-78"
-        },
-        {
-          "text": "无源医疗器械产品原材料变化评价指南",
-          "link": "/zh/nmpa/guidance/cmde-2020-33"
-        },
-        {
-          "text": "麻醉面罩产品注册审查指导原则（2021年第102号）",
-          "link": "/zh/nmpa/guidance/cmde-2021-102"
-        },
-        {
-          "text": "网式雾化器注册审查指导原则（2021年第104号）",
-          "link": "/zh/nmpa/guidance/cmde-2021-104"
-        },
-        {
-          "text": "一次性使用无菌闭合夹注册技术审查指导原则（2021年第30号）",
-          "link": "/zh/nmpa/guidance/cmde-2021-30"
-        },
-        {
-          "text": "医疗器械临床评价技术指导原则",
-          "link": "/zh/nmpa/guidance/cmde-2021-73-1"
-        },
-        {
-          "text": "医疗器械注册申报临床评价报告技术指导原则",
-          "link": "/zh/nmpa/guidance/cmde-2021-73-2"
-        },
-        {
-          "text": "医疗器械临床评价等同性论证技术指导原则",
-          "link": "/zh/nmpa/guidance/cmde-2021-73-3"
-        },
-        {
-          "text": "决策是否开展医疗器械临床试验技术指导原则",
-          "link": "/zh/nmpa/guidance/cmde-2021-73-4"
-        },
-        {
-          "text": "列入免于临床评价医疗器械目录产品对比说明技术指导原则",
-          "link": "/zh/nmpa/guidance/cmde-2021-73-5"
-        },
-        {
-          "text": "持续正压通气用面罩、口罩、鼻罩注册审查指导原则（2022年第41号）",
-          "link": "/zh/nmpa/guidance/cmde-2022-41"
-        },
-        {
-          "text": "医疗器械网络安全注册审查指导原则（2022年修订版）",
-          "link": "/zh/nmpa/guidance/cmde-2022-7"
-        },
-        {
-          "text": "医疗器械产品技术要求编写指导原则（2022年第8号）",
-          "link": "/zh/nmpa/guidance/cmde-2022-8"
-        },
-        {
-          "text": "医疗器械软件注册审查指导原则（2022年修订版）",
-          "link": "/zh/nmpa/guidance/cmde-2022-9"
-        },
-        {
-          "text": "口咽/鼻咽通气道注册审查指导原则（2023年第22号）",
-          "link": "/zh/nmpa/guidance/cmde-2023-22-2"
-        },
-        {
-          "text": "医用呼吸道湿化器注册审查指导原则（2023年第22号）",
-          "link": "/zh/nmpa/guidance/cmde-2023-22"
-        },
-        {
-          "text": "高流量呼吸治疗设备注册审查指导原则（2023年第26号）",
-          "link": "/zh/nmpa/guidance/cmde-2023-26"
-        },
-        {
-          "text": "人工智能辅助检测医疗器械（软件）临床评价注册审查指导原则（2023）",
-          "link": "/zh/nmpa/guidance/cmde-2023-38"
-        },
-        {
-          "text": "体外膜氧合（ECMO）循环套包动物试验注册审查指导原则（2023年第39号）",
-          "link": "/zh/nmpa/guidance/cmde-2023-39"
-        },
-        {
-          "text": "无创血糖监测产品注册审查指导原则（2023年第42号）",
-          "link": "/zh/nmpa/guidance/cmde-2023-42"
-        },
-        {
-          "text": "麻醉机和呼吸机用呼吸管路产品注册审查 指导原则（2024年修订版）",
-          "link": "/zh/nmpa/guidance/cmde-2024-21"
-        },
-        {
-          "text": "医疗器械技术审评中心医疗器械优先审批申请审核实施细则",
-          "link": "/zh/nmpa/guidance/cmde-implementation-rules-approval"
-        },
-        {
-          "text": "药物涂层球囊扩张导管注册审查指导原则",
-          "link": "/zh/nmpa/guidance/dcb-2023"
-        },
-        {
-          "text": "一次性使用鼻氧管产品注册技术审查指导原则（2013年第8号）",
-          "link": "/zh/nmpa/guidance/disposable-nasal-oxygen-cannula-2013"
-        },
-        {
-          "text": "一次性使用鼻氧管注册审查指导原则（2024年修订）",
-          "link": "/zh/nmpa/guidance/disposable-nasal-oxygen-cannula-2024"
-        },
-        {
-          "text": "一次性使用鼻镜注册审查指导原则",
-          "link": "/zh/nmpa/guidance/disposable-rhinoscopes"
-        },
-        {
-          "text": "电子听诊器注册审查指导原则",
-          "link": "/zh/nmpa/guidance/electronic-stethoscope"
-        },
-        {
-          "text": "气管插管产品注册审查指导原则（2024年修订版）",
-          "link": "/zh/nmpa/guidance/endotracheal-intubation-2024"
-        },
-        {
-          "text": "胃肠道造影显像剂产品注册审查指导原则",
-          "link": "/zh/nmpa/guidance/gastrointestinal-contrast-agents"
-        },
-        {
-          "text": "胃镜润滑液注册审查指导原则",
-          "link": "/zh/nmpa/guidance/gastroscopic-lubricants"
-        },
-        {
-          "text": "热湿交换器注册技术审查指导原则（2020年第39号）",
-          "link": "/zh/nmpa/guidance/hme-guidance"
-        },
-        {
-          "text": "进口医疗器械变更备案资料要求",
-          "link": "/zh/nmpa/guidance/import-change-filing"
-        },
-        {
-          "text": "胰岛素泵注册审查指导原则（2023年第26号）",
-          "link": "/zh/nmpa/guidance/insulin-pump-14-03-02"
-        },
-        {
-          "text": "颅内弹簧圈注册审查指导原则",
-          "link": "/zh/nmpa/guidance/intracranial-coil"
-        },
-        {
-          "text": "免于进行临床试验体外诊断试剂目录（2025年）",
-          "link": "/zh/nmpa/guidance/ivd-ci-exemption-2025"
-        },
-        {
-          "text": "腹腔内窥镜手术系统注册审查指导原则 第4部分：风险管理",
-          "link": "/zh/nmpa/guidance/laparoscopic-surgery-system"
-        },
-        {
-          "text": "磁疗产品注册技术审查指导原则（2016年第22号）",
-          "link": "/zh/nmpa/guidance/magnetic-therapy-device-2016"
-        },
-        {
-          "text": "磁疗产品注册审查指导原则（2024年修订版）",
-          "link": "/zh/nmpa/guidance/magnetic-therapy-device-2024"
-        },
-        {
-          "text": "人工复苏器注册技术审查指导原则（2019年第79号）",
-          "link": "/zh/nmpa/guidance/manual-resuscitator-guidance"
-        },
-        {
-          "text": "医用中心吸引系统注册审查指导原则",
-          "link": "/zh/nmpa/guidance/medical-central-suction-system"
-        },
-        {
-          "text": "医用雾化器注册技术审查指导原则（2016年修订版）",
-          "link": "/zh/nmpa/guidance/medical-nebulizer-2016"
-        },
-        {
-          "text": "医用雾化器注册审查指导原则（2024修订版）",
-          "link": "/zh/nmpa/guidance/medical-nebulizer-2024"
-        },
-        {
-          "text": "医用射线防护喷剂注册审查指导原则",
-          "link": "/zh/nmpa/guidance/medical-radiation-protection-sprays"
-        },
-        {
-          "text": "记忆合金肋骨板注册审查指导原则",
-          "link": "/zh/nmpa/guidance/memory-alloy-rib-plate-2025"
-        },
-        {
-          "text": "金属骨针注册审查指导原则",
-          "link": "/zh/nmpa/guidance/metal-bone-needle-2025"
-        },
-        {
-          "text": "移动医疗器械注册审查指导原则（2025年修订版）",
-          "link": "/zh/nmpa/guidance/mobile-wearable-device-2025"
-        },
-        {
-          "text": "二代基因测序相关体外诊断试剂分类界定指导原则",
-          "link": "/zh/nmpa/guidance/ngs-ivd-classification"
-        },
-        {
-          "text": "医疗器械临床试验数据递交要求注册审查指导原则（2021年第91号）",
-          "link": "/zh/nmpa/guidance/nmpa-2021-91"
-        },
-        {
-          "text": "医疗器械经营质量管理规范现场检查指导原则",
-          "link": "/zh/nmpa/guidance/nmpa-2024-20"
-        },
-        {
-          "text": "创新医疗器械特别审查申报资料编写指南",
-          "link": "/zh/nmpa/guidance/nmpa-notice-2018-127"
-        },
-        {
-          "text": "创新医疗器械特别审查程序",
-          "link": "/zh/nmpa/guidance/nmpa-notice-2018-83"
-        },
-        {
-          "text": "国家药监局关于医疗器械电子申报有关资料要求的通告",
-          "link": "/zh/nmpa/guidance/nmpa-notice-2019-41"
-        },
-        {
-          "text": "国家药监局关于进口医疗器械产品在中国境内企业生产有关事项的公告",
-          "link": "/zh/nmpa/guidance/nmpa-notice-2020-104"
-        },
-        {
-          "text": "医疗器械安全和性能的基本原则（2020年第18号）",
-          "link": "/zh/nmpa/guidance/nmpa-notice-2020-18"
-        },
-        {
-          "text": "医疗器械注册人开展不良事件监测工作指南",
-          "link": "/zh/nmpa/guidance/nmpa-notice-2020-25"
-        },
-        {
-          "text": "医疗器械拓展性临床试验管理规定（试行）",
-          "link": "/zh/nmpa/guidance/nmpa-notice-2020-41"
-        },
-        {
-          "text": "医疗器械定期风险评价报告撰写规范",
-          "link": "/zh/nmpa/guidance/nmpa-notice-2020-46"
-        },
-        {
-          "text": "关于公布医疗器械注册申报资料要求和批准证明文件格式的公告",
-          "link": "/zh/nmpa/guidance/nmpa-notice-2021-121"
-        },
-        {
-          "text": "医疗器械注册自检管理规定",
-          "link": "/zh/nmpa/guidance/nmpa-notice-2021-126"
-        },
-        {
-          "text": "医疗器械注册人备案人开展不良事件监测工作检查要点",
-          "link": "/zh/nmpa/guidance/nmpa-notice-2021-43"
-        },
-        {
-          "text": "国家药监局关于实施《医疗器械临床试验质量管理规范》有关事项的通告",
-          "link": "/zh/nmpa/guidance/nmpa-notice-2022-21"
-        },
-        {
-          "text": "医疗器械临床试验质量管理规范",
-          "link": "/zh/nmpa/guidance/nmpa-notice-2022-28"
-        },
-        {
-          "text": "国家药监局关于全面实施医疗器械电子注册证的公告",
-          "link": "/zh/nmpa/guidance/nmpa-notice-2022-91"
-        },
-        {
-          "text": "医疗器械经营质量管理规范",
-          "link": "/zh/nmpa/guidance/nmpa-notice-2023-153"
-        },
-        {
-          "text": "医疗器械分类规则",
-          "link": "/zh/nmpa/guidance/nmpa-order-15"
-        },
-        {
-          "text": "医疗器械使用质量监督管理办法",
-          "link": "/zh/nmpa/guidance/nmpa-order-18"
-        },
-        {
-          "text": "医疗器械通用名称命名规则",
-          "link": "/zh/nmpa/guidance/nmpa-order-19"
-        },
-        {
-          "text": "医疗器械召回管理办法",
-          "link": "/zh/nmpa/guidance/nmpa-order-29"
-        },
-        {
-          "text": "医疗器械说明书和标签管理规定",
-          "link": "/zh/nmpa/guidance/nmpa-order-6"
-        },
-        {
-          "text": "医疗器械网络销售质量管理规范现场检查指导原则",
-          "link": "/zh/nmpa/guidance/online-sales-gsp-inspection"
-        },
-        {
-          "text": "医疗器械网络销售质量管理规范",
-          "link": "/zh/nmpa/guidance/online-sales"
-        },
-        {
-          "text": "外周药物涂层球囊扩张导管临床试验注册审查指导原则（2025年第2号）",
-          "link": "/zh/nmpa/guidance/pdcb-ci-2025"
-        },
-        {
-          "text": "医疗器械监督管理条例",
-          "link": "/zh/nmpa/guidance/prc-state-council-order-739"
-        },
-        {
-          "text": "预充式导管冲洗器注册审查指导原则",
-          "link": "/zh/nmpa/guidance/prefilled-catheter-flusher"
-        },
-        {
-          "text": "射线束扫描测量设备注册审查指导原则",
-          "link": "/zh/nmpa/guidance/radiation-beam-scanning-device"
-        },
-        {
-          "text": "远程监测系统注册审查指导原则",
-          "link": "/zh/nmpa/guidance/remote-monitoring-system-2024"
-        },
-        {
-          "text": "医疗器械不良事件监测和再评价管理办法",
-          "link": "/zh/nmpa/guidance/samr-order-1"
-        },
-        {
-          "text": "药品、医疗器械、保健食品、特殊医学用途配方食品广告审查管理暂行办法",
-          "link": "/zh/nmpa/guidance/samr-order-21"
-        },
-        {
-          "text": "医疗器械注册与备案管理办法",
-          "link": "/zh/nmpa/guidance/samr-order-47"
-        },
-        {
-          "text": "医疗器械经营监督管理办法",
-          "link": "/zh/nmpa/guidance/samr-order-54"
-        },
-        {
-          "text": "内窥镜手术用剪注册审查指导原则",
-          "link": "/zh/nmpa/guidance/scissors-for-endoscopic-surgery"
-        },
-        {
-          "text": "医疗器械注册自检核查指南",
-          "link": "/zh/nmpa/guidance/self-testing-audit-guideline"
-        },
-        {
-          "text": "冲击波治疗仪注册技术审查指导原则",
-          "link": "/zh/nmpa/guidance/shock-wave-therapy-device-2020"
-        },
-        {
-          "text": "一次性使用麻醉用针注册审查指导原则",
-          "link": "/zh/nmpa/guidance/single-use-anesthetic-needles"
-        },
-        {
-          "text": "一次性使用内窥镜用活检袋注册审查指导原则",
-          "link": "/zh/nmpa/guidance/single-use-endoscope-biopsy-bags"
-        },
-        {
-          "text": "一次性使用无菌尿道扩张器注册审查指导原则",
-          "link": "/zh/nmpa/guidance/single-use-sterile-urethral-dilators"
-        },
-        {
-          "text": "胸骨捆扎固定系统注册审查指导原则",
-          "link": "/zh/nmpa/guidance/sternum-strapping-system-2025"
-        },
-        {
-          "text": "微量元素分析仪注册审查指导原则",
-          "link": "/zh/nmpa/guidance/trace-element-analyzers"
-        },
-        {
-          "text": "牵引床注册审查指导原则",
-          "link": "/zh/nmpa/guidance/traction-bed"
-        },
-        {
-          "text": "医疗器械可用性工程注册审查指导原则（2024年第13号）",
-          "link": "/zh/nmpa/guidance/usability"
-        }
-      ]
-    },
-    {
-      "text": "骨科器械 (1)",
-      "collapsed": true,
-      "items": [
-        {
-          "text": "04 骨科手术器械",
-          "link": "/zh/nmpa/guidance/04-orthopedic-surgical"
-        }
-      ]
-    },
-    {
-      "text": "植入器械 (3)",
-      "collapsed": true,
-      "items": [
-        {
-          "text": "可吸收骨内固定植入物注册审查指导原则",
-          "link": "/zh/nmpa/guidance/absorbable-bone-fixation-implants-2025"
-        },
-        {
-          "text": "骨科植入物抗菌性能评价注册审查指导原则",
-          "link": "/zh/nmpa/guidance/antimicrobial-properties-of-orthopedic-implants-2025"
-        },
-        {
-          "text": "种植用口腔骨填充材料注册审查指导原则",
-          "link": "/zh/nmpa/guidance/oral-bone-filling-materials-for-implants-2025"
-        }
-      ]
-    },
-    {
-      "text": "人工智能 (9)",
-      "collapsed": true,
-      "items": [
-        {
-          "text": "脱细胞基质软组织创面修复材料产品注册审查指导原则",
-          "link": "/zh/nmpa/guidance/acellular-matrix-soft-tissue-wound-repair-material"
-        },
-        {
-          "text": "软组织再生型疝修补补片动物试验研究技术审评要点",
-          "link": "/zh/nmpa/guidance/animal-testing-of-soft-tissue-regenerative-hernia-repair-patches"
-        },
-        {
-          "text": "含光源的近视控制、弱视治疗类医疗器械产品分类界定指导原则",
-          "link": "/zh/nmpa/guidance/classification-of-medical-devices-containing-light-sources-for-myopia-control-and-amblyopia-treatment"
-        },
-        {
-          "text": "一次性使用引流管产品注册审查指导原则（2024年修订版）",
-          "link": "/zh/nmpa/guidance/disposable-drainage-tube-2024"
-        },
-        {
-          "text": "一次性使用引流管产品注册技术审查指导原则（2014年第7号）",
-          "link": "/zh/nmpa/guidance/drainage-tubes-guidance"
-        },
-        {
-          "text": "神经修复材料产品技术审评要点",
-          "link": "/zh/nmpa/guidance/nerve-repair-materials"
-        },
-        {
-          "text": "口腔修复膜注册审查指导原则",
-          "link": "/zh/nmpa/guidance/oral-repair-membrane-2025"
-        },
-        {
-          "text": "颅骨修补网板系统注册审查指导原则",
-          "link": "/zh/nmpa/guidance/skull-repair-mesh-system-2025"
-        },
-        {
-          "text": "I型胶原软骨修复产品注册审查指导原则",
-          "link": "/zh/nmpa/guidance/type-i-collagen-cartilage-repair"
-        }
-      ]
-    },
-    {
-      "text": "伤口护理 (2)",
-      "collapsed": true,
-      "items": [
-        {
-          "text": "藻酸盐敷料注册审查指导原则",
-          "link": "/zh/nmpa/guidance/alginate-dressing"
-        },
-        {
-          "text": "重组胶原蛋白创面敷料注册审查指导原则",
-          "link": "/zh/nmpa/guidance/recombinant-collagen-wound-dressing-2023"
-        }
-      ]
-    },
-    {
-      "text": "软件与数字健康 (2)",
-      "collapsed": true,
-      "items": [
-        {
-          "text": "中央监护软件注册技术审查指导原则",
-          "link": "/zh/nmpa/guidance/central-monitoring-software-2017"
-        },
-        {
-          "text": "康复类数字疗法软件产品分类界定指导原则",
-          "link": "/zh/nmpa/guidance/rehabilitation-digital-therapy-software-product-classification"
-        }
-      ]
-    },
-    {
-      "text": "注册申报 (10)",
-      "collapsed": true,
-      "items": [
-        {
-          "text": "医疗器械变更备案资料要求及说明",
-          "link": "/zh/nmpa/guidance/change-filing-submission-documentation-requirements"
-        },
-        {
-          "text": "医疗器械变更注册申报资料要求及说明",
-          "link": "/zh/nmpa/guidance/change-registration-submission-documentation-requirements"
-        },
-        {
-          "text": "第一类医疗器械备案资料要求及说明",
-          "link": "/zh/nmpa/guidance/class-i-device-submission-documentation-requirements"
-        },
-        {
-          "text": "医疗器械说明书更改告知程序",
-          "link": "/zh/nmpa/guidance/ifu-change-submission"
-        },
-        {
-          "text": "进口医疗器械变更注册申报资料要求",
-          "link": "/zh/nmpa/guidance/import-change-registration"
-        },
-        {
-          "text": "进口医疗器械首次注册资料要求",
-          "link": "/zh/nmpa/guidance/import-initial-registration"
-        },
-        {
-          "text": "进口医疗器械延续注册申报资料要求",
-          "link": "/zh/nmpa/guidance/import-renewal-registration"
-        },
-        {
-          "text": "医疗器械（首次）注册申报资料要求及说明",
-          "link": "/zh/nmpa/guidance/initial-submission-documentation-requirements"
-        },
-        {
-          "text": "医疗器械产品注册收费标准及注册收费实施细则",
-          "link": "/zh/nmpa/guidance/registration-fees"
-        },
-        {
-          "text": "医疗器械延续注册申报资料要求及说明",
-          "link": "/zh/nmpa/guidance/renewal-submission-documentation-requirements"
-        }
-      ]
-    },
-    {
-      "text": "临床评价 (5)",
-      "collapsed": true,
-      "items": [
-        {
-          "text": "免于临床评价医疗器械目录",
-          "link": "/zh/nmpa/guidance/clinical-evaluation-exemption-list"
-        },
-        {
-          "text": "临床评价",
-          "link": "/zh/nmpa/guidance/clinical-evaluation"
-        },
-        {
-          "text": "医疗器械临床试验项目检查要点及判定原则（2025年第22号公告）",
-          "link": "/zh/nmpa/guidance/clinical-investigation-checkpoint-and-criteria"
-        },
-        {
-          "text": "体外膜肺氧合系统临床评价注册审查指导原则",
-          "link": "/zh/nmpa/guidance/ecmo-cer-2025"
-        },
-        {
-          "text": "口腔种植手术导航定位系统同品种临床评价注册审查指导原则",
-          "link": "/zh/nmpa/guidance/oral-implant-surgery-navigation-and-positioning-system-cer-2021"
-        }
-      ]
-    },
-    {
-      "text": "口腔器械 (1)",
-      "collapsed": true,
-      "items": [
-        {
-          "text": "牙科树脂类充填材料产品注册审查指导原则（2025年修订版）",
-          "link": "/zh/nmpa/guidance/dental-resin-filling-materials-2025"
-        }
-      ]
-    },
-    {
-      "text": "呼吸器械 (2)",
-      "collapsed": true,
-      "items": [
-        {
-          "text": "家用无创呼吸机（非生命支持）注册审查指导原则",
-          "link": "/zh/nmpa/guidance/home-non-invasive-ventilator-non-life-support"
-        },
-        {
-          "text": "通气鼻贴注册审查指导原则",
-          "link": "/zh/nmpa/guidance/ventilation-nasal-strips"
-        }
-      ]
-    },
-    {
-      "text": "创新医疗器械 (1)",
-      "collapsed": true,
-      "items": [
-        {
-          "text": "医疗器械技术审评中心创新医疗器械特别审查申请审查实施细则",
-          "link": "/zh/nmpa/guidance/innovative-medical-devices-special-review-cmde-implementation-rules-review"
-        }
-      ]
-    },
-    {
-      "text": "生物材料 (2)",
-      "collapsed": true,
-      "items": [
-        {
-          "text": "整形美容用重组人源化胶原蛋白注射材料技术审评要点（试行）",
-          "link": "/zh/nmpa/guidance/recombinant-humanized-collagen-injection-materials-for-plastic-surgery-2022"
-        },
-        {
-          "text": "重组人源化胶原蛋白原材料评价指导原则",
-          "link": "/zh/nmpa/guidance/recombinant-humanized-collagen-raw-materials-2023"
-        }
-      ]
-    }
-  ],
-  "/zh/nmpa/regulations/": [
-    {
-      "text": "NMPA 法规规章",
+      "text": "法规规章索引",
       "link": "/zh/nmpa/regulations"
     },
     {
-      "text": "25种医疗器械生产环节风险清单和检查要点",
-      "link": "/zh/nmpa/regulations/25-medical-device-production-risks-and-inspection-points-2016"
+      "text": "GB/YY 标准",
+      "link": "/zh/nmpa/standards"
     },
     {
-      "text": "免于进行临床评价医疗器械目录（2025年）",
-      "link": "/zh/nmpa/regulations/clinical-evaluation-exemption-list-2025"
+      "text": "指导原则索引",
+      "link": "/zh/nmpa/guidance"
     },
     {
-      "text": "医疗器械出口销售证明管理规定",
-      "link": "/zh/nmpa/regulations/fsc"
+      "text": "分类目录",
+      "link": "/zh/nmpa/classification"
     },
     {
-      "text": "医疗器械生产质量管理规范(2025年版)",
-      "link": "/zh/nmpa/regulations/gmp-2025"
+      "text": "指导原则分类",
+      "collapsed": false,
+      "items": [
+        {
+          "text": "其他 (57)",
+          "collapsed": true,
+          "items": [
+            {
+              "text": "01 有源手术器械",
+              "link": "/zh/nmpa/guidance/01-active-surgical"
+            },
+            {
+              "text": "2025版",
+              "link": "/zh/nmpa/guidance/2025-2"
+            },
+            {
+              "text": "α -氰基丙烯酸酯类医用粘合剂注册审查指导原则(2024年修订版)",
+              "link": "/zh/nmpa/guidance/α-cyanoacrylate-medical-adhesive"
+            },
+            {
+              "text": "一次性使用吸痰管注册技术审查指导原则（2018年第120号）",
+              "link": "/zh/nmpa/guidance/cmde-2018-120"
+            },
+            {
+              "text": "一次性使用无菌尿道扩张器注册审查指导原则",
+              "link": "/zh/nmpa/guidance/single-use-sterile-urethral-dilators"
+            },
+            {
+              "text": "一次性使用无菌闭合夹注册技术审查指导原则（2021年第30号）",
+              "link": "/zh/nmpa/guidance/cmde-2021-30"
+            },
+            {
+              "text": "一次性使用鼻氧管产品注册技术审查指导原则（2013年第8号）",
+              "link": "/zh/nmpa/guidance/disposable-nasal-oxygen-cannula-2013"
+            },
+            {
+              "text": "一次性使用鼻氧管注册审查指导原则（2024年修订）",
+              "link": "/zh/nmpa/guidance/disposable-nasal-oxygen-cannula-2024"
+            },
+            {
+              "text": "全自动化学发光免疫分析仪注册审查指导原则（2025年修订版）",
+              "link": "/zh/nmpa/guidance/clia-2025"
+            },
+            {
+              "text": "冲击波治疗仪注册技术审查指导原则",
+              "link": "/zh/nmpa/guidance/shock-wave-therapy-device-2020"
+            },
+            {
+              "text": "医用中心吸引系统注册审查指导原则",
+              "link": "/zh/nmpa/guidance/medical-central-suction-system"
+            },
+            {
+              "text": "医疗器械不良事件监测和再评价管理办法",
+              "link": "/zh/nmpa/guidance/samr-order-1"
+            },
+            {
+              "text": "医疗器械产品技术要求编写指导原则（2022年第8号）",
+              "link": "/zh/nmpa/guidance/cmde-2022-8"
+            },
+            {
+              "text": "医疗器械使用质量监督管理办法",
+              "link": "/zh/nmpa/guidance/nmpa-order-18"
+            },
+            {
+              "text": "医疗器械分类目录",
+              "link": "/zh/nmpa/guidance/classification"
+            },
+            {
+              "text": "医疗器械分类规则",
+              "link": "/zh/nmpa/guidance/nmpa-order-15"
+            },
+            {
+              "text": "医疗器械召回管理办法",
+              "link": "/zh/nmpa/guidance/nmpa-order-29"
+            },
+            {
+              "text": "医疗器械定期风险评价报告撰写规范",
+              "link": "/zh/nmpa/guidance/nmpa-notice-2020-46"
+            },
+            {
+              "text": "医疗器械已知可沥滤物测定方法验证及确认注册技术审查指导原则（2019年第78号）",
+              "link": "/zh/nmpa/guidance/cmde-2019-78"
+            },
+            {
+              "text": "医疗器械注册与备案管理办法",
+              "link": "/zh/nmpa/guidance/samr-order-47"
+            },
+            {
+              "text": "医疗器械注册人备案人开展不良事件监测工作检查要点",
+              "link": "/zh/nmpa/guidance/nmpa-notice-2021-43"
+            },
+            {
+              "text": "医疗器械注册人开展不良事件监测工作指南",
+              "link": "/zh/nmpa/guidance/nmpa-notice-2020-25"
+            },
+            {
+              "text": "医疗器械注册单元划分指导原则",
+              "link": "/zh/nmpa/guidance/cmde-2017-187"
+            },
+            {
+              "text": "医疗器械注册申请电子提交技术指南（试行）",
+              "link": "/zh/nmpa/guidance/cmde-2019-29"
+            },
+            {
+              "text": "医疗器械生物学评价和审查指南",
+              "link": "/zh/nmpa/guidance/cmde-2007-345"
+            },
+            {
+              "text": "医疗器械监督管理条例",
+              "link": "/zh/nmpa/guidance/prc-state-council-order-739"
+            },
+            {
+              "text": "医疗器械经营监督管理办法",
+              "link": "/zh/nmpa/guidance/samr-order-54"
+            },
+            {
+              "text": "医疗器械网络安全注册审查指导原则（2022年修订版）",
+              "link": "/zh/nmpa/guidance/cmde-2022-7"
+            },
+            {
+              "text": "医疗器械说明书和标签管理规定",
+              "link": "/zh/nmpa/guidance/nmpa-order-6"
+            },
+            {
+              "text": "医疗器械通用名称命名规则",
+              "link": "/zh/nmpa/guidance/nmpa-order-19"
+            },
+            {
+              "text": "国家药监局关于全面实施医疗器械电子注册证的公告",
+              "link": "/zh/nmpa/guidance/nmpa-notice-2022-91"
+            },
+            {
+              "text": "国家药监局关于医疗器械电子申报有关资料要求的通告",
+              "link": "/zh/nmpa/guidance/nmpa-notice-2019-41"
+            },
+            {
+              "text": "应用纳米材料的医疗器械产品分类界定指导原则",
+              "link": "/zh/nmpa/guidance/classification-of-medical-device-products-using-nanomaterials"
+            },
+            {
+              "text": "微量元素分析仪注册审查指导原则",
+              "link": "/zh/nmpa/guidance/trace-element-analyzers"
+            },
+            {
+              "text": "持续葡萄糖监测系统注册审查指导原则（2023年修订版）",
+              "link": "/zh/nmpa/guidance/cgm-07-04-03"
+            },
+            {
+              "text": "无创血糖监测产品注册审查指导原则（2023年第42号）",
+              "link": "/zh/nmpa/guidance/cmde-2023-42"
+            },
+            {
+              "text": "无源医疗器械产品原材料变化评价指南",
+              "link": "/zh/nmpa/guidance/cmde-2020-33"
+            },
+            {
+              "text": "有源医疗器械使用期限注册技术审查指导原则",
+              "link": "/zh/nmpa/guidance/cmde-2019-23"
+            },
+            {
+              "text": "气管插管产品注册审查指导原则（2024年修订版）",
+              "link": "/zh/nmpa/guidance/endotracheal-intubation-2024"
+            },
+            {
+              "text": "气管插管产品注册技术审查指导原则（食药监办械函[2009]95号）",
+              "link": "/zh/nmpa/guidance/cmde-2009-95"
+            },
+            {
+              "text": "热湿交换器注册技术审查指导原则（2020年第39号）",
+              "link": "/zh/nmpa/guidance/hme-guidance"
+            },
+            {
+              "text": "牵引床注册审查指导原则",
+              "link": "/zh/nmpa/guidance/traction-bed"
+            },
+            {
+              "text": "电动病床注册技术审查指导原则（2017年修订版）",
+              "link": "/zh/nmpa/guidance/15-03-01"
+            },
+            {
+              "text": "电子听诊器注册审查指导原则",
+              "link": "/zh/nmpa/guidance/electronic-stethoscope"
+            },
+            {
+              "text": "磁疗产品注册审查指导原则（2024年修订版）",
+              "link": "/zh/nmpa/guidance/magnetic-therapy-device-2024"
+            },
+            {
+              "text": "磁疗产品注册技术审查指导原则（2016年第22号）",
+              "link": "/zh/nmpa/guidance/magnetic-therapy-device-2016"
+            },
+            {
+              "text": "移动医疗器械注册审查指导原则（2025年修订版）",
+              "link": "/zh/nmpa/guidance/mobile-wearable-device-2025"
+            },
+            {
+              "text": "第一类医疗器械产品目录",
+              "link": "/zh/nmpa/guidance/class-i-devces"
+            },
+            {
+              "text": "胰岛素泵注册审查指导原则（2023年第26号）",
+              "link": "/zh/nmpa/guidance/insulin-pump-14-03-02"
+            },
+            {
+              "text": "胸骨捆扎固定系统注册审查指导原则",
+              "link": "/zh/nmpa/guidance/sternum-strapping-system-2025"
+            },
+            {
+              "text": "自测用血糖监测系统注册审查指导原则（2023年修订版）",
+              "link": "/zh/nmpa/guidance/bgm-2023"
+            },
+            {
+              "text": "药品、医疗器械、保健食品、特殊医学用途配方食品广告审查管理暂行办法",
+              "link": "/zh/nmpa/guidance/samr-order-21"
+            },
+            {
+              "text": "血流变分析仪注册审查指导原则",
+              "link": "/zh/nmpa/guidance/blood-rheology-analyzer"
+            },
+            {
+              "text": "记忆合金肋骨板注册审查指导原则",
+              "link": "/zh/nmpa/guidance/memory-alloy-rib-plate-2025"
+            },
+            {
+              "text": "远程监测系统注册审查指导原则",
+              "link": "/zh/nmpa/guidance/remote-monitoring-system-2024"
+            },
+            {
+              "text": "金属骨针注册审查指导原则",
+              "link": "/zh/nmpa/guidance/metal-bone-needle-2025"
+            },
+            {
+              "text": "颅内弹簧圈注册审查指导原则",
+              "link": "/zh/nmpa/guidance/intracranial-coil"
+            }
+          ]
+        },
+        {
+          "text": "骨科与植入器械 (5)",
+          "collapsed": true,
+          "items": [
+            {
+              "text": "04 骨科手术器械",
+              "link": "/zh/nmpa/guidance/04-orthopedic-surgical"
+            },
+            {
+              "text": "可吸收骨内固定植入物注册审查指导原则",
+              "link": "/zh/nmpa/guidance/absorbable-bone-fixation-implants-2025"
+            },
+            {
+              "text": "种植用口腔骨填充材料注册审查指导原则",
+              "link": "/zh/nmpa/guidance/oral-bone-filling-materials-for-implants-2025"
+            },
+            {
+              "text": "颅骨修补网板系统注册审查指导原则",
+              "link": "/zh/nmpa/guidance/skull-repair-mesh-system-2025"
+            },
+            {
+              "text": "骨科植入物抗菌性能评价注册审查指导原则",
+              "link": "/zh/nmpa/guidance/antimicrobial-properties-of-orthopedic-implants-2025"
+            }
+          ]
+        },
+        {
+          "text": "伤口护理与生物材料 (8)",
+          "collapsed": true,
+          "items": [
+            {
+              "text": "I型胶原软骨修复产品注册审查指导原则",
+              "link": "/zh/nmpa/guidance/type-i-collagen-cartilage-repair"
+            },
+            {
+              "text": "整形美容用重组人源化胶原蛋白注射材料技术审评要点（试行）",
+              "link": "/zh/nmpa/guidance/recombinant-humanized-collagen-injection-materials-for-plastic-surgery-2022"
+            },
+            {
+              "text": "神经修复材料产品技术审评要点",
+              "link": "/zh/nmpa/guidance/nerve-repair-materials"
+            },
+            {
+              "text": "脱细胞基质软组织创面修复材料产品注册审查指导原则",
+              "link": "/zh/nmpa/guidance/acellular-matrix-soft-tissue-wound-repair-material"
+            },
+            {
+              "text": "藻酸盐敷料注册审查指导原则",
+              "link": "/zh/nmpa/guidance/alginate-dressing"
+            },
+            {
+              "text": "软组织再生型疝修补补片动物试验研究技术审评要点",
+              "link": "/zh/nmpa/guidance/animal-testing-of-soft-tissue-regenerative-hernia-repair-patches"
+            },
+            {
+              "text": "重组人源化胶原蛋白原材料评价指导原则",
+              "link": "/zh/nmpa/guidance/recombinant-humanized-collagen-raw-materials-2023"
+            },
+            {
+              "text": "重组胶原蛋白创面敷料注册审查指导原则",
+              "link": "/zh/nmpa/guidance/recombinant-collagen-wound-dressing-2023"
+            }
+          ]
+        },
+        {
+          "text": "眼科器械 (2)",
+          "collapsed": true,
+          "items": [
+            {
+              "text": "含光源的近视控制、弱视治疗类医疗器械产品分类界定指导原则",
+              "link": "/zh/nmpa/guidance/classification-of-medical-devices-containing-light-sources-for-myopia-control-and-amblyopia-treatment"
+            },
+            {
+              "text": "弱视治疗设备（光源不直接照射眼底）注册审查指导原则",
+              "link": "/zh/nmpa/guidance/amblyopia-treatment-device"
+            }
+          ]
+        },
+        {
+          "text": "心血管器械 (3)",
+          "collapsed": true,
+          "items": [
+            {
+              "text": "球囊扩张导管注册技术审查指导原则",
+              "link": "/zh/nmpa/guidance/balloon-catheter-2020"
+            },
+            {
+              "text": "药物涂层球囊扩张导管注册审查指导原则",
+              "link": "/zh/nmpa/guidance/dcb-2023"
+            },
+            {
+              "text": "预充式导管冲洗器注册审查指导原则",
+              "link": "/zh/nmpa/guidance/prefilled-catheter-flusher"
+            }
+          ]
+        },
+        {
+          "text": "呼吸器械 (14)",
+          "collapsed": true,
+          "items": [
+            {
+              "text": "人工复苏器注册技术审查指导原则（2019年第79号）",
+              "link": "/zh/nmpa/guidance/manual-resuscitator-guidance"
+            },
+            {
+              "text": "医用呼吸道湿化器注册审查指导原则（2023年第22号）",
+              "link": "/zh/nmpa/guidance/cmde-2023-22"
+            },
+            {
+              "text": "医用雾化器注册审查指导原则（2024修订版）",
+              "link": "/zh/nmpa/guidance/medical-nebulizer-2024"
+            },
+            {
+              "text": "医用雾化器注册技术审查指导原则（2016年修订版）",
+              "link": "/zh/nmpa/guidance/medical-nebulizer-2016"
+            },
+            {
+              "text": "口咽/鼻咽通气道注册审查指导原则（2023年第22号）",
+              "link": "/zh/nmpa/guidance/cmde-2023-22-2"
+            },
+            {
+              "text": "呼吸系统过滤器注册审查指导原则（2023年第22号）",
+              "link": "/zh/nmpa/guidance/bsf-guidance"
+            },
+            {
+              "text": "家用无创呼吸机（非生命支持）注册审查指导原则",
+              "link": "/zh/nmpa/guidance/home-non-invasive-ventilator-non-life-support"
+            },
+            {
+              "text": "持续正压通气用面罩、口罩、鼻罩注册审查指导原则（2022年第41号）",
+              "link": "/zh/nmpa/guidance/cmde-2022-41"
+            },
+            {
+              "text": "正压通气治疗机注册技术审查指导原则（2016年第27号）",
+              "link": "/zh/nmpa/guidance/cmde-2016-27"
+            },
+            {
+              "text": "网式雾化器注册审查指导原则（2021年第104号）",
+              "link": "/zh/nmpa/guidance/cmde-2021-104"
+            },
+            {
+              "text": "通气鼻贴注册审查指导原则",
+              "link": "/zh/nmpa/guidance/ventilation-nasal-strips"
+            },
+            {
+              "text": "高流量呼吸治疗设备注册审查指导原则（2023年第26号）",
+              "link": "/zh/nmpa/guidance/cmde-2023-26"
+            },
+            {
+              "text": "麻醉机和呼吸机用呼吸管路产品注册审查 指导原则（2024年修订版）",
+              "link": "/zh/nmpa/guidance/cmde-2024-21"
+            },
+            {
+              "text": "麻醉机和呼吸机用呼吸管路产品注册技术审查指导原则（2012年第210号）",
+              "link": "/zh/nmpa/guidance/cmde-2012-210"
+            }
+          ]
+        },
+        {
+          "text": "人工智能与软件 (4)",
+          "collapsed": true,
+          "items": [
+            {
+              "text": "中央监护软件注册技术审查指导原则",
+              "link": "/zh/nmpa/guidance/central-monitoring-software-2017"
+            },
+            {
+              "text": "人工智能辅助检测医疗器械（软件）临床评价注册审查指导原则（2023）",
+              "link": "/zh/nmpa/guidance/cmde-2023-38"
+            },
+            {
+              "text": "医疗器械软件注册审查指导原则（2022年修订版）",
+              "link": "/zh/nmpa/guidance/cmde-2022-9"
+            },
+            {
+              "text": "康复类数字疗法软件产品分类界定指导原则",
+              "link": "/zh/nmpa/guidance/rehabilitation-digital-therapy-software-product-classification"
+            }
+          ]
+        },
+        {
+          "text": "注册申报 (16)",
+          "collapsed": true,
+          "items": [
+            {
+              "text": "关于公布医疗器械注册申报资料要求和批准证明文件格式的公告",
+              "link": "/zh/nmpa/guidance/nmpa-notice-2021-121"
+            },
+            {
+              "text": "创新医疗器械特别审查申报资料编写指南",
+              "link": "/zh/nmpa/guidance/nmpa-notice-2018-127"
+            },
+            {
+              "text": "医疗器械产品注册收费标准及注册收费实施细则",
+              "link": "/zh/nmpa/guidance/registration-fees"
+            },
+            {
+              "text": "医疗器械变更备案资料要求及说明",
+              "link": "/zh/nmpa/guidance/change-filing-submission-documentation-requirements"
+            },
+            {
+              "text": "医疗器械变更注册申报资料要求及说明",
+              "link": "/zh/nmpa/guidance/change-registration-submission-documentation-requirements"
+            },
+            {
+              "text": "医疗器械延续注册申报资料要求及说明",
+              "link": "/zh/nmpa/guidance/renewal-submission-documentation-requirements"
+            },
+            {
+              "text": "医疗器械注册自检核查指南",
+              "link": "/zh/nmpa/guidance/self-testing-audit-guideline"
+            },
+            {
+              "text": "医疗器械注册自检管理规定",
+              "link": "/zh/nmpa/guidance/nmpa-notice-2021-126"
+            },
+            {
+              "text": "医疗器械说明书更改告知程序",
+              "link": "/zh/nmpa/guidance/ifu-change-submission"
+            },
+            {
+              "text": "医疗器械（首次）注册申报资料要求及说明",
+              "link": "/zh/nmpa/guidance/initial-submission-documentation-requirements"
+            },
+            {
+              "text": "国家药监局关于进口医疗器械产品在中国境内企业生产有关事项的公告",
+              "link": "/zh/nmpa/guidance/nmpa-notice-2020-104"
+            },
+            {
+              "text": "第一类医疗器械备案资料要求及说明",
+              "link": "/zh/nmpa/guidance/class-i-device-submission-documentation-requirements"
+            },
+            {
+              "text": "进口医疗器械变更备案资料要求",
+              "link": "/zh/nmpa/guidance/import-change-filing"
+            },
+            {
+              "text": "进口医疗器械变更注册申报资料要求",
+              "link": "/zh/nmpa/guidance/import-change-registration"
+            },
+            {
+              "text": "进口医疗器械延续注册申报资料要求",
+              "link": "/zh/nmpa/guidance/import-renewal-registration"
+            },
+            {
+              "text": "进口医疗器械首次注册资料要求",
+              "link": "/zh/nmpa/guidance/import-initial-registration"
+            }
+          ]
+        },
+        {
+          "text": "临床评价 (17)",
+          "collapsed": true,
+          "items": [
+            {
+              "text": "临床评价",
+              "link": "/zh/nmpa/guidance/clinical-evaluation"
+            },
+            {
+              "text": "体外膜肺氧合系统临床评价注册审查指导原则",
+              "link": "/zh/nmpa/guidance/ecmo-cer-2025"
+            },
+            {
+              "text": "免于临床评价医疗器械目录",
+              "link": "/zh/nmpa/guidance/clinical-evaluation-exemption-list"
+            },
+            {
+              "text": "免于进行临床试验体外诊断试剂目录（2025年）",
+              "link": "/zh/nmpa/guidance/ivd-ci-exemption-2025"
+            },
+            {
+              "text": "决策是否开展医疗器械临床试验技术指导原则",
+              "link": "/zh/nmpa/guidance/cmde-2021-73-4"
+            },
+            {
+              "text": "列入免于临床评价医疗器械目录产品对比说明技术指导原则",
+              "link": "/zh/nmpa/guidance/cmde-2021-73-5"
+            },
+            {
+              "text": "医疗器械临床评价技术指导原则",
+              "link": "/zh/nmpa/guidance/cmde-2021-73-1"
+            },
+            {
+              "text": "医疗器械临床评价等同性论证技术指导原则",
+              "link": "/zh/nmpa/guidance/cmde-2021-73-3"
+            },
+            {
+              "text": "医疗器械临床试验数据递交要求注册审查指导原则（2021年第91号）",
+              "link": "/zh/nmpa/guidance/nmpa-2021-91"
+            },
+            {
+              "text": "医疗器械临床试验质量管理规范",
+              "link": "/zh/nmpa/guidance/nmpa-notice-2022-28"
+            },
+            {
+              "text": "医疗器械临床试验项目检查要点及判定原则（2025年第22号公告）",
+              "link": "/zh/nmpa/guidance/clinical-investigation-checkpoint-and-criteria"
+            },
+            {
+              "text": "医疗器械拓展性临床试验管理规定（试行）",
+              "link": "/zh/nmpa/guidance/nmpa-notice-2020-41"
+            },
+            {
+              "text": "医疗器械注册申报临床评价报告技术指导原则",
+              "link": "/zh/nmpa/guidance/cmde-2021-73-2"
+            },
+            {
+              "text": "口腔种植手术导航定位系统同品种临床评价注册审查指导原则",
+              "link": "/zh/nmpa/guidance/oral-implant-surgery-navigation-and-positioning-system-cer-2021"
+            },
+            {
+              "text": "国家药监局关于实施《医疗器械临床试验质量管理规范》有关事项的通告",
+              "link": "/zh/nmpa/guidance/nmpa-notice-2022-21"
+            },
+            {
+              "text": "外周药物涂层球囊扩张导管临床试验注册审查指导原则（2025年第2号）",
+              "link": "/zh/nmpa/guidance/pdcb-ci-2025"
+            },
+            {
+              "text": "治疗呼吸机临床评价技术审查指导原则（2017年第212号）",
+              "link": "/zh/nmpa/guidance/cmde-2017-212"
+            }
+          ]
+        },
+        {
+          "text": "输液与护理器械 (5)",
+          "collapsed": true,
+          "items": [
+            {
+              "text": "一次性使用引流管产品注册审查指导原则（2024年修订版）",
+              "link": "/zh/nmpa/guidance/disposable-drainage-tube-2024"
+            },
+            {
+              "text": "一次性使用引流管产品注册技术审查指导原则（2014年第7号）",
+              "link": "/zh/nmpa/guidance/drainage-tubes-guidance"
+            },
+            {
+              "text": "一次性使用麻醉用针注册审查指导原则",
+              "link": "/zh/nmpa/guidance/single-use-anesthetic-needles"
+            },
+            {
+              "text": "一次性使用鼻镜注册审查指导原则",
+              "link": "/zh/nmpa/guidance/disposable-rhinoscopes"
+            },
+            {
+              "text": "麻醉面罩产品注册审查指导原则（2021年第102号）",
+              "link": "/zh/nmpa/guidance/cmde-2021-102"
+            }
+          ]
+        },
+        {
+          "text": "灭菌与生物相容性 (1)",
+          "collapsed": true,
+          "items": [
+            {
+              "text": "体外膜氧合（ECMO）循环套包动物试验注册审查指导原则（2023年第39号）",
+              "link": "/zh/nmpa/guidance/cmde-2023-39"
+            }
+          ]
+        },
+        {
+          "text": "创新与优先审批 (3)",
+          "collapsed": true,
+          "items": [
+            {
+              "text": "创新医疗器械特别审查程序",
+              "link": "/zh/nmpa/guidance/nmpa-notice-2018-83"
+            },
+            {
+              "text": "医疗器械技术审评中心创新医疗器械特别审查申请审查实施细则",
+              "link": "/zh/nmpa/guidance/innovative-medical-devices-special-review-cmde-implementation-rules-review"
+            },
+            {
+              "text": "医疗器械技术审评中心医疗器械优先审批申请审核实施细则",
+              "link": "/zh/nmpa/guidance/cmde-implementation-rules-approval"
+            }
+          ]
+        },
+        {
+          "text": "口腔器械 (2)",
+          "collapsed": true,
+          "items": [
+            {
+              "text": "口腔修复膜注册审查指导原则",
+              "link": "/zh/nmpa/guidance/oral-repair-membrane-2025"
+            },
+            {
+              "text": "牙科树脂类充填材料产品注册审查指导原则（2025年修订版）",
+              "link": "/zh/nmpa/guidance/dental-resin-filling-materials-2025"
+            }
+          ]
+        },
+        {
+          "text": "影像与诊断器械 (8)",
+          "collapsed": true,
+          "items": [
+            {
+              "text": "一次性使用内窥镜用活检袋注册审查指导原则",
+              "link": "/zh/nmpa/guidance/single-use-endoscope-biopsy-bags"
+            },
+            {
+              "text": "二代基因测序相关体外诊断试剂分类界定指导原则",
+              "link": "/zh/nmpa/guidance/ngs-ivd-classification"
+            },
+            {
+              "text": "内窥镜手术用剪注册审查指导原则",
+              "link": "/zh/nmpa/guidance/scissors-for-endoscopic-surgery"
+            },
+            {
+              "text": "医用射线防护喷剂注册审查指导原则",
+              "link": "/zh/nmpa/guidance/medical-radiation-protection-sprays"
+            },
+            {
+              "text": "射线束扫描测量设备注册审查指导原则",
+              "link": "/zh/nmpa/guidance/radiation-beam-scanning-device"
+            },
+            {
+              "text": "胃肠道造影显像剂产品注册审查指导原则",
+              "link": "/zh/nmpa/guidance/gastrointestinal-contrast-agents"
+            },
+            {
+              "text": "胃镜润滑液注册审查指导原则",
+              "link": "/zh/nmpa/guidance/gastroscopic-lubricants"
+            },
+            {
+              "text": "腹腔内窥镜手术系统注册审查指导原则 第4部分：风险管理",
+              "link": "/zh/nmpa/guidance/laparoscopic-surgery-system"
+            }
+          ]
+        },
+        {
+          "text": "质量管理 (6)",
+          "collapsed": true,
+          "items": [
+            {
+              "text": "医疗器械可用性工程注册审查指导原则（2024年第13号）",
+              "link": "/zh/nmpa/guidance/usability"
+            },
+            {
+              "text": "医疗器械安全和性能的基本原则（2020年第18号）",
+              "link": "/zh/nmpa/guidance/nmpa-notice-2020-18"
+            },
+            {
+              "text": "医疗器械经营质量管理规范",
+              "link": "/zh/nmpa/guidance/nmpa-notice-2023-153"
+            },
+            {
+              "text": "医疗器械经营质量管理规范现场检查指导原则",
+              "link": "/zh/nmpa/guidance/nmpa-2024-20"
+            },
+            {
+              "text": "医疗器械网络销售质量管理规范",
+              "link": "/zh/nmpa/guidance/online-sales"
+            },
+            {
+              "text": "医疗器械网络销售质量管理规范现场检查指导原则",
+              "link": "/zh/nmpa/guidance/online-sales-gsp-inspection"
+            }
+          ]
+        }
+      ]
     },
     {
-      "text": "医疗器械生产质量管理规范 - 植入性医疗器械现场检查指导原则",
-      "link": "/zh/nmpa/regulations/gmp-implants"
-    },
-    {
-      "text": "医疗器械生产质量管理规范 - 无菌医疗器械现场检查指导原则",
-      "link": "/zh/nmpa/regulations/gmp-sterile"
-    },
-    {
-      "text": "医疗器械生产质量管理规范（2014年版）",
-      "link": "/zh/nmpa/regulations/nmpa-2014-64"
-    },
-    {
-      "text": "医疗器械生产企业供应商审核指南",
-      "link": "/zh/nmpa/regulations/nmpa-2015-1"
-    },
-    {
-      "text": "禁止委托生产医疗器械目录",
-      "link": "/zh/nmpa/regulations/nmpa-2022-17"
-    },
-    {
-      "text": "医疗器械委托生产质量协议编制指南",
-      "link": "/zh/nmpa/regulations/nmpa-2022-20"
-    },
-    {
-      "text": "医疗器械生产质量管理规范现场检查指导原则",
-      "link": "/zh/nmpa/regulations/nmpa-notice-2015-218"
-    },
-    {
-      "text": "医疗器械生产质量管理规范附录 - 独立软件",
-      "link": "/zh/nmpa/regulations/nmpa-notice-2019-43"
-    },
-    {
-      "text": "关于做好第一批实施医疗器械唯一标识工作有关事项的通告",
-      "link": "/zh/nmpa/regulations/nmpa-notice-2019-72"
-    },
-    {
-      "text": "关于做好第二批实施医疗器械唯一标识工作的公告",
-      "link": "/zh/nmpa/regulations/nmpa-notice-2021-114"
-    },
-    {
-      "text": "企业落实医疗器械质量安全主体责任监督管理规定",
-      "link": "/zh/nmpa/regulations/nmpa-notice-2022-124"
-    },
-    {
-      "text": "医疗器械质量管理体系年度自查报告编写指南",
-      "link": "/zh/nmpa/regulations/nmpa-notice-2022-13"
-    },
-    {
-      "text": "医疗器械注册质量管理体系核查指南",
-      "link": "/zh/nmpa/regulations/nmpa-notice-2022-50"
-    },
-    {
-      "text": "关于第一类医疗器械备案有关事项的公告",
-      "link": "/zh/nmpa/regulations/nmpa-notice-2022-62"
-    },
-    {
-      "text": "关于GB 9706.1-2020及配套并列标准、专用标准实施有关工作的通告",
-      "link": "/zh/nmpa/regulations/nmpa-notice-2023-14"
-    },
-    {
-      "text": "关于做好第三批实施医疗器械唯一标识工作的公告",
-      "link": "/zh/nmpa/regulations/nmpa-notice-2023-22"
-    },
-    {
-      "text": "国家药监局关于进一步加强医疗器械注册人委托生产监督管理的公告（2024年第38号）",
-      "link": "/zh/nmpa/regulations/nmpa-notice-2024-38"
-    },
-    {
-      "text": "国家药监局综合司关于加强医疗器械跨区域委托生产协同监管工作的意见",
-      "link": "/zh/nmpa/regulations/nmpa-opinion-2022-21"
-    },
-    {
-      "text": "药品医疗器械飞行检查办法",
-      "link": "/zh/nmpa/regulations/nmpa-order-14"
-    },
-    {
-      "text": "药品医疗器械境外检查管理规定",
-      "link": "/zh/nmpa/regulations/provisions-on-overseas-inspection-of-drugs-and-medical-devices"
-    },
-    {
-      "text": "医疗器械生产监督管理办法",
-      "link": "/zh/nmpa/regulations/samr-order-53"
+      "text": "法规全文 (25)",
+      "collapsed": true,
+      "items": [
+        {
+          "text": "25种医疗器械生产环节风险清单和检查要点",
+          "link": "/zh/nmpa/regulations/25-medical-device-production-risks-and-inspection-points-2016"
+        },
+        {
+          "text": "企业落实医疗器械质量安全主体责任监督管理规定",
+          "link": "/zh/nmpa/regulations/nmpa-notice-2022-124"
+        },
+        {
+          "text": "免于进行临床评价医疗器械目录（2025年）",
+          "link": "/zh/nmpa/regulations/clinical-evaluation-exemption-list-2025"
+        },
+        {
+          "text": "关于GB 9706.1-2020及配套并列标准、专用标准实施有关工作的通告",
+          "link": "/zh/nmpa/regulations/nmpa-notice-2023-14"
+        },
+        {
+          "text": "关于做好第一批实施医疗器械唯一标识工作有关事项的通告",
+          "link": "/zh/nmpa/regulations/nmpa-notice-2019-72"
+        },
+        {
+          "text": "关于做好第三批实施医疗器械唯一标识工作的公告",
+          "link": "/zh/nmpa/regulations/nmpa-notice-2023-22"
+        },
+        {
+          "text": "关于做好第二批实施医疗器械唯一标识工作的公告",
+          "link": "/zh/nmpa/regulations/nmpa-notice-2021-114"
+        },
+        {
+          "text": "关于第一类医疗器械备案有关事项的公告",
+          "link": "/zh/nmpa/regulations/nmpa-notice-2022-62"
+        },
+        {
+          "text": "医疗器械出口销售证明管理规定",
+          "link": "/zh/nmpa/regulations/fsc"
+        },
+        {
+          "text": "医疗器械委托生产质量协议编制指南",
+          "link": "/zh/nmpa/regulations/nmpa-2022-20"
+        },
+        {
+          "text": "医疗器械注册质量管理体系核查指南",
+          "link": "/zh/nmpa/regulations/nmpa-notice-2022-50"
+        },
+        {
+          "text": "医疗器械生产企业供应商审核指南",
+          "link": "/zh/nmpa/regulations/nmpa-2015-1"
+        },
+        {
+          "text": "医疗器械生产监督管理办法",
+          "link": "/zh/nmpa/regulations/samr-order-53"
+        },
+        {
+          "text": "医疗器械生产质量管理规范 - 无菌医疗器械现场检查指导原则",
+          "link": "/zh/nmpa/regulations/gmp-sterile"
+        },
+        {
+          "text": "医疗器械生产质量管理规范 - 植入性医疗器械现场检查指导原则",
+          "link": "/zh/nmpa/regulations/gmp-implants"
+        },
+        {
+          "text": "医疗器械生产质量管理规范(2025年版)",
+          "link": "/zh/nmpa/regulations/gmp-2025"
+        },
+        {
+          "text": "医疗器械生产质量管理规范现场检查指导原则",
+          "link": "/zh/nmpa/regulations/nmpa-notice-2015-218"
+        },
+        {
+          "text": "医疗器械生产质量管理规范附录 - 独立软件",
+          "link": "/zh/nmpa/regulations/nmpa-notice-2019-43"
+        },
+        {
+          "text": "医疗器械生产质量管理规范（2014年版）",
+          "link": "/zh/nmpa/regulations/nmpa-2014-64"
+        },
+        {
+          "text": "医疗器械质量管理体系年度自查报告编写指南",
+          "link": "/zh/nmpa/regulations/nmpa-notice-2022-13"
+        },
+        {
+          "text": "国家药监局关于进一步加强医疗器械注册人委托生产监督管理的公告（2024年第38号）",
+          "link": "/zh/nmpa/regulations/nmpa-notice-2024-38"
+        },
+        {
+          "text": "国家药监局综合司关于加强医疗器械跨区域委托生产协同监管工作的意见",
+          "link": "/zh/nmpa/regulations/nmpa-opinion-2022-21"
+        },
+        {
+          "text": "禁止委托生产医疗器械目录",
+          "link": "/zh/nmpa/regulations/nmpa-2022-17"
+        },
+        {
+          "text": "药品医疗器械境外检查管理规定",
+          "link": "/zh/nmpa/regulations/provisions-on-overseas-inspection-of-drugs-and-medical-devices"
+        },
+        {
+          "text": "药品医疗器械飞行检查办法",
+          "link": "/zh/nmpa/regulations/nmpa-order-14"
+        }
+      ]
     }
   ],
   "/zh/insights/": [

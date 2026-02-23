@@ -44,34 +44,95 @@ SECTION_MAP = {
     "insights/analysis":        ("docs/zh/insights/analysis.md",        "法规解读分析",            "insights", True),
 }
 
-# Category grouping for NMPA guidance (by device category prefix in slug)
-NMPA_GUIDANCE_GROUPS = {
-    "software": "软件与数字健康",
-    "ai": "人工智能",
-    "clinical": "临床评价",
-    "cer": "临床评价",
-    "biocompat": "生物相容性",
-    "steriliz": "灭菌",
-    "implant": "植入器械",
-    "orthopedic": "骨科器械",
-    "cardiovascular": "心血管器械",
-    "ophthalm": "眼科器械",
-    "dental": "口腔器械",
-    "imaging": "影像器械",
-    "diagnostic": "诊断器械",
-    "ventilat": "呼吸器械",
-    "respirat": "呼吸器械",
-    "infusion": "输液护理器械",
-    "wound": "伤口护理",
-    "dressing": "伤口护理",
-    "collagen": "生物材料",
-    "qms": "质量管理体系",
-    "gmp": "质量管理体系",
-    "registration": "注册申报",
-    "submission": "注册申报",
-    "innovative": "创新医疗器械",
-    "priority": "优先审批",
-}
+# Category grouping for NMPA guidance — matched against Chinese title keywords (order matters: first match wins)
+# Each entry: (keyword_in_title, group_name)
+NMPA_GUIDANCE_GROUPS_ZH = [
+    # 人工智能 / 软件
+    ("人工智能", "人工智能与软件"),
+    ("软件", "人工智能与软件"),
+    ("算法", "人工智能与软件"),
+    # 临床评价
+    ("临床评价", "临床评价"),
+    ("临床试验", "临床评价"),
+    ("同品种", "临床评价"),
+    ("免于临床", "临床评价"),
+    # 注册申报
+    ("注册申报", "注册申报"),
+    ("备案资料", "注册申报"),
+    ("申报资料", "注册申报"),
+    ("注册收费", "注册申报"),
+    ("说明书更改", "注册申报"),
+    ("延续注册", "注册申报"),
+    ("首次注册", "注册申报"),
+    ("变更注册", "注册申报"),
+    ("变更备案", "注册申报"),
+    ("进口医疗器械", "注册申报"),
+    ("自检", "注册申报"),
+    # 创新与优先
+    ("创新医疗器械", "创新与优先审批"),
+    ("优先审批", "创新与优先审批"),
+    # 骨科与植入
+    ("骨科", "骨科与植入器械"),
+    ("植入", "骨科与植入器械"),
+    ("骨填充", "骨科与植入器械"),
+    ("骨内固定", "骨科与植入器械"),
+    ("骨修补", "骨科与植入器械"),
+    ("颅骨", "骨科与植入器械"),
+    ("种植", "骨科与植入器械"),
+    # 心血管
+    ("心血管", "心血管器械"),
+    ("导管", "心血管器械"),
+    ("球囊", "心血管器械"),
+    ("支架", "心血管器械"),
+    ("起搏", "心血管器械"),
+    # 眼科
+    ("眼科", "眼科器械"),
+    ("近视", "眼科器械"),
+    ("弱视", "眼科器械"),
+    ("角膜", "眼科器械"),
+    # 口腔
+    ("口腔", "口腔器械"),
+    ("牙科", "口腔器械"),
+    ("牙", "口腔器械"),
+    # 呼吸
+    ("呼吸", "呼吸器械"),
+    ("雾化", "呼吸器械"),
+    ("通气", "呼吸器械"),
+    ("复苏", "呼吸器械"),
+    # 影像与诊断
+    ("影像", "影像与诊断器械"),
+    ("诊断", "影像与诊断器械"),
+    ("造影", "影像与诊断器械"),
+    ("射线", "影像与诊断器械"),
+    ("内窥镜", "影像与诊断器械"),
+    ("胃镜", "影像与诊断器械"),
+    # 伤口与敷料
+    ("敷料", "伤口护理与生物材料"),
+    ("创面", "伤口护理与生物材料"),
+    ("伤口", "伤口护理与生物材料"),
+    ("胶原", "伤口护理与生物材料"),
+    ("藻酸盐", "伤口护理与生物材料"),
+    ("修复材料", "伤口护理与生物材料"),
+    ("再生", "伤口护理与生物材料"),
+    ("补片", "伤口护理与生物材料"),
+    ("神经修复", "伤口护理与生物材料"),
+    # 灭菌与生物相容性
+    ("灭菌", "灭菌与生物相容性"),
+    ("生物相容", "灭菌与生物相容性"),
+    ("动物试验", "灭菌与生物相容性"),
+    # 质量管理
+    ("质量管理", "质量管理"),
+    ("网络销售", "质量管理"),
+    ("可用性", "质量管理"),
+    ("基本原则", "质量管理"),
+    # 输液与护理
+    ("输液", "输液与护理器械"),
+    ("引流", "输液与护理器械"),
+    ("注射", "输液与护理器械"),
+    ("穿刺", "输液与护理器械"),
+    ("麻醉", "输液与护理器械"),
+    ("鼻镜", "输液与护理器械"),
+]
 
 
 def read_front_matter(md_file: Path) -> Optional[dict]:
@@ -127,15 +188,14 @@ def get_doc_entries(data_dir: Path, section_key: str) -> List[dict]:
 
 
 def group_nmpa_guidance(entries: List[dict]) -> Dict[str, List[dict]]:
-    """Group NMPA guidance entries by device category."""
+    """Group NMPA guidance entries by device category using Chinese title keywords."""
     groups: Dict[str, List[dict]] = {"其他": []}
 
     for entry in entries:
-        slug = entry["slug"].lower()
-        title = entry["title_zh"].lower()
+        title = entry["title_zh"]
         matched = False
-        for key, group_name in NMPA_GUIDANCE_GROUPS.items():
-            if key in slug or key in title:
+        for keyword, group_name in NMPA_GUIDANCE_GROUPS_ZH:
+            if keyword in title:
                 if group_name not in groups:
                     groups[group_name] = []
                 groups[group_name].append(entry)
@@ -293,6 +353,17 @@ def _entry_row(entry: dict, repo_root: Path) -> str:
     return f"| {title_cell} | {doc_num_cell} | {date_cell} |"
 
 
+def _nmpa_static_nav() -> list:
+    """Static top-level NMPA navigation items (overview + index pages)."""
+    return [
+        {"text": "NMPA 概述", "link": "/zh/nmpa/"},
+        {"text": "法规规章索引", "link": "/zh/nmpa/regulations"},
+        {"text": "GB/YY 标准", "link": "/zh/nmpa/standards"},
+        {"text": "指导原则索引", "link": "/zh/nmpa/guidance"},
+        {"text": "分类目录", "link": "/zh/nmpa/classification"},
+    ]
+
+
 def generate_sidebar_json(all_section_entries: Dict[str, List[dict]], repo_root: Path, dry_run: bool = False) -> None:
     """
     Generate docs/.vitepress/sidebar.json with dynamic sidebar items
@@ -310,7 +381,7 @@ def generate_sidebar_json(all_section_entries: Dict[str, List[dict]], repo_root:
                 "link": f"/zh/{section_key}/{slug}",
             })
 
-        # Group NMPA guidance by device category
+        # Collect NMPA guidance and regulations under /zh/nmpa/ to avoid prefix conflict
         if section_key == "nmpa/guidance":
             groups = group_nmpa_guidance(entries)
             grouped_items = []
@@ -318,30 +389,37 @@ def generate_sidebar_json(all_section_entries: Dict[str, List[dict]], repo_root:
                 if not group_entries:
                     continue
                 children = []
-                for e in group_entries:
+                for e in sorted(group_entries, key=lambda x: x["title_zh"]):
                     s = unquote(e["slug"])
-                    children.append({"text": e["title_zh"], "link": f"/zh/{section_key}/{s}"})
+                    children.append({"text": e["title_zh"], "link": f"/zh/nmpa/guidance/{s}"})
                 grouped_items.append({
                     "text": f"{group_name} ({len(group_entries)})",
                     "collapsed": True,
                     "items": children,
                 })
-            sidebar[vp_prefix] = [
-                {"text": "NMPA 指导原则", "link": "/zh/nmpa/guidance"},
-                *grouped_items,
-            ]
+            if "/zh/nmpa/" not in sidebar:
+                sidebar["/zh/nmpa/"] = _nmpa_static_nav()
+            sidebar["/zh/nmpa/"].append({
+                "text": "指导原则分类",
+                "collapsed": False,
+                "items": grouped_items,
+            })
         elif section_key == "nmpa/regulations":
-            sidebar[vp_prefix] = [
-                {"text": "NMPA 法规规章", "link": "/zh/nmpa/regulations"},
-                *items,
-            ]
+            sorted_items = sorted(items, key=lambda x: x["text"])
+            if "/zh/nmpa/" not in sidebar:
+                sidebar["/zh/nmpa/"] = _nmpa_static_nav()
+            sidebar["/zh/nmpa/"].append({
+                "text": f"法规全文 ({len(entries)})",
+                "collapsed": True,
+                "items": sorted_items,
+            })
         elif section_key.startswith("insights/"):
             # Collect all insights sub-categories under one prefix
             if "/zh/insights/" not in sidebar:
                 sidebar["/zh/insights/"] = [
                     {"text": "法规解读", "link": "/zh/insights/"},
                 ]
-            sub_title = dict(SECTION_MAP).get(section_key, ("", section_key, "", True))[1]
+            sub_title = SECTION_MAP.get(section_key, ("", section_key, "", True))[1]
             sidebar["/zh/insights/"].append({
                 "text": f"{sub_title} ({len(entries)})",
                 "collapsed": True,
