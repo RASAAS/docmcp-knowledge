@@ -12,7 +12,7 @@ doc_count: 25
 
 | 文档名称 | 文号 | 发布年份 |
 |----------|------|----------|
-| [网式雾化器设计技术参数](/zh/insights/analysis/%e7%bd%91%e5%bc%8f%e9%9b%be%e5%8c%96%e5%99%a8%e8%ae%be%e8%ae%a1%e6%8a%80%e6%9c%af%e5%8f%82%e6%95%b0) |  | 2023 |
+| [网式雾化器设计技术参数](/zh/insights/analysis/网式雾化器设计技术参数) |  | 2023 |
 | [国家药监局关于发布34项医疗器械行业标准的公告（2024年第120号）](/zh/insights/analysis/2024-120) |  | 2024 |
 | [国家药监局关于发布36项医疗器械行业标准的公告（2024年第92号）](/zh/insights/analysis/2024-92) |  | 2024 |
 | [废止标准](/zh/insights/analysis/abolished-standards) |  | 2025 |
@@ -21,7 +21,7 @@ doc_count: 25
 | [中国药典2020年版与2025年版通则1105和1106实质性差异对比检查](/zh/insights/analysis/cp-2020-vs-2025-part4-general-1105-1106) |  | 2025 |
 | [网络安全生命周期](/zh/insights/analysis/cybersecurity-lifecycle) |  | 2024 |
 | [EU MDR下的UDI实施操作指南](/zh/insights/analysis/eu-mdr-udi) |  | 2025 |
-| [GB 9706.1-2020及配套并列标准、专用标准实施公告](/zh/insights/analysis/gb-9706-1-2020%e5%8f%8a%e9%85%8d%e5%a5%97%e5%b9%b6%e5%88%97%e6%a0%87%e5%87%86%e3%80%81%e4%b8%93%e7%94%a8%e6%a0%87%e5%87%86%e5%ae%9e%e6%96%bd%e5%85%ac%e5%91%8a) |  | 2023 |
+| [GB 9706.1-2020及配套并列标准、专用标准实施公告](/zh/insights/analysis/gb-9706-1-2020及配套并列标准、专用标准实施公告) |  | 2023 |
 | [GSPR 10.4.1与CMR](/zh/insights/analysis/gspr-10_4_1-and-cmr) |  | 2025 |
 | [香港医疗器械市场准入与监管合规：外国制造商战略指南](/zh/insights/analysis/hk-medical-device-regulatory-compliance) |  | 2025 |
 | [ISO 13485质量管理体系的深度解析与卓越实践](/zh/insights/analysis/iso-13485-qms-best-practice) |  | 2025 |

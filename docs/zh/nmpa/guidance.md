@@ -106,7 +106,7 @@ doc_count: 151
 | [医疗器械经营监督管理办法](/zh/nmpa/guidance/samr-order-54) |  | 2025 |
 | [冲击波治疗仪注册技术审查指导原则](/zh/nmpa/guidance/shock-wave-therapy-device-2020) |  | 2025 |
 | [胸骨捆扎固定系统注册审查指导原则](/zh/nmpa/guidance/sternum-strapping-system-2025) |  | 2025 |
-| [α -氰基丙烯酸酯类医用粘合剂注册审查指导原则(2024年修订版)](/zh/nmpa/guidance/%ce%b1-cyanoacrylate-medical-adhesive) |  | 2025 |
+| [α -氰基丙烯酸酯类医用粘合剂注册审查指导原则(2024年修订版)](/zh/nmpa/guidance/α-cyanoacrylate-medical-adhesive) |  | 2025 |
 | [电动病床注册技术审查指导原则（2017年修订版）](/zh/nmpa/guidance/15-03-01) |  | 2025 |
 | [球囊扩张导管注册技术审查指导原则](/zh/nmpa/guidance/balloon-catheter-2020) |  | 2025 |
 | [自测用血糖监测系统注册审查指导原则（2023年修订版）](/zh/nmpa/guidance/bgm-2023) |  | 2025 |

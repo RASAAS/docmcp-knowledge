@@ -19,6 +19,7 @@ import sys
 from datetime import datetime
 from pathlib import Path
 from typing import Dict, List, Optional, Tuple
+from urllib.parse import unquote
 
 try:
     import yaml
@@ -260,7 +261,9 @@ def sync_content_to_docs(section_key: str, entries: List[dict], repo_root: Path,
 
     for entry in entries:
         src_file: Path = entry["file"]
-        dest_file = dest_dir / (entry["slug"] + ".md")
+        # URL-decode slug to avoid %-encoded filenames that break VitePress/Rollup
+        clean_slug = unquote(entry["slug"])
+        dest_file = dest_dir / (clean_slug + ".md")
         if dry_run:
             print(f"    [DRY] sync {src_file.relative_to(repo_root)} -> {dest_file.relative_to(repo_root)}")
             synced += 1
@@ -283,7 +286,7 @@ def _entry_row(entry: dict, repo_root: Path) -> str:
 
     # Internal VitePress route (synced to docs/zh/<section_key>/<slug>)
     section_key = entry.get("category", "")
-    slug = entry["slug"]
+    slug = unquote(entry["slug"])
     link = f"/zh/{section_key}/{slug}"
 
     title_cell = f"[{title}]({link})"
