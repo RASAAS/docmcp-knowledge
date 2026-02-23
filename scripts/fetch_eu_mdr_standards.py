@@ -47,11 +47,27 @@ CACHE_DIR = ROOT / "scripts" / ".cache"
 DATA_DIR = ROOT / "eu_mdr" / "standards"
 
 # EUR-Lex URLs
+# Consolidated versions (most recent first; script tries each until one works)
 CONSOLIDATED_VERSIONS = [
-    # Most recent first; script tries each until one works
     "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02021D1182-20251020",
     "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02021D1182-20250409",
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02021D1182-20241009",
 ]
+
+# All amendment URLs for verification (chronological order)
+# Each entry: (decision_number, url, published_date, description)
+AMENDMENT_URLS = [
+    ("2022/6",    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022D0006",  "2022-01-05", "Biocompatibility, sterilization, QMS, symbols, processing"),
+    ("2022/757",  "https://eur-lex.europa.eu/eli/dec_impl/2022/757/oj",                    "2022-05-17", "QMS, sterilization, risk management"),
+    ("2023/1410", "https://eur-lex.europa.eu/eli/dec_impl/2023/1410/oj",                   "2023-07-05", "Sterilization, biocompatibility"),
+    ("2024/815",  "https://eur-lex.europa.eu/eli/dec_impl/2024/815/oj",                    "2024-03-08", "Medical gloves, biocompatibility, sterilization, packaging, processing"),
+    ("2024/2631", "https://eur-lex.europa.eu/eli/dec_impl/2024/2631/oj",                   "2024-10-09", "Aseptic processing"),
+    ("2025/681",  "https://eur-lex.europa.eu/eli/dec_impl/2025/681/oj",                    "2025-04-09", "Medical gloves, sterilization, patient handling"),
+    ("2025/2078", "https://eur-lex.europa.eu/eli/dec_impl/2025/2078/oj",                   "2025-10-20", "Surgical clothing, medical face masks, sterilizers"),
+    ("2026/193",  "https://eur-lex.europa.eu/eli/dec_impl/2026/193/oj",                    "2026-01-30", "Neurosurgical implants, biocompatibility, clinical investigation, surgical implants, sterilization, breathing gas pathways, connectors"),
+]
+
+# Latest amendment (used for single-amendment fetch mode)
 AMENDMENT_2026_193_URL = "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32026D0193"
 
 # Category classification rules
@@ -88,20 +104,20 @@ CATEGORY_RULES = [
 ]
 
 CATEGORY_NAMES = {
-    "quality_management": {"zh": "Quality Management / Zhi Liang Guan Li", "en": "Quality Management"},
-    "risk_management": {"zh": "Feng Xian Guan Li", "en": "Risk Management"},
-    "biocompatibility": {"zh": "Sheng Wu Xiang Rong Xing", "en": "Biocompatibility"},
-    "electrical_safety": {"zh": "Dian Qi An Quan Yu EMC", "en": "Electrical Safety & EMC"},
-    "sterilization": {"zh": "Mie Jun Yu Bao Zhuang", "en": "Sterilization & Packaging"},
-    "software": {"zh": "Ruan Jian Yu Ke Yong Xing", "en": "Software & Usability"},
-    "labelling": {"zh": "Biao Qian Yu Shuo Ming Shu", "en": "Labelling & Symbols"},
-    "clinical_investigation": {"zh": "Lin Chuang Diao Cha", "en": "Clinical Investigation"},
-    "medical_gloves": {"zh": "Yi Yong Shou Tao", "en": "Medical Gloves"},
-    "surgical_textiles": {"zh": "Shou Shu Yi Wu Yu Kou Zhao", "en": "Surgical Textiles & Masks"},
-    "surgical_implants": {"zh": "Fei You Yuan Wai Ke Zhi Ru Wu", "en": "Non-active Surgical Implants"},
-    "patient_handling": {"zh": "Huan Zhe Ban Yun She Bei", "en": "Patient Handling Equipment"},
-    "connectors": {"zh": "Xiao Kou Jing Lian Jie Qi", "en": "Small-bore Connectors"},
-    "processing": {"zh": "Qi Xie Chu Li Yu Zai Chu Li", "en": "Device Processing & Reprocessing"},
+    "quality_management": {"zh": "质量管理体系", "en": "Quality Management"},
+    "risk_management": {"zh": "风险管理", "en": "Risk Management"},
+    "biocompatibility": {"zh": "生物相容性", "en": "Biocompatibility"},
+    "electrical_safety": {"zh": "电气安全与EMC", "en": "Electrical Safety & EMC"},
+    "sterilization": {"zh": "灭菌与无菌包装", "en": "Sterilization & Packaging"},
+    "software": {"zh": "软件与可用性", "en": "Software & Usability"},
+    "labelling": {"zh": "标签与符号", "en": "Labelling & Symbols"},
+    "clinical_investigation": {"zh": "临床调查", "en": "Clinical Investigation"},
+    "medical_gloves": {"zh": "医用手套", "en": "Medical Gloves"},
+    "surgical_textiles": {"zh": "手术衣物与口罩", "en": "Surgical Textiles & Masks"},
+    "surgical_implants": {"zh": "非有源外科植入物", "en": "Non-active Surgical Implants"},
+    "patient_handling": {"zh": "患者搬运设备", "en": "Patient Handling Equipment"},
+    "connectors": {"zh": "小口径连接器", "en": "Small-bore Connectors"},
+    "processing": {"zh": "器械处理与再处理", "en": "Device Processing & Reprocessing"},
 }
 
 

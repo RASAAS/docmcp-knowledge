@@ -13,7 +13,10 @@
     {
       "id": "eu-mdr-2017-745",
       "file": "mdr-2017-745.json",
-      "title": { "zh": "欧盟医疗器械法规 (EU) 2017/745", "en": "Regulation (EU) 2017/745 on Medical Devices" },
+      "title": {
+        "zh": "欧盟医疗器械法规 (EU) 2017/745",
+        "en": "Regulation (EU) 2017/745 on Medical Devices"
+      },
       "status": "active",
       "application_date": "2021-05-26",
       "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0745"
@@ -21,7 +24,10 @@
     {
       "id": "eu-ivdr-2017-746",
       "file": "ivdr-2017-746.json",
-      "title": { "zh": "欧盟体外诊断医疗器械法规 (EU) 2017/746", "en": "Regulation (EU) 2017/746 on In Vitro Diagnostic Medical Devices" },
+      "title": {
+        "zh": "欧盟体外诊断医疗器械法规 (EU) 2017/746",
+        "en": "Regulation (EU) 2017/746 on In Vitro Diagnostic Medical Devices"
+      },
       "status": "active",
       "application_date": "2022-05-26",
       "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0746"
@@ -29,10 +35,15 @@
     {
       "id": "eu-mdr-amendments",
       "file": "amendments.json",
-      "title": { "zh": "EU MDR/IVDR 修正案汇总", "en": "EU MDR/IVDR Amendments Summary" },
+      "title": {
+        "zh": "EU MDR/IVDR 修正案汇总",
+        "en": "EU MDR/IVDR Amendments Summary"
+      },
       "status": "active",
       "amendments_count": 4,
-      "latest_amendment": "2024/1860"
+      "latest_amendment": "2024/1860",
+      "harmonised_standards_amendments_count": 8,
+      "latest_hs_amendment": "2026/193"
     }
   ],
   "official_sources": [

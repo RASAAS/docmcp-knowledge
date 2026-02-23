@@ -9,7 +9,7 @@
   "categories": {
     "biocompatibility": {
       "name": {
-        "zh": "Sheng Wu Xiang Rong Xing",
+        "zh": "生物相容性",
         "en": "Biocompatibility"
       },
       "count": 9,
@@ -17,7 +17,7 @@
     },
     "clinical_investigation": {
       "name": {
-        "zh": "Lin Chuang Diao Cha",
+        "zh": "临床调查",
         "en": "Clinical Investigation"
       },
       "count": 1,
@@ -25,7 +25,7 @@
     },
     "connectors": {
       "name": {
-        "zh": "Xiao Kou Jing Lian Jie Qi",
+        "zh": "小口径连接器",
         "en": "Small-bore Connectors"
       },
       "count": 1,
@@ -33,7 +33,7 @@
     },
     "electrical_safety": {
       "name": {
-        "zh": "Dian Qi An Quan Yu EMC",
+        "zh": "电气安全与EMC",
         "en": "Electrical Safety & EMC"
       },
       "count": 1,
@@ -41,7 +41,7 @@
     },
     "labelling": {
       "name": {
-        "zh": "Biao Qian Yu Shuo Ming Shu",
+        "zh": "标签与符号",
         "en": "Labelling & Symbols"
       },
       "count": 1,
@@ -49,7 +49,7 @@
     },
     "medical_gloves": {
       "name": {
-        "zh": "Yi Yong Shou Tao",
+        "zh": "医用手套",
         "en": "Medical Gloves"
       },
       "count": 2,
@@ -57,7 +57,7 @@
     },
     "patient_handling": {
       "name": {
-        "zh": "Huan Zhe Ban Yun She Bei",
+        "zh": "患者搬运设备",
         "en": "Patient Handling Equipment"
       },
       "count": 2,
@@ -65,7 +65,7 @@
     },
     "processing": {
       "name": {
-        "zh": "Qi Xie Chu Li Yu Zai Chu Li",
+        "zh": "器械处理与再处理",
         "en": "Device Processing & Reprocessing"
       },
       "count": 2,
@@ -73,7 +73,7 @@
     },
     "quality_management": {
       "name": {
-        "zh": "Quality Management / Zhi Liang Guan Li",
+        "zh": "质量管理体系",
         "en": "Quality Management"
       },
       "count": 1,
@@ -81,7 +81,7 @@
     },
     "risk_management": {
       "name": {
-        "zh": "Feng Xian Guan Li",
+        "zh": "风险管理",
         "en": "Risk Management"
       },
       "count": 1,
@@ -89,7 +89,7 @@
     },
     "sterilization": {
       "name": {
-        "zh": "Mie Jun Yu Bao Zhuang",
+        "zh": "灭菌与无菌包装",
         "en": "Sterilization & Packaging"
       },
       "count": 21,
@@ -97,7 +97,7 @@
     },
     "surgical_implants": {
       "name": {
-        "zh": "Fei You Yuan Wai Ke Zhi Ru Wu",
+        "zh": "非有源外科植入物",
         "en": "Non-active Surgical Implants"
       },
       "count": 3,
@@ -105,7 +105,7 @@
     },
     "surgical_textiles": {
       "name": {
-        "zh": "Shou Shu Yi Wu Yu Kou Zhao",
+        "zh": "手术衣物与口罩",
         "en": "Surgical Textiles & Masks"
       },
       "count": 3,

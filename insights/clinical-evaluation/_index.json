@@ -1,5 +1,5 @@
 {
-  "category": "eu_mdr/mdcg",
+  "category": "insights/clinical-evaluation",
   "last_updated": "2026-02-23",
   "count": 21,
   "entries": [
@@ -235,7 +235,10 @@
       "effective_date": "2025-05-26"
     }
   ],
-  "deprecated": true,
-  "migrated_to": "insights/clinical-evaluation",
-  "migration_date": "2026-02-23"
+  "migrated_from": "eu_mdr/mdcg",
+  "migration_date": "2026-02-23",
+  "description": {
+    "zh": "临床评价方法论与实践指南，涵盖CER、DCR、LSP、等同性评价、文献检索与评估等核心内容。",
+    "en": "Clinical evaluation methodology and practice guides covering CER, DCR, LSP, equivalence, literature search and appraisal."
+  }
 }

@@ -42,6 +42,7 @@ SECTION_MAP = {
     "insights/eu-mdr-updates":  ("docs/zh/insights/eu-mdr-updates.md",  "EU MDR 合规动态",         "insights", True),
     "insights/fda-updates":     ("docs/zh/insights/fda-updates.md",     "FDA 合规动态",            "insights", True),
     "insights/analysis":        ("docs/zh/insights/analysis.md",        "法规解读分析",            "insights", True),
+    "insights/clinical-evaluation": ("docs/zh/insights/clinical-evaluation.md", "临床评价方法论", "insights", True),
 }
 
 # Category grouping for NMPA guidance — matched against Chinese title keywords (order matters: first match wins)

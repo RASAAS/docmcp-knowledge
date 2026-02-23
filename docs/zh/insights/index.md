@@ -8,6 +8,7 @@ title: 法规解读
 
 ## 分类导航
 
+- [**临床评价方法论**](/zh/insights/clinical-evaluation) — EU MDR 临床评价方法论与实践指南（21篇）
 - [**法规解读分析**](/zh/insights/analysis) — 深度法规解读、标准分析、合规实践（25篇）
 - [**NMPA 合规动态**](/zh/insights/nmpa-updates) — 国家药监局法规更新与政策解读（8篇）
 - [**EU MDR 合规动态**](/zh/insights/eu-mdr-updates) — 欧盟医疗器械法规动态（9篇）
