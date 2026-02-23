@@ -152,7 +152,7 @@
     { "date": "2021-05-26", "event_zh": "EU MDR 全面适用（原计划）", "event_en": "EU MDR fully applicable (original date)" },
     { "date": "2023-03-20", "event_zh": "修正案 2023/607 发布（遗留器械过渡期延长）", "event_en": "Amendment 2023/607 published (legacy device transition extension)" },
     { "date": "2024-05-26", "event_zh": "Class III 和 Class IIb 植入类遗留器械截止", "event_en": "Deadline for Class III and Class IIb implantable legacy devices" },
-    { "date": "2024-09-26", "event_zh": "修正案 2024/1860 发布（进一步延长过渡期）", "event_en": "Amendment 2024/1860 published (further transition extension)" },
+    { "date": "2024-07-09", "event_zh": "修正案 2024/1860 发布（EUDAMED逐步推出、新增Art.10a供应中断通知、IVDR过渡期延长）", "event_en": "Regulation 2024/1860 published (gradual Eudamed roll-out, new Art.10a supply interruption notification, IVDR transition extension)" },
     { "date": "2027-12-31", "event_zh": "Class IIb 非植入类 + Class IIa 遗留器械截止", "event_en": "Deadline for Class IIb non-implantable + Class IIa legacy devices" },
     { "date": "2028-12-31", "event_zh": "Class I 遗留器械截止", "event_en": "Deadline for Class I legacy devices" }
   ]

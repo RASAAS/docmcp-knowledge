@@ -57,8 +57,10 @@
   ],
   "transition_timeline": [
     { "date": "2022-05-26", "event_zh": "EU IVDR 全面适用（D类IVD）", "event_en": "EU IVDR fully applicable (Class D IVDs)" },
+    { "date": "2022-01-28", "event_zh": "修正案 2022/112 发布（IVDR遗留器械过渡期延长）", "event_en": "Amendment 2022/112 published (IVDR legacy device transition extension)" },
     { "date": "2025-05-26", "event_zh": "C类IVD遗留器械截止", "event_en": "Deadline for Class C IVD legacy devices" },
     { "date": "2026-05-26", "event_zh": "B类 + A类无菌IVD遗留器械截止", "event_en": "Deadline for Class B + Class A sterile IVD legacy devices" },
-    { "date": "2027-05-26", "event_zh": "A类无菌以外IVD遗留器械截止", "event_en": "Deadline for remaining Class A IVD legacy devices (non-sterile)" }
+    { "date": "2024-07-09", "event_zh": "修正案 2024/1860 发布（将部分IVDR遗留器械截止日期从2028-05-26延至2030-12-31）", "event_en": "Regulation 2024/1860 published (extends certain IVDR legacy device deadline from 26 May 2028 to 31 December 2030)" },
+    { "date": "2030-12-31", "event_zh": "A类无菌以外IVD遗留器械截止（2024/1860延长后）", "event_en": "Deadline for remaining Class A IVD legacy devices (non-sterile) - extended by 2024/1860" }
   ]
 }

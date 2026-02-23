@@ -12,7 +12,7 @@ title: EU MDR Regulations
 | [EU IVDR 2017/746](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0746) | OJ L 117, 5.5.2017 | 2017 | In force |
 | [Amendment 2020/561](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32020R0561) | OJ L 130, 24.4.2020 | 2020 | MDR transition extension |
 | [Amendment 2023/607](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R0607) | OJ L 80, 20.3.2023 | 2023 | Legacy device transition |
-| [Amendment 2024/1860](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1860) | OJ L, Jul 2024 | 2024 | Further transition extension |
+| [Regulation 2024/1860](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1860) | OJ L, 2024/1860, 9.7.2024 | 2024 | Gradual Eudamed roll-out, supply interruption notification, IVDR transition extension |
 
 ## Implementation Timeline
 
@@ -25,6 +25,7 @@ title: EU MDR Regulations
 | 26 May 2022 | EU IVDR 2017/746 fully applicable (Class D IVDs) |
 | 26 May 2025 | Class C IVDs deadline |
 | 26 May 2026 | Class B + Class A sterile IVDs deadline |
+| 31 Dec 2030 | Class A non-sterile IVD legacy devices deadline (extended by 2024/1860) |
 
 ## Key Articles
 

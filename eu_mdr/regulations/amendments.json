@@ -54,18 +54,18 @@
       "id": "amendment-2024-1860",
       "document_number": "2024/1860",
       "title": {
-        "zh": "修正案 (EU) 2024/1860 — 进一步延长过渡期",
-        "en": "Amendment (EU) 2024/1860 — Further Transition Extension"
+        "zh": "修正案 (EU) 2024/1860 — EUDAMED逐步推出、供应中断通知义务及IVDR过渡期延长",
+        "en": "Regulation (EU) 2024/1860 — Gradual roll-out of Eudamed, supply interruption notification, and IVDR transitional provisions"
       },
-      "oj_reference": "OJ L, 2024/1860",
-      "published_date": "2024-09-26",
+      "oj_reference": "OJ L, 2024/1860, 9.7.2024",
+      "published_date": "2024-07-09",
       "status": "active",
-      "amends": "EU MDR 2017/745",
+      "amends": "EU MDR 2017/745 and EU IVDR 2017/746",
       "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1860",
       "source_url_verified": "2026-02-23",
       "source_url_status": "ok",
-      "summary_zh": "进一步延长遗留器械过渡期，并调整了申请截止日期要求，以解决公告机构产能不足问题。",
-      "summary_en": "Further extends legacy device transition periods and adjusts application deadline requirements to address notified body capacity constraints."
+      "summary_zh": "同时修订MDR和IVDR，涵盖三项内容：(1) EUDAMED逐步推出——允许已完成的各电子系统模块在验证后分批强制使用，无需等待全系统完成；(2) 新增Art.10a——制造商在供应中断或停止时须通知主管机构；(3) IVDR特定器械过渡期延长——将部分IVDR遗留器械截止日期从2028年5月26日延至2030年12月31日。适用日期：Art.1(1)和Art.2(1)自2025年1月10日起适用。",
+      "summary_en": "Amends both MDR and IVDR with three main changes: (1) Gradual Eudamed roll-out — allows completed electronic system modules to be mandatorily used after verification without waiting for full system completion; (2) New Art.10a — manufacturers must notify competent authorities of interruption or discontinuation of supply; (3) IVDR transitional provisions — extends deadline for certain IVDR legacy devices from 26 May 2028 to 31 December 2030. Application: Art.1(1) and Art.2(1) apply from 10 January 2025."
     },
     {
       "id": "ivdr-amendment-2022-112",
