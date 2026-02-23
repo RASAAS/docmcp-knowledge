@@ -12,5 +12,5 @@ doc_count: 1
 
 | 文档名称 | 文号 | 发布年份 |
 |----------|------|----------|
-| [关于欧盟人工智能法案（AIA）的立场文件](https://reguverse.com/documentation/eu-mdr-indexing/team-nb-position-paper/aia/) |  | 2025 |
+| [关于欧盟人工智能法案（AIA）的立场文件](/zh/eu_mdr/team_nb/aia) |  | 2025 |
 

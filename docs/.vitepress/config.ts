@@ -61,7 +61,7 @@ export default defineConfig({
           { text: 'FDA', link: '/zh/fda/' },
           { text: 'NMPA', link: '/zh/nmpa/' },
           { text: '\u6807\u51c6', link: '/zh/shared/standards' },
-          { text: '\u6cd5\u89c4\u89e3\u8bfb', link: '/zh/insights/analysis' },
+          { text: '\u6cd5\u89c4\u89e3\u8bfb', link: '/zh/insights/' },
         ],
         sidebar: {
           '/zh/eu_mdr/': [

@@ -247,6 +247,30 @@ def generate_section_page(
     print(f"  Updated {docs_page_path} ({len(entries)} entries)")
 
 
+def sync_content_to_docs(section_key: str, entries: List[dict], repo_root: Path, dry_run: bool = False) -> int:
+    """
+    Copy data layer *.zh.md files into docs/zh/<section_key>/ for VitePress rendering.
+    Strips the .zh suffix so the route becomes /zh/<section_key>/<slug>.
+    Returns count of files synced.
+    """
+    synced = 0
+    dest_dir = repo_root / "docs" / "zh" / section_key
+    if not dry_run:
+        dest_dir.mkdir(parents=True, exist_ok=True)
+
+    for entry in entries:
+        src_file: Path = entry["file"]
+        dest_file = dest_dir / (entry["slug"] + ".md")
+        if dry_run:
+            print(f"    [DRY] sync {src_file.relative_to(repo_root)} -> {dest_file.relative_to(repo_root)}")
+            synced += 1
+            continue
+        content = src_file.read_text(encoding="utf-8")
+        dest_file.write_text(content, encoding="utf-8")
+        synced += 1
+    return synced
+
+
 def _entry_row(entry: dict, repo_root: Path) -> str:
     """Format a table row for a document entry."""
     title = entry["title_zh"]
@@ -255,14 +279,12 @@ def _entry_row(entry: dict, repo_root: Path) -> str:
     date_raw = entry.get("effective_date", "") or entry.get("published_date", "")
     date = date_raw[:4] if date_raw else ""
 
-    # Link to source_url (external), or plain text if no URL
-    # Data layer files are outside docs/ dir, so no internal VitePress routing
-    source_url = entry.get("source_url", "")
-    if source_url:
-        title_cell = f"[{title}]({source_url})"
-    else:
-        title_cell = title
+    # Internal VitePress route (synced to docs/zh/<section_key>/<slug>)
+    section_key = entry.get("category", "")
+    slug = entry["slug"]
+    link = f"/zh/{section_key}/{slug}"
 
+    title_cell = f"[{title}]({link})"
     doc_num_cell = f"`{doc_num}`" if doc_num else ""
     date_cell = date
 
@@ -286,6 +308,7 @@ def main():
 
     total_entries = 0
     total_pages = 0
+    total_synced = 0
 
     for section_key, (docs_page_path, section_title, regulation) in SECTION_MAP.items():
         if args.regulation and regulation != args.regulation:
@@ -297,6 +320,10 @@ def main():
         if not entries:
             continue
 
+        # Sync full content files into docs/zh/ for VitePress rendering
+        synced = sync_content_to_docs(section_key, entries, repo_root, dry_run=args.dry_run)
+        total_synced += synced
+
         generate_section_page(
             section_key, docs_page_path, section_title,
             entries, repo_root, dry_run=args.dry_run
@@ -304,7 +331,7 @@ def main():
         total_entries += len(entries)
         total_pages += 1
 
-    print(f"\nDone: {total_pages} pages updated, {total_entries} total entries")
+    print(f"\nDone: {total_pages} index pages updated, {total_entries} entries, {total_synced} content files synced")
 
 
 if __name__ == "__main__":
