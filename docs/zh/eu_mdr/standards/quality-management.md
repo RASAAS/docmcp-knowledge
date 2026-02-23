@@ -7,13 +7,13 @@ category: Quality Management
 
 # 协调标准 — 质量管理
 
-**官方来源**：[EC Health — Harmonised Standards](https://health.ec.europa.eu/medical-devices-topics-interest/harmonised-standards_en) | 基于 CID (EU) 2021/1182 及修正案 CID 2024/815
+**官方来源**：[EC Health — Harmonised Standards](https://health.ec.europa.eu/medical-devices-topics-interest/harmonised-standards_en) | 基于 CID (EU) 2021/1182（合并版）及修正案 [CID (EU) 2026/193](https://eur-lex.europa.eu/eli/dec_impl/2026/193/oj)
 
 ## 标准列表
 
 | 标准号 | 标题 | GSPR参考 | 状态 |
 |--------|------|---------|------|
-| **EN ISO 13485:2016** | 医疗器械 — 质量管理体系 — 用于法规的要求 | 附件IX, 附件XI | 现行有效 |
+| **EN ISO 13485:2016 + AC:2018 + A11:2021** | 医疗器械 — 质量管理体系 — 用于监管目的要求 | 附录IX、附录XI（合规评定程序） | 现行有效 |
 
 ## EN ISO 13485:2016 详解
 

@@ -7,16 +7,15 @@ category: Risk Management
 
 # Harmonised Standards — Risk Management
 
-**Official Source**: [EC Health — Harmonised Standards](https://health.ec.europa.eu/medical-devices-topics-interest/harmonised-standards_en) | Based on CID (EU) 2021/1182 and amendment CID 2024/815
+**Official Source**: [EC Health — Harmonised Standards](https://health.ec.europa.eu/medical-devices-topics-interest/harmonised-standards_en) | Based on CID (EU) 2021/1182 (consolidated) and amendment [CID (EU) 2026/193](https://eur-lex.europa.eu/eli/dec_impl/2026/193/oj)
 
-## Harmonised Standards List
+## Harmonised Standards List (1 standard)
 
 | Standard | Title | GSPR Reference | Status |
 |----------|-------|---------------|--------|
-| **EN ISO 14971:2019** | Medical devices — Application of risk management to medical devices | GSPR 1, 2, 3 | Current |
-| EN ISO 14971:2019/A11:2021 | Amendment (harmonised with EU MDR) | GSPR 1, 2, 3 | Current |
+| **EN ISO 14971:2019 + A11:2021** | Medical devices — Application of risk management to medical devices | GSPR 1, 3 (risk minimisation) | Current |
 
-> **Note**: EN ISO 24971:2020 (guidance on the application of ISO 14971) is **not a harmonised standard** and is not listed in CID 2021/1182, but may be used as an implementation reference. See [General Standards](../../../shared/standards).
+> **Note**: EN ISO 24971:2020 (guidance on the application of ISO 14971) is **not a harmonised standard** and is not listed in CID 2021/1182. It does not create a presumption of conformity, but may be used as an implementation reference. See [General Standards](../../../shared/standards).
 
 ## EN ISO 14971:2019 — Detail
 

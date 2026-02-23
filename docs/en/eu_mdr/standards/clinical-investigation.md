@@ -7,13 +7,13 @@ category: Clinical Evaluation and Clinical Investigation
 
 # Harmonised Standards — Clinical Evaluation and Clinical Investigation
 
-**Official Source**: [EC Health — Harmonised Standards](https://health.ec.europa.eu/medical-devices-topics-interest/harmonised-standards_en) | Based on CID (EU) 2021/1182 and amendment CID 2024/815
+**Official Source**: [EC Health — Harmonised Standards](https://health.ec.europa.eu/medical-devices-topics-interest/harmonised-standards_en) | Based on CID (EU) 2021/1182 (consolidated) and amendment [CID (EU) 2026/193](https://eur-lex.europa.eu/eli/dec_impl/2026/193/oj)
 
-## Standards List
+## Harmonised Standards List (1 standard)
 
 | Standard | Title | GSPR Reference | Status |
 |----------|-------|---------------|--------|
-| **EN ISO 14155:2020** | Clinical investigation of medical devices for human subjects — Good clinical practice | GSPR 1 | Current |
+| **EN ISO 14155:2020 + A11:2024** | Clinical investigation of medical devices for human subjects — Good clinical practice | Annex XV (clinical investigation procedures) | Current |
 
 ## EN ISO 14155:2020 — Detail
 

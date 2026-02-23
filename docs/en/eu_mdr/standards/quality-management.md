@@ -7,13 +7,13 @@ category: Quality Management
 
 # Harmonised Standards — Quality Management
 
-**Official Source**: [EC Health — Harmonised Standards](https://health.ec.europa.eu/medical-devices-topics-interest/harmonised-standards_en) | Based on CID (EU) 2021/1182 and amendment CID 2024/815
+**Official Source**: [EC Health — Harmonised Standards](https://health.ec.europa.eu/medical-devices-topics-interest/harmonised-standards_en) | Based on CID (EU) 2021/1182 (consolidated) and amendment [CID (EU) 2026/193](https://eur-lex.europa.eu/eli/dec_impl/2026/193/oj)
 
-## Standards List
+## Harmonised Standards List (1 standard)
 
 | Standard | Title | GSPR Reference | Status |
 |----------|-------|---------------|--------|
-| **EN ISO 13485:2016** | Medical devices — Quality management systems — Requirements for regulatory purposes | Annex IX, Annex XI | Current |
+| **EN ISO 13485:2016 + AC:2018 + A11:2021** | Medical devices — Quality management systems — Requirements for regulatory purposes | Annex IX, Annex XI (conformity assessment) | Current |
 
 ## EN ISO 13485:2016 — Detail
 

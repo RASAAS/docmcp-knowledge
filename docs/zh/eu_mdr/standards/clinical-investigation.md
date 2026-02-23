@@ -7,13 +7,13 @@ category: Clinical Evaluation and Clinical Investigation
 
 # 协调标准 — 临床评价与临床调查
 
-**官方来源**：[EC Health — Harmonised Standards](https://health.ec.europa.eu/medical-devices-topics-interest/harmonised-standards_en) | 基于 CID (EU) 2021/1182 及修正案 CID 2024/815
+**官方来源**：[EC Health — Harmonised Standards](https://health.ec.europa.eu/medical-devices-topics-interest/harmonised-standards_en) | 基于 CID (EU) 2021/1182（合并版）及修正案 [CID (EU) 2026/193](https://eur-lex.europa.eu/eli/dec_impl/2026/193/oj)
 
 ## 标准列表
 
 | 标准号 | 标题 | GSPR参考 | 状态 |
 |--------|------|---------|------|
-| **EN ISO 14155:2020** | 人体医疗器械临床调查 — 良好临床实践 | GSPR 1 | 现行有效 |
+| **EN ISO 14155:2020 + A11:2024** | 医疗器械临床调查 — 人类受试者的优良临床实践 | 附录XV（临床调查程序） | 现行有效 |
 
 ## EN ISO 14155:2020 详解
 

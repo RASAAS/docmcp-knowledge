@@ -7,16 +7,15 @@ category: Risk Management
 
 # 协调标准 — 风险管理
 
-**官方来源**：[EC Health — Harmonised Standards](https://health.ec.europa.eu/medical-devices-topics-interest/harmonised-standards_en) | 基于 CID (EU) 2021/1182 及修正案 CID 2024/815
+**官方来源**：[EC Health — Harmonised Standards](https://health.ec.europa.eu/medical-devices-topics-interest/harmonised-standards_en) | 基于 CID (EU) 2021/1182（合并版）及修正案 [CID (EU) 2026/193](https://eur-lex.europa.eu/eli/dec_impl/2026/193/oj)
 
 ## 协调标准列表
 
 | 标准号 | 标题 | GSPR参考 | 状态 |
 |--------|------|---------|------|
-| **EN ISO 14971:2019** | 医疗器械 — 风险管理在医疗器械中的应用 | GSPR 1, 2, 3 | 现行有效 |
-| EN ISO 14971:2019/A11:2021 | 修正案（与EU MDR协调） | GSPR 1, 2, 3 | 现行有效 |
+| **EN ISO 14971:2019 + A11:2021** | 医疗器械 — 风险管理应用 | GSPR 1、3（风险最小化原则） | 现行有效 |
 
-> **注意**：EN ISO 24971:2020（ISO 14971应用指南）**不是协调标准**，不在 CID 2021/1182 清单中，但可作为实施参考。详见 [通用标准](../../../shared/standards)。
+> **说明**：EN ISO 24971:2020（ISO 14971应用指南）**不是协调标准**，不在 CID 2021/1182 列表中，不产生合规推定效力，但可作为实施参考。参见 [通用标准](../../../shared/standards)。
 
 ## EN ISO 14971:2019 详解
 
