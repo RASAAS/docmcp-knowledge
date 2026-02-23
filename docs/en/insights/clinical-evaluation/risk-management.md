@@ -15,6 +15,8 @@ contributor: RASAAS
 effective_date: '2025-05-28'
 ---
 
+# Risk Management in Clinical Evaluation
+
 In the Clinical Evaluation Plan (CEP), the primary purpose of the “Risk Management” chapter is not to re-execute risk management activities, but rather to clearly articulate how the risk management process and clinical evaluation activities interrelate and provide input to each other, collectively ensuring that the benefit-risk profile of the device under evaluation is acceptable for its intended use. This chapter should outline the identified clinical risks and detail how the clinical evaluation is planned to further confirm the controllability and acceptability of these risks.
 
 When drafting this chapter, it is crucial to reflect the continuous, bi-directional interaction between risk management and clinical evaluation, a key requirement under the MDR.

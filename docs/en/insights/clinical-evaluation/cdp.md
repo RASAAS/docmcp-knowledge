@@ -15,6 +15,8 @@ contributor: RASAAS
 effective_date: '2025-05-28'
 ---
 
+# Clinical Development Plan (CDP)
+
 Within the Clinical Evaluation Plan (CEP), the “Clinical Development Plan (CDP)” chapter serves as a strategic blueprint, clearly outlining the series of activities planned by the manufacturer to gather and evaluate clinical evidence. This evidence is necessary to demonstrate the conformity of the device under evaluation with the relevant General Safety and Performance Requirements (GSPRs) and to confirm its benefit-risk profile throughout its entire lifecycle. This chapter should present a logically sequenced and phased strategy, progressing from the assessment of existing data, through any necessary new clinical investigations (if required), to post-market clinical follow-up (PMCF). The level of detail should be proportionate to the device’s risk class, novelty, the adequacy of existing knowledge, and relevant regulatory requirements (such as MDR Annex XIV Part A, section 1(a)).
 
 This chapter is essential to demonstrate the manufacturer’s proactive planning and commitment to generating clinical evidence.

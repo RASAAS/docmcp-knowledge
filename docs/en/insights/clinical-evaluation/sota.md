@@ -15,6 +15,8 @@ contributor: RASAAS
 effective_date: '2025-05-28'
 ---
 
+# Clinical Background (State of the Art)
+
 The “Clinical Background (State-of-the-Art, SOTA)” chapter within the Clinical Evaluation Plan (CEP) is a critical segment for establishing the clinical value and positioning of the medical device under evaluation. The core objective of this chapter is to systematically and objectively articulate the current body of medical knowledge and standard clinical practices relevant to the device. By clearly defining the associated disease(s), existing diagnostic and therapeutic modalities, alternative treatment options, and their generally accepted levels of safety and performance, the SOTA provides essential context and benchmarks for the subsequent determination of the clinical evaluation’s scope, endpoint selection, and acceptance criteria.
 
 ## **Clinical Background**

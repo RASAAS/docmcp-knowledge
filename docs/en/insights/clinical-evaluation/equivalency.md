@@ -15,6 +15,8 @@ contributor: RASAAS
 effective_date: '2025-05-28'
 ---
 
+# Equivalent Device
+
 Within the Clinical Evaluation Plan (CEP), if the strategy involves comparing the device under evaluation with one or more legally marketed medical devices (i.e., “equivalent devices”) and leveraging their clinical data to support the safety and performance claims of the new device, a dedicated chapter is essential to rigorously and comprehensively substantiate this “equivalence.” The core task of this chapter is to clearly and systematically demonstrate, in accordance with regulatory requirements (such as EU MDR Article 61(3) and Annex XIV Part A Section 3, with reference to guidance documents like MDCG 2020-5), that no clinically significant differences exist between the device under evaluation and the chosen equivalent device(s) in terms of their clinical, technical, and biological characteristics.
 
 ## **Selection Criteria for Equivalent Devices**

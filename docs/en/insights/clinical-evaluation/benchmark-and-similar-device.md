@@ -15,6 +15,8 @@ contributor: RASAAS
 effective_date: '2025-05-28'
 ---
 
+# Benchmark or Similar Devices
+
 In the Clinical Evaluation Plan (CEP), the “Benchmark or Similar Devices” chapter serves to provide a crucial frame of reference for the clinical evaluation by identifying and describing existing devices on the market that are comparable to the device under evaluation. The purpose of this chapter is to clearly delineate the landscape of products that are similar or can serve as benchmarks in terms of design, intended use, or technological characteristics within the current state of the art. This facilitates the evaluator’s understanding of the technological positioning of the device under evaluation and provides a basis for subsequent equivalence demonstrations (if applicable), the establishment of performance and safety acceptance criteria, and the benefit-risk analysis.
 
 When composing this chapter, the core lies in selecting appropriate comparator devices and presenting their key information in a professional and concise manner, while also articulating their relevance to the device under evaluation.

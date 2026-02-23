@@ -329,6 +329,18 @@ def sync_content_to_docs(section_key: str, entries: List[dict], repo_root: Path,
         content = content.replace("](/assets/images/", "](/images/")
         # Remove blob: URLs (WordPress editor temp objects, not downloadable)
         content = re.sub(r'!\[([^\]]*)\]\(blob:https?://[^)]+\)', r'[formula]', content)
+        # Inject H1 title from frontmatter if body has no H1
+        fm = read_front_matter(src_file)
+        if fm:
+            title_val = fm.get("title", {})
+            title_zh = title_val.get("zh", "") if isinstance(title_val, dict) else str(title_val)
+            if title_zh:
+                # Find end of frontmatter in content
+                fm_end_idx = content.find("---", 3)
+                if fm_end_idx >= 0:
+                    body = content[fm_end_idx + 3:].lstrip("\n")
+                    if not body.startswith("# "):
+                        content = content[:fm_end_idx + 3] + "\n\n# " + title_zh + "\n\n" + body
         dest_file.write_text(content, encoding="utf-8")
         synced += 1
     return synced
@@ -368,6 +380,19 @@ def sync_en_content_to_docs(section_key: str, entries: List[dict], repo_root: Pa
         # Rewrite image paths
         content = content.replace("](/assets/images/", "](/images/")
         content = re.sub(r'!\[([^\]]*)\]\(blob:https?://[^)]+\)', r'[formula]', content)
+        # Inject H1 title from frontmatter if body has no H1
+        fm = read_front_matter(en_src)
+        if fm:
+            title_val = fm.get("title", {})
+            title_en = title_val.get("en", "") if isinstance(title_val, dict) else str(title_val)
+            if not title_en:
+                title_en = title_val.get("zh", "") if isinstance(title_val, dict) else ""
+            if title_en:
+                fm_end_idx = content.find("---", 3)
+                if fm_end_idx >= 0:
+                    body = content[fm_end_idx + 3:].lstrip("\n")
+                    if not body.startswith("# "):
+                        content = content[:fm_end_idx + 3] + "\n\n# " + title_en + "\n\n" + body
         dest_file.write_text(content, encoding="utf-8")
         synced += 1
     return synced
@@ -499,25 +524,39 @@ def generate_sidebar_json(all_section_entries: Dict[str, List[dict]], repo_root:
                 "items": items,
             })
 
-            # English insights sidebar
+            # English insights sidebar — always add entry for every section
+            if "/en/insights/" not in en_sidebar:
+                en_sidebar["/en/insights/"] = [
+                    {"text": "Regulatory Insights", "link": "/en/insights/"},
+                ]
+            # Map Chinese section titles to English
+            en_section_titles = {
+                "NMPA 合规动态": "NMPA Updates",
+                "EU MDR 合规动态": "EU MDR Updates",
+                "FDA 合规动态": "FDA Updates",
+                "法规解读分析": "Regulatory Analysis",
+                "临床评价方法论": "Clinical Evaluation",
+            }
+            en_sub_title = en_section_titles.get(sub_title, sub_title)
             if en_items:
-                if "/en/insights/" not in en_sidebar:
-                    en_sidebar["/en/insights/"] = [
-                        {"text": "Regulatory Insights", "link": "/en/insights/"},
-                    ]
-                # Map Chinese section titles to English
-                en_section_titles = {
-                    "NMPA 合规动态": "NMPA Updates",
-                    "EU MDR 合规动态": "EU MDR Updates",
-                    "FDA 合规动态": "FDA Updates",
-                    "法规解读分析": "Regulatory Analysis",
-                    "临床评价方法论": "Clinical Evaluation",
-                }
-                en_sub_title = en_section_titles.get(sub_title, sub_title)
                 en_sidebar["/en/insights/"].append({
                     "text": f"{en_sub_title} ({len(en_items)})",
                     "collapsed": True,
                     "items": en_items,
+                })
+            else:
+                # Section not yet translated — link to Chinese version index page
+                zh_section_key = section_key  # e.g. insights/nmpa-updates
+                zh_slug = zh_section_key.split("/")[-1]  # e.g. nmpa-updates
+                en_sidebar["/en/insights/"].append({
+                    "text": f"{en_sub_title} ({len(entries)})",
+                    "collapsed": True,
+                    "items": [
+                        {
+                            "text": f"View in Chinese ({len(entries)} articles)",
+                            "link": f"/zh/insights/{zh_slug}",
+                        }
+                    ],
                 })
 
     out_path = repo_root / "docs" / ".vitepress" / "sidebar.ts"

@@ -15,6 +15,8 @@ contributor: RASAAS
 effective_date: '2025-05-28'
 ---
 
+# Clinical Evaluation Report (CER)
+
 The Clinical Evaluation Report (CER) is the final output of the clinical evaluation process. It systematically documents the activities carried out according to the Clinical Evaluation Plan (CEP), the data collected, the analysis performed, and the conclusions reached regarding the medical device’s safety, clinical performance, and benefit-risk balance. Its primary purpose is to demonstrate the device’s conformity with the relevant General Safety and Performance Requirements (GSPRs) of the EU Medical Device Regulation (MDR).
 
 ## **1\. Introduction and Background Review**

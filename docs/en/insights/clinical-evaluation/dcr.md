@@ -15,6 +15,8 @@ contributor: RASAAS
 effective_date: '2025-09-14'
 ---
 
+# Data Collection Report (DCR)
+
 A Data Collection Report (DCR) is a key document in the clinical evaluation process. It systematically records and summarizes the detailed procedures and direct outputs of data retrieval activities, particularly those executed according to a predefined protocol (the Literature Search Protocol (LSP) referenced in the Clinical Evaluation Plan (CEP)). The core purpose of this report is to provide a transparent, traceable, and auditable list of the original data collection results, which will then serve as the basis for subsequent data appraisal, analysis, and the compilation of the final Clinical Evaluation Report (CER).
 
 A well-structured and comprehensive DCR typically unfolds around the following core aspects.

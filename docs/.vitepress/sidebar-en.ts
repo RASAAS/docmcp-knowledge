@@ -6,6 +6,46 @@ export default {
       "link": "/en/insights/"
     },
     {
+      "text": "NMPA Updates (8)",
+      "collapsed": true,
+      "items": [
+        {
+          "text": "View in Chinese (8 articles)",
+          "link": "/zh/insights/nmpa-updates"
+        }
+      ]
+    },
+    {
+      "text": "EU MDR Updates (15)",
+      "collapsed": true,
+      "items": [
+        {
+          "text": "View in Chinese (15 articles)",
+          "link": "/zh/insights/eu-mdr-updates"
+        }
+      ]
+    },
+    {
+      "text": "FDA Updates (4)",
+      "collapsed": true,
+      "items": [
+        {
+          "text": "View in Chinese (4 articles)",
+          "link": "/zh/insights/fda-updates"
+        }
+      ]
+    },
+    {
+      "text": "Regulatory Analysis (26)",
+      "collapsed": true,
+      "items": [
+        {
+          "text": "View in Chinese (26 articles)",
+          "link": "/zh/insights/analysis"
+        }
+      ]
+    },
+    {
       "text": "Clinical Evaluation (21)",
       "collapsed": true,
       "items": [

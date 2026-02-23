@@ -15,6 +15,8 @@ contributor: RASAAS
 effective_date: '2025-05-28'
 ---
 
+# Data Appraisal and Analysis
+
 Within the Clinical Evaluation Plan (CEP), the “Appraisal and Analysis of Pertinent Data” contents are core methodological information. It aims to clearly and systematically plan how all pertinent clinical data related to the device under evaluation will be identified during the clinical evaluation process, how the suitability, quality, and scientific validity of this data will be rigorously assessed, and finally, how this appraised data will be collectively analyzed to draw conclusions regarding the device’s safety, performance, and benefit-risk profile. The plans and methods described in this chapter are key to ensuring that the entire clinical evaluation process is scientific, objective, repeatable, and compliant with regulatory requirements.
 
 When drafting this chapter, the emphasis should be on the systematic nature, objectivity, and pre-defined criteria of the appraisal and analysis process.

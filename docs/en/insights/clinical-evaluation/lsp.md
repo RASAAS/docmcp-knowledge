@@ -15,6 +15,8 @@ contributor: RASAAS
 effective_date: '2025-05-28'
 ---
 
+# Literature Search Protocol (LSP)
+
 Within the Clinical Evaluation Plan (CEP), a clear and systematic articulation of the literature search plan (LSP) and methodology is of critical importance. This section, whether outlined in the main body of the CEP and detailed in an appendix or presented as a standalone chapter, has the core purpose of prospectively defining a scientific, rigorous, and reproducible process for comprehensively and objectively identifying and retrieving published scientific literature and safety data relevant to the device under evaluation. A well-thought-out Literature Search Protocol is a key safeguard for ensuring that the external evidence upon which the clinical evaluation relies is both sufficient and unbiased.
 
 The LSP should clearly delineate the complete strategy, from defining search objectives to the final selection of literature.

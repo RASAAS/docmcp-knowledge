@@ -15,6 +15,8 @@ contributor: RASAAS
 effective_date: '2025-05-28'
 ---
 
+# Objectives, Inputs and Device Under Evaluation
+
 ## **Objective**
 
 The primary objective of the clinical evaluation must be clearly articulated at the outset of the CEP. The evaluation aims to systematically confirm the safety and clinical performance of the medical device under evaluation when used for its intended purpose, in line with the EU Medical Device Regulation (EU MDR 2017/745). It should be highlighted that this process is conducted to satisfy the clinical evidence requirements stipulated in Article 61 of the MDR and to demonstrate the device’s conformity with the General Safety and Performance Requirements (GSPRs), particularly GSPR 1 (regarding achieving intended purpose safely and effectively) and GSPR 8 (concerning clinical evaluation).
