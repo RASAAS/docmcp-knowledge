@@ -171,6 +171,131 @@ def reformat_footnotes(content: str) -> tuple[str, int]:
     return '\n'.join(new_lines) + '\n'.join(fn_block), len(footnotes)
 
 
+# ── fragmented table merging ─────────────────────────────────────────────────
+
+def merge_fragmented_tables(content: str) -> tuple[str, int]:
+    """
+    docling sometimes splits a single logical table into multiple consecutive
+    Markdown table blocks separated by a blank line, each with different column
+    counts. This happens when PDF rows span multiple columns (rowspan/colspan).
+
+    Strategy: scan for consecutive table blocks separated by at most 1 blank line.
+    If they appear to be fragments of the same table (same or similar content
+    domain), merge them into a single table with the maximum column count.
+
+    A group of tables is considered fragmented if:
+    - They are separated by at most 1 blank line (no text between them)
+    - At least one pair of adjacent tables has different column counts
+    - The first table has >= 2 columns
+    """
+    lines = content.split('\n')
+    # Re-split into blocks but also track blank-line separators
+    blocks: list[tuple[str, list[str]]] = []  # ('text'|'table'|'blank', lines)
+    i = 0
+    while i < len(lines):
+        line = lines[i]
+        if line.startswith('|'):
+            # Collect table block
+            tbl = []
+            while i < len(lines) and lines[i].startswith('|'):
+                tbl.append(lines[i])
+                i += 1
+            blocks.append(('table', tbl))
+        elif line.strip() == '':
+            # Collect consecutive blank lines
+            blanks = []
+            while i < len(lines) and lines[i].strip() == '':
+                blanks.append(lines[i])
+                i += 1
+            blocks.append(('blank', blanks))
+        else:
+            # Collect text block
+            txt = []
+            while i < len(lines) and lines[i].strip() != '' and not lines[i].startswith('|'):
+                txt.append(lines[i])
+                i += 1
+            blocks.append(('text', txt))
+
+    # Find groups of tables separated only by single blank lines
+    merged = 0
+    out_blocks: list[tuple[str, list[str]]] = []
+    bi = 0
+    while bi < len(blocks):
+        btype, blines = blocks[bi]
+        if btype != 'table':
+            out_blocks.append((btype, blines))
+            bi += 1
+            continue
+
+        # Try to collect a group of consecutive tables (separated by <=1 blank line)
+        group_tables = [blines]
+        group_blanks: list[list[str]] = []  # blanks between tables
+        j = bi + 1
+        while j < len(blocks):
+            next_type, next_lines = blocks[j]
+            if next_type == 'blank' and len(next_lines) <= 1:
+                # Peek ahead: is the next non-blank block a table?
+                if j + 1 < len(blocks) and blocks[j + 1][0] == 'table':
+                    group_blanks.append(next_lines)
+                    group_tables.append(blocks[j + 1][1])
+                    j += 2
+                    continue
+            break
+
+        if len(group_tables) == 1:
+            # No adjacent tables found
+            out_blocks.append(('table', blines))
+            bi += 1
+            continue
+
+        # Check if any pair has different column counts
+        col_counts = []
+        for tbl in group_tables:
+            data_rows = [l for l in tbl if l.strip() and not is_separator_row(l)]
+            if data_rows:
+                col_counts.append(len(parse_table_row(data_rows[0])))
+            else:
+                col_counts.append(0)
+
+        if len(set(col_counts)) == 1:
+            # All same column count — not fragmented, keep as-is
+            for k, tbl in enumerate(group_tables):
+                out_blocks.append(('table', tbl))
+                if k < len(group_blanks):
+                    out_blocks.append(('blank', group_blanks[k]))
+            bi = j
+            continue
+
+        # Fragmented tables detected — merge into one with max col count
+        max_cols = max(col_counts)
+        merged_rows: list[str] = []
+        separator_written = False
+
+        for tbl in group_tables:
+            for line in tbl:
+                if not line.strip():
+                    continue
+                if is_separator_row(line):
+                    if not separator_written:
+                        merged_rows.append('| ' + ' | '.join(['---'] * max_cols) + ' |')
+                        separator_written = True
+                    continue
+                cells = parse_table_row(line)
+                # Pad or trim to max_cols
+                while len(cells) < max_cols:
+                    cells.append('')
+                merged_rows.append('| ' + ' | '.join(cells[:max_cols]) + ' |')
+
+        out_blocks.append(('table', merged_rows))
+        merged += 1
+        bi = j
+
+    result_lines = []
+    for btype, blines in out_blocks:
+        result_lines.extend(blines)
+    return '\n'.join(result_lines), merged
+
+
 # ── repeated-column table cleanup ────────────────────────────────────────────
 
 def parse_table_row(line: str) -> list[str]:
@@ -314,6 +439,7 @@ def process_file(path: Path, dry_run: bool) -> dict:
 
     content, toc_removed = remove_toc_tables(content)
     content, fn_count = reformat_footnotes(content)
+    content, frag_merged = merge_fragmented_tables(content)
     content, dup_cols_fixed = deduplicate_table_columns(content)
     content = deduplicate_headers(content)
     content = collapse_blank_lines(content)
@@ -322,6 +448,7 @@ def process_file(path: Path, dry_run: bool) -> dict:
     stats = {
         'toc_removed': toc_removed,
         'footnotes': fn_count,
+        'frag_merged': frag_merged,
         'dup_cols_fixed': dup_cols_fixed,
         'changed': changed,
     }
@@ -345,6 +472,7 @@ def main():
 
     total_toc = 0
     total_fn = 0
+    total_frag = 0
     total_dup = 0
     changed_count = 0
 
@@ -353,17 +481,19 @@ def main():
         prefix = '[DRY]' if args.dry_run else '[OK] '
         if stats['changed']:
             changed_count += 1
-            print(f"{prefix} {path.name}: removed {stats['toc_removed']} TOC table(s), "
-                  f"reformatted {stats['footnotes']} footnote(s), "
-                  f"fixed {stats['dup_cols_fixed']} dup-col table(s)")
+            print(f"{prefix} {path.name}: removed {stats['toc_removed']} TOC, "
+                  f"reformatted {stats['footnotes']} footnotes, "
+                  f"merged {stats['frag_merged']} frag-tables, "
+                  f"fixed {stats['dup_cols_fixed']} dup-col tables")
         total_toc += stats['toc_removed']
         total_fn += stats['footnotes']
+        total_frag += stats['frag_merged']
         total_dup += stats['dup_cols_fixed']
 
     mode = 'DRY RUN' if args.dry_run else 'DONE'
     print(f"\n{mode}: {changed_count}/{len(files)} files changed, "
-          f"{total_toc} TOC tables removed, {total_fn} footnotes reformatted, "
-          f"{total_dup} dup-col tables fixed")
+          f"{total_toc} TOC removed, {total_fn} footnotes, "
+          f"{total_frag} frag-tables merged, {total_dup} dup-col fixed")
 
 
 if __name__ == '__main__':

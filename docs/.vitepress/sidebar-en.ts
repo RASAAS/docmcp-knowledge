@@ -135,5 +135,141 @@ export default {
         }
       ]
     }
+  ],
+  "/en/eu_mdr/mdcg/": [
+    {
+      "text": "<- EU MDR Overview",
+      "link": "/en/eu_mdr/"
+    },
+    {
+      "text": "MDCG Guidance Index",
+      "link": "/en/eu_mdr/mdcg"
+    },
+    {
+      "text": "MDCG Guidance (30)",
+      "collapsed": false,
+      "items": [
+        {
+          "text": "MDCG 2019-15 rev.1: Guidance Notes for Manufacturers of Class I Medical Devices",
+          "link": "/en/eu_mdr/mdcg/mdcg-2019-15"
+        },
+        {
+          "text": "MDCG 2019-16 rev.1: Guidance on Cybersecurity for Medical Devices",
+          "link": "/en/eu_mdr/mdcg/mdcg-2019-16"
+        },
+        {
+          "text": "MDCG 2019-7 rev.1: Guidance on Person Responsible for Regulatory Compliance (PRRC)",
+          "link": "/en/eu_mdr/mdcg/mdcg-2019-7"
+        },
+        {
+          "text": "MDCG 2019-9 rev.1: Summary of Safety and Clinical Performance",
+          "link": "/en/eu_mdr/mdcg/mdcg-2019-9"
+        },
+        {
+          "text": "MDCG 2020-13: Clinical Evaluation Assessment Report Template",
+          "link": "/en/eu_mdr/mdcg/mdcg-2020-13"
+        },
+        {
+          "text": "MDCG 2020-1: Guidance on Clinical Evaluation of Medical Device Software",
+          "link": "/en/eu_mdr/mdcg/mdcg-2020-1"
+        },
+        {
+          "text": "MDCG 2020-3 rev.1: Guidance on Significant Changes Regarding Transitional Provisions",
+          "link": "/en/eu_mdr/mdcg/mdcg-2020-3"
+        },
+        {
+          "text": "MDCG 2020-5: Guidance on Clinical Evaluation – Equivalence",
+          "link": "/en/eu_mdr/mdcg/mdcg-2020-5"
+        },
+        {
+          "text": "MDCG 2020-6: Guidance on Sufficient Clinical Evidence for Legacy Devices",
+          "link": "/en/eu_mdr/mdcg/mdcg-2020-6"
+        },
+        {
+          "text": "MDCG 2020-7: Guidance on PMCF Plan Template",
+          "link": "/en/eu_mdr/mdcg/mdcg-2020-7"
+        },
+        {
+          "text": "MDCG 2020-8: Guidance on PMCF Evaluation Report Template",
+          "link": "/en/eu_mdr/mdcg/mdcg-2020-8"
+        },
+        {
+          "text": "MDCG 2021-24: Guidance on Classification of Medical Devices",
+          "link": "/en/eu_mdr/mdcg/mdcg-2021-24"
+        },
+        {
+          "text": "MDCG 2021-25 rev.1: Application of MDR Requirements to Legacy Devices",
+          "link": "/en/eu_mdr/mdcg/mdcg-2021-25"
+        },
+        {
+          "text": "MDCG 2021-27 rev.1: Q&A on Articles 13 & 14 - Authorised Representatives, Importers, Distributors",
+          "link": "/en/eu_mdr/mdcg/mdcg-2021-27"
+        },
+        {
+          "text": "MDCG 2021-5 rev.1: Guidance on Standardisation for Medical Devices",
+          "link": "/en/eu_mdr/mdcg/mdcg-2021-5"
+        },
+        {
+          "text": "MDCG 2021-6 rev.1: Q&A Regarding Clinical Investigation under MDR",
+          "link": "/en/eu_mdr/mdcg/mdcg-2021-6"
+        },
+        {
+          "text": "MDCG 2021-8: Clinical Investigation Application/Notification Documents",
+          "link": "/en/eu_mdr/mdcg/mdcg-2021-8"
+        },
+        {
+          "text": "MDCG 2022-21: Guidance on Periodic Safety Update Report (PSUR)",
+          "link": "/en/eu_mdr/mdcg/mdcg-2022-21"
+        },
+        {
+          "text": "MDCG 2022-5 rev.1: Guidance on Borderline between Medical Devices and Medicinal Products",
+          "link": "/en/eu_mdr/mdcg/mdcg-2022-5"
+        },
+        {
+          "text": "MDCG 2023-1: Guidance on Health Institution Exemption under Article 5(5)",
+          "link": "/en/eu_mdr/mdcg/mdcg-2023-1"
+        },
+        {
+          "text": "MDCG 2023-4: Medical Device Software Hardware Combinations",
+          "link": "/en/eu_mdr/mdcg/mdcg-2023-4"
+        },
+        {
+          "text": "MDCG 2023-5: Guidance on Qualification and Classification of Annex XVI Products",
+          "link": "/en/eu_mdr/mdcg/mdcg-2023-5"
+        },
+        {
+          "text": "MDCG 2023-6: Guidance on Demonstration of Equivalence for Annex XVI Products",
+          "link": "/en/eu_mdr/mdcg/mdcg-2023-6"
+        },
+        {
+          "text": "MDCG 2023-7: Guidance on Exemptions from Clinical Investigations and Sufficient Access to Data for Equivalence",
+          "link": "/en/eu_mdr/mdcg/mdcg-2023-7"
+        },
+        {
+          "text": "MDCG 2024-10: Clinical Evaluation of Orphan Medical Devices",
+          "link": "/en/eu_mdr/mdcg/mdcg-2024-10"
+        },
+        {
+          "text": "MDCG 2024-3: Guidance on Content of the Clinical Investigation Plan",
+          "link": "/en/eu_mdr/mdcg/mdcg-2024-3"
+        },
+        {
+          "text": "MDCG 2024-5: Guidance on the Investigator's Brochure Content",
+          "link": "/en/eu_mdr/mdcg/mdcg-2024-5"
+        },
+        {
+          "text": "MDCG 2025-4: Guidance on Safe Making Available of MDSW Apps on Online Platforms",
+          "link": "/en/eu_mdr/mdcg/mdcg-2025-4"
+        },
+        {
+          "text": "MDCG 2025-6: FAQ on Interplay between MDR/IVDR and the AI Act",
+          "link": "/en/eu_mdr/mdcg/mdcg-2025-6"
+        },
+        {
+          "text": "MDCG 2025-9: Guidance on Breakthrough Devices (BtX)",
+          "link": "/en/eu_mdr/mdcg/mdcg-2025-9"
+        }
+      ]
+    }
   ]
 }

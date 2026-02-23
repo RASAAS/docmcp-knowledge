@@ -527,6 +527,17 @@ def generate_sidebar_json(all_section_entries: Dict[str, List[dict]], repo_root:
                     "items": sorted_items,
                 },
             ]
+            # English MDCG sidebar
+            en_sorted_items = sorted(en_items, key=lambda x: x["text"])
+            en_sidebar["/en/eu_mdr/mdcg/"] = [
+                {"text": "<- EU MDR Overview", "link": "/en/eu_mdr/"},
+                {"text": "MDCG Guidance Index", "link": "/en/eu_mdr/mdcg"},
+                {
+                    "text": f"MDCG Guidance ({len(en_items)})",
+                    "collapsed": False,
+                    "items": en_sorted_items,
+                },
+            ]
 
         elif section_key.startswith("insights/"):
             if "/zh/insights/" not in sidebar:
