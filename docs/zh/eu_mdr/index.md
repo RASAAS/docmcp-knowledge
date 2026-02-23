@@ -24,18 +24,25 @@ EU MDR 2017/745 于 **2021年5月26日** 正式适用，取代了 MDD 93/42/EEC 
 | 附件III | 上市后监督（PMS）技术文件 | [查看详情](./regulations/annex-iii-pms) |
 | 附件XIV | 临床评价（CER + PMCF） | [查看详情](./regulations/annex-xiv-clinical-evaluation) |
 
-## 协调标准（按类别）
+## 协调标准（按类别，共48条）
 
-| 类别 | 关键标准 | 子页面 |
-|------|---------|--------|
-| 质量管理 | EN ISO 13485:2016 | [查看详情](./standards/quality-management) |
-| 风险管理 | EN ISO 14971:2019 | [查看详情](./standards/risk-management) |
-| 生物相容性 | EN ISO 10993系列（14个子标准） | [查看详情](./standards/biocompatibility) |
-| 电气安全与EMC | EN IEC 60601系列 | [查看详情](./standards/electrical-safety) |
-| 灭菌与包装 | EN ISO 11135/11137/11607/17665 | [查看详情](./standards/sterilization) |
-| 软件与可用性 | EN IEC 62304, EN IEC 62366-1 | [查看详情](./standards/software) |
-| 标签与说明书 | EN ISO 15223-1, EN ISO 20417 | [查看详情](./standards/labelling) |
-| 临床评价与临床调查 | EN ISO 14155:2020 | [查看详情](./standards/clinical-investigation) |
+基于 [Implementing Decision (EU) 2021/1182](https://eur-lex.europa.eu/eli/dec_impl/2021/1182)（合并版）+ [Amendment 2026/193](https://eur-lex.europa.eu/eli/dec_impl/2026/193/oj)
+
+| 类别 | 关键标准 | 数量 | 子页面 |
+|------|---------|------|--------|
+| 灭菌与包装 | EN ISO 11135/11137/11607/17665/18562等 | 21 | [查看详情](./standards/sterilization) |
+| 生物相容性 | EN ISO 10993系列 | 9 | [查看详情](./standards/biocompatibility) |
+| 非有源外科植入物 | EN ISO 14630/21535/21536/7197 | 3 | [查看详情](./standards/surgical-implants) |
+| 手术衣物与口罩 | EN 13795, EN 14683 | 3 | [查看详情](./standards/surgical-textiles) |
+| 医用手套 | EN 455系列 | 2 | [查看详情](./standards/medical-gloves) |
+| 患者搬运设备 | EN 1865系列 | 2 | [查看详情](./standards/patient-handling) |
+| 器械处理与再处理 | EN ISO 17664系列 | 2 | [查看详情](./standards/processing) |
+| 质量管理 | EN ISO 13485:2016 | 1 | [查看详情](./standards/quality-management) |
+| 风险管理 | EN ISO 14971:2019 | 1 | [查看详情](./standards/risk-management) |
+| 电气安全与EMC | EN IEC 60601-2-83 | 1 | [查看详情](./standards/electrical-safety) |
+| 标签与说明书 | EN ISO 15223-1 | 1 | [查看详情](./standards/labelling) |
+| 临床调查 | EN ISO 14155:2020 | 1 | [查看详情](./standards/clinical-investigation) |
+| 小口径连接器 | EN ISO 80369-2 | 1 | [查看详情](./standards/connectors) |
 
 ## 官方来源
 

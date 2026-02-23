@@ -1,6 +1,6 @@
 ---
 title: 协调标准 — 临床评价与临床调查
-description: EU MDR 2017/745 协调标准：临床调查良好临床实践（EN ISO 14155:2020），适用于GSPR 1。
+description: "EU MDR 2017/745 协调标准：临床调查良好临床实践（EN ISO 14155:2020），适用于GSPR 1。"
 regulation: EU MDR 2017/745
 category: Clinical Evaluation and Clinical Investigation
 ---

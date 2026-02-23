@@ -1,6 +1,6 @@
 ---
 title: 协调标准 — 风险管理
-description: EU MDR 2017/745 协调标准：风险管理（EN ISO 14971:2019, EN ISO 24971:2020），适用于GSPR 1-3。
+description: "EU MDR 2017/745 协调标准：风险管理（EN ISO 14971:2019, EN ISO 24971:2020），适用于GSPR 1-3。"
 regulation: EU MDR 2017/745
 category: Risk Management
 ---
