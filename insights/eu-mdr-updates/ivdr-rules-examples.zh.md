@@ -4,7 +4,7 @@ title:
   zh: IVDR 分类规则与实例汇总 (基于 MDCG 2020-16 Rev.4)
   en: ''
 regulation: eu_mdr
-category: eu_mdr/ivdr
+category: insights/eu-mdr-updates
 status: active
 source_url: https://reguverse.com/documentation/eu-mdr-indexing/eu-ivdr-classification/ivdr-rules-examples/
 source_url_verified: '2026-02-23'

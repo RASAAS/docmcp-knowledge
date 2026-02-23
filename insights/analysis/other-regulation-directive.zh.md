@@ -4,7 +4,7 @@ title:
   zh: 其他可能适用于医疗器械的法规和指令
   en: ''
 regulation: eu_mdr
-category: eu_mdr
+category: insights/analysis
 status: active
 source_url: https://reguverse.com/documentation/eu-mdr-indexing/other-regulation-directive/
 source_url_verified: '2026-02-23'

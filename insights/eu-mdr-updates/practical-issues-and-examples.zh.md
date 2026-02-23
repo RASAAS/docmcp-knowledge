@@ -4,7 +4,7 @@ title:
   zh: Practical issues and examples
   en: ''
 regulation: eu_mdr
-category: eu_mdr
+category: insights/eu-mdr-updates
 status: active
 source_url: https://reguverse.com/documentation/eu-mdr-indexing/classification/practical-issues-and-examples/
 source_url_verified: '2026-02-23'

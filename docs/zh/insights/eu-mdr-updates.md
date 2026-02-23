@@ -8,10 +8,16 @@ doc_count: 9
 
 <!-- AUTO-GENERATED: do not edit below this line -->
 
-> 共 **9** 篇文档，最后更新：2026-02-23
+> 共 **15** 篇文档，最后更新：2026-02-23
 
 | 文档名称 | 文号 | 发布年份 |
 |----------|------|----------|
+| [EU IVDR 分类](/zh/insights/eu-mdr-updates/eu-ivdr-classification) |  | 2025 |
+| [IVDR 分类规则与实例汇总 (基于 MDCG 2020-16 Rev.4)](/zh/insights/eu-mdr-updates/ivdr-rules-examples) | `MDCG 2020-16` | 2025 |
+| [Practical issues and examples](/zh/insights/eu-mdr-updates/practical-issues-and-examples) |  | 2025 |
+| [医疗器械法规 (MDR) 技术文档编写说明](/zh/insights/eu-mdr-updates/mdr-td-bpg) |  | 2025 |
+| [EU MDR 分类](/zh/insights/eu-mdr-updates/classification) |  | 2024 |
+| [EU MDR Classification Explanations](/zh/insights/eu-mdr-updates/eu-mdr-classification-explanations) |  | 2024 |
 | [欧盟AI法案对医疗器械的影响：合规路线图与实施策略解析](/zh/insights/eu-mdr-updates/ai-act-compliance) |  | 2024 |
 | [临床试验报告管理新规解读：EUDAMED缺位下的合规路径](/zh/insights/eu-mdr-updates/cir-requirements) |  | 2024 |
 | [欧盟医疗器械监管新框架解析：网络安全与责任制度的多维革新](/zh/insights/eu-mdr-updates/eu-mdr-cybersecurity) |  | 2024 |

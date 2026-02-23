@@ -1,6 +1,6 @@
 ---
 title: 协调标准 — 风险管理
-description: "EU MDR 2017/745 协调标准：风险管理（EN ISO 14971:2019, EN ISO 24971:2020），适用于GSPR 1-3。"
+description: "EU MDR 2017/745 协调标准：风险管理（EN ISO 14971:2019），适用于GSPR 1-3。EN ISO 24971:2020 为应用指南，非协调标准。"
 regulation: EU MDR 2017/745
 category: Risk Management
 ---
@@ -9,12 +9,14 @@ category: Risk Management
 
 **官方来源**：[EC Health — Harmonised Standards](https://health.ec.europa.eu/medical-devices-topics-interest/harmonised-standards_en) | 基于 CID (EU) 2021/1182 及修正案 CID 2024/815
 
-## 标准列表
+## 协调标准列表
 
 | 标准号 | 标题 | GSPR参考 | 状态 |
 |--------|------|---------|------|
 | **EN ISO 14971:2019** | 医疗器械 — 风险管理在医疗器械中的应用 | GSPR 1, 2, 3 | 现行有效 |
-| **EN ISO 24971:2020** | 医疗器械 — ISO 14971应用指南 | GSPR 1, 2 | 现行有效 |
+| EN ISO 14971:2019/A11:2021 | 修正案（与EU MDR协调） | GSPR 1, 2, 3 | 现行有效 |
+
+> **注意**：EN ISO 24971:2020（ISO 14971应用指南）**不是协调标准**，不在 CID 2021/1182 清单中，但可作为实施参考。详见 [通用标准](../../../shared/standards)。
 
 ## EN ISO 14971:2019 详解
 
@@ -33,7 +35,7 @@ category: Risk Management
 | GSPR | ISO 14971对应章节 |
 |------|-----------------|
 | GSPR 1（安全性） | 第4章（风险分析） |
-| GSPR 2（ALARP） | 第6章（风险控制） |
+| GSPR 2（AFAP — 尽可能降低风险） | 第6章（风险控制） |
 | GSPR 3（风险管理体系） | 第4章（风险管理过程） |
 
 ## 相关页面

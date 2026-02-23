@@ -1,7 +1,7 @@
 {
   "category": "insights/eu-mdr-updates",
   "last_updated": "2026-02-23",
-  "count": 9,
+  "count": 15,
   "entries": [
     {
       "id": "insights-pmcf-survey-ec-ic",
@@ -128,6 +128,102 @@
         "zh": "Original: https://www.linkedin.com/pulse/new-era-accountability-medical-devices-cybersecurity-liability-gauci-326ge 编者按： 近期，欧盟在医疗器械法规领域迎来重大突破，形成了一个多层次、全方位的监管体系。本文作者Ian Gauci博士深入剖析了欧盟在数字化时代对医疗器械的网络安全与责",
         "en": ""
       }
+    },
+    {
+      "id": "insights-classification",
+      "title": {
+        "zh": "EU MDR 分类",
+        "en": ""
+      },
+      "published_date": "2025-01-01",
+      "subcategory": "eu-mdr-updates",
+      "source_url": "https://reguverse.com/documentation/eu-mdr-indexing/classification/",
+      "excerpt": {
+        "zh": "",
+        "en": ""
+      },
+      "migrated_from": "eu_mdr/classification",
+      "migration_date": "2026-02-23"
+    },
+    {
+      "id": "insights-eu-mdr-classification-explanations",
+      "title": {
+        "zh": "EU MDR Classification Explanations",
+        "en": ""
+      },
+      "published_date": "2025-01-01",
+      "subcategory": "eu-mdr-updates",
+      "source_url": "https://reguverse.com/documentation/eu-mdr-indexing/classification/eu-mdr-classification-explanations/",
+      "excerpt": {
+        "zh": "",
+        "en": ""
+      },
+      "migrated_from": "eu_mdr/eu-mdr-classification-explanations",
+      "migration_date": "2026-02-23"
+    },
+    {
+      "id": "insights-practical-issues-and-examples",
+      "title": {
+        "zh": "Practical issues and examples",
+        "en": ""
+      },
+      "published_date": "2025-01-01",
+      "subcategory": "eu-mdr-updates",
+      "source_url": "https://reguverse.com/documentation/eu-mdr-indexing/classification/practical-issues-and-examples/",
+      "excerpt": {
+        "zh": "",
+        "en": ""
+      },
+      "migrated_from": "eu_mdr/practical-issues-and-examples",
+      "migration_date": "2026-02-23"
+    },
+    {
+      "id": "insights-mdr-td-bpg",
+      "title": {
+        "zh": "医疗器械法规 (MDR) 技术文档编写说明",
+        "en": ""
+      },
+      "published_date": "2025-01-01",
+      "subcategory": "eu-mdr-updates",
+      "source_url": "https://reguverse.com/documentation/eu-mdr-indexing/technical-documentation/mdr-td-bpg/",
+      "excerpt": {
+        "zh": "",
+        "en": ""
+      },
+      "migrated_from": "eu_mdr/mdr-td-bpg",
+      "migration_date": "2026-02-23"
+    },
+    {
+      "id": "insights-eu-ivdr-classification",
+      "title": {
+        "zh": "EU IVDR 分类",
+        "en": ""
+      },
+      "published_date": "2025-01-01",
+      "subcategory": "eu-mdr-updates",
+      "source_url": "https://reguverse.com/documentation/eu-mdr-indexing/eu-ivdr-classification/",
+      "excerpt": {
+        "zh": "",
+        "en": ""
+      },
+      "migrated_from": "eu_mdr/eu-ivdr-classification",
+      "migration_date": "2026-02-23"
+    },
+    {
+      "id": "insights-ivdr-rules-examples",
+      "title": {
+        "zh": "IVDR 分类规则与实例汇总 (基于 MDCG 2020-16 Rev.4)",
+        "en": ""
+      },
+      "published_date": "2025-01-01",
+      "subcategory": "eu-mdr-updates",
+      "source_url": "https://reguverse.com/documentation/eu-mdr-indexing/eu-ivdr-classification/ivdr-rules-examples/",
+      "excerpt": {
+        "zh": "",
+        "en": ""
+      },
+      "migrated_from": "eu_mdr/ivdr-rules-examples",
+      "migration_date": "2026-02-23"
     }
   ]
 }

@@ -4,7 +4,7 @@ title:
   zh: EU IVDR 分类
   en: ''
 regulation: eu_mdr
-category: eu_mdr/ivdr
+category: insights/eu-mdr-updates
 status: active
 source_url: https://reguverse.com/documentation/eu-mdr-indexing/eu-ivdr-classification/
 source_url_verified: '2026-02-23'

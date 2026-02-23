@@ -4,7 +4,7 @@ title:
   zh: 医疗器械法规 (MDR) 技术文档编写说明
   en: ''
 regulation: eu_mdr
-category: eu_mdr
+category: insights/eu-mdr-updates
 status: active
 source_url: https://reguverse.com/documentation/eu-mdr-indexing/technical-documentation/mdr-td-bpg/
 source_url_verified: '2026-02-23'
