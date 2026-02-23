@@ -1,11 +1,5 @@
 import { defineConfig } from 'vitepress'
-import fs from 'node:fs'
-import { fileURLToPath } from 'node:url'
-import path from 'node:path'
-
-const __dirname = path.dirname(fileURLToPath(import.meta.url))
-const sidebarPath = path.resolve(__dirname, 'sidebar.json')
-const dynamicSidebar = JSON.parse(fs.readFileSync(sidebarPath, 'utf-8'))
+import dynamicSidebar from './sidebar'
 
 export default defineConfig({
   title: 'DocMCP Knowledge Base',
