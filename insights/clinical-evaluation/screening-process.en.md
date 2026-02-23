@@ -2,22 +2,27 @@
 id: eu_mdr-文献选择过程
 title:
   zh: 文献选择过程
-  en: '[Translation needed] 文献选择过程'
+  en: Literature Screening Process
 regulation: eu_mdr
-category: eu_mdr/mdcg
+category: insights/clinical-evaluation
 status: active
-source_url: https://reguverse.com/documentation/clinical-evaluation/literature-search-and-appraisal/screening-process/
+source_url: https://docs.team-ra.org/zh/insights/clinical-evaluation/screening-process
 source_url_verified: '2026-02-23'
-source_url_status: migrated
 source_format: html
 translation: ai-assisted
 last_verified: '2026-02-23'
 contributor: RASAAS
-migrated_from: wordpress
-wordpress_id: 128
 effective_date: '2025-05-26'
 ---
 
-# [Translation needed] 文献选择过程
+# Literature Screening Process
 
-> This document requires English translation. See CONTRIBUTING.md for translation guidelines.
+The literature screening process is described in the diagram below:
+
+> [Figure: Literature screening flowchart]
+
+The screening process begins with reading the title and abstract of each record. Literature not relevant to the clinical evaluation scope will be directly excluded with a stated reason. If the title and abstract indicate that the content may be relevant to the subject device and/or comparator device, as well as the state of the art (applicable for EU MDR), the full text will be retrieved and assessed in detail according to the "Suitability and Contribution Assessment Criteria."
+
+Literature deemed relevant and usable will be included in the clinical evaluation; otherwise it will be excluded with a stated reason.
+
+Both the title/abstract screening and the subsequent full-text review can be assisted by **AI tools**, which can significantly reduce the time required for literature selection and improve the accuracy of data extraction.

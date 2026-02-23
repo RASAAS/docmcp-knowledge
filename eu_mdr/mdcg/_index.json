@@ -1,241 +1,284 @@
 {
-  "category": "eu_mdr/mdcg",
+  "category": "insights/clinical-evaluation",
+  "description": "Clinical evaluation methodology content, migrated from eu_mdr/mdcg/",
   "last_updated": "2026-02-23",
   "count": 21,
   "entries": [
     {
-      "id": "eu_mdr-欧盟-mdcg-2025-9-指南解读突破性医疗器械btx",
-      "title": {
-        "zh": "欧盟 MDCG 2025-9 指南解读：突破性医疗器械（BtX）",
-        "en": ""
-      },
-      "status": "active",
-      "source_url": "https://reguverse.com/documentation/eu-mdr-indexing/mdcg%e6%8c%87%e5%8d%97%e6%96%87%e4%bb%b6%e8%a7%a3%e8%af%bb/mdcg-2025-9/",
-      "source_url_verified": "2026-02-23",
-      "effective_date": "2025-12-16"
-    },
-    {
-      "id": "eu_mdr-临床评价相关服务",
-      "title": {
-        "zh": "临床评价相关服务",
-        "en": ""
-      },
-      "status": "active",
-      "source_url": "https://reguverse.com/documentation/clinical-evaluation/clincial-evaluation-services/",
-      "source_url_verified": "2026-02-23",
-      "effective_date": "2025-09-07"
-    },
-    {
-      "id": "eu_mdr-临床评价报告cer",
-      "title": {
-        "zh": "临床评价报告(CER)",
-        "en": ""
-      },
-      "status": "active",
-      "source_url": "https://reguverse.com/documentation/clinical-evaluation/cer/",
-      "source_url_verified": "2026-02-23",
-      "effective_date": "2025-05-28"
-    },
-    {
-      "id": "eu_mdr-数据收集报告dcr",
-      "title": {
-        "zh": "数据收集报告(DCR)",
-        "en": ""
-      },
-      "status": "active",
-      "source_url": "https://reguverse.com/documentation/clinical-evaluation/cep/dcr/",
-      "source_url_verified": "2026-02-23",
-      "effective_date": "2025-09-14"
-    },
-    {
-      "id": "eu_mdr-文献检索计划lsp",
-      "title": {
-        "zh": "文献检索计划(LSP)",
-        "en": ""
-      },
-      "status": "active",
-      "source_url": "https://reguverse.com/documentation/clinical-evaluation/cep/lsp/",
-      "source_url_verified": "2026-02-23",
-      "effective_date": "2025-05-28"
-    },
-    {
-      "id": "eu_mdr-相关数据的评估与分析",
-      "title": {
-        "zh": "相关数据的评估与分析",
-        "en": ""
-      },
-      "status": "active",
-      "source_url": "https://reguverse.com/documentation/clinical-evaluation/cep/data-appraisal-and-analysis/",
-      "source_url_verified": "2026-02-23",
-      "effective_date": "2025-05-28"
-    },
-    {
-      "id": "eu_mdr-制造商产生的数据",
-      "title": {
-        "zh": "制造商产生的数据",
-        "en": ""
-      },
-      "status": "active",
-      "source_url": "https://reguverse.com/documentation/clinical-evaluation/cep/data-generated-by-the-manufacturer/",
-      "source_url_verified": "2026-02-23",
-      "effective_date": "2025-05-28"
-    },
-    {
-      "id": "eu_mdr-临床评价范围",
+      "id": "clinical-eval-临床评价范围",
       "title": {
         "zh": "临床评价范围",
         "en": ""
       },
+      "slug": "临床评价范围",
       "status": "active",
-      "source_url": "https://reguverse.com/documentation/clinical-evaluation/cep/%e4%b8%b4%e5%ba%8a%e8%af%84%e4%bb%b7%e8%8c%83%e5%9b%b4/",
+      "source_url": "https://docs.team-ra.org/zh/insights/clinical-evaluation/临床评价范围",
       "source_url_verified": "2026-02-23",
-      "effective_date": "2025-05-28"
+      "effective_date": "2025-05-28",
+      "category": "insights/clinical-evaluation"
     },
     {
-      "id": "eu_mdr-临床开发计划cdp",
-      "title": {
-        "zh": "临床开发计划(CDP)",
-        "en": ""
-      },
-      "status": "active",
-      "source_url": "https://reguverse.com/documentation/clinical-evaluation/cep/cdp/",
-      "source_url_verified": "2026-02-23",
-      "effective_date": "2025-05-28"
-    },
-    {
-      "id": "eu_mdr-风险管理",
-      "title": {
-        "zh": "风险管理",
-        "en": ""
-      },
-      "status": "active",
-      "source_url": "https://reguverse.com/documentation/clinical-evaluation/cep/risk-management/",
-      "source_url_verified": "2026-02-23",
-      "effective_date": "2025-05-28"
-    },
-    {
-      "id": "eu_mdr-等同器械",
-      "title": {
-        "zh": "等同器械",
-        "en": ""
-      },
-      "status": "active",
-      "source_url": "https://reguverse.com/documentation/clinical-evaluation/cep/equivalency/",
-      "source_url_verified": "2026-02-23",
-      "effective_date": "2025-05-28"
-    },
-    {
-      "id": "eu_mdr-基准或类似产品",
+      "id": "clinical-eval-benchmark-and-similar-device",
       "title": {
         "zh": "基准或类似产品",
         "en": ""
       },
+      "slug": "benchmark-and-similar-device",
       "status": "active",
-      "source_url": "https://reguverse.com/documentation/clinical-evaluation/cep/benchmark-and-similar-device/",
+      "source_url": "https://docs.team-ra.org/zh/insights/clinical-evaluation/benchmark-and-similar-device",
       "source_url_verified": "2026-02-23",
-      "effective_date": "2025-05-28"
+      "effective_date": "2025-05-28",
+      "category": "insights/clinical-evaluation"
     },
     {
-      "id": "eu_mdr-临床背景信息sota",
+      "id": "clinical-eval-cdp",
       "title": {
-        "zh": "临床背景信息(SOTA)",
+        "zh": "临床开发计划(CDP)",
         "en": ""
       },
+      "slug": "cdp",
       "status": "active",
-      "source_url": "https://reguverse.com/documentation/clinical-evaluation/cep/sota/",
+      "source_url": "https://docs.team-ra.org/zh/insights/clinical-evaluation/cdp",
       "source_url_verified": "2026-02-23",
-      "effective_date": "2025-05-28"
+      "effective_date": "2025-05-28",
+      "category": "insights/clinical-evaluation"
     },
     {
-      "id": "eu_mdr-目标输入和待评价产品信息",
+      "id": "clinical-eval-cer",
       "title": {
-        "zh": "目标、输入和待评价产品信息",
+        "zh": "临床评价报告(CER)",
         "en": ""
       },
+      "slug": "cer",
       "status": "active",
-      "source_url": "https://reguverse.com/documentation/clinical-evaluation/cep/objective-input-due/",
+      "source_url": "https://docs.team-ra.org/zh/insights/clinical-evaluation/cer",
       "source_url_verified": "2026-02-23",
-      "effective_date": "2025-05-28"
+      "effective_date": "2025-05-28",
+      "category": "insights/clinical-evaluation"
     },
     {
-      "id": "eu_mdr-endnote导入和导出",
+      "id": "clinical-eval-clincial-evaluation-services",
       "title": {
-        "zh": "Endnote导入和导出",
+        "zh": "临床评价相关服务",
         "en": ""
       },
+      "slug": "clincial-evaluation-services",
       "status": "active",
-      "source_url": "https://reguverse.com/documentation/clinical-evaluation/literature-search-and-appraisal/endnote-import-export/",
+      "source_url": "https://docs.team-ra.org/zh/insights/clinical-evaluation/clincial-evaluation-services",
       "source_url_verified": "2026-02-23",
-      "effective_date": "2025-08-11"
+      "effective_date": "2025-09-07",
+      "category": "insights/clinical-evaluation"
     },
     {
-      "id": "eu_mdr-临床数据的分析",
+      "id": "clinical-eval-clinical-data-analysis",
       "title": {
         "zh": "临床数据的分析",
         "en": ""
       },
+      "slug": "clinical-data-analysis",
       "status": "active",
-      "source_url": "https://reguverse.com/documentation/clinical-evaluation/literature-search-and-appraisal/clinical-data-analysis/",
+      "source_url": "https://docs.team-ra.org/zh/insights/clinical-evaluation/clinical-data-analysis",
       "source_url_verified": "2026-02-23",
-      "effective_date": "2025-05-26"
+      "effective_date": "2025-05-26",
+      "category": "insights/clinical-evaluation"
     },
     {
-      "id": "eu_mdr-文献选择过程",
+      "id": "clinical-eval-data-appraisal-and-analysis",
       "title": {
-        "zh": "文献选择过程",
+        "zh": "相关数据的评估与分析",
         "en": ""
       },
+      "slug": "data-appraisal-and-analysis",
       "status": "active",
-      "source_url": "https://reguverse.com/documentation/clinical-evaluation/literature-search-and-appraisal/screening-process/",
+      "source_url": "https://docs.team-ra.org/zh/insights/clinical-evaluation/data-appraisal-and-analysis",
       "source_url_verified": "2026-02-23",
-      "effective_date": "2025-05-26"
+      "effective_date": "2025-05-28",
+      "category": "insights/clinical-evaluation"
     },
     {
-      "id": "eu_mdr-文献选择标准",
+      "id": "clinical-eval-data-generated-by-the-manufacturer",
       "title": {
-        "zh": "文献选择标准",
+        "zh": "制造商产生的数据",
         "en": ""
       },
+      "slug": "data-generated-by-the-manufacturer",
       "status": "active",
-      "source_url": "https://reguverse.com/documentation/clinical-evaluation/literature-search-and-appraisal/screening-criteria/",
+      "source_url": "https://docs.team-ra.org/zh/insights/clinical-evaluation/data-generated-by-the-manufacturer",
       "source_url_verified": "2026-02-23",
-      "effective_date": "2025-05-26"
+      "effective_date": "2025-05-28",
+      "category": "insights/clinical-evaluation"
     },
     {
-      "id": "eu_mdr-检索方法",
+      "id": "clinical-eval-dcr",
       "title": {
-        "zh": "检索方法",
+        "zh": "数据收集报告(DCR)",
         "en": ""
       },
+      "slug": "dcr",
       "status": "active",
-      "source_url": "https://reguverse.com/documentation/clinical-evaluation/literature-search-and-appraisal/search-strategy/",
+      "source_url": "https://docs.team-ra.org/zh/insights/clinical-evaluation/dcr",
       "source_url_verified": "2026-02-23",
-      "effective_date": "2025-05-26"
+      "effective_date": "2025-09-14",
+      "category": "insights/clinical-evaluation"
     },
     {
-      "id": "eu_mdr-文献评估标准",
+      "id": "clinical-eval-endnote-import-export",
       "title": {
-        "zh": "文献评估标准",
+        "zh": "Endnote导入和导出",
         "en": ""
       },
+      "slug": "endnote-import-export",
       "status": "active",
-      "source_url": "https://reguverse.com/documentation/clinical-evaluation/literature-search-and-appraisal/lit-review-standard/",
+      "source_url": "https://docs.team-ra.org/zh/insights/clinical-evaluation/endnote-import-export",
       "source_url_verified": "2026-02-23",
-      "effective_date": "2025-05-26"
+      "effective_date": "2025-08-11",
+      "category": "insights/clinical-evaluation"
     },
     {
-      "id": "eu_mdr-文献来源及选择理由",
+      "id": "clinical-eval-equivalency",
+      "title": {
+        "zh": "等同器械",
+        "en": ""
+      },
+      "slug": "equivalency",
+      "status": "active",
+      "source_url": "https://docs.team-ra.org/zh/insights/clinical-evaluation/equivalency",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-05-28",
+      "category": "insights/clinical-evaluation"
+    },
+    {
+      "id": "clinical-eval-lit-database",
       "title": {
         "zh": "文献来源及选择理由",
         "en": ""
       },
+      "slug": "lit-database",
       "status": "active",
-      "source_url": "https://reguverse.com/documentation/clinical-evaluation/literature-search-and-appraisal/lit-database/",
+      "source_url": "https://docs.team-ra.org/zh/insights/clinical-evaluation/lit-database",
       "source_url_verified": "2026-02-23",
-      "effective_date": "2025-05-26"
+      "effective_date": "2025-05-26",
+      "category": "insights/clinical-evaluation"
+    },
+    {
+      "id": "clinical-eval-lit-review-standard",
+      "title": {
+        "zh": "文献评估标准",
+        "en": ""
+      },
+      "slug": "lit-review-standard",
+      "status": "active",
+      "source_url": "https://docs.team-ra.org/zh/insights/clinical-evaluation/lit-review-standard",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-05-26",
+      "category": "insights/clinical-evaluation"
+    },
+    {
+      "id": "clinical-eval-lsp",
+      "title": {
+        "zh": "文献检索计划(LSP)",
+        "en": ""
+      },
+      "slug": "lsp",
+      "status": "active",
+      "source_url": "https://docs.team-ra.org/zh/insights/clinical-evaluation/lsp",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-05-28",
+      "category": "insights/clinical-evaluation"
+    },
+    {
+      "id": "clinical-eval-mdcg-2025-9",
+      "title": {
+        "zh": "欧盟 MDCG 2025-9 指南解读：突破性医疗器械（BtX）",
+        "en": ""
+      },
+      "slug": "mdcg-2025-9",
+      "status": "active",
+      "source_url": "https://docs.team-ra.org/zh/insights/clinical-evaluation/mdcg-2025-9",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-12-16",
+      "category": "insights/clinical-evaluation"
+    },
+    {
+      "id": "clinical-eval-objective-input-due",
+      "title": {
+        "zh": "目标、输入和待评价产品信息",
+        "en": ""
+      },
+      "slug": "objective-input-due",
+      "status": "active",
+      "source_url": "https://docs.team-ra.org/zh/insights/clinical-evaluation/objective-input-due",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-05-28",
+      "category": "insights/clinical-evaluation"
+    },
+    {
+      "id": "clinical-eval-risk-management",
+      "title": {
+        "zh": "风险管理",
+        "en": ""
+      },
+      "slug": "risk-management",
+      "status": "active",
+      "source_url": "https://docs.team-ra.org/zh/insights/clinical-evaluation/risk-management",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-05-28",
+      "category": "insights/clinical-evaluation"
+    },
+    {
+      "id": "clinical-eval-screening-criteria",
+      "title": {
+        "zh": "文献选择标准",
+        "en": ""
+      },
+      "slug": "screening-criteria",
+      "status": "active",
+      "source_url": "https://docs.team-ra.org/zh/insights/clinical-evaluation/screening-criteria",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-05-26",
+      "category": "insights/clinical-evaluation"
+    },
+    {
+      "id": "clinical-eval-screening-process",
+      "title": {
+        "zh": "文献选择过程",
+        "en": ""
+      },
+      "slug": "screening-process",
+      "status": "active",
+      "source_url": "https://docs.team-ra.org/zh/insights/clinical-evaluation/screening-process",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-05-26",
+      "category": "insights/clinical-evaluation"
+    },
+    {
+      "id": "clinical-eval-search-strategy",
+      "title": {
+        "zh": "检索方法",
+        "en": ""
+      },
+      "slug": "search-strategy",
+      "status": "active",
+      "source_url": "https://docs.team-ra.org/zh/insights/clinical-evaluation/search-strategy",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-05-26",
+      "category": "insights/clinical-evaluation"
+    },
+    {
+      "id": "clinical-eval-sota",
+      "title": {
+        "zh": "临床背景信息(SOTA)",
+        "en": ""
+      },
+      "slug": "sota",
+      "status": "active",
+      "source_url": "https://docs.team-ra.org/zh/insights/clinical-evaluation/sota",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-05-28",
+      "category": "insights/clinical-evaluation"
     }
   ],
-  "deprecated": true,
   "migrated_to": "insights/clinical-evaluation",
-  "migration_date": "2026-02-23"
+  "migration_date": "2026-02-23",
+  "source_note": "Source URLs updated from reguverse.com to docs.team-ra.org"
 }

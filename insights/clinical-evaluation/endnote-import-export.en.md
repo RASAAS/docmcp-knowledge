@@ -2,22 +2,63 @@
 id: eu_mdr-endnote导入和导出
 title:
   zh: Endnote导入和导出
-  en: '[Translation needed] Endnote导入和导出'
+  en: EndNote Import and Export
 regulation: eu_mdr
-category: eu_mdr/mdcg
+category: insights/clinical-evaluation
 status: active
-source_url: https://reguverse.com/documentation/clinical-evaluation/literature-search-and-appraisal/endnote-import-export/
+source_url: https://docs.team-ra.org/zh/insights/clinical-evaluation/endnote-import-export
 source_url_verified: '2026-02-23'
-source_url_status: migrated
 source_format: html
 translation: ai-assisted
 last_verified: '2026-02-23'
 contributor: RASAAS
-migrated_from: wordpress
-wordpress_id: 3735
 effective_date: '2025-08-11'
 ---
 
-# [Translation needed] Endnote导入和导出
+# EndNote Import and Export
 
-> This document requires English translation. See CONTRIBUTING.md for translation guidelines.
+Locate the **.nbib** and **.ris** files exported from the databases (see [Search Strategy](./search-strategy)), and double-click each to import into EndNote.
+
+## Create a Project
+
+In EndNote X9, click **File → New** to create a **.enl** file to store and manage all references for this project.
+
+## Import References
+
+Double-click the **.nbib** file; all PubMed references will be automatically imported. In **My Groups**, create a group named **PubMed #1** and drag all imported references into it.
+
+> [Figure: PubMed import into EndNote]
+
+Double-click the **.ris** file; all Embase references will be automatically imported. Create a group named **Embase #2** and drag all imported references into it.
+
+> [Figure: Embase import into EndNote]
+
+## Deduplication
+
+From the top menu, select **References → Find Duplicates**. Confirm duplicates in the dialog and retain one copy of each.
+
+> [Figure: Find Duplicates dialog]
+
+## Export
+
+Select all references, then go to **File → Export**. Set the file type to **Text File (*.txt)** and export in **Author + Title + Abstract** format for subsequent AI-assisted screening.
+
+> [Figure: Export settings]
+
+Open the exported **.txt** file in a text editor to view the complete reference list.
+
+**Note**: To use this export format, create a new Output Style in EndNote. Name it (e.g., "Export Author-Year-Title-Abstract") and configure the **Bibliography → Templates** for the Generic reference type using:
+
+```
+Author. Year. TITLE: Title. ABSTRACT: Abstract
+```
+
+In **Bibliography → Layout**, set the numbering style:
+
+```
+Bibliography Number.
+```
+
+End each reference with a carriage return.
+
+> Note: The above applies to EndNote X9. Other versions may require adjustments.
