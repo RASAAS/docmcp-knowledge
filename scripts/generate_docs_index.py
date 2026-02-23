@@ -334,6 +334,45 @@ def sync_content_to_docs(section_key: str, entries: List[dict], repo_root: Path,
     return synced
 
 
+def sync_en_content_to_docs(section_key: str, entries: List[dict], repo_root: Path, dry_run: bool = False) -> int:
+    """
+    Copy data layer *.en.md files into docs/en/<section_key>/ for VitePress rendering.
+    Strips the .en suffix so the route becomes /en/<section_key>/<slug>.
+    Only syncs files that have substantive English content (not just frontmatter/placeholders).
+    Returns count of files synced.
+    """
+    synced = 0
+    dest_dir = repo_root / "docs" / "en" / section_key
+    if not dry_run:
+        dest_dir.mkdir(parents=True, exist_ok=True)
+
+    for entry in entries:
+        src_file: Path = entry["file"]
+        # Derive the .en.md path from the .zh.md path
+        en_src = src_file.parent / src_file.name.replace(".zh.md", ".en.md")
+        if not en_src.exists():
+            continue
+
+        content = en_src.read_text(encoding="utf-8")
+        # Skip placeholder files that haven't been translated yet
+        if "Translation needed" in content or "> This document requires" in content:
+            continue
+
+        clean_slug = unquote(entry["slug"])
+        dest_file = dest_dir / (clean_slug + ".md")
+        if dry_run:
+            print(f"    [DRY] sync-en {en_src.relative_to(repo_root)} -> {dest_file.relative_to(repo_root)}")
+            synced += 1
+            continue
+
+        # Rewrite image paths
+        content = content.replace("](/assets/images/", "](/images/")
+        content = re.sub(r'!\[([^\]]*)\]\(blob:https?://[^)]+\)', r'[formula]', content)
+        dest_file.write_text(content, encoding="utf-8")
+        synced += 1
+    return synced
+
+
 def _entry_row(entry: dict, repo_root: Path) -> str:
     """Format a table row for a document entry."""
     title = entry["title_zh"]
@@ -354,6 +393,35 @@ def _entry_row(entry: dict, repo_root: Path) -> str:
     return f"| {title_cell} | {doc_num_cell} | {date_cell} |"
 
 
+def get_en_entries(entries: List[dict], repo_root: Path) -> List[dict]:
+    """
+    Filter entries that have substantive English .en.md content.
+    Returns a list of entries with English title available.
+    """
+    en_entries = []
+    for entry in entries:
+        src_file: Path = entry["file"]
+        en_src = src_file.parent / src_file.name.replace(".zh.md", ".en.md")
+        if not en_src.exists():
+            continue
+        content = en_src.read_text(encoding="utf-8")
+        if "Translation needed" in content or "> This document requires" in content:
+            continue
+        # Extract English title from frontmatter
+        fm = read_front_matter(en_src)
+        title_en = ""
+        if fm:
+            title_val = fm.get("title", {})
+            if isinstance(title_val, dict):
+                title_en = title_val.get("en", "")
+            elif isinstance(title_val, str):
+                title_en = title_val
+        if not title_en:
+            title_en = entry["title_zh"]  # fallback to Chinese title
+        en_entries.append({**entry, "title_en": title_en})
+    return en_entries
+
+
 def generate_sidebar_json(all_section_entries: Dict[str, List[dict]], repo_root: Path, dry_run: bool = False) -> None:
     """
     Generate docs/.vitepress/sidebar.json with dynamic sidebar items.
@@ -366,6 +434,8 @@ def generate_sidebar_json(all_section_entries: Dict[str, List[dict]], repo_root:
     """
     sidebar: Dict[str, list] = {}
 
+    en_sidebar: Dict[str, list] = {}
+
     for section_key, entries in all_section_entries.items():
         items = []
         for entry in entries:
@@ -373,6 +443,16 @@ def generate_sidebar_json(all_section_entries: Dict[str, List[dict]], repo_root:
             items.append({
                 "text": entry["title_zh"],
                 "link": f"/zh/{section_key}/{slug}",
+            })
+
+        # Build English sidebar items for this section
+        en_items = []
+        en_entries = get_en_entries(entries, repo_root)
+        for en_entry in en_entries:
+            slug = unquote(en_entry["slug"])
+            en_items.append({
+                "text": en_entry["title_en"],
+                "link": f"/en/{section_key}/{slug}",
             })
 
         if section_key == "nmpa/guidance":
@@ -419,6 +499,27 @@ def generate_sidebar_json(all_section_entries: Dict[str, List[dict]], repo_root:
                 "items": items,
             })
 
+            # English insights sidebar
+            if en_items:
+                if "/en/insights/" not in en_sidebar:
+                    en_sidebar["/en/insights/"] = [
+                        {"text": "Regulatory Insights", "link": "/en/insights/"},
+                    ]
+                # Map Chinese section titles to English
+                en_section_titles = {
+                    "NMPA 合规动态": "NMPA Updates",
+                    "EU MDR 合规动态": "EU MDR Updates",
+                    "FDA 合规动态": "FDA Updates",
+                    "法规解读分析": "Regulatory Analysis",
+                    "临床评价方法论": "Clinical Evaluation",
+                }
+                en_sub_title = en_section_titles.get(sub_title, sub_title)
+                en_sidebar["/en/insights/"].append({
+                    "text": f"{en_sub_title} ({len(en_items)})",
+                    "collapsed": True,
+                    "items": en_items,
+                })
+
     out_path = repo_root / "docs" / ".vitepress" / "sidebar.ts"
     if dry_run:
         print(f"  [DRY] Would write {out_path}")
@@ -427,6 +528,15 @@ def generate_sidebar_json(all_section_entries: Dict[str, List[dict]], repo_root:
     ts_content = "// Auto-generated by scripts/generate_docs_index.py — DO NOT EDIT\n"
     ts_content += "export default " + json.dumps(sidebar, ensure_ascii=False, indent=2) + "\n"
     out_path.write_text(ts_content, encoding="utf-8")
+
+    # Write English sidebar if there are English entries
+    if en_sidebar:
+        en_out_path = repo_root / "docs" / ".vitepress" / "sidebar-en.ts"
+        en_ts_content = "// Auto-generated by scripts/generate_docs_index.py — DO NOT EDIT\n"
+        en_ts_content += "export default " + json.dumps(en_sidebar, ensure_ascii=False, indent=2) + "\n"
+        if not dry_run:
+            en_out_path.write_text(en_ts_content, encoding="utf-8")
+        print(f"  Generated {en_out_path.relative_to(repo_root)}")
 
     # Clean up old sidebar.json if it exists
     old_json = repo_root / "docs" / ".vitepress" / "sidebar.json"
@@ -470,6 +580,9 @@ def main():
             # Sync full content files into docs/zh/ for VitePress rendering
             synced = sync_content_to_docs(section_key, entries, repo_root, dry_run=args.dry_run)
             total_synced += synced
+            # Sync English content files into docs/en/ for VitePress rendering
+            en_synced = sync_en_content_to_docs(section_key, entries, repo_root, dry_run=args.dry_run)
+            total_synced += en_synced
             all_section_entries[section_key] = entries
 
         generate_section_page(
