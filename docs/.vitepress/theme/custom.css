@@ -1,0 +1,22 @@
+/* Wider sidebar to prevent logo/title overflow and accommodate long Chinese titles */
+:root {
+  --vp-sidebar-width: 320px;
+}
+
+/* Ensure sidebar text doesn't overflow */
+.VPSidebar .items .item .text {
+  word-break: break-all;
+  overflow-wrap: break-word;
+}
+
+/* Better table display for long content */
+.vp-doc table {
+  display: table;
+  width: 100%;
+  overflow-x: auto;
+}
+
+.vp-doc th,
+.vp-doc td {
+  min-width: 80px;
+}

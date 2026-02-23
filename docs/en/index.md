@@ -12,6 +12,9 @@ hero:
       text: Browse NMPA
       link: /en/nmpa/
     - theme: alt
+      text: Insights
+      link: /en/insights/
+    - theme: alt
       text: GitHub
       link: https://github.com/RASAAS/docmcp-knowledge
 features:
@@ -23,6 +26,8 @@ features:
     details: Chinese regulations, GB/YY standards, registration review guidance principles by device category
   - title: International Standards
     details: ISO/IEC standards applicable across multiple regulatory frameworks (ISO 14971, IEC 62304, etc.)
+  - title: Regulatory Insights
+    details: Expert analysis on NMPA, EU MDR, and FDA regulatory updates, compliance strategies, and standards interpretation
 ---
 
 ## About This Knowledge Base

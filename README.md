@@ -2,8 +2,8 @@
 
 > Open regulatory knowledge base for medical device compliance — EU MDR, FDA, NMPA regulations, standards, and guidance documents.
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![License: CC BY 4.0](assets/images/README.md/License-CC-BY-4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Contributions Welcome](assets/images/README.md/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 ---
 

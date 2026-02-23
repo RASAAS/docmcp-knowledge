@@ -1,0 +1,216 @@
+{
+  "category": "_shared",
+  "last_updated": "2026-02-23",
+  "count": 19,
+  "entries": [
+    {
+      "id": "shared-需求规格说明书",
+      "title": {
+        "zh": "需求规格说明书",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/qms/eqms-dev/srs/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-10-27"
+    },
+    {
+      "id": "shared-qms整体框架结构-基于iso-13485与mdsap审核要求",
+      "title": {
+        "zh": "QMS整体框架结构 - 基于ISO 13485与MDSAP审核要求",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/qms/overview/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-10-25"
+    },
+    {
+      "id": "shared-facial-anatomy-fitzpatrick-skin-types",
+      "title": {
+        "zh": "Facial Anatomy & Fitzpatrick Skin Types",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/state-of-the-art/racial-differences/facial-anatomy-and-fitzpatrick-skin-types/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-05-08"
+    },
+    {
+      "id": "shared-02-opensota",
+      "title": {
+        "zh": "02. OpenSOTA",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/state-of-the-art/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-05-25"
+    },
+    {
+      "id": "shared-创新医疗器械特别审查电子目录",
+      "title": {
+        "zh": "创新医疗器械特别审查电子目录",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-erps-docs/others/innovation-device-review/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2023-12-03"
+    },
+    {
+      "id": "shared-说明书更改告知电子目录",
+      "title": {
+        "zh": "说明书更改告知电子目录",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-erps-docs/others/ifu-change/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2023-12-03"
+    },
+    {
+      "id": "shared-高风险医疗器械临床试验审批申报资料电子目录",
+      "title": {
+        "zh": "高风险医疗器械临床试验审批申报资料电子目录",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-erps-docs/import-ii-iii/clinical-trial-approval/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2023-12-03"
+    },
+    {
+      "id": "shared-高风险医疗器械临床试验审批申报资料电子目录",
+      "title": {
+        "zh": "高风险医疗器械临床试验审批申报资料电子目录",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-erps-docs/domestic-reg/clinical-trial-approval/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2023-12-03"
+    },
+    {
+      "id": "shared-延续注册申报资料电子目录",
+      "title": {
+        "zh": "延续注册申报资料电子目录",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-erps-docs/domestic-reg/renew/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2023-12-03"
+    },
+    {
+      "id": "shared-变更注册申报资料电子目录",
+      "title": {
+        "zh": "变更注册申报资料电子目录",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-erps-docs/domestic-reg/change-registration/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2023-12-03"
+    },
+    {
+      "id": "shared-变更备案资料电子目录",
+      "title": {
+        "zh": "变更备案资料电子目录",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-erps-docs/domestic-reg/change-filing/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-03-12"
+    },
+    {
+      "id": "shared-第三类医疗器械首次注册",
+      "title": {
+        "zh": "第三类医疗器械首次注册",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-erps-docs/domestic-reg/initial-iii/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2023-12-03"
+    },
+    {
+      "id": "shared-注册流程及时限",
+      "title": {
+        "zh": "注册流程及时限",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-erps-docs/steps-and-timeline/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-02-14"
+    },
+    {
+      "id": "shared-境内医疗器械注册申报资料",
+      "title": {
+        "zh": "境内医疗器械注册申报资料",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-erps-docs/domestic-reg/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2023-12-03"
+    },
+    {
+      "id": "shared-延续注册申报资料电子目录",
+      "title": {
+        "zh": "延续注册申报资料电子目录",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-erps-docs/import-ii-iii/renew/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2023-12-03"
+    },
+    {
+      "id": "shared-变更备案申报资料电子目录",
+      "title": {
+        "zh": "变更备案申报资料电子目录",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-erps-docs/import-ii-iii/change-filing/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-19"
+    },
+    {
+      "id": "shared-变更注册申报资料电子目录",
+      "title": {
+        "zh": "变更注册申报资料电子目录",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-erps-docs/import-ii-iii/change-registration/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2023-12-03"
+    },
+    {
+      "id": "shared-首次注册申报资料电子目录",
+      "title": {
+        "zh": "(首次)注册申报资料电子目录",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-erps-docs/import-ii-iii/initial/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2023-12-03"
+    },
+    {
+      "id": "shared-进口第二类三类医疗器械申报资料",
+      "title": {
+        "zh": "进口第二类、三类医疗器械申报资料",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-erps-docs/import-ii-iii/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2023-12-03"
+    }
+  ]
+}

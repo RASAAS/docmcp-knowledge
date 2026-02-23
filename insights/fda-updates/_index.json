@@ -1,0 +1,63 @@
+{
+  "category": "insights/fda-updates",
+  "last_updated": "2026-02-23",
+  "count": 4,
+  "entries": [
+    {
+      "id": "insights-fda-recombinant-collagen-dressing",
+      "title": {
+        "zh": "美国FDA对于重组胶原蛋白修复面膜类产品的分类与法规要求",
+        "en": ""
+      },
+      "published_date": "2025-05-11",
+      "subcategory": "fda-updates",
+      "source_url": "https://reguverse.com/fda-update/fda-recombinant-collagen-dressing/",
+      "excerpt": {
+        "zh": "I. 摘要 本报告概述了美国食品药品监督管理局（FDA）对用于美容手术后浅表伤口的重组胶原蛋白修复面膜类产品的监管方法。主要发现包括此类产品很可能被归类为医疗器械或非处方药（OTC），监管路径主要是510(k)上市前通知，并且需要仔细区分其与化妆品的界限。报告强调了产品声明和预期用途的重要性。 II. 引言 III. FDA医疗器械和化妆品监管框架 医疗器械的定义： 根据《联邦食品、药品和化妆品法",
+        "en": ""
+      }
+    },
+    {
+      "id": "insights-2025-beginning-guidelines",
+      "title": {
+        "zh": "2025年伊始FDA密集发布指南文件",
+        "en": ""
+      },
+      "published_date": "2025-01-10",
+      "subcategory": "fda-updates",
+      "source_url": "https://reguverse.com/fda-update/2025-beginning-guidelines/",
+      "excerpt": {
+        "zh": "一、背景概述 在2025年新政府即将上任之际，FDA于1月8日密集发布了20多份指导文件，涵盖了从AI应用到加速审批等多个重要领域。 二、重点指南文件解析 1. AI在药品研发中的监管应用指南 FDA发布了一份23页的草案，提出了”基于风险的可信度评估框架”。该框架旨在帮助制药企业验证AI模型输出的可靠性。它提供了六个AI应用实例，包括减少动物实验依赖、整合多源数据等，其中特别关注了AI在临床试验",
+        "en": ""
+      }
+    },
+    {
+      "id": "insights-fda-guidance-gudid-2024",
+      "title": {
+        "zh": "解读FDA GUDID包装配置管理要求：医疗器械UDI合规的关键要素",
+        "en": ""
+      },
+      "published_date": "2024-12-19",
+      "subcategory": "fda-updates",
+      "source_url": "https://reguverse.com/fda-update/fda-guidance-gudid-2024/",
+      "excerpt": {
+        "zh": "Original: https://www.fda.gov/regulatory-information/search-fda-guidance-documents/global-unique-device-identification-database-gudid 编者按： 2024年12月17日，FDA发布了一份关于GUDID包装配置管理的重要指导文件，系统阐述了医疗器械唯一标识系统(UDI)",
+        "en": ""
+      }
+    },
+    {
+      "id": "insights-fda-cybersecurity-editors-note",
+      "title": {
+        "zh": "FDA医疗器械网络安全指南解析：从合规走向卓越",
+        "en": ""
+      },
+      "published_date": "2024-12-16",
+      "subcategory": "fda-updates",
+      "source_url": "https://reguverse.com/fda-update/fda-cybersecurity-editors-note/",
+      "excerpt": {
+        "zh": "Original：https://www.linkedin.com/pulse/aligning-fdas-premarket-cybersecurity-guidance-going-beyond-dupuis-rq2ic/ 编者按： 随着医疗器械数字化程度不断提升，其网络安全已成为全球监管机构关注的焦点。本文深入剖析了美国食品药品监督管理局(FDA)最新的上市前网络安全指南，揭示了从被动合规到",
+        "en": ""
+      }
+    }
+  ]
+}
