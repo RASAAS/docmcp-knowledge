@@ -1,0 +1,1668 @@
+{
+  "category": "nmpa/guidance",
+  "last_updated": "2026-02-23",
+  "count": 151,
+  "entries": [
+    {
+      "id": "nmpa-神经修复材料产品技术审评要点",
+      "title": {
+        "zh": "神经修复材料产品技术审评要点",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/review-points/nerve-repair-materials/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-12-27"
+    },
+    {
+      "id": "nmpa-软组织再生型疝修补补片动物试验研究技术审评要点",
+      "title": {
+        "zh": "软组织再生型疝修补补片动物试验研究技术审评要点",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/review-points/animal-testing-of-soft-tissue-regenerative-hernia-repair-patches/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-12-27"
+    },
+    {
+      "id": "nmpa-2025版",
+      "title": {
+        "zh": "2025版",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/high-end-medical-devices/2025-2/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-12-27"
+    },
+    {
+      "id": "nmpa-一次性使用麻醉用针注册审查指导原则",
+      "title": {
+        "zh": "一次性使用麻醉用针注册审查指导原则",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/08-respiratory-anesthesia/single-use-anesthetic-needles/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-10-30"
+    },
+    {
+      "id": "nmpa-射线束扫描测量设备注册审查指导原则",
+      "title": {
+        "zh": "射线束扫描测量设备注册审查指导原则",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/05-radiological-device/radiation-beam-scanning-device/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-10-01"
+    },
+    {
+      "id": "nmpa-医疗器械网络销售质量管理规范现场检查指导原则",
+      "title": {
+        "zh": "医疗器械网络销售质量管理规范现场检查指导原则",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/general-and-others/online-sales-gsp-inspection/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-10-01"
+    },
+    {
+      "id": "nmpa-医用射线防护喷剂注册审查指导原则",
+      "title": {
+        "zh": "医用射线防护喷剂注册审查指导原则",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/06-imaging/medical-radiation-protection-sprays/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-09-17"
+    },
+    {
+      "id": "nmpa-一次性使用内窥镜用活检袋注册审查指导原则",
+      "title": {
+        "zh": "一次性使用内窥镜用活检袋注册审查指导原则",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/06-imaging/single-use-endoscope-biopsy-bags/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-09-17"
+    },
+    {
+      "id": "nmpa-通气鼻贴注册审查指导原则",
+      "title": {
+        "zh": "通气鼻贴注册审查指导原则",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/14-infusion-care-and-protection/ventilation-nasal-strips/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-09-17"
+    },
+    {
+      "id": "nmpa-一次性使用鼻镜注册审查指导原则",
+      "title": {
+        "zh": "一次性使用鼻镜注册审查指导原则",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/07-monitoring/disposable-rhinoscopes/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-09-17"
+    },
+    {
+      "id": "nmpa-微量元素分析仪注册审查指导原则",
+      "title": {
+        "zh": "微量元素分析仪注册审查指导原则",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/22-diagnosis/trace-element-analyzers/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-09-17"
+    },
+    {
+      "id": "nmpa-胃肠道造影显像剂产品注册审查指导原则",
+      "title": {
+        "zh": "胃肠道造影显像剂产品注册审查指导原则",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/06-imaging/gastrointestinal-contrast-agents/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-09-17"
+    },
+    {
+      "id": "nmpa-内窥镜手术用剪注册审查指导原则",
+      "title": {
+        "zh": "内窥镜手术用剪注册审查指导原则",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/02-non-active-surgical/scissors-for-endoscopic-surgery/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-09-17"
+    },
+    {
+      "id": "nmpa-一次性使用无菌尿道扩张器注册审查指导原则",
+      "title": {
+        "zh": "一次性使用无菌尿道扩张器注册审查指导原则",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/02-non-active-surgical/single-use-sterile-urethral-dilators/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-09-17"
+    },
+    {
+      "id": "nmpa-胃镜润滑液注册审查指导原则",
+      "title": {
+        "zh": "胃镜润滑液注册审查指导原则",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/06-imaging/gastroscopic-lubricants/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-09-17"
+    },
+    {
+      "id": "nmpa-医疗器械注册自检核查指南",
+      "title": {
+        "zh": "医疗器械注册自检核查指南",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/testing/self-testing-audit-guideline/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-09-17"
+    },
+    {
+      "id": "nmpa-康复类数字疗法软件产品分类界定指导原则",
+      "title": {
+        "zh": "康复类数字疗法软件产品分类界定指导原则",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/general-and-others/rehabilitation-digital-therapy-software-product-classification/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-09-13"
+    },
+    {
+      "id": "nmpa-应用纳米材料的医疗器械产品分类界定指导原则",
+      "title": {
+        "zh": "应用纳米材料的医疗器械产品分类界定指导原则",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/general-and-others/classification-of-medical-device-products-using-nanomaterials/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-09-13"
+    },
+    {
+      "id": "nmpa-含光源的近视控制弱视治疗类医疗器械产品分类界定指导原则",
+      "title": {
+        "zh": "含光源的近视控制、弱视治疗类医疗器械产品分类界定指导原则",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/general-and-others/classification-of-medical-devices-containing-light-sources-for-myopia-control-and-amblyopia-treatment/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-09-13"
+    },
+    {
+      "id": "nmpa-牵引床注册审查指导原则",
+      "title": {
+        "zh": "牵引床注册审查指导原则",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/09-physical-therapy/traction-bed/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-09-13"
+    },
+    {
+      "id": "nmpa-医用中心吸引系统注册审查指导原则",
+      "title": {
+        "zh": "医用中心吸引系统注册审查指导原则",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/14-infusion-care-and-protection/medical-central-suction-system/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-09-13"
+    },
+    {
+      "id": "nmpa-弱视治疗设备光源不直接照射眼底注册审查指导原则",
+      "title": {
+        "zh": "弱视治疗设备（光源不直接照射眼底）注册审查指导原则",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/16-ophthalmology/amblyopia-treatment-device/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-09-13"
+    },
+    {
+      "id": "nmpa-家用无创呼吸机非生命支持注册审查指导原则",
+      "title": {
+        "zh": "家用无创呼吸机（非生命支持）注册审查指导原则",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/08-respiratory-anesthesia/home-non-invasive-ventilator-non-life-support/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-09-13"
+    },
+    {
+      "id": "nmpa-血流变分析仪注册审查指导原则",
+      "title": {
+        "zh": "血流变分析仪注册审查指导原则",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/22-diagnosis/blood-rheology-analyzer/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-09-13"
+    },
+    {
+      "id": "nmpa-电子听诊器注册审查指导原则",
+      "title": {
+        "zh": "电子听诊器注册审查指导原则",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/07-monitoring/electronic-stethoscope/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-09-13"
+    },
+    {
+      "id": "nmpa-颅内弹簧圈注册审查指导原则",
+      "title": {
+        "zh": "颅内弹簧圈注册审查指导原则",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/13-implants/intracranial-coil/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-09-13"
+    },
+    {
+      "id": "nmpa-腹腔内窥镜手术系统注册审查指导原则-第4部分风险管理",
+      "title": {
+        "zh": "腹腔内窥镜手术系统注册审查指导原则 第4部分：风险管理",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/01-active-surgical/laparoscopic-surgery-system/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-09-13"
+    },
+    {
+      "id": "nmpa-预充式导管冲洗器注册审查指导原则",
+      "title": {
+        "zh": "预充式导管冲洗器注册审查指导原则",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/14-infusion-care-and-protection/prefilled-catheter-flusher/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-09-12"
+    },
+    {
+      "id": "nmpa-藻酸盐敷料注册审查指导原则",
+      "title": {
+        "zh": "藻酸盐敷料注册审查指导原则",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/14-infusion-care-and-protection/alginate-dressing/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-09-12"
+    },
+    {
+      "id": "nmpa-脱细胞基质软组织创面修复材料产品注册审查指导原则",
+      "title": {
+        "zh": "脱细胞基质软组织创面修复材料产品注册审查指导原则",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/general-and-others/acellular-matrix-soft-tissue-wound-repair-material/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-09-12"
+    },
+    {
+      "id": "nmpa-二代基因测序相关体外诊断试剂分类界定指导原则",
+      "title": {
+        "zh": "二代基因测序相关体外诊断试剂分类界定指导原则",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/general-and-others/ngs-ivd-classification/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-09-12"
+    },
+    {
+      "id": "nmpa-免于进行临床试验体外诊断试剂目录2025年",
+      "title": {
+        "zh": "免于进行临床试验体外诊断试剂目录（2025年）",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/classification-2/ivd-ci-exemption-2025/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-07-15"
+    },
+    {
+      "id": "nmpa-04-骨科手术器械",
+      "title": {
+        "zh": "04 骨科手术器械",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/classification-2/clinical-evaluation-pathway/04-orthopedic-surgical/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-06-02"
+    },
+    {
+      "id": "nmpa-01-有源手术器械",
+      "title": {
+        "zh": "01 有源手术器械",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/classification-2/clinical-evaluation-pathway/01-active-surgical/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-06-02"
+    },
+    {
+      "id": "nmpa-移动医疗器械注册审查指导原则2025年修订版",
+      "title": {
+        "zh": "移动医疗器械注册审查指导原则（2025年修订版）",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/21-sw/mobile-wearable-device-2025/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-05-08"
+    },
+    {
+      "id": "nmpa-医疗器械网络销售质量管理规范",
+      "title": {
+        "zh": "医疗器械网络销售质量管理规范",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/gsp/online-sales/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-28"
+    },
+    {
+      "id": "nmpa-体外膜肺氧合系统临床评价注册审查指导原则",
+      "title": {
+        "zh": "体外膜肺氧合系统临床评价注册审查指导原则",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/10-blood-transfusion-dialysis-extracorporeal-circulation/ecmo-cer-2025/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-24"
+    },
+    {
+      "id": "nmpa-远程监测系统注册审查指导原则",
+      "title": {
+        "zh": "远程监测系统注册审查指导原则",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/21-sw/remote-monitoring-system-2024/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-20"
+    },
+    {
+      "id": "nmpa-中央监护软件注册技术审查指导原则",
+      "title": {
+        "zh": "中央监护软件注册技术审查指导原则",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/21-sw/central-monitoring-software-2017/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-20"
+    },
+    {
+      "id": "nmpa-口腔种植手术导航定位系统同品种临床评价注册审查指导原则",
+      "title": {
+        "zh": "口腔种植手术导航定位系统同品种临床评价注册审查指导原则",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/01-active-surgical/oral-implant-surgery-navigation-and-positioning-system-cer-2021/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-20"
+    },
+    {
+      "id": "nmpa-种植用口腔骨填充材料注册审查指导原则",
+      "title": {
+        "zh": "种植用口腔骨填充材料注册审查指导原则",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/17-dentistry/oral-bone-filling-materials-for-implants-2025/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-20"
+    },
+    {
+      "id": "nmpa-牙科树脂类充填材料产品注册审查指导原则2025年修订版",
+      "title": {
+        "zh": "牙科树脂类充填材料产品注册审查指导原则（2025年修订版）",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/17-dentistry/dental-resin-filling-materials-2025/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-20"
+    },
+    {
+      "id": "nmpa-颅骨修补网板系统注册审查指导原则",
+      "title": {
+        "zh": "颅骨修补网板系统注册审查指导原则",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/13-implants/skull-repair-mesh-system-2025/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-20"
+    },
+    {
+      "id": "nmpa-胸骨捆扎固定系统注册审查指导原则",
+      "title": {
+        "zh": "胸骨捆扎固定系统注册审查指导原则",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/13-implants/sternum-strapping-system-2025/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-20"
+    },
+    {
+      "id": "nmpa-记忆合金肋骨板注册审查指导原则",
+      "title": {
+        "zh": "记忆合金肋骨板注册审查指导原则",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/13-implants/memory-alloy-rib-plate-2025/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-20"
+    },
+    {
+      "id": "nmpa-金属骨针注册审查指导原则",
+      "title": {
+        "zh": "金属骨针注册审查指导原则",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/13-implants/metal-bone-needle-2025/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-20"
+    },
+    {
+      "id": "nmpa-口腔修复膜注册审查指导原则",
+      "title": {
+        "zh": "口腔修复膜注册审查指导原则",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/17-dentistry/oral-repair-membrane-2025/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-20"
+    },
+    {
+      "id": "nmpa-可吸收骨内固定植入物注册审查指导原则",
+      "title": {
+        "zh": "可吸收骨内固定植入物注册审查指导原则",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/13-implants/absorbable-bone-fixation-implants-2025/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-20"
+    },
+    {
+      "id": "nmpa-骨科植入物抗菌性能评价注册审查指导原则",
+      "title": {
+        "zh": "骨科植入物抗菌性能评价注册审查指导原则",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/13-implants/antimicrobial-properties-of-orthopedic-implants-2025/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-20"
+    },
+    {
+      "id": "nmpa-重组人源化胶原蛋白原材料评价指导原则",
+      "title": {
+        "zh": "重组人源化胶原蛋白原材料评价指导原则",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/general-and-others/recombinant-humanized-collagen-raw-materials-2023/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-20"
+    },
+    {
+      "id": "nmpa-重组胶原蛋白创面敷料注册审查指导原则",
+      "title": {
+        "zh": "重组胶原蛋白创面敷料注册审查指导原则",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/14-infusion-care-and-protection/recombinant-collagen-wound-dressing-2023/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-20"
+    },
+    {
+      "id": "nmpa-整形美容用重组人源化胶原蛋白注射材料技术审评要点试行",
+      "title": {
+        "zh": "整形美容用重组人源化胶原蛋白注射材料技术审评要点（试行）",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/review-points/recombinant-humanized-collagen-injection-materials-for-plastic-surgery-2022/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-20"
+    },
+    {
+      "id": "nmpa-冲击波治疗仪注册技术审查指导原则",
+      "title": {
+        "zh": "冲击波治疗仪注册技术审查指导原则",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/09-physical-therapy/shock-wave-therapy-device-2020/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-20"
+    },
+    {
+      "id": "nmpa-i型胶原软骨修复产品注册审查指导原则",
+      "title": {
+        "zh": "I型胶原软骨修复产品注册审查指导原则",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/13-implants/type-i-collagen-cartilage-repair/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-19"
+    },
+    {
+      "id": "nmpa-全自动化学发光免疫分析仪注册审查指导原则2025年修订版",
+      "title": {
+        "zh": "全自动化学发光免疫分析仪注册审查指导原则（2025年修订版）",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/22-diagnosis/clia-2025/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-19"
+    },
+    {
+      "id": "nmpa-药物涂层球囊扩张导管注册审查指导原则",
+      "title": {
+        "zh": "药物涂层球囊扩张导管注册审查指导原则",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/03-neural-cardiovascular/dcb-2023/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-19"
+    },
+    {
+      "id": "nmpa-球囊扩张导管注册技术审查指导原则",
+      "title": {
+        "zh": "球囊扩张导管注册技术审查指导原则",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/03-neural-cardiovascular/balloon-catheter-2020/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-19"
+    },
+    {
+      "id": "nmpa-外周药物涂层球囊扩张导管临床试验注册审查指导原则2025年第2号",
+      "title": {
+        "zh": "外周药物涂层球囊扩张导管临床试验注册审查指导原则（2025年第2号）",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/03-neural-cardiovascular/pdcb-ci-2025/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-19"
+    },
+    {
+      "id": "nmpa-自测用血糖监测系统注册审查指导原则2023年修订版",
+      "title": {
+        "zh": "自测用血糖监测系统注册审查指导原则（2023年修订版）",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/07-monitoring/bgm-2023/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-19"
+    },
+    {
+      "id": "nmpa-磁疗产品注册审查指导原则2024年修订版",
+      "title": {
+        "zh": "磁疗产品注册审查指导原则（2024年修订版）",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/09-physical-therapy/magnetic-therapy-device-2024/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-19"
+    },
+    {
+      "id": "nmpa-一次性使用鼻氧管注册审查指导原则2024年修订",
+      "title": {
+        "zh": "一次性使用鼻氧管注册审查指导原则（2024年修订）",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/08-respiratory-anesthesia/disposable-nasal-oxygen-cannula-2024/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-19"
+    },
+    {
+      "id": "nmpa-气管插管产品注册审查指导原则2024年修订版",
+      "title": {
+        "zh": "气管插管产品注册审查指导原则（2024年修订版）",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/08-respiratory-anesthesia/endotracheal-intubation-2024/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-19"
+    },
+    {
+      "id": "nmpa-医用雾化器注册审查指导原则2024修订版",
+      "title": {
+        "zh": "医用雾化器注册审查指导原则（2024修订版）",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/08-respiratory-anesthesia/medical-nebulizer-2024/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-19"
+    },
+    {
+      "id": "nmpa-一次性使用引流管产品注册审查指导原则2024年修订版",
+      "title": {
+        "zh": "一次性使用引流管产品注册审查指导原则（2024年修订版）",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/14-infusion-care-and-protection/disposable-drainage-tube-2024/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-19"
+    },
+    {
+      "id": "nmpa-医疗器械技术审评中心创新医疗器械特别审查申请审查实施细则",
+      "title": {
+        "zh": "医疗器械技术审评中心创新医疗器械特别审查申请审查实施细则",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/innovative-medical-devices-special-review/innovative-medical-devices-special-review-cmde-implementation-rules-review/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-20"
+    },
+    {
+      "id": "nmpa-医疗器械技术审评中心医疗器械优先审批申请审核实施细则",
+      "title": {
+        "zh": "医疗器械技术审评中心医疗器械优先审批申请审核实施细则",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/innovative-medical-devices-special-review/cmde-implementation-rules-approval/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-20"
+    },
+    {
+      "id": "nmpa-进口医疗器械变更注册申报资料要求",
+      "title": {
+        "zh": "进口医疗器械变更注册申报资料要求",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/submission-requirements/import-change-registration/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-20"
+    },
+    {
+      "id": "nmpa-进口医疗器械变更备案资料要求",
+      "title": {
+        "zh": "进口医疗器械变更备案资料要求",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/submission-requirements/import-change-filing/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-20"
+    },
+    {
+      "id": "nmpa-进口医疗器械延续注册申报资料要求",
+      "title": {
+        "zh": "进口医疗器械延续注册申报资料要求",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/submission-requirements/import-renewal-registration/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-20"
+    },
+    {
+      "id": "nmpa-医疗器械说明书更改告知程序",
+      "title": {
+        "zh": "医疗器械说明书更改告知程序",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/workflow/ifu-change-submission/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-20"
+    },
+    {
+      "id": "nmpa-第一类医疗器械备案资料要求及说明",
+      "title": {
+        "zh": "第一类医疗器械备案资料要求及说明",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/submission-requirements/class-i-device-submission-documentation-requirements/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-20"
+    },
+    {
+      "id": "nmpa-医疗器械延续注册申报资料要求及说明",
+      "title": {
+        "zh": "医疗器械延续注册申报资料要求及说明",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/submission-requirements/renewal-submission-documentation-requirements/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-20"
+    },
+    {
+      "id": "nmpa-医疗器械变更注册申报资料要求及说明",
+      "title": {
+        "zh": "医疗器械变更注册申报资料要求及说明",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/submission-requirements/change-registration-submission-documentation-requirements/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-20"
+    },
+    {
+      "id": "nmpa-医疗器械变更备案资料要求及说明",
+      "title": {
+        "zh": "医疗器械变更备案资料要求及说明",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/submission-requirements/change-filing-submission-documentation-requirements/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-20"
+    },
+    {
+      "id": "nmpa-α-氰基丙烯酸酯类医用粘合剂注册审查指导原则2024年修订版",
+      "title": {
+        "zh": "α -氰基丙烯酸酯类医用粘合剂注册审查指导原则(2024年修订版)",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/02-non-active-surgical/%ce%b1-cyanoacrylate-medical-adhesive/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-19"
+    },
+    {
+      "id": "nmpa-医疗器械首次注册申报资料要求及说明",
+      "title": {
+        "zh": "医疗器械（首次）注册申报资料要求及说明",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/submission-requirements/initial-submission-documentation-requirements/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-20"
+    },
+    {
+      "id": "nmpa-进口医疗器械首次注册资料要求",
+      "title": {
+        "zh": "进口医疗器械首次注册资料要求",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/submission-requirements/import-initial-registration/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-20"
+    },
+    {
+      "id": "nmpa-医疗器械产品注册收费标准及注册收费实施细则",
+      "title": {
+        "zh": "医疗器械产品注册收费标准及注册收费实施细则",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/fees/registration-fees/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-08-14"
+    },
+    {
+      "id": "nmpa-医疗器械临床试验项目检查要点及判定原则2025年第22号公告",
+      "title": {
+        "zh": "医疗器械临床试验项目检查要点及判定原则（2025年第22号公告）",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/clinical-investigation/clinical-investigation-checkpoint-and-criteria/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-20"
+    },
+    {
+      "id": "nmpa-持续葡萄糖监测系统注册审查指导原则2023年修订版",
+      "title": {
+        "zh": "持续葡萄糖监测系统注册审查指导原则（2023年修订版）",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/07-monitoring/cgm-07-04-03/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-19"
+    },
+    {
+      "id": "nmpa-胰岛素泵注册审查指导原则2023年第26号",
+      "title": {
+        "zh": "胰岛素泵注册审查指导原则（2023年第26号）",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/14-infusion-care-and-protection/insulin-pump-14-03-02/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-19"
+    },
+    {
+      "id": "nmpa-电动病床注册技术审查指导原则2017年修订版",
+      "title": {
+        "zh": "电动病床注册技术审查指导原则（2017年修订版）",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/15-patient-supporting/15-03-01/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-19"
+    },
+    {
+      "id": "nmpa-麻醉机和呼吸机用呼吸管路产品注册审查-指导原则2024年修订版",
+      "title": {
+        "zh": "麻醉机和呼吸机用呼吸管路产品注册审查 指导原则（2024年修订版）",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/08-respiratory-anesthesia/cmde-2024-21/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-19"
+    },
+    {
+      "id": "nmpa-医疗器械经营质量管理规范现场检查指导原则",
+      "title": {
+        "zh": "医疗器械经营质量管理规范现场检查指导原则",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/gsp/nmpa-2024-20/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-20"
+    },
+    {
+      "id": "nmpa-医疗器械可用性工程注册审查指导原则2024年第13号",
+      "title": {
+        "zh": "医疗器械可用性工程注册审查指导原则（2024年第13号）",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/general-and-others/usability/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-19"
+    },
+    {
+      "id": "nmpa-无创血糖监测产品注册审查指导原则2023年第42号",
+      "title": {
+        "zh": "无创血糖监测产品注册审查指导原则（2023年第42号）",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/07-monitoring/cmde-2023-42/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-19"
+    },
+    {
+      "id": "nmpa-人工智能辅助检测医疗器械软件临床评价注册审查指导原则2023",
+      "title": {
+        "zh": "人工智能辅助检测医疗器械（软件）临床评价注册审查指导原则（2023）",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/21-sw/cmde-2023-38/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-19"
+    },
+    {
+      "id": "nmpa-体外膜氧合ecmo循环套包动物试验注册审查指导原则2023年第39号",
+      "title": {
+        "zh": "体外膜氧合（ECMO）循环套包动物试验注册审查指导原则（2023年第39号）",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/10-blood-transfusion-dialysis-extracorporeal-circulation/cmde-2023-39/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-19"
+    },
+    {
+      "id": "nmpa-磁疗产品注册技术审查指导原则2016年第22号",
+      "title": {
+        "zh": "磁疗产品注册技术审查指导原则（2016年第22号）",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/09-physical-therapy/magnetic-therapy-device-2016/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-19"
+    },
+    {
+      "id": "nmpa-医疗器械经营质量管理规范",
+      "title": {
+        "zh": "医疗器械经营质量管理规范",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/gsp/nmpa-notice-2023-153/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-20"
+    },
+    {
+      "id": "nmpa-医疗器械已知可沥滤物测定方法验证及确认注册技术审查指导原则2019年第78号",
+      "title": {
+        "zh": "医疗器械已知可沥滤物测定方法验证及确认注册技术审查指导原则（2019年第78号）",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/general-and-others/cmde-2019-78/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-19"
+    },
+    {
+      "id": "nmpa-一次性使用无菌闭合夹注册技术审查指导原则2021年第30号",
+      "title": {
+        "zh": "一次性使用无菌闭合夹注册技术审查指导原则（2021年第30号）",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/02-non-active-surgical/cmde-2021-30/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-19"
+    },
+    {
+      "id": "nmpa-医疗器械使用质量监督管理办法",
+      "title": {
+        "zh": "医疗器械使用质量监督管理办法",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pms/nmpa-order-18/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-20"
+    },
+    {
+      "id": "nmpa-医疗器械召回管理办法",
+      "title": {
+        "zh": "医疗器械召回管理办法",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pms/nmpa-order-29/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-20"
+    },
+    {
+      "id": "nmpa-医疗器械注册人开展不良事件监测工作指南",
+      "title": {
+        "zh": "医疗器械注册人开展不良事件监测工作指南",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pms/nmpa-notice-2020-25/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-20"
+    },
+    {
+      "id": "nmpa-医疗器械定期风险评价报告撰写规范",
+      "title": {
+        "zh": "医疗器械定期风险评价报告撰写规范",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pms/nmpa-notice-2020-46/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-20"
+    },
+    {
+      "id": "nmpa-医疗器械注册人备案人开展不良事件监测工作检查要点",
+      "title": {
+        "zh": "医疗器械注册人备案人开展不良事件监测工作检查要点",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pms/nmpa-notice-2021-43/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-20"
+    },
+    {
+      "id": "nmpa-医疗器械不良事件监测和再评价管理办法",
+      "title": {
+        "zh": "医疗器械不良事件监测和再评价管理办法",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pms/samr-order-1/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-20"
+    },
+    {
+      "id": "nmpa-药品医疗器械保健食品特殊医学用途配方食品广告审查管理暂行办法",
+      "title": {
+        "zh": "药品、医疗器械、保健食品、特殊医学用途配方食品广告审查管理暂行办法",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/gsp/samr-order-21/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-20"
+    },
+    {
+      "id": "nmpa-医疗器械经营监督管理办法",
+      "title": {
+        "zh": "医疗器械经营监督管理办法",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/gsp/samr-order-54/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-20"
+    },
+    {
+      "id": "nmpa-列入免于临床评价医疗器械目录产品对比说明技术指导原则",
+      "title": {
+        "zh": "列入免于临床评价医疗器械目录产品对比说明技术指导原则",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/general-and-others/clinical-evaluation/cmde-2021-73-5/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2023-12-03"
+    },
+    {
+      "id": "nmpa-决策是否开展医疗器械临床试验技术指导原则",
+      "title": {
+        "zh": "决策是否开展医疗器械临床试验技术指导原则",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/general-and-others/clinical-evaluation/cmde-2021-73-4/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2023-12-03"
+    },
+    {
+      "id": "nmpa-医疗器械临床评价等同性论证技术指导原则",
+      "title": {
+        "zh": "医疗器械临床评价等同性论证技术指导原则",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/general-and-others/clinical-evaluation/cmde-2021-73-3/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2023-12-03"
+    },
+    {
+      "id": "nmpa-医疗器械注册申报临床评价报告技术指导原则",
+      "title": {
+        "zh": "医疗器械注册申报临床评价报告技术指导原则",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/general-and-others/clinical-evaluation/cmde-2021-73-2/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2023-12-03"
+    },
+    {
+      "id": "nmpa-医疗器械临床评价技术指导原则",
+      "title": {
+        "zh": "医疗器械临床评价技术指导原则",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/general-and-others/clinical-evaluation/cmde-2021-73-1/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2023-12-03"
+    },
+    {
+      "id": "nmpa-临床评价",
+      "title": {
+        "zh": "临床评价",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/general-and-others/clinical-evaluation/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-19"
+    },
+    {
+      "id": "nmpa-医疗器械临床试验数据递交要求注册审查指导原则2021年第91号",
+      "title": {
+        "zh": "医疗器械临床试验数据递交要求注册审查指导原则（2021年第91号）",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/general-and-others/nmpa-2021-91/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-19"
+    },
+    {
+      "id": "nmpa-持续正压通气用面罩口罩鼻罩注册审查指导原则2022年第41号",
+      "title": {
+        "zh": "持续正压通气用面罩、口罩、鼻罩注册审查指导原则（2022年第41号）",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/08-respiratory-anesthesia/cmde-2022-41/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-19"
+    },
+    {
+      "id": "nmpa-麻醉面罩产品注册审查指导原则2021年第102号",
+      "title": {
+        "zh": "麻醉面罩产品注册审查指导原则（2021年第102号）",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/08-respiratory-anesthesia/cmde-2021-102/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-19"
+    },
+    {
+      "id": "nmpa-一次性使用吸痰管注册技术审查指导原则2018年第120号",
+      "title": {
+        "zh": "一次性使用吸痰管注册技术审查指导原则（2018年第120号）",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/08-respiratory-anesthesia/cmde-2018-120/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-19"
+    },
+    {
+      "id": "nmpa-一次性使用鼻氧管产品注册技术审查指导原则2013年第8号",
+      "title": {
+        "zh": "一次性使用鼻氧管产品注册技术审查指导原则（2013年第8号）",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/08-respiratory-anesthesia/disposable-nasal-oxygen-cannula-2013/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-19"
+    },
+    {
+      "id": "nmpa-口咽鼻咽通气道注册审查指导原则2023年第22号",
+      "title": {
+        "zh": "口咽/鼻咽通气道注册审查指导原则（2023年第22号）",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/08-respiratory-anesthesia/cmde-2023-22-2/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-19"
+    },
+    {
+      "id": "nmpa-气管插管产品注册技术审查指导原则食药监办械函200995号",
+      "title": {
+        "zh": "气管插管产品注册技术审查指导原则（食药监办械函[2009]95号）",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/08-respiratory-anesthesia/cmde-2009-95/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-19"
+    },
+    {
+      "id": "nmpa-麻醉机和呼吸机用呼吸管路产品注册技术审查指导原则2012年第210号",
+      "title": {
+        "zh": "麻醉机和呼吸机用呼吸管路产品注册技术审查指导原则（2012年第210号）",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/08-respiratory-anesthesia/cmde-2012-210/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-19"
+    },
+    {
+      "id": "nmpa-网式雾化器注册审查指导原则2021年第104号",
+      "title": {
+        "zh": "网式雾化器注册审查指导原则（2021年第104号）",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/08-respiratory-anesthesia/cmde-2021-104/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-19"
+    },
+    {
+      "id": "nmpa-医用雾化器注册技术审查指导原则2016年修订版",
+      "title": {
+        "zh": "医用雾化器注册技术审查指导原则（2016年修订版）",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/08-respiratory-anesthesia/medical-nebulizer-2016/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-19"
+    },
+    {
+      "id": "nmpa-医用呼吸道湿化器注册审查指导原则2023年第22号",
+      "title": {
+        "zh": "医用呼吸道湿化器注册审查指导原则（2023年第22号）",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/08-respiratory-anesthesia/cmde-2023-22/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-19"
+    },
+    {
+      "id": "nmpa-治疗呼吸机临床评价技术审查指导原则2017年第212号",
+      "title": {
+        "zh": "治疗呼吸机临床评价技术审查指导原则（2017年第212号）",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/08-respiratory-anesthesia/cmde-2017-212/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-19"
+    },
+    {
+      "id": "nmpa-高流量呼吸治疗设备注册审查指导原则2023年第26号",
+      "title": {
+        "zh": "高流量呼吸治疗设备注册审查指导原则（2023年第26号）",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/08-respiratory-anesthesia/cmde-2023-26/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-19"
+    },
+    {
+      "id": "nmpa-正压通气治疗机注册技术审查指导原则2016年第27号",
+      "title": {
+        "zh": "正压通气治疗机注册技术审查指导原则（2016年第27号）",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/08-respiratory-anesthesia/cmde-2016-27/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-19"
+    },
+    {
+      "id": "nmpa-医疗器械安全和性能的基本原则2020年第18号",
+      "title": {
+        "zh": "医疗器械安全和性能的基本原则（2020年第18号）",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/general-and-others/nmpa-notice-2020-18/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-19"
+    },
+    {
+      "id": "nmpa-医疗器械产品技术要求编写指导原则2022年第8号",
+      "title": {
+        "zh": "医疗器械产品技术要求编写指导原则（2022年第8号）",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/general-and-others/cmde-2022-8/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-19"
+    },
+    {
+      "id": "nmpa-医疗器械网络安全注册审查指导原则2022年修订版",
+      "title": {
+        "zh": "医疗器械网络安全注册审查指导原则（2022年修订版）",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/21-sw/cmde-2022-7/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-19"
+    },
+    {
+      "id": "nmpa-医疗器械软件注册审查指导原则2022年修订版",
+      "title": {
+        "zh": "医疗器械软件注册审查指导原则（2022年修订版）",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/21-sw/cmde-2022-9/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-19"
+    },
+    {
+      "id": "nmpa-医疗器械注册申请电子提交技术指南试行",
+      "title": {
+        "zh": "医疗器械注册申请电子提交技术指南（试行）",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/general-and-others/cmde-2019-29/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-19"
+    },
+    {
+      "id": "nmpa-无源医疗器械产品原材料变化评价指南",
+      "title": {
+        "zh": "无源医疗器械产品原材料变化评价指南",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/general-and-others/cmde-2020-33/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-19"
+    },
+    {
+      "id": "nmpa-有源医疗器械使用期限注册技术审查指导原则",
+      "title": {
+        "zh": "有源医疗器械使用期限注册技术审查指导原则",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/general-and-others/cmde-2019-23/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-19"
+    },
+    {
+      "id": "nmpa-医疗器械注册单元划分指导原则",
+      "title": {
+        "zh": "医疗器械注册单元划分指导原则",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/general-and-others/cmde-2017-187/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-19"
+    },
+    {
+      "id": "nmpa-医疗器械生物学评价和审查指南",
+      "title": {
+        "zh": "医疗器械生物学评价和审查指南",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/general-and-others/cmde-2007-345/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-19"
+    },
+    {
+      "id": "nmpa-医疗器械通用名称命名规则",
+      "title": {
+        "zh": "医疗器械通用名称命名规则",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/general/nmpa-order-19/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-20"
+    },
+    {
+      "id": "nmpa-第一类医疗器械产品目录",
+      "title": {
+        "zh": "第一类医疗器械产品目录",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/classification-2/class-i-devces/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-20"
+    },
+    {
+      "id": "nmpa-医疗器械分类目录",
+      "title": {
+        "zh": "医疗器械分类目录",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/classification-2/classification/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-20"
+    },
+    {
+      "id": "nmpa-创新医疗器械特别审查程序",
+      "title": {
+        "zh": "创新医疗器械特别审查程序",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/innovative-medical-devices-special-review/nmpa-notice-2018-83/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-20"
+    },
+    {
+      "id": "nmpa-创新医疗器械特别审查申报资料编写指南",
+      "title": {
+        "zh": "创新医疗器械特别审查申报资料编写指南",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/innovative-medical-devices-special-review/nmpa-notice-2018-127/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-20"
+    },
+    {
+      "id": "nmpa-国家药监局关于医疗器械电子申报有关资料要求的通告",
+      "title": {
+        "zh": "国家药监局关于医疗器械电子申报有关资料要求的通告",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/submission-requirements/nmpa-notice-2019-41/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-20"
+    },
+    {
+      "id": "nmpa-免于临床评价医疗器械目录",
+      "title": {
+        "zh": "免于临床评价医疗器械目录",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/classification-2/clinical-evaluation-exemption-list/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-06-02"
+    },
+    {
+      "id": "nmpa-关于公布医疗器械注册申报资料要求和批准证明文件格式的公告",
+      "title": {
+        "zh": "关于公布医疗器械注册申报资料要求和批准证明文件格式的公告",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/submission-requirements/nmpa-notice-2021-121/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-20"
+    },
+    {
+      "id": "nmpa-医疗器械注册自检管理规定",
+      "title": {
+        "zh": "医疗器械注册自检管理规定",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/testing/nmpa-notice-2021-126/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-09-17"
+    },
+    {
+      "id": "nmpa-医疗器械拓展性临床试验管理规定试行",
+      "title": {
+        "zh": "医疗器械拓展性临床试验管理规定（试行）",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/clinical-investigation/nmpa-notice-2020-41/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-20"
+    },
+    {
+      "id": "nmpa-国家药监局关于实施医疗器械临床试验质量管理规范有关事项的通告",
+      "title": {
+        "zh": "国家药监局关于实施《医疗器械临床试验质量管理规范》有关事项的通告",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/clinical-investigation/nmpa-notice-2022-21/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-20"
+    },
+    {
+      "id": "nmpa-医疗器械临床试验质量管理规范",
+      "title": {
+        "zh": "医疗器械临床试验质量管理规范",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/clinical-investigation/nmpa-notice-2022-28/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-20"
+    },
+    {
+      "id": "nmpa-医疗器械注册与备案管理办法",
+      "title": {
+        "zh": "医疗器械注册与备案管理办法",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/workflow/samr-order-47/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-20"
+    },
+    {
+      "id": "nmpa-国家药监局关于全面实施医疗器械电子注册证的公告",
+      "title": {
+        "zh": "国家药监局关于全面实施医疗器械电子注册证的公告",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/general/nmpa-notice-2022-91/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-20"
+    },
+    {
+      "id": "nmpa-国家药监局关于进口医疗器械产品在中国境内企业生产有关事项的公告",
+      "title": {
+        "zh": "国家药监局关于进口医疗器械产品在中国境内企业生产有关事项的公告",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/general/nmpa-notice-2020-104/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-20"
+    },
+    {
+      "id": "nmpa-医疗器械说明书和标签管理规定",
+      "title": {
+        "zh": "医疗器械说明书和标签管理规定",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/general/nmpa-order-6/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-20"
+    },
+    {
+      "id": "nmpa-医疗器械分类规则",
+      "title": {
+        "zh": "医疗器械分类规则",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/general/nmpa-order-15/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-20"
+    },
+    {
+      "id": "nmpa-医疗器械监督管理条例",
+      "title": {
+        "zh": "医疗器械监督管理条例",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/general/prc-state-council-order-739/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-20"
+    },
+    {
+      "id": "nmpa-一次性使用引流管产品注册技术审查指导原则2014年第7号",
+      "title": {
+        "zh": "一次性使用引流管产品注册技术审查指导原则（2014年第7号）",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/14-infusion-care-and-protection/drainage-tubes-guidance/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-19"
+    },
+    {
+      "id": "nmpa-人工复苏器注册技术审查指导原则2019年第79号",
+      "title": {
+        "zh": "人工复苏器注册技术审查指导原则（2019年第79号）",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/08-respiratory-anesthesia/manual-resuscitator-guidance/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-19"
+    },
+    {
+      "id": "nmpa-热湿交换器注册技术审查指导原则2020年第39号",
+      "title": {
+        "zh": "热湿交换器注册技术审查指导原则（2020年第39号）",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/08-respiratory-anesthesia/hme-guidance/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-19"
+    },
+    {
+      "id": "nmpa-呼吸系统过滤器注册审查指导原则2023年第22号",
+      "title": {
+        "zh": "呼吸系统过滤器注册审查指导原则（2023年第22号）",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/08-respiratory-anesthesia/bsf-guidance/",
+      "source_url_verified": "2026-02-23",
+      "effective_date": "2025-04-19"
+    }
+  ]
+}
