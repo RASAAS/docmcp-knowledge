@@ -1,9 +1,342 @@
 {
-  "category": "insights/clinical-evaluation",
-  "description": "Clinical evaluation methodology content, migrated from eu_mdr/mdcg/",
+  "category": "eu_mdr/mdcg",
+  "description": "MDCG guidance documents for EU MDR 2017/745 and EU IVDR 2017/746",
   "last_updated": "2026-02-23",
   "count": 21,
   "entries": [
+    {
+      "id": "mdcg-2020-5",
+      "title": { "zh": "MDCG 2020-5：临床评价 — 等同性指南", "en": "MDCG 2020-5: Guidance on Clinical Evaluation – Equivalence" },
+      "slug": "mdcg-2020-5",
+      "status": "active",
+      "source_url": "https://health.ec.europa.eu/document/download/575a0f79-e3a0-4a96-9ce0-930576c12aa2_en?filename=md_mdcg_2020_5_guidance_clinical_evaluation_equivalence_en.pdf",
+      "source_url_verified": "2026-02-23",
+      "published_date": "2020-05-01",
+      "category": "eu_mdr/mdcg",
+      "mdcg_category": "clinical_evaluation"
+    },
+    {
+      "id": "mdcg-2020-6",
+      "title": { "zh": "MDCG 2020-6：遗留器械充分临床证据指南", "en": "MDCG 2020-6: Guidance on Sufficient Clinical Evidence for Legacy Devices" },
+      "slug": "mdcg-2020-6",
+      "status": "active",
+      "source_url": "https://health.ec.europa.eu/document/download/a6d29444-b5d5-4afb-8024-10be85256aa7_en?filename=md_mdcg_2020_6_guidance_sufficient_clinical_evidence_en.pdf",
+      "source_url_verified": "2026-02-23",
+      "published_date": "2020-05-01",
+      "category": "eu_mdr/mdcg",
+      "mdcg_category": "clinical_evaluation"
+    },
+    {
+      "id": "mdcg-2020-7",
+      "title": { "zh": "MDCG 2020-7：PMCF计划模板", "en": "MDCG 2020-7: Guidance on PMCF Plan Template" },
+      "slug": "mdcg-2020-7",
+      "status": "active",
+      "source_url": "https://health.ec.europa.eu/document/download/a5cdb303-c782-4010-8723-7d389af678f7_en?filename=md_mdcg_2020_7_guidance_pmcf_plan_template_en.pdf",
+      "source_url_verified": "2026-02-23",
+      "published_date": "2020-05-01",
+      "category": "eu_mdr/mdcg",
+      "mdcg_category": "clinical_evaluation"
+    },
+    {
+      "id": "mdcg-2020-8",
+      "title": { "zh": "MDCG 2020-8：PMCF评估报告模板", "en": "MDCG 2020-8: Guidance on PMCF Evaluation Report Template" },
+      "slug": "mdcg-2020-8",
+      "status": "active",
+      "source_url": "https://health.ec.europa.eu/document/download/11121036-696a-4589-a311-c5525bd84df3_en?filename=md_mdcg_2020_8_guidance_pmcf_evaluation_report_en.pdf",
+      "source_url_verified": "2026-02-23",
+      "published_date": "2020-05-01",
+      "category": "eu_mdr/mdcg",
+      "mdcg_category": "clinical_evaluation"
+    },
+    {
+      "id": "mdcg-2020-13",
+      "title": { "zh": "MDCG 2020-13：临床评价评估报告模板（CEAR）", "en": "MDCG 2020-13: Clinical Evaluation Assessment Report Template" },
+      "slug": "mdcg-2020-13",
+      "status": "active",
+      "source_url": "https://health.ec.europa.eu/document/download/02f50abc-91db-4ad9-b137-6ffedb690716_en?filename=md_2020-13-cea-report-template_en.pdf",
+      "source_url_verified": "2026-02-23",
+      "published_date": "2020-07-01",
+      "category": "eu_mdr/mdcg",
+      "mdcg_category": "clinical_evaluation"
+    },
+    {
+      "id": "mdcg-2020-1",
+      "title": { "zh": "MDCG 2020-1：医疗器械软件临床评价指南", "en": "MDCG 2020-1: Guidance on Clinical Evaluation of Medical Device Software" },
+      "slug": "mdcg-2020-1",
+      "status": "active",
+      "source_url": "https://health.ec.europa.eu/document/download/19d9e24f-2808-4e00-bfeb-75892047407d_en?filename=md_mdcg_2020_1_guidance_clinic_eva_md_software_en.pdf",
+      "source_url_verified": "2026-02-23",
+      "published_date": "2020-03-01",
+      "category": "eu_mdr/mdcg",
+      "mdcg_category": "software_new_tech"
+    },
+    {
+      "id": "mdcg-2020-3",
+      "title": { "zh": "MDCG 2020-3 rev.1：过渡期重大变更指南", "en": "MDCG 2020-3 rev.1: Guidance on Significant Changes Regarding Transitional Provisions" },
+      "slug": "mdcg-2020-3",
+      "status": "active",
+      "source_url": "https://health.ec.europa.eu/document/download/800e8e87-d4eb-4cc5-b5ad-07a9146d7c90_en?filename=mdcg_2020-3_en_1.pdf",
+      "source_url_verified": "2026-02-23",
+      "published_date": "2023-09-01",
+      "category": "eu_mdr/mdcg",
+      "mdcg_category": "transitional"
+    },
+    {
+      "id": "mdcg-2019-7",
+      "title": { "zh": "MDCG 2019-7 rev.1：法规合规负责人（PRRC）指南", "en": "MDCG 2019-7 rev.1: Guidance on Person Responsible for Regulatory Compliance (PRRC)" },
+      "slug": "mdcg-2019-7",
+      "status": "active",
+      "source_url": "https://health.ec.europa.eu/document/download/463b4f08-44a2-4018-9957-488bf386fc3a_en?filename=md_mdcg_2019_7_guidance_art15_mdr_ivdr_en.pdf",
+      "source_url_verified": "2026-02-23",
+      "published_date": "2023-01-01",
+      "category": "eu_mdr/mdcg",
+      "mdcg_category": "manufacturer_obligations"
+    },
+    {
+      "id": "mdcg-2019-9",
+      "title": { "zh": "MDCG 2019-9 rev.1：安全性和临床性能摘要（SSCP）", "en": "MDCG 2019-9 rev.1: Summary of Safety and Clinical Performance" },
+      "slug": "mdcg-2019-9",
+      "status": "active",
+      "source_url": "https://health.ec.europa.eu/document/download/5f082b2f-8d51-495c-9ab9-985a9f39ece4_en?filename=md_mdcg_2019_9_sscp_en.pdf",
+      "source_url_verified": "2026-02-23",
+      "published_date": "2022-01-01",
+      "category": "eu_mdr/mdcg",
+      "mdcg_category": "clinical_evaluation"
+    },
+    {
+      "id": "mdcg-2019-15",
+      "title": { "zh": "MDCG 2019-15 rev.1：I类器械制造商指南", "en": "MDCG 2019-15 rev.1: Guidance Notes for Manufacturers of Class I Medical Devices" },
+      "slug": "mdcg-2019-15",
+      "status": "active",
+      "source_url": "https://health.ec.europa.eu/document/download/349a2d4c-ea2a-4279-861c-7c063bc077e4_en?filename=md_guidance-manufacturers_en.pdf",
+      "source_url_verified": "2026-02-23",
+      "published_date": "2019-12-01",
+      "category": "eu_mdr/mdcg",
+      "mdcg_category": "manufacturer_obligations"
+    },
+    {
+      "id": "mdcg-2019-16",
+      "title": { "zh": "MDCG 2019-16 rev.1：医疗器械网络安全指南", "en": "MDCG 2019-16 rev.1: Guidance on Cybersecurity for Medical Devices" },
+      "slug": "mdcg-2019-16",
+      "status": "active",
+      "source_url": "https://health.ec.europa.eu/document/download/b23b362f-8a56-434c-922a-5b3ca4d0a7a1_en?filename=md_cybersecurity_en.pdf",
+      "source_url_verified": "2026-02-23",
+      "published_date": "2020-12-01",
+      "category": "eu_mdr/mdcg",
+      "mdcg_category": "software_new_tech"
+    },
+    {
+      "id": "mdcg-2021-5",
+      "title": { "zh": "MDCG 2021-5 rev.1：医疗器械标准化指南", "en": "MDCG 2021-5 rev.1: Guidance on Standardisation for Medical Devices" },
+      "slug": "mdcg-2021-5",
+      "status": "active",
+      "source_url": "https://health.ec.europa.eu/document/download/59ac4cb0-f187-4ca2-814d-82c42cde5408_en?filename=md_mdcg_2021_5_en.pdf",
+      "source_url_verified": "2026-02-23",
+      "published_date": "2024-01-01",
+      "category": "eu_mdr/mdcg",
+      "mdcg_category": "standards"
+    },
+    {
+      "id": "mdcg-2021-6",
+      "title": { "zh": "MDCG 2021-6 rev.1：临床调查问答（MDR）", "en": "MDCG 2021-6 rev.1: Q&A Regarding Clinical Investigation under MDR" },
+      "slug": "mdcg-2021-6",
+      "status": "active",
+      "source_url": "https://health.ec.europa.eu/document/download/f124f630-389e-4c45-90dc-24ec0a707838_en?filename=mdcg_2021-6_en.pdf",
+      "source_url_verified": "2026-02-23",
+      "published_date": "2023-01-01",
+      "category": "eu_mdr/mdcg",
+      "mdcg_category": "clinical_evaluation"
+    },
+    {
+      "id": "mdcg-2021-8",
+      "title": { "zh": "MDCG 2021-8：临床调查申请/通知文件", "en": "MDCG 2021-8: Clinical Investigation Application/Notification Documents" },
+      "slug": "mdcg-2021-8",
+      "status": "active",
+      "source_url": "https://health.ec.europa.eu/document/download/13265ec7-1776-41af-afb6-e0a64bc407b5_en?filename=mdcg_2021-8_en.pdf",
+      "source_url_verified": "2026-02-23",
+      "published_date": "2021-05-01",
+      "category": "eu_mdr/mdcg",
+      "mdcg_category": "clinical_evaluation"
+    },
+    {
+      "id": "mdcg-2021-24",
+      "title": { "zh": "MDCG 2021-24：医疗器械分类指南", "en": "MDCG 2021-24: Guidance on Classification of Medical Devices" },
+      "slug": "mdcg-2021-24",
+      "status": "active",
+      "source_url": "https://health.ec.europa.eu/document/download/cbb19821-a517-4e13-bf87-fdc6ddd1782e_en?filename=mdcg_2021-24_en.pdf",
+      "source_url_verified": "2026-02-23",
+      "published_date": "2021-10-01",
+      "category": "eu_mdr/mdcg",
+      "mdcg_category": "classification"
+    },
+    {
+      "id": "mdcg-2021-25",
+      "title": { "zh": "MDCG 2021-25 rev.1：遗留器械MDR要求适用指南", "en": "MDCG 2021-25 rev.1: Application of MDR Requirements to Legacy Devices" },
+      "slug": "mdcg-2021-25",
+      "status": "active",
+      "source_url": "https://health.ec.europa.eu/document/download/cbb11a6e-f0f3-4e30-af5e-990f9ef68bc1_en?filename=md_mdcg_2021_25_en.pdf",
+      "source_url_verified": "2026-02-23",
+      "published_date": "2024-01-01",
+      "category": "eu_mdr/mdcg",
+      "mdcg_category": "transitional"
+    },
+    {
+      "id": "mdcg-2021-27",
+      "title": { "zh": "MDCG 2021-27 rev.1：授权代表、进口商、经销商问答", "en": "MDCG 2021-27 rev.1: Q&A on Articles 13 & 14" },
+      "slug": "mdcg-2021-27",
+      "status": "active",
+      "source_url": "https://health.ec.europa.eu/document/download/82d9adbc-dbf0-40d4-93ed-ade673c8232a_en?filename=mdcg_2021-27_en.pdf",
+      "source_url_verified": "2026-02-23",
+      "published_date": "2023-01-01",
+      "category": "eu_mdr/mdcg",
+      "mdcg_category": "manufacturer_obligations"
+    },
+    {
+      "id": "mdcg-2022-5",
+      "title": { "zh": "MDCG 2022-5 rev.1：器械与药品边界指南", "en": "MDCG 2022-5 rev.1: Guidance on Borderline between Medical Devices and Medicinal Products" },
+      "slug": "mdcg-2022-5",
+      "status": "active",
+      "source_url": "https://health.ec.europa.eu/document/download/b5a27717-229f-4d7a-97b1-e1c7d819e579_en?filename=mdcg_2022-5_en.pdf",
+      "source_url_verified": "2026-02-23",
+      "published_date": "2024-01-01",
+      "category": "eu_mdr/mdcg",
+      "mdcg_category": "borderline_classification"
+    },
+    {
+      "id": "mdcg-2022-21",
+      "title": { "zh": "MDCG 2022-21：定期安全更新报告（PSUR）指南", "en": "MDCG 2022-21: Guidance on Periodic Safety Update Report (PSUR)" },
+      "slug": "mdcg-2022-21",
+      "status": "active",
+      "source_url": "https://health.ec.europa.eu/document/download/a7df24c3-d4a3-4218-a8e0-726febfa01c2_en?filename=mdcg_2022-21_en.pdf",
+      "source_url_verified": "2026-02-23",
+      "published_date": "2022-11-01",
+      "category": "eu_mdr/mdcg",
+      "mdcg_category": "pms_vigilance"
+    },
+    {
+      "id": "mdcg-2023-1",
+      "title": { "zh": "MDCG 2023-1：机构自制器械豁免指南（第5(5)条）", "en": "MDCG 2023-1: Guidance on Health Institution Exemption under Article 5(5)" },
+      "slug": "mdcg-2023-1",
+      "status": "active",
+      "source_url": "https://health.ec.europa.eu/document/download/05b15d55-1bcf-4e17-99c4-15c706325847_en?filename=mdcg_2023-1_en.pdf",
+      "source_url_verified": "2026-02-23",
+      "published_date": "2023-01-01",
+      "category": "eu_mdr/mdcg",
+      "mdcg_category": "manufacturer_obligations"
+    },
+    {
+      "id": "mdcg-2023-4",
+      "title": { "zh": "MDCG 2023-4：MDSW与硬件组合指南", "en": "MDCG 2023-4: Medical Device Software Hardware Combinations" },
+      "slug": "mdcg-2023-4",
+      "status": "active",
+      "source_url": "https://health.ec.europa.eu/document/download/b2c4e715-f2b4-4d24-af60-056b5d41a72e_en?filename=md_mdcg_2023-4_software_en.pdf",
+      "source_url_verified": "2026-02-23",
+      "published_date": "2023-05-01",
+      "category": "eu_mdr/mdcg",
+      "mdcg_category": "software_new_tech"
+    },
+    {
+      "id": "mdcg-2023-5",
+      "title": { "zh": "MDCG 2023-5：附件XVI产品资质认定与分类指南", "en": "MDCG 2023-5: Guidance on Qualification and Classification of Annex XVI Products" },
+      "slug": "mdcg-2023-5",
+      "status": "active",
+      "source_url": "https://health.ec.europa.eu/document/download/ea4acf26-979a-4dbb-92ff-8d1d804da51a_en?filename=mdcg_2023-5_en.pdf",
+      "source_url_verified": "2026-02-23",
+      "published_date": "2023-06-01",
+      "category": "eu_mdr/mdcg",
+      "mdcg_category": "classification"
+    },
+    {
+      "id": "mdcg-2023-6",
+      "title": { "zh": "MDCG 2023-6：附件XVI产品等同性证明指南", "en": "MDCG 2023-6: Guidance on Demonstration of Equivalence for Annex XVI Products" },
+      "slug": "mdcg-2023-6",
+      "status": "active",
+      "source_url": "https://health.ec.europa.eu/document/download/15a33521-87f1-4939-92a1-ef23f2b09c6c_en?filename=mdcg_2023-6_en.pdf",
+      "source_url_verified": "2026-02-23",
+      "published_date": "2023-06-01",
+      "category": "eu_mdr/mdcg",
+      "mdcg_category": "classification"
+    },
+    {
+      "id": "mdcg-2023-7",
+      "title": { "zh": "MDCG 2023-7：临床调查豁免及等同性数据访问指南", "en": "MDCG 2023-7: Guidance on Exemptions from Clinical Investigations and Sufficient Access to Data for Equivalence" },
+      "slug": "mdcg-2023-7",
+      "status": "active",
+      "source_url": "https://health.ec.europa.eu/document/download/1b5f9cc0-cea0-4459-921f-eaf4b4f80983_en?filename=mdcg_2023-7_en.pdf",
+      "source_url_verified": "2026-02-23",
+      "published_date": "2023-06-01",
+      "category": "eu_mdr/mdcg",
+      "mdcg_category": "clinical_evaluation"
+    },
+    {
+      "id": "mdcg-2024-3",
+      "title": { "zh": "MDCG 2024-3：临床调查计划（CIP）内容指南", "en": "MDCG 2024-3: Guidance on Content of the Clinical Investigation Plan" },
+      "slug": "mdcg-2024-3",
+      "status": "active",
+      "source_url": "https://health.ec.europa.eu/document/download/690de85a-ac17-45ea-bb32-7839540c25c4_en?filename=mdcg_2024-3_en_0.pdf",
+      "source_url_verified": "2026-02-23",
+      "published_date": "2024-03-01",
+      "category": "eu_mdr/mdcg",
+      "mdcg_category": "clinical_evaluation"
+    },
+    {
+      "id": "mdcg-2024-5",
+      "title": { "zh": "MDCG 2024-5：研究者手册（IB）内容指南", "en": "MDCG 2024-5: Guidance on the Investigator's Brochure Content" },
+      "slug": "mdcg-2024-5",
+      "status": "active",
+      "source_url": "https://health.ec.europa.eu/document/download/ee7ee8eb-841a-4085-a8dc-af6d55ebf1bd_en?filename=mdcg_2024-5_en.pdf",
+      "source_url_verified": "2026-02-23",
+      "published_date": "2024-04-01",
+      "category": "eu_mdr/mdcg",
+      "mdcg_category": "clinical_evaluation"
+    },
+    {
+      "id": "mdcg-2024-10",
+      "title": { "zh": "MDCG 2024-10：孤儿医疗器械临床评价", "en": "MDCG 2024-10: Clinical Evaluation of Orphan Medical Devices" },
+      "slug": "mdcg-2024-10",
+      "status": "active",
+      "source_url": "https://health.ec.europa.eu/document/download/daa1fc59-9d2c-4e82-878e-d6fdf12ecd1a_en?filename=mdcg_2024-10_en.pdf",
+      "source_url_verified": "2026-02-23",
+      "published_date": "2024-07-01",
+      "category": "eu_mdr/mdcg",
+      "mdcg_category": "clinical_evaluation"
+    },
+    {
+      "id": "mdcg-2025-4",
+      "title": { "zh": "MDCG 2025-4：在线平台上安全提供MDSW应用指南", "en": "MDCG 2025-4: Guidance on Safe Making Available of MDSW Apps on Online Platforms" },
+      "slug": "mdcg-2025-4",
+      "status": "active",
+      "source_url": "https://health.ec.europa.eu/document/download/ec9b0f40-7f82-43a7-b833-ebd45b772eae_en?filename=mdcg_2025-4_en.pdf",
+      "source_url_verified": "2026-02-23",
+      "published_date": "2025-06-01",
+      "category": "eu_mdr/mdcg",
+      "mdcg_category": "software_new_tech"
+    },
+    {
+      "id": "mdcg-2025-6",
+      "title": { "zh": "MDCG 2025-6：MDR/IVDR与AI法案互动FAQ", "en": "MDCG 2025-6: FAQ on Interplay between MDR/IVDR and the AI Act" },
+      "slug": "mdcg-2025-6",
+      "status": "active",
+      "source_url": "https://health.ec.europa.eu/document/download/b78a17d7-e3cd-4943-851d-e02a2f22bbb4_en?filename=mdcg_2025-6_en.pdf",
+      "source_url_verified": "2026-02-23",
+      "published_date": "2025-09-01",
+      "category": "eu_mdr/mdcg",
+      "mdcg_category": "software_new_tech"
+    },
+    {
+      "id": "mdcg-2025-9",
+      "title": { "zh": "MDCG 2025-9：突破性医疗器械（BtX）指南", "en": "MDCG 2025-9: Guidance on Breakthrough Devices (BtX)" },
+      "slug": "mdcg-2025-9",
+      "status": "active",
+      "source_url": "https://health.ec.europa.eu/document/download/edca94c7-62ab-4dd5-8539-2b347bd14809_en?filename=mdcg_2025-9.pdf",
+      "source_url_verified": "2026-02-23",
+      "published_date": "2025-12-01",
+      "category": "eu_mdr/mdcg",
+      "mdcg_category": "software_new_tech"
+    }
+  ],
+  "migration_note": "Original 21 clinical evaluation methodology articles migrated to insights/clinical-evaluation. This index now tracks official MDCG guidance documents.",
+  "legacy_entries_archived": [
     {
       "id": "clinical-eval-临床评价范围",
       "title": {
@@ -277,8 +610,5 @@
       "effective_date": "2025-05-28",
       "category": "insights/clinical-evaluation"
     }
-  ],
-  "migrated_to": "insights/clinical-evaluation",
-  "migration_date": "2026-02-23",
-  "source_note": "Source URLs updated from reguverse.com to docs.team-ra.org"
+  ]
 }

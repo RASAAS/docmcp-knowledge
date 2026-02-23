@@ -10,45 +10,49 @@ title: MDCG 指南文件
 [欧盟委员会 — MDCG 文件](https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en)
 :::
 
+::: info 站内详细解读
+以下指南已有中文详细解读页面，点击文件编号可查看：[MDCG 2020-5](./mdcg/mdcg-2020-5) · [MDCG 2020-6](./mdcg/mdcg-2020-6) · [MDCG 2020-7](./mdcg/mdcg-2020-7) · [MDCG 2020-8](./mdcg/mdcg-2020-8) · [MDCG 2020-13](./mdcg/mdcg-2020-13) · [MDCG 2020-1](./mdcg/mdcg-2020-1) · [MDCG 2019-9](./mdcg/mdcg-2019-9) · [MDCG 2019-16](./mdcg/mdcg-2019-16) · [MDCG 2021-24](./mdcg/mdcg-2021-24) · [MDCG 2021-6](./mdcg/mdcg-2021-6) · [MDCG 2021-8](./mdcg/mdcg-2021-8) · [MDCG 2022-21](./mdcg/mdcg-2022-21) · [MDCG 2022-5](./mdcg/mdcg-2022-5) · [MDCG 2023-7](./mdcg/mdcg-2023-7) · [MDCG 2024-3](./mdcg/mdcg-2024-3) · [MDCG 2024-5](./mdcg/mdcg-2024-5) · [MDCG 2024-10](./mdcg/mdcg-2024-10) · [MDCG 2025-6](./mdcg/mdcg-2025-6) · [MDCG 2025-9](./mdcg/mdcg-2025-9)
+:::
+
 ## 附件 XVI 产品
 | 文件 | 标题 | 年份 |
 |------|------|------|
-| [MDCG 2023-6](https://health.ec.europa.eu/document/download/15a33521-87f1-4939-92a1-ef23f2b09c6c_en?filename=mdcg_2023-6_en.pdf) | Guidance on demonstration of equivalence for Annex XVI products - A guide for manufacturers and notified bodies | 2023 |
-| [MDCG 2023-5](https://health.ec.europa.eu/document/download/ea4acf26-979a-4dbb-92ff-8d1d804da51a_en?filename=mdcg_2023-5_en.pdf) | Guidance on qualification and classification of Annex XVI products - A guide for manufacturers and notified bodies | 2023 |
+| [MDCG 2023-6](./mdcg/mdcg-2023-6) | Guidance on demonstration of equivalence for Annex XVI products - A guide for manufacturers and notified bodies | 2023 |
+| [MDCG 2023-5](./mdcg/mdcg-2023-5) | Guidance on qualification and classification of Annex XVI products - A guide for manufacturers and notified bodies | 2023 |
 
 ## 边界与分类
 | 文件 | 标题 | 年份 |
 |------|------|------|
 | [MDCG 2024-13](https://health.ec.europa.eu/document/download/3fa74c6b-953a-41f5-b024-8889ac8b5ddf_en?filename=mdcg_2024-13_en.pdf) | Regulatory status of ethylene oxide (EtO) intended for the sterilisation of medical devices | 2024 |
-| [MDCG 2022-5 rev.1](https://health.ec.europa.eu/document/download/b5a27717-229f-4d7a-97b1-e1c7d819e579_en?filename=mdcg_2022-5_en.pdf) | Guidance on borderline between medical devices and medicinal products under Regulation (EU) 2017/745 on medical devices | 2024 |
-| [MDCG 2021-24](https://health.ec.europa.eu/document/download/cbb19821-a517-4e13-bf87-fdc6ddd1782e_en?filename=mdcg_2021-24_en.pdf) | Guidance on classification of medical devices | 2021 |
+| [MDCG 2022-5 rev.1](./mdcg/mdcg-2022-5) | Guidance on borderline between medical devices and medicinal products under Regulation (EU) 2017/745 on medical devices | 2024 |
+| [MDCG 2021-24](./mdcg/mdcg-2021-24) | Guidance on classification of medical devices | 2021 |
 
 ## I 类器械
 | 文件 | 标题 | 年份 |
 |------|------|------|
-| [MDCG 2019-15 rev.1](https://health.ec.europa.eu/document/download/349a2d4c-ea2a-4279-861c-7c063bc077e4_en?filename=md_guidance-manufacturers_en.pdf) | Guidance notes for manufacturers of class I medical devices | 2019 |
+| [MDCG 2019-15 rev.1](./mdcg/mdcg-2019-15) | Guidance notes for manufacturers of class I medical devices | 2019 |
 
 ## 临床调查与评价、性能研究与评价
 | 文件 | 标题 | 年份 |
 |------|------|------|
 | [MDCG 2025-5](https://health.ec.europa.eu/document/download/f22f559b-dee5-43b4-9595-3ccdcca9f7ad_en?filename=mdcg_2025-5_en.pdf) | Questions & Answers regarding performance studies of in vitro diagnostic medical devices under regulation (EU) 2017/746 | 2025 |
 | [MDCG 2024-15](https://health.ec.europa.eu/document/download/0e076d19-62dc-4ff9-83f2-be6072a45993_en?filename=mdcg_2024-15_en.pdf) | Guidance on the publication of the clinical investigation reports and their summaries in the absence of EUDAMED | 2024 |
-| [MDCG 2024-10](https://health.ec.europa.eu/document/download/daa1fc59-9d2c-4e82-878e-d6fdf12ecd1a_en?filename=mdcg_2024-10_en.pdf) | Clinical evaluation of orphan medical devices | 2024 |
-| [MDCG 2024-5](https://health.ec.europa.eu/document/download/ee7ee8eb-841a-4085-a8dc-af6d55ebf1bd_en?filename=mdcg_2024-5_en.pdf) | Guidance on the Investigator’s Brochure content Appendix A of the MDCG 2024-5 | 2024 |
-| [MDCG 2024-3](https://health.ec.europa.eu/document/download/690de85a-ac17-45ea-bb32-7839540c25c4_en?filename=mdcg_2024-3_en_0.pdf) | Guidance on content of the Clinical Investigation Plan for clinical investigations of medical devices Clinical Investigation Plan Synopsis Template | 2024 |
-| [MDCG 2023-7](https://health.ec.europa.eu/document/download/1b5f9cc0-cea0-4459-921f-eaf4b4f80983_en?filename=mdcg_2023-7_en.pdf) | Guidance on exemptions from the requirement to perform clinical investigations pursuant to Article 61(4)-(6) MDR and on sufficient levels of access’ to data needed to justify claims of equivalence | 2023 |
+| [MDCG 2024-10](./mdcg/mdcg-2024-10) | Clinical evaluation of orphan medical devices | 2024 |
+| [MDCG 2024-5](./mdcg/mdcg-2024-5) | Guidance on the Investigator's Brochure content Appendix A of the MDCG 2024-5 | 2024 |
+| [MDCG 2024-3](./mdcg/mdcg-2024-3) | Guidance on content of the Clinical Investigation Plan for clinical investigations of medical devices Clinical Investigation Plan Synopsis Template | 2024 |
+| [MDCG 2023-7](./mdcg/mdcg-2023-7) | Guidance on exemptions from the requirement to perform clinical investigations pursuant to Article 61(4)-(6) MDR and on sufficient levels of access' to data needed to justify claims of equivalence | 2023 |
 | [MDCG 2021-28](https://health.ec.europa.eu/document/download/ba8069a1-6881-4360-b52b-6cab048aee43_en?filename=mdcg_2021-28_en.pdf) | Substantial modification of clinical investigation under Medical Device Regulation | 2021 |
 | [MDCG 2021-20](https://health.ec.europa.eu/document/download/54d417c4-df69-416f-a2bd-7a5de8cba611_en?filename=mdcg_2021-20_en.pdf) | Instructions for generating CIV-ID for MDR Clinical Investigations | 2021 |
-| [MDCG 2021-8](https://health.ec.europa.eu/document/download/13265ec7-1776-41af-afb6-e0a64bc407b5_en?filename=mdcg_2021-8_en.pdf) | Clinical investigation application/notification documents | 2021 |
-| [MDCG 2021-6 - rev.1](https://health.ec.europa.eu/document/download/f124f630-389e-4c45-90dc-24ec0a707838_en?filename=mdcg_2021-6_en.pdf) | Regulation (EU) 2017/745 – Questions & Answers regarding clinical investigation | 2023 |
-| [MDCG 2020-13](https://health.ec.europa.eu/document/download/02f50abc-91db-4ad9-b137-6ffedb690716_en?filename=md_2020-13-cea-report-template_en.pdf) | Clinical evaluation assessment report template | 2020 |
+| [MDCG 2021-8](./mdcg/mdcg-2021-8) | Clinical investigation application/notification documents | 2021 |
+| [MDCG 2021-6 - rev.1](./mdcg/mdcg-2021-6) | Regulation (EU) 2017/745 – Questions & Answers regarding clinical investigation | 2023 |
+| [MDCG 2020-13](./mdcg/mdcg-2020-13) | Clinical evaluation assessment report template | 2020 |
 | [MDCG 2020-10/1 rev.1](https://health.ec.europa.eu/document/download/0537d335-7eed-4087-b65d-3c2bd8c72c1a_en?filename=md_mdcg_2020-10-1_guidance_safety_reporting_en.pdf) | Guidance on safety reporting in clinical investigations Appendix: Clinical investigation summary safety report form | 2022 |
 | [MDCG 2020-10/2 rev.1](https://health.ec.europa.eu/document/download/bf136f27-27da-4a31-97c2-a5de741c3493_en?filename=md_mdcg_2020-10-2_guidance_safety_report_form_en.xlsx) | Guidance on safety reporting in clinical investigations Appendix: Clinical investigation summary safety report form | 2022 |
-| [MDCG 2020-8](https://health.ec.europa.eu/document/download/11121036-696a-4589-a311-c5525bd84df3_en?filename=md_mdcg_2020_8_guidance_pmcf_evaluation_report_en.pdf) | Guidance on PMCF evaluation report template | 2020 |
-| [MDCG 2020-7](https://health.ec.europa.eu/document/download/a5cdb303-c782-4010-8723-7d389af678f7_en?filename=md_mdcg_2020_7_guidance_pmcf_plan_template_en.pdf) | Guidance on PMCF plan template | 2020 |
-| [MDCG 2020-6](https://health.ec.europa.eu/document/download/a6d29444-b5d5-4afb-8024-10be85256aa7_en?filename=md_mdcg_2020_6_guidance_sufficient_clinical_evidence_en.pdf) | Guidance on sufficient clinical evidence for legacy devices Background note on the relationship between MDCG 2020-6 and MEDDEV 2.7/1 rev.4 on clinical evaluation | 2020 |
-| [MDCG 2020-5](https://health.ec.europa.eu/document/download/575a0f79-e3a0-4a96-9ce0-930576c12aa2_en?filename=md_mdcg_2020_5_guidance_clinical_evaluation_equivalence_en.pdf) | Guidance on clinical evaluation – Equivalence | 2020 |
-| [MDCG 2019-9 - rev.1](https://health.ec.europa.eu/document/download/5f082b2f-8d51-495c-9ab9-985a9f39ece4_en?filename=md_mdcg_2019_9_sscp_en.pdf) | Summary of safety and clinical performance | 2022 |
+| [MDCG 2020-8](./mdcg/mdcg-2020-8) | Guidance on PMCF evaluation report template | 2020 |
+| [MDCG 2020-7](./mdcg/mdcg-2020-7) | Guidance on PMCF plan template | 2020 |
+| [MDCG 2020-6](./mdcg/mdcg-2020-6) | Guidance on sufficient clinical evidence for legacy devices Background note on the relationship between MDCG 2020-6 and MEDDEV 2.7/1 rev.4 on clinical evaluation | 2020 |
+| [MDCG 2020-5](./mdcg/mdcg-2020-5) | Guidance on clinical evaluation – Equivalence | 2020 |
+| [MDCG 2019-9 - rev.1](./mdcg/mdcg-2019-9) | Summary of safety and clinical performance | 2022 |
 
 ## COVID-19
 | 文件 | 标题 | 年份 |
@@ -94,12 +98,12 @@ title: MDCG 指南文件
 ## 机构自制器械
 | 文件 | 标题 | 年份 |
 |------|------|------|
-| [MDCG 2023-1](https://health.ec.europa.eu/document/download/05b15d55-1bcf-4e17-99c4-15c706325847_en?filename=mdcg_2023-1_en.pdf) | Guidance on the health institution exemption under Article 5(5) of Regulation (EU) 2017/745 and Regulation (EU) 2017/746 | 2023 |
+| [MDCG 2023-1](./mdcg/mdcg-2023-1) | Guidance on the health institution exemption under Article 5(5) of Regulation (EU) 2017/745 and Regulation (EU) 2017/746 | 2023 |
 
 ## 授权代表、进口商、经销商
 | 文件 | 标题 | 年份 |
 |------|------|------|
-| [MDCG 2021-27 - rev.1](https://health.ec.europa.eu/document/download/82d9adbc-dbf0-40d4-93ed-ade673c8232a_en?filename=mdcg_2021-27_en.pdf) | Questions and Answers on Articles 13 & 14 of Regulation (EU) 2017/745 and Regulation (EU) 2017/746 | 2023 |
+| [MDCG 2021-27 - rev.1](./mdcg/mdcg-2021-27) | Questions and Answers on Articles 13 & 14 of Regulation (EU) 2017/745 and Regulation (EU) 2017/746 | 2023 |
 | [MDCG 2022-16](https://health.ec.europa.eu/document/download/0a7613cb-6b9a-4396-a4c6-d2479e43e167_en?filename=mdcg_202216_en.pdf) | Guidance on Authorised Representatives Regulation (EU) 2017/745 and Regulation (EU) 2017/746 | 2022 |
 | [MDCG 2021-26](https://health.ec.europa.eu/document/download/4c7bd740-d7c3-4f7b-9a4d-249121a67b8a_en?filename=md_mdcg_2021_26_en.pdf) | Q&A on repackaging & relabelling activities under Article 16 of Regulation (EU) 2017/745 and Regulation (EU) 2017/746 | 2021 |
 
@@ -125,12 +129,12 @@ title: MDCG 指南文件
 ## 新技术
 | 文件 | 标题 | 年份 |
 |------|------|------|
-| [MDCG 2025-9](https://health.ec.europa.eu/document/download/edca94c7-62ab-4dd5-8539-2b347bd14809_en?filename=mdcg_2025-9.pdf) | Guidance on Breakthrough Devices (BtX) under Regulations 2017/745 & 2017/746 Note: Pilot to roll-out the guidance is expected to be launched in Q2 2026 | 2025 |
-| [MDCG 2025-6](https://health.ec.europa.eu/document/download/b78a17d7-e3cd-4943-851d-e02a2f22bbb4_en?filename=mdcg_2025-6_en.pdf) | FAQ on Interplay between the Medical Devices Regulation (MDR) & In vitro Diagnostic Medical Devices Regulation (IVDR) and the Artificial Intelligence Act (AIA) | 2025 |
-| [MDCG 2025-4](https://health.ec.europa.eu/document/download/ec9b0f40-7f82-43a7-b833-ebd45b772eae_en?filename=mdcg_2025-4_en.pdf) | Guidance on the safe making available of medical device software (MDSW) apps on online platforms | 2025 |
-| [MDCG 2023-4](https://health.ec.europa.eu/document/download/b2c4e715-f2b4-4d24-af60-056b5d41a72e_en?filename=md_mdcg_2023-4_software_en.pdf) | Medical Device Software (MDSW) – Hardware combinations Guidance on MDSW intended to work in combination with hardware or hardware components | 2023 |
-| [MDCG 2020-1](https://health.ec.europa.eu/document/download/19d9e24f-2808-4e00-bfeb-75892047407d_en?filename=md_mdcg_2020_1_guidance_clinic_eva_md_software_en.pdf) | Guidance on clinical evaluation (MDR) / Performance evaluation (IVDR) of medical device software | 2020 |
-| [MDCG 2019-16 rev.1](https://health.ec.europa.eu/document/download/b23b362f-8a56-434c-922a-5b3ca4d0a7a1_en?filename=md_cybersecurity_en.pdf) | Guidance on cybersecurity for medical devices | 2020 |
+| [MDCG 2025-9](./mdcg/mdcg-2025-9) | Guidance on Breakthrough Devices (BtX) under Regulations 2017/745 & 2017/746 Note: Pilot to roll-out the guidance is expected to be launched in Q2 2026 | 2025 |
+| [MDCG 2025-6](./mdcg/mdcg-2025-6) | FAQ on Interplay between the Medical Devices Regulation (MDR) & In vitro Diagnostic Medical Devices Regulation (IVDR) and the Artificial Intelligence Act (AIA) | 2025 |
+| [MDCG 2025-4](./mdcg/mdcg-2025-4) | Guidance on the safe making available of medical device software (MDSW) apps on online platforms | 2025 |
+| [MDCG 2023-4](./mdcg/mdcg-2023-4) | Medical Device Software (MDSW) – Hardware combinations Guidance on MDSW intended to work in combination with hardware or hardware components | 2023 |
+| [MDCG 2020-1](./mdcg/mdcg-2020-1) | Guidance on clinical evaluation (MDR) / Performance evaluation (IVDR) of medical device software | 2020 |
+| [MDCG 2019-16 rev.1](./mdcg/mdcg-2019-16) | Guidance on cybersecurity for medical devices | 2020 |
 
 ## 公告机构
 | 文件 | 标题 | 年份 |
@@ -141,7 +145,7 @@ title: MDCG 指南文件
 | [MDCG 2024-8 rev.1](https://health.ec.europa.eu/document/download/9819fd07-3281-477b-a8c6-22c0c47c47a6_en?filename=mdcg_2024-8_en_0.docx) | Preliminary assessment review (PAR) form template (IVDR) Annex to Application Form & PAR Template IVDR (List of documents) | 2025 |
 | [MDCG 2021-16/MDCG 2024-8 Annex](https://health.ec.europa.eu/document/download/14dd6ea0-3572-4056-984f-911e9a87fae8_en?filename=mdcg_2021-16_and_2024-8_annex_en.docx) | Preliminary assessment review (PAR) form template (IVDR) Annex to Application Form & PAR Template IVDR (List of documents) | 2025 |
 | [MDCG 2024-9](https://health.ec.europa.eu/document/download/f067a42e-4af6-47dd-980f-b251eeeafaf0_en?filename=mdcg_2024-9_en_0.docx) | Preliminary re-assessment review (PRAR) form template (IVDR) | 2024 |
-| [MDCG 2020-3 rev.1](https://health.ec.europa.eu/document/download/800e8e87-d4eb-4cc5-b5ad-07a9146d7c90_en?filename=mdcg_2020-3_en_1.pdf) | Guidance on significant changes regarding the transitional provision under Article 120 of the MDR with regard to devices covered by certificates according to MDD or AIMDD Note to the reader: Due to technical issues, please disregard the document displayed from 7 September 2023 until 8 September 2023. | 2023 |
+| [MDCG 2020-3 rev.1](./mdcg/mdcg-2020-3) | Guidance on significant changes regarding the transitional provision under Article 120 of the MDR with regard to devices covered by certificates according to MDD or AIMDD Note to the reader: Due to technical issues, please disregard the document displayed from 7 September 2023 until 8 September 2023. | 2023 |
 | [MDCG 2023-2](https://health.ec.europa.eu/document/download/309b49d8-07dd-40bf-b3a1-649dbdc378af_en?filename=mdcg_2023-2_en.pdf) | List of Standard Fees | 2023 |
 | [MDCG 2022-4 rev.2](https://health.ec.europa.eu/document/download/e5714b2b-e98b-4fce-b5ff-d9141a8f30e1_en?filename=mdcg_2022-4_en.pdf) | Guidance on appropriate surveillance regarding the transitional provisions under Article 120 of the MDR with regard to devices covered by certificates according to the MDD or the AIMDD | 2024 |
 | [MDCG 2022-17](https://health.ec.europa.eu/document/download/c2b875dd-06dd-47b6-8822-afe43f630655_en?filename=mdcg_2022-17_en_0.pdf) | MDCG position paper on "hybrid audits" | 2022 |
@@ -169,7 +173,7 @@ title: MDCG 指南文件
 ## 法规合规负责人（PRRC）
 | 文件 | 标题 | 年份 |
 |------|------|------|
-| [MDCG 2019-7 - rev.1](https://health.ec.europa.eu/document/download/463b4f08-44a2-4018-9957-488bf386fc3a_en?filename=md_mdcg_2019_7_guidance_art15_mdr_ivdr_en.pdf) | Guidance on article 15 of the medical device regulation (MDR) and in vitro diagnostic device regulation (IVDR) on a ‘ person responsible for regulatory compliance ’ (PRRC) | 2023 |
+| [MDCG 2019-7 - rev.1](./mdcg/mdcg-2019-7) | Guidance on article 15 of the medical device regulation (MDR) and in vitro diagnostic device regulation (IVDR) on a ' person responsible for regulatory compliance ' (PRRC) | 2023 |
 
 ## 上市后监督与警戒（PMSV）
 | 文件 | 标题 | 年份 |
@@ -182,12 +186,12 @@ title: MDCG 指南文件
 | [MDCG 2024-1-4](https://health.ec.europa.eu/document/download/07c958e3-c2c7-4a22-82f1-86ab2debf40e_en?filename=mdcg_2024-1-4_en.pdf) | DSVG 04 on Breast implants | 2024 |
 | [MDCG 2024-1-5](https://health.ec.europa.eu/document/download/c8441ddc-c586-4dbf-afc8-6ec3250df54b_en?filename=mdcg_2024-1-5_en_1.pdf) | DSVG 05 on Urogynaecological Surgical Mesh Implants used for Pelvic Organ Prolapse repair and Stress Urinary Incontinence | 2024 |
 | [MDCG 2023-3 rev.2](https://health.ec.europa.eu/document/download/af1433fd-ed64-4c53-abc7-612a7f16f976_en?filename=mdcg_2023-3_en.pdf) | Questions and Answers on vigilance terms and concepts as outlined in the Regulation (EU) 2017/745 on medical devices and Regulation (EU) 2017/746 | 2025 |
-| [MDCG 2022-21](https://health.ec.europa.eu/document/download/a7df24c3-d4a3-4218-a8e0-726febfa01c2_en?filename=mdcg_2022-21_en.pdf) | Guidance on Periodic Safety Update Report (PSUR) according to Regulation (EU) 2017/745 | 2022 |
+| [MDCG 2022-21](./mdcg/mdcg-2022-21) | Guidance on Periodic Safety Update Report (PSUR) according to Regulation (EU) 2017/745 | 2022 |
 
 ## 标准
 | 文件 | 标题 | 年份 |
 |------|------|------|
-| [MDCG 2021-5 rev.1](https://health.ec.europa.eu/document/download/59ac4cb0-f187-4ca2-814d-82c42cde5408_en?filename=md_mdcg_2021_5_en.pdf) | Guidance on standardisation for medical devices | 2024 |
+| [MDCG 2021-5 rev.1](./mdcg/mdcg-2021-5) | Guidance on standardisation for medical devices | 2024 |
 
 ## 唯一器械标识（UDI）
 | 文件 | 标题 | 年份 |
@@ -214,5 +218,5 @@ title: MDCG 指南文件
 | [MDCG 2022-18 ADD.1](https://health.ec.europa.eu/document/download/8c49c181-1f8a-4962-b946-7b02c54b199e_en?filename=mdcg_2022-18_add-1_en.pdf) | MDCG Position Paper on the application of Article 97 MDR to legacy devices for which the MDD or AIMDD certificate expires before the issuance of a MDR certificate - Addendum 1 | 2023 |
 | [MDCG 2022-18](https://health.ec.europa.eu/document/download/ccfb20a8-82d4-4216-8d11-4ce127be431e_en?filename=mdcg_2022-18_en_1.pdf) | MDCG Position Paper on the application of Article 97 MDR to legacy devices for which the MDD or AIMDD certificate expires before the issuance of a MDR certificate | 2022 |
 | [MDCG 2022-14](https://health.ec.europa.eu/document/download/2db053bc-283c-4d2e-93f4-c3e8032e66da_en?filename=mdcg_2022-14_en.pdf) | Transition to the MDR and IVDR - Notified body capacity and availability of medical devices and IVDs | 2022 |
-| [MDCG 2021-25 rev.1](https://health.ec.europa.eu/document/download/cbb11a6e-f0f3-4e30-af5e-990f9ef68bc1_en?filename=md_mdcg_2021_25_en.pdf) | Application of MDR requirements to " legacy devices " and to devices placed on the market prior to 26 May 2021 in accordance with Directives 90/385/EEC or 93/42/EEC | 2024 |
+| [MDCG 2021-25 rev.1](./mdcg/mdcg-2021-25) | Application of MDR requirements to " legacy devices " and to devices placed on the market prior to 26 May 2021 in accordance with Directives 90/385/EEC or 93/42/EEC | 2024 |
 | [MDCG 2019-3 rev.1](https://health.ec.europa.eu/document/download/c66ca211-7390-4d60-90fc-0fc30652f3db_en?filename=md_mdcg_2019_3_rev1_cecp_en.pdf) | Clinical evaluation consultation procedure exemptions Interpretation of article 54(2)b | 2020 |
