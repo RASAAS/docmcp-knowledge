@@ -864,7 +864,7 @@ export default {
       ]
     },
     {
-      "text": "EU MDR 合规动态 (9)",
+      "text": "EU MDR 合规动态 (15)",
       "collapsed": true,
       "items": [
         {
@@ -874,6 +874,18 @@ export default {
         {
           "text": "临床试验报告管理新规解读：EUDAMED缺位下的合规路径",
           "link": "/zh/insights/eu-mdr-updates/cir-requirements"
+        },
+        {
+          "text": "EU MDR 分类",
+          "link": "/zh/insights/eu-mdr-updates/classification"
+        },
+        {
+          "text": "EU IVDR 分类",
+          "link": "/zh/insights/eu-mdr-updates/eu-ivdr-classification"
+        },
+        {
+          "text": "EU MDR Classification Explanations",
+          "link": "/zh/insights/eu-mdr-updates/eu-mdr-classification-explanations"
         },
         {
           "text": "欧盟医疗器械监管新框架解析：网络安全与责任制度的多维革新",
@@ -888,12 +900,24 @@ export default {
           "link": "/zh/insights/eu-mdr-updates/eudamed-udi-user-guide-v3110"
         },
         {
+          "text": "IVDR 分类规则与实例汇总 (基于 MDCG 2020-16 Rev.4)",
+          "link": "/zh/insights/eu-mdr-updates/ivdr-rules-examples"
+        },
+        {
           "text": "MDCG 2019-6 Rev5关于公告机构要求问答解析",
           "link": "/zh/insights/eu-mdr-updates/mdcg-2019-6-rev5"
         },
         {
+          "text": "医疗器械法规 (MDR) 技术文档编写说明",
+          "link": "/zh/insights/eu-mdr-updates/mdr-td-bpg"
+        },
+        {
           "text": "PMCF 问卷调查的伦理审查和知情同意",
           "link": "/zh/insights/eu-mdr-updates/pmcf-survey-ec-ic"
+        },
+        {
+          "text": "Practical issues and examples",
+          "link": "/zh/insights/eu-mdr-updates/practical-issues-and-examples"
         },
         {
           "text": "公告机构认证流程全解析：欧盟医疗器械合规的关键路径",
@@ -928,7 +952,7 @@ export default {
       ]
     },
     {
-      "text": "法规解读分析 (25)",
+      "text": "法规解读分析 (26)",
       "collapsed": true,
       "items": [
         {
@@ -1000,6 +1024,10 @@ export default {
           "link": "/zh/insights/analysis/nmpa-2025-30-notice"
         },
         {
+          "text": "其他可能适用于医疗器械的法规和指令",
+          "link": "/zh/insights/analysis/other-regulation-directive"
+        },
+        {
           "text": "构建智能化PDF文档翻译平台：从痛点到解决方案",
           "link": "/zh/insights/analysis/pdf-translation-tool"
         },
@@ -1030,6 +1058,96 @@ export default {
         {
           "text": "如何撰写临床评价报告：IMDRF临床评价指南（2019）",
           "link": "/zh/insights/analysis/writing-cer"
+        }
+      ]
+    },
+    {
+      "text": "临床评价方法论 (21)",
+      "collapsed": true,
+      "items": [
+        {
+          "text": "临床评价范围",
+          "link": "/zh/insights/clinical-evaluation/临床评价范围"
+        },
+        {
+          "text": "基准或类似产品",
+          "link": "/zh/insights/clinical-evaluation/benchmark-and-similar-device"
+        },
+        {
+          "text": "临床开发计划(CDP)",
+          "link": "/zh/insights/clinical-evaluation/cdp"
+        },
+        {
+          "text": "临床评价报告(CER)",
+          "link": "/zh/insights/clinical-evaluation/cer"
+        },
+        {
+          "text": "临床评价相关服务",
+          "link": "/zh/insights/clinical-evaluation/clincial-evaluation-services"
+        },
+        {
+          "text": "临床数据的分析",
+          "link": "/zh/insights/clinical-evaluation/clinical-data-analysis"
+        },
+        {
+          "text": "相关数据的评估与分析",
+          "link": "/zh/insights/clinical-evaluation/data-appraisal-and-analysis"
+        },
+        {
+          "text": "制造商产生的数据",
+          "link": "/zh/insights/clinical-evaluation/data-generated-by-the-manufacturer"
+        },
+        {
+          "text": "数据收集报告(DCR)",
+          "link": "/zh/insights/clinical-evaluation/dcr"
+        },
+        {
+          "text": "Endnote导入和导出",
+          "link": "/zh/insights/clinical-evaluation/endnote-import-export"
+        },
+        {
+          "text": "等同器械",
+          "link": "/zh/insights/clinical-evaluation/equivalency"
+        },
+        {
+          "text": "文献来源及选择理由",
+          "link": "/zh/insights/clinical-evaluation/lit-database"
+        },
+        {
+          "text": "文献评估标准",
+          "link": "/zh/insights/clinical-evaluation/lit-review-standard"
+        },
+        {
+          "text": "文献检索计划(LSP)",
+          "link": "/zh/insights/clinical-evaluation/lsp"
+        },
+        {
+          "text": "欧盟 MDCG 2025-9 指南解读：突破性医疗器械（BtX）",
+          "link": "/zh/insights/clinical-evaluation/mdcg-2025-9"
+        },
+        {
+          "text": "目标、输入和待评价产品信息",
+          "link": "/zh/insights/clinical-evaluation/objective-input-due"
+        },
+        {
+          "text": "风险管理",
+          "link": "/zh/insights/clinical-evaluation/risk-management"
+        },
+        {
+          "text": "文献选择标准",
+          "link": "/zh/insights/clinical-evaluation/screening-criteria"
+        },
+        {
+          "text": "文献选择过程",
+          "link": "/zh/insights/clinical-evaluation/screening-process"
+        },
+        {
+          "text": "检索方法",
+          "link": "/zh/insights/clinical-evaluation/search-strategy"
+        },
+        {
+          "text": "临床背景信息(SOTA)",
+          "link": "/zh/insights/clinical-evaluation/sota"
         }
       ]
     }

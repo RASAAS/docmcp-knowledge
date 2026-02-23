@@ -1,0 +1,27 @@
+{
+  "category": "clinical_investigation",
+  "category_name": {
+    "zh": "Lin Chuang Diao Cha",
+    "en": "Clinical Investigation"
+  },
+  "regulation": "eu_mdr",
+  "source": "Implementing Decision (EU) 2021/1182 (consolidated)",
+  "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+  "last_updated": "2026-02-23",
+  "count": 1,
+  "entries": [
+    {
+      "id": "eu_mdr-hs-en-iso-14155-2020",
+      "number": "EN ISO 14155:2020",
+      "title": "Clinical investigation of medical devices for human subjects - Good clinical practice (ISO 14155:2020)",
+      "scope": "eu_mdr",
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_verified": "2026-02-23",
+      "category": "clinical_investigation",
+      "amendments": [
+        "EN ISO 14155:2020/A11:2024"
+      ]
+    }
+  ]
+}

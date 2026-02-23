@@ -1,0 +1,44 @@
+{
+  "category": "surgical_textiles",
+  "category_name": {
+    "zh": "Shou Shu Yi Wu Yu Kou Zhao",
+    "en": "Surgical Textiles & Masks"
+  },
+  "regulation": "eu_mdr",
+  "source": "Implementing Decision (EU) 2021/1182 (consolidated)",
+  "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+  "last_updated": "2026-02-23",
+  "count": 3,
+  "entries": [
+    {
+      "id": "eu_mdr-hs-en-13795-1-2025",
+      "number": "EN 13795-1:2025",
+      "title": "Surgical clothing and drapes - Requirements and test methods - Part 1: Surgical drapes and gowns",
+      "scope": "eu_mdr",
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_verified": "2026-02-23",
+      "category": "surgical_textiles"
+    },
+    {
+      "id": "eu_mdr-hs-en-13795-2-2025",
+      "number": "EN 13795-2:2025",
+      "title": "Surgical clothing and drapes - Requirements and test methods - Part 2: Clean air suits",
+      "scope": "eu_mdr",
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_verified": "2026-02-23",
+      "category": "surgical_textiles"
+    },
+    {
+      "id": "eu_mdr-hs-en-14683-2025",
+      "number": "EN 14683:2025",
+      "title": "Medical face masks - Requirements and test methods",
+      "scope": "eu_mdr",
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_verified": "2026-02-23",
+      "category": "surgical_textiles"
+    }
+  ]
+}

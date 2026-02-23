@@ -1,0 +1,115 @@
+{
+  "directory": "eu_mdr/standards",
+  "description": "EU MDR Harmonised Standards (Implementing Decision 2021/1182)",
+  "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+  "latest_amendment": "2026/193",
+  "latest_amendment_url": "https://eur-lex.europa.eu/eli/dec_impl/2026/193/oj",
+  "last_updated": "2026-02-23",
+  "total_standards": 48,
+  "categories": {
+    "biocompatibility": {
+      "name": {
+        "zh": "生物相容性",
+        "en": "Biocompatibility"
+      },
+      "count": 9,
+      "file": "standards-biocompatibility.json"
+    },
+    "clinical_investigation": {
+      "name": {
+        "zh": "临床调查",
+        "en": "Clinical Investigation"
+      },
+      "count": 1,
+      "file": "standards-clinical_investigation.json"
+    },
+    "connectors": {
+      "name": {
+        "zh": "小口径连接器",
+        "en": "Small-bore Connectors"
+      },
+      "count": 1,
+      "file": "standards-connectors.json"
+    },
+    "electrical_safety": {
+      "name": {
+        "zh": "电气安全与EMC",
+        "en": "Electrical Safety & EMC"
+      },
+      "count": 1,
+      "file": "standards-electrical_safety.json"
+    },
+    "labelling": {
+      "name": {
+        "zh": "标签与符号",
+        "en": "Labelling & Symbols"
+      },
+      "count": 1,
+      "file": "standards-labelling.json"
+    },
+    "medical_gloves": {
+      "name": {
+        "zh": "医用手套",
+        "en": "Medical Gloves"
+      },
+      "count": 2,
+      "file": "standards-medical_gloves.json"
+    },
+    "patient_handling": {
+      "name": {
+        "zh": "患者搬运设备",
+        "en": "Patient Handling Equipment"
+      },
+      "count": 2,
+      "file": "standards-patient_handling.json"
+    },
+    "processing": {
+      "name": {
+        "zh": "器械处理与再处理",
+        "en": "Device Processing & Reprocessing"
+      },
+      "count": 2,
+      "file": "standards-processing.json"
+    },
+    "quality_management": {
+      "name": {
+        "zh": "质量管理体系",
+        "en": "Quality Management"
+      },
+      "count": 1,
+      "file": "standards-quality_management.json"
+    },
+    "risk_management": {
+      "name": {
+        "zh": "风险管理",
+        "en": "Risk Management"
+      },
+      "count": 1,
+      "file": "standards-risk_management.json"
+    },
+    "sterilization": {
+      "name": {
+        "zh": "灭菌与无菌包装",
+        "en": "Sterilization & Packaging"
+      },
+      "count": 21,
+      "file": "standards-sterilization.json"
+    },
+    "surgical_implants": {
+      "name": {
+        "zh": "非有源外科植入物",
+        "en": "Non-active Surgical Implants"
+      },
+      "count": 3,
+      "file": "standards-surgical_implants.json"
+    },
+    "surgical_textiles": {
+      "name": {
+        "zh": "手术衣物与口罩",
+        "en": "Surgical Textiles & Masks"
+      },
+      "count": 3,
+      "file": "standards-surgical_textiles.json"
+    }
+  }
+}

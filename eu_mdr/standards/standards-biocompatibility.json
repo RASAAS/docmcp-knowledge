@@ -1,0 +1,110 @@
+{
+  "category": "biocompatibility",
+  "category_name": {
+    "zh": "Sheng Wu Xiang Rong Xing",
+    "en": "Biocompatibility"
+  },
+  "regulation": "eu_mdr",
+  "source": "Implementing Decision (EU) 2021/1182 (consolidated)",
+  "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+  "last_updated": "2026-02-23",
+  "count": 9,
+  "entries": [
+    {
+      "id": "eu_mdr-hs-en-iso-10993-23-2021",
+      "number": "EN ISO 10993-23:2021",
+      "title": "Biological evaluation of medical devices - Part 23: Tests for irritation (ISO 10993-23:2021)",
+      "scope": "eu_mdr",
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_verified": "2026-02-23",
+      "category": "biocompatibility"
+    },
+    {
+      "id": "eu_mdr-hs-en-iso-10993-9-2021",
+      "number": "EN ISO 10993-9:2021",
+      "title": "Biological evaluation of medical devices - Part 9: Framework for identification and quantification of potential degradation products (ISO 10993-9:2019)",
+      "scope": "eu_mdr",
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_verified": "2026-02-23",
+      "category": "biocompatibility"
+    },
+    {
+      "id": "eu_mdr-hs-en-iso-10993-12-2021",
+      "number": "EN ISO 10993-12:2021",
+      "title": "Biological evaluation of medical devices - Part 12: Sample preparation and reference materials (ISO 10993-12:2021)",
+      "scope": "eu_mdr",
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_verified": "2026-02-23",
+      "category": "biocompatibility"
+    },
+    {
+      "id": "eu_mdr-hs-en-iso-10993-10-2023",
+      "number": "EN ISO 10993-10:2023",
+      "title": "Biological evaluation of medical devices - Part 10: Tests for skin sensitisation (ISO 10993-10:2021)",
+      "scope": "eu_mdr",
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_verified": "2026-02-23",
+      "category": "biocompatibility"
+    },
+    {
+      "id": "eu_mdr-hs-en-455-3-2023",
+      "number": "EN 455-3:2023",
+      "title": "Medical gloves for single use - Part 3: Requirements and testing for biological evaluation",
+      "scope": "eu_mdr",
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_verified": "2026-02-23",
+      "category": "biocompatibility"
+    },
+    {
+      "id": "eu_mdr-hs-en-iso-10993-15-2023",
+      "number": "EN ISO 10993-15:2023",
+      "title": "Biological evaluation of medical devices - Part 15: Identification and quantification of degradation products from metals and alloys (ISO 10993-15:2019)",
+      "scope": "eu_mdr",
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_verified": "2026-02-23",
+      "category": "biocompatibility"
+    },
+    {
+      "id": "eu_mdr-hs-en-iso-10993-17-2023",
+      "number": "EN ISO 10993-17:2023",
+      "title": "Biological evaluation of medical devices - Part 17: Toxicological risk assessment of medical device constituents (ISO 10993-17:2023)",
+      "scope": "eu_mdr",
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_verified": "2026-02-23",
+      "category": "biocompatibility"
+    },
+    {
+      "id": "eu_mdr-hs-en-iso-10993-18-2020",
+      "number": "EN ISO 10993-18:2020",
+      "title": "Biological evaluation of medical devices - Part 18: Chemical characterization of medical device materials within a risk management process (ISO 10993-18:2020)",
+      "scope": "eu_mdr",
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_verified": "2026-02-23",
+      "category": "biocompatibility",
+      "amendments": [
+        "EN ISO 10993-18:2020/A1:2023"
+      ]
+    },
+    {
+      "id": "eu_mdr-hs-en-iso-10993-4-2017",
+      "number": "EN ISO 10993-4:2017",
+      "title": "Biological evaluation of medical devices - Part 4: Selection of tests for interactions with blood (ISO 10993-4:2017)",
+      "scope": "eu_mdr",
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_verified": "2026-02-23",
+      "category": "biocompatibility",
+      "amendments": [
+        "EN ISO 10993-4:2017/A1:2025"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "category": "risk_management",
+  "category_name": {
+    "zh": "Feng Xian Guan Li",
+    "en": "Risk Management"
+  },
+  "regulation": "eu_mdr",
+  "source": "Implementing Decision (EU) 2021/1182 (consolidated)",
+  "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+  "last_updated": "2026-02-23",
+  "count": 1,
+  "entries": [
+    {
+      "id": "eu_mdr-hs-en-iso-14971-2019",
+      "number": "EN ISO 14971:2019",
+      "title": "Medical devices - Application of risk management to medical devices (ISO 14971:2019)",
+      "scope": "eu_mdr",
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_verified": "2026-02-23",
+      "category": "risk_management",
+      "amendments": [
+        "EN ISO 14971:2019/A11:2021"
+      ]
+    }
+  ]
+}

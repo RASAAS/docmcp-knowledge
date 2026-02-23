@@ -1,0 +1,34 @@
+{
+  "category": "medical_gloves",
+  "category_name": {
+    "zh": "Yi Yong Shou Tao",
+    "en": "Medical Gloves"
+  },
+  "regulation": "eu_mdr",
+  "source": "Implementing Decision (EU) 2021/1182 (consolidated)",
+  "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+  "last_updated": "2026-02-23",
+  "count": 2,
+  "entries": [
+    {
+      "id": "eu_mdr-hs-en-455-1-2020+a2-2024",
+      "number": "EN 455-1:2020+A2:2024",
+      "title": "Medical gloves for single use - Part 1: Requirements and testing for freedom of holes",
+      "scope": "eu_mdr",
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_verified": "2026-02-23",
+      "category": "medical_gloves"
+    },
+    {
+      "id": "eu_mdr-hs-en-455-2-2024",
+      "number": "EN 455-2:2024",
+      "title": "Medical gloves for single use - Part 2: Requirements and testing for physical properties",
+      "scope": "eu_mdr",
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_verified": "2026-02-23",
+      "category": "medical_gloves"
+    }
+  ]
+}

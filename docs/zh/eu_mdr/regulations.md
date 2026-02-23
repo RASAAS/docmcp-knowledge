@@ -12,7 +12,7 @@ title: EU MDR 法规文本
 | [EU IVDR 2017/746](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0746) | OJ L 117, 5.5.2017 | 2017 | 现行有效 |
 | [修正案 2020/561](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32020R0561) | OJ L 130, 24.4.2020 | 2020 | MDR 过渡期延长 |
 | [修正案 2023/607](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R0607) | OJ L 80, 20.3.2023 | 2023 | 遗留器械过渡 |
-| [修正案 2024/1860](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1860) | OJ L, 2024/1860 | 2024 | 进一步延长过渡期 |
+| [修正案 2024/1860](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1860) | OJ L, 2024/1860, 9.7.2024 | 2024 | EUDAMED逐步推出、供应中断通知、IVDR过渡期延长 |
 
 ## 实施时间表
 
@@ -25,6 +25,7 @@ title: EU MDR 法规文本
 | 2022年5月26日 | EU IVDR 2017/746 全面适用（D类 IVD）|
 | 2025年5月26日 | C类 IVD 截止 |
 | 2026年5月26日 | B类 + A类无菌 IVD 截止 |
+| 2030年12月31日 | A类非无菌 IVD 遗留器械截止（2024/1860延长） |
 
 ## 关键条款
 
@@ -51,7 +52,7 @@ title: EU MDR 法规文本
 
 **第一部分 — 通用要求（GSPR 1-9）**
 - GSPR 1：器械须实现预期目的，不损害安全
-- GSPR 2：风险管理 — 尽可能降低风险（ALARP）
+- GSPR 2：风险管理 — 尽可能降低风险（AFAP）
 - GSPR 6：收益须超过风险
 
 **第二部分 — 设计和制造要求（GSPR 10-22）**

@@ -69,10 +69,18 @@ SOURCES = {
             "category": "eu_mdr/standards",
         },
         "harmonised_standards_oj": {
-            "name": "EU MDR Harmonised Standards - Latest Implementing Decision (EUR-Lex)",
-            "url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182/oj",
+            "name": "EU MDR Harmonised Standards - Latest Amendment (EUR-Lex 2026/193)",
+            "url": "https://eur-lex.europa.eu/eli/dec_impl/2026/193/oj",
             "check_type": "http_head",
             "category": "eu_mdr/standards",
+            "note": "Amends base decision 2021/1182. Use fetch_eu_mdr_standards.py for full parsing.",
+        },
+        "harmonised_standards_consolidated": {
+            "name": "EU MDR Harmonised Standards - Consolidated Decision 2021/1182 (EUR-Lex)",
+            "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02021D1182-20251020",
+            "check_type": "http_head",
+            "category": "eu_mdr/standards",
+            "note": "Consolidated version includes all amendments. Date suffix updates with new consolidations.",
         },
         "mdcg_guidance": {
             "name": "MDCG Guidance Documents",

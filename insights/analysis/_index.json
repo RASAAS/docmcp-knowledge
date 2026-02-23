@@ -1,7 +1,7 @@
 {
   "category": "insights/analysis",
   "last_updated": "2026-02-23",
-  "count": 25,
+  "count": 26,
   "entries": [
     {
       "id": "insights-mdsw-gbt25000-51",
@@ -352,6 +352,22 @@
         "zh": "在医疗领域，医疗器械是治疗和诊断疾病的关键工具。在整个器械的生命周期中，需要采取各种措施来确保器械的安全性和有效性。本文将详细介绍器械的研发、生产、使用和维护过程中需要注意的现有技术水平。 现有技术水平，也称为最先进技术水平，是指当前在某一领域中可用的最新技术或最先进的技术。在医疗领域中，现有技术水平可以指医疗器械、诊断方法、治疗方法等。这些技术具有最高的精度和效率，能够提高医疗质量并减少误诊和并",
         "en": ""
       }
+    },
+    {
+      "id": "insights-other-regulation-directive",
+      "title": {
+        "zh": "其他可能适用于医疗器械的法规和指令",
+        "en": ""
+      },
+      "published_date": "2025-01-01",
+      "subcategory": "analysis",
+      "source_url": "https://reguverse.com/documentation/eu-mdr-indexing/other-regulation-directive/",
+      "excerpt": {
+        "zh": "",
+        "en": ""
+      },
+      "migrated_from": "eu_mdr/other-regulation-directive",
+      "migration_date": "2026-02-23"
     }
   ]
 }

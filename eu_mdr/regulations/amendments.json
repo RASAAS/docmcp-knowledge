@@ -1,0 +1,263 @@
+{
+  "id": "eu-mdr-amendments",
+  "title": {
+    "zh": "EU MDR/IVDR 修正案汇总",
+    "en": "EU MDR/IVDR Amendments Summary"
+  },
+  "regulation": "eu_mdr",
+  "category": "regulations",
+  "status": "active",
+  "last_verified": "2026-02-23",
+  "contributor": "RASAAS",
+  "amendments": [
+    {
+      "id": "amendment-2020-561",
+      "document_number": "2020/561",
+      "title": {
+        "zh": "修正案 (EU) 2020/561 — MDR 过渡期延长（COVID-19）",
+        "en": "Amendment (EU) 2020/561 — MDR Transition Extension (COVID-19)"
+      },
+      "oj_reference": "OJ L 130, 24.4.2020, p. 18-22",
+      "published_date": "2020-04-24",
+      "status": "active",
+      "amends": "EU MDR 2017/745",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32020R0561",
+      "source_url_verified": "2026-02-23",
+      "source_url_status": "ok",
+      "summary_zh": "因COVID-19疫情，将EU MDR的适用日期从2020年5月26日延迟至2021年5月26日。",
+      "summary_en": "Due to COVID-19 pandemic, postponed EU MDR application date from 26 May 2020 to 26 May 2021."
+    },
+    {
+      "id": "amendment-2023-607",
+      "document_number": "2023/607",
+      "title": {
+        "zh": "修正案 (EU) 2023/607 — 遗留器械过渡期延长",
+        "en": "Amendment (EU) 2023/607 — Legacy Device Transition Extension"
+      },
+      "oj_reference": "OJ L 80, 20.3.2023, p. 24-28",
+      "published_date": "2023-03-20",
+      "status": "active",
+      "amends": "EU MDR 2017/745",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R0607",
+      "source_url_verified": "2026-02-23",
+      "source_url_status": "ok",
+      "summary_zh": "为遗留器械（在MDD/AIMDD下获得CE证书的器械）提供分阶段过渡期延长：Class III和Class IIb植入类至2024年5月26日；Class IIb非植入类和Class IIa至2027年12月31日；Class I至2028年12月31日。",
+      "summary_en": "Provides phased transition extension for legacy devices (CE-certified under MDD/AIMDD): Class III and Class IIb implantable until 26 May 2024; Class IIb non-implantable and Class IIa until 31 December 2027; Class I until 31 December 2028.",
+      "key_conditions": [
+        "器械须在2021年5月26日前已获得MDD/AIMDD证书",
+        "制造商须在2024年5月26日前向公告机构提交MDR合规评估申请",
+        "器械不得有重大变更",
+        "制造商须已建立MDR合规的QMS"
+      ]
+    },
+    {
+      "id": "amendment-2024-1860",
+      "document_number": "2024/1860",
+      "title": {
+        "zh": "修正案 (EU) 2024/1860 — EUDAMED逐步推出、供应中断通知义务及IVDR过渡期延长",
+        "en": "Regulation (EU) 2024/1860 — Gradual roll-out of Eudamed, supply interruption notification, and IVDR transitional provisions"
+      },
+      "oj_reference": "OJ L, 2024/1860, 9.7.2024",
+      "published_date": "2024-07-09",
+      "status": "active",
+      "amends": "EU MDR 2017/745 and EU IVDR 2017/746",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1860",
+      "source_url_verified": "2026-02-23",
+      "source_url_status": "ok",
+      "summary_zh": "同时修订MDR和IVDR，涵盖三项内容：(1) EUDAMED逐步推出——允许已完成的各电子系统模块在验证后分批强制使用，无需等待全系统完成；(2) 新增Art.10a——制造商在供应中断或停止时须通知主管机构；(3) IVDR特定器械过渡期延长——将部分IVDR遗留器械截止日期从2028年5月26日延至2030年12月31日。适用日期：Art.1(1)和Art.2(1)自2025年1月10日起适用。",
+      "summary_en": "Amends both MDR and IVDR with three main changes: (1) Gradual Eudamed roll-out — allows completed electronic system modules to be mandatorily used after verification without waiting for full system completion; (2) New Art.10a — manufacturers must notify competent authorities of interruption or discontinuation of supply; (3) IVDR transitional provisions — extends deadline for certain IVDR legacy devices from 26 May 2028 to 31 December 2030. Application: Art.1(1) and Art.2(1) apply from 10 January 2025."
+    },
+    {
+      "id": "ivdr-amendment-2022-112",
+      "document_number": "2022/112",
+      "title": {
+        "zh": "修正案 (EU) 2022/112 — IVDR 过渡期延长",
+        "en": "Amendment (EU) 2022/112 — IVDR Transition Extension"
+      },
+      "oj_reference": "OJ L 19, 28.1.2022, p. 1-5",
+      "published_date": "2022-01-28",
+      "status": "active",
+      "amends": "EU IVDR 2017/746",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R0112",
+      "source_url_verified": "2026-02-23",
+      "source_url_status": "ok",
+      "summary_zh": "为IVDR遗留器械提供分阶段过渡期：D类2022年5月26日适用；C类至2025年5月26日；B类和A类无菌至2026年5月26日。",
+      "summary_en": "Provides phased transition for IVDR legacy devices: Class D applicable 26 May 2022; Class C until 26 May 2025; Class B and Class A sterile until 26 May 2026."
+    }
+  ],
+  "harmonised_standards_amendments": [
+    {
+      "id": "cid-2022-6",
+      "document_number": "2022/6",
+      "type": "harmonised_standards",
+      "title": {
+        "zh": "实施决定 (EU) 2022/6 — 协调标准修正案（生物相容性、灭菌、QMS等）",
+        "en": "Implementing Decision (EU) 2022/6 — Harmonised Standards Amendment (biocompatibility, sterilization, QMS, etc.)"
+      },
+      "oj_reference": "OJ L 1, 5.1.2022, pp. 11-13",
+      "published_date": "2022-01-05",
+      "status": "active",
+      "amends": "CID (EU) 2021/1182",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022D0006",
+      "standards_added": [
+        "EN ISO 10993-9:2021",
+        "EN ISO 10993-12:2021",
+        "EN ISO 11737-1:2018/A1:2021",
+        "EN ISO 13408-6:2021",
+        "EN ISO 13485:2016/A11:2021",
+        "EN ISO 14160:2021",
+        "EN ISO 15223-1:2021",
+        "EN ISO 17664-1:2021",
+        "EN IEC 60601-2-83:2020/A11:2021"
+      ]
+    },
+    {
+      "id": "cid-2022-757",
+      "document_number": "2022/757",
+      "type": "harmonised_standards",
+      "title": {
+        "zh": "实施决定 (EU) 2022/757 — 协调标准修正案（QMS、灭菌、风险管理）",
+        "en": "Implementing Decision (EU) 2022/757 — Harmonised Standards Amendment (QMS, sterilization, risk management)"
+      },
+      "oj_reference": "OJ L 138, 17.5.2022, pp. 27-29",
+      "published_date": "2022-05-17",
+      "status": "active",
+      "amends": "CID (EU) 2021/1182",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2022/757/oj",
+      "standards_added": [
+        "EN 285:2015+A1:2021",
+        "EN ISO 13485:2016/AC:2018",
+        "EN ISO 14971:2019/A11:2021"
+      ]
+    },
+    {
+      "id": "cid-2023-1410",
+      "document_number": "2023/1410",
+      "type": "harmonised_standards",
+      "title": {
+        "zh": "实施决定 (EU) 2023/1410 — 协调标准修正案（灭菌、生物相容性）",
+        "en": "Implementing Decision (EU) 2023/1410 — Harmonised Standards Amendment (sterilization, biocompatibility)"
+      },
+      "oj_reference": "OJ L 170, 5.7.2023, pp. 102-104",
+      "published_date": "2023-07-05",
+      "status": "active",
+      "amends": "CID (EU) 2021/1182",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2023/1410/oj",
+      "standards_added": [
+        "EN ISO 10993-10:2023",
+        "EN ISO 25424:2019/A1:2022"
+      ]
+    },
+    {
+      "id": "cid-2024-815",
+      "document_number": "2024/815",
+      "type": "harmonised_standards",
+      "title": {
+        "zh": "实施决定 (EU) 2024/815 — 协调标准修正案（医用手套、生物相容性、灭菌、包装、处理）",
+        "en": "Implementing Decision (EU) 2024/815 — Harmonised Standards Amendment (gloves, biocompatibility, sterilization, packaging, processing)"
+      },
+      "oj_reference": "OJ L, 2024/815, 8.3.2024",
+      "published_date": "2024-03-08",
+      "status": "active",
+      "amends": "CID (EU) 2021/1182",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2024/815/oj",
+      "standards_added": [
+        "EN 455-3:2023",
+        "EN ISO 10993-15:2023",
+        "EN ISO 10993-17:2023",
+        "EN ISO 10993-18:2020/A1:2023",
+        "EN ISO 11137-2:2015/A1:2023",
+        "EN ISO 11607-1:2020/A1:2023",
+        "EN ISO 11607-2:2020/A1:2023",
+        "EN ISO 17664-2:2023"
+      ]
+    },
+    {
+      "id": "cid-2024-2631",
+      "document_number": "2024/2631",
+      "type": "harmonised_standards",
+      "title": {
+        "zh": "实施决定 (EU) 2024/2631 — 协调标准修正案（无菌加工）",
+        "en": "Implementing Decision (EU) 2024/2631 — Harmonised Standards Amendment (aseptic processing)"
+      },
+      "oj_reference": "OJ L, 2024/2631, 9.10.2024",
+      "published_date": "2024-10-09",
+      "status": "active",
+      "amends": "CID (EU) 2021/1182",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2024/2631/oj",
+      "standards_added": [
+        "EN ISO 13408-1:2024"
+      ]
+    },
+    {
+      "id": "cid-2025-681",
+      "document_number": "2025/681",
+      "type": "harmonised_standards",
+      "title": {
+        "zh": "实施决定 (EU) 2025/681 — 协调标准修正案（医用手套、灭菌、患者搬运）",
+        "en": "Implementing Decision (EU) 2025/681 — Harmonised Standards Amendment (medical gloves, sterilization, patient handling)"
+      },
+      "oj_reference": "OJ L, 2025/681, 9.4.2025",
+      "published_date": "2025-04-09",
+      "status": "active",
+      "amends": "CID (EU) 2021/1182",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2025/681/oj",
+      "standards_added": [
+        "EN 455-1:2020+A2:2024",
+        "EN 455-2:2024",
+        "EN 556-1:2024",
+        "EN 556-2:2024",
+        "EN 1865-2:2024",
+        "EN 1865-6:2024"
+      ]
+    },
+    {
+      "id": "cid-2025-2078",
+      "document_number": "2025/2078",
+      "type": "harmonised_standards",
+      "title": {
+        "zh": "实施决定 (EU) 2025/2078 — 协调标准修正案（手术衣物、医用口罩、灭菌器）",
+        "en": "Implementing Decision (EU) 2025/2078 — Harmonised Standards Amendment (surgical clothing, medical face masks, sterilizers)"
+      },
+      "oj_reference": "OJ L, 2025/2078, 20.10.2025",
+      "published_date": "2025-10-20",
+      "status": "active",
+      "amends": "CID (EU) 2021/1182",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2025/2078/oj",
+      "standards_added": [
+        "EN 13795-1:2025",
+        "EN 13795-2:2025",
+        "EN 14683:2025",
+        "EN 14180:2025"
+      ]
+    },
+    {
+      "id": "cid-2026-193",
+      "document_number": "2026/193",
+      "type": "harmonised_standards",
+      "title": {
+        "zh": "实施决定 (EU) 2026/193 — 协调标准修正案（神经外科植入物、生物相容性、临床调查、外科植入物、灭菌、呼吸气路、小口径连接器）",
+        "en": "Implementing Decision (EU) 2026/193 — Harmonised Standards Amendment (neurosurgical implants, biocompatibility, clinical investigation, surgical implants, sterilization, breathing gas pathways, small-bore connectors)"
+      },
+      "oj_reference": "OJ L, 2026/193, 30.1.2026",
+      "published_date": "2026-01-30",
+      "status": "active",
+      "amends": "CID (EU) 2021/1182",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2026/193/oj",
+      "standards_added": [
+        "EN ISO 7197:2024",
+        "EN ISO 10993-4:2017/A1:2025",
+        "EN ISO 14155:2020/A11:2024",
+        "EN ISO 14630:2024",
+        "EN ISO 17665:2024",
+        "EN ISO 18562-1:2024",
+        "EN ISO 18562-2:2024",
+        "EN ISO 18562-3:2024",
+        "EN ISO 18562-4:2024",
+        "EN ISO 21535:2024",
+        "EN ISO 21536:2024",
+        "EN ISO 80369-2:2024"
+      ]
+    }
+  ]
+}
