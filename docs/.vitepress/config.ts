@@ -78,6 +78,13 @@ export default defineConfig({
             { text: '\u5171\u8bc6\u6807\u51c6', link: '/zh/fda/standards' },
             { text: '\u6307\u5357\u6587\u4ef6', link: '/zh/fda/guidance' },
           ],
+          '/zh/nmpa/': [
+            { text: 'NMPA \u6982\u8ff0', link: '/zh/nmpa/' },
+            { text: '\u6cd5\u89c4\u89c4\u7ae0', link: '/zh/nmpa/regulations' },
+            { text: 'GB/YY \u6807\u51c6', link: '/zh/nmpa/standards' },
+            { text: '\u6307\u5bfc\u539f\u5219', link: '/zh/nmpa/guidance' },
+            { text: '\u5206\u7c7b\u76ee\u5f55', link: '/zh/nmpa/classification' },
+          ],
           '/zh/shared/': [
             { text: '\u901a\u7528\u6807\u51c6', link: '/zh/shared/standards' },
           ],

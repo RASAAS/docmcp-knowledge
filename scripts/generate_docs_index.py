@@ -353,26 +353,19 @@ def _entry_row(entry: dict, repo_root: Path) -> str:
     return f"| {title_cell} | {doc_num_cell} | {date_cell} |"
 
 
-def _nmpa_static_nav() -> list:
-    """Static top-level NMPA navigation items (overview + index pages)."""
-    return [
-        {"text": "NMPA 概述", "link": "/zh/nmpa/"},
-        {"text": "法规规章索引", "link": "/zh/nmpa/regulations"},
-        {"text": "GB/YY 标准", "link": "/zh/nmpa/standards"},
-        {"text": "指导原则索引", "link": "/zh/nmpa/guidance"},
-        {"text": "分类目录", "link": "/zh/nmpa/classification"},
-    ]
-
-
 def generate_sidebar_json(all_section_entries: Dict[str, List[dict]], repo_root: Path, dry_run: bool = False) -> None:
     """
-    Generate docs/.vitepress/sidebar.json with dynamic sidebar items
-    for sections that have synced full-content pages.
+    Generate docs/.vitepress/sidebar.json with dynamic sidebar items.
+
+    VitePress uses longest-prefix matching for sidebar:
+      /zh/nmpa/           -> static sidebar in config.ts (overview pages)
+      /zh/nmpa/guidance/  -> dynamic grouped sidebar (guidance sub-pages)
+      /zh/nmpa/regulations/ -> dynamic sidebar (regulation sub-pages)
+      /zh/insights/       -> dynamic sidebar (insights pages)
     """
     sidebar: Dict[str, list] = {}
 
     for section_key, entries in all_section_entries.items():
-        vp_prefix = f"/zh/{section_key}/"
         items = []
         for entry in entries:
             slug = unquote(entry["slug"])
@@ -381,10 +374,12 @@ def generate_sidebar_json(all_section_entries: Dict[str, List[dict]], repo_root:
                 "link": f"/zh/{section_key}/{slug}",
             })
 
-        # Collect NMPA guidance and regulations under /zh/nmpa/ to avoid prefix conflict
         if section_key == "nmpa/guidance":
             groups = group_nmpa_guidance(entries)
-            grouped_items = []
+            sidebar_items = [
+                {"text": "<- NMPA 概览", "link": "/zh/nmpa/"},
+                {"text": "指导原则索引", "link": "/zh/nmpa/guidance"},
+            ]
             for group_name, group_entries in groups.items():
                 if not group_entries:
                     continue
@@ -392,29 +387,26 @@ def generate_sidebar_json(all_section_entries: Dict[str, List[dict]], repo_root:
                 for e in sorted(group_entries, key=lambda x: x["title_zh"]):
                     s = unquote(e["slug"])
                     children.append({"text": e["title_zh"], "link": f"/zh/nmpa/guidance/{s}"})
-                grouped_items.append({
+                sidebar_items.append({
                     "text": f"{group_name} ({len(group_entries)})",
                     "collapsed": True,
                     "items": children,
                 })
-            if "/zh/nmpa/" not in sidebar:
-                sidebar["/zh/nmpa/"] = _nmpa_static_nav()
-            sidebar["/zh/nmpa/"].append({
-                "text": "指导原则分类",
-                "collapsed": False,
-                "items": grouped_items,
-            })
+            sidebar["/zh/nmpa/guidance/"] = sidebar_items
+
         elif section_key == "nmpa/regulations":
             sorted_items = sorted(items, key=lambda x: x["text"])
-            if "/zh/nmpa/" not in sidebar:
-                sidebar["/zh/nmpa/"] = _nmpa_static_nav()
-            sidebar["/zh/nmpa/"].append({
-                "text": f"法规全文 ({len(entries)})",
-                "collapsed": True,
-                "items": sorted_items,
-            })
+            sidebar["/zh/nmpa/regulations/"] = [
+                {"text": "<- NMPA 概览", "link": "/zh/nmpa/"},
+                {"text": "法规规章索引", "link": "/zh/nmpa/regulations"},
+                {
+                    "text": f"法规全文 ({len(entries)})",
+                    "collapsed": False,
+                    "items": sorted_items,
+                },
+            ]
+
         elif section_key.startswith("insights/"):
-            # Collect all insights sub-categories under one prefix
             if "/zh/insights/" not in sidebar:
                 sidebar["/zh/insights/"] = [
                     {"text": "法规解读", "link": "/zh/insights/"},
