@@ -271,6 +271,8 @@ def sync_content_to_docs(section_key: str, entries: List[dict], repo_root: Path,
         content = src_file.read_text(encoding="utf-8")
         # Rewrite image paths: /assets/images/ -> /images/ (VitePress public dir)
         content = content.replace("](/assets/images/", "](/images/")
+        # Remove blob: URLs (WordPress editor temp objects, not downloadable)
+        content = re.sub(r'!\[([^\]]*)\]\(blob:https?://[^)]+\)', r'[formula]', content)
         dest_file.write_text(content, encoding="utf-8")
         synced += 1
     return synced
