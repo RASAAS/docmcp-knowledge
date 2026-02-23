@@ -14,6 +14,7 @@ Usage:
 from __future__ import annotations
 
 import argparse
+import json
 import re
 import sys
 from datetime import datetime
@@ -28,25 +29,19 @@ except ImportError:
     sys.exit(1)
 
 
-# Mapping: data layer dir -> docs/zh/ page path + section title
+# Mapping: data layer dir -> (docs page path, section title, regulation, sync_content)
+# sync_content=True: auto-generate index + sync full content files to docs/zh/
+# sync_content=False: only generate index page (no full content sync)
+#
+# NOTE: eu_mdr/*, fda/*, _shared, nmpa/standards, nmpa/classification have
+# hand-written index pages (PR #5/#6) — do NOT add them here.
 SECTION_MAP = {
-    "nmpa/guidance":        ("docs/zh/nmpa/guidance.md",        "NMPA 注册审查指导原则",   "nmpa"),
-    "nmpa/regulations":     ("docs/zh/nmpa/regulations.md",     "NMPA 法规规章",           "nmpa"),
-    "nmpa/classification":  ("docs/zh/nmpa/classification.md",  "NMPA 医疗器械分类",       "nmpa"),
-    "nmpa/standards":       ("docs/zh/nmpa/standards.md",       "NMPA 标准",               "nmpa"),
-    "eu_mdr/mdcg":          ("docs/zh/eu_mdr/mdcg.md",          "MDCG 指南文件",           "eu_mdr"),
-    "eu_mdr/team_nb":       ("docs/zh/eu_mdr/team_nb.md",       "Team-NB 立场文件",        "eu_mdr"),
-    "eu_mdr/ivdr":          ("docs/zh/eu_mdr/ivdr.md",          "EU IVDR",                 "eu_mdr"),
-    "eu_mdr/standards":     ("docs/zh/eu_mdr/standards.md",     "EU MDR 协调标准",         "eu_mdr"),
-    "eu_mdr":               ("docs/zh/eu_mdr/regulations.md",   "EU MDR 法规",             "eu_mdr"),
-    "fda/guidance":         ("docs/zh/fda/guidance.md",         "FDA 指南文件",            "fda"),
-    "fda/regulations":      ("docs/zh/fda/regulations.md",      "FDA 法规",                "fda"),
-    "fda/standards":        ("docs/zh/fda/standards.md",        "FDA 认可标准",            "fda"),
-    "_shared":              ("docs/zh/shared/index.md",         "通用资源",                "shared"),
-    "insights/nmpa-updates":    ("docs/zh/insights/nmpa-updates.md",    "NMPA 合规动态",   "insights"),
-    "insights/eu-mdr-updates":  ("docs/zh/insights/eu-mdr-updates.md",  "EU MDR 合规动态", "insights"),
-    "insights/fda-updates":     ("docs/zh/insights/fda-updates.md",     "FDA 合规动态",    "insights"),
-    "insights/analysis":        ("docs/zh/insights/analysis.md",        "法规解读分析",    "insights"),
+    "nmpa/guidance":            ("docs/zh/nmpa/guidance.md",            "NMPA 注册审查指导原则",   "nmpa",     True),
+    "nmpa/regulations":         ("docs/zh/nmpa/regulations.md",         "NMPA 法规规章",           "nmpa",     True),
+    "insights/nmpa-updates":    ("docs/zh/insights/nmpa-updates.md",    "NMPA 合规动态",           "insights", True),
+    "insights/eu-mdr-updates":  ("docs/zh/insights/eu-mdr-updates.md",  "EU MDR 合规动态",         "insights", True),
+    "insights/fda-updates":     ("docs/zh/insights/fda-updates.md",     "FDA 合规动态",            "insights", True),
+    "insights/analysis":        ("docs/zh/insights/analysis.md",        "法规解读分析",            "insights", True),
 }
 
 # Category grouping for NMPA guidance (by device category prefix in slug)
@@ -298,6 +293,70 @@ def _entry_row(entry: dict, repo_root: Path) -> str:
     return f"| {title_cell} | {doc_num_cell} | {date_cell} |"
 
 
+def generate_sidebar_json(all_section_entries: Dict[str, List[dict]], repo_root: Path, dry_run: bool = False) -> None:
+    """
+    Generate docs/.vitepress/sidebar.json with dynamic sidebar items
+    for sections that have synced full-content pages.
+    """
+    sidebar: Dict[str, list] = {}
+
+    for section_key, entries in all_section_entries.items():
+        vp_prefix = f"/zh/{section_key}/"
+        items = []
+        for entry in entries:
+            slug = unquote(entry["slug"])
+            items.append({
+                "text": entry["title_zh"],
+                "link": f"/zh/{section_key}/{slug}",
+            })
+
+        # Group NMPA guidance by device category
+        if section_key == "nmpa/guidance":
+            groups = group_nmpa_guidance(entries)
+            grouped_items = []
+            for group_name, group_entries in groups.items():
+                if not group_entries:
+                    continue
+                children = []
+                for e in group_entries:
+                    s = unquote(e["slug"])
+                    children.append({"text": e["title_zh"], "link": f"/zh/{section_key}/{s}"})
+                grouped_items.append({
+                    "text": f"{group_name} ({len(group_entries)})",
+                    "collapsed": True,
+                    "items": children,
+                })
+            sidebar[vp_prefix] = [
+                {"text": "NMPA 指导原则", "link": "/zh/nmpa/guidance"},
+                *grouped_items,
+            ]
+        elif section_key == "nmpa/regulations":
+            sidebar[vp_prefix] = [
+                {"text": "NMPA 法规规章", "link": "/zh/nmpa/regulations"},
+                *items,
+            ]
+        elif section_key.startswith("insights/"):
+            # Collect all insights sub-categories under one prefix
+            if "/zh/insights/" not in sidebar:
+                sidebar["/zh/insights/"] = [
+                    {"text": "法规解读", "link": "/zh/insights/"},
+                ]
+            sub_title = dict(SECTION_MAP).get(section_key, ("", section_key, "", True))[1]
+            sidebar["/zh/insights/"].append({
+                "text": f"{sub_title} ({len(entries)})",
+                "collapsed": True,
+                "items": items,
+            })
+
+    out_path = repo_root / "docs" / ".vitepress" / "sidebar.json"
+    if dry_run:
+        print(f"  [DRY] Would write {out_path}")
+        return
+
+    out_path.write_text(json.dumps(sidebar, ensure_ascii=False, indent=2), encoding="utf-8")
+    print(f"  Generated {out_path.relative_to(repo_root)}")
+
+
 def main():
     parser = argparse.ArgumentParser(description="Generate VitePress docs index from data layer")
     parser.add_argument("--output-root", default=".",
@@ -316,8 +375,9 @@ def main():
     total_entries = 0
     total_pages = 0
     total_synced = 0
+    all_section_entries: Dict[str, List[dict]] = {}
 
-    for section_key, (docs_page_path, section_title, regulation) in SECTION_MAP.items():
+    for section_key, (docs_page_path, section_title, regulation, sync_content) in SECTION_MAP.items():
         if args.regulation and regulation != args.regulation:
             continue
 
@@ -327,9 +387,11 @@ def main():
         if not entries:
             continue
 
-        # Sync full content files into docs/zh/ for VitePress rendering
-        synced = sync_content_to_docs(section_key, entries, repo_root, dry_run=args.dry_run)
-        total_synced += synced
+        if sync_content:
+            # Sync full content files into docs/zh/ for VitePress rendering
+            synced = sync_content_to_docs(section_key, entries, repo_root, dry_run=args.dry_run)
+            total_synced += synced
+            all_section_entries[section_key] = entries
 
         generate_section_page(
             section_key, docs_page_path, section_title,
@@ -337,6 +399,10 @@ def main():
         )
         total_entries += len(entries)
         total_pages += 1
+
+    # Generate dynamic sidebar config
+    if all_section_entries:
+        generate_sidebar_json(all_section_entries, repo_root, dry_run=args.dry_run)
 
     print(f"\nDone: {total_pages} index pages updated, {total_entries} entries, {total_synced} content files synced")
 
