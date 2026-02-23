@@ -64,6 +64,8 @@ def convert_pdf_to_markdown(
     doc_id: str,
     output_dir: Path,
     dry_run: bool = False,
+    extract_images: bool = True,
+    images_public_dir: Path | None = None,
 ) -> Path | None:
     """
     Convert a PDF (URL or local path) to Markdown using docling.
@@ -73,6 +75,8 @@ def convert_pdf_to_markdown(
         doc_id: Document identifier (e.g. 'mdcg-2020-5')
         output_dir: Directory to write output files
         dry_run: If True, only show what would be done
+        extract_images: If True, extract and save embedded images
+        images_public_dir: VitePress public dir for images (default: docs/public/images/mdcg)
 
     Returns:
         Path to the output .raw.md file, or None on failure
@@ -89,22 +93,70 @@ def convert_pdf_to_markdown(
     print(f"  Converting: {source}")
     print(f"  Output: {output_file}")
 
+    # Resolve image output directory
+    repo_root = Path(__file__).parent.parent
+    if images_public_dir is None:
+        images_public_dir = repo_root / "docs" / "public" / "images" / "mdcg"
+
     try:
+        from docling.document_converter import DocumentConverter, PdfFormatOption
+        from docling.datamodel.pipeline_options import PdfPipelineOptions
+
         # Configure pipeline options
         pipeline_options = PdfPipelineOptions()
-        pipeline_options.do_ocr = False  # Skip OCR for text-based PDFs
-        pipeline_options.do_table_structure = True  # Extract tables
-        pipeline_options.images_scale = 1.5
+        pipeline_options.do_ocr = False          # Skip OCR for text-based PDFs
+        pipeline_options.do_table_structure = True
+        pipeline_options.images_scale = 2.0      # Higher resolution for extracted images
+        pipeline_options.generate_picture_images = extract_images
 
-        converter = DocumentConverter()
+        from docling.document_converter import DocumentConverter
+        converter = DocumentConverter(
+            format_options={
+                "pdf": PdfFormatOption(pipeline_options=pipeline_options)
+            }
+        )
         result = converter.convert(source)
 
         if result is None or result.document is None:
             print(f"  ERROR: Conversion failed for {source}")
             return None
 
+        doc = result.document
+
+        # Save extracted images and build a mapping: picture_ref -> web path
+        img_map: dict[str, str] = {}
+        if extract_images:
+            images_public_dir.mkdir(parents=True, exist_ok=True)
+            img_idx = 0
+            for element, _level in doc.iterate_items():
+                # PictureItem elements hold extracted images
+                elem_type = type(element).__name__
+                if elem_type == "PictureItem" and hasattr(element, "image") and element.image:
+                    img_idx += 1
+                    img_filename = f"{doc_id}-fig{img_idx:02d}.png"
+                    img_path = images_public_dir / img_filename
+                    try:
+                        element.image.pil_image.save(img_path, format="PNG")
+                        # Web path relative to VitePress public dir
+                        img_map[element.self_ref] = f"/images/mdcg/{img_filename}"
+                        print(f"    Saved image: {img_filename}")
+                    except Exception as img_err:
+                        print(f"    WARN: Could not save image {img_idx}: {img_err}")
+
         # Export to Markdown
-        md_content = result.document.export_to_markdown()
+        md_content = doc.export_to_markdown()
+
+        # Replace docling image placeholders with actual web paths
+        # docling uses <!-- image --> or similar markers; replace with ![](path)
+        if img_map:
+            import re
+            img_iter = iter(img_map.values())
+            def replace_img(m):
+                try:
+                    return f"![]({next(img_iter)})"
+                except StopIteration:
+                    return m.group(0)
+            md_content = re.sub(r'<!-- image -->', replace_img, md_content)
 
         # Build front matter
         now = datetime.now().strftime("%Y-%m-%d")
@@ -128,7 +180,8 @@ review_required: true
 
         output_dir.mkdir(parents=True, exist_ok=True)
         output_file.write_text(final_content, encoding="utf-8")
-        print(f"  Done: {output_file} ({len(md_content)} chars)")
+        img_note = f", {len(img_map)} images" if img_map else ""
+        print(f"  Done: {output_file} ({len(md_content)} chars{img_note})")
         return output_file
 
     except Exception as e:
