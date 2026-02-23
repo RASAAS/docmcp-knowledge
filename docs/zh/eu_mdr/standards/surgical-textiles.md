@@ -1,26 +1,26 @@
 ---
-title: "Xie Tiao Biao Zhun -- Shou Shu Yi Wu Yu Kou Zhao"
-description: "EU MDR Xie Tiao Biao Zhun: Shou Shu Yi Wu Yu Kou Zhao (EN 13795, EN 14683)"
+title: "协调标准 — 手术衣物与口罩"
+description: "EU MDR 2017/745 协调标准：手术衣物与口罩（EN 13795, EN 14683）"
 regulation: EU MDR 2017/745
 category: surgical_textiles
 ---
 
-# Xie Tiao Biao Zhun -- Shou Shu Yi Wu Yu Kou Zhao
+# 协调标准 — 手术衣物与口罩
 
-**Guan Fang Lai Yuan**: [EC Health - Harmonised Standards](https://health.ec.europa.eu/medical-devices-topics-interest/harmonised-standards_en) | Ji Yu CID (EU) 2021/1182 Ji Xiu Zheng An 2026/193
+**官方来源**：[EC Health — 协调标准](https://health.ec.europa.eu/medical-devices-topics-interest/harmonised-standards_en) | 基于 CID (EU) 2021/1182 及修正案 2026/193
 
-## Biao Zhun Lie Biao
+## 标准列表
 
-| Biao Zhun Hao | Biao Ti | Zhuang Tai |
+| 标准号 | 标题 | 状态 |
 |--------|---------|------|
-| **EN 13795-1:2025** | Surgical clothing and drapes - Requirements and test methods - Part 1: Surgical drapes and gowns | Xian Xing You Xiao |
-| **EN 13795-2:2025** | Surgical clothing and drapes - Requirements and test methods - Part 2: Clean air suits | Xian Xing You Xiao |
-| **EN 14683:2025** | Medical face masks - Requirements and test methods | Xian Xing You Xiao |
+| **EN 13795-1:2025** | Surgical clothing and drapes - Requirements and test methods - Part 1: Surgical drapes and gowns | 现行有效 |
+| **EN 13795-2:2025** | Surgical clothing and drapes - Requirements and test methods - Part 2: Clean air suits | 现行有效 |
+| **EN 14683:2025** | Medical face masks - Requirements and test methods | 现行有效 |
 
-## Xiang Guan Ye Mian
+## 相关页面
 
-- [Fu Jian I - GSPR](../regulations/annex-i-gspr)
+- [附件I — GSPR](../regulations/annex-i-gspr)
 
-## Shu Ju Ceng Yuan Wen Jian
+## 数据层源文件
 
 [eu_mdr/standards/standards-surgical_textiles.json](https://github.com/RASAAS/docmcp-knowledge/tree/main/eu_mdr/standards/standards-surgical_textiles.json)

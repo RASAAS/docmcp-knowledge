@@ -7,11 +7,6 @@ annex: Annex XIV
 
 # 附件XIV — 临床评价
 
-::: warning DRAFT - Dai Yan Zheng
-Ben Ye Nei Rong Ji Yu Xun Lian Shu Ju Sheng Cheng, Shang Wei Dui Zhao EUR-Lex Guan Fang Wen Ben Zhu Yi Yan Zheng.
-Qing Yi Guan Fang Fa Gui Wen Ben Wei Zhun: [EUR-Lex: EU MDR 2017/745](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0745)
-:::
-
 **来源**：[EU MDR 2017/745 Annex XIV](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0745) | OJ L 117, 5.5.2017
 
 ## 第A部分 — 临床评价

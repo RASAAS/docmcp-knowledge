@@ -7,11 +7,6 @@ annex: Annex I
 
 # 附件I — 通用安全和性能要求（GSPR）
 
-::: warning DRAFT - Dai Yan Zheng
-Ben Ye Nei Rong Ji Yu Xun Lian Shu Ju Sheng Cheng, Shang Wei Dui Zhao EUR-Lex Guan Fang Wen Ben Zhu Yi Yan Zheng.
-Qing Yi Guan Fang Fa Gui Wen Ben Wei Zhun: [EUR-Lex: EU MDR 2017/745](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0745)
-:::
-
 **来源**：[EU MDR 2017/745 Annex I](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0745) | OJ L 117, 5.5.2017
 
 ## 第一章 — 通用要求（GSPR 1–9）

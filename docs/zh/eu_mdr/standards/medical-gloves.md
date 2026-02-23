@@ -1,25 +1,25 @@
 ---
-title: "Xie Tiao Biao Zhun -- Yi Yong Shou Tao"
-description: "EU MDR Xie Tiao Biao Zhun: Yi Yong Shou Tao (EN 455 Xi Lie)"
+title: "协调标准 — 医用手套"
+description: "EU MDR 2017/745 协调标准：医用手套（EN 455系列）"
 regulation: EU MDR 2017/745
 category: medical_gloves
 ---
 
-# Xie Tiao Biao Zhun -- Yi Yong Shou Tao
+# 协调标准 — 医用手套
 
-**Guan Fang Lai Yuan**: [EC Health - Harmonised Standards](https://health.ec.europa.eu/medical-devices-topics-interest/harmonised-standards_en) | Ji Yu CID (EU) 2021/1182 Ji Xiu Zheng An 2026/193
+**官方来源**：[EC Health — 协调标准](https://health.ec.europa.eu/medical-devices-topics-interest/harmonised-standards_en) | 基于 CID (EU) 2021/1182 及修正案 2026/193
 
-## Biao Zhun Lie Biao
+## 标准列表
 
-| Biao Zhun Hao | Biao Ti | Zhuang Tai |
+| 标准号 | 标题 | 状态 |
 |--------|---------|------|
-| **EN 455-1:2020+A2:2024** | Medical gloves for single use - Part 1: Requirements and testing for freedom of holes | Xian Xing You Xiao |
-| **EN 455-2:2024** | Medical gloves for single use - Part 2: Requirements and testing for physical properties | Xian Xing You Xiao |
+| **EN 455-1:2020+A2:2024** | Medical gloves for single use - Part 1: Requirements and testing for freedom of holes | 现行有效 |
+| **EN 455-2:2024** | Medical gloves for single use - Part 2: Requirements and testing for physical properties | 现行有效 |
 
-## Xiang Guan Ye Mian
+## 相关页面
 
-- [Fu Jian I - GSPR](../regulations/annex-i-gspr)
+- [附件I — GSPR](../regulations/annex-i-gspr)
 
-## Shu Ju Ceng Yuan Wen Jian
+## 数据层源文件
 
 [eu_mdr/standards/standards-medical_gloves.json](https://github.com/RASAAS/docmcp-knowledge/tree/main/eu_mdr/standards/standards-medical_gloves.json)

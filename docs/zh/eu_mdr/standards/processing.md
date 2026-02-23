@@ -1,25 +1,25 @@
 ---
-title: "Xie Tiao Biao Zhun -- Qi Xie Chu Li"
-description: "EU MDR Xie Tiao Biao Zhun: Qi Xie Chu Li Yu Zai Chu Li (EN ISO 17664 Xi Lie)"
+title: "协调标准 — 器械处理与再处理"
+description: "EU MDR 2017/745 协调标准：器械处理与再处理（EN ISO 17664系列）"
 regulation: EU MDR 2017/745
 category: processing
 ---
 
-# Xie Tiao Biao Zhun -- Qi Xie Chu Li
+# 协调标准 — 器械处理与再处理
 
-**Guan Fang Lai Yuan**: [EC Health - Harmonised Standards](https://health.ec.europa.eu/medical-devices-topics-interest/harmonised-standards_en) | Ji Yu CID (EU) 2021/1182 Ji Xiu Zheng An 2026/193
+**官方来源**：[EC Health — 协调标准](https://health.ec.europa.eu/medical-devices-topics-interest/harmonised-standards_en) | 基于 CID (EU) 2021/1182 及修正案 2026/193
 
-## Biao Zhun Lie Biao
+## 标准列表
 
-| Biao Zhun Hao | Biao Ti | Zhuang Tai |
+| 标准号 | 标题 | 状态 |
 |--------|---------|------|
-| **EN ISO 17664-1:2021** | Processing of health care products - Information to be provided by the medical device manufacturer for the processing of medical devices - Part 1: Critical and semi-critical medical devices (ISO 17664-1:2021) | Xian Xing You Xiao |
-| **EN ISO 17664-2:2023** | Processing of health care products - Information to be provided by the medical device manufacturer for the processing of medical devices - Part 2: Non-critical medical devices (ISO 17664-2:2021) | Xian Xing You Xiao |
+| **EN ISO 17664-1:2021** | Processing of health care products - Information to be provided by the medical device manufacturer for the processing of medical devices - Part 1: Critical and semi-critical medical devices (ISO 17664-1:2021) | 现行有效 |
+| **EN ISO 17664-2:2023** | Processing of health care products - Information to be provided by the medical device manufacturer for the processing of medical devices - Part 2: Non-critical medical devices (ISO 17664-2:2021) | 现行有效 |
 
-## Xiang Guan Ye Mian
+## 相关页面
 
-- [Fu Jian I - GSPR](../regulations/annex-i-gspr)
+- [附件I — GSPR](../regulations/annex-i-gspr)
 
-## Shu Ju Ceng Yuan Wen Jian
+## 数据层源文件
 
 [eu_mdr/standards/standards-processing.json](https://github.com/RASAAS/docmcp-knowledge/tree/main/eu_mdr/standards/standards-processing.json)

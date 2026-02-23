@@ -1,24 +1,24 @@
 ---
-title: "Xie Tiao Biao Zhun -- Xiao Kou Jing Lian Jie Qi"
-description: "EU MDR Xie Tiao Biao Zhun: Xiao Kou Jing Lian Jie Qi (EN ISO 80369 Xi Lie)"
+title: "协调标准 — 小口径连接器"
+description: "EU MDR 2017/745 协调标准：小口径连接器（EN ISO 80369系列）"
 regulation: EU MDR 2017/745
 category: connectors
 ---
 
-# Xie Tiao Biao Zhun -- Xiao Kou Jing Lian Jie Qi
+# 协调标准 — 小口径连接器
 
-**Guan Fang Lai Yuan**: [EC Health - Harmonised Standards](https://health.ec.europa.eu/medical-devices-topics-interest/harmonised-standards_en) | Ji Yu CID (EU) 2021/1182 Ji Xiu Zheng An 2026/193
+**官方来源**：[EC Health — 协调标准](https://health.ec.europa.eu/medical-devices-topics-interest/harmonised-standards_en) | 基于 CID (EU) 2021/1182 及修正案 2026/193
 
-## Biao Zhun Lie Biao
+## 标准列表
 
-| Biao Zhun Hao | Biao Ti | Zhuang Tai |
+| 标准号 | 标题 | 状态 |
 |--------|---------|------|
-| **EN ISO 80369-2:2024** | Small-bore connectors for liquids and gases in healthcare applications - Part 2: Connectors for enteral applications (ISO 80369-2:2024) | Xian Xing You Xiao |
+| **EN ISO 80369-2:2024** | Small-bore connectors for liquids and gases in healthcare applications - Part 2: Connectors for enteral applications (ISO 80369-2:2024) | 现行有效 |
 
-## Xiang Guan Ye Mian
+## 相关页面
 
-- [Fu Jian I - GSPR](../regulations/annex-i-gspr)
+- [附件I — GSPR](../regulations/annex-i-gspr)
 
-## Shu Ju Ceng Yuan Wen Jian
+## 数据层源文件
 
 [eu_mdr/standards/standards-connectors.json](https://github.com/RASAAS/docmcp-knowledge/tree/main/eu_mdr/standards/standards-connectors.json)
