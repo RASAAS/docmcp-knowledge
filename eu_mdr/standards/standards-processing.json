@@ -1,0 +1,34 @@
+{
+  "category": "processing",
+  "category_name": {
+    "zh": "Qi Xie Chu Li Yu Zai Chu Li",
+    "en": "Device Processing & Reprocessing"
+  },
+  "regulation": "eu_mdr",
+  "source": "Implementing Decision (EU) 2021/1182 (consolidated)",
+  "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+  "last_updated": "2026-02-23",
+  "count": 2,
+  "entries": [
+    {
+      "id": "eu_mdr-hs-en-iso-17664-1-2021",
+      "number": "EN ISO 17664-1:2021",
+      "title": "Processing of health care products - Information to be provided by the medical device manufacturer for the processing of medical devices - Part 1: Critical and semi-critical medical devices (ISO 17664-1:2021)",
+      "scope": "eu_mdr",
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_verified": "2026-02-23",
+      "category": "processing"
+    },
+    {
+      "id": "eu_mdr-hs-en-iso-17664-2-2023",
+      "number": "EN ISO 17664-2:2023",
+      "title": "Processing of health care products - Information to be provided by the medical device manufacturer for the processing of medical devices - Part 2: Non-critical medical devices (ISO 17664-2:2021)",
+      "scope": "eu_mdr",
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_verified": "2026-02-23",
+      "category": "processing"
+    }
+  ]
+}

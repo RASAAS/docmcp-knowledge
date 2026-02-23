@@ -31,13 +31,13 @@ category: Clinical Evaluation and Clinical Investigation
 ### 与EU MDR临床评价的关系
 
 - 临床调查数据是临床评价报告（CER）的重要数据来源
-- 须符合 [附件XIV — 临床评价](/eu_mdr/regulations/annex-xiv-clinical-evaluation) 的要求
+- 须符合 [附件XIV — 临床评价](../regulations/annex-xiv-clinical-evaluation) 的要求
 - 临床调查须在 EUDAMED 注册
 
 ## 相关页面
 
-- [附件XIV — 临床评价](/eu_mdr/regulations/annex-xiv-clinical-evaluation)
-- [附件I — GSPR](/eu_mdr/regulations/annex-i-gspr)
+- [附件XIV — 临床评价](../regulations/annex-xiv-clinical-evaluation)
+- [附件I — GSPR](../regulations/annex-i-gspr)
 
 ## 数据层源文件
 

@@ -7,6 +7,11 @@ article: Article 10
 
 # 第10条 — 制造商一般义务
 
+::: warning DRAFT - Dai Yan Zheng
+Ben Ye Nei Rong Ji Yu Xun Lian Shu Ju Sheng Cheng, Shang Wei Dui Zhao EUR-Lex Guan Fang Wen Ben Zhu Yi Yan Zheng.
+Qing Yi Guan Fang Fa Gui Wen Ben Wei Zhun: [EUR-Lex: EU MDR 2017/745](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0745)
+:::
+
 **来源**：[EU MDR 2017/745 Article 10](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0745) | OJ L 117, 5.5.2017
 
 ## 核心要求
@@ -21,10 +26,10 @@ article: Article 10
 - 识别适用的通用安全和性能要求（GSPR）并探索满足这些要求的选项
 - 设计和开发器械的职责
 - 生产和服务提供的管理
-- 风险管理（见 [附件I GSPR](/eu_mdr/regulations/annex-i-gspr)）
-- 临床评价（见 [附件XIV](/eu_mdr/regulations/annex-xiv-clinical-evaluation)），包括上市后临床跟踪（PMCF）
+- 风险管理（见 [附件I GSPR](./annex-i-gspr)）
+- 临床评价（见 [附件XIV](./annex-xiv-clinical-evaluation)），包括上市后临床跟踪（PMCF）
 - 标签和包装
-- 上市后监督（PMS），包括 PMCF（见 [附件III](/eu_mdr/regulations/annex-iii-pms)）
+- 上市后监督（PMS），包括 PMCF（见 [附件III](./annex-iii-pms)）
 - 与主管机构、公告机构、经济运营商、客户和/或其他相关方的沟通
 - 与经济运营商之间的信息传递和协调过程
 - 严重事故和现场安全纠正措施的报告
@@ -32,11 +37,11 @@ article: Article 10
 
 ### 10.2 — 技术文件
 
-制造商须按照 [附件II](/eu_mdr/regulations/annex-ii-technical-documentation) 和 [附件III](/eu_mdr/regulations/annex-iii-pms) 的要求建立、保持更新并提供技术文件。
+制造商须按照 [附件II](./annex-ii-technical-documentation) 和 [附件III](./annex-iii-pms) 的要求建立、保持更新并提供技术文件。
 
 ### 10.3 — 合规评估
 
-制造商须按照 [第52条](/eu_mdr/regulations/art-52-conformity-assessment) 规定的适用合规评估程序进行合规评估。
+制造商须按照 [第52条](./art-52-conformity-assessment) 规定的适用合规评估程序进行合规评估。
 
 ### 10.4 — EU符合性声明
 
@@ -59,10 +64,10 @@ article: Article 10
 
 ## 相关条款
 
-- [第52条 — 合规评估程序](/eu_mdr/regulations/art-52-conformity-assessment)
-- [附件I — GSPR](/eu_mdr/regulations/annex-i-gspr)
-- [附件II — 技术文件](/eu_mdr/regulations/annex-ii-technical-documentation)
-- [附件XIV — 临床评价](/eu_mdr/regulations/annex-xiv-clinical-evaluation)
+- [第52条 — 合规评估程序](./art-52-conformity-assessment)
+- [附件I — GSPR](./annex-i-gspr)
+- [附件II — 技术文件](./annex-ii-technical-documentation)
+- [附件XIV — 临床评价](./annex-xiv-clinical-evaluation)
 
 ## 官方来源
 

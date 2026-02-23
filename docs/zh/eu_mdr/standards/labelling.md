@@ -27,8 +27,8 @@ category: Labelling and Instructions for Use
 
 ## 相关页面
 
-- [附件I — GSPR](/eu_mdr/regulations/annex-i-gspr)
-- [第10条 — 制造商一般义务](/eu_mdr/regulations/art-10-manufacturer-obligations)
+- [附件I — GSPR](../regulations/annex-i-gspr)
+- [第10条 — 制造商一般义务](../regulations/art-10-manufacturer-obligations)
 
 ## 数据层源文件
 

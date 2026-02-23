@@ -38,8 +38,8 @@ category: Risk Management
 
 ## 相关页面
 
-- [附件I — GSPR](/eu_mdr/regulations/annex-i-gspr)
-- [协调标准 — 质量管理](/eu_mdr/standards/quality-management)
+- [附件I — GSPR](../regulations/annex-i-gspr)
+- [协调标准 — 质量管理](./quality-management)
 
 ## 数据层源文件
 

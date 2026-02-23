@@ -30,8 +30,8 @@ category: Sterilization and Packaging
 
 ## 相关页面
 
-- [附件I — GSPR](/eu_mdr/regulations/annex-i-gspr)
-- [协调标准 — 生物相容性](/eu_mdr/standards/biocompatibility)
+- [附件I — GSPR](../regulations/annex-i-gspr)
+- [协调标准 — 生物相容性](./biocompatibility)
 
 ## 数据层源文件
 

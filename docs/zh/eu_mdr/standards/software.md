@@ -33,8 +33,8 @@ category: Software and Usability
 
 ## 相关页面
 
-- [附件I — GSPR](/eu_mdr/regulations/annex-i-gspr)
-- [协调标准 — 电气安全与EMC](/eu_mdr/standards/electrical-safety)
+- [附件I — GSPR](../regulations/annex-i-gspr)
+- [协调标准 — 电气安全与EMC](./electrical-safety)
 
 ## 数据层源文件
 

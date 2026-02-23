@@ -1,222 +1,110 @@
 {
-  "id": "eu-mdr-harmonised-standards-biocompatibility",
-  "title": {
-    "zh": "EU MDR 协调标准 — 生物相容性",
-    "en": "EU MDR Harmonised Standards — Biocompatibility"
-  },
-  "regulation": "eu_mdr",
-  "category": "standards",
-  "category_key": "biocompatibility",
-  "category_title": {
-    "zh": "生物相容性",
+  "category": "biocompatibility",
+  "category_name": {
+    "zh": "Sheng Wu Xiang Rong Xing",
     "en": "Biocompatibility"
   },
-  "gspr_primary": [
-    "GSPR 10"
-  ],
-  "basis": "Commission Implementing Decision (EU) 2021/1182 and amendments incl. CID 2024/815",
-  "source_url": "https://health.ec.europa.eu/medical-devices-topics-interest/harmonised-standards_en",
-  "source_url_verified": "2026-02-23",
+  "regulation": "eu_mdr",
+  "source": "Implementing Decision (EU) 2021/1182 (consolidated)",
+  "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
   "last_updated": "2026-02-23",
-  "contributor": "RASAAS",
-  "standards_count": 14,
-  "standards": [
+  "count": 9,
+  "entries": [
     {
-      "id": "hs-en-iso-10993-1-2018",
-      "number": "EN ISO 10993-1:2018",
-      "title": {
-        "zh": "医疗器械生物学评价 — 第1部分：风险管理过程中的评价与测试",
-        "en": "Biological evaluation of medical devices — Part 1: Evaluation and testing within a risk management process"
-      },
-      "gspr_reference": [
-        "GSPR 10"
-      ],
+      "id": "eu_mdr-hs-en-iso-10993-23-2021",
+      "number": "EN ISO 10993-23:2021",
+      "title": "Biological evaluation of medical devices - Part 23: Tests for irritation (ISO 10993-23:2021)",
+      "scope": "eu_mdr",
       "status": "active",
-      "publication_year": 2018,
-      "source_url": "https://www.iso.org/standard/68936.html"
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_verified": "2026-02-23",
+      "category": "biocompatibility"
     },
     {
-      "id": "hs-en-iso-10993-3-2014",
-      "number": "EN ISO 10993-3:2014",
-      "title": {
-        "zh": "医疗器械生物学评价 — 第3部分：遗传毒性、致癌性和生殖毒性试验",
-        "en": "Biological evaluation of medical devices — Part 3: Tests for genotoxicity, carcinogenicity and reproductive toxicity"
-      },
-      "gspr_reference": [
-        "GSPR 10"
-      ],
+      "id": "eu_mdr-hs-en-iso-10993-9-2021",
+      "number": "EN ISO 10993-9:2021",
+      "title": "Biological evaluation of medical devices - Part 9: Framework for identification and quantification of potential degradation products (ISO 10993-9:2019)",
+      "scope": "eu_mdr",
       "status": "active",
-      "publication_year": 2014,
-      "source_url": "https://www.iso.org/standard/55614.html"
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_verified": "2026-02-23",
+      "category": "biocompatibility"
     },
     {
-      "id": "hs-en-iso-10993-4-2017",
-      "number": "EN ISO 10993-4:2017",
-      "title": {
-        "zh": "医疗器械生物学评价 — 第4部分：与血液相互作用试验选择",
-        "en": "Biological evaluation of medical devices — Part 4: Selection of tests for interactions with blood"
-      },
-      "gspr_reference": [
-        "GSPR 10"
-      ],
-      "status": "active",
-      "publication_year": 2017,
-      "source_url": "https://www.iso.org/standard/63448.html"
-    },
-    {
-      "id": "hs-en-iso-10993-5-2009",
-      "number": "EN ISO 10993-5:2009",
-      "title": {
-        "zh": "医疗器械生物学评价 — 第5部分：体外细胞毒性试验",
-        "en": "Biological evaluation of medical devices — Part 5: Tests for in vitro cytotoxicity"
-      },
-      "gspr_reference": [
-        "GSPR 10"
-      ],
-      "status": "active",
-      "publication_year": 2009,
-      "source_url": "https://www.iso.org/standard/36406.html"
-    },
-    {
-      "id": "hs-en-iso-10993-6-2016",
-      "number": "EN ISO 10993-6:2016",
-      "title": {
-        "zh": "医疗器械生物学评价 — 第6部分：植入后局部反应试验",
-        "en": "Biological evaluation of medical devices — Part 6: Tests for local effects after implantation"
-      },
-      "gspr_reference": [
-        "GSPR 10"
-      ],
-      "status": "active",
-      "publication_year": 2016,
-      "source_url": "https://www.iso.org/standard/61089.html"
-    },
-    {
-      "id": "hs-en-iso-10993-7-2008-a1-2019",
-      "number": "EN ISO 10993-7:2008+A1:2019",
-      "title": {
-        "zh": "医疗器械生物学评价 — 第7部分：环氧乙烷灭菌残留物",
-        "en": "Biological evaluation of medical devices — Part 7: Residuals from ethylene oxide sterilization processes"
-      },
-      "gspr_reference": [
-        "GSPR 10",
-        "GSPR 11"
-      ],
-      "status": "active",
-      "publication_year": 2019,
-      "source_url": "https://www.iso.org/standard/36408.html"
-    },
-    {
-      "id": "hs-en-iso-10993-9-2019",
-      "number": "EN ISO 10993-9:2019",
-      "title": {
-        "zh": "医疗器械生物学评价 — 第9部分：潜在降解产物鉴别和定量的框架",
-        "en": "Biological evaluation of medical devices — Part 9: Framework for identification and quantification of potential degradation products"
-      },
-      "gspr_reference": [
-        "GSPR 10"
-      ],
-      "status": "active",
-      "publication_year": 2019,
-      "source_url": "https://www.iso.org/standard/36410.html"
-    },
-    {
-      "id": "hs-en-iso-10993-10-2021",
-      "number": "EN ISO 10993-10:2021",
-      "title": {
-        "zh": "医疗器械生物学评价 — 第10部分：皮肤致敏试验",
-        "en": "Biological evaluation of medical devices — Part 10: Tests for skin sensitization"
-      },
-      "gspr_reference": [
-        "GSPR 10"
-      ],
-      "status": "active",
-      "publication_year": 2021,
-      "source_url": "https://www.iso.org/standard/76426.html"
-    },
-    {
-      "id": "hs-en-iso-10993-11-2017",
-      "number": "EN ISO 10993-11:2017",
-      "title": {
-        "zh": "医疗器械生物学评价 — 第11部分：全身毒性试验",
-        "en": "Biological evaluation of medical devices — Part 11: Tests for systemic toxicity"
-      },
-      "gspr_reference": [
-        "GSPR 10"
-      ],
-      "status": "active",
-      "publication_year": 2017,
-      "source_url": "https://www.iso.org/standard/65918.html"
-    },
-    {
-      "id": "hs-en-iso-10993-12-2021",
+      "id": "eu_mdr-hs-en-iso-10993-12-2021",
       "number": "EN ISO 10993-12:2021",
-      "title": {
-        "zh": "医疗器械生物学评价 — 第12部分：样品制备和参考材料",
-        "en": "Biological evaluation of medical devices — Part 12: Sample preparation and reference materials"
-      },
-      "gspr_reference": [
-        "GSPR 10"
-      ],
+      "title": "Biological evaluation of medical devices - Part 12: Sample preparation and reference materials (ISO 10993-12:2021)",
+      "scope": "eu_mdr",
       "status": "active",
-      "publication_year": 2021,
-      "source_url": "https://www.iso.org/standard/75769.html"
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_verified": "2026-02-23",
+      "category": "biocompatibility"
     },
     {
-      "id": "hs-en-iso-10993-13-2010",
-      "number": "EN ISO 10993-13:2010",
-      "title": {
-        "zh": "医疗器械生物学评价 — 第13部分：聚合物医疗器械降解产物的鉴别和定量",
-        "en": "Biological evaluation of medical devices — Part 13: Identification and quantification of degradation products from polymeric medical devices"
-      },
-      "gspr_reference": [
-        "GSPR 10"
-      ],
+      "id": "eu_mdr-hs-en-iso-10993-10-2023",
+      "number": "EN ISO 10993-10:2023",
+      "title": "Biological evaluation of medical devices - Part 10: Tests for skin sensitisation (ISO 10993-10:2021)",
+      "scope": "eu_mdr",
       "status": "active",
-      "publication_year": 2010,
-      "source_url": "https://www.iso.org/standard/36413.html"
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_verified": "2026-02-23",
+      "category": "biocompatibility"
     },
     {
-      "id": "hs-en-iso-10993-15-2019",
-      "number": "EN ISO 10993-15:2019",
-      "title": {
-        "zh": "医疗器械生物学评价 — 第15部分：金属和合金降解产物的鉴别和定量",
-        "en": "Biological evaluation of medical devices — Part 15: Identification and quantification of degradation products from metals and alloys"
-      },
-      "gspr_reference": [
-        "GSPR 10"
-      ],
+      "id": "eu_mdr-hs-en-455-3-2023",
+      "number": "EN 455-3:2023",
+      "title": "Medical gloves for single use - Part 3: Requirements and testing for biological evaluation",
+      "scope": "eu_mdr",
       "status": "active",
-      "publication_year": 2019,
-      "source_url": "https://www.iso.org/standard/36415.html"
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_verified": "2026-02-23",
+      "category": "biocompatibility"
     },
     {
-      "id": "hs-en-iso-10993-17-2023",
+      "id": "eu_mdr-hs-en-iso-10993-15-2023",
+      "number": "EN ISO 10993-15:2023",
+      "title": "Biological evaluation of medical devices - Part 15: Identification and quantification of degradation products from metals and alloys (ISO 10993-15:2019)",
+      "scope": "eu_mdr",
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_verified": "2026-02-23",
+      "category": "biocompatibility"
+    },
+    {
+      "id": "eu_mdr-hs-en-iso-10993-17-2023",
       "number": "EN ISO 10993-17:2023",
-      "title": {
-        "zh": "医疗器械生物学评价 — 第17部分：溢出物允许限度的确定",
-        "en": "Biological evaluation of medical devices — Part 17: Establishment of allowable limits for leachable substances"
-      },
-      "gspr_reference": [
-        "GSPR 10"
-      ],
+      "title": "Biological evaluation of medical devices - Part 17: Toxicological risk assessment of medical device constituents (ISO 10993-17:2023)",
+      "scope": "eu_mdr",
       "status": "active",
-      "publication_year": 2023,
-      "source_url": "https://www.iso.org/standard/36417.html"
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_verified": "2026-02-23",
+      "category": "biocompatibility"
     },
     {
-      "id": "hs-en-iso-10993-18-2020",
+      "id": "eu_mdr-hs-en-iso-10993-18-2020",
       "number": "EN ISO 10993-18:2020",
-      "title": {
-        "zh": "医疗器械生物学评价 — 第18部分：材料化学表征",
-        "en": "Biological evaluation of medical devices — Part 18: Chemical characterization of medical device materials within a risk management process"
-      },
-      "gspr_reference": [
-        "GSPR 10"
-      ],
+      "title": "Biological evaluation of medical devices - Part 18: Chemical characterization of medical device materials within a risk management process (ISO 10993-18:2020)",
+      "scope": "eu_mdr",
       "status": "active",
-      "publication_year": 2020,
-      "source_url": "https://www.iso.org/standard/64750.html"
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_verified": "2026-02-23",
+      "category": "biocompatibility",
+      "amendments": [
+        "EN ISO 10993-18:2020/A1:2023"
+      ]
+    },
+    {
+      "id": "eu_mdr-hs-en-iso-10993-4-2017",
+      "number": "EN ISO 10993-4:2017",
+      "title": "Biological evaluation of medical devices - Part 4: Selection of tests for interactions with blood (ISO 10993-4:2017)",
+      "scope": "eu_mdr",
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_verified": "2026-02-23",
+      "category": "biocompatibility",
+      "amendments": [
+        "EN ISO 10993-4:2017/A1:2025"
+      ]
     }
   ]
 }

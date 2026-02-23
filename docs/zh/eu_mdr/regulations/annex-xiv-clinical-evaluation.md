@@ -7,6 +7,11 @@ annex: Annex XIV
 
 # 附件XIV — 临床评价
 
+::: warning DRAFT - Dai Yan Zheng
+Ben Ye Nei Rong Ji Yu Xun Lian Shu Ju Sheng Cheng, Shang Wei Dui Zhao EUR-Lex Guan Fang Wen Ben Zhu Yi Yan Zheng.
+Qing Yi Guan Fang Fa Gui Wen Ben Wei Zhun: [EUR-Lex: EU MDR 2017/745](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0745)
+:::
+
 **来源**：[EU MDR 2017/745 Annex XIV](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0745) | OJ L 117, 5.5.2017
 
 ## 第A部分 — 临床评价
@@ -14,7 +19,7 @@ annex: Annex XIV
 ### 临床评价要求（第61条）
 
 制造商须进行临床评价，以确认：
-- 器械符合 [附件I GSPR](/eu_mdr/regulations/annex-i-gspr) 的相关要求
+- 器械符合 [附件I GSPR](./annex-i-gspr) 的相关要求
 - 器械的预期收益超过风险
 
 ### 临床评价路径
@@ -51,7 +56,7 @@ annex: Annex XIV
 
 - PMCF活动的总体目标和理由
 - 具体方法和程序（PMCF研究、调查问卷、文献综述等）
-- 参考相关协调标准（[EN ISO 14155](/eu_mdr/standards/clinical-investigation)）
+- 参考相关协调标准（[EN ISO 14155](../standards/clinical-investigation)）
 - 时间表
 
 ### PMCF报告
@@ -61,10 +66,10 @@ annex: Annex XIV
 
 ## 相关页面
 
-- [附件I — GSPR](/eu_mdr/regulations/annex-i-gspr)
-- [附件II — 技术文件](/eu_mdr/regulations/annex-ii-technical-documentation)
-- [附件III — PMS技术文件](/eu_mdr/regulations/annex-iii-pms)
-- [协调标准 — 临床评价](/eu_mdr/standards/clinical-investigation)
+- [附件I — GSPR](./annex-i-gspr)
+- [附件II — 技术文件](./annex-ii-technical-documentation)
+- [附件III — PMS技术文件](./annex-iii-pms)
+- [协调标准 — 临床评价](../standards/clinical-investigation)
 
 ## 官方来源
 

@@ -7,6 +7,11 @@ article: Article 52
 
 # 第52条 — 合规评估程序
 
+::: warning DRAFT - Dai Yan Zheng
+Ben Ye Nei Rong Ji Yu Xun Lian Shu Ju Sheng Cheng, Shang Wei Dui Zhao EUR-Lex Guan Fang Wen Ben Zhu Yi Yan Zheng.
+Qing Yi Guan Fang Fa Gui Wen Ben Wei Zhun: [EUR-Lex: EU MDR 2017/745](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0745)
+:::
+
 **来源**：[EU MDR 2017/745 Article 52](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0745) | OJ L 117, 5.5.2017
 
 ## 按器械类别的合规评估路径
@@ -40,9 +45,9 @@ Class III 植入类器械和 Class IIb 有源植入类器械，公告机构在�
 
 ## 相关条款
 
-- [第10条 — 制造商一般义务](/eu_mdr/regulations/art-10-manufacturer-obligations)
-- [附件I — GSPR](/eu_mdr/regulations/annex-i-gspr)
-- [附件XIV — 临床评价](/eu_mdr/regulations/annex-xiv-clinical-evaluation)
+- [第10条 — 制造商一般义务](./art-10-manufacturer-obligations)
+- [附件I — GSPR](./annex-i-gspr)
+- [附件XIV — 临床评价](./annex-xiv-clinical-evaluation)
 
 ## 官方来源
 

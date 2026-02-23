@@ -7,6 +7,11 @@ annex: Annex II
 
 # 附件II — 技术文件
 
+::: warning DRAFT - Dai Yan Zheng
+Ben Ye Nei Rong Ji Yu Xun Lian Shu Ju Sheng Cheng, Shang Wei Dui Zhao EUR-Lex Guan Fang Wen Ben Zhu Yi Yan Zheng.
+Qing Yi Guan Fang Fa Gui Wen Ben Wei Zhun: [EUR-Lex: EU MDR 2017/745](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0745)
+:::
+
 **来源**：[EU MDR 2017/745 Annex II](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0745) | OJ L 117, 5.5.2017
 
 ## 技术文件结构
@@ -40,21 +45,21 @@ annex: Annex II
 
 ### 5. 收益/风险分析和风险管理
 
-- 风险管理文件（符合 [EN ISO 14971](/eu_mdr/standards/risk-management)）
+- 风险管理文件（符合 [EN ISO 14971](../standards/risk-management)）
 - 收益/风险分析结论
 
 ### 6. 产品验证和确认
 
 - 设计验证和确认结果
-- 生物相容性评价（[EN ISO 10993系列](/eu_mdr/standards/biocompatibility)）
-- 灭菌验证（如适用，[EN ISO 11135/11137/17665系列](/eu_mdr/standards/sterilization)）
-- 软件验证（如适用，[EN IEC 62304](/eu_mdr/standards/software)）
-- 电气安全和EMC测试（如适用，[EN IEC 60601系列](/eu_mdr/standards/electrical-safety)）
+- 生物相容性评价（[EN ISO 10993系列](../standards/biocompatibility)）
+- 灭菌验证（如适用，[EN ISO 11135/11137/17665系列](../standards/sterilization)）
+- 软件验证（如适用，[EN IEC 62304](../standards/software)）
+- 电气安全和EMC测试（如适用，[EN IEC 60601系列](../standards/electrical-safety)）
 - 稳定性和货架寿命测试
 
 ### 7. 临床评价
 
-- 临床评价报告（CER）（符合 [附件XIV](/eu_mdr/regulations/annex-xiv-clinical-evaluation)）
+- 临床评价报告（CER）（符合 [附件XIV](./annex-xiv-clinical-evaluation)）
 - 上市后临床跟踪（PMCF）计划
 
 ## 技术文件保存要求
@@ -64,9 +69,9 @@ annex: Annex II
 
 ## 相关页面
 
-- [附件III — 上市后监督技术文件](/eu_mdr/regulations/annex-iii-pms)
-- [附件XIV — 临床评价](/eu_mdr/regulations/annex-xiv-clinical-evaluation)
-- [附件I — GSPR](/eu_mdr/regulations/annex-i-gspr)
+- [附件III — 上市后监督技术文件](./annex-iii-pms)
+- [附件XIV — 临床评价](./annex-xiv-clinical-evaluation)
+- [附件I — GSPR](./annex-i-gspr)
 
 ## 官方来源
 

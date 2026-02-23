@@ -30,8 +30,8 @@ category: Electrical Safety and EMC
 
 ## 相关页面
 
-- [附件I — GSPR](/eu_mdr/regulations/annex-i-gspr)
-- [协调标准 — 软件与可用性](/eu_mdr/standards/software)
+- [附件I — GSPR](../regulations/annex-i-gspr)
+- [协调标准 — 软件与可用性](./software)
 
 ## 数据层源文件
 

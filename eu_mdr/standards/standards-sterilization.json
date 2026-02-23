@@ -1,109 +1,245 @@
 {
-  "id": "eu-mdr-harmonised-standards-sterilization",
-  "title": {
-    "zh": "EU MDR 协调标准 — 灭菌与包装",
-    "en": "EU MDR Harmonised Standards — Sterilization and Packaging"
+  "category": "sterilization",
+  "category_name": {
+    "zh": "Mie Jun Yu Bao Zhuang",
+    "en": "Sterilization & Packaging"
   },
   "regulation": "eu_mdr",
-  "category": "standards",
-  "category_key": "sterilization",
-  "category_title": {
-    "zh": "灭菌与包装",
-    "en": "Sterilization and Packaging"
-  },
-  "gspr_primary": [
-    "GSPR 11"
-  ],
-  "basis": "Commission Implementing Decision (EU) 2021/1182 and amendments incl. CID 2024/815",
-  "source_url": "https://health.ec.europa.eu/medical-devices-topics-interest/harmonised-standards_en",
-  "source_url_verified": "2026-02-23",
+  "source": "Implementing Decision (EU) 2021/1182 (consolidated)",
+  "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
   "last_updated": "2026-02-23",
-  "contributor": "RASAAS",
-  "standards_count": 6,
-  "standards": [
+  "count": 21,
+  "entries": [
     {
-      "id": "hs-en-iso-11135-2014-a1-2019",
-      "number": "EN ISO 11135:2014+A1:2019",
-      "title": {
-        "zh": "医疗保健产品灭菌 — 环氧乙烷 — 灭菌过程的开发、确认和常规控制的要求",
-        "en": "Sterilization of health-care products — Ethylene oxide — Requirements for development, validation and routine control"
-      },
-      "gspr_reference": [
-        "GSPR 11"
-      ],
+      "id": "eu_mdr-hs-en-iso-11135-2014",
+      "number": "EN ISO 11135:2014",
+      "title": "Sterilization of health care products - Ethylene oxide - Requirements for the development, validation and routine control of a sterilization process for medical devices (ISO 11135:2014)",
+      "scope": "eu_mdr",
       "status": "active",
-      "publication_year": 2019,
-      "source_url": "https://www.iso.org/standard/56137.html"
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_verified": "2026-02-23",
+      "category": "sterilization",
+      "amendments": [
+        "EN ISO 11135:2014/A1:2019"
+      ]
     },
     {
-      "id": "hs-en-iso-11137-1-2015-a2-2019",
-      "number": "EN ISO 11137-1:2015+A2:2019",
-      "title": {
-        "zh": "医疗保健产品灭菌 — 辐射 — 第1部分：灭菌过程的开发、确认和常规控制的要求",
-        "en": "Sterilization of health-care products — Radiation — Part 1: Requirements for development, validation and routine control"
-      },
-      "gspr_reference": [
-        "GSPR 11"
-      ],
+      "id": "eu_mdr-hs-en-iso-11137-1-2015",
+      "number": "EN ISO 11137-1:2015",
+      "title": "Sterilization of health care products - Radiation - Part 1: Requirements for development, validation and routine control of a sterilization process for medical devices (ISO 11137-1:2006, including Amd 1:2013)",
+      "scope": "eu_mdr",
       "status": "active",
-      "publication_year": 2019,
-      "source_url": "https://www.iso.org/standard/62442.html"
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_verified": "2026-02-23",
+      "category": "sterilization",
+      "amendments": [
+        "EN ISO 11137-1:2015/A2:2019"
+      ]
     },
     {
-      "id": "hs-en-iso-11137-2-2015",
+      "id": "eu_mdr-hs-en-iso-11737-2-2020",
+      "number": "EN ISO 11737-2:2020",
+      "title": "Sterilization of health care products - Microbiological methods - Part 2: Tests of sterility performed in the definition, validation and maintenance of a sterilization process (ISO 11737-2:2019)",
+      "scope": "eu_mdr",
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_verified": "2026-02-23",
+      "category": "sterilization"
+    },
+    {
+      "id": "eu_mdr-hs-en-iso-25424-2019",
+      "number": "EN ISO 25424:2019",
+      "title": "Sterilisation of health care products - Low temperature steam and formaldehyde - Requirements for development, validation and routine control of a sterilisation process for medical devices (ISO 25424:2018)",
+      "scope": "eu_mdr",
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_verified": "2026-02-23",
+      "category": "sterilization",
+      "amendments": [
+        "EN ISO 25424:2019/A1:2022"
+      ]
+    },
+    {
+      "id": "eu_mdr-hs-en-iso-11737-1-2018",
+      "number": "EN ISO 11737-1:2018",
+      "title": "Sterilization of health care products - Microbiological methods - Part 1: Determination of a population of microorganisms on products (ISO 11737-1:2018)",
+      "scope": "eu_mdr",
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_verified": "2026-02-23",
+      "category": "sterilization",
+      "amendments": [
+        "EN ISO 11737-1:2018/A1:2021"
+      ]
+    },
+    {
+      "id": "eu_mdr-hs-en-iso-13408-6-2021",
+      "number": "EN ISO 13408-6:2021",
+      "title": "Aseptic processing of health care products - Part 6: Isolator systems (ISO 13408-6:2021)",
+      "scope": "eu_mdr",
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_verified": "2026-02-23",
+      "category": "sterilization"
+    },
+    {
+      "id": "eu_mdr-hs-en-iso-14160-2021",
+      "number": "EN ISO 14160:2021",
+      "title": "Sterilization of health care products - Liquid chemical sterilizing agents for single-use medical devices utilizing animal tissues and their derivatives - Requirements for characterization, development, validation and routine control of a sterilization process for medical devices (ISO 14160:2020)",
+      "scope": "eu_mdr",
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_verified": "2026-02-23",
+      "category": "sterilization"
+    },
+    {
+      "id": "eu_mdr-hs-en-285-2015+a1-2021",
+      "number": "EN 285:2015+A1:2021",
+      "title": "Sterilization - Steam sterilizers - Large sterilizers",
+      "scope": "eu_mdr",
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_verified": "2026-02-23",
+      "category": "sterilization"
+    },
+    {
+      "id": "eu_mdr-hs-en-iso-11137-2-2015",
       "number": "EN ISO 11137-2:2015",
-      "title": {
-        "zh": "医疗保健产品灭菌 — 辐射 — 第2部分：灭菌剂量的确定",
-        "en": "Sterilization of health-care products — Radiation — Part 2: Establishing the sterilization dose"
-      },
-      "gspr_reference": [
-        "GSPR 11"
-      ],
+      "title": "Sterilization of health care products - Radiation - Part 2: Establishing the sterilization dose (ISO 11137-2:2013)",
+      "scope": "eu_mdr",
       "status": "active",
-      "publication_year": 2015,
-      "source_url": "https://www.iso.org/standard/62443.html"
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_verified": "2026-02-23",
+      "category": "sterilization",
+      "amendments": [
+        "EN ISO 11137-2:2015/A1:2023"
+      ]
     },
     {
-      "id": "hs-en-iso-11607-1-2020",
+      "id": "eu_mdr-hs-en-iso-11607-1-2020",
       "number": "EN ISO 11607-1:2020",
-      "title": {
-        "zh": "终末灭菌医疗器械的包装 — 第1部分：材料、无菌屏障系统和包装系统的要求",
-        "en": "Packaging for terminally sterilized medical devices — Part 1: Requirements for materials, sterile barrier systems and packaging systems"
-      },
-      "gspr_reference": [
-        "GSPR 11"
-      ],
+      "title": "Packaging for terminally sterilized medical devices - Part 1: Requirements for materials, sterile barrier systems and packaging systems (ISO 11607-1:2019)",
+      "scope": "eu_mdr",
       "status": "active",
-      "publication_year": 2020,
-      "source_url": "https://www.iso.org/standard/74261.html"
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_verified": "2026-02-23",
+      "category": "sterilization",
+      "amendments": [
+        "EN ISO 11607-1:2020/A1:2023"
+      ]
     },
     {
-      "id": "hs-en-iso-11607-2-2020",
+      "id": "eu_mdr-hs-en-iso-11607-2-2020",
       "number": "EN ISO 11607-2:2020",
-      "title": {
-        "zh": "终末灭菌医疗器械的包装 — 第2部分：成型、密封和装配过程的确认要求",
-        "en": "Packaging for terminally sterilized medical devices — Part 2: Validation requirements for forming, sealing and assembly processes"
-      },
-      "gspr_reference": [
-        "GSPR 11"
-      ],
+      "title": "Packaging for terminally sterilized medical devices - Part 2: Validation requirements for forming, sealing and assembly processes (ISO 11607-2:2019)",
+      "scope": "eu_mdr",
       "status": "active",
-      "publication_year": 2020,
-      "source_url": "https://www.iso.org/standard/74262.html"
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_verified": "2026-02-23",
+      "category": "sterilization",
+      "amendments": [
+        "EN ISO 11607-2:2020/A1:2023"
+      ]
     },
     {
-      "id": "hs-en-iso-17665-1-2006-a1-2013",
-      "number": "EN ISO 17665-1:2006+A1:2013",
-      "title": {
-        "zh": "医疗保健产品灭菌 — 湿热 — 第1部分：灭菌过程的开发、确认和常规控制的要求",
-        "en": "Sterilization of health-care products — Moist heat — Part 1: Requirements for development, validation and routine control"
-      },
-      "gspr_reference": [
-        "GSPR 11"
-      ],
+      "id": "eu_mdr-hs-en-iso-13408-1-2024",
+      "number": "EN ISO 13408-1:2024",
+      "title": "Aseptic processing of health care products - Part 1: General requirements (ISO 13408-1:2023)",
+      "scope": "eu_mdr",
       "status": "active",
-      "publication_year": 2013,
-      "source_url": "https://www.iso.org/standard/45668.html"
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_verified": "2026-02-23",
+      "category": "sterilization"
+    },
+    {
+      "id": "eu_mdr-hs-en-556-1-2024",
+      "number": "EN 556-1:2024",
+      "title": "Sterilization of medical devices - Requirements for medical devices to be designated STERILE - Part 1: Requirements for terminally sterilized medical devices",
+      "scope": "eu_mdr",
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_verified": "2026-02-23",
+      "category": "sterilization"
+    },
+    {
+      "id": "eu_mdr-hs-en-556-2-2024",
+      "number": "EN 556-2:2024",
+      "title": "Sterilization of medical devices - Requirements for medical devices to be designated STERILE - Part 2: Requirements for aseptically processed medical devices",
+      "scope": "eu_mdr",
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_verified": "2026-02-23",
+      "category": "sterilization"
+    },
+    {
+      "id": "eu_mdr-hs-en-14180-2025",
+      "number": "EN 14180:2025",
+      "title": "Sterilizers for medical purposes - Low temperature steam and formaldehyde sterilizers - Requirements and testing",
+      "scope": "eu_mdr",
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_verified": "2026-02-23",
+      "category": "sterilization"
+    },
+    {
+      "id": "eu_mdr-hs-en-iso-7197-2024",
+      "number": "EN ISO 7197:2024",
+      "title": "Neurosurgical implants - Sterile, single-use hydrocephalus shunts and components (ISO 7197:2024)",
+      "scope": "eu_mdr",
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_verified": "2026-02-23",
+      "category": "sterilization"
+    },
+    {
+      "id": "eu_mdr-hs-en-iso-17665-2024",
+      "number": "EN ISO 17665:2024",
+      "title": "Sterilization of health care products - Moist heat - Requirements for the development, validation and routine control of a sterilization process for medical devices (ISO 17665:2024)",
+      "scope": "eu_mdr",
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_verified": "2026-02-23",
+      "category": "sterilization"
+    },
+    {
+      "id": "eu_mdr-hs-en-iso-18562-1-2024",
+      "number": "EN ISO 18562-1:2024",
+      "title": "Biocompatibility evaluation of breathing gas pathways in healthcare applications - Part 1: Evaluation and testing within a risk management process (ISO 18562-1:2024)",
+      "scope": "eu_mdr",
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_verified": "2026-02-23",
+      "category": "sterilization"
+    },
+    {
+      "id": "eu_mdr-hs-en-iso-18562-2-2024",
+      "number": "EN ISO 18562-2:2024",
+      "title": "Biocompatibility evaluation of breathing gas pathways in healthcare applications - Part 2: Tests for emissions of particulate matter (ISO 18562-2:2024)",
+      "scope": "eu_mdr",
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_verified": "2026-02-23",
+      "category": "sterilization"
+    },
+    {
+      "id": "eu_mdr-hs-en-iso-18562-3-2024",
+      "number": "EN ISO 18562-3:2024",
+      "title": "Biocompatibility evaluation of breathing gas pathways in healthcare applications - Part 3: Tests for emissions of volatile organic compounds (VOCs) (ISO 18562-3:2024)",
+      "scope": "eu_mdr",
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_verified": "2026-02-23",
+      "category": "sterilization"
+    },
+    {
+      "id": "eu_mdr-hs-en-iso-18562-4-2024",
+      "number": "EN ISO 18562-4:2024",
+      "title": "Biocompatibility evaluation of breathing gas pathways in healthcare applications - Part 4: Tests for leachables in condensate (ISO 18562-4:2024)",
+      "scope": "eu_mdr",
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_verified": "2026-02-23",
+      "category": "sterilization"
     }
   ]
 }

@@ -1,0 +1,44 @@
+{
+  "category": "surgical_implants",
+  "category_name": {
+    "zh": "Fei You Yuan Wai Ke Zhi Ru Wu",
+    "en": "Non-active Surgical Implants"
+  },
+  "regulation": "eu_mdr",
+  "source": "Implementing Decision (EU) 2021/1182 (consolidated)",
+  "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+  "last_updated": "2026-02-23",
+  "count": 3,
+  "entries": [
+    {
+      "id": "eu_mdr-hs-en-iso-14630-2024",
+      "number": "EN ISO 14630:2024",
+      "title": "Non-active surgical implants - General requirements (ISO 14630:2024)",
+      "scope": "eu_mdr",
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_verified": "2026-02-23",
+      "category": "surgical_implants"
+    },
+    {
+      "id": "eu_mdr-hs-en-iso-21535-2024",
+      "number": "EN ISO 21535:2024",
+      "title": "Non-active surgical implants - Joint replacement implants - Specific requirements for hip-joint replacement implants (ISO 21535:2024)",
+      "scope": "eu_mdr",
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_verified": "2026-02-23",
+      "category": "surgical_implants"
+    },
+    {
+      "id": "eu_mdr-hs-en-iso-21536-2024",
+      "number": "EN ISO 21536:2024",
+      "title": "Non-active surgical implants - Joint replacement implants - Specific requirements for knee-joint replacement implants (ISO 21536:2024)",
+      "scope": "eu_mdr",
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_verified": "2026-02-23",
+      "category": "surgical_implants"
+    }
+  ]
+}

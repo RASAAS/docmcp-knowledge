@@ -1,53 +1,24 @@
 {
-  "id": "eu-mdr-harmonised-standards-labelling",
-  "title": {
-    "zh": "EU MDR 协调标准 — 标签与说明书",
-    "en": "EU MDR Harmonised Standards — Labelling and Instructions for Use"
+  "category": "labelling",
+  "category_name": {
+    "zh": "Biao Qian Yu Shuo Ming Shu",
+    "en": "Labelling & Symbols"
   },
   "regulation": "eu_mdr",
-  "category": "standards",
-  "category_key": "labelling",
-  "category_title": {
-    "zh": "标签与说明书",
-    "en": "Labelling and Instructions for Use"
-  },
-  "gspr_primary": [
-    "GSPR 23"
-  ],
-  "basis": "Commission Implementing Decision (EU) 2021/1182 and amendments incl. CID 2024/815",
-  "source_url": "https://health.ec.europa.eu/medical-devices-topics-interest/harmonised-standards_en",
-  "source_url_verified": "2026-02-23",
+  "source": "Implementing Decision (EU) 2021/1182 (consolidated)",
+  "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
   "last_updated": "2026-02-23",
-  "contributor": "RASAAS",
-  "standards_count": 2,
-  "standards": [
+  "count": 1,
+  "entries": [
     {
-      "id": "hs-en-iso-15223-1-2021",
+      "id": "eu_mdr-hs-en-iso-15223-1-2021",
       "number": "EN ISO 15223-1:2021",
-      "title": {
-        "zh": "医疗器械 — 用于医疗器械标签、标记和提供信息的符号 — 第1部分：通用要求",
-        "en": "Medical devices — Symbols to be used with information to be supplied by the manufacturer — Part 1: General requirements"
-      },
-      "gspr_reference": [
-        "GSPR 23"
-      ],
+      "title": "Medical devices - Symbols to be used with information to be supplied by the manufacturer - Part 1: General requirements (ISO 15223-1:2021)",
+      "scope": "eu_mdr",
       "status": "active",
-      "publication_year": 2021,
-      "source_url": "https://www.iso.org/standard/77326.html"
-    },
-    {
-      "id": "hs-en-iso-20417-2021",
-      "number": "EN ISO 20417:2021",
-      "title": {
-        "zh": "医疗器械 — 制造商提供的信息",
-        "en": "Medical devices — Information to be supplied by the manufacturer"
-      },
-      "gspr_reference": [
-        "GSPR 23"
-      ],
-      "status": "active",
-      "publication_year": 2021,
-      "source_url": "https://www.iso.org/standard/67965.html"
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_verified": "2026-02-23",
+      "category": "labelling"
     }
   ]
 }

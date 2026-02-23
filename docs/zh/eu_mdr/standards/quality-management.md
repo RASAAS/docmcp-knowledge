@@ -37,9 +37,9 @@ category: Quality Management
 
 ## 相关页面
 
-- [附件I — GSPR](/eu_mdr/regulations/annex-i-gspr)
-- [第52条 — 合规评估程序](/eu_mdr/regulations/art-52-conformity-assessment)
-- [协调标准 — 风险管理](/eu_mdr/standards/risk-management)
+- [附件I — GSPR](../regulations/annex-i-gspr)
+- [第52条 — 合规评估程序](../regulations/art-52-conformity-assessment)
+- [协调标准 — 风险管理](./risk-management)
 
 ## 数据层源文件
 

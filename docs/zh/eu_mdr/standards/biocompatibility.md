@@ -36,8 +36,8 @@ EU MDR 下，**化学表征优先**：先进行毒理学风险评估（TRA），
 
 ## 相关页面
 
-- [附件I — GSPR](/eu_mdr/regulations/annex-i-gspr)
-- [协调标准 — 灭菌与包装](/eu_mdr/standards/sterilization)
+- [附件I — GSPR](../regulations/annex-i-gspr)
+- [协调标准 — 灭菌与包装](./sterilization)
 
 ## 数据层源文件
 

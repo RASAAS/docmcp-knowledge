@@ -1,130 +1,115 @@
 {
   "directory": "eu_mdr/standards",
-  "title": {
-    "zh": "EU MDR/IVDR 协调标准",
-    "en": "EU MDR/IVDR Harmonised Standards"
-  },
-  "description": {
-    "zh": "欧盟医疗器械法规（EU MDR 2017/745）协调标准，按类别分文件存储。基于欧盟委员会实施决定 CID 2021/1182 及后续修正案（含 CID 2024/815）。",
-    "en": "Harmonised standards for EU MDR 2017/745, stored per category. Based on Commission Implementing Decision CID 2021/1182 and subsequent amendments including CID 2024/815."
-  },
+  "description": "EU MDR Harmonised Standards (Implementing Decision 2021/1182)",
+  "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+  "latest_amendment": "2026/193",
+  "latest_amendment_url": "https://eur-lex.europa.eu/eli/dec_impl/2026/193/oj",
   "last_updated": "2026-02-23",
-  "total_standards": 34,
-  "official_sources": [
-    {
-      "name": "EC Health — Harmonised Standards",
-      "url": "https://health.ec.europa.eu/medical-devices-topics-interest/harmonised-standards_en"
-    },
-    {
-      "name": "CID (EU) 2021/1182",
-      "url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182/oj"
-    },
-    {
-      "name": "CID (EU) 2024/815",
-      "url": "https://eur-lex.europa.eu/eli/dec_impl/2024/815/oj"
-    }
-  ],
-  "categories": [
-    {
-      "category_key": "quality_management",
-      "file": "standards-quality_management.json",
-      "title": {
-        "zh": "质量管理",
-        "en": "Quality Management"
-      },
-      "gspr_primary": [
-        "Annex IX",
-        "Annex XI"
-      ],
-      "standards_count": 1
-    },
-    {
-      "category_key": "risk_management",
-      "file": "standards-risk_management.json",
-      "title": {
-        "zh": "风险管理",
-        "en": "Risk Management"
-      },
-      "gspr_primary": [
-        "GSPR 1",
-        "GSPR 2",
-        "GSPR 3"
-      ],
-      "standards_count": 2
-    },
-    {
-      "category_key": "software",
-      "file": "standards-software.json",
-      "title": {
-        "zh": "软件与可用性",
-        "en": "Software and Usability"
-      },
-      "gspr_primary": [
-        "GSPR 5",
-        "GSPR 17"
-      ],
-      "standards_count": 2
-    },
-    {
-      "category_key": "biocompatibility",
-      "file": "standards-biocompatibility.json",
-      "title": {
-        "zh": "生物相容性",
+  "total_standards": 48,
+  "categories": {
+    "biocompatibility": {
+      "name": {
+        "zh": "Sheng Wu Xiang Rong Xing",
         "en": "Biocompatibility"
       },
-      "gspr_primary": [
-        "GSPR 10"
-      ],
-      "standards_count": 14
+      "count": 9,
+      "file": "standards-biocompatibility.json"
     },
-    {
-      "category_key": "electrical_safety",
-      "file": "standards-electrical_safety.json",
-      "title": {
-        "zh": "电气安全与电磁兼容",
-        "en": "Electrical Safety and EMC"
+    "clinical_investigation": {
+      "name": {
+        "zh": "Lin Chuang Diao Cha",
+        "en": "Clinical Investigation"
       },
-      "gspr_primary": [
-        "GSPR 9",
-        "GSPR 14"
-      ],
-      "standards_count": 6
+      "count": 1,
+      "file": "standards-clinical_investigation.json"
     },
-    {
-      "category_key": "sterilization",
-      "file": "standards-sterilization.json",
-      "title": {
-        "zh": "灭菌与包装",
-        "en": "Sterilization and Packaging"
+    "connectors": {
+      "name": {
+        "zh": "Xiao Kou Jing Lian Jie Qi",
+        "en": "Small-bore Connectors"
       },
-      "gspr_primary": [
-        "GSPR 11"
-      ],
-      "standards_count": 6
+      "count": 1,
+      "file": "standards-connectors.json"
     },
-    {
-      "category_key": "clinical_investigation",
-      "file": "standards-clinical_investigation.json",
-      "title": {
-        "zh": "临床评价与临床调查",
-        "en": "Clinical Evaluation and Clinical Investigation"
+    "electrical_safety": {
+      "name": {
+        "zh": "Dian Qi An Quan Yu EMC",
+        "en": "Electrical Safety & EMC"
       },
-      "gspr_primary": [
-        "GSPR 1"
-      ],
-      "standards_count": 1
+      "count": 1,
+      "file": "standards-electrical_safety.json"
     },
-    {
-      "category_key": "labelling",
-      "file": "standards-labelling.json",
-      "title": {
-        "zh": "标签与说明书",
-        "en": "Labelling and Instructions for Use"
+    "labelling": {
+      "name": {
+        "zh": "Biao Qian Yu Shuo Ming Shu",
+        "en": "Labelling & Symbols"
       },
-      "gspr_primary": [
-        "GSPR 23"
-      ],
-      "standards_count": 2
+      "count": 1,
+      "file": "standards-labelling.json"
+    },
+    "medical_gloves": {
+      "name": {
+        "zh": "Yi Yong Shou Tao",
+        "en": "Medical Gloves"
+      },
+      "count": 2,
+      "file": "standards-medical_gloves.json"
+    },
+    "patient_handling": {
+      "name": {
+        "zh": "Huan Zhe Ban Yun She Bei",
+        "en": "Patient Handling Equipment"
+      },
+      "count": 2,
+      "file": "standards-patient_handling.json"
+    },
+    "processing": {
+      "name": {
+        "zh": "Qi Xie Chu Li Yu Zai Chu Li",
+        "en": "Device Processing & Reprocessing"
+      },
+      "count": 2,
+      "file": "standards-processing.json"
+    },
+    "quality_management": {
+      "name": {
+        "zh": "Quality Management / Zhi Liang Guan Li",
+        "en": "Quality Management"
+      },
+      "count": 1,
+      "file": "standards-quality_management.json"
+    },
+    "risk_management": {
+      "name": {
+        "zh": "Feng Xian Guan Li",
+        "en": "Risk Management"
+      },
+      "count": 1,
+      "file": "standards-risk_management.json"
+    },
+    "sterilization": {
+      "name": {
+        "zh": "Mie Jun Yu Bao Zhuang",
+        "en": "Sterilization & Packaging"
+      },
+      "count": 21,
+      "file": "standards-sterilization.json"
+    },
+    "surgical_implants": {
+      "name": {
+        "zh": "Fei You Yuan Wai Ke Zhi Ru Wu",
+        "en": "Non-active Surgical Implants"
+      },
+      "count": 3,
+      "file": "standards-surgical_implants.json"
+    },
+    "surgical_textiles": {
+      "name": {
+        "zh": "Shou Shu Yi Wu Yu Kou Zhao",
+        "en": "Surgical Textiles & Masks"
+      },
+      "count": 3,
+      "file": "standards-surgical_textiles.json"
     }
-  ]
+  }
 }

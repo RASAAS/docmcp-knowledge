@@ -7,6 +7,11 @@ annex: Annex III
 
 # 附件III — 上市后监督（PMS）技术文件
 
+::: warning DRAFT - Dai Yan Zheng
+Ben Ye Nei Rong Ji Yu Xun Lian Shu Ju Sheng Cheng, Shang Wei Dui Zhao EUR-Lex Guan Fang Wen Ben Zhu Yi Yan Zheng.
+Qing Yi Guan Fang Fa Gui Wen Ben Wei Zhun: [EUR-Lex: EU MDR 2017/745](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0745)
+:::
+
 **来源**：[EU MDR 2017/745 Annex III](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0745) | OJ L 117, 5.5.2017
 
 ## PMS文件体系
@@ -56,8 +61,8 @@ PMS数据须反馈至：
 
 ## 相关页面
 
-- [附件II — 技术文件](/eu_mdr/regulations/annex-ii-technical-documentation)
-- [附件XIV — 临床评价](/eu_mdr/regulations/annex-xiv-clinical-evaluation)
+- [附件II — 技术文件](./annex-ii-technical-documentation)
+- [附件XIV — 临床评价](./annex-xiv-clinical-evaluation)
 
 ## 官方来源
 

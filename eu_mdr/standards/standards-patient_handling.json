@@ -1,0 +1,34 @@
+{
+  "category": "patient_handling",
+  "category_name": {
+    "zh": "Huan Zhe Ban Yun She Bei",
+    "en": "Patient Handling Equipment"
+  },
+  "regulation": "eu_mdr",
+  "source": "Implementing Decision (EU) 2021/1182 (consolidated)",
+  "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+  "last_updated": "2026-02-23",
+  "count": 2,
+  "entries": [
+    {
+      "id": "eu_mdr-hs-en-1865-2-2024",
+      "number": "EN 1865-2:2024",
+      "title": "Patient handling equipment used in ambulances - Part 2: Power assisted stretcher",
+      "scope": "eu_mdr",
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_verified": "2026-02-23",
+      "category": "patient_handling"
+    },
+    {
+      "id": "eu_mdr-hs-en-1865-6-2024",
+      "number": "EN 1865-6:2024",
+      "title": "Patient handling equipment used in ambulances - Part 6: Powered chairs",
+      "scope": "eu_mdr",
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_verified": "2026-02-23",
+      "category": "patient_handling"
+    }
+  ]
+}
