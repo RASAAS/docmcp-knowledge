@@ -50,6 +50,7 @@ export default defineConfig({
           { text: 'FDA', link: '/en/fda/' },
           { text: 'NMPA', link: '/en/nmpa/' },
           { text: 'Standards', link: '/en/shared/standards' },
+          { text: 'Insights', link: '/en/insights/' },
         ],
         sidebar: {
           '/en/eu_mdr/': [
@@ -71,6 +72,13 @@ export default defineConfig({
             { text: 'GB/YY Standards', link: '/en/nmpa/standards' },
             { text: 'Guidance Principles', link: '/en/nmpa/guidance' },
             { text: 'Classification', link: '/en/nmpa/classification' },
+          ],
+          '/en/insights/': [
+            { text: 'Insights Home', link: '/en/insights/' },
+            { text: 'Regulatory Analysis', link: '/en/insights/analysis' },
+            { text: 'NMPA Updates', link: '/en/insights/nmpa-updates' },
+            { text: 'EU MDR Updates', link: '/en/insights/eu-mdr-updates' },
+            { text: 'FDA Updates', link: '/en/insights/fda-updates' },
           ],
         },
         socialLinks: [

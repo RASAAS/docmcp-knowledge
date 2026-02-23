@@ -12,6 +12,9 @@ hero:
       text: 浏览 NMPA
       link: /zh/nmpa/
     - theme: alt
+      text: 法规解读
+      link: /zh/insights/
+    - theme: alt
       text: GitHub
       link: https://github.com/RASAAS/docmcp-knowledge
 features:
@@ -23,6 +26,8 @@ features:
     details: 中国法规、GB/YY 标准、按器械分类组织的注册审查指导原则
   - title: 国际标准
     details: 适用于多个法规体系的 ISO/IEC 标准（ISO 14971、IEC 62304 等）
+  - title: 法规解读
+    details: NMPA、EU MDR、FDA 法规动态解读、合规策略分析、标准解读
 ---
 
 ## 关于本知识库
