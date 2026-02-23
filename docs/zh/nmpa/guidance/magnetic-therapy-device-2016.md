@@ -452,4 +452,4 @@ YY 0505—2012| 《医用电气设备 第1-2部分：安全通用要求 并列�
 
 [1] [2022-12-23，该类别产品中经颅磁刺激仪(TMS)已调整为III类](<https://www.cmde.org.cn/flfg/zdyz/flmlbzh/flmlylqx/20221223205629125.html>)：
 
-![](/assets/images/nmpa-guidance/image-63-1024x763.png)
+![](/images/nmpa-guidance/image-63-1024x763.png)

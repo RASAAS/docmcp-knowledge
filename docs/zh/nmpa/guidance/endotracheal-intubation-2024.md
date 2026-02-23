@@ -70,11 +70,11 @@ effective_date: '2025-04-19'
 
 产品常用材料有硅橡胶、聚氯乙烯（PVC）等，可分为无套囊型和有套囊型。无套囊型产品一般由管体和接头组成。有套囊型产品一般由管体、接头、套囊、充气管、指示气囊和单向阀组成。产品常见外形结构见图1（有囊常用型气管插管）、图2（无囊常用型气管插管）。
 
-![](/assets/images/nmpa-guidance/image-31.png)
+![](/images/nmpa-guidance/image-31.png)
 
 图1 有囊常用型气管插管
 
-![](/assets/images/nmpa-guidance/Endotracheal-intubation.jpg)
+![](/images/nmpa-guidance/Endotracheal-intubation.jpg)
 
 图2 无囊常用型气管插管
 

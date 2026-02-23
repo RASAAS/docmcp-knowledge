@@ -266,6 +266,8 @@ def sync_content_to_docs(section_key: str, entries: List[dict], repo_root: Path,
             synced += 1
             continue
         content = src_file.read_text(encoding="utf-8")
+        # Rewrite image paths: /assets/images/ -> /images/ (VitePress public dir)
+        content = content.replace("](/assets/images/", "](/images/")
         dest_file.write_text(content, encoding="utf-8")
         synced += 1
     return synced

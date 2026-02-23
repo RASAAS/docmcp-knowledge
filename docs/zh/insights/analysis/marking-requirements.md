@@ -39,7 +39,7 @@ excerpt:
   6. 在相关连接点附近，标记其他电气设备的制造商名称或商标，以及该规定设备的型号或类型参考号
   7. 在相关连接点附近标记ISO7010-M002的安全标志（见下图），并在使用说明书中列出详细要求
 
-![](/assets/images/insights-analysis/Read-IFU_IEC-60601-1.ED3_.png)
+![](/images/insights-analysis/Read-IFU_IEC-60601-1.ED3_.png)
 
   8. 使用通常市场上不能购得的特殊规格连接器，并在使用说明书中列出详细要求。
 
@@ -48,40 +48,40 @@ excerpt:
   9. 可能连接的额定供电电压或额定电压范围。额定供电电压范围应用连字符(~)连接最小和最大电压。当有多个额定供电电压或额定供电电压范围给出时,它们应用斜线分隔符(/)来分隔
   10. 供电方式，例如相数(单相供电除外)和电流类型（见下图）
 
-![](/assets/images/insights-analysis/交流电.png)
+![](/images/insights-analysis/交流电.png)
 
-![](/assets/images/insights-analysis/三相交流电.png)
+![](/images/insights-analysis/三相交流电.png)
 
-![](/assets/images/insights-analysis/带中性线的三相交流电.png)
+![](/images/insights-analysis/带中性线的三相交流电.png)
 
-![](/assets/images/insights-analysis/直流电.png)
+![](/images/insights-analysis/直流电.png)
 
-![](/assets/images/insights-analysis/交直流电.png)
+![](/images/insights-analysis/交直流电.png)
 
   11. 用赫兹表示的额定供电频率或额定频率范围（中国供电网额定频率为50Hz）
   12. 对于Ⅱ类ME设备，用GB/T5465.2中5172的符号（见下图）
 
-![](/assets/images/insights-analysis/II类设备.png)
+![](/images/insights-analysis/II类设备.png)
 
   13. 应用部分：即，B型应用部分、BF型应用部、或CF型应用部分。如适用，防除颤应用部分。
 
-![](/assets/images/insights-analysis/Type-B-applied-part.png)
+![](/images/insights-analysis/Type-B-applied-part.png)
 
-![](/assets/images/insights-analysis/Type-BF-applied-part.png)
+![](/images/insights-analysis/Type-BF-applied-part.png)
 
-![](/assets/images/insights-analysis/Type-CF-applied-part.png)
+![](/images/insights-analysis/Type-CF-applied-part.png)
 
-![](/assets/images/insights-analysis/Defibrillation-proof-Type-B-applied-part.png)
+![](/images/insights-analysis/Defibrillation-proof-Type-B-applied-part.png)
 
-![](/assets/images/insights-analysis/Defibrillation-proof-Type-BF-applied-part.png)
+![](/images/insights-analysis/Defibrillation-proof-Type-BF-applied-part.png)
 
-![](/assets/images/insights-analysis/Defibrillation-proof-Type-CF-applied-part.png)
+![](/images/insights-analysis/Defibrillation-proof-Type-CF-applied-part.png)
 
 _相关符号应标记在应用部分的连接器上或邻近处，除非没有连接器,这种情况的标记应在应用部分上；或一个连接器可以连接一个以上应用部分，而且应用部分有不同分类，这种情况每一个应用部分应标记相关的符号。_
 
   14. 如果患者电缆具有对心脏除颤器放电效应的防护，则应在靠近相关输出端标记安全标志（见下图）。使用说明书应有ME设备对心脏除颤器放电效应的防护取决于使用适当电缆的说明。
 
-![](/assets/images/insights-analysis/warning_colorful.png)
+![](/images/insights-analysis/warning_colorful.png)
 
   15. 生理效应(安全标志和警告说明)：ME设备产生的生理效应对操作者是不明显的，且能够对患者或操作者造成伤害的，应具有适合的安全标志。
 
@@ -89,7 +89,7 @@ _安全标志应出现在显著位置，使其在ME设备正确安装后的正�
 
   16. 预期一次性使用的任何材料、元器件、附件或ME设备，在其或其包装上应标记“仅一次性使用”，“不能重复使用”或以下符号。
 
-![](/assets/images/insights-analysis/single-use.png)
+![](/images/insights-analysis/single-use.png)
 
 **其他要求（[医疗器械说明书和标签管理规定](<https://reguverse.com/documentation/nmpa-regulations-index/general/nmpa-order-6/>)）**：
 

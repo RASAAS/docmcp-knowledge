@@ -52,8 +52,8 @@ excerpt:
 
 ## 网络安全流程图
 
-![](/assets/images/insights-analysis/cybersecurity-workflow-diagram-771x1024.png)
+![](/images/insights-analysis/cybersecurity-workflow-diagram-771x1024.png)
 
 ## 网络安全风险管理与ISO 14971的关系
 
-![](/assets/images/insights-analysis/cybersec-and-iso14971-diagram-997x1024.png)
+![](/images/insights-analysis/cybersec-and-iso14971-diagram-997x1024.png)

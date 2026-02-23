@@ -34,7 +34,7 @@ effective_date: '2025-02-14'
 
 根据[法规要求](<https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/>)准备注册申报资料，进口（含港澳台）II、III 类器械，以及国产 III 类器械需提交国家药品监督管理局([NMPA](<https://www.nmpa.gov.cn/>))医疗器械技术审评中心([CMDE](<https://www.cmde.org.cn/index.html>))进行注册申报。申报及审评流程、时限如下：
 
-![](/assets/images/_shared-steps-and-timeline.zh.md/NMPA-workflow-and-timeline_CHN-1024x576.png)
+![](/images/_shared-steps-and-timeline.zh.md/NMPA-workflow-and-timeline_CHN-1024x576.png)
 
 # **Registration Process and Timeline**
 
@@ -50,7 +50,7 @@ Confirm test samples based on product characteristics and performance, develop p
 
 Prepare registration documents according to regulatory requirements. For Class II and III imported devices (including Hong Kong, Macau and Taiwan) and domestic Class III devices, submissions must be made to the Center for Medical Device Evaluation (CMDE) of National Medical Products Administration (NMPA) for registration review. The submission and review process and timeline are as follows:
 
-![](/assets/images/_shared-steps-and-timeline.zh.md/NMPA-workflow-and-timeline.png)
+![](/images/_shared-steps-and-timeline.zh.md/NMPA-workflow-and-timeline.png)
 
 注：其他注册类型（变更、延续等）注册周期可能缩短。注册时限同时取决于补充资料的相关要求及复杂程度（补充资料需在补充资料发出后一年内提交）。
 

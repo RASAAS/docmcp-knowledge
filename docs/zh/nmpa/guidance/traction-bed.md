@@ -80,21 +80,21 @@ effective_date: '2025-09-13'
 
 电动牵引床通常由控制系统（控制器和控制软件）、牵引动力系统（电机、传动机构、牵引绳）、患者固定系统（肋部固定带、髋部固定带、头颈部固定带、固定架等）和牵引床体等组成。常见产品结构示意图见图1至3。
 
-![](/assets/images/nmpa-guidance/image.gif)
+![](/images/nmpa-guidance/image.gif)
 
 图1 水平牵引的牵引床
 
-![](/assets/images/nmpa-guidance/image-1.gif)
+![](/images/nmpa-guidance/image-1.gif)
 
 图2 具有角度牵引的牵引床
 
-![](/assets/images/nmpa-guidance/image-2.jpeg)
+![](/images/nmpa-guidance/image-2.jpeg)
 
 图3 牵引绳将牵引力传递给固定带的牵引床
 
 手动牵引床产品通常由牵引动力系统（手轮、传动机构、牵引绳、牵引力指示装置）、患者固定系统（肋部固定带、髋部固定带、头颈部固定带、固定架等）和牵引床体等组成。常见产品结构示意图见图4。
 
-![](/assets/images/nmpa-guidance/image-2.gif)
+![](/images/nmpa-guidance/image-2.gif)
 
 图4 手动牵引床产品示意图
 

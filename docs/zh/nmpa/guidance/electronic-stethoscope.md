@@ -75,11 +75,11 @@ effective_date: '2025-09-13'
 
 电子听诊器通常由拾音器、信号处理模块、耳机、数据处理软件（如有）。电子听诊器的内嵌软件功能可包括听诊模式选择（如心肺音听诊模式、心脏听诊模式、其他脏器音听诊模式等）、音量大小调节等。若产品含有通过蓝牙等方式与电子听诊器进行音频数据传输的应用软件，应在结构组成中明确说明。常见产品示意图如图1、图2所示。
 
-![](/assets/images/nmpa-guidance/image.jpeg)
+![](/images/nmpa-guidance/image.jpeg)
 
 图1 配有耳机的电子听诊器
 
-![](/assets/images/nmpa-guidance/image-1.jpeg)
+![](/images/nmpa-guidance/image-1.jpeg)
 
 图2 具有传统听诊器外形的电子听诊器
 

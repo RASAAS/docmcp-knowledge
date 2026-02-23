@@ -30,27 +30,27 @@ effective_date: '2025-08-11'
 
 双击**.nbib** 文件，此时PubMed中检索到的全部文献将会自动导入到当前已创建的项目中。在左侧My Groups中创建一个组，命名为PubMed #1，将本次导入的文献全选并拖入。
 
-![](/assets/images/eu_mdr-mdcg/image-1024x498.png) ![](/assets/images/eu_mdr-mdcg/image-1-1024x500.png)
+![](/images/eu_mdr-mdcg/image-1024x498.png) ![](/images/eu_mdr-mdcg/image-1-1024x500.png)
 
 完成PubMed文献导入后双击**.ris** 文件，此时Embase中检索到的全部文献将会自动导入到当前已创建的项目中。在左侧My Groups中创建另一个组，命名为Embase #2，将本次导入的文献全选并拖入。
 
-![](/assets/images/eu_mdr-mdcg/image-2-1024x459.png) ![](/assets/images/eu_mdr-mdcg/image-3-1024x479.png)
+![](/images/eu_mdr-mdcg/image-2-1024x459.png) ![](/images/eu_mdr-mdcg/image-3-1024x479.png)
 
 ## 去重
 
 顶部菜单中选择 References -> Find Duplicates，在弹出的窗口中确认重复文献并保留其中的一篇。
 
-![](/assets/images/eu_mdr-mdcg/image-6-1024x586.png)
+![](/images/eu_mdr-mdcg/image-6-1024x586.png)
 
 ## 导出
 
 完成所有重复文献去重后，选择全部文献，之后在顶部菜单中选择 File -> Export，保存类型选择 **Text File（*.txt）** 按照**作者+标题+摘要** 的形式进行结构化导出，以便于后续使用AI工具进行筛选。
 
-![](/assets/images/eu_mdr-mdcg/image-7-1024x743.png)
+![](/images/eu_mdr-mdcg/image-7-1024x743.png)
 
 使用记事本打开导出的**.txt** 文件，可以看到全部文献（以**作者+标题+摘要** 的形式）的清单。
 
-![](/assets/images/eu_mdr-mdcg/image-8-1024x909.png)
+![](/images/eu_mdr-mdcg/image-8-1024x909.png)
 
 注：使用上述导出格式需要在Endnote中新建一个Output Style。在关于此样式(About this style)中将其进行命名，例如：导出作者-年份-标题-摘要，之后根据需要进行其他设置。
 

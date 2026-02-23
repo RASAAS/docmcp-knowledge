@@ -76,7 +76,7 @@ effective_date: '2025-09-17'
 
 （3）火焰原子化模块：可包含喷雾器、雾化室、燃烧器等。液体样本经毛细管吸入到喷雾器中，高速流动的助燃气（常为压缩空气）在喷雾器出口处形成负压，将样本雾化。生成的气溶胶与助燃气共同进入到雾化室，在雾化室内与燃气（常为乙炔）混合，混合均匀后进入到燃烧器，从燃烧头（常为一狭长的缝）喷出并点燃，实现样本的原子化。见图1。雾化效果与检测准确度密切相关。
 
-![](/assets/images/nmpa-guidance/image-16-2.png)
+![](/images/nmpa-guidance/image-16-2.png)
 
 图1 火焰原子化模块工作原理示意图
 
@@ -104,7 +104,7 @@ effective_date: '2025-09-17'
 
 应详细写明通过研究确定的关键组件信息。
 
-![](/assets/images/nmpa-guidance/image-17-1.png)
+![](/images/nmpa-guidance/image-17-1.png)
 
 图2  ICP-MS结构组成示意图
 

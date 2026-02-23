@@ -66,7 +66,7 @@ effective_date: '2025-09-17'
 
 一次性使用鼻镜通常由左片、右片、销（螺钉）、弹簧组成，无菌提供。根据产品实际情况提供产品的结构示意图，结合结构示意图对产品的结构组成进行详尽描述。描述的内容包括结构、尺寸、材料等。
 
-![](/assets/images/nmpa-guidance/image-18-1.png)
+![](/images/nmpa-guidance/image-18-1.png)
 
 3.原材料
 

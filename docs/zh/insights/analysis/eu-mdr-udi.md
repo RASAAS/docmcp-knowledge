@@ -72,7 +72,7 @@ excerpt:
   * 在输入框中，输入刚才组合的字符串：69512345ModelA
   * 点击计算。工具会自动生成**两位** 校验码。请准确记录下来（例如，本示例中工具生成了 EJ）。
 
-![](/assets/images/insights-analysis/image-1024x410.png)
+![](/images/insights-analysis/image-1024x410.png)
 
 **形成并记录完整的Basic UDI-DI：**
 
@@ -96,7 +96,7 @@ excerpt:
 
 例如，695123450006 的校验位是1。
 
-![](/assets/images/insights-analysis/image-1-1024x361.png)
+![](/images/insights-analysis/image-1-1024x361.png)
 
 **形成完整的UDI-DI (GTIN)：**
 
