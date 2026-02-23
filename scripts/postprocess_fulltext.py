@@ -171,6 +171,101 @@ def reformat_footnotes(content: str) -> tuple[str, int]:
     return '\n'.join(new_lines) + '\n'.join(fn_block), len(footnotes)
 
 
+# ── repeated-column table cleanup ────────────────────────────────────────────
+
+def parse_table_row(line: str) -> list[str]:
+    """Parse a Markdown table row into a list of cell strings."""
+    # Strip leading/trailing | and split
+    stripped = line.strip()
+    if stripped.startswith('|'):
+        stripped = stripped[1:]
+    if stripped.endswith('|'):
+        stripped = stripped[:-1]
+    return [c.strip() for c in stripped.split('|')]
+
+
+def is_separator_row(line: str) -> bool:
+    """Return True if this is a Markdown table separator row (---|---|...)."""
+    return bool(re.match(r'^\|?[\s\-:]+(\|[\s\-:]+)+\|?$', line.strip()))
+
+
+def deduplicate_table_columns(content: str) -> tuple[str, int]:
+    """
+    Fix tables where docling expanded merged cells by repeating content across columns.
+
+    Strategy: process row by row within each table.
+    - If ALL non-empty cells in a row are identical (merged-cell row), collapse to 1 cell
+      and render as a bold heading row: | **content** |
+    - Otherwise keep the row as-is.
+
+    Only applies to tables with >= 3 columns where at least one row has all-identical cells.
+    """
+    lines = content.split('\n')
+    blocks = split_into_table_blocks(lines)
+    fixed = 0
+    out_blocks = []
+
+    for btype, blines in blocks:
+        if btype != 'table':
+            out_blocks.append((btype, blines))
+            continue
+
+        # Determine column count from first non-separator row
+        data_rows = [l for l in blines if l.strip() and not is_separator_row(l)]
+        if not data_rows:
+            out_blocks.append((btype, blines))
+            continue
+
+        col_count = len(parse_table_row(data_rows[0]))
+        if col_count < 3:
+            out_blocks.append((btype, blines))
+            continue
+
+        # Check if any row has all-identical non-empty cells (merged-cell indicator)
+        has_merged = False
+        for row in data_rows:
+            cells = parse_table_row(row)
+            non_empty = [c for c in cells if c.strip()]
+            if len(non_empty) >= 2 and len(set(non_empty)) == 1:
+                has_merged = True
+                break
+
+        if not has_merged:
+            out_blocks.append((btype, blines))
+            continue
+
+        # Rebuild: collapse all-identical rows to a single bold heading cell
+        new_blines = []
+        separator_written = False
+        for line in blines:
+            if not line.strip():
+                new_blines.append(line)
+                continue
+            if is_separator_row(line):
+                if not separator_written:
+                    new_blines.append('| ' + ' | '.join(['---'] * col_count) + ' |')
+                    separator_written = True
+                continue
+            cells = parse_table_row(line)
+            non_empty = [c for c in cells if c.strip()]
+            if len(non_empty) >= 2 and len(set(non_empty)) == 1:
+                # All non-empty cells identical → merged-cell row → bold heading spanning all cols
+                merged_text = non_empty[0]
+                # Pad to col_count with empty cells after the bold heading
+                padded = [f'**{merged_text}**'] + [''] * (col_count - 1)
+                new_blines.append('| ' + ' | '.join(padded) + ' |')
+            else:
+                # Normal row: keep as-is, pad to col_count if needed
+                while len(cells) < col_count:
+                    cells.append('')
+                new_blines.append('| ' + ' | '.join(cells[:col_count]) + ' |')
+
+        out_blocks.append((btype, new_blines))
+        fixed += 1
+
+    return '\n'.join(line for (_t, block) in out_blocks for line in block), fixed
+
+
 # ── duplicate header deduplication ───────────────────────────────────────────
 
 def deduplicate_headers(content: str) -> str:
@@ -219,6 +314,7 @@ def process_file(path: Path, dry_run: bool) -> dict:
 
     content, toc_removed = remove_toc_tables(content)
     content, fn_count = reformat_footnotes(content)
+    content, dup_cols_fixed = deduplicate_table_columns(content)
     content = deduplicate_headers(content)
     content = collapse_blank_lines(content)
 
@@ -226,6 +322,7 @@ def process_file(path: Path, dry_run: bool) -> dict:
     stats = {
         'toc_removed': toc_removed,
         'footnotes': fn_count,
+        'dup_cols_fixed': dup_cols_fixed,
         'changed': changed,
     }
 
@@ -248,6 +345,7 @@ def main():
 
     total_toc = 0
     total_fn = 0
+    total_dup = 0
     changed_count = 0
 
     for path in files:
@@ -256,13 +354,16 @@ def main():
         if stats['changed']:
             changed_count += 1
             print(f"{prefix} {path.name}: removed {stats['toc_removed']} TOC table(s), "
-                  f"reformatted {stats['footnotes']} footnote(s)")
+                  f"reformatted {stats['footnotes']} footnote(s), "
+                  f"fixed {stats['dup_cols_fixed']} dup-col table(s)")
         total_toc += stats['toc_removed']
         total_fn += stats['footnotes']
+        total_dup += stats['dup_cols_fixed']
 
     mode = 'DRY RUN' if args.dry_run else 'DONE'
     print(f"\n{mode}: {changed_count}/{len(files)} files changed, "
-          f"{total_toc} TOC tables removed, {total_fn} footnotes reformatted")
+          f"{total_toc} TOC tables removed, {total_fn} footnotes reformatted, "
+          f"{total_dup} dup-col tables fixed")
 
 
 if __name__ == '__main__':
