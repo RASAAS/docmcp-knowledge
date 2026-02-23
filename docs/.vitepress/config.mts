@@ -42,6 +42,7 @@ export default defineConfig({
     root: {
       label: 'English',
       lang: 'en',
+      link: '/en/',
       themeConfig: {
         nav: [
           { text: 'Home', link: '/' },
@@ -109,6 +110,6 @@ export default defineConfig({
   },
 
   themeConfig: {
-    logo: { light: '/logo.png', dark: '/logo.png', alt: 'DocMCP' },
+    logo: { light: '/logo.png', dark: '/logo-dark.png', alt: 'DocMCP' },
   }
 })
