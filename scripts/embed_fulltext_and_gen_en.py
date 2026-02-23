@@ -424,8 +424,6 @@ def embed_fulltext_in_zh(doc_id: str, zh_file: Path, fulltext: str, dry_run: boo
 
 ## 官方文件全文
 
-> 以下为官方英文原文，由 [docling](https://github.com/DS4SD/docling) 自动转换自官方 PDF。
-
 {fulltext}
 
 {FULLTEXT_END_MARKER}
@@ -519,8 +517,6 @@ def generate_en_file(doc_id: str, zh_file: Path, fulltext: str, dry_run: bool) -
         "---",
         "",
         "## Full Text",
-        "",
-        "> Official English text, automatically converted from the official PDF using [docling](https://github.com/DS4SD/docling).",
         "",
         fulltext,
         "",

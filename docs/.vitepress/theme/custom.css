@@ -9,14 +9,26 @@
   overflow-wrap: break-word;
 }
 
-/* Better table display for long content */
+/* Better table display for long content — horizontal scroll on overflow */
 .vp-doc table {
-  display: table;
-  width: 100%;
+  display: block;
   overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  max-width: 100%;
+  border-collapse: collapse;
 }
 
 .vp-doc th,
 .vp-doc td {
   min-width: 80px;
+  max-width: 480px;
+  word-break: break-word;
+  overflow-wrap: break-word;
+}
+
+/* Footnote references rendered as [^n]: — style as small muted text */
+.vp-doc .footnotes,
+.vp-doc p:has(> a[href^="#fn"]) {
+  font-size: 0.85em;
+  color: var(--vp-c-text-2);
 }
