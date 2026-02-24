@@ -75,7 +75,17 @@ def convert_one(doc_id: str, source_url: str, converter: DocumentConverter):
         md = result.document.export_to_markdown()
         OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
         out_file.write_text(md, encoding="utf-8")
-        print(f"  [OK] {doc_id}: {len(md)} chars -> {out_file.name}")
+        
+        # Post-process the file
+        from postprocess_fulltext import process_file
+        stats = process_file(out_file, dry_run=False)
+        changed = stats.get('changed', False)
+        print(f"  [OK] {doc_id}: {len(md)} chars -> {out_file.name} (Post-processed: changed={changed})")
+        
+        # Re-read after post-processing format changes
+        if changed:
+            md = out_file.read_text(encoding="utf-8")
+            
         return md
     except Exception as e:
         print(f"  [ERROR] {doc_id}: {e}")

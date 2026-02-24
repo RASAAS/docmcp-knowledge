@@ -431,6 +431,271 @@ def collapse_blank_lines(content: str) -> str:
     return re.sub(r'\n{4,}', '\n\n\n', content)
 
 
+# ── repeated header/footer and cover image cleanup ───────────────────────────
+
+def cleanup_page_headers_and_cover_images(content: str) -> tuple[str, int]:
+    """
+    1. Remove image links that appear within the very first content block
+       (often document cover page artifacts / version tables mistakenly parsed as images).
+    2. Remove repetitive page headers/footers.
+    """
+    import re
+    from collections import Counter
+    
+    modified_count = 0
+    
+    # 0. Pre-strip glued document headers from the beginning of lines
+    # e.g. "## Medical Device Coordination Group Document MDCG 2025-4 required information..." -> "required information..."
+    content, n_glued = re.subn(
+        r'^(?:#+\s*)?Medical Device(?:s)?\sCoordination Group Document(?:\sMDCG\s\d{4}-\d+[a-zA-Z0-9-]*)?(?:\s+rev\.\s*\d+)?\s+([a-z].*)$',
+        r'\1',
+        content,
+        flags=re.MULTILINE | re.IGNORECASE
+    )
+    modified_count += n_glued
+
+    lines = content.split('\n')
+
+    # Calculate frequencies of short lines
+    normalized_lines = []
+    for line in lines:
+        nl = line.strip()
+        nl = re.sub(r'^#+\s*', '', nl)
+        normalized_lines.append(nl.lower())
+        
+    c = Counter([nl for nl in normalized_lines if nl and len(nl) < 150])
+    
+    # Patterns for lines we know are completely purely headers/footers
+    header_patterns = [
+        re.compile(r'^(#+\s*)?(Medical Device(s)?\sCoordination Group Document.*?)$', re.IGNORECASE),
+        re.compile(r'^(#+\s*)?(MDCG\s\d{4}-\d+.*)$', re.IGNORECASE), # e.g. MDCG 2019-15 rev.1
+        re.compile(r'^(#+\s*)?(Page\s\d+\sof\s\d+)$', re.IGNORECASE),
+    ]
+
+    out_lines = []
+    modified = modified_count
+    seen = set()
+    
+    non_blank_count = 0
+    
+    for i, (line, nl) in enumerate(zip(lines, normalized_lines)):
+        keep = True
+        
+        if line.strip():
+            non_blank_count += 1
+            
+        # 1. Strip cover image
+        if non_blank_count <= 25 and '![' in line and '](/images/mdcg/' in line:
+            # Often first few images are header logos. But be careful not to delete real diagrams.
+            # Cover page images in MDCG docs almost never exceed 1 or 2 right at the top.
+            if '-fig01.' in line and 'mdcg-2019-16-fig01' not in line:
+                keep = False
+                
+        # 2. Strip repetitive headers
+        if keep and len(line) < 150:
+            for pat in header_patterns:
+                if pat.match(line):
+                    # But don't strip if it's literally the first line of the document
+                    if i > 2 and c[nl] > 1:
+                        keep = False
+                        modified += 1
+                        break
+                    # Keep the very first occurrence of MDCG YYYY-XX as the document title
+                    if "mdcg" in nl:
+                        if nl not in seen:
+                            seen.add(nl)
+                        else:
+                            keep = False
+                        break
+
+        if keep:
+            out_lines.append(line)
+        else:
+            modified += 1
+
+    return '\n'.join(out_lines), modified
+
+
+# ── layout fixes (paragraph merging & headings) ──────────────────────────────
+
+def fix_complex_layouts(content: str) -> tuple[str, int]:
+    """
+    1. Re-level flat headings: flat '## 1)' -> '### 1)'
+    2. Convert fake headings (like '## OF CLASS I MEDICAL DEVICES') to normal text.
+    """
+    lines = content.split('\n')
+    out_lines = []
+    modified = 0
+    
+    import re
+    
+    for i, line in enumerate(lines):
+        striped = line.strip()
+        
+        # 1. Demote docling level 2 headings that look like sub-chapters
+        # e.g. "## 1) Confirm product as a medical device" -> "### 1) ..."
+        # e.g. "## 1.1 Introduction" -> "### 1.1 Introduction"
+        if re.match(r'^##\s+[0-9]+[\.\)][\s]+', striped):
+            line = line.replace('##', '###', 1)
+            modified += 1
+        # Level 4
+        elif re.match(r'^##\s+[a-z][\.\)][\s]+', striped):
+            line = line.replace('##', '####', 1)
+            modified += 1
+            
+        # 2. Revert obviously fake headings to normal text
+        # If a heading doesn't start with a letter or number, or is a continuation (starts with prepositions like 'OF ', 'FOR ', 'AND ')
+        elif re.match(r'^##\s+(OF|FOR|AND|TO|OR|IN|ON|WITH|BY|THE|A|AN)\b', striped, re.IGNORECASE):
+            line = re.sub(r'^##\s+', '', line)
+            modified += 1
+            
+        out_lines.append(line)
+        
+    return '\n'.join(out_lines), modified
+
+def fix_messy_bullets(content: str) -> tuple[str, int]:
+    """
+    Cleans up docling's list bullets that include original PDF bullets like '•', '-', or 'o'.
+    Converts '-  Text', '- - Text', etc. into '- Text'.
+    """
+    lines = content.split('\n')
+    out = []
+    modified = 0
+    import re
+    bullet_pattern = re.compile(r'^(\s*-\s*)(?:-\s*|[•➢o]\s+)+(.*)$')
+    for line in lines:
+        m = bullet_pattern.match(line)
+        if m:
+            out.append(m.group(1) + m.group(2).strip())
+            modified += 1
+        else:
+            out.append(line)
+    return '\n'.join(out), modified
+
+def join_split_paragraphs(content: str) -> tuple[str, int]:
+    """
+    Joins paragraphs that were prematurely split across lines (often due to PDF page/column breaks).
+    Looks for paragraphs ending without terminal punctuation (e.g. ends with lowercase, comma, colon)
+    and where the next paragraph begins with a lowercase letter.
+    """
+    import re
+    
+    # 1. Hyphenated words split across lines
+    # e.g. 'cyber-\n\nsecurity' -> 'cybersecurity'
+    content, n1 = re.subn(r'([a-zA-Z])-\s*\n+\s*([a-z])', r'\1\2', content)
+    
+    # 2. Regular line splits
+    # e.g. 'some sentence,\n\ncontinuing here.' -> 'some sentence, continuing here.'
+    content, n2 = re.subn(r'([a-z0-9:,;\)])\s*\n+\s*([a-z])', r'\1 \2', content)
+    
+    return content, n1 + n2
+
+def apply_specific_fixes(content: str) -> tuple[str, int]:
+    """
+    Apply document-specific fixes to clean up severe OCR and layout conversion issues
+    seen in certain MDR and MDCG guidance PDFs (e.g. 2019-16).
+    """
+    modified = 0
+    orig = content
+    
+    # 1. Figure 1 diagram textual elements in MDCG 2019-16
+    def repl_fig1(m):
+        images = re.findall(r'(?:<!-- image -->|!\[.*?\]\(.*?\))', m.group(0))
+        return '\n\n'.join(images) + '\n\n'
+        
+    content = re.sub(
+        r'General safety and performance requirements with focus on cybersecurity.*?1nт 1\. Cahraanetar enmmlenmonta\n+',
+        repl_fig1,
+        content,
+        flags=re.DOTALL
+    )
+    
+    # 2. Fix the "Table 1: I" orphan header
+    content = re.sub(
+        r'^Table 1:\s*I\n+Correspondence table between sections, relevant for this guidance, in MDR Annex I and IVDR Annex',
+        'Table 1: Correspondence table between sections, relevant for this guidance, in MDR Annex I and IVDR Annex I',
+        content,
+        flags=re.MULTILINE
+    )
+    
+    # 3. Numbered lists with weird bullets e.g. "9. • A description..."
+    content = re.sub(
+        r'^(\d+\.)\s*(?:-\s*|[•➢o]\s+)+(.*)$',
+        r'\1 \2',
+        content,
+        flags=re.MULTILINE
+    )
+    
+    # Missing GDPR in MDCG-2019-16 abbreviations
+    content = content.replace(
+        "Field Safety Corrective actions\n\n\nGeneral Data Protection Regulation",
+        "Field Safety Corrective actions\n\nGDPR\n\nGeneral Data Protection Regulation"
+    )
+    # the extra hyphen before IEC/TR
+    content = content.replace("\n- IEC/TR\n", "\nIEC/TR\n")
+    
+    # 4. Turn spaced abbreviation items into table
+    abbr_block_match = re.search(r'(### 1\.5\.\s*Abbreviations\n+)(.*?)(?=\n\||\n#)', content, re.DOTALL)
+    if not abbr_block_match:
+        abbr_block_match = re.search(r'(## 1\.5\.\s*Abbreviations\n+)(.*?)(?=\n\||\n#)', content, re.DOTALL)
+        
+    if abbr_block_match:
+        prefix = abbr_block_match.group(1)
+        block = abbr_block_match.group(2)
+        lines = [l.strip() for l in block.split('\n') if l.strip()]
+        out_table = ["| Abbreviation | Meaning |", "| --- | --- |"]
+        
+        # Only do this if it looks like alternating items without pipes
+        if all('|' not in l for l in lines) and len(lines) % 2 == 0 and len(lines) > 2:
+            for i in range(0, len(lines)-1, 2):
+                out_table.append(f"| {lines[i]} | {lines[i+1]} |")
+            content = content[:abbr_block_match.start()] + prefix + '\n'.join(out_table) + '\n\n' + content[abbr_block_match.end():]
+    
+    # 5. Section 2.6.3 specific OCR mess in 2019-16
+    content = re.sub(r'latest ess able a bug out the chine me cycle\.\n+', '', content)
+    content = re.sub(r'Design and\n+Development version of software', 'Design and Development version of software', content)
+    content = re.sub(r'Monitor\n+Maintenance sub-cycle\n+Release\n+', '', content)
+    
+    # Also in section 4 Annex IV
+    content = re.sub(r'a lall under the category of overall security management in the diag\n+', '', content)
+    content = re.sub(r'Security of security\n+Security\n+', '', content)
+    content = re.sub(r'danth ateotantr la o lrat nhilnannhtr ottha cantira nendiint lifa stola\n+', '', content)
+    
+    # Section 4.3 Numbering Chaos (Sub bullets attached to 10 as hyphen, then a 9 that should be 11)
+    content = re.sub(
+        r'(A description of the methods.*?)\n+9\.\s*Where\s*appropriate,\s*risks',
+        r'\1\n\n11. Where appropriate, risks',
+        content,
+        flags=re.DOTALL
+    )
+
+    # 6. Annex IV figure garble
+    def repl_annex4(m):
+        images = re.findall(r'(?:<!-- image -->|!\[.*?\]\(.*?\))', m.group(0))
+        rest = '\n\n'.join(images) + '\n\n'
+        return 'The following figure illustrates the relationship between processes for cybersecurity risk management and safety risk management.\n\n' + rest
+
+    content = re.sub(
+        r'Cybersecurity\n+Risk Evaluation\n+The following figure illustrates.*?Safety controls that\n+',
+        repl_annex4,
+        content,
+        flags=re.DOTALL | re.IGNORECASE
+    )
+    
+    # Add bullets to orphan paragraphs starting with "Annex I Section"
+    def repl_annex(m):
+        return '- ' + m.group(1).replace('\n', ' ')
+    content = re.sub(r'^(Annex I Section \d+[^\n]+?)$', repl_annex, content, flags=re.MULTILINE)
+    
+    # Also fix Annex III - Standards numbering/lists without bullets
+    content = re.sub(r'^(EN ISO 14971|EN 62304|EN ISO 31000|EN ISO/IEC|IEC 82304|ISO/IEC|IEC/TR)\b(.*)$', r'- \1\2', content, flags=re.MULTILINE)
+    
+    if orig != content:
+        modified += 1
+        
+    return content, modified
+
+
 # ── main processing ───────────────────────────────────────────────────────────
 
 def process_file(path: Path, dry_run: bool) -> dict:
@@ -442,6 +707,13 @@ def process_file(path: Path, dry_run: bool) -> dict:
     content, frag_merged = merge_fragmented_tables(content)
     content, dup_cols_fixed = deduplicate_table_columns(content)
     content = deduplicate_headers(content)
+    
+    content, hdr_removed = cleanup_page_headers_and_cover_images(content)
+    content, lay_fixed = fix_complex_layouts(content)
+    content, specific_fixed = apply_specific_fixes(content)
+    content, bullets_fixed = fix_messy_bullets(content)
+    content, paras_joined = join_split_paragraphs(content)
+    
     content = collapse_blank_lines(content)
 
     changed = content != original
@@ -450,6 +722,11 @@ def process_file(path: Path, dry_run: bool) -> dict:
         'footnotes': fn_count,
         'frag_merged': frag_merged,
         'dup_cols_fixed': dup_cols_fixed,
+        'hdr_removed': hdr_removed,
+        'lay_fixed': lay_fixed,
+        'specific_fixed': specific_fixed,
+        'bullets_fixed': bullets_fixed,
+        'paras_joined': paras_joined,
         'changed': changed,
     }
 
