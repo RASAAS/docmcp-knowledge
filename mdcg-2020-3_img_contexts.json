@@ -1,0 +1,32 @@
+[
+  {
+    "image": "mdcg-2020-3-fig01.png",
+    "pre": "corrective actions? *",
+    "post": "*See details in the text"
+  },
+  {
+    "image": "mdcg-2020-3-fig02.png",
+    "pre": "Chart A",
+    "post": "*See details in the text"
+  },
+  {
+    "image": "mdcg-2020-3-fig03.png",
+    "pre": "Chart B",
+    "post": "From Main Chart C"
+  },
+  {
+    "image": "mdcg-2020-3-fig04.png",
+    "pre": "Chart C",
+    "post": "*See details in the text"
+  },
+  {
+    "image": "mdcg-2020-3-fig05.png",
+    "pre": "Chart D",
+    "post": "From Main Chart"
+  },
+  {
+    "image": "mdcg-2020-3-fig06.png",
+    "pre": "Chart E",
+    "post": ""
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "image": "mdcg-2022-21-fig01.png",
+    "pre": "A workflow to determine whether a PSUR is required or not is provided with figure 1:",
+    "post": "Figure 1 - Workflow for assessment of PSUR requirement"
+  },
+  {
+    "image": "mdcg-2022-21-fig02.png",
+    "pre": "Flow diagram for Medical Devices certified under EU 2017/745 based on classification (Including CMD (Custom Made Devices))",
+    "post": "Figure 3 -PSURs for Legacy Devices based on Classification"
+  },
+  {
+    "image": "mdcg-2022-21-fig03.png",
+    "pre": "Flow diagram for Medical Devices certified under AIMDD 90/385/EEC or MDD 93/42/EEC and placed on the market or put into service after 26 th May 2021 based on classification.",
+    "post": "5.4 PSUR submission by the manufacturer in the absence of EUDAMED"
+  }
+]

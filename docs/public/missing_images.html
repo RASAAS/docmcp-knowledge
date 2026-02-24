@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head><title>Missing Images</title><style>img { max-width: 800px; border: 1px solid red; margin-bottom: 20px; }</style></head>
+<body>
+<h1>Missing Images</h1>
+<script>
+const docs = [
+    "mdcg-2019-15-fig01.png",
+    "mdcg-2019-16-fig01.png", "mdcg-2019-16-fig02.png", "mdcg-2019-16-fig03.png", "mdcg-2019-16-fig04.png", "mdcg-2019-16-fig05.png", "mdcg-2019-16-fig06.png", "mdcg-2019-16-fig07.png",
+    "mdcg-2020-1-fig01.png",
+    "mdcg-2020-3-fig01.png", "mdcg-2020-3-fig02.png", "mdcg-2020-3-fig03.png", "mdcg-2020-3-fig04.png", "mdcg-2020-3-fig05.png",
+    "mdcg-2021-6-fig01.png", "mdcg-2021-6-fig02.png",
+    "mdcg-2022-5-fig01.png",
+    "mdcg-2022-21-fig01.png", "mdcg-2022-21-fig02.png",
+    "mdcg-2024-10-fig01.png",
+    "mdcg-2025-9-fig01.png"
+];
+docs.forEach(f => {
+    document.write(`<h3>${f}</h3><img src="/images/mdcg/${f}" />`);
+});
+</script>
+</body>
+</html>
