@@ -12,18 +12,20 @@ def main():
         doc_id = fulltext_file.stem
         fulltext_content = fulltext_file.read_text("utf-8")
         
-        replacement_block = f"{FULLTEXT_MARKER}\n\n---\n\n## 官方文件全文\n\n{fulltext_content}\n\n{FULLTEXT_END_MARKER}"
-
         files_to_sync = [
-            REPO_ROOT / "eu_mdr" / "mdcg" / f"{doc_id}.zh.md",
-            REPO_ROOT / "eu_mdr" / "mdcg" / f"{doc_id}.en.md",
-            REPO_ROOT / "docs" / "zh" / "eu_mdr" / "mdcg" / f"{doc_id}.md",
-            REPO_ROOT / "docs" / "en" / "eu_mdr" / "mdcg" / f"{doc_id}.md",
+            (REPO_ROOT / "eu_mdr" / "mdcg" / f"{doc_id}.zh.md", "zh"),
+            (REPO_ROOT / "eu_mdr" / "mdcg" / f"{doc_id}.en.md", "en"),
+            (REPO_ROOT / "docs" / "zh" / "eu_mdr" / "mdcg" / f"{doc_id}.md", "zh"),
+            (REPO_ROOT / "docs" / "en" / "eu_mdr" / "mdcg" / f"{doc_id}.md", "en"),
         ]
         
-        for f in files_to_sync:
+        for f, lang in files_to_sync:
             if not f.exists(): 
                 continue
+            
+            heading = "官方文件全文" if lang == "zh" else "Official Full Text"
+            replacement_block = f"{FULLTEXT_MARKER}\n\n---\n\n## {heading}\n\n{fulltext_content}\n\n{FULLTEXT_END_MARKER}"
+            
             content = f.read_text("utf-8")
             if FULLTEXT_MARKER in content and FULLTEXT_END_MARKER in content:
                 new_content = re.sub(
