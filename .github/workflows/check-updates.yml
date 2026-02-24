@@ -120,6 +120,16 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPO: ${{ github.repository }}
 
+      - name: Regenerate Markdown from JSON (single source of truth)
+        if: steps.report.outputs.count != '0'
+        run: |
+          echo "Regenerating Markdown from JSON data layer..."
+          python scripts/json_to_markdown.py --section all
+          # Commit any regenerated files to the draft PR branch
+          git add docs/zh/ docs/en/ || true
+          git diff --staged --quiet || git commit -m "chore: regenerate Markdown from JSON data [skip ci]"
+          git push || true
+
       - name: Create tracking issue if updates found
         if: steps.report.outputs.count != '0'
         uses: actions/github-script@v7

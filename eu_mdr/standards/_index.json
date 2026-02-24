@@ -103,6 +103,14 @@
       "count": 3,
       "file": "standards-surgical_implants.json"
     },
+    "software": {
+      "name": {
+        "zh": "软件与可用性",
+        "en": "Software & Usability"
+      },
+      "count": 2,
+      "file": "standards-software.json"
+    },
     "surgical_textiles": {
       "name": {
         "zh": "手术衣物与口罩",
