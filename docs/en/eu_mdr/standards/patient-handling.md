@@ -1,20 +1,20 @@
 ---
-title: "Harmonised Standards — Patient Handling Equipment"
-description: "EU MDR 2017/745 harmonised standards: Patient handling equipment (EN 1865 series)"
+title: Harmonised Standards — Patient Handling Equipment
+description: "EU MDR 2017/745 harmonised standards: Patient Handling Equipment (2 standards in the OJ list), applicable to GSPR 9, 14. Based on CID (EU) 2021/1182 and amendment 2026/193."
 regulation: EU MDR 2017/745
-category: patient_handling
+category: Patient Handling Equipment
 ---
 
 # Harmonised Standards — Patient Handling Equipment
 
-**Official Source**: [EC Health — Harmonised Standards](https://health.ec.europa.eu/medical-devices-topics-interest/harmonised-standards_en) | Based on CID (EU) 2021/1182 and amendment 2026/193
+**Official Source**: [EC Health — Harmonised Standards](https://health.ec.europa.eu/medical-devices-topics-interest/harmonised-standards_en) | Based on CID (EU) 2021/1182 (consolidated) and amendment [CID (EU) 2026/193](https://eur-lex.europa.eu/eli/dec_impl/2026/193/oj)
 
-## Standards List
+## Harmonised Standards List (2 standards)
 
-| Standard | Title | Status |
-|----------|-------|--------|
-| **EN 1865-2:2024** | Patient handling equipment used in ambulances - Part 2: Power assisted stretcher | Current |
-| **EN 1865-6:2024** | Patient handling equipment used in ambulances - Part 6: Powered chairs | Current |
+| Standard | Title Summary | GSPR Reference | Status |
+|----------|--------------|---------------|--------|
+| **EN 1865-2:2024** | Part 2: Power assisted stretcher | GSPR 9, 14 (Patient handling) | Current |
+| **EN 1865-6:2024** | Part 6: Powered chairs | GSPR 9, 14 (Patient handling) | Current |
 
 ## Related Pages
 

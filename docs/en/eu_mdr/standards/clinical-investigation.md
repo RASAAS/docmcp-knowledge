@@ -1,43 +1,24 @@
 ---
-title: Harmonised Standards — Clinical Evaluation and Clinical Investigation
-description: "EU MDR 2017/745 harmonised standards: Good clinical practice for clinical investigations (EN ISO 14155:2020), applicable to GSPR 1."
+title: Harmonised Standards — Clinical Investigation
+description: "EU MDR 2017/745 harmonised standards: Clinical Investigation (1 standards in the OJ list), applicable to GSPR 1, 8, 14. Based on CID (EU) 2021/1182 and amendment 2026/193."
 regulation: EU MDR 2017/745
-category: Clinical Evaluation and Clinical Investigation
+category: Clinical Investigation
 ---
 
-# Harmonised Standards — Clinical Evaluation and Clinical Investigation
+# Harmonised Standards — Clinical Investigation
 
 **Official Source**: [EC Health — Harmonised Standards](https://health.ec.europa.eu/medical-devices-topics-interest/harmonised-standards_en) | Based on CID (EU) 2021/1182 (consolidated) and amendment [CID (EU) 2026/193](https://eur-lex.europa.eu/eli/dec_impl/2026/193/oj)
 
-## Harmonised Standards List (1 standard)
+## Harmonised Standards List (1 standards)
 
-| Standard | Title | GSPR Reference | Status |
-|----------|-------|---------------|--------|
-| **EN ISO 14155:2020 + A11:2024** | Clinical investigation of medical devices for human subjects — Good clinical practice | Annex XV (clinical investigation procedures) | Current |
-
-## EN ISO 14155:2020 — Detail
-
-**ISO 14155** sets out the good clinical practice (GCP) requirements for clinical investigations of medical devices conducted on human subjects.
-
-### Main Content
-
-- **Clinical Investigation Plan (CIP)**: investigation design, objectives, methods
-- **Informed consent**: requirements for subject informed consent
-- **Ethics committee**: requirements for ethical review
-- **Adverse event reporting**: Serious Adverse Device Effect (SADE) reporting
-- **Data management**: clinical data collection and management
-- **Monitoring**: clinical investigation monitoring requirements
-
-### Relationship with EU MDR Clinical Evaluation
-
-- Clinical investigation data is an important data source for the Clinical Evaluation Report (CER)
-- Must conform to the requirements of [Annex XIV — Clinical Evaluation](../regulations/annex-xiv-clinical-evaluation)
-- Clinical investigations must be registered in EUDAMED
+| Standard | Title Summary | GSPR Reference | Status |
+|----------|--------------|---------------|--------|
+| **EN ISO 14155:2020 + 2024** | Good clinical practice (ISO 14155:2020) | GSPR 1, 8, 14 (Clinical investigation) | Current |
 
 ## Related Pages
 
+- [Annex XV — Clinical Investigations](../regulations/annex-xv-clinical-investigations)
 - [Annex XIV — Clinical Evaluation](../regulations/annex-xiv-clinical-evaluation)
-- [Annex I — GSPR](../regulations/annex-i-gspr)
 
 ## Data Layer Source File
 

@@ -13,15 +13,15 @@ category: Biocompatibility
 
 | Standard | Title Summary | GSPR Reference | Status |
 |----------|--------------|---------------|--------|
-| **EN ISO 10993-4:2017 + A1:2025** | Part 4: Selection of tests for interactions with blood | GSPR 10.4 (blood compatibility) | Current |
-| **EN ISO 10993-9:2021** | Part 9: Framework for identification and quantification of potential degradation products | GSPR 10.4 (chemical safety) | Current |
-| **EN ISO 10993-10:2023** | Part 10: Tests for skin sensitisation | GSPR 10.4 (sensitisation) | Current |
-| **EN ISO 10993-12:2021** | Part 12: Sample preparation and reference materials | GSPR 10.4 (biological evaluation methods) | Current |
-| **EN ISO 10993-15:2023** | Part 15: Identification and quantification of degradation products from metals and alloys | GSPR 10.4 (chemical safety) | Current |
-| **EN ISO 10993-17:2023** | Part 17: Toxicological risk assessment of medical device constituents | GSPR 10.4 (toxicological safety) | Current |
-| **EN ISO 10993-18:2020 + A1:2023** | Part 18: Chemical characterization within a risk management process | GSPR 10.4 (chemical characterisation) | Current |
-| **EN ISO 10993-23:2021** | Part 23: Tests for irritation | GSPR 10.4 (irritation) | Current |
-| **EN 455-3:2023** | Medical gloves for single use — Part 3: Biological evaluation | GSPR 10.4 (glove biocompatibility) | Current |
+| **EN ISO 10993-23:2021** | Part 23: Tests for irritation (ISO 10993-23:2021) | GSPR 10.4 (Biocompatibility) | Current |
+| **EN ISO 10993-9:2021** | Part 9: Framework for identification and quantification of potential degradation products (ISO 10993-9:2019) | GSPR 10.4 (Biocompatibility) | Current |
+| **EN ISO 10993-12:2021** | Part 12: Sample preparation and reference materials (ISO 10993-12:2021) | GSPR 10.4 (Biocompatibility) | Current |
+| **EN ISO 10993-10:2023** | Part 10: Tests for skin sensitisation (ISO 10993-10:2021) | GSPR 10.4 (Biocompatibility) | Current |
+| **EN 455-3:2023** | Part 3: Requirements and testing for biological evaluation | GSPR 10.4 (Biocompatibility) | Current |
+| **EN ISO 10993-15:2023** | Part 15: Identification and quantification of degradation products from metals and alloys (ISO 10993-15:2019) | GSPR 10.4 (Biocompatibility) | Current |
+| **EN ISO 10993-17:2023** | Part 17: Toxicological risk assessment of medical device constituents (ISO 10993-17:2023) | GSPR 10.4 (Biocompatibility) | Current |
+| **EN ISO 10993-18:2020 + 2023** | Part 18: Chemical characterization of medical device materials within a risk management process (ISO 10993-18:2020) | GSPR 10.4 (Biocompatibility) | Current |
+| **EN ISO 10993-4:2017 + 2025** | Part 4: Selection of tests for interactions with blood (ISO 10993-4:2017) | GSPR 10.4 (Biocompatibility) | Current |
 
 > **Important**: The following widely-used standards are **not** on the EU MDR harmonised standards list and do not create a presumption of conformity: EN ISO 10993-1 (evaluation framework), EN ISO 10993-3 (genotoxicity), EN ISO 10993-5 (cytotoxicity), EN ISO 10993-6 (implantation), EN ISO 10993-7 (EO residuals), EN ISO 10993-11 (systemic toxicity), EN ISO 10993-13 (polymers). They remain industry-accepted evaluation methods but must be justified separately in the technical file.
 

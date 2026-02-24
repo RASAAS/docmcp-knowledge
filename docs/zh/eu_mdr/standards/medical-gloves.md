@@ -1,20 +1,20 @@
 ---
-title: "协调标准 — 医用手套"
-description: "EU MDR 2017/745 协调标准：医用手套（EN 455系列）"
+title: 协调标准 — 医用手套
+description: "EU MDR 2017/745 协调标准：医用手套（2条入官方公报标准），适用于GSPR 10.4。基于 CID (EU) 2021/1182 及修正案 2026/193。"
 regulation: EU MDR 2017/745
-category: medical_gloves
+category: Medical Gloves
 ---
 
 # 协调标准 — 医用手套
 
-**官方来源**：[EC Health — 协调标准](https://health.ec.europa.eu/medical-devices-topics-interest/harmonised-standards_en) | 基于 CID (EU) 2021/1182 及修正案 2026/193
+**官方来源**：[EC Health — Harmonised Standards](https://health.ec.europa.eu/medical-devices-topics-interest/harmonised-standards_en) | 基于 CID (EU) 2021/1182（合并版）及修正案 [CID (EU) 2026/193](https://eur-lex.europa.eu/eli/dec_impl/2026/193/oj)
 
-## 标准列表
+## 协调标准列表（2条）
 
-| 标准号 | 标题 | 状态 |
-|--------|---------|------|
-| **EN 455-1:2020+A2:2024** | Medical gloves for single use - Part 1: Requirements and testing for freedom of holes | 现行有效 |
-| **EN 455-2:2024** | Medical gloves for single use - Part 2: Requirements and testing for physical properties | 现行有效 |
+| 标准号 | 标题摘要 | GSPR对应 | 状态 |
+|--------|---------|---------|------|
+| **EN 455-1:2020+A2:2024** | Part 1: Requirements and testing for freedom of holes | GSPR 10.4（医用手套） | 现行有效 |
+| **EN 455-2:2024** | Part 2: Requirements and testing for physical properties | GSPR 10.4（医用手套） | 现行有效 |
 
 ## 相关页面
 

@@ -1,8 +1,8 @@
 ---
 title: 协调标准 — 灭菌与无菌包装
-description: "EU MDR 2017/745 协调标准：灭菌与无菌包装（21条），适用于GSPR 11。基于 CID (EU) 2021/1182 及修正案 2026/193。"
+description: "EU MDR 2017/745 协调标准：灭菌与无菌包装（21条入官方公报标准），适用于GSPR 11。基于 CID (EU) 2021/1182 及修正案 2026/193。"
 regulation: EU MDR 2017/745
-category: Sterilization and Packaging
+category: Sterilization & Packaging
 ---
 
 # 协调标准 — 灭菌与无菌包装
@@ -11,45 +11,35 @@ category: Sterilization and Packaging
 
 ## 协调标准列表（21条）
 
-| 标准号 | 标题摘要 | GSPR对应 |
-|--------|---------|----------|
-| **EN 285:2015+A1:2021** | 大型蒸汽灭菌器 | GSPR 11.1（灭菌过程确认） |
-| **EN 556-1:2024** | 无菌器械要求（终末灭菌） | GSPR 11.1（无菌保证） |
-| **EN 556-2:2024** | 无菌器械要求（无菌加工） | GSPR 11.1（无菌保证） |
-| **EN 14180:2025** | 低温蒸汽加甲醛灭菌器 | GSPR 11.1（灭菌过程确认） |
-| **EN ISO 11135:2014 + A1:2019** | 环氧乙烷（EO）灭菌 | GSPR 11.1（EO灭菌） |
-| **EN ISO 11137-1:2015 + A2:2019** | 辐射灭菌 — 第1部分：开发、确认和常规控制 | GSPR 11.1（辐射灭菌） |
-| **EN ISO 11137-2:2015 + A1:2023** | 辐射灭菌 — 第2部分：灭菌剂量确定 | GSPR 11.1（灭菌剂量设定） |
-| **EN ISO 11607-1:2020 + A1:2023** | 终末灭菌包装 — 第1部分：材料和系统要求 | GSPR 11.1（包装材料要求） |
-| **EN ISO 11607-2:2020 + A1:2023** | 终末灭菌包装 — 第2部分：成型、密封和装配过程确认 | GSPR 11.1（包装过程确认） |
-| **EN ISO 11737-1:2018 + A1:2021** | 微生物学方法 — 第1部分：生物负荷测定 | GSPR 11.1（生物负荷测定） |
-| **EN ISO 11737-2:2020** | 微生物学方法 — 第2部分：无菌试验 | GSPR 11.1（无菌试验） |
-| **EN ISO 13408-1:2024** | 无菌加工 — 第1部分：通用要求 | GSPR 11.1（无菌加工通用要求） |
-| **EN ISO 13408-6:2021** | 无菌加工 — 第6部分：隔离器系统 | GSPR 11.1（隔离器系统） |
-| **EN ISO 14160:2021** | 液体化学灭菌剂 | GSPR 11.1（液体化学灭菌） |
-| **EN ISO 17665:2024** | 湿热灭菌 | GSPR 11.1（湿热灭菌） |
-| **EN ISO 18562-1:2024** | 呼吸气路生物相容性 — 第1部分 | GSPR 10.4 + 11（呼吸器械） |
-| **EN ISO 18562-2:2024** | 呼吸气路生物相容性 — 第2部分 | GSPR 10.4 + 11（呼吸器械） |
-| **EN ISO 18562-3:2024** | 呼吸气路生物相容性 — 第3部分 | GSPR 10.4 + 11（呼吸器械） |
-| **EN ISO 18562-4:2024** | 呼吸气路生物相容性 — 第4部分 | GSPR 10.4 + 11（呼吸器械） |
-| **EN ISO 25424:2019 + A1:2022** | 低温蒸汽加甲醛（LTSF）灭菌 | GSPR 11.1（LTSF灭菌） |
-| **EN ISO 7197:2024** | 神经外科植入物（脑积水分流） | GSPR 11.1（无菌植入物） |
-
-## 灭菌方法选择指南
-
-| 灭菌方法 | 适用器械类型 | 关键标准 |
-|----------|------------|----------|
-| 环氧乙烷（EO） | 热敏感器械、复杂结构器械 | EN ISO 11135 |
-| 辐射（γ射线/电子束） | 一次性器械、大批量生产 | EN ISO 11137-1, -2 |
-| 湿热（蒸汽） | 耐热耐湿器械、手术器械 | EN ISO 17665 |
-| 低温蒸汽+甲醛（LTSF） | 热敏感器械（EO替代） | EN ISO 25424, EN 14180 |
-| 液体化学灭菌 | 含动物组织的一次性器械 | EN ISO 14160 |
-| 无菌加工 | 无法终末灭菌的器械 | EN ISO 13408-1, -6 |
+| 标准号 | 标题摘要 | GSPR对应 | 状态 |
+|--------|---------|---------|------|
+| **EN ISO 11135:2014 + 2019** | Ethylene oxide - Requirements for the development, validation and routine control of a sterilization process for medical devices (ISO 11135:2014) | GSPR 11（灭菌与包装） | 现行有效 |
+| **EN ISO 11137-1:2015 + 2019** | Radiation - Part 1: Requirements for development, validation and routine control of a sterilization process for medical devices (ISO 11137-1:2006, including Amd 1:2013) | GSPR 11（灭菌与包装） | 现行有效 |
+| **EN ISO 11737-2:2020** | Microbiological methods - Part 2: Tests of sterility performed in the definition, validation and maintenance of a sterilization process (ISO 11737-2:2019) | GSPR 11（灭菌与包装） | 现行有效 |
+| **EN ISO 25424:2019 + 2022** | Low temperature steam and formaldehyde - Requirements for development, validation and routine control of a sterilisation process for medical devices (ISO 25424:2018) | GSPR 11（灭菌与包装） | 现行有效 |
+| **EN ISO 11737-1:2018 + 2021** | Microbiological methods - Part 1: Determination of a population of microorganisms on products (ISO 11737-1:2018) | GSPR 11（灭菌与包装） | 现行有效 |
+| **EN ISO 13408-6:2021** | Part 6: Isolator systems (ISO 13408-6:2021) | GSPR 11（灭菌与包装） | 现行有效 |
+| **EN ISO 14160:2021** | Liquid chemical sterilizing agents for single-use medical devices utilizing animal tissues and their derivatives - Requirements for characterization, development, validation and routine control of a sterilization process for medical devices (ISO 14160:2020) | GSPR 11（灭菌与包装） | 现行有效 |
+| **EN 285:2015+A1:2021** | Steam sterilizers - Large sterilizers | GSPR 11（灭菌与包装） | 现行有效 |
+| **EN ISO 11137-2:2015 + 2023** | Radiation - Part 2: Establishing the sterilization dose (ISO 11137-2:2013) | GSPR 11（灭菌与包装） | 现行有效 |
+| **EN ISO 11607-1:2020 + 2023** | Part 1: Requirements for materials, sterile barrier systems and packaging systems (ISO 11607-1:2019) | GSPR 11（灭菌与包装） | 现行有效 |
+| **EN ISO 11607-2:2020 + 2023** | Part 2: Validation requirements for forming, sealing and assembly processes (ISO 11607-2:2019) | GSPR 11（灭菌与包装） | 现行有效 |
+| **EN ISO 13408-1:2024** | Part 1: General requirements (ISO 13408-1:2023) | GSPR 11（灭菌与包装） | 现行有效 |
+| **EN 556-1:2024** | Requirements for medical devices to be designated STERILE - Part 1: Requirements for terminally sterilized medical devices | GSPR 11（灭菌与包装） | 现行有效 |
+| **EN 556-2:2024** | Requirements for medical devices to be designated STERILE - Part 2: Requirements for aseptically processed medical devices | GSPR 11（灭菌与包装） | 现行有效 |
+| **EN 14180:2025** | Low temperature steam and formaldehyde sterilizers - Requirements and testing | GSPR 11（灭菌与包装） | 现行有效 |
+| **EN ISO 7197:2024** | Sterile, single-use hydrocephalus shunts and components (ISO 7197:2024) | GSPR 11（灭菌与包装） | 现行有效 |
+| **EN ISO 17665:2024** | Moist heat - Requirements for the development, validation and routine control of a sterilization process for medical devices (ISO 17665:2024) | GSPR 11（灭菌与包装） | 现行有效 |
+| **EN ISO 18562-1:2024** | Part 1: Evaluation and testing within a risk management process (ISO 18562-1:2024) | GSPR 11（灭菌与包装） | 现行有效 |
+| **EN ISO 18562-2:2024** | Part 2: Tests for emissions of particulate matter (ISO 18562-2:2024) | GSPR 11（灭菌与包装） | 现行有效 |
+| **EN ISO 18562-3:2024** | Part 3: Tests for emissions of volatile organic compounds (VOCs) (ISO 18562-3:2024) | GSPR 11（灭菌与包装） | 现行有效 |
+| **EN ISO 18562-4:2024** | Part 4: Tests for leachables in condensate (ISO 18562-4:2024) | GSPR 11（灭菌与包装） | 现行有效 |
 
 ## 相关页面
 
 - [附件I — GSPR](../regulations/annex-i-gspr)
 - [协调标准 — 生物相容性](./biocompatibility)
+
 ## 数据层源文件
 
 [eu_mdr/standards/standards-sterilization.json](https://github.com/RASAAS/docmcp-knowledge/tree/main/eu_mdr/standards/standards-sterilization.json)

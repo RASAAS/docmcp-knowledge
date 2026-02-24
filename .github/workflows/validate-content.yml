@@ -31,3 +31,8 @@ jobs:
       - name: Verify docs page inline links
         run: python scripts/verify_urls.py --docs --delay 1.0
         continue-on-error: false
+
+      - name: Verify JSON to Markdown sync
+        run: |
+          echo "Checking JSON -> Markdown sync status..."
+          python scripts/json_to_markdown.py --verify
