@@ -516,7 +516,7 @@ def generate_en_file(doc_id: str, zh_file: Path, fulltext: str, dry_run: bool) -
         "",
         "---",
         "",
-        "## Full Text",
+        "## Official Full Text",
         "",
         fulltext,
         "",
