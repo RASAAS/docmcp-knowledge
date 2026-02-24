@@ -17,12 +17,15 @@ EU MDR 2017/745 于 **2021年5月26日** 正式适用，取代了 MDD 93/42/EEC 
 
 | 条款/附件 | 内容 | 子页面 |
 |----------|------|--------|
+| 第2条 | 核心术语定义（中英对照） | [查看详情](./regulations/art-2-definitions) |
 | 第10条 | 制造商一般义务（QMS、临床评价、PMS、PRRC） | [查看详情](./regulations/art-10-manufacturer-obligations) |
 | 第52条 | 合规评估程序（按器械类别） | [查看详情](./regulations/art-52-conformity-assessment) |
 | 附件I | 通用安全和性能要求（GSPR） | [查看详情](./regulations/annex-i-gspr) |
 | 附件II | 技术文件 | [查看详情](./regulations/annex-ii-technical-documentation) |
 | 附件III | 上市后监督（PMS）技术文件 | [查看详情](./regulations/annex-iii-pms) |
 | 附件XIV | 临床评价（CER + PMCF） | [查看详情](./regulations/annex-xiv-clinical-evaluation) |
+| 附件XV | 临床调查（申请、CIP、受试者保护） | [查看详情](./regulations/annex-xv-clinical-investigations) |
+| 修正案 | 2020/561、2023/607、2024/1860 汇总 | [查看详情](./regulations/amendments) |
 
 ## 协调标准（按类别，共48条）
 

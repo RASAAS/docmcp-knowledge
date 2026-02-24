@@ -33,8 +33,10 @@ except ImportError:
 # sync_content=True: auto-generate index + sync full content files to docs/zh/
 # sync_content=False: only generate index page (no full content sync)
 #
-# NOTE: eu_mdr/*, fda/*, _shared, nmpa/standards, nmpa/classification have
-# hand-written index pages (PR #5/#6) — do NOT add them here.
+# NOTE: eu_mdr/regulations, eu_mdr/standards, fda/*, _shared, nmpa/standards,
+# nmpa/classification have hand-written index pages (PR #5/#6) — do NOT add them here.
+# eu_mdr/mdcg: sync_content=True to generate docs/zh/eu_mdr/mdcg/ sub-pages from .zh.md files.
+# IMPORTANT: docs/zh/eu_mdr/mdcg.md (the index page) is hand-written — do NOT overwrite it.
 SECTION_MAP = {
     "nmpa/guidance":            ("docs/zh/nmpa/guidance.md",            "NMPA 注册审查指导原则",   "nmpa",     True),
     "nmpa/regulations":         ("docs/zh/nmpa/regulations.md",         "NMPA 法规规章",           "nmpa",     True),
@@ -43,6 +45,7 @@ SECTION_MAP = {
     "insights/fda-updates":     ("docs/zh/insights/fda-updates.md",     "FDA 合规动态",            "insights", True),
     "insights/analysis":        ("docs/zh/insights/analysis.md",        "法规解读分析",            "insights", True),
     "insights/clinical-evaluation": ("docs/zh/insights/clinical-evaluation.md", "临床评价方法论", "insights", True),
+    "eu_mdr/mdcg":              ("docs/zh/eu_mdr/mdcg.md",              "MDCG 指南文件",           "eu_mdr",   True),
 }
 
 # Category grouping for NMPA guidance — matched against Chinese title keywords (order matters: first match wins)
@@ -512,6 +515,30 @@ def generate_sidebar_json(all_section_entries: Dict[str, List[dict]], repo_root:
                 },
             ]
 
+        elif section_key == "eu_mdr/mdcg":
+            # MDCG guidance sub-pages sidebar — listed under /zh/eu_mdr/mdcg/
+            sorted_items = sorted(items, key=lambda x: x["text"])
+            sidebar["/zh/eu_mdr/mdcg/"] = [
+                {"text": "<- EU MDR 概览", "link": "/zh/eu_mdr/"},
+                {"text": "MDCG 指南索引", "link": "/zh/eu_mdr/mdcg"},
+                {
+                    "text": f"MDCG 指南文件 ({len(entries)})",
+                    "collapsed": False,
+                    "items": sorted_items,
+                },
+            ]
+            # English MDCG sidebar
+            en_sorted_items = sorted(en_items, key=lambda x: x["text"])
+            en_sidebar["/en/eu_mdr/mdcg/"] = [
+                {"text": "<- EU MDR Overview", "link": "/en/eu_mdr/"},
+                {"text": "MDCG Guidance Index", "link": "/en/eu_mdr/mdcg"},
+                {
+                    "text": f"MDCG Guidance ({len(en_items)})",
+                    "collapsed": False,
+                    "items": en_sorted_items,
+                },
+            ]
+
         elif section_key.startswith("insights/"):
             if "/zh/insights/" not in sidebar:
                 sidebar["/zh/insights/"] = [
@@ -623,6 +650,11 @@ def main():
             en_synced = sync_en_content_to_docs(section_key, entries, repo_root, dry_run=args.dry_run)
             total_synced += en_synced
             all_section_entries[section_key] = entries
+
+        # eu_mdr/mdcg has a hand-written index page — skip auto-generation to avoid overwriting
+        if section_key == "eu_mdr/mdcg":
+            print(f"  Skipped index page for {section_key} (hand-written, preserved)")
+            continue
 
         generate_section_page(
             section_key, docs_page_path, section_title,

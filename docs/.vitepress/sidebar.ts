@@ -1151,5 +1151,141 @@ export default {
         }
       ]
     }
+  ],
+  "/zh/eu_mdr/mdcg/": [
+    {
+      "text": "<- EU MDR 概览",
+      "link": "/zh/eu_mdr/"
+    },
+    {
+      "text": "MDCG 指南索引",
+      "link": "/zh/eu_mdr/mdcg"
+    },
+    {
+      "text": "MDCG 指南文件 (30)",
+      "collapsed": false,
+      "items": [
+        {
+          "text": "MDCG 2019-15 rev.1：I类器械制造商指南",
+          "link": "/zh/eu_mdr/mdcg/mdcg-2019-15"
+        },
+        {
+          "text": "MDCG 2019-16 rev.1：医疗器械网络安全指南",
+          "link": "/zh/eu_mdr/mdcg/mdcg-2019-16"
+        },
+        {
+          "text": "MDCG 2019-7 rev.1：法规合规负责人（PRRC）指南",
+          "link": "/zh/eu_mdr/mdcg/mdcg-2019-7"
+        },
+        {
+          "text": "MDCG 2019-9 rev.1：安全性和临床性能摘要（SSCP）",
+          "link": "/zh/eu_mdr/mdcg/mdcg-2019-9"
+        },
+        {
+          "text": "MDCG 2020-13：临床评价评估报告模板（CEAR）",
+          "link": "/zh/eu_mdr/mdcg/mdcg-2020-13"
+        },
+        {
+          "text": "MDCG 2020-1：医疗器械软件临床评价指南",
+          "link": "/zh/eu_mdr/mdcg/mdcg-2020-1"
+        },
+        {
+          "text": "MDCG 2020-3 rev.1：过渡期重大变更指南",
+          "link": "/zh/eu_mdr/mdcg/mdcg-2020-3"
+        },
+        {
+          "text": "MDCG 2020-5：临床评价 — 等同性指南",
+          "link": "/zh/eu_mdr/mdcg/mdcg-2020-5"
+        },
+        {
+          "text": "MDCG 2020-6：遗留器械充分临床证据指南",
+          "link": "/zh/eu_mdr/mdcg/mdcg-2020-6"
+        },
+        {
+          "text": "MDCG 2020-7：PMCF计划模板",
+          "link": "/zh/eu_mdr/mdcg/mdcg-2020-7"
+        },
+        {
+          "text": "MDCG 2020-8：PMCF评估报告模板",
+          "link": "/zh/eu_mdr/mdcg/mdcg-2020-8"
+        },
+        {
+          "text": "MDCG 2021-24：医疗器械分类指南",
+          "link": "/zh/eu_mdr/mdcg/mdcg-2021-24"
+        },
+        {
+          "text": "MDCG 2021-25 rev.1：遗留器械MDR要求适用指南",
+          "link": "/zh/eu_mdr/mdcg/mdcg-2021-25"
+        },
+        {
+          "text": "MDCG 2021-27 rev.1：授权代表、进口商、经销商问答",
+          "link": "/zh/eu_mdr/mdcg/mdcg-2021-27"
+        },
+        {
+          "text": "MDCG 2021-5 rev.1：医疗器械标准化指南",
+          "link": "/zh/eu_mdr/mdcg/mdcg-2021-5"
+        },
+        {
+          "text": "MDCG 2021-6 rev.1：临床调查问答（MDR）",
+          "link": "/zh/eu_mdr/mdcg/mdcg-2021-6"
+        },
+        {
+          "text": "MDCG 2021-8：临床调查申请/通知文件",
+          "link": "/zh/eu_mdr/mdcg/mdcg-2021-8"
+        },
+        {
+          "text": "MDCG 2022-21：定期安全更新报告（PSUR）指南",
+          "link": "/zh/eu_mdr/mdcg/mdcg-2022-21"
+        },
+        {
+          "text": "MDCG 2022-5 rev.1：器械与药品边界指南",
+          "link": "/zh/eu_mdr/mdcg/mdcg-2022-5"
+        },
+        {
+          "text": "MDCG 2023-1：机构自制器械豁免指南（第5(5)条）",
+          "link": "/zh/eu_mdr/mdcg/mdcg-2023-1"
+        },
+        {
+          "text": "MDCG 2023-4：MDSW与硬件组合指南",
+          "link": "/zh/eu_mdr/mdcg/mdcg-2023-4"
+        },
+        {
+          "text": "MDCG 2023-5：附件XVI产品资质认定与分类指南",
+          "link": "/zh/eu_mdr/mdcg/mdcg-2023-5"
+        },
+        {
+          "text": "MDCG 2023-6：附件XVI产品等同性证明指南",
+          "link": "/zh/eu_mdr/mdcg/mdcg-2023-6"
+        },
+        {
+          "text": "MDCG 2023-7：临床调查豁免及等同性数据访问指南",
+          "link": "/zh/eu_mdr/mdcg/mdcg-2023-7"
+        },
+        {
+          "text": "MDCG 2024-10：孤儿医疗器械临床评价",
+          "link": "/zh/eu_mdr/mdcg/mdcg-2024-10"
+        },
+        {
+          "text": "MDCG 2024-3：临床调查计划（CIP）内容指南",
+          "link": "/zh/eu_mdr/mdcg/mdcg-2024-3"
+        },
+        {
+          "text": "MDCG 2024-5：研究者手册（IB）内容指南",
+          "link": "/zh/eu_mdr/mdcg/mdcg-2024-5"
+        },
+        {
+          "text": "MDCG 2025-4：在线平台上安全提供MDSW应用指南",
+          "link": "/zh/eu_mdr/mdcg/mdcg-2025-4"
+        },
+        {
+          "text": "MDCG 2025-6：MDR/IVDR与AI法案互动FAQ",
+          "link": "/zh/eu_mdr/mdcg/mdcg-2025-6"
+        },
+        {
+          "text": "MDCG 2025-9：突破性医疗器械（BtX）指南",
+          "link": "/zh/eu_mdr/mdcg/mdcg-2025-9"
+        }
+      ]
+    }
   ]
 }
