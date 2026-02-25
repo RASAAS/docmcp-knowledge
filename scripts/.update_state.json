@@ -50,5 +50,34 @@
       "Team-NB full Position Paper on Annex VII",
       "Team-NB Position Paper"
     ]
+  },
+  "fda/guidance_openfda": {
+    "last_checked": "2026-02-25T04:20:28.700831"
+  },
+  "fda/guidance_google": {
+    "url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents",
+    "last_checked": "2026-02-25T04:20:30.122100",
+    "seen_titles": [
+      "Medical Device Recalls and Early Alerts - FDA",
+      "Public Meeting: FDA Rare Disease Day 2026",
+      "Novel Drug Approvals for 2026 - FDA",
+      "CDER Small Business & Industry Assistance (SBIA) | FDA",
+      "openFDA downloads",
+      "2026 TPSAC Meeting Materials and Information | FDA",
+      "Office of Medical Device and Radiological Health Inspectorate ... - FDA",
+      "Town Hall – Clinical Decision Support Software, Final Guidance - FDA",
+      "Investigations Operations Manual - FDA",
+      "FDA Newsroom"
+    ]
+  },
+  "fda/consensus_standards": {
+    "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfStandards/search.cfm",
+    "last_checked": "2026-02-25T04:20:31.296180",
+    "status_code": 200
+  },
+  "fda/regulations_ecfr": {
+    "url": "https://www.ecfr.gov/current/title-21",
+    "last_checked": "2026-02-25T04:20:32.490848",
+    "status_code": 200
   }
 }

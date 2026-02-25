@@ -185,7 +185,7 @@
       "history": []
     }
   },
-  "last_updated": "2026-02-23T04:26:01.077584",
+  "last_updated": "2026-02-25T04:20:33.491513",
   "_schema_version": "1.0",
   "_description": "Version registry for regulatory documents tracked by docmcp-knowledge. Each entry tracks current version and full history. Updated automatically by fetch_updates.py when LLM confirms a version change."
 }
