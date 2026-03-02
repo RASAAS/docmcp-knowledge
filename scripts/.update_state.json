@@ -1,54 +1,57 @@
 {
   "eu_mdr/harmonised_standards": {
     "url": "https://health.ec.europa.eu/medical-devices-topics-interest/harmonised-standards_en",
-    "last_checked": "2026-02-23T04:25:49.303366",
+    "last_checked": "2026-03-02T04:15:24.299680",
     "status_code": 200
   },
   "eu_mdr/harmonised_standards_oj": {
-    "url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182/oj",
-    "last_checked": "2026-02-23T04:25:56.067652",
+    "url": "https://eur-lex.europa.eu/eli/dec_impl/2026/193/oj",
+    "last_checked": "2026-03-02T04:15:26.160982",
     "status_code": 200
   },
   "eu_mdr/mdcg_guidance": {
     "url": "https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en",
-    "last_checked": "2026-02-23T04:25:57.420860",
+    "last_checked": "2026-03-02T04:15:29.127316",
     "status_code": 200
   },
   "eu_mdr/mdcg_guidance_google": {
     "url": "https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en",
-    "last_checked": "2026-02-23T04:25:57.795031",
+    "last_checked": "2026-03-02T04:15:29.514989",
     "seen_titles": [
-      "Überblick - Public Health - Europäische Kommission",
-      "Member State Coordination Group on HTA (HTACG) - Public Health",
-      "Medical Device Coordination Group (MDCG) members– MD & IVD",
-      "In vitro-diagnostik - Public Health - Europeiska kommissionen",
       "Expert panels - Public Health - European Commission",
+      "Medical Device Coordination Group (MDCG) members– MD & IVD",
       "EUDAMED - Public Health - Európai Bizottság",
       "EUDAMED - Comisión Europea - Public Health",
       "Topics of Interest - Public Health - European Commission",
       "New Regulations - Public Health - European Commission",
-      "Инвитро диагностика - Public Health - Европейска комисия"
+      "Member State Coordination Group on HTA (HTACG) - Public Health",
+      "Инвитро диагностика - Public Health - Европейска комисия",
+      "Überblick - Public Health - Europäische Kommission",
+      "In vitro-diagnostik - Public Health - Europeiska kommissionen",
+      "Baza danych Eudamed - Public Health - Komisja Europejska",
+      "EUDAMED - Public Health - Comisión Europea"
     ]
   },
   "eu_mdr/team_nb": {
     "url": "https://www.team-nb.org/",
-    "last_checked": "2026-02-23T04:25:59.762393",
+    "last_checked": "2026-03-02T04:15:32.723515",
     "status_code": 200
   },
   "eu_mdr/team_nb_google": {
     "url": "https://www.team-nb.org/",
-    "last_checked": "2026-02-23T04:26:00.076585",
+    "last_checked": "2026-03-02T04:15:33.076002",
     "seen_titles": [
-      "All news - team-nb",
-      "team-nb: Home",
       "Assistant, auteur/autrice sur team-nb",
-      "Team-NB Position Paper on Demonstration of Safety and ...",
-      "Team-NB Letter on cybersecurity in medical devices",
-      "MDR Technical Documentation Training for Manufacturers - team-nb",
-      "New Member : Scarlet NB B.V. - team-nb",
-      "ABOUT US - team-nb",
       "Team-NB full Position Paper on Annex VII",
-      "Team-NB Position Paper"
+      "team-nb: Home",
+      "Team-NB Letter on cybersecurity in medical devices",
+      "New Member : Scarlet NB B.V. - team-nb",
+      "Team-NB Position Paper",
+      "Team-NB Position Paper on Demonstration of Safety and ...",
+      "ABOUT US - team-nb",
+      "All news - team-nb",
+      "MDR Technical Documentation Training for Manufacturers - team-nb",
+      "Team-NB documents"
     ]
   },
   "fda/guidance_openfda": {
@@ -175,5 +178,10 @@
       "IEC 60601-2-39:2024",
       "IEC 60601-2-34:2024"
     ]
+  },
+  "eu_mdr/harmonised_standards_consolidated": {
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02021D1182-20251020",
+    "last_checked": "2026-03-02T04:15:27.916121",
+    "status_code": 200
   }
 }
