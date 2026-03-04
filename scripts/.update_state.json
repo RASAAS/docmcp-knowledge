@@ -55,32 +55,40 @@
     ]
   },
   "fda/guidance_openfda": {
-    "last_checked": "2026-02-25T04:20:28.700831"
+    "last_checked": "2026-03-04T04:08:08.775631"
   },
   "fda/guidance_google": {
     "url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents",
-    "last_checked": "2026-02-25T04:20:30.122100",
+    "last_checked": "2026-03-04T04:08:10.192335",
     "seen_titles": [
+      "Investigations Operations Manual - FDA",
+      "Office of Medical Device and Radiological Health Inspectorate ... - FDA",
+      "FDA Newsroom",
       "Medical Device Recalls and Early Alerts - FDA",
-      "Public Meeting: FDA Rare Disease Day 2026",
-      "Novel Drug Approvals for 2026 - FDA",
       "CDER Small Business & Industry Assistance (SBIA) | FDA",
       "openFDA downloads",
       "2026 TPSAC Meeting Materials and Information | FDA",
-      "Office of Medical Device and Radiological Health Inspectorate ... - FDA",
       "Town Hall – Clinical Decision Support Software, Final Guidance - FDA",
-      "Investigations Operations Manual - FDA",
-      "FDA Newsroom"
+      "Public Meeting: FDA Rare Disease Day 2026",
+      "Novel Drug Approvals for 2026 - FDA",
+      "Medical Device User Fee Amendments 2028 (MDUFA VI) - FDA",
+      "Novel Drug Approvals for 2026 | FDA",
+      "Medical Device Recalls and Early Alerts | FDA",
+      "FDA Expert Panel on Food Allergies - 02/25/2026",
+      "Vaccines and Related Biological Products Advisory Committee ...",
+      "Notable Approvals | Drugs - FDA",
+      "MDUFA Reports | FDA - Food and Drug Administration",
+      "Outbreak Investigation of Salmonella: Moringa Powder ... - FDA"
     ]
   },
   "fda/consensus_standards": {
     "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfStandards/search.cfm",
-    "last_checked": "2026-02-25T04:20:31.296180",
+    "last_checked": "2026-03-04T04:08:11.398897",
     "status_code": 200
   },
   "fda/regulations_ecfr": {
     "url": "https://www.ecfr.gov/current/title-21",
-    "last_checked": "2026-02-25T04:20:32.490848",
+    "last_checked": "2026-03-04T04:08:12.578176",
     "status_code": 200
   },
   "nmpa/cmde_guidance": {
