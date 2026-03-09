@@ -1,57 +1,65 @@
 {
   "eu_mdr/harmonised_standards": {
     "url": "https://health.ec.europa.eu/medical-devices-topics-interest/harmonised-standards_en",
-    "last_checked": "2026-03-02T04:15:24.299680",
+    "last_checked": "2026-03-09T04:19:55.293121",
     "status_code": 200
   },
   "eu_mdr/harmonised_standards_oj": {
     "url": "https://eur-lex.europa.eu/eli/dec_impl/2026/193/oj",
-    "last_checked": "2026-03-02T04:15:26.160982",
+    "last_checked": "2026-03-09T04:19:57.054969",
     "status_code": 200
   },
   "eu_mdr/mdcg_guidance": {
     "url": "https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en",
-    "last_checked": "2026-03-02T04:15:29.127316",
+    "last_checked": "2026-03-09T04:20:03.809215",
     "status_code": 200
   },
   "eu_mdr/mdcg_guidance_google": {
     "url": "https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en",
-    "last_checked": "2026-03-02T04:15:29.514989",
+    "last_checked": "2026-03-09T04:20:04.213409",
     "seen_titles": [
-      "Expert panels - Public Health - European Commission",
-      "Medical Device Coordination Group (MDCG) members– MD & IVD",
       "EUDAMED - Public Health - Európai Bizottság",
-      "EUDAMED - Comisión Europea - Public Health",
-      "Topics of Interest - Public Health - European Commission",
+      "Expert panels - Public Health - European Commission",
       "New Regulations - Public Health - European Commission",
+      "Baza danych Eudamed - Public Health - Komisja Europejska",
+      "Überblick - Public Health - Europäische Kommission",
       "Member State Coordination Group on HTA (HTACG) - Public Health",
       "Инвитро диагностика - Public Health - Европейска комисия",
-      "Überblick - Public Health - Europäische Kommission",
       "In vitro-diagnostik - Public Health - Europeiska kommissionen",
-      "Baza danych Eudamed - Public Health - Komisja Europejska",
-      "EUDAMED - Public Health - Comisión Europea"
+      "Medical Device Coordination Group (MDCG) members– MD & IVD",
+      "Topics of Interest - Public Health - European Commission",
+      "EUDAMED - Comisión Europea - Public Health",
+      "EUDAMED - Public Health - Comisión Europea",
+      "Vue d'ensemble - Public Health - Commission européenne",
+      "Direktive - Public Health - Evropska komisija",
+      "Europos medicinos priemonių duomenų bazė („Eudamed“)"
     ]
   },
   "eu_mdr/team_nb": {
     "url": "https://www.team-nb.org/",
-    "last_checked": "2026-03-02T04:15:32.723515",
+    "last_checked": "2026-03-09T04:20:06.636406",
     "status_code": 200
   },
   "eu_mdr/team_nb_google": {
     "url": "https://www.team-nb.org/",
-    "last_checked": "2026-03-02T04:15:33.076002",
+    "last_checked": "2026-03-09T04:20:06.954803",
     "seen_titles": [
-      "Assistant, auteur/autrice sur team-nb",
-      "Team-NB full Position Paper on Annex VII",
-      "team-nb: Home",
-      "Team-NB Letter on cybersecurity in medical devices",
-      "New Member : Scarlet NB B.V. - team-nb",
-      "Team-NB Position Paper",
-      "Team-NB Position Paper on Demonstration of Safety and ...",
-      "ABOUT US - team-nb",
-      "All news - team-nb",
       "MDR Technical Documentation Training for Manufacturers - team-nb",
-      "Team-NB documents"
+      "New Member : Scarlet NB B.V. - team-nb",
+      "Assistant, auteur/autrice sur team-nb",
+      "ABOUT US - team-nb",
+      "Team-NB full Position Paper on Annex VII",
+      "All news - team-nb",
+      "team-nb: Home",
+      "Team-NB Position Paper on Demonstration of Safety and ...",
+      "Team-NB documents",
+      "Team-NB Position Paper",
+      "Team-NB Letter on cybersecurity in medical devices",
+      "Position Paper on MDR/IVDR revision: impact on the sector - team-nb",
+      "Demonstration of Safety and Performance for Combinatorial Use of ...",
+      "Team-NB-PositionPaper-Off-LabelUse-V1-20221005",
+      "Team-NB full Position Paper on Annex VII – Implementing ...",
+      "Team-NB-PositionPaper-Annex-VII-V1-20251216-ExecSum"
     ]
   },
   "fda/guidance_openfda": {
@@ -208,7 +216,7 @@
   },
   "eu_mdr/harmonised_standards_consolidated": {
     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02021D1182-20251020",
-    "last_checked": "2026-03-02T04:15:27.916121",
+    "last_checked": "2026-03-09T04:19:58.792413",
     "status_code": 200
   }
 }
