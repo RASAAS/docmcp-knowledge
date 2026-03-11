@@ -63,40 +63,44 @@
     ]
   },
   "fda/guidance_openfda": {
-    "last_checked": "2026-03-04T04:08:08.775631"
+    "last_checked": "2026-03-11T04:09:11.588373"
   },
   "fda/guidance_google": {
     "url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents",
-    "last_checked": "2026-03-04T04:08:10.192335",
+    "last_checked": "2026-03-11T04:09:13.030929",
     "seen_titles": [
       "Investigations Operations Manual - FDA",
-      "Office of Medical Device and Radiological Health Inspectorate ... - FDA",
       "FDA Newsroom",
-      "Medical Device Recalls and Early Alerts - FDA",
+      "Notable Approvals | Drugs - FDA",
       "CDER Small Business & Industry Assistance (SBIA) | FDA",
-      "openFDA downloads",
+      "Office of Medical Device and Radiological Health Inspectorate ... - FDA",
+      "Medical Device Recalls and Early Alerts - FDA",
+      "MDUFA Reports | FDA - Food and Drug Administration",
       "2026 TPSAC Meeting Materials and Information | FDA",
-      "Town Hall – Clinical Decision Support Software, Final Guidance - FDA",
-      "Public Meeting: FDA Rare Disease Day 2026",
-      "Novel Drug Approvals for 2026 - FDA",
-      "Medical Device User Fee Amendments 2028 (MDUFA VI) - FDA",
+      "Vaccines and Related Biological Products Advisory Committee ...",
       "Novel Drug Approvals for 2026 | FDA",
       "Medical Device Recalls and Early Alerts | FDA",
+      "Town Hall – Clinical Decision Support Software, Final Guidance - FDA",
       "FDA Expert Panel on Food Allergies - 02/25/2026",
-      "Vaccines and Related Biological Products Advisory Committee ...",
-      "Notable Approvals | Drugs - FDA",
-      "MDUFA Reports | FDA - Food and Drug Administration",
-      "Outbreak Investigation of Salmonella: Moringa Powder ... - FDA"
+      "Medical Device User Fee Amendments 2028 (MDUFA VI) - FDA",
+      "openFDA downloads",
+      "Novel Drug Approvals for 2026 - FDA",
+      "Public Meeting: FDA Rare Disease Day 2026",
+      "Outbreak Investigation of Salmonella: Moringa Powder ... - FDA",
+      "Town Hall – FDA's Quality Management System Regulation (QMSR ...",
+      "April 30, 2026: Meeting of the Oncologic Drugs Advisory Committee",
+      "Affirmation of Compliance Codes - FDA",
+      "Integra LifeSciences Removes Wound & Burn Products - FDA"
     ]
   },
   "fda/consensus_standards": {
     "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfStandards/search.cfm",
-    "last_checked": "2026-03-04T04:08:11.398897",
+    "last_checked": "2026-03-11T04:09:14.200919",
     "status_code": 200
   },
   "fda/regulations_ecfr": {
     "url": "https://www.ecfr.gov/current/title-21",
-    "last_checked": "2026-03-04T04:08:12.578176",
+    "last_checked": "2026-03-11T04:09:15.634770",
     "status_code": 200
   },
   "nmpa/cmde_guidance": {
