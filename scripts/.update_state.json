@@ -67,44 +67,51 @@
     ]
   },
   "fda/guidance_openfda": {
-    "last_checked": "2026-03-11T04:09:11.588373"
+    "last_checked": "2026-03-18T04:24:03.758242"
   },
   "fda/guidance_google": {
     "url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents",
-    "last_checked": "2026-03-11T04:09:13.030929",
+    "last_checked": "2026-03-18T04:24:05.222980",
     "seen_titles": [
-      "Investigations Operations Manual - FDA",
-      "FDA Newsroom",
-      "Notable Approvals | Drugs - FDA",
-      "CDER Small Business & Industry Assistance (SBIA) | FDA",
-      "Office of Medical Device and Radiological Health Inspectorate ... - FDA",
-      "Medical Device Recalls and Early Alerts - FDA",
-      "MDUFA Reports | FDA - Food and Drug Administration",
-      "2026 TPSAC Meeting Materials and Information | FDA",
-      "Vaccines and Related Biological Products Advisory Committee ...",
-      "Novel Drug Approvals for 2026 | FDA",
-      "Medical Device Recalls and Early Alerts | FDA",
       "Town Hall – Clinical Decision Support Software, Final Guidance - FDA",
-      "FDA Expert Panel on Food Allergies - 02/25/2026",
-      "Medical Device User Fee Amendments 2028 (MDUFA VI) - FDA",
-      "openFDA downloads",
+      "MDUFA Reports | FDA - Food and Drug Administration",
       "Novel Drug Approvals for 2026 - FDA",
-      "Public Meeting: FDA Rare Disease Day 2026",
-      "Outbreak Investigation of Salmonella: Moringa Powder ... - FDA",
-      "Town Hall – FDA's Quality Management System Regulation (QMSR ...",
-      "April 30, 2026: Meeting of the Oncologic Drugs Advisory Committee",
       "Affirmation of Compliance Codes - FDA",
-      "Integra LifeSciences Removes Wound & Burn Products - FDA"
+      "Notable Approvals | Drugs - FDA",
+      "Medical Device Recalls and Early Alerts - FDA",
+      "2026 TPSAC Meeting Materials and Information | FDA",
+      "Medical Device User Fee Amendments 2028 (MDUFA VI) - FDA",
+      "Public Meeting: FDA Rare Disease Day 2026",
+      "FDA Newsroom",
+      "Medical Device Recalls and Early Alerts | FDA",
+      "FDA Expert Panel on Food Allergies - 02/25/2026",
+      "Vaccines and Related Biological Products Advisory Committee ...",
+      "openFDA downloads",
+      "Town Hall – FDA's Quality Management System Regulation (QMSR ...",
+      "Novel Drug Approvals for 2026 | FDA",
+      "Integra LifeSciences Removes Wound & Burn Products - FDA",
+      "CDER Small Business & Industry Assistance (SBIA) | FDA",
+      "Outbreak Investigation of Salmonella: Moringa Powder ... - FDA",
+      "April 30, 2026: Meeting of the Oncologic Drugs Advisory Committee",
+      "Office of Medical Device and Radiological Health Inspectorate ... - FDA",
+      "Investigations Operations Manual - FDA",
+      "FDA Newsroom - Food and Drug Administration",
+      "Downloads - openFDA - Food and Drug Administration",
+      "Town Hall – Clinical Decision Support Software, Final Guidance",
+      "Medical Device Recalls - accessdata.fda.gov",
+      "Public Health Advisories from Foodborne Illness Outbreaks",
+      "Medical Device Shortages List | FDA",
+      "Recently Updated Advisory Committee Materials | FDA"
     ]
   },
   "fda/consensus_standards": {
     "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfStandards/search.cfm",
-    "last_checked": "2026-03-11T04:09:14.200919",
+    "last_checked": "2026-03-18T04:24:06.515395",
     "status_code": 200
   },
   "fda/regulations_ecfr": {
     "url": "https://www.ecfr.gov/current/title-21",
-    "last_checked": "2026-03-11T04:09:15.634770",
+    "last_checked": "2026-03-18T04:24:08.022591",
     "status_code": 200
   },
   "nmpa/cmde_guidance": {
