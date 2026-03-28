@@ -103,7 +103,6 @@ export default defineConfig({
           { text: 'NMPA', link: '/en/nmpa/' },
           { text: 'Standards', link: '/en/shared/standards' },
           { text: 'Insights', link: '/en/insights/' },
-          { text: 'Contact', link: '/en/contact' },
         ],
         sidebar: Object.assign(
           {
@@ -203,7 +202,6 @@ export default defineConfig({
           { text: 'NMPA', link: '/zh/nmpa/' },
           { text: '标准', link: '/zh/shared/standards' },
           { text: '法规解读', link: '/zh/insights/' },
-          { text: '联系我们', link: '/zh/contact' },
         ],
         sidebar: zhSidebar,
         socialLinks: [
