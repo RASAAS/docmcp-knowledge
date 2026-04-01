@@ -267,34 +267,43 @@
   },
   "shared/iso_tc210": {
     "url": "https://www.iso.org/committee/54892/x/catalogue/",
-    "last_checked": "2026-03-01T04:47:16.184359",
+    "last_checked": "2026-04-01T04:46:07.987874",
     "seen_titles": [
       "ISO - International Organization for Standardization - LinkedIn",
-      "ISO/AWI TS 26420 - Biological evaluation of medical devices",
-      "ISO 10993-1:2018 - Évaluation biologique des dispositifs médicaux",
       "ISO 17510:2025(en), Medical devices — Sleep apnoea breathing ...",
-      "Complete medical device compliance essentials package - ISO",
-      "ISO 10993-1:2025(en), Biological evaluation of medical devices",
       "ISO 10993-1:2025 - Biological evaluation of medical devices — Part 1",
+      "Complete medical device compliance essentials package - ISO",
       "ISO 10993-1:2018 - Biological evaluation of medical devices — Part 1",
-      "ISO 10993-1:2018 - Biological evaluation of medical devices — Part 1",
-      "ISO 6876:2025(en), Dentistry — Endodontic sealing materials"
+      "ISO/AWI TS 26420 - Biological evaluation of medical devices",
+      "ISO 6876:2025(en), Dentistry — Endodontic sealing materials",
+      "ISO 10993-1:2025(en), Biological evaluation of medical devices",
+      "ISO 10993-1:2018 - Évaluation biologique des dispositifs médicaux",
+      "SWP Jan-June 26 - WTO ISO Standards Information Gateway",
+      "ISO 20417:2026 - Medical devices — Information to be supplied by ...",
+      "ISO/TR 24971:2020 - Medical devices"
     ]
   },
   "shared/iec_tc62": {
     "url": "https://www.iec.ch/dyn/www/f?p=103:7:::::FSP_ORG_ID:1245",
-    "last_checked": "2026-03-01T04:47:17.588241",
+    "last_checked": "2026-04-01T04:46:09.319172",
     "seen_titles": [
-      "IEC 60601-1:2026 SER",
-      "SDG 10 - Reduced inequalities",
-      "IECEE TRF 60601-1-9E:2025 - IEC Webstore",
-      "IECEE TRF 60601-1-12C:2025 - IEC Webstore",
+      "IEC 60601-2-40:2024",
+      "IEC 60601-2-16:2025",
+      "IEC 60601-2-39:2024",
+      "IEC 60601-2-34:2024",
       "IEC 60417 5017 | Products & Services Portal",
       "IEC 60601-2-68:2025",
-      "IEC 60601-2-16:2025",
-      "IEC 60601-2-40:2024",
-      "IEC 60601-2-39:2024",
-      "IEC 60601-2-34:2024"
+      "IECEE TRF 60601-1-9E:2025 - IEC Webstore",
+      "IEC 60601-1:2026 SER",
+      "SDG 10 - Reduced inequalities",
+      "IECEE TRF 60601-1-12C:2025 - IEC Webstore",
+      "IEC homepage",
+      "SDG 10 - Reduced inequalities - IEC",
+      "SDG 12 - Responsible consumption and production - IEC",
+      "robotics | IEC",
+      "IEC community",
+      "IEC 60601-2-64:2025",
+      "Redundancy for medical devices when disaster hits - IEC e-tech"
     ]
   },
   "eu_mdr/harmonised_standards_consolidated": {
