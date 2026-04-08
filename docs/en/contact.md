@@ -48,8 +48,8 @@ title: Contact Us
 <p>All users can register directly and get a <strong>72-hour free trial</strong> with full feature access -- no invite code required.</p>
 
 <ol>
-  <li>Visit <a href="https://app.team-ra.org" target="_blank"><strong>app.team-ra.org</strong></a> and install the Reguverse Assistant add-in for Microsoft Word</li>
-  <li>Register within the add-in to start your free trial</li>
+  <li><a href="/downloads/ReguverseAssistant-Installer.zip"><strong>Download the installer</strong></a>, unzip and follow the instructions to install the Reguverse Assistant Word add-in (Windows and macOS supported)</li>
+  <li>Open the add-in in Word and register to start your free trial</li>
   <li>After the trial, choose the plan that best fits your needs</li>
 </ol>
 

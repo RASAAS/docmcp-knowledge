@@ -48,8 +48,8 @@ title: 联系我们
 <p>所有用户均可直接注册并获得 <strong>72 小时免费试用</strong>，体验全部功能，无需邀请码。</p>
 
 <ol>
-  <li>访问 <a href="https://app.team-ra.org" target="_blank"><strong>app.team-ra.org</strong></a>，在 Microsoft Word 中安装 Reguverse 助手插件</li>
-  <li>在插件中完成注册（个人用户需完成实名认证），即可开始试用</li>
+  <li><a href="/downloads/ReguverseAssistant-Installer.zip"><strong>下载安装包</strong></a>，解压后按照说明安装 Reguverse 助手 Word 插件（支持 Windows 和 macOS）</li>
+  <li>在 Word 中打开插件，完成注册（个人用户需完成实名认证），即可开始试用</li>
   <li>试用期满后可根据需要选择合适的套餐升级</li>
 </ol>
 
