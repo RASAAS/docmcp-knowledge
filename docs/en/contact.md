@@ -74,7 +74,7 @@ title: Contact Us
   <div class="plan-price">Free</div>
   <div class="plan-period">72 hours</div>
   <ul>
-    <li>500K token quota</li>
+    <li>1M token quota</li>
     <li>Full feature access</li>
     <li>1 project</li>
     <li>EU MDR only</li>
@@ -83,10 +83,10 @@ title: Contact Us
 
 <div class="plan-card">
   <div class="plan-name">Basic</div>
-  <div class="plan-price">$10</div>
-  <div class="plan-period">per month / $100 per year</div>
+  <div class="plan-price">$49</div>
+  <div class="plan-period">per month / $490 per year</div>
   <ul>
-    <li>500K tokens / month</li>
+    <li>8M tokens / month</li>
     <li>3 projects</li>
     <li>EU MDR only</li>
     <li>Email support</li>
@@ -96,10 +96,10 @@ title: Contact Us
 <div class="plan-card plan-featured">
   <div class="plan-badge">Popular</div>
   <div class="plan-name">Pro</div>
-  <div class="plan-price">$20</div>
-  <div class="plan-period">per month / $200 per year</div>
+  <div class="plan-price">$129</div>
+  <div class="plan-period">per month / $1,290 per year</div>
   <ul>
-    <li>2M tokens / month</li>
+    <li>24M tokens / month</li>
     <li>10 projects</li>
     <li>EU MDR / FDA / NMPA</li>
     <li>Priority support</li>
@@ -108,10 +108,10 @@ title: Contact Us
 
 <div class="plan-card">
   <div class="plan-name">Max</div>
-  <div class="plan-price">$80</div>
-  <div class="plan-period">per month / $800 per year</div>
+  <div class="plan-price">$299</div>
+  <div class="plan-period">per month / $2,990 per year</div>
   <ul>
-    <li>10M tokens / month</li>
+    <li>60M tokens / month</li>
     <li>Unlimited projects</li>
     <li>All regulations</li>
     <li>Dedicated support</li>

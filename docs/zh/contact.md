@@ -74,7 +74,7 @@ title: 联系我们
   <div class="plan-price">免费</div>
   <div class="plan-period">72 小时</div>
   <ul>
-    <li>50万 tokens 额度</li>
+    <li>100万 tokens 额度</li>
     <li>全功能体验</li>
     <li>1 个项目</li>
     <li>仅限 EU MDR</li>
@@ -83,10 +83,10 @@ title: 联系我们
 
 <div class="plan-card">
   <div class="plan-name">基础版</div>
-  <div class="plan-price">$10</div>
-  <div class="plan-period">每月 / $100 每年</div>
+  <div class="plan-price">$49</div>
+  <div class="plan-period">每月 / $490 每年</div>
   <ul>
-    <li>50万 tokens / 月</li>
+    <li>800万 tokens / 月</li>
     <li>3 个项目</li>
     <li>仅限 EU MDR</li>
     <li>邮件支持</li>
@@ -96,10 +96,10 @@ title: 联系我们
 <div class="plan-card plan-featured">
   <div class="plan-badge">推荐</div>
   <div class="plan-name">专业版</div>
-  <div class="plan-price">$20</div>
-  <div class="plan-period">每月 / $200 每年</div>
+  <div class="plan-price">$129</div>
+  <div class="plan-period">每月 / $1,290 每年</div>
   <ul>
-    <li>200万 tokens / 月</li>
+    <li>2400万 tokens / 月</li>
     <li>10 个项目</li>
     <li>EU MDR / FDA / NMPA</li>
     <li>优先支持</li>
@@ -108,10 +108,10 @@ title: 联系我们
 
 <div class="plan-card">
   <div class="plan-name">旗舰版</div>
-  <div class="plan-price">$80</div>
-  <div class="plan-period">每月 / $800 每年</div>
+  <div class="plan-price">$299</div>
+  <div class="plan-period">每月 / $2,990 每年</div>
   <ul>
-    <li>1000万 tokens / 月</li>
+    <li>6000万 tokens / 月</li>
     <li>不限项目</li>
     <li>全法规覆盖</li>
     <li>专属支持</li>
@@ -121,7 +121,7 @@ title: 联系我们
 <div class="plan-card">
   <div class="plan-name">CRO 版</div>
   <div class="plan-price">$300</div>
-  <div class="plan-period">每月 / $3000 每年</div>
+  <div class="plan-period">每月 / $3,000 每年</div>
   <ul>
     <li>2000万 tokens / 月</li>
     <li>不限项目</li>
