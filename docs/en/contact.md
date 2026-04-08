@@ -7,7 +7,7 @@ title: Contact Us
 
 <div class="contact-hero">
   <h1>Contact Us</h1>
-  <p class="hero-tagline">DocMCP - AI-powered regulatory intelligence for medical device manufacturers</p>
+  <p class="hero-tagline">Reguverse Assistant (DocMCP) - AI-powered regulatory intelligence for medical device manufacturers</p>
 </div>
 
 <div class="contact-grid">
@@ -16,14 +16,14 @@ title: Contact Us
   <div class="card-icon">&#x1f4e7;</div>
   <h3>Technical Support</h3>
   <p>For platform usage, technical issues, and feature requests.</p>
-  <a href="mailto:support@team-ra.org" class="card-link">support@team-ra.org</a>
+  <a href="mailto:michael.yan@cf.team-ra.org" class="card-link">michael.yan@cf.team-ra.org</a>
 </div>
 
 <div class="contact-card">
   <div class="card-icon">&#x1f4bc;</div>
   <h3>Business Inquiries</h3>
   <p>For partnerships, enterprise plans, and commercial licensing.</p>
-  <a href="mailto:business@team-ra.org" class="card-link">business@team-ra.org</a>
+  <a href="mailto:michael@rcsc.ltd" class="card-link">michael@rcsc.ltd</a>
 </div>
 
 <div class="contact-card">
@@ -36,28 +36,26 @@ title: Contact Us
 </div>
 
 <div class="section-block">
-<h2>About DocMCP</h2>
-<p>DocMCP is a regulatory intelligence platform that helps medical device manufacturers navigate complex global regulatory requirements (EU MDR, FDA, NMPA). Our AI tools automate clinical evaluation, literature review, and regulatory document workflows -- reducing months of manual work to days.</p>
+<h2>About Reguverse Assistant</h2>
+<p>Reguverse Assistant (DocMCP) is a regulatory intelligence platform that helps medical device manufacturers navigate complex global regulatory requirements (EU MDR, FDA, NMPA). Our AI tools automate clinical evaluation, literature review, and regulatory document workflows -- reducing months of manual work to days.</p>
 </div>
 
 <div class="section-block">
 <h2>Get Started</h2>
 
-<h3>Request an Invite Code</h3>
+<h3>Free Trial</h3>
 
-<p>DocMCP is currently invite-only. To apply:</p>
+<p>All users can register directly and get a <strong>72-hour free trial</strong> with full feature access -- no invite code required.</p>
 
 <ol>
-  <li>Send an email to <a href="mailto:support@team-ra.org"><strong>support@team-ra.org</strong></a> with subject: <em>"DocMCP Invite Code Request"</em></li>
-  <li>Include:
-    <ul>
-      <li>Your name and organization</li>
-      <li>Your role (e.g. regulatory affairs, clinical evaluation, quality management)</li>
-      <li>A brief description of your use case</li>
-    </ul>
-  </li>
-  <li>We will review and respond within 2 business days.</li>
+  <li>Visit <a href="https://app.team-ra.org" target="_blank"><strong>app.team-ra.org</strong></a> and install the Reguverse Assistant add-in for Microsoft Word</li>
+  <li>Register within the add-in to start your free trial</li>
+  <li>After the trial, choose the plan that best fits your needs</li>
 </ol>
+
+<h3>Enterprise Contracts</h3>
+
+<p>Enterprise customers with signed contracts use invite codes to register with dedicated plan benefits. For enterprise agreements, contact <a href="mailto:michael@rcsc.ltd"><strong>michael@rcsc.ltd</strong></a>.</p>
 </div>
 
 <div class="section-block">
@@ -72,17 +70,19 @@ title: Contact Us
   <ul>
     <li>500K token quota</li>
     <li>Full feature access</li>
-    <li>One-time trial</li>
+    <li>1 project</li>
+    <li>EU MDR only</li>
   </ul>
 </div>
 
 <div class="plan-card">
   <div class="plan-name">Basic</div>
   <div class="plan-price">$10</div>
-  <div class="plan-period">per month</div>
+  <div class="plan-period">per month / $100 per year</div>
   <ul>
     <li>500K tokens / month</li>
-    <li>Basic model access</li>
+    <li>3 projects</li>
+    <li>EU MDR only</li>
     <li>Email support</li>
   </ul>
 </div>
@@ -91,10 +91,11 @@ title: Contact Us
   <div class="plan-badge">Popular</div>
   <div class="plan-name">Pro</div>
   <div class="plan-price">$20</div>
-  <div class="plan-period">per month</div>
+  <div class="plan-period">per month / $200 per year</div>
   <ul>
     <li>2M tokens / month</li>
-    <li>Pro model access</li>
+    <li>10 projects</li>
+    <li>EU MDR / FDA / NMPA</li>
     <li>Priority support</li>
   </ul>
 </div>
@@ -102,17 +103,30 @@ title: Contact Us
 <div class="plan-card">
   <div class="plan-name">Max</div>
   <div class="plan-price">$80</div>
-  <div class="plan-period">per month</div>
+  <div class="plan-period">per month / $800 per year</div>
   <ul>
     <li>10M tokens / month</li>
-    <li>All model access</li>
+    <li>Unlimited projects</li>
+    <li>All regulations</li>
+    <li>Dedicated support</li>
+  </ul>
+</div>
+
+<div class="plan-card">
+  <div class="plan-name">CRO</div>
+  <div class="plan-price">$300</div>
+  <div class="plan-period">per month / $3,000 per year</div>
+  <ul>
+    <li>20M tokens / month</li>
+    <li>Unlimited projects</li>
+    <li>All regulations</li>
     <li>Dedicated support</li>
   </ul>
 </div>
 
 </div>
 
-<p class="plans-note">Annual subscriptions available at a discount. Contact us for details.</p>
+<p class="plans-note">All paid plans support monthly or annual billing. Additional token top-up packs available when quota is exhausted.</p>
 </div>
 
 <div class="section-block">
@@ -120,8 +134,8 @@ title: Contact Us
 
 <div class="partners-grid">
   <div class="partner-item">
-    <strong>Regulatory Consultancies</strong>
-    <span>Enhance your service capabilities with AI-powered tools</span>
+    <strong>Regulatory Consultancies (CRO)</strong>
+    <span>Dedicated CRO plan to enhance your service capabilities with AI-powered tools</span>
   </div>
   <div class="partner-item">
     <strong>Device Manufacturers</strong>
@@ -135,8 +149,8 @@ title: Contact Us
 </div>
 
 <div class="section-block legal-section">
-  <p>Knowledge base content licensed under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>. DocMCP software and services are proprietary products.</p>
-  <p><a href="/en/privacy">Privacy Policy</a> | <a href="/en/terms">Terms of Service</a></p>
+  <p>Knowledge base content licensed under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>. Reguverse Assistant software and services are proprietary products.</p>
+  <p><a href="https://reguverse.com/agreement" target="_blank">Terms of Service & Privacy Policy</a></p>
 </div>
 
 </div>
@@ -157,6 +171,7 @@ title: Contact Us
 .contact-hero h1 {
   font-size: 2.5rem;
   font-weight: 700;
+  line-height: 1.3;
   margin-bottom: 0.75rem;
   background: linear-gradient(135deg, var(--vp-c-brand-1), var(--vp-c-brand-2));
   -webkit-background-clip: text;
@@ -252,7 +267,7 @@ title: Contact Us
 
 .plans-grid {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(5, 1fr);
   gap: 1rem;
   margin: 1.5rem 0;
 }
@@ -359,6 +374,12 @@ title: Contact Us
 .legal-section p {
   font-size: 0.85rem;
   color: var(--vp-c-text-3);
+}
+
+@media (max-width: 960px) {
+  .plans-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
 }
 
 @media (max-width: 768px) {

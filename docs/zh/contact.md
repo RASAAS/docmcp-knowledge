@@ -7,7 +7,7 @@ title: 联系我们
 
 <div class="contact-hero">
   <h1>联系我们</h1>
-  <p class="hero-tagline">DocMCP - AI 驱动的医疗器械法规智能平台</p>
+  <p class="hero-tagline">Reguverse 助手 (DocMCP) - AI 驱动的医疗器械法规智能平台</p>
 </div>
 
 <div class="contact-grid">
@@ -16,14 +16,14 @@ title: 联系我们
   <div class="card-icon">&#x1f4e7;</div>
   <h3>技术支持</h3>
   <p>平台使用、技术问题及功能建议。</p>
-  <a href="mailto:support@team-ra.org" class="card-link">support@team-ra.org</a>
+  <a href="mailto:michael.yan@cf.team-ra.org" class="card-link">michael.yan@cf.team-ra.org</a>
 </div>
 
 <div class="contact-card">
   <div class="card-icon">&#x1f4bc;</div>
   <h3>商务合作</h3>
   <p>合作洽谈、企业方案及商业授权。</p>
-  <a href="mailto:business@team-ra.org" class="card-link">business@team-ra.org</a>
+  <a href="mailto:michael@rcsc.ltd" class="card-link">michael@rcsc.ltd</a>
 </div>
 
 <div class="contact-card">
@@ -36,28 +36,26 @@ title: 联系我们
 </div>
 
 <div class="section-block">
-<h2>关于 DocMCP</h2>
-<p>DocMCP 是一个法规智能平台，帮助医疗器械制造商应对全球市场（EU MDR、FDA、NMPA）的复杂合规要求。我们的 AI 工具可以简化临床评价、文献审查和法规文件编制流程 -- 将数月的手工工作缩短到数天。</p>
+<h2>关于 Reguverse 助手</h2>
+<p>Reguverse 助手（DocMCP）是一个法规智能平台，帮助医疗器械制造商应对全球市场（EU MDR、FDA、NMPA）的复杂合规要求。我们的 AI 工具可以简化临床评价、文献审查和法规文件编制流程 -- 将数月的手工工作缩短到数天。</p>
 </div>
 
 <div class="section-block">
 <h2>开始使用</h2>
 
-<h3>申请邀请码</h3>
+<h3>免费试用</h3>
 
-<p>DocMCP 目前仅通过邀请注册，申请方式：</p>
+<p>所有用户均可直接注册并获得 <strong>72 小时免费试用</strong>，体验全部功能，无需邀请码。</p>
 
 <ol>
-  <li>发送邮件至 <a href="mailto:support@team-ra.org"><strong>support@team-ra.org</strong></a>，主题为：<em>"DocMCP 邀请码申请"</em></li>
-  <li>内容请包括：
-    <ul>
-      <li>您的姓名和所在机构</li>
-      <li>您的角色（如法规事务、临床评价、质量管理等）</li>
-      <li>简要描述您的使用场景</li>
-    </ul>
-  </li>
-  <li>我们将在 2 个工作日内审核并回复。</li>
+  <li>访问 <a href="https://app.team-ra.org" target="_blank"><strong>app.team-ra.org</strong></a>，在 Microsoft Word 中安装 Reguverse 助手插件</li>
+  <li>在插件中完成注册（个人用户需完成实名认证），即可开始试用</li>
+  <li>试用期满后可根据需要选择合适的套餐升级</li>
 </ol>
+
+<h3>企业签约</h3>
+
+<p>已签约合同的企业用户使用邀请码注册，获得专属套餐权益。如需企业签约，请联系 <a href="mailto:michael@rcsc.ltd"><strong>michael@rcsc.ltd</strong></a>。</p>
 </div>
 
 <div class="section-block">
@@ -72,17 +70,19 @@ title: 联系我们
   <ul>
     <li>50万 tokens 额度</li>
     <li>全功能体验</li>
-    <li>仅限一次</li>
+    <li>1 个项目</li>
+    <li>仅限 EU MDR</li>
   </ul>
 </div>
 
 <div class="plan-card">
   <div class="plan-name">基础版</div>
   <div class="plan-price">$10</div>
-  <div class="plan-period">每月</div>
+  <div class="plan-period">每月 / $100 每年</div>
   <ul>
     <li>50万 tokens / 月</li>
-    <li>基础模型访问</li>
+    <li>3 个项目</li>
+    <li>仅限 EU MDR</li>
     <li>邮件支持</li>
   </ul>
 </div>
@@ -91,10 +91,11 @@ title: 联系我们
   <div class="plan-badge">推荐</div>
   <div class="plan-name">专业版</div>
   <div class="plan-price">$20</div>
-  <div class="plan-period">每月</div>
+  <div class="plan-period">每月 / $200 每年</div>
   <ul>
     <li>200万 tokens / 月</li>
-    <li>专业模型访问</li>
+    <li>10 个项目</li>
+    <li>EU MDR / FDA / NMPA</li>
     <li>优先支持</li>
   </ul>
 </div>
@@ -102,41 +103,50 @@ title: 联系我们
 <div class="plan-card">
   <div class="plan-name">旗舰版</div>
   <div class="plan-price">$80</div>
-  <div class="plan-period">每月</div>
+  <div class="plan-period">每月 / $800 每年</div>
   <ul>
     <li>1000万 tokens / 月</li>
-    <li>全模型访问</li>
+    <li>不限项目</li>
+    <li>全法规覆盖</li>
     <li>专属支持</li>
+  </ul>
+</div>
+
+<div class="plan-card">
+  <div class="plan-name">CRO 版</div>
+  <div class="plan-price">$300</div>
+  <div class="plan-period">每月 / $3000 每年</div>
+  <ul>
+    <li>2000万 tokens / 月</li>
+    <li>不限项目</li>
+    <li>全法规覆盖</li>
+    <li>专属技术支持</li>
   </ul>
 </div>
 
 </div>
 
-<p class="plans-note">年度订阅享受折扣，详情请联系我们。</p>
+<p class="plans-note">所有付费套餐支持按月或按年订阅。额度用尽后可单独购买 token 补充包。</p>
 </div>
 
 <div class="section-block">
 <h2>合作与服务</h2>
 
-<div class="partners-grid">
+<div class="partners-grid partners-grid-2col">
   <div class="partner-item">
-    <strong>法规咨询机构</strong>
-    <span>提升服务能力，引入 AI 辅助工具</span>
+    <strong>法规咨询机构 (CRO)</strong>
+    <span>专属 CRO 套餐，提升服务能力，引入 AI 辅助工具</span>
   </div>
   <div class="partner-item">
     <strong>医疗器械制造商</strong>
     <span>简化合规流程，加速上市</span>
   </div>
-  <div class="partner-item">
-    <strong>公告机构和监管部门</strong>
-    <span>AI 辅助审查工具</span>
-  </div>
 </div>
 </div>
 
 <div class="section-block legal-section">
-  <p>知识库内容以 <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a> 许可证授权。DocMCP 软件和服务为专有产品。</p>
-  <p><a href="/zh/privacy">隐私政策</a> | <a href="/zh/terms">服务条款</a></p>
+  <p>知识库内容以 <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a> 许可证授权。Reguverse 助手软件和服务为专有产品。</p>
+  <p><a href="https://reguverse.com/agreement" target="_blank">服务条款与隐私政策</a></p>
 </div>
 
 </div>
@@ -157,6 +167,7 @@ title: 联系我们
 .contact-hero h1 {
   font-size: 2.5rem;
   font-weight: 700;
+  line-height: 1.3;
   margin-bottom: 0.75rem;
   background: linear-gradient(135deg, var(--vp-c-brand-1), var(--vp-c-brand-2));
   -webkit-background-clip: text;
@@ -252,7 +263,7 @@ title: 联系我们
 
 .plans-grid {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(5, 1fr);
   gap: 1rem;
   margin: 1.5rem 0;
 }
@@ -329,6 +340,10 @@ title: 联系我们
   margin-top: 1rem;
 }
 
+.partners-grid-2col {
+  grid-template-columns: repeat(2, 1fr);
+}
+
 .partner-item {
   display: flex;
   flex-direction: column;
@@ -361,6 +376,12 @@ title: 联系我们
   color: var(--vp-c-text-3);
 }
 
+@media (max-width: 960px) {
+  .plans-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
 @media (max-width: 768px) {
   .contact-grid {
     grid-template-columns: 1fr;
@@ -368,7 +389,8 @@ title: 联系我们
   .plans-grid {
     grid-template-columns: repeat(2, 1fr);
   }
-  .partners-grid {
+  .partners-grid,
+  .partners-grid-2col {
     grid-template-columns: 1fr;
   }
 }
