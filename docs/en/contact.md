@@ -24,6 +24,7 @@ title: Contact Us
   <h3>Business Inquiries</h3>
   <p>For partnerships, enterprise plans, and commercial licensing.</p>
   <a href="mailto:michael@rcsc.ltd" class="card-link">michael@rcsc.ltd</a>
+  <br><a href="mailto:wellhoned_med@163.com" class="card-link">wellhoned_med@163.com</a>
 </div>
 
 <div class="contact-card">
@@ -47,8 +48,13 @@ title: Contact Us
 
 <p>All users can register directly and get a <strong>72-hour free trial</strong> with full feature access -- no invite code required.</p>
 
+<div class="download-section">
+  <a href="/downloads/ReguverseAssistant-Installer.zip" class="download-btn">&#x2B07; Download Reguverse Assistant Installer</a>
+  <span class="download-hint">Windows and macOS supported -- unzip and run the install script</span>
+</div>
+
 <ol>
-  <li><a href="/downloads/ReguverseAssistant-Installer.zip"><strong>Download the installer</strong></a>, unzip and follow the instructions to install the Reguverse Assistant Word add-in (Windows and macOS supported)</li>
+  <li>Download the installer, unzip and follow the instructions to install the Word add-in</li>
   <li>Open the add-in in Word and register to start your free trial</li>
   <li>After the trial, choose the plan that best fits your needs</li>
 </ol>
@@ -229,10 +235,42 @@ title: Contact Us
   color: var(--vp-c-brand-1);
   font-weight: 500;
   text-decoration: none;
+  font-size: 0.9rem;
 }
 
 .card-link:hover {
   text-decoration: underline;
+}
+
+.download-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+  margin: 1.25rem 0;
+}
+
+.download-btn {
+  display: inline-block;
+  padding: 0.75rem 2rem;
+  background: var(--vp-c-brand-1);
+  color: white !important;
+  font-size: 1.1rem;
+  font-weight: 700;
+  border-radius: 8px;
+  text-decoration: none !important;
+  transition: background 0.2s, box-shadow 0.2s;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+.download-btn:hover {
+  background: var(--vp-c-brand-2);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+}
+
+.download-hint {
+  font-size: 0.85rem;
+  color: var(--vp-c-text-3);
 }
 
 .section-block {

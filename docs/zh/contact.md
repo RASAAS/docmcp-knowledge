@@ -24,6 +24,7 @@ title: 联系我们
   <h3>商务合作</h3>
   <p>合作洽谈、企业方案及商业授权。</p>
   <a href="mailto:michael@rcsc.ltd" class="card-link">michael@rcsc.ltd</a>
+  <br><a href="mailto:wellhoned_med@163.com" class="card-link">wellhoned_med@163.com</a>
 </div>
 
 <div class="contact-card">
@@ -47,8 +48,13 @@ title: 联系我们
 
 <p>所有用户均可直接注册并获得 <strong>72 小时免费试用</strong>，体验全部功能，无需邀请码。</p>
 
+<div class="download-section">
+  <a href="/downloads/ReguverseAssistant-Installer.zip" class="download-btn">&#x2B07; 下载 Reguverse 助手安装包</a>
+  <span class="download-hint">支持 Windows 和 macOS -- 解压后双击安装脚本即可</span>
+</div>
+
 <ol>
-  <li><a href="/downloads/ReguverseAssistant-Installer.zip"><strong>下载安装包</strong></a>，解压后按照说明安装 Reguverse 助手 Word 插件（支持 Windows 和 macOS）</li>
+  <li>下载安装包，解压后按照说明安装 Word 插件</li>
   <li>在 Word 中打开插件，完成注册（个人用户需完成实名认证），即可开始试用</li>
   <li>试用期满后可根据需要选择合适的套餐升级</li>
 </ol>
@@ -225,10 +231,42 @@ title: 联系我们
   color: var(--vp-c-brand-1);
   font-weight: 500;
   text-decoration: none;
+  font-size: 0.9rem;
 }
 
 .card-link:hover {
   text-decoration: underline;
+}
+
+.download-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+  margin: 1.25rem 0;
+}
+
+.download-btn {
+  display: inline-block;
+  padding: 0.75rem 2rem;
+  background: var(--vp-c-brand-1);
+  color: white !important;
+  font-size: 1.1rem;
+  font-weight: 700;
+  border-radius: 8px;
+  text-decoration: none !important;
+  transition: background 0.2s, box-shadow 0.2s;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+.download-btn:hover {
+  background: var(--vp-c-brand-2);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+}
+
+.download-hint {
+  font-size: 0.85rem;
+  color: var(--vp-c-text-3);
 }
 
 .section-block {
