@@ -4,10 +4,11 @@ Automated Regulatory Update Monitoring Script
 Checks official sources for new/updated regulatory content and creates update reports.
 
 Strategy (4-layer detection with DB comparison):
-  Layer 1: RSS Feed        - FDA Medical Devices RSS (real-time, no anti-scraping)
-  Layer 2: Structured API  - eCFR Versioner API, EUR-Lex (replaces unreliable http_head)
-  Layer 3: Google CSE      - NMPA, CMDE, ISO, FDA supplement (with title_filter)
-  Layer 4: OpenFDA API     - FDA guidance search via official API
+  Layer 1: RSS Feed          - FDA Medical Devices RSS (real-time, no anti-scraping)
+  Layer 2: Structured API    - eCFR Versioner API, EUR-Lex (replaces unreliable http_head)
+  Layer 3: Vertex AI Search  - Preferred: searchLite API (free 10K/month, site-restricted)
+           (Google CSE)      - Legacy fallback (sunsets 2027-01-01)
+  Layer 4: OpenFDA API       - FDA guidance search via official API
   Filter:  DatabaseComparator - Compare detections against existing _index.json data
 
 Usage:
@@ -47,6 +48,12 @@ VERSION_REGISTRY_PATH = ROOT / "scripts" / "version_registry.json"
 # ---------------------------------------------------------------------------
 # Environment variables (set as GitHub Secrets / local .env)
 # ---------------------------------------------------------------------------
+# Vertex AI Search (preferred -- replaces CSE from 2027-01-01)
+VERTEX_AI_PROJECT_ID = os.environ.get("VERTEX_AI_PROJECT_ID", "")
+VERTEX_AI_SEARCH_APP_ID = os.environ.get("VERTEX_AI_SEARCH_APP_ID", "")
+VERTEX_AI_SEARCH_API_KEY = os.environ.get("VERTEX_AI_SEARCH_API_KEY", "")
+
+# Legacy Google CSE (fallback if Vertex AI not configured; sunsets 2027-01-01)
 GOOGLE_SEARCH_API_KEY = os.environ.get("GOOGLE_SEARCH_API_KEY", "")
 GOOGLE_SEARCH_ENGINE_ID = os.environ.get("GOOGLE_SEARCH_ENGINE_ID", "")
 FDA_API_KEY = os.environ.get("FDA_API_KEY", "")
@@ -548,6 +555,107 @@ class GoogleSearchChecker:
 
 
 # ---------------------------------------------------------------------------
+# Layer 3b: Vertex AI Search (searchLite API) -- replaces Google CSE
+# Uses API Key auth via searchLite endpoint; domains restricted by data store.
+# Free tier: 10,000 queries/month (our weekly cron uses ~44/month).
+# Docs: https://docs.cloud.google.com/generative-ai-app-builder/docs/migrate-from-cse
+# ---------------------------------------------------------------------------
+
+class VertexAISearchChecker:
+    SEARCHLITE_URL = (
+        "https://discoveryengine.googleapis.com/v1/projects/{project_id}"
+        "/locations/global/collections/default_collection"
+        "/engines/{app_id}/servingConfigs/default_search:searchLite"
+    )
+
+    def __init__(self, project_id: str, app_id: str, api_key: str, state: dict):
+        self.project_id = project_id
+        self.app_id = app_id
+        self.api_key = api_key
+        self.state = state
+        self.available = bool(project_id and app_id and api_key)
+
+    def search(self, query: str, num: int = 10) -> list:
+        if not self.available:
+            return []
+        url = self.SEARCHLITE_URL.format(
+            project_id=self.project_id, app_id=self.app_id,
+        )
+        try:
+            resp = requests.post(
+                url,
+                params={"key": self.api_key},
+                json={
+                    "query": query,
+                    "pageSize": min(num, 25),
+                    "orderBy": "date",
+                },
+                headers={"Content-Type": "application/json"},
+                timeout=20,
+            )
+            resp.raise_for_status()
+            data = resp.json()
+            results = []
+            for r in data.get("results", []):
+                doc = r.get("document", {})
+                derived = doc.get("derivedStructData", {})
+                link = derived.get("link", "")
+                title = derived.get("title", "")
+                snippet = ""
+                for s in derived.get("snippets", []):
+                    if s.get("snippet"):
+                        snippet = re.sub(r"<[^>]+>", "", s["snippet"])
+                        break
+                if title or link:
+                    results.append({
+                        "title": title,
+                        "link": link,
+                        "snippet": snippet[:200],
+                    })
+            return results
+        except Exception as e:
+            print(f"    ERROR Vertex AI Search: {e}")
+            return []
+
+    def check(self, source_id: str, source: dict) -> Optional[dict]:
+        query = source.get("google_query")
+        if not query or not self.available:
+            if not self.available:
+                print(f"    SKIP (Vertex AI Search not configured)")
+            return None
+        title_filter = source.get("title_filter")
+        prev = self.state.get(source_id, {})
+        prev_titles = set(prev.get("seen_titles", []))
+        items = self.search(query)
+        new_items = []
+        filtered_count = 0
+        all_titles = list(prev_titles)
+        for item in items:
+            title = item.get("title", "")
+            if title_filter and not re.search(title_filter, title, re.IGNORECASE):
+                filtered_count += 1
+                continue
+            if title not in prev_titles:
+                new_items.append({"title": title, "link": item.get("link", ""),
+                                  "snippet": item.get("snippet", "")[:200]})
+                all_titles.append(title)
+        if filtered_count:
+            print(f"    INFO: {filtered_count} results filtered by title_filter")
+        self.state[source_id] = {"url": source["url"],
+                                  "last_checked": datetime.now().isoformat(),
+                                  "seen_titles": all_titles[-100:]}
+        if new_items and prev_titles:
+            result = _make_update(source_id, source, "vertex_ai_search",
+                                  f"{len(new_items)} new result(s) via Vertex AI Search")
+            result["new_items"] = new_items
+            result["query"] = query
+            return result
+        elif not prev_titles:
+            print(f"    INFO: Baseline established ({len(items)} results indexed)")
+        return None
+
+
+# ---------------------------------------------------------------------------
 # Bonus: OpenFDA API checker
 # Based on Clin_Eva_Agent/tools/fda_510k_tool.py pattern
 # FDA_API_KEY raises rate limit; works without key too (lower quota)
@@ -763,15 +871,25 @@ class UpdateChecker:
         session.headers.update({"User-Agent": "Mozilla/5.0 (docmcp-knowledge-bot/2.0)"})
         self.http = HTTPChecker(session, self.state)
         self.rss = RSSChecker(session, self.state)
+        self.vertex = VertexAISearchChecker(
+            VERTEX_AI_PROJECT_ID, VERTEX_AI_SEARCH_APP_ID,
+            VERTEX_AI_SEARCH_API_KEY, self.state,
+        )
         self.google = GoogleSearchChecker(GOOGLE_SEARCH_API_KEY, GOOGLE_SEARCH_ENGINE_ID,
                                           self.state)
+        self.web_search_available = self.vertex.available or self.google.available
         self.openfda = OpenFDAChecker(FDA_API_KEY, self.state)
         self.ecfr = ECFRChecker(session, self.state)
         self.eurlex = EURLexChecker(session, self.state)
         self.llm = LLMVersionAnalyzer(LLM_API_KEY, LLM_BASE_URL, LLM_MODEL)
-        if not self.google.available:
-            print("INFO: Google CSE not configured - set GOOGLE_SEARCH_API_KEY + "
-                  "GOOGLE_SEARCH_ENGINE_ID to enable NMPA/CMDE/ISO checks.")
+        if self.vertex.available:
+            print("INFO: Using Vertex AI Search (searchLite) for web queries.")
+        elif self.google.available:
+            print("INFO: Using legacy Google CSE (sunsets 2027-01-01). "
+                  "Set VERTEX_AI_* vars to upgrade.")
+        else:
+            print("INFO: No web search configured - set VERTEX_AI_PROJECT_ID + "
+                  "VERTEX_AI_SEARCH_APP_ID + VERTEX_AI_SEARCH_API_KEY.")
         if not self.llm.available:
             print(f"INFO: LLM analysis not configured - set LLM_API_KEY "
                   f"(LLM_BASE_URL={LLM_BASE_URL}, LLM_MODEL={LLM_MODEL}).")
@@ -790,12 +908,20 @@ class UpdateChecker:
         with open(self.state_file, "w", encoding="utf-8") as f:
             json.dump(self.state, f, indent=2, ensure_ascii=False)
 
+    def _web_search_check(self, source_id: str, source: dict) -> Optional[dict]:
+        """Dispatch web search to Vertex AI (preferred) or legacy CSE."""
+        if self.vertex.available:
+            return self.vertex.check(source_id, source)
+        if self.google.available:
+            return self.google.check(source_id, source)
+        return None
+
     def check_source(self, source_id: str, source: dict) -> Optional[dict]:
         check_type = source.get("check_type", "http_head")
         if check_type == "rss":
             return self.rss.check(source_id, source)
         elif check_type == "google_search":
-            result = self.google.check(source_id, source)
+            result = self._web_search_check(source_id, source)
             if result:
                 result = self._apply_db_comparison(result)
             return result
@@ -810,8 +936,8 @@ class UpdateChecker:
             return self.eurlex.check(source_id, source)
         else:
             result = self.http.check(source_id, source)
-            if source.get("google_query") and self.google.available:
-                g_result = self.google.check(source_id + "_google", source)
+            if source.get("google_query") and self.web_search_available:
+                g_result = self._web_search_check(source_id + "_google", source)
                 if g_result:
                     g_result = self._apply_db_comparison(g_result)
                     return g_result
@@ -919,7 +1045,8 @@ class UpdateChecker:
                 if updates else "No updates detected"
             ),
             "checkers_used": {
-                "google_cse": self.google.available,
+                "vertex_ai_search": self.vertex.available,
+                "google_cse_legacy": self.google.available and not self.vertex.available,
                 "openfda_api": True,
                 "llm_analysis": self.llm.available,
                 "db_comparator": True,
