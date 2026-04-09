@@ -135,6 +135,20 @@ jobs:
           git diff --staged --quiet || git commit -m "chore: regenerate Markdown from JSON data [skip ci]"
           git push || true
 
+      - name: Notify VPS backend to refresh knowledge index
+        if: steps.report.outputs.db_confirmed != '0' || steps.report.outputs.confirmed != '0'
+        run: |
+          echo "Triggering knowledge base hot-refresh on VPS..."
+          RESP=$(curl -sf -X POST "$VPS_URL/api/v1/knowledge/refresh" \
+            -H "Authorization: Bearer $ADMIN_JWT" \
+            -H "Content-Type: application/json" \
+            --max-time 120 2>&1) || true
+          echo "Response: $RESP"
+        env:
+          VPS_URL: ${{ secrets.VPS_BACKEND_URL }}
+          ADMIN_JWT: ${{ secrets.ADMIN_JWT_TOKEN }}
+        continue-on-error: true
+
       - name: Create tracking issue if DB-confirmed updates found
         if: steps.report.outputs.db_confirmed != '0' || steps.report.outputs.confirmed != '0'
         uses: actions/github-script@v7

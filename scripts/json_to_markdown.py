@@ -20,6 +20,7 @@ Architecture:
 
 import argparse
 import json
+import re
 import sys
 from datetime import date
 from pathlib import Path
@@ -401,6 +402,231 @@ def generate_standards_subpage_en(category_slug: str, data: dict, index_data: di
 # ---------------------------------------------------------------------------
 # Main generation orchestrator
 # ---------------------------------------------------------------------------
+FULLTEXT_MARKER = "<!-- fulltext-start -->"
+FULLTEXT_END_MARKER = "<!-- fulltext-end -->"
+
+
+def _load_fulltext(fw_dir: Path, doc_type: str, entry: dict) -> str:
+    """Load fulltext markdown for an entry, if available."""
+    slug = entry.get("slug", "")
+    eid = entry.get("id", "")
+    for name in [slug, re.sub(r'[^\w\-.]', '_', eid)] if eid else [slug]:
+        if not name:
+            continue
+        path = fw_dir / doc_type / "fulltext" / f"{name}.md"
+        if path.exists():
+            return path.read_text(encoding="utf-8")
+    return ""
+
+
+def _yaml_safe(s: str) -> str:
+    """Quote a string if it contains YAML-special characters."""
+    if any(c in s for c in (':', '#', '{', '}', '[', ']', ',', '&', '*', '?', '|', '-', '<', '>', '=', '!', '%', '@', '`')):
+        return f'"{s}"'
+    return s
+
+
+def generate_guidance_page_zh(entry: dict, fulltext: str) -> str:
+    title = entry.get("title", {})
+    title_zh = title.get("zh", "") if isinstance(title, dict) else str(title)
+    title_en = title.get("en", "") if isinstance(title, dict) else ""
+    source_url = entry.get("source_url", "")
+    pub_date = entry.get("published_date", "")
+    slug = entry.get("slug", "")
+
+    lines = [
+        "---",
+        f"title: {_yaml_safe(title_zh)}",
+        f"description: {_yaml_safe(title_en)}",
+        f"published: {pub_date}",
+        "---",
+        "",
+        f"# {title_zh}",
+        "",
+    ]
+    if title_en:
+        lines.append(f"**{title_en}**")
+        lines.append("")
+    if pub_date:
+        lines.append(f"**发布日期**: {pub_date}")
+        lines.append("")
+    if source_url:
+        lines.append(f"::: tip 官方来源")
+        lines.append(f"[{source_url}]({source_url})")
+        lines.append(":::")
+        lines.append("")
+
+    if fulltext:
+        lines.append(FULLTEXT_MARKER)
+        lines.append("")
+        lines.append("---")
+        lines.append("")
+        lines.append("## 官方文件全文")
+        lines.append("")
+        lines.append(fulltext)
+        lines.append("")
+        lines.append(FULLTEXT_END_MARKER)
+    else:
+        lines.append("::: warning")
+        lines.append("全文尚未收录，请通过官方来源链接查阅。")
+        lines.append(":::")
+
+    lines.append("")
+    return "\n".join(lines)
+
+
+def generate_guidance_page_en(entry: dict, fulltext: str) -> str:
+    title = entry.get("title", {})
+    title_en = title.get("en", "") if isinstance(title, dict) else str(title)
+    title_zh = title.get("zh", "") if isinstance(title, dict) else ""
+    source_url = entry.get("source_url", "")
+    pub_date = entry.get("published_date", "")
+
+    lines = [
+        "---",
+        f"title: {_yaml_safe(title_en)}",
+        f"description: {_yaml_safe(title_zh)}",
+        f"published: {pub_date}",
+        "---",
+        "",
+        f"# {title_en}",
+        "",
+    ]
+    if pub_date:
+        lines.append(f"**Published**: {pub_date}")
+        lines.append("")
+    if source_url:
+        lines.append(f"::: tip Official Source")
+        lines.append(f"[{source_url}]({source_url})")
+        lines.append(":::")
+        lines.append("")
+
+    if fulltext:
+        lines.append(FULLTEXT_MARKER)
+        lines.append("")
+        lines.append("---")
+        lines.append("")
+        lines.append("## Official Full Text")
+        lines.append("")
+        lines.append(fulltext)
+        lines.append("")
+        lines.append(FULLTEXT_END_MARKER)
+    else:
+        lines.append("::: warning")
+        lines.append("Full text not yet available. Please refer to the official source link.")
+        lines.append(":::")
+
+    lines.append("")
+    return "\n".join(lines)
+
+
+def generate_guidance_index_zh(framework: str, entries: list, has_fulltext: dict) -> str:
+    """Generate guidance index page (ZH) for a framework."""
+    fw_names = {"fda": "FDA", "eu_mdr": "EU MDR", "nmpa": "NMPA"}
+    fw_name = fw_names.get(framework, framework.upper())
+    lines = [
+        "---",
+        f"title: {fw_name} 指南文件",
+        "---",
+        "",
+        f"# {fw_name} 指南文件",
+        "",
+    ]
+
+    for entry in entries:
+        title = entry.get("title", {})
+        title_zh = title.get("zh", "") if isinstance(title, dict) else str(title)
+        slug = entry.get("slug", "")
+        pub_date = entry.get("published_date", "")
+        ft = has_fulltext.get(entry.get("id", ""), False)
+
+        if ft and slug:
+            lines.append(f"- [{title_zh}](./{slug}) ({pub_date})")
+        else:
+            source_url = entry.get("source_url", "")
+            lines.append(f"- [{title_zh}]({source_url}) ({pub_date})")
+
+    lines.append("")
+    return "\n".join(lines)
+
+
+def generate_guidance_index_en(framework: str, entries: list, has_fulltext: dict) -> str:
+    fw_names = {"fda": "FDA", "eu_mdr": "EU MDR", "nmpa": "NMPA"}
+    fw_name = fw_names.get(framework, framework.upper())
+    lines = [
+        "---",
+        f"title: {fw_name} Guidance Documents",
+        "---",
+        "",
+        f"# {fw_name} Guidance Documents",
+        "",
+    ]
+
+    for entry in entries:
+        title = entry.get("title", {})
+        title_en = title.get("en", "") if isinstance(title, dict) else str(title)
+        slug = entry.get("slug", "")
+        pub_date = entry.get("published_date", "")
+        ft = has_fulltext.get(entry.get("id", ""), False)
+
+        if ft and slug:
+            lines.append(f"- [{title_en}](./{slug}) ({pub_date})")
+        else:
+            source_url = entry.get("source_url", "")
+            lines.append(f"- [{title_en}]({source_url}) ({pub_date})")
+
+    lines.append("")
+    return "\n".join(lines)
+
+
+def generate_guidance(framework: str, dry_run: bool = False) -> list[str]:
+    """Generate guidance pages for a framework. Returns list of changed files."""
+    fw_dir = ROOT / framework
+    index_path = fw_dir / "guidance" / "_index.json"
+    if not index_path.exists():
+        print(f"  SKIP: {index_path} not found")
+        return []
+
+    index_data = load_json(index_path)
+    entries = index_data.get("entries", [])
+    changed = []
+    has_fulltext = {}
+
+    for entry in entries:
+        slug = entry.get("slug", "")
+        if not slug:
+            continue
+
+        fulltext = _load_fulltext(fw_dir, "guidance", entry)
+        has_fulltext[entry.get("id", "")] = bool(fulltext)
+
+        zh_path = DOCS_ZH / framework / "guidance" / f"{slug}.md"
+        zh_content = generate_guidance_page_zh(entry, fulltext)
+        if write_md(zh_path, zh_content, dry_run):
+            changed.append(str(zh_path.relative_to(ROOT)))
+            print(f"  {'WOULD WRITE' if dry_run else 'WROTE'}: {zh_path.relative_to(ROOT)}")
+
+        en_path = DOCS_EN / framework / "guidance" / f"{slug}.md"
+        en_content = generate_guidance_page_en(entry, fulltext)
+        if write_md(en_path, en_content, dry_run):
+            changed.append(str(en_path.relative_to(ROOT)))
+            print(f"  {'WOULD WRITE' if dry_run else 'WROTE'}: {en_path.relative_to(ROOT)}")
+
+    zh_idx = DOCS_ZH / framework / "guidance.md"
+    zh_idx_content = generate_guidance_index_zh(framework, entries, has_fulltext)
+    if write_md(zh_idx, zh_idx_content, dry_run):
+        changed.append(str(zh_idx.relative_to(ROOT)))
+        print(f"  {'WOULD WRITE' if dry_run else 'WROTE'}: {zh_idx.relative_to(ROOT)}")
+
+    en_idx = DOCS_EN / framework / "guidance.md"
+    en_idx_content = generate_guidance_index_en(framework, entries, has_fulltext)
+    if write_md(en_idx, en_idx_content, dry_run):
+        changed.append(str(en_idx.relative_to(ROOT)))
+        print(f"  {'WOULD WRITE' if dry_run else 'WROTE'}: {en_idx.relative_to(ROOT)}")
+
+    return changed
+
+
 def generate_standards(dry_run: bool = False) -> list[str]:
     """Generate all EU MDR standards sub-pages. Returns list of changed files."""
     standards_dir = ROOT / "eu_mdr" / "standards"
@@ -499,7 +725,7 @@ def main():
     )
     parser.add_argument(
         "--section",
-        choices=["standards", "all"],
+        choices=["standards", "guidance", "all"],
         default="all",
         help="Which section to generate (default: all)"
     )
@@ -533,6 +759,13 @@ def main():
     if args.section in ("standards", "all"):
         print("\n[Standards]")
         changed.extend(generate_standards(dry_run=args.dry_run))
+
+    if args.section in ("guidance", "all"):
+        for fw in ["fda", "eu_mdr", "nmpa"]:
+            fw_guidance = ROOT / fw / "guidance" / "_index.json"
+            if fw_guidance.exists():
+                print(f"\n[Guidance: {fw}]")
+                changed.extend(generate_guidance(fw, dry_run=args.dry_run))
 
     print(f"\nTotal: {len(changed)} files {'would be' if args.dry_run else ''} changed")
     if changed:

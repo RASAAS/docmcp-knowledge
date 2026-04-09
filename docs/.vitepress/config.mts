@@ -68,7 +68,15 @@ const zhSidebar = Object.assign(
       { text: 'FDA 概述', link: '/zh/fda/' },
       { text: '法规 (21 CFR)', link: '/zh/fda/regulations' },
       { text: '共识标准', link: '/zh/fda/standards' },
-      { text: '指南文件', link: '/zh/fda/guidance' },
+      {
+        text: '指南文件', link: '/zh/fda/guidance',
+        collapsed: true,
+        items: [
+          { text: '网络安全：上市前', link: '/zh/fda/guidance/cybersecurity-premarket' },
+          { text: '网络安全：上市后', link: '/zh/fda/guidance/postmarket-cybersecurity' },
+          { text: '医疗器械再制造', link: '/zh/fda/guidance/remanufacturing' },
+        ],
+      },
     ],
     '/zh/nmpa/': [
       { text: 'NMPA 概述', link: '/zh/nmpa/' },
@@ -169,7 +177,15 @@ export default defineConfig({
               { text: 'FDA Overview', link: '/en/fda/' },
               { text: 'Regulations (21 CFR)', link: '/en/fda/regulations' },
               { text: 'Consensus Standards', link: '/en/fda/standards' },
-              { text: 'Guidance Documents', link: '/en/fda/guidance' },
+              {
+                text: 'Guidance Documents', link: '/en/fda/guidance',
+                collapsed: true,
+                items: [
+                  { text: 'Cybersecurity: Premarket', link: '/en/fda/guidance/cybersecurity-premarket' },
+                  { text: 'Cybersecurity: Postmarket', link: '/en/fda/guidance/postmarket-cybersecurity' },
+                  { text: 'Remanufacturing', link: '/en/fda/guidance/remanufacturing' },
+                ],
+              },
             ],
             '/en/nmpa/': [
               { text: 'NMPA Overview', link: '/en/nmpa/' },
