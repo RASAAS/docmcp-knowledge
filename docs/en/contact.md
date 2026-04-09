@@ -49,7 +49,7 @@ title: Contact Us
 <p>All users can register directly and get a <strong>72-hour free trial</strong> with full feature access -- no invite code required.</p>
 
 <div class="download-section">
-  <a href="/downloads/ReguverseAssistant-Installer.zip" class="download-btn" onclick="trackDownload('installer','en')">&#x2B07; Download Reguverse Assistant Installer</a>
+  <a href="/downloads/ReguverseAssistant-Installer.zip" class="download-btn" onclick="try{navigator.sendBeacon('https://llm.team-ra.org/api/v1/track/download',new Blob([JSON.stringify({event:'download',source:'installer',lang:'en'})],{type:'application/json'}))}catch(e){}">&#x2B07; Download Reguverse Assistant Installer</a>
   <span class="download-hint">Windows and macOS supported -- unzip and run the install script</span>
 </div>
 
@@ -171,16 +171,6 @@ title: Contact Us
 
 </div>
 
-<script>
-function trackDownload(source, lang) {
-  try {
-    var data = JSON.stringify({ event: 'download', source: source, lang: lang });
-    if (navigator.sendBeacon) {
-      navigator.sendBeacon('https://llm.team-ra.org/api/v1/track/download', new Blob([data], { type: 'application/json' }));
-    }
-  } catch (e) {}
-}
-</script>
 
 <style>
 .contact-page {

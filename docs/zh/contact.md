@@ -49,7 +49,7 @@ title: 联系我们
 <p>所有用户均可直接注册并获得 <strong>72 小时免费试用</strong>，体验全部功能，无需邀请码。</p>
 
 <div class="download-section">
-  <a href="/downloads/ReguverseAssistant-Installer.zip" class="download-btn" onclick="trackDownload('installer','zh')">&#x2B07; 下载 Reguverse 助手安装包</a>
+  <a href="/downloads/ReguverseAssistant-Installer.zip" class="download-btn" onclick="try{navigator.sendBeacon('https://llm.team-ra.org/api/v1/track/download',new Blob([JSON.stringify({event:'download',source:'installer',lang:'zh'})],{type:'application/json'}))}catch(e){}">&#x2B07; 下载 Reguverse 助手安装包</a>
   <span class="download-hint">支持 Windows 和 macOS -- 解压后双击安装脚本即可</span>
 </div>
 
@@ -167,16 +167,6 @@ title: 联系我们
 
 </div>
 
-<script>
-function trackDownload(source, lang) {
-  try {
-    var data = JSON.stringify({ event: 'download', source: source, lang: lang });
-    if (navigator.sendBeacon) {
-      navigator.sendBeacon('https://llm.team-ra.org/api/v1/track/download', new Blob([data], { type: 'application/json' }));
-    }
-  } catch (e) {}
-}
-</script>
 
 <style>
 .contact-page {
