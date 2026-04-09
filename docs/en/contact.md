@@ -67,6 +67,8 @@ title: Contact Us
 <div class="section-block">
 <h2>Available Plans</h2>
 
+<p>All plans include <strong>full feature access</strong> with unlimited projects and all regulations (EU MDR / FDA / NMPA). Plans differ only by monthly token quota and top-up pricing.</p>
+
 <div class="plans-grid">
 
 <div class="plan-card">
@@ -74,10 +76,19 @@ title: Contact Us
   <div class="plan-price">Free</div>
   <div class="plan-period">72 hours</div>
   <ul>
-    <li>1M token quota</li>
+    <li>1M tokens</li>
     <li>Full feature access</li>
-    <li>1 project</li>
-    <li>EU MDR only</li>
+  </ul>
+</div>
+
+<div class="plan-card">
+  <div class="plan-name">Starter</div>
+  <div class="plan-price">$15</div>
+  <div class="plan-period">per month / $150 per year</div>
+  <ul>
+    <li>3M tokens / month</li>
+    <li>Top-up: $9/1M</li>
+    <li>Full feature access</li>
   </ul>
 </div>
 
@@ -87,9 +98,8 @@ title: Contact Us
   <div class="plan-period">per month / $490 per year</div>
   <ul>
     <li>8M tokens / month</li>
-    <li>3 projects</li>
-    <li>EU MDR only</li>
-    <li>Email support</li>
+    <li>Top-up: $9/1M</li>
+    <li>Full feature access</li>
   </ul>
 </div>
 
@@ -100,8 +110,8 @@ title: Contact Us
   <div class="plan-period">per month / $1,290 per year</div>
   <ul>
     <li>24M tokens / month</li>
-    <li>10 projects</li>
-    <li>EU MDR / FDA / NMPA</li>
+    <li>Top-up: $8/1M</li>
+    <li>Full feature access</li>
     <li>Priority support</li>
   </ul>
 </div>
@@ -112,8 +122,8 @@ title: Contact Us
   <div class="plan-period">per month / $2,990 per year</div>
   <ul>
     <li>60M tokens / month</li>
-    <li>Unlimited projects</li>
-    <li>All regulations</li>
+    <li>Top-up: $7/1M</li>
+    <li>Full feature access</li>
     <li>Dedicated support</li>
   </ul>
 </div>
@@ -124,15 +134,15 @@ title: Contact Us
   <div class="plan-period">per month / $3,000 per year</div>
   <ul>
     <li>20M tokens / month</li>
-    <li>Unlimited projects</li>
-    <li>All regulations</li>
-    <li>Dedicated support</li>
+    <li>Top-up: $5/1M</li>
+    <li>Full feature access</li>
+    <li>Commercial consulting license</li>
   </ul>
 </div>
 
 </div>
 
-<p class="plans-note">All paid plans support monthly or annual billing. Additional token top-up packs available when quota is exhausted.</p>
+<p class="plans-note">All paid plans support monthly or annual billing. When your quota runs out, purchase additional token packs at your plan's rate -- higher plans enjoy lower top-up pricing.</p>
 </div>
 
 <div class="section-block">
@@ -305,7 +315,7 @@ title: Contact Us
 
 .plans-grid {
   display: grid;
-  grid-template-columns: repeat(5, 1fr);
+  grid-template-columns: repeat(3, 1fr);
   gap: 1rem;
   margin: 1.5rem 0;
 }
@@ -412,12 +422,6 @@ title: Contact Us
 .legal-section p {
   font-size: 0.85rem;
   color: var(--vp-c-text-3);
-}
-
-@media (max-width: 960px) {
-  .plans-grid {
-    grid-template-columns: repeat(3, 1fr);
-  }
 }
 
 @media (max-width: 768px) {

@@ -67,6 +67,8 @@ title: 联系我们
 <div class="section-block">
 <h2>套餐方案</h2>
 
+<p>所有套餐均包含<strong>全部功能</strong>，不限项目数量、不限法规类型（EU MDR / FDA / NMPA）。套餐之间仅以每月 token 额度和额外 token 购买价格区分。</p>
+
 <div class="plans-grid">
 
 <div class="plan-card">
@@ -74,10 +76,19 @@ title: 联系我们
   <div class="plan-price">免费</div>
   <div class="plan-period">72 小时</div>
   <ul>
-    <li>100万 tokens 额度</li>
+    <li>100万 tokens</li>
     <li>全功能体验</li>
-    <li>1 个项目</li>
-    <li>仅限 EU MDR</li>
+  </ul>
+</div>
+
+<div class="plan-card">
+  <div class="plan-name">入门版</div>
+  <div class="plan-price">$15</div>
+  <div class="plan-period">每月 / $150 每年</div>
+  <ul>
+    <li>300万 tokens / 月</li>
+    <li>额外 token: $9/100万</li>
+    <li>全功能访问</li>
   </ul>
 </div>
 
@@ -87,9 +98,8 @@ title: 联系我们
   <div class="plan-period">每月 / $490 每年</div>
   <ul>
     <li>800万 tokens / 月</li>
-    <li>3 个项目</li>
-    <li>仅限 EU MDR</li>
-    <li>邮件支持</li>
+    <li>额外 token: $9/100万</li>
+    <li>全功能访问</li>
   </ul>
 </div>
 
@@ -100,8 +110,8 @@ title: 联系我们
   <div class="plan-period">每月 / $1,290 每年</div>
   <ul>
     <li>2400万 tokens / 月</li>
-    <li>10 个项目</li>
-    <li>EU MDR / FDA / NMPA</li>
+    <li>额外 token: $8/100万</li>
+    <li>全功能访问</li>
     <li>优先支持</li>
   </ul>
 </div>
@@ -112,8 +122,8 @@ title: 联系我们
   <div class="plan-period">每月 / $2,990 每年</div>
   <ul>
     <li>6000万 tokens / 月</li>
-    <li>不限项目</li>
-    <li>全法规覆盖</li>
+    <li>额外 token: $7/100万</li>
+    <li>全功能访问</li>
     <li>专属支持</li>
   </ul>
 </div>
@@ -124,15 +134,15 @@ title: 联系我们
   <div class="plan-period">每月 / $3,000 每年</div>
   <ul>
     <li>2000万 tokens / 月</li>
-    <li>不限项目</li>
-    <li>全法规覆盖</li>
-    <li>专属技术支持</li>
+    <li>额外 token: $5/100万</li>
+    <li>全功能访问</li>
+    <li>商业咨询授权</li>
   </ul>
 </div>
 
 </div>
 
-<p class="plans-note">所有付费套餐支持按月或按年订阅。额度用尽后可单独购买 token 补充包。</p>
+<p class="plans-note">所有付费套餐支持按月或按年订阅。额度用尽后可按套餐对应的单价购买额外 token 补充包，高级套餐享受更优惠的 token 单价。</p>
 </div>
 
 <div class="section-block">
@@ -301,7 +311,7 @@ title: 联系我们
 
 .plans-grid {
   display: grid;
-  grid-template-columns: repeat(5, 1fr);
+  grid-template-columns: repeat(3, 1fr);
   gap: 1rem;
   margin: 1.5rem 0;
 }
@@ -412,12 +422,6 @@ title: 联系我们
 .legal-section p {
   font-size: 0.85rem;
   color: var(--vp-c-text-3);
-}
-
-@media (max-width: 960px) {
-  .plans-grid {
-    grid-template-columns: repeat(3, 1fr);
-  }
 }
 
 @media (max-width: 768px) {
