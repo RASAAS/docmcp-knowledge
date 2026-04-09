@@ -1,0 +1,50 @@
+{
+  "category": "fda/guidance",
+  "description": "FDA guidance documents for medical devices",
+  "last_updated": "2026-04-09",
+  "count": 3,
+  "entries": [
+    {
+      "id": "fda-cybersecurity-premarket-2026",
+      "title": {
+        "zh": "医疗器械网络安全：质量管理体系考量与上市前提交内容",
+        "en": "Cybersecurity in Medical Devices: Quality Management System Considerations and Content of Premarket Submissions"
+      },
+      "slug": "cybersecurity-premarket",
+      "status": "active",
+      "source_url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/cybersecurity-medical-devices-quality-management-system-considerations-and-content-premarket",
+      "source_url_verified": "2026-04-09",
+      "published_date": "2026-02-03",
+      "category": "fda/guidance",
+      "fda_category": "cybersecurity"
+    },
+    {
+      "id": "fda-postmarket-cybersecurity-2016",
+      "title": {
+        "zh": "医疗器械网络安全的上市后管理",
+        "en": "Postmarket Management of Cybersecurity in Medical Devices"
+      },
+      "slug": "postmarket-cybersecurity",
+      "status": "active",
+      "source_url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/postmarket-management-cybersecurity-medical-devices",
+      "source_url_verified": "2026-04-09",
+      "published_date": "2016-12-28",
+      "category": "fda/guidance",
+      "fda_category": "cybersecurity"
+    },
+    {
+      "id": "fda-remanufacturing-2024",
+      "title": {
+        "zh": "医疗器械再制造指南",
+        "en": "Remanufacturing of Medical Devices"
+      },
+      "slug": "remanufacturing",
+      "status": "active",
+      "source_url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/remanufacturing-medical-devices",
+      "source_url_verified": "2026-04-09",
+      "published_date": "2024-05-09",
+      "category": "fda/guidance",
+      "fda_category": "quality_compliance"
+    }
+  ]
+}

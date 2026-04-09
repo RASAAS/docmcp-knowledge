@@ -1,8 +1,8 @@
 {
   "category": "eu_mdr/mdcg",
   "description": "MDCG guidance documents for EU MDR 2017/745 and EU IVDR 2017/746",
-  "last_updated": "2026-02-23",
-  "count": 21,
+  "last_updated": "2026-04-09",
+  "count": 22,
   "entries": [
     {
       "id": "mdcg-2020-5",
@@ -333,6 +333,17 @@
       "published_date": "2025-12-01",
       "category": "eu_mdr/mdcg",
       "mdcg_category": "software_new_tech"
+    },
+    {
+      "id": "mdcg-2020-16",
+      "title": { "zh": "MDCG 2020-16 rev.4：体外诊断医疗器械分类规则指南 (IVDR)", "en": "MDCG 2020-16 rev.4: Guidance on Classification Rules for in vitro Diagnostic Medical Devices under Regulation (EU) 2017/746" },
+      "slug": "mdcg-2020-16",
+      "status": "active",
+      "source_url": "https://health.ec.europa.eu/document/download/12f9756a-1e0d-4aed-9783-d948553f1705_en?filename=md_mdcg_2020_guidance_classification_ivd-md_en.pdf",
+      "source_url_verified": "2026-04-09",
+      "published_date": "2025-03-18",
+      "category": "eu_mdr/mdcg",
+      "mdcg_category": "classification"
     }
   ],
   "migration_note": "Original 21 clinical evaluation methodology articles migrated to insights/clinical-evaluation. This index now tracks official MDCG guidance documents.",
