@@ -37,13 +37,30 @@
           "amendment": "2026/760",
           "published_date": "2026-04-07",
           "title": "Amending: sterilizers for medical purposes (small steam sterilizers), stainless steel steam boilers, electroacoustics (hearing aids)",
-          "standards_added": ["EN 13060:2025", "EN 14222:2021+A1:2025", "EN IEC 60118-0:2024"]
+          "standards_added": [
+            "EN 13060:2025",
+            "EN 14222:2021+A1:2025",
+            "EN IEC 60118-0:2024"
+          ]
         },
         {
           "amendment": "2026/193",
           "published_date": "2026-01-30",
           "title": "Adding neurosurgical implants, biocompatibility breathing gas pathways, moist heat sterilization, surgical implants, small-bore connectors, etc.",
-          "standards_added": ["EN ISO 7197:2024", "EN ISO 17665:2024", "EN ISO 18562-1:2024", "EN ISO 18562-2:2024", "EN ISO 18562-3:2024", "EN ISO 18562-4:2024", "EN ISO 21535:2024", "EN ISO 21536:2024", "EN ISO 80369-2:2024", "EN ISO 14630:2024", "EN ISO 10993-4:2017/A1:2025", "EN ISO 14155:2020/A11:2024"]
+          "standards_added": [
+            "EN ISO 7197:2024",
+            "EN ISO 17665:2024",
+            "EN ISO 18562-1:2024",
+            "EN ISO 18562-2:2024",
+            "EN ISO 18562-3:2024",
+            "EN ISO 18562-4:2024",
+            "EN ISO 21535:2024",
+            "EN ISO 21536:2024",
+            "EN ISO 80369-2:2024",
+            "EN ISO 14630:2024",
+            "EN ISO 10993-4:2017/A1:2025",
+            "EN ISO 14155:2020/A11:2024"
+          ]
         }
       ]
     },
@@ -198,7 +215,7 @@
       "history": []
     }
   },
-  "last_updated": "2026-04-08T04:36:14.896616",
+  "last_updated": "2026-04-09T11:17:20.214100",
   "_schema_version": "1.0",
   "_description": "Version registry for regulatory documents tracked by docmcp-knowledge. Each entry tracks current version and full history. Updated automatically by fetch_updates.py when LLM confirms a version change."
 }
