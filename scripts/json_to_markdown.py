@@ -541,7 +541,7 @@ def generate_guidance_index_zh(framework: str, entries: list, has_fulltext: dict
         ft = has_fulltext.get(entry.get("id", ""), False)
 
         if ft and slug:
-            lines.append(f"- [{title_zh}](./{slug}) ({pub_date})")
+            lines.append(f"- [{title_zh}](./guidance/{slug}) ({pub_date})")
         else:
             source_url = entry.get("source_url", "")
             lines.append(f"- [{title_zh}]({source_url}) ({pub_date})")
@@ -570,7 +570,7 @@ def generate_guidance_index_en(framework: str, entries: list, has_fulltext: dict
         ft = has_fulltext.get(entry.get("id", ""), False)
 
         if ft and slug:
-            lines.append(f"- [{title_en}](./{slug}) ({pub_date})")
+            lines.append(f"- [{title_en}](./guidance/{slug}) ({pub_date})")
         else:
             source_url = entry.get("source_url", "")
             lines.append(f"- [{title_en}]({source_url}) ({pub_date})")
