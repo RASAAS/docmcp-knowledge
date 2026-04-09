@@ -525,6 +525,7 @@ class GoogleSearchChecker:
         title_filter = source.get("title_filter")
         prev = self.state.get(source_id, {})
         prev_titles = set(prev.get("seen_titles", []))
+        date_restrict = source.get("date_restrict", "")
         items = self.search(query, date_restrict=date_restrict)
         new_items = []
         filtered_count = 0
@@ -588,12 +589,14 @@ class VertexAISearchChecker:
                 json={
                     "query": query,
                     "pageSize": min(num, 25),
-                    "orderBy": "date",
                 },
                 headers={"Content-Type": "application/json"},
                 timeout=20,
             )
-            resp.raise_for_status()
+            if resp.status_code != 200:
+                body = resp.text[:300] if resp.text else "(empty)"
+                print(f"    ERROR Vertex AI Search HTTP {resp.status_code}: {body}")
+                return []
             data = resp.json()
             results = []
             for r in data.get("results", []):
@@ -617,12 +620,18 @@ class VertexAISearchChecker:
             print(f"    ERROR Vertex AI Search: {e}")
             return []
 
+    @staticmethod
+    def _strip_site_prefix(query: str) -> str:
+        """Remove 'site:domain.com' prefixes -- Vertex AI data store handles domain restriction."""
+        return re.sub(r"site:\S+\s*", "", query).strip()
+
     def check(self, source_id: str, source: dict) -> Optional[dict]:
         query = source.get("google_query")
         if not query or not self.available:
             if not self.available:
                 print(f"    SKIP (Vertex AI Search not configured)")
             return None
+        query = self._strip_site_prefix(query)
         title_filter = source.get("title_filter")
         prev = self.state.get(source_id, {})
         prev_titles = set(prev.get("seen_titles", []))

@@ -1,11 +1,11 @@
 name: Weekly Regulatory Update Check
 
-# Batched cron schedule to avoid rate limits and stay within Google CSE free quota (100/day):
-#   Mon 02:00 UTC -> EU MDR (HTTP ETag + Google CSE supplement)
-#   Wed 02:00 UTC -> FDA (RSS + OpenFDA API + Google CSE)
-#   Fri 02:00 UTC -> NMPA/CMDE (Google CSE primary)
-#   1st of month 03:00 UTC -> ISO/IEC shared standards (Google CSE)
-# Each run uses ~5-10 Google CSE queries, well within the 100/day free limit.
+# Batched cron schedule to avoid rate limits:
+#   Mon 02:00 UTC -> EU MDR (EUR-Lex API + Vertex AI Search)
+#   Wed 02:00 UTC -> FDA (RSS + OpenFDA API + Vertex AI Search)
+#   Fri 02:00 UTC -> NMPA/CMDE (Vertex AI Search primary)
+#   1st of month 03:00 UTC -> ISO/IEC shared standards (Vertex AI Search)
+# Vertex AI Search free tier: 10,000 queries/month. Google CSE kept as fallback.
 
 on:
   schedule:
@@ -82,6 +82,9 @@ jobs:
             python scripts/fetch_updates.py --check "$GROUP" --analyze-versions --report --output /tmp/update_report.json
           fi
         env:
+          VERTEX_AI_PROJECT_ID: ${{ secrets.VERTEX_AI_PROJECT_ID }}
+          VERTEX_AI_SEARCH_APP_ID: ${{ secrets.VERTEX_AI_SEARCH_APP_ID }}
+          VERTEX_AI_SEARCH_API_KEY: ${{ secrets.VERTEX_AI_SEARCH_API_KEY }}
           GOOGLE_SEARCH_API_KEY: ${{ secrets.GOOGLE_SEARCH_API_KEY }}
           GOOGLE_SEARCH_ENGINE_ID: ${{ secrets.GOOGLE_SEARCH_ENGINE_ID }}
           FDA_API_KEY: ${{ secrets.FDA_API_KEY }}
