@@ -1,33 +1,49 @@
 {
   "category": "medical_gloves",
   "category_name": {
-    "zh": "Yi Yong Shou Tao",
+    "zh": "医用手套",
     "en": "Medical Gloves"
   },
   "regulation": "eu_mdr",
   "source": "Implementing Decision (EU) 2021/1182 (consolidated)",
   "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
-  "last_updated": "2026-02-23",
-  "count": 2,
+  "last_updated": "2026-04-09",
+  "count": 3,
   "entries": [
     {
       "id": "eu_mdr-hs-en-455-1-2020+a2-2024",
       "number": "EN 455-1:2020+A2:2024",
-      "title": "Medical gloves for single use - Part 1: Requirements and testing for freedom of holes",
-      "scope": "eu_mdr",
+      "title": {
+        "en": "Medical gloves for single use - Part 1: Requirements and testing for freedom of holes",
+        "zh": "一次性使用医用手套 - 第1部分：无孔要求和试验"
+      },
       "status": "active",
       "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
-      "source_verified": "2026-02-23",
+      "source_verified": "2026-04-09",
       "category": "medical_gloves"
     },
     {
       "id": "eu_mdr-hs-en-455-2-2024",
       "number": "EN 455-2:2024",
-      "title": "Medical gloves for single use - Part 2: Requirements and testing for physical properties",
-      "scope": "eu_mdr",
+      "title": {
+        "en": "Medical gloves for single use - Part 2: Requirements and testing for physical properties",
+        "zh": "一次性使用医用手套 - 第2部分：物理性能的要求和试验"
+      },
       "status": "active",
       "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
-      "source_verified": "2026-02-23",
+      "source_verified": "2026-04-09",
+      "category": "medical_gloves"
+    },
+    {
+      "id": "eu_mdr-hs-en-455-3-2023",
+      "number": "EN 455-3:2023",
+      "title": {
+        "en": "Medical gloves for single use - Part 3: Requirements and testing for biological evaluation",
+        "zh": "一次性使用医用手套 - 第3部分：生物学评价的要求和试验"
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_verified": "2026-04-09",
       "category": "medical_gloves"
     }
   ]

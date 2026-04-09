@@ -1,54 +1,39 @@
 {
-  "id": "eu-mdr-harmonised-standards-software",
-  "title": {
-    "zh": "EU MDR 协调标准 — 软件与可用性",
-    "en": "EU MDR Harmonised Standards — Software and Usability"
+  "category": "software",
+  "category_name": {
+    "zh": "软件与可用性",
+    "en": "Software & Usability"
   },
   "regulation": "eu_mdr",
-  "category": "standards",
-  "category_key": "software",
-  "category_title": {
-    "zh": "软件与可用性",
-    "en": "Software and Usability"
-  },
-  "gspr_primary": [
-    "GSPR 5",
-    "GSPR 17"
-  ],
-  "basis": "Commission Implementing Decision (EU) 2021/1182 and amendments incl. CID 2024/815",
-  "source_url": "https://health.ec.europa.eu/medical-devices-topics-interest/harmonised-standards_en",
-  "source_url_verified": "2026-02-23",
-  "last_updated": "2026-02-23",
-  "contributor": "RASAAS",
-  "standards_count": 2,
-  "standards": [
+  "source": "CEN/Cenelec mandate M/575 (requested, not yet published in OJEU as harmonised)",
+  "source_url": "https://single-market-economy.ec.europa.eu/single-market/goods/european-standards/harmonised-standards/medical-devices_en",
+  "last_updated": "2026-04-09",
+  "note": "These standards are widely used for MDR compliance but have not yet been formally harmonised (published in OJEU under CID 2021/1182). They are part of the 277 requested standards under mandate M/575.",
+  "count": 2,
+  "entries": [
     {
-      "id": "hs-en-iec-62304-2006-a1-2015",
+      "id": "eu_mdr-hs-en-iec-62304-2006-a1-2015",
       "number": "EN IEC 62304:2006+A1:2015",
       "title": {
-        "zh": "医疗器械软件 — 软件生命周期过程",
-        "en": "Medical device software — Software life cycle processes"
+        "en": "Medical device software - Software life cycle processes",
+        "zh": "医疗器械软件 - 软件生命周期过程"
       },
-      "gspr_reference": [
-        "GSPR 17"
-      ],
-      "status": "active",
-      "publication_year": 2015,
-      "source_url": "https://www.iec.ch/homepage"
+      "status": "pending_harmonisation",
+      "source_url": "https://www.iec.ch/homepage",
+      "source_verified": "2026-04-09",
+      "category": "software"
     },
     {
-      "id": "hs-en-iec-62366-1-2015-a1-2020",
+      "id": "eu_mdr-hs-en-iec-62366-1-2015-a1-2020",
       "number": "EN IEC 62366-1:2015+A1:2020",
       "title": {
-        "zh": "医疗器械 — 可用性工程在医疗器械中的应用",
-        "en": "Medical devices — Application of usability engineering to medical devices"
+        "en": "Medical devices - Application of usability engineering to medical devices",
+        "zh": "医疗器械 - 可用性工程在医疗器械中的应用"
       },
-      "gspr_reference": [
-        "GSPR 5"
-      ],
-      "status": "active",
-      "publication_year": 2020,
-      "source_url": "https://www.iec.ch/homepage"
+      "status": "pending_harmonisation",
+      "source_url": "https://www.iec.ch/homepage",
+      "source_verified": "2026-04-09",
+      "category": "software"
     }
   ]
 }

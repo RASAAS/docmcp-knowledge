@@ -1,23 +1,25 @@
 {
   "category": "labelling",
   "category_name": {
-    "zh": "Biao Qian Yu Shuo Ming Shu",
+    "zh": "标签与符号",
     "en": "Labelling & Symbols"
   },
   "regulation": "eu_mdr",
   "source": "Implementing Decision (EU) 2021/1182 (consolidated)",
   "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
-  "last_updated": "2026-02-23",
+  "last_updated": "2026-04-09",
   "count": 1,
   "entries": [
     {
       "id": "eu_mdr-hs-en-iso-15223-1-2021",
       "number": "EN ISO 15223-1:2021",
-      "title": "Medical devices - Symbols to be used with information to be supplied by the manufacturer - Part 1: General requirements (ISO 15223-1:2021)",
-      "scope": "eu_mdr",
+      "title": {
+        "en": "Medical devices - Symbols to be used with information to be supplied by the manufacturer - Part 1: General requirements (ISO 15223-1:2021)",
+        "zh": "医疗器械 - 制造商提供信息所用符号 - 第1部分：通用要求"
+      },
       "status": "active",
       "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
-      "source_verified": "2026-02-23",
+      "source_verified": "2026-04-09",
       "category": "labelling"
     }
   ]

@@ -1,23 +1,25 @@
 {
   "category": "electrical_safety",
   "category_name": {
-    "zh": "Dian Qi An Quan Yu EMC",
+    "zh": "电气安全与EMC",
     "en": "Electrical Safety & EMC"
   },
   "regulation": "eu_mdr",
   "source": "Implementing Decision (EU) 2021/1182 (consolidated)",
   "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
-  "last_updated": "2026-02-23",
+  "last_updated": "2026-04-09",
   "count": 1,
   "entries": [
     {
       "id": "eu_mdr-hs-en-iec-60601-2-83-2020",
       "number": "EN IEC 60601-2-83:2020",
-      "title": "Medical electrical equipment - Part 2-83: Particular requirements for the basic safety and essential performance of home light therapy equipment",
-      "scope": "eu_mdr",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-83: Particular requirements for the basic safety and essential performance of home light therapy equipment",
+        "zh": "医用电气设备 - 第2-83部分：家用光疗设备的基本安全和基本性能的特殊要求"
+      },
       "status": "active",
       "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
-      "source_verified": "2026-02-23",
+      "source_verified": "2026-04-09",
       "category": "electrical_safety",
       "amendments": [
         "EN IEC 60601-2-83:2020/A11:2021"

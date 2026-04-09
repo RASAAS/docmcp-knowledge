@@ -1,23 +1,25 @@
 {
   "category": "quality_management",
   "category_name": {
-    "zh": "Quality Management / Zhi Liang Guan Li",
+    "zh": "质量管理体系",
     "en": "Quality Management"
   },
   "regulation": "eu_mdr",
   "source": "Implementing Decision (EU) 2021/1182 (consolidated)",
   "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
-  "last_updated": "2026-02-23",
+  "last_updated": "2026-04-09",
   "count": 1,
   "entries": [
     {
       "id": "eu_mdr-hs-en-iso-13485-2016",
       "number": "EN ISO 13485:2016",
-      "title": "Medical devices - Quality management systems - Requirements for regulatory purposes (ISO 13485:2016)",
-      "scope": "eu_mdr",
+      "title": {
+        "en": "Medical devices - Quality management systems - Requirements for regulatory purposes (ISO 13485:2016)",
+        "zh": "医疗器械 - 质量管理体系 - 用于法规的要求"
+      },
       "status": "active",
       "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
-      "source_verified": "2026-02-23",
+      "source_verified": "2026-04-09",
       "category": "quality_management",
       "amendments": [
         "EN ISO 13485:2016/AC:2018",

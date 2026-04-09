@@ -29,10 +29,23 @@
         "published_date": "2021-07-16",
         "version": "2021/1182",
         "url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182/oj",
-        "last_verified": "2026-02-22",
-        "note": "Amended multiple times; check EUR-Lex for latest amendment"
+        "last_verified": "2026-04-09",
+        "note": "Latest amendment: CID 2026/760 (2026-04-01), total 51 harmonised standards"
       },
-      "history": []
+      "history": [
+        {
+          "amendment": "2026/760",
+          "published_date": "2026-04-07",
+          "title": "Amending: sterilizers for medical purposes (small steam sterilizers), stainless steel steam boilers, electroacoustics (hearing aids)",
+          "standards_added": ["EN 13060:2025", "EN 14222:2021+A1:2025", "EN IEC 60118-0:2024"]
+        },
+        {
+          "amendment": "2026/193",
+          "published_date": "2026-01-30",
+          "title": "Adding neurosurgical implants, biocompatibility breathing gas pathways, moist heat sterilization, surgical implants, small-bore connectors, etc.",
+          "standards_added": ["EN ISO 7197:2024", "EN ISO 17665:2024", "EN ISO 18562-1:2024", "EN ISO 18562-2:2024", "EN ISO 18562-3:2024", "EN ISO 18562-4:2024", "EN ISO 21535:2024", "EN ISO 21536:2024", "EN ISO 80369-2:2024", "EN ISO 14630:2024", "EN ISO 10993-4:2017/A1:2025", "EN ISO 14155:2020/A11:2024"]
+        }
+      ]
     },
     "fda/guidance/cybersecurity": {
       "current": {

@@ -1,0 +1,27 @@
+{
+  "category": "hearing_aids",
+  "category_name": {
+    "zh": "助听器",
+    "en": "Hearing Aids"
+  },
+  "regulation": "eu_mdr",
+  "source": "Implementing Decision (EU) 2021/1182 (consolidated)",
+  "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+  "last_updated": "2026-04-09",
+  "count": 1,
+  "entries": [
+    {
+      "id": "eu_mdr-hs-en-iec-60118-0-2024",
+      "number": "EN IEC 60118-0:2024",
+      "title": {
+        "en": "Electroacoustics - Hearing aids - Part 0: Measurement of the performance characteristics of hearing aids",
+        "zh": "电声学 - 助听器 - 第0部分：助听器性能特性的测量"
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2026/760/oj",
+      "source_verified": "2026-04-09",
+      "category": "hearing_aids",
+      "added_by_amendment": "2026/760"
+    }
+  ]
+}

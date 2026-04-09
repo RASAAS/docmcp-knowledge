@@ -1,43 +1,61 @@
 {
   "category": "surgical_implants",
   "category_name": {
-    "zh": "Fei You Yuan Wai Ke Zhi Ru Wu",
+    "zh": "非有源外科植入物",
     "en": "Non-active Surgical Implants"
   },
   "regulation": "eu_mdr",
   "source": "Implementing Decision (EU) 2021/1182 (consolidated)",
   "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
-  "last_updated": "2026-02-23",
-  "count": 3,
+  "last_updated": "2026-04-09",
+  "count": 4,
   "entries": [
+    {
+      "id": "eu_mdr-hs-en-iso-7197-2024",
+      "number": "EN ISO 7197:2024",
+      "title": {
+        "en": "Neurosurgical implants - Sterile, single-use hydrocephalus shunts and components (ISO 7197:2024)",
+        "zh": "神经外科植入物 - 无菌、一次性使用的脑积水分流器及部件"
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_verified": "2026-04-09",
+      "category": "surgical_implants"
+    },
     {
       "id": "eu_mdr-hs-en-iso-14630-2024",
       "number": "EN ISO 14630:2024",
-      "title": "Non-active surgical implants - General requirements (ISO 14630:2024)",
-      "scope": "eu_mdr",
+      "title": {
+        "en": "Non-active surgical implants - General requirements (ISO 14630:2024)",
+        "zh": "非有源外科植入物 - 通用要求"
+      },
       "status": "active",
       "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
-      "source_verified": "2026-02-23",
+      "source_verified": "2026-04-09",
       "category": "surgical_implants"
     },
     {
       "id": "eu_mdr-hs-en-iso-21535-2024",
       "number": "EN ISO 21535:2024",
-      "title": "Non-active surgical implants - Joint replacement implants - Specific requirements for hip-joint replacement implants (ISO 21535:2024)",
-      "scope": "eu_mdr",
+      "title": {
+        "en": "Non-active surgical implants - Joint replacement implants - Specific requirements for hip-joint replacement implants (ISO 21535:2023)",
+        "zh": "非有源外科植入物 - 关节置换植入物 - 髋关节置换植入物的特殊要求"
+      },
       "status": "active",
       "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
-      "source_verified": "2026-02-23",
+      "source_verified": "2026-04-09",
       "category": "surgical_implants"
     },
     {
       "id": "eu_mdr-hs-en-iso-21536-2024",
       "number": "EN ISO 21536:2024",
-      "title": "Non-active surgical implants - Joint replacement implants - Specific requirements for knee-joint replacement implants (ISO 21536:2024)",
-      "scope": "eu_mdr",
+      "title": {
+        "en": "Non-active surgical implants - Joint replacement implants - Specific requirements for knee-joint replacement implants (ISO 21536:2023)",
+        "zh": "非有源外科植入物 - 关节置换植入物 - 膝关节置换植入物的特殊要求"
+      },
       "status": "active",
       "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
-      "source_verified": "2026-02-23",
+      "source_verified": "2026-04-09",
       "category": "surgical_implants"
     }
   ]

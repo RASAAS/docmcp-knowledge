@@ -1,23 +1,25 @@
 {
   "category": "connectors",
   "category_name": {
-    "zh": "Xiao Kou Jing Lian Jie Qi",
+    "zh": "小口径连接器",
     "en": "Small-bore Connectors"
   },
   "regulation": "eu_mdr",
   "source": "Implementing Decision (EU) 2021/1182 (consolidated)",
   "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
-  "last_updated": "2026-02-23",
+  "last_updated": "2026-04-09",
   "count": 1,
   "entries": [
     {
       "id": "eu_mdr-hs-en-iso-80369-2-2024",
       "number": "EN ISO 80369-2:2024",
-      "title": "Small-bore connectors for liquids and gases in healthcare applications - Part 2: Connectors for enteral applications (ISO 80369-2:2024)",
-      "scope": "eu_mdr",
+      "title": {
+        "en": "Small-bore connectors for liquids and gases in healthcare applications - Part 2: Connectors for respiratory applications (ISO 80369-2:2024, Corrected version 2025-06)",
+        "zh": "医疗保健应用中液体和气体的小口径连接器 - 第2部分：呼吸应用连接器"
+      },
       "status": "active",
       "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
-      "source_verified": "2026-02-23",
+      "source_verified": "2026-04-09",
       "category": "connectors"
     }
   ]

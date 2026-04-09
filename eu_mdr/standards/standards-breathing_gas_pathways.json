@@ -1,0 +1,62 @@
+{
+  "category": "breathing_gas_pathways",
+  "category_name": {
+    "zh": "呼吸气路生物相容性",
+    "en": "Breathing Gas Pathways"
+  },
+  "regulation": "eu_mdr",
+  "source": "Implementing Decision (EU) 2021/1182 (consolidated)",
+  "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+  "last_updated": "2026-04-09",
+  "count": 4,
+  "entries": [
+    {
+      "id": "eu_mdr-hs-en-iso-18562-1-2024",
+      "number": "EN ISO 18562-1:2024",
+      "title": {
+        "en": "Biocompatibility evaluation of breathing gas pathways in healthcare applications - Part 1: Evaluation and testing within a risk management process (ISO 18562-1:2024)",
+        "zh": "医疗保健应用中呼吸气路的生物相容性评价 - 第1部分：风险管理过程中的评价和试验"
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_verified": "2026-04-09",
+      "category": "breathing_gas_pathways"
+    },
+    {
+      "id": "eu_mdr-hs-en-iso-18562-2-2024",
+      "number": "EN ISO 18562-2:2024",
+      "title": {
+        "en": "Biocompatibility evaluation of breathing gas pathways in healthcare applications - Part 2: Tests for emissions of particulate matter (ISO 18562-2:2024)",
+        "zh": "医疗保健应用中呼吸气路的生物相容性评价 - 第2部分：颗粒物排放试验"
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_verified": "2026-04-09",
+      "category": "breathing_gas_pathways"
+    },
+    {
+      "id": "eu_mdr-hs-en-iso-18562-3-2024",
+      "number": "EN ISO 18562-3:2024",
+      "title": {
+        "en": "Biocompatibility evaluation of breathing gas pathways in healthcare applications - Part 3: Tests for emissions of volatile organic compounds (VOCs) (ISO 18562-3:2024)",
+        "zh": "医疗保健应用中呼吸气路的生物相容性评价 - 第3部分：挥发性有机化合物(VOCs)排放试验"
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_verified": "2026-04-09",
+      "category": "breathing_gas_pathways"
+    },
+    {
+      "id": "eu_mdr-hs-en-iso-18562-4-2024",
+      "number": "EN ISO 18562-4:2024",
+      "title": {
+        "en": "Biocompatibility evaluation of breathing gas pathways in healthcare applications - Part 4: Tests for leachables in condensate (ISO 18562-4:2024)",
+        "zh": "医疗保健应用中呼吸气路的生物相容性评价 - 第4部分：冷凝液中可沥滤物的试验"
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_verified": "2026-04-09",
+      "category": "breathing_gas_pathways"
+    }
+  ]
+}
