@@ -1,0 +1,74 @@
+{
+  "category": "nmpa/standards",
+  "description": "Chinese medical device standards (GB national standards, YY industry standards)",
+  "last_updated": "2026-04-09",
+  "count": 5,
+  "entries": [
+    {
+      "id": "nmpa-yy-0167-2020",
+      "title": {
+        "zh": "YY 0167-2020 非吸收性外科缝线",
+        "en": "YY 0167-2020 Non-absorbable Surgical Sutures"
+      },
+      "status": "active",
+      "source_url": "https://www.nmpa.gov.cn/ylqx/ylqxggtg/20240708102333186.html",
+      "source_url_verified": "2026-04-09",
+      "effective_date": "2020-01-01",
+      "standard_number": "YY 0167-2020",
+      "standard_type": "industry"
+    },
+    {
+      "id": "nmpa-yyt-1996-2025",
+      "title": {
+        "zh": "YY/T 1996-2025 采用脑机接口技术的医疗器械",
+        "en": "YY/T 1996-2025 Medical Devices Using Brain-Computer Interface Technology"
+      },
+      "status": "active",
+      "source_url": "https://www.nmpa.gov.cn/xxgk/ggtg/ylqxggtg/ylqxhybzhgg/20250928091002190.html",
+      "source_url_verified": "2026-04-09",
+      "effective_date": "2025-09-28",
+      "standard_number": "YY/T 1996-2025",
+      "standard_type": "industry"
+    },
+    {
+      "id": "nmpa-yyt-0287-2017",
+      "title": {
+        "zh": "YY/T 0287-2017 医疗器械质量管理体系用于法规的要求 (idt ISO 13485:2016)",
+        "en": "YY/T 0287-2017 Quality Management Systems for Medical Devices (idt ISO 13485:2016)"
+      },
+      "status": "active",
+      "source_url": "https://www.nmpa.gov.cn/zwfwqjd/zwfwmhzcjd/20170204111601404.html",
+      "source_url_verified": "2026-04-09",
+      "effective_date": "2017-05-01",
+      "standard_number": "YY/T 0287-2017",
+      "standard_type": "industry",
+      "idt_standard": "ISO 13485:2016"
+    },
+    {
+      "id": "nmpa-yy-0315-2023",
+      "title": {
+        "zh": "YY 0315-2023 钛及钛合金牙种植体",
+        "en": "YY 0315-2023 Titanium and Titanium Alloy Dental Implants"
+      },
+      "status": "active",
+      "source_url": "https://www.nmpa.gov.cn/directory/web/nmpa//xxgk/ggtg/ylqxggtg/ylqxhybzhgg/20231124105920130.html",
+      "source_url_verified": "2026-04-09",
+      "effective_date": "2023-11-24",
+      "standard_number": "YY 0315-2023",
+      "standard_type": "industry"
+    },
+    {
+      "id": "nmpa-yyt-1574-2017",
+      "title": {
+        "zh": "YY/T 1574-2017 组织工程医疗器械产品海藻酸钠",
+        "en": "YY/T 1574-2017 Tissue Engineering Medical Devices - Sodium Alginate"
+      },
+      "status": "active",
+      "source_url": "https://www.nmpa.gov.cn/directory/web/nmpa/ylqx/ylqxggtg/20170828181301313.html",
+      "source_url_verified": "2026-04-09",
+      "effective_date": "2017-08-28",
+      "standard_number": "YY/T 1574-2017",
+      "standard_type": "industry"
+    }
+  ]
+}

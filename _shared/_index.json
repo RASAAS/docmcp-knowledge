@@ -1,216 +1,82 @@
 {
   "category": "_shared",
-  "last_updated": "2026-02-23",
-  "count": 19,
+  "description": "Cross-framework international standards (ISO, IEC) applicable to multiple regulatory jurisdictions",
+  "last_updated": "2026-04-09",
+  "count": 6,
   "entries": [
     {
-      "id": "shared-需求规格说明书",
+      "id": "shared-iso-13485-2016",
       "title": {
-        "zh": "需求规格说明书",
-        "en": ""
+        "en": "ISO 13485:2016 - Medical devices - Quality management systems - Requirements for regulatory purposes",
+        "zh": "ISO 13485:2016 - 医疗器械 - 质量管理体系 - 用于法规的要求"
       },
       "status": "active",
-      "source_url": "https://reguverse.com/documentation/qms/eqms-dev/srs/",
-      "source_url_verified": "2026-02-23",
-      "effective_date": "2025-10-27"
+      "source_url": "https://www.iso.org/standard/59752.html",
+      "source_url_verified": "2026-04-09",
+      "effective_date": "2016-03-01",
+      "standard_number": "ISO 13485:2016"
     },
     {
-      "id": "shared-qms整体框架结构-基于iso-13485与mdsap审核要求",
+      "id": "shared-iso-14971-2019",
       "title": {
-        "zh": "QMS整体框架结构 - 基于ISO 13485与MDSAP审核要求",
-        "en": ""
+        "en": "ISO 14971:2019 - Medical devices - Application of risk management to medical devices",
+        "zh": "ISO 14971:2019 - 医疗器械 - 医疗器械风险管理的应用"
       },
       "status": "active",
-      "source_url": "https://reguverse.com/documentation/qms/overview/",
-      "source_url_verified": "2026-02-23",
-      "effective_date": "2025-10-25"
+      "source_url": "https://www.iso.org/standard/72704.html",
+      "source_url_verified": "2026-04-09",
+      "effective_date": "2019-12-01",
+      "standard_number": "ISO 14971:2019"
     },
     {
-      "id": "shared-facial-anatomy-fitzpatrick-skin-types",
+      "id": "shared-iec-62304-2006-amd1-2015",
       "title": {
-        "zh": "Facial Anatomy & Fitzpatrick Skin Types",
-        "en": ""
+        "en": "IEC 62304:2006+AMD1:2015 - Medical device software - Software life cycle processes",
+        "zh": "IEC 62304:2006+AMD1:2015 - 医疗器械软件 - 软件生命周期过程"
       },
       "status": "active",
-      "source_url": "https://reguverse.com/documentation/state-of-the-art/racial-differences/facial-anatomy-and-fitzpatrick-skin-types/",
-      "source_url_verified": "2026-02-23",
-      "effective_date": "2025-05-08"
+      "source_url": "https://webstore.iec.ch/en/publication/22794",
+      "source_url_verified": "2026-04-09",
+      "effective_date": "2015-06-01",
+      "standard_number": "IEC 62304:2006+AMD1:2015"
     },
     {
-      "id": "shared-02-opensota",
+      "id": "shared-iec-62366-1-2015-amd1-2020",
       "title": {
-        "zh": "02. OpenSOTA",
-        "en": ""
+        "en": "IEC 62366-1:2015+AMD1:2020 - Medical devices - Application of usability engineering to medical devices",
+        "zh": "IEC 62366-1:2015+AMD1:2020 - 医疗器械 - 可用性工程在医疗器械中的应用"
       },
       "status": "active",
-      "source_url": "https://reguverse.com/documentation/state-of-the-art/",
-      "source_url_verified": "2026-02-23",
-      "effective_date": "2025-05-25"
+      "source_url": "https://webstore.iec.ch/en/publication/67220",
+      "source_url_verified": "2026-04-09",
+      "effective_date": "2020-06-01",
+      "standard_number": "IEC 62366-1:2015+AMD1:2020"
     },
     {
-      "id": "shared-创新医疗器械特别审查电子目录",
+      "id": "shared-iso-20417-2026",
       "title": {
-        "zh": "创新医疗器械特别审查电子目录",
-        "en": ""
+        "en": "ISO 20417:2026 - Medical devices - Information to be supplied by the manufacturer (2nd edition)",
+        "zh": "ISO 20417:2026 - 医疗器械 - 制造商应提供的信息（第2版）"
       },
       "status": "active",
-      "source_url": "https://reguverse.com/documentation/nmpa-erps-docs/others/innovation-device-review/",
-      "source_url_verified": "2026-02-23",
-      "effective_date": "2023-12-03"
+      "source_url": "https://www.iso.org/standard/20417.html",
+      "source_url_verified": "2026-04-09",
+      "effective_date": "2026-03-01",
+      "standard_number": "ISO 20417:2026",
+      "replaces": "ISO 20417:2021"
     },
     {
-      "id": "shared-说明书更改告知电子目录",
+      "id": "shared-iec-60601-1-2005-amd2-2020",
       "title": {
-        "zh": "说明书更改告知电子目录",
-        "en": ""
+        "en": "IEC 60601-1:2005+AMD1:2012+AMD2:2020 - Medical electrical equipment - General requirements for basic safety and essential performance",
+        "zh": "IEC 60601-1:2005+AMD1:2012+AMD2:2020 - 医用电气设备 - 基本安全和基本性能的通用要求"
       },
       "status": "active",
-      "source_url": "https://reguverse.com/documentation/nmpa-erps-docs/others/ifu-change/",
-      "source_url_verified": "2026-02-23",
-      "effective_date": "2023-12-03"
-    },
-    {
-      "id": "shared-高风险医疗器械临床试验审批申报资料电子目录",
-      "title": {
-        "zh": "高风险医疗器械临床试验审批申报资料电子目录",
-        "en": ""
-      },
-      "status": "active",
-      "source_url": "https://reguverse.com/documentation/nmpa-erps-docs/import-ii-iii/clinical-trial-approval/",
-      "source_url_verified": "2026-02-23",
-      "effective_date": "2023-12-03"
-    },
-    {
-      "id": "shared-高风险医疗器械临床试验审批申报资料电子目录",
-      "title": {
-        "zh": "高风险医疗器械临床试验审批申报资料电子目录",
-        "en": ""
-      },
-      "status": "active",
-      "source_url": "https://reguverse.com/documentation/nmpa-erps-docs/domestic-reg/clinical-trial-approval/",
-      "source_url_verified": "2026-02-23",
-      "effective_date": "2023-12-03"
-    },
-    {
-      "id": "shared-延续注册申报资料电子目录",
-      "title": {
-        "zh": "延续注册申报资料电子目录",
-        "en": ""
-      },
-      "status": "active",
-      "source_url": "https://reguverse.com/documentation/nmpa-erps-docs/domestic-reg/renew/",
-      "source_url_verified": "2026-02-23",
-      "effective_date": "2023-12-03"
-    },
-    {
-      "id": "shared-变更注册申报资料电子目录",
-      "title": {
-        "zh": "变更注册申报资料电子目录",
-        "en": ""
-      },
-      "status": "active",
-      "source_url": "https://reguverse.com/documentation/nmpa-erps-docs/domestic-reg/change-registration/",
-      "source_url_verified": "2026-02-23",
-      "effective_date": "2023-12-03"
-    },
-    {
-      "id": "shared-变更备案资料电子目录",
-      "title": {
-        "zh": "变更备案资料电子目录",
-        "en": ""
-      },
-      "status": "active",
-      "source_url": "https://reguverse.com/documentation/nmpa-erps-docs/domestic-reg/change-filing/",
-      "source_url_verified": "2026-02-23",
-      "effective_date": "2025-03-12"
-    },
-    {
-      "id": "shared-第三类医疗器械首次注册",
-      "title": {
-        "zh": "第三类医疗器械首次注册",
-        "en": ""
-      },
-      "status": "active",
-      "source_url": "https://reguverse.com/documentation/nmpa-erps-docs/domestic-reg/initial-iii/",
-      "source_url_verified": "2026-02-23",
-      "effective_date": "2023-12-03"
-    },
-    {
-      "id": "shared-注册流程及时限",
-      "title": {
-        "zh": "注册流程及时限",
-        "en": ""
-      },
-      "status": "active",
-      "source_url": "https://reguverse.com/documentation/nmpa-erps-docs/steps-and-timeline/",
-      "source_url_verified": "2026-02-23",
-      "effective_date": "2025-02-14"
-    },
-    {
-      "id": "shared-境内医疗器械注册申报资料",
-      "title": {
-        "zh": "境内医疗器械注册申报资料",
-        "en": ""
-      },
-      "status": "active",
-      "source_url": "https://reguverse.com/documentation/nmpa-erps-docs/domestic-reg/",
-      "source_url_verified": "2026-02-23",
-      "effective_date": "2023-12-03"
-    },
-    {
-      "id": "shared-延续注册申报资料电子目录",
-      "title": {
-        "zh": "延续注册申报资料电子目录",
-        "en": ""
-      },
-      "status": "active",
-      "source_url": "https://reguverse.com/documentation/nmpa-erps-docs/import-ii-iii/renew/",
-      "source_url_verified": "2026-02-23",
-      "effective_date": "2023-12-03"
-    },
-    {
-      "id": "shared-变更备案申报资料电子目录",
-      "title": {
-        "zh": "变更备案申报资料电子目录",
-        "en": ""
-      },
-      "status": "active",
-      "source_url": "https://reguverse.com/documentation/nmpa-erps-docs/import-ii-iii/change-filing/",
-      "source_url_verified": "2026-02-23",
-      "effective_date": "2025-04-19"
-    },
-    {
-      "id": "shared-变更注册申报资料电子目录",
-      "title": {
-        "zh": "变更注册申报资料电子目录",
-        "en": ""
-      },
-      "status": "active",
-      "source_url": "https://reguverse.com/documentation/nmpa-erps-docs/import-ii-iii/change-registration/",
-      "source_url_verified": "2026-02-23",
-      "effective_date": "2023-12-03"
-    },
-    {
-      "id": "shared-首次注册申报资料电子目录",
-      "title": {
-        "zh": "(首次)注册申报资料电子目录",
-        "en": ""
-      },
-      "status": "active",
-      "source_url": "https://reguverse.com/documentation/nmpa-erps-docs/import-ii-iii/initial/",
-      "source_url_verified": "2026-02-23",
-      "effective_date": "2023-12-03"
-    },
-    {
-      "id": "shared-进口第二类三类医疗器械申报资料",
-      "title": {
-        "zh": "进口第二类、三类医疗器械申报资料",
-        "en": ""
-      },
-      "status": "active",
-      "source_url": "https://reguverse.com/documentation/nmpa-erps-docs/import-ii-iii/",
-      "source_url_verified": "2026-02-23",
-      "effective_date": "2023-12-03"
+      "source_url": "https://webstore.iec.ch/en/publication/67497",
+      "source_url_verified": "2026-04-09",
+      "effective_date": "2020-12-01",
+      "standard_number": "IEC 60601-1:2005+AMD1:2012+AMD2:2020"
     }
-  ]
+  ],
+  "legacy_reguverse_entries_archived": "Moved to insights/. Original 19 reguverse.com documentation articles (QMS, NMPA registration templates, SOTA) are archived and accessible via insights/_index.json."
 }
