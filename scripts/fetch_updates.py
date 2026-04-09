@@ -76,7 +76,8 @@ SOURCES = {
             "url": "https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en",
             "check_type": "google_search",
             "category": "eu_mdr/mdcg",
-            "google_query": "site:health.ec.europa.eu MDCG guidance 2025 OR 2026 medical devices",
+            "google_query": "site:health.ec.europa.eu MDCG guidance medical devices",
+            "date_restrict": "y2",
             "title_filter": r"MDCG\s+20\d{2}[-/]\d+",
         },
         "mdcg_guidance_google": {
@@ -84,7 +85,8 @@ SOURCES = {
             "url": "https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en",
             "check_type": "google_search",
             "category": "eu_mdr/mdcg",
-            "google_query": "MDCG 2025 OR 2026 guidance medical device",
+            "google_query": "MDCG guidance medical device",
+            "date_restrict": "y2",
             "title_filter": r"MDCG\s+20\d{2}[-/]\d+",
         },
         "team_nb": {
@@ -92,7 +94,8 @@ SOURCES = {
             "url": "https://www.team-nb.org/",
             "check_type": "google_search",
             "category": "eu_mdr/team_nb",
-            "google_query": "site:team-nb.org position paper 2025 OR 2026",
+            "google_query": "site:team-nb.org position paper",
+            "date_restrict": "y2",
             "title_filter": r"(?i)position\s+paper|guidance\s+note|team[- ]?nb",
         },
     },
@@ -108,7 +111,8 @@ SOURCES = {
             "url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents",
             "check_type": "google_search",
             "category": "fda/guidance",
-            "google_query": "site:fda.gov/regulatory-information/search-fda-guidance-documents medical device guidance final 2025 OR 2026",
+            "google_query": "site:fda.gov/regulatory-information/search-fda-guidance-documents medical device guidance final",
+            "date_restrict": "y2",
             "title_filter": r"(?i)guidance|premarket|510\(k\)|PMA|De\s*Novo|cybersecurity|biocompatibility|software|clinical|labeling|UDI",
         },
         "consensus_standards": {
@@ -116,7 +120,8 @@ SOURCES = {
             "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfStandards/search.cfm",
             "check_type": "google_search",
             "category": "fda/standards",
-            "google_query": "site:accessdata.fda.gov consensus standards recognized medical device 2025 OR 2026",
+            "google_query": "site:accessdata.fda.gov consensus standards recognized medical device",
+            "date_restrict": "y2",
             "title_filter": r"(?i)standard|consensus|ISO|IEC|ASTM|AAMI",
         },
         "regulations_ecfr": {
@@ -133,7 +138,8 @@ SOURCES = {
             "url": "https://www.cmde.org.cn/flfg/zdyz/",
             "check_type": "google_search",
             "category": "nmpa/guidance",
-            "google_query": "site:cmde.org.cn 指导原则 医疗器械 2025 OR 2026",
+            "google_query": "site:cmde.org.cn 指导原则 医疗器械",
+            "date_restrict": "y1",
             "title_filter": r"(指导原则|技术审查|审查要点|技术指导)",
         },
         "nmpa_regulations": {
@@ -141,7 +147,8 @@ SOURCES = {
             "url": "https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/",
             "check_type": "google_search",
             "category": "nmpa/regulations",
-            "google_query": "site:samr.gov.cn 医疗器械 部门规章 2025 OR 2026",
+            "google_query": "site:samr.gov.cn 医疗器械 部门规章",
+            "date_restrict": "y1",
             "title_filter": r"(规定|办法|条例|通告|公告|令).{0,30}(医疗器械|体外诊断|器械)",
         },
         "nmpa_announcements": {
@@ -149,7 +156,8 @@ SOURCES = {
             "url": "https://www.nmpa.gov.cn/ylqx/ylqxggtg/",
             "check_type": "google_search",
             "category": "nmpa/regulations",
-            "google_query": "site:nmpa.gov.cn 医疗器械 公告 通告 2025 OR 2026",
+            "google_query": "site:nmpa.gov.cn 医疗器械 公告 通告",
+            "date_restrict": "y1",
             "title_filter": r"(医疗器械|体外诊断).{0,20}(公告|通告|通知|决定)",
         },
         "nmpa_standards": {
@@ -157,7 +165,8 @@ SOURCES = {
             "url": "https://std.samr.gov.cn",
             "check_type": "google_search",
             "category": "nmpa/standards",
-            "google_query": "site:std.samr.gov.cn YY 医疗器械 2025 OR 2026",
+            "google_query": "site:std.samr.gov.cn YY 医疗器械",
+            "date_restrict": "y2",
             "title_filter": r"YY[/T\s]*\d{4,5}|GB[/T\s]*\d{4,5}",
         },
     },
@@ -167,7 +176,8 @@ SOURCES = {
             "url": "https://www.iso.org/committee/54892/x/catalogue/",
             "check_type": "google_search",
             "category": "_shared/standards",
-            "google_query": "site:iso.org 13485 OR 14971 OR 62304 OR 10993 medical device 2025 OR 2026",
+            "google_query": "site:iso.org 13485 OR 14971 OR 62304 OR 10993 medical device",
+            "date_restrict": "y2",
             "title_filter": r"ISO\s+\d{4,5}|IEC\s+\d{4,5}",
         },
         "iec_tc62": {
@@ -175,7 +185,8 @@ SOURCES = {
             "url": "https://www.iec.ch/dyn/www/f?p=103:7:::::FSP_ORG_ID:1245",
             "check_type": "google_search",
             "category": "_shared/standards",
-            "google_query": "site:iec.ch 60601 OR 62133 medical device standard 2025 OR 2026",
+            "google_query": "site:iec.ch 60601 OR 62133 medical device standard",
+            "date_restrict": "y2",
             "title_filter": r"IEC\s+\d{4,5}|ISO\s+\d{4,5}",
         },
     },
@@ -472,14 +483,26 @@ class GoogleSearchChecker:
         self.state = state
         self.available = bool(api_key and engine_id)
 
-    def search(self, query: str, num: int = 10) -> list:
+    def search(self, query: str, num: int = 10,
+               date_restrict: str = "") -> list:
+        """Search via Google CSE API.
+
+        Args:
+            date_restrict: Google CSE dateRestrict value, e.g. "y2" (past 2 years),
+                "m6" (past 6 months), "w4" (past 4 weeks), "d30" (past 30 days).
+                When set, filters results by page indexing date -- no hardcoded
+                year strings needed in the query.
+        """
         if not self.available:
             return []
         try:
-            resp = requests.get(self.BASE_URL, params={
+            params = {
                 "key": self.api_key, "cx": self.engine_id,
                 "q": query, "num": min(num, 10), "sort": "date",
-            }, timeout=15)
+            }
+            if date_restrict:
+                params["dateRestrict"] = date_restrict
+            resp = requests.get(self.BASE_URL, params=params, timeout=15)
             resp.raise_for_status()
             return resp.json().get("items", [])
         except Exception as e:
@@ -495,7 +518,7 @@ class GoogleSearchChecker:
         title_filter = source.get("title_filter")
         prev = self.state.get(source_id, {})
         prev_titles = set(prev.get("seen_titles", []))
-        items = self.search(query)
+        items = self.search(query, date_restrict=date_restrict)
         new_items = []
         filtered_count = 0
         all_titles = list(prev_titles)
