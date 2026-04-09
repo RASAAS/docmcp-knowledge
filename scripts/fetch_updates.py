@@ -3,11 +3,12 @@
 Automated Regulatory Update Monitoring Script
 Checks official sources for new/updated regulatory content and creates update reports.
 
-Strategy (3-layer anti-scraping bypass):
-  Layer 1: RSS Feed     - FDA Medical Devices RSS (real-time, no anti-scraping)
-  Layer 2: HTTP ETag    - EUR-Lex, eCFR, gov.cn (reliable, no anti-scraping)
-  Layer 3: Google CSE   - NMPA, CMDE, ISO, FDA supplement (bypasses anti-scraping)
-  Bonus:   OpenFDA API  - FDA guidance search via official API
+Strategy (4-layer detection with DB comparison):
+  Layer 1: RSS Feed        - FDA Medical Devices RSS (real-time, no anti-scraping)
+  Layer 2: Structured API  - eCFR Versioner API, EUR-Lex (replaces unreliable http_head)
+  Layer 3: Google CSE      - NMPA, CMDE, ISO, FDA supplement (with title_filter)
+  Layer 4: OpenFDA API     - FDA guidance search via official API
+  Filter:  DatabaseComparator - Compare detections against existing _index.json data
 
 Usage:
     python scripts/fetch_updates.py --check-all
@@ -24,6 +25,7 @@ Batched cron schedule (weekly, by regulation group):
 import argparse
 import json
 import os
+import re
 import sys
 import time
 import xml.etree.ElementTree as ET
@@ -63,38 +65,35 @@ LLM_MODEL = os.environ.get("LLM_MODEL", "deepseek-chat")
 SOURCES = {
     "eu_mdr": {
         "harmonised_standards": {
-            "name": "EU MDR Harmonised Standards (OJ)",
-            "url": "https://health.ec.europa.eu/medical-devices-topics-interest/harmonised-standards_en",
-            "check_type": "http_head",
+            "name": "EU MDR Harmonised Standards (EUR-Lex Amendment Check)",
+            "url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182/oj",
+            "check_type": "eurlex_amendment",
             "category": "eu_mdr/standards",
-        },
-        "harmonised_standards_oj": {
-            "name": "EU MDR Harmonised Standards - Latest Amendment (EUR-Lex 2026/193)",
-            "url": "https://eur-lex.europa.eu/eli/dec_impl/2026/193/oj",
-            "check_type": "http_head",
-            "category": "eu_mdr/standards",
-            "note": "Amends base decision 2021/1182. Use fetch_eu_mdr_standards.py for full parsing.",
-        },
-        "harmonised_standards_consolidated": {
-            "name": "EU MDR Harmonised Standards - Consolidated Decision 2021/1182 (EUR-Lex)",
-            "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02021D1182-20251020",
-            "check_type": "http_head",
-            "category": "eu_mdr/standards",
-            "note": "Consolidated version includes all amendments. Date suffix updates with new consolidations.",
+            "note": "Checks EUR-Lex for new CID amendments to base decision 2021/1182.",
         },
         "mdcg_guidance": {
             "name": "MDCG Guidance Documents",
             "url": "https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en",
-            "check_type": "http_head",
+            "check_type": "google_search",
             "category": "eu_mdr/mdcg",
             "google_query": "site:health.ec.europa.eu MDCG guidance 2025 OR 2026 medical devices",
+            "title_filter": r"MDCG\s+20\d{2}[-/]\d+",
+        },
+        "mdcg_guidance_google": {
+            "name": "MDCG Guidance (Google CSE)",
+            "url": "https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en",
+            "check_type": "google_search",
+            "category": "eu_mdr/mdcg",
+            "google_query": "MDCG 2025 OR 2026 guidance medical device",
+            "title_filter": r"MDCG\s+20\d{2}[-/]\d+",
         },
         "team_nb": {
             "name": "TEAM-NB Position Papers",
             "url": "https://www.team-nb.org/",
-            "check_type": "http_head",
+            "check_type": "google_search",
             "category": "eu_mdr/team_nb",
             "google_query": "site:team-nb.org position paper 2025 OR 2026",
+            "title_filter": r"(?i)position\s+paper|guidance\s+note|team[- ]?nb",
         },
     },
     "fda": {
@@ -109,19 +108,23 @@ SOURCES = {
             "url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents",
             "check_type": "google_search",
             "category": "fda/guidance",
-            "google_query": "site:fda.gov medical device guidance final 2025 OR 2026 -draft",
+            "google_query": "site:fda.gov/regulatory-information/search-fda-guidance-documents medical device guidance final 2025 OR 2026",
+            "title_filter": r"(?i)guidance|premarket|510\(k\)|PMA|De\s*Novo|cybersecurity|biocompatibility|software|clinical|labeling|UDI",
         },
         "consensus_standards": {
-            "name": "FDA Recognized Consensus Standards",
+            "name": "FDA Recognized Consensus Standards (Google CSE)",
             "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfStandards/search.cfm",
-            "check_type": "http_head",
+            "check_type": "google_search",
             "category": "fda/standards",
+            "google_query": "site:accessdata.fda.gov consensus standards recognized medical device 2025 OR 2026",
+            "title_filter": r"(?i)standard|consensus|ISO|IEC|ASTM|AAMI",
         },
         "regulations_ecfr": {
-            "name": "FDA 21 CFR (eCFR)",
-            "url": "https://www.ecfr.gov/current/title-21",
-            "check_type": "http_head",
+            "name": "FDA 21 CFR Medical Device Parts (eCFR API)",
+            "url": "https://www.ecfr.gov/api/versioner/v1/titles.json",
+            "check_type": "ecfr_api",
             "category": "fda/regulations",
+            "note": "Checks eCFR Versioner API for Title 21 amendment dates, scoped to Parts 800-898.",
         },
     },
     "nmpa": {
@@ -131,6 +134,7 @@ SOURCES = {
             "check_type": "google_search",
             "category": "nmpa/guidance",
             "google_query": "site:cmde.org.cn 指导原则 医疗器械 2025 OR 2026",
+            "title_filter": r"(指导原则|技术审查|审查要点|技术指导)",
         },
         "nmpa_regulations": {
             "name": "NMPA Medical Device Regulations (SAMR)",
@@ -138,6 +142,7 @@ SOURCES = {
             "check_type": "google_search",
             "category": "nmpa/regulations",
             "google_query": "site:samr.gov.cn 医疗器械 部门规章 2025 OR 2026",
+            "title_filter": r"(规定|办法|条例|通告|公告|令).{0,30}(医疗器械|体外诊断|器械)",
         },
         "nmpa_announcements": {
             "name": "NMPA Medical Device Announcements",
@@ -145,6 +150,7 @@ SOURCES = {
             "check_type": "google_search",
             "category": "nmpa/regulations",
             "google_query": "site:nmpa.gov.cn 医疗器械 公告 通告 2025 OR 2026",
+            "title_filter": r"(医疗器械|体外诊断).{0,20}(公告|通告|通知|决定)",
         },
         "nmpa_standards": {
             "name": "NMPA Medical Device Standards (YY/GB)",
@@ -152,6 +158,7 @@ SOURCES = {
             "check_type": "google_search",
             "category": "nmpa/standards",
             "google_query": "site:std.samr.gov.cn YY 医疗器械 2025 OR 2026",
+            "title_filter": r"YY[/T\s]*\d{4,5}|GB[/T\s]*\d{4,5}",
         },
     },
     "shared": {
@@ -161,6 +168,7 @@ SOURCES = {
             "check_type": "google_search",
             "category": "_shared/standards",
             "google_query": "site:iso.org 13485 OR 14971 OR 62304 OR 10993 medical device 2025 OR 2026",
+            "title_filter": r"ISO\s+\d{4,5}|IEC\s+\d{4,5}",
         },
         "iec_tc62": {
             "name": "IEC TC 62 Medical Electrical Equipment Standards",
@@ -168,9 +176,13 @@ SOURCES = {
             "check_type": "google_search",
             "category": "_shared/standards",
             "google_query": "site:iec.ch 60601 OR 62133 medical device standard 2025 OR 2026",
+            "title_filter": r"IEC\s+\d{4,5}|ISO\s+\d{4,5}",
         },
     },
 }
+
+# Medical device eCFR parts (800-898)
+ECFR_MD_PARTS = set(range(800, 899))
 
 
 # ---------------------------------------------------------------------------
@@ -224,7 +236,138 @@ class VersionRegistry:
 
 
 # ---------------------------------------------------------------------------
-# Layer 2: HTTP ETag/Last-Modified checker
+# Database Comparator -- compares detections against existing _index.json
+# ---------------------------------------------------------------------------
+
+class DatabaseComparator:
+    """Loads all _index.json files and version_registry.json to classify detections."""
+
+    def __init__(self, root: Path = ROOT):
+        self.root = root
+        self.mdcg_ids: set[str] = set()
+        self.mdcg_titles: set[str] = set()
+        self.standards_latest_amendment: str = ""
+        self.eu_reg_ids: set[str] = set()
+        self.nmpa_reg_titles: set[str] = set()
+        self.nmpa_guidance_titles: set[str] = set()
+        self.fda_guidance_titles: set[str] = set()
+        self.fda_guidance_ids: set[str] = set()
+        self.db_stats: dict[str, dict] = {}
+        self._load_all()
+
+    def _load_json(self, path: Path) -> dict:
+        if not path.exists():
+            return {}
+        try:
+            with open(path, "r", encoding="utf-8") as f:
+                return json.load(f)
+        except Exception:
+            return {}
+
+    def _load_all(self):
+        mdcg = self._load_json(self.root / "eu_mdr" / "mdcg" / "_index.json")
+        for entry in mdcg.get("entries", []):
+            eid = entry.get("id", "")
+            self.mdcg_ids.add(eid)
+            for lang in ("zh", "en"):
+                t = (entry.get("title") or {}).get(lang, "")
+                if t:
+                    self.mdcg_titles.add(t.strip().lower())
+        self.db_stats["eu_mdr/mdcg"] = {"count": len(self.mdcg_ids)}
+
+        stds = self._load_json(self.root / "eu_mdr" / "standards" / "_index.json")
+        self.standards_latest_amendment = stds.get("latest_amendment", "")
+        self.db_stats["eu_mdr/standards"] = {
+            "count": stds.get("total_standards", 0),
+            "latest_amendment": self.standards_latest_amendment,
+        }
+
+        regs = self._load_json(self.root / "eu_mdr" / "regulations" / "_index.json")
+        for doc in regs.get("documents", []):
+            self.eu_reg_ids.add(doc.get("id", ""))
+        self.db_stats["eu_mdr/regulations"] = {"count": len(self.eu_reg_ids)}
+
+        nmpa_reg = self._load_json(self.root / "nmpa" / "regulations" / "_index.json")
+        for entry in nmpa_reg.get("entries", []):
+            t = (entry.get("title") or {}).get("zh", "")
+            if t:
+                self.nmpa_reg_titles.add(t.strip())
+        self.db_stats["nmpa/regulations"] = {"count": len(self.nmpa_reg_titles)}
+
+        nmpa_guide = self._load_json(self.root / "nmpa" / "guidance" / "_index.json")
+        for entry in nmpa_guide.get("entries", []):
+            t = (entry.get("title") or {}).get("zh", "")
+            if t:
+                self.nmpa_guidance_titles.add(t.strip())
+        self.db_stats["nmpa/guidance"] = {"count": len(self.nmpa_guidance_titles)}
+
+        vreg = self._load_json(self.root / "scripts" / "version_registry.json")
+        for doc_id, doc in vreg.get("documents", {}).items():
+            cur = doc.get("current", {})
+            title = cur.get("title", "")
+            if title and "fda" in doc_id.lower():
+                self.fda_guidance_titles.add(title.strip().lower())
+                self.fda_guidance_ids.add(doc_id)
+        self.db_stats["fda/guidance"] = {"count": len(self.fda_guidance_titles)}
+
+    def classify(self, category: str, title: str, link: str = "", date: str = "") -> tuple[str, str]:
+        """Classify a detection against the database.
+
+        Returns: ('new', description) | ('update', diff) | ('known', '') | ('irrelevant', reason)
+        """
+        title_lower = title.strip().lower()
+
+        if category == "eu_mdr/mdcg":
+            mdcg_match = re.search(r"MDCG\s+(20\d{2}[-/]\d+)", title, re.IGNORECASE)
+            if not mdcg_match:
+                return ("irrelevant", "No MDCG ID pattern in title")
+            mdcg_id = mdcg_match.group(1).replace("/", "-")
+            normalized = f"mdcg-{mdcg_id}"
+            if normalized in self.mdcg_ids or f"MDCG {mdcg_id}" in self.mdcg_ids:
+                return ("known", "")
+            return ("new", f"New MDCG document: {mdcg_match.group(0)}")
+
+        elif category == "eu_mdr/standards":
+            cid_match = re.search(r"20\d{2}/\d+", title)
+            if cid_match:
+                cid = cid_match.group(0)
+                if self.standards_latest_amendment and cid > self.standards_latest_amendment:
+                    return ("update", f"New amendment {cid} (DB latest: {self.standards_latest_amendment})")
+                return ("known", "")
+            return ("irrelevant", "No CID amendment number found")
+
+        elif category == "nmpa/regulations":
+            for known in self.nmpa_reg_titles:
+                if known in title or title in known:
+                    return ("known", "")
+            return ("new", f"Potentially new NMPA regulation")
+
+        elif category == "nmpa/guidance":
+            for known in self.nmpa_guidance_titles:
+                if known in title or title in known:
+                    return ("known", "")
+            return ("new", f"Potentially new NMPA guidance")
+
+        elif category == "fda/guidance":
+            for known in self.fda_guidance_titles:
+                if known in title_lower or title_lower in known:
+                    return ("known", "")
+            return ("new", f"Potentially new FDA guidance")
+
+        elif category in ("_shared/standards", "fda/standards", "nmpa/standards"):
+            std_match = re.search(r"(ISO|IEC|ASTM|AAMI|YY|GB)\s*[/T]*\s*(\d{4,5})", title, re.IGNORECASE)
+            if not std_match:
+                return ("irrelevant", "No standard number pattern found")
+            return ("new", f"Standard reference: {std_match.group(0)}")
+
+        return ("new", "Unclassified category")
+
+    def get_stats(self) -> dict:
+        return dict(self.db_stats)
+
+
+# ---------------------------------------------------------------------------
+# Layer 2: HTTP ETag/Last-Modified checker (kept for backward compat)
 # ---------------------------------------------------------------------------
 
 class HTTPChecker:
@@ -349,17 +492,24 @@ class GoogleSearchChecker:
             if not self.available:
                 print(f"    SKIP (Google CSE not configured)")
             return None
+        title_filter = source.get("title_filter")
         prev = self.state.get(source_id, {})
         prev_titles = set(prev.get("seen_titles", []))
         items = self.search(query)
         new_items = []
+        filtered_count = 0
         all_titles = list(prev_titles)
         for item in items:
             title = item.get("title", "")
+            if title_filter and not re.search(title_filter, title, re.IGNORECASE):
+                filtered_count += 1
+                continue
             if title not in prev_titles:
                 new_items.append({"title": title, "link": item.get("link", ""),
                                   "snippet": item.get("snippet", "")[:200]})
                 all_titles.append(title)
+        if filtered_count:
+            print(f"    INFO: {filtered_count} results filtered by title_filter")
         self.state[source_id] = {"url": source["url"],
                                   "last_checked": datetime.now().isoformat(),
                                   "seen_titles": all_titles[-100:]}
@@ -431,6 +581,96 @@ class OpenFDAChecker:
 
 
 # ---------------------------------------------------------------------------
+# eCFR Versioner API checker (replaces http_head for Title 21)
+# Public API, no key needed: https://www.ecfr.gov/api/versioner/v1/titles.json
+# ---------------------------------------------------------------------------
+
+class ECFRChecker:
+    TITLES_URL = "https://www.ecfr.gov/api/versioner/v1/titles.json"
+
+    def __init__(self, session: requests.Session, state: dict):
+        self.session = session
+        self.state = state
+
+    def check(self, source_id: str, source: dict) -> Optional[dict]:
+        prev = self.state.get(source_id, {})
+        last_amendment_date = prev.get("last_amendment_date", "")
+        try:
+            resp = self.session.get(self.TITLES_URL, timeout=15)
+            resp.raise_for_status()
+            titles = resp.json().get("titles", [])
+            title21 = None
+            for t in titles:
+                if t.get("number") == 21:
+                    title21 = t
+                    break
+            if not title21:
+                return None
+            new_date = title21.get("latest_amended_on", "") or title21.get("up_to_date_as_of", "")
+            self.state[source_id] = {
+                "url": source["url"],
+                "last_checked": datetime.now().isoformat(),
+                "last_amendment_date": new_date,
+            }
+            if not last_amendment_date:
+                print(f"    INFO: eCFR baseline established (Title 21 last amended: {new_date})")
+                return None
+            if new_date and new_date > last_amendment_date:
+                return _make_update(
+                    source_id, source, "ecfr_api",
+                    f"Title 21 CFR updated: {last_amendment_date} -> {new_date} (medical device Parts 800-898 may be affected)"
+                )
+            return None
+        except Exception as e:
+            print(f"    ERROR eCFR API: {e}")
+            return None
+
+
+# ---------------------------------------------------------------------------
+# EUR-Lex Amendment checker (replaces http_head for harmonised standards)
+# Checks consolidated decision URL date suffix for new amendments
+# ---------------------------------------------------------------------------
+
+class EURLexChecker:
+    CELLAR_SEARCH = "https://eur-lex.europa.eu/search.html"
+
+    def __init__(self, session: requests.Session, state: dict):
+        self.session = session
+        self.state = state
+
+    def check(self, source_id: str, source: dict) -> Optional[dict]:
+        prev = self.state.get(source_id, {})
+        last_known_amendment = prev.get("last_known_amendment", "")
+        try:
+            consol_url = "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02021D1182-99990101"
+            resp = self.session.head(consol_url, timeout=15, allow_redirects=True)
+            final_url = str(resp.url) if resp.url else ""
+            date_match = re.search(r"02021D1182-(\d{8})", final_url)
+            new_consol_date = date_match.group(1) if date_match else ""
+
+            self.state[source_id] = {
+                "url": source["url"],
+                "last_checked": datetime.now().isoformat(),
+                "last_known_amendment": new_consol_date or last_known_amendment,
+                "consolidated_url": final_url,
+            }
+
+            if not last_known_amendment:
+                print(f"    INFO: EUR-Lex baseline established (consolidated date: {new_consol_date})")
+                return None
+
+            if new_consol_date and new_consol_date > last_known_amendment:
+                return _make_update(
+                    source_id, source, "eurlex_amendment",
+                    f"New harmonised standards amendment detected (consolidated: {last_known_amendment} -> {new_consol_date})"
+                )
+            return None
+        except Exception as e:
+            print(f"    ERROR EUR-Lex: {e}")
+            return None
+
+
+# ---------------------------------------------------------------------------
 # LLM Version Analyzer (optional - requires LLM_API_KEY)
 # Uses OneAPI-compatible endpoint (deepseek-chat, gpt-4o-mini, etc.)
 # ---------------------------------------------------------------------------
@@ -495,6 +735,7 @@ class UpdateChecker:
         self.state_file = state_file or ROOT / "scripts" / ".update_state.json"
         self.state = self._load_state()
         self.registry = VersionRegistry()
+        self.db_comparator = DatabaseComparator(ROOT)
         session = requests.Session()
         session.headers.update({"User-Agent": "Mozilla/5.0 (docmcp-knowledge-bot/2.0)"})
         self.http = HTTPChecker(session, self.state)
@@ -502,6 +743,8 @@ class UpdateChecker:
         self.google = GoogleSearchChecker(GOOGLE_SEARCH_API_KEY, GOOGLE_SEARCH_ENGINE_ID,
                                           self.state)
         self.openfda = OpenFDAChecker(FDA_API_KEY, self.state)
+        self.ecfr = ECFRChecker(session, self.state)
+        self.eurlex = EURLexChecker(session, self.state)
         self.llm = LLMVersionAnalyzer(LLM_API_KEY, LLM_BASE_URL, LLM_MODEL)
         if not self.google.available:
             print("INFO: Google CSE not configured - set GOOGLE_SEARCH_API_KEY + "
@@ -529,16 +772,59 @@ class UpdateChecker:
         if check_type == "rss":
             return self.rss.check(source_id, source)
         elif check_type == "google_search":
-            return self.google.check(source_id, source)
+            result = self.google.check(source_id, source)
+            if result:
+                result = self._apply_db_comparison(result)
+            return result
         elif check_type == "openfda_guidance":
-            return self.openfda.check(source_id, source)
+            result = self.openfda.check(source_id, source)
+            if result:
+                result = self._apply_db_comparison(result)
+            return result
+        elif check_type == "ecfr_api":
+            return self.ecfr.check(source_id, source)
+        elif check_type == "eurlex_amendment":
+            return self.eurlex.check(source_id, source)
         else:
             result = self.http.check(source_id, source)
             if source.get("google_query") and self.google.available:
                 g_result = self.google.check(source_id + "_google", source)
                 if g_result:
+                    g_result = self._apply_db_comparison(g_result)
                     return g_result
             return result
+
+    def _apply_db_comparison(self, update: dict) -> Optional[dict]:
+        """Run DatabaseComparator on each new_item; keep only new/update items."""
+        new_items = update.get("new_items", [])
+        if not new_items:
+            return update
+        category = update.get("category", "")
+        confirmed_items = []
+        noise_filtered = 0
+        for item in new_items:
+            title = item.get("title", "")
+            link = item.get("link", "")
+            date = item.get("pub_date", "")
+            classification, desc = self.db_comparator.classify(category, title, link, date)
+            item["db_classification"] = classification
+            item["db_description"] = desc
+            if classification in ("new", "update"):
+                confirmed_items.append(item)
+            else:
+                noise_filtered += 1
+        update["noise_filtered"] = noise_filtered
+        update["db_confirmed_items"] = confirmed_items
+        if not confirmed_items:
+            print(f"    INFO: All {len(new_items)} items filtered by DB comparison (noise)")
+            return None
+        update["new_items"] = confirmed_items
+        update["note"] = (
+            f"{len(confirmed_items)} DB-confirmed new item(s) "
+            f"({noise_filtered} noise filtered from {len(new_items)} total)"
+        )
+        update["db_confirmed"] = True
+        return update
 
     def check_regulation(self, regulation: str) -> list:
         if regulation not in SOURCES:
@@ -568,7 +854,7 @@ class UpdateChecker:
 
     def analyze_versions(self, updates: list) -> list:
         if not self.llm.available:
-            print("INFO: LLM analysis skipped (OPENAI_API_KEY not set)")
+            print("INFO: LLM analysis skipped (LLM_API_KEY not set)")
             return updates
         print("\nRunning LLM version analysis...")
         for update in updates:
@@ -591,14 +877,21 @@ class UpdateChecker:
 
     def generate_report(self, updates: list) -> dict:
         confirmed = [u for u in updates if u.get("confirmed_update")]
+        db_confirmed = [u for u in updates if u.get("db_confirmed")]
+        db_confirmed_new = len(db_confirmed)
+        total_noise = sum(u.get("noise_filtered", 0) for u in updates)
         return {
             "checked_at": datetime.now().isoformat(),
             "updates_found": len(updates),
             "confirmed_updates": len(confirmed),
+            "db_confirmed_new": db_confirmed_new,
+            "noise_filtered_total": total_noise,
             "updates": updates,
+            "db_stats": self.db_comparator.get_stats(),
             "summary": (
-                f"{len(updates)} potential update(s) detected "
-                f"({len(confirmed)} LLM-confirmed) across "
+                f"{len(updates)} update(s) detected "
+                f"({db_confirmed_new} DB-confirmed, {len(confirmed)} LLM-confirmed, "
+                f"{total_noise} noise filtered) across "
                 f"{len(set(u['category'] for u in updates))} categories"
                 if updates else "No updates detected"
             ),
@@ -606,6 +899,9 @@ class UpdateChecker:
                 "google_cse": self.google.available,
                 "openfda_api": True,
                 "llm_analysis": self.llm.available,
+                "db_comparator": True,
+                "ecfr_api": True,
+                "eurlex_checker": True,
             },
         }
 

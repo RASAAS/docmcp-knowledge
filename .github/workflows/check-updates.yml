@@ -104,16 +104,19 @@ jobs:
             SUMMARY=$(python -c "import json; d=json.load(open('/tmp/update_report.json')); print(d['summary'])")
             COUNT=$(python -c "import json; d=json.load(open('/tmp/update_report.json')); print(d['updates_found'])")
             CONFIRMED=$(python -c "import json; d=json.load(open('/tmp/update_report.json')); print(d.get('confirmed_updates', 0))")
+            DB_CONFIRMED=$(python -c "import json; d=json.load(open('/tmp/update_report.json')); print(d.get('db_confirmed_new', 0))")
             echo "summary=$SUMMARY" >> $GITHUB_OUTPUT
             echo "count=$COUNT" >> $GITHUB_OUTPUT
             echo "confirmed=$CONFIRMED" >> $GITHUB_OUTPUT
+            echo "db_confirmed=$DB_CONFIRMED" >> $GITHUB_OUTPUT
           else
             echo "count=0" >> $GITHUB_OUTPUT
             echo "confirmed=0" >> $GITHUB_OUTPUT
+            echo "db_confirmed=0" >> $GITHUB_OUTPUT
           fi
 
       - name: Generate content drafts and create PR
-        if: steps.report.outputs.count != '0'
+        if: steps.report.outputs.db_confirmed != '0' || steps.report.outputs.confirmed != '0'
         run: |
           python scripts/generate_content_pr.py --report /tmp/update_report.json
         env:
@@ -121,17 +124,16 @@ jobs:
           GITHUB_REPO: ${{ github.repository }}
 
       - name: Regenerate Markdown from JSON (single source of truth)
-        if: steps.report.outputs.count != '0'
+        if: steps.report.outputs.db_confirmed != '0' || steps.report.outputs.confirmed != '0'
         run: |
           echo "Regenerating Markdown from JSON data layer..."
           python scripts/json_to_markdown.py --section all
-          # Commit any regenerated files to the draft PR branch
           git add docs/zh/ docs/en/ || true
           git diff --staged --quiet || git commit -m "chore: regenerate Markdown from JSON data [skip ci]"
           git push || true
 
-      - name: Create tracking issue if updates found
-        if: steps.report.outputs.count != '0'
+      - name: Create tracking issue if DB-confirmed updates found
+        if: steps.report.outputs.db_confirmed != '0' || steps.report.outputs.confirmed != '0'
         uses: actions/github-script@v7
         with:
           script: |
@@ -139,18 +141,45 @@ jobs:
             const report = JSON.parse(fs.readFileSync('/tmp/update_report.json', 'utf8'));
             const updates = report.updates;
             const confirmed = updates.filter(u => u.confirmed_update);
+            const dbConfirmed = updates.filter(u => u.db_confirmed);
             const checkers = report.checkers_used || {};
+            const dbStats = report.db_stats || {};
 
             let body = `## Automated Regulatory Update Detection\n\n`;
             body += `**Detected at**: ${report.checked_at}\n`;
-            body += `**Potential updates**: ${report.updates_found}\n`;
+            body += `**DB-confirmed new**: ${report.db_confirmed_new || 0}\n`;
             body += `**LLM-confirmed updates**: ${report.confirmed_updates || 0}\n`;
-            body += `**Checkers used**: Google CSE=${checkers.google_cse}, OpenFDA=${checkers.openfda_api}, LLM=${checkers.llm_analysis}\n\n`;
+            body += `**Noise filtered**: ${report.noise_filtered_total || 0}\n`;
+            body += `**Checkers**: DB Comparator + `;
+            body += checkers.google_cse ? 'Google CSE + ' : '';
+            body += checkers.ecfr_api ? 'eCFR API + ' : '';
+            body += checkers.eurlex_checker ? 'EUR-Lex + ' : '';
+            body += checkers.openfda_api ? 'OpenFDA + ' : '';
+            body += checkers.llm_analysis ? 'LLM' : '';
+            body += `\n\n`;
+
+            if (dbConfirmed.length > 0) {
+              body += `## New Documents Found (not in database)\n\n`;
+              for (const u of dbConfirmed) {
+                body += `### ${u.category}\n`;
+                if (u.new_items) {
+                  for (const item of u.new_items.slice(0, 10)) {
+                    body += `- **[${item.title}](${item.link})**\n`;
+                    if (item.db_description) body += `  ${item.db_description}`;
+                    if (item.pub_date) body += ` | Published: ${item.pub_date}`;
+                    body += ` | Source: ${u.check_type}\n`;
+                  }
+                } else {
+                  body += `- ${u.note}\n`;
+                }
+                body += `\n`;
+              }
+            }
 
             if (confirmed.length > 0) {
-              body += `### Confirmed Version Updates (High Priority)\n\n`;
+              body += `## LLM-Confirmed Version Updates (High Priority)\n\n`;
               for (const u of confirmed) {
-                body += `#### ${u.name}\n`;
+                body += `### ${u.name}\n`;
                 body += `- **Category**: \`${u.category}\`\n`;
                 body += `- **New version**: ${u.new_version || 'unknown'}\n`;
                 body += `- **URL**: ${u.new_url || u.url}\n`;
@@ -159,26 +188,26 @@ jobs:
               }
             }
 
-            body += `### All Detected Updates\n\n`;
-            for (const u of updates) {
-              body += `#### ${u.name}\n`;
-              body += `- **Category**: \`${u.category}\`\n`;
-              body += `- **Check type**: ${u.check_type}\n`;
-              body += `- **URL**: ${u.url}\n`;
-              body += `- **Note**: ${u.note}\n`;
-              if (u.new_items) {
-                body += `- **New items**:\n`;
-                for (const item of u.new_items.slice(0, 5)) {
-                  body += `  - [${item.title}](${item.link})\n`;
-                }
+            const nonDbUpdates = updates.filter(u => !u.db_confirmed && !u.confirmed_update);
+            if (nonDbUpdates.length > 0) {
+              body += `## Other Detected Changes\n\n`;
+              for (const u of nonDbUpdates) {
+                body += `- **${u.name}** (\`${u.check_type}\`): ${u.note}\n`;
               }
               body += `\n`;
             }
 
-            body += `---\n`;
-            body += `*A draft PR with bilingual content stubs has been auto-created.*\n`;
-            body += `*This issue was automatically created by the update monitoring workflow.*\n`;
-            body += `*Please review the draft PR and update the knowledge base accordingly.*`;
+            body += `## Database Comparison Summary\n\n`;
+            body += `| Domain | DB Records | Status |\n`;
+            body += `|--------|-----------|--------|\n`;
+            for (const [domain, stats] of Object.entries(dbStats)) {
+              const count = stats.count || 0;
+              const extra = stats.latest_amendment ? ` (latest: ${stats.latest_amendment})` : '';
+              body += `| ${domain} | ${count}${extra} | Active |\n`;
+            }
+            body += `\n---\n`;
+            body += `*Only DB-confirmed new documents and LLM-confirmed updates trigger this issue.*\n`;
+            body += `*Pure ETag/CDN noise is automatically filtered.*\n`;
 
             await github.rest.issues.create({
               owner: context.repo.owner,
