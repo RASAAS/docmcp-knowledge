@@ -1,8 +1,8 @@
 ---
-title: 
+title: Competence and Training Requirements for Regulatory Authority Assessors of Conformity Assessment Bodies Conducting Medical Device Regulatory Reviews
 ---
 
-# 
+# Competence and Training Requirements for Regulatory Authority Assessors of Conformity Assessment Bodies Conducting Medical Device Regulatory Reviews
 
 **文件编号**: IMDRF/GRRP WG/N63 FINAL:2024 (Edition 2)
 

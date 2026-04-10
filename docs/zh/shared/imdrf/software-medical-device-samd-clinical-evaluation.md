@@ -1,8 +1,8 @@
 ---
-title: 
+title: "Software as a Medical Device (SaMD): Clinical Evaluation"
 ---
 
-# 
+# Software as a Medical Device (SaMD): Clinical Evaluation
 
 **文件编号**: IMDRF/SaMD WG/N41FINAL:2017
 

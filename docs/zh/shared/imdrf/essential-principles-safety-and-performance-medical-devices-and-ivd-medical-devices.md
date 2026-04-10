@@ -1,8 +1,8 @@
 ---
-title: 
+title: Essential Principles of Safety and Performance of Medical Devices and IVD Medical Devices
 ---
 
-# 
+# Essential Principles of Safety and Performance of Medical Devices and IVD Medical Devices
 
 **文件编号**: IMDRF/GRRP WG/N47 FINAL:2024 (Edition 2)
 

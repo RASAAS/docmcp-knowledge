@@ -1,8 +1,8 @@
 ---
-title: 
+title: Competence and Training Requirements for Auditing Organizations
 ---
 
-# 
+# Competence and Training Requirements for Auditing Organizations
 
 **文件编号**: IMDRF/MDSAP WG/N4FINAL:2013
 

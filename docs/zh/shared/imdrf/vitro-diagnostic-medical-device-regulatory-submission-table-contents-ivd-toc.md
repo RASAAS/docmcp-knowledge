@@ -1,8 +1,8 @@
 ---
-title: 
+title: In Vitro Diagnostic Medical Device Regulatory Submission Table of Contents (IVD ToC)
 ---
 
-# 
+# In Vitro Diagnostic Medical Device Regulatory Submission Table of Contents (IVD ToC)
 
 **文件编号**: IMDRF/RPS WG/N13 FINAL:2024 (Edition 4)
 

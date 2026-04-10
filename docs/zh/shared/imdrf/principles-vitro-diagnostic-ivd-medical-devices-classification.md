@@ -1,8 +1,8 @@
 ---
-title: 
+title: Principles of In Vitro Diagnostic (IVD) Medical Devices Classification
 ---
 
-# 
+# Principles of In Vitro Diagnostic (IVD) Medical Devices Classification
 
 **文件编号**: IMDRF/IVD WG/N64FINAL:2021 (formerly GHTF/SG1/N045:2008)
 

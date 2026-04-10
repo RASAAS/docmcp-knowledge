@@ -1,8 +1,8 @@
 ---
-title: 
+title: Assessment and Decision Process for the Recognition of a Conformity Assessment Body Conducting Medical Device Regulatory Reviews
 ---
 
-# 
+# Assessment and Decision Process for the Recognition of a Conformity Assessment Body Conducting Medical Device Regulatory Reviews
 
 **文件编号**: IMDRF/GRRP WG/N66 FINAL:2024 (Edition 2)
 

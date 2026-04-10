@@ -1,8 +1,8 @@
 ---
-title: 
+title: Common Data Elements for Medical Device Identification
 ---
 
-# 
+# Common Data Elements for Medical Device Identification
 
 **文件编号**: IMDRF/RPS WG/N19FINAL:2016
 

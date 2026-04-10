@@ -1,8 +1,8 @@
 ---
-title: 
+title: Principles and Practices for the Cybersecurity of Legacy Medical Devices
 ---
 
-# 
+# Principles and Practices for the Cybersecurity of Legacy Medical Devices
 
 **文件编号**: IMDRF/CYBER WG/N70
 

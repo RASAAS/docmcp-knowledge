@@ -1,8 +1,8 @@
 ---
-title: 
+title: Regulatory Authority Assessment Method for Recognition and Surveillance of Conformity Assessment Bodies Conducting Medical Device Regulatory Reviews
 ---
 
-# 
+# Regulatory Authority Assessment Method for Recognition and Surveillance of Conformity Assessment Bodies Conducting Medical Device Regulatory Reviews
 
 **文件编号**: IMDRF/GRRP WG/N61 FINAL:2024 (Edition 2)
 

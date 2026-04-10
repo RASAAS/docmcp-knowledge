@@ -1,8 +1,8 @@
 ---
-title: 
+title: Regulatory Authority Assessor Competence and Training Requirements
 ---
 
-# 
+# Regulatory Authority Assessor Competence and Training Requirements
 
 **文件编号**: IMDRF/MDSAP WG/N6FINAL:2013
 

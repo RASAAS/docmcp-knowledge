@@ -1,8 +1,8 @@
 ---
-title: 
+title: "Terminologies for Categorized Adverse Event Reporting (AER): terms, terminology and codes"
 ---
 
-# 
+# Terminologies for Categorized Adverse Event Reporting (AER): terms, terminology and codes
 
 **文件编号**: IMDRF/AE WG/N43FINAL:2020 (Edition 4) - Annexes and release notes updated annually Current Annexes and Appendix release: IMDRF/AE WG/N43FINAL:2025
 

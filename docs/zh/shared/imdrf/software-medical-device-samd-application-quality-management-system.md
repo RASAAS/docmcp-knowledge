@@ -1,8 +1,8 @@
 ---
-title: 
+title: "Software as a Medical Device (SaMD): Application of Quality Management System"
 ---
 
-# 
+# Software as a Medical Device (SaMD): Application of Quality Management System
 
 **文件编号**: IMDRF/SaMD WG/N23FINAL:2015
 

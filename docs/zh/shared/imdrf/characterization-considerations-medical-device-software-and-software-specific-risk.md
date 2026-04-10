@@ -1,8 +1,8 @@
 ---
-title: 
+title: "Characterization Considerations for Medical Device Software and Software-Specific Risk"
 ---
 
-# 
+# Characterization Considerations for Medical Device Software and Software-Specific Risk
 
 **文件编号**: IMDRF/SaMD WG/N81 FINAL:2025
 

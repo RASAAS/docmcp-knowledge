@@ -1,8 +1,8 @@
 ---
-title: 
+title: Clinical Investigation
 ---
 
-# 
+# Clinical Investigation
 
 ::: tip 官方来源
 [https://www.imdrf.org/documents/clinical-investigation](https://www.imdrf.org/documents/clinical-investigation)

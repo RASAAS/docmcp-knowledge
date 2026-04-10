@@ -1,8 +1,8 @@
 ---
-title: 
+title: Requirements for Regulatory Authority Recognition of Conformity Assessment Bodies Conducting Medical Device Regulatory Reviews
 ---
 
-# 
+# Requirements for Regulatory Authority Recognition of Conformity Assessment Bodies Conducting Medical Device Regulatory Reviews
 
 **文件编号**: IMDRF/GRRP WG/N59 FINAL:2024 (Edition 2)
 

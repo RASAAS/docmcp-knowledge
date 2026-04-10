@@ -1,8 +1,8 @@
 ---
-title: 
+title: Assembly and Technical Guide for IMDRF Table of Contents Submissions (Archived)
 ---
 
-# 
+# Assembly and Technical Guide for IMDRF Table of Contents Submissions (Archived)
 
 **文件编号**: IMDRF/RPS WG/N27FINAL:2019
 

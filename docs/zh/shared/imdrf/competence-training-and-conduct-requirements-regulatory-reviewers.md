@@ -1,8 +1,8 @@
 ---
-title: 
+title: "Competence, Training, and Conduct Requirements for Regulatory Reviewers"
 ---
 
-# 
+# Competence, Training, and Conduct Requirements for Regulatory Reviewers
 
 **文件编号**: IMDRF/GRRP WG/N40 FINAL:2024 (Edition 2)
 

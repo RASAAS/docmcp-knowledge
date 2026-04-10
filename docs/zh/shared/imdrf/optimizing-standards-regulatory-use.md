@@ -1,8 +1,8 @@
 ---
-title: 
+title: Optimizing Standards for Regulatory Use
 ---
 
-# 
+# Optimizing Standards for Regulatory Use
 
 **文件编号**: IMDRF/Standards WG/N51FINAL:2018
 

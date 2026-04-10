@@ -1,8 +1,8 @@
 ---
-title: 
+title: Regulatory Authority Assessment Method for the Recognition and Monitoring of Medical Device Auditing Organizations
 ---
 
-# 
+# Regulatory Authority Assessment Method for the Recognition and Monitoring of Medical Device Auditing Organizations
 
 **文件编号**: IMDRF/MDSAP WG/N5
 

@@ -1,8 +1,8 @@
 ---
-title: 
+title: "Clinical Evidence - Key Definitions and Concepts"
 ---
 
-# 
+# Clinical Evidence - Key Definitions and Concepts
 
 ::: tip 官方来源
 [https://www.imdrf.org/documents/clinical-evidence-key-definitions-and-concepts](https://www.imdrf.org/documents/clinical-evidence-key-definitions-and-concepts)

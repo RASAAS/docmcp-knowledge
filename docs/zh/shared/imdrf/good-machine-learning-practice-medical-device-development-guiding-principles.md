@@ -1,8 +1,8 @@
 ---
-title: 
+title: "Good machine learning practice for medical device development: Guiding principles"
 ---
 
-# 
+# Good machine learning practice for medical device development: Guiding principles
 
 **文件编号**: IMDRF/AIML WG/N88 FINAL:2025
 

@@ -1,8 +1,8 @@
 ---
-title: 
+title: "Software as a Medical Device: Possible Framework for Risk Categorization and Corresponding Considerations"
 ---
 
-# 
+# Software as a Medical Device: Possible Framework for Risk Categorization and Corresponding Considerations
 
 **文件编号**: IMDRF/SaMD WG/N12FINAL:2014
 

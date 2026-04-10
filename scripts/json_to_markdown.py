@@ -188,7 +188,7 @@ def get_entries(data: dict) -> list:
 def get_title_str(title, lang: str = "en") -> str:
     """Get title string, handling both string and dict formats."""
     if isinstance(title, dict):
-        return title.get(lang, title.get("en", ""))
+        return title.get(lang, "") or title.get("en", "")
     return str(title) if title else ""
 
 
@@ -839,7 +839,10 @@ def generate_shared_section(section: str, dry_run: bool = False) -> list[str]:
             page_path = docs_dir / "shared" / section / f"{slug}.md"
 
             title = entry.get("title", {})
-            t = title.get(lang, title.get("en", "")) if isinstance(title, dict) else str(title)
+            if isinstance(title, dict):
+                t = title.get(lang, "") or title.get("en", "")
+            else:
+                t = str(title) if title else ""
             source_url = entry.get("source_url", "")
             doc_number = entry.get("standard_number", entry.get("doc_number", entry.get("document_number", "")))
 
@@ -888,7 +891,10 @@ def _append_entry_line(lines: list, entry: dict, section: str, lang: str,
                  Pass "./" for sub-pages that are already inside the section dir.
     """
     title = entry.get("title", {})
-    t = title.get(lang, title.get("en", "")) if isinstance(title, dict) else str(title)
+    if isinstance(title, dict):
+        t = title.get(lang, "") or title.get("en", "")
+    else:
+        t = str(title) if title else ""
     eid = entry.get("id", "")
     slug = entry.get("slug", eid)
     source_url = entry.get("source_url", "")

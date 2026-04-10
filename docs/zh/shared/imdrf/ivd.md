@@ -4,4 +4,4 @@ title: 体外诊断 (IVD)
 
 # 体外诊断 (IVD)
 
-- **IMDRF/IVD WG/N64FINAL:2021 (formerly GHTF/SG1/N045:2008)** [](./principles-vitro-diagnostic-ivd-medical-devices-classification)
+- **IMDRF/IVD WG/N64FINAL:2021 (formerly GHTF/SG1/N045:2008)** [Principles of In Vitro Diagnostic (IVD) Medical Devices Classification](./principles-vitro-diagnostic-ivd-medical-devices-classification)

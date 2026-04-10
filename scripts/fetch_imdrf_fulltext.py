@@ -137,10 +137,18 @@ def docx_to_markdown(docx_path: str) -> str:
 
 def _clean_markdown(text: str) -> str:
     """Post-process the converted markdown, preserving base64 content images."""
+    text = re.sub(r'!\[([^\]]*?)\n+([^\]]*?)\]', _fix_multiline_alt, text)
     text = re.sub(r'\n{4,}', '\n\n\n', text)
     text = re.sub(r'^\s*\n', '\n', text, flags=re.MULTILINE)
     text = re.sub(r'\n{3,}', '\n\n', text)
     return text.strip() + '\n'
+
+
+def _fix_multiline_alt(match):
+    """Join multi-line alt text in Markdown image syntax into a single line."""
+    alt = match.group(1) + " " + match.group(2)
+    alt = re.sub(r'\s+', ' ', alt).strip()
+    return f"![{alt}]"
 
 
 FORCE_RECONVERT = "--force" in sys.argv

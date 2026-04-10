@@ -1,8 +1,8 @@
 ---
-title: 
+title: Principles of Labelling for Medical Devices and IVD Medical Devices
 ---
 
-# 
+# Principles of Labelling for Medical Devices and IVD Medical Devices
 
 **文件编号**: IMDRF/GRRP WG/N52 FINAL:2024 (Edition 2)
 

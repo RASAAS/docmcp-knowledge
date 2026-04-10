@@ -1,8 +1,8 @@
 ---
-title: 
+title: Clinical Evaluation
 ---
 
-# 
+# Clinical Evaluation
 
 ::: tip 官方来源
 [https://www.imdrf.org/documents/clinical-evaluation](https://www.imdrf.org/documents/clinical-evaluation)

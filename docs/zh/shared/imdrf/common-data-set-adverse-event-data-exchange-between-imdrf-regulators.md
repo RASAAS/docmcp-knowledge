@@ -1,8 +1,8 @@
 ---
-title: 
+title: Common Data Set for Adverse Event Data Exchange Between IMDRF Regulators
 ---
 
-# 
+# Common Data Set for Adverse Event Data Exchange Between IMDRF Regulators
 
 **文件编号**: IMDRF/AET WG/N85 FINAL: 2024
 

@@ -1,8 +1,8 @@
 ---
-title: 
+title: "Medical Device Regulatory Review Report: Guidance Regarding Information to be Included"
 ---
 
-# 
+# Medical Device Regulatory Review Report: Guidance Regarding Information to be Included
 
 **文件编号**: IMDRF/GRRP WG/N71 FINAL:2024 (Edition 2)
 

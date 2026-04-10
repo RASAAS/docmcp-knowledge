@@ -1,8 +1,8 @@
 ---
-title: 
+title: Unique Device Identification system (UDI system) Application Guide
 ---
 
-# 
+# Unique Device Identification system (UDI system) Application Guide
 
 **文件编号**: IMDRF/UDI WG/N48FINAL:2019
 

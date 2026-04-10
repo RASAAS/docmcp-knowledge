@@ -1,8 +1,8 @@
 ---
-title: 
+title: "Software as a Medical Device (SaMD): Key Definitions"
 ---
 
-# 
+# Software as a Medical Device (SaMD): Key Definitions
 
 **文件编号**: IMDRF/SaMD WG/N10FINAL:2013
 
