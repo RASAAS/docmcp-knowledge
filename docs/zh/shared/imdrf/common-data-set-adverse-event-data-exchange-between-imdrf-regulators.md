@@ -400,7 +400,7 @@ In order to share data efficiently and in a file format that is easily read and 
 
 ## Naming convention
 
-Every request should have a short title on the request form; the format of the filename should include this title. Filenames should be in the format YYYY-MM-DD_<3166-1 alpha-2 countrycode>_<short title>.xlsx, with the date being the date of the request (to distinguish between repeated requests with the same title), and the short title should be devoid of special characters that are not permitted in file names. 
+Every request should have a short title on the request form; the format of the filename should include this title. Filenames should be in the format YYYY-MM-DD_&lt;3166-1 alpha-2 countrycode&gt;_&lt;short title&gt;.xlsx, with the date being the date of the request (to distinguish between repeated requests with the same title), and the short title should be devoid of special characters that are not permitted in file names. 
 
 e.g., if a request form is titled “Needle-stick injuries with Company_name needles” with a request date of October 2, 2024, a response file sent from Japan’s PMDA could be titled 2024-10-02_JP_ Needle-stick injuries with Company_name needles.xlsx
 
@@ -466,9 +466,9 @@ The headers for each column should reflect the names of the columns from the com
 
 ---|---|---  
 
-The datatypes associated with each of these fields is documented with the descriptions of each field, below. The .xlsx format allows for up to 32,767 characters in any cell and 253 line breaks; if this is insufficient to hold the extracted data, the cell should have the fact that the data has been truncated should be noted. E.g., the cell could start with a tag like <truncated>
+The datatypes associated with each of these fields is documented with the descriptions of each field, below. The .xlsx format allows for up to 32,767 characters in any cell and 253 line breaks; if this is insufficient to hold the extracted data, the cell should have the fact that the data has been truncated should be noted. E.g., the cell could start with a tag like &lt;truncated&gt;
 
-<truncated> Information was received from multiple sources…
+&lt;truncated&gt; Information was received from multiple sources…
 
 # A. Administrative Information
 

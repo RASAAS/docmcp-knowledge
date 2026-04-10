@@ -1,13 +1,13 @@
 ---
 title: Harmonised Standards — Device Processing & Reprocessing
-description: "EU MDR 2017/745 harmonised standards: Device Processing & Reprocessing (2 standards in the OJ list), applicable to GSPR 11.7. Based on CID (EU) 2021/1182 and amendment 2026/193."
+description: "EU MDR 2017/745 harmonised standards: Device Processing & Reprocessing (2 standards in the OJ list), applicable to GSPR 11.7. Based on CID (EU) 2021/1182 and amendment 2026/760."
 regulation: EU MDR 2017/745
 category: Device Processing & Reprocessing
 ---
 
 # Harmonised Standards — Device Processing & Reprocessing
 
-**Official Source**: [EC Health — Harmonised Standards](https://health.ec.europa.eu/medical-devices-topics-interest/harmonised-standards_en) | Based on CID (EU) 2021/1182 (consolidated) and amendment [CID (EU) 2026/193](https://eur-lex.europa.eu/eli/dec_impl/2026/193/oj)
+**Official Source**: [EC Health — Harmonised Standards](https://health.ec.europa.eu/medical-devices-topics-interest/harmonised-standards_en) | Based on CID (EU) 2021/1182 (consolidated) and amendment [CID (EU) 2026/760](https://eur-lex.europa.eu/eli/dec_impl/2026/760/oj)
 
 ## Harmonised Standards List (2 standards)
 

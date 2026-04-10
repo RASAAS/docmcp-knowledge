@@ -1,13 +1,13 @@
 ---
-title: 软件与可用性 — EU MDR相关标准
+title: 软件与可用性 (待协调) — EU MDR相关标准
 description: "EN IEC 62304和EN IEC 62366-1不在EU MDR协调标准列表中。它们广泛作为\"其他方法\"用于证明GSPR 17, 5合规性。"
 regulation: EU MDR 2017/745
-category: Software & Usability
+category: Software & Usability (Pending)
 ---
 
-# 软件与可用性 — EU MDR相关标准
+# 软件与可用性 (待协调) — EU MDR相关标准
 
-**官方来源**：[EC Health — Harmonised Standards](https://health.ec.europa.eu/medical-devices-topics-interest/harmonised-standards_en) | 基于 CID (EU) 2021/1182（合并版）及修正案 [CID (EU) 2026/193](https://eur-lex.europa.eu/eli/dec_impl/2026/193/oj)
+**官方来源**：[EC Health — Harmonised Standards](https://health.ec.europa.eu/medical-devices-topics-interest/harmonised-standards_en) | 基于 CID (EU) 2021/1182（合并版）及修正案 [CID (EU) 2026/760](https://eur-lex.europa.eu/eli/dec_impl/2026/760/oj)
 
 ## 广泛适用标准（非协调标准）
 

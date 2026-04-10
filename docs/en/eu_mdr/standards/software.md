@@ -1,13 +1,13 @@
 ---
-title: Software & Usability — EU MDR Related Standards
+title: Software & Usability (Pending) — EU MDR Related Standards
 description: "EN IEC 62304 and EN IEC 62366-1 are not on the EU MDR harmonised standards list. They are widely used as \"other methods\" to demonstrate GSPR 17, 5 compliance."
 regulation: EU MDR 2017/745
-category: Software & Usability
+category: Software & Usability (Pending)
 ---
 
-# Software & Usability — EU MDR Related Standards
+# Software & Usability (Pending) — EU MDR Related Standards
 
-**Official Source**: [EC Health — Harmonised Standards](https://health.ec.europa.eu/medical-devices-topics-interest/harmonised-standards_en) | Based on CID (EU) 2021/1182 (consolidated) and amendment [CID (EU) 2026/193](https://eur-lex.europa.eu/eli/dec_impl/2026/193/oj)
+**Official Source**: [EC Health — Harmonised Standards](https://health.ec.europa.eu/medical-devices-topics-interest/harmonised-standards_en) | Based on CID (EU) 2021/1182 (consolidated) and amendment [CID (EU) 2026/760](https://eur-lex.europa.eu/eli/dec_impl/2026/760/oj)
 
 ## Widely-Used Standards (Non-Harmonised)
 

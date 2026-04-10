@@ -1,21 +1,22 @@
 ---
 title: Harmonised Standards — Non-active Surgical Implants
-description: "EU MDR 2017/745 harmonised standards: Non-active Surgical Implants (3 standards in the OJ list), applicable to GSPR 10, 14. Based on CID (EU) 2021/1182 and amendment 2026/193."
+description: "EU MDR 2017/745 harmonised standards: Non-active Surgical Implants (4 standards in the OJ list), applicable to GSPR 10, 14. Based on CID (EU) 2021/1182 and amendment 2026/760."
 regulation: EU MDR 2017/745
 category: Non-active Surgical Implants
 ---
 
 # Harmonised Standards — Non-active Surgical Implants
 
-**Official Source**: [EC Health — Harmonised Standards](https://health.ec.europa.eu/medical-devices-topics-interest/harmonised-standards_en) | Based on CID (EU) 2021/1182 (consolidated) and amendment [CID (EU) 2026/193](https://eur-lex.europa.eu/eli/dec_impl/2026/193/oj)
+**Official Source**: [EC Health — Harmonised Standards](https://health.ec.europa.eu/medical-devices-topics-interest/harmonised-standards_en) | Based on CID (EU) 2021/1182 (consolidated) and amendment [CID (EU) 2026/760](https://eur-lex.europa.eu/eli/dec_impl/2026/760/oj)
 
-## Harmonised Standards List (3 standards)
+## Harmonised Standards List (4 standards)
 
 | Standard | Title Summary | GSPR Reference | Status |
 |----------|--------------|---------------|--------|
+| **EN ISO 7197:2024** | Sterile, single-use hydrocephalus shunts and components (ISO 7197:2024) | GSPR 10, 14 (Non-active surgical implants) | Current |
 | **EN ISO 14630:2024** | General requirements (ISO 14630:2024) | GSPR 10, 14 (Non-active surgical implants) | Current |
-| **EN ISO 21535:2024** | Joint replacement implants - Specific requirements for hip-joint replacement implants (ISO 21535:2024) | GSPR 10, 14 (Non-active surgical implants) | Current |
-| **EN ISO 21536:2024** | Joint replacement implants - Specific requirements for knee-joint replacement implants (ISO 21536:2024) | GSPR 10, 14 (Non-active surgical implants) | Current |
+| **EN ISO 21535:2024** | Joint replacement implants - Specific requirements for hip-joint replacement implants (ISO 21535:2023) | GSPR 10, 14 (Non-active surgical implants) | Current |
+| **EN ISO 21536:2024** | Joint replacement implants - Specific requirements for knee-joint replacement implants (ISO 21536:2023) | GSPR 10, 14 (Non-active surgical implants) | Current |
 
 ## Related Pages
 

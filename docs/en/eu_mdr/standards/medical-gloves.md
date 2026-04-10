@@ -1,20 +1,21 @@
 ---
 title: Harmonised Standards — Medical Gloves
-description: "EU MDR 2017/745 harmonised standards: Medical Gloves (2 standards in the OJ list), applicable to GSPR 10.4. Based on CID (EU) 2021/1182 and amendment 2026/193."
+description: "EU MDR 2017/745 harmonised standards: Medical Gloves (3 standards in the OJ list), applicable to GSPR 10.4. Based on CID (EU) 2021/1182 and amendment 2026/760."
 regulation: EU MDR 2017/745
 category: Medical Gloves
 ---
 
 # Harmonised Standards — Medical Gloves
 
-**Official Source**: [EC Health — Harmonised Standards](https://health.ec.europa.eu/medical-devices-topics-interest/harmonised-standards_en) | Based on CID (EU) 2021/1182 (consolidated) and amendment [CID (EU) 2026/193](https://eur-lex.europa.eu/eli/dec_impl/2026/193/oj)
+**Official Source**: [EC Health — Harmonised Standards](https://health.ec.europa.eu/medical-devices-topics-interest/harmonised-standards_en) | Based on CID (EU) 2021/1182 (consolidated) and amendment [CID (EU) 2026/760](https://eur-lex.europa.eu/eli/dec_impl/2026/760/oj)
 
-## Harmonised Standards List (2 standards)
+## Harmonised Standards List (3 standards)
 
 | Standard | Title Summary | GSPR Reference | Status |
 |----------|--------------|---------------|--------|
 | **EN 455-1:2020+A2:2024** | Part 1: Requirements and testing for freedom of holes | GSPR 10.4 (Medical gloves) | Current |
 | **EN 455-2:2024** | Part 2: Requirements and testing for physical properties | GSPR 10.4 (Medical gloves) | Current |
+| **EN 455-3:2023** | Part 3: Requirements and testing for biological evaluation | GSPR 10.4 (Medical gloves) | Current |
 
 ## Related Pages
 

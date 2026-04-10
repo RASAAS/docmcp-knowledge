@@ -405,6 +405,73 @@ def generate_standards_subpage_en(category_slug: str, data: dict, index_data: di
 FULLTEXT_MARKER = "<!-- fulltext-start -->"
 FULLTEXT_END_MARKER = "<!-- fulltext-end -->"
 
+_VALID_HTML_TAGS = {
+    'a', 'abbr', 'b', 'blockquote', 'br', 'caption', 'cite', 'code',
+    'col', 'colgroup', 'dd', 'del', 'details', 'dfn', 'div', 'dl', 'dt',
+    'em', 'figcaption', 'figure', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6',
+    'hr', 'i', 'img', 'ins', 'kbd', 'li', 'mark', 'ol', 'p', 'pre',
+    'q', 'rp', 'rt', 'ruby', 's', 'samp', 'small', 'span', 'strong',
+    'sub', 'summary', 'sup', 'table', 'tbody', 'td', 'tfoot', 'th',
+    'thead', 'time', 'tr', 'u', 'ul', 'var', 'wbr',
+}
+
+_VUE_TAG_RE = re.compile(
+    r'<'
+    r'(?!/)'           # not a closing tag start
+    r'(?![-!])'        # not a comment
+    r'(?![a-z]+[\s>/])' # not a standard HTML open tag (handled below)
+    r'([^>]+)'
+    r'>'
+)
+
+
+def _escape_vue_tags(text: str) -> str:
+    """Escape angle brackets that VitePress/Vue would interpret as components.
+
+    Preserves: standard HTML tags, Markdown auto-links <https://...>,
+    HTML comments, and base64 data URIs in img tags.
+    """
+    def _replace(m: re.Match) -> str:
+        inner = m.group(1)
+        if inner.startswith(('http://', 'https://', 'mailto:')):
+            return m.group(0)
+        if 'data:image' in inner:
+            return m.group(0)
+        return f'&lt;{inner}&gt;'
+
+    result_lines = []
+    for line in text.split('\n'):
+        if 'data:image' in line:
+            result_lines.append(line)
+            continue
+
+        new_line = line
+        offset = 0
+        for m in re.finditer(r'<([^>]+)>', line):
+            inner = m.group(1).strip()
+            if not inner:
+                continue
+            if inner.startswith(('http://', 'https://', 'mailto:')):
+                continue
+            if inner.startswith('!--'):
+                continue
+            tag_name = inner.split()[0].split('/')[0].lower().rstrip('/')
+            if tag_name in _VALID_HTML_TAGS:
+                continue
+            if inner.startswith('/'):
+                close_tag = inner[1:].strip().split()[0].lower()
+                if close_tag in _VALID_HTML_TAGS:
+                    continue
+            replacement = f'&lt;{m.group(1)}&gt;'
+            start = m.start() + offset
+            end = m.end() + offset
+            new_line = new_line[:start] + replacement + new_line[end:]
+            offset += len(replacement) - (m.end() - m.start())
+
+        result_lines.append(new_line)
+
+    return '\n'.join(result_lines)
+
 
 def _load_fulltext(fw_dir: Path, doc_type: str, entry: dict) -> str:
     """Load fulltext markdown for an entry, if available."""
@@ -463,7 +530,7 @@ def generate_guidance_page_zh(entry: dict, fulltext: str) -> str:
         lines.append("")
         lines.append("## 官方文件全文")
         lines.append("")
-        lines.append(fulltext)
+        lines.append(_escape_vue_tags(fulltext))
         lines.append("")
         lines.append(FULLTEXT_END_MARKER)
     else:
@@ -508,7 +575,7 @@ def generate_guidance_page_en(entry: dict, fulltext: str) -> str:
         lines.append("")
         lines.append("## Official Full Text")
         lines.append("")
-        lines.append(fulltext)
+        lines.append(_escape_vue_tags(fulltext))
         lines.append("")
         lines.append(FULLTEXT_END_MARKER)
     else:
@@ -775,7 +842,7 @@ def generate_shared_section(section: str, dry_run: bool = False) -> list[str]:
             ft_heading = "Full Text" if lang == "en" else "全文"
             page_lines.append(f"## {ft_heading}")
             page_lines.append("")
-            page_lines.append(fulltext)
+            page_lines.append(_escape_vue_tags(fulltext))
             page_lines.append("")
             page_lines.append(FULLTEXT_END_MARKER)
             page_lines.append("")
