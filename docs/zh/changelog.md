@@ -15,28 +15,21 @@ title: 更新日志
 
 <h3>新功能</h3>
 <ul>
-  <li><strong>法规知识库</strong> -- 插件新增"法规库"标签页，支持浏览和搜索 EU MDR、FDA、NMPA 法规文档全文。可按法规框架、分类逐级浏览，内置全文阅读器。</li>
-  <li><strong>测试环境</strong> -- 新增独立测试环境 (VPS-test)，所有新功能先在测试环境验证后再部署到生产环境，确保用户使用更稳定。</li>
-</ul>
-
-<h3>改进</h3>
-<ul>
-  <li><strong>前端托管迁移</strong> -- 插件前端现从 Cloudflare Pages (<code>app.team-ra.org</code>) 加载，取代之前的后端服务器托管，加快加载速度并确保用户始终使用最新版本。</li>
-  <li><strong>安装包更新</strong> -- 下载安装包已更新为指向 Cloudflare 托管的前端，加载更快，自动获取最新界面。</li>
+  <li><strong>法规知识库</strong> -- 新增"法规库"标签页，支持浏览和搜索 EU MDR、FDA、NMPA 法规文档全文，内置全文阅读器。</li>
+  <li><strong>性能优化</strong> -- 提升插件加载速度，界面响应更流畅。</li>
 </ul>
 
 <h3>已有用户注意事项</h3>
 
 <div class="callout callout-warning">
   <strong>已安装用户需要操作</strong>
-  <p>如果您在此更新之前安装了插件，可能看不到新的"法规库"标签页，因为本地 manifest 文件仍指向后端服务器上的旧版前端。</p>
-  <p><strong>解决方法：</strong></p>
+  <p>如果更新后未看到"法规库"标签页，请重新下载安装包并运行安装脚本：</p>
   <ol>
-    <li>从<a href="/zh/contact">联系我们</a>页面重新下载最新安装包</li>
-    <li>再次运行安装脚本（会自动覆盖旧的 manifest 文件）</li>
+    <li>从<a href="/zh/contact">联系我们</a>页面下载最新安装包</li>
+    <li>运行安装脚本（自动覆盖旧配置）</li>
     <li>重启 Word</li>
   </ol>
-  <p>您的账户、项目和所有数据均存储在服务器上，不会受到影响。此操作仅更新本地插件配置文件。</p>
+  <p>您的账户和数据不受影响。</p>
 </div>
 </div>
 
@@ -45,13 +38,12 @@ title: 更新日志
 
 <h3>功能</h3>
 <ul>
-  <li><strong>临床评价工作流</strong> -- 8 步 AI 辅助临床评价流程（SSE 流式生成），包括文献搜索、筛选、评审和差距分析。</li>
-  <li><strong>文档生成</strong> -- CEP、CER、DCR 文档生成并直接插入 Word。</li>
-  <li><strong>用户注册与订阅</strong> -- 多路径注册（国内/国际、个人/企业）、订阅管理与支付集成。</li>
-  <li><strong>AI 工具</strong> -- 按套餐等级可见的 AI 工具集合。</li>
-  <li><strong>两步验证 (TOTP)</strong> -- 可选 2FA 及恢复码，增强账户安全。</li>
-  <li><strong>实名认证（国内）</strong> -- 国内个人用户三要素实名认证。</li>
-  <li><strong>企业认证与签约</strong> -- 统一社会信用代码校验、合同生成与管理员审核流程。</li>
+  <li><strong>临床评价工作流</strong> -- AI 辅助临床评价，涵盖文献搜索、筛选、评审和差距分析。</li>
+  <li><strong>文档生成</strong> -- 支持 CEP、CER、DCR 文档生成并直接插入 Word。</li>
+  <li><strong>用户与订阅管理</strong> -- 注册、订阅和支付功能。</li>
+  <li><strong>AI 工具</strong> -- 内置 AI 辅助工具集。</li>
+  <li><strong>账户安全</strong> -- 两步验证 (TOTP)、实名认证（国内用户）。</li>
+  <li><strong>企业认证与签约</strong> -- 企业资质验证与合同签约流程。</li>
 </ul>
 </div>
 
@@ -60,9 +52,8 @@ title: 更新日志
 
 <h3>首次发布</h3>
 <ul>
-  <li>Word 插件任务面板界面</li>
-  <li>MCP Standards Server 法规数据查询</li>
-  <li>LLM Proxy 多模型路由</li>
+  <li>Word 插件基础界面</li>
+  <li>法规与标准数据查询</li>
   <li>GSPR 合规分析</li>
 </ul>
 </div>

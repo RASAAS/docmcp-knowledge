@@ -15,28 +15,21 @@ title: Changelog
 
 <h3>New Features</h3>
 <ul>
-  <li><strong>Regulatory Knowledge Base</strong> -- New "Regulations" tab in the plugin with full-text browsing and search across EU MDR, FDA, and NMPA regulatory documents. Browse by framework, category, and individual documents with built-in full-text reader.</li>
-  <li><strong>Test Environment</strong> -- Added a staging environment (VPS-test) for feature validation before production deployment, ensuring higher stability for all users.</li>
-</ul>
-
-<h3>Improvements</h3>
-<ul>
-  <li><strong>Frontend hosting migration</strong> -- Plugin frontend now loads from Cloudflare Pages (<code>app.team-ra.org</code>) instead of the backend server, improving load times and ensuring users always get the latest version.</li>
-  <li><strong>Installer updated</strong> -- The download package now points to the Cloudflare-hosted frontend for faster loading and automatic updates.</li>
+  <li><strong>Regulatory Knowledge Base</strong> -- New "Regulations" tab with full-text browsing and search across EU MDR, FDA, and NMPA regulatory documents, with built-in reader.</li>
+  <li><strong>Performance improvements</strong> -- Faster plugin loading and smoother interface responsiveness.</li>
 </ul>
 
 <h3>Important Notes for Existing Users</h3>
 
 <div class="callout callout-warning">
   <strong>Action Required for Existing Users</strong>
-  <p>If you installed the plugin before this update, the "Regulations" tab may not appear because your local manifest still points to an older frontend version hosted on the backend server.</p>
-  <p><strong>To fix this:</strong></p>
+  <p>If the "Regulations" tab does not appear after updating, please re-download and re-install:</p>
   <ol>
     <li>Download the latest installer from the <a href="/en/contact">Contact page</a></li>
-    <li>Run the installer again (it will overwrite the old manifest)</li>
+    <li>Run the installer (overwrites old configuration)</li>
     <li>Restart Word</li>
   </ol>
-  <p>Your account, projects, and all data are stored on the server and will not be affected. This is only a local manifest update.</p>
+  <p>Your account and data are not affected.</p>
 </div>
 </div>
 
@@ -45,13 +38,12 @@ title: Changelog
 
 <h3>Features</h3>
 <ul>
-  <li><strong>Clinical Evaluation workflow</strong> -- 8-step AI-assisted clinical evaluation with SSE streaming, including literature search, screening, appraisal, and gap analysis.</li>
-  <li><strong>Document generation</strong> -- CEP, CER, and DCR document generation with Word insertion.</li>
-  <li><strong>User registration & subscription</strong> -- Multi-path registration (CN/international, personal/enterprise), subscription management, and payment integration.</li>
-  <li><strong>AI Tools</strong> -- Curated AI tools with tier-based visibility.</li>
-  <li><strong>Two-factor authentication (TOTP)</strong> -- Optional 2FA with recovery codes for account security.</li>
-  <li><strong>Identity verification (CN)</strong> -- Three-element real-name verification for CN personal users.</li>
-  <li><strong>Enterprise verification & contract signing</strong> -- USCC validation, contract generation, and admin review workflow.</li>
+  <li><strong>Clinical Evaluation workflow</strong> -- AI-assisted clinical evaluation covering literature search, screening, appraisal, and gap analysis.</li>
+  <li><strong>Document generation</strong> -- CEP, CER, and DCR document generation with direct Word insertion.</li>
+  <li><strong>User & subscription management</strong> -- Registration, subscription, and payment features.</li>
+  <li><strong>AI Tools</strong> -- Built-in AI-powered tool suite.</li>
+  <li><strong>Account security</strong> -- Two-factor authentication (TOTP) and identity verification (CN users).</li>
+  <li><strong>Enterprise verification & contract signing</strong> -- Enterprise qualification verification and contract workflow.</li>
 </ul>
 </div>
 
@@ -60,9 +52,8 @@ title: Changelog
 
 <h3>Initial Release</h3>
 <ul>
-  <li>Word Add-in with task pane interface</li>
-  <li>MCP Standards Server for regulatory data queries</li>
-  <li>LLM Proxy with multi-provider routing</li>
+  <li>Word Add-in interface</li>
+  <li>Regulatory and standards data queries</li>
   <li>GSPR compliance analysis</li>
 </ul>
 </div>
