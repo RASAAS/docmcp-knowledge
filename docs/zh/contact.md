@@ -51,6 +51,7 @@ title: 联系我们
 <div class="download-section">
   <a href="/downloads/ReguverseAssistant-Installer.zip" class="download-btn" onclick="try{navigator.sendBeacon('https://llm.team-ra.org/api/v1/track/download',new Blob([JSON.stringify({event:'download',source:'installer',lang:'zh'})],{type:'text/plain'}))}catch(e){}">&#x2B07; 下载 Reguverse 助手安装包</a>
   <span class="download-hint">支持 Windows 和 macOS -- 解压后双击安装脚本即可</span>
+  <span class="download-version">当前版本: v0.3.0 (2026-04-10) &middot; <a href="/zh/changelog">查看更新日志</a></span>
 </div>
 
 <ol>
@@ -278,6 +279,20 @@ title: 联系我们
 .download-hint {
   font-size: 0.85rem;
   color: var(--vp-c-text-3);
+}
+
+.download-version {
+  font-size: 0.8rem;
+  color: var(--vp-c-text-3);
+}
+
+.download-version a {
+  color: var(--vp-c-brand-1);
+  text-decoration: none;
+}
+
+.download-version a:hover {
+  text-decoration: underline;
 }
 
 .section-block {

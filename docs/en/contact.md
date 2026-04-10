@@ -51,6 +51,7 @@ title: Contact Us
 <div class="download-section">
   <a href="/downloads/ReguverseAssistant-Installer.zip" class="download-btn" onclick="try{navigator.sendBeacon('https://llm.team-ra.org/api/v1/track/download',new Blob([JSON.stringify({event:'download',source:'installer',lang:'en'})],{type:'text/plain'}))}catch(e){}">&#x2B07; Download Reguverse Assistant Installer</a>
   <span class="download-hint">Windows and macOS supported -- unzip and run the install script</span>
+  <span class="download-version">Current version: v0.3.0 (2026-04-10) &middot; <a href="/en/changelog">View changelog</a></span>
 </div>
 
 <ol>
@@ -282,6 +283,20 @@ title: Contact Us
 .download-hint {
   font-size: 0.85rem;
   color: var(--vp-c-text-3);
+}
+
+.download-version {
+  font-size: 0.8rem;
+  color: var(--vp-c-text-3);
+}
+
+.download-version a {
+  color: var(--vp-c-brand-1);
+  text-decoration: none;
+}
+
+.download-version a:hover {
+  text-decoration: underline;
 }
 
 .section-block {
