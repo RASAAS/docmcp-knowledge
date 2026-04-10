@@ -66,15 +66,15 @@ effective_date: '2025-04-19'
 
 应列表明确所有部件的材质/CAS号、材料牌号/商品名及符合的标准等信息。
 
-![](/assets/images/nmpa-guidance/image-59.png)
+![](/images/nmpa-guidance/image-59.png)
 
-![](/assets/images/nmpa-guidance/image-63.png)
+![](/images/nmpa-guidance/image-63.png)
 
 图1
 
 1-机器端口；2-辅助端口；3-外壳；4-过滤介质；5-患者端口
 
-![](/assets/images/nmpa-guidance/image-64.png)
+![](/images/nmpa-guidance/image-64.png)
 
 图2
 
@@ -88,19 +88,19 @@ effective_date: '2025-04-19'
 
 拦截效应：当较大粒子沿着流线运动到纤维表面，较大粒子被过滤材料机械筛滤作用拦截而沉积下来，原理示意图如图3所示；惯性效应：当粒子质量较大或者速度较大，在流线拐弯时，粒子由于惯性作用脱离流线撞击到滤材表面，因吸附力停留在撞击表面，原理示意图如图4所示；扩散效应：由于气体分子热运动对粒子的碰撞而产生的粒子的布朗运动，粒子布朗运动扩散位移到过滤纤维中被吸附，对于越小的粒子越显著，原理示意图如图5所示；静电吸附效应：粒子被过滤材料的静电作用吸附而沉积下来，原理示意图如图6所示。
 
-![](/assets/images/nmpa-guidance/image-5-3.png)
+![](/images/nmpa-guidance/image-5-3.png)
 
 图3 直接拦截示意图
 
-![](/assets/images/nmpa-guidance/image-6-4.png)
+![](/images/nmpa-guidance/image-6-4.png)
 
 图4 惯性冲撞示意图
 
-![](/assets/images/nmpa-guidance/image-7-3.png)
+![](/images/nmpa-guidance/image-7-3.png)
 
 图5 扩散拦截示意图
 
-![](/assets/images/nmpa-guidance/image-9-3.png)
+![](/images/nmpa-guidance/image-9-3.png)
 
 图6 静电吸附示意图
 

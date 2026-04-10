@@ -88,19 +88,19 @@ effective_date: '2025-09-17'
 
 1.1将活检袋通过手术通道送到体内，如图1所示。
 
-![](/assets/images/nmpa-guidance/image-19-1.png)
+![](/images/nmpa-guidance/image-19-1.png)
 
 图1 活检袋进入体内
 
 1.2然后将活检袋展开，如图2所示。
 
-![](/assets/images/nmpa-guidance/image-20-1.png)
+![](/images/nmpa-guidance/image-20-1.png)
 
 图2 展开活检袋
 
 1.3将人体组织和/或活检样本放入到活检袋中后，收紧拉绳后取出体外，如图3所示。
 
-![](/assets/images/nmpa-guidance/image-21-1.png)
+![](/images/nmpa-guidance/image-21-1.png)
 
 图3 收紧拉绳
 
@@ -116,11 +116,11 @@ effective_date: '2025-09-17'
 
 本指导原则中的图示仅为示例，实际不同厂家结构设计可能有所不同。
 
-![](/assets/images/nmpa-guidance/image-23.png)
+![](/images/nmpa-guidance/image-23.png)
 
 图4 有输送装置型活检袋示意图
 
-![](/assets/images/nmpa-guidance/image-22-1.png)
+![](/images/nmpa-guidance/image-22-1.png)
 
 图5 无输送装置型活检袋示意图
 

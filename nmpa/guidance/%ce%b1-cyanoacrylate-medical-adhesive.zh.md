@@ -34,9 +34,9 @@ effective_date: '2025-04-19'
 
 α-氰基丙烯酸酯类医用粘合剂产品的单体成分为α-氰基丙烯酸酯，CH2=C(CN)-COOR，见结构式A；固化后形成聚(α-氰基丙烯酸酯)，见结构式B。
 
-![](/assets/images/nmpa-guidance/image-1-4.png)
+![](/images/nmpa-guidance/image-1-4.png)
 
-![](/assets/images/nmpa-guidance/image-34.png)
+![](/images/nmpa-guidance/image-34.png)
 
 **A                       B**
 

@@ -80,7 +80,7 @@ effective_date: '2025-09-13'
 
 ‌毛细管法测定原理基于泊肃叶定律，通过测量一定体积的液体流经毛细管所需的时间来计算液体的粘度。
 
-![](/assets/images/nmpa-guidance/image-22.png)
+![](/images/nmpa-guidance/image-22.png)
 
 其中，Q是流量；η是液体的粘度；P为促使液体在管中流动的压力；r为管道半径；t是流出时间；L是管道长度；V是流过的体积。
 
@@ -90,7 +90,7 @@ effective_date: '2025-09-13'
 
 旋转法测定原理基于牛顿粘性定律，即：
 
-![](/assets/images/nmpa-guidance/image-2-2.png)
+![](/images/nmpa-guidance/image-2-2.png)
 
 其中，![](blob:https://reguverse.com/0a02ae5c-f30b-4e31-a10b-ccf79877b164)为切应力，η为液体的粘度，![](blob:https://reguverse.com/06076f8e-3f15-4878-b591-6f1809712094)为切变率。
 

@@ -1,0 +1,127 @@
+# 医疗器械开发中的良好机器学习实践：指导原则
+
+**Document Number**: IMDRF/AIML WG/N88 FINAL:2025
+
+**Source**: [https://www.imdrf.org/documents/good-machine-learning-practice-medical-device-development-guiding-principles](https://www.imdrf.org/documents/good-machine-learning-practice-medical-device-development-guiding-principles)
+
+---
+
+最终文档
+
+---  
+IMDRF/AIML WG/N88 最终版：2025
+医疗器械开发中的良好机器学习实践：指导原则
+编写组
+人工智能/机器学习工作组
+
+前言
+
+© 2025年国际医疗器械监管论坛 版权所有。
+
+本作品受版权保护。在遵守本条款和条件的前提下，您可以下载、显示、打印、翻译、修改和复制本作品的全部或部分内容，用于您个人的使用、研究、教育目的，或如果贵组织是组织，则用于贵组织的内部使用，但前提是您或贵组织不得将复制用于任何商业目的，并且保留所有版权声明。如果您使用本作品的任何部分，必须包含以下声明（删除不适用的内容）：
+
+除上述内容外，所有其他权利均保留，未经IMDRF事先书面许可，您不得以任何方式（包括电子方式）复制本作品的全部或任何部分。有关复制和版权的请求和咨询应发送给IMDRF秘书处。
+
+将本文件（部分或全部）纳入其他文档，或将其翻译成其他语言，并不代表IMDRF的认可。
+
+![](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCABjATwDASIAAhEBAxEB/8QAGwABAQADAQEBAAAAAAAAAAAAAAEEBQYDAgf/xABAEAABAgUCBQMBBQUGBQUAAAABAhEAAwQhMQVBBhJRYXETgZGhFCIysdEVI0Ji8AcWM3KCwSQlNFJjQ6Kz4fH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A/f3u0RwWvmF++YX7h7+IA4LXzBwzuMPC7b9fEN9zAeE6upaespqSbOSioqub0UHK+UOpvAvHu46iNXqlEqr1HRJiW/4SsVPW/QyJyLe60xtH7jMAcdRBx1g/cdIP3G4gDjqIPmD7vbxEx7WzAV8wfMQbN7XyIDZva+RAV8wfMQbN7XyIDZva+RAV8wfMQbN7XyIDZva+RAV8wfMQbN7XyIDZva+RAV8wfMQbN7XyIDZva+RAV8wfMQbN7XyIDZva+RAV8wfMQbN7XyIDZva+RAV8wfMQbN7XyIDZva+RAV8wfMQbN7XyIDZva+RAV8wcB32iDZva+RDDbbC8BXAe+IOA98Qzg2N3hfuHv4gDgPfEV7tEv3D38Qezlxv4gLCPlv5R/WIrfyhoCwiNuwfMRv5R/WID6hHyQNwGxH1teAjX63+IjW89RvFO7gM2/wBYb75gGL4vtvGi1TiWTR1v7MoKadqWrqTzClkEASxdlTV/hlp83L2BjeWGA2w79oxKPTKehq6+plcxm108TpqlkO4QlAAOWARg7kwGoRpPEVar1tR15NDYtI0yQghAc5mTkqKrNcJR4j2VomrSQFUnE9cqYkghFZIkzZZ8hKEK+FCN789Ynm7ZcQGp0vV582qOm6pTppdSQjnCEK5pc9AIBXLUWcAkOCAUuHyCdvfuWt5jQ8Xo9Ph6fqSC1RpQNdKUM/uwSpPhSOdB7KMb5r4EBBtcdH6wfux7w8+DeK/e3cQDODC/cPfxEzZ3NtoW7Hew+IC37h7+IX7h7+Inn3tvDz723gLfuHv4hfuHv4iefe28CPHxvAW/cPfxC/cPfxEO/wCm8Dv+m8Bb9w9/EL9w9/EQ7/pvA7/pvAW/cPfxC/cPfxEO/wCm8Dv+m8Bb9w9/EL9w9/EQ7/pvCwuQBvf84C37h7+IX7h7+I5WnVX1/wDaPUzaaqmDSdPo000+U59NdQolbAYJSkoc5DgbmOp8+TaAt+4e/iF+4e/iJ58m0Vr4D5JaA8JVZSz6idTSqiTMnyeX1pSVgql8wdPMBhxcPHsPIc/0Y1VFw7QUOv1+tyfU+2V6UJmkrdLJAFg3YRtvlngJY/Nwbw8+9t4t/wCt4lmaw2ziAN2BO9smGDYBx8xd+t99ogwGFtmxAaPijX5+g0tGaPTxX1dZVpppMj1hL+8pKi5JB/7W94xFatxRp6Uzq/h6mqaYB5h06pMybLSAS4QpKea7WBfoNo31Vp9LXTqSZPRzrpJvrSTzGymKX72UcxlDO+8B4UdVIr6KTV0ykzKefLEyWsYUlV3uI923YPmPiXLRLSEIQlKXJ5UpAFy7t5j6ZxYJLgwFAbAHT2gLAWbsINfAzAWAs3YQHlVU0qtpJ9LPSVSp0tUtYfKSCCPgxo+B5aqfhCho5k6ZMqKTnppxmK5mmIUUqANvuggt2aOhOXtYdLxoktpXFUxCg1Jq6ecHYVKEsR/qlpSw/wDErrAb18tnpBrNdsZhfp8RLM9iGFyYCk+R7Q3HneG7d+seVRUSqOlnVE+YJcmSgzFrVYJSA5JPs8BqOKwZ+hL0xB/e6kpNElJueVdph78svnV/pjdlr9N+kc3w0NR1adM1/U0+nJnD/llIQy5Ekt95f862Sd+UWcORHS37lr+YCPv9TiLfr8Q3LeMwYt3w+8BH/mb+rRX7+zQfo/Vmg97GAmPa2YDZva+RB+9+/WLlxkbvATDbbC8CB0bZ8QxmxzaKM7fMBOr+DeHV/BvFD2zjtC/ctbzATq/g3h1fwbxb9y1vML9y1vMBOr+DePieiYuRMRLmelMWkpQtn5S1i2/WPS+HPR4nXZ/mA5fhTWK4A6JxFNSnXZClMSOUVUt3ExGyrZa4a4EdTi3jaPCppKWsEr7VTyJ3ozPVl+okK5FDCkvgjqMR7dvkD84DypaSRRyjKp5QloK1LU2VKJcknJJJJePV26C2H6xrqjVR66qWhkKq6tP4kpU0uUW/9ReE7WDqu7bxzPGlNrSeGqicNXmoqpq5dPTU1D+5RzrmBIBVdaiObYpBb8OYDsqirp6SV6tRPlSpYH45kwJHuTGNT63pNZM9Kl1OjnLFuWVUJUfh4x6LhbRNPKZknS6ZU9LE1ExAXNUoblanUT3JjJqNF0qrkmVP02jnSy55VyUkOWB2zYX7QGcc3Dd3iderXIEctWU8/hCX+0NOXOm6NKvV0KyV+jLs8yUS5ASzlGCHZo6iXMRNlomSlJWhSQpCgpwoHf8AK8BbDpm0XbNgW6w2cGwHl4YyS7bCAlz5+gi74+sPrfpEtsG6dTAMjILja0XN2cHvHH03FOt8QyUzuHNDCaOYkmXXalO9JCvEtIUpQNmNt4yJNNxxMRzVWo6DJUNpNJNWPkzBAdRdt+u3xEZ3wc5/KOc4W1nUtUqtWo9TRRzV0E8SRVUYUJU10uUjmf7ybBQexLbX6PI6htsGArXwMwFgLN2EGvgZgLAWbsIAfPwIxNS0+VqlCulmqWgkhcualuaWtJdK07OCAQ7jqCHEZZz3a0BtuNoDxphUCllfazLNQE/vFSn5SrqAbgHLXbqcx7b7E4ttEGPi7XMXpnMBPkiOa4sB1Ko0vhxP4NQnmZVMD/00plLBYhuZRQjwsx0uG7WzHHq1bTaXjrW67UKlFOnTqGmpELmqYFUwrmKCRuogS7C5aA7Dxti2IMDZh3jQp1HWtVJ/ZlAKGmdhVaklXMoPlMkEKb/OU+DGi4V0aZraNXqNfqarUZQ1KdKp0TZyhIXLQQnmEpJ5WKgqxBFurkh09XxJotHNVIqNUpBUJH+AFhUx/wDIHUfDR5f3lo1h5NHqk3cNps9L+6kARsqOho9OkejQ0lPSyXfkkyxLD+AIyH/PaA0v7fmHOiasEv8Ai9FNu7cz/SC+KNNlTAiqFZSk4NTRzUIDXusp5RjrG6c7C7YJjHrq+m02jm1dZPlyJEoOpay3YDyTYDc2gFJXUmoSBPoqqTUyTYTJKwtJ8EWjFrtcoaKf9mK1T6xgRS06TNmNsSlIPKO5Yd40E3h9fEdb9v8As83Q5bMmopiZNbPH8xFkJx91QUo78sZHDi16FV/3drpNPLnKCp1PVSkcia0D8RV/5Q4Krl3eA2IqNeq29ChptOlk/irJnqzB5lyzy+4me0DpWqTmM7iKqlra6aSnkoS/UBaVn6xuM9bjxEOHJt8QGjXpeuSAV0fEMyetnEvUKaWpB6XlhBH18R6aRrhrayfplbTij1SnHOuQ/MlaDiYhTB07HcGx7+X95DXzVy9D0+bqYSeU1POJVKDuPULlWMoSpt2jR66jXUcQcPaiun05NUKtdLLRKmrX91ctRUVEpS6QEg4tAdz1bbFt4dW2xbePGkNUaZP2xElE/BTJmFSW7EgH6frHtn3xfaAtr9H2EHYAl+7/AJxM++L7Qff4e3tAHbKvmNNMqJ2tzZtNRzlyaCWoon1aCypigbolnZsFeRhNwSny4pqqgyaPSKKaZVVqk/7P6qVMqVKCSuYsW/EEAgd1AxuaSmk0VHJpaaWJciSgIRLH8IAsPiAU9LIo6dMinlIlSk4Sm2cnz3yY57WuXVOMdE0ohCpdEVapUA7co5JX/uUo/wCiN/W1tPptHOrKuamVIko5pkxWwH9YjT8MUtSpNZrVfKVJrdTWlYkrB5pEhIaVLIcsWdRx95aukBvyO3xmMHUta0/SihFXUATpn+HISkrmTG/7UJBUr2EYWqalVTtUTomlBKaxcr1Z9StPMmmlEkAthSyQeVOLEm1jmaZo1JpfOuShS6ma3rVM5XPNmkD+JRufFgNgIDBXV61qcmZLkaJKp5ExHLzalOAKgcvLQFOG2JTGj4QPE1TwVps6ir9L5EyfTlS59JMJ5UEpDrEzokX5f1joOJtTm0WlejR8ytRrFfZ6RKMhav4t7JBKiTa2zxn6Zp8rStLpdPkkKRTykywSGJb+I9znzAascQz6CpTJ16hFClauWXWS5vqyFGzAqYFBOAFBrZjfjPS/SPOdKlT5K5M+WmbKWClaJiQUqB2IORHxSUcqhpkU0gKTJQCEJ5iQkdA926DYWFoD2y1/kRb9w9/EM7dyDBt2D5gPKoqJNLTTKipmolSEJ5lzJh5UpSNy+I56RNreLZfqpM+g0Rf4FAmXPrE7HrLln2UoMfujObxNw+OJNJRRGsmUvJOROSpKAtKinAWhVlpe7GzgdIxqfQdfEoJq+L6qYpiCuTQ08sn5QqA3lLSyKKll0tJIRIkSwyZctISEjsMQqqumo6dVRVVEqRJQHMyaoJSnyTGpHDnqEGr13WaoDb7SJP8A8KUGPem4b0amniemhlzahJdM+pJnzEnstZKh8wGRpup0erSVz6FZmyEzCkTeRQSojJSSPvDuHGb5jNFgLN2ECfaAwLN2gB/OG5NrZaBybbf1eBz32gJhz0yTaB/2buYDYv4PWNDxJqlXJNJpWlqSnVNRUpMuYU8yadCW55pG/KCGByojvAfWp69OGoK0jRpKKvVAkKmcxaTSpODNIu+4SLnsLxpeGtG+ycd67M1OYiu1ESqabKq5ktKVcqkKSrkSLJDoItdgHJyen0fR6TQ6AUdGFF1Fc2cs80ydMOVrV/Eo9fbDCMDXtOqk11Nr2lo9SupEKlTqcED7TIUQVS32UCApJ6uP4ngMziHVhonD1dqR5SqRKJQk35phshPuoge8OHtLGicPUGnFueRKHqKdwVm6y/dRJ940NVq1HxXqWh0NBOMyQZqq2rS/KqWmSQyFoNwTMUhwb/dMdjndrY3EBMbgFsmKQ+31g/nvE7tu7tAY2o6jTaVp86trJvpyJYcncnZIG5JsBuTGr03TKivqJWrayj9+k81LRgn06UbEjeY2VbYTuTh1k1Ff/aTR6dUEejRUBrpUon8c5SygKIweVILWsVE7R1XQt9IBtf6bxz3FQSP2LN5gmol6rTiUd1cxKVgf6FL+IzNS4i0rSliRPqUqqlWl0khJmT19koS6vdm8Ri0VFXapqcvVtXl/Z5Ugk0NDzOZZLj1JhxzkFgBZIJyTAb8sLkb5MaXizT67U+E9TotNXy1k6SUSy4BV1S+ASHD7PG5+h8xclxfvAcpp/FKZWnU9MjhjW6edLSJQpJdArkQwZkrLI5ehJAbpGVRadqGpazI1nWpaKb7MFChoEL5/S5gypkxQspZFmDhIJuSXjoXPjo8OzG/eAX7h7+IX7h7+Ih3t9N4Hf9N4B7nfaK99ssbw3yc9IB7Zx2gOc4p0yunr03VtKlCfqGlzlLRIWoJE5C08q0ubAsxBOG7x8SeLKqq5kSeFdd9YW5ZkmXKSD/mWsAjuHjpR1zs43i3eA52To9fq1XLrOIDJTLlFK5GmU6yuWhWeeYogeooHFgkNgljHRe+/SJ58nMXc/lAcxX0er6bxHO1jSqNFfJq5EuVU0xnCVMCkEstKjYhlM1sZL2yFahxJVOml0ORSFv8AE1CrSWPZMrmf3UnzG/v3LW8xM9xiA1GmaH9lrV6jXVa6/Ulp5PWUnlRKTnlloH4Bjck7mNxdjnrb8oP3HSIwbAbFxtAOw2tbaHXv23i3s+0SzfQucQFz1YnDRN8AHMXfo9sxPbuwzAGfb5MMvb6Q9u7HMVr9+vSAAvgjr7RMg/UbwN7Z7Rc7gwDexgMD/eALt4f+hAYH+8AP9WibFiMPYRTmw94XPzAHyenvHMmRMT/aimomS5npL0Yy5K2+7zCc6x2LKl+faOlfG97ExQbWv08QEOLu13i+/wACJjAxsIuOrC0BxGmaH+2tZ1rXpVZVadUKrFU1POpVJAUiSPTUVJIKVusK/EC3KGIjb+lxbShKET9I1FADEzkTKZXuR6gPwI3NFR0+n0cqkpZYlyZQCUoBJI6kk3JOSTc3Jd49/Be1ukB4UaqxdMk10qTJqC4UiRNMxA6feKUnHaPb3bruQYNkDo1yYuWORs0BrNX4f0vXfROo0gmzJCiqVNQtSJko9lpIUNt+kYh4Q0iYnlnmvqEW+5P1GoWkjoUqWx9xG+Gxd/EHbJbcwGHQaVpulS1I02gpaRKvxCnlJQFEdWEZngvuOkL9S9sCIdzt3LQAEbENmGLm3UxXPntEx27vaAWD4Dd9ouLOdoZwYmevcPiAMLC3Tp8Qz79DtFcs+OlohNjhuuwgGe/g7xW8+XgTfZ8C+8Tox7C8Bc3Z9w8SzZcWzC3cGK/zhoAzHpeGR1vvExjxfeBbe/UnpAPi+5i5Y2I2hf3xBnyAdsbQAPbOO0TH5dzDIG4PvFHW18t1gDdj7xHcZ2yMQwOlrl8RfkXgJ1tnI3iv75xE/wD1v/uGX3zgwF7Zv8RLEdQfd4u/W+20Be77C+0AufiFz779IlmGwszjEGzZ9jaAG/vh+sfWREGfobwGB/vAVng13hCAQhCAjBma0GF+8IQFgQ4YwhAGg13hCAjDpFaEICNFa7whAfILqU+xt8QNlJbc3+IQgKQDmLCEB8pupT7Fh8CCC6Ek5aEID6j4SSoIc5S5+kIQH2biPlZIQojIBhCAK+6m1rj84rCEICZWpJwwt8wF1KfY2+IQgKwv3i7whARgGbaISyktub/EIQA/jSnZjb4g7zCNgAfzhCAJLhz1I+sfTQhAMQaEIA0IQgP/2Q==)
+
+****
+
+**Naoyuki YASUDA，IMDRF主席**
+
+内容
+
+1\. 简介 4
+
+2\. 参考文献 5
+
+3\. 指导原则 6
+
+# 简介
+
+人工智能（AI）技术，包括机器学习，具有通过从日常医疗活动中产生的大量数据中获得新且重要的见解的潜力，从而改变医疗保健。它们使用可以从实际使用中学习的算法，并可能利用这些信息来改进产品的性能。但由于其迭代和数据驱动的性质，它们也带来了独特的考虑。本文件旨在为社区建立一套共同的原则，以促进安全、有效和高质量的医疗器械的开发，这些医疗器械包含人工智能。这些原则应在整个医疗器械的生命周期中应用。
+
+本文件中提出的，用于良好机器学习实践（GMLP）的10个指导原则，是对国际标准组织、国际监管机构和其他合作机构的号召，以进一步推进GMLP。合作领域包括研究、创建教育工具和资源、国际协调以及制定共识标准，以为监管政策和监管指南提供信息。这些指导原则可用于采用其他领域的实践，根据医疗技术和医疗保健进行调整，并为该领域开发新的实践。
+
+进一步的AI技术在医疗领域的进步，例如生成式AI，突显了清晰描述产品用途/目的以及确定其监管状态的重要性。此外，生成式AI可能会提高GMLP（包括基本软件工程实践）的重要性。例如，包含生成式AI的医疗技术可能会采用不在医疗器械制造商控制范围内的基础模型，从而可能引入独特的风险。生成式AI也可能对证明设备性能提出更根本性的挑战。衡量性能、以及对这些模型中的错误进行特征化和检测的监管科学正在发展，以应对这一挑战。
+
+随着AI医疗器械领域的不断发展，GMLP和共识标准也必须不断完善。与国际公共卫生伙伴建立强大的合作关系对于在该领域促进负责任的创新至关重要。因此，我们预计这项合作工作可以为未来的IMDRF和其他国际活动提供信息。
+
+# 参考文献
+
+IMDRF/SaMD WG/N10 FINAL:2013 _软件医疗器械 (SaMD): 关键定义_
+
+IMDRF/SaMD WG/N12 FINAL:2014 _软件医疗器械: 风险分类和相应考虑的可能框架_
+
+IMDRF/SaMD WG/N23 FINAL:2015 _软件医疗器械 (SaMD): 质量管理体系的应用_
+
+IMDRF/SaMD WG/N41 FINAL:2017 _软件医疗器械 (SaMD): 临床评估_
+
+IMDRF/CYBER WG/N60 FINAL:2020 _医疗器械网络安全原则和实践_
+
+IMDRF/AIMD WG/N67 (第一版):2022 _基于机器学习的医疗器械: 关键术语和定义_
+
+IMDRF/CYBER WG/N70 最终版：2023（第一版）_医疗设备的安全保障原则和实践_
+
+IMDRF/CYBER WG/N73 最终版：2023（第一版）_医疗设备软件的材料清单原则和实践_
+
+IMDRF/MC/N79 草案：2023 _指导原则，以支持医疗设备健康公平_
+
+IMDRF/SaMD WG/N81 草案：2024 _医疗设备软件：设备和风险特征化的考虑_
+
+# 指导原则
+
+1. **对医疗器械的预期用途/预期目的有充分的了解，并在整个产品生命周期内充分利用多学科专业知识**：深入了解医疗器械的预期用途/预期目的[1]，包括在临床工作流程中的使用背景、期望的益处和相关的患者风险，有助于确保具有人工智能功能的医疗器械[2],[3]在整个产品生命周期内满足临床意义的需求。多学科专业知识提供特定情境下的见解和经验，指导预期用途/预期目的，并提高医疗器械的安全性及有效性。
+
+2. **在整个产品生命周期内，实施良好的软件工程、医疗器械设计和安全实践**：模型设计应在以下方面得到实施和维护：稳健的软件工程实践、可用性、数据质量保证、数据管理、网络安全[5],[6],[7]和质量管理实践[4]。这些实践包括有条理的风险管理[8]和设计流程，可以适当记录和沟通决策和理由，并确保可追溯性、可重复性、数据真实性、保密性、完整性和可用性。对模型部署、监控和维护所需的基础设施进行仔细考虑。这些实践有助于支持患者的权利、安全和福利，包括通过负责任地使用患者数据。
+
+3. **临床评估包括使用具有代表性的数据集，这些数据集反映了目标患者人群**：数据收集协议旨在确保目标患者人群（例如，在年龄、性别、种族、民族、地理位置、医疗状况[9]、预期使用环境和测量输入方面）的相关特征，在用于训练、测试和监测的数据集中，以足够大的样本量得到充分的代表，以便结果可以合理地推广到感兴趣的目标人群。这些对于临床评估[10]至关重要，并且对于管理任何潜在的偏差或数据集漂移、促进目标患者人群的适当和可推广的性能、评估可用性以及识别模型可能表现不佳的情况（包括随着时间的推移）至关重要。
+
+4. **训练数据集与测试数据集是独立的**：训练和测试数据集[3]被选择和维护，以确保它们彼此独立。所有潜在的依赖来源，包括与患者、地点和数据采集相关的因素，都应被考虑并解决，以确保独立性。外部验证的程度应与风险成比例。
+
+5. **选择的参考标准具有适用性**： 采用的用于开发具有适用性的参考标准的方法，确保收集临床相关且经过充分特性的数据，并了解参考标准的局限性。 这包括基于设备的使用/用途，记录选择参考标准的理由，并评估其是否适合应对预期的使用环境。 如果可用，并且在模型开发和测试中，能够促进和证明模型在预期患者群体中的鲁棒性和泛化性，则优先使用这些参考标准。 参考标准的选择基于广泛共识，并在可获得的情况下，并结合适当的专业知识。
+
+6. **模型选择和设计应根据可用的数据和设备的预期用途/用途进行定制**： 模型选择和设计应根据可用的数据进行评估，并证明其适合，并支持主动缓解已知的风险，例如过拟合、性能下降和安全风险。 产品的临床益处和风险已充分了解，并用于确定可用于测试的临床有意义的性能目标，从而支持产品的安全性和有效性，以实现其预期用途/用途1。 考虑因素包括对整体预期患者群体以及其子群的影响，以及设备输入、输出和临床使用条件中的不确定性和可变性。
+
+7. **该设备评估侧重于在预期使用环境中的人机交互，重点在于人机团队的性能，而不是仅仅评估设备本身。** 评估设备在预期使用环境和临床工作流程中的性能，同时考虑与医疗保健提供者、患者和照护者（如果适用）的交互。 考虑到人机因素，包括用户技能、用户专业知识、用户对模型输出和局限性的理解、过度依赖的可能性、设备自主程度以及用户错误，这些都适用于正常使用和合理可预见的误用。
+
+8. **测试证明设备在临床相关条件下具有性能：** 制定并执行具有方法论和统计学合理性的测试计划，以独立于训练数据集生成临床相关设备性能信息。 考虑包括预期患者人群、相关亚群、临床环境、人机团队的使用、测量输入和潜在的混淆因素。
+
+9. **用户获得清晰、关键信息：** 针对目标受众（例如医疗保健专业人员或患者）提供清晰、与上下文相关的、符合其需求的必要信息。 这包括产品的预期用途/预期用途1和适应症、益处和风险、模型在适当亚群中的性能、研究方法、用于训练和测试模型的用于数据特征、可接受的输入、已知的局限性、用户界面解释、模型在临床工作流程中的集成，以及在可能的情况下，模型输出的基础。 用户还应了解设备修改和更新的范围和时间。 他们应能够向制造商沟通产品问题。
+
+10. **已部署的模型需要进行性能监控，并管理重新训练的风险**：已部署的模型具备在“真实世界”使用中进行适当持续监控的能力，并以风险为导向，确保或提高安全性与性能4、10。此外，在模型部署后重新训练时，应采取适当的控制措施，以管理过拟合、意外偏差或模型（例如，数据集漂移）可能对模型安全性和性能产生影响的风险。
+
+免责声明
+
+© 版权所有 205 年，国际医疗器械监管论坛。
+
+本作品受版权保护。在遵守本条款和条件的前提下，您可以下载、显示、打印、翻译、修改和复制本作品的全部或部分内容，用于您个人的使用、研究、教育目的，或如果贵组织是组织，则用于贵组织的内部使用，但前提是您或贵组织不得将复制用于任何商业目的，并且保留所有版权声明。如果您使用本作品的任何部分，必须包含以下声明（删除不适用的内容）：
+
+除上述内容外，所有权利均保留，未经国际医疗器械监管论坛（IMDRF）事先书面许可，不得以任何方式（包括电子方式）复制或使用本材料的全部或任何部分。有关复制和权利的请求和咨询应发送给 IMDRF 秘书处。
+
+将本文件（部分或全部）纳入其他文档，或将其翻译成其他语言，并不代表IMDRF的认可。
+
+请访问我们的网站以获取更多详细信息。
+
+[www.imdrf.org](<http://www.imdrf.org/>)
+
+1. IMDRF/SaMD WG/N81 草案：2024 _医疗器械软件：设备和风险特征化的考虑_ ↑
+
+2. IMDRF/SaMD WG/N10 最终版：2013 _软件为医疗设备（SaMD）：关键定义_ ↑
+
+3. IMDRF/AIMD WG/N67（第 1 版）：2022 _基于机器学习的医疗器械：关键术语和定义_ ↑
+
+4. IMDRF/SaMD WG/N23 最终版：2015 软件为医疗设备（SaMD）：质量管理体系的应用 ↑
+
+5. IMDRF/CYBER WG/N60 最终版：2020 _医疗器械网络安全原则和实践_ ↑
+
+6. IMDRF/CYBER WG/N70 最终版：2023（第 1 版） _遗留医疗器械的网络安全原则和实践_ ↑
+
+7. IMDRF/CYBER WG/N73 最终版：2023（第 1 版） _医疗器械网络安全软件清单的原则和实践_
+
+8. IMDRF/SaMD WG/N12 最终版：2014 _医疗设备软件：风险分类和相关考虑的可能框架_ ↑
+
+9. IMDRF/MC/N79 草案：2023 _指导原则，以支持医疗设备健康公平_ ↑
+
+10. IMDRF/SaMD WG/N41 最终版：2017 _医疗设备软件 (SaMD)：临床评估_ ↑

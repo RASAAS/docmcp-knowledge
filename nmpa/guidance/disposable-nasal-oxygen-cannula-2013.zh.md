@@ -44,15 +44,15 @@ effective_date: '2025-04-19'
 
 产品可由氧源接头、输氧管、鼻塞、耳挂固定及氧气湿化装置等组成。
 
-![](/assets/images/nmpa-guidance/image-37.png)
+![](/images/nmpa-guidance/image-37.png)
 
 **图****1**
 
-![](/assets/images/nmpa-guidance/image-38.png)
+![](/images/nmpa-guidance/image-38.png)
 
 **图****2**
 
-![](/assets/images/nmpa-guidance/image-39.png)
+![](/images/nmpa-guidance/image-39.png)
 
 **图****3**
 

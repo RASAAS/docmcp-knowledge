@@ -374,10 +374,10 @@ effective_date: '2025-04-20'
 
 注册申请人在进行颅骨修补网板系统动静态抗压缩性能、抗冲击性能研究时需结合产品的结构设计、预期适用情形、临床使用方法及其在体内的受力模式等设计试验模型，以下给出的是试验模型的参考举例，注册申请人可根据申报产品的实际情况进行试验模型设计，并提供试验模型的确定依据。
 
-![](/assets/images/nmpa-guidance/image-1-1.jpeg)
+![](/images/nmpa-guidance/image-1-1.jpeg)
 
 图1 颅骨修补网板系统动静态压缩弯曲性能试验模型
 
-![](/assets/images/nmpa-guidance/image-7.jpg)
+![](/images/nmpa-guidance/image-7.jpg)
 
 图2 颅骨修补网板系统抗冲击性能试验模型
