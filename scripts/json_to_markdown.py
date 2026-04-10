@@ -780,11 +780,35 @@ def generate_shared_section(section: str, dry_run: bool = False) -> list[str]:
                 cat_entries = [e for e in entries if e.get("category") == cat_id]
                 if not cat_entries:
                     continue
-                lines.append(f"## {cat_label} {{#{cat_id}}}")
+                ft_count = sum(1 for e in cat_entries if has_fulltext.get(e.get("id", "")))
+                count_label = f" ({len(cat_entries)})" if len(cat_entries) > 1 else ""
+                lines.append(f"### [{cat_label}{count_label}](./{section}/{cat_id})")
                 lines.append("")
+
+            # Also generate per-category sub-pages
+            for cat_id, cat_info in categories.items():
+                cat_name = cat_info.get("name", {})
+                cat_label = cat_name.get(lang, cat_name.get("en", cat_id))
+                cat_entries = [e for e in entries if e.get("category") == cat_id]
+                if not cat_entries:
+                    continue
+
+                cat_lines = ["---"]
+                cat_lines.append(f"title: {_yaml_safe(cat_label)}")
+                cat_lines.append("---")
+                cat_lines.append("")
+                cat_lines.append(f"# {cat_label}")
+                cat_lines.append("")
                 for entry in cat_entries:
-                    _append_entry_line(lines, entry, section, lang, has_fulltext)
-                lines.append("")
+                    _append_entry_line(cat_lines, entry, section, lang, has_fulltext,
+                                       link_prefix="./")
+                cat_lines.append("")
+
+                cat_path = docs_dir / "shared" / section / f"{cat_id}.md"
+                cat_content = "\n".join(cat_lines)
+                if write_md(cat_path, cat_content, dry_run):
+                    changed.append(str(cat_path.relative_to(ROOT)))
+                    print(f"  {'WOULD WRITE' if dry_run else 'WROTE'}: {cat_path.relative_to(ROOT)}")
         else:
             for entry in entries:
                 _append_entry_line(lines, entry, section, lang, has_fulltext)
@@ -855,8 +879,14 @@ def generate_shared_section(section: str, dry_run: bool = False) -> list[str]:
     return changed
 
 
-def _append_entry_line(lines: list, entry: dict, section: str, lang: str, has_fulltext: dict):
-    """Append a single entry line to the index page."""
+def _append_entry_line(lines: list, entry: dict, section: str, lang: str,
+                       has_fulltext: dict, link_prefix: str = ""):
+    """Append a single entry line to the index page.
+
+    link_prefix: override the relative path prefix for fulltext links.
+                 Default "" means use "./{section}/{slug}" (for main index).
+                 Pass "./" for sub-pages that are already inside the section dir.
+    """
     title = entry.get("title", {})
     t = title.get(lang, title.get("en", "")) if isinstance(title, dict) else str(title)
     eid = entry.get("id", "")
@@ -866,7 +896,8 @@ def _append_entry_line(lines: list, entry: dict, section: str, lang: str, has_fu
 
     prefix = f"**{doc_number}** " if doc_number else ""
     if has_fulltext.get(eid):
-        lines.append(f"- {prefix}[{t}](./{section}/{slug})")
+        rel = f"{link_prefix}{slug}" if link_prefix else f"./{section}/{slug}"
+        lines.append(f"- {prefix}[{t}]({rel})")
     elif source_url:
         lines.append(f"- {prefix}[{t}]({source_url})")
     else:
