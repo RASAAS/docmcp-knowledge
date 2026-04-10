@@ -23,7 +23,7 @@ export default {
         },
         {
           "text": "α -氰基丙烯酸酯类医用粘合剂注册审查指导原则(2024年修订版)",
-          "link": "/zh/nmpa/guidance/α-cyanoacrylate-medical-adhesive"
+          "link": "/zh/nmpa/guidance/alpha-cyanoacrylate-medical-adhesive"
         },
         {
           "text": "一次性使用吸痰管注册技术审查指导原则（2018年第120号）",
