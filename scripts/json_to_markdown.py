@@ -669,6 +669,143 @@ def generate_standards(dry_run: bool = False) -> list[str]:
     return changed
 
 
+def generate_shared_section(section: str, dry_run: bool = False) -> list[str]:
+    """Generate VitePress pages for _shared/ sections (iso_iec, imdrf).
+    Returns list of changed files."""
+    section_dir = ROOT / "_shared" / section
+    index_path = section_dir / "_index.json"
+    if not index_path.exists():
+        print(f"  SKIP: {index_path} not found")
+        return []
+
+    index_data = load_json(index_path)
+    entries = index_data.get("entries", [])
+    categories = index_data.get("categories")
+    changed = []
+
+    section_names = {
+        "iso_iec": {"en": "ISO/IEC International Standards", "zh": "ISO/IEC 国际标准"},
+        "imdrf": {"en": "IMDRF Technical Documents", "zh": "IMDRF 技术文件"},
+    }
+    sec_name = section_names.get(section, {"en": section.upper(), "zh": section.upper()})
+
+    has_fulltext = {}
+    for entry in entries:
+        eid = entry.get("id", "")
+        ft_path = section_dir / "fulltext" / f"{eid}.md"
+        has_fulltext[eid] = ft_path.exists()
+
+    for lang in ("zh", "en"):
+        docs_dir = DOCS_ZH if lang == "zh" else DOCS_EN
+        idx_path = docs_dir / "shared" / f"{section}.md"
+
+        lines = ["---"]
+        lines.append(f"title: {_yaml_safe(sec_name[lang])}")
+        lines.append("---")
+        lines.append("")
+        lines.append(f"# {sec_name[lang]}")
+        lines.append("")
+
+        if categories:
+            for cat_id, cat_info in categories.items():
+                cat_name = cat_info.get("name", {})
+                cat_label = cat_name.get(lang, cat_name.get("en", cat_id))
+                cat_entries = [e for e in entries if e.get("category") == cat_id]
+                if not cat_entries:
+                    continue
+                lines.append(f"## {cat_label} {{#{cat_id}}}")
+                lines.append("")
+                for entry in cat_entries:
+                    _append_entry_line(lines, entry, section, lang, has_fulltext)
+                lines.append("")
+        else:
+            for entry in entries:
+                _append_entry_line(lines, entry, section, lang, has_fulltext)
+
+        lines.append("")
+        idx_content = "\n".join(lines)
+        if write_md(idx_path, idx_content, dry_run):
+            changed.append(str(idx_path.relative_to(ROOT)))
+            print(f"  {'WOULD WRITE' if dry_run else 'WROTE'}: {idx_path.relative_to(ROOT)}")
+
+    for entry in entries:
+        eid = entry.get("id", "")
+        slug = entry.get("slug", eid)
+        if not has_fulltext.get(eid):
+            continue
+
+        fulltext = _load_fulltext(section_dir.parent, section, entry)
+        if not fulltext:
+            fulltext = ""
+            ft_path = section_dir / "fulltext" / f"{eid}.md"
+            if ft_path.exists():
+                fulltext = ft_path.read_text(encoding="utf-8")
+        if not fulltext:
+            continue
+
+        for lang in ("zh", "en"):
+            docs_dir = DOCS_ZH if lang == "zh" else DOCS_EN
+            page_path = docs_dir / "shared" / section / f"{slug}.md"
+
+            title = entry.get("title", {})
+            t = title.get(lang, title.get("en", "")) if isinstance(title, dict) else str(title)
+            source_url = entry.get("source_url", "")
+            doc_number = entry.get("standard_number", entry.get("doc_number", entry.get("document_number", "")))
+
+            page_lines = ["---"]
+            page_lines.append(f"title: {_yaml_safe(t)}")
+            page_lines.append("---")
+            page_lines.append("")
+            page_lines.append(f"# {t}")
+            page_lines.append("")
+            if doc_number:
+                page_lines.append(f"**{'Document' if lang == 'en' else '文件编号'}**: {doc_number}")
+                page_lines.append("")
+            if source_url:
+                tip_label = "Official Source" if lang == "en" else "官方来源"
+                page_lines.append(f"::: tip {tip_label}")
+                page_lines.append(f"[{source_url}]({source_url})")
+                page_lines.append(":::")
+                page_lines.append("")
+
+            page_lines.append(FULLTEXT_MARKER)
+            page_lines.append("")
+            page_lines.append("---")
+            page_lines.append("")
+            ft_heading = "Full Text" if lang == "en" else "全文"
+            page_lines.append(f"## {ft_heading}")
+            page_lines.append("")
+            page_lines.append(fulltext)
+            page_lines.append("")
+            page_lines.append(FULLTEXT_END_MARKER)
+            page_lines.append("")
+
+            page_content = "\n".join(page_lines)
+            if write_md(page_path, page_content, dry_run):
+                changed.append(str(page_path.relative_to(ROOT)))
+                print(f"  {'WOULD WRITE' if dry_run else 'WROTE'}: {page_path.relative_to(ROOT)}")
+
+    return changed
+
+
+def _append_entry_line(lines: list, entry: dict, section: str, lang: str, has_fulltext: dict):
+    """Append a single entry line to the index page."""
+    title = entry.get("title", {})
+    t = title.get(lang, title.get("en", "")) if isinstance(title, dict) else str(title)
+    eid = entry.get("id", "")
+    slug = entry.get("slug", eid)
+    source_url = entry.get("source_url", "")
+    doc_number = entry.get("standard_number", entry.get("doc_number", entry.get("document_number", "")))
+
+    prefix = f"**{doc_number}** " if doc_number else ""
+    if has_fulltext.get(eid):
+        lines.append(f"- {prefix}[{t}](./{section}/{slug})")
+    elif source_url:
+        lines.append(f"- {prefix}[{t}]({source_url})")
+    else:
+        lines.append(f"- {prefix}{t}")
+
+
 def verify_sync() -> list[str]:
     """Check which Markdown files are out of sync with JSON data. Returns list of out-of-sync files."""
     out_of_sync = []
@@ -725,7 +862,7 @@ def main():
     )
     parser.add_argument(
         "--section",
-        choices=["standards", "guidance", "all"],
+        choices=["standards", "guidance", "shared", "all"],
         default="all",
         help="Which section to generate (default: all)"
     )
@@ -766,6 +903,13 @@ def main():
             if fw_guidance.exists():
                 print(f"\n[Guidance: {fw}]")
                 changed.extend(generate_guidance(fw, dry_run=args.dry_run))
+
+    if args.section in ("shared", "all"):
+        for section in ["iso_iec", "imdrf"]:
+            section_index = ROOT / "_shared" / section / "_index.json"
+            if section_index.exists():
+                print(f"\n[Shared: {section}]")
+                changed.extend(generate_shared_section(section, dry_run=args.dry_run))
 
     print(f"\nTotal: {len(changed)} files {'would be' if args.dry_run else ''} changed")
     if changed:
