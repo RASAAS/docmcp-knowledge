@@ -493,13 +493,13 @@ def _yaml_safe(s: str) -> str:
     return s
 
 
-def generate_guidance_page_zh(entry: dict, fulltext: str) -> str:
+def generate_guidance_page_zh(entry: dict, fulltext: str,
+                              machine_translated: bool = False) -> str:
     title = entry.get("title", {})
-    title_zh = title.get("zh", "") if isinstance(title, dict) else str(title)
+    title_zh = (title.get("zh", "") or title.get("en", "")) if isinstance(title, dict) else str(title)
     title_en = title.get("en", "") if isinstance(title, dict) else ""
     source_url = entry.get("source_url", "")
     pub_date = entry.get("published_date", "")
-    slug = entry.get("slug", "")
 
     lines = [
         "---",
@@ -524,6 +524,11 @@ def generate_guidance_page_zh(entry: dict, fulltext: str) -> str:
         lines.append("")
 
     if fulltext:
+        if machine_translated:
+            lines.append("::: info")
+            lines.append("This content has been machine-translated from the English original.")
+            lines.append(":::")
+            lines.append("")
         lines.append(FULLTEXT_MARKER)
         lines.append("")
         lines.append("---")
@@ -542,9 +547,10 @@ def generate_guidance_page_zh(entry: dict, fulltext: str) -> str:
     return "\n".join(lines)
 
 
-def generate_guidance_page_en(entry: dict, fulltext: str) -> str:
+def generate_guidance_page_en(entry: dict, fulltext: str,
+                              machine_translated: bool = False) -> str:
     title = entry.get("title", {})
-    title_en = title.get("en", "") if isinstance(title, dict) else str(title)
+    title_en = (title.get("en", "") or title.get("zh", "")) if isinstance(title, dict) else str(title)
     title_zh = title.get("zh", "") if isinstance(title, dict) else ""
     source_url = entry.get("source_url", "")
     pub_date = entry.get("published_date", "")
@@ -569,6 +575,11 @@ def generate_guidance_page_en(entry: dict, fulltext: str) -> str:
         lines.append("")
 
     if fulltext:
+        if machine_translated:
+            lines.append("::: info")
+            lines.append("This content has been machine-translated from the Chinese original.")
+            lines.append(":::")
+            lines.append("")
         lines.append(FULLTEXT_MARKER)
         lines.append("")
         lines.append("---")
@@ -602,16 +613,22 @@ def generate_guidance_index_zh(framework: str, entries: list, has_fulltext: dict
 
     for entry in entries:
         title = entry.get("title", {})
-        title_zh = title.get("zh", "") if isinstance(title, dict) else str(title)
+        if isinstance(title, dict):
+            display = title.get("zh", "") or title.get("en", "")
+        else:
+            display = str(title) if title else ""
         slug = entry.get("slug", "")
         pub_date = entry.get("published_date", "")
         ft = has_fulltext.get(entry.get("id", ""), False)
 
         if ft and slug:
-            lines.append(f"- [{title_zh}](./guidance/{slug}) ({pub_date})")
+            lines.append(f"- [{display}](./guidance/{slug}) ({pub_date})")
         else:
             source_url = entry.get("source_url", "")
-            lines.append(f"- [{title_zh}]({source_url}) ({pub_date})")
+            if source_url:
+                lines.append(f"- [{display}]({source_url}) ({pub_date})")
+            elif display:
+                lines.append(f"- {display} ({pub_date})")
 
     lines.append("")
     return "\n".join(lines)
@@ -631,19 +648,43 @@ def generate_guidance_index_en(framework: str, entries: list, has_fulltext: dict
 
     for entry in entries:
         title = entry.get("title", {})
-        title_en = title.get("en", "") if isinstance(title, dict) else str(title)
+        if isinstance(title, dict):
+            display = title.get("en", "") or title.get("zh", "")
+        else:
+            display = str(title) if title else ""
         slug = entry.get("slug", "")
         pub_date = entry.get("published_date", "")
         ft = has_fulltext.get(entry.get("id", ""), False)
 
         if ft and slug:
-            lines.append(f"- [{title_en}](./guidance/{slug}) ({pub_date})")
+            lines.append(f"- [{display}](./guidance/{slug}) ({pub_date})")
         else:
             source_url = entry.get("source_url", "")
-            lines.append(f"- [{title_en}]({source_url}) ({pub_date})")
+            if source_url:
+                lines.append(f"- [{display}]({source_url}) ({pub_date})")
+            elif display:
+                lines.append(f"- {display} ({pub_date})")
 
     lines.append("")
     return "\n".join(lines)
+
+
+def _load_translated_fulltext(fw_dir: Path, doc_type: str, entry: dict,
+                              lang: str) -> str:
+    """Load translated fulltext for a specific language.
+
+    Looks for {slug}.{lang}.md or {id}.{lang}.md in the fulltext dir.
+    Returns empty string if not found.
+    """
+    slug = entry.get("slug", "")
+    eid = entry.get("id", "")
+    for name in [slug, re.sub(r'[^\w\-.]', '_', eid)] if eid else [slug]:
+        if not name:
+            continue
+        path = fw_dir / doc_type / "fulltext" / f"{name}.{lang}.md"
+        if path.exists():
+            return path.read_text(encoding="utf-8")
+    return ""
 
 
 def generate_guidance(framework: str, dry_run: bool = False) -> list[str]:
@@ -659,22 +700,42 @@ def generate_guidance(framework: str, dry_run: bool = False) -> list[str]:
     changed = []
     has_fulltext = {}
 
+    # Determine source language of the fulltext files
+    source_lang = "zh" if framework == "nmpa" else "en"
+
     for entry in entries:
         slug = entry.get("slug", "")
         if not slug:
             continue
 
-        fulltext = _load_fulltext(fw_dir, "guidance", entry)
-        has_fulltext[entry.get("id", "")] = bool(fulltext)
+        fulltext_original = _load_fulltext(fw_dir, "guidance", entry)
+        has_fulltext[entry.get("id", "")] = bool(fulltext_original)
+
+        # Load translated versions if available
+        fulltext_zh_translated = _load_translated_fulltext(fw_dir, "guidance", entry, "zh")
+        fulltext_en_translated = _load_translated_fulltext(fw_dir, "guidance", entry, "en")
+
+        # For ZH page: prefer .zh.md translation, fallback to original if source is ZH
+        if source_lang == "zh":
+            fulltext_zh = fulltext_original
+            fulltext_en = fulltext_en_translated or fulltext_original
+        else:
+            fulltext_zh = fulltext_zh_translated or fulltext_original
+            fulltext_en = fulltext_original
+
+        is_zh_translated = source_lang != "zh" and bool(fulltext_zh_translated)
+        is_en_translated = source_lang != "en" and bool(fulltext_en_translated)
 
         zh_path = DOCS_ZH / framework / "guidance" / f"{slug}.md"
-        zh_content = generate_guidance_page_zh(entry, fulltext)
+        zh_content = generate_guidance_page_zh(entry, fulltext_zh,
+                                               machine_translated=is_zh_translated)
         if write_md(zh_path, zh_content, dry_run):
             changed.append(str(zh_path.relative_to(ROOT)))
             print(f"  {'WOULD WRITE' if dry_run else 'WROTE'}: {zh_path.relative_to(ROOT)}")
 
         en_path = DOCS_EN / framework / "guidance" / f"{slug}.md"
-        en_content = generate_guidance_page_en(entry, fulltext)
+        en_content = generate_guidance_page_en(entry, fulltext_en,
+                                               machine_translated=is_en_translated)
         if write_md(en_path, en_content, dry_run):
             changed.append(str(en_path.relative_to(ROOT)))
             print(f"  {'WOULD WRITE' if dry_run else 'WROTE'}: {en_path.relative_to(ROOT)}")
