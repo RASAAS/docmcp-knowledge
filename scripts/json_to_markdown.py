@@ -825,18 +825,25 @@ def generate_shared_section(section: str, dry_run: bool = False) -> list[str]:
         if not has_fulltext.get(eid):
             continue
 
-        fulltext = _load_fulltext(section_dir.parent, section, entry)
-        if not fulltext:
-            fulltext = ""
+        fulltext_en = _load_fulltext(section_dir.parent, section, entry)
+        if not fulltext_en:
+            fulltext_en = ""
             ft_path = section_dir / "fulltext" / f"{eid}.md"
             if ft_path.exists():
-                fulltext = ft_path.read_text(encoding="utf-8")
-        if not fulltext:
+                fulltext_en = ft_path.read_text(encoding="utf-8")
+        if not fulltext_en:
             continue
+
+        fulltext_zh = ""
+        zh_path = section_dir / "fulltext" / f"{eid}.zh.md"
+        if zh_path.exists():
+            fulltext_zh = zh_path.read_text(encoding="utf-8")
 
         for lang in ("zh", "en"):
             docs_dir = DOCS_ZH if lang == "zh" else DOCS_EN
             page_path = docs_dir / "shared" / section / f"{slug}.md"
+
+            fulltext = fulltext_zh if (lang == "zh" and fulltext_zh) else fulltext_en
 
             title = entry.get("title", {})
             if isinstance(title, dict):
@@ -859,6 +866,12 @@ def generate_shared_section(section: str, dry_run: bool = False) -> list[str]:
                 tip_label = "Official Source" if lang == "en" else "官方来源"
                 page_lines.append(f"::: tip {tip_label}")
                 page_lines.append(f"[{source_url}]({source_url})")
+                page_lines.append(":::")
+                page_lines.append("")
+
+            if lang == "zh" and fulltext_zh:
+                page_lines.append("::: info")
+                page_lines.append("This content has been machine-translated from the English original.")
                 page_lines.append(":::")
                 page_lines.append("")
 

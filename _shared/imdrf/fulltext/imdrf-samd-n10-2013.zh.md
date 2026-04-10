@@ -1,25 +1,3 @@
----
-title: "Software as a Medical Device (SaMD): Key Definitions"
----
-
-# Software as a Medical Device (SaMD): Key Definitions
-
-**文件编号**: IMDRF/SaMD WG/N10FINAL:2013
-
-::: tip 官方来源
-[https://www.imdrf.org/documents/software-medical-device-samd-key-definitions](https://www.imdrf.org/documents/software-medical-device-samd-key-definitions)
-:::
-
-::: info
-This content has been machine-translated from the English original.
-:::
-
-<!-- fulltext-start -->
-
----
-
-## 全文
-
 # 软件为医疗器械 (SaMD): 关键定义
 
 **Document Number**: IMDRF/SaMD WG/N10FINAL:2013
@@ -255,6 +233,3 @@ SaMD 所需的“操作系统”可能在服务器、工作站、移动平台或
 5. 本文及本文件其他定义中出现的“人”一词，包括法人实体，如公司、合伙企业或协会。↑
 
 6. 参见 GHTF/SG1/N29 _关于“医疗器械”术语定义的文档_
-
-
-<!-- fulltext-end -->
