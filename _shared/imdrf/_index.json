@@ -2,227 +2,609 @@
   "category": "imdrf",
   "description": "International Medical Device Regulators Forum (IMDRF) technical documents for regulatory harmonization",
   "last_updated": "2026-04-10",
-  "count": 20,
+  "count": 43,
   "entries": [
     {
-      "id": "imdrf-samd-n12-2014",
+      "id": "imdrf-ae-n43-2020",
       "title": {
-        "en": "IMDRF SaMD WG/N12 - Software as a Medical Device: Possible Framework for Risk Categorization and Corresponding Considerations",
-        "zh": "IMDRF SaMD WG/N12 - \u4f5c\u4e3a\u533b\u7597\u5668\u68b0\u7684\u8f6f\u4ef6\uff1a\u98ce\u9669\u5206\u7c7b\u7684\u53ef\u80fd\u6846\u67b6\u53ca\u76f8\u5e94\u8003\u8651"
+        "en": "Terminologies for Categorized Adverse Event Reporting (AER): terms, terminology and codes",
+        "zh": ""
       },
       "status": "active",
-      "source_url": "https://www.imdrf.org/documents/software-medical-device-possible-framework-risk-categorization-and-corresponding",
-      "effective_date": "2014-09-18",
-      "document_number": "IMDRF/SaMD WG/N12 FINAL:2014"
+      "source_url": "https://www.imdrf.org/documents/terminologies-categorized-adverse-event-reporting-aer-terms-terminology-and-codes",
+      "effective_date": "3 March 2026",
+      "document_number": "IMDRF/AE WG/N43FINAL:2020 (Edition 4) - Annexes and release notes updated annually Current Annexes and Appendix release: IMDRF/AE WG/N43FINAL:2025",
+      "slug": "terminologies-categorized-adverse-event-reporting-aer-terms-terminology-and-codes",
+      "docx_url": "https://www.imdrf.org/sites/default/files/docs/imdrf/final/technical/imdrf-tech-200318-ae-terminologies-n43.docx",
+      "pdf_url": "https://www.imdrf.org/sites/default/files/docs/imdrf/final/technical/imdrf-tech-200318-ae-terminologies-n43.pdf"
     },
     {
-      "id": "imdrf-samd-n23-2015",
+      "id": "imdrf-aet-n85",
       "title": {
-        "en": "IMDRF SaMD WG/N23 - Software as a Medical Device: Application of Quality Management System",
-        "zh": "IMDRF SaMD WG/N23 - \u4f5c\u4e3a\u533b\u7597\u5668\u68b0\u7684\u8f6f\u4ef6\uff1a\u8d28\u91cf\u7ba1\u7406\u4f53\u7cfb\u7684\u5e94\u7528"
+        "en": "Common Data Set for Adverse Event Data Exchange Between IMDRF Regulators",
+        "zh": ""
       },
       "status": "active",
-      "source_url": "https://www.imdrf.org/documents/software-medical-device-samd-application-quality-management-system",
-      "effective_date": "2015-10-02",
-      "document_number": "IMDRF/SaMD WG/N23 FINAL:2015"
+      "source_url": "https://www.imdrf.org/documents/common-data-set-adverse-event-data-exchange-between-imdrf-regulators",
+      "effective_date": "10 October 2024",
+      "document_number": "IMDRF/AET WG/N85 FINAL: 2024",
+      "slug": "common-data-set-adverse-event-data-exchange-between-imdrf-regulators",
+      "docx_url": "https://www.imdrf.org/sites/default/files/2024-10/IMDRF%20CDS%20Guidance%20Doc_260724.docx",
+      "pdf_url": "https://www.imdrf.org/sites/default/files/2024-10/IMDRF%20CDS%20Guidance%20Doc_260724.pdf"
     },
     {
-      "id": "imdrf-samd-n41-2017",
+      "id": "imdrf-aimd-n67",
       "title": {
-        "en": "IMDRF SaMD WG/N41 - Software as a Medical Device: Clinical Evaluation",
-        "zh": "IMDRF SaMD WG/N41 - \u4f5c\u4e3a\u533b\u7597\u5668\u68b0\u7684\u8f6f\u4ef6\uff1a\u4e34\u5e8a\u8bc4\u4ef7"
-      },
-      "status": "active",
-      "source_url": "https://www.imdrf.org/documents/software-medical-device-samd-clinical-evaluation",
-      "effective_date": "2017-10-11",
-      "document_number": "IMDRF/SaMD WG/N41 FINAL:2017"
-    },
-    {
-      "id": "imdrf-samd-n81-2025",
-      "title": {
-        "en": "IMDRF SaMD WG/N81 - Characterization Considerations for Medical Device Software and Software-Specific Risk",
-        "zh": "IMDRF SaMD WG/N81 - \u533b\u7597\u5668\u68b0\u8f6f\u4ef6\u548c\u8f6f\u4ef6\u7279\u5b9a\u98ce\u9669\u7684\u7279\u5f81\u5316\u8003\u8651"
-      },
-      "status": "active",
-      "source_url": "https://www.imdrf.org/documents/characterization-considerations-medical-device-software-and-software-specific-risk",
-      "effective_date": "2025-01-29",
-      "document_number": "IMDRF/SaMD WG/N81 FINAL:2025"
-    },
-    {
-      "id": "imdrf-aiml-n67-2022",
-      "title": {
-        "en": "IMDRF AIML WG/N67 - Machine Learning-enabled Medical Devices: Key Terms and Definitions",
-        "zh": "IMDRF AIML WG/N67 - \u673a\u5668\u5b66\u4e60\u8d4b\u80fd\u7684\u533b\u7597\u5668\u68b0\uff1a\u5173\u952e\u672f\u8bed\u548c\u5b9a\u4e49"
+        "en": "Machine Learning-enabled Medical Devices: Key Terms and Definitions",
+        "zh": ""
       },
       "status": "active",
       "source_url": "https://www.imdrf.org/documents/machine-learning-enabled-medical-devices-key-terms-and-definitions",
-      "effective_date": "2022-05-06",
-      "document_number": "IMDRF/AIML WG/N67 FINAL:2022"
+      "effective_date": "9 May 2022",
+      "document_number": "IMDRF/AIMD WG/N67",
+      "slug": "machine-learning-enabled-medical-devices-key-terms-and-definitions",
+      "docx_url": "https://www.imdrf.org/sites/default/files/2022-05/IMDRF%20AIMD%20WG%20Final%20Document%20N67.docx",
+      "pdf_url": "https://www.imdrf.org/sites/default/files/2022-05/IMDRF%20AIMD%20WG%20Final%20Document%20N67.pdf"
     },
     {
       "id": "imdrf-aiml-n88-2025",
       "title": {
-        "en": "IMDRF AIML WG/N88 - Good Machine Learning Practice for Medical Device Development: Guiding Principles",
-        "zh": "IMDRF AIML WG/N88 - \u533b\u7597\u5668\u68b0\u5f00\u53d1\u7684\u826f\u597d\u673a\u5668\u5b66\u4e60\u5b9e\u8df5\uff1a\u6307\u5bfc\u539f\u5219"
+        "en": "Good machine learning practice for medical device development: Guiding principles",
+        "zh": ""
       },
       "status": "active",
       "source_url": "https://www.imdrf.org/documents/good-machine-learning-practice-medical-device-development-guiding-principles",
-      "effective_date": "2025-01-29",
-      "document_number": "IMDRF/AIML WG/N88 FINAL:2025"
+      "effective_date": "29 January 2025",
+      "document_number": "IMDRF/AIML WG/N88 FINAL:2025",
+      "slug": "good-machine-learning-practice-medical-device-development-guiding-principles",
+      "docx_url": "https://www.imdrf.org/sites/default/files/2025-02/IMDRF_AIML%20WG_GMLP_N88%20Final.docx",
+      "pdf_url": "https://www.imdrf.org/sites/default/files/2025-02/IMDRF_AIML%20WG_GMLP_N88%20Final.pdf"
     },
     {
-      "id": "imdrf-udi-n7-2019",
+      "id": "imdrf-clinical-evaluation",
       "title": {
-        "en": "IMDRF UDI WG/N7 - UDI Guidance: Unique Device Identification (UDI) of Medical Devices",
-        "zh": "IMDRF UDI WG/N7 - UDI\u6307\u5357\uff1a\u533b\u7597\u5668\u68b0\u552f\u4e00\u5668\u68b0\u6807\u8bc6(UDI)"
+        "en": "Clinical Evaluation",
+        "zh": ""
       },
       "status": "active",
-      "source_url": "https://www.imdrf.org/documents/unique-device-identification-udi-medical-devices",
-      "effective_date": "2019-09-19",
-      "document_number": "IMDRF/UDI WG/N7 FINAL:2019"
+      "source_url": "https://www.imdrf.org/documents/clinical-evaluation",
+      "effective_date": "10 October 2019",
+      "document_number": "",
+      "slug": "clinical-evaluation",
+      "docx_url": "https://www.imdrf.org/sites/default/files/docs/imdrf/final/technical/imdrf-tech-191010-mdce-n56.docx",
+      "pdf_url": "https://www.interamericancoalition-medtech.org/regulatory-convergence/wp-content/uploads/sites/4/2022/05/Clinical-Evaluation_ESPAN%CC%83OL-Rev-Final.pdf"
     },
     {
-      "id": "imdrf-udi-n36-2019",
+      "id": "imdrf-clinical-evidence-key-definitions-and-concepts",
       "title": {
-        "en": "IMDRF UDI WG/N36 - Application Guide for Unique Device Identification (UDI) System",
-        "zh": "IMDRF UDI WG/N36 - \u552f\u4e00\u5668\u68b0\u6807\u8bc6(UDI)\u7cfb\u7edf\u5e94\u7528\u6307\u5357"
+        "en": "Clinical Evidence - Key Definitions and Concepts",
+        "zh": ""
       },
       "status": "active",
-      "source_url": "https://www.imdrf.org/documents/application-guide-unique-device-identification-udi-system",
-      "effective_date": "2019-09-19",
-      "document_number": "IMDRF/UDI WG/N36 FINAL:2019"
+      "source_url": "https://www.imdrf.org/documents/clinical-evidence-key-definitions-and-concepts",
+      "effective_date": "10 October 2019",
+      "document_number": "",
+      "slug": "clinical-evidence-key-definitions-and-concepts",
+      "docx_url": "https://www.imdrf.org/sites/default/files/docs/imdrf/final/technical/imdrf-tech-191010-mdce-n55.docx",
+      "pdf_url": "https://iris.paho.org/bitstream/handle/10665.2/56043/OPSHSSMT220008_spa.pdf"
     },
     {
-      "id": "imdrf-ae-n43-2026",
+      "id": "imdrf-clinical-investigation",
       "title": {
-        "en": "IMDRF AE WG/N43 - Terminologies for Categorized Adverse Event Reporting (AER): Terms, Terminology and Codes",
-        "zh": "IMDRF AE WG/N43 - \u5206\u7c7b\u4e0d\u826f\u4e8b\u4ef6\u62a5\u544a(AER)\u672f\u8bed\uff1a\u672f\u8bed\u3001\u672f\u8bed\u4f53\u7cfb\u548c\u4ee3\u7801"
+        "en": "Clinical Investigation",
+        "zh": ""
       },
       "status": "active",
-      "source_url": "https://www.imdrf.org/documents/terminologies-categorized-adverse-event-reporting-aer-terms-terminology-and-codes",
-      "effective_date": "2026-03-03",
-      "document_number": "IMDRF/AE WG/N43"
+      "source_url": "https://www.imdrf.org/documents/clinical-investigation",
+      "effective_date": "10 October 2019",
+      "document_number": "",
+      "slug": "clinical-investigation",
+      "docx_url": "https://www.imdrf.org/sites/default/files/docs/imdrf/final/technical/imdrf-tech-191010-mdce-n57.docx",
+      "pdf_url": "https://iris.paho.org/bitstream/handle/10665.2/56254/OPSHSSMT220024_spa.pdf"
     },
     {
-      "id": "imdrf-aet-n85-2024",
+      "id": "imdrf-cyber-n60-2020",
       "title": {
-        "en": "IMDRF AET WG/N85 - Common Data Set for Adverse Event Data Exchange Between IMDRF Regulators",
-        "zh": "IMDRF AET WG/N85 - IMDRF\u76d1\u7ba1\u673a\u6784\u95f4\u4e0d\u826f\u4e8b\u4ef6\u6570\u636e\u4ea4\u6362\u901a\u7528\u6570\u636e\u96c6"
+        "en": "Principles and Practices for Medical Device Cybersecurity",
+        "zh": ""
       },
       "status": "active",
-      "source_url": "https://www.imdrf.org/documents/common-data-set-adverse-event-data-exchange-between-imdrf-regulators",
-      "effective_date": "2024-10-10",
-      "document_number": "IMDRF/AET WG/N85 FINAL:2024"
+      "source_url": "https://www.imdrf.org/documents/principles-and-practices-medical-device-cybersecurity",
+      "effective_date": "20 April 2020",
+      "document_number": "IMDRF/CYBER WG/N60FINAL:2020",
+      "slug": "principles-and-practices-medical-device-cybersecurity",
+      "docx_url": "https://www.imdrf.org/sites/default/files/docs/imdrf/final/technical/imdrf-tech-200318-pp-mdc-n60.docx",
+      "pdf_url": "https://www.imdrf.org/sites/default/files/docs/imdrf/final/technical/imdrf-tech-200318-pp-mdc-n60.pdf"
     },
     {
-      "id": "imdrf-rps-n9-2024",
+      "id": "imdrf-cyber-n70",
       "title": {
-        "en": "IMDRF RPS WG/N9 - Non-In Vitro Diagnostic Device Regulatory Submission Table of Contents (nIVD ToC)",
-        "zh": "IMDRF RPS WG/N9 - \u975e\u4f53\u5916\u8bca\u65ad\u5668\u68b0\u76d1\u7ba1\u63d0\u4ea4\u76ee\u5f55(nIVD ToC)"
+        "en": "Principles and Practices for the Cybersecurity of Legacy Medical Devices",
+        "zh": ""
       },
       "status": "active",
-      "source_url": "https://www.imdrf.org/documents/non-vitro-diagnostic-device-market-authorization-table-contents-nivd-toc",
-      "effective_date": "2024-06-25",
-      "document_number": "IMDRF/RPS WG/N9 Final:2024 (Edition 4)"
+      "source_url": "https://www.imdrf.org/documents/principles-and-practices-cybersecurity-legacy-medical-devices",
+      "effective_date": "11 April 2023",
+      "document_number": "IMDRF/CYBER WG/N70",
+      "slug": "principles-and-practices-cybersecurity-legacy-medical-devices",
+      "docx_url": "https://www.imdrf.org/sites/default/files/2023-04/IMDRF%20Principles%20and%20Practices%20of%20Cybersecurity%20for%20%20Legacy%20Medical%20Devices%20Final%20%28N70%29_1.docx",
+      "pdf_url": "https://www.imdrf.org/sites/default/files/2023-04/IMDRF%20Principles%20and%20Practices%20of%20Cybersecurity%20for%20%20Legacy%20Medical%20Devices%20Final%20%28N70%29_1.pdf"
     },
     {
-      "id": "imdrf-rps-n13-2024",
+      "id": "imdrf-cyber-n73",
       "title": {
-        "en": "IMDRF RPS WG/N13 - In Vitro Diagnostic Medical Device Regulatory Submission Table of Contents (IVD ToC)",
-        "zh": "IMDRF RPS WG/N13 - \u4f53\u5916\u8bca\u65ad\u533b\u7597\u5668\u68b0\u76d1\u7ba1\u63d0\u4ea4\u76ee\u5f55(IVD ToC)"
+        "en": "Principles and Practices for Software Bill of Materials for Medical Device Cybersecurity",
+        "zh": ""
       },
       "status": "active",
-      "source_url": "https://www.imdrf.org/documents/vitro-diagnostic-medical-device-regulatory-submission-table-contents",
-      "effective_date": "2024-06-25",
-      "document_number": "IMDRF/RPS WG/N13 Final:2024 (Edition 4)"
+      "source_url": "https://www.imdrf.org/documents/principles-and-practices-software-bill-materials-medical-device-cybersecurity",
+      "effective_date": "13 April 2023",
+      "document_number": "IMDRF/CYBER WG/N73",
+      "slug": "principles-and-practices-software-bill-materials-medical-device-cybersecurity",
+      "docx_url": "https://www.imdrf.org/sites/default/files/2023-04/Principles%20and%20Practices%20for%20Software%20Bill%20of%20Materials%20for%20Medical%20Device%20Cybersecurity%20%28N73%29.docx",
+      "pdf_url": "https://www.imdrf.org/sites/default/files/2023-04/Principles%20and%20Practices%20for%20Software%20Bill%20of%20Materials%20for%20Medical%20Device%20Cybersecurity%20%28N73%29.pdf"
+    },
+    {
+      "id": "imdrf-grrp-n40-2024",
+      "title": {
+        "en": "Competence, Training, and Conduct Requirements for Regulatory Reviewers",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://www.imdrf.org/documents/competence-training-and-conduct-requirements-regulatory-reviewers",
+      "effective_date": "26 April 2024",
+      "document_number": "IMDRF/GRRP WG/N40 FINAL:2024 (Edition 2)",
+      "slug": "competence-training-and-conduct-requirements-regulatory-reviewers",
+      "docx_url": "https://www.imdrf.org/sites/default/files/2024-04/IMDRF%20GRRP%20WG%20N40%20%28Edition%202%29.docx",
+      "pdf_url": "https://iris.paho.org/bitstream/handle/10665.2/56047/OPSHSSMT220003_spa.pdf"
+    },
+    {
+      "id": "imdrf-grrp-n47-2024",
+      "title": {
+        "en": "Essential Principles of Safety and Performance of Medical Devices and IVD Medical Devices",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://www.imdrf.org/documents/essential-principles-safety-and-performance-medical-devices-and-ivd-medical-devices",
+      "effective_date": "26 April 2024",
+      "document_number": "IMDRF/GRRP WG/N47 FINAL:2024 (Edition 2)",
+      "slug": "essential-principles-safety-and-performance-medical-devices-and-ivd-medical-devices",
+      "docx_url": "https://www.imdrf.org/sites/default/files/2024-06/IMDRF%20GRRP%20WG%20N47%20%28Edition%202%29%20%282%29.docx",
+      "pdf_url": "https://iris.paho.org/bitstream/handle/10665.2/56051/OPSHSSMT220004_spa.pdf"
+    },
+    {
+      "id": "imdrf-grrp-n52-2024",
+      "title": {
+        "en": "Principles of Labelling for Medical Devices and IVD Medical Devices",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://www.imdrf.org/documents/principles-labelling-medical-devices-and-ivd-medical-devices",
+      "effective_date": "26 April 2024",
+      "document_number": "IMDRF/GRRP WG/N52 FINAL:2024 (Edition 2)",
+      "slug": "principles-labelling-medical-devices-and-ivd-medical-devices",
+      "docx_url": "https://www.imdrf.org/sites/default/files/2024-04/IMDRF%20GRRP%20WG%20N52%20%28Edition%202%29.docx",
+      "pdf_url": "https://iris.paho.org/bitstream/handle/10665.2/56042/OPSHSSMT220007_spa.pdf"
+    },
+    {
+      "id": "imdrf-grrp-n59-2024",
+      "title": {
+        "en": "Requirements for Regulatory Authority Recognition of Conformity Assessment Bodies Conducting Medical Device Regulatory Reviews",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://www.imdrf.org/documents/requirements-regulatory-authority-recognition-conformity-assessment-bodies-conducting-medical-device-regulatory-reviews",
+      "effective_date": "26 April 2024",
+      "document_number": "IMDRF/GRRP WG/N59 FINAL:2024 (Edition 2)",
+      "slug": "requirements-regulatory-authority-recognition-conformity-assessment-bodies-conducting-medical-device-regulatory-reviews",
+      "docx_url": "https://www.imdrf.org/sites/default/files/2024-04/IMDRF%20GRRP%20WG%20N59%20%28Edition%202%29.docx",
+      "pdf_url": "https://iris.paho.org/bitstream/handle/10665.2/56255/OPSHSSMT220025_spa.pdf"
     },
     {
       "id": "imdrf-grrp-n61-2024",
       "title": {
-        "en": "IMDRF GRRP WG/N61 - Regulatory Authority Assessment Method for Recognition and Surveillance of Conformity Assessment Bodies",
-        "zh": "IMDRF GRRP WG/N61 - \u76d1\u7ba1\u673a\u6784\u5bf9\u5408\u683c\u8bc4\u5b9a\u673a\u6784\u7684\u8bc4\u4f30\u65b9\u6cd5"
+        "en": "Regulatory Authority Assessment Method for Recognition and Surveillance of Conformity Assessment Bodies Conducting Medical Device Regulatory Reviews",
+        "zh": ""
       },
       "status": "active",
-      "source_url": "https://www.imdrf.org/documents/regulatory-authority-assessment-method-recognition-and-surveillance-conformity-assessment",
-      "effective_date": "2024-04-26",
-      "document_number": "IMDRF/GRRP WG/N61 FINAL:2024 (Edition 2)"
+      "source_url": "https://www.imdrf.org/documents/regulatory-authority-assessment-method-recognition-and-surveillance-conformity-assessment-bodies-conducting-medical-device-regulatory-reviews",
+      "effective_date": "26 April 2024",
+      "document_number": "IMDRF/GRRP WG/N61 FINAL:2024 (Edition 2)",
+      "slug": "regulatory-authority-assessment-method-recognition-and-surveillance-conformity-assessment-bodies-conducting-medical-device-regulatory-reviews",
+      "docx_url": "https://www.imdrf.org/sites/default/files/2024-04/IMDRF%20GRRP%20WG%20N61%20%28Edition%202%29.docx",
+      "pdf_url": "https://www.imdrf.org/sites/default/files/2024-04/IMDRF%20GRRP%20WG%20N61%20%28Edition%202%29.pdf"
     },
     {
-      "id": "imdrf-grrp-n89-2026",
+      "id": "imdrf-grrp-n63-2024",
       "title": {
-        "en": "IMDRF GRRP WG/N89 - Playbook for Medical Device Regulatory Reliance Programs",
-        "zh": "IMDRF GRRP WG/N89 - \u533b\u7597\u5668\u68b0\u76d1\u7ba1\u4f9d\u8d56\u8ba1\u5212\u624b\u518c"
+        "en": "Competence and Training Requirements for Regulatory Authority Assessors of Conformity Assessment Bodies Conducting Medical Device Regulatory Reviews",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://www.imdrf.org/documents/competence-and-training-requirements-regulatory-authority-assessors-conformity-assessment-bodies-conducting-medical-device-regulatory-reviews",
+      "effective_date": "26 April 2024",
+      "document_number": "IMDRF/GRRP WG/N63 FINAL:2024 (Edition 2)",
+      "slug": "competence-and-training-requirements-regulatory-authority-assessors-conformity-assessment-bodies-conducting-medical-device-regulatory-reviews",
+      "docx_url": "https://www.imdrf.org/sites/default/files/2024-04/IMDRF%20GRRP%20WG%20N63%20%28Edition%202%29.docx",
+      "pdf_url": "https://www.imdrf.org/sites/default/files/2024-04/IMDRF%20GRRP%20WG%20N63%20%28Edition%202%29.pdf"
+    },
+    {
+      "id": "imdrf-grrp-n66-2024",
+      "title": {
+        "en": "Assessment and Decision Process for the Recognition of a Conformity Assessment Body Conducting Medical Device Regulatory Reviews",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://www.imdrf.org/documents/assessment-and-decision-process-recognition-conformity-assessment-body-conducting-medical-device-regulatory-reviews",
+      "effective_date": "26 April 2024",
+      "document_number": "IMDRF/GRRP WG/N66 FINAL:2024 (Edition 2)",
+      "slug": "assessment-and-decision-process-recognition-conformity-assessment-body-conducting-medical-device-regulatory-reviews",
+      "docx_url": "https://www.imdrf.org/sites/default/files/2024-04/IMDRF%20GRRP%20WG%20N66%20%28Edition%202%29.docx",
+      "pdf_url": "https://www.imdrf.org/sites/default/files/2024-04/IMDRF%20GRRP%20WG%20N66%20%28Edition%202%29.pdf"
+    },
+    {
+      "id": "imdrf-grrp-n71-2024",
+      "title": {
+        "en": "Medical Device Regulatory Review Report: Guidance Regarding Information to be Included",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://www.imdrf.org/documents/medical-device-regulatory-review-report-guidance-regarding-information-be-included",
+      "effective_date": "26 April 2024",
+      "document_number": "IMDRF/GRRP WG/N71 FINAL:2024 (Edition 2)",
+      "slug": "medical-device-regulatory-review-report-guidance-regarding-information-be-included",
+      "docx_url": "https://www.imdrf.org/sites/default/files/2024-04/IMDRF%20GRRP%20WG%20N71%20%28Edition%202%29_0.docx",
+      "pdf_url": "https://www.imdrf.org/sites/default/files/2024-04/IMDRF%20GRRP%20WG%20N71%20%28Edition%202%29_0.pdf"
+    },
+    {
+      "id": "imdrf-grrp-n89",
+      "title": {
+        "en": "Playbook for Medical Device Regulatory Reliance Programs",
+        "zh": ""
       },
       "status": "active",
       "source_url": "https://www.imdrf.org/documents/playbook-medical-device-regulatory-reliance-programs",
-      "effective_date": "2026-02-26",
-      "document_number": "IMDRF/GRRP WG/N89"
+      "effective_date": "26 February 2026",
+      "document_number": "IMDRF/GRRP WG/N89",
+      "slug": "playbook-medical-device-regulatory-reliance-programs",
+      "docx_url": "https://www.imdrf.org/sites/default/files/2026-02/IMDRF%20GRRP%20WG%20N89%20Reliance%20Playbook.docx",
+      "pdf_url": "https://www.imdrf.org/sites/default/files/2026-02/IMDRF%20GRRP%20WG%20N89%20Reliance%20Playbook.pdf"
     },
     {
-      "id": "imdrf-mdsap-n3-2019",
+      "id": "imdrf-ivd-n64-2021",
       "title": {
-        "en": "IMDRF MDSAP WG/N3 - MDSAP Assessment and Decision Process for the Recognition of an Auditing Organization",
-        "zh": "IMDRF MDSAP WG/N3 - MDSAP\u5ba1\u6838\u7ec4\u7ec7\u8ba4\u53ef\u7684\u8bc4\u4f30\u548c\u51b3\u7b56\u6d41\u7a0b"
+        "en": "Principles of In Vitro Diagnostic (IVD) Medical Devices Classification",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://www.imdrf.org/documents/principles-vitro-diagnostic-ivd-medical-devices-classification",
+      "effective_date": "21 January 2021",
+      "document_number": "IMDRF/IVD WG/N64FINAL:2021 (formerly GHTF/SG1/N045:2008)",
+      "slug": "principles-vitro-diagnostic-ivd-medical-devices-classification",
+      "docx_url": "https://www.imdrf.org/sites/default/files/docs/imdrf/final/technical/imdrf-tech-wng64.docx",
+      "pdf_url": "https://iris.paho.org/bitstream/handle/10665.2/56258/OPSHSSMT220028_spa.pdf"
+    },
+    {
+      "id": "imdrf-mdce-n65-2021",
+      "title": {
+        "en": "Post-Market Clinical Follow-Up Studies",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://www.imdrf.org/documents/post-market-clinical-follow-studies",
+      "effective_date": "20 May 2021",
+      "document_number": "IMDRF/MDCE WG/N65FINAL:2021 (formerly GHTF/SG5/N4:2010).",
+      "slug": "post-market-clinical-follow-studies",
+      "docx_url": "",
+      "pdf_url": "https://www.interamericancoalition-medtech.org/regulatory-convergence/wp-content/uploads/sites/4/2022/05/Post-Market_ESPAN%CC%83OL-Rev-Final.pdf"
+    },
+    {
+      "id": "imdrf-mdsap-n11-2014",
+      "title": {
+        "en": "MDSAP Assessment and Decision Process for the Recognition of an Auditing Organization",
+        "zh": ""
       },
       "status": "active",
       "source_url": "https://www.imdrf.org/documents/mdsap-assessment-and-decision-process-recognition-auditing-organization",
-      "effective_date": "2019-01-24",
-      "document_number": "IMDRF/MDSAP WG/N3 FINAL:2019"
+      "effective_date": "20 October 2021",
+      "document_number": "IMDRF/MDSAP WG/N11FINAL:2014",
+      "slug": "mdsap-assessment-and-decision-process-recognition-auditing-organization",
+      "docx_url": "https://www.imdrf.org/sites/default/files/2021-11/IMDRF%20MDSAP%20WG%20FD%20N11%20%28Edition%202%29_0921.docx",
+      "pdf_url": "https://www.imdrf.org/sites/default/files/2021-11/IMDRF%20MDSAP%20WG%20FD%20N11%20%28Edition%202%29_0921.pdf"
     },
     {
-      "id": "imdrf-cyber-n60-2023",
+      "id": "imdrf-mdsap-n24-2015",
       "title": {
-        "en": "IMDRF Cyber WG/N60 - Principles and Practices for Medical Device Cybersecurity",
-        "zh": "IMDRF Cyber WG/N60 - \u533b\u7597\u5668\u68b0\u7f51\u7edc\u5b89\u5168\u7684\u539f\u5219\u548c\u5b9e\u8df5"
+        "en": "Medical Device Regulatory Audit Reports",
+        "zh": ""
       },
       "status": "active",
-      "source_url": "https://www.imdrf.org/documents/principles-and-practices-medical-device-cybersecurity",
-      "effective_date": "2023-04-18",
-      "document_number": "IMDRF/CYBER WG/N60 FINAL:2023"
+      "source_url": "https://www.imdrf.org/documents/medical-device-regulatory-audit-reports",
+      "effective_date": "2 October 2015",
+      "document_number": "IMDRF/MDSAP WG/N24FINAL:2015",
+      "slug": "medical-device-regulatory-audit-reports",
+      "docx_url": "https://www.imdrf.org/sites/default/files/docs/imdrf/final/technical/imdrf-tech-151002-mdra-audit-report.docx",
+      "pdf_url": "https://www.imdrf.org/sites/default/files/docs/imdrf/final/technical/imdrf-tech-151002-mdra-audit-report.pdf"
     },
     {
-      "id": "imdrf-cyber-n70-2023",
+      "id": "imdrf-mdsap-n3-2016",
       "title": {
-        "en": "IMDRF Cyber WG/N70 - Principles and Practices for the Cybersecurity of Legacy Medical Devices",
-        "zh": "IMDRF Cyber WG/N70 - \u4f20\u7edf\u533b\u7597\u5668\u68b0\u7f51\u7edc\u5b89\u5168\u7684\u539f\u5219\u548c\u5b9e\u8df5"
+        "en": "Requirements for Medical Device Auditing Organizations for Regulatory Authority Recognition",
+        "zh": ""
       },
       "status": "active",
-      "source_url": "https://www.imdrf.org/documents/principles-and-practices-cybersecurity-legacy-medical-devices",
-      "effective_date": "2023-10-04",
-      "document_number": "IMDRF/CYBER WG/N70 FINAL:2023"
+      "source_url": "https://www.imdrf.org/documents/requirements-medical-device-auditing-organizations-regulatory-authority-recognition",
+      "effective_date": "24 March 2016",
+      "document_number": "IMDRF/MDSAP WG/N3FINAL:2016 (Edition 2)",
+      "slug": "requirements-medical-device-auditing-organizations-regulatory-authority-recognition",
+      "docx_url": "https://www.imdrf.org/sites/default/files/docs/imdrf/final/technical/imdrf-tech-160324-requirements-auditing-orar.docx",
+      "pdf_url": "https://www.imdrf.org/sites/default/files/docs/imdrf/final/technical/imdrf-tech-160324-requirements-auditing-orar.pdf"
     },
     {
-      "id": "imdrf-pms-n40-2019",
+      "id": "imdrf-mdsap-n4-2013",
       "title": {
-        "en": "IMDRF PMS WG/N40 - Optimizing Postmarket Surveillance for Public Health (Tools for PMS Planning for Regulators and Industry)",
-        "zh": "IMDRF PMS WG/N40 - \u4f18\u5316\u4e0a\u5e02\u540e\u76d1\u7763\u4ee5\u4fdd\u62a4\u516c\u4f17\u5065\u5eb7"
+        "en": "Competence and Training Requirements for Auditing Organizations",
+        "zh": ""
       },
       "status": "active",
-      "source_url": "https://www.imdrf.org/documents/optimizing-postmarket-surveillance-public-health-tools-pms-planning-regulators-and-industry",
-      "effective_date": "2019-09-19",
-      "document_number": "IMDRF/PMS WG/N40 FINAL:2019"
+      "source_url": "https://www.imdrf.org/documents/competence-and-training-requirements-auditing-organizations",
+      "effective_date": "20 October 2021",
+      "document_number": "IMDRF/MDSAP WG/N4FINAL:2013",
+      "slug": "competence-and-training-requirements-auditing-organizations",
+      "docx_url": "https://www.imdrf.org/sites/default/files/2021-11/IMDRF%20MDSAP%20WG%20FD%20N4%20%28Edition%202%29_0921.docx",
+      "pdf_url": "https://www.imdrf.org/sites/default/files/2021-11/IMDRF%20MDSAP%20WG%20FD%20N4%20%28Edition%202%29_0921.pdf"
     },
     {
-      "id": "imdrf-ghtf-sg1-n71-2012",
+      "id": "imdrf-mdsap-n5",
       "title": {
-        "en": "GHTF SG1/N071 - Definition of the Terms 'Medical Device' and 'In Vitro Diagnostic (IVD) Medical Device'",
-        "zh": "GHTF SG1/N071 - '\u533b\u7597\u5668\u68b0'\u548c'\u4f53\u5916\u8bca\u65ad(IVD)\u533b\u7597\u5668\u68b0'\u672f\u8bed\u5b9a\u4e49"
+        "en": "Regulatory Authority Assessment Method for the Recognition and Monitoring of Medical Device Auditing Organizations",
+        "zh": ""
       },
       "status": "active",
-      "source_url": "https://www.imdrf.org/documents/definition-terms-medical-device-and-vitro-diagnostic-ivd-medical-device",
-      "effective_date": "2012-05-16",
-      "document_number": "GHTF/SG1/N071:2012"
+      "source_url": "https://www.imdrf.org/documents/regulatory-authority-assessment-method-recognition-and-monitoring-medical-device-auditing-organizations",
+      "effective_date": "18 December 2013",
+      "document_number": "IMDRF/MDSAP WG/N5",
+      "slug": "regulatory-authority-assessment-method-recognition-and-monitoring-medical-device-auditing-organizations",
+      "docx_url": "https://www.imdrf.org/sites/default/files/docs/mdsap/archived/technical/imdrf-tech-131209-assessment-method-140901.docx",
+      "pdf_url": "https://www.imdrf.org/sites/default/files/docs/mdsap/archived/technical/imdrf-tech-131209-assessment-method-140901.pdf"
     },
     {
-      "id": "imdrf-ghtf-sg1-n78-2012",
+      "id": "imdrf-mdsap-n6-2013",
       "title": {
-        "en": "GHTF SG1/N78 - Principles of Medical Devices Classification",
-        "zh": "GHTF SG1/N78 - \u533b\u7597\u5668\u68b0\u5206\u7c7b\u539f\u5219"
+        "en": "Regulatory Authority Assessor Competence and Training Requirements",
+        "zh": ""
       },
       "status": "active",
-      "source_url": "https://www.imdrf.org/documents/principles-medical-devices-classification",
-      "effective_date": "2012-11-02",
-      "document_number": "GHTF/SG1/N78:2012"
+      "source_url": "https://www.imdrf.org/documents/regulatory-authority-assessor-competence-and-training-requirements",
+      "effective_date": "20 October 2021",
+      "document_number": "IMDRF/MDSAP WG/N6FINAL:2013",
+      "slug": "regulatory-authority-assessor-competence-and-training-requirements",
+      "docx_url": "https://www.imdrf.org/sites/default/files/2021-11/IMDRF%20MDSAP%20WG%20FD%20N6%20%28Edition%202%29_0921.docx",
+      "pdf_url": "https://www.imdrf.org/sites/default/files/2021-11/IMDRF%20MDSAP%20WG%20FD%20N6%20%28Edition%202%29_0921.pdf"
+    },
+    {
+      "id": "imdrf-mdsap-n8",
+      "title": {
+        "en": "Guidance for Regulatory Authority Assessors on the Method of Assessment for MDSAP Auditing Organizations",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://www.imdrf.org/documents/guidance-regulatory-authority-assessors-method-assessment-mdsap-auditing-organizations",
+      "effective_date": "2 October 2015",
+      "document_number": "IMDRF/MDSAP WG/N8",
+      "slug": "guidance-regulatory-authority-assessors-method-assessment-mdsap-auditing-organizations",
+      "docx_url": "https://www.imdrf.org/sites/default/files/docs/mdsap/archived/technical/imdrf-tech-151002-mdsap-auditing-organizations.docx",
+      "pdf_url": "https://www.imdrf.org/sites/default/files/docs/mdsap/archived/technical/imdrf-tech-151002-mdsap-auditing-organizations.pdf"
+    },
+    {
+      "id": "imdrf-pmd-n49-2018",
+      "title": {
+        "en": "Definitions for Personalized Medical Devices",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://www.imdrf.org/documents/definitions-personalized-medical-devices",
+      "effective_date": "7 November 2018",
+      "document_number": "IMDRF/PMD WG/N49FINAL:2018",
+      "slug": "definitions-personalized-medical-devices",
+      "docx_url": "https://www.imdrf.org/sites/default/files/docs/imdrf/final/technical/imdrf-tech-181018-pmd-definitions-n49.docx",
+      "pdf_url": "https://iris.paho.org/bitstream/handle/10665.2/56041/OPSHSSMT220005_spa.pdf"
+    },
+    {
+      "id": "imdrf-pmd-n58-2023",
+      "title": {
+        "en": "Personalized Medical Devices - Regulatory Pathways",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://www.imdrf.org/documents/personalized-medical-devices-regulatory-pathways",
+      "effective_date": "14 September 2023",
+      "document_number": "IMDRF/PMD WG/N58 FINAL:2023 (Edition 2)",
+      "slug": "personalized-medical-devices-regulatory-pathways",
+      "docx_url": "https://www.imdrf.org/sites/default/files/2023-09/IMDRF_PMD%20WG_N58%20FINAL_2023%20%28Edition%202%29_0.docx",
+      "pdf_url": "https://www.imdrf.org/sites/default/files/2023-09/IMDRF_PMD%20WG_N58%20FINAL_2023%20%28Edition%202%29_0.pdf"
+    },
+    {
+      "id": "imdrf-pmd-n74",
+      "title": {
+        "en": "Personalized Medical Devices – Production Verification and Validation",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://www.imdrf.org/documents/personalized-medical-devices-production-verification-and-validation",
+      "effective_date": "11 April 2023",
+      "document_number": "IMDRF/PMD WG/N74",
+      "slug": "personalized-medical-devices-production-verification-and-validation",
+      "docx_url": "https://www.imdrf.org/sites/default/files/2023-04/IMDRF%20Personalised%20Medical%20Devices%20WG%20N74%20FINAL%20%202023.docx",
+      "pdf_url": "https://www.imdrf.org/sites/default/files/2023-04/IMDRF%20Personalised%20Medical%20Devices%20WG%20N74%20FINAL%20%202023.pdf"
+    },
+    {
+      "id": "imdrf-rps-n13-2024",
+      "title": {
+        "en": "In Vitro Diagnostic Medical Device Regulatory Submission Table of Contents (IVD ToC)",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://www.imdrf.org/documents/vitro-diagnostic-medical-device-regulatory-submission-table-contents-ivd-toc",
+      "effective_date": "25 June 2024",
+      "document_number": "IMDRF/RPS WG/N13 FINAL:2024 (Edition 4)",
+      "slug": "vitro-diagnostic-medical-device-regulatory-submission-table-contents-ivd-toc",
+      "docx_url": "https://www.imdrf.org/sites/default/files/2024-06/IMDRF%20N13%20%28IVD%20ToC%29%20RPS%20WG%20Ed%204%20Final%20v4.docx",
+      "pdf_url": "https://www.imdrf.org/sites/default/files/2024-06/IMDRF%20N13%20%28IVD%20ToC%29%20RPS%20WG%20Ed%204%20Final%20v4.pdf"
+    },
+    {
+      "id": "imdrf-rps-n19-2016",
+      "title": {
+        "en": "Common Data Elements for Medical Device Identification",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://www.imdrf.org/documents/common-data-elements-medical-device-identification",
+      "effective_date": "24 March 2016",
+      "document_number": "IMDRF/RPS WG/N19FINAL:2016",
+      "slug": "common-data-elements-medical-device-identification",
+      "docx_url": "https://www.imdrf.org/sites/default/files/docs/imdrf/final/technical/imdrf-tech-rps-common-data-elements.docx",
+      "pdf_url": "https://iris.paho.org/bitstream/handle/10665.2/56256/OPSHSSMT220026_spa.pdf"
+    },
+    {
+      "id": "imdrf-rps-n27-2019",
+      "title": {
+        "en": "Assembly and Technical Guide for IMDRF Table of Contents Submissions (Archived)",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://www.imdrf.org/documents/assembly-and-technical-guide-imdrf-table-contents-submissions-archived",
+      "effective_date": "20 March 2019",
+      "document_number": "IMDRF/RPS WG/N27FINAL:2019",
+      "slug": "assembly-and-technical-guide-imdrf-table-contents-submissions-archived",
+      "docx_url": "https://www.imdrf.org/sites/default/files/docs/imdrf/final/technical/imdrf-tech-190124-assembly-technical-guide-toc-submissions-n27.docx",
+      "pdf_url": "https://www.imdrf.org/sites/default/files/docs/imdrf/final/technical/imdrf-tech-190124-assembly-technical-guide-toc-submissions-n27.pdf"
+    },
+    {
+      "id": "imdrf-rps-n9-2024",
+      "title": {
+        "en": "Non-In Vitro Diagnostic Device  Regulatory Submission Table of Contents (nIVD ToC)",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://www.imdrf.org/documents/non-vitro-diagnostic-device-regulatory-submission-table-contents-nivd-toc",
+      "effective_date": "25 June 2024",
+      "document_number": "IMDRF/RPS WG/N9 Final:2024 (Edition 4)",
+      "slug": "non-vitro-diagnostic-device-regulatory-submission-table-contents-nivd-toc",
+      "docx_url": "https://www.imdrf.org/sites/default/files/2024-06/IMDRF%20N9%20%28nIVD%20ToC%29%20RPS%20WG%20Ed%204%20Final%20v4.docx",
+      "pdf_url": "https://www.imdrf.org/sites/default/files/2024-06/IMDRF%20N9%20%28nIVD%20ToC%29%20RPS%20WG%20Ed%204%20Final%20v4.pdf"
+    },
+    {
+      "id": "imdrf-samd-n10-2013",
+      "title": {
+        "en": "Software as a Medical Device (SaMD): Key Definitions",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://www.imdrf.org/documents/software-medical-device-samd-key-definitions",
+      "effective_date": "18 December 2013",
+      "document_number": "IMDRF/SaMD WG/N10FINAL:2013",
+      "slug": "software-medical-device-samd-key-definitions",
+      "docx_url": "https://www.imdrf.org/sites/default/files/docs/imdrf/final/technical/imdrf-tech-131209-samd-key-definitions-140901.docx",
+      "pdf_url": "https://iris.paho.org/bitstream/handle/10665.2/56253/OPSHSSMT220029_spa.pdf"
+    },
+    {
+      "id": "imdrf-samd-n12-2014",
+      "title": {
+        "en": "Software as a Medical Device: Possible Framework for Risk Categorization and Corresponding Considerations",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://www.imdrf.org/documents/software-medical-device-possible-framework-risk-categorization-and-corresponding-considerations",
+      "effective_date": "18 September 2014",
+      "document_number": "IMDRF/SaMD WG/N12FINAL:2014",
+      "slug": "software-medical-device-possible-framework-risk-categorization-and-corresponding-considerations",
+      "docx_url": "https://www.imdrf.org/sites/default/files/docs/imdrf/final/technical/imdrf-tech-140918-samd-framework-risk-categorization-141013.docx",
+      "pdf_url": "https://www.interamericancoalition-medtech.org/regulatory-convergence/wp-content/uploads/sites/4/2022/02/imdrf-tech-140918-samd-framework-risk-categorization-141013_ESP_Final_Version.pdf"
+    },
+    {
+      "id": "imdrf-samd-n23-2015",
+      "title": {
+        "en": "Software as a Medical Device (SaMD): Application of Quality Management System",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://www.imdrf.org/documents/software-medical-device-samd-application-quality-management-system",
+      "effective_date": "2 October 2015",
+      "document_number": "IMDRF/SaMD WG/N23FINAL:2015",
+      "slug": "software-medical-device-samd-application-quality-management-system",
+      "docx_url": "https://www.imdrf.org/sites/default/files/docs/imdrf/final/technical/imdrf-tech-151002-samd-qms.docx",
+      "pdf_url": "https://www.interamericancoalition-medtech.org/regulatory-convergence/wp-content/uploads/sites/4/2022/02/imdrf-tech-151002-samd-qms_ESP__Final_Version.pdf"
+    },
+    {
+      "id": "imdrf-samd-n41-2017",
+      "title": {
+        "en": "Software as a Medical Device (SaMD): Clinical Evaluation",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://www.imdrf.org/documents/software-medical-device-samd-clinical-evaluation",
+      "effective_date": "21 September 2017",
+      "document_number": "IMDRF/SaMD WG/N41FINAL:2017",
+      "slug": "software-medical-device-samd-clinical-evaluation",
+      "docx_url": "https://www.imdrf.org/sites/default/files/docs/imdrf/final/technical/imdrf-tech-170921-samd-n41-clinical-evaluation.docx",
+      "pdf_url": "https://www.interamericancoalition-medtech.org/regulatory-convergence/wp-content/uploads/sites/4/2022/02/imdrf-tech-170921-samd-n41-clinical-evaluation_1._ESP_Final_Version.pdf"
+    },
+    {
+      "id": "imdrf-samd-n81-2025",
+      "title": {
+        "en": "Characterization Considerations for Medical Device Software and Software-Specific Risk",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://www.imdrf.org/documents/characterization-considerations-medical-device-software-and-software-specific-risk",
+      "effective_date": "29 January 2025",
+      "document_number": "IMDRF/SaMD WG/N81 FINAL:2025",
+      "slug": "characterization-considerations-medical-device-software-and-software-specific-risk",
+      "docx_url": "https://www.imdrf.org/sites/default/files/2025-01/IMDRF_SaMD%20WG_Software-Specific%20Risk_N81%20Final_0.docx",
+      "pdf_url": "https://www.imdrf.org/sites/default/files/2025-01/IMDRF_SaMD%20WG_Software-Specific%20Risk_N81%20Final_0.pdf"
+    },
+    {
+      "id": "imdrf-standards-n51-2018",
+      "title": {
+        "en": "Optimizing Standards for Regulatory Use",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://www.imdrf.org/documents/optimizing-standards-regulatory-use",
+      "effective_date": "12 November 2018",
+      "document_number": "IMDRF/Standards WG/N51FINAL:2018",
+      "slug": "optimizing-standards-regulatory-use",
+      "docx_url": "https://www.imdrf.org/sites/default/files/docs/imdrf/final/technical/imdrf-tech-181105-optimizing-standards-n51.docx",
+      "pdf_url": "https://iris.paho.org/bitstream/handle/10665.2/56058/OPSHSSMT220006_spa.pdf"
+    },
+    {
+      "id": "imdrf-udi-n48-2019",
+      "title": {
+        "en": "Unique Device Identification system (UDI system) Application Guide",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://www.imdrf.org/documents/unique-device-identification-system-udi-system-application-guide",
+      "effective_date": "21 March 2019",
+      "document_number": "IMDRF/UDI WG/N48FINAL:2019",
+      "slug": "unique-device-identification-system-udi-system-application-guide",
+      "docx_url": "https://www.imdrf.org/sites/default/files/docs/imdrf/final/technical/imdrf-tech-190321-udi-sag.docx",
+      "pdf_url": "https://www.imdrf.org/sites/default/files/docs/imdrf/final/technical/imdrf-tech-190321-udi-sag.pdf"
+    },
+    {
+      "id": "imdrf-udi-n7-2013",
+      "title": {
+        "en": "UDI Guidance: Unique Device Identification (UDI) of Medical Devices",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://www.imdrf.org/documents/udi-guidance-unique-device-identification-udi-medical-devices",
+      "effective_date": "18 December 2013",
+      "document_number": "IMDRF/UDI WG/N7FINAL:2013",
+      "slug": "udi-guidance-unique-device-identification-udi-medical-devices",
+      "docx_url": "https://www.imdrf.org/sites/default/files/docs/imdrf/final/technical/imdrf-tech-131209-udi-guidance-140901.docx",
+      "pdf_url": "https://www.imdrf.org/sites/default/files/docs/imdrf/final/technical/imdrf-tech-131209-udi-guidance-140901.pdf"
     }
   ]
 }
