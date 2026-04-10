@@ -1,22 +1,16 @@
 ---
-id: nmpa-球囊扩张导管注册技术审查指导原则
-title:
-  zh: 球囊扩张导管注册技术审查指导原则
-  en: ''
-regulation: nmpa
-category: nmpa/guidance
-status: active
-source_url: https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/03-neural-cardiovascular/balloon-catheter-2020/
-source_url_verified: '2026-02-23'
-source_url_status: migrated
-source_format: html
-translation: original
-last_verified: '2026-02-23'
-contributor: RASAAS
-migrated_from: wordpress
-wordpress_id: 4109
-effective_date: '2025-04-19'
+title: 球囊扩张导管注册技术审查指导原则
+description: 
+published: 
 ---
+
+# 球囊扩张导管注册技术审查指导原则
+
+<!-- fulltext-start -->
+
+---
+
+## 官方文件全文
 
 # 球囊扩张导管注册技术审查指导原则
 
@@ -306,3 +300,6 @@ pH| 是
 25| 无菌| 是| /  
 26| 细菌内毒素| 是| /  
 27| 与产品配套提供的附件性能 （如有）| 是| /
+
+
+<!-- fulltext-end -->

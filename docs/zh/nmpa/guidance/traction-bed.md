@@ -1,22 +1,16 @@
 ---
-id: nmpa-牵引床注册审查指导原则
-title:
-  zh: 牵引床注册审查指导原则
-  en: ''
-regulation: nmpa
-category: nmpa/guidance
-status: active
-source_url: https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/09-physical-therapy/traction-bed/
-source_url_verified: '2026-02-23'
-source_url_status: migrated
-source_format: html
-translation: original
-last_verified: '2026-02-23'
-contributor: RASAAS
-migrated_from: wordpress
-wordpress_id: 4640
-effective_date: '2025-09-13'
+title: 牵引床注册审查指导原则
+description: 
+published: 
 ---
+
+# 牵引床注册审查指导原则
+
+<!-- fulltext-start -->
+
+---
+
+## 官方文件全文
 
 # 牵引床注册审查指导原则
 
@@ -80,21 +74,21 @@ effective_date: '2025-09-13'
 
 电动牵引床通常由控制系统（控制器和控制软件）、牵引动力系统（电机、传动机构、牵引绳）、患者固定系统（肋部固定带、髋部固定带、头颈部固定带、固定架等）和牵引床体等组成。常见产品结构示意图见图1至3。
 
-![](/images/nmpa-guidance/image.gif)
+![](/assets/images/nmpa-guidance/image.gif)
 
 图1 水平牵引的牵引床
 
-![](/images/nmpa-guidance/image-1.gif)
+![](/assets/images/nmpa-guidance/image-1.gif)
 
 图2 具有角度牵引的牵引床
 
-![](/images/nmpa-guidance/image-2.jpeg)
+![](/assets/images/nmpa-guidance/image-2.jpeg)
 
 图3 牵引绳将牵引力传递给固定带的牵引床
 
 手动牵引床产品通常由牵引动力系统（手轮、传动机构、牵引绳、牵引力指示装置）、患者固定系统（肋部固定带、髋部固定带、头颈部固定带、固定架等）和牵引床体等组成。常见产品结构示意图见图4。
 
-![](/images/nmpa-guidance/image-2.gif)
+![](/assets/images/nmpa-guidance/image-2.gif)
 
 图4 手动牵引床产品示意图
 
@@ -416,3 +410,6 @@ effective_date: '2025-09-13'
 无数据显示。| 进行了错误操作。| 患者损伤。  
 软件界面显示分辨率过低或不清晰。| 操作者错误识别显示的数据。| 延误治疗或患者伤害。  
 软件接口没有有效的保密措施。| 任何人都可以通过软件接口（如USB接口、WiFi接口等）获取存储的信息。| 患者数据泄漏。
+
+
+<!-- fulltext-end -->

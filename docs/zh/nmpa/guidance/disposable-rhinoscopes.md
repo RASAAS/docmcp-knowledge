@@ -1,22 +1,16 @@
 ---
-id: nmpa-一次性使用鼻镜注册审查指导原则
-title:
-  zh: 一次性使用鼻镜注册审查指导原则
-  en: ''
-regulation: nmpa
-category: nmpa/guidance
-status: active
-source_url: https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/07-monitoring/disposable-rhinoscopes/
-source_url_verified: '2026-02-23'
-source_url_status: migrated
-source_format: html
-translation: original
-last_verified: '2026-02-23'
-contributor: RASAAS
-migrated_from: wordpress
-wordpress_id: 4727
-effective_date: '2025-09-17'
+title: 一次性使用鼻镜注册审查指导原则
+description: 
+published: 
 ---
+
+# 一次性使用鼻镜注册审查指导原则
+
+<!-- fulltext-start -->
+
+---
+
+## 官方文件全文
 
 # 一次性使用鼻镜注册审查指导原则
 
@@ -66,7 +60,7 @@ effective_date: '2025-09-17'
 
 一次性使用鼻镜通常由左片、右片、销（螺钉）、弹簧组成，无菌提供。根据产品实际情况提供产品的结构示意图，结合结构示意图对产品的结构组成进行详尽描述。描述的内容包括结构、尺寸、材料等。
 
-![](/images/nmpa-guidance/image-18-1.png)
+![](/assets/images/nmpa-guidance/image-18-1.png)
 
 3.原材料
 
@@ -325,3 +319,6 @@ effective_date: '2025-09-17'
 [24]ASTM D4169，包装检测[S].
 
 [25]YY/T 0189 鼻镜[S]
+
+
+<!-- fulltext-end -->

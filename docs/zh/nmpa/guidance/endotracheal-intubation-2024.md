@@ -1,22 +1,16 @@
 ---
-id: nmpa-气管插管产品注册审查指导原则2024年修订版
-title:
-  zh: 气管插管产品注册审查指导原则（2024年修订版）
-  en: ''
-regulation: nmpa
-category: nmpa/guidance
-status: active
-source_url: https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/08-respiratory-anesthesia/endotracheal-intubation-2024/
-source_url_verified: '2026-02-23'
-source_url_status: migrated
-source_format: html
-translation: original
-last_verified: '2026-02-23'
-contributor: RASAAS
-migrated_from: wordpress
-wordpress_id: 4067
-effective_date: '2025-04-19'
+title: 气管插管产品注册审查指导原则（2026年修订版）
+description: 
+published: 
 ---
+
+# 气管插管产品注册审查指导原则（2026年修订版）
+
+<!-- fulltext-start -->
+
+---
+
+## 官方文件全文
 
 # 气管插管产品注册审查指导原则（2024年修订版）
 
@@ -70,11 +64,11 @@ effective_date: '2025-04-19'
 
 产品常用材料有硅橡胶、聚氯乙烯（PVC）等，可分为无套囊型和有套囊型。无套囊型产品一般由管体和接头组成。有套囊型产品一般由管体、接头、套囊、充气管、指示气囊和单向阀组成。产品常见外形结构见图1（有囊常用型气管插管）、图2（无囊常用型气管插管）。
 
-![](/images/nmpa-guidance/image-31.png)
+![](/assets/images/nmpa-guidance/image-31.png)
 
 图1 有囊常用型气管插管
 
-![](/images/nmpa-guidance/Endotracheal-intubation.jpg)
+![](/assets/images/nmpa-guidance/Endotracheal-intubation.jpg)
 
 图2 无囊常用型气管插管
 
@@ -259,3 +253,6 @@ effective_date: '2025-04-19'
 对副作用的警告不充分| 对操作人员警示不足| 患者出现过敏、刺激反应  
 对一次性使用医疗器械很可能再次使用的危险警告不适当| 重复使用  | 交叉感染  
 功能失效、老化引起的危险| 对医疗器械寿命终止缺少适当的决定| 超出有效期的产品被使用| 患者感染或产品无法满足临床使用
+
+
+<!-- fulltext-end -->

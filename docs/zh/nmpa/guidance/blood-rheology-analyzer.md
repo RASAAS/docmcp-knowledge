@@ -1,22 +1,16 @@
 ---
-id: nmpa-血流变分析仪注册审查指导原则
-title:
-  zh: 血流变分析仪注册审查指导原则
-  en: ''
-regulation: nmpa
-category: nmpa/guidance
-status: active
-source_url: https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/22-diagnosis/blood-rheology-analyzer/
-source_url_verified: '2026-02-23'
-source_url_status: migrated
-source_format: html
-translation: original
-last_verified: '2026-02-23'
-contributor: RASAAS
-migrated_from: wordpress
-wordpress_id: 4607
-effective_date: '2025-09-13'
+title: 血流变分析仪注册审查指导原则
+description: 
+published: 
 ---
+
+# 血流变分析仪注册审查指导原则
+
+<!-- fulltext-start -->
+
+---
+
+## 官方文件全文
 
 # 血流变分析仪注册审查指导原则
 
@@ -80,7 +74,7 @@ effective_date: '2025-09-13'
 
 ‌毛细管法测定原理基于泊肃叶定律，通过测量一定体积的液体流经毛细管所需的时间来计算液体的粘度。
 
-![](/images/nmpa-guidance/image-22.png)
+![](/assets/images/nmpa-guidance/image-22.png)
 
 其中，Q是流量；η是液体的粘度；P为促使液体在管中流动的压力；r为管道半径；t是流出时间；L是管道长度；V是流过的体积。
 
@@ -90,9 +84,9 @@ effective_date: '2025-09-13'
 
 旋转法测定原理基于牛顿粘性定律，即：
 
-![](/images/nmpa-guidance/image-2-2.png)
+![](/assets/images/nmpa-guidance/image-2-2.png)
 
-其中，[formula]为切应力，η为液体的粘度，[formula]为切变率。
+其中，![](blob:https://reguverse.com/0a02ae5c-f30b-4e31-a10b-ccf79877b164)为切应力，η为液体的粘度，![](blob:https://reguverse.com/06076f8e-3f15-4878-b591-6f1809712094)为切变率。
 
 ‌旋转法能够在不同切变率下测量全血的粘度，工作原理主要包括圆筒式和锥/板式。‌圆筒式‌由两个同轴圆筒组成，圆筒间隙内放入待测液体，内筒与一个弹簧游丝（悬丝）相连。一般固定内筒不动，外筒以已知角度旋转。血液分层流动把转动造成的力矩传到圆筒，这时圆筒会随之偏转一定的角度，血液粘度越大，则外筒转动传到内筒的力矩越大，内筒偏转角度也越大。通过测量液体加在内筒壁上的扭力矩，换算成液体的粘度。‌锥/板式‌由一个圆板和一个同轴圆锥组成，待测量的液体放在圆锥和圆板间隙内，一般固定圆板，圆锥旋转。通过测量液体加在圆锥上的扭力距换算成液体的粘度。
 
@@ -308,3 +302,6 @@ effective_date: '2025-09-13'
 [20]喻超,哈小琴,韩冉,丛玉隆. 锥板法检测全血黏度标准化专家共识[J]. 中国医药导报, 2023, 20(22):4-7.
 
 [21]Oguz K. Baskurt, Michel Boynard, Giles C.Cokelet, et al. New guidelines for hemorheological laboratory techniques[J]. Clinical Hemorheology and Microcirculation, 2009, 42:75-97.
+
+
+<!-- fulltext-end -->

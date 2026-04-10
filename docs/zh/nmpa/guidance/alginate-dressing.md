@@ -1,22 +1,16 @@
 ---
-id: nmpa-藻酸盐敷料注册审查指导原则
-title:
-  zh: 藻酸盐敷料注册审查指导原则
-  en: ''
-regulation: nmpa
-category: nmpa/guidance
-status: active
-source_url: https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/14-infusion-care-and-protection/alginate-dressing/
-source_url_verified: '2026-02-23'
-source_url_status: migrated
-source_format: html
-translation: original
-last_verified: '2026-02-23'
-contributor: RASAAS
-migrated_from: wordpress
-wordpress_id: 4572
-effective_date: '2025-09-12'
+title: 藻酸盐敷料注册审查指导原则
+description: 
+published: 
 ---
+
+# 藻酸盐敷料注册审查指导原则
+
+<!-- fulltext-start -->
+
+---
+
+## 官方文件全文
 
 # 藻酸盐敷料注册审查指导原则
 
@@ -285,3 +279,6 @@ effective_date: '2025-09-12'
 [17] YY/T 0471.1-2004 , 接触性创面敷料试验方法 第1部分液体吸收性[S].
 
 [18] YY/T 1293.5-2017，接触性创面敷料 第5部分：藻酸盐敷料[S].
+
+
+<!-- fulltext-end -->

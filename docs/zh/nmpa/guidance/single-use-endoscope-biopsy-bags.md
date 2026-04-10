@@ -1,22 +1,16 @@
 ---
-id: nmpa-一次性使用内窥镜用活检袋注册审查指导原则
-title:
-  zh: 一次性使用内窥镜用活检袋注册审查指导原则
-  en: ''
-regulation: nmpa
-category: nmpa/guidance
-status: active
-source_url: https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/06-imaging/single-use-endoscope-biopsy-bags/
-source_url_verified: '2026-02-23'
-source_url_status: migrated
-source_format: html
-translation: original
-last_verified: '2026-02-23'
-contributor: RASAAS
-migrated_from: wordpress
-wordpress_id: 4742
-effective_date: '2025-09-17'
+title: 一次性使用内窥镜用活检袋注册审查指导原则
+description: 
+published: 
 ---
+
+# 一次性使用内窥镜用活检袋注册审查指导原则
+
+<!-- fulltext-start -->
+
+---
+
+## 官方文件全文
 
 # 一次性使用内窥镜用活检袋注册审查指导原则
 
@@ -88,19 +82,19 @@ effective_date: '2025-09-17'
 
 1.1将活检袋通过手术通道送到体内，如图1所示。
 
-![](/images/nmpa-guidance/image-19-1.png)
+![](/assets/images/nmpa-guidance/image-19-1.png)
 
 图1 活检袋进入体内
 
 1.2然后将活检袋展开，如图2所示。
 
-![](/images/nmpa-guidance/image-20-1.png)
+![](/assets/images/nmpa-guidance/image-20-1.png)
 
 图2 展开活检袋
 
 1.3将人体组织和/或活检样本放入到活检袋中后，收紧拉绳后取出体外，如图3所示。
 
-![](/images/nmpa-guidance/image-21-1.png)
+![](/assets/images/nmpa-guidance/image-21-1.png)
 
 图3 收紧拉绳
 
@@ -116,11 +110,11 @@ effective_date: '2025-09-17'
 
 本指导原则中的图示仅为示例，实际不同厂家结构设计可能有所不同。
 
-![](/images/nmpa-guidance/image-23.png)
+![](/assets/images/nmpa-guidance/image-23.png)
 
 图4 有输送装置型活检袋示意图
 
-![](/images/nmpa-guidance/image-22-1.png)
+![](/assets/images/nmpa-guidance/image-22-1.png)
 
 图5 无输送装置型活检袋示意图
 
@@ -387,3 +381,6 @@ effective_date: '2025-09-17'
 不适当的包装（医疗器械的污染和/或变质）| 没有进行包装确认。| 不能确保产品无菌，从而导致出现细菌感染。  
 再次使用和/或不适当的再次使用| 产品标识没有明确只限一次性使用。| 出现细菌感染、交叉感染等现象。  
 性能缺陷| 活检袋从患者体内拔出时，袋子受力破裂； 产品表面粗糙、有毛刺； 产品连接部位强度不足； 拉绳的连接强度不足； 机械系统设计不当，推出装置的灵活性不足。| 操作失败、损伤患者组织、导致治疗延误。
+
+
+<!-- fulltext-end -->

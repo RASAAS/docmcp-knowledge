@@ -1,22 +1,16 @@
 ---
-id: nmpa-通气鼻贴注册审查指导原则
-title:
-  zh: 通气鼻贴注册审查指导原则
-  en: ''
-regulation: nmpa
-category: nmpa/guidance
-status: active
-source_url: https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/14-infusion-care-and-protection/ventilation-nasal-strips/
-source_url_verified: '2026-02-23'
-source_url_status: migrated
-source_format: html
-translation: original
-last_verified: '2026-02-23'
-contributor: RASAAS
-migrated_from: wordpress
-wordpress_id: 4735
-effective_date: '2025-09-17'
+title: 通气鼻贴注册审查指导原则
+description: 
+published: 
 ---
+
+# 通气鼻贴注册审查指导原则
+
+<!-- fulltext-start -->
+
+---
+
+## 官方文件全文
 
 # 通气鼻贴注册审查指导原则
 
@@ -305,3 +299,6 @@ effective_date: '2025-09-17'
 功能性| 对医疗器械寿命终止缺少适当的决定| 没有标识产品有效期| 超出有效期的产品被使用，可能会引起患者细菌感染，或因材料老化产生而导致产品性能不符合要求  
 不适当的产品包装（产品污染和／或变性）| 生产、运输、搬运和储存过程中导致包装破损；包装封口不严密；包装材料选择不适当；使用前未检查产品包装状态| 产品使用性能无法得到保证  
 再次使用和/或不适当的再次使用| 产品多次使用，未说明具体操作方法| 出现细菌感染现象
+
+
+<!-- fulltext-end -->

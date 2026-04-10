@@ -1,22 +1,16 @@
 ---
-id: nmpa-创新医疗器械特别审查申报资料编写指南
-title:
-  zh: 创新医疗器械特别审查申报资料编写指南
-  en: ''
-regulation: nmpa
-category: nmpa/guidance
-status: active
-source_url: https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/innovative-medical-devices-special-review/nmpa-notice-2018-127/
-source_url_verified: '2026-02-23'
-source_url_status: migrated
-source_format: html
-translation: original
-last_verified: '2026-02-23'
-contributor: RASAAS
-migrated_from: wordpress
-wordpress_id: 259
-effective_date: '2025-04-20'
+title: 创新医疗器械特别审查申报资料编写指南
+description: 
+published: 
 ---
+
+# 创新医疗器械特别审查申报资料编写指南
+
+<!-- fulltext-start -->
+
+---
+
+## 官方文件全文
 
 # 创新医疗器械特别审查申报资料编写指南
 
@@ -145,3 +139,6 @@ effective_date: '2025-04-20'
 （五）对于再次申请创新医疗器械特别审查的，需提供历次申请受理号及审查结果，并提交产品变化情况及申报资料完善情况说明。若有申报资料原件已在历次创新医疗器械特别审查申请时提交，可提供经申请人签章的复印件，同时申请人出具文件声明该申报资料原件所在申报资料的受理号及位置。
 
 （六）申请人申报时需同时提交申报资料的全部电子文档并提交电子版与纸质版一致性声明。电子文件应以PDF格式用U盘方式报送。
+
+
+<!-- fulltext-end -->

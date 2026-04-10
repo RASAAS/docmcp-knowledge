@@ -1,22 +1,16 @@
 ---
-id: nmpa-远程监测系统注册审查指导原则
-title:
-  zh: 远程监测系统注册审查指导原则
-  en: ''
-regulation: nmpa
-category: nmpa/guidance
-status: active
-source_url: https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/21-sw/remote-monitoring-system-2024/
-source_url_verified: '2026-02-23'
-source_url_status: migrated
-source_format: html
-translation: original
-last_verified: '2026-02-23'
-contributor: RASAAS
-migrated_from: wordpress
-wordpress_id: 4216
-effective_date: '2025-04-20'
+title: 远程监测系统注册审查指导原则
+description: 
+published: 
 ---
+
+# 远程监测系统注册审查指导原则
+
+<!-- fulltext-start -->
+
+---
+
+## 官方文件全文
 
 # 远程监测系统注册审查指导原则
 
@@ -135,7 +129,7 @@ effective_date: '2025-04-20'
 
 单机版远程监测软件指所有功能模块安装到同一台计算机，单台计算机上同时包含设备数据接收、数据处理、数据存储和数据呈现功能，如图1所示。
 
-![](/images/nmpa-guidance/image-8.jpg)
+![](/assets/images/nmpa-guidance/image-8.jpg)
 
 图1 单机版体系结构示意图
 
@@ -147,11 +141,11 @@ effective_date: '2025-04-20'
 
 方式二：浏览器/服务器架构（B/S），软件所有功能模块都安装在服务器端，服务器端功能模块通常包括数据接收、数据处理、数据存储、数据呈现，以及Web接入等，客户端使用浏览器访问服务器，在浏览器中呈现数据和接收用户输入，如图3所示。
 
-![](/images/nmpa-guidance/image-3-1.gif)
+![](/assets/images/nmpa-guidance/image-3-1.gif)
 
 图2 服务器版体系结构示意图（方式一）
 
-![](/images/nmpa-guidance/image-1-1.gif)
+![](/assets/images/nmpa-guidance/image-1-1.gif)
 
 图3 服务器版体系结构示意图（方式二）
 
@@ -165,7 +159,7 @@ effective_date: '2025-04-20'
 
 物理拓扑可以结合产品架构进行描述，物理拓扑示意图示例如下（图4）：
 
-![](/images/nmpa-guidance/image-2-1.gif)
+![](/assets/images/nmpa-guidance/image-2-1.gif)
 
 图4 物理拓扑示意图
 
@@ -945,3 +939,6 @@ IEC 60601-2-25:2011| Medical electrical equipment – Part 2-25: Particular requ
 **产品配置表******
 
 **（建议按本指导原则附录****2****编写）**
+
+
+<!-- fulltext-end -->

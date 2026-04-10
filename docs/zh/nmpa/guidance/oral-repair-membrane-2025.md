@@ -1,22 +1,16 @@
 ---
-id: nmpa-口腔修复膜注册审查指导原则
-title:
-  zh: 口腔修复膜注册审查指导原则
-  en: ''
-regulation: nmpa
-category: nmpa/guidance
-status: active
-source_url: https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/17-dentistry/oral-repair-membrane-2025/
-source_url_verified: '2026-02-23'
-source_url_status: migrated
-source_format: html
-translation: original
-last_verified: '2026-02-23'
-contributor: RASAAS
-migrated_from: wordpress
-wordpress_id: 4176
-effective_date: '2025-04-20'
+title: 口腔修复膜注册审查指导原则
+description: 
+published: 
 ---
+
+# 口腔修复膜注册审查指导原则
+
+<!-- fulltext-start -->
+
+---
+
+## 官方文件全文
 
 # 口腔修复膜注册审查指导原则
 
@@ -332,3 +326,6 @@ effective_date: '2025-04-20'
 [25] YY/T 0771.4, 动物源医疗器械 第4部分：传播性海绵状脑病（TSE）因子的去除和/或灭活及其过程确认分析的原则[S].
 
 [26] YY/T 1950, 组织工程医疗器械 丝素蛋白[S].
+
+
+<!-- fulltext-end -->

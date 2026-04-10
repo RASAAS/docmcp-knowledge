@@ -1,22 +1,16 @@
 ---
-id: nmpa-人工复苏器注册技术审查指导原则2019年第79号
-title:
-  zh: 人工复苏器注册技术审查指导原则（2019年第79号）
-  en: ''
-regulation: nmpa
-category: nmpa/guidance
-status: active
-source_url: https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/08-respiratory-anesthesia/manual-resuscitator-guidance/
-source_url_verified: '2026-02-23'
-source_url_status: migrated
-source_format: html
-translation: original
-last_verified: '2026-02-23'
-contributor: RASAAS
-migrated_from: wordpress
-wordpress_id: 88
-effective_date: '2025-04-19'
+title: 人工复苏器注册技术审查指导原则
+description: 
+published: 
 ---
+
+# 人工复苏器注册技术审查指导原则
+
+<!-- fulltext-start -->
+
+---
+
+## 官方文件全文
 
 # 人工复苏器注册技术审查指导原则（2019年第79号）
 
@@ -42,7 +36,7 @@ effective_date: '2025-04-19'
 
 人工复苏器通常由病人阀（可含限压阀）、呼吸球囊、进气阀组组成。可根据不同的使用要求配置各种相应的选配件，如面罩、氧气管、储气袋或储气管等。按照使用次数可以分为可重复使用、一次性使用产品。产品结构示意图如下：
 
-![](/images/nmpa-guidance/image-14-1.png)
+![](/assets/images/nmpa-guidance/image-14-1.png)
 
 1-病人阀 ；       2-限压阀；      3-呼吸球囊；    4-进气阀组；5-面罩（选配）；   6-氧气管（选配）；   7-储气袋（选配）
 
@@ -351,3 +345,6 @@ ISO 18562-1:2017| Biocompatibility evaluation of breathing gas pathways in healt
 （四）产品检验报告：应关注检测的典型型号是否覆盖所有性能要求，检验报告所附照片中的产品结构组成、标识标签等信息，是否与其他申报资料描述相同。
 
 （五）对说明书的审查应注意明确产品的信息，选配件应列明并表述正确。
+
+
+<!-- fulltext-end -->

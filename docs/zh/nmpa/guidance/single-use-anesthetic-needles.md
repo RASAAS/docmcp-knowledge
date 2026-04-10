@@ -1,22 +1,16 @@
 ---
-id: nmpa-一次性使用麻醉用针注册审查指导原则
-title:
-  zh: 一次性使用麻醉用针注册审查指导原则
-  en: ''
-regulation: nmpa
-category: nmpa/guidance
-status: active
-source_url: https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/08-respiratory-anesthesia/single-use-anesthetic-needles/
-source_url_verified: '2026-02-23'
-source_url_status: migrated
-source_format: html
-translation: original
-last_verified: '2026-02-23'
-contributor: RASAAS
-migrated_from: wordpress
-wordpress_id: 4840
-effective_date: '2025-10-30'
+title: 一次性使用麻醉用针注册审查指导原则
+description: 
+published: 
 ---
+
+# 一次性使用麻醉用针注册审查指导原则
+
+<!-- fulltext-start -->
+
+---
+
+## 官方文件全文
 
 # 一次性使用麻醉用针注册审查指导原则
 
@@ -296,3 +290,6 @@ effective_date: '2025-10-30'
 （四）灭菌过程可能产生的危险：| 灭菌方式对产品不适宜，灭菌不完全等  
 （五）不正确使用产生的危险：| 未按照说明书中操作方法操作的使用风险等  
 （六）产品包装可能产生的危险：| 包装破损、标识不清等
+
+
+<!-- fulltext-end -->

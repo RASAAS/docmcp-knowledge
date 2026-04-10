@@ -1,22 +1,16 @@
 ---
-id: nmpa-口腔种植手术导航定位系统同品种临床评价注册审查指导原则
-title:
-  zh: 口腔种植手术导航定位系统同品种临床评价注册审查指导原则
-  en: ''
-regulation: nmpa
-category: nmpa/guidance
-status: active
-source_url: https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/01-active-surgical/oral-implant-surgery-navigation-and-positioning-system-cer-2021/
-source_url_verified: '2026-02-23'
-source_url_status: migrated
-source_format: html
-translation: original
-last_verified: '2026-02-23'
-contributor: RASAAS
-migrated_from: wordpress
-wordpress_id: 4207
-effective_date: '2025-04-20'
+title: 口腔种植手术导航定位系统同品种临床评价注册审查指导原则
+description: 
+published: 
 ---
+
+# 口腔种植手术导航定位系统同品种临床评价注册审查指导原则
+
+<!-- fulltext-start -->
+
+---
+
+## 官方文件全文
 
 # 口腔种植手术导航定位系统同品种临床评价注册审查指导原则
 
@@ -178,7 +172,7 @@ effective_date: '2025-04-20'
 
 种植体植入精度具体参数定义可参考图1或其他临床公认的方式确定。图1所示的左侧为种植体术前计划位置，右侧为种植体实际植入位置，根据两组位置的植入点和根尖点的空间坐标即可求得种植体植入点的总误差、深度误差、横向误差，种植体根尖点的总误差、深度误差、横向误差，以及种植体的角度误差。
 
-![](/images/nmpa-guidance/dental-implant.jpg)
+![](/assets/images/nmpa-guidance/dental-implant.jpg)
 
 图1 种植体植入精度具体参数定义
 
@@ -207,3 +201,6 @@ effective_date: '2025-04-20'
 ### 试验人员
 
 需明确试验人员以及审核人员，并在报告中签名。给出试验日期和审核日期。建议由具有相关资质的口腔医生进行试验。
+
+
+<!-- fulltext-end -->

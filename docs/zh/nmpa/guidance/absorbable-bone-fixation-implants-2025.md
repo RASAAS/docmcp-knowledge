@@ -1,22 +1,16 @@
 ---
-id: nmpa-可吸收骨内固定植入物注册审查指导原则
-title:
-  zh: 可吸收骨内固定植入物注册审查指导原则
-  en: ''
-regulation: nmpa
-category: nmpa/guidance
-status: active
-source_url: https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/13-implants/absorbable-bone-fixation-implants-2025/
-source_url_verified: '2026-02-23'
-source_url_status: migrated
-source_format: html
-translation: original
-last_verified: '2026-02-23'
-contributor: RASAAS
-migrated_from: wordpress
-wordpress_id: 4172
-effective_date: '2025-04-20'
+title: 可吸收骨内固定植入物注册审查指导原则
+description: 
+published: 
 ---
+
+# 可吸收骨内固定植入物注册审查指导原则
+
+<!-- fulltext-start -->
+
+---
+
+## 官方文件全文
 
 # 可吸收骨内固定植入物注册审查指导原则
 
@@ -348,7 +342,7 @@ effective_date: '2025-04-20'
 
 ### （四）临床评价资料
 
-可吸收骨内固定植入物产品未列入《免于临床评价医疗器械目录》，可按照《医疗器械临床评价技术指导原则》《<医疗器械分类目录>子目录13“无源医疗器械”相关产品临床评价产品推荐路径》具体要求提交临床评价资料。需注意，如产品符合《需进行临床试验审批的第三类医疗器械目录（2020年修订版）》中“可吸收四肢长骨内固定植入器械”情形，需经临床试验批准后方可开展临床试验。
+可吸收骨内固定植入物产品未列入《免于临床评价医疗器械目录》，可按照《医疗器械临床评价技术指导原则》《&lt;医疗器械分类目录&gt;子目录13“无源医疗器械”相关产品临床评价产品推荐路径》具体要求提交临床评价资料。需注意，如产品符合《需进行临床试验审批的第三类医疗器械目录（2020年修订版）》中“可吸收四肢长骨内固定植入器械”情形，需经临床试验批准后方可开展临床试验。
 
 1.同品种临床评价
 
@@ -467,3 +461,6 @@ effective_date: '2025-04-20'
 [47]陈学思著.可降解医用高分子材料[M].科学出版社.
 
 [58]李顶新等编著,朱文利等译.聚乳酸实用指南（加工、制备及应用）（原著第二版）[M].化学工业出版社.
+
+
+<!-- fulltext-end -->

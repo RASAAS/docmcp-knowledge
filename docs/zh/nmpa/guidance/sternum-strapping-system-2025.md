@@ -1,22 +1,16 @@
 ---
-id: nmpa-胸骨捆扎固定系统注册审查指导原则
-title:
-  zh: 胸骨捆扎固定系统注册审查指导原则
-  en: ''
-regulation: nmpa
-category: nmpa/guidance
-status: active
-source_url: https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/13-implants/sternum-strapping-system-2025/
-source_url_verified: '2026-02-23'
-source_url_status: migrated
-source_format: html
-translation: original
-last_verified: '2026-02-23'
-contributor: RASAAS
-migrated_from: wordpress
-wordpress_id: 4189
-effective_date: '2025-04-20'
+title: 胸骨捆扎固定系统注册审查指导原则
+description: 
+published: 
 ---
+
+# 胸骨捆扎固定系统注册审查指导原则
+
+<!-- fulltext-start -->
+
+---
+
+## 官方文件全文
 
 # 胸骨捆扎固定系统注册审查指导原则
 
@@ -365,3 +359,6 @@ effective_date: '2025-04-20'
 [34]YY 0341.1,无源外科植入物 骨接合与脊柱植入物 第1部分：骨接合植入物特殊要求
 
 [35]ISO 19227,外科植入物的清洁度 通用要求[S].
+
+
+<!-- fulltext-end -->

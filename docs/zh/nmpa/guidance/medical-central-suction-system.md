@@ -1,22 +1,16 @@
 ---
-id: nmpa-医用中心吸引系统注册审查指导原则
-title:
-  zh: 医用中心吸引系统注册审查指导原则
-  en: ''
-regulation: nmpa
-category: nmpa/guidance
-status: active
-source_url: https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/14-infusion-care-and-protection/medical-central-suction-system/
-source_url_verified: '2026-02-23'
-source_url_status: migrated
-source_format: html
-translation: original
-last_verified: '2026-02-23'
-contributor: RASAAS
-migrated_from: wordpress
-wordpress_id: 4634
-effective_date: '2025-09-13'
+title: 医用中心吸引系统注册审查指导原则
+description: 
+published: 
 ---
+
+# 医用中心吸引系统注册审查指导原则
+
+<!-- fulltext-start -->
+
+---
+
+## 官方文件全文
 
 # 医用中心吸引系统注册审查指导原则
 
@@ -427,3 +421,6 @@ e.当断开“快速接头”时，由于压力突然释放引起的潜在伤害
 未能适当的进行安全信息提供| 操作不当，产生安全问题| 造成人员损伤等事故,严重时死亡  
 液晶屏显示监测信息，信息显示不清| 监测测量不准| 延误对患者的治疗或造成严重损伤  
 不正确的 指示| 真空表及二次仪表指示失真或者损坏| 出现压力输出偏差，导致输出过高或过低的真空压力
+
+
+<!-- fulltext-end -->

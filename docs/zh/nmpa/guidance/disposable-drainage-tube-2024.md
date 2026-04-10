@@ -1,22 +1,16 @@
 ---
-id: nmpa-一次性使用引流管产品注册审查指导原则2024年修订版
-title:
-  zh: 一次性使用引流管产品注册审查指导原则（2024年修订版）
-  en: ''
-regulation: nmpa
-category: nmpa/guidance
-status: active
-source_url: https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/14-infusion-care-and-protection/disposable-drainage-tube-2024/
-source_url_verified: '2026-02-23'
-source_url_status: migrated
-source_format: html
-translation: original
-last_verified: '2026-02-23'
-contributor: RASAAS
-migrated_from: wordpress
-wordpress_id: 4043
-effective_date: '2025-04-19'
+title: 一次性使用引流管产品注册审查指导原则（2024年修订版）
+description: 
+published: 
 ---
+
+# 一次性使用引流管产品注册审查指导原则（2024年修订版）
+
+<!-- fulltext-start -->
+
+---
+
+## 官方文件全文
 
 # 一次性使用引流管产品注册审查指导原则（2024年修订版）
 
@@ -84,13 +78,13 @@ effective_date: '2025-04-19'
 
 一次性使用引流管通常由管体和接头组成，有的根据需要会配有穿透针、负压球（或预置负压装置）。管体远端（病人端）可带有一个或数个侧孔，病人端也可以是“T”形、“蘑菇头”形、Y型或潘氏型（管腔内设计有数条纵向突起的脊）等。产品所用材料有天然乳胶、硅橡胶、TPU[热塑性聚氨酯弹性体(Thermoplasticpolyurethane)]和PVC（聚氯乙烯）等。典型产品外形结构见图1。
 
-![](/images/nmpa-guidance/1.jpg)
+![](/assets/images/nmpa-guidance/1.jpg)
 
-![](/images/nmpa-guidance/2.jpg)
+![](/assets/images/nmpa-guidance/2.jpg)
 
-![](/images/nmpa-guidance/image-13-3.png)
+![](/assets/images/nmpa-guidance/image-13-3.png)
 
-![](/images/nmpa-guidance/image-1-3.png)
+![](/assets/images/nmpa-guidance/image-1-3.png)
 
 图1 引流管种类举例
 
@@ -397,3 +391,6 @@ effective_date: '2025-04-19'
 再次使用和/或不适当的再次使用| 产品标识没有明确只限一次性使用| 出现细菌感染、交叉感染、以及粘膜损伤、气囊破裂等现象  
   
 ###
+
+
+<!-- fulltext-end -->

@@ -1,22 +1,16 @@
 ---
-id: nmpa-内窥镜手术用剪注册审查指导原则
-title:
-  zh: 内窥镜手术用剪注册审查指导原则
-  en: ''
-regulation: nmpa
-category: nmpa/guidance
-status: active
-source_url: https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/02-non-active-surgical/scissors-for-endoscopic-surgery/
-source_url_verified: '2026-02-23'
-source_url_status: migrated
-source_format: html
-translation: original
-last_verified: '2026-02-23'
-contributor: RASAAS
-migrated_from: wordpress
-wordpress_id: 4696
-effective_date: '2025-09-17'
+title: 内窥镜手术用剪注册审查指导原则
+description: 
+published: 
 ---
+
+# 内窥镜手术用剪注册审查指导原则
+
+<!-- fulltext-start -->
+
+---
+
+## 官方文件全文
 
 # 内窥镜手术用剪注册审查指导原则
 
@@ -104,29 +98,29 @@ effective_date: '2025-09-17'
 
 该产品通常由头部、杆部或软性导管、转轮（若有）、冲洗口（若有）和手柄组成，头部为一对带刃口的刀片，通过手柄操作传递、控制头部工作。一般头部采用不锈钢材料制成。
 
-![](/images/nmpa-guidance/屏幕截图-2025-09-17-192723.png)
+![](/assets/images/nmpa-guidance/屏幕截图-2025-09-17-192723.png)
 
 图1 内窥镜手术用剪结构组成示例
 
 无源内窥镜用剪典型产品的外形结构图如下：
 
-![](/images/nmpa-guidance/屏幕截图-2025-09-17-192747.png)
+![](/assets/images/nmpa-guidance/屏幕截图-2025-09-17-192747.png)
 
 图2 鼻窦镜手术剪示意图
 
-![](/images/nmpa-guidance/image-12-1.png)
+![](/assets/images/nmpa-guidance/image-12-1.png)
 
 图3 腹腔镜手术剪示意图
 
-![](/images/nmpa-guidance/image-13-1.png)
+![](/assets/images/nmpa-guidance/image-13-1.png)
 
 图4 膀胱镜手术剪示意图
 
-![](/images/nmpa-guidance/image-14.png)
+![](/assets/images/nmpa-guidance/image-14.png)
 
 图5 电子膀胱镜手术剪示意图
 
-![](/images/nmpa-guidance/image-15.png)
+![](/assets/images/nmpa-guidance/image-15.png)
 
 图6 刀头示意图
 
@@ -427,3 +421,6 @@ effective_date: '2025-09-17'
 不适当的包装（医疗器械的污染和/或变质）| 没有进行包装确认。| 不能确保产品无菌，从而导致出现细菌感染。  
 再次使用和/或不适当的再次使用| 产品标识没有明确只限一次性使用。| 出现细菌感染、交叉感染以及粘膜损伤等现象。  
 性能缺陷| 剪切不锋利，造成对组织的二次剪切；产品表面粗糙、有毛刺；产品连接部位强度不足，有零部件掉落，断裂； 机械系统设计不当，剪切力不畅滑，剪切过程中卡滞。 材料选择不当，重复使用后生锈。材料硬度热处理不当，造成剪刀刃口崩裂，断裂脱落。| 操作失败、损伤患者组织、导致治疗延误。
+
+
+<!-- fulltext-end -->

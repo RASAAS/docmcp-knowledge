@@ -1,22 +1,16 @@
 ---
-id: nmpa-医用雾化器注册审查指导原则2024修订版
-title:
-  zh: 医用雾化器注册审查指导原则（2024修订版）
-  en: ''
-regulation: nmpa
-category: nmpa/guidance
-status: active
-source_url: https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/08-respiratory-anesthesia/medical-nebulizer-2024/
-source_url_verified: '2026-02-23'
-source_url_status: migrated
-source_format: html
-translation: original
-last_verified: '2026-02-23'
-contributor: RASAAS
-migrated_from: wordpress
-wordpress_id: 4052
-effective_date: '2025-04-19'
+title: 医用雾化器注册审查指导原则（2024修订版）
+description: 
+published: 
 ---
+
+# 医用雾化器注册审查指导原则（2024修订版）
+
+<!-- fulltext-start -->
+
+---
+
+## 官方文件全文
 
 # 医用雾化器注册审查指导原则（2024修订版）
 
@@ -78,13 +72,13 @@ effective_date: '2025-04-19'
 
 医用超声雾化器产品实例如图1所示。
 
-![](/images/nmpa-guidance/image-3.jpg)
+![](/assets/images/nmpa-guidance/image-3.jpg)
 
 图1 医用超声雾化器产品示例
 
 医用压缩式雾化器产品实例如图2所示。
 
-![](/images/nmpa-guidance/image-2-1.jpg)
+![](/assets/images/nmpa-guidance/image-2-1.jpg)
 
 图2 医用压缩式雾化器产品示例
 
@@ -96,11 +90,11 @@ effective_date: '2025-04-19'
 
 超声雾化器由超声波发生器产生的高频电流经过安装在雾化缸里的超声换能器使其将高频电流转换为相同频率的声波，由换能器产生的超声波通过雾化缸中的耦合作用，通过雾化杯底部的超声薄膜，从而使超声波直接作用于雾化杯中的液体。当超声波从杯底经传导到达药液表面时，液—气分界面即药液与空气交界处，在受到垂直于分界面的超声波的作用后（即能量作用），使药液表面形成张力波，随着表面张力波能量的增强，当表面张力波能量达到一定值时，在药液表面的张力波波峰也同时增大，使其波峰处的液体雾粒飞出（雾粒直径的大小随超声波的频率增大而缩小）。由于超声波产生的雾粒具有尺寸均一，动量极小，故容易随气流行走，药液产生雾粒的数量随超声波能量的增加而增多（即超声波的功率越大，则产生的雾粒的数量越多）。在医用超声雾化器将药液分裂成微粒后，再由送风装置产生的气流作用而生成药雾，药雾经连接管输送给患者，如图3、图4所示。
 
-![](/images/nmpa-guidance/image-3.gif)
+![](/assets/images/nmpa-guidance/image-3.gif)
 
 图3 医用超声雾化器雾化装置示例图
 
-![](/images/nmpa-guidance/image-3-1.jpg)
+![](/assets/images/nmpa-guidance/image-3-1.jpg)
 
 图4 医用超声雾化器工作原理示意图
 
@@ -108,15 +102,15 @@ effective_date: '2025-04-19'
 
 医用压缩式雾化器应用的是文丘里效应原理，一般是通过气体压缩机产生的压缩气体为驱动源来产生及传输气雾的，其工作原理示意图如图5所示，其中的雾化装置工作原理示例如图6所示：压缩机产生的压缩空气从喷嘴喷出时，通过喷嘴与吸水管之间产生的负压作用，向上吸起药液。吸上来的药液冲击到上方的隔片，变成极细的雾状向外部喷出，如图7所示。
 
-![](/images/nmpa-guidance/image-5.jpg)
+![](/assets/images/nmpa-guidance/image-5.jpg)
 
 图5 医用压缩式雾化器工作原理示意图
 
-![](/images/nmpa-guidance/image-1-1.jpg)
+![](/assets/images/nmpa-guidance/image-1-1.jpg)
 
 图6 医用压缩式雾化器工作原理示例图
 
-![](/images/nmpa-guidance/image-4.jpg)
+![](/assets/images/nmpa-guidance/image-4.jpg)
 
 图7 医用压缩式雾化器雾化装置图示例
 
@@ -480,3 +474,6 @@ effective_date: '2025-04-19'
 功能性失效和老化引起的危害| 对医疗器械寿命终止缺少适当的决定| 没有标识产品有效期。| 超出有效期的产品被使用，造成细菌感染或因材料老化产生而导致产品性能不符合要求（如输氧管破损、连接松动等）。  
 不适当的包装（医疗器械的污染和/或变质）| 没有进行包装确认。| 不能确保产品无菌，从而导致出现细菌感染。  
 再次使用和/或不适当的再次使用| 产品标识没有明确。| 出现细菌感染、交叉感染、管路老化破损。
+
+
+<!-- fulltext-end -->

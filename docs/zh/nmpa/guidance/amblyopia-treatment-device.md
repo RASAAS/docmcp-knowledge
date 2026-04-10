@@ -1,22 +1,16 @@
 ---
-id: nmpa-弱视治疗设备光源不直接照射眼底注册审查指导原则
-title:
-  zh: 弱视治疗设备（光源不直接照射眼底）注册审查指导原则
-  en: ''
-regulation: nmpa
-category: nmpa/guidance
-status: active
-source_url: https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/16-ophthalmology/amblyopia-treatment-device/
-source_url_verified: '2026-02-23'
-source_url_status: migrated
-source_format: html
-translation: original
-last_verified: '2026-02-23'
-contributor: RASAAS
-migrated_from: wordpress
-wordpress_id: 4627
-effective_date: '2025-09-13'
+title: 弱视治疗设备（光源不直接照射眼底）注册审查指导原则
+description: 
+published: 
 ---
+
+# 弱视治疗设备（光源不直接照射眼底）注册审查指导原则
+
+<!-- fulltext-start -->
+
+---
+
+## 官方文件全文
 
 # 弱视治疗设备（光源不直接照射眼底）注册审查指导原则
 
@@ -74,7 +68,7 @@ effective_date: '2025-09-13'
 
 申请人应当明确申报产品的结构和组成。弱视治疗设备（光源不直接照射眼底）通常设备由主机、光学观察系统（一系列球镜片、棱镜片、辅助镜片等及各种调整部件构成）或屏显系统、光源系统、弱视训练软件、充电线或电源适配器等组成。根据工作原理的不同，部分产品包含分视工具（红绿镜片、Z形板、双孔挡板等）、引导注视物（如画片、视标、图案）等。若产品含有多个组成部分，应说明其连接或组装关系。如主机与视标显示屏幕之间的通讯介质形式（蓝牙、WIFI等）。产品典型结构示意图见图1。
 
-![](/images/nmpa-guidance/image-8-2.png)
+![](/assets/images/nmpa-guidance/image-8-2.png)
 
 图1 视觉训练设备（光源不直接照射眼底）典型结构示意图
 
@@ -385,3 +379,6 @@ effective_date: '2025-09-13'
 （1）以物象为引导注视内容，通过光学系统或分视工具观察物象变化以实现眼部的调节、融合等刺激提升视觉功能。以及有光源的背景刺激（如光刷、红闪画片、光栅画片等）刺激视网膜相关感光细胞提高其敏感性以及内视现象（光刷）和周边视网膜抑制（后像镜），实现弱视的治疗。
 
 （2）设备运用双眼合像和自动调焦的原理，以物象为引导视标，利用双眼分视两个相同画面（仿立体）或像差画面（全息立体），模拟双眼立体成像过程，让双眼跟随画面中的物象做往复运动，改善双眼调节功能、双眼视功能，实现弱视的治疗。
+
+
+<!-- fulltext-end -->

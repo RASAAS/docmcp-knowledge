@@ -1,22 +1,16 @@
 ---
-id: nmpa-重组人源化胶原蛋白原材料评价指导原则
-title:
-  zh: 重组人源化胶原蛋白原材料评价指导原则
-  en: ''
-regulation: nmpa
-category: nmpa/guidance
-status: active
-source_url: https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/general-and-others/recombinant-humanized-collagen-raw-materials-2023/
-source_url_verified: '2026-02-23'
-source_url_status: migrated
-source_format: html
-translation: original
-last_verified: '2026-02-23'
-contributor: RASAAS
-migrated_from: wordpress
-wordpress_id: 4145
-effective_date: '2025-04-20'
+title: 重组人源化胶原蛋白原材料评价指导原则
+description: 
+published: 
 ---
+
+# 重组人源化胶原蛋白原材料评价指导原则
+
+<!-- fulltext-start -->
+
+---
+
+## 官方文件全文
 
 # 重组人源化胶原蛋白原材料评价指导原则
 
@@ -486,7 +480,7 @@ Gräslund Susanne, Nordlund Pär, Weigelt Johan, et al. Protein production and p
 
 工程细胞的构建一般包括基因获得、质粒构建和表达体系构建三个阶段。举例如图1。
 
-![](/images/nmpa-guidance/image-40.png)
+![](/assets/images/nmpa-guidance/image-40.png)
 
 图1 工程细胞构建一般流程
 
@@ -524,9 +518,9 @@ DNA质量| 紫外分光光度扫描| OD260/280=1.8~2.0
 
 需详述表达载体构建或改建的过程，对构建成功的表达载体需进行必要的鉴定，并提供相关试验资料如构建中所用位点的酶切图谱等。根据设计的重组人源化胶原蛋白氨基酸导入宿主细胞的不同，选择合适的质粒以满足目标克隆的构建，并提供质粒的完整序列信息。举例如下：
 
-![](/images/nmpa-guidance/image-41.png)
+![](/assets/images/nmpa-guidance/image-41.png)
 
-![](/images/nmpa-guidance/image-42.png)
+![](/assets/images/nmpa-guidance/image-42.png)
 
    图2 完整的质粒信息示例
 
@@ -807,3 +801,6 @@ DNA质量| 紫外分光光度扫描| OD260/280=1.8~2.0
 3.生产原辅料要求
 
 原辅料需按照国家药品监督管理局有关规定执行。动物源性原料的使用需提供来源及质控检测资料；发酵用培养基若添加β内酰胺类抗生素，最终材料成品中不得检出。
+
+
+<!-- fulltext-end -->

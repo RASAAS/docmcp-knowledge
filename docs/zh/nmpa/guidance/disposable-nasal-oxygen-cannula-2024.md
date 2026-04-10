@@ -1,22 +1,16 @@
 ---
-id: nmpa-一次性使用鼻氧管注册审查指导原则2024年修订
-title:
-  zh: 一次性使用鼻氧管注册审查指导原则（2024年修订）
-  en: ''
-regulation: nmpa
-category: nmpa/guidance
-status: active
-source_url: https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/08-respiratory-anesthesia/disposable-nasal-oxygen-cannula-2024/
-source_url_verified: '2026-02-23'
-source_url_status: migrated
-source_format: html
-translation: original
-last_verified: '2026-02-23'
-contributor: RASAAS
-migrated_from: wordpress
-wordpress_id: 4075
-effective_date: '2025-04-19'
+title: 一次性使用鼻氧管注册审查指导原则（2024年修订）
+description: 
+published: 
 ---
+
+# 一次性使用鼻氧管注册审查指导原则（2024年修订）
+
+<!-- fulltext-start -->
+
+---
+
+## 官方文件全文
 
 # 一次性使用鼻氧管注册审查指导原则（2024年修订）
 
@@ -64,15 +58,15 @@ effective_date: '2025-04-19'
 
 产品可由进氧接口、氧气软管、调节环、鼻塞（或面罩）及氧气湿化装置等组成。
 
-![](/images/nmpa-guidance/image-38-1.png)
+![](/assets/images/nmpa-guidance/image-38-1.png)
 
 **图****1**
 
-![](/images/nmpa-guidance/image-37-1.png)
+![](/assets/images/nmpa-guidance/image-37-1.png)
 
 **图****2**
 
-![](/images/nmpa-guidance/image-39-1.png)
+![](/assets/images/nmpa-guidance/image-39-1.png)
 
 **图****3**
 
@@ -322,3 +316,6 @@ effective_date: '2025-04-19'
 对医疗器械寿命终止缺少适当的决定| 没有标识产品有效期| 超出有效期的产品被使用，造成细菌感染或因材料老化产生而导致产品性能不符合要求（如输氧管破损、连接松动等）  
 不适当的包装（医疗器械的污染和/或变质）| 没有进行包装确认| 不能确保产品无菌，从而导致出现细菌感染  
 再次使用和/或不适当的再次使用| 产品标识没有明确| 出现细菌感染、交叉感染、管路老化破损
+
+
+<!-- fulltext-end -->

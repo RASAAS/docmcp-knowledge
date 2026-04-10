@@ -1,22 +1,16 @@
 ---
-id: nmpa-预充式导管冲洗器注册审查指导原则
-title:
-  zh: 预充式导管冲洗器注册审查指导原则
-  en: ''
-regulation: nmpa
-category: nmpa/guidance
-status: active
-source_url: https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/14-infusion-care-and-protection/prefilled-catheter-flusher/
-source_url_verified: '2026-02-23'
-source_url_status: migrated
-source_format: html
-translation: original
-last_verified: '2026-02-23'
-contributor: RASAAS
-migrated_from: wordpress
-wordpress_id: 4578
-effective_date: '2025-09-12'
+title: 预充式导管冲洗器注册审查指导原则
+description: 
+published: 
 ---
+
+# 预充式导管冲洗器注册审查指导原则
+
+<!-- fulltext-start -->
+
+---
+
+## 官方文件全文
 
 # 预充式导管冲洗器注册审查指导原则
 
@@ -295,3 +289,6 @@ effective_date: '2025-09-12'
 [19] GB/T 42062，医疗器械 风险管理对医疗器械的应用[S].
 
 [20]原国家食品药品监督管理总局.医疗器械注册单元划分指导原则的通告：国家食品药品监督管理总局通告2017年第187号[Z].
+
+
+<!-- fulltext-end -->

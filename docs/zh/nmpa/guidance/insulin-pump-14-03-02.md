@@ -1,22 +1,16 @@
 ---
-id: nmpa-胰岛素泵注册审查指导原则2023年第26号
-title:
-  zh: 胰岛素泵注册审查指导原则（2023年第26号）
-  en: ''
-regulation: nmpa
-category: nmpa/guidance
-status: active
-source_url: https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/14-infusion-care-and-protection/insulin-pump-14-03-02/
-source_url_verified: '2026-02-23'
-source_url_status: migrated
-source_format: html
-translation: original
-last_verified: '2026-02-23'
-contributor: RASAAS
-migrated_from: wordpress
-wordpress_id: 3808
-effective_date: '2025-04-19'
+title: 胰岛素泵注册审查指导原则
+description: 
+published: 
 ---
+
+# 胰岛素泵注册审查指导原则
+
+<!-- fulltext-start -->
+
+---
+
+## 官方文件全文
 
 # 胰岛素泵注册审查指导原则（2023年第26号）
 
@@ -492,3 +486,6 @@ YY 9706.102| 医用电气设备 第1-2部分：基本安全和基本性能的通
 YY 9706.111| 医用电气设备 第1-11部分：基本安全和基本性能的通用要求 并列标准：在家庭护理环境中使用的医用电气设备和医用电气系统的要求  
 YY 9706.108| 医用电气设备 第1-8部分：基本安全和基本性能的通用要求  并列标准：通用要求，医用电气设备和医用电气系统中报警系统的测试和指南  
 YY/T 9706.110| 医用电气设备 第1-10部分：基本安全和基本性能的通用要求 并列标准：生理闭环控制器开发要求
+
+
+<!-- fulltext-end -->
