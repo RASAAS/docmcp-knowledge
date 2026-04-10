@@ -69,14 +69,15 @@ title: Changelog
 
 .changelog-hero {
   text-align: center;
-  margin-bottom: 2.5rem;
-  padding: 1.5rem 0;
+  margin-bottom: 3rem;
+  padding: 2rem 0;
 }
 
 .changelog-hero h1 {
   font-size: 2.5rem;
   font-weight: 700;
-  margin-bottom: 0.5rem;
+  line-height: 1.3;
+  margin-bottom: 0.75rem;
   background: linear-gradient(135deg, var(--vp-c-brand-1), var(--vp-c-brand-2));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
