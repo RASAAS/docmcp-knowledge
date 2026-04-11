@@ -20,453 +20,499 @@ published: 2016-12-28
 
 ## 官方文件全文
 
-# Postmarket Management of Cybersecurity in Medical Devices
+# 医疗器械的上市后网络安全管理
 
-**Source:** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/postmarket-management-cybersecurity-medical-devices](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/postmarket-management-cybersecurity-medical-devices)
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/postmarket-management-cybersecurity-medical-devices](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/postmarket-management-cybersecurity-medical-devices)
 
-**Published:** 2016-12-28
-
+**发布日期：** 2016-12-28
 
 ---
 
-This guidance represents the current thinking of the Food and Drug Administration (FDA or
-Agency) on this topic.  It does not establish any rights for any person and is not binding on
-FDA or the public.  You can use an alternative approach if it satisfies the requirements of the applicable statutes and regulations.  To discuss an alternative approach, contact the FDA staff or Office responsible for this guidance as listed on the title page.
-## I. Introduction
-The Food and Drug Administration (FDA) is issuing this guidance to inform industry and FDA
-staff of the Agency’s recommendations for managing postmarket cybersecurity vulnerabilities for marketed and distributed medical devices. In addition to the specific recommendations contained in this guidance, manufacturers are encouraged to address cybersecurity throughout the product lifecycle, including during the design, development, production, distribution, deployment and maintenance of the device1. A growing number of medical devices are designed to be networked to facilitate patient care. Networked medical devices, like other networked computer systems, incorporate software that may be vulnerable to cybersecurity threats. The exploitation of vulnerabilities may represent a risk to health and typically requires continual maintenance throughout the product life cycle to assure an adequate degree of protection against such exploits.
-Proactively addressing cybersecurity risks in medical devices reduces the overall risk to health.
+本指南代表美国食品药品监督管理局（FDA或机构）对该主题的当前观点。它不赋予任何个人任何权利，并且不适用于FDA或公众。如果您采用替代方法，只要它符合相关法律和法规的要求，就可以使用。要讨论替代方法，请联系负责本指南的FDA工作人员或办公室，如标题页上所示。
 
-This guidance clarifies FDA’s postmarket recommendations and emphasizes that manufacturers should monitor, identify, and address cybersecurity vulnerabilities and exploits as part of their postmarket management of medical devices. This guidance establishes a risk-based framework for assessing when changes to medical devices for cybersecurity vulnerabilities require reporting to the Agency and outlines circumstances in which FDA does not intend to enforce reporting requirements under 21 CFR part 806.  21 CFR part 806 requires device manufacturers or importers to report promptly to FDA certain actions concerning device corrections and removals.
-However, the majority of actions taken by manufacturers to address cybersecurity vulnerabilities and exploits, referred to as “cybersecurity routine updates and patches,” are generally considered
+## I. 简介
 
-Devices” (http://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/UCM356190)
+美国食品药品监督管理局（FDA）发布此指南，旨在向行业和FDA工作人员告知，该机构对管理上市后的医疗器械网络安全漏洞的建议。除了本指南中包含的具体建议外，制造商应在产品生命周期的各个阶段（包括设计、开发、生产、分销、部署和维护）中，主动考虑网络安全1。 越来越多的医疗器械设计为联网，以促进患者护理。 与其他联网计算机系统一样，联网的医疗器械包含可能容易受到网络安全威胁的软件。 漏洞的利用可能对健康构成风险，通常需要在产品生命周期的整个过程中进行持续维护，以确保充分的保护。
+主动应对医疗器械的网络安全风险，可以降低整体的健康风险。
 
-## D. Cybersecurity Signal
-A cybersecurity signal is any information which indicates the potential for, or confirmation of, a cybersecurity vulnerability or exploit that affects, or could affect a medical device. A
-cybersecurity signal could originate from traditional information sources such as internal investigations, postmarket surveillance, or complaints, and/or security-centric sources such as
-CERTS (Computer/Cyber, Emergency Response/Readiness Teams), such as ICS-CERT
-13,
-ISAOs14, threat indicators, and security researchers. Signals may be identified within the HPH
-Sector. They may also originate in another critical infrastructure sector (e.g., defense, financial)
-but have the potential to impact medical device cybersecurity.
-### E. Exploit
-An exploit is an instance where a vulnerability or vulnerabilities have been exercised (accidently or intentionally) by a threat and could impact the safety or essential performance of a medical device or use a medical device as a vector to compromise a connected device or system.
-### F. Patient Harm
-Harm15 is the physical injury or damage to the health of people, or damage to property or the environment. Patient harm is defined as physical injury or damage to the health of patients, including death. Risks to health posed by the device may result in patient harm. This guidance outlines the assessment of whether the risk16 of patient harm is sufficiently controlled or uncontrolled. This assessment is based on an evaluation of the likelihood of exploit, the impact of exploitation on the device’s safety and essential performance, and the severity of patient harm if exploited (see section VI).
-Other harms, such as loss of confidential information, including compromise of protected health information (PHI), are not considered “patient harms” for the purposes of this guidance.
+本指南阐明了美国食品药品监督管理局（FDA）的上市后建议，并强调制造商应在管理医疗器械的过程中，监测、识别和解决网络安全漏洞和利用，作为其上市后管理的一部分。本指南建立了一个基于风险的框架，用于确定在针对网络安全漏洞的医疗器械变更时，是否需要向机构报告，并概述了FDA不打算执行21 CFR第806部分规定的报告要求的情况。
 
-13 ICS-CERT - Industrial Control Systems Cyber Emergency Response Team
-Organizations (ISAOs).”
-15 ANSI/AAMI/ISO 14971: 2007/(R)2010: Medical Devices – Application of Risk Management to Medical Devices, section 2.2 – definition of harm.
-16 ANSI/AAMI/ISO 14971: 2007/(R)2010: Medical Devices – Application of Risk Management to Medical Devices, section 2.16 – definition of risk.
+21 CFR第806部分要求设备制造商或进口商及时向FDA报告有关设备纠正和移除的特定事项。
 
+然而，制造商采取的，用于解决网络安全漏洞和利用的大多数行动，通常被称为“常规的网络安全更新和补丁”，通常被认为是
 
+“医疗器械”（http://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/UCM356190）
 
+## D. 网络安全信号
 
+网络安全信号是指任何表明存在、或确认，对医疗设备造成影响或可能造成影响的网络安全漏洞或利用的潜在信息。
 
-Nevertheless, the FDA recommends that manufacturers consider protecting the confidentiality of such information as part of their overall comprehensive risk management program. Although protecting the confidentiality of PHI is beyond the scope of this document, it should be noted that manufacturers and/or other entities, depending on the facts and circumstances, may be obligated to protect the confidentiality, integrity and availability of PHI throughout the product life cycle, including disposal, in accordance with applicable federal and state laws, including the Health
-Information Portability and Accountability Act (HIPAA).
-17  Changes to a device that are made solely to address loss of confidentiality are typically considered to be device enhancements.
-### G. Remediation
-Remediation is any action(s) taken to reduce an uncontrolled risk of patient harm posed by a device cybersecurity vulnerability to an acceptable level. Remediation actions may include complete solutions to remove a cybersecurity vulnerability from a medical device or compensating controls that adequately mitigate the risk (e.g., notification to customers and the user community identifying a control the user can implement). An example of remediation is a notification to the customers and the user community that discloses the vulnerability, the impact to the device, the potential for patient harm, and provides a strategy to reduce the risk of patient harm to an acceptable and controlled level. If the customer notification does not provide a strategy to reduce the risk of patient harm to an acceptable and controlled level, then the remediation is considered incomplete.
-### H. Threat
-Threat is any circumstance or event with the potential to adversely impact the device, organizational operations (including mission, functions, image, or reputation), organizational assets, individuals, or other organizations through an information system via unauthorized access, destruction, disclosure, modification of information, and/or denial of service.18 Threats exercise vulnerabilities, which may impact the safety or essential performance of the device.
-## I. Threat Modeling
-Threat modeling is a methodology for optimizing Network/Application/Internet Security by identifying objectives and vulnerabilities, and then defining countermeasures to prevent, or
+网络安全信号可能来自传统的信息来源，如内部调查、上市后监测或投诉，以及以安全为中心的来源，如CERTS（计算机/网络、应急响应/准备团队），例如ICS-CERT 13、ISAO 14、威胁指标和安全研究人员。 这些信号可能在HPH（医疗设备）领域内被识别。 它们也可能来自其他关键基础设施领域（例如国防、金融），但可能对医疗设备的网络安全产生影响。
 
-17 The HHS Office for Civil Rights enforces the Health Insurance Portability and Accountability Act (HIPAA)
-Privacy Rule, which protects the privacy of individually identifiable health information that covered entities or their business associates create, receive, maintain, or transmit; the HIPAA Security Rule, which sets national standards for the security of electronic protected health information; the HIPAA Breach Notification Rule, which requires covered entities and business associates to provide notification following a breach of unsecured protected health information; and the confidentiality provisions of the Patient Safety Rule, which protect identifiable information being used to analyze patient safety events and improve patient safety. See Health information Privacy at: http://www.hhs.gov/ocr/privacy/index.html.
+### E. 利用
 
+利用（exploit）是指，威胁（无论是意外还是故意）利用了漏洞或漏洞，从而可能影响医疗器械的安全性或基本功能，或者将医疗器械作为媒介来攻击连接的设备或系统。
 
+### F. 患者伤害
 
+“患者伤害”是指对人的身体损伤或健康损害，或对财产或环境的损害。患者伤害被定义为对患者的身体损伤或健康损害，包括死亡。如果设备造成的风险对健康造成影响，可能会导致患者伤害。本指南概述了评估患者伤害风险是否得到充分控制或未得到控制的方法。该评估基于对利用的可能性、利用对设备安全和基本功能的影响，以及如果被利用，患者伤害的严重程度（参见第 VI 处）的评估。
+其他危害，例如丢失机密信息，包括保护健康信息（PHI）的泄露，不被认为是“患者伤害”的目的。
 
+13 ICS-CERT - 工业控制系统网络安全应急响应团队
+组织（ISAOs）。”
+15 ANSI/AAMI/ISO 14971: 2007/(R)2010: 医疗器械 – 医疗器械风险管理应用，第 2.2 条 – 危害的定义。
+16 ANSI/AAMI/ISO 14971: 2007/(R)2010: 医疗器械 – 医疗器械风险管理应用，第 2.16 条 – 风险的定义。
 
-mitigate the effects of, threats to the system.
-19 For medical devices, threat modeling can be used to strengthen security by identifying vulnerabilities and threats to a particular product, products in a product line, or from the organization’s supply chain that can cause patient harm.
+尽管如此，美国食品药品监督管理局（FDA）建议制造商将保护此类信息的机密性作为其整体全面的风险管理计划的一部分。虽然保护个人健康信息（PHI）的范围超出了本文的范围，但应注意，根据具体情况，制造商和/或其他实体可能需要根据适用的联邦和州法律，包括《健康信息可携带性和问责法》（HIPAA），在产品生命周期（包括处置）期间保护PHI的机密性、完整性和可用性。
+17  仅为了解决机密性丢失问题而对设备所做的更改通常被认为是设备改进。
 
-### J. Uncontrolled Risk
-Uncontrolled risk is present when there is unacceptable residual risk of patient harm due to inadequate compensating controls and risk mitigations.
-### K. Vulnerability
-A vulnerability is a weakness in an information system, system security procedures, internal controls, human behavior, or implementation that could be exploited by a threat.
-## V. General Principles
-FDA recognizes that medical device cybersecurity is a shared responsibility among stakeholders including health care facilities, patients, providers, and manufacturers of medical devices. Failure to maintain cybersecurity can result in compromised device functionality, loss of data (medical or personal) availability or integrity, or exposure of other connected devices or networks to security threats. This in turn may have the potential to result in patient illness, injury or death.
-Effective cybersecurity risk management is intended to reduce the risk to patients by decreasing the likelihood that device functionality is intentionally or unintentionally compromised by inadequate cybersecurity. An effective cybersecurity risk management program should incorporate both premarket and postmarket lifecycle phases and address cybersecurity from medical device conception to obsolescence It is recommended that manufacturers apply the NIST
-Framework for Improving Critical Infrastructure Cybersecurity (i.e., Identify, Protect, Detect,
-Respond and Recover; https://www.nist.gov/sites/default/files/documents/cyberframework/cybersecurity-framework-
-021214.pdf in the development and implementation of their comprehensive cybersecurity programs. Alignment of the NIST Framework for Improving Critical Infrastructure Cybersecurity five core functions to management of cybersecurity in medical devices is discussed in the
-Appendix in greater detail.
-### A. Premarket Considerations
-The FDA guidance document titled “Content of Premarket Submissions for Management of
-Cybersecurity in Medical Devices”
-(http://www.fda.gov/downloads/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocu ments/UCM356190.pdf) clarifies recommendations for manufacturers to address cybersecurity
+### G. 补救措施
 
+补救措施是指采取的任何行动（或行动），旨在将由医疗设备网络安全漏洞造成的对患者造成伤害的不可控风险降低到可接受的水平。补救措施可能包括完全的解决方案，以从医疗设备中移除网络安全漏洞，或充分减轻风险的补偿控制（例如，通知客户和用户社区，说明用户可以实施的控制）。一个补救措施的例子是，向客户和用户社区发出通知，披露漏洞、对设备的影响、潜在的患者伤害，并提供降低患者伤害风险到可接受和可控水平的策略。如果客户通知没有提供降低患者伤害风险到可接受和可控水平的策略，则该补救措施将被视为不完整。
 
+### H. 威胁
 
+威胁是指通过信息系统，未经授权的访问、破坏、披露、修改信息或拒绝服务，可能对设备、组织运营（包括使命、功能、形象或声誉）、组织资产、个人或其他组织产生不利影响的任何情况或事件。18 威胁会利用漏洞，这可能会影响设备的安全性或基本性能。
 
+## I. 威胁建模
 
+威胁建模是一种优化网络/应用程序/互联网安全的方法，通过识别目标和漏洞，然后定义预防或
 
-during the design and development of the medical device, as this can result in more robust and efficient mitigation of patient risks. Manufacturers should establish design inputs for their device related to cybersecurity, and establish a cybersecurity vulnerability and management approach as part of the software validation and risk analysis that is required by 21 CFR 820.30(g). The approach should appropriately address the following elements:
-- Identification of assets, threats, and vulnerabilities;
-- Assessment of the impact of threats and vulnerabilities on device functionality and end users/patients;
-- Assessment of the likelihood of a threat and of a vulnerability being exploited;
-- Determination of risk levels and suitable mitigation strategies;
-- Assessment of residual risk and risk acceptance criteria.
-### B. Postmarket Considerations
-Because cybersecurity risks to medical devices are continually evolving, it is not possible to completely mitigate risks through premarket controls alone. Therefore, it is essential that manufacturers implement comprehensive cybersecurity risk management programs and documentation consistent with the Quality System Regulation (21 CFR part 820), including but not limited to complaint handling (21 CFR 820.198), quality audit (21 CFR 820.22), corrective and preventive action (21 CFR 820.100), software validation and risk analysis (21 CFR
-820.30(g)) and servicing (21 CFR 820.200).
+17 美国卫生与人类服务部（HHS）的《民权办公室》负责执行《健康保险可携带性和责任法》（HIPAA）。
+《隐私规则》保护由受保护实体或其业务伙伴创建、接收、维护或传输的个人可识别的健康信息；《安全规则》设定电子受保护健康信息安全的国家标准；《数据泄露通知规则》要求受保护实体和业务伙伴在未加密的受保护健康信息泄露后提供通知；以及《患者安全规则》的保密条款，保护用于分析患者安全事件和改善患者安全的个人信息。请访问：http://www.hhs.gov/ocr/privacy/index.html。
 
-Cybersecurity risk management programs should emphasize addressing vulnerabilities which may permit the unauthorized access, modification, misuse or denial of use, or the unauthorized use of information that is stored, accessed, or transferred from a medical device to an external recipient, and may result in patient harm. Manufacturers should respond in a timely fashion to address identified vulnerabilities. Critical components of such a program include:
-- Monitoring cybersecurity information sources for identification and detection of cybersecurity vulnerabilities and risk;
-- Maintaining robust software lifecycle processes that include mechanisms for: o monitoring third party software components for new vulnerabilities throughout the device’s total product lifecycle; o design verification and validation for software updates and patches that are used to remediate vulnerabilities, including those related to Off-the-shelf software;
-- Understanding, assessing and detecting presence and impact of a vulnerability;
-- Establishing and communicating processes for vulnerability intake and handling
-- Note: The FDA has recognized ISO/IEC 30111:2013: Information Technology – Security
-Techniques – Vulnerability Handling Processes;
-- Using threat modeling to clearly define how to maintain safety and essential performance of a device by developing mitigations that protect, respond and recover from the cybersecurity risk;
+减轻对系统的威胁。
+19 对于医疗设备，威胁建模可用于通过识别特定产品、产品线或组织供应链中的漏洞和威胁来加强安全性，从而防止对患者造成伤害。
 
+### J. 未控制的风险
 
+当由于缺乏适当的补偿控制和风险缓解措施，导致患者受到不可接受的残余风险时，存在未控制的风险。
 
+### K. 漏洞
 
+漏洞是指在信息系统、系统安全程序、内部控制、人类行为或实施中存在的弱点，这些弱点可能被威胁利用。
 
-- Adopting a coordinated vulnerability disclosure policy and practice. The FDA has recognized ISO/IEC 29147:2014: Information Technology – Security Techniques –
-Vulnerability Disclosure which may be a useful resource for manufacturers; and
-- Deploying mitigations that address cybersecurity risk early and prior to exploitation.
-Postmarket cybersecurity information may originate from an array of sources including independent security researchers, in-house testing, suppliers of software or hardware technology, health care facilities, and information sharing and analysis organizations. It is strongly recommended that manufacturers participate in an ISAO that shares vulnerabilities and threats that impact medical devices. Sharing and dissemination of cybersecurity information and intelligence pertaining to vulnerabilities and threats across multiple sectors is integral to a successful postmarket cybersecurity surveillance program.
-To manage postmarket cybersecurity risks for medical devices, a company should have a structured and systematic approach to risk management and quality management systems consistent with 21 CFR part 820. For example, such a program should include:
-- Methods to identify, characterize, and assess a cybersecurity vulnerability.
-- Methods to analyze, detect, and assess threat sources.  For example: o A cybersecurity vulnerability might impact all of the medical devices in a manufacturer’s portfolio based on how their products are developed; or o A cybersecurity vulnerability could exist vertically (i.e., within the components of a device) which can be introduced at any point in the supply chain for a medical device manufacturing process.
-It is recommended as part of a manufacturer’s cybersecurity risk management program that the manufacturer incorporate elements consistent with the NIST Framework for
-Improving Critical Infrastructure Cybersecurity (i.e., Identify, Protect, Detect, Respond, and Recover; https://www.nist.gov/sites/default/files/documents/cyberframework/cybersecurityframework-021214.pdf ).
-FDA recognizes that medical devices and the surrounding network infrastructure cannot be completely secured. Design, architecture, technology, and software development environment choices may result in the inadvertent incorporation of vulnerabilities. The presence of a vulnerability does not necessarily trigger patient harm concerns. Rather it is the impact of the vulnerability on the safety and essential performance of the device which may present a risk of patient harm. Vulnerabilities that do not appear to currently present a risk of patient harm should be assessed by the manufacturer for future impact.
-## C. Maintaining Safety and Essential Performance
-Compromise of safety or essential performance of a device can result in patient harm and may require intervention to prevent patient harm.
+## V. 总体原则
 
+FDA 认识到医疗设备网络安全是医疗机构、患者、提供者和医疗设备制造商等利益相关者共同的责任。未能保持网络安全可能导致设备功能受损、医疗或个人数据可用性或完整性丧失，或将其他连接设备或网络暴露于安全威胁中。这反过来可能导致患者患病、受伤或死亡。
+有效的网络安全风险管理旨在通过降低设备功能因不充分的网络安全而有意或无意受损的可能性来降低对患者的风险。有效的网络安全风险管理计划应涵盖市场前和市场后生命周期阶段，并从医疗设备的构想到报废，全面解决网络安全问题。建议制造商在开发和实施其全面的网络安全计划时，采用美国国家标准技术研究所（NIST）的网络安全框架（即：识别、保护、检测、响应和恢复；https://www.nist.gov/sites/default/files/documents/cyberframework/cybersecurity-framework-021214.pdf）。关于将 NIST 网络安全框架的五个核心功能与医疗设备中的网络安全管理对齐，在附录中进行了更详细的讨论。
 
+### A. 市场前考虑
 
+美国食品药品监督管理局（FDA）发布的《医疗器械网络安全管理中的预先提交内容建议》（http://www.fda.gov/downloads/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocu ments/UCM356190.pdf）明确了制造商应采取的建议，以应对网络安全问题。
 
+在医疗器械的设计和开发过程中，应确保能够更有效地降低患者风险，从而提高产品的可靠性和效率。制造商应建立与网络安全相关的设计输入，并作为符合 21 CFR 820.30(g) 要求进行的软件验证和风险分析的一部分，制定网络安全漏洞和管理方法。该方法应适当处理以下要素：
 
-Manufacturers should define, as part of the comprehensive cybersecurity risk management, the safety and essential performance of their device, the resulting severity of patient harm if compromised, and the risk acceptance criteria. These steps allow manufacturers to triage vulnerabilities for remediation (see Section VI for additional information on risk assessments).
-Threat modeling is important in understanding and assessing the exploitability of a device vulnerability and potential for patient harm. Threat modeling can also be used in determining whether a proposed or implemented remediation can provide assurance that the risk of patient harm due to a cybersecurity vulnerability is reasonably controlled. Importantly, acceptable mitigations will vary depending upon the severity of patient harm that may result from exploitation of a vulnerability affecting the device. For example, a cybersecurity vulnerability affecting the temperature reading of a thermometer may have different risks than a cybersecurity vulnerability affecting the dosage of an insulin infusion pump because of the severity of patient harm.
-## VI. Medical Device Cybersecurity Risk Management
-As part of their risk management process consistent with 21 CFR part 820, a manufacturer should establish, document, and maintain throughout the medical device lifecycle an ongoing process for identifying hazards associated with the cybersecurity of a medical device, estimating and evaluating the associated risks, controlling these risks, and monitoring the effectiveness of the controls. This process should include risk analysis, risk evaluation, risk control, and incorporation of production and post-production information. Elements identified in the Appendix of this guidance should be included as part of the manufacturer’s cybersecurity risk management program to support an effective risk management process. Manufacturers should have a defined process to systematically conduct a risk evaluation and determine whether a cybersecurity vulnerability affecting a medical device presents an acceptable or unacceptable risk. It is not possible to describe all hazards, associated risks, and/or controls associated with medical device cybersecurity vulnerabilities in this guidance. It is also not possible to describe all scenarios where risk is controlled or uncontrolled. Rather, FDA recommends that manufacturers define and document their process for objectively assessing the cybersecurity risk for their device(s).
-As outlined below, it is recommended that such a process focus on assessing the risk of patient harm by considering:
-1) The exploitability of the cybersecurity vulnerability, and
-2) The severity of patient harm if the vulnerability were to be exploited.
-Such analysis should also incorporate consideration of compensating controls and risk mitigations.
-### A. Assessing Exploitability of the Cybersecurity
-Vulnerability
-Manufacturers should have a process for assessing the exploitability of a cybersecurity vulnerability. In many cases, estimating the probability of a cybersecurity exploit is very difficult due to factors such as; complexity of exploitation, availability of exploits, and exploit toolkits.  In the absence of data on the probability of the occurrence of harm, conventional medical device risk management approaches suggest using a “reasonable worst-case estimate” or setting the default value of the probability to one. While these approaches are acceptable, FDA suggests that manufacturers instead consider using a cybersecurity vulnerability assessment tool or similar scoring system for rating vulnerabilities and determining the need for and urgency of the response.
-One such tool, the “Common Vulnerability Scoring System,” Version 3.0, for example, provides numerical ratings corresponding to high, medium and low by incorporating a number of factors in assessing exploitability including:
+- 识别资产、威胁和漏洞；
+
+- 评估威胁和漏洞对设备功能以及用户/患者的影响；
+
+- 评估潜在威胁发生的可能性以及漏洞被利用的可能性；
+
+- 确定风险等级和合适的风险缓解策略；
+
+- 评估剩余风险和风险接受标准。
+
+### B. 市场后注意事项
+
+由于医疗器械的网络安全风险在不断演变，因此仅通过上市前的控制措施无法完全消除风险。因此，制造商必须实施与《质量体系法规》（21 CFR 第 820 部分）相符的全面网络安全风险管理计划和文档，包括但不限于：投诉处理（21 CFR 820.198）、质量审核（21 CFR 820.22）、纠正和预防措施（21 CFR 820.100）、软件验证和风险分析（21 CFR 820.30(g))以及服务（21 CFR 820.200）。
+
+网络安全风险管理计划应侧重于解决可能允许未经授权访问、修改、滥用或阻止使用，以及未经授权使用，从医疗设备向外部接收者存储、访问或传输的信息，从而可能导致患者伤害的漏洞。制造商应及时采取措施来解决已识别的漏洞。此类计划的关键组成部分包括：
+
+- 监测网络安全信息来源，以识别和检测网络安全漏洞和风险。
+
+- 建立健全的软件生命周期流程，包括以下机制：
+    - 监测第三方软件组件，在整个产品生命周期内，持续监控新的漏洞；
+    - 对用于修复漏洞的软件更新和补丁（包括与标准软件相关的）进行设计验证和验证。
+
+- 识别、评估和检测漏洞的存在及其影响；
+
+- 建立和沟通漏洞识别和处理流程
+
+- 备注：美国食品药品监督管理局（FDA）已认可ISO/IEC 30111:2013：信息技术 – 安全
+
+技术 – 漏洞处理流程；
+
+- 采用威胁建模，明确定义如何通过开发保护、应对和从网络安全风险中恢复的措施，来确保医疗器械的安全性和基本性能。
+
+- 采用协调的漏洞披露政策和实践。美国食品药品监督管理局（FDA）已认可ISO/IEC 29147:2014：信息技术 – 安全技术 –
+
+漏洞披露，这可能对制造商提供有用的资源；
+
+- 采取措施，在漏洞被利用之前，主动识别和解决网络安全风险。
+
+上市后的网络安全信息可能来自各种来源，包括独立的安全研究人员、内部测试、软件或硬件技术的供应商、医疗机构以及信息共享和分析组织。 强烈建议制造商参与一个 ISAO（医疗器械安全信息共享组织），该组织共享对医疗器械的网络安全漏洞和威胁。 在多个领域共享和传播与漏洞和威胁相关的网络安全信息和情报，对于成功地进行上市后的网络安全监控至关重要。
+为了管理医疗器械的上市后网络安全风险，一家公司应采用结构化的、系统的风险管理和质量管理体系，符合 21 CFR 第 820 部分的要求。 例如，这样的程序应包括：
+
+- 识别、描述和评估网络安全漏洞的方法。
+
+- 分析、检测和评估威胁来源的方法。 例如：
+    - 一种网络安全漏洞可能影响制造商产品组合中的所有医疗器械，具体取决于产品的开发方式；
+    - 或者，一种网络安全漏洞可能存在于设备内部（即，在设备的组件中），并且可以在医疗器械制造过程的任何阶段通过供应链引入。
+
+建议作为制造商的网络安全风险管理计划的一部分，制造商应纳入与《改进关键基础设施网络安全框架》（即：识别、保护、检测、响应和恢复；https://www.nist.gov/sites/default/files/documents/cyberframework/cybersecurityframework-021214.pdf）相符的元素。
+FDA 认识到医疗器械及其周围的网络基础设施无法完全安全。 设计、架构、技术和软件开发环境的选择可能会无意中引入漏洞。 即使存在漏洞，也不一定导致患者受到伤害。 而是，漏洞对医疗器械的安全和基本性能的影响，可能会带来患者受到伤害的风险。 即使看起来目前不存在患者受到伤害的风险，制造商也应对其进行评估，以评估其未来的影响。
+
+## C. 维护安全和基本性能
+
+医疗器械的安全或基本性能受到损害可能导致患者受到伤害，并可能需要采取干预措施以防止患者受到伤害。
+
+制造商应作为全面的网络安全风险管理的一部分，定义其设备的安全性、基本性能、如果受到威胁可能造成的患者损害程度，以及风险接受标准。 采取这些步骤，制造商可以对漏洞进行优先级排序，以便进行修复（有关风险评估的更多信息，请参见第 VI 节）。
+威胁建模对于理解和评估设备漏洞的可利用性以及对患者可能造成的危害至关重要。 威胁建模还可以用于确定，是否提出的或已实施的修复措施，可以提供保证，即由于网络安全漏洞而对患者造成的危害，可以得到合理控制。 重要的是，可接受的缓解措施将取决于受设备影响的漏洞被利用后可能造成的患者损害程度。 例如，影响温度读数的体温计的网络安全漏洞，可能与影响胰岛素输注泵剂量的网络安全漏洞具有不同的风险，因为患者的损害程度不同。
+
+## VI. 医疗器械网络安全风险管理
+
+作为其符合 21 CFR 第 820 部分的风险管理过程的一部分，制造商应在医疗器械的整个生命周期内，建立、记录和维护一个持续的过程，用于识别与医疗器械网络安全相关的危害，估算和评估相关的风险，控制这些风险，并监测控制措施的有效性。 这一过程应包括风险分析、风险评估、风险控制以及纳入生产和生产后信息。 本指南附录中标识的要素应作为制造商的网络安全风险管理计划的一部分，以支持有效的风险管理过程。 制造商应制定一个系统化的过程，以进行风险评估，并确定是否存在影响医疗器械的网络安全漏洞，从而构成可接受或不可接受的风险。 本指南无法描述所有与医疗器械网络安全漏洞相关的危害、相关的风险以及/或控制措施。 此外，本指南也无法描述所有风险被控制或未被控制的场景。 相反，美国食品药品监督管理局（FDA）建议制造商定义和记录其对设备（或设备）的网络安全风险进行客观评估的过程。
+
+如以下所述，建议该过程侧重于评估患者伤害的风险，通过考虑：
+1) 网络安全漏洞的可利用性，以及
+2) 如果该漏洞被利用，患者可能遭受的损害程度。
+这样的分析还应纳入对补偿控制和风险缓解措施的考虑。
+
+### A. 评估网络安全漏洞的可利用性
+
+漏洞评估
+
+制造商应建立评估网络安全漏洞可利用性的流程。 在许多情况下，由于诸如：漏洞的复杂性、漏洞的可获得性以及漏洞工具包等因素，估算网络安全漏洞的可利用性非常困难。 在缺乏关于危害发生概率的数据的情况下，传统的医疗器械风险管理方法建议使用“合理的最坏情况估计”或将概率的默认值设置为 1。 尽管这些方法是可接受的，但 FDA 建议制造商应考虑使用网络安全漏洞评估工具或类似的评分系统，用于评估漏洞并确定响应的必要性和紧迫性。
+
+例如，“通用漏洞评分系统”的 3.0 版本，通过纳入评估可利用性的各种因素，提供高、中、低等数值评分：
 20
-- Attack Vector (physical, local, adjacent, network)
-- Attack Complexity (high, low)
-- Privileges Required (none, low, high)
-- User Interaction (none, required)
-- Scope (changed, unchanged)
-- Confidentiality Impact (high, low, none)
-- Integrity Impact (none, low, high)
-- Availability Impact (high, low, none)
-- Exploit Code Maturity (high, functional, proof-of-concept, unproven)
-- Remediation Level (unavailable, work-around, temporary fix, official fix, not defined)
-- Report Confidence (confirmed, reasonable, unknown, not defined)
-In using any vulnerability scoring system (or tool), weighting of the individual factors that contribute to the composite score should be carefully considered.
-Other resources that may aid in the triage of vulnerabilities are:  AAMI TIR57:  Principles for medical device security – Risk management21, IEC 80001: Application of risk management for IT
-Networks incorporating medical devices22, the National Vulnerability Database23 (NVD), the
-Common Vulnerabilities and Exposures24 (CVE), Common Weakness Enumeration25 (CWE),
-Common Weakness Scoring System26 (CWSS), Common Attack Pattern Enumeration and
 
-20 For a full description of each factor, see “Common Vulnerability Scoring System,” Version 3.0: Specification
-Document (https://www.first.org/cvss/specification-document).
-21 AAMI TIR57: Principles for medical device security—Risk management - See more at: http://www.aami.org/productspublications/ProductDetail.aspx?ItemNumber=3729#sthash.CqfSLyu9.dpuf
-22 IEC/TR 80001-2-1:2012 Application of risk management for IT-networks incorporating medical devices
-23 National Vulnerability Database (NVD; https://nvd.nist.gov/).
-24 Common Vulnerabilities and Exposures (CVE; https://cve.mitre.org/).
-25 Common Weakness Enumeration (CWE; http://cwe.mitre.org/index.html).
-26 Common Weakness Scoring System (CWSS; http://cwe.mitre.org/cwss/cwss_v1.0.1.html).
+- 攻击途径（物理、局部、相邻、网络）
 
+- 攻击复杂度 (高, 低)
 
+- 所需权限 (无、低、高)
 
+- 用户交互 (无，必需)
 
-
-Classification
-27 (CAPEC), Common Configuration Enumeration28 (CCE) Common Platform
-Enumeration29 (CPE).
-### B. Assessing Severity of Patient Harm
-Manufacturers should also have a process for assessing the severity of patient harm, if the cybersecurity vulnerability were to be exploited. While there are many potentially acceptable approaches for conducting this type of analysis, one such approach may be based on qualitative severity levels as described in ANSI/AAMI/ISO 14971: 2007/(R)2010: Medical Devices –
-Application of Risk Management to Medical Devices:
-Common Term
-Possible Description
-Negligible:
+- 范围 (已更改, 未更改)
 
-Inconvenience or temporary discomfort
-Minor:
-Results in temporary injury or impairment not requiring professional medical intervention
-Serious:
-Results in injury or impairment requiring professional medical intervention
-Critical:
+- 隐私影响 (高、低、无)
 
-Results in permanent impairment or life-threatening injury
-Catastrophic:
-Results in patient death
-## C. Evaluation of Risk of Patient Harm
-A key purpose of conducting the cyber-vulnerability risk assessment is to evaluate whether the risk of patient harm is controlled (acceptable) or uncontrolled (unacceptable). One method of assessing the acceptability of risk involves using a matrix with combinations of “exploitability”
-and “severity of patient harm” to determine whether the risk of patient harm is controlled or uncontrolled. A manufacturer can then conduct assessments of the exploitability and severity of patient harm and then use such a matrix to assess the risk of patient harm for the identified cybersecurity vulnerabilities.
-For risks that remain uncontrolled, additional remediation should be implemented.
-The following figure is an example matrix that shows a possible approach to evaluate the relationship between exploitability and patient harm. It can be used to assess the risk of patient harm from a cybersecurity vulnerability as controlled or uncontrolled. While in some cases the evaluation will yield a definite determination that the situation is controlled or uncontrolled, it is possible that in other situations this determination may not be as distinct. Nevertheless, in all cases, FDA recommends that manufacturers make a binary determination that a vulnerability is either controlled or uncontrolled using an established process that is tailored to the product, its safety and essential performance, and the situation. Risk mitigations, including compensating controls, should be implemented when necessary to bring the residual risk to an acceptable level.
+- 完整性影响 (无, 低, 高)
 
-27 Common Attack Pattern Enumeration and Classification (CAPEC; http://capec.mitre.org/).
-28 Common Configuration Enumeration (CCE; https://nvd.nist.gov/cce/index.cfm).
-29 Common Platform Enumeration (CPE; https://nvd.nist.gov/cpe.cfm).
+- 可用性影响 (高、低、无)
 
+- 编码成熟度（高、功能性、概念验证、未验证）
 
+- 纠正级别 (不可用、替代方案、临时解决方案、官方解决方案、未定义)
 
+- 报告置信度 (已确认、合理、未知、未定义)
 
+在使用任何漏洞评分系统（或工具）时，应仔细考虑对构成综合评分的各个因素的权重。
+其他可能有助于漏洞分级的资源包括：AAMI TIR57：医疗设备安全——风险管理21、IEC 80001：IT网络中的风险管理应用22、国家漏洞数据库23（NVD）、通用漏洞和暴露24（CVE）、通用弱点枚举25（CWE）、通用弱点评分系统26（CWSS）、通用攻击模式枚举和
 
-Figure – Evaluation of Risk of Patient Harm. The figure shows the relationship between exploitability and severity of patient harm, and can be used to assess the risk of patient harm from a cybersecurity vulnerability. The figure can be used to categorize the risk of patient harm as controlled or uncontrolled.
-## VII. Remediating and Reporting Cybersecurity
-Vulnerabilities
-Based on the vulnerability assessment described in the previous section, the exploitability of an identified vulnerability and its severity of patient harm can help determine the risk of patient harm and can be categorized as either “controlled” (acceptable residual risk) or “uncontrolled”
-(unacceptable residual risk). When determining how to manage a cybersecurity vulnerability, manufacturers should incorporate already implemented compensating controls and risk mitigations into their risk assessment.
-FDA encourages efficient, timely and ongoing cybersecurity risk management for marketed devices by manufacturers. For cybersecurity routine updates and patches, the FDA will, typically, not need to conduct premarket review to clear or approve the medical device software changes.30
-In addition, manufacturers should:
-- Adopt a coordinated vulnerability disclosure policy and practice that includes acknowledging receipt of the initial vulnerability report to the vulnerability submitter31,32;
+27.  有关每个因素的完整描述，请参见“通用漏洞评分系统”，版本 3.0：规范文件（https://www.first.org/cvss/specification-document）。
+28.  AAMI TIR57：医疗设备安全——风险管理 - 更多信息请参见：http://www.aami.org/productspublications/ProductDetail.aspx?ItemNumber=3729#sthash.CqfSLyu9.dpuf
+29.  IEC/TR 80001-2-1:2012 IT网络中的医疗设备风险管理应用
+30.  国家漏洞数据库（NVD；https://nvd.nist.gov/）。
+31.  通用漏洞和暴露（CVE；https://cve.mitre.org/）。
+32.  通用弱点枚举（CWE；http://cwe.mitre.org/index.html）。
+33.  通用弱点评分系统（CWSS；http://cwe.mitre.org/cwss/cwss_v1.0.1.html）。
 
-30 Premarket notification (510(k)) would be required for countermeasures that would be considered significant changes or modifications to a device’s design, components, method of manufacture or intended use (See 21 CFR
-807.81(a)(3)).
-31 ISO/IEC 29147:2014: Information Technology – Security Techniques – Vulnerability Disclosure which may be a useful resource for manufacturers.
+分类
+34 (CAPEC)、通用配置枚举35 (CCE)、通用平台枚举36 (CPE)。
 
+### B. 评估患者伤害的严重程度
 
+制造商还应建立评估患者可能遭受伤害的严重程度的过程，如果存在网络安全漏洞被利用。虽然存在许多可能被接受的方法来进行此类分析，一种方法可能基于 ANSI/AAMI/ISO 14971: 2007/(R)2010《医疗器械——应用风险管理》中描述的定性严重程度等级：
+常见术语
+可能描述
+微小：
 
+不便或暂时的不适
+轻微：
+导致暂时的损伤或功能障碍，无需专业医疗干预
+严重：
+导致需要专业医疗干预的损伤或功能障碍
+严重：
 
+导致永久性损伤或危及生命
+灾难性：
+导致患者死亡
 
-- Proactively practice good cyber hygiene, reassess risk assessments regularly, and seek opportunities to reduce cybersecurity risks even when residual risk is acceptable;
-- Remediate cybersecurity vulnerabilities to reduce the risk of patient harm to an acceptable level;
-- Conduct appropriate software validation under 21 CFR 820.30(g) to assure that any implemented remediation effectively mitigates the target vulnerability without unintentionally creating exposure to other risks;
-- Properly document the methods and controls used in the design, manufacture, packaging, labeling, storage, installation and servicing of all finished devices as required by 21 CFR
-part 820;
-- Identify and implement compensating controls to adequately mitigate the cybersecurity vulnerability risk, especially when new device design controls
-33 may not be feasible or immediately practicable. In addition, manufacturers should consider the level of knowledge and expertise needed to properly implement the recommended control;
-- Provide users with relevant information on recommended device and compensating controls and residual cybersecurity risks so that they can take appropriate steps to mitigate the risk and make informed decisions regarding device use; and
-- Recognize that some changes made to strengthen device security might also significantly affect other device functionality (e.g., use of a different operating system) and assess the scope of change to determine if additional premarket or postmarket regulatory actions are appropriate.
-In addition to the general recommendations described above, Sections VII.A and VII.B. below clarify specific recommendations for managing controlled and uncontrolled risks of patient harm.34 While FDA recognizes that multi-stakeholder engagement is necessary to fully address cybersecurity risks, the examples provided in the controlled risk and uncontrolled risk sections below clarify FDA’s regulatory expectations for medical device manufacturers.
-A. Controlled Risk of Patient Harm
-Controlled risk is present when there is sufficiently low (acceptable) residual risk of patient harm due to the vulnerability.
-Manufacturers are encouraged to proactively promote good cyber hygiene and reduce cybersecurity risks even when residual risk is acceptable. The following are recommendations for changes or compensating control actions taken to address vulnerabilities associated with controlled risk:
+## C. 评估患者可能遭受的风险
 
-32 ISO/IEC 30111:2013: Information Technology – Security Techniques – Vulnerability Handling Processes.
-34 Please note that manufacturers and user facilities may have additional reporting requirements from sources other than FDA.
+进行网络安全漏洞风险评估的关键目的是评估是否存在患者伤害风险得到控制（可接受）或未得到控制（不可接受）。评估风险可接受性的一个方法是使用包含“可利用性”和“患者伤害严重程度”的组合矩阵，以确定是否存在患者伤害风险。制造商可以进行可利用性和患者伤害严重程度的评估，然后使用此矩阵来评估已识别的网络安全漏洞对患者造成的风险。
 
+对于仍然未得到控制的风险，应实施额外的补救措施。
+以下图表是一个示例矩阵，展示了一种评估可利用性和患者伤害之间关系的可能方法。它可以用于评估网络安全漏洞对患者造成的风险，并确定其是否可接受或不可接受。虽然在某些情况下，评估可能会得出明确的结论，即该情况是可接受或不可接受，但在其他情况下，这种结论可能不那么明确。尽管如此，在所有情况下，FDA建议制造商使用建立的过程，该过程针对产品、其安全和基本性能以及具体情况，对漏洞进行二元判断，即漏洞是可接受的还是不可接受的。如果需要，应实施风险缓解措施，包括补偿控制，以将残余风险降低到可接受的水平。
 
+27 常见攻击模式枚举和分类 (CAPEC; http://capec.mitre.org/)。
+28 常见配置枚举 (CCE; https://nvd.nist.gov/cce/index.cfm)。
+29 常见平台枚举 (CPE; https://nvd.nist.gov/cpe.cfm)。
 
+图 – 患者伤害风险评估。该图展示了可利用性和患者伤害严重程度之间的关系，可用于评估从网络安全漏洞中产生的患者伤害风险。该图可用于将患者伤害风险分为可控和不可控。
 
+## VII. 修复和报告网络安全
 
-- Changes to a device that are made solely to strengthen cybersecurity are typically considered device enhancements
-35, which may include cybersecurity routine updates and patches, and are generally not required to be reported, under 21 CFR part 806.
-- Even when risks are controlled, manufacturers may wish to deploy an additional control(s)
-as part of a “defense-in-depth” strategy. Typically, these changes would be considered a cybersecurity routine update or patch, a type of device enhancement;
-- Device changes made solely to address a vulnerability that, if exploited, could lead to compromise of PHI, would typically be considered a cybersecurity routine update or patch;
-- For premarket approval (PMA) devices with periodic reporting requirements under 21
-CFR 814.84, newly acquired information concerning cybersecurity vulnerabilities and device changes made as part of cybersecurity routine updates and patches should be reported to FDA in a periodic (annual) report.  See Section VIII for recommended content to include in the periodic report.
-Examples of Vulnerabilities Associated with Controlled Risk and their Management:
-- A device manufacturer receives a user complaint that a gas blood analyzer has been infected with malware and there was concern that the malware may alter the data on the device. The outcome of a manufacturer investigation and impact assessment confirms the presence of malware and finds that the malware does not result in the manipulation of unencrypted data stored and flowing through the device. The device’s safety and essential performance is not impacted by the malware and the manufacturer’s risk assessment determines that the risk of patient harm due to the vulnerability is controlled. The device manufacturer communicates to users on how to remove the malware and decides to develop a defense-in-depth strategy; these changes would be considered a cybersecurity routine update and patch, a type of device enhancement.
-- A researcher publicly discloses exploit code for a four year old vulnerability in commercial off-the-shelf database software. The vulnerable version of the software is in a percentage of the manufacturer’s installed base and in two separate product lines including a multi-analyte chemistry analyzer. The manufacturer determines that the vulnerability is the result of a misconfigured database setting and could allow an unauthorized user to view patient health information in the database. The vulnerability does not permit the unauthorized user the ability to edit data in the database. Thus, the manufacturer determines the vulnerability has acceptable and controlled risk of patient harm. The manufacturer notifies their customers and the user community of the issue, details the secure configuration setting, and documents the effectiveness of the cybersecurity routine update for the configuration setting.
+漏洞
+根据前一节中描述的漏洞评估，识别出的漏洞的可利用性及其对患者造成的危害程度，可以帮助确定患者造成的风险，并可分为“可控”（可接受的剩余风险）或“不可控”（不可接受的剩余风险）。在确定如何管理网络安全漏洞时，制造商应将已实施的补偿控制和风险缓解措施纳入其风险评估。
+美国食品药品监督管理局（FDA）鼓励制造商对上市设备进行高效、及时和持续的网络安全风险管理。对于网络安全常规更新和补丁，FDA通常不需要对医疗设备软件的变更进行上市前审查以进行批准。30
+此外，制造商还应：
 
+- 采用协调的漏洞披露政策和实践，包括确认收到漏洞报告，并向漏洞报告人31、32进行反馈。
 
+30 为了应对被认为是设备设计、组件、制造方法或预期用途的重大变更或修改，需要提交 510(k) 预上市通知（参见 21 CFR 807.81(a)(3)）。
+31 ISO/IEC 29147:2014：信息技术 – 安全技术 – 漏洞披露，这可能对制造商提供有用的资源。
 
+- 主动采取良好的网络安全措施，定期重新评估风险，并在可接受的残留风险存在的情况下，积极寻求降低网络安全风险的机会；
 
+- 修复网络安全漏洞，以将患者受到伤害的风险降低到可接受的水平。
 
+- 按照 21 CFR 820.30(g) 的要求，进行适当的软件验证，以确保已实施的补救措施能够有效地降低目标漏洞，同时避免无意地引入其他风险。
 
-- A device manufacturer is notified of an open, unused communication port by the U.S.
-Department of Homeland Security Industrial Control Systems-Cyber Emergency
-Response Team (ICS-CERT). Subsequent analyses show that a design feature of the device prevents unauthorized remote firmware download onto the device. The threat is mitigated substantially by the need for physical access due to this device feature and the residual risk of patient harm is considered “acceptable.” The manufacturer takes steps to further enhance the device’s security by taking steps to close the unused communication port(s) and provide adequate communication to device users (e.g., user facilities) to facilitate the patch. If the manufacturer closes the open communication ports, the change would be considered a cybersecurity routine update or patch, a type of device enhancement.  The change does not require reporting under 21 CFR part 806 (see the
-“Distinguishing Medical Device Recalls from Medical Enhancements Guidance”
-[http://www.fda.gov/downloads/medicaldevices/deviceregulationandguidance/guidancedo cuments/ucm418469.pdf] for additional clarity of reporting requirements and recommendations for device enhancements).
-- A device manufacturer receives a user complaint that a recent security software scan of the
-PC component of a class III medical device has indicated that the PC is infected with malware. The outcome of a manufacturer investigation and impact assessment confirms the presence of malware and that the primary purpose of the malware is to collect internet browsing information. The manufacturer also determines that the malware has actively collected browsing information, but that the device’s safety and essential performance is not and would not be impacted by such collection. The manufacturer’s risk assessment determines that the risk of patient harm due to the vulnerability is controlled. Since the risk of patient harm is controlled, the manufacturer can update the product and it will be considered a cybersecurity routine update or patch. In this case, the manufacturer does not need to report this software update to the FDA in accordance with 21 CFR 806.10.
-Because the device is a class III device, the manufacturer should report the changes to the
-FDA in its periodic (annual) report required for holders of an approved PMA under 21
-CFR 814.84.
-### B. Uncontrolled Risk to Safety and Essential Performance
-Uncontrolled risk is present when there is unacceptable residual risk of patient harm due to insufficient risk mitigations and compensating controls. In assessing risk, manufacturers should consider the exploitability of the vulnerability and the severity of patient harm if exploited. If the risk of patient harm is assessed as uncontrolled, additional risk control measures should be applied.
-Manufacturers should remediate uncontrolled risks as quickly as possible.  The following are recommendations for changes or compensating control actions to address vulnerabilities associated with uncontrolled risk:
-- Manufacturers should remediate the vulnerabilities to reduce the risk of patient harm to an acceptable level;
+- 按照 21 CFR 的要求，正确记录所有成品设备的设计、制造、包装、标签、存储、安装和维护过程中所使用的方法和控制措施。
 
+第 820 部分
 
+- 识别并实施适当的控制措施，以充分降低网络安全漏洞风险，尤其是在新的设备设计控制中。
 
+33 可能无法实现或立即实施。此外，制造商应考虑实施推荐控制所需的知识和专业技能水平。
 
+- 向用户提供关于推荐设备、相应的控制措施以及剩余网络安全风险的相关信息，以便他们能够采取适当的措施来降低风险并就设备使用做出明智的决策。
 
-- While fixing the vulnerability may not be feasible or immediately practicable, manufacturers should identify and implement risk mitigations and compensating controls to adequately mitigate the risk;
-- Customers and the user community should be provided with relevant information on recommended controls and residual cybersecurity risks so that they can take appropriate steps to mitigate the risk and make informed decisions regarding device use;
-- Manufacturers must report these vulnerabilities to the FDA according to 21 CFR part 806, unless reported under 21 CFR parts 803 or 1004
-36. However, the FDA does not intend to enforce reporting requirements under 21 CFR part 806 for specific vulnerabilities with uncontrolled risk when the following circumstances are met:
-1) There are no known serious adverse events or deaths associated with the vulnerability;
-2) As soon as possible but no later than 30 days after learning of the vulnerability, the manufacturer communicates with its customers and user community regarding the vulnerability, identifies interim compensating controls, and develops a remediation plan to bring the residual risk to an acceptable level. Controls should not introduce more risk to the device’s safety and essential performance than the original vulnerability. The manufacturer must document37 the timeline rationale for its remediation plan.38 The customer communication should, at minimum: a. Describe the vulnerability including an impact assessment based on the manufacturer’s current understanding, b. State that manufacturer’s efforts are underway to address the risk of patient harm as expeditiously as possible, c. Describe compensating controls, if any, and d. State that the manufacturer is working to fix the vulnerability, or provide a defense-in-depth strategy to reduce the probability of exploit and/or severity of harm, and will communicate regarding the availability of a fix in the future.
-3) As soon as possible but no later than 60 days after learning of the vulnerability, the manufacturer fixes the vulnerability, validates the change, and distributes the deployable fix to its customers and user community such that the residual risk is brought down to an acceptable level. In some circumstances, a compensating control could produce a long-term solution provided the risk of patient harm is brought to an acceptable level. Controls should not introduce more risk to the device’s safety and essential performance than the original vulnerability.
-Additionally, the manufacturer should follow-up with end-users as needed beyond the initial 60 day period;39
+- 认识到为了加强设备安全而进行的某些修改可能会对其他设备的功能产生重大影响（例如，使用不同的操作系统），并评估变更范围，以确定是否需要额外的上市前或上市后监管措施。
 
+除了上述一般性建议外，以下 VII.A 和 VII.B 节进一步阐明了管理患者伤害的受控和不受控风险的具体建议。34 虽然 FDA 认识到多方利益相关者参与对于充分解决网络安全风险是必要的，但以下受控风险和不受控风险部分提供的示例，阐明了 FDA 对医疗器械制造商的监管期望。
+A. 受控的患者伤害风险
+当由于漏洞存在足够低的（可接受的）残余患者伤害风险时，即存在受控的风险。
+制造商应积极推广良好的网络安全卫生，并在残余风险可接受的情况下，主动降低网络安全风险。以下是针对处理与受控风险相关的漏洞所采取的变更或补偿控制措施的建议：
 
+32 ISO/IEC 30111:2013：信息技术 – 安全技术 – 漏洞处理流程。
+34 请注意，制造商和用户设施可能还需从 FDA 以外的其他来源进行报告。
 
+- 仅为了加强网络安全而对设备所做的变更通常被认为是设备增强。
 
+35，可能包括网络安全常规更新和补丁，并且通常不需要按照 21 CFR 第 806 部分进行报告。
 
+- 即使风险已得到控制，制造商可能仍希望采取额外的控制措施。
 
-4) The manufacturer actively participates as a member of an ISAO that shares vulnerabilities and threats that impact medical devices, such as NH-ISAC (see section IX) and provides the ISAO with any customer communications upon notification of its customers;
-- Remediation of devices with annual reporting requirements (e.g., class III devices) should be included in the annual report;
-- The manufacturer should evaluate the device changes to assess the need to submit a premarket submission (e.g., PMA supplement
-40, 510(k), etc.) to the FDA;
-- For PMA devices with periodic reporting requirements under 21 CFR 814.84, information concerning cybersecurity vulnerabilities, and the device changes and compensating controls implemented in response to this information should be reported to FDA in a periodic (annual) report.  See Section VIII for recommended content to include in the periodic report.
-In the absence of remediation, a device with uncontrolled risk of patient harm may be considered to have a reasonable probability that use of, or exposure to, the product will cause serious adverse health consequences or death. The product may be considered in violation of the FD&C Act and subject to enforcement or other action.
-Examples of Vulnerabilities Associated with Uncontrolled Risk of Patient Harm That Must Be
-Remediated and Response Actions:
-- A manufacturer is made aware of open, unused communication ports. The manufacturer acknowledges receipt of the vulnerability report to the submitter/identifier and subsequent analysis determines that the device’s designed-in features do not prevent a threat from downloading unauthorized firmware onto the device, which could be used to compromise the device’s safety and essential performance. Although there are no reported serious adverse events or deaths associated with the vulnerability, the risk assessment concludes the risk of patient harm is uncontrolled. The manufacturer communicates with its customers, the ISAO, and user community regarding the vulnerability, identifies and implements interim compensating controls, develops a remediation plan, and notifies users within 30 days of becoming aware of the vulnerability. Furthermore, within 60 days of becoming aware of the vulnerability, the manufacturer develops a more permanent solution/fix (in this case a software update to close the unused communication port(s)), validates the change, distributes the deployable fix or work around to its customers, and implements all other aspects of its remediation plan. If the manufacturer actively participates as a member of an ISAO and shares information about the vulnerability within the ISAO, FDA does not intend to enforce compliance with the reporting requirements in
-21 CFR part 806. For class III devices, the manufacturer does submit a summary of the remediation as part of its periodic (annual) report to FDA.
+作为“多层次防御”策略的一部分。通常，这些变更将被视为一种网络安全常规更新或补丁，属于设备增强类型。
 
+- 如果这些更改仅用于解决一个漏洞，而如果该漏洞被利用，可能会导致PHI（受保护健康信息）泄露，通常会被视为一种常规的、针对网络安全的更新或补丁。
 
+- 用于需要定期报告的、在上市前获得批准（PMA）的设备
 
+根据 CFR 814.84，关于网络安全漏洞以及作为网络安全常规更新和补丁的一部分所做的设备变更，应定期（每年）向 FDA 报告。请参阅第八章，了解定期报告中应包含的内容。
 
+以下是与受控风险相关的漏洞及其管理示例：
 
+- 制造商收到用户投诉，称气体血分析仪感染了恶意软件，并担心恶意软件可能篡改设备上的数据。制造商的调查和影响评估证实存在恶意软件，但确认恶意软件不会篡改存储和通过设备的数据。该设备的安全和基本性能不受恶意软件影响，制造商的风险评估确定，由于该漏洞，患者受到伤害的风险得到了控制。制造商向用户告知如何移除恶意软件，并决定制定多层次防御策略；这些更改将被视为网络安全常规更新和补丁，即一种设备增强。
 
-- A manufacturer becomes aware of a vulnerability via a researcher that its class III medical device (e.g., implantable defibrillator, pacemaker, etc.) can be reprogrammed by an unauthorized user. If exploited, this vulnerability could result in permanent impairment, a life-threatening injury, or death. The manufacturer is not aware that the vulnerability has been exploited and determines that the vulnerability is related to a hardcoded password.
-The risk assessment concludes that the exploitability of the vulnerability is moderate and the risk of patient harm is uncontrolled. The manufacturer notifies appropriate stakeholders, and distributes a validated emergency patch within 60 days. The manufacturer does not actively participate as a member of an ISAO and therefore reports this action to the FDA under 21 CFR 806.10.
-- A vulnerability known to the security community, yet unknown to a medical device manufacturer, is incorporated into a class II device during development. Following clearance, the manufacturer becomes aware of the vulnerability and determines that the device continues to meet its specifications, and that no device malfunctions or patient injuries have been reported. There is no evidence that the identified vulnerability has been exploited. However, it was determined that the vulnerability introduced a new failure mode to the device that impacts its essential performance, and the device’s design controls do not mitigate the risk. The manufacturer conducts a risk assessment and determines that without additional mitigations, the risk of patient harm is uncontrolled. Since the manufacturer does not currently have a software update to mitigate the impact of this vulnerability on the device’s essential performance, within 30 days of learning of the vulnerability the manufacturer notifies its customers, the ISAO, and user community of the cybersecurity risk and instructs them to disconnect the device from the hospital network to prevent unauthorized access to the device. The company’s risk assessment concludes that the risk of patient harm is controlled with this additional mitigation. The manufacturer determines that removal of the device from the network is not a viable longterm solution and distributes a patch within 60 days of learning of the vulnerability. If the company is an active participating member of an ISAO, FDA does not intend to enforce compliance with the reporting requirement under 21 CFR part 806.
-- A hospital reports that a patient was harmed after a medical device failed to perform as intended. A manufacturer investigation determines that the medical device malfunctioned as a result of exploitation of a previously unknown vulnerability in its proprietary software. The outcome of the manufacturer’s investigation and impact assessment determines that the exploit indirectly impacts the device’s safety and essential performance and may have contributed to a patient death. The manufacturer files a report in accordance with reporting requirements under 21 CFR part 803. The manufacturer also determines the device would be likely to cause or contribute to a serious injury or death if the malfunction were to recur; therefore, the manufacturer notifies its customers and user community, develops a validated emergency patch and files a report in accordance with 21
-CFR 806.10 to notify FDA.
-## VIII. Recommended Content to Include in PMA Periodic
-Reports
-For PMA devices with periodic reporting requirements under 21 CFR 814.84, information concerning cybersecurity vulnerabilities, and device changes and compensating controls implemented in response to this information should be reported to FDA in a periodic (annual)
-report.
-It is recommended that the following information be provided for changes and compensating controls implemented for the device:
-- A brief description of the vulnerability prompting the change including how the firm became aware of the vulnerability;
-- A summary of the conclusions of the firm’s risk assessment including whether the risk of patient harm was controlled or uncontrolled;
-- A description of the change(s) made, including a comparison to the previously approved version of the device;
-- The rationale for making the change;
-- Reference to other submissions/devices that were modified in response to this same vulnerability;
-- Identification of event(s) related to the rationale/reason for the change (e.g., MDR
-number(s), recall number);
-- Unique Device Identification (UDI)
-41 should be included, if available;
-- A link to an ICS-CERT advisory or other government or ISAO alert (https://icscert.us-cert.gov/advisories), if applicable;
-- All distributed customer notifications;
-- The date and name of the ISAO to which the vulnerability was reported, if any; and
-- Reference to other relevant submission (PMA Supplement42, 30-Day Notice, 806
-report, etc.), if any, or the scientific and/or regulatory basis for concluding that the change did not require a submission/report.
-## IX. Criteria for Defining Active Participation by a
-Manufacturer in an ISAO
-Active participation by a manufacturer in an ISAO can assist the company, the medical device community and the HPH Sector by proactively addressing cybersecurity vulnerabilities and minimizing exploits through the timely deployment of risk control measures including communication and coordination with patients and users.
+- 研究人员公开披露了针对四年前的商业数据库软件漏洞的利用代码。该漏洞的版本在制造商的安装基础的百分比以及两个独立的产品线（包括多分析化学分析仪）中。制造商确定该漏洞是由于数据库设置配置错误造成的，可能允许未经授权的用户查看数据库中的患者健康信息。该漏洞并未允许未经授权的用户编辑数据库中的数据。因此，制造商确定该漏洞具有可接受且可控的患者伤害风险。制造商通知其客户和用户社区，详细说明了安全配置设置，并记录了该配置设置的网络安全常规更新的有效性。
 
+- 制造商收到美国有关开放、未使用的通信端口的通知。
 
+美国国土安全部工业控制系统-网络安全事件应对团队 (ICS-CERT)。 随后的分析表明，该设备的某个设计特征可以防止未经授权的设备上下载固件。 由于该设备的功能，需要物理访问来降低风险，因此，患者可能受到伤害的风险被认为是“可接受的”。 制造商采取措施进一步增强设备的安全性，包括关闭未使用的通信端口，并向设备用户（例如，用户机构）提供充分的沟通，以方便修补。 如果制造商关闭了开放的通信端口，则此更改将被视为一种网络安全常规更新或补丁，这是一种设备增强。 这种更改不需要根据 21 CFR 第 806 部分进行报告（请参阅“区分医疗设备召回与医疗增强的指导”[http://www.fda.gov/downloads/medicaldevices/deviceregulationandguidance/guidancedocuments/ucm418469.pdf] 以获取有关报告要求和设备增强的建议的更多信息）。
 
+- 一家设备制造商收到用户投诉，称最近对设备的安全性软件扫描显示
 
+第三类医疗器械的PC组件显示，该PC已被恶意软件感染。制造商的调查和影响评估结果证实了恶意软件的存在，并且该恶意软件的主要目的是收集互联网浏览信息。制造商还确定，该恶意软件已主动收集浏览信息，但该设备的安全和基本功能不会受到影响。制造商的风险评估确定，由于该漏洞，患者受到伤害的风险得到了控制。由于患者受到伤害的风险得到了控制，制造商可以更新产品，并将其视为一种网络安全常规更新或补丁。在这种情况下，制造商无需根据21 CFR 806.10向FDA报告此软件更新。
+由于该设备属于第三类设备，制造商应在符合21 CFR 814.84要求的年度报告中向FDA报告这些变更。
 
+### B. 患者安全和基本性能不受控制的风险
 
-FDA intends to consider the following in determining whether a manufacturer is an active participant in an ISAO:
-1. The manufacturer is a member of an ISAO that shares vulnerabilities and threats that impact medical devices;
-2. The ISAO has documented policies pertaining to participant agreements, business processes, operating procedures, and privacy protections;
-3. The manufacturer shares vulnerability information with the ISAO, including any customer communications pertaining to cybersecurity vulnerabilities; and
-4. The manufacturer has documented processes for assessing and responding to vulnerability and threat intelligence information received from the ISAO.  This information should be traceable to medical device risk assessments, countermeasure solutions, and mitigations.
-Manufacturers that wish to be considered by FDA to be active participants in an ISAO are recommended to maintain objective evidence documenting that they meet the four criteria above.
-## X. Appendix: Elements of an Effective Postmarket
-Cybersecurity Program
-It is recommended that the following elements, consistent with the NIST Framework for
-Improving Critical Infrastructure Cybersecurity (i.e., Identify, Protect, Detect, Respond, and Recover; https://www.nist.gov/sites/default/files/documents/cyberframework/cybersecurityframework-021214.pdf ), be included as part of a manufacturer’s cybersecurity risk management program.
-A. Identify i. Maintaining Safety and Essential Performance
-Compromise of safety or essential performance of a device can result in patient harm and may require intervention to prevent patient harm.
-Manufacturers should define, as part of their comprehensive cybersecurity risk management plan, the safety and essential performance of their device, the resulting severity of patient harm if compromised, and the risk acceptance criteria. These steps allow manufacturers to triage vulnerabilities for remediation (see Section VI for additional information on risk assessments).
-Threat modeling is important to understanding and assessing the exploitability of a device vulnerability and its potential for patient harm. Threat modeling can also be used in determining whether a proposed or implemented remediation can provide assurance that the risk of patient harm due to a cybersecurity vulnerability is reasonably controlled.
-Importantly, acceptable mitigations will vary depending upon the severity of patient harm that may result from exploitation of a vulnerability affecting the device. For example, a cybersecurity vulnerability affecting the temperature reading of a thermometer may have different risks than a cybersecurity vulnerability affecting the dosage of an insulin infusion pump because of the severity of patient harm.
-ii. Identification of Cybersecurity Signals
-Manufacturers are required to analyze complaints, returned product, service records, and other sources of quality data to identify existing and potential causes of nonconforming product or other quality problems (21 CFR 820.100). Manufacturers are encouraged to actively identify cybersecurity signals that might affect their product, and engage with the sources that report them.  It is important to recognize that signals can originate from sources familiar to the medical device workspace such as internal investigations, post market surveillance and or/complaints. It is also important to recognize that cybersecurity signals may originate from cybersecurity-centric sources such as Cyber Emergency
+当由于风险缓解和补偿控制不足，导致患者受到不可接受的残余伤害时，存在不受控制的风险。在评估风险时，制造商应考虑漏洞的可利用性和如果被利用，患者可能遭受的伤害程度。如果评估患者受到伤害的风险为不受控制，则应采取额外的风险控制措施。
+制造商应尽快消除不受控制的风险。以下是针对与不受控制的风险相关的漏洞的变更或补偿控制措施的建议：
 
+- 制造商应修复漏洞，以将患者受到伤害的风险降低到可接受的水平；
 
+- 即使修复漏洞可能不可行或无法立即实施，制造商应识别并实施风险缓解和补偿控制，以充分降低风险；
 
+- 制造商应向客户和用户社区提供有关推荐控制和剩余网络安全风险的相关信息，以便他们能够采取适当措施来降低风险并就设备使用做出明智的决定；
 
+- 制造商必须根据《21 CFR》第806部分报告这些漏洞，除非已在《21 CFR》第803或1004部分中报告。
 
-Response Teams (CERTS), ISAOs, security researchers, or from other critical infrastructure sectors such as the Defense or Financial Sectors.  Irrespective of the originating source, a clear, consistent and reproducible process for intake and handling of vulnerability information should be established and implemented by the manufacturer.
-FDA has recognized ISO/IEC 29147:2014, Information Technology - Security Techniques
-- Vulnerability Disclosure and ISO/IEC 30111:2013: Information Technology – Security
-Techniques – Vulnerability Handling Processes that may be useful resources for manufacturers. Manufacturers should develop strategies to enhance their ability to detect signals (e.g., participating in an ISAO for medical devices). Manufacturers can also enhance their postmarket detection of cybersecurity risks by incorporating detection mechanisms into their device design and device features to increase the detectability of attacks and permit forensically sound evidence capture.
-B. Protect/Detect i. Vulnerability Characterization and Assessment
-The FDA recommends that manufacturers characterize and assess identified vulnerabilities because it will provide information that will aid manufacturers to triage remediation activities. When characterizing the exploitability of a vulnerability, the manufacturer should consider factors such as remote exploitability, attack complexity, threat privileges, actions required by the user, exploit code maturity, and report confidence.  Scoring systems such as the “Common Vulnerability Scoring System”
-(CVSS)
-43 provide a consistent framework for assessing exploitability by quantifying the impact of the factors that influence exploitability. See Section VI for additional guidance on vulnerability risk assessment.
-ii. Risk Analysis and Threat Modeling
-The FDA recommends that manufacturers conduct cybersecurity risk analyses that include threat modeling for each of their devices and to update those analyses over time.  Risk analyses and threat modeling should aim to triage vulnerabilities for timely remediation.
-Threat modeling is a procedure for optimizing Network/Application/Internet Security by identifying objectives and vulnerabilities, and then defining countermeasures to prevent, or mitigate the effects of, threats to the system.  Threat modeling provides traditional risk management and failure mode analysis paradigms, and a framework to assess threats from active adversaries/malicious use. For each vulnerability, a summary report should be produced that concisely summarizes the risk analysis and threat modeling information.
-Due to the cyclical nature of the analyses, the information should be traceable to related documentation.
+36. 然而，美国食品药品监督管理局（FDA）不打算执行《21 CFR》第806部分关于在以下情况下，对特定漏洞进行报告的要求：
+1) 没有任何已知的与该漏洞相关的严重不良事件或死亡；
+2) 在尽快，但最迟在发现该漏洞后30天内，制造商与客户和用户社区沟通，就该漏洞进行说明，确定临时性的缓解措施，并制定一个计划，以将残余风险降低到可接受的水平。 缓解措施不应增加设备的安全和基本性能的风险，超过原始漏洞。制造商必须记录其缓解计划的时间表理由。 客户沟通应至少包括：
+a. 描述该漏洞，包括基于制造商当前理解的风险评估；
+b. 声明制造商正在尽最大努力尽快解决患者伤害的风险；
+c. 描述任何已有的缓解措施；
+d. 声明制造商正在修复该漏洞，或者提供一种深度防御策略，以降低被利用的可能性和/或伤害的严重程度，并将在未来沟通修复的可用性。
+3) 在尽快，但最迟在发现该漏洞后60天内，制造商修复该漏洞，验证更改，并将可部署的修复方案分发给其客户和用户社区，从而将残余风险降低到可接受的水平。 在某些情况下，一个缓解措施可以提供长期解决方案，只要患者伤害的风险能够降低到可接受的水平。 缓解措施不应增加设备的安全和基本性能的风险，超过原始漏洞。
 
+此外，制造商应在最初的60天期后，根据需要与最终用户进行跟进。
 
-43 “Common Vulnerability Scoring System,” Version 3.0, Scoring Calculator
-(https://www.first.org/cvss/calculator/3.0).
+4) 制造商积极参与 ISAO（信息共享和威胁分析组织），与该组织分享对医疗器械产生影响的漏洞和威胁，例如 NH-ISAC（见第 IX 节），并向 ISAO 提供客户沟通信息，在收到客户通知后。
 
+- 需将符合年度报告要求的设备（例如，三类设备）的纠正措施纳入年度报告中。
 
+- 制造商应评估设备变更，以确定是否需要提交预上市申请（例如，PMA补充申请）。
 
+40、510(k)等，提交给美国食品药品监督管理局（FDA）；
 
+- 对于符合 21 CFR 814.84 规定的、需要定期报告的 PMA（预先批准）设备，应将与网络安全漏洞相关的信息，以及因这些信息而实施的设备变更和相应的控制措施，以年度报告的形式向 FDA 报告。 参见第八章，了解推荐的年度报告内容。
 
-iii. Analysis of Threat Sources
+在缺乏纠正措施的情况下，如果设备存在未控制的患者危害风险，则可能被认为存在合理概率，即使用或接触该产品会导致严重的健康不良后果或死亡。该产品可能被认为违反《美国食品药品监督管理局》（FD&C）法，并可能受到执法或其他措施。
+
+以下是一些必须进行纠正的，与未控制的患者危害风险相关的漏洞示例，以及相应的应对措施：
+
+- 制造商得知存在未使用的通信端口。制造商已收到来自提交者/标识者的漏洞报告，并随后进行分析，确定该设备的设计功能并不能阻止未经授权的固件下载到设备，从而可能危及设备的安全性以及其基本功能。虽然没有报告与该漏洞相关的严重不良事件或死亡，但风险评估结论表明，患者受到伤害的风险是无法控制的。制造商与客户、ISAO（医疗器械安全信息中心）和用户社区就该漏洞进行沟通，识别并实施临时补救措施，制定修复计划，并在发现该漏洞后，在30天内通知用户。此外，在制造商发现该漏洞后60天内，制造商制定更永久的解决方案/修复方案（在本例中，是更新软件以关闭未使用的通信端口），验证更改，将可部署的修复或解决方法分发给其客户，并实施其修复计划的所有其他方面。如果制造商积极作为ISAO的成员参与，并在ISAO内分享该漏洞信息，则FDA不打算执行《21 CFR第806部分》的报告要求。
+
+对于三类设备，制造商会在其定期（年度）向FDA提交的报告中，提交修复方案的摘要。
+
+- 制造商通过研究人员了解到，其第三类医疗器械（例如：植入式除颤器、起搏器等）可能被未经授权的用户重新编程。如果被利用，这种漏洞可能导致永久性损伤、危及生命，甚至死亡。制造商并未意识到该漏洞已被利用，并确定该漏洞与预先设定的密码有关。
+
+风险评估结果表明，该漏洞的可利用性属于中等水平，且患者受到伤害的风险不受控制。制造商通知了相关利益相关方，并在 60 天内分发了经过验证的紧急补丁。制造商不作为 ISAO 的成员积极参与，因此，根据 21 CFR 806.10，制造商向 FDA 报告了这一行为。
+
+- 一种已知的安全漏洞，但未被医疗器械制造商所知，在产品开发过程中被整合到第二类医疗器械中。 在获得批准后，制造商意识到该漏洞的存在，并确定该器械仍然符合其规格，并且未报告任何器械故障或患者受伤。 没有证据表明该已识别的漏洞已被利用。 然而，确定该漏洞引入了一种新的故障模式，影响了该器械的基本性能，并且该器械的设计控制无法减轻风险。 制造商进行了风险评估，并确定，在没有进一步的缓解措施的情况下，患者受到伤害的风险是无法控制的。 由于制造商目前没有软件更新来减轻该漏洞对该器械基本性能的影响，因此，在了解该漏洞后 30 天内，制造商通知其客户、ISAO（医疗器械安全信息中心）和用户社区，告知其有关该网络安全风险，并指示他们将该器械与医院网络断开连接，以防止未经授权的访问。 公司的风险评估结论是，通过这种额外的缓解措施，患者受到伤害的风险得到了控制。 制造商确定，从网络中移除该器械不是一个可行的长期解决方案，并在了解该漏洞后 60 天内，向客户分发补丁。 如果公司是 ISAO 的积极参与成员，则 FDA 不打算执行 21 CFR 第 806 部分关于报告要求的合规性。
+
+- 一家医院报告称，患者因医疗器械未能按照预期功能而受到伤害。制造商的调查确定，该医疗器械的故障是由于其专有软件中存在先前未知的漏洞被利用造成的。制造商的调查结果和影响评估确定，该漏洞间接影响了该设备的安全性以及其基本功能，并且可能导致患者死亡。制造商根据 21 CFR 第 803 部分的要求，提交了报告。制造商还确定，如果该故障再次发生，该设备很可能会导致或导致严重的伤害或死亡；因此，制造商通知其客户和用户社区，开发并验证紧急补丁，并根据 21
+
+按照 CFR 806.10 的要求，向 FDA 报告。
+
+## VIII. 推荐纳入 PMA 定期报告的内容
+
+报告
+对于符合 21 CFR 814.84 规定的、需要定期报告的 PMA（预先批准）设备，应将与网络安全漏洞、设备变更以及因这些信息而实施的补偿控制相关的信息，以年度报告的形式，向 FDA 报告。
+
+建议为实施的设备变更和补偿控制提供以下信息：
+
+- 简要描述导致变更的漏洞，包括公司如何发现该漏洞；
+
+- 包括公司风险评估的结论摘要，其中明确说明患者受到伤害的风险是可控的还是不可控的；
+
+- 变更描述，包括与先前批准的设备版本的比较；
+
+- 变更的原因；
+
+- 引用其他已根据同一漏洞进行修改的提交/设备；
+
+- 识别与变更原因（例如，MDR
+
+编号、召回编号）相关的事件；
+
+- 包含唯一的设备识别（UDI）
+
+41（如果可用）；
+
+- 如果适用，链接到ICS-CERT的建议或政府或ISAO的警报（https://icscert.us-cert.gov/advisories）；
+
+- 所有分发给客户的通知；
+
+- 如果有，漏洞报告的日期和名称以及向其报告漏洞的ISAO的名称；以及
+
+- 引用任何相关的提交（例如，PMA补充材料42、30天通知、806
+
+报告等），或科学和/或监管依据，以证明该变更不需要提交/报告。
+
+## IX. 定义制造商在ISAO中积极参与的条件
+
+制造商在ISAO中的积极参与，可以帮助公司、医疗器械社区和HPH部门，通过主动解决网络安全漏洞并最大限度地减少利用，从而实现及时部署风险控制措施，包括与患者和用户的沟通和协调。
+
+FDA 打算在确定制造商是否是 ISAO 的积极参与者时，考虑以下内容：
+
+1. 制造商是 ISAO 的成员，该 ISAO 共享对医疗设备产生影响的漏洞和威胁；
+
+2. ISAO 拥有关于参与者协议、业务流程、操作程序和隐私保护的文档；
+
+3. 制造商与 ISAO 共享漏洞信息，包括与网络安全漏洞相关的客户沟通；以及
+
+4. 制造商拥有记录，用于评估和响应来自 ISAO 的漏洞和威胁情报信息。这些信息应可追溯到医疗设备风险评估、应对措施和缓解方案。
+
+希望制造商被 FDA 考虑为 ISAO 的积极参与者，建议他们保持客观证据，证明他们符合上述四个标准。
+
+## X. 附录：有效的上市后管理要素
+
+网络安全计划
+
+建议将以下要素，符合美国国家标准技术研究所（NIST）框架（即：识别、保护、检测、响应和恢复；https://www.nist.gov/sites/default/files/documents/cyberframework/cybersecurityframework-021214.pdf），作为制造商的网络安全风险管理计划的一部分。
+
+A. 识别
+i. 确保安全和基本性能
+设备的安全性或基本性能的损害可能导致患者受到伤害，并可能需要采取干预措施以防止患者受到伤害。
+制造商应在其全面的网络安全风险管理计划中，明确定义其设备的安全性、基本性能、如果受到损害可能导致患者伤害的严重程度，以及风险接受标准。 这一步骤使制造商能够对漏洞进行优先级排序，以便进行修复（有关风险评估的更多信息，请参见第六部分）。
+威胁建模对于理解和评估设备漏洞的可利用性以及其对患者可能造成的危害至关重要。 威胁建模还可以用于确定，是否提出的或已实施的修复措施，可以提供合理的保障，以控制因网络安全漏洞而导致的患者伤害的风险。
+重要的是，可接受的缓解措施将取决于受设备影响的漏洞可能导致的患者伤害的严重程度。 例如，影响温度读数的医疗设备（如体温计）的网络安全漏洞，可能与影响胰岛素泵剂量的网络安全漏洞具有不同的风险，因为前者可能导致患者受到更大的伤害。
+
+ii. 网络安全信号的识别
+制造商有义务分析投诉、退回产品、服务记录和其他质量数据，以识别不符合要求的产品的现有和潜在原因或其他质量问题（21 CFR 820.100）。 制造商应积极识别可能影响其产品的网络安全信号，并与报告这些信号的来源进行沟通。 重要的是，要认识到，信号可能来自医疗设备工作场所熟悉的来源，例如内部调查、上市后监测以及/或投诉。 此外，还应认识到，网络安全信号可能来自以网络安全为中心的来源，例如网络应急响应
+
+响应团队（CERTS）、ISAOs、安全研究人员，或来自其他关键基础设施部门，如国防或金融部门。 无论信息来源，制造商都应建立并实施一个明确、一致且可重复的过程，用于漏洞信息的接收和处理。
+FDA 认可了 ISO/IEC 29147:2014，信息技术 - 安全技术
+
+- 漏洞披露和 ISO/IEC 30111:2013：信息技术 - 安全
+
+技术 – 可能对制造商有用的漏洞处理流程。制造商应制定策略，以提高其检测信号的能力（例如，参与医疗器械的ISAO）。制造商还可以通过将检测机制纳入其设备设计和设备功能中，来增强其在市场后对网络安全风险的检测能力，从而提高攻击的可检测性并允许获取可靠的证据。
+
+B. 保护/检测
+i. 漏洞的识别和评估
+美国食品药品监督管理局（FDA）建议制造商识别和评估已知的漏洞，因为这将为制造商提供信息，以帮助其进行修复活动。在评估漏洞的可利用性时，制造商应考虑以下因素，例如远程可利用性、攻击复杂性、威胁权限、用户所需的操作、漏洞代码的成熟度以及报告的置信度。例如，“通用漏洞评分系统”（CVSS）等评分系统，提供了一种评估可利用性的一致框架，通过量化影响可利用性的因素来量化影响。请参阅第六部分，了解有关漏洞风险评估的更多指导。
+
+ii. 风险分析和威胁建模
+美国食品药品监督管理局（FDA）建议制造商进行网络安全风险分析，包括为每个设备进行威胁建模，并定期更新这些分析。风险分析和威胁建模应旨在及时修复漏洞。
+
+威胁建模是一种优化网络/应用程序/互联网安全的过程，通过识别目标和漏洞，然后定义预防或减轻对系统的威胁的对策。威胁建模提供传统的风险管理和失效模式分析范式，以及评估来自主动攻击者/恶意使用的威胁的框架。对于每个漏洞，应生成一份摘要报告，简洁地总结风险分析和威胁建模信息。
+
+由于分析具有循环性，因此信息应可追溯到相关文档。
+
+43 “通用漏洞评分系统”，版本 3.0，评分计算器
+(https://www.first.org/cvss/calculator/3.0)。
+
+iii. 威胁源分析
 44
-The FDA recommends manufacturers to analyze possible threat sources. A threat source is defined as the intent and method targeted at the intentional exploitation of a vulnerability or a situation and method that may accidentally trigger a vulnerability.45 Analysis of threat sources, as part of risk analysis and threat modeling provides a framework for risk introduced by an active adversary. Therefore, characterization of threat sources will be advantageous to manufacturers in accessing risks not covered by traditional failure mode analysis methods.
-iv. Incorporation of Threat Detection Capabilities
-Medical devices may not be capable of detecting threat activity and may be reliant on network monitoring. Manufacturers should consider the incorporation of design features that establish or enhance the ability of the device to detect and produce forensically sound postmarket evidence capture in the event of an attack. This information may assist the manufacturer in assessing and remediating identified risks.
-v. Impact Assessment on All Devices
-The FDA recommends that manufacturers have a process to assess the impact of a cybersecurity signal horizontally (i.e., across all medical devices within the manufacturer’s product portfolio and sometimes referred to as variant analyses) and vertically (i.e., determine if there is an impact on specific components within the device).
-A signal may identify a vulnerability in one device, and that same vulnerability may impact other devices including those in development, or those not yet cleared, approved or marketed. Therefore, it will be advantageous to manufacturers to conduct analyses for cybersecurity signals such that expended detection resources have the widest impact.
-## C. Protect/Respond/Recover i. Compensating Controls Assessment (Detect/Respond)
-- The FDA recommends that manufacturers implement device-based features, i.e. device design controls46, as a primary mechanism to mitigate the risk of patient harm.
-Manufacturers should assess and provide users with compensating controls such that the risk of patient harm is further mitigated. In total, these efforts represent a defense-in-depth strategy for medical device cybersecurity.  Section VII describes recommendations for
+美国食品药品监督管理局（FDA）建议制造商分析可能的威胁源。 威胁源被定义为针对有意利用漏洞或可能意外触发漏洞的意图和方法。45 作为风险分析和威胁建模的一部分，威胁源分析为主动攻击带来的风险提供了一个框架。 因此，对威胁源的描述将有助于制造商访问传统失效模式分析方法无法覆盖的风险。
+iv. 整合威胁检测能力
+医疗设备可能无法检测威胁活动，并且可能依赖于网络监控。 制造商应考虑在设计中加入功能，以建立或增强设备检测和在攻击事件发生时获取具有法证价值的后期市场证据的能力。 这些信息可帮助制造商评估和解决已识别的风险。
+v. 对所有设备的冲击评估
+美国食品药品监督管理局（FDA）建议制造商建立一个评估网络安全信号的横向（即制造商产品组合中的所有医疗设备）和纵向（即确定设备特定组件是否存在影响）的过程。
 
-44 National Institute of Standards and Technology, “Guide for Conducting Risk Assessments,” NIST Special
-Publication 800-30 Revision 1 (http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-30r1.pdf).
-45 National Institute of Standards and Technology, “Security and Privacy Controls for Federal Information Systems and Organizations,” NIST Special Publication 800-53, Revision 4, Appendix B
-(http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r4.pdf).
+一个信号可能识别某个设备中的漏洞，而该漏洞也可能影响其他设备，包括正在开发中的设备或尚未获得批准、上市或销售的设备。 因此，对于制造商来说，进行针对网络安全信号的分析，以确保投入的检测资源具有最大的影响，将是有利的。
 
+## C. 保护/应对/恢复 i. 补偿控制评估（检测/响应）
 
+- FDA 建议制造商实施基于设备的功能，即设备设计控制46，作为一种主要机制来降低患者伤害的风险。
 
+制造商应评估并向用户提供补偿控制，从而进一步降低患者伤害的风险。 总体而言，这些努力构成医疗设备网络安全防御体系。 第 VII 节描述了关于
 
+44 美国国家标准与技术研究院，“风险评估指南”，NIST 特别出版物 800-30 修订版 1 (http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-30r1.pdf)。
+45 美国国家标准与技术研究院，“联邦信息系统和组织的安全和隐私控制”，NIST 特别出版物 800-53，修订版 4，附录 B (http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r4.pdf)。
 
-remediating and reporting identified cybersecurity vulnerabilities, including the development, implementation and user notification concerning fixes. Manufacturers should also adopt a coordinated vulnerability disclosure policy and practice that includes acknowledging receipt of the vulnerability to the vulnerability submitter within a specified time frame.
-47,48  The FDA has recognized ISO/IEC 29147:2014: Information
-Technology – Security Techniques – Vulnerability Disclosure that may be a useful resource for manufacturers.
-## D. Risk Mitigation of Safety and Essential Performance
-Once the preceding information has been assessed and characterized, manufacturers should determine if the risk of patient harm presented by the vulnerability are adequately controlled by existing device features and/or manufacturer defined compensating controls
-(i.e., residual risk levels are acceptable). Actions taken should reflect the magnitude of the problem and align with the risks encountered. Manufacturers should also include an evaluation of residual risk, benefit/risk, and risk introduced by the remediation.
-Manufacturers should design their devices to ensure that risks inherent in remediation are properly mitigated including ensuring that the remediation is adequate and validated, that the device designs incorporate mechanisms for secure and timely updates.
-Changes made for vulnerabilities of controlled risk are generally considered device enhancements, not recalls. Cybersecurity routine updates and patches are generally considered a type of device enhancement.
+修复和报告已识别的网络安全漏洞，包括开发、实施和通知用户有关修复的信息。 制造商还应采用协调的漏洞披露政策和实践，包括在指定时间内确认收到漏洞提交者的信息。
+47,48 FDA 认可了 ISO/IEC 29147:2014：信息
+技术 – 安全技术 – 漏洞披露，这可能对制造商有用的资源。
 
-47  The FDA has recognized ISO/IEC 29147:2014: Information Technology – Security Techniques – Vulnerability
-Disclosure
-48 ISO/IEC 30111:2013: Information Technology – Security Techniques – Vulnerability Handling Processes
+## D. 降低安全和基本性能风险
+
+一旦已评估和确定了上述信息，制造商应确定是否存在由该漏洞对患者造成的危害，以及现有设备功能和/或制造商定义的补偿控制是否能够充分控制这些风险（即，剩余风险水平是可以接受的）。采取的措施应反映问题的严重程度，并与遇到的风险相符。制造商还应包括剩余风险、风险/收益评估以及修复措施引入的风险的评估。
+制造商应设计其设备，以确保对修复过程中的固有风险得到适当的控制，包括确保修复措施的充分性和有效性，以及设备设计应包含安全和及时更新的机制。
+针对受控风险漏洞所做的更改通常被认为是设备改进，而不是召回。常规的网络安全更新和补丁通常被认为是设备改进的一种形式。
+
+47  美国食品药品监督管理局（FDA）已认可了ISO/IEC 29147:2014：信息技术——安全技术——漏洞披露
+48 ISO/IEC 30111:2013：信息技术——安全技术——漏洞处理流程
 
 ---
 
-## Footnotes
+## 脚注
 
-[^1]: See FDA Guidance titled “Content of Premarket Submissions for Management of Cybersecurity in Medical
+[^1]: 参见“医疗设备网络安全预先提交内容”的美国食品药品监督管理局（FDA）指南
 
-[^14]: See Department of Homeland Security, “Frequently Asked Questions about Information Sharing and Analysis
+[^14]: 参见美国国土安全部，“关于信息共享和分析的常见问题”
 
-[^18]: NIST SP 800-53; SP 800-53A; SP 800-27; SP 800-60; SP 800-37; CNSSI-4009. Note:  Adapted from NIST definition (SP 800-53).
+[^18]: NIST SP 800-53; SP 800-53A; SP 800-27; SP 800-60; SP 800-37; CNSSI-4009。注意：改编自NIST定义（SP 800-53）。
 
-[^19]: See “Threat Modeling” as defined in the Open Web Application Security Project (OWASP; https://www.owasp.org/index.php/Category:Threat_Modeling).
+[^19]: 参见开放Web应用程序安全项目（OWASP）中对“威胁建模”的定义（https://www.owasp.org/index.php/Category:Threat_Modeling）。
 
-[^33]: See 21 CFR part 820.30(g)  Design controls
+[^33]: 参见21 CFR第820.30(g)条“设计控制”
 
-[^35]: See FDA guidance titled “Distinguishing Medical Device Recalls from Medical Device Enhancements” (http://www.fda.gov/downloads/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/UCM418469. pdf)
+[^35]: 参见“区分医疗器械召回与医疗器械改进”的FDA指南（http://www.fda.gov/downloads/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/UCM418469.pdf）
 
-[^36]: See 21 CFR 806.10(f).
+[^36]: 参见21 CFR 806.10(f)。
 
-[^37]: See 21 CFR 820.100 Corrective action and preventive action.
+[^37]: 参见21 CFR 820.100 纠正和预防措施。
 
-[^38]: See 21 CFR 7.42 Recall strategy for elements of a remediation plan
+[^38]: 参见21 CFR 7.42 召回策略，用于修复计划的要素
 
-[^39]: See 21 CFR 7 (b)(3) – Effectiveness checks.
+[^39]: 参见21 CFR 7 (b)(3) – 效果检查。
 
-[^40]: See 21 CFR 814.39, see also FDA webpage titled, “PMA Supplements and Amendments” (http://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/HowtoMarketYourDevice/PremarketSubmissio ns/PremarketApprovalPMA/ucm050467.htm).
+[^40]: 参见 21 CFR 814.39，另请参见“PMA 补充和修订” (http://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/HowtoMarketYourDevice/PremarketSubmissio ns/PremarketApprovalPMA/ucm050467.htm) 页面。
 
-[^41]: See the web page titled “Unique Device Identification – UDI” http://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/UniqueDeviceIdentification/ for more information
+[^41]: 参见“唯一设备识别 – UDI” 页面：http://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/UniqueDeviceIdentification/ 了解更多信息。
 
-[^42]: See 21 CFR 814.39.
+[^42]: 参见 21 CFR 814.39。
 
-[^46]: See 21 CFR 820.30(g).
+[^46]: 参见 21 CFR 820.30(g)。
 
-
-<!-- fulltext-end -->
