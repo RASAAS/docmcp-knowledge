@@ -49,8 +49,8 @@ title: Contact Us
 <p>All users can register directly and get a <strong>72-hour free trial</strong> with full feature access -- no invite code required.</p>
 
 <div class="download-section">
-  <a href="/downloads/ReguverseAssistant-Installer.zip" class="download-btn" onclick="try{navigator.sendBeacon('https://llm.team-ra.org/api/v1/track/download',new Blob([JSON.stringify({event:'download',source:'installer',lang:'en'})],{type:'text/plain'}))}catch(e){}">&#x2B07; Download Reguverse Assistant Installer</a>
-  <span class="download-hint">Windows and macOS supported -- unzip and run the install script</span>
+  <a href="/en/get-started" class="download-btn">&#x2B07; Download Reguverse Assistant Installer</a>
+  <span class="download-hint">Windows and macOS supported -- choose International or China version</span>
   <span class="download-version">Current version: v0.3.0 (2026-04-10) &middot; <a href="/en/changelog">View changelog</a></span>
 </div>
 

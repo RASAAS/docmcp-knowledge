@@ -49,8 +49,8 @@ title: 联系我们
 <p>所有用户均可直接注册并获得 <strong>72 小时免费试用</strong>，体验全部功能，无需邀请码。</p>
 
 <div class="download-section">
-  <a href="/downloads/ReguverseAssistant-Installer.zip" class="download-btn" onclick="try{navigator.sendBeacon('https://llm.team-ra.org/api/v1/track/download',new Blob([JSON.stringify({event:'download',source:'installer',lang:'zh'})],{type:'text/plain'}))}catch(e){}">&#x2B07; 下载 Reguverse 助手安装包</a>
-  <span class="download-hint">支持 Windows 和 macOS -- 解压后双击安装脚本即可</span>
+  <a href="/zh/get-started" class="download-btn">&#x2B07; 下载 Reguverse 助手安装包</a>
+  <span class="download-hint">支持 Windows 和 macOS -- 国内版 / 国际版可选</span>
   <span class="download-version">当前版本: v0.3.0 (2026-04-10) &middot; <a href="/zh/changelog">查看更新日志</a></span>
 </div>
 
