@@ -14,6 +14,10 @@ published: 2024-05-09
 [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/remanufacturing-medical-devices](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/remanufacturing-medical-devices)
 :::
 
+::: info
+This content has been machine-translated from the English original.
+:::
+
 <!-- fulltext-start -->
 
 ---
@@ -538,3 +542,5 @@ BCA #EI-005和CCAR #EI-006）。
 
 [^70]: 《FD&C 法》第 502(f)(1) 条要求标签必须包含充分的使用说明。 对于非处方器械，充分的使用说明包括关于如何准备器械使用的说明。 《21 CFR 801.5(g)》。
 
+
+<!-- fulltext-end -->

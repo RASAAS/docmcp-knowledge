@@ -14,6 +14,10 @@ published: 2026-02-03
 [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/cybersecurity-medical-devices-quality-management-system-considerations-and-content-premarket](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/cybersecurity-medical-devices-quality-management-system-considerations-and-content-premarket)
 :::
 
+::: info
+This content has been machine-translated from the English original.
+:::
+
 <!-- fulltext-start -->
 
 ---
@@ -1272,3 +1276,5 @@ IDE 提交*
 
 [^114]: “安全产品开发框架”一词，是为本指南而开发的，旨在帮助反映和涵盖与安全开发生命周期和框架相关的概念。虽然“SPDF”是一个新的术语，但与安全产品开发和风险管理相关的概念并非新，并且符合《质量管理体系要求》（QMSR）和《标签规定》的要求。随着网络安全不断发展，FDA 将继续调整其术语，以反映最佳实践，并根据数据和信息保护的方式，在不同的安全领域之间建立联系。安全架构反映了安全领域、安全相关元素的在安全领域内的位置、安全相关元素之间的互连关系和信任关系，以及安全相关元素之间的行为和交互。
 
+
+<!-- fulltext-end -->

@@ -14,6 +14,10 @@ published: 2016-12-28
 [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/postmarket-management-cybersecurity-medical-devices](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/postmarket-management-cybersecurity-medical-devices)
 :::
 
+::: info
+This content has been machine-translated from the English original.
+:::
+
 <!-- fulltext-start -->
 
 ---
@@ -516,3 +520,5 @@ v. 对所有设备的冲击评估
 
 [^46]: 参见 21 CFR 820.30(g)。
 
+
+<!-- fulltext-end -->

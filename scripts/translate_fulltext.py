@@ -1,471 +1,394 @@
-"""Translate regulatory fulltext Markdown files via translation API.
+#!/usr/bin/env python3
+"""Translate fulltext documents using the Modal-deployed translation API.
 
-Supports all regulatory document sections (IMDRF, ISO/IEC, MDCG, FDA, NMPA)
-and bidirectional translation (EN->ZH and ZH->EN).
+Reads Chinese (.md) fulltext files, sends them to the TranslateGemma API
+on Modal for zh->en translation, and saves the result as .en.md files.
 
-Uses the med-doc-translator text API endpoint to translate each section
-of the Markdown files while preserving structure, images, links, and tables.
+The translation API processes text in segments to handle long documents.
 
-By default, uses Modal GPU-accelerated API (requires TRANSLATE_API_TOKEN).
-Set TRANSLATE_API_URL to use a different endpoint (e.g. local Ollama).
+Prerequisites:
+    - TRANSLATE_API_URL env var (default: Modal endpoint)
+    - TRANSLATE_API_TOKEN env var (Bearer token for auth)
 
 Usage:
-    # Set Modal API token (required for default Modal endpoint)
-    export TRANSLATE_API_TOKEN="your-token-here"
-
-    # Translate all English fulltexts to Chinese across all sections
-    python scripts/translate_fulltext.py
-
-    # Translate specific section only
-    python scripts/translate_fulltext.py --section imdrf
-
-    # Use local API instead of Modal
-    TRANSLATE_API_URL=http://localhost:8050/api/translate/text python scripts/translate_fulltext.py
-
-    # Translate Chinese to English (for NMPA docs)
-    python scripts/translate_fulltext.py --section nmpa --direction zh-en
-
-    # Translate a single file by ID
-    python scripts/translate_fulltext.py --section imdrf --file imdrf-samd-n10-2013
-
-    # Re-translate existing translations
-    python scripts/translate_fulltext.py --force
-
-    # Preview without translating
-    python scripts/translate_fulltext.py --dry-run
+    python scripts/translate_fulltext.py --section nmpa/guidance --dry-run
+    python scripts/translate_fulltext.py --section nmpa/guidance --limit 5
+    python scripts/translate_fulltext.py --file nmpa/guidance/fulltext/cmde-2007-345.md
+    python scripts/translate_fulltext.py --stats
 """
-
-from __future__ import annotations
 
 import argparse
 import json
+import logging
 import os
 import re
 import sys
 import time
 from pathlib import Path
+from typing import Optional
 
-import requests
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s %(levelname)s: %(message)s",
+    datefmt="%H:%M:%S",
+)
+logger = logging.getLogger(__name__)
 
-ROOT = Path(__file__).resolve().parent.parent
+KNOWLEDGE_ROOT = Path(__file__).parent.parent
 
-# Modal GPU-accelerated API (default) -- requires TRANSLATE_API_TOKEN env var
-MODAL_TRANSLATE_API = "https://m-yan82--translate-api-translateserver-serve.modal.run/api/translate/text"
-# Local Ollama fallback (slower, no auth needed)
-LOCAL_TRANSLATE_API = "http://100.93.45.36:8050/api/translate/text"
+DEFAULT_API_URL = (
+    "https://m-yan82--translate-api-translateserver-serve.modal.run"
+)
+API_URL = os.getenv("TRANSLATE_API_URL", DEFAULT_API_URL)
+API_TOKEN = os.getenv("TRANSLATE_API_TOKEN", "")
 
-TRANSLATE_API = os.environ.get("TRANSLATE_API_URL", MODAL_TRANSLATE_API)
-TRANSLATE_API_TOKEN = os.environ.get("TRANSLATE_API_TOKEN", "")
+MAX_SEGMENTS_PER_REQUEST = 150
+MAX_CHARS_PER_REQUEST = 400_000
+SEGMENT_MIN_LENGTH = 20
 
-# All sections with fulltext directories, keyed by CLI name
-# Each maps to: (data_dir relative to ROOT, source_lang)
-SECTIONS = {
-    "imdrf":  {"path": "_shared/imdrf/fulltext",  "source_lang": "en"},
-    "iso_iec": {"path": "_shared/iso_iec/fulltext", "source_lang": "en"},
-    "mdcg":   {"path": "eu_mdr/mdcg/fulltext",     "source_lang": "en"},
-    "fda":    {"path": "fda/guidance/fulltext",     "source_lang": "en"},
-    "nmpa":   {"path": "nmpa/guidance/fulltext",    "source_lang": "zh"},
-}
-
-HEADING_RE = re.compile(r"^(#{1,6}\s+)")
-SKIP_LINE_PATTERNS = [
-    re.compile(r"^\s*$"),
-    re.compile(r"^!\[.*\]\(data:image"),
-    re.compile(r"^---\s*$"),
-    re.compile(r"^\*\*Source\*\*:"),
-    re.compile(r"^\*\*Document Number\*\*:"),
-    re.compile(r"^\*\*来源\*\*:"),
-    re.compile(r"^\*\*文件编号\*\*:"),
+# Markdown structural markers that should not be translated
+SKIP_PATTERNS = [
+    re.compile(r'^---\s*$'),
+    re.compile(r'^\|[\s:|-]+\|$'),
+    re.compile(r'^<!--.*-->$'),
+    re.compile(r'^\s*$'),
+    re.compile(r'^!\['),
+    re.compile(r'^\*\*Source:\*\*'),
 ]
-TABLE_SEPARATOR_RE = re.compile(r"^\|[\s\-:|]+\|$")
 
 
 def should_skip_line(line: str) -> bool:
-    """Lines that should be preserved as-is (images, separators, metadata)."""
-    for pat in SKIP_LINE_PATTERNS:
-        if pat.match(line):
+    """Check if a line should be kept as-is (not translated)."""
+    for pattern in SKIP_PATTERNS:
+        if pattern.match(line.strip()):
             return True
     return False
 
 
-def is_table_line(line: str) -> bool:
-    return line.strip().startswith("|") and line.strip().endswith("|")
+def is_table_row(line: str) -> bool:
+    return line.strip().startswith('|') and line.strip().endswith('|')
 
 
-def split_into_sections(content: str) -> list[dict]:
-    """Split Markdown into translatable and non-translatable sections.
+def split_into_segments(text: str) -> list[dict]:
+    """Split markdown text into translatable and non-translatable segments.
 
-    Returns a list of dicts:
-      {"type": "translate", "lines": [...]}  -- text to translate
-      {"type": "keep", "lines": [...]}       -- pass through as-is
+    Returns list of {"text": str, "translate": bool, "type": str}
     """
-    lines = content.split("\n")
-    sections: list[dict] = []
-    current_type = "keep"
-    current_lines: list[str] = []
+    lines = text.split('\n')
+    segments = []
+    current_translatable = []
+    current_skip = []
 
-    def flush():
-        nonlocal current_lines
-        if current_lines:
-            sections.append({"type": current_type, "lines": list(current_lines)})
-            current_lines = []
+    def flush_translatable():
+        nonlocal current_translatable
+        if current_translatable:
+            joined = '\n'.join(current_translatable)
+            if joined.strip():
+                segments.append({
+                    "text": joined,
+                    "translate": True,
+                    "type": "text",
+                })
+            current_translatable = []
 
-    i = 0
-    while i < len(lines):
-        line = lines[i]
-
-        if should_skip_line(line):
-            if current_type != "keep":
-                flush()
-                current_type = "keep"
-            current_lines.append(line)
-            i += 1
-            continue
-
-        if line.strip().startswith("```"):
-            if current_type != "keep":
-                flush()
-                current_type = "keep"
-            current_lines.append(line)
-            i += 1
-            while i < len(lines) and not lines[i].strip().startswith("```"):
-                current_lines.append(lines[i])
-                i += 1
-            if i < len(lines):
-                current_lines.append(lines[i])
-                i += 1
-            continue
-
-        if is_table_line(line):
-            if current_type != "keep":
-                flush()
-                current_type = "keep"
-            while i < len(lines) and is_table_line(lines[i]):
-                current_lines.append(lines[i])
-                i += 1
-            continue
-
-        if current_type != "translate":
-            flush()
-            current_type = "translate"
-        current_lines.append(line)
-        i += 1
-
-    flush()
-    return sections
-
-
-def merge_translate_lines(lines: list[str]) -> list[str]:
-    """Merge consecutive text lines into paragraph-level segments for translation.
-
-    Headings are kept as individual segments. Consecutive non-heading lines
-    are joined into a single paragraph (preserving Markdown list markers).
-    """
-    segments: list[str] = []
-    buffer: list[str] = []
-
-    def flush_buf():
-        nonlocal buffer
-        if buffer:
-            segments.append("\n".join(buffer))
-            buffer = []
+    def flush_skip():
+        nonlocal current_skip
+        if current_skip:
+            segments.append({
+                "text": '\n'.join(current_skip),
+                "translate": False,
+                "type": "structural",
+            })
+            current_skip = []
 
     for line in lines:
-        if HEADING_RE.match(line):
-            flush_buf()
-            segments.append(line)
-        elif line.strip().startswith(("- ", "* ", "1. ", "2. ", "3. ", "4. ", "5. ",
-                                      "6. ", "7. ", "8. ", "9. ")):
-            flush_buf()
-            segments.append(line)
-        elif line.strip() == "":
-            flush_buf()
+        if should_skip_line(line):
+            flush_translatable()
+            current_skip.append(line)
+        elif is_table_row(line):
+            flush_translatable()
+            flush_skip()
+            segments.append({
+                "text": line,
+                "translate": True,
+                "type": "table_row",
+            })
         else:
-            buffer.append(line)
+            flush_skip()
+            current_translatable.append(line)
 
-    flush_buf()
+    flush_translatable()
+    flush_skip()
+
     return segments
 
 
-def call_translate_api(texts: list[str], lang_in: str = "en", lang_out: str = "zh",
-                       max_retries: int = 3) -> list[str]:
-    """Call the translation API with retry logic."""
+def batch_segments(segments: list[dict]) -> list[list[dict]]:
+    """Group translatable segments into API-friendly batches."""
+    batches = []
+    current_batch = []
+    current_chars = 0
+
+    for seg in segments:
+        if not seg["translate"]:
+            continue
+        seg_chars = len(seg["text"])
+        if (len(current_batch) >= MAX_SEGMENTS_PER_REQUEST or
+                current_chars + seg_chars > MAX_CHARS_PER_REQUEST):
+            if current_batch:
+                batches.append(current_batch)
+            current_batch = [seg]
+            current_chars = seg_chars
+        else:
+            current_batch.append(seg)
+            current_chars += seg_chars
+
+    if current_batch:
+        batches.append(current_batch)
+
+    return batches
+
+
+def translate_batch(texts: list[str], retries: int = 3) -> list[str]:
+    """Call the translation API to translate a batch of texts."""
+    import requests
+
+    if not API_TOKEN:
+        logger.error("TRANSLATE_API_TOKEN not set")
+        return texts
+
+    headers = {
+        "Content-Type": "application/json",
+        "Authorization": f"Bearer {API_TOKEN}",
+    }
     payload = {
         "texts": texts,
-        "lang_in": lang_in,
-        "lang_out": lang_out,
+        "lang_in": "zh",
+        "lang_out": "en",
         "use_glossary": True,
     }
 
-    headers = {"Content-Type": "application/json"}
-    if TRANSLATE_API_TOKEN:
-        headers["Authorization"] = f"Bearer {TRANSLATE_API_TOKEN}"
-
-    for attempt in range(1, max_retries + 1):
+    for attempt in range(retries):
         try:
-            resp = requests.post(TRANSLATE_API, json=payload, headers=headers,
-                                 timeout=600)
+            resp = requests.post(
+                f"{API_URL}/api/translate/text",
+                json=payload,
+                headers=headers,
+                timeout=300,
+            )
             resp.raise_for_status()
             data = resp.json()
-            return data["translations"]
-        except requests.exceptions.Timeout:
-            print(f"    [WARN] API timeout (attempt {attempt}/{max_retries})")
-            if attempt < max_retries:
-                time.sleep(5 * attempt)
-        except requests.exceptions.RequestException as e:
-            print(f"    [ERROR] API call failed: {e}")
-            if attempt < max_retries:
-                time.sleep(3 * attempt)
-            else:
-                raise
+            translations = data.get("translations", [])
+            if len(translations) == len(texts):
+                return translations
+            logger.warning(f"  Translation count mismatch: "
+                           f"sent {len(texts)}, got {len(translations)}")
+            return translations + texts[len(translations):]
+        except Exception as e:
+            logger.warning(f"  Translation attempt {attempt + 1} failed: {e}")
+            if attempt < retries - 1:
+                time.sleep(5 * (attempt + 1))
 
-    raise RuntimeError("Translation API failed after max retries")
-
-
-def translate_in_batches(segments: list[str], lang_in: str = "en",
-                         lang_out: str = "zh", batch_size: int = 50) -> list[str]:
-    """Translate segments in batches to stay within API limits."""
-    results: list[str] = []
-    total = len(segments)
-
-    for start in range(0, total, batch_size):
-        batch = segments[start:start + batch_size]
-        end = min(start + batch_size, total)
-        print(f"    Translating segments {start+1}-{end}/{total}...")
-
-        translated = call_translate_api(batch, lang_in=lang_in, lang_out=lang_out)
-        results.extend(translated)
-
-        if end < total:
-            time.sleep(1)
-
-    return results
+    logger.error(f"  All translation attempts failed, returning originals")
+    return texts
 
 
-def translate_file(source_path: Path, output_path: Path,
-                   lang_in: str = "en", lang_out: str = "zh") -> bool:
-    """Translate a single Markdown fulltext file."""
-    content = source_path.read_text(encoding="utf-8")
+def translate_document(source_path: Path) -> Optional[str]:
+    """Translate a Chinese markdown document to English."""
+    text = source_path.read_text(encoding="utf-8")
+    if not text.strip():
+        return None
 
-    sections = split_into_sections(content)
+    segments = split_into_segments(text)
+    translatable = [s for s in segments if s["translate"]]
 
-    all_segments: list[str] = []
-    segment_map: list[tuple[int, int, int]] = []
+    if not translatable:
+        logger.warning(f"  No translatable content found")
+        return None
 
-    for sec_idx, section in enumerate(sections):
-        if section["type"] != "translate":
-            continue
-        merged = merge_translate_lines(section["lines"])
-        start = len(all_segments)
-        all_segments.extend(merged)
-        end = len(all_segments)
-        segment_map.append((sec_idx, start, end))
+    total_chars = sum(len(s["text"]) for s in translatable)
+    logger.info(f"  {len(translatable)} segments, {total_chars} chars to translate")
 
-    if not all_segments:
-        print(f"    [SKIP] No translatable content found")
-        return False
+    batches = batch_segments(segments)
+    logger.info(f"  Split into {len(batches)} API batches")
 
-    print(f"    Sections: {len(sections)} ({len(segment_map)} translatable)")
-    print(f"    Total segments to translate: {len(all_segments)}")
+    translation_map = {}
+    for bi, batch in enumerate(batches):
+        texts = [s["text"] for s in batch]
+        logger.info(f"  Batch {bi + 1}/{len(batches)}: "
+                    f"{len(texts)} segments, {sum(len(t) for t in texts)} chars")
+        translated = translate_batch(texts)
+        for seg, trans in zip(batch, translated):
+            translation_map[id(seg)] = trans
+        if bi < len(batches) - 1:
+            time.sleep(2)
 
-    translated = translate_in_batches(all_segments, lang_in=lang_in, lang_out=lang_out)
-
-    output_lines: list[str] = []
-
-    for sec_idx, section in enumerate(sections):
-        if section["type"] == "keep":
-            output_lines.extend(section["lines"])
+    result_parts = []
+    for seg in segments:
+        if seg["translate"]:
+            trans = translation_map.get(id(seg), seg["text"])
+            result_parts.append(trans)
         else:
-            mapping = None
-            for m in segment_map:
-                if m[0] == sec_idx:
-                    mapping = m
-                    break
+            result_parts.append(seg["text"])
 
-            if mapping is None:
-                output_lines.extend(section["lines"])
+    return '\n'.join(result_parts)
+
+
+def get_en_path(zh_path: Path) -> Path:
+    """Get the English translation output path for a Chinese fulltext file."""
+    stem = zh_path.stem
+    if stem.endswith('.zh'):
+        stem = stem[:-3]
+    return zh_path.parent / f"{stem}.en.md"
+
+
+def process_section(section: str, limit: int = 0, dry_run: bool = False,
+                    force: bool = False):
+    """Translate all fulltext files in a section (e.g. nmpa/guidance)."""
+    parts = section.split('/')
+    if len(parts) != 2:
+        logger.error(f"Section must be framework/type (e.g. nmpa/guidance)")
+        return
+
+    framework, doc_type = parts
+    fulltext_dir = KNOWLEDGE_ROOT / framework / doc_type / "fulltext"
+
+    if not fulltext_dir.exists():
+        logger.error(f"Directory not found: {fulltext_dir}")
+        return
+
+    zh_files = sorted(fulltext_dir.glob("*.md"))
+    zh_files = [f for f in zh_files if not f.stem.endswith('.en')]
+
+    candidates = []
+    already_done = 0
+    for zh_path in zh_files:
+        en_path = get_en_path(zh_path)
+        if not force and en_path.exists():
+            already_done += 1
+            continue
+        candidates.append(zh_path)
+
+    total_candidates = len(candidates)
+    if limit > 0:
+        candidates = candidates[:limit]
+
+    logger.info(f"Translating {len(candidates)} files from {fulltext_dir}")
+    logger.info(f"  Total ZH files: {len(zh_files)}, "
+                f"Already translated: {already_done}, "
+                f"Remaining: {total_candidates}")
+
+    success = 0
+    failed = 0
+
+    for i, zh_path in enumerate(candidates):
+        logger.info(f"[{i+1}/{len(candidates)}] {zh_path.name}")
+
+        if dry_run:
+            continue
+
+        en_text = translate_document(zh_path)
+        if not en_text:
+            failed += 1
+            continue
+
+        en_path = get_en_path(zh_path)
+        en_path.write_text(en_text, encoding="utf-8")
+        logger.info(f"  Saved: {en_path.name} ({len(en_text)} chars)")
+        success += 1
+
+    logger.info(f"\nTranslation complete: {success} succeeded, {failed} failed")
+
+
+def process_file(file_path: str, dry_run: bool = False):
+    """Translate a single file."""
+    path = KNOWLEDGE_ROOT / file_path
+    if not path.exists():
+        logger.error(f"File not found: {path}")
+        return
+
+    logger.info(f"Translating: {path.name}")
+
+    if dry_run:
+        segments = split_into_segments(path.read_text(encoding="utf-8"))
+        translatable = [s for s in segments if s["translate"]]
+        total_chars = sum(len(s["text"]) for s in translatable)
+        logger.info(f"  Would translate {len(translatable)} segments, "
+                    f"{total_chars} chars")
+        return
+
+    en_text = translate_document(path)
+    if en_text:
+        en_path = get_en_path(path)
+        en_path.write_text(en_text, encoding="utf-8")
+        logger.info(f"  Saved: {en_path.name} ({len(en_text)} chars)")
+
+
+def show_stats():
+    """Show translation statistics across all sections."""
+    print(f"\n=== Fulltext Translation Statistics ===\n")
+
+    for fw_dir in sorted(KNOWLEDGE_ROOT.iterdir()):
+        if not fw_dir.is_dir() or fw_dir.name.startswith('.') or fw_dir.name in ('scripts', 'docs', 'schemas'):
+            continue
+
+        for type_dir in sorted(fw_dir.iterdir()):
+            if not type_dir.is_dir():
+                continue
+            ft_dir = type_dir / "fulltext"
+            if not ft_dir.exists():
                 continue
 
-            _, start, end = mapping
-            for i in range(start, end):
-                if i < len(translated):
-                    output_lines.append(translated[i])
-                    output_lines.append("")
+            all_md = list(ft_dir.glob("*.md"))
+            zh_files = [f for f in all_md if not f.stem.endswith('.en')]
+            en_files = [f for f in all_md if f.stem.endswith('.en')]
 
-    result = "\n".join(output_lines)
-    result = re.sub(r"\n{3,}", "\n\n", result)
-    output_path.write_text(result.strip() + "\n", encoding="utf-8")
-    return True
+            if not zh_files:
+                continue
 
+            translated = 0
+            for zh_f in zh_files:
+                en_path = get_en_path(zh_f)
+                if en_path.exists():
+                    translated += 1
 
-def get_translated_suffix(lang_out: str) -> str:
-    """Get the file suffix for translated files."""
-    return f".{lang_out}.md"
+            pct = translated / len(zh_files) * 100 if zh_files else 0
+            section = f"{fw_dir.name}/{type_dir.name}"
+            print(f"  {section:30s}  "
+                  f"ZH: {len(zh_files):3d}  "
+                  f"EN: {translated:3d}  "
+                  f"({pct:.0f}%)")
 
-
-def collect_files(section_name: str, section_info: dict,
-                  direction: str | None = None) -> tuple[Path, str, str, str]:
-    """Collect source files and determine translation direction.
-
-    Returns (fulltext_dir, source_suffix, target_suffix, lang_in, lang_out).
-    """
-    fulltext_dir = ROOT / section_info["path"]
-    source_lang = section_info["source_lang"]
-
-    if direction:
-        lang_in, lang_out = direction.split("-")
-    elif source_lang == "zh":
-        lang_in, lang_out = "zh", "en"
-    else:
-        lang_in, lang_out = "en", "zh"
-
-    if lang_in == source_lang:
-        source_suffix = ".md"
-    else:
-        source_suffix = f".{lang_in}.md"
-
-    target_suffix = f".{lang_out}.md"
-
-    return fulltext_dir, source_suffix, target_suffix, lang_in, lang_out
+    print()
 
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Translate regulatory fulltext Markdown files"
+        description="Translate fulltext documents using Modal API",
     )
-    parser.add_argument(
-        "--section",
-        choices=list(SECTIONS.keys()) + ["all"],
-        default="all",
-        help="Which section to translate (default: all)"
-    )
-    parser.add_argument(
-        "--direction",
-        choices=["en-zh", "zh-en"],
-        default=None,
-        help="Translation direction (default: auto based on section source language)"
-    )
-    parser.add_argument("--force", action="store_true",
-                        help="Re-translate existing translated files")
-    parser.add_argument("--file", type=str,
-                        help="Translate a specific file ID (without .md suffix)")
+    group = parser.add_mutually_exclusive_group(required=True)
+    group.add_argument("--section", type=str,
+                       help="Section to translate (e.g. nmpa/guidance)")
+    group.add_argument("--file", type=str,
+                       help="Single file to translate (relative to repo root)")
+    group.add_argument("--stats", action="store_true",
+                       help="Show translation coverage statistics")
+
+    parser.add_argument("--limit", type=int, default=0,
+                        help="Max files to translate (0 = all)")
     parser.add_argument("--dry-run", action="store_true",
-                        help="Show what would be translated without doing it")
+                        help="Preview without translating")
+    parser.add_argument("--force", action="store_true",
+                        help="Re-translate even if .en.md exists")
     args = parser.parse_args()
 
-    sections_to_process = (
-        list(SECTIONS.keys()) if args.section == "all"
-        else [args.section]
-    )
-
-    print("=" * 60)
-    print("Regulatory Fulltext Translation Pipeline")
-    print(f"API: {TRANSLATE_API}")
-    print(f"Sections: {', '.join(sections_to_process)}")
-    if args.direction:
-        print(f"Direction override: {args.direction}")
-    print("=" * 60)
-
-    if not args.dry_run:
-        health_url = TRANSLATE_API.replace("/translate/text", "/health")
-        try:
-            r = requests.get(health_url, timeout=30)
-            r.raise_for_status()
-            print("API health: OK")
-        except Exception as e:
-            print(f"API health check failed: {e}")
-            print(f"  URL: {health_url}")
-            if "modal.run" in TRANSLATE_API and not TRANSLATE_API_TOKEN:
-                print("  HINT: Set TRANSLATE_API_TOKEN env var for Modal API")
-            sys.exit(1)
-
-    grand_total = {"translated": 0, "skipped": 0, "failed": 0, "no_source": 0}
-
-    for section_name in sections_to_process:
-        section_info = SECTIONS[section_name]
-        fulltext_dir, source_suffix, target_suffix, lang_in, lang_out = \
-            collect_files(section_name, section_info, args.direction)
-
-        if not fulltext_dir.exists():
-            print(f"\n[{section_name}] Fulltext dir not found: {fulltext_dir}")
-            grand_total["no_source"] += 1
-            continue
-
-        source_files = sorted(fulltext_dir.glob(f"*{source_suffix}"))
-        # Exclude already-translated files from source list
-        source_files = [f for f in source_files
-                        if not any(f.name.endswith(f".{lang}.md")
-                                   for lang in ("zh", "en") if f".{lang}.md" != source_suffix)]
-
-        if args.file:
-            source_files = [f for f in source_files if f.stem == args.file]
-            if not source_files:
-                print(f"\n[{section_name}] File not found: {args.file}{source_suffix}")
-                continue
-
-        if not source_files:
-            print(f"\n[{section_name}] No source files found in {fulltext_dir}")
-            continue
-
-        print(f"\n{'=' * 60}")
-        print(f"[{section_name.upper()}] {lang_in.upper()} -> {lang_out.upper()}")
-        print(f"Source dir: {fulltext_dir}")
-        print(f"Files: {len(source_files)}")
-        print(f"Source suffix: {source_suffix} -> Target suffix: {target_suffix}")
-        print("-" * 60)
-
-        translated = 0
-        skipped = 0
-        failed = 0
-
-        for src in source_files:
-            stem = src.stem
-            if stem.endswith(f".{lang_out}"):
-                continue
-            target_path = src.parent / f"{stem}{target_suffix}"
-
-            if target_path.exists() and not args.force:
-                print(f"  [SKIP] {src.name} -> {target_path.name} exists "
-                      f"({target_path.stat().st_size} bytes)")
-                skipped += 1
-                continue
-
-            if args.dry_run:
-                size = src.stat().st_size
-                print(f"  [DRY-RUN] Would translate: {src.name} ({size} bytes) "
-                      f"-> {target_path.name}")
-                continue
-
-            print(f"  Translating: {src.name} -> {target_path.name}")
-            start = time.time()
-            try:
-                ok = translate_file(src, target_path, lang_in=lang_in, lang_out=lang_out)
-                elapsed = time.time() - start
-                if ok:
-                    zh_size = target_path.stat().st_size
-                    print(f"    [OK] {target_path.name} ({zh_size} bytes, {elapsed:.1f}s)")
-                    translated += 1
-                else:
-                    skipped += 1
-            except Exception as e:
-                elapsed = time.time() - start
-                print(f"    [FAILED] {e} ({elapsed:.1f}s)")
-                failed += 1
-
-            if translated > 0:
-                time.sleep(2)
-
-        print(f"  Result: {translated} translated, {skipped} skipped, {failed} failed")
-        grand_total["translated"] += translated
-        grand_total["skipped"] += skipped
-        grand_total["failed"] += failed
-
-    print(f"\n{'=' * 60}")
-    print(f"TOTAL: {grand_total['translated']} translated, "
-          f"{grand_total['skipped']} skipped, "
-          f"{grand_total['failed']} failed")
-    if grand_total["no_source"] > 0:
-        print(f"  ({grand_total['no_source']} sections had no fulltext directory)")
+    if args.stats:
+        show_stats()
+    elif args.file:
+        process_file(args.file, dry_run=args.dry_run)
+    elif args.section:
+        process_section(args.section, limit=args.limit,
+                        dry_run=args.dry_run, force=args.force)
 
 
 if __name__ == "__main__":
