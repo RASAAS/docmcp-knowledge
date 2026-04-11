@@ -1,4 +1,4 @@
-"""Translate regulatory fulltext Markdown files via local translation API.
+"""Translate regulatory fulltext Markdown files via translation API.
 
 Supports all regulatory document sections (IMDRF, ISO/IEC, MDCG, FDA, NMPA)
 and bidirectional translation (EN->ZH and ZH->EN).
@@ -6,13 +6,21 @@ and bidirectional translation (EN->ZH and ZH->EN).
 Uses the med-doc-translator text API endpoint to translate each section
 of the Markdown files while preserving structure, images, links, and tables.
 
+By default, uses Modal GPU-accelerated API (requires TRANSLATE_API_TOKEN).
+Set TRANSLATE_API_URL to use a different endpoint (e.g. local Ollama).
+
 Usage:
+    # Set Modal API token (required for default Modal endpoint)
+    export TRANSLATE_API_TOKEN="your-token-here"
+
     # Translate all English fulltexts to Chinese across all sections
     python scripts/translate_fulltext.py
 
     # Translate specific section only
     python scripts/translate_fulltext.py --section imdrf
-    python scripts/translate_fulltext.py --section mdcg
+
+    # Use local API instead of Modal
+    TRANSLATE_API_URL=http://localhost:8050/api/translate/text python scripts/translate_fulltext.py
 
     # Translate Chinese to English (for NMPA docs)
     python scripts/translate_fulltext.py --section nmpa --direction zh-en
@@ -31,6 +39,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import os
 import re
 import sys
 import time
@@ -40,7 +49,13 @@ import requests
 
 ROOT = Path(__file__).resolve().parent.parent
 
-TRANSLATE_API = "http://100.93.45.36:8050/api/translate/text"
+# Modal GPU-accelerated API (default) -- requires TRANSLATE_API_TOKEN env var
+MODAL_TRANSLATE_API = "https://m-yan82--translate-api-translateserver-serve.modal.run/api/translate/text"
+# Local Ollama fallback (slower, no auth needed)
+LOCAL_TRANSLATE_API = "http://100.93.45.36:8050/api/translate/text"
+
+TRANSLATE_API = os.environ.get("TRANSLATE_API_URL", MODAL_TRANSLATE_API)
+TRANSLATE_API_TOKEN = os.environ.get("TRANSLATE_API_TOKEN", "")
 
 # All sections with fulltext directories, keyed by CLI name
 # Each maps to: (data_dir relative to ROOT, source_lang)
@@ -182,9 +197,14 @@ def call_translate_api(texts: list[str], lang_in: str = "en", lang_out: str = "z
         "use_glossary": True,
     }
 
+    headers = {"Content-Type": "application/json"}
+    if TRANSLATE_API_TOKEN:
+        headers["Authorization"] = f"Bearer {TRANSLATE_API_TOKEN}"
+
     for attempt in range(1, max_retries + 1):
         try:
-            resp = requests.post(TRANSLATE_API, json=payload, timeout=600)
+            resp = requests.post(TRANSLATE_API, json=payload, headers=headers,
+                                 timeout=600)
             resp.raise_for_status()
             data = resp.json()
             return data["translations"]
@@ -347,12 +367,16 @@ def main():
     print("=" * 60)
 
     if not args.dry_run:
+        health_url = TRANSLATE_API.replace("/translate/text", "/health")
         try:
-            r = requests.get(TRANSLATE_API.replace("/translate/text", "/health"), timeout=5)
+            r = requests.get(health_url, timeout=30)
             r.raise_for_status()
             print("API health: OK")
         except Exception as e:
             print(f"API health check failed: {e}")
+            print(f"  URL: {health_url}")
+            if "modal.run" in TRANSLATE_API and not TRANSLATE_API_TOKEN:
+                print("  HINT: Set TRANSLATE_API_TOKEN env var for Modal API")
             sys.exit(1)
 
     grand_total = {"translated": 0, "skipped": 0, "failed": 0, "no_source": 0}
