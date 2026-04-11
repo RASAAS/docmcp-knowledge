@@ -13,7 +13,7 @@ title: 快速开始
 <div class="section-block">
 <h2>下载</h2>
 
-<p>请根据您的所在地区选择对应版本以获得最佳访问速度。两个版本使用相同的后端服务，您的账户在两个版本之间通用。</p>
+<p>请根据您的所在地区和操作系统选择对应安装包。两个版本使用相同的后端服务，您的账户在两个版本之间通用。</p>
 
 <div class="download-grid">
 
@@ -21,14 +21,20 @@ title: 快速开始
   <div class="card-badge badge-cn">推荐</div>
   <h3>国内版</h3>
   <p>适合中国大陆用户使用。</p>
-  <a href="/downloads/ReguverseAssistant-CN-Installer.zip" class="download-btn btn-cn" onclick="try{navigator.sendBeacon('https://llm.team-ra.org/api/v1/track/download',new Blob([JSON.stringify({event:'download',source:'installer',version:'cn',lang:'zh',ts:Date.now()})],{type:'text/plain'}))}catch(e){}">下载国内版</a>
+  <div class="dl-os-btns">
+    <a href="/downloads/ReguverseAssistant-CN-Windows.zip" class="download-btn btn-cn" onclick="try{navigator.sendBeacon('https://llm.team-ra.org/api/v1/track/download',new Blob([JSON.stringify({event:'download',source:'installer',version:'cn',os:'windows',lang:'zh',ts:Date.now()})],{type:'text/plain'}))}catch(e){}">Windows 下载</a>
+    <a href="/downloads/ReguverseAssistant-CN-macOS.zip" class="download-btn btn-cn-outline" onclick="try{navigator.sendBeacon('https://llm.team-ra.org/api/v1/track/download',new Blob([JSON.stringify({event:'download',source:'installer',version:'cn',os:'macos',lang:'zh',ts:Date.now()})],{type:'text/plain'}))}catch(e){}">macOS 下载</a>
+  </div>
 </div>
 
 <div class="download-card">
   <div class="card-badge">International</div>
   <h3>国际版</h3>
   <p>适合中国大陆以外的用户。</p>
-  <a href="/downloads/ReguverseAssistant-Installer.zip" class="download-btn" onclick="try{navigator.sendBeacon('https://llm.team-ra.org/api/v1/track/download',new Blob([JSON.stringify({event:'download',source:'installer',version:'intl',lang:'zh',ts:Date.now()})],{type:'text/plain'}))}catch(e){}">下载国际版</a>
+  <div class="dl-os-btns">
+    <a href="/downloads/ReguverseAssistant-Windows.zip" class="download-btn" onclick="try{navigator.sendBeacon('https://llm.team-ra.org/api/v1/track/download',new Blob([JSON.stringify({event:'download',source:'installer',version:'intl',os:'windows',lang:'zh',ts:Date.now()})],{type:'text/plain'}))}catch(e){}">Windows 下载</a>
+    <a href="/downloads/ReguverseAssistant-macOS.zip" class="download-btn download-btn-outline" onclick="try{navigator.sendBeacon('https://llm.team-ra.org/api/v1/track/download',new Blob([JSON.stringify({event:'download',source:'installer',version:'intl',os:'macos',lang:'zh',ts:Date.now()})],{type:'text/plain'}))}catch(e){}">macOS 下载</a>
+  </div>
 </div>
 
 </div>
@@ -240,6 +246,41 @@ title: 快速开始
 
 .btn-cn:hover {
   background: #c0392b;
+}
+
+.download-btn-outline {
+  background: transparent !important;
+  color: var(--vp-c-brand-1) !important;
+  border: 2px solid var(--vp-c-brand-1);
+  box-shadow: none;
+}
+.download-btn-outline:hover {
+  background: var(--vp-c-brand-1) !important;
+  color: white !important;
+}
+
+.btn-cn-outline {
+  background: transparent !important;
+  color: #e74c3c !important;
+  border: 2px solid #e74c3c;
+  box-shadow: none;
+}
+.btn-cn-outline:hover {
+  background: #e74c3c !important;
+  color: white !important;
+}
+
+.dl-os-btns {
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 0.5rem;
+}
+.dl-os-btns .download-btn {
+  font-size: 0.9rem;
+  padding: 0.55rem 1.25rem;
+  margin: 0;
 }
 
 .download-meta {

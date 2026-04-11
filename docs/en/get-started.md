@@ -13,7 +13,7 @@ title: Get Started
 <div class="section-block">
 <h2>Download</h2>
 
-<p>Choose the version that matches your region for optimal speed. Both versions connect to the same backend and your account works on either.</p>
+<p>Choose the version that matches your region and operating system. Both versions connect to the same backend and your account works on either.</p>
 
 <div class="download-grid">
 
@@ -21,14 +21,20 @@ title: Get Started
   <div class="card-badge">International</div>
   <h3>International Version</h3>
   <p>Best for users outside mainland China.</p>
-  <a href="/downloads/ReguverseAssistant-Installer.zip" class="download-btn" onclick="try{navigator.sendBeacon('https://llm.team-ra.org/api/v1/track/download',new Blob([JSON.stringify({event:'download',source:'installer',version:'intl',lang:'en',ts:Date.now()})],{type:'text/plain'}))}catch(e){}">Download (International)</a>
+  <div class="dl-os-btns">
+    <a href="/downloads/ReguverseAssistant-Windows.zip" class="download-btn" onclick="try{navigator.sendBeacon('https://llm.team-ra.org/api/v1/track/download',new Blob([JSON.stringify({event:'download',source:'installer',version:'intl',os:'windows',lang:'en',ts:Date.now()})],{type:'text/plain'}))}catch(e){}">Windows</a>
+    <a href="/downloads/ReguverseAssistant-macOS.zip" class="download-btn download-btn-outline" onclick="try{navigator.sendBeacon('https://llm.team-ra.org/api/v1/track/download',new Blob([JSON.stringify({event:'download',source:'installer',version:'intl',os:'macos',lang:'en',ts:Date.now()})],{type:'text/plain'}))}catch(e){}">macOS</a>
+  </div>
 </div>
 
 <div class="download-card card-cn">
   <div class="card-badge badge-cn">China Optimized</div>
   <h3>China Version</h3>
   <p>Best for mainland China users.</p>
-  <a href="/downloads/ReguverseAssistant-CN-Installer.zip" class="download-btn btn-cn" onclick="try{navigator.sendBeacon('https://llm.team-ra.org/api/v1/track/download',new Blob([JSON.stringify({event:'download',source:'installer',version:'cn',lang:'en',ts:Date.now()})],{type:'text/plain'}))}catch(e){}">Download (China)</a>
+  <div class="dl-os-btns">
+    <a href="/downloads/ReguverseAssistant-CN-Windows.zip" class="download-btn btn-cn" onclick="try{navigator.sendBeacon('https://llm.team-ra.org/api/v1/track/download',new Blob([JSON.stringify({event:'download',source:'installer',version:'cn',os:'windows',lang:'en',ts:Date.now()})],{type:'text/plain'}))}catch(e){}">Windows</a>
+    <a href="/downloads/ReguverseAssistant-CN-macOS.zip" class="download-btn btn-cn-outline" onclick="try{navigator.sendBeacon('https://llm.team-ra.org/api/v1/track/download',new Blob([JSON.stringify({event:'download',source:'installer',version:'cn',os:'macos',lang:'en',ts:Date.now()})],{type:'text/plain'}))}catch(e){}">macOS</a>
+  </div>
 </div>
 
 </div>
@@ -241,6 +247,41 @@ title: Get Started
 
 .btn-cn:hover {
   background: #c0392b;
+}
+
+.download-btn-outline {
+  background: transparent !important;
+  color: var(--vp-c-brand-1) !important;
+  border: 2px solid var(--vp-c-brand-1);
+  box-shadow: none;
+}
+.download-btn-outline:hover {
+  background: var(--vp-c-brand-1) !important;
+  color: white !important;
+}
+
+.btn-cn-outline {
+  background: transparent !important;
+  color: #e74c3c !important;
+  border: 2px solid #e74c3c;
+  box-shadow: none;
+}
+.btn-cn-outline:hover {
+  background: #e74c3c !important;
+  color: white !important;
+}
+
+.dl-os-btns {
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 0.5rem;
+}
+.dl-os-btns .download-btn {
+  font-size: 0.9rem;
+  padding: 0.55rem 1.25rem;
+  margin: 0;
 }
 
 .download-meta {
