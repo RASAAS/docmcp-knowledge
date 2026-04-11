@@ -20,17 +20,15 @@ title: Get Started
 <div class="download-card">
   <div class="card-badge">International</div>
   <h3>International Version</h3>
-  <p>Hosted on US servers. Best for users outside mainland China.</p>
+  <p>Best for users outside mainland China.</p>
   <a href="/downloads/ReguverseAssistant-Installer.zip" class="download-btn" onclick="try{navigator.sendBeacon('https://llm.team-ra.org/api/v1/track/download',new Blob([JSON.stringify({event:'download',source:'installer',version:'intl',lang:'en',ts:Date.now()})],{type:'text/plain'}))}catch(e){}">Download (International)</a>
-  <span class="download-meta">Frontend: app.team-ra.org</span>
 </div>
 
 <div class="download-card card-cn">
   <div class="card-badge badge-cn">China Optimized</div>
   <h3>China Version</h3>
-  <p>Hosted on Alibaba Cloud (Hangzhou). Best for mainland China users.</p>
+  <p>Best for mainland China users.</p>
   <a href="/downloads/ReguverseAssistant-CN-Installer.zip" class="download-btn btn-cn" onclick="try{navigator.sendBeacon('https://llm.team-ra.org/api/v1/track/download',new Blob([JSON.stringify({event:'download',source:'installer',version:'cn',lang:'en',ts:Date.now()})],{type:'text/plain'}))}catch(e){}">Download (China)</a>
-  <span class="download-meta">Frontend: app.reguverse.com</span>
 </div>
 
 </div>

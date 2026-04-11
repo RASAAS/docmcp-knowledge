@@ -18,19 +18,17 @@ title: 快速开始
 <div class="download-grid">
 
 <div class="download-card card-cn">
-  <div class="card-badge badge-cn">国内加速</div>
+  <div class="card-badge badge-cn">推荐</div>
   <h3>国内版</h3>
-  <p>托管于阿里云（杭州），适合中国大陆用户使用。</p>
+  <p>适合中国大陆用户使用。</p>
   <a href="/downloads/ReguverseAssistant-CN-Installer.zip" class="download-btn btn-cn" onclick="try{navigator.sendBeacon('https://llm.team-ra.org/api/v1/track/download',new Blob([JSON.stringify({event:'download',source:'installer',version:'cn',lang:'zh',ts:Date.now()})],{type:'text/plain'}))}catch(e){}">下载国内版</a>
-  <span class="download-meta">前端: app.reguverse.com</span>
 </div>
 
 <div class="download-card">
   <div class="card-badge">International</div>
   <h3>国际版</h3>
-  <p>托管于美国服务器，适合中国大陆以外的用户。</p>
+  <p>适合中国大陆以外的用户。</p>
   <a href="/downloads/ReguverseAssistant-Installer.zip" class="download-btn" onclick="try{navigator.sendBeacon('https://llm.team-ra.org/api/v1/track/download',new Blob([JSON.stringify({event:'download',source:'installer',version:'intl',lang:'zh',ts:Date.now()})],{type:'text/plain'}))}catch(e){}">下载国际版</a>
-  <span class="download-meta">前端: app.team-ra.org</span>
 </div>
 
 </div>
