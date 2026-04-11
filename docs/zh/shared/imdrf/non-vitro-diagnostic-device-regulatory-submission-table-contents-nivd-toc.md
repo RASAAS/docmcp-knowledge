@@ -10,13 +10,17 @@ title: "Non-In Vitro Diagnostic Device  Regulatory Submission Table of Contents 
 [https://www.imdrf.org/documents/non-vitro-diagnostic-device-regulatory-submission-table-contents-nivd-toc](https://www.imdrf.org/documents/non-vitro-diagnostic-device-regulatory-submission-table-contents-nivd-toc)
 :::
 
+::: info
+This content has been machine-translated from the English original.
+:::
+
 <!-- fulltext-start -->
 
 ---
 
 ## 全文
 
-# Non-In Vitro Diagnostic Device  Regulatory Submission Table of Contents (nIVD ToC)
+# 非体外诊断设备 监管提交内容表 (nIVD ToC)
 
 **Document Number**: IMDRF/RPS WG/N9 Final:2024 (Edition 4)
 
@@ -24,1554 +28,1746 @@ title: "Non-In Vitro Diagnostic Device  Regulatory Submission Table of Contents 
 
 ---
 
-Final  
+最终版
+
 ---  
-IMDRF/RPS WG/N9 FINAL:2024 (Edition 4)  
-Non-In Vitro Diagnostic Device Regulatory Submission Table of Contents (nIVD ToC)  
-Authoring Group  
-Regulated Product Submissions Table of Contents Working Group  
+IMDRF/RPS WG/N9 最终版：2024 (第4版)
+非体外诊断设备 监管提交内容表 (nIVD ToC)
+编写组
+监管产品提交内容表 工作组
 
-Preface
+前言
 
-This document was produced by the International Medical Device Regulators Forum. There are no restrictions on the reproduction or use of this document; however, incorporation of this document, in part or in whole, into another document, or its translation into languages other than English, does not convey or represent an endorsement of any kind by the International Medical Device Regulators Forum.
+本文件由国际医疗器械监管论坛制作。对本文件的复制或使用没有限制；然而，将本文件（部分或全部）纳入其他文件，或将其翻译成其他语言，并不代表国际医疗器械监管论坛的认可。
 
-Copyright 2023 by the International Medical Device Regulators Forum.
+版权所有，2023年，国际医疗器械监管论坛。
 
 ![](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCADpAVEDASIAAhEBAxEB/8QAGwABAAMBAQEBAAAAAAAAAAAAAAEFBgQCAwf/xAA8EAEAAQMCBAIGBggHAQAAAAAAAQIDBAURBhIhMUGBExQiUWFxBzKRkqGxFSMkQ1NicoIlNEJEUrLBwv/EABgBAQEBAQEAAAAAAAAAAAAAAAACAQME/8QAJBEBAQABBAEEAgMAAAAAAAAAAAECERIhMQNBUYHwIjJxsdH/2gAMAwEAAhEDEQA/AP38AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA3FTxJrE6DoOVqVNr01VmKeW3vtzTNUUx1+ctktukFtuPFuappiao2nbrD2wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGZ4ts1Zt7RcCOtF7PouXI323ptxNfn1phpuyovRRk8TWI7ziY9VU9em9cxEfhTP2r8d0y19mZdLaEohKGgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAImeiq0+1TVqWo5tNUVeluU2t48OSNpj7Zl35eRbxMS9k3Z2t2qJrqmPdEby5tGsV2NKsU3ZmblUc9czO/WrrP5qnGNrL274SCWgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKXiKuKsbFw+eI9bybdqYn/AFU781UfZEriiNqYiOzO13f0hx1RYpmarWm4vpK/dF25O1PnyxV95o47Ly4xk+UztICFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADzNXLCVHxdm3sHh7InF/zV+acezt4V3KopifLffybjjcspJ6lcvB8TlWtR1irrOo5ldyidv3dHsUfhTv5tPDk03At6bpuNhWY/V2LdNunyjZ1wryZbsrZ0ydCh4k4mo4buabN/FrrxszIixXfiramxM7bTV07d/sXys4g0XH4h0PK0zJ6UXqNoq8aKo601R8p2PHcN839F104WUJUXCV3Up0SjE1ezNvOw6vV7lW08t3liOWumfGJpmPPf5L1mWO3Kwl1AEtAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAN1RxDq9Wk6bz49uL2beqizi2f4lye3lHWZ+EStp7Szuncmua1d1XpVjYk1Y+Jv2mrtcrjzjlifhPvVjOdb1GVPB+u5GvaFF/Nt0Ws6xdrx8q3RG0U3KKtp2+E9J83z1KatR4w0vBinmsYdFebe/q+pbj8ap/tcfCO1jW+MImdrNOqc3Wekb2aJq/N9NH1DFsafqXFGfdi1Zy7s1UV1fwafZtxEfHvt/M7bZjlbj91TrrGtieiWLtcY6hTqen+uaDcxNM1DI9WsX7t2PS88xM0zVb29mJ2nvO7Zx2ccsMse1S6pHwyMuxiWKr2RdotWqY3qrrq2iPOXjA1DE1PEoysK/bv2K5mKblud4nadp/GE6XTVrqAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEzsCm4hyb3q9vTsSuqnLzqps0V0d7VO3tXPKPxmFhgYdnAwrOJYo5LNmiKKI+EQq9MiNR1nM1SetuifVceev1aZ9ufOrp/avV5cSYsnPL8n1jV6dFq4q0fIqqx8rVdQp9DVyTM12bluimqunaOu0RVHTrvs1mi6TkajOPnanj+r42NEU6fp9X7qmI2iu5HjXt4dqfm902bes8dXL9cU12dItRboieu1+5tMz84p2+9LUxTs7eTyaYySc+v3+EyM9xfouVrOi0U4FdFGfiZFvLxuf6s3KJ3iJ+E9Y83LY4m1i5b9BPCuoUZu2089VHod/fz83by3avY5Yccc5MdtmqtGRz8K9haTma7xBdozMjDs137ePRG1izNNMzHLE96v5p6+7Z28DafVp3Bum2rs73rlr092ffXcma6vxqOO8avK4D12zbiZrqwru0R3namZ/wDHfw9k28vhzTMi1VFVFzFt1RMf0wu5W+P5ZJyswHFQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA49TyvUtNyMmNpm3bmqInxnbo7FXrczXaxcan9/k0Uz0ifZj2p7/ClWM1ykrL0++lYcYOl42NG29uiImY8Z8Z+3d9c3Jt4WHeyr1XLbs0Tcrn3REby+0dKWT4xvVallaZwzZnrqF2bmVMd6Me3tVV96eWnzluM35cnUWHCmPco0ajLv07ZGdXOVd37719Yjyp2jyXzzREU0xEREREbREPTMst2VpJpABLXm5RTct1UVUxVTVG0xPjCm4d0Kvh6xfwbV+bmBF2a8W3V9azTPWaN/GInt8JXY2ZWSwAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAqsqJu67hU7ezbt3Lnn0pj85WqqtT6TiTIjeJi1jUR8pqqmf/IVj61lWc9KevgyvDVn9Ka5qfEdcxVRdmMTE+FmiZ3mP6qt58odnFuo3cHRps40/teddpw8eInaee5038o3q8ltp+HawMCxiWaeW3ZoiimPlCp+OFvvwzuulIOagAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACeyo06Yr1jVbu0dK7dqOnhFET+dS3nsz+Pm2NP0/V9Tv1TFmi/duVz8KI5f/lePV++rK4av8b+kOmPrYmiWd5905NyOn3aP+zWwzvB2Ddx9EjMyqNs3ULlWXkbx1iqvtHlTyx5NG3y/ttnpx/rMfcAc1AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEgT2l+eZNU6nZ0fQLfLNGpZV7Lytp/wBvRXNfh/yqmmPtbfU8mMTTMvIntas11z5UzLH/AEd49WbRe1u7EzRNqjCxOaNv1VuPaq/ur5p8oejxcYXP2/vnROXcjdURtTEPRA86gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkRM7QDI/SNl3LXCteBjT+1alet4Vmn3zXPX8N2h0jT7elaTiYFqI5Me1TbjaO+0bb+bM5kfpr6TsLG23x9GxZya+vT01z2aYn5UxVPm2jrndvjmHymd6geCNuu7kpIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACJ7JActjAxcbKyMmzYoovZE0zeriOtcxG0b/KHUAAAAAAAAABPSABFM7xv70gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/9k=)
 
-**Andrzej Rys, IMDRF Chair**
+**安德烈·里斯，IMDRF主席**
 
-Contents
+内容
 
-Preface 4
+前言 4
 
-Introduction 5
+引言 5
 
-Scope 5
+范围 5
 
-Purpose 5
+目的 5
 
-Definitions 5
+定义 5
 
-Language requirements 7
+语言要求 7
 
-Other general notes 7
+其他一般说明 7
 
-Acronyms 8
+缩写 8
 
-Hierarchy presentation 9
+层级展示 9
 
-1\. Chapter 1 – Regional Administrative 15
+1\. 第 1 章 – 区域行政 15
 
-2\. Chapter 2 – Submission Context 47
+2\. 第2章 – 提交背景 47
 
-3\. Chapter 3 – Non-clinical evidence 72
+3\. 第3章 – 非临床证据 72
 
-4\. Chapter 4 – Clinical evidence 126
+4\. 第4章 – 临床证据 126
 
-5\. Chapter 5 – Labelling and promotional material 136
+5\. 第5章 – 标签和宣传材料 136
 
-6\. Chapter 6 – Quality management system 146
+6\. 第6章 – 质量管理系统 146
 
-7\. Document revision history 165
+7\. 文档修订历史 165
 
-# Preface
+# 前言
 
-The document herein was produced by the International Medical Device Regulators Forum (IMDRF), a voluntary group of global medical device regulators from around the world. The document has been subject to consultation throughout its development.
+本文件由国际医疗器械监管论坛 (IMDRF) 编制，这是一个由来自世界各地的全球医疗器械监管者组成的自愿组织。本文件在开发过程中接受了广泛的咨询。
 
-There are no restrictions on the reproduction, distribution or use of this document; however, incorporation of this document, in part or in whole, into any other document, or its translation into languages other than English, does not convey or represent an endorsement of any kind by the International Medical Device Regulators Forum. It is also worth noting that it is the intent of IMDRF to continue to monitor use of this structure and work to continually improve the documents.
+本文件不受复制、分发或使用的限制；但是，将本文件（部分或全部）包含在任何其他文件中，或将其翻译成除英语以外的其他语言，并不代表国际医疗器械监管论坛的认可。 此外，IMDRF 的意图是继续监测本结构的用法，并不断改进文件。
 
-# Introduction
+# 简介
 
-The Regulated Product Submission (RPS) proposal was endorsed as a New Work Item (NWI) by IMDRF at its inaugural meeting in Singapore (March 2012). The proposal, as endorsed, included the objective of establishing a comprehensive harmonized structure for regulated medical device submissions. 
+[术语表 - 在这些术语出现时，请使用这些确切的翻译:]
+  差距分析 -> Gap Analysis
+  test_zh -> test_en
 
-The submission content in this document is primarily organized to accommodate a submission package structured with nested folders. The best method to accommodate this type of nested folder structure is to prioritize where to place and find documents/information within multiple levels of folders. As a result, the order of content in this document is not intended to convey or describe the order in which content would be assembled or reviewed. Instead, content is organized by type, which may in places follow the order of submission assembly or review. The primary Chapters are few in number to facilitate easier navigation.
+该提交提案（RPS）已于2012年3月在新加坡举行的首次会议上，由IMDRF认可为一项新的工作项（NWI）。根据认可的内容，该提案旨在建立一套全面的、协调的提交结构，用于监管医疗器械的提交。
 
-This document provides an internationally harmonized, modular, structure for use when filing medical device submissions to regulatory authorities for marketing. This document is comprehensive in scope in that it defines the location of both common (IMDRF) and regional content for all submission types. As a consequence, not all headings are required for all submission types and/or IMDRF jurisdictions. Revisions to this document since its initial release reflect input from the public and experience gained from use of the initial version.
+本文档中的提交内容主要组织方式是为了适应具有嵌套文件夹结构的提交包。 最佳方法是优先确定在多个层级的文件夹中放置和查找文档/信息的最佳位置。 因此，本文档的内容顺序并非旨在传达或描述内容在组装或审查过程中应出现的顺序。 相反，内容按类型组织，在某些情况下可能遵循提交组装或审查的顺序。 主要章节数量较少，以便更轻松地进行导航。
 
-## Scope 
+本文件提供了一种国际协调、模块化的结构，用于向监管机构提交医疗器械申请，以便进行市场推广。 本文件在范围上是全面的，因为它定义了所有提交类型的通用（IMDRF）和区域内容的位置。 因此，并非所有标题都适用于所有提交类型和/或 IMDRF 辖区。 自最初发布以来，本文件的修订反映了公众的反馈意见以及对最初版本的经验。
 
-This document was developed for non-In-vitro diagnostics device (nIVD) regulatory submissions. While regulatory submissions for combination products are out of scope, this document can be used to address the device-related aspects of products that incorporate both drug and device components; refer to each specific regulator for guidance regarding combination products. Submissions to request approval to conduct clinical trials are not within the scope of this document.
+## 范围
 
-The document is intended to provide guidance for industry with flexibility to adapt to the variety of products and future products.
+本文件是为非体外诊断设备 (nIVD) 监管提交而开发的。 尽管关于组合产品的监管提交超出了本文件的范围，但本文件可用于处理包含药物和器械组件的产品的相关方面；请参考具体的监管机构，以获取关于组合产品的指导。 申请进行临床试验的提交不在本文件的范围内。
 
-## Purpose
+[术语表 - 在这些术语出现时，请使用这些确切的翻译：]
+  差距分析 -> Gap Analysis
+  test_zh -> test_en
 
-To create a comprehensive submission structure that minimizes regional divergences and indicates where regional variation exists. This document is intended to provide guidance regarding the location of submission elements in the internationally defined structure. 
+本文件旨在为行业提供指导，并具有灵活性，以适应各种产品和未来产品的需求。
 
-This document is not intended to introduce any new regulatory requirements. 
+## 目的
 
-## Definitions
+创建一个全面的提交结构，以最大限度地减少区域差异，并表明在哪些方面存在区域差异。本文件旨在提供有关在国际定义结构中提交元素的具体位置的指导。
 
-**Accessory** – Means an article intended specifically by its manufacturer to be used together with a particular medical device to enable or assist that device to be used in accordance with its intended use (see GHTF SG1 N71:2012). Be aware that each jurisdiction has a more specific definition.
+本文件不旨在引入任何新的监管要求。
 
-**COMMON CONTENT** – The content shared by jurisdictions for the respective subchapter.
+## 定义
 
-**FULL REPORT** \- Typically includes a complete, detailed description of the objective of the assessment, the methods and procedures including when applicable why a regional or harmonized/recognized standard/guidance has or has not been complied with, study endpoint(s), pre-defined pass/fail criteria, deviations, results, discussion and conclusions, and may include data. Complete, detailed support of method selection, worst case justification, study endpoint selection, and pass/fail criteria should be included.
+**附件** – 指制造商有意用于特定医疗器械，以使该器械能够按照其预期用途使用，或协助其使用的特定物品。 (请参见 GHTF SG1 N71:2012)。请注意，每个管辖区都有更具体的定义。
 
-_Note:_ In some jurisdictions (e.g. EU), full reports are always required as evidence. This does not mean that manufacturers may not add summaries as explanation(s) why specific test reports are included or not included in a specific chapter; they may also include explanations why specific test methods were used or not used, or explanations why an outdated or newer standard was used to generate the test results.
+**通用内容** – 各管辖区在各自子章节中共享的内容。
 
-**REGIONAL CONTENT** – The specific content of each jurisdiction for the respective subchapter. The content descriptions are divided according to each region that shares content of the respective subchapter. If only one region uses the subchapter, the Regional Content will include the content descriptions for only that region.
+**完整报告** – 通常包括对评估目标的完整、详细描述，包括方法和程序，以及何时适用，为什么符合或不符合区域或统一/认可的标准/指南，研究终点(s)，预先定义的通过/失败标准，偏差、结果、讨论和结论，以及可能包含数据。 必须提供完整、详细的方法选择、最坏情况证明、研究终点选择和通过/失败标准的充分支持。
 
-**SUBMISSION** – A regulatory submission can be any type of information related to a medical device regulatory process. This includes but is not limited to a request for approval/authorization to market a device, any communications relating to the original submission, and any request for modification to an existing approval. The submission types that will be accepted in the format described in this document will be dictated by regional policy. 
+_注意：_ 在某些管辖区（例如欧盟），完整报告始终被要求作为证据。 这并不意味着制造商不能添加摘要，以解释为什么特定的测试报告包含在特定章节中或不包含，他们还可以解释为什么特定的测试方法被使用或未使用，或者解释为什么使用了过时的或较新的标准来生成测试结果。
 
-Note: Some regions may use Classification Matrices that further specify the required contents, please consult regional regulator websites for further information.
+**区域内容** – 针对各自子章节，每个管辖区的具体内容。 内容描述根据共享各自子章节内容的每个区域进行划分。 如果只有一个区域使用该子章节，则区域内容将仅包含该区域的内容描述。
 
-**SUMMARY** \- A summary should include a brief synopsis of the (1) purpose, (2) methods, (3) acceptance criteria, (4) results and (5) discussion and conclusions. Outliers and deviations should be reported with the results. Results should be stated quantitatively with appropriate statistical context where applicable (e.g. value ± SD, confidence intervals, etc.).
+**提交材料** – 提交材料可以是与医疗器械监管流程相关的任何类型的信息。这包括但不限于，要求批准/授权销售医疗器械的请求、与原始提交相关的任何通信，以及对现有批准的任何修改请求。在本文件中描述的格式中，将接受的提交类型将由区域政策决定。
 
-The summary should specifically address:
+注意：某些地区可能使用分类矩阵，以进一步指定所需的内容，请参阅相关区域监管机构网站以获取更多信息。
 
-  * Why the characteristic being evaluated is of interest;
-  * Why the particular methods are being used to evaluate the characteristic, if applicable including why a regional or harmonized/recognized standard/guidance has or has not been complied with;
-  * How the stated acceptance criteria and sample size are scientifically supported; 
-  * What device was tested and how it relates to the devices that will be marketed;
-  * Why the tested components are representative of the range of devices that will be marketed;
-  * Whether the summary has been previously submitted and reviewed by the regulator, including identification of the device and the reference number for the submission; and
-  * The extent to which the duties and functions of a study (e.g. testing, monitoring, etc.) have been conducted by an external organization (e.g. contract research organisation or individual contractor).
+**摘要** – 摘要应包括对（1）目的、（2）方法、（3）验收标准、（4）结果和（5）讨论和结论的简要概述。任何异常情况和偏差应与结果一起报告。结果应以适当的统计背景（例如：值 ± SD、置信区间等）进行量化说明。
 
-## Language requirements
+摘要应特别说明：
 
-Each jurisdiction has its own language requirements. Regional guidance should be sought to ensure that content is provided in a language that is acceptable for the jurisdiction to which the submission will be submitted. Any translated material submitted should be verified for accuracy.
+* 为什么正在评估的特性具有重要性；
 
-## Other general notes
+* 为什么正在使用特定的方法来评估该特性，如果适用，包括为什么符合或不符合区域或统一/认可的标准/指南；
 
-This outline of documentation is to support a smooth documentation process. It remains the applicant’s responsibility to ensure all regulatory requirements are met, and that clear and transparent evidence of conformity to these requirements are provided.
+* 如何以科学的方式支持所声明的验收标准和样本量；
 
-Regional regulatory guidance will vary between the IMDRF member regulators and can be found in a variety of locations including the individual regulator’s laws, directives, regulations, guidance documents, etc. When any requirements are conflicting between this document and regional documents (e.g. the regional laws, directives, regulations, guidance documents), the regional requirement will take precedence.
+* 进行了测试的设备是什么，以及它与将要上市的设备的关系；
 
-For the USFDA and ANVISA, regional regulatory guidance includes the categories (1) special controls in a device specific regulation, (2) device-specific guidance document, (3) special controls guidance, (4) special controls guideline, and/or (5) statutory or regulatory criteria.
+* 为什么测试的部件具有代表性，能够代表将要上市的设备范围；
 
-When submitting to the USFDA please refer to the current version of the following guidance documents to ensure the content for each heading and the overall electronic format of the submission is sufficient to be accepted for review by the USFDA. For example:
+* 摘要是否以前已提交并由监管机构审查，包括设备和提交编号的识别；以及
 
-  * Electronic Submission Template for Medical Device 510(k) Submissions Guidance for Industry and Food and Drug Administration Staff
-  * Acceptance and Filing Reviews for Premarket Approval Applications (PMAs): Guidance for Industry and Food and Drug Administration Staff
-  * eCopy Program for Medical Device Submissions: Guidance for Industry and Food and Drug Administration Staff
+* 研究（例如测试、监测等）的职责和功能是否由外部组织（例如合同研究组织或个人承包商）完成的程度。
 
-For the EU, manufacturers are required to draw up and keep up to date technical documentation for their devices (see Art. 10 (4) of Regulation (EU) 2017/745 on medical devices (MDR), i.e., the “technical documentation shall be such as to allow the conformity of the device with the requirements of this Regulation to be assessed. The technical documentation shall include the elements set out in Annexes II and III”. Implementing and delegated acts published under the MDR as well as guidance documents endorsed by the Medical Device Coordination Group (MDCG) in accordance with Article 105 of the MDR should be taken into account[1]. The latest EN ISO version and related Annex Z of harmonised standards should be taken as reference to verify the correct presumption of conformity with the general safety and performance requirement of (GSPRs) of the MDR.
+## 语言要求
 
-## Acronyms
+每个司法辖区都有其自身的语言要求。 应寻求区域指导，以确保内容以符合该司法辖区的语言提供。 任何提交的翻译材料应进行验证，以确保准确性。
 
-ANVISA| National Health Surveillance Agency – Brazil  
----|---  
-CAPA| Corrective Action and Preventive Action  
-EMDN| European Medical Device Nomenclature  
-EU| European Union  
-GMDN| Global Medical Device Nomenclature  
-HC| Health Canada  
-HSA| Health Sciences Authority – Singapore  
-IMDRF| International Medical Device Regulators Forum  
-JP| Japan  
-MDSAP| Medical Device Single Audit Program  
-MFDS| Ministry of Food and Drug Safety - Korea  
-MHRA| Medicines and Healthcare products Regulatory Agency - UK  
-NB| Notified Body  
-NMPA| National Medical Products Administration – China  
-PMDA| Pharmaceuticals and Medical Devices Agency – Japan  
-RCT| Randomized Controlled Trial  
-SUD| Single Use Device  
-TGA| Therapeutic Goods Administration – Australia  
-ToC| Table of Contents  
-UK| United Kingdom  
-USFDA| United States Food and Drug Administration  
+## 其他一般说明
 
-## Hierarchy presentation
+本文件框架旨在支持顺利的文档流程。 申请人有责任确保满足所有监管要求，并提供清晰透明的符合这些要求的证据。
 
-The following is a hierarchical presentation of the submission structure. The numbering should remain consistent regardless of whether the heading is required or not. For example, if heading 1.02 is not required for the submission type or jurisdiction, but headings 1.01 and 1.03 are, then the numbering would remain 1.01 followed by 1.03.
+区域监管指导将因IMDRF成员监管机构而异，并且可以在各种地点找到，包括个别监管机构的法律、指令、法规、指南等。 如果本文件和区域文件（例如区域法律、指令、法规、指南等）之间存在冲突，则区域要求优先。
 
-More detailed guidance regarding where elements belong is provided following this table.
+对于美国FDA和ANVISA，区域监管指南包括以下类别：(1) 特定设备法规中的特殊控制；(2) 特定设备指南文件；(3) 特殊控制指南；(4) 特殊控制指南；以及/或 (5) 法规或监管标准。
 
-**CHAPTER 1 – REGIONAL ADMINISTRATIVE**  
+向美国FDA提交时，请参考以下指南文件的最新版本，以确保每个标题和提交的整体电子格式都足以被美国FDA审查。例如：
+
+* 医疗器械 510(k) 提交电子模板：行业和美国食品药品管理局工作人员指南
+
+* 预先批准申请 (PMAs) 的接受和备案审查：行业和美国食品药品管理局工作人员指南
+
+* 医疗器械提交的 eCopy 计划：行业和美国食品药品管理局工作人员指南
+
+对于欧盟，制造商有义务制定和维护其设备的的技术文件（参见《医疗器械（MDR）》（欧盟）第2017/745号条例第10（4）条，即“技术文件应允许评估该设备符合本条例的要求。技术文件应包括附录II和附录III中规定的内容”。应考虑根据《医疗器械（MDR）》第105条发布的实施和授权法规以及由医疗器械协调组（MDCG）认可的指南文件[1]。应将最新的EN ISO版本和相关的《协调标准》附录Z作为参考，以验证符合《医疗器械（MDR）》的通用安全和性能要求（GSPRs）的正确假设。
+
+## 缩写
+
+ANVISA| 巴西国家卫生监督机构
+---|---
+CAPA| 纠正和预防措施
+EMDN| 欧洲医疗器械命名法
+EU| 欧盟
+GMDN| 全球医疗器械命名法
+HC| 加拿大卫生部
+HSA| 新加坡卫生科学管理局
+IMDRF| 国际医疗器械监管论坛
+JP| 日本
+MDSAP| 医疗器械单一审计计划
+MFDS| 韩国食品药品安全部
+MHRA| 英国药品和医疗产品监管机构
+NB| 授权机构
+NMPA| 中国国家药品监督管理局
+PMDA| 日本药品和医疗器械管理局
+RCT| 随机对照试验
+SUD| 一次性医疗器械
+TGA| 澳大利亚治疗品管理局
+ToC| 目录
+UK| 英国
+USFDA| 美国食品药品管理局
+
+## 提交结构呈现
+
+以下是提交结构的层次化呈现。编号应保持一致，无论标题是否需要。例如，如果提交类型或管辖范围不需要 1.02，但需要 1.01 和 1.03，则编号将保持 1.01 紧接着 1.03。
+
+以下表格提供了更详细的说明，说明各个元素应位于何处。
+
+**第一章 – 区域行政**
+
 ---  
-1.01| Cover Letter  
-1.02| Submission Table of Contents  
-1.03| List of Terms/Acronyms  
-1.04| Application Form/Administrative Information  
-1.05| Listing of Device(s)  
-1.06| Quality Management System, Full Quality System or Other Regulatory Certificates  
-1.07| Free Sale Certificate/ Certificate of Marketing authorization  
-1.08| Expedited Review Documentation  
-1.09| User Fees  
-1.10| Pre-Submission Correspondence and Previous Regulator Interactions  
-1.11| Acceptance for Review Checklist  
-1.12| Statements/Certifications/Declarations of Conformity  
-1.12.01|  Performance and Voluntary Standard  
-1.12.02|  Environmental Assessment  
-1.12.03|  Clinical Trial Certifications  
-1.12.04|  Indications for Use Statement with Rx and/or OTC designation Enclosure  
-1.12.05|  Truthful and Accurate Statement  
-1.12.06|  USFDA Class III Summary and Certification  
-1.12.07|  Declaration of Conformity  
-1.13| Letters of Reference  
-1.14| Letter of Authorization  
-1.15| Other Regional Administrative Information  
-**CHAPTER 2 – SUBMISSION CONTEXT**  
-2.01| Chapter Table of Contents  
-2.02| General Summary of Submission  
-2.03| Summary and Certifications for Regulatory Submissions  
-2.04| Device Description   
-2.04.01|  Comprehensive Device Description and Principle of Operation  
-2.04.02|  Description of Device Packaging  
-2.04.03|  History of Development  
-2.04.04|  Reference and Comparison to Similar and/or Previous Generations of the Device  
-2.04.05|  Substantial Equivalence Discussion  
-2.05| Indications for Use and/or Intended Use and Contraindications  
-2.05.01|  Intended Use; Intended Purpose; Intended User; Indications for Use  
-2.05.02|  Intended Environment/Setting for use   
-2.05.03|  Pediatric Use  
-2.05.04|  Contraindications For Use  
-2.06| Global Market History  
-2.06.01|  Global Market History  
-2.06.02|  Incident Reports and Recalls  
-2.06.03|  Sales, Incident and Recall Rates  
-2.06.04|  Evaluation/Inspection Reports  
-2.07| Post-Market Study Plans  
-2.08| Risk Management  
-2.09| Essential Principles (EP) Checklist  
-2.10| Standards  
-2.10.01| List of Standards and Guidance Documents  
-2.10.02| Declaration and/or Certification of Conformity  
-2.11| Other Submission Context Information  
-**CHAPTER 3 – NON-CLINICAL EVIDENCE**  
-3.01| Chapter Table of Contents  
-3.02| Chapter Retired  
-3.03| Chapter Retired  
-3.04| Chapter Retired  
-3.05| Non-clinical Studies  
-3.05.01|  Physical and Mechanical Characterization  
-3.05.01.01|  [Study description, study identifier, date of initiation]  
-3.05.01.01.01|  Summary  
-3.05.01.01.02|  Full Report  
-3.05.01.01.03|  Statistical Data  
-3.05.02|  Chemical/Material Characterization  
-3.05.02.01|  [Study description, study identifier, date of initiation]  
-3.05.02.01.01|  Summary  
-3.05.02.01.02|  Full Report  
-3.05.02.01.03|  Statistical Data  
-3.05.03|  Electrical Systems: Safety, Mechanical and Environmental Protection, and Electromagnetic Compatibility  
-3.05.03.01|  [Study description, study identifier, date of initiation]  
-3.05.03.01.01|  Summary  
-3.05.03.01.02|  Full Report  
-3.05.03.01.03|  Statistical Data  
-3.05.04|  Radiation Safety  
-3.05.04.01|  [Study description, study identifier, date of initiation]  
-3.05.04.01.01|  Summary  
-3.05.04.01.02|  Full Report  
-3.05.04.01.03|  Statistical Data  
-3.05.05|  Software/Firmware/Programmed or programmable medical devices  
-3.05.05.01|  Software/Firmware Description  
-3.05.05.02|  Risk Management File (including Hazard Analysis)  
-3.05.05.03|  Software Requirement Specification (SRS)  
-3.05.05.04|  System and Software Architecture Design (SAD) Chart  
-3.05.05.05|  Software Design Specification (SDS)  
-3.05.05.06|  Traceability Analysis  
-3.05.05.07|  Software Life Cycle Process Description / Software Development, Configuration Management, and Maintenance Practices  
-3.05.05.08|  Software Testing as Part of Verification and Validation  
-3.05.05.09|  Software Version / Revision Level History  
-3.05.05.10|  Unresolved Software Anomalies  
-3.05.05.11| Cybersecurity  
-3.05.05.12| Interoperability  
-3.05.06|  Biocompatibility and Toxicology Evaluation  
-3.05.06.01|  [Study description, study identifier, date of initiation]  
-3.05.06.01.01|  Summary  
-3.05.06.01.02|  Full Report  
-3.05.06.01.03|  Statistical Data  
-3.05.07|  Non-Material-Mediated Pyrogenicity  
-3.05.07.01|  [Study description, study identifier, date of initiation]  
-3.05.07.01.01|  Summary  
-3.05.07.01.02|  Full Report  
-3.05.07.01.03|  Statistical Data  
-3.05.08|  Safety of Materials of Biological Origin (human/animal)  
-3.05.08.01|  Certificates   
-3.05.08.02|  [Study description, study identifier, date of initiation]  
-3.05.08.02.01|  Summary  
-3.05.08.02.02|  Full Report  
-3.05.08.02.03|  Statistical Data  
-3.05.09|  Sterilization and Reprocessing Validation  
-3.05.09.01|  End-User Sterilization  
-3.05.09.01.01|  [Study description, study identifier, date of initiation]  
-3.05.09.01.01.01|  Summary  
-3.05.09.01.01.02|  Full Report  
-3.05.09.01.01.03|  Statistical Data  
-3.05.09.02|  Manufacturer Sterilization Validation  
-3.05.09.02.01|  [Study description, study identifier, date of initiation]  
-3.05.09.02.01.01|  Summary  
-3.05.09.02.01.02|  Full Report  
-3.05.09.02.01.03|  Statistical Data  
-3.05.09.03|  Residual Toxicity  
-3.05.09.03.01|  [Study description, study identifier, date of initiation]  
-3.05.09.03.01.01|  Summary  
-3.05.09.03.01.02|  Full Report  
-3.05.09.03.01.03|  Statistical Data  
-3.05.09.04|  Cleaning and Disinfection Validation  
-3.05.09.04.01|  [Study description, study identifier, date of initiation]  
-3.05.09.04.01.01|  Summary  
-3.05.09.04.01.02|  Full Report  
-3.05.09.04.01.03|  Statistical Data  
-3.05.09.05|  Reprocessing of Single Use Devices Validation Data  
-3.05.09.05.01|  [Study description, study identifier, date of initiation]  
-3.05.09.05.01.01|  Summary  
-3.05.09.05.01.02|  Full Report  
-3.05.09.05.01.03|  Statistical Data  
-3.05.10|  Animal Testing  
-3.05.10.01|  [Study description, study identifier, date of initiation]  
-3.05.10.01.01|  Summary  
-3.05.10.01.02|  Full Report  
-3.05.10.01.03|  Statistical Data  
-3.05.11|  Usability/Human Factors  
-3.05.11.01|  [Study description, study identifier, date of initiation]  
-3.05.11.01.01|  Summary  
-3.05.11.01.02|  Full Report  
-3.05.11.01.03|  Statistical Data  
-3.05.12| Evidence for devices with preservatives or antimicrobial claims  
-3.06| Non-clinical Bibliography  
-3.07| Expiration Period and Packaging Validation  
-3.07.01|  Product Stability  
-3.07.01.01|  [Study description, study identifier, date of initiation]  
-3.07.01.01.01|  Summary  
-3.07.01.01.02|  Full Report  
-3.07.01.01.03|  Statistical Data  
-3.07.02|  Package Validation  
-3.07.02.01|  [Study description, study identifier, date of initiation]  
-3.07.02.01.01|  Summary  
-3.07.02.01.02|  Full Report  
-3.07.02.01.03|  Statistical Data  
-3.08| Other non-clinical Evidence  
-3.08.01|  [Study description, study identifier, date of initiation]  
-3.08.01.01|  Summary  
-3.08.01.02|  Full Report  
-3.08.01.03|  Statistical Data  
-**CHAPTER 4 – CLINICAL EVIDENCE**  
-4.01| Chapter Table of Contents  
-4.02| Overall Clinical Evidence Summary  
-4.02.01|  Clinical Evaluation Report  
-4.02.02|  Device Specific Clinical Trials  
-4.02.02.01|  [Trial description, protocol #, date of initiation]  
-4.02.02.01.01|  Clinical Trial Summary  
-4.02.02.01.02|  Clinical Trial Report  
-4.02.02.01.03|  Clinical Trial Data  
-4.02.03|  Clinical Literature Review and Other Reasonable Known Information  
-4.03| Informed Consent Information  
-4.04| Investigators Sites and IRB Contact Information  
-4.05| Real World Data (RWD)  
-4.06| Post-Market Surveillance Data  
-4.07| Other Clinical Evidence  
-**CHAPTER 5 – LABELLING AND PROMOTIONAL MATERIAL**  
-5.01| Chapter Table of Contents   
-5.02| Product/Package Labels  
-5.03| Package Insert/Instructions for Use  
-5.04| e-labelling  
-5.05| Healthcare Professional Labelling  
-5.06| Patient Labelling  
-5.07| Technical and/or Operators Manual  
-5.08| Patient File Stickers/Cards and Implant Registration Cards  
-5.09| Product Brochures  
-5.10| Other Labelling and Promotional Material  
-**CHAPTER 6 – QUALITY MANAGEMENT SYSTEM**  
-6.01| Cover Letter  
-6.02| Chapter Table of Contents  
-6.03| Product Descriptive Information  
-6.04| General Manufacturing Information  
-6.05| Required Forms  
-6.06| Quality management system  
-6.07| Management responsibilities  
-6.08| Resource management  
-6.09| Planning of Product Realization and Customer Related Processes  
-6.10| Design and development  
-6.11| Purchasing  
-6.12| Production and service controls  
-6.13| Control of monitoring and measuring equipment   
-6.14| QMS measurement, analysis and improvement  
-6.15| Device Specific Quality Plan  
-6.16| Quality management system verification document  
-6.17| Other Quality System Information  
+1.01| 封面信
+1.02| 提交内容表
+1.03| 术语/缩写列表
+1.04| 申请表/行政信息
+1.05| 设备的清单
+1.06| 质量管理系统、完整质量系统或其它监管证书
+1.07| 免费销售证书/营销授权证书
+1.08| 加速审查文件
+1.09| 用户费用
+1.10| 提交前对应及与监管机构的互动
+1.11| 审查清单
+1.12| 声明/认证/声明
+1.12.01| 性能和自愿标准
+1.12.02| 环境评估
+1.12.03| 临床试验认证
+1.12.04| 包含 Rx 和/或 OTC 标识的使用说明
+1.12.05| 真实准确的声明
+1.12.06| 美国 FDA 第 III 类摘要和认证
+1.12.07| 认证
+1.13| 推荐信
+1.14| 授权信
+1.15| 其他区域行政信息
+**第 2 章 – 提交背景**
+2.01| 章节内容表
+2.02| 提交的总体摘要
+2.03| 针对监管提交的摘要和认证
+2.04| 设备的描述
+2.04.01| 设备的全面描述和工作原理
+2.04.02| 设备的包装描述
+2.04.03| 设备的开发历史
+2.04.04| 参照和与类似/先前版本的设备的比较
+2.04.05| 相似性讨论
+2.05| 使用说明/用途和禁忌
+2.05.01| 预期用途；预期目的；预期用户；使用说明
+2.05.02| 预期使用环境/场所
+2.05.03| 儿童使用
+2.05.04| 使用禁忌
+2.06| 全球市场历史
+2.06.01| 全球市场历史
+2.06.02| 事故报告和召回
+2.06
 
-# 
+#
 
-# Chapter 1 – Regional Administrative 
+# 第一章 – 区域行政
 
-**Row ID**| **Regions & Level**| **Heading**| **Common Content**| **Regional Content**  
----|---|---|---|---  
-**1.01**|  IMDRF| 1| Cover Letter| 
+**行 ID**| **区域及级别**| **标题**| **通用内容**| **区域内容**
+---|---|---|---|---
+**1.01**| IMDRF| 1| 封面信|
 
-  1. The cover letter should state applicant or sponsor name and/or their authorized representative, the type of submission, the common name of the device (if applicable), device trade name or proprietary name (both of the base device and a new name if one is given to the new version/model of the device) and include the purpose of the application, including any changes being made to existing approvals.
-  2. If applicable and accepted by the regulator, it should include information pertaining to any Master Files referenced by the submission. 
-  3. If applicable, acknowledgement that a device sample has been submitted or offered alternatives to allow the regulator to view or access the device (when the regulator requests a sample). 
-  4. If the submission is requesting approval of a change that is the result of CAPA due to a recall, this should be stated.
-  5. If the submission is in response to a request for information from the regulator this should be stated and the date of that letter should be included as well as any reference number(s). 
-  6. If the submission is unsolicited information (where accepted), this should be stated and any related reference number(s) provided.
-  7. Identification of the regulatory jurisdiction(s) in which marketing is sought. 
+1. 申请人或赞助方的名称（以及/或其授权代表）、提交类型、设备通用名称（如果适用）、设备贸易名称或专有名称（包括基础设备和新版本/型号的设备名称，如果已指定）、申请目的，以及任何已进行的现有批准的变更。
 
-**NOTE:** The cover letter should not contain any detailed scientific information.| **USFDA PMA** **and 510(k)**
+2. 如果适用且得到监管机构的认可，应包含与提交的任何主文件相关的信息。
 
-  1. mailing address,
-  2. official correspondent(s),
-  3. phone/fax number(s),
-  4. email address(es)
-  5. cover letter shall be signed by applicant and an authorized rep (if the applicant does not reside or have a place of business in US) – 21 CFR 814.20(a) **(PMA Only)**
-  6. Device class and panel or classification regulation or statement that the device has not been classified with rationale for that conclusion **(510(k) only)**
+3. 如果适用，应声明已提交或提供设备样品，以便监管机构查看或访问设备（当监管机构要求提供样品时）。
 
-**TGA** The covering letter of application should be prepared on company letterhead and include;
+4. 如果提交内容是针对因召回而产生的 CAPA 变更的申请，应明确说明。
 
-  1. Submission or Application ID that is generated electronically when completing the application form in [eBusiness](<https://www.ebs.tga.gov.au/>)
-  2. Contact details of the person authorised to liaise with TGA during the evaluation process
-  3. Signed by the authorised person for the company
-  4. Where applicable, details about the similarities and differences between the new device and the predicate device in a tabular format with respect to their design, construction, materials (including formulation), intended purpose, administration, packaging materials, sterilisation process and shelf-life
-  5. Where a reduction of assessment fees is sought, a written request for reduced fees must be provided detailing each of the relevant application ID numbers to be considered for abridged assessment fees; and an explanation on why and how the assessment can be abridged. Refer to guidance on the TGA website: <https://www.tga.gov.au/publication/reduction-assessment-fees-medical-devices>
+5. 如果提交内容是针对监管机构的索取信息，应明确说明，并包含该信件的日期以及任何参考编号。
 
-**EU** Consult relevant Notified Body (NB)  
-**1.02**|  IMDRF| 1| Submission Table of Contents  
+6. 如果提交内容是未要求的（如果得到认可），应明确说明，并提供任何相关的参考编号。
+
+7. 标识在哪些监管辖区寻求上市。
+
+**注意：** 申请信不应包含任何详细的科学信息。| **美国FDA PMA** **和 510(k)**
+
+1. 邮寄地址，
+
+2. 官方联络人，
+
+3. 电话/传真号码，
+
+4. 电子邮件地址(们)
+
+5. 申请人及其授权代表（如果申请人不在美国或没有在美国的业务场所）应在申请信上签字 – 21 CFR 814.20(a) **（仅限 PMA）**
+
+6. 医疗器械类别和面板或分类法规，或声明该医疗器械未被分类，并说明该结论的理由 **（仅限 510(k)）**
+
+**TGA** 申请信应使用公司抬头，并包含：
+
+1. 电子生成的提交或申请 ID，当在 [eBusiness](<https://www.ebs.tga.gov.au/>) 中填写申请表时生成。
+
+2. 与 TGA 在评估过程中联系的授权人员的联系方式
+
+3. 由公司授权人员签字
+
+4. 在适用情况下，以表格形式详细说明新设备与先导设备之间的相似性和差异，包括其设计、结构、材料（包括配方）、预期用途、给药方式、包装材料、灭菌过程和保质期。
+
+5. 如果要求降低评估费用，必须提供书面申请，详细说明需要考虑的每个相关申请 ID 号，并说明评估如何缩短，以及缩短评估的原因。请参考 TGA 网站上的指南：<https://www.tga.gov.au/publication/reduction-assessment-fees-medical-devices>
+
+**欧盟** 咨询相关的已批准机构 (NB)
+**1.02**| IMDRF| 1| 提交内容目录
+
 | 
 
-  1. Includes at least level 1 & 2 headings for the entire submission 
-  2. Specifies the page number for each item referred to in the table.
+1. 包含整个提交内容的至少一级和二级标题。
 
-**NOTE:** Refer to the Pagination Section of this document for information about submission pagination.****|   
-**1.03**|  IMDRF| 1| List of Terms/Acronyms| Terms or acronyms used in the submission that require definition, should be defined here.|   
-**1.04**|  ANVISA, NMPA, EU, HC, JP, TGA, USFDA| 1| Application Form/Administrative Information| | **ANVISA** ANVISA’s Online Application Form containing general information related to the application shall be filled out by the authorized representative.**NMPA** Application form shall be filled out and submitted on line**EU** NBs will each have their application form, including details of manufacturer (per MDR Article 2 (30)), manufacturer’s SRN (per MDR Article 31), details of authorised representative if manufacturer not resident in EU (per MDR Article 2 (32)), route to conformity (refer to MDR Article 52), device details including classification (per MDR Annex VIII) and European Medical Device Nomenclature (EMDN) code (per MDR Article 26), details of design and manufacturing sites and subcontractor/supplier sites and copies of certificates.The application form should be signed by the manufacturer or the authorised representative. Content of technical documentation is determined by MDR Annexes II and III. See also section “Other general notes” on page 7. Consult relevant NB for guidance on documentation submissions.**HC** Health Canada application forms should be included here.**JP** PMDA’s “Application form” – from <https://www.pmda.go.jp/> **TGA** Application forms to include administrative data of the applicant, application scope (including applicable conformity assessment procedure and type of application (initial, substantial change notification and application or recertification)), current certification details, manufacturer details, critical supplier details and device details including device classification. Refer to [www.tga.gov.au](<http://www.tga.gov.au>) for the most up to date information.  
-**1.05**|  ANVISA, NMPA, HC, HSA, TGA, USFDA| 1| Listing of Device(s)| A table listing each variant/model/configuration/component/accessory that is the subject of the submission and the following information for each variant/model:
+2. 明确说明表中每个项目的页码。
 
-  *     1. the identifier (e.g. bar code, catalogue, model or part number, UDI)
-    2. a statement of its name/description that provides (e.g. Trade name, size, material)
+**请注意：** 请参阅本文件的“分页”部分，以获取提交分页相关信息。
 
-**NOTE:**
+**1.03**| IMDRF| 1| 术语/缩写列表| 提交中使用的需要定义的术语或缩写，应在此处定义。
 
-  1. A model/variant/configuration/component/accessory of a device has common specifications, performance and composition, within limits set by the applicant. 
-  2. Typically each item listed should be available for sale. For example, if everything is sold as part of a kit, then this list would only include the kit. You do not need to list all components that may be sold within a kit/set, unless the component is available for sale independently of the kit.
+**1.04**| ANVISA, NMPA, EU, HC, JP, TGA, USFDA| 1| 申请表/行政信息|
+**ANVISA** 包含与申请相关的一般信息的 ANVISA 在线申请表应由授权代表填写。
+**NMPA** 申请表应在线填写并提交。
+**EU** 欧盟各 NB 将有各自的申请表，包括制造商信息（参见 MDR 第 2(30) 条）、制造商的 SRN（参见 MDR 第 31 条）、如果制造商不在欧盟，则授权代表的详细信息（参见 MDR 第 2(32) 条）、符合性评估途径（参见 MDR 第 52 条）、包括分类（参见 MDR 第 8 附件）和欧洲医疗器械命名法 (EMDN) 码（参见 MDR 第 26 条）的设备详细信息、设计和制造地点以及承包商/供应商地点和证书副本。申请表应由制造商或授权代表签署。技术文档的内容由 MDR 第 2 和 3 附件确定。 参见第 7 页的“其他一般说明”部分。请咨询相关 NB，以获取关于文档提交的指导。
+**HC** Health Canada 的申请表应在此处列出。
+**JP** PMDA 的“申请表” – 来自 <https://www.pmda.go.jp/>
+**TGA** 申请表应包括申请人的行政数据、申请范围（包括适用的符合性评估程序和申请类型（初始、重大变更通知或申请或重新认证））、当前认证详情、制造商详情、关键供应商详情和设备详情，包括设备分类。请参阅 [www.tga.gov.au](<http://www.tga.gov.au>) 以获取最新信息。
 
-| **ANVISA** The grouping (family, set and systems) of medical devices may apply and shall be in compliance with the requirements set in the specific regulation. **HSA** The list of devices to be included in an application is to be submitted in an excel sheet format and inclusion of devices should be based on grouping criteria specified in GN-12 guidance document. The excel format “Annex 2 for GN17 and GN18 List of Configurations” is available online at [www.hsa.gov.sg](<http://www.hsa.gov.sg>)**Russia** Any model/variant/configuration of device(s) listed should be limited (covered) by a single Global Medical Device Nomenclature (GMDN) Code and Term. The components within a kit/set can have their own GMDN Codes/Terms.**TGA** For all classes of devices the applicant needs to include: 
+**1.05**| ANVISA, NMPA, HC, HSA, TGA, USFDA| 1| 设备的清单| 一张表格，列出提交的主题，包括每个型号/版本/配置/组件/附件，以及每个型号/版本的以下信息：
 
-  1. The Global Medical Device Nomenclature (GMDN) Code and Term
-  2. The classification and the applicable classification rule 
+*   1. 标识符（例如：条形码、目录、型号或零件编号、UDI）
 
-For class III devices this table should also identify the following:
+2. 声明其名称/描述，提供（例如：商品名称、尺寸、材料）
 
-  1. Unique Product Identifiers (see the Therapeutic Goods (Medical Devices) Regulations 2002)
-  2. Variants (as defined in the Therapeutic Goods (Medical Devices) Regulations 2002)
+**注意：**
 
-**JP** For devices that fit the definition of a JMDN code, the applicant needs to include the Japanese Medical Device Nomenclature (JMDN) Code and Term.For medical devices that do not fit the definition of a JMDN code, the applicant needs to include a Dummy Code and TermJMDN information is available at <https://www.std.pmda.go.jp/stdDB/index_en.html>.  
-**1.06**|  ANVISA, NMPA, EU, HC, HSA, TGA| 1  
-| Quality Management System, Full Quality System or Other Regulatory Certificates  
-| | **ANVISA** Good Manufacturing Practice Certificate (GMPC) issued by ANVISA covering the product range. This document or the requirement protocol number must be provided by the authorized representative at the time of application. 
+1. 某个医疗器械的模型/变体/配置/组件/附件具有相同的规格、性能和组成，在申请人规定的范围内。
 
-  1. A product registration or a submission for change/inclusion of the manufacturer of products in classes III or IV requires a valid GMP certificate issued by ANVISA. However, review of the submission may be initiated prior to GMP certification. In such cases, the document proving that the application for GMP certification has been submitted to ANVISA must be provided, indicating the name of the manufacturer, the address of the site to be certified and the identification number of the GMP certification application to ANVISA. The registration or amendment shall be approved only after the GMP certificate has been issued.
-  2. A valid GMP certificate issued by ANVISA is also required for renewal of product registration of products in classes III or IV. The document proving that the GMP certificate has been applied to ANVISA will be accepted if the GMP certificate has not been issued yet. However, if the outcome of the GMP certification process results in a rejection, the registration of the product will be canceled.
+2. 通常，列出的每个项目都应可供销售。例如，如果所有产品都作为一套出售，则此列表仅应包括该套。除非组件可以独立于套出售，否则无需列出套/套装中可能出售的所有组件。
 
-**NMPA** a) Domestic applicant shall provide: 
+| **ANVISA** 医疗器械的组（包括：类别、套装和系统）应符合相关法规规定的要求。 **HSA** 申请中需要包含的器械清单应以 Excel 格式提交，并且应根据 GN-12 指导文件的规定，以组别标准进行选择。 “Annex 2 for GN17 and GN18 List of Configurations” 的 Excel 格式可在 [www.hsa.gov.sg](<http://www.hsa.gov.sg>) 上找到。**俄罗斯** 列出的任何器械型号/变体/配置都应使用单一的全球医疗器械命名法 (GMDN) 编码和术语。 套件/套装中的组件可以有自己的 GMDN 编码/术语。**TGA** 对于所有类型的器械，申请人需要包含：
 
-  1. Copies of the duplicate of Enterprise Business License or the Legal Person Certificate of Public Institution. 
-  2. Where production is entrusted to another enterprise, the qualification document of the entrusted enterprise (a copy of the duplicate of Enterprise Business License), the entrustment contract and the quality assurance agreement shall be provided. 
+1. 全球医疗器械命名法（GMDN）代码和术语
 
-b) Imported Medical Device applicant shall provide: 
+2. 分类和适用的分类规则
 
-  1. Enterprise qualification certificate: the certificate that is issued by the competent authority for enterprise registration or the competent authority for medical devices in the country (region) where the overseas applicant is registered, and can prove that the overseas applicant exists and has the corresponding medical device production qualification; or the certificate that is issued by a third-party certification authority and can prove that the overseas applicant has the corresponding medical device production qualification. 
-  2. Where production is entrusted to another enterprise, the qualification document of the entrusted enterprise, the entrustment contract and the quality assurance agreement shall be provided. 
+对于 III 类器械，此表格还应标识以下内容：
 
-**EU** If manufacturer holds MDD or MDR certificate(s) issued by another NB covering the products in the application If manufacturer does not hold EN ISO 13485 with the NB, the EN ISO 13485 certificate/s will need to be provided**HC** Health Canada will only accept MDSAP certificates that have been issued by recognized auditing organizations. **TGA** Copies of any current TGA or other regulatory authority certification including full audit or surveillance reports, technical reports (e.g. MDR certification report, details of MDSAP certification held) referenced within the submission or required for the submission type. The reference certificates requirements will vary based on the submission type, refer to [TGA guidance](<https://www.tga.gov.au/resources/resource/guidance/use-market-authorisation-evidence-comparable-overseas-regulators-and-assessment-bodies-medical-devices-including-ivds>) for these requirements. For Class III medical devices containing a medicinal substance or Active Pharmaceutical Ingredient (API), provide valid [GMP evidence](<https://www.tga.gov.au/medicinal-substances-medical-devices>) for the medical substance or API contained in the device. **HSA** ISO 13485 certificates are to be provided for manufacturing and sterilisation sites of finished devices. For sites without ISO 13485 certification, comparable audit reports for the actual site e.g. US FDA Quality Systems Regulations or Japan MHLW Ordinance 169 can be submitted.  
-**1.07**|  ANVISA, NMPA, HSA| 1| Free Sale Certificate/ Certificate of Marketing authorization| 
+1. 唯一产品标识符（参见《医疗器械（治疗用品）法规 2002》）
 
-  1. List of the Regulatory Authorities that have provided current regulatory approval for the supply of this product in their country/region of authority 
-  2. Details of the type of regulatory approval obtained from each Regulatory Authority 
-  3. Current evidence of the regulatory approval, such as certificates provided by the 
+2. 变体（如《医疗器械（治疗用品）法规 2002》中所定义）
 
-Regulatory AuthorityCopies can be certified by a notary public or by the manufacturer. The manufacturer may be asked to present the original copy at any time. Information relating to export-only regulatory approvals should be clearly identifiable as export-only approvals. | **ANVISA** Document/certificate from the regulatory authority in whose jurisdiction the medical device is marketed confirming that the device can be sold and used without restriction. This document must be presented by the authorized representative at the time of application.**NMPA** Imported Medical Device applicant shall provide: The certificate issued by the competent authority for medical devices of the country (region) where the overseas applicant is registered or where the production address is located that permits the marketing of the product, and the innovative medical device that has not been marketed in the country (region) where the overseas applicant is registered or the production address is located may not be submitted.If the country (region) where the overseas applicant is registered or the production address is located does not manage this product as medical device, the applicant needs to provide the relevant certificates, including the certificate issued by the said country (region) permitting the marketing of this product. Innovative medical devices that have not been marketed in the country (region) where the overseas applicant is registered or the production address is located may not be submitted.**HSA** Where available, approval letters or certificates of marketing authorisation from our reference regulatory agencies (Health Canada, Japan MHLW, US FDA, TGA, and EU NB) can be submitted.  
-**1.08**|  HSA, NMPA, TGA| 1| Expedited Review Documentation| | **HSA** For applications with approvals from HSA’s reference regulatory agencies and applying for faster evaluation routes, following information is required:a) Declaration of no safety issues globally (refer to GN-15 for the template)b) Proof of marketing history in the independent reference regulatory agency’s jurisdictions i.e., Invoice with date, proof of sale or a declaration on marketing history (refer to GN-15 for the declaration template)Refer to GN-15 available at [www.hsa.gov.sg](<http://www.hsa.gov.sg>) for more information**NMPA:** a)For the registration application of medical devices reviewed and approved in accordance with the Special Review Procedure for Innovative Medical Devices, relevant explanations on passing the review for innovative medical devices shall be submitted.b) For the registration application of medical devices reviewed and approved in accordance with the Emergency Review and Approval Procedure for Medical Devices, relevant explanations on passing the emergency review and approval of medical devices shall be submitted.**TGA** Where a priority applicant determination has been made for an application for a conformity assessment certificate issued by the TGA, the following information is required:
+**JP** 对于符合 JMDN 编码定义的器械，申请人需要包含日本医疗器械命名法 (JMDN) 编码和术语。对于不符合 JMDN 编码定义的医疗器械，申请人需要包含一个假 JMDN 信息。 JMDN 信息可在 <https://www.std.pmda.go.jp/stdDB/index_en.html> 上找到。
+**1.06**| ANVISA, NMPA, EU, HC, HSA, TGA| 1
+| 质量管理体系、完整质量体系或其它监管证书
+| | **ANVISA** 由 ANVISA 颁发的良好生产规范 (GMP) 证书，涵盖产品范围。 此文件或要求编号必须由授权代表在申请时提供。
 
-  * Notification of the delegate’s decision of priority applicant determination 
+1. 申请注册产品或申请制造商（属于 III 类或 IV 类）的变更/包含申请，需要提供有效的由 ANVISA 颁发的 GMP 证书。但是，在获得 GMP 证书之前，可以启动审查。在这种情况下，必须提供证明已向 ANVISA 提交 GMP 申请的证明文件，该文件应包含制造商的名称、需要认证的地点地址以及向 ANVISA 提交的 GMP 申请的识别编号。只有在获得 GMP 证书后，才能批准注册或修改。
 
-More information is available at: <https://www.tga.gov.au/resource/priority-applicant-guidelines-medical-devices-including-ivds>  
-**1.09**|  ANVISA, HC, USFDA| 1| User Fees|  | **ANVISA** User fee form must be obtained by the authorized representative at the time of application. It will not be available in advance to include here. **HC** Health Canada user fee forms should be included here.**USFDA PMA and 510(k)** FDA User Fee Form 3601**JP** Attach a copy of receipt of the user fee payment to the application form.Information about user fee available at;<https://www.pmda.go.jp/review-services/drug-reviews/user-fees/0001.html>  
-**1.10**|  IMDRF| 1| Pre-Submission Correspondence and Previous Regulator Interactions| 
+2. 同样需要获得ANVISA颁发的有效GMP证书，才能更新III类或IV类的产品注册。如果尚未颁发GMP证书，但可以提供证明已向ANVISA申请GMP证书的证明文件，则可以接受。然而，如果GMP认证过程的结果导致拒绝，则该产品的注册将被取消。
 
-  1. During the product lifecycle, pre-submission correspondence, including teleconferences or meetings, may be held between the regulator and the applicant. Further, the specific subject device may have been subject to previous regulatory submissions to the regulator. The contents should be limited to the subject device as similar devices are addressed in other areas of the submission. If applicable, the following elements should be provided:
-  2. List prior submission or pre-submissions where regulator feedback was provided
-  3. Prior submissions should include identification of submission #
-  4. For any pre-submission activities that have not previously been assigned any tracking/reference number, include the information package that is submitted prior to pre-submission meetings, the meeting agenda, any presentation slides, final meeting minutes, responses to any action items arising from the meetings, and any email correspondence related to specific aspects of the application.
-  5. Issues identified by the regulator in prior submissions (i.e., clinical study applications, withdrawn/deleted/denied regulatory submission) for the subject device.
-  6. Issues identified and advice provided by the regulator in pre-submission interactions between the regulator and the applicant/sponsor.
-  7. Explain how and where the prior advice was addressed within the submission.
+**NMPA** a) 申请人应提供：
 
-**OR**
+1. 企业的营业执照副本或公共机构法人证书的复印件。
 
-  1. Affirmatively state there has been no prior submissions and/or pre-submission interactions for the specific device that is the subject of the current submission.
+2. 如果生产委托给其他企业，应提供委托企业的资质文件（企业营业执照副本）、委托合同和质量保证协议。
 
-**NOTE  
-** The scope of this section is limited to the particular regulator to which the submission is being submitted (e.g. Health Canada does not need pre-submission information relating to interactions with ANVISA).|   
-**1.11**|  TGA, USFDA| 1| Acceptance for Review Checklist| | **USFDA PMA** Optionally, you may complete the checklist and provide section and pages numbers indicating where every item on the check is addressed in the submission. See Appendix A of the **_Acceptance and Filing Reviews for Premarket Approval Applications (PMAs): Guidance for Industry and Food and Drug Administration Staff Guidance_****TGA** Includes the [Supporting data checklists](<https://www.tga.gov.au/how-we-regulate/manufacturing/medical-devices/conformity-assessment/conformity-assessment-bodies/tga-conformity-assessment-certification/application-conformity-assessment-certificates-medical-devices>)  
-**1.12**|  ANVISA, EU, HC, HSA, TGA, USFDA| 1| Statements/Certifications/Declarations of Conformity| **NO CONTENT AT THIS LEVEL**| **NO CONTENT AT THIS LEVEL**  
-**1.12.01**|  USFDA| 2| Chapter Retired| Content redundant with 2.10|   
-**1.12.02**|  USFDA| 2| Environmental Assessment| | **USFDA PMA**
+b) 进口医疗器械申请人应提供：
 
-  1. If claiming categorical exclusion, information to justify the exclusion
+1. 企业的资质证书：由注册或医疗器械主管部门颁发的，能够证明申请人在注册地（或海外）具有相应医疗器械生产资质的证书；或由第三方认证机构颁发的，能够证明申请人在注册地（或海外）具有相应医疗器械生产资质的证书。
 
-**OR**
+2. 如果生产委托给其他企业，应提供委托企业的资质文件、委托合同和质量保证协议。
 
-  1. Provide the environmental assessment (only required for devices that present new environmental concerns)
+**欧盟** 如果制造商持有由其他认证机构颁发的 MDD 或 MDR 证书（适用于申请产品），则无需提供。如果制造商未持有由认证机构颁发的 EN ISO 13485 证书，则必须提供 EN ISO 13485 证书。
+**加拿大卫生部 (HC)** 加拿大卫生部仅接受由认可的审计机构颁发的 MDSAP 证书。
+**澳大利亚注册药 (TGA)** 提交任何当前 TGA 或其他监管机构的认证证书，包括完整的审计或监督报告、技术报告（例如，MDR 认证报告、MDSAP 认证的详细信息），这些报告在提交中引用或作为提交要求。 具体的证书要求将根据提交类型而有所不同，请参考 [TGA 指导](<https://www.tga.gov.au/resources/resource/guidance/use-market-authorisation-evidence-comparable-overseas-regulators-and-assessment-bodies-medical-devices-including-ivds>)。 对于含有药物成分或活性药物成分 (API) 的 III 类医疗器械，必须提供有效的 [GMP 证据](<https://www.tga.gov.au/medicinal-substances-medical-devices>)，证明该设备中包含的药物成分或 API。
+**香港药品及医疗器械管理局 (HSA)** 必须提供成品设备的制造和灭菌场所的 ISO 13485 证书。 对于没有 ISO 13485 认证的场所，可以提交与实际场所相关的可比审计报告，例如美国 FDA 的质量系统法规或日本 MHLW 法规 169。
 
-**1.12.03**|  USFDA| 2| Clinical Trial Certifications| | **USFDA PMA and 510(k)**
+**1.07** | ANVISA, NMPA, HSA | 1 | 销售许可证/营销授权证书 |
 
-  1. Certification of Compliance with Requirements of ClinicalTrials.gov (Form FDA 3674)
-  2. Financial Certification or Disclosure Statement (Form FDA 3454 and Form FDA 3455)
+1. 列出已提供本产品在各自辖区/地区的当前监管批准的监管机构名单
 
-**1.12.04**|  USFDA| 2| Indications for Use Statement with Rx and/or OTC designation Enclosure| | **USFDA 510(k)** Use FDA Form FDA 3881  
-**1.12.05**|  ANVISA, NMPA, HC, TGA, USFDA| 2| Truthful and Accurate Statement| | **ANVISA** A dated statement signed by the legal representative and technical manager of the authorized representative must be submitted at the time of application. The statement must certify that the information provided in the application is true and that the information provided in the attached documents is correct and complete.**NMPA** The authenticity of the documents submitted (domestic product materials are issued by the applicant, and imported product materials are issued by the applicant and the agent respectively) shall be guaranteed.**HC** The attestation that statements in the application are true and that the information provided in this application and in any attached documentation is accurate and complete is a component of the application form. Consult current Health Canada guidance for specific language.**TGA****Conformity Assessment - Manufacturer's statutory declaration**
+2. 从每个监管机构获得的批准类型的详细信息
 
-  1. A statutory declaration is a written statement allowing a person to declare something to be true. The declaration is signed in the presence of a witness. Giving false or misleading information as part of a statutory declaration is a criminal offence under the Criminal Code.
+3. 现有的批准证明，例如由监管机构提供的证书
 
-[Manufacturer statutory Declarations](<https://www.tga.gov.au/how-we-regulate/manufacturing/medical-devices/conformity-assessment/conformity-assessment-bodies/tga-conformity-assessment-certification/manufacturer-statutory-declarations>)Statements of undertaking by the manufacturer as required by conformity assessment procedures set in the Therapeutic Goods (Medical Devices) Regulations 2002**USFDA 510(k)**
+监管机构：副本可由公证人或制造商进行认证。制造商可能随时要求提供原始副本。与仅用于出口的监管批准相关的信息应明确标识为仅用于出口的批准。| **ANVISA** 来自监管机构的证明文件/证书，确认该医疗器械可以在其管辖范围内销售和使用，无需任何限制。该文件必须由授权代表在申请时提交。**NMPA** 进口医疗器械申请人应提供：由该国（地区）的医疗器械主管部门颁发的证明文件（即申请人在该国或生产地址所在地的主管部门），该文件允许该产品的销售，以及未在该国或生产地址所在地的主管部门销售的创新医疗器械不得提交。如果该国（地区）在该主管部门未将该产品归类为医疗器械，则申请人必须提供相关证明文件，包括该主管部门颁发的允许该产品销售的证明文件。未在该国或生产地址所在地的主管部门销售的创新医疗器械不得提交。**HSA** 如果可用，可提交来自我们参考监管机构（加拿大卫生部、日本MHLW、美国FDA、TGA和欧盟NB）的批准信或营销授权证书。
 
-  1. Truthful and Accurate statement per 21 CFR 807.87(k). Text:
+**1.08**| HSA, NMPA, TGA| 1| 加速审查所需文件| | **HSA** 对于已获得HSA参考监管机构批准并申请更快的评估途径的申请，需要提供以下信息：a) 全球无安全问题的声明（参考GN-15模板）b) 在独立参考监管机构管辖范围内，证明营销历史，即发票、销售证明或营销历史声明（参考GN-15声明模板）请参考[www.hsa.gov.sg](<http://www.hsa.gov.sg>)上的GN-15获取更多信息**NMPA:** a) 对于符合“创新医疗器械特殊审查程序”审查和批准的医疗器械的注册申请，应提交有关通过创新医疗器械审查的解释。b) 对于符合“医疗器械紧急审查和批准程序”审查和批准的医疗器械的注册申请，应提交有关通过医疗器械紧急审查和批准的解释。**TGA** 如果针对由TGA颁发的符合性评估证书的申请已确定优先申请，则需要提供以下信息：
 
-_I certify that, in my capacity as (the position held in company) of (company name), I believe to the best of my knowledge, that all data and information submitted in the premarket notification are truthful and accurate and that no material fact has been omitted._**NOTE:** Signed by a responsible person of the firm (not a consultant)  
-**1.12.06**|  USFDA| 2| USFDA Class III Summary and Certification| | **USFDA 510(k)** Class III Certification and Summary per 21 CFR 807.94. Text:_I certify that, in my capacity as (the position held in company) of (company name) that I have conducted a reasonable search of all information known or otherwise available about the types and causes of safety and/or effectiveness problems that have been reported for the (device name). I further certify that I am aware of the types of problems to which the (device name) is susceptible and that, to the best of my knowledge, the following summary of the types and causes of safety and/or effectiveness problems about the (device name) is complete and accurate._  
-_(Attach the summary of problem data, bibliography or other citations upon which the summary is based.)_  
-**1.12.07**|  NMPA, EU, HSA, JP, TGA| 2| Declaration of Conformity| As part of the conformity assessment procedures, the manufacturer of a medical device is required to make a Declaration of Conformity that declares that the device complies with:
+* 委托人优先申请人确定决定的通知
 
-  1. the applicable provisions of the Essential Principles/Requirements
-  2. the classification rules
-  3. an appropriate conformity assessment procedure
+更多信息请参考：<https://www.tga.gov.au/resource/priority-applicant-guidelines-medical-devices-including-ivds>
+**1.09**| ANVISA, HC, USFDA| 1| 用户费用| | **ANVISA** 用户费用表必须在申请时由授权代表获取。此表将不会提前提供，以便在此处填写。**HC** 加拿大卫生部用户费用表应在此处列出。**USFDA PMA 和 510(k)** FDA 用户费用表 3601**JP** 将用户费用支付收据的复印件附在申请表上。关于用户费用的信息请参考：<https://www.pmda.go.jp/review-services/drug-reviews/user-fees/0001.html>
+**1.10**| IMDRF| 1| 提交前沟通和与监管机构的先前互动|
 
-| **NMPA** Applicants shall make statement on the following contents:a) The proposed product shall meet the requirements of the Measures for the Administration of Registration and Filing of Medical Devices and other relevant regulations.b) The proposed product shall meet the requirements related to the classification in the Rules for the Classification of Medical Devices.c) The proposed product conforms to the current national standards and industry standards. Also, a list of conforming to standards shall be provided.**EU** See MDR Annex IV and Article 19 for requirementsNote: Accessories and components of a device/system that can be sold separately shall be identified **JP** Declaration and/or certificate that the relevant product is manufactured to conform to the essential principles and/or the quality management system. The applicant is advised to prepare the declaration of conformity according to ISO 17050-1 “Conformity Assessment - Supplier’s Declaration of Conformity - Part 1: General Requirement.”**TGA** The wording of the Declaration of Conformity will depend on the conformity assessment procedure chosen by the manufacturer. Templates for each of the four possible types of Declarations of Conformity under Schedule 3 of the Therapeutic Goods (Medical Devices) Regulations 2002 are available at [Australian declaration of conformity templates (medical devices) | Therapeutic Goods Administration (TGA)](<https://www.tga.gov.au/how-we-regulate/manufacturing/manufacture-medical-device/obtain-and-maintain-regulatory-evidence/tga-conformity-assessment/australian-declaration-conformity-templates-medical-devices>).**HSA** There is an online declaration of conformity to safety, quality and efficacy requirements that every applicant submits on our MEDICS online system at the point of submission of the application. In addition, the Singapore Declaration of Conformity – refer to GN-11 available at [www.hsa.gov.sg](<http://www.hsa.gov.sg>), is to be submitted. Alternatively, the Declaration of Conformity for the devices with marketing authorisation from reference regulatory agencies (e.g. EC DoC) can be submitted.   
-**1.13**|  IMDRF| 1| Letters of Reference| Where applicable, letter from the owner of any separate document referenced in the submission (e.g. Master File or previous regulatory submission), granting access to the information in the referenced document. The letter should include the information of the applicant who cited the separate document (e.g. Master File or previous regulatory submission), the product name, the document number that has been filed, and the page number/chapter information of the separate document authorized to be cited.|   
-**1.14**|  ANVISA, NMPA, HSA| 1| Letter of Authorization| | **ANVISA** Letter of authorization from the manufacturer authorizing the local representative to submit the application to ANVISA and place its product on the Brazilian market, according to the template available at www.anvisa.gov.br.**NMPA** A)When the imported medical device registrant applies for registration through its foreign-invested enterprise established within the territory of China in accordance with relevant provisions on the production of imported medical devices in enterprises within the territory of China, the applicant shall submit not only the letter of statement or authorization showing the consent of the imported medical device registrant for the registration application, but also the documents explaining the relationship (including legal liability) between the applicant and the imported medical device registrant, with relevant agreements, quality liability documents, equity certificates, etc. attached.b) Copies of the Power of Attorney and Letter of Commitment of the appointed agent within the territory of China and the duplicate of Business License.**HSA** Letter of Authorisation of Registrant by the Product Owner for all the products to be registered, using the latest template as per GN-15 Letter of Authorisation template – available at [www.hsa.gov.sg](<http://www.hsa.gov.sg>). Registrant refers to a Singapore-based company that is registered with the Accounting and Corporate Regulatory Authority (ACRA) of Singapore and Product owner refers to the legal manufacturer of the device.  
-**1.15**|  IMDRF| 1| Other Regional Administrative Information| Heading for other administrative information that may be important to the submission but that does not fit in any of the other headings of this chapter.**NOTE:** To ensure all elements of your submission are adequately reviewed, please be sure that any content placed here does not belong under any heading described above.|   
+1. 在产品生命周期内，监管机构和申请人之间可能会进行提交前沟通，包括电话会议或会议。此外，具体的设备可能已经向监管机构提交过之前的监管申请。内容应仅限于具体的设备，因为类似的设备在其他提交的区域已得到处理。如果适用，应提供以下内容：
 
-# 
+2. 列出之前提交或预提交，其中监管机构已提供反馈的情况
 
-# Chapter 2 – Submission Context
+3. 之前的提交应包含提交编号的标识
 
-**Row ID**| **Regions & Level**| **Heading**| **Common Content**| **Regional Content**  
----|---|---|---|---  
-**2.01**|  IMDRF| 1| Chapter Table of Contents| 
+4. 对于任何在提交之前没有被分配任何跟踪/参考编号的活动，请包含提交的资料包、提交之前的会议议程、任何演示文稿、最终会议记录、对会议中产生的任何行动项的回复，以及与特定申请方面相关的任何电子邮件通信。
 
-  1. Includes all headings and sub-headings for the chapter.
-  2. Specifies the page number for each item referred to in the table.
+5. 监管机构在先前提交中识别的问题（即，针对相关医疗器械的临床试验申请、已撤回/删除/被拒绝的监管提交）。
+
+6. 监管机构在申请人/赞助商与监管机构之间的预提交互动中识别的问题以及提供的建议。
+
+7. 解释如何在提交中解决了先前提供的建议。
+
+**或者**
+
+1. 明确声明，针对当前提交的特定设备，此前尚未提交任何相关材料或与监管机构进行过预先沟通。
+
+**注意**
+本部分范围仅限于提交申请的具体监管机构（例如，加拿大卫生部不需要与ANVISA相关的预先提交信息）。
+
+**1.11** | TGA, USFDA | 1 | 审核清单 | | **USFDA PMA** 选自，您可以完成清单并提供清单中每个项目的对应章节和页码，以表明在提交中如何处理。请参阅《_关于预先批准申请（PMAs）的审核和备案指南：为行业和美国食品药品管理局（FDA）工作人员_》的附录 A，其中包含 [支持性数据清单](<https://www.tga.gov.au/how-we-regulate/manufacturing/medical-devices/conformity-assessment/conformity-assessment-bodies/tga-conformity-assessment-certification/application-conformity-assessment-certificates-medical-devices>)
+
+**1.12** | ANVISA, EU, HC, HSA, TGA, USFDA | 1 | 符合性声明/证书/声明 | **本级别无内容** | **本级别无内容**
+
+**1.12.01** | USFDA | 2 | 章节已废弃 | 内容与 2.10 相同 |
+
+**1.12.02** | USFDA | 2 | 环境评估 | | **USFDA PMA**
+
+1. 如果声称符合排除标准，则提供证明排除依据的信息
+
+**或者**
+
+1. 提供环境评估（仅适用于存在新环境问题的设备）
+
+**1.12.03**| 美国食品药品监督管理局| 2| 临床试验认证| | **美国食品药品监督管理局 PMA 和 510(k)**
+
+1. 提交符合 ClinicalTrials.gov (表 FDA 3674) 要求的认证
+
+2. 提交财务认证或披露声明 (表 FDA 3454 和表 FDA 3455)
+
+**1.12.04**| 美国食品药品监督管理局 (USFDA)| 2| 用药处方或非处方药的用途声明附录| | **美国食品药品监督管理局 510(k)** 使用 FDA 表格 FDA 3881
+**1.12.05**| ANVISA、NMPA、HC、TGA、USFDA| 2| 真实且准确的声明| | **ANVISA** 在申请时，必须提交由授权代表的法律代表和技术经理签署的、带有日期声明。该声明必须证明所提供的申请信息真实，并证明所附文件的信息准确完整。**NMPA** 必须保证提交文件的真实性（国内产品材料由申请人出具，进口产品材料分别由申请人和代理人出具）。**HC** 声明在申请中的真实性，以及在申请和任何附带文件中提供的信息的准确性和完整性，是申请的一部分。请参考加拿大卫生部的最新指南，以获取具体的语言。**TGA****制造商的法定声明**
+
+1. 法定声明是一种书面声明，允许个人声明某件事是真实的。该声明必须在证人面前签署。在法定声明中提供虚假或误导性信息，违反《刑事法》的规定。
+
+[制造商法定声明](<https://www.tga.gov.au/how-we-regulate/manufacturing/medical-devices/conformity-assessment/conformity-assessment-bodies/tga-conformity-assessment-certification/manufacturer-statutory-declarations>) 按照《2002年药物用品（医疗器械）法规》中规定的合规评估程序，制造商必须提供的声明。**美国食品药品监督管理局 510(k)**
+
+1. 按照 21 CFR 807.87(k) 的真实且准确声明。 文本：
+
+_我声明，作为（公司名称）的（职位），我根据我所掌握的信息，确认，所提交的预上市通知中的所有数据和信息都是真实准确的，并且没有遗漏任何实质性事实。_**注意：** 由公司负责人员签署（非顾问）
+**1.12.06**| USFDA| 2| USFDA Class III 摘要和认证| | **USFDA 510(k)** 根据 21 CFR 807.94，Class III 认证和摘要
+_我声明，作为（公司名称）的（职位），我已对（设备名称）的各种安全和/或有效性问题，以及相关报告的信息进行了合理的调查。我进一步声明，我了解（设备名称）可能出现的各种问题，并且，根据我所掌握的信息，以下关于（设备名称）各种安全和/或有效性问题的摘要是完整和准确的。_
+
+_(附上摘要所依据的数据摘要、参考文献或其他引用。)
+**1.12.07**| NMPA, EU, HSA, JP, TGA| 2| 符合性声明| 作为符合性评估程序的一部分，医疗器械的制造商必须提交符合性声明，声明该设备符合：
+
+1. 适用的《基本原则/要求》条款
+
+2. 分类规则
+
+3. 适当的合规性评估程序
+
+| **NMPA** 申请人应声明以下内容：a) 拟上市产品应符合《医疗器械注册和备案管理办法》及其他相关法规的要求。b) 拟上市产品应符合《医疗器械分类管理办法》的相关要求。c) 拟上市产品符合国家标准和行业标准。 此外，应提供符合标准的清单。**欧盟** 请参阅第IV期和第19条，了解要求。
+注意：可单独销售的设备/系统的附件和组件应进行标识。**日本** 声明和/或证书，表明相关产品符合基本原则和/或质量管理体系。建议申请人根据 ISO 17050-1 “符合性评估 - 供应商符合性声明 - 第 1 部分：通用要求” 准备符合性声明。**TGA** 符合性声明的措辞将取决于制造商选择的符合性评估程序。根据《2002年医疗器械（医疗器械）法规》第3项附表中的四种可能类型的符合性声明，可在 [澳大利亚符合性声明模板（医疗器械） | 澳大利亚药品与健康管理局 (TGA)](<https://www.tga.gov.au/how-we-regulate/manufacturing/manufacture-medical-device/obtain-and-maintain-regulatory-evidence/tga-conformity-assessment/australian-declaration-conformity-templates-medical-devices>) 找到模板。**HSA** 在提交申请时，每个申请人应在我们的 MEDICS 在线系统中提交符合安全、质量和疗效要求的在线符合性声明。此外，应提交新加坡符合性声明 – 请参阅 GN-11，可在 [www.hsa.gov.sg](<http://www.hsa.gov.sg>) 找到。 另一种选择是，如果设备已获得参考监管机构（例如欧盟的 DoC）的上市许可，则可以提交符合性声明。
+
+**1.13**| IMDRF| 1| 推荐信| 在适用情况下，应提供任何在提交中引用的单独文件的所有者（例如，主文件或之前的监管提交）的书面授权，以获得引用该文件的信息的访问权限。该信件应包含引用单独文件的申请人的信息（例如，主文件或之前的监管提交）、产品名称、已提交的文档编号以及可引用的单独文件的
+
+#
+
+# 第 2 章 – 提交背景
+
+**行 ID**| **区域及级别**| **标题**| **常见内容**| **区域性内容**
+---|---|---|---|---
+**2.01**| IMDRF| 1| 章节目录|
+
+1. 包含章节的所有标题和子标题。
+
+2. 明确说明表中每个项目的页码。
 
 |   
-**2.02**|  IMDRF| 1| General Summary of Submission| 
+**2.02**| IMDRF| 1| 提交摘要|
 
-  1. Statement of the device type (e.g. hip implant, infusion pump, standalone software) and name (e.g. trade name, proprietary name), its general purpose, and a high-level summary of key supporting evidence (i.e., studies that are unique to the risks of this device type, for example burst testing of a ceramic femoral head; electrical safety evaluation (IEC 60601) testing for an infusion pump). 
-  2. Summary of submission, including 
-  3. The type of submission (e.g. new, amendment, change of existing application, renewal);
-  4. if amendment/supplement, the reason of the amendment/supplement;
-  5. if a change to existing approval, description of the change requested (e.g. changes in design, performance, indications, changes to manufacturing processes, manufacturing facilities, suppliers);
-  6. any high-level background information or unusual details that the manufacturer wishes to highlight in relation to the device, its history or relation to other approved devices or previous submissions (provides context to submission).
+1. 声明设备类型（例如：髋关节置换器、输液泵、独立软件）、名称（例如：商品名称、专有名称）、其一般用途，以及关键支持性证据的高级摘要（即，针对该设备类型的独特风险的研究，例如：陶瓷股骨头爆破测试；输液泵的电气安全评估（IEC 60601）测试）。
 
-| **ANVISA** If renewal, amendment or change, identification of the registration/notification number issued by ANVISA.**NMPA** a) If product registration, the applicant shall describe the general name and the basis for its determination,b) If product registration, the applicant shall describe the management category, including the name of the category sub-category, the first-level product category, the second-level product category, the management category, and the classification code.c) If product registration, the applicant shall describe the scope.d) if applicable, any high-level background information or unusual details that the manufacturer wishes to highlight in relation to the device, its history or previous submissions or relation to other approved devices.**HC** If amendment or new submission based on currently licenced device(s), the Canadian Medical Device Licence Number(s) should be provided along with the description of the change requested. If amendment, there may be multiple sections where there is “no change”. These folders would thus be considered “Not applicable”. A list of these sections may be provided here, identified as “no change” and then the appropriate folders would be excluded from the submission.If amendment or new submission, if a report can fit into multiple sections, only one copy should be included and references to the single copy provided in other sections where the information might be applicable.If requesting priority review per Section 15 of the application form, the justification should be provided here.**TGA** If recertification or substantial change notification and application for a conformity assessment certificate, identification of the affected TGA certificate number(s) must be provided.**USFDA 510(k)** Executive Summary as described in the “[Guidance for Industry and Food and Drug Administration Staff - Format for Traditional and ](<https://www.fda.gov/media/130647/download>)[Abbreviated 510(k)s](<https://www.fda.gov/media/130647/download>)”**HSA** Executive summary as per GN-17 available at [www.hsa.gov.sg](<http://www.hsa.gov.sg>)  
-**2.03**|  USFDA| 1| Summary and Certifications for Regulatory Submissions | | **USFDA PMA**
+2. 提交摘要，包括：
 
-  1. Summary of the Content of the Whole PMA per 21 CFR 814.20(b)(3) 
+3. 提交类型（例如：新、修订、修改现有申请、续期）；
 
-**USFDA 510(k)**
+4. 如果是修订/补充，说明修订/补充的原因；
 
-  1. 510(k) Summary contains all elements per 21 CFR 807.92
+5. 如果是修改现有批准，说明请求的修改内容（例如：设计、性能、适应症的变更、制造流程、制造设施、供应商的变更）；
 
-**OR**
+6. 制造商希望在与设备、其历史或与已批准的设备或先前提交的设备相关的方面突出显示的高级背景信息或任何其他详细信息（为提交提供背景）。
 
-  1. 510(k) Statement contains all elements per 21 CFR 807.93
+| **ANVISA** 如果需要续展、修改或变更，则需提供ANVISA颁发的注册/申报编号。**NMPA** a) 如果是产品注册，申请人应描述产品的通用名称和确定依据；b) 如果是产品注册，申请人应描述管理类别，包括类别子类别名称、一级产品类别、二级产品类别、管理类别和分类代码。c) 如果是产品注册，申请人应描述适用范围。d) 如果适用，应提供制造商希望在与该设备、其历史、先前提交或与其他已批准的设备相关的方面突出显示的高级别背景信息或异常细节。**HC** 如果是基于当前已批准的设备进行的修改或新提交，应提供与请求的变更描述相关的加拿大医疗器械许可证编号。如果进行修改，可能存在多个“无变更”的部分。这些文件夹应被视为“不适用”。此处的列表可标识为“无变更”，然后相应的文件夹应从提交中排除。如果进行修改或新提交，如果一份报告可以包含在多个部分中，则应仅包含一份副本，并引用在其他部分中可能适用的该副本。如果根据申请表第15节的要求请求优先审查，则应在此处提供理由。**TGA** 如果是重新认证或重大变更通知和符合性评估证书申请，则必须提供受影响的TGA证书编号。**USFDA 510(k)** 按照“[针对行业和食品药品管理局工作人员的指导 - 传统格式](<https://www.fda.gov/media/130647/download)[简化的510(k)](<https://www.fda.gov/media/130647/download>)”中描述的执行摘要。**HSA** 按照GN-17，可在[www.hsa.gov.sg](<http://www.hsa.gov.sg>)上找到的执行摘要。
 
-**2.04**|  IMDRF| 1| Device Description | **NO CONTENT AT THIS LEVEL**|   
-**2.04.01**|  IMDRF| 2| Comprehensive Device Description and Principle of Operation| 
+**2.03**| **USFDA** | 1| 适用于监管提交的摘要和认证 | | **USFDA PMA**
 
-  1. A general description of the device, including:
-     1. A statement of the device name
-     2. What the device does?
-     3. Who uses it and for what? (high level statement)
-     4. Where to use it? (places/environment where the device is intended to be used)
-     5. How it works? Including a description of the features/variants/operating modes that enable the device to be used for indications/intended use (principle of operation/mechanism of action) and if not readily apparent or typical for the device type, a brief description of the underlying science/technology, design concepts, and/or theoretical principles supporting the device's function.
-     6. If applicable, labelled pictorial representation (diagrams, photos, drawings).
-     7. If system, how the components relate?
-     8. If applicable, identify if the device incorporates software/firmware and its role   
+1. 《整套 PMA》的内容摘要，符合 21 CFR 814.20(b)(3)
 
-  2. Product specification, including:
-     1. Physical characteristics or relevance to the end user (dimensions, weight)
-     2. Features and operating modes
-     3. Input specifications (e.g. electrical power requirements, settings and associated allowable ranges/limits)
-     4. Output and performance characteristics (e.g. range and type of energy delivered, resolution of images)
-     5. If applicable, an indication of the variants/models of the devices and a summary of the differences in specifications of the variants (comparison table and/or pictures/diagrams with supporting text).  
+**美国 FDA 510(k)**
 
-  3. List of accessories intended to be used in combination with the devices.
-  4. Indication of any other medical devices or general product intended to be used in combination with the medical device (e.g. infusion sets and infusion pumps, bipolar electrode and RF equipment).
-  5. Components or accessories that can be sold separately should be identified.
-  6. If approved by the regulator, provide the approval number and identification for each component or accessory.
-  7. If the device is to be sterilized, an indication of who is to perform the sterilization and by what method (e.g. EtO, gamma irradiation, dry heat) **OR** an affirmative statement that the device is non-sterile when used.
+1. 510(k) 摘要包含所有 21 CFR 807.92 所要求的要素
 
-**NOTE:** The validation report is not expected be presented at this point, only the device sterility condition shall be indicated here. If appropriate, for the validation report, see Chapter 3 – Non-Clinical Studies.
+**或者**
 
-  1. Summary of the composition of the device including, at minimum, the material specification and/or chemical composition of the materials that have direct or indirect contact with the user and/or patient. When required, full details to support how these specifications are met are to be provided in 3.5.02 – Chemical/Material Characterization.
+1. 510(k) 声明包含所有 21 CFR 807.93 所要求的要素
 
-**NOTE:** If applicable, chemicals may be identified using either the IUPAC (International Union of Pure and Applied Chemistry) or the CAS (Chemical Abstract Service) Registry number. Reference to applicable material standards may also be useful in this description.
+**2.04**|  IMDRF| 1| 装置描述 | **此处无内容**|
+**2.04.01**|  IMDRF| 2| 装置的全面描述和工作原理
 
-  1. If applicable, indication of biological material or derivate used in the medical device, including: origin (human, animal, recombinant or fermentation products or any other biological material), source (e.g. blood, bone, heart, any other tissue or cells), and the intended reason for its presence and, if applicable, its primary mode of action.
-  2. If the device contains an active pharmaceutical ingredient (API) or drug, an indication of the substance, should be provided. This should include its identity and source, and the intended reason for its presence and its primary mode of action.
-  3. Engineering diagrams/prints/schematics of the device (should be provided as a separate file within the submission).
+1. 装置的一般描述，包括：
 
-**NOTE** : The sponsor/applicant should explicitly address any existing regional regulatory guidance related to the comprehensive device description and principles of operations provided in this section regarding the subject device| **ANVISA**
+1. 设备的名称
 
-  1. If a medical device accessory is itself considered a medical device, it may request a separate submission with ANVISA identifying the target medical device.
-  2. For invasive, inhaled, ingested product, a list of ingredients, including their quantity, purity and or other relevant information.
+2. 该设备的功能是什么？
 
-**HC** If the application is an amendment, this section should describe both the device as currently on the licence as well as the modifications proposed. Modifications (e.g. changes in design, performance and indications) should be further detailed in Section 2.04.04 below.**EU** See MDR Annex II Section 1.1 for requirements. The Basic UDI-DI, as referred to in Annex VI Part C, assigned by the manufacturer should be provided. Refer to Annex VI Part C for definitions and requirements. **JP** Explain that the established product specifications are necessary and sufficient to ensure the efficacy, safety, and quality of the product.  
-**TGA** In the case of products that incorporate a medicinal substance, a rationale of applicability of medical device regulations should be included.**USFDA PMA** Color Additive information per item A 6.a.ii in Appendix A of the **_Acceptance and Filing Reviews for Premarket Approval Applications (PMAs): Guidance for Industry and Food and Drug Administration Staff Guidance_** ; 21CFR 814.20(f)  
-**NMPA** For more detailed information, please find “Description of the devices and operating principles” in _Requirements for Registration Application Dossiers of Medical Devices and the Format of Approval Certificateds (No.121 in 2021)._  
-**2.04.02**|  ANVISA, NMPA, EU, HC, HSA, TGA, USFDA| 2| Description of Device Packaging| 
+3. 谁使用它以及用于什么目的？（高层描述）
 
-  1. Information regarding the packaging of the devices, including, when applicable, primary packaging, secondary and any other packaging associated;
-  2. Specific packaging of accessories marketed together with the medical devices shall also be described;
-  3. If the user needs to package the medical device or its accessories before they perform sterilization, information about the correct packaging (e.g. material, composition, dimension) should be provided. 
+4. 在哪里使用？（设备预期使用的地点/环境）
 
-| **NMPA** For sterile medical devices, the information on the sterile barrier system should be stated; for medical devices with microbial limit requirements, the packaging information for maintaining the microbial limit should be stated. Explain how to ensure that the end user can clearly identify the integrity of the package.**EU** See MDR Annex I GSPRs 11.4-11.7, 23.3, 23.4 (i), (m) and (n) for requirements.  
-**2.04.03**|  IMDRF| 2| History of Development| For any device versions/prototypes referenced in the evidence presented in the submission, a table describing the version/name, with 4 columns (Device Name and/or Version; Description of changes from previous row; motivation for the change; list of verification/validation activities, including clinical studies, conducted using this version). For any design verification or validation activities presented in this submission (including clinical studies) performed on any earlier versions of the subject device, include a justification for why the changes do not impact the validity of the data collected under those activities in supporting the safety and effectiveness of the final device design.  
-| **EU** MDR Annex II Section 3 (a) requires the manufacturer to provide “information to allow the design stages applied to the device” to be understood.For initial applications under the MDR, if the device has been previously marketed under the MDD, confirm whether any changes have been made in comparison to the MDD-certified device.**JP**
+5. 它的工作原理是什么？包括对设备的功能/用途（如：适应症）所能使用的特征/变体/工作模式的描述（工作原理/作用机制），如果这些信息不明显或不适用于该设备类型，则简要描述支持该设备功能的底层科学/技术、设计概念和/或理论原理。
 
-  1. State the beginning and ending dates of non-clinical and clinical studies~~~~ and the rationale for the decision of advancement from non-clinical studies to clinical studies.
-  2. Describe work allocation in the development process (i.e., what commercial or non-commercial entities were involved at what stages of development).  
+6. 如果适用，提供标记的图示（图表、照片、草图）。
 
-**USFDA 510(k)** It is highly recommended that a description of all changes made to the device since the last 510(k) clearance be provided for a device that has received prior 510(k) clearance.**NMPA** Explain the research and development background and purpose of the product applied for registration. If there are similar products or predecessor products for reference, the information of the similar products or predecessor products should be provided, and the reasons for choosing them as R&D reference should be explained.**HC** It is highly recommended that a description of all changes made to the device since the issuance of the last medical device licence or licence amendment be provided for a device that has had a previous version licensed in Canada.  
-**2.04.04**|  IMDRF| 2| Reference and Comparison to Similar and/or Previous Generations of the Device| 
+7. 如果是系统，说明各个组件之间的关系。
 
-  1. A list of similar devices (available on local and international market) and/or previous generation of the devices (if existent) relevant to the submission. This should include any similar/previous generation devices that were previously reviewed and refused by the subject regulator.
-  2. Description of why they were selected.
-  3. A key specification comparison, preferably in a table, between the references (similar and/or previous generation) considered and the device.
+8. 如果适用，确定该设备是否包含软件/固件以及其作用。
 
-| **EU** See MDR Annex II Section 1.2 for requirements.**HC**
+2. 产品规格，包括：
 
-  1. If the application is an amendment to a licenced device or is based on a modification of a licensed device, a description of the modifications is required (e.g. changes in design, performance, and indications). 
-  2. Comparisons can be used to support the safety and effectiveness of the device if they are made to a currently licensed device in Canada. If this method is used, ensure the Canadian Medical Device Licence Number of the comparator is stated. The comparison device does not need to be manufactured by the same manufacturer.
+1. 物理特性或与最终用户相关的特征（尺寸、重量）
 
-**HSA** If applicable, comparisons can be used to support the safety and effectiveness of the subject device. For similar devices previously reviewed by HSA, provide the MEDICS online application number of the previous submission or Singapore Medical Device Register (SMDR) device registration number. **NMPA** The comparison of the list shows the similarities and differences between the declared product and similar products and/or previous-generation products in terms of working principle, structural composition, manufacturing materials, performance indicators, mode of action (such as implantation, intervention), and scope of application.  
-**2.04.05**|  USFDA, NMPA| 2| Substantial Equivalence Discussion| | **USFDA 510(k)**
+2. 特征和工作模式
 
-  1. Identify the predicate device(s), and optionally reference devices
-  2. 510(k) number, trade name and model number
-  3. Ensure the identified predicate device(s) is consistent throughout the submission (i.e., Substantial Equivalence discussion are the same as listed in the 510k) summary and the same as those used in comparative performance testing).
-  4. Include a comparison of indications for use and the technology (including features materials and principles of operation) between the predicate device(s) and subject device(s).
-  5. Include an analysis of why any differences between the subject device(s) and the predicate device(s) do not render the subject device(s) Not Substantially Equivalent, affect safety or effectiveness or raise different questions of safety and effectiveness.
+3. 输入规格（例如：电气电源要求、设置和相关的允许范围/限制）
 
-**NMPA** For the class II and class III medical devices that are exempt from clinical evaluation, the applicant should follow the "Technical Guidelines for the Comparative Description of Products Listed in the Catalog of Medical Devices Exempt from Clinical Evaluation", in terms of basic principles, structural composition, performance, safety and scope of application, etc., to prove the safety and effectiveness of the product.  
-**2.05**|  IMDRF| 1| Indications for Use and/or Intended Use and Contraindications| **NO CONTENT AT THIS LEVEL**|   
-**2.05.01**|  IMDRF| 2| Intended Use; Intended Purpose; Intended User; Indications for Use| This section should include, as appropriate:
+4. 输出和性能特征（例如：提供的能量类型和范围、图像分辨率）
 
-  1. **Intended Use:** The statement of intended use should specify the therapeutic or diagnostic function provided by the device and may describe the medical procedure in which the device is to be used (e.g. Diagnosis _in vivo_ or _in vitro_ , treatment monitoring rehabilitation, contraception, disinfection).
-  2. **Intended Purpose:** What is expected with the use of this medical device? Which results are expected?
-  3. **Intended user** and skills**/** knowledge/training that the user should have to operate or use the device.
-  4. Identify if the device is intended for **single or multiple use**
-  5. **Indications for Use:**
-  6. Disease or medical condition that the device will diagnose, treat, prevent, mitigate, or cure, parameters to be monitored and other considerations related to indication for use.
-  7. If applicable, information about patient selection criteria.
-  8. If applicable, information about intended patient population (e.g. adults, pediatrics or newborn) or a statement that no subpopulations exist for the disease or condition for which the device is intended.
-  9. For amendments/supplements or changes to existing approvals, identify any changes to the previously approved intended use/intended purpose/intended user/indications. If there are no changes, this should be stated, and a reference should be made to the precise regional regulatory tracking number associated with the previous submission/approval.
+5. 如果适用，说明设备的变体/型号，并总结变体的规格差异（比较表和/或图片/图表以及支持性文本）。
 
-**NOTES:**
+3. 标明用于与设备一起使用的附件清单。
 
-  1. The statements of intended use and purpose and the intended user and indications for use must be **as presented in the labelling**.
-  2. If more than one device is included, the information should be provided for each device
+4. 指示任何其他医疗设备或通用产品，这些产品预期与医疗设备一起使用（例如：输液集和输液泵、双极电极和射频设备）。
 
-| **EU** See MDR Annex II Sections 1.1 (a) and (c) for requirements. The intended use must include use of the device as a “medical device” as defined by MDR Article 2 unless the device is a product without a medical purpose as listed in MDR Annex XVI.**NMPA** Describe other products that can be used in combination with it to achieve the intended use.  
-**2.05.02**|  IMDRF| 2| Intended Environment/Setting for use | 
+5. 应明确列出可单独销售的部件或附件。
 
-  1. The setting where the device is intended to be used (e.g. domestic use, hospitals, medical/clinical laboratories, ambulances, medical/dental offices). Multiple options can be indicated.
-  2. If applicable, environmental conditions that can affect the device’s safety and/or performance (e.g. temperature, humidity, power, pressure, movement).
+6. 如果获得监管机构批准，请提供每个部件或附件的批准编号和识别信息。
 
-| **USFDA PMA and 510(k)** FDA includes this information in the indications for use and product labelling.  
-**2.05.03**|  USFDA, NMPA| 2| Pediatric Use| | **USFDA PMA**
+7. 如果该设备需要进行灭菌，应说明由谁进行灭菌以及采用何种方法（例如：EtO、伽马辐射、干燥热），**或**明确声明该设备在使用时不进行灭菌。
 
-  1. Description of any pediatric subpopulations that suffer from the disease or condition that the device is intended to treat, diagnose or cure, 
-  2. The number of affected pediatric patients, as a whole and within each pediatric subpopulation.
+**注意：** 验证报告在此阶段不应提供，仅需在此处说明设备的可使用性状态。如果适用，请参考第 3 章 – 非临床研究。
 
-**OR**
+1. 包含设备组成信息的摘要，包括至少材料规格和/或与用户和/或患者直接或间接接触的材料的化学成分。当需要时，应在 3.5.02 – 化学/材料表征中提供充分的详细信息，以证明这些规格是如何满足的。
 
-  1. Statement that no pediatric subpopulation exists for the disease or condition for which the device is intended.
+**注意：** 如果适用，可以使用 IUPAC（国际纯粹和应用化学联合会）或 CAS（化学抽象服务）注册编号来识别化学物质。在描述中，也可能对相关的材料标准有所帮助。
 
-**NMPA** If the target patient population of the declared product includes newborns, infants or children, the specific group of non-adults who are expected to use the declared product to treat, diagnose, prevent, alleviate or cure the disease or condition shall be described.  
-**2.05.04**|  IMDRF| 2| Contraindications For Use| If applicable, specify the disease or medical conditions that would make use of the device inadvisable due to unfavorable risk/benefit profile. **NOTE:** The statement of contraindications for the device must be as presented in the labelling. | **EU** See MDR Annex II Section 1.1 (c) for requirements. MDR Annex I GSPR 23.4 (s) and (t) also contain additional requirements.**USFDA PMA and 510(k)** FDA includes this information in the indications for use and product labelling**NMPA** If applicable, specify the disease or conditions or specific populations (e.g. children, the elderly, pregnant and lactating women, and people with liver and kidney dysfunction) that would make use of the device inadvisable due to unfavorable risk/benefit profile.  
-**2.06**|  IMDRF| 1| Global Market History| **NO CONTENT AT THIS LEVEL**|   
-**2.06.01**|  IMDRF| 2| Global Market History| 
+1. 如果适用，说明医疗设备中使用的生物材料或衍生物，包括：来源（人类、动物、重组或发酵产品或任何其他生物材料）、来源（例如：血液、骨、心脏、任何其他组织或细胞）以及其存在的目的，以及如果适用，其主要作用方式。
 
-  1. Up to date identification of the markets (all countries or jurisdictions) where the device is approved for marketing.
-  2. Should include history of the marketing of the device by any other entity, acknowledging that detailed information may not be available in all cases.
-  3. Include a list of all countries in which the device has been removed from marketing for any reason related to the safety or effectiveness of the device.
+2. 如果该设备包含活性药物成分（API）或药物，则应提供该物质的标识和来源，以及其存在的目的和主要作用方式。
 
-| **All Regions but USFDA:** a) If the subject device is different in any way (e.g. design, labelling, specifications, indications) from those approved or marketed in other jurisdiction, the differences should be described.b) The month and year of market approval in each country or jurisdiction where the device is marketed. If the device has been marketed for greater than 10 years, a statement of greater than 10 years can be made.c) For each of the markets listed in (a) above, and statement of the commercial names used in those markets OR a clear statement that the commercial names are the same in all jurisdictions.d) State the date of data capture for the market history datae) If the subject device has been the subject of any previous compassionate use and/or clinical trials this should be identified and, if applicable, relevant reference numbers provided.**EU** Link to section 2.04.04; see also MDR Annex II Section 1.2.**HC** If there is any approval number, given to the device by the regulator authority of the markets (country or jurisdictions) where the device is already marketed, this identification must be provided.   
-Marketing history of a Health Canada licensed, previous version of the device can sometimes be used in support of safety or effectiveness of the subject device. If this is to be the case, then the name of the comparator, its medical device licence number and the number of units sold should be provided.In this context, compassionate use includes **any** Special Access Authorizations.**TGA** Include any notifications to comparable overseas regulators of substantial change(s) to the device. Comparable overseas regulators are defined at: [https://www.tga.gov.au/resources/resource/guidance/comparable-overseas-regulators-medical-device-applications](<https://secure-web.cisco.com/1bL42pDlDDIqwV4MwN__0TCUVUrU0Q3Qo7TOKkNvQYm5KLmh5wONPOBbl7D-QffzRvAa_Yno6m_VdyA1CHfJACxyBhD6GPovo7Anrj4zMUxaOVkY7By2gbl0-Xq-F8DymkrObRP7Jj7YO9V9DW6kv8pq555z23zqTp8f3ylvXZdUGRgBcnc36KQINWgbVuK9y24skWJya1U45Vx2ArjR6sLZFsioyw-08jOHWHzaQX_Q/https%3A%2F%2Fwww.tga.gov.au%2Fresources%2Fresource%2Fguidance%2Fcomparable-overseas-regulators-medical-device-applications>)  
-**2.06.02**|  IMDRF| 2| Incident Reports and Recalls| 
+3. 设备的工程图/图纸/示意图（应作为提交文件的单独文件提供）。
 
-  1. List adverse events/incidents associated with the device and a statement of the period associated with this data.
-  2. If the number of adverse events is voluminous, provide a summary by event type that state the number of reported events for each event type. 
-  3. List of the medical device recalls and/or advisory notice, and a discussion of the handling and solution given by the manufacturer in each case. 
-  4. A description of any analysis and/or corrective actions undertaken in response to items listed above.
-  5. If there have been no adverse events/incidents, recalls and/or advisory notice to date, provide an attestation from device owner on company letterhead, that there have been no adverse events/incidents, recalls and/or advisory notice since commercial introduction of the device.
+**注意**：申请人/赞助方应明确说明与本部分中提供的关于该设备的全面描述和操作原理相关的任何现有的区域监管指导| **ANVISA**
 
-**NOTES**
+1. 如果医疗器械附件本身被认为是医疗器械，则可以向ANVISA提交单独的申请，以识别目标医疗器械。
 
-  1. It is acknowledged that the definition of recall may vary from one jurisdiction to another.
+2. 对于侵入性、吸入性、吞食性产品，应提供成分清单，包括其数量、纯度和/或其他相关信息。
 
-| **EU** Link to sections 6.09 for procedures and 2.07; see also MDR CHAPTER VII Section 1 and Annex III for requirements relating to post-market surveillance.**HC**
+**HC** 如果该申请是修订，则本部分应描述设备目前所获得的许可，以及拟进行的修改。 修改（例如设计、性能和适应症的变化）应在下方的 2.04.04 节中进行详细说明。 请参阅欧盟 MDR 第 2.1.1 节的要求。 制造商应提供基本 UDI-DI，如 Annex VI Part C 中所指，并参考 Annex VI Part C 中的定义和要求。
+**JP** 解释，已确定的产品规格对于确保产品的有效性、安全性和质量是必要的且充分的。
+**TGA** 对于包含药物成分的产品，应包含医疗器械法规适用的理由。
+**USFDA PMA** 按照《_对预先批准申请（PMAs）的接受和文件审查：为行业和食品药品管理局工作人员提供的指南_》附录 A 的第 6.a.ii 条，以及 21CFR 814.20(f) 提供的，关于颜料添加剂的信息。
+**NMPA** 如需更详细的信息，请参考《医疗器械注册申请文件要求及批准证书格式（2021年第121号）》中的“设备和操作原理的描述”。
+**2.04.02**| ANVISA, NMPA, EU, HC, HSA, TGA, USFDA| 2| 设备的包装描述|
 
-  1. The jurisdiction(s) associated with the incident should be clearly indicated. 
-  2. Incidents should include any Canadian incidents through SAP or other previous Canadian applications, if known.
-  3. If marketing history is presented for a previously licensed device, then the associated recalls, and incident reports for that device should also be summarized here. 
+1. 关于医疗器械的包装信息，包括适用的主要包装、次要包装以及任何相关的其他包装；
 
-**USFDA 510(k)** Include when submitting a 510(k) to implement a design change to address a recall of a device in the US.**HSA**
+2. 同样，与医疗器械一起销售的配件的特定包装也应进行描述；
 
-  1. If there is an ongoing adverse event or field safety corrective action for the medical device that has been reported to HSA, provide the HSA reference number. 
+3. 如果用户需要在进行灭菌前对医疗器械或其配件进行包装，则应提供正确的包装信息（例如，材料、成分、尺寸）。
 
-**NMPA** If applicable, List adverse events/incidents associated with the device and a statement of the period associated with this data. Provide the time of occurrence and a discussion of the handling and solution given by the manufacturer in each case, including measures to actively control product risks, reports to medical device adverse event monitoring technical institutions, and descriptions of investigations and handling by relevant departments.At the same time, the above-mentioned adverse events and recalls should be analyzed and evaluated, the reasons for the adverse events and recalls should be clarified, and the impact on their safety and effectiveness should be explained. If the number of adverse events or recalls is large, the number involved in each type should be summarized according to the type of event.  
-**2.06.03**|  EU, HC, HSA, JP, TGA| 2| Sales, Incident and Recall Rates| 
+| **NMPA** 对于无菌医疗器械，应说明无菌屏障系统的信息；对于具有微生物限制要求的医疗器械，应说明维持微生物限制的包装信息。解释如何确保最终用户能够清楚地识别包装的完整性。**欧盟** 请参阅 MDR 第 I 附录 11.4-11.7、23.3、23.4 (i)、(m) 和 (n) 中的要求。
+**2.04.03**|  IMDRF| 2| 发展历史| 对于提交中引用的任何设备版本/原型，应提供一张表格，描述版本/名称，包含 4 列（设备名称和/或版本；先前行的描述性变更；变更的动机；以及使用该版本的验证/验证活动清单，包括临床研究）。对于本提交中（包括临床研究）对任何先前版本的相关设备进行的任何设计验证或验证活动，应提供理由，说明这些变更不会影响在支持最终设备设计安全性和有效性的活动中收集的数据的有效性。
+| **欧盟** MDR 第 II 附录第 3 (a) 条要求制造商提供“允许理解设备设计阶段的信息”。对于在 MDR 下的首次申请，如果该设备先前已在 MDD 下销售，请确认与 MDD 认证设备相比，是否进行了任何变更。**日本**
 
-  1. A summary of the number of units sold in each country/region and a statement of the period associated with this data.
-  2. Provide the rates calculated for each country/region, for example:
-  3. Incident rate = # adverse events/incidents divided by # units sold, expressed as a percentage
-  4. Recall rate = # recalls divided by # units sold, expressed as a percentage
+1. 声明非临床和临床研究的开始和结束日期，以及从非临床研究向临床研究过渡的理由。
 
-Rates may be presented in other appropriate units such as per patient year of use or per use. In this case, methods for determining these rates should be presented and any assumptions supported.
+2. 描述开发过程中的工作分配（即，在开发的不同阶段，哪些商业或非商业实体参与了）。
 
-  1. Critical analyses of the rates calculated (e.g. Why are they acceptable? How do they break down in terms of incidents? Is there some outlier data that has driven the rates up? Are there any trends associated with any sub-groups of the devices that are subject of the submission (e.g. size, version)?).
+**美国FDA 510(k)** 强烈建议，对于已获得先前 510(k) 批准的设备，提供自上次 510(k) 批准以来所做的所有更改的描述。**NMPA** 解释所申请产品的研究和开发背景及目的。如果存在类似的或先前的产品作为参考，应提供类似产品或先前的产品的相关信息，并解释选择它们作为研发参考的原因。**HC** 强烈建议，对于已获得先前在加拿大批准的医疗器械许可或许可修订的设备，提供自上次医疗器械许可或许可修订以来所做的所有更改的描述。
+**2.04.04**|  IMDRF| 2| 参照与类似或先前型号的设备进行比较|
 
-**NOTES**
+1. 列出与提交相关的类似设备（在本地和国际市场上）和/或先前型号的设备（如果存在）。这应包括先前被相关监管机构审查并被拒绝的任何类似/先前型号的设备。
 
-  1. It is acknowledged that the definition of recall may vary from one jurisdiction to another.
-  2. Sales in this context should be reported as the number of units sold.
-  3. The summary of sales should be broken down by components when appropriate.
+2. 说明选择的原因。
 
-| **EU** Link to sections 6.09 for procedures and 2.07; see also MDR CHAPTER VII Section 1 and Annex III for requirements relating to post-market surveillance.  
-**2.06.04**|  TGA| 2| Evaluation/Inspection Reports| | **TGA** Copies of full audit reports and technical reports issued by other parties (e.g. Notified Body certification reports).  
-**2.07**|  EU, HC, USFDA| 1| Post-Market Study Plans| Post-Market Study Plans may include clinical or nonclinical study plans. The documentation provided here will not include final reports and analysis, and instead includes study plan information only. This may include:
+3. 关键规格比较，最好以表格形式呈现，将参考设备（类似设备和/或先前型号）与该设备进行比较。
 
-  1. Study Objectives
-  2. Study Design
-  3. Subjects and Sites information
-  4. Endpoints (primary and secondary)
-  5. Summary of Data Analysis plan
-  6. Length and frequency of follow-up
+| **欧盟** 参见 MDR 第 2 节第 1.2 条的要求。**HC**
 
-Note: Post-Market Non-Clinical or Clinical Data from one region provided during the pre-market phase to a second region would be considered non-clinical or clinical data for the second region and would reside in Chapter 3 or Chapter 4, respectively.| **EU** See Part B of MDR Annex XIV for requirements relating to post-market clinical follow-up (PMCF); procedures to be in section 6.09, records or outputs to be provided in section 4.06.  
-**2.08**|  IMDRF| 1| Risk Management| 
+1. 如果申请是针对已获许可的设备进行修订，或者基于已获许可的设备进行修改，则需要提供修改的描述（例如，设计、性能和适应症的变化）。
 
-  1. A summary of the risks identified during the risk analysis process and how these risks have been controlled to an acceptable level. Plans can be considered part of the risk management documentation.
-  2. The results of the risk analysis should provide a conclusion with evidence that remaining risks are acceptable when compared to the benefits.
-  3. Where a standard is followed, identify the standard.
+2. 如果与加拿大已批准的设备进行比较，则可以用于支持设备的安全性有效性。如果采用此方法，请确保说明比较设备的加拿大医疗器械许可编号。比较设备不必由同一制造商制造。
 
-| **EU** Risk management is addressed in MDR Annex I GSPR 3; see also MDR Annex I GSPRs 1, 2,4, 8 and Annex II Section 5. Guidance is also available in EN ISO 14971 Medical devices – Application of risk management to medical devices.**NMPA** Product risk management data is the data formed by recording the product risk management process and the results of its review. The following content shall be provided and the traceability of the following processes for each identified hazard shall be explained.a) Risk analysis: including identification of the scope of medical devices and safety-related features, identification of hazards, and estimation of the risk of each hazardous situation.b) Risk assessment: For each identified hazard situation, evaluate and decide whether the risk needs to be reduced, and if necessary, describe how to carry out corresponding risk control.c) Risk control: describe the related content of risk control implemented to reduce risk.d) Evaluation of the acceptability of any one or more residual risks.e) Compared with the product benefit, the comprehensive evaluation product risk is acceptable.  
-**2.09**|  ANVISA, NMPA, EU, HSA, JP, TGA| 1| Essential Principles (EP) of Safety and Performance Checklist| 
+**HSA** 如果适用，可以采用比较方法来支持该产品的安全性及有效性。对于先前由HSA审查过的类似产品，请提供先前提交的MEDICS在线申请编号或新加坡医疗器械注册（SMDR）的设备注册编号。 **NMPA** 比较列表显示了申报产品与类似产品以及/或上一代产品的相似性和差异，包括工作原理、结构组成、制造材料、性能指标、作用方式（如植入、介入）以及应用范围。
+**2.04.05**|  USFDA, NMPA| 2| 实质性等效性讨论| | **USFDA 510(k)**
 
-  1. An EP checklist established for the medical devices, information about method(s) used to demonstrate conformity with each EP that applies, references for the method adopted and identification of the controlled document with evidence of conformity with each method used.
-  2. For the controlled documents indicated which are required for inclusion in the submission: a cross-reference of the location of such evidence within the submission.
-  3. If any EP indicated in the checklist does not apply to the device: a documented rationale of the non-application of each EP that does not apply.
+1. 确定先行设备（或设备），并可选地引用相关设备
 
-**NOTE:** Methods used to demonstrate conformity may include one or more of the following:
+2. 510(k) 编号、商品名称和型号
 
-  1. conformity with recognised or other standards;
-  2. conformity with a commonly accepted industry test method(s); 
-  3. conformity with an in-house test method(s);
-  4. the evaluation of pre-clinical and clinical evidence;
+3. 确保已识别的先行设备在整个提交中保持一致（即，实质性等效性讨论与510k中列出的内容相同，并且与用于比较性能测试的设备相同）。
 
-comparison to a similar device already available on the market.| **EU** See MDR Annex I for the general safety and performance requirements (GSPRs) and MDR Annex II Section 4 which explains how a manufacturer should document their assessment.
+4. 包括与相关设备和目标设备之间，在用途和技术（包括功能、材料和工作原理）方面的比较。
 
-  * It is recommended that the above information is provided in the form of a checklist against the GSPRs to show how compliance with the individual GSPRs has been achieved.
-  * Identify the precise identity of documents supporting compliance with each GSPR.
+5. 包括分析，说明目标设备和相关设备之间的任何差异，不会使目标设备不符合实质性等效性要求，不会影响安全性和有效性，也不会提出不同的安全性和有效性问题。
 
-**HSA** The checklist of conformity to the Singapore Essential Principles is to be submitted – refer to GN-16 available at [www.hsa.gov.sg](<http://www.hsa.gov.sg>). Alternatively, the checklist to EU or Australian Essential Requirements can be submitted.**TGA** The checklist of conformity to the Australian Essential Principles is to be submitted – checklist available at [Australian declaration of conformity templates (medical devices) | Therapeutic Goods Administration (TGA)](<https://www.tga.gov.au/how-we-regulate/manufacturing/manufacture-medical-device/obtain-and-maintain-regulatory-evidence/tga-conformity-assessment/australian-declaration-conformity-templates-medical-devices>). **NMPA** For the documents included in the product registration application materials, the specific position in the application materials should be stated; for the documents not included in the product registration application materials, the name of the evidence file and its in the quality management system document should be indicated. Number for reference.  
-**2.10**|  IMDRF| 1| Standards| **NO CONTENT AT THIS LEVEL**|   
-**2.10.01**|  IMDRF| 2| List of Standards and Guidance Documents| This section should include:
+**NMPA** 对于免进行性评估的II类和III类医疗器械，申请人应在基本原则、结构组成、性能、安全性以及应用范围等方面，遵循《免进行性评估医疗器械目录中产品的比较描述技术指南》，以证明产品的安全性及有效性。
+**2.05**|  IMDRF| 1| 适应症及/或预期用途及禁忌症| 无内容|
+**2.05.01**|  IMDRF| 2| 预期用途；预期目的；预期用户；适应症| 本部分应包括，如果适用：
 
-  1. If applicable, a list the standards that have been complied with in full or in part in the design and/or manufacture of the device. 
-  2. At a minimum should include the standard organization, standard number, standard title, year/version, and if full or partial compliance. 
-  3. If partial compliance, a list the sections of standard that 
+1. **预期用途：** 声明应明确说明该设备提供的治疗或诊断功能，并可描述该设备的使用医疗程序（例如：_体内_或_体外_诊断、治疗监测、康复、避孕、消毒）。
 
-  * Are not applicable to the device, and/or
-  * have been adapted, and/or
-  * were deviated from for other reasons – discussion to accompany
+2. **预期目的：** 使用该医疗设备时，预期达到的效果是什么？ 预期结果是什么？
 
-  1. If applicable, a list of relevant guidance documents published by regulators and referenced in the design and/or manufacture of the device with the jurisdiction of publication, publication date and title identified.
+3. **预期用户**及其所需的技能/知识/培训，以便操作或使用该设备。
 
-If applicable, a list of relevant clinical guidelines referenced in the design and/or manufacture of the device, the publisher, publication date and title identified.| **ANVISA** The list of standards complied can be submitted together with the Essential Principles Checklist.**NMPA** When applicable, this should include reference to the device relevant NMPA registration compulsory standards. For compulsory industry standards, if the structural features, intended use, and use methods of the declared product are inconsistent with the scope of application of the compulsory standard, the applicant shall provide an explanation on the non-applicability of the compulsory standard and provide verified supporting materials.**EU** See MDR Annex I and Annex II Section 4 for requirements.
+4. 确定该设备是否用于**单次或多次使用**。
 
-  * Devices that are in conformity with the relevant harmonised standards are presumed to be in conformity with the requirements of the MDR covered by those standards.
-  * An overview of used standards, including versions, typically is added in the GSPR checklist.
-  * The documentation should demonstrate that all relevant and available Common Specifications (CS) and relevant standards, both harmonised and other product specific standards, have been considered.
-  * The technical documentation should continue to demonstrate that the files meet the state of the art, including consideration of revised or replaced standards or CS.
-  * Indicate other EU legislation which applies. If a device is governed by multiple regulations or directives, all applicable regulations / directives should be identified.
+5. **用途说明：**
 
-**TGA** This list should include any medical device standard or conformity assessment standard that has been applied to the device; and, if no medical device standard or conformity assessment standard, or part only of such a standard, has been applied to the device — the solutions adopted to ensure that each device complies with the applicable provisions of the essential principles. The information in this section may be presented in the Essential Principle Checklist and, if so, needs only to be presented once in the application.**HSA** The list of standards complied to can be submitted together with the Essential Principles Checklist. This information needs only to be presented once.   
-**2.10.02**|  ANVISA, NMPA, HC, USFDA| 2| Declaration and/or Certification of Conformity| | **ANVISA**
+6. 疾病或医疗状况，该设备用于诊断、治疗、预防、减轻或治疗，需要监测的参数以及与用途说明相关的其他考虑因素。
 
-  1. Conformity Assessment Certification according to applicable standards, issued by a Third Party Organization (e.g. Notify Body) officially recognized by the Regulatory Authority. The certificate shall be issued under the SBAC - Sistema Brasileiro de Avaliação da Conformidade / Brazilian Conformity Assessment System - INMETRO.
-  2. Certain types of devices (intra-uterine devices and blood bags) require pre-submission performance testing conducted by an official laboratory (INCQS/FioCruz – Instituto Nacional de Controle de Qualidade em Saúde) in Brazil. The report of these analyses shall be part of the submission.
+7. 如果适用，关于患者选择标准的说明。
 
-**HC** The applicant is advised to prepare the Declaration of Conformity to recognized standards using Health Canada's Declaration of Conformity form. Refer to the [Guidance Document: Recognition and Use of Standards under the Medical Devices Regulations](<https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/application-information/guidance-documents/guidance-document-recognition-use-standards-under-medical-devices-regulations.html>) and the current list of recognized standards for medical devices.**USFDA** Consider [Guidance for Industry and FDA Staff - Appropriate Use of Voluntary Consensus Standards in Premarket Submissions for Medical Devices](<https://www.fda.gov/media/71983/download>) **NMPA**
+8. 如果适用，关于预期患者人群（例如：成人、儿童或新生儿）或声明，对于该设备所针对的疾病或状况，不存在任何亚人群，则应说明。
 
-  1. a) product technical requirements
+9. 对于修订/补充或修改现有批准，应明确说明先前批准的预期用途/预期目的/预期用户/用途说明的任何变更。 如果没有变更，应明确说明，并引用与先前提交/批准相关的精确区域监管跟踪编号。
 
-The technical requirements for medical device products shall be compiled in accordance with the relevant requirements.
+**注意：**
 
-  1. b) Product inspection report
+1. 预期用途、目的和预期用户、以及用途说明的声明，必须**与标签上的内容一致**。
 
-An inspection report in any of the following forms can be submitted:i: self-inspection report issued by the applicant.ii: an inspection report issued by a qualified medical device inspection agency.  
-**2.11**|  IMDRF| 1| Other Submission Context Information| Heading for other submission context information that may be important to the submission but that does not fit in any of the other headings of this chapter.  
-**NOTE:** To ensure all elements of your submission are adequately reviewed, please be sure that any content placed here does not belong under any heading described above.| **NMPA** If applicable, specify the detailed information of other products that are used in conjunction with the declared product to achieve the intended use.For approved parts or accessories used in conjunction, the registration certificate number and the registration certificate information published on the official website of the State Drug Administration shall be provided.  
+2. 如果包含多个设备，则应提供每个设备的相应信息。
 
-# Chapter 3 – Non-clinical evidence
+| **欧盟** 参见 MDR 第 II 附件 1.1 (a) 和 (c) 条，了解要求。 预期用途必须包括使用该设备作为“医疗器械”，如根据 MDR 第 2 篇文章所定义的，除非该设备是 MDR 第 XVI 附件中列出的无医疗用途的产品。**NMPA** 描述可以与其他产品一起使用，以实现预期用途的其他产品。
+**2.05.02**|  IMDRF| 2| 预期使用环境/场所 |
 
-**Row ID**| **Regions & Level**| **Heading**| **Common Content**| **Regional Content**  
----|---|---|---|---  
-**3.01**|  IMDRF| 1| Chapter Table of Contents| 
+1. 该设备预期使用的场所（例如：家庭使用、医院、医疗/临床实验室、救护车、医疗/牙科诊所）。 可以指定多个选项。
 
-  1. Includes major headings for the chapter, to the level of the custom headings.
-  2. Specifies the page number for each item referred to in the table.
+2. 如果适用，影响设备安全和/或性能的环境条件（例如：温度、湿度、电源、压力、运动）。
+
+| **美国 FDA PMA 和 510(k)** FDA 将此信息包含在用途说明和产品标签中。
+**2.05.03**|  美国 FDA, NMPA| 2| 儿童使用| | **美国 FDA PMA**
+
+1. 描述针对预期用于治疗、诊断或治疗的疾病或状况的任何儿童亚群，
+
+2. 针对儿童整体和每个儿童亚群的患者数量。
+
+**或者**
+
+1. 声明不存在针对预期用于治疗、诊断或治疗的疾病或状况的任何儿童亚群。
+
+**NMPA** 如果所申报产品的目标患者群体包括新生儿、婴儿或儿童，则应详细说明预计使用该产品的非成年人群体，该群体用于治疗、诊断、预防、缓解或治疗疾病或状况。
+**2.05.04**| IMDRF| 2| 使用禁忌 | 如果适用，请说明因不利的风险/效益比，导致使用该设备不宜的情况。**注意：** 设备的禁忌声明应与标签上的内容一致。 | **欧盟** 参见 MDR 第 II 卷第 1.1(c) 条的要求。MDR 第 I 卷 GSPR 23.4(s) 和 (t) 条也包含额外的要求。**美国 FDA PMA 和 510(k)** FDA 将此信息包含在用途说明和产品标签中。
+**NMPA** 如果适用，请说明因不利的风险/效益比，导致使用该设备不宜的情况，包括疾病或状况或特定人群（例如儿童、老年人、孕妇和哺乳期妇女，以及患有肝脏和肾脏功能障碍的人）。
+**2.06**| IMDRF| 1| 全球市场历史| **此处无内容**|
+**2.06.01**| IMDRF| 2| 全球市场历史|
+
+1. 明确列出设备已获准上市的所有国家或地区的市场（所有国家或司法辖区）。
+
+2. 应包括任何其他实体对该设备营销历史的记录，并承认在所有情况下可能无法提供详细信息。
+
+3. 包含一份列出所有因与设备的安全或有效性相关的原因而从市场中撤回该设备的国家/地区的清单。
+
+| **除美国FDA以外的所有地区：** a) 如果该设备与在其他司法管辖区批准或上市的设备在设计、标签、规格或用途等方面存在任何差异，则应描述这些差异。b) 在设备在每个国家或司法管辖区上市的月份和年份。如果该设备已上市超过 10 年，则可以声明“超过 10 年”。c) 对于上述（a）中列出的每个市场，以及在这些市场中使用的商业名称，或明确声明在所有司法管辖区中的商业名称相同。d) 声明用于市场历史数据的采集日期。e) 如果该设备曾参与任何之前的同情性使用和/或临床试验，则应识别并提供相关参考编号（如果适用）。
+加拿大卫生部授权的，先前版本的设备的营销历史有时可用于支持该设备的安全性或有效性。如果确实如此，则应提供比较设备的名称、医疗设备许可证编号以及已售出的数量。在此上下文中，“同情性使用”包括**任何**的特殊访问授权。
+**TGA** 包含向类似海外监管机构的任何关于设备重大变更的通知。类似海外监管机构的定义如下：[https://www.tga.gov.au/resources/resource/guidance/comparable-overseas-regulators-medical-device-applications](<https://secure-web.cisco.com/1bL42pDlDDIqwV4MwN__0TCUVUrU0Q3Qo7TOKkNvQYm5KLmh5wONPOBbl7D-QffzRvAa_Yno6m_VdyA1CHfJACxyBhD6GPovo7Anrj4zMUxaOVkY7By2gbl0-Xq-F8DymkrObRP7Jj7YO9V9DW6kv8pq555z23zqTp8f3ylvXZdUGRgBcnc36KQINWgbVuK9y24skWJya1U45Vx2ArjR6sLZFsioyw-08jOHWHzaQX_Q/https%3A%2F%2Fwww.tga.gov.au%2Fresources%2Fresource%2Fguidance%2Fcomparable-overseas-regulators
+
+1. 列出与设备相关的不良事件/事故，并说明相关数据的时间段。
+
+2. 如果不良事件数量较多，请提供按事件类型汇总的摘要，并说明每种事件类型的报告事件数量。
+
+3. 列出医疗器械召回和/或咨询通知，以及制造商在每种情况下采取的处理和解决方案的讨论。
+
+4. 描述针对上述项目所采取的任何分析和/或纠正措施。
+
+5. 如果迄今为止没有不良事件/事故、召回和/或咨询通知，请提供设备所有者在公司信头上的声明，确认自设备商业化以来，未发生不良事件/事故、召回和/或咨询通知。
+
+**备注**
+
+1. 承认，不同司法管辖区的召回定义可能有所不同。
+
+| **欧盟** 链接至第 6.09 节（关于程序）和第 2.07 节；另请参见《医疗器械法规》（MDR）第 VII 章第 1 节和附录 III，了解与上市后监测相关的要求。**HC**
+
+1. 应明确标示与事件相关的管辖范围。
+
+2. 任何已知的加拿大事件（通过 SAP 或其他先前加拿大申请）应包含在内。
+
+3. 如果已提交先前获得许可的设备的营销历史，则应在此处总结与该设备相关的召回和事件报告。
+
+**美国 FDA 510(k)** 在提交 510(k) 以实施设计变更，以解决美国设备召回时，应包含以下内容。**HSA**
+
+1. 如果已向 HSA 报告的医疗器械存在持续不良事件或现场安全纠正措施，请提供 HSA 的参考编号。
+
+**NMPA** 如果适用，请列出与设备相关的不良事件/事件，并说明与这些数据的相关时间段。提供事件发生的时间以及制造商在每个案例中采取的处理和解决方案，包括主动控制产品风险的措施、向医疗器械不良事件监测技术机构的报告以及相关部门的调查和处理情况。同时，应分析和评估上述不良事件和召回，明确不良事件和召回的原因，并解释其对安全性和有效性的影响。如果不良事件或召回的数量较多，则应根据事件类型对每种类型的数量进行总结。
+**2.06.03**| 欧盟、HC、HSA、JP、TGA| 2| 销售、事件和召回率|
+
+1. 销售单位数量在每个国家/地区的汇总，以及与这些数据的相关时间段。
+
+2. 提供每个国家/地区/地区的计算结果，例如：
+
+3. 不良事件/事故发生率 = 不良事件/事故数量除以销售单位数量，以百分比表示
+
+4. 回收率 = 回收数量除以销售单位数量，以百分比表示
+
+这些指标可能以其他适当的单位（如每患者使用年或每次使用）进行呈现。在这种情况下，应说明确定这些指标的方法，并支持相关假设。
+
+1. 对计算出的指标进行关键分析（例如：为什么这些指标是可接受的？它们在事故方面如何分解？是否存在某些异常数据导致指标升高？是否存在与提交的设备任何子组相关的趋势（例如，尺寸、版本）？）。
+
+**备注**
+
+1. 承认，不同司法管辖区的召回定义可能有所不同。
+
+在本文中，销售数量应以销售单位数报告。
+
+3. 适时将销售数据分解为各个组成部分。
+
+**欧盟** 链接至 6.09 章节的程序，以及 2.07 章节；另见《医疗器械法规》（MDR）第 VII 章第 1 节和附录 III，了解与上市后监测相关的要求。
+**2.06.04**| TGA| 2| 评估/检查报告| | **TGA** 完整的审计报告和由其他机构（例如，经批准机构认证报告）发布的技术报告的副本。
+**2.07**| 欧盟、HC、美国FDA| 1| 上市后研究计划| 上市后研究计划可能包括临床或非临床研究计划。此处提供的文档不包括最终报告和分析，而是仅包含研究计划信息。这可能包括：
+
+1. 研究目标
+
+2. 研究设计
+
+3. 受试者和地点信息
+
+4. 终点（主要和次要）
+
+5. 数据分析计划摘要
+
+6. 随访时间和频率
+
+注意：在预上市阶段，一个地区提供的上市后非临床或临床数据，将被视为第二个地区的数据，并将分别存储在第 3 章或第 4 章中。**欧盟** 参见《医疗器械法规》（MDR）附录 XIV 第 B 部分，了解与上市后临床跟踪（PMCF）相关的要求；程序应在 6.09 章节，记录或输出应在 4.06 章节提供。
+**2.08**| IMDRF| 1| 风险管理|
+
+1. 总结在风险分析过程中识别的风险以及如何将这些风险控制到可接受的水平。这些计划可以被视为风险管理文档的一部分。
+
+2. 风险分析的结果应得出结论，证明剩余的风险与益处相比是可接受的。
+
+3. 如果遵循标准，请识别该标准。
+
+| **欧盟** 风险管理在《医疗器械法规》（MDR）第一部分第3条中进行规定；另请参见《医疗器械法规》（MDR）第一部分第1、2、4、8条以及第二部分第5节。《医疗器械 – 应用风险管理于医疗器械》（EN ISO 14971）也提供了指导。产品风险管理数据是指记录产品风险管理过程和审查结果的数据。应提供以下内容，并解释以下每个已识别危害的流程的可追溯性：
+a) 风险分析：包括对医疗器械和与安全相关的特征的范围的确定、危害的识别以及对每种危险情况的风险评估。
+b) 风险评估：对于每种已识别的危险情况，评估并决定是否需要降低风险，如果需要，描述如何进行相应的风险控制。
+c) 风险控制：描述已实施的用于降低风险的相关内容。
+d) 评估任何一个或多个剩余风险的接受程度。
+e) 将产品风险与产品益处进行综合评估，以确定其是否可接受。
+
+1. 建立针对医疗器械的 EP 检查表，并提供有关用于证明符合每个适用的 EP 的方法的信息，包括采用的方法的参考，以及证明符合所采用方法的控制文档的标识。
+
+2. 对于需要包含在提交中的控制文档，提供其在提交中的位置的交叉引用。
+
+3. 如果检查表中指示的任何 EP 不适用于该设备：提供不适用于每个 EP 的记录化的理由。
+
+**请注意：** 用于证明符合性的方法可能包括以下一项或多项：
+
+1. 符合认可的标准或其它标准；
+
+2. 符合广泛接受的行业测试方法；
+
+3. 符合内部测试方法；
+
+4. 预临床和临床证据的评估；
+
+与市场上已有的类似设备进行比较。**欧盟** 请参见《医疗器械法规》（MDR）第一部分，了解通用安全和性能要求（GSPRs），以及《医疗器械法规》（MDR）第二部分第4节，该部分解释制造商应如何记录其评估。
+
+* 建议提供上述信息，以清单形式对照《医疗器械通用安全要求》（GSPRs），以展示如何实现对各项《医疗器械通用安全要求》的符合。
+
+* 确定支持符合每个 GSPR 的具体文件。
+
+**HSA** 提交符合新加坡基本原则的检查表 – 参见 [www.hsa.gov.sg](<http://www.hsa.gov.sg>) 上的 GN-16。 也可以提交符合欧盟或澳大利亚基本要求的检查表。
+**TGA** 提交符合澳大利亚基本原则的检查表 – 检查表可在 [澳大利亚医疗器械的合规声明模板 | 治疗品管理局 (TGA)](<https://www.tga.gov.au/how-we-regulate/manufacturing/manufacture-medical-device/obtain-and-maintain-regulatory-evidence/tga-conformity-assessment/australian-declaration-conformity-templates-medical-devices>) 上找到。
+**NMPA** 对于产品注册申请材料中包含的文档，应明确说明其在申请材料中的具体位置；对于不在产品注册申请材料中包含的文档，应注明证据文件的名称以及在质量管理系统文档中的位置。 作为参考编号。
+
+**2.10**| IMDRF| 1| 标准| **此处无内容**|
+**2.10.01**| IMDRF| 2| 标准和指南文件清单| 此部分应包括：
+
+1. 如果适用，请列出在设备的设计和/或制造过程中，完全或部分符合的标准。
+
+2. 至少应包括标准组织名称、标准编号、标准标题、年份/版本，以及是否完全或部分符合该标准。
+
+3. 如果只有部分符合，请列出符合标准的部分
+
+* 不适用于该设备，或
+
+* 已经进行了适应性调整，或
+
+* 存在偏差，原因包括其他因素 – 需附带讨论
+
+1. 如果适用，列出监管机构发布的与设计和/或制造相关的相关指导文件，并标明发布机构、发布日期和标题。
+
+如果适用，请提供与设备的设计和/或制造相关的相关临床指南的清单，包括发布方、发布日期和标题。| **ANVISA** 提交符合标准的清单时，应同时提交《基本原则清单》。| **NMPA** 如果适用，应包括对与设备相关的NMPA注册强制标准。对于强制行业标准，如果申报产品的结构特征、预期用途和使用方法与强制标准的适用范围不符，申请人应提供不适用该强制标准的解释，并提供经过验证的支持材料。| **EU** 请参阅MDR附则I和附则II第4节的要求。
+
+* 只要设备符合相关的协调标准，即可推定其符合这些标准所涵盖的MDR要求。
+
+* 通常会在《GSPR清单》中添加已使用的标准，包括版本。
+
+* 文档应证明已考虑所有相关的和可用的通用规范（CS）以及相关的标准，包括协调标准和特定于产品的其他标准。
+
+* 技术文件应继续证明文件符合先进水平，包括考虑修订或替代的标准或CS。
+
+* 指出适用的其他欧盟法规。 如果设备受到多个法规或指令的管辖，应识别所有适用的法规/指令。
+
+**TGA** 此列表应包括应用于该医疗器械的任何医疗器械标准或合规性评估标准；如果未应用于该医疗器械的任何医疗器械标准或合规性评估标准（或仅部分标准），则应列出采用的解决方案，以确保每个设备符合基本原则的适用规定。本部分的信息可以呈现在“基本原则检查表”中，如果呈现，则只需在申请中呈现一次。**HSA** 提交的符合标准清单可以与“基本原则检查表”一起提交。 此信息只需呈现一次。
+**2.10.02**| ANVISA, NMPA, HC, USFDA| 2| 符合性声明和/或认证| | **ANVISA**
+
+1. 根据适用标准颁发的第三方组织（例如，官方认可的通知机构）颁发的符合性认证。该证书应在巴西的“巴西符合性评估系统” (INMETRO) 下颁发。
+
+2. 某些类型的设备（如子宫内设备和输血袋）需要由官方实验室（巴西国家卫生质量控制研究所 INCQS/FioCruz）进行的提交前性能测试。这些分析报告应作为提交的一部分。
+
+**HC** 申请人应使用加拿大卫生部的《符合性声明》表，按照认可的标准准备符合性声明。请参考《关于医疗器械法规下标准认可和使用指南》（<https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/application-information/guidance-documents/guidance-document-recognition-use-standards-under-medical-devices-regulations.html>）和当前认可的医疗器械标准清单。**USFDA** 请参考[《行业和FDA员工指南 - 医疗器械预上市提交中自愿共识标准的适当使用》（<https://www.fda.gov/media/71983/download>]。**NMPA**
+
+1. a) 产品技术要求
+
+技术要求应根据相关要求进行汇总。
+
+1. b) 产品检验报告
+
+可以提交以下形式的检验报告：i：由申请人出具的自检报告；ii：由合格的医疗器械检验机构出具的检验报告。
+**2.11**| IMDRF| 1| 其他提交背景信息| 用于提交，但未包含在本章节其他标题中的其他提交背景信息标题。
+**注意：** 为了确保您的提交中的所有内容得到充分审查，请确保在此处放置的内容不属于上述任何标题。| **NMPA** 如果适用，请提供与申报产品一起使用的其他产品的详细信息，以实现其预期用途。对于批准使用的相关部件或附件，应提供注册证书编号和国家药品监督管理局官方网站上发布的注册证书信息。
+
+# 第3章 – 非临床证据
+
+**行 ID**| **区域和级别**| **标题**| **常见内容**| **区域内容**
+---|---|---|---|---
+**3.01**| IMDRF| 1| 章节目录|
+
+1. 包含章节的主要标题，至自定义标题级别。
+
+2. 明确说明表中每个项目的页码。
 
 |   
-**3.02**| | |  Chapter Retired| Original content moved to Chapter 2|   
-**3.03**| | |  Chapter Retired| Original content moved to Chapter 2|   
-**3.04**| | |  Chapter Retired| Original content moved to Chapter 2|   
-**3.05**|  IMDRF| 1| Non-clinical Studies| **NO CONTENT AT THIS LEVEL**|   
-**3.05.01**|  IMDRF| 2| Physical and Mechanical Characterization| Evidence that supports the physical or mechanical properties of the subject device is to be included in this section. This should include:
-
-  1. A summary of the non-clinical evidence that falls within this category
-  2. A discussion of the non-clinical testing considered for the device and support for their selection or omission from the verification and validation studies conducted in this category (i.e., what tests were considered and why they were or were not performed)
-  3. If applicable, particulate testing from wear or device coatings.
-  4. Discussion to support why the evidence presented is sufficient to support the application. 
-
-**OR**
-
-  1. A statement of why this category of non-clinical laboratory study is not applicable to this case.
-
-**NOTE:** The sponsor/applicant should explicitly address any existing regional regulatory guidance related to the non-clinical study results provided in this section regarding the subject device.| **EU** For specific MDR requirements see MDR Annex II Sections 6.1 (a) and (b) **NMPA** The basis for determining product chemical/material characterization, design input sources and clinical significance, standards or methods used, reasons for use, and theoretical basis should be provided.  
-**3.05.01.01**|  IMDRF| 3| [Study description, study identifier, date of initiation]| **NO CONTENT AT THIS LEVEL**. This heading should be CUSTOM AND BASED ON STUDY DETAILS and created **for each study** under the parent heading. The sub headings below would be for this study alone. For example, the structure will look something like this  
-Component A Fatigue Test, MT4203, 2010-10-10  
-Summary of MT4203  
-Full Report for MT4203  
-Assembly B Compatibility Test, MT4584, 2011-01-23  
-Summary of MT4584  
-Full Report for MT4584|   
-**3.05.01.01.01**|  IMDRF| 4| Summary| A summary of the specific study described in the custom heading above.|   
-
-**3.05.01.01.02**|  IMDRF| 4| Full Report| The test report for the test described in the custom heading above.| **USFDA 510(k)** If referencing a standard, refer to [Guidance for Industry and FDA Staff - Appropriate Use of Voluntary Consensus Standards in Premarket Submissions for Medical Devices](<https://www.fda.gov/media/71983/download>).  
-**3.05.01.01.03**|  USFDA| 4| Statistical Data|  | This is the location for statistical data associated with the test described in the custom heading above. This includes metadata and data line listings in their native formats, such as, but not limited to: SAS; XPORT; XML; SGML; S-Plus; R files; ASCII; Molfiles; and Excel. **The applicant is advised to contact the specific review division for further guidance on the specific data format that is preferred.****NOTE: Do not place PDFs here**.   
-**3.05.02**|  IMDRF| 2| Chemical/Material Characterization| Tests that describe the chemical or structural composition of the device and its components are to be included in this section. This should include:
-
-  1. A summary of the non-clinical evidence that falls within this category.
-  2. A discussion of the non-clinical testing considered for the device and support for their selection or omission from the verification and validation studies conducted in this category (i.e., what tests were considered and why they were or were not performed).
-  3. Discussion to support why the evidence presented is sufficient to support the application. 
-
-**OR**
-
-  1. A statement of why this category of non-clinical laboratory study is not applicable to this case.
-
-**NOTE:** The sponsor/applicant should explicitly address any existing regional regulatory guidance related to the non-clinical study results provided in this section regarding the subject device.| **EU** For specific MDR requirements see MDR Annex II Sections 6.1 (b) and 6.2 (d).In particular, for devices specified in MDR Annex I GSPR 10.4.1 containing or incorporating carcinogenic, mutagenic, or toxic to reproduction (“CMR”) substances of category 1A or 1B (in accordance with Part 3 of Annex VI to Regulation (EC) No 1272/2008), or substances having endocrine-disrupting properties must meet requirements in the MDR for justification of the presence of these substances. Specific labelling requirements must also be met for these substances (GSPR 10.4.5).Where this information on CMR or endocrine-disrupting substances is provided by suppliers, manufacturers should confirm the completeness of this information and describe any additional testing or analysis performed to confirm the information and the presence of these substances.  
-**3.05.02.01**|  IMDRF| 3| [Study description, study identifier, date of initiation]| **NO CONTENT AT THIS LEVEL** This heading should be CUSTOM AND BASED ON STUDY DETAILS and created **for each study** under the parent heading. The sub headings below would be for this study alone.|   
-**3.05.02.01.01**|  IMDRF| 4| Summary| A summary of the specific study described in the custom heading above.|   
-**3.05.02.01.02**|  IMDRF| 4| Full Report| The test report for the test described in the custom heading above.| **USFDA 510(k)** If referencing a standard, refer to [Guidance for Industry and FDA Staff - Appropriate Use of Voluntary Consensus Standards in Premarket Submissions for Medical Devices](<https://www.fda.gov/media/71983/download>).   
-**3.05.02.01.03**|  USFDA| 4| Statistical Data|  | This is the location for statistical data associated with the test described in the custom heading above. This includes metadata and data line listings in their native formats, such as, but not limited to: SAS; XPORT; XML; SGML; S-Plus; R files; ASCII; Molfiles; and Excel. **The applicant is advised to contact the specific review division for further guidance on the specific data format that is preferred.****NOTE: Do not place PDFs here**.   
-**3.05.03**|  IMDRF| 2| Electrical Systems: Safety, Mechanical and Environmental Protection, and Electromagnetic Compatibility| Evidence supporting electrical safety, mechanical and environmental protection, and electromagnetic compatibility are to be included in this section. This should include:
-
-  1. A summary of the non-clinical evidence that falls within this category
-  2. A discussion of the non-clinical testing considered for the device and support for their selection or omission from the verification and validation studies conducted in this category (i.e., what tests were considered and why they were or were not performed)
-  3. Discussion to support why the evidence presented is sufficient to support the application. 
-
-**OR**
-
-  1. A statement of why this category of study is not applicable to this case.
-
-**NOTE:** The sponsor/applicant should explicitly address any existing regional regulatory guidance related to the non-clinical study results provided in this section regarding the subject device| **EU** For specific MDR requirements see MDR Annex II Section 6.1 (b). Guidance is also available in EN 60601-1 Medical electrical equipment – Part 1: General requirements for basic safety and essential performance and EN 60601-1-2 Medical electrical equipment – Part 1-2: General requirements for basic safety and essential performance – Collateral Standard: Electromagnetic disturbances – Requirements and tests, and applicable collateral and particular standards.**NMPA** Research materials on electrical safety, mechanical and environmental protection, and electromagnetic compatibility should be provided, explaining the applicable standards and the research carried out.  
-**3.05.03.01**|  IMDRF| 3| [Study description, study identifier, date of initiation]| **NO CONTENT AT THIS LEVEL** This heading should be CUSTOM AND BASED ON STUDY DETAILS and created **for each study** under the parent heading. The sub headings below would be for this study alone.|   
-**3.05.03.01.01**|  IMDRF| 4| Summary| A summary of the specific study described in the custom heading above.|   
-**3.05.03.01.02**|  IMDRF| 4| Full Report| The test report for the test described in the custom heading above.| **USFDA 510(k)** If referencing a standard, refer to [Guidance for Industry and FDA Staff - Appropriate Use of Voluntary Consensus Standards in Premarket Submissions for Medical Devices](<https://www.fda.gov/media/71983/download>).   
-**3.05.03.01.03**|  USFDA| 4| Statistical Data|  | This is the location for statistical data associated with the test described in the custom heading above. This includes metadata and data line listings in their native formats, such as, but not limited to: SAS; XPORT; XML; SGML; S-Plus; R files; ASCII; Molfiles; and Excel. **The applicant is advised to contact the specific review division for further guidance on the specific data format that is preferred.****NOTE: Do not place PDFs here**.   
-**3.05.04**|  IMDRF| 2| Radiation Safety| Studies supporting radiation safety, where the device emits ionizing and/or non-ionizing radiation or where the device is exposed to radiation are to be included in this section. This includes bench tests ensuring safety and performance to support the MRI safety labelling of the device. This should include:
-
-  1. A summary of the non-clinical evidence that falls within this category
-  2. A discussion of the non-clinical testing considered for the device and support for their selection or omission from the verification and validation studies conducted in this category (i.e., what tests were considered and why they were or were not performed)
-  3. Discussion to support why the evidence presented is sufficient to support the application. 
-
-**OR  
-**
-
-  1. A statement of why this category of non-clinical laboratory study is not applicable to this case.
-
-**NOTE:** The sponsor/applicant should explicitly address any existing regional regulatory guidance related to the non-clinical study results provided in this section regarding the subject device| **EU** For specific MDR requirements see MDR Annex I GSPRs 14.2 (b) and 16 and Annex II Section 6.1 (b). Guidance is also available in EN 60601-1-3 Medical electrical equipment - General requirements for basic safety and essential performance. Collateral Standard: Radiation protection in diagnostic X-ray equipment and relevant EN 60601-2-xx standards.**TGA** MR labelling claims to be supported by bench tests ensuring safety and performance of the device, including the below risks:Note: Testing may not be warranted if an adequate scientific rationale or validated computational modelling/simulation is provided.
-
-  *     * Magnetically Induced Displacement Force
-    * Magnetically Induced Torque
-    * Extent of Image Artifact
-    * RF induced heating or heating induced by time-varying magnetic field gradients, (dB/dt) 
-    * Gradient Induced Vibration
-    * Gradient Induced Extrinsic Electrical Potential (Unintended Stimulation)
-    * Rectification of RF pulses from MR Exams (Unintended Stimulation)
-
-**NMPA** For products with radiation or potential radiation hazards (including ionizing radiation and non-ionizing radiation), radiation safety research materials should be provided, including:a) Explain the general and specific radiation safety standards that are in compliance, and the reasons for the inapplicable clauses in the standards should be explained in detail;b) Indicate the type of radiation and provide radiation safety verification data. It should be ensured that the radiation energy, radiation distribution and other key radiation characteristics can be reasonably controlled and adjusted and can be estimated and monitored during use. (If applicable)c) Provide protective measures to reduce the radiation absorbed dose during transportation, storage, installation, and use by users, others, and patients, and methods to avoid misuse. For products that need to be installed, information about acceptance and performance testing, acceptance standards and maintenance procedures should be clear.  
-**3.05.04.01**|  IMDRF| 3| [Study description, study identifier, date of initiation]| **NO CONTENT AT THIS LEVEL** This heading should be CUSTOM AND BASED ON STUDY DETAILS and created **for each study** under the parent heading. The sub headings below would be for this study alone.|   
-**3.05.04.01.01**|  IMDRF| 4| Summary| A summary of the specific study described in the custom heading above.  
-|   
-**3.05.04.01.02**|  IMDRF| 4| Full Report| The test report for the test described in the custom heading above.| **USFDA 510(k)** If referencing a standard, refer to [Guidance for Industry and FDA Staff - Appropriate Use of Voluntary Consensus Standards in Premarket Submissions for Medical Devices](<https://www.fda.gov/media/71983/download>).   
-**3.05.04.01.03**|  USFDA| 4| Statistical Data| ****|  This is the location for statistical data associated with the test described in the custom heading above. This includes metadata and data line listings in their native formats, such as, but not limited to: SAS; XPORT; XML; SGML; S-Plus; R files; ASCII; Molfiles; and Excel. **The applicant is advised to contact the specific review division for further guidance on the specific data format that is preferred.****NOTE: Do not place PDFs here.**  
-**3.05.05**|  IMDRF| 2| Software/Firmware /Programmed or programmable medical device| **NO CONTENT AT THIS LEVEL** Studies and supporting information on the software design, development process and evidence of the validation of the software, as used in the finished device, are to be included in this section and the associated sub-sections. It should also address all the different hardware configurations and, where applicable, operating systems identified in the labelling. Documentation should be organized according to software or hardware systems.|   
-**3.05.05.01**|  IMDRF| 3| Software/Firmware Description| The software description should include:
-
-  1. A comprehensive overview of significant software features and functions, which may include images, flow charts, and state diagrams as needed to adequately explain the software functionality,
-  2. The version of the software - The version tested must be clearly identified and should match the release version of the software, otherwise justification must be provided,
-  3. Identification of the device features that are controlled by the software, the programming language, hardware platform, operating system (if applicable), use of Off-the-shelf software (if applicable), a description of the realization process.
-
-If the product is a machine learning-enabled medical device (such as adaptive models, natural language processing, neural networks, and related approaches), please provide, as applicable: 
-
-  1. a detailed description of each algorithm/model, including its inputs, outputs, data selection and management for training, testing, and validation (terminology may differ in different regions);
-  2. model selection and evaluation; 
-  3. risk management activities;
-  4. materials/approaches used to provide transparency; and 
-  5. post-market performance monitoring activities.
-
-| **ANVISA** For Medical Device or Independent Software, see the appropriate documentation required in ANVISA Resolutions RDC nº 751/2022 and RDC nº 657/2022; And Anvisa Guidance nº 38/2020 - Cybersecurity principles and practices in medical devices.If the Medical device adopts artificial intelligence technology, it should provide algorithm description, including basic algorithm information, data collection, algorithm training, algorithm performance evaluation, validation, etc.**EU** Appropriate documentation is required if the medical devices are either standalone software or rely upon software. See MDR Annex II Section 6.1 (b) for requirements. Guidance is also available in EN 62304 Medical device software – Software life-cycle processes and, if applicable, EN 82304-1 Health Software - General requirements for product safety.**USFDA** Identify the Level of Documentation (Basic or Enhanced) and include a description of the rationale for that level.For guidance on what specific software documentation to submit, refer to the [Guidance for the Content of Premarket Submissions for Device Software Functions](<https://www.fda.gov/media/153781/download>)**TGA** Refer to guidance on ‘[Regulation of Software based medical devices](<https://www.tga.gov.au/regulation-software-based-medical-devices>)’.**NMPA** a) SoftwareFor products and independent software that contain software components, software research materials should be provided, including basic information, implementation processes, core functions, conclusions, etc. The degree of detail depends on the software security level (severe, moderate, and minor). Among them, basic information includes software identification, security level, structural function, physical topology, operating environment, and registration history. The realization process includes development overview, risk management, requirement specification, life cycle, verification and confirmation, traceability analysis, defect management, update history, clarify the correspondence between core functions, core algorithms, and expected uses.b) Ready-made softwareIf the product uses off-the-shelf software, corresponding software research data and network security research data should be provided based on the type and usage of the off-the-shelf software.c) Artificial intelligenceIf the product adopts artificial intelligence technology such as deep learning to achieve the expected function and purpose, it should provide algorithm research materials, including basic algorithm information, data collection, algorithm training, algorithm performance evaluation, etc.d) OtherIf products adopt mobile computing, cloud computing, virtual reality and other information and communication technologies to achieve expected functions and uses, corresponding technical research materials should be provided, including basic information, requirements specifications, risk management, verification and confirmation, maintenance plans, etc.  
-**3.05.05.02**|  IMDRF| 3| Risk Management File (including Hazard Analysis)| The risk management file should be provided and include the risk management plan, risk assessment (e.g. hazard analysis), and risk management report.The risk assessment (e.g. hazard analysis) should take into account all device hazards associated with the device’s intended use.For software that is part of a system, a risk assessment should be performed on the system comprising the software and its whole hardware environment and noted in the software documentation with reference to the particular section of the premarket submission.| **EU** See EN 62304 and ISO 14971 for further guidance**HC** The risk management file in this section should specifically relate to the software/hardware. Overall risk analysis should be placed in section 2.08.**HC, USFDA** For the risk control measures in the risk assessment or hazard analysis, there should be verification of the implementation of the risk control measures and verification of the effectiveness of the implemented risk control measures (i.e. the implemented risk control measure reduces risk). This can be accomplished by tracing the identified hazard to the verified specific risk control measures (e.g. a requirement ID in the SRS and SDS, a test name and identifier in the testing documentation that shows pass/fail results, a user manual name and identifier, a training manual name and identifier).  
-**3.05.05.03**|  IMDRF| 3| Software Requirement Specifications (SRS)| The Software Requirements Specifications (SRS) documentation should describe the needs or expectations for a system or software, presented in an organized format, at the software system level or subsystem level, as appropriate, and with sufficient information to understand the traceability of the information with respect to the other software documentation elements (e.g. risk management file, software design specification, system and software architecture design chart, software testing).The SRS documents the requirements for the software which typically specifies inputs and outputs, functions that the software will perform, hardware, performance, interfaces, user interaction, error definition and handling, intended operating environment, safety and security related requirements derived from a risk assessment (hazard analysis) and all ranges, limits, defaults, and specific values that the software will accept. | **EU** See MDR Annex I Section 14.2 (d) for requirements. Further guidance is also available in EN 62304.   
-**3.05.05.04**|  EU, HC, JP, TGA, USFDA| 3| System and Software Architecture Design (SAD) Chart| The System and Software Architecture Design (SAD) Chart should consist of detailed diagrams of the modules, layers, and interfaces that comprise the device, their relationships, the data inputs/outputs and flow of data, and how users or external products (including information technology (IT) infrastructure and peripherals) interact with the system and software. If the System and Software Architecture Design Chart is included in another document, such as the SRS, a reference to the location of the System and Software Architecture Design Chart in the submission should be included.| **EU** See EN 62304 for further guidance  
-**3.05.05.05**|  EU, HC, JP, TGA, USFDA| 3| Software Design Specification (SDS)| Software Design Specification (SDS) documentation should be provided, including sufficient information to understand the technical design details of how the software functions, how the software design completely and correctly implements all the requirements of the SRS, and how the software design traces to the SRS in terms of intended use, functionality, safety, and effectiveness.In terms of the relationship between the SRS and the SDS, the SRS describes what the software function will do and the SDS describes how the requirements in the SRS are implemented. The information presented in the SDS should be sufficient to ensure that the work performed by the software engineers who created the device software function was clear and unambiguous, with minimal ad hoc design decisions.| **EU** See EN 62304 for further guidance  
-**3.05.05.06**|  IMDRF| 3| Traceability Analysis| A Traceability Analysis links together your product design requirements, design specifications, and testing requirements. It also provides a means of tying together identified hazards with the implementation and testing of the mitigations. | **USFDA, HC** The Traceability Analysis can be incorporated into the SRS documentation.  
-**3.05.05.07**|  IMDRF| 3| Software Life Cycle Process Description / Software Development, Configuration Management, and Maintenance Practices| The Software Life Cycle Process Description / Software Development, Configuration Management, and Maintenance Practices description should describe the software development life cycle and the processes that are in place to manage the various life cycle activities. | **EU** For specific MDR requirements see MDR Annex I GSPR 17.2 and Annex II Section 6.2 (b). See EN 62304 for further guidance.  
-**3.05.05.08**|  IMDRF| 3| Software Testing as Part of Verification and Validation| You should provide an overall description of the verification and validation activities performed for the final software version. You should provide the applicable test protocols and reports including the expected results, observed results and pass/fail determination.**NOTE** : Discussion should address all of the different hardware configurations and, where applicable, operating systems identified in the labelling.| **EU** See EN 62304 and EN 82304-1, if applicable, for further guidance   
-**3.05.05.09**|  IMDRF| 3| Software Version / Revision Level History| The Software Version / Revision Level History documentation should include the history of software versions that were tested and documented as part of verification and validation activities. This typically takes the form of a line-item tabulation including the date, version number that was tested and a brief description of all changes in the version relative to the previously tested version.The last entry in a line-item tabulation should be the final version to be incorporated in the released device. This entry should also include any differences between the tested version of software and the released version.| **EU** See EN 62304 for further guidance  
-**3.05.05.10**|  IMDRF| 3| Unresolved Software Anomalies| Documentation should include a list of unresolved anomalies present in the software with the following items (e.g. in tabular format) for each unresolved anomaly:
-
-  1. A description of what the anomaly is and what root cause(s) of the anomaly could be;
-  2. Identification of how the anomaly was discovered and, where possible, identification of the root cause(s) of the anomaly;
-  3. Evaluation of the impact of the anomaly on the device’s safety and effectiveness, including operator usage and human factors considerations;
-  4. Outcome of the evaluation; and
-  5. Risk-based rationale for not correcting or fixing the anomaly in alignment with the risk management plan or procedure(s).
-
-| **EU** See EN 62304 for further guidance  
-**3.05.05.11**|  EU, USFDA, HC, HSA, TGA| 3| Cybersecurity| For a description of the Cybersecurity Common Content, please refer to [IMDRF/CYBER WG/N60 FINAL:2020 “Principles and Practices for Medical Device Cybersecurity”](<https://www.imdrf.org/sites/default/files/docs/imdrf/final/technical/imdrf-tech-200318-pp-mdc-n60.pdf>)| **EU** See MDR Annex I GSPR 14.5, 17 and Annex II Section 6.2 (g) for requirements.**HC** Guidance Document: [Pre-market Requirements for Medical Device Cybersecurity](<https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/application-information/guidance-documents/cybersecurity/document.html>)**USFDA** Guidance for Industry and Staff – “[Cybersecurity in Medical Devices: ](<https://www.fda.gov/media/119933/download>)[Quality System Considerations and ](<https://www.fda.gov/media/119933/download>)[Content of Premarket Submissions](<https://www.fda.gov/media/119933/download>)”**TGA** Guidance for industry and consumers “[Medical device cyber security guidance for industry](<https://www.tga.gov.au/how-we-regulate/manufacturing/medical-devices/manufacturer-guidance-specific-types-medical-devices/regulation-software-based-medical-devices/medical-device-cyber-security-guidance-industry>)”. **NMPA** Independent software with electronic data exchange, remote control or user access functions and products containing software components shall provide network security research materials, including basic information, implementation process, vulnerability assessment, conclusions, etc. The degree of detail depends on the software security level . Among them, basic information includes software information, data architecture, network security capabilities, network security patches, and security software. The implementation process includes risk management, requirements specification, verification and confirmation, traceability analysis, update maintenance plans, and vulnerability assessments to identify known vulnerabilities. Related Information.**HSA** Regulatory Guidelines for Software Medical Devices - A Life Cycle Approach – available at [www.hsa.gov.sg](<http://www.hsa.gov.sg>)  
-**3.05.05.12**|  EU, USFDA, HC, HSA| 3| Interoperability| If the device can communicate with other devices. Evidence to support the interoperability should be provided. | **EU** See MDR Annex I GSPR 14.5 and Annex II Section 6.2 (g) for requirements.**USFDA** Guidance for Industry and Staff – “Design Considerations and Pre-market Submission Recommendations for Interoperable Medical Devices”**NMPA** If products exchange and use information with other medical devices or non-medical devices through electronic interfaces, interoperability research materials should be provided, including basic information, requirements specifications, risk management, verification and confirmation, maintenance plans, etc.  
-**3.05.06**|  IMDRF| 2| Biocompatibility and Toxicology Evaluation| Studies supporting biocompatibility and assessing toxicology are to be included in this section. Studies to assess the immunological response to animal or human tissues, tissue components or derivatives are to be included in this section. This should include:
-
-  1. A list of all materials in direct or indirect contact with the patient or user. 
-  2. State conducted tests, applied standards, test protocols, the analysis of data and the summary of results 
-  3. A discussion of the non-clinical testing considered for the device and support for their selection or omission from the verification and validation studies conducted in this category (i.e., what tests were considered and why they were or were not performed)
-  4. Discussion to support why the evidence presented is sufficient to support the application.   
-
-**OR  
-**
-
-  1. A statement of why this category of non-clinical laboratory study is not applicable to this case.  
-
-**NOTES:**
-
-  1. The sponsor/applicant should explicitly address any existing regional regulatory guidance related to the non-clinical study results provided in this section regarding the subject device
-  2. Tests should be conducted on samples from the finished, sterilized (when supplied sterile) device.
-
-| **EU** For specific MDR requirements see MDR Annex I GSPRs 10 and 13, and Annex II Sections 6.1 (b) and 6.2 (b). Guidance is also available in EN ISO 10993-1 Biological evaluation of medical devices – Part 1: Evaluation and testing within a risk management process.**TGA** For each material that is in direct contact with the patient or user, provide:
-
-  * details of the name of the material supplier 
-  * copies of certificate of analysis or certificate of conformance from the material supplier to support the quality of the material(s)
-  * amount of each material present in the device and evidence to support its safety 
-
-For medical devices containing a medicinal substance, the following information to be provided to support the quality and safety of the product in the device:
-
-  * evidence to support its quality including [European Directorate for the Quality of Medicines](<https://www.edqm.eu/en/>) (EDQM) certificate of suitability for the medicinal substance or if relevant, provide refence to the TGA Drug master file (DMF)
-  * an authorisation in the form of a ‘Letter of Access’ obtained from the medicinal substance manufacturer for the TGA to access to the EDQM certificate. The form template can be found in ‘Module 1.6.3 - Proforma Letter of Access to DMF/PMF/CE’ of the ARGPM (https://www.tga.gov.au/form/ctd-module-1-additional-forms-and-proformas#mod1-6); 
-  * In the absence of EDQM certificate, provide a TGA Drug Master File (DMF) or Plasma Master File (PMF( reference number.
-  * An authorisation in the form of a ‘Letter of Access’ obtained from the manufacturer of medicinal substance for the TGA to access to the DMF or PMF in relation to the application. The form template can be found in ‘Module 1.6.3 - Proforma Letter of Access to DMF/PMF/CE’ of the Australian Regulatory Guidelines of Prescription Medicines (ARGPM) ([_https://www.tga.gov.au/form/ctd-module-1-additional-forms-and-proformas#mod1-6_](<https://www.tga.gov.au/form/ctd-module-1-additional-forms-and-proformas#mod1-6>) _)_ ; 
-  * Device manufacturer declaration, which can also be found in ‘[ Module 1.6.2 Applicant declaration - Drug master files, plasma master files, and EDQM certificates of suitability’ ](<https://www.tga.gov.au/sites/default/files/pm-argpm-ctd-module1-forms-module-1-6-3-130601.DOCX>)of the ARGPM (the same website as for the _Letter of Access_ above)
-
-**NMPA** For devices that come into direct or indirect contact with the patient, biological evaluation should be carried out. Biological evaluation data should include:a) Describe the materials used in the product and the nature of contact with the human body, the pollutants and residues that may be introduced during the design and production process, the precipitates (including leachate and/or evaporate) and degradation that may be generated during the design and production process Related information about products, processing residues, and packaging materials in direct contact with medical devices.b) Describe the physical and/or chemical information of the declared product and consider the material characterization (if applicable). If the physical action of the device may cause a biological risk, it should be evaluated.c) Strategies, basis and methods of biological evaluation.d) Evaluation of existing data and results.e) Reasons and justifications for selecting or exempting biological experiments.f) Other data required to complete the biological evaluation.If medical device materials may release particles into patients and users, resulting in risks related to particle size and properties, such as nanomaterials, relevant biological risk research data should be provided for all medical devices that contain, produce, or consist of them.If the declared product will be absorbed and metabolized by the human body according to its intended use, such as an absorbable product, research data on the compatibility of the materials/substances used with human tissues, cells and body fluids should be provided.  
-**3.05.06.01**|  IMDRF| 3| [Study description, study identifier, date of initiation]| **NO CONTENT AT THIS LEVEL** This heading should be CUSTOM AND BASED ON STUDY DETAILS and created **for each study** under the parent heading. The sub headings below would be for this study alone.|   
-**3.05.06.01.01**|  IMDRF| 4| Summary| A summary of the specific study described in the custom heading above.|   
-**3.05.06.01.02**|  IMDRF| 4| Full Report| The test report for the test described in the custom heading above.| **USFDA 510(k)** If referencing a standard, refer to [Guidance for Industry and FDA Staff - Appropriate Use of Voluntary Consensus Standards in Premarket Submissions for Medical Devices](<https://www.fda.gov/media/71983/download>).   
-**3.05.06.01.03**|  USFDA| 4| Statistical Data| | This is the location for statistical data associated with the test described in the custom heading above. This includes metadata and data line listings in their native formats, such as, but not limited to: SAS; XPORT; XML; SGML; S-Plus; R files; ASCII; Molfiles; and Excel. **The applicant is advised to contact the specific review division for further guidance on the specific data format that is preferred.****NOTE: Do not place PDFs here**.   
-**3.05.07**|  IMDRF| 2| Non-Material-Mediated Pyrogenicity| Studies to support pyrogenicity evaluation of final release, such as endotoxin levels, are to be included in this section. This should include:
-
-  1. A summary of the non-clinical evidence that falls within this category
-  2. A discussion of the non-clinical testing considered for the device and support for their selection or omission from the verification and validation studies conducted in this category (i.e., what tests were considered and why they were or were not performed)
-  3. Discussion to support why the evidence presented is sufficient to support the application.   
-
-**OR  
-**
-
-  1. A statement of why this category of non-clinical laboratory study is not applicable to this case.  
-
-**NOTE:** The sponsor/applicant should explicitly address any existing regional regulatory guidance related to the non-clinical study results provided in this section regarding the subject device| **EU** For specific MDR requirements see MDR Annex II Section 6.2 (e) **TGA** Minimisation of risks associated with endotoxin contaminants and residues in or on medical devices must be considered for certain kinds of medical devices. Refer to [Medical Device Standards Order (Endotoxin Requirements for Medical Devices) 2018](<https://www.tga.gov.au/medical-devices-notices-standards-orders>).   
-**3.05.07.01**|  IMDRF| 3| [Study description, study identifier, date of initiation, date of completion]| **NO CONTENT AT THIS LEVEL** This heading should be CUSTOM AND BASED ON STUDY DETAILS and created **for each study** under the parent heading. The sub headings below would be for this study alone.|   
-**3.05.07.01.01**|  IMDRF| 4| Summary| A summary of the specific study described in the custom heading above.|   
-**3.05.07.01.02**|  IMDRF| 4| Full Report| The test report for the test described in the custom heading above.| **USFDA 510(k)** If referencing a standard, refer to [Guidance for Industry and FDA Staff - Appropriate Use of Voluntary Consensus Standards in Premarket Submissions for Medical Devices](<https://www.fda.gov/media/71983/download>).   
-**3.05.07.01.03**|  USFDA| 4| Statistical Data|  | This is the location for statistical data associated with the test described in the custom heading above. This includes metadata and data line listings in their native formats, such as, but not limited to: SAS; XPORT; XML; SGML; S-Plus; R files; ASCII; Molfiles; and Excel. **The applicant is advised to contact the specific review division for further guidance on the specific data format that is preferred.****NOTE: Do not place PDFs here**.   
-**3.05.08**|  IMDRF| 2| Safety of Materials of Biological Origin (human/animal)| Evaluations performed to demonstrate the safety of materials of biological origin (e.g. animal sourced, human sourced material) are to be included in this section. This should include:
-
-  1. A description of biological material or derivate
-  2. State the harvesting, processing, preservation, testing and handling of tissues, cells and substances 
-  3. If applicable, discussion of infectious agents/transmissible agents known to infect the source animal 
-  4. Clarify the origin (including details of donor screening and source country) and describe the tests on validation of removal or inactivation methods of viruses and other pathogens in the manufacturing process.
-  5. A brief summary of process validation should be included to substantiate that manufacturing and screening procedures are in place to minimize biological risks, in particular, with regard to viruses and other transmissible agents. 
-  6. The system for recordkeeping to allow traceability from sources to the finished device should be fully described
-  7. Discussion to support why the evidence presented is sufficient to support the application.   
-
-**OR  
-**
-
-  1. A statement of why this category of non-clinical laboratory study is not applicable to this case.  
-
-**NOTE:** The sponsor/applicant should explicitly address any existing regional regulatory guidance related to the non-clinical study results provided in this section regarding the subject device| **ANVISA IMPORTANT NOTE:** The commercialization of any type of products of human origin is not allowed in Brazilian territory, according to the Brazilian Federal Constitution.**  
-****NMPA** For products that contain biosafety risks such as allogeneic materials, animal-derived materials or biologically active substances, corresponding biosafety research materials shall be provided.Biosafety research materials should include:a) The situation of the corresponding materials or substances, the acquisition, processing, preservation, testing and handling of tissues, cells and materials.b) Explain the source and explain the process of inactivation and removal of viruses and/or infectious agents in the production process, and provide validity verification data or related materials.c) Explain the methods and/or technological processes for reducing immunogenic substances, and provide quality control indicators and confirmatory experimental data or related materials.d) Other materials supporting the safety of biological materials.**EU** For specific MDR requirements see MDR Annex I GSPR 13 and Annex II Section 6.2 (b). 
-
-  *     * Compliance to Commission Regulation (EU) No 722/2012 is necessary when applicable. Compliance with the EN ISO 22442 series of harmonised standards may also be considered. There are possible exclusions (e.g. tallow species and processing method utilised) from the subcontractor. If in doubt, consult relevant NB before submitting technical documentation. 
-    * Devices which incorporate human or animal-derived substances may be subject to requirements of additional European Directives / Regulations. Additional review resources may be required, including external independent reviewers and/or Competent Authority consultation and/or a European Agency for the Evaluation of Medicinal Products (EMA).
-
-NOTE: In case of materials from animal origin being utilised that bear TSE risk, the submission should clarify if an EDQM certificate is available for the starting material, and if so it will need to be provided.**TGA** Details of the QMS records of the assessment and control of the subcontractors that supply the manufacturer with materials.For materials of animal origin 
-
-  *     * Information on controls related to sourcing/collection/handling (ISO22442-2)
-    * Validation of the manufacturing process’ capacity to clear viruses (ISO22442-3)
-    * Risk assessment that identifies the adventitious agents that are likely to be in the starting material, estimates the concentrations likely to be present and demonstrates that the control measures in place adequately controls these adventitious agents to an acceptable level in the final product (ISO22442-1)
-
-For human blood or human plasma derived material
-
-  *     * Information on donor selection and testing of individual donations, mini-pools and plasma pools (information can be submitted to the TGA in a Plasma Master File (PMF))
-    * Validation of the manufacturing process’ capacity to clear viruses
-    * Risk assessment that identifies the adventitious agents that are likely to be in the starting material, estimates the concentrations likely to be present and demonstrates that the control measures in place adequately controls these adventitious agents to an acceptable level in the final product
-
-**HC** Refer to the [guidance on the regulation of medical devices manufactured from or incorporating viable or non-viable animal tissue or their derivative(s)](<https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/application-information/guidance-documents/guidance-industry-guidance-document-regulation-medical-devices-manufactured-animal-tissue.html>).  
-**3.05.08.01**|  ANVISA,  HSA, TGA| 3| Certificates | Certificates that support the safety of materials of biological origin (e.g. certificate of abattoir inspection).| **ANVISA and HSA** If available, Certificate of Suitability (CEP) for biological material that bears TSE (Transmissible Spongiform Encephalopathy) risk.**TGA** If available, EDQM certificate for animal origin material that bears TSE (Transmissible Spongiform Encephalopathy) risk.If available, European Medicines Agency PMF certificate for human blood or human plasma derived material contained in the device.   
-**3.05.08.02**|  IMDRF| 3| [Study description, study identifier, date of initiation]| **NO CONTENT AT THIS LEVEL** This heading should be CUSTOM AND BASED ON STUDY DETAILS and created **for each study** under the parent heading. The sub headings below would be for this study alone.|   
-**3.05.08.02.01**|  IMDRF| 4| Summary| A summary of the specific study described in the custom heading above.|   
-**3.05.08.02.02**|  IMDRF| 4| Full Report| The test report for the test described in the custom heading above.| **USFDA 510(k)** If referencing a standard, refer to [Guidance for Industry and FDA Staff - Appropriate Use of Voluntary Consensus Standards in Premarket Submissions for Medical Devices](<https://www.fda.gov/media/71983/download>).   
-**3.05.08.02.03**|  USFDA| 4| Statistical Data|  | This is the location for statistical data associated with the test described in the custom heading above. This includes metadata and data line listings in their native formats, such as, but not limited to: SAS; XPORT; XML; SGML; S-Plus; R files; ASCII; Molfiles; and Excel. **The applicant is advised to contact the specific review division for further guidance on the specific data format that is preferred.****NOTE: Do not place PDFs here**.   
-**3.05.09**|  IMDRF| 2| Sterilization and Reprocessing Validation| **NO CONTENT AT THIS LEVEL**|   
-**3.05.09.01**|  IMDRF| 3| End-User Sterilization| Information and validation of end-user sterilization where it is necessary for the end-user to sterilize the device. This should include:
-
-  1. A description of the sterilization process (method, parameters) and Sterility Assurance Level (SAL)
-  2. A summary of the non-clinical evidence that falls within this category
-  3. A discussion of the non-clinical testing considered for the device and support for their selection or omission from the verification and validation studies conducted in this category (i.e., what tests were considered and why they were or were not performed)
-  4. If applicable, state the rationale on the durability of the product against two or more sterilization.
-  5. Discussion to support why the evidence presented is sufficient to support the application.   
-
-**OR  
-**
-
-  1. A statement of why this category of non-clinical laboratory study is not applicable to this case.  
-
-**NOTE:** The sponsor/applicant should explicitly address any existing regional regulatory guidance related to the non-clinical study results provided in this section regarding the subject device| **EU** For specific MDR requirements see MDR Annex I GSPR 23.4 (i) and (m). Guidance is also available in EN ISO 17664.**NMPA** The recommended sterilization process (methods and parameters), the basis for the determination of the recommended sterilization process, and the relevant research data for verification should be clearly defined; for products that can withstand two or more sterilizations, The research data on the tolerance of the product's recommended sterilization process should be provided.For medical devices that are delivered in a non-sterile state and need to be sterilized before use, research materials that prove that the packaging can reduce the risk of microbial contamination of the product and are applicable to the sterilization method specified by the manufacturer shall be provided.**USFDA** Refer to Guidance for Industry and Staff - Reprocessing Medical Devices in Health Care Settings: Validation Methods and Labeling  
-**3.05.09.01.01**|  IMDRF| 4| [Study description, study identifier, date of initiation]| **NO CONTENT AT THIS LEVEL** This heading should be CUSTOM AND BASED ON STUDY DETAILS and created **for each study** under the parent heading. The sub headings below would be for this study alone.|   
-**3.05.09.01.01.01**|  IMDRF| 5| Summary| A summary of the specific study described in the custom heading above.  
-|   
-**3.05.09.01.01.02**|  IMDRF| 5| Full Report| The test report for the test described in the custom heading above.| **USFDA 510(k)** If referencing a standard, refer to [Guidance for Industry and FDA Staff - Appropriate Use of Voluntary Consensus Standards in Premarket Submissions for Medical Devices](<https://www.fda.gov/media/71983/download>).   
-**3.05.09.01.01.03**|  USFDA| 5| Statistical Data|  | This is the location for statistical data associated with the test described in the custom heading above. This includes metadata and data line listings in their native formats, such as, but not limited to: SAS; XPORT; XML; SGML; S-Plus; R files; ASCII; Molfiles; and Excel. **The applicant is advised to contact the specific review division for further guidance on the specific data format that is preferred.****NOTE: Do not place PDFs here**.   
-**3.05.09.02**|  IMDRF| 3| Manufacturer Sterilization Validation| Information and validation of manufacturer sterilization where the device is provided sterile. This should include:
-
-  1. A description of the sterilization process (method, parameters) and Sterility Assurance Level (SAL)
-  2. State if parametric release is used
-  3. A summary of the non-clinical evidence that falls within this category
-  4. Information on the ongoing revalidation of the process. Typically, this would consist of arrangements for, or evidence of, revalidation of the packaging and sterilization processes.
-  5. A discussion of the non-clinical testing considered for the device and support for their selection or omission from the verification and validation studies conducted in this category (i.e., what tests were considered and why they were or were not performed)
-  6. Discussion to support why the evidence presented is sufficient to support the application.   
-
-**OR  
-**
-
-  1. A statement of why this category of non-clinical laboratory study is not applicable to this case.  
-
-**NOTE:** The sponsor/applicant should explicitly address any existing regional regulatory guidance related to the non-clinical study results provided in this section regarding the subject device| **EU** For specific MDR requirements see MDR Annex II Section 6.2 (e). Guidance is also available in EN ISO 11137 series, EN ISO 11135, EN ISO 17665, EN ISO 13408 series, EN ISO 20857, EN ISO 14937.**USFDA** Refer to Guidance for Industry and Staff - Submission and Review of Sterility Information in Premarket Notification (510(k)) Submissions for Devices Labeled as Sterile**NMPA** The sterilization process (methods and parameters) and the sterility assurance level (SAL) should be clarified, and relevant research materials for sterilization verification and confirmation should be provided.  
-**3.05.09.02.01**|  IMDRF| 4| [Study description, study identifier, date of initiation]| **NO CONTENT AT THIS LEVEL** This heading should be CUSTOM AND BASED ON STUDY DETAILS and created **for each study** under the parent heading. The sub headings below would be for this study alone.|   
-**3.05.09.02.01.01**|  IMDRF| 5| Summary| A summary of the specific study described in the custom heading above.|   
-
-**3.05.09.02.01.02**|  IMDRF| 5| Full Report| The test report for the test described in the custom heading above.| **USFDA 510(k)** If referencing a standard, refer to [Guidance for Industry and FDA Staff - Appropriate Use of Voluntary Consensus Standards in Premarket Submissions for Medical Devices](<https://www.fda.gov/media/71983/download>).   
-**3.05.09.02.01.03**|  USFDA| 5| Statistical Data|  | This is the location for statistical data associated with the test described in the custom heading above. This includes metadata and data line listings in their native formats, such as, but not limited to: SAS; XPORT; XML; SGML; S-Plus; R files; ASCII; Molfiles; and Excel. **The applicant is advised to contact the specific review division for further guidance on the specific data format that is preferred.****NOTE: Do not place PDFs here**.   
-**3.05.09.03**|  IMDRF| 3| Residual Toxicity| Contain the information on the testing for sterilant residues, where the device is supplied sterile and sterilized using a method susceptible to residues. This should include:
-
-  1. A summary of the non-clinical evidence that falls within this category
-  2. A discussion of the non-clinical testing considered for the device and support for their selection or omission from the verification and validation studies conducted in this category (i.e., what tests were considered and why they were or were not performed)
-  3. Discussion to support why the evidence presented is sufficient to support the application.   
-
-**OR  
-**
-
-  1. A statement of why this category of non-clinical laboratory study is not applicable to this case.  
-
-**NOTE:** The sponsor/applicant should explicitly address any existing regional regulatory guidance related to the non-clinical study results provided in this section regarding the subject device.| **EU** See MDR Annex II Section 6.2 (e) for requirements.**NMPA** If the product may produce residual substances after sterilization or disinfection, a residual toxicity study should be carried out on the sterilized or disinfected product, the residual information and the treatment method adopted should be clarified, and relevant research materials should be provided.  
-**3.05.09.03.01**|  IMDRF| 4| [Study description, study identifier, date of initiation]| **NO CONTENT AT THIS LEVEL** This heading should be CUSTOM AND BASED ON STUDY DETAILS and created **for each study** under the parent heading. The sub headings below would be for this study alone.|   
-**3.05.09.03.01.01**|  IMDRF| 5| Summary| A summary of the specific study described in the custom heading above.|   
-**3.05.09.03.01.02**|  IMDRF| 5| Full Report| The test report for the test described in the custom heading above.| **USFDA 510(k)** If referencing a standard, refer to [Guidance for Industry and FDA Staff - Appropriate Use of Voluntary Consensus Standards in Premarket Submissions for Medical Devices](<https://www.fda.gov/media/71983/download>).   
-**3.05.09.03.01.03**|  USFDA| 5| Statistical Data|  | This is the location for statistical data associated with the test described in the custom heading above. This includes metadata and data line listings in their native formats, such as, but not limited to: SAS; XPORT; XML; SGML; S-Plus; R files; ASCII; Molfiles; and Excel. **The applicant is advised to contact the specific review division for further guidance on the specific data format that is preferred.****NOTE: Do not place PDFs here**.   
-**3.05.09.04**|  IMDRF| 3| Cleaning and Disinfection Validation| Contains information on the validation of cleaning and disinfection instructions for reusable devices. This should include:
-
-  1. A summary of the non-clinical evidence that falls within this category
-  2. A discussion of the non-clinical testing considered for the device and support for their selection or omission from the verification and validation studies conducted in this category (i.e., what tests were considered and why they were or were not performed)
-  3. Discussion to support why the evidence presented is sufficient to support the application. 
-
-**OR**
-
-  1. A statement of why this category of non-clinical laboratory study is not applicable to this case.
-
-**NOTE:** The sponsor/applicant should explicitly address any existing regional regulatory guidance related to the non-clinical study results provided in this section regarding the subject device.| **EU** For specific MDR requirements see MDR Annex I GSPR 23.4 (n).  
-**3.05.09.04.01**|  IMDRF| 4| [Study description, study identifier, date of initiation]| **NO CONTENT AT THIS LEVEL** This heading should be CUSTOM AND BASED ON STUDY DETAILS and created **for each study** under the parent heading. The sub headings below would be for this study alone.|   
-**3.05.09.04.01.01**|  IMDRF| 5| Summary| A summary of the specific study described in the custom heading above.|   
-**3.05.09.04.01.02**|  IMDRF| 5| Full Report| The test report for the test described in the custom heading above.| **USFDA 510(k)** If referencing a standard, refer to [Guidance for Industry and FDA Staff - Appropriate Use of Voluntary Consensus Standards in Premarket Submissions for Medical Devices](<https://www.fda.gov/media/71983/download>).   
-**3.05.09.04.01.03**|  USFDA| 5| Statistical Data|  | This is the location for statistical data associated with the test described in the custom heading above. This includes metadata and data line listings in their native formats, such as, but not limited to: SAS; XPORT; XML; SGML; S-Plus; R files; ASCII; Molfiles; and Excel. **The applicant is advised to contact the specific review division for further guidance on the specific data format that is preferred.****NOTE: Do not place PDFs here**.   
-**3.05.09.05**|  ANVISA, EU, HC, USFDA, JP| 3| Reprocessing of Single Use Devices, Validation Data| The required validation data including cleaning and sterilization data, and functional performance data demonstrating that each single use device (SUD) will continue to meet specifications after the maximum number of times the device is reprocessed as intended by the person submitting the premarket notification.**NOTE:** The sponsor/applicant should explicitly address any existing regional regulatory guidance related to the non-clinical study results provided in this section regarding the subject device.| **ANVISA** ANVISA’s specific requirements for SUD and reprocessing must be considered.**EU** For specific MDR requirements see MDR Article 17 and Commission Implementing Regulation (EU) 2020/1207 on common specifications for the reprocessing of single-use devices.USFDARefer to the Guidance for Industry and FDA Staff – “Reprocessing Medical Devices inHealth Care Settings: Validation Methods and Labeling.”**USFDA 510(k)** Please see Appendix E of the Reprocessing Guidance for a list of devices which require data to validate reprocessing instructions.**JP** Refer to the Guidance for Industry – “Cleaning guideline.” and “Pick up from hospitals, transport, and acceptance process at the manufacturing plant.”  
-**3.05.09.05.01**|  ANVISA, HC, USFDA| 4| [Study description, study identifier, date of initiation]| **NO CONTENT AT THIS LEVEL** This heading should be CUSTOM AND BASED ON STUDY DETAILS and created **for each study** under the parent heading. The sub headings below would be for this study alone.|   
-**3.05.09.05.01.01**|  ANVISA, HC, USFDA| 5| Summary| A summary of the specific study described in the custom heading above.  
-|   
-**3.05.09.05.01.02**|  ANVISA, HC, USFDA| 5| Full Report| The test report for the test described in the custom heading above.| **USFDA 510(k)** Required for reprocessed single use devices.If referencing a standard, refer to [Guidance for Industry and FDA Staff - Appropriate Use of Voluntary Consensus Standards in Premarket Submissions for Medical Devices](<https://www.fda.gov/media/71983/download>).   
-**3.05.09.05.01.03**|  USFDA| 5| Statistical Data|  | This is the location for statistical data associated with the test described in the custom heading above. This includes metadata and data line listings in their native formats, such as, but not limited to: SAS; XPORT; XML; SGML; S-Plus; R files; ASCII; Molfiles; and Excel. **The applicant is advised to contact the specific review division for further guidance on the specific data format that is preferred.****NOTE: Do not place PDFs here**.   
-**3.05.10**|  IMDRF| 2| Animal Testing| Contains information about any animal studies conducted to support the submission. This should include:
-
-  1. A summary of the non-clinical evidence that falls within this category
-  2. A discussion of the non-clinical testing considered for the device and support for their selection or omission from the verification and validation studies conducted in this category (i.e., what tests were considered and why they were or were not performed)
-  3. Discussion to support why the evidence presented is sufficient to support the application.   
-
-**OR  
-**
-
-  1. A statement of why this category of non-clinical laboratory study is not applicable to this case.  
-
-**NOTE:** The sponsor/applicant should explicitly address any existing regional regulatory guidance related to the non-clinical study results provided in this section regarding the subject device.| **EU** For specific MDR requirements see MDR Annex II Section 6.1 (a).**USFDA** Requirements for reporting non-clinical data laboratory study results are outline in 21 CFR 58.185**TGA** Specify if the animal studies have been conducted under Good Laboratory Practices conditions. **NMPA** In order to avoid unnecessary animal experiments, scientific decisions should be made on whether or not to carry out animal experiments on medical devices, and demonstration/explanatory materials should be provided. If the decision is made to verify/confirm the effectiveness of product risk control measures through animal test research, animal test research materials shall be provided, and the research materials shall include test purpose, laboratory animal information, test equipment and control information, number of animals, evaluation indicators, and test The results, the basis for determining the design elements of animal experiments, etc.  
-**3.05.10.01**|  IMDRF| 3| [Study description, study identifier, date of initiation, date of completion]| **NO CONTENT AT THIS LEVEL** This heading should be CUSTOM AND BASED ON STUDY DETAILS and created **for each study** under the parent heading. The sub headings below would be for this study alone.|   
-**3.05.10.01.01**|  IMDRF| 4| Summary| A summary of the specific study described in the custom heading above.  
-|   
-**3.05.10.01.02**|  IMDRF| 4| Full Report| The test report for the test described in the custom heading above.| **USFDA 510(k)** If referencing a standard, refer to [Guidance for Industry and FDA Staff - Appropriate Use of Voluntary Consensus Standards in Premarket Submissions for Medical Devices](<https://www.fda.gov/media/71983/download>).   
-**3.05.10.01.03**|  USFDA| 4| Statistical Data|  | This is the location for statistical data associated with the test described in the custom heading above. This includes metadata and data line listings in their native formats, such as, but not limited to: SAS; XPORT; XML; SGML; S-Plus; R files; ASCII; Molfiles; and Excel. **The applicant is advised to contact the specific review division for further guidance on the specific data format that is preferred.****NOTE: Do not place PDFs here**.   
-**3.05.11**|  IMDRF| 2| Usability/Human Factors| Studies specifically assessing the instructions and/or device design in terms of impact of human behaviour, abilities, limitations, and other characteristics on the ability of the device to perform as intended should be included here. This should include:
-
-  1. A summary of the non-clinical evidence that falls within this category
-  2. A statement of the test environment and relation to the intended use environment
-  3. A discussion of the non-clinical testing considered for the device and support for their selection or omission from the verification and validation studies conducted in this category (i.e., what tests were considered and why they were or were not performed)
-  4. If a clinical study has been conducted that includes human factors/usability endpoints, reference to the studies and endpoints should be made, but full results do not need to be repeated.
-  5. Discussion to support why the evidence presented is sufficient to support the application.   
-
-**OR  
-**
-
-  1. A statement of why this category of non-clinical laboratory study is not applicable to this case.  
-
-**NOTES:**
-
-  1. If a clinical study has been conducted that includes usability/human factors endpoints, **reference to the studies and endpoints should be made, but full results do not need to be repeated and should be included in Chapter 4 – Clinical Evidence.**
-  2. The sponsor/applicant should explicitly address any existing regional regulatory guidance related to the non-clinical study results provided in this section regarding the subject device.
-
-| **EU** For specific MDR requirements see MDR Annex II Section 6.1 (a). Guidance is also available in EN 62366-1 Medical devices – Part 1: Application of usability engineering to medical devices.**USFDA** Please consult the “[Guidance for Industry and Food and Drug Administration Staff - Applying Human Factors and Usability Engineering to Medical Devices](<https://www.fda.gov/media/80481/download>)”  
-**3.05.11.01**|  IMDRF| 3| [Study description, study identifier, date of initiation]| **NO CONTENT AT THIS LEVEL** This heading should be CUSTOM AND BASED ON STUDY DETAILS and created **for each study** under the parent heading. The sub headings below would be for this study alone.|   
-**3.05.11.01.01**|  IMDRF| 4| Summary| A summary of the specific study described in the custom heading above.|   
-**3.05.11.01.02**|  IMDRF| 4| Full Report| The test report for the test described in the custom heading above.| **USFDA 510(k)** If referencing a standard, refer to [Guidance for Industry and FDA Staff - Appropriate Use of Voluntary Consensus Standards in Premarket Submissions for Medical Devices](<https://www.fda.gov/media/71983/download>).   
-**3.05.11.01.03**|  USFDA| 4| Statistical Data|  | This is the location for statistical data associated with the test described in the custom heading above. This includes metadata and data line listings in their native formats, such as, but not limited to: SAS; XPORT; XML; SGML; S-Plus; R files; ASCII; Molfiles; and Excel. **The applicant is advised to contact the specific review division for further guidance on the specific data format that is preferred.****NOTE: Do not place PDFs here**.   
-**3.05.12**|  TGA| 2| Evidence for devices with preservatives or antimicrobial claims| Applications for:
-
-  * multi-use products such as eye lubricants and contact lens care products that contain a preservative, evidence to support its preservation efficacy must be provided. 
-  * products such as sterile dressings with antimicrobial claims, evidence to support its antimicrobial efficacy must be provided. 
+**3.02**| | |  章节已废除| 原内容已移动到第2章|
+**3.03**| | |  章节已废除| 原内容已移动到第2章|
+**3.04**| | |  章节已废除| 原内容已移动到第2章|
+**3.05**|  IMDRF| 1| 非临床研究| **此处无内容**|
+**3.05.01**|  IMDRF| 2| 物理和机械特性| 应在本节中提供支持相关设备物理或机械性能的证据。这应包括：
+
+1.  本类别的非临床证据摘要
+
+2. 讨论该设备所考虑的非临床测试，并支持选择或不选择在本项目（即，所进行的验证和验证研究）中进行的测试（即，哪些测试被考虑，以及原因）。
+
+3. 如果适用，关于磨损或设备涂层中的颗粒测试。
+
+4. 讨论，说明所提供的证据是否足以支持申请。
+
+**或者**
+
+1. 声明为什么该非临床实验室研究类别不适用于本案例。
+
+**注意：** 申请人/制造商应明确说明与本部分提供的非临床研究结果相关的任何现有的区域监管指导，这些指导与所涉及的设备相关。| **欧盟** 针对特定 MDR 要求的具体信息，请参见 MDR 第 2 卷第 6.1(a) 和 (b) 条。 **NMPA** 应提供确定产品化学/材料特性、设计输入来源、临床意义、所使用的标准或方法、使用原因以及理论基础的依据。
+**3.05.01.01**|  IMDRF| 3| [研究描述、研究标识符、开始日期] | **此处无内容**。 此标题应根据研究详情进行自定义，并在父标题下为每个研究创建。 以下子标题仅适用于该研究。 例如，结构将如下所示：
+Component A 疲劳测试，MT4203，2010-10-10
+MT4203 摘要
+MT4203 完整报告
+Assembly B 兼容性测试，MT4584，2011-01-23
+MT4584 摘要
+MT4584 完整报告|
+**3.05.01.01.01**|  IMDRF| 4| 摘要 | 针对上述自定义标题中描述的具体研究的摘要。
+
+**3.05.01.01.02**| IMDRF| 4| 完整报告| 针对上述自定义标题中描述的测试的测试报告。| **USFDA 510(k)** 如果引用标准，请参考 [《为医疗器械的预先提交提供指导 - 行业和FDA工作人员适当使用自愿共识标准》](<https://www.fda.gov/media/71983/download>)。
+**3.05.01.01.03**| USFDA| 4| 统计数据| | 这是与上述自定义标题中描述的测试相关的统计数据的存储位置。这包括元数据和以其原生格式的数据行列表，例如但不限于：SAS；XPORT；XML；SGML；S-Plus；R文件；ASCII；Molfiles；和Excel。**建议申请人联系具体的审查部门，以获得有关首选的具体数据格式的进一步指导。** *注意：请勿在此处放置PDF文件*。
+**3.05.02**| IMDRF| 2| 化学/材料特性鉴定| 包含描述设备及其组件的化学或结构组成性的测试应包含在此部分。这应包括：
+
+1.  该类别内非临床证据的摘要。
+
+2.  对设备进行考虑的非临床测试及其选择或不选择在本项目中进行的验证和验证研究的支持（即，哪些测试被考虑，以及为什么它们被执行或未执行）。
+
+3.  讨论，以支持所呈现的证据是否足以支持申请。
+
+**或者**
+
+1. 声明为什么该非临床实验室研究类别不适用于本案例。
+
+**请注意：** 申请人应明确说明与本部分提供的非临床研究结果相关的任何现有的区域监管指导，这些指导与所涉及的设备相关。| **欧盟** 针对特定 MDR 要求的具体信息，请参见 MDR 第 2 卷第 6.1(b) 和 6.2(d) 条。特别是，对于在 MDR 第 1 卷 GSPR 10.4.1 中列出的，或包含或含有 1A 或 1B 类的致癌、致突变或对生殖有毒（“CMR”）物质（符合第 6 卷第 3 部分关于第 (EC) 1272/2008 规定的要求），或具有内分泌干扰性质的物质，必须符合 MDR 中关于证明这些物质存在的要求。 针对这些物质（GSPR 10.4.5）的特定标签要求也必须满足。 如果供应商提供关于 CMR 或内分泌干扰物质的信息，制造商应确认这些信息的完整性，并描述为了确认这些信息和这些物质存在的任何额外的测试或分析。
+**3.05.02.01**|  IMDRF| 3| [研究描述、研究标识符、开始日期] | **无内容** 此标题应根据研究详情进行自定义，并在父标题下为每个研究创建。 以下子标题仅适用于本研究。
+**3.05.02.01.01**|  IMDRF| 4| 摘要 | 针对上述自定义标题中描述的具体研究的摘要。
+**3.05.02.01.02**|  IMDRF| 4| 完整报告 | 针对上述自定义标题中描述的测试报告。 **美国 FDA 510(k)** 如果引用标准，请参考 [《为医疗器械的预先提交提供自愿共识标准适当使用的指南 - 行业和 FDA 员工》](<https://www.fda.gov/media/71983/download>)。
+**3.05.02.01.03**|  USFDA| 4| 统计数据 |  | 这是与上述自定义标题中描述的测试相关的统计数据的位置。 这包括元数据和以其原生格式的数据行列表，例如但不限于：SAS；XPORT；XML
+
+1.  本类别的非临床证据摘要
+
+2. 讨论该设备所考虑的非临床测试，并支持选择或不选择在本项目（即，所进行的验证和验证研究）中进行的测试（即，哪些测试被考虑，以及原因）。
+
+3.  讨论，以支持所呈现的证据是否足以支持申请。
+
+**或者**
+
+1. 说明为什么该研究类别不适用于本案。
+
+**注意：** 申请人应明确说明与本部分提供的非临床研究结果相关的任何现有的区域监管指导，针对所涉及的设备。| **欧盟** 针对特定 MDR 要求的具体信息，请参见 MDR 第 2 卷第 6.1(b) 条。 此外，还可以在 EN 60601-1《医疗电气设备 – 第 1 部分：基本安全和基本性能的通用要求》和 EN 60601-1-2《医疗电气设备 – 第 1-2 部分：基本安全和基本性能的通用要求 – 补充标准：电磁干扰 – 要求和测试》中找到指导。**NMPA** 应提供关于电气安全、机械和环境保护以及电磁兼容的研究材料，并说明适用的标准和所进行的研究。
+**3.05.03.01**| IMDRF| 3| [研究描述、研究标识符、起始日期] | **此处无内容** 此标题应根据研究详情进行自定义，并在父标题下为每个研究创建。 以下子标题仅适用于本研究。|
+**3.05.03.01.01**| IMDRF| 4| 摘要 | 针对上述自定义标题中描述的具体研究的摘要。|
+**3.05.03.01.02**| IMDRF| 4| 完整报告 | 针对上述自定义标题中描述的测试报告。 **美国 FDA 510(k)** 如果引用标准，请参考 [《为医疗器械的预先提交提供自愿共识标准适当使用的指南 - 针对 FDA 员工和行业》](<https://www.fda.gov/media/71983/download>)。
+**3.05.03.01.03**| USFDA| 4| 统计数据 |  | 这是与上述自定义标题中描述的测试相关的统计数据的位置。 这包括元数据和以其原始格式（例如，但不限于：SAS；XPORT；XML；SGML；S-Plus；R 文件；ASCII；Molfiles；和 Excel）呈现的数据行列表。 **申请人应联系具体的审查部门，以获得有关首选的具体数据格式的进一步指导。** **注意：请勿在此处放置 PDF 文件。**
+**3
+
+1.  本类别的非临床证据摘要
+
+2. 讨论该设备所考虑的非临床测试，并支持选择或不选择在本项目（即，所进行的验证和验证研究）中进行的测试（即，哪些测试被考虑，以及原因）。
+
+3.  讨论，以支持所呈现的证据是否足以支持申请。
+
+**或**
+
+1. 声明为什么该非临床实验室研究类别不适用于本案例。
+
+**注意：** 申请人/赞助方应明确说明与本部分中提供的非临床研究结果相关的任何现有的区域法规指导，这些结果与所涉及的设备相关| **欧盟** 针对特定 MDR 要求，请参见 MDR 第 I 附录 GSPRs 14.2(b) 和 16 以及第 II 附录 6.1(b)。 此外，还可以在 EN 60601-1-3《医疗电气设备 - 基本安全和基本性能的通用要求》中找到指导。 相关标准：诊断 X 射线设备中的辐射防护以及相关的 EN 60601-2-xx 标准。 **TGA** MR 标签声称，这些标签应基于实验室测试，以确保设备的安全性、性能，包括以下风险：注意：如果提供了充分的科学依据或经过验证的计算模型/模拟，则可能不需要进行测试。
+
+* 磁场诱导的位移力
+
+* 磁场诱导的扭矩
+
+* 图像伪影的程度
+
+* 由射频引起的加热或由随时间变化的磁场梯度引起的加热 (dB/dt)
+
+* 梯度引起的振动
+
+* 梯度诱导的外在电势（意外刺激）
+
+* 从MRI检查中整流的射频脉冲（意外刺激）
+
+**NMPA** 对于具有辐射或潜在辐射危害的产品（包括离子辐射和非离子辐射），应提供辐射安全研究材料，包括：a) 解释符合的通用和具体辐射安全标准，并详细说明标准中不适用的条款的原因；b) 指出辐射类型并提供辐射安全验证数据。应确保辐射能量、辐射分布和其他关键辐射特性可以合理控制和调整，并在使用过程中进行估算和监测。（如果适用）c) 提供保护措施，以减少用户、其他人以及患者在运输、存储、安装和使用过程中吸收的辐射剂量，以及避免误用的方法。对于需要安装的产品，应提供验收和性能测试、验收标准和维护程序的详细信息。
+**3.05.04.01**|  IMDRF| 3| [研究描述、研究标识符、起始日期] | **此处无内容** 此标题应根据研究详情进行自定义，并在父标题下为每个研究创建。以下子标题仅适用于该研究。|
+**3.05.04.01.01**|  IMDRF| 4| 摘要 | 总结上述自定义标题中描述的具体研究。
 
 |   
-**3.06**|  ANVISA, HC, HSA, JP, USFDA| 1| Non-clinical Bibliography| This heading should include:
+**3.05.04.01.02**| IMDRF| 4| 完整报告| 针对上述自定义标题中描述的测试的测试报告。 **USFDA 510(k)** 如果引用标准，请参考 [《为医疗器械的预先提交提供自愿共识标准适当使用的指南 - 针对行业和 FDA 员工》](<https://www.fda.gov/media/71983/download>)。
+**3.05.04.01.03**| USFDA| 4| 统计数据| ****| 这是与上述自定义标题中描述的测试相关的统计数据的存储位置。 这包括元数据和以其原始格式（例如，但不限于：SAS；XPORT；XML；SGML；S-Plus；R 文件；ASCII；Molfiles；和 Excel）的数据行列表。 **建议申请人联系具体的审查部门，以获取有关首选的具体数据格式的进一步指导。** 请注意：不要在此处放置 PDF 文件。
+**3.05.05**| IMDRF| 2| 软件/固件 / 编程或可编程医疗器械| **此处无内容** 本部分应包含与成品设备中使用的软件设计、开发过程和软件验证的证据，以及相关的子部分。 此外，还应涵盖所有不同的硬件配置以及，如果适用，标签中标识的操作系统。 文档应按软件或硬件系统进行组织。
+**3.05.05.01**| IMDRF| 3| 软件/固件描述| 软件描述应包括：
 
-  1. A listing of published non-clinical studies involving this specific device (e.g. cadaveric evaluations, biomechanical assessments)
-  2. Legible copies of key articles, including translation where applicable to meet the regulators language requirements
-  3. Discussion to support why the evidence presented is sufficient to support the application.   
+1. 对重要软件功能和功能的全面概述，可能包括图像、流程图和状态图，以便充分解释软件的功能，
 
-**OR  
-**
+2. 软件版本 - 必须明确标识所测试的版本，并且应与软件的发布版本相匹配；否则，必须提供解释。
 
-  1. A statement that no literature related to the device was found.
+3. 标识由软件控制的设备功能、编程语言、硬件平台、操作系统（如果适用）、使用标准软件（如果适用）、以及实现过程。
+
+如果产品是具有机器学习功能的医疗器械（例如，自适应模型、自然语言处理、神经网络以及相关方法），请提供以下内容（如果适用）：
+
+1. 详细描述每个算法/模型的描述，包括其输入、输出、用于训练、测试和验证的数据选择和管理（术语在不同地区可能有所不同）；
+
+2. 模型选择和评估；
+
+3. 风险管理活动；
+
+4. 用于提供透明度的材料/方法；以及
+
+5. 市场后性能监测活动。
+
+| **ANVISA** 对于医疗器械或独立软件，请参见 ANVISA 的 RDC nº 751/2022 和 RDC nº 657/2022 中要求的相应文件；以及 ANVISA 指导文件 nº 38/2020 - 医疗器械中的网络安全原则和实践。如果医疗器械采用人工智能技术，则应提供算法描述，包括基本算法信息、数据收集、算法训练、算法性能评估、验证等。| **欧盟** 如果医疗器械是独立的软件或依赖于软件，则需要提供相应的文件。请参见 MDR Annex II 第 6.1(b) 条的要求。此外，EN 62304 医疗器械软件 - 软件生命周期流程以及，如果适用，EN 82304-1 健康软件 - 产品安全通用要求也提供了指导。| **美国 FDA** 确定文档等级（基本或增强），并提供该等级的理由说明。| **TGA** 请参考关于“基于软件的医疗器械的监管”的指导文件（<https://www.tga.gov.au/regulation-software-based-medical-devices>）。| **NMPA** a) 软件 对于包含软件组件的产品和独立软件，应提供软件研究材料，包括基本信息、实施过程、核心功能、结论等。详细程度取决于软件的安全级别（严重、中等和轻微）。其中，基本信息包括软件识别、安全级别、结构功能、物理拓扑、运行环境和注册历史。实现过程包括开发概述、风险管理、要求规范、生命周期、验证和确认、可追溯性分析、缺陷管理、更新历史，以及阐明核心功能、核心算法和预期用途之间的对应关系。b) 预制软件 如果产品使用标准软件，则应提供与该标准软件的类型和使用情况相对应的软件研究数据和网络安全研究数据。c) 人工智能 如果产品采用深度学习等人工智能技术来实现预期功能和目的，则应提供算法研究材料，包括基本算法信息、数据收集、算法训练、算法性能评估等。d) 其他 如果产品采用移动计算、云计算、虚拟现实等信息和通信技术来实现预期功能和用途，则应提供相应的技术研究材料，包括基本信息、要求规范、风险管理、验证和确认、维护计划等。| **3.0
+
+1. 描述异常现象及其可能的原因；
+
+2. 确定异常现象的发现方式，并在可能的情况下，确定异常现象的根本原因；
+
+3. 评估异常现象对设备安全性和有效性的影响，包括操作者使用和人因因素的考虑；
+
+4. 评估结果；
+
+5. 基于风险的理由，说明不纠正或修复该缺陷，并与风险管理计划或程序保持一致。
+
+| **欧盟** 参见 EN 62304 了解更多信息
+**3.05.05.11**| 欧盟、美国 FDA、HC、HSA、TGA| 3| 网络安全| 欲了解“医疗器械网络安全通用内容”的描述，请参考 [IMDRF/CYBER WG/N60 FINAL:2020 “医疗器械网络安全：原则和实践”](<https://www.imdrf.org/sites/default/files/docs/imdrf/final/technical/imdrf-tech-200318-pp-mdc-n60.pdf>)| **欧盟** 参见 MDR 附录 I GSPR 14.5、17 和附录 II 第 6.2 (g) 条的要求。**HC** 指导文件：[医疗器械网络安全：上市前要求](<https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/application-information/guidance-documents/cybersecurity/document.html>)**USFDA** 行业和员工指导 – “[医疗器械网络安全]”(<https://www.fda.gov/media/119933/download>) [质量系统考虑和 ](<https://www.fda.gov/media/119933/download>) [上市前提交内容](<https://www.fda.gov/media/119933/download>)”**TGA** 行业和消费者指导 “[针对行业，医疗器械网络安全指导]”(<https://www.tga.gov.au/how-we-regulate/manufacturing/medical-devices/manufacturer-guidance-specific-types-medical-devices/regulation-software-based-medical-devices/medical-device-cyber-security-guidance-industry>)”。 **NMPA** 独立软件，具有电子数据交换、远程控制或用户访问功能，以及包含软件组件的产品，应提供网络安全研究材料，包括基本信息、实施流程、漏洞评估、结论等。 详细程度取决于软件的安全级别。 其中，基本信息包括软件信息、数据架构、网络安全能力、网络安全补丁和安全软件。 实施流程包括风险管理、要求规范、验证和确认、可
+
+1. 列出所有直接或间接与患者或使用者接触的材料清单。
+
+2. 报告所进行的测试、所应用的标准、测试协议、数据分析以及结果总结。
+
+3. 讨论针对该设备的非临床测试，并对在本次类别（即，哪些测试被考虑以及原因）的验证和验证研究中选择或排除这些测试的合理性进行说明。
+
+4. 讨论，说明所提供的证据是否足以支持申请。
+
+**或**
+
+1. 声明为什么该非临床实验室研究类别不适用于本案例。
+
+**注意：**
+
+1. 申请人/赞助方应明确说明与本部分中提供的非临床研究结果相关的任何现有的区域监管指导意见。
+
+2. 应在成品、已进行灭菌（如果提供灭菌产品）的设备样本上进行测试。
+
+| **欧盟** 针对特定 MDR 要求，请参见 MDR 第 I 附件 GSPRs 10 和 13，以及第 II 附件 6.1(b) 和 6.2(b)。 此外，EN ISO 10993-1《医疗器械的生物评估 – 第 1 部分：在风险管理过程中进行评估和测试》也提供了指导。**TGA** 对于与患者或用户直接接触的每种材料，请提供：
+
+* 材料供应商的名称详细信息
+
+* 材料供应商提供的分析报告或符合性证书的复印件，以证明材料的质量。
+
+* 设备中每种材料的含量，以及支持其安全性的证据
+
+对于含有药物成分的医疗器械，需要提供以下信息，以支持该产品的质量和安全性：
+
+* 提供支持其质量的证据，包括[欧洲药品质量局](<https://www.edqm.eu/en/>)的药品物质适宜性证书，或者如果相关，提供向TGA的药品主文件(DMF)的引用。
+
+* 获得药品制造商的“访问许可”形式的授权，以便TGA访问EDQM证书。该表格模板可以在“模块 1.6.3 - 药品主文件/PMF/CE 的标准访问信函”中找到，该模块位于ARGPM（<https://www.tga.gov.au/form/ctd-module-1-additional-forms-and-proformas#mod1-6>）中；
+
+* 如果没有EDQM证书，则提供TGA的药品主文件(DMF)或血浆主文件(PMF)，并提供参考编号。
+
+* 获得药品制造商的“访问许可”形式的授权，以便TGA访问与申请相关的DMF或PMF。该表格模板可以在澳大利亚处方药品监管指南(ARGPM)的“模块 1.6.3 - 药品主文件/PMF/CE 的标准访问信函”中找到（<https://www.tga.gov.au/form/ctd-module-1-additional-forms-and-proformas#mod1-6>）。
+
+* 制造商声明，也可以在“[模块 1.6.2 申请人声明 - 药品主文件、血浆主文件和EDQM适宜性证书]”中找到（<https://www.tga.gov.au/sites/default/files/pm-argpm-ctd-module1-forms-module-1-6-3-130601.DOCX>）的ARGPM（与上述“访问许可”的网站相同）。
+
+**NMPA** 对于直接或间接与患者接触的医疗器械，应进行生物评估。生物评估数据应包括：
+a) 描述产品所使用的材料及其与人体的接触方式，设计和生产过程中可能产生的污染物和残留物，以及设计和生产过程中可能产生的沉淀物（包括渗滤液和/或挥发物）和降解相关信息，以及与医疗器械直接接触的产品的、加工残留物和包装材料。
+b) 描述申报产品的物理和/或化学信息，并考虑材料的特性（如果适用）。如果该设备的物理作用可能导致生物风险，则应进行评估。
+c) 生物评估的策略、依据和方法。
+d) 现有数据的评估和结果。
+e) 选择或豁免生物实验的原因和依据。
+f) 完成生物评估所需的其他数据。
+
+如果医疗器械材料可能释放到患者和使用者的微粒，从而导致与微粒大小和性质相关的风险，例如纳米材料，则应提供所有包含、产生或由这些材料组成的医疗器械的相关生物风险研究数据。
+
+如果申报产品将根据其预期用途（例如可吸收产品）被人体吸收和代谢，则应提供关于所用材料/物质与人体组织、细胞和体液的相容性的研究数据。
+
+**3.05.06.01**| IMDRF| 3| [研究描述、研究标识符、起始日期] | **此处无内容** 此标题应根据研究详情进行自定义，并在父标题下为每个研究创建。以下子标题仅适用于该研究。|
+**3.05.06.01.01**| IMDRF| 4| 摘要 | 描述在上述自定义标题中描述的具体研究的摘要。|
+**3.05.06.01.02**| IMDRF| 4| 完整报告 | 描述在上述自定义标题中描述的测试报告。 **USFDA 510(k)** 如果引用标准，请参考 [《为医疗器械的预先上市提交提供自愿共识标准适当使用的指南 - 针对 FDA 员工和行业》](<https://www.fda.gov/media/71983/download>)。
+**3.05.06.01.03**| US
+
+1.  本类别的非临床证据摘要
+
+2. 讨论该设备所考虑的非临床测试，并支持选择或不选择在本项目（即，所进行的验证和验证研究）中进行的测试（即，哪些测试被考虑，以及原因）。
+
+3.  讨论，以支持所呈现的证据是否足以支持申请。
+
+**或**
+
+1. 声明为什么该非临床实验室研究类别不适用于本案例。
+
+**注意：** 申请人应明确说明与本部分提供的非临床研究结果相关的任何现有的区域法规指导，涉及的主题设备。**欧盟**，有关特定 MDR 要求的详细信息，请参见 MDR 第 2 附件第 6.2(e) 条。**TGA**，必须考虑在医疗设备中，对内毒素污染和残留的风险最小化，这适用于某些类型的医疗设备。请参考《医疗设备标准（医疗设备内毒素要求）2018》（<https://www.tga.gov.au/medical-devices-notices-standards-orders>）。
+**3.05.07.01**| IMDRF| 3| [研究描述、研究标识、起始日期、完成日期] | **无内容** 此标题应根据研究详情进行自定义，并在父标题下为每个研究创建。以下子标题仅适用于本研究。
+**3.05.07.01.01**| IMDRF| 4| 摘要 | 针对上述自定义标题中描述的具体研究的摘要。
+**3.05.07.01.02**| IMDRF| 4| 完整报告 | 针对上述自定义标题中描述的测试报告。**美国 FDA 510(k)**，如果引用标准，请参考《为医疗设备（预先提交）的自愿共识标准提供指导——行业和 FDA 员工》（<https://www.fda.gov/media/71983/download>）。
+**3.05.07.01.03**| 美国 FDA| 4| 统计数据 |  | 这是针对上述自定义标题中描述的测试的统计数据位置。这包括元数据和以其原生格式（例如，但不限于：SAS；XPORT；XML；SGML；S-Plus；R 文件；ASCII；Molfiles；和 Excel）呈现的数据行列表。**建议申请人联系具体的审查部门，以获得有关首选的具体数据格式的进一步指导。** **注意：请勿在此处放置 PDF 文件。**
+**3.05.08**| IMDRF| 2| 生物来源材料的安全（人/动物） | 应将对生物来源材料（例如，动物来源或人源材料）安全的评估包含在此部分
+
+1. 生物材料或衍生物的描述
+
+2. 说明组织、细胞和物质的采集、处理、保存、测试和处理方法
+
+3. 如果适用，讨论已知感染源动物的传染性病原
+
+4. 明确病毒和其他病原体的来源（包括捐赠者筛选的详细信息和来源国家），并描述在制造过程中验证去除或灭活病毒和病原体的测试方法。
+
+5. 应包含对生产和筛选流程的简要总结，以证明该流程已建立，旨在最大限度地降低生物风险，特别是与病毒和其他可传播的病原体相关的风险。
+
+6. 用于记录，以便从源头追溯到最终产品的系统应进行完整描述。
+
+7. 讨论，以说明所提供的证据是否足以支持申请。
+
+**或**
+
+1. 声明为什么该非临床实验室研究类别不适用于本案例。
+
+**请注意：** 申请人应明确说明与本部分中提供的非临床研究结果相关的任何现有的区域监管指导，涉及的为该产品。**巴西ANVISA重要提示：** 根据巴西联邦宪法，不得在巴西境内商业化任何来源的生物产品。
+
+**NMPA** 对于含有生物安全风险的产品，如异基因材料、动物来源材料或生物活性物质，应提供相应的生物安全研究材料。生物安全研究材料应包括：
+a) 对应材料或物质的情况、获取、处理、保存、测试和处理组织、细胞和材料。
+b) 解释来源，并说明在生产过程中病毒和/或传染性物质的灭活和去除过程，并提供有效性验证数据或相关材料。
+c) 解释降低免疫原性物质的方法和/或技术过程，并提供质量控制指标和确认性实验数据或相关材料。
+d) 其他支持生物材料安全的材料。
+
+**欧盟** 参见MDR附录I GSPR 13和附录II第6.2(b)条。
+
+*   符合《欧盟》第 722/2012 号指令的要求，当适用时。 也可以考虑符合 EN ISO 22442 系列的协调标准。 某些情况下（例如：牛油及其加工方法），可以排除承包商。 如果有疑问，请在提交技术文件之前咨询相关 NB。
+
+*   含有人类或动物来源的物质的设备可能需要符合额外的欧盟指令/法规的要求。 可能需要额外的审查资源，包括外部独立审查员以及/或与有资质的机构的咨询，以及/或欧洲药品管理局 (EMA)。
+
+注意：如果使用了来自动物来源的材料，并且存在潜在的 TSE 风险，则提交文件应明确说明是否已获得 EDQM 证书，如果是，则需要提供。
+
+*   关于采购/收集/处理相关的控制信息（ISO22442-2）
+
+*   验证制造过程清除病毒的能力（ISO22442-3）
+
+*   风险评估，识别可能存在于起始材料中的潜在的附带性病原体，估计可能存在的浓度，并证明现有的控制措施能够将这些附带性病原体控制到可接受的水平（ISO22442-1）
+
+适用于人血或人血浆
+
+*   关于捐赠者选择和个人捐赠、小池和血浆池的测试信息（该信息可提交给 TGA，作为血浆主文件 (PMF)）
+
+* 验证生产过程清除病毒的能力
+
+* 进行风险评估，识别可能存在于起始材料中的潜在病原体，估计其可能存在的浓度，并证明现有的控制措施能够将这些潜在病原体控制到可接受的水平。
+
+**HC** 参见《关于制造或包含活体或非活体动物组织及其衍生物的医疗器械的监管指南》（<https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/application-information/guidance-documents/guidance-industry-guidance-document-regulation-medical-devices-manufactured-animal-tissue.html>）。
+**3.05.08.01**| ANVISA, HSA, TGA| 3| 证书 | 支持生物材料（例如屠宰场检查证书）安全的证书。| **ANVISA 和 HSA** 如果可用，提供具有 TSE（传染性 spongiform 脑病）风险的生物材料的适用品性证书（CEP）。**TGA** 如果可用，提供具有 TSE（传染性 spongiform 脑病）风险的动物来源材料的 EDQM 证书。如果可用，提供包含在设备中的人血或人血浆的欧洲药品管理局 PMF 证书。
+**3.05.08.02**| IMDRF| 3| [研究描述、研究标识符、起始日期] | **此处无内容** 此标题应根据研究详情进行自定义，并在父标题下为每个研究创建。以下子标题仅适用于该研究。|
+**3.05.08.02.01**| IMDRF| 4| 摘要 | 描述在上述自定义标题中进行的特定研究的摘要。|
+**3.05.08.02.02**| IMDRF| 4| 完整报告 | 描述在上述自定义标题中进行的测试的测试报告。**USFDA 510(k)** 如果引用标准，请参考《为医疗器械的预先提交提供自愿共识标准适当使用的指南》（<https://www.fda.gov/media/71983/download>）。
+**3.05.08.02.03**| USFDA| 4| 统计数据 | | 这是与上述自定义标题中进行的测试相关的统计数据的位置。这包括元数据和以其原生格式（例如，但不限于 SAS、XPORT、XML、SGML、S-Plus、R 文件、ASCII、Molfiles 和 Excel）记录的数据行列表。**申请人应联系
+
+1. 描述灭菌过程（方法、参数）和灭菌保证水平（SAL）
+
+2. 总结属于该类别的非临床证据
+
+3. 讨论针对该设备的非临床测试，并对在本次类别（即，哪些测试被考虑以及原因）的验证和验证研究中选择或排除这些测试的合理性进行说明。
+
+4. 如果适用，说明产品在承受两种或多种灭菌方法时的耐用性理由。
+
+5. 讨论，以支持所提供的证据足以支持申请。
+
+**或**
+
+1. 声明为什么该非临床实验室研究类别不适用于本案例。
+
+**注意：** 申请人应明确说明与本部分提供的非临床研究结果相关的任何现有的区域监管指导，这些指导与所涉及的医疗器械相关。| **欧盟** 针对特定 MDR 要求，请参见 MDR 第 I 附件 GSPR 23.4 (i) 和 (m)。 此外，EN ISO 17664 提供了指导。| **NMPA** 建议的灭菌过程（方法和参数）、确定建议灭菌过程的依据，以及用于验证的相关研究数据应明确定义；对于能够承受两次或多次灭菌的产品，应提供产品建议灭菌过程的容忍度研究数据。对于需要在使用前进行灭菌的，且以非灭菌状态交付的医疗器械，应提供证明包装可以降低产品微生物污染风险，并且适用于制造商指定灭菌方法的灭菌材料。| **美国 FDA** 请参考《行业和员工指南 - 在医疗保健环境中重复使用医疗器械：验证方法和标签》|
+**3.05.09.01.01**|  IMDRF| 4| [研究描述、研究标识符、起始日期] | **此处无内容** 此标题应根据研究详情进行自定义，并在父标题下为每个研究创建。 以下子标题仅适用于本研究。|
+**3.05.09.01.01.01**|  IMDRF| 5| 摘要 | 上述自定义标题中描述的具体研究的摘要。
 
 |   
-**3.07**|  IMDRF| 1| Expiration Period and Packaging Validation| This heading should include:
+**3.05.09.01.01.02**| IMDRF| 5| 完整报告| 针对上述自定义标题中描述的测试的测试报告。| **USFDA 510(k)** 如果引用标准，请参考 [《为医疗器械的预先提交提供自愿共识标准，指导行业和FDA工作人员》](<https://www.fda.gov/media/71983/download>)。
+**3.05.09.01.01.03**| USFDA| 5| 统计数据| | 这是与上述自定义标题中描述的测试相关的统计数据的存储位置。这包括元数据和以其原始格式（例如，但不限于：SAS；XPORT；XML；SGML；S-Plus；R文件；ASCII；Molfiles；和Excel）的数据行列表。**建议申请人联系具体的审查部门，以获得关于首选的具体数据格式的进一步指导。** *注意：请勿在此处放置PDF文件*。
+**3.05.09.02**| IMDRF| 3| 制造商灭菌验证| 提供有关制造商灭菌的信息和验证，前提是该设备已提供灭菌状态。这应包括：
 
-  1. An indication of environmental conditions for correct storage of the device (e.g. temperature, pressure, humidity, luminosity). 
-  2. A statement of the expiration period considering the materials and sterilization (when applicable), indicated as a period of time or any other means of appropriate quantification.  
+1. 描述灭菌过程（方法、参数）和灭菌保证水平（SAL）
 
-**OR**  
+2. 声明是否使用了参数释放
 
-  1. A rationale that storage conditions could not affect device safety or effectiveness
+3. 对属于该类别的非临床证据的总结
 
-| **ANVISA, EU, HC, HSA, JP, and TGA** For devices that do not have an expiration period (e.g. electromedical equipment or other devices of multiple use), information regarding the estimated mean “lifetime”. This mean “lifetime” can be indicated as number of procedures to be performed with the device and/or its accessories, as a period of time or any other means of appropriate quantification.**EU** For specific MDR requirements see MDR Annex I GSPRs 6, 23.2 (i), (j) and (k), 23.3 (i) and 23.4 (a).**NMPA** If applicable, shelf life and packaging research materials should be provided to prove that during the shelf life, under the transportation and storage conditions specified by the manufacturer, the product can maintain performance and function to meet the use requirements, and products with microbial limit requirements should also meet the microbial limit requirements. Products delivered in a sterile state should also be kept sterile.  
-**3.07.01**|  IMDRF| 2| Product Stability| Contains details relating to product stability under specified storage conditions and in final packaging or simulated conditions. This should include:
+4. 过程持续验证信息的。通常，这应包括对包装和灭菌过程的重新验证的安排或证据。
 
-  1. A statement of the shelf-life (for each component if there are differences between components) and the proposed storage condition for the device
-  2. A summary of the non-clinical evidence, covering shelf-life period when stored at the proposed storage condition, that falls within this category
-  3. A discussion of the non-clinical testing considered for the device and support for their selection or omission from the verification and validation studies conducted in this category (i.e., what tests were considered and why they were or were not performed)
-  4. Discussion to support why the evidence presented is sufficient to support the application.
-  5. Evidence to support stability of the medicinal substance contained in the device at the proposed storage condition
-  6. Evidence of in-use stability supporting the stability during actual routine use of the device (real or simulated); 
+5. 讨论对该设备所考虑的非临床测试，以及对在这一类别中进行的验证和验证研究中选择或省略这些测试的依据或理由（即，哪些测试被考虑，以及为什么它们被执行或未执行）
 
-**OR**
+6. 讨论支持所呈现证据是否足以支持申请的理由。
 
-  1. A statement of why this category of non-clinical laboratory study is not applicable to this case.  
+**或**
 
-**NOTE:** The sponsor/applicant should explicitly address any existing regional regulatory guidance related to the non-clinical study results provided in this section regarding the subject device.| **ANVISA** If applicable, product stability shall also include:
+1. 声明为什么该非临床实验室研究类别不适用于本案例。
 
-  1. In use stability, containing details and evidence supporting the stability during actual routine use of the device (real or simulated);
-  2. Shipping stability containing details and evidence supporting the tolerance of device components to the anticipated shipping conditions.
+**请注意：** 申请人/赞助方应明确说明与本部分中提供的非临床研究结果相关的任何现有的区域监管指导，这些指导与所涉及的设备相关。| **欧盟** 针对特定 MDR 要求，请参见 MDR 第 2 附件第 6.2(e) 条。相关指导也包含在 EN ISO 11137 系列、EN ISO 11135、EN ISO 17665、EN ISO 13408 系列、EN ISO 20857、EN ISO 14937 中。| **美国 FDA** 请参考《行业和员工指导 - 预先通知（510(k)）中，对无菌性信息的提交和审查》| **NMPA** 应明确说明灭菌过程（方法和参数）以及无菌性保证水平（SAL），并提供用于灭菌验证和确认的相关研究材料。
 
-**EU** For specific MDR requirements see MDR Annex I GSPRs 6, 11.7 and Annex II Section 6.1(b).**HSA** If applicable, product stability shall also include in use stability, containing details and evidence supporting the stability during actual routine use of the device (real or simulated);**TGA** If applicable, product stability shall also include:
+**3.05.09.02.01**| IMDRF| 4| [研究描述、研究标识符、起始日期] | **此处无内容** 此标题应根据研究详情进行自定义，并在父标题下为每个研究创建。以下子标题仅适用于本研究。|
+**3.05.09.02.01.01**| IMDRF| 5| 摘要 | 针对上述自定义标题中描述的具体研究的摘要。|
 
-  1. In use stability, containing details and evidence supporting the stability during actual routine use of the device (real or simulated)
-  2. Shipping stability containing details and evidence supporting the tolerance of device components to the anticipated shipping conditions.
+**3.05.09.02.01.02**| IMDRF| 5| 完整报告| 针对上述自定义标题中描述的测试的测试报告。| **USFDA 510(k)** 如果引用标准，请参考 [《为医疗器械的预先提交提供自愿共识标准，指导行业和FDA工作人员》](<https://www.fda.gov/media/71983/download>)。
+**3.05.09.02.01.03**| USFDA| 5| 统计数据| | 这是与上述自定义标题中描述的测试相关的统计数据的位置。这包括元数据和以其原生格式（例如，但不限于：SAS；XPORT；XML；SGML；S-Plus；R文件；ASCII；Molfiles；和Excel）呈现的数据行列表。**申请人应联系具体的审查部门，以获得有关首选特定数据格式的进一步指导。****注意：请勿在此处放置PDF文件**。
+**3.05.09.03**| IMDRF| 3| 残余毒性| 包含关于使用方法可能产生残留的消毒剂的测试信息，该设备以无菌状态供应，并使用可产生残留的方法进行灭菌的信息。这应包括：
 
-**NMPA** a) In use stability, if applicable, use stability/reliability research materials should be provided to prove that the product's performance and functions meet the use requirements under normal use, maintenance and calibration (if applicable) within the use period/number of use specified by the manufacturer.b) Shipping stability, Shipping stability and packaging research data should be provided to prove that under the transportation conditions specified by the manufacturer, the environmental conditions during transportation (such as vibration, vibration, temperature and humidity fluctuations) will not affect the characteristics and performance of the medical device, including Integrity and cleanliness are adversely affected.**USFDA** “Medicinal substances” includes biologics and drug in the context of combination products.  
-**3.07.01.01**|  IMDRF| 3| [Study description, study identifier, date of initiation]| **NO CONTENT AT THIS LEVEL** This heading should be CUSTOM AND BASED ON STUDY DETAILS and created **for each study** under the parent heading. The sub headings below would be for this study alone.|   
-**3.07.01.01.01**|  IMDRF| 4| Summary| A summary of the specific study described in the custom heading above.  
-|   
-**3.07.01.01.02**|  IMDRF| 4| Full Report| The test report for the test described in the custom heading above.| **USFDA 510(k)** If referencing a standard, refer to [Guidance for Industry and FDA Staff - Appropriate Use of Voluntary Consensus Standards in Premarket Submissions for Medical Devices](<https://www.fda.gov/media/71983/download>).   
-**3.07.01.01.03**|  USFDA| 4| Statistical Data|  | This is the location for statistical data associated with the test described in the custom heading above. This includes metadata and data line listings in their native formats, such as, but not limited to: SAS; XPORT; XML; SGML; S-Plus; R files; ASCII; Molfiles; and Excel. **The applicant is advised to contact the specific review division for further guidance on the specific data format that is preferred.****NOTE: Do not place PDFs here**.   
-**3.07.02**|  IMDRF| 2| Package Validation| Contains details relating to package integrity over the claimed shelf-life and in the packaging and distribution environment (transport and packaging validation) and when applicable, following exposure to the sterilization process. This should include:
+1.  本类别的非临床证据摘要
 
-  1. A summary of the non-clinical evidence, covering shelf-life period, that falls within this category
-  2. A discussion of the non-clinical testing considered for the device and support for their selection or omission from the verification and validation studies conducted in this category (i.e., what tests were considered and why they were or were not performed)
-  3. Discussion to support why the evidence presented is sufficient to support the application.   
+2. 讨论该设备所考虑的非临床测试，并支持选择或不选择在本项目（即，所进行的验证和验证研究）中进行的测试（即，哪些测试被考虑，以及原因）。
 
-**OR  
-**
+3.  讨论，以支持所呈现的证据是否足以支持申请。
 
-  1. A statement of why this category of non-clinical laboratory study is not applicable to this case.  
+**或**
 
-**NOTE:** The sponsor/applicant should explicitly address any existing regional regulatory guidance related to the non-clinical study results provided in this section regarding the subject device.| **EU** For specific MDR requirements see MDR Annex I GSPRs 6, 11.7 and Annex II Section 6.2 (e).  
-**3.07.02.01**|  IMDRF| 3| [Study description, study identifier, date of initiation]| **NO CONTENT AT THIS LEVEL** This heading should be CUSTOM AND BASED ON STUDY DETAILS and created **for each study** under the parent heading. The sub headings below would be for this study alone.|   
-**3.07.02.01.01**|  IMDRF| 4| Summary| A summary of the specific study described in the custom heading above.  
-|   
-**3.07.02.01.02**|  IMDRF| 4| Full Report| The test report for the test described in the custom heading above.| **USFDA 510(k)** If referencing a standard, refer to [Guidance for Industry and FDA Staff - Appropriate Use of Voluntary Consensus Standards in Premarket Submissions for Medical Devices](<https://www.fda.gov/media/71983/download>).   
-**3.07.02.01.03**|  USFDA| 4| Statistical Data|  | This is the location for statistical data associated with the test described in the custom heading above. This includes metadata and data line listings in their native formats, such as, but not limited to: SAS; XPORT; XML; SGML; S-Plus; R files; ASCII; Molfiles; and Excel. **The applicant is advised to contact the specific review division for further guidance on the specific data format that is preferred.****NOTE: Do not place PDFs here**.   
-**3.08**|  IMDRF| 1| Other non-clinical Evidence| Heading for other information that may be important to the submission but that does not fit in any of the other headings of this chapter. This section is specifically intended for tests performed to ensure the safety and/or effectiveness of the device **that are not delineated in the rest of the Chapter 3.** This should include
+1. 声明为什么该非临床实验室研究类别不适用于本案例。
 
-  1. A description of the purpose of the test, the risk/safety issue the test is addressing; the test methods and results of the test  
+**请注意：** 申请人应明确说明与本部分中提供的非临床研究结果相关的任何现有的区域监管指导，这些指导与所涉及的设备相关。| **欧盟** 请参阅《医疗器械法规》（MDR）第 II 卷第 6.2(e) 条，了解相关要求。| **NMPA** 如果该产品在灭菌或消毒后可能产生残留物质，则应对灭菌或消毒后的产品、残留信息和采用的处理方法进行毒性研究，并提供相关研究材料。
+**3.05.09.03.01**|  IMDRF| 4| [研究描述、研究标识、起始日期] | **此处无内容** 此标题应根据研究详情进行自定义，并在父标题下为每个研究创建。 以下子标题仅适用于本研究。|
+**3.05.09.03.01.01**|  IMDRF| 5| 摘要 | 针对上述自定义标题中描述的具体研究的摘要。|
+**3.05.09.03.01.02**|  IMDRF| 5| 完整报告 | 针对上述自定义标题中描述的测试报告。| **美国 FDA 510(k)** 如果引用标准，请参阅《为医疗器械的预先提交提供自愿共识标准适当使用的指南》（<https://www.fda.gov/media/71983/download>）。
+**3.05.09.03.01.03**|  美国 FDA| 5| 统计数据 |  | 这是一个用于存储与上述自定义标题中描述的测试相关的统计数据的区域。 这包括元数据和以其原生格式（例如，但不限于：SAS；XPORT；XML；SGML；S-Plus；R 文件；ASCII；Molfiles；和 Excel）呈现的数据行列表。 **建议申请人联系具体的审查部门，以获得有关首选的具体数据格式的进一步指导。** **请勿在此处放置 PDF 文件。**
+**3.05.09.04**|  IMDRF| 3| 清洗和消毒验证 | 包含关于对可重复使用的设备进行清洗和消毒说明的验证信息。 这应包括：
 
-**NOTE:** The sponsor/applicant should explicitly address any existing regional regulatory guidance related to the non-clinical study results provided in this section regarding the subject device.| **EU** See MDR Annex I and Annex II Sections 6.1 (a) and 6.2 (a), (c), (d), (f), (g) for additional information required in specific cases:
+1.  本类别的非临床证据摘要
 
-  * Devices incorporating medicinal substances
-  * Devices composed of substances that are absorbed by or locally dispersed in the human body (Annex VIII Rule 21 devices): see GSPR 12.2 
-  * Devices containing CMR or endocrine-disrupting substances referred to in GSPR 10.4.1 of MDR Annex I: see GSPRs 10.4.1 - 10.4.5 
-  * Devices with a measuring or diagnostic function
-  * Magnetic resonance imaging safety of implants
+2. 讨论该设备所考虑的非临床测试，并支持选择或不选择在本项目（即，所进行的验证和验证研究）中进行的测试（即，哪些测试被考虑，以及原因）。
 
-**NMPA** a) Risk of explosionFor medical devices that are exposed to flammable and explosive substances or used in combination with other combustibles or combustibles, the explosion risk research data shall be provided to prove that the explosion risk is acceptable under normal conditions and single fault conditions.b) Joint useIf the declared product is expected to be used in combination with other medical devices, drugs, and non-medical device products to achieve the same intended use, research materials that prove the safety and effectiveness of the combined use should be provided, including basic interconnection information (connection type, interface, protocol, minimum performance), joint Use risks and control measures, restrictions on joint use, compatibility studies, etc.In the case of combined drug use, the drug compatibility research materials shall be provided to prove that the performance of the combined drug and device meets its indications and intended use.c) Dose-effect relationship and energy safetyFor medical devices that provide energy or material therapy to patients, research data on the dose-effect relationship and energy safety should be provided, and the safety, effectiveness, and rationality of the treatment parameter settings should be provided. Research data on unacceptable harm caused by normal tissues.  
-**3.08.01**|  IMDRF| 2| [Study description, study identifier, date of initiation]| **NO CONTENT AT THIS LEVEL** This heading should be CUSTOM AND BASED ON STUDY DETAILS and created **for each study** under the parent heading. The sub headings below would be for this study alone.|   
-**3.08.01.01**|  IMDRF| 3| Summary| A summary of the specific study described in the custom heading above.  
-|   
-**3.08.01.02**|  IMDRF| 3| Full Report| The test report for the test described in the custom heading above.| **USFDA 510(k)** If referencing a standard, refer to [Guidance for Industry and FDA Staff - Appropriate Use of Voluntary Consensus Standards in Premarket Submissions for Medical Devices](<https://www.fda.gov/media/71983/download>).   
-**3.08.01.03**|  USFDA| 3| Statistical Data|  | This is the location for statistical data associated with the test described in the custom heading above. This includes metadata and data line listings in their native formats, such as, but not limited to: SAS; XPORT; XML; SGML; S-Plus; R files; ASCII; Molfiles; and Excel. **The applicant is advised to contact the specific review division for further guidance on the specific data format that is preferred.****NOTE: Do not place PDFs here**.   
+3.  讨论，以支持所呈现的证据是否足以支持申请。
 
-# Chapter 4 – Clinical evidence
+**或者**
 
-**Row ID**| **Regions & Level**| **Heading**| **Common Content**| **Regional Content**  
----|---|---|---|---  
-**4.01**|  IMDRF| 1| Chapter Table of Contents| 
+1. 声明为什么该非临床实验室研究类别不适用于本案例。
 
-  1. Includes all headings for the chapter. 
-  2. Specifies the page number for each item referred to in the table.
+**注意：** 申请人应明确说明与本部分提供的非临床研究结果相关的任何现有的区域法规指导，这些结果与所涉及的设备相关。| **欧盟** 针对特定 MDR 要求，请参见 MDR 第 I 卷 GSPR 23.4 (n)。
+**3.05.09.04.01**| IMDRF| 4| [研究描述、研究标识符、启动日期] | **此处无内容** 此标题应根据研究详情进行自定义，并在父标题下为每个研究创建。 以下子标题仅适用于本研究。
+**3.05.09.04.01.01**| IMDRF| 5| 摘要 | 针对上述自定义标题中描述的具体研究的摘要。
+**3.05.09.04.01.02**| IMDRF| 5| 完整报告 | 针对上述自定义标题中描述的测试报告。 **美国 FDA 510(k)** 如果引用标准，请参考 [《为医疗器械的预先提交提供自愿共识标准适当使用的指南 - 针对美国 FDA 和员工》](<https://www.fda.gov/media/71983/download>)。
+**3.05.09.04.01.03**| 美国 FDA | 5| 统计数据 |  | 这是与上述自定义标题中描述的测试相关的统计数据的存储位置。 这包括元数据和以其原生格式（例如，但不限于：SAS；XPORT；XML；SGML；S-Plus；R 文件；ASCII；Molfiles 和 Excel）呈现的数据行列表。 **建议申请人联系具体的审查部门，以获得有关首选特定数据格式的进一步指导。** **注意：请勿在此处放置 PDF 文件。**
+**3.05.09.05**| ANVISA、欧盟、HC、美国 FDA、日本 | 3| 单次使用设备再处理、验证数据 | 包含清洁和消毒数据以及功能性能数据，以证明在符合提交者意图的情况下，每个单次使用设备（SUD）在最多重复处理次数后仍能满足规格。 **注意：** 申请人应明确说明与本部分提供的非临床研究结果相关的任何现有的区域法规指导，这些结果与
 
 |   
-**4.02**|  IMDRF| 1| Overall Clinical Evidence Summary  
+**3.05.09.05.01.02**| ANVISA, HC, USFDA| 5| 完整报告| 用于描述上方自定义标题中的测试的测试报告。 **USFDA 510(k)** 对于重新处理的一次性设备的要求。如果引用标准，请参考 [《为医疗器械的预先提交提供自愿共识标准适当使用的指南 - 针对行业和 FDA 员工》](<https://www.fda.gov/media/71983/download>)。
+**3.05.09.05.01.03**| USFDA| 5| 统计数据| | 这是与描述上方自定义标题中的测试相关的统计数据的存储位置。 这包括元数据和以其原始格式（例如，但不限于：SAS；XPORT；XML；SGML；S-Plus；R 文件；ASCII；Molfiles；和 Excel）呈现的数据行列表。 **申请人应联系具体的审查部门，以获得有关首选的具体数据格式的进一步指导。****注意：请勿在此处放置 PDF 文件**。
+**3.05.10**| IMDRF| 2| 动物测试| 包含有关支持提交的任何进行的动物研究的信息。 这应包括：
+
+1.  本类别的非临床证据摘要
+
+2. 讨论该设备所考虑的非临床测试，并支持选择或不选择在本项目（即，所进行的验证和验证研究）中进行的测试（即，哪些测试被考虑，以及原因）。
+
+3.  讨论，以支持所呈现的证据是否足以支持申请。
+
+**或**
+
+1. 声明为什么该非临床实验室研究类别不适用于本案例。
+
+**请注意：** 申请人/赞助方应明确说明与本部分提供的非临床研究结果相关的任何现有的区域法规指导，具体针对所涉及的设备。| **欧盟** 针对特定 MDR 要求，请参见 MDR 第 2 卷第 6.1(a) 条。| **美国 FDA** 报告非临床数据实验室研究结果的要求，请参见 21 CFR 58.185。| **TGA** 请说明，动物研究是否在符合良好实验室实践的条件下进行。| **NMPA** 为了避免不必要的动物实验，应就是否在医疗器械上进行动物实验做出科学决策，并提供相关材料。如果决定通过动物实验研究来验证/确认产品风险控制措施的有效性，则应提供动物实验研究材料，并且该材料应包括试验目的、实验室动物信息、试验设备和控制信息、动物数量、评估指标以及试验结果，以及确定动物实验设计元素的依据等。
+
+**3.05.10.01**| IMDRF| 3| [研究描述、研究标识、起始日期、完成日期] | **此处无内容** 此标题应根据研究详情进行自定义，并在父标题下为每个研究创建。以下子标题仅适用于本研究。|
+
+**3.05.10.01.01**| IMDRF| 4| 摘要 | 上述自定义标题中描述的具体研究的摘要。
+
+|   
+**3.05.10.01.02**| IMDRF| 4| 完整报告| 针对上述自定义标题中描述的测试的测试报告。 **USFDA 510(k)** 如果引用标准，请参考 [《为医疗器械的预先提交提供自愿共识标准，指导行业和 FDA 员工》](<https://www.fda.gov/media/71983/download>)。
+**3.05.10.01.03**| USFDA| 4| 统计数据|
+这是与上述自定义标题中描述的测试相关的统计数据的位置。 这包括元数据和以其原生格式（例如，但不限于：SAS；XPORT；XML；SGML；S-Plus；R 文件；ASCII；Molfiles 和 Excel）的数据行列表。 **建议申请人联系具体的审查部门，以获得有关首选的具体数据格式的进一步指导。****注意：请勿在此处放置 PDF 文件**。
+**3.05.11**| IMDRF| 2| 可用性/人机工程学| 应该在此处包含专门评估指令和/或设备设计，以及人类行为、能力、限制和其他特征对设备按照预期方式运行的影响的测试。 这应包括：
+
+1.  本类别的非临床证据摘要
+
+2. 测试环境的声明及其与预期使用环境的关系
+
+3. 讨论针对该设备的非临床测试，并对在本次类别（即，哪些测试被考虑以及原因）的验证和验证研究中选择或排除这些测试的合理性进行说明。
+
+4. 如果已进行包括人机工程学/可用性终点的临床研究，则应引用这些研究和终点，但无需重复完整结果。
+
+5. 讨论，以支持所提供的证据足以支持申请。
+
+**或**
+
+1. 声明为什么该非临床实验室研究类别不适用于本案例。
+
+**注意：**
+
+1. 如果已进行临床研究，并且该研究包括可用性/人机工程学指标，**应引用这些研究和指标，但无需重复完整结果，应在第4章 – 临床证据中包含。**
+
+2. 赞助人/申请人应明确说明与本部分中提供的关于该设备的非临床研究结果相关的任何现有的区域监管指导。
+
+| **欧盟** 针对特定 MDR 要求的具体信息，请参见 MDR 第 2 附件第 6.1 (a) 条。 此外，EN 62366-1《医疗器械 – 第 1 部分：将可用性工程应用于医疗器械》也提供了指导。 **美国 FDA** 请参考 “[为医疗器械应用人因素和可用性工程的行业和食品药品管理局员工指南](<https://www.fda.gov/media/80481/download>)”。
+**3.05.11.01**|  IMDRF| 3| [研究描述、研究标识、起始日期] | **此处无内容** 此标题应根据研究详情进行自定义，并在父标题下为每个研究创建。 以下子标题仅适用于该研究。|
+**3.05.11.01.01**|  IMDRF| 4| 摘要 | 针对上述自定义标题中描述的具体研究的摘要。|
+**3.05.11.01.02**|  IMDRF| 4| 完整报告 | 针对上述自定义标题中描述的测试报告。 **美国 FDA 510(k)** 如果引用标准，请参考 [为医疗器械的预先提交提供自愿共识标准适当使用的行业和 FDA 员工指南](<https://www.fda.gov/media/71983/download>).
+**3.05.11.01.03**|  USFDA| 4| 统计数据 |  | 这是与上述自定义标题中描述的测试相关的统计数据的存储位置。 这包括元数据和以其原生格式（例如，但不限于：SAS；XPORT；XML；SGML；S-Plus；R 文件；ASCII；Molfiles 和 Excel）记录的数据行列表。 **申请人应联系特定的审查部门，以获得有关首选的具体数据格式的进一步指导。** *请注意：不要在此处放置 PDF 文件。*
+**3.05.12**|  TGA| 2| 具有防腐剂或抗菌声明的器械的证据 | 申请：
+
+* 适用于多种用途的产品，例如眼部润滑剂和隐形眼镜护理产品，如果含有防腐剂，则必须提供证明其防腐效果的证据。
+
+* 诸如含有抗菌声明的无菌敷料等产品的，必须提供支持其抗菌功效的证据。
+
+|   
+**3.06**| ANVISA, HC, HSA, JP, USFDA| 1| 非临床文献| 此标题应包含：
+
+1. 涉及该特定设备的已发表的非临床研究清单（例如：尸体评估、生物力学评估）
+
+2. 关键文章的可读副本，包括适时进行翻译以满足监管机构的语言要求
+
+3.  讨论，以支持所呈现的证据是否足以支持申请。
+
+**或**
+
+1. 声明：未发现与该设备相关的文献。
+
+|   
+**3.07**| IMDRF| 1| 效期和包装验证| 此标题应包含：
+
+1. 指示正确储存设备的环境条件（例如：温度、压力、湿度、光照）。
+
+2. 声明效期，考虑到材料和灭菌（如果适用），以时间或其他适当的量化方式表示。
+
+**或者**
+
+1. 阐述，储存条件不会影响设备的安全性和有效性
+
+| **ANVISA、欧盟、HC、HSA、JP 和 TGA** 对于没有保质期的设备（例如，医疗设备或其他多用途设备），应提供关于估计的平均“使用寿命”的信息。 这种“使用寿命”可以表示为与设备和/或其附件所能执行的程序数量、一段时间或任何其他适当的量化方式。**欧盟** 对于特定 MDR 的要求，请参见 MDR 第 I 附录 6、23.2 (i)、(j) 和 (k)、23.3 (i) 和 23.4 (a)。**NMPA** 如果适用，应提供保质期和包装的研究材料，以证明在制造商规定的运输和储存条件下，产品在保质期内能够保持性能和功能，以满足使用要求；同时，对具有微生物限度的产品，也应满足微生物限度要求。 同样，应保持以无菌状态交付的产品保持无菌状态。
+**3.07.01**| IMDRF| 2| 产品稳定性| 包含与产品在指定储存条件下和最终包装或模拟条件下保持稳定性的相关信息。 这应包括：
+
+1. 声明产品的保质期（如果组件之间存在差异，则应分别声明每个组件的保质期）以及建议的储存条件
+
+2. 总结非临床证据，涵盖在建议的储存条件下储存期间的保质期，这些证据属于此类别
+
+3. 讨论针对该设备的非临床测试，并对在本次类别（即，哪些测试被考虑以及原因）的验证和验证研究中选择或排除这些测试的合理性进行说明。
+
+4. 讨论，说明所提供的证据是否足以支持申请。
+
+5. 提供支持设备中药物成分在建议储存条件下稳定性的证据
+
+6. 提供支持设备在实际日常使用（真实或模拟）期间稳定性的证据；
+
+**或者**
+
+1. 声明为什么该非临床实验室研究类别不适用于本案例。
+
+**注意：** 申请人/制造商应明确说明与本部分提供的非临床研究结果相关的任何现有的区域监管指导，这些指导与所涉及的医疗器械相关。| **ANVISA** 如果适用，产品稳定性还应包括：
+
+1. 使用稳定性，包含支持在实际日常使用（真实或模拟）期间产品稳定性的详细信息和证据；
+
+2. 运输稳定性，包含支持产品组件对预期运输条件的耐受性的详细信息和证据。
+
+**欧盟** 参见 MDR 第 I 附件 GSPRs 6、11.7 和第 II 附件 6.1(b) 的具体要求。| **HSA** 如果适用，产品稳定性还应包括使用稳定性，包含支持在实际日常使用（真实或模拟）期间产品稳定性的详细信息和证据；**TGA** 如果适用，产品稳定性还应包括：
+
+1. 使用稳定性，包含支持设备在实际日常使用期间（真实或模拟）稳定性详细信息和证据。
+
+2. 运输稳定性，包含支持产品组件对预期运输条件的耐受性的详细信息和证据。
+
+**NMPA** a) 使用稳定性，如果适用，应提供研究材料，以证明产品在制造商规定的使用期限/使用次数内，在正常使用、维护和校准（如果适用）条件下，产品的性能和功能符合使用要求。b) 运输稳定性，应提供运输稳定性及包装研究数据，以证明在制造商规定的运输条件下，运输过程中的环境条件（如振动、振动、温度和湿度变化）不会影响医疗器械的特性和性能，包括完整性和清洁度受到不良影响。
+**USFDA** “药品”包括生物制品和组合产品中的药物。
+**3.07.01.01**| IMDRF| 3| [研究描述、研究标识、起始日期] | **此处无内容** 此标题应根据研究详情进行自定义，并在父标题下为每个研究创建。以下子标题仅适用于该研究。
+**3.07.01.01.01**| IMDRF| 4| 摘要 | 对上述自定义标题中描述的具体研究的摘要。
+
+|   
+**3.07.01.01.02**| IMDRF| 4| 完整报告| 针对上述自定义标题中描述的测试的测试报告。| **USFDA 510(k)** 如果引用标准，请参考 [《为医疗器械的预先提交提供自愿共识标准适当使用的指导 - 针对行业和FDA员工》](<https://www.fda.gov/media/71983/download>)。
+**3.07.01.01.03**| USFDA| 4| 统计数据| | 这是与上述自定义标题中描述的测试相关的统计数据的存储位置。这包括元数据和以原生格式的数据行列表，例如但不限于：SAS；XPORT；XML；SGML；S-Plus；R文件；ASCII；Molfiles；以及Excel。**申请人应联系具体的审查部门，以获得有关首选的具体数据格式的进一步指导。**请注意：不要在此处放置PDF文件。
+**3.07.02**| IMDRF| 2| 包装验证| 包含与在声称的保质期内，以及在包装和分发环境中（包括运输和包装验证）和适用情况下，暴露于灭菌过程后，包装完整性的相关信息。这应包括：
+
+1. 涵盖保质期期间的非临床证据摘要，属于此类别
+
+2. 讨论该设备所考虑的非临床测试，并支持选择或不选择在本项目（即，所进行的验证和验证研究）中进行的测试（即，哪些测试被考虑，以及原因）。
+
+3.  讨论，以支持所呈现的证据是否足以支持申请。
+
+**或**
+
+1. 声明为什么该非临床实验室研究类别不适用于本案例。
+
+**注意：** 申请人应明确说明与本部分提供的非临床研究结果相关的任何现有的区域监管指导，这些指导与该设备相关。| **欧盟** 针对特定 MDR 要求，请参见 MDR 第 I 附录 GSPRs 6、11.7 和第 II 附录第 6.2(e) 条。
+**3.07.02.01**| IMDRF| 3| [研究描述、研究标识符、起始日期] | **此处无内容** 此标题应根据研究详情进行自定义，并在父标题下为每个研究创建。 以下子标题仅适用于该研究。
+**3.07.02.01.01**| IMDRF| 4| 摘要 | 上述自定义标题中描述的具体研究的摘要。
+
+|   
+**3.07.02.01.02**| IMDRF| 4| 完整报告 | 上述自定义标题中描述的测试报告。 **美国 FDA 510(k)** 如果引用标准，请参考 [《为医疗器械的预先提交提供自愿共识标准适当使用的指南 - 针对行业和 FDA 员工》](<https://www.fda.gov/media/71983/download>)。
+**3.07.02.01.03**| 美国 FDA| 4| 统计数据 |
+这是与上述自定义标题中描述的测试相关的统计数据。 这包括元数据和以原生格式的数据行列表，例如但不限于：SAS；XPORT；XML；SGML；S-Plus；R 文件；ASCII；Molfiles；和 Excel。 **建议申请人联系具体的审查部门，以获得有关首选的具体数据格式的进一步指导。** **注意：请勿在此处放置 PDF 文件。**
+**3.08**| IMDRF| 1| 其他非临床证据 | 用于包含可能对提交有重要意义，但未在本章的其他标题中明确说明的其他信息。 此部分专门用于为了确保该设备的安全和/或有效性而进行的测试，这些测试**不在本章第 3 章的其他部分中明确说明**。 这应包括
+
+1. 测试的目的描述、测试所针对的风险/安全问题，以及测试方法和测试结果。
+
+**注意：** 申请人/赞助方应明确说明与本部分提供的非临床研究结果相关的任何现有的区域监管指导，特别是针对本产品的。| **欧盟** 请参阅《医疗器械法规》（MDR）第 I 卷和第 II 卷第 6.1(a)和6.2(a)、(c)、(d)、(f)、(g)部分，以获取特定情况下的额外要求：
+
+* 含有药物的设备
+
+* 由人体吸收或局部分散的物质组成的设备（《医疗器械法规》第 VIII 卷第 21 条规定的设备）：请参考 GSPR 12.2
+
+* 含有《医疗器械法规》第 I 卷第 10.4.1 条中提及的 CMR 或内分泌干扰物质的设备：请参考 GSPRs 10.4.1 - 10.4.5
+
+* 具有测量或诊断功能的设备
+
+* 植入物磁共振成像安全性
+
+**NMPA**
+a) 爆炸风险：对于暴露在易燃易爆物质中或与其他可燃物或可燃物一起使用的医疗器械，应提供爆炸风险研究数据，以证明在正常条件下和单次故障条件下，爆炸风险是可接受的。
+b) 联合使用：如果申报的产品预计与其他医疗器械、药物和非医疗器械产品一起使用，以实现相同的预期用途，则应提供证明联合使用的安全性和有效性的研究材料，包括基本互联信息（连接类型、接口、协议、最低性能）、联合使用的风险和控制措施、联合使用的限制、相容性研究等。
+在联合用药的情况下，应提供药物相容性研究材料，以证明联合药物和器械的性能符合其适应症和预期用途。
+c) 剂量-效应关系和能量安全：对于为患者提供能量或材料疗法的医疗器械，应提供剂量-效应关系和能量安全的研究数据，并提供治疗参数设置的安全性、有效性和合理性。应提供关于正常组织可能造成的不可接受损害的研究数据。
+
+**3.08.01**| IMDRF| 2| [研究描述、研究标识、起始日期] | **此处无内容** 此标题应根据研究详情进行自定义，并在父级标题下为每个研究创建。以下子标题仅适用于该研究。
+**3.08.01.01**| IMDRF| 3| 摘要：对上述自定义标题中描述的具体研究的摘要。
+
+|   
+**3.08.01.02**| IMDRF| 3| 完整报告| 针对上述自定义标题中描述的测试的测试报告。 **USFDA 510(k)** 如果引用标准，请参考 [《为医疗器械的预先提交提供指导：行业和FDA工作人员适当使用自愿共识标准》](<https://www.fda.gov/media/71983/download>)。
+**3.08.01.03**| USFDA| 3| 统计数据| | 这是与上述自定义标题中描述的测试相关的统计数据的存储位置。 这包括元数据和以其原始格式（例如，但不限于：SAS；XPORT；XML；SGML；S-Plus；R 文件；ASCII；Molfiles 和 Excel）的数据行列表。 **申请人应联系具体的审查部门，以获得有关首选的具体数据格式的进一步指导。** *请注意：不要在此处放置 PDF 文件。*
+
+# 第 4 章 – 临床证据
+
+**行 ID**| **区域及等级**| **标题**| **常见内容**| **区域内容**
+---|---|---|---|---
+**4.01**| IMDRF| 1| 章节目录
+
+1. 包含章节的所有标题。
+
+2. 明确说明表中每个项目的页码。
+
+|   
+**4.02**| IMDRF| 1| 总体临床证据摘要
+
 | 
 
-  1. This should be a brief (1-2 page) summary of the available clinical evidence being presented in support of the submission. The document should list the evidence presented, its characteristics (RCT, case study, literature review, post market data from another jurisdiction or from a marketed device) and provide a discussion of how this is considered sufficient to support request for marketing for the requested indications. A tabular listing of clinical studies may be included in this section.
-  2. If any of the study devices differ from the devices to be marketed, including competitor’s devices, a description of these differences and their impact on the validity of the evidence in terms of support for the application for any device referenced in the application. This may include a detailed comparison of the clinical, technical and biological characteristics of the two devices, with a detailed critical analysis demonstrating the devices to be similar to such an extent that there would be no clinically significant difference in safety or performance.
-  3. A discussion of the clinical evidence considered for the device and support for their selection (i.e., what type of evidence was considered and why they were or were not used)
-  4. Discussion to support why the evidence presented is sufficient to support the application.   
+1. 这是一个简短（1-2 页）的摘要，概述了用于支持提交的现有临床证据。 该文档应列出所呈现的证据、其特征（如 RCT、病例研究、文献综述、来自其他司法管辖区的或已上市的设备的市场数据），并提供讨论，说明如何将这些证据视为足以支持对所请求的适应症的上市申请。 此部分可以包含临床研究的表格列表。
 
-**NOTE:** Human factors testing that include patients should be included here.| **EU** Clinical evidence is always required, regardless of risk class. For Class III and implantable devices other than custom-made or investigational devices, a summary of safety and clinical performance (SSCP) per MDR Article 32 must be provided. **TGA** Every medical device requires clinical evidence, appropriate for its intended use and classification of the device, demonstrating that the device complies with the applicable provisions of the Essential Principles, Schedule 2 _Therapeutic Goods (Medical Devices) Regulations 2002._ Follow the guidance on ‘[Clinical Evidence Guidelines: Medical Devices](<https://can01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.tga.gov.au%2Fresource%2Fclinical-evidence-guidelines-medical-devices&data=05%7C01%7Callison.oldfield%40hc-sc.gc.ca%7Cf62106a1ae8c437ad1f908daa2d5d3ce%7C42fd9015de4d4223a368baeacab48927%7C0%7C0%7C638001336534515813%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=OjbreaAkLBClj2%2B8ZiZ8IP1%2B8Mi5i%2Fp1AHvvzMRQ%2F6M%3D&reserved=0>)’ on expected data requirements for each application.”**NMPA** Class II and Class III devices should be submitted with clinical evaluation data.**HC**
+2. 如果任何研究设备与要上市的设备不同，包括竞争对手的设备，则应描述这些差异及其对支持申请中提到的任何设备的证据有效性的影响。 这可能包括对两款设备的临床、技术和生物特征的详细比较，并提供详细的批判性分析，以证明两款设备在安全性和性能方面非常相似，从而不存在重要的临床差异。
 
-  1. Provide the Investigational Testing Authorization reference number for any clinical trials conducted under an Investigational Testing Authorization in Canada.
-  2. If applicable, provide the clinicaltrials.gov reference number for any clinical studies registered with clinicaltrials.gov. 
-  3. Consult the [guidance on clinical evidence requirements for medical devices](<https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/application-information/guidance-documents/clinical-evidence-requirements-medical-devices.html>) for additional requirements.
+3. 讨论对该医疗器械的临床证据，并说明选择这些证据的原因（即，考虑了哪种类型的证据以及为什么选择或不选择这些证据）
 
-**USFDA PMA and 510(k)** Does not limit the page number for the summary of the clinical information submitted**USFDA, HC, ANVISA, JP and HSA** If no clinical evidence is being provided, discuss why this is acceptable.**HSA** Regardless of risk class, for medical devices with labelled use beyond the inherent performance of the device, clinical data should be provided to substantiate the proposed labelled use.  
-**4.02.01**|  EU, HC, HSA, NMPA, JP, TGA| 2| Clinical Evaluation Report| 
+4. 讨论，说明所提供的证据是否足以支持申请。
 
-  1. A clinical evaluation report reviewed and signed by an expert in the relevant field that contains an objective critical evaluation of all of the clinical data submitted in relation to the device.
-  2. A complete curriculum vitae, or similar documentation, to justify the manufacturer's choice of the clinical expert. 
+**注意：** 包含患者的，应包括人机因素测试。| **欧盟** 始终需要提供临床证据，无论风险等级如何。对于 III 类和非定制或试验性植入式医疗器械，必须提供根据《医疗器械法规 2002》第 32 条规定的安全和临床性能（SSCP）摘要。 **TGA** 任何医疗器械都需要临床证据，该证据应符合其预期用途和器械的分类，证明该器械符合《基本原则》第 2 附则《医疗器械法规 2002》的适用规定。请遵循《[医疗器械临床证据指南](<https://can01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.tga.gov.au%2Fresource%2Fclinical-evidence-guidelines-medical-devices&data=05%7C01%7Callison.oldfield%40hc-sc.gc.ca%7Cf62106a1ae8c437ad1f908daa2d5d3ce%7C42fd9015de4d4223a368baeacab48927%7C0%7C0%7C638001336534515813%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=OjbreaAkLBClj2%2B8ZiZ8IP1%2B8Mi5i%2Fp1AHvvzMRQ%2F6M%3D&reserved=0>)》中关于每个申请的预期数据要求。**NMPA** II 类和 III 类医疗器械应提交临床评估数据。**HC**
 
-| **EU** For specific MDR requirements see MDR Article 61, Annex II Section 6.1 (c) and Annex XIV PART A for requirements. Provide also the clinical evaluation plan documented and used for the device.**NMPA** a) Product description and R&D background: including the basic information of the proposed product, the scope of application, the existing diagnostic or therapeutic methods and the clinical application of the involved device, the relationship between the proposed product and the existing diagnostic or therapeutic methods, and the intended clinical efficacy, etc.b) Clarify the scope of clinical evaluation, and describe the structural composition and reasons for exemption from clinical evaluation if any part of the proposed product can be exempt from clinical evaluation.c) Clinical evaluation pathway: select the appropriate clinical evaluation pathway according to the scope of application, technical features, existing clinical data and other specific conditions of the proposed product, including the clinical evaluation pathway of the predicate medical device and/or clinical trial pathway.d) For the clinical evaluation conducted through the clinical evaluation pathway of the predicate medical device, the comparative data of the proposed product and the predicate medical device in terms of the application scope, technical features and biological properties shall be submitted; clinical data of the predicate medical device shall be collected, evaluated and analyzed to form clinical evidence. Where applicable, the differences between the proposed product and the predicate medical device shall be described, and sufficient scientific evidence shall be submitted to prove that they have the equivalent safety and effectiveness.  
-**4.02.02**|  IMDRF| 2| Device Specific Clinical Trials| **NO CONTENT AT THIS LEVEL** Clinical trial information under this heading should be grouped by trial|   
-**4.02.02.01**|  IMDRF| 3| [Trial description, protocol #, date of initiation]| **NO CONTENT AT THIS LEVEL** This heading should be CUSTOM AND BASED ON STUDY DETAILS and created **for each study** under the parent heading. The sub headings below would be for this study alone. For example, the structure will look something like this  
-Level 3: EU Pilot Study, CT4203, 2010-10-10  
-Level 4: Clinical Trial Summary  
-Level 4: Clinical Trial Report  
-Level 3: NA RCT Study, CT4584, 2011-01-23  
-Level 4: Clinical Trial Summary  
-Level 4: Clinical Trial Report|   
-**4.02.02.01.01**|  IMDRF| 4| Clinical Trial Summary| 
+1. 如果在加拿大进行任何在《临床试验授权》下进行的临床试验，请提供《临床试验授权》的参考编号。
 
-  1. A summary of the specific study described in the custom heading above that includes:
-  2. The key characteristics of the study (e.g. title of study, investigators, sites, study period (date of enrollment/date of last completed), objectives, methods, # patients, inclusion/exclusion criteria) and
-  3. Summary of the results of the analysis
-  4. Summary of conclusions related to the endpoints  
+2. 如果适用，请提供已在 clinicaltrials.gov 注册的任何临床试验的 clinicaltrials.gov 编号。
 
-**NOTES:** The sponsor/applicant should explicitly address any existing regional regulatory guidance related to the components of the clinical trial summary.The sponsor/applicant should explicitly state whether the data are sex-, gender-, age-, race-, and ethnicity- disaggregated. If the data are not disaggregated, the sponsor/applicant should provide a rationale why. | **HC**[Guidance on Clinical Evidence Requirements for Medical Devices](<https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/application-information/guidance-documents/clinical-evidence-requirements-medical-devices.html>) **USFDA**[Collection of Race and Ethnicity Data in Clinical Trials](<https://www.fda.gov/regulatory-information/search-fda-guidance-documents/collection-race-and-ethnicity-data-clinical-trials>)  
-**4.02.02.01.02**|  IMDRF| 4| Clinical Trial Report| 
+3. 查阅《医疗器械的临床证据要求指南》（<https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/application-information/guidance-documents/clinical-evidence-requirements-medical-devices.html>）以了解更多要求。
 
-  1. A clinical trial report of the specific study described in the custom heading above.
+**美国FDA PMA 和 510(k)** 不限制提交的临床信息摘要页数。
+**美国FDA、HC、ANVISA、JP 和 HSA** 如果没有提供临床证据，请说明原因。
+**HSA** 无论风险等级如何，对于标有超出设备固有性能的用途的医疗器械，应提供临床数据以证明所提出的用途。
+**4.02.01**| 欧盟、HC、HSA、NMPA、JP、TGA| 2| 临床评估报告|
 
-**NOTES:**
+1. 一份由相关领域的专家审核并签字的临床评估报告，其中包含对提交的所有临床数据进行客观的批判性评估。
 
-  1. The clinical study report should include elements such as the investigational plan/study protocol, protocol changes and deviations, description of patients, data quality assurance, analysis/results.
-  2. The sponsor/applicant should explicitly address any relevant existing regional regulatory guidance related to the components of the clinical trial report.
+2.  制造商选择临床专家的完整简历或类似文件，以证明制造商的选择。
 
-| **EU** For specific MDR requirements see MDR Articles 61-82 and Annex XV. Guidance is also available in EN ISO 14155 Clinical investigation of medical devices for human subjects – Good clinical practice.For devices without suitable equivalents and / or insufficient data in the literature, pre-market clinical investigation may be required. In addition, for Class III devices and Class IIb implantable devices, pre-market clinical investigation will be required except in the cases listed in MDR Article 61 (4) and (6).**TGA** Clinical trials must comply with:
+| **欧盟** 针对特定 MDR 要求的具体信息，请参见 MDR 第 61 篇文章、附录 II 第 6.1 (c) 节和附录 XIV PART A。同时提供已记录并使用的临床评估计划。**NMPA** a) 产品描述和研发背景：包括拟议产品的基本信息、应用范围、现有的诊断或治疗方法以及涉及的产品的临床应用、拟议产品与现有诊断或治疗方法的关系以及预期临床疗效等。b) 明确临床评估的范围，并描述如果拟议产品中的任何部分可以免于临床评估，则描述其结构组成和免于临床评估的原因。c) 临床评估路径：根据拟议产品的应用范围、技术特征、现有临床数据和其他具体条件，选择合适的临床评估路径，包括先导医疗器械的临床评估路径和/或临床试验路径。d) 对于通过先导医疗器械的临床评估路径进行的临床评估，应提交拟议产品与先导医疗器械在应用范围、技术特征和生物学性质方面的比较数据；应收集、评估和分析先导医疗器械的临床数据，以形成临床证据。如果适用，应描述拟议产品与先导医疗器械之间的差异，并提交充分的科学证据，以证明其具有等效的安全性和有效性。
 
-  1. NHMRC National Statement of Ethical Conduct in Human Research if the study is conducted in Australia (clause 8.4(4) of Part 8 of Schedule 3 of the MD Regs); or
+**4.02.02**| IMDRF| 2| 针对特定医疗器械的临床试验| **此处无内容** 此标题下的临床试验信息应按试验进行分组|
+**4.02.02.01**| IMDRF| 3| [试验描述、试验编号、开始日期]| **此处无内容** 此标题应根据研究详情进行自定义，并在父标题下为每个研究创建。以下子标题仅适用于该研究。例如，结构将如下所示：
+第 3 级：欧盟试点试验，CT4203，2010-10-10
+第 4 级：临床试验摘要
+第 4 级：临床试验报告
+第 3 级：NA RCT试验，CT4584，2011-01-23
+第 4 级：临床试验摘要
+第 4 级：临床试验报告|
+**4.02.02.01.01**|
 
-the Declaration of Helsinki if the study is conducted outside of Australia (clause 8.4(5) of Part 8 of Schedule 3 of the MD Regs)   
-**4.02.02.01.03**|  USFDA| 4| Clinical Trial Data| | **USFDA** The sponsor/applicant should explicitly address any existing regional regulatory guidance related to the clinical study and data provided in this section regarding the subject device. In this instance regional regulatory guidance refers to Special Controls in a device specific regulation, device-specific guidance document, special controls guidance, special controls guideline, and Statutory or Regulatory criteria.The Center for Devices and Radiological Health (CDRH) accepts and encourages the inclusion of clinical data in electronic (non-PDF) form as supporting material to a premarket (PMA or 510(k)) submission.<http://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/HowtoMarketYourDevice/PremarketSubmissions/ucm136377.htm>  
-**4.02.03**|  IMDRF| 2| Clinical Literature Review and Other Reasonable Known Information| 
+1. 对上述自定义标题中描述的具体研究的总结，包括：
 
-  1. A critical evaluation of the relevant scientific literature currently available relating to the safety and/or effectiveness of the device. This should incorporate:
-     *        1. A documented search protocol to a level of detail that allows the search to be reproduced;
-       2. A selection strategy (inclusion/exclusion criteria);
-       3. Criteria for appraising the data (both favourable and unfavourable) to determine the contribution of each data set to support the conclusions;
-       4. Results of the literature search; and
-       5. A documentation of the appraisal to the extent that it can be critically reviewed by others.
-  2. A legible copy of key articles, including translation where applicable to meet the regulators language requirements.
+2. 研究的主要特征（例如：研究名称、研究人员、研究地点、研究期间（入组日期/最后完成日期）、目标、方法、# 患者、纳入/排除标准）
 
-**OR**
+3. 结果分析的总结
 
-  1. A statement that no literature related to the device was found.  
+4. 与终点相关的结论总结
 
-**NOTES:**
+**注意：** 申请人/赞助方应明确说明与临床试验摘要的各个组成部分相关的任何现有的区域监管指导。申请人/赞助方应明确说明数据是否按性别、性别、年龄、种族和民族进行分级。如果数据未进行分级，申请人/赞助方应提供理由。| **HC**[医疗器械的临床证据要求指南](<https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/application-information/guidance-documents/clinical-evidence-requirements-medical-devices.html>) **USFDA**[临床试验中种族和民族数据的收集](<https://www.fda.gov/regulatory-information/search-fda-guidance-documents/collection-race-and-ethnicity-data-clinical-trials>)
+**4.02.02.01.02**|  IMDRF| 4| 临床试验报告|
 
-  *     1. The sponsor/applicant should explicitly address any existing regional regulatory guidance related to the clinical study and data provided in this section regarding the subject device
-    2. Please see Chapter 2.07 for Post-Market Study plans.
+1.  特定研究的临床试验报告，如上方的自定义标题所述。
 
-| **EU** For specific MDR requirements see MDR Article 61 (3) and Annex XIV Section 3.
+**注意：**
 
-  * A copy of all literature articles selected and analysed within the clinical evaluation report should be included in the technical documentation.
-  * A full list of retrieved articles and of excluded articles provided, with reasons for exclusion, should also be provided.
+1. 临床研究报告应包括诸如研究计划/研究方案、方案变更和偏差、患者描述、数据质量保证、分析/结果等元素。
 
-**4.03**|  NMPA, USFDA| 1| Informed Consent Information| | **NMPA** Clinical trial protocol, written opinions on the approval of the clinical trial from the Ethics Committee of the clinical trial institution, clinical trial report, and sample Informed Consent Form shall be provided.**USFDA** Any information related to informed consent in the collection of the clinical information used to support the submission, such as copies of Institutional Review Board-approved informed consent forms, is to be provided here.  
-**4.04**|  USFDA| 1| Investigators Sites and IRB Contact Information|  | **USFDA** Investigators and study administrative structure information should be provided, including (as appropriate):
+2.  申请人/赞助方应明确说明与临床试验报告的各个组成部分相关的任何相关的现有区域监管指导。
 
-  1. Investigators (who signed the Investigator agreement)-name, address, telephone # (contact info), CV
-  2. Sites-Site number as reflected in the study report in reference to the investigator, address if different from the above
-  3. Sponsor-address and regulatory contact information
-  4. Contract Research Organization (CRO), if applicable-name, address, and contact information
+| **欧盟** 参见 MDR 第 61-82 篇文章和附件 XV。 此外，在 EN ISO 14155《医疗器械对人类进行临床试验——良好临床实践》中，也有相关指导。对于没有合适等效或/以及文献中缺乏足够数据的设备，可能需要进行上市前临床试验。 此外，对于 III 类设备和 IIb 类植入式设备，在 MDR 第 61(4) 和 (6) 条规定的情况下，除外。**TGA** 临床试验必须符合：
 
-5\. Laboratory facilities (central lab and/or local lab that participated in the study)-name, address, contact information   
-**4.05**|  HC, HSA, TGA, USFDA| 1| Real World Data (RWD)| Where applicable, other clinical experience data/real world data (including device registries, post-market studies conducted in other jurisdictions)|   
-**4.06**|  EU, HC, HSA, TGA, USFDA| 1| Post-Market Surveillance Data| | **EU** See MDR Chapter VII and Annex III on post-market surveillance as well as Annex XIV for requirements relating to post-market clinical follow-up (PMCF); procedures to be in section 6.09.  
-**4.07**|  IMDRF| 1| Other Clinical Evidence| Heading for other information that may be important to the submission but that does not fit in any of the other headings of this chapter. | **NMPA** Where applicable, summary, reports and data of the corresponding project evaluation materials shall be provided.  
+1.  如果研究在澳大利亚进行，则符合 NHMRC《人类研究的伦理行为声明》(Schedule 3 of the MD Regs, clause 8.4(4) of Part 8); 或
 
-# Chapter 5 – Labelling and promotional material
+《赫尔辛基宣言》如果研究在澳大利亚境外进行（《医疗器械法规》第 3 号附件第 8 部分第 8.4(5) 条）
+**4.02.02.01.03**| 美国食品药品监督管理局| 4| 临床试验数据| | **美国食品药品监督管理局** 资助方/申请人应明确说明与本部分中关于该器械的临床试验和数据的任何现有区域监管指导。在此，区域监管指导是指特定器械的特殊控制、器械特定指导文件、特殊控制指导、特殊控制指南以及法定或监管标准。美国食品药品监督管理局（CDRH）接受并鼓励将临床数据以电子（非 PDF）形式作为预上市（PMA 或 510(k)）提交的辅助材料。<http://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/HowtoMarketYourDevice/PremarketSubmissions/ucm136377.htm>
+**4.02.03**| 国际医疗器械监管论坛| 2| 临床文献回顾及其他合理已知信息|
 
-**Row ID**| **Regions & Level**| **Heading**| **Common Content**| **Regional Content**  
----|---|---|---|---  
-**5.01**|  IMDRF| 1| Chapter Table of Contents| 
+1. 对与该器械的安全性及/或有效性的相关科学文献的批判性评估。这应包括：
 
-  1. Includes all headings for the chapter.
-  2. Specifies the page number for each item referred to in the table.
+*        1. 记录详细的搜索协议，以便可以重复进行搜索；
+
+2. 选择策略（包含/排除标准）；
+
+3. 评估数据的标准（包括有利和不利数据），以确定每个数据集对得出结论的贡献；
+
+4. 文献检索的结果；以及
+
+5. 对评估的记录，以便可以由他人进行批判性审查。
+
+2. 能够清晰阅读的关键文件副本，包括适用的翻译，以满足监管机构的语言要求。
+
+**或者**
+
+1. 声明：未发现与该设备相关的文献。
+
+**注意：**
+
+1. 资助方/申请人应明确说明与本部分中提供的临床研究和数据相关的任何现有的区域监管指导。
+
+2. 请参阅第 2.07 章，了解上市后研究计划。
+
+| **欧盟** 针对特定 MDR 要求，请参见 MDR 第 61(3) 条和第 14 附件第 3 节。
+
+* 临床评估报告中选择和分析的所有文献文章应包含在技术文件中。
+
+* 还应提供所有检索到的文章和已排除的文章的完整清单，以及排除的原因。
+
+**4.03**| NMPA, USFDA| 1| 知情同意信息| | **NMPA** 应提供临床试验方案、临床试验机构伦理委员会对临床试验批准的书面意见、临床试验报告以及样本知情同意表。 **USFDA** 应提供与临床信息收集中知情同意相关的任何信息，例如获得机构审查批准的知情同意表副本。
+**4.04**| USFDA| 1| 试验地点和 IRB 联系信息| | **USFDA** 应提供试验地点和行政结构信息，包括（如果适用）：
+
+1. 试验者（已签署试验者协议的人员）-姓名、地址、电话号码（联系方式）、简历
+
+2. 试验地点-与试验者在试验报告中反映的试验地点编号、如果与上述不同，则地址
+
+3. 赞助方地址和监管联系信息
+
+4. 如果适用，合同研究机构（CRO）的名称、地址和联系方式
+
+5\. 实验室设施（中心实验室和/或参与研究的当地实验室）-名称、地址、联系方式
+**4.05**| HC、HSA、TGA、USFDA| 1| 真实世界数据 (RWD)| 在适用情况下，提供其他临床经验数据/真实世界数据（包括设备注册、在其他辖区进行的上市后研究）|
+**4.06**| EU、HC、HSA、TGA、USFDA| 1| 上市后监测数据| | **欧盟** 参见《医疗器械法规》第 VII 章和附录 III 关于上市后监测，以及附录 XIV 关于上市后临床随访（PMCF）的要求；应在第 6.09 节中规定程序。
+**4.07**| IMDRF| 1| 其他临床证据| 用于提供可能对提交材料有重要意义，但不属于本章其他标题的其他信息。| **NMPA** 在适用情况下，应提供与相应项目评估材料的摘要、报告和数据。
+
+# 第 5 章 – 标签和宣传材料
+
+**行 ID**| **地区和级别**| **标题**| **常见内容**| **地区内容**
+---|---|---|---|---
+**5.01**| IMDRF| 1| 章节目录|
+
+1. 包含章节的所有标题。
+
+2. 明确说明表中每个项目的页码。
 
 |   
-**5.02**|  IMDRF| 1| Product/Package Labels| Samples of the primary and secondary packaging labels. **NOTES:**
+**5.02**| IMDRF| 1| 产品/包装标签| 主要和次要包装标签的样本。 **注意：**
 
-  1. Do not include shipping labels. 
-  2. The sponsor/applicant should explicitly address any existing regional regulatory guidance related to labelling the subject nIVD medical device.
+1. 请勿包含运费标签。
+
+2. 资助人/申请人应明确说明与标记相关的所有现有区域监管指导，适用于该 nIVD 医疗器械。
 
 | **ANVISA**
 
-  1. According to Brazilian Legislation all information associated with the device, including labelling, shall be in Brazilian-Portuguese.
-  2. Specific requirements of labelling content are established by ANVISA´s regulatory framework.
-  3. In case the product is marketed with original labels, (PDFs of) stickers with local information will need to be provided.
+1. 根据巴西法律，与该设备相关的所有信息，包括标签，必须使用葡萄牙语。
 
-**EU** For specific MDR requirements see MDR Annex I GSPRs 23.1, 23.2, 23.3 and Annex II Section 2.**HC**
+2. 标记内容的具体要求由 ANVISA 的监管框架规定。
 
-  1. All labelling must comply with sections 21 to 23 of the _Medical Devices Regulations_.
-  2. Consult the [guidance for the labelling of medical devices, not including in vitro diagnostic devices](<https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/application-information/guidance-documents/guidance-labelling-medical-devices-including-vitro-diagnostic-devices-appendices.html>).
+3. 如果产品使用原始标签，则需要提供包含本地信息的（PDF格式的）标签。
 
-**NMPA** Product instructions for use shall be submitted, with the contents conforming to the Provisions on the Administration of Instructions for Use and Labels of Medical Devices, relevant laws, regulations, normative documents and mandatory standards.**TGA** The labels and instructions for use (including any package inserts) must
+**欧盟** 参见《医疗器械法规》第 I 附录 GSPRs 23.1、23.2、23.3 和第 II 附录第 2 节。**HC**
 
-  1. meet the requirements of Essential Principle 13
-  2. be in English and legible when viewed on screen and printed
-  3. include the Australian sponsor’s contact details to meet Regulation 10.2
-  4. meet the requirements of the Standard for the Uniform Scheduling of Medicines and Poisons, if the device contains a substance listed in Schedule 4
+1. 所有标记必须符合《医疗器械法规》第 21 到 23 节的要求。
 
-If the applicant is including draft labels, artist impression or mock-up labels, the applicant needs to provide:
+2. 查阅《医疗器械标签指南（不包括体外诊断设备）》（<https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/application-information/guidance-documents/guidance-labelling-medical-devices-including-vitro-diagnostic-devices-appendices.html>）。
 
-  1. the mock-up as full size suitable for A3 printing
-  2. a statement as to where and how the batch/serial number/ date of manufacture/expiry date/ will be displayed 
+**NMPA** 产品说明书应提交，内容应符合《医疗器械说明书和标签管理规定》、相关法律、法规、规范文件和强制性标准。**TGA** 必须提供设备（包括包装说明书）的标签和说明书，内容应涵盖：
 
-For a medical device that is software, or that incorporates software, the current version number and current build number of the software must
+1. 《基本原则13》的要求
 
-  1. meet the requirements of Essential principle 13B
-  2. be accessible by, and identifiable to, users of the device
-  3. be in English
+2. 必须为英语，在屏幕上和打印时清晰可辨
 
-MRI Safety Labelling of the devices (IFU, PIL) covering:
+3. 包含澳大利亚赞助人的联系方式，以符合第10.2条的要求
 
-  1. MR conditional label claims to be included per standard requirements
-  2. The safety and conditions of use of a medical device for each magnetic field strength (e.g. 0.25 T, 1.2 T, 1.5 T, 3.0 T, 7.0 T) MR system, radiofrequency (RF) transmit coil type (e.g. whole-body transmit coil, head RF transmit-receive coil) and RF excitation (e.g. Circularly Polarized (CP), Multichannel-2 (MC-2)) to which the medical device is anticipated to be exposed.
+4. 如果设备包含《药品和毒品统一编排标准》第4级物质，则必须符合该标准的要求
 
-Specific labelling requirements for IVF media:
+如果申请人提供的是草稿标签、示意图或样板标签，则申请人需要提供：
 
-  1. Labelling should indicate whether the product has been tested for reproductive or developmental toxicity
-  2. Labelling should indicate results of the mouse embryo assay (one-cell or two-cell MEA)
-  3. Labelling should indicate results for endotoxin test performed on the product
+1. 样板图，尺寸为A3，适合打印
 
-**HSA** Refer to GN-23 – available at [www.hsa.gov.sg](<http://www.hsa.gov.sg>) for labelling requirements. a) Copies of device and packaging labels are to be provided in original color. b) If representative labels are provided, variable fields on the artwork must be highlighted, and ranges of values for the variable fields should be indicated. **USFDA** Follow device labelling regulations found in 21 CFR Part 801.  
-**5.03**|  IMDRF| 1| Package Insert/Instructions for Use| Package Insert/Instructions for Use included in the package, when required or provide support for why this element is not applicable.**NOTE:** The sponsor/applicant should explicitly address any existing regional regulatory guidance related to labelling the subject device| **ANVISA**
+2. 声明标签/序列号/生产日期/有效期/将在何处和如何显示
 
-  1. According to Brazilian Legislation all information associated with the device, including labelling, shall be in Brazilian-Portuguese.
-  2. Specific requirements of labelling content are established by ANVISA´s regulatory framework.
-  3. The current version of the instruction for use must be informed.
+对于医疗器械，如果该设备包含软件，或者包含软件，则必须提供当前软件的版本号和当前构建号。
 
-**EU** See MDR Annex I GSPRs 23.1, 23.3, 23.4 and Annex II Section 2 for detailed requirements**HC**
+1. 满足《基本原则 13B》的要求
 
-  1. All labelling must comply with sections 21 to 23 of the _Medical Devices Regulations_.
-  2. Consult the [guidance for the labelling of medical devices, not including in vitro diagnostic devices](<https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/application-information/guidance-documents/guidance-labelling-medical-devices-including-vitro-diagnostic-devices-appendices.html>). 
-  3. The current version and date of the instructions for use must be stated.
+2. 易于用户使用，并能被用户识别
 
-**NMPA** a）Product instructions for use shall be submitted, with the contents conforming to the Provisions on the Administration of Instructions for Use and Labels of Medical Devices, relevant laws, regulations, normative documents and mandatory standards. b）Overseas applicants shall submit the product instructions for use in original language.**TGA** The labels and instructions for use (including any package inserts) must
+3. 必须使用英语
 
-  1. meet the requirements of Essential Principle
-  2. be in English and legible when viewed on screen and printed
-  3. include the Australian sponsor’s contact details to meet Regulation 10.2
+MRI 安全标签要求，包括：
 
-If the applicant is including draft labels, artist impression or mock-up labels, the applicant needs to provide:
+1. 按照标准要求，明确标示MRI条件下的标签声明
 
-  1. the mock-up as full size suitable for A3 printing
-  2. a statement as to where and how the batch/serial number/ date of manufacture/expiry date/ will be displayed 
+2. 针对每个磁场强度（例如：0.25T、1.2T、1.5T、3.0T、7.0T）的MRI系统、射频（RF）发射线圈类型（例如：全身发射线圈、头部RF发射-接收线圈）和射频激发（例如：圆极化（CP）、多通道-2（MC-2））以及医疗器械预计接触到的情况，说明设备的安全性及使用条件。
 
-**USFDA PMA** Package inserts include a summary of clinical data**HSA** Refer to GN-23 – available at [www.hsa.gov.sg](<http://www.hsa.gov.sg>) for labelling requirements.   
-**5.04**|  ANVISA, EU, HC, HSA, USFDA| 1| e-labelling| In addition to the e-labelling itself, the following should be provided:
+IVF 培养液的特定标签要求：
 
-  1. For eligible medical devices and Software as a Medical Device, the applicant needs to identify which form of e-labelling is being used (e.g. electronic storage system or built-in system, website).
-  2. Details of risk management in relation to e-labelling. If this is part of the overall risk management, refer to it here 
-  3. When IFUs are requested, a description of the procedure and operations on providing IFU's when requested
-  4. Written information for users on the webpage identifying where the IFU and further information can be found in relevant languages.
-  5. A description on how the e-labeling requirements for the website have been met.
-  6. If a video/App is available to demonstrate how the device is intended to function, provide a link as well as details about how it is maintained and updated throughout the life cycle of the device.
+1. 标签应指示产品是否已进行生殖或发育毒性测试
 
-| **EU**
+2. 标签应指示小鼠胚胎试验（单细胞或双细胞MEA）的结果
 
-  * Instructions for use may be provided to the user in non-paper format (e.g. electronic) to the extent, and only under the conditions, set out in Commission Implementing Regulation (EU) 2021/2226, as per GSPR 23.1(f)
-  * If the manufacturer has a website, the instructions for use shall be made available and kept up to date on the website and comply with Article 9 of Commission Implementing Regulation (EU) 2021/2226. The URL of the website where such information will be made available should be included.
+3. 标签应指示对产品进行的内毒素测试的结果
 
-**HC** For devices that are not sold to the general public, IFUs may be provided as downloadable from the internet and/or on electronic data storage devices, e.g. compact disc, digital video disc, USB flash drive, etc. The electronic label or URL must accompany the device at the time of sale and/or delivery and be displayed in a manner that alerts the user to its purpose. A Letter of Attestation must also be included with the application. Refer to the [guidance for the labelling of medical devices, not including in vitro diagnostic devices](<https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/application-information/guidance-documents/guidance-labelling-medical-devices-including-vitro-diagnostic-devices-appendices.html>), for additional information.If a video/App is available as described in f) above, the video should be available in both French and English.**HSA** Refer to GN-23 – available at [www.hsa.gov.sg](<http://www.hsa.gov.sg>) for e-labelling requirements.   
-**5.05**|  ANVISA, EU, HC, HSA, TGA, USFDA| 1| Healthcare Professional Labelling| Labelling directed at the healthcare professional other than the package insert, such as the surgical manual| **TGA** The requirements under Poison Standard for certain types of Class III implantable devices, refer to [The poison standard and medical devices](<https://www.tga.gov.au/sites/default/files/poisons-standard-and-medical-devices.pdf>)  
-**5.06**|  ANVISA, EU, HC, HSA, USFDA| 1| Patient Labelling| Labelling directed at the patient other than the package insert, such as informational material written to be comprehended by the patient or lay caregiver|   
-**5.07**|  ANVISA, EU, HC, HSA, TGA, USFDA| 1| Technical and/or Operator Manual| Labelling directed the technical users and operators of medical devices focusing on the proper use and maintenance of the device and surgical technique instructions|   
-**5.08**|  ANVISA, EU, HC, TGA| 1| Patient File Stickers/Cards and Implant Registration Cards| | **ANVISA** Traceability labels for permanent implantable devices: Extra labels, according ANVISA’s requirements, shall be included in the package, informing at the minimum: commercial trade name of the device, manufacturer and importer (if applicable) identification, catalog number of product, lot/serial number and the device authorization number issued by ANVISA.**EU** If applicable, the implant card and other information per MDR Article 18 shall be included.**HC**
+**HSA** 请参考 GN-23 – 详细信息请访问 [www.hsa.gov.sg](<http://www.hsa.gov.sg>)，了解标签要求。 a) 必须提供原始颜色的设备和包装标签副本。 b) 如果提供代表性标签，则必须突出显示图稿上的可变字段，并标明可变字段的取值范围。 **USFDA** 遵循 21 CFR Part 801 中规定的设备标签法规。
+**5.03**| IMDRF| 1| 包装说明/使用说明| 包装内包含包装说明/使用说明，如果需要，则提供证明该元素不适用的理由。 **注意：** 赞助人/申请人应明确说明与该设备标签相关的任何现有区域法规指导。 **ANVISA**
 
-  1. If applicable, stickers/cards intended to be place in the patient’s chart identifying the implant (e.g. serial #, lot#, make, model)
-  2. If applicable, implant registration cards
+1. 根据巴西法律，与该设备相关的所有信息，包括标签，必须使用葡萄牙语。
 
-**TGA** For an implantable medical device or an active implantable medical device, a patient implant card and patient information leaflet must:
+2. 标记内容的具体要求由 ANVISA 的监管框架规定。
 
-  1. meet the requirements of Essential Principle 13A
-  2. be in English
+3. 必须提供当前版本的《使用说明》。
 
-**5.09**|  EU, HC| 1| Product Brochures| | **EU**
+**欧盟** 请参阅 MDR 第一部分第 23.1、23.3、23.4 条以及第二部分第 2 节，了解详细要求。**HC**
 
-  * Product brochures, catalogues containing devices (including claims) available for the user within the EU.
-  * The identification number of the NB shall also be indicated in any promotional material which mentions that a device fulfils the requirements for CE marking as per MDR Article 20.5.
+1. 所有标记必须符合《医疗器械法规》第 21 到 23 节的要求。
 
-**HC** Draft product brochures available at the time of application  
-**5.10**|  IMDRF| 1| Other Labelling and Promotional Material| Heading for other information that may be important to the submission but that does not fit in any of the other headings of this chapter.Individual jurisdictions may have their own regulations or requirements regarding other labelling elements or advertising and promotional materials. If necessary, this section can be used to address jurisdiction-specific regulations or requirements involving other labelling elements other than those described elsewhere in this section, including advertising and promotional materials. | **NMPA** Where applicable, other documents supplementing the product information shall be provided.**TGA** Labelling elements or advertising and promotional materials must also comply with the requirements of the [Therapeutic Goods Advertising Code](<https://www.legislation.gov.au/F2021L01661/latest/versions>).  
+2. 查阅《医疗器械标签指南（不包括体外诊断设备）》（<https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/application-information/guidance-documents/guidance-labelling-medical-devices-including-vitro-diagnostic-devices-appendices.html>）。
 
-# Chapter 6 – Quality management system
+3. 必须注明说明书的当前版本和日期。
 
-**Row ID**| **Regions & Level**| **Heading**| **Common Content**| **Regional Content**  
----|---|---|---|---  
-**6.01**|  TGA, USFDA, NMPA| 1| Cover Letter| A Cover Letter is only required under this chapter when the submission only includes quality system information.| **USFDA PMA** Any modular PMA submission of quality system information requires a cover letter containing the information describe in Chapter 1 under the Cover Letter heading.**NMPA** The applicant shall undertake to have established a corresponding quality management system in accordance with the requirements of relevant laws and regulations and accept the inspection by the quality management system at any time.  
-**6.02**|  NMPA, USFDA| 1| Chapter Table of Contents| 
+**NMPA** a）产品说明书应提交，内容符合《医疗器械说明书和标签管理规定》、相关法律、法规、规范文件和强制性标准。 b）海外申请人应以原始语言提交产品说明书。**TGA** 标签和说明书（包括任何包装说明）必须
 
-  1. Includes all headings for the chapter.
-  2. Specifies the page number for each item referred to in the table.
+1. 满足《基本原则》的要求
+
+2. 必须为英语，在屏幕上和打印时清晰可辨
+
+3. 包含澳大利亚赞助人的联系方式，以符合第10.2条的要求
+
+如果申请人提供的是草稿标签、示意图或样板标签，则申请人需要提供：
+
+1. 样板图，尺寸为A3，适合打印
+
+2. 声明标签/序列号/生产日期/有效期/将在何处和如何显示
+
+**USFDA PMA** 包装说明包含临床数据的摘要**HSA** 请参阅 GN-23 – 可在 [www.hsa.gov.sg](<http://www.hsa.gov.sg>) 上获取标签要求。
+**5.04**| ANVISA, 欧盟, HC, HSA, USFDA| 1| 电子标签| 除了电子标签本身，还应提供以下内容：
+
+1. 对于符合条件的医疗器械和软件医疗器械，申请人需要确定正在使用的电子标签形式（例如，电子存储系统或内置系统、网站）。
+
+2. 电子标签相关的风险管理详情。如果这是整体风险管理的一部分，请在此处引用。
+
+3. 当要求提供说明书时，描述提供说明书的程序和操作。
+
+4. 在网页上为用户提供书面信息，说明在哪里可以找到说明书以及其他相关语言的信息。
+
+5. 描述如何满足网站的电子标签要求。
+
+6. 如果有视频/App来演示设备的使用方式，请提供链接以及关于如何维护和更新设备在整个生命周期内的详细信息。
+
+| **欧盟**
+
+* 使用说明可能以非纸质形式（例如电子形式）向用户提供，具体方式和条件应符合《欧盟指令（2021/2226）》以及 GSPR 23.1(f) 的规定。
+
+* 如果制造商有网站，说明书应在网站上提供并保持最新，并符合《欧盟》第 2021/2226 号委员会实施条例第 9 条的要求。 应该包含指向提供此类信息的网站的 URL。
+
+**HC** 对于未面向公众销售的设备，说明书可从互联网下载，或存储在电子数据存储设备上，例如光盘、数字视频光盘、USB闪存驱动器等。 电子标签或URL必须在销售和/或交付时随设备一起提供，并以一种方式显示，以便提醒用户其用途。 申请还应包含一份证明信。 如需更多信息，请参阅《医疗器械标签指南》（不包括体外诊断设备），网址：[https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/application-information/guidance-documents/guidance-labelling-medical-devices-including-vitro-diagnostic-devices-appendices.html]
+如果如(f)中所述的视频/App可用，则视频应提供法语和英语两种语言。
+**HSA** 请参阅 GN-23 – 可在 [www.hsa.gov.sg](http://www.hsa.gov.sg) 上获取，有关电子标签的要求。
+
+**5.05**| ANVISA, EU, HC, HSA, TGA, USFDA| 1| 医疗专业人员标签| 标签面向医疗专业人员，除了包装说明书，例如手术手册| **TGA** 按照《毒性标准》对某些类型第三类植入式医疗器械的要求，请参阅 [The poison standard and medical devices](<https://www.tga.gov.au/sites/default/files/poisons-standard-and-medical-devices.pdf>)
+**5.06**| ANVISA, EU, HC, HSA, USFDA| 1| 患者标签| 标签面向患者，除了包装说明书，例如为患者或非专业护理人员编写的说明材料|
+**5.07**| ANVISA, EU, HC, HSA, TGA, USFDA| 1| 技术和/或操作手册| 标签面向医疗器械的技术用户和操作人员，侧重于正确使用和维护设备以及手术技术说明|
+**5.08**| ANVISA, EU, HC, TGA| 1| 患者文件贴纸/卡片和植入注册卡| | **ANVISA** 永久植入式医疗器械的可追溯标签：根据ANVISA的要求，应
+
+1. 如果适用，贴纸/卡片，用于放置在患者病历中的，标识植入物的（例如：序列号、批号、制造商、型号）
+
+2. 如果适用，植入物注册卡
+
+**TGA** 对于可植入的医疗器械或具有活体功能的植入性医疗器械，患者植入物卡和患者信息单必须：
+
+1. 符合《基本原则》第13A的要求
+
+2. 使用英语
+
+**5.09**|  欧盟、HC| 1| 产品宣传册| | **欧盟**
+
+* 产品宣传册、目录，包含设备（包括声明），可供欧盟用户使用。
+
+* 如果宣传材料提及设备符合《医疗器械条例》第20.5条的要求，则必须标明NB的识别编号。
+
+**HC** 申请时可用的产品宣传册草稿
+**5.10**|  IMDRF| 1| 其他标签和宣传材料| 用于提供其他可能对提交内容重要，但未包含在其他本章标题中的信息的标题。各个司法管辖区可能对其他标签元素或广告和宣传材料有自己的法规或要求。如果需要，本部分可用于解决涉及其他本部分中描述的标签元素（包括广告和宣传材料）以外的、特定于司法管辖区的法规或要求。| **NMPA** 如果适用，应提供补充产品信息的其他文件。**TGA** 标签元素或广告和宣传材料也必须符合《治疗品广告准则》的要求（<https://www.legislation.gov.au/F2021L01661/latest/versions>）。
+
+# 第 6 章 – 质量管理系统
+
+**行 ID**| **区域和级别**| **标题**| **通用内容**| **区域内容**
+---|---|---|---|---
+**6.01**| TGA、USFDA、NMPA| 1| 封面信| 在本章节中，只有当提交内容仅包含质量系统信息时，才需要提供封面信。**USFDA PMA** 任何仅包含质量系统信息的模块化 PMA 提交需要包含封面信，内容应符合第 1 章的“封面信”标题。**NMPA** 申请人应承诺建立符合相关法律法规要求的质量管理系统，并接受质量管理系统的随时检查。
+**6.02**| NMPA、USFDA| 1| 章节目录|
+
+1. 包含章节的所有标题。
+
+2. 明确说明表中每个项目的页码。
 
 |   
-**6.03**|  EU, NMPA, TGA,USFDA| 1| Product Descriptive Information | Abbreviated description of the device, operating principles and overall manufacturing methods. This section includes**** general information such as: • A description of the device, including pictures, and where possible, the proprietary name, common name, model number(s), product code, and intended use; and• A description of how the device worksProduct Descriptive Information is only provided under this chapter when the submission includes quality system information and Chapter 2.04 “Device Description” is not provided as part of the submission.| **USFDA** Any modular PMA submission of quality system information requires the contents of this subchapter.**EU** MDR Article 53 (4) The notified body may require any information or data from the manufacturer, which is necessary in order to properly conduct the chosen conformity assessment procedure.   
-However, such information (i.e., Risk Management, Clinical Evaluation related procedures, etc.) should be incorporated in the relevant chapters / subchapters.  
-**6.04**|  ANVISA, EU, HSA, NMPA, USFDA, TGA| 1| General Manufacturing Information | 
+**6.03**| 欧盟、NMPA、TGA、USFDA| 1| 产品描述信息 | 简要描述设备、工作原理和整体制造方法。本部分包括：• 设备的描述，包括图片，以及在可能的情况下，专有名称、通用名称、型号、产品代码和预期用途；以及• 描述设备的工作原理。
+只有在提交材料包含质量系统信息以及第 2.04 节“设备描述”时，才提供产品描述信息。| **USFDA** 任何包含质量系统信息的模块化 PMA 提交需要包含本子章节的内容。
+**欧盟** MDR 第 53(4) 条规定，经批准的机构可以要求制造商提供必要的任何信息或数据，以便正确地进行选择的合规性评估程序。
+然而，此类信息（即，风险管理、临床评估相关程序等）应包含在相关章节/子章节中。
 
-  1. Name, address, scope/role, and contact information for all sites where the device or its components are manufactured.
-  2. Description of any relationship between the facilities to the applicant when there is more than one involved in the manufacturing process for the applicable device.
-  3. Where applicable, addresses for all critical subcontractors, such as outsourced production, critical component, or raw material production (e.g. animal tissue, drugs), and sterilisation, will need to be provided.
+**6.04**| ANVISA、欧盟、HSA、NMPA、USFDA、TGA| 1| 总体制造信息 |
 
-| **EU** For specific MDR requirements see MDR Annex IX Section 2.1 and Annex II Section 3 (c). See also MDR Annex IX Section 2.1 for additional requirements related to the legal manufacturer, additional manufacturing sites and authorised representative.**USFDA PMA** Any modular PMA submission of quality system information requires the contents of this subchapter.Please consult the guidance document **_Quality System Information for Certain Premarket Application Reviews, Guidance for Industry and FDA Staff._** In this QS PMA guidance, please refer to section A.2 (Cover Letter) and provide the following information:• Full name and street address (no P.O. Box number),• Telephone number (with area code),• FDA Facility Establishment Identifier (FEI) or registration number,• Relationship of (each) manufacturing facility to applicant.• Contact person (and alternates) and their telephone number(s).• The date the facility site(s) will be ready for inspection.**NMPA** For change registration, if manufacturing site of the Imported Medical Device applicant changes, provide Comparative table and description. **TGA**
+1. 所有生产该设备或其组件的场所的名称、地址、范围/角色以及联系信息。
 
-  * For the manufacturer (as specified on device labelling), specify manufacturer name or trading name (if applicable), Australian Business number (ABN) / Australian Company number (ACN) (if applicable), TGA Client ID, manufacturer’s physical address, manufacturer’s postal address, scope of manufacturing facility (design, key production steps, labelling, final release, warehousing and dispatch).
-  * For each manufacturing facility, specify facility name, physical address, scope of facility (design, key production steps (specify), labelling, final release, warehousing and dispatch)
-  * For all manufacturing facilities include contact information (including full name of contact person, position of contact person, telephone number and email address)
-  * Where applicable, for each critical supplier such as outsourced production, critical component, or raw material production (e.g. animal tissue/recombinant origin material, medicinal substance) and sterilisation, specify supplier’s name, physical address, scope (for each relevant device, manufacturing stages performed at this site or services provided)
+2. 描述申请方与制造过程中涉及的任何其他设施之间的关系，尤其是在适用设备制造过程中涉及多个设施时。
 
-**6.05**|  USFDA| 1| Required Forms| Any regional specific forms to be completed associated with Quality management Systems in the premarket review process| **USFDA** Any forms needed related to Quality Management.  
-**6.06**|  NMPA, TGA, USFDA| 1| Quality Management System| High level quality management system documents, including procedures for establishing and maintaining the quality management system such as the quality manual, quality policy, quality objectives, and control of documents and records, as well as records providing evidence of conformance to requirements, and of the effective operation of the quality management system (when applicable). • ISO 13485 Elements– SOPs and device specific documentation to satisfy clause 4| **USFDA PMA** Please provide documentation according to QS PMA Guidance, Section II. Manufacturing Information, Item (1) Quality System Procedures 820.20(e)**NMPA** According to the above procedures of the quality management system, applicants shall form documents and records related to the quality management system. The following materials shall be submitted for inspection during the inspection on the quality management system.1\. Basic information form of applicant.2\. Organizational chart of the applicant.3\. General layout of the enterprise and the distribution map of production areas.4\. Where there are requirements for purification in the production process, a copy of the environmental testing report (with the layout plan attached) issued by a qualified testing institution shall be provided.5\. The flow chart of the product production process, which shall indicate the main control points and items, main raw materials and sources of purchased parts and the quality control methods.6\. Catalogue of main production equipment and inspection equipment (including the equipment required for incoming inspection, process inspection and final factory inspection; environmental monitoring equipment shall also be provided for the production conducted under the purification conditions).7\. Self-inspection report of the quality management system.8\. Where applicable, the explanation on the comparison of the product to be inspected and products previously passing the inspection in terms of production conditions and production process shall be provided.**TGA****New certificate application (initial)**
+3. 在适用情况下，需要提供所有关键子承包商的地址，例如外包生产、关键部件或原材料（例如动物组织、药品）的生产，以及灭菌服务的地址。
 
-  * Overview of manufacturing stages for each device Details of the manufacturing steps, or services provided by the responsible party 
-  * Latest version of the Quality Manual This must at a minimum include a reference to documented procedures.
+| **欧盟** 针对特定 MDR 要求，请参见 MDR 第 IX 附录第 2.1 节和第 II 附录第 3 (c) 节。 此外，请参见 MDR 第 IX 附录第 2.1 节，了解与合法制造商、其他生产地点和授权代表相关的附加要求。**美国 FDA PMA** 任何质量系统信息的模块化 PMA 提交需要遵循本子章节的内容。 请参考《_关于特定预先批准申请审查的质量系统信息，指导文件_》，该文件面向行业和 FDA 员工。 在此质量系统 PMA 指导文件中，请参考 A.2 (封面信) 部分，并提供以下信息：• 全名和街道地址（不包括邮政信箱号码），• 电话号码（包括区号），• FDA 设施识别码 (FEI) 或注册号，• (每个) 生产设施与申请人的关系。• 联系人（及其替代人）和他们的电话号码。• 设施（或设施）何时可以接受检查。**NMPA** 对于变更注册，如果进口医疗器械申请人的生产地点发生变化，请提供比较表和描述。**TGA**
 
-List of validated processes. For each process validation considered critical to the safety and performance of the device, e.g. drug coating process, sterilisation. Protocols/procedures for the validated process. Process validation report. The procedures for monitoring and controlling the process parameters of a validated process should be fully described. The frequency of re-validation**Substantial change application**
+* 针对制造商（如设备标签上指定），请注明制造商名称或贸易名称（如果适用），澳大利亚公司注册号（ABN）/澳大利亚公司注册号（ACN）（如果适用），TGA客户ID，制造商的实际地址，制造商的邮寄地址，生产设施的范围（设计、关键生产步骤、标签、最终释放、仓储和发货）。
 
-  * Details of the changes relating to the scope of a Schedule 3, Part 1, 4 or 5 TGA conformity assessment certificate. e.g. If the change relates to the device category, critical suppliers or manufacturer facilities listed on the certificate. 
-  * Details of changes to Quality Manual. Note: At minimum, this must include a reference to documented procedures.
-  * Details of changes to manufacturing process. This must include details of the changed manufacturing process, or services provided and the party responsible.
-  * Details of changes to protocols and reports for the validated processes.
+* 针对每个生产设施，请注明设施名称、实际地址、设施的范围（设计、关键生产步骤（具体说明）、标签、最终释放、仓储和发货）
 
-**6.07**|  NMPA, TGA, USFDA| 1| Management Responsibilities| Documents, including procedures that provide evidence of the management commitment to the establishment and maintenance of the QMS by addressing quality policy, planning, responsibilities/authority/communication and management review, as well as records providing evidence of conformance to requirements, and of the effective operation of the quality management system (when applicable).  
-• ISO 13485 Elements – SOPs and device specific documentation to satisfy clause 5| **USFDA PMA** Please provide documentation according to QS PMA Guidance, Section II. Manufacturing Information, Item (1):• Management review SOPs**TGA**
+* 针对所有生产设施，请提供联络信息（包括联络人的完整姓名、联络人的职位、电话号码和电子邮件地址）
 
-  * An undertaking (in writing) by the manufacturer to continue to comply with the requirements of the quality management system after assessment. 
-  * An undertaking (in writing) by the manufacturer to ensure that the quality management system is at all times is adequate and efficacious. 
-  * An undertaking (in writing) by the manufacturer to notify the TGA, or the Australian sponsor, of any information of the kind mentioned in subparagraphs 1.4(3)(c), 4.4(3)(c), or 5.4(3)(c) (for Parts 1, 4 or 5 CA procedures respectively), that the manufacturer becomes aware of in relation to the kind of medical device. 
+* 在适用情况下，对于每个关键供应商，例如外包生产、关键部件或原材料生产（例如动物组织/重组来源材料、药物），以及灭菌，请注明供应商的名称、物理地址、范围（针对每个相关设备、在该地点或服务中进行的制造阶段），
 
-**6.08**|  NMPA, USFDA| 1| Resource Management| Documents, including procedures that provide evidence of the adequate provision of resources to implement and maintain the QMS , as referenced in regulator’s guidance or regulation, including human resources, infrastructure, and work environment, as well as records providing evidence of conformance to requirements, and of the effective operation of the quality management system (when applicable).   
-• ISO 13485 Elements – SOPs and device specific documentation to satisfy clause 6| **USFDA PMA** Please provide documentation according to QS PMA Guidance, Section II. Manufacturing Information, Item:• (5) Production and Process Controls, 820.70 – SOPs for environmental and contamination controls   
-**6.09**|  EU,NMPA, TGA| 1| Planning of Product Realization and Customer Related Processes| High level product realization documents, including procedures such as those addressing planning and customer related processes, as well as records providing evidence of conformance to requirements, and of the effective operation of the quality management system (when applicable). Records demonstrating conformance to requirements are only provided under this chapter when the submission includes quality system information, and these records were not provided within the submission as part of a previous subchapter (e.g. as part of “Biocompatibility and Toxicology Evaluation” Chapter 3.05.06).• ISO 13485 Elements – SOPs and device specific documentation implementing sub clause 7.1 and 7.2| **EU** Annex II 3. DESIGN AND MANUFACTURING INFORMATION(b) complete information and specifications, including the manufacturing processes and their validation, their adjuvants, the continuous monitoring and the final product testing. Data shall be fully included in the technical documentation**Note** : Information provided in this subchapter should be concerning the relevant ISO 13485 clauses in the left column and should not cover manufacturing processes. 
+**6.05**| 美国FDA| 1| 必填表格| 任何与预上市质量管理系统相关的，特定区域要求的表格| **美国FDA** 任何与质量管理相关的表格。
+**6.06**| NMPA, TGA, 美国FDA| 1| 质量管理系统| 高级质量管理系统文件，包括建立和维护质量管理系统的程序，例如质量手册、质量政策、质量目标以及文件和记录的控制，以及提供符合要求的证据和有效运行质量管理系统（如果适用）的记录。• ISO 13485 要素 – SOP 和特定设备的文件，以满足第 4 条要求| **美国FDA PMA** 请根据 QS PMA 指导，第 II 节“制造信息，项目 (1) 质量系统程序 820.20(e)”提供文件。**NMPA** 根据上述质量管理系统的程序，申请人应形成与质量管理系统相关的文件和记录。在对质量管理系统进行检查时，应提交以下材料：1\. 申请人的基本信息表。2\. 申请人的组织结构图。3\. 企业的总体布局和生产区域的分布图。4\. 如果生产过程中有纯化要求，应提供由合格测试机构出具的（附带布局图）环境测试报告的副本。5\. 产品生产流程的流程图，应标明主要控制点和项目、主要原材料和采购零件的来源以及质量控制方法。6\. 主要生产设备和检查设备的目录（包括用于进货检查、过程检查和最终工厂检查所需的设备；在进行纯化条件下生产时，还应提供环境监测设备）。7\. 质量管理系统的自检报告。8\. 如果适用，应提供对待检查的产品与先前通过检查的产品在生产条件和生产过程方面的比较说明。**TGA** (新证书申请 (初始))
 
-  * Design and Development information should be provided as per information in 6.10.
-  * Manufacturing process related information should be provided as per information in 6.12.
+* 每个设备的制造阶段概述：制造步骤或由负责方提供的服务详情
 
-Annex III Technical Documentation on Post-Market SurveillancePlease provide relevant Procedures describing the preparation and implementation of Post Market Activities and how these activities are linked to other activities such as Risk Management, Clinical Evaluation, Periodic Safety Update Report, Summary on Safety and Clinical Performance.Do not provide the records or outputs of the processes here.   
-**6.10**|  EU, NMPA, TGA,USFDA| 1| Design and Development| Documents, including procedures that provide evidence of the systematic and controlled development of the device design from initiation of the project to transfer to production, as well as records providing evidence of conformance to requirements, and of the effective operation of the quality management system (when applicable). Records demonstrating conformance to requirements are only provided under this chapter when the submission includes quality system information, and these records were not provided within the submission as part of a previous subchapter (e.g. as part of “Biocompatibility and Toxicology Evaluation” Chapter 3.05.06).• ISO 13485 Elements – SOPs and device specific documentation implementing sub clause 7.3   
-| **EU** For specific MDR requirements see MDR Annex II Section 3 (a). See also MDR Annex IX Section 2.2 (c) for additional requirements related to design and development procedures. **USFDA PMA** Any modular PMA submission of quality system information requires records providing evidence of conformance to requirements with respect to this subchapter. Please provide documentation according to the QS PMA Guidance, Section I. Design Control Information, Items:(1) Design Controls, General, 820.30(a) – Explanation of where in your design and development process the device became subject to your design control program.(2) Design and Development Planning, 820.30(b) SOPs(3) Design Input, 820.30(c) SOPs(4) Design Output, 820.30(d) SOPs(5) Design Review, 820.30(e) SOPs(6) Design Verification, 820.30(f) SOPs(7) Design Validation, 820.30(g) SOPs(8) Design Transfer, 820.30(h) SOPs(9) Design Changes, 820.30(i) SOPs(10) Design History File, 820.30(j) SOPsPlease also include:(2) Design and Development Planning, 820.30(b) – Provide the design development plan for the subject device– Risk Analysis Procedure(s)(4) Design Output, 820.30(d) – Provide a list of the design outputs you consider essential for the proper functioning of the device for the device under review.(7) Design Validation, 820.30(g) – Summarize the scientific method or process used to prove the equivalence of the units used in validation testing to production units. – Summarize how the clinical evaluations of the device ensure the device meets user needs and the intended uses.– Explain how you have (or will) complete your software validation, and include any system integration testing  
-**6.11**|  EU, NMPA, TGA,   
-USFDA| 1| Purchasing | Documents, including procedures that provide evidence that purchased products/services conform to established relevant quality and/or product specifications, as well as records providing evidence of conformance to requirements, and of the effective operation of the quality management system (when applicable). • ISO 13485 Elements – SOPs and device specific documentation implementing sub clause 7.4| **USFDA PMA** Please provide documentation according to QS PMA Guidance, Section II. Manufacturing Information, Items: (4) Purchasing Controls, 820.50 – SOPs– List of suppliers and controls for suppliers of outsourced design and manufacutring function (9) Receiving Acceptance Activities, 820.80(b) – SOPs – Discussion of how Receiving Acceptance is balanced with Purchasing Control activities**EU** Detailed information on elements of Annex II 3. DESIGN AND MANUFACTURING INFORMATION(b) complete information and specifications, including the manufacturing processes and their validation, their adjuvants, the continuous monitoring and the final product testing. Data shall be fully included in the technical documentation(c) identification of all sites, including suppliers and sub-contractors, where design and manufacturing activities are performed.Please provide here only information on components and products provided by suppliers & subcontractors focusing on controls relevant for those components and products (Purchasing, Incoming Inspection, Final Product Testing)**TGA** A description of how purchasing requirements are fulfilled for the suppliers identified. This must include the supporting procedures and records of supplier evaluations by the manufacturer or suitable third party; and any agreement between the manufacturer and supplier defining responsibilities and authorities.  
-**6.12**|  ANVISA, EU,  
-HC, HSA, NMPA, TGA, USFDA| 1| Production and Service Controls| • ISO 13485 Elements – SOPs and device specific documentation implementing sub clause 7.5| **USFDA PMA** Please submit documentation according to QS PMA Guidance II. Manufacturing Information, Items:(2) Production Flow and summary of in-process acceptance activities (3) Use of Standards (7) Process Validation 820.75 (Master Plan), and list of process that will not be validated but verified by inspection and test instead, (8) Process Validation 820.75(a) – process validation protocols and validation reports(10) Final Acceptance Activities, 820.80(d) SOPs(14) Servicing, 820.200 SOPs**HC**
+* 最新版本的质量手册：这至少应包含对已记录程序的引用。
 
-  1. Detailed Manufacturing Flow Diagram
-  2. Summary of in-process acceptance activities for subject device
-  3. Process Validation Master Plan
-  4. List of processes that have not been validated
-  5. For each process validation considered critical to the safety and effectiveness of the device:
+经过验证的过程清单。对于每个被认为是确保设备安全和性能的关键的验证过程，例如药物涂层过程、灭菌过程，应列出验证过程的协议/程序。验证过程报告。应充分描述监控和控制经过验证过程参数的程序。重新验证的频率**重大变更申请**
 
-Protocols/Procedures for the validated processProcess validation reportThe procedures for monitoring and controlling the process parameters of a validated process should be fully described.State the frequency of re-validation**HC Note:**
+* 涉及《3号计划、第1、4或5部分TGA合规性证书》范围的变更详情。例如，如果变更与设备类别、证书中列出的关键供应商或制造商设施有关。
 
-  1. Manufacturing flow diagram is required to describe the methods used in, and quality controls used for, the manufacture, processing, packaging, storage and, where appropriate, the installation of the device. Sufficient detail must be provided to enable the judgement of the appropriateness of the quality controls in place.
-  2. If multiple facilities are involved in the manufacture of a device, the applicable information for each facility must be submitted. If the information is identical for a number of sites, this should be stated.
+* 质量手册的变更详情。请注意：这至少应包含对已记录程序的引用。
 
-**EU** Detailed information on elements of Annex II 3. DESIGN AND MANUFACTURING INFORMATION
+* 制造过程的变更详情。这应包括变更后的制造过程、提供的服务以及负责方的详情。
 
-  *     *       *         *           1. complete information and specifications, including the manufacturing processes and their validation, their adjuvants, the continuous monitoring and the final product testing. Data shall be fully included in the technical documentation.
+* 经过验证的流程的协议和报告的变更详情。
 
-Note: Please provide only information on processes and their validation that are not covered in other chapters and subchapters. Information about the following topics should be provided in the relevant subchapters of Chapter 3:
+**6.07**| NMPA、TGA、USFDA| 1| 管理层责任| 包括提供管理层对建立和维护质量管理体系（包括质量政策、规划、职责/权限/沟通和管理审查，以及提供符合要求的记录，以及质量管理体系有效运行（如果适用）的证据的程序的文件。
+• ISO 13485 要素 – SOP 和特定于设备的文档，以满足第 5 条要求。 **USFDA PMA** 请提供符合 QS PMA 指导，第 II 部分（制造信息，第 1 项）的文档。• 管理审查 SOP**TGA**
 
-  * Software/Firmware
-  * Biocompatibility and Toxicology Evaluation
-  * Non-Material-Mediated Pyrogenicity
-  * Safety of Materials of Biological Origin (human/animal)
-  * Sterilization Validation
-  * Animal Testing
-  * Usability/Human Factors
-  * Expiration Period and Package Validation
-    *       *         *           1. Identification of all sites where design and manufacturing activities are performed.
+* 制造商的书面承诺，在评估后继续符合质量管理体系的要求。
 
-Note: Information on suppliers and subcontractors see 6.11**HSA and ANVISA** Manufacturing process for the medical device should be provided in the form of a list of resources and activities that transform inputs to the desired output. \- Information should include the appropriate manufacturing methods and procedures, manufacturing environment or condition, and the facilities and controls used for the manufacturing, processing, packaging, labeling, and storage.\- Information on the manufacturing process should be provided in sufficient detail to allow a general understanding of the manufacturing processes and enable judgement of the appropriateness of the controls in place. Detailed proprietary information on the manufacturing process is not required. The information may be presented in the form of a process flow chart showing an overview of production, controls, assembly, final product testing and packaging of the finished medical device.\- If multiple facilities are involved in the manufacture of medical device, o Applicable information for each facility must be submittedo Manufacturing activities carried out at each site should be clearly identified  
-**6.13**|  NMPA, TGA, USFDA| 1| Control of Monitoring and Measuring Equipment | Documents, including procedures that provide evidence of monitoring and measuring equipment used in the QMS is controlled and continuously performing per the established requirements, as well as records providing evidence of conformance to requirements, and of the effective operation of the quality management system (when applicable). • ISO 13485 Element- SOPs and device specific documentation for implementing sub clause 7.6| **USFDA PMA** Please submit documentation according to QS PMA Guidance II. Manufacturing Information, Item:(6) Inspection, Measuring, and Test Equipment, 820.72  
+* 制造商的书面承诺，确保质量管理体系始终有效。
 
-**6.14**|  NMPA, TGA, USFDA| 1| QMS Measurement, Analysis and Improvement | Documents, including procedures that provide evidence of how monitoring, measurement, analysis and improvement to ensure the conformity of the product and QMS, and to maintain the effectiveness of the QMS, as well as records providing evidence of conformance to requirements, and of the effective operation of the quality management system (when applicable). • ISO 13485 Element – SOPs and device specific documentation for implementing clause 8| **USFDA PMA** Please submit the following documentation according to QS PMA Guidance II. Manufacturing Information, Items:(1) Quality System SOPs – Quality audit (820.22) or internal audit procedure(s)(11) Nonconforming Products, 820.90(12) Corrective and Preventive Action (CAPA), 820.100(13) Complaint Files, 820.198Please also explain:– How complaint handling ties to Adverse Event Report procedures– How risk management is tied to the CAPA activities  
-**6.15**|  HC| 1| Device Specific Quality Plan| | The review requirement for a quality plan is not met by the ISO 13485 certificate alone, instead refer to ISO 10005. A quality plan should specify “which processes, procedures and associated resources will be applied by whom and when to meet the requirements of a specific project, product, process or contract…”. This information may be provided in an application in the form of a flow chart, process may, document matrix, table or text description. A quality plan specific for the subject device should link device requirements to the processes, resources and projects used by the manufacturer in producing that device.  
-**6.16**|  NMPA| 1| Quality management system verification document| | According to the above procedures of the quality management system, applicants shall form documents and records related to the quality management system. The following materials shall be submitted for inspection during the inspection on the quality management system.1\. Basic information form of applicant.2\. Organizational chart of the applicant.3\. General layout of the enterprise and the distribution map of production areas.4\. Where there are requirements for purification in the production process, a copy of the environmental testing report (with the layout plan attached) issued by a qualified testing institution shall be provided.5\. The flow chart of the product production process, which shall indicate the main control points and items, main raw materials and sources of purchased parts and the quality control methods.6\. Catalogue of main production equipment and inspection equipment (including the equipment required for incoming inspection, process inspection and final factory inspection; environmental monitoring equipment shall also be provided for the production conducted under the purification conditions).7\. Self-inspection report of the quality management system.8\. Where applicable, the explanation on the comparison of the product to be inspected and products previously passing the inspection in terms of production conditions and production process shall be provided.  
-**6.17**|  ANVISA, HC, NMPA, USFDA| 1| Other Quality System Information| Heading for other information that may be important to the submission but that does not fit in any of the other headings.|   
+* 制造商的书面承诺，通知 TGA 或澳大利亚赞助人，制造商就特定医疗器械的以下信息（分别适用于第 1、4 或 5 部分 CA 程序的子条 1.4(3)(c)、4.4(3)(c) 或 5.4(3)(c)），当制造商了解时，向 TGA 或澳大利亚赞助人提供。
 
-# Document revision history
+**6.08**| NMPA, USFDA| 1| 资源管理| 包括提供充分资源以实施和维护质量管理体系的证明文件，这些文件应符合监管机构的指导或法规，包括人力资源、基础设施和工作环境，以及提供符合要求的证明和有效运行质量管理体系（如果适用）的记录。
+• ISO 13485 要素 – SOP 和特定于设备的文档，以满足第 6 条要求。 **USFDA PMA** 请按照 QS PMA 指导，第 II 部分，制造信息，项目 (5) 生产和过程控制，820.70 – 环境和污染控制的 SOP 提供相关文档。
 
-**Version**| **Description of Changes**| **Author**| **Date**  
----|---|---|---  
-PD1| Version for Public Consultation| B. Dowling & IMDRF’s RPS ToC WG Members| 22 February 2013  
-R1| Final Version following public consultation and piloting| B. Dowling & IMDRF’s RPS ToC WG Members| 27 May 2014  
-R2| Revisions for NMPA requirements, addition of “Cybersecurity” and “Interoperability” headings to software section, other minor revisions based on review and experience| B. Dowling & IMDRF’s RPS ToC WG Members| 27 March 2018  
-R3| Addition of Singapore (HSA) requirements, revised summary definition, other minor editorial changes.| B. Dowling & IMDRF’s RPS ToC WG Members| 21 March 2019  
-R4| Significant revisions based on policy changes in regions since last update| P. Axtell, D. Yoon, & IMDRF’s RPS ToC WG Members| 25 June 2024  
+**6.09**| EU, NMPA, TGA| 1| 产品实现和与客户相关的流程规划| 高级产品实现文档，包括处理规划和与客户相关的流程的程序，以及提供符合要求的证明和有效运行质量管理体系（如果适用）的记录。 只有在提交包含质量系统信息时，才能在这一章节中提供证明符合要求的记录，并且这些记录在之前的子章节（例如“生物相容性和毒理学评估”第 3.05.06 章节）中未提供。• ISO 13485 要素 – 实施子条款 7.1 和 7.2 的 SOP 和特定于设备的文档。 **EU** 第 II 附件 3. 设计和制造信息 (b) 完整的信息和规格，包括制造工艺及其验证、辅助材料、持续监测和最终产品测试。 数据应完全包含在技术文件中。
+• 备注：本子章节提供的信息应与左侧列出的相关 ISO 13485 条款相关，不应涵盖制造工艺。
 
-Disclaimer
+* 设计和开发信息应按照 6.10 中的信息提供。
 
-This document was produced by the International Medical Device Regulators Forum. There are no restrictions on the reproduction or use of this document; however, incorporation of this document, in part or in whole, into another document, or its translation into languages other than English, does not convey or represent an endorsement of any kind by the International Medical Device Regulators Forum.
+* 与制造过程相关的信息应按照 6.12 中的信息提供。
 
-Copyright 2023 by the International Medical Device Regulators Forum.
+附录 III 技术文件：上市后监测
+请提供相关的程序，描述上市后活动及其准备和实施，以及这些活动如何与风险管理、临床评估、定期安全更新报告和安全与临床性能总结等其他活动相关联。
+请勿在此处提供流程的记录或输出。
 
-Please visit our website for more details.
+**6.10** | 欧盟、NMPA、TGA、USFDA | 1 | 设计与开发 | 包括程序，提供从项目启动到生产转移的设备设计系统和可控开发的证据，以及提供符合要求的记录，以及质量管理系统的有效运行（如果适用）的证据。仅在提交包含质量系统信息时，才提供符合要求的记录，并且这些记录未在先前子章节中提供（例如，作为“生物相容性和毒理学评估”第 3.05.06 章节的一部分）。
+• ISO 13485 元素 – SOP 和特定于设备的文档，实施 7.3 子条款
+| **欧盟** 查阅 MDR 第 2 节第 3 (a) 条，了解特定 MDR 的要求。 查阅 MDR 第 9 节第 2.2 (c) 条，了解与设计和开发程序相关的附加要求。 **USFDA PMA** 任何质量系统信息的模块化 PMA 提交，需要提供符合本子章节要求的记录。 请根据 QS PMA 指导，第 I 节“设计控制信息”提供以下内容：(1) 设计控制，通用，820.30(a) – 解释在您的设计和开发过程中，设备如何受到您的设计控制程序的约束。(2) 设计和开发计划，820.30(b) SOP(3) 设计输入，820.30(c) SOP(4) 设计输出，820.30(d) SOP(5) 设计评审，820.30(e) SOP(6) 设计验证，820.30(f) SOP(7) 设计验证，820.30(g) SOP(8) 设计转移，820.30(h) SOP(9) 设计变更，820.30(i) SOP(10) 设计历史文件，820.30(j) SOP
+请还包括：(2) 设计和开发计划，820.30
+
+1. 详细的生产流程图
+
+2. 针对该设备的过程验收活动摘要
+
+3. 过程验证主计划
+
+4. 未验证的流程清单
+
+5. 对于每项被认为是确保设备安全和有效性的流程，应：
+
+验证流程的协议/程序 验证流程的报告 验证流程的监控和控制参数应进行充分描述。 明确说明重新验证的频率**HC 备注：**
+
+1. 制造流程图应描述设备在制造、加工、包装、储存以及适当情况下安装中的方法和质量控制。 必须提供充分的细节，以便评估现有质量控制的适当性。
+
+2. 如果多个设施参与设备的制造，则应提交每个设施的相关信息。 如果多个站点的信息相同，应说明。
+
+**欧盟** 关于附录 II 第 3 条“设计和制造信息”的详细信息
+
+*     *       *         *           1. 完整的信息和规格，包括制造工艺及其验证、辅助材料、持续监测以及最终产品测试。所有数据应包含在技术文件中。
+
+注意：请仅提供不在其他章节和子章节中涵盖的流程及其验证的信息。 关于以下主题的信息应在第 3 章的相关子章节中提供：
+
+* 软件/固件
+
+* 生物相容性和毒理学评估
+
+* 非材料介导的毒性
+
+* 生物来源材料（人/动物）的安全性
+
+* 灭菌验证
+
+* 动物实验
+
+* 可用性/人机工程学
+
+* 效期和包装验证
+
+*       *         *           1. 标识所有进行设计和制造活动的场所。
+
+注意：关于供应商和分包商的信息，请参考 6.11。医疗器械的制造过程应以资源和活动的清单形式提供，这些活动将输入转化为所需输出。该信息应包括适当的制造方法和程序、制造环境或条件，以及用于制造、加工、包装、标签和存储的设施和控制。制造过程的信息应提供足够详细，以便对制造过程有整体理解，并能够判断现有控制的适当性。制造过程的详细专有信息不需要。该信息可以以流程图的形式呈现，展示生产、控制、组装、最终医疗器械的测试和包装的概况。如果多个设施参与医疗器械的制造，则：
+• 必须提交每个设施的相关信息。
+• 每个设施上进行的制造活动应明确标识。
+
+**6.13**| NMPA, TGA, USFDA| 1| 监测和测量设备的控制 | 包含提供 QMS 中使用的监测和测量设备证据的程序的文档，并持续按照既定的要求进行，以及提供符合要求的记录，以及有效运行质量管理系统的记录（如果适用）。• ISO 13485 元素 - SOPs 和为实施 7.6 子条款而准备的设备特定文档。**USFDA PMA** 请根据 QS PMA 指导 II 提交文档。 制造信息，项目：(6) 检查、测量和测试设备，820.72
+
+**6.14**| NMPA, TGA, USFDA| 1| QMS 测量、分析和改进 | 包括提供证据，证明如何进行产品和 QMS 的监测、测量、分析和改进，以确保产品和 QMS 符合要求，并保持 QMS 有效性的程序，以及提供符合要求的证据和有效运行质量管理系统（如果适用）的记录。• ISO 13485 要素 – 按照 8 节的要求实施，提供 SOP 和设备特定文档。• **USFDA PMA** 请根据 QS PMA 指导 II 提交以下文件： 生产信息，项目：(1) 质量系统 SOP – 质量审计 (820.22) 或内部审计程序 (11) 不符合要求的产品，820.90 (12) 纠正和预防行动 (CAPA)，820.100 (13) 投诉文件，820.198 此外，请说明：– 投诉处理与不良事件报告程序的关联– 风险管理与 CAPA 活动的关联
+**6.15**| HC| 1| 设备特定质量计划| | 仅凭 ISO 13485 证书，无法满足质量计划的审查要求，请参考 ISO 10005。质量计划应明确“哪些流程、程序和相关资源将由谁和何时应用，以满足特定项目、产品、流程或合同的要求…”。该信息可以流程图、流程矩阵、表格或文本描述的形式提供。针对特定设备的质量计划应将设备要求与制造商在生产该设备时所使用的流程、资源和项目联系起来。
+**6.16**| NMPA| 1| 质量管理系统验证文件| | 根据上述质量管理系统程序，申请人应形成与质量管理系统相关的文件和记录。在对质量管理系统进行检查时，应提交以下材料：1\. 申请人的基本信息表。2\. 申请人的组织结构图。3\. 企业的总体布局和生产区域分布图。4\. 如果生产过程中有纯化要求，应提供由合格测试机构出具的（附带布局图）环境测试报告的复印件。5\. 产品生产过程的流程图，应标明主要控制点和项目、主要原材料和采购零件的来源以及质量控制方法。6\.
+
+# 文档修订历史
+
+**版本**| **变更说明**| **作者**| **日期**
+---|---|---|---
+PD1| 公布版本| B. Dowling & IMDRF 的 RPS ToC WG 成员| 2013年2月22日
+R1| 经过公众咨询和试用后的最终版本| B. Dowling & IMDRF 的 RPS ToC WG 成员| 2014年5月27日
+R2| 针对 NMPA 要求进行修订，在软件部分新增“网络安全”和“互操作性”标题，以及根据审查和经验进行的其他小幅修订| B. Dowling & IMDRF 的 RPS ToC WG 成员| 2018年3月27日
+R3| 增加了新加坡 (HSA) 的要求，修订了摘要定义，以及其他小幅的编辑性修改。| B. Dowling & IMDRF 的 RPS ToC WG 成员| 2019年3月21日
+R4| 基于自上次更新以来，各地区政策变更所做的重大修订| P. Axtell, D. Yoon, & IMDRF 的 RPS ToC WG 成员| 2024年6月25日
+
+免责声明
+
+本文件由国际医疗器械监管论坛制作。对本文件的复制或使用没有限制；然而，将本文件（部分或全部）纳入其他文件，或将其翻译成其他语言，并不代表国际医疗器械监管论坛的认可。
+
+版权所有，2023年，国际医疗器械监管论坛。
+
+请访问我们的网站以获取更多详细信息。
 
 [www.imdrf.org](<http://www.imdrf.org/>)
 
-  1. See e.g. <https://ec.europa.eu/health/md_sector/new_regulations_en> and <https://ec.europa.eu/health/md_sector/new_regulations/guidance_en> ↑
+1. 参见例如：<https://ec.europa.eu/health/md_sector/new_regulations_en> 和 <https://ec.europa.eu/health/md_sector/new_regulations/guidance_en> ↑
 
 
 <!-- fulltext-end -->

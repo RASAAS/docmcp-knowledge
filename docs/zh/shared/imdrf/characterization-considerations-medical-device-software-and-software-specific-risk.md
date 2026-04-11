@@ -10,13 +10,17 @@ title: "Characterization Considerations for Medical Device Software and Software
 [https://www.imdrf.org/documents/characterization-considerations-medical-device-software-and-software-specific-risk](https://www.imdrf.org/documents/characterization-considerations-medical-device-software-and-software-specific-risk)
 :::
 
+::: info
+This content has been machine-translated from the English original.
+:::
+
 <!-- fulltext-start -->
 
 ---
 
 ## 全文
 
-# Characterization Considerations for Medical Device Software and Software-Specific Risk
+# 医疗器械软件的特征化考量及软件特定风险
 
 **Document Number**: IMDRF/SaMD WG/N81 FINAL:2025
 
@@ -24,24 +28,25 @@ title: "Characterization Considerations for Medical Device Software and Software
 
 ---
 
-Final Document  
+最终文档
+
 ---  
-IMDRF/SaMD WG/N81 FINAL: 2025  
-Characterization Considerations for Medical Device Software and Software-Specific Risk   
-Authoring Group  
-IMDRF Software as a Medical Device Working Group  
+IMDRF/SaMD WG/N81 最终版：2025
+医疗器械软件的特征化考量及软件特定风险
+编写组
+IMDRF 医疗器械软件工作组
 
-Preface
+前言
 
-© Copyright 2024 by the International Medical Device Regulators Forum. 
+© 2024 年 国际医疗器械监管论坛 版权所有。
 
-This work is copyright. Subject to these Terms and Conditions, you may download, display, print, translate, modify and reproduce the whole or part of this work for your own personal use, for research, for educational purposes or, if you are part of an organisation, for internal use within your organisation, but only if you or your organisation do not use the reproduction for any commercial purpose and retain all disclaimer notices as part of that reproduction. If you use any part of this work, you must include the following acknowledgement (delete inapplicable): 
+本作品受版权保护。在遵守本条款和条件的前提下，您可以下载、显示、打印、翻译、修改和复制本作品的全部或部分内容，用于您个人的使用、研究、教育目的，或如果贵组织是组织，则用于贵组织的内部使用，但前提是您或贵组织不得将复制用于任何商业目的，并且保留所有版权声明。如果您使用本作品的任何部分，必须包含以下声明（删除不适用的内容）：
 
-“[Translated or adapted] from [insert name of publication], [year of publication], International Medical Device Regulators Forum, used with the permission of the International Medical Device Regulators Forum. The International Medical Device Regulators Forum is not responsible for the content or accuracy of this [adaption/translation].” 
+“[翻译或改编]自[插入出版物名称]，[出版年份]，国际医疗器械监管论坛，经国际医疗器械监管论坛授权使用。国际医疗器械监管论坛不对本[改编/翻译]的内容或准确性负责。”
 
-All other rights are reserved and you are not allowed to reproduce the whole or any part of this work in any way (electronic or otherwise) without first being given specific written permission from IMDRF to do so. Requests and inquiries concerning reproduction and rights are to be sent to the IMDRF Secretariat. 
+除上述内容外，所有其他权利均保留，未经IMDRF事先书面许可，您不得以任何方式（包括电子方式）复制本作品的全部或任何部分。有关复制和版权的请求和咨询应发送给IMDRF秘书处。
 
-Incorporation of this document, in part or in whole, into another document, or its translation into languages other than English, does not convey or represent an endorsement of any kind by the IMDRF. 
+将本文件（部分或全部）纳入其他文档，或将其翻译成其他语言，并不代表IMDRF的认可。
 
 ****
 
@@ -49,501 +54,548 @@ Incorporation of this document, in part or in whole, into another document, or i
 
 ****
 
-**Naoyuki YASUDA, IMDRF Chair**
+**Naoyuki YASUDA，IMDRF主席**
 
-Contents
+内容
 
-1\. Introduction 4
+1\. 简介 4
 
-2\. Purpose and Scope 7
+2\. 目的和范围 7
 
-2.1. Purpose of the document 7
+2.1. 文档的目的 7
 
-2.2. Scope of the document 7
+2.2. 文档的范围 7
 
-3\. References 9
+3\. 参考文献 9
 
-4\. Medical Device Software Characterization Considerations 10
+4\. 医疗器械软件的特征化考量 10
 
-4.1. Intended Use/Intended Purpose Statement 11
+4.1. 预期用途/预期目的声明 11
 
-4.2. Medical Device Software Description 11
+4.2. 医疗器械软件描述 11
 
-5\. Medical Device Software Risk Characterization 20
+5\. 医疗器械软件风险特征化 20
 
-5.1. Identification and Analysis 22
+5.1. 识别和分析 22
 
-5.2. Estimation 22
+5.2. 估算 22
 
-5.3. Approaches for Risk Categorization 23
+5.3. 风险分类方法 23
 
-6\. Considerations for Implementation 25
+6\. 实施考量 25
 
-Appendix A: Sample Intended Use/Intended Purpose Statement 26
+附录 A: 示例预期用途/预期目的声明 26
 
-Appendix B: Characterization Feature Summary Table 27
+附录 B: 特征总结表 27
 
-Appendix C: Example Considerations to Understand Software Hazards Associated with Device Design and Intended Use 31
+附录 C: 示例：理解与设备设计和预期用途相关的软件危害的考量 31
 
-Appendix D: Examples of Linking Characterization Features and Risk 36
+附录 D: 将特征与风险联系的示例 36
 
-Appendix E: Examples Comparing Specific Risk Considerations 44
+附录 E: 比较特定风险考量的示例 44
 
-# 
+#
 
-# Introduction
+# 简介
 
-Software’s role in healthcare is becoming increasingly critical, as a diverse array of products serves various medical and administrative functions across clinical and private settings. A subset of software that is used in healthcare is regulated as a medical device globally by regulatory authorities. 
+软件在医疗领域的角色日益重要，各种产品在临床和私人环境中，用于各种医疗和行政功能。全球监管机构对医疗领域使用的软件进行监管，将其视为医疗器械。
 
-In 2013, the International Medical Devices Regulators Forum (IMDRF) introduced the concept of Software as a Medical Device (SaMD) and subsequently proposed a possible risk categorization framework (IMDRF/SaMD WG/N12 FINAL:2014). Building on the collective experience of its members, the IMDRF SaMD Working Group (WG) now has an opportunity to add to those initial concepts by providing guidance related to device characterization and risk characterization, for a broadened scope of medical device software. In the context of this document, risk characterization is meant to help identify potential harms associated with a medical device software and is based on a careful review of device characterization. Risk characterization can help to develop a robust understanding of the overall risk of the device and can be helpful as an input to risk assessment and management activities or as an input to risk categorization and device classification. This new document is intended to focus on characterization and can supplement categorization/classification frameworks (e.g., N12 and other legally defined classification schemes across jurisdictions) by providing additional considerations on medical device software and related risk characterization. Although this document is focused primarily on characterizing risk to serve as an input for categorization, benefits should be considered as part of premarket authorization. 
+2013年，国际医疗器械监管论坛（IMDRF）引入了“软件作为医疗器械”（SaMD）的概念，并随后提出了可能的风险分类框架（IMDRF/SaMD WG/N12 FINAL:2014）。 凭借其成员的集体经验，IMDRF SaMD 工作组（WG）现在有机会通过提供与医疗器械的特征化和风险特征化的相关指导，来补充这些初步的概念，从而扩大医疗器械软件的范围。 在本文的背景下，“风险特征化”旨在帮助识别与医疗器械软件相关的潜在危害，并基于对医疗器械特征化的仔细审查。 风险特征化可以帮助全面了解该医疗器械的整体风险，并且可以作为风险评估和管理活动或作为风险分类和器械分类的输入。 本文旨在侧重于特征化，并可以通过提供关于医疗器械软件和相关风险特征化的额外考虑，来补充分类/分类框架（例如，N12和其他在不同司法管辖区中明确定义的分类方案）。 尽管本文主要侧重于特征化，以作为分类的输入，但应将其作为预上市授权的一部分来考虑。
 
-The term “SaMD” has evolved to include a more diverse landscape of software and varied interpretations across jurisdictions. The concepts presented in this document are not exclusive to any specific interpretation of the term SaMD. Rather the concepts can be helpful to consider more broadly for any software that meets the definition of a medical device or is part of a medical device. 
+术语“SaMD”已经演变，涵盖了更广泛的软件范围，并且在不同司法管辖区存在不同的解释。本文件中提出的概念并非仅限于对“SaMD”术语的特定解释。相反，这些概念可以更广泛地应用于任何符合医疗器械定义或作为医疗器械一部分的软件。
 
-In this document we refer to this relevant set of software as “medical device software” as a shorthand for document useability. This complex collection of medical device software includes various intersecting and distinct subsets, for example medical device software that:
+在本文档中，我们将这一相关的软件集合称为“医疗器械软件”，以便简化使用。 这一复杂的医疗器械软件集合包括各种相互关联和不同的子集，例如：
 
-  * is intended to generate information for use in achieving one or more medical purpose; 
-  * is part of a hardware medical device;
-  * is not part of a hardware medical device and is independent of other medical devices;
-  * is necessary for a hardware medical device to achieve its intended use/intended purpose; 
-  * is driven or influenced by another medical device; 
-  * has an output intended for a human user, medical device, and/or non-medical device; and
-  * uses inputs from humans, medical devices, and/or products that are not medical devices.
+* 旨在生成用于实现一个或多个医疗目的的信息；
 
-Medical device software can operate in complex socio-technical environments consisting of: 
+* 是硬件医疗器械的一部分；
 
-  * software, 
-  * hardware, 
-  * information technology networks, and 
-  * people
+* 不是硬件医疗器械的一部分，并且独立于其他医疗器械；
 
-which form a complex and dynamic interaction between the software function, its inputs and outputs, the intended user, and the unique healthcare circumstances in which the software is used. This complexity together with: 
+* 是硬件医疗器械实现其预期用途/预期目的所必需的；
 
-  * the interconnectedness of systems, 
-  * the need for cybersecurity, 
-  * the speed and frequency of development cycles, 
-  * the speed at which a solution can be scaled up, and 
-  * the various aspects of change implementation 
+* 由另一个医疗器械驱动或影响；
 
-contribute to the accurate depiction of a device and/or its risk profile. Medical device software can pose risks that are distinct and unique, such as those that relate to the information that is generated and output by the device and the capacity for varied degrees of autonomy. These devices may be used independently or as part of a platform and span a wide spectrum of risk profiles depending on the intended use, and potential harms associated with use and/or inaccurate outputs.
+* 具有为人类用户、医疗器械和/或非医疗器械设计的输出；以及
 
-The clear and accurate characterization of medical device software is fundamental and supports device quality, risk management, regulatory decision-making, and device use in healthcare across the total product lifecycle. Stakeholders (including manufacturers, regulators, healthcare providers, end-users, and patients), to differing extents, will need to understand what medical device software is, its purpose, its context of use, how it works, and how it changes due to updates. This information can be necessary for proper use and to identify and evaluate the associated hazards, direct and indirect harms, risks and benefits, and to determine device risk classifications. As medical device software may change over its service life, it is important to revisit activities including medical device software and risk characterization as the software is updated or its scope or documentation changes.
+* 使用来自人类、医疗器械和/或非医疗器械的产品作为输入。
 
-Risk-based device classifications, applied in accordance with each jurisdiction’s regulations, assign the appropriate regulatory obligations in each jurisdiction. Assigning risk categories to these devices can be challenging due to the broad range of technologies and characteristics that can influence risk, the variety of terminology and interpretations used to describe and qualify these devices, as well as the range of classification systems across global regulatory jurisdictions. This document identifies common considerations related to device characterization and risk characterization. Its aim is to offer a unified perspective and standardized language, thereby enhancing and fostering transparency and consistency between stakeholders. This document may help support comprehensive descriptions of medical device software, as well as thorough risk assessments for those devices.
+医疗器械软件可以在由以下组成，并具有复杂和动态交互的社会技术环境中运行：
 
-Importantly, the considerations in this document are not intended to be used by stakeholders as a checklist or prescriptive means of medical device software characterization or determining software-specific device risks, or as an interpretation of any jurisdiction’s laws and regulations. It is acknowledged that not all elements of this document will be applicable and pertinent to every medical device software. 
+* 软件，
 
-# Purpose and Scope
+* 硬件，
 
-## Purpose of the document
+* 信息技术网络，以及
 
-The purpose of this document is to promote and inform clear and accurate characterizations of medical device software, including developing an intended use/intended purpose statement. Additionally, it aims to introduce a general strategy for characterizing software-specific risks, drawing upon the essential components of a comprehensive characterization of medical device software. 
+* 人
 
-This document is intended to:
+这些构成了软件功能、其输入和输出、预期用户以及软件使用的独特医疗环境之间的复杂和动态交互。 这种复杂性与：
 
-  * highlight the importance of comprehensive characterizations for medical device software to inform additional lifecycle activities including risk assessment and device categorization/classification;
-  * establish key features of and common vocabulary for the characterization of medical device software;
-  * identify fundamental elements of an intended use/intended purpose statement for medical device software;
-  * establish links between characterization features and risk for medical device software; and
-  * provide information for consideration during the identification and assessment of software-specific risks of medical device software.
+* 系统之间的相互关联性，
 
-## Scope of the document
+* 网络安全的需求，
 
-This document applies to the subset of software that meets the definition of a medical device (referred to throughout as _medical device software)_ , including software that meets the definition of Software as a Medical Device (SaMD) as is defined in the document, _IMDRF SaMD WG N10 Software as a Medical Device: Key Definitions_. 
+* 软件开发周期的速度和频率，
 
-  * This document is not intended to replace _IMDRF SaMD WG N12 "Software as a Medical Device": Possible Framework for Risk Categorization and Corresponding Considerations_. Rather, this document supplements and elaborates on the general SaMD characterization framework articulated in N12.[1] Importantly, the scope of this document is broader than that of N12, as this document applies to medical device software whereas the scope of N12 applies to the subset of devices referred to as SaMD. SaMD was defined in N12 as “software intended to be used for one or more medical purposes that perform these purposes without being part of a hardware medical device”. This document focuses on medical device software irrespective of the software technology and/or the platform (e.g., mobile application, cloud, server, hardware medical device).
-  * This document is not intended to provide guidance on the classification of devices. Accordingly, this document does not provide guidance on the regulatory status of products. This document is not intended be an interpretation of any jurisdiction’s laws and regulations.
-  * This document focuses on software-specific risk considerations and is not intended to be comprehensive of all relevant risk considerations for a medical device software, which may also include additional risks related to interoperable or associated hardware, or breaches of data privacy. Where relevant, risk assessment should be carried out in consideration of the entirety of the device and not software-specific risk alone.
-  * This document is not intended to replace or conflict with existing risk management practices or the development of technical or process standards related to software risk management activities. This document is not a risk management document, rather it relies on established risk management principles, such as those in _ISO 14971 Risk Management for Medical Devices_ , in the context of medical device software. 
-  * This document is not intended to replace or conflict with existing IMDRF publications such as those published by the Artificial Intelligence (AI) or Cybersecurity Working Groups; however, it is acknowledged that there are direct relationships and overlap with those publications, and this document is intended to be complementary. 
-  * The content in this document is not regulation or guidance and does not imply a convergence of regulations or categorization rules across jurisdictions. However, this document aims to establish harmonized concepts, considerations, and common vocabulary for the risk characterization of medical device software. Additional work may be required to apply and align these concepts in a given jurisdiction.
+* 解决方案能够快速扩展的速度，以及
 
-# References
+* 变更实施的各个方面
 
-  *  _IMDRF/SaMD WG/N12 FINAL:2014 "Software as a Medical Device": Possible Framework for Risk Categorization and Corresponding Considerations_
-  *  _IMDRF SaMD WG N10 FINAL:2013 Software as a Medical Device: Key Definitions_
-  * _IMDRF/GRRP WG/N52:2019 Principles of Labelling for Medical Devices and IVD Medical Devices_
-  *  _GHTF/SG1/N77:2012 Principles of Medical Devices Classification_
-  *  _ISO 14971:2019 Medical Devices - Application of Risk Management to Medical Devices_
-  *  _AAMI TIR57: 2016/(R)2023 Principles for medical device security—Risk management_
-  *  _ANSI/AAMI SW96:2023; Standard For Medical Device Security – Security Risk Management For Device Manufacturers_
-  *  _IEC 80001-1:2021 Application of risk management for IT-networks incorporating medical devices_
-  *  _IEC 80002-1:2009 Medical device software — Part 1: Guidance on the application of ISO 14971 to medical device software_
-  *  _IEC 81001-5-1:2021 Health Software and Health IT Systems Safety, Effectiveness and Security – Part 5-1: Security – Activities in the product life cycle_
-  *  _IEC 82304-1:2016 - Health Software_ _— Part 1: General requirements for product safety_
-  *  _IEC 62304:2006+AMD1:2015 Medical device software — Software life cycle processes_
-  *  _AAMI TIR34971:2023 Application of ISO 14971 To Machine Learning In Artificial Intelligence—Guide_
+有助于准确地描述设备及其/或风险状况。医疗设备软件可能存在独特的风险，例如与设备产生和输出的信息以及不同程度的自主性相关。这些设备可能独立使用或作为平台的组成部分，并且根据其预期用途和相关的潜在危害，其风险状况范围广泛。
 
-# Medical Device Software Characterization Considerations
+对医疗设备软件的清晰准确的描述至关重要，并支持设备质量、风险管理、监管决策以及设备在整个产品生命周期内的使用。利益相关者（包括制造商、监管机构、医疗保健提供者、最终用户和患者）在不同程度上需要了解医疗设备软件是什么、其用途、使用背景、工作原理以及如何因更新而改变。这些信息对于正确使用、识别和评估相关的危害、直接和间接损害、风险和益处以及确定设备风险分类至关重要。由于医疗设备软件可能会随着其使用寿命而变化，因此在更新软件或其范围或文档发生变化时，重新审视与医疗设备软件和风险特征相关的活动非常重要。
 
-The communication of a comprehensive medical device characterization (including the intended use/intended purpose and device description) supports stakeholders’ ability to understand the device and characterize the associated risks and benefits. This will inform decision-making and help ensure device safety, effectiveness and proper use.
+风险评估分类，按照每个管辖区的法规进行应用，为每个管辖区指定适当的监管义务。由于各种技术和特征可能影响风险，以及用于描述和评估这些设备的各种术语和解释，以及全球监管管辖区中的各种分类系统，因此对这些设备进行风险分类可能具有挑战性。本文件识别了与设备特征和风险特征相关的常见考虑因素。其目的是提供统一的视角和标准化的语言，从而增强和促进利益相关者之间的透明度和一致性。本文件可帮助全面描述医疗设备软件，以及对这些设备的彻底风险评估。
 
-The characterization of medical device software, in some cases, constitutes a part of the device's description (e.g., for software within a hardware medical device that is needed to realize the intended use/intended purpose), while in other cases the characterization of the medical device software encompasses the entirety of the device’s description. A comprehensive medical device software characterization is shaped by numerous elements, such as the medical purposes, intended users, intended use environment, and intended target populations, as well as the role and timing of the software’s use and output in the clinical or healthcare workflow. The characterization clearly describes what the device is and what it is intended to do, as well as how, where, when and by whom the software is intended to be used and modified/changed.
+重要的是，本文件中提出的考虑因素不应被利益相关者用作医疗设备软件的特征或确定特定软件风险的清单或强制性手段，也不应被用作对任何管辖区法律和法规的解释。 承认，本文件中的并非所有元素都适用于所有医疗设备软件。
 
-This characterization information is essential for:
+# 目的和范围
 
-  * identifying and validating the relevant user and clinical requirements,
-  * assessing the adequacy of supporting evidence,
-  * identifying and controlling risks, 
-  * evaluating benefits, 
-  * determining labelling and transparency requirements,
-  * managing medical device changes, and 
-  * ensuring proper use while mitigating against misuse.
+## 文档目的
 
-An accurate characterization of medical device software is also useful because it supports a complete view and clear understanding of risks associated with the device.
+本文件的目的是促进和提供关于医疗设备软件的清晰准确描述，包括制定使用/目的声明。此外，它还旨在介绍一种用于确定特定软件风险的一般策略，并利用全面描述医疗设备软件的必要组成部分。
 
-Sections 4.1 and 4.2 discuss considerations for manufacturers when characterizing medical device software within the intended use/intended purpose statement and device description. These considerations can support the determination of the pertinent and meaningful information to include within medical device software documentation, regulatory submissions, device labelling, and user interfaces. All features and attributes listed may not be relevant for every device but are included for consideration. What is communicated will be dependent on the stakeholder, regulatory jurisdiction, regulations, and the characteristics determined to have an impact on risk for the specific device.
+本文旨在：
 
-## Intended Use/Intended Purpose Statement
+* 强调全面描述对医疗器械软件的重要性，以便为包括风险评估和设备分类/分类在内的其他生命周期活动提供信息；
 
-The intended use/intended purpose is defined within the _GHTF/SG1/N77 Principles of Medical Devices Classification_ document as _the objective intent of the manufacturer regarding the use of a product, process or service as reflected in the specifications, instructions and information provided by the manufacturer_.
+* 确定医疗器械软件的描述的关键特征和常用术语；
 
-The concept of an intended use/intended purpose statement is familiar in many jurisdictions and is meant to capture the intended device function and medical purpose, including the indicated diseases, conditions, and/or circumstances for which the device is intended to be used. Such statements are generally most useful when they are sufficiently specific and avoid excessively general and/or open-ended language. It is acknowledged that the intended device function and indicated diseases may be considered separate in certain jurisdictions. However, for the purposes of this document, both are relevant and are suggested to be clearly described. 
+* 确定医疗器械软件的预期用途/预期目的声明的基本要素；
 
-In order to foster and encourage clear and comprehensive intended use statements for medical device software, Key Elements of an intended use/intended purpose statement are captured in section 4.1.1 below. A sample statement guide can be found in Appendix A. It is important to note that not all elements will be applicable to every medical device software and the information provided in these sections is solely for consideration by manufacturers in the development of the medical device software labelling, documentation, and regulatory submissions, as appropriate. The sample statement may not be appropriate for all medical device software depending on the technology and intended use.
+* 建立描述特征与风险之间的联系，用于医疗器械软件；以及
 
-### Key Elements of Intended Use/Intended Purpose Statement 
+* 提供关于识别和评估医疗器械软件特定风险的信息，供在进行时。
 
-  1. Medical Purposes 
-  2. Intended Disease or Condition
-  3. Intended Patient Populations
-  4. Intended Users
-  5. Intended Use Environment
-  6. Contraindications
-  7. Medical device software function, including: 
+## 本文档的范围
 
-  * Medical device software inputs 
-  * Medical device software outputs 
-  * Explanation of how the medical device software inputs and outputs fit into the clinical or healthcare workflow 
+本文件适用于符合医疗器械定义（在全文中称为“医疗器械软件”）的软件，包括符合《IMDRF SaMD WG N10 软件作为医疗器械：关键定义》中定义的软件作为医疗器械（SaMD）的软件。
 
-## Medical Device Software Description
+* 本文件不应取代《IMDRF SaMD WG N12 "软件作为医疗器械": 风险分类的可能框架及其相关考虑》。相反，本文件补充和扩展了 N12 中阐述的通用 SaMD 描述框架[1]。重要的是，本文件的范围比 N12 更广，因为本文件适用于医疗器械软件，而 N12 的范围适用于被称为 SaMD 的软件的子集。在 N12 中，SaMD 被定义为“旨在用于一个或多个医疗目的的软件，这些软件在不作为硬件医疗器械的情况下执行这些目的”。本文件侧重于医疗器械软件，无论软件技术和/或平台（例如移动应用程序、云、服务器、硬件医疗器械）如何。
 
-A detailed medical device software description, accompanying the intended use/intended purpose statement, is often needed to ensure the comprehensive and adequate communication of all necessary characteristics and information related to a medical device software. 
+* 本文件旨在提供设备分类的指导，因此，本文件不提供产品监管状态的指导。本文件不应被视为对任何司法管辖区的法律和法规的解释。
 
-The following four subsections discuss detailed and interrelated information that can be relevant when characterizing a medical device software. They are organized according to the following four types or categories of information: 
+* 本文件侧重于软件相关的风险考虑，不应被视为对所有相关风险考虑的全面指南，这些风险可能还包括与互操作或相关硬件相关的风险，或数据隐私方面的违规。在适用情况下，风险评估应在考虑整个设备的基础上进行，而不仅仅是软件相关的风险。
 
-  * Medical problem and/or objective
-  * Context of use 
-  * Function and/or use 
-  * Change management
+* 本文件不应取代或与现有的风险管理实践或与软件风险管理活动相关的技术或流程标准的发展相冲突。本文件不是风险管理文件，而是依赖于已建立的风险管理原则，例如《医疗器械风险管理——ISO 14971》，在医疗器械软件的背景下。
 
-The information within each category is presented in the form of characterization features with attributes. This non-exhaustive set of considerations for manufacturers is intended to highlight and clarify some important aspects when characterizing a medical device software. The features and attributes within each subsection are tabulated proceeding the discussion; the full set of features and attributes are provided in a summary table in Appendix B. These medical device software characterization considerations are also represented in Figure 1. 
+* 本文件不应取代或与现有的 IMDRF 发布的出版物（例如由人工智能 (AI) 或网络安全工作组发布的出版物）相冲突；然而，承认这些出版物之间存在直接关系和重叠，本文件旨在作为补充。
 
-**![](data:image/jpeg;base64,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Nlh8Drx0QFtOdvvD5r7zt94fNBz+lwbxHdzONyHEOQxb/RFWWCkypXfqR0jOQvlDj7P6I6LSjyU5e1w7kcbbyVKGN80E1OlX7Z1WJ0biT0e7maH7O2tIA7wutc7feHzXznb7w+aCqcCcKS8L0bYsQ4+Ke1KHvbRMzm9BobdK5znHv9itq+c7feHzXznb7w+aD0i+c7feHzXznZ7w+aD0vj/qO+xOdvvD5rHI8OaWMO3Hp08EGKgNVW7UpeY2CNgaPBekBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBQbE3PKatRjHTf03lu2xD2n2n2D9wSWeW3K6vTdytadSz94b/db7Xf5D/JSa9eKrEI4m8re8+JJ8ST4lB4rUoq0ZaBzuceZ739XOPtKzdmz3G/JelhtWG1az5XAu5R0aO9x8APiT0QRZ2MtX2VQxvZQ6llIHef6Lf/f7h7VO7NnuN+SwUa7q9f8ACEGaQ88pHi49/wBw7h8ApKDz2bPcb8lDxTGHFVSWgkxg9ymnuKiYr/dNP4wsP+SCV2bPcb8lDsE17sDyB5vJ+CcNdGuP1T9/d94U5YrEDLNeSGTfK8aOu8fFB77NnuN+S8S1oZ4nRSRMcxw0QR3rFQnfNX5ZddvEezl17w8fsI0fvUpBrduxp1Y/DVfCYt26P4P9o/vfP2rYt5eUFutHqNL73rXmCXHkvqNMlfe3199W/Fn8Pd7NeIbBFir2IrUQlheHsPTY8D7D7D8FlQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBEXmR7Io3SSODWNGy4nQAQeidDZWuMj8mSyB7o6g6OmadGX4N9g/vfL2pyvynrPDo6Xgw9HTfE+xvw8fH2LYABoAAAA6ABB5iiZDE2OJgYxo0GtGgF7REBQT/ALZkQNbhqnZ/vSa/9gfmfgs12wa9cuYA6VxDI2n+k493+v2Ar7UrirWbEDzEdXOP9Jx6k/eUGdERB8d0afsUXFf7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kKQkdGbcHO1rnFvat2A3oTrfcPH2IKrHwRLavZX0lkrb6VuzDK6Bj28tlsccY3IOT1SXMO+UjY19ilngiqL7bkORvRSMtT2YwOzcGGYgytHMw9CRvfePAgdFYorladvNDYikHIH7Y8H1T3Hp4dD1+CyMe2RjXscHMcAWuadgj2hBV6fAOMpVooI7FwsjbWa0ue0nUEzpmb9Xxc8g/D2Hqs93g6pcyT8i23agtm0LTXs5HBrhEIiA1zSNFo8RsHuIVjRBUa/k/qUhGaOWylWRkM0HaRyRlzmSzOldvbD15nHR8PtWY8C41kYZVntVuQ1TCY3NPZGuCGa5gd9Cd73tWhEFdh4Vgx8tS1Rs2hPT84LGl7NTNmk7R0bttOhzAaI0RrvXzg3h5+AxtgWGsbZt2HzvjjeXthaT6kTXEAlrW6HcOu1Y0QEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQFV883IVeKsVlKmJtZCCKrYhkFd8Ycxz3RFv13N6eoe5WhEHL73CuduX/AE7PWkjNjIPsS4+uYZnxt7BkMZIk/BucOQkjfTn6E6VfyVX0S8Y+3HyRRYyPzhliWA2I2dvJIBCSWt5tDWmBwHQd4BXcFjkrwzPY+WKN7mHbS5oJb9nsQczscI3LVGbIV6Lo5pc4+/I1kcRmsVy08nSTbSQXB3K7Xd4HSxO4RyscdCfzW++tH52DU5akkjDK9rg7kcOyaCA4ab1bvvOyuqogpNzh+83hPhyqaklwY2aGS1SlmY98zGsc3l5jpri0lrtHQPL9ihYnhW2zNY69PiY4Kwydq02u7s3GpE+ENY3odAl4LtN2AXLoaIOa8acPZnK5LLPqYvtHSQQCpPEIfWLHcxD3vPM0g70GAA+J33e5cHmX361IYd5rw8SuyT7Xax9m6F5edgb5iRz6I1810dEHMsdw3fx9fDeccPGzBjpbbJ6jOxIldI7cc7AXAO03bfW0RzHp0ShwPb7GZmRxcEv/AGLNXgY8skEL3zSPbCCfda5o33dOhXTUQctPCuZdSs1JsSZchcdTkgybpIz5mI44g4E75gWuY8jl2Hc/xKmfQuR8tCWTD13SfSOzcsPc1hJge6YtcTvqDtnq/Z06LoyIOT3sPaxdyOlUZDXtZa5cx4gY9vMKcrzIJWtH9Fmnkd2ucjxXVIIIq1eOCFgZFE0MYxo0GtA0APuXrs2GUScje0A0Ha669m16QEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREH/2Q==)**
+* 本文件中的内容不属于法规或指导，也不意味着在不同司法管辖区范围内法规或分类规则的统一。然而，本文件旨在建立医疗器械软件风险特征的一致概念、考虑和常用术语。可能需要进一步的工作来在特定司法管辖区应用和协调这些概念。
 
-Figure 1 Medical device software characterization considerations
+# 参考文献
 
-### Medical Problem and/or Objective
+* _IMDRF/SaMD WG/N12 FINAL:2014 "软件为医疗器械": 风险分类的可能框架及相关考虑_
 
-The medical problem and/or objective addressed by a given medical device software is an important piece of the overall device characterization. This feature can be further broken down into the specific medical purpose, the intended conditions, and the intended patient population. 
+* _IMDRF SaMD WG N10 FINAL:2013 软件为医疗器械: 关键定义_
 
-A medical device may be used in different stages of the care pathway, such as diagnosis (e.g., primary diagnosis, screening, triage, staging, etc.); treatment (e.g., relieving symptoms or restoring function); prevention (e.g., averting the occurrence of a disease or condition); prediction (e.g., disease prognosis), or monitoring (e.g., ongoing assessment of patient parameters). Understanding the specific medical purpose that the device performs or is used in achieving is a key part of characterizing the medical device software.
+* _IMDRF/GRRP WG/N52:2019 医疗器械和体外诊断医疗器械的标签原则_
 
-The condition or disease for which the medical device software is meant to be applied, and the general state of that condition or disease (for example, critical, serious or non-serious), are important pieces of information at the centre of characterizing a medical device software and determining the associated criticality or seriousness of the condition and importance of the output. 
+* _GHTF/SG1/N77:2012 医疗器械分类原则_
 
-Finally, the intended patient population provides an important boundary within which the medical device software is meant to be used and is another defining feature of the medical device software characterization. In this document, the term __ patient __ is used to refer to individuals that receive or await healthcare with the use of the medical device software. The intended patients may be in a specific subgroup of the population (e.g., specific age, sex, gender, ethnicity, race, disability, diagnosis; or a fragile and/or vulnerable group; etc.), or specific intersection of subgroups of the population (e.g., specific age group + specific sex + those at risk of a specific condition).
+* _ISO 14971:2019 医疗器械 - 将风险管理应用于医疗器械_
 
-The following table summarizes the identified features and attributes that help characterize the medical problem and/or objective. Please note that the content in this table is also summarized in Appendix B.
+* _AAMI TIR57: 2016/(R)2023 医疗器械安全原则——风险管理_
 
-### Table 1 Features and attributes for the characterization of the medical problem and/or objective
+* _ANSI/AAMI SW96:2023; 医疗器械安全标准——设备制造商的安全风险管理_
 
-Characterization Feature| Potential Feature Attributes  
----|---  
-Medical Purpose| **Diagnosis** (e.g., primary diagnosis, screening, triage, etc.), **Prevention** , **Monitoring** , **Mitigation** , **Prediction** , **Treatment** , etc.  
-Intended Disease or Condition | **Critical** , **Serious** , **Non-Serious** **condition or disease,** including consideration of the state of that condition (e.g., a chronic condition or an acute change in a chronic condition)  
-Intended Patient Population| **General population** **Specific subgroup of the population** (e.g., fragile and/or vulnerable subgroup; specific age group, sex, gender, ethnicity, race, disability, diagnosis, etc.) **Specific intersection of subgroups of the population**(e.g., specific age group + specific sex + those at risk of a specific condition)  
+* _IEC 80001-1:2021 将风险管理应用于包含医疗器械的IT网络_
 
-### Context of Medical Device Software Use
+* _IEC 80002-1:2009 医疗器械软件——第一部分：指导如何将ISO 14971应用于医疗器械软件_
 
-The characterization of medical device software extends beyond the device into the intended circumstances and setting for medical device software use. Two otherwise identical products with different intended contexts of use are distinct devices with different medical device software characterizations. Aspects of that context of use include the intended user of the medical device software, the intended use environment, timing within the healthcare task/intervention, and the role of the software and output within the healthcare task/intervention.
+* _IEC 81001-5-1:2021 健康软件和健康IT系统安全、有效性和安全性——第五部分-1：安全性——产品生命周期的活动_
 
-The intended user could be a non-clinical user, a non-physician medical professional, a general practitioner medical doctor (MD), a specialist physician, or a combination of these users with varying responsibilities in medical decision making. A non-clinical user, or lay-user, includes those users that are not trained or qualified to provide medical care, which might include a caregiver or patient user, or other users without medical qualifications such as community workers and health volunteers. Licensed medical professionals that are non-physicians include nurses, dentists, psychologists, radiation therapists, physiotherapists, etc. General practitioner (GP) medical doctors include, for example, primary care physicians or family doctors, while specialist physicians include radiologists, oncologists, dermatologists, psychiatrists, pathologists, surgeons, etc.
+* _IEC 82304-1:2016 - 健康软件——第一部分：产品安全通用要求_
 
-The intended use environment describes the setting in which patient care with the medical device software is meant to take place. This could be a non-clinical environment, a general healthcare environment, or a specialty healthcare environment. A non-clinical environment would include home-use or other settings outside of a clinical environment. General healthcare environments would include primary care clinics, dental offices, etc. A specialty healthcare environment would include, for example, emergency rooms, intensive care units, dermatology clinics, surgical operating rooms, and oncology departments within a hospital. When applicable, it can be important to specify the remoteness of the use environment (e.g., rural or isolated environments).
+* _IEC 62304:2006+AMD1:2015 医疗器械软件——软件生命周期流程_
 
-Another important aspect of the context of use is the finality of the software output and/or its significance in relation to the outcome of the healthcare task/intervention. The timing within the healthcare task/intervention is a feature that helps to contextualize the output in terms of being early, midway, or late in the healthcare task/intervention. Similarly, the role of the software and output within the healthcare task/intervention illustrates the relationship of the output amongst the steps in the healthcare task/intervention, in terms of relative chronology and the software’s dependence on and/or input to the other steps. Taken together, these two features help to describe the impact or influence a medical device software may have on the overall trajectory and outcome of a patient’s care. These features are important to understand the significance of the software’s intended use and can help to identify where and how effects from the software’s use can alter the course of a patient’s healthcare experience. 
+* _AAMI TIR34971:2023 将ISO 14971应用于人工智能中的机器学习——指南_
 
-The following table summarizes the identified features and attributes that can help characterize the context of use. Please note that the content in this table is also summarized in Appendix B.
+# 医疗器械软件特征化考虑
 
-### Table 2 Features and attributes for the characterization of medical device software context of use
+对全面医疗器械特征的沟通（包括预期用途/预期目的和器械描述），有助于利益相关者理解器械，并识别和评估相关的风险和益处。这将为决策提供依据，并确保器械的安全、有效性和正确使用。
 
-Characterization Feature| Potential Feature Attributes  
----|---  
-Intended User| **Lay user/nonclinical user** (e.g., caregiver, patient user, user without medical qualifications) **Licenced medical professional, non-physician** (e.g., registered nurse, dentist, psychologist, radiation therapist, physiotherapist, etc.) **General Practitioner**(e.g., primary care physician, family doctor, registered nurse practitioner) **Specialist Healthcare Physician**(e.g., radiologist, oncologist, dermatologist, pathologist, surgeon, etc.)  
-Intended Use Environment| **Non-clinical Environment** (e.g., home-use) **General Healthcare Environment** (e.g., primary care clinic, virtual primary healthcare) **Specialty Healthcare Environment** (e.g., hospital, specialty clinic, virtual specialty healthcare)  
-Timing Within Healthcare Task/Intervention| **Early**(e.g., triage, prediction of future diagnoses, early investigations upon suspicious symptoms or information, physiological signal or medical image acquisition for use in diagnosis or treatment planning)**Midway**(e.g., signal or image segmentation for use in diagnosis or treatment planning)**Late**(e.g., optimal image-guided treatment plan or dosage for consideration; adjunct diagnostic recommendations or second checks; continuous glucose monitor output analysis automatically driving basal insulin dosage; image-guided instrument control in robotic surgery)*** Note:** these 3 phases (Early, Midway and Late) described above serve as reference points, and it is not crucial to state which phase should be applied. Rather, it is important to characterize the timing of the output relative to the final intervention, decision, or action as well as the relative chronology of how the product will be introduced in relation to other steps (e.g., prior steps, concurrent steps, conditional steps, subsequent steps) and current standard medical practices.  
-Role of Software and Output Within the Healthcare Task/Intervention| **Software and software output’s relationship to the healthcare task/intervention steps** , such as the output’s contribution to the relevant healthcare decision or action (for example, intended as an aid that is combined with current practice); alteration of standard/current practice (for example, intended to replace or substitute all or part of current practice, to provide a new scheme, etc.); dependence on other steps (e.g., uses output values or clinical decisions from prior steps, concurrent steps, conditional steps); and/or influence over other steps (e.g., provides input to concurrent steps,**** subsequent steps, conditional steps, or final intervention/decision).  
+在某些情况下，医疗器械软件的特征是器械描述的一部分（例如，对于硬件医疗器械中所需的实现预期用途/预期目的的软件），而在其他情况下，医疗器械软件的特征涵盖整个器械的描述。全面的医疗器械软件特征由多种因素塑造，例如医疗目的、预期用户、预期使用环境和预期目标人群，以及软件在临床或医疗工作流程中的角色和使用/输出的时间。该特征明确描述器械是什么以及它被预期如何使用和修改/更改。
 
-### Medical Device Software Function and/or Use
+这些特征信息对于：
 
-The function and use of a medical device software can be described by various aspects, such as its inputs, the generation of outputs, the output itself, and how that output fits into the care pathway. A data flow diagram and architecture diagram can also help support the communication of these elements.
+* 识别和验证相关的用户和临床要求，
 
-The types of output provided by a medical device software could be a clinical interpretation or intervention, a workflow recommendation, or data or information for use in a medical purpose. Clinical interpretations or interventions can include, for example, a probability, prediction, detection, diagnosis, severity, prognosis, grade, or stage of a disease or condition; or the prescription, treatment, therapy, recommended dosage, or treatment plan for a disease or condition. A __ workflow recommendation, in contrast, is not an interpretation on the clinical decision or action but rather an intermediate step in the workflow, such as recommended contrast dye dosage; imaging technique, modality, or parameters; surgical tool choice; supplementary medical tests, etc _._ Data for use in medical purpose is output by a medical device software for use in a medical purpose and is typically more objective, such as anatomy measurements or volumes, segmented or contoured organs, tissues; processed, reconstructed, or de-noised images; processed signals or waveforms such as from electrocardiographs or electroencephalographs.
+* 评估支持性证据的充分性，
 
-The input to the medical device software influences the function of the device and is fundamental to understanding the medical device software, the output, and the associated risks and considerations. The source of those inputs may be a human user (e.g., patient inputted symptoms or conversations), a medical device (e.g., a medical image), a non-medical device __(e.g., data from a patient chart, medical record or electronic health record)_or_ consumer product (e.g., smartphone photos, fitness tracker data). Notably, the inputs to a medical device software do not necessarily have to be medical information or come from a medical device. Regulators may consider the impact that non-medical data or data sources have on the safety and effectiveness of a medical device software. However, the use of non-medical data sources in a medical device software does not change the regulatory status of the source of non-medical data.
+* 识别和控制风险，
 
-The degree of autonomy is a spectrum of capacities or liberties to operate independently of a user’s direction, intervention and oversight. An autonomous device or medical device software provides outputs that impact the subsequent clinical action or decision without any user intervention. Conditionally autonomous outputs will meet this condition selectively (for example, for certain results, input characteristics, or circumstances). Supervised outputs can impact subsequent clinical actions or decisions without a user having to approve the output but operate under the supervision of users. Non-autonomous outputs are typically intended to help a user during their determination of a decision or action. The degree of clinical autonomy can be made clear by describing this aspect for clinical users specifically. 
+* 评估益处，
 
-The level of explainability of the underlying logic is also an important characteristic of a medical device software. This can include information about the software algorithm or technology utilized (such as, deterministic formulae; machine learning approaches; mathematical simulations; etc.), relevant characteristics of the datasets used in development, and information about how an output or result was reached or the basis for a decision or action. This aspect could be characterized as (i) logic and output are explained and evaluable (e.g., a decision tree flow-chart structure showing decisions based on input features); (ii) logic and output are partially explained or partially evaluable (e.g., output provided with saliency maps); or (iii) logic and output are not explained or are unevaluable (e.g., Black Box, logic is considered too complex to be understood by intended audience). The level of information provided may depend on the intended audience of this information and their expected level of comprehension. The level of explainability of a medical device software contributes to the assessment of risks and uncertainties, as well as supporting evidence expectations.
+* 确定标签和透明度要求，
 
-The destination or target of the output could include human users, or medical devices (either with or without intermediate use by a human user).
+* 管理医疗器械变更
 
-The following table summarizes the identified features and attributes that can help characterize the device function and/or use. Please note that the content in this table is also summarized in Appendix B.
+* 确保正确使用，同时降低误用风险。
 
-### Table 3 Features and attributes for the characterization of medical device software function and/or use
+对医疗器械软件的准确描述也很有用，因为它支持对与该设备相关的风险的全面视图和清晰理解。
 
-Characterization Feature| Potential Feature Attributes  
----|---  
-Output Type| **Clinical Interpretation or Intervention**(e.g., diagnosis, suspicion, probability, prediction, detection, severity, prognosis, grade, stage, direct markers of a diagnosis, prescription, treatment/therapy, recommended treatment, recommended dosage, radiation treatment plan)**Workflow Recommendation**(e.g.,**** contrast dye dosage; recommended imaging technique/modality/parameters; recommended surgical tool choice; recommended additional test based on established guidelines)**Data for use in medical purpose** (e.g., anatomy measurement, volume, or segmentation; processed image/image reconstruction/de-noised image; processed signal/waveform (e.g., processed ECG))  
-Input Source| From **human user** ,**medical device** , **non-medical device or consumer product**  
-Degree of Autonomy| **Independent/autonomous** (i.e., output impacts subsequent clinical action or decision without user intervention) **Conditionally independent/autonomous** (output selectively impacts subsequent clinical action or decision without user in the loop. For e.g., software that independently filters normal findings but triggers clinician review of abnormal findings) **Supervised** (i.e., output impacts subsequent clinical action or decision without user having to approve, but with supervision from user who can intervene or stop the device)**Non-autonomous** (output considered by user in their determination of a decision/action)***Note** : The Degree of Autonomy can be described with these terms or by leveraging terminology found in standards or other sources, as appropriate, provided the necessary information on the degree of autonomy and clinical autonomy are communicated.  
-Explainability of Software and Output (underlying logic including the algorithm/technology used, relevant development data characteristics, and how an output is reached)| **Logic and output are not explained or are unevaluable**(e.g., Black Box, logic is considered too complex to be understood by intended audience) **Logic and output are partially explained or can be partially evaluated**(e.g., output provided with saliency maps) **Logic and output are explained and can be evaluated** (e.g., a decision tree flow-chart structure showing decisions based on input features accompanying training dataset characteristics)   
-Destination/Target of Output| Input to **human user** ; Input to **medical device**  
+第 4.1 节和第 4.2 节讨论了制造商在描述医疗器械软件时，在“预期用途/预期目的”声明和设备描述中应考虑的问题。 这些考虑可以支持确定在医疗器械软件文档、监管提交、设备标签和用户界面中应包含的相关且有意义的信息。 虽然列出的所有功能和属性可能不适用于每个设备，但它们是为了供参考。 沟通的内容将取决于利益相关者、监管辖区、法规以及确定对特定设备产生影响的特性。
 
-### Medical Device Software Change Management
+## 预期用途/预期目的声明
 
-How a device is intended to change is also part of the device characterization. This can include the degree of change implementation autonomy, the domain changes will apply to, and the supporting infrastructure such as installation locations and distribution channels.
+“预期用途/预期目的”在《GHTF/SG1/N77 医疗器械分类原则》文件中定义为“制造商对产品、工艺或服务的使用目的，如制造商在规格、说明和提供的信息中所体现”。
 
-The degree of learning or change management autonomy describes the degree of human oversight in the effectuation and control of training, learning and updates to the medical device software. Possible attributes within this feature can include self-learning (autonomous data collection, re-training and/or updates effectuated and controlled from within medical device software) and externally __ controlled learning (non-autonomous updates effectuated and controlled by the manufacturer and/or user). 
+[术语表 - 在这些术语出现时，请使用这些精确的翻译:]
+  差距分析 -> Gap Analysis
+  test_zh -> test_en
 
-The domain of learning or change implementation refers to the scope or applicable extent of change. This might be described as being applicable on a scale that is international, national, regional, clinic-specific, or patient-specific. For example, an update to a medical device software could be a tuned model based on a particular patient’s data that is intended for the patient alone, while another medical device software update could be a global model update intended to apply to all installations or instances of the software in a given country. 
+该“预期用途/预期目的”声明的概念在许多司法管辖区中都很熟悉，旨在捕捉预期设备的功能和医疗目的，包括预期用于的疾病、状况或/以及情况。 这样的声明通常在它们足够具体，并且避免使用过于宽泛和/或开放性的语言时最有用。 承认在某些司法管辖区，预期设备的功能和所指示的疾病可能被认为是分开的。 但是，为了本文件的目的，两者都相关，并且建议明确描述。
 
-Another aspect of software change management is the infrastructure for installation, updates, and error corrections. Updates and changes to the software can be provided in response to software failures, cybersecurity vulnerabilities, errors, opportunities for improvement, critical performance updates, and recalls. Software-specific risks and risk controls can depend on the software distribution channels (app stores, manufacturer homepage, web application, etc.) and software installation locations (mobile phones and tablets, wearable technology, hardware medical devices, cloud, or personal computers (PCs) of the users, server anywhere in the world or one single server at the manufacturer site).
+为了促进和鼓励医疗设备软件的清晰和全面的“预期用途/预期目的”声明，关键要素已在第 4.1.1 节中捕获。 示例声明指南可以在附录 A 中找到。 重要的是要注意，并非所有要素都适用于每种医疗设备软件，并且本节提供的信息仅供制造商在开发医疗设备软件标签、文档和适宜的监管提交时进行考虑。 示例声明可能不适用于所有医疗设备软件，具体取决于技术和预期用途。
 
-Distribution channels, such as app stores offering medical device software, may not be regulated in all jurisdictions and may have varying levels of control by the medical device manufacturer. Surveillance challenges and unclear responsibilities may occur in cases of recalls, field safety corrective actions and distribution of information. Furthermore, software installation location can influence the effectiveness and speed of access to updates or the deactivation of erroneous or recalled software and the traceability of affected installations and users.
+### 预期用途/预期目的声明的关键要素
 
-The following table summarizes the identified features and attributes that can help characterize the device change management, including the degree of change autonomy, the change domain and infrastructure for installation, updates, and error correction. Please note that the content in this table is also summarized in Appendix B.
+1. 医疗目的
 
-### Table 4 Features and attributes for the characterization of medical device software change management 
+2. 预期疾病或状况
 
-Characterization Feature| Potential Feature Attributes  
----|---  
-Degree of Learning/Change Management Autonomy| **Self-learning/autonomous changing** (autonomous updates effectuated and controlled from within medical device software)**Externally controlled user-driven learning/change**(non-autonomous updates effectuated and controlled by the user)**Externally controlled manufacturer-driven learning/change**(non-autonomous updates effectuated and controlled by the manufacturer)   
-Domain of Learning/Change Implementation| **International, National, Regional, Clinic/Site-specific, Patient-specific**  
-Installation, Update and Error Correction Infrastructure| **Distribution channels** (e.g., app stores, manufacturer homepage, web application)**Installation locations** (Mobile phones and tablets, wearable technology, hardware medical devices, cloud, or PCs of the users, server anywhere in the world or one single server at the manufacturer site)  
+3. 预期患者群体
 
-# Medical Device Software Risk Characterization
+4. 预期用户
 
-Identifying and estimating medical device software-specific risk can raise unique questions compared to other medical devices. Risk management approaches, such as those proposed within ISO 14971, often describe risk as the combination of the probability of occurrence of harm and the severity of harm. Harms, however, can be both direct and indirect, and a comprehensive identification of software-specific contributions to possible harms can be challenging because software, _on its own_ , may not pose “physical” hazards to which harms can be easily attributed. It is also important to consider when software can cause physical harm such as when autonomous devices provide outputs that impact the subsequent clinical action or decision without any user’s intervention; for instance, software that automatically controls the delivery of a substance to a patient. 
+5. 预期使用环境
 
-Evaluating software-specific contributions to possible harms may require interpretation of primarily performance-related hazards[2], or, more specifically, information-related hazards, and understanding the associated risk is then critically tied to a complete understanding of a device’s intended use/intended purpose and particular implementation. In other words, when assessing the risk of medical device software, it is important to understand the contribution of information-related hazardous situations, which are closely tied to the role of software functionality in achieving an intended medical purpose. These hazardous situations can generally be understood through the lens of “performance-related hazards,” as described in ISO 14971, such as hazards relating to data access, availability, integrity, delivery, and diagnostic information as opposed to, for example, energy, biological, or chemical hazards. 
+6. 禁忌
 
-An accurate characterization of medical device software, including its characteristics such as intended use, output type, use environment, autonomy, etc., allows for both a more comprehensive identification of these direct and indirect harms and a clear understanding of how software-specific harms can then lead to risks unique to a given intended use/intended purpose. 
+7. 医疗设备软件的功能，包括：
 
-While the performance-related hazards and risks related to software do not always account for the _totality_ of risk posed by a device (such as in the case of software that may supply data or generate the inputs for a hardware actuator that poses associated physical hazards), it is important to fully characterize the impact of a particular software implementation or solution on device risk because it can still lead to demonstrable impacts on patient safety or device effectiveness through direct or downstream means.
+* 医疗设备软件的输入
 
-Further, it is important to consider that software-specific hazards often sit at the junction of both safety and cybersecurity risks. Therefore, it can be helpful to consider software-specific considerations pertaining to harm as a combination of how harm is defined for safety and cybersecurity. In other words, medical device software-specific consideration of harm could be viewed as relating to injury or damage to the health of people[3] and reduction of effectiveness[4] – where “reduction of effectiveness” can result from inadequate, incorrect, or absent data supplied to a human or product at an inappropriate time, rate, or with an inadequate method. For example, injection of unwanted or unintended bias into a decision-making system, whether or not it results in direct harm to a patient, can be understood as a harmful reduction in effectiveness. In other words, the introduction of the particular software solution has had a negative impact on the decision-making system. Often, this can also be viewed as accounting for “indirect harm” from the software, with potential direct impact to the patient as noted above. 
+* 医疗设备软件的输出
 
-Performance-related hazards pertinent to software – that is, specifically information-related hazards – can impact the function of other products or systems, how workflows or processes are informed, and can directly impact user decision making (e.g., software that outputs the wrong diagnostic information at an unacceptable rate). As such, a harmonized discussion on these topics can help promote a consistent and detailed understanding of these devices and how they may impact risk categorization across regulatory jurisdictions. 
+* 解释医疗器械软件的输入和输出如何融入临床或医疗工作流程
 
-**Key Points:**
+## 医疗器械软件描述
 
-  * When evaluating the risk posed by software (information and/or physical-based risks), both direct and indirect harms are important to consider.
-  * When hazards associated with software are information-based hazards (such as delayed, inappropriate, or erroneous information), it is important to consider potential harm as both injury or damage to health as well as a reduction in effectiveness when accounting for indirect harms.
-  * The possible harms and associated risks related to implementing software are dependent on a device’s specific intended use. 
+一份详细的医疗器械软件描述，通常应与预期用途/预期目的声明一起提供，以确保全面和充分地传达与医疗器械软件相关的所有必要特征和信息。
 
-Below are general considerations for identification and analysis of software-specific hazardous situations, as well as considerations when including these hazardous situations as part of risk estimation. These approaches are intended to provide a shared means of discussing the unique risks posed by medical device software, and how such an understanding may drive device risk categorization across any number of risk categorization systems. The process for identification and analysis of these risks should be considered iteratively and should be carried out over the total product lifecycle of the device.
+以下四个子部分讨论了可以与描述医疗器械软件相关的详细且相互关联的信息。这些信息按以下四种类型或类别组织：
 
-## Identification and Analysis 
+* 医疗问题和/或目标
 
-The success of risk assessment and management activities hinges on the risk assessors’ understanding of what the medical device software is and is meant to do, as well as how, where, when and by whom the medical device software is meant to be used. The comprehensive characterization of medical device software, considering the information presented in section 4 of this document, provides the foundation necessary for software-specific risk characterization. Approaches to identifying and considering risks within each of the information groupings in section 4 are provided below, in part, to illustrate the way many variables contribute and interact to form a more complete understanding of the unique risks that may impact a particular medical device software. 
+* 使用环境
 
-To identify and characterize software risk, including relevant risks related to cybersecurity, it is helpful to step through the process of first identifying a device characteristic, then asking _why_ the characteristic matters to the intended use/intended purpose of the software, and then identifying the hazardous situations that may arise based upon both the intentional software design decisions and unintentional software failures. It remains important, however, to ensure that exploring device characteristics in this manner is not done in a vacuum and interdependencies of the software are carefully considered to comprehensively describe a medical device software’s “risk characterization.” 
+* 功能和/或用途
 
-Appendix C provides questions for consideration to accompany each characterization feature previously identified in section 4. These questions are provided to help develop an understanding of “why the characteristic matters to the intended use/intended purpose of the software,” as a means to help identify specific hazardous situations that may be related to the software’s design and intended use/intended purpose. While not comprehensive, the questions aim to highlight how the context provided by each of a device’s unique characteristics could impact an understanding of the potential harms introduced by a particular software, and thereby affect the overall risk of the medical device. The questions are intended to help guide a thorough consideration of potential harms a medical device software could introduce prior to the introduction of risk controls/ mitigations, and not all questions may be applicable or relevant to every medical device software. 
+* 变更管理
 
-Appendix D includes examples illustrating how answering the questions in Appendix C can help to identify the way different characterization features and their interactions may affect an understanding of the risks introduced by a particular medical device software. Importantly, identifying these “software-specific” contributions to device risk is intended as a means of articulating why the software __ for a particular medical use/purpose may or may not alter device risk categorization under any number of frameworks. This concept is discussed further in section 5.3 of this document.
+每个类别中的信息以特征和属性的形式呈现。制造商应考虑的这些非详尽的注意事项，旨在突出和阐明在描述医疗器械软件时的一些重要方面。每个子部分中的特征和属性在讨论之前进行了汇总；完整的特征和属性在附录 B 中提供。这些医疗器械软件的描述性考虑也如图 1 所示。
 
-## Estimation
+This is a string of seemingly random characters. It's likely a result of encoding or a corrupted file. There's no immediately obvious meaning or pattern.
 
-As noted above, risk management approaches, such as those proposed within ISO 14971, often describe risk as the combination of the probability of occurrence of harm and the severity of harm. These risk estimation features, together with medical device software characterization features outlined in section 4 of this document, can be essential in assessing and managing risks.
+图 1 医疗器械软件特征化考虑因素
 
-For medical device software, risk management requires the identification of the potential _direct and indirect_ harms associated with hazardous situations _,_ such as erroneous outputs from the software, followed by an assessment of the severity of those harms, such as reductions in life expectancy, psychological injury, or inappropriate or unnecessary invasive treatment and/or test. While probability of harm can generally be helpful to consider when estimating risk, there is not broad consensus on a method for quantitatively estimating probability of occurrence of software failure. Additionally, cybersecurity risk management often considers exploitability of vulnerabilities rather than probability of occurrence of harm; and it is generally understood that probability of software-related harms can be influenced by factors like usability, which can make estimation further challenging.[5] To this end, when estimating software-specific risks, it can be helpful to set the probability of software failure to 1 and if possible, estimate the probability based on other factors to perform risk estimation. 
+### 医疗问题和/或目标
 
-The guiding questions in Appendix C can provide a basis for isolating software-specific hazards _and_ for contextualizing their potential severity of harm, by understanding how applying a specific software solution can affect the way the medical device intended use/intended purpose is achieved.
+一个给定的医疗器械软件所解决的医疗问题和/或目标，是整体医疗器械特征化的重要组成部分。 这一功能可以进一步分解为具体的医疗目的、预期使用条件和预期患者人群。
 
-These concepts can then be leveraged for risk characterization (e.g., through risk assessment per ISO 14971) and the determination of the severity of direct or indirect harm caused by a given, software-specific hazardous situation (e.g., catastrophic, critical, serious, minor, negligible). Once harms are identified, the approach to “software-contributed” risk estimation is not unique. That said, when software may need to be considered in the context of a broader device to achieve an intended use/intended purpose, it can also be helpful to consider whether the software becomes a single-point failure for a given possible harm and, if so, how this may impact risk estimation and associated mitigations. 
+医疗器械可能在护理流程的不同阶段使用，例如：诊断（例如：初步诊断、筛查、分诊、分期等）；治疗（例如：缓解症状或恢复功能）；预防（例如：避免疾病或状况的发生）；预测（例如：疾病预后）或监测（例如：持续评估患者参数）。 了解该软件所执行或用于实现的具体医疗目的，是特征化医疗器械软件的关键部分。
 
-## Approaches for Risk Categorization
+医疗器械软件所针对的疾病或状况，以及该疾病或状况的总体状态（例如：危重、严重或非严重），是特征化医疗器械软件和确定相关疾病的严重程度以及输出的重要性的重要信息。
 
-Software risk characterization is important to be performed early in the design phase of the life cycle. As with risk characterization discussed throughout this document, risk categorization should be performed prior to implementation of risk controls (rather than residual risk) for medical device software.**** It may not be universally possible or beneficial to create completely rigid and distinct categories of risk for any one type of function, disease, intervention, population, or user. For any given medical device software, there may be both interdependencies and unequal weight amongst characterization groupings that ultimately inform the understanding of device risk and, therefore, may impact a subsequent categorization. Further, when addressing the specific contribution to device risk posed by software, considerations like how supplied information will be ingested by a given userbase, as just one example, may reasonably not have uniform or universal answers across jurisdictions. 
+最后，目标患者群体为医疗设备软件的预期使用范围，也是医疗设备软件特征的重要界限。在本文件中，术语“患者”指那些使用医疗设备软件获得或等待医疗保健的个人。目标患者可能属于特定的人群亚组（例如，特定年龄、性别、种族、残疾、诊断；或脆弱/易受影响的群体等），或者特定的人群亚组的交叉（例如，特定年龄组 + 特定性别 + 患有特定疾病的风险人群）。
 
-Different jurisdictional authorities may have distinct philosophies and legal obligations which shape their different risk-based classifications. Therefore, the discussion provided in section 5 and further illustrated in Appendix B is intended as a common basis for considering and articulating how characterization features impact the risk of software that meets the definition of a medical device, particularly through the lens of the interdependent factors shaping an understanding of risk specific to software for a given intended use/intended purpose. Put another way, this document intends to provide insight into _how_ a particular software risk categorization could be reached without prescribing a single “correct” and universal category to any given device. As noted previously, among other complications, software-specific risks may have a significant but not exclusive influence on the risk categorization applicable to a given device. In premise, this document can serve as the basis for discussing a given understanding of a medical device software’s risk within a broader device system or regulatory structure. 
+下表总结了有助于描述医疗问题和/或目标的已识别特征和属性。请注意，本表的内容也总结在附录 B 中。
 
-# Considerations for Implementation 
+### 表 1：用于描述医疗问题和/或目标的特征和属性
 
-Providing a common basis for describing medical device software and considering how different characteristics impact risk can help promote safety and effectiveness as well as consistency and alignment across jurisdictions.
+特征 | 潜在特征属性
+---|---
+医疗目的 | **诊断**（例如，主要诊断、筛查、分诊等），**预防**，**监测**，**缓解**，**预测**，**治疗**等
+预期疾病或状况 | **严重**，**危及生命**，**非严重**的**疾病或状况**，包括对该状况的状态的考虑（例如，慢性疾病或慢性疾病的状态变化）
+预期患者群体 | **一般人群**，**特定人群亚组**（例如，脆弱/易受影响的亚组；特定年龄组、性别、种族、残疾、诊断等），**特定人群亚组的交叉**（例如，特定年龄组 + 特定性别 + 患有特定疾病的风险人群）
 
-The considerations presented in sections 4.0 and 5.0 can be used to support understanding of a medical device software and its risks and facilitate the interpretation and application of different device risk classification systems across jurisdictions. While the medical device software characterization described in this document relates to evaluating the risk of the device, it is important that any regulatory assessment also considers the benefit to health from the use of the device and weighs the benefits against any risks of the device.
+### 医疗设备软件使用背景
 
-Device classification in a given jurisdiction will ultimately be dictated by the governing authorities, laws, and regulations. To the extent possible, jurisdictions may consider incorporating harmonized language and concepts from this document into their local guidance or processes, for example, connecting the device and risk characterization language in the document to their labelling and risk management expectations or classification regulations. 
+对医疗器械软件的描述，不仅限于该设备本身，还包括医疗器械软件的预期使用环境和情境。即使是完全相同的两个产品，如果它们具有不同的预期使用情境，则它们将被视为不同的医疗器械软件，并具有不同的医疗器械软件描述。这些情境包括：预期使用医疗器械软件的用户、预期使用环境、在医疗任务/干预中的时间，以及软件和输出在医疗任务/干预中的作用。
 
-Jurisdictions may be able to leverage a subset of characterization features and attributes, together with the assessment of medical device software risks and their severity, to describe their approach to applying risk categorization to medical device software. 
+预期用户可以是非临床用户、非医生医疗专业人员、普通医生（MD）、专科医生，或这些用户的组合，这些用户在医疗决策中具有不同的责任。非临床用户或非医疗专业人员包括未接受过或具备提供医疗护理资格的用户，例如护理人员或患者，以及没有医疗资质的其他人员，如社区工作者和健康志愿者。具有非医生资质的执业医疗专业人员包括护士、牙医、心理学家、放射治疗师、物理治疗师等。普通医生（GP）包括初级保健医生或家庭医生，而专科医生包括放射科医生、肿瘤科医生、皮肤科医生、精神科医生、病理科医生、外科医生等。
 
-These concepts are intended to be used by stakeholders alongside their existing frameworks, to provide additional detail and exposition for decision-making – ultimately promoting and informing clear, consistent, and accurate characterizations of medical device software. 
+“使用环境描述”是指医疗设备软件与患者护理所适用的环境。这可能是一个非临床环境、一般的医疗环境或专业的医疗环境。非临床环境包括家庭使用或在临床环境之外的其他场所。一般的医疗环境包括初级保健诊所、牙科诊所等。专业的医疗环境包括，例如，急诊室、重症监护室、皮肤科诊所、手术室和医院内的肿瘤科。如果适用，指定使用环境的远近（例如，农村或偏远环境）也很重要。
 
-# Appendix A: Sample Intended Use/Intended Purpose Statement
+另一个重要的方面是软件输出的最终性以及/或它与医疗任务/干预结果的关系。在医疗任务/干预过程中，时间是一个特征，有助于将输出置于早期、中期或晚期的位置。同样，软件和输出在医疗任务/干预中的作用，说明了输出与医疗任务/干预步骤之间的关系，包括相对时间顺序以及软件对其他步骤的依赖或输入。总而言之，这两个特征有助于描述医疗设备软件可能对患者护理的整体轨迹和结果产生的影响。理解这些特征对于了解软件的预期用途以及识别软件使用可能如何改变患者医疗体验的途径至关重要。
 
-In order to foster and encourage clear and comprehensive intended use statements for medical device software, Key Elements of an intended use/intended purpose statement are captured in section 4.1.1. A sample statement guide can be found below. It is important to note that not all elements will be applicable to every medical device software and the information provided in section 4.1.1 and below is solely for consideration by manufacturers in the development of the medical device software labelling, documentation, and regulatory submissions, as appropriate. The sample statement may not be appropriate for all medical device software depending on the technology and intended use. Although typically included in the intended use/intended purpose statement, for some devices, information such as contraindications may be included elsewhere in the medical device software labelling due to the volume of information.
+以下表格总结了可以帮助描述使用环境的已识别的功能和属性。请注意，本表格中的内容也已总结在附录 B 中。
 
-The _[name_ _of medical device software]_ is software intended for use in the _[medical purposes]_ of _[conditions/diseases/disorders]_ in _[intended patient populations]_. This software is intended to be used by [_intended user populations]_ in _[intended use environments]_. This medical device software is contraindicated for _[contraindications]._ This medical device software uses _[inputs]_ in order to produce _[description of outputs]_. These outputs are _[description of how the output is intended to be used, how it fits in the clinical or healthcare workflow and how it contributes to the final healthcare decision/action_].
+### 表 2：用于描述医疗器械软件使用环境的功能和属性
 
-# Appendix B: Characterization Feature Summary Table
+特征描述 | 潜在特征属性
+---|---
+预期用户 | **非临床用户/非临床使用者** (例如：照护者、患者、无医疗资质的用户) **有执照的医疗专业人员，非医生** (例如：注册护士、牙医、心理学家、放射治疗师、物理治疗师等) **普通医生** (例如：初级保健医生、家庭医生、注册护士) **专科医疗医生** (例如：放射科医生、肿瘤科医生、皮肤科医生、病理科医生、外科医生等)
+预期使用环境 | **非临床环境** (例如：家庭使用) **一般医疗环境** (例如：初级保健诊所、虚拟初级医疗) **专科医疗环境** (例如：医院、专科诊所、虚拟专科医疗)
+在医疗任务/干预中的时间 | **早期** (例如：分诊、预测未来诊断、在出现可疑症状或信息时进行早期检查、用于诊断或治疗计划的生理信号或医学图像采集) **中期** (例如：用于诊断或治疗计划的信号或图像分割) **后期** (例如：考虑的最佳图像引导治疗方案或剂量；辅助诊断建议或二次检查；自动驱动基础胰岛素剂量，连续血糖监测输出分析；在机器人手术中，图像引导的仪器控制) ***注意：** 以上 3 个阶段 (早期、中期和后期) 既可作为参考点，也不必说明应采用哪个阶段。更重要的是，需要对输出的时间与最终干预、决策或行动之间的关系，以及产品在与其他步骤（例如：先前步骤、同时步骤、条件步骤、后续步骤）中的引入顺序，以及与当前标准医疗实践的关系进行描述。
+软件和输出在医疗任务/干预中的作用 | **软件和软件输出与医疗任务/干预步骤的关系**，例如输出对相关医疗决策或行动的贡献（例如，作为一种辅助手段，与当前实践相结合）；改变标准/当前实践（例如，旨在替代或替换全部或部分当前实践，提供新的方案等）；依赖于其他步骤（例如，使用先前步骤、同时步骤、条件步骤的输出值或临床决策）；以及/或影响其他步骤（例如，为同时步骤、后续步骤、条件步骤或最终干预/决策提供输入）。
 
-The following table represents an aggregated version of the four tables presented separately in Section 4, Medical Device Software Description.
+### 医疗器械软件的功能和/或用途
 
-Information Grouping| Characterization Feature| Potential Feature Attributes  
----|---|---  
-Medical Problem and/or Objective| Medical Purpose| **Diagnosis** (e.g., primary diagnosis, screening, triage, etc.), **Prevention** , **Monitoring** , **Mitigation** , **Prediction** , **Treatment** , etc.  
-Intended Disease or Condition| **Critical** , **Serious** , **Non-Serious** **condition or disease,** including consideration of the state of that condition (e.g., a chronic condition or an acute change in a chronic condition)  
-Intended Patient Population| **General population** **Specific subgroup of the population** (e.g., fragile and/or vulnerable subgroup; specific age group, sex, gender, skin tone, race, disability, diagnosis, etc.) **Specific intersection of subgroups of the population**(e.g., specific age group + specific sex + those at risk of a specific condition)  
-Context of Medical Device Software Use| Intended User| **Lay user/nonclinical user** (e.g., caregiver, patient user, user without medical qualifications)**Licenced medical professional, non-physician** (e.g., registered nurse, dentist, psychologist, radiation therapist, physiotherapist, etc.) **General Practitioner**(e.g., primary care physician, family doctor, registered nurse practitioner) **Specialist Healthcare Physician**(e.g., radiologist, oncologist, dermatologist, pathologist, surgeon, etc.)  
-Intended Use Environment| **Non-clinical Environment** (e.g., home-use) **General Healthcare Environment** (e.g., primary care clinic, virtual primary healthcare)**Specialty Healthcare Environment** (e.g., hospital, specialty clinic, virtual specialty healthcare)  
-| Timing Within Healthcare Task/Intervention| **Early**(e.g., triage, prediction of future diagnoses, early investigations upon suspicious symptoms or information, physiological signal or medical image acquisition for use in diagnosis or treatment planning)**Midway**(e.g., signal or image segmentation for use in diagnosis or treatment planning)**Late**(e.g., optimal image-guided treatment plan or dosage for consideration; adjunct diagnostic recommendations or second checks,**** continuous glucose monitor output analysis automatically driving basal insulin dosage; image-guided instrument control in robotic surgery)*** Note:** these 3 phases (Early, Midway and Late) described above serve as reference points, and it is not crucial to state which phase should be applied. Rather, it is important to characterize the timing of the output relative to the final intervention, decision or action as well as the relative chronology of how the product will be introduced in relation to other steps (e.g., prior steps, concurrent steps, conditional steps, subsequent steps) and current standard medical practices.  
-Role of Software and Output Within the Healthcare Task/Intervention| **Software and software output’s relationship** **to the healthcare task/intervention steps** , such as the output’s contribution to the relevant healthcare decision or action (e.g., intended as an aid that is combined with current practice); alteration of standard/current practice (e.g., intended to replace or substitute all or part of current practice, to provide a new scheme, etc.); dependence on other steps (e.g., uses output values or clinical decisions from prior steps, concurrent steps, conditional steps); and/or influence over other steps (e.g., provides input to concurrent steps, subsequent steps, conditional steps, or final intervention/decision).   
-Medical Device Software Function/ Use|  Output Type| **Clinical Interpretation or Intervention**(e.g., diagnosis, suspicion, probability, prediction, detection, severity, prognosis, grade, stage, direct markers of a diagnosis, prescription, treatment/therapy, recommended treatment, recommended dosage, radiation treatment plan)**Workflow Recommendation**(e.g.,**** contrast dye dosage; recommended imaging technique/modality/parameters; recommended surgical tool choice; recommended additional test based on established guidelines)**Data for use in medical purpose** (e.g., anatomy measurement, volume, or segmentation; processed image/image reconstruction/de-noised image; processed signal/waveform (e.g., processed ECG)  
-Input Source| From **human user** ,**medical device** , **non-medical device** or**consumer product**  
-Degree of Autonomy | **Independent/autonomous** (i.e., output impacts subsequent clinical action or decision without user intervention) **Conditionally independent/autonomous** (output selectively impacts subsequent clinical action or decision without user in the loop, e.g., software that independently filters normal findings but triggers clinician review of abnormal findings)**Supervised** (i.e., output impacts subsequent clinical action or decision without user having to approve, but with supervision from user who can intervene or stop the device)**Non-autonomous** (output considered by user in their determination of a decision/action)***Note** : The Degree of Autonomy can be described with the terms above or by leveraging terminology found in standards or other sources, as appropriate, provided the necessary information on the degree of autonomy and clinical autonomy are communicated.  
-Explainability of Software and Output (underlying logic including the algorithm/technology used, relevant development data characteristics, and how an output is reached)| **Logic and output are not explained or are unevaluable** (e.g., Black Box, logic is considered too complex to be understood by intended audience) **Logic and output are partially explained or can be partially evaluated**(e.g., output provided with saliency maps) **Logic and output are explained and can be evaluated**(e.g., a decision tree flow-chart structure showing decisions based on input features accompanying training dataset characteristics)   
-Destination/Target of Output| Input to **human user;** Input to **medical device**  
-Medical Device Software Change Management| Degree of Learning/Change Management Autonomy| **Self-learning/autonomous changing** (autonomous updates effectuated and controlled from within medical device software)**Externally controlled user-driven learning/change**(non-autonomous updates effectuated and controlled by the user)**Externally controlled manufacturer-driven learning/change**(non-autonomous updates effectuated and controlled by the manufacturer)   
-Domain of Learning/Change Implementation| **International, National, Regional, Clinic/Site-specific, Patient-specific**  
-Installation, Update and Error Correction Infrastructure| **Distribution channels** (e.g., app stores, manufacturer homepage, web application)**Installation locations** (mobile phones and tablets, wearable technology, hardware medical devices, cloud, or PCs of the users, server anywhere in the world or one single server at the manufacturer site)  
+医疗器械软件的功能和用途可以从多个方面描述，例如其输入、输出的生成、输出本身以及该输出如何融入护理流程。数据流程图和架构图也可以帮助沟通这些元素。
 
-# Appendix C: Example Considerations to Understand Software Hazards Associated with Device Design and Intended Use
+医疗器械软件提供的输出类型可以是临床解释或干预、工作流程建议或用于医疗目的的数据或信息。临床解释或干预可能包括，例如，疾病或状况的概率、预测、检测、诊断、严重程度、预后、等级或阶段；或针对疾病或状况的处方、治疗、疗法、推荐剂量或治疗计划。与此相反，工作流程建议不是对临床决策或行动的解释，而是在工作流程中的一个中间步骤，例如推荐的对比剂剂量；成像技术、模态或参数；手术工具选择；辅助医疗测试等。用于医疗目的的数据是医疗器械软件为了医疗目的而产生的，通常更客观，例如解剖测量或体积、分割或轮廓的器官、组织；处理、重建或去噪的图像；来自心电图或脑电图等处理后的信号或波形。
 
-The questions noted in the below table are intended to help guide a thorough consideration of potential harms that a medical device software could introduce. Not all questions may be applicable or relevant to every medical device software. This is not intended to be an exhaustive or required list of considerations for the intended use or the intended user of the medical device software, rather they are optional examples that may be helpful to consider while characterizing software risk. 
+医疗器械软件的输入会影响该设备的运行，并且对于理解医疗器械软件、输出以及相关的风险和注意事项至关重要。这些输入可能来自人类用户（例如，患者输入的症状或对话）、医疗器械（例如，医学影像）、非医疗器械（例如，患者病历、医疗记录或电子健康记录）或消费品（例如，智能手机照片、健身追踪器数据）。值得注意的是，医疗器械软件的输入并不一定需要是医疗信息，也不一定来自医疗器械。监管机构可能会考虑非医疗数据或数据来源对医疗器械软件的安全性及有效性的影响。然而，在医疗器械软件中使用非医疗数据来源不会改变非医疗数据来源的监管状态。
 
-Information Grouping| Characterization Feature| Considerations for Medical Device Software Risk Characterization  
----|---|---  
-Medical Problem and/ or Objective| Medical Purpose| •Is the medical device software intended to be used as **adjunctive or alongside** other tools or treatment? Is the medical device software **intended to replace or augment** a system or process? If it is meant to augment, in **what manner** is the medical device software augmentative (for example, is the software output **additive or confirmatory** to another process or outcome)?•Is the output of the software itself intended to be **therapeutic or a treatment**? Is the software output used for decision-making with diagnostic or therapeutic purposes? Is the software used to monitor physiological processes or vital physiological parameters? Does the software have alarm functions used to prompt immediate or near-term intervention?   
-Intended Disease or Condition| •How, if at all, does the condition/disease (for example, acute or chronic) that the medical device software is intended for **impact the criticality** of the data output by the software?•Does the condition/disease **modify the timing of when the information is needed** or **is provided** or must be used?•Does the condition/disease **define the sensitivity or accuracy** of the information needed for the input or output of the software? Could the nature of variation of monitored parameters result in immediate or near-term danger to the patient? •Could the decisions or diagnostics made by the software output have an impact that may cause death or an irreversible deterioration in condition/disease or a serious deterioration in condition/disease or a surgical intervention?  
-Intended Patient Population| •Does the intended patient population include a specific **vulnerable subgroup**?•How **diverse** is the intended patient population? How generalized does the information need to be to **perform adequately** across the intended patient population? How specific?•Do the decisions or diagnostics provided by the software output reflect the intended user demographics?  
-Context of Medical Device Software Use| Intended User| •Does the medical device software enable **new/different users** to achieve the clinical task than those who would perform the task without the software? •Does the user need to possess **expertise** , or access to expertise (such as specific training to use the software), to understand the inputs and/or outputs of the software?  
-Intended Use Environment| •Is use of the medical device software providing a clinical task or service in an **environment that would not otherwise have such tasks or services** available (e.g., would otherwise require an expert present)? •Is the device intended to be used in an uncontrolled or unconventional setting?•Can external factors, both physical (e.g., noise, lighting) and digital (e.g., network connectivity), affect the use, input or output of the device?•Do the expected virtual conditions and computing environment require additional software controls (e.g., hardware or software compatibility verification or authentication) and/or impact users’ access to the software?  
-Timing Within Healthcare Task/Intervention| •Does the user have **adequate time to review the basis** for the information output by the software or to review and curate the information being used as input to the software?•Could the software output **initiate a healthcare intervention that would not otherwise be identified** by a particular user or in a particular setting (e.g., pre-screening information prompting a patient to speak to a doctor about a possible condition)? •Are there **possible harms or dangers related to the healthcare task/intervention that could occur immediate or near-term** to the software’s outputs?•Are there **possible harms or dangers related to the healthcare task/intervention that could occur distantly** from the use of the software, but are related to decision points generated by the software’s outputs?  
-Role of Software and Output Within the Healthcare Task/Intervention| •Does an erroneous output from the software at the intended point in the workflow **put the patient on a path toward subsequent harm**?•Is the **frequency of output** appropriate to its role and timing in the workflow (e.g., is there a potential for notification fatigue, i.e., desensitization of the user to alarms, alerts, or notifications)?•Does the software create a **single point of failure** in the clinical task/intervention?  
-Device Function/Use|  Output Type| •Is the output **supplementing** additional information to contribute to a clinical interpretation or workflow recommendation? Is it a **replacement or substitution** for information meant to determine a clinical interpretation, workflow recommendation, or as data for use in a medical purpose?•Is the output commonly accepted in **clinical practice** or based upon sound **scientific principles**? Is the output **proprietary**?•Is access to the output **tiered or limited** by user or other credentials?•Is the output Boolean, e.g., values that are either true or false?  
-Input Source| •Is the input source from a human user, medical device, non-medical device or consumer product?•Is the input source **unique** or could the data be obtained through **other methods or sources**?•Is an adequate input source **governed by specific parameters** such as rate, sensitivity, or precision (inclusion and exclusion criteria)? Is the input relevant?•Is the input data direct or **informed or transformed** by other tools, products, or intermediaries? Are the transformed data suitable?•Are there **multiple input sources** or data types? Are they **interdependent**?•Does the data the software is processing accurately reflect the demographics, backgrounds, and characteristics of the population the software will be used for?  
-Degree of Autonomy| •Is a user in the loop? Is the user in the loop a health care professional?  
-Explainability of Software and Output (underlying logic including the algorithm/ technology used, relevant development data characteristics, and how an output is reached| •Is the relevant functionality of the product **sufficiently** **explained and reasonably understood** by the patient?•Is the relevant functionality of the product **explained and understood** by users other than the patient? Is **different information provided** to different user groups or patients?•Is the relevant functionality **partially explained** or **partially able to be evaluated** by the user****(e.g., output provided with saliency maps)?  
-Destination/Target of Output| •Is the output **the only instruction/data/information** needed to drive the target’s next action?  
-Medical Device Software Change Management| Degree of Learning/Change Management Autonomy| •Does the medical device software **independently change** its underlying algorithms?•**How often** is medical device software performance verified?•Are updates to algorithmic performance **driven by** non-clinical or clinical users, or manufacturer driven, or a combination of these users?  
-Domain of Learning/Change Implementation| • Is **domain-specific implementation** necessary to achieve adequate software performance? • Where are changes intended to be implemented and **how variable are these domains**?   
-Installation, Update and Error Correction Infrastructure| •What specific **channels** are used to **distribute** the medical device software?**** •Does the medical device software have **multiple installation locations**? Where are corrections initiated?•How are**** updates pushed/deployed (e.g., automatically or manually, remotely or on site)?  
+自主程度是一个由用户独立操作、干预和监督的能力或自由的范围。一个自主的医疗设备或医疗设备软件，会产生影响后续临床行动或决策的输出，而无需任何用户干预。在特定条件下，自主输出可以满足这一条件（例如，对于某些结果、输入特征或情况）。受监督的输出可以影响后续的临床行动或决策，而无需用户批准，但需要在用户的监督下进行。非自主输出通常旨在帮助用户在做出决策或采取行动时。可以通过明确描述这一方面，特别是针对临床用户的，来阐明临床自主程度。
 
-# Appendix D: Examples of Linking Characterization Features and Risk 
+软件的底层逻辑的可解释性也是一个重要的医疗器械软件特征。这可能包括关于所使用的软件算法或技术的（例如，确定性公式；机器学习方法；数学模拟等）信息，以及用于开发过程中所使用的数据集的相关特征，以及关于如何得出输出或结果，或决策或行动的依据的信息。这一方面可以被描述为：（i）逻辑和输出是解释和可评估的（例如，显示基于输入特征的决策树流程图结构）；（ii）逻辑和输出部分解释或部分可评估（例如，提供具有显著性图的输出）；或（iii）逻辑和输出未解释或不可评估（例如，黑盒，逻辑被认为是过于复杂，无法被预期用户理解）。提供的信息水平可能取决于目标受众及其预期的理解水平。医疗器械软件的可解释性水平有助于评估风险和不确定性，以及支持证据的期望。
 
-This section includes examples applying the considerations described in sections 4 and 5. The examples below are intended to help illustrate how robustly characterizing software and systematically assessing the contribution of characterization factors to the software risk can provide a shared and more granular means of discussing risk that remains transferrable between potentially diverse risk categorization structures. 
+目标或用途可以是人类用户，也可以是医疗设备（无论是否包含人类用户的使用）。
 
-Below we have provided a full example of a software function applying the considerations discussed in the above sections as well as specific examples highlighting how changes in specific groupings of characterization features may impact risk. While the assessments below relate to characterizing the risk of the medical device, it is important that any regulatory assessment also considers the benefit to health from the use of the medical device and weighs the benefits against any risks of the medical device. 
+下表总结了可以帮助描述设备功能和/或用途的已识别特征和属性。请注意，本表的内容也已总结在附录 B 中。
 
-It is important to note when assessing the contribution of characterization factors to software risks that software products may have multiple functions, including both medical device and non-medical device functions. If a medical device has multiple functions, each function should be assessed separately in accordance with its respective regulatory status. If a software product has a non-medical device function, the assessment for that non-medical device function should only be related to the impact that the non-medical device function has on the medical device function. 
+### 表 3：医疗设备软件功能和/或用途的特征和属性
 
-**Example A: Software function that serves as a primary diagnostic to identify patients with prediabetes**
+特征描述| 潜在特征属性
+---|---
+输出类型| **临床解释或干预**(例如：诊断、怀疑、概率、预测、检测、严重程度、预后、等级、阶段、诊断的直接标记、处方、治疗/疗法、推荐的治疗方案、推荐剂量、放射治疗计划) **工作流程建议**(例如：**对比染料剂量；推荐的成像技术/模态/参数；推荐的手术工具选择；基于既定指南的推荐附加测试) **用于医疗目的的数据** (例如：解剖测量、体积或分割；处理后的图像/图像重建/去噪图像；处理后的信号/波形 (例如：处理后的ECG))
+输入来源| **来自人类用户**、**医疗设备**、**非医疗设备或消费品**
+自主程度| **独立/自主**(即：输出影响后续的临床行动或决策，无需用户干预) **条件独立/自主**(输出选择性地影响后续的临床行动或决策，无需用户参与。例如：独立过滤正常结果的软件，但会触发临床医生的异常结果审查) **有监督**(即：输出影响后续的临床行动或决策，无需用户批准，但有用户进行干预或停止设备) **非自主**(输出由用户在决定/行动中考虑)***注意**：自主程度可以用这些术语描述，也可以通过利用标准或其他来源中的术语，并在必要时提供自主程度和临床自主性的相关信息。
+软件和输出的可解释性 (包括使用的算法/技术、相关开发数据特征以及如何得出输出)| **逻辑和输出未解释或无法评估**(例如：黑盒，逻辑过于复杂，无法被目标受众理解) **逻辑和输出部分解释或可以部分评估**(例如：提供带有突出图的输出) **逻辑和输出解释并可以评估**(例如：展示基于输入特征的决策树流程图结构，并附带训练数据集的特征)
+输出的目标/对象| 输入给 **人类用户**；输入给 **医疗设备**
 
-**Scenario:**_The software is intended to analyze health-related data including data from electronic health records, laboratory tests, and other diagnostic tests to identify individuals with pre-diabetes (i.e., an early marker of diabetes) with an output that is reviewed by healthcare practitioners._
+### 医疗器械软件变更管理
 
-**A.1 Sample Intended Use/Intended Purpose Statement**
+设备变更的方式也是设备特征的一部分。这可能包括变更实施自主程度、变更适用的领域以及支持的基础设施，如安装地点和分销渠道。
 
-The **_Product X_** is software intended for use in the **_diagnosis_** of **_prediabetes_** in **_adults at risk of developing diabetes_**. This software is intended to be used by **_medical professionals_** in **_general healthcare environments_**. This medical device software is developed using **_a machine learning model_**. This medical device software is used for **_patients without an existing diabetes diagnosis_**. This medical device software uses **_specific data within the electronic health records (EHR)_** in order to produce a **_conditionally automatic_** __**_algorithm_** __**_output that provides likelihood of developing diabetes_**. These outputs are **_conditionally independent/ autonomous_** (i.e., output is presented to healthcare providers for review above a threshold %) and are intended to be used as a**_clinical_ _workflow recommendation for additional testing or follow-up based on established guidelines_**.
+“学习或变更管理自主程度”描述了在实施和控制医疗器械软件的培训、学习和更新方面的人工监督程度。该功能可能包含以下属性：自主学习（在医疗器械软件内部自动收集、重新培训和/或更新）和由外部控制的学习（由制造商和/或用户实施和控制的非自主更新）。
 
-As discussed in Appendix C, addressing each of the characterization features through corresponding questions is helpful for evaluating risk. The below questions are listed by information grouping to support comprehensive discussion of risk considerations. 
+“学习或变更实施的领域”是指变更的范围或适用范围。这可能被描述为适用于国际、国家、区域、特定诊所或特定患者的范围。例如，一个医疗器械软件的更新可能是一个基于特定患者数据的模型，仅供该患者使用，而另一个医疗器械软件的更新可能是一个适用于给定国家/地区所有安装或软件实例的全球模型更新。
 
-**A.2 Software Risk Considerations:**
+软件变更管理的一个方面是安装、更新和错误纠正的基础设施。 软件更新和变更可以响应软件故障、网络安全漏洞、错误、改进机会、关键性能更新和召回等情况。 软件特定的风险和风险控制可能取决于软件分发渠道（如应用商店、制造商主页、Web应用程序等）和软件安装位置（用户的移动电话和平板电脑、可穿戴设备、硬件医疗设备、云或用户的个人计算机（PC）、全球任何服务器或制造商网站上的单个服务器）。
 
-**A.2.1 Medical Problem and/or Objective**
+例如，提供医疗设备软件的应用商店，可能在所有司法管辖区中不受监管，并且制造商对其具有不同的控制水平。 在召回、现场安全纠正措施和信息分发等情况下，可能会出现监督挑战和责任不明的情况。 此外，软件安装位置会影响更新、禁用错误或召回的软件以及跟踪受影响的安装和用户的速度和有效性。
 
-Characterization Feature| Considerations for Medical Device Software Risk Characterization| Discussion  
----|---|---  
-Medical Purpose| •Is the medical device software intended to be used as **adjunctive or alongside** other tools or treatment? Is the medical device software **intended to replace or augment** a system or process? If it is meant to augment, in **what manner** is the medical device software augmentative (for example, is the software output **additive or confirmatory** to another process or outcome)?•Is the output of the software itself intended to be **therapeutic or a treatment**? Is the software output used for decision making with diagnostic or therapeutic purposes? Is the software used to monitor physiological processes or vital physiological parameters? Does the software have alarm functions used to prompt immediate or near-term intervention?| In considering the Medical Purpose _,_ this medical device software is intended to be used alongside other tools or treatments, i.e., used alongside additional diagnostic test results, treatments, and data available in electronic health records. The medical device software is intended to augment a system or process, i.e., the software output is used as a tool to aid in the diagnosis of pre-diabetes. Here, it is helpful to consider that the software is intended to augment and aid, which suggests the output may not be the sole influence on the related clinical decision point. If the software output is not a single point failure that will lead to patient harm, this can impact our understanding of the software’s risk.  
-Intended Disease or Condition| •How, if at all, does the condition/disease (for example, acute or chronic) that the medical device software is intended for **impact the criticality** of the data output by the software?•Does the condition/disease **modify the timing of when the information is needed** or is **provided** or must be used?•Does the condition/disease **define the sensitivity or accuracy** of the information needed for the input or output of the software? Could the nature of variation of monitored parameters result in immediate or near-term danger to the patient? •Could the decisions or diagnostics made by the software output have an impact that may cause death or an irreversible deterioration of condition/disease or a serious deterioration in condition/disease or a surgical intervention?| When considering the Disease or Condition of the patient, it is helpful to consider that the general state of the condition as a pre-disease state (i.e., the state of a condition before it is a disease) does not impact the criticality of the output of the software. The general state of the condition being a pre-disease state determines that the information is needed or must be used before the disease (diabetes) is diagnosed to predict a high likelihood of subsequently developing the disease (diabetes). Furthermore, the general state of the condition as a pre-disease state and the likelihood of a pre-diabetes state being present (i.e., pre-test probability) determines the sensitivity and/or accuracy of the information needed for the output of the software. Given these factors, the software output is unlikely to have an impact that may cause death or an irreversible deterioration of condition/disease, which can be helpful to consider when evaluating the overall impact that a software failure could have on the device risk. In this case, the risk may be generally lower, because the output’s relationship to the condition is not one that may likely lead to irreversible harm.  
-Intended Patient Population| •Does the intended patient population include a specific **vulnerable subgroup**?•How **diverse** is the intended patient population? How generalized does the information need to be to **perform adequately** across the intended patient population? How specific?•Do the decisions or diagnostics provided by the software output reflect the intended user demographics?| The Intended Patient Population in which this medical device software is intended to be used includes the general public but may include vulnerable subgroups such as individuals of different ethnicities, or different age groups (e.g., &lt;40, 40-60, &gt;60 years old). The intended patient population is the general public that is representative of the demographics in the local userbase which may include regional, state, or national level. This information needs to be broadly generalizable to perform adequately. As a diagnostic aid the performance of the software must have adequate sensitivity and specificity; however, the performance is dependent on the prevalence of the condition (i.e., pre-diabetes) being tested. Because this software is intended for a general population, the software may need to operate in consideration of a wide variety of patients in the intended population.  
+下表总结了可以帮助描述医疗设备软件变更管理，包括变更自主程度、变更领域和安装、更新和错误纠正的基础设施。 请注意，本表中的内容也已总结在附录 B 中。
 
-**A.2.2 Context of Device Use**
+### 表 4 医疗设备软件变更管理特征和属性
 
-Characterization Feature| Considerations for Medical Device Software Risk Characterization| Discussion  
----|---|---  
-Intended User| •Does the software enable **new/different users** to achieve the clinical task than those who would perform the task without the software? •Does the user have the **expertise** , or access to expertise (such as specific training to use the software), to understand the inputs and/or outputs of the software?| In considering the Intended User _,_ this medical device software enables both new and different users (i.e., different Health Care Providers (HCPs)) to achieve the clinical task (i.e., to identify individuals with pre-diabetes) that would otherwise not be performed without the software. This medical device software can be used by different intended users (i.e., different primary care and/or specialty HCPs). The software is analyzing health-related data in electronic health records that does not require the user (i.e., HCP) to have specialized training. This medical device software requires the user (i.e., HCP) to have the necessary expertise to understand the input (i.e., type of data in electronic health records that the software analyzes) and the output (i.e., pre-diabetes) produced by the software.  
-Intended Use Environment| •Is use of the medical device software providing a clinical task or services in an **environment that would not otherwise have such tasks or services** available (e.g., would otherwise require an expert present)?•Is the device intended to be used in an uncontrolled or unconventional setting?•Can external factors, both physical (e.g., noise, lighting) and digital (e.g., network connectivity), affect the use, input or output of the device?•Do the expected virtual conditions and computing environment require additional software compatibility verification or authentication) and/ or impact the users’ access to the software?| The Intended Use Environment for this medical device software includes providing services in a healthcare (i.e., clinical) environment and is not intended to function outside healthcare settings or in those settings where healthcare is not being delivered with access to an electronic health record (i.e., settings using paper-based records). External factors (i.e., those factors that can impact the function of the medical device software) such as physical (e.g., physical related factors) and digital (e.g., broadband, internet connectivity, access issues to different healthcare databases) factors, may have a minor or negligible effect on the use, input, or output of the device. Further, the restricted intended use environment reduces the variability of operating conditions where the software must perform adequately.  
-Timing Within Healthcare Task/Intervention| •Does the user have **adequate time to review the basis** for the information output by the software or to review and curate the information being used as input to the software?•Could the software output **initiate a healthcare intervention that would not otherwise be identified** by a particular user or in a particular setting (e.g., pre-screening information prompting a patient to speak to a doctor about a possible condition)? •Are there **possible harms or dangers related to the healthcare task/intervention that could occur immediate or near-term** to the software’s outputs?•Are there **possible harms or dangers related to the healthcare task/intervention that could occur distantly** from the use of the software, but that are related to decision points generated by the software’s outputs?| As for the Timing within Healthcare Task/Intervention, the output of this medical device software is considered routine and non-urgent. The user has adequate time to review the output of this medical device software and to curate and review the basis or information used as its input. Because of the intended timing, the impact of the software’s risks may overall be considered lower than those risks might be in a time-critical or urgent use case. Because some patients for whom review might be impactful to their future care could be missed if the software does not present their cases for review, there is a possible harm that could occur distantly from the use of the software.  
-Role of Software and Output Within the Healthcare Task/Intervention| •Does an erroneous output from the software at the intended point in the workflow **put the patient on a path toward subsequent harm**?•Is the **frequency of output** appropriate to its role and timing in the workflow (e.g., is there a potential for notification fatigue, i.e., desensitization of the user to alarms, alerts, or notifications)?•Does the software create a **single point of failure** in the clinical task/intervention?| When considering the Role of Software and Output Within the Healthcare Task/Intervention, as a recommendation for further testing, the risk of output from the software at the intended point in the workflow putting the patient on a path toward subsequent harm is low. The frequency of output from the software and timing in the clinical workflow do not present risks of notification fatigue. The software also does not present a single point of failure in the clinical task/intervention as other data within the patient’s primary care routine is available to identify symptoms of prediabetes  
+特征 | 潜在特征属性
+---|---
+学习/变更管理的自主程度 | **自主学习/变更** (由医疗设备软件内部执行和控制的自主更新)
+| **由用户驱动的外部控制的学习/变更** (由用户执行和控制的非自主更新)
+| **由制造商驱动的外部控制的学习/变更** (由制造商执行和控制的非自主更新)
+变更实施的领域 | **国际、国家、区域、特定诊所/站点、特定患者**
+安装、更新和错误纠正基础设施 | **分销渠道** (例如，应用商店、制造商主页、Web应用程序)
+| **安装地点** (移动电话和平板电脑、可穿戴设备、硬件医疗设备、云、或用户的PC、任何地方的服务器或制造商的单个服务器)
 
-When considering questions related to the Context of Device Use, the Intended User for the medical device software in the scenario provided is limited to healthcare practitioners in the Intended Use Environment of a health care facility. This, in combination with the Timing Within Healthcare Task/Intervention and Role of Software and Output Within the Healthcare Task/Intervention considerations indicates that these characterisation features pose a lower impact on overall risk characterization.
+# 医疗设备软件风险特征
 
-**A.2.3 Device Function/Use**
+识别和评估医疗设备软件的特定风险，可能与其它医疗设备产生独特的疑问。 风险管理方法，如ISO 14971中提出的方法，通常将风险描述为危害发生的概率与危害的严重程度的结合。 然而，危害可以是直接的和间接的，全面识别软件对可能危害的贡献可能具有挑战性，因为软件本身可能不会产生“物理”危害，从而可以很容易地归因于危害。 此外，还应考虑软件何时可能导致物理危害，例如，当自主设备产生输出，从而影响后续的临床行动或决策，而无需任何用户的干预；例如，自动控制患者药物输送的软件。
 
-Characterization Feature| Considerations for Medical Device Software Risk Characterization| Discussion  
----|---|---  
-Output Type| •Is the output **supplementing** additional information to contribute to a clinical interpretation or workflow recommendation? Is it a **replacement or substitution** for information meant to determine a clinical interpretation, workflow recommendation, or as data for use in a medical purpose?•Is the output commonly accepted in **clinical practice** or based upon sound **scientific principles**? Is the output **proprietary**?•Is access to the output **tiered or limited** by user or other credentials?•Is the output **Boolean** , e.g., values that are either true or false?| In considering the Output Type,__ this medical device software provides additional information (i.e., diagnosis of a pre-diabetes state) that supplements clinical recommendations (e.g., for subsequent diagnostic testing) with data that is used for a medical purpose (e.g., recommendations for lifestyle modification and/or treatments). The output of this medical device software is commonly accepted in clinical practice (i.e., the diagnosis of pre-diabetes) and, provided it has been adequately validated with an appropriate indication for use, is based on sound scientific principles. This medical device software output is considered proprietary because the specific calculation to arrive at a threshold to present the output to the HCP for review is devised by the company and is not simply a well-known and accepted threshold or calculation. Access to the output of this medical device software is first made available to the HCP who ordered the use of this software (i.e., analysis of health-related data for an individual who does not have pre-diabetes to determine if pre-diabetes is present in this individual). Thereafter, the output of this medical device software is accessible by HCPs who are providing care to this individual and information is not withheld from the HCP on the basis of a specific product access tier. The information is also not meant to be shared with a wide variety of users such that varying levels of access is implemented, such as might be the case if the product’s outputs were meant for review by both patients and their providers.  
-Input Source| •Is the input source from a human user, medical device, non-medical device or consumer product?•Is the input source **unique** or could the data be obtained through **other methods or sources**?•Is an adequate input source **governed by specific parameters** such as rate, sensitivity, or precision (inclusion and exclusion criteria)? Is the input relevant?•Is the input data direct or **informed or transformed** by other tools, products, or intermediaries? Are the transformed data suitable?•Are there **multiple input sources** or data types? Are they **interdependent**?| The Input Source of this medical device software is unique and limited to the data that is available in electronic health records for individuals in whom this software will be used. The input data cannot be obtained through other methods or sources. The input source of this medical device software is governed by specific parameters, notably structured data in electronic health records (e.g., diagnostic testing results, vitals measurements, demographic information). The input data of this medical device software is not transformed by other tools or products. This medical device software contains one input source (i.e., data in electronic health records) but includes multiple interdependent data elements (e.g., demographic data, laboratory and diagnostic testing results, treatments). These structured, regular data inputs from known sources of expected uniform quality do not appear to introduce novel or altered risks as a result of introducing the software solution. An HCP would review the same data to make an independent decision if the software was not available.  
-Degree of Autonomy| •Is a user in the loop? Is the user in the loop a health care professional?| In terms of the Degree of Autonomy, a clinician is in the loop to review any outputs flagged by the software and to make the next decision in the clinical workflow – such as follow up tests for the patient. However, a clinician will not be informed of patients who have _not_ met the threshold to be considered “at risk” by the software.  
-Explainability of Software and Output (underlying logic including the algorithm/technology used, relevant development data characteristics, and how output is reached)| •Is the relevant functionality of the product **explained and understood** by the user?•Is the relevant functionality of the product **explained and understood** by users other than the patient? Is **different information provided** to different user groups or patients?•Is the relevant functionality **partially explained** or **partially able to be evaluated** by the user****(e.g., output provided with saliency maps)**?**|  Considering the Explainability of Software and Output, the relevant functionality of this medical device software is explained (i.e., within its indication for use and ordering requirements) and is understood/can be evaluated by the user (i.e., input data includes structured data elements in electronic health records). The analysis (i.e., statistical or computational approach) is partially explained to the user.  
-Destination/Target of Output| •Is the output **the only instruction/data/information** needed to drive the target’s next action?| Considering the Destination/Target of Output _,_ this software likely does not provide an output that would be the sole instruction/data/information to drive the HCP user’s next step. The output will present cases for the HCP to review and introduce a single new datapoint (patient has been identified as above a threshold). The HCP will have the patient’s data for review in addition to the information that the patient has exceeded the threshold to help inform their next decision. However, as noted above, the HCP will not be presented with any data on patients who do not exceed the software’s threshold, which could result in _no_ decision made for such patients.  
+评估软件对潜在危害的贡献可能需要对主要与性能相关的危害[2]进行解释，或者更具体地说，对与信息相关的危害进行解释，并理解相关的风险与医疗器械的预期用途/预期目的以及特定实施的完整理解密切相关。换句话说，在评估医疗器械软件的风险时，重要的是理解与信息相关的危险情况，这些情况与软件功能在实现预期医疗目的方面的作用密切相关。这些危险情况通常可以通过“与性能相关的危害”的视角来理解，如 ISO 14971 描述的，例如与数据访问、可用性、完整性、交付和诊断信息相关的危害，而不是例如与能量、生物或化学相关的危害。
 
-After consideration of questions related to Device Function/Use, it may be considered that the output type, supplementing additional information to contribute to a clinical interpretation or workflow recommendation, in this case a prediction or diagnosis commonly accepted in clinical practice or based upon sound scientific principles, may not greatly impact the risk of the device. However, the specific threshold calculation is proprietary and the software is replacing a manual review of a patient record and introduces the possibility of incorrectly filtering patients for review by the HCP. 
+对医疗器械软件的准确描述，包括其特性，如预期用途、输出类型、使用环境、自主性等，可以更全面地识别这些直接和间接危害，并清楚地了解软件相关的危害如何导致特定预期用途/预期目的的独特风险。
 
-**A.2.4 Device Change Management**
+虽然与软件相关的性能相关的危害和风险并不总是涵盖医疗器械所带来的全部风险（例如，某些软件可能提供数据或为具有相关物理危害的硬件执行器生成输入），但充分描述特定软件实施或解决方案对器械风险的影响仍然非常重要，因为它可以通过直接或间接方式对患者安全或器械有效性产生可证明的影响。
 
-Characterization Feature| Considerations for Medical Device Software Risk Characterization| Discussion  
----|---|---  
-Degree of Learning/Change Management Autonomy| •Does the medical device software **independently change** its underlying algorithms?•**How often** is medical device software performance verified?•Are updates to algorithmic performance **driven by** non-clinical or clinical users, or manufacturer driven, or a combination of these users?| In considering the __ Degree of learning/change management autonomy, this medical device software does not independently change its underlying algorithms. The performance of this medical device software is verified on an annual schedule by the product developers and validated by clinical users within the specific healthcare site. Updates to the algorithmic performance are monitored by clinical users and the manufacturer.  
-Domain of Learning/Change Implementation| •Is **domain specific implementation** necessary to achieve adequate software performance? •Where are changes intended to be implemented and **how variable are the domains**? | In Domain of Learning/Change Implementation, note that learning and/or change management may result in different accuracy or precision when this software is used across different clinical sites or regional locations (i.e., based on the demographic characteristics of the individuals in whom this software is used).  
-Installation, Update and Error Correction Infrastructure| •What specific **channels** are used to **distribute** the medical device software? •Does the medical device software have **multiple installation locations**? Where are corrections initiated?| Regarding Installation, Update and Error Correction Infrastructure, note that this medical device software’s distribution channel is a web application, and that the software installation occurs on a server at the individual clinical site by clinical users.  
+此外，重要的是要考虑，软件相关的危害通常位于安全和网络安全风险的交汇点。因此，将软件相关的危害考虑为安全和网络安全风险的结合，可能是有益的。换句话说，医疗设备软件相关的危害考虑可以被视为与人体的伤害或损害[3]以及降低有效性[4]相关，其中“降低有效性”可能源于在不恰当的时间、速率或使用不当方法的情况下，向人或产品提供不充分、不正确或缺失的数据。例如，将不希望或意外的偏差引入决策系统，无论是否直接导致患者受到伤害，都可以被理解为有害的有效性降低。换句话说，特定软件解决方案对决策系统产生了负面影响。通常，这也可以被视为考虑“间接危害”——即软件可能对患者产生直接影响，如上所述。
 
-In summary, for such a product, overall impact on risk posed or introduced- by the software takes into consideration multiple characterization features across information groupings, and those that are most relevant to the particular device software may be different depending on the device’s intended use/intended purpose. For this reason, it is critical to have a clear description of the software to help build an understanding of the role of the medical device software and its unique implementation. For this example device, the particular software solution may introduce risks related to the automation of a previously manual step and new failure points in the intended workflow. However, because of the device’s medical purpose and context of use, these risks may not have notably high impact. These considerations can be taken together when considering how the decision to design this software solution may impact the overall risk of the device or raise different hazards. 
+与软件相关的，与信息相关的危害——即，与性能相关的危害——可以影响其他产品或系统的功能，以及工作流程或流程的信息，并可以直接影响用户决策（例如，输出错误诊断信息的软件，其速率不可接受）。因此，就这些主题进行协调讨论，可以帮助促进对这些设备及其可能对不同监管辖区的风险分类的全面和详细理解。
 
-# Appendix E: Examples Comparing Specific Risk Considerations
+**要点：**
 
-As with Example A above, addressing each of the characterization features through corresponding questions is helpful for evaluating risk. The below questions are listed by information grouping to support comprehensive discussion of risk considerations. As discussed above, while the questions below relate to evaluating the risk of the medical device, it is important that any regulatory assessment also considers the benefit to health from the use of the medical device and weighs the benefits against any risks of the medical device.
+* 在评估软件（包括信息和/或基于物理的风险）带来的风险时，应同时考虑直接和间接的危害。
 
-The pairs of comparative examples below further illustrate that the hazards to be extracted in risk analysis can differ based on the unique characteristics of a given medical device software. 
+* 当软件相关的危害是基于信息（例如，延迟、不当或错误的信息），时，在考虑间接危害时，应将潜在的损害（包括身体伤害或损害）以及有效性降低都纳入考量。
 
-**Example 1: Software intended to provide a therapeutic experience to reduce and relieve pain.**__**Scenario 1.1:** The software is intended to be used in conjunction with prescribed pain management medications to reduce and relieve pain in cancer patients undergoing chemotherapy.**Scenario 1.2:** The software is intended to be used to reduce and relieve pain in osteoarthritis patients who cannot take other pain relief medication.  
+* 实施软件可能造成的危害和相关风险取决于设备的特定用途。
+
+以下是识别和分析与软件相关的危险情况的一般考虑因素，以及在将这些危险情况纳入风险评估中的考虑因素。这些方法旨在提供一种共同的方式来讨论医疗器械软件所带来的独特风险，以及这种理解如何驱动在各种风险分类系统中对医疗器械进行风险分类。识别和分析这些风险的过程应被视为迭代进行，并在整个医疗器械的生命周期内进行。
+
+## 识别和分析
+
+风险评估和管理活动的成功取决于风险评估人员对医疗器械软件的功能和预期用途的理解，以及医疗器械软件的预期使用方式、地点、时间以及使用人员。根据本文件第 4 节中提供的信息对医疗器械软件进行全面描述，为软件特定风险评估提供了必要的依据。以下提供了一些识别和考虑在第 4 节中各个信息组内风险的方法，旨在说明许多变量如何共同作用，从而更全面地理解可能影响特定医疗器械软件的独特风险。
+
+为了识别和描述软件风险，包括与网络安全相关的相关风险，有助首先识别设备特征，然后询问“为什么该特征对软件的预期用途/目的很重要”，以及随后识别可能基于软件的有意设计决策和无意软件故障而产生的危险情况。然而，重要的是确保以这种方式探索设备特征，并且要仔细考虑软件之间的相互依赖关系，以便全面描述医疗设备的“风险特征”。
+
+附录 C 提供用于配合先前在第 4 节中识别的每个特征的考虑问题的答案。这些问题旨在帮助理解“为什么该特征对软件的预期用途/目的很重要”，作为一种手段，以帮助识别可能与软件的设计和预期用途/目的相关的特定危险情况。虽然这些问题并非全面，但它们旨在突出，设备的独特特征提供的上下文如何影响对特定软件可能引入的潜在危害的理解，从而影响整个医疗设备的风险。这些问题旨在帮助在引入风险控制/缓解措施之前，对医疗设备软件可能引入的潜在危害进行全面考虑，但并非所有问题都适用于或与每种医疗设备软件相关。
+
+附录 D 包含示例，说明如何回答附录 C 中的问题，可以帮助识别不同特征及其相互作用如何影响特定医疗设备软件所引入的风险。 重要的是，识别这些“特定于软件”的对设备风险的贡献，旨在阐明为什么特定医疗用途/目的下的软件，可能或可能不会改变在各种框架下的设备风险分类。 这一概念将在本文件的第 5.3 节中进一步讨论。
+
+## 估算
+
+如上所述，风险管理方法，例如 ISO 14971 中提出的方法，通常将风险描述为伤害发生的概率和伤害的严重程度的结合。 结合本文件中第 4 节中概述的医疗设备软件特征，以及风险评估特征，对于评估和管理风险至关重要。
+
+对于医疗器械软件，风险管理需要识别与危险情况相关的潜在的_直接和间接_危害，例如软件的错误输出，然后评估这些危害的严重程度，例如延长寿命、心理损伤或不当或不必要的侵入性治疗和/或测试。虽然在估计风险时，危害发生的概率通常可以作为参考，但对于如何定量估计软件故障发生的概率，目前尚无广泛共识。此外，网络安全风险管理通常更关注漏洞的可利用性，而不是危害发生的概率；并且通常认为，与软件相关的危害的概率会受到可用性等因素的影响，这使得进一步的估计更加困难。[5] 因此，在估计特定软件的风险时，可以将软件故障发生的概率设置为1，并在可能的情况下，根据其他因素来估计概率，从而进行风险评估。
+
+附录C中的指导问题可以为隔离特定软件的危害_以及_评估其潜在危害的严重程度提供依据，通过理解如何应用特定的软件解决方案会影响医疗器械的预期用途/预期目的。
+
+这些概念可以随后用于风险特征化（例如，通过根据 ISO 14971 进行风险评估），以及确定因特定软件相关的危险情况（例如，灾难性、严重、严重、轻微、可以忽略的）所造成的直接或间接损害的严重程度。一旦危害被识别，对“软件贡献”的风险估计的方法并不独特。然而，当软件需要在更广泛的设备上下进行考虑，以实现预期的使用/目的时，也可能有助于考虑软件是否成为特定危害的单一故障点，如果是，这种状况如何影响风险估计和相关的缓解措施。
+
+## 风险分类方法
+
+在产品生命周期的早期进行软件风险特征化非常重要。正如本文档中讨论的风险特征化一样，对于医疗设备软件，应在实施风险控制（而不是剩余风险）之前进行风险分类。对于任何一种功能、疾病、干预、人群或用户的特定类型，可能并不总是可以或有益于创建完全严格和不同的风险类别。对于任何特定的医疗设备软件，可能会存在相互依赖以及在特征化组别之间存在不均衡，这些最终会影响对设备风险的理解，从而可能影响后续的分类。此外，在处理由软件对设备风险所做的特定贡献时，例如，如何将提供的信息输入到特定用户群体中，作为仅一个例子，在不同司法管辖区，可能不会有统一或普遍的答案。
+
+不同的管辖区域可能具有不同的理念和法律义务，这些因素塑造了它们不同的基于风险的分类。因此，第 5 节中讨论的内容，并在附录 B 中进一步说明，旨在作为一种共同的基础，用于考虑和阐述，如何对符合医疗器械定义的软件的特征影响风险，特别是通过对相互关联的因素进行分析，从而理解特定用途/目的的软件的风险。换句话说，本文件旨在提供关于如何确定特定软件风险分类的见解，而无需对任何特定设备指定一个“正确”且普遍的类别。如前所述，除了其他复杂因素外，软件特定的风险可能对特定设备的适用风险分类产生重大影响，但并非唯一影响因素。在此，本文件可以作为讨论特定医疗器械软件风险的基础，并在更广泛的设备系统或监管结构中进行理解。
+
+# 实施考虑
+
+为医疗器械软件提供一个共同的描述基础，并考虑不同特征如何影响风险，有助于促进安全性和有效性，以及在不同管辖区域中的一致性和协调性。
+
+4.0和5.0部分中提出的考虑可以用于理解医疗器械软件及其风险，并促进不同管辖范围内不同设备风险分类系统的解释和应用。虽然本文件中描述的医疗器械软件特征化与评估设备风险相关，但重要的是，任何监管评估也应考虑设备的使用对健康的益处，并权衡设备本身的风险。
+
+在特定管辖范围内，设备分类最终将由管辖当局、法律和法规决定。在可能的情况下，管辖范围可以考虑将本文件中整合的语言和概念纳入其本地指导或流程，例如，将设备和风险特征化语言与文档中的标签和风险管理期望或分类法规联系起来。
+
+管辖范围可能能够利用一部分特征和属性，以及对医疗器械软件风险及其严重程度的评估，来描述其在将风险分类应用于医疗器械软件方面的做法。
+
+这些概念旨在供利益相关者与现有的框架一起使用，以提供额外的细节和解释，从而促进和指导清晰、一致和准确的医疗器械软件特征化。
+
+附录 A：示例的预期用途/预期目的声明
+
+为了促进和鼓励清晰、全面的医疗器械软件的预期用途声明，关键的预期用途/预期目的声明要素在第 4.1.1 节中进行总结。以下是一个示例声明指南。需要注意的是，并非所有要素都适用于每种医疗器械软件，并且第 4.1.1 节及以下提供的信息仅供制造商在开发医疗器械软件标签、文档和适用的监管提交时进行考虑。根据技术和预期用途，该示例声明可能不适用于所有医疗器械软件。尽管通常包含在预期用途/预期目的声明中，但对于某些设备，例如，由于信息量较大，可能需要在医疗器械软件标签的其他地方包含与禁忌症等信息。
+
+_[医疗器械软件名称]_ 是一种预期用于_[医疗用途]、_[疾病/病症/疾病]_在_[预期患者群体]中的软件。该软件预期由_[预期用户群体]在_[预期使用环境]中使用。该医疗器械软件的禁忌症包括_[禁忌症]。该医疗器械软件使用_[输入]来产生_[输出描述]。这些输出是_[描述输出的使用方式、它在临床或医疗工作流程中的作用以及它对最终医疗决策/行动的贡献]。
+
+# 附录 B：特征总结表
+
+下表代表了第 4 节“医疗器械软件描述”中四个单独呈现的表格的汇总版本。
+
+信息分组 | 特征描述 | 潜在特征属性
+---|---|---
+医疗问题及/或目标 | 医疗目的 | **诊断**（例如，主要诊断、筛查、分诊等），**预防**，**监测**，**缓解**，**预测**，**治疗**等
+预期疾病或状况 | **关键**，**严重**，**非严重**的疾病或状况，包括对该状况状态的考虑（例如，慢性疾病或慢性疾病的急性变化）
+预期患者群体 | **一般人群**，**特定人群子群**（例如，易受影响且/或易受伤害的子群；特定年龄组、性别、性别、肤色、种族、残疾、诊断等）**特定人群子群的交叉**（例如，特定年龄组 + 特定性别 + 易患特定疾病的人群）
+医疗设备软件使用情境 | 预期用户 | **非临床用户/非临床用途**（例如，照护者、患者用户、无医疗资质的用户）**有执照的医疗专业人员、非医生**（例如，注册护士、牙医、心理学家、放射治疗师、物理治疗师等）**普通医生**（例如，初级保健医生、家庭医生、注册护士）**专科医疗医生**（例如，放射科医生、肿瘤医生、皮肤科医生、病理医生、外科医生等）
+预期使用环境 | **非临床环境**（例如，家庭使用）**一般医疗环境**（例如，初级保健诊所、虚拟初级医疗）**专科医疗环境**（例如，医院、专科诊所、虚拟专科医疗）
+| 在医疗任务/干预中的时间 | **早期**（例如，分诊、预测未来诊断、在可疑症状或信息出现时进行早期检查、用于诊断或治疗计划的生理信号或医学图像采集）**中期**（例如，用于诊断或治疗计划的信号或图像分割）**后期**（例如，考虑的最佳图像引导治疗方案或剂量；建议的辅助诊断或二次检查****连续血糖监测输出自动驱动基础胰岛素剂量；在机器人手术中的图像引导的仪器控制）***注意：**上述 3 个阶段（早期、中期和后期）作为参考点，并不需要说明应采用哪个阶段。重要的是对输出的时间与最终干预、决策或行动以及产品如何与其它
+
+# 附录 C：示例考虑，用于理解与设备设计和预期用途相关的软件危害
+
+下表中的问题旨在帮助全面考虑医疗设备软件可能引入的潜在危害。并非所有问题都适用于每种医疗设备软件。这不是一份详尽或强制性的考虑清单，而是针对医疗设备软件的预期用途或预期用户，提供可选示例，这些示例在评估软件风险时可能有所帮助。
+
+信息分组 | 特征描述 | 医疗器械软件风险特征化考虑
+---|---|---
+医疗问题/或目标 | 医疗目的 | • 医疗器械软件是否旨在作为其他工具或治疗的**辅助或同时使用**？ 医疗器械软件是否旨在**替代或增强**一个系统或流程？ 如果是，在**何种方式**下，医疗器械软件具有增强性（例如，软件输出是否是**附加或确认性**的，用于另一个流程或结果）？• 软件输出本身是否旨在**作为治疗或治疗**？ 软件输出是否用于基于诊断或治疗目的的决策？ 软件是否用于监测生理过程或重要的生理参数？ 软件是否具有警报功能，用于立即或短期干预？
+预期疾病/状况 | • 医疗器械软件预期用于的疾病/状况（例如，急性或慢性）**如何影响**软件输出的数据的**关键性**？• 疾病/状况**是否会改变信息何时需要或提供，或者必须使用的时间**？• 疾病/状况**是否定义了信息对软件的输入或输出的**敏感性或准确性**？ 监测参数的变化是否可能导致患者立即或短期内出现危险？• 软件输出的决策或诊断是否可能对患者造成影响，导致死亡、不可逆的状况恶化或严重的状况恶化，或者需要进行手术干预？
+预期患者群体 | • 预期患者群体是否包括特定的**易受影响的亚群**？• 预期患者群体的**多样性**如何？ 信息的**通用性**需要达到什么程度，以在预期患者群体中**充分发挥作用**？ 信息的**具体性**如何？• 软件输出提供的决策或诊断是否反映了预期用户的**人口统计学特征**？
+医疗器械软件的使用环境 | 预期用户 | • 医疗器械软件是否使**新的/不同的用户**能够完成与软件不使用时所完成的任务的临床任务？• 用户是否需要**具备专业知识**，或者需要访问专业知识（例如，为了使用软件而进行特定的培训），才能理解软件的输入和/或输出？
+预期使用环境 | • 使用医疗器械软件是否提供在**通常情况下没有此类任务或服务的**临床任务或服务（例如，是否需要专家在场）？• 医疗器械是否旨在在不受控制或非传统环境下使用
+
+# 附录 D：关联特征的风险特征示例
+
+本部分包含根据第 4 和第 5 节所述考虑事项的示例。 以下示例旨在帮助说明，如何通过稳健地描述软件并系统地评估特征因素对软件风险的贡献，从而提供一种共享且更细化的讨论风险的方式，该方式可以在潜在的多样风险分类结构之间进行转移。
+
+以下，我们提供了一个软件功能的完整示例，该功能应用了上述部分中讨论的考虑事项，以及具体的示例，说明特定特征组的变化如何影响风险。 虽然以下评估与医疗器械的风险特征相关，但重要的是，任何监管评估也应考虑医疗器械的使用对健康的益处，并权衡医疗器械的风险。
+
+在评估特征因素对软件风险的贡献时，需要注意的是，软件产品可能具有多个功能，包括医疗器械功能和非医疗器械功能。 如果医疗器械具有多个功能，则每个功能应根据其各自的监管状态进行单独评估。 如果软件产品具有非医疗器械功能，则对该非医疗器械功能的评估应仅与非医疗器械功能对医疗器械功能的影响相关。
+
+**示例 A：作为主要诊断功能的软件功能，用于识别患有糖尿病前期的人**
+
+**场景：**_该软件旨在分析与健康相关的包括电子病历、实验室测试和其他诊断测试的数据，以识别患有糖尿病前期（即糖尿病的早期指标）的个体，并生成一份由医疗专业人员审查的输出。_
+
+**A.1 预期用途/目的陈述**
+
+**_产品 X_** 是一款软件，旨在用于**_诊断_****_糖尿病前期_**，适用于**_有糖尿病风险的成年人_**。该软件 intended to be used by **_医疗专业人员_**在**_一般的医疗环境中_**。该医疗设备软件使用**_机器学习模型_**。该医疗设备软件用于**_没有现有糖尿病诊断的患者_**。该医疗设备软件使用**_电子病历（EHR）中的特定数据_**，以生成一个**_条件自动_**__**_算法_** __**_输出，以提供患糖尿病的可能性_**。这些输出是**_条件独立/自主_**（即，输出以高于阈值的百分比呈现给医疗保健提供者进行审查），并 intended to be used as a**_临床_ _工作流程建议，用于根据既定的指南进行额外的测试或随访_**。
+
+如附录 C 讨论所述，通过对应的问题来解决每个特征有助于评估风险。以下问题按信息分组列出，以支持全面的风险考虑讨论。
+
+**A.2 软件风险考量：**
+
+**A.2.1 医疗问题和/或目标**
+
+特征描述 | 医疗器械软件风险特征化考虑 | 讨论
+---|---|---
+医疗用途 | • 医疗器械软件是否旨在作为其他工具或治疗的**辅助或同时使用**？ 医疗器械软件是否旨在**替代或增强**一个系统或流程？ 如果是，该医疗器械软件以**何种方式**增强（例如，软件输出是**附加的或确认性的**，与另一个流程或结果相关吗）？• 软件的输出本身是否旨在**作为治疗或治疗**？ 软件输出是否用于基于诊断或治疗目的的决策？ 软件是否用于监测生理过程或重要的生理参数？ 软件是否具有警报功能，用于提示即时或短期干预？ | 在考虑医疗用途时，本医疗器械软件旨在与其它工具或治疗同时使用，即与额外的诊断测试结果、治疗和电子健康记录中的数据一起使用。 本医疗器械软件旨在增强一个系统或流程，即软件输出用作辅助诊断糖尿病的工具。 在这种情况下，有助考虑软件旨在增强和辅助，这表明输出可能不是与相关临床决策点的唯一影响因素。 如果软件输出不是导致患者伤害的单一故障点，这将影响我们对软件风险的理解。
+预期疾病或状况 | • 医疗器械软件旨在用于的疾病/状况（例如，急性或慢性）如何**影响**软件输出数据的**关键性**？• 疾病/状况是否**改变了信息需要、提供或使用的时间**？• 疾病/状况是否**定义了**软件输入或输出所需信息的**敏感性或准确性**？ 监测参数的变化是否可能导致对患者的即时或短期危险？• 软件输出的决策或诊断是否可能对患者造成死亡、不可逆转的病情恶化或严重病情恶化的影响？ | 在考虑患者的疾病或状况时，有助考虑，作为疾病前的状态（即，在成为疾病之前的状态），该疾病状况本身并不影响软件输出的**关键性**。 疾病状况作为疾病前的状态，确定在诊断糖尿病之前，需要或必须使用信息，以预测随后发展为糖尿病（高概率）的可能性。 此外，疾病状况作为疾病前的状态以及在糖尿病（即，预测试概率）存在的情况，确定了软件输出所需信息的敏感性和/或准确性。 鉴于这些因素，软件输出不太可能对患者造成死亡或
+
+**A.2.2 医疗器械使用环境**
+
+**功能特征 | 医疗器械软件风险特征考量 | 讨论**
+---|---|---
+预期用户 | • 软件是否使**新的/不同的用户**能够完成与不使用软件时相同或不同的临床任务？ • 用户是否具备**专业知识**，或者能够获得专业知识（例如，专门用于使用软件的培训），以理解软件的输入和/或输出？ | 在考虑预期用户时，该医疗器械软件使新的和不同的用户（即不同的医疗保健提供者）能够完成（即识别患有糖尿病前期的人）否则不会完成的临床任务。该医疗器械软件可供不同的预期用户（即不同的初级保健和/或专科医疗保健提供者）使用。该软件分析电子健康记录中的健康相关数据，而无需用户（即医疗保健提供者）具备专门的培训。该医疗器械软件要求用户（即医疗保健提供者）具备必要的专业知识，以理解软件的输入（即电子健康记录中分析的数据类型）和由软件产生的输出（即糖尿病前期）。
+预期使用环境 | • 使用医疗器械软件是否在**没有其他此类任务或服务**的环境中提供临床任务或服务（例如，是否需要专家在场）？ • 预期该设备在不受控制或非传统环境中使用吗？ • 外部因素（包括物理因素，如噪声和照明，以及数字因素，如网络连接）是否会影响设备的输入、输出或使用？ • 预期的虚拟条件和计算环境是否需要额外的软件兼容性验证或身份验证，并且/或影响用户访问软件？ | 针对该医疗器械软件的预期使用环境包括在医疗保健（即临床）环境中提供服务，并且不打算在医疗保健环境或使用纸质记录的医疗保健环境中（即使用纸质记录的设置）之外或在这些环境中使用。外部因素（即可能影响医疗器械软件功能的因素），如物理因素（例如，与物理相关的因素）和数字因素（例如，宽带、互联网连接和不同医疗数据库的访问问题），可能对设备的输入、输出或使用产生轻微或可忽略的影响。此外，受限的预期使用环境减少了软件必须充分执行的运行条件的变化。
+在医疗任务/干预中的时间 | • 用户是否有**足够的时间来审查**软件输出的基础，或者审查和整理作为软件输入的用于审查的信息？ • 软件输出是否可以**
+
+在考虑与医疗器械使用情境相关的问题时，所提供的医疗器械软件的预期用户仅限于医疗机构的预期使用环境中的医疗保健专业人员。 结合“在医疗环境中任务/干预的时间”和“软件在医疗任务/干预中的角色和输出”的考虑，表明这些特征对整体风险特征的影响较低。
+
+**A.2.3 医疗器械功能/使用**
+
+**特征描述 | 医疗设备软件的风险特征化 | 讨论**
+---|---|---
+输出类型 | •该输出是否为**补充**信息，以帮助进行临床解释或工作流程建议？它是否是用于确定临床解释、工作流程建议或作为医疗用途数据的**替代或替换**？•该输出是否在**临床实践**中被广泛接受，或者基于**可靠的科学原则**？该输出是否是**专有**的？•用户或其它资质是否对该输出具有**分级或限制**？•该输出是否为**布尔值**，例如，要么为真，要么为假？| 在考虑输出类型时，此医疗设备软件提供补充信息（即，对预先糖尿病状态的诊断），以与临床建议（例如，后续诊断测试）结合使用，并提供用于医疗用途的数据（例如，生活方式调整和/或治疗的建议）。此医疗设备软件的输出在临床实践中被广泛接受（即，对预先糖尿病的诊断），并且，如果已充分验证并具有适当的使用指示，则基于可靠的科学原则。由于公司自行设计了用于将输出呈现给医疗专业人员进行审查的阈值，因此此医疗设备软件的输出被认为是专有的，并且并不简单地采用已知的、被广泛接受的阈值或计算。此医疗设备软件的输出可供医疗专业人员使用，前提是该软件已用于特定个体，并且该个体未患有预先糖尿病。在此之后，医疗专业人员可以访问此医疗设备软件的输出，并且不会因特定产品访问级别而对医疗专业人员隐瞒信息。此外，该信息不会被广泛分享给各种用户，从而实现不同级别的访问，例如，如果产品的输出是供患者和他们的提供者审查的。
+输入来源 | •输入来源是人类用户、医疗设备、非医疗设备或消费品吗？•输入来源是**独特的**，还是可以通过**其他方法或来源**获得数据？•是否有足够的输入来源，并且该来源符合**特定的参数**，例如，速率、灵敏度或精度（包括和排除标准）？输入是否相关？•输入数据是直接的还是**通过其他工具、产品或中间体进行告知或转换**的？转换后的数据是否合适？•是否有**多个输入来源**或数据类型？它们是否**相互依赖**？| 这一医疗设备软件的输入
+
+在考虑与设备功能/使用相关的问题后，可能会认为，这种输出类型，即补充提供信息以帮助进行临床解释或工作流程建议（在这种情况下，是指在临床实践中或基于良好科学原则的预测或诊断），可能不会对设备本身的风险产生重大影响。然而，具体的阈值计算是专有的，该软件取代了对患者病历的手动审查，并可能导致错误地筛选患者进行由医疗专业人员审查。
+
+**A.2.4 医疗器械变更管理**
+
+特征描述| 医疗器械软件风险特征化考虑| 讨论
+---|---|---
+学习/变更管理自主程度| • 医疗器械软件是否**独立地**改变其底层算法？• 医疗器械软件的性能**多久**进行验证？• 算法性能的更新是由非临床或临床用户、制造商，还是这两种用户的组合驱动的？| 在考虑__学习/变更管理自主程度时，该医疗器械软件不独立地改变其底层算法。该医疗器械软件的性能，由产品开发人员每年进行验证，并在特定医疗机构内由临床用户进行验证。算法性能的更新由临床用户和制造商进行监控。
+学习/变更实施领域| • 是否需要**特定领域实施**才能实现充分的软件性能？• 变更计划实施在**哪些领域**，以及这些领域**有多么不同**？| 在学习/变更实施领域，请注意，学习和/或变更管理可能导致在不同临床机构或区域（即，基于使用该软件的个体的人口特征）中使用该软件时，出现不同的准确性和精度。
+安装、更新和错误纠正基础设施| • 医疗器械软件的具体**渠道**是什么，用于**分发**？• 医疗器械软件是否有**多个安装位置**？ 纠正由谁发起？| 针对安装、更新和错误纠正基础设施，请注意，该医疗器械软件的分发渠道是基于Web的应用，并且软件的安装由临床用户在特定临床机构的服务器上进行。
+
+总而言之，对于此类产品，软件可能对风险的影响或引入，需要考虑跨不同信息组的多个特征，并且与特定设备软件相关的最相关特征可能因设备的预期用途/预期目的而异。因此，对于软件，需要提供清晰的描述，以帮助理解医疗设备软件的角色及其独特的实施方式。对于此示例设备，特定的软件解决方案可能引入与自动化先前手动步骤和新工作流程故障点相关的风险。然而，由于设备的医疗用途和使用背景，这些风险可能不会对整体风险产生显著影响。在考虑如何设计此软件解决方案可能影响设备的整体风险或产生不同的危害时，可以综合考虑这些因素。
+
+# 附录 E：特定风险考量的比较示例
+
+与上述示例 A 类似，通过针对每个特征提出相应的问题，有助于评估风险。以下问题按信息组排列，以支持对风险考量的全面讨论。如上所述，虽然以下问题与评估医疗设备风险相关，但任何监管评估也应考虑医疗设备的使用对健康的益处，并权衡医疗设备的益处与风险。
+
+以下提供的比较示例进一步说明，在风险分析中可提取的危害可能因特定医疗设备软件的独特特征而异。
+
+**示例 1：旨在为患者提供治疗体验，以减轻和缓解疼痛的软件。__****场景 1.1：**该软件旨在与处方止痛药一起使用，以减轻和缓解化疗患者的疼痛。**场景 1.2：**该软件旨在用于减轻和缓解患有骨关节炎的患者的疼痛，这些患者无法服用其他止痛药。
+
 ---  
 
-In both scenarios in example 1 above, the intended use of the medical device software is to provide therapy to reduce and relieve pain, where the cause of such pain (i.e., the Intended Disease or Condition) is not the primary distinguishing feature that contributes to understanding the risk of the medical device software. Rather, in this case, understanding whether the medical device software is intended to be used adjunctively (i.e., the Medical Purpose) contributes significantly to potential hazards considered in the risk analysis of the software. 
+在示例 1 中的两个场景中，医疗设备软件的预期用途是提供治疗，以减轻和缓解疼痛，而导致这种疼痛（即预期疾病或状况）本身并不是主要特征，从而有助于理解医疗设备软件的风险。在这种情况下，了解医疗设备软件是否旨在作为辅助手段（即医疗目的）对软件的风险分析中考虑的潜在危害具有重要意义。
 
-In scenario 1.2, the software is meant to provide therapy for patients who cannot utilize other pain relief therapy. Because the software is itself intended as therapy and cannot be used with, or adjunct to, additional treatment, the risk of the software could be considered higher in scenario 1.2 than 1.1. The failure of the software output to provide efficacious therapy may be considered a single-point failure for achieving the intent of patient pain reduction or relief; and therefore, the intended medical purpose may contribute to the hazards considered in risk analysis more than the software used in conjunction with other therapy, described in scenario 1.1. 
+在场景 1.2 中，该软件旨在为无法使用其他止痛疗法的患者提供治疗。由于该软件本身被设计为一种治疗方法，并且不能与或作为其他治疗的辅助手段使用，因此，在场景 1.2 中，该软件的风险可能高于场景 1.1。该软件输出未能提供有效治疗，可能被视为实现患者止痛或缓解疼痛的单一故障点；因此，该软件的预期医疗目的，可能在风险分析中，比与其他治疗一起使用的软件（如场景 1.1 中描述的）所涉及的危害，产生更大的影响。
 
-In these two scenarios for a similar medical device software, within the Medical Problem and/or Objective information grouping, characterization features contribute to the risk of the software differently. For such a product, the Intended Disease or Condition does not solely impact the risk posed by the software, but a more detailed understanding of the Medical Purpose contributes to a more complete understanding of the medical device software’s risk. 
+对于类似的医疗设备软件，在两个场景中，在“医疗问题和/或目标”分组中，特征对软件的风险产生不同的影响。对于这种产品，预期疾病或状况本身并不完全决定软件的风险，而更深入地了解医疗目的，有助于更全面地理解医疗设备软件的风险。
 
-**Example 2: Software that aggregates data and highlights trends from a wearable monitor for patients diagnosed with heart failure****Scenario 2.1:** The software is intended to aggregate data and highlight trends from a wearable monitor for patients diagnosed with heart failure to help patients monitor their risk of hospitalization. The software helps to provide simple data visualizations to better understand the patient’s longitudinal data, such as tracking an individual’s health, care usage, and outcomes over time.**Scenario 2.2:** The software is intended to aggregate data and highlight trends from a wearable monitor for patients diagnosed with heart failure to help patients and their healthcare provider with longitudinal data about the patient’s heart health. The software provides simple data visualizations, including highlighting trends, to help the healthcare provider monitor their patient’s risk of hospitalization between regularly scheduled visits and could be used to inform treatment-related decisions _._  
+**示例 2：用于汇总数据并突出可穿戴监测设备趋势的软件，用于患有心力衰竭的患者****场景 2.1：** 该软件旨在汇总可穿戴监测设备的数据并突出显示趋势，帮助患有心力衰竭的患者监测其住院风险。 该软件提供简单的数据可视化，以更好地理解患者的纵向数据，例如跟踪个人的健康状况、护理使用情况和随时间推移的结果。**场景 2.2：** 该软件旨在汇总可穿戴监测设备的数据并突出显示趋势，用于患有心力衰竭的患者，帮助患者及其医疗服务提供者获取患者的心脏健康相关纵向数据。 该软件提供简单的数据可视化，包括突出显示趋势，以帮助医疗服务提供者在定期就诊期间监测患者的住院风险，并且可以用于指导与治疗相关的决策。
+
 ---  
 
-In example 2 above, the intended user for the medical device software in scenario 2.1 is limited to patients seeking to obtain more information about their own condition. In scenario 2.2, healthcare providers are included in the intended user group and have access to the data in addition to the patient themselves. In this case, a health care professional has specialized training that provides them with additional context to understand the data and trends the medical device software is highlighting, which a patient may not have. For this reason, it might be considered that the Intended User __ in scenario 2.2 may reduce the likelihood of some of the related hazards considered in risk analysis compared to scenario 2.1, because at least one intended user in scenario 2.2 has expertise and training to appropriately understand and respond to the data they are receiving. The health care professional is provided access to the data such that it is not essential for the patient to independently identify if and when their data should be conveyed to their doctor. 
+在上述示例 2 中，医疗设备软件的预期用户仅限于寻求获取有关自身病情信息的患者。在示例 2.2 中，医疗服务提供者也包括在预期用户群体中，并且除了患者之外，他们还可以访问数据。在这种情况下，医疗专业人员具有专门的培训，这使他们能够理解并分析医疗设备软件所强调的数据和趋势，而患者可能无法做到。因此，在示例 2.2 中，预期用户 __ 可能比示例 2.1 降低某些与风险分析相关的风险发生的可能性，因为至少在示例 2.2 中，至少有一个预期用户具有专业知识和培训，能够正确理解并响应他们所接收的数据。医疗专业人员可以访问数据，从而无需患者独立判断何时以及如何将数据传达给他们的医生。
 
-However, it may also be worth considering that there is greater variability in the Intended Users of the medical device software in scenario 2.2 than scenario 2.1, because of the introduction of the clinician user. This difference also impacts the understanding of risk posed by the software, where the information must be conveyed adequately and appropriately to the different user groups. It is important to consider that multiple factors may influence the risk associated with any given characterization feature – a clinician or trained user does not always independently indicate a decrease or increase in applicable hazards in the risk analysis of a device. 
+然而，也应考虑，在场景 2.2 中，医疗设备软件的预期用户比场景 2.1 具有更大的差异，这是因为引入了临床医生用户。这种差异也影响了对软件可能带来的风险的理解，这意味着信息必须充分且适当地传达给不同的用户群体。重要的是要考虑，多个因素可能会影响任何特定特征相关的风险——即使是临床医生或经过培训的用户，也并不总是独立地表明在设备风险分析中，适用危害的减少或增加。
 
-**Example 3: Software function that uses physiological data captured on a wearable consumer product to determine the severity of symptoms in a patient with Parkinson’s disease.****Scenario __ 3 _._ 1 _:_** The software is intended to aggregate measurements obtained from a regulated medical device and analyze to monitor the severity of symptoms such as tremor in a patient with Parkinson’s disease.__**Scenario 3.2:** The software is intended to aggregate measurements obtained from a wearable consumer product and analyze to monitor the severity of symptoms such as tremor in a patient with Parkinson’s disease.__  
+**示例 3：使用可穿戴消费产品上采集的生理数据，以确定帕金森病患者症状严重程度的软件功能。**
+
+**场景 3.1：** 软件旨在聚合来自经过监管的医疗设备的测量数据，并分析以监测帕金森病患者，例如震颤等症状的严重程度。
+
+**场景 3.2：** 软件旨在聚合来自可穿戴消费产品的测量数据，并分析以监测帕金森病患者，例如震颤等症状的严重程度。
+
 ---  
 
-In example 3 above, the Input Source in scenario 3.1 is limited to measurements obtained by a regulated medical device. In scenario 3.2, measurements are obtained by a wearable consumer product that is not subject to regulatory oversight as a medical device. In this case, the wearable consumer product may allow for expanded opportunities for collecting patient data. However, the aspects of the performance of the wearable consumer product may be outside of the control of the developer. For this reason, it may be considered that the Input Source in scenario 3.2 may pose more applicable hazards for risk analysis than in scenario 3.1, because the manufacturer developing the software may not have life cycle control over the source of the data it is analyzing to monitor the severity of symptoms. In this case, additional steps may be necessary for the manufacturer to monitor performance of the wearable consumer product and to communicate any changes in performance to the user. In contrast, scenario 3.1, which obtains measurements form a regulated medical device, benefits from the verification and validation needed to obtain authorization (in cases where the intended use is fit for purpose), which may reduce applicable hazards due to a greater accuracy and precision of measurements of a product developed for the intended use. Regulations applicable to software using consumer products to perform regulated device functions vary by jurisdiction.
+[术语表 - 在这些术语出现时，请使用这些精确的翻译:]
+  差距分析 -> Gap Analysis
+  test_zh -> test_en
 
-Disclaimer
+在上述示例 3 中，在 3.1 场景中，输入来源仅限于受监管的医疗设备获取的测量值。在 3.2 场景中，测量值来自不受监管的消费性产品，该产品不被视为医疗设备。在这种情况下，可穿戴消费性产品可能为收集患者数据提供了更大的机会。然而，可穿戴消费性产品的性能方面可能不在开发商的控制范围内。因此，可以认为，在 3.2 场景中的输入来源，对于风险分析来说，可能比 3.1 场景中的风险更大，因为开发软件的制造商可能无法对分析的数据来源进行整个生命周期控制，以监测症状的严重程度。在这种情况下，制造商可能需要采取额外的步骤来监测可穿戴消费性产品的性能，并向用户沟通任何性能变化。与 3.1 场景不同，该场景从受监管的医疗设备获取测量值，可以受益于获得授权所需的验证和验证（在预期用途适合特定用途的情况下），这可能会由于产品在预期用途方面的更高准确性和精度，从而降低适用风险。使用消费性产品执行受监管设备功能的软件的适用法规因管辖范围而异。
 
-© Copyright 2024 by the International Medical Device Regulators Forum. 
+免责声明
 
-This work is copyright. Subject to these Terms and Conditions, you may download, display, print, translate, modify and reproduce the whole or part of this work for your own personal use, for research, for educational purposes or, if you are part of an organisation, for internal use within your organisation, but only if you or your organisation do not use the reproduction for any commercial purpose and retain all disclaimer notices as part of that reproduction. If you use any part of this work, you must include the following acknowledgement (delete inapplicable): 
+© 2024 年 国际医疗器械监管论坛 版权所有。
 
-“[Translated or adapted] from [insert name of publication], [year of publication], International Medical Device Regulators Forum, used with the permission of the International Medical Device Regulators Forum. The International Medical Device Regulators Forum is not responsible for the content or accuracy of this [adaption/translation].” 
+本作品受版权保护。在遵守本条款和条件的前提下，您可以下载、显示、打印、翻译、修改和复制本作品的全部或部分内容，用于您个人的使用、研究、教育目的，或如果贵组织是组织，则用于贵组织的内部使用，但前提是您或贵组织不得将复制用于任何商业目的，并且保留所有版权声明。如果您使用本作品的任何部分，必须包含以下声明（删除不适用的内容）：
 
-All other rights are reserved, and you are not allowed to reproduce the whole or any part of this work in any way (electronic or otherwise) without first being given specific written permission from IMDRF to do so. Requests and inquiries concerning reproduction and rights are to be sent to the IMDRF Secretariat. 
+“[翻译或改编]自[插入出版物名称]，[出版年份]，国际医疗器械监管论坛，经国际医疗器械监管论坛授权使用。国际医疗器械监管论坛不对本[改编/翻译]的内容或准确性负责。”
 
-Incorporation of this document, in part or in whole, into another document, or its translation into languages other than English, does not convey or represent an endorsement of any kind by the IMDRF. 
+除上述内容外，所有权利均保留，未经国际医疗器械监管论坛（IMDRF）事先书面许可，不得以任何方式（包括电子方式）复制或使用本材料的全部或任何部分。有关复制和权利的请求和咨询应发送给 IMDRF 秘书处。
 
-Please visit our website for more details.
+将本文件（部分或全部）纳入其他文档，或将其翻译成其他语言，并不代表IMDRF的认可。
+
+请访问我们的网站以获取更多详细信息。
 
 [www.imdrf.org](<http://www.imdrf.org/>)
 
-  1. In particular, this document supplements and elaborates on the concepts in Section 5 of N12 (“Section 5 – Factors Important for SaMD Characterization”). ↑
+1. 尤其，本文补充和阐述了 N12 第 5 节 (“第 5 节 – SaMD 特征化的重要因素”) 中的概念。 ↑
 
-  2. ISO 14971:2019 Medical Devices – Application of Risk Management to Medical Devices ↑
+2. ISO 14971:2019 医疗设备 – 将风险管理应用于医疗设备 ↑
 
-  3. While ISO 14971:2019 defines harm as “injury or damage to the health of people, or damage to property or the environment” it can be helpful to consider, more specifically, harm as it relates to “injury or damage to the health of people” when discussing medical device safety in this document. The narrower definition of patient harm has the net effect of prioritizing regulatory review of those changes necessary to protect public health. ↑
+3. 虽然 ISO 14971:2019 将“伤害”定义为“对人的健康造成伤害或损害，或对财产或环境造成损害”，但在本文件中讨论医疗器械安全时，更具体地考虑“对人的健康造成伤害或损害”这一概念，可能会更有帮助。 这种更窄的“患者伤害”的定义，实际上是为了优先审查那些必要的变更，以保护公众健康。 ↑
 
-  4. Harm is defined in TIR57: 2016/(R)2023 as “physical injury or damage to the health of people, or damage to property or the environment, or reduction in effectiveness, or breach of data and systems security” as described in IEC 80001-1:2021. ↑
+4. 根据 IEC 80001-1:2021，TIR57: 2016/(R)2023 将“伤害”定义为“对人的身体伤害或健康损害，或对财产或环境的损害，或有效性降低，或数据和系统安全方面的违规”。 ↑
 
-  5. Ref: IEC 62304, AAMI TIR57, AAMI TIR34971 ↑
+5. 参考文献：IEC 62304、AAMI TIR57、AAMI TIR34971
 
 
 <!-- fulltext-end -->

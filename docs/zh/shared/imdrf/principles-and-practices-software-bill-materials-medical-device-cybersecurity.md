@@ -10,13 +10,17 @@ title: Principles and Practices for Software Bill of Materials for Medical Devic
 [https://www.imdrf.org/documents/principles-and-practices-software-bill-materials-medical-device-cybersecurity](https://www.imdrf.org/documents/principles-and-practices-software-bill-materials-medical-device-cybersecurity)
 :::
 
+::: info
+This content has been machine-translated from the English original.
+:::
+
 <!-- fulltext-start -->
 
 ---
 
 ## 全文
 
-# Principles and Practices for Software Bill of Materials for Medical Device Cybersecurity
+# 医疗器械网络安全中的软件物料清单原则和实践
 
 **Document Number**: IMDRF/CYBER WG/N73
 
@@ -24,733 +28,854 @@ title: Principles and Practices for Software Bill of Materials for Medical Devic
 
 ---
 
-Final Document  
+最终文档
+
 ---  
-IMDRF/CYBER WG/N73FINAL:2023  
-Principles and Practices for Software Bill of Materials for Medical Device Cybersecurity  
-Authoring Group  
-Medical Device Cybersecurity Working Group  
+IMDRF/CYBER WG/N73FINAL:2023
+医疗器械网络安全中的软件物料清单原则和实践
+编写组
+医疗器械网络安全工作组
 
-Preface
+前言
 
-© Copyright 2023 by the International Medical Device Regulators Forum. 
+© 2023年国际医疗器械监管论坛 版权所有。
 
-This work is copyright. Subject to these Terms and Conditions, you may download, display, print, translate, modify and reproduce the whole or part of this work for your own personal use, for research, for educational purposes or, if you are part of an organisation, for internal use within your organisation, but only if you or your organisation do not use the reproduction for any commercial purpose and retain all disclaimer notices as part of that reproduction. If you use any part of this work, you must include the following acknowledgement (delete inapplicable): 
+本作品受版权保护。在遵守本条款和条件的前提下，您可以下载、显示、打印、翻译、修改和复制本作品的全部或部分内容，用于您个人的使用、研究、教育目的，或如果贵组织是组织，则用于贵组织的内部使用，但前提是您或贵组织不得将复制用于任何商业目的，并且保留所有版权声明。如果您使用本作品的任何部分，必须包含以下声明（删除不适用的内容）：
 
-“[Translated or adapted] from [insert name of publication], [year of publication], International Medical Device Regulators Forum, used with the permission of the International Medical Device Regulators Forum. The International Medical Device Regulators Forum is not responsible for the content or accuracy of this [adaption/translation].” 
+“[翻译或改编]自[插入出版物名称]，[出版年份]，国际医疗器械监管论坛，经国际医疗器械监管论坛授权使用。国际医疗器械监管论坛不对本[改编/翻译]的内容或准确性负责。”
 
-All other rights are reserved, and you are not allowed to reproduce the whole or any part of this work in any way (electronic or otherwise) without first being given specific written permission from IMDRF to do so. Requests and inquiries concerning reproduction and rights are to be sent to the IMDRF Secretariat. 
+除上述内容外，所有权利均保留，未经国际医疗器械监管论坛（IMDRF）事先书面许可，不得以任何方式（包括电子方式）复制或使用本材料的全部或任何部分。有关复制和权利的请求和咨询应发送给 IMDRF 秘书处。
 
-Incorporation of this document, in part or in whole, into another document, or its translation into languages other than English, does not convey or represent an endorsement of any kind by the IMDRF. 
+将本文件（部分或全部）纳入其他文档，或将其翻译成其他语言，并不代表IMDRF的认可。
 
 ![](data:image/jpeg;base64,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)
 
-**Andrzej Rys, IMDRF Chair**
+**安德烈·里斯，IMDRF主席**
 
-Contents
+内容
 
-1\. Introduction 4
+1\. 简介 4
 
-2\. Scope 6
+2\. 范围 6
 
-3\. Definitions 7
+3\. 定义 7
 
-4\. Overview of SBOM Framework 10
+4\.  SBOM 框架概述 10
 
-5\. Overview of Manufacturer Considerations 11
+5\. 制造商考虑因素概述 11
 
-5.1. Collect SBOM Content 12
+5.1\. 收集 SBOM 内容 12
 
-5.2. Generate an SBOM 12
+5.2\. 生成 SBOM 12
 
-5.3. Distribute an SBOM 13
+5.3\. 分发 SBOM 13
 
-5.4. Maintain SBOM Content 15
+5.4\. 维护 SBOM 内容 15
 
-5.5. Challenges 15
+5.5\. 挑战 15
 
-6\. Overview of Healthcare Provider Considerations 17
+6\. 医疗服务提供商考虑因素概述 17
 
-6.1. SBOM Ingestion and Management 17
+6.1\. SBOM 导入和管理 17
 
-7\. SBOM Use Cases 20
+7\. SBOM 应用案例 20
 
-7.1. Risk Management 20
+7.1\. 风险管理 20
 
-7.2. Vulnerability Management 21
+7.2\. 漏洞管理 21
 
-7.3. Incident Management 22
+7.3\. 事件管理 22
 
-8\. References 23
+8\. 参考文献 23
 
-8.1. IMDRF Documents 23
+8.1\. IMDRF 文档 23
 
-8.2. Standards 23
+8.2\. 标准 23
 
-8.3. Regulatory Guidance and Draft Guidance 24
+8.3. 监管指导和草案指导 24
 
-8.4. Other Resources and References 25
+8.4. 其他资源和参考 25
 
-9\. Appendices 27
+9\. 附录 27
 
-9.1. SBOM Component Types and Tools 27
+9.1.  SBOM 组件类型和工具 27
 
-# Introduction
+# 简介
 
-Digital connectivity of medical devices has made patient care more efficient, data-driven, and effective. Utilization of and reliance on third-party software components has made developing such medical devices more economical, more reliable, and increased the pace of innovation. While utilization of third-party software components provides many benefits, they may introduce cybersecurity risks with a potential to impact patient safety and the confidentiality, integrity, and availability of network-connectable medical devices. 
+医疗设备的数字化连接使得患者护理更加高效、数据驱动和有效。利用和依赖第三方软件组件使得开发此类医疗设备更加经济、可靠，并加快了创新速度。虽然利用第三方软件组件有很多好处，但它们也可能引入网络可连接医疗设备中的网络安全风险，从而可能影响患者安全以及网络可连接医疗设备的保密性、完整性和可用性。
 
-Cybersecurity vulnerabilities are unique in that they may impact a diverse range of seemingly secured unrelated devices across various manufacturers due to the use of common software components. This problem is compounded by low traceability of those common components within devices. To address the global issue, the US National Telecommunications and Information Administration (NTIA) convened a multi-sector initiative of various stakeholders in 2018 to discuss software transparency. One output was the software bill of materials (SBOM) concept, which NTIA defined as a “list of one or more identified components, their relationships, and other associated information.” This initiative has informed SBOM development and adoption internationally.
+网络安全漏洞的独特之处在于，由于使用了常见的软件组件，它们可能影响各种看似安全且相互独立的设备，这些设备来自不同的制造商。这个问题还因这些常见组件在设备中的低可追溯性而加剧。为了解决这一全球性问题，美国国家电信和信息管理局（NTIA）于 2018 年召集了来自各个领域的利益相关者，共同探讨软件透明度。其中一个产出是软件材料清单（SBOM）的概念，NTIA将其定义为“一个或多个已识别组件、它们之间的关系以及其他相关信息的清单”。这一倡议已在国际范围内促进了 SBOM 的开发和采用。
 
-The SBOM is a resource which can be leveraged to improve cybersecurity risk management processes in both pre-market and post-market activities (i.e., the Total Product Lifecycle or TPLC). For example, in the pre-market phase, medical device manufacturers (MDMs) can use SBOM resources during device development to track known software vulnerabilities and prevent release of devices with known cybersecurity risks. In the post-market, MDMs can use SBOM as a resource to supplement their vulnerability monitoring processes to identify at-risk devices released in the market.
+SBOM 是一种资源，可以用于在产品全生命周期（TPLC）的各个阶段（包括上市前和上市后）中改进网络安全风险管理流程。例如，在上市前阶段，医疗器械制造商（MDMs）可以使用 SBOM 资源，在设备开发过程中跟踪已知的软件漏洞，并防止发布包含已知网络安全风险的设备。在上市后阶段，MDMs 可以将 SBOM 用作补充，以增强其漏洞监控流程，从而识别在市场上发布的高风险设备。
 
-An SBOM can support improved cybersecurity risk management processes throughout the TPLC as a primary or secondary resource. Benefits may include, but are not limited to:
+SBOM 可以作为主要或次要资源，支持在 TPLC 的各个阶段改进网络安全风险管理流程。这些优势可能包括但不限于：
 
-  * Faster and more comprehensive identification of software components in a device,
-  * more secure software development through better informed decision-making, and 
-  * increased software transparency among vendors and stakeholders. 
+* 更快、更全面的识别设备中的软件组件，
 
-To gain the most benefit from SBOM, it should be used in conjunction with other cybersecurity risk management tools and procedures like those described in Principles and Practices for Medical Device Cybersecurity (IMDRF/CYBER WG/N60FINAL:2020), hereinafter also referred to as “IMDRF N60 guidance”. IMDRF N60 included an SBOM as part of the customer security documentation to be prepared by the MDM and provided to the device user. Medical device SBOMs benefit both MDMs and healthcare providers throughout the TPLC. For instance, SBOM is an effective management tool to track and prepare for software component End of Life (EOL). If an MDM knows the software components and their respective end of life dates, MDMs can better prepare themselves and their customers for any associated risks, which improves MDMs’ quality control capabilities. Device users benefit from increased transparency and cybersecurity information disclosure which allows them to implement cybersecurity activities based upon their individual risk profiles and cybersecurity capabilities. For example, an SBOM provided pre-purchase and pre-installation allows healthcare providers to know which devices can be deployed to meet their risk profile or might contain out-of-date software that can pose cybersecurity issues before purchasing. Manufacturers should supply a software bill of materials (SBOM) with their products. SBOM needs to support the varied needs, resources, and capabilities of all these HCPs. As SBOM adoption grows, advancements in tooling, services, and cybersecurity maturity will enable HCPs to leverage the SBOM to its fullest extent. Additionally, when provided with an SBOM, the customer (which can be HCPs or patients) can better assess the device cybersecurity risks.
+* 通过更明智的决策，实现更安全的软件开发，以及
 
-An SBOM provided in pre-market submissions to a regulator is one indicator that the MDM has a mature cybersecurity program. An SBOM also allows the regulator a more complete benefit-risk assessment for the product. In the post-market, a more comprehensive understanding about which marketed devices have access to an SBOM can assist MDM, HCP (healthcare providers) and regulators with input from the MDM in estimating and addressing threat, vulnerability, and exploit impact.
+* 促进供应商和利益相关者之间的软件透明度。
 
-As SBOM adoption grows within and across sectors, its value to organizations will increase. Stakeholders have different roles and uses of SBOM, such as SBOM generation, management, distribution, ingestion, and utilization.
+为了最大限度地利用 SBOM 的价值，它应与诸如《医疗器械网络安全（IMDRF/CYBER WG/N60FINAL:2020）中的原则和实践》中所描述的其他网络安全风险管理工具和程序一起使用，在此后也称为“IMDRF N60 指导”。IMDRF N60 将 SBOM 作为由医疗器械制造商（MDM）准备并向设备用户提供的客户安全文档的一部分。医疗器械的 SBOM 既能为 MDM 带来益处，也能为医疗服务提供者在整个 TPLC 过程中带来益处。例如，SBOM 是一种有效的工具，用于跟踪和为软件组件的生命周期结束（EOL）做好准备。如果 MDM 了解软件组件及其各自的生命周期结束日期，则 MDM 可以更好地为自己和客户做好准备，从而应对相关的风险，从而提高 MDM 的质量控制能力。设备用户可以从增加的透明度和网络安全信息披露中受益，这使他们能够根据其自身的风险状况和网络安全能力来实施网络安全活动。例如，在购买和安装之前提供的 SBOM 允许医疗服务提供者了解哪些设备可以部署以满足其风险状况，或者可能包含过时的软件，从而在购买之前，可以解决潜在的网络安全问题。制造商应在其产品中提供软件清单（SBOM）。SBOM 必须满足所有医疗专业人员（HCP）的多样化需求、资源和能力。随着 SBOM 的采用不断增长，工具、服务和网络安全成熟度的进步将使 HCP 能够充分利用 SBOM。此外，在提供 SBOM 时，客户（可以是 HCP 或患者）可以更好地评估设备的网络安全风险。
 
-This guidance provides a high-level description of an SBOM and best practices for the generation and use of an SBOM. The purpose of this document is to provide greater detail on the implementation of SBOM and software transparency as relevant to medical device stakeholders, including MDMs, healthcare providers (HCPs), and regulators. In this guidance, healthcare providers include healthcare delivery organizations (HDOs). 
+向监管机构提交的预上市 SBOM 是一种表明 MDM 具有成熟网络安全计划的指标。 SBOM 还可以使监管机构对产品进行更全面的风险评估。 在上市后，了解哪些已上市设备可以访问 SBOM，可以帮助 MDM、医疗保健提供者 (HCP) 和监管机构，利用 MDM 的信息来评估和应对威胁、漏洞和利用的影响。
 
-Additional insights regarding SBOM benefits are found in NTIA’s FAQ document and their “Roles and Benefits of SBOM Across the Supply Chain” document.
+随着 SBOM 在不同行业内的采用不断增长，其对组织的价值将不断提高。 利益相关者在 SBOM 的生成、管理、分发、导入和利用等方面扮演不同的角色。
 
-# Scope
+本指南提供了一个关于 SBOM 的高层次描述以及生成和使用 SBOM 的最佳实践。 本文档旨在为医疗器械利益相关者（包括 MDM、医疗保健提供者 (HCP) 和监管机构）提供有关 SBOM 和软件透明度的实施的更多详细信息。 在本指南中，医疗保健提供者包括医疗服务机构 (HDO)。
 
-This document considers cybersecurity in the context of medical devices that either contain software, including firmware and programmable logic controllers (e.g., pacemakers, infusion pumps) or exist as software only (e.g., Software as a Medical device (SaMD)). The document emphasizes the roles and responsibilities of MDMs and HCPs and provides recommendations on the implementation of an SBOM and increased transparency in the use of software in medical devices, including in vitro diagnostic (IVD) medical devices. While primarily focused on MDMs and HCPs, we believe that other stakeholders, including but not limited to medical device users, regulators, and software component vendors, may also find the concepts discussed in this document useful.
+有关 SBOM 益处的更多信息，请参阅 NTIA 的 FAQ 文档以及他们的“供应链中 SBOM 的角色和益处”文档。
 
-Protection of the cyber healthcare environment is a shared responsibility of HCPs and MDMs. The SBOM is a common tool to support safety as it can help to mitigate against the potential for patient harm. This document is intended to:
+# 范围
 
-  * Provide recommendations for medical device manufacturers in SBOM generation, management, and distribution.
-  * Provide recommendations to healthcare providers on ingestion and management of an SBOM. 
-  * Demonstrate SBOM use cases for risk management, vulnerability management, and incident response from the perspective of medical device manufacturers and healthcare providers.
+本文件从医疗设备的角度，考虑了网络安全，这些设备可能包含软件，包括固件和可编程逻辑控制器（例如：起搏器、输液泵），或者仅存在于软件中（例如：软件为医疗设备（SaMD））。本文件强调了MDM和医疗保健专业人员的角色和责任，并就实施SBOM和在医疗设备（包括体外诊断（IVD）医疗设备）中使用软件的透明度方面提供了建议。虽然主要针对MDM和医疗保健专业人员，但我们认为，包括但不限于医疗设备用户、监管机构和软件组件供应商，也可能发现本文件中讨论的概念有益。
 
-SBOMs are not a substitute for comprehensive security risk assessment, it takes knowledge of the device’s intended use, the architecture and the design of the whole device to make a security risk assessment at the device level.
+保护网络医疗环境是医疗保健专业人员和MDM的共同责任。SBOM是一种常用的工具，可以帮助降低患者受到伤害的风险。本文件旨在：
 
-Due to most regulators’ authority over medical device safety and performance, the scope of this guidance is limited to consideration of the potential for patient harm related to the regulated medical device. Differences across medical device types and regulatory jurisdictions may give rise to specific circumstances where different or additional considerations are required. For example, threats that could impact performance, negatively affect clinical operations, or result in diagnostic or therapeutic errors are considered in scope of this document. Other types of harm, such as those associated with breaches of data privacy, are not considered in the scope of this document; however, we acknowledge that these matters important, and SBOM may be a useful mitigation tool.
+* 为医疗设备制造商提供关于SBOM生成、管理和分发的建议。
 
-This document does not address SBOM-related issues and recommendations unique to cloud services that are provided in a remote computing environment (i.e., cloud services are on-demand internet access to computing (e.g., networks, servers, storage, applications) services). Cloud services that are a component of the regulated medical device system may also present a risk to safety and effectiveness. Manufacturers of regulated medical devices should be aware that cloud services and cloud software must also be reviewed in risk evaluations. Due to the complexities of cloud services which are further complicated when manufacturers leverage third-party clouds rather than manufacturer-controlled private clouds, this first IMDRF SBOM guidance does not yet include cloud technology explicitly within SBOMs. However, as technology evolves and understanding of the cloud increases from a regulatory perspective, it will be important to address the residual risk of cloud technology in the context of SBOM. It is anticipated that this and other risks will be considered in future work. 
+* 为医疗保健提供者提供关于SBOM的获取和管理建议。
 
-This document is complementary to the preceding IMDRF N60 guidance, and the scope of relevant medical devices, as well as the focus on potential for patient harm, remain unchanged. This document continues to recognize that cybersecurity is a shared responsibility among stakeholders.
+* 从医疗设备制造商和医疗保健提供者的角度，展示SBOM在风险管理、漏洞管理和事件响应中的应用案例。
 
-While SBOM can address various software transparency issues including licensing and intellectual property, this document focuses on the cybersecurity concerns relevant to SBOM.
+SBOM不能替代全面的安全风险评估。为了进行设备级别的安全风险评估，需要了解设备的预期用途、架构和整个设备的设计。
 
-# Definitions
+由于大多数监管机构对医疗器械的安全性和性能拥有管辖权，因此本指南的范围仅限于考虑与受监管的医疗器械相关的患者潜在危害。不同类型的医疗器械和监管辖区的差异可能导致需要考虑不同或额外的因素的情况。例如，可能影响性能、负面影响临床操作或导致诊断或治疗错误的威胁，均属于本文件的范围。其他类型的危害，例如与数据隐私泄露相关的危害，不在本文件的范围内；然而，我们承认这些问题非常重要，并且 SBOM 可能是有用的缓解工具。
 
-For the purposes of this document, the terms and definitions given in IMDRF/GRRP WG/N47 FINAL:2018 and the following apply.
+本文件不涉及与 SBOM 相关的、特定于云服务的独特问题和建议，这些服务是在远程计算环境中提供的（即，云服务是基于互联网的按需访问计算（例如，网络、服务器、存储、应用程序）服务）。作为受监管医疗器械系统的组成部分，云服务也可能对安全性产生影响。生产受监管医疗器械的制造商应了解，云服务和云软件也必须在风险评估中进行审查。由于云服务的复杂性，尤其是在制造商利用第三方云而不是制造商控制的私有云的情况下，这种第一份 IMDRF 关于 SBOM 的指导尚未明确将云技术包含在 SBOM 中。然而，随着技术的演进和从监管角度对云的理解不断深入，在 SBOM 的背景下，解决云技术的潜在风险将变得至关重要。预计，这些以及其他风险将在未来的工作中进行考虑。
 
-  1. _Application programming interface (API):_ set of standard software interrupts, calls, functions, and data formats that can be used by an application program to access network services, devices, or operating systems (ISO 10303-1:2021)
-  2. _Asset:_ physical or digital entity that has value to an individual, an organization or a government (ISO 81001-1:2021)
-  3. _Asset management:_ coordinated activity of an organization to realize value from asset (ISO/IEC 9770-5:2015)
-  4. _Change management:_ process for recording, coordination, approval and monitoring of all changes. (ISO 81001-1:2021)
-  5. _Configuration:_ manner in which the hardware and software of an information processing system are organized and interconnected (ISO/IEC 2382:2015)
-  6. _Cybersecurity:_ a state where information and systems are protected from unauthorized activities, such as access, use, disclosure, disruption, modification, or destruction to a degree that the related risks to confidentiality, integrity, and availability are maintained at an acceptable level throughout the life cycle. (ISO 81001-1:2021)
-  7. _Cybersecurity Incident_ : A cybersecurity event that has been determined to have an impact on the organization prompting the need for response and recovery. (National Institute of Standards and Technology (2018) Framework for Improving Critical Infrastructure Cybersecurity, Version 1.1.)
+本文件是与先前的 IMDRF N60 指导的补充，相关医疗器械的范围以及对潜在患者危害的关注保持不变。本文件继续认识到，网络安全是各利益相关者共同的责任。
 
-Note: A cybersecurity event is a cybersecurity change that may have an impact on organizational operations (including but not limited to mission, capabilities, or reputation) 
+虽然 SBOM 可以解决各种软件透明度问题，包括许可和知识产权，但本文件侧重于与 SBOM 相关的网络安全问题。
 
-  1. _Component:_ collection of system resources that (a) forms a physical or logical part of the system, (b) has specified functions and interfaces, and (c) is treated (e.g., by policies or specifications) as existing independently of other parts of the system. (ISO 81001-1:2021)
+# 定义
 
-NOTE: In the medical device context, components include any raw material, substance, piece, part, software, firmware, labelling, or assembly that is intended to be included as part of the finished, packaged, and labelled device.
+对于本文档，以下术语和定义适用：IMDRF/GRRP WG/N47 FINAL:2018。
 
-  1. _Hash, hash-value:_ value calculated by a hash function, which is a computation method used to generate a random value of fixed length from the data of any optional length. (ISO 17090-4:2020)
-  2. _Legacy Medical Device (syn. Legacy Device):_ Medical device that cannot be reasonably protected against current cybersecurity threats (IMDRF/CYBER WG/N60FINAL:2020)
-  3. _Life cycle:_ series of all phases in the life of a product or system, from the initial conception to final decommissioning and disposal. (ISO 81001-1:2021)
-  4. _Product:_ output of an organization that can be produced without any transaction taking place between the organization and the customer. (ISO 81001-1:2021)
-  5. _Releases and Update:_ corrective, preventative, adaptive, or perfective modifications made to software of a medical device
+1. _应用程序编程接口 (API):_ 标准软件中断、调用、函数和数据格式的集合，可供应用程序程序访问网络服务、设备或操作系统 (ISO 10303-1:2021)
 
-NOTE 1: Derived from the software maintenance activities described in ISO/IEC
+2. _资产:_ 具有个人、组织或政府价值的物理或数字实体 (ISO 81001-1:2021)
 
-14764:2006.
+3. _资产管理:_ 组织协调活动，以实现资产价值 (ISO/IEC 9770-5:2015)
 
-NOTE 2: Updates may include patches and configuration changes.
+4. _变更管理:_ 记录、协调、批准和监控所有变更的过程 (ISO 81001-1:2021)
 
-NOTE 3: Adaptive and perfective modifications are enhancements to software. These
+5. _配置:_ 信息处理系统的硬件和软件的组织和互连方式 (ISO/IEC 2382:2015)
 
-modifications are those that were not in the design specifications for the medical device.
+6. _网络安全:_ 信息和系统免受未经授权的活动（例如访问、使用、披露、中断、修改或破坏）的状况，从而在整个生命周期内，相关风险（包括保密性、完整性和可用性）保持在可接受的水平。 (ISO 81001-1:2021)
 
-  1. _Repository:_ organized and persistent data storage that allows data retrieval. (ISO/IEC/IEEE 26511:2018)
-  2. _Risk management:_ systematic application of management policies, procedures and practices to the tasks of analysing, evaluating, controlling and monitoring risk. (ISO/IEC Guide 63:2019)
-  3. _Software Bill of Materials (SBOM):_ list of one or more identified components, their relationships, and other associated information. 
+7. _网络安全事件:_ 确定对组织造成影响的网络安全事件，从而需要响应和恢复。 (美国国家标准与技术研究院 (2018) 改进关键基础设施网络安全的框架，版本 1.1.)
 
-NOTE: The SBOM for a single component with no dependencies is just the list of that one component. “Software” can be interpreted as “software system,” thus hardware (true hardware, not firmware) and very low-level software (like Central Processing Unit (CPU) microcode) can be included. (NTIA Framing Software Component Transparency: Establishing a Common Software Bill of Material (SBOM) 2021-10-21)
+注意: 网络安全事件是可能影响组织运营（包括但不限于任务、能力或声誉）的网络安全变更。
 
-  1. _Software component:_ general term used to refer to a software system or an element, such as module, unit, data, or document. (IEEE 1061) 
+1. _组件:_ 指的是构成系统的一部分，该部分（a）既可以是物理上的，也可以是逻辑上的，并且（b）具有明确的功能和接口，同时（c）被视为与其他系统部分独立存在（例如，通过政策或规范）。（ISO 81001-1:2021）
 
-NOTE: A software component may have multiple units or have multiple lower-level software components. 
+注意：在医疗设备领域，组件包括任何旨在作为成品、包装和标记设备的原材料、物质、部件、软件、固件、标签或组装。
 
-  1. _Software composition analysis_ : use of one or more tools for scanning a code base to identify what code – e.g., closed source software, free and open-source software, libraries, and packages – is included. 
+1. _哈希, 哈希值:_ 通过哈希函数计算得出，是一种用于从任意长度数据的哈希值中生成固定长度随机值的计算方法。(ISO 17090-4:2020)
 
-NOTE: These tools may also check for reported vulnerabilities pertaining to the code included. (https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8397.pdf)
+2. _旧医疗器械（同义词：旧设备）：_ 无法合理地保护免受当前网络安全威胁的医疗器械（IMDRF/CYBER WG/N60FINAL:2020）
 
-  1. _Software transparency:_ the schematic structure of the software that reviews all the frame, hierarchy, and components of the software.
-  2. _System_ : the combination of interacting elements or assets organized to achieve one or more function (ISO/IEC/IEEE 12207:2017)
-  3. _Third-party software_ : software provided by a person or body that is recognized as being independent of the parties involved. (Modified from ISO/IEC Guide 2) 
+3. _产品/系统生命周期：_ 从最初构思到最终报废和处置，产品或系统的所有阶段。 (ISO 81001-1:2021)
 
-NOTE: Parties involved are usually supplier ("first party") and purchaser ("second party") interests.
+4. _产品:_ 组织可以生产的成果，无需该组织与客户之间发生任何交易。 (ISO 81001-1:2021)
 
-  1. _Use case_ : specification of a sequence of actions, including variants, that a system (or other entity) can perform, interacting with actors of the system. (ISO/IEC 23643:2020)
-  2. _Vulnerability Exploitability eXchange (VEX):_ Machine readable assertion about the status of a vulnerability in specific products 
-  3. _Vulnerability:_ weakness of an asset or control that can be exploited by one or more threats. (ISO/IEC 27000:2018)
-  4. _Vulnerability management:_ cyclical practice of identifying, classifying, prioritizing, remediating, and mitigating software vulnerabilities.
+5. _发布和更新：_ 对医疗器械软件所做的纠正、预防、适应性或改进性修改。
 
-# Overview of SBOM Framework
+注意 1：根据 ISO/IEC 中描述的软件维护活动得出的。
 
-At a high level, SBOM content is collected by the MDM and is housed in a software component repository (see also NTIA “Software Suppliers Playbook: SBOM Production and Provision”). The device SBOM is then compiled and generated by the MDM and released for distribution so it can be leveraged by the HCP. The following sections provide more detailed information regarding the generation, distribution, and ingestion of an SBOM from both the MDM and HCP perspective.
+14764:2006
 
-Figure 1 shows a high-level framework where information sharing is enabled, and software transparency is enhanced via SBOM generation/ingestion between MDMs and HCPs. Under this framework, considerations both for MDMs and HCPs are addressed.
+注意 2：更新可能包括补丁和配置更改。
+
+注意 3：适应性改进和完善性改进是软件的增强。这些
+
+修改是指不属于医疗器械的设计规格。
+
+1. _存储库:_ 有组织且持久的数据存储，允许数据检索。(ISO/IEC/IEEE 26511:2018)
+
+2. _风险管理:_ 系统地应用管理政策、程序和实践，以进行风险分析、评估、控制和监测。 (ISO/IEC 指南 63:2019)
+
+3. _软件材料清单 (SBOM):_ 列出一种或多种已识别的组件、它们之间的关系以及其他相关信息。
+
+注意：对于没有依赖关系的单个组件，SBOM 只是该组件的清单。“软件”可以被解释为“软件系统”，因此硬件（真实的硬件，而不是固件）和非常低级别的软件（如中央处理器 (CPU) 微码）也可以包含在内。 (NTIA Framing 软件组件透明度：建立通用的软件材料清单 (SBOM) 2021-10-21)
+
+1. _软件组件:_ 用于指代软件系统或元素（如模块、单元、数据或文档）的通用术语。 (IEEE 1061)
+
+注意：一个软件组件可能包含多个单元，或包含多个低级别的软件组件。
+
+1. _软件组合分析:_ 使用一种或多种工具扫描代码库，以识别哪些代码（例如，闭源软件、免费开源软件、库和软件包）包含在其中。
+
+注意：这些工具还可以检查与包含的代码相关的已报告漏洞。(https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8397.pdf)
+
+1. _软件透明度:_ 审查软件的所有框架、层次结构和组件的软件结构图。
+
+2. _系统:_ 相互作用的元素或资产的组合，以实现一个或多个功能 (ISO/IEC/IEEE 12207:2017)
+
+3. _第三方软件_：由被认可为独立于相关方的个人或机构提供的软件。 (改编自 ISO/IEC 指南 2)
+
+注意：通常，相关方是供应商（“第一方”）和购买方（“第二方”）的利益相关者。
+
+1. _用例_：指定一系列操作（包括变体），一个系统（或其他实体）可以执行，并与系统的参与者进行交互。 (ISO/IEC 23643:2020)
+
+2. _漏洞可利用交换 (VEX)_：关于特定产品中漏洞状态的机器可读断言。
+
+3. _漏洞_：资产或控制的弱点，可以被一个或多个威胁利用。 (ISO/IEC 27000:2018)
+
+4. _漏洞管理_：识别、分类、确定优先级、修复和缓解软件漏洞的循环实践。
+
+# SBOM 框架概述
+
+在较高层面，SBOM 内容由 MDM 收集，并存储在软件组件存储库中（参见“NTIA 软件供应商指南：SBOM 生产和提供”）。 随后，MDM 编译并生成设备 SBOM，并将其发布供 HCP 使用。 下面的部分提供了从 MDM 和 HCP 的角度，关于生成、分发和导入 SBOM 的更详细信息。
+
+图 1 显示了一个高层框架，其中通过 MDM 和 HCP 之间的 SBOM 生成/导入，实现了信息共享和增强软件透明度。 在这个框架下，既考虑了 MDM，也考虑了 HCP 的需求。
 
 ![](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAG2AyADASIAAhEBAxEB/8QAGwABAAIDAQEAAAAAAAAAAAAAAAUGAgMEBwH/xABbEAABBAECAwMGCQcGCgcIAgMBAAIDBBEFEgYhMRNBURQiMmFx0QcVFjRSVIGRkyMzQlOSoaIXVWJysbI1NjdzdIKVs8HhJCZDVld1lCVjZGWjwtPwJ9JEhfH/xAAbAQEBAQEBAQEBAAAAAAAAAAAAAQIDBAUGB//EADkRAQABAgMFBQcEAAYDAQAAAAABAhEDITEEEkFR8AVhcaHRExVSgZGx4RQiMsEWIzNCovEGU2LC/9oADAMBAAIRAxEAPwD39ERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEXxzg1pc4gAd5XFNqHURD/WKsRM6JM2dxIAyThanWYW9ZG/ZzVC1j4RuG9J1SfTtS1R7LcGO0jEEj9uRkc2tI6FSeia9pvEdA3dKsdvXEhjL9jm+cMZGCAe9biiOaTUsxvQeJ+5PL4fF37Ki0WvZwm9KU8vh8Xfsp5fD4u/ZUWiezhN6Up5fD4u/ZTy+Hxd+yotE9nBvSlPL4fF37KeXw+Lv2VFons4N6Up5fD4u/ZTy+Hxd+yotE9nBvSlPL4fF37KeXw+Lv2VFons4N6Up5fD4u/ZTy+Hxd+yotE9nBvSlPL4fF37KeXw+Lv2VF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W1+Tyd/a7e0cCP0SSVe+DdAfS1/inUbumNinsaq99aeWIbnRbeRa7rtyT0V0RXenr5ehOfXj6iIiyCIiAiIgIiIN1X5w37VIKPq/OG/apBdaNGqdBERbaEREBERAXNe+bH2hdK5r3zY+0K06pOiLREXocxERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQTcf5tvsCyWMf5tvsCyXmdRERAREQEREBERAREQct30We1ca7Lvos9q41xr1Yq1ERFlBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERBuq/OG/apBR9X5w37VILrRo1ToIiLbQiIgIiIC5r3zY+0LpXNe+bH2hWnVJ0RaIi9DmIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiCbj/ADbfYFksY/zbfYFlnC8zqIiICIiAiIgIiICIiDlu+iz2rjXZd9FntXGuNerFWoiIsoIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiIN1X5w37VIKPq/OG/apBdaNGqdBERbaEREBERAXNe+bH2hdK5r3zY+0K06pOiLREXocxERAREQERfHOaxhe9wa1oySTgAIPqLk+NdO+v1fxm+9bYLdayXCvYilLevZvDsfcraU3obkRFFEREBERAREQEREBERAREQUvXNQvXOK7OjxXtQp06WnNuyDS4w61Zc55aGsyDyGOgGSSoqb4Q2abpelxafNPqMlps8gsarFI14bG/aWubCwuLs5AOAOXNXTVuHNM1uWGa5DILEIIisQTPhlYD1Aewg4PguT5FaE2lUqxVZoG09/YSV7UkUrd5y8do1wcQ48zk81i1S3hX7XH2rOhmnoaLX7OvpMeqTMuTvje1pLg6MAN5u83keQ8Vhe+E10OumnV04TQxeTiZpErpn9q1rvye1hZ5ocM7nDODhWt/C+kPFkGs7FmkKEv5V3nQjOG9evM8+qwdwlozrjLYgnjla2NjhFakjbKIwAztGtcA/AA9LKsRN+uc/1ZOvt+UH8s9S8h1a/JV0utTp3ZKMMlizIDLI1+AS1rScY/RGXE9OSiYeOtf1l+hHS4dOidNqk1Cy2TtNkpYzcC3Ld7Wkc+YDs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)
 
-##### **Figure 1: High-level framework for SBOM**
+##### **图 1：SBOM 的高层框架**
 
-# Overview of Manufacturer Considerations
+# 制造商考虑概述
 
-This section provides an overview of MDM considerations for SBOM including collecting SBOM content, generating an SBOM, distributing an SBOM, and maintaining the SBOM content (including vulnerability monitoring and change management). It is noted that a device SBOM itself is not maintained, since a new device SBOM is created and released with new product versions. However, from the perspective of the end user who receives the new device SBOM, it is an update to the previous device SBOM. The only way this update can be made is if the associated documentation and processes for the SBOM content are maintained. The terminology “maintain SBOM content” and the intent behind this description is further described in Figure 2.
+本部分概述了 SBOM 的 MDM 考虑因素，包括收集 SBOM 内容、生成 SBOM、分发 SBOM 以及维护 SBOM 内容（包括漏洞监控和变更管理）。需要注意的是，设备 SBOM 本身不会被维护，因为新的设备 SBOM 会与新的产品版本一起创建和发布。但是，从最终用户（即接收到新设备 SBOM 的用户）的角度来看，这实际上是旧设备 SBOM 的更新。只有在维护与 SBOM 内容相关的文档和流程时，才能进行此更新。术语“维护 SBOM 内容”以及对该描述的意图，在图 2 中进一步说明。
 
-During the software development life cycle (SDLC) stages of Design, Code-Build-Test, various types of software components are incorporated into the medical device. The SBOM content for these components should be collected and stored in the MDM software component repository with other related information as part of configuration management activities. The SBOM should be generated from this repository and distributed to HCPs as Deploy/Release phase activities. HCPs can get the SBOM during the procurement process or at the time of software release. After the SBOM is released, vulnerability monitoring can trigger change control to relevant software components and then feed back into SBOM content collection and the software component repository. Figure 2 provides additional granularity regarding SBOM management across the SDLC.
+在软件开发生命周期（SDLC）的各个阶段（如设计、代码构建-测试），各种类型的软件组件会被整合到医疗设备中。这些组件的 SBOM 内容应在 MDM 软件组件存储库中收集和存储，并与其他相关信息一起作为配置管理活动的一部分。SBOM 应从该存储库生成并分发给 HCP，作为部署/发布阶段的活动。HCP 可以在此处获取 SBOM，即在采购过程中或软件发布时。在发布 SBOM 后，漏洞监控可以触发对相关软件组件的变更控制，然后反馈到 SBOM 内容的收集和软件组件存储库中。图 2 提供了关于 SBOM 在 SDLC 跨各个阶段的管理方面的更详细信息。
 
 ![Diagram, timeline Description automatically generated](data:image/jpeg;base64,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)
 
-##### **Figure 2: SBOM management across the software development life cycle (SDLC)**
+##### **图 2：SBOM 在软件开发生命周期（SDLC）中的管理**
 
-## Collect SBOM Content
+## 收集 SBOM 内容
 
-SBOM content collections begins in the SDLC design phase. SBOM content can come from a variety of sources, including: 
+SBOM 内容的收集始于 SDLC 的设计阶段。SBOM 内容可以来自各种来源，包括：
 
-  * the proprietary software development documentation; 
-  * third-party SBOM documentation provided by commercial software vendors; 
-  * documentation provided with open-source software, or 
-  * output generated by software composition analysis (SCA) tools. 
+* 专有的软件开发文档；
 
-Applicable SBOM content is collected during design-code-build-test and is then maintained in the MDM software component repository SBOM content needs to be collected for the medical device system, including components contained within peripherals which are part of the medical device system. This may require different sources and tooling. For example, relevant components may be identified with an SCA tool used to scan product. Alternatively, vendors for components like firmware, embedded software, and programmable logic controllers (PLCs) may provide SBOMs that the MDM can incorporate into their software component repository. 
+* 商业软件供应商提供的第三方 SBOM 文档；
 
-Additional details regarding the component types that may be included in the MDM software component repository and tooling used to collect this content is found in Appendix 9.1.
+* 开放源代码软件提供的文档，或
 
-## Generate an SBOM
+* 软件组合分析 (SCA) 工具生成的输出。
 
-For SBOM generation, manufacturers need to consider the entire software supply chain. To generate the SBOM, the applicable SBOM content should be aggregated into a device SBOM for each product release and product update. The final device SBOM for each product release and product update should be maintained and available for distribution. SBOM generation should follow a defined and established methodology to ensure consistent output. Thus, the SBOM is updated and maintained throughout the life cycle of the device. 
+适用的 SBOM 内容在设计-代码-构建-测试阶段收集，然后存储在 MDM 软件组件仓库中。需要收集的医疗设备系统 SBOM 内容，包括属于医疗设备系统的外围设备中的组件。这可能需要不同的来源和工具。例如，可以使用扫描产品 SCA 工具来识别相关组件。 另一种方法是，对于诸如固件、嵌入式软件和可编程逻辑控制器 (PLC) 等组件的供应商，可以提供 SBOM，以便 MDM 将其纳入软件组件仓库中。
 
-The following section describes considerations for SBOM elements and format. Additional insights regarding SBOM generation and tooling may be found in NTIA’s “How to Guide for SBOM Generation.”
+有关可能包含在 MDM 软件组件仓库中的组件类型以及用于收集这些内容的工具的更多详细信息，请参见附录 9.1。
 
-### SBOM Elements and Formats
+## 生成 SBOM
 
-Each SBOM entry should contain information to identify each software component. The information available to include in an SBOM entry may vary, but in general, SBOMs should be as complete as possible as the depth of the SBOM impacts its utility. Access to more complete SBOM information enables faster vulnerability identification and assessment, which support improved device cybersecurity. Consistent with recommendations from NTIA, for medical device cybersecurity, a baseline SBOM should include the following elements:
+为了生成 SBOM，制造商需要考虑整个软件供应链。 要生成 SBOM，应将适用的 SBOM 内容聚合到每个产品发布和产品更新的设备 SBOM 中。 每个产品发布和产品更新的最终设备 SBOM 应该被维护并可供分发。 SBOM 的生成应遵循明确且已建立的方法，以确保输出的一致性。 因此，SBOM 在整个设备生命周期中都会进行更新和维护。
 
-  * Author name: refers to the entity (i.e., an individual, organization, or similar) which produced the SBOM file.
-  * Timestamp: Record of the date and time of the SBOM data assembly.
-  * Software component vendor (supplier): The entity that creates, defines, and identifies components. Software component vendor name should generally refer to the legal business name for commercial software.
-  * Software component name: Designation assigned to a unit of software defined by the original supplier.
-  * Software component version: Identifier used by the supplier to specify a change in software from a previously identified version.
-  * Unique Identifier: Identifiers that are used to identify a component or serve as a look-up key for relevant databases.
-  * Relationship: Describes the relationship that an upstream component X is included in software Y". 
+以下部分描述了 SBOM 元素和格式的考虑因素。 更多关于 SBOM 生成和工具的信息，请参见 NTIA 的“SBOM 生成指南”。
 
-The elements included in a SBOM are characterized by basic information that allows for their identification. Other information can be added to the SBOM as additional elements or as a supplement to the core SBOM, as needed. For example, a component hash is recommended because it can help map a component’s existence to relevant data sources. In addition, considerations relevant to the life cycle of a device (e.g., a software component’s end-of-support (EOS) date), could be provided as supplemental information, as it aids in medical device risk management across the TPLC.
+### SBOM 元素和格式
 
-In addition to thinking about the baseline elements to include, MDMs also need to consider the SBOM format. Currently, there are several automated SBOM formats: CycloneDX, Software Package Data Exchange (SPDX), and Software Identification (SWID). Additional information on these formats, including detailed medical device examples for SPDX and SWID, may be found in in NTIA’s “How to Guide for SBOM Generation”.
+每个 SBOM 条目应包含用于识别每个软件组件的信息。可包含在 SBOM 条目中的信息可能有所不同，但总体而言，SBOM 应该尽可能完整，因为 SBOM 的深度会影响其实用性。 访问更完整的信息有助于更快地识别和评估漏洞，从而提高医疗设备的网络安全。 遵循 NTIA 的建议，对于医疗设备的网络安全，一个基本的 SBOM 应包含以下元素：
 
-## Distribute an SBOM
+* 作者姓名：指创建 SBOM 文件的实体（即个人、组织或类似实体）。
 
-The distribution of an SBOM is the process for how the SBOM information is transferred from the manufacturer to the HCP or user. The MDM must consider how best to distribute their SBOM, including raising awareness, providing access, and pushing updates. This could be an electronic file or an application programming interface (API) on the product or on the manufacturer’s website. While there is no one way to best distribute an SBOM at this time, the use of standardized automated discovery and exchange mechanisms are encouraged.
+* 时间戳：记录 SBOM 数据组装的日期和时间。
 
-Firstly, HCPs need to be aware that an SBOM exists. SBOMs should be initially provided to HCPs as part of the procurement process. For example, this existence could be included in the product’s customer security documentation (IMDRF/CYBER WG/N60FINAL:2020), the Manufacturer Disclosure Statement for Medical Device Security (MDS2, ANSI/NEMA HN 1-2019), a shared communication channel such as a publish/subscribe system, or a publishing interface on the medical device. As medical devices are updated frequently, a mechanism to easily identify a product and software version over the network in a standardized way should be encouraged to support automated updates. 
+* 软件组件供应商：负责创建、定义和识别组件的实体。 软件组件供应商的名称通常应指用于商业软件的法定商业名称。
 
-Secondly, MDMs should enable the SBOM to be distributed to or accessed by the HCP. Existing methods generally fall into one of three categories: 
+* 软件组件名称：由原始供应商分配给软件单元的标识。
 
-  * The SBOM is provided directly from the MDM to the HCP; or
-  * The SBOM resides on the medical device; or
-  * The SBOM is available to HCPs via a repository. An SBOM repository includes a collection of SBOMs from different products which may be from the same or different manufacturer. 
-    * A manufacturer-managed repository only contains SBOMs for devices from a single manufacturer while a centralized repository contains SBOMs for devices from multiple manufacturers. 
-    * Centralized repositories may be managed by third-party services or be healthcare provider-managed (i.e., HCPs may aggregate the device SBOMs they received from manufacturers into a centralized location for ease of use). For more information on considerations for a healthcare provider-managed repository, see Section 6.1.1.
+* 软件组件版本：供应商用于指定软件从先前标识的版本中的更改的标识符。
 
-While not an exhaustive list, the following table outlines advantages and disadvantages that MDMs should consider for SBOM distribution methods: 
+* 唯一标识符：用于标识组件或用作相关数据库查找键的标识符。
 
-### Table 1: Advantages and Disadvantages of Certain Methods of SBOM Generation
+* 关系：描述“上游组件 X 包含在软件 Y 中”的关系。
 
-Method of Distribution| Advantages| Disadvantages  
----|---|---  
-Included in the Customer Security Documentation from the manufacturer| 
+SBOM 中包含的元素具有基本信息，从而可以识别它们。 还可以将其他信息添加到 SBOM 中，作为额外的元素或作为核心 SBOM 的补充，根据需要。 例如，建议使用组件哈希，因为它有助于将组件的存在与相关数据源进行映射。 此外，与设备生命周期相关的信息（例如，软件组件的不再支持日期），也可以作为补充信息提供，因为它有助于在 TPLC 范围内进行医疗设备风险管理。
 
-  * No specialized tools required
+除了考虑需要包含的基本元素外，医疗设备制造商（MDMs）还需要考虑 SBOM 的格式。 目前，有几种自动化的 SBOM 格式：CycloneDX、软件包数据交换 (SPDX) 和软件识别 (SWID)。 关于这些格式的更多信息，包括 SPDX 和 SWID 的详细医疗设备示例，可以在 NTIA 的“SBOM 生成指南”中找到。
 
-| 
+## 分发 SBOM
 
-  * Not automated 
-  * Documentation must be updated frequently and distributed to the user
-  * There needs to be a way to link the document back to the device itself (strong asset management)
-  * Less control over SBOM access
+SBOM 的分发是指将 SBOM 信息从制造商转移到医疗保健专业人员 (HCP) 或用户的过程。 制造商必须考虑如何最佳地分发其 SBOM，包括提高意识、提供访问权限和推送更新。 这可以是电子文件或产品或制造商网站上的应用程序编程接口 (API)。 尽管目前没有一种最佳的 SBOM 分发方法，但鼓励使用标准化的自动化发现和交换机制。
 
-Provided by the manufacturer as a separate (electronic) document| 
+首先，医疗保健专业人员需要意识到 SBOM 的存在。 应该将 SBOM 作为采购过程的一部分，最初提供给医疗保健专业人员。 例如，这可以包含在产品的客户安全文档 (IMDRF/CYBER WG/N60FINAL:2020)、医疗器械安全制造商披露声明 (MDS2, ANSI/NEMA HN 1-2019) 或共享通信渠道 (例如发布/订阅系统) 或医疗器械上的发布接口中。 鉴于医疗器械的频繁更新，应鼓励采用标准化的网络方式，以便医疗保健专业人员可以轻松识别产品和软件版本，从而支持自动更新。
 
-  * No specialized tools required
-  * More control over SBOM access 
-  * Preferably machine readable
+其次，制造商应使 HCP 能够分发或访问 SBOM。 现有的方法通常分为以下三类：
 
-| 
+* SBOM 直接从制造商提供给 HCP；或
 
-  * Not automated
-  * Documentation must be updated frequently and distributed to the user
-  * There needs to be a way to link the document back to the device itself (strong asset management)
+* SBOM 存储在医疗器械上；或
 
-Accessible from the medical device through a display, reference (indirectly) or download| 
+* HCP 可以通过存储库访问 SBOM。 一个 SBOM 存储库包含来自不同产品的 SBOM，这些产品可能是来自同一制造商或不同制造商。
 
-  * Always the correct version
-  * Under control of the user
-  * More control over SBOM access 
+* 一个由制造商管理的存储库仅包含来自单个制造商的设备 SBOM，而一个中心化的存储库包含来自多个制造商的设备 SBOM。
+
+* 集中式存储库可能由第三方服务管理，也可能由医疗服务提供商管理（即，医疗服务提供商可以将来自制造商的设备 SBOM 聚合到一个集中位置，以便更方便使用）。有关医疗服务提供商管理的存储库的考虑，请参见第 6.1.1 节。
+
+虽然这并非详尽的清单，但以下表格概述了 MDM 应考虑的 SBOM 分发方法的优缺点：
+
+### 表 1：某些 SBOM 生成方法的优缺点
+
+分发方法 | 优点 | 缺点
+---|---|---
+包含在制造商的客户安全文档中 |
+
+* 不需要专门的工具
 
 | 
 
-  * Not automated 
-  * Requires access to the device to be able to access the information
-  * The device might not have a means to extract the information (e.g., user interface, USB port, network connectivity)
-  * Requires sufficient space on the device
-  * May require the use of extra battery capacity (in battery operated medical devices)
+* 不是自动化的
 
-Accessible from an API on the medical device| 
+* 文档必须经常更新并分发给用户
 
-  * More control over SBOM access
-  * Can be used in an automated process 
+* 需要一种方式将文档与设备本身关联起来（强大的资产管理）
 
-| 
+* 对 SBOM 的访问控制较少
 
-  * API standards remain undefined
-  * Requires tooling
-  * Requires connectivity
+由制造商作为单独（电子）文档提供 |
 
-Manufacturer-managed Repository| 
+* 不需要专门的工具
 
-  * More control over SBOM access
-  * Can be used in an automated process
+* 对 SBOM 的访问控制更多
+
+* 最好是机器可读
 
 | 
 
-  * Customers have to check multiple manufacturer sites/repositories for information
+* 不是自动化的
 
-Centralized Repository| 
+* 文档必须经常更新并分发给用户
 
-  * More streamlined way for customers to access information (i.e., don’t have to check as many individual manufacturer sites/repositories)
-  * Can be used in an automated process
+* 需要一种方式将文档与设备本身关联起来（强大的资产管理）
 
-| 
+通过显示屏、参考或下载从医疗设备获取|
 
-  * Intellectual property, liability, and other considerations for the manufacturer when using a third-party service
-  * Challenges with versioning as some organizations may have multiple versions of the same device with different update status and so will need to have access to all applicable SBOMs, not just the newest version
+* 始终是正确的版本
 
-Another consideration in the distribution of SBOMs is the need to protect the SBOM information. Medical device SBOMs should be classified as sensitive/confidential information in alignment with industry best practice. Communication channels from the MDM to external recipients, regulators and HCPs need to support protection measures, to help reduce the chances of these documents being compromised and resulting in increased risk exposure. Furthermore, these external organizations (i.e., recipients of the device SBOM) need to maintain strict internal security policies and practices to protect SBOM integrity, authenticity, and confidentiality. 
+* 由用户控制
 
-## Maintain SBOM Content
-
-An SBOM does not explicitly state whether a software component has a vulnerability. However, the SBOM may be used in conjunction with other resources to monitor for medical device vulnerabilities. One of the ways MDMs might notify HCPs vulnerability information is through the Vulnerability Exploitability Exchange (VEX). 
-
-During the life cycle of the medical device, each stakeholder relies on accurate and up-to-date information about the third-party software components. An MDM may use the SBOM to identify, assess, and mitigate potential patient safety risks associated with software vulnerabilities on the device. An HCP may use the SBOM to evaluate the device prior to purchase and during deployment so that they, and in collaboration with the manufacturer, can manage cybersecurity risk. 
-
-Vulnerability monitoring can trigger a change control event when it is determined that a change to the relevant software is necessary. MDMs should leverage existing change management controls (i.e., processes used to identify, document, and authorize changes to an IT environment) to ensure that any changes to device software are captured in the SBOM and that the appropriate follow-up actions are taken. Ultimately, any change in SBOM content should generate an updated device SBOM that is distributed to appropriate stakeholders, containing components that were changed. 
-
-### SBOM and Change Management
-
-While the Software Development Life Cycle (SDLC) has been incorporated into the pre- and post-market change management processes of medical device development in recent years, third-party component change management is still a new area for many manufacturers. It is important to understand that any event which causes the device software to change should result in a new SBOM. Such events include, but are not limited to: 
-
-  * Remediation of a vulnerability through an upgrade, update, or patch,
-  * Addition of new functions to the medical device software, 
-  * Exchange of one software component for another,
-  * Adding or removing a software component,
-  * Changes to third-party components that reside on the device hardware or within its operating system due to end of life (EOL) or end of support (EOS) decisions, (security) patches, or new versions coming to the market. 
-
-Change control should apply to the SBOM, which includes the proprietary medical device software and third-party software libraries. This information is not only important for internal version control, but also helps MDMs inform HCPs that a mitigation has been put in place. 
-
-Changes to the SBOM should be communicated to the HCPs on a regular basis and made available in an actionable and machine-readable format on an appropriate distribution platform.
-
-## Challenges
-
-The SBOM has great promise for enhancing patient safety via software transparency. Generating, monitoring, and distributing a comprehensive SBOM as part of pre-market and post-market activities can be a challenge for the MDM. Adequate tools and internal processes are necessary. 
-
-This section highlights some of the challenges in implementing SBOM across the SDLC. 
-
-  *     *       *         *           1. **SBOM for Currently Marketed/Legacy Devices:** **SBOM is a relatively recent concept, and it is still being adopted. In general, generating an SBOM for older devices produced in the past may face difficulties obtaining an SBOM with even basic information and elements. MDMs should use their best judgement to incorporate SBOMs provided by third-party suppliers, including how composition analysis tools may be used to supplement those SBOMS when information from the third-party supplier is not available. It is still desirable to build an SBOM which may be of reduced scope and depth wherever possible, especially when it captures major software components such as the operating system, COTS software, and OSS. Doing so allows the core content of the SBOM to be extended and improved upon. This might be accomplished via the use of various tooling by HCP or other parties. MDMs should be careful to select tools with capabilities that best suit the organization’s needs (e.g., providing optimal insight into the risks associated with the MDM’s business). Certain SCA tools may generate SBOMs with the desired breadth and depth. SCAs can further confirm that compiler settings are set to promote security/hardening, determine whether the compiler avoided inclusion of code with vulnerabilities, the unexpected inclusion of system networking tools, and the inclusion of files containing debug information.**
-          2. **Standards and Tools:** SBOM collection, generation, distribution, and use for vulnerability monitoring can be supported by standards and tools. High-level considerations regarding standards and tools are provided below and additional details regarding tooling used to collect SBOM content is found in Appendix 9.1. **The stable, global identification of software and author need further clarification. International standards are a way that the state-of-the-art could be specified.**
-
-Standards and tools continue to evolve and mature; MDMs should not wait for these to be “finalized.” Rather, MDMs should generate initial SBOM applying basic/foundational SBOM concepts. For example, while tools may exist to identify the SBOM content, there may be challenges translating it to a machine-readable format and identifying those components that are vulnerable with centralized databases (such as the NIST National Vulnerability Database (NVD)). Vulnerability databases can change over time and may not be complete.
-
-As many organizations continue working toward defining standards and tools, in the medium and long term, the MDM may be able to migrate the SBOM to newer platforms that become available. 
-
-  *     *       *         *           1. **SBOM Depth:** SBOMs can be dynamic and change over time since SBOMs are created for each product release or update. Defining the right depth of SBOM content to be included in the SBOM will impact the quantity and type of resources needed to keep an SBOM up to date. Greater SBOM depth will generate higher quality SBOMs and provide higher value to the end user. However, with greater depth comes greater complexity and challenges in generating and analysing SBOMs. 
-          2. **SBOM Distribution:** It is acknowledged that there are many challenges related to the distribution of SBOMs. These challenges include but are not limited to: (a) the frequency of software updates (b) the corresponding need to update the SBOM (c) the need to maintain distributed SBOMs in the user asset management system. An HCP may have multiple versions of the same device with different configurations and/or may update to the new software release at different times. The HCP needs to have the appropriate SBOM for each device. 
-
-# Overview of Healthcare Provider Considerations
-
-Healthcare environments have digitized over the last decade, and digital technology spreads across every part of the healthcare industry. This digital transformation has produced a reliance on software and software-driven devices to perform both administrative and clinical functions. Unfortunately, this digitalization has coincided with a dramatic rise in cybersecurity threats. Because the HCP landscape is increasingly digitally dependent and connected, this effects diverse HCP entities including large health systems, small rural facilities, and a growing ambulatory component, including home care. 
-
-Manufacturers should supply a software bill of materials (SBOM) with their products. This section provides an overview of healthcare organization considerations for SBOM including ingesting and intake of an SBOM and managing an SBOM. See Figure 1 for overall framework of SBOM.
-
-## SBOM Ingestion and Management
-
-SBOMs are used as a part of HCP’s risk management starting at procurement. Healthcare providers should request an SBOM from manufacturers for any devices that are intended to be integrated into their network infrastructure. To be able to leverage an SBOM, organizations should ensure they have capabilities to ingest the SBOM. It is critical for HCPs to have a complete and accurate asset inventory. The inventory should contain an up-to-date listing of medical devices with unique device identifiers, enabling correlation to other asset management systems and asset enrichment data sources such as SBOMs. An HCP needs to understand the hardware assets and the associated software running on its network. Once ingested, an SBOM should be managed to maximize organizational benefit. 
-
-This section provides an overview of healthcare organization considerations for SBOM including ingesting and managing an SBOM and specific considerations for healthcare provider-managed SBOM repositories. 
-
-### Considerations for Ingesting and Managing and SBOM
-
-An HCP needs to understand the hardware assets and the associated software, as well as Software as a Medical Device (SaMD) present and operating in the HCP network environment. HCPs can use established information technology and asset management practices to inventory software purchased directly from the developer or custom-developed software. However, software running on purchased devices cannot be easily inventoried through these established practices. An SBOM is a method to increase transparent sharing of this information between MDM and HCPs. Below are considerations related to an SBOM and a healthcare provider managed SBOM repository. 
-
-  1. **Procurement** : An SBOM can be made available during the procurement process, which enables the HCP to review the device components. The HCP should be aware that an SBOM may change between procurement and delivery.
-  2. **Standard format and delivery** : Delivery of the SBOM should be done through a standard format and automated distribution and ingestion mechanism. This enables information to be efficiently ingested by an HCP and stored in a secured location to protect the integrity of the data. Three prominent formats to be considered are CycloneDx, SPDX, and SWID. 
-  3. **Unique device identifier** : Device SBOMs are ideally mapped to a unique identifier to enable accurate correlation between an SBOM and each device due to the HCP likely having multiple models and versions. As described in the IMDRF UDI Application Guide, Unique Device Identifier (UDI) should be referenced on a product level to ensure correct mapping to the device and manufacturer, but also include the version number of the medical device software or version number of the device itself, if applicable. The lack of standardized unique identifier for software and hardware components may result in manual mapping.
-  4. **Completeness** : The level of SBOM completeness affects the extent to which it can be leveraged. At a minimum, SBOM content information should include author name (company’s name and/or person’s name), timestamp, software component vendor (supplier), software component name, software component version, unique identifier, and relationship (See Section 5.2.1). 
-  5. **Communication:** When a software component with a known vulnerability is discovered in a device SBOM, communication between an MDM and HCP is highly recommended to ensure actions taken to address the vulnerability are provided by the MDM and if required, approved by the HCP’s national/regional authority. 
-  6. **Enhanced device management** : HCPs need the ability to establish and manage an internal SBOM repository, linking each device in their environment to the specific SBOM for enhanced device management.
-     1. Search and Query Capabilities: The repository needs to have search and query capabilities to accurately identify and manage risk across the HCP’s many devices, including known vulnerabilities.
-
-An HCP may even want to track the levels of nested software included in a purchased device, to learn that there are vulnerabilities
-
-  *     1. Updating and Maintaining: The repository needs to support updating and __ maintaining SBOM content throughout the device’s life cycle to ensure accurate/current information. To ensure manageability, automated processes are needed.
-
-As formats and software identifiers are likely to change over the lifetime of devices and repositories, a generic capability to map between a device identifier and some document of any format used to document information on SBOM is the most important feature of such an SBOM repository (Per ISO/IEC 19770-2:2015 a SWID tag is one means of tagging software)
-
-  *     1. Secure Repository: The SBOM repository should be secure (e.g., role-based restricted access for those in the healthcare organization that need it) to prevent the information from being modified by malicious individuals or used as a roadmap to attack a device or an HCP’s network. 
-
-Note: Items a-f above are general SBOM considerations and were also discussed in Section 5 as these considerations also apply to MDMs.
-
-### Methods for Ingesting and Managing an SBOM
-
-SBOM can be ingested manually or through an automated process. However, since manual processes can quickly become cumbersome, automated processes are recommended for HCPs of all sizes to reduce administrative burden. Automation also aids in the management of the SBOM going forward, as SBOMs may be updated over time. As a part of healthcare provider operations, organizations may leverage a security information and event management (SIEM) software solution that can, among other things, collect, store, aggregate, and analyse data from networked devices, servers, etc. These SIEMs may be used to ingest an SBOM if the SIEM can read the SBOM format. 
-
-To maintain use of the SBOM over time, some healthcare organizations are exploring linking or integrating the SBOM within their Vendor Risk Management (VRM) system via their Configuration Management Database (CMDB) or Computerized Maintenance Management System (CMMS). In some cases, HCPs are exploring direct ingestion of the SBOM to these technologies. Custom developed software tools or scripts may also be used to ingest an SBOM. For direct ingestion and/or with the use of custom tools, HCPs will need to consider the proprietary nature of the electronic format of their data management systems
-
-While not an exhaustive list, the following table outlines some of the advantages and disadvantages to methods an HCP may use for ingesting and managing an SBOM. 
-
-### Table 2: Advantages and Disadvantages of Certain Methods of SBOM Ingestion and Management
-
-Method for Ingesting or Managing an SBOM| Advantages| Disadvantages  
----|---|---  
-SIEM| 
-
-  * Capable of directly ingesting
+* 对 SBOM 的访问控制更多
 
 | 
 
-  * Compatibility with SBOM formats 
-  * Ability to use with proprietary SBOMs
-  * Reduced access for searching
+* 不是自动化的
 
-CMDB/CMMS| 
+* 需要访问设备才能访问信息
 
-  * Highly searchable
-  * Capable of directly ingesting (Some vendors are engaged in the NTIA pilot – Nuvolo and ServiceNow)
-  * Direct correlation to individual assets
+* 设备可能没有提取信息的手段（例如，用户界面、USB端口、网络连接）
 
-| 
+* 需要设备上的足够空间
 
-  * Compatibility with SBOM formats 
-  * Ability to use with proprietary SBOMs
+* 可能需要使用额外的电池容量（在电池供电的医疗设备中）
 
-VRM| 
+通过医疗设备上的API获取|
 
-  * Searchable, capable of directly ingesting
+* 对 SBOM 的访问控制更多
+
+* 可以用于自动化流程
 
 | 
 
-  * Compatibility with SBOM formats 
-  * Ability to use with proprietary SBOMs
-  * Lacks link to individual assets
+* API标准尚未定义
 
-Custom Scripts| 
+* 需要工具
 
-  * Can be tailored to HCP’s unique needs
+* 需要连接
+
+制造商管理的数据存储库|
+
+* 对 SBOM 的访问控制更多
+
+* 可以用于自动化流程
 
 | 
 
-  * May be time consuming or resource intensive to generate
-  * Higher incidence of errors
+* 客户需要检查多个制造商网站/存储库以获取信息
 
-Additional details regarding specific use cases related to the management of an SBOM can be found in Section 7.0 SBOM use cases. 
+集中式存储库|
 
-# SBOM Use Cases
+* 客户获取信息更便捷的方式（即，不需要检查多个单独的制造商网站/存储库）
 
-SBOMs have a broad range of uses by stakeholders. For example, from an HCP’s device life cycle perspective, SBOMs help during deployment, integration, configuration, use, maintenance, and device configuration management (e.g., because an HCP may have multiple versions of the same device since the devices are not updated at the same time). 
+* 可以用于自动化流程
 
-SBOMs may also be used by MDM throughout the TPLC of a medical device from the design stage through end of support and decommissioning. Holistically, SBOMs can be used by organizations to take a more proactive security stance across the entire life cycle of a device.
+| 
 
-This section provides examples of use cases for an SBOM as an adjunct tool for:
+* 制造商在使用第三方服务时，需要考虑知识产权、责任以及其他相关问题
 
-  * Risk management
-  * Vulnerability management
-  * Incident Management
+* 版本管理方面存在挑战，因为一些组织可能拥有同一设备的多个版本，具有不同的更新状态，因此需要访问所有相关的SBOM，而不仅仅是最新版本
 
-The following sections provide a high-level overview of these use cases. While the sections that follow primarily focus on perspectives from the MDM or the HCP, some of these use cases may have applicability for other stakeholder groups. 
+[Glossary - use these exact translations when these terms appear:]
+  差距分析 -> Gap Analysis
+  test_zh -> test_en
 
-Asset management and procurement use cases are not included in this document. For additional information on these use cases, please refer to the NTIA Software Component transparency Healthcare Proof of Concept Report. 
+在 SBOM 分发的另一个考虑因素是保护 SBOM 信息。医疗设备 SBOM 应被归类为敏感/机密信息，符合行业最佳实践。从 MDM 到外部接收者、监管机构和医疗保健专业人员的沟通渠道，需要支持保护措施，以帮助降低这些文档被泄露的可能性，从而降低风险。此外，这些外部组织（即设备 SBOM 的接收者）需要维护严格的内部安全政策和实践，以保护 SBOM 的完整性、真实性和保密性。
 
-## Risk Management
+## 维护 SBOM 内容
 
-### MDM’s Perspective
+SBOM 并不明确说明某个软件组件是否存在漏洞。但是，SBOM 可以与其他资源一起使用，以监控医疗设备中的漏洞。MDM 可以通过漏洞可利用交换 (VEX) 向医疗保健专业人员通知漏洞信息的一种方式。
 
-Typical risk management activities are described in Section 5.2 of the IMDRF cybersecurity guidance (IMDRF/CYBER WG/N60FINAL:2020). For SBOM generation, manufacturers need to consider the entire software supply chain. This includes software components incorporated into the device. The SBOM can assist in identifying existing vulnerabilities in these software components by using external vulnerability information sources. When vulnerable software components are discovered, it will initiate the risk analyses process which also considers software dependencies.
+在医疗设备的生命周期中，每个利益相关者都依赖于有关第三方软件组件的准确和最新的信息。MDM 可以使用 SBOM 来识别、评估和缓解与设备上的软件漏洞相关的潜在患者安全风险。医疗保健专业人员可以使用 SBOM 来在购买和部署设备时进行评估，以便他们与制造商合作管理网络安全风险。
 
-Dependencies can include such things as libraries, operating systems, Transmission Control Protocol/Internet Protocol (TCP/IP) stacks, and other components required to run software and system. Below is a list of some risk management activities that benefit from the use of an SBOM:
+漏洞监控可以在确定需要对相关软件进行更改时触发变更控制事件。MDM（管理机构）应利用现有的变更管理控制（即，用于识别、记录和授权对IT环境的更改的流程），以确保对设备软件的任何更改都记录在SBOM中，并采取适当的后续行动。最终，任何SBOM内容的变更都应生成更新后的设备SBOM，并分发给相关利益相关者，其中包含已更改的组件。
 
-  1. **Risk Evaluation:** An SBOM, in conjunction with external vulnerability information sources, can be used to identify potential vulnerabilities. SBOM provides information about potential vulnerabilities that may exist, including their potential exploitability and impact. This vulnerability information can be used to estimate and evaluate the level of risk associated with a particular vulnerability. 
-  2. **Risk Control:** Monitoring and routinely verifying whether vulnerabilities for components listed in the SBOM exist helps to keep risks at an acceptable level (see also use case 7.2 vulnerability management).
-  3. **Assess and monitor:** Updating the SBOM as needed with new software releases 
-  4. **Lifecycle risk management:** Provide an SBOM in a machine-readable format as part of product security documentation to HCPs at purchase and update throughout the device’s life cycle (with an up-to-date SBOM being provided to facilitate healthcare provider management as the device approaches EOS). See IMDRF/CYBER WG/N70DRAFT:2022) for additional details. 
+### SBOM与变更管理
 
-### HCP’s Perspective
+[术语表 - 在这些术语出现时，请使用这些确切的翻译:]
+  差距分析 -> Gap Analysis
+  test_zh -> test_en
 
-SBOM’s are used as a part of HCP’s risk management starting at procurement. SBOM provides transparency for what is included in the device software and thus the risks that may be associated with it. This will enable the HCP to better understand the benefits and risks of a device as it progresses through its TPLC, and how to apply risk control measures and mitigation strategies more effectively across the device life cycle.
+虽然软件开发生命周期 (SDLC) 已在近年来整合到医疗器械开发的预后和售后变更管理流程中，但对于许多制造商来说，第三方组件的变更管理仍然是一个新兴领域。重要的是要理解，任何导致设备软件发生变更的事件都应导致新的 SBOM。这些事件包括但不限于：
 
-## Vulnerability Management
+* 通过升级、更新或补丁修复漏洞，
 
-This section of the document discusses use cases and considerations to make effective use of a SBOM for medical device vulnerability management.
+* 向医疗器械软件添加新功能，
 
-### MDM’s Perspective
+* 将一个软件组件替换为另一个组件，
 
-Vulnerability management is a critical aspect of the MDM’s post-market approach to ensure their medical devices maintain an acceptable risk profile. As a part of cybersecurity, manufacturers monitor threat and vulnerability information sources. The SBOM is an essential resource to leverage in supporting the timely identification of potential medical device vulnerabilities as they emerge and change over time. Using the SBOM, MDMs can identify medical devices that may be impacted by a vulnerability based on the impacted software components from the associated vulnerability information. Automation of the comparison of medical device SBOM information to impacted software component information from reported vulnerabilities can further improve the timeliness and accuracy of vulnerability identification. This improves the manufacturer’s ability to perform their risk assessment, communicate and remediate as needed. One possible outcome of the risk assessment could be that a vulnerable component is exchanged, which eventually leads to a revised SBOM.
+* 添加或删除软件组件，
 
-### HCP’s Perspective
+* 由于设备硬件或其操作系统中第三方组件的生命周期结束 (EOL) 或不再提供支持 (EOS) 决策、安全补丁或新版本上市而引起的变更，
 
-Vulnerability management is an important process to allow healthcare institutions to continuously detect, evaluate, and remediate the vulnerabilities in the IT environment. As new vulnerabilities are being discovered daily, it is a way to effectively detect and remediate critical vulnerabilities in a timely manner. This section will explore the various SBOM use cases to assist the HCP in their vulnerability management process.
+变更控制应适用于 SBOM，包括专有的医疗器械软件和第三方软件库。这些信息不仅对内部版本控制很重要，还可以帮助医疗器械制造商 (MDM) 告知医疗保健专业人员 (HCP) 已经采取了缓解措施。
 
-While not exhaustive, below is a list of some vulnerability management activities that benefit from the use of an SBOM
+应定期向 HCP 沟通 SBOM 的变更，并以可操作和可供机器读取的格式在适当的发布平台上提供。
 
-  1. **Monitoring of healthcare organization’s assets against new vulnerabilities as they emerge:** SBOM can be used along with vulnerability information to understand if and how their medical devices are impacted by a new vulnerability. VEX may be a complimentary communication mechanism for vulnerabilities.
-  2. **Driving interim mitigations:** SBOM information enables the HCP to carry out interim mitigations as needed while the MDM/ supplier is still assessing the exact impact or developing updates to remediate the vulnerability.
+## 挑战
 
-  * It is still recommended that the HCP engage with the MDM regarding the interim mitigation as they may have a better understanding of how the interim mitigation could impact the intended use of the device. A manufacturer may provide interim mitigation guidance using vulnerability exploitability exchange (VEX).
+SBOM 在通过软件透明度来提高患者安全方面具有巨大的潜力。在预后和售后活动中生成、监控和分发全面的 SBOM 可能会给 MDM 带来挑战。需要充分的工具和内部流程。
 
-  1. **Lifecycle management:** SBOM aids in the understanding of current supported and unsupported software for new devices and those already in the field. It is helpful for MDMs to include a timeline for support that gives HCP’s enough time to assess risk (both to their enterprise as well as to patients) if they are unable to replace a device.
-  2. **Assisting healthcare provider with proactive security activities:** SBOM supplements vulnerability identification and security scanning activities when scanning is not feasible or appropriate (e.g., for embedded devices, SaMDs)
+本部分重点介绍了在 SDLC 中实施 SBOM 的一些挑战。
 
-## Incident Management
+*       *         *           1. **已上市/旧设备上的 SBOM：** **SBOM 是一种相对较新的概念，并且仍在被采用中。一般来说，为过去生产的旧设备生成 SBOM 可能会遇到困难，难以获得包含基本信息和元素的 SBOM。医疗器械制造商应根据实际情况，合理使用第三方供应商提供的 SBOM，包括如何使用成分分析工具来补充这些 SBOM，尤其是在第三方供应商提供的信息不可用时。尽可能构建一个 SBOM，即使其范围和深度有限，尤其是在它涵盖主要软件组件，如操作系统、COTS 软件和开源软件时。这可以扩展和改进 SBOM 的核心内容。这可以通过 HCP 或其他方的各种工具来实现。医疗器械制造商应仔细选择最适合组织需求的工具（例如，提供对医疗器械制造商业务相关风险的最佳见解）。某些 SCA 工具可以生成符合要求的 SBOM。SCAs 还可以进一步确认编译器设置是否设置为促进安全性/加固，确定编译器是否避免了包含漏洞的代码、意外地包含系统网络工具以及包含包含调试信息的文件的存在。**
 
-There are numerous ways that an MDM or an HCP might become aware of security incident which may impact medical devices. Irrespective of how they become aware, the SBOM is one of several resources that can help MDMs and HCP better manage cybersecurity incidents in the five stages of incident management[1] when used in conjunction with a robust incident response process. For an MDM, an SBOM repository can reduce the time it takes to identify and evaluate at-risk devices. For an HCP, an SBOM repository can help first-level-support teams and cybersecurity teams actions. Specifically, the repository improves the systematic collection, correlation, and evaluation of information to detect cybersecurity-relevant events which ultimately improves incident-handling. Collectively, this improved response can reduce risks posed by incomplete risk evaluations and data loss that leads to destruction of evidence. 
+2. **标准和工具：** SBOM 的收集、生成、分发和使用，可以借助标准和工具。以下提供了有关标准和工具的高层考虑，关于使用工具收集 SBOM 内容的详细信息，请参见附录 9.1。**对软件和作者的稳定、全球识别需要进一步澄清。国际标准是指定最先进技术的途径。**
 
-# References
+标准和工具仍在不断发展和完善；医疗设备制造商（MDM）不应等到这些“最终确定”后再采取行动。相反，MDM应生成初步的SBOM，并应用基本的/基础的SBOM概念。例如，虽然可能存在用于识别SBOM内容的工具，但将这些内容转换为可供机器读取的格式以及识别受影响的组件（如美国国家标准与技术研究院（NIST）的国家漏洞数据库（NVD））可能会带来挑战。漏洞数据库会随着时间的推移而变化，并且可能不完整。
 
-## IMDRF Documents
+随着越来越多的组织继续努力定义标准和工具，在中期和长期，MDM可能能够将SBOM迁移到新的平台上。
 
-  1. Software as a Medical Device: Possible Framework for Risk Categorization and Corresponding Considerations IMDRF/SaMD WG/N12:2014 (September 2014)
-  2. Essential Principles of Safety and Performance of Medical Devices and IVD Medical Devices IMDRF/GRRP WG/N47 FINAL:2018 (November 2018)
-  3. Principles and Practices for Medical Device Cybersecurity IMDRF/CYBER WG/N60: FINAL:2020 (April 2020)
-  4. Principles and Practices for the Cybersecurity of Legacy Medical Devices IMDRF/ CYBER WG/N70 FINAL:2023 (April 2023)
+*   *   *         *           1. **SBOM 的深度：** SBOM 可以是动态的，并且会随着时间的推移而变化，因为 SBOM 是针对每个产品发布或更新而创建的。定义合适的 SBOM 内容深度，并将其包含在 SBOM 中，将影响维护 SBOM 所需的资源数量和类型。更深度的 SBOM 将生成更高质量的 SBOM，并为最终用户提供更高的价值。然而，随着深度增加，生成和分析 SBOM 也会带来更大的复杂性和挑战。
 
-## Standards
+2. **SBOM 分配：** 承认，在分配 SBOM 方面存在许多挑战。这些挑战包括但不限于：(a) 软件更新的频率 (b) 相应的 SBOM 更新需求 (c) 需要在用户资产管理系统中维护分布式 SBOM。医疗保健提供者（HCP）可能拥有同一设备的多个版本，具有不同的配置，或者在不同时间更新到新的软件版本。HCP 需要针对每个设备拥有适当的 SBOM。
 
-AAMI TIR57:2016 Principles for medical device security—Risk management
+# 医疗保健提供者考虑概述
 
-AAMI TIR 97:2019, Principles for medical device security—Postmarket risk management for device manufacturers
+医疗环境在过去十年中实现了数字化，并且数字技术已渗透到医疗行业的各个方面。这场数字转型导致对软件和基于软件的设备在执行行政和临床功能方面产生了依赖。不幸的是，这种数字化与网络安全威胁的急剧增加同时发生。由于医疗保健领域越来越依赖和互联，这影响了包括大型医疗系统、小型农村设施以及不断增长的门诊服务（包括居家护理）在内的各种医疗保健实体。
 
-ANSI/NEM HN 1-2019, Manufacturer Disclosure Statement for Medical Device Security
+制造商应为他们的产品提供软件材料清单（SBOM）。本部分概述了医疗组织在SBOM方面需要考虑的内容，包括获取和处理SBOM。请参阅图 1，了解SBOM的总体框架。
 
-IEC 60601-1:2005+AMD1:2012, Medical electrical equipment – Part 1: General requirements for basic safety and essential performance
+## SBOM 的获取和管理
 
-IEC 62304:2006/AMD 1:2015, Medical device software – Software life cycle processes
+SBOM 被用于医疗保健领域的风险管理，从采购开始。医疗保健提供者应要求制造商为任何打算集成到其网络基础设施中的设备提供 SBOM。为了能够利用 SBOM，组织应确保具备获取 SBOM 的能力。对于医疗保健实体来说，拥有完整且准确的资产清单至关重要。该清单应包含最新的医疗设备清单，包括唯一的设备标识符，从而可以与其他的资产管理系统和资产丰富数据源（如 SBOM）进行关联。医疗保健实体需要了解其网络上的硬件资产以及运行在其中的软件。一旦获取了 SBOM，应对其进行管理，以最大限度地提高组织的效益。
 
-IEC 62366-1:2015, Medical devices - Part 1: Application of usability engineering to medical devices
+本部分提供关于医疗组织对 SBOM 的考虑，包括获取和管理 SBOM，以及针对医疗服务提供商管理的 SBOM 存储库的具体考虑。
 
-IEC 80001-1:2010, Application of risk management for IT-networks incorporating medical devices - Part 1: Roles, responsibilities and activities
+### 获取和管理 SBOM 的考虑
 
-IEC TR 80001-2-2:2012, Application of risk management for IT-networks incorporating medical devices - Part 2-2: Guidance for the disclosure and communication of medical device security needs, risks and controls
+医疗服务提供商 (HCP) 需要了解网络环境中存在的硬件资产、相关软件以及软件即医疗器械 (SaMD)，并了解其运行状态。 HCP 可以利用现有的信息技术和资产管理实践来盘点直接从开发者处购买或定制开发的软件。 然而，在购买的设备上运行的软件无法通过这些已建立的实践进行盘点。 SBOM 是一种提高 MDM 和 HCP 之间透明共享信息的手段。 以下是与 SBOM 和医疗服务提供商管理的 SBOM 存储库相关的考虑。
 
-  1. IEC TR 80001-2-8:2016, Application of risk management for IT-networks incorporating medical devices – Part 2-8: Application guidance – Guidance on standards for establishing the security capabilities identified in IEC 80001-2-2
+1. **采购**：SBOM 可以在采购过程中提供，从而使 HCP 能够审查设备组件。 HCP 应了解，在采购和交付之间，SBOM 可能会发生变化。
 
-ISO 13485:2016, Medical devices – Quality management systems – Requirements for regulatory purposes
+2. **标准格式和交付**：SBOM 的交付应通过标准格式和自动化分发和获取机制进行。 这使 HCP 能够高效地获取信息并将其存储在安全的位置，以保护数据的完整性。 值得考虑的三种主要格式包括 CycloneDx、SPDX 和 SWID。
 
-ISO 14971:2019, Medical devices – Application of risk management to medical devices
+3. **唯一设备标识符**：理想情况下，设备 SBOM 应与一个唯一的标识符相关联，以便能够准确地将 SBOM 与每个设备相关联，因为 HCP 可能会拥有多个型号和版本。 如 IMDRF 的“唯一设备标识符 (UDI) 申请指南”所述，应在产品级别引用唯一设备标识符，以确保正确地将 SBOM 映射到设备和制造商，但还应包括医疗设备软件的版本号或设备本身的版本号（如果适用）。 缺乏对软件和硬件组件的标准唯一标识符可能会导致手动映射。
 
-ISO/TR 80001-2-7:2015, Application of risk management for IT-networks incorporating medical devices – Application guidance – Part 2-7: Guidance for Healthcare Delivery Organizations (HDOs) on how to self-assess their conformance with IEC 80001-1
+4. **完整性**：SBOM 的完整性水平会影响其可利用的程度。 至少，SBOM 的内容信息应包括作者姓名（公司名称和/或个人姓名）、时间戳、软件组件供应商、软件组件名称、软件组件版本、唯一标识符和关系（参见第 5.2.1 节）。
 
-ISO/IEC 27000 family - Information security management systems
+5. **沟通**：当在设备 SBOM 中发现具有已知漏洞的软件组件时，强烈建议 MDM 与 HCP 之间进行沟通，以确保 MDM 采取的措施以及如果需要，由 HCP 的国家/地区机构批准。
 
-  1. ISO/IEC 27035-1:2016, Information technology – Security techniques – Information security incident management – Part 1: Principles of incident management 
-  2. ISO/IEC 27035-2:2016, Information technology – Security techniques – Information security incident management – Part 2: Guidelines to plan and prepare for incident response
-  3. ISO/IEC 29147:2018, Information Technology – Security Techniques – Vulnerability Disclosure
-  4. ISO/IEC 30111:2013, Information Technology – Security Techniques – Vulnerability Handling Processes
-  5. ISO/IEC 5962:2021 Information technology — SPDX® Specification V2.2.1
-  6. ISO/IEC 19770-2:2015 Information technology — IT asset management — Part 2: Software identification tag
+6. **增强的设备管理**：医疗专业人员需要具备建立和管理内部 SBOM 仓库的能力，并将他们环境中的每个设备与特定的 SBOM 关联，从而实现更有效的设备管理。
 
-ISO/TR 24971:2020, Medical devices – Guidance on the application of ISO 14971 
+1. 搜索和查询能力：该仓库需要具备搜索和查询功能，以便准确地识别和管理医疗专业人员众多设备中的风险，包括已知的漏洞。
 
-UL 2900-1:2017, Standard for Software Cybersecurity for Network-Connectable Products, Part 1: General Requirements
+医疗专业人员甚至可能希望跟踪购买设备中包含的嵌套软件的级别，从而了解是否存在漏洞。
 
-UL 2900-2-1:2017, Software Cybersecurity for Network-Connectable Products, Part 2-1: Particular Requirements for Network Connectable Components of Healthcare and Wellness Systems
+*   1. 更新和维护：该仓库需要支持在设备整个生命周期内更新和__维护 SBOM 内容，以确保提供准确/最新的信息。为了确保可管理性，需要自动化流程。
 
-## Regulatory Guidance and Draft Guidance
+由于格式和软件标识符很可能会在设备和仓库的整个生命周期内发生变化，因此，将设备标识符映射到任何格式用于记录 SBOM 信息的文件，是此类 SBOM 仓库最重要的功能（根据 ISO/IEC 19770-2:2015，SWID 标签是一种标记软件的方式）。
 
-  1. ANSM (Draft): Cybersecurity of medical devices integrating software during their life cycle (July 2019)
-  2. China: Guidance for Premarket Review of Medical Device Cybersecurity (March 2022)
-  3. European Commission: REGULATION (EU) 2017/745 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 5 April 2017 on medical devices, amending Directive 2001/83/EC, Regulation (EC) No 178/2002 and Regulation (EC) No 1223/2009 and repealing Council Directives 90/385/EEC and 93/42/EEC (May 2017)
-  4. European Commission: REGULATION (EU) 2017/746 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 5 April 2017 on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission Decision 2010/227/EU (May 2017)
-  5. Medical Device Coordination Group (MDCG) 2019-16: Guidance on Cybersecurity for medical devices (December 2019) <https://ec.europa.eu/docsroom/documents/41863/attachments/1/translations/en/renditions/native>
-  6. FDA (Draft): Cybersecurity in Medical Devices: Quality System Considerations and Content of Pre-market Submissions (April 2022) [This guidance is draft at the time of this N73 publication and is not for implementation. It will be superseded by a final guidance.]
-  7. FDA: Cybersecurity for Networked Medical Devices Containing Off-the-Shelf (OTS) Software (January 2005)
-  8. FDA: Design Considerations for Devices Intended for Home Use (November 2014)
-  9. FDA: Postmarket Management of Cybersecurity in Medical Devices (December 2016)
-  10. Germany: Cyber Security Requirements for Network-Connected Medical Devices (November 2018)
-  11. Health Canada: Pre-market Requirements for Medical Device Cybersecurity (June 2019)
-  12. Japan: Ensuring Cybersecurity of Medical Device: PFSB/ELD/OMDE Notification No. 0428-1 (April 2015)
-  13. Japan: Guidance on Ensuring Cybersecurity of Medical Device: PSEHB/MDED-PSD Notification No. 0724-1 (July 2018)
-  14. Singapore Standards Council Technical Reference 67: Medical device cybersecurity (2018)
-  15. TGA: Medical device cybersecurity - Consumer information (July 2019)
-  16. TGA: Medical device cybersecurity guidance for industry (July 2019)
-  17. TGA: Medical device cybersecurity information for users (July 2019)
+*   1. 安全的仓库：SBOM 仓库应具有安全性（例如，基于角色的受限访问权限，仅限医疗组织中需要的人员），以防止恶意人员修改信息或将其用作攻击设备或医疗专业人员网络的路线图。
 
-## Other Resources and References
+注意：上述 a-f 条目是通用的 SBOM 考虑因素，并在第 5 节中也进行了讨论，因为这些考虑因素也适用于 MDM。
 
-  1. NTIA FAQ
+### 摄取和管理 SBOM 的方法
+
+SBOM 可以手动输入或通过自动化流程。然而，由于手动流程可能会迅速变得繁琐，因此建议所有规模的医疗保健专业人员采用自动化流程，以减轻管理负担。自动化还可以帮助管理 SBOM，因为 SBOM 可能会随着时间的推移而更新。作为医疗保健提供者的运营的一部分，组织可以利用安全信息和事件管理 (SIEM) 软件解决方案，该解决方案可以，在其他方面，收集、存储、汇总和分析来自网络设备、服务器等的。如果 SIEM 可以读取 SBOM 格式，则可以使用这些 SIEM 来导入 SBOM。
+
+为了在一段时间内保持 SBOM 的使用，一些医疗保健组织正在探索将 SBOM 与其供应商风险管理 (VRM) 系统（通过配置管理数据库 (CMDB) 或计算机化维护管理系统 (CMMS）进行链接或集成。在某些情况下，医疗保健专业人员正在探索直接将 SBOM 导入这些技术。还可以使用定制开发的软件工具或脚本来导入 SBOM。对于直接导入以及/或使用定制工具，医疗保健专业人员需要考虑其数据管理系统的电子格式的专有性。
+
+虽然这并非详尽的清单，但以下表格概述了医疗保健专业人员可能用于导入和管理 SBOM 的某些方法及其优缺点。
+
+### 表 2：某些 SBOM 导入和管理方法的优缺点
+
+导入或管理 SBOM 的方法 | 优点 | 缺点
+---|---|---
+SIEM|
+
+* 能够直接导入
+
+| 
+
+* 与 SBOM 格式的兼容性
+
+* 能够与专有 SBOM 配合使用
+
+* 搜索访问受限
+
+CMDB/CMMS|
+
+* 高度可搜索
+
+* 能够直接导入 (一些供应商参与了NTIA试点——Nuvolo和ServiceNow)
+
+* 与单个资产的直接关联
+
+| 
+
+* 与 SBOM 格式的兼容性
+
+* 能够与专有 SBOM 配合使用
+
+VRM
+
+* 可搜索，能够直接导入
+
+| 
+
+* 与 SBOM 格式的兼容性
+
+* 能够与专有 SBOM 配合使用
+
+* 缺乏与单个资产的关联
+
+自定义脚本
+
+* 可以根据医疗专业人员的独特需求进行定制
+
+| 
+
+* 可能会耗费大量时间和资源来生成
+
+* 错误发生率较高
+
+关于管理 SBOM 的特定用例的更多详细信息，请参见第 7.0 节 SBOM 用例。
+
+# SBOM 用例
+
+SBOM 在各个利益相关者手中具有广泛的应用。例如，从医疗保健专业人员（HCP）的设备生命周期角度来看，SBOM 在部署、集成、配置、使用、维护和设备配置管理（例如，因为 HCP 可能会拥有同一设备的多个版本，因为设备并非同时更新）方面都有帮助。
+
+SBOM 也可由 MDM 在医疗设备的整个生命周期（从设计阶段到支持结束和报废）中使用。 总体而言，组织可以使用 SBOM 采取更积极的安全立场，涵盖整个设备生命周期。
+
+本节提供了 SBOM 作为辅助工具的用例示例，用于：
+
+* 风险管理
+
+* 漏洞管理
+
+* 事故管理
+
+以下部分提供了这些用例的高层概述。 虽然后续部分主要关注 MDM 或 HCP 的视角，但这些用例也可能适用于其他利益相关者。
+
+资产管理和采购用例在本文件中未包含。 如果您需要有关这些用例的更多信息，请参阅 NTIA 软件组件透明度医疗保健概念验证报告。
+
+## 风险管理
+
+### MDM 的视角
+
+典型的风险管理活动，如 IMDRF 的网络安全指南（IMDRF/CYBER WG/N60FINAL:2020）第 5.2 节中所述。对于 SBOM（软件清单）的生成，制造商需要考虑整个软件供应链。这包括设备中包含的软件组件。通过使用外部漏洞信息来源，SBOM 可以帮助识别这些软件组件中的现有漏洞。当发现有漏洞的软件组件时，将启动风险分析过程，该过程还将考虑软件依赖关系。
+
+依赖关系可能包括诸如库、操作系统、传输控制协议/互联网协议 (TCP/IP) 堆栈以及运行软件和系统的其他组件。以下是利用 SBOM 获益的一些风险管理活动：
+
+1. **风险评估：** 结合外部漏洞信息来源，SBOM 可以用于识别潜在漏洞。SBOM 提供有关潜在漏洞的信息，包括其潜在的可利用性和影响。这些漏洞信息可用于估算和评估与特定漏洞相关的风险水平。
+
+2. **风险控制：** 监控并定期验证 SBOM 中列出的组件是否存在漏洞，有助于将风险控制在可接受的水平（参见用例 7.2 漏洞管理）。
+
+3. **评估和监控：** 根据需要更新 SBOM，以包含新的软件发布
+
+4. **产品生命周期风险管理：** 在购买时，向医疗保健专业人员提供以机器可读格式的 SBOM，作为产品安全文档的一部分，并在整个设备生命周期内进行更新（在设备接近EOL时，提供最新的 SBOM，以方便医疗保健提供商的管理）。 参见 IMDRF/CYBER WG/N70DRAFT:2022，获取更多详细信息。
+
+### 医疗保健专业人员的视角
+
+SBOM 被用于医疗保健专业人员的风险管理，从采购开始。 SBOM 提供关于设备软件包含的内容的透明度，从而可以识别与之相关的潜在风险。 这将使医疗保健专业人员更好地了解设备在其生命周期内的益处和风险，以及如何更有效地应用风险控制措施和缓解策略。
+
+## 漏洞管理
+
+本节讨论了如何有效利用 SBOM 进行医疗设备漏洞管理的用例和考虑因素。
+
+### MDM 的视角
+
+风险管理是 MDM 在上市后策略的关键组成部分，旨在确保其医疗设备保持可接受的风险水平。作为网络安全的一部分，制造商会监控威胁和漏洞信息来源。 SBOM 是一个至关重要的资源，可以用于及时识别潜在的医疗设备漏洞，随着时间的推移，这些漏洞会不断出现和变化。通过使用 SBOM，MDM 可以根据相关漏洞信息，识别可能受到漏洞影响的医疗设备。对医疗设备 SBOM 信息与报告的漏洞中受影响的软件组件信息进行自动比较，可以进一步提高漏洞识别的及时性和准确性。这可以提高制造商进行风险评估、沟通和必要时的修复能力。风险评估的可能结果之一是更换受影响的组件，这最终会导致 SBOM 的更新。
+
+### 医疗保健专业人员的视角
+
+风险管理是一个重要的过程，使医疗机构能够持续检测、评估和修复 IT 环境中的漏洞。随着每天新漏洞的不断发现，这是一种有效识别和及时修复关键漏洞的方法。本节将探讨各种 SBOM 的使用案例，以帮助医疗保健专业人员（HCP）进行风险管理。
+
+虽然并非详尽无遗，但以下是一些可以从使用 SBOM 中获益的风险管理活动：
+
+1. **监控医疗机构的资产，以应对新漏洞的出现：** 可以使用 SBOM 与漏洞信息，以了解医疗设备如何受到新漏洞的影响。 VEX 可能是与漏洞相关的通信机制。
+
+2. **实施临时缓解措施：** SBOM 信息使医疗保健专业人员（HCP）能够在 MDM/供应商仍在评估漏洞影响或制定修复方案时，根据需要实施临时缓解措施。
+
+* 建议 HCP 与 MDM 讨论临时缓解措施，因为他们可能对临时缓解措施如何影响医疗器械的使用有更深入的了解。制造商可以使用漏洞可利用性交换（VEX）提供临时缓解措施指导。
+
+1. **产品生命周期管理：** SBOM 有助于了解新设备以及现有设备所支持和不支持的软件。这对于 MDM 制定支持时间表很有帮助，以便为 HCP 提供足够的时间来评估风险（包括对企业和患者的影响），如果无法更换设备。
+
+2. **协助医疗保健提供者进行主动安全活动：** SBOM 补充了漏洞识别和安全扫描活动，尤其是在扫描不可行或不当的情况下（例如，嵌入式设备、SaMD）。
+
+## 事故管理
+
+存在多种方法，医生或医疗保健专业人员可能会意识到可能影响医疗设备的安全事件。无论他们如何意识到，SBOM（软件清单）是多个可以帮助医生和医疗保健专业人员在五阶段的事件管理过程中更好地管理网络安全事件的资源[1]，当与完善的事件响应流程结合使用时。对于医生，SBOM 仓库可以缩短识别和评估受影响设备的所需时间。对于医疗保健专业人员，SBOM 仓库可以帮助一线支持团队和网络安全团队采取行动。具体而言，该仓库可以改善对信息进行系统收集、关联和评估，从而检测与网络安全相关的事件，从而最终提高事件处理能力。总而言之，这种改进的响应可以降低因不完整风险评估和数据丢失而导致的风险，从而避免证据被销毁。
+
+# 参考文献
+
+## IMDRF 文档
+
+1. 软件作为医疗设备：风险分类的可能框架及其相关考虑 IMDRF/SaMD WG/N12:2014 (2014年9月)
+
+2. 医疗器械和体外诊断医疗器械的安全性与性能基本原则 IMDRF/GRRP WG/N47 最终版：2018（2018年11月）
+
+3. 医疗设备网络安全原则和实践 IMDRF/CYBER WG/N60：最终版：2020（2020年4月）
+
+4. 遗留医疗设备网络安全原则和实践 IMDRF/ CYBER WG/N70 最终版：2023（2023年4月）
+
+## 标准
+
+AAMI TIR57:2016 医疗器械安全——风险管理原则
+
+AAMI TIR 97:2019，医疗器械安全——制造商的上市后风险管理
+
+ANSI/NEM HN 1-2019，医疗设备安全制造商披露声明
+
+IEC 60601-1:2005+AMD1:2012，医疗电气设备 – 第 1 部分：基本安全和基本性能的通用要求
+
+IEC 62304:2006/AMD 1:2015，医疗器械软件——软件生命周期流程
+
+IEC 62366-1:2015，医疗器械 - 第 1 部分：将可用性工程应用于医疗器械
+
+IEC 80001-1:2010，包含医疗器械的 IT 网络中的风险管理 - 第 1 部分：角色、责任和活动
+
+IEC TR 80001-2-2:2012，包含医疗器械的 IT 网络中的风险管理 - 第 2-2 部分：关于披露和沟通医疗器械安全需求、风险和控制的指导
+
+1. IEC TR 80001-2-8:2016，包含医疗器械的 IT 网络中的风险管理——第 2-8 部分：应用指导——关于 IEC 80001-2-2 中识别的安全能力的标准指导
+
+ISO 13485:2016，医疗器械——质量管理系统——用于监管目的的要求
+
+ISO 14971:2019，医疗器械——将风险管理应用于医疗器械
+
+ISO/TR 80001-2-7:2015，包含医疗器械的 IT 网络中的风险管理——应用指导——第 2-7 部分：关于医疗保健提供机构（HDO）如何评估其符合 IEC 80001-1 的指导
+
+ISO/IEC 27000 系列 - 信息安全管理系统
+
+1. ISO/IEC 27035-1:2016，信息技术——安全技术——信息安全事件管理——第一部分：事件管理原则
+
+2. ISO/IEC 27035-2:2016，信息技术——安全技术——信息安全事件管理——第二部分：事件响应规划和准备指南
+
+3. ISO/IEC 29147:2018，信息技术——安全技术——漏洞披露
+
+4. ISO/IEC 30111:2013，信息技术——安全技术——漏洞处理流程
+
+5. ISO/IEC 5962:2021 信息技术 — SPDX® 规范 V2.2.1
+
+6. ISO/IEC 19770-2:2015 信息技术 — IT 资产管理 — 第 2 部分：软件标识标签
+
+ISO/TR 24971:2020，医疗器械——应用 ISO 14971 的指导
+
+UL 2900-1:2017，适用于可连接网络的产品的软件网络安全标准，第1部分：通用要求
+
+UL 2900-2-1:2017，适用于可连接网络的产品的软件网络安全标准，第2-1部分：医疗保健和健康系统可连接组件的特定要求
+
+## 监管指导和草案指导
+
+1. ANSM (草案)：医疗器械在生命周期中集成软件的网络安全（2019年7月）
+
+2. 中国：医疗器械网络安全审查的预先审查指南（2022年3月）
+
+3. 欧盟委员会：2017/745号关于医疗器械的欧盟议会和理事会法规，于2017年4月5日通过，修订指令2001/83/EC、法规（EC）第178/2002和（EC）第1223/2009，并废除理事会指令90/385/EEC和93/42/EEC（2017年5月）
+
+4. 欧盟委员会：2017/746号关于体外诊断医疗器械的欧盟议会和理事会法规，于2017年4月5日通过，并废除指令98/79/EC和委员会决定2010/227/EU（2017年5月）
+
+5. 医疗设备协调组 (MDCG) 2019-16：医疗设备网络安全指南 (2019 年 12 月) <https://ec.europa.eu/docsroom/documents/41863/attachments/1/translations/en/renditions/native>
+
+6. FDA (草案)：医疗设备网络安全：质量系统考虑和预上市提交内容 (2022 年 4 月) [本 N73 发布的时，此指南为草案，不适用于实施。它将被最终指南取代。]
+
+7. FDA：包含离架软件的联网医疗设备网络安全 (2005 年 1 月)
+
+8. FDA：为家用设备设计的考虑 (2014 年 11 月)
+
+9. FDA：医疗设备网络安全后的管理 (2016 年 12 月)
+
+10. 德国：联网医疗设备网络安全要求 (2018 年 11 月)
+  11. 加拿大卫生部：医疗设备网络安全预上市要求 (2019 年 6 月)
+  12. 日本：确保医疗设备网络安全：PFSB/ELD/OMDE 通知第 0428-1 (2015 年 4 月)
+  13. 日本：确保医疗设备网络安全：PSEHB/MDED-PSD 通知第 0724-1 (2018 年 7 月)
+  14. 新加坡标准委员会技术参考 67：医疗设备网络安全 (2018)
+  15. TGA：医疗设备网络安全 - 消费者信息 (2019 年 7 月)
+  16. TGA：为行业提供的医疗设备网络安全指导 (2019 年 7 月)
+  17. TGA：为用户提供的医疗设备网络安全信息 (2019 年 7 月)
+
+## 其他资源和参考
+
+1. NTIA 常见问题解答
 
 <https://www.ntia.gov/files/ntia/publications/sbom_faq_-_20201116.pdf>
 
-  1. NTIA “Framing Software Component Transparency: Establishing a Common Software Bill of Material (SBOM)” Second Edition 
+1. NTIA “软件组件透明度框架：建立通用软件物料清单 (SBOM)” 第二版
 
 <https://www.ntia.gov/files/ntia/publications/ntia_sbom_framing_2nd_edition_20211021.pdf>
 
-  1. NTIA “Framing Software Component Transparency: Establishing a Common Software Bill of Material (SBOM)” 
+1. NTIA “软件组件透明度框架：建立通用软件物料清单 (SBOM)”
 
 <https://www.ntia.gov/files/ntia/publications/framingsbom_20191112.pdf>
 
-  1. NTIA “Roles and Benefits of SBOM Across the Supply Chain” <https://www.ntia.gov/files/ntia/publications/ntia_sbom_use_cases_roles_benefits-nov2019.pdf>
-  2. NTIA Software Component Transparency Healthcare Proof of Concept Report 
+1. NTIA “供应链中 SBOM 的角色和益处” <https://www.ntia.gov/files/ntia/publications/ntia_sbom_use_cases_roles_benefits-nov2019.pdf>
+
+2. NTIA 医疗保健领域 SBOM 概念验证报告
 
 <https://www.ntia.gov/files/ntia/publications/ntia_sbom_healthcare_poc_report_2019_1001.pdf>
 
-  1. NTIA Healthcare POC “How to Guide for SBOM Generation” 
+1. NTIA 医疗保健领域概念验证 “SBOM 生成指南”
 
 <https://www.ntia.gov/files/ntia/publications/howto_guide_for_sbom_generation_v1.pdf>
 
-  1. NTIA Vulnerability-Exploitability eXchange (VEX) Overview
+1. NTIA 漏洞-利用交换 (VEX) 概述
 
 <https://www.ntia.gov/files/ntia/publications/vex_one-page_summary.pdf>
 
-  1. NTIA Software Suppliers Playbook: SBOM Production and Provision
+1. NTIA 软件供应商指南：SBOM 生产和提供
 
 <https://ntia.gov/files/ntia/publications/software_suppliers_sbom_production_and_provision_-_final.pdf>
 
-  1. Dept of Commerce, Minimum Elements for a SBOM Pursuant to Executive Order 14028 on Improving the Nation’s Cybersecurity <https://www.ntia.doc.gov/files/ntia/publications/sbom_minimum_elements_report.pdf>
-  2. OASIS Profile 5: VEX
+1. 商务部，根据第 14028 号行政命令“改善国家网络安全”的 SBOM 最小元素 <https://www.ntia.doc.gov/files/ntia/publications/sbom_minimum_elements_report.pdf>
+
+2. OASIS 规范 5：VEX
 
 <https://docs.oasis-open.org/csaf/csaf/v2.0/csd01/csaf-v2.0-csd01.html#45-profile-5-vex>
 
-  1. CERT® Guide to Coordinated Vulnerability Disclosure
+1. CERT® 协调漏洞披露指南
 
 <https://resources.sei.cmu.edu/asset_files/SpecialReport/2017_003_001_503340.pdf>
 
-  1. The NIST Cybersecurity Framework
+1. NIST 网络安全框架
 
 <https://www.nist.gov/cyberframework>
 
-  1. NIST’s Secure Software Development Framework (SSDF)
+1. NIST 的安全软件开发框架 (SSDF)
 
 <https://csrc.nist.gov/CSRC/media/Publications/white-paper/2019/06/07/mitigating-risk-of-software-vulnerabilities-with-ssdf/draft/documents/ssdf-for-mitigating-risk-of-software-vulns-draft.pdf>
 
-  1. NIST SP 800-115:2008, Technical Guide to Information Security Testing and Assessment
+1. NIST SP 800-115:2008，信息安全测试和评估技术指南
 
 <https://doi.org/10.6028/NIST.SP.800-115>
 
-  1. Medical Device and Health IT Joint Security Plan (January 2019)
+1. 医疗器械与健康信息技术联合安全计划 (2019年1月)
 
 <https://healthsectorcouncil.org/wp-content/uploads/2019/01/HSCC-MEDTECH-JSP-v1.pdf>
 
-  1. MITRE medical device cybersecurity playbook (October 2018)
+1. MITRE 医疗器械网络安全 playbook (2018年10月)
 
 <https://www.mitre.org/publications/technical-papers/medical-device-cybersecurity-regional-incident-preparedness-and>
 
-  1. MITRE CVSS Healthcare Rubric
+1. MITRE CVSS 医疗领域指南
 
 <https://www.mitre.org/publications/technical-papers/rubric-for-applying-cvss-to-medical-devices>
 
-  1. Health Industry Cybersecurity Practices: Managing Threats and Protecting Patients (HICP)
+1. 医疗行业网络安全实践：管理威胁和保护患者 (HICP)
 
 <https://www.phe.gov/preparedness/planning/405d/documents/hicp-main-508.pdf>
 
-  1. Open Web Application Security Project (OWASP)
+1. 开放网络应用程序安全项目 (OWASP)
 
 <https://www.owasp.org/index.php/Main_Page>
 
-  1. Manufacturer Disclosure Statement for Medical Device Security (MDS2)  
+1. 医疗器械安全制造商披露声明 (MDS2)
+
 <https://www.nema.org/Standards/Pages/Manufacturer-Disclosure-Statement-for-Medical-Device-Security.aspx>
-  2. National Telecommunications and Information Administration (NTIA) / US Department of Commerce, Vulnerability Disclosure Attitudes and Actions: A Research Report from the NTIA Awareness and Adoption Group
+
+2. 美国国家电信和信息管理局 (NTIA) / 商务部，漏洞披露态度和行为：NTIA 意识和采用小组的研究报告
 
 <https://www.ntia.doc.gov/files/ntia/publications/2016_ntia_a_a_vulnerability_disclosure_insights_report.pdf>
 
-  1. <https://republicans-energycommerce.house.gov/wp-content/uploads/2018/10/10-23-18-CoDis-White-Paper.pdf>
-  2. <https://resources.sei.cmu.edu/asset_files/SpecialReport/2017_003_001_503340.pdf>
+1. <https://republicans-energycommerce.house.gov/wp-content/uploads/2018/10/10-23-18-CoDis-White-Paper.pdf>
 
-# Appendices
+2. <https://resources.sei.cmu.edu/asset_files/SpecialReport/2017_003_001_503340.pdf>
 
-## SBOM Component Types and Tools
+# 附录
 
-SBOM content can come from a variety of sources. Examples of component types that may be included and tooling that may be used to generate the SBOM content are provided below. 
+## SBOM 组件类型和工具
 
-  1. **Third-Party Software Component Types**
+SBOM 的内容可以来自各种来源。以下列出了可能包含的组件类型以及用于生成 SBOM 内容的工具示例。
 
-The scope of component types incorporated in the SBOM might depend on several factors including but not limited to: capabilities of the MDM, expectations of the HCPs, maturity of SBOM software available, and potential or expected regulatory SBOM requirements. 
+1. **第三方软件组件类型**
+
+SBOM 中包含的组件类型范围可能取决于多种因素，包括但不限于：MDM 的能力、医疗专业人员的期望、可用的 SBOM 软件的成熟度以及潜在或预期的监管 SBOM 要求。
 
 ****
 
-However, when managing the SBOM, awareness of the different types of components is important as components might need different methods and tools for inventory and operational management. The following types can be distinguished: 
+然而，在管理 SBOM 时，了解不同类型组件的重要性，因为组件可能需要不同的方法和工具来进行库存和运营管理。可以区分以下类型：
 
-  1. Third-party software libraries that are linked to or embedded in the proprietary medical device software. 
-  2. Virtual machine, operating system, and third-party software components that reside on the operating system such as drivers, database software, management tools, and application frameworks. 
-  3. Third-party software components that come with vendor supplied hardware in use on the medical device: firmware, embedded software and programmable logic controller (PLC). 
+1. 与或嵌入在专有医疗设备软件中的第三方软件库。
 
-The next sections will elaborate on the SBOM inventory, operational management, and available tools for these different types of components. 
+2. 驻留在操作系统上的虚拟机、操作系统和第三方软件组件，例如驱动程序、数据库软件、管理工具和应用程序框架。
 
-  1. **Third-Party Software Libraries**
+3. 与医疗设备上使用的供应商提供的硬件一起使用的第三方软件组件：固件、嵌入式软件和可编程逻辑控制器 (PLC)。
 
-In modern software development, it is not unusual to use significantly more code from third-party libraries compared to proprietary lines of code written by the manufacturer itself in a single piece of software. Composing and managing the SBOM containing these libraries can be done by ensuring the MDMs track and compose a list of all the libraries and update such lists for every software change that impacts the libraries used. Such manual tracking and updating of SBOMs can be considered a first, basic procedure for incorporating SBOM usage into their development processes. As organizations mature, they may begin adapting more advanced procedures like automation to make the process more efficient and accurate. An example of a more advanced procedure would be the leveraging of existing development platforms and the development and operations (DevOps) environments. Specifically, automated tools/plugins could be incorporated in one or more phases of the development pipeline (DevSecOps). ****
+下一部分将详细介绍这些不同类型组件的 SBOM 库存、运营管理和可用的工具。
 
-The advantage of SBOM is that it enables the identification of third-party libraries and known vulnerabilities in those libraries as early as possible. Early detection of any known vulnerabilities facilitates early remediation and will be more cost effective compared to late detection. Early replacement in the development process of a vulnerable component for a non-vulnerable component decreases costs because the procedural workload in early stages of a software development is far less than for example after the verification and validation phase. Coding rework will also be less extensive as code complexity and dependencies will increase as the code reaches final stages of the SDLC. In addition, early detection enables SBOM management throughout the SDLC, in general whenever changes to the software will alter the software composition of the SBOM. 
+1. **第三方软件库**
 
-Such tools or plugins analyze the software to detect embedded or linked open-source software, and some can detect commercial third-party software as well. They typically identify known vulnerabilities, such as out-of-date libraries that have available security patches. Monitoring for vulnerabilities feeds into SBOM content collection during: 
+在现代软件开发中，使用第三方库的代码量通常远大于制造商自己编写的专有代码，这在单个软件中是很常见的。 编制和管理包含这些库的 SBOM（软件清单）可以通过确保 MDM（制造商数据管理）跟踪和编制所有库的清单，并在每次影响所用库的软件变更时更新这些清单来实现。 这种手动跟踪和更新 SBOM 的做法可以被认为是将 SBOM 使用纳入其开发流程中的一个基本步骤。 随着组织的成熟，它们可能会开始采用更高级的程序，例如自动化，以提高流程的效率和准确性。 举例来说，可以利用现有的开发平台和开发/运维（DevOps）环境。 具体的，可以在开发流程的其中一个或多个阶段（DevSecOps）中集成自动化工具/插件。
 
-  1. **Coding** : for example, when executing Static Code Analyses (i.e., leveraging tools that attempt to highlight vulnerabilities in non-running source code). 
-  2. **Building** : for example, when the software is built for each end of sprint, where a sprint is a set time period by which specific work has to be completed and made ready for review. 
-  3. **Testing** : for example, when executing Static Application Security Testing (SAST). 
+SBOM 的优势在于，它能够尽早识别第三方库及其已知漏洞。 尽早发现已知的漏洞，可以促进尽早的修复，并且与晚期发现相比，成本更低。 在开发过程中，将易受攻击的组件替换为无漏洞的组件，可以降低成本，因为在软件开发早期阶段的工作量远小于例如验证和验证阶段。 随着代码接近 SDLC（软件开发生命周期）的最终阶段，代码复杂性和依赖关系也会增加，因此代码重构的范围也会相应减少。 此外，尽早发现还可以在 SDLC 的整个过程中管理 SBOM，即在软件发生任何变更时，都会影响 SBOM 的软件组成。
 
-These tools or plugins – usually referred to as Software Composition Analyses (SCA) software – do not need any manual input to generate the SBOM but will use available repositories to in general identify: 
+此类工具或插件分析软件，以检测嵌入式或链接的开源软件，并且有些还可以检测商业第三方软件。它们通常会识别已知的漏洞，例如过时的库，这些库有可用的安全补丁。漏洞监控是 SBOM 内容收集过程中的一部分，具体包括：
 
-  1. Software component name 
-  2. Software component vendor (supplier) 
-  3. Software component version 
-  4. Component hash 
-  5. Relationship (One or more layers of dependencies) 
-  6. Component vulnerabilities 
-  7. Licensing model and compliance information 
+1. **编码**：例如，在执行静态代码分析（即使用工具来突出显示非运行代码中的漏洞）时。
 
-Note that apart from the larger SCA vendors, there are other tools and plugins available which can be used during code-build-test and produce similar outcomes. While some are free to use, making automation available to medical device manufacturers of every size, MDMs should be careful to select tools with capabilities that best suit the MDM’s needs. 
+2. **构建**：例如，在每个 sprint 结束时构建软件，其中 sprint 是一个特定时间段，在此期间必须完成并准备好审查的工作。
 
-  1. **Operating System Components**
+3. **测试**：例如，在执行静态应用程序安全测试 (SAST) 时。
 
-Virtual machine(s) and the operating system in use by the medical device are essential components of the SBOM. There are existing third-party software components that rely upon the operating system on top of which the device software is built, including database software and application frameworks, as well as software components for other essential functions of the device such as security software, system management tools, remote support software, and networking components. 
+这些工具或插件（通常被称为软件组合分析 (SCA) 软件）不需要任何手动输入即可生成 SBOM，但会利用可用的存储库来一般地识别：
 
-Several options exist to automate the discovery and management of third-party software components on the operating system. Some SCA vendors focus on both the components discussed in the previous section, as well as the other software components on the operating system that are not directly linked to or embedded in the proprietary software. But there are also vendors with a dedicated focus on Software Asset Management (SAM), a governance practice that manages the risks and value inherent in software. 
+1. 软件组件名称
 
-If such tools are not an option for the medical device manufacturer, the software inventory on the operating system can be generated by executing purpose-built scripts (for example a PowerShell Script on Windows or Bash Script on Linux). Another option is to use a vulnerability management scanning tool. The advantage of the latter that it will also provide vulnerability information of the components discovered. 
+2. 软件组件供应商（供应商）
 
-**d. Firmware, Embedded Software and PLC**
+3. 软件组件版本
 
-Third-party firmware, embedded software, and PLC are the components that are least prone to change on a medical device during its life cycle, unless vulnerabilities are discovered. Embedded software is built from board support packages, binary drivers, Software Development Kits (SDK), CPU microcodes, and other libraries. This may include a large dependency on open-source software. It is important to identify all software components included in the end-product. 
+4. 组件哈希值
 
-As these types of software components are tied to the hardware of the device, they are part of the regular BOM for a medical device. A BOM is a comprehensive list of the materials and components needed to manufacture a device and thus includes much more than just software components. Hence, the BOM provides a good starting point for the inventory and management of these third-part software components. Like the SBOM, a regular BOM may be obtained from various sources, including an MDM’s development activity or via third-party provided BOMs. A combination of source code management systems and binary software composition analysis can be used to automate or verify the generation of this information. It should be noted that any tools used should be compatible with the embedded system. 
+5. 关系（一个或多个依赖层）
 
-If the BOM is managed through Product Lifecycle Management (PLM) or Enterprise Resource Planning (ERP) software, export functions can be used to extract the software components. If available, the upstream SBOM of the firmware, software, or PLC vendor can be leveraged to add additional layers of depth for third-party components if that is required. 
+6. 组件漏洞
 
-If these software components are proprietary, e.g., developed by the medical device manufacturer, the same approach applies as described in ‘Third-Party Software Libraries’ in Section 9.1. 
+7. 许可模型和合规信息
 
-  1. According to ISO/IEC 27035 five phases are: 
+请注意，除了较大的 SCA 供应商之外，还有其他工具和插件可用，这些工具可以在代码构建和测试过程中使用，并产生类似的结果。虽然有些是免费使用的，从而使所有规模的医疗设备制造商能够实现自动化，但 MDM 应该仔细选择具有最适合其需求的工具。
 
-Plan and prepare
+1. **操作系统组件**
 
-Detection and reporting
+虚拟机(们)以及医疗设备使用的操作系统是 SBOM 的关键组成部分。 存在一些第三方软件组件，这些组件依赖于操作系统，而设备软件构建在这些操作系统之上，包括数据库软件和应用程序框架，以及用于设备其他关键功能的软件组件，例如安全软件、系统管理工具、远程支持软件和网络组件。
 
-Assessment and decision
+存在多种选项可用于自动化发现和管理操作系统上的第三方软件组件。 一些 SCA（软件成分分析）供应商专注于前文所述的组件，以及操作系统上其他未直接链接或嵌入在专有软件中的软件组件。 但也有专门关注软件资产管理（SAM）的供应商，SAM 是一种管理软件风险和价值的治理实践。
 
-Responses
+如果这些工具对医疗设备制造商来说不可行，则可以通过执行定制脚本（例如，在 Windows 上使用 PowerShell 脚本或在 Linux 上使用 Bash 脚本）来生成操作系统上的软件库存。 另一种选择是使用漏洞管理扫描工具。 这种方法的优势在于，它还可以提供发现的组件的漏洞信息。
 
-Lessons learnt ↑
+**d. 固件、嵌入式软件和PLC**
+
+第三方固件、嵌入式软件和PLC是医疗设备生命周期中变化最少的组件，除非发现漏洞。嵌入式软件由主板支持包、二进制驱动程序、软件开发工具包（SDK）、CPU微码和其他库构建而成。这可能高度依赖开源软件。重要的是识别最终产品中包含的所有软件组件。
+
+由于这些类型的软件组件与设备的硬件相关，它们是医疗设备的常规BOM（物料清单）的一部分。BOM是用于制造设备的材料和组件的全面清单，因此包含的不仅仅是软件组件。因此，BOM是管理这些第三方软件组件的良好起点。与SBOM（软件物料清单）类似，常规BOM可以从各种来源获得，包括MDM（医疗设备制造商）的开发活动或第三方提供的BOM。可以使用源代码管理系统和二进制软件组成分析来自动或验证信息的生成。需要注意的是，使用的工具应与嵌入式系统兼容。
+
+如果通过产品生命周期管理（PLM）或企业资源计划（ERP）软件管理BOM，则可以使用导出功能来提取软件组件。如果可用，可以利用固件、软件或PLC供应商的上游SBOM，以增加对第三方组件的深度，如果需要。
+
+如果这些软件组件是专有，例如由医疗设备制造商开发，则应采用与第9.1节“第三方软件库”中描述的相同方法。
+
+1. 根据 ISO/IEC 27035，五个阶段包括：
+
+计划和准备
+
+检测和报告
+
+评估和决策
+
+响应
+
+经验教训 ↑
 
 
 <!-- fulltext-end -->

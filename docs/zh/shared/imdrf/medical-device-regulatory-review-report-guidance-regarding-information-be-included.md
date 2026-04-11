@@ -10,13 +10,17 @@ title: "Medical Device Regulatory Review Report: Guidance Regarding Information 
 [https://www.imdrf.org/documents/medical-device-regulatory-review-report-guidance-regarding-information-be-included](https://www.imdrf.org/documents/medical-device-regulatory-review-report-guidance-regarding-information-be-included)
 :::
 
+::: info
+This content has been machine-translated from the English original.
+:::
+
 <!-- fulltext-start -->
 
 ---
 
 ## 全文
 
-# Medical Device Regulatory Review Report: Guidance Regarding Information to be Included
+# 医疗器械监管审查报告：关于应包含的信息的指导
 
 **Document Number**: IMDRF/GRRP WG/N71 FINAL:2024 (Edition 2)
 
@@ -24,797 +28,834 @@ title: "Medical Device Regulatory Review Report: Guidance Regarding Information 
 
 ---
 
-Final Document  
+最终文档
+
 ---  
-IMDRF/GRRP WG/N71 FINAL:2024 (Edition 2)  
-Medical Device Regulatory Review Report: Guidance Regarding Information to be Included   
-Authoring Group  
-Good Regulatory Review Practices  
+IMDRF/GRRP WG/N71 最终版：2024 (第2版)
+医疗器械监管审查报告：关于应包含的信息的指导
+编写组
+良好的监管审查实践
 
-Preface
+前言
 
-© Copyright 2024 by the International Medical Device Regulators Forum. 
+© 2024 年 国际医疗器械监管论坛 版权所有。
 
-This work is copyright. Subject to these Terms and Conditions, you may download, display, print, translate, modify and reproduce the whole or part of this work for your own personal use, for research, for educational purposes or, if you are part of an organisation, for internal use within your organisation, but only if you or your organisation do not use the reproduction for any commercial purpose and retain all disclaimer notices as part of that reproduction. If you use any part of this work, you must include the following acknowledgement (delete inapplicable): 
+本作品受版权保护。在遵守本条款和条件的前提下，您可以下载、显示、打印、翻译、修改和复制本作品的全部或部分内容，用于您个人的使用、研究、教育目的，或如果贵组织是组织，则用于贵组织的内部使用，但前提是您或贵组织不得将复制用于任何商业目的，并且保留所有版权声明。如果您使用本作品的任何部分，必须包含以下声明（删除不适用的内容）：
 
-“[Translated or adapted] from [insert name of publication], [year of publication], International Medical Device Regulators Forum, used with the permission of the International Medical Device Regulators Forum. The International Medical Device Regulators Forum is not responsible for the content or accuracy of this [adaption/translation].” 
+“[翻译或改编]自[插入出版物名称]，[出版年份]，国际医疗器械监管论坛，经国际医疗器械监管论坛授权使用。国际医疗器械监管论坛不对本[改编/翻译]的内容或准确性负责。”
 
-All other rights are reserved and you are not allowed to reproduce the whole or any part of this work in any way (electronic or otherwise) without first being given specific written permission from IMDRF to do so. Requests and inquiries concerning reproduction and rights are to be sent to the IMDRF Secretariat. 
+除上述内容外，所有其他权利均保留，未经IMDRF事先书面许可，您不得以任何方式（包括电子方式）复制本作品的全部或任何部分。有关复制和版权的请求和咨询应发送给IMDRF秘书处。
 
-Incorporation of this document, in part or in whole, into another document, or its translation into languages other than English, does not convey or represent an endorsement of any kind by the IMDRF. 
+将本文件（部分或全部）纳入其他文档，或将其翻译成其他语言，并不代表IMDRF的认可。
 
 ![](data:image/jpeg;base64,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)
 
-**Jeffrey Shuren, IMDRF Chair**
+**杰弗里·舒伦，IMDRF 主席**
 
-Contents
+内容
 
-Introduction 4
+引言 4
 
-1\. Scope 6
+1\. 范围 6
 
-2\. References 8
+2\. 参考文献 8
 
-3\. Definitions 9
+3\. 定义 9
 
-4\. Medical Device Regulatory Review Report Contents 16
+4\. 医疗器械监管审查报告的内容 16
 
-Chapter 0 Regulatory Review 18
+第0章 监管审查 18
 
-Chapter 1 Regional Administrative 19
+第1章 区域行政 19
 
-Chapter 2 Submission Context 22
+第2章 提交背景 22
 
-Chapter 3 Non-Clinical Evidence 23
+第3章 非临床证据 23
 
-Chapter 4 Clinical Evidence 26
+第4章 临床证据 26
 
-Chapter 5 Labeling and Promotional Material 27
+第5章 标签和宣传材料 27
 
-Chapter 6A Quality Management System Procedures and Chapter 6B Quality Management System Device Specific Information 29
+第6A章 质量管理系统程序和第6B章 质量管理系统设备特定信息 29
 
-Appendix A - Mapping of Regulatory Review Report Headings to the Essential Principles of Safety and Performance 30
+附录 A - 将监管审查报告标题映射到安全和性能的基本原则 30
 
-# Introduction
+# 简介
 
-This is one document in a collection of documents produced by the International Medical Device Regulators Forum (IMDRF) intended to improve the efficiency and effectiveness of the regulatory review of medical devices.
+这是一份由国际医疗器械监管论坛（IMDRF）编制的一系列文件中的一份，旨在提高对医疗器械监管审查的效率和有效性。
 
-IMDRF/GRRP WG/N47 (_Essential Principles of Safety and Performance of Medical Devices and IVD Medical_ Devices) and IMDRF/GRRP WG/N52 (_Principles of Labeling for Medical Devices and IVD Medical Devices_) are complementary documents. These two documents are focused on the fundamental design, manufacturing, and labeling requirements for medical devices that, when met, provide assurance the device is safe and performs as intended, offers significant benefits to, among others, manufacturers, users, patients/consumers, and regulatory authorities (RAs). 
+IMDRF/GRRP WG/N47 (_医疗器械和体外诊断医疗器械的安全和性能的基本原则_) 和 IMDRF/GRRP WG/N52 (_医疗器械和体外诊断医疗器械的标签原则_) 是互补文件。 这两份文件侧重于满足医疗器械的设计、制造和标签要求，从而确保该设备安全且符合预期，为制造商、用户、患者/消费者以及监管机构（RAs）等带来显著益处。
 
-IMDRF/GRRP WG/N40 (_Competence, Training, and Conduct Requirements for Regulatory Reviewers_), IMDRF/GRRP WG/N59 (_Requirements for Medical Device Conformity Assessment Bodies for Regulatory Authority Recogn_ _ition_), and this document, IMDR/GRRP WG/N71 (_Medical Device Regulatory Review Report: Guidance Regarding Information to be Included_) are complementary documents. IMDRF/GRRP WG/N40 and IMDRF/GRRP WG/N59 are focused on requirements for Conformity Assessment Bodies (CABs) conducting regulatory review(s) of medical devices and in vitro diagnostic (IVD) medical devices and individuals performing regulatory reviews and other related functions under their respective medical device legislation, regulations, and procedures required in their regulatory jurisdiction. This document, IMDRF/GRRP WG/N71 expands upon section 7.5.2 of IMDRF/GRRP WG/N59 by articulating exactly the type of information a regulatory review report should include to address the requirements of section 7.7 of N59.
+IMDRF/GRRP WG/N40 (_监管审查人员的资质、培训和行为要求_), IMDRF/GRRP WG/N59 (_医疗器械符合性评估机构用于获得监管机构认可的必要条件_)，以及本文档，IMDR/GRRP WG/N71 (_医疗器械监管审查报告：关于应包含的信息指南_)，是互补的文档。IMDRF/GRRP WG/N40 和 IMDRF/GRRP WG/N59 侧重于符合性评估机构（CAB）对医疗器械和体外诊断（IVD）医疗器械进行监管审查，以及在各自的医疗器械立法、法规和程序要求下，从事监管审查和其他相关职能的个人。本文档，IMDRF/GRRP WG/N71，扩展了 IMDRF/GRRP WG/N59 的第 7.5.2 节，明确规定了监管审查报告应包含的具体信息，以满足 N59 第 7.7 节的要求。
 
-Specifically, IMDRF/GRRP WG/N71 provides guidance regarding creation of a medical device regulatory review report. The regulatory review report serves as a written record of the CAB’s determination of the extent of fulfillment of specified requirements. It enables the CAB to capture in a consistent manner the evidence of a manufacturer’s conformity with the criteria for the regulatory review and will facilitate the exchange of information between RAs. 
+具体而言，IMDRF/GRRP WG/N71 提供关于创建医疗器械监管审查报告的指导。监管审查报告是 CAB 对已指定要求是否得到满足的书面记录。它使 CAB 能够以一致的方式记录制造商符合监管审查标准的证据，并促进 RAs 之间的信息交换。
 
-Three additional documents, IMDRF/GRRP WG/N61 (_Regulatory Authority Assessment Method for Recognition and Surveillance of Conformity Assessment Bodies Conducting Medical Device Regulatory Reviews_), IMDRF/GRRP WG/N63 (_Competence and Training Requirements for Regulatory Authority Assessors of Conformity Assessment Bodies Conducting Medical Device Regulatory Reviews_), and IMDRF/GRRP WG/N66 (_Assessment and Decision Process for the Recognition of a Conformity Assessment Body Conducting Medical Device Regulatory Reviews_) are complementary documents. These three documents are focused on how RAs will evaluate or “assess” a CAB’s compliance to the requirements in the IMDRF/GRRP WG/N59 and IMDRF/GRRP WG/N40 documents.
+以下三份文档是互补的：IMDRF/GRRP WG/N61 (_医疗器械监管审查机构的认可和监督评估方法_), IMDRF/GRRP WG/N63 (_医疗器械监管审查机构评估员的资质和培训要求_), 和 IMDRF/GRRP WG/N66 (_医疗器械监管审查机构的认可评估和决策流程_)。这些三份文档侧重于监管机构（RA）如何评估或“评估”医疗器械监管审查机构（CAB）是否符合 IMDRF/GRRP WG/N59 和 IMDRF/GRRP WG/N40 文档中规定的要求。
 
-This collection of IMDRF GRRP documents will provide the fundamental building blocks by providing a common set of requirements to be utilized by the RAs for the recognition and monitoring of entities that perform regulatory reviews and other related functions. It should be noted that in some jurisdictions the recognition process is called designation, notification, registration, or accreditation.
+这份IMDRF GRRP文档集将提供基本构建模块，通过提供一套通用的要求，供RA用于识别和监控执行监管审查以及其他相关功能的实体。需要注意的是，在某些司法管辖区，识别过程被称为指定、通知、注册或认证。
 
-IMDRF developed these GRRP documents to encourage and support global convergence of regulatory systems, where possible, seeking to strike a balance between the responsibilities of RAs to safeguard the health of their citizens as well as their obligations to avoid placing unnecessary burdens upon medical device CABs or the regulated industry. IMDRF RAs may add additional requirements beyond this document when their legislation requires such additions.
+IMDRF开发了这些GRRP文档，旨在鼓励和支持全球监管体系的整合，在可能的情况下，寻求在RA保障其公民健康的同时，避免对医疗器械CAB或受监管行业造成不必要的负担之间的平衡。当RA的法律要求时，IMDRF的RA可以添加超出此文档的其他要求。
 
-To prevent confusion between regulatory review activities performed by a CAB and the activities performed by medical device Regulatory Authority Assessors for CAB recognition and surveillance, in this document, the latter are designated as “assessments.”
+为了防止 CAB 及其监管机构评估员在进行监管审查活动方面的混淆，以及 CAB 获得认可和监督的活动，本文件中，后者的活动被指定为“评估”。
 
-# Scope
+# 范围
 
-The scope of this guidance document is limited to the information participating IMDRF Regulatory Authorities require in medical device regulatory review reports, the format of reports, and the information necessary for participating IMDRF RAs to effectively use the regulatory review reports in accordance with their legislation and regulations. Additional requirements for CAB certification decisions are included in IMDRF/GRRP WG/N59.
+本指南的范围仅限于IMDRF监管机构在医疗器械监管审查报告中需要的信息、报告的格式以及IMDRF监管机构有效使用监管审查报告以符合其法律和法规所需的信息。关于CAB认证决策的附加要求包含在IMDRF/GRRP WG/N59中。
 
-This document applies to all medical devices except IVD medical devices. This document does not apply specifically to products that do not meet the definition of a medical device in IMDRF/GRRP WG/N47 _Essential Principles of Safety and Performance of Medical Devices and IVD Medical Devices_. However, the contents and approach within this guidance may be relevant, as determined appropriate by the applicable RA, to documenting the evaluation of a product that is not a medical device. 
+本文件适用于所有医疗器械，但不包括体外诊断（IVD）医疗器械。本文件不专门适用于不符合IMDRF/GRRP WG/N47《医疗器械和体外诊断医疗器械的安全和性能的基本原则》定义的医疗器械的产品。然而，根据相关RA的判断，本指南的内容和方法，可能适用于记录对非医疗器械产品的评估。
 
-This document is intended to identify the type of information a CAB would be expected to review during evaluation of a regulatory submission. This document does not apply specifically to RAs. Some RAs, however, may choose to use elements of this document in reviewing regulatory submissions themselves. 
+本文件旨在识别 CAB 在评估监管提交时应审查的信息类型。本文件不专门适用于 RA。然而，某些 RA 可能会选择在审查监管提交时使用本文件的部分内容。
 
-This document is intended to be used in evaluating a regulatory submission consistent with other IMDRF guidance, namely, IMDRF/RPS WG/N9. The headings in this document mirror those of IMDRF/RPS WG/N9 for consistency between information expected to be included in the regulatory submission and documentation of the CAB’s review of that submission. 
+本文件旨在用于评估与 IMDRF 其他指导一致的监管提交，特别是 IMDRF/RPS WG/N9。本文件中使用的标题与 IMDRF/RPS WG/N9 中的标题保持一致，以确保监管提交中应包含的信息与 CAB 对该提交的审查记录之间保持一致。
 
-IMDRF/RPS WG/N9 is primarily organized to accommodate a submission package structured with nested folders. The order of content in IMDRF/RPS WG/N9 is not intended to convey or describe the order in which content would be assembled. Similarly, the order of content in this document is not intended to convey or describe the order in which a regulatory submission would be reviewed. For example, a regulatory review report should include an evaluation of the device classification and identification information (Chapter 1.01(B)), but this evaluation requires the review of information in subsequent Chapters: Device Description (Chapter 2.04) and the Indications for Use and/or Intended Use, and Contraindications (Chapter 2.05). If the regulatory review report follows a different structure, then the report should ensure that at least the same content has been covered in the evaluation
+IMDRF/RPS WG/N9 主要组织结构是为了适应具有嵌套文件夹的提交包。IMDRF/RPS WG/N9 中内容的顺序并非旨在传达或描述内容按什么顺序组装。同样，本文件中内容的顺序并非旨在传达或描述监管提交的审查顺序。例如，监管审查报告应包括对设备分类和识别信息的评估（第 1.01(B) 章节），但此评估需要审查后续章节中的信息：设备描述（第 2.04 章节）和用途/预期用途以及禁忌（第 2.05 章节）。如果监管审查报告采用不同的结构，则报告应确保至少涵盖了相同的内容。
 
-IMDRF/RPS WG/N9 is comprehensive in scope in that it includes both common (IMDRF) and regional content. As a consequence, not all headings in IMDRF/RPS WG/N9 are applicable for all submission types and/or IMDRF jurisdictions. Similarly, not all headings of this document are relevant or reviewed to the same extent for all submission types, all device types, and/or all IMDRF jurisdictions. The relevance of each chapter and the extent of review depends on the jurisdiction(s) for which the regulatory review is being conducted. 
+IMDRF/RPS WG/N9 的范围全面，因为它既包括通用内容（IMDRF），也包括区域内容。因此，IMDRF/RPS WG/N9 中的并非所有标题都适用于所有提交类型和/或 IMDRF 辖区。同样，本文件中的并非所有标题都适用于所有提交类型、所有设备类型和/或所有 IMDRF 辖区，并且审查程度也不同。每个章节的相关性和审查程度取决于审查所针对的辖区。
 
-IMDRF/RPS WG/N9 provides headings to distinguish between IMDRF and regional content. This document does not make that distinction. Instead, when developing a regulatory review report, CABs are required to review IMDRF/RPS WG/N9 and materials published by individual RAs to determine which chapters in this document are relevant based on the specific submission type, device type, and jurisdiction for which the review is being conducted. For example, Essential Principle 6.5.1 describes an essential principle of safety and performance “where a medical device incorporates, as an integral part, a substance which, if used separately may be considered to be a medicinal product/drug as defined in the relevant legislation that applies in that RA and which is liable to act upon the body with action ancillary to that of the medical device”, which may not always be applicable. 
+IMDRF/RPS WG/N9 提供标题，以区分 IMDRF 和区域内容。本文件并未进行这种区分。相反，在制定监管审查报告时，CAB 必须审查 IMDRF/RPS WG/N9 以及由各个 RA 发布的材料，以确定本文件中哪些章节与特定提交类型、设备类型和审查所针对的辖区相关。例如，第 6.5.1 条规定了安全和性能的基本原则：“如果医疗器械将某种物质作为不可分割的一部分，并且如果该物质单独使用，可能被视为符合相关法规中定义的药品/药物，并且该物质可能对身体产生与医疗器械的辅助作用相同的作用”，但这并不总是适用。
 
-If the regulatory review report is being conducted for multiple RAs, the report should include all information relevant for all RAs for which the review is being conducted. The report should clearly indicate which elements apply to which jurisdiction. 
+如果监管审查报告是针对多个 RA 审查，则报告应包含所有与审查所针对的 RA 相关的全部信息。报告应明确指出哪些元素适用于哪些辖区。
 
-This guidance is not intended to describe the format or contents of documentation for surveillance activities conducted by a CAB (e.g., periodic sampling). However, individual CABs may find its contents useful for such reviews if consistent with the regulatory requirements of a given jurisdiction. 
+本指南并非旨在描述由CAB（例如，定期抽样）进行的监测活动所需的文件格式或内容。然而，单个CAB可能会发现其内容对此类审查有帮助，只要符合特定管辖区的法规要求。
 
-This guidance does not preclude any requirements for CABs to conduct and document their own assessments. Given variability in definitions and review practices across jurisdictions, this document does not establish a regulatory pathway or describe exactly what information should be reviewed for these types of products. CABs should contact an RA if there are questions about what contents are required for a specific submission. 
+本指南并不排除CAB进行和记录自身评估的任何要求。鉴于不同管辖区在定义和审查实践方面的差异，本文件不确立任何法规途径，也不明确说明应审查哪些信息，用于此类产品。如果对特定提交所需的内容有疑问，CAB应联系RA。
 
-In addition, submissions requesting approval to conduct clinical trials are out of scope for this document; refer to each specific regulator for guidance regarding approval to conduct clinical trials.
+此外，要求批准进行临床试验的提交超出了本文件的范围；请参考具体的监管机构，以获取有关批准进行临床试验的指导。
 
-# References
+# 参考文献
 
-  * IMDRF/GRRP WG/N40:2024 _Competence, Training, and Conduct Requirements for Regulatory Reviewers_
-  * IMDRF/GRRP WG/N47:2024 _Essential Principles of Safety and Performance of Medical Devices and IVD Medical Devices_
-  * IMDRF/Standards WG/N51:2018 _Optimizing Standards for Regulatory Use_
-  * IMDRF/GRRP WG/N52:2024 _Principles of Labeling for Medical Devices and IVD Medical Devices_
-  * IMDRF/GRRP WG/N59:2024 _Requirements for Medical Device Conformity Assessment Bodies for Regulatory Authority Recognition_
-  * IMDRF/GRRP WG/N61:2024 _Regulatory Authority Assessment Method for Recognition and Surveillance of Conformity Assessment Bodies Conducting Medical Device Regulatory Reviews_
-  * IMDRF/GRRP WG/N63:2024 _Competence and Training Requirements for Regulatory Authority Assessors of Conformity Assessment Bodies Conducting Medical Device Regulatory Reviews_
-  * IMDRF/GRRP WG/N66:2024 _Assessment and Decision Process for the Recognition of a Conformity Assessment Body Conducting Medical Device Regulatory Reviews_
-  * IMDRF/RPS WG/N9:2019 (Edition 3) _Non-In Vitro Diagnostic Device Market Authorization Table of Contents (nlVDMAToC)_
-  * ISO/IEC 17065:2012 _Conformity assessment — Requirements for bodies certifying products, processes, and services_
-  * GHTF/SG1/N055:2009 _Definition of the Terms Manufacturer, Authorized Representative, Distributor, and Importer_
+* IMDRF/GRRP WG/N40:2024 _监管审查人员的资质、培训和行为要求_
 
-# Definitions
+* IMDRF/GRRP WG/N47:2024 _医疗器械和体外诊断（IVD）医疗器械的安全和性能的基本原则_
 
-##  _Assessment_ : A systematic, independent, and documented process for obtaining assessment evidence and evaluating it objectively to determine the extent to which assessment criteria are fulfilled. (IMDRF/GRRP WG/N63:2024) 
+* IMDRF/Standards WG/N51:2018 _优化用于监管用途的标准_
 
-## _Assessor_ : An employee of a Regulatory Authority with the demonstrated personal attributes and competence to conduct an assessment of a Conformity Assessment Body. (IMDRF/GRRP WG/N61:2024)
+* IMDRF/GRRP WG/N52:2024 _医疗器械和体外诊断医疗器械的标签原则_
 
-## _Audit:_ Process for obtaining relevant information about an object of conformity assessment and evaluating it objectively to determine the extent to which specified requirements are fulfilled. (ISO 17000:2020)
+* IMDRF/GRRP WG/N59:2024 _用于获得监管机构认可的医疗器械合规性评估机构的要求_
 
-## NOTE: In this document, “audit” refers to an internally or externally activity performed by the CAB itself, and not to activities performed by non-Regulatory Authorities to determine a medical device manufacturer’s conformity with quality management system requirements or other medical device regulatory requirements. 
+* IMDRF/GRRP WG/N61:2024 _用于评估和监督进行医疗器械监管审查的合规性评估机构的监管机构评估方法_
 
-## _Clinical Evidence_ : The clinical data and the clinical evaluation report pertaining to a medical device. (GHTF/SG5/N1R8:2007)
+* IMDRF/GRRP WG/N63:2024 _用于评估进行医疗器械监管审查的合规性评估机构的监管机构评估人员的资质和培训要求_
 
-## _Conformity Assessment Body (CAB):_ A body other than a Regulatory Authority engaged in determining whether the relevant requirements in technical regulations or standards are fulfilled. (IMDRF/GRRP WG/N40:2024)
+* IMDRF/GRRP WG/N66:2024 _评估和决策流程：对进行医疗器械监管审查的符合性评估机构的认可_
 
-## _Contraindication_ : Labelling elements that describe situations, such as patient populations, medical reasons, or clinical conditions, in which the device should not be used because the risk of use clearly outweighs any possible benefit. (IMDRF/GRRP WG/N52:2024)
+* IMDRF/RPS WG/N9:2019 (第3版) _非体外诊断设备市场授权目录 (nlVDMAToC)_
 
-## _Effective_ : The ability of a medical device or IVD medical device to provide clinically significant results in a significant portion of the target population.
+* ISO/IEC 17065:2012 _符合性评估 — 针对对产品、流程和服务的认证机构的要求_
 
-## NOTE: This ability is assessed in situations where the medical device or IVD medical device is used for its intended uses and conditions of use and accompanied by adequate directions for use and warnings against unsafe use. (IMDRF/GRRP WG/N47:2024)
+* GHTF/SG1/N055:2009 _制造商、授权代表、分销商和进口商的定义_
 
-## _Expiry Date/Expiration Date_ : Upper limit of the time interval during which the safety and performance characteristics of a material stored under specified conditions can be assured. 
+# 定义
 
-## NOTE 1: This also applies to medical devices whose physical, chemical or functional properties are maintained during a specified and known period, such as for capital equipment.
+## _评估_：一项系统、独立且记录化的过程，用于获取评估证据并客观地评估，以确定评估标准是否得到满足。 (IMDRF/GRRP WG/N63:2024)
 
-## NOTE 2: Expiry dates are assigned to IVD reagents, calibrators, control materials and other components by the manufacturer, based on experimentally determined stability properties. 
+## _评估员_：监管机构的员工，具备进行符合性评估机构评估所需的个人素质和能力。(IMDRF/GRRP WG/N61:2024)
+
+## _审计：_ 获取与适用品性评估对象相关信息并客观评估的过程，以确定是否满足了规定的要求。（ISO 17000:2020）
+
+## 备注：在此文档中，“审计”是指由CAB（临床事务委员会）本身进行的内部或外部活动，而不是非监管机构为了确定医疗器械制造商是否符合质量管理体系要求或其他医疗器械监管要求而进行的活动。
+
+## _临床证据_：与医疗器械相关的临床数据和临床评估报告。（GHTF/SG5/N1R8:2007）
+
+## _符合性评估机构 (CAB)_：除了监管机构之外，负责确定是否符合相关技术法规或标准的机构。 (IMDRF/GRRP WG/N40:2024)
+
+## _禁忌症_：描述患者人群、医疗原因或临床状况等情况的标签元素，在这种情况下，不应使用该设备，因为使用该设备的风险明显大于任何可能的益处。（IMDRF/GRRP WG/N52:2024）
+
+## _有效性_：医疗器械或体外诊断（IVD）医疗器械在目标人群中提供临床显著结果的能力。
+
+## 备注：这种能力在医疗器械或IVD医疗器械用于其预期用途和使用条件下，并伴有充分的使用说明和有关不安全使用的警告时进行评估。（IMDRF/GRRP WG/N47:2024）
+
+## _有效期/失效日期_：在指定条件下储存的材料，其安全和性能特性可确保的时间间隔的上限。
+
+## 备注 1：这也适用于物理、化学或功能特性在指定且已知的期间内保持不变的医疗器械，例如资本设备。
+
+## 备注 2：制造商根据实验确定稳定性特性，为IVD试剂、校准器、控制材料和其他组件分配失效日期。
 
 ## (IMDRF/GRRP WG/N52:2024)
 
-## _Hazard_ : Potential source of harm. (ISO/IEC Guide 51:2014)
+## _危害_：潜在的危害来源。（ISO/IEC Guide 51:2014）
 
-## _Indications for Use_ : A general description of the disease or condition the medical device or IVD medical device will diagnose, treat, prevent, cure, or mitigate, including a description of the patient population for which the medical device or IVD medical device is intended. (IMDRF/GRRP WG/N52:2024)
+## _适应症_：医疗器械或体外诊断（IVD）医疗器械用于诊断、治疗、预防、治愈或减轻的疾病或病症的总体描述，包括医疗器械或IVD医疗器械所针对的患者人群的描述。（IMDRF/GRRP WG/N52:2024）
 
-## _Intended Use / Intended Purpose_ : The objective intent regarding the use of a product, process or service as reflected in the specifications, instructions and information provided by the manufacturer. 
+## _预期用途/预期目的_：产品、工艺或服务的预期用途，反映在制造商提供的规格、说明和信息中。
 
-## NOTE 1: The intended use/intended purpose are also part of promotional or sales materials or statements, although these materials lie outside the scope of this document.
+## 注意 1： 预期用途/预期目的也包含在宣传或销售材料或声明中，尽管这些材料不属于本文档的范围。
 
-## NOTE 2: The intended use can include the indications for use.
+## 注意 2： 预期用途可以包括使用说明。
 
-## (IMDRF/GRRP WG/N52:2024) 
+## (IMDRF/GRRP WG/N52:2024)
 
-## _Instructions for Use_ : General and technical information provided by the manufacturer to inform the user of the medical device or IVD medical device’s intended purpose and proper use and of any contraindications, warnings, or precautions to be taken. It is provided by the manufacturer to support and assist the device users in its safe and appropriate use. (GHTF/SG1/N70:2011) 
+## _使用说明_：制造商向用户提供的一般和技术信息，旨在告知用户医疗器械或IVD医疗器械的预期用途、正确使用方法以及任何禁忌症、警告或注意事项。制造商提供这些信息，以支持和协助用户安全、正确地使用该设备。（GHTF/SG1/N70:2011）
 
-## NOTE: Instructions for use can also be referred to as “package insert.”
+## 注意： 使用说明也可以被称为“包装说明”。
 
-##  _In Vitro Diagnostic (IVD) Medical Device_ : ‘In Vitro Diagnostic (IVD) medical device’ means a medical device, whether used alone or in combination, intended by the manufacturer for the in-vitro examination of specimens derived from the human body solely or principally to provide information for diagnostic, monitoring or compatibility purposes.
+## _体外诊断（IVD）医疗器械_： “体外诊断（IVD）医疗器械”是指，无论单独使用还是与其他器械组合使用，制造商为用于体外检查人体来源的标本，仅供或主要供用于提供诊断、监测或兼容性信息的医疗器械。
 
-## NOTE 1: IVD medical devices include reagents, calibrators, control materials, specimen receptacles, software, and related instruments or apparatus or other articles and are used, for example, for the following test purposes: diagnosis, aid to diagnosis, screening, monitoring, predisposition, prognosis, prediction, determination of physiological status. 
+## 注意 1： IVD医疗器械包括试剂、校准器、控制材料、样本容器、软件以及相关的仪器或设备或其他物品，并用于以下测试目的：诊断、辅助诊断、筛查、监测、预先诊断、预后、预测、确定生理状态。
 
-## NOTE 2: In some jurisdictions, certain IVD medical devices may be covered by other regulations.
+## 备注 2：在某些司法管辖区，某些体外诊断（IVD）医疗器械可能受到其他法规的覆盖。
 
 ## (GHTF/SG1/N71:2012)
 
-## _Label_ : Written, printed, or graphic information either appearing on the medical device itself, or on the packaging of each unit, or on the packaging of multiple devices. (GHTF/SG1/N70:2011) 
+## _标签_：指在医疗器械本身、每个单元的包装或多个器械的包装上出现的文字、印刷或图形信息。（GHTF/SG1/N70:2011）
 
-## NOTE: The definition above refers to the human readable label. 
+## 备注：上述定义指的是可读的标签。
 
-## _Labeling_ : The label, instructions for use, and any other information that is related to identification, technical description, intended purpose and proper use of the medical device, but excluding shipping documents. (GHTF/SG1/N70:2011) 
+## _标签_：包括标签、使用说明以及与医疗器械的识别、技术描述、预期用途和正确使用相关的任何其他信息，但不包括运输文件。（GHTF/SG1/N70:2011）
 
-## NOTE 1: Labelling can also be referred to as “information supplied by the manufacturer.”
+## 备注 1： “标签”也可以被称为“制造商提供的信息”。
 
-## NOTE 2: Labelling can be in printed or electronic format and may either physically accompany the medical device or direct the user to where the labelling information can be accessed (such as through a website), as permitted by regulatory jurisdiction.
+## 备注 2： “标签”可以是印刷或电子格式，并且可能与医疗器械一起，或者引导用户访问标签信息（例如，通过网站），如符合相关监管要求。
 
-## _Lay User_ : Individual who does not have formal training in a relevant field or discipline. 
+## _普通用户_：不具备相关领域或学科的正式培训的个人。
 
-## NOTE 1: Principles for lay person(s) may also apply to self-testing for an IVD medical device. 
+## 备注 1：对于体外诊断（IVD）医疗器械，对非专业人士的原则也可能适用于自测。
 
-## NOTE 2: For an IVD medical device for self-collection or self-testing, a self-collector or self-tester is considered a lay user.
+## 备注 2：对于用于自采集或自测的体外诊断（IVD）医疗器械，自采集者或自测者应被视为非专业用户。
 
 ## (IMDRF/GRRP WG/N52:2024)
 
-## _Manufacturer:_ “Manufacturer” means any natural or legal person[1] with responsibility for design and/or manufacture of a medical device with the intention of making the medical device available for use, under their name; whether such a medical device is designed and/or manufactured by that person themselves or on their behalf by another person(s). (Modified from GHTF/SG1/N055:2009)
+## _制造商：_“制造商”是指对医疗器械的设计和/或制造负责，并有意使该医疗器械供用于的任何自然人或法人[1]。无论该医疗器械是由该人自己设计和/或制造，还是由另一人（或多个人）代为设计和/或制造。 (改编自GHTF/SG1/N055:2009)
 
-## NOTE 1: This ‘natural or legal person’ has ultimate legal responsibility for ensuring compliance with all applicable regulatory requirements for the medical device in the countries or jurisdictions where it is intended to be made available or sold, unless this responsibility is specifically imposed on another person by the Regulatory Authority within that jurisdiction.
+## 备注 1： 这种“自然人或法人”对确保医疗器械在预期销售或销售的国家或辖区符合所有适用的监管要求，具有最终的法律责任，除非监管机构在该辖区明确地将此责任授予另一方。
 
-## NOTE 2: The manufacturer’s responsibilities are described in other GHTF and IMDRF guidance documents. These responsibilities include meeting regulatory requirements at various points during the product lifecycle, such as adverse event reporting and notification of corrective actions.
+## 备注 2： 制造商的责任在其他GHTF和IMDRF的指导文件中进行描述。 这些责任包括在产品生命周期的不同阶段满足监管要求，例如不良事件报告和采取纠正措施的通知。
 
-## NOTE 3: ‘Design and/or manufacture’, as referred to in the above definition, may include specification development, production, fabrication, assembly, processing, packaging, repackaging, labelling, relabelling, sterilization, installation, or remanufacturing of a medical device; or putting a collection of devices, and possibly other products, together for a medical purpose.
+## 3. 注意：上述定义中提到的“设计和/或制造”，可能包括医疗器械的规格开发、生产、制造、组装、加工、包装、重新包装、标签、重新贴标签、灭菌、安装或重新制造；或者将一组医疗器械（以及可能还有其他产品）组合在一起，用于医疗目的。
 
-## NOTE 4: Any person who assembles or adapts a medical device that has already been supplied by another person for an individual patient, in accordance with the instructions for use, is not the manufacturer, provided the assembly or adaptation does not change the intended use of the medical device.
+## 4. 注意：任何根据说明书，将另一人提供的医疗器械进行组装或适应的个人，不被视为制造商，只要这种组装或适应不改变医疗器械的预期用途。
 
-## NOTE 5: Any person who changes the intended use of, or modifies, a medical device without acting on behalf of the original manufacturer and who makes it available for use under his own name, should be considered the manufacturer of the modified medical device. 
+## 5. 注意：任何未经原始制造商授权，改变医疗器械用途或进行修改，并将其以自己的名义提供给他人使用的人，应被视为修改后的医疗器械的制造商。
 
-## NOTE 6: An authorized representative, distributor or importer who only adds its own address and contact details to the medical device or the packaging, without covering or changing the existing labelling, is not considered a manufacturer.
+## 6. 注意：只有在仅在医疗器械或包装上添加自己的地址和联系方式，且不更改现有标签的情况下，授权代表、分销商或进口商不被视为制造商。
 
-## NOTE 7: To the extent that an accessory is subject to the regulatory requirements of a medical device[2], the person responsible for the design and/or manufacture of that accessory is considered to be a manufacturer.
+## 7. 注意：如果一个附件符合医疗器械的监管要求[2]，那么负责该附件设计和/或制造的人，将被视为制造商。
 
-## _Medical device:_ Any instrument, apparatus, implement, machine, appliance, implant, reagent for in vitro use, software, material or other similar or related article, intended by the manufacturer to be used, alone or in combination, for human beings, for one or more of the specific medical purpose(s) of:
+## _医疗器械：_ 任何用于人类的、由制造商设计用于单独使用或与其他使用，以实现以下一个或多个特定医疗目的的，例如：
 
-## diagnosis, prevention, monitoring, treatment or alleviation of disease,
+## 诊断、预防、监测、治疗或缓解疾病，
 
-## diagnosis, monitoring, treatment, alleviation of, or compensation for, an injury,
+## 诊断、监测、治疗、缓解或补偿损伤，
 
-## investigation, replacement, modification, or support of the anatomy, or of a physiologi­cal process,
+## 调查、替代、修改或支持解剖结构或生理过程，
 
-## supporting or sustaining life,
+## 支持或维持生命，
 
-## control of conception,
+## 控制生育
 
-## cleaning, disinfection, or sterilization of medical devices,
+## 对医疗器械的清洁、消毒或灭菌，
 
-## providing information by means of in vitro examination of specimens derived from the human body; 
+## 通过对从人体中提取的标本的体外检查提供信息；
 
-## and does not achieve its primary intended action by pharmacological, immunological, or metabolic means, in or on the human body, but which may be assisted in its intended function by such means. 
+## 但不通过药理、免疫或代谢手段在人体内或上实现其主要预期作用，但可能通过这些手段辅助其预期功能。
 
-## NOTE 1: Products which may be considered to be medical devices in some jurisdictions but not in others include:
+## 备注 1：在某些司法管辖区可能被认为是医疗器械，但在其他司法管辖区则不被认为是医疗器械的产品包括：
 
-## disinfection substances,
+## 消毒剂，
 
-## aids for persons with disabilities,
+## 辅助残疾人士使用的设备，
 
-## devices incorporating animal and/or human tissues,
+## 包含动物和/或人体组织的产品，
 
-## devices for in-vitro fertilization or assisted reproduction technologies.
+## 用于体外受精或辅助生殖技术的设备。
 
-## (Modified from GHTF/SG1/N71:2012)
+## （改编自 GHTF/SG1/N71:2012）
 
-NOTE 2: For clarification purposes, in certain regulatory jurisdictions, devices for cosmetic/aesthetic purposes are also considered medical devices.
+注 2: 为了澄清目的，在某些监管辖区，用于美容/美学目的的设备也被认为是医疗器械。
 
-NOTE 3: For clarification purposes, in certain regulatory jurisdictions, the commerce of devices incorporating human tissues is not allowed.
+注 3: 为了澄清目的，在某些监管辖区，包含人体组织的设备的商业活动是被禁止的。
 
-## _Model_ : The name and/or number used to represent one medical device, or a family of medical devices to group many variations that have shared characteristics. (IMDRF/RPS WG/N19:2016)
+## _模型_：用于表示单个医疗器械或一组具有共享特征的许多变体的医疗器械或器械群的名称和/或编号。（IMDRF/RPS WG/N19:2016）
 
-## _Packaging_ : Product to be used for the containment, protection, handling, delivery, storage, transport and presentation of goods, from raw materials to processed goods, from the producer to the user or consumer, including processor, assembler or other intermediary. (ISO 21067-1:2016)
+## _包装_：用于包含、保护、处理、交付、储存、运输和展示商品，包括从原材料到加工商品的，以及从生产商到用户或消费者的，包括处理器、组装者或其他中间商。 (ISO 21067-1:2016)
 
-## _Patient_ : An individual under the care of a healthcare provider who may benefit from the action of a medical device. A patient may also be a user of a medical device. (IMDRF/GRRP WG/N52:2024)
+## _患者_：在医疗服务提供者照护下的人，可能从医疗器械的作用中获益。患者也可能是医疗器械的使用者。 (IMDRF/GRRP WG/N52:2024)
 
-## _Performance_ : The ability of a medical device to achieve its intended purpose as stated by the manufacturer. Performance may include both clinical and technical aspects. (IMDRF/GRRP WG/N52:2024)
+## _性能_：医疗器械实现制造商所声明的预期用途的能力。性能可能包括临床和技术方面。(IMDRF/GRRP WG/N52:2024)
 
-## _Precaution_ : Information regarding any special care users should exercise for the safe and effective use of the device or IVD device, or to avoid damage to the device or IVD medical device that could occur as a result of use, including misuse. (IMDRF/GRRP WG/N52:2024)
+## _预防措施_：关于用户应采取的特殊注意事项，以确保医疗器械或体外诊断（IVD）设备的安全有效使用，或避免因使用（包括误用）而可能损坏医疗器械或IVD医疗器械的信息。 (IMDRF/GRRP WG/N52:2024)
 
-## _Quality Management System_ : A QMS comprises activities by which the organization identifies its objectives and determines the processes and resources required to achieve desired results. The QMS manages the interacting processes and resources required to provide value and realize results for relevant interested parties. The QMS enables top management to optimize the use of resources considering the long and short term consequences of their decision. A QMS provides the means to identify actions to address intended and unintended consequences in providing products and services. (ISO 9000:2015, Clause 2.2) 
+## _质量管理体系_：质量管理体系包括组织识别其目标并确定实现所需结果的活动。质量管理体系管理与提供价值和实现结果的相关利益相关者的相互作用过程和资源。质量管理体系使高级管理人员能够优化资源的使用，同时考虑其决策的长期和短期后果。质量管理体系提供了一种方法，用于识别应对产品和服务提供中预期和意外后果的行动。(ISO 9000:2015, 第 2.2 条)
 
-## _Regulatory Authority:_ A government body or other entity that exercises a legal right to control the use or sale of medical devices within its jurisdiction, and that may take enforcement action to ensure that medical products marketed within its jurisdiction comply with legal requirements. (GHTF/SG1/N78:2012)
+## _监管机构：_ 政府机构或其他实体，拥有在其管辖范围内控制医疗器械使用或销售的法律权利，并有权采取执法行动，以确保在其管辖范围内销售的医疗产品符合法律要求。（GHTF/SG1/N78:2012）
 
-## _Regulatory Review:_ A review of a medical device that is conducted to assess conformity with regional regulations or standards. 
+## _监管审查:_ 对医疗器械进行的审查，旨在评估其是否符合区域法规或标准。
 
-## NOTE 1: A regulatory review is performed by Regulatory Reviewer(s), and on occasion, the Regulatory Authority and/or recognized Conformity Assessment Body may consult with Technical Expert(s) to assist in specific aspects of the regulatory review process. 
+## 备注 1：监管审查由监管审查人员进行，有时，监管机构和/或认可的评估符合性机构可能会咨询技术专家，以协助进行监管审查过程的特定方面。
 
-## NOTE 2: Depending on the complexity of the medical device, it may be necessary for a team of Regulatory Reviewer(s) and/or Technical Expert(s) to conduct the regulatory review to ensure all required competencies are addressed. 
+## 附注 2：根据医疗器械的复杂程度，可能需要由法规审查团队（包括法规审查员和/或技术专家）进行法规审查，以确保所有必要的技能得到满足。
 
-## NOTE 3: A regulatory review consists of an assessment of documentation and/or evaluation/testing of physical medical devices and includes the recommendation and associated decision-making processes. The scope of the review is dependent on the Regulatory Authority’s requirements.
+## 备注 3：监管审查包括对文档的评估和/或对物理医疗器械的评估/测试，并包括建议和相关的决策过程。审查的范围取决于监管机构的要求。
 
 ## (IMDRF/GRRP WG/N40:2024)
 
-## _Regulatory Review Report:_ the record developed by a CAB to document a regulatory review.
+## _监管审查报告_：由CAB（审核机构）编制的，用于记录监管审查的记录。
 
-## _Regulatory Reviewer:_ An individual from a recognized CAB responsible for routinely performing regulatory reviews of medical devices. This may include for example, premarket reviewers, product specialists, etc. (IMDRF/GRRP WG/N66:2024)
+## _监管审查员：_ 来自认可的CAB（临床试验协会）的个人，负责定期审查医疗器械。这可能包括预上市审查员、产品专家等。（IMDRF/GRRP WG/N66:2024）
 
-## _Risk_ : Combination of the probability of occurrence of harm and the severity of that harm. (ISO/IEC Guide 51:2014)
+## _风险：_ 伤害发生的概率与伤害的严重程度的结合。 (ISO/IEC Guide 51:2014)
 
-## _Safety_ : Freedom from unacceptable risk. (ISO/IEC Guide 51:2014)
+## _安全：_ 避免不可接受的风险。 (ISO/IEC Guide 51:2014)
 
-## _Shelf-Life_ : Period of time until the expiry date during which a medical device or IVD medical device in its original packaging maintains its stability under the storage conditions specified by the manufacturer. 
+## _保质期_：医疗器械或体外诊断（IVD）医疗器械在原包装中，在制造商规定的储存条件下，直至到期日，保持稳定性的时间。
 
-## NOTE: Stability and expiry date are related concepts
-
-## (IMDRF/GRRP WG/N52:2024)
-
-## _Single Use Device_ : A medical device or IVD medical device that is intended to be used on an individual patient during or for a single procedure and then disposed of. It is not intended to be reprocessed and used again. (IMDRF/GRRP WG/N52:2024)
-
-## _Stability_ : Ability of a medical device and IVD medical device to maintain its safety and performance characteristics within the manufacturer’s specifications over a specified period of time.
-
-## NOTE 1: Stability applies to
-
-## Sterile and non-sterile medical devices whose physical, chemical or functional properties may be altered or compromised over a stated time interval;
-
-## IVD reagents, calibrators and controls, when stored, transported and used in the conditions specified by the manufacturer,
-
-## Reconstituted lyophilized materials, working solutions and material removed from sealed containers, when prepared, used and stored according to the manufacturer’s instructions for use,
-
-## Measuring instruments or measuring systems after calibration.
-
-## NOTE 2: Stability of an IVD reagent or measuring system is normally quantified with respect to time and specified conditions
-
-## In terms of the duration of a time interval over which a measured property changes by a stated amount; or
-
-## In terms of the change of a property under specified conditions.
+## 备注：稳定性与有效期是相关的概念
 
 ## (IMDRF/GRRP WG/N52:2024)
 
-## _Unique Device Identifier (UDI):_ The UDI is a series of numeric or alphanumeric characters that is created through a globally accepted device identification and coding standard. It allows the unambiguous identification of a specific medical device on the market. The UDI is comprised of the UDI-DI and UDI-PI. (IMDRF/UDI WG/N7: 2013)
+## _一次性医疗器械：_ 医疗器械或体外诊断（IVD）医疗器械，旨在在一次手术期间或一次手术后，仅供单个患者使用，然后进行处置。不应重复使用。 (IMDRF/GRRP WG/N52:2024)
 
-## NOTE: The word "Unique" does not imply serialization of individual production units.
+## _稳定性_：医疗器械和体外诊断（IVD）医疗器械在制造商规定的时间内，保持其安全性和性能特性的能力。
 
-## _User_ : The person, professional or lay, who uses a medical device. The patient may be that user. (GHTF/SG1/N070:2011)
+## 备注 1：稳定性适用于
 
-## _Warning_ : Statement that alerts users about a situation that, if not avoided, could result in hazards or other serious adverse consequences from the use of a medical device or an IVD medical device. (Modified from ISO 18113-1:2022)
+## 具有物理、化学或功能性质可能在指定的时间间隔内发生改变或受损的无菌和非无菌医疗器械；
 
-# Medical Device Regulatory Review Report Contents
+## 当存储、运输和按照制造商的说明使用时，IVD试剂、校准器和控制；
 
-Guidance regarding content to include in the medical device regulatory review report are provided below. The headings mirror those of IMDRF/RPS WG/N9 for consistency between information included in the regulatory submission and documentation of the CAB’s review of that submission. The heading “Chapter 0” has been added for information not included in Chapters 1-6 of IMDRF/RPS WG/N9; that is, for information relevant to the medical device regulatory review report, but not expected to be included in the regulatory submission itself. Please note the following, which apply to all headings of the report:
+## 当按照制造商的使用说明准备、使用和存储时，复原的冷冻干燥材料、工作溶液和从密封容器中提取的材料；
 
-  * Documenting the CAB’s Evaluation
+## 经过校准的测量仪器或测量系统。
 
-As discussed in this document, the regulatory review report should include not only a summary of the information provided by the manufacturer regarding the topic, but also an assessment by the CAB of the acceptability of this information. 
+## 备注 2：IVD试剂或测量系统的稳定性通常与时间、指定条件相关
 
-This evaluation should: 
+## 按照测量属性在指定的时间间隔内发生改变的量；或
 
-  *     * Include references to the relevant (i.e., key) evidence submitted by the manufacturer that has been considered.
-    * Document the CAB’s final opinion on all information provided by the manufacturer related to the given topic. That is, any information provided by the manufacturer either within the initial submission or in response to interactions with the CAB should be included in the evaluation. 
-    * Provide a rationale for why the totality of information provided is or is not acceptable with respect to the following questions.
-      * Did the provided information demonstrate conformity with the applicable Essential Principles? 
-      * Were conclusions supported by the results/information presented?
-      * Are all issues (e.g., questions/concerns identified during the review that required interaction/communication with the manufacturer) addressed? 
-      * Is there any discrepancy within the manufacturer’s conclusions?
-    * Describe any nonconformities remaining at the end of review that prevent a positive recommendation from the CAB.
-    * Note any follow up items that the manufacturer has committed to conduct (e.g., product stability studies).
+## 在指定条件下，属性的变化。
 
-This evaluation should **not** include a detailed listing and history of all interactions with the manufacturer on a specific topic. Questions sent to the manufacturer by the CAB and responses (including data and corrective action plan(s)) provided by the manufacturer to address the CAB’s concerns should be either provided as an appendix of the report or maintained as a separate resource available to support the conclusions of the regulatory review. If interactions are maintained as a separate resource, the regulatory review report should include clear reference as to where the information can be found. 
+## (IMDRF/GRRP WG/N52:2024)
 
-  * Documenting When Topics Are Related to and Impact One Another 
+## _唯一设备标识 (UDI):_ UDI 是一系列数字或字母数字字符，它通过全球认可的设备识别和编码标准创建。它允许对市场上特定医疗设备进行明确识别。UDI 由 UDI-DI 和 UDI-PI 组成。 (IMDRF/UDI WG/N7: 2013)
 
-All of the information provided in a regulatory submission is inter-related and should be reviewed as such. Conclusions drawn when reviewing the information under one heading may impact the review and conclusions drawn when reviewing the information under other headings. For example, concerns with risk management may impact the adequacy of evidence (clinical and nonclinical) provided or the appropriateness of the proposed indications for use and labeling. The report should clearly indicate where one topic impacts another topic. The report should describe any linkage between the contents under different headings and the impact of conclusions drawn for one topic on the review of related topics. For example, the report should indicate how the evaluation of testing and labeling was informed by the extent to which testing and labeling were used as mitigations for specific risks. 
+## 注意： “唯一”一词并不意味着对单个生产单元的序列化。
 
-  * Determining Review Expectations 
+## _用户：_ 使用医疗设备的个人，可以是专业人士或普通人。患者可能就是用户。 (GHTF/SG1/N070:2011)
 
-Review expectations should be in line with the expectations of the jurisdiction for which the regulatory review is being conducted. Review expectations may depend on a number of factors including the following.
+## _警告：_ 声明，旨在告知用户，如果未避免，可能会导致使用医疗设备或体外诊断 (IVD) 医疗设备的情况下出现危险或其他严重不良后果。 (改编自 ISO 18113-1:2022)
 
-  *     * Risk classification of device type
+# 医疗设备监管审查报告内容
 
-Example: In some cases, a CAB may review the labeling components of a higher risk device in more detail compared to the review of the labeling components of a lower risk device.
+以下提供有关在医疗设备监管审查报告中应包含的内容的指导。标题与 IMDRF/RPS WG/N9 的标题保持一致，以确保提交的信息与 CAB 审查的文档之间的一致性。已添加“第 0 章”用于 IMDRF/RPS WG/N9 的第 1-6 章中未包含的信息；即，与医疗设备监管审查报告相关，但不太可能包含在监管提交本身中的信息。请注意以下内容，这些内容适用于报告的所有标题：
 
-  *     * Risks identified for the specific device
+* 记录 CAB 的评估
 
-Example: differences in device technology may require differences in review expectations even for devices with the same indications for use.
+如本文件中所述，监管审查报告应不仅包括制造商就该主题提供的信息的摘要，还应包括 CAB 对该信息的可接受性的评估。
 
-  *     * Novelty and complexity of the specific device
+该评估应：
 
-Example: review of novel and complex devices may include additional considerations of new features, changes to use conditions or procedures, and new technology. 
+*   * 包含制造商提交的相关（即关键）证据的引用，这些证据已得到考虑。
 
-  *     * Conformity assessment procedure applied by the manufacturer
+*   记录 CAB 对制造商提供的所有关于特定主题的信息的最终意见。也就是说，制造商在初始提交或与 CAB 互动过程中提供的任何信息都应包含在评估中。
 
-Example: different review expectations may be relevant based on the extent to which a manufacturer relies on conformity to standards or different types of evidence 
+*   提供一个理由，说明为什么提供的完整信息在以下问题中是可接受的，还是不可接受的。
 
-  *     * IMDRF jurisdiction for which the regulatory review is being conducted
+*   提供的信息是否证明符合适用的基本原则？
 
-Example: one RA may expect a review of all general quality management system procedures for high risk devices, while another may accept a specific type of certificate to indicate sufficient quality management system procedures. 
+* 结论是否得到了所呈现的结果/信息的支持？
 
-Prior to developing a regulatory review report, CABs are required to review materials published by individual RAs regarding the applicable review expectations (e.g., guidance and recognized standards). CABs should contact an RA if there are questions about review expectations during the review.
+* 是否已解决所有问题（例如，在审查过程中识别并需要与制造商进行互动/沟通的问题/担忧）？
 
-  * Use of “N/A”
+* 制造商的结论是否存在差异？
 
-“N/A” should not be used in the regulatory review report without an accompanying rationale. For example, a given heading may be “N/A” based on the type of device (e.g., a device that does not include software) or based on the jurisdictions for which the review is being conducted (e.g., detailed quality management procedures may not be required for 510(k) submissions to the U.S. FDA). In these cases, “N/A” may be included for a heading, but a rationale should also be provided as to why the heading is not applicable. 
+* 描述审查结束时仍然存在的任何不符合要求的情况，这些情况会阻止 CAB 做出积极建议。
 
-  * Screening Review
+* 记录制造商承诺进行的任何后续事项（例如，产品稳定性研究）。
 
-Section 7.3 of IMDRF/GRRP WG/N59 indicates that a CAB performs a screening review prior to evaluating the regulatory submission. This guidance does not differentiate between a screening review and an evaluation. Instead, this guidance includes all information a regulatory authority would expect to see from a CAB after a complete assessment of the regulatory submission (including both screening and evaluation). 
+本次评估**不应**包括对特定主题与制造商的所有互动情况的详细清单和历史记录。 CAB 向制造商发送的问题以及制造商提供的（包括数据和纠正措施计划）以解决 CAB 担忧的回复，应作为报告的附录提供，或作为单独的资源，以支持监管审查的结论。 如果将互动记录为单独的资源，监管审查报告应明确说明信息的位置。
 
-  * Accreditation of Testing Laboratories
+* 记录相关主题及其相互影响
 
-In some jurisdictions, the accreditation of the testing laboratory conducting the non-clinical study impacts the review of the study methods and results. Testing laboratory accreditation should be considered as appropriate for each jurisdiction.
+所有在监管提交中提供的信息是相互关联的，应作为整体进行审查。在审查某一章节的信息时得出的结论可能会影响对其他章节信息的审查和结论。例如，对风险管理的担忧可能会影响提供的临床和非临床证据的充分性，或所建议的使用和标签的适当性。报告应明确指出一个主题如何影响另一个主题。报告应描述不同章节内容之间的联系，以及对一个主题的结论对相关主题审查的影响。例如，报告应说明评估测试和标签的程度如何受到测试和标签作为特定风险缓解措施的影响。
 
-## Chapter 0 Regulatory Review
+* 确定审查期望
 
-### Information about the Conformity Assessment Body 
+审查期望应与监管审查所针对的管辖区的期望相符。审查期望可能取决于以下多种因素：
 
-The report should include:
+*     * 医疗器械的风险分类
 
-  * the name of the CAB 
-  * full address
-  * contact information
-  * any identification numbers relevant to the CAB performing the regulatory review
-  * aspects of the CAB’s scope of recognition that are relevant to the review conducted. The report should specifically confirm the CAB’s scope of recognition at the time of the regulatory review was consistent with the scope of the review conducted. 
+示例：在某些情况下，CAB可能会对较高风险医疗器械的标签组件进行更详细的审查，而不是对较低风险医疗器械的标签组件进行审查。
 
-### Scope of Regulatory Review
+*     * 针对特定医疗器械的风险
 
-The report should include a summary statement that specifically indicates the scope of regulatory review consistent with section 7.7.3(a) of IMDRF/GRRP WG/N59. At a minimum, the summary statement should include the device name, device type, manufacturer name, and jurisdictions for which the regulatory review is being conducted as well as indication of whether the regulatory submission is an initial submission or includes changes to a model of the device for which a regulatory review has already been conducted. If the regulatory submission includes many different models or configurations, the report should include a discussion as to whether the submission and its review outcome apply to some or all those included devices. For example, a clinical monitoring system might include a variety of features and configurations with differing levels of complexity and risk. The report should indicate with supporting rationale, which features and configurations are within the scope of the regulatory review.
+示例：设备技术上的差异可能需要即使在具有相同使用指示的情况下，也需要不同的审查期望。
 
-Information relevant to this heading of the report may be found in the following chapters of IMDRF/RPS WG/N9:
+*     * 特定医疗器械的创新性和复杂性
 
-  * 1.01 (“Cover Letter”)
-  * 1.04 (“Application Form/Administrative Information”)
-  * 1.05 (“Listing of Device(s)”)
-  * 2.02 (“General Summary of Submission”)
+示例：对创新和复杂医疗器械的审查可能包括对新功能、使用条件或程序的考虑，以及新技术。
 
-### Relevant Dates
+*   * 制造商采用的合规性评估程序
 
-The report should include the dates the regulatory submission was received by the CAB and the date the CAB completed their review.
+示例：制造商对标准的依赖程度或不同类型的证据的不同程度，可能会影响审查期望的差异。
 
-### Recommendation
+*   * 正在进行的监管审查的IMDRF管辖范围
 
-The report should include a recommendation as to whether, based on the review of provided documentation, the device conforms or does not conform to all applicable Essential Principles and other regulatory requirements. Section 7.7.3(b) of IMDRF/GRRP WG/N59, the recommendation should include clear identification of the subject medical device and its use. If certification is recommended and to be limited to a certain period of time, the report should recommend a validity or recertification period. 
+示例：一个RA可能要求对高风险设备的全部通用质量管理系统程序进行审查，而另一个RA可能只接受特定类型的证书来表明已充分实施质量管理系统程序。
 
-### Summary of Review
+在制定监管审查报告之前，CAB必须审查各个RA发布的关于适用审查期望（例如，指南和认可的标准）的材料。如果审查过程中有关于审查期望的问题，CAB应与RA联系。
 
-The report should include a high-level summary of the review including device name, indications for use, and highlights of the review. A detailed listing of the history of interactions with the manufacturer should not be included in the summary of review. As indicated in the introductory text of section 5 “Medical Device Regulatory Review Report Contents,” interactions between the manufacturer and the CAB should be either provided as an appendix to the report or maintained as a separate resource available to support the conclusions of the regulatory review. The report should also include, as indicated in section 7.7.3(c) of IMDRF/GRRP WG/N59, a discussion of the review criteria used to assess the regulatory submission. 
+*   使用“N/A”
 
-Comment should be provided regarding whether the Summary and Certifications for Premarket Submissions provided by the manufacturer are accurate and acceptable based on the requirements in Chapter 2.03 of IMDRF/RPS WG/N9. 
+“N/A”不应在监管审查报告中单独使用，而应附带理由。例如，某个标题可能是“N/A”，这可能基于设备类型（例如，不包含软件的设备）或基于正在进行的审查的管辖范围（例如，针对美国FDA的510(k)提交可能不需要详细的质量管理程序）。在这种情况下，可以包含“N/A”在标题中，但还应提供解释，说明为什么该标题不适用。
 
-### Review Team
+*   筛选审查
 
-The report should include a listing of the names, titles, roles, and qualifications of each individual who reviewed the file or provided signatory authority. 
+IMDRF/GRRP WG/N59第7.3部分指出，CAB在评估监管提交之前会进行筛选审查。此指导不区分筛选审查和评估。相反，此指导包括监管机构在对监管提交进行全面评估（包括筛选和评估）后，应从CAB处获得的全部信息。
 
-### External Consultations
+* 测试实验室的认可
 
-The report should identify any consultations obtained during regulatory review from external resources, as defined in Section 6.2 of IMDRF/GRRP WG/N59 and Section 6.2.4 of IMDRF/GRRP WG/N61. The report should clearly indicate the rationale for obtaining external consultation, the expertise of the external consultant, the information provided to and received from the external consultant, and how the external consultation impacted the overall regulatory review. For example, in the course of reviewing a product that incorporates both medical device component(s) and a medicinal/drug substance, a CAB may choose to obtain external consultation regarding the drug/medicinal substance in order to inform their review of the medical device component(s). 
+在某些司法管辖区，进行非临床研究的测试实验室的认可会影响研究方法和结果的审查。 应该根据每个司法管辖区的具体情况来评估测试实验室的认可。
 
-## Chapter 1 Regional Administrative 
+## 第 0 章 监管审查
 
-### Cover Letter
+### 关于符合性评估机构的信息
 
-#### Submission Type and Number
+报告应包括：
 
-The report should include relevant details from the cover letter including the type of regulatory submission submitted by the manufacturer. Refer to each specific regulator for applicable submission types. 
+* 符合性评估机构的名称
 
-If available, the report should also include the submission number for each identifying jurisdiction. This information may not be available at the time of the CAB review given that, in some jurisdictions, the CAB review precedes the review by the RA and, therefore, assignment of a submission number by the RA. In these cases, the identifying number, if any, assigned by the CAB itself for tracking purposes should be provided for reference. 
+* 完整地址
 
-Information relevant to this heading of the report may also be found in Chapter 1.04 (“Application Form/Administrative Information”) of IMDRF/RPS WG/N9.
+* 联系方式
 
-#### Device Classification and Identification Information 
+* 与执行监管审查的符合性评估机构相关的任何标识符
 
-The report should include the device classification and any associated device identifiers (e.g., unique device identifiers (UDI)) required for the applicable jurisdictions. Comment should be provided regarding the degree to which the information provided supports the proposed classification as indicated in section 7.4.2 of IMDRF/GRRP WG/N59. 
+* 符合性评估机构的认可范围，以及与所进行的审查相关的方面。 报告应明确确认，在监管审查期间，符合性评估机构的认可范围与所进行的审查范围一致。
 
-Information relevant to this heading of the report may also be found in Chapter 1.04 (“Application Form/Administrative Information”) of IMDRF/RPS WG/N9.
+### 监管审查范围
 
-#### Applicable Jurisdiction(s)
+报告应包含一个明确说明符合 IMDRF/GRRP WG/N59 第 7.7.3(a) 条的监管审查范围的总结陈述。 至少，总结陈述应包括设备名称、设备类型、制造商名称以及监管审查进行的管辖范围，以及指示监管提交是首次提交还是包含对已进行监管审查的设备型号的变更。 如果监管提交包含多个不同型号或配置，则报告应包含讨论，以确定该提交及其审查结果是否适用于其中一些或全部设备。 例如，一个临床监测系统可能包含各种功能和配置，具有不同的复杂性和风险水平。 报告应说明，并提供支持理由，哪些功能和配置属于监管审查的范围。
 
-The report should include the jurisdiction(s) for which the review is being conducted. 
+与本报告标题相关的信息可能在以下 IMDRF/RPS WG/N9 的章节中找到：
 
-### Submission Table of Contents
+* 1.01 (“申请信”)
 
-The report does not need to include the Table of Contents provided in the regulatory submission. 
+* 1.04 (“申请表/行政信息”)
 
-### List of Terms/Acronyms 
+* 1.05 (“设备清单”)
 
-The report does not need to include the list of terms/acronyms provided in the regulatory submission. However, the first time an acronym or term is used in the report, the definition should be provided. 
+* 2.02 (“提交摘要”)
 
-### Application Form/Administrative Information
+### 相关日期
 
-The report should include the name, full address, any identification numbers, and primary contact information for the applicant, manufacturer, authorized representative, etc. as required by the jurisdictions for which the regulatory review is being conducted. 
+该报告应包括监管提交的接收日期以及CAB完成审查的日期。
 
-### Listing of Devices 
+### 建议
 
-The report should list all devices included in the regulatory submission and subject of the review.
+该报告应包括一项建议，根据提供的文档审查，该设备是否符合所有适用的基本原则和其他监管要求。根据IMDRF/GRRP WG/N59第7.7.3(b)条，建议应明确指出所审查的医疗设备及其用途。如果建议进行认证，且该认证仅限于特定时间，则报告应建议认证或重新认证的有效期。
 
-### Quality Management System, Full Quality System or Other Regulatory Certificates 
+### 审查摘要
 
-The report should indicate whether the applicable quality management system, full quality system, or other regulatory certificates were provided and acceptable based on the jurisdictions for which the regulatory review is being conducted.
+该报告应包括审查的高级摘要，包括设备名称、用途和审查要点。审查摘要不应包括制造商与CAB之间互动历史的详细清单。如第5节“医疗器械监管审查报告内容”的介绍中所述，制造商与CAB之间的互动应要么作为报告的附录提供，要么作为单独的资源维护，以支持监管审查的结论。此外，该报告应包括，如IMDRF/GRRP WG/N59第7.7.3(c)条所述，对审查标准进行讨论，以评估监管提交。
 
-This heading of the report should also list the name(s), location(s), and scope(s) or role(s) of each manufacturing facility and/or supplier for the medical device, using the relevant information provided in the regulatory submission (i.e., Chapter 6 of IMDRF/RPS WG/N9). The report should also include a description of any relationship between facilities when there is more than one involved in the manufacturing process. Note that a manufacturing facility includes locations with responsibility for design and/or manufacture (as indicated in GHTF/SG1/N055:2009 (“ _Definition of the Terms Manufacturer, Authorized Representative, Distributor, and Importer”_)). 
+应就制造商提供的，关于预先提交的摘要和认证是否准确且符合第2.03章IMDRF/RPS WG/N9的要求进行评论。
 
-### Free Sale Certificate/Certificate of Marketing Authorization 
+### 审查团队
 
-The report should indicate whether and what free sale certificates/certificates of marketing authorization are available and from which regulatory jurisdiction(s). 
+这份报告应包括审查文件或提供签字权限的每位人员的姓名、职称、角色和资格。
 
-### Expedited Review Documentation 
+### 外部咨询
 
-The report should indicate whether expedited review has been requested and/or granted by the RA and what associated supporting documentation was included. 
+这份报告应识别在监管审查过程中从外部资源获得的任何咨询，如 IMDRF/GRRP WG/N59 第 6.2 节和 IMDRF/GRRP WG/N61 第 6.2.4 节中所定义的。该报告应清楚地说明获得外部咨询的理由、外部顾问的专业知识、向外部顾问提供的和从外部顾问收到的信息，以及外部咨询对整体监管审查的影响。例如，在审查同时包含医疗器械组件和药物/药品物质的产品时，一个CAB可能会选择就药物/药品物质进行外部咨询，以便为医疗器械组件的审查提供信息。
 
-### User Fees 
+## 第一章 区域行政
 
-User fee documentation under this heading refers to user fees paid to the RA, not the CAB. Therefore, this review of information under this heading is conducted by the RA, not by the CAB. 
+### 封面信
 
-### Pre-Submission Correspondence and Previous Regulator Interactions
+#### 提交类型和编号
 
-The report should include how previous regulator interactions informed the review of the regulatory submission. This includes both a summary of previous interactions and the impact on review considerations (e.g., if specific testing is expected for a particular jurisdiction based on feedback previously provided by that RA).
+这份报告应包含来自封面信的相关信息，包括制造商提交的监管提交类型。请参考每个具体的监管机构，以了解适用的提交类型。
 
-### Acceptance for Review Checklist
+如果可用，这份报告还应包含每个管辖区的提交编号。由于在某些管辖区，CAB的审查可能在RA的审查之前，因此，RA可能尚未分配提交编号。在这种情况下，如果CAB本身为了跟踪目的分配了任何标识号，应提供以便参考。
 
-The report should indicate what acceptance for review checklist information was provided in the regulatory submission, whether the information was acceptable, and how the information impacted the review conducted. 
+[术语表 - 在这些术语出现时，请使用这些确切的翻译:]
+  差距分析 -> Gap Analysis
+  test_zh -> test_en
 
-### Statements/Certifications/Declarations of Conformity 
+本报告的这一部分相关信息，也可能在 IMDRF/RPS WG/N9 的第 1.04 章 (“申请表/行政信息”) 中找到。
 
-The report should indicate what statements, certifications, declarations of conformity were provided in the regulatory submission, whether the information was acceptable, and how the information impacted the review conducted. 
+#### 医疗器械分类和识别信息
 
-### Letters of Reference
+本报告应包含医疗器械的分类以及任何相关的医疗器械标识符（例如，唯一的医疗器械标识符 (UDI)），这些标识符适用于相关管辖区。 应该提供关于信息是否支持根据 IMDRF/GRRP WG/N59 第 7.4.2 条所提出的分类的意见。
 
-The report should include reference to any applications related to the subject regulatory submission (e.g., regional document references (e.g., Master Files) or predicate device applications). Any evaluation in the remainder of the report should clearly indicate if comments and information are provided relative to the regulatory submission or a referenced application and, if so, which referenced application. In addition, review of any referenced application is limited to the scope of the letter of reference provided by the manufacturer. 
+[术语表 - 在这些术语出现时，请使用这些确切的翻译:]
+  差距分析 -> Gap Analysis
+  test_zh -> test_en
 
-### Letters of Authorization
+本报告的这一部分相关信息，也可能在 IMDRF/RPS WG/N9 的第 1.04 章 (“申请表/行政信息”) 中找到。
 
-The report should indicate whether the applicable letters of authorization were provided based on the jurisdictions for which the regulatory review is being conducted. 
+#### 适用的管辖区
 
-###  Other Regional Administrative Information 
+本报告应包含正在进行的审查适用的管辖区。
 
-The report should include an evaluation of any other relevant administrative information provided in the regulatory submission.
+### 提交表格目录
 
-## Chapter 2 Submission Context
+本报告不需要包含提交的表格目录。
 
-### Chapter Table of Contents 
+### 术语/缩写列表
 
-The report does not need to include the Chapter Table of Contents provided in the regulatory submission. 
+本报告不需要包含提交的术语/缩写列表。 但是，首次在报告中使用缩写或术语时，应提供定义。
 
-### General Summary of Submission
+### 申请表/行政信息
 
-Information from this chapter of the regulatory submission, along with analysis of its acceptability and review conclusions, should be incorporated into the Scope and Summary of Regulatory Review in Chapter 0. 
+本报告应包含申请人、制造商、授权代表等的名称、完整地址、任何标识号以及根据正在进行的监管审查适用的管辖区的主要联系信息。
 
-### Summary and Certifications for Premarket Submissions 
+### 医疗器械清单
 
-The report should indicate whether the applicable summary and certifications for premarket submissions were provided and acceptable based on the jurisdictions for which the regulatory review is being conducted. 
+本报告应列出提交的以及审查对象的所有医疗器械。
 
-### Device Description
+### 质量管理系统、完整质量系统或其它监管证书
 
-The report should include a summary description of the device, its principles of operation, packaging, history of development, and reference and comparison to similar and/or previous generations of device. 
+这份报告应表明，是否提供了并符合要求的质量管理体系、完整质量体系或其它监管证书，以及这些证书是否适用于进行监管审查的辖区。
 
-### Indications for Use, Intended Use, and Contraindications
+本报告的标题还应列出医疗器械的每个生产设施和/或供应商的名称（们）、地点（们）和范围（们）或角色（们），并使用监管提交中相关的信息（即 IMDRF/RPS WG/N9 的第 6 章）。 报告还应包括描述，如果涉及多个设施，则描述它们之间的关系。 请注意，一个生产设施包括负责设计和/或制造的地点（如 GHTF/SG1/N055:2009 (“制造商、授权代表、分销商和进口商的定义”）中所述）。
 
-The report should include the indications for use, intended use, intended use environment, intended patient population, intended users, and any contraindications for use. As indicated in section 7.4.3 of IMDRF/GRRP WG/N59, the CAB should ensure that the regulatory submission supports the proposed intended use of the medical device.
+### 销售许可证/营销授权证书
 
-### Global Market History
+这份报告应表明，是否以及从哪个监管辖区获得了销售许可证/营销授权证书。
 
-The report should include the global market history of the device including where the device is currently marketed and the experience in those region(s) (e.g., any incidents and/or recalls). Distinction should be made between information provided by the manufacturer and obtained by CAB reviewer(s) during research of relevant regulator databases. Relevant regulatory databases should be consulted based on the jurisdiction for which the regulatory review is being conducted.
+### 加速审查文件
 
-Comment should be provided regarding whether the global market history raises any specific concerns for the regulatory review (e.g., previous recalls may result in need to ascertain whether specific failure modes have been mitigated).
+这份报告应表明，是否已要求并/或已获得加速审查，以及相关的支持文件是什么。
 
-### Other Submission Context Information 
+### 用户费用
 
-The report should include an evaluation of any other submission context information provided in the regulatory submission.
+本标题下的用户费用文件是指向监管机构支付的用户费用，而不是向 CAB 支付的费用。 因此，对本标题信息的审查由监管机构进行，而不是 CAB 进行。
 
-## Chapter 3 Non-Clinical Evidence
+### 提交前书函和之前的监管机构互动
 
-### Chapter Table of Contents 
+这份报告应包括先前与监管机构的互动如何影响了提交文件的审查。这包括先前互动的摘要以及对审查考虑的影响（例如，如果根据先前由该RA提供的反馈，特定辖区需要进行特定测试）。
 
-The report does not need to include the Chapter Table of Contents provided in the regulatory submission. 
+### 审查申请清单
 
-### Risk Management
+这份报告应说明在提交文件中提供了哪些审查申请清单信息，该信息是否可接受，以及该信息如何影响了审查。
 
-The report should include an evaluation of the acceptability of the manufacturer’s risk management approach including an evaluation of whether the risk management plan was appropriate, whether all expected risks were appropriately identified and mitigated, and whether the approach is consistent with relevant Essential Principles (see Appendix A) and regulatory requirements. As indicated in section 7.4.4 of IMDRF/GRRP WG/N59, the results of an audit conducted as part of a certification scheme should be considered when the CAB conducts its review of the regulatory submission. 
+### 符合性声明/认证/声明
 
-Comment should be provided regarding whether the review of the risk management activities raises any specific concerns for the regulatory review (e.g., risks mitigated with non-clinical studies require evaluation of the specific methods and results of those studies). 
+这份报告应说明在提交文件中提供了哪些符合性声明、认证、声明，该信息是否可接受，以及该信息如何影响了审查。
 
-###  Essential Principles (EP) Checklist 
+### 推荐信
 
-As indicated in section 7.7.2 of IMDRF/GRRP WG/N59, the CAB should review the regulatory submission with respect to the requirements of the relevant regulatory authority. To document this review, the report should include an evaluation of the acceptability of the manufacturer’s identification of applicable Essential Principles and regulatory requirements as well as the methods used to demonstrate conformity to each. Specific attention should be paid to any Essential Principle or regulatory requirement deemed not applicable by the manufacturer. 
+这份报告应包含与该监管提交相关的任何申请的参考（例如，区域文件引用（例如，主文件）或先导设备申请）。报告的其余部分应明确说明，如果提供的评论和信息与监管提交或参考申请相关，如果是，则说明是哪个参考申请。此外，对任何参考申请的审查仅限于制造商提供的推荐信的范围。
 
-Comment should be provided as to whether the review of the Essential Principles and regulatory requirements raises any specific concerns for the regulatory review (e.g., methods used to demonstrate conformity for each Essential Principle may indicate need for particular review of specific evidence included in the regulatory submission).
+### 授权信
 
-###  Standards (and Guidance)
+这份报告应表明，是否已根据进行监管审查的辖区，提供了相关的授权文件。
 
-Standards and guidance are valuable resources in determining whether appropriate activities have been conducted and whether or not the evidence provided demonstrates conformity to the relevant Essential Principles and regulatory requirements. RAs may provide information on the standards recognized and may, themselves, publish guidance. If available, this information should be consulted and considered during review of information in the regulatory submission. 
+### 其他区域行政信息
 
-The report should indicate the standards and guidance documents used by the manufacturer to develop their regulatory submission. The report should indicate whether the standards are recognized by the RA for which the regulatory review is being conducted and should also include the CAB’s evaluation of whether all appropriate guidance documents and standards were identified and used by the manufacturer in order to address the applicable regulatory requirements. 
+这份报告应包括对监管提交中提供的任何其他相关行政信息的评估。
 
-###  Non-clinical Studies 
+## 第 2 章 提交背景
 
-Physical and Mechanical Characterization
+### 第 2 章 目录
 
-The report should include an evaluation of the evidence to support physical and mechanical characterization including whether or not the information provided demonstrates conformity with the relevant Essential Principles (see Appendix A) and regulatory requirements. 
+这份报告不需要包含监管提交中提供的目录。
 
-####  Chemical/Material Characterization
+### 提交的总体概述
 
-The report should include an evaluation of the evidence to support chemical/material characterization including whether or not the information provided demonstrates conformity with the relevant Essential Principles (see Appendix A) and regulatory requirements. 
+这份报告应包含来自监管提交的该章节的信息，以及对其可接受性和审查结论的分析，并将其纳入第 0 章的《监管审查范围和摘要》。
 
-####  Electrical Systems: Safety, Mechanical, and Environmental Protection and Electromagnetic Compatibility
+### 预上市提交的摘要和认证
 
-The report should include an evaluation of the evidence to support electrical systems including whether or not the information provided demonstrates conformity with the relevant Essential Principles (see Appendix A) and regulatory requirements.
+这份报告应表明，是否已提供并符合，预上市提交的相应摘要和认证，基于进行监管审查的辖区。
 
-Note that review of testing to support Magnetic Resonance (MR) conditional labeling and safety during anticipated conditions of use should be included under this heading of the report. This includes evaluation of
+### 医疗器械描述
 
-  * Magnetically induced displacement force
-  * Magnetically induced torque
-  * Extent of imaging artifacts
-  * Radiofrequency (RF)-induced heating or heating induced by time-varying magnetic field gradients
-  * Gradient-induced vibration
-  * Gradient-induced extrinsic electrical potential
-  * Rectification of RF pulses from MR exams
+这份报告应包括医疗器械的摘要描述、其工作原理、包装、开发历史以及与类似或/和先前一代医疗器械的参考和比较。
 
-####  Radiation Safety
+### 适应症、预期用途和禁忌
 
-The report should include an evaluation of the studies to support radiation safety including whether or not the information provided demonstrates conformity with the relevant Essential Principles (see Appendix A) and regulatory requirements. 
+这份报告应包括适应症、预期用途、预期用途环境、预期患者人群、预期使用者以及任何使用禁忌。 按照 IMDRF/GRRP WG/N59 第 7.4.3 节的要求，CAB 应确保监管提交支持医疗器械的拟议预期用途。
 
-####  Software/Firmware
+### 全球市场历史
 
-The report should include an evaluation of the information provided to support the use of any software/firmware including whether or not the information demonstrates conformity with the relevant Essential Principles (see Appendix A) and regulatory requirements. Review of the software/firmware includes evaluation of the following topics. Chapter references relative to IMDRF/RPS WG/N9 are provided.
+这份报告应包括该设备的全球市场历史，包括该设备目前在哪些市场销售以及在该市场（例如，任何事故和/或召回）中的经验。应将制造商提供的信息与CAB审查员在调查相关监管数据库时获取的信息区分开来。应根据审查的监管范围，查阅相关的监管数据库。
 
-  * Software/firmware description (Chapter 3.05.05.01),
-  * Hazard analysis (Chapter 3.05.05.02),
-  * Software requirement specification (Chapter 3.05.05.03),
-  * Architecture design chart (Chapter 3.05.05.04),
-  * Software design specification (Chapter 3.05.05.05),
-  * Traceability analysis (Chapter 3.05.05.06),
-  * Software development environment description (Chapter 3.05.05.07),
-  * Software verification and validation (Chapter 3.05.05.08),
-  * Revision level history (Chapter 3.05.05.09),
-  * Unresolved anomalies (bugs or defects) (Chapter 3.05.05.10),
-  * Cybersecurity (Chapter 3.05.05.11), and
-  * Interoperability (Chapter 3.05.05.12).
+应提供关于全球市场历史是否对监管审查提出任何具体问题（例如，之前的召回可能需要确定特定失效模式是否已得到缓解）的评论。
 
-####  Biocompatibility and Toxicology Evaluation
+### 其他提交背景信息
 
-The report should include an evaluation of the evidence to support biocompatibility and evaluate toxicology including whether or not the information provided demonstrates conformity with the relevant Essential Principles (see Appendix A) and regulatory requirements. 
+这份报告应包括对监管提交中提供的其他提交背景信息的评估。
 
-####  Non-Material-Mediated Pyrogenicity
+## 第3章 非临床证据
 
-The report should include an evaluation of the evidence to support pyrogenicity evaluation, such as endotoxin levels, including whether or not the information provided demonstrates conformity with the relevant Essential Principles (see Appendix A) and regulatory requirements. 
+### 第 2 章 目录
 
-####  Safety of Materials of Biological Origin
+这份报告不需要包含监管提交中提供的目录。
 
-The report should include an evaluation of the evaluations performed to demonstrate the safety of materials of biological origin. This includes evaluation of whether or not the information provided demonstrates conformity with the relevant Essential Principles (see Appendix A) and regulatory requirements. 
+### 风险管理
 
-####  Sterilization Validation
+这份报告应包括对制造商风险管理方法的评估，包括评估风险管理计划是否适当、是否已适当识别和缓解所有预期风险，以及该方法是否符合相关基本原则（见附录A）和监管要求。如IMDRF/GRRP WG/N59第7.4.4节所述，在CAB进行监管提交审查时，应考虑作为认证计划的一部分进行的审计结果。
 
-The report should include an evaluation of the evidence supporting sterility of the device including whether or not the information provided demonstrates conformity with the relevant Essential Principles (see Appendix A) and regulatory requirements. The review of sterilization validation includes evaluation of the following topics. Chapter references relative to IMDRF/RPS WG/N9 are provided.
+应提供关于审查风险管理活动是否对监管审查提出任何具体问题（例如，通过非临床研究缓解的风险需要评估这些研究的具体方法和结果）的评论。
 
-  * End-user sterilization (Chapter 3.05.09.01), 
-  * Manufacturer sterilization validation (Chapter 3.05.09.02), 
-  * Residual toxicity (Chapter 3.05.09.03), 
-  * Cleaning and disinfection validation (Chapter 3.05.09.04), and
-  * Reprocessing of single use devices, validation data (Chapter 3.05.09.05).
+### 关键原则（EP）检查清单
 
-#### Animal Testing
+如第 7.7.2 节所述，CAB 应根据相关监管机构的要求，审查提交的监管文件。为了记录审查，报告应包括对制造商识别的适用关键原则和监管要求，以及用于证明符合每项原则的方法的评估。应特别关注制造商认为不适用的任何关键原则或监管要求。
 
-The report should include an evaluation of the animal testing including whether or not the studies demonstrate conformity with the relevant Essential Principles (see Appendix A) and regulatory requirements. 
+应说明审查关键原则和监管要求是否引起了对监管审查的特定担忧（例如，用于证明符合每项关键原则的方法可能表明需要对监管文件中包含的特定证据进行特别审查）。
 
-#### Usability/Human Factors
+### 标准（和指导）
 
-The report should include an evaluation of the studies assessing the instructions and/or device design relevant to the intended user in terms of impact of human behavior, abilities, limitations, and other characteristics on the ability of the device to perform as intended including whether or not the information provided demonstrates conformity with the relevant Essential Principles (see Appendix A) and regulatory requirements. 
+标准和指导是确定是否已进行适当活动以及提供的证据是否符合相关关键原则和监管要求的宝贵资源。监管机构可以提供认可的标准，并且本身也可以发布指导。如果可用，应在审查监管文件中提供的信息时进行咨询和考虑。
 
-###  Non-clinical Bibliography
+本报告应说明制造商用于制定其监管提交所需的标准和指导文件。本报告应说明该标准是否被用于进行监管审查的RA所认可，并且还应包括CAB对制造商是否已识别并使用所有适当的指导文件和标准，以满足适用的监管要求进行评估。
 
-The report should include a summary of the sources included in the non-clinical bibliography. This includes an evaluation of whether or not the sources provide information that demonstrates conformity with the relevant Essential Principles (see Appendix A) and regulatory requirements. 
+### 非临床研究
 
-###  Expiration Period and Packaging Validation
+物理和机械特性
 
-The report should include an evaluation of the expiration period/shelf life and packaging validation studies including whether or not the results demonstrate conformity with the relevant Essential Principles (see Appendix A) and regulatory requirements. The review of expiration period and packaging validation includes evaluation of the following topics. Chapter references relative to IMDRF/RPS WG/N9 are provided.
+本报告应包括对支持物理和机械特性的证据的评估，包括信息是否符合相关基本原则（见附录A）和监管要求。
 
-  * Product stability (Chapter 3.07.01), and
-  * Packaging validation (Chapter 3.07.02).
+#### 化学/材料特性
 
-###  Other Non-clinical Evidence 
+本报告应包括对支持化学/材料特性的证据的评估，包括信息是否符合相关基本原则（见附录A）和监管要求。
 
-The report should include an evaluation of any other non-clinical evidence provided in the regulatory submission.
+#### 电气系统：安全、机械和环境保护以及电磁兼容性
 
-## Chapter 4 Clinical Evidence
+本报告应包括对电气系统的证据的评估，包括信息是否符合相关基本原则（见附录A）和监管要求。
 
-### Chapter Table of Contents 
+请注意，对支持磁共振（MR）条件标签和预期使用条件下安全性的测试应在本报告的这一部分中进行。这包括对以下内容的评估：
 
-The report does not need to include the Chapter Table of Contents provided in the regulatory submission. 
+* 由磁场引起的位移力
 
-### Overall Clinical Evidence Summary 
+* 由磁场引起的扭矩
 
-The report should include a summary and evaluation of the clinical evidence provided to demonstrate conformity with the relevant Essential Principles (see Appendix A) and regulatory requirements. This includes any clinical studies (pre- and/or post-market) conducted by the manufacturer and/or results of a literature review. In the case of a literature review, the report should include an evaluation of the relevance of the papers reviewed and the extent to which the products referenced are comparable to the device in question.
+* 影像伪影的程度
 
-Comment should be provided on whether the clinical evidence provided is supportive of the device and indications for use subject in the regulatory submission as well as the qualifications of any persons involved in clinical evidence evaluation. 
+* 由射频（RF）引起的加热或由随时间变化的磁场梯度引起的加热
 
-### Informed Consent Information
+* 梯度引起的振动
 
-The report should indicate whether informed consent forms or any other information related to informed consent of patients was provided and acceptable based on the requirements in the jurisdiction for which the regulatory review is being conducted. 
+* 梯度引起的外部电势
 
-### Investigators Sites and Investigational Review Board (IRB) Contact Information
+* 从MRI检查中提取的射频脉冲的整流
 
-The report should indicate whether investigator sites and IRB contact information were provided and acceptable based on the requirements in the jurisdiction for which the regulatory review is being conducted. 
+#### 辐射安全
 
-### Other Clinical Evidence 
+报告应包括对支持辐射安全的实验的评估，包括是否提供的信息符合相关基本原则（见附录 A）和法规要求。
 
-The report should include an evaluation of any other clinical evidence provided in the regulatory submission.
+#### 软件/固件
 
-## Chapter 5 Labeling and Promotional Material 
+报告应包括对提供的信息的评估，以支持任何软件/固件的使用，包括是否提供的信息符合相关基本原则（见附录 A）和法规要求。 软件/固件的审查包括对以下主题的评估。 附有与 IMDRF/RPS WG/N9 相关的章节参考。
 
-In addition to the regulatory requirements of a given jurisdiction, information regarding expectations for labeling may be found not only in IMDRF/GRRP WG/N47, but also the separate IMDRF/GRRP WG/N52 (_Principles of Labeling for Medical Devices and IVD Medical_ Devices). 
+* 软件/固件描述 (第 3.05.05.01 章),
 
-Specific attention should be paid to whether all product labeling (packaging, IFU, etc) is consistent with information (e.g., the methods and results from the non-clinical and clinical evidence) provided in the regulatory submission. Advertising and promotional materials may be considered elements of labeling in some jurisdictions, but, consistent with IMDRF/GRRP WG/N52, they are outside the scope of this document. Instead, the headings below align with the chapter headings within IMDRF/RPS WG/N9.
+* 危害分析 (第 3.05.05.02 章),
 
-Individual jurisdictions may have their own regulations or requirements regarding other labeling elements or advertising and promotional materials. If necessary, this heading of the report can also be used to discuss any observations related to jurisdiction-specific regulations or requirements involving other labeling elements or advertising and promotional materials.
+* 软件需求规格说明 (第 3.05.05.03 章),
 
-### Chapter Table of Contents 
+* 架构设计图 (第 3.05.05.04 章),
 
-The report does not need to include the Chapter Table of Contents provided in the regulatory submission. 
+* 软件设计规格说明 (第 3.05.05.05 章),
 
-### Product/Package Labels
+* 可追溯性分析 (第 3.05.05.06 章),
 
-The report should include a description of the product/package labels materials provided by the manufacturer and an evaluation of whether they are in conformance with the relevant Essential Principles (see Appendix A) and regulatory requirements. 
+* 软件开发环境描述 (第 3.05.05.07 章),
 
-### Package Insert/Instructions for Use
+* 软件验证和确认 (第 3.05.05.08 章),
 
-The report should include a description of the package insert/instructions for use provided by the manufacturer and an evaluation of whether they are in conformance with the relevant Essential Principles (see Appendix A) and regulatory requirements. 
+* 版本级别历史 (第 3.05.05.09 章),
 
-### E-Labeling 
+* 未解决的异常 (错误或缺陷) (第 3.05.05.10 章),
 
-The report should include a description of the e-labeling provided by the manufacturer and an evaluation of whether its format, availability, and change management are in conformance with regulatory requirements. 
+* 网络安全 (第 3.05.05.11 章), 以及
 
-### Physician Labeling
+* 互操作性 (第 3.05.05.12 章).
 
-The report should include a description of the physician labeling provided by the manufacturer and an evaluation of whether it is in conformance with the relevant Essential Principles (see Appendix A) and regulatory requirements. 
+#### 生物相容性和毒理学评估
 
-### Patient Labeling
+该报告应包括对支持生物相容性的证据的评估，并评估毒理学，包括是否提供的信息符合相关基本原则（见附录 A）和法规要求。
 
-The report should include a description of the patient labeling provided by the manufacturer and an evaluation of whether it is in conformance with the relevant Essential Principles (see Appendix A) and regulatory requirements. Specific attention should be paid to whether the materials can be easily comprehended and correctly used by the user (see Section 3.05.11), particularly for devices intended to be used by lay users and not physicians. 
+#### 非介质诱导的蛋白质释放
 
-### Technical and/or Operators Manual 
+该报告应包括对支持蛋白质释放评估的证据的评估，例如内毒素水平，包括是否提供的信息符合相关基本原则（见附录 A）和法规要求。
 
-The report should include a description of the technical and/or operators manual provided by the manufacturer and an evaluation of whether it is in conformance with the relevant Essential Principles (see Appendix A) and regulatory requirements. 
+#### 生物来源材料的安全性
 
-### Patient File Stickers/Cards and Implant Registration Cards
+这份报告应包括对已进行的评估的评估，以证明生物材料的安全性。这包括评估提供的信息是否符合相关的基本原则（见附录 A）和法规要求。
 
-The report should include a description of the patient file stickers/cards and implant registration cards provided by the manufacturer and an evaluation of whether they are in conformance with the relevant Essential Principles (see Appendix A) and regulatory requirements.
+#### 灭菌验证
 
-###  Product Brochures
+这份报告应包括对支持设备灭菌的证据的评估，包括提供的信息是否符合相关的基本原则（见附录 A）和法规要求。灭菌验证的审查包括对以下主题的评估。提供了与 IMDRF/RPS WG/N9 相关的章节参考。
 
-The report should include a description of the product brochures provided by the manufacturer and an evaluation of whether they are in conformance with the relevant Essential Principles (see Appendix A) and regulatory requirements. Specific attention should be paid to whether the materials can be easily comprehended and correctly used by the user (see Section 3.05.11), particularly for devices intended to be used by lay users and not physicians, and as to whether the claims are consistent with the indications for use and information provided in the regulatory submission.
+* 最终用户灭菌（第 3.05.09.01 章），
 
-### 5.10 Other Labeling 
+* 制造商灭菌验证（第 3.05.09.02 章），
 
-The report should include an evaluation of any other labeling provided in the regulatory submission.
+* 残留毒性（第 3.05.09.03 章），
 
-## Chapter 6A Quality Management System Procedures and Chapter 6B Quality Management System Device Specific Information
+* 清洁和消毒验证（第 3.05.09.04 章），以及
 
-The report should include a summary and evaluation of quality management system procedures and device specific information provided in the regulatory submission including whether the procedures and information conform to relevant Essential Principles (see Appendix A) and regulatory requirements. At a minimum, the report should include a summary of overall manufacturing methods as well as a listing of the addresses and contact information as well as roles of all sites where the device or its components are manufactured. The report should include an evaluation of whether the information provided is acceptable or raises any concerns regarding other aspects of the regulatory review. 
+* 单次使用设备的可重复使用，验证数据（第 3.05.09.05 章）。
 
-As indicated in IMDRF/GRRP WG/N59:
+#### 动物实验
 
-  * Section 7.4.4: “If the CAB conducted an audit or receives the results of an audit as part of the marketing certification scheme, the CAB shall ensure that the audit results support the marketing submission.”
-  * Section 7.5.1: “If the relevant Regulatory Authority requires QMS/GMP certification prior to marketing and an audit was not part of the CAB’s evaluation, the CAB shall ensure that the manufacturer holds appropriate QMS/GMP certification relevant to the medical device under review.”
+这份报告应包括对动物实验的评估，包括提供的研究是否符合相关的基本原则（见附录 A）和法规要求。
 
-# Appendix A - Mapping of Regulatory Review Report Headings to the Essential Principles of Safety and Performance
+#### 可用性/人机工程学
 
-The below table indicates which Essential Principles of Safety and Performance as established in IMDRF/GRRP WG/N47 are primarily reviewed under which headings of the regulatory review report. 
+这份报告应包括对评估与预期用户相关的说明和/或设备设计的研究的评估，包括评估人类行为、能力、限制和其他特征对设备能够按照预期方式运行的影响，以及提供的信息是否符合相关的基本原则（见附录 A）和法规要求。
 
-This list is not all inclusive in that Essential Principles may be evaluated within more than one heading. For brevity, only the primary Essential Principles are listed. For example, a discussion of whether or not conformity has been demonstrated relative to Essential Principle 5.1.5 regarding elimination or reduction of risks related to use may be reviewed and discussed within any or all of the below headings of the regulatory review report:
+###  非临床文献综述
 
-  * Risk Management (Chapter 3.02)
-  * Essential Principles Checklist (Chapter 3.03)
-  * Standards (Chapter 3.04)
-  * Animal Testing (Chapter 3.05.10)
-  * Usability/Human Factors (Chapter 3.05.11)
-  * Overall Clinical Evidence Summary (Chapter 4.02)
-  * Labeling and Promotional Material (Chapter 5)
+本报告应包含对纳入非临床文献综述的来源的摘要。这包括评估这些来源是否提供信息，以证明符合相关的基本原则（见附录 A）和法规要求。
 
-The table, however, only lists Essential Principle 5.1.5 as being primarily reviewed within Risk Management (Chapter 3.02). Where no primary heading could be identified for review of an Essential Principles, the Essential Principle is listed as being reviewed in all headings (i.e., by reviewing the totality of data provided by the manufacturer).
+###  有效期和包装验证
 
-Regulatory Review Report Heading| | Essential Principle   
----|---|---  
-All - Totality of Review| | 5.1.1 5.1.65.1.95.5.15.5.25.5.55.5.85.9.16.1.2 6.5.1  
-Chapter 0 Regulatory Review| | None  
-Chapter 1 Regional Administrative | | None  
-Chapter 2 Submission Context | | None  
-Chapter 3 Non-Clinical Evidence | |   
-3.01 Chapter Table of Contents| None  
-3.02 Risk Management| 5.1.25.1.35.1.45.1.55.5.45.5.65.7.16.3.1  
-3.03 Essential Principles (EP) Checklist | All  
-3.04 Standards (and Guidance)| All  
-3.05 Non-clinical Studies| Refer to specific subheading  
-3.05.01 Physical and Mechanical Characterization| 5.3.15.3.4  
-3.05.02 Chemical/Material Characterization| 5.3.1  
-3.05.03 Electrical Systems: Safety, Mechanical, and Environmental Protection and Electromagnetic Compatibility| 5.3.15.5.35.6.15.6.25.6.35.6.45.6.55.7.25.7.35.7.45.7.55.7.65.7.7  
-3.05.04 Radiation Safety| 5.11.15.11.25.11.35.11.45.11.55.11.66.2.16.2.2  
-3.05.05 Software/Firmware| 5.8.15.8.25.8.35.8.45.8.5  
-3.05.06 Biocompatibility and Toxicology Evaluation| 5.3.15.3.25.3.36.1.16.1.3  
-3.05.07 Non-Material-Mediated Pyrogenicity| 5.3.15.3.25.3.3  
-3.05.08 Safety of Materials of Biological Origin| 5.13.15.13.25.13.3  
-3.05.09 Sterilization Validation| 5.1.75.4.15.4.25.4.35.4.45.4.55.4.6  
-3.05.10 Animal Testing| Depends upon objectives of animal testing  
-3.05.11 Usability/Human Factors| 5.3.55.5.75.12.15.12.25.12.36.3.26.4.16.4.2  
-3.06 Non-clinical Bibliography| Depends upon contents of sources  
-3.07 Expiration Period and Package Validation| 5.1.75.1.85.4.25.4.35.4.45.4.55.4.6  
-3.08 Other Non-clinical Evidence| Depends upon information provided  
-Chapter 4 Clinical Evidence| |   
-4.01 Chapter Table of Contents| None  
-4.02 Overall Clinical Evidence| 5.2.15.2.2  
-4.03 Informed Consent Information| 5.2.15.2.2  
-4.04 Investigator Sites and IRB Contact Information| 5.2.15.2.2  
-4.05 Other Clinical Evidence| Depends upon information provided  
-Chapter 5 Labeling and Promotional Material| |   
-5.01 Chapter Table of Contents| None  
-5.02 Product/Package Labels| 5.4.75.10.1  
-5.03 Package Insert/Instructions for Use| 5.1.45.4.75.10.1  
-5.04 E-Labeling| 5.1.45.4.75.10.1  
-5.05 Physician Labeling| 5.1.45.4.75.10.1  
-5.06 Patient Labeling| 5.1.45.4.75.10.1  
-5.07 Technical/Operator Manual| 5.1.45.4.75.10.1  
-5.08 Patient File Stickers/Cards and Implant Registration Cards| 5.4.75.10.1  
-5.09 Product Brochures| 5.4.75.10.1  
-5.10 Other Labeling | Depends upon information provided   
-Chapter 6A Quality Management System Procedures and Chapter 6B Quality Management System Device Specific Information| All| 4.0  
+本报告应包含对有效期/保质期的评估以及包装验证研究，包括这些结果是否符合相关的基本原则（见附录 A）和法规要求。对有效期和包装验证的审查包括以下内容的评估。与 IMDRF/RPS WG/N9 相关章节的参考信息已提供。
 
-Disclaimer
+* 产品稳定性（第 3.07.01 章），以及
 
-© Copyright 2024 by the International Medical Device Regulators Forum. 
+* 包装验证（第 3.07.02 章）。
 
-This work is copyright. Subject to these Terms and Conditions, you may download, display, print, translate, modify and reproduce the whole or part of this work for your own personal use, for research, for educational purposes or, if you are part of an organisation, for internal use within your organisation, but only if you or your organisation do not use the reproduction for any commercial purpose and retain all disclaimer notices as part of that reproduction. If you use any part of this work, you must include the following acknowledgement (delete inapplicable): 
+###  其他非临床证据
 
-“[Translated or adapted] from [insert name of publication], [year of publication], International Medical Device Regulators Forum, used with the permission of the International Medical Device Regulators Forum. The International Medical Device Regulators Forum is not responsible for the content or accuracy of this [adaption/translation].” 
+本报告应包含对提交的任何其他非临床证据的评估。
 
-All other rights are reserved, and you are not allowed to reproduce the whole or any part of this work in any way (electronic or otherwise) without first being given specific written permission from IMDRF to do so. Requests and inquiries concerning reproduction and rights are to be sent to the IMDRF Secretariat. 
+## 第 4 章 临床证据
 
-Incorporation of this document, in part or in whole, into another document, or its translation into languages other than English, does not convey or represent an endorsement of any kind by the IMDRF
+### 第 2 章 目录
 
-Please visit our website for more details.
+这份报告不需要包含监管提交中提供的目录。
+
+### 总体临床证据摘要
+
+本报告应包含对提供的临床证据的摘要和评估，以证明符合相关的基本原则（见附录 A）和法规要求。这包括制造商进行的任何临床研究（上市前和/或上市后）以及文献综述的结果。在文献综述的情况下，本报告应包含对审查的论文的相关性和产品是否与所讨论的设备可比性的评估。
+
+应说明提供的临床证据是否支持提交的设备和使用说明，以及参与临床证据评估的任何人的资质。
+
+### 知情同意信息
+
+报告应说明是否提供了知情同意表或其他与患者知情同意相关的信息，以及这些信息是否符合所进行监管审查的管辖区的要求。
+
+### 试验地点和伦理审查委员会（IRB）联系信息
+
+报告应说明是否提供了试验地点和伦理审查委员会（IRB）的联系信息，以及这些信息是否符合所进行监管审查的管辖区的要求。
+
+### 其他临床证据
+
+报告应包括对提交的任何其他临床证据的评估。
+
+## 第5章 标签和宣传材料
+
+除了特定管辖区的法规要求外，关于标签要求的相关信息不仅可以在 IMDRF/GRRP WG/N47 中找到，还可以找到单独的 IMDRF/GRRP WG/N52 (_医疗器械和体外诊断医疗器械的标签原则_)。
+
+应特别关注，产品标签（包括包装、说明书等）是否与提交的监管文件中提供的信息（例如，非临床和临床证据的方法和结果）保持一致。在某些管辖区，广告和宣传材料可能被视为标签的一部分，但，与 IMDRF/GRRP WG/N52 保持一致，它们不属于本文的范围。相反，下面的标题与 IMDRF/RPS WG/N9 中的章节标题保持一致。
+
+各个管辖区可能拥有关于其他标签元素或广告和宣传材料的自身法规或要求。如果需要，本报告的这一部分还可以用于讨论与特定管辖区的法规或要求相关，这些法规或要求涉及其他标签元素或广告和宣传材料的任何观察结果。
+
+### 第 2 章 目录
+
+这份报告不需要包含监管提交中提供的目录。
+
+### 产品/包装标签
+
+本报告应包括制造商提供的产品/包装标签的描述，以及对其是否符合相关基本原则（见附录 A）和法规要求的评估。
+
+### 包装说明书/使用说明
+
+本报告应包括制造商提供的包装说明书/使用说明的描述，以及对其是否符合相关基本原则（见附录 A）和法规要求的评估。
+
+### 电子标签
+
+本报告应包括制造商提供的电子标签的描述，以及对其格式、可用性和变更管理是否符合监管要求进行评估。
+
+### 医生标签
+
+本报告应包括制造商提供的医生标签的描述，以及对其是否符合相关基本原则（见附录 A）和监管要求进行评估。
+
+### 患者标签
+
+本报告应包括制造商提供的患者标签的描述，以及对其是否符合相关基本原则（见附录 A）和监管要求进行评估。 尤其应关注材料是否易于用户理解和正确使用（见第 3.05.11 节），特别是对于不为医生使用，而是为普通用户设计的设备。
+
+### 技术和/或操作手册
+
+本报告应包括制造商提供的技术和/或操作手册的描述，以及对其是否符合相关基本原则（见附录 A）和监管要求进行评估。
+
+### 患者档案贴纸/卡和植入注册卡
+
+本报告应包括制造商提供的患者档案贴纸/卡和植入注册卡的描述，以及对其是否符合相关基本原则（见附录 A）和监管要求进行评估。
+
+### 产品宣传册
+
+这份报告应包括制造商提供的产品宣传册的描述，以及对这些宣传册是否符合相关基本原则（见附录 A）和法规要求的评估。特别应关注材料是否易于用户理解和正确使用（见第 3.05.11 节），尤其对于旨在供非医生用户使用的设备，以及声明是否与使用说明和提交的法规信息一致。
+
+### 5.10 其他标签
+
+这份报告应包括对提交的任何其他标签的评估。
+
+## 第 6A 章质量管理体系程序和第 6B 章质量管理体系设备特定信息
+
+这份报告应包括对提交的质量管理体系程序和设备特定信息以及是否符合相关基本原则（见附录 A）和法规要求的总结和评估。至少，这份报告应包括整体制造方法的总结，以及所有制造设备或其组件的地点和联系信息以及所有地点的作用。这份报告应评估提交的信息是否可接受，或者是否引起了对其他法规审查方面的任何担忧。
+
+如 IMDRF/GRRP WG/N59 所示：
+
+* 第 7.4.4 节：“如果 CAB 进行了审计或收到审计结果作为营销认证计划的一部分，CAB 应确保审计结果支持营销申请。”
+
+* 第 7.5.1 节：“如果相关监管机构要求在上市前必须获得 QMS/GMP 认证，并且审计未作为 CAB 的评估的一部分，则 CAB 必须确保制造商持有与正在审查的医疗器械相关的适当的 QMS/GMP 认证。”
+
+附录 A - 监管审查报告标题与安全和性能基本原则的对应关系
+
+下表指示了 IMDRF/GRRP WG/N47 确定的安全和性能基本原则，主要在监管审查报告的哪些标题下进行审查。
+
+此列表并非详尽无遗，因为基本原则可能在多个标题中进行评估。为了简洁起见，仅列出了主要的基本原则。例如，关于是否已证明符合基本原则 5.1.5（与使用相关的风险消除或降低）的讨论，可以审查和讨论在监管审查报告的以下任何或所有标题中：
+
+* 风险管理（第 3.02 章）
+
+* 基本原则检查表（第 3.03 章）
+
+* 标准（第 3.04 章）
+
+* 动物试验（第 3.05.10 章）
+
+* 可用性/人机工程学（第 3.05.11 章）
+
+* 总体临床证据摘要（第 4.02 章）
+
+* 标签和宣传材料（第 5 章）
+
+然而，该表仅列出了基本原则 5.1.5 主要在风险管理（第 3.02 章）中进行审查。如果无法识别用于审查基本原则的任何主要标题，则基本原则将列出在所有标题中进行审查（即，通过审查制造商提供的全部数据）。
+
+法规审查报告标题 | | 关键原则
+---|---|---
+所有 - 审查的全部内容 | | 5.1.1 5.1.6 5.1.9 5.5.1 5.5.2 5.5.3 5.5.4 5.5.5 5.5.6 5.7.1 6.5.1
+第 0 章法规审查 | | 无
+第 1 章区域管理 | | 无
+第 2 章提交背景 | | 无
+第 3 章非临床证据 | |
+3.01 第 3 章目录 | 无
+3.02 风险管理 | 5.1.2 5.1.3 5.1.4 5.1.5 5.5.4 5.5.6 5.7.1
+3.03 关键原则 (EP) 检查表 | 所有
+3.04 标准 (和指南) | 所有
+3.05 非临床研究 | 参见具体子标题
+3.05.01 物理和机械特性 | 5.3.1 5.3.2
+3.05.02 化学/材料特性 | 5.3.1
+3.05.03 电子系统：安全、机械和环境保护以及电磁兼容性 | 5.3.1 5.5.3 5.6.1 5.6.2 5.6.3 5.6.4 5.6.5 5.7.2 5.7.3 5.7.4 5.7.5 5.7.6 5.7.7
+3.05.04 辐射安全 | 5.11.1 5.11.2 5.11.3 5.11.4 5.11.5 5.11.6 6.2.1 6.2.2
+3.05.05 软件/固件 | 5.8.1 5.8.2 5.8.3 5.8.4 5.8.5
+3.05.06 生物相容性和毒理学评估 | 5.
+
+免责声明
+
+© 2024 年 国际医疗器械监管论坛 版权所有。
+
+本作品受版权保护。在遵守本条款和条件的前提下，您可以下载、显示、打印、翻译、修改和复制本作品的全部或部分内容，用于您个人的使用、研究、教育目的，或如果贵组织是组织，则用于贵组织的内部使用，但前提是您或贵组织不得将复制用于任何商业目的，并且保留所有版权声明。如果您使用本作品的任何部分，必须包含以下声明（删除不适用的内容）：
+
+“[翻译或改编]自[插入出版物名称]，[出版年份]，国际医疗器械监管论坛，经国际医疗器械监管论坛授权使用。国际医疗器械监管论坛不对本[改编/翻译]的内容或准确性负责。”
+
+除上述内容外，所有权利均保留，未经国际医疗器械监管论坛（IMDRF）事先书面许可，不得以任何方式（包括电子方式）复制或使用本材料的全部或任何部分。有关复制和权利的请求和咨询应发送给 IMDRF 秘书处。
+
+将本文件（部分或全部）纳入其他文件，或将其翻译成其他语言，均不代表 IMDRF 认可或赞同。
+
+请访问我们的网站以获取更多详细信息。
 
 [www.imdrf.org](<http://www.imdrf.org/>)
 
-  1. The term “person” that appears here and in the other definitions of this document, includes legal entities such as a corporation, a partnership or an association. ↑
+1. 在本文件及其他定义中出现的“人”一词，包括法人实体，如公司、合伙企业或协会。 ↑
 
-  2. See GHTF/SG1/N29 _Information Document Concerning the Definition of the Term “Medical Device”_ ↑
+2. 参见 GHTF/SG1/N29 _关于“医疗器械”术语定义的文档_ ↑
 
 
 <!-- fulltext-end -->

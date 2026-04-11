@@ -10,13 +10,17 @@ title: Requirements for Medical Device Auditing Organizations for Regulatory Aut
 [https://www.imdrf.org/documents/requirements-medical-device-auditing-organizations-regulatory-authority-recognition](https://www.imdrf.org/documents/requirements-medical-device-auditing-organizations-regulatory-authority-recognition)
 :::
 
+::: info
+This content has been machine-translated from the English original.
+:::
+
 <!-- fulltext-start -->
 
 ---
 
 ## 全文
 
-# Requirements for Medical Device Auditing Organizations for Regulatory Authority Recognition
+# 医疗器械审计机构的监管机构认可要求
 
 **Document Number**: IMDRF/MDSAP WG/N3FINAL:2016 (Edition 2)
 
@@ -24,667 +28,666 @@ title: Requirements for Medical Device Auditing Organizations for Regulatory Aut
 
 ---
 
-**IMDRF/MDSAP WG/N3 FINAL:2016**
+**IMDRF/MDSAP WG/N3 最终版：2016**
 
-**(Edition 2)**
+**(第2版)**
 
-**Final Document**
+**最终文档**
 
-**International Medical Device Regulators Forum**
+**国际医疗器械监管论坛**
 
-**Title:** Requirements for Medical Device Auditing Organizations for Regulatory Authority Recognition
+**标题：** 医疗器械审计机构的监管机构认可要求
 
-**Authoring Group:** IMDRF MDSAP Working Group
+**编写组：** IMDRF MDSAP 工作组
 
-**Date:** 24 March 2016
+**日期：** 2016年3月24日
 
-**Fabio Pereira Quintino,** IMDRF Chair
+**Fabio Pereira Quintino，** IMDRF主席
 
-This document was produced by the International Medical Device Regulators Forum. There are no restrictions on the reproduction or use of this document; however, incorporation of this document, in part or in whole, into another document, or its translation into languages other than English, does not convey or represent an endorsement of any kind by the International Medical Device Regulators Forum.
+本文件由国际医疗器械监管论坛制作。对本文件的复制或使用没有限制；然而，将本文件（部分或全部）纳入其他文件，或将其翻译成其他语言，并不代表国际医疗器械监管论坛的认可。
 
-Copyright © 2016 by the International Medical Device Regulators Forum
+© 2016年 国际医疗器械监管论坛
 
-**Contents**
+**目录**
 
-1.0 Scope 5
+1.0 范围 5
 
-2.0 Reference(s) 7
+2.0 参考资料 7
 
-3.0 Definitions 7
+3.0 定义 7
 
-4.0 Principles 8
+4.0 原则 8
 
-5.0 General requirements 8
+5.0 总体要求 8
 
-6.0 Structural requirements 12
+6.0 结构性要求 12
 
-7.0 Resource requirements 13
+7.0 资源要求 13
 
-8.0 Information requirements 16
+8.0 信息要求 16
 
-9.0 Process requirements 18
+9.0 流程要求 18
 
-10.0 Management system requirements for Auditing Organizations 24
+10.0 审计机构的管理系统要求 24
 
-11.0 Revoking Recognition of an Auditing Organization 24
+11.0 撤销审计机构的认可 24
 
-Annex A – Differences between IMDRF/MDSAP WG/N3:2016 and IMDRF/MDSAP WG/N3:2013 26
+附录 A – IMDRF/MDSAP WG/N3:2016 与 IMDRF/MDSAP WG/N3:2013 的差异 26
 
-#### Preface
+#### 序言
 
-The document herein was produced by the International Medical Device Regulators Forum (IMDRF), a voluntary group of medical device regulators from around the world. 
+本文件由国际医疗器械监管论坛 (IMDRF) 制作，IMDRF 是一群来自世界各地的医疗器械监管机构的自愿组织。
 
-There are no restrictions on the reproduction, distribution or use of this document; however, incorporation of this document, in part or in whole, into any other document, or its translation into languages other than English, does not convey or represent an endorsement of any kind by the International Medical Device Regulators Forum.
+本文件不受任何限制，可以复制、分发或使用；但是，将本文件（或其任何部分）包含在其他文件中，或将其翻译成其他语言，并不代表国际医疗器械监管论坛的任何形式认可。
 
-**Introduction**
+**引言**
 
-Requirements for Medical Device Auditing Organizations for Regulatory Authority Recognition,” originally finalized in 2013, is being republished as IMDRF/MDSAP WG/N3FINAL:2016 (Edition 2). Edition 2 was necessary after revisions were made in ISO/IEC 17021-1:2015 which replaced ISO/IEC 17021-1:2011 normative requirements in N3 Final:2013. The editorial revisions made to this edition can largely be categorized as: (1) re-organization of clauses and revision to some clause titles to align with ISO/IEC 17021-1:2015; (2) deletion of the original MDSAP provision where Auditing Organization that are Regulatory Authorities did not have to engage a separate committee for safeguarding impartiality since the requirement for such a committee has been eliminated in ISO/IEC 17021-1:2015; and, (3) a new exception in clause 9.5 is added to restore the requirement in the original IMDRF MDSAP N3:2013 document due to changes in ISO/IEC 17021-1:2015 requirements, this exception will also ensure consistency with the IMDRF Informational Document IMDRF/MDSAP WG/N29 Final:2015. Annex A has been added to this edition to detail the specific change.
+“医疗器械审计机构的审核要求，原版于2013年最终定稿，现以IMDRF/MDSAP WG/N3FINAL:2016（第2版）的形式重新发布。第2版是在对ISO/IEC 17021-1:2015进行修订后产生的，该修订取代了N3 Final:2013中ISO/IEC 17021-1:2011的规范性要求。对本版进行编辑修订，主要可以归纳为：(1)对条款进行重新组织，并对部分条款标题进行修订，以符合ISO/IEC 17021-1:2015的要求；(2)删除原版MDSAP规定的内容，即，如果审核机构是监管机构，则无需设立独立的委员会以确保公正性，因为ISO/IEC 17021-1:2015已取消对该委员会的要求；以及(3)在第9.5条中新增一个例外，以恢复在原版IMDRF MDSAP N3:2013文件中规定的要求，这是由于ISO/IEC 17021-1:2015的要求发生了变化。该例外条款也将确保与IMDRF信息文件IMDRF/MDSAP WG/N29 Final:2015保持一致。本版新增了附录A，以详细说明具体的变更。
 
-This is one document in a collection of documents produced by the International Medical Device Regulators Forum (IMDRF) intended to implement the concept of a Medical Device Single Audit Program (MDSAP). Two documents, this document IMDRF MDSAP WG N3 – “Requirements for Medical Device Auditing Organizations for Regulatory Authority Recognition” and IMDRF MDSAP WG N4 – “Competence and Training Requirements for Auditing Organizations,” are complementary documents. These two documents N3 and N4 are focused on requirements for an Auditing Organization and individuals performing regulatory audits and other related functions under the respective medical device legislation, regulations, and procedures required in its regulatory jurisdiction.
+这是一份由国际医疗器械监管论坛（IMDRF）制定的多份文件中，旨在实施医疗器械单一审计计划（MDSAP）概念的文件之一。 这份文件（IMDRF MDSAP WG N3 – “监管机构认可的医疗器械审计组织的要求”）和另一份文件（IMDRF MDSAP WG N4 – “审计组织的能力和培训要求”）是互补文件。 这两份文件 N3 和 N4 侧重于审计组织及其在各自的医疗器械法规、规章和程序中，进行监管审计和其他相关功能的个人，所需要满足的要求。
 
-Two additional documents, IMDRF MDSAP WG N5 – “Regulatory Authority Assessment Method for the Recognition and Monitoring of Medical Device Auditing Organizations” and IMDRF MDSAP WG N6 - “Regulatory Authority Assessor Competence and Training Requirements,” are complementary documents. These two documents N5 and N6 are focused on how Regulatory Authorities and their assessors will evaluate or “assess” medical device Auditing Organizations’ compliance to the requirements in the IMDRF MDSAP N3 and N4 documents.
+IMDRF MDSAP WG N5 – “医疗器械审计机构的认可和监测方法”和 IMDRF MDSAP WG N6 – “监管机构评估员的资质和培训要求”是互补文件。这两个文件 N5 和 N6 侧重于监管机构及其评估员如何评估或“评估”医疗器械审计机构是否符合 IMDRF MDSAP N3 和 N4 文件中规定的要求。
 
-In addition, IMDRF MDSAP WG N11 defines a method to “grade” nonconformities resulting from a Regulatory Authority assessment of an Auditing Organization and to document the decision process for recognizing an Auditing Organization or revoking recognition. 
+此外，IMDRF MDSAP WG N11 确定了一种方法，用于“评估”监管机构对审计机构进行的评估中产生的不符合情况，并记录认可或撤销审计机构的决策过程。
 
-This collection of IMDRF MDSAP documents will provide the fundamental building blocks by providing a common set of requirements to be utilized by the Regulatory Authorities for the recognition and monitoring of entities that perform regulatory audits and other related functions. It should be noted that in some jurisdictions the recognition process is called designation, notification, registration, or accreditation. IMDRF developed MDSAP to encourage and support global convergence of regulatory systems, where possible. It seeks to strike a balance between the responsibilities of Regulatory Authorities to safeguard the health of their citizens as well as their obligations to avoid placing unnecessary burdens upon Auditing Organizations or the regulated industry. IMDRF Regulatory Authorities may add additional requirements beyond this document when their legislation requires such additions.
+这些 IMDRF MDSAP 文档将提供基本构建模块，为监管机构提供一套共同的要求，用于认可和监测执行监管审计和其他相关职能的实体。需要注意的是，在某些司法管辖区，认可过程被称为指定、通知、注册或认证。IMDRF 旨在鼓励和支持全球监管体系的整合，并在可能的情况下，寻求在监管机构保障其公民健康以及避免对审计机构或受监管行业造成不必要的负担之间取得平衡。IMDRF 监管机构在他们的法律要求的情况下，可以添加超出此文件的额外要求。
 
-The purpose of this document is to define the requirements for medical device Auditing Organizations performing regulatory audits and other related functions. Both the audit process and the conclusions made by an Auditing Organization are subject to further review by the applicable Regulatory Authority in the countries and regions where the medical device is manufactured and/or placed on the market.
+本文件的目的是定义医疗器械审计机构进行监管审计和其他相关职能的要求。审计过程以及审计机构得出的结论，均需由相关监管机构在医疗器械的生产和/或上市国家和地区进行进一步审查。
 
-# Scope
+# 范围
 
-In the past, various Regulatory Authorities have identified shortcomings in the standards being utilized for the recognition of organizations that conduct medical device audits for regulatory purposes. These standards were considered to be too generic and focused on commercial entities for commercial purposes. However, many organizations that work in the regulated environment of medical devices must comply with these generic requirements for other purposes.
+在过去，各种监管机构已经发现，用于认可进行医疗器械审计的组织的标准存在不足。这些标准被认为过于通用，并且主要针对商业实体，用于商业目的。然而，许多在医疗器械的监管环境中工作，必须遵守这些通用要求的组织，也需要遵守这些要求。
 
-Prior to developing this document the IMDRF MDSAP working group analyzed many existing standards, guidance documents, and regulatory requirements, including those authored by the International Accreditation Forum (IAF), to identify a basis for the recognition of auditing organizations. However, IMDRF Regulatory Authorities have no official status within groups such as the IAF, or any voice in IAF governance or IAF mutual recognition agreements, that would allow the Regulatory Authorities to revise IAF documents to meet the needs of the regulators. It was also determined that the standard most commonly utilized is the ISO (the International Organization for Standardization) and IEC (the International Electrotechnical Commission) standard ISO/IEC 17021-1:2015 entitled, “Conformity assessment – Requirements for bodies providing audit and certification of management systems – Part 1: Requirements.” Medical device Regulatory Authorities also have little influence in the standards organization that produces this standard and cannot simply change the standard for medical device regulatory purposes. Therefore, IMDRF Regulatory Authorities recognized the need for a different set of requirements for medical device Auditing Organizations, using existing standards where possible.
+在编制本文件之前，IMDRF 的 MDSAP 工作组分析了许多现有的标准、指南文件和法规要求，包括由国际认可论坛 (IAF) 编写的文件，以确定识别审计机构的依据。然而，IMDRF 的监管机构在像国际认可论坛 (IAF) 这样的组织中没有任何官方地位，也没有在 IAF 的治理或 IAF 的相互认可协议中发声，这使得监管机构无法修改 IAF 的文件以满足监管者的需求。此外，还确定，最常用的标准是 ISO（国际标准化组织）和 IEC（国际电气技术委员会）的标准 ISO/IEC 17021-1:2015，标题为“合规性评估——管理体系审计和认证机构的要求——第一部分：要求”。医疗器械的监管机构在产生该标准的组织中也几乎没有影响力，并且无法仅为了医疗器械监管目的而简单地修改该标准。因此，IMDRF 的监管机构认识到，需要一套不同的要求，用于医疗器械的审计机构，并在可能的情况下使用现有的标准。
 
-The conclusion of the work group’s analysis was to allow ISO/IEC 17021-1:2015 to act as the generic base requirements and then utilize this IMDRF MDSAP document to add prescriptive requirements for medical device Auditing Organization and to negate or eliminate certain of these generic base requirements, which were meant for commercial entities, when the Auditing Organization is also a Regulatory Authority. Auditing Organizations that are also Regulatory Authorities have other laws and requirements that cover these deleted generic requirements in different ways.
+工作组分析的结论是，允许 ISO/IEC 17021-1:2015 作为通用基本要求，然后利用这份 IMDRF MDSAP 文档来添加针对医疗器械审计机构的强制性要求，并消除或取消这些通用基本要求，这些要求原本是为商业实体设计的，当审计机构同时也是监管机构时。同时也是监管机构的审计机构，还有其他法律和要求，以不同的方式涵盖这些被删除的通用要求。
 
-ISO/IEC 17021-1:2015 is being utilized as a normative reference within this IMDRF document. When the ISO/IEC 17021 standard is revised, the IMDRF will have to assess the new version of the standard and determine if this IMDRF document also requires revision. Further, there is an expectation that the Regulatory Authority assessment of medical device Auditing Organizations includes both the generic normative requirements in addition to the specific requirements added or deleted by this document. Therefore, this document’s clause numbers are aligned with the relevant subsection in ISO/IEC 17021-1:2015.
+ISO/IEC 17021-1:2015 在本 IMDRF 文档中被用作规范性参考。当 ISO/IEC 17021 标准进行修订时，IMDRF 必须评估新的标准版本，并确定本 IMDRF 文档是否也需要修订。此外，预期监管机构对医疗器械审计机构的评估，应包括既符合通用规范要求，又包含本文件添加或删除的具体要求。因此，本文件的条款编号与 ISO/IEC 17021-1:2015 的相关子章节保持一致。
 
-This document applies to Auditing Organizations that audit medical device manufacturers and may perform other related functions. The medical device Auditing Organization requirements include evaluation of the effectiveness of the manufacturer’s quality management system (QMS) as well as aspects of evaluation, including:
+本文件适用于审计医疗器械制造商的审计机构，并且可能执行其他相关功能。医疗器械审计机构的要求包括评估制造商质量管理体系 (QMS) 的有效性，以及以下评估方面：
 
-  * product/process related technologies (e.g. injection molding, sterilization); and,
-  * evidence of adequate product technical documentation in relation to relevant regulatory requirements.[1]
+* 与产品/工艺相关的技术（例如：注射成型、灭菌）；以及，
 
-This document does not provide additional requirements for product certification (ISO/IEC 17065:2012) or the requirements of product testing (ISO/IEC 17025:2005).
+* 与相关法规要求相关的充分的产品技术文档的证据。[1]
 
-The following is explicitly excluded from the scope of this document due to the lack of regulatory convergence:
+本文件不提供产品认证 (ISO/IEC 17065:2012) 或产品测试 (ISO/IEC 17025:2005) 的额外要求。
 
-  * the premarket reviews (e.g. Design Dossier Examinations, Premarket Applications, Shounin Applications, Product Registration/Notifications) typically performed by product specialist(s); and,
-  * the final decisions of safety and performance/effectiveness of a medical device made by any Regulatory Authority.
+以下内容因缺乏监管统一性，明确排除在本文件的范围之外：
 
-The functions covered by an Auditing Organization, within the scope of this document, and the independence of the roles assigned are described in Table 1.
+* 通常由产品专家(们)执行的，例如：设计文件审查、预先申请、Shounin 申请、产品注册/通知等，
 
-**Functions**| **Audit**| **Decision Making**  
----|---|---  
-Review the manufacturer’s application to determine audit team competence required, select the audit team members, and determine audit duration| n/a| Program Administrator  
-Evaluation of quality management system| Lead Auditor / Auditor | n/a  
-Evaluation of product/process related technologies| Technical Expert| n/a  
-Evaluation of Technical Documentation[2]| Technical Expert| n/a  
-Evaluation of Regulations| Lead Auditor / Auditor / Technical Expert| n/a  
-Approval of Results| n/a| Final Reviewer  
+* 任何监管机构对医疗器械的安全性、性能/有效性的最终决定。
 
-**Table 1: Auditing Organization Functions and Roles**
+[术语表 - 在这些术语出现时，请使用这些确切的翻译:]
+  差距分析 -> Gap Analysis
+  test_zh -> test_en
 
-# Reference(s)
+本文件范围内，审计机构所涵盖的功能以及所分配角色的独立性，在第 1 表中进行了描述。
 
-**Normative Reference:**
+**功能** | **审计** | **决策**
+---|---|---
+审查制造商的申请，以确定所需的审计团队能力，选择审计团队成员，并确定审计时长 | n/a | 计划管理员
+评估质量管理体系 | 首席审计员 / 审计员 | n/a
+评估与产品/工艺相关的技术 | 技术专家 | n/a
+评估技术文档[2] | 技术专家 | n/a
+评估法规 | 首席审计员 / 审计员 / 技术专家 | n/a
+结果批准 | n/a | 最终审核员
 
-  * International Organization for Standardization (ISO)/ International Electrotechnical Commission (IEC) ISO/IEC 17021-1:2015 - _Conformity Assessment – Requirements for bodies providing audit and certification of management system – Part 1: Requirements._
-  * GHTF/SG3/N19:2012 - _Quality management system – Medical devices - Nonconformity Grading System for Regulatory Purposes and Information Exchange_
+**第 1 表：审计机构的功能和角色**
 
-**General References:**
+# 参考文献(s)
 
-  * GHTF/SG1/N78:2012 - _Principles of Conformity Assessment for Medical Device._
-  * GHTF/SG1/N46:2008 - _Principles of Conformity Assessment of In Vitro Diagnostic (IVD) Medical Devices._
-  * GHTF/SG1/N71:2012 - _Definition of the Terms 'Medical Device' and 'In Vitro Diagnostic (IVD) Medical Device.'_
-  * ISO/IEC 17000:2004**–** _Conformity assessment – Vocabulary and general principles_
+**参考标准：**
 
-# Definitions
+* 国际标准化组织 (ISO)/ 国际电气委员会 (IEC) ISO/IEC 17021-1:2015 – _合规性评估 – 管理体系的审计和认证机构要求 – 第 1 部分：要求_
 
-##  _Audit_ : A systematic, independent, and documented process for obtaining records, statements of fact or other relevant information and assessing them objectively to determine the extent to which specified requirements are fulfilled. (ISO 17000:2004)
+* GHTF/SG3/N19:2012 – _质量管理体系 – 医疗器械 – 适用于监管目的和信息交换的非符合性等级系统_
 
-## _Auditing Organization_ : An organization that audits a medical device manufacturer for conformity with quality management system requirements and other medical device regulatory requirements. Auditing Organizations may be an independent organization or a Regulatory Authority which perform regulatory audits.
+**通用参考:**
 
-## _Medical device_ : any instrument, apparatus, implement, machine, appliance, implant, reagent for in vitro use, software, material or other similar or related article, intended by the manufacturer to be used, alone or in combination, for human beings, for one or more of the specific medical purpose(s) of:
+* GHTF/SG1/N78:2012 – _医疗器械的合规性评估原则._
 
-  * diagnosis, prevention, monitoring, treatment or alleviation of disease,
-  * diagnosis, monitoring, treatment, alleviation of, or compensation for, an injury,
-  * investigation, replacement, modification, or support of the anatomy, or of a physiologi­cal process,
-  * supporting or sustaining life,
-  * control of conception,
-  * disinfection of medical devices,
-  * providing information by means of in vitro examination of specimens derived from the human body; 
+* GHTF/SG1/N46:2008 – _体外诊断 (IVD) 医疗器械的合规性评估原则._
 
-and does not achieve its primary intended action by pharmacological, immunological, or metabolic means, in or on the human body, but which may be assisted in its intended function by such means. 
+* GHTF/SG1/N71:2012 – _“医疗器械”和“体外诊断 (IVD) 医疗器械”的定义._
 
-Note: Products which may be considered to be medical devices in some jurisdictions but not in others include:
+* ISO/IEC 17000:2004 – _合规性评估 – 词汇和一般原则_
 
-  * disinfection substances,
-  * aids for persons with disabilities,
-  * devices incorporating animal and/or human tissues,
-  * devices for in-vitro fertilization or assisted reproduction technologies.
+# 定义
+
+## _审计_：一种系统、独立、并有记录的过程，用于获取记录、事实陈述或其他相关信息，并以客观的方式评估，以确定是否满足了指定的要求。（ISO 17000:2004）
+
+## _审计机构_：对医疗器械制造商进行质量管理体系和其他医疗器械监管要求合规性审计的组织。审计机构可以是独立的组织或监管机构，它们进行监管审计。
+
+## _医疗器械:_ 任何用于人类的、由制造商设计用于单独使用或与其他组合使用，以实现以下特定医疗目的的，例如：
+
+* 诊断、预防、监测、治疗或缓解疾病，
+
+* 诊断、监测、治疗、缓解或补偿损伤，
+
+* 对解剖结构或生理过程的调查、更换、修改或支持，
+
+* 维持生命，
+
+* 控制生育，
+
+* 医疗器械的消毒
+
+* 通过体外检查样本（来自人体）来提供信息；
+
+但不通过药理、免疫或代谢方式在人体内或外实现其主要预期作用，但可能通过这些方式辅助其预期功能。
+
+请注意：在某些司法管辖区可能被认为是医疗器械，但在其他司法管辖区则不然的产品包括：
+
+* 消毒剂，
+
+* 辅助残疾人士的设备，
+
+* 包含动物和/或人体组织的产品。
+
+* 用于体外生殖或辅助生殖技术的设备。
 
 (GHTF/SG1/N71:2012)
 
-For clarification purposes, in certain regulatory jurisdictions, devices for cosmetic/aesthetic purposes are also considered medical devices. 
+为了澄清目的，在某些监管辖区，用于美容/美学目的的设备也被认为是医疗器械。
 
-## _Regulatory Authority_ : A government body or other entity that exercises a legal right to control the use or sale of medical devices within its jurisdiction, and that may take enforcement action to ensure that medical products marketed within its jurisdiction comply with legal requirements. (GHTF/SG1/N78:2012)
+## _监管机构_：是指在管辖范围内，拥有控制医疗器械使用或销售的法律权利的政府机构或其他实体，并且可以采取执法行动，以确保在管辖范围内销售的医疗产品符合法律要求。 (GHTF/SG1/N78:2012)
 
-3.5 _Technical Documentation_ :**** The documented evidence, normally an output of the quality management system, that demonstrates compliance of a device to the _Essential Principles of Safety and Performance of Medical Devices_. (GHTF/SG1/N78:2012 and GHTF/SG1/N46:2008)
+3.5 _技术文件_：通常是质量管理体系的产出，证明医疗器械符合《医疗器械安全和性能的基本原则》。 (GHTF/SG1/N78:2012 和 GHTF/SG1/N46:2008)
 
-# Principles
+# 原则
 
-There are no requirements for an Auditing Organization under Section 4 - Principles. 
+第4节 - 原则中，无需指定审计机构。
 
-ISO/IEC 17021-1:2015 states, “ _4.1.1 - These principles described in this clause provide_ _the basis for the subsequent specific performance and descriptive requirements in this part of ISO/IEC 17021. This_ “part of ISO/IEC 17021” _does not give specific requirements for all situations that can occur. These principles should be applied as guidance for the decisions that may need to be made for unanticipated situations. Principles are not requirements.”_
+ISO/IEC 17021-1:2015 规定：“4.1.1 - 本条款描述的原则，为 ISO/IEC 17021 本部分的后续具体性能和描述性要求提供了基础。本“ISO/IEC 17021 的部分”不为所有可能发生的具体情况提供要求。这些原则应作为指导，用于在可能需要采取的意外情况下做出的决策。原则不是要求。”
 
-# General requirements
+# 一般要求
 
-## Legal and contractual matters
+## 法律和合同事项
 
-Country specific laws and regulations, outside the medical device Regulatory Authority’s purview, may be applicable to the manufacturer for certain legal and financial responsibilities. 
+除医疗器械监管机构管辖范围之外，特定国家/地区的法律和法规可能适用于制造商，以承担某些法律和财务责任。
 
-A legal entity is ineligible to be an Auditing Organization if the entity has been found guilty of an offence against national laws or regulations related to medical devices, or relating to any fraudulent or dishonest practices.
+如果该实体因违反与医疗器械相关的国家/地区法律或法规，或因任何欺诈或不诚实行为而受到处罚，则该实体不得作为审计机构。
 
-**Exceptions to ISO 17021-1:2015**
+**ISO 17021-1:2015 的例外情况**
 
-A Regulatory Authority that is undertaking the activities of an Auditing Organization is not required to have a legal contractual arrangement with the medical device manufacturer if the Regulatory Authority performs those activities under their respective legislation.
+| 监管机构如果正在执行审计机构的活动，则无需与医疗器械制造商签订法律合同，只要该监管机构在各自的法律框架下执行这些活动。|
 
-**Specific Requirements for Medical Device Auditing Organizations**
+**医疗器械审计机构的具体要求**
 
-### An Auditing Organization shall make available to the recognizing Regulatory Authority(s) information about organizational structure, ownership and the legal or natural persons exercising control over the Auditing Organization. 
+### 审计机构应向认可的监管机构提供关于组织结构、所有权以及控制审计机构的法人或自然人的信息。
 
-### If the Auditing Organization is a legal entity that is wholly or partly owned by a larger organization, the Auditing Organization shall clearly document the activities, structure, and governance of that larger organization as well as its relationship with the Auditing Organization. 
+### 如果审计机构是完全或部分由较大组织拥有的法人，则审计机构应明确记录该较大组织的活动、结构和治理，以及其与审计机构的关系。
 
-### If the Auditing Organization wholly or partly owns other legal entities, the Auditing Organization shall clearly define and document the activities and responsibilities of those other entities, as well as their legal and operational relationships with the Auditing Organization. 
+### 如果审计机构完全或部分拥有其他法人，则审计机构应明确定义和记录这些其他法人的活动和责任，以及它们与审计机构的法律和运营关系。
 
-### In addition, an Auditing Organization that maintains multiple offices that perform some part of the audit process shall ensure that the roles and responsibilities of the Auditing Organization and their other locations are defined and implemented.
+### 此外，如果审计机构拥有多个办公室，这些办公室执行审计过程的一部分，则审计机构应确保明确定义和实施审计机构及其其他办公室的角色和责任。
 
-### The Auditing Organization (when not a Regulatory Authority) shall have legally enforceable arrangements with medical device manufacturers allowing personnel from the Regulatory Authority, which authorized their recognition, to observe and assess the Auditing Organization’s audits. The agreement shall allow personnel from the Regulatory Authority access to records and documents pertaining to the manufacturer that is relevant to the audit and decision making process upon request.
+### 审核机构（如果不是监管机构）应与医疗器械制造商签订具有法律效力的协议，允许来自监管机构（该机构已对其进行认可的机构）的人员观察和评估审核机构的审计。该协议应允许来自监管机构的人员在需要时，访问与制造商相关的、与审计和决策过程相关的记录和文件。
 
-### The Auditing Organization (when not a Regulatory Authority) shall have legally enforceable arrangements with medical device manufacturers that will allow Regulatory Authorities to share all documents and records related to medical device audits with other Regulatory Authorities that have formal established confidentiality agreements between governments which covers provisions for protecting proprietary information and trade secret information.
+### 审核机构（如果不是监管机构）应与医疗器械制造商签订具有法律效力的协议，从而使监管机构能够与具有政府之间正式建立的保密协议的其他监管机构共享所有与医疗器械审计相关的文件和记录，这些协议涵盖了保护专有信息和商业秘密的规定。
 
-## Management of impartiality
+## 保持公正性
 
-### The requirements of this section in no way preclude exchanges of technical or regulatory information between an Auditing Organization and a manufacturer.
+### 本部分的要求决不能阻止审核机构与制造商之间进行技术或监管信息的交换。
 
-### Specific Requirements for Medical Device Auditing Organizations 
+### 医疗器械审核机构的具体要求
 
-### The Auditing Organization shall be an entity that is independent of the manufacturer of the medical device in relation to which it performs audits. The Auditing Organization shall also be independent of any other economic operator having an interest in the product as well as of any competitor of the manufacturer. (Economic operator can be such entities as distributors, authorized representative or importer)
+### 审核机构应是独立于对它进行审计的医疗器械制造商的实体。 审核机构还应独立于任何对该产品有利益的任何其他经济实体，以及制造商的任何竞争对手。（经济实体可以是经销商、授权代表或进口商）
 
-### The Auditing Organization shall have documented and implemented a structure and procedures for safeguarding and promoting independence, objectivity, and impartiality throughout its organization, personnel, and audits. These procedures shall effectively identify, investigate, and resolve any case in which a conflict of interests may arise. The Auditing Organization shall document any investigation, outcome, and resolution.
+### 审计机构应建立并实施一套结构和程序，以确保和促进其组织、人员以及审计过程中的独立性、客观性和公正性。这些程序应有效地识别、调查和解决任何可能出现利益冲突的情况。审计机构应记录任何调查、结果和解决方案。
 
-### The Auditing Organization, its top-level management and the personnel, including their spouses or children, responsible for carrying out the audits shall not:
+### 审核机构及其高级管理人员和负责进行审核的人员（包括其配偶或子女），不得：
 
-### be the designer, manufacturer, supplier, installer, distributor, importer, purchaser, owner, user, or maintainer/servicer of the medical devices which they assess, nor the authorized representative of any of those parties. This shall not preclude the use of assessed medical devices that are necessary for the operations of the Auditing Organization (e.g. measuring equipment) or the use of such medical devices for personal purposes;
+### 是评估的医疗器械的设计者、制造商、供应商、安装者、分销商、进口商、购买者、所有者、使用者或维护/服务者，也不得是任何这些方的授权代表。这不应妨碍使用已评估的医疗器械，这些医疗器械对于审核机构的运营（例如，测量设备）或用于个人目的的使用；
 
-### be involved in the design, manufacture or construction, the marketing, installation, use or maintenance/servicing of those medical devices, or represent the parties engaged in those activities. They shall not engage in any activity that may conflict with their independence of judgment or integrity in relation to audits; 
+### 参与这些医疗器械的设计、制造、建造、营销、安装、使用或维护/服务，或代表从事这些活动的各方。他们不得从事任何可能与他们对审核的独立判断或诚信产生冲突的活动；
 
-### offer or provide any service which may undermine the confidence in their independence, impartiality, or objectivity. In particular, they shall not offer or provide consultancy services to the manufacturer, his authorized representative, a supplier, or a commercial competitor, as regards to the design, manufacture or construction, marketing, installation, use or maintenance/servicing of the medical device or processes subject to audit; and,
+### 提供或提供任何可能损害他们独立性、公正性或客观性的服务。特别是，他们不得向制造商、其授权代表、供应商或商业竞争对手提供关于医疗器械或受审核流程的设计、制造、建造、营销、安装、使用或维护/服务方面的咨询服务；
 
-### use the services of any organization or individual that has provided consultancy services to the manufacturer, his authorized representative or a supplier being audited by the Auditing Organization, related to the QMS or items in the previous indent, within a period of three years since the last consultancy services were rendered.
+### 使用任何在审核机构审核的制造商、其授权代表或供应商提供的咨询服务，与质量管理体系或前述条款相关，且在自上次提供咨询服务以来，经过三年内。
 
-### Note: This does not preclude general training activities relating to medical device regulations, general QMS training, or related standards that are not manufacturer specific. This also does not preclude Regulatory Authorities that are also Auditing Organizations from advising manufacturers on regulatory submissions (e.g. pre-clinical investigation meetings).
+### 注意：这不排除与医疗器械法规、通用质量管理体系培训或相关标准（这些标准不限于特定制造商）的通用培训活动。这也不排除监管机构，如果它们也是审计机构，可以就监管提交（例如，临床前研究会议）向制造商提供建议。
 
-### The Auditing Organization shall document any involvement in consultancy services in the field of medical devices undertaken by personnel prior to taking up employment with the Auditing Organization at the time of employment. The Auditing Organization shall monitor and resolve any potential conflicts of interest according to criteria set out in this document.
+### 审计机构应记录其人员在就职于审计机构之前，为医疗器械领域提供的任何咨询服务。审计机构应根据本文件规定的标准，监测和解决任何潜在的利益冲突。
 
-### If an Auditing Organization’s top-level management or the personnel responsible for carrying out audits were former employees of a medical device manufacturer or provided consultancy services in the field of medical devices for a specific manufacturer prior to taking up employment with the Auditing Organization, such personnel shall not be assigned to activities for that specific manufacturer or companies belonging to the same organization for a period of three years.
+### 如果审计机构的高层管理人员或负责进行审计的人员是医疗器械制造商的前员工，或者在就职于审计机构之前，为特定制造商提供了医疗器械领域的咨询服务，那么这些人员不得被分配到该特定制造商或与其同一组织相关的公司进行审计，此期间为三年。
 
-### The Auditing Organization shall not advertise, commit to, guarantee, or imply the outcome of the audits by the Auditing Organization on the basis of financial or other inducements.
+### 审计机构不得基于财务或其他诱因，宣传、承诺、保证或暗示审计机构的审计结果。
 
-### The Auditing Organization shall ensure and document that the activities of its subsidiaries or subcontractors, or of any associated body, do not affect the independence, impartiality, or objectivity of its audits. 
+### 审计机构应确保并记录其子公司、分包商或任何关联机构的活动，不得影响其审计的独立性、公正性和客观性。
 
-### To enhance the commitment to impartiality and the appearance of impartiality, an auditor may not be the lead auditor for more than three consecutive audits for the same manufacturer’s site, although the auditor may be a member of an auditing team for the site.   
+### 为了增强对公正性的承诺以及公正性的外观，审计机构可能不会连续对同一制造商的同一地点进行超过三次审计，尽管审计人员可以作为该地点的审计团队成员。
 
-Note: The Auditing Organization will make every effort to change the composition of the audit team for a site over time to strengthen the perception of impartiality.
+注意：审计机构将尽最大努力在一段时间内改变审计团队的组成，以增强对公正性的感知。
 
-### The Auditing Organization shall require all personnel to formally commit themselves by a signature, or equivalent, to comply with the Auditing Organization’s rules relating to confidentiality and independence from commercial and other interests, and any existing or prior association with any manufacturer audited by the Auditing Organization.
+### 审计机构应要求所有人员通过签名或其他方式，正式承诺遵守与保密和独立于商业和其他利益以及与审计机构审计的任何制造商的任何现有或先前关联相关的规则。
 
-### If the Auditing Organization is a legal entity that is wholly or partly owned by a larger organization, the requirements for impartiality in this document are applicable to both the Auditing Organization and the organization to which it belongs.
+### 如果审计机构是完全或部分由较大组织拥有的法律实体，则本文件中规定的公正性要求适用于审计机构及其所属的组织。
 
-### The individuals involved in the process for managing threats on impartiality (see ISO/IEC 17021-1:2015 clause 5.2.2) shall have access to individual(s) who have experience and knowledge related to medical devices in order to obtain independent expert opinions.
+### 参与管理对公正性威胁的流程（参见ISO/IEC 17021-1:2015第5.2.2条）的个人应能够获得具有与医疗器械相关的经验和知识的个人，以便获得独立的专家意见。
 
-## Liability and financing
+## 责任和融资
 
-**Specific Requirements for Medical Device Auditing Organizations**
+**医疗器械审计机构的具体要求**
 
-### The Auditing Organization shall take out liability insurance unless the government, in accordance with national law, covers liability, or the Regulatory Authority itself is directly responsible for the audits. 
+### 审计机构应购买责任保险，除非政府根据国家法律对此进行覆盖，或者监管机构本身直接负责审计。
 
-### The justification for the scope and overall financial value of liability insurance shall be documented and include consideration of the level and geographic scope of activities of the Auditing Organization and the risk profile of the devices being assessed by the Auditing Organization. 
+### 责任保险的范围和总体财务价值的依据应进行记录，并应考虑审计机构的活动水平和地理范围，以及审计机构评估的医疗器械的风险状况。
 
-### The Auditing Organization shall have at its disposal the financial resources required to conduct its audits and related business operations. 
+### 审计机构应具备完成其审计和相关业务运营所需的财务资源。
 
-# Structural requirements
+# 结构要求
 
-## Organizational structure and top management
+## 组织结构和高级管理层
 
-**Specific Requirements for Medical Device Auditing Organizations**
+**医疗器械审计机构的具体要求**
 
-### The Auditing Organization shall ensure that its personnel are current in practices and knowledge in relation to medical device technologies and regulatory requirements for conducting audits of medical device manufacturers. 
+### 审计机构应确保其人员在医疗器械技术和进行医疗器械制造商审计的监管要求方面，保持最新的实践和知识。
 
-### The Auditing Organization shall have the organizational capacity to include management, administrative support, and infrastructure to undertake all contracted activities.
+### 审计机构应具备管理、行政支持和基础设施，以开展所有合同活动的能力。
 
-### The Auditing Organization shall participate in any regulatory coordination group established for the purpose of keeping the Auditing Organization’s personnel current on medical device legislation, guidance documents, standards, and best practice documents adopted in the applicable regulatory systems. 
+### 审计机构应参与任何为使审计机构的人员了解医疗器械立法、指南文件、标准和在相关监管系统中采用的最佳实践文件而设立的协调小组。
 
-### The Auditing Organization shall consider and adopt prescribed guidance and best practice documents, unless deviation from them is duly justified.
+### 审计机构应考虑并采用规定的指南和最佳实践文件，除非有充分的理由进行例外。
 
-### The Auditing Organization shall prescribe and adopt a code of conduct for Auditing Organizations in the field of medical devices. The code of conduct shall provide a mechanism for monitoring and verification of its implementation. Violations to the code of conduct must be investigated and appropriate action taken. (See 7.1.6)
+### 审计机构应制定和采用医疗器械领域的审计机构行为准则。该行为准则应提供监测和验证其实施的机制。违反行为准则必须进行调查并采取适当的措施。（参见 7.1.6）
 
-### The Auditing Organization shall document roles, responsibilities, and lines of reporting for all personnel, including subcontractors, involved or potentially involved in medical device audits and decision processes. 
+### 审计机构应记录所有人员（包括子合同商）在医疗器械审计和决策过程中所扮演的角色、职责以及汇报关系。
 
-### The Auditing Organization shall have documented processes and procedures to ensure that personnel in the Auditing Organization do not review and approve their own work. Prior to a final decision, the auditor’s work will be reviewed and approved by a person independent of the audit team.
+### 审计机构应拥有记录化的流程和程序，以确保审计机构的员工不会审查和批准自己的工作。在最终决策之前，审计人员的工作将由独立于审计团队的人员进行审查和批准。
 
-## Operational Control
+## 运营控制
 
-**Specific Requirements for Medical Device Auditing Organizations**
+**医疗器械审计机构的具体要求**
 
-No specific requirements
+无特定要求
 
-# Resource requirements
+# 资源要求
 
-## Competence of personnel
+## 人员的胜任能力
 
-**Specific Requirements for Medical Device Auditing Organizations**
+**医疗器械审计机构的具体要求**
 
-### An Auditing Organization shall comply with the specific requirements for the competence and maintenance of competence that can be found in the IMDRF MDSAP WG N4 - “Competence and Training Requirements for Auditing Organizations,” 
+### 审计机构应遵守 IMDRF MDSAP WG N4 - “审计机构的胜任能力和培训要求”中规定的，关于胜任能力和保持胜任能力的特定要求。
 
-### An Auditing Organization shall have access to the necessary administrative, technical, and scientific personnel with technical knowledge and sufficient and appropriate experience relating to medical devices and the corresponding technologies.
+### 审计机构应拥有必要的行政、技术和科学人员，这些人员具有与医疗器械和相关技术相关的技术知识和足够的、适当的经验。
 
-### The management of the Auditing Organization shall have appropriate knowledge and processes to: set up and operate a system for the selection of the auditing personnel, the verification of their competence, the assignment of their tasks, their initial and ongoing training, and, their instruction and monitoring to ensure that personnel who administer and perform the audits are competent to fulfill the tasks required of them.
+### 审计机构的管理层应具备适当的知识和流程，以：建立和运行人员选拔、验证其胜任能力、分配任务、初始和持续培训以及指导和监督的系统，以确保管理和执行审计的人员具备履行其所需任务的能力。
 
-### The Auditing Organization shall identify at least one individual within its senior management having overall responsibility for all medical device audits, within the scope of this document.
+### 审计机构应确定至少一名高级管理人员，负责所有医疗器械审计，并且该人员应在本文档的范围内。
 
-### An Auditing Organization shall be capable of carrying out all the tasks assigned to it with the highest degree of professional integrity and the requisite technical competence in the specific field, whether those tasks are carried out by the Auditing Organization itself or on its behalf and under its responsibility. 
+### 审计机构应能够以最高的专业诚信和特定领域的必要技术能力，完成其被分配的所有任务，无论这些任务是由审计机构本身、代表其或在其责任下执行，还是由其委托他人执行。
 
-### Auditing Organizations are to ensure that auditors and other personnel involved in regulatory audits understand the importance of a code of conduct in maintaining integrity. Auditing Organizations are to keep signed statements of adherence to a code of conduct for personnel involved in regulatory audits. The signed statement shall attest to at least the following elements included in the Auditing Organization’s code of conduct:
+### 审计机构应确保参与监管审计的审计人员和其他人员了解遵守行为准则的重要性，以维护诚信。 审计机构应保存参与监管审计人员对行为准则的签字声明。 签字声明应至少包含以下由审计机构的行为准则规定的要素：
 
-  1. To act in a professional and ethical manner at all times.
-  2. To faithfully represent the interests of the recognizing Regulatory Authority(s).
-  3. Not to act in any way prejudicial to the interests or reputation of the recognizing Regulatory Authority(s).
-  4. Not to act in any way prejudicial to the integrity or objectives of the recognizing Regulatory Authority(s).
-  5. To disclose any relationship, or financial interest, past or present, that may create a conflict of interest, or the appearance of a conflict of interest, and to notify management of any new conflicts of interest or potential conflicts of interest as soon as the case may arise.
-  6. Not to participate in any activity or relationship that may impair, or may appear to impair, one's objectivity, impartiality, or professional judgment. 
-  7. Not to accept any inducement, gift, commission, discount or any other benefit not available to the general public from medical device manufacturers, their agents, their representatives, or economic operators. 
-  8. To record and report truthfully and accurately audit evidence in an impartial and unbiased way.
-  9. To record and report truthfully and accurately any material facts that may affect the reliability of audits.
-  10. Not to provide any consulting services to audited manufacturers.
-  11. Not to disclose, verbally or written, any information obtained in the course of audits to any third party, not including the recognizing Regulatory Authority(s), unless authorized in writing or required by law.
-  12. Not to use information obtained in the course of audits for any personal gain.
-  13. Not to undertake any audits for which one does not possess the required skills, knowledge or experience, formal designation or responsibility.
-  14. Not to undertake any audits in a language where one is not proficient without the support of a translator and/or interpreter.
-  15. To continually improve one's proficiency, effectiveness, and quality of work.
-  16. To disclose to management, without delay, any breach of this statement by oneself or a colleague and to cooperate fully in the investigation of such a breach.
+1. 始终以专业和道德的方式行事。
 
-## Personnel involved in the auditing activities
+2. 忠实地代表认可的监管机构的利益。
 
-**Specific Requirements for Medical Device Auditing Organizations**
+3. 不以任何方式损害认可的监管机构的利益或声誉。
 
-### The personnel responsible for identifying competence requirements for the auditor to perform specific audits, and the personnel responsible for final review and decision-making on conformity to quality management system requirements, shall be employees of the Auditing Organization and shall have proven knowledge and experience in the following:
+4. 不以任何方式损害认可的监管机构的诚信或目标。
 
-  * the medical devices legislation, relevant guidance documents and standards adopted in the applicable regulatory system;
-  * the types of qualifications, experience and expertise relevant to medical device audits;
-  * a broad base of medical device technologies, the medical device industry and the design and manufacture of medical devices;
-  * the Auditing Organization’s quality management system, related procedures and the required qualification criteria; and,
-  * the training requirements for personnel involved in medical device audits.
+5. 披露任何可能导致利益冲突或产生利益冲突外观的，既往或现在的关系或财务利益，并及时通知管理层任何新的利益冲突或潜在的利益冲突。
 
-## Use of individual external auditors and external technical experts
+6. 不参与任何可能损害、或可能被认为损害，个人客观性、公正性和专业判断的活动或关系。
 
-**Specific Requirements for Medical Device Auditing Organizations**
+7. 不接受来自医疗器械制造商、其代理、其代表或经济操作者的任何诱惑、礼物、佣金、折扣或其他未向公众提供的利益。
 
-### An external auditor or external technical expert is not to be responsible for identifying competence requirements for the auditor or technical expert to perform specific activities, and is not to be responsible for final review and decision-making on conformity to regulatory requirements. 
+8. 以公正、客观的方式，真实、准确地记录和报告审计证据。
 
-### Where an Auditing Organization uses external technical experts in the context of the audit, the Auditing Organization shall have adequate competence in such product areas, to verify the appropriateness and validity of objective evidence provided by the external expert in order for the Auditing Organization to make the final review and decision on conformity to regulatory requirements.
+9. 真实、准确地记录并报告任何可能影响审计可靠性的重要事实。
 
-### The Auditing Organization shall document all arrangements with external auditors and external technical experts and provide that information to the recognizing Regulatory Authority(s) on request. The Auditing Organization shall ensure that all external auditors and external technical experts allow the recognizing Regulatory Authority(s) to assess or witness the activities conducted for the Auditing Organization.
+10. 不向被审计的制造商提供任何咨询服务。
+  11. 不向任何第三方（不包括认可的监管机构）透露，无论是口头还是书面，在审计过程中获得的任何信息，除非已获得书面授权或法律要求。
+  12. 不将在审计过程中获得的任何信息用于任何个人利益。
+  13. 不进行任何需要具备所需技能、知识或经验、正式资格或职责的审计。
+  14. 不在自己不精通的语言进行任何审计，除非有翻译和/或口译人员的支持。
+  15. 持续提高自己的专业能力、有效性和工作质量。
+  16. 及时向管理层披露自己或同事违反本声明的情况，并积极配合调查。
 
-### It is the Auditing Organization’s responsibility to ensure that any external auditors and external technical experts are directly assessed by the Auditing Organization to ensure consistency with the IMDRF MDSAP WG N3 and N4 requirements. 
+## 参与审计活动的员工
 
-## Personnel records
+**医疗器械审计机构的具体要求**
 
-**Specific Requirements for Medical Device Auditing Organizations**
+### 负责确定审计员进行特定审计所需能力的员工，以及负责对质量管理体系要求符合性的最终审查和决策的员工，均应为审计机构的员工，并具有以下证明的知识和经验：
 
-### In addition to the records required under IMDRF MDSAP WG N4, the Auditing Organization shall establish and maintain individual auditor personnel records:
+* 适用的监管体系中，相关的医疗器械法规、指导文件和标准；
 
-  * that document the auditor’s assigned roles; and,
-  * that documents the evidence that the relevant qualifications, training, knowledge, or experience of the individual auditor satisfies the competence requirements for assigned roles.
+* 与医疗器械审计相关的资格、经验和专业知识；
 
-These personnel records shall be updated when roles are assigned. Documentation of the activities actually performed (audit log) required in IMDRF MDAP WG N4 shall be updated at a minimum annually.
+* 广泛的医疗器械技术、医疗器械行业以及医疗器械的设计和制造知识。
 
-## Outsourcing
+* 审计机构的质量管理体系、相关程序以及所需的资格标准；以及，
 
-For the purposes of this clause an external organization is one that is not subject to the Auditing Organization's quality management system.
+* 参与医疗器械审计的人员的培训要求。
 
-**Specific Requirements for Medical Device Auditing Organizations**
+## 独立外部审计员和外部技术专家的使用
 
-### Where an Auditing Organization uses an external organization for auditing or for technical expertise, the Auditing Organization shall be responsible for identifying competence requirements for any auditor or technical expert supplied to perform specific activities, and the final review and decision-making on the conformity to regulatory requirements. 
+**医疗器械审计机构的具体要求**
 
-### Where an Auditing Organization uses an external organization for auditing or for technical expertise, the Auditing Organization shall have adequate competence in such product areas to verify the appropriateness and validity of objective evidence provided by the external organization, to make the final review and decision on conformity to regulatory requirements.
+### 独立外部审计员或外部技术专家不应负责确定审计员或技术专家在特定活动中所需的资质，也不应负责对符合法规要求的最终审查和决策。
 
-### The Auditing Organization shall document all arrangements with external organizations and provide that information to the recognizing Regulatory Authority(s) on request. The Auditing Organization shall ensure that the external organizations allow the recognizing Regulatory Authority(s) to assess or witness activities outsourced by the Auditing Organization.
+### 当审计机构在审计过程中使用外部技术专家时，审计机构应具备充分的专业能力，以验证外部专家提供的客观证据的适当性和有效性，以便审计机构能够对符合法规要求的最终审查和决策。
 
-### It is the Auditing Organization’s responsibility to ensure that all individuals utilized by an external organization that are involved in a regulatory audit are directly assessed by the Auditing Organization to ensure consistency with the IMDRF MDSAP WG N3 and N4 requirements. 
+### 审计机构应记录与所有外部审计员和外部技术专家的协议，并根据要求向认可的监管机构提供这些信息。 审计机构应确保所有外部审计员和外部技术专家允许认可的监管机构评估或见证为审计机构进行的活动。
 
-# Information requirements
+### 审计机构有责任确保任何外部审计员和外部技术专家均由审计机构直接评估，以确保符合 IMDRF MDSAP WG N3 和 N4 的要求。
 
-## Public information
+## 人员档案
 
-**Specific Requirements for Medical Device Auditing Organizations**
+**医疗器械审计机构的具体要求**
 
-### Where appropriate, the Auditing Organization must comply with specified Regulatory Authority requirements for the method of making information on the certified manufacturers publically accessible. 
+### 除了 IMDRF MDSAP WG N4 所需的记录外，审计机构还应建立和维护独立审计员的人员档案：
 
-## Certification documents
+* 记录审计员的指定角色；并且，
 
-**Specific Requirements for Medical Device Auditing Organizations**
+* 记录证明，个人审计员的相关资质、培训、知识或经验满足指定角色的能力要求。
 
-### When an Auditing Organization issues certificates and reports, the certificates and reports shall meet the Regulatory Authority requirements for certificates and reports.
+这些人员记录应在角色分配时进行更新。根据 IMDRF MDAP WG N4 的要求，实际执行的活动（审计日志）至少应每年更新一次。
 
-### When an Auditing Organization issues reports and certificates, intended for use by a specific Regulatory Authority, the reports and certificates shall accurately document the scope of the audits, audit criteria and the scope of the certifications, including which Regulatory Authority requirements have been assessed. The Auditing Organization shall not exclude any processes, products, or services from the audit scope or the scope of the certificate, unless the regulations administered by the recognizing Regulatory Authority(s) permit the exclusion.
+## 外部委托
 
-**Specific Requirements for Medical Device Auditing Organizations**
+在本条款中，外部组织是指不受审计组织质量管理体系约束的组织。
 
-## Reference to certification and use of marks
+**医疗器械审计机构的具体要求**
 
-No specific requirements
+### 如果审计组织使用外部组织进行审计或提供技术专长，审计组织应负责确定为执行特定活动而提供的任何审计员或技术专家的能力要求，以及最终审查和决定符合法规要求。
 
-## Confidentiality
+### 如果审计组织使用外部组织进行审计或提供技术专长，审计组织应具备足够的专业能力，以验证外部组织提供的客观证据的适当性和有效性，并对符合法规要求进行最终审查和决定。
 
-### Specific Requirements for Medical Device Auditing Organizations 
+### 审计组织应记录与外部组织的全部协议，并在需要时向认可的监管机构提供相关信息。审计组织应确保外部组织允许认可的监管机构评估或见证审计组织委托的活动。
 
-### The Auditing Organization shall have documented procedures in place to ensure the confidentiality of information which comes into its possession during the performance of the audits. Except when disclosure is required by law, the procedure shall apply to its personnel, committees, subsidiaries, external auditors, external technical experts, or outsourced organizations. 
+### 审计机构的责任是确保所有由外部组织利用的，参与监管审计的个人，都直接由审计机构进行评估，以确保符合 IMDRF MDSAP WG N3 和 N4 的要求。
 
-### Except in relation to information which may be requested by a Regulatory Authority, the personnel of an Auditing Organization and any external auditors, external technical experts, or outsourced organizations, shall observe professional secrecy with regard to information obtained in carrying out their tasks with respect to audits. 
+# 信息要求
 
-## Information exchange between the Auditing Organization and manufacturers
+## 公开信息
 
-### No specific requirements
+**医疗器械审计机构的具体要求**
 
-## Information exchange between the Auditing Organization (when not a Regulatory Authority) and recognizing Regulatory Authority(s)
+### 在适当的情况下，审计机构必须遵守指定的监管机构要求，以确定已认证制造商的信息如何公开获取。
 
-### The Auditing Organization shall designate a function within its organization for timely exchange of information with recognizing Regulatory Authority(s) or to respond to enquiries from recognizing Regulatory Authority(s). The Auditing Organization shall fulfill this function at all times.
+## 认证文件
 
-### The Auditing Organization shall report to the recognizing Regulatory Authority(s) that performed its initial recognition when it becomes aware of any fraudulent activities or counterfeit products. The Auditing Organization is not responsible for establishing objective evidence but must report such activities or products in writing within 5 working days from the date of discovery. 
+**医疗器械审计机构的具体要求**
 
-### The Auditing Organization shall provide information to the recognizing Regulatory Authority(s) about the audits and decision on conformity to quality management system requirements. 
+### 当审计机构颁发证书和报告时，这些证书和报告应符合监管机构对证书和报告的要求。
 
-### The Auditing Organization shall notify the recognizing Regulatory Authority(s) in writing within 5 working days from the date of a decision to refuse, suspend, reinstate, restrict, or withdraw a certificate. The notification shall include a rationale for such action.
+### 当审计机构颁发报告和证书，用于特定监管机构时，这些报告和证书应准确记录审计的范围、审计标准以及认证的范围，包括已评估的监管机构要求。 审计机构不得排除任何流程、产品或服务，除非被认可的监管机构的法规允许排除。
 
-### The Auditing Organization shall notify the recognizing Regulatory Authority(s) in writing within 5 working days, of significant changes relevant to its recognition, in any aspect of its status or operations relating to:
+**医疗器械审计机构的具体要求**
 
-  * its legal, commercial, organizational or ownership status;
-  * the organizational structure, top management or key personnel;
-  * main policies;
-  * resources, premises and critical location;
-  * scope of recognition as an Auditing Organization; and,
-  * other such matters that may affect the abilities of the Auditing Organization to fulfill the requirements for recognition.
+## 引用认证和使用标志
 
-## Information exchange between Auditing Organizations
+无特定要求
 
-### When an Auditing Organization ends it relationship with a particular manufacturer, or manufacturing site(s), the Auditing Organization, upon request and with consent of the manufacturer, shall make available to the next Auditing Organization a copy of all the audit reports from the current certification cycle and a valid certificate of that manufacturer or relevant to the manufacturing site(s).
+## 保密性
 
-# Process requirements
+### 医疗器械审核机构的具体要求
 
-**Specific Requirements for Medical Device Auditing Organizations**
+### 审计机构应建立记录，以确保在进行审计期间，其掌握的所有信息保密。 除非法律要求，否则该程序应适用于其员工、委员会、子公司、外部审计员、外部技术专家或外包组织。
 
-### 9.0.1 The Auditing Organization shall document procedures covering at least:
+### 除非是向监管机构可能要求的特定信息，否则，审计机构及其任何外部审计员、外部技术专家或外包组织的人员，应就审计过程中获取的信息，遵守专业保密义务。
 
-  * the request for audits by a manufacturer;
-  * the processing of such request, including the verification of the completeness of the documentation, the qualification of the product as a medical device and its classification;
-  * the language of the request, of the correspondence and of the documentation to be submitted;
-  * where appropriate, the terms of the agreement with the manufacturer or authorized representative;
-  * where appropriate, any fees to be charged for audits;
-  * the planning, performance, and reporting of initial, surveillance, and re-audit/recertification audits;
-  * the process by which the Auditing Organization determines which sites of the manufacturer or their supplier(s) will be audited;
-  * the assignment of auditors to a specific activity based on the auditor’s competence to perform the audit;
-  * the decision-making process on the conformity of the quality management system, including, where appropriate, the decision about issue, refusal, suspension, reinstatement, restriction, modification, or withdrawal of certificates as well as possible conditions or limitations to certificate validity;
-  * the assessment of specified changes to be submitted for prior approval;
-  * the follow-up of corrections and corrective actions for nonconformities identified during audits; and,
-  * where appropriate, the renewal of any certificates.
+## 审计机构与制造商之间的信息交换
 
-## Pre-certification requirements
+### 无特定要求
 
-**Specific Requirements for Medical Device Auditing Organizations**
+## 审计机构（非监管机构）与认可的监管机构之间的信息交换
 
-### The Auditing Organization shall gather information relating to the name and location of the manufacturer’s critical suppliers of products and services as defined by the manufacturer risk management program.
+### 审计机构应在其组织内指定一个功能，以便及时与认可的监管机构进行信息交换，或以响应认可的监管机构的询问。 审计机构应始终履行此功能。
 
-## Planning Audits
+### 当审计机构发现任何欺诈活动或假冒产品时，应向执行初始认可的监管机构报告。 审计机构不负责提供客观证据，但必须在发现之日起 5 个工作日内以书面形式报告此类活动或产品。
 
-**Exceptions to ISO 17021-1:2015**
+### 审计机构应向认可的监管机构提供关于审计和符合质量管理体系要求的决定的信息。
 
-Medical device manufacturers will not be afforded the opportunity to object to the composition of the audit team as described in ISO/IEC 17021-1:2015 clause 9.2.3.5. Manufacturers may utilize the appeals process to notify the Auditing Organization of any concerns related to the audit team composition. 
+### 审核机构应在收到拒绝、暂停、恢复、限制或撤销证书决定的日期后的 5 个工作日内，以书面形式通知认可的监管机构。通知应包含采取此类行动的理由。
 
-**Specific Requirements for Medical Device Auditing Organizations**
+### 审核机构应在收到与其认可相关的重大变更的通知，无论这些变更涉及其状态或运营的任何方面，包括：
 
-### No specific requirements
+* 法律、商业、组织或所有权状态；
 
-## Initial Certification
+* 组织结构、高级管理人员或关键人员；
 
-**Specific Requirements for Medical Device Auditing Organizations**
+* 主要政策；
 
-### The Auditing Organization shall determine how best to accomplish tasks of Stage 1 and Stage 2 with regards to off-site record review and on-site verifications. The Auditing Organization may combine elements of Stage 1 and Stage 2 to allow for a single on-site visit to the manufacturer. 
+* 资源、场所和关键地点；
 
-### The Auditing Organization shall audit all sites that will be recorded on the certificate. Any sites which are relevant to the manufacturer’s quality management system but audited off-site, should not be recorded on the certificate.
+* 作为审核机构的认可范围；以及
 
-### Stage 2 audit objectives shall specifically include evaluation of:
+* 以及其他可能影响审核机构满足认可要求的任何事项。
 
-### the effectiveness of the manufacturer’s QMS incorporating the applicable regulatory requirements;
+## 审核机构之间的信息交换
 
-### product/process related technologies (e.g. injection molding, sterilization);
+### 当审核机构与特定制造商或制造地点终止关系时，审核机构应在制造商的要求和同意下，向下一家审核机构提供当前认证周期的所有审核报告和该制造商或相关制造地点的有效证书。
 
-### adequate product technical documentation in relation to relevant regulatory requirements; and,
+# 流程要求
 
-### the manufacturer’s ability to comply with these requirements. 
+**医疗器械审计机构的具体要求**
 
-## Conducting on-site audits
+### 9.0.1 审核机构应记录至少涵盖以下程序的流程：
 
-**Specific Requirements for Medical Device Auditing Organizations**
+* 制造商的审核请求；
 
-### Audit reports written by Auditing Organizations shall not contain “Opportunities for Improvement” as this gives the appearance of consulting and may appear to be a conflict of interest. Audit findings shall only document conformity or nonconformity based on objective evidence, or observations. The audit report may document situations which appear to be non-conforming, but where insufficient audit evidence was collected or observed. 
+* 处理此类请求，包括验证文档的完整性、产品作为医疗器械的资格以及其分类；
 
-### Auditing organizations shall utilize the Global Harmonization Task Force document, GHTF/SG3/N19:2012, “Quality management system – Medical devices - Nonconformity Grading System for Regulatory Purposes and Information Exchange” to grade any nonconformity that may result from a regulatory audit. 
+* 请求、通信和需要提交的文件的语言；
 
-### Findings from any audit, (“mock audits,” “gap audits,” or “pre-assessment audits” outside of the scope of Stage 1/Stage 2 audits), shall be documented and taken into consideration when grading nonconformities identified at a subsequent regulatory audit. Audits of manufacturers used as a training audit for Regulatory Authorities, which do not issue any reports or list of findings, are not considered a “mock audit” for purposes of this clause. 
+* 适时，与制造商或授权代表的协议条款；
 
-## Certification decision
+* 适时，审计费用；
 
-**Exceptions to ISO 17021-1:2015**
+* 初始、监督和重新审计/再认证审计的规划、执行和报告；
 
-The person(s) assigned by the Audit Organization to make a certification decision shall be employed or shall be under a legally enforceable arrangement with the Auditing Organization. A legally enforceable arrangement with an entity other than the Auditing Organization as described in ISO/IEC 17021-1:2015 clause 9.5.1.2 is not acceptable to make a certification decision on behalf of the Auditing Organization, even if this other entity is under the organizational control of the Auditing Organization. See also IMDRF/MDSAP WG/N29 Final:2015.
+* 审计机构确定要对制造商或其供应商（或供应商）进行审计的场所的过程；
 
-**Specific Requirements for Medical Device Auditing Organizations**
+* 根据审计人员的能力，将审计人员分配到特定活动；
 
-### An Auditing Organization conducting an initial audit or a recertification audit shall not conclude that a manufacturer complies with regulatory requirements if the Auditing Organization, utilizing the Global Harmonization Task Force document, GHTF/SG3/N19:2012, “Quality management system – Medical devices - Nonconformity Grading System for Regulatory Purposes and Information Exchange”:
+* 关于质量管理体系符合性的决策过程，包括，适时，关于颁发、拒绝、暂停、恢复、限制、修改或撤销证书以及证书有效性的可能条件或限制的决定；
 
-  * has graded one or more nonconformity(ies) as a “5”; or,
-  * has graded more than two nonconformities as a “4.” 
+* 评估需要事先批准的特定变更；
 
-### An Auditing Organization conducting an initial audit or a recertification audit shall have sufficient and reliable evidence to support a decision of compliance or non-compliance with regulatory requirements. 
+* 跟踪审计期间发现的不符合性所采取的纠正和纠正措施；以及
 
-### An Auditing Organization conducting an initial audit or a recertification audit shall not conclude that a manufacturer complies with regulatory requirements, if the Auditing Organization is aware of information that indicates a public health threat. Such information shall be reported to the recognizing Regulatory Authority in writing within 5 working days. (See 8.6.4) 
+* 适时，证书的续期。
 
-## Maintaining certification
+## 认证前要求
 
-**Exceptions to ISO 17021-1:2015**
+**医疗器械审计机构的具体要求**
 
-### The Auditing Organization shall schedule recertification audits with sufficient time to complete the recertification process prior to the end of the certificate period. It is not acceptable to have an expired certificate as described in ISO/IEC 17021:2015 Clause 9.6.3.2.5. 
+### 审计机构应收集制造商根据其风险管理计划，对产品和服务的关键供应商的名称和位置信息。
 
-**Specific Requirements for Medical Device Auditing Organizations**
+## 计划审计
 
-### Surveillance audits shall include a review of issues related to medical device safety and effectiveness since the last audit such as complaints, problem reports, vigilance reports, and recalls/field corrections/advisory notices.
+**ISO 17021-1:2015 的例外情况**
 
-### Surveillance audit objectives during the audit cycle shall specifically include evaluation of the effectiveness of the manufacturer’s QMS incorporating the applicable regulatory requirements and the manufacturer’s ability to comply with these requirements. In addition:
+医疗器械制造商将不会有机会反对审计团队的组成，如ISO/IEC 17021-1:2015第9.2.3.5条所述。制造商可以使用申诉程序，通知审计机构就审计团队组成方面的问题。
 
-  * new or changed product/process related technologies (e.g. injection molding, sterilization); and,
-  * new or amended product technical documentation in relation to relevant regulatory requirements. 
+**医疗器械审计机构的具体要求**
 
-### The Auditing Organization may maintain a manufacturer’s certification based on positive conclusions by the audit team leader in accordance with ISO/IEC 17021-1:2015 clause 9.6.1(a and b) unless the audit team leader is an external auditor, external technical expert, or an auditor or technical expert from an external organization. If the audit team leader is an external auditor, external technical expert, or an auditor or technical expert from an external organization, then an independent review by the Auditing Organization must be performed. 
+### 无特定要求
 
-### During a recertification audit, the Auditing Organization shall audit all sites that are recorded on the certificate. Any sites which are relevant to the manufacturer’s quality management system but audited off-site, should not be recorded on the certificate. 
+## 初始认证
 
-### Recertification audit objectives shall specifically include evaluation of: 
+**医疗器械审计机构的具体要求**
 
-### the effectiveness of the manufacturer’s QMS incorporating the applicable regulatory requirements;
+### 审核机构应确定如何最好地完成第 1 阶段和第 2 阶段的任务，包括离场记录审查和现场验证。 审核机构可以结合第 1 阶段和第 2 阶段的要素，以便制造商进行一次单一的现场访问。
 
-### product/process related technologies (e.g. injection molding, sterilization);
+### 审核机构应审核所有将在证书上记录的地点。 任何与制造商的质量管理系统相关，但离场进行审核的地点，不应在证书上记录。
 
-### adequate product technical documentation in relation to relevant regulatory requirements; and,
+### 第 2 阶段的审核目标应明确包括评估：
 
-### the manufacturer’s continued fulfillment of these requirements.
+### 制造商的质量管理系统（QMS）的有效性，包括适用的法规要求；
 
-### Upon request by the recognizing Regulatory Authority(s), the Auditing Organization shall perform a special audit of a manufacturer under the direction of the recognizing Regulatory Authority(s) requesting the special audit. 
+### 与产品/工艺相关的技术（例如，注射成型、灭菌）；
 
-Note: Recognizing Regulatory Authorities themselves may perform special audits, including unannounced audits, anytime it deems necessary and within the purview of its jurisdiction. These audits performed by the recognizing Regulatory Authority(s) shall serve the dual purpose of auditing the medical device manufacturer and assessing the Auditing organization.
+### 与相关法规要求相关的充分的产品技术文件；以及，
 
-### Criteria for unannounced regulatory audits: 
+### 制造商符合这些要求的能力。
 
-  1. Auditing Organizations shall carry out unannounced audits if previous audits indicate serious and/or frequent nonconformities. Auditing Organizations shall utilize the Global Harmonization Task Force document, GHTF/SG3/N19:2012, “Quality management system – Medical devices - Nonconformity Grading System for Regulatory Purposes and Information Exchange” to determine if a manufacturer is receiving significant or frequent nonconformities or if a nonconformity has resulted in the release of nonconforming medical devices. An unannounced audit shall occur following any audit that results in:
+## 进行现场审核
 
-  * one or more nonconformity(s) graded as a “5”; or,
-  * more than two nonconformities graded as a “4.”
+**医疗器械审计机构的具体要求**
 
-The timing of the unannounced audits should be unpredictable and in addition to the normally scheduled audits. In the case of an unannounced audit due to frequent noncompliance or release of nonconforming medical devices, the auditing organization should allow approximately 6-9 months for the manufacturer to implement their Corrective Action plan, unless the manufacturer has provided evidence that the Corrective Action plan will be completed earlier. These unannounced audits should focus on the noncompliance, and the correction, the corrective action and the systemic corrective action taken for both the manufacturer’s quality management system, as well as any medical devices produced under the nonconformance released to the market or still within the control of the manufacturer. 
+### 由审核机构撰写的审核报告不得包含“改进机会”，因为这会给人一种咨询的感觉，并且可能被视为利益冲突。 审核结果应仅基于客观证据或观察来记录符合或不符合的情况。 审核报告可以记录看似不符合的情况，但如果收集或观察到的审核证据不足。
 
-As a general principle an unannounced audit should be executed by at least two auditors and not take less than one day. 
+### 审核机构应使用全球协调任务组文件“质量管理系统 – 医疗器械 – 适用于监管目的的不符合等级系统和信息交换” (GHTF/SG3/N19:2012)，对可能因监管审核而产生的任何不符合情况进行等级。
 
-2\. Auditing Organizations shall carry out unannounced audits if specific information provides reasons to suspect serious non-conformities of the devices, or of their manufacturer, or if the recognizing Regulatory Authority(s) requests an unannounced audit. These unannounced audits would focus on the specific information of the serious non-conformity or request from the recognizing Regulatory Authority(s).
+### 任何审计（包括“模拟审计”、“差距审计”或在第一阶段/第二阶段审计范围之外进行的“预评估审计”）的结果，应进行记录，并在后续的监管审计中，用于评估识别出的不符合情况。用于监管机构的培训审计的制造商审计，如果未发布任何报告或结果清单，则不应被视为本条款中的“模拟审计”。
 
-  1. Unannounced audits on premises of the manufacturer or of his contracted critical suppliers shall be foreseen in the contractual arrangements; both between the manufacturer and the critical supplier, and between the auditing organization and the manufacturers. If a visa is needed to visit the country where the manufacturer is located, the contractual arrangements should contain, as an annex, an invitation to visit the manufacturer or contracted critical supplier at any time and an invitation which leaves the date of visit open. The contractual arrangements shall also contain, as an annex, similar invitations issued by the critical suppliers. The contractual arrangements shall authorize the auditing organizations to end the contract as soon as permanent unannounced access to the premises of the manufacturer or his contracted critical suppliers is no longer assured. The contractual arrangements shall furthermore cover the measures to be taken by auditing organizations to ensure the security of their auditors. It shall provide for a financial compensation for the unannounced audits including security arrangements.
+## 认证决定
 
-### An Auditing Organization that performs a special audit at the request of the recognizing Regulatory Authority(s) or an unannounced audit according to the criteria listed in this document shall submit the audit report to the recognizing Regulatory Authority(s) within 15 days from the last day of the audit. 
+**ISO 17021-1:2015 的例外情况**
 
-### If the Auditing Organization suspends, withdraws, cancels, or reduces the scope of a certificate, the Auditing Organization shall inform the recognizing Regulatory Authority(s). 
+由审计组织指定的人员，在做出认证决定的情况下，必须是审计组织的雇员，或者与审计组织存在具有法律效力的协议。 按照ISO/IEC 17021-1:2015 第 9.5.1.2 条所述，与除审计组织以外的实体存在具有法律效力的协议，即使该实体在审计组织的控制下，也不能代替审计组织做出认证决定。 参见 IMDRF/MDSAP WG/N29 Final:2015。
 
-## Appeals
+**医疗器械审计机构的具体要求**
 
-**Specific Requirements for Medical Device Auditing Organizations**
+### 审核机构在进行首次审核或再认证审核时，不得得出制造商符合法规要求的结论，如果审核机构利用《全球协调任务组文件》GHTF/SG3/N19:2012，即“质量管理体系——医疗器械——用于监管目的的不符合等级系统和信息交换”，则：
 
-### No specific requirements.
+* 将一个或多个不符合项评为“5”；或，
 
-## Complaints
+* 将超过两个不符合项评为“4”。
 
-**Specific Requirements for Medical Device Auditing Organizations**
+### 审核机构在进行首次审核或再认证审核时，必须有充分且可靠的证据来支持符合或不符合法规要求的决定。
 
-### The Auditing Organization shall forward to the recognizing Regulatory Authority(s) information on any complaint (e.g. whistleblowers) it receives about a medical device manufacturer that could indicate an issue related to the safety and effectiveness of medical devices or a public health risk.
+### 审核机构在进行首次审核或再认证审核时，不得得出制造商符合法规要求的结论，如果审核机构了解到有表明公共健康威胁的信息。此类信息应在5个工作日内以书面形式向认可的监管机构报告。（参见 8.6.4）
 
-## Records of manufacturers
+## 维持认证
 
-**Specific Requirements for Medical Device Auditing Organizations**
+**ISO 17021-1:2015 的例外情况**
 
-### No specific requirements.
+### 审核机构应安排再认证审核，并留出足够的时间完成再认证流程，在证书有效期结束之前。按照ISO/IEC 17021:2015第9.6.3.2.5条款，不得存在已过期的证书。
 
-#  Management system requirements for Auditing Organizations
+**医疗器械审计机构的具体要求**
 
-## Options
+### 监督审核应包括自上次审核以来，与医疗器械安全和有效性相关的问题的审查，例如投诉、问题报告、监测报告和召回/现场纠正/咨询通知。
 
-**Specific Requirements for Medical Device Auditing Organizations**
+### 审计周期期间的监督审计目标应特别包括评估制造商的质量管理体系（QMS）的有效性，该体系符合适用的法规要求，以及制造商遵守这些要求的能力。此外：
 
-### The Auditing Organization shall establish, document, implement, maintain, and operate a quality management system that is appropriate to the nature, area, and scale of its audits and capable of supporting and demonstrating the consistent achievement of the requirements of applicable medical device legislation or regulatory policies/programs.
+* 与新或变更的产品/工艺相关的技术（例如：注射成型、灭菌）；以及，
 
-### The Auditing Organization shall retain records of conformity to this document for a period of time not less than 15 years. 
+* 与相关法规要求相关的新的或修改后的产品技术文件。
 
-###  The Auditing Organization shall perform measuring, monitoring and the analysis of their audit program to provide information relating to the characteristics and trends of their processes such as: consistency in audit reports, bias in identified nonconformances, feedback from medical device manufacturers, etc.
+### 审计机构可以根据审计团队领导人的积极结论，按照ISO/IEC 17021-1:2015第9.6.1(a和b)条款，维持制造商的认证，除非审计团队领导人是外部审计员、外部技术专家或来自外部组织的审计员或技术专家。如果审计团队领导人是外部审计员、外部技术专家或来自外部组织的审计员或技术专家，则审计机构必须进行独立的审查。
 
-### The Auditing Organization when adhering to Option 1 or Option 2 under Clause 10 of ISO/IEC 17021-1:2015, shall conduct internal audits which covers all locations involved in medical device regulatory auditing.
+### 在重新认证审计期间，审计机构应审计所有在证书上记录的地点。任何与制造商的质量管理系统相关，但由外部审计的地点，不应在证书上记录。
 
-## Option 1: General management system requirements
+### 重新认证审计的目标应特别包括评估：
 
-**Specific Requirements for Medical Device Auditing Organizations**
+### 制造商的质量管理系统（QMS）的有效性，包括适用的法规要求；
 
-### No specific requirements.
+### 与产品/工艺相关的技术（例如，注射成型、灭菌）；
 
-## Option 2: Management system requirements in accordance with ISO 9001 
+### 与相关法规要求相关的充分的产品技术文件；以及，
 
-**Specific Requirements for Medical Device Auditing Organizations**
+### 制造商持续满足这些要求的情况。
 
-### No specific requirements.
+### 在认可的监管机构的要求下，审计机构应根据认可的监管机构的要求，对制造商进行特别审计。
 
-#  Revoking Recognition of an Auditing Organization
+注意：认可的监管机构可以随时（根据自身判断并在其管辖范围内）进行特别检查，包括未事先通知的检查。由认可的监管机构进行的检查，应同时对医疗器械制造商进行检查，并评估检查机构。
 
-## The recognition of an Auditing Organization shall be revoked if an Auditing Organization does not meet the requirements of this document with due process. For further information on revoking recognition, see IMDRF MDSAP WG N11.
+### 未事先通知的监管检查标准：
 
-# Annex A – Differences between IMDRF/MDSAP WG/N3:2016 and IMDRF/MDSAP WG/N3:2013
+1. 检查机构应在之前的检查表明存在严重且/或频繁的违规情况时，进行未事先通知的检查。 检查机构应使用“质量管理体系——医疗器械——用于监管目的的违规等级系统及信息交换” (GHTF/SG3/N19:2012) 这一文件，以确定制造商是否经常收到严重的或频繁的违规情况，或者是否存在违规情况导致不符合标准的医疗器械被发布。 未事先通知的检查应在以下任何检查后进行：
 
-The document IMDRF/MDSAP WG/N3 is being revised to align its structure to ISO/IEC 17021-1:2015, and address changes introduced by this standard.
+* 至少有一个或多个违规情况被评为“5”；或，
 
-**IMDRF/MDSAP WG/N3:2016**| **IMDRF/MDSAP WG/  
-N3:2013 Clause No**| **Notes on changes**  
----|---|---  
-**Clause No**|   
-**5.0**| **General requirements**| **5.0**|   
-**5.1**| **Legal and contractual matters** – preliminary statement| **5.1**|  Unchanged  
-5.1| Exception| 5.1| Unchanged  
-5.1.1 to 5.1.5| | 5.1.1 to 5.1.5| Unchanged  
-**5.2**| **Management of impartiality**| **5.2**|   
-5.2.1 to 5.2.10| | 5.2.1 to 5.2.10| Unchanged  
-5.2.11| | 6.2.1| Wording modified due to the removed requirement in ISO/IEC 17021-1:2015 for a committee for safeguarding impartiality; same intent.  
-**5.3**| **Liability and Financing**| **5.3**|   
-5.3.1 to 5.3.3| | 5.3.1 to 5.3.3| Unchanged  
-**6.0**| **Structural Requirements**| **6.0**|   
-**6.1**| **Organizational structure and top management**| **6.1**|   
-6.1.1 to 6.1.7| | 6.1.1 to 6.1.7| Unchanged, but corrected the link in 6.1.5 towards clause 7.1.6 as opposed to 7.1.5   
-**6.2**| **Operational controls**| |  New ISO/IEC 17021-1:2015 section  
-| | **6.2**|  ISO/IEC 17021-1:2015 removes the requirement on committee for safeguarding impartiality.The waiver for Auditing Organizations that are Regulatory Authorities becomes irrelevant.Requirement 6.2.1 is modified and moved as 5.2.11  
-**7.0**| **Resource requirements**| **7.0**|   
-**7.1**| **Competence of personnel**| **7.1**|  Change of section title: was “Competence of management and personnel”  
-7.1.1 to 7.1.6| | 7.1.1 to 7.1.6 | Unchanged  
-**7.2**| **Personnel involved in auditing activities**| **7.2**|   
-7.2.1| | 7.2.1| Unchanged  
-**7.3**| **Use of individual external auditors and external technical experts**| **7.3**|   
-7.3.1 to 7.3.4| | 7.3.1 to 7.3.4| Unchanged  
-**7.4**| **Personnel records**| **7.4**|   
-7.4.1| | 7.4.1| Unchanged  
-**7.5**| **Outsourcing**| **7.5**|   
-7.5.1 to 7.5.4| | 7.5.1 to 7.5.4| Unchanged  
-**8.0**| **Information requirements**| **8.0**|   
-**8.1**| **Public information**| **8.1**|  Change of section title: was “Publicly accessible information”  
-8.1.1| | 8.3.1| Unchanged  
-**8.2**| **Certification documents**| **8.2**|   
-8.2.1 to 8.2.2| | 8.2.1 to 8.2.2| Unchanged  
-8.2.2| | 8.2.2|   
-| | **8.3**|  ISO/IEC 17021-1:2011 Section 8.3 – _Directory of certified manufacturers_ – was removed  
-**8.3**| **Reference to certification and use of marks**| **8.4**|  No specific requirements  
-**8.4**| **Confidentiality**| **8.5**|   
-8.4.1 to 8.4.2| | 8.5.1 to 8.5.2| Unchanged  
-**8.5**| **Information exchange between the Auditing Organization and manufacturers**| **8.6**|  No specific requirements  
-**8.6**| **Information exchange between the Auditing Organization (when not a Regulatory Authority) and recognizing Regulatory Authority(s)**| **8.7**|   
-8.6.1 to 8.6.5| | 8.7.1 to 8.7.5| Unchanged  
-**8.7**| **Information exchange between Auditing Organizations**| **8.8**|   
-8.7.1| | 8.8.1| Unchanged  
-**9.0**| **Process requirements**| **9.0**|   
-9.0.1| | 9.1.1| This requirement is general and concerns all following subsections  
-**9.1**| **Precertification requirements**| |  Sections 9.1 to 9.6 are completely reorganized  
-9.1.1| | 9.2.1|   
-**9.2**| **Planning audits**| |   
-|  Exception| | This exception was part of former 9.1.  
-**9.3**| **Initial Certification**| |   
-9.3.1 to 9.3.3| | 9.2.3 to 9.2.4 | Unchanged  
-**9.4**| **Conducting on-site audits**| |   
-9.4.1| | 9.1.3| Unchanged  
-9.4.2| | 9.1.2| Unchanged  
-9.4.3| | 9.2.5| Unchanged  
-**9.5**| **Certification decision**| |   
-|  Exception| | This new exception is necessary to ensure that certification decision remain the exclusive authority of the auditing organization’s management responsible for the MDSAP program.  
-9.5.1| | 9.2.6 + 9.4.3| With the re-organization of ISO/IEC 17021-1:2015, combined and moved 9.2.6 and 9.4.3 identical requirements applicable to the certification decision following the initial audit or the recertification audit respectively.  
-9.5.2| | 9.2.7 + 9.4.4| With the re-organization of ISO/IEC 17021-1:2015, combined and moved 9.2.7 and 9.4.4 identical requirements applicable to the certification decision following the initial audit or the recertification audit respectively.  
-9.5.3| | 9.2.8 + 9.4.5| With the re-organization of ISO/IEC 17021-1:2015, combined and moved 9.2.8 and 9.4.5 identical requirements applicable to the certification decision following the initial audit or the recertification audit respectively.  
-**9.6**| **Maintaining certification**| |   
-9.6.1| | 9.6.1| Unchanged  
-9.6.2 to 9.6.4| | 9.3.1 to 9.3.3| Unchanged  
-9.6.5 to 9.6.6| | 9.4.1 to 9.4.2| Unchanged  
-9.6.7 to 9.6.9| | 9.5.1 to 9.5.3| Unchanged  
-9.6.10| | 9.6.1| Unchanged  
-**9.7**| **Appeals**| **9.7**|  No specific requirements  
-**9.8**| **Complaints**| **9.8**|  No specific requirements  
-**9.9**| **Records of manufacturers**| **9.9**|  No specific requirements  
-**10.0**| **Management system requirement for Auditing Organizations**| **10.0**|   
-**10.1**| **Options**| **10.1**|   
-10.1.1 to 10.1.3| | 10.1.1 to 10.1.3| Unchanged  
-**10.2**| **Option 1: General management system requirements**| **10.3**|  No specific requirements  
-**10.3**| **Option 2: Management system requirements in accordance with ISO 9001**| **10.2**|  No specific requirements  
-**11.0**| **Revoking recognition of an Auditing Organization**| **11.0**|  Unchanged  
+* 超过两个违规情况被评为“4”。
 
-  1. To the extent possible during on-site audits in accordance with the applicable regulatory system. ↑
+[Glossary - 使用这些精确的翻译，当这些术语出现时：]
+  差距分析 -> Gap Analysis
+  test_zh -> test_en
 
-  2. To the extent possible during on-site audits in accordance with the applicable regulatory system. ↑
+不定期检查的时间应具有不可预测性，并且应在通常安排的检查之外进行。如果由于频繁的违规行为或将不符合要求的医疗器械投放市场而进行不定期检查，审核机构应允许制造商在实施纠正措施计划后大约 6-9 个月，除非制造商已提供证据表明该计划将在更短的时间内完成。这些不定期检查应侧重于违规行为、纠正措施、制造商及其质量管理体系所采取的纠正措施，以及投放市场或制造商仍在控制范围内的任何不符合要求的医疗器械。
+
+作为一般原则，不定期检查应由至少两名审核员执行，并且不应少于一天。
+
+2\. 审核机构应在以下情况下进行不定期检查：如果具体信息表明存在严重的设备或制造商不符合要求，或者如果认可的监管机构要求进行不定期检查。这些不定期检查将侧重于严重的设备或制造商不符合要求的具体信息，或认可的监管机构的要求。
+
+1. 制造商或其指定的关键供应商的现场未事先通知的审计应在合同安排中予以规定；包括制造商与关键供应商之间的合同，以及审计组织与制造商之间的合同。如果访问制造商所在国家需要签证，合同安排应作为附件包含，邀请制造商或指定的关键供应商随时访问，以及留下访问日期的开放邀请。合同安排还应作为附件包含，由关键供应商发布的类似邀请。合同安排应授权审计组织在制造商或其指定的关键供应商的现场永久性、未事先通知的访问不再保证时，立即终止合同。合同安排还应涵盖审计组织采取的措施，以确保其审计人员的安全。这应包括未事先通知的审计的财务补偿，以及安全安排。
+
+### 如果审计组织根据本文件列出的标准，以认可监管机构的请求或未事先通知的方式进行特殊审计，则应在审计的最后一天后 15 天内，将审计报告提交给认可的监管机构。
+
+### 如果审计组织暂停、撤销、取消或缩小证书的范围，则应通知认可的监管机构。
+
+## 申诉
+
+**医疗器械审计机构的具体要求**
+
+### 无特定要求。
+
+## 投诉
+
+**医疗器械审计机构的具体要求**
+
+### 审核机构应将收到的关于医疗器械制造商的任何投诉（例如，举报人）的信息，告知认可的监管机构，这些投诉可能表明与医疗器械的安全性、有效性或公共健康风险有关的问题。
+
+## 制造商记录
+
+**医疗器械审计机构的具体要求**
+
+### 无特定要求。
+
+# 审核机构的管理系统要求
+
+## 选项
+
+**医疗器械审计机构的具体要求**
+
+### 审核机构应建立、记录、实施、维护和运营一套符合其审计的性质、范围和规模的质量管理体系，并能够支持和证明符合相关医疗器械立法或监管政策/计划的要求。
+
+### 审核机构应保留符合本文件的记录，期限不低于15年。
+
+### 审核机构应进行其审计计划的测量、监控和分析，以提供有关其流程的特征和趋势的信息，例如：审计报告的一致性、识别出的不符合情况的偏差、来自医疗器械制造商的反馈等。
+
+### 当审核机构遵循 ISO/IEC 17021-1:2015 第 10 条的选项 1 或选项 2 时，应进行内部审计，涵盖所有参与医疗器械监管审计的地点。
+
+## 选项 1：通用管理系统要求
+
+**医疗器械审计机构的具体要求**
+
+### 无特定要求。
+
+## 选项 2：符合 ISO 9001 的管理体系要求
+
+**医疗器械审计机构的具体要求**
+
+### 无特定要求。
+
+#  撤销审核机构的认证
+
+## 如果审核机构未能按照本文件规定的程序满足要求，则应撤销其认证。有关撤销认证的更多信息，请参见 IMDRF MDSAP WG N11。
+
+# 附录 A – IMDRF/MDSAP WG/N3:2016 与 IMDRF/MDSAP WG/N3:2013 之间的差异
+
+IMDRF/MDSAP WG/N3 文档正在修订，以使其结构与 ISO/IEC 17021-1:2015 保持一致，并解决本标准引入的变更。
+
+**IMDRF/MDSAP WG/N3:2016**| **IMDRF/MDSAP WG/
+N3:2013 第条款**| **关于变更的说明**
+---|---|---
+**条款号**|
+**5.0**| **通用要求**| **5.0**|
+**5.1**| **法律和合同事项** – 预先声明| **5.1**| 未变
+5.1| 例外| 5.1| 未变
+5.1.1 至 5.1.5| | 5.1.1 至 5.1.5| 未变
+**5.2**| **确保公正性**| **5.2**|
+5.2.1 至 5.2.10| | 5.2.1 至 5.2.10| 未变
+5.2.11| | 6.2.1| 由于 ISO/IEC 17021-1:2015 中关于设立保障公正性的委员会的要求已删除，因此措辞进行了修改；意图相同。
+**5.3**| **责任和融资**| **5.3**|
+5.3.1 至 5.3.3| | 5.3.1 至 5.3.3| 未变
+**6.0**| **结构要求**| **6.0**|
+**6.1**| **组织结构和高级管理**| **6.1**|
+6.1.1 至 6.1.7| | 6.1.1 至 6.1.7| 未变，但将 6.1.5 中的链接修正为与 7.1.6 相对应，而不是 7.1.5
+**6.2**| **运营控制**| | 新的 ISO/IEC 17021-1:2015 部分
+| | **6.2**| ISO/IEC 17021-1:2015 删除了关于设立保障公正性的委员会的要求。关于监管机构的审计机构的豁免变得不相关。要求 6.2.1 已修改并移动为 5.2.11
+**7.0**| **
+
+1. 在符合相关监管体系的前提下，在现场审计期间，尽可能地进行。 ↑
+
+2. 在符合相关监管体系的前提下，在现场审计期间，尽可能地进行。 ↑
 
 
 <!-- fulltext-end -->

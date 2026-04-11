@@ -10,13 +10,17 @@ title: Essential Principles of Safety and Performance of Medical Devices and IVD
 [https://www.imdrf.org/documents/essential-principles-safety-and-performance-medical-devices-and-ivd-medical-devices](https://www.imdrf.org/documents/essential-principles-safety-and-performance-medical-devices-and-ivd-medical-devices)
 :::
 
+::: info
+This content has been machine-translated from the English original.
+:::
+
 <!-- fulltext-start -->
 
 ---
 
 ## 全文
 
-# Essential Principles of Safety and Performance of Medical Devices and IVD Medical Devices
+# 医疗器械和体外诊断器械的安全性与性能的基本原则
 
 **Document Number**: IMDRF/GRRP WG/N47 FINAL:2024 (Edition 2)
 
@@ -24,788 +28,849 @@ title: Essential Principles of Safety and Performance of Medical Devices and IVD
 
 ---
 
-Final Document  
+最终文档
+
 ---  
-IMDRF/GRRP WG/N47 FINAL:2024 (Edition 2)  
-Essential Principles of Safety and Performance of Medical Devices and IVD Medical Devices  
-Authoring Group  
-IMDRF Good Regulatory Review Practices  
+IMDRF/GRRP WG/N47 最终版：2024 (第2版)
+医疗器械和体外诊断器械的安全性与性能的基本原则
+编写组
+IMDRF 良好的监管审查实践
 
-Preface
+前言
 
-© Copyright 2024 by the International Medical Device Regulators Forum. 
+© 2024 年 国际医疗器械监管论坛 版权所有。
 
-This work is copyright. Subject to these Terms and Conditions, you may download, display, print, translate, modify and reproduce the whole or part of this work for your own personal use, for research, for educational purposes or, if you are part of an organisation, for internal use within your organisation, but only if you or your organisation do not use the reproduction for any commercial purpose and retain all disclaimer notices as part of that reproduction. If you use any part of this work, you must include the following acknowledgement (delete inapplicable): 
+本作品受版权保护。在遵守本条款和条件的前提下，您可以下载、显示、打印、翻译、修改和复制本作品的全部或部分内容，用于您个人的使用、研究、教育目的，或如果贵组织是组织，则用于贵组织的内部使用，但前提是您或贵组织不得将复制用于任何商业目的，并且保留所有版权声明。如果您使用本作品的任何部分，必须包含以下声明（删除不适用的内容）：
 
-“[Translated or adapted] from [insert name of publication], [year of publication], International Medical Device Regulators Forum, used with the permission of the International Medical Device Regulators Forum. The International Medical Device Regulators Forum is not responsible for the content or accuracy of this [adaption/translation].” 
+“[翻译或改编]自[插入出版物名称]，[出版年份]，国际医疗器械监管论坛，经国际医疗器械监管论坛授权使用。国际医疗器械监管论坛不对本[改编/翻译]的内容或准确性负责。”
 
-All other rights are reserved and you are not allowed to reproduce the whole or any part of this work in any way (electronic or otherwise) without first being given specific written permission from IMDRF to do so. Requests and inquiries concerning reproduction and rights are to be sent to the IMDRF Secretariat. 
+除上述内容外，所有其他权利均保留，未经IMDRF事先书面许可，您不得以任何方式（包括电子方式）复制本作品的全部或任何部分。有关复制和版权的请求和咨询应发送给IMDRF秘书处。
 
 ![](data:image/jpeg;base64,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)Incorporation of this document, in part or in whole, into another document, or its translation into languages other than English, does not convey or represent an endorsement of any kind by the IMDRF. 
 
-**Jeffrey Shuren, IMDRF Chair**
+**杰弗里·舒伦，IMDRF 主席**
 
-Contents
+内容
 
-Introduction 5
+引言 5
 
-1\. Scope 7
+1\. 范围 7
 
-2\. References 8
+2\. 参考文献 8
 
-3\. Definitions 11
+3\. 定义 11
 
-4\. Safety and Performance of Medical Devices – General Essential Principles 18
+4\. 医疗器械的安全性与性能 – 基本原则 18
 
-5\. Essential Principles Applicable to all Medical Devices and IVD Medical Devices 19
+5\. 适用于所有医疗器械和体外诊断器械的基本原则 19
 
-5.1. General 19
+5.1. 总体 19
 
-5.2. Clinical Evaluation 21
+5.2. 临床评估 21
 
-5.3. Chemical, Physical, and Biological Properties 21
+5.3. 化学、物理和生物特性 21
 
-5.4. Sterilization and Microbial Contamination 22
+5.4. 灭菌和微生物污染 22
 
-5.5. Considerations of Environment and Conditions of Use 23
+5.5. 环境和使用条件考虑 23
 
-5.6. Protection against Electrical, Mechanical, and Thermal Risks 25
+5.6. 保护免受电气、机械和热危害 25
 
-5.7. Active Medical Devices and IVD Medical Devices and Medical Devices Connected to Them 26
+5.7. 具有主动功能的医疗器械和体外诊断器械以及与之相关的医疗器械 26
 
-5.8. Medical Devices and IVD Medical Devices that Incorporate Software or are Software as a Medical Device 26
+5.8. 包含软件的医疗器械和体外诊断器械，或作为医疗软件的软件 26
 
-5.9. Medical Devices and IVD Medical Devices with a Diagnostic or Measuring Function 27
+5.9. 具有诊断或测量功能的医疗器械和体外诊断器械 27
 
-5.10. Labeling 28
+5.10. 标签 28
 
-5.11. Protection against Radiation 28
+5.11. 保护免受辐射 28
 
-5.12. Protection against the Risks posed by Medical Devices and IVD Medical Devices intended by the Manufacturer for use by Lay Users 29
+5.12. 保护免受制造商为非专业用户设计的医疗器械和体外诊断器械的危害 29
 
-5.13. Medical Devices and IVD Medical Devices Incorporating Materials of Biological Origin 30
+5.13. 包含生物材料的医疗器械和体外诊断器械 30
 
-6\. Essential Principles Applicable to Medical Devices other than IVD Medical Devices 31
+6\. 适用于非体外诊断器械的医疗器械的基本原则 31
 
-6.1. Chemical, Physical and Biological Properties 31
+6.1. 化学、物理和生物学特性 31
 
-6.2. Protection against Radiation 31
+6.2. 辐射防护 31
 
-6.3. Particular Requirements for Implantable Medical Devices 32
+6.3. 植入式医疗器械的特定要求 32
 
-6.4. Protection against the Risks Posed to the Patient or User by Medical Devices Supplying Energy or Substances 32
+6.4. 保护患者或用户免受医疗器械（提供能量或物质）带来的风险 32
 
-6.5. Medical Devices Incorporating a Substance Considered to be a Medicinal Product/Drug 32
+6.5. 包含被认为是药品/药物的物质的医疗器械 32
 
-7\. Essential Principles Applicable to IVD Medical Devices 33
+7\. 适用于体外诊断（IVD）医疗器械的基本原则 33
 
-7.1. Chemical, Physical and Biological Properties 33
+7.1. 化学、物理和生物学特性 33
 
-7.2. Performance Characteristics 33
+7.2. 性能特征 33
 
-Appendix A: Use of Standards in Meeting Essential Principles 35
+附录 A: 使用标准以满足基本原则 35
 
-Appendix B: Guidance on Essential Principles 38
+附录 B: 关于基本原则的指导 38
 
-# Introduction
+# 简介
 
-The purpose of this IMDRF guidance is to provide harmonized Essential Principles that should be fulfilled in the design and manufacturing of medical devices and in vitro __ diagnostic (IVD) medical devices to ensure that they are safe and perform as intended. The worldwide adoption of a common set of fundamental design and manufacturing requirements for medical devices that, when met, provide assurance the device is safe and performs as intended, offers significant benefits to, among others, manufacturers, users, patients/consumers, and to Regulatory Authorities. Reducing differences between jurisdictions decreases the cost of gaining regulatory compliance and allows patients earlier access to new technologies and treatments. 
+本 IMDRF 指导的目的是提供统一的基本原则，这些原则应在医疗器械和体外诊断（IVD）医疗器械的设计和制造中得到满足，以确保其安全且按照预期运行。 全球范围内采用一套基本的设计和制造要求，一旦满足，可以确保医疗器械的安全和按照预期运行，这为制造商、用户、患者/消费者以及监管机构等带来了显著的好处。 减少不同地区的差异可以降低获得监管合规的成本，并使患者能够更早地获得新技术和治疗。
 
-This document has been developed to encourage and support global convergence of regulatory systems. It is intended for use by Regulatory Authorities (RAs), Conformity Assessment Bodies (CABs), industry, and other stakeholders, and will provide benefits in establishing, in a consistent way, an economic and effective approach to the control of medical devices in the interest of public health. It seeks to strike a balance between the responsibilities of RAs to safeguard the health of their citizens and their obligations to avoid placing unnecessary burdens upon the industry. 
+本文件旨在鼓励和支持全球监管体系的统一。它 intended for use by Regulatory Authorities (RAs), Conformity Assessment Bodies (CABs), industry, and other stakeholders, and will provide benefits in establishing, in a consistent way, an economic and effective approach to the control of medical devices in the interest of public health. It seeks to strike a balance between the responsibilities of RAs to safeguard the health of their citizens and their obligations to avoid placing unnecessary burdens upon the industry.
 
-The manufacturer of a medical device and in vitro diagnostic (IVD) medical device is expected to design and manufacture a product that is safe and effective throughout its life-cycle. This guidance document describes fundamental design and manufacturing requirements, referred to as ‘Essential Principles of Safety and Performance’ that, when met, provide assurance that a medical device and IVD medical device is safe and performs as intended, by the manufacturer. Essential principles of safety and performance provide broad, high-level, criteria for design, production, and postproduction throughout the life-cycle of all medical devices and IVD medical devices, ensuring their safety and performance. Compliance with the Essential Principles of Safety and Performance, via the use of applicable standards throughout a product’s lifecycle, including where appropriate a pre-market review, is an acceptable approach for applying controls relative to a device’s safety and performance by the RAs with Jurisdiction. Depending on the RA having jurisdiction and the particular medical device or IVD medical device there may be additional requirements that may need to be met. Where standards are being considered as part of regulatory compliance, their development can benefit from these Essential Principles of Safety and Performance.
+医疗器械和体外诊断（IVD）医疗器械的制造商应设计和制造一种在整个生命周期内安全有效的产品。本指南描述了基本的设计和制造要求，即“安全和性能的基本原则”，当这些原则得到满足时，可以确保医疗器械和IVD医疗器械安全有效，并按照制造商的要求运行。安全和性能的基本原则为所有医疗器械和IVD医疗器械的整个生命周期提供了广泛、高层次的设计、生产和上市后要求，从而确保其安全和性能。通过在产品生命周期的各个阶段（包括适当情况下，进行上市前审查）使用相关标准，符合安全和性能的基本原则，是一种可接受的方式，用于监管机构（RAs）控制医疗器械和IVD医疗器械的安全和性能。具体取决于具有管辖权的监管机构以及特定的医疗器械或IVD医疗器械，可能需要满足额外的要求。当标准被用于监管合规时，可以从这些安全和性能的基本原则中获益。
 
-As used within the context of this document to encourage compliance with the Essential Principles of Safety and Performance, “should” indicates that among several possibilities, one is recommended as particularly suitable, without mentioning or excluding others, or that a certain course of action is preferred but not necessarily required, or that (in the negative form) a certain possibility or course of action should be avoided but is not prohibited. “May” is used to indicate that a course of action is permissible within the limits of the standard. “Can” is used as a statement of possibility and capability. Finally, “must” is used only to describe “unavoidable” situations, including those mandated by government regulation.
+[术语表 - 在使用时，请使用以下精确翻译：]
+  差距分析 -> Gap Analysis
+  test_zh -> test_en
 
-This document supersedes an earlier version produced under the Global Harmonization Task Force (GHTF) with the same title dated November 2, 2012 (GHTF/SG1/N68:2012). 
+在本文档的上下文中，为了鼓励符合《安全和性能基本原则》，“should”表示在多个可能性中，推荐其中一种作为特别适合，而无需提及或排除其他可能性，或者表示某种行动是首选，但不一定需要，或者（在否定形式中）某种可能性或行动应该避免，但并非禁止。 “May” 用于表示在标准范围内，某种行动是允许的。“Can” 用来表示可能性和能力。 最终，“must”仅用于描述“不可避免”的情况，包括由政府法规规定的情况。
 
-This document is complemented by IMDRF/GRRP WG/N52 (Principles of Labelling for Medical Devices and IVD Medical Devices), which provides globally harmonized labelling principles for medical devices, including IVD medical devices. Specifically, IMDRF/GRRP WG/N52 provides guidance on the content of the label, instructions for use, and information intended for the patient in order to support the safe and effective use of medical devices and IVD medical devices by their intended users.
+本文件取代了由全球协调任务组（GHTF）于2012年11月2日发布的同名文件（GHTF/SG1/N68:2012）的早期版本。
 
-# Scope
+本文件与IMDRF/GRRP WG/N52（医疗器械和体外诊断医疗器械的标签原则）相互补充，后者提供了全球统一的医疗器械标签原则，包括体外诊断医疗器械。 具体而言，IMDRF/GRRP WG/N52提供了关于标签内容、使用说明以及为医疗器械和体外诊断医疗器械的预期用户提供的信息的指导，以支持这些医疗器械和体外诊断医疗器械的安全有效使用。
 
-This document applies to all medical devices and IVD medical devices and is intended to identify and describe essential principles of safety and performance which should be considered during the design and manufacturing process. Depending on the particular medical device or IVD medical device, some of the essential principles of safety and performance do not apply. In those cases, justifications should be provided for their exclusion. 
+# 范围
 
-# References
+本文件适用于所有医疗器械和体外诊断医疗器械，旨在识别和描述安全和性能的基本原则，这些原则应在设计和制造过程中加以考虑。 根据具体的医疗器械或体外诊断医疗器械，某些安全和性能的基本原则可能不适用。 在这些情况下，应提供排除的理由。
 
-  * IMDRF/GRRP WG/N40:2024 - _Competence, Training, and Conduct Requirements for Regulatory Reviewers_
-  * IMDRF/SaMD WG/N41:2017 - _Software as a Medical Device (SaMD): Clinical Evaluation_
-  * IMDRF/SaMD WG/N23:2015 - _Software as a Medical Device (SaMD): Application of Quality Management System_
-  * IMDRF/SaMD WG/N12:2014 - _“Software as a Medical Device”: Possible Framework for Risk Categorization and Corresponding Considerations_
-  * IMDRF/SaMD WG/N10:2013 - _Software as a Medical Device (SaMD): Key Definitions_
-  * GHTF/SG1/N78:2012 - _Principles of Conformity Assessment for Medical Devices_
-  * IMDRF/GRRP WG/N52:2024 - _Principles of Labeling for Medical Devices and IVD Medical Devices_
-  * GHTF/SG1/N044:2008 - _Role of Standards in the Assessment of Medical Devices_
-  * GHTF/SG1/N055:2009 - _Definitions of the Terms Manufacturer, Authorised Representative, Distributor and Importer_
-  * GHTF/SG1/N046:2008 - _Principles of Conformity Assessment for In Vitro Diagnostic (IVD) Medical Devices_
-  * GHTF/SG1/N071:2012 - _Definition of the Terms ‘Medical Device’ and ‘In Vitro Diagnostic (IVD) Medical Device’_
-  * GHTF/SG5/N1R8:2007 - _Clinical Evidence – Key Definitions and Concepts_
-  * GHTF/SG5/N2R8:2007 - _Clinical Evaluation_
-  * GHTF/SG5/N3:2010 - _Clinical Investigations_
-  * GHTF/SG5/N6:2012 - _Clinical Evidence for IVD Medical Devices - Key Definitions and Concepts_
-  * GHTF/SG5/N7:2012 - _Clinical Evidence for IVD Medical Devices - Scientific Validity Determination and Performance Evaluation_
-  * GHTF/SG5/N8:2012 - _Clinical Performance Studies for In Vitro Diagnostic Medical Devices_
-  * Declaration of Helsinki
+# 参考文献
 
-### Standards
+* IMDRF/GRRP WG/N40:2024 - _监管审查人员的能力、培训和行为要求_
 
-The standards below were consulted in the writing of this document and may be useful in meeting the essential principles discussed herein. This list is not intended as a required or complete list of standards that can be used to meet the essential principles.
+* IMDRF/SaMD WG/N41:2017 - _医疗器械软件（SaMD）：临床评估_
 
-  * ISO 14971 - _Medical Devices – Application of Risk Management to Medical Devices_
-  * ISO 13485 - _Medical Devices – Quality Management Systems – Requirements for Regulatory Purposes_
-  * ISO 11135 - _Sterilization of Health-Care Products -- Ethylene oxide -- Requirements for the Development, Validation and Routine Control of a Sterilization Process for Medical Devices_
-  * ISO 11137 - _Sterilization of Health Care Products -- Radiation_
-  * ISO 11138 - _Sterilization of Health Care Products -- Biological indicators_
-  * ISO 11140 - _Sterilization of Health Care Products -- Chemical indicators_
-  * ISO 11607 - _Packaging for Terminally Sterilized Medical Devices_
-  * ISO 11737 - _Sterilization of Medical Devices -- Microbiological Methods_
-  * ISO 17665 - _Sterilization of Health Care Products - Moist Heat_
-  * ISO 14937 - _Sterilization of Health Care Products - General Requirements for Characterization of a Sterilizing Agent and the Development, Validation and Routine Control of a Sterilization Process for Medical Devices_
-  * ISO 13408 - _Aseptic Processing of Health Care Products_
-  * ISO 10993 - _Biological Evaluation of Medical Devices_
-  * ISO 20417 - _Medical devices - Information to be supplied by the manufacturer_
-  * ISO 23640 - _In Vitro Diagnostic Medical Devices - Evaluation of stability of in vitro diagnostic reagents_
-  * ISO 14155 - _Clinical Investigation of Medical Devices for Human Subjects - Good clinical practice_
-  * ISO 14644 - _Cleanrooms and Associated Controlled Environments_
-  * ISO 17664 - _Processing of Health Care Products - Information to be Provided by the Medical Device Manufacturer for the Processing of Medical Devices_
-  * ISO 80369 - _Small-Bore Connectors for Liquids and Gases in Healthcare Applications_
-  * ISO 22442 - _Medical Devices Utilizing Animal Tissues and their Derivatives_
-  * IEC 60601 - _Medical Electrical Equipment_
-  * IEC 61010 - _Safety Requirements for Electrical Equipment for Measurement, Control, and Laboratory Use_
-  * IEC 62366-1 - _Medical Devices - Part 1: Application of Usability Engineering to Medical Devices_
-  * IEC 62366-2 - _Medical Devices - Part 2: Guidance on the Application of Usability Engineering to Medical Devices_
-  * IEC 80001 - _Application of Risk Management for IT Networks Incorporating Medical Devices_
-  * IEC 62304 - _Medical device software - Software Life Cycle Processes_
-  * CLSI EP05 - _Evaluation of Precision of Quantitative Measurement Procedures_
-  * CLSI EP06 - _Evaluation of the Linearity of Quantitative Measurement Procedures_
-  * CLSI EP07 - _Interference Testing in Clinical Chemistry_
-  * CLSI EP12 - _User Protocol for Evaluation of Qualitative Test Performance; Approved Guideline_
-  * CLSI EP17 - _Evaluation of Detection Capability for Clinical Laboratory Measurement Procedures; Approved Guideline_
-  * CLSI EP21 - _Evaluation of Total Analytical Error for Quantitative Medical Laboratory Measurement Procedures_
-  * CLSI EP25 - _Evaluation of Stability of In Vitro Diagnostic Reagent_
-  * CLSI EP28 - _Defining, Establishing, and Verifying Reference Intervals in the Clinical Laboratory_
+* IMDRF/SaMD WG/N23:2015 - _医疗器械软件（SaMD）：质量管理体系的应用_
 
-# Definitions
+* IMDRF/SaMD WG/N12:2014 - _“医疗器械软件”：风险分类和相关考虑的可能框架_
 
-##  _Active Medical Device_ : Any medical device, operation of which depends on a source of electri­cal energy or any source of power other than that directly generated by the human body or gravity and which acts by converting this energy. Medical devices intended to transmit energy, substances or other elements between an active medical device and the patient, without any significant change, are not considered to be active medical devices. Standalone software is considered to be an active medical device. (GHTF/SG1/N77:2012)
+* IMDRF/SaMD WG/N10:2013 - _医疗器械软件（SaMD）：关键定义_
 
-## _Analytical Performance of an IVD Medical Device:_ The ability of an IVD medical device to detect or measure a particular analyte. (GHTF/SG5/N6:2012)
+* GHTF/SG1/N78:2012 - _医疗器械的合规性评估原则_
 
-## _Appropriately Reduce [Risks]:_ The reduction of risk to an acceptable level as determined by the manufacturer and regulatory authority (reducing risk as low as reasonably practicable, reducing risk as low as reasonably achievable, or reducing risk as far as possible) without adversely affecting the benefit-risk ratio.__
+* IMDRF/GRRP WG/N52:2024 - _医疗器械和体外诊断（IVD）医疗器械的标签原则_
 
-## _Conformity Assessment Body (CAB):_ A body other than a Regulatory Authority engaged in determining whether the relevant requirements in technical regulations or standards are fulfilled. (IMDRF/GRRP WG/N40:2024) 
+* GHTF/SG1/N044:2008 - _标准在医疗器械评估中的作用_
 
-## _Clinical Data:_ Safety and/or performance information that are generated from the clinical use of a medical device. (GHTF/SG5/N1R8:2007)
+* GHTF/SG1/N055:2009 - _制造商、授权代表、经销商和进口商的定义_
 
-## _Clinical Evaluation:_ The assessment and analysis of clinical data pertaining to a medical device to verify the clinical safety and performance of the device when used as intended by the manufacturer. (GHTF/SG5/N1R8:2007)
+* GHTF/SG1/N046:2008 - _体外诊断（IVD）医疗器械的合规性评估原则_
 
-## _Clinical Evidence:_ The clinical data and the clinical evaluation report pertaining to a medical device. (GHTF/SG5/N1R8:2007)
+* GHTF/SG1/N071:2012 - _“医疗器械”和“体外诊断（IVD）医疗器械”的定义_
 
-## _Clinical Evidence for an IVD Medical Device:_ All the information that supports the scientific validity and performance for its use as intended by the manufacturer. (GHTF/SG5/N6:2012)
+* GHTF/SG5/N1R8:2007 - _临床证据 – 关键定义和概念_
 
-## _Clinical Investigation:_ Any systematic investigation or study in or on one or more human subjects, undertaken to assess the safety and/or performance of a medical device. Explanation: This term is synonymous with ‘clinical trial’ and ‘clinical study’. (GHTF/ SG5/N1R8)
+* GHTF/SG5/N2R8:2007 - _临床评估_
 
-## _Clinical Performance:_ The ability of a medical device to achieve clinical outcome(s) in its intended purpose as claimed by the manufacturer. (Modified from GHTF/SG5/N1R8:2007)
+* GHTF/SG5/N3:2010 - _临床试验_
 
-## _Clinical Performance of an IVD Medical Device:_ The ability of an IVD medical device to yield results that are correlated with a particular clinical condition/physiological state in accordance with target population and intended user. (Modified from GHTF/SG5/N6:2012)
+* GHTF/SG5/N6:2012 - _用于体外诊断医疗器械的临床证据 – 关键定义和概念_
 
-## NOTE: Clinical performance can include diagnostic sensitivity and diagnostic specificity based on the known clinical/physiological state of the individual, and negative and positive predictive values based on the prevalence of the disease.
+* GHTF/SG5/N7:2012 - _用于体外诊断医疗器械的临床证据 – 科学有效性确定和性能评估_
 
-## _Effective:_ The ability of a medical device or IVD medical device to provide clinically significant results in a significant portion of the target population.
+* GHTF/SG5/N8:2012 - _用于体外诊断医疗器械的临床性能研究_
 
-NOTE: This ability is assessed in situations where the medical device or IVD medical device is used for its intended uses and conditions of use and accompanied by adequate directions for use and warnings against unsafe use.****
+《赫尔辛基宣言》
 
-## _Expected Lifetime/Expected Service Life:_ Time period specified by the manufacturer during which the medical device or IVD medical device is expected to maintain safe and effective use.
+### 标准
 
-NOTE 1: The expected lifetime can be determined by stability.
+以下标准在编写本文件时被参考，并且可能对满足本文中讨论的关键原则有所帮助。此列表并非用于指定或完整列出可用于满足关键原则的标准。
 
-NOTE 2: Maintenance, repairs, or upgrades (e.g. safety or cybersecurity modifications) can be necessary during the expected lifetime.
+* ISO 14971 - _医疗器械 – 将风险管理应用于医疗器械_
 
-## _Expiry Date/Expiration Date:_ Upper limit of the time interval during which the safety and performance characteristics of a material stored under specified conditions can be assured. 
+* ISO 13485 - _医疗器械 – 质量管理体系 – 适用于监管目的的要求_
 
-NOTE 1: This also applies to medical devices whose physical, chemical or functional properties are maintained during a specified and known period, such as for capital equipment.
+* ISO 11135 - _医疗保健产品 – 乙烯氧化 – 医疗器械的消毒过程的开发、验证和常规控制要求_
 
-NOTE 2: Expiry dates are assigned to IVD reagents, calibrators, control materials and other components by the manufacturer, based on experimentally determined stability properties. 
+* ISO 11137 - _医疗保健产品 – 辐射_
 
-(Modified from ISO 18113-1:2022)
+* ISO 11138 - _医疗保健产品 – 生物指示剂_
 
-## _Harm:_ Injury or damage to the health of people, or damage to property or the environment. (ISO/IEC Guide 51:2014)
+* ISO 11140 - _医疗保健产品 – 化学指示剂_
 
-## _Hazard:_ Potential source of harm. (ISO/IEC Guide 51:2014)
+* ISO 11607 - _用于终态消毒的医疗器械的包装_
 
-## _Indications for Use:_ A general description of the disease or condition the medical device or IVD medical device will diagnose, treat, prevent, cure, or mitigate, including a description of the patient population for which the medical device or IVD medical device is intended.
+* ISO 11737 - _医疗器械的灭菌——微生物方法_
 
-## _Intended Use / Intended Purpose_ : The objective intent regarding the use of a product, process or service as reflected in the specifications, instructions and information provided by the manufacturer. (Modified from GHTF/SG1/N77:2012)
+* ISO 17665 - _医疗保健产品的灭菌——潮湿热_
 
-NOTE: The intended use can include the indications for use.
+* ISO 14937 - _医疗保健产品的灭菌——灭菌剂的特性评估、医疗器械灭菌过程的开发、验证和常规控制_
 
-## _Instructions for Use:_ Information provided by the manufacturer to inform the device user of the medical device’s intended purpose and proper use and of any precautions to be taken. (GHTF/SG1/N70:2011)
+* ISO 13408 - _医疗保健产品的无菌处理_
 
-NOTE: Instructions for use can also be referred to as “package insert.”
+* ISO 10993 - _医疗器械的生物评估_
 
-##  _In Vitro Diagnostic (IVD) Medical Device_ : ‘In Vitro Diagnostic (IVD) medical device’ means a medical device, whether used alone or in combination, intended by the manufacturer for the in-vitro examination of specimens derived from the human body solely or principally to provide information for diagnostic, monitoring or compatibility purposes.
+* ISO 20417 - _医疗器械——制造商应提供的信息_
 
-NOTE 1: IVD medical devices include reagents, calibrators, control materials, specimen receptacles, software, and related instruments or apparatus or other articles and are used, for example, for the following test purposes: diagnosis, aid to diagnosis, screening, monitoring, predisposition, prognosis, prediction, determination of physiological status. 
+* ISO 23640 - _体外诊断医疗器械——体外诊断试剂的稳定性评估_
 
-NOTE 2: In some jurisdictions, certain IVD medical devices may be covered by other regulations.
+* ISO 14155 - _医疗器械对人体进行临床试验——良好临床实践_
+
+* ISO 14644 - _洁净室及其相关控制环境_
+
+* ISO 17664 - _医疗保健产品的处理——医疗器械制造商应提供的关于医疗器械处理的信息_
+
+* ISO 80369 - _医疗应用中的液体和气体小孔连接器_
+
+* ISO 22442 - _利用动物组织及其衍生物的医疗器械_
+
+* IEC 60601 - _医疗电气设备_
+
+* IEC 61010 - _用于测量、控制和实验室用途的电气设备的安全要求_
+
+* IEC 62366-1 - _医疗器械 - 第 1 部分：将可用性工程应用于医疗器械_
+
+* IEC 62366-2 - _医疗器械 - 第 2 部分：关于将可用性工程应用于医疗器械的指导_
+
+* IEC 80001 - _包含医疗器械的 IT 网络风险管理的应用_
+
+* IEC 62304 - _医疗器械软件 - 软件生命周期流程_
+
+* CLSI EP05 - _定量测量程序的精度评估_
+
+* CLSI EP06 - _定量测量程序的线性评估_
+
+* CLSI EP07 - _临床化学中的干扰测试_
+
+* CLSI EP12 - _用于评估定性测试性能的用户协议；批准指南_
+
+* CLSI EP17 - _用于评估临床实验室测量程序的检测能力评估；批准指南_
+
+* CLSI EP21 - _用于定量医疗实验室测量程序的总分析误差评估_
+
+* CLSI EP25 - _体外诊断试剂的稳定性评估_
+
+* CLSI EP28 - _定义、建立和验证临床实验室中的参考范围_
+
+# 定义
+
+## _主动医疗器械_：任何依赖电能或其他非人体或重力直接产生的能量作为能源，并以转换这种能量为作用方式的医疗器械。 旨在在不产生显著变化的情况下，将能量、物质或其他元素从主动医疗器械传递给患者的医疗器械，不被视为主动医疗器械。 独立软件被认为是主动医疗器械。 (GHTF/SG1/N77:2012)
+
+## _体外诊断医疗器械的分析性能_：体外诊断医疗器械检测或测量特定分析物的能力。 (GHTF/SG5/N6:2012)
+
+## _适当降低[风险]_：制造商和监管机构根据制造商和监管机构的决定，将风险降低到可接受的水平（降低到尽可能低的水平、降低到尽可能可行的水平或降低到尽可能远的水平），而不会对风险与获益比产生不利影响。
+
+## _符合性评估机构 (CAB)_：除了监管机构之外，负责确定是否符合相关技术法规或标准的机构。 (IMDRF/GRRP WG/N40:2024)
+
+## _临床数据_：从医疗器械的临床使用中产生的安全和/或性能信息。 (GHTF/SG5/N1R8:2007)
+
+## _临床评估_：对医疗器械的临床数据进行评估和分析，以验证医疗器械在制造商预期下使用时的临床安全性和性能。 (GHTF/SG5/N1R8:2007)
+
+## _临床证据_：关于医疗器械的临床数据和临床评估报告。 (GHTF/SG5/N1R8:2007)
+
+## _IVD 医疗器械的临床证据:_ 支持其按照制造商的意图使用，并证明其科学有效性和性能的所有信息。(GHTF/SG5/N6:2012)
+
+## _临床研究:_ 对一个或多个人体进行的一项有系统性的调查或研究，旨在评估医疗器械的安全性及/或性能。 说明：该术语与“临床试验”和“临床研究”含义相同。(GHTF/SG5/N1R8)
+
+## _临床性能:_ 医疗器械或IVD医疗器械在制造商声称的用途中，实现临床结果的能力。 (改编自GHTF/SG5/N1R8:2007)
+
+## _IVD 医疗器械的临床性能:_ IVD 医疗器械在与特定临床/生理状态相符，并符合目标人群和预期用户的情况下，产生与特定临床/生理状态相关的结果的能力。 (改编自GHTF/SG5/N6:2012)
+
+## 备注：临床性能可能包括基于个体已知临床/生理状态的诊断灵敏度和诊断特异性，以及基于疾病患病率的正预测值和负预测值。
+
+## _有效:_ 医疗器械或IVD 医疗器械在目标人群中，能够产生临床显著结果的能力。
+
+备注：在医疗器械或IVD 医疗器械用于其预期用途和使用条件下，并伴有充分的使用说明和关于不安全使用的警告时，才能评估这种能力。
+
+## _预期寿命/预期服务寿命:_ 制造商指定，医疗器械或IVD 医疗器械预计能够安全有效地使用的时间段。
+
+备注 1：预期寿命可以通过稳定性来确定。
+
+说明 2：在预期寿命期间，维护、修理或升级（例如，安全或网络安全方面的修改）可能都是必要的。
+
+## _有效期/失效日期：_ 在指定条件下储存的材料的安全和性能特性可得到保证的时间段的上限。
+
+说明 1：这也适用于物理、化学或功能特性在指定且已知的期间内保持不变的医疗器械，例如，用于资本设备的医疗器械。
+
+说明 2：制造商根据实验确定稳定性特性，为体外诊断试剂、校准器、控制材料和其他组件指定有效期。
+
+（改编自 ISO 18113-1:2022）
+
+## _危害：_ 对人身、财产或环境造成的伤害或损害。 （ISO/IEC 指导词 51:2014）
+
+## _危险：_ 潜在的危害来源。 （ISO/IEC 指导词 51:2014）
+
+## _适应症：_ 描述医疗器械或体外诊断医疗器械用于诊断、治疗、预防、治愈或减轻的疾病或状况，包括为医疗器械或体外诊断医疗器械设计的患者人群的描述。
+
+## _预期用途/预期目的：_ 指制造商在规格、说明和提供的信息中反映的，关于产品、工艺或服务的预期用途。 （改编自 GHTF/SG1/N77:2012）
+
+说明：预期用途可以包括适应症。
+
+## _使用说明：_ 制造商向设备使用者提供的信息，说明医疗器械的预期用途、正确使用方法以及应采取的任何预防措施。（GHTF/SG1/N70:2011）
+
+注意：使用说明也可以被称为“包装说明”。
+
+## _体外诊断（IVD）医疗器械_： “体外诊断（IVD）医疗器械”是指，无论单独使用还是与其他器械组合使用，制造商为用于体外检查人体来源的标本，仅供或主要供用于提供诊断、监测或兼容性信息的医疗器械。
+
+注意 1：体外诊断（IVD）医疗器械包括试剂、校准剂、控制材料、标本容器、软件以及相关的仪器或设备或其他物品，并用于以下测试目的（例如）：诊断、辅助诊断、筛查、监测、预示、预测、确定生理状态。
+
+注意 2：在某些司法管辖区，某些体外诊断（IVD）医疗器械可能受到其他法规的管辖。
 
 (GHTF/SG1/N071:2012)
 
-## _Label:_ Written, printed, or graphic information either appearing on the medical device itself, or on the packaging of each unit, or on the packaging of multiple devices. (GHTF/SG1/N70:2011) 
+## _标签_： 任何以文字、印刷或图形形式出现在医疗器械本身、每个单元的包装或多个器械的包装上的信息。 (GHTF/SG1/N70:2011)
 
-NOTE: The definition above refers to the human readable label. 
+注意：上述定义指的是人类可读的标签。
 
-## _Labeling:_ the label, instructions for use, and any other information that is related to identification, technical description, intended purpose and proper use of the medical device, but excluding shipping documents. (GHTF/SG1/N70:2011) 
+## _标签_： 标签、使用说明以及与医疗器械的识别、技术描述、预期用途和正确使用相关的所有其他信息，但不包括运输文件。(GHTF/SG1/N70:2011)
 
-NOTE 1: Labeling can also be referred to as “information supplied by the manufacturer.”
+注意 1：标签也可以被称为“制造商提供的信息”。
 
-NOTE 2: Labeling can be in printed or electronic format and may either physically accompany the medical device or direct the user to where the labeling information can be accessed (such as through a website).
+注意 2：标签可以是印刷或电子格式，并且可以与医疗器械一起，也可以引导用户访问标签信息（例如，通过网站）。
 
-## _Lay User:_ Individual who does not have formal training in a relevant field or discipline. (Modified from GHTF/SG1/N045:2008)
+## _非专业用户：_ 指的是没有在相关领域或学科中接受正式培训的人。 (改编自 GHTF/SG1/N045:2008)
 
-NOTE 1: Principles for lay person(s) may also apply to self-testing for a medical device or IVD medical device. 
+注 1：关于非专业人士的原则也适用于对医疗器械或体外诊断（IVD）医疗器械进行自测。
 
-NOTE 2: For an IVD medical device for self-collection/self-testing, a self-tester is considered a lay user.
+注 2：对于用于自采集/自测的 IVD 医疗器械，自测者被认为是非专业用户。
 
-## _Life-Cycle:_ All phases in the life of a medical device, from the initial conception to final decommissioning and disposal. (ISO/IEC Guide 51:2014)
+## _产品生命周期：_ 指从医疗器械的初始构想到最终报废和处置的各个阶段。 (ISO/IEC 指南 51:2014)
 
-## _Manufacturer:_ “Manufacturer” means any natural or legal person[1] with responsibility for design and/or manufacture of a medical device with the intention of making the medical device available for use, under their name; whether or not such a medical device is designed and/or manufactured by that person themselves or on their behalf by another person(s). (Modified from GHTF/SG1/N055:2009)
+## _制造商：_ “制造商”是指对医疗器械的设计和/或制造负责，并有意将该医疗器械用于使用的任何自然人或法人[1]。无论该医疗器械是否由该人自己设计和/或制造，还是由另一人（或多个人）代为设计和/或制造。 (改编自 GHTF/SG1/N055:2009)
 
-NOTE 1: This ‘natural or legal person’ has ultimate legal responsibility for ensuring compliance with all applicable regulatory requirements for the medical device in the countries or jurisdictions where it is intended to be made available or sold, unless this responsibility is specifically imposed on another person by the Regulatory Authority (RA) within that jurisdiction.
+注 1：这里的“自然人或法人”对确保医疗器械在预期销售或销售的国家或辖区符合所有适用的法规要求，具有最终的法律责任，除非监管机构（RA）在该辖区明确要求另一方承担此责任。
 
-NOTE 2: The manufacturer’s responsibilities are described in other GHTF guidance documents. These responsibilities include meeting regulatory requirements at various points during the product lifecycle, such as adverse event reporting and notification of corrective actions.
+注 2：制造商的责任在其他 GHTF 指导文件中进行描述。这些责任包括在产品生命周期的各个阶段满足法规要求，例如报告不良事件和通知纠正措施。
 
-NOTE 3: ‘Design and/or manufacture’, as referred to in the above definition, may include specification development, production, fabrication, assembly, processing, packaging, repackaging, labeling, relabeling, sterilization, installation, or remanufacturing of a medical device; or putting a collection of devices, and possibly other products, together for a medical purpose.
+说明 3：在上述定义中提到的“设计和/或制造”，可能包括医疗器械的规格开发、生产、制造、组装、加工、包装、重新包装、标签、重新标签、灭菌、安装或重新制造；或者将一组医疗器械（以及可能还有其他产品）组合在一起，用于医疗目的。
 
-NOTE 4: Any person who assembles or adapts a medical device that has already been supplied by another person for an individual patient, in accordance with the instructions for use, is not the manufacturer, provided the assembly or adaptation does not change the intended use of the medical device.
+说明 4：任何在另一人为个人患者提供的医疗器械的说明书下，组装或改造医疗器械的人，如果组装或改造不改变医疗器械的预期用途，则不被视为该医疗器械的制造商。
 
-NOTE 5: Any person who changes the intended use of, or modifies, a medical device without acting on behalf of the original manufacturer and who makes it available for use under his own name, should be considered the manufacturer of the modified medical device.
+注 5：任何未经原制造商授权，改变医疗器械用途或进行修改，并将其以自己的名义提供给他人使用的人，应被视为该医疗器械的制造商。
 
-NOTE 6: An authorised representative, distributor or importer who only adds its own address and contact details to the medical device or the packaging, without covering or changing the existing labeling, is not considered a manufacturer.
+注 6：如果授权代表、分销商或进口商仅在医疗器械或包装上添加自己的地址和联系方式，而未对现有标签进行覆盖或修改，则不被视为制造商。
 
-NOTE 7: To the extent that an accessory is subject to the regulatory requirements of a medical device[2], the person responsible for the design and/or manufacture of that accessory is considered to be a manufacturer.
+注 7：如果某种附件符合医疗器械的监管要求[2]，则负责该附件的设计和/或制造的人应被视为制造商。
 
-## _Medical Device_ : Any instrument, apparatus, implement, machine, appliance, implant, reagent for in vitro use, software, material or other similar or related article, intended by the manufacturer to be used, alone or in combination, for human beings, for one or more of the specific medical purpose(s) of:
+## _医疗器械_：任何由制造商打算单独或与其他用于人类，以实现以下特定医疗目的的，例如：仪器、装置、工具、机器、设备、植入物、体外使用的试剂、软件、材料或其他类似或相关物品。
 
-  * diagnosis, prevention, monitoring, treatment or allevi­ation of disease,
-  * diag­nosis, monitoring, treatment, alleviation of, or com­pensation for, an injury,
-  * inves­tigation, replacement, modification, or support of the anatomy, or of a physiologi­cal process,
-  * supporting or sustaining life,
-  * con­trol of conception,
-  * cleaning, disinfection or sterilization of medical devices,
-  * providing information by means of in vitro examination of specimens derived from the human body; 
+* 诊断、预防、监测、治疗或缓解疾病
 
-and does not achieve its primary intended action by pharmaco­logical, immunological, or metabolic means, in or on the human body, but which may be assisted in its intended function by such means. 
+* 诊断、监测、治疗、缓解或补偿受伤，
 
-NOTE 1: Products which may be considered to be medical devices in some jurisdictions but not in others include:
+* 调查、替代、修改或支持人体解剖结构或生理过程，
 
-  * disinfection substances,
-  * aids for persons with disabilities,
-  * devices incorporating animal and/or human tissues,
-  * devices for in-vitro fertilization or assisted reproduction technologies.
+* 维持生命，
 
-(Modified from GHTF/SG1/N071:2012)
+* 控制生育，
 
-NOTE 2: For clarification purposes, in certain regulatory jurisdictions, devices for cosmetic/aesthetic purposes are also considered medical devices.
+* 清洁、消毒或对医疗器械进行灭菌，
 
-NOTE 3: For clarification purposes, in certain regulatory jurisdictions, the commerce of devices incorporating human tissues is not allowed.
+* 通过体外检查样本（来自人体）来提供信息；
 
-## _Near-Patient Testing:_ Testing that is performed near a patient and outside of centralized laboratory testing facilities. 
+并且不通过药理、免疫或代谢方式在人体内或外来发挥其主要预期作用，但可能通过这些方式辅助其预期功能。
 
-NOTE 1: Users of near-patient testing can include lay or professional users.
+注 1: 在某些司法管辖区可能被认为是医疗器械，但在另一些司法管辖区则不然的产品包括：
 
-NOTE 2: This is not intended to refer to sample collection procedures.
+* 消毒剂，
 
-NOTE 3: In certain regulatory jurisdictions, this is also referred to as Point of Care Testing. 
+* 辅助残疾人士的设备，
 
-## _Normal Use_ : operation, including routine inspection and adjustments by any user, and stand-by, according to the instructions for use or in accordance with generally accepted practice for those medical devices or IVD medical devices provided without instructions for use. (modified from ISO 62366-1:2015).
+* 包含动物和/或人体组织的产品。
 
-NOTE 1: Normal use should not be confused with intended use. While both include the concept of use as intended by the manufacturer, intended use focuses on the medical purpose while normal use incorporates not only the medical purpose, but maintenance, transport, etc. as well.
+* 用于体外生殖或辅助生殖技术的设备。
 
-NOTE 2: Use error can occur in normal use.
+（改编自 GHTF/SG1/N071:2012）
 
-NOTE 3: Medical devices and IVD medical devices that can be used safely without instructions for use are exempted from having instructions for use by some authorities with jurisdiction.
+注 2: 为了澄清目的，在某些监管辖区，用于美容/美学目的的设备也被认为是医疗器械。
 
-## _Packaging_ : Product to be used for the containment, protection, handling, delivery, storage, transport and presentation of goods, from raw materials to processed goods, from the producer to the user or consumer, including processor, assembler or other intermediary. (ISO 21067-1:2016)
+注 3: 为了澄清目的，在某些监管辖区，包含人体组织的设备的商业活动是被禁止的。
 
-## _Patient:_ An individual under the care of a healthcare provider who may benefit from the action of a medical device. A patient may also be a user of a medical device.
+## _近患者测试_：在患者附近进行的测试，且不在集中实验室进行。
 
-## _Performance:_ The ability of a medical device to achieve its intended purpose as stated by the manufacturer. Performance may include both clinical and technical aspects.
+注 1：近患者测试的用户可以是非专业人士或专业人士。
 
-## _Performance Evaluation of an IVD Medical Device:_ Assessment and analysis of data to establish or verify the scientific validity, the analytical and, where applicable, the clinical performance of an IVD medical device. 
+注 2：这不是为了指代样本采集程序。
 
-## _Performance of an IVD Medical Device:_ The ability of an IVD medical device to achieve its intended use/intended purpose as claimed by the manufacturer. The performance of an IVD medical device consists of the analytical and, where applicable, the clinical performance supporting the intended use of the IVD medical device. (GHTF/SG5/N6:2012)
+注 3：在某些监管辖区，这也被称为“就地测试”。
 
-## _Regulatory Authority (RA):_ A government body or other entity that exercises a legal right to control the use or sale of medical devices within its jurisdiction, and that may take enforcement action to ensure that medical products marketed within its jurisdiction comply with legal requirements. (IMDRF/GRRP WG/N40:2024)
+## _正常使用_：包括任何用户根据使用说明或按照适用于没有使用说明的医疗器械或体外诊断（IVD）医疗器械的通用实践进行的日常检查和调整，以及待用状态。 (改编自 ISO 62366-1:2015)。
 
-## _Risk:_ Combination of the probability of occurrence of harm and the severity of that harm. (ISO/IEC Guide 51:2014)
+说明 1：正常使用不应与预期使用混淆。虽然两者都包含制造商意图的使用概念，但预期使用侧重于医疗目的，而正常使用不仅包括医疗目的，还包括维护、运输等。
 
-## _Risk Analysis:_ Systematic use of available information to identify hazards and to estimate the risk. (ISO/IEC Guide 51:2014)
+说明 2：在正常使用中可能发生错误。
 
-## _Risk Assessment:_ Overall process comprising a risk analysis and a risk evaluation. (ISO/IEC Guide 51:2014)
+说明 3：某些具有管辖权的机构，允许某些医疗设备和体外诊断（IVD）医疗设备，无需使用说明书，但这些设备可以安全使用。
 
-## _Risk Evaluation:_ Procedure based on the risk analysis to determine whether tolerable risk has been exceeded. (ISO/IEC Guide 51:2014)
+## _包装_：用于包含、保护、处理、交付、储存、运输和展示商品，包括从原材料到加工商品的，以及从生产商到用户或消费者的，包括处理器、组装者或其他中间商。 (ISO 21067-1:2016)
 
-## _Safety:_ Freedom from unacceptable risk. (ISO/IEC Guide 51:2014)
+## _患者_：在医疗服务提供者照护下，可能从医疗设备中获益的个体。患者也可能是医疗设备的使用者。
 
-## _Self-Testing:_ Use of a medical device or IVD medical device by a lay user who is responsible for collecting the data or specimen, by themselves and on themselves, relying solely on the instructions provided by the manufacturer. This use can also include performing the test and interpreting the results by themselves and on themselves.
+## _性能：_ 医疗器械实现制造商所声明的预期用途的能力。 性能可能包括临床和技术方面。
 
-NOTE: Self-testing may include a third-party caregiver 
+## _体外诊断（IVD）医疗器械的性能评估：_ 对数据进行评估和分析，以确定或验证体外诊断（IVD）医疗器械的科学有效性、分析性和，如果适用，临床性能。
 
-## _Shelf-Life_ : Period of time until the expiry date during which a medical device in its original packaging maintains its stability under the storage conditions specified by the manufacturer. 
+## _体外诊断（IVD）医疗器械的性能：_ 体外诊断（IVD）医疗器械实现其制造商声称的预期用途/预期功能的能力。 体外诊断（IVD）医疗器械的性能包括支持体外诊断（IVD）医疗器械预期用途的分析性和，如果适用，临床性能。 (GHTF/SG5/N6:2012)
 
-NOTE: Stability (3.38) and expiry date (3.11) are related concepts
+## _监管机构（RA）：_ 政府机构或其他实体，拥有在其管辖范围内控制医疗器械使用或销售的法律权利，并且可以采取执法行动，以确保在管辖范围内上市的医疗产品符合法律要求。 (IMDRF/GRRP WG/N40:2024)
 
-(Modified from ISO 18113-1:2022)
+## _风险：_ 伤害发生的概率与伤害的严重程度的组合。 (ISO/IEC Guide 51:2014)
 
-## _Stability_ : Ability of a medical device and IVD medical device to maintain its safety and performance characteristics within the manufacturer’s specifications over a specified period of time.
+## _风险分析：_ 系统地使用可用的信息来识别危害并估计风险。 (ISO/IEC Guide 51:2014)
 
-NOTE 1: Stability applies to:
+## _风险评估：_ 包含风险分析和风险评估的总体过程。 (ISO/IEC Guide 51:2014)
 
-  * Sterile and non-sterile medical devices whose physical, chemical or functional properties may be altered or compromised over a stated time interval;
-  * IVD reagents, calibrators and controls, when stored, transported and used in the conditions specified by the manufacturer;
-  * Reconstituted lyophilized materials, working solutions and material removed from sealed containers, when prepared, used and stored according to the manufacturer’s instructions for use; or
-  * Measuring instruments or measuring systems after calibration.
+## _风险评估：_ 基于风险分析，确定是否已超过可接受的风险。 (ISO/IEC Guide 51:2014)
 
-NOTE 2: Stability of an IVD reagent or measuring system is normally quantified with respect to time and specified conditions, 
+## _安全性：_ 避免不可接受的风险。 (ISO/IEC Guide 51:2014)
 
-  * In terms of the duration of a time interval over which a measured property changes by a stated amount; or
-  * In terms of the change of a property under specified conditions.
+## _自主测试:_ 由非专业人士（负责收集数据或标本，并自行进行测试和结果解读）使用医疗器械或体外诊断（IVD）医疗器械。该使用方式仅依赖制造商提供的说明。
 
-(Modified from ISO 18113-1:2022)
+注意：自主测试可能包括第三方照护者。
 
-## _State of the Art:_ Developed stage of technical capability at a given time as regards products, processes and services, based on the relevant consolidated findings of science, technology and experience. 
+## _保质期_：医疗器械在原始包装中，在制造商规定的储存条件下，直至到期日，保持其稳定性的时间段。
 
-## NOTE1: The state of the art embodies what is currently and generally accepted as good practice in technology and medicine. The state of the art does not necessarily imply the most technologically advanced solution. The state of the art described here is sometimes referred to as the “generally acknowledged state of the art”.
+注意：稳定性（3.38）和到期日（3.11）是相关的概念。
 
-## (Modified from ISO/IEC Guide 2:2004)
+（改编自 ISO 18113-1:2022）
 
-## _User:_ The person, professional or lay, who uses a medical device. The patient may be that user. (GHTF/SG1/N070:2011)
+## _稳定性_：医疗器械和体外诊断（IVD）医疗器械在制造商规定的时间内，保持其安全性和性能特性的能力。
 
-# Safety and Performance of Medical Devices – General Essential Principles
+注意 1：稳定性适用于：
 
-A manufacturer of a medical device or IVD medical device is expected to design and manufacture a product that is safe and performs as intended throughout its life cycle. This guidance document describes fundamental design and manufacturing requirements, referred to as ‘Essential Principles of Safety and Performance’, to ensure this outcome. This document is structured to provide essential principles that apply to all medical devices including IVD medical devices (Section 5) and is then separated into two sections, one for essential principles applying to medical devices other than IVD medical devices (Section 6) and the other for essential principles that only apply to IVD medical devices (Section 7).
+* 具有可能在指定时间内发生改变或受损的物理、化学或功能特性的无菌和非无菌医疗器械；
 
-The medical device and IVD medical device manufacturer’s design and manufacturing activities should be under the control of its quality management system. Conformity of the device to all the applicable Essential Principles will be demonstrated and assessed according to procedures designated by the Regulatory Authority and described in other GHTF and IMDRF guidances.
+* 在制造商规定的条件下储存、运输和使用的体外诊断试剂、校准剂和控制品；
 
-# Essential Principles Applicable to all Medical Devices and IVD Medical Devices
+* 根据制造商的使用说明准备、使用和储存的复原化的干粉材料、工作溶液和从密封容器中提取的材料；或
 
-The essential design and manufacturing principles listed in this Section are applicable to medical devices and IVD medical devices.
+* 校准后的测量仪器或测量系统。
 
-## General
+注意 2：体外诊断试剂或测量系统的稳定性通常以时间间隔和指定条件为准，
 
-### Medical devices and IVD medical devices should achieve the performance intended by their manufacturer and should be designed and manufactured in such a way that, during intended conditions of use, they are suitable for their intended purpose. They should be safe and perform as intended, should have risks that are acceptable when weighed against the benefits to the patient, and should not compromise the clinical condition or the safety of patients, or the safety and health of users or, where applicable, other persons. 
+* 即测量属性在指定时间内发生改变的持续时间；或
 
-### Manufacturers should establish, implement, document and maintain a risk management system to ensure the ongoing quality, safety and performance of the medical device and IVD medical device. Risk management should be understood as a continuous iterative process throughout the entire lifecycle of a medical device and IVD medical device, requiring regular systematic updating. In carrying out risk management manufacturers should:
+* 在指定条件下属性的变化。
 
-### establish and document a risk management plan covering each medical device and IVD medical device;
+（改编自 ISO 18113-1:2022）
 
-### identify and analyze the known and foreseeable hazards associated with each medical device and IVD medical device; 
+## _最先进的技术水平：_ 指在特定时间点，根据相关科学、技术和经验的综合性研究，对产品、工艺和服务所达到的技术能力。
 
-### estimate and evaluate the risks associated with, and occurring during, the intended use and during reasonably foreseeable misuse; 
+## 备注1：最先进的技术水平是指在技术和医学领域，目前和通常被认为是最佳实践的内容。最先进的技术水平并不一定意味着最先进的技术解决方案。此处所述的最先进的技术水平有时被称为“普遍认可的最先进技术水平”。
 
-### eliminate or control the risks referred to in point (c) in accordance with the requirements of points 5.1.3 and 5.1.4 below; 
+## (改编自 ISO/IEC 指南 2:2004)
 
-### evaluate the impact of information from the production and postproduction phases, on the overall risk, benefit-risk determination and risk acceptability. This evaluation should include the impact of the presence of previously unrecognized hazards or hazardous situations, the acceptability of the estimated risk(s) arising from a hazardous situation, and changes to the generally acknowledged state of the art.
+## _用户：_ 指使用医疗器械的人，可以是专业人士或普通人。患者可能就是该用户。 (GHTF/SG1/N070:2011)
 
-### based on the evaluation of the impact of the information referred to in point (e), if necessary amend control measures in line with the requirements of points 5.1.3 and 5.1.4 below.
+# 医疗器械和体外诊断器械的安全性与性能 – 普遍基本原则
 
-### Risk control measures adopted by manufacturers for the design and manufacture of the medical device and IVD medical device should conform to safety principles, taking account of the generally acknowledged state of the art. When risk reduction is required, manufacturers should control risks so that the residual risk associated with each hazard as well as the overall residual risk is judged acceptable. In selecting the most appropriate solutions, manufacturers should, in the following order of priority:
+医疗器械或体外诊断器械的制造商应设计和制造一种安全且符合预期性能的产品，贯穿其整个生命周期。本指南描述了“医疗器械和体外诊断器械的安全性与性能基本原则”，以确保这一结果。本文件结构为，提供适用于所有医疗器械（包括体外诊断器械）（第 5 部分）的基本原则，然后将其分为两个部分，一个适用于不属于体外诊断器械的医疗器械（第 6 部分），另一个适用于仅适用于体外诊断器械的基本原则（第 7 部分）。
 
-### eliminate or appropriately reduce risks through safe design and manufacture; 
+医疗器械和体外诊断医疗器械制造商的设计和制造活动应受其质量管理体系的控制。 医疗器械符合所有适用的基本原则，将根据监管机构指定并描述在其他GHTF和IMDRF指导文件中规定的程序进行证明和评估。
 
-### where appropriate, take adequate protection measures, including alarms if necessary, in relation to risks that cannot be eliminated; and 
+# 适用于所有医疗器械和体外诊断医疗器械的基本原则
 
-### provide information for safety (warnings/precautions/contra-indications) and, where appropriate, training to users.
+本节中列出的基本设计和制造原则适用于医疗器械和体外诊断医疗器械。
 
-### The manufacturer should inform users of any relevant residual risks. 
+## 概述
 
-### In eliminating or reducing risks related to use, the manufacturer should:
+### 医疗器械和体外诊断医疗器械应达到制造商预期的性能，并且应以一种方式进行设计和制造，以便在预期使用条件下，它们适合其预期用途。 它们应安全且按照预期的方式运行，其风险应与患者的益处进行权衡，并且不应损害患者的临床状况或患者、用户或适用情况下其他人的安全和健康。
 
-### appropriately reduce the risks related to the features of the medical device and IVD medical device and the environment in which the medical device and IVD medical device are intended to be used (e.g. ergonomic/usability features, tolerance to dust and humidity); and
+### 制造商应建立、实施、记录和维护风险管理系统，以确保医疗器械和体外诊断医疗器械的持续质量、安全和性能。 风险管理应被理解为贯穿整个医疗器械和体外诊断医疗器械生命周期的连续迭代过程，需要定期系统更新。 在进行风险管理时，制造商应：
 
-### give consideration to the technical knowledge, experience, education, training and use environment and, where applicable, the medical and physical conditions of intended users.
+### 制定并记录涵盖每个医疗器械和体外诊断医疗器械的风险管理计划；
 
-### The characteristics and performance of a medical device and IVD medical device should not be adversely affected to such a degree that the health or safety of the patient and the user and, where applicable, of other persons are compromised during the expected life of the device, as specified by the manufacturer, when the medical device and IVD medical device is subjected to the stresses which can occur during normal conditions of use and has been properly maintained and calibrated (if applicable) in accordance with the manufacturer's instructions.
+### 识别和分析与每个医疗器械和体外诊断医疗器械相关的已知和可预见的危害；
 
-### Medical devices and IVD medical devices should be designed, manufactured and packaged in such a way that their characteristics and performance, including the integrity and cleanliness of the product and when used in accordance with the intended use, are not adversely affected by transport and storage (for example, through shock, vibrations, and fluctuations of temperature and humidity), taking account of the instructions and information provided by the manufacturer. The performance, safety, and sterility of the medical device and IVD medical device should be sufficiently maintained throughout any shelf-life specified by the manufacturer.
+### 评估并评估与预期使用以及合理可预见的误用相关的风险；
 
-### Medical devices and IVD medical devices should have acceptable stability during their shelf-life, during the time of use after being opened (for IVDs, including after being installed in the instrument), and during transportation or dispatch (for IVDs, including samples).
+### 按照以下 5.1.3 和 5.1.4 条的要求，消除或控制上述（c）条所提及的风险；
 
-### All known and foreseeable risks, and any undesirable side-effects, should be minimized and be acceptable when weighed against the evaluated benefits arising from the achieved performance of the device during intended conditions of use taking into account the generally acknowledged state of the art.
+### 评估生产和生产后阶段的信息对整体风险、风险-效益评估和风险可接受性的影响。 这一评估应包括先前未知的危害或危险情况的存在、因危险情况而产生的估计风险的可接受性，以及对普遍认可的技术水平的变化。
 
-## Clinical Evaluation
+### 基于（e）条所提及的信息的影响评估，如果需要，应根据以下 5.1.3 和 5.1.4 条的要求，修改控制措施。
 
-### Where appropriate and depending on jurisdictional requirements, a clinical evaluation may be required. A clinical evaluation should assess clinical data to establish that a favorable benefit-risk determination exists for the medical device and IVD medical device in the form of one or more of the following:
+### 制造商为医疗器械和体外诊断医疗器械的设计和制造采用的风险控制措施，应符合安全原则，并考虑普遍认可的技术水平。 当需要降低风险时，制造商应控制风险，使与每个危害相关的剩余风险以及整体剩余风险均被认为是可接受的。 在选择最合适的解决方案时，制造商应按照以下优先顺序：
 
-  * clinical investigation reports (for IVDs, clinical performance evaluation reports)
-  * published scientific literature/reviews
-  * clinical experience
+### 通过安全的设计和制造来消除或适当降低风险；
 
-### Clinical investigations should be conducted in accordance with the ethical principles that have their origin in the Declaration of Helsinki. These principles protect the rights, safety and well-being of human subjects, which are the most important considerations and shall prevail over interests of science and society. These principles shall be understood, observed, and applied at every step in the clinical investigation. In addition, some countries may have specific regulatory requirements for pre-study protocol review, informed consent, and for IVD medical devices, use of leftover specimens.
+### 在适当的情况下，采取足够的保护措施，包括必要的警报，以应对无法消除的风险；以及
 
-## Chemical, Physical, and Biological Properties
+### 提供安全信息（警告/预防措施/禁忌），并在适当的情况下，向用户提供培训。
 
-### Regarding chemical, physical, and biological properties of a medical device and IVD medical device, particular attention should be paid to the following:
+### 制造商应告知用户任何相关的剩余风险。
 
-### the choice of materials and substances used, particularly with respect to:
+### 在消除或降低与使用相关的风险时，制造商应：
 
-### toxicity;
+### 适当降低与医疗器械和体外诊断（IVD）医疗器械及其使用环境（例如，人体工程学/易用性特征、对灰尘和湿度的耐受性）相关的风险；以及
 
-### biocompatibility; and
+### 考虑使用者的技术知识、经验、教育、培训和使用环境，以及适用的医疗和身体状况。
 
-### flammability;
+### 医疗器械和体外诊断（IVD）医疗器械的特性和性能，不应以至于在制造商规定的设备预期使用寿命内，患者、使用者（以及其他相关人员）的健康或安全受到损害，当医疗器械和体外诊断（IVD）医疗器械在正常使用条件下承受应力，并且已按照制造商的说明进行维护和校准（如果适用）时。
 
-### the impact of processes on material properties, 
+### 医疗器械和体外诊断（IVD）医疗器械应设计、制造和包装，以确保其特性和性能，包括产品的完整性和清洁度，以及在使用时，不会因运输和储存（例如，冲击、振动和温度和湿度的波动）而受到负面影响，同时考虑到制造商提供的说明和信息。 医疗器械和体外诊断（IVD）医疗器械的性能、安全性和无菌性应在制造商规定的任何保质期内得到充分维护。
 
-### where appropriate, the results of biophysical or modelling research whose validity of which has been demonstrated beforehand;
+### 医疗器械和体外诊断（IVD）医疗器械在使用寿命期间、使用后（对于IVD，包括安装在仪器后）、以及运输或分发期间，都应具有可接受的稳定性。
 
-### the mechanical properties of the materials used, reflecting, where appropriate, matters such as strength, ductility, fracture resistance, wear resistance and fatigue resistance;
+### 应当最大限度地减少所有已知的和可预见的风险，以及任何不良副作用，并且在权衡了设备在预期使用条件下所达到的性能所产生的效益后，这些风险应被认为是可接受的，同时考虑到普遍认可的技术水平。
 
-### surface properties; and
+## 临床评估
 
-### the confirmation that the device meets any defined chemical and/or physical specifications.
+### 在适当的情况下，并取决于管辖区要求，可能需要进行临床评估。 临床评估应评估临床数据，以证明医疗器械和体外诊断（IVD）医疗器械具有有利的风险-效益关系，形式为以下一种或多种：
 
-### Medical devices and IVD medical devices should be designed, manufactured and packaged in such a way as to minimize the risk posed by contaminants and residues to users and patients, taking account of the intended purpose of the medical device and IVD medical device, and to the persons involved in the transport, storage and use of the medical device and IVD medical device. Particular attention should be paid to tissues of users and patients exposed to those contaminants and residues and to the duration and frequency of exposure.
+* 临床研究报告（对于IVD，临床性能评估报告）
 
-### The medical device and IVD medical device should be designed and manufactured in such a way as to appropriately reduce the risks posed by substance egress (including leaching and/or evaporation), degradation products, processing residues, etc. Special attention should be given to leaking or leaching of substances, which are carcinogenic, mutagenic or toxic to reproduction. 
+* 发表的科学文献/评论
 
-### The medical device and IVD medical device should be designed and manufactured in such a way as to appropriately reduce the risks posed by the unintentional ingress of substances into the device, taking into account the medical device and IVD medical device and the nature of the environment in which it is intended to be used.
+* 临床经验
 
-### Medical devices and IVD medical devices and their manufacturing processes should be designed in such a way as to eliminate or to appropriately reduce the risk of infection to users and all other persons who may come in contact with the medical device and IVD medical device. The design should:
+### 临床研究应按照《赫尔辛基宣言》中规定的伦理原则进行。 这些原则保护了人类受试者的权利、安全和福祉，这是最重要的考虑因素，并且应优先于科学和社会利益。 这些原则应在整个临床研究过程中理解、遵守和应用。 此外，一些国家可能对预研究方案审查、知情同意以及对于IVD医疗器械的使用，有剩余标本的要求。
 
-### allow for easy and safe handling; 
+## 化学、物理和生物学特性
 
-### appropriately reduce any microbial leakage from the medical device and IVD medical device and/or microbial exposure during use; 
+### 针对医疗器械和体外诊断（IVD）医疗器械的化学、物理和生物学特性，应特别关注以下内容：
 
-### prevent microbial contamination of the medical device and IVD medical device or its content (e.g., specimens); and/or
+### 所使用的材料和物质的选择，特别是以下方面：
 
-### appropriately reduce the risks from unintended exposure (e.g., cuts and pricks (such as needle stick injuries), eye splashes, etc.).
+### 毒性；
 
-## Sterilization and Microbial Contamination
+### 生物相容性；以及
 
-### Where necessary, medical devices and IVD medical devices should be designed to facilitate their safe cleaning, disinfection, sterilization, and re-sterilization by the user, as appropriate. 
+### 易燃性；
 
-### Medical devices and IVD medical devices labeled as having a specific microbial state should be designed, manufactured and packaged to ensure that they remain in that state when placed on the market and remain so under the transport and storage conditions specified by the manufacturer.
+### 过程对材料特性的影响，
 
-### Medical devices and IVD medical devices, delivered in a sterile state should be designed, manufactured and packaged in accordance with appropriate procedures, to ensure that they are sterile when placed on the market and that, unless the packaging which is intended to maintain their sterile condition is damaged, they remain sterile, under the transport and storage conditions specified by the manufacturer, until that packaging is opened at the point of use. It should be ensured that the integrity of that packaging is clearly evident to the final user (for example, through the use of tamper-proof packaging).
+### 适当情况下，已验证有效性的生物物理或建模研究的结果；
 
-### Medical devices and IVD medical devices labelled as sterile should be processed, manufactured, packaged, and sterilized by means of appropriate, validated methods. The shelf-life of these medical devices and IVD medical devices should be determined by validated methods. 
+### 所用材料的机械性能，反映包括强度、延展性、抗断裂性、耐磨性和抗疲劳性等相关事项；
 
-### Medical devices and IVD medical devices intended to be sterilized, either by the manufacturer or user, should be manufactured and packaged in appropriate and controlled conditions and facilities.
+### 表面特性；以及
 
-### Where the medical devices and IVD medical devices are provided non-sterile and are intended to be sterilized prior to use:
+### 确认该设备符合任何已定义的化学和/或物理规格。
 
-### the packaging system should minimize the risk of microbial contamination and should be suitable taking account of the method of sterilization indicated by the manufacturer; and
+医疗器械和体外诊断（IVD）医疗器械应设计、制造和包装，以最大限度地降低由污染物和残留物对用户和患者造成的风险，同时考虑到医疗器械和体外诊断（IVD）医疗器械的预期用途，以及参与医疗器械和体外诊断（IVD）医疗器械运输、储存和使用的相关人员。应特别关注用户和患者接触这些污染物和残留物的组织，以及接触的持续时间和频率。
 
-### the method of sterilization indicated by the manufacturer should be validated.
+### 医疗器械和体外诊断医疗器械应设计和制造，以适当降低由物质逸出（包括浸出和/或挥发、降解产物、加工残留物等）带来的风险。应特别关注对致癌、致突变或对生殖有毒的物质的泄漏或浸出。
 
-### For medical devices and IVD medical devices placed on the market in both sterile and non-sterile conditions, the label should clearly distinguish between these versions.
+### 医疗器械和体外诊断医疗器械应设计和制造，以适当降低因物质意外进入器械而带来的风险，同时考虑到医疗器械和体外诊断医疗器械以及其预期使用环境的性质。
 
-## Considerations of Environment and Conditions of Use
+### 医疗器械和体外诊断医疗器械及其制造工艺应设计，以消除或适当降低对用户以及可能接触医疗器械和体外诊断医疗器械的所有其他人的感染风险。设计应：
 
-### If the medical device or IVD medical device is intended to be used in combination with other medical devices or IVD medical devices and/or equipment, the whole combination, including the connection system should be safe and should not impair the specified performance of the medical device or IVD medical device. Any known restrictions on use applying to such combinations should be indicated on the label and/or in the instructions for use. Any connections which the user has to handle, such as fluid, gas transfer, electrical or mechanical coupling, should be designed and manufactured in such a way as to remove or appropriately reduce all possible risks, including incorrect connections or safety hazards. 
+### 易于安全处理；
 
-### Medical devices and IVD medical devices should be designed and manufactured in consideration of the intended environment and conditions of use, and in such a way as to remove or appropriately reduce the:
+### 适当降低医疗器械和体外诊断医疗器械以及/或使用过程中微生物的泄漏；
 
-### risks of injury to the users or other persons in connection with its physical and ergonomic/usability features;
+### 防止医疗器械和体外诊断医疗器械或其内容（例如，标本）的微生物污染；以及/或
 
-### risks of user error due to the design of the medical device or IVD medical device user interface, ergonomic/usability features, and the environment in which the medical device or IVD medical device is intended to be used;
+### 适当降低因意外暴露（例如，切割和刺伤（如针刺）、眼睛溅射等）带来的风险。
 
-### risks connected with reasonably foreseeable external influences or environmental conditions, such as magnetic fields, external electrical and electromagnetic effects, electrostatic discharge, radiation associated with diagnostic or therapeutic procedures, pressure, humidity, temperature, and/or variations in pressure and acceleration;
+## 灭菌和微生物污染
 
-### risks associated with the use of the medical device or IVD medical device when it comes into contact with materials, liquids, and substances, including gases, to which it is exposed during intended conditions of use;
+### 在必要时，医疗器械和体外诊断医疗器械应设计，以便用户能够安全地进行清洁、消毒、灭菌和重新灭菌。
 
-### risks associated with the possible negative interaction between software and the information technology (IT) environment within which it operates and interacts;
+### 标示具有特定微生物状态的医疗器械和体外诊断（IVD）医疗器械，应设计、制造和包装，以确保在上市后以及在制造商规定的运输和储存条件下，它们仍然保持该状态。
 
-### environmental risks from unexpected egress of substances from the medical device or IVD medical device during use, taking into account the medical device or IVD medical device and the nature of the environment in which it is intended to be used;
+### 医疗器械和体外诊断（IVD）医疗器械，应在无菌状态下交付，其设计、制造和包装应符合适当的程序，以确保其在上市时保持无菌状态，并且，除非用于维持其无菌状态的包装损坏，否则在制造商规定的运输和储存条件下，直至该包装在使用点打开，它们将保持无菌状态。应确保最终用户（例如，通过使用防篡改包装）能够清楚地了解该包装的完整性。
 
-### the risk of incorrect identification of specimens/samples/data and the risk of erroneous results due to, for example, confusing color and/or numeric coding on specimen receptacles, removable parts and/or accessories used to perform the analysis, test, or assay as intended; and
+### 标示为“无菌”的医疗器械和体外诊断（IVD）医疗器械，应采用适当且经过验证的方法进行处理、制造、包装和灭菌。这些医疗器械和IVD医疗器械的保质期应通过经过验证的方法确定。
 
-### the risks of interference with other medical devices or IVD medical devices normally used in diagnosis, monitoring or treatment.
+### 医疗器械和体外诊断（IVD）医疗器械，如果其目的是进行灭菌（由制造商或用户进行），则应在适当且受控的条件下和设施中制造和包装。
 
-### Medical devices and IVD medical devices should be designed and manufactured in such a way as to remove or appropriately reduce the risks of fire or explosion during normal use and in single fault condition. Particular attention should be paid to medical devices and IVD medical devices whose intended use includes exposure to or in association with flammable or explosive substances or substances which could cause combustion.
+### 当医疗器械和体外诊断（IVD）医疗器械以非无菌状态提供，并且预期在使用前进行灭菌时：
 
-### Medical devices and IVD medical devices should be designed and manufactured in such a way that adjustment, calibration, and maintenance can be done safely and effectively. Specifically, 
+### 包装系统应最大限度地降低微生物污染的风险，并且应符合制造商所指示的灭菌方法的要求。
 
-### When maintenance is not possible, for example, with implants, the risks from ageing of materials, etc. should be appropriately reduced.
+### 制造商所指示的灭菌方法应进行验证。
 
-### When adjustment and calibration are not possible, for example, with certain kinds of thermometers, the risks from loss of accuracy of any measuring or control mechanism are appropriately reduced. 
+### 对于在无菌和非无菌条件下上市的医疗器械和体外诊断医疗器械，标签应明确区分这些不同版本。
 
-### Medical devices and IVD medical devices that are intended to be operated together with other medical devices or IVD medical devices or products should be designed and manufactured in such a way that the interoperability and compatibility are reliable and safe.
+## 环境和使用条件考虑
 
-### Medical devices and IVD medical devices should be designed and manufactured in such a way as to appropriately reduce the risk of unauthorized access that could hamper the device from functioning as intended or impose a safety concern.
+### 如果该医疗器械或体外诊断（IVD）医疗器械 intended to be used 与其他医疗器械或 IVD 医疗器械/设备组合使用，则整个组合，包括连接系统，应安全，并且不应影响医疗器械或 IVD 医疗器械的指定性能。 任何适用于此类组合的已知使用限制应在标签和/或使用说明中标明。 用户需要处理的任何连接，例如流体、气体、电气或机械耦合，应设计和制造为消除或适当降低所有可能的风险，包括错误的连接或安全隐患。
 
-### Any measurement, monitoring or display scale functions of medical devices and IVD medical devices should be designed and manufactured in line with ergonomic/usability principles, taking account of the intended purpose, users and the environmental conditions in which the medical devices and IVD medical devices are intended to be used.
+### 医疗器械和 IVD 医疗器械应根据其 intended 的使用环境和条件进行设计和制造，并以消除或适当降低以下风险：
 
-### Medical devices and IVD medical devices should be designed and manufactured in such a way as to facilitate their safe disposal or recycling and the safe disposal or recycling of related waste substances by the user, patient or other person. The instructions for use should identify safe disposal or recycling procedures and measures.
+### 与其物理和人因/可用性特征相关的用户或他人受伤的风险；
 
-## Protection against Electrical, Mechanical, and Thermal Risks 
+### 由于医疗器械或 IVD 医疗器械的用户界面、人因/可用性特征以及医疗器械或 IVD 医疗器械 intended 的使用环境的设计，导致的因用户操作而产生的风险；
 
-### Medical devices and IVD medical devices should be designed and manufactured in such a way as to protect users against mechanical risks connected with, for example, resistance to movement, instability, and moving parts.
+### 与可预见的外部影响或环境条件相关的风险，例如磁场、外部电气和电磁效应、静电放电、与诊断或治疗程序相关的辐射、压力、湿度、温度以及/或压力和加速度的变化；
 
-### Medical devices and IVD medical devices should be designed and manufactured in such a way as to appropriately reduce the risks arising from vibration generated by the medical devices or IVD medical devices, taking account of technical progress and of the means available for limiting vibrations, particularly at source, unless the vibrations are part of the specified performance.
+### 与医疗器械或 IVD 医疗器械与材料、液体和物质（包括在 intended 使用条件下暴露于其中的气体）接触相关的风险。
 
-### Medical devices and IVD medical devices should be designed and manufactured in such a way as to appropriately reduce the risks arising from the noise emitted, taking account of technical progress and of the means available to reduce noise, particularly at source, unless the noise emitted is part of the specified performance.
+### 软件与运行环境（包括信息技术环境）之间可能产生的负面交互相关的风险；
 
-### Medical devices and IVD medical devices should be designed and manufactured in such a way as to appropriately reduce the risk related to the failure of any parts within the device that are intended to be connected or reconnected before or during use.
+### 由于医疗器械或体外诊断（IVD）医疗器械在正常使用过程中意外释放物质，从而产生的环境风险，需要考虑医疗器械或IVD医疗器械及其所处的环境；
 
-### Accessible parts of medical devices and IVD medical devices (excluding the parts or areas intended to supply heat or reach given temperatures) and their surroundings should not attain potentially dangerous temperatures under normal use.
+### 样本/样品/数据的错误识别风险，以及由于，例如，混淆样本容器、可拆卸部件或配件上的颜色和/或数字编码，从而导致分析、测试或检测结果错误的风险；
 
-## Active Medical Devices and IVD Medical Devices and Medical Devices Connected to Them
+### 与其他用于诊断、监测或治疗的医疗器械或IVD医疗器械的干扰风险。
 
-### For active medical devices and IVD medical devices, in the event of a single fault condition, appropriate means should be adopted to eliminate or appropriately reduce consequent risks.
+### 医疗器械和IVD医疗器械应设计和制造，以在正常使用和单故障条件下，最大限度地减少火灾或爆炸的风险。特别需要关注那些其预期用途包括接触或与易燃或爆炸性物质或可能引起燃烧的物质相关的医疗器械和IVD医疗器械。
 
-### Medical devices and IVD medical devices where the safety of the patient depends on an internal power supply should be equipped with a means of determining the state of the power supply and an appropriate warning or indication for when the capacity of the power supply becomes critical. 
+### 医疗器械和IVD医疗器械应设计和制造，以便安全有效地进行调整、校准和维护。具体而言，
 
-### Medical devices and IVD medical devices where the safety of the patient depends on an external power supply should include an alarm system to signal any power failure.
+### 当维护不可行时，例如，对于植入物，应适当降低材料的老化等风险。
 
-### Medical devices and IVD medical devices intended to monitor one or more clinical parameters of a patient should be equipped with appropriate alarm systems to alert the user of situations which could lead to death or severe deterioration of the patient's state of health. 
+### 当调整和校准不可行时，例如，对于某些类型的温度计，应适当降低任何测量或控制机制的精度损失的风险。
 
-### Medical devices and IVD medical devices should be designed and manufactured in such a way as to appropriately reduce the risks of creating electromagnetic interference which could impair the operation of any devices or equipment in the intended environment. 
+### 医疗器械和体外诊断（IVD）医疗器械，如果预期与其他医疗器械或IVD医疗器械或产品一起使用，则应设计和制造，以确保其互操作性和兼容性是可靠和安全的。
 
-### Medical devices and IVD medical devices should be designed and manufactured in such a way as to provide a level of intrinsic immunity to electromagnetic interference such that is adequate to enable them to operate as intended.
+### 医疗器械和IVD医疗器械应设计和制造，以适当降低未经授权访问的风险，从而防止设备无法按照预期工作或产生安全隐患。
 
-### Medical devices and IVD medical devices should be designed and manufactured in such a way as to appropriately reduce the risk of accidental electric shocks to the user or any other person, both during normal use of the medical device or IVD medical device and in the event of a single fault condition in the medical device or IVD medical device, provided the medical device or IVD medical device is installed and maintained as indicated by the manufacturer.
+### 医疗器械和IVD医疗器械的任何测量、监测或显示功能，应符合人体工程学/可用性原则，并考虑到设备的预期用途、用户以及医疗器械和IVD医疗器械所 intended 的使用环境。
 
-## Medical Devices and IVD Medical Devices that Incorporate Software or are Software as a Medical Device 
+### 医疗器械和IVD医疗器械应设计和制造，以便于其安全处置或回收，以及用户、患者或其他人的相关废物物质的安全处置或回收。 使用说明应标识安全处置或回收程序和措施。
 
-### Medical devices and IVD medical devices that incorporate electronic programmable systems, including software, or are software as a medical device, should be designed to ensure accuracy, reliability, precision, safety, and performance in line with their intended use. In the event of a single fault condition, appropriate means should be adopted to eliminate or appropriately reduce consequent risks or impairment of performance.
+## 防御电气、机械和热危害
 
-### For medical devices and IVD medical devices that incorporate software or are software as a medical device, the software should be developed, manufactured and maintained in accordance with the state of the art taking into account the principles of development life cycle (e.g., rapid development cycles, frequent changes, the cumulative effect of changes), risk management (e.g., changes to system, environment, and data), including information security (e.g., safely implement updates), verification and validation (e.g., change management process).
+### 医疗器械和IVD医疗器械应设计和制造，以保护用户免受与运动、不稳定和运动部件相关的机械风险。
 
-### Software that is intended to be used in combination with mobile computing platforms should be designed and developed taking into account the platform itself (e.g. size and contrast ratio of the screen, connectivity, memory, etc.) and the external factors related to their use (varying environment as regards level of light or noise).
+### 医疗器械和体外诊断（IVD）医疗器械应设计和制造时，应以适当的方式降低因医疗器械或IVD医疗器械产生的振动而产生的风险，同时考虑技术进步以及限制振动的手段，尤其是在源头，除非振动是指定性能的一部分。
 
-### Manufacturers should set out minimum requirements concerning hardware, IT networks characteristics and IT security measures, including protection against unauthorized access, necessary to run the software as intended.
+### 医疗器械和IVD医疗器械应设计和制造时，应以适当的方式降低因产生的噪声而产生的风险，同时考虑技术进步以及减少噪声的手段，尤其是在源头，除非产生的噪声是指定性能的一部分。
 
-### The medical device and IVD medical device should be designed, manufactured and maintained in such a way as to provide an adequate level of cybersecurity against attempts to gain unauthorized access. 
+### 医疗器械和IVD医疗器械应设计和制造时，应以适当的方式降低与设备中任何预期连接或重新连接的部件失效相关的风险。
 
-## Medical Devices and IVD Medical Devices with a Diagnostic or Measuring Function
+### 医疗器械和IVD医疗器械（不包括用于提供热量或达到指定温度的部件或区域）及其周围环境，在正常使用情况下，不应达到潜在危险的温度。
 
-### Medical devices and IVD medical devices with a diagnostic or measuring (including monitoring) function should be designed and manufactured in such a way as to provide, among other performance characteristics, sufficient accuracy, precision and stability for their intended purpose, based on appropriate scientific and technical methods.
+## 具有主动功能的医疗器械和IVD医疗器械以及与之连接的医疗器械
 
-### Where applicable, the limits of accuracy should be indicated by the manufacturer.
+### 对于具有主动功能的医疗器械和IV医械，在单个故障条件下，应采取适当的措施来消除或适当降低由此产生的风险。
 
-### Whenever possible, values expressed numerically should be in commonly accepted, standardized units, and understood by users of the medical device or IVD medical device. While generally supporting the convergence on the global use of internationally standardized measurement units, considerations of safety, user familiarity and established clinical practice may justify the use of other recognized measurement units.
+### 那些医疗器械和IVD医疗器械，其患者的安全取决于内部电源，应配备一种用于确定电源状态的手段，以及在电源容量达到临界值时，提供适当的警告或指示。
 
-### The function of the controls and indicators should be clearly specified on the medical device and IVD medical device. Where a medical device or IVD medical device bears instructions required for its operation or indicates operating or adjustment parameters by means of a visual system, such information should be understandable to the user and, as appropriate, the patient.
+### 那些患者安全依赖外部电源的医疗器械和体外诊断（IVD）医疗器械，应包含一个报警系统，以指示任何电源故障。
 
-## Labeling 
+### 那些旨在监测患者一个或多个临床参数的医疗器械和体外诊断（IVD）医疗器械，应配备适当的报警系统，以提醒用户注意可能导致患者死亡或严重恶化的情况。
 
-### The following principle is a general recommendation for labeling. For additional guidance on the contents of the labeling, please refer to IMDRF/GRRP WG/N52. 
+### 医疗器械和体外诊断（IVD）医疗器械的设计和制造应以适当的方式降低产生可能影响环境中使用任何设备或设备的电磁干扰的风险。
 
-### Medical devices and IVD medical devices should be accompanied by the information needed to distinctively identify the medical device or IVD medical device and its manufacturer. Each medical device and IVD medical device should also be accompanied by, or direct the user to any safety and performance information relevant to the user, or any other person, as appropriate. Such information may appear on the medical device or IVD medical device itself, on the packaging or in the instructions for use, or be readily accessible through electronic means (such as a website), and should be easily understood by the intended user. 
+### 医疗器械和体外诊断医疗器械应设计和制造，以提供足够的内在抗电磁干扰能力，从而使其能够按照预期的方式运行。
 
-## Protection against Radiation 
+### 医疗器械和体外诊断医疗器械应设计和制造，以适当降低用户或任何其他人员在正常使用医疗器械或体外诊断医疗器械以及医疗器械或体外诊断医疗器械发生单个故障的情况下，遭受意外触电的风险，前提是医疗器械或体外诊断医疗器械按照制造商的指示进行安装和维护。
 
-### Medical devices and IVD medical devices should be designed, manufactured and packaged in such a way that exposure of users, other persons, or where appropriate, patients, to radiation is appropriately reduced in a manner that is compatible with the intended purpose, whilst not restricting the application of appropriate specified levels for diagnostic and therapeutic purposes.
+## 包含软件或作为医疗器械的软件的医疗器械和体外诊断医疗器械
 
-### The operating instructions for medical devices and IVD medical devices emitting hazardous or potentially hazardous radiation should contain detailed information as to the nature of the emitted radiation, the means of protecting the users, other persons, or where appropriate, patients, and ways of avoiding misuse and of appropriately reducing the risks inherent to transport, storage and installation.
+### 包含电子可编程系统（包括软件）的医疗器械和体外诊断医疗器械，或作为医疗器械的软件，应设计以确保其在预期用途中，准确性、可靠性、精度、安全和性能。在发生单个故障的情况下，应采取适当的措施来消除或适当降低由此产生的风险或性能下降。
 
-### Where medical devices and IVD medical devices are intended to emit hazardous, or potentially hazardous, radiation, they should be fitted, where possible, with visual displays and/or audible warnings of such emissions.
+### 对于包含软件或作为医疗器械的软件的医疗器械和体外诊断医疗器械，软件应按照先进水平进行开发、制造和维护，同时考虑开发生命周期的原则（例如，快速开发周期、频繁更改、更改的累积效应）、风险管理（例如，系统、环境和数据的更改）、包括信息安全（例如，安全地实施更新）、验证和确认（例如，变更管理流程）。
 
-### Medical devices and IVD medical devices should be designed and manufactured in such a way that that the exposure of users, other persons, or where appropriate, patients, to the emission of unintended, stray or scattered radiation is appropriately reduced. Where possible and appropriate, methods should be selected which reduce the exposure to radiation of users, other persons, or where appropriate, patients, who may be affected.
+### 旨在与移动计算平台一起使用的软件应在设计和开发时，充分考虑平台本身（例如屏幕尺寸和对比度、连接性、内存等）以及与其使用相关的外部因素（例如光照或噪音水平的变化）。
 
-### For medical devices and IVD medical devices emitting hazardous or potentially hazardous radiation and that require installation, information regarding the acceptance and performance testing, the acceptance criteria, and the maintenance procedure should be specified in the operating instructions.
+### 制造商应制定关于硬件、IT网络特性和IT安全措施的最低要求，包括防止未经授权访问的措施，以确保软件能够按照预期运行。
 
-### Where medical devices and IVD medical devices are intended to emit hazardous, or potentially hazardous, radiation, accessible to user, they should be designed and manufactured in such a way as to ensure that the quantity, geometry, energy distribution (or quality), and other key characteristics of the radiation emitted can be appropriately controlled and adjusted and, where appropriate, monitored during use. Such medical devices and IVD medical devices should be designed and manufactured to ensure reproducibility of relevant variable parameters within an acceptable tolerance.
+### 医疗器械和体外诊断医疗器械应以一种方式进行设计、制造和维护，以提供充分的网络安全，以防止未经授权的访问尝试。
 
-## Protection against the Risks posed by Medical Devices and IVD Medical Devices intended by the Manufacturer for use by Lay Users 
+## 具有诊断或测量（包括监测）功能的医疗器械和体外诊断医疗器械
 
-### Medical devices and IVD medical devices for use by lay users (such as self-testing or near-patient testing intended for use by lay users) should be designed and manufactured in such a way that they perform appropriately for their intended use/purpose taking into account the skills and the means available to lay users and the influence resulting from variation that can be reasonably anticipated in the lay user's technique and environment. The information and instructions provided by the manufacturer should be easy for the lay user to understand and apply when using the medical device or IVD medical device and interpreting the results.
+### 具有诊断或测量（包括监测）功能的医疗器械和体外诊断医疗器械应以一种方式进行设计和制造，以提供，包括其他性能特征，足够的准确性、精度和稳定性，以满足其预期用途，并基于适当的科学和技术方法。
 
-### Medical devices and IVD medical devices for use by lay users (such as self-testing or near-patient testing intended for use by lay users) should be designed and manufactured in such a way as to: 
+### 如果适用，制造商应标明准确性的限度。
 
-### ensure that the medical device and IVD medical device can be used safely and accurately by the intended user per instructions for use. When the risks associated with the instructions for use cannot be mitigated to appropriate levels, these risks may be mitigated through training. 
+### 尽可能，应使用被广泛接受的、标准化的单位来表示数值，并且这些单位应被医疗器械或体外诊断医疗器械的用户理解。 虽然总体上，支持全球使用国际标准测量单位，但出于安全、用户熟悉度和已建立的临床实践等考虑，使用其他被认可的测量单位也是可以的。
 
-### appropriately reduce the risk of error by the intended user in the handling of the medical device or IVD medical device and, if applicable, in the interpretation of the results.
+### 控制和指示器的功能应在医疗器械和体外诊断医疗器械上明确说明。如果医疗器械或体外诊断医疗器械包含用于其操作所需的说明，或通过视觉系统指示操作或调整参数，则这些信息应易于用户（以及适当地，患者）理解。
 
-### Medical devices and IVD medical devices for use by lay users (such as self-testing or near-patient testing intended for use by lay users) should, where appropriate, include means by which the lay user:
+## 标签
 
-### can verify that, at the time of use, the medical device or IVD medical device will perform as intended by the manufacturer, and 
+### 以下原则是通用标签建议。有关标签内容的更多指导，请参阅 IMDRF/GRRP WG/N52。
 
-### is warned if the medical device or IVD medical device has failed to operate as intended or to provide a valid result.
+### 医疗器械和体外诊断医疗器械应附带足够的信息，以明确标识医疗器械或体外诊断医疗器械及其制造商。每个医疗器械和体外诊断医疗器械还应附带，或引导用户（或任何其他相关人员）获取与用户相关的任何安全和性能信息，或者其他适宜的信息。这些信息可能出现在医疗器械或体外诊断医疗器械本身、包装或使用说明中，也可以通过电子方式（例如网站）轻松获取，并且应易于被预期用户理解。
 
-## Medical Devices and IVD Medical Devices Incorporating Materials of Biological Origin
+## 辐射防护
 
-### For medical devices and IVD medical devices that include tissues, cells, or substances of animal, plant, or bacterial origin or their derivatives, which are non-viable or rendered non-viable the following should apply:
+### 医疗器械和体外诊断医疗器械应设计、制造和包装，以减少用户、其他人员或，如果适用，患者对辐射的暴露，同时符合其预期用途，并且不限制对诊断和治疗目的的适当指定水平的应用。
 
-### where appropriate, taking into account the animal species, tissues and cells of animal origin, or their derivatives, should originate from animals that have been subjected to veterinary controls that are adapted to the intended use of the tissues.
+### 医疗器械和体外诊断（IVD）医疗器械，如果会发出危险或潜在的辐射，其操作说明应包含有关所发出的辐射的性质、保护用户、其他人员或，如果适用，患者的方法，以及避免滥用和适当降低运输、储存和安装过程中的固有风险的方法的详细信息。
 
-### Information on the geographical origin of the animals may need to be retained by manufacturers depending on jurisdictional requirements.
+### 如果医疗器械和体外诊断（IVD）医疗器械的设计目的是发出危险或潜在的辐射，则应尽可能配备视觉显示和/或听觉警报，以指示此类辐射的排放。
 
-### sourcing, processing, preservation, testing and handling of tissues, cells and substances of animal origin, or their derivatives, should be carried out so as to provide safety for patients, users and, where applicable, other persons. In particular, safety with regards to viruses and other transmissible agents should be addressed by implementation of validated state of the art methods of elimination or inactivation in the course of the manufacturing process, except when the use of such methods would lead to unacceptable degradation compromising the medical device or IVD medical device.
+### 医疗器械和体外诊断（IVD）医疗器械应设计和制造，以确保用户、其他人员或，如果适用，患者，不会受到意外、散发或散射辐射的暴露。在可能的情况下，应选择方法来降低用户、其他人员或，如果适用，患者的辐射暴露，这些人员可能会受到影响。
 
-### For Regulatory Authorities, which regulate products manufactured utilizing tissues, cells, or substances of human origin or their derivatives as medical devices or IVD medical devices, the following should apply:
+### 对于发出危险或潜在危险辐射的医疗器械和体外诊断（IVD）医疗器械，并且需要安装，操作说明应指定有关验收和性能测试、验收标准以及维护程序的详细信息。
 
-### donation, procurement and testing of the tissues and cells should be done in accordance with jurisdictional requirements; and
+### 当医疗器械和体外诊断医疗器械旨在发出有害或可能有害的辐射，并且这些辐射对用户是可及的，则应设计和制造这些器械，以确保可以适当控制和调整，并在使用过程中进行监测，辐射的量、几何形状、能量分布（或质量）和其他关键特性。 这样的医疗器械和体外诊断医疗器械应设计和制造，以确保相关变量参数在可接受的范围内具有可重复性。
 
-### processing, preservation and any other handling of those tissues and cells or their derivatives should be carried out so as to provide safety for patients, users and, where applicable, other persons. In particular, safety with regard to viruses and other transmissible agents should be addressed by appropriate methods of sourcing and by implementation of validated state of the art methods of elimination or inactivation in the course of the manufacturing process.
+## 保护免受医疗器械和体外诊断医疗器械的风险，这些风险由制造商为非专业用户设计使用
 
-### For medical devices and IVD medical devices manufactured utilizing biological substances other than those referred to in Sections 5.13.1 and 5.13.2 (for example, materials of plant or bacterial origin), the processing, preservation, testing and handling of those substances should be carried out so as to provide safety for patients, users and, where applicable, other persons, including in the waste disposal chain. In particular, safety with regards to viruses and other transmissible agents should be addressed by appropriate methods of sourcing and by implementation of validated state of the art methods of elimination or inactivation in the course of the manufacturing process. Other requirements can apply in specific regulatory jurisdictions.
+### 医疗器械和体外诊断医疗器械，用于非专业用户（例如，为非专业用户设计的自测或临床测试），应设计和制造，以便它们能够按照预期用途/目的进行操作，同时考虑到非专业用户的技能和手段，以及可以合理预期的非专业用户技术和环境中的变化。 制造商提供的信息和说明应易于非专业用户理解和应用，以便在使用医疗器械或体外诊断医疗器械时，以及解释结果时。
 
-# Essential Principles Applicable to Medical Devices other than IVD Medical Devices
+### 医疗器械和体外诊断医疗器械，用于非专业用户（例如，为非专业用户设计的自测或临床测试），应设计和制造，以便：
 
-The essential design and manufacturing principles listed in this Section of the document are additional to the essential principles listed in Section 5. These essential principles are applicable to medical devices other than IVD medical devices. 
+### 确保医疗器械和体外诊断医疗器械可以按照使用说明由预期用户安全、准确地使用。 如果无法将与使用说明相关的风险降低到适当水平，则可以通过培训来降低这些风险。
 
-## Chemical, Physical and Biological Properties
+### 通过适当的方式降低用户在处理医疗器械或体外诊断（IVD）医疗器械以及，如果适用，在解释结果方面的错误风险。
 
-### With regards to chemical, physical, and biological properties of a medical device, particular attention should be paid to the compatibility between the materials and substances used and biological tissues, cells and body fluids, taking account of the intended purpose of the device and, where relevant (for example, for some absorbable products), absorption, distribution, metabolism and excretion. 
+### 适用于非专业人士（例如，自测或临床测试，旨在供非专业人士使用）的医疗器械和IVD医疗器械，应在适当的情况下，包括使非专业人士能够：
 
-### Medical devices should be designed and manufactured in such a way that they can be used safely with the materials, substances, and gases, with which they enter into contact during their intended use; if the devices are intended to administer medicinal products they should be designed and manufactured in such a way as to be compatible with the medicinal products concerned in accordance with the provisions and restrictions governing those medicinal products and that the performance of both the medicinal products and of the devices is maintained in accordance with their respective indications and intended use.
+### 验证，在使用时，医疗器械或IVD医疗器械将按照制造商的预期进行操作，并且
 
-### Medical devices should be designed and manufactured in such a way as to appropriately reduce the risks linked to the size and the properties of particles which are or can be released into the patient's or user's body, unless they come into contact with intact skin only. Special attention should be given to nanomaterials.
+### 如果医疗器械或体外诊断（IVD）医疗器械未能按照预期运行或提供有效结果，则应予以警告。
 
-## Protection against Radiation 
+## 含有生物来源材料的医疗器械和体外诊断（IVD）医疗器械
 
-### Medical devices emitting ionizing radiation intended for medical imaging should be designed and manufactured in such a way as to achieve an image and/or output quality that are appropriate to the intended medical purpose whilst minimizing radiation exposure of the patient, user, and other persons.
+### 对于包含来自动物、植物或细菌的组织、细胞或物质，或其衍生物的医疗器械和体外诊断（IVD）医疗器械，如果这些物质不可使用或已变为不可使用，则应遵循以下规定：
 
-### Medical devices emitting ionizing radiation should be designed to allow the accurate estimation (or monitoring), display, reporting, and recording of the dose from a treatment. 
+### 在适当的情况下，应考虑动物种类、来自动物的组织和细胞，或其衍生物，这些组织和细胞应来自经过兽医控制，并适应于这些组织使用目的的动物。
 
-## Particular Requirements for Implantable Medical Devices
+### 制造商可能需要根据管辖区要求保留有关动物地理来源的信息。
 
-### Implantable medical devices should be designed and manufactured in such a way as to remove or appropriately reduce the risks associated with medical treatment, e.g. the use of defibrillators, high-frequency surgical equipment. 
+### 组织、细胞和来自动物的物质或其衍生物的采购、加工、保存、测试和处理应以确保患者、用户以及，如果适用，其他人的安全为目标。特别是，应通过在制造过程中实施经过验证的先进方法来解决与病毒和其他可传播的病原体相关的安全问题，除非使用这些方法会导致不可接受的降解，从而损害医疗器械或体外诊断（IVD）医疗器械。
 
-### Active programmable implantable medical devices should be designed and manufactured in a manner that allows the unequivocal identification of the device without the need for a surgical operation. 
+### 对于监管机构，这些机构负责监管利用来自人类的组织、细胞或物质（或其衍生物）作为医疗器械或体外诊断（IVD）医疗器械的制造产品，应遵循以下规定：
 
-## Protection against the Risks Posed to the Patient or User by Medical Devices Supplying Energy or Substances
+### 组织和细胞的捐赠、采购和测试应符合管辖区要求；
 
-### Medical devices for supplying the patient with energy or substances should be designed and manufactured in such a way that the amount to be delivered can be set and maintained accurately enough to ensure the safety of the patient, user, and others.
+### 处理、保存以及对这些组织或细胞及其衍生物的任何其他处理应以确保患者、用户以及，如果适用，其他人的安全为目标。 尤其，应通过适当的来源方法以及在制造过程中实施经过验证的先进方法来解决与病毒和其他可传播的病原体相关的安全问题。
 
-### Medical devices should be fitted with the means of preventing and/or indicating any inadequacies in the amount of energy delivered or substances delivered which could pose a danger. Devices should incorporate suitable means to appropriately reduce the risk of accidental release of dangerous levels of energy or substances from an energy and/or substance source.
+### 对于利用除第 5.13.1 和 5.13.2 条中规定的物质以外的生物物质制造的医疗器械和体外诊断（IVD）医疗器械，应以确保患者、用户以及，如果适用，其他人的安全为目标，包括在废物处理链中。 尤其，应通过适当的来源方法以及在制造过程中实施经过验证的先进方法来解决与病毒和其他可传播的病原体相关的安全问题。 在特定监管辖区，还可能适用其他要求。
 
-## Medical Devices Incorporating a Substance Considered to be a Medicinal Product/Drug
+# 适用于除体外诊断（IVD）医疗器械的其他医疗器械的基本原则
 
-### Where a medical device incorporates, as an integral part, a substance which, if used separately may be considered to be a medicinal product/drug as defined in the relevant legislation that applies in that Regulatory Authority and which is liable to act upon the body with action ancillary to that of the medical device, the safety and performance of the medical device as a whole should be verified, as well as the identity, safety, quality and efficacy of the substance in the specific combination product.[3]
+本文件中列出的基本设计和制造原则是与第 5 节中列出的基本原则的补充。 这些基本原则适用于除体外诊断（IVD）医疗器械以外的其他医疗器械。
 
-# Essential Principles Applicable to IVD Medical Devices
+## 化学、物理和生物性质
 
-The essential design and manufacturing principles listed in this Section of the document are additional to the essential principles of safety and performance listed in Section 5. These essential principles are applicable to only IVD medical devices.
+### 就医疗器械的化学、物理和生物特性而言，特别应关注材料和所用物质与生物组织、细胞和体液之间的兼容性，同时考虑该器械的预期用途，以及（例如，对于某些可吸收产品）吸收、分布、代谢和排泄。
 
-## Chemical, Physical and Biological Properties 
+### 医疗器械应设计和制造，以便安全地与在预期使用过程中与它们接触的材料、物质和气体一起使用；如果这些器械用于给药，则应设计和制造，使其与相关的药物符合规定和限制，并且确保药物和器械的性能符合各自的适应症和预期用途。
 
-### With regards to chemical, physical, and biological properties for IVD medical devices, attention should be paid to the possibility of impairment of analytical performance due to physical and/or chemical incompatibility between the materials used and the specimens, analyte or marker to be detected and measured (such as biological tissues, cells, body fluids and micro-organisms), taking account of the intended purpose of the device. 
+### 医疗器械应设计和制造，以适当降低与释放到患者或用户身体内的颗粒的大小和特性相关的风险，除非它们仅与完整皮肤接触。特别应关注纳米材料。
 
-## Performance Characteristics
+## 辐射防护
 
-### IVD medical devices should achieve the analytical and clinical performances, as stated by the manufacturer that are applicable to the intended use/purpose, taking into account the intended patient population, the intended user, and the setting of intended use. These performance characteristics should be established using suitable, validated, state of the art methods. For example: 
+### 适用于医疗成像的发射离子辐射的医疗器械应设计和制造，以实现与预期医疗目的相符的图像和/或输出质量，同时最大限度地减少患者、用户和其他人的辐射暴露。
 
-### The analytical performance can include, but is not limited to,
+### 发射离子辐射的医疗器械应设计，以便能够准确估计（或监测）、显示、报告和记录治疗剂量。
 
-###  Traceability of calibrators and controls
+## 特定要求：植入式医疗器械
 
-### Accuracy of measurement (trueness and precision)
+### 植入式医疗器械应设计和制造，以消除或适当降低与医疗治疗相关的风险，例如使用除颤器、高频手术设备。
 
-### Analytical sensitivity/Limit of detection
+### 具有主动可编程功能的植入式医疗器械应设计和制造，以便在无需进行手术的情况下，能够明确识别该设备。
 
-### Analytical specificity
+## 保护患者或用户免受医疗器械（提供能量或物质）带来的风险
 
-### Measuring interval/range
+### 用于向患者提供能量或物质的医疗器械应设计和制造，以便能够准确设置和维持提供的量，以确保患者、用户和其他人的安全。
 
-### Specimen stability
+### 医疗器械应配备防止和/或指示提供的能量或物质量不足的任何不足之处的手段，这些不足之处可能构成危险。 装置应包含适当的手段，以适当降低来自能量和/或物质来源的意外释放危险水平的能量或物质的风险。
 
-### The clinical performance, for example diagnostic/clinical sensitivity, diagnostic/clinical specificity, positive predictive value, negative predictive value, likelihood ratios, and expected values in normal and affected populations.
+## 包含被认为是药品/药物的物质的医疗器械
 
-### Validated control procedures to assure the user that the IVD medical device is performing as intended, and therefore the results are suitable for the intended use. 
+### 如果医疗器械将物质作为其不可分割的一部分，并且如果该物质单独使用，可能被视为符合相关法规中定义的药品/药物，并且该物质可能对身体产生与医疗器械作用相似的效力，则应验证整个医疗器械的安全性、性能，以及该特定组合产品中物质的身份、安全性、质量和疗效。[3]
 
-### Where the performance of an IVD medical device depends on the use of calibrators or control materials, the traceability of values assigned to such calibrators or control materials should be ensured through available reference measurement procedures or available reference materials of a higher order.
+# 适用于体外诊断医疗器械的必要原则
 
-### Wherever possible, values expressed numerically should be in commonly accepted, standardized units and understood by the users of the IVD medical device.
+本文件中列出的必要设计和制造原则，是与第 5 节中列出的安全和性能的必要原则之外的补充原则。这些必要原则仅适用于体外诊断医疗器械。
 
-### The performance characteristics of the IVD medical device should be evaluated according to the intended use statement which may include the following: 
+## 化学、物理和生物性质
 
-### intended user, for example, lay user, laboratory professional;
+### 针对体外诊断（IVD）医疗器械的化学、物理和生物特性，应特别注意由于材料与用于检测和测量的标本（如生物组织、细胞、体液和微生物）、分析物或标记之间的物理和/或化学不兼容性，可能导致分析性能受损的情况，同时考虑到该设备的预期用途。
 
-### intended use environment, for example, patient home, emergency units, ambulances, healthcare centers, laboratory;
+## 性能特征
 
-### relevant populations, for example, pediatric, adult, pregnant women, individuals with signs and symptoms of a specific disease, patients undergoing differential diagnosis, blood donors, etc. Populations evaluated should represent, where appropriate, ethnically, gender, and genetically diverse populations so as to be representative of the population(s) where the device is intended to be marketed. For infectious diseases, it is recommended that the populations selected have similar prevalence rates.
+### 体外诊断（IVD）医疗器械应达到制造商声明的，适用于预期用途/目的的分析和临床性能，同时考虑到预期患者人群、预期用户以及预期使用环境。这些性能特征应使用适当、经过验证、先进的方法来建立。例如：
 
-# Appendix A: Use of Standards in Meeting Essential Principles
+### 分析性能可能包括，但不限于：
 
-Consensus standards that contain detailed requirements may be used to demonstrate conformance with the essential principles of safety and performance. Such consensus standards provide a greater level of detail and specificity than can be expressed in the essential principles. The essential principles of safety and performance and their related standards can be useful in the fulfilment of regulatory requirements throughout the lifecycle of medical devices and IVD medical devices. It is important to note that, the use of specific consensus standards, depends on the requirements of the Regulatory Authorities having jurisdiction. Use of these consensus standards is voluntary, and manufacturers may establish alternative ways to demonstrate that they meet the essential principles. In addition, some Regulatory Authorities may have additional requirements outside of these essential principles of safety and performance. 
+### 校准剂和控制的追溯性
 
-### A. General Approach to Using Standards
+### 测量准确性（真实性和精确度）
 
-The essential principles of safety and performance are the general, high-level criteria that when met play a major role in the determination that a medical device and IVD medical device is safe and effective. Regulatory requirements expect that a medical device and IVD medical device be safe and effective during its lifecycle and so conformity with the essential principles of safety and performance should be achieved throughout the lifecycle of the medical device and IVD medical device. This usually means that the medical device and IVD medical device should be: 
+### 分析灵敏度/检测限
 
-  *     *       *         *           1. designed to be safe and effective, complying with the essential principles of safety and performance, 
-          2. manufactured to maintain the design characteristics, and 
-          3. used in a way that maintains the design characteristics.
+### 分析特异性
 
-In the case of concerning findings while the medical device or IVD medical device is in the post-production phase (i.e., while the device is being marketed and manufactured), the production and post-production information should be evaluated for relevancy to safety and performance and a redesign of the product might be needed to return the medical device or IVD medical device to compliance with the essential principles of safety and performance.
+### 测量间隔/范围
 
-It is important to note that it is not possible to assure an acceptable level of safety and performance in the lifecycle by simply being compliant with one or more standards at one time. The requirements in a single standard typically do not meet all the specific parts of a given essential principle as related to a given medical device or IVD medical device. A process for continuous compliance is required and the expectation is that this is achieved through the use of a robust quality management system and a risk management process. 
+### 标本稳定性
 
-### B. Use of Standards by Regulatory Authorities having Jurisdiction
+### 临床性能，例如诊断/临床灵敏度、诊断/临床特异性、阳性预测值、阴性预测值、可能性比、以及在正常人群和患病人群中的预期值。
 
-In some countries, Regulatory Authorities having jurisdiction acknowledge the use of voluntary consensus standards as one means of demonstrating compliance with relevant essential principles of safety and performance of medical devices and IVD medical devices. In addition, use of consensus standards can promote harmonization among Regulatory Authorities in the regulation of medical devices and IVD medical devices. 
+### 经过验证的控制程序，以确保用户确认体外诊断（IVD）医疗器械按照预期运行，因此结果适用于预期用途。
 
-Standards suitable to address the essential principles should be based on: 
+### 如果IVD医疗器械的性能取决于校准器或控制材料的使用，则应通过可用的参考测量程序或更高等级的参考材料来确保这些校准器或控制材料的数值可追溯。
 
-  *     *       *         *           1. close relationship of the scope of the standard to one or more of the essential principles,
-          2. the clarity, effectiveness, and completeness of the technical requirements contained in the standard as it relates to a specific essential principle,
-          3. the existence of test methods for determining compliance with each of the technical requirements in the standard, and
-          4. the definition of clear acceptance criterion for determining that each technical requirement is met.
+### 尽可能，表达为数值的价值应使用被广泛接受和标准化的单位，并被IVD医疗器械的用户理解。
 
-These standards should, wherever possible, be standards incorporating the thinking of the global marketplace and help support the development of consistent expectations between Regulatory Authorities having jurisdiction. In the absence of international consensus standards, it may be appropriate for Regulatory Authorities having jurisdiction to accept the use of regional or national consensus standards or industry standards. Regulatory Authorities having jurisdiction typically establish and maintain a list of accepted standards that they find suitable for demonstrating conformance to these essential principles. 
+### 应根据预期用途对IVD医疗器械的性能特征进行评估，该预期用途可能包括以下内容：
 
-### C. Assessing the Conformity of a Medical Device and IVD Medical Device 
+### 预期用户，例如，非专业人士、实验室专业人员；
 
-Conformity assessment is performed by a Regulatory Authority or other party, and is a demonstration that a medical device or IVD medical device conforms to the essential principles as an assurance it is safe and performs as intended. Conformity assessment can include a variety of evaluation activities including examination of records and procedures undertaken by the manufacturer, under requirements established by the Regulatory Authority having jurisdiction. In assessing the conformity of a medical device with the essential principles, standards or parts of several standards may be utilized and combined in a way that is appropriate for the specific medical device or IVD medical device. In some cases, the use of parts of standards and/or combinations of standards should be acceptable for conformity assessment purposes.
+### 预期用途环境，例如，患者家庭、急诊部门、救护车、医疗中心、实验室；
 
-If the combination of standards does not cover all the necessary essential principles of safety and performance for a specific medical device or IVD medical device, other means of demonstrating conformance to the essential principles should be used. In addition, the Regulatory Authority having jurisdiction may have additional requirements that are beyond those contained in the standard. In some cases, even if there is an available standard, other objective evidence acceptable to the regulatory authority may be used in lieu of using any standard to demonstrate conformance to the essential principles.
+### 相关人群，例如，儿童、成人、孕妇、患有特定疾病的个体、进行鉴别诊断的患者、血液供者等。 评估的人群应在适当的情况下，具有种族、性别和遗传多样性，以便代表预期营销的设备所针对的人群。 对于传染性疾病，建议选择的人群具有相似的流行病率。
 
-### D. Risk Management within Consensus Standards
+附录 A：使用标准以满足基本原则
 
-Risk management is increasingly becoming a key principle within standards. For example, many medical device consensus standards include risk management principles in the application of these standards during the medical device and IVD medical device lifecycle. The use of risk management principles in these consensus standards allows these standards to remain relevant and helpful as technology advances. Application of risk management principles within consensus standards requires the medical device and IVD medical device manufacturer to consider the implications of design and manufacturing decisions made during the lifecycle of the medical device. Documentation of these risk management activities can provide a justification that manufacturers design and manufacturing decisions meet a Regulatory Authority’s requirements. 
+包含详细要求的共识标准可用于证明符合安全和性能的基本原则。 这种共识标准比基本原则提供更详细和具体的说明。 安全和性能的基本原则及其相关标准在医疗器械和体外诊断医疗器械的整个生命周期中满足监管要求方面具有重要作用。 重要的是要注意，使用特定共识标准取决于管辖区域的监管机构的要求。 使用这些共识标准是自愿的，制造商可以建立替代方法来证明其符合基本原则。 此外，一些监管机构可能在这些基本安全和性能原则之外，还有额外的要求。
 
-# Appendix B: Guidance on Essential Principles
+### A. 使用标准的通用方法
 
-The table below is intended to provide general guidance for meeting the essential principles of safety and performance. The standards and guidances below are not intended to encompass all of the requirements to meet a particular essential principle, but rather provide some overarching guidance. Depending on the specific medical device or IVD medical device additional product specific standards may need to be used. In addition, the requirements of the particular Regulatory Authority having jurisdiction must also be taken into consideration. 
+安全和性能的基本原则是通用的、高级标准，当这些标准得到满足时，在确定医疗器械和体外诊断医疗器械是安全有效的方面发挥着重要作用。 监管要求规定，医疗器械和体外诊断医疗器械在整个生命周期内必须安全有效，因此，必须在医疗器械和体外诊断医疗器械的整个生命周期内实现与安全和性能的基本原则的符合。 这通常意味着，医疗器械和体外诊断医疗器械应：
 
-Essential Principle| Guidances| Relevant Standards  
----|---|---  
-5.1| GHTF/SG3/N18:2010 _Quality Management System –Medical Devices – Guidance on Corrective Action and Preventive Action and related QMS Processes_GHTF/SG3/N17:2008 Quality Management System – Medical Devices – Guidance on the Control of Products and Services Obtained from SuppliersGHTF/SG3/N99-10:2004 Quality Management Systems - Process Validation GuidanceGHTF/SG3/N15R8 Implementation of Risk Management Principles and Activities within a Quality Management System ISO 13485:2016 Handbook | ISO 13485ISO 14971ISO 23640ISO 24971CLSI EP25   
-5.2| Declaration of HelsinkiGHTF/SG5/N1R8:2007 _Clinical Evidence – Key Definitions and Concepts_ GHTF/SG5/N2R8:2007 _Clinical Evaluation_ GHTF/SG5/N3:2010 _Clinical Investigations_ GHTF/SG5/N6:2012 _Clinical Evidence for IVD Medical Devices - Key Definitions and Concepts_ GHTF/SG5/N7:2012 _Clinical Evidence for IVD Medical Devices - Scientific Validity Determination and Performance Evaluation_.GHTF/SG5/N8:2012 _Clinical Performance Studies for In Vitro Diagnostic Medical Devices_| ISO 14155  
-5.3| | ISO 10993IEC 60601IEC 61010  
-5.4| | ISO 11135ISO 11137ISO 11138 ISO 11140 ISO 11607ISO 10993ISO 11737ISO 13408ISO 14644ISO 14937ISO 14698ISO 17664ISO 17665  
-5.5| | IEC 60601IEC 61010IEC 62366-1IEC/TR 62366-2IEC 80001ISO 80369IEC 62304  
-5.6| | IEC 60601IEC 61010  
-5.7| | IEC 60601IEC 61010  
-5.8| IMDRF/SaMD WG/N41FINAL:2017 Software as a Medical Device (SaMD): Clinical Evaluation IMDRF/SaMD WG/N23 FINAL:2015 Software as a Medical Device (SaMD): Application of Quality Management SystemIMDRF/SaMD WG/N12 FINAL:2014 “Software as a Medical Device”: Possible Framework for Risk Categorization and Corresponding ConsiderationsIMDRF/SaMD WG/N10 FINAL:2013 Software as a Medical Device (SaMD): Key Definitions | IEC 62304  
-5.9| | IEC 60601IEC 61010IEC 62366-1IEC/TR 62366-2  
-5.10| IMDRF/GRRP WG/N52 _Principles of Labeling for Medical Devices and IVD Medical Devices_| ISO 15223-1ISO 18113ISO 20417  
-5.11| | IEC 60601IEC 61010  
-5.12| | IEC 62366-1IEC/TR 62366-2  
-5.13| | ISO 22442  
-5.14| Refer to jurisdictional requirements. |   
-6.1| | ISO 10993IEC 60601  
-6.2| | IEC 60601  
-6.3| Requirements depend on the type of implantable device. |   
-6.4| | IEC 60601  
-7.1| | CLSI EP05 CLSI EP06 CLSI EP07 CLSI EP12CLSI EP17CLSI EP21CLSI EP25CLSI EP28ISO 17511ISO 23640  
-7.2| | ISO 10993IEC 61010  
+*     *       *         *           1. 设计为安全有效，符合安全和性能的基本原则，
 
-Disclaimer
+2. 制造以保持设计特征，以及
 
-© Copyright 2024 by the International Medical Device Regulators Forum. 
+3. 以一种方式使用，以保持设计特征。
 
-This work is copyright. Subject to these Terms and Conditions, you may download, display, print, translate, modify and reproduce the whole or part of this work for your own personal use, for research, for educational purposes or, if you are part of an organisation, for internal use within your organisation, but only if you or your organisation do not use the reproduction for any commercial purpose and retain all disclaimer notices as part of that reproduction. If you use any part of this work, you must include the following acknowledgement (delete inapplicable): 
+在医疗器械或体外诊断医疗器械处于生产后阶段（即，在产品上市和生产期间）时，应评估生产和生产后信息与安全和性能的相关性，并且可能需要对产品进行重新设计，以使医疗器械或体外诊断医疗器械符合基本安全和性能原则。
 
-“[Translated or adapted] from [insert name of publication], [year of publication], International Medical Device Regulators Forum, used with the permission of the International Medical Device Regulators Forum. The International Medical Device Regulators Forum is not responsible for the content or accuracy of this [adaption/translation].” 
+重要的是要注意，仅仅通过同时符合一个或多个标准，并不能保证在产品生命周期内达到可接受的安全和性能水平。单个标准的规定通常不足以满足与特定医疗器械或体外诊断医疗器械相关的基本原则的所有具体要求。需要采用持续符合的流程，并且预期通过使用强大的质量管理体系和风险管理流程来实现这一目标。
 
-All other rights are reserved, and you are not allowed to reproduce the whole or any part of this work in any way (electronic or otherwise) without first being given specific written permission from IMDRF to do so. Requests and inquiries concerning reproduction and rights are to be sent to the IMDRF Secretariat. 
+### B. 具有管辖权的监管机构的标准使用
 
-Incorporation of this document, in part or in whole, into another document, or its translation into languages other than English, does not convey or represent an endorsement of any kind by the IMDRF. 
+在一些国家，具有管辖权的监管机构承认，使用自愿共识标准是证明符合医疗器械和体外诊断医疗器械相关基本安全和性能原则的一种方式。此外，使用共识标准还可以促进监管机构在医疗器械和体外诊断医疗器械的监管方面的一致性。
 
-Please visit our website for more details.
+适合用于满足基本原则的标准应基于：
+
+*       *         *           1. 标准的范围与一个或多个基本原则之间的密切关系，
+
+2. 标准中包含的技术要求在与特定基本原则相关的清晰性、有效性和完整性，
+
+3. 存在用于确定符合标准中每个技术要求的方法，以及
+
+4. 定义明确的验收标准，以确定每个技术要求是否已满足。
+
+这些标准应尽可能采用全球市场思维，并有助于促进管辖机构之间的一致预期。 在缺乏国际共识标准的情况下，管辖机构可以接受使用区域或国家共识标准或行业标准。 通常，管辖机构会建立和维护一份符合这些基本原则的适用的标准清单。
+
+### C. 评估医疗器械和体外诊断医疗器械的合规性
+
+合规性评估由监管机构或其他机构进行，并证明医疗器械或体外诊断医疗器械符合基本原则，从而确保其安全并按照预期方式运行。合规性评估可能包括各种评估活动，包括审查制造商所采取的记录和程序，这些程序由管辖的监管机构制定的要求下进行。在评估医疗器械或体外诊断医疗器械与基本原则、标准或标准部分的合规性时，可以采用和组合多个标准，以适合特定医疗器械或体外诊断医疗器械。在某些情况下，使用标准的部分或标准组合对于合规性评估目的是可以接受的。
+
+如果标准组合未涵盖特定医疗器械或体外诊断医疗器械的所有必要基本安全和性能原则，则应使用其他方法来证明符合基本原则。此外，管辖的监管机构可能还有超出标准要求的额外要求。在某些情况下，即使存在标准，也可以使用监管机构认为可接受的其他客观证据，以替代使用任何标准来证明符合基本原则。
+
+### D. 在共识标准内进行风险管理
+
+风险管理正在日益成为标准中的关键原则。例如，许多医疗器械共识标准在医疗器械和体外诊断（IVD）医疗器械的生命周期中，将风险管理原则纳入这些标准的应用中。在这些共识标准中应用风险管理原则，使这些标准能够随着技术的进步而保持相关性和实用性。在共识标准中应用风险管理原则，要求医疗器械和体外诊断（IVD）医疗器械制造商在医疗器械的生命周期中，考虑设计和制造决策的影响。对这些风险管理活动的记录，可以提供制造商的设计和制造决策符合监管机构要求的证明。
+
+附录 B：关于基本原则的指导
+
+下表旨在为满足安全和性能的基本原则提供一般指导。以下标准和指南并非旨在涵盖满足特定基本原则的所有要求，而是提供一些总体指导。具体医疗器械或体外诊断（IVD）医疗器械可能需要使用额外的特定产品标准。此外，还必须考虑具有管辖权的特定监管机构的要求。
+
+关键原则 | 指导 | 相关标准
+---|---|---
+5.1 | GHTF/SG3/N18:2010 _质量管理体系 – 医疗器械 – 关于纠正和预防措施的指导以及相关的质量管理体系流程_ GHTF/SG3/N17:2008 质量管理体系 – 医疗器械 – 关于从供应商处获得的产品和服务的控制
+GHTF/SG3/N99-10:2004 质量管理体系 – 流程验证指导
+GHTF/SG3/N15R8 实施风险管理原则和活动，在质量管理体系内 ISO 13485:2016 手册 | ISO 13485 ISO 14971 ISO 23640 ISO 24971 CLSI EP25
+5.2 | 赫尔辛基宣言 GHTF/SG5/N1R8:2007 _临床证据 – 关键定义和概念_ GHTF/SG5/N2R8:2007 _临床评估_ GHTF/SG5/N3:2010 _临床研究_ GHTF/SG5/N6:2012 _体外诊断医疗器械的临床证据 – 关键定义和概念_ GHTF/SG5/N7:2012 _体外诊断医疗器械的临床证据 – 科学有效性确定和性能评估_ GHTF/SG5/N8:2012 _体外诊断医疗器械的临床性能研究_| ISO 14155
+5.3 | | ISO 10993 IEC 60601 IEC 61010
+5.4 | | ISO 11135 ISO 11137 ISO 11138 ISO 11140 ISO 11607 ISO 10993 ISO 11737 ISO 13408 ISO 14644 ISO 14937 ISO 14698 ISO 17664 ISO 17665
+5.5 | | IEC 60601 IEC 61010 IEC
+
+免责声明
+
+© 2024 年 国际医疗器械监管论坛 版权所有。
+
+本作品受版权保护。在遵守本条款和条件的前提下，您可以下载、显示、打印、翻译、修改和复制本作品的全部或部分内容，用于您个人的使用、研究、教育目的，或如果贵组织是组织，则用于贵组织的内部使用，但前提是您或贵组织不得将复制用于任何商业目的，并且保留所有版权声明。如果您使用本作品的任何部分，必须包含以下声明（删除不适用的内容）：
+
+“[翻译或改编]自[插入出版物名称]，[出版年份]，国际医疗器械监管论坛，经国际医疗器械监管论坛授权使用。国际医疗器械监管论坛不对本[改编/翻译]的内容或准确性负责。”
+
+除上述内容外，所有权利均保留，未经国际医疗器械监管论坛（IMDRF）事先书面许可，不得以任何方式（包括电子方式）复制或使用本材料的全部或任何部分。有关复制和权利的请求和咨询应发送给 IMDRF 秘书处。
+
+将本文件（部分或全部）纳入其他文档，或将其翻译成其他语言，并不代表IMDRF的认可。
+
+请访问我们的网站以获取更多详细信息。
 
 [www.imdrf.org](<http://www.imdrf.org/>)
 
-  1. The term “person” that appears here and in the other definitions of this document, includes legal entities such as a corporation, a partnership or an association. ↑
+1. 在本文件及其他定义中出现的“人”一词，包括法人实体，如公司、合伙企业或协会。 ↑
 
-  2. See GHTF/SG1/N29 _Information Document Concerning the Definition of the Term “Medical Device”_ ↑
+2. 参见 GHTF/SG1/N29 _关于“医疗器械”术语定义的文档_ ↑
 
-  3. ###  This essential principle is not intended to provide definitions for combination products since these definitions are yet to be harmonized and how combination products are handled varies among different regulatory authorities. 
+3. ### 这一基本原则并非旨在为组合产品提供定义，因为这些定义尚未统一，且不同监管机构对组合产品的处理方式各不相同。
 
 ↑
 

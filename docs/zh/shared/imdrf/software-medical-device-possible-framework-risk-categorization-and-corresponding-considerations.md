@@ -10,13 +10,17 @@ title: "Software as a Medical Device: Possible Framework for Risk Categorization
 [https://www.imdrf.org/documents/software-medical-device-possible-framework-risk-categorization-and-corresponding-considerations](https://www.imdrf.org/documents/software-medical-device-possible-framework-risk-categorization-and-corresponding-considerations)
 :::
 
+::: info
+This content has been machine-translated from the English original.
+:::
+
 <!-- fulltext-start -->
 
 ---
 
 ## 全文
 
-# Software as a Medical Device: Possible Framework for Risk Categorization and Corresponding Considerations
+# 软件为医疗器械：风险分类的可能框架及相关考虑
 
 **Document Number**: IMDRF/SaMD WG/N12FINAL:2014
 
@@ -26,748 +30,883 @@ title: "Software as a Medical Device: Possible Framework for Risk Categorization
 
 **IMDRF/SaMD WG/N12FINAL:2014**
 
-**Final Document**
+**最终文档**
 
-**Title:** “Software as a Medical Device”: Possible Framework for  
-Risk Categorization and Corresponding Considerations  
+**标题：** “软件为医疗器械”：风险分类的可能框架及相关考虑
 
-**Authoring Group** : IMDRF Software as a Medical Device (SaMD) Working Group
+**编写组：** IMDRF 软件为医疗器械 (SaMD) 工作组
 
-**Date:** 18 September 2014
+**日期：** 2014年9月18日
 
-Jeffrey Shuren, IMDRF Chair
+杰弗里·舒伦，IMDRF 负责人
 
-This document was produced by the International Medical Device Regulators Forum.   
-There are no restrictions on the reproduction or use of this document; however,   
-incorporation of this document, in part or in whole, into another document, or its   
-translation into languages other than English, does not convey or represent an   
-endorsement of any kind by the International Medical Device Regulators Forum.
+本文件由国际医疗器械监管论坛制作。
+本文件的复制或使用不受限制；但是，将本文件（或其中一部分）纳入其他文件中，或将其翻译成其他语言，并不代表国际医疗器械监管论坛的认可。
 
-Copyright © 2014 by the International Medical Device Regulators Forum.
+版权 © 2014 由国际医疗器械监管论坛所有。
 
-**Table of Contents**
+**目录**
 
-1.0 Introduction 4
+1.0 简介 4
 
-2.0 Scope 5
+2.0 范围 5
 
-3.0 Definitions 7
+3.0 定义 7
 
-3.1 Software as a Medical Device 7
+3.1 软件为医疗器械 7
 
-3.2 Intended use / Intended Purpose 7
+3.2 预期用途 / 预期目的 7
 
-3.3 Medical Purpose 7
+3.3 医疗用途 7
 
-3.4 SaMD Changes 9
+3.4 SaMD 的变更 9
 
-4.0 SaMD Background and Aspects Influencing Patient Safety 9
+4.0 SaMD 的背景及影响患者安全的方面 9
 
-5.0 Factors Important for SaMD Characterization 10
+5.0 确定 SaMD 的重要因素 10
 
-5.1 Significance of information provided by SaMD to healthcare decision 10
+5.1 SaMD 向医疗决策提供的信息的重要性 10
 
-5.2 Healthcare Situation or Condition 11
+5.2 医疗状况或病情 11
 
-6.0 SaMD Definition Statement 12
+6.0 SaMD 定义声明 12
 
-7.0 SaMD Categorization 13
+7.0 SaMD 分类 13
 
-7.1 Categorization Principles 13
+7.1 分类原则 13
 
-7.2 SaMD Categories 14
+7.2 SaMD 分类 14
 
-7.3 Criteria for Determining SaMD Category 14
+7.3 确定 SaMD 分类的标准 14
 
-7.4 Examples of SaMD: 15
+7.4 SaMD 的示例： 15
 
-8.0 General Considerations for SaMD 20
+8.0 SaMD 的一般考虑 20
 
-8.1 Design and development 20
+8.1 设计和开发 20
 
-8.2 Changes 22
+8.2 变更 22
 
-9.0 Specific Considerations for SaMD 23
+9.0 SaMD 的特定考虑 23
 
-9.1 Socio-technical environment considerations 23
+9.1 社会技术环境的考虑 23
 
-9.2 Technology and system environment considerations 25
+9.2 技术和系统环境的考虑 25
 
-9.3 Information security with respect to safety considerations 26
+9.3 针对安全考虑的信息安全 26
 
-10.0 Appendix 27
+10.0 附录 27
 
-10.1 Clarifying SaMD Definition 27
+10.1 澄清 SaMD 的定义 27
 
-10.2 Analysis of SaMD framework with existing classifications 29
+10.2 分析与现有分类的 SaMD 框架 29
 
-11.0 References 30
+11.0 参考文献 30
 
-**Preface**
+**前言**
 
-The document herein was produced by the International Medical Device Regulators Forum (IMDRF), a voluntary group of global medical device regulators from around the world. The document has been subject to consultation throughout its development.
+本文件由国际医疗器械监管论坛 (IMDRF) 编制，这是一个由来自世界各地的全球医疗器械监管者组成的自愿组织。本文件在开发过程中接受了广泛的咨询。
 
-There are no restrictions on the reproduction, distribution or use of this document; however, incorporation of this document, in part or in whole, into any other document, or its translation into languages other than English, does not convey or represent an endorsement of any kind by the International Medical Device Regulators Forum.
+本文件不受任何限制，可以复制、分发或使用；但是，将本文件（或其任何部分）包含在其他文件中，或将其翻译成其他语言，并不代表国际医疗器械监管论坛的任何形式认可。
 
-# Introduction
+# 简介
 
-Software is playing an increasingly important and critical role in healthcare with many clinical and administrative purposes. 
+软件在医疗领域扮演着越来越重要和关键的角色，用于各种临床和行政目的。
 
-Software used in healthcare operates in a complex socio-technical environment—consisting of software, hardware, networks, and people—and frequently forms part of larger systems that must operate in a unified manner. This software frequently depends on other commercial off-the-shelf (COTS) software and on other systems and data repositories for source data. 
+在医疗领域使用的软件，在一个复杂的社会技术环境中运行——包括软件、硬件、网络和人员——并且经常是更大系统的组成部分，这些系统必须以统一的方式运行。 这种软件通常依赖于其他商业标准软件（COTS）以及其他系统和数据存储库。
 
-A subset of software used in healthcare meets the definition of a medical device; globally, regulatory authorities regulate such software accordingly.
+在医疗领域使用的软件的一小部分符合医疗器械的定义；全球范围内，监管机构相应地监管这些软件。
 
-Existing regulations for medical device software are largely focused on medical device software that is embedded in dedicated hardware medical devices and are focused around physical harm, transmission of energy and/or substances to or from the body, the degree of invasiveness to the body, closeness to sensitive organs, duration of use, diseases, processes and public health risk, competence of user and effect on population due to communicable diseases, etc.
+现有的医疗器械软件法规主要集中在嵌入在专用硬件医疗器械中的医疗器械软件上，并侧重于对身体的物理伤害、能量或物质的传递、对身体的侵入程度、与敏感器官的距离、使用时长、疾病、过程和公共健康风险、用户和因传染性疾病而对人群产生的影响等。
 
-Today, medical device software is often able to attain its intended medical purpose independent of hardware medical devices. It is increasingly being deployed on general-purpose hardware and delivered, in diverse care settings, on a multitude of technology platforms (e.g., personal computers, smart phones, and in the cloud) that are easily accessible. It is also being increasingly interconnected to other systems and datasets (e.g., via networks and over the Internet).
+如今，医疗器械软件通常可以独立于硬件医疗器械实现其预期医疗目的。 越来越多的软件被部署在通用硬件上，并在各种医疗环境中，通过多种技术平台（例如个人电脑、智能手机和云）提供（例如，通过网络和互联网）。 此外，它也越来越多地与其他系统和数据集（例如通过网络和互联网）进行互联。
 
-The complexity of medical device software, together with the increasing connectedness of systems, results in emergent behaviors not usually seen in hardware medical devices. 
+医疗设备软件的复杂性，以及系统之间日益密集的连接，导致了通常在硬件医疗设备中不常见的 emergent 行为。
 
-This introduces new and unique challenges. For example:
+这给带来了新的和独特的挑战。例如：
 
-  * Medical device software might behave differently when deployed to different hardware platforms. 
-  * Often an update made available by the manufacturer is left to the user of the medical device software to install. 
-  * Due to its non-physical nature (key differentiation), medical device software may be duplicated in numerous copies and widely spread, often outside the control of the manufacturer.
+* 医疗设备软件在不同的硬件平台上运行时，可能会表现出不同的行为。
 
-Furthermore, there are lifecycle aspects of medical device software that pose additional challenges. For instance, software manufacturers often:
+* 制造商提供的更新通常由医疗设备软件的用户自行安装。
 
-  * Have rapid development cycles, 
-  * Introduce frequent changes to their software, and
-  * Deliver updates by mass and rapid distribution.
+* 由于其非物理性质（关键差异），医疗设备软件可能被复制成大量的副本，并在广泛传播，通常超出制造商的控制范围。
 
-This document is focused on a selected subset of medical device software. This software is called _Software as a Medical Device_ (SaMD) and is defined in _IMDRF SaMD WG N10 / Software as a Medical Device: Key Definitions_.
+此外，医疗设备软件的生命周期方面也带来额外的挑战。例如，软件制造商通常：
+
+* 具有快速的开发周期，
+
+* 频繁地修改其软件，以及
+
+* 大规模、快速地分发更新。
+
+本文重点关注医疗设备软件的一个特定子集。这种软件被称为“软件作为医疗设备”（SaMD），其定义参见《IMDRF SaMD WG N10 / 软件作为医疗设备：关键定义》。
 
 ![Information](data:image/jpeg;base64,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)| **Definition: Software as a Medical Device[1]**_SaMD is defined as software intended to be used for one or more medical purposes that perform these purposes without being part of a hardware medical device._  
----|---  
+---|---
 
-The objective of this document is to introduce a foundational approach, harmonized vocabulary and general and specific considerations for manufacturers, regulators, and users alike to address the unique challenges associated with the use of SaMD.
+本文的目标是介绍一种基础方法、统一的术语和适用于制造商、监管机构和用户的通用和特定考虑因素，以解决与SaMD使用相关的独特挑战。
 
-The approach developed in this document is intended only to establish a common understanding for SaMD and can be used as reference. This document is not intended to replace or modify existing regulatory classification schemes or requirements. Further efforts are required prior to the use of this foundational approach for possible regulatory purposes. 
+本文中开发的该方法仅旨在建立SaMD的共同理解，并可作为参考。本文不应取代或修改现有的监管分类方案或要求。在使用该基础方法进行可能的监管目的之前，还需要进一步的努力。
 
-# Scope
+# 范围
 
-**Purpose of the document**
+**本文的目的**
 
-The purpose of the document is to introduce a foundational approach, harmonized vocabulary and general and specific considerations, for manufacturers, regulators, and users alike to address the unique challenges associated with the use of SaMD by;
+本文的目的在于，向制造商、监管机构和用户介绍一种基础方法、统一的术语和通用和特定考虑因素，以便他们共同解决与SaMD使用相关的独特挑战，即；
 
-  * Establishing common vocabulary and an approach for categorizing SaMD;
-  * Identifying specific information for describing SaMD in terms of the significance of the information provided by the SaMD to the healthcare decision, healthcare situation or condition, and core functionality;
-  * Providing criteria to categorize SaMD based on the combination of the significance of the information provided by the SaMD to the healthcare decision and the healthcare situation or condition associated with SaMD; and
-  * Identifying appropriate considerations, during the lifecycle process (requirements, design, development, testing, maintenance and use) of SaMD.
+* 建立通用的词汇和对 SaMD 的分类方法；
 
-**Field of application**
+* 确定用于描述 SaMD 的具体信息，包括 SaMD 提供的信息对医疗决策、医疗状况或病情的意义，以及 SaMD 的核心功能；
 
-  * The categorization system in this document applies to SaMD defined in the related document, _IMDRF SaMD WG N10 / Software as a Medical Device: Key Definitions_ and does not address other types of software. 
-  * Software intended as an accessory to a medical device (i.e., software that does not in itself have a medical purpose) is not in the scope of this document. 
-  * This document focuses on the SaMD irrespective of software technology and/or the platform (e.g., mobile app, cloud, server).
-  * This document does not address software that drives or controls a hardware medical device.
+* 提供用于根据 SaMD 提供的信息对医疗决策和与 SaMD 相关的医疗状况或病情的意义的组合来对 SaMD 进行分类的标准；以及
 
-**Relationship to other regulatory classification and standards[2]**
+* 在 SaMD 的生命周期过程中（包括需求、设计、开发、测试、维护和使用）确定适当的考虑因素。
 
-  * This document is not intended to replace or create new risk management practices rather it uses risk management principles (e.g., principles in international standards) to identify generic risks for SaMD. 
-  * The categorization framework in this document is not a regulatory classification, nor implies a convergence of classifications rules. However, it does set a path towards common vocabulary and approach. Additional work is required to align existing classification rules with this framework.
-  * The categorization framework is not meant to replace or conflict with the content and/or development of technical or process standards related to software risk management activities.
+**适用范围**
 
-# Definitions
+* 本文中的分类系统适用于与相关文档 _IMDRF SaMD WG N10 / Software as a Medical Device: Key Definitions_ 中定义的 SaMD，但不适用于其他类型的软件。
 
-## Software as a Medical Device
+* 旨在作为医疗设备附件的软件（即，不本身具有医疗用途的软件）不在本文件的范围内。
 
-The term “Software as a Medical Device” (SaMD) _is defined as software intended to be used for one or more medical purposes that perform these purposes without being part of a hardware medical device._
+* 本文件侧重于 SaMD，而不考虑软件技术和/或平台（例如，移动应用程序、云、服务器）。
 
-_NOTES:_
+* 本文件不涉及控制或驱动硬件医疗设备的软件。
 
-  * _SaMD is a medical device and includes in-vitro diagnostic (IVD) medical device._
-  * _SaMD is capable of running on general purpose (non-medical purpose) computing platforms.[3] _
-  * _“without being part of” means software not necessary for a hardware medical device to achieve its intended medical purpose._
-  * _Software does not meet the definition of SaMD if its intended purpose is to drive a hardware medical device._
-  * _SaMD may be used in combination (e.g., as a module) with other products including medical devices._
-  * _SaMD may be interfaced with other medical devices, including hardware medical devices and other SaMD software, as well as general purpose software._
-  * _Mobile apps that meet the definition above are considered SaMD._
+**与其他监管分类和标准的关系[2]**
 
-## Intended use / Intended Purpose
+* 本文件并非旨在取代或创建新的风险管理实践，而是使用风险管理原则（例如，国际标准中的原则）来识别针对 SaMD 的通用风险。
 
-For SaMD intended use, the definition in GHTF/SG1/N70:2011 “Label and Instructions for Use for Medical Devices” applies:
+* 本文中的分类框架并非监管分类，也不意味着分类规则的统一。然而，它确实为建立共同的术语和方法提供了方向。还需要进一步的工作来将现有的分类规则与此框架对齐。
 
-_The term “intended use / intended purpose” is the objective intent of the manufacturer regarding the use of a product, process or service as reflected in the specifications, instructions and information provided by the manufacturer._
+* 分类框架并非旨在取代或与相关的硬件或流程标准（与软件风险管理活动相关）的内容和/或开发产生冲突。
 
-## Medical Purpose 
+# 定义
 
-The following two terms as defined in GHTF/SG1/N71:2012 “Definition of the Terms ‘Medical Device’ and ‘In Vitro Diagnostic (IVD) Medical Device” (_italicized below_) identify medical purpose applicable to SaMD:
+## 软件作为医疗器械 (SaMD)
 
-### Medical Device
+“软件为医疗器械”（SaMD）的定义为：旨在用于一个或多个医疗目的的软件，这些软件在不作为硬件医疗器械的一部分的情况下执行这些目的。
 
- _‘Medical device’ means any instrument, apparatus, implement, machine, appliance, implant, reagent for in vitro use, software, material or other similar or related article, intended by the manufacturer to be used, alone or in combination, for human beings, for one or more of the specific medical purpose(s) of:_
+_备注：_
 
-  * _diagnosis, prevention, monitoring, treatment or allevi­ation of disease,_
-  * _diag­nosis, monitoring, treatment, alleviation of or com­pensation for an injury,_
-  * _inves­tigation, replacement, modification, or support of the anatomy or of a physiologi­cal process,_
-  * _supporting or sustaining life,_
-  * _con­trol of conception,_
-  * _disinfection of medical devices,_
-  * _providing information by means of in vitro examination of specimens derived from the human body;_
+* _SaMD 是一种医疗器械，包括体外诊断（IVD）医疗器械。_
 
-_and does not achieve its primary intended action by pharmaco­logical, immunological or metabolic means, in or on the human body, but which may be assisted in its intended function by such means._
+* _SaMD 可以在通用（非医疗目的）计算平台上运行。[3]_
 
-**_Note:_**_Products which may be considered to be medical devices in some jurisdictions but not in others include:_
+* _“不作为”意味着不属于硬件医疗器械以实现其预期医疗目的的软件。_
 
-  * _disinfection substances,_
-  * _aids for persons with disabilities,_
-  * _devices incorporating animal and/or human tissues,_
-  * _devices for in vitro fertilization or assisted reproduction technologies._
+* _如果软件的预期用途是驱动硬件医疗器械，则不符合 SaMD 的定义。_
 
-### In Vitro Diagnostic (IVD) Medical Device
+* _SaMD 可以与其他产品（包括医疗器械）一起使用（例如，作为模块）。_
 
- _‘In Vitro Diagnostic (IVD)_**__**_medical device’ means a medical device, whether used alone or in combination, intended by the manufacturer for the in-vitro examination of specimens derived from the human body solely or principally to provide information for diagnostic, monitoring or compatibility purposes._
+* _SaMD 可以与硬件医疗器械和其他 SaMD 软件以及通用软件进行接口。_
 
-**_Note 1:_**_IVD medical devices include reagents, calibrators, control materials, specimen receptacles, software, and related instruments or apparatus or other articles and are used, for example, for the following test purposes: diagnosis, aid to diagnosis, screening, monitoring, predisposition, prognosis, prediction, determination of physiological status._
+* _符合上述定义的移动应用程序被认为是 SaMD。_
 
-**_Note2:_**_In some jurisdictions, certain IVD medical devices may be covered by other regulations._
+## 预期用途 / 预期目的
 
-### Additional considerations for SaMD 
+对于 SaMD 的预期用途，请参考 GHTF/SG1/N70:2011 “医疗器械的标签和使用说明”中的定义：
 
-_SaMD may also:_
+_术语“预期用途 / 预期目的”是指制造商就产品、工艺或服务的使用，在规格、说明和制造商提供的信息中体现的客观意图。_
 
-  * _Provide means and suggestions for mitigation of a disease._
-  * _Provide information for determining compatibility, detecting, diagnosing, monitoring or treating physiological conditions, states of health, illnesses or congenital deformities._
-  * _Aid to diagnosis, screening, monitoring, determination of predisposition; prognosis, prediction, determination of physiological status._
+## 医疗目的
 
-## SaMD Changes
+以下两个术语，根据 GHTF/SG1/N71:2012 “定义‘医疗器械’和‘体外诊断（IVD）医疗器械’” (_以下为斜体）定义，用于标识 SaMD 的医疗目的：
 
- _SaMD changes refer to any modifications made throughout the lifecycle of the SaMD including the maintenance phase._
+### 医疗器械
 
-_Software maintenance[4] can include adaptive (e.g. keeps pace with the changing environment), perfective (e.g. recoding to improve software performance), corrective (e.g., corrects discovered problems), or preventive (e.g., corrects latent faults in the software product before they become operational faults)._**__**
+_“医疗器械”是指制造商旨在单独或组合使用，用于人类，以实现以下特定医疗目的的任何仪器、装置、工具、机器、设备、植入物、体外使用的试剂、软件、材料或其他类似或相关物品：_
 
-_Examples of SaMD changes include, but are not limited to, defect fixes; aesthetic, performance or usability enhancements; and security patches._
+* _诊断、预防、监测、治疗或缓解疾病；_
 
-# SaMD Background and Aspects Influencing Patient Safety 
+* _诊断、监测、治疗、缓解或补偿损伤；_
 
-There are many aspects in an ever-increasing complex clinical use environment that can raise or lower the potential to create hazardous situations to patients. Some examples of these aspects include:
+* _对解剖结构或生理过程进行检查、替代、修改或支持；_
 
-  * The type of disease or condition 
-  * Fragility of the patient with respect to the disease or condition
-  * Progression of the disease or the stage of the disease/condition
-  * Usability of the application
-  * Designed towards a specific user type
-  * Level of dependence or reliance by the user upon the output information
-  * Ability of the user to detect an erroneous output information
-  * Transparency of the inputs, outputs and methods to the user
-  * Level of clinical evidence available and the confidence on the evidence
-  * The type of output information and the level of influence on the clinical intervention
-  * Complexity of the clinical model used to derive the output information
-  * Known specificity of the output information
-  * Maturity of clinical basis of the software and confidence in the output
-  * Benefit of the output information vs. baseline 
-  * Technological characteristics of the platform the software are intended to operate on
-  * Method of distribution of the software 
+* _维持生命；_
 
-Although many of these aspects may affect the importance of the output information from SaMD, only some of these aspects can be identified by the intended use of SaMD. Generally these aspects can be grouped into the following two major factors that provide adequate description of the intended use of SaMD:
+* _控制生育；_
 
-  1. Significance of the information provided by the SaMD to the healthcare decision, and 
-  2. State of the healthcare situation or condition. 
+* _消毒医疗器械；_
 
-When these factors are included in the manufacturer’s description of intended use, they can be used to categorize SaMD. 
+* _通过体外检查样本（来自人体）来提供信息；_
 
-Section 6.0 provides a structured approach for a SaMD definition statement to describe the intended use. Section 7.0 provides a method for categorizing SaMD based on the major factors identified in the definition statement.
+_并且不通过药理、免疫或代谢方式在人体内或上实现其主要预期作用，但可能通过这些方式辅助其预期功能。_
 
-Other aspects that are not included in the two major factors (e.g., transparency of the inputs used, technological characteristics used by particular SaMD, etc.), although still important, do not influence the determination of the category of SaMD. These other aspects influence the identification of considerations that are unique to a specific approach/method used by the manufacturer of a particular category of SaMD. For example, the type of a platform, that is constantly changing, used in the implementation of SaMD may create considerations that are unique to that implementation. These considerations can also vary by the capabilities of the manufacturer or by the process rigor used to implement the SaMD. Appropriate considerations of these aspects by the manufacturers, users and other stakeholders can significantly minimize patient safety risks. 
+**_注意：_**_在某些司法管辖区可能被认为是医疗器械，但在其他司法管辖区则不被认为是医疗器械的产品包括：_
 
-Section 8.0 provides general considerations and section 9.0 provides specific considerations that when taken into account can promote safety in the creation, implementation and use of SaMD.
+* _消毒剂；_
 
-# Factors Important for SaMD Characterization
+* _辅助残疾人士使用的设备；_
 
-## Significance of information provided by SaMD to healthcare decision
+* _包含动物和/或人体组织（或其成分）的设备；_
 
-The intended use of the information provided by SaMD in clinical management has different significance on the action taken by the user. 
+* _用于体外生殖或辅助生殖技术的产品。_
 
-### To treat or to diagnose 
+### 体外诊断（IVD）医疗器械
 
-Treating and diagnosing infers that the information provided by the SaMD will be used to take an immediate or near term action:
+_“体外诊断（IVD）医疗器械”是指，无论单独使用还是与其他器械组合使用，制造商为用于对人体来源的样本进行体外检查，仅供或主要供用于提供诊断、监测或兼容性信息的医疗器械。_
 
-  * To treat/prevent or mitigate by connecting to other medical devices, medicinal products, general purpose actuators or other means of providing therapy to a human body 
-  * To diagnose/screen/detect a disease or condition (i.e., using sensors, data, or other information from other hardware or software devices, pertaining to a disease or condition).
+**_附注 1:_**_IVD 医疗器械包括试剂、校准剂、控制材料、样本容器、软件以及相关仪器或设备或其他物品，并用于以下测试目的：诊断、辅助诊断、筛查、监测、预后、预测、确定生理状态。_
 
-### To drive clinical management 
+**_附注 2:_**_在某些司法管辖区，某些 IVD 医疗器械可能受到其他法规的管辖。_
 
-Driving clinical management infers that the information provided by the SaMD will be used to aid in treatment, aid in diagnoses, to triage or identify early signs of a disease or condition will be used to guide next diagnostics or next treatment interventions:
+### SaMD 的额外考虑
 
-  * To aid in treatment by providing enhanced support to safe and effective use of medicinal products or a medical device.
-  * To aid in diagnosis by analyzing relevant information to help predict risk of a disease or condition or as an aid to making a definitive diagnosis.
-  * To triage or identify early signs of a disease or conditions.
+_SaMD 也可能：_
 
-### To Inform clinical management 
+* _提供减轻疾病的手段和建议。_
 
-Informing clinical management infers that the information provided by the SaMD will not trigger an immediate or near term action:
+* _提供用于确定兼容性、检测、诊断、监测或治疗生理状态、健康状况、疾病或先天缺陷的信息。_
 
-  * To inform of options for treating, diagnosing, preventing, or mitigating a disease or condition.
-  * To provide clinical information by aggregating relevant information (e.g., disease, condition, drugs, medical devices, population, etc.)
+* _辅助诊断、筛查、监测、确定易感性；预后、预测、确定生理状态。_
 
-## Healthcare Situation or Condition
+## SaMD 的变更
 
-### Critical situation or condition
+_SaMD 的变更是指在 SaMD 的整个生命周期中进行的任何修改，包括维护阶段。_
 
-Situations or conditions where accurate and/or timely diagnosis or treatment action is vital to avoid death, long-term disability or other serious deterioration of health of an individual patient or to mitigating impact to public health. SaMD is considered to be used in a critical situation or condition where:
+_软件维护[4]可能包括适应性（例如，跟上环境的变化）、完善性（例如，重编码以提高软件性能）、纠正性（例如，纠正已发现的问题）或预防性（例如，在软件产品出现故障之前，纠正潜在故障）。_
 
-  * The type of disease or condition is:
-    * Life-threatening state of health, including incurable states, 
-    * Requires major therapeutic interventions, 
-    * Sometimes time critical, depending on the progression of the disease or condition that could affect the user’s ability to reflect on the output information. 
-  * Intended target population is fragile with respect to the disease or condition (e.g., pediatrics, high risk population, etc.) 
-  * Intended for specialized trained users.
+_SaMD 变更的例子包括但不限于：缺陷修复；美观、性能或可用性增强；以及安全补丁。_
 
-### Serious situation or condition
+# SaMD 的背景和影响患者安全的方面
 
-Situations or conditions where accurate diagnosis or treatment is of vital importance to avoid unnecessary interventions (e.g., biopsy) or timely interventions are important to mitigate long term irreversible consequences on an individual patient’s health condition or public health. SaMD is considered to be used in a serious situation or condition when:
+在日益复杂的临床使用环境中，存在许多方面，这些方面可能提高或降低对患者造成危险的可能性。这些方面的例子包括：
 
-  * The type of disease or condition is:
-    * Moderate in progression, often curable, 
-    * Does not require major therapeutic interventions, 
-    * Intervention is normally not expected to be time critical in order to avoid death, long-term disability or other serious deterioration of health, whereby providing the user an ability to detect erroneous recommendations. 
-  * Intended target population is NOT fragile with respect to the disease or condition. 
-  * Intended for either specialized trained users or lay users. 
+* 疾病或状况的类型
 
-Note: SaMD intended to be used by lay users in a "serious situation or condition" as described here, without the support from specialized professionals, should be considered as SaMD used in a "critical situation or condition".
+* 患者对疾病或状况的脆弱性
 
-### Non-Serious situation or condition
+* 疾病或状况的进展或阶段
 
-Situations or conditions where an accurate diagnosis and treatment is important but not critical for interventions to mitigate long term irreversible consequences on an individual patient's health condition or public health. SaMD is considered to be used in a non-serious situation or condition when:
+* 应用的可用性
 
-  * The type of disease or condition is:
-    * Slow with predictable progression of disease state (may include minor chronic illnesses or states), 
-    * May not be curable; can be managed effectively, 
-    * Requires only minor therapeutic interventions, and 
-    * Interventions are normally noninvasive in nature, providing the user the ability to detect erroneous recommendations. 
-  * Intended target population is individuals who may not always be patients. 
-  * Intended for use by either specialized trained users or lay users. 
+* 针对特定用户类型
 
-# SaMD Definition Statement 
+* 用户对输出信息的依赖程度
 
-The intended use of SaMD is normally reflected in various sources such as the manufacturer’s specifications, instructions, and other information provided by the manufacturer. 
+* 用户检测错误输出信息的能力
 
-The purpose of the SaMD definition statement and the components identified below are to provide an organized factual framework. Statement “A” and “B” are to help the SaMD developer determine the SaMD category in the categorizing framework, while statement “C” is to help the manufacturer manage changes to SaMD that may result in change of the category and to address considerations specific to SaMD. 
+* 输入、输出和方法的透明度
 
-The SaMD definition statement should include a clear and strong statement about intended use, including the following:
+* 可用的临床证据水平以及对证据的信心
 
-  1. The “**significance of the information provided by the SaMD to the healthcare decision** ” which identifies the intended medical purpose of the SaMD. The statement should explain how the SaMD meets one or more of the purposes described in the definition of a medical device[5], e.g. supplying information for diagnosis, prevention, monitoring, treatment etc.**This statement should be structured in the following terms as defined in section 5.1.**
-     * Treat or diagnose 
-     * Drive clinical management 
-     * Inform clinical management 
-  2. The “**state of the healthcare situation or condition** ” that the SaMD is intended for. **This statement should be structured in the following terms as defined in section 5.2.**
-     * Critical situation or condition
-     * Serious situation or condition
-     * Non-serious situation or condition
-  3. **Description of the SaMD’s core functionality**[6] which identifies the critical features/functions of the SaMD that are essential to the intended significance of the information provided by the SaMD to the healthcare decision in the intended healthcare situation or condition. This description should include only the critical features. (See applicability of this in section 8.0, 9.0).
+* 输出信息的类型以及对临床干预的影响程度
 
-# SaMD Categorization 
+* 用于获取输出信息的临床模型的复杂性
 
-This section provides an approach to categorize SaMD based on the factors identified in the SaMD definition statement. 
+* 输出信息的已知特异性
 
-## Categorization Principles
+* 软件的临床基础成熟度和对输出的信心
 
-The following are necessary principles important in the categorization approach of SaMD.
+* 输出信息与基线的益处
 
-  * The categorization relies on an accurate and complete SaMD definition statement.
-  * The determination of the categories is the combination of the significance of the information provided by the SaMD to the healthcare decision and the healthcare situation or condition.
-  * The four categories (I, II, III, IV) are based on the levels of impact on the patient or public health where accurate information provided by the SaMD to treat or diagnose, drive or inform clinical management is vital to avoid death, long-term disability or other serious deterioration of health, mitigating public health.
-  * The categories are in relative significance to each other. Category IV has the highest level of impact, Category I the lowest.
-  * When a manufacturer's SaMD definition statement states that the SaMD can be used across multiple healthcare situations or conditions it is categorized at the highest category according to the information included in the SaMD definition statement.
-  * When a manufacturer makes changes to SaMD[7], during the lifecycle that results in the change of the definition statement, the categorization of SaMD should be reevaluated appropriately. The SaMD is categorized according to the information included in the changed (new) SaMD definition statement. 
-  * SaMD will have its own category according to its SaMD definition statement even when a SaMD is interfaced with other SaMD, other hardware medical devices, or used as a module in a larger system. 
+* 软件旨在运行的平台的技术特征
 
-## SaMD Categories
+* 软件的分布方法
 
-State of Healthcare situation or condition| Significance of information provided by SaMD to healthcare decision  
----|---  
-Treat or diagnose| Drive clinical management| Inform clinical management  
-Critical| IV| III| II  
-Serious| III| II| I  
-Non-serious| II| I| I  
+虽然这些方面中的许多都可能影响 SaMD 的输出信息的意义，但只有一些方面可以通过 SaMD 的预期用途来识别。通常，这些方面可以分为以下两个主要因素，这些因素可以提供 SaMD 的预期用途的充分描述：
 
-## Criteria for Determining SaMD Category
+1. SaMD 提供的信息对医疗决策的重要性，以及
 
-**Criteria for Category IV –**
+2. 医疗状况或情况的状态。
 
-  1. SaMD that provides information to treat or diagnose a disease or conditions in a critical situation or condition is a Category IV and is considered to be of very high impact.
+当这些因素包含在制造商的预期用途描述中时，可以用于对 SaMD 进行分类。
 
-**Criteria for Category III –**
+第 6.0 节提供了一种结构化的方法，用于描述 SaMD 的预期用途。第 7.0 节提供了一种基于定义声明中识别的主要因素对 SaMD 进行分类的方法。
 
-  1. SaMD that provides information to treat or diagnose a disease or conditions in a serious situation or condition is a Category III and is considered to be of high impact.
-  2. SaMD that provides information to drive clinical management of a disease or conditions in a critical situation or condition is a Category III and is considered to be of high impact.
+其他未包含在两大因素（例如，所使用的输入透明度、特定SaMD所使用的技术特征等）方面，尽管仍然重要，但不会影响SaMD的分类。这些其他方面会影响制造商特定类别SaMD所采用的特定方法/途径中，需要考虑的因素的识别。例如，SaMD的实施中使用的，并且不断变化的平台，可能会产生与该实施相关的独特考虑因素。这些考虑因素也可能因制造商的能力或所采用的SaMD实施的严格程度而异。制造商、用户和其他利益相关者对这些方面的适当考虑，可以显著降低患者安全风险。
 
-**Criteria for Category II –**
+第8.0节提供一般考虑，第9.0节提供具体考虑，当这些考虑因素被纳入考量时，可以促进SaMD的创建、实施和使用中的安全。
 
-  1. SaMD that provides information to treat or diagnose a disease or conditions in a non-serious situation or condition is a Category II and is considered to be of medium impact.
-  2. SaMD that provides information to drive clinical management of a disease or conditions in a serious situation or condition is a Category II and is considered to be of medium impact.
-  3. SaMD that provides information to inform clinical management for a disease or conditions in a critical situation or condition is a Category II and is considered to be of medium impact.
+# 用于SaMD特征化的重要因素
 
-**Criteria for Category I –**
+## SaMD提供的信息对医疗决策的影响
 
-  1. SaMD that provides information to drive clinical management of a disease or conditions in a non-serious situation or condition is a Category I and is considered to be of low impact.
-  2. SaMD that provides information to inform clinical management for a disease or conditions in a serious situation or condition is a Category I and is considered to be of low impact.
-  3. SaMD that provides information to inform clinical management for a disease or conditions in a non-serious situation or condition is a Category I and is considered to be of low impact.
+SaMD提供的信息的预期用途，对用户采取的行动具有不同的意义。
 
-##  Examples of SaMD:
+### 用于治疗或诊断
 
-The examples below are intended to help illustrate the application of the framework and resulting categories. 
+“治疗”和“诊断”意味着SaMD提供的信息将被用于采取即时或短期行动：
 
-**Category IV:**
+* 通过连接其他医疗设备、药品、通用执行器或其他手段，为人体提供治疗，从而治疗/预防或减轻症状。
 
-  * SaMD that performs diagnostic image analysis for making treatment decisions in patients with acute stroke, i.e., where fast and accurate differentiation between ischemic and hemorrhagic stroke is crucial to choose early initialization of brain-saving intravenous thrombolytic therapy or interventional revascularization. 
+* 诊断/筛查/检测疾病或状况（即，使用传感器、数据或其他来自其他硬件或软件设备的信息，这些信息与疾病或状况相关）。
 
-_This example uses criteria IV.i from Section 7.3 in that the information provided by the above SaMD is used to treat a fragile patient in a critical condition that is life threatening, may require major therapeutic intervention, and is time sensitive._
+### 辅助临床管理
 
-  * SaMD that calculates the fractal dimension of a lesion and surrounding skin and builds a structural map that reveals the different growth patterns to provide diagnosis or identify if the lesion is malignant or benign.****
+“辅助临床管理”意味着，SaMD提供的信息将被用于辅助治疗、辅助诊断、用于对疾病或状况进行分诊或识别早期迹象，从而指导后续的诊断或治疗干预：
 
-_This example uses criteria IV.i from Section 7.3 in that the information provided by the above SaMD is used to diagnose a disease that may be life threatening, may require major therapeutic intervention, and may be time sensitive._
+* 通过提供增强的辅助，以确保和有效使用药品或医疗设备。
 
-  * SaMD that performs analysis of cerebrospinal fluid spectroscopy data to diagnose tuberculosis meningitis or viral meningitis in children.
+* 通过分析相关信息，以帮助预测疾病或状况的风险，或作为明确诊断的辅助。
 
-_This example uses criteria IV.i from Section 7.3 in that the information provided by the above SaMD is used to diagnose a disease in a fragile population with possible broader public health impact that may be life threatening, may require major therapeutic intervention, and may be time sensitive._
+* 用于对疾病或状况进行分诊或识别早期迹象。
 
-  * SaMD that combines data from immunoassays to screen for mutable pathogens/pandemic outbreak that can be highly communicable through direct contact or other means.
+### 告知临床管理
 
-_This example uses criteria IV.i from Section 7.3 in that the information provided by the above SaMD is used to screen for a disease or condition with public health impact that may be life threatening, may require therapeutic intervention and may be time critical._
+“告知临床管理”意味着，SaMD提供的信息不会立即或在短期内触发行动：
 
-**Category III:**
+* 提供关于治疗、诊断、预防或减轻疾病或状况的选项。
 
-  * SaMD that uses the microphone of a smart device to detect interrupted breathing during sleep and sounds a tone to rouse the sleeper.
+* 通过汇总相关信息（例如，疾病、状况、药物、医疗设备、人群等）提供临床信息。
 
-_This example uses criteria III.i from Section 7.3 in that the information provided by the above SaMD is used to treat a condition where intervention is normally not expected to be time critical in order to avoid death, long term disability or other serious deterioration of health._
+## 医疗状况或状况
 
-  * SaMD that is intended to provide sound therapy to treat, mitigate or reduce effects of tinnitus for which minor therapeutic intervention is useful.
+### 紧急状况或状况
 
-_This example uses criteria III.i from Section 7.3 in that the information provided by the above SaMD is used to treat a condition that may be moderate in progression, may not require therapeutic intervention and whose treatment is normally not expected to be time critical._
+情况或条件，其中准确的诊断或及时的治疗行动对于避免个体患者死亡、长期残疾或其他严重的健康恶化，或减轻对公共健康的负面影响至关重要。当 SaMD 被用于以下情况或条件下时，它被认为是处于关键状态：
 
-  * SaMD that is intended as a radiation treatment planning system as an aid in treatment by using information from a patient and provides specific parameters that are tailored for a particular tumor and patient for treatment using a radiation medical device.
+* 疾病或状况的类型为：
 
-_This example uses criteria III.ii from Section 7.3 in that the information provided by the above SaMD is used as an aid in treatment by providing enhanced support to the safe and effective use of a medical device to a patient in a critical condition that may be life threatening and requires major therapeutic intervention._
+* 威胁生命的状态，包括无法治愈的状态，
 
-  * SaMD that uses data from individuals for predicting risk score in high-risk population for developing preventive intervention strategies for colorectal cancer. 
+* 需要进行重大治疗干预，
 
-_This example uses criteria III.ii from Section 7.3 in that the information provided by the above SaMD is used to detect early signs of a disease to treat a condition that may be life-threatening disease impacting high-risk populations, may require therapeutic intervention and may be time critical._
+* 有时具有时间性，这取决于疾病或状况的进展，从而可能影响用户对输出信息的判断。
 
-  * SaMD that is used to provide information by taking pictures, monitoring the growth or other data to supplement other information that a healthcare provider uses to diagnose if a skin lesion is malignant or benign.
+* 目标人群在疾病或状况方面较为脆弱（例如，儿科、高危人群等）。
 
-_This example uses criteria III.ii from Section 7.3 in that the information provided by the above SaMD is used as an aid to diagnosing a condition that may be life-threatening, may require therapeutic intervention and may be time critical by aggregating relevant information to detect early signs of a disease._
+* 旨在用于经过专业培训的用户。
 
-**Category II:**
+### 严重情况或状况
 
-  * SaMD that analyzes heart rate data intended for a clinician as an aid in diagnosis of arrhythmia.
+情况或条件，其中准确的诊断或治疗对于避免不必要的干预（例如，活检）或及时的干预对于减轻个体患者的健康状况或公共健康方面可能产生的长期不可逆转后果至关重要。当 SaMD 被用于以下情况或条件下时，它被认为是处于严重状态：
 
-_This example uses criteria from II.ii Section 7.3 in that the information provided by the above SaMD is used to aid in the diagnosis of a disease of a condition that may be moderate in progression, may not require therapeutic intervention and whose treatment is normally not expected to be time critical._
+* 疾病或状况的类型为：
 
-  * SaMD that interpolates data to provide 3D reconstruction of a patient’s computer tomography scan image, to aid in the placement of catheters by visualization of the interior of the bronchial tree; in lung tissue; and placement of markers into soft lung tissue to guide radiosurgery and thoracic surgery.
+* 进展中，通常可以治愈，
 
-_This example uses criteria II.ii from Section 7.3 in that the information provided by the above SaMD is used to aid in the next treatment intervention of a patient where the intervention is not normally expected to be time critical in order to avoid death, long-term disability, or other serious deterioration of health._
+* 不需要进行重大治疗干预，
 
-  * SaMD that uses data from individuals for predicting risk score for developing stroke or heart disease for creating prevention or interventional strategies. 
+* 通常不要求在避免死亡、长期残疾或其他严重的健康恶化的情况下进行时间敏感的干预，从而使用户能够检测到错误的建议。
 
-_This example uses criteria II.iii from Section 7.3 in that the information provided by the above SaMD is used to detect early signs of a disease to treat a condition that is not normally expected to be time critical in order to avoid death, long-term disability, or other serious deterioration of health._
+* 目标人群在疾病或状况方面不属于脆弱人群。
 
-  * SaMD that integrates and analyzes multiple tests utilizing standardized rules to provide recommendations for diagnosis in certain clinical indications, e.g., kidney function, cardiac risk, iron and anemia assessment. 
+* 旨在用于经过专业培训的用户或非专业用户。
 
-_This example uses criteria II.ii from Section 7.3 in that the information provided by the above SaMD is used to detect early signs of a disease to treat a condition that is not normally expected to be time critical in order to avoid death, long-term disability, or other serious deterioration of health._
+注意：如果SaMD旨在由非专业人士在“严重情况或状态”下（如本文所述）使用，而无需专业人员的支持，则应被视为在“危急情况或状态”下使用。
 
-_Note: This example includes both serious and potentially non-serious conditions but per the categorization principle in Section 7.1 when a manufacturer’s SaMD definition statement states that the SaMD can be used across multiple healthcare situations or condition it will be categorized at the highest category according to the SaMD definition statement._
+### 非危急情况或状态
 
-  * SaMD that helps diabetic patients by calculating bolus insulin dose based on carbohydrate intake, pre-meal blood glucose, and anticipated physical activity reported to adjust carbohydrate ratio and basal insulin. 
+指在准确诊断和治疗很重要，但并非对个体患者或公共健康长期不可逆影响的干预措施至关重要的情况或状态。当SaMD被认为是用于非危急情况或状态时，应满足以下条件：
 
-_This example uses criteria II.ii from Section 7.3 in that the information provided by the above SaMD is used to aid in treatment of a condition not normally expected to be time critical in order to avoid death, long-term disability, or other serious deterioration of health._
+* 疾病或状况的类型为：
 
-**Category I:**
+* 疾病状态进展缓慢且可预测（可能包括轻微的慢性疾病或状态），
 
-  * SaMD that sends ECG rate, walking speed, heart rate, elapsed distance, and location for an exercise-based cardiac rehabilitation patient to a server for monitoring by a qualified professional.
+* 可能无法治愈；可以有效管理，
 
-_This example uses criteria I.ii from Section 7.3 in that the information provided by the above SaMD is an aggregation of data to provide clinical information that will not trigger an immediate or near term action for the treatment of a patient condition that is not normally expected to be time critical in order to avoid death, long-term disability, or other serious deterioration of health._
+* 仅需要轻微的治疗干预，并且
 
-  * SaMD that collects data from peak-flow meter and symptom diaries to provide information to anticipate an occurrence of an asthma episode**.**
+* 干预通常是非侵入性的，从而使用户能够检测到错误的建议。
 
-_This example uses criteria I.ii from Section 7.3 in that the information provided by the above SaMD is an aggregation of data to provide best option to mitigate a condition that is not normally expected to be time critical in order to avoid death, long-term disability, or other serious deterioration of health._
+* 目标人群是那些可能并非总是患者的个体。
 
-  * SaMD that analyzes images, movement of the eye or other information to guide next diagnostic action of astigmatism. 
+* 适用于专业培训过的用户或非专业人士使用。
 
-_This example uses criteria I.i from Section 7.3 in that the information provided by the above SaMD is an aggregation of data to provide clinical information that will not trigger an immediate or near term action for the treatment of a patient condition that even if not curable can be managed effectively and whose interventions are normally noninvasive in nature._
+# SaMD 定义声明
 
-  * SaMD that uses data from individuals for predicting risk score (functionality) in healthy populations for developing the risk (medical purpose) of migraine (non-serious condition.
+SaMD的预期用途通常体现在制造商的规格、说明和其他制造商提供的其他信息中。
 
-_This example uses criteria I.i from Section 7.3 in that the the information provided by the above SaMD is an aggregation of data to provide clinical information that will not trigger an immediate or near term action for the treatment of a patient condition that even if not curable can be managed effectively and whose interventions are normally noninvasive in nature._
+SaMD定义声明及其以下组件的目的是提供一个有组织的、基于事实的框架。 “A”和“B”声明旨在帮助SaMD开发者在分类框架中确定SaMD的类别，而“C”声明旨在帮助制造商管理SaMD的变化，这些变化可能导致类别发生变化，并解决与SaMD相关的具体问题。
 
-  * SaMD that collects output from a ventilator about a patient's carbon dioxide level and transmits the information to a central patient data repository for further consideration.
+SaMD 的定义声明应包含明确且有力的关于预期用途的陈述，包括以下内容：
 
-_This example uses criteria I.ii from Section 7.3 in that the the information provided by the above SaMD is an aggregation of data to provide clinical information that will not trigger an immediate or near term action for the treatment of a patient condition that is not normally expected to be time critical in order to avoid death, long-term disability, or other serious deterioration of health._
+1. “**SaMD 提供的信息对医疗决策的意义**”，明确 SaMD 的预期医疗用途。该陈述应解释 SaMD 如何满足定义中的一个或多个医疗器械的目的[5]，例如，提供用于诊断、预防、监测、治疗等信息。该陈述应按照第 5.1 节中定义的以下格式进行：
 
-  * SaMD that stores historical blood pressure information for a health care provider's later review.
+* 治疗或诊断
 
-_This example uses criteria I.ii from Section 7.3 in that the information provided by the above SaMD is an aggregation of data to provide clinical information that will not trigger an immediate or near term action for the treatment of a patient condition that is not normally expected to be time critical in order to avoid death, long-term disability, or other serious deterioration of health._
+* 驱动临床管理
 
-  * SaMD intended for image analysis of body fluid preparations or digital slides to perform cell counts and morphology reviews.
+* 告知临床管理
 
-_This example uses criteria I.ii from Section 7.3 in that the information provided by the above SaMD is an aggregation of data to provide clinical information that will not trigger an immediate or near term action for the treatment of a patient condition that is not normally expected to be time critical in order to avoid death, long-term disability, or other serious deterioration of health._
+2. “**SaMD 旨在解决的医疗状况或情况**”。**该陈述应按照第 5.2 节中定义的以下格式进行：**
 
-  * SaMD intended for use by elderly patients with multiple chronic conditions that receives data from wearable health sensors, transmits data to the monitoring server, and identifies higher-level information such as tachycardia and signs of respiratory infections based on established medical knowledge and communicates this information to caregivers.
+* 紧急情况或状况
 
-_This example uses criteria I.ii from Section 7.3 in that the information provided by the above SaMD is an aggregation of data to provide clinical information that will not trigger an immediate or near term action for the treatment of a patient condition that is not normally expected to be time critical in order to avoid death, long-term disability, or other serious deterioration of health._
+* 严重情况或状况
 
-  * SaMD that uses hearing sensitivity, speech in noise, and answers to a questionnaire about common listening situations to self-assess for hearing loss.
+* 非紧急情况或状况
 
-_This example uses criteria from I.ii Section 7.3 in that the information provided by the above SaMD is an aggregation of data to provide clinical information that will not trigger an immediate or near term action for the treatment of a patient condition that is not normally expected to be time critical in order to avoid death, long-term disability, or other serious deterioration of health._
+3. **SaMD 的核心功能描述**[6]，识别 SaMD 的关键功能/函数，这些功能/函数对于 SaMD 提供的信息在特定医疗情境或条件下对医疗决策的重要性至关重要。 这种描述应仅包含关键功能。 (请参见本节 8.0、9.0 的适用性)。
 
-# General Considerations for SaMD
+# SaMD 分类
 
-SaMD often forms part of a clinical workflow sequence in order to improve diagnosis, treatment and patient management. However, issues with the design and/or implementation of SaMD into a workflow can lead to users making incorrect choices / decisions and can cause delays in decisions being made - this may lead to adverse consequences for patients. 
+本节提供了一种基于 SaMD 定义声明中识别的因素对 SaMD 进行分类的方法。
 
-Developing SaMD that are safe entails identifying risks and establishing measures that give confidence that the risks are acceptable. It is generally accepted that testing of software is not sufficient to determine that it is safe in operation. As a consequence, it is recognized that confidence should be built into software in order to assure its safety.
+## 分类原则
 
-IEC 62304 is a standard for life-cycle development of medical device software. The standard specifies a risk-based decision model, defines some testing requirements, and highlights three major principles that promote safety relevant to SaMD: 
+以下是 SaMD 分类方法中重要的必要原则。
 
-  * Risk management;
-  * Quality management; and
-  * Methodical and systematic systems engineering according to best industry practices.
+* 分类依赖于准确且完整的 SaMD 定义声明。
 
-The combination of these concepts allows SaMD manufacturers to follow a clearly structured and consistently repeatable decision-making process to promote safety for SaMD.
+* 确定类别是基于 SaMD 提供的信息对医疗决策以及医疗情境或条件的重要性。
 
-Further information on these major principles is provided below followed by discussion on some specific considerations in the areas of:
+* 四个类别（I、II、III、IV）基于 SaMD 提供准确的信息，以治疗或诊断、指导或告知临床管理，从而对患者或公共健康产生影响的程度，这些信息对于避免死亡、长期残疾或其他严重的健康恶化、减轻公共卫生风险至关重要。
 
-  * Socio-technical environment
-  * Technology and system environments
-  * Information security with respect to safety
+* 这些类别在重要性上是相对的。 第 IV 类别具有最高的影响级别，第 I 类别具有最低级别。
 
-## Design and development
+* 当制造商的 SaMD 定义声明指出 SaMD 可用于多个医疗情境或条件下时，则根据 SaMD 定义声明中包含的信息，将其归类为最高级别。
 
-Manufacturers should select and implement an adequate process for the planning, design, development, deployment, and documenting of robust and dependable software commensurate with risk—as informed by its intended purpose, reasonable foreseeable use, and the understood and defined socio-technical environment of use.
+* 当制造商对 SaMD[7]进行变更，并在其生命周期中导致定义陈述发生变更时，应适当重新评估 SaMD 的分类。 SaMD 的分类应根据变更后的（新的）SaMD 定义陈述中的信息进行。
+
+* 即使 SaMD 与其他 SaMD、其他医疗设备或用作更大系统中的模块进行交互，SaMD 仍应根据其 SaMD 定义陈述进行分类。
+
+## SaMD 分类
+
+医疗状况或情况| SaMD 提供的信息对医疗决策的重要性
+---|---
+治疗或诊断| 驱动临床管理| 告知临床管理
+关键| IV|
+严重| III| II| I
+非严重| II| I| I
+
+## 确定 SaMD 分类标准
+
+**类别 IV 的标准**
+
+1. 提供用于治疗或诊断在关键状况或情况下疾病或状况信息的 SaMD 属于类别 IV，被认为是影响非常大的。
+
+**类别 III 的标准**
+
+1. 提供用于治疗或诊断在严重状况或情况下疾病或状况信息的 SaMD 属于类别 III，被认为是影响较大的。
+
+2. 提供用于在关键状况或情况下治疗或诊断疾病或状况的临床管理信息的 SaMD 属于类别 III，被认为是影响较大的。
+
+**类别 II 的标准**
+
+1. 提供用于在非严重状况或情况下治疗或诊断疾病或状况信息的 SaMD 属于类别 II，被认为是影响中等的。
+
+2. 提供用于指导疾病或严重状况下临床管理的 SaMD 属于类别 II，并被认为是影响中等。
+
+3. 提供用于指导疾病或严重状况下临床管理的 SaMD 属于类别 II，并被认为是影响中等。
+
+**类别 I 的标准 –**
+
+1. 提供用于指导非严重状况下疾病或状况的临床管理的 SaMD 属于类别 I，并被认为是影响低。
+
+2. 提供用于指导严重状况下疾病或状况的临床管理的 SaMD 属于类别 I，并被认为是影响低。
+
+3. 提供用于指导非严重状况下疾病或状况的临床管理的 SaMD 属于类别 I，并被认为是影响低。
+
+## SaMD 的示例：
+
+以下示例旨在帮助说明框架的应用和结果类别。
+
+**类别 IV：**
+
+* 用于对急性中风患者进行诊断图像分析，从而做出治疗决策，即在快速准确地区分缺血性中风和出血性中风以选择早期启动脑部挽救性静脉溶栓疗法或介入性再灌注治疗这一点至关重要。
+
+_此示例使用了第 7.3 节的 IV.i 标准，即上述 SaMD 提供的信息用于治疗一个处于危急状态的脆弱患者，该患者可能需要进行重大治疗干预，并且时间非常敏感。_
+
+* 能够计算病灶及其周围皮肤的分形维数，并构建结构图以揭示不同的生长模式，从而进行诊断或确定病灶是否恶性或良性。
+
+_此示例使用了第 7.3 节 IV.i 条的标准，即上述 SaMD 提供的信息用于诊断一种可能危及生命、可能需要重大治疗干预，并且可能具有时间敏感性的疾病。_
+
+* 能够分析脑脊液光谱数据，以诊断儿童的结核性脑膜炎或病毒性脑膜炎。
+
+_此示例使用了第 7.3 节 IV.i 条的标准，即上述 SaMD 提供的信息用于诊断一种对脆弱人群有潜在更广泛的公共健康影响，并且可能危及生命、可能需要重大治疗干预，并且可能具有时间敏感性的疾病。_
+
+* 能够将免疫分析的数据相结合，以筛查可传播的病原体/疫情，这些病原体/疫情可以通过直接接触或其他方式高度传播。
+
+_此示例使用了第 7.3 节 IV.i 条的标准，即上述 SaMD 提供的信息用于筛查一种对公共健康有影响的疾病或状况，并且可能危及生命、可能需要治疗干预，并且可能具有时间敏感性。_
+
+**第三类：**
+
+* 能够使用智能设备上的麦克风来检测睡眠期间的呼吸中断，并发出提示以唤醒睡眠者。
+
+_此示例使用了第 7.3 节 III.i 条的标准，即上述 SaMD 提供的信息用于治疗一种通常不应具有时间敏感性的状况，以避免死亡、长期残疾或其他严重的健康恶化。_
+
+* 旨在为治疗、减轻或降低耳鸣症状，并可进行轻微治疗干预的 SaMD。
+
+_本示例使用了第 7.3 节 III.i 条的标准，即上述 SaMD 提供的信息用于治疗可能进展中、不需要治疗干预，且通常不要求在特定时间内进行治疗的疾病。_
+
+* 旨在作为放射治疗计划系统的 SaMD，通过使用患者信息，并提供针对特定肿瘤和患者量身定制的参数，以使用放射医疗设备进行治疗。
+
+_本示例使用了第 7.3 节 III.ii 条的标准，即上述 SaMD 提供的信息用于辅助治疗，为处于危急状态、可能危及生命且需要重大治疗干预的患者，提供安全有效的医疗设备使用的支持。_
+
+* 旨在使用个人数据来预测高危人群中预防结直肠癌的风险评分的 SaMD。
+
+_本示例使用了第 7.3 节 III.ii 条的标准，即上述 SaMD 提供的信息用于检测疾病的早期迹象，以治疗可能危及生命、影响高危人群、可能需要治疗干预，且可能需要在特定时间内进行治疗的疾病。_
+
+* 旨在通过拍照、监测生长或其他数据，提供信息，以补充医疗服务提供者用于诊断皮肤病灶是否恶性的信息。
+
+_本示例使用了第 7.3 节 III.ii 条的标准，即上述 SaMD 提供的信息被用作辅助诊断一种可能危及生命、可能需要治疗干预，并且可能具有时间敏感性的疾病，通过整合相关信息来检测疾病的早期迹象。_
+
+**类别 II：**
+
+* 用于分析心率数据的 SaMD，旨在为临床医生提供辅助诊断心律失常的工具。
+
+_此示例使用了 II.ii 部分 7.3 中的标准，即上述 SaMD 提供的信息用于辅助诊断可能进展中、通常不需要治疗干预，且治疗通常不具有时间紧迫性的疾病或状况。_
+
+* 用于对数据进行插值，以提供患者计算机断层扫描图像的 3D 重建，从而辅助通过可视化支气管树、肺组织和软肺组织中的内部结构，来放置导管；以及用于引导放射手术和胸部手术的标记放置。
+
+_此示例使用了 II.ii 部分 7.3 中的标准，即上述 SaMD 提供的信息用于辅助患者的下一步治疗干预，该干预通常不具有时间紧迫性，以避免死亡、长期残疾或其他严重的健康恶化。_
+
+* 用于利用个人数据，以预测患病或心脏病的风险评分，从而创建预防或干预策略的 SaMD。
+
+_此示例使用了 II.iii 部分 7.3 中的标准，即上述 SaMD 提供的信息用于检测疾病的早期迹象，以治疗通常不具有时间紧迫性的状况，从而避免死亡、长期残疾或其他严重的健康恶化。_
+
+* 用于整合和分析多个测试，利用标准规则，以提供特定临床指征下的诊断建议，例如，肾功能、心脏风险、铁和贫血评估。
+
+_本示例使用了第 7.3 节 II.ii 条的标准，即上述 SaMD 提供的信息用于检测疾病的早期迹象，以治疗一种通常不属于时间敏感情况的疾病，从而避免死亡、长期残疾或其他严重的健康恶化。_
+
+_注意：本示例包括既有严重，也有可能不严重的疾病，但根据第 7.1 节的分类原则，如果制造商的 SaMD 定义声明指出 SaMD 可以用于多个医疗情境，则 SaMD 将根据定义声明进行分类。_
+
+* SaMD 通过根据碳水化合物摄入量、餐前血糖和预期的体力活动来计算胰岛素剂量，以调整碳水化合物比例和基础胰岛素，从而帮助糖尿病患者。
+
+_本示例使用了第 7.3 节 II.ii 条的标准，即上述 SaMD 提供的信息用于治疗一种通常不属于时间敏感情况的疾病，从而避免死亡、长期残疾或其他严重的健康恶化。_
+
+**第一类：**
+
+* SaMD 将心电图频率、行走速度、心率、已运行距离和位置发送给服务器，由合格的专业人员进行监控，用于基于运动的 cardiac rehabilitation 患者。
+
+_本示例使用了第 7.3 节 I.ii 条的标准，即上述 SaMD 提供的信息是数据的聚合，用于提供临床信息，不会立即或在短期内触发针对患者疾病的治疗，从而避免死亡、长期残疾或其他严重的健康恶化。_
+
+* 收集来自峰流仪和症状日记的数据，以提供信息，从而预测哮喘发作的发生。**
+
+_这个例子使用了第 7.3 节 I.ii 条的标准，即上述 SaMD 提供的信息是对一种通常不属于时间敏感型情况的状况，旨在避免死亡、长期残疾或其他严重健康状况，从而提供最佳的缓解方案。_
+
+* 分析图像、眼部运动或其他信息，以指导对散光诊断的下一步行动。
+
+_这个例子使用了第 7.3 节 I.i 条的标准，即上述 SaMD 提供的信息是对一种即使无法治愈，但可以通过有效管理，且其干预通常是非侵入性的患者状况，从而提供临床信息，不会立即或在短期内触发治疗行动。_
+
+* 使用个人数据来预测健康人群的功能风险评分（用于开发偏头痛的风险（非严重疾病）。
+
+_这个例子使用了第 7.3 节 I.i 条的标准，即上述 SaMD 提供的信息是对一种即使无法治愈，但可以通过有效管理，且其干预通常是非侵入性的患者状况，从而提供临床信息，不会立即或在短期内触发治疗行动。_
+
+* 收集患者呼吸机输出的关于患者二氧化碳水平的信息，并将这些信息传输到中央患者数据存储库进行进一步考虑。
+
+_这个例子使用了 7.3 节 I.ii 条的标准，即上述的 SaMD 提供的信息是对临床信息的汇总，该信息不会立即或在短期内触发针对患者状况的治疗，而该状况通常不属于需要立即处理以避免死亡、长期残疾或其他严重健康状况的情况。_
+
+* SaMD，用于存储医疗保健提供者后续审查的历史血压信息。
+
+_本示例使用了第 7.3 节 I.ii 条的标准，即上述 SaMD 提供的信息是数据的聚合，用于提供临床信息，不会立即或在短期内触发针对患者疾病的治疗，从而避免死亡、长期残疾或其他严重的健康恶化。_
+
+* SaMD，用于对体液制剂或数字显微镜图像进行分析，以进行细胞计数和形态学检查。
+
+_本示例使用了第 7.3 节 I.ii 条的标准，即上述 SaMD 提供的信息是数据的聚合，用于提供临床信息，不会立即或在短期内触发针对患者疾病的治疗，从而避免死亡、长期残疾或其他严重的健康恶化。_
+
+* SaMD，用于供患有多种慢性疾病的老年患者使用，该 SaMD 接收来自可穿戴健康传感器的数据，将数据传输到监控服务器，并根据已建立的医学知识识别诸如心律加快和呼吸道感染迹象等高级信息，并将这些信息传达给照护人员。
+
+_本示例使用了第 7.3 节 I.ii 条的标准，即上述 SaMD 提供的信息是数据的聚合，用于提供临床信息，不会立即或在短期内触发针对患者疾病的治疗，从而避免死亡、长期残疾或其他严重的健康恶化。_
+
+* SaMD，使用听觉敏感度、噪声中的语音和关于常见听力情况的问卷来自我评估听力损失。
+
+_这个例子使用了 7.3 节 I.ii 条的标准，即上述的 SaMD 提供的信息是对临床信息的汇总，该信息不会立即或在短期内触发针对患者状况的治疗，而该状况通常不属于需要立即处理以避免死亡、长期残疾或其他严重健康状况的情况。_
+
+# SaMD 的一般考虑
+
+SaMD 经常是临床工作流程的一部分，旨在改善诊断、治疗和患者管理。然而，SaMD 的设计和/或在工作流程中的实施可能导致用户做出错误的选择/决定，并可能导致决策延迟——这可能会对患者造成不良后果。
+
+开发安全的 SaMD，需要识别风险并建立措施，以确保风险可接受。通常认为，对软件的测试不足以确定其在操作中的安全性。因此，认识到必须在软件中建立信心，以确保其安全。
+
+IEC 62304 是一项用于医疗器械软件生命周期的标准。该标准指定了一个基于风险的决策模型，定义了一些测试要求，并强调了三个主要原则，这些原则与 SaMD 的安全性相关：
+
+* 风险管理；
+
+* 质量管理；以及
+
+* 按照最佳行业实践进行有条理和系统的系统工程。
+
+将这些概念结合起来，使 SaMD 制造商能够遵循一个清晰、一致且可重复的决策过程，以促进 SaMD 的安全性。
+
+有关这些主要原则的更多信息如下，随后将讨论以下几个方面：
+
+* 社会技术环境
+
+* 技术和系统环境
+
+* 与安全性相关的信息安全
+
+## 设计和开发
+
+制造商应选择并实施一个充分的过程，用于规划、设计、开发、部署和记录可靠且可信赖的软件，该软件与风险相符，并基于其预期用途、合理可预见的用途以及已理解和定义的社会技术使用环境。
 
 ![Information](data:image/jpeg;base64,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)| _Safety needs to be addressed early in the design and development process._  
----|---  
+---|---
 
-Development of software in a quality-assured manner should consider the appropriate selection and implementation of system design and development methods that: 
+以质量保证的方式开发软件应考虑适当的选择和实施系统设计和开发方法，这些方法：
 
-  * Include a methodical and systematic development process using models, methods, architecture, and design-modelling techniques appropriate for the development language(s) and the device’s intended purpose, 
-  * Cover the various software lifecycle stages through the application of software development standards, e.g., IEC 62304, and use of software engineering guidebooks, e.g., SWEBoK guide, SEBoK guide, and
-  * Systematically and methodically document the design and development process (using tools as appropriate.)
+* 包括使用适合开发语言和设备预期用途的模型、方法、架构和设计建模技术的系统性和有条理的开发过程，
 
-### Post Market Surveillance
+* 通过应用软件开发标准（例如 IEC 62304）和使用软件工程指南（例如 SWEBoK 指南、SEBoK 指南）来覆盖软件的各个生命周期阶段，
 
-Software risks can never be totally eliminated so SaMD manufacturers should continually monitor customer issues to maintain the safety level. A monitoring process should include ways to capture customer feedback, e.g., through inquiries, complaints, market studies, focus groups, servicing, etc. The inherent nature of software including SaMD allows for efficient methods to understand and capture user experiences. It is recommended that SaMD manufacturers utilize these feedback techniques to understand failure modes and perform analysis to address safety situations. It is also recommended that SaMD manufacturers extend their monitoring to automatically detect errors of the software or system, i.e., discover and recover from an error before a failure can occur.
+* 系统地和有条理地记录设计和开发过程（使用适当的工具）。
 
-General considerations associated with the monitoring of SaMD include:
+### 市场后监测
 
-  1. Due to its non-physical nature, a SaMD may be duplicated and numerous copies and widely spread, often outside the control of the manufacturer.
-  2. Often an update made available by the manufacturer is left to the user of the SaMD to install. Manufacturers should make sure that appropriate mitigations address any risks that arise from the existence of different versions of the SaMD on the market. 
-  3. Incident investigations should consider any specific case or combination of use cases that may have contributed to the failure and as appropriate manufacturers should consider accident reconstruction principles, e.g., data logging, black box recorder, etc.[8]
+由于软件风险无法完全消除，因此 SaMD 制造商应持续监测客户问题，以维持安全水平。监测过程应包括收集客户反馈的方法，例如通过询问、投诉、市场研究、焦点小组、服务等。软件的固有特性，包括 SaMD，允许高效地了解和捕捉用户体验。建议 SaMD 制造商利用这些反馈技术来了解故障模式，并进行分析以解决安全问题。此外，建议 SaMD 制造商将监测扩展到自动检测软件或系统错误，即在发生故障之前发现和纠正错误。
 
-## Changes
+与 SaMD 监测相关的一般考虑包括：
 
-Manufacturers of SaMD are expected to have an appropriate level of control to manage changes. Due to the non-physical nature of software, a software change management process needs specific considerations to achieve the intended result regarding traceability and documentation.
+1. 由于其非物理性质，SaMD 可能会被复制，并产生大量的副本，这些副本通常在制造商的控制之外。
 
-These specific considerations include:
+2. 制造商提供的更新通常由 SaMD 的用户自行安装。制造商应确保采取适当的措施来解决因市场上不同版本的 SaMD 存在而产生的任何风险。
 
-  * Socio-technical environment considerations
-  * Technology and system environment considerations
-  * Information security with respect to safety considerations
+3. 事故调查应考虑任何可能导致故障的特定情况或用例，制造商应根据需要考虑事故重建原则，例如数据记录、黑匣子记录等[8]。
+
+## 变更
+
+SaMD 的制造商应具备适当的控制水平来管理变更。由于软件的非物理性质，软件变更管理过程需要特定的考虑，以实现在可追溯性和文档方面所需的预期结果。
+
+这些具体考虑包括：
+
+* 社会技术环境考虑
+
+* 技术和系统环境考虑
+
+* 与安全相关的信息安全
 
 ![Information](data:image/jpeg;base64,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)|  _SaMD changes may have a significant unforeseeable effect on the healthcare situation or condition and socio-technical environment of use if not managed systematically, not only with respect to a design change in itself, but also to the impact of the changed software after it is installed and implemented._  
----|---  
+---|---
 
-With any product lifecycle, change is inevitable. Failures occur and may be due to errors, ambiguities, oversights or misinterpretation of the specification that the software is intended to satisfy, carelessness or incompetence in writing code, inadequate testing, incorrect or unexpected usage of the software or other unforeseen problems. An SaMD may also fail with changes to the running environment. Changes to SaMD or its operating environment can affect its safety, quality and performance.
+在任何产品生命周期中，变化都是不可避免的。 故障可能由于软件旨在满足的规范的错误、歧义、疏忽或误解、编写代码的粗心或无能、不足的测试、软件的错误或意外使用或其他不可预见的方面而发生。 SaMD 也可能因运行环境的变化而失败。 SaMD 或其运行环境的更改会影响其安全、质量和性能。
 
-SaMD changes refer to any modifications made throughout the lifecycle of the SaMD including the maintenance phase. The nature of software maintenance changes can include adaptive (e.g. keeps pace with the changing environment), perfective (e.g. recoding to improve software performance), corrective (e.g. corrects discovered problems), or preventive changes (e.g. corrects latent faults in the software product before they become operational faults). These changes should be clearly identified and defined with a method of tracing the change to the specific affected software.
+SaMD 的更改是指在 SaMD 的整个生命周期中，包括维护阶段所做的任何修改。 软件维护更改的性质可能包括适应性（例如，跟上环境的变化）、改进性（例如，重编码以提高软件性能）、纠正性（例如，纠正已发现的问题）或预防性（例如，在软件产品成为运营故障之前，纠正潜在故障）的更改。 这些更改应明确标识和定义，并使用一种方法来跟踪更改，以确定影响的特定软件。
 
-In order to effectively manage the changes and their impact, manufacturers must perform a risk assessment to determine if the change(s) affect the SaMD categorization and the core functionality of the SaMD as outlined in the definition statement.
+为了有效地管理这些更改及其影响，制造商必须进行风险评估，以确定更改是否会影响 SaMD 的分类以及 SaMD 的核心功能，如定义声明中所述。
 
-Changes should undergo appropriate verification and validation before being released by the manufacturer for use.
+在制造商发布之前，更改必须经过适当的验证和验证。
 
-Examples of software changes (some may be considered significant and others not):
+软件更改的示例（有些可能被认为是重要的，有些可能不重要）：
 
-  * Modification to an algorithm affecting the diagnosis or therapy delivered;
-  * A software change that affects the way data is read or interpreted by the user, such that the treatment or diagnosis of the patient may be altered when compared to the previous version of the software;
-  * Addition of a new feature to the software that may change the diagnosis or therapy delivered to the patient;
-  * A software change that incorporates a change to the operating system or change to the configuration on which the SaMD runs;
-  * A software change that affects clinical workflow.
+* 修改算法，从而影响诊断或治疗；
 
-# Specific Considerations for SaMD
+* 软件变更，影响用户读取或解释数据的方式，从而可能改变患者的治疗或诊断，与先前版本的软件相比；
 
-## Socio-technical environment considerations
+* 在软件中添加新功能，可能改变患者的诊断或治疗；
 
-The term socio-technical environment concerns the SaMD's setting of use - often comprising hardware, networks, software, and people. More formally, it may be characterized into spatial (e.g., location), activity (e.g., workflow), social (e.g., responsibility), technological (e.g., devices, systems, data sources, and connections), and physical (e.g., ambient conditions) components[9]. 
+* 软件变更，包括对操作系统或 SaMD 运行的配置的更改；
 
-SaMD supplies information and/or a structure for information. 
+* 软件变更，影响临床工作流程。
+
+# SaMD 方面的特定考虑
+
+## 社会技术环境考虑
+
+“社会技术环境”指的是 SaMD 的使用环境——通常包括硬件、网络、软件和人员。更正式地说，它可以被划分为空间（例如，位置）、活动（例如，工作流程）、社会（例如，责任）、技术（例如，设备、系统、数据源和连接）以及物理（例如，环境条件）等组件[9]。
+
+SaMD 提供信息和/或信息结构。
 
 ![Information](data:image/jpeg;base64,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)| _The proper and safe functioning of SaMD is highly dependent on a sufficient and common understanding of the socio-technical environment that includes the manufacturer and the user._  
----|---  
+---|---
 
-Manufacturers should be aware of the socio-technical environment where inadequate considerations could lead to incorrect, inaccurate, and/or delayed diagnoses and treatments; and/or additional cognitive workload (which may, over time, make clinicians more susceptible to making mistakes)[10]. 
+制造商应了解在不充分考虑的情况下，可能导致错误的、不准确的和/或延迟的诊断和治疗；以及/或额外的认知负荷（这可能会使临床医生在一段时间内更容易犯错误[10]）。
 
-Similarly, users should also be aware of the socio-technical environment as presumed and designed for (limitations of the SaMD’s capabilities) and by the manufacturer, as not being aware may lead to overreliance or other inaccurate use of the SaMD.
+同样，用户也应了解并意识到（SaMD 的能力限制）以及制造商预设和设计的社会技术环境，否则可能会导致过度依赖或不准确地使用 SaMD。
 
-For example:
+例如：
 
-  * If the user does not have sufficient skills and expertise for correct operation of the SaMD, possible inaccurate output data may not be questioned. The same may happen if the user becomes habituated and over-reliant on SaMD over time.
-  * The introduction of SaMD sometimes changes clinical workflows in unanticipated ways; these changes may be detrimental to patient safety. 
-  * The user may seek alternate pathways to achieve a particular functionality, otherwise called a  _workaround_. When workarounds circumvent built-in safety features of a product, patient safety may be compromised. 
+* 如果用户缺乏足够的技能和专业知识来正确使用 SaMD，可能无法质疑产生不准确的数据。同样，如果用户随着时间的推移，对 SaMD 产生依赖，也可能导致不准确的数据。
 
-Considerations for the manufacturer when identifying effects/implications and appropriate measures to safety and performance of SaMD throughout the product's design, development, and installation: 
+* SaMD 的引入有时会以意想不到的方式改变临床工作流程，这些变化可能会对患者安全造成危害。
 
-  * Transparency of information on limitations with algorithms, clinical model, quality of data used to build the models, assumptions made, etc. can help users question the validity of output of the SaMD and avoid making incorrect or poor decisions;
-  * Integrating SaMD within real-world clinical workflows (including sufficient involvement of users from all relevant disciplines) requires attention to _in situ_ use and tasks to ensure appropriate use of safety features; 
-  * SaMD (and other systems connected to the SaMD) may be configured by the user in different ways than intended or foreseen by the manufacturer; 
-  * Though not specific to SaMD, design of the user interface including: whether designs are overly complex (e.g., multiple, complicated screens), the appropriateness of designs for the target platform (e.g., smart phone screen versus desktop monitor), the dynamic nature of data (e.g., showing information at appropriate times and for an appropriate duration); 
-  * Though not specific to SaMD, identification of appropriate means to display information such that it is understood by the intended user (e.g., usability including regionalization parameters, language translation, and selection/display of units);
-  * Communicating relevant information to the user (based on the activities conducted above) for the purpose of:
-    * Enabling the user to decide whether or not the user can use the device in the organization in terms of available hardware, competence, network, required quality for data input. And, if he/she decides to do this, information necessary to do those measures in order to use it: inform users, establish different routines, obtain necessary hardware.
-    * Enabling correct installation and configuration of SaMD for appropriate integration with clinical workflows.
+* 用户可能会寻求替代途径来实现特定功能，这种途径通常被称为“规避方法”。当规避方法绕过产品的内置安全功能时，患者安全可能会受到威胁。
 
-## Technology and system environment considerations
+制造商在识别影响/含义以及采取适当措施来确保 SaMD 在产品设计、开发和安装过程中的安全和性能时应考虑的事项：
 
-Technology and system environment refers to the ecosystem where the SaMD resides, including installed systems, interconnections, and hardware platform(s). Instructions on how to verify the appropriateness of installation of and update to SaMD as well as any changes made to the system environment (e.g., hardware and software) should be provided to the user. Reliance on hardware over which the manufacturer does not have control (operating systems not designed for a medical purpose, general-purpose hardware, networks and servers, Internet, links) should be considered and addressed by the manufacturer during design and development of SaMD (for instance, by designing robust and resilient SaMD designs).
+* 算法、临床模型、用于构建模型的质量数据、所做的假设等信息的透明度，可以帮助用户质疑 SaMD 输出的有效性，并避免做出错误的或不合理的决策；
+
+* 将 SaMD 融入现实世界的临床工作流程（包括相关领域的用户的充分参与）需要关注“现场”使用和任务，以确保安全功能得到适当使用；
+
+* SaMD（以及与 SaMD 相关的其他系统）可能被用户以与制造商意图或预见的不同方式配置；
+
+* 尽管并非专门针对 SaMD，但用户界面的设计，包括：设计是否过于复杂（例如，多个、复杂的屏幕），设计是否适合目标平台（例如，智能手机屏幕与桌面显示器），数据的动态性（例如，在适当的时间和持续时间内显示信息）；
+
+* 尽管并非专门针对 SaMD，但识别适当的方式来呈现信息，以便最终用户能够理解（例如，包括可用性、区域参数、语言翻译和单位选择/显示），
+
+* 向用户传达相关信息（基于上述活动），目的是：
+
+* 使用户能够决定，在现有硬件、技能、网络和数据输入所需质量方面，用户是否可以在组织内使用该设备。如果用户决定这样做，则需要提供以下信息，以便进行这些操作以使用该设备：告知用户、建立不同的流程、获取必要的硬件。
+
+* 使 SaMD 能够正确安装和配置，以便与临床工作流程进行适当集成。
+
+## 科技和系统环境考虑
+
+科技和系统环境是指 SaMD 所在的生态系统，包括已安装的系统、互连以及硬件平台。应向用户提供有关如何验证 SaMD 的安装和更新，以及对系统环境（例如硬件和软件）所做的任何更改的说明。制造商应在 SaMD 的设计和开发过程中（例如，通过设计具有鲁棒性和弹性的 SaMD 设计）考虑和解决，并依赖制造商无法控制的硬件（例如，未为医疗目的而设计的操作系统、通用硬件、网络和服务器、互联网、链接）。
 
 ![Information](data:image/jpeg;base64,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)| _SaMDs are always dependant on a hardware platform and often a connected environment. SaMD can be affected by cross-link interconnections – both physical connections and interoperability, i.e., the seamless communication between devices, technology and people._  
----|---  
+---|---
 
-Disruption in the ecosystem (e.g., resulting from service disruptions, systems maintenance or upgrades, platform failures) can result in loss of information, delayed, corrupted, or mixed patient information, or inaccurate information which may lead to incorrect or inaccurate diagnoses and/or treatments. 
+生态系统的中断（例如，由于服务中断、系统维护或升级、平台故障等原因）可能导致信息丢失、患者信息延迟、损坏或混淆，或不准确的信息，从而可能导致错误的或不准确的诊断和/或治疗。
 
-For example: an incorrect diagnosis is made after the connection to a clinical dataset was lost because the patient diagnosis data is not available. 
+例如：由于与临床数据集的连接中断，导致患者诊断数据不可用，从而做出错误的诊断。
 
-Considerations for the manufacturer when identifying effects/implications to safety and performance of SaMD:
+制造商在识别 SaMD（软件为医疗器械）对安全和性能的影响/影响时应考虑：
 
-  * Connections to other systems (e.g., reliability of the connection, resilience, quality of service, access, security, load capacity of connections to other systems and connection methods, system integration)
-  * Presenting information to the users and system integrators about the system requirements and resultant performance of the SaMD (e.g., the effect that changes to firewall rules might have on the operation of the system)
-  * Hardware platform(s)—such as smart phones, PC, servers—(e.g., reliability, dependencies, and interconnections with others hardware and software);
-  * Operating system(s) platform—such as Windows, GNU/Linux—compatibility; and
-  * Modifications and changes to the SaMD integration (e.g., platform updates) may have effects on SaMD that the manufacturer did not anticipate/foresee. 
+* 与其他系统的连接（例如，连接的可靠性、弹性、服务质量、访问权限、安全性、与其他系统和连接方法的负载容量、系统集成）
 
-## Information security with respect to safety considerations
+* 向用户和系统集成商提供关于系统需求以及 SaMD（例如，防火墙规则更改可能对系统运行产生的影响）的性能信息。
 
- _Information security_ may be defined as the preservation of confidentiality, integrity and availability of information[11].
+* 硬件平台（例如，智能手机、PC、服务器）（例如，可靠性、依赖关系以及与其他硬件和软件的互连性）；
+
+* 操作系统平台（例如，Windows、GNU/Linux）的兼容性；
+
+* 对 SaMD 集成的修改和更改（例如，平台更新）可能会对 SaMD 产生影响，这些影响制造商没有预料到/预见到。
+
+## 鉴于安全考虑的信息安全
+
+_信息安全_ 可以定义为保护信息保密性、完整性和可用性[11]。
 
 ![Information](data:image/jpeg;base64,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)| _Incorrect management or transmission of information by an SaMD can lead to incorrect or delayed diagnosis or treatment._  
----|---  
+---|---
 
-SaMD may be affected by particular factors relating to information security that may affect the integrity, availability, or accessibility of information output from the SaMD needed for correct diagnosis or treatment:
+SaMD 可能会受到与信息安全相关的特定因素的影响，这些因素可能会影响 SaMD 输出的信息的完整性、可用性和可访问性，而这些信息对于正确的诊断或治疗是必需的：
 
-  * SaMD are typically used by a variety of users with different access needs, e.g., restricted access or varying information security requirements
-  * Platforms where a SaMD is installed typically runs many other software applications.
-  * SaMD are typically connected to the Internet, networks, databases, or servers with varying information security requirements.
+* SaMD 通常由不同用户使用，这些用户具有不同的访问需求，例如，有限的访问权限或不同的信息安全要求。
 
-Considerations for the manufacturer when identifying implications for safety and performance of SaMD:
+* 安装 SaMD 的平台通常运行许多其他软件应用程序。
 
-  * The SaMD information security and privacy control requirements may need to be balanced with the need for timely information availability.
-  * Information security requires the identification and implementation of safe (and formalized) ways to store, convert and/or transmit data. 
-  * The design should use appropriate control measures to address data integrity when common information is accessed by multiple applications and users. 
-  * Manufacturers should make it feasible for users to safely implement information security updates.
-  * The protection of sensitive information requires support for sufficient access control and appropriate restriction to system settings and assets for important data.
-  * The design should address possible adverse system interactions with the inclusion of appropriate resilience and robustness measures.
-  * Instructions for users related to information security should include how to safely:
-    * Install SaMD in appropriate operating environments (e.g., OS, integration of other software); 
-    * Manage authentication mechanisms; and
-    * Update security software/spyware, operating environments, and other systems and applications, etc.
+* SaMD 通常连接到互联网、网络、数据库或服务器，这些服务器具有不同的信息安全要求。
 
-# Appendix
+制造商在识别 SaMD 的安全和性能影响时应考虑的事项：
 
-##  Clarifying SaMD Definition
+* SaMD 的信息安全和隐私控制要求可能需要与及时获取信息的需求进行平衡。
 
-This Appendix provides a representative list of features and functionalities that either meet or don’t meet the definition of SaMD. This list is not exhaustive; it is only intended to provide clarity and assistance in identifying when a feature or functionality is considered to be SaMD.
+* 信息安全需要识别和实施安全（并进行正式化）的数据存储、转换和/或传输方式。
 
-**_Examples of software that are SaMD:_**
+* 设计应使用适当的控制措施来解决在多个应用程序和用户访问常见信息时的数据完整性问题。
 
-  * Software with a medical purpose that operates on a general purpose computing platform, i.e., a computing platform that does not have a medical purpose, is considered SaMD. For example, software that is intended for diagnosis of a condition using the tri-axial accelerometer that operates on the embedded processor on a consumer digital camera is considered a SaMD.
-  * Software that is connected to a hardware medical device but is not needed by that hardware medical device to achieve its intended medical purpose is SaMD and not an accessory to the hardware medical device. For example, software that allows a commercially available smartphone to view images for diagnostic purposes obtained from a magnetic resonance imaging (MRI) medical device is SaMD and not an accessory to MRI medical device. 
-  * The SaMD definition notes states that “SaMD is capable of running on general purpose (non-medical purpose) computing platforms.” SaMD running on these general purpose computing platform could be located in a hardware medical device, For example, software that performs image post-processing for the purpose of aiding in the detection of breast cancer (CAD - computer-aided detection software) running on a general purpose computing platform located in the image-acquisition hardware medical device is SaMD.
-  * The SaMD definition notes states that “SaMD may be interfaced with other medical devices, including hardware medical devices and other SaMD software, as well as general purpose software.” Software that provides parameters that become the input for a different hardware medical device or other SaMD is SaMD. For example, treatment planning software that supplies information used in a linear accelerator is SaMD.
+* 制造商应使用户能够安全地实施信息安全更新。
 
-**_Examples of software that are not SaMD:_**
+* 保护敏感信息需要支持足够的访问控制以及对重要数据的适当限制，包括系统设置和资产。
 
-  * The SaMD definition states “SaMD is defined as software intended to be used for one or more medical purposes that perform these purposes without being part of a hardware medical device”. Examples of software that are considered “part of” include software used to “drive or control” the motors and the pumping of medication in an infusion pump; or software used in closed loop control in an implantable pacemaker or other types of hardware medical devices. These types of software, sometimes referred to as “embedded software”, “firmware”, or “micro-code” are, not SaMD”. 
-  * Software required by a hardware medical device to perform the hardware’s medical device intended use is not SaMD even if/when sold separately from the hardware medical device. 
-  * Software that relies on data from a medical device, but does not have a medical purpose, e.g., software that encrypts data for transmission from a medical device is not SaMD. 
-  * Software that enables clinical communication and workflow including patient registration, scheduling visits, voice calling, video calling is not SaMD.
-  * Software that monitors performance or proper functioning of a device for the purpose of servicing the device, e.g., software that monitors X-Ray tube performance to anticipate the need for replacement; or software that integrates and analyzes laboratory quality control data to identify increased random errors or trends in calibration on IVDs is not SaMD. 
-  * Software that provides parameters that become the input for SaMD is not SaMD if it does not have a medical purpose. For example, a database including search and query functions by itself or when used by SaMD is not SaMD.
+* 设计应解决可能的系统交互问题，包括适当的弹性（resilience）和鲁棒性措施。
 
-## Analysis of SaMD framework with existing classifications 
+* 与信息安全相关的用户说明应包括如何安全地：
 
-This Annex is intended to clarify the following: 
+* 在适当的操作系统（例如，OS）环境中安装 SaMD；
 
-**A – Categorization of SaMD relative to medical device classification**
+* 管理身份验证机制；以及
 
-There are different classification schemes for different purposes. 
+* 更新安全软件/间谍软件、操作系统和其他系统和应用程序等。
 
-Typically classification is based on a set of parameters/questions that assigns the object of interest into groups that suit a certain purpose.
+# 附录
 
-Classifications may have the purpose to determine, for example
+##  澄清 SaMD 定义
 
-  * Appropriate levels of regulatory oversight such as requirements for
-    * Levels of third party intervention 
-    * Levels of conformity controls
-    * Levels of quality system
-  * Appropriate levels of technical measures, for example
-    * Technical protective means, e.g., for
-      * Laser protection 1,2 or 3
-      * electrical isolation, protective earth or double insulated
-      * ingress of liquids, IP XX
+本附录提供了一份具有代表性的功能和功能的清单，这些功能或功能既符合，也不符合 SaMD 的定义。 此清单并非详尽无遗，其主要目的是提供清晰度和帮助，以便识别何时将某个功能或功能视为 SaMD。
 
-Classification of medical devices is commonly focused on regulatory controls based on risk classes. 
+**_符合 SaMD 的软件示例：_**
 
-Categorization for SaMD, as in the case of laser protection, is only identifying different categories of SaMD by level of impact. Categorization in this document by itself does not imply regulatory controls needed to manage risks. It is only intended to provide guidance for appropriate considerations for SaMD**.**
+* 运行在通用计算平台上的医疗用途软件，即不具有医疗用途的计算平台，被认为是 SaMD。例如，使用三轴加速度计进行诊断的软件，该软件运行在消费级数码相机上的嵌入式处理器上，被认为是 SaMD。
 
-**B - Relationship between this document and GHTF documents.**
+* 与医疗设备连接但并非由该医疗设备所需来实现其医疗用途的软件，被认为是 SaMD，而不是医疗设备的附件。例如，允许使用商业手机查看用于诊断的图像的软件，这些图像是从磁共振成像 (MRI) 医疗设备获得的，该软件被认为是 SaMD，而不是 MRI 医疗设备的附件。
 
-It is important to note the following to understand the relationship between the categorization framework in this document and the classification principles for medical devices and in vitro diagnostic medical devices:
+* SaMD 的定义说明指出，“SaMD 可以在通用（非医疗用途）计算平台上运行。” SaMD 可以在这些通用计算平台上运行，并且可能位于医疗设备中。例如，用于辅助检测乳腺癌（CAD - 计算机辅助检测软件）的图像后处理软件，该软件运行在位于图像采集硬件医疗设备中的通用计算平台上，被认为是 SaMD。
 
-  * GHTF classification principles, unlike this document, were intended to build classification rules for regulatory control purposes. As explained earlier, this document identifies different categories of SaMD by level of impact and does not address corresponding regulatory risk classes identified in GHTF documents. 
-  * The high-level principles used for identifying SaMD categories build substantially on the principles (rationale) underlying the classification rules established in the GHTF classification principles documents. Key factors like individual risks, public health risks, user skills, and importance of the information provided are common to both frameworks. 
+* SaMD 的定义说明指出，“SaMD 可以在其他医疗设备（包括硬件医疗设备和其他 SaMD 软件）以及通用软件上进行交互。” 软件可以提供参数，这些参数用于其他硬件医疗设备或 SaMD，则该软件被认为是 SaMD。例如，为线性加速器提供信息的治疗计划软件，该软件被认为是 SaMD。
 
-#  References
+**_以下是一些不是 SaMD 的软件示例：_**
 
-IMDRF SaMD WG N10 / Software as a Medical Device: Key Definitions
+* SaMD 的定义指出：“SaMD 定义为用于一个或多个医疗目的的软件，这些软件在不作为硬件医疗设备的一部分的情况下执行这些目的。 示例包括用于“驱动或控制”输液泵中电机以及输送药物的软件；或在植入式起搏器或其他类型的硬件医疗设备中使用的闭环控制软件。 这些类型的软件，有时被称为“嵌入式软件”、“固件”或“微代码”，不是 SaMD”。
 
-GHTF/SG1/N70:2011 “Label and Instructions for Use for Medical Devices” 
+* 即使硬件医疗设备需要软件来执行其医疗用途，并且该软件与硬件医疗设备分开销售，该软件也不是 SaMD。
 
-GHTF/SG1/N71:2012 “Definition of the Terms ‘Medical Device’ and ‘In Vitro Diagnostic (IVD) Medical Device” 
+* 依赖于医疗设备数据的软件，但该软件本身不具有医疗目的，例如用于从医疗设备传输数据的加密软件，也不是 SaMD。
 
-IEC 62304:2006 - Medical device software -- Software life cycle processes
+* 允许临床沟通和工作流程的软件，包括患者注册、安排就诊、语音通话、视频通话，也不是 SaMD。
 
-ISO/IEC 14764:2006 Software Engineering — Software Life Cycle Processes — Maintenance 
+* 监控设备性能或正确运行的软件，用于为设备提供服务，例如监控 X 射线管性能以预测更换需求；或整合和分析实验室质量控制数据以识别 IVD 中的随机错误或校准趋势的软件，也不是 SaMD。
 
-Guide to the Software Engineering Body of Knowledge - SWEBOK (2004), pp. 1-202 by Alain Abran, Pierre Bourque, Robert Dupuis, James W. Moore, Leonard L. Tripp edited by Alain Abran, Pierre Bourque, Robert Dupuis, James W. Moore, Leonard L. Tripp
+* 如果该软件本身不具有医疗目的，则提供参数，这些参数将作为 SaMD 的输入，该软件也不是 SaMD。 例如，仅包含搜索和查询功能的数据库，或由 SaMD 使用的数据库，也不是 SaMD。
 
-[SEBoK] Guide to the Systems Engineering Body of Knowledge (<http://www.sebokwiki.org/>)
+## 基于现有分类的 SaMD 框架分析
 
-ISO/IEC 27000:2009 - Information technology — Security techniques — Information security management systems 
+本附件旨在阐明以下内容：
 
-IEC 62366:2007 Medical devices — Application of usability engineering to medical devices
+**A – SaMD（软件医疗器械）与医疗器械分类的对应关系**
 
-Leveson, N. ‘Engineering a Safer World: Systems Thinking Applied to Safety, MIT, USA (2011)
+存在不同的分类方案，用于不同的目的。
 
-  1. See Section 3.0 for full definition including notes. ↑
+通常，分类是基于一组参数/问题的，将感兴趣的物体分配到适合特定目的的组中。
 
-  2. Additional details can be found in Appendix 0. ↑
+分类的目的可能包括：
 
-  3. “Computing platforms” include hardware and software resources (e.g. operating system, processing hardware, storage, software libraries, displays, input devices, programming languages etc.).
+* 确定适当的监管级别，例如要求
 
-“Operating systems” that SaMD require may be run on a server, a workstation, a mobile platform, or other general purpose hardware platform. ↑
+* 第三方干预的级别
 
-  4. ISO/IEC 14764:2006 Software Engineering — Software Life Cycle Processes — Maintenance 
+* 符合性控制的级别
 
-adaptive maintenance: the modification of a software product, performed after delivery, to keep a software product usable in a changed or changing environment
+* 质量体系的级别
 
-perfective maintenance: the modification of a software product after delivery to detect and correct latent faults in the software product before they are manifested as failures 
+* 适当的技术措施，例如：
 
-corrective maintenance: the reactive modification of a software product performed after delivery to correct discovered problems 
+* 技术防护手段，例如：
 
-preventive maintenance: the modification of a software product after delivery to detect and correct latent faults in the software product before they become operational faults ↑
+* 激光防护 1、2 或 3
 
-  5. IMDRF key definitions Final document “medical purposes” also repeated here in Section 3.3. ↑
+* 电气隔离、接地或双绝缘
 
-  6. These could include specific functionality that is critical to maintain performance and safety profile, attributes identified by risk management process undertaken by the manufacturer of SaMD. ↑
+* 液体侵入，IP XX
 
-  7. “SaMD changes” are defined in section 3.4 ↑
+对医疗器械的分类通常侧重于基于风险等级的监管控制。
 
-  8. Leveson, N. 2012. _Engineering a Safer World: Systems Thinking Applied to Safety_. Cambridge, MA, USA: MIT Press. ↑
+对于SaMD（软件为医疗器械），例如激光保护，分类仅是识别不同类型的SaMD，并按影响程度进行分类。 本文档中的分类本身并不意味着需要采取的监管控制以管理风险。 它的主要目的是为SaMD提供适当的考虑指南**。**
 
-  9. (Adapted from IEC 62366) ↑
+**B - 本文档与GHTF文档的关系**
 
-  10. Leveson, N. 2012. _Engineering a Safer World: Systems Thinking Applied to Safety_. Cambridge, MA, USA: MIT Press. ↑
+为了理解本文档中分类框架与医疗器械和体外诊断医疗器械的分类原则之间的关系，请注意以下几点：
 
-  11. (From ISO/IEC 27000:2009 - Information technology — Security techniques — Information security management systems — Overview and vocabulary) ↑
+* 与本文档不同，GHTF的分类原则旨在建立用于监管控制的分类规则。 如前所述，本文档识别不同类型的SaMD，并按影响程度进行分类，但不涉及GHTF文档中识别的相应的监管风险等级。
+
+* 用于识别SaMD类别的高级原则，在很大程度上基于GHTF分类原则中确立的分类规则（理由）之上。 诸如个人风险、公共健康风险、用户技能以及提供的信息的重要性等关键因素，在两个框架中都是通用的。
+
+# 参考文献
+
+IMDRF SaMD WG N10 / 软件为医疗器械：关键定义
+
+GHTF/SG1/N70:2011 “医疗器械的标签和使用说明”
+
+GHTF/SG1/N71:2012 “‘医疗器械’和‘体外诊断（IVD）医疗器械’的定义”
+
+IEC 62304:2006 - 医疗器械软件 — 软件生命周期流程
+
+ISO/IEC 14764:2006 软件工程 — 软件生命周期流程 — 维护
+
+《软件工程知识体系指南》- SWEBOK (2004)，第 1-202 页，作者：Alain Abran, Pierre Bourque, Robert Dupuis, James W. Moore, Leonard L. Tripp，编辑：Alain Abran, Pierre Bourque, Robert Dupuis, James W. Moore, Leonard L. Tripp
+
+[SEBoK] 《系统工程知识体系指南》（<http://www.sebokwiki.org/>）
+
+ISO/IEC 27000:2009 - 信息技术 — 安全技术 — 信息安全管理系统
+
+IEC 62366:2007 医疗器械 — 将可用性工程应用于医疗器械
+
+Leveson, N. 《构建更安全的世界：系统思维应用于安全》，MIT, USA (2011)
+
+1. 参见第 3.0 节，包含注释的完整定义。 ↑
+
+2. 更多详细信息请参见附录 0。 ↑
+
+3. “计算平台”包括硬件和软件资源（例如，操作系统、处理硬件、存储、软件库、显示器、输入设备、编程语言等）。
+
+SaMD 所需的“操作系统”可能在服务器、工作站、移动平台或其他通用硬件平台上运行。↑
+
+4. ISO/IEC 14764:2006 软件工程 — 软件生命周期流程 — 维护
+
+适应性维护：在交付后对软件产品进行的修改，以使软件产品在变化或变化的环境中保持可用。
+
+完善性维护：在软件交付后，对软件产品进行修改，以检测和纠正软件产品中潜在的故障，使其在出现故障之前被发现和纠正。
+
+纠正性维护：在软件交付后，对软件产品进行反应性修改，以纠正已发现的问题。
+
+预防性维护：在软件交付后，对软件产品进行修改，以检测和纠正软件产品中潜在的故障，使其在成为运营故障之前被发现和纠正。↑
+
+5. IMDRF 关键定义，最终文档“医疗用途”在此第 3.3 节中也重复出现。 ↑
+
+6. 这些可能包括制造商对 SaMD 进行风险管理过程中识别的，对维持性能和安全特性至关重要的特定功能。 ↑
+
+7. “SaMD 变更”定义在第 3.4 节中 ↑
+
+8. Leveson, N. 2012. _Engineering a Safer World: Systems Thinking Applied to Safety_. Cambridge, MA, USA: MIT Press. ↑
+
+9. （改编自 IEC 62366）
+
+10. Leveson, N. 2012. _构建更安全的世界：系统思维应用于安全_。 剑桥，马萨诸塞州，美国：麻省理工学院出版社。 ↑
+
+11. (根据 ISO/IEC 27000:2009 - 信息技术 — 安全技术 — 信息安全管理系统 — 概述和词汇) ↑
 
 
 <!-- fulltext-end -->

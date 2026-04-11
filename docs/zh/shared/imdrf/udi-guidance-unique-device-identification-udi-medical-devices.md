@@ -10,13 +10,17 @@ title: "UDI Guidance: Unique Device Identification (UDI) of Medical Devices"
 [https://www.imdrf.org/documents/udi-guidance-unique-device-identification-udi-medical-devices](https://www.imdrf.org/documents/udi-guidance-unique-device-identification-udi-medical-devices)
 :::
 
+::: info
+This content has been machine-translated from the English original.
+:::
+
 <!-- fulltext-start -->
 
 ---
 
 ## 全文
 
-# UDI Guidance: Unique Device Identification (UDI) of Medical Devices
+# UDI 指导：医疗器械的唯一标识（UDI）
 
 **Document Number**: IMDRF/UDI WG/N7FINAL:2013
 
@@ -26,708 +30,803 @@ title: "UDI Guidance: Unique Device Identification (UDI) of Medical Devices"
 
 **IMDRF/UDI WG/N7FINAL:2013**
 
-**Final Document**
+**最终文档**
 
-**Title** : UDI Guidance
+**标题**：UDI 指导
 
-Unique Device Identification (UDI) of Medical Devices
+医疗器械的唯一标识（UDI）
 
-**Authoring Group** : IMDRF UDI Working Group
+**编写组**：IMDRF UDI 工作组
 
-**Date** : 9 December 2013
+**日期**：2013年12月9日
 
-Despina Spanou, IMDRF Chair
+Despina Spanou, IMDRF 负责人
 
-This document was produced by the International Medical Device Regulators Forum. There are no restrictions on the reproduction or use of this document; however, incorporation of this document, in part or in whole, into another document, or its translation into languages other than English, does not convey or represent an endorsement of any kind by the International Medical Device Regulators Forum.
+本文件由国际医疗器械监管论坛制作。对本文件的复制或使用没有限制；然而，将本文件（部分或全部）纳入其他文件，或将其翻译成其他语言，并不代表国际医疗器械监管论坛的认可。
 
-Copyright © 2013 by the International Medical Device Regulators Forum.
+© 2013 国际医疗器械监管论坛 版权所有。
 
-Contents
+内容
 
-1\. Preamble 3
+1\. 前言 3
 
-2\. Introduction 3
+2\. 简介 3
 
-2.1 Traceability 4
+2.1 可追溯性 4
 
-2.2 Identification 4
+2.2 标识 4
 
-2.3 Adverse Event Reporting and Field Safety Corrective Actions 4
+2.3 不良事件报告和现场安全纠正措施 4
 
-2.4 Medical errors 5
+2.4 医疗错误 5
 
-2.5 Documentation 5
+2.5 文档 5
 
-2.6 Other considerations 5
+2.6 其他考虑因素 5
 
-3\. Rationale, purpose and scope 5
+3\. 理由、目的和范围 5
 
-3.1 Rationale 5
+3.1 理由 5
 
-3.2 Purpose 5
+3.2 目的 5
 
-3.3 Scope 6
+3.3 范围 6
 
-4\. References 6
+4\. 参考文献 6
 
-5\. Definitions 7
+5\. 定义 7
 
-6\. Guidance for a UDI System 9
+6\. UDI 系统指导 9
 
-7\. The UDI 10
+7\. UDI 10
 
-8\. UDI Carrier 11
+8\. UDI 载体 11
 
-9\. The UDI Database (UDID) 13
+9\. UDI 数据库（UDID） 13
 
-9.1 General principles of the UDID 13
+9.1 UDID 的一般原则 13
 
-9.2 The core UDID data elements 13
+9.2 UDID 的核心数据元素 13
 
-10\. Rules for specific device types 15
+10\. 特定设备类型的规则 15
 
-10.1 Implantable devices 15
+10.1 植入式设备 15
 
-10.2 Reusable devices requiring reprocessing between uses 15
+10.2 需在每次使用之间进行再处理的可重复使用设备 15
 
-10.3 Non IVD kits 15
+10.3 非体外诊断（IVD）试剂盒 15
 
-10.4 IVD Kits 16
+10.4 IVD 试剂盒 16
 
-10.5 Configurable medical device systems 16
+10.5 可配置的医疗设备系统 16
 
-10.6 Software as a Medical Device (SaMD)__ 17 __
+10.6 软件作为医疗器械（SaMD）__ 17 __
 
-10.6.1. UDI Assignment Criteria 17
+10.6.1. UDI 分配标准 17
 
-10.6.2 UDI Placement Criteria 17
+10.6.2 UDI 放置标准 17
 
-11\. Annex 19 
+11\. 附录 19
 
-# 1\. Preamble
+# 1\. 前言
 
-This document is inscribed in the framework of the International Medical Device Regulators Forum (IMDRF). It replaces the "_Guidance on a Unique Device Identification (UDI) System for Medical Devices_ " adopted by the Global Harmonization Task Force (GHTF) on 16 September 2011. 
+这份文件是在国际医疗器械监管论坛（IMDRF）框架下制定的。它取代了全球协调任务组（GHTF）于2011年9月16日采用的“《医疗器械的唯一设备识别（UDI）系统指南》”。
 
-The IMDRF Guidance on a "_Unique Device Identification (UDI) System for Medical Devices_ " clarifies and supplements the above mentioned GHTF Guidance by providing non-binding rules for use in the regulation of medical devices, and has been subject to consultation throughout its development.
+IMDRF关于“《医疗器械的唯一设备识别（UDI）系统指南》”澄清并补充了上述GHTF指南，通过提供用于医疗器械监管的非约束性规则，从而实现全球协调。该指南在开发过程中一直接受了咨询。
 
-There are no restrictions on the reproduction, distribution or use of this document; however, incorporation of this document, in part or in whole, into any other document, or its translation into languages other than English, does not convey or represent an endorsement of any kind by the IMDRF.
+本文件不受任何限制，可以复制、分发或使用；但是，将本文件（或其任何部分）包含在其他文件中，或将其翻译成其他语言，并不代表IMDRF的认可。
 
-# 2\. Introduction
+# 2\. 简介
 
-This guidance provides a framework for those regulatory authorities that intend to develop their UDI Systems that achieves a globally harmonized approach to the UDI. The framework can be used at a local, national, or global level such that these systems are implemented without regional or national differences. This guidance is intended to provide a high-level conceptual view of how a global UDI System should work. It is recognized that further additional guidance may be needed once these core concepts are accepted.
+本指南为有意开发其UDI系统的监管机构提供了一个框架，以实现UDI的全球协调。该框架可以在本地、国家或全球层面使用，从而在不产生区域或国家差异的情况下实施这些系统。本指南旨在提供一个高层次的概念，说明全球UDI系统应如何运作。虽然认识到，一旦这些核心概念得到认可，可能还需要进一步的指导。
 
-The fundamental concepts of a globally harmonized UDI System include:
+一个全球协调的UDI系统中的基本概念包括：
 
-  1. the UDI and UDI Carrier are based on standards,
-  2. a UDI applied to a medical device anywhere in the world should be able to be used globally and to meet the UDI requirements of its regulatory authority,
-  3. national or local identification numbers should NOT be a substitute for UDI,
-  4. regulatory authorities should not specify the procedure for modifying these UDI standards
-  5. the UDID core elements should not be modified,
-  6. the UDID should use the Health Level Seven International (HL7) Structured Product Label (SPL) and web based interface for data submission,
-  7. every medical device needs to be identified by a UDI, unless it is exempted
+1. UDI和UDI载体基于标准；
 
-The UDI System is intended to provide a single, globally harmonized system for positive identification of medical devices. Healthcare professionals and patients will no longer have to access multiple, inconsistent, and incomplete sources in an attempt to identify a medical device and, its key attributes. The UDID is a designated source for additional information. It is critical to note that the benefits of UDI can only accrue if all stakeholders, from the manufacturer to healthcare providers and patients, use UDI throughout their workflow systems. Therefore, it is imperative that all stakeholders be educated about the development and use of a UDI System.
+2. 任何在世界上的医疗器械上应用UDI都应能够在全球范围内使用，并满足其监管机构的UDI要求。
 
-A globally harmonized and consistent approach to UDI is expected to increase patient safety and help optimize patient care by facilitating the:
+3. 国家或地方的标识号码不应替代UDI，
 
-  1. traceability of medical devices, especially for field safety corrective actions,
-  2. adequate identification of medical devices through distribution and use, 
-  3. identification of medical devices in adverse events,
-  4. reduction of medical errors,
-  5. documenting and longitudinal capture of data on medical devices.
+4. 监管机构不应指定修改这些UDI标准的程序
 
-## _2.1 Traceability_
+5. UDID的核心元素不应被修改，
 
-The global use of a UDI will facilitate traceability throughout distribution.
+6. UDID应使用Health Level Seven International (HL7) 的结构化产品标签 (SPL) 和基于网络的接口进行数据提交，
 
-In order to achieve traceability, it is necessary to involve all stakeholders to capture and store the UDI (Device Identifier (UDI-DI) + Production Identifier (UDI-PI)) throughout distribution and use.
+7. 任何医疗器械都需要使用UDI标识，除非有豁免。
 
-This is especially important for field safety corrective actions. 
+UDI系统旨在提供一个单一、全球统一的系统，用于对医疗器械进行明确的识别。 医疗专业人员和患者将不再需要访问多个、不一致且不完整的来源，以识别医疗器械及其关键属性。 UDID是获取额外信息的指定来源。 重要的是要注意，UDI的益处只有在制造商、医疗服务提供者和患者等所有利益相关者在他们的工作流程中使用UDI时才能实现。 因此，所有利益相关者都应了解UDI系统的开发和使用。
 
-Though the UDID does not capture UDI-PI, it is expected that supply chain operators will capture and use these identifiers. This is critical during field safety corrective actions. In addition, the foundational use of UDI can help fight counterfeiting and secure the supply chain for all stakeholders. 
+一个全球统一且一致的UDI方法预计将提高患者安全，并有助于优化患者护理，从而实现：
 
-Traceability can be facilitated by[1]:
+1. 医疗器械的可追溯性，尤其是在现场安全纠正行动中，
 
-  1. recording medical devices from manufacturer to healthcare provider throughout the supply chain,
-  2. recording medical device use in patients,
-  3. implementation of medical device field safety corrective actions, 
-  4. a standardized way to input medical device identification into health related registries.
+2. 通过分销和使用对医疗器械的充分识别，
 
-## _2.2 Identification_
+3. 识别不良事件中的医疗器械，
 
-UDI will facilitate the unambiguous identification of the medical device through distribution and use by providing a single global identifier that can be used to link and integrate existing government, clinical, hospital, and industry databases. UDI should allow for improved procurement, inventory management, and accounting. The existence of a single UDI-DI to link disparate data bases should allow creative new medical and business applications, and synergy among those applications.
+4. 减少医疗错误，
 
-## _2.3 Adverse Event Reporting and Field Safety Corrective Actions_
+5. 记录和长期捕捉医疗器械的数据。
 
-UDI will allow industry and regulatory authorities to more rapidly identify medical devices involved in adverse events. UDI will be available for inclusion in adverse event reports, allowing greater accuracy in reporting, and more rapid aggregation of related reports. Using this information, Health Authorities can more rapidly collate and analyze problem reports and identify the most-appropriate solution for a particular concern. UDI will allow more targeted safety alerts and field safety corrective actions on the specific medical devices that are of concern.
+## _2.1 可追溯性_
 
-## _2.4 Medical errors_
+全球范围内使用UDI将促进在分销过程中的可追溯性。
 
-By providing rapid and electronic access to critical patient safety information, such as clinical size, sterilization status, etc. related to a medical device, the UDI system may help clinicians more safely select and use the proper medical device for a patient. UDID data could be downloaded by healthcare providers to be used for internal reference of safety related information.
+为了实现可追溯性，需要让所有相关方参与，以记录和存储 UDI（设备标识符 (UDI-DI) + 生产标识符 (UDI-PI))，贯穿于分销和使用过程。
 
-## _2.5 Documentation_
+这对于现场安全纠正措施尤其重要。
 
-The use of UDI System will facilitate and simplify the documentation of medical device use in various patient records including traditional as well as electronic health records and registries. UDI should also enable linkages of medical device information across various systems and across geographies. These applications of UDI could help identifying medical device problems and enhance comparative effectiveness.
+虽然 UDID 不会捕获 UDI-PI，但预计供应链运营商将捕获和使用这些标识符。 这在现场安全纠正措施期间至关重要。 此外，UDI 的基础使用可以帮助打击假冒伪劣产品，并为所有相关方确保供应链。
 
-## _2.6 Other considerations_
+可追溯性可以通过以下方式实现[1]:
 
-Other considerations essential for the successful development and implementation of a globally harmonized UDI System include:
+1. 记录医疗设备从制造商到医疗服务提供者的整个供应链，
 
-  1. a risk-based approach which is essential given the huge diversity of the medical devices,
-  2. application to kits, systems and other groups of devices which need to be managed appropriately,
-  3. requirements which should be phased in over a period of years based on risk classes, starting with the highest risk class, to reduce the burden of implementation,
-  4. the need for all supply chain stakeholders to have sufficient time to prepare their systems, processes and staff, for the proper use of the UDI System,
-  5. Effective data retrieval systems.
+2. 记录患者使用医疗设备，
 
-# 3\. Rationale, purpose and scope
+3. 实施医疗设备现场安全纠正措施，
 
-## 
+4. 采用标准化的方法将医疗设备标识信息输入到与健康相关的注册系统中。
 
-##  _3.1 Rationale_
+## _2.2 标识_
 
-There are currently no global definitions of what constitutes a UDI or UDI System. As a consequence, discrepancies between different national approaches do exist and will most likely increase. Common globally harmonized UDI System requirements would offer significant benefits to manufacturers, healthcare providers, patients, and regulatory authorities. In addition, a globally harmonized UDI System will limit the cost of regulatory compliance.
+UDI 将通过分销和使用，提供一个单一的全球标识符，从而实现医疗设备的明确标识，并可以用于链接和整合现有的政府、临床、医院和行业数据库。 UDI 应该能够改善采购、库存管理和会计。 拥有一个单一的 UDI-DI，可以链接不同的数据库，从而实现新的医疗和商业应用，以及这些应用之间的协同作用。
 
-## _3.2 Purpose_
+## _2.3 不良事件报告和现场安全纠正措施_
 
-This guidance intends to avoid country-specific requirements regarding the core elements of the UDI System by developing common guidance for:
+UDI将使行业和监管机构能够更快速地识别与不良事件相关的医疗器械。UDI可用于不良事件报告，从而提高报告的准确性，并更快速地汇总相关报告。通过利用这些信息，卫生部门可以更快速地收集和分析问题报告，并确定特定问题的最合适解决方案。UDI将允许针对特定、引起关注的医疗器械进行更有针对性的安全警示和现场安全纠正措施。
 
-  1. creating, using and maintaining a UDI,
-  2. applying a UDI Carrier,
-  3. establishing the UDID model/structure, with a defined list of Data Elements,
-  4. establishing basic requirements for a data submission format based on HL7 SPL and web based interface and
-  5. establishing basic requirements for a common data exchange standard. 
+## _2.4 医疗错误_
 
-This document does not address the use of the UDI System, e.g. by healthcare providers. Therefore it does not directly address issues associated with counterfeit medical devices or how to enable better control of purchasing which will depend on the use of the UDI System by healthcare providers.
+通过提供快速、电子化的访问，例如与医疗器械相关的临床尺寸、灭菌状态等关键患者安全信息，UDI系统可能有助于临床医生更安全地选择和使用适合患者的医疗器械。医疗机构可以下载UDID数据，用于内部参考相关的安全信息。
 
-## _3.3 Scope_
+## _2.5 文档_
 
-This document applies to all products to be placed on the market that are regulated as medical devices. For a definition of a medical device, see the GHTF document entitled "_Information Document Concerning the Definition of the Term “Medical Device_ ”". 
+UDI系统的使用将简化和方便在各种患者记录（包括传统和电子健康记录和注册）中记录医疗器械使用的过程。UDI还应促进不同系统和不同地理区域之间医疗器械信息的关联。这些UDI的应用可以帮助识别医疗器械问题并提高比较疗效。
 
-This document is addressed to the regulatory authorities and affects medical device manufacturers and other relevant stakeholders.
+## _2.6 其他考虑因素_
 
-# 4\. References
+为了成功开发和实施全球统一的UDI系统，以下其他考虑因素至关重要：
 
-\- GHTF SG1/N071:2012 Definition of the Terms ‘Medical Device’ and ‘In Vitro Diagnostic (IVD) Medical Device’;
+1. 以风险为基础的方法，这是考虑到医疗器械的巨大多样性所必需的，
 
-\- GHTF SG1/N070:2011 Label and Instructions for Use for Medical Devices;
+2. 将其应用于套件、系统和其他需要适当管理的设备
 
-\- GHTF SG1/N055:2009 Definitions of Terms Manufacturer, Authorized Representative, 
+3.  要求应在数年内逐步实施，根据风险等级进行，从最高风险等级开始，以减轻实施负担，
 
-Distributor and Importer;
+4.  所有供应链相关方需要有足够的时间来准备其系统、流程和人员，以便正确使用UDI系统，
 
-\- GHTF SG1/N065:2010 Registration of Manufacturers and other Parties and Listing of Medical Devices;
+5.  有效的获取数据系统。
 
-\- GHTF SG1/N77:2012 Principles of Medical Devices Classification
+# 3\. 理由、目的和范围
 
--__ GHTF SG1/N044:2008 Role of Standards in the Assessment of Medical Devices
+##
 
-\- GHTF SG2/N5:2006 Contents of Field Safety Notice
+## _3.1 理由_
 
-\- IMDRF SaMD WG/N10/FINAL:2013 Software as a Medical Device (SaMD): Key Definitions;
+目前尚无全球统一的UDI或UDI系统定义。因此，不同国家之间的差异已存在，并且很可能会进一步扩大。一套全球统一的UDI系统将为制造商、医疗服务提供者、患者和监管机构带来显著的好处。此外，一套全球统一的UDI系统将限制合规成本。
 
-\- ISO/IEC 15459-2 – Information technology - Unique identifiers – Part 2: Registration procedures;
+## _3.2 目的_
 
-\- ISO/IEC 15459-4:2008 – IT Unique identifiers Part 4: Individual items;
+本指南旨在通过制定通用指南，避免对UDI系统的核心要素进行国家特定要求，具体包括：
 
-\- ISO/IEC 15459-6:2007 – IT Unique identifiers Part 6: Unique identifier for product groupings;
+1.  创建、使用和维护UDI，
 
-\- ISO/IEC 16022:2006 – Information technology – Automatic identification and data capture   
-techniques – Data Matrix bar code symbology specification;
+2.  应用UDI载体，
 
-\- ISO/IEC 18004:2006 – IT AIDC techniques QR Code 2005 bar code symbology specification;
+3.  建立UDID模型/结构，包括明确的数据元素清单，
 
-\- ISO/IEC 15417:2007 – IT AIDC techniques – Code 128 bar code symbology specification.
+4.  建立基于HL7 SPL和基于Web的接口，以及基本的数据提交格式要求，
 
-# 5\. Definitions 
+5.  建立基本的数据交换标准要求。
 
-_Accessory_
+本文件不涉及使用UDI系统的具体应用，例如，由医疗服务提供者使用。因此，它不直接涉及假冒医疗器械的问题或如何更好地控制采购，这取决于医疗服务提供者使用UDI系统。
 
-Accessory means an article intended specifically by its manufacturer to be used together with a specific medical device(s), to enable the medical device to be used in accordance with its intended use [modified draft GHTF definition –GHTF/SG1/N071:2012].
+## _3.3 范围_
 
-_Automatic Identification and Data Capture (AIDC)_
+本文件适用于所有将被投放市场，并作为医疗器械进行监管的产品。有关医疗器械的定义，请参见名为“_关于“医疗器械”术语定义的资料_”的GHTF文件。
 
-A technology used to automatically capture data. AIDC technologies include bar codes, smart cards, biometrics and RFID.
+本文件旨在向监管机构提供信息，并影响医疗器械制造商和其他相关利益相关者。
 
-_Configurable medical device system_
+4\. 参考文献
 
-A configurable medical device system consists of several components which can be assembled in multiple configurations. Those individual components may be medical devices itself and/or non-medical devices.
+\- GHTF SG1/N071:2012 “医疗器械”和“体外诊断（IVD）医疗器械”的定义
 
-Examples are Computed Tomography (CT) systems, Ultrasound systems, Anesthesia systems, Physiological Monitoring systems, Radiology Information System (RIS). 
+\- GHTF SG1/N070:2011 医疗器械的标签和使用说明
 
-_Configuration_
+\- GHTF SG1/N055:2009 术语定义：制造商、授权代表
 
-Configuration is a combination of items of equipment, as specified by the manufacturer, that operate together to provide an intended use or purpose as a medical device. The combination of items may be modified, adjusted or customized to meet a customer need.
+经销商和进口商
 
-Examples: 
+\- GHTF SG1/N065:2010 制造商和其他方的注册以及医疗器械的列名；
 
-1\. CT: gantry, tube, table, console are items of equipment that can be configured/combined to deliver an intended function. 
+\- GHTF SG1/N77:2012 医疗器械分类原则
 
-2\. Anesthesia: ventilator, breathing circuit, vaporizer are items of equipment that can be configured/combine to deliver an intended function.
+-__ GHTF SG1/N044:2008 医疗器械评估中标准的作用
 
-_Device Identifier (UDI-DI)_
+\- GHTF SG2/N5:2006 内容
 
-The UDI-DI is a unique numeric or alphanumeric code specific to a model of medical device and that is also used as the "access key" to information stored in a UDID. Examples of the UDI-DI include GS1 GTIN (Global Trade Item Number), HIBC-LIC (Labeler Identification Code), ISBT 128-PPIC (Processor Product Identification Code).
+\- IMDRF SaMD WG/N10/FINAL:2013 软件为医疗器械 (SaMD): 关键定义;
 
-_Human Readable Interpretation (HRI)_
+\- ISO/IEC 15459-2 – 信息技术 - 唯一标识 – 第 2 部分：注册程序;
 
-Human Readable Interpretation is a legible interpretation of the data characters encoded in the UDI Carrier.
+\- ISO/IEC 15459-4:2008 – IT 唯一标识 第 4 部分：单个项目；
 
-_Implantable device_
+\- ISO/IEC 15459-6:2007 – IT 唯一标识 第6部分：产品组的唯一标识；
 
-Any device, including those that are partially or wholly absorbed, which is intended: -
+\- ISO/IEC 16022:2006 – 信息技术 – 自动识别和数据采集技术 – 数据矩阵条形码符号规范；
 
-  * to be totally introduced into the human body or,
-  * to replace an epithelial surface or the surface of the eye,
+\- ISO/IEC 18004:2006 – IT AIDC 技术，二维码 2005 条形码符号规范；
 
-by surgical intervention which is intended to remain in place after the procedure. 
+\- ISO/IEC 15417:2007 – IT AIDC 技术 – Code 128 条形码符号规范。
 
-Any device intended to be partially introduced into the human body through surgical intervention and intended to remain in place after the procedure for at least 30 days is also considered an implantable device. [GHTF SG1/N77:2012]
+# 5\. 定义
 
-_Kits_
+_附件_
 
-Kits are a collection of products, including medical devices, that are packaged together to achieve a common intended use and is being distributed as a medical device. These could also be called procedure packs or convenience kits.
+附件是指制造商明确设计用于与特定医疗设备一起使用的物品，以便医疗设备能够按照其预期用途使用 [修改后的 GHTF 定义 – GHTF/SG1/N071:2012]。
 
-Note: Jurisdictions may differ in their definition of kit. 
+_自动识别和数据采集 (AIDC)_
 
-_Label_
+一种用于自动采集数据的技术。 AIDC 技术包括条形码、智能卡、生物识别和 RFID。
 
-Written, printed, or graphic information either appearing on the medical device itself, or on the packaging of each unit, or on the packaging of multiple devices [GHTF/SG1/N070:2011].
+_可配置的医疗设备系统_
 
-_Manufacturer_
+可配置的医疗设备系统由多个组件组成，这些组件可以以多种配置方式组合。 这些个别组件可能是医疗设备本身，也可能是非医疗设备。
 
-Manufacturer means any natural or legal person[2] with responsibility for design and/or manufacture of a medical device with the intention of making the medical device available for use, under his name; whether or not such a medical device is designed and/or manufactured by that person himself or on his behalf by another person(s) [GHTF SG1/N55:2009]. 
+例如：计算机断层扫描 (CT) 系统、超声系统、麻醉系统、生理监护系统、放射信息系统 (RIS)。
 
-This includes reprocessors and remanufacturers that take responsibility for the device and reintroduce it into commercial distribution.
+_配置_
 
-_Own Brand/Private Labelers_
+配置是指制造商指定的，用于一起工作的设备组合，以实现医疗设备的目的。 组合的设备可以修改、调整或定制以满足客户需求。
 
-An Own Brand or Private Labeler relabels a device from a 3rd party with his own name without making any further changes to the device thereby taking responsibility for it as the manufacturer.
+例如：
 
-_Packaging Levels_
+1\. CT：管、管、台、控制台是可以配置/组合以实现预期功能的设备。
 
-Packaging levels means the various levels of device packages that contain a fixed quantity of medical devices, e.g. each, carton, case. 
+2\. 麻醉：呼吸机、呼吸回路、蒸发器是可以配置/组合以实现预期功能的设备。
 
-Note: This does not include shipping containers.
+_设备标识符 (UDI-DI)_
 
-_Production Identifier (UDI-PI)_
+UDI-DI 是一个特定于医疗器械型号的唯一数字或字母数字代码，并且也用作 UDID 中存储信息的“访问密钥”。 UDI-DI 的例子包括 GS1 GTIN（全球商品识别码）、HIBC-LIC（标签识别码）、ISBT 128-PPIC（处理器产品识别码）。
 
-The Production Identifier is a numeric or alphanumeric code that identifies the unit of device production. 
+_可读性解释 (HRI)_
 
-The different types of Production Identifier(s) include serial number, lot/batch number, Software as a Medical Device (SaMD) version and manufacturing and/or expiration date.
+可读性解释是 UDI 载体中编码的数据字符的可读解释。
 
-_Radio Frequency Identification (RFID)_
+_植入式设备_
 
-RFID is a technology that uses communication through the use of radio waves to exchange data between a reader and an electronic tag attached to an object, for the purpose of identification.
+任何设备，包括那些部分或完全吸收的设备，都应：-
 
-_Shipping containers_
+* 完全进入人体，或
 
-Shipping container is a container where the traceability is controlled by a process specific to logistics systems.
+* 替代表皮表面或眼睛表面，
 
-_Software as a Medical Device (SaMD)_
+通过手术方式，并在手术后保持在体内的。
 
-The term SaMD is defined as software intended to be used for one or more medical purposes that perform these purposes without being part of a hardware medical device. [IMDRF SaMD WG/ N10R4FINAL:2013] 
+任何旨在通过手术方式部分插入人体，并在程序后至少保持 30 天的设备，也被认为是植入式设备。[GHTF SG1/N77:2012]
 
-_Standard_
+_套装_
 
-Document, established by consensus and approved by a recognized body, that provides, for common and repeated use, rules, guidelines or characteristics for activities or their results, aimed at the achievement of the optimum degree of order in a given context. [GHTF/SG1/N044:2008]
+套装是由医疗器械等产品组成的集合，这些产品被一起包装，以实现共同的预期用途，并作为医疗器械进行分发。 也可以称为操作包或便利套装。
 
-_Unit of Use (UoU) UDI-DI_
+注意：各辖区对“套件”的定义可能不同。
 
-The UoU UDI-DI is an identifier assigned to an individual medical device. It is assigned in instances when a UDI is not labelled at the level of the device unit of use (e.g. several units contained in a plastic bag). Its purpose is to associate the use of a device to/on a patient.[3]
+_标签_
 
-_Unique Device Identification_
+书面、印刷或图形信息，无论是在医疗器械本身、每个单元的包装或多个设备的包装上出现[GHTF/SG1/N070:2011]。
 
-The UDI is a series of numeric or alphanumeric characters that is created through a globally accepted device identification and coding standard. It allows the unambiguous identification of a specific medical device on the market. The UDI is comprised of the UDI-DI and UDI-PI. 
+_制造商_
 
-Note: The word "Unique" does not imply serialization of individual production units.
+制造商是指任何自然或法人[2]，对医疗器械的设计和/或制造负责，并有 intención 将医疗器械用于使用，以其名义；无论该医疗器械是否由该人自己或由另一人（或多个人）代表其设计和/或制造[GHTF SG1/N55:2009]。
 
-_UDI System_
+这包括负责设备的再处理和再制造企业，并将设备重新引入商业流通。
 
-The UDI System is the framework for:
+_自有品牌/私营品牌
 
-  1. UDI production ,
-  2. UDI application on the label or on the device, and 
-  3. UDI Database (UDID) fundamental contents
+| 任何品牌或私人品牌商，在不对设备进行任何进一步修改的情况下，从第三方处重新标记设备，并以制造商的身份对其负责。
 
- _UDI Carrier_
+_包装等级_
 
-The UDI Carrier is the means to convey the UDI by using AIDC and, if applicable, its HRI. 
+包装等级是指包含固定数量医疗设备的不同包装等级，例如：每个、纸箱、包装箱。
 
-Note: Carriers can include ID/linear bar code, 2D/Matrix bar code, RFID, etc…
+注意：这不包括运输容器。
 
- _UDI Database (UDID)_
+_生产标识符 (UDI-PI)_
 
-The UDID contains identifying information and other elements associated with the specific medical device.
+生产标识符是一个数字或字母数字代码，用于标识设备的生产单位。
 
-# 6\. Guidance for a UDI System
+不同的生产标识符类型包括：序列号、批号/生产批号、软件医疗设备 (SaMD) 版本以及制造和/或有效期。
 
-A UDI System comprises 3 parts:
+_射频识别 (RFID)_
 
-  1. the development of the UDI using globally accepted standards, (see section 7)
-  2. the application of that UDI on the label, (see section 8) and 
-  3. the submission of appropriate information to a UDID (see section 9).
+RFID 是一种使用无线电波进行通信的技术，用于在读取器和附着在物体上的电子标签之间交换数据，用于识别目的。
 
-In order to facilitate a globally harmonized approach to UDI, it is imperative that: 
+_运输容器_
 
-  1. the marking of the UDI should be an additional requirement – it does not replace any other   
-marking or labeling requirements. However UDI should replace any existing medical device   
-identifier used in accordance to local regulations with the same purpose of the UDI System;
-  2. the manufacturer should create and maintain globally unique UDIs on his medical   
-devices;
-  3. only the manufacturer can establish the UDI on the device or its packaging. Reprocessors   
-of single use medical devices, remanufacturers, relabelers and own brand/private labelers   
-are considered the manufacturer of the reprocessed, remanufactured or relabeled device and,   
-as such, are also subject to these requirements;
-  4. globally accepted ISO/IEC coding standards implemented by global organizations, such as   
-GS1, HIBCC and ICCBBA, meet the criteria of the UDI and manufacturers shall be   
-permitted to choose which system to use. These organizations have responsibility for   
-maintaining the global uniqueness of their coding systems. It is imperative that these coding   
-systems be adopted and implemented, without national deviations or changes to these global   
-coding systems; proliferation of coding systems must be discouraged;
-  5. national or regional regulatory requirements shall not restrict methods of AIDC as this will   
-hinder the establishment of a globally harmonized UDI System;
-  6. the national/regional regulation for UDI System shall include a robust and transparent   
-mechanism for evaluating and adjudicating requests for UDI exemptions in alternative   
-placements of UDI-DI and UDI-PI. Such exemptions should cover all the products with the   
-same characteristics;
-  7. the regulators of the UDI System shall specify harmonized exemptions for certain   
-devices such as investigational devices and custom made devices from UDI   
-requirements;
-  8. common criteria for recognition are:
-  9. The employed UDI must meet the requirements of the globally harmonized UDI   
-System to adequately identify a device through its distribution,
-  10. The employed UDI is in compliance with globally accepted standards ISO/IEC 15459-2, ISO/IEC 15459-4 and ISO 15459-6,
-  11. The employed UDI will be available to all users according to a single set of   
-consistent fair and reasonable terms and conditions. 
+运输容器是指在物流系统中，可追溯性由特定流程控制的容器。
 
-To meet the public health objectives of this guidance and to ensure that medical device user facilities, healthcare providers, regulatory authorities, and others will be able to make efficient and effective use of the UDI System, there could be a need to limit the number of accredited global organizations and available coding systems.
+_软件医疗设备 (SaMD)_
 
-# 7\. The UDI
+“SaMD”的定义为，旨在用于一个或多个医疗目的的软件，这些软件在不作为硬件医疗设备的情况下执行这些目的。[IMDRF SaMD WG/ N10R4FINAL:2013]
 
-  1. A UDI shall be assigned to the device itself or its package. Higher levels of packaging shall have their own UDI.
-  2. Shipping containers should be exempted. As an example, UDI is not required on a logistics unit; when a healthcare provider orders multiple medical devices using the UDI or model number of individual devices and the manufacturer places these devices in a container for shipping or to protect the individually packaged devices, the container (logistics unit) is not subject to UDI requirements. 
-  3. The UDI contains two parts: an UDI-DI and an UDI-PI.
-  4. The UDI-DI (e.g., GS1 GTIN, HIBC-LIC, ISBT-PPIC) should be globally unique at all levels of device packaging.
-  5. If a lot number, serial number, software version or expiration date appears on the label, they should be part of the UDI-PI. If there also is a manufacturing date on the label, it does NOT need to be included in the UDI-PI. If there is only a manufacturing date on the label, this should be used as the UDI-PI. 
-  6. When a UDI is not assigned to the device at the level of its unit of use, then a UoU UDI-DI should be assigned, to associate the use of a device with a patient. [for example, a UoU UDI-DI would be assigned to an individual electrode when the electrode is distributed in a package of 10 – and lowest level UDI is assigned to that package of 10]
-  7. Each component, sub-system or accessory that is considered a medical device and is commercially available needs a separate UDI unless the components are part of a convenience, medical procedure, IVD kit or configurable medical device system that is marked with its own UDI.
-  8. Kits should have their own UDI.
-  9. The manufacturer assigns the UDI to a device following the relevant coding standard.
-  10. Any change of one of the following UDID data elements determines the need for a new UDI-DI:
-  11. Brand Name,
-  12. Device version or model,
-  13. Clinical Size (including Volume, Length, Gauge, Diameter),
-  14. Labeled as single use,
-  15. Packaged sterile,
-  16. Need for sterilization before use,
-  17. Quantity of devices provided in a package,
-  18. Critical warnings or contraindications: e.g. containing latex or DEHP.
-  19. At a minimum, a new UDI-DI is required whenever there is a change that could lead to misidentification of the medical device and/or ambiguity in its traceability.
-  20. Reprocessors of single use medical devices, remanufacturers, Own Brand/Private Labelers shall create their own, new UDI for the reprocessed, remanufactured, or relabeled medical device which will replace the OEM’s UDI where it exists.
-  21. Reprocessors of single use medical devices, remanufacturers, Private (Own Brand) Labelers shall retain record of the Original Equipment Manufacturer’s (OEM) UDI.
-  22. A change of the label to display or modify a UDI-DI should not (in and of itself) require a premarket submission and/or re-registration. Manufacturers may be requested to notify/inform the Regulator.
+_标准_
 
-# 8\. UDI Carrier
+由共识建立并经认可机构批准的文档，为在特定上下文中实现最佳秩序，提供规则、指南或特征，用于常见和重复使用的活动或其结果。 [GHTF/SG1/N044:2008]
 
-  1. The UDI Carrier (AIDC and HRI representation of the UDI) shall be on the label or on the device itself and on all higher levels of device packaging. Higher levels do not include shipping containers.
-  2. In case of significant space constraints on the UoU package the UDI carrier may be placed on the next higher package level.
-  3. The UDI Carrier for single use medical devices of risk class A and B packaged and labeled individually does not need to be on its package but rather on higher level of packaging e.g. carton. However when the healthcare provider is not expected to have access (home healthcare settings) to the higher level of device packaging, the UDI should be on its package.
-  4. Non-prescription medical devices exclusively for retail Point of Sale (POS) do not need to encode Production Identifiers in AIDC on the point of sale package.
-  5. No particular AIDC methods should be required by a regulatory authority. Globally accepted AIDC methods based on ISO standards that have been adopted by the global organization (e.g., GS1, HIBCC or ICCBBA) shall be used.
-  6. RFID should comply with open, commercially acceptable, international standards such as ISO 17366:2013 Supply chain application of RFID – Product packaging and be vendor neutral.
-  7. When AIDC carriers other than the UDI Carrier are part of the product labeling, the UDI Carrier shall be readily identifiable. 
-  8. If linear bar codes are used, the UDI-DI and UDI-PI can be concatenated or non-concatenated in two or more bar codes. All parts and elements of the linear bar code shall be distinguishable and identifiable.
-  9. If there are significant constraints limiting the use of both AIDC and HRI on the label, the AIDC format shall be favored. However, certain environments or use situations, such as home care, may warrant the use of HRI over AIDC. 
-  10. The HRI format shall follow the rules of the UDI code issuing organization.
-  11. In case of RFID, a linear or 2D bar code shall also be provided on the label.
-  12. Medical devices that are reusable should have a UDI Carrier on the device itself.
+_使用单位 (UoU) UDI-DI_
 
-The UDI Carrier of reusable medical devices that require reprocessing between   
-patient uses should be permanent and readable after reprocessing cycles for the   
-intended life of the device. Manufacturers may determine that this may not be   
-possible or warranted on some devices due to size, design, materials, processing,   
-or performance issues.
+UoU UDI-DI 是一个为特定医疗设备分配的标识符。当 UDI 没有在设备使用单元（例如，多个单元包含在塑料袋中）的级别上标记时，就会分配该标识符。其目的是将设备的使用与患者联系起来。[3]
 
-  1. The UDI Carrier should be readable during normal use and throughout intended life of the medical device. 
-  2. If the UDI Carrier is readily readable through the medical device’s package, then the UDI Carrier does not also need to be on the package.
-  3. A single finished medical device made up of multiple parts that have to be assembled may have the UDI Carrier only on one part. 
-  4. The placement of the UDI Carrier should be done in a way that AIDC method can be accessed during normal operation or storage. 
-  5. The bar code carrier(s) that includes UDI data identifiers “DI” and “PI” may also include essential data for the medical device to operate. The UDI issuing agencies identify these data elements by application identifiers or flag characters. The regulator shall not limit the use of the UDI carrier to only “DI” and/or “PI” data but allow for other relevant data.
+_唯一设备识别_
 
-Example: 
+UDI是由全球认可的设备识别和编码标准创建的，它是一系列数字或字母数字字符。它允许对市场上特定医疗器械进行明确识别。UDI由UDI-DI和UDI-PI组成。
 
-GS1 General Specification allows for Application Identifier (91) through (99) for company use. This data could be used by the manufacturer as an activation key for a device or IVD analyzer. A GS1 bar code could carry (01) GTIN (17) expiration date (10) LOT (91) internal device activation key. Standard scanners set in the GS1 mode will parse the 4 data elements. (01) is the static DI, (17) and (10) are dynamic PI data. 
+请注意：“唯一”并不意味着对单个生产单元的序列化。
 
-They could be uploaded into hospital inventory systems. (91) would be ignored by the MMIS system but if the product is then placed into use, this AI data could activate the medical device .
+_UDI 系统_
 
-# 9\. The UDI Database (UDID)
+UDI 系统是用于：
 
-# _9.1 General principles of the UDID_
+1. UDI 的生产，
 
-  1. The UDID shall support the use of all the core UDID data elements.
-  2. No product commercial confidential information shall be included in the UDID.
-  3. The manufacturer is responsible for the initial submission and updates to the identifying information and other medical device data elements in the UDID.
-  4. Appropriate methods/procedures for validation of the provided data shall be implemented.
-  5. The manufacturers shall periodically reconfirm all the data relevant to their medical devices, except for discontinued medical devices. 
-  6. The core data elements in the UDID shall be accessible to the public free of charge.
-  7. The presence of the medical device UDI-DI in the UDID does not mean that the medical device is authorized in all jurisdictions. 
-  8. The database should allow for the linking of all the packaging levels of the medical device.
-  9. The data for new UDI-DI must be available at the time the medical device is placed on the market. 
-  10. Manufacturers should update the relevant UDID record within 30 days when a change is made to an element that does NOT require a new UDI-DI.
-  11. The UDID shall use HL7 Structured Product Labeling (SPL) standard for data submission and updates. Additional submission means could also be accommodated.
-  12. The core elements are the minimum elements needed to identify a medical device through distribution and use. Regional or National UDID may contain additional elements; these additional elements should be kept to a minimum.
-  13. The design of the UDID should support the official languages required in the jurisdictions where the medical device is put on the market. The use of free-text fields should be minimized to reduce the burden of language translations.
-  14. Data relating to discontinued medical devices shall be retained in the UDID. 
+2. 在标签或设备上应用 UDI，以及
 
-# _9.2 The core UDID data elements_
+3. UDI 数据库 (UDID) 的基本内容
 
-All the core UDID data elements are mandatory, unless marked “optional”. “If applicable” means the information is mandatory to be in the UDID if it is on the label. 
+_UDI 载体_
 
-Data elements and their definitions for the UDID are listed below:
+UDI 载体是通过 AIDC（自动化识别技术）以及，如果适用，其 HRI（人类可读识别）来传递 UDI 的方式。
 
-  1. For every device packaging level – the following shall be provided in a related way (for entire packaging hierarchy):
+请注意：载体可能包括 ID/线性条形码、2D/矩阵条形码、RFID 等。
 
-  * UDI-DI (UDI type, e.g. GS1 GTIN, HIBC-LIC, ISBT-128 PPIC),
-  * Quantity per package configuration: (e.g., each, 10 each, 5 shelf packs),
-  * Additional device identifier(s) (if applicable) e.g. GS1, HIBC, or ISBT-128;
+_UDI 数据库 (UDID)_
 
-  1. The Unit of Use UDI-DI (see section 7.6) code; 
-  2. Manufacturer’s name (if applicable);
-  3. Manufacturer’s address (if applicable~~)~~ ; 
-  4. Manufacturer's customer service contact information (country/region specific, could be multiple);(If applicable)
-  5. Authorized Representative's name (regional representatives responsible for the medical device) (country/region specific, could be multiple) (if required by the local/regional regulatory authority) (see GHTF/SG1/N55:2009); 
-  6. Authorized Representative's contact information (country specific, could be multiple);
-  7. Global Medical Device Nomenclature (GMDN) preferred code/term (valid at the time of the UDI submission);
-  8. Brand Name (if applicable);
-  9. SaMD version;
-  10. Device model or version; (see section 10.6)
-  11. Reference and/or catalogue number (if applicable);
-  12. How the device is controlled: serial, lot/batch number, and/or expiration date (or manufacturing date) or software version or software released date or ISBT-128 – check boxes (if applicable); 
-  13. Clinical Size (including Volume, Length, Gauge, Diameter) (if applicable) (e.g. 8F catheter); 
-  14. Additional product Description (optional) – Additional clinically relevant information, e.g. radio-opaque;
-  15. Storage conditions, as labeled or in the IFU (if applicable) – to include temperature range, needs to be refrigerated, relative humidity range, pressure range, avoid direct sunlight;
-  16. Handling conditions (if different than storage conditions), on the label or in the IFU (if applicable) – to include temperature range, needs to be refrigerated, relative humidity range, pressure range, avoid direct sunlight;
-  17. Labeled as single use? (Yes/No);
-  18. Packaged sterile? (Yes/No);
-  19. Need for sterilization before use? (Yes/No) – _if yes, then the method of sterilization should be indicated_ ;
-  20. Restricted number of reuses (if applicable);
-  21. License and/or marketing authorization or registration number (if required by the relevant regulatory authority)
-  22. URL for additional information, e.g. electronic IFU (optional);
-  23. Critical warnings or contraindications (as labeled) – if a particular regulation requires that the label of the device contains a critical warning or contraindication associated with the use of the device 
-  24. [e.g.: Labeled as containing latex? (Yes/No),
-  25. Labeled as containing DEHP? (Yes/No)
-  26. Labeled as MRI compatible? (Yes/No).]
-  27. Date of discontinuance (referring to devices no longer placed on the market).
+UDID 包含与特定医疗设备相关的标识信息和其他元素。
 
-# 10\. Rules for specific device types
+# 6\. UDI 系统的指导
 
-##  _10.1 Implantable devices[4]_
+一个 UDI 系统由 3 个部分组成：
 
-Implantable devices should follow the rules listed below:
+1. 使用全球认可的标准开发 UDI（参见第 7 节），
 
-  1. All unit packs of implantable devices (lowest level of packaging) need to be identified/AIDC   
-marked with an UDI (UDI-DI + UDI-PI);
+2. 将该 UDI 应用于标签上（参见第 8 节），以及
 
-2\. PI should have the following characteristics: 
+3. 向 UDID 提交适当的信息（参见第 9 节）。
 
-  1. serial number for active implantable devices,
-  2. serial number for other implantable devices or lot number according to the manufacturer's   
-quality management system;
+为了促进 UDI 的全球统一应用，必须：
 
-3\. The UDI of the implantable device must be identifiable prior to implantation. For example:   
-tear-away tag bearing the UDI, peel-off labels bearing the UDI affixed to autoclave box   
-holding the implantable device.
+1. UDI 的标记应作为额外的要求，它不应取代任何其他
 
-## _10.2 Reusable devices requiring reprocessing between uses_
+标记或标签要求。但是，UDI 应该取代根据当地法规使用的任何现有的医疗设备标识符，并且具有与 UDI 系统相同的目的；
 
-  1. The UDI of these products shall be on the device and be readable after each reprocessing;
-  2. PI characteristics (e.g. lot or serial number) shall be defined by the manufacturer according   
-to the manufacturer's quality management system;
+2. 制造商应在全球范围内创建和维护其医疗
 
-## _10.3 Non IVD kits_
+设备；
 
-  1. The manufacturer of the Kit is responsible for identifying the Kit with a UDI including both UDI-DI and UDI-PI;
-     1. Orthopedic procedure trays whose contents are configured for a specific order are exempted from this UDI requirement. 
+3. 只有制造商才能在设备或其包装上建立 UDI（唯一识别码）。 重新加工者
 
-Example: a hospital orders 30 different orthopedic devices for total joint replacement surgery. The 30 devices are delivered to the hospital in a stainless steel box where the devices can be stored and sterilized by the hospital when needed. After a procedure the hospital may replace used parts and re-sterilize the box with its contents;
+包括一次性医疗器械、再制造商、再包装商和自有品牌/私自品牌制造商，
+这些机构被视为对重新加工、再制造或再包装的医疗器械的制造商，因此，
+这些机构也必须遵守这些要求。
 
-  1. Medical device contents of Kits should have a UDI Carrier on their packaging or on the device itself.
+4. 采用全球组织（如）实施的全球认可的 ISO/IEC 编码标准
 
-_Exemptions_ :
+GS1、HIBCC和ICCBA，符合UDI的要求，制造商可以自行选择使用哪种系统。这些组织有责任维护其编码系统的全球唯一性。这些编码系统必须被采用和实施，而不得出现任何国家层面的偏差或修改；必须 discourage 各种编码系统的泛滥。
 
-  1. Individual single-use disposable medical devices within a Kit, whose uses are generally known to the persons by whom they are intended to be used, and which are not intended for individual use outside the context of the Kit do not require their own UDI Carrier.
+5. 国家或地区法规要求不应限制 AIDC 的方法，因为这会
 
-Example: an unpackaged sterile syringe within a sterile Kit cannot be used for another procedure due to the lack of a sterile barrier once removed from the Kit;
+阻碍建立一个全球统一的UDI系统；
 
-  1. Medical devices that are normally exempted from having a UDI Carrier on the relevant level of packaging do not need to have a UDI Carrier when placed within a Kit.
-  2. Placement of the UDI Carrier on Kits:
-  3. The Kit UDI Carrier is generally affixed to the outside of the packaging;
-  4. The UDI must be readable or in the case of AIDC scan able, whether placed on   
-the outside of Kit package or inside a transparent package.
+6. 针对 UDI 系统的国家/地区法规应包括一个健全且透明的
 
-## _10.4 IVD Kits_
+机制用于评估和裁决关于 UDI 豁免的申请，尤其是在 UDI-DI 和 UDI-PI 的替代性放置中。 这样的豁免应涵盖具有相同特征的所有产品。
 
-IVD kits should follow the rules listed below:
+7. UDI 系统监管机构应指定某些符合标准的豁免
 
-  1. The manufacturer of the IVD Kit is responsible for identifying it with a UDI including both UDI-DI and UDI-PI,
-  2. Medical device contents of IVD Kits should have a UDI Carrier on their packaging or on the device itself,
-     1. The IVD Kit is a device and all aspects of this guidance that is relevant apply to it. If an IVD Kit does not include any components which on their own are considered medical devices the only UDI is the UDI of the kit itself;
-     2. Reagents used in automated systems bear barcodes necessary for their handling and identification by the automated systems. This does not constitute a UDI;
-     3. Individual single-use medical devices packaged within an IVD Kit, whose uses are generally known to the persons by whom they are intended to be used, and which are not intended for individual use outside the context of the IVD Kit do not require their own UDI Carrier;
-     4. Medical devices that are normally exempted from having a UDI Carrier on the relevant level of packaging do not need to have a UDI Carrier when placed within an IVD Kit.
-  3. Placement of UDI on IVD Kits:
-     1. The IVD Kit UDI is generally affixed to the outside of the packaging;
-     2. The UDI must be readable or in the case of AIDC scan able, whether placed on the outside of the IVD Kit package or inside a transparent package.
+例如，UDI 规定的实验性设备和定制设备；
 
-## _10.5 Configurable medical device systems_
+8. 常见的认可标准包括：
 
-For configurable medical device systems the rules listed below should be followed:
+9. 所使用的UDI必须符合全球统一UDI的要求。
 
-  1. A UDI is allocated to the entire, configurable medical device system and is called the System   
+系统能够充分识别设备，通过其分销渠道。
+
+10. 所使用的UDI符合全球认可的标准 ISO/IEC 15459-2、ISO/IEC 15459-4 和 ISO 15459-6。
+11. 所使用的UDI将以一套统一、公平和合理的条款和条件向所有用户提供。
+
+为了满足本指南的公共卫生目标，并确保医疗器械用户、医疗服务提供者、监管机构和其他相关方能够高效且有效地利用UDI系统，可能需要限制被认可的全球组织和可用的编码系统的数量。
+
+7\. UDI
+
+1. 必须为设备本身或其包装分配一个 UDI。包装等级越高，其包装应具有自己的 UDI。
+
+2. 运输容器应免于要求。例如，在物流单元上，不应使用UDI。当医疗服务提供商使用UDI或单个医疗设备的型号订购多个医疗设备，并且制造商将这些设备放入容器中进行运输或保护单个包装的设备时，该容器（物流单元）不应符合UDI的要求。
+
+3. UDI包含两个部分：UDI-DI和UDI-PI。
+
+4. 医疗器械包装的所有级别上，UDI-DI（例如，GS1 GTIN、HIBC-LIC、ISBT-PPIC）应具有全球唯一性。
+
+5. 如果标签上出现批号、序列号、软件版本或有效期，则应将其包含在 UDI-PI 中。如果标签上还包含生产日期，则无需将其包含在 UDI-PI 中。如果标签上仅包含生产日期，则应将其作为 UDI-PI。
+
+6. 当设备在“使用单位”级别未分配 UDI 时，应分配 UoU UDI-DI，以将设备的使用与患者关联。例如，当电极以 10 个装在一个包装中分发时，应分配 UoU UDI-DI，并且该 10 个装的包装应分配最低级别的 UDI。
+
+7. 任何被认为是医疗设备、且可商业销售的组件、子系统或附件，都需要单独的 UDI，除非这些组件是用于便利、医疗程序、体外诊断（IVD）套件或可配置的医疗设备系统的一部分，并且这些系统已标记为自己的 UDI。
+
+8. 套件应具有自己的 UDI。
+
+9. 制造商根据相关编码标准，将 UDI 分配给设备。
+
+10. 任何以下UDID数据元素的变化都决定是否需要新的UDI-DI：
+  11. 品牌名称，
+  12. 医疗器械型号或版本，
+  13. 临床尺寸（包括体积、长度、规格、直径），
+  14. 标示为一次性使用，
+  15. 包装为无菌，
+  16. 使用前需要进行灭菌，
+  17. 包装中医疗器械的数量，
+  18. 关键警告或禁忌：例如含有乳胶或DEHP。
+  19. 至少，每当存在可能导致医疗器械被错误识别以及/或其可追溯性不明确的变化时，都需要新的UDI-DI。
+  20. 一次性医疗器械的再加工者、再制造者、自有品牌/私营品牌制造商应为重新加工、再制造或重新标记的医疗器械创建新的UDI，该UDI将取代OEM的UDI（如果存在）。
+  21. 一次性医疗器械的再加工者、再制造者、私营品牌制造商应保留原始设备制造商（OEM）的UDI记录。
+  22. 如果标签需要显示或修改UDI-DI，则不应（本身）需要提交上市前申请和/或重新注册。制造商可能需要通知/告知监管机构。
+
+# 8\. UDI 载体
+
+1. UDI 载体（AIDC和HRI对UDI的表示）应在标签上或在医疗器械本身以及所有更高层级的医疗器械包装上。更高层级不包括运输容器。
+
+2. 如果UoU包装空间有限，UDI载体可以放置在下一个更高层级的包装上。
+
+3. 对于风险等级为A和B的单一使用医疗器械，如果已单独包装并贴有标签，则不需要在包装上使用UDI，而应在更高层级的包装上使用，例如纸箱。但是，如果医疗服务提供者无法获得更高层级设备包装（例如，家庭医疗设置），则应在设备包装上使用UDI。
+
+4. 仅供零售销售的非处方医疗器械，不需要在销售点包装上编码生产标识。
+
+5. 监管机构不应要求特定的AIDC方法。应使用全球认可的基于ISO标准的AIDC方法，这些方法已被全球组织（例如GS1、HIBCC或ICCBA）采用。
+
+6. RFID应符合开放、可商业使用的国际标准，例如ISO 17366:2013《供应链中RFID的应用——产品包装》，并且应具有中立性。
+
+7. 当除了UDI载体之外的其他AIDC载体是产品标签的一部分时，应能够清晰识别UDI载体。
+
+8. 如果使用线性条形码，UDI-DI和UDI-PI可以在两个或多个条形码中连接或不连接。所有线性条形码的各个部分和元素应可区分且可识别。
+
+9. 如果标签上存在显著的限制，从而限制了AIDC和HRI的使用，则应优先使用AIDC格式。但是，某些环境或使用情况，例如家庭护理，可能需要使用HRI而不是AIDC。
+
+10. HRI格式应遵循UDI编码发布机构的规则。
+  11. 在RFID的情况下，应同时在标签上提供线性或2D条形码。
+  12. 可重复使用的医疗器械应在设备本身上使用UDI载体。
+
+UDI 载体，用于需要在患者之间重复使用的可重复使用的医疗设备，应在重复处理周期后保持永久性和可读性，直至设备的预期寿命。制造商可能决定，由于尺寸、设计、材料、处理或性能问题，在某些设备上可能无法实现或不必要。
+
+1. UDI 载体应在正常使用和医疗设备预期寿命期间都可读。
+
+2. 如果 UDI 载体可以通过医疗设备的包装轻松读取，则 UDI 载体也不需要在包装上。
+
+3. 由多个部件组成的单个成品医疗设备，这些部件需要组装，UDI 载体可能仅在其中一个部件上。
+
+4. 应以一种方式放置 UDI 载体，以便在正常操作或存储期间可以访问 AIDC 方法。
+
+5. 包含 UDI 数据标识符“DI”和“PI”的条形码载体，还可能包含医疗设备运行所需的其他重要数据。 UDI 颁发机构通过应用程序标识符或标志字符来识别这些数据元素。 监管机构不应限制 UDI 载体的仅限于“DI”和/或“PI”数据的使用，而是应允许使用其他相关数据。
+
+示例：
+
+GS1 通用规范允许公司使用应用程序标识符 (91) 到 (99)。 制造商可以使用此数据作为设备或 IVD 分析仪的激活密钥。 一个 GS1 条形码可以包含 (01) GTIN (17) 截止日期 (10) LOT (91) 内部设备激活密钥。 设置为 GS1 模式的标准扫描仪将解析 4 个数据元素。 (01) 是静态的 DI，(17) 和 (10) 是动态的 PI 数据。
+
+它们可以上传到医院的库存系统。 (91) 将被 MMIS 系统忽略，但如果该产品被投入使用，这些 AI 数据可能会激活医疗设备。
+
+# 9\. UDI 数据库 (UDID)
+
+# _9.1 UDID 的一般原则_
+
+1. UDID 必须支持所有核心 UDID 数据元素的用法。
+
+2. 任何产品相关的商业保密信息不得包含在 UDID 中。
+
+3. 制造商负责提交和更新 UDID 中的标识信息和其他医疗设备的数据元素。
+
+4. 必须实施适当的方法/程序来验证提供的“数据”。
+
+5. 制造商应定期确认与他们医疗设备相关的所有数据，但对于已停产的医疗设备除外。
+
+6. UDID 中的核心数据元素应向公众免费提供。
+
+7. 医疗设备 UDI-DI 在 UDID 中存在，并不意味着该医疗设备在所有司法管辖区都已获得批准。
+
+8. 数据库应允许将医疗设备的所有包装级别链接起来。
+
+9. 针对新 UDI-DI 的数据必须在医疗设备上市时提供。
+
+10. 制造商应在更改不要求新UDI-DI的元素后，在30天内更新相关的UDID记录。
+  11. UDID应使用HL7结构化产品标签（SPL）标准进行数据提交和更新。 还可以容纳其他提交方式。
+  12. 核心元素是用于通过分销和使用识别医疗器械的最小元素。 区域或国家级的UDID可能包含额外的元素；这些额外的元素应尽量减少。
+  13. UDID的设计应支持在医疗器械投放市场的地方所需的官方语言。 尽量减少使用自由文本字段，以减少语言翻译的负担。
+  14. 与已停产的医疗器械相关的数据应保留在UDID中。
+
+# _9.2 核心UDID数据元素_
+
+所有核心UDID数据元素都是强制性的，除非标明“可选”。 “如果适用”意味着如果该信息在标签上，则必须包含在UDID中。
+
+UDID的数据元素及其定义如下：
+
+1. 对于每个包装级别，应提供以下信息（适用于整个包装层次）：
+
+* UDI-DI（UDI类型，例如GS1 GTIN、HIBC-LIC、ISBT-128 PPIC）；
+
+* 包装内数量：（例如，每个、10个、5个包装盒）；
+
+* 额外的设备标识（如果适用），例如GS1、HIBC或ISBT-128；
+
+1. 包装内使用的UDI-DI（参见第7.6节）代码；
+
+2. 制造商名称（如果适用）；
+
+3. 制造商地址（如果适用）；
+
+4. 制造商的客户服务联系方式（特定于国家/地区，可能有多条）；（如果适用）
+
+5. 授权代表的姓名（负责医疗设备的区域代表）（特定于国家/地区，可能有多条）（如果由当地/区域监管机构要求）（参见GHTF/SG1/N55:2009）；
+
+6. 授权代表的联系方式（特定于国家/地区，可能有多条）；
+
+7. 全球医疗设备命名法（GMDN）首选代码/术语（在提交UDI时有效）；
+
+8. 品牌名称（如果适用）；
+
+9. SaMD版本；
+
+10. 医疗器械型号或版本；（见第 10.6 节）
+  11. 参考号/目录号（如果适用）；
+  12. 医疗器械的控制方式：序列号、批号/批量号、或/以及有效期（或生产日期）或软件版本或软件发布日期或 ISBT-128 – 复选框（如果适用）；
+  13. 临床尺寸（包括体积、长度、规格、直径）（如果适用）（例如：8F导管）；
+  14. 附加产品描述（可选）– 附加的临床相关信息，例如：具有放射性；
+  15. 存储条件，如标签或在说明书中（如果适用）– 包括温度范围、需要冷藏、相对湿度范围、压力范围、避免阳光直射；
+  16. 处理条件（如果与存储条件不同），在标签或说明书中（如果适用）– 包括温度范围、需要冷藏、相对湿度范围、压力范围、避免阳光直射；
+  17. 标签上标明为一次性使用？（是/否）；
+  18. 包装是否为无菌？（是/否）；
+  19. 是否需要在使用前进行灭菌？（是/否）– _如果是，则应注明灭菌方法_；
+  20. 允许的重复使用次数（如果适用）；
+  21. 许可证/营销授权或注册号（如果由相关监管机构要求）
+  22. 附加信息的 URL，例如：电子说明书（可选）；
+  23. 关键警告或禁忌（如标签所示）– 如果特定法规要求医疗器械标签必须包含与医疗器械使用相关的关键警告或禁忌
+  24. [例如：标签上标明含有乳胶？（是/否）]
+  25. 标签上标明含有 DEHP？（是/否）
+  26. 标签上标明是否与 MRI 兼容？（是/否）]
+  27. 停用日期（指不再上市的医疗器械）
+
+# 10\. 特定医疗器械类型的规定
+
+##  _10.1 植入式医疗器械[4]_
+
+植入式医疗器械应遵循以下规定：
+
+1. 所有植入式医疗器械的包装单元（最低包装级别）需要进行识别/AIDC
+
+带有UDI（UDI-DI + UDI-PI）标识；
+
+2\. 性能指标 (PI) 应具有以下特征：
+
+1. 活体植入式设备的序列号
+
+2. 按照制造商的规定，其他可植入设备或批号
+
+质量管理体系;
+
+3\. 植入式设备的UDI必须在植入前可识别。例如：
+带有UDI的易撕标签，附着在装有植入式设备的自封盒上的标签。
+
+## 10.2 适用于在不同使用之间需要重新处理的可重复使用设备
+
+1. 这些产品的UDI应在设备上，并在每次重新加工后都可读取。
+
+2. 产品标识（例如：批号或序列号）应由制造商定义。
+
+向制造商的质量管理体系；
+
+## 10.3 非体外诊断试剂
+
+1. 医疗器械套装的制造商负责为套装标识一个UDI，包括UDI-DI和UDI-PI；
+
+1. 适用于特定订单配置的骨科手术器械托盘，其内容不受本 UDI 要求的约束。
+
+例如：一家医院订购了 30 种不同的骨科器械，用于全关节置换手术。这 30 种器械被装在不锈钢箱中送达医院，医院可以在需要时将这些器械存储和进行消毒。在手术后，医院可以更换使用过的部件，并重新对箱子及其内容进行消毒。
+
+1. 医疗器械的套装内容应在包装或设备本身上带有UDI载体。
+
+_免除_：
+
+1. 套装内的单个一次性医疗器械，这些器械的使用通常由其预期使用者所知，并且不打算单独在套装之外使用，不需要单独的UDI载体。
+
+例如：从套装中取出的未包装的无菌注射器，由于缺乏无菌屏障，不能用于其他程序；
+
+1. 通常不需要在相关包装上贴有UDI载体的医疗器械，在套装内放置时也不需要贴有UDI载体。
+
+2. 套装上的UDI载体放置：
+
+3. 套装的UDI载体通常粘贴在包装的外部；
+
+4. UDI必须可读，或者如果可以进行AIDC扫描，无论是否在
+
+套装的外部或透明包装内放置。
+
+## _10.4 IVD套装_
+
+IVD套装应遵循以下规则：
+
+1. IVD套装的制造商负责用UDI标识套装，包括UDI-DI和UDI-PI；
+
+2. IVD套装的医疗器械内容应在包装或设备本身上带有UDI载体；
+
+1. IVD套装是一个设备，本指南的所有相关内容均适用于该设备。如果IVD套装不包含任何单独被认为是医疗器械的组件，则只有套装本身的UDI；
+
+2. 用于自动化系统的试剂，应具有必要的条形码，以便由自动化系统进行处理和识别。这不构成UDI。
+
+3. 包含在 IVD 套装内的单一用途医疗器械，其用途通常由其预期使用者所知，并且不打算仅在 IVD 套装的外部使用，不需要单独的 UDI 载体；
+
+4. 通常免于在相关包装层上需要 UDI 载体的医疗器械，当放置在 IVD 套装内时，也不需要 UDI 载体。
+
+3. 将 UDI 放置在 IVD 套装内的方法：
+
+1. IVD 试剂盒的 UDI 通常粘贴在包装的外部；
+
+2. UDI 必须清晰可见，或者如果采用 AIDC 扫描，则无论是否在 IVD 套装的外部包装或透明包装内，都必须能够扫描。
+
+## 10.5 可配置的医疗器械系统
+
+对于可配置的医疗设备系统，应遵循以下规定：
+
+1. UDI（唯一标识）分配给整个可配置的医疗设备系统，并称为“系统”。
+
 UDI.
-  2. The system UDI-DI is allocated to defined groups of configurations, not per configuration   
-within the group. A group of configurations is defined as the collection of possible   
-configurations for a given product line as described in a regulatory file. 
-  3. A system UDI-PI is allocated to each individual system. A later change of a component, sub-  
-systems or accessory of the system does not change the UDI-PI of the system.
-  4. The carrier of the System UDI should be put on the assembly that most likely does not get   
-exchanged in its lifetime and should be identified as the System UDI. 
 
-Each component, sub-system or accessory that is considered a medical device and a   
-distributed or supplied unit needs a separate UDI;
+2. UDI-DI 系统被分配给已定义的配置组，而不是针对单个配置。
 
-6\. A new UDI-DI is required when the activities performed results in modifications to a   
-previously marketed device intended for resale leads to a new medical device. 
+在组内。一个配置组被定义为，按照法规文件描述的，针对特定产品线的可能配置的集合。
 
-7\. A new UDI-DI is not required when the activities performed do not result in a   
-change/modification in performance, safety and/or intended use, of a previously marketed   
-device intended for resale. The activities shall be performed in accordance with the   
-manufacturer’s instructions.
+3. 每个独立系统都会分配一个唯一的 UDI-PI。如果某个组件或子系统发生后续变更，
 
-_10.6 Software as a Medical Device (SaMD)_
+系统或系统的附件不会改变系统的UDI-PI。
 
-****_10.6.1 UDI Assignment Criteria_
+4. 包含系统 UDI 的载体应安装在最可能不会接触到
 
-The UDI should be assigned at the system level of the Software as a Medical Device (SaMD). 
+在产品使用寿命内会更换，应被标识为系统UDI。
 
-The version number of the SaMD is considered the manufacturing control mechanism and should be displayed in the UDI-PI.
+每个被认为是医疗器械，并且是分发或提供的组件、子系统或附件，都需要一个单独的UDI；
 
-The following change of a SaMD would require a new UDI-DI:
+6\. 当执行的活动导致先前上市的设备发生修改，并且这些修改使该设备重新用于销售，从而产生一个新的医疗器械时，则需要生成一个新的UDI-DI。
 
-  * Major SaMD revisions shall be identified with a new UDI-DI;
+7\. 如果所执行的活动不导致先前上市的、用于再销售的医疗器械的性能、安全和/或预期用途发生变化/修改，则无需生成新的UDI-DI。 必须按照制造商的说明执行这些活动。
 
-Major SaMD revisions are meant as complex or significant changes affecting
+_10.6 软件为医疗器械 (SaMD)_
 
-  1. the original performance and effectiveness,
-  2. the safety or the intended use of the SaMD,
+****_10.6.1 UDI 赋值标准_
 
-These changes may include new or modified algorithms, database structures, operating platform, architecture or new user interfaces or new channels for interoperability. 
+UDI 应在软件为医疗器械 (SaMD) 的系统级别上进行赋值。
 
-The following change of a SaMD would require a new UDI-PI (not a new UDI-DI), 
+SaMD 的版本号被认为是制造控制机制，应显示在 UDI-PI 中。
 
-  * Minor SaMD revisions shall be identified with a new UDI-PI;
+以下 SaMD 的变更需要新的 UDI-DI：
 
-Minor SaMD revisions are generally associated with bug fixes, usability enhancements (not for safety purpose), security patches or operating efficiency.
+* 重要的 SaMD 变更应使用新的 UDI-DI 进行标识；
 
-Minor revisions shall be identified by manufacturer-specific identification methods (e.g. version, revision number, serial number, etc…) 
+“重要的 SaMD 变更”是指对以下内容产生复杂或重大影响：
 
-****_10.6.2 UDI Placement Criteria_
+1. 原始的性能和有效性，
 
-  1. When the SaMD is delivered on a physical medium, e.g. CD or DVD, each package level shall bear the human readable and AIDC representation of the complete UDI. The UDI that is applied to the physical medium containing the SaMD and its packaging must be identical to the UDI assigned to the system level SaMD. 
-  2. UDI should be provided on a readily accessible screen by the user in an easily-readable plain-text format (e.g. an “about” file or included on the startup screen).
-  3. The SaMD lacking a user interface (e.g. middleware for image conversion) must be capable of transmitting the UDI through an Application Programming Interface (API).
-  4. Only the human readable portion of the UDI is required in electronic displays of the SaMD. The UDI AIDC marking needs not be used in the electronic displays, e.g. about menu, splash screen, etc…; i.e. SaMD not being distributed by the use of physical data carriers (CDs, DVDs or similar) will not carry an AIDC.
-  5. The human readable format of the UDI for the SaMD should include the Application Identifiers (AI) for GS1, and Flag Characters for HIBC, to assist the end user in identifying the UDI and determining which standard is being used to create the UDI. 
+2. SaMD 的安全或预期用途。
 
-**11\. Annex**
+这些变更可能包括新的或修改后的算法、数据库结构、操作系统、架构或新的用户界面或新的互操作通道。
 
-**Category**| **Unpacked UoU** 🡪 Direct Part Marking (DPM)| **Base****Package**| **Bulk Package** Higher package configuration| **Remarks**  
----|---|---|---|---  
-**Single-use MD**|  | | |   
+以下 SaMD 的变更需要新的 UDI-PI（而不是新的 UDI-DI）：
 
-  * IMDRF class A (low-risk)
+* 较小的 SaMD 变更应使用新的 UDI-PI 进行标识；
+
+“较小的 SaMD 变更”通常与错误修复、可用性增强（不用于安全目的）、安全补丁或操作效率相关。
+
+较小的变更应使用制造商特定的标识方法（例如版本号、修订号、序列号等）进行标识。
+
+****_10.6.2 UDI 放置标准_
+
+1. 当 SaMD 交付在物理介质上时，例如 CD 或 DVD，每个包装级别都应包含完整的 UDI 的可读和 AIDC 表示。 包含 SaMD 和其包装的物理介质上应用的 UDI 必须与系统级别的 SaMD 相同的 UDI 相同。
+
+2. UDI应以用户易于阅读的纯文本格式（例如“关于”文件或在启动屏幕上）显示在易于访问的屏幕上。
+
+3. 缺乏用户界面的 SaMD（例如图像转换中间件）必须能够通过应用程序编程接口 (API) 传输 UDI。
+
+4. 仅需要 SaMD 电子显示中的 UDI 的可读部分。 SaMD 不需要使用 AIDC 标记，例如“关于”菜单、启动屏幕等。也就是说，如果 SaMD 不通过物理数据载体（CD、DVD 等）分发，则不会包含 AIDC。
+
+5. SaMD 的可读 UDI 格式应包括 GS1 的应用程序标识符 (AI) 和 HIBC 的标志字符，以帮助最终用户识别 UDI 并确定正在使用哪个标准创建 UDI。
+
+**11\. 附录**
+
+**类别**| **未包装的 UoU** ➡️ 直接标记 (DPM)| **基础****包装**| **大包装** 较高包装配置| **备注**
+---|---|---|---|---
+**一次性医疗器械**|  | | |
+
+* IMDRF 等级 A（低风险）
 
 | -| -| DI + PI| 
 
-  * Flexibility on possible exemption for PI
+* 允许对 PI 的可能的豁免
 
-  * IMDRF class B (medium-r.)
+* IMDRF 等级 B（中等风险）
 
 | -| -| DI + PI|   
 
-  * IMDRF classes C+D (high-r.)
+* IMDRF 等级 C+D（高风险）
 
 | -| DI + PI| DI + PI|   
-**Reusable MD**| | | | 
+**可重复使用医疗器械**| | | |
 
-  * Require reprocessing between uses
+* 需要在每次使用后进行重新处理
 
-  * All risk-classes 
+* 所有风险等级
 
 | DI + PI| DI + PI| DI + PI| 
 
-  * Not all package levels necessarily exist, e.g.: surgical instruments, intravenous (IV) infusion pumps.
+* 并非所有包装级别都存在，例如：手术器械、静脉注射 (IV) 泵。
 
-**Implantable MD**| | | | 
+**植入式医疗器械**| | | |
 
-  * PI = Serial number for active implants
+* PI = 活体植入物的序列号
 
-  * Sterile
+* 无菌
 
 | -| DI + PI| DI + PI| 
 
-  * Usually single packed (1 piece)
+* 通常为单件包装（1 件）
 
-  * Non-sterile
+* 非无菌
 
 | Must be identifiable| DI + PI| DI + PI| 
 
-  * Often multiple packed ("n" pieces)
-  * Not necessarily DPM, other technological options allowed to identify the unpacked MD
+* 经常是多个包装好的（“n”个）
 
-**Others**|  |  |  |   
+* 不一定需要使用DPM，允许使用其他技术来识别未包装的医疗器械
 
-  * Kits (IVD / non-IVD)
+**其他**| | | |
+
+* 套件（体外诊断/非体外诊断）
 
 | -| DI + PI| DI + PI| 
 
-  * Concerns the kit package itself
+* 涉及套件本身的包装
 
-  * SaMD
+* SaMD
 
 | DI + PI| DI + PI| -| 
 
-  * Must not necessarily be packed 
+* 不一定需要包装
 
-  * Configurable MD Systems
+* 可配置的医疗器械系统
 
 | DI + PI| -| | 
 
-  * AIDC carrier to be placed on a ‚main part‘ 
+* AIDC 载体放置在“主要部件”上
 
-(primary mode of action)  
+(主要作用方式)
 
-  * OTC exclusively
+* 仅限非处方药
 
 | -| -| DI (linear bar code)| 
 
-  * Point-of-Sale scanners can‘t work with PI
+* 销售点扫描仪不能与PI配合使用
 
-  * OTC + other channels
+* 非处方药 + 其他渠道
 
 | -| -| DI + PI (non-concatenated)| 
 
-  * PI should be presented in a separate AIDC carrier due to Point-of-Sale scanners
+* 考虑到销售点扫描仪，PI应放置在单独的AIDC载体中
 
-  1. In the case of medical devices containing medical products of human origin, the traceability chain must, for purposes of vigilance, begin with the donor, and trace the human material through all of its processing steps. For these kind of devices the ISBT 128 system has been developed to ensure a complete traceability chain from donor to patient as required for medical devices containing medical products of human origin.
+1. 对于含有人类来源的医疗产品的医疗器械，为了进行监测，追溯链必须从捐赠者开始，并追溯人体材料在所有加工步骤中的流动。对于这种类型的医疗器械，已开发出ISBT 128系统，以确保从捐赠者到患者的完整追溯链，这符合含有人类来源的医疗产品的医疗器械的要求。
 
 . ↑
 
-  2. The term “person” that appears here includes legal entities such as a corporation, a partnership or an association. ↑
+2. 这里出现的“人”一词包括法人，如公司、合伙或协会。 ↑
 
-  3. Because of their nature, the Unit of Use is not appropriate to _in vitro_ diagnostic medical devices. ↑
+3. 由于其性质，试管诊断医疗器械不适合使用“使用单位”。 ↑
 
-  4. For the definition refer to GHTF SG1/N77:2012. ↑
+4. 参见GHTF SG1/N77:2012的定义。 ↑
 
 
 <!-- fulltext-end -->

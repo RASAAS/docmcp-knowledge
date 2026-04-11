@@ -10,13 +10,17 @@ title: Playbook for Medical Device Regulatory Reliance Programs
 [https://www.imdrf.org/documents/playbook-medical-device-regulatory-reliance-programs](https://www.imdrf.org/documents/playbook-medical-device-regulatory-reliance-programs)
 :::
 
+::: info
+This content has been machine-translated from the English original.
+:::
+
 <!-- fulltext-start -->
 
 ---
 
 ## 全文
 
-# Playbook for Medical Device Regulatory Reliance Programs
+# 医疗器械监管依赖项目指南
 
 **Document Number**: IMDRF/GRRP WG/N89
 
@@ -24,825 +28,991 @@ title: Playbook for Medical Device Regulatory Reliance Programs
 
 ---
 
-Final Document  
+最终文档
+
 ---  
-IMDRF/GRRP WG/N89 FINAL: 2026  
-Playbook for Medical Device Regulatory Reliance Programs  
-Authoring Group  
-Good Regulatory Review Practices02 February 2026  
+IMDRF/GRRP WG/N89 最终版：2026
+医疗器械监管依赖项目指南
+编写组
+良好的监管审查实践 2026年2月2日
 
-Preface
+前言
 
-© Copyright 2026 by the International Medical Device Regulators Forum. 
+© 2026年国际医疗器械监管论坛 版权所有。
 
-This work is copyright. Subject to these Terms and Conditions, you may download, display, print, translate, modify and reproduce the whole or part of this work for your own personal use, for research, for educational purposes or, if you are part of an organization, for internal use within your organization, but only if you or your organization do not use the reproduction for any commercial purpose and retain all disclaimer notices as part of that reproduction. If you use any part of this work, you must include the following acknowledgement (delete inapplicable): 
+本作品受版权保护。在遵守本条款和条件的前提下，您可以下载、显示、打印、翻译、修改和复制本作品的全部或部分，用于您个人的使用、研究、教育目的，或如果贵方是组织，则用于组织内部使用，但前提是您或您的组织不得将复制用于任何商业目的，并且保留所有免责声明，作为复制的一部分。如果您使用本作品的任何部分，必须包含以下声明（删除不适用的内容）：
 
-“[Translated or adapted] from [insert name of publication], [year of publication], International Medical Device Regulators Forum, used with the permission of the International Medical Device Regulators Forum. The International Medical Device Regulators Forum is not responsible for the content or accuracy of this [adaption/translation].” 
+“[翻译或改编]自[插入出版物名称]，[出版年份]，国际医疗器械监管论坛，经国际医疗器械监管论坛授权使用。国际医疗器械监管论坛不对本[改编/翻译]的内容或准确性负责。”
 
-All other rights are reserved and you are not allowed to reproduce the whole or any part of this work in any way (electronic or otherwise) without first being given specific written permission from IMDRF to do so. Requests and inquiries concerning reproduction and rights are to be sent to the IMDRF Secretariat. 
+除上述内容外，所有其他权利均保留，未经IMDRF事先书面许可，您不得以任何方式（包括电子方式）复制本作品的全部或任何部分。有关复制和版权的请求和咨询应发送给IMDRF秘书处。
 
-Incorporation of this document, in part or in whole, into another document, or its translation into languages other than English, does not convey or represent an endorsement of any kind by the IMDRF. 
+将本文件（部分或全部）纳入其他文档，或将其翻译成其他语言，并不代表IMDRF的认可。
 
 ![IMDRF Chair signature](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCACAAI0DASIAAhEBAxEB/8QAGwABAAMBAQEBAAAAAAAAAAAAAAEFBgQCAwf/xAA1EAABBAECBAQEAwgDAAAAAAABAAIDBAUGERIhMUETFCJRIzJhcRVD0QcWQlKBobHBcpHx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AP39ERAREQEREBERARFDjsglFkP3it5HVzMbjWg1YOdl+y146ICIiAiIgIiICIiAiIgIiIPlYsRVa755nBsbBu4nsFFazFbrR2IX8ccg4mkdwsvry8YcUymzbisvDSPcf+q/w9U0cRVrkAGOJoI+u3NB3FY3V2pZ4Z48Hh2GbJ2Rt6efhj3K6tZao/AqTYKjfFydn014hzO/uqCvRfo3A2MxkZRPm7vR7v4SegH23QXuj8dSxEE9Blhs+RB8S07qdz/pasdFjNK026dwzr+YmbHauvD5HPPME9GrYtcCDsQg9KHODRuSAB7rM6k1lTwErIXRunmd+Ww81xyXbclOTLZrenSZ6oq3F6ncuQP3QbBkrJBux4cOnIr2s9pWtJHihalDmGy7xRG7owHp/ZaFAREQEREBERAUE7AqVS6pyzMPgbNknZ/CWs/5HkEGV8wNVa+bGxu9LHj179C4H9Vr83ma+CxcluwQOEelv8x9lQ6AxYxWmvO2XfHtkzyuJ6DnsqmMSa61M2RwP4RRPL2e4f5QdGksLYyF6TVGZBM0hLq8bvy2++y4fNt1hrCSw5+2GxRO5PyvI/VWmuM5JDDDp7FHivXdowG/ls9ysnkZa2Jx7dM0puGCL4mRst6Od3aP7hB1ZLOSZnJsvysJqROLKFU/nSdA4/QFXdjLTaTwYjmldPm7zuPg334XH6ey4cBSlIjzlmv63ejHVduTB2cV239C5HIRR3TdaMo6QPcX82saOjQg5bmnadHDfiOXvSjJSnxeNnzA+wC4tH1buqctNPk7E81GmQWMe7YOf2/wvtqGJmlMYfN35cjlLQLWOlO4jb3ICvdIsrx4ypjqEhkEkQs2Z++5PT/SData0NaG7bAbD7L0oaAGADoApQEREBERARE3QQVhMs/96NYV8U3d1Ol8SfY8ieyvNS59mKpuZGd7D2nhA7fVZ2hYi0fpGfLWdn3bZL2k/M9x6BB9dX5Oa5ar6Vw+3mJtvGe3pCxdmQu4/QWlo4YgHStbtG3u938xXBpms3T2HsagzT9710+I7fm4NPMNCzeqaGYyvgZOWtNIZ5tooWDfhZ23+6D4Vp7OKoT6ituEmVuAiMu5iFp7/wBV04XR1jNYOKxDIY5zN4kksrdxJ9h3AW/xOCEmNiOWrQvmLAPC8McLAOg+/wBVfxxMjYGMaGtaNgANgEFRhME3Fxh807rNkjm93Rv0aOwV1spRBgf2pNrswUQ8qJbUsgjicG7lo7q10RiJsZg4nWhtYkA3G23C0dAtJNXinDRLGx/CdxxNB2K+jRsEAdApREBERAREQFV5rMVsLQfatO2aOTW93O9grRUmbxVK34V276vKHxGBx9G/1HdBk2VreWzNWS20iWU+LKO0UfYH+iqtY3pL2ZpTR1Zp8dXk9DY27h5b2CvI/HsOfE1217IuO/Dv8OIdFtKVGOnUirsAc2MdSOp90GbxtHJZ/wArezFSKtDGC6Kq07k77bcX6LWtZsACBy7BegNlKCO6lEQEREBERAREQEREBERAWa1TkBDE2qHEB3rkHD1b7LQyP8NrnuIDWjcrCYpsmo9Qy2ZWny8T+LcjkduWyC/05jBFEb8rCJ5x0d/C3sAtABsF5DQ3ovSAiIgIiICIiAiIgIiICIiAm6LxI4NYS4gNHU+wQZnWuVfTx7KVck27jhHG1p5gdyrXBYxmKxUNdvz7Avd7uPVZjBA6n1XZzsjN6dXeCpv3I+Y/9rdAcvZBKIiAiIgIiICIiAiIgIiICIiCHcgVjdc5aZlaDC0+drIHwuXVrT1K2ErxHE57jsGjclYLTDDqHVt3NykOhrkxQA9uyDYYbGQ4fFV6MDdmQtDd9vmPcqwQdEQEREBERAREQEREBERAREQEREH/2Q==)
 
-**Raymond Chua, IMDRF Chair**
+**Raymond Chua, IMDR 国际医疗器械监管论坛主席**
 
-Contents 
+内容
 
-1\. Introduction 4
+1\. 简介 4
 
-2\. Scope 5
+2\. 范围 5
 
-3\. Definitions 6
+3\. 定义 6
 
-4\. Overview of Medical Device Regulatory Reliance Programs 8
+4\. 医疗器械监管依赖项目概述 8
 
-4.1. Role of regulatory reliance 8
+4.1. 监管依赖的作用 8
 
-4.2. Types of regulatory reliance 9
+4.2. 监管依赖的类型 9
 
-5\. Considerations Prior to Developing a Reliance Program 13
+5\. 在制定依赖项目之前需要考虑的事项 13
 
-5.1. Introduction 13
+5.1. 简介 13
 
-5.2. Researching existing and planned reliance programs 13
+5.2. 研究现有的和计划中的依赖项目 13
 
-5.3. Understanding the legal framework for reliance 14
+5.3. 了解依赖的法律框架 14
 
-5.4. Identifying potential reference regulatory authorities 15
+5.4. 识别潜在的参考监管机构 15
 
-5.5. Assessing agreements between interested parties 16
+5.5. 评估相关方的协议 16
 
-5.6. Engaging stakeholders 17
+5.6. 与利益相关者沟通 17
 
-5.7. Conducting a regulatory analysis 19
+5.7. 进行监管分析 19
 
-6\. Steps to Develop and Implement a Reliance Program 20
+6\. 制定和实施依赖项目的步骤 20
 
-6.1. Introduction 20
+6.1. 简介 20
 
-6.2. Establish the scope of reliance 20
+6.2. 确定依赖的范围 20
 
-6.3. Establish reliance processes and procedures 23
+6.3. 建立依赖流程和程序 23
 
-6.4. Define roles of supporting documents and resources 26
+6.4. 明确支持性文件和资源的职责 26
 
-6.5. Formalize any necessary agreements 27
+6.5. 形式化任何必要的协议 27
 
-6.6. Continue stakeholder engagement 28
+6.6. 继续与利益相关者的沟通 28
 
-6.7. Establish a management system for the reliance program 29
+6.7. 建立依赖项目的管理系统 29
 
-7\. References 31
+7\. 参考文献 31
 
-7.1. Referenced in text 31
+7.1. 在文中引用 31
 
-7.2. Additional resources 32
+7.2. 额外的资源 32
 
-Annex: Evaluation Questions for Potential Reference Regulatory Authorities 33
+附录：潜在的参考监管机构的评估问题 33
 
-# Introduction
+# 简介
 
-Medical devices[1] present great technological variation and diverse global regulatory frameworks, with rapid development and adoption timelines. As worldwide regulatory activities expand and health technologies grow more complex, resources for regulators, industry, and conformity assessment bodies become increasingly constrained.
+医疗器械[1]呈现巨大的技术差异和多样化的全球监管框架，并且具有快速的开发和采用时间线。随着全球监管活动的扩张和医疗技术的日益复杂，监管机构、行业和合规评估机构的资源变得越来越紧张。
 
-Regulatory reliance is one approach that addresses these challenges by allowing regulators to leverage the work done by trusted partners to support regulatory decision-making processes – an approach promoted by the World Health Organization (WHO) in its _Good Reliance Practices in the regulation of medical products_ (see Section 7.1). 
+监管依赖是一种解决这些挑战的方法，它允许监管机构利用值得信赖的合作伙伴完成的工作，以支持监管决策过程——这是一种由世界卫生组织（WHO）在《医疗产品监管中的良好依赖实践》中倡导的（见第7.1节）。
 
-Appropriately designed regulatory reliance programs benefit the entire medical device ecosystem, with the ultimate goal of improving patient access to safe and effective medical devices that meet the Essential Principles of Safety and Performance in IMDRF/GRRP WG/N47 - _Essential Principles of Safety and Performance of Medical Devices and IVD Medical Devices_.
+经过合理设计的监管依赖项目对整个医疗器械生态系统都有益，最终目标是改善患者获得符合IMDRF/GRRP WG/N47 -《医疗器械和体外诊断医疗器械的安全和性能的基本原则》要求的、安全有效的医疗器械的途径。
 
-**What This Playbook Offers**
+**本手册提供的**
 
-The goal of this playbook is to promote efficient and aligned approaches to regulatory decision-making by providing examples and considerations to support the development and implementation of regulatory reliance programs. It builds on existing regulatory reliance approaches to provide high-level strategies, including specific considerations and suggested steps that: 
+本指南的目标是促进高效且协调的监管决策方法，通过提供示例和考虑，以支持监管依赖计划的开发和实施。它基于现有的监管依赖方法，提供高层次的策略，包括具体的考虑和建议步骤，这些步骤：
 
-  * are sufficiently flexible to apply to various medical device technologies and throughout the product lifecycle
-  * are adaptable to suit regulator’s needs
+* 具有足够的灵活性，可以应用于各种医疗器械技术以及产品生命周期的各个阶段
 
-This document aims to drive reliance program adoption. Following these considerations will advance reliance, convergence, and harmonization practices while strengthening communication and trust among regulatory jurisdictions. These achievements can be facilitated by continued development and adoption of globally aligned regulatory resources, such as IMDRF guidance and consensus standards. 
+* 可以适应监管机构的需求
 
-This reliance playbook is written as guidance for regulatory authorities (RAs), both those embarking on their first reliance program and those aiming to enhance their existing program or create additional reliance frameworks. Although intended for regulators, this document is relevant to all medical device stakeholders. 
+本文旨在推动监管依赖计划的采用。遵循这些考虑将促进依赖、整合和协调实践，同时加强监管辖区之间的沟通和信任。这些成果可以通过持续开发和采用全球协调的监管资源（如 IMDRF 指导和共识标准）来实现。
 
-# Scope
+本监管依赖指南是为监管机构（RA）编写的，包括正在启动其首次监管依赖计划的机构，以及旨在增强其现有计划或创建其他监管依赖框架的机构。虽然本文件主要面向监管人员，但也适用于所有医疗器械相关方。
 
-The information in this document applies to all medical devices, including IVD medical devices. Unless otherwise specified, the principles discussed can be applied to any phase of the product lifecycle (e.g., technical documentation[2] review, evaluation of quality management systems, post-market activities, device changes requiring regulatory review) and are meant to work with a variety of reliance mechanisms (e.g., harmonized decisions, unilateral or multilateral/mutual recognition, work-sharing). Reliance can also be deployed as a strategic tool during public health emergency contexts, such as pandemics or natural disasters. 
+# 范围
 
-As a regulator looking to set up a reliance program, you should note:
+本文件中提供的信息适用于所有医疗器械，包括体外诊断（IVD）医疗器械。除非另有说明，否则讨论的原则可应用于产品生命周期的任何阶段（例如，技术文档[2]审查、质量管理体系评估、上市后活动、需要监管审查的设备变更），并且旨在与各种依赖机制协同工作（例如，统一决策、单边或多边/互惠承认、合作）。依赖机制也可以在公共卫生紧急情况下（例如，疫情或自然灾害）作为一种战略工具来部署。
 
-  * There is information in this document about factors that are beyond your direct control, but is included to give you a broader understanding of factors impacting the design and implementation of a reliance program
-  * It is not intended to provide an IMDRF-endorsed reliance framework, nor promote one specific reliance framework 
-  * The extent to which an RA relies on a trusted partner’s work can vary. You have flexibility in determining your reliance extent
-  * You maintain flexibility in how you conduct activities within the reliance scope, including the use of third parties 
+作为希望建立依赖计划的监管机构，您应注意：
 
-This document provides advice and information to help you establish a program that best meets your and your jurisdiction’s needs.
+* 本文档包含一些您无法直接控制的因素的信息，但这些信息旨在帮助您更全面地了解影响设计和实施依赖计划的因素。
 
-# Definitions
+* 本文档不旨在提供 IMDRF 认可的依赖框架，也不旨在推广特定的依赖框架。
 
-##  _Abridged Regulatory Pathway_ : Regulatory procedures facilitated by reliance, whereby a regulatory decision is solely or partially based on application of reliance. This usually involves some work by the regulatory authority that is practicing reliance.
+* 注册申请（RA）依赖合作伙伴的工作的程度可能各不相同。您在确定依赖程度方面具有灵活性。
 
-(Modified from WHO Expert Committee on Specifications for Pharmaceutical Preparations, Fifty-fifth Report, Annex 10)
+* 您在依赖范围内的活动中，包括使用第三方，具有灵活的选择。
 
-## _Convergence_ : A voluntary process whereby the regulatory requirements in different countries or regions become more similar or “aligned” over time. Convergence results from gradual adoption of internationally recognized technical guideline documents, standards, scientific principles, common or similar practices and procedures, or the establishment of appropriate domestic regulatory mechanisms that align with shared principles to achieve a common public health goal.
+本文件提供建议和信息，以帮助您建立最符合您和您管辖范围需求的计划。
 
-(WHO Expert Committee on Specifications for Pharmaceutical Preparations, Fifty-fifth Report, Annex 11)
+# 定义
 
-## _Harmonization_ : A process whereby the technical guidelines of participating authorities in several countries are made uniform.
+## _简化的监管途径_：通过依赖实现的监管程序，在这种情况下，监管决策完全或部分基于依赖的应用。这通常涉及监管机构进行依赖实践的工作。
 
-(WHO Expert Committee on Specifications for Pharmaceutical Preparations, Fifty-fifth Report, Annex 11)
+（摘自世界卫生组织药品准备规格专家委员会，第 55 份报告，附录 10）
 
-## _Medical Device_ : Any instrument, apparatus, implement, machine, appliance, implant, reagent for in vitro use, software, material or other similar or related article, intended by the manufacturer to be used, alone or in combination, for human beings, for one or more of the specific medical purpose(s) of:
+## _趋同_：一种自愿过程，在此过程中，不同国家或地区的监管要求随着时间的推移变得越来越相似或“对齐”。趋同是由于逐渐采用国际认可的技术指南文件、标准、科学原则、常见或相似的实践和程序，或建立适当的国内监管机制，这些机制与共同原则保持一致，以实现共同的公共卫生目标。
 
-  * diagnosis, prevention, monitoring, treatment or allevi­ation of disease,
-  * diag­nosis, monitoring, treatment, alleviation of, or com­pensation for, an injury,
-  * inves­tigation, replacement, modification, or support of the anatomy, or of a physiologi­cal process,
-  * supporting or sustaining life,
-  * con­trol of conception,
-  * cleaning, disinfection or sterilization of medical devices,
-  * providing information by means of in vitro examination of specimens derived from the human body; 
+（摘自世界卫生组织药品准备规格专家委员会，第 55 份报告，附录 11）
 
-and does not achieve its primary intended action by pharmaco­logical, immunological, or metabolic means, in or on the human body, but which may be assisted in its intended function by such means. 
+## _协调性_：是指参与多个国家相关机构的技术指南进行统一的过程。
 
-NOTE 1: Products which may be considered to be medical devices in some jurisdictions but not in others include:
+（摘自世界卫生组织药品准备规格专家委员会，第 55 份报告，附录 11）
 
-  * disinfection substances,
-  * aids for persons with disabilities,
-  * devices incorporating animal and/or human tissues,
-  * devices for in-vitro fertilization or assisted reproduction technologies.
+## _医疗器械_：任何由制造商打算单独或与其他用于人类，以实现以下特定医疗目的的，例如：仪器、装置、工具、机器、设备、植入物、体外使用的试剂、软件、材料或其他类似或相关物品。
 
-NOTE 2: For clarification purposes, in certain regulatory jurisdictions, devices for cosmetic/aesthetic purposes are also considered medical devices.
+* 诊断、预防、监测、治疗或缓解疾病
 
-NOTE 3: For clarification purposes, in certain regulatory jurisdictions, the commerce of devices incorporating human tissues is not allowed.
+* 诊断、监测、治疗、缓解或补偿受伤，
+
+* 调查、替代、修改或支持人体解剖结构或生理过程，
+
+* 维持生命，
+
+* 控制生育，
+
+* 清洁、消毒或对医疗器械进行灭菌，
+
+* 通过体外检查样本（来自人体）来提供信息；
+
+并且不通过药理、免疫或代谢方式在人体内或外来发挥其主要预期作用，但可能通过这些方式辅助其预期功能。
+
+注 1: 在某些司法管辖区可能被认为是医疗器械，但在另一些司法管辖区则不然的产品包括：
+
+* 消毒剂，
+
+* 辅助残疾人士的设备，
+
+* 包含动物和/或人体组织的产品。
+
+* 用于体外生殖或辅助生殖技术的设备。
+
+注 2: 为了澄清目的，在某些监管辖区，用于美容/美学目的的设备也被认为是医疗器械。
+
+注 3: 为了澄清目的，在某些监管辖区，包含人体组织的设备的商业活动是被禁止的。
 
 (IMDRF/GRRP WG/N47)
 
-## _Recognition_ : Acceptance of the regulatory decision of another regulator or trusted institution. Recognition should be based on evidence that the regulatory requirements of the reference regulatory authority are sufficient to meet the regulatory requirements of the relying authority. 
+## _认可_：是指对另一监管机构或值得信赖机构的监管决定的接受。认可应基于证据，证明参考监管机构的监管要求足以满足依赖监管机构的监管要求。
 
-(Modified from WHO Expert Committee on Specifications for Pharmaceutical Preparations, Fifty-fifth Report, Annex 10)
+（摘自世界卫生组织药品准备规格专家委员会，第 55 份报告，附录 10）
 
-## _Reference Regulatory Authority_ : A national or regional authority or a trusted institution, which can include the WHO prequalification program or a conformity assessment body, whose regulatory decisions and/or regulatory work products are relied upon by another regulatory authority to inform its own regulatory decisions.
+## _参考监管机构_：是指国家或地区机构，或值得信赖的机构，包括世界卫生组织（WHO）的预先批准项目或符合性评估机构，其监管决定和/或监管工作成果，由另一监管机构依据，以指导其自身的监管决策。
 
-(Modified from WHO Expert Committee on Specifications for Pharmaceutical Preparations, Fifty-fifth Report, Annex 10)
+（摘自世界卫生组织药品准备规格专家委员会，第 55 份报告，附录 10）
 
-## _Regulatory_ _Submission_ : A regulatory submission can be any type of information related to a medical device regulatory process. This includes but is not limited to a request for approval/authorization to market a device, any communications relating to the original submission, and any request for modification to an existing approval. A regulatory submission includes the technical documentation and an explanation of how the technical documentation demonstrates that the medical device conforms with essential principles of safety and performance and other relevant regulatory requirements and guidelines. Guidance on contents for a regulatory submission is provided in IMDRF/RPS WG/N9 and IMDRF/RPS WG/N13.
+## _监管提交_：监管提交可以是指与医疗器械监管流程相关的任何类型的信息。这包括但不限于，申请批准/授权销售医疗器械、与原始提交相关的任何通信，以及对现有批准的任何修改申请。监管提交包括技术文件，以及解释如何证明技术文件符合医疗器械的安全性、性能和其他相关监管要求和指南。关于监管提交内容的指导，请参见IMDRF/RPS WG/N9和IMDRF/RPS WG/N13。
 
 (IMDRF/GRRP WG/N59)
 
-## _Reliance:_ The act whereby the regulatory authority in one jurisdiction takes into account and gives significant weight to assessments performed by another regulatory authority or trusted institution, or to any other authoritative information, in reaching its own decision. The relying authority remains independent, responsible and accountable for the decisions taken, even when it relies on the decisions, assessments and information of others.
+## _依赖性:_ 指监管机构在一个管辖范围内，根据另一个监管机构或值得信赖的机构的评估，或任何其他权威信息，来做出自己的决策。即使依赖其他机构的决策、评估和信息，该监管机构仍然保持独立、负责和问责。
 
-(WHO Expert Committee on Specifications for Pharmaceutical Preparations, Fifty-fifth Report, Annex 10)
+（世界卫生组织药品制剂规格专家委员会，第55次报告，附录10）
 
-## _Work-Sharing:_ A process by which regulatory authorities of two or more jurisdictions share activities to accomplish a specific regulatory task. 
+## _合作审查:_ 指两个或多个管辖范围内的监管机构共享活动，以完成特定的监管任务的过程。
 
-(Modified from WHO Expert Committee on Specifications for Pharmaceutical Preparations, Fifty-fifth Report, Annex 10)
+（摘自世界卫生组织药品准备规格专家委员会，第 55 份报告，附录 10）
 
-# Overview of Medical Device Regulatory Reliance Programs
+# 医疗器械监管依赖性项目概述
 
-## Role of regulatory reliance 
+## 监管依赖性的作用
 
-Reliance programs streamline and expedite regulatory processes by allowing regulators to leverage assessments performed by trusted partners. Adopting appropriate reliance approaches helps improve: 
+依赖性项目通过允许监管机构利用值得信赖合作伙伴的评估，来简化和加快监管流程。采用适当的依赖性方法有助于：
 
-  * _Efficiency_ : reducing duplicative work while maintaining rigorous oversight
-  *  _Resource optimization_ : freeing up your resources for priority areas or emergency responses like pandemics
-  *  _Industry support_ : minimizing regulatory burdens, including those on small and medium-sized enterprises
+* _效率_：同时保持严格的监管，减少重复工作
 
-Your reliance program should offer concrete participation incentives, such as shorter review timeframes. Reliance programs that are voluntary in nature and not the only possible pathway for a given regulatory process are more likely to demonstrate benefit.
+* _资源优化_：将资源用于优先领域或紧急情况，如疫情
 
-**Understanding Key Concepts**
+* _行业支持_：减少监管负担，包括对小型和中型企业的负担
 
-Reliance, convergence, and harmonization are distinct but interconnected concepts, as shown in Table 1:
+您的依赖性项目应提供具体的参与激励，例如更短的审查时间。 具有自愿性质，并且不是给定监管流程的唯一途径的依赖性项目，更有可能证明其效益。
 
-  * _Reliance_ is where an RA leverages another reference RA’s assessment or decision to reach their own decision
-  *  _Convergence_ refers to efforts to align regulatory practices and requirements among different RAs. It does not mean decisions made by other organizations are always accepted or recognized
-  *  _Harmonization_ aims for a higher level of uniformity by creating consistent standards and requirements across jurisdictions, striving for global regulatory consistency
+**理解关键概念**
 
-While reliance focuses on using existing approvals or decisions, convergence and harmonization aim to achieve broader alignment across different regulatory systems. Each plays a different role in regulatory practice. Convergence and harmonization can facilitate reliance, but you can implement reliance programs without them. Understanding these concepts and using reliance with your other regulatory programs will improve efficiency and cooperation in medical device regulation.
+依赖性、整合和协调是不同的但相互关联的概念，如表1所示：
 
-**Table 1. Comparing Reliance, Convergence, and Harmonization**
+* _依赖性_ 指的是，一个注册评估员（RA）利用另一个参考RA的评估或决定，来做出自己的决定。
 
-Concept| Definition| Example  
+* _协同_ 指的是，不同RA之间的监管实践和要求进行对齐的努力。 这并不意味着其他组织的决定总是被接受或认可。
+
+*  _协调_ 旨在通过在不同辖区创建一致的标准和要求，实现更高的统一性，从而实现全球监管的一致性。
+
+虽然依赖主要侧重于使用现有的批准或决定，但趋同和协调旨在在不同的监管体系中实现更广泛的对齐。 它们在监管实践中扮演着不同的角色。 趋同和协调可以促进依赖，但您可以在不使用它们的情况下实施依赖计划。 了解这些概念并将其与其他监管计划结合使用，将提高医疗器械监管的效率和合作。
+
+**表 1. 比较依赖、趋同和协调**
+
+概念| 定义| 示例  
 ---|---|---  
-**Reliance**|  RA considers the assessments made by a reference RA when making its own decisions| See Section 4.2 for several examples  
-**Convergence**|  Voluntary, gradual alignment of regulatory frameworks through shared guidance and principles | Common use of IMDRF guidance or ISO standards  
-**Harmonization**|  Formal unification of technical requirements among multiple RAs| CE-marking system within the European Union  
+**依赖**| 监管机构在做出自己的决定时，会考虑参考监管机构的评估| 请参阅第 4.2 节，了解多个示例  
+**趋同**| 通过共享指导和原则，自愿、逐步对监管框架进行对齐| 常用 IMDRF 指导或 ISO 标准的使用
+**协调**| 多个监管机构对技术要求的正式统一| 欧盟的 CE 标记系统
 
-## Types of regulatory reliance 
+## 监管依赖的类型
 
-This section explores some reliance types you can use to develop a reliance program for your specific needs. Each reliance type is summarized in Table 2 and defined in Section 3. To help you understand how these work in practice, we have included real-world examples, along with discussion of why regulators choose each type. Keep in mind that this is not an exhaustive list, and**** you can create your own variations or combine different elements from these approaches.
+本节探讨您可以用来为您的特定需求开发依赖计划的几种依赖类型。 针对每种依赖类型，在表 2 中进行了总结，并在第 3 节中进行了定义。 为了帮助您理解这些在实践中的应用，我们已包含实际案例，以及讨论监管机构选择每种类型的理由。 请注意，这并非详尽的清单，****您可以创建自己的变体或将这些方法中的不同元素组合起来。
 
-**Table 2. Comparison of Regulatory Reliance Types**
+**表 2. 监管依赖类型的比较**
 
-Type of Reliance| Definition| Example  
----|---|---  
-**Work-Sharing**|  Collaboration among authorities to jointly perform regulatory tasks or evaluations| MDSAP: Single audit for multiple jurisdictions  
-**Abridged Regulatory Pathway**|  Partial review relying on prior assessments from a trusted authority | ANVISA (Brazil) abridged marketing pathway  
-**Recognition**|  Direct acceptance of another authority’s decision with minimal or no review| TGA (Australia) and MHRA (UK) mutual recognition  
+类型 | 定义 | 示例
+---|---|---
+**合作审查** | 监管机构之间的合作，共同完成监管任务或评估 | MDSAP：针对多个司法辖区的单一审计
+**简化的监管途径** | 依赖先前由可信机构进行的评估的部分审查 | 巴西 ANVISA 的简化的市场准入途径
+**认可** | 直接接受其他机构的决定，进行最小或无审查 | 澳大利亚 TGA 和英国 MHRA 的相互认可
 
-### Work-sharing 
+### 合作审查
 
-Work-sharing occurs when multiple RAs work together to complete a regulatory task. Shared activities optimize resource use and build on specialized knowledge and expertise for tasks, including:
+合作审查是指多个监管机构共同完成监管任务。共享活动可以优化资源利用，并利用专业知识和技能，包括：
 
-  * joint application assessments
-  * coordinated inspections
-  * joint development of documents like technical guidelines and regulatory standards
+* 联合应用评估
 
-Work-sharing typically requires you to establish how shared activities are distributed, and creation of agreements among participating authorities for information exchange, when necessary.
+* 有序的检查
 
-**Example** : The Medical Device Single Audit Program (MDSAP) originated from the IMDRF members’ desire to develop a global approach to auditing and monitoring the manufacturing of medical devices as a way to improve oversight and efficiency on an international scale. This program allows MDSAP-recognized Auditing Organizations to conduct a single audit of a medical device manufacturer to satisfy the relevant requirements of participating RAs. MDSAP consortium members leverage each other’s resources via work-sharing to: 
+* 共同制定技术指南和监管标准等文件
 
-  * make decisions regarding the recognition of new Auditing Organizations
-  * conduct annual assessments of Auditing Organizations to ensure they continue to meet the criteria for MDSAP recognition
-  * create MDSAP policies and procedures; develop and improve program requirements; and
-  * conduct other operational activities that provide proper oversight of the program.
+通常，合作审查需要您确定如何分配共享活动，以及参与机构之间就信息交换（如果需要）达成协议。
 
-MDSAP incorporates other aspects of reliance in addition to work-sharing. For example, regulatory authorities, including Affiliate Members who do not participate in MDSAP work-sharing activities, can rely to different extents on the MDSAP reports and/or certificates to fulfill their regulatory requirements, instead of conducting their own inspections.
+**示例**：医疗器械单一审计计划（MDSAP）源于 IMDRF 成员希望开发一种全球性的医疗器械制造审计和监测方法，以提高国际层面的监督和效率。该计划允许获得 MDSAP 认可的审计机构对医疗器械制造商进行单一审计，以满足参与机构的相关要求。MDSAP 联盟成员通过合作审查，利用彼此的资源，包括：
 
-### Abridged regulatory pathway
+* 决定是否认可新的审计机构
 
-Abridged regulatory pathways streamline reviews by relying on comprehensive assessments from a reference RA. Rather than conducting a full review, you may focus on key considerations such as:
+* 对审计机构进行年度评估，以确保它们继续符合 MDSAP 认可的标准
 
-  * additional requirements or aspects unique to your market
-  * areas where specific confirmation is warranted
+* 制定和实施 MDSAP 政策和程序；制定和改进项目要求；以及
 
-This approach is useful when manufacturers seek approval in your jurisdiction after obtaining approval elsewhere, especially when both jurisdictions have similar regulatory requirements.
+* 开展其他运营活动，以对项目进行适当的监督。
 
-**Example 1** : The Health Sciences Authority (HSA) of Singapore offers an abridged regulatory pathway for registration of medical devices. This pathway is designed for devices that have previously undergone review and approval by one of HSA's recognized reference RAs. To be eligible, devices must meet specific criteria, including having no essential differences in intended use between the device to be marketed in Singapore and the version approved by the recognized authorities. As part of this abridged regulatory pathway, supporting documents including proof of approval from the reference RAs and summarized technical documents must be provided. This process allows HSA to abridge its assessment, taking into account the review conducted by the relevant reference RA, while retaining the ability to request additional information as needed to ensure the device meets the required safety, quality, and performance standards for use in Singapore. The final decision-making authority for registration remains with HSA. This reliance-based pathway was developed with the intention to conserve resources and time and facilitate faster market access as compared to standard pathways, while maintaining rigorous regulatory oversight.
+MDSAP 包含与其他协作方式的依赖，例如，监管机构（包括不参与 MDSAP 协作活动的关联成员），可以不同程度地依赖 MDSAP 报告和/或证书，以满足其监管要求，而不是进行自己的检查。
 
-**Example 2:** The Brazilian Health Regulatory Agency (ANVISA) allows a regulatory pathway called "optimized review", which is consistent with the concept of an abridged regulatory pathway. Through this pathway, applicants may submit technical reports or regulatory documents issued by an AREE (Autoridade Reguladora Estrangeira Equivalente – Equivalent Foreign Regulatory Authority), defined as a reference authority or international entity whose regulatory practices are aligned with those adopted by ANVISA. To request an optimized review, applicants must provide a declaration of eligibility demonstrating that the criteria established by ANVISA have been met, as well as the approval document issued by the AREE, which explicitly identifies the medical device, its intended use, its manufacturer, and the instructions for use authorized by the AREE. The medical device submitted in Brazil must be essentially identical to the device approved by the AREE (see Section 6.3 for further discussion of this concept). ANVISA retains full decision-making authority regarding the granting of marketing authorization and may request additional information or data during the review process, in accordance with Brazilian regulations and guidelines.
+### 简化的监管途径
 
-### Recognition 
+简化的监管途径通过依赖参考 RA 的全面评估来简化审查。 相反于进行完整的审查，您可以关注以下关键方面：
 
-Recognition occurs when you accept a regulatory decision made by a reference RA. Generally, this involves the reference RA using standards and requirements that satisfy requirements in your jurisdiction. 
+* 额外的要求或您所在市场的特定方面
 
-Recognition-based reliance includes unilateral or bi/multilateral (mutual) recognition. For mutual recognition, a formal agreement among involved parties is not always required but may be necessary in certain circumstances.
+* 需要进行特定确认的领域
 
-**Example 1** : The Therapeutic Goods Administration (TGA) in Australia has implemented two recognition-based reliance frameworks. One framework involves recognizing decisions made by a list of reference RAs identified in Australian law, taking into consideration the comparability of the regulatory framework, life cycle approach and post-market vigilance, expertise, cooperation, and membership in IMDRF. It allows TGA to use marketing authorization evidence from these authorities in support of applications for inclusion of medical devices in the Australian Register of Therapeutic Goods before supplying them in Australia. Some aspects of the recognition process, including the required approval evidence and documentation issued by the reference authority and the need for TGA to audit specific applications, depend on factors such as the category, classification, and technological aspects of the medical device or their post-market surveillance data in other countries. However, all medical devices going through this process are still required to meet TGA’s existing regulatory requirements for safety, quality, and performance regardless of the overseas evidence provided.
+这种方法在制造商在获得其他地区批准后，寻求在您所在辖区获得批准时特别有用，尤其是在两个辖区具有相似的监管要求时。
 
-In addition, Australia and the United Kingdom (UK) have a Mutual Recognition Agreement that provides conformity assessment services between the Governments of the UK and Australia. This agreement allows the UK to recognize some Certificates of Conformity issued by TGA to Australian manufacturers under the UK Medical Devices Regulations 2002 without further review. The agreement also allows TGA to recognize some certificates issued by a UK Market Conformity Assessment Body (UKMCAB).
+**示例 1**：新加坡卫生科学管理局（HSA）提供了一种简化的医疗器械注册途径。该途径适用于已接受并获得新加坡卫生科学管理局（HSA）认可的参考机构（RA）审查和批准的医疗器械。为了符合条件，医疗器械必须满足特定标准，包括在新加坡市场推广的器械与已获得认可机构批准的版本之间，在预期用途上不存在实质性差异。作为该简化的注册途径的一部分，必须提供支持文件，包括来自参考机构的批准证明以及总结的技术文件。该流程使新加坡卫生科学管理局（HSA）能够简化评估，同时考虑相关参考机构的审查结果，并保留根据需要要求提供额外信息的权利，以确保该器械符合新加坡使用所需的安全、质量和性能标准。注册的最终决策权仍然掌握在新加坡卫生科学管理局（HSA）手中。该基于依赖的途径旨在节约资源和时间，并促进与标准途径相比，更快的市场准入，同时保持严格的监管。
 
-**Example 2:** Europe has established a legal framework for a single market for goods including medical devices, where the Member States’ EU authorities mutually rely on the activities of the other Member States’ authorities and of notified bodies designated by Member States following joint assessments. Medical devices bearing the CE marking can be lawfully placed on the market in any of the 27 EU Member States, additional countries of the European Economic Area, and other countries with which there are valid agreements (e.g., Mutual Recognition Agreements or Customs Union Agreements).
+**示例 2：** 巴西卫生监管机构（ANVISA）允许采用一种名为“优化审查”的监管途径，这与缩短审查途径的概念相符。通过这种途径，申请人可以提交技术报告或由外国监管机构（AREE，相当于外国监管机构）颁发的监管文件，AREE被定义为参照机构或国际实体，其监管实践与ANVISA采用的实践保持一致。为了申请优化审查，申请人必须提供符合ANVISA规定的标准的声明，以及由AREE颁发的批准文件，该文件明确标识医疗器械、其预期用途、制造商以及AREE授权的使用说明。在巴西提交的医疗器械必须与AREE批准的器械基本相同（参见第 6.3 节，进一步讨论这一概念）。ANVISA保留对授予上市许可的最终决定权，并在审查过程中，根据巴西法规和指南，可以要求提供额外的信息或数据。
 
-# Considerations Prior to Developing a Reliance Program
+### 认可
 
-## Introduction
+认可发生在您接受参考监管机构做出的监管决定时。通常，这涉及参考监管机构使用符合您管辖范围要求的标准和要求。
 
-You can decide to develop a reliance program at any stage of your organization's development.
+基于认可的依赖包括单向或双/多边（互惠）认可。对于互惠认可，通常不需要各方之间的正式协议，但在某些情况下可能需要。
 
-Before starting to develop a reliance program, you should assess:
+**示例 1**：澳大利亚的《药品管理机构》（TGA）已实施了两种基于认可的依赖框架。其中一种框架涉及认可澳大利亚法律中列出的特定参考机构（RA）做出的决策，同时考虑监管框架、产品生命周期方法、市场后监督、专业知识、合作以及加入IMDRF的因素。这使TGA能够利用这些机构出具的营销授权证明，以支持将医疗器械纳入澳大利亚《药品管理登记册》的申请，从而在澳大利亚销售这些产品。该认可过程的某些方面，包括参考机构要求的批准证据和文件，以及TGA对特定申请的审计要求，都取决于医疗器械的类别、分类和技术方面，或其在其他国家/地区的市场后监督数据。然而，所有通过此过程的医疗器械仍然需要满足TGA现有的安全、质量和性能监管要求，无论提供哪些海外证据。
 
-  * your specific needs
-  * if your environment is ready to support it 
-  * your operating circumstances, including aspects beyond your control such as other laws in your jurisdiction
+此外，澳大利亚和英国（UK）之间签订了互惠认可协议，为英国和澳大利亚政府提供评估服务。该协议允许英国在不进行进一步审查的情况下，认可TGA颁发给澳大利亚制造商的某些符合性证书，这些证书符合英国《医疗器械条例》（2002）。该协议还允许TGA认可由英国市场符合性评估机构（UKMCAB）颁发的一些证书。
 
-This assessment helps you understand: 
+**示例 2：** 欧洲已经建立了针对包括医疗器械在内的商品单一市场的法律框架，在这种框架下，成员国的欧盟当局相互依赖彼此的活动，以及成员国指定并认可的第三方机构的活动，并进行联合评估。 带有 CE 标志的医疗器械可以在 27 个欧盟成员国、欧洲经济区其他国家以及与有有效协议的国家（例如，互认协议或关税联盟协议）合法上市。
 
-  * the possibilities and limitations of your reliance program
-  * where to focus your efforts 
+# 在制定依赖计划之前需要考虑的事项
 
-While some factors may be beyond your direct responsibility, you can still advance reliance by working with key governmental partners where necessary.
+## 简介
 
-This section outlines considerations you should typically explore. Keep your program goals in mind as you work through these considerations. They apply to any type of reliance program, although there may be additional considerations for your specific situation.
+您可以决定在组织发展的任何阶段制定依赖计划。
 
-You may also benefit from revisiting these considerations as you develop your program, to determine whether your environment for reliance has changed in ways that warrant adjustments to your strategy or scope.
+在开始制定依赖计划之前，您应该评估：
 
-## Researching existing and planned reliance programs
+* 您的具体需求
 
-Before developing your program, consider reviewing how other RAs approached reliance, particularly if they:
+* 您的环境是否能够支持它
 
-  * are geographically close to you, or
-  * have similar regulatory frameworks
+* 您的运营情况，包括您无法控制的因素，例如您所在辖区的其他法律
 
-Other RAs have likely faced similar challenges. Discussing challenges and solutions with others might:
+这种评估有助于您了解：
 
-  * help align regulatory approaches
-  * provide mutual learning from each other’s experiences
+* 您的依赖计划的可能性和局限性
 
-However, the absence of a reliance program among similar RAs should not prevent you from developing your own program.
+* 应该将重点放在哪里
 
-## Understanding the legal framework for reliance
+虽然某些因素可能不在您的直接责任范围内，但您仍然可以通过与关键政府部门合作来促进依赖。
 
-Understanding your existing legal framework is an important first step because you often cannot easily or quickly influence changes to existing laws. Review your jurisdiction’s existing legal framework, including statute and common law, to determine: 
+本节概述了您通常应该探讨的事项。 在处理这些事项时，请始终牢记您的计划目标。 这些适用于任何类型的依赖计划，尽管您可能需要考虑特定情况下的额外因素。
 
-  * the extent to which reliance may be implemented through interpreting existing regulations
-  * if changes to legislation/regulations are required
-  * how to implement any necessary changes
+您也可以在开发您的计划时，重新考虑这些因素，以确定您的依赖环境是否发生了变化，从而需要调整您的策略或范围。
 
-The approach discussed in WHO’s Good Reliance Practices document may help when determining whether reliance is possible:
+## 调查现有的和计划中的依赖项目
 
-_“When regulations do not make explicit provision for the application of reliance, it may be adopted through interpretation of existing regulations, if the legal framework does not explicitly preclude application of reliance approaches by the NRA [National Regulatory Authority]. Reliance can be implemented through policy change, as long as it is broadly consistent with national legislation. If application of reliance is prohibited, revision of the legislation should be considered within a reasonable timeframe.”_
+在开发您的计划之前，请考虑审查其他RA（监管事务）如何处理依赖，特别是如果他们：
 
-Ideally, reliance should be based on a legal framework for medical devices, not for other regulated products such as pharmaceuticals. Legal language varies between jurisdictions, which can make it difficult to identify language that allows (or prevents) regulatory reliance in all situations. If you have laws that allow you to collaborate with other institutions (such as other RAs), they will potentially support reliance. 
+* 距离您很近，或者
 
-**Mapping Your Options**
+* 具有相似的监管框架
 
-Your review may identify limitations for various reliance aspects, including different:
+其他RA很可能也面临过类似的问题。与他人讨论挑战和解决方案可能会：
 
-  * types of reliance programs (see Section 4.2)
-  * product types
-  * regulatory decisions
+* 有助于统一监管方法
 
-Consider mapping the benefits and limits for each reliance approach. It helps to identify areas in your existing laws, programs, and higher-level strategic priorities that will work with the reliance program you are trying to develop, enabling a straightforward, efficient, and effective implementation strategy.
+* 使彼此从对方的经验中学习
 
-Your preferred path may present more limitations or require more implementation time. Look for opportunities offering early wins with less initial resource investment, legal framework revision, and organizational change. These successes may provide supporting evidence for long-term changes.
+然而，如果与相似的RA之间没有建立依赖关系，不应阻止您制定自己的计划。
 
-**Example:** An RA reviewed their existing legal framework and identified they could recognize audit results (ISO 13485 certificates or MDSAP audit reports) from other RAs, but not decisions with respect to technical documentation review.Although they wish to implement a program allowing recognition of both areas from a reference RA, they proceeded with a phased approach:
+## 了解依赖的法律框架
 
-  * recognizing audit results in the short term 
-  * abridging their review as a form of reliance for pre-market regulatory decisions, while working on legal changes to allow recognition of technical documentation review decisions in the future
+了解您现有的法律框架是至关重要的一步，因为您通常很难或快速地影响现有法律的修改。请审查您所在辖区的现有法律框架，包括法律和普通法，以确定：
 
-This example shows how you can start implementing reliance within current legal constraints while working toward your preferred approach.  
+* 依赖是否可以通过解释现有法规来实现的程度
+
+* 是否需要修改立法/法规
+
+* 如何实施任何必要的修改
+
+在世界卫生组织（WHO）的《良好依赖实践》文件中讨论的方法，在确定依赖是否可行时可能会有所帮助：
+
+_"当法规没有明确规定依赖的应用时，如果法律框架没有明确禁止国家监管机构（NRA）采用依赖方法，则可以通过解释现有法规来实施依赖。只要依赖方法与国家立法保持广泛一致，就可以通过政策变更来实现依赖。如果禁止采用依赖，则应在合理的时间内考虑修改立法。"_
+
+理想情况下，应基于医疗器械的法律框架，而不是其他受监管产品（如药品）的法律框架。不同司法辖区的法律语言各不相同，这可能会使识别允许（或阻止）在所有情况下依赖监管的语言变得困难。如果您拥有允许您与其他机构（如其他RA）合作的法律，它们可能会支持依赖。
+
+**梳理您的选择**
+
+您的审查可能会识别在各种依赖方面存在局限性，包括：
+
+* 不同的依赖项目类型（见第 4.2 节）
+
+* 产品类型
+
+* 监管决策
+
+考虑绘制每种依赖方法的优势和限制。这有助于识别您现有的法律、项目和高级战略优先事项，这些与您正在开发的目标依赖项目相协调，从而实现简单、高效和有效的实施策略。
+
+您选择的路径可能会带来更多的限制或需要更长的实施时间。寻找在较小的初始资源投资、法律框架修订和组织变革方面能够取得早期成功的机会。这些成功可能会为长期变化提供支持性证据。
+
+**示例：** 一家RA审查了其现有的法律框架，并发现它可以承认来自其他RA的审计结果（如ISO 13485证书或MDSAP审计报告），但不能承认与技术文档审查相关的决策。尽管他们希望实施一个允许从参考RA的角度承认这两种情况的项目，但他们选择了分阶段的方法：
+
+* 暂时承认审计结果
+
+* 缩短审查时间，作为预上市监管决策的依据，同时，也在努力推动法律变更，以便未来能够认可技术文件审查决策。
+
+这个例子展示了如何在现有法律框架内开始实施依赖，同时朝着您理想的方法努力。
+
 ---  
 
-## Identifying potential reference regulatory authorities
+## 识别潜在的参考监管机构
 
-To establish a reliance program, you will need to start researching to find suitable reference RAs. These will typically be RAs in other jurisdictions, or third-party organizations that perform regulatory activities in these jurisdictions[3]. You may also want to consider jurisdictions commonly included in industry marketing strategies alongside your jurisdiction, or other factors that may improve market access for medical devices. 
+为了建立依赖计划，您需要开始研究，以找到合适的参考监管机构（RA）。这些通常是其他辖区内的监管机构，或在这些辖区内执行监管活动的第三方组织[3]。您还可能考虑在您的辖区以及其他可能改善医疗器械市场准入的辖区中，经常出现在行业营销策略中的机构。
 
-Once you have identified potential reference RAs, conducting an analysis of their regulatory framework will help you understand:
+一旦您确定了潜在的参考监管机构，对它们的监管框架进行分析将帮助您了解：
 
-  * how their framework compares to and differs from your current or planned framework
-  * the significance of any differences
+* 它们的框架与您当前的或计划的框架相比，以及它们的差异
 
-You can gather this information by:
+* 任何差异的重要性
 
-  * reviewing their guidance, policy, and legal documents
-  * reaching out to them directly
+您可以通过以下方式获取这些信息：
 
-Where necessary, and subject to the reference RA’s capacity and openness to collaboration, you could consider more intensive approaches such as participating in their regulatory activities either:
+* 审查它们的指导、政策和法律文件
 
-  * _passively_ : observing what they do (e.g., shadowing)
-  * _actively_ : participating in their work (e.g., joint assessments)
+* 直接与它们联系
 
-These collaborative approaches can help you build knowledge and trust, potentially leading to the establishment of bilateral reliance processes such as mutual recognition.
+在必要时，并且在参考监管机构的能力和合作意愿允许的情况下，您可以考虑更深入的方法，例如：
 
-The Annex to this document includes a list of questions that may be useful in determining whether potential reference RAs are suitable to rely on. In addition to the resources mentioned in the Annex, IMDRF regularly publishes the IMDRF Document Implementation Reports on their website showing how members have adopted IMDRF guidance documents, which may be useful if you're considering reliance on an IMDRF member's decisions. 
+* _被动_：观察它们所做的事情（例如，旁观）
 
-Differences between your and your potential reference RA’s frameworks should not preclude your reliance on them, although these differences might impact how, and how extensively, you implement reliance if not addressed. Depending on the differences, a mapping exercise comparing frameworks will help you evaluate and support your desired reliance program. In some cases, changes to your legal framework or policy approaches may be necessary to support future alignment.
+* _主动_：参与它们的活动（例如，联合评估）
 
-**Example:** Regulator A is considering recognizing the regulatory decisions of Regulator B. However, the two regulators have different classification systems for medical devices. Regulator A uses a four-tier system and Regulator B uses a three-tier system. Regulator A conducts a mapping exercise, with the help of Regulator B when needed, to determine how devices across Regulator A’s four-tier system equate in Regulator B’s three-tier system. The results are paired with an understanding of the regulatory requirements across device classification systems. Upon analyzing, Regulator A understood that Regulator B exempts low-risk devices from registration. Despite classification differences, Regulator A chose to only rely on Regulator B's decision for moderate to high-risk devices where assessment is performed, while excluding low-risk devices from the reliance program.  
+这些合作方法可以帮助您积累知识和建立信任，从而可能建立双边依赖流程，例如相互认可。
+
+本文件的附录包含一份可能对确定潜在的参考RA是否适合使用的问题的清单。除了附录中提到的资源之外，IMDRF定期在其网站上发布IMDRF文件实施报告，展示成员如何采用IMDRF指导文件，这在您考虑依赖IMDRF成员决策时可能很有用。
+
+您的框架与潜在的参考RA的框架之间的差异不应阻止您依赖它们，尽管这些差异可能会影响您如何以及在多大程度上实施依赖，如果未加以解决。根据差异，比较框架的映射练习将有助于您评估和支持您所需的依赖计划。在某些情况下，可能需要修改您的法律框架或政策方法，以支持未来的对齐。
+
+**示例：** 监管机构A正在考虑承认监管机构B的监管决定。然而，这两个监管机构在医疗器械的分类系统方面存在差异。监管机构A使用四级分类系统，而监管机构B使用三级分类系统。监管机构A进行映射练习，并在需要时与监管机构B合作，以确定监管机构A的四级分类系统如何对应于监管机构B的三级分类系统。结果与对不同分类系统的监管要求进行分析相结合。在分析后，监管机构A了解到，监管机构B免予低风险器械注册。尽管存在分类差异，监管机构A选择仅依赖监管机构B的决定，用于进行评估的中等至高风险器械，同时排除低风险器械，从而实现依赖计划。
+
 ---  
 
-## Assessing agreements between interested parties
+## 评估相关方的协议
 
-Once you understand another regulator's framework and decide on a reliance mechanism (e.g., work-sharing, unilateral reliance), you can assess whether agreements are needed and what agreement type would be appropriate. These agreements typically address information-sharing requirements for relying on another regulator's assessments, data handling procedures, or any work-sharing or recognition arrangements (see Section 4.2).
+一旦您了解了其他监管机构的框架，并确定了依赖机制（例如，合作、单方面依赖），您就可以评估是否需要协议，以及哪种类型的协议最合适。 这些协议通常涉及基于其他监管机构评估、数据处理程序或任何合作或认可安排的信息共享要求（见第 4.2 节）。
 
-When considering _what_ information is needed to support a reliance-based decision, you should also consider _how_ the information will be obtained.
+在考虑 _需要_ 哪些信息来支持基于依赖的决策时，您也应考虑 _如何_ 获取这些信息。
 
-**Prioritize public information**
+**优先考虑公开信息**
 
-You should first determine if publicly available information is sufficient to support your decision-making needs. Many regulators publish regulatory decisions and decision-making processes on their websites. You may also require manufacturers to notify you of changes or actions by other regulators involving their product. However, information from sources other than the RA may not always be sufficient.
+您应首先确定，公开可用的信息是否足以满足您的决策需求。 许多监管机构在其网站上发布监管决定和决策过程。 您也可能需要要求制造商通知您其他监管机构对其产品的变更或行动。 但是，来自非监管机构的信息可能并不总是足够。
 
-If public information is inadequate and you anticipate needing access to information that is non-public or that the manufacturer cannot provide (e.g., audit reports from conformity assessment bodies), you could consider whether it’s feasible to engage with the reference RA to explore an external agreement between the two regulators. Such agreements can facilitate sharing of specific non-public information between parties (e.g., specific regulators or trusted institutions) and provide opportunities to discuss decision-making aspects that would otherwise be unavailable to you as a relying RA. This would require significant discussion and alignment with the reference RA.
+如果公开信息不足，并且您预计需要访问非公开信息或制造商无法提供的信息（例如，来自合规评估机构的审计报告），您可以考虑与参考监管机构合作，探讨两个监管机构之间的外部协议。 这样的协议可以促进各方（例如，特定的监管机构或值得信赖的机构）之间分享特定非公开信息，并提供机会讨论您作为依赖监管机构无法获得的决策方面。 这需要与参考监管机构进行大量的讨论和协调。
 
-**Consider effort and sensitivity**
+**考虑投入和敏感性**
 
-You should assess the sensitivity of required information (e.g., trade secret, company confidential information from manufacturers such as test protocols or data, pre-decisional or deliberative information from the RA) and the extent to which the agreement would need to cover this. Assess information-sharing necessity and scope carefully, considering sensitivity of required data. Also consider what information you would be expected to share with your counterparts under such an agreement, as well as the internal resources required to meet these expectations and make this information available. Depending on the sensitivity and type of information about a medical device to be shared, you may need to notify or request permission from the manufacturer.
+您应评估所需信息的敏感性（例如，制造商的贸易机密、公司保密信息，如测试协议或数据、以及RA的决策性或讨论性信息），以及该协议需要覆盖的范围。仔细评估信息共享的必要性和范围，同时考虑所需数据的敏感性。此外，还应考虑在这样的协议下，您需要与对方共享哪些信息，以及满足这些期望所需的内部资源，以及如何使这些信息可获得。根据需要共享的医疗器械信息的敏感性和类型，您可能需要通知或向制造商请求许可。
 
-To minimize workload on participating organizations and limit exposure of sensitive information, share only information necessary for you to make a decision.
+为了最大限度地减少参与组织的负担，并限制敏感信息的暴露，仅共享您需要做出决定的必要信息。
 
-**Consider legal requirements**
+**考虑法律要求**
 
-Review should also consider both parties' legal frameworks to determine what external agreements are permitted (e.g., what type of information may be shared and with whom). This review should assess factors for protecting shared information, including disclosure requirements in each jurisdiction and measures to mitigate information security risks as needed. Any plan for developing a reliance program should also consider the timelines associated with establishing and/or modifying external agreements. 
+审查还应考虑双方的法律框架，以确定哪些外部协议是允许的（例如，可以共享哪些类型的信息以及与谁共享）。此审查应评估保护共享信息的因素，包括在每个司法管辖区的信息披露要求以及根据需要采取的信息安全风险缓解措施。任何开发依赖计划的计划也应考虑与建立和/或修改外部协议相关的时限。
 
-**Assessing agreement necessity**
+**评估协议必要性**
 
-External agreements can be valuable, but you do not always need them for reliance, especially for unilateral reliance and when you establish sufficient trust and understanding of the reference RAs framework. It is important to recognize that agreements can take significant time to develop, and in some cases reference RAs may not be in a position to establish an agreement. 
+外部协议可能具有价值，但您并不总是需要它们来依赖，尤其是在单方面依赖以及您充分了解参考RA框架的情况下。重要的是要认识到，协议的制定可能需要大量时间，并且在某些情况下，参考RA可能无法达成协议。
 
-In many cases, reliance can be implemented unilaterally without the active participation of the reference RA. Publicly available information and regional requirements placed on manufacturers for reporting provide sufficient support for your decision-making. As such, you are encouraged to assess your threshold for evidence for reliance-based regulatory decision-making with a focus on the availability, sufficiency, and usability of public information, along with your existing external agreements and whether any modifications are needed to support the reliance approach. Before pursuing external agreements, you should carefully assess whether your reliance objectives can be achieved through these simpler approaches.
+在许多情况下，您可以单方面依赖，而无需参考RA的积极参与。公开可用的信息以及制造商在报告方面的区域要求，为您的决策提供了充分的支持。因此，您应评估您在基于依赖的监管决策中所需的证据阈值，重点关注公开信息的可用性、充分性和实用性，以及您现有的外部协议，以及是否需要对依赖方法进行修改。在寻求外部协议之前，您应仔细评估您的依赖目标是否可以通过这些更简单的途径来实现。
 
-**Example:** Regulator A seeks to rely on Regulator B’s post-market decisions, including any restrictions or conditions for the same device(s) marketed in their jurisdiction. They also wish to have the ability to discuss confidential information with Regulator B regarding these decisions. Neither regulator currently has an agreement to share confidential information with the other. Regulator A and Regulator B discuss options for sharing confidential information with one another.  
+**示例：** 监管机构A希望依赖监管机构B的上市后决策，包括对同一在他们管辖范围内销售的设备（或设备）的任何限制或条件。他们还希望能够就这些决策与监管机构B讨论保密信息。目前，两个监管机构都没有协议，可以与对方共享保密信息。监管机构A和监管机构B讨论了如何与对方共享保密信息。
+
 ---  
 
-## Engaging stakeholders 
+## 参与利益相关者
 
-Medical device regulation involves different stakeholders who may be affected differently by your reliance program, including:
+医疗器械监管涉及不同的利益相关者，他们可能会因您的依赖计划而受到不同程度的影响，包括：
 
-  * internal stakeholders within your own organization
-  * external stakeholders (e.g., medical device industry members, patients, health care providers and other government areas and levels)
+* 组织内部的利益相关者
 
-Sharing information and collecting stakeholder feedback supports program transparency, as discussed in WHO's Good Regulatory Practices (see Section 7).
+* 外部利益相关者（例如，医疗器械行业成员、患者、医疗服务提供者以及其他政府部门和层级）
 
-Before developing your reliance program, engage each stakeholder group to:
+分享信息并收集利益相关者的反馈，有助于提高项目透明度，如《世界卫生组织良好监管实践》（见第7节）中所述。
 
-  * understand their perspectives
-  * gain their support and feedback
-  * inform them of progress towards your end goal
+在制定您的依赖计划之前，请与每个利益相关者群体进行沟通，以便：
 
-Use two-way communication when appropriate so your program design and implementation can benefit from various insights and experiences, while understanding that you may not be able to accommodate every stakeholder's preference. Stakeholder participation and support are crucial for success; stakeholders are more likely to support and correctly implement a program they helped develop. Specific considerations for different stakeholders are provided below.
+* 了解他们的观点
 
-**Internal stakeholders**
+* 争取他们的支持和反馈
 
-Transparent and well-timed communication is critical to successful implementation. You should clearly explain the intent, timeline, scope, and anticipated impact of your planned changes. Any concerns expressed within the RA should be understood and addressed to support eventual adoption of the reliance program.
+* 告知他们您实现最终目标的进展
 
-**Example:** Those within the RA responsible for development of a reliance program conduct a number of outreach opportunities within their organization (e.g., town halls, newsletters, attendance at other meetings, establishment of a specific internal website) in order to provide initial and evolving information about progress towards implementation of a reliance program. Internal stakeholders are asked for their opinions and perspective on different policy decisions. Concerns are addressed in an open and transparent manner.   
+在适当情况下，使用双向沟通，以便您的项目设计和实施能够从各种见解和经验中获益，同时也要认识到，您可能无法满足所有利益相关者的偏好。 利益相关者的参与和支持对于成功至关重要； 利益相关者更有可能支持并正确实施他们参与开发的项目。 针对不同利益相关者的具体考虑如下。
+
+**内部利益相关者**
+
+透明且及时的沟通对于成功实施至关重要。 您应清楚地说明您计划变更的意图、时间表、范围和预期的影响。 任何在RA中表达的担忧都应被理解并解决，以支持最终采用依赖计划。
+
+**示例：** 负责开发依赖计划的RA部门内部人员，应在组织内部（例如，全体会议、新闻通讯、参加其他会议、建立特定内部网站）开展一系列沟通活动，以向相关人员提供关于依赖计划实施进展的初始和不断更新的信息。 内部利益相关者应提供对不同政策决定的意见和观点。 担忧以开放和透明的方式进行处理。
+
 ---  
 
-**External stakeholders**
+**外部利益相关者**
 
-Seek to understand external stakeholders' needs and interests. Your outreach should address each stakeholder group to:
+旨在了解外部利益相关者的需求和利益。 您的沟通应针对每个利益相关者群体：
 
-  * inform them of potential benefits (e.g., continued or improved RA performance in non-reliance areas without loss of device quality, and the reliance program's ability to facilitate access to other markets)
-  * learn about their interests and concerns associated with reliance
+* 告知他们潜在的好处（例如，在不影响设备质量的情况下，RA部门在非依赖领域持续或提高绩效，以及依赖计划能够促进进入其他市场的能力）
 
-Your local medical device industry may be particularly sensitive to reliance program development and its potential domestic market impact. Target your outreach appropriately to include both large and small/medium-sized enterprises. During outreach, consider discussing:
+* 了解与依赖相关的他们的利益和顾虑
 
-  * the expected impact on resources available for other regulatory activities
-  * any resulting changes in timelines for these activities
-  * any different opportunities outside the local market that the reliance program could introduce
+您所在地区的医疗器械行业可能特别关注依赖计划的开发及其对国内市场的潜在影响。 针对性地开展沟通，包括大型企业和小型/中型企业。 在沟通过程中，可以考虑讨论：
 
-**Example:** The RA considering a reliance program solicits feedback from external stakeholders regarding planned changes to the regulatory framework. The consultation includes specific questions and is publicized via a variety of channels (e.g., press announcements, presentations at external conferences) in order to reach as many stakeholders as possible. After considering stakeholder responses, the RA provides updates at regular intervals in a variety of formats (e.g., meetings, conferences, workshops, websites) regarding progress towards the implementation of the reliance program.  
+* 对其他监管活动可用的资源产生的影响
+
+* 这些活动的时间表可能产生的任何变化
+
+* 依赖计划可能引入的任何其他机会
+
+**示例：** 负责评估依赖计划的监管机构，会向外部利益相关者征求关于拟对监管框架进行变更的反馈。 咨询包括具体的提问，并通过各种渠道（例如，新闻发布、在外部会议上的演讲）进行宣传，以便尽可能接触到尽可能多的利益相关者。 在考虑利益相关者的反馈后，监管机构会定期以各种形式（例如，会议、研讨会、网站）提供关于实施依赖计划的进展情况。
+
 ---  
 
-## Conducting a regulatory analysis
+## 进行监管分析
 
-Using information discussed throughout this playbook, you will be able to conduct a regulatory analysis to make informed decisions regarding the best approach to a reliance program with insights gained from:
+通过本手册中讨论的信息，您将能够进行监管分析，从而做出关于最佳依赖计划方法的明智决策，并从以下方面获得见解：
 
-  * information gathering (e.g., regulatory data, operational metrics, cost estimates)
-  * internal assessments
-  * stakeholder engagement
+* 信息收集（例如，监管数据、运营指标、成本估算）
 
-This analysis allows you to:
+* 内部评估
 
-  * assess costs and benefits of potential changes and identify alternative policy options
-  * evaluate resource investment needs, including training, necessary to support long-term program success
-  * address stakeholder questions and support any change associated with implementing your desired program
+* 利益相关者参与
 
-Based on this analysis and other factors, you may decide to develop a regulatory reliance program. Your next phase will include taking actionable steps to:
+通过这种分析，您可以：
 
-  * establish the program
-  * determine implementation details
-  * maximize its likelihood of success
+* 评估潜在变更的成本和收益，并识别替代政策选项
 
-These steps are discussed in the next section.
+* 评估所需的资源投资，包括培训，以支持长期计划的成功
 
-# Steps to Develop and Implement a Reliance Program
+* 解决利益相关者的疑问，并支持与实施您期望的计划相关的任何变更
 
-## Introduction
+根据这种分析和其他因素，您可能会决定开发一个监管依赖计划。 您的下一阶段将包括采取可行的措施，以：
 
-Once you clearly understand the operating landscape for your future reliance program, you can begin developing it and taking concrete steps toward implementation. Many actions will be guided by learning from activities discussed in the previous sections. Developing your program may become iterative, requiring changes in previously settled areas as you gain experience and new information becomes available. You may also pursue phased implementation, such as gaining experience with reliance in well-understood regulatory activities before expanding further.
+* 建立该计划
 
-The following sections include specific steps for establishing a robust reliance program. You do not have to do them in the order listed, although some actions will naturally occur after others (e.g., external outreach regarding your reliance program's details can only happen once these details are established). Like the considerations in the previous section, you may need additional steps beyond those listed to fully implement your program. Unless otherwise specified, these steps apply to any reliance program regardless of regulatory activities or partners involved.
+* 确定实施细节
 
-**Retaining Independence**
+* 提高其成功的可能性
 
-It is important to remember that a reliance program should not be imposed on any RA by another external authority or institution. You should retain independence in choosing reliance-based models and making changes when warranted to meet your needs and those of your population. When developing your reliance program, it is important to retain the ability to make future program changes, including terminating it if desired.  
+这些步骤将在下一部分中讨论。
 
-## Establish the scope of reliance 
+# 制定和实施依赖计划的步骤
 
-Early in your reliance program development process, you should establish the scope of your desired reliance-based activities. These boundaries significantly impact implementation, so you should establish the scope before developing any detailed processes. What you learned from activities discussed in Section 5 will influence your desired program scope, along with internal considerations such as available resources, existing initiatives, memoranda of understanding, and partnerships.
+## 简介
 
-**Key Elements for Scope Setting**
+一旦您清楚了解您未来依赖项目的运营环境，您就可以开始制定和实施该项目。许多行动将基于先前章节中讨论的活动进行指导。开发您的项目可能会是迭代的，需要根据您获得经验和新信息而对先前确定的领域进行修改。您还可以采用分阶段实施，例如，在充分了解的监管活动中获得依赖经验，然后再进一步扩展。
 
-Consider the following elements when setting your reliance program's scope. These elements are interdependent and can be challenging to separate. 
+以下章节包含建立强大依赖项目的具体步骤。您不必按照列表中的顺序执行这些步骤，尽管某些行动会自然地在其他行动之后发生（例如，就您的依赖项目细节进行外部沟通只能在这些细节确定后发生）。与先前章节中讨论的考虑事项一样，您可能需要超出列表中所列的额外步骤，以完全实施您的项目。除非另有说明，否则这些步骤适用于任何依赖项目，无论涉及的监管活动或参与的合作伙伴。
 
-For example, the type of reliance and extent to which a reference RA's assessment impacts your decision-making may vary by RA, depending on factors such as: 
+**保持独立性**
 
-  * similarities between regulatory frameworks
-  * device risk classifications
-  * decision-making approaches
-  * availability of information supporting regulatory decisions
+重要的是记住，依赖项目不应由任何其他外部机构或机构强加给任何监管机构。您应该在选择基于依赖的模型和在需要时进行更改以满足您和您所在人群的需求方面保持独立性。在开发您的依赖项目时，重要的是保留未来更改项目的能力，包括在需要时终止该项目。
 
-Other considerations beyond those listed may also be important.
+## 确定依赖范围
 
-### Identifying Specific Regulatory Activities 
+在您开发依赖型项目时，您应该确定您希望进行的依赖型活动范围。这些范围对实施产生重大影响，因此您应该在制定任何详细流程之前确定范围。您从第 5 节中了解到的信息将影响您期望的计划范围，以及内部因素，如可用资源、现有举措、谅解备忘录和合作关系。
 
-You should identify the specific regulatory activities to be included in your program (e.g., inspections, audits, emergency use authorization, market surveillance, enforcement actions such as recalls). Reliance could also involve a subset of activities (e.g., pre-market regulatory decisions only for certain device types, routine but not for-cause inspection results). Your desired reliance-based regulatory activities' scope should be consistent with your regulatory system's legal framework (see Section 5.3).
+**确定范围的关键要素**
 
-When determining specific activities to include, consider the benefits and challenges of different approaches. Some strategic approaches are:
+在确定您依赖型项目的范围时，请考虑以下要素。这些要素相互依赖，并且可能难以区分。
 
-  * **Resource-based approach.** Review your current resources and expertise alongside your envisioned future role. You may continue performing activities where you have expertise and adopt reliance where you have limited resources. Alternatively, you may develop expertise in new areas and gradually adopt reliance in familiar areas based on your comfort level.
-  * **Feasibility-based approach**. Consider activities where adopting reliance would be easiest from legal and organizational perspectives. These activities may include those for which sufficient expertise exists to evaluate potential reliance paths' suitability, and different levels of reliance for activities you are newly undertaking.
+例如，依赖的类型以及参考 RA 的评估对您决策的影响程度，可能会因 RA 而异，具体取决于以下因素：
 
-**Example:** Regulator A has limited resources for post-market activities and identifies these as a potential area for reliance. A review on their legal framework confirms no restrictions exist that would prevent reliance-based approaches. Through an agreement, Regulator B shares regulatory decisions on market withdrawals due to safety reasons involving devices also marketed in Regulator A's jurisdiction. Regulator A reviews these decisions, considers local context, and determines whether similar action is needed in their jurisdiction. This enables timely identification of safety issues while maintaining regulatory independence.  
+* 监管框架之间的相似性
+
+* 医疗器械风险分类
+
+* 决策方法
+
+* 支持监管决策的信息可用性
+
+其他未列出的考虑因素也可能很重要。
+
+### 识别具体的监管活动
+
+您应确定要包含在您的计划中的具体监管活动（例如，检查、审计、紧急使用授权、市场监督、执法行动，如召回）。依赖也可能仅限于某些活动（例如，仅针对特定类型医疗器械的预上市监管决策、常规但不针对特定情况的检查结果）。您希望基于依赖的监管活动的范围应与您的监管系统的法律框架保持一致（参见第 5.3 节）。
+
+在确定要包含的具体活动时，请考虑不同方法的优势和挑战。一些策略性方法包括：
+
+* **基于资源的策略。** 审查您当前的资源和专业知识，并与您设想的未来角色进行比较。您可能继续执行您具备专业知识的活动，并在资源有限的情况下采用依赖。或者，您可以培养在新领域的专业知识，并根据您的舒适程度，逐步在熟悉领域采用依赖。
+
+* **基于可行性的策略。** 考虑在法律和组织层面，采用依赖最容易的活动。这些活动可能包括那些存在足够专业知识来评估潜在依赖路径适用性的活动，以及您正在新开展的活动的不同级别的依赖。
+
+**示例：** 监管机构 A 资源有限，主要用于上市后活动，并将其视为可依赖的潜在领域。对其法律框架的审查确认，不存在任何限制，可以采用基于依赖的方法。通过协议，监管机构 B 与监管机构 A 在因设备在监管机构 A 管辖范围内上市而导致的安全原因引起的市场撤销方面的监管决策共享。监管机构 A 审查这些决策，考虑当地情况，并确定是否需要在其管辖范围内采取类似行动。这有助于及时识别安全问题，同时保持监管独立性。
+
 ---  
 
-### Selecting Reference Regulatory Authorities
+### 选择参考监管机构
 
-You should identify the reference RA(s) you plan to rely on based on: 
+您应根据以下标准，确定您计划依赖的参考监管机构（RA）：
 
-  * comparison of key factors with potential RAs (outlined in Section 5.4)
-  * any existing or planned agreements that may impact your choice (see Section 5.5)
+* 将关键因素与潜在的监管机构（见第 5.4 节）进行比较
 
-Selecting reference RAs is interdependent with choosing specific regulatory activities to include in your reliance program. Different RAs have different approaches to different regulatory activities. You may choose to:
+* 任何现有的或计划中的协议，这些协议可能会影响您的选择（见第 5.5 节）
 
-  * work with one RA for one activity and a different RA for another activity; or
-  * implement different reliance types for the same regulatory activity
+选择参考监管机构与选择您在依赖计划中包含的特定监管活动是相互关联的。不同的监管机构对不同的监管活动采用不同的方法。您可以：
 
-**Example:** Regulator A incorporates different forms of reliance based on decisions from three different reference RAs. They recognize (per Section 4.2) pre-market regulatory decisions of Regulator B given their similarities in device classification and regulatory controls. They also establish an abridged regulatory review pathway that uses pre-market regulatory decisions from Regulator C, due to some differences in regulatory controls. They accept the results of routine inspections conducted by Regulator D, due to similarities in inspections requirements.   
+* 与一个监管机构合作进行一项活动，并与另一个监管机构合作进行另一项活动；或
+
+* 对相同的监管活动实施不同的依赖类型
+
+**示例：** 监管机构 A 根据三个不同参考监管机构的决策，采用不同的依赖形式。他们认识到（参见第 4.2 条），根据设备分类和监管控制的相似性，监管机构 B 的预上市监管决策。他们还建立了简化的监管审查途径，利用监管机构 C 的预上市监管决策，这是由于监管控制存在一些差异。他们接受监管机构 D 进行的常规检查结果，这是由于检查要求相似。
+
 ---  
 
-You are encouraged to engage with potential reference RAs:
+您应积极与潜在的参考监管机构进行沟通：
 
-  * when questions arise about differences in approach, particularly when those differences would result in a more complicated or challenging reliance program. Benefits are best realized when the reliance approach is straightforward and easy for all stakeholders to understand
-  * to determine if new or modified agreements should be established
+* 当出现关于方法差异的问题时，尤其是在这些差异会导致更复杂或更具挑战性的依赖程序时。在所有利益相关者都能理解的情况下，最容易实现依赖方法的优势。
 
-to promote awareness of your reliance program to learn about regulatory changes that could impact your program. Given the importance of trust in a reliance program, you may wish to select reference RA(s) with whom you already work closely or have existing partnerships at other government levels. You may also consider how frequently other RAs rely on them (e.g., choosing a reference RA that is relied upon by a large number of other regulators whose decisions you trust).
+* 以确定是否应建立新的或修改后的协议
 
-### Determining the Type of Reliance
+为了提高您依赖程序的知名度，了解可能影响您程序的监管变化。鉴于依赖程序中的信任的重要性，您可能希望选择与您已经密切合作或在其他政府级别拥有现有合作关系的参考监管机构。您还应考虑其他监管机构如何依赖他们（例如，选择一个被大量其他监管机构依赖的参考监管机构，而您信任这些机构的决策）。
 
-You should determine how you use reliance in your own decision-making process. Different types of reliance (see Section 4) vary in their impact on your decision-making, depending on: 
+### 确定依赖类型
 
-  * activity scope (see Section 6.2.1)
-  * selected reference RA (see Section 6.2.2) 
-  * legal framework 
+您应确定您在自己的决策过程中如何使用依赖。不同类型的依赖（参见第 4 节）在对您的决策产生的影响方面有所不同，这取决于：
 
-Your legal framework may restrict using information beyond what you receive and review yourself, and/or require that you make final decisions. If legal framework changes would be necessary to accommodate your desired extent of reliance, you should pursue these changes before developing your program or consider different implementation approaches that fit within existing legal frameworks until or unless other legal changes are enacted.
+* 活动范围（参见第 6.2.1 节）
 
-**Example:** Regulator A wishes to develop a recognition-based reliance program so that it can completely accept pre-market regulatory decision granted by Regulator B without any need for further review. After conducting the assessment discussed in Section 5.3, Regulator A determines that the current legal framework for their regulatory system requires that they (Regulator A) issue the final decision. With this requirement in mind, they begin to develop a reliance process that heavily incorporates the pre-market regulatory decisions made by Regulator B as part of their own decision-making, but with Regulator A issuing the final decision. Regulatory efficiency is still gained from this process while legal requirements are met.   
+* 选定的参考监管机构（参见第 6.2.2 节）
+
+* 法律框架
+
+您的法律框架可能会限制您使用超出您自己获取和审查的信息，或者要求您做出最终决定。如果为了适应您希望的依赖程度，需要修改法律框架，您应该在开发您的程序之前，或在其他法律变化生效之前，考虑不同的实施方法，这些方法符合现有的法律框架。
+
+**示例：** 监管机构 A 想要开发一种基于认可的依赖程序，以便完全接受监管机构 B 在市场之前做出的监管决定，而无需进一步审查。在进行第 5.3 节中讨论的评估后，监管机构 A 确定，其监管系统的当前法律框架要求（监管机构 A）做出最终决定。考虑到这一要求，他们开始开发一个依赖程序，该程序将监管机构 B 在市场之前做出的监管决定作为其决策的一部分，但监管机构 A 仍然做出最终决定。通过这个程序，仍然可以提高监管效率，同时满足法律要求。
+
 ---  
 
-As part of this process, you should also consider your approach for managing device lifecycles in your reliance program, including change management and regulatory status changes (including market withdrawals). Different authorities may have varying procedures for manufacturer obligations to inform them of changes that impact device safety and effectiveness, and different change assessment processes. Additionally, if a device is removed from the market in the reference RA’s jurisdiction, you must decide whether it remains eligible for the reliance program. The significance of these factors in the planned reliance program and the availability of this information for other regulatory jurisdictions are therefore important considerations when deciding which regulatory activities and reference RA to include.
+作为这个流程的一部分，您还应考虑您在依赖计划中管理设备生命周期的方法，包括变更管理和监管状态变更（包括市场退出）。不同的监管机构可能对制造商有不同的程序，要求他们告知变更，这些变更会影响设备的安全性、有效性，以及不同的变更评估流程。此外，如果设备在参考RA的管辖范围内被从市场上撤回，您必须决定它是否仍然符合依赖计划的条件。因此，这些因素在计划中的依赖计划以及这些信息对其他监管辖区的可用性，在决定要包括哪些监管活动和参考RA时，至关重要。
 
-**Managing changes in reliance scope**
+**管理依赖范围内的变更**
 
-After establishing your desired scope and implemented the reliance processes, you may later decide that scope changes are required. You should allow for such changes to ensure appropriate reliance options remain available, accompanied by reviews of current processes to determine if process changes are also needed (see Section 6.7).
+在确定您所需的范围并实施依赖流程后，您可能会决定需要进行范围变更。您应允许进行此类变更，以确保适当的依赖选项仍然可用，并对当前的流程进行审查，以确定是否也需要变更（参见第6.7节）。
 
-## Establish reliance processes and procedures
+## 建立依赖流程和程序
 
-After establishing your program scope, you should develop implementation details for your agency and jurisdiction. This process will likely involve developing or modifying internal resources such as standard operating procedures, work aids, templates, memoranda of understanding, and externally-facing publications.
+在确定您的计划范围后，您应为您的机构和辖区制定实施细节。这个过程可能包括开发或修改内部资源，例如标准操作程序、工作辅助、模板、谅解备忘录以及面向外部的出版物。
 
-Because these steps are highly specific to your circumstances and your chosen program, a detailed listing of which steps to take is difficult to provide. However, you should ensure your reliance processes and procedures clearly describe the following elements to avoid misinterpretation:
+由于这些步骤高度具体，并且取决于您的具体情况和您选择的计划，因此很难提供详细的步骤清单。但是，您应确保您的依赖流程和程序明确描述以下要素，以避免误解：
 
-**Eligibility**
+**资格**
 
-Define eligibility criteria for your reliance program, including:
+定义您依赖计划的资格标准，包括：
 
-  * medical device types, including risk classification and category/nomenclature
-  * whether the reliance process could be applied to groups of similar devices in addition to individual devices, and under what conditions this would be permissible 
-  * regulatory activities (e.g., marketing registration/placement, post-market surveillance)
-  * whether eligibility is affected by the marketing status in the reference RA jurisdiction (e.g., whether medical devices would be eligible if they are or have been withdrawn from the market in these jurisdictions, and if so, whether the reason for withdrawal would impact eligibility)
-  * any eligibility conditions related to the specific regulatory decision being relied upon (e.g., if the original decision can be made via abridged or recognized review or if the decision must have been made via full review)
-  * any exclusions, as well as a process for confirming eligibility
+* 医疗器械类型，包括风险分类和类别/术语
 
-**Process Steps**
+* 确定依赖流程是否可以应用于类似设备的群体，以及在什么条件下这样做是允许的
 
-Establish steps for your reliance-based regulatory process, including:
+* 监管活动（例如，营销注册/上市、上市后监测）
 
-  * how information regarding the reference RA’s decision will be obtained (e.g., information-sharing agreements with other RA, public information, documentation from the manufacturer), including any future updates related to that decision (e.g., subsequent recalls, market withdrawal, device changes)
-  * process for confirming that the medical device under review and its intended use can be considered identical to the version on which the reference RA’s decisions were based, including any necessary evidence and justification for any differences. This concept of establishing “sameness” of the device is important in instilling confidence in your reliance program. The definition of _essentially identical medical device_[4]**** developed by the Brazilian Health Regulatory Agency (ANVISA) may be helpful in developing criteria for this process 
-  * to what extent you will conduct the review, which will depend in part on the reliance type (see Section 4) and approach, including any role of third parties in relation to the reliance program
-  * any timelines, if applicable, associated with any of the above steps
+* 确定资格是否受参考监管机构（例如，医疗器械是否在这些司法辖区上市或已下架）的影响，以及如果适用，下架的原因是否会影响资格
 
-**Documentation**
+* 任何与所依赖的特定监管决策相关的资格条件（例如，如果原始决定可以通过简化的或认可的审查进行，或者该决定必须通过完整的审查进行）
 
-Types of documents needed, including: 
+* 任何排除情况，以及确认资格的流程
 
-  * evidence to support your review, from the reference RA or manufacturer
-  * documentation of your final regulatory decision
+**流程步骤**
 
-When determining document needs and where they come from, you should:
+建立您基于依赖的监管流程的步骤，包括：
 
-  * ensure the requirements do not go beyond what is necessary for you to make a sufficiently informed reliance-based decision 
-  * consider any additional burden on manufacturers and reference RAs as part of this process
-  * prioritize publicly available information such as online databases where possible. Supporting documentation issued by the reference RA (e.g., free sale certificates, certificates to foreign government) can serve as secondary evidence to support your reliance decisions. It is important to avoid unnecessary restrictions on when this documentation can be accepted (such as only accepting this evidence if the device is manufactured in the reference RA jurisdiction, rather than focusing on whether the device has been authorized by a reference RA) 
+* 如何获取参考监管机构的决定信息（例如，与其他监管机构的信息共享协议、公开信息、制造商的文档），包括与该决定相关的任何后续更新（例如，后续召回、市场下架、设备变更）
 
-**Communication Plan**
+* 确定所审查的医疗器械及其预期用途是否与基于参考RA决策的版本相同，包括任何必要的证据和对任何差异的合理性说明的过程。 建立“设备相同”的概念对于建立您依赖程序的信心至关重要。 巴西卫生监管机构（ANVISA）制定的《基本上相同的医疗器械》[4]的定义，可能有助于制定该过程的标准。
 
-Processes for disclosing information on your reliance program to the public, including:
+* 您将进行审查的程度，这取决于依赖类型（见第4节）和方法，包括依赖程序中第三方的作用。
 
-  * details of reliance-based regulatory processes, such as eligibility criteria
-  * processes that manufacturers/local representatives would need to follow to use the program
-  * regulatory decisions resulting from your reliance program and the level of transparency of this information (e.g., whether to disclose that the decision was reliance-based)
+* 如果适用，与上述任何步骤相关的任何时间表。
 
-While not all the details of reliance programs need to be shared publicly, you should provide sufficient transparency so that the public understands the purpose, benefits, and outcomes of your program to minimize the risk of losing public trust.
+**文件**
 
-**Staff Training**
+所需文件类型，包括：
 
-Ensure all staff and management involved in carrying out reliance functions received relevant process training. Training should:
+* 支持您审查的证据，来自参考RA或制造商
 
-  * cover procedural steps for reliance activities
-  * communicate the benefits of adopting the reliance program for your regulatory jurisdiction
-  * gather feedback on your proposed program
+* 您最终的监管决策的记录
 
-The contents of IMDRF/GRRP WG/N40 - _Competence, Training, and Conduct Requirements for Regulatory Reviewers_ may be a useful resource in developing these training needs. While this document is intended for those performing regulatory reviews and/or making decisions related to the device, many of the concepts and approaches can be adapted to other regulatory activities.
+在确定所需文件以及其来源时，您应：
 
-**Example:** After developing its reliance program, the RA has prepared various materials. The materials intended for internal use include detailed standard operating procedures for conducting all aspects of the reliance-based regulatory activities, along with training materials to educate management and staff on these processes and promote understanding of the purpose of the program. Externally focused materials (as discussed further in Section 6.6) include an announcement of the initiation of the reliance program, a guide for industry on how the reliance program is expected to impact them, and information on the RA’s website for communicating the outcomes of reliance-based regulatory work.  
+* 确保要求不会超出您充分了解并基于依赖的决策所需的范围
+
+* 考虑在这一过程中，制造商和参考RA可能承担的额外负担
+
+* 尽可能优先使用公开信息，例如在线数据库。参考RA发出的支持性文件（例如，免销售证书、向外国政府的证书）可作为辅助证据，以支持您的依赖决策。重要的是，避免对何时接受这些文件设置不必要的限制（例如，仅在设备由参考RA管辖范围内制造时接受这些证据，而不是关注设备是否已获得参考RA的授权），从而避免不必要的限制。
+
+**沟通计划**
+
+向公众披露您依赖计划信息的流程，包括：
+
+* 依赖型监管流程的详细信息，例如资格标准
+
+* 制造商/当地代表需要遵循的流程，以使用该计划
+
+* 您的依赖计划产生的监管决策以及该信息的透明度水平（例如，是否披露该决策是基于依赖的）
+
+[Glossary - 使用这些精确的翻译，当这些术语出现时：]
+  差距分析 -> Gap Analysis
+  test_zh -> test_en
+
+虽然并非所有依赖计划的细节都需要公开，但您应该提供充分的透明度，以便公众了解您计划的目的、益处和结果，从而最大限度地降低失去公众信任的风险。
+
+**员工培训**
+
+确保所有参与实施依赖功能的员工和管理人员都接受了相关的程序培训。培训应：
+
+* 涵盖依赖活动的程序步骤
+
+* 沟通采用依赖计划对您监管辖区的益处
+
+* 收集您计划的反馈
+
+《IMDRF/GRRP WG/N40 - 监管审查人员的资质、培训和行为要求》的内容可能是有用的资源，用于制定这些培训需求。虽然这份文件是为执行监管审查和/或与设备相关的决策的人员准备的，但许多概念和方法可以适应其他监管活动。
+
+**示例：** 在制定依赖计划后，RA 已经准备了各种材料。 内部使用的材料包括有关如何进行所有基于依赖的监管活动的详细标准操作程序，以及用于教育管理人员和员工的培训材料，以了解这些程序并理解计划的目的。 外部导向的材料（如第 6.6 节进一步讨论的）包括宣布依赖计划的启动、一份指导，说明依赖计划预计将如何影响行业，以及 RA 网站上的信息，用于沟通基于依赖的监管工作的结果。
+
 ---  
 
-## Define roles of supporting documents and resources
+## 定义支持性文件和资源的职责
 
-A key part of developing implementation processes is identifying what information and approaches you'll use to support your decision-making. The supporting documents you need will depend on: 
+制定实施流程的关键部分是确定您将使用哪些信息和方法来支持您的决策。您需要的文件将取决于：
 
-  * your selected regulatory activities
-  * your reference RA
-  * how reliance affects your decision-making
+* 您选择的监管活动
 
-For example, you may require more documentation from the manufacturers when choosing reference RAs that use different regulatory controls to ensure your own requirements are met.
+* 您使用的参考RA
 
-**Maximizing Benefits Through Existing Approaches**
+* 依赖对您的决策的影响
 
-While you can develop new evaluation criteria or processes for reliance purposes or apply your existing jurisdiction-specific approaches, you can maximize your reliance program's benefits by leveraging existing approaches developed using consensus-based processes involving multiple regulatory jurisdictions (ideally involving both you and your reference RA). This approach:
+例如，在选择使用不同监管控制的参考RA时，您可能需要从制造商处获取更多文件，以确保满足您自身的要求。
 
-  * reduces ambiguity and differences across jurisdictions 
-  * builds on confidence already established in these resources
-  * increases reliance-related efficiencies
+**通过现有方法最大化收益**
 
-Examples include using globally-adopted consensus standards for medical devices or relevant IMDRF guidance for your reliance-based activity. Ensuring that your reliance program requirements align with established regulatory practices helps support regulatory convergence.
+虽然您可以为依赖目的开发新的评估标准或流程，或者应用您现有的特定管辖区的做法，但您可以通过利用使用多管辖区（理想情况下包括您和参考RA）的基于共识的流程开发的现有方法来最大化您的依赖计划的收益。这种方法：
 
-Below are examples of supporting information types for certain reliance activities, along with approaches you may consider in optimizing available and aligned regulatory resources:
+* 减少跨管辖区的歧义和差异
 
-  * For regulatory submission-related processes, the criteria used to place the device on the market
-    * IMDRF Good Regulatory Review Practices Working Group (GRRP WG) documents
-    * IMDRF Regulated Product Submission Working Group (RPS WG) documents
-    * Consensus standards for medical devices that facilitate the use of a common set of safety and performance evaluation criteria
-  * For medical device quality management systems (QMS), the QMS requirements the manufacturer needs to meet and the audit process
-    * ISO 13485 Medical devices – _Quality management systems – Requirements for regulatory purposes_
-    * Regulatory participation in MDSAP, as mentioned in Section 4.2 as an example of work-sharing
-  * For post-market surveillance of adverse events, the classification and definition of adverse events and the reporting requirements
-    * IMDRF Adverse Event Terminology Working Group (AET WG) documents
-    * GHTF/SG2/N54R8 - _Medical Devices Post Market Surveillance: Global Guidance for Adverse Event Reporting for Medical Devices_
+* 建立在这些资源中已建立的信任之上
 
-  * For recalls and other enforcement activities, the classifications and consequences for these actions
+* 提高与依赖相关的效率
 
-**Example:** Regulator A and Regulator B develop a reliance program using a work-sharing model. Based on the assessment of each RA’s regulatory system, they conclude that the scientific evidence needed to support pre-market regulatory decisions in each regulatory jurisdiction is consistent with the expectations described in IMDRF/GRRP WG/N47 - _Essential Principles of Safety and Performance of Medical Devices and IVD Medical Devices_ and IMDRF/GRRP WG/N52 - _Principles of Labeling for Medical Devices and IVD Medical Devices_. Therefore, they decide that the eligibility criteria for this program should include the requirement that the manufacturer demonstrate that the relevant Essential Principles in the IMDRF documents have been met for the candidate medical device.  
+例如，可以使用全球认可的医疗器械共识标准或与您的依赖活动相关的IMDRF指导。确保您的依赖计划要求与已建立的监管实践保持一致，有助于促进监管整合。
+
+以下是一些特定依赖活动的支持性信息类型示例，以及您可能考虑的优化现有和一致的监管资源的策略：
+
+* 对于与监管提交相关的流程，用于将设备投放市场的标准
+
+* IMDRF“良好监管审查实践”工作组（GRRP WG）文件
+
+* IMDRF 监管产品提交工作组 (RPS WG) 文档
+
+* 促进使用一套共同的安全和性能评估标准的医疗器械共识标准
+
+* 对于医疗器械质量管理系统 (QMS)，包括制造商需要满足的要求以及审计流程
+
+* ISO 13485 医疗器械 – _质量管理系统 – 适用于监管目的的要求_
+
+* 参与 MDSAP 的监管参与，如第 4.2 节所述，作为工作共享的示例
+
+* 对于不良事件的上市后监测，包括不良事件的分类和定义以及报告要求
+
+* IMDRF 不良事件术语工作组 (AET WG) 文档
+
+* GHTF/SG2/N54R8 – _医疗器械上市后监测：医疗器械不良事件报告的全球指南_
+
+* 对于召回和其他执法活动，包括这些行动的分类和后果
+
+**示例：** 监管机构 A 和监管机构 B 采用工作共享模型，共同开发了依赖计划。 根据对每个监管机构的监管体系的评估，他们得出结论，支持每个监管辖区预上市监管决策的科学证据与 IMDRF/GRRP WG/N47 – _医疗器械和体外诊断医疗器械的安全和性能的基本原则_ 以及 IMDRF/GRRP WG/N52 – _医疗器械和体外诊断医疗器械的标签原则_ 中描述的期望保持一致。 因此，他们决定，该计划的资格标准应包括要求制造商证明，该候选医疗器械符合 IMDRF 文档中相关的基本原则。
+
 ---  
 
-The approaches discussed in IMDRF/Standards WG/N51 - _Optimizing Standards for Regulatory Use_ may be helpful in adopting a reliance program that leverages consensus standards, as well as developing new standards that would be most suitable for such a program.
+|讨论的IMDRF/标准WG/N51 - _优化标准以供监管使用_中的方法，可能对采用利用共识标准的依赖计划有所帮助，同时也可能用于开发最适合此类计划的新标准。|
 
-In addition, you may wish to actively contribute to the development of resources like those listed above. This would allow you to apply experience gained from implementing your reliance programs and develop work products that could assist your ongoing reliance work.
+此外，您可能希望积极参与开发如上所述的资源。这将使您能够应用在实施您的依赖计划中获得的经验，并开发可以协助您持续依赖工作的成果。|
 
-## Formalize any necessary agreements
+## 明确任何必要的协议
 
-As part of identifying your reference RAs and establishing work processes, you may need to create or revise agreements with your reference RAs to implement your reliance program, as discussed in Section 5.5. 
+在确定您的参考RA并建立工作流程的过程中，您可能需要与您的参考RA签订或修改协议，以实施您的依赖计划，如第5.5节所述。
 
-A key consideration in these agreements is how you will handle information-sharing. Keeping in mind that efficiency is one of the main benefits of reliance, you should minimize additional information requirements beyond what has already been submitted to and assessed by the other regulator, where possible. A risk-based approach to additional information requirements and review allows you to appropriately set regulatory requirements under a reliance program and maximize its benefits.
+这些协议中的一个关键考虑因素是如何处理信息共享。考虑到效率是依赖的主要优势之一，您应尽可能减少超出其他监管机构已提交并已评估的信息要求，除非必要。采用基于风险的方法来处理额外的信息要求和审查，可以帮助您在依赖计划下适当设定监管要求，并最大限度地发挥其优势。
 
-**Example:** Regulator A would like to recognize the regulatory decisions of Regulator B and is considering whether an information-sharing agreement is needed. Regulator A conducted an analysis of Regulator B’s regulatory controls and determined that they are sufficiently similar to those of Regulator A with the exception of post-market reporting requirements. While both Regulator A and Regulator B require manufacturers to establish a quality system, Regulator A requires manufacturers to report specific trend data on an annual basis and Regulator B only requires submission of trend data if an issue is identified. Based on the similarities between the two regulatory systems, Regulator A decides that it will recognize decisions of Regulator B with the condition that manufacturers must submit proof of marketing registration/placement by Regulator B and also annual trend data in order to meet the requirement of Regulator A that is not part of Regulator B’s requirements. As a result, Regulator A determines that an information-sharing agreement with Regulator B is not needed in order to implement this reliance program.   
+**示例：** 监管机构 A 希望认可监管机构 B 的监管决策，并正在考虑是否需要签订信息共享协议。监管机构 A 对监管机构 B 的监管控制进行了分析，并确定它们与监管机构 A 的控制非常相似，仅在上市后报告要求方面有所不同。虽然监管机构 A 和监管机构 B 都要求制造商建立质量体系，但监管机构 A 要求制造商按年度提交特定趋势数据，而监管机构 B 仅要求在发现问题时提交趋势数据。基于两项监管体系的相似性，监管机构 A 决定，在制造商必须提交监管机构 B 的营销注册/放置证明以及符合监管机构 A 的要求（即监管机构 B 不要求的）年度趋势数据的前提下，认可监管机构 B 的决策。因此，监管机构 A 确定，为了实施此依赖计划，无需与监管机构 B 签订信息共享协议。
+
 ---  
 
-These agreements can also serve as a mechanism for achieving the following goals, if desired:
+这些协议还可以作为实现以下目标的机制（如果需要）：
 
-  * Aligning regulatory approaches, such as by agreeing to the use of common evaluation criteria or definitions as discussed in Section 6.4
-  * Establishing the details of a mutual recognition or work-sharing reliance program 
-  * Clarifying how to communicate regarding any changes in either regulatory jurisdiction that could impact the reliance program
-  * Facilitating the exchange of information related to post-market regulatory decisions, such as market withdrawals
-  * Creating a method for communicating to the public on reliance-based regulatory decisions
+* 对齐监管方法，例如，通过同意使用在第 6.4 节中讨论的常见评估标准或定义。
 
-It is also important to recognize that establishing an agreement may not always be necessary or feasible, as discussed in Section 5.5.
+* 建立互认或合作共享计划的细节
 
-## Continue stakeholder engagement
+* 明确如何就任何可能影响互认计划的监管辖区变更进行沟通
 
-You should have a comprehensive plan for engaging with internal and external stakeholders throughout your reliance program's lifecycle, including during:
+* 促进与市场撤回等后市场监管决策相关信息的交换
 
-  * development
-  * implementation, and 
-  * post-implementation
+* 建立一种向公众沟通基于互认的监管决策的方法
 
-These interactions should build on the initial engagement activities discussed in Section 5.6 and focus on maintaining your program's quality and utility.
+此外，也应认识到，根据第 5.5 节所述，建立协议可能并不总是必要或可行。
 
-The following are suggested elements you could incorporate in your stakeholder engagement plan, during and after reliance program development:
+## 继续开展利益相关者参与
 
-  * **Conduct training** for both internal and external audiences, with potential differences in content for each. For example, internal training will likely focus on relevant regulatory review processes and building required competencies, while external training focuses on industry-related aspects such as participation pathways for manufacturers and the impact on regulatory requirements
-  * **Publicize your program** to ensure the medical device industry, both domestic and global, understands the potential benefits. Extend similar outreach to relevant public sectors such as patient advocacy groups, including discussion of any expected impact on patient safety and medical device access
-  * **Allow for ongoing feedback** throughout your program's lifecycle, and use it to inform potential changes through your management system as discussed in Section 6.7
-  * **Keep reference RAs informed** of changes in your regulatory system. This communication may be part of agreements you establish (see Section 6.5). Even without formal agreements, discussing your respective regulatory systems' status and planned changes can establish trust and potentially create more collaboration opportunities
-  * **Engage in appropriate forums** such as IMDRF and other knowledge-sharing and mutual learning initiatives (e.g. [WHO Collaborative Registration Procedure](<https://www.who.int/teams/regulation-prequalification/regulation-and-safety/facilitated-product-introduction/collaborative-registration-procedure/crp-for-who-prequalified-in-vitro-diagnostics>)), to share successes and lessons learned, and learn from others with similar experiences. Such discussions can help improve your reliance program or lead to expanded activities
-  * **Conduct a pilot** to evaluate your reliance program and collect feedback from internal and external participants
+您应制定一个全面的计划，以在整个互认计划的生命周期中与内部和外部利益相关者进行沟通，包括：
 
-**Example:** After MDSAP’s foundational documents were established, a pilot program was conducted from 2014 - 2016 with the goal of gathering objective data to establish the “proof-of-concept” that a regulatory audit of a medical device manufacturer conducted by an MDSAP-recognized Auditing Organization could fulfil the needs of multiple regulatory jurisdictions. The pilot also helped refine the infrastructure, policies, and procedures of the operational program. In 2017, a final pilot report was published, determining that the MDSAP pilot had satisfactorily demonstrated the viability of MDSAP. Results of the report were used to support final approval of the program, as well as identify potential weaknesses and changes to the program.   
+* 开发
+
+* 实施，以及
+
+* 实施后
+
+这些互动应基于第 5.6 节中讨论的初始参与活动，并侧重于维护您计划的质量和实用性。
+
+以下是您可以纳入您利益相关者参与计划中的建议元素，在互认计划的开发期间和之后：
+
+* **为内部和外部受众提供培训**，可能需要针对每个受众的内容有所不同。例如，内部培训很可能侧重于相关的监管审查流程以及建立所需的技能，而外部培训则侧重于与行业相关的方面，例如制造商的参与途径以及对监管要求的影响
+
+* **向医疗器械行业，包括国内和全球，宣传您的项目**，以确保他们了解潜在的益处。同时，向相关的公共部门，如患者倡导团体，进行类似宣传，包括讨论对患者安全和医疗器械获取的影响。
+
+* **在您的项目生命周期内，持续收集反馈**，并利用这些反馈来指导您的管理系统，如第 6.7 节所述的潜在变更。
+
+* **及时告知参考 RA（监管机构）您的监管体系的变化。** 这可能包括您建立的协议（参见第 6.5 节）。即使没有正式协议，讨论各自监管体系的现状和计划变更，也可以建立信任，并可能创造更多的合作机会。
+
+* **积极参与适当的论坛，**如 IMDRF 以及其他知识共享和互助学习倡议（例如：[世界卫生组织合作注册程序](<https://www.who.int/teams/regulation-prequalification/regulation-and-safety/facilitated-product-introduction/collaborative-registration-procedure/crp-for-who-prequalified-in-vitro-diagnostics>）），以分享成功经验和教训，并向其他有类似经验的人学习。 这样的讨论可以帮助改进您的依赖项目，或产生更广泛的活动。
+
+* **进行试点项目**，以评估您的依赖项目，并从内部和外部参与者处收集反馈。
+
+**示例：** 在建立 MDSAP 的基础文件后，从 2014 年到 2016 年，开展了一项试点项目，旨在收集客观数据，以证明由 MDSAP 认可的审计机构对医疗器械制造商进行的监管审计，可以满足多个监管辖区的需求。 该试点项目还帮助完善了运营程序的结构、政策和程序。 2017 年，发布了最终的试点报告，确定 MDSAP 试点已充分证明 MDSAP 的可行性。 报告的结果被用于支持该项目的最终批准，以及识别潜在的弱点和对该项目的变更。
+
 ---  
 
-## Establish a management system for the reliance program
+## 建立对依赖计划的管理系统
 
-Establishing a management system ensures your reliance program meets:
+建立管理系统可确保您的依赖计划满足：
 
-  * its intended goals
-  * your stakeholder needs 
+* 其预定的目标
 
-Management systems are valuable for any regulatory process but are especially important for reliance programs due to their broader impact and potential for substantial change. Starting your reliance program with a management system in place provides the best conditions for long-term success.
+* 您的利益相关者的需求
 
-At a minimum, your management system should allow for:
+管理系统对任何监管流程都有价值，但对于依赖计划尤其重要，因为它们具有更广泛的影响，并且可能导致重大变化。 在依赖计划中，如果已经建立了管理系统，则更有利于长期成功。
 
-  * **Process monitoring** to determine if processes meet program needs, whether any training is required, and whether any corrective or preventive actions are warranted
-  * **Performance measurement.** Establish and monitor key performance indicators that align with your reliance program’s specific aims and expected benefits
-  * **Feedback collection** from both internal and external stakeholders on your reliance program's performance
-  * **Change management.** Establish processes for making changes to your reliance program when needed
-  * **Assessment of decision-making differences** between you and your reference RAs, along with the reasons for these differences
-  * **Ensuring continued suitability** of your reference RAs, including maintaining awareness of relevant changes in their regulatory systems (see Section 6.5 for how this could be achieved via external agreements)
+至少，您的管理系统应能够：
 
-**Example:** Regulator A has established a reliance program for emergency use authorizations by which they can rely on emergency use decisions from Regulator B in case of device shortages. Because Regulator A requires information on the manufacturing of the device for any emergency use authorization and Regulator B does not, as part of this reliance program manufacturers are required to submit this manufacturing information to Regulator A so that this information can be considered together with Regulator B’s decision. The management system that was established for this reliance program includes a mechanism for both regulators to share information regarding changes to their emergency use authorization process.Two years after implementation of this reliance program, Regulator B changes their emergency use authorization process so that manufacturers are now required to submit additional manufacturing information. Regulator A is informed of this change through their management system, conducts a new assessment of the emergency use authorization requirements for Regulators A and B, and concludes that their requirements for manufacturing information are now sufficiently similar. As a result, Regulator A modifies their reliance program per their management system so that submission of additional manufacturing information is no longer required.   
+* **流程监控**，以确定流程是否符合计划需求，是否需要进行任何培训，以及是否需要采取任何纠正或预防措施
+
+* **绩效衡量**。 建立并监控与您的依赖计划的具体目标和预期效益相一致的关键绩效指标
+
+* **收集来自内部和外部利益相关者对依赖计划绩效的反馈**
+
+* **变更管理。** 建立流程，以便在需要时修改您的依赖计划。
+
+* **评估您与参考RA之间的决策差异，以及这些差异的原因。**
+
+* **确保您的参考RA的持续适用性，包括保持对其监管体系相关变化的意识（参见第6.5节，了解如何通过外部协议实现此目的）。**
+
+**示例：** 监管机构A已经建立了紧急使用授权的依赖计划，以便在设备短缺的情况下，可以依赖监管机构B的紧急使用决策。由于监管机构A要求对设备的制造信息，以便进行任何紧急使用授权，而监管机构B则不要求，因此，作为此依赖计划的一部分，制造商需要向监管机构A提交这些制造信息，以便与监管机构B的决策一起考虑。 针对此依赖计划建立的管理系统包括一个机制，使双方可以共享有关其紧急使用授权流程的变更信息。 在实施此依赖计划两年后，监管机构B修改了其紧急使用授权流程，要求制造商提交额外的制造信息。 监管机构A通过其管理系统了解了这一变更，对监管机构A和B的紧急使用授权要求进行了新的评估，并得出结论，其制造信息的要求现在已经足够相似。 因此，监管机构A根据其管理系统修改了其依赖计划，不再需要提交额外的制造信息。
+
 ---  
 
-# References
+# 参考文献
 
-## Referenced in text
+## 在文中引用
 
-The following resources were used in the development of this playbook and are referenced in the text:
+以下资源在本次指南的开发中被使用，并在文中引用：
 
-  * ANVISA Normative Instruction No. 290, April 4, 2024
-  * GHTF/SG1/N77 – _Principles of Medical Devices Classification_
-  * GHTF/SG2/N54R8 - _Medical Devices Post Market Surveillance: Global Guidance for Adverse Event Reporting for Medical Devices_
-  * IMDRF/AE WG/N43 - _Terminologies for Categorized Adverse Event Reporting (AER): terms, terminology and codes_
-  * IMDRF/GRRP WG/N40 - _Competence, Training, and Conduct Requirements for Regulatory Reviewers_
-  * IMDRF/GRRP WG/N47 - _Essential Principles of Safety and Performance of Medical Devices and IVD Medical Devices_
-  * IMDRF/GRRP WG/N52 - _Principles of Labeling for Medical Devices and IVD Medical Devices_
-  * IMDRF/GRRP WG/N59 - Re _quirements for Regulatory Authority Recognition of Conformity Assessment Bodies Conducting Medical Device Regulatory Reviews_
-  * IMDRF/IVD WG/N64 - _Principles of In Vitro Diagnostic (IVD) Medical Devices Classification_
-  * IMDRF/GRRP WG/N71 - _Medical Device Regulatory Review Report: Guidance Regarding Information to be Included_
-  * IMDRF/RPS WG/N9 - _Non-In Vitro Diagnostic Device Regulatory Submission Table of Contents (nIVD ToC)_
-  * IMDRF/RPS WG/N13 - _In Vitro Diagnostic Medical Device Regulatory Submission Table of Contents (IVD ToC)_
-  * IMDRF/Standards WG/N51 – _Optimizing Standards for Regulatory Use_
-  * ISO 9001 - _Quality management systems — Requirements_
-  * ISO 13485 - _Medical devices — Quality management systems — Requirements for regulatory purposes_
-  * WHO Expert Committee on Specifications for Pharmaceutical Preparations, Fifty-fifth Report (TRS 1033) , Annex 10:_Good Reliance Practices in the regulation of medical products: high level principles and considerations_
-  * WHO Expert Committee on Specifications for Pharmaceutical Preparations, Fifty-fifth Report (TRS 1033), Annex 11:_Good Regulatory Practices in the regulation of medical products_
-  * WHO Expert Committee on Biological Standardization, Seventy-sixth Report (TRS 1045), Annex 3: _WHO Global Model Regulatory Framework for Medical Devices including in vitro diagnostic medical devices_
+* ANVISA 第 290 号规范，2024 年 4 月 4 日
 
-## Additional resources
+* GHTF/SG1/N77 – _医疗器械分类原则_
 
-The following resources may be informative to the development or implementation of specific reliance programs by a given RA:
+* GHTF/SG2/N54R8 – _医疗器械上市后监测：医疗器械不良事件报告的全球指南_
 
-  * IMDRF/MDSAP WG/N3 - Requirements for Medical Device Auditing Organizations for Regulatory Authority Recognition
-  * IMDRF/NCAR WG/N14 - Medical Devices: Post-Market Surveillance: National Competent Authority Report Exchange Criteria and Report Form
-  * ANMAT 1000-MAN08 - Good Reliance Practices (GRelP) Manual 
-  * CECMED – 78/2023 – Regulatory Reliance Practice for all regulatory functions
-  * PAHO – Regulatory Reliance Principles: Concept Note and Recommendations
-  * PAHO – Reliance for Emergency Use Authorization of Medicines and Other Health Technologies in a Pandemic (e.g. COVID-19)
+* IMDRF/AE WG/N43 – _分类性不良事件报告 (AER) 的术语、术语和代码_
 
-# Annex: Evaluation Questions for Potential Reference Regulatory Authorities
+* IMDRF/GRRP WG/N40 – _监管审查人员的资质、培训和行为要求_
 
-The following questions can help you decide whether a potential reference RA is suitable to rely on. These questions include specific considerations and resources to help you compare similarities across jurisdictions or to norms established by IMDRF or other organizations.
+* IMDRF/GRRP WG/N47 – _医疗器械和体外诊断 (IVD) 医疗器械的安全和性能的基本原则_
 
-It is important to note that this is not an exhaustive list, and you may want to explore other questions and aspects relevant to regulatory activities where you are considering reliance. The criteria and approaches described in these resources do not necessarily serve as benchmarks that each RA must meet or implement.
+* IMDRF/GRRP WG/N52 – _医疗器械和体外诊断 (IVD) 医疗器械的标签原则_
 
-  1. **How does the RA define and classify medical devices?**
+* IMDRF/GRRP WG/N59 – _监管机构认可医疗器械监管审查机构的要求_
 
-  * Definition of “medical device” and related terms
-  * IMDRF/GRRP WG/N47 - _Essential Principles of Safety and Performance of Medical Devices and IVD Medical Devices_
-  * Medical device classification systems
-  * GHTF/SG1/N77 – _Principles of Medical Devices Classification_
-  * IMDRF/IVD WG/N64 - _Principles of In Vitro Diagnostic (IVD) Medical Devices Classification_
-  * Regulation of medical device accessories, including definition, classification, and any special considerations
+* IMDRF/IVD WG/N64 – _体外诊断 (IVD) 医疗器械的分类原则_
 
-  1. **How does the RA approach different levels of regulatory control and enforcement?**
+* IMDRF/GRRP WG/N71 – _医疗器械监管审查报告：关于应包含的信息的指导_
 
-  * General regulatory system considerations and types of controls
-  *  _WHO Global Model Regulatory Framework for Medical Devices including in vitro diagnostic medical devices_ (GMRF)
-  * Post-market surveillance adverse event terminology and categorization
-  * IMDRF/AET WG/N43 - _Terminologies for Categorized Adverse Event Reporting (AER): terms, terminology and codes_
-  * GHTF/SG2/N54R8 - _Medical Devices Post Market Surveillance: Global Guidance for Adverse Event Reporting for Medical Devices_
-  * Management system for the RA
-  * ISO 9001 - _Quality management systems — Requirements_
-  * Quality management system (QMS) requirements and audit processes for medical devices and their manufacturers
-  * ISO 13485 - _Medical devices — Quality management systems — Requirements for regulatory purposes_
-  * RA participation in MDSAP
+* IMDRF/RPS WG/N9 – _非体外诊断设备监管提交内容表 (nIVD ToC)_
 
-  1. **For regulatory submissions (see the definition in****Section 3****), what information is included, and how and by whom is the information assessed?**
+* IMDRF/RPS WG/N13 - _体外诊断医疗器械监管提交内容表 (IVD ToC)_
 
-  * Required contents of regulatory submissions
-  * IMDRF/RPS WG/N9 - _Non-In Vitro Diagnostic Device Regulatory Submission Table of Contents (nIVD ToC)_
-  * IMDRF/RPS WG/N13 - _In Vitro Diagnostic Medical Device Regulatory Submission Table of Contents (IVD ToC)_
-  * IMDRF/GRRP WG/N47 - _Essential Principles of Safety and Performance of Medical Devices and IVD Medical Devices_
-  * IMDRF/GRRP WG/N52 - _Principles of Labeling for Medical Devices and IVD Medical Devices_
-  * Regulatory review process 
-  * IMDRF/GRRP WG/N40 - _Competence, Training, and Conduct Requirements for Regulatory Reviewers_
-  * IMDRF/GRRP WG/N71 - _Medical Device Regulatory Review Report: Guidance Regarding Information to be Included_
-  * Any specific requirements for testing (e.g., from accredited centers)
+* IMDRF/标准 WG/N51 – _优化标准以供监管使用_
 
-  1. **How does the RA communicate its decisions (e.g., at what frequency and to what level of detail, is information publicly available)?**
+* ISO 9001 - _质量管理体系 — 要求_
 
-Many RAs post information about their decisions on publicly accessible websites. Depending on the current level of transparency and the amount of detailed information you need, the two jurisdictions may wish to consider agreements to allow for confidential exchange of information on certain topics (see Section 5.5). 
+* ISO 13485 - _医疗器械 — 质量管理体系 — 供监管用途的要求_
 
-  1. **Are there any other factors that could impact the success of your reliance program?**
+* 世界卫生组织 (WHO) 药品制剂专家委员会，第 55 份报告 (TRS 1033)，附录 10：_在医疗产品监管中，良好依赖实践：高级原则和考虑_
 
-  * Legal and regulatory responsibilities of medical device manufacturers
-  * Relevant laws involving product liability and consumer protection
-  * Impact of any differences in population characteristics or other societal factors (e.g. clinical practice or device use environment)
+* 世界卫生组织 (WHO) 药品制剂专家委员会，第 55 份报告 (TRS 1033)，附录 11：_在医疗产品监管中的良好监管实践_
 
-Please visit our website for more details.
+* 世界卫生组织 (WHO) 生物标准化专家委员会，第 76 份报告 (TRS 1045)，附录 3：_包括体外诊断医疗器械的 WHO 全球医疗器械监管模型_
+
+## 额外资源
+
+以下资源可能对 RA 实施特定依赖计划的开发或实施有所帮助：
+
+* IMDRF/MDSAP WG/N3 - 监管机构认可的医疗器械审计机构的要求
+
+* IMDRF/NCAR WG/N14 - 医疗器械：上市后监测：国家有管辖权的报告交换标准和报告表
+
+* ANMAT 1000-MAN08 - 良好依赖实践 (GRelP) 手册
+
+* CECMED – 78/2023 – 适用于所有监管职能的监管依赖实践
+
+* PAHO – 监管依赖原则：概念说明和建议
+
+* PAHO – 药品和其他健康技术的紧急使用授权 (例如 COVID-19) 的依赖
+
+# 附录：潜在的参考监管机构的评估问题
+
+以下问题可以帮助您确定是否可以依赖某个潜在的参考监管机构。这些问题包括具体的考虑因素和资源，以帮助您在不同辖区或由IMDRF或其他组织制定的标准之间进行比较，或评估相似性。
+
+需要注意的是，这并非一个详尽的清单，您可能需要探索其他与您考虑的监管活动相关的其他问题和方面。这些资源中描述的标准和方法并不一定作为每个监管机构必须满足或实施的基准。
+
+1. **监管机构如何定义和分类医疗器械？**
+
+* “医疗器械”及其相关术语的定义
+
+* IMDRF/GRRP WG/N47 – _医疗器械和体外诊断 (IVD) 医疗器械的安全和性能的基本原则_
+
+* 医疗器械分类体系
+
+* GHTF/SG1/N77 – _医疗器械分类原则_
+
+* IMDRF/IVD WG/N64 – _体外诊断 (IVD) 医疗器械的分类原则_
+
+* 医疗器械附件的监管，包括定义、分类以及任何特殊考虑
+
+1. **监管机构如何处理不同级别的监管控制和执法？**
+
+* 总体监管体系的考虑因素和控制类型
+
+* _WHO医疗器械（包括体外诊断医疗器械）的全球模型监管框架_ (GMRF)
+
+* 市场后监测不良事件术语和分类
+
+* IMDRF/AET WG/N43 - _分类不良事件报告（AER）术语、术语和代码_
+
+* GHTF/SG2/N54R8 – _医疗器械上市后监测：医疗器械不良事件报告的全球指南_
+
+* 监管机构的管理体系
+
+* ISO 9001 - _质量管理体系 — 要求_
+
+* 医疗器械及其制造商的质量管理体系（QMS）要求和审计流程
+
+* ISO 13485 - _医疗器械 — 质量管理体系 — 供监管用途的要求_
+
+* 监管机构参与MDSAP
+
+1. **对于监管申报（见第3节的定义），申报包含哪些信息，以及这些信息是如何评估的，由谁进行评估？**
+
+* 监管申报所需内容
+
+* IMDRF/RPS WG/N9 – _非体外诊断设备监管提交内容表 (nIVD ToC)_
+
+* IMDRF/RPS WG/N13 - _体外诊断医疗器械监管提交内容表 (IVD ToC)_
+
+* IMDRF/GRRP WG/N47 – _医疗器械和体外诊断 (IVD) 医疗器械的安全和性能的基本原则_
+
+* IMDRF/GRRP WG/N52 – _医疗器械和体外诊断 (IVD) 医疗器械的标签原则_
+
+* 监管审查流程
+
+* IMDRF/GRRP WG/N40 – _监管审查人员的资质、培训和行为要求_
+
+* IMDRF/GRRP WG/N71 – _医疗器械监管审查报告：关于应包含的信息的指导_
+
+* 任何特定测试要求（例如，来自认可机构）
+
+1. **RA（监管机构）如何传达其决策（例如，频率和详细程度，信息是否公开）？**
+
+许多RA在公开可访问的网站上发布其决策信息。根据当前的透明度和您需要的详细信息量，这两个管辖区可能希望考虑达成协议，以允许在某些主题上进行保密信息交换（见第5.5节）。
+
+1. **还有哪些其他因素可能影响您的依赖计划的成功？**
+
+* 医疗器械制造商的法律和监管责任
+
+* 与产品责任和消费者保护相关的法律
+
+* 任何与人口特征或其它社会因素（例如临床实践或设备使用环境）方面的差异的影响
+
+请访问我们的网站以获取更多详细信息。
 
 [www.imdrf.org](<http://www.imdrf.org/>)
 
-Disclaimer
+免责声明
 
-© Copyright 2026 by the International Medical Device Regulators Forum. 
+© 2026年国际医疗器械监管论坛 版权所有。
 
-This work is copyright. Subject to these Terms and Conditions, you may download, display, print, translate, modify and reproduce the whole or part of this work for your own personal use, for research, for educational purposes or, if you are part of an organization, for internal use within your organization, but only if you or your organization do not use the reproduction for any commercial purpose and retain all disclaimer notices as part of that reproduction. If you use any part of this work, you must include the following acknowledgement (delete inapplicable): 
+本作品受版权保护。在遵守本条款和条件的前提下，您可以下载、显示、打印、翻译、修改和复制本作品的全部或部分，用于您个人的使用、研究、教育目的，或如果贵方是组织，则用于组织内部使用，但前提是您或您的组织不得将复制用于任何商业目的，并且保留所有免责声明，作为复制的一部分。如果您使用本作品的任何部分，必须包含以下声明（删除不适用的内容）：
 
-“[Translated or adapted] from [insert name of publication], [year of publication], International Medical Device Regulators Forum, used with the permission of the International Medical Device Regulators Forum. The International Medical Device Regulators Forum is not responsible for the content or accuracy of this [adaption/translation].” 
+“[翻译或改编]自[插入出版物名称]，[出版年份]，国际医疗器械监管论坛，经国际医疗器械监管论坛授权使用。国际医疗器械监管论坛不对本[改编/翻译]的内容或准确性负责。”
 
-All other rights are reserved, and you are not allowed to reproduce the whole or any part of this work in any way (electronic or otherwise) without first being given specific written permission from IMDRF to do so. Requests and inquiries concerning reproduction and rights are to be sent to the IMDRF Secretariat. 
+除上述内容外，所有权利均保留，未经国际医疗器械监管论坛（IMDRF）事先书面许可，不得以任何方式（包括电子方式）复制或使用本材料的全部或任何部分。有关复制和权利的请求和咨询应发送给 IMDRF 秘书处。
 
-Incorporation of this document, in part or in whole, into another document, or its translation into languages other than English, does not convey or represent an endorsement of any kind by the IMDRF. 
+将本文件（部分或全部）纳入其他文档，或将其翻译成其他语言，并不代表IMDRF的认可。
 
-Disclaimer
+免责声明
 
-© Copyright 2026 by the International Medical Device Regulators Forum.
+© 2026年国际医疗器械监管论坛 版权所有。
 
-This work is copyright. Subject to these Terms and Conditions, you may download, display, print, translate, modify and reproduce the whole or part of this work for your own personal use, for research, for educational purposes or, if you are part of an organization, for internal use within your organization, but only if you or your organization do not use the reproduction for any commercial purpose and retain all disclaimer notices as part of that reproduction. If you use any part of this work, you must include the following acknowledgement (delete inapplicable):
+本作品受版权保护。在遵守本条款和条件的前提下，您可以下载、显示、打印、翻译、修改和复制本作品的全部或部分，用于您个人的使用、研究、教育目的，或如果贵方是组织，则用于组织内部使用，但前提是您或您的组织不得将复制用于任何商业目的，并且保留所有免责声明，作为复制的一部分。如果您使用本作品的任何部分，必须包含以下声明（删除不适用的内容）：
 
-“[Translated or adapted] from [insert name of publication], [year of publication], International Medical Device Regulators Forum, used with the permission of the International Medical Device Regulators Forum. The International Medical Device Regulators Forum is not responsible for the content or accuracy of this [adaption/translation].”
+“[翻译或改编]自[插入出版物名称]，[出版年份]，国际医疗器械监管论坛，经国际医疗器械监管论坛授权使用。国际医疗器械监管论坛不对本[改编/翻译]的内容或准确性负责。”
 
-All other rights are reserved, and you are not allowed to reproduce the whole or any part of this work in any way (electronic or otherwise) without first being given specific written permission from IMDRF to do so. Requests and inquiries concerning reproduction and rights are to be sent to the IMDRF Secretariat.
+除上述内容外，所有权利均保留，未经国际医疗器械监管论坛（IMDRF）事先书面许可，不得以任何方式（包括电子方式）复制或使用本材料的全部或任何部分。有关复制和权利的请求和咨询应发送给 IMDRF 秘书处。
 
-Incorporation of this document, in part or in whole, into another document, or its translation into languages other than English, does not convey or represent an endorsement of any kind by the IMDRF.
+将本文件（部分或全部）纳入其他文档，或将其翻译成其他语言，并不代表IMDRF的认可。
 
-Please visit our website for more details.
+请访问我们的网站以获取更多详细信息。
 
 [www.imdrf.org](<http://www.imdrf.org/>)
 
-  1. Unless otherwise specified, the use of the term “medical devices” in this document includes in vitro diagnostic (IVD) and non-IVD medical devices. ↑
+1. 除非另有说明，否则本文件中使用的“医疗器械”一词包括体外诊断（IVD）和非IVD医疗器械。 ↑
 
-  2. GHTF/SG1/N78:2012- _Principles of Conformity Assessment for Medical Devices_ includes a definition and additional discussion of “technical documentation” as used in this document. ↑
+2. GHTF/SG1/N78:2012 -《医疗器械的合规性评估原则》包含对本文件中使用的“技术文件”的定义和进一步讨论。 ↑
 
-  3. While many of the reliance activities discussed in this document are written such that they involve one RA relying on the decisions of one or more other RAs, they may also apply to an RA relying on decisions from conformity assessment bodies or other organizations where appropriate. ↑
+3. 虽然本文件中讨论的许多依赖活动都以一种方式编写，即一个RA依赖于一个或多个其他RA的决策，但它们也可能适用于RA依赖于合规性评估机构或其他组织的决策，如果适用。 ↑
 
-  4. _Essentially identical medical device:_ Device with essential characteristics identical to the one approved by the reference regulatory authority, including those related to the quality of the product and its components, such as technical specifications (same qualitative and quantitative composition, physical, chemical, mechanical, electrical and biological properties), indications and intended use, manufacturer, manufacturing process, results of safety and performance studies. (ANVISA Normative Instruction No. 290, April 4, 2024) ↑
+4. _实质上相同的医疗器械：_ 与由参考监管机构批准的器械具有实质上相同的特征的器械，包括与产品和其组件的质量相关的特征，例如技术规格（相同的质量和数量组成、物理、化学、机械、电气和生物特性）、适应症和预期用途、制造商、制造过程和安全与性能研究的结果。（ANVISA第290号规范，2024年4月4日） ↑
 
 
 <!-- fulltext-end -->

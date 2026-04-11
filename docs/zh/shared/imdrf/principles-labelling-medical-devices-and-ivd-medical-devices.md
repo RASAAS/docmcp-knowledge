@@ -10,13 +10,17 @@ title: Principles of Labelling for Medical Devices and IVD Medical Devices
 [https://www.imdrf.org/documents/principles-labelling-medical-devices-and-ivd-medical-devices](https://www.imdrf.org/documents/principles-labelling-medical-devices-and-ivd-medical-devices)
 :::
 
+::: info
+This content has been machine-translated from the English original.
+:::
+
 <!-- fulltext-start -->
 
 ---
 
 ## 全文
 
-# Principles of Labelling for Medical Devices and IVD Medical Devices
+# 医疗器械和体外诊断医疗器械的标签原则
 
 **Document Number**: IMDRF/GRRP WG/N52 FINAL:2024 (Edition 2)
 
@@ -24,682 +28,733 @@ title: Principles of Labelling for Medical Devices and IVD Medical Devices
 
 ---
 
-Final Document  
+最终文档
+
 ---  
-IMDRF/GRRP WG/N52 FINAL:2024 (Edition 2)  
-Principles of Labeling for Medical Devices and IVD Medical Devices  
-Authoring Group  
-IMDRF Good Regulatory Review Practices  
+IMDRF/GRRP WG/N52 最终版：2024 (第2版)
+医疗器械和体外诊断医疗器械的标签原则
+编写组
+IMDRF 良好的监管审查实践
 
-Preface
+前言
 
-© Copyright 2024 by the International Medical Device Regulators Forum. 
+© 2024 年 国际医疗器械监管论坛 版权所有。
 
-This work is copyright. Subject to these Terms and Conditions, you may download, display, print, translate, modify and reproduce the whole or part of this work for your own personal use, for research, for educational purposes or, if you are part of an organisation, for internal use within your organisation, but only if you or your organisation do not use the reproduction for any commercial purpose and retain all disclaimer notices as part of that reproduction. If you use any part of this work, you must include the following acknowledgement (delete inapplicable): 
+本作品受版权保护。在遵守本条款和条件的前提下，您可以下载、显示、打印、翻译、修改和复制本作品的全部或部分内容，用于您个人的使用、研究、教育目的，或如果贵组织是组织，则用于贵组织的内部使用，但前提是您或贵组织不得将复制用于任何商业目的，并且保留所有版权声明。如果您使用本作品的任何部分，必须包含以下声明（删除不适用的内容）：
 
-“[Translated or adapted] from [insert name of publication], [year of publication], International Medical Device Regulators Forum, used with the permission of the International Medical Device Regulators Forum. The International Medical Device Regulators Forum is not responsible for the content or accuracy of this [adaption/translation].” 
+“[翻译或改编]自[插入出版物名称]，[出版年份]，国际医疗器械监管论坛，经国际医疗器械监管论坛授权使用。国际医疗器械监管论坛不对本[改编/翻译]的内容或准确性负责。”
 
-All other rights are reserved and you are not allowed to reproduce the whole or any part of this work in any way (electronic or otherwise) without first being given specific written permission from IMDRF to do so. Requests and inquiries concerning reproduction and rights are to be sent to the IMDRF Secretariat. 
+除上述内容外，所有其他权利均保留，未经IMDRF事先书面许可，您不得以任何方式（包括电子方式）复制本作品的全部或任何部分。有关复制和版权的请求和咨询应发送给IMDRF秘书处。
 
-Incorporation of this document, in part or in whole, into another document, or its translation into languages other than English, does not convey or represent an endorsement of any kind by the IMDRF. 
+将本文件（部分或全部）纳入其他文档，或将其翻译成其他语言，并不代表IMDRF的认可。
 
 ![](data:image/jpeg;base64,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)
 
-**Jeffrey Shuren, IMDRF Chair**
+**杰弗里·舒伦，IMDRF 主席**
 
-Contents
+内容
 
-Introduction 4
+引言 4
 
-1\. Scope 6
+1\. 范围 6
 
-2\. References 7
+2\. 参考文献 7
 
-3\. Definitions 9
+3\. 定义 9
 
-4\. Principles for Medical Device and IVD Medical Device Identification 15
+4\. 医疗器械和体外诊断医疗器械的标识原则 15
 
-5\. General Labeling Principles for Medical Devices and IVD Medical Devices 16
+5\. 医疗器械和体外诊断医疗器械的一般标签原则 16
 
-5.1. Labeling 16
+5.1. 标签 16
 
-5.2. Label 17
+5.2. 标签 17
 
-5.3. Instructions for Use 20
+5.3. 使用说明 20
 
-6\. General Labeling Principles for Medical Devices other than IVD Medical Devices 25
+6\. 并非体外诊断医疗器械的医疗器械的一般标签原则 25
 
-6.1. Label 25
+6.1. 标签 25
 
-6.2. Instructions for Use 25
+6.2. 使用说明 25
 
-7\. General Labeling Principles for IVD Medical Devices 26
+7\. 体外诊断医疗器械的一般标签原则 26
 
-7.1. Label 26
+7.1. 标签 26
 
-7.2. Instructions for Use 26
+7.2. 使用说明 26
 
-8\. Labeling Principles for Medical Devices Containing Software or Software as a Medical Device 29
+8\. 包含软件或软件作为医疗器械的医疗器械的标签原则 29
 
-9\. Labeling Principles for Medical Devices and IVD Medical Devices Intended for Use by Lay Persons 30
+9\. 适用于非专业人士使用的医疗器械和体外诊断医疗器械的标签原则 30
 
-10\. Labeling Principles for Information Intended for the Patient 31
+10\. 适用于患者的信息的标签原则 31
 
-# Introduction
+# 简介
 
-The purpose of this IMDRF guidance is to provide globally harmonized labeling principles for medical devices, including in vitro diagnostic (IVD) medical devices, and support IMDRF/GRRP WG/N47 (_Essential Principles of Safety and Performance of Medical Devices and IVD Medical Devices_). Specifically, this document provides guidance on the content of the label, instructions for use, and information intended for the patient in order to support the safe and effective use of medical devices and IVD medical devices by their intended users.
+本 IMDRF 指导旨在为医疗器械（包括体外诊断（IVD）医疗器械）提供全球统一的标签原则，并支持 IMDRF/GRRP WG/N47（《医疗器械和 IVD 医疗器械的安全和性能的基本原则》）。具体而言，本文提供有关标签内容、使用说明以及为患者提供的信息的指导，以支持医疗器械和 IVD 医疗器械的预期用户安全有效地使用。
 
-This document has been developed to encourage and support global convergence of regulatory systems. It is intended for use by Regulatory Authorities (RAs), Conformity Assessment Bodies (CABs), industry, and others, and will provide benefits in establishing consistent labeling requirements in various jurisdictions. Country-specific requirements for the content of the labeling should be kept to the minimum and, where they currently exist, eliminated as the opportunity arises.
+本文旨在鼓励和支持监管体系的全球统一。它 intended for Regulatory Authorities (RAs)、符合性评估机构 (CABs)、行业以及其他相关方使用，并将在各个司法辖区建立一致的标签要求方面提供益处。关于标签内容的国家特定要求应保持最低，并在有条件时予以消除。
 
-Labeling serves to identify a device and its manufacturer, and to communicate information on safety, use, and performance. In some jurisdictions, “labeling” is referred to as “information supplied by the manufacturer”, and may be physical or electronic (also known as e-labeling). Labeling includes the label, instructions for use, and information related to the identification, technical description, intended purpose and proper use of the medical device and IVD medical device, as applicable (Figure 1). It is intended for users of medical devices and IVD medical devices, both professional and lay persons, as appropriate, and for relevant third parties. 
+标签的作用是识别设备及其制造商，并传达有关安全、使用和性能的信息。在某些司法辖区，“标签”有时被称为“制造商提供的信息”，可以是物理的或电子的（也称为电子标签）。标签包括标签、使用说明以及与医疗器械和 IVD 医疗器械的识别、技术描述、预期用途和正确使用相关的信息（如图 1 所示）。它 intended for 医疗器械和 IVD 医疗器械的用户，包括专业人士和非专业人士，根据需要。
 
-### Figure 1. Elements of Medical Device and IVD Medical Device Labeling
+### 图 1. 医疗器械和 IVD 医疗器械标签的元素
 
-RAs require and specify information that manufacturers are expected to incorporate in the labeling when the device is placed onto the market, to ensure the safe and effective use of their product. This guidance provides some of those basic expectations, although RAs may have additional labeling requirements beyond the scope of this guidance. 
+[术语表 - 在这些术语出现时，请使用这些精确的翻译:]
+差距分析 -> Gap Analysis
+test_zh -> test_en
 
-This guidance document describes the general labeling principles for medical devices and IVD medical devices and supersedes an earlier version produced under the Global Harmonization Task Force (GHTF) entitled, “Label and Instructions for Use” dated September 16, 2011 (GHTF/SG1/N70:2011). The intent of this document is to outline the foundational labeling principles that are globally harmonized. Depending on the RA having jurisdiction and the particular medical device or IVD medical device, there may be additional labeling requirements that may need to be met.
+RA 需要并指定制造商在将设备投放市场时，应在标签中包含的信息，以确保其产品的安全有效使用。本指南提供了一些基本要求，尽管 RA 可能会有超出本指南范围的其他标签要求。
 
-# Scope
+本指南描述了医疗设备和体外诊断（IVD）医疗设备的通用标签原则，并取代了由全球协调任务组（GHTF）于2011年9月16日发布的《标签和使用说明》（GHTF/SG1/N70:2011）的先前版本。本文件的目的是概述全球协调的根本标签原则。根据管辖范围的 RA 以及特定的医疗设备或 IVD 医疗设备，可能需要满足额外的标签要求。
 
-This document applies to all medical devices, including IVD medical devices, and is intended to specify the general content and format of medical device and IVD medical device labeling in paper or electronic format. This document provides general labeling principles, including specific sections on the label, instructions for use, and information intended for the patient. The requirements of any relevant medical device or IVD medical device-specific standards should also be considered. 
+# 范围
 
-While this document includes general labeling principles, it does not include sections that address other possible elements of labeling. Advertising and promotional materials may be considered elements of labeling by some RAs having jurisdiction, but they are outside the scope of this document. Individual jurisdictions may have their own regulations or requirements regarding other labeling elements or advertising and promotional materials. 
+本文件适用于所有医疗设备，包括 IVD 医疗设备，旨在指定医疗设备和 IVD 医疗设备在纸质或电子格式中的通用内容和格式。本文件提供通用标签原则，包括关于标签、使用说明和为患者准备的信息的具体部分。还应考虑任何相关的医疗设备或 IVD 医疗设备特定标准的任何要求。
 
-# References
+虽然本文件包含通用标签原则，但不包括针对其他可能标签元素的章节。一些管辖范围的 RA 可能会将广告和宣传材料视为标签的一部分，但这些内容不在本文件范围内。各个管辖范围可能对其其他标签元素或广告和宣传材料有自己的法规或要求。
 
-  * GHTF/SG1/N78:2012 _Principles of Conformity Assessment for Medical Devices_
-  * GHTF/SG1/N055:2009 _Definitions of the Terms Manufacturer, Authorised Representative, Distributor and Importer_
-  * GHTF/SG1/N046:2008 _Principles of Conformity Assessment for In Vitro Diagnostic (IVD) Medical Devices_
-  * GHTF/SG1/N071:2012 _Definition of the Terms ‘Medical Device’ and ‘In Vitro Diagnostic (IVD) Medical Device’_
-  * IMDRF/UDI WG/N7:2013 _UDI Guidance Unique Device Identification (UDI) of Medical Devices_
-  * IMDRF/GRRP WG/N47:2024 _Essential Principles of Safety and Performance of Medical Devices and IVD Medical Devices_
-  * IMDRF/RPS WG/N19:2016 _Common Data Elements for Medical Device Identification_
-  * IMDRF/SaMD WG/N10 FINAL:2013 Software as a Medical Device (SaMD): Key Definitions
-  * IMDRF/PMD WG/N49 FINAL:2018 Definitions for Personalized Medical Devices 
-  * GS1 General Specification: <http://www.gs1.org/docs/gsmp/barcodes/GS1_General_Specifications.pdf>
-  * Health Industry Business Communications Council (HIBCC)UDI and Labeling Resource Center: <http://www.hibcc.org/udi-resources/>
+# 参考文献
 
-### Standards
+* GHTF/SG1/N78:2012 _医疗器械的合规评估原则_
 
-  * ISO 639-1:2023 _Codes for the Representation of Names of Languages – Part 1: Alpha-2 Code_
-  * ISO 3864-1:2011 _Graphical Symbols. Safety Colours and Safety Signs. Part 1: Design Principles for Safety Signs and Safety Markings_
-  * ISO 8601:2019 _Data Elements and Interchange Formats – Information Interchange – Representation of Dates and Times._
-  * ISO 13485:2016 _Medical devices -- Quality management systems -- Requirements for regulatory purposes_
-  * ISO 15223-1:2021 _Medical Devices -- Symbols to be Used with Information to be Supplied by the Manufacturer -- Part 1: General Requirements_
-  * ISO 14971:2019 _Medical Devices – Application of Risk Management to Medical Devices_
-  * IEC 62366-1:2015 _Medical Devices – Part 1: Application of the Usability Engineering Process to Medical Devices_
-  * ISO/IEC 646:1991 _Information Technology - ISO 7-bit Coded Character Set for Information Interchange_
-  * ISO/IEC 15415:2011 _Information Technology - Automatic Identification and Data Capture Techniques. Bar Code Symbol Print Quality Test Specification - Two-Dimensional Symbols_
-  * ISO/IEC 15416:2016 _Automatic Identification and Data Capture Techniques - Bar code Print Quality Test Specification - Linear Symbols_
-  * ISO/IEC 15426-1:2006 _Information Technology- Automatic Identification and Data Capture Techniques - Bar Code Verifier Conformance Specification — Part 1: Linear Symbols_
-  * ISO/IEC 15426-2:2015 _Information Technology-Automatic Identification and Data Capture Techniques - Bar code verifier conformance specification — Part 2: Two-Dimensional Symbols_
-  * ISO/IEC 15459-2:2015 _Information technology - Automatic Identification and Data Capture Techniques - Unique Identification, Part 2: Registration Procedures_
-  * ISO/IEC 15459-4:2014 _Information Technology - Automatic Identification and Data Capture Techniques - Unique Identification, Part 4: Individual Products and Product Packages_
-  * ISO/IEC 15459-6:2014 _Information Technology - Automatic Identification and Data Capture Techniques - Unique Identification, Part 6: Groupings_
-  * ISO/IEC 16022:2006 _Information Technology- Automatic Identification and Data Capture Techniques-Data Matrix Bar Code Symbology Specification_
-  * ISO/IEC TR 29158:2011 _Information technology - Automatic identification and data capture techniques - Direct Part Mark (DPM) Quality Guideline_
-  * ISO/IEC 18000-6:2013 _Information Technology -- Radio Frequency Identification for Item Management -- Part 6: Parameters for Air Interface Communications at 860 MHz to 960 MHz_
-  * ISO 18113-1:2022 _In vitro diagnostic medical devices -- Information supplied by the manufacturer (labelling)_
-  * ISO 20417:2021 _Medical devices -- Information to be supplied by the manufacturer_
+* GHTF/SG1/N055:2009 _制造商、授权代表、分销商和进口商的定义_
 
-# Definitions
+* GHTF/SG1/N046:2008 _体外诊断（IVD）医疗器械的合规评估原则_
 
-##  _Analytical Performance of an IVD Medical Device:_ The ability of an IVD medical device to detect or measure a particular analyte. (GHTF/SG5/N6:2012)
+* GHTF/SG1/N071:2012 _“医疗器械”和“体外诊断（IVD）医疗器械”的定义_
 
-## _Catalog Number:_ The value given by the manufacturer to identify the specific medical device as it relates to its form/fit, function and process (i.e., manufacturing processes requiring differentiation for the end user). (Modified from IMDRF/RPS WG/N19:2016)
+* IMDRF/UDI WG/N7:2013 _UDI 指南：医疗器械的唯一标识（UDI）_
 
-## _Conformity Assessment Body (CAB):_ A body other than a Regulatory Authority engaged in determining whether the relevant requirements in technical regulations or standards are fulfilled. (IMDRF/GRRP WG/N40:2024)__
+* IMDRF/GRRP WG/N47:2024 _医疗器械和体外诊断（IVD）医疗器械的安全和性能的基本原则_
 
-## _Contraindication:_ Labeling elements that describe situations, such as patient populations, medical reasons, or clinical conditions, in which the device should not be used because the risk of use clearly outweighs any possible benefit.
+* IMDRF/RPS WG/N19:2016 _医疗器械识别的常用数据元素_
 
-## _Clinical Investigation:_ Any systematic investigation or study in or on one or more human subjects, undertaken to assess the safety and/or performance of a medical device. This term is synonymous with ‘clinical trial’ and ‘clinical study’. (GHTF/SG5/N1R8:2007)
+* IMDRF/SaMD WG/N10 FINAL:2013 软件为医疗器械 (SaMD): 关键定义
 
-## _Clinical Performance:_ The ability of a medical device to achieve its intended purpose as claimed by the manufacturer. (GHTF/SG5/N1R8:2007)
+* IMDRF/PMD WG/N49 FINAL:2018 _个性化医疗器械的定义_
 
-## _Clinical Performance of an IVD Medical Device:_ The ability of an IVD medical device to yield results that are correlated with a particular clinical condition/physiological state in accordance with target population and intended user. (Modified from GHTF/SG5/N6:2012)
+* GS1 通用规范：<http://www.gs1.org/docs/gsmp/barcodes/GS1_General_Specifications.pdf>
 
-NOTE: Clinical performance can include but is not necessarily limited to diagnostic sensitivity and diagnostic specificity based on the known clinical/physiological state of the individual, and negative and positive predictive values based on the prevalence of the disease.
+* Health Industry Business Communications Council (HIBCC) UDI 和标签资源中心：<http://www.hibcc.org/udi-resources/>
 
-## _Electronic Labeling:_ Any form of labeling content provided in an electronically accessible form supplied by the manufacturer related to a medical device or IVD medical device. 
+### 标准
 
-## _Expected Lifetime/Expected Service Life:_ Time-period specified by the manufacturer during which the medical device or IVD medical device is expected to maintain safe and effective use.
+* ISO 639-1:2023 _语言名称表示代码 – 第 1 部分：α-2 代码_
 
-NOTE 1: The expected lifetime can be determined by stability or by other methods.
+* ISO 3864-1:2011 _图形符号。安全颜色和安全标志。第 1 部分：安全标志和安全标记的设计原则_
 
-NOTE 2: Maintenance, repairs, or upgrades (e.g. safety or cybersecurity modifications) can be necessary during the expected lifetime.
+* ISO 8601:2019 _数据元素和交换格式 – 信息交换 – 日期和时间的表示._
+
+* ISO 13485:2016 _医疗器械 – 质量管理体系 – 适用于监管目的的要求_
+
+* ISO 15223-1:2021 _医疗器械 – 制造商提供的信息使用的符号 – 第 1 部分：通用要求_
+
+* ISO 14971:2019 _医疗器械 – 医疗器械风险管理应用_
+
+* IEC 62366-1:2015 _医疗器械 – 第 1 部分：将可用性工程过程应用于医疗器械_
+
+* ISO/IEC 646:1991 _信息技术 – ISO 7 位编码字符集用于信息交换_
+
+* ISO/IEC 15415:2011 _信息技术 - 自动识别和数据采集技术。条形码符号打印质量测试规范 - 二维符号_
+
+* ISO/IEC 15416:2016 _自动识别和数据采集技术 - 条形码打印质量测试规范 - 线性符号_
+
+* ISO/IEC 15426-1:2006 _信息技术 - 自动识别和数据采集技术 - 条形码验证器符合性规范 — 第 1 部分：线性符号_
+
+* ISO/IEC 15426-2:2015 _信息技术 - 自动识别和数据采集技术 - 条形码验证器符合性规范 — 第 2 部分：二维符号_
+
+* ISO/IEC 15459-2:2015 _信息技术 - 自动识别和数据采集技术 - 唯一标识，第 2 部分：注册程序_
+
+* ISO/IEC 15459-4:2014 _信息技术 - 自动识别和数据采集技术 - 唯一标识，第 4 部分：单个产品和产品包装_
+
+* ISO/IEC 15459-6:2014 _信息技术 - 自动识别和数据采集技术 - 唯一标识，第 6 部分：分组_
+
+* ISO/IEC 16022:2006 _信息技术 - 自动识别和数据采集技术 - 数据矩阵条形码符号规范_
+
+* ISO/IEC TR 29158:2011 _信息技术 - 自动识别和数据采集技术 - 直接标记 (DPM) 质量指南_
+
+* ISO/IEC 18000-6:2013 _信息技术 -- 无线射频识别用于物品管理 -- 第 6 部分：860  MHz 到 960 MHz 之间的无线接口通信参数_
+
+* ISO 18113-1:2022 _体外诊断医疗器械 -- 制造商提供的信息（标签）_
+
+* ISO 20417:2021 _医疗器械——制造商应提供的信息_
+
+# 定义
+
+## _体外诊断医疗器械的分析性能：_ 一种体外诊断医疗器械检测或测量特定分析物的能力。（GHTF/SG5/N6:2012）
+
+## _产品编号：_ 制造商为特定医疗器械提供的标识，与其形式、功能和工艺相关（即，为最终用户区分的制造工艺）。（改编自 IMDRF/RPS WG/N19:2016）
+
+## _符合性评估机构（CAB）：_ 并非监管机构，负责确定是否符合相关技术法规或标准的各项要求。（IMDRF/GRRP WG/N40:2024）
+
+## _禁忌症：_ 描述患者人群、医疗原因或临床状况等情况的标签元素，在这种情况下，不应使用该设备，因为使用该设备所带来的风险明显大于任何可能的益处。
+
+## _临床研究：_ 对一个或多个人体（或在人体上）进行的系统性调查或研究，旨在评估医疗器械的安全性及/或性能。该术语与“临床试验”和“临床研究”含义相同。（GHTF/SG5/N1R8:2007）
+
+## _临床性能：_ 医疗器械实现制造商声称的预期用途的能力。（GHTF/SG5/N1R8:2007）
+
+## _IVD 医疗器械的临床性能:_ IVD 医疗器械在与特定临床/生理状态相符，并符合目标人群和预期用户的情况下，产生与特定临床/生理状态相关的结果的能力。 (改编自GHTF/SG5/N6:2012)
+
+注意：临床性能可能包括但不限于，基于个体已知的临床/生理状态，以及基于疾病患病率的阴性和阳性预测值，如诊断灵敏度和诊断特异性。
+
+## _电子标签:_ 制造商提供，以电子形式呈现，与医疗器械或体外诊断（IVD）医疗器械相关的任何标签内容。
+
+## _预期寿命/预期使用寿命:_ 制造商在医疗器械或体外诊断（IVD）医疗器械预期能够安全有效使用的时间段。
+
+注意 1：预期寿命可由稳定性或其他方法确定。
+
+说明 2：在预期寿命期间，维护、修理或升级（例如，安全或网络安全方面的修改）可能都是必要的。
 
 (IMDRF/GRRP WG/N47:2024)
 
-## _Expiry Date/Expiration Date:_ Upper limit of the time interval during which the safety and performance characteristics of a material stored under specified conditions can be assured. 
+## _有效期/失效日期：_ 在指定条件下储存的材料的安全和性能特性可得到保证的时间段的上限。
 
-NOTE 1: This also applies to medical devices whose physical, chemical or functional properties are maintained during a specified and known period, such as for capital equipment.
+说明 1：这也适用于物理、化学或功能特性在指定且已知的期间内保持不变的医疗器械，例如，用于资本设备的医疗器械。
 
-NOTE 2: Expiry dates are assigned to IVD reagents, calibrators, control materials and other components by the manufacturer, based on experimentally determined stability properties. 
+说明 2：制造商根据实验确定稳定性特性，为体外诊断试剂、校准器、控制材料和其他组件指定有效期。
 
-(Modified from ISO 18113-1:2009)
+(改编自 ISO 18113-1:2009)
 
-## _Hazard:_ Potential source of harm. (ISO/IEC Guide 51:2014)
+## _危险：_ 潜在的危害来源。 （ISO/IEC 指导词 51:2014）
 
-## _Indications for Use:_ A general description of the disease or condition the medical device or IVD medical device will diagnose, treat, prevent, cure, or mitigate, including a description of the patient population for which the medical device or IVD medical device is intended.
+## _适应症：_ 描述医疗器械或体外诊断医疗器械用于诊断、治疗、预防、治愈或减轻的疾病或状况，包括为医疗器械或体外诊断医疗器械设计的患者人群的描述。
 
-## _Information for Safety:_ Information provided to the user or responsible organization that is used as a risk control measure or disclosure of a residual risk.
+## _安全信息：_ 向用户或负责机构提供的信息，用作风险控制措施或残余风险的披露。
 
-NOTE: Examples can include warnings or precautions, instructions in the use of a medical device or IVD medical device to prevent use error or avoid a hazardous situation, or explanation of a safety feature of a medical device or IVD medical device.
+注意：示例包括警告或预防措施、关于使用医疗器械或体外诊断（IVD）医疗器械以防止使用错误或避免危险情况的说明，或关于医疗器械或IVD医疗器械安全功能的解释。
 
-## _Intended Use / Intended Purpose_ : The objective intent regarding the use of a product, process or service as reflected in the specifications, instructions and information provided by the manufacturer. (Modified from GHTF/SG1/N77:2012) 
+## _预期用途/预期目的：_ 指制造商在规格、说明和提供的信息中反映的，关于产品、工艺或服务的预期用途。 （改编自 GHTF/SG1/N77:2012）
 
-## NOTE 1: The intended use/intended purpose are also part of promotional or sales materials or statements, although these materials lie outside the scope of this document.
+## 注意 1： 预期用途/预期目的也包含在宣传或销售材料或声明中，尽管这些材料不属于本文档的范围。
 
-## NOTE 2: The intended use can include the indications for use.
+## 注意 2： 预期用途可以包括使用说明。
 
-## _Instructions for Use:_ General and technical information provided by the manufacturer to inform the user of the medical device or IVD medical device’s intended purpose and proper use and of any contraindications, warnings, or precautions to be taken. It is provided by the manufacturer to support and assist the device users in its safe and appropriate use. (GHTF/SG1/N70:2011) 
+## _使用说明：_ 制造商向用户提供的一般和技术信息，旨在告知用户医疗器械或IVD医疗器械的预期用途、正确使用以及应采取的任何禁忌、警告或预防措施。 制造商提供这些信息，以支持和协助用户安全、适当地使用该设备。（GHTF/SG1/N70:2011）
 
-## NOTE: Instructions for use can also be referred to as “package insert.”
+## 注意： 使用说明也可以被称为“包装说明”。
 
-##  _In Vitro Diagnostic (IVD) Medical Device:_ ‘In Vitro Diagnostic (IVD) medical device’ means a medical device, whether used alone or in combination, intended by the manufacturer for the in-vitro examination of specimens derived from the human body solely or principally to provide information for diagnostic, monitoring or compatibility purposes.
+## _体外诊断（IVD）医疗器械：_ “体外诊断（IVD）医疗器械”是指，无论单独使用还是与其他使用，制造商为用于对从人体获得的样本进行体外检查，仅供或主要为提供诊断、监测或兼容性信息的医疗器械。
 
-## NOTE 1: IVD medical devices include reagents, calibrators, control materials, specimen receptacles, software, and related instruments or apparatus or other articles and are used, for example, for the following test purposes: diagnosis, aid to diagnosis, screening, monitoring, predisposition, prognosis, prediction, determination of physiological status. 
+## 注意 1： IVD医疗器械包括试剂、校准器、控制材料、样本容器、软件以及相关的仪器或设备或其他物品，并用于以下测试目的：诊断、辅助诊断、筛查、监测、预先诊断、预后、预测、确定生理状态。
 
-## NOTE 2: In some jurisdictions, certain IVD medical devices may be covered by other regulations.
+## 备注 2：在某些司法管辖区，某些体外诊断（IVD）医疗器械可能受到其他法规的覆盖。
 
 ## (GHTF/SG1/N71:2012)
 
-## _Label:_ Written, printed, or graphic information either appearing on the medical device itself, or on the packaging of each unit, or on the packaging of multiple devices. (GHTF/SG1/N70:2011) 
+## _标签_： 任何以文字、印刷或图形形式出现在医疗器械本身、每个单元的包装或多个器械的包装上的信息。 (GHTF/SG1/N70:2011)
 
-## NOTE: The definition above refers to the human readable label. 
+## 备注：上述定义指的是可读的标签。
 
-## _Labeling:_ The label, instructions for use, and any other information that is related to identification, technical description, intended purpose and proper use of the medical device, but excluding shipping documents. (GHTF/SG1/N70:2011) 
+## _标签:_ 标签、使用说明以及与医疗器械的识别、技术描述、预期用途和正确使用相关的所有其他信息，但不包括运输文件。（GHTF/SG1/N70:2011）
 
-## NOTE 1: Labeling can also be referred to as “information supplied by the manufacturer.”
+## 备注 1：“标签”也可以被称为“制造商提供的信息”。
 
-## NOTE 2: Labeling can be in printed or electronic format and may either physically accompany the medical device or direct the user to where the labeling information can be accessed (such as through a website), as permitted by regulatory jurisdiction.
+## 备注 2：标签可以是印刷或电子格式，并且可能与医疗器械一起，也可以引导用户访问标签信息（例如，通过网站），如根据监管管辖范围所允许。
 
-## _Lay User:_ Individual who does not have formal training in a relevant field or discipline. (Modified from GHTF/SG1/N046:2008)
+## _非专业用户:_ 没有在相关领域或学科中接受正式培训的个人。（改编自 GHTF/SG1/N046:2008）
 
-## NOTE 1: Principles for lay person(s) may also apply to self-testing for an IVD medical device. 
+## 备注 1：对于体外诊断（IVD）医疗器械，对非专业人士的原则也可能适用于自测。
 
-## NOTE 2: For an IVD medical device for self-collection or self-testing, a self-collector or self-tester is considered a lay user.
+## 备注 2：对于用于自采集或自测的体外诊断（IVD）医疗器械，自采集者或自测者应被视为非专业用户。
 
-## _Lot Number_ : A set of numbers and/or letters that specifically identifies a medical device or IVD medical device batch and permits its manufacturing, packaging, labeling and distribution history to be traced. (Modified from ISO 18113-1:2022) 
+## _批号:_ 一组数字和/或字母，专门标识医疗器械或体外诊断（IVD）医疗器械的批次，并允许追溯其制造、包装、标签和分销历史。（改编自 ISO 18113-1:2022）
 
-## NOTE: This can also be referred to as the lot code, batch number, or batch code. 
+## 备注：也可以被称为批号、批次号或批次代码。
 
-## _Manufacturer:_ “Manufacturer” means any natural or legal person[1] with responsibility for design and/or manufacture of a medical device with the intention of making the medical device available for use, under their name; whether such a medical device is designed and/or manufactured by that person themselves or on their behalf by another person(s). (Modified from GHTF/SG1/N055:2009)
+## _制造商：_“制造商”是指对医疗器械的设计和/或制造负责，并有意使该医疗器械供用于的任何自然人或法人[1]。无论该医疗器械是由该人自己设计和/或制造，还是由另一人（或多个人）代为设计和/或制造。 (改编自GHTF/SG1/N055:2009)
 
-NOTE 1: This ‘natural or legal person’ has ultimate legal responsibility for ensuring compliance with all applicable regulatory requirements for the medical device in the countries or jurisdictions where it is intended to be made available or sold, unless this responsibility is specifically imposed on another person by the Regulatory Authority within that jurisdiction.
+注意 1：该“自然人或法人”对确保医疗器械在预期使用或销售的国家或辖区符合所有适用的法规要求，具有最终的法律责任，除非监管机构在该辖区明确要求另一方承担此责任。
 
-NOTE 2: The manufacturer’s responsibilities are described in other GHTF and IMDRF guidance documents. These responsibilities include meeting regulatory requirements at various points during the product lifecycle, such as adverse event reporting and notification of corrective actions.
+注意 2：制造商的责任在其他GHTF和IMDRF的指导文件中进行描述。这些责任包括在产品生命周期的不同阶段满足法规要求，例如报告不良事件和通知纠正措施。
 
-NOTE 3: ‘Design and/or manufacture’, as referred to in the above definition, may include specification development, production, fabrication, assembly, processing, packaging, repackaging, labeling, relabeling, sterilization, installation, or remanufacturing of a medical device; or putting a collection of devices, and possibly other products, together for a medical purpose.
+说明 3：在上述定义中提到的“设计和/或制造”，可能包括医疗器械的规格开发、生产、制造、组装、加工、包装、重新包装、标签、重新标签、灭菌、安装或重新制造；或者将一组医疗器械（以及可能还有其他产品）组合在一起，用于医疗目的。
 
-NOTE 4: Any person who assembles or adapts a medical device that has already been supplied by another person for an individual patient, in accordance with the instructions for use, is not the manufacturer, provided the assembly or adaptation does not change the intended use of the medical device.
+说明 4：任何在另一人为个人患者提供的医疗器械的说明书下，组装或改造医疗器械的人，如果组装或改造不改变医疗器械的预期用途，则不被视为该医疗器械的制造商。
 
-NOTE 5: Any person who changes the intended use of, or modifies, a medical device without acting on behalf of the original manufacturer and who makes it available for use under his own name, should be considered the manufacturer of the modified medical device. 
+注 5：任何未经原制造商授权，改变医疗器械用途或进行修改，并将其以自己的名义提供给他人使用的人，应被视为该医疗器械的制造商。
 
-NOTE 6: An authorized representative, distributor or importer who only adds its own address and contact details to the medical device or the packaging, without covering or changing the existing labeling, is not considered a manufacturer.
+注意 6：只有在授权代表、经销商或进口商仅在医疗器械或包装上添加自己的地址和联系方式，且不修改或覆盖现有标签的情况下，才不被视为制造商。
 
-NOTE 7: To the extent that an accessory is subject to the regulatory requirements of a medical device[2], the person responsible for the design and/or manufacture of that accessory is considered to be a manufacturer.
+注 7：如果某种附件符合医疗器械的监管要求[2]，则负责该附件的设计和/或制造的人应被视为制造商。
 
-## _Medical Device_ : Any instrument, apparatus, implement, machine, appliance, implant, reagent for in vitro use, software, material or other similar or related article, intended by the manufacturer to be used, alone or in combination, for human beings, for one or more of the specific medical purpose(s) of:
+## _医疗器械_：任何由制造商打算单独或与其他用于人类，以实现以下特定医疗目的的，例如：仪器、装置、工具、机器、设备、植入物、体外使用的试剂、软件、材料或其他类似或相关物品。
 
-  * diagnosis, prevention, monitoring, treatment or alleviation of disease,
-  * diagnosis, monitoring, treatment, alleviation of, or compensation for, an injury,
-  * investigation, replacement, modification, or support of the anatomy, or of a physiological process,
-  * supporting or sustaining life,
-  * control of conception,
-  * cleaning, disinfection, or sterilization of medical devices,
-  * providing information by means of in vitro examination of specimens derived from the human body; 
+* 诊断、预防、监测、治疗或缓解疾病，
 
-and does not achieve its primary intended action by pharmacological, immunological, or metabolic means, in or on the human body, but which may be assisted in its intended function by such means. 
+* 诊断、监测、治疗、缓解或补偿损伤，
 
-NOTE 1: Products which may be considered to be medical devices in some jurisdictions but not in others include:
+* 调查、替代、修改或支持解剖结构或生理过程，
 
-  * cleaning and disinfection substances,
-  * aids for persons with disabilities,
-  * devices incorporating animal and/or human tissues,
-  * devices for in-vitro fertilization or assisted reproduction technologies.
+* 维持生命，
 
-(Modified from GHTF/SG1/N71:2012)
+* 控制生育，
 
-NOTE 2: For clarification purposes, in certain regulatory jurisdictions, devices for cosmetic/aesthetic purposes are also considered medical devices.
+* 清洁、消毒或灭菌医疗器械，
 
-NOTE 3: For clarification purposes, in certain regulatory jurisdictions, the commerce of devices incorporating human tissues is not allowed.
+* 通过体外检查样本（来自人体）来提供信息；
 
-## _Model_ : The name and/or number used to represent one medical device, or a family of medical devices to group many variations that have shared characteristics. (IMDRF/RPS WG/N19:2016)
+但不通过药理、免疫或代谢方式在人体内或外实现其主要预期作用，但可能通过这些方式辅助其预期功能。
 
-## _Packaging_ : Product to be used for the containment, protection, handling, delivery, storage, transport and presentation of goods, from raw materials to processed goods, from the producer to the user or consumer, including processor, assembler or other intermediary. (ISO 21067-1:2016)
+注 1: 在某些司法管辖区可能被认为是医疗器械，但在另一些司法管辖区则不然的产品包括：
 
-## _Patient:_ An individual under the care of a healthcare provider who may benefit from the action of a medical device. A patient may also be a user of a medical device. (IMDRF/GRRP WG/N47:2024)
+* 清洁和消毒剂，
 
-## _Performance:_ The ability of a medical device to achieve its intended purpose as stated by the manufacturer. Performance may include both clinical and technical aspects. (IMDRF/GRRP WG/N47:2024)
+* 辅助残疾人士的设备，
 
-## _Performance of an IVD Medical Device:_ The ability of an IVD medical device to achieve its intended use/intended purpose as claimed by the manufacturer. The performance of an IVD medical device consists of the analytical and, where applicable, the clinical performance supporting the intended use of the IVD medical device. (GHTF/SG5/N6:2012)
+* 包含动物和/或人体组织的产品。
 
-## _Personalized Medical Device_ : a generic term to describe any of the types of devices that are intended for a particular individual, which could be either a custom-made, patient-matched, or adaptable medical device. (IMDRF/PMD WG/N49:2018)
+* 用于体外生殖或辅助生殖技术的设备。
 
-## _Precaution:_ Information regarding any special care users should exercise for the safe and effective use of the device or IVD device, or to avoid damage to the device or IVD medical device that could occur as a result of use, including misuse. (Modified from ISO 18113-1:2022)
+（改编自 GHTF/SG1/N71:2012）
 
-## _Regulatory Authority (RA):_ A government body or other entity that exercises a legal right to control the use or sale of medical devices within its jurisdiction, and that may take enforcement action to ensure that medical products marketed within its jurisdiction comply with legal requirements. (IMDRF/GRRP WG/N40:2024)
+注 2: 为了澄清目的，在某些监管辖区，用于美容/美学目的的设备也被认为是医疗器械。
 
-## _Risk:_ Combination of the probability of occurrence of harm and the severity of that harm. (ISO/IEC Guide 51:2014)
+注 3: 为了澄清目的，在某些监管辖区，包含人体组织的设备的商业活动是被禁止的。
 
-## _Residual Risk:_ Risk remaining after risk reduction measures have been implemented. (ISO/IEC Guide 51:2014)
+## _模型_：用于表示单个医疗器械或一组具有共享特征的许多变体的医疗器械或器械群的名称和/或编号。（IMDRF/RPS WG/N19:2016）
 
-## _Safety:_ Freedom from unacceptable risk. (ISO/IEC Guide 51:2014)
+## _包装_：用于包含、保护、处理、交付、储存、运输和展示商品，包括从原材料到加工商品的，以及从生产商到用户或消费者的，包括处理器、组装者或其他中间商。 (ISO 21067-1:2016)
 
-## _Serial Number:_ A unique sequence of numbers or letters in a series used to identify an individual unit of a medical device. (IMDRF/RPS WG/N19:2016)
+## _患者_：在医疗服务提供者照护下，可能从医疗器械的作用中获益的个体。患者也可能是医疗器械的使用者。（IMDRF/GRRP WG/N47:2024）
 
-## _Self-Testing:_ Use of a medical device or IVD medical device by a lay user who is responsible for collecting the data or specimen, by themselves and on themselves, relying solely on the instructions provided by the manufacturer. This use can also include performing the test and interpreting the results by themselves and on themselves. 
+## _性能_：医疗器械实现制造商所声明的预期用途的能力。性能可能包括临床和技术方面。（IMDRF/GRRP WG/N47:2024）
 
-NOTE: Self-testing may include a third-party caregiver
+## _体外诊断（IVD）医疗器械的性能：_ 体外诊断（IVD）医疗器械实现其制造商声称的预期用途/预期功能的能力。 体外诊断（IVD）医疗器械的性能包括支持体外诊断（IVD）医疗器械预期用途的分析性和，如果适用，临床性能。 (GHTF/SG5/N6:2012)
+
+## _个性化医疗器械_：用于描述任何类型的旨在针对特定个体的医疗器械的通用术语，这些医疗器械可以是定制的、与患者匹配的或可适应的医疗器械。（IMDRF/PMD WG/N49:2018）
+
+## _预防措施_：关于用户应采取的特殊注意事项，以确保医疗器械或医疗器械（包括IVD）的安全有效使用，以及避免因使用（包括误用）而可能损坏医疗器械或IVD医疗器械的信息。 （改编自ISO 18113-1:2022）
+
+## _监管机构（RA）：_ 政府机构或其他实体，拥有在其管辖范围内控制医疗器械使用或销售的法律权利，并且可以采取执法行动，以确保在管辖范围内上市的医疗产品符合法律要求。 (IMDRF/GRRP WG/N40:2024)
+
+## _风险：_ 伤害发生的概率与伤害的严重程度的组合。 (ISO/IEC Guide 51:2014)
+
+## _剩余风险_：在实施风险降低措施后仍然存在的风险。（ISO/IEC Guide 51:2014）
+
+## _安全性：_ 避免不可接受的风险。 (ISO/IEC Guide 51:2014)
+
+## _序列号:_ 一系列中独特的数字或字母组合，用于识别单个医疗器械。 (IMDRF/RPS WG/N19:2016)
+
+## _自主测试:_ 由非专业人士（负责收集数据或标本，并自行进行测试和结果解读）使用医疗器械或体外诊断（IVD）医疗器械。该使用方式仅依赖制造商提供的说明。
+
+注意：自主测试可能包括第三方照护者。
 
 (IMDRF/GRRP WG/N47:2024)
 
-## _Shelf-Life_ : Period of time until the expiry date during which a medical device or IVD medical device in its original packaging maintains its stability under the storage conditions specified by the manufacturer. 
+## _保质期_：医疗器械或体外诊断（IVD）医疗器械在原包装中，在制造商规定的储存条件下，直至到期日，保持稳定性的时间。
 
-NOTE: Stability (3.38) and expiry date (3.10) are related concepts
+注意：稳定性（3.38）和到期日（3.10）是相关的概念
 
-(Modified from ISO 18113-1:2022)
+（改编自 ISO 18113-1:2022）
 
-## _Single Use Device_ : A medical device or IVD medical device that is intended to be used on an individual patient during or for a single procedure and then disposed of. It is not intended to be reprocessed and used again. 
+## _一次性使用设备_：医疗器械或体外诊断（IVD）医疗器械，旨在在或在单个程序期间为单个患者使用，然后丢弃。它不应被重新处理和再次使用。
 
-## _Stability_ : Ability of a medical device and IVD medical device to maintain its safety and performance characteristics within the manufacturer’s specifications over a specified period of time.
+## _稳定性_：医疗器械和体外诊断（IVD）医疗器械在制造商规定的时间内，保持其安全性和性能特性的能力。
 
-NOTE 1: Stability applies to
+注意 1：稳定性适用于
 
-  * Sterile and non-sterile medical devices whose physical, chemical or functional properties may be altered or compromised over a stated time interval;
-  * IVD reagents, calibrators and controls, when stored, transported and used in the conditions specified by the manufacturer,
-  * Reconstituted lyophilized materials, working solutions and material removed from sealed containers, when prepared, used and stored according to the manufacturer’s instructions for use,
-  * Measuring instruments or measuring systems after calibration.
+* 具有可能在指定时间内发生改变或受损的物理、化学或功能特性的无菌和非无菌医疗器械；
 
-NOTE 2: Stability of an IVD reagent or measuring system is normally quantified with respect to time and specified conditions
+* 体外诊断试剂、校准剂和控制品，在制造商规定的储存、运输和使用条件下，
 
-  * In terms of the duration of a time interval over which a measured property changes by a stated amount; or
-  * In terms of the change of a property under specified conditions.
+* 重新制成的冷冻干燥材料、工作溶液和从密封容器中提取的材料，在使用制造商的使用说明书的指导下进行准备、使用和储存，
 
-(Modified from ISO 18113-1:2022)
+* 校准后的测量仪器或测量系统。
 
-## _Unique Device Identifier (UDI):_ The UDI is a series of numeric or alphanumeric characters that is created through a globally accepted device identification and coding standard. It allows the unambiguous identification of a specific medical device on the market. The UDI is comprised of the UDI-DI and UDI-PI. (IMDRF/UDI WG/N7:2013)
+注意 2：体外诊断试剂或测量系统的稳定性通常与时间、指定条件相关
 
-NOTE: The word "Unique" does not imply serialization of individual production units.
+* 即测量属性在指定时间内发生改变的持续时间；或
 
-## _User:_ The person, professional or lay, who uses a medical device. The patient may be that user. (GHTF/SG1/N070:2011)
+* 在指定条件下属性的变化。
 
-## _Warning:_ Statement that alerts users about a situation that, if not avoided, could result in hazards or other serious adverse consequences from the use of a medical device or an IVD medical device. (Modified from ISO 18113-1:2022)
+（改编自 ISO 18113-1:2022）
 
-# Principles for Medical Device and IVD Medical Device Identification
+## _唯一设备标识（UDI）_：UDI 是一系列数字或字母数字字符，通过全球认可的设备识别和编码标准创建。它允许对市场上特定医疗器械进行明确识别。UDI 由 UDI-DI 和 UDI-PI 组成。（IMDRF/UDI WG/N7:2013）
 
-Medical devices and IVD medical devices may be identifiable in multiple ways, as described below. The ways in which identifier information should be included in the labeling are discussed in subsequent sections of this document.
+注意：“唯一”并不意味着对单个生产单元的序列化。
 
-## The medical device or IVD medical device should be identified through the use of a brand or trade name that allows differentiation from other products of the same or similar type.
+## _用户：_ 指使用医疗器械的人，可以是专业人士或普通人。患者可能就是该用户。 (GHTF/SG1/N070:2011)
 
-## A medical device or IVD medical device, or a combination of medical devices or IVD medical devices or accessories, should be distinguishable from other devices via use of a catalog number, or another method that allows identification of the device model and its distinguishing characteristics. Each catalog number should only involve one defined product specification. 
+## _警告_：声明，旨在告知用户，如果未避免，可能会导致使用医疗器械或体外诊断（IVD）医疗器械的情况下，产生危险或其他严重不良后果。 （改编自 ISO 18113-1:2022）
 
-## If required by the RA having jurisdiction, a medical device or IVD medical device should be identified with a Unique Device Identifier (UDI) in human- and machine-readable form. For implantable devices, the UDI should be identifiable and able to be scanned prior to implantation. For further guidance on the information to be incorporated within the label for UDI purposes, the content of the information to be captured in the UDI, the inclusion of UDI information in the UDI database, and the linkage of UDI with clinical, industry, and government databases, refer to the IMDRF guidance document on this subject[3]_._
+# 医疗器械和体外诊断（IVD）医疗器械识别的原则
 
-# General Labeling Principles for Medical Devices and IVD Medical Devices
+医疗器械和体外诊断医疗器械可以通过多种方式进行识别，如下所述。关于标识信息应包含在标签上的方式，将在本文的后续部分进行讨论。
 
-This section describes the general principles that apply equally to all medical devices and IVD medical devices. The primary purpose of labeling is to identify the medical device or IVD medical device and its manufacturer, and provide essential information about its safety, performance, and appropriate use to the user or other relevant persons. Such information may appear on the device itself, on packaging, or as instructions for use. These documents should be developed and evaluated using risk management principles[4] and usability engineering processes[5]. Certain jurisdictions may require the inclusion of additional information or the use of specific formatting.
+## 医疗器械或体外诊断医疗器械应通过使用品牌或商品名来识别，从而与其他同类或相似类型的产品进行区分。
 
-The following principles are recommended. 
+## 医疗器械或体外诊断医疗器械，或医疗器械或体外诊断医疗器械或附件的组合，应通过使用产品编号或其他方法来与其他设备区分，从而识别设备型号及其特征。每个产品编号应仅涉及一个明确的产品规格。
 
-## Labeling
+## 如果相关监管机构要求，医疗器械或体外诊断医疗器械应以可供人类和机器阅读的形式标识为唯一设备标识符（UDI）。对于植入式设备，UDI应可识别并能够在植入前进行扫描。有关用于UDI目的的标签中应包含的信息、UDI中应捕获的信息、UDI数据库中的UDI信息以及UDI与临床、行业和政府数据库的关联，请参考IMDRF关于此主题的指导文件[3]_。
 
-### The medium, format, content, legibility, and location of the labeling should be appropriate to the particular medical device or IVD medical device, its intended purpose, and intended users to ensure safe and appropriate use. These considerations should include the following, although others may also be applicable:
+# 医疗器械和体外诊断医疗器械的一般标签原则
 
-  * user knowledge;
-  * user training;
-  * any special needs of the persons for whom the device is intended; and
-  * the location and environment in which the device can be used.
+本部分描述了适用于所有医疗器械和体外诊断（IVD）医疗器械的通用原则。标签的主要目的是识别医疗器械或IVD医疗器械及其制造商，并向用户或其他相关人员提供其安全、性能和适当使用方面的必要信息。这些信息可能出现在设备本身、包装或使用说明上。这些文件应采用风险管理原则[4]和可用性工程流程[5]进行开发和评估。某些司法管辖区可能要求包含额外信息或采用特定格式。
 
-### Labeling should be subject to document (version) control principles
+以下原则建议采用。
 
-### Depending on the requirements of the RA having jurisdiction, labeling may be provided in one or more language(s). Languages may be identified using the plain text name of the language or a language code[6].
+## 标签
 
-### The use of internationally recognized symbols[7] in labeling is encouraged, provided that device safety is not compromised by a lack of understanding on the part of the user. Where the meaning of the symbol is not obvious to the user, e.g. for a newly introduced symbol, an explanation should be provided within the labeling. 
+### 标签的媒介、格式、内容、可读性和位置应适合特定医疗器械或体外诊断医疗器械、其预期用途和预期使用者，以确保安全和适当的使用。 这些考虑应包括以下内容，尽管其他内容也可能适用：
 
-### Residual risks that are to be communicated to the user and/or other persons should be included in the labeling and are considered to be information for safety.
+* 使用者的知识；
 
-### If required by the RA having jurisdiction, the labeling should include a summary of the performance studies and clinical investigations used to demonstrate conformance with regulatory review principles and that demonstrate the safety and clinical performance of the medical device or IVD medical device for its intended use. This summary should include but may not be limited to a summary of the investigation, clinical performance and outcome data, clinical safety information, and a summary of the clinical benefit, and should be presented in such a way as to accurately reflect the safety and performance of the medical device or IVD medical device. If not contained in the instructions for use, a reference should be included as to where such information may be accessed. 
+* 使用者的培训；
 
-### The labeling should not contain any language regarding the manufacturer’s liability in the case of damage or injury resulting from any use or malfunction of the medical device or IVD medical device that contradicts the laws or regulations in the jurisdiction of use.
+* 为特定设备设计的个人的任何特殊需求；以及
 
-### The labeling should not contain any disclaimers related to the safety and performance of the medical device or IVD medical device for its intended purpose that are incompatible with the laws or regulations in the jurisdiction of use, or the obligations of the manufacturer to design and manufacture a product that is safe and performs as intended throughout its expected lifetime.
+* 设备的使用地点和环境。
 
-## Label
+### 标签应遵循文档（版本）控制原则
 
-The label should contain the following information, which may appear on the medical device or IVD medical device itself, on the packaging of each unit, or on the packaging of multiple medical devices or IVD medical devices. It is important to note that medical device and IVD medical device kits may include individual reagents, articles, or medical devices that may be made available as separate medical devices or IVD medical devices. In this situation, those individual medical devices and IVD medical devices contained in the kit should comply with the label content principles in this section. 
+### 根据管辖区域的法规要求，标签可以提供一种或多种语言。可以使用语言的普通文本名称或语言代码[6]来标识语言。
 
-### The information required on the label should be provided in a label on the device itself. If this is not practicable or appropriate (for example, for small-size devices, contact lenses, bone cement, software, etc.), some or all the information may appear on the packaging for each unit, and/or on the packaging of multiple devices. If UDI is required by the RA having jurisdiction, it should follow the requirements of the appropriate UDI-issuing agency/entity. The UDI should be on the label and on all device packages, and, for reprocessed devices intended to be used more than once, it should be provided on the device itself.
+### 鼓励在标签中使用国际认可的符号[7]，前提是标签的使用不会因为使用者理解上的不足而损害设备的安全。 如果符号的含义对使用者不明显，例如对于新引入的符号，应在标签中提供解释。
 
-### The label on the outside packaging should include any special handling measures or permissible environmental conditions (e.g., upper and lower temperature limits, light, humidity) for storage and transport of the medical device or IVD medical device. Where premature unpacking of a medical device or IVD medical device or its parts could result in an unacceptable risk, the label should be marked appropriately. The use of non-specific temperature or humidity indications that are open to interpretation, or which may vary according to geographic location is to be avoided unless further qualification is included (e.g., “store at room temperature, i.e.15-25ºC” or “store in a cool place below 15ºC, do not freeze”).
+### 应在标签中包含需要向使用者和/或其他人传达的任何剩余风险，并将这些信息视为安全信息。
 
-### Where relevant, the label on the packaging should include an indication of the net quantity of contents, expressed in terms of weight or volume (including volume after reconstitution), numerical count, or any combination of these or other terms which accurately reflects the contents of the package. 
+### 如果根据管辖区域的RA的要求，标签应包含对用于证明符合监管审查原则以及证明医疗器械或体外诊断医疗器械在预期用途中安全和临床性能的性能研究和临床调查的摘要。 摘要应包括但不限于调查、临床性能和结果数据、临床安全信息以及临床益处摘要，并以准确反映医疗器械或体外诊断医疗器械安全和性能的方式呈现。 如果不在使用说明中，应提供获取此类信息的途径。
 
-### The label should contain the brand or trade name of the medical device or IVD medical device. 
+### 标签不得包含任何与因医疗器械或体外诊断医疗器械的使用或故障造成的损害或人身伤害而由制造商承担的责任的语言，这些语言与使用区域的法律或法规相悖。
 
-### The label should contain the details necessary for a user to identify the device and its use, e.g. ‘cardiac ablation catheter 10 French / 20 cm’ or ‘pediatric thermometer’ or ‘blood glucose meter’ or ‘HIV-1/HIV-2 antibody test’. 
+### 标签不得包含与医疗器械或体外诊断医疗器械在预期用途中的安全和性能相关的免责声明，这些免责声明与使用区域的法律或法规不符，或制造商设计和制造安全且符合预期用途的产品的义务不符。
 
-### The label should be provided in a human-readable format but may be supplemented by machine-readable forms, such as radio-frequency identification (RFID) or bar codes[8]. 
+标签
 
-### There should be only one machine-readable format on the label. If there are multiple, there should be a clear indication to anyone relying on capture/use of this format throughout distribution and use, including the provider of care, which machine-readable format to scan when and for what purpose. 
+标签应包含以下信息，这些信息可能出现在医疗器械或体外诊断医疗器械本身、每个单元的包装或多个医疗器械或体外诊断医疗器械的包装上。 重要的是要注意，医疗器械和体外诊断医疗器械套件可能包含单独的试剂、物品或医疗器械，这些物品可以作为单独的医疗器械或体外诊断医疗器械提供。 在这种情况下，套件中包含的这些单独的医疗器械和体外诊断医疗器械应符合本部分标签内容原则。
 
-### If a catalog number is used to identify the medical device or IVD medical device, the label should include this catalog number. 
+### 标签上所需的信息应在设备本身上提供。 如果这不可行或不合适（例如，对于小型设备、隐形眼镜、骨水泥、软件等），则部分或全部信息可能出现在每个单元的包装上，以及/或多个设备的包装上。 如果相关监管机构要求使用 UDI，则应遵循相应 UDI 颁发机构/实体的要求。 UDI 应该在标签和所有设备包装上，对于用于多次使用的重新处理的设备，应在设备本身上提供。
 
-### The label should contain the name and address of the manufacturer in a format that is recognizable and allows the location of the manufacturer to be established. The address should contain information related to the physical location such as street/road, number/floor/house, city, state/region, postal code, country, etc. An abbreviated version of the address may be sufficient on the label if providing the full address on the label is not practical, and if the device includes instructions for use that provide a full address. If permitted by the RA having jurisdiction, this principle may be fulfilled with a URL on the label that when accessed contains the full address of the manufacturer in a format that is recognizable and allows the location of the manufacturer to be established.
+### 包装外部的标签应包含任何适用于医疗器械或体外诊断医疗器械的特殊处理措施或允许的环境条件（例如，上下限温度、光照、湿度），以及存储和运输。如果提前打开医疗器械或体外诊断医疗器械或其部件可能导致不可接受的风险，则标签应进行适当标记。应避免使用不明确、容易产生歧义，或根据地理位置而变化的非特定温度或湿度指示，除非另有明确说明（例如，“在室温下储存，即15-25℃”或“在低于15℃的凉爽环境中储存，不得冷冻”）。
 
-### If an authorized representative is acting on behalf of the manufacturer in the country/jurisdiction, the label should also contain the address of the authorized representative, if such information is required by the RA having jurisdiction. This information may be added by the authorized representative within the country of import rather than be provided by the manufacturer, in which case the additional information should not obscure any of the manufacturer's labels. If permitted by the RA having jurisdiction, this principle may be fulfilled with a URL on the label that when accessed contains the full address of the authorized representative in a format that is recognizable and allows the location of the authorized representative to be established.
+### 如果相关，包装上的标签应包含内容净量的指示，以重量、体积（包括 reconstituted 后的体积）、数字数量或这些或其他术语的组合来表示。
 
-### For imported medical devices or IVD medical devices, the label should contain the name and physical address of the importer or distributor within the importing country/jurisdiction, if such information is required by the RA having jurisdiction. This information may be added by the importer or distributor within the country of import rather than be provided by the manufacturer, in which case the additional information should not obscure any of the manufacturer's labels.
+### 标签应包含医疗器械或体外诊断医疗器械的品牌或商标名称。
 
-### If the label includes symbols and safety-related identification colors[9], the marking should be explained, where necessary.
+### 标签应包含用户识别设备及其用途的必要信息，例如“心脏射频电极 10 法/20 厘米”或“儿童体温计”或“血糖仪”或“HIV-1/HIV-2 抗体检测”。
 
-### The label should include the batch code, batch number, lot code, lot number, serial number, control number, or version number of the medical device or IVD medical device, as appropriate. 
+### 标签应以易于人阅读的格式提供，但可以补充使用机器可读格式，例如射频识别（RFID）或条形码[8]。
 
-### The label should include an unambiguous indication of the date, such as the expiry date, after which the medical device or IVD medical device cannot be used safely, where this is relevant (e.g. on devices supplied sterile or single-use disposable devices). Ideally, this date should be expressed as the full year, month, and day because this format provides the least ambiguity. The label should also include the date of manufacture, if required by the RA having jurisdiction. In this case, the date of manufacture may be included as part of the batch or serial number, provided the date is clearly identifiable. 
+### 标签上只能有一个机器可读格式。如果存在多个格式，则应明确告知依赖于在整个分发和使用过程中扫描/使用该格式的人员（包括医疗服务提供者），即在何时以及为了何种目的扫描哪个机器可读格式。
 
-### If the medical device or IVD medical device is supplied sterile, the label should include an indication that the device is provided in a sterile state and, where applicable, the sterilization method. 
+### 如果使用产品编号来标识医疗器械或体外诊断医疗器械，则标签应包含此产品编号。
 
-### Where appropriate, the label should state that the medical device or IVD medical device contains or incorporates a medicinal or biological substance, e.g. heparin-coated catheter or drug-coated stent. If required by the RA having jurisdiction, the label should also include the quantity, proportion or strength of that substance (e.g. contains 10mg/ml sodium hyaluronate; gentamicin (2%)) if the substance will be in direct contact with the patient.
+### 标签应包含制造商的名称和地址，格式应易于识别，并允许确定制造商的位置。地址应包含与物理位置相关的信息，例如街道/路名、号码/楼层/房屋、城市、州/地区、邮政编码、国家等。如果向标签提供完整地址不切实际，并且该设备包含说明书，则标签上可以提供简短的地址。如果符合管辖范围内的法规要求，则可以使用标签上的 URL，访问该 URL 后，包含制造商的完整地址，格式应易于识别，并允许确定制造商的位置。
 
-### The label should include any warnings or precautions to be taken that need to be brought to the immediate attention of the user of the medical device or IVD medical device as relevant, and to any other person where appropriate (e.g. ‘CAUTION – HOT SURFACE’ or ‘THIS PRODUCT CONTAINS LATEX’ or ‘CONTAINS POTENTIALLY INFECTIOUS MATERIAL’). This information may be kept to a minimum, such as through the use of symbols, in which case more detailed information should appear in the instructions for use.
+### 如果授权代表代表制造商在国家/辖区行事，则标签应也包含授权代表的地址，如果符合管辖范围内的法规要求。授权代表可以在进口国家/辖区内提供此信息，而不是由制造商提供，在这种情况下，附加信息不得遮盖制造商的任何标签。如果符合管辖范围内的法规要求，则可以使用标签上的 URL，访问该 URL 后，包含授权代表的完整地址，格式应易于识别，并允许确定授权代表的位置。
 
-### The label should indicate if the medical device or IVD medical device is intended by the manufacturer for single-use only or reuse on a single patient. The label may indicate reuse in more than one patient if warranted. If the medical device or IVD medical device is reusable and its reusability is limited, the label should indicate these limitations (e.g., maximum number of allowable reuses). 
+### 对于进口的医疗器械或体外诊断医疗器械，标签应包含进口商或分销商在进口国家/辖区内的姓名和物理地址，如果相关监管机构要求。 进口商或分销商可以在进口国家/辖区内添加这些信息，而不是由制造商提供，在这种情况下，附加信息不得遮盖制造商的任何标签。
 
-### The label should indicate if the medical device or IVD medical device is intended only for premarket clinical investigation, premarket performance evaluation, non-clinical research, or presentation or demonstration purposes. In these situations, some of the principles listed in this document may not apply.
+### 如果标签包含符号和与安全相关的标识颜色[9]，则应解释标记。
 
-### Labels should be durable and legible for at least the lifetime of the medical device or IVD medical device.
+### 标签应包含医疗器械或体外诊断医疗器械的批号、批号、生产批号、生产批号、序列号、控制号或版本号，具体取决于情况。
 
-## Instructions for Use 
+### 标签应包含明确的日期，例如有效期，在此日期之后，医疗器械或体外诊断医疗器械无法安全使用，如果适用（例如，适用于提供无菌或一次性使用的设备）。 理想情况下，此日期应表示为完整的一年、月份和日期，因为这种格式具有最小的歧义性。 标签还应包含生产日期，如果由相关监管机构要求。 在这种情况下，生产日期可以包含在批号或序列号中，前提是日期可以清楚地识别。
 
-### Instructions for use should be written in terms readily understood by the intended user and, where appropriate, supplemented with drawings and diagrams near the corresponding text. Some medical devices or IVD medical devices may include separate information for the professional user and the lay person. 
+### 如果医疗器械或体外诊断医疗器械提供无菌，则标签应包含指示该设备以无菌状态提供，以及适用的情况下，灭菌方法。
 
-### Where the manufacturer supplies multiple medical devices or IVD medical devices to a single user and/or location, it may be sufficient to provide only a single copy of the instructions for use. In these circumstances, the manufacturer should provide further copies upon request or make the instructions for use available in an electronic format.
+### 在适当的情况下，标签应明确指出，该医疗器械或体外诊断（IVD）医疗器械含有或包含一种药物或生物物质，例如：含有肝素涂层的导管或含有药物涂层的支架。如果相关监管机构要求，标签还应包括该物质的用量、比例或浓度（例如：含有 10 毫克/毫升的钠海拉隆酸；青霉素（2%）），前提是该物质将与患者直接接触。
 
-### Instructions for use may not be needed or may be abbreviated for certain medical devices or IVD medical devices if they can be used safely and as intended by the manufacturer without any such instructions for use. Justification for any omission should be described in the manufacturer’s risk analysis for the medical device or IVD medical device.
+### 标签应包含任何需要立即告知医疗器械或体外诊断医疗器械的使用者，以及其他相关人员（例如“警告 – 热表面”或“本产品含有乳胶”或“含有潜在的传染性物质”）的警告或注意事项。 这种信息应尽量减少，例如通过使用符号，在这种情况下，更详细的信息应在说明书中。
 
-### Instructions for use may be provided to the user in paper or electronic format or both, as permitted by the RA having jurisdiction. They may be supplied by various means either with the medical device or IVD medical device or separate from it. Examples of other means are: information displayed on a screen incorporated into the medical device or IVD medical device, information downloaded from the manufacturer’s website, and machine-readable sources. The means chosen should be appropriate for the use environment and accessible to the anticipated user population. Any updates to the instructions for use need to be consistent across paper and electronic formats whether they are retrospective or batch specific.
+### 标签应指示医疗器械或体外诊断医疗器械的制造商是否仅供单次使用，或在单个患者身上重复使用。 标签可以指示在多个患者身上重复使用，如果适用。 如果医疗器械或体外诊断医疗器械是可重复使用的，并且其可重复使用的范围有限，则标签应指示这些限制（例如，允许的最大重复使用次数）。
 
-### If the manufacturer has a website, the instructions for use may also be made available on that website. In this situation, the medical device or IVD medical device packaging should include a means for the user to easily access the appropriate electronic instructions for use via inclusion of a web address or other information. 
+### 标签应指示医疗器械或体外诊断医疗器械是否仅供上市前临床试验、上市前性能评估、非临床研究或演示或展示目的。 在这些情况下，本文件列出的某些原则可能不适用。
 
-### Where instructions for use are provided on a medium other than paper, the manufacturer should ensure the user has information on how to:
+### 标签应具有足够的耐用性和可读性，至少应在医疗器械或体外诊断医疗器械的整个使用寿命内。
 
-### view the instructions for use; 
+## 使用说明
 
-### access the correct version of the instructions for use; and
+### 使用说明应以易于理解的语言编写，并针对目标用户，并在适当的情况下，应附带与相应文本相关的图表和示意图。 某些医疗器械或体外诊断医疗器械可能包含针对专业人士和普通用户的单独信息。
 
-### obtain a paper version of the instructions for use.
+### 当制造商向单个用户或地点供应多种医疗器械或体外诊断医疗器械时，可能只需要提供一份说明书。在这种情况下，制造商应在收到请求时提供额外的副本，或以电子格式提供说明书。
 
-### NOTE: The RA having jurisdiction may set the conditions for when the electronic instructions for use should be provided to guarantee a high level of safety. These conditions may specify the types of medical devices or IVD medical devices that can use electronic instructions for use and the requirements the manufacturer needs to follow. For example, the RA may specify that the manufacturer should upon request provide a paper version free of charge. 
+### 某些医疗器械或体外诊断医疗器械，如果可以安全且按照制造商的意图使用，则可能不需要或可以简化的说明书。任何省略说明书的理由应在医疗器械或体外诊断医疗器械的制造商风险分析中进行说明。
 
-### The instructions for use should contain the name or trade name of the medical device or IVD medical device. 
+### 说明书可以以纸质或电子格式或两者兼有形式向用户提供，具体取决于管辖范围内的法规。它们可以与医疗器械或体外诊断医疗器械一起提供，也可以单独提供。其他形式的例子包括：嵌入医疗器械或体外诊断医疗器械的屏幕上显示的信息、从制造商网站下载的信息以及可供机器读取的信息。所选的手段应适合使用环境，并易于被预期用户群体访问。说明书的任何更新都应在纸质和电子格式上保持一致，无论是否是回顾性或批次特定。
 
-### The instructions for use should include a description of the medical device or IVD medical device and how it is intended to be used.
+### 如果制造商有网站，说明书也可以在网站上提供。在这种情况下，医疗器械或体外诊断医疗器械的包装应包含一种机制，以便用户可以通过包含网址或其他信息轻松访问适当的电子说明书。
 
-### The instructions for use should contain the name and address of the manufacturer in a format that is recognizable and allows the location of the manufacturer to be established, together with contact information (e.g., telephone number, fax number, website or email address) to obtain technical assistance, if such information is required by the RA having jurisdiction. 
+### 如果说明书以非纸质介质提供，制造商应确保用户了解如何：
 
-### The instructions for use should state the medical device’s or IVD medical device’s intended use/purpose, including the indications for use, intended user (e.g. professional or lay person), and intended use environment, as appropriate. 
+### 查看使用说明；
 
-### The instructions for use should state the performance of the medical device or IVD medical device claimed by the manufacturer.
+### 访问正确的《使用说明》版本；以及
 
-### The instructions for use should include any specifications the user requires to use, process, and maintain the device appropriately. For example, if the medical device or IVD medical device performs any measurements, the instructions for use should include the claimed limits of accuracy. 
+### 获取《使用说明》的纸质版。
 
-### The instructions for use should include information that allows the user and/or patient to be sufficiently informed of any warnings, precautions, measures to be taken and limitations of use regarding the medical device or IVD medical device. This information should cover, where appropriate:
+### 注意：具有管辖权的监管机构（RA）可以设定电子《使用说明》应提供的时间条件，以确保高水平的安全。这些条件可能指定哪些医疗设备或体外诊断（IVD）医疗设备可以使用电子《使用说明》，以及制造商需要遵循的要求。例如，监管机构可能指定制造商应在收到请求时，免费提供纸质版。
 
-### warnings, precautions and/or measures to be taken in the event of malfunction of the medical device or IVD medical device or changes in its functionality that may affect safety or performance;
+### 《使用说明》应包含医疗设备或体外诊断（IVD）医疗设备的名称或商标名称。
 
-### warnings, precautions and/or measures to be taken in regard to the exposure to reasonably foreseeable external influences or environmental conditions, such as magnetic fields, external electrical and electromagnetic effects, electrostatic discharge, radiation associated with diagnostic or therapeutic procedures, pressure, humidity, or temperature; 
+### 《使用说明》应包含医疗设备或体外诊断（IVD）医疗设备的描述以及其使用方式。
 
-### warnings, precautions and/or measures to be taken in regard to the risks of interference posed by the reasonably foreseeable presence of the medical device or IVD medical device during specific diagnostic investigations, evaluations, therapeutic treatment or use (e.g. electromagnetic interference emitted by the device affecting other equipment);
+### 《使用说明》应包含制造商的名称和地址，格式应易于识别，并允许确定制造商的位置，以及联系信息（例如，电话号码、传真号码、网站或电子邮件地址），以便在必要时获得技术支持（如果监管机构要求）。
 
-### precautions related to materials incorporated into the device that are potentially carcinogenic, mutagenic or toxic, or could result in sensitization or allergic reaction for the patient or user; and
+### 《使用说明》应说明医疗设备或体外诊断（IVD）医疗设备的预期用途/目的，包括用途说明、预期用户（例如，专业人士或非专业人士）和预期使用环境，如果适用。
 
-### precautions related to potentially infectious material that is included in a medical device or IVD medical device. 
+### 《使用说明》应说明制造商声称的医疗设备或体外诊断（IVD）医疗设备的性能。
 
-### The instructions for use should include any recommended quality control procedures to be taken to verify that the medical device or IVD medical device performs as intended, including the following if applicable:
+### 使用说明应包含用户需要以适当的方式使用、处理和维护该设备的任何规格。例如，如果医疗设备或体外诊断设备进行任何测量，则使用说明应包含所声称的准确度限制。
 
-### the procedures for using any available controls; 
+### 使用说明应包含信息，使用户和/或患者充分了解有关医疗设备或体外诊断设备的警告、预防措施、应采取的措施以及使用限制。这些信息应涵盖（如果适用）：
 
-### instructions recommending the frequency of use;
+### 医疗设备或体外诊断设备发生故障、功能变化或任何可能影响安全或性能的情况的警告、预防措施和/或应采取的措施；
 
-### the limitations of the quality control procedure; 
+### 医疗设备或体外诊断设备暴露于合理可预见的外部影响或环境条件，例如磁场、外部电磁效应、静电放电、与诊断或治疗程序相关的辐射、压力、湿度或温度；
 
-### how the user should interpret the quality control procedure results, including a description of whether test results can or cannot be accepted; and
+### 医疗设备或体外诊断设备在特定诊断检查、评估、治疗或使用期间（例如，设备发出的电磁干扰影响其他设备）的合理可预见的存在所带来的干扰风险；
 
-### the actions to be taken if there is a failure of any of the controls.
+### 与设备中可能致癌、致突变或有毒的材料，或可能导致患者或用户出现过敏或过敏反应的材料相关的预防措施；以及
 
-### If the medical device or IVD medical device incorporates or includes a medicinal or biological substance, the instructions for use should identify that substance or material, and list any warnings, precautions and/or limitations related to this substance. If required by the RA having jurisdiction, the instructions for use should also include the quantity, proportion or strength of that substance if the substance will be in direct contact with the patient.
+### 与医疗设备或体外诊断设备中可能存在的传染性材料相关的预防措施。
 
-### The instructions for use should include information describing the purpose and interpretation of any indicators (e.g., humidity, temperature) provided within the packaging, and what steps to take based on the indicator results. 
+### 使用说明应包括任何建议的质量控制程序，用于验证医疗器械或体外诊断医疗器械是否按照预期运行，包括以下内容（如果适用）：
 
-### The instructions for use should identify information for safety including any relevant residual risks, contraindications, and any expected and foreseeable adverse events, including information to be conveyed to the patient in this regard. 
+### 使用任何可用控制程序的程序；
 
-### The instructions for use should include the details of any preparatory treatment or handling of the medical device or IVD medical device before it is ready for use (e.g., sterilization, identification of other necessary equipment not provided with the medical device or IVD medical device, final assembly, reconstitution, calibration).
+### 建议使用的频率说明；
 
-### The instructions for use should include any requirements for special facilities (e.g. sterile field or clean room environment), or special training, or particular qualifications of the user and/or third parties.
+### 质量控制程序的局限性；
 
-### The instructions for use should contain any information needed to verify that the medical device or IVD medical device is properly installed and ready to perform safely and as intended by the manufacturer, including when applicable:
+### 用户应如何解释质量控制结果，包括对测试结果是否可接受的描述；以及
 
-### details and frequency of preventive and regular maintenance;
+### 如果任何控制措施出现失效时应采取的行动。
 
-### cleaning and disinfection information
+### 如果医疗器械或体外诊断医疗器械包含或包含药物或生物物质，则使用说明应标识该物质或材料，并列出与该物质相关的任何警告、注意事项和/或限制。如果相关监管机构要求，使用说明还应包括该物质的量、比例或强度，如果该物质将直接与患者接触。
 
-### identification of consumable components and how to replace them;
+### 使用说明应包含描述任何包装内提供的指示（例如，湿度、温度）的目的和解释，以及根据指示结果应采取的步骤的信息。
 
-### necessary calibration information; and
+### 使用说明应标识安全信息，包括任何相关的残留风险、禁忌症以及任何预期的和可预见的不良事件，包括与患者沟通的信息。
 
-### methods for mitigating risks encountered during cleaning, installation, calibration or servicing.
+### 使用说明应包含医疗器械或体外诊断医疗器械在使用前所需的任何准备性处理或操作的详细信息（例如，灭菌、识别其他未随医疗器械或体外诊断医疗器械提供的必要设备、最终组装、复配、校准）。
 
-### The instructions for use should include any special handling measures or permissible environmental conditions (e.g., upper and lower temperature limits, light, humidity) for storage and transport of the medical device or IVD medical device. The use of non-specific temperature or humidity indications that are open to interpretation, or which may vary according to geographic location is to be avoided unless further qualification is included.
+### 使用说明应包含任何对特殊设施（例如，无菌环境或清洁室）或特殊培训、用户和/或第三方特定资格的要求。
 
-### The instructions for use should include any warnings or precautions to be taken related to the disposal of the medical device or IVD medical device and its accessories. This also includes any consumables that require special disposal as a result of being used with the medical device or IVD medical device. This information should cover, where appropriate:
+### 使用说明应包含任何信息，以验证医疗器械或体外诊断（IVD）医疗器械是否已正确安装，并准备好在制造商的意图下安全、有效运行，包括（如果适用）：
 
-### infection or microbial hazards (e.g. explants, needles or surgical equipment contaminated with potentially infectious substances of human origin);
+### 预防性及常规维护的详细信息和频率；
 
-### environmental hazards (e.g. batteries or materials that emit potentially hazardous levels of radiation); and
+### 清洁和消毒信息
 
-### physical hazards (e.g. from sharps).
+### 可消耗部件的识别以及如何更换；
 
-### If the medical device or IVD medical device is supplied sterile, the instructions for use should include instructions to be followed in the event of the sterile packaging being damaged or unintentionally opened before use.
+### 必要的校准信息；以及
 
-### The instructions for use should include any instructions to be followed in the event of the packaging being damaged or unintentionally opened before use, or if the packaging is exposed to environmental conditions outside of those specified.
+### 减轻在清洁、安装、校准或维护过程中遇到的风险的方法。
 
-### If the medical device or IVD medical device is supplied non-sterile with the intention that it is sterilized before use, the instructions for use should include  
-appropriate instructions for sterilization and should also include any instructions for cleaning the device prior to sterilization. 
+### 使用说明应包含任何与医疗器械或IVD医疗器械及其配件的处置相关的特殊处理措施或允许的环境条件（例如，上下限温度、光照、湿度）。应避免使用不明确的温度或湿度指示，这些指示可能具有多种解释，或可能因地理位置而异，除非另有进一步的验证。
 
-### If the medical device or IVD medical device is reusable, the instructions for use should include information on the appropriate processes to allow reuse, including cleaning, disinfection, packaging and, where appropriate, the method of re-sterilization. Information should be provided to identify when the device should no longer be reused (e.g., signs of material degradation or the maximum number of allowable reuses).
+### 使用说明应包含与医疗器械或IVD医疗器械及其配件的处置相关的任何警告或注意事项。这还包括任何因与医疗器械或IVD医疗器械一起使用而需要特殊处置的可消耗品。该信息应涵盖（如果适用）：
 
-### For medical devices or IVD medical devices intended for use together with other medical devices, IVD medical devices, and/or general purpose equipment, the instructions for use should include sufficient information identify such devices or equipment, in order to obtain a safe combination, and/or information on any known restrictions to combinations of medical devices or IVD medical devices and equipment.
+### 感染或微生物危害（例如，含有潜在传染性物质的来源（人类）的摘取物、针头或手术设备）；
 
-### If the medical device or IVD medical device emits hazardous, or potentially hazardous levels of radiation for medical purposes, the instructions for use should include detailed information as to the nature, type and where appropriate, the intensity, distribution, and recommended dose of the emitted radiation; and/or the means of protecting the patient, user, or third party from unintended radiation during use of the device.
+### 环境危害（例如，发出潜在危险辐射水平的电池或材料）；以及
 
-### The instructions for use should state the date of issue or latest revision of the instructions for use and, where appropriate, an identification number.
+### 物理危害（例如，来自尖锐物品）。
 
-# General Labeling Principles for Medical Devices other than IVD Medical Devices
+### 如果医疗器械或体外诊断（IVD）医疗器械以无菌状态供应，则使用说明应包括在包装受损或在未经授权的情况下被打开之前使用时，应采取的措施。
 
-In addition to the principles outlined in Section 5.0, medical devices should also meet the following labeling principles.
+### 使用说明应包括在以下情况下应遵循的任何指示：包装在使用前损坏或意外打开，或者包装暴露在超出指定条件的环境条件下。
 
-## Label
+### 如果医疗器械或体外诊断（IVD）医疗器械以非无菌状态供应，并预期在使用前进行灭菌，则使用说明应包括：
 
-### The label should indicate if the medical device is for use by a single individual and has been manufactured according to a written prescription or pattern (e.g., it is a personalized medical device). 
+应包括适当的灭菌说明，并且还应包含任何在灭菌前清洁设备的说明。
 
-## Instructions for Use
+### 如果医疗器械或体外诊断（IVD）医疗器械是可重复使用的，则使用说明应包含有关允许重复使用的适当流程的信息，包括清洁、消毒、包装，以及在适当情况下，重新灭菌的方法。 应提供信息，以确定何时不再允许重复使用该设备（例如，材料降解的迹象或允许的最大重复使用次数）。
 
-### If the medical device administers medicinal or biological products, the instructions for use should indicate any limitations or incompatibilities in the choice of substances to be delivered.
+### 对于用于与其它医疗设备、体外诊断（IVD）医疗设备以及通用设备一起使用的医疗设备或IVD医疗设备，使用说明应包含充分的信息，以识别这些设备或设备，从而实现安全组合，以及/或关于已知医疗设备或IVD医疗设备和设备组合的任何限制的信息。
 
-# General Labeling Principles for IVD Medical Devices
+### 如果医疗器械或体外诊断（IVD）医疗器械在医疗用途中，发出危险或潜在的辐射水平，则使用说明应包含关于辐射的详细信息，包括其性质、类型，以及在适当情况下，辐射强度、分布和推荐剂量；以及/或保护患者、用户或第三方免受使用该设备期间意外辐射的措施。
 
-In addition to the principles outlined in Section 5.0, IVD medical devices should also meet the following labeling principles.
+### 使用说明应注明使用说明的发布日期或最新版本，以及在适当情况下，标识编号。
 
-## Label
+# 医疗器械（非体外诊断）的通用标签原则
 
-### The label should state that the IVD medical device is for in vitro diagnostic use.
+除了第 5.0 节中概述的原则之外，医疗器械还应符合以下标签原则。
 
-## Instructions for Use
+标签
 
-### The description of the intended use should include the following, where applicable: 
+### 标签应指示医疗器械是为单个个体使用，并且按照书面处方或模式制造（例如，它是个性化医疗器械）。
 
-### what the IVD medical device measures or detects;
+## 使用说明
 
-### its function (e.g. screening, monitoring, diagnosis or aid to diagnosis, prognosis, prediction, companion diagnostic);
+### 如果医疗器械用于给药或输注药物或生物制品，则使用说明应指示所选物质的选择上的任何限制或不相容性。
 
-### the specific disorder, condition or risk factor of interest that it is intended to detect, define or differentiate;
+# IVD 医疗器械的一般标签原则
 
-### whether or not it includes automated components or is intended to be used with automated instruments; 
+除了第 5.0 节中规定的原则之外，IVD 医疗器械还应符合以下标签原则。
 
-### what the IVD medical device reports (e.g., qualitative test, semi-quantitative, quantitative test); 
+标签
 
-### the type of specimen(s) (e.g. serum, plasma, whole blood, tissue biopsy, urine) required including the specimen source(s) (e.g. capillary whole blood from arm), matrix (e.g. EDTA tube), time (e.g. 8 hours after injury) and collection method (e.g. self-collected urine); and
+### 标签应声明该 IVD 医疗器械用于体外诊断。
 
-### target population (on whom the IVD medical device is used). 
+## 使用说明
 
-### The instructions for use should include a statement of the test principle(s), such as the general biological, chemical, microbiological, immunochemical and other principles on which the IVD medical device is based. Proprietary information need not be disclosed, but should provide enough detail to allow the user to understand how the IVD medical device is able to carry out its function.
+### 预期用途的描述应包括以下内容（如果适用）：
 
-### The instructions for use should include a description and the amount of the reagent, calibrators and controls and any limitation upon their use (e.g. suitable for a dedicated instrument only).
+### IVD 医疗器械测量的或检测的内容；
 
-### NOTE: IVD medical device kits include individual reagents and articles that may be made available as separate IVD medical devices. In this situation, where appropriate, these IVD medical devices should comply with the instructions for use content in this section.
+### 它的功能（例如，筛查、监测、诊断或辅助诊断、预后、预测、伴侣诊断）；
 
-### The instructions for use should include a list of materials provided and a list of any materials required but not provided.
+### 它旨在检测、定义或区分的特定疾病、状况或风险因素；
 
-### The instructions for use should include a description of in-use stability. This may include the storage conditions prior to opening and shelf-life following the first opening of the primary container, together with the storage conditions and stability of working solutions, where this is relevant.
+### 是否包含自动组件，或是否旨在与自动仪器一起使用；
 
-### The instructions for use should list the included and excluded conditions for collection, shipping, handling, and preparation of the specimen.
+### IVD 医疗器械报告的内容（例如，定性测试、半定量测试、定量测试）；
 
-### Where relevant, the instructions for use should include the traceability of values assigned to calibrators and trueness-control materials, including identification of applicable reference materials and/or reference measurement procedures of higher order.
+### 所需的样本类型（例如，血清、血浆、全血、组织活检、尿液），包括样本来源（例如，手臂的毛细血管全血）、基质（例如，EDTA 管）、时间（例如，受伤后 8 小时）和采集方法（例如，自采集尿液）；以及
 
-### The instructions for use should describe the assay procedure including calculations and interpretation of results, any additional software or reference database required, and where relevant, if any confirmatory testing should be considered.
+### 目标人群（即，IVD 医疗器械用于的对象）。
 
-### The instructions for use should list the analytical performance characteristics, such as precision, accuracy, sensitivity, and specificity.
+### 使用说明应包含测试原理的说明，例如，基于的通用生物、化学、微生物、免疫化学和其他原理，这些原理是体外诊断（IVD）医疗器械的基础。不需要披露专有信息，但应提供足够的信息，使用户能够理解IVD医疗器械如何执行其功能。
 
-### Where relevant, the instructions for use should list the clinical performance characteristics (e.g. diagnostic sensitivity, diagnostic specificity, positive predictive value, negative predictive value, likelihood ratio, expected values in normal and affected populations).
+### 使用说明应包含试剂、校准剂和控制品的描述以及使用量，以及对它们的任何限制（例如，仅适用于专用仪器）。
 
-### Where relevant, the instructions for use should include the reference intervals in normal and affected populations.
+### 注意：IVD医疗器械套件包含的试剂和物品，这些试剂和物品可能作为单独的IVD医疗器械提供。在这种情况下，如果适用，这些IVD医疗器械应符合本部分的使用说明内容。
 
-### The instructions for use should include information on any interfering substances or limitations (e.g. visual evidence of hyperlipidemia or hemolysis, age of specimen/sample) that may affect the performance of the assay.
+### 使用说明应包含提供的材料清单和未提供的材料清单。
 
-### Where relevant, the instructions for use should include a bibliography or references section.
+### 使用说明应包含使用时的稳定性描述。这可能包括在打开之前和在首次打开原始容器后的存储条件以及保质期，以及如果适用，工作溶液的存储条件和稳定性。
 
-# Labeling Principles for Medical Devices Containing Software or Software as a Medical Device
+### 使用说明应列出收集、运输、处理和样本制备的包含和排除的条件。
 
-## Software that is incorporated into a medical device or IVD medical device or that is intended for use as software as a medical device (SaMD) should be identified with an identifier, such as version, revision level or date of build release/issue. The unique identifier should be accessible to the intended user, unless the medical device does not have a wired or wireless electronic interface.
+### 如果适用，使用说明应包括校准剂和真值控制材料的价值可追溯性，包括适用参考材料和/或更高层次的参考测量程序的识别。
 
-## For software incorporated into a medical device or IVD medical device, the identifier does not need to be on the outside of the medical device or IVD medical device.
+### 使用说明应描述检测程序，包括计算和结果解释、任何所需的额外软件或参考数据库，以及如果适用，应考虑的任何确认性测试。
 
-## For SaMD without a physical form or packaging, the label may be available electronically if permitted by the RA having jurisdiction. In this situation, the medical device should incorporate a means for the user to easily access the electronic label via the software itself or via inclusion of a web address or other means.
+### 使用说明应列出分析性能特征，例如精度、准确性、灵敏度和特异性。
 
-# Labeling Principles for Medical Devices and IVD Medical Devices Intended for Use by Lay Persons
+### 如果适用，使用说明应列出临床性能特征（例如诊断灵敏度、诊断特异性、阳性预测值、阴性预测值、可能性比、正常人群和患病人群的预期值）。
 
-## The information and instructions provided by the manufacturer should allow the intended lay user to understand and apply, in order to correctly interpret the result provided by the device or to confirm that the device is operating or has operated as intended. 
+### 如果适用，使用说明应包含正常人群和患病人群中的参考范围。
 
-## Instructions for use intended to be used principally by lay users should be available in a format appropriate and accessible to the lay user. 
+### 使用说明应包含有关任何可能影响检测性能的干扰物质或限制的信息（例如高胆固醇或溶血的视觉证据、样本/样本的年龄）。
 
-## Some devices may include separate information for the professional user and the lay person, e.g. a simplified job aid for lay persons. This information should agree with the instructions for use and should state clearly the version it relates to. It should be written at a level consistent with the education, training and any special needs of its intended readers.
+### 如果适用，使用说明应包含参考文献或参考部分。
 
-## The language of the intended use statement may be simplified in instructions for use used by lay persons (including self-testing), provided key messages remain. In addition, instructions for use for home use medical devices or self-testing IVD medical devices may omit some of the recommended elements, provided this does not affect safety or performance. Justification for any omission should be described in the manufacturer’s risk analysis for the product.
+# 医疗器械（包含软件或软件作为医疗器械）的标签原则
 
-## Interpretation of results should include pictorial representations of all possible test results (including when a device has failed to provide a valid result) for medical devices or IVD medical devices that give a visual readout, where applicable.
+## 将嵌入医疗器械或体外诊断医疗器械，或作为医疗器械软件（SaMD）而设计的软件应使用标识，例如版本、修订级别或构建/发布/发行日期。唯一的标识应可供预期用户访问，除非医疗器械没有有线或无线电子接口。
 
-## For medical devices or IVD medical devices intended for use by lay persons, the instructions for use should clearly and concisely describe the circumstances when the user should consult with a healthcare professional.
+## 对于嵌入医疗器械或体外诊断医疗器械的软件，标识不必在医疗器械或体外诊断医疗器械的外部。
 
-## Instructions for use should clearly state if an IVD medical device is intended for self-testing. Self-testing may include the involvement of a third-party caregiver.
+## 对于没有物理形态或包装的SaMD，如果符合管辖范围内的RA的要求，标识可能以电子形式提供。在这种情况下，医疗器械应包含一种机制，以便用户可以通过软件本身或通过包含网址或其他方式轻松访问电子标识。
 
-# Labeling Principles for Information Intended for the Patient
+# 医疗器械和体外诊断医疗器械的标识原则，适用于非专业人士
 
-The following principles are not related to the use of a medical device or IVD medical device by a lay person, but instead describe general considerations for information intended to be provided to the patient before or after use of the medical device or IVD medical device by a professional. 
+## 制造商提供的信息和说明应使预期非专业用户能够理解和应用，以便正确解释设备提供的结果或确认设备正在正常运行或已按照预期运行。
 
-Not all medical devices or IVD medical devices include information to be provided to the patient. The need for such information and the applicability of the principles below depend on the RA having jurisdiction and the type of medical device, including implantable devices in certain regulatory jurisdictions. 
+## 旨在主要由非专业人士使用的说明应以适合且易于非专业人士使用的格式提供。
 
-## Information that is specifically intended for the patient should be provided with the medical device or IVD medical device. Depending on the device, the user population and the RA jurisdiction, it may be appropriate for this information to be available electronically. In this situation, the medical device or IVD medical device should include a means for the patient to easily access the electronic information via inclusion of a web address or other information.
+## 某些设备可能包含针对专业人士和非专业人士的单独信息，例如，为非专业人士提供的简化的辅助工具。这些信息应与说明一致，并明确说明其版本。它应以与预期读者（包括其教育、培训和特殊需求）相符的水平编写。
 
-## Information identifying the device should be provided in a human-readable format but may be supplemented by machine-readable forms, such as bar codes. If UDI is required by the RA having jurisdiction, UDI should be included. 
+## 针对性声明的语言在非专业人士（包括自测）使用的说明书中可以进行简化，但前提是必须保留关键信息。此外，用于家庭使用或自测的体外诊断（IVD）医疗器械的说明书可以省略某些推荐内容，只要这不会影响安全或性能。任何省略的理由应在制造商的产品风险分析中进行说明。
 
-## If the information intended for the patient includes an implant card, the card should be in a durable format and should include the following: 
+## 对于提供视觉读数的医疗器械或IVD医疗器械，结果的解释应包括所有可能测试结果的图示（包括设备未能提供有效结果的情况），如果适用。
 
-### identification of the medical device, including the brand or trade name and the device type or use, e.g. ‘transcatheter heart valve’ or ‘synthetic hernia mesh’; 
+## 对于为非专业人士设计的医疗器械或IVD医疗器械，说明书应明确、简洁地描述用户应咨询医疗专业人员的情况。
 
-### identification of the device model;
+## 说明书应明确说明，如果IVD医疗器械是为自测而设计的。自测可能包括第三方照护者的参与。
 
-### the catalog number; 
+# 针对患者的信息标签原则
 
-### the number used to uniquely identify the medical device, such as the lot number, serial number, or UDI; and 
+以下原则与医疗器械或IVD医疗器械由非专业人士使用无关，而是描述了在专业人士使用医疗器械或IVD医疗器械前后向患者提供信息的通用考虑。
 
-### the name and address of the manufacturer and any authorized representative or importer in a format that is recognizable and allows their location to be established. A full address should contain information related to the physical location such as street/road, number/floor/house, city, state/region, postal code, country, etc. 
+并非所有医疗器械或IVD医疗器械都包含为患者提供的信息。此类信息的需求以及以下原则的适用性取决于管辖区域的法规要求以及医疗器械的类型，包括在某些监管辖区中的植入式医疗器械。
 
-## If the information intended for the patient includes an informational brochure, the information in the brochure should be written in a way that is readily understood by patients. In addition, the brochure should include the following information, as well as any other information relevant to the device or recommended in specific standards, as applicable: 
+## 针对患者的特定信息应随医疗器械或体外诊断医疗器械一起提供。根据设备、用户群体和监管机构的规定，可能需要将这些信息以电子形式提供。在这种情况下，医疗器械或体外诊断医疗器械应包含一种机制，使患者能够通过包含网址或其他信息来轻松访问电子信息。
 
-### the name of the medical device;
+## 标识医疗器械的信息应以易于人阅读的格式提供，但也可以通过机器可读的形式（如条形码）进行补充。如果监管机构要求使用UDI，则应包含UDI。
 
-### the model of the medical device;
+## 如果针对患者的信息包括植入卡，则卡应采用耐用的格式，并包含以下内容：
 
-### the intended use, including the intended purpose and patient population; 
+### 医疗器械的标识，包括品牌或商品名称和器械类型或用途，例如“经导管心脏瓣膜”或“人造腹股沟网”，
 
-### any special operating instructions for the use of the medical device;
+### 器械型号的标识；
 
-### a description of the medical device, its mechanism of action, and its expected performance;
+### 目录编号；
 
-### any adverse event the patient may potentially experience due to the medical device;
+### 用于唯一标识医疗器械的编号，例如批号、序列号或UDI；以及
 
-### warnings about any relevant residual risks;
+### 制造商和任何授权代表或进口商的姓名和地址，格式应易于识别，并允许确定其位置。完整的地址应包含与物理位置相关的信息，例如街道/路名、号码/楼层/房屋、城市、州/地区、邮政编码、国家等。
 
-### warnings about risks that could arise from the interaction of the medical device with other equipment, and precautions and other measures that should be taken by the patient or a health professional because of these risks;
+## 如果患者应获取的信息包括宣传册，则宣传册中的内容应以易于患者理解的方式编写。此外，宣传册应包含以下信息，以及任何与医疗器械相关的其他信息或特定标准中推荐的信息：
 
-### Example 1: The risk of electrical interference from electro surgical medical devices.
+### 医疗器械的名称；
 
-### Example 2: The risk of magnetic field interference from magnetic resonance imaging medical devices.
+### 医疗器械的型号；
 
-### the nature and frequency of regular or preventive examination, monitoring, or maintenance of the medical device that should be undertaken; 
+### 预期用途，包括预期用途和患者人群；
 
-### the nature and frequency of any follow-up with healthcare professionals to be performed by the patient; 
+### 任何针对医疗器械使用的特殊操作说明；
 
-### signs that could indicate that the medical device is malfunctioning;
+### 医疗器械的描述、其作用机制以及预期性能；
 
-### precautions and other measures that should be taken by the patient if the performance of the medical device changes or the patient experiences any of the signs mentioned in item (k);
+### 患者可能因使用医疗器械而产生的任何不良事件；
 
-### the expected lifetime of the medical device, and any factors that could affect it; 
+### 关于任何相关残留风险的警告；
 
-### precautions and other measures that should be taken at, or near, the end of the expected lifetime;
+### 关于医疗器械与其他设备相互作用可能产生的风险，以及患者或医疗专业人员应采取的预防措施和其他措施的信息；
 
-### information about the materials and substances, including manufacturing residuals, in the medical device that could pose a risk to the patient; 
+### 示例 1：由电外科医疗器械产生的电磁干扰的风险。
 
-### contact information for the manufacturer;
+### 示例 2：由核磁共振成像医疗器械产生的磁场干扰的风险。
 
-### circumstances in which the patient should contact a health professional; and
+### 医疗器械应进行的定期或预防性检查、监测或维护的性质和频率；
 
-### guidance regarding whom the patient should contact in the case of any symptoms of an adverse event or a problem with the device.
+### 患者应进行的任何与医疗专业人员的随访的性质和频率；
 
-Disclaimer
+### 可能指示医疗器械出现故障的迹象；
 
-© Copyright 2024 by the International Medical Device Regulators Forum. 
+### 如果医疗器械的性能发生变化或患者出现上述（k）项所述的任何迹象，患者应采取的预防措施和其他措施；
 
-This work is copyright. Subject to these Terms and Conditions, you may download, display, print, translate, modify and reproduce the whole or part of this work for your own personal use, for research, for educational purposes or, if you are part of an organisation, for internal use within your organisation, but only if you or your organisation do not use the reproduction for any commercial purpose and retain all disclaimer notices as part of that reproduction. If you use any part of this work, you must include the following acknowledgement (delete inapplicable): 
+### 医疗器械的预期寿命，以及可能影响其因素；
 
-“[Translated or adapted] from [insert name of publication], [year of publication], International Medical Device Regulators Forum, used with the permission of the International Medical Device Regulators Forum. The International Medical Device Regulators Forum is not responsible for the content or accuracy of this [adaption/translation].” 
+### 在或接近预期寿命结束时应采取的预防措施和其他措施；
 
-All other rights are reserved, and you are not allowed to reproduce the whole or any part of this work in any way (electronic or otherwise) without first being given specific written permission from IMDRF to do so. Requests and inquiries concerning reproduction and rights are to be sent to the IMDRF Secretariat. 
+### 关于医疗器械中可能对患者构成风险的材料和物质的信息，包括制造残留；
 
-Incorporation of this document, in part or in whole, into another document, or its translation into languages other than English, does not convey or represent an endorsement of any kind by the IMDRF. 
+### 制造商的联系方式；
 
-Please visit our website for more details.
+### 患者应联系医疗专业人员的情况；以及
+
+### 关于在出现不良事件或设备问题时，患者应联系谁的指导。
+
+免责声明
+
+© 2024 年 国际医疗器械监管论坛 版权所有。
+
+本作品受版权保护。在遵守本条款和条件的前提下，您可以下载、显示、打印、翻译、修改和复制本作品的全部或部分内容，用于您个人的使用、研究、教育目的，或如果贵组织是组织，则用于贵组织的内部使用，但前提是您或贵组织不得将复制用于任何商业目的，并且保留所有版权声明。如果您使用本作品的任何部分，必须包含以下声明（删除不适用的内容）：
+
+“[翻译或改编]自[插入出版物名称]，[出版年份]，国际医疗器械监管论坛，经国际医疗器械监管论坛授权使用。国际医疗器械监管论坛不对本[改编/翻译]的内容或准确性负责。”
+
+除上述内容外，所有权利均保留，未经国际医疗器械监管论坛（IMDRF）事先书面许可，不得以任何方式（包括电子方式）复制或使用本材料的全部或任何部分。有关复制和权利的请求和咨询应发送给 IMDRF 秘书处。
+
+将本文件（部分或全部）纳入其他文档，或将其翻译成其他语言，并不代表IMDRF的认可。
+
+请访问我们的网站以获取更多详细信息。
 
 [www.imdrf.org](<http://www.imdrf.org/>)
 
-  1. The term “person” that appears here and in the other definitions of this document, includes legal entities such as a corporation, a partnership or an association. ↑
+1. 在本文件及其他定义中出现的“人”一词，包括法人实体，如公司、合伙企业或协会。 ↑
 
-  2. See GHTF/SG1/N29 _Information Document Concerning the Definition of the Term “Medical Device”_ ↑
+2. 参见 GHTF/SG1/N29 _关于“医疗器械”术语定义的文档_ ↑
 
-  3. For additional guidance refer to IMDRF/UDI WG/N7 FINAL:2013 _Unique Device Identification (UDI) of Medical Devices_ ↑
+3. 如需更多指导，请参考 IMDRF/UDI WG/N7 FINAL:2013 _Unique Device Identification (UDI) of Medical Devices_ ↑
 
-  4. For additional guidance refer to ISO 14971:2019 _Medical Devices – Application of Risk Management to Medical Devices_ ↑
+4. 如有需要，请参考 ISO 14971:2019 _医疗器械 – 医疗器械风险管理应用_ ↑
 
-  5. For additional guidance refer to IEC 62366-1:2015 _Medical Devices – Part 1: Application of the Usability Engineering Process to Medical Devices_ ↑
+5. 如有需要，请参考 IEC 62366-1:2015 _医疗器械 – 第 1 部分：将可用性工程过程应用于医疗器械_ ↑
 
-  6. For additional guidance refer to ISO 639-1:2002 ↑
+6. 如有需要，请参考 ISO 639-1:2002 ↑
 
-  7. Such as those found in ISO 15223-1:2021 _Medical devices -- Symbols to be used with medical device labels, labeling and information to be supplied -- Part 1: General requirements (ISO 7000, IEC 60417)_ ↑
+7. 例如，参考 ISO 15223-1:2021 _医疗器械 – 医疗器械标签、标签和所需信息 – 第 1 部分：通用要求 (ISO 7000, IEC 60417)_ ↑
 
-  8. For additional guidance refer to IMDRF/UDI WG/N7 FINAL:2013 _Unique Device Identification (UDI) of Medical Devices_ ↑
+8. 如有需要，请参考 IMDRF/UDI WG/N7 FINAL:2013 _医疗器械的唯一标识 (UDI)_ ↑
 
-  9. For additional guidance see ISO 3864-1:2011 _Graphical Symbols. Safety Colours and Safety Signs. Part 1: Design Principles for Safety Signs and Safety Markings_ ↑
+9. 如有需要，请参考 ISO 3864-1:2011 _图形符号。安全颜色和安全标志。第 1 部分：安全标志和安全标记的设计原则_
 
 
 <!-- fulltext-end -->

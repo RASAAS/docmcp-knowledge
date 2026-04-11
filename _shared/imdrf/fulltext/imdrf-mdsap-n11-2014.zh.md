@@ -1,0 +1,630 @@
+# MDSAP 评估和决策流程：审计机构的认可
+
+**Document Number**: IMDRF/MDSAP WG/N11FINAL:2014
+
+**Source**: [https://www.imdrf.org/documents/mdsap-assessment-and-decision-process-recognition-auditing-organization](https://www.imdrf.org/documents/mdsap-assessment-and-decision-process-recognition-auditing-organization)
+
+---
+
+**IMDRF/MDSAP WG/N11FINAL:2021 (第2版)**
+
+![](data:image/jpeg;base64,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kW2LMj2ReR4STxO83dfghF4fKlTJ3o7eSsNZWicH1aDffe53hJI1u/Pyb4dTz6ZDtVTXppamExdizZYCHSzjuoI3eAe7rv6Ab/BVNpftLtZEup5+IQw8LnNdSDawmO/zH7e9tz+96+IKnUOTzOTgbXxOGux0+jWQt9ii29ZXjvD/AMrAgy3V7VK252QypsZeZoDosdDvLt14Wl2/ds+rfruVj2X4jF2G/LUjHW3/AMni6nFZsyeXG7m4/D3W/FZ1LSGVmhMd7KMx1Zx3dUw7THxflzO3e76NlIsRp7FYKIsxtGKAu+e8Dd7z5uceZ+koNCyvqXUTAybfTuK2AEMLg63I3yLvmxD0G5+CkOIwmOwdMVcdWZDHvu4jm5583OPNx9StgiIIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAvOaCGxGY54mSxu5Fr2hwP0FeiIIlk+zLRuWLnT4KtHIfv64MJ/8Ax2UUv9gWnptzRyORqHyc5srf0gH9KthEFD2/sfLrT/qeoYHjymrFv6iVqZ+wfVUQ+5XMXN8JHt/W1dHIi1zK/sS1o3faGg/8myP3hfA7Fdak7GrSHqbTV06iFc1RdhusHkB7sbGPM2CdvqatlX+x/wA68j2jM4+If+Gx7/1gLoNEKpen9j5TaQb2oLMnm2CBrP0klSfH9i2i6JDpaU91w8bM7iD9Ddh+hWCiI12OwGHxDQ3HYypV2G28MLWn6wN1sURAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQf/Z)
+
+**最终文档**
+
+**标题：** MDSAP 评估和决策流程：审计机构的认可
+
+**编写组：** IMDRF MDSAP 工作组
+
+**日期：** 2021年9月16日
+
+Oh-Sang Kwon，IMDRF 负责人
+
+本文件由国际医疗器械监管论坛制作。对本文件的复制或使用没有限制；然而，将本文件（部分或全部）纳入其他文件，或将其翻译成其他语言，并不代表国际医疗器械监管论坛的认可。
+
+© 2021 年国际医疗器械监管论坛 版权所有。
+
+**目录**
+
+1.0 范围 5
+
+2.0 参考文献 5
+
+3.0 定义 5
+
+4.0 概述 6
+
+4.1 MDSAP 评估周期 6
+
+4.2 MDSAP 评估项目 6
+
+5.0 MDSAP 评估标准和概述 7
+
+5.1 MDSAP 评估标准 7
+
+5.2 MDSAP 评估概述 8
+
+6.0 MDSAP 评估成果 9
+
+6.1 在评估期间沟通不符合情况 9
+
+6.2 不符合情况报告 9
+
+6.3 评估不符合情况的等级 9
+
+6.4 最终的不符合情况清单 9
+
+6.5 纠正措施计划 9
+
+6.6 纠正措施计划的审查 9
+
+6.7 推荐关闭不符合情况 9
+
+6.8 评估报告 9
+
+7.0 技术审查 9
+
+8.0 验证纠正措施和纠正措施的有效性 9
+
+9.0 审查和决策流程 9
+
+9.1 审查和决策流程的输入 9
+
+9.2 审查和决策流程的决策标准和结果 9
+
+10.0 审查和决策流程后的沟通 9
+
+10.1 通知 9
+
+10.2 停止认可的通知 9
+
+11.0 申诉流程 9
+
+12.0 认可决定的发布 9
+
+**前言**
+
+本文件由国际医疗器械监管论坛（IMDRF）制作，这是一个由来自世界各地的医疗器械监管者组成的自愿团体。
+
+本文件不受任何限制，可以复制、分发或使用；但是，将本文件（或其任何部分）包含在其他文件中，或将其翻译成其他语言，并不代表国际医疗器械监管论坛的任何形式认可。
+
+**引言**
+
+本文件是国际医疗器械监管论坛（IMDRF）制作的一系列文件中，旨在实施医疗器械单一审计计划（MDSAP）的概念。
+
+两份文件，即 IMDRF MDSAP WG N3 – “医疗器械审计机构的认可要求” 和 IMDRF MDSAP WG N4 – “审计机构的资质和培训要求”，是互补文件。这两份文件 N3 和 N4 侧重于审计机构及其在相关医疗器械立法、法规和程序要求的监管辖区内执行的监管审计和其他相关职能的个人，所需要的要求。
+
+本文件，IMDRF MDSAP WG N11 的目的是解释评估过程和结果，包括如何“评估和管理”由认可的监管机构（或机构）对审计机构进行的非符合情况，以及记录认可审计机构或停止认可的决策过程。为了防止制造商由审计机构内部的审计员进行的审计与由医疗器械监管机构评估员进行的审计机构审计之间的混淆，在本文件中，后者的评估被指定为“评估”。
+
+这份IMDRF MDSAP文档集合将提供基本构建模块，通过提供一套通用的要求，供监管机构用于识别和监控执行监管审计和其他相关职能的实体。需要注意的是，在某些司法管辖区，识别过程被称为指定、通知、注册或认证。
+
+IMDRF开发MDSAP，旨在鼓励和支持全球监管体系的整合，在可行的情况下。它旨在在监管机构保障其公民健康以及避免对审计机构或受监管行业造成不必要的负担的责任之间取得平衡。IMDRF的监管机构可以在其法律要求的情况下，在此文档之外添加额外的要求。
+
+# 范围
+
+本文件定义：
+
+* 识别、维护或撤销对审计机构的认可的流程和生命周期。
+
+* 管理、评级和关闭审计机构发布的评估不符合情况的过程；以及，
+
+* 审计机构的初始、监督或重新认可评估过程的结果。
+
+# 参考文献
+
+* IMDRF/MDSAP WG/N3 – 监管机构对审计机构的认可要求
+
+* IMDRF/MDSAP WG/N4 – 审计机构的资质和培训要求
+
+* IMDRF/MDSAP WG/N6 – 监管机构评估员的资质和培训要求
+
+* MDSAP AS P0034 – 针对MDSAP审计机构的评估方法，监管机构评估员的指导
+
+注意：在引用上述文档时，应查阅最新版本。
+
+# 定义
+
+**评估：** 一种系统、独立且有记录的过程，用于获取评估证据并客观地评估，以确定评估标准是否得到满足。
+
+**评估员：** 监管机构的员工，具备进行审计机构评估所需的个人素质和能力。
+
+**审计机构：** 对医疗器械制造商进行质量管理体系和其他医疗器械法规要求的审计的组织。 审计机构可以是独立的组织或监管机构，进行监管审计。
+
+**不符合：** 未满足要求。 (ISO 9000:2015)
+
+**监管机构：** 任何政府机构或其他实体，在其管辖范围内，拥有控制医疗器械使用或销售的法律权利，并且可以采取执法行动，以确保在管辖范围内销售的医疗产品符合法律要求。 (GHTF/SG1/N78:2012)
+
+# 概述
+
+## MDSAP 评估周期
+
+如 MDSAP AS P0034 所示，对于进行医疗器械领域评估的审核机构，MDSAP 评估计划应遵循 3 或 4 年的周期。 4 年周期的示例见图 1。
+
+图 1 - 4 年评估周期
+
+评估周期包括初始评估、年度监督评估和重新认可评估。
+
+## MDSAP 评估计划
+
+图 2 标识了 MDSAP 评估计划中各个方面的不同评估活动，如 MDSAP AS P0034 所示。
+
+图 2 - 评估计划与评估活动在评估周期中
+
+需要注意的是，如 MDSAP AS P0034 描述的，额外的现场或远程特别评估也可能需要进行。
+
+审核机构可以在评估周期内随时提交书面请求，以延长或缩短认可范围。 在认可周期结束前，审核机构可能需要根据认可机构的要求，提交新的重新认可申请。 任何所需的认可范围变更均可包含在重新认可申请中。
+
+# MDSAP 评估标准和概述
+
+## MDSAP 评估标准
+
+认可的监管机构将根据评估活动，对审核机构进行评估，以符合评估标准。 MDSAP 的评估标准如下：
+
+* IMDRF/MDSAP WG/N3 – “医疗器械审核机构的监管机构认可要求” (注意：ISO/IEC 17021-1:2015 作为规范性参考，除非在 N3 中列出的两个例外（第 5.1 条和第 9.1 条）中；
+
+* IMDRF/MDSAP WG/N4 – “审核机构的资质和培训要求”；以及，
+
+* 认可监管机构发布的特定额外监管要求。
+
+指导和最佳实践文件不应被视为评估标准，除非这些标准已明确包含在认可监管机构的特定监管要求中。 具体的监管要求可能包括以下内容：
+
+* 审核流程或技术；
+
+* 审核持续时间计算；
+
+* 产品技术文档的审核和抽样；
+
+* 审核计划，包括要审核的地点确定；
+
+* 审核报告要求；或，
+
+* 认证文件要求。
+
+如 IMDRF/MDSAP WG/N3 所述，国际认可论坛 (IAF) 确定的标准对 IMDRF MDSAP 评估计划或认可过程没有特别相关性，除非这些要求已明确包含在 IMDRF MDSAP 文档或认可监管机构的特定监管要求中。
+
+## MDSAP 评估概述
+
+图 3 提供了一个审核机构的申请、评估计划/活动以及与认可决策相关的流程的总体概述，包括上诉程序。
+
+| 监管机构必须确保，如本文件中进一步所述，自我审查的风险得到最小化。（参见 7.0 和 9.1）
+
+**图 3 - 审计组织评估和认可相关流程概述**[1]
+
+# MDSAP 评估交付成果
+
+## 审核期间沟通不符合情况
+
+监管机构对审计组织的评估可能包括识别违反评估标准的违规情况。
+
+针对特定监管要求识别的违规情况，可以根据第 6.1.1 条（当前的审计实践和对医疗器械技术的了解）、第 8.2.1 条（审计报告和认证文件）或其他 IMDRF MDSAP WG N3 相关条款提出。
+
+审计组织应被邀请在对总部和关键地点（或在目击审计后）进行的现场评估期间，与评估团队进行日常总结会议，讨论潜在的违规情况。就违规情况的评论，审计组织可以表示对任何违规情况的同意，可以对违规情况的全部或部分提出异议，或提供关于违规情况的范围或重要性的附加说明。
+
+## 不符合情况报告
+
+为了利用本文件中描述的评估违规情况分级系统来表征审计组织的违规情况，必须使用清晰、准确的语言来报告违规情况。违规情况必须使读者能够理解在评估过程中检测到的实际不符合情况。
+
+每个不符合情况声明应：
+
+1. 确定未满足或未能充分满足的具体要求。 声明必须：
+
+* 从评估标准中记录要求的来源；或，
+
+* 如果多个来自评估标准文档的要求相关，则至少记录评估标准文档中最相关的条款。（如果可能，还可以包含来自其他评估标准文档的相关条款。）
+
+1. 明确说明特定要求未被满足的方式。 声明应：
+
+* 简洁明了；
+
+* 使用未满足的评估标准用语；以及，
+
+* 具有自解释性，与问题相关，而不是仅仅是对审计证据的重述，或作为审计证据的替代。
+
+1. 需有客观证据支持。 声明应：
+
+* 确定证据的范围（例如，记录的数量）以及 - 确定具体发现了什么或未发现什么，并提供示例。
+
+* 确定证据的来源（例如，在记录、程序、访谈或视觉观察中）
+
+针对特定监管要求识别的违规情况，可以根据第 6.1.1 条（当前的审计实践和对医疗器械技术的了解）、第 8.2.1 条（审计报告和认证文件）或其他 IMDRF MDSAP WG N3 相关条款提出。
+
+如果对任何单一要求存在多个不符合的情况，则应将它们合并为单个不符合性，除非这些情况源于或与该条款的不同方面相关。
+
+一个评估标准文档中的条款可能包含多个不同的要求。 在一个条款中，如果未能满足多个不同的要求，则可以记录为单独的不符合。
+
+当审计组织在内部审计等之前，已经识别出不符合的情况时，在监管机构的评估之前，评估人员应避免记录单独的不符合，如果：
+
+* 已经由审计组织记录的不符合情况；
+
+* 包含必要的纠正和纠正措施的整改计划是适当的；
+
+* 遵守并与不符合情况的严重程度以及计划的整改措施的性质相符，规定的实施计划的时间表得到尊重；以及，
+
+* 审计机构有流程来评估已实施的纠正措施的有效性。
+
+评估人员应在报告中记录相关信息，以便将来验证实施和有效性。
+
+如果在后续评估中发现上述已列出的纠正措施未实施或无效，则应将对无效纠正措施的报告作为不符合性。
+
+## 评估不符合情况
+
+不符合情况的等级可供认可的监管机构用于以下两个目的：
+
+* 识别监管机构（或机构）可能采取的行动，以评估审计机构的认可状态。请参阅第 9.0 条，了解如何使用不符合性等级来支持评估结果的分类；以及，
+
+* 协助确定需要优先处理的不符合性顺序。
+
+不符合性应被评为四个等级之一。等级 1 是最低等级，等级 4 是最高等级。
+
+如果出现等级 1、2 或 3 的不符合性再次出现，则等级应提高一级。再次出现是指在同一评估活动（参见图 2）内，在同一子条款或特定监管要求下，在两次评估活动中发现了不符合性（参见图 1）。
+
+评估不符合情况的指导原则如下：
+
+* 所有针对 ISO/IEC 17021:2015 的不符合性，至少应评为等级 1；
+
+* 所有针对 IMDRF N3 和 N4 的不符合性，至少应评为等级 2。（N3 和 N4 包含监管要求）；
+
+* 如果评估人员认为满足以下等级规则，则可以将任何最低等级提高到等级 2、3 或 4；
+
+* 如果出现等级 1、2 或 3 的不符合性再次出现，则等级应提高一级；
+
+如果评估人员根据上述指导原则降低了分配的等级，则评估人员必须在评估报告中记录理由。附录 1 中的表格是示例，用于指导评估人员如何根据本文件中描述的方案对评估不符合性问题进行评分。
+
+### 等级 1
+
+一个等级 1 的不符合性问题：
+
+* 一种不符合，**不太可能**直接影响审计机构日常运营有效、合乎道德、公正且具备能力的组织，该组织能够产生可接受的审计结论、审计报告和认证文件。
+
+### 等级 2
+
+一个等级 2 的不符合性问题：
+
+* 一种不符合，**可能**直接影响审计机构日常运营有效、合乎道德、公正且具备能力的组织，该组织能够产生可接受的审计结论、审计报告和认证文件；并且**不太可能**允许制造商的质量管理体系或其实施中存在缺陷，从而直接影响医疗器械的安全性与性能。
+
+* 一次性出现一级不符合情况。
+
+### 等级 3
+
+一级不符合情况：
+
+* 一种不符合，**可能**直接影响审计机构日常运营有效、合乎道德、公正且具备能力的组织，该组织能够产生可接受的审计结论、审计报告和认证文件；并且**可能**允许制造商的质量管理体系或其实施中存在缺陷，从而直接影响医疗器械的安全性与性能。
+
+* 当审计机构超出既定范围进行运营时。
+
+* 一次性出现二级不符合情况。
+
+### 等级 4
+
+一级 4 不符合情况：
+
+* 涉及潜在欺诈、虚假陈述或伪造符合性证据的证据，符合 IMDRF/MDSAP WG/N3 第 5.1 条。
+
+* 一次性出现级 3 不符合情况。
+
+## 最终不符合情况清单
+
+在任何评估活动结束后，认可的监管机构将向审计机构发出一份最终的非符合性清单，该清单已根据 6.3 中描述的评分系统进行评分。
+
+审计机构可以对通过认可的监管机构投诉或申诉流程发出的不符合性要求其有效性。必须提供投诉或申诉的理由，并提供相关证据。在此期间，不符合性要求必须在整改计划中得到解决。
+
+## 整改计划
+
+审计机构应以提供经过记录的整改计划为响应，该计划应包括：
+
+*  对不符合性要求（如有）的调查和原因分析；
+
+*  适当的纠正计划；以及，
+
+*  包含系统性纠正措施和有效性验证计划的纠正措施计划，如适用。
+
+经过记录的整改计划应在不符合性要求发出后的第 15 个工作日内提交。应优先处理评分为 3 或 4 的任何不符合性要求。在要求时，认可的监管机构可以为对评分为 1 或 2 的不符合性要求作出响应提供额外的延时。
+
+审计机构应随后向认可的监管机构提供关于对评分为 3 或 4 的任何不符合性要求的纠正和纠正措施的实施证据，具体时间由认可的监管机构根据整改计划的审查结果确定。对评分为 1 或 2 的不符合性要求将在后续评估中进行跟进。
+
+## 整改计划审查
+
+认可的监管机构的评估团队应审查审计机构的整改计划，并确定其是否在以下方面是可接受：不符合性的原因、已识别的措施以及实施这些措施的时间表。此审查应进行记录。
+
+如果认定必要，认可的监管机构（或机构）可能会要求修改提交的整改计划中规定的时间限制，以提供其实施和有效性的证据。
+
+## 推荐关闭不符合性
+
+认可的监管机构的评估团队仅在满足以下标准时，才应推荐关闭不符合性：
+
+* 对于所有不符合项，整改计划（包括调查和原因分析）被认为是可接受的；并且，
+
+* 对于评级为3或4的不符合项，认可的监管机构已验证行动已按照计划实施。
+
+可以执行以下方式来验证可接受的纠正计划实施：
+
+* 通过评估团队的文档审查；或，
+
+根据评估团队在特别现场评估、特别远程评估、见证审计或下一次现场评估期间的建议进行后续评估。 建议关闭不符合项意味着评估团队已确认，关于不符合项的整改信息足以进行技术审查。 这并不妨碍认可的监管机构重新评估该问题，并在收集或观察到的额外信息的基础上，对该问题发出新的不符合项。
+
+## 评估报告
+
+每次评估活动都应产生评估报告。评估活动的类型将决定评估报告的格式。评估报告可能由多个文件组成。
+
+评估报告应至少包含以下信息：
+
+* 评估计划，包括评估团队的识别、评估日期以及审计机构的必要信息；
+
+* 评估的类型、范围和目标；
+
+* 要求的或批准的认可范围；
+
+* 评估标准的识别；
+
+* 评估的每个流程的描述或摘要；
+
+* 任何不符合项、其等级以及在评估期间采取的任何纠正或纠正措施；
+
+* 任何整改的评估结果；以及，
+
+* 评估结论和推荐结果。
+
+评估团队将向技术审查流程建议：
+
+* 关闭不符合项；
+
+* 继续跟进不符合项；
+
+* 限制认可的范围；或，
+
+* 由于审计机构无法充分整改不符合项而拒绝认可或停止认可。
+
+# 技术审查
+
+技术审查过程包括收集评估活动的结果、验证个体评估活动的完成情况，以及生成一份书面建议，供审查和决策使用（参见第 5.2 条）。
+
+技术审查过程必须由一个独立的个人，或由一个独立的个人领导的委员会/小组进行，该委员会/小组与评估团队分开。评估团队可以参与该委员会/小组。
+
+技术审查应包括：
+
+* 验证任何书面不符合要求符合第 6.2 条的要求；
+
+* 验证不符合等级的评估符合第 6.3 条的要求；
+
+* 验证针对等级为 1 或 2 的不符合要求的纠正措施符合第 6.5 和 6.6 条的要求；
+
+* 验证针对等级为 3 和 4 的不符合要求的纠正措施（其中等级为 4 的不符合是由于反复发生）的实施情况，并确保其符合第 6.5 和 6.6 条的要求；
+
+* 任何建议，如果存在证据表明存在可能发生的欺诈、虚假陈述或伪造证据，导致等级为 4 的不符合；
+
+* 验证和评估评估报告；
+
+* 如果适用，审计组织就特定不符合情况的任何投诉或申诉的结果；以及，
+
+* 就任何不符合情况的关闭，以及可能包括特殊远程评估或特殊现场评估的任何适当后续措施的决定。
+
+认可的监管机构应告知审计组织任何必要的后续行动。
+
+# 验证纠正措施和纠正措施的有效性
+
+评估团队应验证已采取的任何纠正和纠正措施的有效性。根据技术审查期间的决定，可以对已采取的任何纠正和纠正措施的有效性进行验证，例如：
+
+* 评估团队进行的文件审查；或
+
+* 特殊现场评估、特殊远程评估、额外的见证审计，或下一项现场评估的一部分。
+
+# 审查和决策流程
+
+## 审查和决策流程的输入
+
+技术审查的结果作为输入，提供给负责审查和决定审计机构状态的个人或委员会。
+
+审查和决策流程必须由独立的人员，或由独立的人员领导的委员会/委员会进行，并且与评估活动无关。审查和决策流程可以由与技术审查流程相同的个人或委员会，或由独立的委员会/委员会进行。
+
+认可的监管机构应启动审查和决策流程，适用于以下情况：
+
+* **初始认可、重新认可或范围扩大**：所有计划的评估活动已完成，并且技术审查已接受审计机构的所有纠正计划和活动；
+
+* **范围限制**：评估活动的结果包含信息，表明已认可的审计机构不再符合其完整认可范围的最低预期合规水平；或者，已认可的审计机构已要求减少其认可范围；
+
+* **安全问题**：评估活动的结果包含有关公共健康威胁的信息；
+
+* **技术审查确认的欺诈/虚假陈述/伪造证据：** 评估活动的结果包括证据表明存在欺诈、虚假陈述或伪造证据[2]，或者存在证据表明该法律实体因违反与医疗器械相关的国家法律或法规，或因任何欺诈或不诚实行为而受到处罚[3]。
+
+在潜在的取消认可的情况下，技术审查过程应立即向负责审查和决策的个人或委员会提交建议。
+
+## 审查和决策过程的决策标准和结果
+
+监管机构应使用以下标准来决定审计机构的认可状态。 决策包括：
+
+* 初始认可，包括范围
+
+* 维持认可
+
+* 范围的扩展或限制
+
+* 重新认可，范围保持不变、限制或扩展
+
+* 停止认可
+
+* 不予认可
+
+认可决定可能包括由认可监管机构制定的附加条件。 如果有附加条件，则认可的维持取决于审计机构满足条件中规定的所有要求。
+
+**根据初步评估活动的结果（见图 2）**
+
+**认可 -** 当申请人获得指定范围的认可时：
+
+技术审查过程发现任何不符合（所有初始评估活动都已完成（见 6.7）），包括第 1、2、3 等级。
+
+申请人将在评估周期内被认可为审计机构，并且可以：
+
+* 开展符合申请范围的全部审计活动；或，
+
+* 开展符合申请范围的有限审计活动。
+
+审核机构可以随时更改其认可申请的范围（扩大或缩小）。 认可的监管机构可以在经过相关评估活动后，对新的范围进行评估，并解决任何不符合（等级 1、2 或 3）问题（参见 6.7），从而授予新的范围的认可。
+
+**拒绝认可 -** 当以下情况发生时，申请人将被拒绝认可：
+
+* 评估团队在因审核机构无法充分满足监管要求而导致，在完成初始评估活动之前终止了申请流程；
+
+* 技术审查发现补救计划（或计划）不充分，无法解决（参见 6.7）任何不符合（等级 1、2、3 或 4）问题，这些问题是在评估团队与审核机构之间进行了交换后，评估过程的结论。；或，
+
+* 存在欺诈、虚假陈述或伪造证据（等级 4）的证据。
+
+申请人不得被认可为审核机构，并且不得在认可计划下进行审计。 如果申请人需要重新考虑，则需要由同一审核机构提交新的申请。 在获得书面证明后，认可的监管机构可以指定一个时间范围，在此范围内，重新申请将不被接受。
+
+### 随附的监督评估后的决定（参见图 2）
+
+**认可的维持** - 当技术审查发现，所有监测评估活动中，任何不符合（等级 1、2、3 或因反复而产生的等级 4）问题已得到解决（参见 6.7），审核机构的认可得以维持。
+
+获得认可的审核机构可以继续在申请范围内进行所有审计活动。
+
+认可的监管机构（或机构）可以修改或增加现有的认可决定中的任何条件。
+
+**扩大认可范围 -** 审核机构已申请扩大认可范围，并已进行相关评估活动，以便评估新的范围。技术审查过程发现，所有相关的评估活动中，任何不符合（等级 1、2 或 3）的情况均已得到解决（见 6.7）。如果审查和决策过程批准修改后的范围，则初始或重新认可的决定日期不会改变。
+
+**限制范围 -** 认可的监管机构可以决定限制认可范围的特定部分，即：
+
+* 响应审核机构的请求；或
+
+* 在评估过程结束后，作为停止认可的替代方案，当技术审查过程得出结论，审核机构无法再满足与这些特定元素相关的认可要求时。
+
+**停止认可：** 认可的撤销条件为：
+
+* 审核机构无法满足认可要求；或
+
+* 存在欺诈、虚假陈述或伪造证据（等级 4）的证据。
+
+当审核机构在评估过程结束后，技术审查过程得出结论时，审核机构不再满足认可要求：
+
+* 针对任何重复的不符合（等级 3 或 4）的纠正计划不充分；或
+
+* 对首次不符合（等级 2 或 3）的纠正措施无效，且审核机构无法或不愿制定和实施有效的纠正措施。
+
+决定更改审计机构的认可状态，可能会影响更多因该审计机构进行审计的制造商。在这种情况下，认可机构可能需要考虑个人或集体过渡安排，以确保已存在或潜在的公共健康风险得到缓解。
+
+### 重新认可评估后的决定（参见图 2）
+
+**重新认可 -** 认可状态仍然有效，并在下一次认可周期内进行续期。当技术审查过程发现所有重新认可评估活动中，均已解决（见 6.7）任何不符合（包括 1、2、3 等级或因反复出现而产生的 4 等级）的情况时，审计机构的认可状态将被续期。
+
+获得认可的审核机构可以继续在申请范围内进行所有审计活动。
+
+**扩大认可范围 -** 审核机构已申请扩大认可范围，并已进行相关评估活动，以便评估新的范围。技术审查过程发现，所有相关的评估活动中，任何不符合（等级 1、2 或 3）的情况均已得到解决（见 6.7）。如果审查和决策过程批准修改后的范围，则初始或重新认可的决定日期不会改变。
+
+**限制范围 -** 认可的监管机构可以决定限制认可范围的特定部分，即：
+
+* 响应审核机构的请求；或
+
+* 在评估过程结束后，作为停止认可的替代方案，当技术审查过程得出结论，审核机构无法再满足与这些特定元素相关的认可要求时。
+
+**停止认可：** 认可的撤销条件为：
+
+* 审核机构无法满足认可要求；或
+
+* 存在欺诈、虚假陈述或伪造证据（等级 4）的证据。
+
+当审核机构在评估过程结束后，技术审查过程得出结论时，审核机构不再满足认可要求：
+
+* 针对任何重复的不符合（等级 3 或 4）的纠正计划不充分；或
+
+* 对首次不符合（等级 2 或 3）的纠正措施无效，且审核机构无法或不愿制定和实施有效的纠正措施。
+
+决定更改审计机构的认可状态，可能会影响更多因该审计机构进行审计的制造商。在这种情况下，认可机构可能需要考虑个人或集体过渡安排，以确保已存在或潜在的公共健康风险得到缓解。
+
+### 评估后的决定
+
+根据特殊远程评估或现场评估的范围和目标，决定采取何种措施以及决定类型取决于评估本身。
+
+# 评估后及决策过程中的沟通
+
+## 通知
+
+认可的监管机构应通知审计机构关于其认可状态的决定。如果决定不利，认可的监管机构必须在通知中包含决定的理由。审计机构可以通过上诉程序对决定提出上诉。
+
+## 停止认可的通知
+
+当之前获得认可的审计机构不再满足认可要求时，关于决定的通知将提供取消认可的详细信息，包括在没有上诉的情况下，该决定何时生效，以及概述上诉程序。一旦收到取消认可的通知，审计机构不得：
+
+* 接受任何新的申请，包括来自其他审计机构的制造商的转移；
+
+* 对任何已接受申请的制造商进行首次审计；或
+
+* 扩大制造商的认证范围。
+
+在涉及公共卫生问题的情况下，上诉程序可能会调整为非常短的时间框架，以与风险相符。一些认可的监管机构可能会在这些情况下采取其他紧急措施。这些措施将在停止认可的通知中详细说明。
+
+停止认可的生效时间为：
+
+* 在没有上诉的情况下，在通知中指定的时间，或
+
+* 在上诉程序确认取消认可的决定后立即。
+
+当取消认可的决定生效时，审计机构不得进行任何审计。
+
+在确认取消认可的决定后，审计机构有义务如果希望重新获得认可，则提交新的申请。
+
+# 上诉程序
+
+审核机构可以就决定在认可的监管机构规定的时间内提出上诉。
+
+认可的监管机构应建立程序，以接收和处理由审核机构提交的上诉。这些程序应考虑其管辖范围内适用于上诉的任何政策、一般法律要求或实践。
+
+上诉程序应规定，在收到上诉后，认可的监管机构至少应：
+
+* 确认收到上诉；
+
+* 审查决定；
+
+* 决定上诉的有效性；
+
+* 告知审核机构认可的监管机构的最终决定；
+
+* 在需要时采取后续行动；以及
+
+* 维护所有上诉、最终决定和后续行动的记录。
+
+# 认可决定公布
+
+认可的监管机构应公开披露审核机构的当前认可状态以及状态的变化。这些信息应定期更新。对于每个认可的审核机构，信息应包括：
+
+* 审核机构的名称和地址；
+
+* 认可范围。
+
+如果认可的监管机构决定停止认可审核机构，状态变更应仅在停止认可生效后发布。
+
+#
+
+**附录 1** – IMDRF MDSAP WG 文档 N3 和 N4 的条款以及 ISO/IEC 17021-1:2015 的不符合等级的示例。
+
+此表格仅供参考，具体情况和客观证据将根据本文件中的程序和标准来确定等级。
+
+表格列出了来自 IMDRF MDSAP WG 文档 N3 和 N4 以及标准 ISO/IEC 17021-1:2015 的条款。 表格中的条目是简短的陈述，旨在捕捉这些特定条款的总体意图。 用户在使用此表格时，应参考这三个基础文档的完整文本。
+
+This is a comprehensive and well-structured list of requirements, likely for an accreditation or certification body. Here's a breakdown of its strengths and potential areas for improvement:
+
+**Strengths:**
+
+*   **Comprehensive Coverage:** The list covers a wide range of essential aspects, including:
+    *   **Management System:**  ISO 9001 compliance (or a general management system), document control, record control, management review, internal audits, corrective actions.
+    *   **Audit Process:** Planning, execution, reporting, and follow-up of audits.
+    *   **Competence:**  Ensuring the competence of auditors and other personnel.
+    *   **Traceability and Record Keeping:**  Maintaining accurate and complete records.
+    *   **Appeals and Complaints:**  Establishing clear procedures for handling appeals and complaints.
+    *   **Client Records:**  Maintaining records of all clients and their certification activities.
+    *   **Regulatory Compliance:**  Meeting the requirements of relevant regulations (e.g., ISO 17021-1:2015).
+    *   **Continuous Improvement:**  Monitoring and analyzing audit program performance.
+*   **Clarity and Organization:** The use of headings, subheadings, and numbered lists makes the information easy to understand and navigate.
+*   **Specific Requirements:**  Many of the requirements are stated in a clear and specific manner, leaving little room for ambiguity.
+*   **Reference to Standards:**  The inclusion of references to standards like ISO 9001 and ISO 17021-1:2015 provides a solid foundation for the certification body.
+*   **IMDRF Alignment:** The inclusion of "(IMDRF-N3)" indicates that these requirements are aligned with the International Medical Device Regulatory Forum (IMDRF) standards, which is crucial for global compliance.
+
+**Potential Areas for Improvement:**
+
+*   **Specificity of ISO 9001:** While referencing ISO 9001 is good, consider adding more specific requirements from ISO 9001 that are particularly relevant to a certification body. For example:
+    *   **Clause 5 (Leadership):**  Requirements for demonstrating leadership and commitment to quality.
+    *   **Clause 6 (Planning):**  Requirements for planning and determining appropriate courses of action.
+    *   **Clause 8 (Support):**  Requirements for providing resources,
+
+1. *** 决策可以是以下几种：** 首次认可并确定范围；维持认可；扩大或缩小范围；重新认可并保持、缩小或扩大范围；停止认可；或，不予认可。 ↑
+
+2. 这样的证据也可能需要提交给法律部门进行验证，以及/或采取潜在的进一步法律行动。 ↑
+
+3. 参见 IMDRF/MDSAP WG/N3 – 第 5.1 条 ↑

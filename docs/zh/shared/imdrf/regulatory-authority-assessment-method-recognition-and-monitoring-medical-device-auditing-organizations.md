@@ -10,13 +10,17 @@ title: Regulatory Authority Assessment Method for the Recognition and Monitoring
 [https://www.imdrf.org/documents/regulatory-authority-assessment-method-recognition-and-monitoring-medical-device-auditing-organizations](https://www.imdrf.org/documents/regulatory-authority-assessment-method-recognition-and-monitoring-medical-device-auditing-organizations)
 :::
 
+::: info
+This content has been machine-translated from the English original.
+:::
+
 <!-- fulltext-start -->
 
 ---
 
 ## 全文
 
-# Regulatory Authority Assessment Method for the Recognition and Monitoring of Medical Device Auditing Organizations
+# 医疗器械审计组织认可和监测的监管机构评估方法
 
 **Document Number**: IMDRF/MDSAP WG/N5
 
@@ -26,861 +30,971 @@ title: Regulatory Authority Assessment Method for the Recognition and Monitoring
 
 **IMDRF/MDSAP WG/N5FINAL:2013**
 
-**Final Document**
+**最终文档**
 
-**Title:** Regulatory Authority Assessment Method for the Recognition and Monitoring of Medical Device Auditing Organizations
+**标题：** 医疗器械审计组织认可和监测的监管机构评估方法
 
-**Authoring Group:** IMDRF Medical Device Single Audit Program Work Group
+**编写组：** 国际医疗器械监管论坛的医疗器械单一审计项目工作组
 
-**Date:** 9 December 2013
+**日期:** 2013年12月9日
 
-Despina Spanou, IMDRF Chair
+Despina Spanou, IMDRF 负责人
 
-This document was produced by the International Medical Device Regulators Forum. There are no restrictions on the reproduction or use of this document; however, incorporation of this document, in part or in whole, into another document, or its translation into languages other than English, does not convey or represent an endorsement of any kind by the International Medical Device Regulators Forum.
+本文件由国际医疗器械监管论坛制作。对本文件的复制或使用没有限制；然而，将本文件（部分或全部）纳入其他文件，或将其翻译成其他语言，并不代表国际医疗器械监管论坛的认可。
 
-Copyright © 2013 by the International Medical Device Regulators Forum.
+© 2013 国际医疗器械监管论坛 版权所有。
 
-**Table of Contents**
+**目录**
 
-1.0 Scope 5
+1.0 范围 5
 
-2.0 References 5
+2.0 参考文献 5
 
-3.0 Definitions 5
+3.0 定义 5
 
-4.0 Assessment Cycle and Assessment Program 6
+4.0 评估周期和评估项目 6
 
-4.1 Assessment Program Roles and Responsibilities 7
+4.1 评估项目角色和职责 7
 
-4.2 Purpose of Assessments within the Assessment Program 8
+4.2 评估项目内的评估目的 8
 
-4.3 Assessment Activities throughout the Assessment Cycle 9
+4.3 评估周期内的评估活动 9
 
-5.0 Assessment Method 13
+5.0 评估方法 13
 
-5.1 Conducting an assessment 15
+5.1 进行评估 15
 
-5.2 Navigating the Assessment 15
+5.2 评估流程 15
 
-6.0 Assessment of Auditing Organization’s Processes 15
+6.0 评估审计组织的过程 15
 
-6.1 Process: Management 15
+6.1 过程：管理 15
 
-6.2 Process: Use of External Resources 18
+6.2 过程：利用外部资源 18
 
-6.3 Process: Measurement, Analysis and Improvement 20
+6.3 过程：测量、分析和改进 20
 
-6.4 Process: Competence Management 24
+6.4 过程：能力管理 24
 
-6.5 Process: Audit and Decisions Process 26
+6.5 过程：审计和决策过程 26
 
-6.6 Process: Information Management 30
+6.6 过程：信息管理 30
 
-#### Preface
+#### 序言
 
-The document herein was produced by the International Medical Device Regulators Forum (IMDRF), a voluntary group of medical device regulators from around the world. 
+本文件由国际医疗器械监管论坛 (IMDRF) 制作，IMDRF 是一群来自世界各地的医疗器械监管机构的自愿组织。
 
-There are no restrictions on the reproduction, distribution or use of this document; however, incorporation of this document, in part or in whole, into any other document, or its translation into languages other than English, does not convey or represent an endorsement of any kind by the International Medical Device Regulators Forum.
+本文件不受任何限制，可以复制、分发或使用；但是，将本文件（或其任何部分）包含在其他文件中，或将其翻译成其他语言，并不代表国际医疗器械监管论坛的任何形式认可。
 
-**Introduction**
+**引言**
 
-This is one document in a collection of documents produced by the International Medical Device Regulators Forum (IMDRF) intended to implement the concept of a Medical Device Single Audit Program (MDSAP). Two documents, IMDRF MDSAP WG N3 – “Requirements for Medical Device Auditing Organizations for Regulatory Authority Recognition” and IMDRF MDSAP WG N4 – “Competence and Training Requirements for Auditing Organizations,” are complementary documents. These two documents N3 and N4 are focused on requirements for an Auditing Organization and individuals performing regulatory audits and other related functions under the respective medical device legislation, regulations, and procedures required in its regulatory jurisdiction.
+这是一份由国际医疗器械监管论坛（IMDRF）制定的多份文件中，旨在实施医疗器械单一审计计划（MDSAP）概念的文件。 其中的两份文件，即IMDRF MDSAP WG N3 – “医疗器械审计机构的认可要求”和IMDRF MDSAP WG N4 – “审计机构的资质和培训要求”，是互补文件。 这两份文件N3和N4，侧重于审计机构及其在相关医疗器械立法、法规和程序要求的监管辖区内，进行监管审计和其他相关职能的个人所应满足的要求。
 
-Two additional documents, this document IMDRF MDSAP WG N5 – “Regulatory Authority Assessment Method for the Recognition and Monitoring of Medical Device Auditing Organizations” and IMDRF MDSAP WG N6 - “Regulatory Authority Assessor Competence and Training Requirements,” are complementary documents. These two documents N5 and N6 are focused on how Regulatory Authorities and their assessors will evaluate or “assess” medical device Auditing Organizations’ compliance to the requirements in the IMDRF MDSAP N3 and N4 documents.
+另外两份文件，即本文件IMDRF MDSAP WG N5 – “医疗器械审计机构的认可和监测评估方法”和IMDRF MDSAP WG N6 - “监管机构评估员的资质和培训要求”，是互补文件。 这两份文件N5和N6，侧重于监管机构及其评估员如何评估或“评估”医疗器械审计机构是否符合IMDRF MDSAP N3和N4文件中规定的要求。
 
-In addition, IMDRF MDSAP WG N11 will define a method to “grade” nonconformities resulting from a Regulatory Authority assessment of an Auditing Organization and to document the decision process for recognizing an Auditing Organization or revoking recognition. 
+此外，IMDRF MDSAP WG N11 将定义一种方法，用于“评估”监管机构对审计机构的评估结果，并记录认可或撤销审计机构的决策过程。
 
-This collection of IMDRF MDSAP documents will provide the fundamental building blocks by providing a common set of requirements to be utilized by the Regulatory Authorities for the recognition and monitoring of entities that perform regulatory audits and other related functions. It should be noted that in some jurisdictions the recognition process is called designation, notification, registration, or accreditation.
+这份IMDRF MDSAP文档集合将提供基本构建模块，通过提供一套通用的要求，供监管机构用于识别和监控执行监管审计和其他相关职能的实体。需要注意的是，在某些司法管辖区，识别过程被称为指定、通知、注册或认证。
 
-IMDRF developed MDSAP to encourage and support global convergence of regulatory systems, where possible. It seeks to strike a balance between the responsibilities of Regulatory Authorities to safeguard the health of their citizens as well as their obligations to avoid placing unnecessary burdens upon Auditing Organizations or the regulated industry. IMDRF Regulatory Authorities may add additional requirements beyond this document when their legislation requires such additions.
+IMDRF开发MDSAP，旨在鼓励和支持全球监管体系的整合，在可行的情况下。它旨在在监管机构保障其公民健康以及避免对审计机构或受监管行业造成不必要的负担的责任之间取得平衡。IMDRF的监管机构可以在其法律要求的情况下，在此文档之外添加额外的要求。
 
-The purpose of this document is to describe the assessment program and assessment method implemented by Medical Device Regulatory Authorities under the framework of the IMDRF MDSAP. To prevent the confusion between audits of manufacturers performed by auditors within an Auditing Organizations and audits of Auditing Organizations performed by medical device Regulatory Authority assessors, in this document, the latter are designated as “assessments.”
+本文件的目的是描述医疗器械监管机构在IMDRF MDSAP框架下实施的评估计划和评估方法。 为了避免混淆，即由审计机构内部的审计员对制造商进行的审计与由医疗器械监管机构评估员进行的审计机构的审计，在本文件中，后者的评估被指定为“评估”。
 
-# Scope
+# 范围
 
-This document defines the content of the Regulatory Assessment Program. The Assessment Program defines how Regulatory Authorities will recognize, monitor, and re-recognize Auditing Organization under the framework of the IMDRF MDSAP.
+本文件定义了监管评估程序的范围。该评估程序定义了监管机构如何识别、监控和重新识别符合 IMDRF MDSAP 框架的审计机构。
 
-Recognition, monitoring and re-recognition is based on a process based assessment method utilizing assessment tasks related to the requirements found in IMDRF MDSAP WG N3 and N4. The assessment method defined in this document will be used to perform the different assessment activities within the Assessment Program. 
+识别、监控和重新识别基于一种基于评估的方法，该方法利用与 IMDRF MDSAP WG N3 和 N4 中规定的要求相关的评估任务。本文件中定义的评估方法将用于在评估程序中执行不同的评估活动。
 
-# References
+# 参考文献
 
-  * IMDRF MDSAP N3 - Requirements for Medical Device Auditing Organizations for Regulatory Authority Recognition
-  * IMDRF MDSAP N4 - Competence and Training Requirements for Auditing Organizations
-  * IMDRF MDSAP N6 - Regulatory Authority Assessor Competence and Training Requirements
-  * ISO/IEC 17000:2004 - Conformity assessment - Vocabulary and general principles
-  * ISO/IEC 17021:2011 - Conformity Assessment - Requirements for bodies providing audit and certification of management system.
-  * GHTF/SG1/N78:2012 - Principles of Conformity Assessment for Medical Device
-  * GHTF/SG3/N19:2012 - Quality management system - Medical devices - Nonconformity Grading System for Regulatory Purposes and Information Exchange
+* IMDRF MDSAP N3 - 监管机构认可的医疗器械审计机构的要求
 
-# Definitions
+* IMDRF MDSAP N4 - 审计机构的资质和培训要求
 
-##  _Audit_ : A systematic, independent, and documented process for obtaining records, statements of fact or other relevant information and assessing them objectively to determine the extent to which specified requirements are fulfilled. (ISO 17000:2004)
+* IMDRF MDSAP N6 - 监管机构评估人员的资质和培训要求
 
-## _Auditing Organization_ : An organization that audits a medical device manufacturer for conformity with quality management system requirements and other medical device regulatory requirements. Auditing Organizations may be an independent organization or a Regulatory Authority which perform regulatory audits.
+* ISO/IEC 17000:2004 - 适性评估 - 术语和一般原则
 
-## _Regulatory Authority_ : A government body or other entity that exercises a legal right to control the use or sale of medical devices within its jurisdiction, and that may take enforcement action to ensure that medical products marketed within its jurisdiction comply with legal requirements. (GHTF/SG1/N78:2012)
+* ISO/IEC 17021:2011 - 适性评估 - 为提供管理体系审核和认证的机构的要求
 
-# Assessment Cycle and Assessment Program
+* GHTF/SG1/N78:2012 - 医疗器械适性评估的原则
 
-This document defines a consistent Assessment Cycle and Assessment Program for Regulatory Authorities to assess Auditing Organizations for recognition and for the maintenance of recognition through monitoring activities. A key element is to ensure consistency in the Assessment Program implementation, regardless of the designated assessment team and the Auditing Organization.
+* GHTF/SG3/N19:2012 - 质量管理体系 - 医疗器械 - 监管目的和信息交换的非符合等级系统
 
-ISO 17011:2005 allows for an Assessment Program with the maximum of a 5-year cycle. For the regulated medical device sector an Auditing Organization Assessment Program should follow a 3 or 4-year cycle. Regardless of whether a 3 or 4-year cycle is chosen, the Assessment Program described in this document makes provision for additional Special Assessments, if required, to provide confidence in a recognition decision. The recognizing Regulatory Authority should assess the resources required for a 3 or 4 year cycle, considering assessor personnel, assessment management, travel budgets etc., before committing to a particular cycle length for their Assessment Program. A 4-year cycle is illustrated in Figure 1. 
+# 定义
 
-**Figure 1: 4-year Assessment Cycle**
+## _审计_：一种系统、独立、并有记录的过程，用于获取记录、事实陈述或其他相关信息，并以客观的方式评估，以确定是否满足了指定的要求。（ISO 17000:2004）
 
-The Assessment Cycle includes an Initial Assessment, annual Surveillance Assessments, and a Re-recognition Assessment. Figure 2 identifies the different assessment activities within each aspect of the Assessment Program.
+## _审计机构_：对医疗器械制造商进行质量管理体系和其他医疗器械监管要求合规性审计的组织。审计机构可以是独立的组织或监管机构，它们进行监管审计。
 
-**Figure 2: Assessment Program with Assessment Activities through the Assessment Cycle**
+## _监管机构_：是指在管辖范围内，拥有控制医疗器械使用或销售的法律权利的政府机构或其他实体，并且可以采取执法行动，以确保在管辖范围内销售的医疗产品符合法律要求。 (GHTF/SG1/N78:2012)
 
-The application of the Assessment Program may be modified as needed, for example with additional Special Assessments, to take into account information collected throughout the Assessment Cycle of a particular Auditing Organization. 
+# 评估周期和评估计划
 
-Regulatory Authority assessment planning should consider:
+本文定义了监管机构用于评估审计机构以获得认可，并通过监测活动维持认可的，一致的评估周期和评估计划。 关键在于确保评估计划的实施的一致性，无论指定评估团队和审计机构如何。
 
-  * Past performance of the Auditing organization including the previous assessment and identified nonconformities;
-  * A review of documentation for any significant changes at the Auditing Organization including those necessary to account for any changes in the recognizing regulatory program or requirements;
-  * The key procedures of the Auditing Organization; and,
-  * A selection of medical device manufacturer client files, where possible, that may be identified by the report of adverse events, compliance issues, and other regulatory signals.
+ISO 17011:2005 允许使用最多 5 年周期的评估计划。 对于受监管的医疗器械领域，一个审计机构评估计划应采用 3 或 4 年的周期。 无论选择 3 年或 4 年的周期，本文所述的评估计划都为在需要时进行额外的特别评估，以增强对认可决定的信心。 认可的监管机构应评估 3 年或 4 年周期的所需资源，包括评估人员、评估管理、差旅预算等，然后再决定其评估计划的特定周期长度。 4 年周期的示例如图 1 所示。
 
-## Assessment Program Roles and Responsibilities
+**图 1：4 年评估周期**
 
-The key roles and responsibilities in the Assessment Program are as follows:
+评估周期包括初始评估、年度监督评估和重新认可评估。 图 2 标识了评估计划的各个方面内的不同评估活动。
 
-**Assessment team** including, as necessary, an assessment team leader and assessor(s): 
+**图 2：通过评估周期进行的评估计划**
 
-  * Performs the assessment activity, according to the Assessment Program;
-  * Provides a recommendation relative to the recognition status of the Auditing Organization;
-  * Makes recommendations for changes to or adjustments to the application of the Assessment Program for specific Auditing Organizations, as necessary;
-  * Makes recommendations for critical location assessments and witnessed audits; and,
-  * Reviews and approves the Auditing Organization’s response to assessment findings.
+根据需要，可以对评估计划进行修改，例如，通过额外的特别评估，以考虑到特定审计机构在评估周期中收集的信息。
 
-**Assessment Program Manager:**
+监管机构的评估计划应考虑：
 
-  * Interfaces with the Auditing Organization to collect the application and associated information, communicate outcome of assessment activities;
-  * Drafts, maintains and updates an Assessment Program for each Auditing Organization;
-  * Ensures the assessment activities are planned and implemented according to the Assessment Program;
-  * Assigns the assessment team members, specifies their role, and provides them with necessary information for the assessment activity; and, 
-  * Reviews assessment outcomes, performs quality checks of the assessment activities, and prepares a final assessment outcome recommendation.
+* 审计机构的过往表现，包括之前的评估和已识别的违规情况；
 
-Note: if the recognizing Regulatory Authority chooses to have more than one Assessment Program Manager, an Assessment Program Manager may not act as an assessor for an Auditing Organization for which he/she manages the Assessment Program, in order to remain independent from the outcome of the assessment activities.
+* 审查审计机构的任何重大变更，包括为了应对任何监管程序或要求变更而需要进行的变更；
 
-**Recognizing function within the Regulatory Authority:**
+* 审计机构的关键程序；以及，
 
-  * Approves application of the Assessment Program to an Auditing Organization; and,
-  * Makes recognition decisions.
+* 尽可能选择的医疗器械制造商客户文件，这些文件可能由不良事件报告、合规问题和其他监管信号识别。
 
-## Purpose of Assessments within the Assessment Program
+## 评估计划的角色和职责
 
-The purpose of the Initial Assessment includes the following:
+评估计划中的主要角色和职责如下：
 
-  * Define an individual Assessment Program plan for the particular Auditing Organization; and,
-  * Assessment of the compliance of the particular Auditing Organization’s management system to all regulatory requirements including IMDRF MDSAP WG N3 and N4 documents, in order to enable the recognizing Regulatory Authority to make a decision on whether to recognize the Auditing Organization.
+**评估团队**，包括必要时，评估团队负责人和评估员：
 
-The purpose of the Surveillance Assessment includes maintaining confidence that the Auditing Organization continues to fulfill the regulatory requirements including IMDRF MDSAP WG N3 and N4 documents between re-recognition assessments.
+* 按照评估计划进行评估活动；
 
-The purpose of the Re-recognition Assessment includes the assessment of the continued compliance of the Auditing Organization’s management system to satisfy all regulatory requirements including IMDRF MDSAP WG N3 and N4 documents, in order to enable the recognizing Regulatory Authority to make a decision on whether to renew the recognition of the Auditing Organization.
+* 就审计机构的认可状态提供建议；
 
-## Assessment Activities throughout the Assessment Cycle
+* 就特定审计机构的评估程序的变更或调整，提供建议；
 
-### Application Review
+* 就关键地点评估和见证审计提供建议；以及，
 
-Before proceeding with the assessment of the Auditing Organization, the recognizing Regulatory Authority shall conduct a review of the application and related information to ensure that the information about the Auditing Organization and its management system is sufficient for the conduct of the assessment.
+* 审查和批准审计机构对评估结果的回复。
 
-### Stage 1 Assessment
+**评估程序经理：**
 
-The Stage 1 Assessment shall be performed to:
+* 与审计机构进行沟通，收集申请和相关信息，并沟通评估活动的结果；
 
-  * Review the Auditing Organization’s management system documentation to confirm that it covers all regulatory requirements including IMDRF MDSAP WG N3 and N4 documents;
-  * Evaluate the Auditing Organization’s understanding of regulatory requirements including IMDRF MDSAP WG N3 and N4 documents;
-  * Collect information necessary to define the scope of recognition;
-  * Identify the Auditing Organization’s locations and site-specific conditions;
-  * Evaluate if the Auditing Organization has planned and/or performed internal audits and management reviews;
-  * Gain sufficient understanding of the Auditing Organization’s structure, operations, and management system to define the individual Assessment Program plan;
-  * Evaluate the preparedness of the Auditing Organization to submit to the Stage 2 On-Site Assessment; and,
-  * Review the need for specific resources during the Stage 2 On-Site Assessment.
+* 为每个审计机构起草、维护和更新评估程序；
 
-A recognizing Regulatory Authority may carry out part of the Stage 1 Assessment at the Auditing Organization’s head office.
+* 确保评估活动按照评估计划进行和实施；
 
-Stage 1 Assessment findings shall be documented and communicated to the Auditing Organization, including the identification of any identified areas of concern that could be classified as a nonconformity during the Stage 2 On-Site Assessment.
+* 分配评估团队成员，指定他们的角色，并向他们提供评估活动所需的必要信息；以及，
 
-### Stage 2 On-Site Assessment 
+* 审查评估结果，对评估活动进行质量检查，并准备最终评估结果建议。
 
-The Stage 2 On-Site Assessment is to evaluate the implementation, including effectiveness, of the Auditing Organization's management system.
+注意：如果认可的监管机构选择指定一名或多名评估项目经理，则该评估项目经理不得作为审计机构的评估员，以便保持其对评估活动结果的独立性。
 
-The Stage 2 On-Site Assessment shall take place at the Auditing Organization's head office. 
+**在监管机构内的认可功能：**
 
-It shall include at least the following: 
+* 批准将评估项目应用于审计机构；以及，
 
-  * Evaluate the conformity of the Auditing Organization’s management system documentation to meet all the regulatory requirements including IMDRF MDSAP WG N3 and N4 documents;
-  * Evaluate the evidence of implementation, monitoring, measuring, reporting and reviewing by the Auditing Organization of its activities against policies, procedures and objectives from its management system (consistent with the expectations for recognition);
-  * Review the operational controls of the Auditing Organization’s processes, including when implemented by external resources;
-  * Confirm that the Auditing Organization conducted internal audits and management reviews; and,
-  * Confirm the competence of the Auditing Organization and the resources available necessary to fulfill the obligations for the scope of recognition.
+* 做出认可决定。
 
-### Witnessed Audits
+## 评估计划内的评估目的
 
-The recognizing Regulatory Authority shall observe the performance of the Auditing Organization during an audit of a medical device manufacturer during the Assessment Cycle. 
+初始评估的目的包括以下内容：
 
-The purpose of witnessed audits is to verify the performance of an Auditing Organization with regards to:
+* 为特定审计机构制定单独的评估项目计划；以及，
 
-  * Conformity of the practices to the requirements of section 9 of IMDRF MDSAP WG documents N3;
-  * Ability of the Auditing Organization to determine the conformity of medical device manufacturers to regulatory requirements;
-  * Ability of the Auditing Organization to reliably report on the audit findings including the nonconformities; and,
-  * Ability of the Auditing Organization to select audit teams with the necessary competence.
+* 评估特定审计机构的管理体系是否符合所有监管要求，包括 IMDRF MDSAP WG N3 和 N4 文档，以便认可的监管机构能够就是否认可该审计机构做出决定。
 
-The recognizing Regulatory Authority shall select the audits to observe and inform the Auditing Organization. The recognizing Regulatory Authority shall make an attempt to perform Witnessed Audits across a variety of different medical device manufacturers.
+监督评估的目的在于确保审计机构在重新认可评估期间继续符合监管要求，包括 IMDRF MDSAP WG N3 和 N4 文档。
 
-When selecting an Audit to observe, the following factors should be considered:
+重新认可评估的目的在于评估审计机构的管理体系是否持续符合所有监管要求，包括 IMDRF MDSAP WG N3 和 N4 文档，以便认可的监管机构能够就是否续签该审计机构的认可做出决定。
 
-  * The classification of the devices manufactured;
-  * The type of audit being conducted, either initial or re-certification audit;
-  * Geographical location of the audit;
-  * The identity of the auditors assigned;
-  * Manufacturing processes and technology being used; and,
-  * Known problems with the manufacturer being audited or their devices that have been identified from adverse events, post-market surveillance data, etc.
+## 评估周期中的评估活动
 
-Prior to performing the Witnessed Audit, the Auditing Organization shall provide to the recognizing Regulatory Authority the following information:
+### 申请审查
 
-  * Medical device manufacturer contact information; 
-  * Medical device manufacturer’s quality manual and if requested, other documents; 
-  * Scope for which the medical device manufacturer is being audited;
-  * Previous audit report(s) of the medical device manufacturer;
-  * Status of nonconformities identified during previous audits;
-  * Composition of the audit team, including the rationale for their selection;
-  * Copy of the information provided by the Auditing Organization to the audit team for planning the audit;
-  * Rationale for the audit’s duration; and,
-  * Audit plan.
+在对审计机构进行评估之前，认可的监管机构应审查申请和相关信息，以确保有关该审计机构及其管理体系的信息足以进行评估。
 
-During the Witnessed Audit, the assessors shall refrain from interfering and influencing the conduct and conclusion of the audit. There should be no direct communication between the assessor and the audited medical device manufacturers. Any communication between the assessor and the auditing team regarding the audit should occur after the conclusion of the audit.
+### 第1阶段评估
 
-Witnessed audit findings shall be documented and communicated to the Auditing Organization after the review of the audit report by the assessment team.
+第1阶段评估应用于：
 
-### On-Site Assessment at Critical Locations of the Auditing Organization
+* 审查审计机构的管理系统文件，以确认其是否涵盖所有法规要求，包括 IMDRF MDSAP WG 的 N3 和 N4 文档；
 
-When any of the critical functions listed below are undertaken at locations other than the head office, including by external organizations, the recognizing Regulatory Authority shall consider the performance of an assessment at such critical locations throughout the assessment cycle.
+* 评估审计机构对法规要求的理解，包括 IMDRF MDSAP WG 的 N3 和 N4 文档；
 
-Critical functions include: 
+* 收集定义认可范围所需的信息；
 
-  * The development and approval of the management system policies, processes, and procedures for the audit of medical device manufacturers under the recognition program;
-  * The review and acceptance of applications from medical device manufacturers and the issuance of contracts, and including the determination of the scope and duration of the audit.
-  * The assignment of audit teams;
-  * The technical review of audit reports;
-  * Competence management activities that apply to auditors, technical experts, and final reviewers; and,
-  * The management, monitoring, and oversight by the Auditing Organization of the medical device audit program.
+* 确定审计机构的地点和特定场所条件；
 
-On-Site Assessment of Critical Locations is performed to:
+* 评估审计机构是否已计划和/或进行内部审计和管理审查；
 
-  * Review the relationship between the head office of the Auditing Organization and the Critical Location;
-  * Review, if applicable, the arrangements between the head office of the Auditing Organization and the Critical Location;
-  * Evaluate the management system operated at the Critical Location to satisfy the requirements of the Auditing Organization;
-  * Evaluate the conformity of the activities undertaken by the Critical Location on behalf of the Auditing Organization to the requirements of the Auditing Organization’s management system or to the arrangements between the head office of the Auditing Organization and the Critical Location;
-  * Evaluate the conformity of activities undertaken by the Critical Location on behalf of the Auditing Organization to the corresponding regulatory requirements including IMDRF MDSAP WG N3 and N4 documents; and,
-  * Evaluate the controls in place at the Critical Location that would enable the Auditing Organization to monitor the activities at that location.
+* 充分了解审计机构的结构、运营和管理系统，以便制定具体的评估计划；
 
-### Surveillance On-Site Assessment
+* 评估审计机构是否已准备好接受第二阶段现场评估；
 
-The Surveillance On-Site Assessment is to evaluate the implementation, including effectiveness, of the Auditing Organization's management system.
+* 在第 2 阶段现场评估期间，审查所需的特定资源。
 
-The Surveillance On-Site Assessment shall take place at the Auditing Organization's head office. 
+一个认可的监管机构可以在审计机构的总部进行第 1 阶段评估的一部分。
 
-It shall include at least the following: 
+第 1 阶段评估的结果应记录并告知审计机构，包括识别任何可能在第 2 阶段现场评估期间被归类为不符合的潜在问题领域。
 
-  * Review of internal audits and management review;
-  * Review of Competence Management activities;
-  * Review of actions taken on nonconformities identified during the previous audit;
-  * Treatment of complaints and appeals;
-  * Evaluation of the effectiveness of the management system with regard to achieving the Auditing Organization’s objectives as it relates to the scope of recognition;
-  * Evaluate records of audit and decision on conformity of medical device manufacturer to regulatory requirements;
-  * Evaluate continuing operational control; and,
-  * Review any changes.
+### 第二阶段现场评估
 
-Surveillance On-Site Assessment shall be conducted annually at the anniversary date of the Stage 2 Assessment, with a tolerance of +/- 3 months. 
+第 2 阶段现场评估旨在评估审计机构的管理体系的实施，包括有效性。
 
-It is recommended that the recognizing Regulatory Authority, as part of the assessment planning and preparation, reviews a sample of audit reports made available by the Auditing Organization.
+第 2 阶段现场评估应在审计机构的总部进行。
 
-### Re-Recognition On-Site Assessment
+它应至少包括以下内容：
 
-The Re-Recognition On-Site Assessment shall consider the performance of the Auditing Organization’s management system over the period of recognition and include the review of assessment reports from the last assessment cycle.
+* 评估审计机构的管理体系文件是否符合所有监管要求，包括 IMDRF MDSAP WG N3 和 N4 文档；
 
-The Re-Recognition On-Site Assessment may need to have a Stage 1 Assessment in situations where there have been significant changes to the Auditing Organization, its management system, or of the requirements from the recognizing Regulatory Authority.
+* 评估审计机构根据其管理体系的政策、程序和目标，对自身活动进行实施、监控、测量、报告和审查的证据（符合认可的期望）；
 
-The Re-Recognition On-Site Assessment shall include the following: 
+* 审查审计机构的流程的运营控制，包括由外部资源实施的情况；
 
-  * Evaluate the effectiveness of the Auditing Organization’s management system in its entirety in the light of internal and external changes and its continued relevance and applicability to the scope of recognition;
-  * Confirm the continued conformity of the Auditing Organization’s management system to regulatory requirements including IMDRF MDSAP WG N3 and N4 documents; and,
-  * Confirm the commitment of the Auditing Organization to maintain the effectiveness of the management system.
+* 确认审计机构进行了内部审计和管理审查；以及，
 
-### Special Assessments
+* 确认审计机构及其可用的资源，以满足认可范围的义务。
 
-A Special Assessment is in addition to other assessment activities defined in the typical assessment cycle. A Special Assessment may be triggered by: 
+### 见证审计
 
-  * The Auditing Organization requesting a change of the scope of recognition or following a notice of change potentially affecting the result of prior assessments; 
-  * The recognizing Regulatory Authority based on signals indicating concerns with regards to the Auditing Organization’s activities; or,
-  * The results of previous regulatory assessment activities.
+认可的监管机构应在评估周期内，观察审计机构对医疗器械制造商的审计。
 
-# Assessment Method
+目的一致性审计是为了验证审计机构在以下方面的表现：
 
-Figure 3 presents the Assessment Method implemented by the recognizing Regulatory Authority assessors through six processes. This method will be applied regardless of how the Auditing Organization defines its operations and quality management system.
+* 实践符合 IMDRF MDSAP WG 文档 N3 第 9 部分的要求；
 
-The Auditing Organization must address the requirements specified in IMDRF MDSAP WG N3 and N4, as well as the ISO/IEC 17021:2011 standard. The recognizing Regulatory Authority assessors should utilize the assessment method described here for assessments at the head offices or critical locations. The suggested assessment sequence was designed and developed to allow assessors to conduct the assessment activities in a focused and efficient manner. The sequence of the assessment is less important however, as compared to ensuring the necessary coverage of the six processes. The initial and re-recognition assessment reports must address all six processes.
+* 审计机构确定医疗器械制造商符合监管要求的能力；
 
-The Assessment Method is a process approach and includes the following processes: (1) Management, (2) Use of External Resources, (3) Measurement, Analysis and Improvement, (4) Competence Management, (5) Audit and Decisions, and (6) Information Management.
+* 审计机构可靠地报告审计结果，包括不符合情况的能力；以及，
 
-**Figure 3: Assessment method**
+* 审计机构选择具有必要能力的审计团队的能力。
 
-## Conducting an assessment
+认可的监管机构应选择进行观察，并向审计机构提供信息。认可的监管机构应尝试在各种不同的医疗器械制造商中进行一致性审计。
 
-During the assessment of the Auditing Organization's quality management system as identified in the six processes, the assessment team should be mindful of "linkages." In order for an Auditing Organization’s quality management system to function effectively, it has to identify and manage numerous interrelated (linked) processes. The output of one process often directly forms the input to other processes, or the activities of some processes are relevant to other processes.
+在选择要观察的审计时，应考虑以下因素：
 
-## Navigating the Assessment
+* 制造的设备的分类；
 
-The goal of an assessment is to ensure Auditing Organizations make decisions that provide confidence in the conformity of medical devices to regulatory requirements when placed on the market.
+* 正在进行的审计类型，即首次或再认证审计；
 
-Each process will require the assessment team to accomplish assessment tasks to determine if the process outcomes and the process purpose are achieved and the corresponding risks appropriately addressed. Within the description of the assessment tasks, there are references to the applicable clause(s) of the ISO/IEC 17021:2011 standard and to the clauses of the IMDRF MDSAP WG N3 and N4 documents. These references have been provided to assist the assessors in assuring all the requirements are addressed during the assessments.
+* 审计的地理位置；
 
-During the assessment, it is important that the assessors are mindful of any instances where the Auditing Organization demonstrates failure to fulfil any of the defined requirements listed in the assessment tasks, and that these nonconformities are recorded in appropriate detail. 
+* 指定的审计人员的身份；
 
-Particular attention should be paid to the potential interrelationship of the nonconformities. For example, assessment nonconformities in both the Audit and Decisions process and the Competence Management process may in combination be significant since the planning of medical device manufacturer audits, the assignment of competent auditors and the systematic characterization of the decision making, are essential for determining a medical device manufacturer’s conformity to regulatory requirements.
+* 正在使用的制造工艺和技术；以及，
 
-# Assessment of Auditing Organization’s Processes
+* 被审计制造商或其设备已知的已知问题，这些问题已从不良事件、上市后监测数据等中识别。
 
-This section describes the processes evaluated by the assessment team. The assessment processes are each presented with a purpose, outcome, risks relative to the process, and the list of specific tasks for that processes.
+在进行一致性审计之前，审计机构应向认可的监管机构提供以下信息：
 
-## Process: Management
+* 医疗器械制造商的联系信息；
 
-### Purpose
+* 医疗器械制造商的质量手册，以及如果需要，其他文件；
 
-The purpose of assessing the Management process is to verify that top management ensures that an adequate and effective quality management system has been established and maintained by the Auditing Organization for the control of all activities related to the audit and the decisions on conformity of medical device manufacturers to regulatory requirements. The assessment should conclude with a reflection on the Management process in order to confirm the commitment of top management and the effective implementation of the Auditing Organization’s management system. 
+* 审计对象范围；
 
-### Outcomes
+* 医疗器械制造商之前的审计报告；
 
-As a result of the assessment of the Management process, objective evidence will show whether the Auditing Organization has:
+* 之前审计中发现的非符合性情况的状态；
 
-  1. Identified processes needed for their management system, their application throughout the organization, and their sequence and interaction.
-  2. Established a management system to support the effective auditing of medical device manufacturers and decisions with regards to the manufacturers; 
-     1. conformity to regulatory requirements; and,
-     2. ability to ensure adherence with legal and contractual requirements and other requirements to which the organization is committed.
-  3. Established quality objectives at relevant functions and levels within the organization consistent with the quality policy and ensured that these are periodically reviewed for continued suitability.
-  4. Committed sufficient resources and competent personnel. 
-  5. Assigned responsibility and authority to personnel and established the organizational structure to ensure quality is not compromised.
-  6. Defined, documented, and implemented procedures for the control of impartiality, the protection of confidential information, and the transparency with regards to auditing and decisions.
-  7. Ensured the continued effectiveness of the management system and its processes.
+* 审计团队的组成，包括选择的原因；
 
-### Risks relative to this process
+* 审计组织向审计团队提供的，用于规划审计的信息复印件；
 
-The failure of the management process poses the following risks:
+* 审计持续时间的理由；以及，
 
-  * Lack of consistency in the Auditing Organization’s practices;
-  * Lack of impartiality of the auditors and staff involved in the auditing and decision activities;
-  * Lack of competency of the auditors and staff involved in the auditing and decision activities;
-  * Lack of reliability in the audits;
-  * Lack of credibility of the decision; and/or,
-  * Lack of proper communication with the recognizing Regulatory Authorities, preventing the implementation of targeted enforcement actions towards delinquent medical device manufacturers.
+* 审计计划。
 
-Assessment Tasks
+在监督审计期间，评估人员应避免干预和影响审计的进行和结论。评估人员与被审计的医疗器械制造商之间不应有直接沟通。关于审计的评估人员与审计团队之间的任何沟通都应在审计结束后进行。
 
-#### **Review the documentation on legal responsibility, liability, and financing. Verify the eligibility as a candidate Auditing Organization.**
+监督审计的结论应由评估团队审查审计报告后，记录并告知审计组织。
 
-**Applicable requirements**
+### 审计组织的关键场所现场评估
 
-ISO/IEC 17021:2011 clauses: 5.1.1, 5.3.1, 5.3.2
+当以下列出的关键功能在总部以外的地点（包括由外部组织执行）进行时，认可的监管机构应在评估周期内，对这些关键地点进行评估。
 
-IMDRF MDSAP WG N3 clauses: 5.1, 5.1.1, 5.1.2, 5.1.3, 5.3.1, 5.3.2
+关键功能包括：
 
-#### **6.1.4.2** **Verify that a quality manual and the required management system documentation has been defined and documented.**
+* 制定和批准用于对符合认可计划的医疗器械制造商进行审计的管理系统政策、流程和程序；
 
-**Applicable requirements**
+* 审核和接受医疗器械制造商的申请，以及颁发合同，包括确定审计的范围和持续时间；
 
-ISO/IEC 17021:2011 clauses: 10.1, 10.2.1, 10.2.2, 10.2.3, 10.3.1, 10.3.2 
+* 确定审计团队；
 
-IMDRF MDSAP WG N3 clauses: 6.1.2, 6.1.4, 6.1.5, 6.1.7, 10.1.1
+* 审核审计报告的技术审查；
 
-#### **Verify that a quality policy and objectives have been set at relevant functions and levels within the organization. Ensure the quality objectives are measurable and consistent with the quality policy. Confirm appropriate measures are taken to achieve the quality objectives.**
+* 适用于审计人员、技术专家和最终审核人员的资质管理活动；以及，
 
-**Applicable requirements**
+* 审计机构对医疗器械审计计划的管理、监督和控制。
 
-ISO/IEC 17021:2011 clauses: 10.3.1, 10.3.5 
+对关键场所进行现场评估，旨在：
 
-IMDRF MDSAP WG N3 clauses: Not Applicable
+* 审查审计机构总部与关键场所之间的关系；
 
-#### **Review the Auditing Organization's organizational structure and related documents to verify that they include provisions for responsibilities, authorities. This must include the identification of functions responsible for: the overall program; the timely exchange of information with regulatory authorities; and, ensuring that quality management system requirements are effectively established and maintained, reporting to top management on the performance of the quality management system, and on any need for improvement.**
+* 审查，如果适用，审计机构总部与关键场所之间的安排；
 
-**Applicable requirements**
+* 评估关键场所运行的管理系统，以满足审计机构的要求；
 
-ISO/IEC 17021:2011 clauses: 6.1.1, 6.1.2, 6.1.3, 6.2.2, 7.2.1, 7.2.3, 10.3.1 
+* 评估关键场所代表审计机构开展的活动是否符合审计机构的管理系统或与审计机构总部与关键场所之间的安排；
 
-IMDRF MDSAP WG N3 clauses: 5.1.3, 6.1.5, 6.1.6, 7.1.4, 8.7.1
+* 评估关键场所代表审计机构开展的活动是否符合相关的法规要求，包括 IMDRF MDSAP WG N3 和 N4 文档；以及，
 
-#### **Verify that the Auditing Organization has analysed the adequacy of the set of auditors (including technical experts and team leaders) and personnel to cover all of its activities and to handle the volume of audit work.**
+* 评估关键场所的控制措施，以便审计机构能够监控该场所的活动。
 
-**Applicable requirements**
+### 上市后监测现场评估
 
-ISO/IEC 17021:2011 clauses: 7.2.2 
+现场评估旨在评估审计机构的管理系统的实施，包括有效性。
 
-IMDRF MDSAP WG N3 clauses: Not applicable
+现场评估应在审计机构总部进行。
 
-#### **Verify that the Auditing Organization has defined and implemented procedures for the management of impartiality.**
+它应至少包括以下内容：
 
-**Applicable requirements**
+* 审查内部审计和管理审查；
 
-ISO/IEC 17021:2011 clauses: 5.2.1 to 5.2.13, 5.3.2, 6.2.1 to 6.2.3, 7.3, 7.5.2 
+* 审查能力管理活动；
 
-IMDRF MDSAP WG N3 clauses: 5.2.1 to 5.2.10, 6.2.1, 7.1.6, 7.3.1, 9.1.3
+* 审查在先前审计中识别出的不符合之处所采取的行动；
 
-#### **Verify that management reviews are being conducted at planned intervals, that they include a review of the suitability and effectiveness of the quality policy, quality objectives, and management system to assure that the quality management system meets all applicable requirements from ISO/IEC 17021:2011 and IMDRF MDSAP WG N3 and N4.**
+* 处理投诉和申诉；
 
-**Applicable requirements**
+* 评估管理系统在实现审计机构在认可范围内的目标方面的有效性；
 
-ISO/IEC 17021:2011 clauses: 10.2.4, 10.3.5
+* 评估医疗器械制造商符合法规要求的审计记录和决策；
 
-IMDRF MDSAP WG N3 clauses: Not Applicable
+* 评估持续运营控制；以及，
 
-## Process: Use of External Resources 
+* 审查任何变更。
 
-### Purpose
+市上后监测现场评估应每年在第2阶段评估的周年日期进行，允许偏差 +/- 3 个月。
 
-The purpose of the Use of External Resources process is to ensure that all activities performed on behalf of the Auditing Organization by external auditors or technical experts, or external organizations remain under the control of the Auditing Organization.
+建议认可的监管机构，作为评估计划和准备的一部分，审查审计机构提供的审计报告样本。
 
-### Outcomes
+### 重新认可现场评估
 
-As a result of the assessment of the Use of External Resources process, objective evidence will show whether the Auditing Organization has:
+重新认可现场评估应考虑审核机构的管理体系在认可期间的绩效，并包括上次评估周期评估报告的审查。
 
-  1. Defined, documented and implemented appropriate methods (i.e. procedures and criteria) for the control of external resources activities, including the control of competency, impartiality and confidentiality.
-  2. Documented and implemented appropriate arrangements with external resources ensuring that the competency requirements for the auditing activities, and the final review and decision making on conformity to regulatory requirements are retained by the Auditing Organization.
-  3. Established written arrangements with external resources including their commitment to apply the Auditing Organization’s requirements and provisions ensuring the control of confidentiality and impartiality.
-  4. Adequate competency to review the outcome of activities performed by external resources.
+在审核机构、其管理体系或认可机构的要求发生重大变化的情况下，重新认可现场评估可能需要进行第一阶段评估。
 
-### Risks relative to this process
+重新认可现场评估应包括以下内容：
 
-The failure of the Use of External Resources Process poses the following risks:
+* 评估审核机构的管理体系在内部和外部变化以及其与认可范围的持续相关性和适用性方面的有效性；
 
-  * Lack of control of activities directly affects the ability of the external resources to provide the expected service; and/or,
-  * Lack of control by the Auditing Organization on the conformity of the external resources activities to the requirements of the recognizing Regulatory Authority.
+* 确认审核机构的管理体系符合相关法规，包括 IMDRF MDSAP WG N3 和 N4 文档；以及，
 
-### Assessment Tasks
+* 确认审核机构致力于维护管理体系的有效性。
 
-#### **Identify when and how the Auditing Organization utilizes external resources. Verify the controls implemented for the utilization of external resources by the Auditing Organization including competence, impartiality, confidentiality and conflict of interest.**
+### 特殊评估
 
-**Applicable Requirement**
+特殊评估是在典型评估周期中定义的其他评估活动之外进行的。特殊评估可能由以下情况触发：
 
-ISO/IEC 17021:2011 clauses: 7.5, 8.5.1 
+* 审核机构申请变更认可范围或在收到可能影响先前评估结果的通知后；
 
-IMDRF MDSAP WG N3 clauses: 5.2.7, 7.2.1, 7.5.1, 7.5.2, 8.5.1, 8.5.2
+* 认可机构，根据表明对审核机构活动存在担忧的信号；或，
 
-#### **Verify that the Auditing Organization has contractual arrangements with external resources to ensure that the competency requirements for the auditing activities, final review and decision making on conformity to regulatory requirements are retained by the Auditing Organization. The arrangements shall allow the** recognizing Regulatory Authority**to audit or witness the activities of the external resources. The arrangements shall include their commitment to apply the Auditing Organization’s requirements and provisions ensuring the control of confidentiality and impartiality.**
+* 之前的监管评估活动的结果。
 
-**Applicable Requirement**
+# 评估方法
 
-ISO/IEC 17021:2011 clauses: 5.1.3, 7.3, 7.5, 8.5.1 
+图 3 展示了认可机构评估员通过六个流程实施的评估方法。 无论审核机构如何定义其运营和质量管理体系，此方法均适用。
 
-IMDRF MDSAP WG N3 clauses: 5.2.7, 7.1.6, 7.2.1, 7.3.1, 7.3.3, 7.5.1, 7.5.3, 8.5
+审计机构必须满足 IMDRF MDSAP WG N3 和 N4 以及 ISO/IEC 17021:2011 标准规定的要求。 认可的监管机构的评估人员应使用此处描述的评估方法，用于在总部或关键地点进行评估。 建议的评估流程旨在使评估人员以集中和高效的方式进行评估活动。 然而，评估流程的重要性不如确保对六个流程的充分覆盖。 初始和重新认可评估报告必须涵盖所有六个流程。
 
-#### **Verify that the Auditing Organization has adequate internal competence to review the outcome and appropriateness of the activities performed by external resources and to verify the validity of the objective evidence provided in order to make decisions.**
+评估方法是一种过程方法，包括以下流程：(1) 管理、(2) 使用外部资源、(3) 测量、分析和改进、(4) 技能管理、(5) 审计和决策、以及 (6) 信息管理。
+
+**图 3：评估方法**
+
+## 进行评估
+
+在评估审计机构的质量管理体系（如六个流程中所述）时，评估团队应注意“关联性”。 为了使审计机构的质量管理体系有效运行，它必须识别和管理许多相互关联（关联）的流程。 一个流程的输出通常直接成为其他流程的输入，或者某些流程的活动与其它流程相关。
+
+## 评估流程
+
+评估的目标是确保审计机构做出决策，从而在将医疗器械投放市场时，能够对医疗器械的符合法规要求提供信心。
+
+[术语表 - 在这些术语出现时，请使用这些确切的翻译:]
+  差距分析 -> Gap Analysis
+  test_zh -> test_en
+
+每个流程都需要评估团队完成评估任务，以确定流程结果和流程目的是否实现，以及相应的风险是否得到适当处理。在对评估任务的描述中，有对 ISO/IEC 17021:2011 标准的相关条款以及 IMDRF MDSAP WG N3 和 N4 文档的条款的引用。这些引用旨在帮助评估人员在评估过程中确保所有要求得到满足。
+
+在评估过程中，重要的是评估人员要留意任何在评估任务中，审计机构未能满足的任何已定义的要求，并对这些不符合情况进行详细记录。
+
+特别应关注不符合情况之间的潜在关联。例如，在审计和决策流程以及能力管理流程中的评估不符合情况，可能在组合中具有重要意义，因为对医疗器械制造商的审计计划、指定合格的审计人员以及对决策过程的系统性描述，对于确定医疗器械制造商是否符合法规要求至关重要。
+
+# 评估审计机构的流程
+
+本节描述了评估团队评估的流程。每个评估流程都包含目的、结果、与流程相关的风险以及该流程的具体任务清单。
+
+## 流程：管理
+
+### 目的
+
+评估管理流程的目的，是验证高层管理人员是否确保，审计组织已建立并维持了充分且有效的质量管理体系，以控制与审计相关的所有活动，以及对医疗器械制造商符合法规要求的决策。 评估应以对管理流程的反思作为结论，以确认高层管理人员的承诺以及审计组织管理体系的有效实施。
+
+### 结果
+
+作为对管理流程的评估结果，客观证据将显示，审计组织是否：
+
+1. 确定了用于管理系统的所需流程，以及这些流程在整个组织中的应用、顺序和相互作用。
+
+2. 建立了一个管理系统，以支持对医疗器械制造商的有效审计，以及就制造商的决策进行相关决策；
+
+1. 符合法规要求；以及，
+
+2. 能够确保遵守法律和合同要求，以及组织承诺的其他要求。
+
+3. 在组织内的相关职能和层面确定质量目标，并确保这些目标定期进行审查，以确保其持续适用性。
+
+4. 投入足够的资源和合格的人员。
+
+5. 将责任和权限分配给人员，并建立组织结构，以确保质量不受到损害。
+
+6. 制定、记录并实施控制不偏见、保护保密信息以及就审计和决策进行透明化的程序。
+
+7. 确保管理系统及其流程的持续有效性。
+
+### 针对该流程的风险
+
+管理流程的失败可能带来以下风险：
+
+* 审计组织实践的一致性不足；
+
+* 参与审计和决策活动中的审计人员和工作人员缺乏公正性；
+
+* 参与审计和决策活动中的审计人员和工作人员缺乏能力；
+
+* 审计的可靠性不足；
+
+* 决策缺乏可信度；以及/或，
+
+* 缺乏与认可的监管机构的有效沟通，从而阻止针对违规医疗器械制造商的有针对性的执法行动。
+
+评估任务
+
+#### **审查有关法律责任、赔偿和融资的文件。 验证作为候选审计组织的资格。**
+
+**适用要求**
+
+ISO/IEC 17021:2011 第 5.1.1、5.3.1、5.3.2 条
+
+IMDRF MDSAP WG N3 条：5.1、5.1.1、5.1.2、5.1.3、5.3.1、5.3.2
+
+#### **6.1.4.2 验证质量手册以及所需的管理系统文件已定义并记录。**
+
+**适用要求**
+
+ISO/IEC 17021:2011 第 10.1、10.2.1、10.2.2、10.2.3、10.3.1、10.3.2 条
+
+IMDRF MDSAP WG N3 条：6.1.2、6.1.4、6.1.5、6.1.7、10.1.1
+
+#### **验证在组织内部的相关职能和层级上，已制定质量政策和目标。确保质量目标可衡量，并与质量政策保持一致。确认已采取适当的措施来实现质量目标。**
+
+**适用要求**
+
+ISO/IEC 17021:2011 第 10.3.1、10.3.5 条
+
+IMDRF MDSAP WG N3 条：不适用
+
+#### **审查审计机构的组织结构和相关文件，以验证其是否包含有关职责和权限的规定。这应包括识别负责以下方面的职能：整体项目；及时向监管机构交换信息；以及确保质量管理体系的要求得到有效建立和维护，向高级管理层报告质量管理体系的绩效以及任何改进需求。**
+
+**适用要求**
+
+ISO/IEC 17021:2011 第 6.1.1、6.1.2、6.1.3、6.2.2、7.2.1、7.2.3、10.3.1 条
+
+IMDRF MDSAP WG N3 条：5.1.3、6.1.5、6.1.6、7.1.4、8.7.1
+
+#### **验证审计机构已分析审计员（包括技术专家和团队领导）以及人员的充分性，以覆盖其所有活动，并处理审计工作量。**
+
+**适用要求**
+
+ISO/IEC 17021:2011 第 7.2.2 条
+
+IMDRF MDSAP WG N3 条款：不适用
+
+#### **验证审计机构是否已定义并实施了确保公正性的程序。**
+
+**适用要求**
+
+ISO/IEC 17021:2011 条款：5.2.1 至 5.2.13、5.3.2、6.2.1 至 6.2.3、7.3、7.5.2
+
+IMDRF MDSAP WG N3 条款：5.2.1 至 5.2.10、6.2.1、7.1.6、7.3.1、9.1.3
+
+#### **验证管理评审是否按计划进行，并且这些评审包括对质量政策、质量目标和管理体系的适用性和有效性的审查，以确保质量管理体系符合 ISO/IEC 17021:2011 和 IMDRF MDSAP WG N3 和 N4 的所有相关要求。**
+
+**适用要求**
+
+ISO/IEC 17021:2011 条款：10.2.4、10.3.5
+
+IMDRF MDSAP WG N3 条：不适用
+
+## 流程：利用外部资源
+
+### 目的
+
+“使用外部资源”流程的目的是确保由外部审计员或技术专家或外部组织代表审计机构所执行的所有活动均在审计机构的控制之下。
+
+### 结果
+
+根据“使用外部资源”流程的评估，客观证据将显示，审计机构是否：
+
+1. 明确、记录并实施适当的方法（即程序和标准），用于控制外部资源活动，包括控制专业能力、公正性和保密性。
+
+2. 记录并实施与外部资源之间的适当安排，确保审计活动所需的专业能力要求以及对符合监管要求最终审查和决策由审计机构保留。
+
+3. 与外部资源建立书面安排，包括其承诺遵守审计机构的要求和规定，以确保保密性和公正性。
+
+4. 具备足够的专业能力来审查外部资源执行的活动结果。
+
+### 针对该流程的风险
+
+“使用外部资源”流程的失败可能带来以下风险：
+
+* 缺乏对活动的控制直接影响外部资源提供预期服务的能力；或/
+
+* 审计机构未能控制外部资源活动符合认可监管机构的要求。
+
+### 评估任务
+
+#### **确定审计机构何时以及如何使用外部资源。 验证审计机构用于使用外部资源的控制措施，包括专业能力、公正性、保密性和利益冲突。**
+
+**适用要求**
+
+ISO/IEC 17021:2011 条款：7.5, 8.5.1
+
+IMDRF MDSAP WG N3 条款：5.2.7, 7.2.1, 7.5.1, 7.5.2, 8.5.1, 8.5.2
+
+#### **验证审计机构是否与外部资源建立了合同，以确保审计机构能够满足审计活动、最终审查和决定符合法规要求的能力要求。这些安排应允许**认可的监管机构**对外部资源的活动进行审计或旁观。这些安排应包括其承诺，即遵守审计机构的要求和规定，以确保保密性和公正性。**
+
+**适用要求**
+
+ISO/IEC 17021:2011 条款：5.1.3、7.3、7.5、8.5.1
+
+IMDRF MDSAP WG N3 条款：5.2.7、7.1.6、7.2.1、7.3.1、7.3.3、7.5.1、7.5.3、8.5
+
+#### **验证审计机构是否具备充分的内部能力，以审查外部资源所执行活动的结果和适当性，并验证提供的客观证据的有效性，以便做出决策。**
 
 #### ****
 
-**Applicable Requirement**
+**适用要求**
 
-ISO/IEC 17021:2011 clauses: Not applicable 
+ISO/IEC 17021:2011 条款：不适用
 
-IMDRF MDSAP WG N3 clauses: 7.3.2, 7.5.2
+IMDRF MDSAP WG N3 条款：7.3.2、7.5.2
 
-## Process: Measurement, Analysis and Improvement
+## 过程：测量、分析和改进
 
-### Purpose
+### 目的
 
-The purpose of the Measurement, Analysis and Improvement process is to verify that:
+测量、分析和改进过程的目的是验证：
 
-  * Information relative to the audits, competence of the auditors, decisions on conformity to regulatory requirements, and the Auditing Organization’s management system is collected;
-  * This information is analysed to identify actual and potential nonconformities;
-  * Actual and potential nonconformities are investigated; and,
-  * Effective corrections, corrective actions and preventive actions are taken, as appropriate.
+* 收集与审计、审计人员的能力、决定符合法规要求的、以及审计机构的管理体系相关的信息；
 
-If trends in the information collected above are unfavourable and nonconformities are observed during the assessment, then this information can be used to select:
+* 对这些信息进行分析，以识别实际和潜在的违规情况；
 
-  * Auditor qualification files to review during the assessment of the Competence Management process;
-  * Medical device manufacturer files; and, 
-  * Agreement and monitoring records during the assessment of the Use of External Resources process.
+* 调查实际和潜在的违规情况；以及，
 
-### Outcomes
+* 采取适当的纠正措施、纠正措施和预防措施。
 
-As a result of the assessment of the Measurement, Analysis and Improvement process, objective evidence will show whether the Auditing Organization has:
+如果以上收集的信息存在不利趋势，并在评估过程中发现违规情况，则可以使用这些信息来选择：
 
-  1. Defined, documented, and implemented procedures for measurement, analysis and improvement that address the requirements of the ISO/IEC 17021:2011 standard and the IMDRF MDSAP WG N3 and N4 documents;
-  2. Identified, analysed, and monitored appropriate sources of quality data including internal audits, external assessments, and complaints, to identify actual and potential nonconformities;
-  3. Investigated actual and potential nonconformities;
-  4. Implemented corrections, corrective actions and preventive actions, as appropriate; and,
-  5. Reviewed the effectiveness of such actions.
+* 审计机构资质文件，用于在评估能力管理流程期间进行审查；
 
-### Risks relative to this process
+* 医疗器械制造商的文件；以及，
 
-The failure of the Measurement, Analysis and Improvement process poses the following risks:
+* 在评估“使用外部资源”过程中的协议和监控记录。
 
-  * Lack of assurance in the Auditing Organization’s ability to identify and remediate nonconformities and potential nonconformities as necessary; and/or,
-  * Lack of assurance on the Auditing Organizations decisions relating to the medical device manufacturer’s conformance to regulatory requirements.
+### 结果
 
-### Assessment Tasks
+根据测量、分析和改进流程的评估，客观证据将显示审计机构是否：
 
-#### **Verify that the Auditing Organization has a defined and documented procedure(s) for measuring, monitoring, analysing and improving the relevance, compliance, consistent implementation and effectiveness of the Auditing Organization’s management system.**
+1. 制定、记录并实施用于测量、分析和改进的程序，这些程序符合 ISO/IEC 17021:2011 标准和 IMDRF MDSAP WG N3 和 N4 文档的要求；
 
-**Applicable requirements**
+2. 识别、分析和监控适当的质量数据来源，包括内部审计、外部评估和投诉，以识别实际和潜在的不符合情况；
 
-ISO/IEC 17021:2011 clauses: 7.2.10, 7.5.4
+3. 调查实际和潜在的不符合情况；
 
-IMDRF MDSAP WG N3 clauses: 6.1.4, 7.1.6, 10.1.1, 10.1.3, 10.1.4
+4. 实施适当的纠正措施、整改措施和预防措施；以及，
 
-#### **Determine if** appropriate sources of quality data and processes **have been monitored by the Auditing Organization** , to identify actual and potential nonconformities**. This quality data must include** internal audits, external assessments, complaints**, and the use of external resources. Confirm that monitoring and measurement activities cover auditor competence, audit performance, decisions on conformity to regulatory requirements and adherence to the Code of Conduct throughout the Competence Management and Audit and Decisions Processes.**
+5. 审查这些措施的有效性。
 
-**Applicable requirements**
+### 针对该流程的风险
 
-ISO/IEC 17021:2011 clauses: 5.2.10, 7.1.3, 7.2.10 – 7.2.12, 7.5.4
+“测量、分析和改进过程的失败，可能带来以下风险：”
 
-IMDRF MDSAP WG N3 clauses: 5.2.4, 6.1.5, 7.1.3, 7.1.6, 10.1.3, 10.1.4
+* 缺乏对审计机构识别和必要时纠正不符合情况和潜在不符合情况的能力的信心；以及/或，
 
-#### **Determine if investigations are conducted to identify the underlying cause(s) of detected nonconformities as well as of potential nonconformities, where possible. Confirm investigations are commensurate with the risk of the nonconformity. Confirm that corrections, corrective actions and preventive actions, as appropriate, were determined, implemented, documented, effective, and did not adversely affect the audits performed and decisions made. Ensure corrective action and preventive action is appropriate to the risk of the nonconformities or potential nonconformities encountered.**
+* 缺乏对审计机构关于医疗器械制造商符合法规要求的决策的信心。
 
-**Applicable requirements**
+### 评估任务
 
-ISO/IEC 17021:2011 clauses: 10.3.7, 10.3.8 
+#### **验证审计机构是否制定并记录了用于测量、监控、分析和改进审计机构管理系统相关性、合规性、一致实施和有效性的程序。**
 
-IMDRF MDSAP WG N3 clauses: Not applicable
+**适用要求**
 
-#### **Determine whether any of the Auditing Organization's corrective actions require reporting to the recognizing Regulatory Authorities, such reporting may include changes relevant to its recognition.**
+ISO/IEC 17021:2011 条款：7.2.10, 7.5.4
 
-**Applicable requirements**
+IMDRF MDSAP WG N3 条款：6.1.4, 7.1.6, 10.1.1, 10.1.3, 10.1.4
 
-ISO/IEC 17021:2011 clauses: Not applicable
+#### **确定**审计机构是否已**监控**适当的质量数据来源和流程，以识别实际和潜在的违规情况。 这种质量数据应包括内部审计、外部评估、投诉，以及使用外部资源。 确认监控和测量活动涵盖了审计人员的专业能力、审计绩效、符合法规要求的决策以及在整个能力管理和审计及决策过程中，遵守行为准则。
 
-IMDRF MDSAP WG N3 clauses: 8.7.3, 8.7.4, 8.7.5
+**适用要求**
 
-#### **Verify that controls are in place to ensure that an audit which does not conform to auditing requirements is identified and controlled to ensure that the decisions on conformity to regulatory requirements takes this information into account. Confirm that appropriate decisions were made, justified, and documented.**
+ISO/IEC 17021:2011 条款：5.2.10, 7.1.3, 7.2.10 – 7.2.12, 7.5.4
 
-**Applicable requirements**
+IMDRF MDSAP WG N3 条款：5.2.4, 6.1.5, 7.1.3, 7.1.6, 10.1.3, 10.1.4
 
-ISO/IEC 17021:2011 clauses: 9.1.15, 9.3, 10.2 
+#### **确定**是否对已发现的违规情况以及潜在的违规情况，进行调查以确定根本原因。 确认调查与违规情况的风险相符。 确认，在适当的情况下，已确定、实施、记录、有效，并且没有 adversely 影响已进行的审计和决策，包括纠正措施、纠正措施和预防措施。 确保纠正措施和预防措施与遇到的或潜在的违规情况或风险相符。
 
-IMDRF MDSAP WG N3 clauses: 9.1.1, 9.1.2, 10.1.3
+**适用要求**
 
-#### **Confirm that when a nonconformity is detected after release of the report or after the decision of conformity to regulatory requirements, then appropriate action is taken commensurate with the risk, or potential risks, of the nonconformity. Confirm appropriate notification the recognizing Regulatory Authority was made.**
+ISO/IEC 17021:2011 条款：10.3.7, 10.3.8
 
-**Applicable requirements**
+IMDRF MDSAP WG N3 条款：不适用
 
-ISO/IEC 17021:2011 clauses: 10.2 
+#### **确定**审计机构的任何纠正措施是否需要向认可的监管机构报告，例如，此类报告可能包括与其认可相关的变更。
 
-IMDRF MDSAP WG N3 clauses: 8.7.3, 8.7.4, 9.6.1
+**适用要求**
 
-#### **Verify that internal audits are being conducted according to planned arrangements and documented procedures to ensure the management system is in compliance with the established requirements set out in ISO/IEC 17021:2011 and the IMDRF MDSAP WG N3 and N4 documents, as well as any other applicable recognizing Regulatory Authority requirements. Confirm the internal audits include provisions for auditor independence over the areas being audited, corrections, corrective actions, follow-up activities, and the verification of corrective actions.**
+ISO/IEC 17021:2011 条款：不适用
 
-**Applicable requirements**
+IMDRF MDSAP WG N3 条款：8.7.3, 8.7.4, 8.7.5
 
-ISO/IEC 17021:2011 clauses: 10.3.6.1, 10.3.6.2, 10.3.6.3, 10.3.6.4,
+#### **验证是否已建立控制措施，以确保当审计不符合审计要求时，能够识别并控制该审计，从而确保关于符合法规要求的决策会考虑到这些信息。确认已做出适当的决策，并进行充分的证明和记录。**
 
-IMDRF MDSAP WG N3 clauses: 10.1.4
+**适用要求**
 
-#### **Confirm that the Auditing Organization has effective processes for handling complaints, and investigating the cause of nonconformities related to complaints with provision for input into the Measurement, Analysis and Improvement process. Verify that procedures have been implemented that require the Auditing Organization to forward to the recognizing Regulatory Authority information on any complaint about a medical device manufacturer that could indicate an issue related to the safety and effectiveness of medical devices or a public health risk. Confirm the proper and timely implementation of these procedures. Evaluate how the complaint process allows for forwarding to the appeals process.**
+ISO/IEC 17021:2011条款：9.1.15、9.3、10.2
 
-**Applicable requirements**
+IMDRF MDSAP WG N3条款：9.1.1、9.1.2、10.1.3
 
-ISO/IEC 17021:2011 clauses: 9.7, 9.8
+#### **确认当在报告发布后或在符合法规要求的决策后发现不符合情况时，是否采取了与该不符合情况的风险或潜在风险相适应的适当措施。确认已向认可的监管机构进行了适当的通知。**
 
-IMDRF MDSAP WG N3 clauses: 9.5.2.2, 9.8.1
+**适用要求**
 
-#### **Where an investigation by the Auditing Organization determines that activities from external resources contributed to a nonconformity or a complaint, verify that records show that relevant information was exchanged between the parties involved.**
+ISO/IEC 17021:2011条款：10.2
 
-**Applicable Requirements**
+IMDRF MDSAP WG N3条款：8.7.3、8.7.4、9.6.1
 
-ISO/IEC 17021:2011 clauses: 9.8, 10.3.7, 10.3.8
+#### **验证内部审计是否按照计划安排和程序进行，以确保管理体系符合ISO/IEC 17021:2011和IMDRF MDSAP WG N3和N4文件以及任何其他适用的认可监管机构的要求。确认内部审计包括对被审计领域的审计员独立性、纠正措施、纠正行动、后续活动以及对纠正行动的验证。**
 
-IMDRF MDSAP WG N3 clauses: Not applicable
+**适用要求**
 
-#### **Determine if the relevant outputs of the Measurement, Analysis and Improvement Process are inputs into the management review.**
+ISO/IEC 17021:2011条款：10.3.6.1、10.3.6.2、10.3.6.3、10.3.6.4
 
-**Applicable Requirements**
+IMDRF MDSAP WG N3条款：10.1.4
 
-ISO/IEC 17021:2011 clauses: 10.2.4, 10.3.5
+#### **确认审核机构拥有有效的处理投诉、调查与投诉相关的不符合情况原因的流程，并提供向测量、分析和改进流程提供输入的渠道。 验证该机构已实施程序，要求其将就医疗器械制造商的任何投诉，特别是可能表明与医疗器械的安全性和有效性或公共健康风险相关的问题的信息，提交给认可的监管机构。 确认这些程序的正确和及时实施。 评估投诉处理流程如何允许将信息提交到申诉流程。**
 
-IMDRF MDSAP WG N3 clauses: Not applicable
+**适用要求**
 
-## 
+ISO/IEC 17021:2011 条款：9.7, 9.8
 
-## Process: Competence Management
+IMDRF MDSAP WG N3 条款：9.5.2.2, 9.8.1
 
-### 6.4.1 Purpose
+#### **如果审核机构的调查确定，外部资源活动导致了不符合或投诉，则验证记录显示相关信息已在相关方之间交换。**
 
-The purpose of the Competence Management process is to ensure that auditors, technical experts, the program administrator and final reviewer, and all other personnel involved in the audit and related activities have demonstrated competence, according to pre-established criteria. The Competence Management Process is also to ensure that the Auditing Organization has access to competent personnel to cover the scope of their recognition. This is essential in ensuring the credibility of the Audit and Decisions Process outcomes. 
+适用要求
 
-### Outcomes
+ISO/IEC 17021:2011 条款：9.8, 10.3.7, 10.3.8
 
-As a result of the assessment of the Competence Management process, objective evidence will show whether the Auditing Organization has:
+IMDRF MDSAP WG N3 条款：不适用
 
-A. Identified the necessary competence to be an effective organization for their scope of recognition.
+#### **确定测量、分析和改进流程的相关输出是否作为管理评审的输入。**
 
-B. Defined, documented and implemented methods (i.e. procedures and criteria) for the evaluation and monitoring of the competence of auditors, technical experts, the program administrator and final reviewer, and all other personnel involved in the management and performance of audits and related activities.
+适用要求
 
-C. Identified training needs and access to training for auditors, technical experts, the program administrator and final reviewer, and all other personnel involved in the management and performance of audits and related activities.
+ISO/IEC 17021:2011 条款：10.2.4、10.3.5
 
-D. Maintained records demonstrating the effective implementation of the competence management process.
+IMDRF MDSAP WG N3 条款：不适用
 
-E. Demonstrated the effectiveness of its evaluation methods and of the overall competence management process.
+##
 
-### Risks relative to this process
+## 流程：能力管理
 
-The failure of the Competence Management process poses the following risks:
+### 6.4.1 目的
 
-  * Lack of competence may not allow the auditors, technical experts, program administrator, and final reviewer to identify the critical elements to assess, make appropriate judgement on conformity to regulatory requirements and make appropriate decisions.
+能力管理流程的目的是确保审核员、技术专家、项目管理员和最终审核员，以及参与审核和相关活动的任何其他人员，都已根据预先确定的标准，证明其能力。 能力管理流程还旨在确保审核机构能够获得足够的人员来覆盖其认可的范围。 这对于确保审核和决策流程结果的可信至关重要。
 
-### Assessment Tasks 
+### 结果
 
-#### **Verify that the Auditing Organization has identified the necessary competencies for the scope of their recognition. Verify that the Auditing Organization has access to the necessary technical expertise for advice on matters directly relating to decisions of conformity to regulatory requirements.**
+作为对能力管理流程的评估结果，客观证据将显示，审计机构是否：
 
-**Applicable Requirement**
+A. 确定了必要的能力，以使其在认可范围内的组织能够有效运作。
 
-ISO/IEC 17021:2011 clauses: 7.1.1, 7.1.4, 7.2.1, 7.2.9, 
+B. 制定、记录并实施了用于评估和监控审计员、技术专家、项目管理员和最终审核员，以及所有参与审计和相关活动管理和执行的其他人员能力的（即程序和标准）。
 
-IMDRF MDSAP WG N3 clauses: 6.1.1, 6.1.3, 7.1.1, 7.1.2, 7.1.3, 7.1.5, 7.2.1, 7.3.2
+C. 确定了培训需求以及为审计员、技术专家、项目管理员和最终审核员，以及所有参与审计和相关活动管理和执行的其他人员提供的培训机会。
 
-IMDRF MDSAP WG N4 clauses: Not applicable
+D. 维护记录，以证明能力管理流程的有效实施。
 
-#### **Verify that the Auditing Organization has defined, documented and implemented procedures and criteria for initial competence evaluation of auditors, technical experts, program administrator, final reviewer, and personnel involved in the audit and related activities.**
+E. 表明其评估方法和整体能力管理流程的有效性。
 
-**Applicable Requirement**
+### 针对该流程的风险
 
-ISO/IEC 17021:2011 clauses: 7.1.2, 7.1.3, 7.2.4, 7.3, 7.5
+能力管理流程的失败可能带来以下风险：
 
-IMDRF MDSAP WG N3 clauses: 6.1.1, 7.1.1, 7.2.1, 7.3.2, 7.3.4, 7.5.2, 7.5.4
+* 能力不足可能导致审计员、技术专家、项目管理员和最终审核员无法识别需要评估的关键要素，无法对符合法规要求的状况做出适当的判断，并做出适当的决策。
 
-IMDRF MDSAP WG N4 clauses: 6, 9
+### 评估任务
 
-#### **Verify that the Auditing Organization maintains a list of personnel to include auditors, technical experts, the program administrator and final reviewer that have been assessed as competent to perform the duties associated with the audit and related activities including external resources. Verify that the list is current at all times.**
+#### **验证审核机构是否已识别其认可范围所需的必要能力。验证审核机构是否拥有获取必要的技术专长，以便就符合监管要求的决策提供建议。**
 
-**Applicable Requirement**
+**适用要求**
 
-ISO/IEC 17021:2011 clauses: 7.1.3, 7.1.4.1, 7.2.3, 9.2.2.5, 
+ISO/IEC 17021:2011 条款：7.1.1、7.1.4、7.2.1、7.2.9
 
-IMDRF MDSAP WG N3 clauses: 6.1.6, 7.2.1, 7.3.2, 7.5.2
+IMDRF MDSAP WG N3 条款：6.1.1、6.1.3、7.1.1、7.1.2、7.1.3、7.1.5、7.2.1、7.3.2
 
-IMDRF MDSAP WG N4 clauses: 11
+IMDRF MDSAP WG N4 条款：不适用
 
-#### **Verify that the Auditing Organization has identified training needs, has provided access to such training, and has ensured the identified training has been undertaken by its auditors, technical experts, the program administrator and final reviewer and all other personnel involved in the audits and related activities, including the external resources. Training shall include IMDRF MDSAP specific requirements. The Auditing Organization must ensure that personnel have access to an up-to-date set of procedures.**
+#### **验证审核机构是否已定义、记录并实施了用于对审计员、技术专家、项目管理员、最终审核员以及参与审计和相关活动的员工进行初始能力评估的程序和标准。**
 
-**Applicable Requirement**
+**适用要求**
 
-ISO/IEC 17021:2011 clauses: 7.2.3, 7.2.6, 7.2.8 
+ISO/IEC 17021:2011 条款：7.1.2、7.1.3、7.2.4、7.3、7.5
 
-IMDRF MDSAP WG N3 clauses: 6.1.3, 7.1.3, 7.2.1
+IMDRF MDSAP WG N3 条款：6.1.1、7.1.1、7.2.1、7.3.2、7.3.4、7.5.2、7.5.4
 
-IMDRF MDSAP WG N4 clauses: 7, 8
+IMDRF MDSAP WG N4 条款：6、9
 
-#### **Verify that the Auditing Organization has defined, documented and implemented a method (i.e. procedures and criteria) for the monitoring of competence and performance of all personnel involved in the audits and related activities. Verify that when personnel no longer meet the competence criteria their competence status is revised. Verify if any remediation plan has been implemented.**
+#### **验证审核机构是否维护了一份包含审计员、技术专家、项目管理员和最终审核员（以及外部资源）的名单，这些人员已评估为具备执行与审计和相关活动相关的职责的能力。验证该名单始终保持最新。**
 
-**Applicable Requirement**
+**适用要求**
 
-ISO/IEC 17021:2011 clauses: 7.2.10, 7.2.11, 7.2.12, 
+ISO/IEC 17021:2011 条款：7.1.3、7.1.4.1、7.2.3、9.2.2.5
 
-IMDRF MDSAP WG N3 clauses: 6.1.1, 6.1.6, 7.4.1
+IMDRF MDSAP WG N3 条款：6.1.6、7.2.1、7.3.2、7.5.2
 
-IMDRF MDSAP WG N4 clauses: 9, 12
+IMDRF MDSAP WG N4 条款：11
 
-#### **Verify that records demonstrate the implementation of the competence evaluation, training, commitments to confidentiality, impartiality, and code of conduct for auditors, technical experts, the program administrator and final reviewer and all other personnel involved in the audits and related activities.**
+#### **确认审核机构已识别出培训需求，已提供相关培训，并已确保其审核人员、技术专家、项目管理员和最终审核员以及所有参与审核和相关活动的员工都接受了培训，包括IMDRF MDSAP的具体要求。 审核机构必须确保人员能够访问最新的操作规程。**
 
-**Applicable Requirement**
+**适用要求**
 
-ISO/IEC 17021:2011 clauses: 5.2.13, 7.4 
+ISO/IEC 17021:2011 条款：7.2.3, 7.2.6, 7.2.8
 
-IMDRF MDSAP WG N3 clauses: 5.2.9, 7.1.6, 7.4.1
+IMDRF MDSAP WG N3 条款：6.1.3, 7.1.3, 7.2.1
 
-IMDRF MDSAP WG N4 clauses: 4, 5, 10, 11
+IMDRF MDSAP WG N4 条款：7, 8
 
-#### **Verify that the Auditing Organization has demonstrated the effectiveness of the competence evaluation methods and of the competence management process.**
+#### **确认审核机构已定义、记录并实施一种方法（即程序和标准）来监控参与审核和相关活动的全部人员的能力和绩效。 确认当人员不再符合能力标准时，其能力状态应进行更新。 确认是否已实施任何纠正措施。**
 
-**Applicable Requirement**
+**适用要求**
 
-ISO/IEC 17021:2011 clauses: 7.1.3, 7.2.5, 7.2.7, 7.2.8 
+ISO/IEC 17021:2011 条款：7.2.10, 7.2.11, 7.2.12,
 
-IMDRF MDSAP WG N3 clauses: Not applicable
+IMDRF MDSAP WG N3 条款：6.1.1, 6.1.6, 7.4.1
 
-IMDRF MDSAP WG N4 clauses: Not applicable
+IMDRF MDSAP WG N4 条款：9, 12
 
-## Process: Audit and Decisions Process
+#### **确认记录证明了对能力评估、培训、对审核人员、技术专家、项目管理员和最终审核员以及所有参与审核和相关活动的员工保密性、公正性和行为准则的承诺的实施。**
 
-### Purpose
+**适用要求**
 
-The purpose of the Audit and Decisions Process is to control the management of the medical device manufacturer’s request for audit and other related activities. This process includes the review of the application, the definition of the audit program, the planning and performance of the audit, the review of the report, the decision making, the review of the audit program, the planning of next audits, including special audits, necessary for the maintenance of the certification.
+ISO/IEC 17021:2011 条款：5.2.13, 7.4
 
-### Outcomes
+IMDRF MDSAP WG N3 条款：5.2.9, 7.1.6, 7.4.1
 
-As a result of the assessment of the Audit and Decisions Process, objective evidence will show whether the Auditing Organization has:
+IMDRF MDSAP WG N4 条款：4, 5, 10, 11
 
-  1. Defined, documented and implemented methods (i.e. procedures and criteria) for the control of the Audit and Decisions process.
-  2. Established and implemented audit Programs for each manufacturer in accordance with the prescribed recognizing Regulatory Authority audit cycle.
-  3. Planned and conducted audits according to the audit program including the assignment of a competent audit team.
-  4. Reviewed corrections and corrective actions implemented by the manufacturer in response to the audit findings.
-  5. Made reliable and consistent decisions based on the outcome of the audits and the review of the manufacturers’ responses. 
-  6. Conducted follow-up activities according to the decisions.
-  7. Effectively evaluated and made appropriate decision regarding appeals.
-  8. Maintained records demonstrating the effective implementation of the Audit and Decisions process.
+#### **验证审核机构是否已证明其评估能力评估方法和能力管理流程的有效性。**
 
-### Risks relative to this process
+**适用要求**
 
-The failure of the Audit and Decisions Process poses the following risks:
+ISO/IEC 17021:2011 条款：7.1.3、7.2.5、7.2.7、7.2.8
 
-  * Lack of control regarding the Audit and Decisions Process may cause inconsistency in the outcome and affect the reliability of the outputs of the Auditing Organization.
+IMDRF MDSAP WG N3 条款：不适用
 
-### Assessment Tasks
+IMDRF MDSAP WG N4 条款：不适用
 
-#### **Verify that the Auditing Organization has documented procedures as required in the IMDRF MDSAP N3 for clause 9 of the ISO/IEC 17021:2011.**
+## 流程：审计与决策流程
 
-**Applicable Requirement**
+### 目的
 
-ISO/IEC 17021:2011 clauses: 9.1.4.1, 9.6.1, 9.7.1 
+审计与决策流程的目的是控制医疗器械制造商对审计的申请以及其他相关活动的管理。该流程包括对申请的审查、审计程序的定义、审计的规划和实施、报告的审查、决策、审计程序的审查、以及为维持认证所需的后续审计的规划，包括特殊审计。
 
-IMDRF MDSAP WG N3 clauses: 9.1.1
+### 结果
 
-#### **Verify that the Auditing Organization established, reviewed and updated (as needed) the program for the full audit cycle, specific to each medical device manufacturer taking into account the review of the request for audits and notices of change, and information collected during prior audits. Verify that the Auditing Organization has planned the audits according to the program. This includes the determination of audit time according to the recognizing Regulatory Authority’s requirements; and, the identification of related sites and critical suppliers to audit, considering the specific circumstances of the medical device manufacturer.**
+根据对审计与决策流程的评估，客观证据将显示审核机构是否：
 
-**Applicable Requirement**
+1. 确定、记录并实施控制审计与决策流程的方法（即程序和标准）。
 
-ISO/IEC 17021:2011 clauses: 8.6.3, 9.1.1, 9.1.2.2.1, 9.1.2.2.2, 9.1.2.2.3, 9.1.2.3, 9.1.4, 9.1.5, 9.1.7, 9.1.8, 9.2.1, 9.2.2.1, 9.2.2.2, 9.2.3, 9.3.1, 9.4.1, 9.5 
+2. 针对每个制造商，根据指定认可的监管机构的审计周期，建立并实施审计程序。
 
-IMDRF MDSAP WG N3 clauses: 8.8.1, 9.2.1, 9.2.2, 9.2.3, 9.3.1, 9.4.2, 9.4.4, 9.4.5, 9.5.1, 9.5.2(1&2)
+3. 按照审计程序进行审计，包括指定合格的审计团队。
 
-#### **Verify that the Auditing Organization selected and assigned auditor teams with the competence required for each audit. Verify that the Auditing Organization communicated to the auditor teams the audit scope, objectives and tasks for planning the audit and for the assignment of responsibilities among the auditor team members. Verify that the Auditing Organization informed the medical device manufacturer of the audit team composition and the audit plan.**
+4. 审查制造商根据审计结果采取的纠正和整改措施。
 
-**Applicable Requirement**
+5. 基于审计结果和制造商的回复，做出可靠和一致的决策。
 
-ISO/IEC 17021:2011 clauses: 7.2.4, 7.2.5, 7.2.7, 9.1.3.1 to 9.1.3.4, 9.1.6, 9.1.7, 9.1.8, 9.2.2.3, 9.2.2.4 
+6. 按照决策进行后续活动。
 
-IMDRF MDSAP WG N3 clauses: 5.2.8, 7.3.1, 7.4.1, 7.5.1, 9.1.4, 9.5.2(1)
+7. 有效评估并做出适当的决定，处理申诉。
 
-#### **Verify that the Auditing Organization conducted audits according to the audit program and the requirements of the recognizing Regulatory Authority. Verify that the requirements for audit reports including the grading of any nonconformities as prescribed in IMDRF MDSAP WG N3, and any requirements of the recognizing Regulatory Authority were met.**
+8. 记录显示有效地实施了审计和决策流程。
 
-**Applicable Requirement**
+### 针对该流程的风险
 
-ISO/IEC 17021:2011 clauses: 9.1.9, 9.1.10, 9.2.3, 9.3.2.1, 9.3.2.2, 9.4.2
+审核和决策流程的失效可能导致以下风险：
 
-IMDRF MDSAP WG N3 clauses: 8.2, 9.1.2, 9.1.3, 9.2.1, 9.2.2, 9.2.4, 9.2.5, 9.3.1, 9.4.1
+* 缺乏对审核和决策流程的控制可能导致结果不一致，并影响审核机构输出的可信度。
 
-#### **Verify that the Auditing Organization reviewed any responses to nonconformities identified during an audit of the manufacturer. Verify that the Auditing Organization has appropriately required and reviewed the necessary cause analysis, and any related plans for corrections, and/or corrective action. Verify that the Auditing Organization has verified the implementation and effectiveness of such actions and conducted special audits as necessary.**
+### 评估任务
 
-**Applicable Requirement**
+#### **验证审核机构是否按照 IMDRF MDSAP N3 第 9 条（ISO/IEC 17021:2011）的要求，制定了必要的程序。**
 
-ISO/IEC 17021:2011 clauses: 9.1.11, 9.1.12, 9.1.13, 9.5.2
+**适用要求**
 
-IMDRF MDSAP WG N3 clauses: 9.5
+ISO/IEC 17021:2011 条款：9.1.4.1, 9.6.1, 9.7.1
 
-#### **Verify that the Auditing Organization reviewed the audit reports, and all other relevant information, and made consistent decisions on the conformity to regulatory requirements. Verify that the decisions made for suspending, withdrawing, or reducing the scope of any certification is consistent with the recognizing Regulatory Authority’s requirements.**
+IMDRF MDSAP WG N3 条款：9.1.1
 
-**Applicable Requirement**
+#### **验证审核机构是否建立了、审查并根据需要更新（如有需要）的完整审核流程，该流程针对每个医疗器械制造商，并考虑到审核请求和变更通知的审查，以及先前审核中收集的信息。 验证审核机构是否按照该流程计划了审核。 这包括根据认可的监管机构的要求确定审核时间；以及确定需要审核的相关的站点和关键供应商，同时考虑医疗器械制造商的具体情况。**
 
-ISO/IEC 17021:2011 clauses: 5.1.3, 9.1.14, 9.1.15, 9.2.2.5, 9.2.4, 9.2.5, 9.3.3, 9.4.3, 9.6.1, 9.6.2, 9.6.4, 9.6.5, 
+**适用要求**
 
-IMDRF MDSAP WG N3 clauses: 6.1.7, 7.3.1, 7.5.1, 9.2.6, 9.4.3, 9.4.5
+ISO/IEC 17021:2011 条款：8.6.3, 9.1.1, 9.1.2.2.1, 9.1.2.2.2, 9.1.2.2.3, 9.1.2.3, 9.1.4, 9.1.5, 9.1.7, 9.1.8, 9.2.1, 9.2.2.1, 9.2.2.2, 9.2.3, 9.3.1, 9.4.1, 9.5
 
-#### **Verify that the Auditing Organization implemented the decisions and conducted follow-up reviews and audits, including unannounced audits.**
+IMDRF MDSAP WG N3 条款：8.8.1, 9.2.1, 9.2.2, 9.2.3, 9.3.1, 9.4.2, 9.4.4, 9.4.5, 9.5.1, 9.5.2(1&2)
 
-**Applicable Requirement**
+#### **确认审核机构已选择并指定具备相应资质的审核团队，以进行每项审核。确认审核机构已将审核范围、目标和任务告知审核团队，以便进行审核计划的制定以及团队成员之间的责任分配。确认审核机构已告知医疗器械制造商审核团队的组成和审核计划。**
 
-ISO/IEC 17021:2011 clauses: 9.1.13, 9.5.2, 9.6.3, 9.6.4 
+**适用要求**
 
-IMDRF MDSAP WG N3 clauses: 9.5, 9.6.1
+ISO/IEC 17021:2011 条款：7.2.4, 7.2.5, 7.2.7, 9.1.3.1 至 9.1.3.4, 9.1.6, 9.1.7, 9.1.8, 9.2.2.3, 9.2.2.4
 
-#### **Verify that the Auditing Organization evaluated and made decisions on appeals. Verify that appeals are input to the Measurement, Analysis and Improvement process.**
+IMDRF MDSAP WG N3 条款：5.2.8, 7.3.1, 7.4.1, 7.5.1, 9.1.4, 9.5.2(1)
 
-**Applicable Requirement**
+#### **确认审核机构按照审核计划和认可的监管机构的要求进行审核。确认审核机构已满足 IMDRF MDSAP WG N3 规定的审核报告要求，包括对任何不符合情况的等级评估，以及任何认可的监管机构的要求。**
 
-ISO/IEC 17021:2011 clauses: 9.7 
+**适用要求**
 
-IMDRF MDSAP WG N3 clauses: 6.1.7, 9.1(Exceptions)
+ISO/IEC 17021:2011 条款：9.1.9, 9.1.10, 9.2.3, 9.3.2.1, 9.3.2.2, 9.4.2
 
-#### **Verify that the Auditing Organization maintained records on the audit and decision activities.**
+IMDRF MDSAP WG N3 条款：8.2, 9.1.2, 9.1.3, 9.2.1, 9.2.2, 9.2.4, 9.2.5, 9.3.1, 9.4.1
 
-**Applicable Requirement**
+#### **确认审核机构已审查制造商在审核期间识别出的任何不符合情况的响应。确认审核机构已适当要求和审查了必要的根本原因分析，以及相关的纠正和/或纠正措施计划。确认审核机构已验证这些措施的实施和有效性，并在必要时进行特别审核。**
 
-ISO/IEC 17021:2011 clauses 9.9
+**适用要求**
 
-IMDRF MDSAP WG N3 clauses: Not applicable
+ISO/IEC 17021:2011 条款：9.1.11, 9.1.12, 9.1.13, 9.5.2
 
-## Process: Information Management 
+IMDRF MDSAP WG N3 条款：9.5
 
-### Purpose
+#### **验证审核机构是否审查了审核报告以及其他相关信息，并在符合监管要求方面做出一致的决定。验证对于暂停、撤销或缩小任何认证范围的决定是否符合认可的监管机构的要求。**
 
-The purpose of the Information Management Process is to ensure effective documentation control and communication, between the Auditing Organization and the medical device manufacturers, the Regulatory Authorities and the public. The Information Management Process must ensure the necessary level of confidentiality. 
+**适用要求**
 
-### Outcomes
+ISO/IEC 17021:2011 条款：5.1.3、9.1.14、9.1.15、9.2.2.5、9.2.4、9.2.5、9.3.3、9.4.3、9.6.1、9.6.2、9.6.4、9.6.5
 
-As a result of the assessment of the Information Management process, objective evidence will show whether the Auditing Organization has:
+IMDRF MDSAP WG N3 条款：6.1.7、7.3.1、7.5.1、9.2.6、9.4.3、9.4.5
 
-  1. Established an effective process for documentation control.
-  2. Made appropriate information available about its activities and clients to Regulatory Authorities and the public.
-  3. Established appropriate contractual arrangements with its clients.
-  4. Implemented appropriate arrangements to safeguard confidentiality.
+#### **验证审核机构是否实施了决定，并进行了后续审查和审计，包括未事先通知的审计。**
 
-### Risks relative to this process
+**适用要求**
 
-The failure of the Information Management Process poses the following risks:
+ISO/IEC 17021:2011 条款：9.1.13、9.5.2、9.6.3、9.6.4
 
-  * Lack of control of internal documentation leading to inappropriate audits and decisions;
-  * Lack of control of information shared with external parties, potentially providing inaccurate, obsolete or misleading information; and/or,
-  * Leak of confidential information.
+IMDRF MDSAP WG N3 条款：9.5、9.6.1
 
-### Assessment Tasks
+#### **验证审核机构是否评估并做出对申诉的决定。验证申诉是否输入到测量、分析和改进流程中。**
 
-#### **Verify that procedures have been defined, documented, and implemented for the control of documents and records required by the quality management system. Confirm the organization retains records and at least one obsolete copy of controlled documents for a period of time not less than 15 years.**
+**适用要求**
 
-**Applicable requirements**
+ISO/IEC 17021:2011 条款：9.7
 
-ISO/IEC 17021:2011 clauses: 9.9.3, 9.9.4, 10.3.3, 10.3.4 
+IMDRF MDSAP WG N3 条款：6.1.7、9.1(例外情况)
 
-IMDRF MDSAP WG N3 clauses: 10.1.2 
+#### **验证审核机构是否维护了关于审核和决策活动的记录。**
 
-#### **Verify that the Auditing Organization made publicly accessible or provided upon request information describing its audit programs.**
+**适用要求**
 
-**Applicable Requirement**
+ISO/IEC 17021:2011 条款 9.9
 
-ISO/IEC 17021:2011 clauses: 8.1.1, 8.1.2, 9.7.2, 9.8.1 
+IMDRF MDSAP WG N3 条款：不适用
 
-IMDRF MDSAP WG N3 clauses: 5.2.6
+## 流程：信息管理
 
-#### **Verify that the Auditing Organization has provided detailed information to the medical device manufacturer regarding the audit and decisions process, including the process addressing complaints and appeals, as well as fees.**
+### 目的
 
-**Applicable Requirement**
+信息管理流程的目的是确保审核机构与医疗器械制造商、监管机构和公众之间有效的文档控制和沟通。信息管理流程必须确保必要的保密级别。
 
-ISO/IEC 17021:2011 clauses: 8.6.1, 8.6.2, 
+### 结果
 
-IMDRF MDSAP WG N3 clauses: 5.2.6
+根据信息管理流程的评估，客观证据将显示审核机构是否：
 
-#### **Verify that the Auditing Organization has established contractual arrangements with the medical device manufacturer specifying the responsibilities of both parties. Verify that the contractual arrangements allow for the recognizing Regulatory Authority to observe and assess the auditing organizations audits. Verify that the contractual arrangements give permission for the recognizing Regulatory Authority to exchange information with other Regulatory Authorities that maintain Confidentiality Agreements. Verify that the contractual arrangements specify requirements regarding the reference to their conformity status and potential action to deal with misuse or misrepresentation of the conformity status.**
+1. 建立了有效的文档控制流程。
+
+2. 向监管机构和公众提供有关其活动和客户的信息。
+
+3. 与其客户建立适当的合同关系。
+
+4. 实施适当的安排以保护保密性。
+
+### 针对该流程的风险
+
+信息管理流程的失败可能带来以下风险：
+
+* 缺乏对内部文档的控制，导致不适当的审计和决策；
+
+* 缺乏对与外部方共享的信息的控制，可能导致提供不准确、过时或误导性信息；或/以及，
+
+* 泄露机密信息。
+
+### 评估任务
+
+#### **验证是否已定义、记录并实施了用于控制符合质量管理体系要求的文档和记录的程序。确认组织保留至少 15 年的文档和记录，包括至少一个过时的控制文档副本。**
+
+**适用要求**
+
+ISO/IEC 17021:2011 条款：9.9.3、9.9.4、10.3.3、10.3.4
+
+IMDRF MDSAP WG N3 条款：10.1.2
+
+#### **验证审计机构是否公开提供或根据要求提供描述其审计程序的的信息。**
+
+**适用要求**
+
+ISO/IEC 17021:2011 条款：8.1.1、8.1.2、9.7.2、9.8.1
+
+IMDRF MDSAP WG N3 条款：5.2.6
+
+#### **验证审计机构是否已向医疗器械制造商提供有关审计和决策流程的详细信息，包括处理投诉和申诉的流程，以及费用。**
+
+**适用要求**
+
+ISO/IEC 17021:2011 条款：8.6.1、8.6.2
+
+IMDRF MDSAP WG N3 条款：5.2.6
+
+#### **确认审核机构已与医疗器械制造商建立合同，明确双方的责任。确认合同允许认可的监管机构观察和评估审核机构的审计。确认合同允许认可的监管机构与拥有保密协议的其他监管机构交换信息。确认合同规定了关于引用其符合性状态以及处理不当使用或误报符合性状态的潜在行动的要求。**
 
 #### ****
 
-**Applicable Requirement**
+**适用要求**
 
-ISO/IEC 17021:2011 clauses: 5.1.2, 8.4, 8.5, 8.6.3, 9.5.1, 9.6.3, 9.6.6
+ISO/IEC 17021:2011 条款：5.1.2、8.4、8.5、8.6.3、9.5.1、9.6.3、9.6.6
 
-IMDRF MDSAP WG N3 clauses: 5.1 (Exceptions), 5.1.4, 5.1.5, 8.7.4, 8.8.1, 9.5.1, 9.5.2(3)
+IMDRF MDSAP WG N3 条款：5.1 (例外情况)、5.1.4、5.1.5、8.7.4、8.8.1、9.5.1、9.5.2(3)
 
-#### **Verify that the Auditing Organization implemented controls for providing the recognizing Regulatory Authorities with audit reports and certificates that meet regulatory requirements, as well as other required and requested reports and communications.**
+#### **确认审核机构已实施控制，以向认可的监管机构提供符合监管要求的审计报告和证书，以及其他所需和要求的报告和沟通。**
 
-**Applicable Requirement**
+**适用要求**
 
-ISO/IEC 17021:2011 clauses: 8.2
+ISO/IEC 17021:2011 条款：8.2
 
-IMDRF MDSAP WG N3 clauses: 6.1.3, 8.2, 8.7, 9.2.2, 9.4.6, 9.5.3, 9.6.1, 9.8.1
+IMDRF MDSAP WG N3 条款：6.1.3、8.2、8.7、9.2.2、9.4.6、9.5.3、9.6.1、9.8.1
 
-#### **Verify that the Auditing Organization made information on conformity status or certifications granted, suspended or withdrawn,** **publicly accessible or provided upon request.**
+#### **确认审核机构已公开提供或根据要求提供关于符合性状态或已授予、暂停或撤销的认证的信息。**
 
-**Applicable Requirement**
+**适用要求**
 
-ISO/IEC 17021:2011 clauses: 8.1.3, 8.1.4, 8.3, 9.6.3, 9.6.7, 9.8.10 
+ISO/IEC 17021:2011 条款：8.1.3、8.1.4、8.3、9.6.3、9.6.7、9.8.10
 
-IMDRF MDSAP WG N3 clauses: 8.3.1, 8.8.1 
+IMDRF MDSAP WG N3 条款：8.3.1、8.8.1
 
-#### **Verify that the Auditing Organization has defined, documented and implemented procedures and legally enforceable arrangements to safeguard confidentiality, unless disclosure is required by the requirements of IMDRF MDSAP documents or by law.**
+#### **确认审核机构已定义、记录并实施程序，并采取了具有法律效力的安排，以确保保密，除非IMDRF MDSAP文档的要求或法律要求需要披露。**
 
-**Applicable Requirement**
+**适用要求**
 
-ISO/IEC 17021:2011 clauses: 8.5, 9.9.3 
+ISO/IEC 17021:2011条款：8.5、9.9.3
 
-IMDRF MDSAP WG N3 clauses: 8.5, 8.7, 8.8
+IMDRF MDSAP WG N3条款：8.5、8.7、8.8
 
 
 <!-- fulltext-end -->

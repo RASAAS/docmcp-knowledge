@@ -10,13 +10,17 @@ title: Common Data Set for Adverse Event Data Exchange Between IMDRF Regulators
 [https://www.imdrf.org/documents/common-data-set-adverse-event-data-exchange-between-imdrf-regulators](https://www.imdrf.org/documents/common-data-set-adverse-event-data-exchange-between-imdrf-regulators)
 :::
 
+::: info
+This content has been machine-translated from the English original.
+:::
+
 <!-- fulltext-start -->
 
 ---
 
 ## 全文
 
-# Common Data Set for Adverse Event Data Exchange Between IMDRF Regulators
+# IMDRF监管机构之间不良事件数据交换的通用数据集
 
 **Document Number**: IMDRF/AET WG/N85 FINAL: 2024
 
@@ -24,1019 +28,1080 @@ title: Common Data Set for Adverse Event Data Exchange Between IMDRF Regulators
 
 ---
 
-Final Document  
+最终文档
+
 ---  
-IMDRF/AET WG/N85 FINAL: 2024  
-Common Data Set for Adverse Event Data Exchange Between IMDRF Regulators   
-Authoring Group  
-Adverse Event Terminology Working Group  
+IMDRF/AET WG/N85 最终版：2024
+IMDRF监管机构之间不良事件数据交换的通用数据集
+编写组
+不良事件术语工作组
 
-Preface
+前言
 
-© Copyright 2023 by the International Medical Device Regulators Forum. 
+© 2023年国际医疗器械监管论坛 版权所有。
 
-This work is copyright. Subject to these Terms and Conditions, you may download, display, print, translate, modify and reproduce the whole or part of this work for your own personal use, for research, for educational purposes or, if you are part of an organisation, for internal use within your organisation, but only if you or your organisation do not use the reproduction for any commercial purpose and retain all disclaimer notices as part of that reproduction. If you use any part of this work, you must include the following acknowledgement (delete inapplicable): 
+本作品受版权保护。在遵守本条款和条件的前提下，您可以下载、显示、打印、翻译、修改和复制本作品的全部或部分内容，用于您个人的使用、研究、教育目的，或如果贵组织是组织，则用于贵组织的内部使用，但前提是您或贵组织不得将复制用于任何商业目的，并且保留所有版权声明。如果您使用本作品的任何部分，必须包含以下声明（删除不适用的内容）：
 
-“[Translated or adapted] from [insert name of publication], [year of publication], International Medical Device Regulators Forum, used with the permission of the International Medical Device Regulators Forum. The International Medical Device Regulators Forum is not responsible for the content or accuracy of this [adaption/translation].” 
+“[翻译或改编]自[插入出版物名称]，[出版年份]，国际医疗器械监管论坛，经国际医疗器械监管论坛授权使用。国际医疗器械监管论坛不对本[改编/翻译]的内容或准确性负责。”
 
-All other rights are reserved and you are not allowed to reproduce the whole or any part of this work in any way (electronic or otherwise) without first being given specific written permission from IMDRF to do so. Requests and inquiries concerning reproduction and rights are to be sent to the IMDRF Secretariat. 
+除上述内容外，所有其他权利均保留，未经IMDRF事先书面许可，您不得以任何方式（包括电子方式）复制本作品的全部或任何部分。有关复制和版权的请求和咨询应发送给IMDRF秘书处。
 
-Incorporation of this document, in part or in whole, into another document, or its translation into languages other than English, does not convey or represent an endorsement of any kind by the IMDRF. 
+将本文件（部分或全部）纳入其他文档，或将其翻译成其他语言，并不代表IMDRF的认可。
 
-**Jeff Shuren, IMDRF chair**
+**杰夫·舒伦，IMDRF主席**
 
-Content
+内容
 
-1\. Introduction 4
+1\. 简介 4
 
-2\. Scope 5
+2\. 范围 5
 
-3\. References 6
+3\. 参考文献 6
 
-4\. Common Data Set (CDS) 7
+4\. 常用数据集 (CDS) 7
 
-5\. Reasons for Data Sharing 8
+5\. 数据共享的原因 8
 
-6\. Format for Sharing Common Data Set 9
+6\. 常用数据集的格式 9
 
-7\. How to Exchange Information 13
+7\. 如何交换信息 13
 
-8\. Confidentiality Of Data 14
+8\. 数据保密性 14
 
-Definitions 15
+定义 15
 
-Appendix A 16
+附录 A 16
 
-Appendix B 44
+附录 B 44
 
-Appendix C 45
+附录 C 45
 
-# Introduction 
+# 简介
 
-This document has been prepared by the IMDRF Adverse Event Terminology Working Group (AET WG), charged with developing a harmonized terminology for reporting adverse events related to medical devices including in-vitro diagnostics (IVDs).
+本文件由 IMDRF 不良事件术语工作组 (AET WG) 编制，该工作组负责制定用于报告与医疗器械相关的不良事件（包括体外诊断（IVD））的统一术语。
 
-Since GHTF SG2/N54 (Medical Devices Post Market Surveillance: Global Guidance for Adverse Event Reporting for Medical Devices) was published in 2006, most GHTF members implemented adverse event reporting systems aligning with the general principles of N54. Building on the work of N54, the IMDRF AET WG developed globally harmonized terminology and codes for product problem, cause investigation, health effects, and components (IMDRF/N43). Widespread use of a single, appropriate adverse event terminology and coding system is expected to improve signal detection and validation by adverse event management systems enabling a faster response by both industry and regulatory authorities for public health safety. 
+自 2006 年发布 GHTF SG2/N54（医疗器械的上市后监测：医疗器械不良事件报告的全球指南）以来，大多数 GHTF 成员已实施符合 N54 总体原则的不良事件报告系统。 在 N54 的基础上，IMDRF AET WG 制定了全球统一的术语和代码，用于产品问题、原因调查、健康影响和组件（IMDRF/N43）。 广泛使用单一、适当的不良事件术语和编码系统，预计将提高不良事件管理系统中的信号检测和验证能力，从而使行业和监管机构能够更快地做出反应，以确保公共健康安全。
 
-As both regulators and industry work towards implementation of IMDRF terminology, an important next step is establishing a “Common Data Set” (CDS) for global adverse event report information exchange, so that all stakeholders can utilize the full potential of the IMDRF Terminology for signal detection and trend analysis (similar to the ICH E2B standard in pharmacovigilance). Therefore, following the completion of all IMDRF Terminology (IMDRF/N43: Edition 4 2020) and outlining the process for future maintenance, (IMDRF/N44: Edition 3 2020), the group has started the process toward a CDS by reviewing the current adverse event reporting datasets collected by representative IMDRF member jurisdictions to develop a common data set for data exchange as well as guidelines for the exchange of adverse event data between regulators. This CDS will then be used to by regulators to exchange data for signal detection, with the aim of expanding it to the final goal of a harmonised CDS for global adverse event reporting. 
+随着监管机构和行业共同努力，以实施 IMDRF 术语，一个重要的下一步是建立一个“通用数据集”(CDS)，用于全球不良事件报告信息的交换，以便所有利益相关者能够充分利用 IMDRF 术语，用于信号检测和趋势分析（类似于药学监测中的 ICH E2B 标准）。因此，在完成所有 IMDRF 术语（IMDRF/N43：2020 第 4 版）并制定未来维护流程（IMDRF/N44：2020 第 3 版）后，该组已开始建立 CDS 的过程，通过审查由代表性的 IMDRF 成员辖区收集的不良事件报告数据集，以开发一个通用的数据集，用于数据交换，以及监管机构之间交换不良事件数据的指南。该 CDS 将被监管机构用于数据交换，以进行信号检测，旨在将其扩展到全球不良事件报告的统一 CDS 的最终目标。
 
-This document is not defining how to detect and validate signals or how the jurisdictions should manage them. This document only applies to the actual exchange of adverse event data, based on the common data set.
+本文件不涉及如何检测和验证信号，以及相关管辖区应如何管理这些信号。本文件仅适用于基于通用数据集的不良事件数据的实际交换。
 
-# Scope 
+# 范围
 
-This document is intended to provide guidance on the CDS:
+本文件旨在提供关于 CDS 的指导：
 
-  * Defining the draft CDS fields and format 
-  * Reasons for sharing.
-  * Format for sharing.
-  * Guidance on confidentiality.
+* 定义草案的 CDS 字段和格式
 
-# References
+* 分享的原因。
 
-The following documents were used in the development of this document.
+* 分享的格式。
 
-  * IMDRF/AE WG/N43 FINAL:2020 (Edition 4) IMDRF terminologies for categorized Adverse Event Reporting (AER): terms, terminology structure and codes
-  * IMDRF/RPS WG/N19 FINAL:2016 Common Data Elements for Medical Device Identification
-  * IMDRF/RPS WG/N45 Final :2017 Data Exchange Guidelines – Common Data Elements for medical Device Identification 
-  * IMDRF/NCAR WG/N14FINAL:2023 (Edition 4) Medical Devices: Post-Market Surveillance: National Competent Authority Report Exchange Criteria and Report Form
-  * IMDRF/GRRP WG/N47 FINAL:2018 Essential Principles of Safety and Performance of Medical Devices and IVD Medical Devices 
-  * GHTF/SG2/N54R8:2006 Post Market Surveillance: Global Guidance for Adverse Event Reporting for Medical Devices Appendix A
-  * GHTF/SG2/N87:2012 An XML Schema for the electronic transfer of adverse event data between manufacturers, authorized representatives and National Competent Authorities (Based on GHTF/SG2/N54: 2006)
-  * IMDRF member jurisdiction’s adverse event reporting data-sets
+* 关于保密性的指导。
 
-# Common Data Set (CDS) 
+# 参考文献
 
-The common data set is mostly compromised of a subset of the Universal Data Set from GHTF N54 published 15 years ago, but it also adds some additional elements which were widely collected by IMDRF members in their present reporting templates. 
+以下文件用于本文件的开发。
 
-There were numerous fields which the WG believed could possibly be harmonized in the future, but at present, the WG defined the minimum data set for exchange for signal detection whilst maintaining data protection.
+IMDRF/AE WG/N43 FINAL:2020 (第4版) IMDRF 术语：对分类的不良事件报告 (AER) 的术语、术语结构和代码
 
-The CDS will be updated and reviewed in the future based on learning from the exchange of data. 
+IMDRF/RPS WG/N19 FINAL:2016 医疗器械识别的通用数据元素
 
-The elements of the CDS at this time are defined at a high level, to allow each regulator to map their individual fields into the CDS. Formats for each field include string (alpha-numeric free text), date, picklist, and numeric. The picklist of the current CDS is understood to be a combination of each regulator’s picklist, to be further examined and harmonized in the future. 
+IMDRF/RPS WG/N45 Final :2017 数据交换指南 – 医疗器械识别的通用数据元素
 
-Key points to note:
+IMDRF/NCAR WG/N14FINAL:2023 (第4版) 医疗器械：上市后监测：国家主管机构报告交换标准和报告表
 
-  * Not all IMDRF jurisdictions may gather all information included in the CDS, in which case only the available fields should be shared.
-  * Only the most recent version of the report should be shared.
-  * Data should be input into this CDS “as is” with only minimum (if any) complex re-mapping or extraction/conversion of data to “fit” the CDS- as the focus is on sharing the data. 
-  * Clinical Trial/Premarket will not be exchanged.
-  * Non industry reports will not be exchanged.
+IMDRF/GRRP WG/N47 FINAL:2018 医疗器械和体外诊断医疗器械的安全和性能的基本原则
 
-While the adverse event reporting system used for drugs employs a standard reporting format (Individual Case Safety Reports based on the ICH E2B standard) and global database (VigiBase, maintained by the WHO), the scope of this current common dataset is limited to data exchange between regulators. This includes details of what data should be considered for exchange as well as details of how the data can be exchanged. This document does not prescribe or suggest when a Regulator my consider the exchange data. It is up to the Regulator in individual jurisdictions to determine when they will share their data. 
+GHTF/SG2/N54R8:2006 上市后监测：医疗器械不良事件报告的全球指导，附录 A
 
-This exchange differs from the NCAR exchange as this is the sharing of the actual adverse event data. This data exchange could lead to an NCAR being sent or could occur as follow-up to an NCAR.
+GHTF/SG2/N87:2012 用于制造商、授权代表和国家主管机构之间电子传输不良事件数据的 XML 模式 (基于 GHTF/SG2/N54: 2006)
 
-(See Appendix A for detail of elements in the CDS.)
+IMDRF 成员辖区的不良事件报告数据集
 
-# Reasons for Data Sharing 
+# 通用数据集 (CDS)
 
-There are multiple reasons why data might need to be shared/exchanged. The following are examples of why jurisdiction may decide to exchange data.
+通用数据集主要由 GHTF N54 发布的 15 年前的通用数据集中的一个子集组成，但它还添加了一些额外的元素，这些元素目前由 IMDRF 成员在他们的报告模板中广泛收集。
 
-  * Sharing on demand when one jurisdiction has a need/request.
-  * Identifying whether a trend is a local or global trend.
-  * Global signal analysis/identification.
-  * Development and testing of analytical algorithms.
-  * Learning for data collection harmonization for effective signal identification.
+WG 认为，存在许多字段，未来有可能进行标准化，但目前，WG 定义了用于信号检测的最小数据集，同时保持了数据保护。
 
-Data sharing/exchange may be between two jurisdictions or across multiple jurisdictions. It is expected that any jurisdiction that requests data will share any findings from their review back to the jurisdiction providing the data.
+CDS 将在未来根据数据交换的学习进行更新和审查。
 
-# The Exchange of Information
+目前，CDS 的各个要素定义为高层，以便每个监管机构可以将其自身的字段映射到 CDS 中。每个字段的格式包括字符串（纯字母数字文本）、日期、下拉列表和数字。当前 CDS 的下拉列表被理解为每个监管机构下拉列表的组合，将在未来进一步审查和协调。
 
-**How to request information**
+需要注意的关键点：
 
-When requesting information from another jurisdiction it is essential that the request is very clear so that the recipient can easily understand the incident reports that need to be included in the data set that is shared. 
+* 并非所有 IMDRF 辖区都可能收集 CDS 中包含的所有信息，在这种情况下，应仅共享可用的字段。
 
-The CDS form must be used. The form consists of two sections:
+* 仅应共享最新版本的报告。
 
-  1. A data request section that is completed by the requestor and provided to those NCAs from whom data is requested. 
-  2. A data response section that is completed by the responder and should be included with the data in the response.
+* 数据应“原样”输入到此 CDS 中，仅在必要时进行最少的复杂重新映射或数据提取/转换，以适应 CDS——因为重点在于共享数据。
 
-The form template can be found in Appendix C.
+* 临床试验/上市前研究将不进行交换。
 
-The detail below outlines how each section of the form should be completed by the requestor and the responder. 
+* 非行业报告将不进行交换。
 
-  1. **Details to be completed by the Requestor.**
+虽然用于药物的不良事件报告系统采用标准报告格式（基于 ICH E2B 标准的个案安全性报告）和全球数据库（VigiBase，由 WHO 维护），但当前共用数据集的范围仅限于监管机构之间的数据交换。这包括应考虑交换的数据以及如何交换数据的详细信息。本文件不规定或建议监管机构何时可以考虑交换数据。这取决于每个辖区的监管机构来决定何时共享其数据。
 
-**Title of the Request**
+与 NCAR 交换不同，这是实际不良事件数据的共享。这种数据交换可能导致发送 NCAR，也可能作为 NCAR 的后续。
 
-The requestor should include a short name for the request that the responder can use in the filename of the response that is provided.
+(请参阅附录 A 以了解 CDS 中的各项要素。)
 
-**Request Details**
+# 数据共享的原因
 
-This section of the form should detail who the request is from.
+可能需要共享/交换数据的理由有很多。以下是一些司法管辖区决定交换数据的例子。
 
-It should also detail when the request is being made and the expected/requested date for a reply.
+* 按需共享，当一个司法辖区有需求/请求时。
 
-**Specific Detail of the Request**
+* 确定趋势是本地趋势还是全球趋势。
 
-This section should detail the information that is being sought. A detailed description of what is being sought should be provided followed by guidance on how the data should be searched using the IMDRF codes.
+* 全球信号分析/识别。
 
-An outline of the priority or most important codes of interest, or in which sequence the codes should be searched e.g. the search should be conducted using Annex A codes first then Annex E and then Annex G. A listing of all cases with Annex A codes should be provided with those case that include Annex A and Annex E and/or G highlighted.   
-Relevant documents or links to relevant documents can be provided. 
+* 开发和测试分析算法。
 
-Where the request requires an unusual / different timeframe of interest this should be specified, and rationale provided e.g. implantable devices may require a different time period.
+* 学习，以实现有效信号识别的数据收集协调。
 
-As the requester of information, you may need to filter the data you receive.
+数据共享/交换可能发生在两个司法辖区之间，或在多个司法辖区之间。 预计，任何请求数据的司法辖区应将其审查的结果反馈给提供数据的司法辖区。
 
-This is to minimise the burden on the jurisdiction sharing the data, and to maximise the data shared, as some fields may not be collected by some jurisdictions or be provided by adverse event reporters. 
+# 信息交换
 
-**Scope of the Request**
+**如何请求信息**
 
-Select the appropriate sentence that best describes the “Type of request” and “the focus of the request”.
+在向其他司法辖区请求信息时，至关重要的是，请求必须非常明确，以便接收方能够轻松理解需要包含在共享的数据集中，哪些事件报告。
 
-**Specific Search Criteria**
+必须使用 CDS 表格。 该表格包含两个部分：
 
-Date Period 
+1. 由请求方填写，并提供给需要提供数据的 NCAs 的数据请求部分。
 
-By default, the date period refers to the “initial date of receipt” field detailed in the CDS. 
+2. 由响应方填写，并应包含在响应数据中。
 
-If the search requires a different date (e.g. awareness date), please provide details in the “Specific Detail of the Request”.
+表格模板可在附录 C 中找到。
 
-Specific Device Details
+以下详细说明了请求方和响应方应如何填写表格的各个部分。
 
-Where applicable for the request use the options listed to identify the device of interest.
+1. **请求方应填写的内容**
 
-If the request is not specific to a device the field can be left blank.
+**请求标题**
 
-Manufacturer Details
+请求方应包含一个简短的名称，以便响应方可以在提供的响应的文件名中使用。
 
-Please provide details of the Manufacturer’s name/manufacturers’ names. 
+**请求详情**
 
-If the request is not specific to a manufacturer the field can be left blank.
+本部分应详细说明请求的来源。
 
-**IMDRF Codes of Interest**
+它还应详细说明请求的时间以及预计/要求的回复日期。
 
-In this section, please detail the IMDRF codes of interest.
+**具体请求信息**
 
-Where you wish to have a particular focus on specific codes, please detail your requirements in the “Specific Detail of the Request”.
+本部分应详细说明所寻求的信息。 应提供对所寻求信息的详细描述，然后提供指导，说明如何使用 IMDRF 编码进行搜索。
 
-Care should be given to the level of codes (parent or child) requested, as not all jurisdictions use all levels. By default, if you request a parent term the response should include all the associated child terms.
+提供对优先或最感兴趣的编码的概述，或说明编码应以何种顺序进行搜索，例如，应首先使用 Annex A 编码，然后是 Annex E，然后是 Annex G。 应提供所有包含 Annex A、Annex E 和/或 Annex G 编码的案例清单，并突出显示这些案例。
+可以提供相关的文档或指向相关文档的链接。
 
-  1. **Details to be completed by the Responder.**
+如果请求需要不同的/不寻常的时间范围，应明确说明，并提供理由，例如，植入式设备可能需要不同的时间范围。
 
-**Responder Details**
+作为信息请求者，您可能需要过滤您收到的数据。
 
-This section of the form should provide details of the organisation that is responding to the request, including the responder’s name and email address.
+这样做是为了减轻共享数据的管辖区的负担，并最大限度地提高共享数据的量，因为某些字段可能并非所有管辖区都收集或由不良事件报告人提供。
 
-**Specific details of how the data was generated.**
+**请求范围**
 
-This section should detail how your organisation has generated the data provided. 
+选择最能描述“请求类型”和“请求重点”的句子。
 
-Details of the specific search criteria used should be included.
+**具体搜索标准**
 
-Where you may have deviated from the original request. E.g. Date field, codes level, this should be highlighted and explained.
+日期范围
 
-Where delayed reporting by the manufacturer may impact the number of reports this should be highlighted.
+默认情况下，日期是指 CDS 中详细说明的“初始接收日期”字段。
 
-**Additional Comments**
+如果搜索需要不同的日期（例如，意识日期），请在“具体请求详情”中提供详细信息。
 
-Additional information can be included in this section to assist the requestor in the interpretation of the data you provided or any observation that you have noted when collating the data that you think may assist the requestor. 
+具体设备信息
 
-# Format for Sharing Common Data Set 
+根据需要，使用列出的选项来识别感兴趣的设备。
 
-General guidelines on the sharing of data include (See Appendix A for field level formats)
+如果请求不针对特定设备，则该字段可以留空。
 
-  * Use spreadsheet file with the defined column headers detailed in Appendix A 
-  * One line for one report for one device (Incidents reported with multiple devices involved must be split into multiple lines)
-  * In case a single cell contains multiple values, e.g. IMDRF adverse events codes of a single annex, these need to be separated by a semi colon, without any padding spaces.
-  * In case the jurisdiction does not collect a specific field the exact string ‘ _Not collected’_ is to be used. 
-  * Where no data is provided but the specific field is collected by the jurisdiction the convention is to include the field but to leave it blank.
-  * The spreadsheet should be named following the guidance in Appendix A, including the “request title**”** provided in the request form.
+制造商信息
 
-Note: The format may be subject to change in the future to facilitate data quality checks, e.g., by sharing via XML format accompanied with a XSD to validate the data, or to allow directly for advanced queries by exchange via database formats such as SQLite.
+请提供制造商的名称/制造商名称。
 
-# How to Exchange Information
+如果请求不针对特定制造商，则该字段可以留空。
 
-It is recommended that the Common Data set should be shared via secure email. 
+**感兴趣的 IMDRF 编码**
 
-The IMDRF Adverse Event Terminology Working Group will establish and maintain a list of a contact points for the purpose of the exchange of Common Data Set. A copy of the latest version of the contact point listing will be made available to all jurisdictions and entities associated with the IMDRF. 
+在此部分，请详细说明感兴趣的 IMDRF 编码。
 
-When circulating a CDS or requesting data from another jurisdiction the cover email should detail the reason why the data is being sought or provided and the confidentiality arrangement that is supporting the exchange or the request (see section 9.0 below). 
+如果您希望重点关注特定的编码，请在“具体请求详情”中提供您的要求。
 
-The email should also detail a recommended deadline for the response to the requested information. 
+应注意请求的编码级别（父级或子级），因为并非所有司法管辖区都使用所有级别。 默认情况下，如果您请求父级术语，则响应应包含所有相关的子级术语。
 
-In some instances, where the content of a CDS supports or supplements the content of an NCAR that is being exchange under section 4.1 **Exchange criteria** of the Medical Devices: Post-Market Surveillance: National Competent Authority Report Exchange Criteria and Report Form IMDRF/NCAR WG/N14FINAL:2023 (Edition 4), the CDS could be added as an appendix to the NCAR. 
+1. **需要由响应方填写的内容。**
 
-# Confidentiality Of Data 
+**响应方信息**
 
-Adverse event reports may contain confidential information. Different jurisdictions consider different information confidential. When sharing reports, all parties must take all precautions to keep data secure. 
+本表格的这一部分应提供对响应请求的组织的详细信息，包括响应方的名称和电子邮件地址。
 
-  * Jurisdictions should only share data with other jurisdictions with whom they have confidentiality arrangements – either through Memoradum of Understanding (MOU) or Data Sharing Agreements (DSA). In either case, the exchange of incident level data should be allowed in the agreements.
-  * Jurisdictions must satisfy themsleves that the incident level data they hold may be shared with other jurisdictions e.g that the originator of the data has consented (some jurisdictions have overarching regulations/laws that allow this)
-  * Any aggregation/reporting/analsyis on the data should carefully follow the agreements in place between jurisdictions. Data received from a jurisdiction may not be shared with another jurisdiction however it may be possible to share aggregate analysis results with other jurisdiction if no individual data is shared.
-  * None of the information shared may be released without the explicit authorization of the authoring NCA.
-  * Each jurisdiction should determine the appropriate measures to assure secure exchange and storage of data in accordance with the agreements that are in place between parties
-  * Data should be destroyed when it is no longer needed.
-  * No data which can identify individual patient(s) can be shared among jurisdictions.
+**关于数据生成方式的具体详情。**
 
-# Definitions
+本部分应详细说明您的组织如何生成提供的。
 
-### 
+应包含使用的具体搜索标准。
 
-Term | Meaning   
----|---  
-**Sqlite**|  SQLite is an embedded SQL database engine that requires no configuration and reads and writes directly to ordinary disk files.  
-**XML (Extensible Markup Language)**| **XML Extensible Markup Language is** a condensed form of Standard Generalized Markup Language (SGML) that enables developers to create customized tags that offer flexibility in organizing and presenting information. XML enables data to be organized and exchanged in ways that were previously impossible or very difficult. By using customised XML schemas, specific pieces of business data can be identified and extracted from ordinary business documents.****  
-**XSD** (**XML Schema Definition**),| **XSD** (**XML Schema Definition**), a recommendation of the World Wide Web Consortium (W3C), specifies how to formally describe the elements in an Extensible Markup Language (XML) document. It can be used by programmers to verify each piece of item content in a document, to assure it adheres to the description of the element it is placed in.  
+如果您的组织偏离了原始请求，例如，日期字段、编码级别，应进行突出显示和解释。
+
+如果制造商的报告延迟可能会影响报告的数量，则应突出显示这一点。
+
+**附加评论**
+
+可以在本部分添加更多信息，以帮助请求方解释您提供的或在整理数据时您注意到的任何观察结果，这些信息可能对请求方有帮助。
+
+# 共享通用数据集的格式
+
+关于数据共享的一般指导包括（参见附录 A 中按字段的格式）
+
+* 使用带有附录 A 中定义的列标题的电子表格文件
+
+* 每种设备，一份报告（涉及多个设备的事件应拆分为多行）
+
+* 如果单个单元格包含多个值，例如，IMDRF 的单一附件不良事件代码，则应使用分号分隔，不得有任何填充空格。
+
+* 如果管辖范围未收集特定字段，则应使用精确的字符串“ _未收集_”
+
+* 如果管辖范围收集了特定字段，但没有提供数据，则应包含该字段，但留空。
+
+* 电子表格应按照附录 A 中的指导进行命名，包括请求表中的“请求标题”。
+
+注意：为了方便数据质量检查，格式可能会在未来进行更改，例如通过使用 XML 格式，并附带 XSD 进行数据验证，或直接通过数据库格式（如 SQLite）进行高级查询。
+
+# 如何交换信息
+
+建议通过安全的电子邮件共享通用数据集。
+
+IMDRF 不良事件术语工作组将建立和维护一个联系点列表，用于通用数据集的交换。所有与 IMDRF 相关的辖区和实体将获得最新版本的联系点列表的副本。
+
+在分发通用数据集或从其他辖区请求数据时，电子邮件应详细说明请求或提供数据的理由，以及支持交换或请求的保密安排（见下文 9.0）。
+
+电子邮件还应详细说明对请求的信息的建议回复截止日期。
+
+在某些情况下，如果通用数据集的内容与在《医疗器械：上市后监测：国家主管机构报告交换标准和报告表 IMDRF/NCAR WG/N14FINAL:2023（第 4 版）》第 4.1 条“交换标准”下交换的 NCAR 的内容相辅相成，则可以将通用数据集作为 NCAR 的附录。
+
+# 数据保密
+
+不良事件报告可能包含敏感信息。不同的辖区对不同的信息具有保密性。在共享报告时，所有相关方必须采取一切预防措施以确保数据的安全。
+
+* 各辖区应仅与具有保密协议的辖区共享数据，即通过谅解备忘录（MOU）或数据共享协议（DSA）。无论哪种情况，协议应允许交换事件级别的数据。
+
+* 各辖区必须确认其掌握的事件级别数据是否可以与其他辖区共享，例如，数据来源方是否已同意（某些辖区有涵盖性的法规/法律，允许这样做）。
+
+* 任何对数据的汇总/报告/分析都应严格遵守各辖区之间的协议。来自一个辖区的任何数据不得与另一个辖区共享，但如果未共享任何个人数据，则可能与其他辖区共享汇总分析结果。
+
+* 除非获得作者NCA的明确授权，否则不得公开任何信息。
+
+* 每一方应确定适当的措施，以确保符合协议，安全地交换和存储数据。
+
+* 数据应在不再需要时被销毁。
+
+* 不能在不同辖区之间共享任何可以识别单个患者的数据。
+
+# 定义
+
+###
+
+术语 | 含义
+---|---
+**Sqlite** | SQLite 是一种嵌入式 SQL 数据库引擎，无需配置，可以直接读取和写入普通磁盘文件。
+**XML (Extensible Markup Language)** | **XML 可扩展标记语言** 是标准通用标记语言 (SGML) 的一种简写形式，它使开发人员能够创建自定义标签，从而提供在组织和呈现信息方面的灵活性。 XML 允许以以前不可能或非常困难的方式对数据进行组织和交换。 通过使用自定义的 XML 模式，可以将特定的业务数据从普通业务文档中识别和提取。
+**XSD** (**XML Schema Definition**) | **XSD** (**XML Schema Definition**)，是万维网联盟 (W3C) 的建议，指定了如何正式描述可扩展标记语言 (XML) 文档中的元素。 程序员可以使用它来验证文档中每个项目的内容，以确保它符合其所放置的元素的描述。
+
 |   
 |   
 
-# Appendix A – Common Data Set Elements
+附录 A – 常见的数据集元素
 
-Contents
+内容
 
-File information 18
+文件信息 18
 
-File type 18
+文件类型 18
 
-Naming convention 18
+命名约定 18
 
-Headers 18
+标题 18
 
-A. Administrative Information 20
+A. 行政信息 20
 
-A.1 Regulatory authority providing information 20
+A.1 提供信息的监管机构 20
 
-A.2 Language of Report 20
+A.2 报告语言 20
 
-A.3 Regulatory authority reference number 21
+A.3 监管机构参考编号 21
 
-A.4 Submitter reference number 21
+A.4 提交者参考编号 21
 
-A.5 Initial date of receipt 21
+A.5 收到日期 21
 
-A.6 Latest date of receipt 22
+A.6 收到最新日期 22
 
-A.7 Date of incident 22
+A.7 事故发生日期 22
 
-A.8 Submitter awareness date 23
+A.8 提交方知晓日期 23
 
-A.9 Report version 23
+A.9 报告版本 23
 
-A.10 Classification of incident 24
+A.10 事故分类 24
 
-A.11 Report submitter 24
+A.11 报告提交人 24
 
-A.12 Manufacturer name 25
+A.12 制造商名称 25
 
-A.13 Original reporter occupation 25
+A.13 原始报告人职业 25
 
-A.14 Location where event occurred 26
+A.14 事故发生地点 26
 
-A.15 Country where event occurred 26
+A.15 事故发生国家 26
 
-D. Medical Device Information 27
+D. 医疗器械信息 27
 
-D.1 Device Identifier (DI) 27
+D.1 医疗器械标识符 (DI) 27
 
-D.2 UDI Product Identifier (PI) 27
+D.2 UDI 产品标识符 (PI) 27
 
-D.3 Medical device terminology used 28
+D.3 医疗器械术语 28
 
-D.4 Medical device nomenclature code 28
+D.4 医疗器械命名法代码 28
 
-D.5 Medical device nomenclature description 29
+D.5 医疗器械命名法描述 29
 
-D.6 Medical device name 29
+D.6 医疗器械名称 29
 
-D.7 Model 29
+D.7 型号 29
 
-D.8 Combination product 30
+D.8 组合产品 30
 
-D.9 Serial number(s) 30
+D.9 序列号(们) 30
 
-D.10 Lot/batch number(s) 31
+D.10 批号/批量号(们) 31
 
-D.11 Software version 31
+D.11 软件版本 31
 
-D.12 Firmware version 31
+D.12 固件版本 31
 
-D.13 Device manufacturing date 32
+D.13 医疗器械制造日期 32
 
-D.14 Usage of the device 32
+D.14 医疗器械使用方式 32
 
-D.15 Device expiry date 33
+D.15 医疗器械有效期 33
 
-D.16 Date when device was implanted 33
+D.16 医疗器械植入日期 33
 
-D.17 Date when device was explanted 34
+D.17 医疗器械移除日期 34
 
-I. Incident information 35
+I. 事故信息 35
 
-I.1 Incident narrative 35
+I.1 事故报告 35
 
-I.2 Number of patients 35
+I.2 患者数量：35
 
-P. Patient information 36
+3. 患者信息
 
-P.1 Patient age string 36
+P.1 患者年龄字符串 36
 
-P.2 Patient sex 36
+P.2 患者性别 36
 
-P.3 IMDRF Clinical Signs, Symptoms and Conditions terms/codes (Annex E) 37
+P.3 IMDRF 临床表现、症状和疾病术语/编码 (附件 E) 37
 
-P.4 IMDRF Health Impact terms/codes (Annex F) 37
+P.4 IMDRF 的健康影响术语/代码 (附件 F) 37
 
-M. Manufacturer analysis and action 39
+M. 制造商分析与行动 39
 
-M.1 Investigation narrative 39
+M.1 调查报告 39
 
-M.2 IMDRF Type of Investigation terms/codes (Annex B) 39
+M.2 IMDRF 类型调查术语/代码 (附录 B) 39
 
-M.3 IMDRF Investigation Finding terms/codes (Annex C) 40
+M.3 IMDRF 调查结果术语/代码 (附件 C) 40
 
-M.4 IMDRF Investigation Conclusion terms/codes (Annex D) 41
+M.4 IMDRF 调查结论术语/代码 (附录 D) 41
 
-M.5 IMDRF Medical Device Problem terms/codes (Annex A) 41
+M.5 IMDRF 医疗器械问题术语/代码 (附录 A) 41
 
-M.6 IMDRF Medical Device Component terms/codes (Annex G) 42
+M.6 IMDRF 医疗器械组件术语/代码 (附件 G) 42
 
-M.7 Remedial Action Taken 43
+M.7 采取的纠正措施 43
 
-# File information
+# 文件信息
 
-## File type
+## 文件类型
 
-In order to share data efficiently and in a file format that is easily read and written, the IMDRF CDS currently uses spreadsheet format to communicate internally. 
+为了高效地共享数据，并使用易于阅读和写入的文件格式，IMDRF CDS 目前使用电子表格格式进行内部沟通。
 
-## Naming convention
+## 命名规范
 
-Every request should have a short title on the request form; the format of the filename should include this title. Filenames should be in the format YYYY-MM-DD_&lt;3166-1 alpha-2 countrycode&gt;_&lt;short title&gt;.xlsx, with the date being the date of the request (to distinguish between repeated requests with the same title), and the short title should be devoid of special characters that are not permitted in file names. 
+每个请求都应在请求表上包含一个简短的标题；文件名格式应包含此标题。文件名应采用 YYYY-MM-DD_&lt;3166-1 alpha-2 国家代码&gt;_&lt;简短标题&gt;.xlsx 格式，其中日期应为请求日期（用于区分具有相同标题的重复请求），并且简短标题应不包含文件名中不允许使用的特殊字符。
 
-e.g., if a request form is titled “Needle-stick injuries with Company_name needles” with a request date of October 2, 2024, a response file sent from Japan’s PMDA could be titled 2024-10-02_JP_ Needle-stick injuries with Company_name needles.xlsx
+例如，如果一份请求表标题为“使用 Company_name 针头的针刺伤”，请求日期为 2024 年 10 月 2 日，那么来自日本 PMDA 的回复文件可能命名为 2024-10-02_JP_使用 Company_name 针头的针刺伤.xlsx。
 
-## Headers
+## 标题
 
-The sample file lists the headers and has the appropriate data types selected; if setting up an excel file from a blank form the following are recommended. 
+示例文件列出了标题，并选择了适当的数据类型；如果从空白表格创建 Excel 文件，则建议使用以下内容。
 
-Cell A1 can have the simple title of the response file. Common Data Set for Adverse Event Data Exchange between IMDRF Regulators 
+单元格 A1 可以包含响应文件的简单标题。 国际医疗设备监管机构（IMDRF）之间的不良事件数据交换的常用数据集
 
-The headers for each column should reflect the names of the columns from the common data set, which are currently the following: the full field names are listed, but the spreadsheet uses names without spaces to ensure compatibility with databases and programming languages, as indicated
+每列的标题应反映常用数据集中的列名，目前这些列名如下：列名已全部列出，但电子表格使用不含空格的名称，以确保与数据库和编程语言的兼容性，如指示。
 
-  1. Regulatory authority providing information
-  2. Language of report
-  3. Regulatory authority reference number
-  4. Submitter reference number
-  5. Initial date of receipt
-  6. Latest date of receipt
-  7. Date of incident
-  8. Submitter awareness date
-  9. Report version
-  10. Classification of incident
-  11. Report submitter
-  12. Manufacturer name
-  13. Original reporter occupation
-  14. Location where event occurred
-  15. Country where event occurred 
-  16. Device Identifier (DI)
-  17. UDI Product Identifier (PI)
+1. 提供信息的监管机构
+
+2. 报告的语言
+
+3. 监管机构的参考编号
+
+4. 提交者的参考编号
+
+5. 接收日期
+
+6. 收到日期（最新）
+
+7. 事故发生日期
+
+8. 提交人知晓日期
+
+9. 报告版本
+
+10. 事故分类
+  11. 报告提交人
+  12. 制造商名称
+  13. 报告人原职业
+  14. 事故发生地点
+  15. 事故发生国家
+  16. 医疗器械标识 (DI)
+  17. UDI 产品标识 (PI)
 
 | 
 
-  1. Medical device terminology used 
-  2. Medical device nomenclature code
-  3. Medical device nomenclature description
-  4. Medical device name
-  5. Model
-  6. Combination product
-  7. Serial number(s)
-  8. Lot/batch number(s)
-  9. Software version
-  10. Firmware version
-  11. Device manufacturing date
-  12. Usage of the device
-  13. Device expiry date
-  14. Date when device was implanted
-  15. Date when device was explanted
-  16. Incident narrative
-  17. Number of patients
-  18. Patient age string
-  19. Patient sex
+1. 医疗器械术语
+
+2. 医疗器械命名代码
+
+3. 医疗器械命名描述
+
+4. 医疗器械名称
+
+5. 型号
+
+6. 组合产品
+
+7. 序列号
+
+8. 批号/生产批次
+
+9. 软件版本
+
+10. 固件版本
+  11. 医疗器械的生产日期
+  12. 医疗器械的使用方式
+  13. 医疗器械的有效期
+  14. 医疗器械植入日期
+  15. 医疗器械移除日期
+  16. 事故描述
+  17. 患者数量
+  18. 患者年龄
+  19. 患者性别
 
 | 
 
-  1. IMDRF Clinical Signs, Symptoms and Conditions terms/codes (Annex E)
-  2. IMDRF Health Impact terms/codes (Annex F)
-  3. Investigation narrative
-  4. IMDRF Type of Investigation terms/codes (Annex B)
-  5. IMDRF Investigation Finding terms/codes (Annex C)
-  6. IMDRF Investigation Conclusion terms/codes (Annex D)
-  7. IMDRF Medical Device Problem terms/codes (Annex A)
-  8. IMDRF Medical Device Component terms/codes (Annex G)
-  9. Remedial Action Taken
+1. IMDRF 临床表现、症状和疾病术语/代码（附录 E）
 
----|---|---  
+2. IMDRF 的健康影响术语/代码（附件 F）
 
-The datatypes associated with each of these fields is documented with the descriptions of each field, below. The .xlsx format allows for up to 32,767 characters in any cell and 253 line breaks; if this is insufficient to hold the extracted data, the cell should have the fact that the data has been truncated should be noted. E.g., the cell could start with a tag like &lt;truncated&gt;
+3. 调查报告
 
-&lt;truncated&gt; Information was received from multiple sources…
+4. IMDRF 调查类型/代码 (附录 B)
 
-# A. Administrative Information
+5. IMDRF 调查结果术语/代码 (附件 C)
 
-These fields relate to the source of the report, identification numbers, dates associated with the report transmission/receipt, and other details that are about the report/reporting rather than the incident. 
+6. IMDRF 调查结论术语/代码 (附录 D)
 
-## A.1 Regulatory authority providing information
+7. IMDRF 医疗器械问题术语/代码 (附录 A)
 
-User Guidance| ISO-3166-1 alpha-2 country code for the regulatory authority who received the AER from the submitter/sender and is thus sharing the report in the Common Data Set format.  
+8. IMDRF 医疗器械组件术语/代码（附录 G）
+
+9. 采取的纠正措施
+
+---|---|---
+
+与这些字段相关的数据类型，以及每个字段的描述，请参见以下内容。 .xlsx 格式允许每个单元格最多包含 32,767 个字符，以及 253 个换行符；如果这不足以容纳提取的数据，则应在单元格中注明数据已被截断。 例如，单元格可以从一个标签开始，如 &lt;截断&gt;
+
+&lt;截断&gt; 信息来自多个来源…
+
+# A. 行政信息
+
+这些字段与报告的来源、标识号、与报告传输/接收相关的日期以及其他关于报告/报告人的信息相关，而不是与事件相关。
+
+## A.1 向提供信息的事权
+
+用户指南| ISO 3166-1 α-2 国家代码，用于监管机构（接收者）确认已收到来自提交方/发送方的 AER，并因此以通用数据集格式共享报告。
+---|---
+符合性| 必需
+数据类型| 字符串
+允许值| ISO 3166-1 (α2)
+列| A
+列名| 发送方组织
+业务规则| 在所有情况下，将使用两个字符的国家代码
+
+## A.2 报告的语言
+
+用户指南| ISO-639-1 语言代码，用于监管机构在 AER 中使用的语言。如果存在多种语言，请选择与提供的叙述或文本中主要部分对应的语言。
+---|---
+符合性| 可选
+数据类型| 字符串
+允许值| ISO-639-1
+列| B
+列名| language
+业务规则| 在所有情况下，将使用一个字符的语言代码
+
+## A.3 监管机构参考编号
+
+用户指南 | 由接收到相关AER的监管机构分配的编号
+符合性 | 必需
+数据类型 | 字符串
+允许值 | 自由文本
+列 | C
+列名 | ncaReportNo
+业务规则 |
+
+## A.4 提交方参考编号
+
+用户指南 | 提交人/发送方指定的参考编号。
+---|---
+符合性 | 必需
+数据类型 | 字符串
+允许值 | 自由文本
+列 | D
+列名 | mfrInternalNo
+业务规则 |
+
+## A.5 收到日期
+
+用户指导| RA收到提交者/发送者的初始 AER 的日期。此日期不会因更新或新数据而改变。
+---|---
+符合性| 必需
+数据类型| 日期
+允许值| YYYY-MM-DD (ISO 8601)
+列| E
+列名| initialDateOfReceipt
+业务规则| 如果日期存储为日期和时间，则该字段应截断为日期。无需调整日期为 UTC。
+
+## A.6 最新收到日期
+
+用户指导| RA收到提交者/发送者最新版本的 AER 的日期。此日期会随着新数据的收到而改变。
+---|---
+符合性| 必需
+数据类型| 日期
+允许值| YYYY-MM-DD (ISO 8601)
+列| F
+列名| latestDateOfReceipt
+业务规则| 如果日期存储为日期和时间，则该字段应截断为日期。无需调整日期为 UTC。
+
+## A.7 事故日期
+
+用户指导| 报告的事故发生的日期。
+---|---
+符合性| 可选
+数据类型| 日期
+允许值| YYYY-MM-DD (ISO 8601)
+列| G
+列名| adverseEventDate
+业务规则| 如果日期存储为日期和时间，则该字段应截断为日期。如果系统中日期指定为日期范围，则使用日期范围的起始日期作为事故日期。如果日期记录为更低精度（例如，仅为年份（YYYY），或为年-月（YYYY-MM）），则使用该年或月的第一个日期（例如，YYYY-01-01 或 YYYY-MM-01）。无需调整日期为 UTC。
+
+## A.8 提交者知晓日期
+
+用户指导| 提交人/发送人首次了解事件的时间。
+---|---
+符合性| 可选
+数据类型| 日期
+允许值| YYYY-MM-DD (ISO 8601)
+列| H
+列名| mfrAwarenessDate
+业务规则| 如果日期存储为日期和时间，则该字段应截断为日期。无需调整日期为 UTC。
+
+## A.9 报告版本
+
+用户指导| 提交人/发送人提交报告的类型，以及报告的情况或时间。
+---|---
+符合性| 必需
+数据类型| 数字
+允许值| 1 = 初始2 = 更新3 = 最终4 = 不可报告
+列| I
+列名| reportType
+业务规则| 应根据最近收到的报告进行最合适的选择。如果在最终报告之后收到更多信息，则仍会映射到最终报告。初步报告和最终报告的合并被视为最终报告。
+
+## A.10 事故分类
+
+用户指导| 针对患者（包括操作人员）因事件而产生的问题的监管分类。
+---|---
+符合性| 可选
+数据类型| 数字
+允许值| 1 = 公共卫生威胁2 = 死亡3 = 严重受伤或健康状况恶化4 = 潜在受伤或健康状况恶化或故障9 = 其他
+列| J
+列名| eventClassification
+业务规则|
+
+## A.11 报告提交人
+
+用户指南| 记录患者（包括操作人员）因该事件而产生的，并进行监管分类的问题。
+---|---
+符合性要求| 是
+数据类型| 数字
+允许值| 1 = 制造商2 = 进口商/分销商/授权代表3 = 其他行业4 = 医院/用户设施*5 = 公众/独立医疗保健专业人员*6 = 其他非行业*
+列| K
+列名| reportSubmitter
+业务规则| 在所有情况下，将使用两个字符的国家代码
+
+## A.12 制造商名称
+
+用户指南| 涉及该不良事件的设备制造商的名称。
+---|---
+符合性要求| 可选
+数据类型| 字符串
+允许值| 自由文本
+列| L
+列名| mfrName
+业务规则|
+
+## A.13 原始报告人职业
+
+用户指南| 指在他们管辖范围内的法规下，最初向提交人/发送者报告监管机构的问题，该问题是由组织或实体报告的类型。
+---|---
+符合性要求| 可选
+数据类型| 数字
+允许值| 1 = 医疗保健专业人员2 = 患者/消费者/普通用户3 = 其他非医疗保健专业人员
+列| M
+列名| originalReporterRole
+业务规则|
+
+## A.14 发生事件的地点
+
+用户指南| 记录患者（包括操作人员）因该事件而产生的，并进行监管分类的问题。
+---|---
+符合性要求| 可选
+数据类型| 数字
+允许值| 1 = 医院2 = 其他医疗机构/交通3 = 居家4 = 其他非医疗机构
+列| N
+列名| locationOfEvent
+业务规则|
+
+## A.15 发生事件的国家
+
+用户指南| ISO-3166-1 alpha-2 国家代码，用于报告事件发生的国家。
+---|---
+符合性| 必需
+数据类型| 字符串
+允许值| ISO-639-1
+列| O
+列名| eventCountry
+业务规则| 在所有情况下，将使用两个字符的国家代码
+
+# D. 医疗器械信息
+
+这些字段与报告中涉及的设备相关。这些字段可以是非常具体的（例如，批号），也可以是高度抽象的（例如，涵盖多个设备的术语）。
+
+## D.1 医疗器械标识符 (DI)
+
+用户指南| 针对特定医疗器械型号或版本的唯一数字或字母数字值。
+---|---
+符合性| 可选
+数据类型| 字符串
+允许值| 自由文本
+列| P
+列名| udiDI
+业务规则| 如果实施，则验证应符合标准；请参见在线 UDI 标准。
+GS1 是 16 个数字（无分隔符的 14N）
+HIBCC 是 7-24 个字母数字（无分隔符的 6-23AN）
+ICCBBA 是 18 个字母数字（无分隔符的 16AN）（仅限血袋为 12AN，无分隔符的 10AN）
+
+## D.2 UDI 产品标识符 (PI)
+
+用户指南| 用于标识设备生产单元的数字或字母数字代码。 不同的产品标识符类型包括序列号、批号/批量号、生产日期和/或有效期。
+---|---
+符合性| 可选
+数据类型| 字符串
+允许值| 自由文本
+列| Q
+列名| udiPI
+业务规则| 如果实施，则验证应符合标准；请参见在线 UDI 标准。
+
+## D.3 使用的医疗器械术语
+
+用户指南| 医疗器械的术语，用于在每个管辖范围内（例如，GMDN）以监管目的识别设备类型。
+---|---
+符合性| 可选
+数据类型| 数字
+允许值| 1 = GMDN 2 = EMDN 3 = UMDN (ECRI) 4 = GIVD / EDMS 5 = MFDS 6 = JMDN 7 = USFDA 8 = PNC 9 = 其他
+列| R
+列名| nomenclatureSystem
+业务规则|
+
+## D.4 医疗器械命名法代码
+
+用户指南| 命名规范的代码。
+---|---
+符合性| 可选
+数据类型| 字符串
+允许值| 自由文本
+列| S
+列名| nomenclatureCode
+业务规则|
+
+## D.5 医疗器械命名描述
+
+用户指南| 命名规范的描述。
+---|---
+符合性| 可选
+数据类型| 字符串
+允许值| 自由文本
+列| T
+列名| nomenclatureTerm
+业务规则|
+
+## D.6 医疗器械名称
+
+用户指南| 用于识别受监管的医疗器械（即品牌名称、商品名称、专有名称）的名称。
+---|---
+符合性| 可选
+数据类型| 字符串
+允许值| 自由文本
+列| U
+列名| brandName
+业务规则|
+
+## D.7 型号
+
+用户指南| 表示一个医疗器械或一组具有共享特征的医疗器械，用于将许多变体分组。
+---|---
+符合性| 可选
+数据类型| 字符串
+允许值| 自由文本
+列| V
+列名| modelNum
+业务规则|
+
+## D.8 组合产品
+
+用户指南| 指示该设备是否符合监管机构的定义。 简单的（是/否）选择。
+---|---
+符合性| 可选
+数据类型| 数字
+允许值| 1 = 是 2 = 否
+列| W
+列名| combinationProduct
+业务规则|
+
+## D.9 序列号(们)
+
+用户指南| 用于识别单个医疗器械单元的，一系列数字或字母的唯一序列。
+---|---
+符合性| 可选
+数据类型| 字符串
+允许值| 自由文本
+列| X
+列名| serialNum
+业务规则|
+
+## D.10 批号/批量号(们)
+
+用户指南| 表示一个或多个组成部分或成品设备，这些设备由单一类型、型号、类别、尺寸、成分或软件版本组成，并且在本质上处于相同的条件下制造，并且旨在在指定范围内具有一致的特性和质量。
+---|---
+符合性| 可选
+数据类型| 字符串
+允许值| 自由文本
+列| Y
+列名| batchNum
+业务规则|
+
+## D.11 软件版本
+
+用户指南| 申请人提供的值，用于标识特定版本的 SaMD 软件。
+---|---
+符合性| 可选
+数据类型| 字符串
+允许值| 自由文本
+列| Z
+列名| deviceSoftwareVer
+业务规则|
+
+## D.12 固件版本
+
+用户指南| 申请人提供的值，用于标识特定版本的医疗设备固件。
+---|---
+符合性| 可选
+数据类型| 字符串
+允许值| 自由文本
+列| AA
+列名| deviceFirmwareVer
+业务规则|
+
+## D.13 医疗设备制造日期
+
+用户指南| 监管实体确定，医疗设备被认为是制造的日期。
+---|---
+符合性| 可选
+数据类型| 日期
+允许值| YYYY-MM-DD (ISO 8601)
+列| AB
+列名| deviceMfrDate
+业务规则| 如果日期存储为日期和时间，则该字段应截断为日期。如果日期以更低精度存储或日或月未知（例如，仅为年份（YYYY），或为年份-月（YYYY-MM）），则使用该年份或月份的第一个日期（例如，YYYY-01-01 或 YYYY-MM-01）。无需调整日期为 UTC。
+
+## D.14 医疗设备使用
+
+用户指南| 指示对医疗器械的重新使用和重复使用。
+---|---
+符合性| 可选
+数据类型| 数字
+允许值| 1 = 首次使用该设备2 = 重新使用可重复使用的医疗器械3 = 重新使用一次性医疗器械4 = 其他
+列| AC
+列名| deviceUsage
+业务规则|
+
+## D.15 医疗器械的有效期
+
+用户指导| 基于研究结果，确定一个日期，该日期表明医疗器械将按照预期运行，并满足其规格。
+---|---
+符合性| 可选
+数据类型| 日期
+允许值| YYYY-MM-DD (ISO 8601)
+列| AD
+列名| deviceExpiryDate
+业务规则| 如果日期存储为日期和时间，则该字段应截断为日期。如果日期以较低精度存储，或者天或月份未知（例如，仅为年份（YYYY），或为年份-月份（YYYY-MM）），则使用该年份或月份的第一个日期（例如，YYYY-01-01 或 YYYY-MM-01）。无需将日期调整为 UTC。
+
+## D.16 插入器日期
+
+用户指导| 插入可植入器械的日期。
+---|---
+符合性| 可选
+数据类型| 日期
+允许值| YYYY-MM-DD (ISO 8601)
+列| AE
+列名| ImplantedDate
+业务规则| 如果日期存储为日期和时间，则该字段应截断为日期。如果日期以较低精度存储，或者天或月份未知（例如，仅为年份（YYYY），或为年份-月份（YYYY-MM）），则使用该年份或月份的第一个日期（例如，YYYY-01-01 或 YYYY-MM-01）。无需将日期调整为 UTC。
+
+## D.17 移除器日期
+
+用户指导| 移除可植入器械的日期。
+---|---
+符合性| 可选
+数据类型| 日期
+允许值| YYYY-MM-DD (ISO 8601)
+列| AF
+列名| ExplantedDate
+业务规则| 如果日期存储为日期和时间，则该字段应截断为日期。如果日期以较低精度存储，或者天或月份未知（例如，仅为年份（YYYY），或为年份-月份（YYYY-MM）），则使用该年份或月份的第一个日期（例如，YYYY-01-01 或 YYYY-MM-01）。无需将日期调整为 UTC。
+
+# I. 事故信息
+
+这些字段与事件本身相关。
+
+## I.1 事故描述
+
+用户指导| 提供对事故的全面描述，包括（1）如果适用，设备出现的问题以及（2）如果适用，健康影响的描述，即临床表现、症状、疾病以及整体健康影响。
 ---|---  
-Conformance| Required  
-Data Type| String  
-Value Allowed| ISO 3166-1 (alpha 2)  
-Column| A  
-Column name| senderOrganization  
-Business Rule(s)| A two character country code will be used in all instances  
+符合性| 可选
+数据类型| 字符串
+允许值| 自由文本
+列| AG
+列名| eventDescription
+业务规则|
 
-## A.2 Language of Report
+## I.2 患者数量
 
-User Guidance| ISO-639-1 language code for the language used in the AER by the regulatory authority. If multiple languages are present, select the language corresponding to the majority of the narrative or text provided.  
+用户指导| 报告的事故中涉及的患者数量。“患者”也可能指用户或其他第三方，最初的报告人可能是家人或其他第三方。
 ---|---  
-Conformance| Optional  
-Data Type| String  
-Value Allowed| ISO-639-1  
-Column| B  
-Column name| language  
-Business Rule(s)| A two character language code will be used in all instances  
+符合性| 可选
+数据类型| 数字
+允许值| 数字
+列| AH
+列名| numPatientsInvolved
+业务规则| 应为非负值。
 
-## A.3 Regulatory authority reference number
+# P. 患者信息
 
-User Guidance| Reference number assigned by regulatory authority who received the relevant AER from the submitter/sender  
+这些字段与患者（年龄、性别）以及对患者的影响相关。 事故描述部分应在“事故信息”部分的 I.1 事故描述字段中进行记录，但 Annex E 和 F 的 IMDRF AE 术语代码应在此处记录。
+
+## P.1 患者年龄字符串
+
+用户指导| 患者年龄，以字符串格式。
 ---|---  
-Conformance| Required  
-Data Type| String  
-Value Allowed| Free text  
-Column| C  
-Column name| ncaReportNo  
-Business Rule(s)|   
+符合性| 可选
+数据类型| 字符串
+允许值| 自由文本
+列| AI
+列名| patientAgeString
+业务规则|
 
-## A.4 Submitter reference number
+## P.2 患者性别
 
-User Guidance| Submitter/sender's reference # which has been assigned by the submitter/sender.  
+用户指导| 患者出生时分配的性别。
 ---|---  
-Conformance| Required  
-Data Type| String  
-Value Allowed| Free text  
-Column| D  
-Column name| mfrInternalNo  
-Business Rule(s)|   
-
-## A.5 Initial date of receipt
-
-User Guidance| Date when RA received the initial AER from the submitter/sender. This will not change with updates or new data.  
----|---  
-Conformance| Required  
-Data Type| Date  
-Value Allowed| YYYY-MM-DD (ISO 8601)  
-Column| E  
-Column name| initialDateOfReceipt  
-Business Rule(s)| If dates are stored as date and time the field should be truncated to the date. There is no expectation to adjust date to UTC.  
-
-## A.6 Latest date of receipt
-
-User Guidance| Date when RA received the latest version of the AER from the submitter/sender. This will change for a given incident with the receipt of new data.  
----|---  
-Conformance| Required  
-Data Type| Date  
-Value Allowed| YYYY-MM-DD (ISO 8601)  
-Column| F  
-Column name| latestDateOfReceipt  
-Business Rule(s)| If dates are stored as date and time the field should be truncated to the date. There is no expectation to adjust date to UTC.  
-
-## A.7 Date of incident
-
-User Guidance| Date when the reported incident happened.  
----|---  
-Conformance| Optional  
-Data Type| Date  
-Value Allowed| YYYY-MM-DD (ISO 8601)  
-Column| G  
-Column name| adverseEventDate  
-Business Rule(s)| If dates are stored as date and time the field should be truncated to the date. If the date is specified as a date range in the system, use the start date of the date range as the date of incident. If the date is recorded as lower precision (e.g., just a year (YYYY), or as a year-month (YYYY-MM)), use the first day of that year or month (e.g., YYYY-01-01 or YYYY-MM-01). There is no expectation to adjust date to UTC.  
-
-## A.8 Submitter awareness date
-
-User Guidance| Date when the submitter/sender became aware of the incident.  
----|---  
-Conformance| Optional  
-Data Type| Date  
-Value Allowed| YYYY-MM-DD (ISO 8601)  
-Column| H  
-Column name| mfrAwarenessDate  
-Business Rule(s)| If dates are stored as date and time the field should be truncated to the date. There is no expectation to adjust date to UTC.  
-
-## A.9 Report version
-
-User Guidance| Type of report submitted by the submitter/sender in terms of the situation or timing of the report.  
----|---  
-Conformance| Required  
-Data Type| Number  
-Value Allowed| 1 = Initial2 = Update3 = Final4 = Not Reportable  
-Column| I  
-Column name| reportType  
-Business Rule(s)| This should be the most appropriate selection based on the most recently received report. If additional information comes in after final, it will still map to final.Combined preliminary and final reports are considered final reports.   
-
-## A.10 Classification of incident
-
-User Guidance| Regulatory classification of the problem that happened to the patient (including operators) due to the event.  
----|---  
-Conformance| Optional  
-Data Type| Number  
-Value Allowed| 1 = Public health threat2 = Death3 = Serious injury or deterioration in state of health4 = Potential injury or deterioration in state of health or malfunction9 = Other  
-Column| J  
-Column name| eventClassification  
-Business Rule(s)|   
-
-## A.11 Report submitter
-
-User Guidance| Regulatory classification of the problem that happened to the patient (including operators) due to the event.  
----|---  
-Conformance| Required  
-Data Type| Number  
-Value Allowed| 1 = Manufacturer2 = Importer/Distributor/Authorized Representative3 = Other Industry4 = Hospital/User Facility*5 = Public/Independent Health Care Professional*6 = Other Non-Industry*  
-Column| K  
-Column name| reportSubmitter  
-Business Rule(s)| A two character country code will be used in all instances  
-
-## A.12 Manufacturer name
-
-User Guidance| The name of the manufacturer for the device involved in this adverse incident.  
----|---  
-Conformance| Optional  
-Data Type| String  
-Value Allowed| Free text  
-Column| L  
-Column name| mfrName  
-Business Rule(s)|   
-
-## A.13 Original reporter occupation
-
-User Guidance| Type of organization or entity who initially inform the submitter/sender to the regulatory authority under the regulation of their jurisdiction.  
----|---  
-Conformance| Optional  
-Data Type| Number  
-Value Allowed| 1 = Healthcare professional2 = Patient/Consumer/Lay User3 = Other non-healthcare professional  
-Column| M  
-Column name| originalReporterRole  
-Business Rule(s)|   
-
-## A.14 Location where event occurred
-
-User Guidance| Regulatory classification of the problem that happened to the patient (including operators) due to the event.  
----|---  
-Conformance| Optional  
-Data Type| Number  
-Value Allowed| 1 = Hospital2 = Other healthcare facility/transport3 = Home4 = Other non-healthcare facility  
-Column| N  
-Column name| locationOfEvent  
-Business Rule(s)|   
-
-## A.15 Country where event occurred
-
-User Guidance| ISO-3166-1 alpha-2 country code for the country where the reported event occurred.  
----|---  
-Conformance| Required  
-Data Type| String  
-Value Allowed| ISO-639-1  
-Column| O  
-Column name| eventCountry  
-Business Rule(s)| A two character country code will be used in all instances  
-
-# D. Medical Device Information
-
-These fields relate to the device involved in the report. These can be very specific fields (e.g., lot numbers) or very high level (e.g., a nomenclature term covering many devices).
-
-## D.1 Device Identifier (DI)
-
-User Guidance| A unique numeric or alphanumeric value specific to a model or version of a medical device.  
----|---  
-Conformance| Optional  
-Data Type| String  
-Value Allowed| Free text  
-Column| P  
-Column name| udiDI  
-Business Rule(s)| Validation (if implemented) would be per standard; see UDI standards online.   
-GS1 is 16 numeric (14N without delimiter)HIBCC is 7-24 AN (6-23AN without delimiter)ICCBBA is 18AN (16AN without the delimiter) (12AN for blood bags only, 10AN without delimiter)  
-
-## D.2 UDI Product Identifier (PI)
-
-User Guidance| A numeric or alphanumeric code that identifies the unit of device production. The different types of Product Identifier(s) include serial number, lot/batch number, manufacturing date, and/or expiration date.  
----|---  
-Conformance| Optional  
-Data Type| String  
-Value Allowed| Free text  
-Column| Q  
-Column name| udiPI  
-Business Rule(s)| Validation (if implemented) would be per standard; see UDI standards online.  
-
-## D.3 Medical device terminology used
-
-User Guidance| Nomenclature of the medical device, which is used to identify the device type for regulatory purposes in each jurisdiction (i.e. GMDN).  
----|---  
-Conformance| Optional  
-Data Type| Number  
-Value Allowed| 1 = GMDN2 = EMDN3 = UMDNS (ECRI)4 = GIVD / EDMS5 = MFDS6 = JMDN 7 = USFDA8 = PNC9 = Other  
-Column| R  
-Column name| nomenclatureSystem  
-Business Rule(s)|   
-
-## D.4 Medical device nomenclature code
-
-User Guidance| Code for nomenclature.  
----|---  
-Conformance| Optional  
-Data Type| String  
-Value Allowed| Free text  
-Column| S  
-Column name| nomenclatureCode  
-Business Rule(s)|   
-
-## D.5 Medical device nomenclature description
-
-User Guidance| Description for nomenclature.  
----|---  
-Conformance| Optional  
-Data Type| String  
-Value Allowed| Free text  
-Column| T  
-Column name| nomenclatureTerm  
-Business Rule(s)|   
-
-## D.6 Medical device name
-
-User Guidance| A name used to assist in the identification of the regulated medical device (i.e. Brand Name, Trade Name, Proprietary Name).  
----|---  
-Conformance| Optional  
-Data Type| String  
-Value Allowed| Free text  
-Column| U  
-Column name| brandName  
-Business Rule(s)|   
-
-## D.7 Model
-
-User Guidance| Represents one medical device or family of medical device to group many variations that have shared characteristics.  
----|---  
-Conformance| Optional  
-Data Type| String  
-Value Allowed| Free text  
-Column| V  
-Column name| modelNum  
-Business Rule(s)|   
-
-## D.8 Combination product
-
-User Guidance| Indicates whether the device is a combination product according to the regulatory authority. Simple (Yes/No) selection.  
----|---  
-Conformance| Optional  
-Data Type| Number  
-Value Allowed| 1 = Yes2 = No  
-Column| W  
-Column name| combinationProduct  
-Business Rule(s)|   
-
-## D.9 Serial number(s) 
-
-User Guidance| A unique sequence of numbers or letter in a series used to identify an individual unit of a medical device.  
----|---  
-Conformance| Optional  
-Data Type| String  
-Value Allowed| Free text  
-Column| X  
-Column name| serialNum  
-Business Rule(s)|   
-
-## D.10 Lot/batch number(s) 
-
-User Guidance| A value that represents one or more components or finished devices that consist of a single type, model, class, size, composition, or software version that are manufactured under essentially the same conditions and are intended to have uniform characteristics and quality within specified limits  
----|---  
-Conformance| Optional  
-Data Type| String  
-Value Allowed| Free text  
-Column| Y  
-Column name| batchNum  
-Business Rule(s)|   
-
-## D.11 Software version 
-
-User Guidance| The value given by the applicant to identify a specific revision of the software for SaMD.  
----|---  
-Conformance| Optional  
-Data Type| String  
-Value Allowed| Free text  
-Column| Z  
-Column name| deviceSoftwareVer  
-Business Rule(s)|   
-
-## D.12 Firmware version
-
-User Guidance| The value given by the applicant to identify a specific revision of the firmware of medical device.  
----|---  
-Conformance| Optional  
-Data Type| String  
-Value Allowed| Free text  
-Column| AA  
-Column name| deviceFirmwareVer  
-Business Rule(s)|   
-
-## D.13 Device manufacturing date
-
-User Guidance| A date determined by the regulated entity in which the medical device is considered to have been manufactured.  
----|---  
-Conformance| Optional  
-Data Type| Date  
-Value Allowed| YYYY-MM-DD (ISO 8601)  
-Column| AB  
-Column name| deviceMfrDate  
-Business Rule(s)| If dates are stored as date and time the field should be truncated to the date. If the date is recorded as lower precision or the day or month is unknown (e.g., just a year (YYYY), or as a year-month (YYYY-MM)), use the first day of that year or month (e.g., YYYY-01-01 or YYYY-MM-01). There is no expectation to adjust date to UTC.  
-
-## D.14 Usage of the device
-
-User Guidance| Indicates the use and reuse of the medical device with respect to reprocessing.  
----|---  
-Conformance| Optional  
-Data Type| Number  
-Value Allowed| 1 = Initial use of device2 = Reuse of a reusable medical device3 = Reuse of a single use medical device4 = Other  
-Column| AC  
-Column name| deviceUsage  
-Business Rule(s)|   
-
-## D.15 Device expiry date
-
-User Guidance| A date based on the results of studies which demonstrate that the medical device will perform as intended and will meet its specifications until that date.  
----|---  
-Conformance| Optional  
-Data Type| Date  
-Value Allowed| YYYY-MM-DD (ISO 8601)  
-Column| AD  
-Column name| deviceExpiryDate  
-Business Rule(s)| If dates are stored as date and time the field should be truncated to the date. If the date is recorded as lower precision or the day or month is unknown (e.g., just a year (YYYY), or as a year-month (YYYY-MM)), use the first day of that year or month (e.g., YYYY-01-01 or YYYY-MM-01). There is no expectation to adjust date to UTC.  
-
-## D.16 Date when device was implanted
-
-User Guidance| Date when the implantable device has been implanted.  
----|---  
-Conformance| Optional  
-Data Type| Date  
-Value Allowed| YYYY-MM-DD (ISO 8601)  
-Column| AE  
-Column name| ImplantedDate  
-Business Rule(s)| If dates are stored as date and time the field should be truncated to the date. If the date is recorded as lower precision or the day or month is unknown (e.g., just a year (YYYY), or as a year-month (YYYY-MM)), use the first day of that year or month (e.g., YYYY-01-01 or YYYY-MM-01). There is no expectation to adjust date to UTC.  
-
-## D.17 Date when device was explanted
-
-User Guidance| Date when the implantable device has been explanted.  
----|---  
-Conformance| Optional  
-Data Type| Date  
-Value Allowed| YYYY-MM-DD (ISO 8601)  
-Column| AF  
-Column name| ExplantedDate  
-Business Rule(s)| If dates are stored as date and time the field should be truncated to the date. If the date is recorded as lower precision or the day or month is unknown (e.g., just a year (YYYY), or as a year-month (YYYY-MM)), use the first day of that year or month (e.g., YYYY-01-01 or YYYY-MM-01). There is no expectation to adjust date to UTC.  
-
-# I. Incident information
-
-These fields relate to the incident itself.
-
-## I.1 Incident narrative
-
-User Guidance| Provide a comprehensive description of the incident, including (1) what went wrong with the device (if applicable) and (2) a description of the health effects (if applicable), i.e. clinical signs, symptoms, conditions as well as the overall health impact.  
----|---  
-Conformance| Optional  
-Data Type| String  
-Value Allowed| Free text  
-Column| AG  
-Column name| eventDescription  
-Business Rule(s)|   
-
-## I.2 Number of patients
-
-User Guidance| Number of patients involved in this reported incident. Patient could also mean user or other third person and the initial reporter may be a family member or other third person.  
----|---  
-Conformance| Optional  
-Data Type| number  
-Value Allowed| Numeric  
-Column| AH  
-Column name| numPatientsInvolved  
-Business Rule(s)| Should be a non-negative value.  
-
-# P. Patient information
-
-These fields relate to the patient (Age, Sex) and the consequences to the patient. The narrative portion of this is instead captured in the I.1 Incident narrative field in the Incident information section, but the IMDRF AE terminology codes for Annexes E and F are captured here. 
-
-## P.1 Patient age string
-
-User Guidance| Patient age in string format.  
----|---  
-Conformance| Optional  
-Data Type| String  
-Value Allowed| Free text  
-Column| AI  
-Column name| patientAgeString  
-Business Rule(s)|   
-
-## P.2 Patient sex
-
-User Guidance| Patient sex assigned at birth.  
----|---  
-Conformance| Optional  
-Data Type| Number  
-Value Allowed| 1 = Female2 = Male3 = Other4 = Unknown  
-Column| AJ  
-Column name| patientSex  
-Business Rule(s)|   
-
-## P.3 IMDRF Clinical Signs, Symptoms and Conditions terms/codes (Annex E)
-
-User Guidance| Clinical Signs, Symptoms and Conditions terms/codes (Annex E): Annex E provides terminology to describe the observed condition of the affected persons associated with the medical device adverse event.  
----|---  
-Conformance| Optional  
-Data Type| String  
-Value Allowed| Free text  
-Column| AK  
-Column name| imdrfClinicalCodes  
-Business Rule(s)| IMDRF Annex E codes consist of the upper case letter E followed by 4 or 6 digits.These should be separated by commas (a space following a comma is optional).e.g., E0101, E040501, E1609 or E0101,E040501,E1609 would both be acceptable, and represents 3 Annex E codesIf there is an identified “most relevant” code (per the MIR form), this should be the first code listed and the string should begin with an exclamation point.e.g., !E0101, E040501, E1609 would represent 3 codes with the most relevant code being !E0101  
-
-## P.4 IMDRF Health Impact terms/codes (Annex F)
-
-User Guidance| Health Impact terms/codes (Annex F): Annex F provides terminology to describe the resulting consequences of the medical device adverse event/incident on the person affected.  
----|---  
-Conformance| Optional  
-Data Type| String  
-Value Allowed| Free text  
-Column| AL  
-Column name| imdrfHealthImpactCodes  
-Business Rule(s)| IMDRF Annex F codes consist of the upper case letter F followed by 2 or 4 digits.These should be separated by commas (a space following a comma is optional).e.g., F12,F2302,F2203 or F12, F2302, F2203would both be acceptable, and represents 3 Annex F codesIf there is an identified “most relevant” code (per the MIR form), this should be the first code listed and the string should begin with an exclamation point.e.g., !F12, F2302, F2203 would represent 3 codes with the most relevant code being !F12  
-
-# M. Manufacturer analysis and action
-
-These fields relate to the investigation undertaken by the manufacturer, as well as the results and conclusion of this investigation, and the actions taken in response to it. 
-
-## M.1 Investigation narrative
-
-User Guidance| Description of the manufacturer’s evaluation concerning possible root causes/causative factors and conclusion.  
----|---  
-Conformance| Optional  
-Data Type| String  
-Value Allowed| Free text  
-Column| AM  
-Column name| investigationNarrative  
-Business Rule(s)|   
-
-## M.2 IMDRF Type of Investigation terms/codes (Annex B)
-
-User Guidance| Description of the manufacturer’s evaluation concerning possible root causes/causative factors and conclusion.  
----|---  
-Conformance| Optional  
-Data Type| String  
-Value Allowed| Free text  
-Column| AN  
-Column name| imdrfInvestigationTypeCodes  
-Business Rule(s)| IMDRF Annex B codes consist of the upper case letter B followed by 2 digits.These should be separated by commas (a space following a comma is optional).e.g., B01, B13, B14 or B01,B13,B14would both be acceptable, and represents 3 Annex B codesIf there is an identified “most relevant” code (per the MIR form), this should be the first code listed and the string should begin with an exclamation point.e.g., !B01, B13, B14 would represent 3 codes with the most relevant code being !B01  
-
-## M.3 IMDRF Investigation Finding terms/codes (Annex C)
-
-User Guidance| Description of the manufacturer’s evaluation concerning possible root causes/causative factors and conclusion.  
----|---  
-Conformance| Optional  
-Data Type| String  
-Value Allowed| Free text  
-Column| AO  
-Column name| imdrfInvestigationFindingsCodes  
-Business Rule(s)| IMDRF Annex C codes consist of the upper case letter C followed by 2 or 4 digits.These should be separated by commas (a space following a comma is optional).e.g., C0101, C0204, C03 or C0101,C0204,C03 would both be acceptable, and represents 3 Annex C codesIf there is an identified “most relevant” code (per the MIR form), this should be the first code listed and the string should begin with an exclamation point.e.g., !C0101, C0204, C03 would represent 3 codes with the most relevant code being !C0101  
-
-## M.4 IMDRF Investigation Conclusion terms/codes (Annex D)
-
-User Guidance| Description of the manufacturer’s evaluation concerning possible root causes/causative factors and conclusion.  
----|---  
-Conformance| Optional  
-Data Type| String  
-Value Allowed| Free text  
-Column| AP  
-Column name| imdrfInvestigationConclusionCodes  
-Business Rule(s)| IMDRF Annex D codes consist of the upper case letter D followed by 2 or 4 digits.These should be separated by commas (a space following a comma is optional).e.g., D01, D02, D1103D01,D02,D1103would both be acceptable, and represents 3 Annex D codesIf there is an identified “most relevant” code (per the MIR form), this should be the first code listed and the string should begin with an exclamation point.e.g., !D01, D02, D1103 would represent 3 codes with the most relevant code being !D01  
-
-## M.5 IMDRF Medical Device Problem terms/codes (Annex A)
-
-User Guidance| Description of the manufacturer’s evaluation concerning possible root causes/causative factors and conclusion.  
----|---  
-Conformance| Optional  
-Data Type| String  
-Value Allowed| Free text  
-Column| AQ  
-Column name| imdrfDeviceProblemCodes  
-Business Rule(s)| IMDRF Annex A codes consist of the upper case letter A followed by 2, 4 or 6 digits.These should be separated by commas (a space following a comma is optional).e.g., A01, A040501, A1801 or A01,A040501,A1801 would both be acceptable, and represents 3 Annex A codesIf there is an identified “most relevant” code (per the MIR form), this should be the first code listed and the string should begin with an exclamation point.e.g., !A01, A040501, A1801 would represent 3 codes with the most relevant code being !A01  
-
-## M.6 IMDRF Medical Device Component terms/codes (Annex G)
-
-User Guidance| Description of the manufacturer’s evaluation concerning possible root causes/causative factors and conclusion.  
----|---  
-Conformance| Optional  
-Data Type| String  
-Value Allowed| Free text  
-Column| AR  
-Column name| imdrfComponentCodes  
-Business Rule(s)| IMDRF Annex G codes consist of the upper case letter G followed by 5 or 7 digits.These should be separated by commas (a space following a comma is optional).e.g., G0408201, G02026, G02002 or G0408201,G02026,G02002would both be acceptable, and represents 3 Annex G codesIf there is an identified “most relevant” code (per the MIR form), this should be the first code listed and the string should begin with an exclamation point.e.g., !G0408201, G02026, G02002 would represent 3 codes with the most relevant code being !G0408201  
-
-## M.7 Remedial Action Taken
-
-User Guidance| Description of the manufacturer’s evaluation concerning possible root causes/causative factors and conclusion.  
----|---  
-Conformance| Optional  
-Data Type| String  
-Value Allowed| Free text  
-Column| AS  
-Column name| correctiveAction  
-Business Rule(s)|   
-
-# Appendix B – Sample Data Template
-
-Excel Spreadsheet providing sample data template. 
-
-# Appendix C – CDS Request Form
-
-CDS Request Form – **Request**  
+符合性| 可选
+数据类型| 数字
+允许值| 1 = 女2 = 男3 = 其他4 = 未知
+列| AJ
+列名| patientSex
+业务规则|
+
+## P.3 IMDRF 临床表现、症状和疾病术语/代码（Annex E）
+
+用户指南| 临床表现、症状和疾病术语/代码（附录 E）：附录 E 提供用于描述与医疗器械不良事件相关的患者观察到的状况的术语。
+---|---
+符合性| 可选
+数据类型| 字符串
+允许值| 自由文本
+列| AK
+列名| imdrfClinicalCodes
+业务规则| IMDRF 附录 E 的代码由大写字母 E 后面跟 4 位或 6 位数字组成。这些数字应用逗号分隔（逗号后可有一个空格，但不是必须）。例如，E0101、E040501、E1609 或 E0101、E040501、E1609 都是可接受的，代表 3 个附录 E 代码。如果已识别出“最相关的”代码（参见 MIR 表单），则应将其作为第一个代码列出，并且字符串应以感叹号开头。例如，!E0101、E040501、E1609 代表 3 个代码，其中最相关的代码为 !E0101
+
+## P.4 IMDRF 影响评估术语/代码（附录 F）
+
+用户指南| 影响评估术语/代码（附录 F）：附录 F 提供用于描述医疗器械不良事件/事故对受影响人员造成的后果的术语。
+---|---
+符合性| 可选
+数据类型| 字符串
+允许值| 自由文本
+列| AL
+列名| imdrfHealthImpactCodes
+业务规则| IMDRF 附录 F 的代码由大写字母 F 后面跟 2 位或 4 位数字组成。这些数字应用逗号分隔（逗号后可有一个空格，但不是必须）。例如，F12、F2302、F2203 或 F12、F2302、F2203 都是可接受的，代表 3 个附录 F 代码。如果已识别出“最相关的”代码（参见 MIR 表单），则应将其作为第一个代码列出，并且字符串应以感叹号开头。例如，!F12、F2302、F2203 代表 3 个代码，其中最相关的代码为 !F12
+
+# M. 制造商分析和行动
+
+这些字段与制造商所进行的调查，以及调查的结果和结论，以及由此采取的行动相关。
+
+## M.1 调查报告
+
+用户指南| 制造商对可能的原因/导致因素的评估以及结论的描述。
+---|---
+符合性| 可选
+数据类型| 字符串
+允许值| 自由文本
+列| AM
+列名| investigationNarrative
+业务规则|
+
+## M.2 IMDRF 调查类型/代码 (附录 B)
+
+用户指南| 制造商对可能的原因/导致因素的评估以及结论的描述。
+---|---
+符合性| 可选
+数据类型| 字符串
+允许值| 自由文本
+列| AN
+列名| imdrfInvestigationTypeCodes
+业务规则| IMDRF 附录 B 中的代码由大写字母 B 后面跟 2 位数字组成。这些数字应用逗号分隔（逗号后可有一个空格，但不是必需的）。例如，B01、B13、B14 或 B01、B13、B14 都是可接受的，代表 3 个附录 B 代码。如果已确定“最相关的”代码（参见 MIR 表），则应将其作为第一个代码列出，并且字符串应以感叹号开头。例如，!B01、B13、B14 代表 3 个代码，其中 !B01 是最相关的代码。
+
+## M.3 IMDRF 调查结果/代码 (附录 C)
+
+用户指南| 制造商对可能的原因/导致因素的评估描述以及结论。
+---|---
+符合性| 可选
+数据类型| 字符串
+允许值| 自由文本
+列| AO
+列名| imdrfInvestigationFindingsCodes
+业务规则| IMDRF 附录 C 的代码由大写字母 C 后面跟 2 位或 4 位数字组成。这些数字应用逗号分隔（逗号后可有一个空格）。例如，C0101、C0204、C03 或 C0101、C0204、C03 均可接受，代表 3 个附录 C 代码。如果已识别出“最相关的”代码（参见 MIR 表格），则应将此代码列在第一位，字符串应以感叹号开头。例如，!C0101、C0204、C03 代表 3 个代码，其中最相关的代码为 !C0101
+
+## M.4 IMDRF 调查结论术语/代码 (附录 D)
+
+用户指南| 制造商对可能的原因/导致因素的评估以及结论的描述。
+---|---
+符合性| 可选
+数据类型| 字符串
+允许值| 自由文本
+列| AP
+列名| imdrfInvestigationConclusionCodes
+业务规则| IMDRF 第 D 附件中的代码由大写字母 D 后面跟 2 位或 4 位数字组成。这些数字应用逗号分隔（逗号后可有一个空格）。例如，D01、D02、D1103、D01、D02、D1103 均可接受，代表 3 个第 D 附件代码。如果已确定“最相关的”代码（参见 MIR 表格），则应将其作为第一个代码列出，并且字符串应以感叹号开头。例如，!D01、D02、D1103 代表 3 个代码，其中最相关的代码为 !D01
+
+## M.5 IMDRF 医疗器械问题/代码 (附件 A)
+
+用户指南| 制造商对可能的原因/导致因素的评估以及结论的描述。
+---|---
+符合性| 可选
+数据类型| 字符串
+允许值| 自由文本
+列| AQ
+列名| imdrfDeviceProblemCodes
+业务规则| IMDRF 第 A 附件中的代码由大写字母 A 后面跟 2、4 或 6 位数字组成。这些数字应用逗号分隔（逗号后可有一个空格）。例如，A01、A040501、A1801 或 A01、A040501、A1801 均可接受，代表 3 个第 A 附件代码。如果已确定“最相关的”代码（参见 MIR 表格），则应将其作为第一个代码列出，并且字符串应以感叹号开头。例如，!A01、A040501、A1801 代表 3 个代码，其中最相关的代码为 !A01
+
+## M.6 IMDRF 医疗器械组件/代码 (附件 G)
+
+用户指南| 制造商对可能的原因/导致因素的评估描述及结论。
+---|---
+符合性| 可选
+数据类型| 字符串
+允许值| 自由文本
+列| AR
+列名| imdrfComponentCodes
+业务规则| IMDRF Annex G 代码由大写字母 G 后面跟着 5 位或 7 位数字组成。这些数字应用逗号分隔（逗号后可有一个空格，但不是必需的）。例如，G0408201、G02026、G02002 或 G0408201、G02026、G02002 都是可接受的，代表 3 个 Annex G 代码。如果已识别出“最相关的”代码（参见 MIR 表格），则应将此代码列在第一位，并且字符串应以感叹号开头。例如，!G0408201、G02026、G02002 代表 3 个代码，其中最相关的代码为 !G0408201
+
+## M.7 已采取的纠正措施
+
+用户指南| 制造商对可能的原因/导致因素的评估描述及结论。
+---|---
+符合性| 可选
+数据类型| 字符串
+允许值| 自由文本
+列| AS
+列名| correctiveAction
+业务规则|
+
+# 附录 B – 示例数据模板
+
+提供示例数据模板的 Excel 表格。
+
+# 附录 C – CDS 请求表
+
+CDS 请求表 – **请求**
+
 ---  
-**Title of the Request**  
-Title of the Request (for file naming)|   
-**Request Details**  
-Date Request:| YYYY-MM-DD  
-Date Required:| YYYY-MM-DD  
-Requesting Organisation:| | Requester Name:|   
-Requester Email:|   
-**Specific Detail of the Request**  
-Click or tap here to enter text. Guidance on how the data should be searched using the IMDRF codes should be provided in this section. Outlining the priority or most important codes of interest, or in which sequence should the codes be searched e.g. the search should be conducted using Annex A codes first then Annex E and then Annex G, a listing of all cases with Annex A codes should be provided with those case that include Annex A and Annex E and/or G highlighted.   
-Relevant documents or links to relevant documents can be provided.   
-**Scope of the Request**  
-Type of Request: | Report to assist with an ongoing investigation. |   
-Report to assist in validating a potential trend or signal. |   
+**请求标题**
+请求标题（用于文件命名）|
+**请求详情**
+请求日期:| YYYY-MM-DD
+所需日期:| YYYY-MM-DD
+请求组织:| | 请求人姓名:|
+请求人邮箱:|
+**请求的具体细节**
+点击或轻触此处以输入文本。本部分应提供关于如何使用 IMDRF 编码进行搜索的指导。应说明感兴趣的优先级或最重要的编码，或说明编码的搜索顺序，例如，应首先使用 Annex A 编码进行搜索，然后是 Annex E 和 Annex G，并提供所有包含 Annex A、Annex E 和/或 Annex G 编码的案例清单。
+可以提供相关的文档或指向相关文档的链接。
+**请求范围**
+请求类型:| 用于协助进行一项持续调查的报告。|
+用于协助验证潜在趋势或信号的报告。|
+
 | Other: |   
-Focus of Request | Device Issue |   
-Patient Problems |   
-Manufacturer Analysis |   
-**Specific Search Criteria**  
-Date Period| Start Date: Finish Date:   
-Specific Device Details * | Device characteristics| Values for characteristics  
-Medical Device Name (Brand/Trade/ Proprietary)|   
-Medical Device Model/Catalogue Reference number / product code|   
-Version (Software / Firmware)|   
-Medical Device UDI (UDI-DI/UDI-PI)|   
-Medical Device lot/batch number|   
-Nomenclature|   
-Manufacturer Details | Manufacturer name:   
-**IMDRF Codes of Interest**  
-Medical Device Problem (Annex A)|   
-Cause Investigation – Type of Investigation (Annex B)|   
-Cause Investigation – Investigation Findings (Annex C)|   
-Cause Investigation – Investigation Conclusion (Annex D)|   
-Health Effects – Clinical Signs and Symptoms or Conditions (Annex E)|   
-Health Effects – Health Impact (Annex F)|   
-Medical Device Component (Annex G) |   
-*If you wish to compare the data requested with a second device and /or manufacturer please submit a separate request form.   
-CDS Request Form – **Response**  
-**Responder Details**  
-Responder Organisation:| | Responder Name:| |   
-Responder Email:|   
-**Specific details of how the data was generated**  
-**Additional Comments**  
-Other relevant details regarding the request
+请求重点 | 设备问题 |
+患者问题 |
+制造商分析 |
+**具体搜索条件**
+日期范围 | 起始日期：结束日期：
+特定设备详情 * | 设备特性 | 特性值
+医疗设备名称（品牌/商标/专有）|
+医疗设备型号/目录编号/产品代码|
+版本（软件/固件）|
+医疗设备UDI（UDI-DI/UDI-PI）|
+医疗设备批号/生产批号|
+命名法|
+制造商信息 | 制造商名称：
+**IMDRF 关注代码**
+医疗设备问题（附录 A）|
+原因调查 – 调查类型（附录 B）|
+原因调查 – 调查结果（附录 C）|
+原因调查 – 调查结论（附录 D）|
+健康影响 – 临床症状或状况（附录 E）|
+健康影响 – 健康影响（附录 F）|
+医疗设备组件（附录 G）|
+*如果您希望将请求的各项数据与另一台设备和/或制造商进行比较，请提交单独的请求表。
+CDS 请求表 – **回复**
+**回复人信息**
+回复人组织:| | 回复人姓名:| |
+回复人邮箱:|
+**关于如何生成数据的具体信息**
+**其他备注**
+关于请求的其他相关信息
 
 
 <!-- fulltext-end -->
