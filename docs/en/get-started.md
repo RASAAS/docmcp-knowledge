@@ -42,30 +42,29 @@ title: Get Started
 <h3>Windows</h3>
 <ol>
   <li>Unzip the downloaded file</li>
-  <li>Double-click <code>install.bat</code> (or right-click <code>install.ps1</code> and select "Run with PowerShell")</li>
+  <li>Open the version folder (e.g. <code>reguverse-assistant</code>)</li>
+  <li>Double-click <code>install.bat</code></li>
   <li><strong>Close ALL Word windows</strong>, then re-open Word</li>
-  <li>Go to <strong>Home &gt; Add-ins</strong> (or <strong>Insert &gt; My Add-ins</strong>)</li>
-  <li>Click the <strong>"SHARED FOLDER"</strong> tab at the top</li>
-  <li>Select <strong>"Reguverse Assistant"</strong> and click <strong>"Add"</strong></li>
+  <li>The add-in will appear as a <strong>Reguverse Assistant</strong> button in the toolbar -- click to open</li>
+  <li>If the toolbar button doesn't appear, go to <strong>Home &gt; Add-ins</strong> and find it under <strong>Developer Add-ins</strong></li>
 </ol>
 
 <h3>macOS</h3>
 <ol>
   <li>Unzip the downloaded file</li>
-  <li>Open Terminal, navigate to the unzipped folder</li>
+  <li>Open Terminal, navigate to the version folder</li>
   <li>Run: <code>bash install.sh</code></li>
   <li><strong>Close ALL Word windows</strong>, then re-open Word</li>
-  <li>Go to <strong>Insert &gt; My Add-ins</strong></li>
-  <li>Select <strong>"Reguverse Assistant"</strong></li>
+  <li>Go to <strong>Insert &gt; My Add-ins</strong> and select <strong>"Reguverse Assistant"</strong></li>
 </ol>
 
 <div class="callout callout-info">
-  <strong>Switching Versions</strong>
-  <p>To switch between International and China versions:</p>
+  <strong>Upgrading or Switching Versions</strong>
+  <p>If you have a previous version installed, run <code>cleanup-old-install.bat</code> (included in the ZIP root) first to remove old installations, then run the new version's <code>install.bat</code>.</p>
   <ol>
-    <li>Run the <strong>uninstall</strong> script from your current version's folder</li>
+    <li>Double-click <code>cleanup-old-install.bat</code> (in the ZIP root folder)</li>
     <li>Close ALL Word windows</li>
-    <li>Run the <strong>install</strong> script from the new version's folder</li>
+    <li>Run <code>install.bat</code> from the new version's folder</li>
     <li>Re-open Word</li>
   </ol>
 </div>
@@ -74,11 +73,12 @@ title: Get Started
 <div class="section-block">
 <h2>Troubleshooting</h2>
 
-<h3>"SHARED FOLDER" tab is empty (Windows)</h3>
+<h3>Add-in not appearing after install (Windows)</h3>
 <ol>
   <li>Close <strong>ALL</strong> Office applications (Word, Excel, Outlook, etc.)</li>
+  <li>Run <code>cleanup-old-install.bat</code> to remove any old installation remnants</li>
   <li>Run the installer again</li>
-  <li>Re-open Word and check the Add-ins dialog</li>
+  <li>Re-open Word and check <strong>Home &gt; Add-ins</strong></li>
 </ol>
 
 <h3>Add-in shows old version</h3>

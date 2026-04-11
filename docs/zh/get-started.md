@@ -42,30 +42,29 @@ title: 快速开始
 <h3>Windows</h3>
 <ol>
   <li>解压下载的压缩包</li>
-  <li>双击运行 <code>install.bat</code>（或右键 <code>install.ps1</code> 选择"使用 PowerShell 运行"）</li>
+  <li>打开对应版本的文件夹（如 <code>reguverse-assistant-cn</code>）</li>
+  <li>双击运行 <code>install.bat</code></li>
   <li><strong>关闭所有 Word 窗口</strong>，然后重新打开 Word</li>
-  <li>点击 <strong>开始 &gt; 加载项</strong>（或 <strong>插入 &gt; 我的加载项</strong>）</li>
-  <li>点击顶部的 <strong>"共享文件夹"</strong> 标签</li>
-  <li>选择 <strong>"Reguverse Assistant"</strong>，点击 <strong>"添加"</strong></li>
+  <li>插件会自动出现在工具栏的 <strong>Reguverse Assistant</strong> 按钮中，点击即可打开</li>
+  <li>如果工具栏没有出现，点击 <strong>开始 &gt; 加载项</strong>，在 <strong>Developer Add-ins</strong> 区域中找到并点击即可</li>
 </ol>
 
 <h3>macOS</h3>
 <ol>
   <li>解压下载的压缩包</li>
-  <li>打开终端 (Terminal)，进入解压后的文件夹</li>
+  <li>打开终端 (Terminal)，进入解压后的版本文件夹</li>
   <li>运行: <code>bash install.sh</code></li>
   <li><strong>关闭所有 Word 窗口</strong>，然后重新打开 Word</li>
-  <li>点击 <strong>插入 &gt; 我的加载项</strong></li>
-  <li>选择 <strong>"Reguverse Assistant"</strong></li>
+  <li>点击 <strong>插入 &gt; 我的加载项</strong>，选择 <strong>"Reguverse Assistant"</strong></li>
 </ol>
 
 <div class="callout callout-info">
-  <strong>切换版本</strong>
-  <p>如需在国内版和国际版之间切换：</p>
+  <strong>从旧版本升级或切换版本</strong>
+  <p>如果您之前安装过旧版本的插件，请先运行压缩包中的 <code>cleanup-old-install.bat</code> 清理旧安装，然后再运行新版本的 <code>install.bat</code>。</p>
   <ol>
-    <li>运行当前版本文件夹中的 <strong>卸载脚本</strong>（uninstall）</li>
+    <li>双击运行 <code>cleanup-old-install.bat</code>（位于压缩包根目录）</li>
     <li>关闭所有 Word 窗口</li>
-    <li>运行新版本文件夹中的 <strong>安装脚本</strong>（install）</li>
+    <li>运行新版本文件夹中的 <code>install.bat</code></li>
     <li>重新打开 Word</li>
   </ol>
 </div>
@@ -74,11 +73,11 @@ title: 快速开始
 <div class="section-block">
 <h2>常见问题</h2>
 
-<h3>"共享文件夹" 标签页为空 (Windows)</h3>
+<h3>安装后插件未出现 (Windows)</h3>
 <ol>
-  <li>关闭 <strong>所有</strong> Office 应用（Word、Excel、Outlook 等）</li>
-  <li>重新运行安装脚本</li>
-  <li>打开 Word 并再次检查加载项对话框</li>
+  <li>确认已<strong>关闭所有</strong> Office 应用（Word、Excel、Outlook 等）后再重新打开</li>
+  <li>如仍未出现，运行 <code>cleanup-old-install.bat</code> 清理所有旧安装残留</li>
+  <li>重新运行 <code>install.bat</code>，关闭并重新打开 Word</li>
 </ol>
 
 <h3>插件显示旧版本</h3>
