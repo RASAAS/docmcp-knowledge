@@ -598,10 +598,67 @@ def generate_guidance_page_en(entry: dict, fulltext: str,
     return "\n".join(lines)
 
 
+NMPA_GUIDANCE_CATEGORIES = {
+    "general": {"zh": "通用指导原则", "en": "General Guidance"},
+    "ivd": {"zh": "体外诊断试剂", "en": "In Vitro Diagnostics (IVD)"},
+    "surgical": {"zh": "手术器械", "en": "Surgical Instruments"},
+    "respiratory": {"zh": "呼吸与麻醉", "en": "Respiratory & Anesthesia"},
+    "infusion_injection": {"zh": "输液输注与穿刺", "en": "Infusion, Injection & Puncture"},
+    "implant_ortho": {"zh": "骨科植入物", "en": "Orthopedic Implants"},
+    "dental": {"zh": "口腔器械", "en": "Dental Devices"},
+    "implant_cardio": {"zh": "心血管植入物", "en": "Cardiovascular Implants"},
+    "rehab_physio": {"zh": "康复与理疗", "en": "Rehabilitation & Physiotherapy"},
+    "wound_care": {"zh": "创面管理与敷料", "en": "Wound Care & Dressings"},
+    "imaging": {"zh": "医学影像", "en": "Medical Imaging"},
+    "monitoring": {"zh": "监护与检测", "en": "Monitoring & Detection"},
+    "ophthalmic": {"zh": "眼科器械", "en": "Ophthalmic Devices"},
+    "blood_transfusion": {"zh": "血液与输血", "en": "Blood & Transfusion"},
+    "reproductive": {"zh": "生殖与妇科", "en": "Reproductive & Gynecology"},
+    "sterilization": {"zh": "灭菌与生物相容性", "en": "Sterilization & Biocompatibility"},
+    "lab_equipment": {"zh": "实验室设备", "en": "Laboratory Equipment"},
+    "tcm": {"zh": "中医器械", "en": "Traditional Chinese Medicine Devices"},
+    "radiation_therapy": {"zh": "放射治疗", "en": "Radiation Therapy"},
+    "software_ai": {"zh": "软件与人工智能", "en": "Software & AI"},
+}
+
+NMPA_CATEGORY_ORDER = [
+    "general", "ivd", "surgical", "respiratory", "infusion_injection",
+    "implant_ortho", "implant_cardio", "dental", "monitoring", "imaging",
+    "wound_care", "rehab_physio", "ophthalmic", "blood_transfusion",
+    "reproductive", "sterilization", "lab_equipment", "tcm",
+    "radiation_therapy", "software_ai",
+]
+
+
+def _guidance_entry_line(entry: dict, lang: str, has_fulltext: dict,
+                         link_prefix: str = "./guidance/") -> str:
+    title = entry.get("title", {})
+    if isinstance(title, dict):
+        display = title.get(lang, "") or title.get("zh" if lang == "en" else "en", "")
+    else:
+        display = str(title) if title else ""
+    if not display:
+        return ""
+    slug = entry.get("slug", "")
+    pub_date = entry.get("published_date", "")
+    date_suffix = f" ({pub_date})" if pub_date else ""
+    ft = has_fulltext.get(entry.get("id", ""), False)
+
+    if ft and slug:
+        return f"- [{display}]({link_prefix}{slug}){date_suffix}"
+    source_url = entry.get("source_url", "")
+    if source_url:
+        return f"- [{display}]({source_url}){date_suffix}"
+    return f"- {display}{date_suffix}"
+
+
 def generate_guidance_index_zh(framework: str, entries: list, has_fulltext: dict) -> str:
     """Generate guidance index page (ZH) for a framework."""
     fw_names = {"fda": "FDA", "eu_mdr": "EU MDR", "nmpa": "NMPA"}
     fw_name = fw_names.get(framework, framework.upper())
+
+    use_categories = framework == "nmpa" and any(e.get("category") for e in entries)
+
     lines = [
         "---",
         f"title: {fw_name} 指南文件",
@@ -611,32 +668,55 @@ def generate_guidance_index_zh(framework: str, entries: list, has_fulltext: dict
         "",
     ]
 
-    for entry in entries:
-        title = entry.get("title", {})
-        if isinstance(title, dict):
-            display = title.get("zh", "") or title.get("en", "")
-        else:
-            display = str(title) if title else ""
-        slug = entry.get("slug", "")
-        pub_date = entry.get("published_date", "")
-        ft = has_fulltext.get(entry.get("id", ""), False)
-
-        if ft and slug:
-            lines.append(f"- [{display}](./guidance/{slug}) ({pub_date})")
-        else:
-            source_url = entry.get("source_url", "")
-            if source_url:
-                lines.append(f"- [{display}]({source_url}) ({pub_date})")
-            elif display:
-                lines.append(f"- {display} ({pub_date})")
-
+    ft_count = sum(1 for e in entries if has_fulltext.get(e.get("id", ""), False))
+    lines.append(f"共 {len(entries)} 份指南文件，已收录全文 {ft_count} 份。")
     lines.append("")
+
+    if use_categories:
+        by_cat: dict[str, list] = {}
+        for e in entries:
+            cat = e.get("category", "general")
+            by_cat.setdefault(cat, []).append(e)
+
+        for cat in NMPA_CATEGORY_ORDER:
+            cat_entries = by_cat.get(cat, [])
+            if not cat_entries:
+                continue
+            cat_name = NMPA_GUIDANCE_CATEGORIES.get(cat, {}).get("zh", cat)
+            cat_ft = sum(1 for e in cat_entries if has_fulltext.get(e.get("id", ""), False))
+            lines.append(f"## {cat_name} ({len(cat_entries)})")
+            lines.append("")
+            for entry in cat_entries:
+                line = _guidance_entry_line(entry, "zh", has_fulltext)
+                if line:
+                    lines.append(line)
+            lines.append("")
+
+        uncategorized = [e for e in entries if e.get("category", "") not in NMPA_CATEGORY_ORDER and e.get("category", "") != ""]
+        if uncategorized:
+            lines.append(f"## 其他 ({len(uncategorized)})")
+            lines.append("")
+            for entry in uncategorized:
+                line = _guidance_entry_line(entry, "zh", has_fulltext)
+                if line:
+                    lines.append(line)
+            lines.append("")
+    else:
+        for entry in entries:
+            line = _guidance_entry_line(entry, "zh", has_fulltext)
+            if line:
+                lines.append(line)
+        lines.append("")
+
     return "\n".join(lines)
 
 
 def generate_guidance_index_en(framework: str, entries: list, has_fulltext: dict) -> str:
     fw_names = {"fda": "FDA", "eu_mdr": "EU MDR", "nmpa": "NMPA"}
     fw_name = fw_names.get(framework, framework.upper())
+
+    use_categories = framework == "nmpa" and any(e.get("category") for e in entries)
+
     lines = [
         "---",
         f"title: {fw_name} Guidance Documents",
@@ -646,26 +726,45 @@ def generate_guidance_index_en(framework: str, entries: list, has_fulltext: dict
         "",
     ]
 
-    for entry in entries:
-        title = entry.get("title", {})
-        if isinstance(title, dict):
-            display = title.get("en", "") or title.get("zh", "")
-        else:
-            display = str(title) if title else ""
-        slug = entry.get("slug", "")
-        pub_date = entry.get("published_date", "")
-        ft = has_fulltext.get(entry.get("id", ""), False)
-
-        if ft and slug:
-            lines.append(f"- [{display}](./guidance/{slug}) ({pub_date})")
-        else:
-            source_url = entry.get("source_url", "")
-            if source_url:
-                lines.append(f"- [{display}]({source_url}) ({pub_date})")
-            elif display:
-                lines.append(f"- {display} ({pub_date})")
-
+    ft_count = sum(1 for e in entries if has_fulltext.get(e.get("id", ""), False))
+    lines.append(f"Total {len(entries)} guidance documents, {ft_count} with full text available.")
     lines.append("")
+
+    if use_categories:
+        by_cat: dict[str, list] = {}
+        for e in entries:
+            cat = e.get("category", "general")
+            by_cat.setdefault(cat, []).append(e)
+
+        for cat in NMPA_CATEGORY_ORDER:
+            cat_entries = by_cat.get(cat, [])
+            if not cat_entries:
+                continue
+            cat_name = NMPA_GUIDANCE_CATEGORIES.get(cat, {}).get("en", cat)
+            lines.append(f"## {cat_name} ({len(cat_entries)})")
+            lines.append("")
+            for entry in cat_entries:
+                line = _guidance_entry_line(entry, "en", has_fulltext)
+                if line:
+                    lines.append(line)
+            lines.append("")
+
+        uncategorized = [e for e in entries if e.get("category", "") not in NMPA_CATEGORY_ORDER and e.get("category", "") != ""]
+        if uncategorized:
+            lines.append(f"## Other ({len(uncategorized)})")
+            lines.append("")
+            for entry in uncategorized:
+                line = _guidance_entry_line(entry, "en", has_fulltext)
+                if line:
+                    lines.append(line)
+            lines.append("")
+    else:
+        for entry in entries:
+            line = _guidance_entry_line(entry, "en", has_fulltext)
+            if line:
+                lines.append(line)
+        lines.append("")
+
     return "\n".join(lines)
 
 

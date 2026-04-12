@@ -1,22 +1,16 @@
 ---
-id: nmpa-中央监护软件注册技术审查指导原则
-title:
-  zh: 中央监护软件注册技术审查指导原则
-  en: ''
-regulation: nmpa
-category: nmpa/guidance
-status: active
-source_url: https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/21-sw/central-monitoring-software-2017/
-source_url_verified: '2026-02-23'
-source_url_status: migrated
-source_format: html
-translation: original
-last_verified: '2026-02-23'
-contributor: RASAAS
-migrated_from: wordpress
-wordpress_id: 4212
-effective_date: '2025-04-20'
+title: 中央监护软件注册审查指导原则（2025年修订版）
+description: 
+published: 
 ---
+
+# 中央监护软件注册审查指导原则（2025年修订版）
+
+<!-- fulltext-start -->
+
+---
+
+## 官方文件全文
 
 # 中央监护软件注册技术审查指导原则
 
@@ -343,3 +337,6 @@ C. 信息危害
 ## 四、编写单位
 
 辽宁省药械审评与监测中心。
+
+
+<!-- fulltext-end -->
