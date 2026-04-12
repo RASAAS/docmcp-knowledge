@@ -765,6 +765,8 @@ def extract_docx_to_markdown(docx_bytes: bytes, image_map: dict[str, str] | None
                     lines.append(md_line)
                     lines.append("")
                 else:
+                    if lines and lines[-1] and not lines[-1].startswith("#"):
+                        lines.append("")
                     lines.append(md_line)
 
             if has_images and image_map:
@@ -814,6 +816,17 @@ def _get_outline_level(para) -> int | None:
     return None
 
 
+def _looks_like_title(text: str) -> bool:
+    """Heuristic: true titles don't end with descriptive punctuation and are short."""
+    if len(text) > 50:
+        return False
+    if text.endswith(("\u3002", "\uff1b", "\uff1a", ":", ";")):
+        return False
+    if re.search(r'\u53ef\u53c2\u8003|\u5e94\u5f53|\u5e94\u63d0\u4f9b|\u5e94\u660e\u786e|\u9700\u8981\u63cf\u8ff0|\u9700\u8981\u8bf4\u660e|\u9700\u8981\u5217\u8868|\u5177\u4f53\u8981\u6c42', text):
+        return False
+    return True
+
+
 def _para_to_markdown(text: str, style_name: str, para) -> str:
     heading_styles = {
         "Heading 1", "Heading 2", "Heading 3", "Heading 4",
@@ -841,12 +854,15 @@ def _para_to_markdown(text: str, style_name: str, para) -> str:
 
     outline = _get_outline_level(para)
     if outline is not None:
-        level = min(outline + 1, 6)
-        if level < 1:
-            level = 1
-        return f"{'#' * level} {text}"
+        if len(text) <= 30:
+            level = min(outline + 1, 6)
+            if level < 1:
+                level = 1
+            if level == 1:
+                level = 2
+            return f"{'#' * level} {text}"
 
-    is_short = len(text) < 100
+    is_short = len(text) < 50
 
     if re.match(r'^[一二三四五六七八九十]+[、.．]', text) and is_short:
         return f"## {text}"
@@ -856,15 +872,22 @@ def _para_to_markdown(text: str, style_name: str, para) -> str:
         return f"## {text}"
     if re.match(r'^第[一二三四五六七八九十百]+条', text) and is_short:
         return f"### {text}"
-    if re.match(r'^\d+[、.．]\s*\S', text) and is_short:
-        return f"### {text}"
+
+    m_n = re.match(r'^(\d+)[、.．]\s*(\S.*)', text, re.DOTALL)
+    if m_n:
+        rest_n = m_n.group(2).strip()
+        if _looks_like_title(rest_n):
+            return f"### {text}"
+
     if re.match(r'^\d+\.\d+\.\d+[.\s]', text) and is_short:
         return f"##### {text}"
+
     m_sub = re.match(r'^(\d+\.\d+)\s*(.*)', text, re.DOTALL)
     if m_sub:
         rest = m_sub.group(2).strip()
-        if len(rest) < 40:
+        if _looks_like_title(rest):
             return f"#### {text}"
+
     if re.match(r'^（\d+）', text) and is_short:
         return f"#### {text}"
     if re.match(r'^附[录件]', text) and is_short:
@@ -872,7 +895,7 @@ def _para_to_markdown(text: str, style_name: str, para) -> str:
 
     is_bold = (all(run.bold for run in para.runs if run.text.strip())
                if para.runs else False)
-    if is_bold and len(text) < 80:
+    if is_bold and len(text) < 50:
         return f"**{text}**"
 
     return text
