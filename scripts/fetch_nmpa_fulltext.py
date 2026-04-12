@@ -213,11 +213,8 @@ def generate_slug(title_zh: str, doc_number: str) -> str:
     dn_match = re.search(r'(\d{4})\D*?(\d+)', doc_number)
     if dn_match:
         return f"cmde-{dn_match.group(1)}-{dn_match.group(2)}"
-    short_hash = hashlib.md5(title_zh.encode()).hexdigest()[:6]
-    cleaned = re.sub(r'[（()）\[\]【】]', '', title_zh)
-    cleaned = re.sub(r'[^\w]', '-', cleaned)
-    cleaned = re.sub(r'-+', '-', cleaned).strip('-')
-    return f"{cleaned[:50]}-{short_hash}".lower()
+    short_hash = hashlib.md5(title_zh.encode()).hexdigest()[:8]
+    return f"cmde-{short_hash}"
 
 
 def fulltext_exists(entry: dict) -> bool:
@@ -282,7 +279,8 @@ def try_fetch_docx_from_page(page_url: str) -> Optional[str]:
     return None
 
 
-def discover_urls(searcher: WebSearcher, limit: int = 0, dry_run: bool = False):
+def discover_urls(searcher: WebSearcher, limit: int = 0, dry_run: bool = False,
+                  category: str = ""):
     """Phase 1: Search for docx URLs for entries without fulltext."""
     if not searcher.available:
         logger.error("No search API available. Cannot discover URLs.")
@@ -296,6 +294,8 @@ def discover_urls(searcher: WebSearcher, limit: int = 0, dry_run: bool = False):
         e for e in entries
         if not fulltext_exists(e) and e["id"] not in discovered
     ]
+    if category:
+        candidates = [e for e in candidates if e.get("category") == category]
     if limit > 0:
         candidates = candidates[:limit]
 
@@ -477,7 +477,7 @@ def _table_to_markdown(table) -> list[str]:
 
 
 def download_and_extract(limit: int = 0, dry_run: bool = False,
-                         force: bool = False):
+                         force: bool = False, category: str = ""):
     """Phase 2: Download docx files and extract fulltext."""
     index_data = load_index()
     entries = index_data.get("entries", [])
@@ -486,6 +486,8 @@ def download_and_extract(limit: int = 0, dry_run: bool = False,
     candidates = []
     for entry in entries:
         eid = entry["id"]
+        if category and entry.get("category") != category:
+            continue
         if not force and fulltext_exists(entry):
             continue
         disc = discovered.get(eid, {})
@@ -631,14 +633,16 @@ def main():
                         help="Preview without downloading/writing")
     parser.add_argument("--force", action="store_true",
                         help="Re-process even if fulltext exists")
+    parser.add_argument("--category", type=str, default="",
+                        help="Filter by category (e.g. general, ivd, surgical)")
     args = parser.parse_args()
 
     if not (args.discover or args.download or args.stats):
         parser.print_help()
         print("\nExamples:")
         print("  python scripts/fetch_nmpa_fulltext.py --stats")
-        print("  python scripts/fetch_nmpa_fulltext.py --discover --limit 20")
-        print("  python scripts/fetch_nmpa_fulltext.py --download --limit 50")
+        print("  python scripts/fetch_nmpa_fulltext.py --discover --category general")
+        print("  python scripts/fetch_nmpa_fulltext.py --download --category general")
         print("  python scripts/fetch_nmpa_fulltext.py --discover --download")
         return
 
@@ -649,11 +653,12 @@ def main():
     searcher = WebSearcher()
 
     if args.discover:
-        discover_urls(searcher, limit=args.limit, dry_run=args.dry_run)
+        discover_urls(searcher, limit=args.limit, dry_run=args.dry_run,
+                      category=args.category)
 
     if args.download:
         download_and_extract(limit=args.limit, dry_run=args.dry_run,
-                             force=args.force)
+                             force=args.force, category=args.category)
 
 
 if __name__ == "__main__":
