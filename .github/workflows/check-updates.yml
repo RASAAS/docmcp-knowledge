@@ -143,15 +143,29 @@ jobs:
       - name: Notify VPS backend to refresh knowledge index
         if: steps.report.outputs.db_confirmed != '0' || steps.report.outputs.confirmed != '0'
         run: |
-          echo "Triggering knowledge base hot-refresh on VPS..."
+          echo "Triggering knowledge base hot-refresh on US VPS..."
           RESP=$(curl -sf -X POST "$VPS_URL/api/v1/knowledge/refresh" \
             -H "Authorization: Bearer $ADMIN_JWT" \
             -H "Content-Type: application/json" \
             --max-time 120 2>&1) || true
-          echo "Response: $RESP"
+          echo "US VPS Response: $RESP"
         env:
           VPS_URL: ${{ secrets.VPS_BACKEND_URL }}
           ADMIN_JWT: ${{ secrets.ADMIN_JWT_TOKEN }}
+        continue-on-error: true
+
+      - name: Notify CN backend to reindex knowledge
+        if: steps.report.outputs.db_confirmed != '0' || steps.report.outputs.confirmed != '0'
+        run: |
+          echo "Triggering knowledge base reindex on CN ECS (data via deploy-knowledge SCP)..."
+          RESP=$(curl -sf -X POST "$CN_URL/api/v1/knowledge/admin/reindex" \
+            -H "Authorization: Bearer $CN_ADMIN_JWT" \
+            -H "Content-Type: application/json" \
+            --max-time 120 2>&1) || true
+          echo "CN ECS Response: $RESP"
+        env:
+          CN_URL: ${{ secrets.CN_BACKEND_URL }}
+          CN_ADMIN_JWT: ${{ secrets.CN_ADMIN_JWT_TOKEN }}
         continue-on-error: true
 
       - name: Create tracking issue if DB-confirmed updates found

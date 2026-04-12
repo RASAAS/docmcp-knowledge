@@ -75,3 +75,35 @@ jobs:
           echo "Response: $RESP"
           TOTAL=$(echo "$RESP" | python3 -c "import sys,json; d=json.load(sys.stdin); print(d.get('stats',{}).get('total_documents','?'))" 2>/dev/null || echo "unknown")
           echo "Total documents indexed: $TOTAL"
+
+  deploy-cn-ecs:
+    name: Sync to CN ECS (SCP)
+    runs-on: ubuntu-latest
+    if: "!contains(github.event.head_commit.message, '[skip ci]')"
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Upload knowledge data to CN ECS via SCP
+        uses: appleboy/scp-action@v0.1.7
+        with:
+          host: ${{ secrets.CN_BACKEND_HOST }}
+          username: ${{ secrets.CN_BACKEND_USER }}
+          key: ${{ secrets.CN_BACKEND_SSH_KEY }}
+          port: 22
+          source: "eu_mdr/,fda/,nmpa/,imdrf/,shared/"
+          target: "/opt/docmcp-knowledge"
+          overwrite: true
+          rm: false
+
+      - name: Refresh knowledge index on CN ECS
+        run: |
+          echo "Triggering knowledge base reindex on CN ECS..."
+          RESP=$(curl -sf -X POST "${{ secrets.CN_BACKEND_URL }}/api/v1/knowledge/admin/reindex" \
+            -H "Authorization: Bearer ${{ secrets.CN_ADMIN_JWT_TOKEN }}" \
+            -H "Content-Type: application/json" \
+            --max-time 120 2>&1) || true
+          echo "CN ECS Response: $RESP"
+          TOTAL=$(echo "$RESP" | python3 -c "import sys,json; d=json.load(sys.stdin); print(d.get('stats',{}).get('total_documents','?'))" 2>/dev/null || echo "unknown")
+          echo "Total documents indexed: $TOTAL"
