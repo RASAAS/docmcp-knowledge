@@ -154,18 +154,24 @@ jobs:
           ADMIN_JWT: ${{ secrets.ADMIN_JWT_TOKEN }}
         continue-on-error: true
 
-      - name: Notify CN backend to reindex knowledge
+      - name: Reindex knowledge on CN ECS via SSH
         if: steps.report.outputs.db_confirmed != '0' || steps.report.outputs.confirmed != '0'
-        run: |
-          echo "Triggering knowledge base reindex on CN ECS (data via deploy-knowledge SCP)..."
-          RESP=$(curl -sf -X POST "$CN_URL/api/v1/knowledge/admin/reindex" \
-            -H "Authorization: Bearer $CN_ADMIN_JWT" \
-            -H "Content-Type: application/json" \
-            --max-time 120 2>&1) || true
-          echo "CN ECS Response: $RESP"
-        env:
-          CN_URL: ${{ secrets.CN_BACKEND_URL }}
-          CN_ADMIN_JWT: ${{ secrets.CN_ADMIN_JWT_TOKEN }}
+        uses: appleboy/ssh-action@v1.0.0
+        with:
+          host: ${{ secrets.CN_BACKEND_HOST }}
+          username: ${{ secrets.CN_BACKEND_USER }}
+          key: ${{ secrets.CN_BACKEND_SSH_KEY }}
+          port: 22
+          command_timeout: 3m
+          script: |
+            cd /opt/docmcp
+            docker compose exec -T llm-proxy python3 -c "
+            import sys
+            sys.path.insert(0, '/app/llm-proxy')
+            from knowledge_routes import rebuild_knowledge_index
+            idx = rebuild_knowledge_index()
+            print(f'CN ECS reindex: {idx.stats.get(\"total_documents\", \"?\")} documents')
+            "
         continue-on-error: true
 
       - name: Create tracking issue if DB-confirmed updates found

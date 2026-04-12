@@ -97,13 +97,20 @@ jobs:
           overwrite: true
           rm: false
 
-      - name: Refresh knowledge index on CN ECS
-        run: |
-          echo "Triggering knowledge base reindex on CN ECS..."
-          RESP=$(curl -sf -X POST "${{ secrets.CN_BACKEND_URL }}/api/v1/knowledge/admin/reindex" \
-            -H "Authorization: Bearer ${{ secrets.CN_ADMIN_JWT_TOKEN }}" \
-            -H "Content-Type: application/json" \
-            --max-time 120 2>&1) || true
-          echo "CN ECS Response: $RESP"
-          TOTAL=$(echo "$RESP" | python3 -c "import sys,json; d=json.load(sys.stdin); print(d.get('stats',{}).get('total_documents','?'))" 2>/dev/null || echo "unknown")
-          echo "Total documents indexed: $TOTAL"
+      - name: Reindex knowledge on CN ECS via SSH
+        uses: appleboy/ssh-action@v1.0.0
+        with:
+          host: ${{ secrets.CN_BACKEND_HOST }}
+          username: ${{ secrets.CN_BACKEND_USER }}
+          key: ${{ secrets.CN_BACKEND_SSH_KEY }}
+          port: 22
+          command_timeout: 3m
+          script: |
+            cd /opt/docmcp
+            docker compose exec -T llm-proxy python3 -c "
+            import sys
+            sys.path.insert(0, '/app/llm-proxy')
+            from knowledge_routes import rebuild_knowledge_index
+            idx = rebuild_knowledge_index()
+            print(f'CN ECS reindex complete: {idx.stats.get(\"total_documents\", \"?\")} documents')
+            "
