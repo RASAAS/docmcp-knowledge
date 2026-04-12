@@ -90,9 +90,12 @@ CN_SECTION_PATTERNS = [
     re.compile(r'^（[一二三四五六七八九十]+）'),
     re.compile(r'^第[一二三四五六七八九十百]+[章节条]'),
     re.compile(r'^\d+[、.．]\s'),
+    re.compile(r'^\d+\.\d+[\s\S]'),
     re.compile(r'^（\d+）'),
     re.compile(r'^附[录件]\s*[一二三四五六七八九十A-Z\d]'),
 ]
+
+_W_NS = 'http://schemas.openxmlformats.org/wordprocessingml/2006/main'
 
 _LIBREOFFICE_BIN: Optional[str] = None
 
@@ -721,43 +724,68 @@ def extract_docx_to_markdown(docx_bytes: bytes, image_map: dict[str, str] | None
         logger.error(f"    Failed to open docx: {e}")
         return ""
 
-    lines = []
-    img_idx_in_doc = 0
+    lines: list[str] = []
+    table_set: set[int] = set()
 
-    for para in doc.paragraphs:
-        text = para.text.strip()
+    body_el = doc.element.body
+    for child in body_el:
+        tag = child.tag.split("}")[-1] if "}" in child.tag else child.tag
 
-        has_images = False
-        if image_map:
-            for run in para.runs:
-                drawing_els = run._element.findall(
-                    './/{http://schemas.openxmlformats.org/wordprocessingml/2006/main}drawing'
-                ) or run._element.findall(
-                    './/{http://schemas.openxmlformats.org/drawingml/2006/main}blip'
-                )
-                if drawing_els:
-                    has_images = True
+        if tag == "p":
+            para = None
+            for p in doc.paragraphs:
+                if p._element is child:
+                    para = p
+                    break
+            if para is None:
+                continue
 
-        if not text and not has_images:
-            lines.append("")
-            continue
+            text = para.text.strip()
 
-        if text:
-            style_name = para.style.name if para.style else ""
-            lines.append(_para_to_markdown(text, style_name, para))
+            has_images = False
+            if image_map:
+                for run in para.runs:
+                    drawing_els = run._element.findall(
+                        './/{http://schemas.openxmlformats.org/wordprocessingml/2006/main}drawing'
+                    ) or run._element.findall(
+                        './/{http://schemas.openxmlformats.org/drawingml/2006/main}blip'
+                    )
+                    if drawing_els:
+                        has_images = True
 
-        if has_images and image_map:
-            for rel_id, img_path in image_map.items():
-                blip_els = para._element.findall(
-                    f'.//{{{_nsmap("a")}}}blip[@{{{_nsmap("r")}}}embed="{rel_id}"]'
-                )
-                if blip_els:
-                    lines.append(f"\n![](/images/nmpa-guidance/{img_path.split('/images/nmpa-guidance/')[-1]})\n")
+            if not text and not has_images:
+                lines.append("")
+                continue
 
-    for table in doc.tables:
-        lines.append("")
-        lines.extend(_table_to_markdown(table))
-        lines.append("")
+            if text:
+                style_name = para.style.name if para.style else ""
+                md_line = _para_to_markdown(text, style_name, para)
+                if md_line.startswith("#"):
+                    lines.append("")
+                    lines.append(md_line)
+                    lines.append("")
+                else:
+                    lines.append(md_line)
+
+            if has_images and image_map:
+                for rel_id, img_path in image_map.items():
+                    blip_els = para._element.findall(
+                        f'.//{{{_nsmap("a")}}}blip[@{{{_nsmap("r")}}}embed="{rel_id}"]'
+                    )
+                    if blip_els:
+                        lines.append(f"\n![](/images/nmpa-guidance/{img_path.split('/images/nmpa-guidance/')[-1]})\n")
+
+        elif tag == "tbl":
+            tbl_id = id(child)
+            if tbl_id in table_set:
+                continue
+            table_set.add(tbl_id)
+            for tbl in doc.tables:
+                if tbl._element is child:
+                    lines.append("")
+                    lines.extend(_table_to_markdown(tbl))
+                    lines.append("")
+                    break
 
     content = "\n".join(lines)
     content = re.sub(r'\n{3,}', '\n\n', content)
@@ -773,32 +801,74 @@ def _nsmap(prefix: str) -> str:
     return ns.get(prefix, "")
 
 
+def _get_outline_level(para) -> int | None:
+    """Extract outline level from paragraph XML (w:outlineLvl)."""
+    ppr = para._element.find(f'{{{_W_NS}}}pPr')
+    if ppr is not None:
+        ol = ppr.find(f'{{{_W_NS}}}outlineLvl')
+        if ol is not None:
+            try:
+                return int(ol.get(f'{{{_W_NS}}}val'))
+            except (TypeError, ValueError):
+                pass
+    return None
+
+
 def _para_to_markdown(text: str, style_name: str, para) -> str:
     heading_styles = {
         "Heading 1", "Heading 2", "Heading 3", "Heading 4",
+        "Heading 5", "Heading 6",
         "heading 1", "heading 2", "heading 3", "heading 4",
+        "heading 5", "heading 6",
     }
+
+    cn_heading_map = {}
+    for i in range(1, 7):
+        cn_heading_map[f"\u6807\u9898 {i}"] = i
+        cn_heading_map[f"\u6807\u9898{i}"] = i
+
     if style_name in heading_styles:
         level_match = re.search(r'(\d)', style_name)
         level = int(level_match.group(1)) if level_match else 2
         return f"{'#' * level} {text}"
 
-    for pattern in CN_SECTION_PATTERNS:
-        if pattern.match(text):
-            if re.match(r'^[一二三四五六七八九十]+[、.．]', text):
-                return f"## {text}"
-            elif re.match(r'^（[一二三四五六七八九十]+）', text):
-                return f"### {text}"
-            elif re.match(r'^第[一二三四五六七八九十百]+[章节]', text):
-                return f"## {text}"
-            elif re.match(r'^第[一二三四五六七八九十百]+条', text):
-                return f"### {text}"
-            elif re.match(r'^\d+[、.．]\s', text):
-                return f"### {text}"
-            elif re.match(r'^（\d+）', text):
-                return f"#### {text}"
-            elif re.match(r'^附[录件]', text):
-                return f"## {text}"
+    if style_name in cn_heading_map:
+        level = cn_heading_map[style_name]
+        return f"{'#' * level} {text}"
+
+    if style_name in ("Title", "title", "Subtitle", "subtitle"):
+        return f"# {text}" if style_name.lower() == "title" else f"## {text}"
+
+    outline = _get_outline_level(para)
+    if outline is not None:
+        level = min(outline + 1, 6)
+        if level < 1:
+            level = 1
+        return f"{'#' * level} {text}"
+
+    is_short = len(text) < 100
+
+    if re.match(r'^[一二三四五六七八九十]+[、.．]', text) and is_short:
+        return f"## {text}"
+    if re.match(r'^（[一二三四五六七八九十]+）', text) and is_short:
+        return f"### {text}"
+    if re.match(r'^第[一二三四五六七八九十百]+[章节]', text) and is_short:
+        return f"## {text}"
+    if re.match(r'^第[一二三四五六七八九十百]+条', text) and is_short:
+        return f"### {text}"
+    if re.match(r'^\d+[、.．]\s*\S', text) and is_short:
+        return f"### {text}"
+    if re.match(r'^\d+\.\d+\.\d+[.\s]', text) and is_short:
+        return f"##### {text}"
+    m_sub = re.match(r'^(\d+\.\d+)\s*(.*)', text, re.DOTALL)
+    if m_sub:
+        rest = m_sub.group(2).strip()
+        if len(rest) < 40:
+            return f"#### {text}"
+    if re.match(r'^（\d+）', text) and is_short:
+        return f"#### {text}"
+    if re.match(r'^附[录件]', text) and is_short:
+        return f"## {text}"
 
     is_bold = (all(run.bold for run in para.runs if run.text.strip())
                if para.runs else False)
