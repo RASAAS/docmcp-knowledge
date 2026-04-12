@@ -116,6 +116,22 @@ export default defineConfig({
   description: 'Open regulatory knowledge base for medical device compliance',
   srcDir: '.',
   ignoreDeadLinks: true,
+  markdown: {
+    image: {
+      lazyLoading: true
+    },
+    config: (md) => {
+      const defaultRender = md.renderer.rules.image!
+      md.renderer.rules.image = (tokens, idx, options, env, self) => {
+        const token = tokens[idx]
+        const src = token.attrGet('src') || ''
+        if (src.startsWith('/images/')) {
+          token.attrSet('src', `https://docs.team-ra.org${src}`)
+        }
+        return defaultRender(tokens, idx, options, env, self)
+      }
+    }
+  },
 
   locales: {
     root: {
@@ -246,7 +262,6 @@ export default defineConfig({
           message: 'Content licensed under CC BY 4.0',
           copyright: 'Copyright © 2026 RASAAS'
         },
-        search: { provider: 'local' }
       }
     },
     zh: {
@@ -272,12 +287,59 @@ export default defineConfig({
           message: '内容以 CC BY 4.0 许可证授权',
           copyright: 'Copyright © 2026 RASAAS'
         },
-        search: { provider: 'local' }
       }
     }
   },
 
   themeConfig: {
     logo: { light: '/logo.png', dark: '/logo-dark.png', alt: 'DocMCP' },
+    search: {
+      provider: 'local',
+      options: {
+        locales: {
+          zh: {
+            translations: {
+              button: {
+                buttonText: '搜索文档',
+                buttonAriaLabel: '搜索文档'
+              },
+              modal: {
+                displayDetails: '显示详细列表',
+                resetButtonTitle: '清除查询',
+                backButtonTitle: '关闭搜索',
+                noResultsText: '无法找到相关结果',
+                footer: {
+                  selectText: '选择',
+                  navigateText: '切换',
+                  closeText: '关闭'
+                }
+              }
+            }
+          }
+        },
+        miniSearch: {
+          options: {
+            tokenize(text: string) {
+              const segmenter = (Intl as any).Segmenter
+                ? new (Intl as any).Segmenter('zh-CN', { granularity: 'word' })
+                : null
+              if (segmenter) {
+                const segments: string[] = []
+                for (const seg of segmenter.segment(text)) {
+                  if (seg.isWordLike) segments.push(seg.segment)
+                }
+                if (segments.length > 0) return segments
+              }
+              return text.split(/[\s\p{P}]+/u).filter(Boolean)
+            }
+          },
+          searchOptions: {
+            fuzzy: 0.2,
+            prefix: true,
+            boost: { title: 4, text: 2, titles: 1 }
+          }
+        }
+      }
+    }
   }
 })
