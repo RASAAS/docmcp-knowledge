@@ -3079,10 +3079,8 @@
         "en": ""
       },
       "status": "active",
-      "source_url": "https://www.cmde.org.cn/directory/web/cmde/images/1764723065617075095.docx",
       "doc_number": "国家药品监督管理局2021年第95号通告",
-      "category": "ivd",
-      "slug": "cmde-2021-95-d1af"
+      "category": "ivd"
     },
     {
       "id": "nmpa-gp-神经和心血管手术器械-刀-剪及针注册审查指导原则-65bc61",
@@ -3678,10 +3676,8 @@
         "en": ""
       },
       "status": "active",
-      "source_url": "https://www.cmde.org.cn/directory/web/cmde/images/1762849783425047980.docx",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2022年 第19号通告",
-      "category": "implant_cardio",
-      "slug": "cmde-2022-19"
+      "category": "implant_cardio"
     },
     {
       "id": "nmpa-gp-肺结节ct图像辅助检测软件注册审查指导原则-b2a9c9",
@@ -3725,10 +3721,8 @@
         "en": ""
       },
       "status": "active",
-      "source_url": "https://www.cmde.org.cn/directory/web/cmde/images/1774314922376031465.docx",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2022年第28号通告",
-      "category": "ivd",
-      "slug": "cmde-2022-28"
+      "category": "ivd"
     },
     {
       "id": "nmpa-gp-医疗器械安全和性能基本原则符合性技术指南-019d1a",
@@ -4122,10 +4116,8 @@
         "en": ""
       },
       "status": "active",
-      "source_url": "https://www.cmde.org.cn/directory/web/cmde/images/1737859267166044457.docx",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2022年第39号通告",
-      "category": "general",
-      "slug": "cmde-2022-39"
+      "category": "general"
     },
     {
       "id": "nmpa-gp-基因测序仪临床评价注册审查指导原则-227f39",
@@ -4516,10 +4508,8 @@
         "en": ""
       },
       "status": "active",
-      "source_url": "https://www.cmde.org.cn/directory/web/cmde/images/1665209529883077206.docx",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2023年第3号通告",
-      "category": "implant_ortho",
-      "slug": "cmde-2023-3-d74f"
+      "category": "implant_ortho"
     },
     {
       "id": "nmpa-gp-腹腔内窥镜手术系统注册审查指导原则-第1部分-手术器械-dd8b2a",
@@ -4576,10 +4566,8 @@
         "en": ""
       },
       "status": "active",
-      "source_url": "https://www.cmde.org.cn/directory/web/cmde/images/1665217269892055515.doc",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2023年第9号通告",
-      "category": "ophthalmic",
-      "slug": "cmde-2023-9"
+      "category": "ophthalmic"
     },
     {
       "id": "nmpa-gp-软性亲水接触镜说明书编写指导原则-2023年修订版-602206",
@@ -4713,10 +4701,8 @@
         "en": ""
       },
       "status": "active",
-      "source_url": "https://www.cmde.org.cn/directory/web/cmde/images/1669616083131006393.doc",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2023年第15号通告",
-      "category": "general",
-      "slug": "cmde-2023-15"
+      "category": "general"
     },
     {
       "id": "nmpa-gp-眼科光学测量设备注册审查指导原则-14f052",
@@ -4725,10 +4711,8 @@
         "en": ""
       },
       "status": "active",
-      "source_url": "https://www.cmde.org.cn/directory/web/cmde/images/1663047226126082709.docx",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2023年第13号通告",
-      "category": "ophthalmic",
-      "slug": "cmde-2023-13"
+      "category": "ophthalmic"
     },
     {
       "id": "nmpa-gp-重组胶原蛋白创面敷料注册审查指导原则-d4c043",
@@ -4794,10 +4778,8 @@
         "en": ""
       },
       "status": "active",
-      "source_url": "https://www.cmde.org.cn/directory/web/cmde/images/1661483597905017345.docx",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2023年第17号通告",
-      "category": "infusion_injection",
-      "slug": "cmde-2023-17"
+      "category": "infusion_injection"
     },
     {
       "id": "nmpa-gp-椎间融合器同品种临床评价注册审查指导原则-e2f99f",
@@ -5292,10 +5274,8 @@
         "en": ""
       },
       "status": "active",
-      "source_url": "https://www.cmde.org.cn/directory/web/cmde/images/1669952231643081447.doc",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2024年第1号通告",
-      "category": "ivd",
-      "slug": "cmde-2024-1-3e24"
+      "category": "ivd"
     },
     {
       "id": "nmpa-gp-体外诊断试剂主要原材料研究注册审查指导原则-d4e9ae",
@@ -5305,9 +5285,7 @@
       },
       "status": "active",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2024年第1号通告",
-      "category": "general",
-      "slug": "cmde-2024-1-d877",
-      "source_url": "https://www.cmde.org.cn/directory/web/cmde/images/1761120728297053005.docx"
+      "category": "general"
     },
     {
       "id": "nmpa-gp-布鲁氏菌-igm-igg-抗体检测试剂注册审查指导原则-5f332b",
@@ -5338,10 +5316,8 @@
         "en": ""
       },
       "status": "active",
-      "source_url": "https://www.cmde.org.cn/directory/web/cmde/images/1665218974189011928.docx",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2024年第1号通告",
-      "category": "ivd",
-      "slug": "cmde-2024-1-ace3"
+      "category": "ivd"
     },
     {
       "id": "nmpa-gp-曲霉核酸检测试剂注册审查指导原则-0d1451",
@@ -5350,10 +5326,8 @@
         "en": ""
       },
       "status": "active",
-      "source_url": "https://www.cmde.org.cn/directory/web/cmde/images/1669620529302032989.doc",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2024年第1号通告",
-      "category": "ivd",
-      "slug": "cmde-2024-1-39a2"
+      "category": "ivd"
     },
     {
       "id": "nmpa-gp-乙型肝炎病毒脱氧核糖核酸检测试剂注册审查指导原则-2023-年修订版-bd6b7c",
@@ -5362,10 +5336,8 @@
         "en": ""
       },
       "status": "active",
-      "source_url": "https://www.cmde.org.cn/directory/web/cmde/images/1669952113129083324.doc",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2024年第1号通告",
-      "category": "ivd",
-      "slug": "cmde-2024-1-0551"
+      "category": "ivd"
     },
     {
       "id": "nmpa-gp-弓形虫-风疹病毒-巨细胞病毒-单纯疱疹病毒抗体及g型免疫球蛋白抗体亲合力检测试剂注册审查指导原则-2023年修订版-337dcd",
@@ -5385,10 +5357,8 @@
         "en": ""
       },
       "status": "active",
-      "source_url": "https://www.cmde.org.cn/directory/web/cmde/images/1667284790298084650.docx",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2024年第2号通告",
-      "category": "ivd",
-      "slug": "cmde-2024-2"
+      "category": "ivd"
     },
     {
       "id": "nmpa-gp-医疗器械真实世界研究设计和统计分析注册审查指导原则-476554",
@@ -5408,10 +5378,8 @@
         "en": ""
       },
       "status": "active",
-      "source_url": "https://www.cmde.org.cn/directory/web/cmde/images/1667284806009006602.docx",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2024年第4号通告",
-      "category": "ivd",
-      "slug": "cmde-2024-4"
+      "category": "ivd"
     },
     {
       "id": "nmpa-gp-人类免疫缺陷病毒检测试剂临床试验注册审查指导原则-2023年修订版-c3788d",
@@ -7159,10 +7127,8 @@
         "en": ""
       },
       "status": "active",
-      "source_url": "https://www.cmde.org.cn/directory/web/cmde/images/1726813846503058044.doc",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2025年第25号通告",
-      "category": "implant_cardio",
-      "slug": "cmde-2025-25"
+      "category": "implant_cardio"
     },
     {
       "id": "nmpa-gp-电动牵引装置注册审查指导原则-2025年修订版-fa6b6c",
@@ -7677,10 +7643,8 @@
         "en": ""
       },
       "status": "active",
-      "source_url": "https://www.cmde.org.cn/directory/web/cmde/images/1737706150126059662.doc",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2025年第32号通告",
-      "category": "general",
-      "slug": "cmde-2025-32"
+      "category": "general"
     },
     {
       "id": "nmpa-gp-肿瘤伴随诊断相关基因突变检测试剂-实时荧光聚合酶链反应法-注册审查指导原则-2025年修订版-0f363b",
@@ -7800,10 +7764,8 @@
         "en": ""
       },
       "status": "active",
-      "source_url": "https://www.cmde.org.cn/directory/web/cmde/images/1763954131958038602.docx",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2026年第4号通告",
-      "category": "implant_ortho",
-      "slug": "cmde-2026-4"
+      "category": "implant_ortho"
     },
     {
       "id": "nmpa-gp-颅颌面内固定系统注册审查指导原则-f3082d",

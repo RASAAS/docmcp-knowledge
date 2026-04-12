@@ -422,17 +422,40 @@ def is_catalog_content(text: str) -> bool:
 
 def _title_keywords(title: str) -> set[str]:
     """Extract meaningful keywords from a Chinese title."""
-    title_core = re.sub(r'[（()）\[\]【】（）]', '', title)
+    title_core = re.sub(r'[（()）\[\]【】（）/／]', '', title)
     title_core = re.sub(r'\d{4}年.*?修订版', '', title_core)
+    title_core = re.sub(r'第\d+号', '', title_core)
     generic_terms = {
         '指导原则', '注册', '审查', '技术', '医疗器械', '体外诊断',
-        '试剂', '产品', '临床', '研究', '评价', '评估',
+        '试剂', '产品', '临床', '研究', '评价', '评估', '注册审查',
+        '技术审查', '注册技术审查',
     }
     keywords = set()
     for seg in re.split(r'[、，,\s]+', title_core):
-        if len(seg) >= 2 and seg not in generic_terms:
+        seg = seg.strip()
+        if not seg:
+            continue
+        if seg in generic_terms:
+            continue
+        if len(seg) >= 2:
             keywords.add(seg)
+        if len(seg) > 6:
+            for sub_term in generic_terms:
+                if sub_term in seg:
+                    parts = seg.split(sub_term)
+                    for p in parts:
+                        p = p.strip()
+                        if len(p) >= 2 and p not in generic_terms:
+                            keywords.add(p)
     return keywords
+
+
+def _normalize_title(title: str) -> str:
+    """Normalize a Chinese title for comparison (remove spaces, punct variants)."""
+    t = re.sub(r'\s+', '', title)
+    t = t.replace('/', '').replace('（', '(').replace('）', ')')
+    t = re.sub(r'\(\d{4}年.*?\)', '', t)
+    return t
 
 
 def content_matches_title(text: str, expected_title: str) -> bool:
@@ -445,12 +468,40 @@ def content_matches_title(text: str, expected_title: str) -> bool:
     if expected_title in first_section:
         return True
 
+    norm_expected = _normalize_title(expected_title)
+    norm_first = _normalize_title(first_section[:3000])
+    if norm_expected in norm_first:
+        return True
+
     title_keywords = _title_keywords(expected_title)
     if not title_keywords:
         return True
 
     keyword_hits = sum(1 for kw in title_keywords if kw in first_section)
     return keyword_hits / len(title_keywords) >= 0.3
+
+
+def is_draft_content(text: str) -> bool:
+    """Detect if extracted text is a draft for comments (征求意见稿).
+
+    Only official/final versions should be included in the knowledge base.
+    Draft documents are identified by explicit markers in the first ~3000 chars.
+    """
+    if not text:
+        return False
+
+    head = text[:3000]
+
+    draft_patterns = [
+        r'征求意见稿',
+        r'征求\s*意见\s*稿',
+    ]
+
+    for pat in draft_patterns:
+        if re.search(pat, head):
+            return True
+
+    return False
 
 
 def validate_extracted_content(
@@ -465,6 +516,9 @@ def validate_extracted_content(
 
     if is_catalog_content(markdown):
         return False, "catalog"
+
+    if is_draft_content(markdown):
+        return False, "draft"
 
     if not content_matches_title(markdown, expected_title):
         return False, "title_mismatch"
@@ -1053,6 +1107,14 @@ def download_and_extract(limit: int = 0, dry_run: bool = False,
 
             if is_catalog_content(markdown):
                 logger.info(f"    REJECTED: catalog")
+                if image_map:
+                    img_dir = IMAGES_DIR / slug_for_images
+                    if img_dir.exists():
+                        shutil.rmtree(img_dir)
+                continue
+
+            if is_draft_content(markdown):
+                logger.info(f"    REJECTED: draft for comments (征求意见稿)")
                 if image_map:
                     img_dir = IMAGES_DIR / slug_for_images
                     if img_dir.exists():
