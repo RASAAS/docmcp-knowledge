@@ -121,7 +121,10 @@ export default defineConfig({
       lazyLoading: true
     },
     config: (md) => {
-      const defaultRender = md.renderer.rules.image!
+      const defaultRender = md.renderer.rules.image ||
+        function (tokens: any, idx: any, options: any, _env: any, self: any) {
+          return self.renderToken(tokens, idx, options)
+        }
       md.renderer.rules.image = (tokens, idx, options, env, self) => {
         const token = tokens[idx]
         const src = token.attrGet('src') || ''
