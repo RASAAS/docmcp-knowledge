@@ -7,7 +7,7 @@ on Modal for zh->en translation, and saves the result as .en.md files.
 The translation API processes text in segments to handle long documents.
 
 Prerequisites:
-    - TRANSLATE_API_URL env var (default: Modal endpoint)
+    - TRANSLATE_API_URL env var (required, no default)
     - TRANSLATE_API_TOKEN env var (Bearer token for auth)
 
 Usage:
@@ -36,10 +36,7 @@ logger = logging.getLogger(__name__)
 
 KNOWLEDGE_ROOT = Path(__file__).parent.parent
 
-DEFAULT_API_URL = (
-    "https://m-yan82--translate-api-translateserver-serve.modal.run"
-)
-API_URL = os.getenv("TRANSLATE_API_URL", DEFAULT_API_URL)
+API_URL = os.getenv("TRANSLATE_API_URL", "")
 API_TOKEN = os.getenv("TRANSLATE_API_TOKEN", "")
 
 MAX_SEGMENTS_PER_REQUEST = 150
@@ -153,8 +150,8 @@ def translate_batch(texts: list[str], retries: int = 3) -> list[str]:
     """Call the translation API to translate a batch of texts."""
     import requests
 
-    if not API_TOKEN:
-        logger.error("TRANSLATE_API_TOKEN not set")
+    if not API_URL or not API_TOKEN:
+        logger.error("TRANSLATE_API_URL and TRANSLATE_API_TOKEN must be set")
         return texts
 
     headers = {
@@ -381,6 +378,14 @@ def main():
     parser.add_argument("--force", action="store_true",
                         help="Re-translate even if .en.md exists")
     args = parser.parse_args()
+
+    if not args.stats and not args.dry_run:
+        if not API_URL:
+            logger.error("TRANSLATE_API_URL env var is required")
+            sys.exit(1)
+        if not API_TOKEN:
+            logger.error("TRANSLATE_API_TOKEN env var is required")
+            sys.exit(1)
 
     if args.stats:
         show_stats()
