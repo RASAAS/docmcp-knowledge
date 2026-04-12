@@ -40,8 +40,13 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install dependencies
-        run: pip install requests pyyaml
+      - name: Install system dependencies
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq libreoffice-writer-nogui
+
+      - name: Install Python dependencies
+        run: pip install requests pyyaml python-docx
 
       - name: Configure git
         run: |
