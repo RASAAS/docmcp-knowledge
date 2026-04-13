@@ -656,9 +656,7 @@ def _guidance_entry_line(entry: dict, lang: str, has_fulltext: dict,
 
     if ft and slug:
         return f"- [{display}]({link_prefix}{slug}){date_suffix}"
-    source_url = entry.get("source_url", "")
-    if source_url:
-        return f"- [{display}]({source_url}){date_suffix}"
+    # No fulltext: show as plain text (don't link to .doc/.docx download URLs)
     return f"- {display}{date_suffix}"
 
 
