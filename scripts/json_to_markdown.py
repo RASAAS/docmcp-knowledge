@@ -474,7 +474,11 @@ def _escape_vue_tags(text: str) -> str:
 
 
 def _load_fulltext(fw_dir: Path, doc_type: str, entry: dict) -> str:
-    """Load fulltext markdown for an entry, if available."""
+    """Load fulltext markdown for an entry, if available.
+
+    Checks both {name}.md and {name}.zh.md (NMPA Chinese sources often
+    use the .zh.md extension for original content).
+    """
     slug = entry.get("slug", "")
     eid = entry.get("id", "")
     for name in [slug, re.sub(r'[^\w\-.]', '_', eid)] if eid else [slug]:
@@ -483,6 +487,9 @@ def _load_fulltext(fw_dir: Path, doc_type: str, entry: dict) -> str:
         path = fw_dir / doc_type / "fulltext" / f"{name}.md"
         if path.exists():
             return path.read_text(encoding="utf-8")
+        zh_path = fw_dir / doc_type / "fulltext" / f"{name}.zh.md"
+        if zh_path.exists():
+            return zh_path.read_text(encoding="utf-8")
     return ""
 
 
@@ -619,6 +626,9 @@ NMPA_GUIDANCE_CATEGORIES = {
     "tcm": {"zh": "中医器械", "en": "Traditional Chinese Medicine Devices"},
     "radiation_therapy": {"zh": "放射治疗", "en": "Radiation Therapy"},
     "software_ai": {"zh": "软件与人工智能", "en": "Software & AI"},
+    "naming": {"zh": "命名指导原则", "en": "Naming Guidance"},
+    "review_point": {"zh": "技术审评要点", "en": "Review Points"},
+    "guidance": {"zh": "其他指导文件", "en": "Other Guidance Documents"},
 }
 
 NMPA_CATEGORY_ORDER = [
@@ -626,7 +636,7 @@ NMPA_CATEGORY_ORDER = [
     "implant_ortho", "implant_cardio", "dental", "monitoring", "imaging",
     "wound_care", "rehab_physio", "ophthalmic", "blood_transfusion",
     "reproductive", "sterilization", "lab_equipment", "tcm",
-    "radiation_therapy", "software_ai",
+    "radiation_therapy", "software_ai", "naming", "review_point", "guidance",
 ]
 
 
