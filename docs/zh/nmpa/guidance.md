@@ -4,25 +4,25 @@ title: NMPA 指南文件
 
 # NMPA 指南文件
 
-共 770 份指南文件，已收录全文 561 份。
+共 770 份指南文件，已收录全文 498 份。
 
 ## 通用指导原则 (72)
 
 - [医疗器械生物学评价和审查指南](./guidance/cmde-2007-345)
 - 含药医疗器械产品注册申报资料撰写指导原则
-- [无源植入性医疗器械产品注册申报资料指导原则](./guidance/cmde-2009-519)
+- [无源植入性医疗器械产品注册申报资料指导原则](https://www.nmpa.gov.cn/directory/web/nmpa/images/zai45je6xSC4vbz+LmRvYw==.doc)
 - [脉搏血氧仪设备临床评价技术指导原则](./guidance/cmde-2016-21)
 - [医疗器械优先审批申报资料编写指南（试行）](./guidance/nmpa-gp-医疗器械优先审批申报资料编写指南-试行-abfb65)
 - [医疗器械注册单元划分指导原则](./guidance/cmde-2017-187)
 - [动物源性医疗器械注册技术审查指导原则（2017年修订版）](./guidance/nmpa-gp-动物源性医疗器械注册技术审查指导原则-2017年修订版-7e0950)
 - [医疗器械临床试验设计指导原则](./guidance/cmde-2018-6)
-- [接受医疗器械境外临床试验数据技术指导原则](./guidance/nmpa-gp-接受医疗器械境外临床试验数据技术指导原则-219af7)
+- 接受医疗器械境外临床试验数据技术指导原则
 - [无源植入性医疗器械临床试验审批申报资料编写指导原则](./guidance/cmde-2018-40)
 - 用于罕见病防治医疗器械注册审查指导原则
 - [创新医疗器械特别审查申报资料编写指南](./guidance/nmpa-notice-2018-127)
 - [有源医疗器械使用期限注册技术审查指导原则](./guidance/cmde-2019-23)
 - [医疗器械注册申请电子提交技术指南](./guidance/cmde-2019-29)
-- [无源植入性骨、关节及口腔硬组织个性化增材制造医疗器械注册技术审查指导原则](./guidance/cmde-2019-70)
+- [无源植入性骨、关节及口腔硬组织个性化增材制造医疗器械注册技术审查指导原则](https://www.nmpa.gov.cn/directory/web/nmpa/images/ufq80tKpxre84La9udzA7b7WMjAxOcTqtdo3MLrFzai45ri9vP4uZG9j.doc)
 - [医疗器械已知可沥滤物测定方法验证及确认注册技术审查指导原则](./guidance/cmde-2019-78)
 - 医疗器械附条件批准上市指导原则
 - [医疗器械安全和性能基本原则](./guidance/cmde-2020-18)
@@ -34,21 +34,21 @@ title: NMPA 指南文件
 - 个性化匹配骨植入物及工具医工交互质控审查指导原则
 - [真实世界数据用于医疗器械临床评价技术指导原则（试行）](./guidance/cmde-2020-77)
 - 家用体外诊断医疗器械注册技术审查指导原则
-- [应用纳米材料的医疗器械安全性和有效性评价指导原则第一部分：体系框架](./guidance/cmde-2021-65)
+- [应用纳米材料的医疗器械安全性和有效性评价指导原则第一部分：体系框架](https://www.cmde.org.cn/directory/web/cmde/images/1769499999049089659.doc)
 - [免于临床试验的体外诊断试剂临床评价技术指导原则](./guidance/nmpa-gp-免于临床试验的体外诊断试剂临床评价技术指导原则-7270f6)
 - [体外诊断试剂临床试验技术指导原则(2021年修订版)](./guidance/cmde-2021-72)
-- [医疗器械动物试验研究注册审查指导原则第一部分：决策原则（2021年修订版）](./guidance/cmde-2021-75)
-- [医疗器械动物试验研究注册审查指导原则第二部分：试验设计、实施质量保证](./guidance/cmde-2021-75-a2fa)
+- [医疗器械动物试验研究注册审查指导原则第一部分：决策原则（2021年修订版）](https://www.nmpa.gov.cn/directory/web/nmpa/images/1632727872486009988.docx)
+- [医疗器械动物试验研究注册审查指导原则第二部分：试验设计、实施质量保证](https://www.nmpa.gov.cn/directory/web/nmpa/images/1632727882060023534.doc)
 - [医疗器械临床评价技术指导原则(2021年修订版)](./guidance/cmde-2021-73)
 - [决策是否开展医疗器械临床试验技术指导原则](./guidance/cmde-2021-73-4)
-- [列入免于临床评价医疗器械目录产品对比说明技术指导原则](./guidance/cmde-2021-73-804e)
+- [列入免于临床评价医疗器械目录产品对比说明技术指导原则](https://www.cmde.org.cn/directory/web/cmde/images/wdDI68Pi09rB2bSyxsC829K9wcbG99C1xLCvLL6xre21LHIy7XD97y8yvXWuLW81K3U8qOoMjAyMcTqtdo3M7rFo6kuZG9jeA==.docx)
 - [医疗器械临床评价等同性论证技术指导原则](./guidance/cmde-2021-73-3)
 - [医疗器械注册申报临床评价报告技术指导原则](./guidance/cmde-2021-73-2)
 - 体外诊断试剂临床试验数据递交要求注册审查指导原则
 - [医疗器械临床试验数据递交要求注册审查指导原则](./guidance/nmpa-2021-91)
 - [使用体外诊断试剂境外临床试验数据的注册审查指导原则](./guidance/cmde-2021-95)
 - [以医疗器械作用为主的药械组合产品注册审查指导原则](./guidance/cmde-2022-3)
-- [以医疗器械作用为主的药械组合产品中药物定性定量及体外释放研究注册审查指导原则](./guidance/cmde-2022-3-8e1c)
+- [以医疗器械作用为主的药械组合产品中药物定性定量及体外释放研究注册审查指导原则](https://www.cmde.org.cn/directory/web/cmde/images/1770355680110018993.docx)
 - [医疗器械产品技术要求编写指导原则（2022年修订版）](./guidance/cmde-2022-8)
 - 增材制造聚醚醚酮植入物注册审查指导原则
 - 增材制造金属植入物理化性能均一性研究指导原则
@@ -67,14 +67,14 @@ title: NMPA 指南文件
 - 应用纳米材料的医疗器械安全性和有效性评价指导原则 第二部分：理化表征
 - [重组人源化胶原蛋白原材料评价指导原则](./guidance/recombinant-humanized-collagen-raw-materials-2023)
 - [医疗器械产品受益-风险判定技术指导原则（2023修订版）](./guidance/cmde-2023-25-73ea)
-- [人工智能辅助检测医疗器械（软件）临床评价注册审查指导原则](./guidance/cmde-2023-38)
+- 人工智能辅助检测医疗器械（软件）临床评价注册审查指导原则
 - [体外诊断试剂说明书编写指导原则（2023年修订版）](./guidance/cmde-2024-1)
 - [体外诊断试剂主要原材料研究注册审查指导原则](./guidance/cmde-2024-1-d877)
 - [医疗器械真实世界研究设计和统计分析注册审查指导原则](./guidance/cmde-2024-3)
 - [远程监测系统注册审查指导原则](./guidance/remote-monitoring-system-2024)
 - [医疗器械光辐射安全注册审查指导原则](./guidance/cmde-2024-12-d797)
 - [医疗器械可用性工程注册审查指导原则](./guidance/usability)
-- [应用纳米材料的医疗器械安全性和有效性评价指导原则第三部分生物相容性毒理学评价](./guidance/cmde-2024-23-1880)
+- [应用纳米材料的医疗器械安全性和有效性评价指导原则第三部分生物相容性毒理学评价](https://www.cmde.org.cn/directory/web/cmde/images/1769499999049089659.doc)
 - [体外诊断试剂稳定性研究注册审查指导原则](./guidance/cmde-2025-4-ebc1)
 - [移动医疗器械注册技术审查指导原则（2025年修订版）](./guidance/mobile-wearable-device-2025)
 - [癌症筛查体外诊断试剂临床评价注册审查指导原则](./guidance/cmde-2025-16-2d53)
@@ -86,7 +86,7 @@ title: NMPA 指南文件
 - 体外诊断试剂分析性能评估（准确度-方法学比对）技术审查指导原则
 - 体外诊断试剂分析性能评估（准确度-回收试验）技术审查指导原则
 - [金标类检测试剂注册技术审查指导原则](./guidance/cmde-2013-3)
-- [生物芯片类检测试剂注册技术审查指导原则](./guidance/cmde-2013-3-2b89)
+- [生物芯片类检测试剂注册技术审查指导原则](https://www.nmpa.gov.cn/directory/web/nmpa/images/MjAxN8TqtdoxODe6xc2ouOa4vbz+LmRvY3g=.docx)
 - [酶联免疫法检测试剂注册技术审查指导原则](./guidance/cmde-2013-3-e49c)
 - [核酸扩增法检测试剂注册技术审查指导原则](./guidance/cmde-2013-3-98cd)
 - [发光免疫类检测试剂注册技术审查指导原则](./guidance/cmde-2013-3-4c60)
@@ -111,7 +111,7 @@ title: NMPA 指南文件
 - [抗人球蛋白检测试剂注册技术审查指导原则](./guidance/cmde-2018-36-ffbe)
 - [肠道病毒核酸检测试剂注册技术审查指导原则](./guidance/cmde-2018-36-1)
 - [结核分枝杆菌特异性细胞免疫反应检测试剂注册技术审查指导原则](./guidance/cmde-2018-57)
-- [脑利钠肽/氨基末端脑利钠肽前体检测试剂注册技术审查指导原则](./guidance/cmde-2019-11-1243)
+- [脑利钠肽/氨基末端脑利钠肽前体检测试剂注册技术审查指导原则](https://www.cmde.org.cn/directory/web/cmde/images/19y1qLnMtLyy4raoytS8wdeisuG8vMr1yfOy6da4tbzUrdTyLmRvY3g=.docx)
 - [总甲状腺素检测试剂注册技术审查指导原则](./guidance/cmde-2019-11)
 - [孕酮检测试剂注册技术审查指导原则](./guidance/cmde-2019-11-3a6b)
 - [降钙素原检测试剂注册技术审查指导原则](./guidance/cmde-2019-11-f457)
@@ -124,7 +124,7 @@ title: NMPA 指南文件
 - 基于核酸检测方法的金黄色葡萄球菌和耐甲氧西林金黄色葡萄球菌检测试剂注册技术审查指导原则
 - 沙眼衣原体和/或淋病奈瑟菌核酸检测试剂注册技术审查指导原则
 - 氨基酸、肉碱及琥珀酰丙酮检测试剂注册技术审查指导原则
-- [肿瘤相关突变基因检测试剂（高通量测序法）性能评价通用注册技术审查指导原则](./guidance/cmde-2019-83)
+- [肿瘤相关突变基因检测试剂（高通量测序法）性能评价通用注册技术审查指导原则](https://www.nmpa.gov.cn/directory/web/nmpa/images/ufq80tKpxre84La9udzA7b7WMjAxOcTqtdo4M7rFzai45ri9vP4xLmRvYw==.doc)
 - [CYP2C19药物代谢酶基因多态性检测试剂注册技术审查指导原则](./guidance/cmde-2019-83-fd10)
 - [促卵泡生成素检测试剂注册技术审查指导原则](./guidance/cmde-2020-14-c074)
 - [肌酐测定试剂注册技术审查指导原则](./guidance/cmde-2020-14-c8de)
@@ -134,7 +134,7 @@ title: NMPA 指南文件
 - [总胆汁酸测定试剂注册技术审查指导原则](./guidance/nmpa-gp-总胆汁酸测定试剂注册技术审查指导原则-f229a2)
 - 抗甲状腺过氧化物酶抗体测定试剂注册技术审查指导原则
 - [EB病毒核酸检测试剂注册技术审查指导原则](./guidance/cmde-2020-16)
-- [乙型肝炎病毒e抗原、e抗体检测试剂注册技术审查指导原则](./guidance/cmde-2020-16-1f1c)
+- [乙型肝炎病毒e抗原、e抗体检测试剂注册技术审查指导原则](https://www.nmpa.gov.cn/directory/web/nmpa/images/zai45rXaM7rFILi9vP4zLmRvYw==.doc)
 - 地中海贫血相关基因检测试剂注册技术审查指导原则
 - [乙型肝炎病毒耐药相关的基因突变检测试剂注册技术审查指导原则](./guidance/cmde-2020-16-8b98)
 - 登革病毒核酸检测试剂注册技术审查指导原则
@@ -167,7 +167,7 @@ title: NMPA 指南文件
 - 前白蛋白检测试剂注册审查指导原则
 - 雌二醇检测试剂注册审查指导原则
 - 纤维蛋白单体测定试剂注册审查指导原则
-- [真菌（1-3）-β-D葡聚糖测定试剂注册审查指导原则](./guidance/cmde-2022-35-1d5f)
+- [真菌（1-3）-β-D葡聚糖测定试剂注册审查指导原则](https://www.cmde.org.cn/directory/web/cmde/images/1663229493162044951.docx)
 - 粪便钙卫蛋白检测试剂注册审查指导原则
 - [心型脂肪酸结合蛋白测定试剂注册审查指导原则](./guidance/cmde-2022-35-fb57)
 - [环孢霉素和他克莫司检测试剂注册审查指导原则](./guidance/cmde-2022-35-4865)
@@ -176,26 +176,26 @@ title: NMPA 指南文件
 - [EB病毒抗体检测试剂注册审查指导原则](./guidance/cmde-2022-36-b0cd)
 - 戊型肝炎病毒IgM IgG抗体检测试剂注册审查指导原则
 - [基因测序仪临床评价注册审查指导原则](./guidance/cmde-2022-40-12ed)
-- [微卫星不稳定性（MSI）检测试剂临床试验注册审查指导原则](./guidance/cmde-2022-40-2343)
+- [微卫星不稳定性（MSI）检测试剂临床试验注册审查指导原则](https://www.cmde.org.cn/directory/web/cmde/images/1765781447108017653.docx)
 - [液相色谱串联质谱系统注册审查指导原则](./guidance/cmde-2022-43-a2cd)
-- [运动神经元存活基因1（SMN1）检测试剂注册审查指导原则](./guidance/cmde-2022-44)
-- [新型冠状病毒（2019-nCoV）核酸检测试剂注册审查指导原则（2023年修订版）](./guidance/cmde-2023-2)
+- 运动神经元存活基因1（SMN1）检测试剂注册审查指导原则
+- [新型冠状病毒（2019-nCoV）核酸检测试剂注册审查指导原则（2023年修订版）](https://www.cmde.org.cn/directory/web/cmde/images/1677814167321040399.docx)
 - [新型冠状病毒（2019-nCoV）抗体检测试剂注册审查指导原则（2023年修订版）](./guidance/nmpa-gp-新型冠状病毒-2019-ncov-抗体检测试剂注册审查指导原-6b7452)
 - [新型冠状病毒（2019-nCoV）抗原检测试剂注册审查指导原则（2023年修订版）](./guidance/cmde-2023-2-2d14)
 - [β-羟丁酸检测试剂注册审查指导原则](./guidance/cmde-2023-22-f51c)
 - 甲氨蝶呤检测试剂注册审查指导原则
 - 抗环瓜氨酸肽抗体检测试剂注册审查指导原则
 - 革兰阳性菌鉴定试剂注册审查指导原则
-- [肿瘤标志物类定量检测试剂注册审查指导原则（2023年修订版））](./guidance/cmde-2024-1-7754)
+- [肿瘤标志物类定量检测试剂注册审查指导原则（2023年修订版））](https://www.cmde.org.cn/directory/web/cmde/images/1704270860540089907.docx)
 - 流行性感冒病毒核酸检测试剂注册审查指导原则（2023年修订版））
-- [流行性感冒病毒抗原检测试剂注册审查指导原则(2023年修订版））](./guidance/cmde-2024-1-7cc5)
+- [流行性感冒病毒抗原检测试剂注册审查指导原则(2023年修订版））](https://www.cmde.org.cn/directory/web/cmde/images/1704270876604001735.docx)
 - [病原体特异性M型免疫球蛋白定性检测试剂注册审查指导原则（2023年修订版）](./guidance/cmde-2024-1-3e24)
 - [布鲁氏菌 IgM IgG 抗体检测试剂注册审查指导原则](./guidance/cmde-2024-1-251e)
 - [丙型肝炎病毒抗体检测试剂注册审查指导原则](./guidance/cmde-2024-1-5cb3)
 - [寨卡病毒核酸检测试剂注册审查指导原则](./guidance/cmde-2024-1-ace3)
 - 曲霉核酸检测试剂注册审查指导原则
 - [乙型肝炎病毒脱氧核糖核酸检测试剂注册审查指导原则（2023年修订版）](./guidance/nmpa-gp-乙型肝炎病毒脱氧核糖核酸检测试剂注册审查指导原则-2023年-05512f)
-- [弓形虫、风疹病毒、巨细胞病毒、单纯疱疹病毒抗体及G型免疫球蛋白抗体亲合力检测试剂注册审查指导原则（2023年修订版））](./guidance/cmde-2024-2-5a97)
+- [弓形虫、风疹病毒、巨细胞病毒、单纯疱疹病毒抗体及G型免疫球蛋白抗体亲合力检测试剂注册审查指导原则（2023年修订版））](https://www.cmde.org.cn/directory/web/cmde/images/1704356499846097354.docx)
 - [单纯疱疹病毒（HSV）核酸检测及分型试剂注册审查指导原则](./guidance/cmde-2024-2)
 - [药物滥用检测试剂注册审查指导原则（2023年修订版）](./guidance/cmde-2024-4-42ff)
 - [人类免疫缺陷病毒检测试剂临床试验注册审查指导原则（2023年修订版）](./guidance/cmde-2024-4)
@@ -224,19 +224,19 @@ title: NMPA 指南文件
 - [葡萄糖检测试剂注册审查指导原则](./guidance/cmde-2024-19-dce1)
 - [电解质分析仪注册审查指导原则](./guidance/cmde-2024-19-8c9f)
 - [白蛋白测定试剂（盒）注册审查指导原则（2024年修订版）](./guidance/cmde-2024-21-135a)
-- [大便隐血（FOB）检测试剂盒（胶体金免疫层析法）注册审查指导原则（2024年修订版）](./guidance/cmde-2024-21-7444)
+- [大便隐血（FOB）检测试剂盒（胶体金免疫层析法）注册审查指导原则（2024年修订版）](https://www.cmde.org.cn/directory/web/cmde/images/1718603100580053687.docx)
 - [人绒毛膜促性腺激素检测试剂（胶体金免疫层析法）注册审查指导原则（2024年修订版）](./guidance/cmde-2024-21-7a00)
 - [生化分析仪注册审查指导原则（2024年修订版）](./guidance/cmde-2024-21-639e)
 - [全自动化学发光免疫分析仪注册审查指导原则（2025年修订版）](./guidance/clia-2025)
-- [雌激素受体、孕激素受体抗体试剂及检测试剂盒注册审查指导原则（2025年修订版）](./guidance/cmde-2025-4-6321)
+- [雌激素受体、孕激素受体抗体试剂及检测试剂盒注册审查指导原则（2025年修订版）](https://www.cmde.org.cn/directory/web/cmde/images/1743399102272094707.docx)
 - [人MTHFR基因多态性检测试剂注册审查指导原则](./guidance/cmde-2025-4-57e5)
 - [ALDH2基因多态性检测试剂注册审查指导原则](./guidance/cmde-2025-4-15ec)
 - [丙型肝炎病毒核糖核酸检测试剂注册审查指导原则（2025年修订版）](./guidance/cmde-2025-4)
 - [乙型肝炎病毒基因分型检测试剂注册审查指导原则（2025年修订版）](./guidance/cmde-2025-4-82bc)
 - [人类嗜T淋巴细胞病毒抗体检测试剂注册审查指导原则](./guidance/cmde-2025-16-d4bc)
-- [高危型人乳头瘤病毒（HPV）核酸检测及基因分型试剂注册审查指导原则（2025年修订稿）](./guidance/cmde-2025-16)
+- [高危型人乳头瘤病毒（HPV）核酸检测及基因分型试剂注册审查指导原则（2025年修订稿）](https://www.cmde.org.cn/directory/web/cmde/images/1755742780703002729.docx)
 - [结直肠癌筛查体外诊断试剂临床评价注册审查指导原则](./guidance/cmde-2025-16-bc98)
-- [脂蛋白（a）检测试剂注册审查指导原则](./guidance/cmde-2025-20)
+- [脂蛋白（a）检测试剂注册审查指导原则](https://www.cmde.org.cn/directory/web/cmde/images/1757489435831021123.doc)
 - [血流变分析仪注册审查指导原则](./guidance/blood-rheology-analyzer)
 - [抗甲状腺球蛋白抗体检测试剂注册审查指导原则](./guidance/cmde-2025-20-1b27)
 - [链球菌鉴定试剂注册审查指导原则](./guidance/cmde-2025-20-365b)
@@ -245,15 +245,15 @@ title: NMPA 指南文件
 - 酶联免疫分析仪注册审查指导原则（2025年修订版）
 - [高密度脂蛋白胆固醇测定试剂注册审查指导原则（2025年修订版）](./guidance/cmde-2025-27-6)
 - [促黄体生成素检测试剂（胶体金免疫层析法）注册审查指导原则（2025年修订版）](./guidance/cmde-2025-27-1-2)
-- [心肌肌钙蛋白I/肌红蛋白/肌酸激酶同工酶MB检测试剂（胶体金免疫层析法）注册审查指导原则（2025年修订版）](./guidance/cmde-2025-27-b8e2)
-- [电解质钾、钠、氯、钙测定试剂注册审查指导原则（2025年修订版）](./guidance/cmde-2025-27-9)
+- [心肌肌钙蛋白I/肌红蛋白/肌酸激酶同工酶MB检测试剂（胶体金免疫层析法）注册审查指导原则（2025年修订版）](https://www.cmde.org.cn/directory/web/cmde/images/1765784332651062835.doc)
+- 电解质钾、钠、氯、钙测定试剂注册审查指导原则（2025年修订版）
 - [胱抑素C测定试剂注册审查指导原则（2025年修订版）](./guidance/cmde-2025-27-6f64)
 - HLA-B27基因检测试剂注册审查指导原则
 - [PD-L1抗体试剂及检测试剂盒注册审查指导原则](./guidance/cmde-2025-29)
 - [结直肠癌相关基因甲基化检测试剂盒临床试验注册审查指导原则](./guidance/cmde-2025-29-f09e)
 - [药物基因组相关基因检测试剂临床评价技术审查指导原则](./guidance/cmde-2025-29-58f5)
 - [肿瘤伴随诊断相关基因突变检测试剂（实时荧光聚合酶链反应法）注册审查指导原则（2025年修订版）](./guidance/cmde-2025-32)
-- [人类白细胞抗原（HLA）基因分型检测试剂注册审查指导原则](./guidance/cmde-2026-2)
+- [人类白细胞抗原（HLA）基因分型检测试剂注册审查指导原则](https://www.cmde.org.cn/directory/web/cmde/images/1767942412620030399.docx)
 - [幽门螺杆菌耐药基因突变检测试剂注册审查指导原则](./guidance/cmde-2026-6-4128)
 - [结核分枝杆菌复合群核酸检测试剂注册审查指导原则（2025年修订版）](./guidance/cmde-2026-6)
 
@@ -278,7 +278,7 @@ title: NMPA 指南文件
 - 疝修补补片临床试验指导原则
 - [电子上消化道内窥镜注册技术审查指导原则](./guidance/cmde-2020-87)
 - [一次性使用无菌闭合夹注册技术审查指导原则](./guidance/cmde-2021-30)
-- [神经和心血管手术器械-刀、剪及针注册审查指导原则](./guidance/cmde-2021-92)
+- [神经和心血管手术器械-刀、剪及针注册审查指导原则](https://www.cmde.org.cn/directory/web/cmde/images/yfG+rbrN0MTRqrncytbK9cb30LUttbahorz0vLDV69eisuHJ87Lp1ri1vNSt1PKjqDIwMjHE6rXaOTK6xaOpLmRvY3g=.docx)
 - 超声软组织切割止血系统同品种临床评价技术审查指导原则
 - 微波消融设备注册审查指导原则
 - 内窥镜手术动力设备注册审查指导原则
@@ -291,21 +291,21 @@ title: NMPA 指南文件
 - [一次性使用手术帽注册审查指导原则](./guidance/cmde-2022-35-ef82)
 - [一次性使用医用冲洗器产品注册审查指导原则](./guidance/cmde-2022-41-155d)
 - [取石网篮注册审查指导原则](./guidance/cmde-2022-41-4)
-- [腹腔内窥镜手术系统注册审查指导原则 第1部分：手术器械](./guidance/cmde-2023-5)
+- [腹腔内窥镜手术系统注册审查指导原则 第1部分：手术器械](https://www.cmde.org.cn/directory/web/cmde/images/1759211767295079571.docx)
 - [超声软组织手术设备注册审查指导原则（2023年修订版）](./guidance/cmde-2023-4)
 - [定量剪切波超声肝脏测量仪注册审查指导原则](./guidance/cmde-2023-7)
 - [疝修补补片注册审查指导原则](./guidance/cmde-2023-9-2a42)
 - [膀胱超声扫描仪注册审查指导原则](./guidance/cmde-2023-22-8b8a)
 - 激光治疗设备同品种临床评价注册审查指导原则
 - [电子内窥镜同品种临床评价注册审查指导原则](./guidance/cmde-2023-35)
-- [腹腔内窥镜手术系统注册审查指导原则第3部分：三维内窥镜](./guidance/cmde-2024-12)
-- [腹腔内窥镜手术系统注册审查指导原则第2部分：动物试验决策判定和要求](./guidance/cmde-2024-12-897e)
+- [腹腔内窥镜手术系统注册审查指导原则第3部分：三维内窥镜](https://www.cmde.org.cn/directory/web/cmde/images/1759211767295079571.docx)
+- [腹腔内窥镜手术系统注册审查指导原则第2部分：动物试验决策判定和要求](https://www.cmde.org.cn/directory/web/cmde/images/1679554596161092083.docx)
 - 高频手术设备注册审查指导原则（2023年修订版）
 - [医用内窥镜冷光源注册审查指导原则（2024年修订版）](./guidance/cmde-2024-19-11)
 - [一次性使用无菌手术包类产品注册审查指导原则（2024年修订版）](./guidance/cmde-2024-21-1)
 - [一次性使用手术衣注册审查指导原则（2024年修订版）](./guidance/cmde-2024-21-11e5)
 - [预充式导管冲洗器注册审查指导原则](./guidance/prefilled-catheter-flusher)
-- [腹腔内窥镜手术系统注册审查指导原则 第4部分：风险管理](./guidance/laparoscopic-surgery-system)
+- 腹腔内窥镜手术系统注册审查指导原则 第4部分：风险管理
 - [内窥镜手术用剪注册审查指导原则](./guidance/scissors-for-endoscopic-surgery)
 - [一次性使用无菌尿道扩张器注册审查指导原则](./guidance/single-use-sterile-urethral-dilators)
 - [一次性使用内窥镜用活检袋注册审查指导原则](./guidance/single-use-endoscope-biopsy-bags)
@@ -333,11 +333,11 @@ title: NMPA 指南文件
 - 笑气吸入镇静镇痛装置注册技术审查指导原则
 - [麻醉面罩产品注册审查指导原则](./guidance/cmde-2021-102)
 - [网式雾化器注册审查指导原则](./guidance/cmde-2021-104)
-- [持续正压通气用面罩、口罩、鼻罩注册审查指导原则](./guidance/cmde-2022-41)
+- 持续正压通气用面罩、口罩、鼻罩注册审查指导原则
 - 一次性使用硬膜外麻醉导管注册审查指导原则
 - 医用分子筛制氧机注册审查指导原则
 - [呼吸系统过滤器注册审查指导原则](./guidance/bsf-guidance)
-- [口咽鼻咽通气道注册审查指导原则](./guidance/cmde-2023-22-2)
+- 口咽鼻咽通气道注册审查指导原则
 - [医用呼吸道湿化器注册审查指导原则](./guidance/cmde-2023-22)
 - [呼吸机同品种临床评价注册审查指导原则](./guidance/cmde-2023-21)
 - [高流量呼吸治疗设备注册审查指导原则](./guidance/cmde-2023-26)
@@ -384,7 +384,7 @@ title: NMPA 指南文件
 - [经鼻胆汁外引流管注册审查指导原则](./guidance/cmde-2022-41-f14a)
 - [一次性使用产包产品注册审查指导原则](./guidance/cmde-2022-41-9f73)
 - [输尿管支架注册审查指导原则](./guidance/cmde-2022-41-a0cb)
-- [一次性使用输注器具产品注册审查指导原则（2023年修订版）](./guidance/cmde-2023-15)
+- [一次性使用输注器具产品注册审查指导原则（2023年修订版）](https://www.cmde.org.cn/directory/web/cmde/images/1682644552771015009.doc)
 - [一次性使用避光输液器注册审查指导原则（2023年修订版）](./guidance/cmde-2023-15-8026)
 - [医用无针注射器注册审查指导原则](./guidance/cmde-2023-17)
 - [一次性使用人体动脉血样采集器注册审查指导原则](./guidance/cmde-2023-17-02af)
@@ -404,7 +404,7 @@ title: NMPA 指南文件
 
 ## 骨科植入物 (37)
 
-- [人工颈椎间盘假体注册技术审查指导原则](./guidance/cmde-2017-23)
+- [人工颈椎间盘假体注册技术审查指导原则](https://www.cmde.org.cn/directory/web/cmde/images/1746752648504099234.docx)
 - 骨科外固定支架注册技术审查指导原则（2018年修订）
 - 骨水泥套管组件注册技术审查指导原则
 - 椎体成形球囊扩张导管注册技术审查指导原则
@@ -412,8 +412,8 @@ title: NMPA 指南文件
 - 金属髓内钉系统产品注册技术审查指导原则
 - 脊柱植入物临床评价质量控制注册技术审查指导原则
 - 肌腱韧带固定系统注册技术审查指导原则
-- [全膝关节假体系统产品注册技术审查指导原则](./guidance/cmde-2020-36-4f80)
-- [硬脑（脊）膜补片注册技术审查指导原则](./guidance/cmde-2020-48)
+- [全膝关节假体系统产品注册技术审查指导原则](https://www.nmpa.gov.cn/directory/web/nmpa/images/MjAxOMTqtdo2usXNqLjmuL28i5kb2M=.doc)
+- [硬脑（脊）膜补片注册技术审查指导原则](https://www.nmpa.gov.cn/directory/web/nmpa/images/ufq80tKpxre84La9udzA7b7WMjAyMMTqtdo0OLrFzai45ri9vP4yLmRvYw==.doc)
 - 定制式个性化骨植入物等效性模型注册技术审查指导原则
 - [骨科金属植入物有限元分析资料注册技术审查指导原则](./guidance/cmde-2020-48-1323)
 - [生物型股骨柄柄部疲劳性能评价指导原则](./guidance/nmpa-gp-生物型股骨柄柄部疲劳性能评价指导原则-6c2aeb)
@@ -457,7 +457,7 @@ title: NMPA 指南文件
 - 心肺转流系统 体外循环管道注册申报技术审查指导原则
 - [植入式左心室辅助系统注册技术审查指导原则](./guidance/cmde-2020-17)
 - 生物可吸收冠状动脉药物洗脱支架动物实验研究指导原则
-- [球囊扩张导管注册技术审查指导原则](./guidance/cmde-2020-62)
+- [球囊扩张导管注册技术审查指导原则](https://www.cmde.org.cn/directory/web/cmde/images/1681375962886076988.docx)
 - [血管内导管同品种对比临床评价技术审查指导原则](./guidance/cmde-2021-68)
 - 体外膜氧合（ECMO）循环套包注册审查指导原则
 - [微导管注册审查指导原则](./guidance/cmde-2022-4-ef12)
@@ -472,7 +472,7 @@ title: NMPA 指南文件
 - [带有润滑涂层的血管介入器械注册审查指导原则](./guidance/cmde-2023-25)
 - [非血管自扩张金属支架系统注册审查指导原则](./guidance/cmde-2023-25-5818)
 - [体外膜肺氧合（ECMO）温度控制设备注册审查指导原则](./guidance/cmde-2023-26-1)
-- [体外膜氧合（ECMO）循环套包动物试验注册审查指导原则](./guidance/cmde-2023-39)
+- 体外膜氧合（ECMO）循环套包动物试验注册审查指导原则
 - 一次性使用膜式氧合器（CPB用）注册审查指导原则（2024年修订版）
 - [外周药物涂层球囊扩张导管临床试验注册审查指导原则](./guidance/pdcb-ci-2025)
 - [体外膜肺氧合系统临床评价注册审查指导原则](./guidance/ecmo-cer-2025)
@@ -538,7 +538,7 @@ title: NMPA 指南文件
 - [电子血压计（示波法）注册审查指导原则（2024年修订版）](./guidance/cmde-2024-21-28d1)
 - [血糖仪注册审查指导原则（2024年修订版）](./guidance/cmde-2024-21-2)
 - [电子听诊器注册审查指导原则](./guidance/electronic-stethoscope)
-- [一次性使用心电电极注册审查指导原则（2025年修订版）](./guidance/cmde-2025-27)
+- [一次性使用心电电极注册审查指导原则（2025年修订版）](https://www.cmde.org.cn/directory/web/cmde/images/1764576379098046495.docx)
 - [心电图机产品注册审查指导原则（2025年修订版）](./guidance/cmde-2025-27-7823)
 - [病人监护产品（第二类）注册审查指导原则（2025年修订版）](./guidance/cmde-2025-27-4)
 - [医用电动吸引器注册审查指导原则（2025年修订版）](./guidance/cmde-2025-27-8)
@@ -561,9 +561,9 @@ title: NMPA 指南文件
 - 双能X射线骨密度仪注册技术审查指导原则
 - 医用诊断X射线管组件注册技术审查指导原则
 - [用于放射治疗的X射线图像引导系统注册技术审查指导原则](./guidance/cmde-2020-13)
-- [正电子发射/X射线计算机断层成像系统注册技术审查指导原则](./guidance/cmde-2020-13-bc3b)
+- [正电子发射/X射线计算机断层成像系统注册技术审查指导原则](https://www.nmpa.gov.cn/directory/web/nmpa/images/ufq80tKpxre84La9udzA7b7WMjAyMMTqtdoxM7rFzai45ri9vP4yLmRvYw==.doc)
 - [X射线计算机体层摄影设备同品种临床评价技术审查指导原则](./guidance/cmde-2021-2-a88b)
-- [影像型超声诊断设备同品种临床评价技术审查指导原则](./guidance/cmde-2021-2)
+- [影像型超声诊断设备同品种临床评价技术审查指导原则](https://www.nmpa.gov.cn/directory/web/nmpa/images/1612164564177092822.doc)
 - [医用磁共振成像系统同品种临床评价技术审查指导原则（2020年修订版）](./guidance/cmde-2021-12)
 - [乳腺X射线系统注册技术审查指导原则](./guidance/cmde-2021-42-18a5)
 - 含儿科应用的医用诊断X射线设备注册审查指导原则
@@ -601,7 +601,7 @@ title: NMPA 指南文件
 - [医用透明质酸钠创面敷料注册审查指导原则](./guidance/cmde-2024-21-6711)
 - [水凝胶敷料注册审查指导原则](./guidance/cmde-2024-23-44dd)
 - [α-氰基丙烯酸酯类医用粘合剂注册审查指导原则(2024年修订版）](./guidance/alpha-cyanoacrylate-medical-adhesive)
-- [腹腔、盆腔外科手术用可吸收防粘连产品注册审查指导原则（2024年修订版）](./guidance/cmde-2024-23)
+- [腹腔、盆腔外科手术用可吸收防粘连产品注册审查指导原则（2024年修订版）](https://www.cmde.org.cn/directory/web/cmde/images/1696662049497011530.docx)
 - 可吸收性外科缝线注册审查指导原则（2024年修订版）
 - 可吸收止血产品注册审查指导原则（2024年修订版）
 - 乳房植入体产品注册审查指导原则（2024年修订版）
@@ -611,7 +611,7 @@ title: NMPA 指南文件
 - [医用射线防护喷剂注册审查指导原则](./guidance/medical-radiation-protection-sprays)
 - [聚氨酯泡沫敷料注册审查指导原则（2026年修订版）](./guidance/cmde-2026-3-33c9)
 - [袜型医用压力带注册技术审查指导原则（2026年修订版）](./guidance/cmde-2026-3)
-- [钙磷/硅类骨填充材料注册审查指导原则（2026年修订版）](./guidance/cmde-2026-4-f63e)
+- [钙磷/硅类骨填充材料注册审查指导原则（2026年修订版）](https://www.cmde.org.cn/directory/web/cmde/images/1770600626174021120.docx)
 - [整形美容用透明质酸钠类注射填充剂注册审查指导原则（2026年修订版）](./guidance/cmde-2026-5)
 
 ## 康复与理疗 (32)
@@ -699,7 +699,7 @@ title: NMPA 指南文件
 
 ## 生殖与妇科 (12)
 
-- [子宫内膜去除（热传导、射频消融）设备临床评价技术审查指导原则](./guidance/cmde-2017-212-64b3)
+- [子宫内膜去除（热传导、射频消融）设备临床评价技术审查指导原则](https://www.cmde.org.cn/directory/web/cmde/images/19O5rMTaxKTJ5Ma1zvI2snosbjXorLhvLzK9cnzsunWuLW81K3U8i5kb2M=.doc)
 - 电子阴道显微镜注册技术审查指导原则
 - [人类体外辅助生殖技术用液注册技术审查指导原则](./guidance/cmde-2018-18)
 - 护脐带注册技术审查指导原则（2018年修订）
@@ -764,8 +764,8 @@ title: NMPA 指南文件
 - [中医器械通用名称命名指导原则](./guidance/nmpa-guidance-08b237790bb3)
 - [神经和心血管手术器械通用名称命名指导原则](./guidance/nmpa-guidance-2bbf6e6cac07)
 - [医疗器械消毒灭菌器械通用名称命名指导原则](./guidance/nmpa-guidance-3ded68757ecc)
-- [呼吸、麻醉和急救器械通用名称命名指导原则](./guidance/nmpa-guidance-3fad1373ce87)
-- [妇产科、辅助生殖和避孕器械通用名称命名指导原则](./guidance/nmpa-guidance-48ff7383e8dd)
+- 呼吸、麻醉和急救器械通用名称命名指导原则
+- 妇产科、辅助生殖和避孕器械通用名称命名指导原则
 - [医疗器械通用名称命名指导原则](./guidance/nmpa-guidance-5284a36a2bbb)
 - [医用诊察和监护器械通用名称命名指导原则](./guidance/nmpa-guidance-c62672380cc7)
 - [有源手术器械通用名称命名指导原则](./guidance/nmpa-guidance-dacff5137bc6)
@@ -774,12 +774,12 @@ title: NMPA 指南文件
 ## 技术审评要点 (8)
 
 - [医疗器械技术审评中心医疗器械优先审批申请审核实施细则](./guidance/nmpa-guidance-1951d223775e)
-- [植入式神经刺激器技术审评要点（试行）](./guidance/nmpa-guidance-1f1345d26703)
+- 植入式神经刺激器技术审评要点（试行）
 - [腹腔内窥镜手术系统技术审评要点](./guidance/nmpa-guidance-445448d848a7)
 - [血液病流式细胞学人工智能分析软件性能评价审评要点](./guidance/nmpa-guidance-7fc768c999f8)
 - [整形美容用重组人源化胶原蛋白注射材料技术审评要点（试行）](./guidance/nmpa-guidance-58c1f92ce11a)
-- [新型冠状病毒（2019-nCoV）抗原检测试剂注册技术审评要点（试行）](./guidance/nmpa-guidance-8d274a385390)
-- [体外膜氧合（ECMO）耗材产品动物试验审评要点](./guidance/nmpa-guidance-f5ee94ac4498)
+- 新型冠状病毒（2019-nCoV）抗原检测试剂注册技术审评要点（试行）
+- 体外膜氧合（ECMO）耗材产品动物试验审评要点
 - [基孔肯雅病毒核酸检测试剂技术审评要点（试行）](./guidance/nmpa-guidance-bf095b5feb1e)
 
 ## 其他指导文件 (60)
@@ -787,7 +787,7 @@ title: NMPA 指南文件
 - [流式细胞仪配套用检测试剂注册技术审查指导原则](./guidance/nmpa-guidance-010ac7cce60c)
 - [肿瘤个体化治疗相关基因突变检测试剂技术审查指导原则](./guidance/nmpa-guidance-0af56a4e99ec)
 - [一次性使用塑料血袋等21种医疗器械生产环节风险清单和检查要点](./guidance/nmpa-guidance-12f897691e8b)
-- [角膜接触镜类产品注册申报资料基本要求](./guidance/nmpa-guidance-75d9f26a404d)
+- 角膜接触镜类产品注册申报资料基本要求
 - [医用电子体温计产品注册技术审查指导原则](./guidance/nmpa-guidance-135257e00950)
 - [电凝切割内窥镜注册技术审查指导原则](./guidance/nmpa-guidance-168a08ed3a12)
 - [人KRAS基因突变检测试剂注册审查指导原则](./guidance/nmpa-guidance-21ea18f3b5db)
@@ -801,7 +801,7 @@ title: NMPA 指南文件
 - [一次性使用皮肤缝合器产品注册技术审查指导原则](./guidance/nmpa-guidance-51a5f58cf0e8)
 - [肌酸激酶测定试剂盒产品注册技术审查指导原则](./guidance/nmpa-guidance-5592521b598a)
 - [丙型肝炎病毒核酸基因分型检测试剂注册技术审查指导原则](./guidance/nmpa-guidance-57d9fb6f6d55)
-- [布鲁氏菌IgM/IgG抗体检测试剂注册审查指导原则](./guidance/nmpa-guidance-5d675d82cd54)
+- 布鲁氏菌IgM/IgG抗体检测试剂注册审查指导原则
 - [一次性使用配药用注射器产品注册技术审查指导原则](./guidance/nmpa-guidance-5fc2a175941e)
 - [登革病毒NS1抗原检测试剂注册审查指导原则](./guidance/nmpa-guidance-e145aa777ac4)
 - [一次性使用血液分离器具产品注册技术审查指导原则](./guidance/nmpa-guidance-64633fd1283a)
@@ -810,15 +810,15 @@ title: NMPA 指南文件
 - [医疗器械说明书编写指导原则](./guidance/nmpa-guidance-6c2a5c07479b)
 - [眼科超声乳化和眼前节玻璃体切除设备及附件注册技术审查指导原则](./guidance/nmpa-guidance-6e86cd87141a)
 - [植入式医疗器械电池注册审查指导原则](./guidance/nmpa-guidance-6ecef115914a)
-- [戊型肝炎病毒IgM/IgG抗体检测试剂注册审查指导原则](./guidance/nmpa-guidance-70b6f3137b6b)
-- [以医疗器械作用为主的药械组合产品中药物定性、定量及体外释放研究注册审查指导原则](./guidance/nmpa-guidance-72c946590fbb)
+- 戊型肝炎病毒IgM/IgG抗体检测试剂注册审查指导原则
+- 以医疗器械作用为主的药械组合产品中药物定性、定量及体外释放研究注册审查指导原则
 - [软性纤维内窥镜（第二类）注册技术审查指导原则（2017年修订版）](./guidance/nmpa-guidance-77d5c938cfe7)
-- [无创血糖/葡萄糖监测产品注册审查指导原则](./guidance/nmpa-guidance-7a1e95c80fcd)
+- 无创血糖/葡萄糖监测产品注册审查指导原则
 - [植入式骶神经刺激系统动物实验及临床评价注册技术审查指导原则](./guidance/nmpa-guidance-7ce9e33d12e9)
 - [葡萄糖-6-磷酸脱氢酶检测试剂注册审查指导原则](./guidance/nmpa-guidance-7d506bf03153)
 - [聚氨酯泡沫敷料产品注册技术审查指导原则](./guidance/nmpa-guidance-83fd455645ec)
-- [医用磁共振成像系统注册申报资料指导原则](./guidance/nmpa-guidance-cbb0b651b7b9)
-- [心脏射频消融导管注册技术审查指导原则](./guidance/nmpa-guidance-02f7b4828346)
+- 医用磁共振成像系统注册申报资料指导原则
+- 心脏射频消融导管注册技术审查指导原则
 - [血液透析浓缩物产品注册技术审查指导原则](./guidance/nmpa-guidance-8c3208868c02)
 - [一次性医用喉罩产品注册技术审查指导原则](./guidance/nmpa-guidance-8fc9f8e44605)
 - [电动洗胃机产品注册技术审查指导原则](./guidance/nmpa-guidance-9a0de93395e2)
@@ -827,17 +827,17 @@ title: NMPA 指南文件
 - [疝修补补片产品注册技术审查指导原则](./guidance/nmpa-guidance-a44f496f9ddd)
 - [化学发光免疫分析仪（第二类）产品注册技术审查指导原则](./guidance/nmpa-guidance-a62612690953)
 - [病原体特异性M型免疫球蛋白定性检测试剂注册技术审查指导原则](./guidance/nmpa-guidance-a68fbdb62bfe)
-- [微卫星不稳定性（MSI）检测试剂临床评价注册审查指导原则](./guidance/nmpa-guidance-a9068e70e299)
+- 微卫星不稳定性（MSI）检测试剂临床评价注册审查指导原则
 - [同种异体植入性医疗器械病毒灭活工艺验证技术审查指导原则（2020年修订版）](./guidance/nmpa-guidance-aa9a92634f5c)
 - [硬性光学内窥镜（第二类）注册技术审查指导原则（2017年修订版）](./guidance/nmpa-guidance-fc01d84bc5ef)
 - [丙型肝炎病毒核糖核酸测定试剂技术审查指导原则](./guidance/nmpa-guidance-ad79cc9fbab1)
 - [医用雾化器注册技术审查指导原则（2016年修订版）](./guidance/nmpa-guidance-b24dddfd036e)
-- [医疗器械生产质量管理规范定制式义齿现场检查指导原则](./guidance/nmpa-guidance-f294446a05a6)
+- 医疗器械生产质量管理规范定制式义齿现场检查指导原则
 - [国家食品药品监督管理总局继续有效医疗器械规范性文件目录](./guidance/nmpa-guidance-b92e785e0799)
 - [抗菌药物说明书撰写技术指导原则](./guidance/nmpa-guidance-ba4c7a2ace14)
 - [医疗器械软件注册技术审查指导原则](./guidance/nmpa-guidance-beeb465298cb)
-- [海南博鳌乐城国际医疗旅游先行区医疗器械临床真实世界数据应用试点品种沟通交流程序（试行）](./guidance/nmpa-guidance-62d26ffb633a)
-- [应用纳米材料的医疗器械安全性和有效性评价指导原则第四部分：新兴技术方法](./guidance/nmpa-guidance-c7be8b68b808)
+- 海南博鳌乐城国际医疗旅游先行区医疗器械临床真实世界数据应用试点品种沟通交流程序（试行）
+- 应用纳米材料的医疗器械安全性和有效性评价指导原则第四部分：新兴技术方法
 - [国家药品监督管理局继续有效的医疗器械规范性文件目录](./guidance/nmpa-guidance-d031fc87172e)
 - [中药新药临床研究一般原则](./guidance/nmpa-guidance-f1671350f5e6)
 - [造影注射设备注册审查指导原则](./guidance/nmpa-guidance-f544922046c5)
