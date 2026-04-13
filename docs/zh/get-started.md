@@ -45,24 +45,53 @@ title: 快速开始
 <div class="section-block">
 <h2>安装步骤</h2>
 
-<h3>Windows</h3>
+<h3>第一步：运行安装程序 (Windows)</h3>
 <ol>
   <li>解压下载的压缩包</li>
-  <li>打开对应版本的文件夹（如 <code>reguverse-assistant-cn</code>）</li>
-  <li>双击运行 <code>install.bat</code></li>
-  <li><strong>关闭所有 Word 窗口</strong>，然后重新打开 Word</li>
-  <li>插件会自动出现在工具栏的 <strong>Reguverse Assistant</strong> 按钮中，点击即可打开</li>
-  <li>如果工具栏没有出现，点击 <strong>开始 &gt; 加载项</strong>，在 <strong>Developer Add-ins</strong> 区域中找到并点击即可</li>
+  <li>双击 <strong>install.bat</strong> 运行安装程序，系统将弹出 cmd 黑色窗口</li>
+  <li>等待安装完成，看到 "Installation complete!" 提示后按任意键关闭窗口</li>
 </ol>
+<div class="guide-img"><img src="/images/install-guide/01-install-bat.png" alt="install.bat 运行界面"></div>
+<div class="callout callout-warning">
+  <strong>重要</strong>
+  <p>安装完成后，必须<strong>关闭所有 Word 窗口</strong>，然后重新打开 Word。</p>
+</div>
 
-<h3>macOS</h3>
+<h3>第二步：在 Word 中打开 Reguverse Assistant</h3>
 <ol>
-  <li>解压下载的压缩包</li>
-  <li>打开终端 (Terminal)，进入解压后的版本文件夹</li>
-  <li>运行: <code>bash install.sh</code></li>
-  <li><strong>关闭所有 Word 窗口</strong>，然后重新打开 Word</li>
-  <li>点击 <strong>插入 &gt; 我的加载项</strong>，选择 <strong>"Reguverse Assistant"</strong></li>
+  <li>打开 Word，点击 <strong>Home（开始）</strong> 标签页</li>
+  <li>在功能区最右侧找到 <strong>Add-ins（加载项）</strong> 按钮，点击它</li>
+  <li>在下拉面板中，找到 <strong>Developer Add-ins</strong> 区域下的 <strong>Reguverse...</strong> 图标</li>
+  <li>点击 Reguverse 图标即可打开助手侧边栏</li>
 </ol>
+<div class="guide-img"><img src="/images/install-guide/02-home-addins-button.png" alt="Home 标签页的 Add-ins 按钮"></div>
+
+<p style="margin-top:1.2rem;">如果在 Home 标签页找不到 Add-ins 按钮，需要手动启用 Add-ins 标签页：</p>
+<ol>
+  <li>点击 <strong>文件 (File)</strong> &gt; <strong>选项 (Options)</strong></li>
+</ol>
+<div class="guide-img"><img src="/images/install-guide/03-file-options.png" alt="打开 Word 选项"></div>
+
+<ol start="2">
+  <li>在弹出的窗口中左侧选择 <strong>自定义功能区 (Customize Ribbon)</strong>，在右侧列表中找到 <strong>加载项 (Add-ins)</strong> 并勾选</li>
+</ol>
+<div class="guide-img"><img src="/images/install-guide/04-customize-ribbon.png" alt="选择自定义功能区"></div>
+
+<ol start="3">
+  <li>点击 <strong>确定 (OK)</strong> 保存设置</li>
+  <li>现在功能区会出现 <strong>Add-ins</strong> 标签页，点击它就能看到 <strong>Reguverse Assistant</strong> 按钮，点击后会加载到工具栏内，同时打开插件面板</li>
+</ol>
+<div class="guide-img"><img src="/images/install-guide/05-addins-tab.png" alt="Add-ins 标签页中的 Reguverse Assistant"></div>
+
+<h3>macOS 用户安装</h3>
+<p>找到安装包目录（如 <code>reguverse-assistant-cn</code>），右键并在弹出菜单中选择 <strong>"新建位于文件夹位置的终端窗口"</strong></p>
+<div class="guide-img"><img src="/images/install-guide/06-macos.png" alt="macOS 打开终端"></div>
+
+<p>运行命令：</p>
+<p><code>bash install.sh</code></p>
+<div class="guide-img"><img src="/images/install-guide/07-command.png" alt="运行安装命令"></div>
+
+<p>安装后打开 Word，加载项按钮通常会自动出现在 Home 标签页功能区的 Add-ins。如未出现，参考上述 Word 加载项的设置。</p>
 
 <div class="callout callout-info">
   <strong>从旧版本升级或切换版本</strong>
@@ -339,6 +368,22 @@ title: 快速开始
 .callout li {
   color: var(--vp-c-text-2);
   line-height: 1.6;
+}
+
+.guide-img {
+  margin: 1rem 0 1.5rem;
+  text-align: center;
+}
+.guide-img img {
+  max-width: 100%;
+  border-radius: 8px;
+  border: 1px solid var(--vp-c-divider);
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.1);
+}
+
+.callout-warning {
+  background: rgba(234, 179, 8, 0.08);
+  border-color: #eab308;
 }
 
 @media (max-width: 640px) {

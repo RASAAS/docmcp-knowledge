@@ -45,24 +45,53 @@ title: Get Started
 <div class="section-block">
 <h2>Installation</h2>
 
-<h3>Windows</h3>
+<h3>Step 1: Run the Installer (Windows)</h3>
 <ol>
   <li>Unzip the downloaded file</li>
-  <li>Open the version folder (e.g. <code>reguverse-assistant</code>)</li>
-  <li>Double-click <code>install.bat</code></li>
-  <li><strong>Close ALL Word windows</strong>, then re-open Word</li>
-  <li>The add-in will appear as a <strong>Reguverse Assistant</strong> button in the toolbar -- click to open</li>
-  <li>If the toolbar button doesn't appear, go to <strong>Home &gt; Add-ins</strong> and find it under <strong>Developer Add-ins</strong></li>
+  <li>Double-click <strong>install.bat</strong> to run the installer. A cmd window will appear</li>
+  <li>Wait for installation to complete. Press any key to close the window after seeing "Installation complete!"</li>
 </ol>
+<div class="guide-img"><img src="/images/install-guide/01-install-bat.png" alt="install.bat running"></div>
+<div class="callout callout-warning">
+  <strong>Important</strong>
+  <p>After installation, you must <strong>close ALL Word windows</strong> and then re-open Word.</p>
+</div>
 
-<h3>macOS</h3>
+<h3>Step 2: Open Reguverse Assistant in Word</h3>
 <ol>
-  <li>Unzip the downloaded file</li>
-  <li>Open Terminal, navigate to the version folder</li>
-  <li>Run: <code>bash install.sh</code></li>
-  <li><strong>Close ALL Word windows</strong>, then re-open Word</li>
-  <li>Go to <strong>Insert &gt; My Add-ins</strong> and select <strong>"Reguverse Assistant"</strong></li>
+  <li>Open Word, click the <strong>Home</strong> tab</li>
+  <li>Find the <strong>Add-ins</strong> button on the far right of the ribbon and click it</li>
+  <li>In the dropdown panel, find <strong>Reguverse...</strong> under the <strong>Developer Add-ins</strong> section</li>
+  <li>Click the Reguverse icon to open the assistant sidebar</li>
 </ol>
+<div class="guide-img"><img src="/images/install-guide/02-home-addins-button.png" alt="Add-ins button on the Home tab"></div>
+
+<p style="margin-top:1.2rem;">If you can't find the Add-ins button on the Home tab, you need to enable the Add-ins tab manually:</p>
+<ol>
+  <li>Click <strong>File</strong> &gt; <strong>Options</strong></li>
+</ol>
+<div class="guide-img"><img src="/images/install-guide/03-file-options.png" alt="Open Word Options"></div>
+
+<ol start="2">
+  <li>In the left panel select <strong>Customize Ribbon</strong>, then check <strong>Add-ins</strong> in the right-side list</li>
+</ol>
+<div class="guide-img"><img src="/images/install-guide/04-customize-ribbon.png" alt="Customize Ribbon settings"></div>
+
+<ol start="3">
+  <li>Click <strong>OK</strong> to save</li>
+  <li>Now the <strong>Add-ins</strong> tab will appear in the ribbon. Click it to see the <strong>Reguverse Assistant</strong> button, which will load the add-in into the toolbar and open the panel</li>
+</ol>
+<div class="guide-img"><img src="/images/install-guide/05-addins-tab.png" alt="Reguverse Assistant in the Add-ins tab"></div>
+
+<h3>macOS Installation</h3>
+<p>Locate the installer folder (e.g. <code>reguverse-assistant</code>), right-click and select <strong>"New Terminal at Folder"</strong></p>
+<div class="guide-img"><img src="/images/install-guide/06-macos.png" alt="Open terminal on macOS"></div>
+
+<p>Run the command:</p>
+<p><code>bash install.sh</code></p>
+<div class="guide-img"><img src="/images/install-guide/07-command.png" alt="Run install command"></div>
+
+<p>After installation, open Word. The Add-ins button usually appears automatically on the Home tab. If not, follow the Add-ins tab setup instructions above.</p>
 
 <div class="callout callout-info">
   <strong>Upgrading or Switching Versions</strong>
@@ -340,6 +369,22 @@ title: Get Started
 .callout li {
   color: var(--vp-c-text-2);
   line-height: 1.6;
+}
+
+.guide-img {
+  margin: 1rem 0 1.5rem;
+  text-align: center;
+}
+.guide-img img {
+  max-width: 100%;
+  border-radius: 8px;
+  border: 1px solid var(--vp-c-divider);
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.1);
+}
+
+.callout-warning {
+  background: rgba(234, 179, 8, 0.08);
+  border-color: #eab308;
 }
 
 @media (max-width: 640px) {
