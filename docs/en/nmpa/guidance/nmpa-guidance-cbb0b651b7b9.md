@@ -12,6 +12,8 @@ published:
 
 ## Official Full Text
 
+# 医用磁共振成像系统注册申报资料指导原则
+
 <!-- unmatched -->
 <!-- actual_title: 一、前言 -->
 <!-- source_url: https://www.cmde.org.cn/images/1357709569187.doc -->

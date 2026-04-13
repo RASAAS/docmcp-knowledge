@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "docs:dev": "cd docs && vitepress dev",
-    "docs:build": "cp -r assets/images docs/public/images && cd docs && vitepress build",
+    "docs:build": "cp -r assets/images docs/public/images && cd docs && NODE_OPTIONS='--max-old-space-size=3584' vitepress build",
     "docs:preview": "cd docs && vitepress preview"
   },
   "devDependencies": {

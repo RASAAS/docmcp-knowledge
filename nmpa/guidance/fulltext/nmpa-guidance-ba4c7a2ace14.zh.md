@@ -2,6 +2,9 @@
 <!-- actual_title: 抗菌药物说明书撰写技术指导原则 -->
 <!-- source_url: https://www.nmpa.gov.cn/directory/web/nmpa/images/ufq80tKpxre84La9udzA7b7WMjAxOMTqtdozM7rFzai45ri9vP4uZG9j.doc -->
 
+
+# 抗菌药物说明书撰写技术指导原则
+
 ## 附件
 
 抗菌药物说明书撰写技术指导原则

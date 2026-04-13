@@ -320,6 +320,17 @@ export default defineConfig({
             }
           }
         },
+        _render(src, env, md) {
+          const path = env.relativePath || ''
+          const isFulltextPage = /(?:nmpa|fda|shared)\/guidance\//.test(path) &&
+            !path.endsWith('guidance.md')
+          if (isFulltextPage) {
+            const title = env.frontmatter?.title || ''
+            const desc = env.frontmatter?.description || ''
+            return md.render(`# ${title}\n\n${desc}`)
+          }
+          return md.render(src, env)
+        },
         miniSearch: {
           options: {
             tokenize(text: string) {
