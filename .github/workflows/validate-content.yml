@@ -36,3 +36,8 @@ jobs:
         run: |
           echo "Checking JSON -> Markdown sync status..."
           python scripts/json_to_markdown.py --verify
+
+      - name: Validate fulltext-title consistency
+        run: python scripts/validate_content_match.py --changed-only
+        env:
+          GITHUB_BASE_REF: ${{ github.base_ref }}

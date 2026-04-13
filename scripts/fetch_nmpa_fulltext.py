@@ -16,6 +16,7 @@ Features:
 Phase 1 (--discover): Search for doc/docx URLs via Vertex AI Search
 Phase 2 (--download): Download, convert .doc, validate, extract, cross-match
 Phase 3 (--cleanup): Remove fulltext files with bad content
+Phase 4 (--rematch): Re-match _unmatched/ files to index entries missing fulltext
 
 Environment variables:
     VERTEX_AI_PROJECT_ID, VERTEX_AI_SEARCH_APP_ID, VERTEX_AI_SEARCH_API_KEY
@@ -26,6 +27,8 @@ Usage:
     python scripts/fetch_nmpa_fulltext.py --discover --category general
     python scripts/fetch_nmpa_fulltext.py --download --category general
     python scripts/fetch_nmpa_fulltext.py --cleanup --category general
+    python scripts/fetch_nmpa_fulltext.py --rematch
+    python scripts/fetch_nmpa_fulltext.py --rematch --dry-run
 """
 
 import argparse
@@ -77,6 +80,75 @@ NMPA_DOCX_PATTERN = re.compile(
     r'https?://(?:www\.)?nmpa\.gov\.cn/[^\s"\'<>]+\.docx?',
     re.IGNORECASE,
 )
+
+_SPAM_URL_THRESHOLD = 20
+
+
+def _build_spam_url_set() -> set[str]:
+    """Identify URLs that appear 20+ times across discoveries -- generic/catalog files."""
+    try:
+        with open(DISCOVERED_URLS_PATH, "r", encoding="utf-8") as f:
+            discovered = json.load(f)
+    except FileNotFoundError:
+        return set()
+
+    from collections import Counter
+    url_counter: Counter[str] = Counter()
+    for disc in discovered.values():
+        urls = disc.get("urls", [])
+        if not urls:
+            old = disc.get("url", "")
+            if old:
+                urls = [old]
+        url_counter.update(urls)
+
+    return {u for u, c in url_counter.items() if c >= _SPAM_URL_THRESHOLD}
+
+
+def _normalize_doc_number(dn: str) -> str:
+    """Normalize announcement number to group siblings from the same notice."""
+    dn = re.sub(r'附件\d+', '', dn).strip()
+    dn = re.sub(r'[，、,].*$', '', dn).strip()
+    return dn
+
+
+def _build_announcement_url_pool(
+    entries: list[dict], discovered: dict, spam_urls: set[str]
+) -> dict[str, set[str]]:
+    """Pool URLs from all entries sharing the same announcement number.
+
+    Returns a mapping of entry_id -> set of sibling URLs (excluding spam).
+    """
+    groups: dict[str, list[dict]] = {}
+    for e in entries:
+        dn = e.get("doc_number", "")
+        if not dn:
+            continue
+        base = _normalize_doc_number(dn)
+        if not base:
+            continue
+        groups.setdefault(base, []).append(e)
+
+    pool: dict[str, set[str]] = {}
+    for group_entries in groups.values():
+        if len(group_entries) < 2:
+            continue
+        all_urls: set[str] = set()
+        for e in group_entries:
+            disc = discovered.get(e["id"], {})
+            urls = disc.get("urls", [])
+            if not urls:
+                old = disc.get("url", "")
+                if old:
+                    urls = [old]
+            all_urls.update(u for u in urls if u not in spam_urls)
+
+        if all_urls:
+            for e in group_entries:
+                pool[e["id"]] = all_urls
+
+    return pool
+
 
 VERTEX_AI_PROJECT_ID = os.environ.get("VERTEX_AI_PROJECT_ID", "")
 VERTEX_AI_SEARCH_APP_ID = os.environ.get("VERTEX_AI_SEARCH_APP_ID", "")
@@ -384,6 +456,8 @@ def fulltext_exists(entry: dict) -> bool:
             continue
         if (FULLTEXT_DIR / f"{name}.md").exists():
             return True
+        if (FULLTEXT_DIR / f"{name}.zh.md").exists():
+            return True
     return False
 
 
@@ -458,19 +532,105 @@ def _normalize_title(title: str) -> str:
     return t
 
 
+def _extract_core_subject(title: str) -> str:
+    """Extract the core product/test name by stripping generic suffixes."""
+    s = title.strip()
+    s = s.replace('\uff08', '(').replace('\uff09', ')')
+    s = re.sub(r'\(\d{4}\u5e74.*?\)', '', s)
+    s = re.sub(
+        r'(\u6ce8\u518c|\u6280\u672f|\u5ba1\u67e5|\u5ba1\u8bc4|\u6307\u5bfc'
+        r'|\u539f\u5219|\u8981\u70b9|\u6307\u5357|\u8bd5\u884c'
+        r'|\u4fee\u8ba2\u7248?|\u4ea7\u54c1|\u901a\u7528|\u89c4\u8303)+', '', s)
+    s = re.sub(r'\u7b2c\d+\u53f7.*$', '', s)
+    s = re.sub(r'\u7b2c\d+\u90e8\u5206.*$', '', s)
+    s = re.sub(r'[（()）\[\]【】/／：:\s]', '', s)
+    return s.strip()
+
+
+def _check_attachment_body_mismatch(text: str, expected_title: str) -> bool:
+    """Detect if text has the expected title in header but body content
+    is actually about a different guidance document (NMPA attachment pattern).
+
+    Returns True if the body is about a DIFFERENT topic than expected_title.
+    """
+    lines = text.split('\n')
+
+    attachment_markers = (
+        '## \u9644\u4ef6', '\u9644\u4ef6', '# \u9644\u4ef6',
+        '**\u9644\u4ef6**', '## \u9644\u4ef6\uff1a', '\u9644\u4ef6\uff1a', '\u9644\u4ef6:',
+    )
+
+    attachment_idx = -1
+    for i, line in enumerate(lines[:30]):
+        stripped = line.strip()
+        if stripped in attachment_markers or stripped.startswith('## \u9644\u4ef6'):
+            attachment_idx = i
+            break
+
+    if attachment_idx < 0:
+        return False
+
+    for j in range(attachment_idx + 1, min(attachment_idx + 8, len(lines))):
+        line = lines[j].strip()
+        line = re.sub(r'^#+\s*', '', line).strip()
+        line = re.sub(r'^\*+\s*', '', line).rstrip('*').strip()
+        if not line:
+            continue
+        if re.search(r'[\u4e00-\u9fff]', line) and len(line) >= 4:
+            body_subject = line[:100]
+            expected_core = _extract_core_subject(expected_title)
+            body_core = _extract_core_subject(body_subject)
+
+            if not expected_core or not body_core or len(expected_core) < 2:
+                return False
+
+            if expected_core in body_core or body_core in expected_core:
+                return False
+
+            title_sim = _title_similarity(body_subject, expected_title)
+            if title_sim >= 0.5:
+                return False
+
+            if len(expected_core) >= 4 and len(body_core) >= 4:
+                exp_bg = set(expected_core[i:i+2]
+                             for i in range(len(expected_core)-1))
+                body_bg = set(body_core[i:i+2]
+                              for i in range(len(body_core)-1))
+                if exp_bg and body_bg:
+                    overlap = exp_bg & body_bg
+                    score = len(overlap) / max(len(exp_bg), len(body_bg))
+                    if score < 0.3:
+                        return True
+
+            return True
+
+    return False
+
+
 def content_matches_title(text: str, expected_title: str) -> bool:
-    """Check if the document content plausibly matches the expected title."""
+    """Check if the document content plausibly matches the expected title.
+
+    Also detects the NMPA "attachment mismatch" pattern where the title
+    appears in the header but the body is a different guidance document.
+    """
     if not text or not expected_title:
         return False
 
     first_section = text[:5000]
+    first_flat = re.sub(r'\s*\n#+\s*', '', first_section[:3000])
 
-    if expected_title in first_section:
-        return True
+    title_found = False
+    if expected_title in first_section or expected_title in first_flat:
+        title_found = True
+    else:
+        norm_expected = _normalize_title(expected_title)
+        norm_first = _normalize_title(first_flat)
+        if norm_expected in norm_first:
+            title_found = True
 
-    norm_expected = _normalize_title(expected_title)
-    norm_first = _normalize_title(first_section[:3000])
-    if norm_expected in norm_first:
+    if title_found:
+        if _check_attachment_body_mismatch(text, expected_title):
+            return False
         return True
 
     title_keywords = _title_keywords(expected_title)
@@ -530,19 +690,109 @@ def validate_extracted_content(
 # Cross-matching: match mismatched content to other index entries
 # ---------------------------------------------------------------------------
 
+_BODY_START_RE = re.compile(
+    r'^(本指导原则|本文|为进一步|为规范|为统一|为指导|根据|按照'
+    r'|分析性能评估资料|本文涉及|本技术|本标准|本导则'
+    r'|本指南)',
+)
+
+_ATTACHMENT_LINE_RE = re.compile(
+    r'^(附件\s*[:：]?\s*\d*\s*$|## 附件|# 附件)',
+    re.IGNORECASE,
+)
+
+_REVISION_SUFFIX_RE = re.compile(
+    r'^[（(]\s*\d{4}\s*年?\s*(修订版|第.+版)\s*[）)]\s*$',
+)
+
+
 def extract_actual_title(markdown: str) -> str:
-    """Extract the actual title from the first heading or text line."""
-    for line in markdown.split('\n'):
-        line = line.strip()
-        if not line:
+    """Extract the guidance document title from markdown content.
+
+    Handles NMPA guidance document patterns:
+    - "附件N" prefix lines (skipped)
+    - Title split across multiple lines by hard returns
+    - "(2024年修订版)" suffixes appended to title
+    - Markdown heading markers (# / ##)
+    - Bold markers (**title**)
+    """
+    lines = []
+    for raw in markdown.split('\n'):
+        stripped = raw.strip()
+        if not stripped:
             continue
-        if line.startswith('# '):
-            return line[2:].strip()
-        if line.startswith('## '):
-            return line[3:].strip()
-        if len(line) > 5 and not line.startswith('**') and not line.startswith('---'):
-            return line.strip()
-    return ""
+        if stripped.startswith('<!--'):
+            continue
+        if stripped.startswith('!['):
+            continue
+        clean = re.sub(r'^#+\s*', '', stripped).strip()
+        clean = re.sub(r'^\*+\s*', '', clean).rstrip('*').strip()
+        if not clean or clean == '---':
+            continue
+        lines.append(clean)
+
+    if not lines:
+        return ""
+
+    title_parts: list[str] = []
+    i = 0
+
+    while i < len(lines):
+        line = lines[i]
+        if _ATTACHMENT_LINE_RE.match(line) or _ATTACHMENT_LINE_RE.match(lines[i] if not line.startswith('#') else f'# {line}'):
+            i += 1
+            continue
+        if re.match(r'^附件\s*[:：]?\s*$', line) or re.match(r'^附件\s*\d+\s*$', line):
+            i += 1
+            continue
+        break
+
+    while i < len(lines):
+        line = lines[i]
+
+        if _BODY_START_RE.match(line):
+            break
+
+        if re.match(r'^(Source:|Published:|---)', line):
+            break
+        if any(line.startswith(p) for p in _SKIP_LINE_PREFIXES):
+            break
+
+        if re.match(r'^指导原则编号', line):
+            i += 1
+            continue
+        if re.match(r'^(二O|20\d{2}年\d+月)', line):
+            i += 1
+            continue
+
+        if _REVISION_SUFFIX_RE.match(line):
+            title_parts.append(line)
+            i += 1
+            break
+
+        if len(line) > 60 and title_parts:
+            break
+
+        title_parts.append(line)
+        i += 1
+
+        cur_title = ''.join(title_parts)
+        if re.search(r'(指导原则|指导文件|审查要求|技术指导|基本要求|技术要求)', cur_title):
+            if i < len(lines) and not _REVISION_SUFFIX_RE.match(lines[i]):
+                break
+
+        if len(title_parts) >= 3:
+            break
+
+    if not title_parts:
+        for line in lines:
+            if re.search(r'[\u4e00-\u9fff]', line) and len(line) >= 4:
+                return line[:100]
+        return ""
+
+    title = ''.join(title_parts)
+    title = re.sub(r'\s+', '', title)
+    return title[:150]
 
 
 def _title_similarity(title_a: str, title_b: str) -> float:
@@ -592,7 +842,7 @@ def cross_match_content(
             best_score = score
             best_entry = entry
 
-    if best_score >= 0.3 and best_entry:
+    if best_score >= 0.5 and best_entry:
         if content_matches_title(markdown, best_entry["title"]["zh"]):
             return best_entry
 
@@ -611,6 +861,195 @@ def save_unmatched(markdown: str, source_url: str, actual_title: str):
 
     fp.write_text(header + markdown, encoding="utf-8")
     logger.info(f"    Saved to _unmatched/{slug}.md ({actual_title[:40]})")
+
+
+_SKIP_LINE_PREFIXES = (
+    'Source:', 'Published:', '**Source',
+    '\u98df\u836f\u76d1', '\u56fd\u5bb6\u98df\u54c1',
+    '\u56fd\u5bb6\u836f\u54c1\u76d1\u7763\u7ba1\u7406\u5c40',
+    '\u5173\u4e8e\u53d1\u5e03', '\u5173\u4e8e\u5370\u53d1',
+)
+
+_SKIP_LINE_EXACT = {'\u9644\u4ef6', '\u9644\u5f55'}
+
+
+def _is_boilerplate_line(clean: str) -> bool:
+    """Return True if line is boilerplate that should not be used as a title."""
+    if not clean or clean == '---':
+        return True
+    if any(clean.startswith(p) for p in _SKIP_LINE_PREFIXES):
+        return True
+    if clean in _SKIP_LINE_EXACT:
+        return True
+    if re.match(r'^\u9644\u4ef6\s*\d*$', clean):
+        return True
+    return False
+
+
+def _extract_unmatched_title(text: str) -> str:
+    """Extract the actual guidance title from an _unmatched/ file,
+    skipping boilerplate headers and metadata comments."""
+    for line in text.split('\n'):
+        line = line.strip()
+        if not line:
+            continue
+        if line.startswith('<!--'):
+            continue
+        clean = re.sub(r'^#+\s*', '', line).strip()
+        clean = re.sub(r'^\*+\s*', '', clean).rstrip('*').strip()
+        if _is_boilerplate_line(clean):
+            continue
+        if re.search(r'[\u4e00-\u9fff]', clean) and len(clean) >= 4:
+            return clean[:100]
+    return ""
+
+
+def _extract_candidate_titles(text: str, max_titles: int = 5) -> list[str]:
+    """Extract multiple candidate title strings from content,
+    skipping boilerplate. Used for deeper rematch attempts."""
+    candidates = []
+    seen: set[str] = set()
+    for line in text.split('\n')[:50]:
+        line = line.strip()
+        if not line or line.startswith('<!--'):
+            continue
+        clean = re.sub(r'^#+\s*', '', line).strip()
+        clean = re.sub(r'^\*+\s*', '', clean).rstrip('*').strip()
+        if _is_boilerplate_line(clean):
+            continue
+        if re.search(r'[\u4e00-\u9fff]', clean) and len(clean) >= 4:
+            title = clean[:100]
+            if title not in seen:
+                seen.add(title)
+                candidates.append(title)
+            if len(candidates) >= max_titles:
+                break
+    return candidates
+
+
+def _extract_unmatched_body(text: str) -> str:
+    """Extract body content from an _unmatched/ file (skip comment headers)."""
+    lines = text.split('\n')
+    body_lines = []
+    past_comments = False
+    for line in lines:
+        if not past_comments:
+            stripped = line.strip()
+            if stripped.startswith('<!--') and stripped.endswith('-->'):
+                continue
+            if not stripped:
+                continue
+            past_comments = True
+        body_lines.append(line)
+    return '\n'.join(body_lines)
+
+
+def rematch_unmatched(dry_run: bool = False):
+    """Scan _unmatched/ files, try to match them to index entries missing fulltext.
+
+    Moves matched files from _unmatched/ to fulltext/ with proper slug.
+    """
+    if not UNMATCHED_DIR.exists():
+        logger.info("No _unmatched/ directory found")
+        return
+
+    index_data = load_index()
+    entries = index_data.get("entries", [])
+
+    unmatched_files = sorted(UNMATCHED_DIR.glob("*.md"))
+    logger.info(f"Scanning {len(unmatched_files)} unmatched files...")
+
+    matched = 0
+    skipped_catalog = 0
+    skipped_draft = 0
+    no_match = 0
+    index_modified = False
+
+    for fp in unmatched_files:
+        text = fp.read_text(encoding='utf-8', errors='replace')
+        body = _extract_unmatched_body(text)
+
+        if not body or len(body) < 200:
+            continue
+
+        if is_catalog_content(body):
+            skipped_catalog += 1
+            continue
+
+        if is_draft_content(body):
+            skipped_draft += 1
+            continue
+
+        actual_title = extract_actual_title(body)
+        if not actual_title or len(actual_title) < 4:
+            no_match += 1
+            continue
+
+        source_url = ""
+        m = re.search(r'<!--\s*source_url:\s*(.*?)\s*-->', text)
+        if m:
+            source_url = m.group(1).strip()
+
+        found_entry = None
+        found_score = 0.0
+
+        best_entry = None
+        best_score = 0.0
+
+        for entry in entries:
+            if fulltext_exists(entry):
+                continue
+            entry_title = entry.get("title", {}).get("zh", "")
+            if not entry_title:
+                continue
+
+            score = _title_similarity(actual_title, entry_title)
+            if score > best_score:
+                best_score = score
+                best_entry = entry
+
+        if best_score >= 0.5 and best_entry:
+            entry_title = best_entry["title"]["zh"]
+            if content_matches_title(body, entry_title):
+                found_entry = best_entry
+                found_score = best_score
+
+        if not found_entry:
+            no_match += 1
+            continue
+
+        entry_title = found_entry["title"]["zh"]
+        logger.info(
+            f"  REMATCH [{found_score:.2f}]: {fp.name}"
+            f" -> {entry_title[:50]}"
+        )
+
+        if dry_run:
+            matched += 1
+            continue
+
+        clean_body = re.sub(r'<!--\s*unmatched\s*-->\s*\n?', '', text)
+        clean_body = re.sub(r'<!--\s*actual_title:.*?-->\s*\n?', '', clean_body)
+        clean_body = re.sub(r'<!--\s*source_url:.*?-->\s*\n?', '', clean_body)
+        clean_body = clean_body.lstrip('\n')
+
+        if _save_fulltext(found_entry, clean_body, source_url, entries):
+            index_modified = True
+
+        fp.unlink()
+        matched += 1
+        logger.info(f"    Moved to fulltext, removed from _unmatched/")
+
+    if index_modified and not dry_run:
+        save_index(index_data)
+
+    logger.info(
+        f"\nRematch: {matched} matched"
+        f", {skipped_catalog} catalogs skipped"
+        f", {skipped_draft} drafts skipped"
+        f", {no_match} no match"
+        f"{' (dry-run)' if dry_run else ''}"
+    )
 
 
 # ---------------------------------------------------------------------------
@@ -1033,6 +1472,12 @@ def download_and_extract(limit: int = 0, dry_run: bool = False,
     entries = index_data.get("entries", [])
     discovered = load_discovered_urls()
 
+    spam_urls = _build_spam_url_set()
+    if spam_urls:
+        logger.info(f"Filtering {len(spam_urls)} high-frequency spam URLs")
+
+    announce_url_pool = _build_announcement_url_pool(entries, discovered, spam_urls)
+
     candidates = []
     for entry in entries:
         eid = entry["id"]
@@ -1046,6 +1491,12 @@ def download_and_extract(limit: int = 0, dry_run: bool = False,
             old_url = disc.get("url", "")
             if old_url:
                 urls = [old_url]
+        urls = [u for u in urls if u not in spam_urls]
+
+        sibling_urls = announce_url_pool.get(eid, set()) - set(urls)
+        if sibling_urls:
+            urls = urls + sorted(sibling_urls)
+
         if not urls:
             continue
         candidates.append((entry, urls))
@@ -1326,6 +1777,8 @@ def main():
                         help="Phase 2: Download, convert, validate, extract")
     parser.add_argument("--cleanup", action="store_true",
                         help="Remove bad fulltext (catalogs/lists)")
+    parser.add_argument("--rematch", action="store_true",
+                        help="Re-match _unmatched/ files to index entries")
     parser.add_argument("--stats", action="store_true",
                         help="Show fulltext coverage statistics")
     parser.add_argument("--limit", type=int, default=0,
@@ -1338,13 +1791,15 @@ def main():
                         help="Filter by category (e.g. general, ivd)")
     args = parser.parse_args()
 
-    if not (args.discover or args.download or args.cleanup or args.stats):
+    if not (args.discover or args.download or args.cleanup
+            or args.rematch or args.stats):
         parser.print_help()
         print("\nExamples:")
         print("  python scripts/fetch_nmpa_fulltext.py --stats")
         print("  python scripts/fetch_nmpa_fulltext.py --cleanup --category general")
         print("  python scripts/fetch_nmpa_fulltext.py --discover --category general")
         print("  python scripts/fetch_nmpa_fulltext.py --download --category general")
+        print("  python scripts/fetch_nmpa_fulltext.py --rematch")
         return
 
     if args.stats:
@@ -1353,6 +1808,10 @@ def main():
 
     if args.cleanup:
         cleanup_bad_fulltext(category=args.category, dry_run=args.dry_run)
+        return
+
+    if args.rematch:
+        rematch_unmatched(dry_run=args.dry_run)
         return
 
     searcher = WebSearcher()
