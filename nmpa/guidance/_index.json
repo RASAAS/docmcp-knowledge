@@ -166,7 +166,8 @@
       },
       "status": "active",
       "doc_number": "国家食品药品监督管理局",
-      "category": "general"
+      "category": "general",
+      "slug": "nmpa-gp-含药医疗器械产品注册申报资料撰写指导原则-b382b9"
     },
     {
       "id": "nmpa-gp-无源植入性医疗器械产品注册申报资料指导原则-873b41",
@@ -189,7 +190,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "食药监办械函[2011]116号",
-      "category": "ivd"
+      "category": "ivd",
+      "slug": "nmpa-gp-体外诊断试剂分析性能评估-准确度-方法学比对-技术审查指导原-1447d0"
     },
     {
       "id": "nmpa-gp-体外诊断试剂分析性能评估-准确度-回收试验-技术审查指导原则-0d4218",
@@ -200,7 +202,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "食药监办械函[2011]116号",
-      "category": "ivd"
+      "category": "ivd",
+      "slug": "nmpa-gp-体外诊断试剂分析性能评估-准确度-回收试验-技术审查指导原则-5385f4"
     },
     {
       "id": "nmpa-gp-手术动力设备产品注册技术审查指导原则-da80f9",
@@ -319,7 +322,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家食品药品监督管理总局2015年第112号通告",
-      "category": "radiation_therapy"
+      "category": "radiation_therapy",
+      "slug": "nmpa-gp-质子-碳离子治疗系统技术审查指导原则-948475"
     },
     {
       "id": "nmpa-gp-影像型超声诊断设备新技术注册技术审查指导原则-b3d7f9",
@@ -353,7 +357,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家食品药品监督管理总局2015年第112号通告",
-      "category": "blood_transfusion"
+      "category": "blood_transfusion",
+      "slug": "nmpa-gp-离心式血液成分分离设备技术审查指导原则-675cf6"
     },
     {
       "id": "nmpa-gp-医用x射线诊断设备-第三类-注册技术审查指导原则-2016年修订版-fb1b1e",
@@ -363,7 +368,8 @@
       },
       "status": "active",
       "doc_number": "国家食品药品监督管理总局2016年第21号通告",
-      "category": "imaging"
+      "category": "imaging",
+      "slug": "nmpa-gp-医用x射线诊断设备-第三类-注册技术审查指导原则-2016年-2e2f7b"
     },
     {
       "id": "nmpa-gp-植入式心脏起搏器注册技术审查指导原则-2016年修订版-2b6a17",
@@ -398,7 +404,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家食品药品监督管理总局2016年第70号通告",
-      "category": "dental"
+      "category": "dental",
+      "slug": "nmpa-gp-牙科基托聚合物材料注册技术审查指导原则-1fda27"
     },
     {
       "id": "nmpa-gp-人红细胞反定型试剂注册技术审查指导原则-9c799a",
@@ -409,7 +416,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家食品药品监督管理总局2016年第131号通告",
-      "category": "ivd"
+      "category": "ivd",
+      "slug": "nmpa-gp-人红细胞反定型试剂注册技术审查指导原则-02c755"
     },
     {
       "id": "nmpa-gp-人工耳蜗植入系统临床试验指导原则-c56c52",
@@ -467,7 +475,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家食品药品监督管理总局2017年第25号通告",
-      "category": "ivd"
+      "category": "ivd",
+      "slug": "nmpa-gp-结核分枝杆菌复合群耐药基因突变检测试剂注册技术审查指导原则-464dca"
     },
     {
       "id": "nmpa-gp-中心静脉导管产品注册技术审查指导原则-94716a",
@@ -560,7 +569,8 @@
       },
       "status": "active",
       "doc_number": "国家食品药品监督管理总局2017年第41号通告",
-      "category": "infusion_injection"
+      "category": "infusion_injection",
+      "slug": "nmpa-gp-注射泵注册技术审查指导原则-2017年修订版-6f3b3e"
     },
     {
       "id": "nmpa-gp-胎儿染色体非整倍体-t21-t18-t13-检测试剂盒-高通量测序法-注册技术审查指导原则-986976",
@@ -570,7 +580,8 @@
       },
       "status": "active",
       "doc_number": "国家食品药品监督管理总局2017年第52号通告",
-      "category": "ivd"
+      "category": "ivd",
+      "slug": "nmpa-gp-胎儿染色体非整倍体-t21-t18-t13-检测试剂盒-高通-8f35fd"
     },
     {
       "id": "nmpa-gp-电动手术台注册技术审查指导原则-2017年修订版-d3b3a1",
@@ -593,7 +604,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家食品药品监督管理总局2017年第60号通告",
-      "category": "imaging"
+      "category": "imaging",
+      "slug": "nmpa-gp-影像型超声诊断设备-第二类-注册技术审查指导原则-e26581"
     },
     {
       "id": "nmpa-gp-牙科种植机注册技术审查指导原则-216587",
@@ -604,7 +616,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家食品药品监督管理总局2017年第124号通告",
-      "category": "dental"
+      "category": "dental",
+      "slug": "nmpa-gp-牙科种植机注册技术审查指导原则-8cbaf1"
     },
     {
       "id": "nmpa-gp-骨组织手术设备注册技术审查指导原则-2017年修订版-8a7a23",
@@ -627,7 +640,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家食品药品监督管理总局2017年第177号通告",
-      "category": "rehab_physio"
+      "category": "rehab_physio",
+      "slug": "nmpa-gp-医用控温毯注册技术审查指导原则-2017年修订版-166c82"
     },
     {
       "id": "nmpa-gp-脉搏血氧仪注册技术审查指导原则-2017年修订版-b4b15f",
@@ -650,7 +664,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家食品药品监督管理总局2017年第177号通告",
-      "category": "dental"
+      "category": "dental",
+      "slug": "nmpa-gp-牙科手机注册技术审查指导原则-2017年修订版-8854fe"
     },
     {
       "id": "nmpa-gp-防褥疮气床垫注册技术审查指导原则-2017年修订版-902806",
@@ -661,7 +676,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家食品药品监督管理总局2017年第178号通告",
-      "category": "infusion_injection"
+      "category": "infusion_injection",
+      "slug": "nmpa-gp-防褥疮气床垫注册技术审查指导原则-2017年修订版-0d1c53"
     },
     {
       "id": "nmpa-gp-医疗器械注册单元划分指导原则-3a6dcd",
@@ -708,7 +724,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家食品药品监督管理总局2017年第209号通告",
-      "category": "ivd"
+      "category": "ivd",
+      "slug": "nmpa-gp-全自动血型分析仪注册技术审查指导原则-70dbff"
     },
     {
       "id": "nmpa-gp-abo-rhd血型抗原检测卡-柱凝集法-注册技术审查指导原则-ae3b11",
@@ -719,7 +736,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家食品药品监督管理总局2017年第209号通告",
-      "category": "ivd"
+      "category": "ivd",
+      "slug": "nmpa-gp-abo-rhd血型抗原检测卡-柱凝集法-注册技术审查指导原则-0f6574"
     },
     {
       "id": "nmpa-gp-人表皮生长因子受体2基因扩增检测试剂盒-荧光原位杂交法-注册技术审查指导原则-e7e1d8",
@@ -730,7 +748,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家食品药品监督管理总局2017年第209号通告",
-      "category": "ivd"
+      "category": "ivd",
+      "slug": "nmpa-gp-人表皮生长因子受体2基因扩增检测试剂盒-荧光原位杂交法-注册-933913"
     },
     {
       "id": "nmpa-gp-丙型肝炎病毒核酸基因分型检测试剂盒注册技术审查指导原则-e4f24d",
@@ -788,7 +807,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家食品药品监督管理总局2018年第4号通告",
-      "category": "radiation_therapy"
+      "category": "radiation_therapy",
+      "slug": "nmpa-gp-质子碳离子治疗系统临床评价技术审查指导原则-e0d1c6"
     },
     {
       "id": "nmpa-gp-医疗器械临床试验设计指导原则-15b1b3",
@@ -811,7 +831,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家食品药品监督管理总局2018年第3号通告",
-      "category": "blood_transfusion"
+      "category": "blood_transfusion",
+      "slug": "nmpa-gp-全血及血液成分贮存袋注册技术审查指导原则-fb0fe7"
     },
     {
       "id": "nmpa-gp-一次性使用输注泵-非电驱动-注册技术审查指导原则-0cc9ee",
@@ -834,7 +855,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家食品药品监督管理总局2018年第3号通告",
-      "category": "blood_transfusion"
+      "category": "blood_transfusion",
+      "slug": "nmpa-gp-血液浓缩器注册技术审查指导原则-457694"
     },
     {
       "id": "nmpa-gp-接受医疗器械境外临床试验数据技术指导原则-219af7",
@@ -880,7 +902,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家食品药品监督管理总局2018年第9号通告",
-      "category": "ivd"
+      "category": "ivd",
+      "slug": "nmpa-gp-d-二聚体测定试剂-免疫比浊法-注册技术审查指导原则-dd462a"
     },
     {
       "id": "nmpa-gp-丙氨酸氨基转移酶测定试剂注册技术审查指导原则-6c9f87",
@@ -903,7 +926,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家食品药品监督管理总局2018年第8号通告",
-      "category": "ivd"
+      "category": "ivd",
+      "slug": "nmpa-gp-尿液分析试纸条注册技术审查指导原则-854bc5"
     },
     {
       "id": "nmpa-gp-同型半胱氨酸测定试剂注册技术审查指导原则-3d1e17",
@@ -912,9 +936,10 @@
         "en": ""
       },
       "status": "active",
-      "source_url": "",
+      "source_url": "https://www.cmde.org.cn/directory/web/cmde/images/1704270843019089122.doc",
       "doc_number": "国家食品药品监督管理总局2018年第8号通告",
-      "category": "ivd"
+      "category": "ivd",
+      "slug": "cmde-2018-8-07c8"
     },
     {
       "id": "nmpa-gp-胰岛素测定试剂注册技术审查指导原则-e5d7c8",
@@ -961,7 +986,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家食品药品监督管理总局2018年第36号通告",
-      "category": "ivd"
+      "category": "ivd",
+      "slug": "nmpa-gp-人表皮生长因子受体-egfr-突变基因检测试剂-pcr法-注-bc6ab0"
     },
     {
       "id": "nmpa-gp-幽门螺杆菌抗原-抗体检测试剂注册技术审查指导原则-c72774",
@@ -982,9 +1008,10 @@
         "en": ""
       },
       "status": "active",
-      "source_url": "",
+      "source_url": "https://www.cmde.org.cn/directory/web/cmde/images/08TDxcLduMu++r+51K1fv7nM5bzssuLK1LzB16Ky4by8yvXJ87Lp1ri1vNSt1PIuZG9j.doc",
       "doc_number": "国家食品药品监督管理总局2018年第36号通告",
-      "category": "ivd"
+      "category": "ivd",
+      "slug": "cmde-2018-36-ffbe"
     },
     {
       "id": "nmpa-gp-肠道病毒核酸检测试剂注册技术审查指导原则-5bd7ec",
@@ -1018,7 +1045,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家食品药品监督管理总局2018年第53号通告",
-      "category": "ophthalmic"
+      "category": "ophthalmic",
+      "slug": "nmpa-gp-眼科飞秒激光治疗机注册技术审查指导原则-a844dd"
     },
     {
       "id": "nmpa-gp-眼科超声诊断设备注册技术审查指导原则-aa0f7a",
@@ -1029,7 +1057,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家食品药品监督管理总局2018年第55号通告",
-      "category": "imaging"
+      "category": "imaging",
+      "slug": "nmpa-gp-眼科超声诊断设备注册技术审查指导原则-c18ec0"
     },
     {
       "id": "nmpa-gp-结核分枝杆菌特异性细胞免疫反应检测试剂注册技术审查指导原则-acff03",
@@ -1076,7 +1105,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2018年第15号通告",
-      "category": "respiratory"
+      "category": "respiratory",
+      "slug": "nmpa-gp-气腹机注册技术审查指导原则-968811"
     },
     {
       "id": "nmpa-gp-医用低温保存箱注册技术审查指导原则-b5cc64",
@@ -1087,7 +1117,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2018年第15号通告",
-      "category": "lab_equipment"
+      "category": "lab_equipment",
+      "slug": "nmpa-gp-医用低温保存箱注册技术审查指导原则-d31d44"
     },
     {
       "id": "nmpa-gp-电子尿量计注册技术审查指导原则-32bcae",
@@ -1110,7 +1141,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2018年第15号通告",
-      "category": "reproductive"
+      "category": "reproductive",
+      "slug": "nmpa-gp-电子阴道显微镜注册技术审查指导原则-639d52"
     },
     {
       "id": "nmpa-gp-软性接触镜注册技术审查指导原则-17bfd4",
@@ -1121,7 +1153,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2018年第18号通告",
-      "category": "ophthalmic"
+      "category": "ophthalmic",
+      "slug": "nmpa-gp-软性接触镜注册技术审查指导原则-807b84"
     },
     {
       "id": "nmpa-gp-人类体外辅助生殖技术用液注册技术审查指导原则-20df9b",
@@ -1144,7 +1177,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2018年第21号通告",
-      "category": "implant_cardio"
+      "category": "implant_cardio",
+      "slug": "nmpa-gp-冠状动脉药物洗脱支架临床前研究指导原则-0709d7"
     },
     {
       "id": "nmpa-gp-冠状动脉药物洗脱支架临床试验指导原则-0378fe",
@@ -1179,7 +1213,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2018年第25号通告",
-      "category": "sterilization"
+      "category": "sterilization",
+      "slug": "nmpa-gp-医用洁净工作台注册技术审查指导原则-90e5b6"
     },
     {
       "id": "nmpa-gp-眼压计注册技术审查指导原则-c99d1b",
@@ -1202,7 +1237,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2018年第25号通告",
-      "category": "monitoring"
+      "category": "monitoring",
+      "slug": "nmpa-gp-脉搏波速度和踝臂指数检测产品注册技术审查指导原则-ce4da6"
     },
     {
       "id": "nmpa-gp-麻醉咽喉镜注册技术审查指导原则-99f976",
@@ -1213,7 +1249,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2018年第30号通告",
-      "category": "respiratory"
+      "category": "respiratory",
+      "slug": "nmpa-gp-麻醉咽喉镜注册技术审查指导原则-f8ce67"
     },
     {
       "id": "nmpa-gp-内镜清洗消毒机注册技术审查指导原则-47bcf5",
@@ -1272,7 +1309,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2018年第51号通告",
-      "category": "ophthalmic"
+      "category": "ophthalmic",
+      "slug": "nmpa-gp-软性接触镜临床试验指导原则-d161c0"
     },
     {
       "id": "nmpa-gp-一次性使用无菌导尿管注册技术审查指导原则-2018年修订-902bc3",
@@ -1307,7 +1345,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2018年第80号通告",
-      "category": "infusion_injection"
+      "category": "infusion_injection",
+      "slug": "nmpa-gp-鼻饲营养导管注册技术审查指导原则-2018年修订-bc8f67"
     },
     {
       "id": "nmpa-gp-用于罕见病防治医疗器械注册审查指导原则-ac938e",
@@ -1317,7 +1356,8 @@
       },
       "status": "active",
       "doc_number": "国家药品监督管理局2018年第101号通告",
-      "category": "general"
+      "category": "general",
+      "slug": "nmpa-gp-用于罕见病防治医疗器械注册审查指导原则-8e5979"
     },
     {
       "id": "nmpa-gp-骨科外固定支架注册技术审查指导原则-2018年修订-afd743",
@@ -1328,7 +1368,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2018年第107号通告",
-      "category": "implant_ortho"
+      "category": "implant_ortho",
+      "slug": "nmpa-gp-骨科外固定支架注册技术审查指导原则-2018年修订-31f5ff"
     },
     {
       "id": "nmpa-gp-一次性使用医用喉罩注册技术审查指导原则-2018年修订-d91960",
@@ -1339,7 +1380,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2018年第107号通告",
-      "category": "respiratory"
+      "category": "respiratory",
+      "slug": "nmpa-gp-一次性使用医用喉罩注册技术审查指导原则-2018年修订-5ccda9"
     },
     {
       "id": "nmpa-gp-骨水泥套管组件注册技术审查指导原则-f1cbdc",
@@ -1350,7 +1392,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2018年第107号通告",
-      "category": "implant_ortho"
+      "category": "implant_ortho",
+      "slug": "nmpa-gp-骨水泥套管组件注册技术审查指导原则-35be5a"
     },
     {
       "id": "nmpa-gp-护脐带注册技术审查指导原则-2018年修订-424f8f",
@@ -1361,7 +1404,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2018年第116号通告",
-      "category": "reproductive"
+      "category": "reproductive",
+      "slug": "nmpa-gp-护脐带注册技术审查指导原则-2018年修订-c7cbef"
     },
     {
       "id": "nmpa-gp-全瓷义齿用氧化锆瓷块注册技术审查指导原则-2018年修订-c6f4f4",
@@ -1408,7 +1452,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2018年第120号通告",
-      "category": "surgical"
+      "category": "surgical",
+      "slug": "nmpa-gp-吻-缝-合器产品注册技术审查指导原则-2018年修订-fe511f"
     },
     {
       "id": "nmpa-gp-一次性使用吸痰管注册技术审查指导原则-2018年修订-1704b1",
@@ -1431,7 +1476,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2018年第126号通告",
-      "category": "blood_transfusion"
+      "category": "blood_transfusion",
+      "slug": "nmpa-gp-一次性使用胆红素血浆吸附器注册技术审查指导原则-e34133"
     },
     {
       "id": "nmpa-gp-一次性使用活检针注册技术审查指导原则-e7c0a5",
@@ -1442,7 +1488,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2018年第126号通告",
-      "category": "surgical"
+      "category": "surgical",
+      "slug": "nmpa-gp-一次性使用活检针注册技术审查指导原则-79f8df"
     },
     {
       "id": "nmpa-gp-医用激光光纤产品注册技术审查指导原则-4a9a4e",
@@ -1477,7 +1524,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2019年第8号通告",
-      "category": "implant_cardio"
+      "category": "implant_cardio",
+      "slug": "nmpa-gp-主动脉覆膜支架系统临床试验指导原则-86dd31"
     },
     {
       "id": "nmpa-gp-生物可吸收冠状动脉药物洗脱支架临床试验指导原则-233f31",
@@ -1486,9 +1534,10 @@
         "en": ""
       },
       "status": "active",
-      "source_url": "",
+      "source_url": "https://www.nmpa.gov.cn/directory/web/nmpa/images/ufq80tKpxre84La9udzA7b7WMjAxOcTqtdo4usXNqLjmILi9vP4yLmRvYw==.doc",
       "doc_number": "国家药品监督管理局2019年第8号通告",
-      "category": "implant_cardio"
+      "category": "implant_cardio",
+      "slug": "cmde-2019-8-193c"
     },
     {
       "id": "nmpa-gp-经导管植入式人工主动脉瓣膜临床试验指导原则-d5be74",
@@ -1533,9 +1582,10 @@
         "en": ""
       },
       "status": "active",
-      "source_url": "",
+      "source_url": "https://www.cmde.org.cn/directory/web/cmde/images/19y1qLnMtLyy4raoytS8wdeisuG8vMr1yfOy6da4tbzUrdTyLmRvY3g=.docx",
       "doc_number": "国家药品监督管理局2019年第11号通告",
-      "category": "ivd"
+      "category": "ivd",
+      "slug": "cmde-2019-11-3a6b"
     },
     {
       "id": "nmpa-gp-降钙素原检测试剂注册技术审查指导原则-06bdf7",
@@ -1594,7 +1644,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2019年第10号通告",
-      "category": "imaging"
+      "category": "imaging",
+      "slug": "nmpa-gp-眼科高频超声诊断仪注册技术审查指导原则-e9d60a"
     },
     {
       "id": "nmpa-gp-双能x射线骨密度仪注册技术审查指导原则-f20931",
@@ -1605,7 +1656,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2019年第10号通告",
-      "category": "imaging"
+      "category": "imaging",
+      "slug": "nmpa-gp-双能x射线骨密度仪注册技术审查指导原则-1c0841"
     },
     {
       "id": "nmpa-gp-麻醉机注册技术审查指导原则-3c9146",
@@ -1615,7 +1667,8 @@
       },
       "status": "active",
       "doc_number": "国家药品监督管理局2019年第10号通告",
-      "category": "respiratory"
+      "category": "respiratory",
+      "slug": "nmpa-gp-麻醉机注册技术审查指导原则-f0b0c3"
     },
     {
       "id": "nmpa-gp-口腔颌面锥形束计算机体层摄影设备临床评价指导原则-ed1708",
@@ -1638,7 +1691,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2019年第16号通告",
-      "category": "infusion_injection"
+      "category": "infusion_injection",
+      "slug": "nmpa-gp-一次性使用皮肤缝合器注册技术审查指导原则-2019年修订-7e2755"
     },
     {
       "id": "nmpa-gp-牙科车针注册技术审查指导原则-37ab7e",
@@ -1649,7 +1703,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2019年第16号通告",
-      "category": "dental"
+      "category": "dental",
+      "slug": "nmpa-gp-牙科车针注册技术审查指导原则-112293"
     },
     {
       "id": "nmpa-gp-一次性使用配药用注射器注册技术审查指导原则-5da495",
@@ -1672,7 +1727,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2019年第18号通告",
-      "category": "surgical"
+      "category": "surgical",
+      "slug": "nmpa-gp-腹腔内置疝修补补片动物实验技术审查指导原则-75521d"
     },
     {
       "id": "nmpa-gp-有源医疗器械使用期限注册技术审查指导原则-22cf24",
@@ -1695,7 +1751,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2019年第24号通告",
-      "category": "blood_transfusion"
+      "category": "blood_transfusion",
+      "slug": "nmpa-gp-离心式血液成分分离设备临床评价注册技术审查指导原则-449022"
     },
     {
       "id": "nmpa-gp-合成树脂牙注册技术审查指导原则-3de7d5",
@@ -1706,7 +1763,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2019年第25号通告",
-      "category": "dental"
+      "category": "dental",
+      "slug": "nmpa-gp-合成树脂牙注册技术审查指导原则-f6614c"
     },
     {
       "id": "nmpa-gp-宫内节育器注册技术审查指导原则-726aec",
@@ -1717,7 +1775,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2019年第25号通告",
-      "category": "reproductive"
+      "category": "reproductive",
+      "slug": "nmpa-gp-宫内节育器注册技术审查指导原则-81017f"
     },
     {
       "id": "nmpa-gp-植入式给药装置注册技术审查指导原则-25e4a6",
@@ -1752,7 +1811,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2019年第37号通告",
-      "category": "dental"
+      "category": "dental",
+      "slug": "nmpa-gp-口腔数字印模仪注册技术审查指导原则-1a3762"
     },
     {
       "id": "nmpa-gp-子宫内膜射频消融设备注册技术审查指导原则-074ea8",
@@ -1787,7 +1847,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2019年第74号通告",
-      "category": "ivd"
+      "category": "ivd",
+      "slug": "nmpa-gp-天门冬氨酸氨基转移酶测定试剂注册技术审查指导原则-18d54c"
     },
     {
       "id": "nmpa-gp-总胆固醇测定试剂注册技术审查指导原则-ad94fc",
@@ -1834,7 +1895,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2019年第78号通告",
-      "category": "reproductive"
+      "category": "reproductive",
+      "slug": "nmpa-gp-辅助生殖用胚胎移植导管注册技术审查指导原则-8206a0"
     },
     {
       "id": "nmpa-gp-心肺转流系统-体外循环管道注册申报技术审查指导原则-a0fc1e",
@@ -1844,7 +1906,8 @@
       },
       "status": "active",
       "doc_number": "国家药品监督管理局2019年第78号通告",
-      "category": "implant_cardio"
+      "category": "implant_cardio",
+      "slug": "nmpa-gp-心肺转流系统-体外循环管道注册申报技术审查指导原则-e09c86"
     },
     {
       "id": "nmpa-gp-医疗器械已知可沥滤物测定方法验证及确认注册技术审查指导原则-22ee1b",
@@ -1867,7 +1930,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2019年第79号通告",
-      "category": "rehab_physio"
+      "category": "rehab_physio",
+      "slug": "nmpa-gp-肢体加压理疗设备注册技术审查指导原则-b5cd05"
     },
     {
       "id": "nmpa-gp-直接检眼镜注册技术审查指导原则-d97984",
@@ -1890,7 +1954,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2019年第79号通告",
-      "category": "imaging"
+      "category": "imaging",
+      "slug": "nmpa-gp-医用诊断x射线管组件注册技术审查指导原则-60f845"
     },
     {
       "id": "nmpa-gp-肌电生物反馈治疗仪注册技术审查指导原则-c9ee1b",
@@ -1901,7 +1966,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2019年第79号通告",
-      "category": "rehab_physio"
+      "category": "rehab_physio",
+      "slug": "nmpa-gp-肌电生物反馈治疗仪注册技术审查指导原则-081dfc"
     },
     {
       "id": "nmpa-gp-牙科种植手术用钻注册技术审查指导原则-93d9db",
@@ -1912,7 +1978,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2019年第79号通告",
-      "category": "dental"
+      "category": "dental",
+      "slug": "nmpa-gp-牙科种植手术用钻注册技术审查指导原则-bae842"
     },
     {
       "id": "nmpa-gp-人工复苏器注册技术审查指导原则-887009",
@@ -1935,7 +2002,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2019年第79号通告",
-      "category": "rehab_physio"
+      "category": "rehab_physio",
+      "slug": "nmpa-gp-上下肢主被动运动康复训练设备注册技术审查指导原则-52cb23"
     },
     {
       "id": "nmpa-gp-一次性使用内镜用活体取样钳注册技术审查指导原则-2e5670",
@@ -1946,7 +2014,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2019年第79号通告",
-      "category": "surgical"
+      "category": "surgical",
+      "slug": "nmpa-gp-一次性使用内镜用活体取样钳注册技术审查指导原则-a96d97"
     },
     {
       "id": "nmpa-gp-血浆速冻机注册技术审查指导原则-7dd935",
@@ -1957,7 +2026,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2019年第79号通告",
-      "category": "blood_transfusion"
+      "category": "blood_transfusion",
+      "slug": "nmpa-gp-血浆速冻机注册技术审查指导原则-0d8cf5"
     },
     {
       "id": "nmpa-gp-肠内营养泵注册技术审查指导原则-e44c73",
@@ -1968,7 +2038,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2019年第79号通告",
-      "category": "infusion_injection"
+      "category": "infusion_injection",
+      "slug": "nmpa-gp-肠内营养泵注册技术审查指导原则-b56a61"
     },
     {
       "id": "nmpa-gp-牙根尖定位仪注册技术审查指导原则-ae1ff8",
@@ -1979,7 +2050,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2019年第79号通告",
-      "category": "dental"
+      "category": "dental",
+      "slug": "nmpa-gp-牙根尖定位仪注册技术审查指导原则-abf99f"
     },
     {
       "id": "nmpa-gp-尿动力学分析仪注册技术审查指导原则-231d62",
@@ -1990,7 +2062,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2019年第79号通告",
-      "category": "infusion_injection"
+      "category": "infusion_injection",
+      "slug": "nmpa-gp-尿动力学分析仪注册技术审查指导原则-5f029a"
     },
     {
       "id": "nmpa-gp-基于细胞荧光原位杂交法的人类染色体异常检测试剂注册技术审查指导原则-9a050a",
@@ -2001,7 +2074,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2019年第80号通告",
-      "category": "ivd"
+      "category": "ivd",
+      "slug": "nmpa-gp-基于细胞荧光原位杂交法的人类染色体异常检测试剂注册技术审查指-db7837"
     },
     {
       "id": "nmpa-gp-呼吸道病毒多重核酸检测试剂注册技术审查指导原则-7ab082",
@@ -2012,7 +2086,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2019年第80号通告",
-      "category": "ivd"
+      "category": "ivd",
+      "slug": "nmpa-gp-呼吸道病毒多重核酸检测试剂注册技术审查指导原则-92a955"
     },
     {
       "id": "nmpa-gp-基于核酸检测方法的金黄色葡萄球菌和耐甲氧西林金黄色葡萄球菌检测试剂注册技术审查指导原则-d762af",
@@ -2023,7 +2098,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2019年第80号通告",
-      "category": "ivd"
+      "category": "ivd",
+      "slug": "nmpa-gp-基于核酸检测方法的金黄色葡萄球菌和耐甲氧西林金黄色葡萄球菌检-fca756"
     },
     {
       "id": "nmpa-gp-沙眼衣原体和-或淋病奈瑟菌核酸检测试剂注册技术审查指导原则-ee00ea",
@@ -2034,7 +2110,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2019年第80号通告",
-      "category": "ivd"
+      "category": "ivd",
+      "slug": "nmpa-gp-沙眼衣原体和-或淋病奈瑟菌核酸检测试剂注册技术审查指导原则-d9ec71"
     },
     {
       "id": "nmpa-gp-氨基酸-肉碱及琥珀酰丙酮检测试剂注册技术审查指导原则-510103",
@@ -2045,7 +2122,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2019年第80号通告",
-      "category": "ivd"
+      "category": "ivd",
+      "slug": "nmpa-gp-氨基酸-肉碱及琥珀酰丙酮检测试剂注册技术审查指导原则-d3ad0b"
     },
     {
       "id": "nmpa-gp-肿瘤相关突变基因检测试剂-高通量测序法-性能评价通用注册技术审查指导原则-6b1ca4",
@@ -2079,7 +2157,8 @@
       },
       "status": "active",
       "doc_number": "国家药品监督管理局2019年第93号通告",
-      "category": "general"
+      "category": "general",
+      "slug": "nmpa-gp-医疗器械附条件批准上市指导原则-ef010b"
     },
     {
       "id": "nmpa-gp-促卵泡生成素检测试剂注册技术审查指导原则-05f58a",
@@ -2161,7 +2240,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2020年第14号通告",
-      "category": "ivd"
+      "category": "ivd",
+      "slug": "nmpa-gp-抗甲状腺过氧化物酶抗体测定试剂注册技术审查指导原则-9991bb"
     },
     {
       "id": "nmpa-gp-用于放射治疗的x射线图像引导系统注册技术审查指导原则-7c72fc",
@@ -2206,9 +2286,10 @@
         "en": ""
       },
       "status": "active",
-      "source_url": "",
+      "source_url": "https://www.nmpa.gov.cn/directory/web/nmpa/images/zai45rXaM7rFILi9vP4zLmRvYw==.doc",
       "doc_number": "国家药品监督管理局2020年第16号通告",
-      "category": "ivd"
+      "category": "ivd",
+      "slug": "cmde-2020-16-1f1c"
     },
     {
       "id": "nmpa-gp-地中海贫血相关基因检测试剂注册技术审查指导原则-84a204",
@@ -2219,7 +2300,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2020年第16号通告",
-      "category": "ivd"
+      "category": "ivd",
+      "slug": "nmpa-gp-地中海贫血相关基因检测试剂注册技术审查指导原则-b6be64"
     },
     {
       "id": "nmpa-gp-乙型肝炎病毒耐药相关的基因突变检测试剂注册技术审查指导原则-cccd75",
@@ -2277,7 +2359,8 @@
       },
       "status": "active",
       "doc_number": "国家药品监督管理局2020年第31号通告",
-      "category": "implant_ortho"
+      "category": "implant_ortho",
+      "slug": "nmpa-gp-椎体成形球囊扩张导管注册技术审查指导原则-477bab"
     },
     {
       "id": "nmpa-gp-人工关节置换术用丙烯酸树脂骨水泥注册技术审查指导原则-a6ae6a",
@@ -2300,7 +2383,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2020年第31号通告",
-      "category": "implant_ortho"
+      "category": "implant_ortho",
+      "slug": "nmpa-gp-金属髓内钉系统产品注册技术审查指导原则-17439a"
     },
     {
       "id": "nmpa-gp-凡士林纱布产品注册技术审查指导原则-df933a",
@@ -2311,7 +2395,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2020年第31号通告",
-      "category": "wound_care"
+      "category": "wound_care",
+      "slug": "nmpa-gp-凡士林纱布产品注册技术审查指导原则-83f0a4"
     },
     {
       "id": "nmpa-gp-水胶体敷料产品注册技术审查指导原则-76bd92",
@@ -2346,7 +2431,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2020年第31号通告",
-      "category": "implant_ortho"
+      "category": "implant_ortho",
+      "slug": "nmpa-gp-脊柱植入物临床评价质量控制注册技术审查指导原则-a90220"
     },
     {
       "id": "nmpa-gp-登革病毒核酸检测试剂注册技术审查指导原则-39049c",
@@ -2357,7 +2443,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2020年第32号通告",
-      "category": "ivd"
+      "category": "ivd",
+      "slug": "nmpa-gp-登革病毒核酸检测试剂注册技术审查指导原则-f484c0"
     },
     {
       "id": "nmpa-gp-无源医疗器械产品原材料变化评价指南-e33e5b",
@@ -2380,7 +2467,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2020年第36号通告",
-      "category": "implant_ortho"
+      "category": "implant_ortho",
+      "slug": "nmpa-gp-肌腱韧带固定系统注册技术审查指导原则-dbbf11"
     },
     {
       "id": "nmpa-gp-3d打印髋臼杯产品注册技术审查指导原则-c38376",
@@ -2415,7 +2503,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2020年第36号通告",
-      "category": "wound_care"
+      "category": "wound_care",
+      "slug": "nmpa-gp-整形用面部植入假体注册技术审查指导原则-de7c1f"
     },
     {
       "id": "nmpa-gp-全膝关节假体系统产品注册技术审查指导原则-4f9440",
@@ -2438,7 +2527,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2020年第39号通告",
-      "category": "rehab_physio"
+      "category": "rehab_physio",
+      "slug": "nmpa-gp-低频电疗仪注册技术审查指导原则-777bb3"
     },
     {
       "id": "nmpa-gp-热湿交换器注册技术审查指导原则-7c7b24",
@@ -2461,7 +2551,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2020年第39号通告",
-      "category": "surgical"
+      "category": "surgical",
+      "slug": "nmpa-gp-电动气压止血仪注册技术审查指导原则-c92bd0"
     },
     {
       "id": "nmpa-gp-肺通气功能测试产品注册技术审查指导原则-da5d34",
@@ -2472,7 +2563,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2020年第39号通告",
-      "category": "respiratory"
+      "category": "respiratory",
+      "slug": "nmpa-gp-肺通气功能测试产品注册技术审查指导原则-fd14e9"
     },
     {
       "id": "nmpa-gp-医用二氧化碳培养箱注册技术审查指导原则-677656",
@@ -2482,7 +2574,8 @@
       },
       "status": "active",
       "doc_number": "国家药品监督管理局2020年第39号通告",
-      "category": "lab_equipment"
+      "category": "lab_equipment",
+      "slug": "nmpa-gp-医用二氧化碳培养箱注册技术审查指导原则-10ccfe"
     },
     {
       "id": "nmpa-gp-冲击波治疗仪注册技术审查指导原则-c812ba",
@@ -2517,7 +2610,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2020年第39号通告",
-      "category": "wound_care"
+      "category": "wound_care",
+      "slug": "nmpa-gp-热敷贴-袋-产品注册技术审查指导原则-8813b6"
     },
     {
       "id": "nmpa-gp-体外同步复律产品注册技术审查指导原则-60e46f",
@@ -2552,7 +2646,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2020年第47号通告",
-      "category": "ophthalmic"
+      "category": "ophthalmic",
+      "slug": "nmpa-gp-角膜塑形用硬性透气接触镜说明书编写指导原则-2020年修订版-5d0ae8"
     },
     {
       "id": "nmpa-gp-一次性使用乳腺定位丝注册技术审查指导原则-e706aa",
@@ -2563,7 +2658,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2020年第48号通告",
-      "category": "surgical"
+      "category": "surgical",
+      "slug": "nmpa-gp-一次性使用乳腺定位丝注册技术审查指导原则-5cff22"
     },
     {
       "id": "nmpa-gp-硬脑-脊-膜补片注册技术审查指导原则-62501d",
@@ -2586,7 +2682,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2020年第48号通告",
-      "category": "implant_ortho"
+      "category": "implant_ortho",
+      "slug": "nmpa-gp-定制式个性化骨植入物等效性模型注册技术审查指导原则-20b4fd"
     },
     {
       "id": "nmpa-gp-骨科金属植入物有限元分析资料注册技术审查指导原则-2de66f",
@@ -2608,7 +2705,8 @@
       },
       "status": "active",
       "doc_number": "国家药品监督管理局2020年第48号通告",
-      "category": "surgical"
+      "category": "surgical",
+      "slug": "nmpa-gp-疝修补补片临床试验指导原则-abb74b"
     },
     {
       "id": "nmpa-gp-生物可吸收冠状动脉药物洗脱支架动物实验研究指导原则-5b0cf7",
@@ -2619,7 +2717,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2020年第48号通告",
-      "category": "implant_cardio"
+      "category": "implant_cardio",
+      "slug": "nmpa-gp-生物可吸收冠状动脉药物洗脱支架动物实验研究指导原则-213a48"
     },
     {
       "id": "nmpa-gp-笑气吸入镇静镇痛装置注册技术审查指导原则-ba8a10",
@@ -2630,7 +2729,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2020年第49号通告",
-      "category": "respiratory"
+      "category": "respiratory",
+      "slug": "nmpa-gp-笑气吸入镇静镇痛装置注册技术审查指导原则-2a587d"
     },
     {
       "id": "nmpa-gp-球囊扩张导管注册技术审查指导原则-b0c6a9",
@@ -2687,7 +2787,7 @@
       "status": "active",
       "doc_number": "国家药品监督管理局2020年 第62号通告",
       "category": "general",
-      "slug": "cmde-2020-62"
+      "slug": "nmpa-gp-3d打印患者匹配下颌骨假体注册审查指导原则-4bb57b"
     },
     {
       "id": "nmpa-gp-个性化匹配骨植入物及工具医工交互质控审查指导原则-6e0efd",
@@ -2697,7 +2797,8 @@
       },
       "status": "active",
       "doc_number": "国家药品监督管理局2020年 第62号通告",
-      "category": "general"
+      "category": "general",
+      "slug": "nmpa-gp-个性化匹配骨植入物及工具医工交互质控审查指导原则-f97374"
     },
     {
       "id": "nmpa-gp-真实世界数据用于医疗器械临床评价技术指导原则-试行-ba7df1",
@@ -2719,7 +2820,8 @@
       },
       "status": "active",
       "doc_number": "国家药品监督管理局2020年第80号通告",
-      "category": "general"
+      "category": "general",
+      "slug": "nmpa-gp-家用体外诊断医疗器械注册技术审查指导原则-ff1ce3"
     },
     {
       "id": "nmpa-gp-25-羟基维生素d检测试剂注册技术审查指导原则-4be448",
@@ -2730,7 +2832,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2020年第80号通告",
-      "category": "ivd"
+      "category": "ivd",
+      "slug": "nmpa-gp-25-羟基维生素d检测试剂注册技术审查指导原则-c3404e"
     },
     {
       "id": "nmpa-gp-类风湿因子检测试剂注册技术审查指导原则-2bca0b",
@@ -2753,7 +2856,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2020年第80号通告",
-      "category": "ivd"
+      "category": "ivd",
+      "slug": "nmpa-gp-泌乳素检测试剂注册技术审查指导原则-a474a2"
     },
     {
       "id": "nmpa-gp-特定蛋白免疫分析仪注册技术审查指导原则-ca9782",
@@ -2920,7 +3024,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2021年第24号通告",
-      "category": "ivd"
+      "category": "ivd",
+      "slug": "nmpa-gp-轮状病毒抗原检测试剂注册技术审查指导原则-d67362"
     },
     {
       "id": "nmpa-gp-人细小病毒b19-igm-igg抗体检测试剂注册技术审查指导原则-3f200c",
@@ -2931,7 +3036,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2021年第24号通告",
-      "category": "ivd"
+      "category": "ivd",
+      "slug": "nmpa-gp-人细小病毒b19-igm-igg抗体检测试剂注册技术审查指导-90a4f9"
     },
     {
       "id": "nmpa-gp-实时荧光pcr分析仪注册技术审查指导原则-4dff58",
@@ -2942,7 +3048,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2021年第24号通告",
-      "category": "ivd"
+      "category": "ivd",
+      "slug": "nmpa-gp-实时荧光pcr分析仪注册技术审查指导原则-dbaf26"
     },
     {
       "id": "nmpa-gp-柠檬酸消毒液注册技术审查指导原则-5c803d",
@@ -2953,7 +3060,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2021年第30号通告",
-      "category": "sterilization"
+      "category": "sterilization",
+      "slug": "nmpa-gp-柠檬酸消毒液注册技术审查指导原则-dcfe93"
     },
     {
       "id": "nmpa-gp-牙科玻璃离子水门汀注册技术审查指导原则-484ebe",
@@ -2964,7 +3072,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2021年第30号通告",
-      "category": "dental"
+      "category": "dental",
+      "slug": "nmpa-gp-牙科玻璃离子水门汀注册技术审查指导原则-868972"
     },
     {
       "id": "nmpa-gp-一次性使用无菌闭合夹注册技术审查指导原则-8ead2e",
@@ -2987,7 +3096,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2021年第30号通告",
-      "category": "infusion_injection"
+      "category": "infusion_injection",
+      "slug": "nmpa-gp-一次性使用注射笔配套用针注册技术审查指导原则-269107"
     },
     {
       "id": "nmpa-gp-乳腺x射线系统注册技术审查指导原则-a7164c",
@@ -3152,7 +3262,8 @@
       },
       "status": "active",
       "doc_number": "国家药品监督管理局2021年第91号通告",
-      "category": "general"
+      "category": "general",
+      "slug": "nmpa-gp-体外诊断试剂临床试验数据递交要求注册审查指导原则-b4ca49"
     },
     {
       "id": "nmpa-gp-医疗器械临床试验数据递交要求注册审查指导原则-6eb864",
@@ -3211,7 +3322,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2021年第93号通告",
-      "category": "surgical"
+      "category": "surgical",
+      "slug": "nmpa-gp-超声软组织切割止血系统同品种临床评价技术审查指导原则-cc902c"
     },
     {
       "id": "nmpa-gp-口腔种植手术导航定位系统同品种临床评价注册审查指导原则-5e6055",
@@ -3234,7 +3346,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2021年第93号通告",
-      "category": "surgical"
+      "category": "surgical",
+      "slug": "nmpa-gp-微波消融设备注册审查指导原则-37f919"
     },
     {
       "id": "nmpa-gp-内窥镜手术动力设备注册审查指导原则-7d8310",
@@ -3245,7 +3358,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2021年第93号通告",
-      "category": "surgical"
+      "category": "surgical",
+      "slug": "nmpa-gp-内窥镜手术动力设备注册审查指导原则-3e9246"
     },
     {
       "id": "nmpa-gp-包皮切割吻合器注册审查指导原则-ad2d6b",
@@ -3268,7 +3382,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2021年第102号通告",
-      "category": "lab_equipment"
+      "category": "lab_equipment",
+      "slug": "nmpa-gp-非血管腔道导丝产品注册审查指导原则-b4a793"
     },
     {
       "id": "nmpa-gp-关节镜下无源手术器械产品注册审查指导原则-c7ddbb",
@@ -3303,7 +3418,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2021年第102号通告",
-      "category": "dental"
+      "category": "dental",
+      "slug": "nmpa-gp-牙科脱敏剂注册审查指导原则-d1789a"
     },
     {
       "id": "nmpa-gp-一次性使用输尿管导引鞘注册审查指导原则-e2eed3",
@@ -3326,7 +3442,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2021年第102号通告",
-      "category": "surgical"
+      "category": "surgical",
+      "slug": "nmpa-gp-一次性使用微创筋膜闭合器注册审查指导原则-948c26"
     },
     {
       "id": "nmpa-gp-正畸丝注册审查指导原则-88f461",
@@ -3349,7 +3466,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2021年第103号通告",
-      "category": "implant_cardio"
+      "category": "implant_cardio",
+      "slug": "nmpa-gp-体外膜氧合-ecmo-循环套包注册审查指导原则-8d72b4"
     },
     {
       "id": "nmpa-gp-一次性使用腹部穿刺器注册审查指导原则-218a5a",
@@ -3408,7 +3526,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2021年第104号通告",
-      "category": "ivd"
+      "category": "ivd",
+      "slug": "nmpa-gp-荧光免疫层析分析仪注册审查指导原则-c3d31e"
     },
     {
       "id": "nmpa-gp-胃蛋白酶原i-ii检测试剂注册审查指导原则-008151",
@@ -3419,7 +3538,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2021年第104号通告",
-      "category": "ivd"
+      "category": "ivd",
+      "slug": "nmpa-gp-胃蛋白酶原i-ii检测试剂注册审查指导原则-59f5d1"
     },
     {
       "id": "nmpa-gp-凝血酶原时间-活化部分凝血活酶时间-凝血酶时间-纤维蛋白原检测试剂产品注册审查指导原则-688374",
@@ -3430,7 +3550,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2021年第104号通告",
-      "category": "ivd"
+      "category": "ivd",
+      "slug": "nmpa-gp-凝血酶原时间-活化部分凝血活酶时间-凝血酶时间-纤维蛋白原检-589e3a"
     },
     {
       "id": "nmpa-gp-视黄醇结合蛋白测定试剂盒-免疫比浊法-注册审查指导原则-9d9218",
@@ -3441,7 +3562,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2021年第104号通告",
-      "category": "ivd"
+      "category": "ivd",
+      "slug": "nmpa-gp-视黄醇结合蛋白测定试剂盒-免疫比浊法-注册审查指导原则-e6addd"
     },
     {
       "id": "nmpa-gp-叶酸测定试剂注册审查指导原则-618283",
@@ -3452,7 +3574,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2021年第104号通告",
-      "category": "ivd"
+      "category": "ivd",
+      "slug": "nmpa-gp-叶酸测定试剂注册审查指导原则-317536"
     },
     {
       "id": "nmpa-gp-抗缪勒管激素测定试剂注册审查指导原则-edc3cd",
@@ -3463,7 +3586,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2021年第104号通告",
-      "category": "ivd"
+      "category": "ivd",
+      "slug": "nmpa-gp-抗缪勒管激素测定试剂注册审查指导原则-96fbb5"
     },
     {
       "id": "nmpa-gp-网式雾化器注册审查指导原则-db03ad",
@@ -3485,7 +3609,8 @@
       },
       "status": "active",
       "doc_number": "国家药品监督管理局2021年第104号通告",
-      "category": "imaging"
+      "category": "imaging",
+      "slug": "nmpa-gp-含儿科应用的医用诊断x射线设备注册审查指导原则-5f6211"
     },
     {
       "id": "nmpa-gp-超声经颅多普勒血流分析仪注册审查指导原则-b4d0b0",
@@ -3496,7 +3621,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2021年第104号通告",
-      "category": "ivd"
+      "category": "ivd",
+      "slug": "nmpa-gp-超声经颅多普勒血流分析仪注册审查指导原则-a33533"
     },
     {
       "id": "nmpa-gp-过氧化氢灭菌器注册审查指导原则-686db9",
@@ -3507,7 +3633,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2021年第104号通告",
-      "category": "sterilization"
+      "category": "sterilization",
+      "slug": "nmpa-gp-过氧化氢灭菌器注册审查指导原则-39c33f"
     },
     {
       "id": "nmpa-gp-新生儿蓝光治疗仪注册审查指导原则-6219b5",
@@ -3518,7 +3645,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2021年第104号通告",
-      "category": "rehab_physio"
+      "category": "rehab_physio",
+      "slug": "nmpa-gp-新生儿蓝光治疗仪注册审查指导原则-db61f9"
     },
     {
       "id": "nmpa-gp-根管预备机注册审查指导原则-32eeb1",
@@ -3529,7 +3657,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2021年第104号通告",
-      "category": "dental"
+      "category": "dental",
+      "slug": "nmpa-gp-根管预备机注册审查指导原则-09cc6f"
     },
     {
       "id": "nmpa-gp-血细胞分析仪注册审查指导原则-b4dd59",
@@ -3540,7 +3669,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2021年第104号通告",
-      "category": "ivd"
+      "category": "ivd",
+      "slug": "nmpa-gp-血细胞分析仪注册审查指导原则-bfd627"
     },
     {
       "id": "nmpa-gp-步态训练设备注册审查指导原则-93c4c9",
@@ -3551,7 +3681,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2021年第104号通告",
-      "category": "rehab_physio"
+      "category": "rehab_physio",
+      "slug": "nmpa-gp-步态训练设备注册审查指导原则-b7873a"
     },
     {
       "id": "nmpa-gp-金属接骨板内固定系统产品注册审查指导原则-2021年修订版-32102e",
@@ -3598,7 +3729,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2022年第4号通告",
-      "category": "infusion_injection"
+      "category": "infusion_injection",
+      "slug": "nmpa-gp-一次性使用高压造影注射器及附件产品注册审查指导原则-5054bb"
     },
     {
       "id": "nmpa-gp-可降解镁金属骨科植入物注册审查指导原则-4b20ca",
@@ -3633,7 +3765,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2022年第4号通告",
-      "category": "surgical"
+      "category": "surgical",
+      "slug": "nmpa-gp-一次性使用内窥镜注射针注册审查指导原则-9dec4a"
     },
     {
       "id": "nmpa-gp-人工晶状体注册审查指导原则-9f9a56",
@@ -3655,7 +3788,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局2021年第108号通告",
-      "category": "lab_equipment"
+      "category": "lab_equipment",
+      "slug": "nmpa-gp-生物安全柜注册审查指导原则-9129ae"
     },
     {
       "id": "nmpa-gp-正电子发射-x射线计算机断层成像系统-数字化技术专用-注册审查指导原则-79828e",
@@ -3665,7 +3799,8 @@
       },
       "status": "active",
       "doc_number": "国家药品监督管理局2021年第108号通告",
-      "category": "imaging"
+      "category": "imaging",
+      "slug": "nmpa-gp-正电子发射-x射线计算机断层成像系统-数字化技术专用-注册审-756b84"
     },
     {
       "id": "nmpa-gp-医疗器械产品技术要求编写指导原则-2022年修订版-5e1a6c",
@@ -3687,7 +3822,8 @@
       },
       "status": "active",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2022年第3号通告",
-      "category": "general"
+      "category": "general",
+      "slug": "nmpa-gp-增材制造聚醚醚酮植入物注册审查指导原则-963f82"
     },
     {
       "id": "nmpa-gp-增材制造金属植入物理化性能均一性研究指导原则-02216c",
@@ -3697,7 +3833,8 @@
       },
       "status": "active",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2022年第4号通告",
-      "category": "general"
+      "category": "general",
+      "slug": "nmpa-gp-增材制造金属植入物理化性能均一性研究指导原则-6e3f4d"
     },
     {
       "id": "nmpa-gp-增材制造口腔修复用激光选区熔化金属材料注册审查指导原则-6e0ac9",
@@ -3744,7 +3881,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2022年第6号通告",
-      "category": "ophthalmic"
+      "category": "ophthalmic",
+      "slug": "nmpa-gp-眼科激光光凝机注册审查指导原则-0a9884"
     },
     {
       "id": "nmpa-gp-人工智能医疗器械注册审查指导原则-037a0c",
@@ -3755,7 +3893,7 @@
       "status": "active",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2022年第8号通告",
       "category": "general",
-      "slug": ""
+      "slug": "nmpa-gp-人工智能医疗器械注册审查指导原则-eec284"
     },
     {
       "id": "nmpa-gp-无源植入性医疗器械稳定性研究指导原则-2022年修订版-f5e7e0",
@@ -3790,7 +3928,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2022年 第14号通告",
-      "category": "implant_ortho"
+      "category": "implant_ortho",
+      "slug": "nmpa-gp-高强韧性纯钛骨科内固定植入物注册审查指导原则-e8bb3c"
     },
     {
       "id": "nmpa-gp-体外膜肺氧合-ecmo-设备注册审查指导原则-6fbb1f",
@@ -3800,7 +3939,8 @@
       },
       "status": "active",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2022年 第19号通告",
-      "category": "implant_cardio"
+      "category": "implant_cardio",
+      "slug": "nmpa-gp-体外膜肺氧合-ecmo-设备注册审查指导原则-f8c334"
     },
     {
       "id": "nmpa-gp-肺结节ct图像辅助检测软件注册审查指导原则-b2a9c9",
@@ -3811,7 +3951,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2022年第21号通告",
-      "category": "software_ai"
+      "category": "software_ai",
+      "slug": "nmpa-gp-肺结节ct图像辅助检测软件注册审查指导原则-677082"
     },
     {
       "id": "nmpa-gp-糖尿病视网膜病变眼底图像辅助诊断软件注册审查指导原则-5b6eca",
@@ -3882,7 +4023,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2022年第35号通告",
-      "category": "ivd"
+      "category": "ivd",
+      "slug": "nmpa-gp-糖化血红蛋白分析仪注册审查指导原则-e5777e"
     },
     {
       "id": "nmpa-gp-前白蛋白检测试剂注册审查指导原则-eb0610",
@@ -3893,7 +4035,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2022年第35号通告",
-      "category": "ivd"
+      "category": "ivd",
+      "slug": "nmpa-gp-前白蛋白检测试剂注册审查指导原则-c27fce"
     },
     {
       "id": "nmpa-gp-雌二醇检测试剂注册审查指导原则-6c907e",
@@ -3904,7 +4047,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2022年第35号通告",
-      "category": "ivd"
+      "category": "ivd",
+      "slug": "nmpa-gp-雌二醇检测试剂注册审查指导原则-36ea4a"
     },
     {
       "id": "nmpa-gp-疤痕修复材料产品注册审查指导原则-a8441b",
@@ -3915,7 +4059,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2022年第35号通告",
-      "category": "wound_care"
+      "category": "wound_care",
+      "slug": "nmpa-gp-疤痕修复材料产品注册审查指导原则-a68dbb"
     },
     {
       "id": "nmpa-gp-血管夹产品注册审查指导原则-f181d4",
@@ -3926,7 +4071,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2022年第35号通告",
-      "category": "implant_cardio"
+      "category": "implant_cardio",
+      "slug": "nmpa-gp-血管夹产品注册审查指导原则-983cb4"
     },
     {
       "id": "nmpa-gp-一次性使用无菌尿液引流袋注册审查指导原则-a80679",
@@ -3937,7 +4083,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2022年第35号通告",
-      "category": "infusion_injection"
+      "category": "infusion_injection",
+      "slug": "nmpa-gp-一次性使用无菌尿液引流袋注册审查指导原则-550254"
     },
     {
       "id": "nmpa-gp-电针治疗仪产品注册审查指导原则-d60d7f",
@@ -3948,7 +4095,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2022年第35号通告",
-      "category": "rehab_physio"
+      "category": "rehab_physio",
+      "slug": "nmpa-gp-电针治疗仪产品注册审查指导原则-c314eb"
     },
     {
       "id": "nmpa-gp-纤维蛋白单体测定试剂注册审查指导原则-f5fdf0",
@@ -3959,7 +4107,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2022年第35号通告",
-      "category": "ivd"
+      "category": "ivd",
+      "slug": "nmpa-gp-纤维蛋白单体测定试剂注册审查指导原则-e0d8d7"
     },
     {
       "id": "nmpa-gp-一次性使用切口保护套产品注册审查指导原则-d813a3",
@@ -3970,7 +4119,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2022年第35号通告",
-      "category": "surgical"
+      "category": "surgical",
+      "slug": "nmpa-gp-一次性使用切口保护套产品注册审查指导原则-5afcb0"
     },
     {
       "id": "nmpa-gp-牙科根管润滑剂清洗剂产品注册审查指导原则-91560b",
@@ -3981,7 +4131,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2022年第35号通告",
-      "category": "dental"
+      "category": "dental",
+      "slug": "nmpa-gp-牙科根管润滑剂清洗剂产品注册审查指导原则-b40c6f"
     },
     {
       "id": "nmpa-gp-口腔保持器注册审查指导原则-9b5883",
@@ -4028,7 +4179,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2022年第35号通告",
-      "category": "lab_equipment"
+      "category": "lab_equipment",
+      "slug": "nmpa-gp-医用中心供氧系统注册审查指导原则-dbffb1"
     },
     {
       "id": "nmpa-gp-粪便钙卫蛋白检测试剂注册审查指导原则-6bacdf",
@@ -4039,7 +4191,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2022年第35号通告",
-      "category": "ivd"
+      "category": "ivd",
+      "slug": "nmpa-gp-粪便钙卫蛋白检测试剂注册审查指导原则-ca583d"
     },
     {
       "id": "nmpa-gp-短波治疗仪注册审查指导原则-d50a2d",
@@ -4050,7 +4203,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2022年第35号通告",
-      "category": "rehab_physio"
+      "category": "rehab_physio",
+      "slug": "nmpa-gp-短波治疗仪注册审查指导原则-230939"
     },
     {
       "id": "nmpa-gp-酸性氧化电位水生成器注册审查指导原则-acfa09",
@@ -4133,7 +4287,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2022年第35号通告",
-      "category": "infusion_injection"
+      "category": "infusion_injection",
+      "slug": "nmpa-gp-医用防护服产品注册审查指导原则-7f1d6f"
     },
     {
       "id": "nmpa-gp-医用无菌超声耦合剂注册审查指导原则-412052",
@@ -4144,7 +4299,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2022年第35号通告",
-      "category": "sterilization"
+      "category": "sterilization",
+      "slug": "nmpa-gp-医用无菌超声耦合剂注册审查指导原则-3c2b81"
     },
     {
       "id": "nmpa-gp-医用空气压缩机组注册审查指导原则-b0c372",
@@ -4155,7 +4311,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2022年第35号通告",
-      "category": "lab_equipment"
+      "category": "lab_equipment",
+      "slug": "nmpa-gp-医用空气压缩机组注册审查指导原则-6114d0"
     },
     {
       "id": "nmpa-gp-高敏心肌肌钙蛋白检测试剂注册审查指导原则-224734",
@@ -4166,7 +4323,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2022年第35号通告",
-      "category": "ivd"
+      "category": "ivd",
+      "slug": "nmpa-gp-高敏心肌肌钙蛋白检测试剂注册审查指导原则-65fba4"
     },
     {
       "id": "nmpa-gp-一次性使用脑电电极注册审查指导原则-b277c7",
@@ -4212,7 +4370,8 @@
       },
       "status": "active",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2022年第36号通告",
-      "category": "general"
+      "category": "general",
+      "slug": "nmpa-gp-质控品注册审查指导原则-质控品赋值研究-6d4306"
     },
     {
       "id": "nmpa-gp-人类免疫缺陷病毒抗原抗体检测试剂临床前注册审查指导原则-b02b07",
@@ -4247,7 +4406,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2022年第36号通告",
-      "category": "ivd"
+      "category": "ivd",
+      "slug": "nmpa-gp-戊型肝炎病毒igm-igg抗体检测试剂注册审查指导原则-d8fdbb"
     },
     {
       "id": "nmpa-gp-增材制造椎间融合器注册审查指导原则-d178ea",
@@ -4257,7 +4417,8 @@
       },
       "status": "active",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2022年第39号通告",
-      "category": "general"
+      "category": "general",
+      "slug": "nmpa-gp-增材制造椎间融合器注册审查指导原则-190042"
     },
     {
       "id": "nmpa-gp-基因测序仪临床评价注册审查指导原则-227f39",
@@ -4376,7 +4537,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2022年第41号通告",
-      "category": "infusion_injection"
+      "category": "infusion_injection",
+      "slug": "nmpa-gp-经鼻肠营养导管注册审查指导原则-12576f"
     },
     {
       "id": "nmpa-gp-一次性使用子宫颈球囊扩张导管注册审查指导原则-84df91",
@@ -4615,7 +4777,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2022年第45号通告",
-      "category": "respiratory"
+      "category": "respiratory",
+      "slug": "nmpa-gp-一次性使用硬膜外麻醉导管注册审查指导原则-bdd1c4"
     },
     {
       "id": "nmpa-gp-新型冠状病毒-2019-ncov-核酸检测试剂注册审查指导原则-2023年修订版-e16504",
@@ -4636,10 +4799,9 @@
         "en": ""
       },
       "status": "active",
-      "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2023年第2号通告",
       "category": "ivd",
-      "slug": "cmde-2023-2"
+      "slug": "nmpa-gp-新型冠状病毒-2019-ncov-抗体检测试剂注册审查指导原-6b7452"
     },
     {
       "id": "nmpa-gp-新型冠状病毒-2019-ncov-抗原检测试剂注册审查指导原则-2023年修订版-b7313e",
@@ -4673,7 +4835,8 @@
       },
       "status": "active",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2023年第3号通告",
-      "category": "implant_ortho"
+      "category": "implant_ortho",
+      "slug": "nmpa-gp-人工肩关节假体注册审查指导原则-d74f43"
     },
     {
       "id": "nmpa-gp-腹腔内窥镜手术系统注册审查指导原则-第1部分-手术器械-dd8b2a",
@@ -4804,7 +4967,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2023年第15号通告",
-      "category": "blood_transfusion"
+      "category": "blood_transfusion",
+      "slug": "nmpa-gp-血液透析浓缩物注册审查指导原则-2023年修订版-55ef7d"
     },
     {
       "id": "nmpa-gp-血液透析器注册技术审查指导原则-2023年修订版-1a6654",
@@ -4813,10 +4977,9 @@
         "en": ""
       },
       "status": "active",
-      "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2023年第15号通告",
       "category": "blood_transfusion",
-      "slug": "cmde-2023-15"
+      "slug": "nmpa-gp-血液透析器注册技术审查指导原则-2023年修订版-e8f935"
     },
     {
       "id": "nmpa-gp-一次性使用血液分离器具注册审查指导原则-2023年修订版-b99f66",
@@ -4827,7 +4990,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2023年第15号通告",
-      "category": "blood_transfusion"
+      "category": "blood_transfusion",
+      "slug": "nmpa-gp-一次性使用血液分离器具注册审查指导原则-2023年修订版-ab560d"
     },
     {
       "id": "nmpa-gp-一次性使用输注器具产品注册审查指导原则-2023年修订版-d4fe45",
@@ -4873,7 +5037,8 @@
       },
       "status": "active",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2023年第15号通告",
-      "category": "general"
+      "category": "general",
+      "slug": "nmpa-gp-应用纳米材料的医疗器械安全性和有效性评价指导原则-第二部分-4aa1fb"
     },
     {
       "id": "nmpa-gp-眼科光学测量设备注册审查指导原则-14f052",
@@ -4980,7 +5145,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2023年第22号通告",
-      "category": "rehab_physio"
+      "category": "rehab_physio",
+      "slug": "nmpa-gp-肠道水疗机注册审查指导原则-36028f"
     },
     {
       "id": "nmpa-gp-医用分子筛制氧机注册审查指导原则-b5a933",
@@ -4991,7 +5157,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2023年第22号通告",
-      "category": "respiratory"
+      "category": "respiratory",
+      "slug": "nmpa-gp-医用分子筛制氧机注册审查指导原则-66e506"
     },
     {
       "id": "nmpa-gp-膀胱超声扫描仪注册审查指导原则-d22193",
@@ -5014,7 +5181,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2023年第22号通告",
-      "category": "blood_transfusion"
+      "category": "blood_transfusion",
+      "slug": "nmpa-gp-一次性使用腹膜透析导管注册审查指导原则-27b17c"
     },
     {
       "id": "nmpa-gp-呼吸系统过滤器注册审查指导原则-84e294",
@@ -5085,7 +5253,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2023年第22号通告",
-      "category": "ivd"
+      "category": "ivd",
+      "slug": "nmpa-gp-甲氨蝶呤检测试剂注册审查指导原则-817a9c"
     },
     {
       "id": "nmpa-gp-抗环瓜氨酸肽抗体检测试剂注册审查指导原则-03ae41",
@@ -5096,7 +5265,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2023年第22号通告",
-      "category": "ivd"
+      "category": "ivd",
+      "slug": "nmpa-gp-抗环瓜氨酸肽抗体检测试剂注册审查指导原则-c52fa5"
     },
     {
       "id": "nmpa-gp-革兰阳性菌鉴定试剂注册审查指导原则-a26f8f",
@@ -5107,7 +5277,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2023年第22号通告",
-      "category": "ivd"
+      "category": "ivd",
+      "slug": "nmpa-gp-革兰阳性菌鉴定试剂注册审查指导原则-a68567"
     },
     {
       "id": "nmpa-gp-血液融化设备注册审查指导原则-f6cf68",
@@ -5118,7 +5289,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2023年第22号通告",
-      "category": "blood_transfusion"
+      "category": "blood_transfusion",
+      "slug": "nmpa-gp-血液融化设备注册审查指导原则-8cff23"
     },
     {
       "id": "nmpa-gp-医用呼吸道湿化器注册审查指导原则-2402d0",
@@ -5261,7 +5433,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2023年第27号通告",
-      "category": "implant_ortho"
+      "category": "implant_ortho",
+      "slug": "nmpa-gp-髋关节假体同品种临床评价注册审查指导原则-0c00f4"
     },
     {
       "id": "nmpa-gp-激光治疗设备同品种临床评价注册审查指导原则-055059",
@@ -5272,7 +5445,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2023年第28号通告",
-      "category": "surgical"
+      "category": "surgical",
+      "slug": "nmpa-gp-激光治疗设备同品种临床评价注册审查指导原则-7be710"
     },
     {
       "id": "nmpa-gp-血液透析浓缩物临床评价注册审查指导原则-a18e4e",
@@ -5283,7 +5457,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2023年第29号通告",
-      "category": "blood_transfusion"
+      "category": "blood_transfusion",
+      "slug": "nmpa-gp-血液透析浓缩物临床评价注册审查指导原则-12b73e"
     },
     {
       "id": "nmpa-gp-医用x射线诊断设备-第三类-同品种临床评价注册审查指导原则-4d6134",
@@ -5294,7 +5469,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2023年第30号通告",
-      "category": "imaging"
+      "category": "imaging",
+      "slug": "nmpa-gp-医用x射线诊断设备-第三类-同品种临床评价注册审查指导原则-c40ccf"
     },
     {
       "id": "nmpa-gp-正电子发射-x射线计算机断层成像系统同品种临床评价注册审查指导原则-b0d1ab",
@@ -5305,7 +5481,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2023年第31号通告",
-      "category": "imaging"
+      "category": "imaging",
+      "slug": "nmpa-gp-正电子发射-x射线计算机断层成像系统同品种临床评价注册审查指-77a5f0"
     },
     {
       "id": "nmpa-gp-牙科种植体系统同品种临床评价注册审查指导原则-e2456d",
@@ -5328,7 +5505,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2023年第33号通告",
-      "category": "ophthalmic"
+      "category": "ophthalmic",
+      "slug": "nmpa-gp-软性接触镜临床评价注册审查指导原则-43ae59"
     },
     {
       "id": "nmpa-gp-电子内窥镜同品种临床评价注册审查指导原则-0da331",
@@ -5446,7 +5624,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2024年第1号通告",
-      "category": "ivd"
+      "category": "ivd",
+      "slug": "nmpa-gp-流行性感冒病毒核酸检测试剂注册审查指导原则-2023年修订版-5060ed"
     },
     {
       "id": "nmpa-gp-流行性感冒病毒抗原检测试剂注册审查指导原则-2023年修订版-97a66e",
@@ -5491,9 +5670,10 @@
         "en": ""
       },
       "status": "active",
-      "source_url": "",
+      "source_url": "https://www.cmde.org.cn/directory/web/cmde/images/1737785272616078122.doc",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2024年第1号通告",
-      "category": "ivd"
+      "category": "ivd",
+      "slug": "cmde-2024-1-251e"
     },
     {
       "id": "nmpa-gp-丙型肝炎病毒抗体检测试剂注册审查指导原则-08d968",
@@ -5527,7 +5707,8 @@
       },
       "status": "active",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2024年第1号通告",
-      "category": "ivd"
+      "category": "ivd",
+      "slug": "nmpa-gp-曲霉核酸检测试剂注册审查指导原则-39a2ad"
     },
     {
       "id": "nmpa-gp-乙型肝炎病毒脱氧核糖核酸检测试剂注册审查指导原则-2023-年修订版-bd6b7c",
@@ -5537,7 +5718,8 @@
       },
       "status": "active",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2024年第1号通告",
-      "category": "ivd"
+      "category": "ivd",
+      "slug": "nmpa-gp-乙型肝炎病毒脱氧核糖核酸检测试剂注册审查指导原则-2023年-05512f"
     },
     {
       "id": "nmpa-gp-弓形虫-风疹病毒-巨细胞病毒-单纯疱疹病毒抗体及g型免疫球蛋白抗体亲合力检测试剂注册审查指导原则-2023年修订版-337dcd",
@@ -5643,7 +5825,8 @@
       },
       "status": "active",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2024年第8号通告",
-      "category": "respiratory"
+      "category": "respiratory",
+      "slug": "nmpa-gp-呼吸机注册审查指导原则-2023年修订版-cc8e83"
     },
     {
       "id": "nmpa-gp-一氧化氮治疗仪注册审查指导原则-1c3628",
@@ -5714,7 +5897,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2024年第12号通告",
-      "category": "ophthalmic"
+      "category": "ophthalmic",
+      "slug": "nmpa-gp-角膜地形图仪注册审查指导原则-5e1d7d"
     },
     {
       "id": "nmpa-gp-医疗器械光辐射安全注册审查指导原则-1a13d9",
@@ -5749,7 +5933,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2024年第14号通告",
-      "category": "surgical"
+      "category": "surgical",
+      "slug": "nmpa-gp-高频手术设备注册审查指导原则-2023年修订版-3ee951"
     },
     {
       "id": "nmpa-gp-可吸收外科缝线同品种临床评价注册审查指导原则-fa8698",
@@ -5760,7 +5945,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2024年第15号通告",
-      "category": "wound_care"
+      "category": "wound_care",
+      "slug": "nmpa-gp-可吸收外科缝线同品种临床评价注册审查指导原则-e1c9ad"
     },
     {
       "id": "nmpa-gp-血液透析用水处理设备注册审查指导原则-2024年修订版-fa3c4c",
@@ -5927,7 +6113,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2024年第19号通告",
-      "category": "ivd"
+      "category": "ivd",
+      "slug": "nmpa-gp-缺血修饰白蛋白测定试剂盒注册审查指导原则-2024年修订版-aa5908"
     },
     {
       "id": "nmpa-gp-促甲状腺激素测定试剂注册审查指导原则-2024年修订版-8d4b19",
@@ -5950,7 +6137,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2024年第19号通告",
-      "category": "ivd"
+      "category": "ivd",
+      "slug": "nmpa-gp-β2-微球蛋白测定试剂注册审查指导原则-2024年修订版-6585fd"
     },
     {
       "id": "nmpa-gp-正压通气治疗机注册审查指导原则-2024年修订版-0c9af7",
@@ -5997,7 +6185,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2024年第19号通告",
-      "category": "ivd"
+      "category": "ivd",
+      "slug": "nmpa-gp-肌酸激酶检测试剂注册审查指导原则-2024年修订版-669163"
     },
     {
       "id": "nmpa-gp-磁疗产品注册审查指导原则-2024年修订版-eb1f7e",
@@ -6139,7 +6328,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2024年第19号通告",
-      "category": "lab_equipment"
+      "category": "lab_equipment",
+      "slug": "nmpa-gp-医用气体报警系统注册审查指导原则-4b226e"
     },
     {
       "id": "nmpa-gp-电动摄影平床注册审查指导原则-3ea855",
@@ -6210,7 +6400,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2024年第19号通告",
-      "category": "ivd"
+      "category": "ivd",
+      "slug": "nmpa-gp-革兰阴性杆菌鉴定试剂注册指导原则-6c56bb"
     },
     {
       "id": "nmpa-gp-葡萄糖检测试剂注册审查指导原则-eb36cd",
@@ -6269,7 +6460,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2024年第19号通告",
-      "category": "wound_care"
+      "category": "wound_care",
+      "slug": "nmpa-gp-医用导管固定装置注册审查指导原则-7a5c84"
     },
     {
       "id": "nmpa-gp-支气管堵塞器注册审查指导原则-31eeca",
@@ -6292,7 +6484,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2024年第19号通告",
-      "category": "respiratory"
+      "category": "respiratory",
+      "slug": "nmpa-gp-雾化面罩产品注册审查指导原则-b125db"
     },
     {
       "id": "nmpa-gp-一次性使用输氧面罩产品注册审查指导原则-448843",
@@ -6303,7 +6496,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2024年第19号通告",
-      "category": "respiratory"
+      "category": "respiratory",
+      "slug": "nmpa-gp-一次性使用输氧面罩产品注册审查指导原则-606c94"
     },
     {
       "id": "nmpa-gp-医用妇科凝胶注册审查指导原则-5b8066",
@@ -6421,7 +6615,8 @@
       },
       "status": "active",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2024年第21号通告",
-      "category": "infusion_injection"
+      "category": "infusion_injection",
+      "slug": "nmpa-gp-胃管产品注册审查指导原则-2024年修订版-b63d6f"
     },
     {
       "id": "nmpa-gp-麻醉机和呼吸机用呼吸管路产品注册审查指导原则-2024年修订版-873da9",
@@ -6576,7 +6771,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2024年第23号通告",
-      "category": "blood_transfusion"
+      "category": "blood_transfusion",
+      "slug": "nmpa-gp-透析液过滤器注册审查指导原则-1e6f62"
     },
     {
       "id": "nmpa-gp-一次性使用侧孔钝针技术审查指导原则-e202e6",
@@ -6587,7 +6783,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2024年第23号通告",
-      "category": "infusion_injection"
+      "category": "infusion_injection",
+      "slug": "nmpa-gp-一次性使用侧孔钝针技术审查指导原则-92f714"
     },
     {
       "id": "nmpa-gp-一次性使用静脉留置针注册审查指导原则-0b9eb9",
@@ -6598,7 +6795,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2024年第23号通告",
-      "category": "infusion_injection"
+      "category": "infusion_injection",
+      "slug": "nmpa-gp-一次性使用静脉留置针注册审查指导原则-3e7e64"
     },
     {
       "id": "nmpa-gp-应用纳米材料的医疗器械安全性和有效性评价指导原则第三部分生物相容性毒理学评价-dd89e7",
@@ -6645,7 +6843,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2024年第23号通告",
-      "category": "wound_care"
+      "category": "wound_care",
+      "slug": "nmpa-gp-可吸收性外科缝线注册审查指导原则-2024年修订版-d7c3f9"
     },
     {
       "id": "nmpa-gp-可吸收止血产品注册审查指导原则-2024年修订版-4fbb9e",
@@ -6656,7 +6855,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2024年第23号通告",
-      "category": "wound_care"
+      "category": "wound_care",
+      "slug": "nmpa-gp-可吸收止血产品注册审查指导原则-2024年修订版-f4f210"
     },
     {
       "id": "nmpa-gp-一次性使用膜式氧合器-cpb用-注册审查指导原则-2024年修订版-42a554",
@@ -6667,7 +6867,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2024年第23号通告",
-      "category": "implant_cardio"
+      "category": "implant_cardio",
+      "slug": "nmpa-gp-一次性使用膜式氧合器-cpb用-注册审查指导原则-2024年-5a7e77"
     },
     {
       "id": "nmpa-gp-一次性使用脑积水分流器注册审查指导原则-2024年修订版-a9da23",
@@ -6678,7 +6879,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2024年第23号通告",
-      "category": "implant_ortho"
+      "category": "implant_ortho",
+      "slug": "nmpa-gp-一次性使用脑积水分流器注册审查指导原则-2024年修订版-d3e2db"
     },
     {
       "id": "nmpa-gp-一次性使用血液透析管路注册审查指导原则-2024年修订版-805d7f",
@@ -6689,7 +6891,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2024年第23号通告",
-      "category": "blood_transfusion"
+      "category": "blood_transfusion",
+      "slug": "nmpa-gp-一次性使用血液透析管路注册审查指导原则-2024年修订版-c9f102"
     },
     {
       "id": "nmpa-gp-脊柱后路内固定系统注册审查指导原则-2024年修订版-4dddd8",
@@ -6772,7 +6975,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2024年第26号通告",
-      "category": "imaging"
+      "category": "imaging",
+      "slug": "nmpa-gp-x射线计算机体层摄影设备能谱成像技术注册审查指导原则-3d89db"
     },
     {
       "id": "nmpa-gp-影像型超声诊断设备-第三类-注册审查指导原则-2023年修订版-55905e",
@@ -6783,7 +6987,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2024年第29号通告",
-      "category": "imaging"
+      "category": "imaging",
+      "slug": "nmpa-gp-影像型超声诊断设备-第三类-注册审查指导原则-2023年修订-54bcb5"
     },
     {
       "id": "nmpa-gp-乳房植入体产品注册审查指导原则-2024年修订版-39160f",
@@ -6794,7 +6999,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2024年第28号通告",
-      "category": "wound_care"
+      "category": "wound_care",
+      "slug": "nmpa-gp-乳房植入体产品注册审查指导原则-2024年修订版-7e3bf5"
     },
     {
       "id": "nmpa-gp-外周药物涂层球囊扩张导管临床试验注册审查指导原则-516427",
@@ -7404,7 +7610,8 @@
       },
       "status": "active",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2025年第25号通告",
-      "category": "implant_cardio"
+      "category": "implant_cardio",
+      "slug": "nmpa-gp-颅内取栓支架注册审查指导原则-1786ff"
     },
     {
       "id": "nmpa-gp-电动牵引装置注册审查指导原则-2025年修订版-fa6b6c",
@@ -7451,7 +7658,8 @@
       "status": "active",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2025年第27号通告",
       "category": "rehab_physio",
-      "slug": "cmde-2025-27"
+      "slug": "cmde-2025-27-5e5a",
+      "source_url": "https://www.cmde.org.cn/directory/web/cmde/images/1689818473273090283.docx"
     },
     {
       "id": "nmpa-gp-一次性使用心电电极注册审查指导原则-2025年修订版-dae76e",
@@ -7510,7 +7718,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2025年第27号通告",
-      "category": "ivd"
+      "category": "ivd",
+      "slug": "nmpa-gp-酶联免疫分析仪注册审查指导原则-2025年修订版-9da55f"
     },
     {
       "id": "nmpa-gp-第二类腹腔镜手术器械产品注册审查指导原则-2025年修订版-0f6494",
@@ -7521,7 +7730,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2025年第27号通告",
-      "category": "surgical"
+      "category": "surgical",
+      "slug": "nmpa-gp-第二类腹腔镜手术器械产品注册审查指导原则-2025年修订版-cd0dbd"
     },
     {
       "id": "nmpa-gp-硬性光学内窥镜-自然孔道类-注册审查指导原则-2025年修订版-f434a5",
@@ -7652,7 +7862,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2025年第27号通告",
-      "category": "sterilization"
+      "category": "sterilization",
+      "slug": "nmpa-gp-小型压力蒸汽灭菌器注册审查指导原则-2025年修订版-b1204e"
     },
     {
       "id": "nmpa-gp-输液泵注册审查指导原则-2025年修订版-05c6b2",
@@ -7711,7 +7922,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2025年第27号通告",
-      "category": "rehab_physio"
+      "category": "rehab_physio",
+      "slug": "nmpa-gp-超声理疗设备注册审查指导原则-2025年修订版-2800f5"
     },
     {
       "id": "nmpa-gp-超声多普勒胎儿心率仪注册审查指导原则-2025年修订版-388898",
@@ -7722,7 +7934,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2025年第27号通告",
-      "category": "reproductive"
+      "category": "reproductive",
+      "slug": "nmpa-gp-超声多普勒胎儿心率仪注册审查指导原则-2025年修订版-363e99"
     },
     {
       "id": "nmpa-gp-超声洁牙设备注册审查指导原则-2025年修订版-6437fe",
@@ -7889,7 +8102,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2025年第28号通告",
-      "category": "surgical"
+      "category": "surgical",
+      "slug": "nmpa-gp-软性内窥镜用高频手术器械注册审查指导原则-9a5417"
     },
     {
       "id": "nmpa-gp-眼科超声乳化和玻璃体切除设备及附件注册审查指导原则-2025年修订版-fc4a91",
@@ -7912,7 +8126,8 @@
       "status": "active",
       "source_url": "",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2025年第29号通告",
-      "category": "ivd"
+      "category": "ivd",
+      "slug": "nmpa-gp-hla-b27基因检测试剂注册审查指导原则-979bde"
     },
     {
       "id": "nmpa-gp-pd-l1抗体试剂及检测试剂盒注册审查指导原则-03892a",
@@ -9035,6 +9250,16 @@
       "category": "guidance",
       "slug": "nmpa-guidance-ffdba106f8ca",
       "source_url": ""
+    },
+    {
+      "id": "nmpa-gp-52a354fdab74",
+      "title": {
+        "zh": "正电子发射X射线计算机断层成像系统（数字化技术专用）注册审查指导原则",
+        "en": ""
+      },
+      "doc_number": "",
+      "category": "imaging",
+      "slug": "nmpa-gp-正电子发射X射线计算机断层成像系统（数字-52a354"
     }
   ]
 }
