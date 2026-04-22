@@ -7,11 +7,28 @@ title: 快速开始
 
 <div class="getstarted-hero">
   <h1>快速开始</h1>
-  <p class="hero-tagline">下载并安装 Reguverse 助手 Microsoft Word 插件</p>
+  <p class="hero-tagline">AI 驱动的医疗器械法规智能平台</p>
+</div>
+
+<div class="section-block" style="border-color: var(--vp-c-brand-1); border-width: 2px;">
+<h2>网页版 -- 无需安装，浏览器直接使用</h2>
+<p>无需安装任何插件，打开浏览器即可使用全部功能。生成的文档支持一键下载为标准 Word 格式（.docx），排版与 Word 插件效果完全一致。</p>
+<div style="text-align:center; margin: 1.25rem 0 0.5rem;">
+  <a class="download-btn btn-cn" href="https://app.reguverse.com" target="_blank" style="font-size:1.05rem; padding: 0.75rem 2.5rem;">立即使用网页版</a>
+  <a class="download-btn" href="https://app.team-ra.org" target="_blank" style="font-size:1.05rem; padding: 0.75rem 2.5rem; margin-left: 0.75rem;">International Version</a>
+</div>
+<p style="text-align:center; font-size:0.85rem; color:var(--vp-c-text-3); margin-top:0.25rem;">推荐使用 Chrome、Edge 或 Safari 浏览器</p>
 </div>
 
 <div class="section-block">
-<h2>下载</h2>
+<h2>Word 插件下载</h2>
+
+<p>安装 Word 插件后，您可以直接在 Word 中使用全部功能：AI 生成内容一键插入当前文档、使用翻译等 AI 工具处理文档内容，以及后续即将推出的对 Word 中选中内容进行智能分析和处理等高级功能。这些与 Word 深度集成的能力在网页版中无法实现。</p>
+
+<div class="callout callout-warning">
+  <strong>系统要求</strong>
+  <p>Word 插件需要 <strong>Microsoft 365（Office 365）</strong> 或 <strong>Word 2016 及以上版本</strong>。旧版 Office（2013 及更早）不支持 Web 加载项。如果您的 Office 版本较低或未安装 Word，请直接使用上方网页版。</p>
+</div>
 
 <p>请根据您的所在地区和操作系统选择对应安装包。两个版本使用相同的后端服务，您的账户在两个版本之间通用。</p>
 
@@ -39,7 +56,7 @@ title: 快速开始
 
 </div>
 
-<span class="download-version">当前版本: v0.3.0 (2026-04-10) &middot; <a href="/zh/changelog">查看更新日志</a></span>
+<span class="download-version">当前版本: v0.4.0 (2026-04-22) &middot; <a href="/zh/changelog">查看更新日志</a></span>
 </div>
 
 <div class="section-block">
@@ -140,7 +157,7 @@ title: 快速开始
 
 <div class="section-block">
 <h2>免费试用</h2>
-<p>所有用户注册后即可获得 <strong>72 小时免费试用</strong>，体验全部功能，无需邀请码。</p>
+<p>所有用户注册后即可获得 <strong>1 个月免费试用</strong>，体验全部功能，无需邀请码。网页版和 Word 插件均可使用。</p>
 <p>试用期满后可在<a href="/zh/contact">套餐方案</a>页面选择合适的套餐升级。</p>
 </div>
 

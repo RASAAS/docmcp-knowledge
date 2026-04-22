@@ -7,11 +7,28 @@ title: Get Started
 
 <div class="getstarted-hero">
   <h1>Get Started</h1>
-  <p class="hero-tagline">Download and install Reguverse Assistant for Microsoft Word</p>
+  <p class="hero-tagline">AI-powered regulatory intelligence platform for medical devices</p>
+</div>
+
+<div class="section-block" style="border-color: var(--vp-c-brand-1); border-width: 2px;">
+<h2>Web Version -- No Installation Required</h2>
+<p>Use all features directly in your browser without installing any plugin. Generated documents can be downloaded as standard Word files (.docx) with formatting identical to the Word plugin output.</p>
+<div style="text-align:center; margin: 1.25rem 0 0.5rem;">
+  <a class="download-btn" href="https://app.team-ra.org" target="_blank" style="font-size:1.05rem; padding: 0.75rem 2.5rem;">Use Web Version</a>
+  <a class="download-btn btn-cn" href="https://app.reguverse.com" target="_blank" style="font-size:1.05rem; padding: 0.75rem 2.5rem; margin-left: 0.75rem;">China Version</a>
+</div>
+<p style="text-align:center; font-size:0.85rem; color:var(--vp-c-text-3); margin-top:0.25rem;">Recommended: Chrome, Edge, or Safari</p>
 </div>
 
 <div class="section-block">
-<h2>Download</h2>
+<h2>Word Plugin Download</h2>
+
+<p>Install the Word plugin for deep integration with Microsoft Word: insert AI-generated content directly into your document, use AI tools (such as translation) to process document content, and access upcoming features for intelligent analysis and processing of selected text within Word -- capabilities not available in the web version.</p>
+
+<div class="callout callout-warning">
+  <strong>System Requirement</strong>
+  <p>The Word plugin requires <strong>Microsoft 365 (Office 365)</strong> or <strong>Word 2016 or later</strong>. Older Office versions (2013 and earlier) do not support Web Add-ins. If your Office version is too old or you don't have Word installed, use the web version above.</p>
+</div>
 
 <p>Choose the version that matches your region and operating system. Both versions connect to the same backend and your account works on either.</p>
 
@@ -39,7 +56,7 @@ title: Get Started
 
 </div>
 
-<span class="download-version">Current version: v0.3.0 (2026-04-10) &middot; <a href="/en/changelog">View changelog</a></span>
+<span class="download-version">Current version: v0.4.0 (2026-04-22) &middot; <a href="/en/changelog">View changelog</a></span>
 </div>
 
 <div class="section-block">
@@ -141,7 +158,7 @@ title: Get Started
 
 <div class="section-block">
 <h2>Free Trial</h2>
-<p>All users get a <strong>72-hour free trial</strong> with full feature access upon registration. No invite code required.</p>
+<p>All users get a <strong>1-month free trial</strong> with full feature access upon registration. No invite code required. Both the web version and Word plugin are available during the trial.</p>
 <p>After the trial, choose a plan on the <a href="/en/contact">pricing page</a>.</p>
 </div>
 
