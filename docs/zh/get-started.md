@@ -62,9 +62,13 @@ title: 快速开始
 <div class="section-block">
 <h2>安装步骤</h2>
 
-<h3>第一步：运行安装程序 (Windows)</h3>
+<h3>第一步：解压安装包 (Windows)</h3>
+<p>下载完成后，右键点击压缩包选择 <strong>"全部解压缩"</strong>，解压后打开文件夹，您将看到如下文件：</p>
+<div class="guide-img"><img src="/images/install-guide/00-win-unzip.png" alt="解压后的安装文件"></div>
+<p>其中 <strong>install.bat</strong> 为安装脚本，<strong>cleanup-old-install.bat</strong> 用于清理旧版本安装。</p>
+
+<h3>第二步：运行安装程序</h3>
 <ol>
-  <li>解压下载的压缩包</li>
   <li>双击 <strong>install.bat</strong> 运行安装程序，系统将弹出 cmd 黑色窗口</li>
   <li>等待安装完成，看到 "Installation complete!" 提示后按任意键关闭窗口</li>
 </ol>
@@ -74,7 +78,7 @@ title: 快速开始
   <p>安装完成后，必须<strong>关闭所有 Word 窗口</strong>，然后重新打开 Word。</p>
 </div>
 
-<h3>第二步：在 Word 中打开 Reguverse Assistant</h3>
+<h3>第三步：在 Word 中打开 Reguverse Assistant</h3>
 <ol>
   <li>打开 Word，点击 <strong>Home（开始）</strong> 标签页</li>
   <li>在功能区最右侧找到 <strong>Add-ins（加载项）</strong> 按钮，点击它</li>

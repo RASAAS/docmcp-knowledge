@@ -62,9 +62,13 @@ title: Get Started
 <div class="section-block">
 <h2>Installation</h2>
 
-<h3>Step 1: Run the Installer (Windows)</h3>
+<h3>Step 1: Extract the Installation Package (Windows)</h3>
+<p>After downloading, right-click the ZIP file and select <strong>"Extract All"</strong>. Open the extracted folder and you will see the following files:</p>
+<div class="guide-img"><img src="/images/install-guide/00-win-unzip.png" alt="Extracted installation files"></div>
+<p><strong>install.bat</strong> is the installer script, and <strong>cleanup-old-install.bat</strong> is used to remove previous installations.</p>
+
+<h3>Step 2: Run the Installer</h3>
 <ol>
-  <li>Unzip the downloaded file</li>
   <li>Double-click <strong>install.bat</strong> to run the installer. A cmd window will appear</li>
   <li>Wait for installation to complete. Press any key to close the window after seeing "Installation complete!"</li>
 </ol>
@@ -74,7 +78,7 @@ title: Get Started
   <p>After installation, you must <strong>close ALL Word windows</strong> and then re-open Word.</p>
 </div>
 
-<h3>Step 2: Open Reguverse Assistant in Word</h3>
+<h3>Step 3: Open Reguverse Assistant in Word</h3>
 <ol>
   <li>Open Word, click the <strong>Home</strong> tab</li>
   <li>Find the <strong>Add-ins</strong> button on the far right of the ribbon and click it</li>
