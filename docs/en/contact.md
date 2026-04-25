@@ -46,7 +46,7 @@ title: Contact Us
 
 <h3>Free Trial</h3>
 
-<p>All users can register directly and get a <strong>72-hour free trial</strong> with full feature access -- no invite code required.</p>
+<p>All users can register directly and get a <strong>30-day free trial</strong> with full feature access -- no invite code required (see the in-app Account page for the exact term).</p>
 
 <div class="download-section">
   <a href="/en/get-started" class="download-btn">&#x2B07; Download Reguverse Assistant Installer</a>
@@ -68,82 +68,76 @@ title: Contact Us
 <div class="section-block">
 <h2>Available Plans</h2>
 
-<p>All plans include <strong>full feature access</strong> with unlimited projects and all regulations (EU MDR / FDA / NMPA). Plans differ only by monthly token quota and top-up pricing.</p>
+<p>Billing uses <strong>AI Credits</strong> (aligned with the in-app usage display). <strong>Monthly/annual price, monthly AI Credits allocation, AI Credits top-up price per unit, Translation Credits top-up price, and promotions</strong> are stored in the product <code>plan_pricing</code> table and are shown in real time on the add-in <strong>Account</strong> page and at <strong>checkout</strong>. Enterprise subscription agreements include appendix tables that are <strong>generated at contract creation from the same source</strong>. This page does not list fixed numbers so it cannot drift from production.</p>
+
+<p><strong>Plan limits</strong> (max projects, available regulations, per-task-type limits) depend on the tier; see the product UI for your account.</p>
 
 <div class="plans-grid">
 
 <div class="plan-card">
   <div class="plan-name">Trial</div>
   <div class="plan-price">Free</div>
-  <div class="plan-period">72 hours</div>
+  <div class="plan-period">30 days</div>
   <ul>
-    <li>1M tokens</li>
-    <li>Full feature access</li>
+    <li>Quota and scope as shown in the app</li>
+    <li>Full feature access (within plan limits)</li>
   </ul>
 </div>
 
 <div class="plan-card">
   <div class="plan-name">Starter</div>
-  <div class="plan-price">$15</div>
-  <div class="plan-period">per month / $150 per year</div>
+  <div class="plan-price">See in app</div>
+  <div class="plan-period">monthly / annual</div>
   <ul>
-    <li>3M tokens / month</li>
-    <li>Top-up: $9/1M</li>
-    <li>Full feature access</li>
+    <li>Price, quota, and top-up rates: Account page</li>
+    <li>Full features (subject to plan limits)</li>
   </ul>
 </div>
 
 <div class="plan-card">
   <div class="plan-name">Basic</div>
-  <div class="plan-price">$49</div>
-  <div class="plan-period">per month / $490 per year</div>
+  <div class="plan-price">See in app</div>
+  <div class="plan-period">monthly / annual</div>
   <ul>
-    <li>8M tokens / month</li>
-    <li>Top-up: $9/1M</li>
-    <li>Full feature access</li>
+    <li>Price, quota, and top-up rates: Account page</li>
+    <li>Full features (subject to plan limits)</li>
   </ul>
 </div>
 
 <div class="plan-card plan-featured">
   <div class="plan-badge">Popular</div>
   <div class="plan-name">Pro</div>
-  <div class="plan-price">$129</div>
-  <div class="plan-period">per month / $1,290 per year</div>
+  <div class="plan-price">See in app</div>
+  <div class="plan-period">monthly / annual</div>
   <ul>
-    <li>24M tokens / month</li>
-    <li>Top-up: $8/1M</li>
-    <li>Full feature access</li>
-    <li>Priority support</li>
+    <li>Price, quota, and top-up rates: Account page</li>
+    <li>Full features; priority support</li>
   </ul>
 </div>
 
 <div class="plan-card">
   <div class="plan-name">Max</div>
-  <div class="plan-price">$299</div>
-  <div class="plan-period">per month / $2,990 per year</div>
+  <div class="plan-price">See in app</div>
+  <div class="plan-period">monthly / annual</div>
   <ul>
-    <li>60M tokens / month</li>
-    <li>Top-up: $7/1M</li>
-    <li>Full feature access</li>
-    <li>Dedicated support</li>
+    <li>Price, quota, and top-up rates: Account page</li>
+    <li>Higher quota; dedicated support</li>
   </ul>
 </div>
 
 <div class="plan-card">
   <div class="plan-name">CRO</div>
-  <div class="plan-price">$300</div>
-  <div class="plan-period">per month / $3,000 per year</div>
+  <div class="plan-price">See in app</div>
+  <div class="plan-period">monthly / annual</div>
   <ul>
-    <li>20M tokens / month</li>
-    <li>Top-up: $5/1M</li>
-    <li>Full feature access</li>
-    <li>Commercial consulting license</li>
+    <li>Price, quota, and top-up rates: Account page</li>
+    <li>Commercial and multi-client use cases</li>
   </ul>
 </div>
 
 </div>
 
-<p class="plans-note">All paid plans support monthly or annual billing. When your quota runs out, purchase additional token packs at your plan's rate -- higher plans enjoy lower top-up pricing.</p>
+<p class="plans-note">All paid plans support monthly or annual billing. When your AI Credits are exhausted, you can purchase top-up packs in-app. <strong>Translation</strong> uses separate Translation Credits, billed independently of AI Credits.</p>
 </div>
 
 <div class="section-block">

@@ -46,7 +46,7 @@ title: 联系我们
 
 <h3>免费试用</h3>
 
-<p>所有用户均可直接注册并获得 <strong>72 小时免费试用</strong>，体验全部功能，无需邀请码。</p>
+<p>所有用户均可直接注册并获得 <strong>30 天免费试用</strong>，体验全部功能，无需邀请码（具体以账户页展示为准）。</p>
 
 <div class="download-section">
   <a href="/zh/get-started" class="download-btn">&#x2B07; 下载 Reguverse 助手安装包</a>
@@ -68,82 +68,76 @@ title: 联系我们
 <div class="section-block">
 <h2>套餐方案</h2>
 
-<p>所有套餐均包含<strong>全部功能</strong>，不限项目数量、不限法规类型（EU MDR / FDA / NMPA）。套餐之间仅以每月 token 额度和额外 token 购买价格区分。</p>
+<p>计费以账户中的 <strong>AI Credits</strong> 计量（与界面中的用量展示一致）。<strong>月/年价、月度 AI Credits 额度、AI Credits 补充包、翻译积分（Translation Credits）补充价、以及促销</strong>均由运营在后台 <code>plan_pricing</code> 配置，以 Reguverse 插件内 <strong>「账户」页</strong>与<strong>支付下单</strong>时展示为准。企业用户在线生成的<strong>《订阅服务协议》</strong>附录中的价格/额度表在<strong>合同生成时</strong>自同一数据源自动拉取。本页不列举具体数字，避免与现网不同步。</p>
+
+<p>各档在可创建项目数、可用法规、各任务类型次数等<strong>计划限制</strong>由套餐决定，以插件内展示为准。更高档位通常对应更高月度额度与更多可用法规/任务。</p>
 
 <div class="plans-grid">
 
 <div class="plan-card">
   <div class="plan-name">试用版</div>
   <div class="plan-price">免费</div>
-  <div class="plan-period">72 小时</div>
+  <div class="plan-period">30 天</div>
   <ul>
-    <li>100万 tokens</li>
+    <li>额度与功能范围以系统显示为准</li>
     <li>全功能体验</li>
   </ul>
 </div>
 
 <div class="plan-card">
-  <div class="plan-name">入门版</div>
-  <div class="plan-price">$15</div>
-  <div class="plan-period">每月 / $150 每年</div>
+  <div class="plan-name">入门版 (Starter)</div>
+  <div class="plan-price">见插件内</div>
+  <div class="plan-period">月付 / 年付</div>
   <ul>
-    <li>300万 tokens / 月</li>
-    <li>额外 token: $9/100万</li>
-    <li>全功能访问</li>
+    <li>月价、年价、额度、补充价以账户页为准</li>
+    <li>全功能（受计划限制约束）</li>
   </ul>
 </div>
 
 <div class="plan-card">
-  <div class="plan-name">基础版</div>
-  <div class="plan-price">$49</div>
-  <div class="plan-period">每月 / $490 每年</div>
+  <div class="plan-name">基础版 (Basic)</div>
+  <div class="plan-price">见插件内</div>
+  <div class="plan-period">月付 / 年付</div>
   <ul>
-    <li>800万 tokens / 月</li>
-    <li>额外 token: $9/100万</li>
-    <li>全功能访问</li>
+    <li>月价、年价、额度、补充价以账户页为准</li>
+    <li>全功能（受计划限制约束）</li>
   </ul>
 </div>
 
 <div class="plan-card plan-featured">
   <div class="plan-badge">推荐</div>
-  <div class="plan-name">专业版</div>
-  <div class="plan-price">$129</div>
-  <div class="plan-period">每月 / $1,290 每年</div>
+  <div class="plan-name">专业版 (Pro)</div>
+  <div class="plan-price">见插件内</div>
+  <div class="plan-period">月付 / 年付</div>
   <ul>
-    <li>2400万 tokens / 月</li>
-    <li>额外 token: $8/100万</li>
-    <li>全功能访问</li>
-    <li>优先支持</li>
+    <li>月价、年价、额度、补充价以账户页为准</li>
+    <li>全功能；优先支持</li>
   </ul>
 </div>
 
 <div class="plan-card">
-  <div class="plan-name">旗舰版</div>
-  <div class="plan-price">$299</div>
-  <div class="plan-period">每月 / $2,990 每年</div>
+  <div class="plan-name">旗舰版 (Max)</div>
+  <div class="plan-price">见插件内</div>
+  <div class="plan-period">月付 / 年付</div>
   <ul>
-    <li>6000万 tokens / 月</li>
-    <li>额外 token: $7/100万</li>
-    <li>全功能访问</li>
-    <li>专属支持</li>
+    <li>月价、年价、额度、补充价以账户页为准</li>
+    <li>全功能；更高额度；专属支持</li>
   </ul>
 </div>
 
 <div class="plan-card">
   <div class="plan-name">CRO 版</div>
-  <div class="plan-price">$300</div>
-  <div class="plan-period">每月 / $3,000 每年</div>
+  <div class="plan-price">见插件内</div>
+  <div class="plan-period">月付 / 年付</div>
   <ul>
-    <li>2000万 tokens / 月</li>
-    <li>额外 token: $5/100万</li>
-    <li>全功能访问</li>
-    <li>商业咨询授权</li>
+    <li>月价、年价、额度、补充价以账户页为准</li>
+    <li>全功能；商业咨询与多客户场景</li>
   </ul>
 </div>
 
 </div>
 
-<p class="plans-note">所有付费套餐支持按月或按年订阅。额度用尽后可按套餐对应的单价购买额外 token 补充包，高级套餐享受更优惠的 token 单价。</p>
+<p class="plans-note">所有付费套餐支持按月或按年订阅。额度用尽后可在系统内按当前套餐价购买补充包；<strong>翻译</strong>使用独立翻译积分，与 AI Credits 分开结算。</p>
 </div>
 
 <div class="section-block">
