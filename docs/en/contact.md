@@ -2,7 +2,7 @@
 layout: page
 title: Contact Us
 ---
-
+<!-- Public site: https://docs.team-ra.org (Cloudflare Pages). Mirrors may lag. -->
 <div class="contact-page">
 
 <div class="contact-hero">

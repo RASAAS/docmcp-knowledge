@@ -28,6 +28,11 @@
 
 访问 [docs.team-ra.org](https://docs.team-ra.org) 浏览完整内容（支持中英文切换、全文搜索）。
 
+### 文档站点与部署
+
+- 主站 **https://docs.team-ra.org** 由 **Cloudflare Pages** 连接本仓库 `main` 自动构建；修改 `docs/` 后应以 Cloudflare 上生产部署成功为准（与仅同步到自托管镜像的管道不同）。
+- 国内可访问的 **https://docs.reguverse.com** 等为**另行部署**的镜像，**同一仓库构建产物，但不等同于** `reguverse.com` 上的**支付/服务条款等静态页**（后者在 **docmcp** 仓库的 `payment-page/`，供营销/收银台/合规链接使用，**不是**本 VitePress 站点导出的同一套页面）。
+
 ---
 
 ## English
@@ -48,6 +53,11 @@ All content is stored in structured Markdown + JSON format, directly consumable 
 ### Online Documentation
 
 Visit [docs.team-ra.org](https://docs.team-ra.org) to browse all content (supports Chinese/English toggle and full-text search).
+
+### Doc site and deployment
+
+- The canonical site **https://docs.team-ra.org** is built and hosted on **Cloudflare Pages** from the `main` branch; treat the Cloudflare production deploy as the source of truth for public doc changes.
+- **https://docs.reguverse.com** (and similar) are **separately hosted mirrors**; they are not the same deployment as the legal/checkout static pages on **reguverse.com** (those live in the **docmcp** repo under `payment-page/`, e.g. agreement/TOS for marketing and payment flows).
 
 ---
 

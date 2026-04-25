@@ -2,7 +2,7 @@
 layout: page
 title: 联系我们
 ---
-
+<!-- Public site: https://docs.team-ra.org (Cloudflare Pages). Do not assume docs.reguverse.com or reguverse.com mirrors update in lockstep. -->
 <div class="contact-page">
 
 <div class="contact-hero">
