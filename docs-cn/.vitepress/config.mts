@@ -3,7 +3,7 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "Reguverse 助手",
   description: "Reguverse 助手操作手册与使用指南",
-  head: [["link", { rel: "icon", type: "image/png", href: "/r16t.png" }]],
+  head: [["link", { rel: "icon", type: "image/png", href: "/reguverse-nav.png" }]],
 
   locales: {
     zh: {
@@ -121,7 +121,7 @@ export default defineConfig({
   },
 
   themeConfig: {
-    logo: { src: "/r16t.png", alt: "Reguverse" },
+    logo: { src: "/reguverse-nav.png", alt: "Reguverse" },
     socialLinks: [
       { icon: "github", link: "https://github.com/RASAAS/docmcp-knowledge" },
     ],
