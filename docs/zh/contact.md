@@ -81,7 +81,7 @@ title: 联系我们
   <ul>
     <li>150 AI Credits（与入门版相同）</li>
     <li>全功能体验（受计划限制约束）</li>
-    <li>不含 eQMS（仅企业版）</li>
+    <li>企业版含 eQMS</li>
   </ul>
 </div>
 
@@ -93,7 +93,7 @@ title: 联系我们
     <li>150 AI Credits / 月</li>
     <li>AI Credits 补充包 $9 / 20 Credits</li>
     <li>全功能（受计划限制约束）</li>
-    <li>不含 eQMS（仅企业版）</li>
+    <li>企业版含 eQMS</li>
     <li>高级 AI 工具可能不支持</li>
   </ul>
 </div>
@@ -106,7 +106,7 @@ title: 联系我们
     <li>500 AI Credits / 月</li>
     <li>AI Credits 补充包 $9 / 20 Credits</li>
     <li>全功能（受计划限制约束）</li>
-    <li>不含 eQMS（仅企业版）</li>
+    <li>企业版含 eQMS</li>
     <li>高级 AI 工具可能不支持</li>
   </ul>
 </div>
@@ -135,7 +135,8 @@ title: 联系我们
     <li>同一组织共享 AI Credits 额度</li>
     <li>可定制翻译等附加额度</li>
     <li>可选用高级模型（GPT / Claude / Gemini）</li>
-    <li>企业版含 eQMS；专属技术支持</li>
+    <li>企业版含 eQMS</li>
+    <li>专属技术支持</li>
     <li>优先支持所有高级 AI 工具</li>
   </ul>
 </div>

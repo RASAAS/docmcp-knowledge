@@ -81,7 +81,7 @@ title: Contact Us
   <ul>
     <li>150 AI Credits (same as Starter)</li>
     <li>Full feature access (within plan limits)</li>
-    <li>eQMS not included (Enterprise only)</li>
+    <li>eQMS for Enterprise accounts</li>
   </ul>
 </div>
 
@@ -93,7 +93,7 @@ title: Contact Us
     <li>150 AI Credits / month</li>
     <li>Top-up: $9 / 20 Credits</li>
     <li>Full features (within plan limits)</li>
-    <li>eQMS not included (Enterprise only)</li>
+    <li>eQMS for Enterprise accounts</li>
     <li>Advanced AI tools may not be supported</li>
   </ul>
 </div>
@@ -106,7 +106,7 @@ title: Contact Us
     <li>500 AI Credits / month</li>
     <li>Top-up: $9 / 20 Credits</li>
     <li>Full features (within plan limits)</li>
-    <li>eQMS not included (Enterprise only)</li>
+    <li>eQMS for Enterprise accounts</li>
     <li>Advanced AI tools may not be supported</li>
   </ul>
 </div>
@@ -120,7 +120,7 @@ title: Contact Us
     <li>1,500 AI Credits / month</li>
     <li>Top-up: $8 / 20 Credits</li>
     <li>Full features; priority for advanced AI tools</li>
-    <li>eQMS included for Enterprise accounts</li>
+    <li>eQMS for Enterprise accounts</li>
   </ul>
 </div>
 
@@ -135,7 +135,8 @@ title: Contact Us
     <li>Shared AI Credits pool across your organization</li>
     <li>Customizable add-on credits (e.g. Translation)</li>
     <li>Access to premium models (GPT / Claude / Gemini)</li>
-    <li>eQMS included; dedicated support</li>
+    <li>eQMS for Enterprise accounts</li>
+    <li>Dedicated support</li>
     <li>Priority access to all advanced AI tools</li>
   </ul>
 </div>
