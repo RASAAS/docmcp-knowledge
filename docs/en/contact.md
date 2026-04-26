@@ -68,9 +68,9 @@ title: Contact Us
 <div class="section-block">
 <h2>Available Plans</h2>
 
-<p>Billing uses <strong>AI Credits</strong> (aligned with the in-app usage display). <strong>Monthly/annual price, monthly AI Credits allocation, AI Credits top-up price per unit, Translation Credits top-up price, and promotions</strong> are stored in the product <code>plan_pricing</code> table and are shown in real time on the add-in <strong>Account</strong> page and at <strong>checkout</strong>. Enterprise subscription agreements include appendix tables that are <strong>generated at contract creation from the same source</strong>. This page does not list fixed numbers so it cannot drift from production.</p>
+<p>Billing uses <strong>AI Credits</strong> (aligned with the in-app usage display). Prices below are in USD; actual payment is converted to local currency at the current exchange rate. <strong>Promotional prices, Translation Credits top-up pricing, and other add-ons are shown in real time on the in-app Account page</strong>.</p>
 
-<p><strong>Plan limits</strong> (max projects, available regulations, per-task-type limits) depend on the tier; see the product UI for your account.</p>
+<p class="plans-note" style="margin-bottom:1rem;"><strong>Personal vs Enterprise:</strong> Personal accounts have full access to AI-assisted document tools. eQMS (electronic Quality Management System) and similar advanced features are <strong>available to Enterprise accounts only</strong>. Future advanced AI tools will be <strong>prioritized for Pro and Max</strong> users; Trial, Starter, and Basic may not be supported.</p>
 
 <div class="plans-grid">
 
@@ -79,58 +79,70 @@ title: Contact Us
   <div class="plan-price">Free</div>
   <div class="plan-period">30 days</div>
   <ul>
-    <li>Quota and scope as shown in the app</li>
+    <li>150 AI Credits (same as Starter)</li>
     <li>Full feature access (within plan limits)</li>
+    <li>eQMS not included (Enterprise only)</li>
   </ul>
 </div>
 
 <div class="plan-card">
   <div class="plan-name">Starter</div>
-  <div class="plan-price">See in app</div>
-  <div class="plan-period">monthly / annual</div>
+  <div class="plan-price">$15<span class="price-unit">/mo</span></div>
+  <div class="plan-period">Annual $150 (2 months free)</div>
   <ul>
-    <li>Price, quota, and top-up rates: Account page</li>
-    <li>Full features (subject to plan limits)</li>
+    <li>150 AI Credits / month</li>
+    <li>Top-up: $9 / 20 Credits</li>
+    <li>Full features (within plan limits)</li>
+    <li>eQMS not included (Enterprise only)</li>
+    <li>Advanced AI tools may not be supported</li>
   </ul>
 </div>
 
 <div class="plan-card">
   <div class="plan-name">Basic</div>
-  <div class="plan-price">See in app</div>
-  <div class="plan-period">monthly / annual</div>
+  <div class="plan-price">$50<span class="price-unit">/mo</span></div>
+  <div class="plan-period">Annual $500 (2 months free)</div>
   <ul>
-    <li>Price, quota, and top-up rates: Account page</li>
-    <li>Full features (subject to plan limits)</li>
+    <li>500 AI Credits / month</li>
+    <li>Top-up: $9 / 20 Credits</li>
+    <li>Full features (within plan limits)</li>
+    <li>eQMS not included (Enterprise only)</li>
+    <li>Advanced AI tools may not be supported</li>
   </ul>
 </div>
 
 <div class="plan-card plan-featured">
   <div class="plan-badge">Popular</div>
   <div class="plan-name">Pro</div>
-  <div class="plan-price">See in app</div>
-  <div class="plan-period">monthly / annual</div>
+  <div class="plan-price">$130<span class="price-unit">/mo</span></div>
+  <div class="plan-period">Annual $1,300 (2 months free)</div>
   <ul>
-    <li>Price, quota, and top-up rates: Account page</li>
-    <li>Full features; priority support</li>
+    <li>1,500 AI Credits / month</li>
+    <li>Top-up: $8 / 20 Credits</li>
+    <li>Full features; priority for advanced AI tools</li>
+    <li>eQMS included for Enterprise accounts</li>
   </ul>
 </div>
 
 <div class="plan-card">
   <div class="plan-name">Max</div>
-  <div class="plan-price">See in app</div>
-  <div class="plan-period">monthly / annual</div>
+  <div class="plan-price">$1,150<span class="price-unit">/mo</span></div>
+  <div class="plan-period">Annual $11,500 (2 months free)</div>
   <ul>
+    <li>15,000 AI Credits / month (org shared)</li>
+    <li>Top-up: $7 / 20 Credits</li>
     <li>Team plan with up to 10 accounts</li>
     <li>Shared AI Credits pool across your organization</li>
     <li>Customizable add-on credits (e.g. Translation)</li>
     <li>Access to premium models (GPT / Claude / Gemini)</li>
-    <li>Dedicated support</li>
+    <li>eQMS included; dedicated support</li>
+    <li>Priority access to all advanced AI tools</li>
   </ul>
 </div>
 
 </div>
 
-<p class="plans-note">All paid plans support monthly or annual billing. When your AI Credits are exhausted, you can purchase top-up packs in-app. <strong>Translation</strong> uses separate Translation Credits, billed independently of AI Credits.</p>
+<p class="plans-note">All paid plans support monthly or annual billing (annual plans include 2 months free). When AI Credits are exhausted, purchase top-up packs in-app. <strong>Translation</strong> uses separate Translation Credits, billed independently. Prices are subject to change; the price shown at checkout is the effective price.</p>
 </div>
 
 <div class="section-block">
@@ -356,6 +368,12 @@ title: Contact Us
   font-size: 1.75rem;
   font-weight: 800;
   color: var(--vp-c-brand-1);
+}
+
+.price-unit {
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: var(--vp-c-text-3);
 }
 
 .plan-period {

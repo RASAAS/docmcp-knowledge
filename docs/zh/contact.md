@@ -68,69 +68,81 @@ title: 联系我们
 <div class="section-block">
 <h2>套餐方案</h2>
 
-<p>计费以账户中的 <strong>AI Credits</strong> 计量（与界面中的用量展示一致）。<strong>月/年价、月度 AI Credits 额度、AI Credits 补充包、翻译积分（Translation Credits）补充价、以及促销</strong>均由运营在后台 <code>plan_pricing</code> 配置，以 Reguverse 插件内 <strong>「账户」页</strong>与<strong>支付下单</strong>时展示为准。企业用户在线生成的<strong>《订阅服务协议》</strong>附录中的价格/额度表在<strong>合同生成时</strong>自同一数据源自动拉取。本页不列举具体数字，避免与现网不同步。</p>
+<p>计费以账户中的 <strong>AI Credits</strong> 计量（与界面中的用量展示一致）。以下价格均为美元（USD），实际支付时按实时汇率折算为人民币。<strong>促销价格、翻译积分（Translation Credits）等附加包价格以插件内「账户」页实时展示为准</strong>。</p>
 
-<p>各档在可创建项目数、可用法规、各任务类型次数等<strong>计划限制</strong>由套餐决定，以插件内展示为准。更高档位通常对应更高月度额度与更多可用法规/任务。</p>
+<p class="plans-note" style="margin-bottom:1rem;"><strong>个人版 vs 企业版：</strong>个人用户注册后可直接使用 AI 辅助文档工具。eQMS（电子质量管理体系）等高级功能<strong>仅限企业版</strong>用户。后续增加的高级 AI 工具将<strong>优先支持专业版 (Pro) 和旗舰版 (Max)</strong> 用户，试用版、入门版、基础版可能不被支持。</p>
 
 <div class="plans-grid">
 
 <div class="plan-card">
-  <div class="plan-name">试用版</div>
+  <div class="plan-name">试用版 (Trial)</div>
   <div class="plan-price">免费</div>
   <div class="plan-period">30 天</div>
   <ul>
-    <li>额度与功能范围以系统显示为准</li>
-    <li>全功能体验</li>
+    <li>150 AI Credits（与入门版相同）</li>
+    <li>全功能体验（受计划限制约束）</li>
+    <li>不含 eQMS（仅企业版）</li>
   </ul>
 </div>
 
 <div class="plan-card">
   <div class="plan-name">入门版 (Starter)</div>
-  <div class="plan-price">见插件内</div>
-  <div class="plan-period">月付 / 年付</div>
+  <div class="plan-price">$15<span class="price-unit">/月</span></div>
+  <div class="plan-period">年付 $150（享 2 个月免费）</div>
   <ul>
-    <li>月价、年价、额度、补充价以账户页为准</li>
+    <li>150 AI Credits / 月</li>
+    <li>AI Credits 补充包 $9 / 20 Credits</li>
     <li>全功能（受计划限制约束）</li>
+    <li>不含 eQMS（仅企业版）</li>
+    <li>高级 AI 工具可能不支持</li>
   </ul>
 </div>
 
 <div class="plan-card">
   <div class="plan-name">基础版 (Basic)</div>
-  <div class="plan-price">见插件内</div>
-  <div class="plan-period">月付 / 年付</div>
+  <div class="plan-price">$50<span class="price-unit">/月</span></div>
+  <div class="plan-period">年付 $500（享 2 个月免费）</div>
   <ul>
-    <li>月价、年价、额度、补充价以账户页为准</li>
+    <li>500 AI Credits / 月</li>
+    <li>AI Credits 补充包 $9 / 20 Credits</li>
     <li>全功能（受计划限制约束）</li>
+    <li>不含 eQMS（仅企业版）</li>
+    <li>高级 AI 工具可能不支持</li>
   </ul>
 </div>
 
 <div class="plan-card plan-featured">
   <div class="plan-badge">推荐</div>
   <div class="plan-name">专业版 (Pro)</div>
-  <div class="plan-price">见插件内</div>
-  <div class="plan-period">月付 / 年付</div>
+  <div class="plan-price">$130<span class="price-unit">/月</span></div>
+  <div class="plan-period">年付 $1,300（享 2 个月免费）</div>
   <ul>
-    <li>月价、年价、额度、补充价以账户页为准</li>
-    <li>全功能；优先支持</li>
+    <li>1,500 AI Credits / 月</li>
+    <li>AI Credits 补充包 $8 / 20 Credits</li>
+    <li>全功能；优先支持高级 AI 工具</li>
+    <li>企业版含 eQMS</li>
   </ul>
 </div>
 
 <div class="plan-card">
   <div class="plan-name">旗舰版 (Max)</div>
-  <div class="plan-price">见插件内</div>
-  <div class="plan-period">月付 / 年付</div>
+  <div class="plan-price">$1,150<span class="price-unit">/月</span></div>
+  <div class="plan-period">年付 $11,500（享 2 个月免费）</div>
   <ul>
-    <li>团队专用套餐，可开通最多 10 个账户</li>
+    <li>15,000 AI Credits / 月（组织共享）</li>
+    <li>AI Credits 补充包 $7 / 20 Credits</li>
+    <li>团队专用，可开通最多 10 个账户</li>
     <li>同一组织共享 AI Credits 额度</li>
-    <li>可定制翻译工具等附加额度</li>
+    <li>可定制翻译等附加额度</li>
     <li>可选用高级模型（GPT / Claude / Gemini）</li>
-    <li>专属技术支持</li>
+    <li>企业版含 eQMS；专属技术支持</li>
+    <li>优先支持所有高级 AI 工具</li>
   </ul>
 </div>
 
 </div>
 
-<p class="plans-note">所有付费套餐支持按月或按年订阅。额度用尽后可在系统内按当前套餐价购买补充包；<strong>翻译</strong>使用独立翻译积分，与 AI Credits 分开结算。</p>
+<p class="plans-note">所有付费套餐支持按月或按年订阅（年付享 2 个月免费）。额度用尽后可在系统内购买 AI Credits 补充包；<strong>翻译</strong>使用独立翻译积分，与 AI Credits 分开结算。价格可能随运营调整，以支付时实际展示为准。</p>
 </div>
 
 <div class="section-block">
@@ -356,6 +368,12 @@ title: 联系我们
   font-size: 1.75rem;
   font-weight: 800;
   color: var(--vp-c-brand-1);
+}
+
+.price-unit {
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: var(--vp-c-text-3);
 }
 
 .plan-period {
