@@ -120,18 +120,11 @@ title: Contact Us
   <div class="plan-price">See in app</div>
   <div class="plan-period">monthly / annual</div>
   <ul>
-    <li>Price, quota, and top-up rates: Account page</li>
-    <li>Higher quota; dedicated support</li>
-  </ul>
-</div>
-
-<div class="plan-card">
-  <div class="plan-name">CRO</div>
-  <div class="plan-price">See in app</div>
-  <div class="plan-period">monthly / annual</div>
-  <ul>
-    <li>Price, quota, and top-up rates: Account page</li>
-    <li>Commercial and multi-client use cases</li>
+    <li>Team plan with up to 10 accounts</li>
+    <li>Shared AI Credits pool across your organization</li>
+    <li>Customizable add-on credits (e.g. Translation)</li>
+    <li>Access to premium models (GPT / Claude / Gemini)</li>
+    <li>Dedicated support</li>
   </ul>
 </div>
 
@@ -143,18 +136,14 @@ title: Contact Us
 <div class="section-block">
 <h2>Partnership Opportunities</h2>
 
-<div class="partners-grid">
-  <div class="partner-item">
-    <strong>Regulatory Consultancies (CRO)</strong>
-    <span>Dedicated CRO plan to enhance your service capabilities with AI-powered tools</span>
-  </div>
+<div class="partners-grid partners-grid-2col">
   <div class="partner-item">
     <strong>Device Manufacturers</strong>
-    <span>Streamline your regulatory workflows</span>
+    <span>Streamline your regulatory workflows and accelerate time to market</span>
   </div>
   <div class="partner-item">
-    <strong>Notified Bodies & Regulators</strong>
-    <span>AI-assisted review tools</span>
+    <strong>Enterprise Teams</strong>
+    <span>Max plan supports multi-account collaboration with shared credits -- contact us for enterprise solutions</span>
   </div>
 </div>
 </div>

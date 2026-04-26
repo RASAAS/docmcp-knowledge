@@ -120,18 +120,11 @@ title: 联系我们
   <div class="plan-price">见插件内</div>
   <div class="plan-period">月付 / 年付</div>
   <ul>
-    <li>月价、年价、额度、补充价以账户页为准</li>
-    <li>全功能；更高额度；专属支持</li>
-  </ul>
-</div>
-
-<div class="plan-card">
-  <div class="plan-name">CRO 版</div>
-  <div class="plan-price">见插件内</div>
-  <div class="plan-period">月付 / 年付</div>
-  <ul>
-    <li>月价、年价、额度、补充价以账户页为准</li>
-    <li>全功能；商业咨询与多客户场景</li>
+    <li>团队专用套餐，可开通最多 10 个账户</li>
+    <li>同一组织共享 AI Credits 额度</li>
+    <li>可定制翻译工具等附加额度</li>
+    <li>可选用高级模型（GPT / Claude / Gemini）</li>
+    <li>专属技术支持</li>
   </ul>
 </div>
 
@@ -145,12 +138,12 @@ title: 联系我们
 
 <div class="partners-grid partners-grid-2col">
   <div class="partner-item">
-    <strong>法规咨询机构 (CRO)</strong>
-    <span>专属 CRO 套餐，提升服务能力，引入 AI 辅助工具</span>
-  </div>
-  <div class="partner-item">
     <strong>医疗器械制造商</strong>
     <span>简化合规流程，加速上市</span>
+  </div>
+  <div class="partner-item">
+    <strong>企业团队</strong>
+    <span>Max 套餐支持多账户协作与共享额度，如需了解企业方案请联系我们</span>
   </div>
 </div>
 </div>

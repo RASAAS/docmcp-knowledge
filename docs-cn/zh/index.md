@@ -1,0 +1,21 @@
+---
+layout: home
+hero:
+  name: Reguverse 助手
+  text: 操作手册
+  tagline: AI 驱动的医疗器械法规智能平台 -- 使用指南与操作说明
+  actions:
+    - theme: brand
+      text: 快速开始
+      link: /zh/guide/get-started
+    - theme: alt
+      text: 联系我们
+      link: /zh/contact
+features:
+  - title: EU MDR 临床评价
+    details: 10 步工作流完成完整的临床评价，自动生成 CEP、CER、DCR 文档
+  - title: NMPA 注册资料
+    details: 按照 eRPS 章节结构生成注册申报材料，支持进口与国产设备
+  - title: AI 工具
+    details: 设备分类助手、等同器械研究、翻译工具等 AI 辅助功能
+---
