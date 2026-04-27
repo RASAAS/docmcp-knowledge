@@ -11,6 +11,21 @@ title: 更新日志
 </div>
 
 <div class="section-block">
+<h2>v0.5.0 <span class="release-date">2026-04-27</span></h2>
+
+<h3>新功能</h3>
+<ul>
+  <li><strong>风险管理（RM）工作流</strong> -- 在项目中维护危害（HAZ）与控制措施（RCM）等结构化数据，系统自动完成风险矩阵、RPN/残余风险等计算，并支持在登记册内使用 AI 辅助分析。可生成风险分析表、风险管理计划（RMP）、风险管理报告（RMR）等正式文档；并导出为 Excel格式风险分析，Word 格式RMP/RMR。</li>
+  <li><strong>团队套餐</strong> -- 原 <strong>Max</strong> 高级方案调整为面向企业团队的 <strong>Team</strong> 协作形态：由企业负责人在符合条件时创建组织，成员共享<strong>组织级 AI 额度</strong>与<strong>组织级翻译额度</strong>；提供邀请、成员与用量看板、所有权转让等能力，便于多角色协作开展法规文档工作（具体创建资格与功能以产品内说明为准）。</li>
+</ul>
+
+<h3>改进与说明</h3>
+<ul>
+  <li><strong>套餐与权益展示</strong> -- 与团队方案相关的计划说明、权益与界面展示已做同步调整，避免与旧版 “Max 个人高级版” 表述混淆。</li>
+</ul>
+</div>
+
+<div class="section-block">
 <h2>v0.3.0 <span class="release-date">2026-04-10</span></h2>
 
 <h3>新功能</h3>

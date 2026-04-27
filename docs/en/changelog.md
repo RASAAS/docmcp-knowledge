@@ -11,6 +11,21 @@ title: Changelog
 </div>
 
 <div class="section-block">
+<h2>v0.5.0 <span class="release-date">2026-04-27</span></h2>
+
+<h3>New Features</h3>
+<ul>
+  <li><strong>Risk Management (RM) workflow</strong> -- Maintain structured hazard (HAZ) and control measure (RCM) data in the project; the system automatically applies the risk matrix and RPN/residual risk calculations, with AI-assisted analysis in the register. Generates formal outputs including the risk analysis sheet, Risk Management Plan (RMP), and Risk Management Report (RMR); export risk analysis to Excel, and RMP/RMR to Word.</li>
+  <li><strong>Team plan</strong> -- The former <strong>Max</strong> premium tier is now oriented toward <strong>Team</strong> collaboration for enterprise teams: when eligible, the enterprise owner can create an organization; members share <strong>organization-level AI credits</strong> and <strong>organization-level translation credits</strong>, with invitations, a member/usage dashboard, and ownership transfer (eligibility and features are described in-product).</li>
+</ul>
+
+<h3>Improvements and Notes</h3>
+<ul>
+  <li><strong>Plan and benefits copy</strong> -- Plan descriptions, entitlements, and in-app labels related to the Team plan are updated to avoid confusion with the legacy &ldquo;Max individual premium&rdquo; wording.</li>
+</ul>
+</div>
+
+<div class="section-block">
 <h2>v0.3.0 <span class="release-date">2026-04-10</span></h2>
 
 <h3>New Features</h3>

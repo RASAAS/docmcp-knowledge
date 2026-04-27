@@ -51,7 +51,7 @@ title: Contact Us
 <div class="download-section">
   <a href="/en/get-started" class="download-btn">&#x2B07; Download Reguverse Assistant Installer</a>
   <span class="download-hint">Windows and macOS supported -- choose International or China version</span>
-  <span class="download-version">Current version: v0.3.0 (2026-04-10) &middot; <a href="/en/changelog">View changelog</a></span>
+  <span class="download-version">Current version: v0.5.0 (2026-04-27) &middot; <a href="/en/changelog">View changelog</a></span>
 </div>
 
 <ol>

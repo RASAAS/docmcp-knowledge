@@ -56,7 +56,7 @@ title: 快速开始
 
 </div>
 
-<span class="download-version">当前版本: v0.4.0 (2026-04-22) &middot; <a href="/zh/changelog">查看更新日志</a></span>
+<span class="download-version">当前版本: v0.5.0 (2026-04-27) &middot; <a href="/zh/changelog">查看更新日志</a></span>
 </div>
 
 <div class="section-block">

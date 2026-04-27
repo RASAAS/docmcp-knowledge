@@ -56,7 +56,7 @@ title: Get Started
 
 </div>
 
-<span class="download-version">Current version: v0.4.0 (2026-04-22) &middot; <a href="/en/changelog">View changelog</a></span>
+<span class="download-version">Current version: v0.5.0 (2026-04-27) &middot; <a href="/en/changelog">View changelog</a></span>
 </div>
 
 <div class="section-block">
