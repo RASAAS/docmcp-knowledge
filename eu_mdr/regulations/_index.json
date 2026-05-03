@@ -5,13 +5,15 @@
     "en": "EU MDR/IVDR Regulatory Texts"
   },
   "description": {
-    "zh": "欧盟医疗器械法规（EU MDR 2017/745）和体外诊断医疗器械法规（EU IVDR 2017/746）的结构化数据，包含关键条款、附录摘要和修正案。",
-    "en": "Structured data for EU Medical Device Regulation (EU MDR 2017/745) and In Vitro Diagnostic Medical Devices Regulation (EU IVDR 2017/746), including key articles, annex summaries and amendments."
+    "zh": "欧盟医疗器械法规（EU MDR 2017/745）和体外诊断医疗器械法规（EU IVDR 2017/746）的结构化数据，包含关键条款、附录摘要和修正案。以及与医疗器械相关的其他欧盟法规。",
+    "en": "Structured data for EU Medical Device Regulation (EU MDR 2017/745) and In Vitro Diagnostic Medical Devices Regulation (EU IVDR 2017/746), including key articles, annex summaries and amendments. Also includes other EU regulations relevant to medical devices."
   },
   "last_updated": "2026-05-03",
   "documents": [
     {
       "id": "eu-mdr-2017-745",
+      "slug": "eu-mdr-2017-745",
+      "celex": "32017R0745",
       "file": "mdr-2017-745.json",
       "title": {
         "zh": "欧盟医疗器械法规 (EU) 2017/745",
@@ -23,6 +25,8 @@
     },
     {
       "id": "eu-ivdr-2017-746",
+      "slug": "eu-ivdr-2017-746",
+      "celex": "32017R0746",
       "file": "ivdr-2017-746.json",
       "title": {
         "zh": "欧盟体外诊断医疗器械法规 (EU) 2017/746",
@@ -47,189 +51,223 @@
     },
     {
       "id": "eu-reg-directive-2011-65-eu-rohs-2",
+      "slug": "eu-reg-directive-2011-65-eu-rohs-2",
+      "celex": "32011L0065",
       "title": {
         "en": "Restriction of the use of certain hazardous substances in electrical and electronic equipment",
-        "zh": ""
+        "zh": "限制在电子电气设备中使用某些有害物质"
       },
       "number": "Directive 2011/65/EU (RoHS 2)",
       "status": "active",
-      "source_url": "https://eur-lex.europa.eu/eli/dir/2011/65/oj",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011L0065",
       "standard_type": "eu_regulation"
     },
     {
       "id": "eu-reg-regulation-ec-no-1907-2006-reach",
+      "slug": "eu-reg-regulation-ec-no-1907-2006-reach",
+      "celex": "32006R1907",
       "title": {
         "en": "Registration, Evaluation, Authorisation and Restriction of Chemicals",
-        "zh": ""
+        "zh": "化学品注册、评估、授权和限制"
       },
       "number": "Regulation (EC) No 1907/2006 (REACH)",
       "status": "active",
-      "source_url": "https://eur-lex.europa.eu/eli/reg/2006/1907/oj",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32006R1907",
       "standard_type": "eu_regulation"
     },
     {
       "id": "eu-reg-regulation-ec-no-1272-2008-clp",
+      "slug": "eu-reg-regulation-ec-no-1272-2008-clp",
+      "celex": "32008R1272",
       "title": {
         "en": "Classification, Labelling and Packaging of Substances and Mixtures",
-        "zh": ""
+        "zh": "物质和混合物的分类、标签和包装"
       },
       "number": "Regulation (EC) No 1272/2008 (CLP)",
       "status": "active",
-      "source_url": "https://eur-lex.europa.eu/eli/reg/2008/1272/oj",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008R1272",
       "standard_type": "eu_regulation"
     },
     {
       "id": "eu-reg-directive-2012-19-eu-weee",
+      "slug": "eu-reg-directive-2012-19-eu-weee",
+      "celex": "32012L0019",
       "title": {
         "en": "Waste Electrical and Electronic Equipment",
-        "zh": ""
+        "zh": "废弃电子电气设备"
       },
       "number": "Directive 2012/19/EU (WEEE)",
       "status": "active",
-      "source_url": "https://eur-lex.europa.eu/eli/dir/2012/19/oj",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012L0019",
       "standard_type": "eu_regulation"
     },
     {
       "id": "eu-reg-council-directive-2013-59-euratom",
+      "slug": "eu-reg-council-directive-2013-59-euratom",
+      "celex": "32013L0059",
       "title": {
         "en": "Basic safety standards for protection against the dangers arising from exposure to ionising radiation",
-        "zh": ""
+        "zh": "防止电离辐射危害的基本安全标准"
       },
       "number": "Council Directive 2013/59/Euratom",
       "status": "active",
-      "source_url": "https://eur-lex.europa.eu/eli/dir/2013/59/oj",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013L0059",
       "standard_type": "eu_regulation"
     },
     {
       "id": "eu-reg-regulation-eu-2023-1542-battery-regulation",
+      "slug": "eu-reg-regulation-eu-2023-1542-battery-regulation",
+      "celex": "32023R1542",
       "title": {
         "en": "Regulation concerning batteries and waste batteries, amending Directive 2008/98/EC and Regulation (EU) 2019/1020, repealing Directive 2006/66/EC",
-        "zh": ""
+        "zh": "关于电池和废电池的法规"
       },
       "number": "Regulation (EU) 2023/1542 (Battery Regulation)",
       "status": "active",
-      "source_url": "https://eur-lex.europa.eu/eli/reg/2023/1542/oj",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R1542",
       "standard_type": "eu_regulation"
     },
     {
       "id": "eu-reg-regulation-eu-722-2012-tse",
+      "slug": "eu-reg-regulation-eu-722-2012-tse",
+      "celex": "32012R0722",
       "title": {
         "en": "Concerning particular requirements as regards the requirements laid down in Council Directives 90/385/EEC and 93/42/EEC with respect to active implantable medical devices and medical devices manufactured utilising tissues of animal origin",
-        "zh": ""
+        "zh": "关于使用动物源组织的有源植入式和医疗器械的特殊要求"
       },
       "number": "Regulation (EU) 722/2012 (TSE)",
       "status": "active",
-      "source_url": "https://eur-lex.europa.eu/eli/reg/2012/722/oj",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R0722",
       "standard_type": "eu_regulation"
     },
     {
       "id": "eu-reg-regulation-eu-2024-2847-cyber-resilience-act",
+      "slug": "eu-reg-regulation-eu-2024-2847-cyber-resilience-act",
+      "celex": "32024R2847",
       "title": {
         "en": "Regulation on horizontal cybersecurity requirements for products with digital elements (CRA)",
-        "zh": ""
+        "zh": "关于数字元素产品横向网络安全要求的法规（网络弹性法案）"
       },
       "number": "Regulation (EU) 2024/2847 (Cyber Resilience Act)",
       "status": "active",
-      "source_url": "https://eur-lex.europa.eu/eli/reg/2024/2847/oj",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R2847",
       "standard_type": "eu_regulation"
     },
     {
       "id": "eu-reg-directive-eu-2022-2555-nis2",
+      "slug": "eu-reg-directive-eu-2022-2555-nis2",
+      "celex": "32022L2555",
       "title": {
         "en": "Directive on measures for a high common level of cybersecurity across the Union (NIS 2 Directive)",
-        "zh": ""
+        "zh": "关于全联盟高水平网络安全措施的指令（NIS2指令）"
       },
       "number": "Directive (EU) 2022/2555 (NIS2)",
       "status": "active",
-      "source_url": "https://eur-lex.europa.eu/eli/reg/2022/2555/oj",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022L2555",
       "standard_type": "eu_regulation"
     },
     {
       "id": "eu-reg-regulation-eu-2024-1689-ai-act",
+      "slug": "eu-reg-regulation-eu-2024-1689-ai-act",
+      "celex": "32024R1689",
       "title": {
         "en": "Regulation laying down harmonised rules on artificial intelligence (Artificial Intelligence Act)",
-        "zh": ""
+        "zh": "制定人工智能统一规则的法规（人工智能法案）"
       },
       "number": "Regulation (EU) 2024/1689 (AI Act)",
       "status": "active",
-      "source_url": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1689",
       "standard_type": "eu_regulation"
     },
     {
       "id": "eu-reg-regulation-eu-2023-988-gpsr",
+      "slug": "eu-reg-regulation-eu-2023-988-gpsr",
+      "celex": "32023R0988",
       "title": {
         "en": "General Product Safety Regulation",
-        "zh": ""
+        "zh": "通用产品安全法规"
       },
       "number": "Regulation (EU) 2023/988 (GPSR)",
       "status": "active",
-      "source_url": "https://eur-lex.europa.eu/eli/reg/2023/988/oj",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R0988",
       "standard_type": "eu_regulation"
     },
     {
       "id": "eu-reg-regulation-eu-2024-1781-espr",
+      "slug": "eu-reg-regulation-eu-2024-1781-espr",
+      "celex": "32024R1781",
       "title": {
         "en": "Regulation establishing a framework for setting ecodesign requirements for sustainable products (Ecodesign for Sustainable Products Regulation)",
-        "zh": ""
+        "zh": "建立可持续产品生态设计要求框架的法规（可持续产品生态设计法规）"
       },
       "number": "Regulation (EU) 2024/1781 (ESPR)",
       "status": "active",
-      "source_url": "https://eur-lex.europa.eu/eli/reg/2024/1781/oj",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1781",
       "standard_type": "eu_regulation"
     },
     {
       "id": "eu-reg-regulation-eu-2025-40-ppwr",
+      "slug": "eu-reg-regulation-eu-2025-40-ppwr",
+      "celex": "32025R0040",
       "title": {
         "en": "Regulation on packaging and packaging waste, amending Regulation (EU) 2019/1020 and Directive (EU) 2019/904, and repealing Directive 94/62/EC",
-        "zh": ""
+        "zh": "关于包装和包装废弃物的法规"
       },
       "number": "Regulation (EU) 2025/40 (PPWR)",
       "status": "active",
-      "source_url": "https://eur-lex.europa.eu/eli/reg/2025/40/oj",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R0040",
       "standard_type": "eu_regulation"
     },
     {
       "id": "eu-reg-directive-2014-53-eu-red",
+      "slug": "eu-reg-directive-2014-53-eu-red",
+      "celex": "32014L0053",
       "title": {
         "en": "Radio Equipment Directive - harmonisation of the laws of the Member States relating to the making available on the market of radio equipment",
-        "zh": ""
+        "zh": "无线电设备指令 - 协调成员国关于无线电设备市场投放的法律"
       },
       "number": "Directive 2014/53/EU (RED)",
       "status": "active",
-      "source_url": "https://eur-lex.europa.eu/eli/dir/2014/53/oj",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0053",
       "standard_type": "eu_regulation"
     },
     {
       "id": "eu-reg-regulation-eu-2023-1230-machinery-regulation",
+      "slug": "eu-reg-regulation-eu-2023-1230-machinery-regulation",
+      "celex": "32023R1230",
       "title": {
         "en": "Regulation on machinery and repealing Directive 2006/42/EC",
-        "zh": ""
+        "zh": "关于机械的法规，废除第2006/42/EC号指令"
       },
       "number": "Regulation (EU) 2023/1230 (Machinery Regulation)",
       "status": "active",
-      "source_url": "https://eur-lex.europa.eu/eli/reg/2023/1230/oj",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R1230",
       "standard_type": "eu_regulation"
     },
     {
       "id": "eu-reg-directive-2001-83-ec-medicinal-products",
+      "slug": "eu-reg-directive-2001-83-ec-medicinal-products",
+      "celex": "32001L0083",
       "title": {
         "en": "Directive on the Community code relating to medicinal products for human use",
-        "zh": ""
+        "zh": "关于人用药品共同体法典的指令"
       },
       "number": "Directive 2001/83/EC (Medicinal Products)",
       "status": "active",
-      "source_url": "https://eur-lex.europa.eu/eli/dir/2001/83/oj",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32001L0083",
       "standard_type": "eu_regulation"
     },
     {
       "id": "eu-reg-directive-eu-2022-2557-cer-directive",
+      "slug": "eu-reg-directive-eu-2022-2557-cer-directive",
+      "celex": "32022L2557",
       "title": {
         "en": "Directive on the resilience of critical entities",
-        "zh": ""
+        "zh": "关于关键实体弹性的指令"
       },
       "number": "Directive (EU) 2022/2557 (CER Directive)",
       "status": "active",
-      "source_url": "https://eur-lex.europa.eu/eli/reg/2022/2557/oj",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022L2557",
       "standard_type": "eu_regulation"
     }
   ],

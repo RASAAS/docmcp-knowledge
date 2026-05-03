@@ -5,3 +5,9 @@ docs/.vitepress/dist/
 scripts/.cache/
 *.pyc
 nmpa/guidance/_unmatched/
+
+# Standards fulltext (copyrighted, AI-only, not for public distribution)
+eu_mdr/standards/fulltext/*.md
+eu_mdr/other_standards/fulltext/*.md
+!eu_mdr/standards/fulltext/.gitkeep
+!eu_mdr/other_standards/fulltext/.gitkeep
