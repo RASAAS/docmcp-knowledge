@@ -1423,15 +1423,17 @@ Generic cut-off values
 
 Hazard class Generic cut-off values to be taken into account
 Acute Toxicity:
-— Category 1-3 0,1  %
-— Category 4 1 %
-Skin corrosion/Irritation 1 %()
-Serious damage to eyes/eye irritation 1 %()
+— Category 1-3 0,1 %
+— Category 4 1 %
+Skin corrosion/Irritation 1 % ( )
+Serious damage to eyes/eye irritation 1 % ( )
 Hazardous to Aquatic Environment
-— Acute Category 1 0,1  %()
-— Chronic Category 1 0,1  %()
-— Chronic Category 2-4 1 %
-(1)Or < 1 % where relevant, see 3.2.3.3.1.(2)Or < 1 % where relevant, see 3.3.3.3.1.(3)Or < 0,1  % where relevant, see 4.1.3.1.
+— Acute Category 1 0,1 % ( )
+— Chronic Category 1 0,1 % ( )
+— Chronic Category 2-4 1 %
+( 1 ) Or < 1 % where relevant, see 3.2.3.3.1.
+( 2 ) Or < 1 % where relevant, see 3.3.3.3.1.
+( 3 ) Or < 0,1 % where relevant, see 4.1.3.1.
 
 ▼M2
 Note:
@@ -1490,10 +1492,10 @@ Table 1.2
 Bridging Principle for changes in the composition of a mixture
 
 Initial concentration range of the constituent Permitted variation in initial concentration of the constituent
-≤ 2,5  % ± 30 %
-2,5  < C ≤ 10 % ± 20 %
-10 < C ≤ 25 % ± 10 %
-25 < C ≤ 100 % ± 5 %
+≤ 2,5  % ± 30 %
+2,5  < C ≤ 10 % ± 20 %
+10 < C ≤ 25 % ± 10 %
+25 < C ≤ 100 % ± 5 %
 
 1.1.3.7.
 Aerosols
@@ -1735,10 +1737,11 @@ Criteria for explosives
 
 Category Criteria
 Unstable explosives or explosives of Divisions 1.1 to 1.6 For explosives of Divisions 1.1 to 1.6, the following are the core set of tests that need to be performed:
-Explosibility: according to UN Test Series 2 (section 12 of the►M4UN RTDG◄, Manual of Tests and Criteria). Intentional explosives()shall not be subject to UN Test Series 2.
-Sensitiveness: according to UN Test Series 3 (section 13 of the►M4UN RTDG◄, Manual of Tests and Criteria).
-Thermal stability: according to UN Test 3(c) (sub-section 13.6.1 of the►M4UN RTDG◄, Manual of Tests and Criteria).Further tests are necessary to allocate the correct Division.
-(1)This comprises substances, mixtures and articles which are manufactured with a view to producing a practical, explosive or pyrotechnic effect.
+Explosibility: according to UN Test Series 2 (section 12 of the ►M4 UN RTDG ◄ , Manual of Tests and Criteria). Intentional explosives ( ) shall not be subject to UN Test Series 2.
+Sensitiveness: according to UN Test Series 3 (section 13 of the ►M4 UN RTDG ◄ , Manual of Tests and Criteria).
+Thermal stability: according to UN Test 3(c) (sub-section 13.6.1 of the ►M4 UN RTDG ◄ , Manual of Tests and Criteria).
+Further tests are necessary to allocate the correct Division.
+( 1 ) This comprises substances, mixtures and articles which are manufactured with a view to producing a practical, explosive or pyrotechnic effect.
 
 2.1.2.4. If explosives are unpackaged or repacked in packaging other than the original or similar packaging, they shall be retested.
 ▼M12
@@ -1837,17 +1840,20 @@ Table 2.2.1
 Criteria for flammable gases
 
 Category Criteria
-1 Gases, which at 20 °C and a standard pressure of 101,3 kPa:(a)  are ignitable when in a mixture of 13 % or less by volume in air; or(b)  have a flammable range with air of at least 12 percentage points regardless of the lower flammable limit.
-2 Gases, other than those of Category 1, which, at 20 °C and a standard pressure of 101,3 kPa, have a flammable range while mixed in air.
-Note:Aerosols shall not be classified as flammable gases; see section 2.3.
+1 Gases, which at 20 °C and a standard pressure of 101,3 kPa:
+(a) are ignitable when in a mixture of 13 % or less by volume in air; or
+(b) have a flammable range with air of at least 12 percentage points regardless of the lower flammable limit.
+2 Gases, other than those of Category 1, which, at 20 °C and a standard pressure of 101,3 kPa, have a flammable range while mixed in air.
+Note:
+Aerosols shall not be classified as flammable gases; see section 2.3.
 
 2.2.2.2. A flammable gas that is also chemically unstable shall additionally be classified in one of the two categories for chemically unstable gases using the methods described in Part III of the UN RTDG, Manual of Tests and Criteria according to the following table:
 Table 2.2.2
 Criteria for chemically unstable gases
 
 Category Criteria
-A Flammable gases which are chemically unstable at 20 °C and a standard pressure of 101,3 kPa
-B Flammable gases which are chemically unstable at a temperature greater than 20 °C and/or a pressure greater than 101,3 kPa
+A Flammable gases which are chemically unstable at 20 °C and a standard pressure of 101,3 kPa
+B Flammable gases which are chemically unstable at a temperature greater than 20 °C and/or a pressure greater than 101,3 kPa
 
 2.2.3.
 Hazard Communication
@@ -1971,7 +1977,7 @@ Classification Category 1
 GHS Pictogram
 Signal Word Danger
 Hazard Statement H270: May cause or intensify fire; oxidiser
-Precautionary StatementPrevention P220P244
+Precautionary StatementPrevention P220 P244
 Precautionary StatementResponse P370 + P376
 Precautionary StatementStorage P403
 Precautionary StatementDisposal
@@ -1996,11 +2002,12 @@ Table 2.5.1
 Criteria for gases under pressure
 
 Group Criteria
-Compressed gas A gas which when packaged under pressure is entirely gaseous at – 50 °C; including all gases with a critical temperature ≤ – 50 °C.
-Liquefied gas A gas which, when packaged under pressure, is partially liquid at temperatures above – 50 °C. A distinction is made between:(i)  high pressure liquefied gas: a gas with a critical temperature between – 50 °C and + 65 °C; and(ii)  low pressure liquefied gas: a gas with a critical temperature above + 65 °C.
+Compressed gas A gas which when packaged under pressure is entirely gaseous at – 50 °C; including all gases with a critical temperature ≤ – 50 °C.
+Liquefied gas A gas which, when packaged under pressure, is partially liquid at temperatures above – 50 °C. A distinction is made between: (i) high pressure liquefied gas: a gas with a critical temperature between – 50 °C and + 65 °C; and (ii) low pressure liquefied gas: a gas with a critical temperature above + 65 °C.
 Refrigerated liquefied gas A gas which when packaged is made partially liquid because of its low temperature.
 Dissolved gas A gas which when packaged under pressure is dissolved in a liquid phase solvent.
-Note:Aerosols shall not be classified as gases under pressure. See section 2.3.
+Note:
+Aerosols shall not be classified as gases under pressure. See section 2.3.
 
 ▼B
 2.5.3.
@@ -2054,10 +2061,10 @@ Table 2.6.1
 Criteria for flammable liquids
 
 Category Criteria
-1 Flash point < 23oC and initial boiling point ≤ 35oC
-2 Flash point < 23oC and initial boiling point > 35oC
-3 Flash point ≥ 23oC and ≤ 60oC()
-(1)For the purpose of this Regulation gas oils, diesel and light heating oils having a flash point between ≥ 55oC and ≤ 75oC may be regarded as Category 3.
+1 Flash point < 23 o C and initial boiling point ≤ 35 o C
+2 Flash point < 23 o C and initial boiling point > 35 o C
+3 Flash point ≥ 23 o C and ≤ 60 o C ( )
+( 1 ) For the purpose of this Regulation gas oils, diesel and light heating oils having a flash point between ≥ 55 o C and ≤ 75 o C may be regarded as Category 3.
 
 ▼M2
 Note:
@@ -2096,17 +2103,22 @@ the liquid phase is homogeneous.
 Table 2.6.3
 Methods for determining the flash point of flammable liquids
 
-European standards: EN ISO 1516 as amendedDetermination of flash/no flash — Closed cup equilibrium method
-EN ISO 1523 as amendedDetermination of flash point — Closed cup equilibrium method
-EN ISO 2719 as amendedDetermination of flash point — Pensky-Martens closed cup method
-EN ISO 3679 as amendedDetermination of flash point — Rapid equilibrium closed cup method
-EN ISO 3680 as amendedDetermination of flash/no flash — Rapid equilibrium closed cup method
-EN ISO 13736 as amendedPetroleum products and other liquids — Determination of flash point — Abel closed cup method
+European standards: EN ISO 1516 as amended Determination of flash/no flash — Closed cup equilibrium method
+EN ISO 1523 as amended
+Determination of flash point — Closed cup equilibrium method
+EN ISO 2719 as amended
+Determination of flash point — Pensky-Martens closed cup method
+EN ISO 3679 as amended
+Determination of flash point — Rapid equilibrium closed cup method
+EN ISO 3680 as amended
+Determination of flash/no flash — Rapid equilibrium closed cup method
+EN ISO 13736 as amended
+Petroleum products and other liquids — Determination of flash point — Abel closed cup method
 National standards:
-Association française de normalisation, AFNOR: NF M07-036 as amendedDétermination du point d'éclair — Vase clos Abel-Pensky(identical to DIN 51755)
-▼M2—————
+Association française de normalisation, AFNOR: NF M07-036 as amended Détermination du point d'éclair — Vase clos Abel-Pensky (identical to DIN 51755)
+▼M2 —————
 ▼B
-Deutsches Institut für Normung DIN 51755 (flash points below 65 C) as amended Prüfung von Mineralölen und anderen brennbaren Flüssigkeiten; Bestimmung des Flammpunktes im geschlossenen Tiegel, nach Abel-Pensky(identical to NF M07-036)
+Deutsches Institut für Normung DIN 51755 (flash points below 65 C) as amended Prüfung von Mineralölen und anderen brennbaren Flüssigkeiten; Bestimmung des Flammpunktes im geschlossenen Tiegel, nach Abel-Pensky (identical to NF M07-036)
 
 ▼M2
 2.6.4.5 Liquids with a flash point of more than 35 °C and not more than 60 °C need not be classified in Category 3 if negative results have been obtained in the sustained combustibility test L.2, Part III, section 32 of the UN RTDG, Manual of Tests and Criteria.
@@ -2115,11 +2127,13 @@ Deutsches Institut für Normung DIN 51755 (flash points below 65 C) as amended P
 Table 2.6.4
 Methods for determining the initial boiling point of flammable liquids
 
-European standards: EN ISO 3405 as amendedPetroleum products — Determination of distillation characteristics at atmospheric pressure
-EN ISO 3924 as amendedPetroleum products — Determination of boiling range distribution — Gas chromatography method
-EN ISO 4626 as amendedVolatile organic liquids — Determination of boiling range of organic solvents used as raw materials
+European standards: EN ISO 3405 as amended Petroleum products — Determination of distillation characteristics at atmospheric pressure
+EN ISO 3924 as amended
+Petroleum products — Determination of boiling range distribution — Gas chromatography method
+EN ISO 4626 as amended
+Volatile organic liquids — Determination of boiling range of organic solvents used as raw materials
 Regulation (EC) No 440/2008(1) Method A.2 as described in Part A of the Annex to Regulation (EC) No 440/2008
-(1)OJ L 142, 31.5.2008, p. 1.
+( 1 ) OJ L 142, 31.5.2008, p. 1.
 
 ▼B
 2.7.
@@ -2137,8 +2151,18 @@ Table 2.7.1
 Criteria for flammable solids
 
 Category Criteria
-1 Burning rate testSubstances and mixtures other than metal powders:(a)  wetted zone does not stop fire and(b)  burning time < 45 seconds or burning rate > 2,2  mm/sMetal powdersburning time ≤ 5 minutes
-2 Burning rate testSubstances and mixtures other than metal powders:(a)  wetted zone stops the fire for at least 4 minutes and(b)  burning time < 45 seconds or burning rate > 2,2  mm/sMetal powdersburning time > 5 minutes and ≤ 10 minutes
+1 Burning rate test
+Substances and mixtures other than metal powders:
+(a) wetted zone does not stop fire and
+(b) burning time < 45 seconds or burning rate > 2,2 mm/s
+Metal powders
+burning time ≤ 5 minutes
+2 Burning rate test
+Substances and mixtures other than metal powders:
+(a) wetted zone stops the fire for at least 4 minutes and
+(b) burning time < 45 seconds or burning rate > 2,2 mm/s
+Metal powders
+burning time > 5 minutes and ≤ 10 minutes
 
 ▼M2
 Note 1:
@@ -2269,12 +2293,12 @@ Label elements shall be used for substances or mixtures meeting the criteria for
 Table 2.9.2
 Label elements for pyrophoric liquids
 
-Classification Category 1
+Classification Category 1
 GHS Pictogram
 Signal Word Danger
 Hazard Statement H250: Catches fire spontaneously if exposed to air
-Precautionary Statement Prevention P210P222P231 + P232P233P280
-Precautionary Statement Response P302 + P334P370 + P378
+Precautionary Statement Prevention P210 P222 P231 + P232 P233 P280
+Precautionary Statement Response P302 + P334 P370 + P378
 Precautionary Statement Storage
 Precautionary Statement Disposal
 
@@ -2305,12 +2329,12 @@ Label elements shall be used for substances or mixtures meeting the criteria for
 Table 2.10.2
 Label elements for pyrophoric solids
 
-Classification Category 1
+Classification Category 1
 GHS Pictogram
 Signal Word Danger
 Hazard Statement H250: Catches fire spontaneously if exposed to air
-Precautionary Statement Prevention P210P222P231 + P232P233P280
-Precautionary Statement Response P302 + P335 + P334P370 +P378
+Precautionary Statement Prevention P210 P222 P231 + P232 P233 P280
+Precautionary Statement Response P302 + P335 + P334 P370 +P378
 Precautionary Statement Storage
 Precautionary Statement Disposal
 
@@ -2342,8 +2366,10 @@ Table 2.11.1
 Criteria for self-heating substances and mixtures
 
 Category Criteria
-1 A positive result is obtained in a test using a 25 mm sample cube at 140oC
-2 (a)  a positive result is obtained in a test using a 100 mm sample cube at 140oC and a negative result is obtained in a test using a 25 mm cube sample at 140oC and the substance or mixture is to be packed in packages with a volume of more than 3 m3; or(b)  a positive result is obtained in a test using a 100 mm sample cube at 140oC and a negative result is obtained in a test using a 25 mm cube sample at 140oC, a positive result is obtained in a test using a 100 mm cube sample at 120oC and the substance or mixture is to be packed in packages with a volume of more than 450 litres; or(c)  a positive result is obtained in a test using a 100 mm sample cube at 140oC and a negative result is obtained in a test using a 25 mm cube sample at 140oC and a positive result is obtained in a test using a 100 mm cube sample at 100oC.
+1 A positive result is obtained in a test using a 25 mm sample cube at 140 o C
+2 (a) a positive result is obtained in a test using a 100 mm sample cube at 140 o C and a negative result is obtained in a test using a 25 mm cube sample at 140 o C and the substance or mixture is to be packed in packages with a volume of more than 3 m 3 ; or
+(b) a positive result is obtained in a test using a 100 mm sample cube at 140 o C and a negative result is obtained in a test using a 25 mm cube sample at 140 o C, a positive result is obtained in a test using a 100 mm cube sample at 120 o C and the substance or mixture is to be packed in packages with a volume of more than 450 litres; or
+(c) a positive result is obtained in a test using a 100 mm sample cube at 140 o C and a negative result is obtained in a test using a 25 mm cube sample at 140 o C and a positive result is obtained in a test using a 100 mm cube sample at 100 o C.
 
 Note
 The test shall be performed on the substance or mixture in its physical form as presented. If, for example, for the purposes of supply or transport, the same chemical is to be presented in a physical form different from that which was tested and which is considered likely to materially alter its performance in a classification test, the substance shall also be tested in the new form.
@@ -2435,9 +2461,9 @@ Table 2.13.1
 Criteria for oxidising liquids
 
 Category Criteria
-1 Any substance or mixture which, in the 1:1 mixture, by mass, of substance (or mixture) and cellulose tested, spontaneously ignites; or the mean pressure rise time of a 1:1 mixture, by mass, of substance (or mixture) and cellulose is less than that of a 1:1 mixture, by mass, of 50 % perchloric acid and cellulose.
-2 Any substance or mixture which, in the 1:1 mixture, by mass, of substance (or mixture) and cellulose tested, exhibits a mean pressure rise time less than or equal to the mean pressure rise time of a 1:1 mixture, by mass, of 40 % aqueous sodium chlorate solution and cellulose; and the criteria for Category 1 are not met.
-3 Any substance or mixture which, in the 1:1 mixture, by mass, of substance (or mixture) and cellulose tested, exhibits a mean pressure rise time less than or equal to the mean pressure rise time of a 1:1 mixture, by mass, of 65 % aqueous nitric acid and cellulose; and the criteria for Category 1 and 2 are not met.
+1 Any substance or mixture which, in the 1:1 mixture, by mass, of substance (or mixture) and cellulose tested, spontaneously ignites; or the mean pressure rise time of a 1:1 mixture, by mass, of substance (or mixture) and cellulose is less than that of a 1:1 mixture, by mass, of 50 % perchloric acid and cellulose.
+2 Any substance or mixture which, in the 1:1 mixture, by mass, of substance (or mixture) and cellulose tested, exhibits a mean pressure rise time less than or equal to the mean pressure rise time of a 1:1 mixture, by mass, of 40 % aqueous sodium chlorate solution and cellulose; and the criteria for Category 1 are not met.
+3 Any substance or mixture which, in the 1:1 mixture, by mass, of substance (or mixture) and cellulose tested, exhibits a mean pressure rise time less than or equal to the mean pressure rise time of a 1:1 mixture, by mass, of 65 % aqueous nitric acid and cellulose; and the criteria for Category 1 and 2 are not met.
 
 2.13.3.
 Hazard Communication
@@ -2632,7 +2658,7 @@ Table 2.16.1
 Criteria for substances and mixtures corrosive to metals
 
 Category Criteria
-1 Corrosion rate on either steel or aluminium surfaces exceeding 6,25  mm per year at a test temperature of 55oC when tested on both materials.
+1 Corrosion rate on either steel or aluminium surfaces exceeding 6,25 mm per year at a test temperature of 55 o C when tested on both materials.
 
 Note
 Where an initial test on either steel or aluminium indicates the substance or mixture being tested is corrosive the follow up test on the other metal is not required.
@@ -2891,11 +2917,11 @@ Table 3.2.1
 Skin corrosion category and sub-categories
 
 Category Criteria
-Category 1(1) Destruction of skin tissue, namely, visible necrosis through the epidermis and into the dermis, in at least one tested animal after exposure ≤ 4 h
-Sub-Category 1A Corrosive responses in at least one animal following exposure ≤ 3 min during an observation period ≤ 1 h
-Sub-Category 1B Corrosive responses in at least one animal following exposure > 3 min and ≤ 1 h and observations ≤ 14 days
-Sub-Category 1C Corrosive responses in at least one animal after exposures > 1 h and ≤ 4 h and observations ≤ 14 days
-(1)See the conditions for the use of Category 1 in paragraph (a) of Section 3.2.2.
+Category 1(1) Destruction of skin tissue, namely, visible necrosis through the epidermis and into the dermis, in at least one tested animal after exposure ≤ 4 h
+Sub-Category 1A Corrosive responses in at least one animal following exposure ≤ 3 min during an observation period ≤ 1 h
+Sub-Category 1B Corrosive responses in at least one animal following exposure > 3 min and ≤ 1 h and observations ≤ 14 days
+Sub-Category 1C Corrosive responses in at least one animal after exposures > 1 h and ≤ 4 h and observations ≤ 14 days
+( 1 ) See the conditions for the use of Category 1 in paragraph (a) of Section 3.2.2.
 
 3.2.2.1.1.5. The use of human data is discussed in Sections 3.2.1.2 and 3.2.2.2 and also in Sections 1.1.1.3, 1.1.1.4 and 1.1.1.5.
 3.2.2.1.2.
@@ -2908,8 +2934,8 @@ Table 3.2.2
 Skin irritation category ( )
 
 Category Criteria
-Irritation (Category 2) (1)  Mean score of ≥ 2,3 and ≤ 4,0 for erythema/eschar or for oedema in at least 2 of 3 tested animals from gradings at 24, 48 and 72 hours after patch removal or, if reactions are delayed, from grades on 3 consecutive days after the onset of skin reactions; or(2)  Inflammation that persists to the end of the observation period normally 14 days in at least 2 animals, particularly taking into account alopecia (limited area), hyperkeratosis, hyperplasia, and scaling reactions; or(3)  In some cases where there is pronounced variability of response among animals, with very definite positive effects related to chemical exposure in a single animal but less than the criteria above .
-(1)Grading criteria are understood as described in Regulation (EC) No 440/2008.
+Irritation (Category 2) (1) Mean score of ≥ 2,3 and ≤ 4,0 for erythema/eschar or for oedema in at least 2 of 3 tested animals from gradings at 24, 48 and 72 hours after patch removal or, if reactions are delayed, from grades on 3 consecutive days after the onset of skin reactions; or (2) Inflammation that persists to the end of the observation period normally 14 days in at least 2 animals, particularly taking into account alopecia (limited area), hyperkeratosis, hyperplasia, and scaling reactions; or (3) In some cases where there is pronounced variability of response among animals, with very definite positive effects related to chemical exposure in a single animal but less than the criteria above .
+( 1 ) Grading criteria are understood as described in Regulation (EC) No 440/2008.
 
 3.2.2.1.2.5. The use of human data is discussed in Sections 3.2.1.2 and 3.2.2.2 and also in Sections 1.1.1.3, 1.1.1.4 and 1.1.1.5.
 3.2.2.2.
@@ -3028,8 +3054,8 @@ Table 3.3.1
 Serious eye damage ( )
 
 Category Criteria
-Category 1 A substance that produces:(a)  in at least one animal effects on the cornea, iris or conjunctiva that are not expected to reverse or have not fully reversed within an observation period of normally 21 days; and/or(b)  in at least 2 of 3 tested animals, a positive response of:(i)  corneal opacity ≥ 3; and/or(ii)  iritis > 1,5;calculated as the mean scores following grading at 24, 48 and 72 hours after instillation of the test material.
-(1)Grading criteria are understood as described in Regulation (EC) No 440/2008.
+Category 1 A substance that produces: (a) in at least one animal effects on the cornea, iris or conjunctiva that are not expected to reverse or have not fully reversed within an observation period of normally 21 days; and/or (b) in at least 2 of 3 tested animals, a positive response of: (i) corneal opacity ≥ 3; and/or (ii) iritis > 1,5; calculated as the mean scores following grading at 24, 48 and 72 hours after instillation of the test material.
+( 1 ) Grading criteria are understood as described in Regulation (EC) No 440/2008.
 
 3.3.2.1.2.
 Eye irritation (Category 2)
@@ -3040,8 +3066,8 @@ Table 3.3.2
 Eye irritation ( )
 
 Category Criteria
-Category 2 Substances that produce in at least 2 of 3 tested animals a positive response of:(a)  corneal opacity ≥ 1; and/or(b)  iritis ≥ 1; and/or(c)  conjunctival redness ≥ 2; and/or(d)  conjunctival oedema (chemosis) ≥ 2calculated as the mean scores following grading at 24, 48 and 72 hours after instillation of the test material, and which fully reverses within an observation period of normally 21 days.
-(1)Grading criteria are understood as described in Regulation (EC) No 440/2008.
+Category 2 Substances that produce in at least 2 of 3 tested animals a positive response of: (a) corneal opacity ≥ 1; and/or (b) iritis ≥ 1; and/or (c) conjunctival redness ≥ 2; and/or (d) conjunctival oedema (chemosis) ≥ 2 calculated as the mean scores following grading at 24, 48 and 72 hours after instillation of the test material, and which fully reverses within an observation period of normally 21 days.
+( 1 ) Grading criteria are understood as described in Regulation (EC) No 440/2008.
 
 3.3.2.2.
 Classification in a tiered approach
@@ -3166,10 +3192,10 @@ Table 3.4.1
 Hazard category and sub-categories for respiratory sensitisers
 
 Category Criteria
-Category 1 Substances shall be classified as respiratory sensitisers (Category 1) where data are not sufficient for sub-categorisation in accordance with the following criteria:(a)  if there is evidence in humans that the substance can lead to specific respiratory hypersensitivity; and/or(b)  if there are positive results from an appropriate animal test.
-Sub-category 1A: Substances showing a high frequency of occurrence in humans; or a probability of occurrence of a high sensitisation rate in humans based on animal or other tests(1). Severity of reaction may also be considered.
-Sub-category 1B: Substances showing a low to moderate frequency of occurrence in humans; or a probability of occurrence of a low to moderate sensitisation rate in humans based on animal or other tests(1). Severity of reaction may also be considered.
-(1)At present, recognised and validated animal models for the testing of respiratory hypersensitivity are not available. Under certain circumstances, data from animal studies may provide valuable information in a weight of evidence assessment.
+Category 1 Substances shall be classified as respiratory sensitisers (Category 1) where data are not sufficient for sub-categorisation in accordance with the following criteria: (a) if there is evidence in humans that the substance can lead to specific respiratory hypersensitivity; and/or (b) if there are positive results from an appropriate animal test.
+Sub-category 1A: Substances showing a high frequency of occurrence in humans; or a probability of occurrence of a high sensitisation rate in humans based on animal or other tests ( 1 ) . Severity of reaction may also be considered.
+Sub-category 1B: Substances showing a low to moderate frequency of occurrence in humans; or a probability of occurrence of a low to moderate sensitisation rate in humans based on animal or other tests ( 1 ) . Severity of reaction may also be considered.
+( 1 ) At present, recognised and validated animal models for the testing of respiratory hypersensitivity are not available. Under certain circumstances, data from animal studies may provide valuable information in a weight of evidence assessment.
 
 3.4.2.1.2.
 Human evidence
@@ -3224,7 +3250,7 @@ Table 3.4.2
 Hazard category and sub-categories for skin sensitisers
 
 Category Criteria
-Category 1 Substances shall be classified as skin sensitisers (Category 1) where data are not sufficient for sub-categorisation in accordance with the following criteria:(a)  if there is evidence in humans that the substance can lead to sensitisation by skin contact in a substantial number of persons; or(b)  if there are positive results from an appropriate animal test (see specific criteria in section 3.4.2.2.4.1).
+Category 1 Substances shall be classified as skin sensitisers (Category 1) where data are not sufficient for sub-categorisation in accordance with the following criteria: (a) if there is evidence in humans that the substance can lead to sensitisation by skin contact in a substantial number of persons; or (b) if there are positive results from an appropriate animal test (see specific criteria in section 3.4.2.2.4.1).
 Sub-category 1A: Substances showing a high frequency of occurrence in humans and/or a high potency in animals can be presumed to have the potential to produce significant sensitisation in humans. Severity of reaction may also be considered.
 Sub-category 1B: Substances showing a low to moderate frequency of occurrence in humans and/or a low to moderate potency in animals can be presumed to have the potential to produce sensitisation in humans. Severity of reaction may also be considered.
 
@@ -3257,9 +3283,9 @@ Table 3.4.3
 Animal test results for sub-category 1A
 
 Assay Criteria
-Local lymph node assay EC3 value ≤ 2 %
-Guinea pig maximisation test ≥ 30 % responding at ≤ 0,1 % intradermal induction dose or≥ 60 % responding at > 0,1 % to ≤ 1 % intradermal induction dose
-Buehler assay ≥ 15 % responding at ≤ 0,2 % topical induction dose or≥ 60 % responding at > 0,2 % to ≤ 20 % topical induction dose
+Local lymph node assay EC3 value ≤ 2 %
+Guinea pig maximisation test ≥ 30 % responding at ≤ 0,1 % intradermal induction dose or ≥ 60 % responding at > 0,1 % to ≤ 1 % intradermal induction dose
+Buehler assay ≥ 15 % responding at ≤ 0,2 % topical induction dose or ≥ 60 % responding at > 0,2 % to ≤ 20 % topical induction dose
 
 3.4.2.2.3.3.
 Animal test results for sub-category 1B can include data with values indicated in Table 3.4.4 below:
@@ -3267,9 +3293,9 @@ Table 3.4.4
 Animal test results for sub-category 1B
 
 Assay Criteria
-Local lymph node assay EC3 value > 2 %
-Guinea pig maximisation test ≥ 30 % to < 60 % responding at > 0,1 % to ≤ 1 % intradermal induction dose or≥ 30 % responding at > 1 % intradermal induction dose
-Buehler assay ≥ 15 % to < 60 % responding at > 0,2 % to ≤ 20 % topical induction dose or≥ 15 % responding at > 20 % topical induction dose
+Local lymph node assay EC3 value > 2 %
+Guinea pig maximisation test ≥ 30 % to < 60 % responding at > 0,1 % to ≤ 1 % intradermal induction dose or ≥ 30 % responding at > 1 % intradermal induction dose
+Buehler assay ≥ 15 % to < 60 % responding at > 0,2 % to ≤ 20 % topical induction dose or ≥ 15 % responding at > 20 % topical induction dose
 
 3.4.2.2.4.
 Specific considerations
@@ -3386,10 +3412,10 @@ Table 3.5.1
 Hazard categories for germ cell mutagens
 
 Categories Criteria
-CATEGORY 1: Substances known to induce heritable mutations or to be regarded as if they induce heritable mutations in the germ cells of humans.Substances known to induce heritable mutations in the germ cells of humans.
-Category 1A: The classification in Category 1A is based on positive evidence from human epidemiological studies.Substances to be regarded as if they induce heritable mutations in the germ cells of humans.
-Category 1B: The classification in Category 1B is based on:— positive result(s) from in vivo heritable germ cell mutagenicity tests in mammals; or— positive result(s) from in vivo somatic cell mutagenicity tests in mammals, in combination with some evidence that the substance has potential to cause mutations to germ cells. It is possible to derive this supporting evidence from mutagenicity/genotoxicity tests in germ cells in vivo, or by demonstrating the ability of the substance or its metabolite(s) to interact with the genetic material of germ cells; or— positive results from tests showing mutagenic effects in the germ cells of humans, without demonstration of transmission to progeny; for example, an increase in the frequency of aneuploidy in sperm cells of exposed people.
-CATEGORY 2: Substances which cause concern for humans owing to the possibility that they may induce heritable mutations in the germ cells of humansThe classification in Category 2 is based on:— positive evidence obtained from experiments in mammals and/or in some cases from in vitro experiments, obtained from:—— somatic cell mutagenicity tests in vivo, in mammals; or— other in vivo somatic cell genotoxicity tests which are supported by positive results from in vitro mutagenicity assays.Note: Substances which are positive in in vitro mammalian mutagenicity assays, and which also show chemical structure activity relationship to known germ cell mutagens, shall be considered for classification as Category 2 mutagens.
+CATEGORY 1: Substances known to induce heritable mutations or to be regarded as if they induce heritable mutations in the germ cells of humans. Substances known to induce heritable mutations in the germ cells of humans.
+Category 1A: The classification in Category 1A is based on positive evidence from human epidemiological studies. Substances to be regarded as if they induce heritable mutations in the germ cells of humans.
+Category 1B: The classification in Category 1B is based on: — positive result(s) from in vivo heritable germ cell mutagenicity tests in mammals; or — positive result(s) from in vivo somatic cell mutagenicity tests in mammals, in combination with some evidence that the substance has potential to cause mutations to germ cells. It is possible to derive this supporting evidence from mutagenicity/genotoxicity tests in germ cells in vivo, or by demonstrating the ability of the substance or its metabolite(s) to interact with the genetic material of germ cells; or — positive results from tests showing mutagenic effects in the germ cells of humans, without demonstration of transmission to progeny; for example, an increase in the frequency of aneuploidy in sperm cells of exposed people.
+CATEGORY 2: Substances which cause concern for humans owing to the possibility that they may induce heritable mutations in the germ cells of humans The classification in Category 2 is based on: — positive evidence obtained from experiments in mammals and/or in some cases from in vitro experiments, obtained from: — — somatic cell mutagenicity tests in vivo, in mammals; or — other in vivo somatic cell genotoxicity tests which are supported by positive results from in vitro mutagenicity assays. Note: Substances which are positive in in vitro mammalian mutagenicity assays, and which also show chemical structure activity relationship to known germ cell mutagens, shall be considered for classification as Category 2 mutagens.
 
 3.5.2.3.
 Specific considerations for classification of substances as germ cell mutagens
@@ -3494,13 +3520,15 @@ Table 3.6.1
 Hazard categories for carcinogens
 
 Categories Criteria
-CATEGORY 1: Known or presumed human carcinogensA substance is classified in Category 1 for carcinogenicity on the basis of epidemiological and/or animal data. A substance may be further distinguished as:
+CATEGORY 1: Known or presumed human carcinogens A substance is classified in Category 1 for carcinogenicity on the basis of epidemiological and/or animal data. A substance may be further distinguished as:
 Category 1A: Category 1A, known to have carcinogenic potential for humans, classification is largely based on human evidence, or
 Category 1B: Category 1B, presumed to have carcinogenic potential for humans, classification is largely based on animal evidence.
-The classification in Category 1A and 1B is based on strength of evidence together with additional considerations (see section 3.6.2.2). Such evidence may be derived from:— human studies that establish a causal relationship between human exposure to a substance and the development of cancer (known human carcinogen); or— animal experiments for which there is sufficient()evidence to demonstrate animal carcinogenicity (presumed human carcinogen).
+The classification in Category 1A and 1B is based on strength of evidence together with additional considerations (see section 3.6.2.2). Such evidence may be derived from:
+— human studies that establish a causal relationship between human exposure to a substance and the development of cancer (known human carcinogen); or
+— animal experiments for which there is sufficient ( ) evidence to demonstrate animal carcinogenicity (presumed human carcinogen).
 In addition, on a case-by-case basis, scientific judgement may warrant a decision of presumed human carcinogenicity derived from studies showing limited evidence of carcinogenicity in humans together with limited evidence of carcinogenicity in experimental animals.
-CATEGORY 2: Suspected human carcinogensThe placing of a substance in Category 2 is done on the basis of evidence obtained from human and/or animal studies, but which is not sufficiently convincing to place the substance in Category 1A or 1B, based on strength of evidence together with additional considerations (see section 3.6.2.2). Such evidence may be derived either from limited()evidence of carcinogenicity in human studies or from limited evidence of carcinogenicity in animal studies.
-(1)Note: See 3.6.2.2.4.
+CATEGORY 2: Suspected human carcinogens The placing of a substance in Category 2 is done on the basis of evidence obtained from human and/or animal studies, but which is not sufficiently convincing to place the substance in Category 1A or 1B, based on strength of evidence together with additional considerations (see section 3.6.2.2). Such evidence may be derived either from limited ( ) evidence of carcinogenicity in human studies or from limited evidence of carcinogenicity in animal studies.
+( 1 ) Note: See 3.6.2.2.4.
 
 3.6.2.2.
 Specific considerations for classification of substances as carcinogens
@@ -3632,16 +3660,19 @@ Table 3.7.1(a)
 Hazard categories for reproductive toxicants
 
 Categories Criteria
-CATEGORY 1 Known or presumed human reproductive toxicantSubstances are classified in Category 1 for reproductive toxicity when they are known to have produced an adverse effect on sexual function and fertility, or on development in humans or when there is evidence from animal studies, possibly supplemented with other information, to provide a strong presumption that the substance has the capacity to interfere with reproduction in humans. The classification of a substance is further distinguished on the basis of whether the evidence for classification is primarily from human data (Category 1A) or from animal data (Category 1B).
-Category 1A Known human reproductive toxicantThe classification of a substance in Category 1A is largely based on evidence from humans.
-Category 1B Presumed human reproductive toxicantThe classification of a substance in Category 1B is largely based on data from animal studies. Such data shall provide clear evidence of an adverse effect on sexual function and fertility or on development in the absence of other toxic effects, or if occurring together with other toxic effects the adverse effect on reproduction is considered not to be a secondary non-specific consequence of other toxic effects. However, when there is mechanistic information that raises doubt about the relevance of the effect for humans, classification in Category 2 may be more appropriate.
-CATEGORY 2 Suspected human reproductive toxicantSubstances are classified in Category 2 for reproductive toxicity when there is some evidence from humans or experimental animals, possibly supplemented with other information, of an adverse effect on sexual function and fertility, or on development, and where the evidence is not sufficiently convincing to place the substance in Category 1. If deficiencies in the study make the quality of evidence less convincing, Category 2 could be the more appropriate classification.Such effects shall have been observed in the absence of other toxic effects, or if occurring together with other toxic effects the adverse effect on reproduction is considered not to be a secondary non-specific consequence of the other toxic effects.
+CATEGORY 1 Known or presumed human reproductive toxicant Substances are classified in Category 1 for reproductive toxicity when they are known to have produced an adverse effect on sexual function and fertility, or on development in humans or when there is evidence from animal studies, possibly supplemented with other information, to provide a strong presumption that the substance has the capacity to interfere with reproduction in humans. The classification of a substance is further distinguished on the basis of whether the evidence for classification is primarily from human data (Category 1A) or from animal data (Category 1B).
+Category 1A Known human reproductive toxicant The classification of a substance in Category 1A is largely based on evidence from humans.
+Category 1B Presumed human reproductive toxicant The classification of a substance in Category 1B is largely based on data from animal studies. Such data shall provide clear evidence of an adverse effect on sexual function and fertility or on development in the absence of other toxic effects, or if occurring together with other toxic effects the adverse effect on reproduction is considered not to be a secondary non-specific consequence of other toxic effects. However, when there is mechanistic information that raises doubt about the relevance of the effect for humans, classification in Category 2 may be more appropriate.
+CATEGORY 2 Suspected human reproductive toxicant Substances are classified in Category 2 for reproductive toxicity when there is some evidence from humans or experimental animals, possibly supplemented with other information, of an adverse effect on sexual function and fertility, or on development, and where the evidence is not sufficiently convincing to place the substance in Category 1. If deficiencies in the study make the quality of evidence less convincing, Category 2 could be the more appropriate classification. Such effects shall have been observed in the absence of other toxic effects, or if occurring together with other toxic effects the adverse effect on reproduction is considered not to be a secondary non-specific consequence of the other toxic effects.
 
 Table 3.7.1(b)
 Hazard category for lactation effects
 
 EFFECTS ON OR VIA LACTATION
-Effects on or via lactation are allocated to a separate single category. It is recognised that for many substances there is no information on the potential to cause adverse effects on the offspring via lactation. However, substances which are absorbed by women and have been shown to interfere with lactation, or which may be present (including metabolites) in breast milk in amounts sufficient to cause concern for the health of a breastfed child, shall be classified and labelled to indicate this property hazardous to breastfed babies. This classification can be assigned on the:(a)  human evidence indicating a hazard to babies during the lactation period; and/or(b)  results of one or two generation studies in animals which provide clear evidence of adverse effect in the offspring due to transfer in the milk or adverse effect on the quality of the milk; and/or(c)  absorption, metabolism, distribution and excretion studies that indicate the likelihood that the substance is present in potentially toxic levels in breast milk.
+Effects on or via lactation are allocated to a separate single category. It is recognised that for many substances there is no information on the potential to cause adverse effects on the offspring via lactation. However, substances which are absorbed by women and have been shown to interfere with lactation, or which may be present (including metabolites) in breast milk in amounts sufficient to cause concern for the health of a breastfed child, shall be classified and labelled to indicate this property hazardous to breastfed babies. This classification can be assigned on the:
+(a) human evidence indicating a hazard to babies during the lactation period; and/or
+(b) results of one or two generation studies in animals which provide clear evidence of adverse effect in the offspring due to transfer in the milk or adverse effect on the quality of the milk; and/or
+(c) absorption, metabolism, distribution and excretion studies that indicate the likelihood that the substance is present in potentially toxic levels in breast milk.
 
 3.7.2.2.
 Basis of classification
@@ -3772,10 +3803,10 @@ Table 3.8.1
 Categories for specific target organ toxicity-single exposure
 
 Categories Criteria
-Category 1 Substances that have produced significant toxicity in humans or that, on the basis of evidence from studies in experimental animals, can be presumed to have the potential to produce significant toxicity in humans following single exposureSubstances are classified in Category 1 for specific target organ toxicity (single exposure) on the basis of:(a)  reliable and good quality evidence from human cases or epidemiological studies; or(b)  observations from appropriate studies in experimental animals in which significant and/or severe toxic effects of relevance to human health were produced at generally low exposure concentrations. Guidance dose/concentration values are provided below (see 3.8.2.1.9) to be used as part of weight-of-evidence evaluation.
-Category 2 Substances that, on the basis of evidence from studies in experimental animals can be presumed to have the potential to be harmful to human health following single exposureSubstances are classified in Category 2 for specific target organ toxicity (single exposure) on the basis of observations from appropriate studies in experimental animals in which significant toxic effects, of relevance to human health, were produced at generally moderate exposure concentrations. Guidance dose/concentration values are provided below (see 3.8.2.1.9) in order to help in classification.In exceptional cases, human evidence can also be used to place a substance in Category 2 (see 3.8.2.1.6).
-Category 3 Transient target organ effectsThis category only includes narcotic effects and respiratory tract irritation. These are target organ effects for which a substance does not meet the criteria to be classified in Categories 1 or 2 indicated above. These are effects which adversely alter human function for a short duration after exposure and from which humans may recover in a reasonable period without leaving significant alteration of structure or function. Substances are classified specifically for these effects as laid down in 3.8.2.2.
-Note:Attempts shall be made to determine the primary target organ of toxicity and to classify for that purpose, such as hepatotoxicants, neurotoxicants. The data shall be carefully evaluated and, where possible, secondary effects should not be included (e.g. a hepatotoxicant can produce secondary effects in the nervous or gastro-intestinal systems).
+Category 1 Substances that have produced significant toxicity in humans or that, on the basis of evidence from studies in experimental animals, can be presumed to have the potential to produce significant toxicity in humans following single exposure Substances are classified in Category 1 for specific target organ toxicity (single exposure) on the basis of: (a) reliable and good quality evidence from human cases or epidemiological studies; or (b) observations from appropriate studies in experimental animals in which significant and/or severe toxic effects of relevance to human health were produced at generally low exposure concentrations. Guidance dose/concentration values are provided below (see 3.8.2.1.9) to be used as part of weight-of-evidence evaluation.
+Category 2 Substances that, on the basis of evidence from studies in experimental animals can be presumed to have the potential to be harmful to human health following single exposure Substances are classified in Category 2 for specific target organ toxicity (single exposure) on the basis of observations from appropriate studies in experimental animals in which significant toxic effects, of relevance to human health, were produced at generally moderate exposure concentrations. Guidance dose/concentration values are provided below (see 3.8.2.1.9) in order to help in classification. In exceptional cases, human evidence can also be used to place a substance in Category 2 (see 3.8.2.1.6).
+Category 3 Transient target organ effects This category only includes narcotic effects and respiratory tract irritation. These are target organ effects for which a substance does not meet the criteria to be classified in Categories 1 or 2 indicated above. These are effects which adversely alter human function for a short duration after exposure and from which humans may recover in a reasonable period without leaving significant alteration of structure or function. Substances are classified specifically for these effects as laid down in 3.8.2.2.
+Note: Attempts shall be made to determine the primary target organ of toxicity and to classify for that purpose, such as hepatotoxicants, neurotoxicants. The data shall be carefully evaluated and, where possible, secondary effects should not be included (e.g. a hepatotoxicant can produce secondary effects in the nervous or gastro-intestinal systems).
 
 3.8.2.
 Classification criteria for substances
@@ -3936,8 +3967,8 @@ Table 3.9.1
 Categories for specific target organ toxicity-repeated exposure
 
 Categories Criteria
-Category 1 Substances that have produced significant toxicity in humans or that, on the basis of evidence from studies in experimental animals, can be presumed to have the potential to produce significant toxicity in humans following repeated exposure.Substances are classified in Category 1 for target organ toxicity (repeat exposure) on the basis of:— reliable and good quality evidence from human cases or epidemiological studies; or— observations from appropriate studies in experimental animals in which significant and/or severe toxic effects, of relevance to human health, were produced at generally low exposure concentrations. Guidance dose/concentration values are provided below (see 3.9.2.9), to be used as part of a weight-of- evidence evaluation.
-Category 2 Substances that, on the basis of evidence from studies in experimental animals can be presumed to have the potential to be harmful to human health following repeated exposure.Substances are classified in category 2 for target organ toxicity (repeat exposure) on the basis of observations from appropriate studies in experimental animals in which significant toxic effects, of relevance to human health, were produced at generally moderate exposure concentrations. Guidance dose/concentration values are provided below (see 3.9.2.9) in order to help in classification.In exceptional cases human evidence can also be used to place a substance in Category 2 (see 3.9.2.6).
+Category 1 Substances that have produced significant toxicity in humans or that, on the basis of evidence from studies in experimental animals, can be presumed to have the potential to produce significant toxicity in humans following repeated exposure. Substances are classified in Category 1 for target organ toxicity (repeat exposure) on the basis of: — reliable and good quality evidence from human cases or epidemiological studies; or — observations from appropriate studies in experimental animals in which significant and/or severe toxic effects, of relevance to human health, were produced at generally low exposure concentrations. Guidance dose/concentration values are provided below (see 3.9.2.9), to be used as part of a weight-of- evidence evaluation.
+Category 2 Substances that, on the basis of evidence from studies in experimental animals can be presumed to have the potential to be harmful to human health following repeated exposure. Substances are classified in category 2 for target organ toxicity (repeat exposure) on the basis of observations from appropriate studies in experimental animals in which significant toxic effects, of relevance to human health, were produced at generally moderate exposure concentrations. Guidance dose/concentration values are provided below (see 3.9.2.9) in order to help in classification. In exceptional cases human evidence can also be used to place a substance in Category 2 (see 3.9.2.6).
 
 Note
 Attempts shall be made to determine the primary target organ of toxicity and classify for that purpose, such as hepatotoxicants, neurotoxicants. One shall carefully evaluate the data and, where possible, not include secondary effects (a hepatotoxicant can produce secondary effects in the nervous or gastro-intestinal systems).
@@ -4091,7 +4122,7 @@ Table 3.10.1
 Hazard category for aspiration toxicity
 
 Category Criteria
-Category 1 Substances known to cause human aspiration toxicity hazards or to be regarded as if they cause human aspiration toxicity hazardA substance is classified in Category 1:(a)  based on reliable and good quality human evidenceor(b)  if it is a hydrocarbon and has a kinematic viscosity of 20,5  mm2/s or less, measured at 40oC.
+Category 1 Substances known to cause human aspiration toxicity hazards or to be regarded as if they cause human aspiration toxicity hazard A substance is classified in Category 1: (a) based on reliable and good quality human evidence or (b) if it is a hydrocarbon and has a kinematic viscosity of 20,5 mm 2 /s or less, measured at 40 o C.
 
 Note:
 Substances in Category 1 include but are not limited to certain hydrocarbons, turpentine and pine oil.
@@ -4120,7 +4151,7 @@ GHS Pictogram
 Signal Word Danger
 Hazard Statement H304: May be fatal if swallowed and enters airways
 Precautionary StatementPrevention
-Precautionary StatementResponse P301 + P310P331
+Precautionary StatementResponse P301 + P310 P331
 Precautionary StatementStorage P405
 Precautionary StatementDisposal P501
 
@@ -4266,15 +4297,15 @@ Note 4:
 4.1.2.7.
 Aquatic toxicity
 
-4.1.2.7.1. Acute aquatic toxicity is normally determined using a fish 96-hour LC50, a crustacea species 48-hour EC50and/or an algal species 72- or 96-hour EC50. These species cover a range of trophic levels and taxa and are considered as surrogate for all aquatic organisms. Data on other species (e.g. Lemna spp.) shall also be considered if the test methodology is suitable. The aquatic plant growth inhibition tests are normally considered as chronic tests but the EC50s are treated as acute values for classification purposes (see note 2).
+4.1.2.7.1. Acute aquatic toxicity is normally determined using a fish 96-hour LC 50 , a crustacea species 48-hour EC 50 and/or an algal species 72- or 96-hour EC 50 . These species cover a range of trophic levels and taxa and are considered as surrogate for all aquatic organisms. Data on other species (e.g. Lemna spp.) shall also be considered if the test methodology is suitable. The aquatic plant growth inhibition tests are normally considered as chronic tests but the EC 50 s are treated as acute values for classification purposes (see note 2).
 
 
-4.1.2.7.2. For determining chronic aquatic toxicity for classification purposes data generated according to the standardised test methods referred to in Article 8(3) shall be accepted, as well as results obtained from other validated and internationally accepted test methods. The NOECs or other equivalent ECx(e.g. EC10) shall be used.
+4.1.2.7.2. For determining chronic aquatic toxicity for classification purposes data generated according to the standardised test methods referred to in Article 8(3) shall be accepted, as well as results obtained from other validated and internationally accepted test methods. The NOECs or other equivalent EC x (e.g. EC 10 ) shall be used.
 
 4.1.2.8.
 Bioaccumulation
 
-4.1.2.8.1. Bioaccumulation of substances within aquatic organisms can give rise to toxic effects over longer time scales even when actual water concentrations are low. For organic substances the potential for bioaccumulation shall normally be determined by using the octanol/water partition coefficient, usually reported as a log Kow. The relationship between the log Kowof an organic substance and its bioconcentration as measured by the bioconcentration factor (BCF) in fish has considerable scientific literature support. Using a cut-off value of log Kow≥ 4 is intended to identify only those substances with a real potential to bioconcentrate. While this represents a potential to bioaccumulate, an experimentally determined BCF provides a better measure and shall be used in preference if available. A BCF in fish of ≥ 500 is indicative of the potential to bioconcentrate for classification purposes. Some relationships can be observed between chronic toxicity and bioaccumulation potential, as toxicity is related to the body burden.
+4.1.2.8.1. Bioaccumulation of substances within aquatic organisms can give rise to toxic effects over longer time scales even when actual water concentrations are low. For organic substances the potential for bioaccumulation shall normally be determined by using the octanol/water partition coefficient, usually reported as a log K ow . The relationship between the log K ow of an organic substance and its bioconcentration as measured by the bioconcentration factor (BCF) in fish has considerable scientific literature support. Using a cut-off value of log K ow ≥ 4 is intended to identify only those substances with a real potential to bioconcentrate. While this represents a potential to bioaccumulate, an experimentally determined BCF provides a better measure and shall be used in preference if available. A BCF in fish of ≥ 500 is indicative of the potential to bioconcentrate for classification purposes. Some relationships can be observed between chronic toxicity and bioaccumulation potential, as toxicity is related to the body burden.
 
 4.1.2.9.
 Rapid degradability of organic substances
@@ -4282,7 +4313,7 @@ Rapid degradability of organic substances
 4.1.2.9.1. Substances that rapidly degrade can be quickly removed from the environment. While effects of such substances can occur, particularly in the event of a spillage or accident, they are localised and of short duration. In the absence of rapid degradation in the environment a substance in the water has the potential to exert toxicity over a wide temporal and spatial scale.
 
 
-4.1.2.9.2. One way of demonstrating rapid degradation utilises the biodegradation screening tests designed to determine whether an organic substance is ‘readily biodegradable’. Where such data are not available, a BOD(5 days)/COD ratio ≥ 0,5 is considered as indicative of rapid degradation. Thus, a substance which passes this screening test is considered likely to biodegrade ‘rapidly’ in the aquatic environment, and is thus unlikely to be persistent. However, a fail in the screening test does not necessarily mean that the substance will not degrade rapidly in the environment. Other evidence of rapid degradation in the environment may therefore also be considered and are of particular importance where the substances are inhibitory to microbial activity at the concentration levels used in standard testing. Thus, a further classification criterion is included which allows the use of data to show that the substance did actually degrade biotically or abiotically in the aquatic environment by > 70 % in 28 days. Thus, if degradation is demonstrated under environmentally realistic conditions, then the criterion of ‘rapid degradability’ is met.
+4.1.2.9.2. One way of demonstrating rapid degradation utilises the biodegradation screening tests designed to determine whether an organic substance is ‘readily biodegradable’. Where such data are not available, a BOD(5 days)/COD ratio ≥ 0,5 is considered as indicative of rapid degradation. Thus, a substance which passes this screening test is considered likely to biodegrade ‘rapidly’ in the aquatic environment, and is thus unlikely to be persistent. However, a fail in the screening test does not necessarily mean that the substance will not degrade rapidly in the environment. Other evidence of rapid degradation in the environment may therefore also be considered and are of particular importance where the substances are inhibitory to microbial activity at the concentration levels used in standard testing. Thus, a further classification criterion is included which allows the use of data to show that the substance did actually degrade biotically or abiotically in the aquatic environment by > 70 % in 28 days. Thus, if degradation is demonstrated under environmentally realistic conditions, then the criterion of ‘rapid degradability’ is met.
 
 
 4.1.2.9.3. Many degradation data are available in the form of degradation half-lives and these can be used in defining rapid degradation provided that ultimate biodegradation of the substance, i.e. full mineralisation, is achieved. Primary biodegradation does not normally suffice in the assessment of rapid degradability unless it can be demonstrated that the degradation products do not fulfil the criteria for classification as hazardous to the aquatic environment.
@@ -4291,12 +4322,12 @@ Rapid degradability of organic substances
 4.1.2.9.4. The criteria used reflect the fact that environmental degradation may be biotic or abiotic. Hydrolysis can be considered if the hydrolysis products do not fulfil the criteria for classification as hazardous to the aquatic environment.
 
 
-4.1.2.9.5. Substances are considered rapidly degradable in the environment if one of the following criteria holds true:(a)if, in 28-day ready biodegradation studies, at least the following levels of degradation are achieved:(i)tests based on dissolved organic carbon: 70 %;(ii)tests based on oxygen depletion or carbon dioxide generation: 60 % of theoretical maximum.These levels of biodegradation must be achieved within 10 days of the start of degradation which point is taken as the time when 10 % of the substance has been degraded, unless the substance is identified as an UVCB or as a complex, multi-constituent substance with structurally similar constituents. In this case, and where there is sufficient justification, the 10-day window condition may be waived and the pass level applied at 28 days; or(b)if, in those cases where only BOD and COD data are available, when the ratio of BOD5/COD is ≥ 0,5; or(c)if other convincing scientific evidence is available to demonstrate that the substance can be degraded (biotically and/or abiotically) in the aquatic environment to a level > 70 % within a 28-day period.
+4.1.2.9.5. Substances are considered rapidly degradable in the environment if one of the following criteria holds true: (a) if, in 28-day ready biodegradation studies, at least the following levels of degradation are achieved: (i) tests based on dissolved organic carbon: 70 %; (ii) tests based on oxygen depletion or carbon dioxide generation: 60 % of theoretical maximum. These levels of biodegradation must be achieved within 10 days of the start of degradation which point is taken as the time when 10 % of the substance has been degraded, unless the substance is identified as an UVCB or as a complex, multi-constituent substance with structurally similar constituents. In this case, and where there is sufficient justification, the 10-day window condition may be waived and the pass level applied at 28 days; or (b) if, in those cases where only BOD and COD data are available, when the ratio of BOD 5 /COD is ≥ 0,5; or (c) if other convincing scientific evidence is available to demonstrate that the substance can be degraded (biotically and/or abiotically) in the aquatic environment to a level > 70 % within a 28-day period.
 
 4.1.2.10.
 Inorganic compounds and metals
 
-4.1.2.10.1. For inorganic compounds and metals, the concept of degradability as applied to organic compounds has limited or no meaning. Rather, such substances may be transformed by normal environmental processes to either increase or decrease the bioavailability of the toxic species. Equally the use of bioaccumulation data shall be treated with care (15).
+4.1.2.10.1. For inorganic compounds and metals, the concept of degradability as applied to organic compounds has limited or no meaning. Rather, such substances may be transformed by normal environmental processes to either increase or decrease the bioavailability of the toxic species. Equally the use of bioaccumulation data shall be treated with care ( 15 ).
 
 
 4.1.2.10.2. Poorly soluble inorganic compounds and metals may be acutely or chronically toxic in the aquatic environment depending on the intrinsic toxicity of the bioavailable inorganic species and the rate and amount of this species which enter solution. All evidence must be weighed in a classification decision. This would be especially true for metals showing borderline results in the Transformation/Dissolution Protocol.
@@ -4325,16 +4356,16 @@ Classification of mixtures when toxicity data are available for the complete mix
 4.1.3.3.1. When the mixture as a whole has been tested to determine its aquatic toxicity, this information can be used for classifying the mixture according to the criteria that have been agreed for substances. The classification is normally based on the data for fish, crustacea and algae/plants (see sections 4.1.2.7.1 and 4.1.2.7.2). When adequate acute or chronic toxicity data for the mixture as a whole are lacking, ‘bridging principles’ or ‘summation method’ should be applied (see sections 4.1.3.4 and 4.1.3.5).
 
 
-4.1.3.3.2. ►M12The long-term (chronic) hazard classification of mixtures requires additional information on degradability and in certain cases bioaccumulation.◄Degradability and bioaccumulation tests for mixtures are not used as they are usually difficult to interpret, and such tests may be meaningful only for single substances.
+4.1.3.3.2. ►M12 The long-term (chronic) hazard classification of mixtures requires additional information on degradability and in certain cases bioaccumulation. ◄ Degradability and bioaccumulation tests for mixtures are not used as they are usually difficult to interpret, and such tests may be meaningful only for single substances.
 
 
-4.1.3.3.3. Classification for category Acute 1(a)When there are adequate acute toxicity test data (LC50or EC50) available for the mixture as a whole showing L(E)C50≤ 1 mg/l:Classify mixture as Acute 1 in accordance with point (a) of Table 4.1.0.(b)When there are acute toxicity test data (LC50(s) or EC50(s)) available for the mixture as a whole showing L(E)C50(s) > 1 mg/l for normally all trophic levels:▼M12No need to classify for short-term (acute) hazard.▼M2
+4.1.3.3.3. Classification for category Acute 1 (a) When there are adequate acute toxicity test data (LC 50 or EC 50 ) available for the mixture as a whole showing L(E)C 50 ≤ 1 mg/l: Classify mixture as Acute 1 in accordance with point (a) of Table 4.1.0. (b) When there are acute toxicity test data (LC 50 (s) or EC 50 (s)) available for the mixture as a whole showing L(E)C 50 (s) > 1 mg/l for normally all trophic levels: ▼M12 No need to classify for short-term (acute) hazard. ▼M2
 
 
-4.1.3.3.4. Classification for categories Chronic 1, 2 and 3(a)When there are adequate chronic toxicity data (ECxx or NOEC) available for the mixture as a whole showing ECxor NOEC of the tested mixture ≤ 1mg/l:(i)Classify the mixture as Chronic 1, 2 or 3 in accordance with point (b)(ii) of Table 4.1.0 as rapidly degradable if the available information allows the conclusion that all relevant components of the mixture are rapidly degradable;(ii)Classify the mixture as Chronic 1 or 2 in all other cases in accordance with point (b)(i) of Table 4.1.0 as non-rapidly degradable;(b)When there are adequate chronic toxicity data (ECxor NOEC) available for the mixture as a whole showing ECx(s) or NOEC(s) of the tested mixture > 1 mg/l for normally all trophic levels:▼M12No need to classify for long-term (chronic) hazard in categories Chronic 1, 2 or 3.▼M2
+4.1.3.3.4. Classification for categories Chronic 1, 2 and 3 (a) When there are adequate chronic toxicity data (EC x x or NOEC) available for the mixture as a whole showing EC x or NOEC of the tested mixture ≤ 1mg/l: (i) Classify the mixture as Chronic 1, 2 or 3 in accordance with point (b)(ii) of Table 4.1.0 as rapidly degradable if the available information allows the conclusion that all relevant components of the mixture are rapidly degradable; (ii) Classify the mixture as Chronic 1 or 2 in all other cases in accordance with point (b)(i) of Table 4.1.0 as non-rapidly degradable; (b) When there are adequate chronic toxicity data (EC x or NOEC) available for the mixture as a whole showing EC x (s) or NOEC(s) of the tested mixture > 1 mg/l for normally all trophic levels: ▼M12 No need to classify for long-term (chronic) hazard in categories Chronic 1, 2 or 3. ▼M2
 
 
-4.1.3.3.5. Classification for category Chronic 4If there are nevertheless reasons for concern:Classify the mixture as Chronic 4 (safety net classification) in accordance with Table 4.1.0.
+4.1.3.3.5. Classification for category Chronic 4 If there are nevertheless reasons for concern: Classify the mixture as Chronic 4 (safety net classification) in accordance with Table 4.1.0.
 
 4.1.3.4.
 Classification of mixtures when toxicity data are not available for the complete mixture: bridging principles
@@ -4355,18 +4386,7 @@ Classification of mixtures when toxicity data are available for some or all comp
 4.1.3.5.1. The classification of a mixture is based on summation of the concentration of its classified components. The percentage of components classified as ‘Acute’ or ‘Chronic’ is fed straight in to the summation method. Details of the summation method are described in section 4.1.3.5.5.
 
 
-| 4.1.3.5.2. | Mixtures can be made of a combination of both components that are classified (as Acute 1 and/or Chronic 1, 2, 3, 4) and others for which adequate toxicity test data is available. When adequate toxicity data are available for more than one component in the mixture, the combined toxicity of those components is calculated using the following additivity formulas (a) or (b), depending on the nature of the toxicity data: (a) Based on acute aquatic toxicity: where: C i = concentration of component i (weight percentage); L(E)C 50i = (mg/l) LC 50 or EC 50 for component i; η = number of components, and i is running from 1 to n; L(E)C 50m = L(E) C 50 of the part of the mixture with test data. ▼M12 The calculated toxicity may be used to assign that portion of the mixture a short-term (acute) hazard category which is then subsequently used in applying the summation method; ▼M2 (b) Based on chronic aquatic toxicity: where: C i = concentration of component i (weight percentage) covering the rapidly degradable components; Cj = concentration of component j (weight percentage) covering the non- rapidly degradable components; NOECi = NOEC (or other recognised measures for chronic toxicity) for component i covering the rapidly degradable components, in mg/l; NOECj = NOEC (or other recognised measures for chronic toxicity) for component j covering the non-rapidly degradable components, in mg/l; n = number of components, and i and j are running from 1 to n; EqNOECm = Equivalent NOEC of the part of the mixture with test data. The equivalent toxicity thus reflects the fact that non-rapidly degrading substances are classified one hazard category level more ‘severe’ than rapidly degrading substances. ▼M12 The calculated equivalent toxicity may be used to assign that portion of the mixture a long-term (chronic) hazard category, in accordance with the criteria for rapidly degradable substances (point (b)(ii) of Table 4.1.0), which is then subsequently used in applying the summation method. ▼M2 | C i | = | concentration of component i (weight percentage); | L(E)C 50i | = | (mg/l) LC 50 or EC 50 for component i; | η | = | number of components, and i is running from 1 to n; | L(E)C 50m | = | L(E) C 50 of the part of the mixture with test data. | C i | = | concentration of component i (weight percentage) covering the rapidly degradable components; | Cj | = | concentration of component j (weight percentage) covering the non- rapidly degradable components; | NOECi | = | NOEC (or other recognised measures for chronic toxicity) for component i covering the rapidly degradable components, in mg/l; | NOECj | = | NOEC (or other recognised measures for chronic toxicity) for component j covering the non-rapidly degradable components, in mg/l; | n | = | number of components, and i and j are running from 1 to n; | EqNOECm | = | Equivalent NOEC of the part of the mixture with test data. |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| C i | = | concentration of component i (weight percentage); |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| L(E)C 50i | = | (mg/l) LC 50 or EC 50 for component i; |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| η | = | number of components, and i is running from 1 to n; |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| L(E)C 50m | = | L(E) C 50 of the part of the mixture with test data. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| C i | = | concentration of component i (weight percentage) covering the rapidly degradable components; |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Cj | = | concentration of component j (weight percentage) covering the non- rapidly degradable components; |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| NOECi | = | NOEC (or other recognised measures for chronic toxicity) for component i covering the rapidly degradable components, in mg/l; |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| NOECj | = | NOEC (or other recognised measures for chronic toxicity) for component j covering the non-rapidly degradable components, in mg/l; |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| n | = | number of components, and i and j are running from 1 to n; |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| EqNOECm | = | Equivalent NOEC of the part of the mixture with test data. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+4.1.3.5.2. Mixtures can be made of a combination of both components that are classified (as Acute 1 and/or Chronic 1, 2, 3, 4) and others for which adequate toxicity test data is available. When adequate toxicity data are available for more than one component in the mixture, the combined toxicity of those components is calculated using the following additivity formulas (a) or (b), depending on the nature of the toxicity data: (a) Based on acute aquatic toxicity: where: C i = concentration of component i (weight percentage); L(E)C 50i = (mg/l) LC 50 or EC 50 for component i; η = number of components, and i is running from 1 to n; L(E)C 50m = L(E) C 50 of the part of the mixture with test data. ▼M12 The calculated toxicity may be used to assign that portion of the mixture a short-term (acute) hazard category which is then subsequently used in applying the summation method; ▼M2 (b) Based on chronic aquatic toxicity: where: C i = concentration of component i (weight percentage) covering the rapidly degradable components; Cj = concentration of component j (weight percentage) covering the non- rapidly degradable components; NOECi = NOEC (or other recognised measures for chronic toxicity) for component i covering the rapidly degradable components, in mg/l; NOECj = NOEC (or other recognised measures for chronic toxicity) for component j covering the non-rapidly degradable components, in mg/l; n = number of components, and i and j are running from 1 to n; EqNOECm = Equivalent NOEC of the part of the mixture with test data. The equivalent toxicity thus reflects the fact that non-rapidly degrading substances are classified one hazard category level more ‘severe’ than rapidly degrading substances. ▼M12 The calculated equivalent toxicity may be used to assign that portion of the mixture a long-term (chronic) hazard category, in accordance with the criteria for rapidly degradable substances (point (b)(ii) of Table 4.1.0), which is then subsequently used in applying the summation method. ▼M2
 
 
 4.1.3.5.3. When applying the additivity formula for part of the mixture, it is preferable to calculate the toxicity of this part of the mixture using for each substance toxicity values that relate to the same taxonomic group (i.e. fish, crustacean, algae or equivalent) and then to use the highest toxicity (lowest value) obtained (i.e. use the most sensitive of the three taxonomic groups). However, when toxicity data for each component are not available in the same taxonomic group, the toxicity value of each component is selected in the same manner that toxicity values are selected for the classification of substances, i.e. the higher toxicity (from the most sensitive test organism) is used. The calculated acute and chronic toxicity is then used to assess whether this part of the mixture shall be classified as Acute 1 and/or Chronic 1, 2 or 3 using the same criteria described for substances.
@@ -4375,42 +4395,12 @@ Classification of mixtures when toxicity data are available for some or all comp
 4.1.3.5.4. If a mixture is classified in more than one way, the method yielding the more conservative result shall be used.
 
 
-| 4.1.3.5.5. | Summation method 4.1.3.5.5.1. Rationale 4.1.3.5.5.1.1. In case of the substance classification categories Chronic 1 to Chronic 3, the underlying toxicity criteria differ by a factor of 10 in moving from one category to another. Substances with a classification in a high toxicity band therefore contribute to the classification of a mixture in a lower band. The calculation of these classification categories therefore needs to consider the contribution of any substance classified as Chronic 1, 2 or 3. 4.1.3.5.5.1.2. When a mixture contains components classified as Acute 1 or Chronic 1, attention must be paid to the fact that such components, when their acute toxicity is below 1 mg/l and/or chronic toxicity is below 0,1 mg/l (if non rapidly degradable) and 0,01 mg/l (if rapidly degradable) contribute to the toxicity of the mixture even at a low concentration. Active ingredients in pesticides often possess such high aquatic toxicity but also some other substances like organometallic compounds. Under these circumstances the application of the normal generic concentration limits leads to an ‘under-classification’ of the mixture. Therefore, multiplying factors shall be applied to account for highly toxic components, as described in section 4.1.3.5.5.5. 4.1.3.5.5.2. Classification procedure 4.1.3.5.5.2.1. In general a more severe classification for mixtures overrides a less severe classification, e.g. a classification with Chronic 1 overrides a classification with Chronic 2. As a consequence, in this example, the classification procedure is already completed if the result of the classification is Chronic 1. A more severe classification than Chronic 1 is not possible. Therefore it is not necessary to undergo the further classification procedure. 4.1.3.5.5.3. Classification for category Acute 1 4.1.3.5.5.3.1. First all components classified as Acute 1 are considered. If the sum of the concentrations (in %) of these components multiplied by their corresponding M-factors is greater than 25 % the whole mixture is classified as Acute 1. 4.1.3.5.5.3.2. ►M12 The classification of mixtures for short-term (acute) hazards based on this summation of classified components is summarised in Table 4.1.1. ◄ Table 4.1.1 ▼M12 Classification of a mixture for short-term (acute) hazards based on summation of classified components ▼M2 Sum of components classified as: Mixture is classified as: Acute 1 × M ( ) ≥ 25 % Acute 1 ( 1 ) For explanation of the M-factor, see 4.1.3.5.5.5. 4.1.3.5.5.4. Classification for the categories Chronic 1, 2, 3 and 4 4.1.3.5.5.4.1. First all components classified as Chronic 1 are considered. If the sum of the concentrations (in %) of these components multiplied by their corresponding M-factors is equal to or greater than 25 %, the mixture is classified as Chronic 1. If the result of the calculation is a classification of the mixture as Chronic 1, the classification procedure is completed. 4.1.3.5.5.4.2. In cases where the mixture is not classified as Chronic 1, classification of the mixture as Chronic 2 is considered. A mixture is classified as Chronic 2 if 10 times the sum of the concentrations (in %) of all components classified as Chronic 1 multiplied by their corresponding M-factors plus the sum of the concentrations (in %) of all components classified as Chronic 2 is equal to or greater than 25 %. If the result of the calculation is classification of the mixture as Chronic 2, the classification process is completed. 4.1.3.5.5.4.3. In cases where the mixture is not classified either as Chronic 1 or Chronic 2, classification of the mixture as Chronic 3 is considered. A mixture is classified as Chronic 3 if 100 times the sum of the concentrations (in %) of all components classified as Chronic 1 multiplied by their corresponding M-factors plus 10 times the sum of the concentrations (in %) of all components classified with Chronic 2 plus the sum of the concentrations (in %) of all components classified as Chronic 3 is ≥ 25 %. 4.1.3.5.5.4.4. If the mixture is still not classified in Chronic 1, 2 or 3, classification of the mixture as Chronic 4 shall be considered. A mixture is classified as Chronic 4 if the sum of the concentrations (in %) of components classified as Chronic 1, 2, 3 and 4 is equal to or greater than 25 %. 4.1.3.5.5.4.5. ►M12 The classification of mixtures for long-term (chronic) hazards, based on this summation of the concentrations of classified components, is summarised in Table 4.1.2. ◄ Table 4.1.2 ▼M12 Classification of a mixture for long-term (chronic) hazards, based on summation of the concentration of classified components ▼M2 Sum of components classified as: Mixture is classified as: Chronic 1 × M ( ) ≥ 25 % Chronic 1 (M × 10 × Chronic 1) + Chronic 2 ≥ 25 % Chronic 2 (M × 100 × Chronic 1) + (10 × Chronic 2) + Chronic 3 ≥ 25 % Chronic 3 Chronic 1 + Chronic 2 + Chronic 3 + Chronic 4 ≥ 25 % Chronic 4 ( 1 ) For explanation of the M-factor, see 4.1.3.5.5.5. 4.1.3.5.5.5. Mixtures with highly toxic components 4.1.3.5.5.5.1. Acute 1 and Chronic 1 components with toxicities below 1 mg/l and/or chronic toxicities below 0,1 mg/l (if non-rapidly degradable) and 0,01 mg/l (if rapidly degradable) contribute to the toxicity of the mixture even at a low concentration and shall normally be given increased weight in applying the summation of classification approach. When a mixture contains components classified as Acute or Chronic 1, one of the following shall be applied: — the tiered approach described in sections 4.1.3.5.5.3 and 4.1.3.5.5.4 using a weighted sum by multiplying the concentrations of Acute 1 and Chronic 1 components by a factor, instead of merely adding up the percentages. This means that the concentration of ‘Acute 1’ in the left column of Table 4.1.1 and the concentration of ‘Chronic 1’ in the left column of Table 4.1.2 are multiplied by the appropriate multiplying factor. The multiplying factors to be applied to these components are defined using the toxicity value, as summarised in Table 4.1.3. Therefore, in order to classify a mixture containing Acute/Chronic 1 components, the classifier needs to be informed of the value of the M-factor in order to apply the summation method, — the additivity formula (see section 4.1.3.5.2) provided that toxicity data are available for all highly toxic components in the mixture and there is convincing evidence that all other components, including those for which specific acute and/or chronic toxicity data are not available, are of low or no toxicity and do not significantly contribute to the environmental hazard of the mixture. ▼M4 Table 4.1.3 Multiplying factors for highly toxic components of mixtures Acute toxicity M factor Chronic toxicity M factor L(E)C 50 value (mg/l) NOEC value (mg/l) NRD ( ) components RD ( ) components 0,1 < L(E)C 50 ≤ 1 1 0,01 < NOEC ≤ 0,1 1 — 0,01 < L(E)C 50 ≤ 0,1 10 0,001 < NOEC ≤ 0,01 10 1 0,001 < L(E)C 50 ≤ 0,01 100 0,0001 < NOEC ≤ 0,001 100 10 0,0001 < L(E)C 50 ≤ 0,001 1 000 0,00001 < NOEC ≤ 0,0001 1 000 100 0,00001 < L(E)C 50 ≤ 0,0001 10 000 0,000001 < NOEC ≤ 0,00001 10 000 1 000 (continue in factor 10 intervals) (continue in factor 10 intervals) ( 1 ) Non-rapidly degradable. ( 2 ) Rapidly degradable. ▼M2 | 4.1.3.5.5.1.1. | In case of the substance classification categories Chronic 1 to Chronic 3, the underlying toxicity criteria differ by a factor of 10 in moving from one category to another. Substances with a classification in a high toxicity band therefore contribute to the classification of a mixture in a lower band. The calculation of these classification categories therefore needs to consider the contribution of any substance classified as Chronic 1, 2 or 3. | 4.1.3.5.5.1.2. | When a mixture contains components classified as Acute 1 or Chronic 1, attention must be paid to the fact that such components, when their acute toxicity is below 1 mg/l and/or chronic toxicity is below 0,1 mg/l (if non rapidly degradable) and 0,01 mg/l (if rapidly degradable) contribute to the toxicity of the mixture even at a low concentration. Active ingredients in pesticides often possess such high aquatic toxicity but also some other substances like organometallic compounds. Under these circumstances the application of the normal generic concentration limits leads to an ‘under-classification’ of the mixture. Therefore, multiplying factors shall be applied to account for highly toxic components, as described in section 4.1.3.5.5.5. | 4.1.3.5.5.2.1. | In general a more severe classification for mixtures overrides a less severe classification, e.g. a classification with Chronic 1 overrides a classification with Chronic 2. As a consequence, in this example, the classification procedure is already completed if the result of the classification is Chronic 1. A more severe classification than Chronic 1 is not possible. Therefore it is not necessary to undergo the further classification procedure. | 4.1.3.5.5.3.1. | First all components classified as Acute 1 are considered. If the sum of the concentrations (in %) of these components multiplied by their corresponding M-factors is greater than 25 % the whole mixture is classified as Acute 1. | 4.1.3.5.5.3.2. | ►M12 The classification of mixtures for short-term (acute) hazards based on this summation of classified components is summarised in Table 4.1.1. ◄ Table 4.1.1 ▼M12 Classification of a mixture for short-term (acute) hazards based on summation of classified components ▼M2 Sum of components classified as: Mixture is classified as: Acute 1 × M ( ) ≥ 25 % Acute 1 ( 1 ) For explanation of the M-factor, see 4.1.3.5.5.5. | Sum of components classified as: | Mixture is classified as: | Acute 1 × M ( ) ≥ 25 % | Acute 1 | ( 1 ) For explanation of the M-factor, see 4.1.3.5.5.5. | 4.1.3.5.5.4.1. | First all components classified as Chronic 1 are considered. If the sum of the concentrations (in %) of these components multiplied by their corresponding M-factors is equal to or greater than 25 %, the mixture is classified as Chronic 1. If the result of the calculation is a classification of the mixture as Chronic 1, the classification procedure is completed. | 4.1.3.5.5.4.2. | In cases where the mixture is not classified as Chronic 1, classification of the mixture as Chronic 2 is considered. A mixture is classified as Chronic 2 if 10 times the sum of the concentrations (in %) of all components classified as Chronic 1 multiplied by their corresponding M-factors plus the sum of the concentrations (in %) of all components classified as Chronic 2 is equal to or greater than 25 %. If the result of the calculation is classification of the mixture as Chronic 2, the classification process is completed. | 4.1.3.5.5.4.3. | In cases where the mixture is not classified either as Chronic 1 or Chronic 2, classification of the mixture as Chronic 3 is considered. A mixture is classified as Chronic 3 if 100 times the sum of the concentrations (in %) of all components classified as Chronic 1 multiplied by their corresponding M-factors plus 10 times the sum of the concentrations (in %) of all components classified with Chronic 2 plus the sum of the concentrations (in %) of all components classified as Chronic 3 is ≥ 25 %. | 4.1.3.5.5.4.4. | If the mixture is still not classified in Chronic 1, 2 or 3, classification of the mixture as Chronic 4 shall be considered. A mixture is classified as Chronic 4 if the sum of the concentrations (in %) of components classified as Chronic 1, 2, 3 and 4 is equal to or greater than 25 %. | 4.1.3.5.5.4.5. | ►M12 The classification of mixtures for long-term (chronic) hazards, based on this summation of the concentrations of classified components, is summarised in Table 4.1.2. ◄ Table 4.1.2 ▼M12 Classification of a mixture for long-term (chronic) hazards, based on summation of the concentration of classified components ▼M2 Sum of components classified as: Mixture is classified as: Chronic 1 × M ( ) ≥ 25 % Chronic 1 (M × 10 × Chronic 1) + Chronic 2 ≥ 25 % Chronic 2 (M × 100 × Chronic 1) + (10 × Chronic 2) + Chronic 3 ≥ 25 % Chronic 3 Chronic 1 + Chronic 2 + Chronic 3 + Chronic 4 ≥ 25 % Chronic 4 ( 1 ) For explanation of the M-factor, see 4.1.3.5.5.5. | Sum of components classified as: | Mixture is classified as: | Chronic 1 × M ( ) ≥ 25 % | Chronic 1 | (M × 10 × Chronic 1) + Chronic 2 ≥ 25 % | Chronic 2 | (M × 100 × Chronic 1) + (10 × Chronic 2) + Chronic 3 ≥ 25 % | Chronic 3 | Chronic 1 + Chronic 2 + Chronic 3 + Chronic 4 ≥ 25 % | Chronic 4 | ( 1 ) For explanation of the M-factor, see 4.1.3.5.5.5. | 4.1.3.5.5.5.1. | Acute 1 and Chronic 1 components with toxicities below 1 mg/l and/or chronic toxicities below 0,1 mg/l (if non-rapidly degradable) and 0,01 mg/l (if rapidly degradable) contribute to the toxicity of the mixture even at a low concentration and shall normally be given increased weight in applying the summation of classification approach. When a mixture contains components classified as Acute or Chronic 1, one of the following shall be applied: — the tiered approach described in sections 4.1.3.5.5.3 and 4.1.3.5.5.4 using a weighted sum by multiplying the concentrations of Acute 1 and Chronic 1 components by a factor, instead of merely adding up the percentages. This means that the concentration of ‘Acute 1’ in the left column of Table 4.1.1 and the concentration of ‘Chronic 1’ in the left column of Table 4.1.2 are multiplied by the appropriate multiplying factor. The multiplying factors to be applied to these components are defined using the toxicity value, as summarised in Table 4.1.3. Therefore, in order to classify a mixture containing Acute/Chronic 1 components, the classifier needs to be informed of the value of the M-factor in order to apply the summation method, — the additivity formula (see section 4.1.3.5.2) provided that toxicity data are available for all highly toxic components in the mixture and there is convincing evidence that all other components, including those for which specific acute and/or chronic toxicity data are not available, are of low or no toxicity and do not significantly contribute to the environmental hazard of the mixture. ▼M4 Table 4.1.3 Multiplying factors for highly toxic components of mixtures Acute toxicity M factor Chronic toxicity M factor L(E)C 50 value (mg/l) NOEC value (mg/l) NRD ( ) components RD ( ) components 0,1 < L(E)C 50 ≤ 1 1 0,01 < NOEC ≤ 0,1 1 — 0,01 < L(E)C 50 ≤ 0,1 10 0,001 < NOEC ≤ 0,01 10 1 0,001 < L(E)C 50 ≤ 0,01 100 0,0001 < NOEC ≤ 0,001 100 10 0,0001 < L(E)C 50 ≤ 0,001 1 000 0,00001 < NOEC ≤ 0,0001 1 000 100 0,00001 < L(E)C 50 ≤ 0,0001 10 000 0,000001 < NOEC ≤ 0,00001 10 000 1 000 (continue in factor 10 intervals) (continue in factor 10 intervals) ( 1 ) Non-rapidly degradable. ( 2 ) Rapidly degradable. ▼M2 | Acute toxicity | M factor | Chronic toxicity | M factor | L(E)C 50 value (mg/l) |  | NOEC value (mg/l) | NRD ( ) components | RD ( ) components | 0,1 < L(E)C 50 ≤ 1 | 1 | 0,01 < NOEC ≤ 0,1 | 1 | — | 0,01 < L(E)C 50 ≤ 0,1 | 10 | 0,001 < NOEC ≤ 0,01 | 10 | 1 | 0,001 < L(E)C 50 ≤ 0,01 | 100 | 0,0001 < NOEC ≤ 0,001 | 100 | 10 | 0,0001 < L(E)C 50 ≤ 0,001 | 1 000 | 0,00001 < NOEC ≤ 0,0001 | 1 000 | 100 | 0,00001 < L(E)C 50 ≤ 0,0001 | 10 000 | 0,000001 < NOEC ≤ 0,00001 | 10 000 | 1 000 | (continue in factor 10 intervals) | (continue in factor 10 intervals) | ( 1 ) Non-rapidly degradable. ( 2 ) Rapidly degradable. |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 4.1.3.5.5.1.1. | In case of the substance classification categories Chronic 1 to Chronic 3, the underlying toxicity criteria differ by a factor of 10 in moving from one category to another. Substances with a classification in a high toxicity band therefore contribute to the classification of a mixture in a lower band. The calculation of these classification categories therefore needs to consider the contribution of any substance classified as Chronic 1, 2 or 3. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 4.1.3.5.5.1.2. | When a mixture contains components classified as Acute 1 or Chronic 1, attention must be paid to the fact that such components, when their acute toxicity is below 1 mg/l and/or chronic toxicity is below 0,1 mg/l (if non rapidly degradable) and 0,01 mg/l (if rapidly degradable) contribute to the toxicity of the mixture even at a low concentration. Active ingredients in pesticides often possess such high aquatic toxicity but also some other substances like organometallic compounds. Under these circumstances the application of the normal generic concentration limits leads to an ‘under-classification’ of the mixture. Therefore, multiplying factors shall be applied to account for highly toxic components, as described in section 4.1.3.5.5.5. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 4.1.3.5.5.2.1. | In general a more severe classification for mixtures overrides a less severe classification, e.g. a classification with Chronic 1 overrides a classification with Chronic 2. As a consequence, in this example, the classification procedure is already completed if the result of the classification is Chronic 1. A more severe classification than Chronic 1 is not possible. Therefore it is not necessary to undergo the further classification procedure. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 4.1.3.5.5.3.1. | First all components classified as Acute 1 are considered. If the sum of the concentrations (in %) of these components multiplied by their corresponding M-factors is greater than 25 % the whole mixture is classified as Acute 1. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 4.1.3.5.5.3.2. | ►M12 The classification of mixtures for short-term (acute) hazards based on this summation of classified components is summarised in Table 4.1.1. ◄ Table 4.1.1 ▼M12 Classification of a mixture for short-term (acute) hazards based on summation of classified components ▼M2 Sum of components classified as: Mixture is classified as: Acute 1 × M ( ) ≥ 25 % Acute 1 ( 1 ) For explanation of the M-factor, see 4.1.3.5.5.5. | Sum of components classified as: | Mixture is classified as: | Acute 1 × M ( ) ≥ 25 % | Acute 1 | ( 1 ) For explanation of the M-factor, see 4.1.3.5.5.5. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Sum of components classified as: | Mixture is classified as: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Acute 1 × M ( ) ≥ 25 % | Acute 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| ( 1 ) For explanation of the M-factor, see 4.1.3.5.5.5. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 4.1.3.5.5.4.1. | First all components classified as Chronic 1 are considered. If the sum of the concentrations (in %) of these components multiplied by their corresponding M-factors is equal to or greater than 25 %, the mixture is classified as Chronic 1. If the result of the calculation is a classification of the mixture as Chronic 1, the classification procedure is completed. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 4.1.3.5.5.4.2. | In cases where the mixture is not classified as Chronic 1, classification of the mixture as Chronic 2 is considered. A mixture is classified as Chronic 2 if 10 times the sum of the concentrations (in %) of all components classified as Chronic 1 multiplied by their corresponding M-factors plus the sum of the concentrations (in %) of all components classified as Chronic 2 is equal to or greater than 25 %. If the result of the calculation is classification of the mixture as Chronic 2, the classification process is completed. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 4.1.3.5.5.4.3. | In cases where the mixture is not classified either as Chronic 1 or Chronic 2, classification of the mixture as Chronic 3 is considered. A mixture is classified as Chronic 3 if 100 times the sum of the concentrations (in %) of all components classified as Chronic 1 multiplied by their corresponding M-factors plus 10 times the sum of the concentrations (in %) of all components classified with Chronic 2 plus the sum of the concentrations (in %) of all components classified as Chronic 3 is ≥ 25 %. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 4.1.3.5.5.4.4. | If the mixture is still not classified in Chronic 1, 2 or 3, classification of the mixture as Chronic 4 shall be considered. A mixture is classified as Chronic 4 if the sum of the concentrations (in %) of components classified as Chronic 1, 2, 3 and 4 is equal to or greater than 25 %. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 4.1.3.5.5.4.5. | ►M12 The classification of mixtures for long-term (chronic) hazards, based on this summation of the concentrations of classified components, is summarised in Table 4.1.2. ◄ Table 4.1.2 ▼M12 Classification of a mixture for long-term (chronic) hazards, based on summation of the concentration of classified components ▼M2 Sum of components classified as: Mixture is classified as: Chronic 1 × M ( ) ≥ 25 % Chronic 1 (M × 10 × Chronic 1) + Chronic 2 ≥ 25 % Chronic 2 (M × 100 × Chronic 1) + (10 × Chronic 2) + Chronic 3 ≥ 25 % Chronic 3 Chronic 1 + Chronic 2 + Chronic 3 + Chronic 4 ≥ 25 % Chronic 4 ( 1 ) For explanation of the M-factor, see 4.1.3.5.5.5. | Sum of components classified as: | Mixture is classified as: | Chronic 1 × M ( ) ≥ 25 % | Chronic 1 | (M × 10 × Chronic 1) + Chronic 2 ≥ 25 % | Chronic 2 | (M × 100 × Chronic 1) + (10 × Chronic 2) + Chronic 3 ≥ 25 % | Chronic 3 | Chronic 1 + Chronic 2 + Chronic 3 + Chronic 4 ≥ 25 % | Chronic 4 | ( 1 ) For explanation of the M-factor, see 4.1.3.5.5.5. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Sum of components classified as: | Mixture is classified as: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Chronic 1 × M ( ) ≥ 25 % | Chronic 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| (M × 10 × Chronic 1) + Chronic 2 ≥ 25 % | Chronic 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| (M × 100 × Chronic 1) + (10 × Chronic 2) + Chronic 3 ≥ 25 % | Chronic 3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Chronic 1 + Chronic 2 + Chronic 3 + Chronic 4 ≥ 25 % | Chronic 4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| ( 1 ) For explanation of the M-factor, see 4.1.3.5.5.5. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 4.1.3.5.5.5.1. | Acute 1 and Chronic 1 components with toxicities below 1 mg/l and/or chronic toxicities below 0,1 mg/l (if non-rapidly degradable) and 0,01 mg/l (if rapidly degradable) contribute to the toxicity of the mixture even at a low concentration and shall normally be given increased weight in applying the summation of classification approach. When a mixture contains components classified as Acute or Chronic 1, one of the following shall be applied: — the tiered approach described in sections 4.1.3.5.5.3 and 4.1.3.5.5.4 using a weighted sum by multiplying the concentrations of Acute 1 and Chronic 1 components by a factor, instead of merely adding up the percentages. This means that the concentration of ‘Acute 1’ in the left column of Table 4.1.1 and the concentration of ‘Chronic 1’ in the left column of Table 4.1.2 are multiplied by the appropriate multiplying factor. The multiplying factors to be applied to these components are defined using the toxicity value, as summarised in Table 4.1.3. Therefore, in order to classify a mixture containing Acute/Chronic 1 components, the classifier needs to be informed of the value of the M-factor in order to apply the summation method, — the additivity formula (see section 4.1.3.5.2) provided that toxicity data are available for all highly toxic components in the mixture and there is convincing evidence that all other components, including those for which specific acute and/or chronic toxicity data are not available, are of low or no toxicity and do not significantly contribute to the environmental hazard of the mixture. ▼M4 Table 4.1.3 Multiplying factors for highly toxic components of mixtures Acute toxicity M factor Chronic toxicity M factor L(E)C 50 value (mg/l) NOEC value (mg/l) NRD ( ) components RD ( ) components 0,1 < L(E)C 50 ≤ 1 1 0,01 < NOEC ≤ 0,1 1 — 0,01 < L(E)C 50 ≤ 0,1 10 0,001 < NOEC ≤ 0,01 10 1 0,001 < L(E)C 50 ≤ 0,01 100 0,0001 < NOEC ≤ 0,001 100 10 0,0001 < L(E)C 50 ≤ 0,001 1 000 0,00001 < NOEC ≤ 0,0001 1 000 100 0,00001 < L(E)C 50 ≤ 0,0001 10 000 0,000001 < NOEC ≤ 0,00001 10 000 1 000 (continue in factor 10 intervals) (continue in factor 10 intervals) ( 1 ) Non-rapidly degradable. ( 2 ) Rapidly degradable. ▼M2 | Acute toxicity | M factor | Chronic toxicity | M factor | L(E)C 50 value (mg/l) |  | NOEC value (mg/l) | NRD ( ) components | RD ( ) components | 0,1 < L(E)C 50 ≤ 1 | 1 | 0,01 < NOEC ≤ 0,1 | 1 | — | 0,01 < L(E)C 50 ≤ 0,1 | 10 | 0,001 < NOEC ≤ 0,01 | 10 | 1 | 0,001 < L(E)C 50 ≤ 0,01 | 100 | 0,0001 < NOEC ≤ 0,001 | 100 | 10 | 0,0001 < L(E)C 50 ≤ 0,001 | 1 000 | 0,00001 < NOEC ≤ 0,0001 | 1 000 | 100 | 0,00001 < L(E)C 50 ≤ 0,0001 | 10 000 | 0,000001 < NOEC ≤ 0,00001 | 10 000 | 1 000 | (continue in factor 10 intervals) | (continue in factor 10 intervals) | ( 1 ) Non-rapidly degradable. ( 2 ) Rapidly degradable. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Acute toxicity | M factor | Chronic toxicity | M factor |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| L(E)C 50 value (mg/l) |  | NOEC value (mg/l) | NRD ( ) components | RD ( ) components |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 0,1 < L(E)C 50 ≤ 1 | 1 | 0,01 < NOEC ≤ 0,1 | 1 | — |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 0,01 < L(E)C 50 ≤ 0,1 | 10 | 0,001 < NOEC ≤ 0,01 | 10 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 0,001 < L(E)C 50 ≤ 0,01 | 100 | 0,0001 < NOEC ≤ 0,001 | 100 | 10 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 0,0001 < L(E)C 50 ≤ 0,001 | 1 000 | 0,00001 < NOEC ≤ 0,0001 | 1 000 | 100 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 0,00001 < L(E)C 50 ≤ 0,0001 | 10 000 | 0,000001 < NOEC ≤ 0,00001 | 10 000 | 1 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| (continue in factor 10 intervals) | (continue in factor 10 intervals) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| ( 1 ) Non-rapidly degradable. ( 2 ) Rapidly degradable. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+4.1.3.5.5. Summation method 4.1.3.5.5.1. Rationale 4.1.3.5.5.1.1. In case of the substance classification categories Chronic 1 to Chronic 3, the underlying toxicity criteria differ by a factor of 10 in moving from one category to another. Substances with a classification in a high toxicity band therefore contribute to the classification of a mixture in a lower band. The calculation of these classification categories therefore needs to consider the contribution of any substance classified as Chronic 1, 2 or 3. 4.1.3.5.5.1.2. When a mixture contains components classified as Acute 1 or Chronic 1, attention must be paid to the fact that such components, when their acute toxicity is below 1 mg/l and/or chronic toxicity is below 0,1 mg/l (if non rapidly degradable) and 0,01 mg/l (if rapidly degradable) contribute to the toxicity of the mixture even at a low concentration. Active ingredients in pesticides often possess such high aquatic toxicity but also some other substances like organometallic compounds. Under these circumstances the application of the normal generic concentration limits leads to an ‘under-classification’ of the mixture. Therefore, multiplying factors shall be applied to account for highly toxic components, as described in section 4.1.3.5.5.5. 4.1.3.5.5.2. Classification procedure 4.1.3.5.5.2.1. In general a more severe classification for mixtures overrides a less severe classification, e.g. a classification with Chronic 1 overrides a classification with Chronic 2. As a consequence, in this example, the classification procedure is already completed if the result of the classification is Chronic 1. A more severe classification than Chronic 1 is not possible. Therefore it is not necessary to undergo the further classification procedure. 4.1.3.5.5.3. Classification for category Acute 1 4.1.3.5.5.3.1. First all components classified as Acute 1 are considered. If the sum of the concentrations (in %) of these components multiplied by their corresponding M-factors is greater than 25 % the whole mixture is classified as Acute 1. 4.1.3.5.5.3.2. ►M12 The classification of mixtures for short-term (acute) hazards based on this summation of classified components is summarised in Table 4.1.1. ◄ Table 4.1.1 ▼M12 Classification of a mixture for short-term (acute) hazards based on summation of classified components ▼M2 Sum of components classified as: Mixture is classified as: Acute 1 × M ( ) ≥ 25 % Acute 1 ( 1 ) For explanation of the M-factor, see 4.1.3.5.5.5. 4.1.3.5.5.4. Classification for the categories Chronic 1, 2, 3 and 4 4.1.3.5.5.4.1. First all components classified as Chronic 1 are considered. If the sum of the concentrations (in %) of these components multiplied by their corresponding M-factors is equal to or greater than 25 %, the mixture is classified as Chronic 1. If the result of the calculation is a classification of the mixture as Chronic 1, the classification procedure is completed. 4.1.3.5.5.4.2. In cases where the mixture is not classified as Chronic 1, classification of the mixture as Chronic 2 is considered. A mixture is classified as Chronic 2 if 10 times the sum of the concentrations (in %) of all components classified as Chronic 1 multiplied by their corresponding M-factors plus the sum of the concentrations (in %) of all components classified as Chronic 2 is equal to or greater than 25 %. If the result of the calculation is classification of the mixture as Chronic 2, the classification process is completed. 4.1.3.5.5.4.3. In cases where the mixture is not classified either as Chronic 1 or Chronic 2, classification of the mixture as Chronic 3 is considered. A mixture is classified as Chronic 3 if 100 times the sum of the concentrations (in %) of all components classified as Chronic 1 multiplied by their corresponding M-factors plus 10 times the sum of the concentrations (in %) of all components classified with Chronic 2 plus the sum of the concentrations (in %) of all components classified as Chronic 3 is ≥ 25 %. 4.1.3.5.5.4.4. If the mixture is still not classified in Chronic 1, 2 or 3, classification of the mixture as Chronic 4 shall be considered. A mixture is classified as Chronic 4 if the sum of the concentrations (in %) of components classified as Chronic 1, 2, 3 and 4 is equal to or greater than 25 %. 4.1.3.5.5.4.5. ►M12 The classification of mixtures for long-term (chronic) hazards, based on this summation of the concentrations of classified components, is summarised in Table 4.1.2. ◄ Table 4.1.2 ▼M12 Classification of a mixture for long-term (chronic) hazards, based on summation of the concentration of classified components ▼M2 Sum of components classified as: Mixture is classified as: Chronic 1 × M ( ) ≥ 25 % Chronic 1 (M × 10 × Chronic 1) + Chronic 2 ≥ 25 % Chronic 2 (M × 100 × Chronic 1) + (10 × Chronic 2) + Chronic 3 ≥ 25 % Chronic 3 Chronic 1 + Chronic 2 + Chronic 3 + Chronic 4 ≥ 25 % Chronic 4 ( 1 ) For explanation of the M-factor, see 4.1.3.5.5.5. 4.1.3.5.5.5. Mixtures with highly toxic components 4.1.3.5.5.5.1. Acute 1 and Chronic 1 components with toxicities below 1 mg/l and/or chronic toxicities below 0,1 mg/l (if non-rapidly degradable) and 0,01 mg/l (if rapidly degradable) contribute to the toxicity of the mixture even at a low concentration and shall normally be given increased weight in applying the summation of classification approach. When a mixture contains components classified as Acute or Chronic 1, one of the following shall be applied: — the tiered approach described in sections 4.1.3.5.5.3 and 4.1.3.5.5.4 using a weighted sum by multiplying the concentrations of Acute 1 and Chronic 1 components by a factor, instead of merely adding up the percentages. This means that the concentration of ‘Acute 1’ in the left column of Table 4.1.1 and the concentration of ‘Chronic 1’ in the left column of Table 4.1.2 are multiplied by the appropriate multiplying factor. The multiplying factors to be applied to these components are defined using the toxicity value, as summarised in Table 4.1.3. Therefore, in order to classify a mixture containing Acute/Chronic 1 components, the classifier needs to be informed of the value of the M-factor in order to apply the summation method, — the additivity formula (see section 4.1.3.5.2) provided that toxicity data are available for all highly toxic components in the mixture and there is convincing evidence that all other components, including those for which specific acute and/or chronic toxicity data are not available, are of low or no toxicity and do not significantly contribute to the environmental hazard of the mixture. ▼M4 Table 4.1.3 Multiplying factors for highly toxic components of mixtures Acute toxicity M factor Chronic toxicity M factor L(E)C 50 value (mg/l) NOEC value (mg/l) NRD ( ) components RD ( ) components 0,1 < L(E)C 50 ≤ 1 1 0,01 < NOEC ≤ 0,1 1 — 0,01 < L(E)C 50 ≤ 0,1 10 0,001 < NOEC ≤ 0,01 10 1 0,001 < L(E)C 50 ≤ 0,01 100 0,0001 < NOEC ≤ 0,001 100 10 0,0001 < L(E)C 50 ≤ 0,001 1 000 0,00001 < NOEC ≤ 0,0001 1 000 100 0,00001 < L(E)C 50 ≤ 0,0001 10 000 0,000001 < NOEC ≤ 0,00001 10 000 1 000 (continue in factor 10 intervals) (continue in factor 10 intervals) ( 1 ) Non-rapidly degradable. ( 2 ) Rapidly degradable. ▼M2
 
 4.1.3.6.
 Classification of mixtures with components without any useable information
 
-4.1.3.6.1. ►M12In the event that no useable information on short-term (acute) and/or long-term (chronic) aquatic hazard is available for one or more relevant components, it is concluded that the mixture cannot be attributed to one or more definitive hazard category(ies).◄In this situation the mixture shall be classified based on the known components only, with the additional statement on the label and in the SDS that: ‘Contains x % of components with unknown hazards to the aquatic environment’.
+4.1.3.6.1. ►M12 In the event that no useable information on short-term (acute) and/or long-term (chronic) aquatic hazard is available for one or more relevant components, it is concluded that the mixture cannot be attributed to one or more definitive hazard category(ies). ◄ In this situation the mixture shall be classified based on the known components only, with the additional statement on the label and in the SDS that: ‘Contains x % of components with unknown hazards to the aquatic environment’.
 
 4.1.4.
 Hazard communication
@@ -4464,7 +4454,7 @@ Table 5.1
 Generic concentration limits for substances (in a mixture), classified as hazardous to the ozone layer (Category 1), that trigger classification of the mixture as hazardous to the ozone layer (Category 1)
 
 Classification of the substance Classification of the mixture
-Hazardous to the ozone layer (Category 1) C ≥ 0,1 %
+Hazardous to the ozone layer (Category 1) C ≥ 0,1 %
 
 5.1.4.
 Hazard communication
@@ -12180,32 +12170,32 @@ PART 1: PHYSICAL HAZARDS
 1.1.
 Symbol: exploding bomb
 
-Pictogram(1) Hazard class and hazard category(2)
-GHS01 Section 2.1Unstable explosivesExplosives of Divisions 1.1, 1.2, 1.3, 1.4Section 2.8Self reactive substances and mixtures, Types A, BSection 2.15Organic peroxides, Types A, B
+Pictogram(1) Hazard class and hazard category (2)
+GHS01 Section 2.1 Unstable explosives Explosives of Divisions 1.1, 1.2, 1.3, 1.4 Section 2.8 Self reactive substances and mixtures, Types A, B Section 2.15 Organic peroxides, Types A, B
 
 1.2.
 Symbol: flame
 
-Pictogram(1) Hazard class and hazard category(2)
-GHS02 Section 2.2Flammable gases, hazard category 1Section 2.3►M4Aerosols, hazard categories 1, 2◄Section 2.6Flammable liquids, hazard categories 1, 2, 3Section 2.7Flammable solids, hazard categories 1, 2Section 2.8Self-reactive substances and mixtures, Types B, C, D, E, FSection 2.9Pyrophoric liquids, hazard category 1Section 2.10Pyrophoric solids, hazard category 1Section 2.11Self-heating substances and mixtures, hazard categories 1, 2Section 2.12Substances and mixtures, which in contact with water, emit flammable gases, hazard categories 1, 2, 3Section 2.15Organic peroxides, Types B, C, D, E, F
+Pictogram(1) Hazard class and hazard category (2)
+GHS02 Section 2.2 Flammable gases, hazard category 1 Section 2.3 ►M4 Aerosols, hazard categories 1, 2 ◄ Section 2.6 Flammable liquids, hazard categories 1, 2, 3 Section 2.7 Flammable solids, hazard categories 1, 2 Section 2.8 Self-reactive substances and mixtures, Types B, C, D, E, F Section 2.9 Pyrophoric liquids, hazard category 1 Section 2.10 Pyrophoric solids, hazard category 1 Section 2.11 Self-heating substances and mixtures, hazard categories 1, 2 Section 2.12 Substances and mixtures, which in contact with water, emit flammable gases, hazard categories 1, 2, 3 Section 2.15 Organic peroxides, Types B, C, D, E, F
 
 1.3.
 Symbol: flame over circle
 
-Pictogram(1) Hazard class and hazard category(2)
-GHS03 Section 2.4Oxidising gases, hazard category 1Section 2.13Oxidising liquids, hazard categories 1, 2, 3Section 2.14Oxidising solids, hazard categories 1, 2, 3
+Pictogram(1) Hazard class and hazard category (2)
+GHS03 Section 2.4 Oxidising gases, hazard category 1 Section 2.13 Oxidising liquids, hazard categories 1, 2, 3 Section 2.14 Oxidising solids, hazard categories 1, 2, 3
 
 1.4.
 Symbol: gas cylinder
 
-Pictogram(1) Hazard class and hazard category(2)
-GHS04 Section 2.5Gases under pressure:Compressed gases;Liquefied gases;Refrigerated liquefied gases;Dissolved gases
+Pictogram(1) Hazard class and hazard category (2)
+GHS04 Section 2.5 Gases under pressure: Compressed gases; Liquefied gases; Refrigerated liquefied gases; Dissolved gases
 
 1.5.
 Symbol: corrosion
 
-Pictogram(1) Hazard class and hazard category(2)
-GHS05 Section 2.16Corrosive to metals, hazard category 1
+Pictogram(1) Hazard class and hazard category (2)
+GHS05 Section 2.16 Corrosive to metals, hazard category 1
 
 1.6.
 A pictogram is not required for the following physical hazard classes and hazard categories:
@@ -12222,28 +12212,28 @@ PART 2: HEALTH HAZARDS
 2.1.
 Symbol: skull and crossbones
 
-Pictogram(1) Hazard class and hazard category(2)
-GHS06 Section 3.1Acute toxicity (oral, dermal, inhalation), hazard categories 1, 2, 3
+Pictogram(1) Hazard class and hazard category (2)
+GHS06 Section 3.1 Acute toxicity (oral, dermal, inhalation), hazard categories 1, 2, 3
 
 ▼M12
 2.2.
 Symbol: corrosion
 
-Pictogram(1) Hazard class and hazard category(2)
-GHS05 Section 3.2Skin corrosion, hazard category 1 and sub-categories 1A, 1B, 1CSection 3.3Serious eye damage, hazard category 1
+Pictogram(1) Hazard class and hazard category (2)
+GHS05 Section 3.2 Skin corrosion, hazard category 1 and sub-categories 1A, 1B, 1C Section 3.3 Serious eye damage, hazard category 1
 
 ▼B
 2.3.
 Symbol: exclamation mark
 
-Pictogram(1) Hazard class and hazard category(2)
-►M2GHS07◄ Section 3.1Acute toxicity (oral, dermal, inhalation), hazard category 4Section 3.2Skin irritation, hazard category 2Section 3.3Eye irritation, hazard category 2Section 3.4►M2Skin sensitisation, hazard categories 1, 1A, 1B◄Section 3.8Specific Target Organ Toxicity — Single exposure, hazard category 3Respiratory tract irritationNarcotic effects
+Pictogram(1) Hazard class and hazard category (2)
+►M2GHS07◄ Section 3.1 Acute toxicity (oral, dermal, inhalation), hazard category 4 Section 3.2 Skin irritation, hazard category 2 Section 3.3 Eye irritation, hazard category 2 Section 3.4 ►M2 Skin sensitisation, hazard categories 1, 1A, 1B ◄ Section 3.8 Specific Target Organ Toxicity — Single exposure, hazard category 3 Respiratory tract irritation Narcotic effects
 
 2.4.
 Symbol: health hazard
 
-Pictogram(1) Hazard class and hazard category(2)
-GHS08 Section 3.4►M2Respiratory sensitisation, hazard categories 1, 1A, 1B◄Section 3.5Germ cell mutagenicity, hazard categories 1A, 1B, 2Section 3.6Carcinogenicity, hazard categories 1A, 1B, 2Section 3.7Reproductive toxicity, hazard categories 1A, 1B, 2Section 3.8Specific Target Organ Toxicity — Single exposure, hazard categories 1, 2Section 3.9Specific Target Organ Toxicity — Repeated exposure, hazard categories 1, 2Section 3.10Aspiration hazard, hazard category 1
+Pictogram(1) Hazard class and hazard category (2)
+GHS08 Section 3.4 ►M2 Respiratory sensitisation, hazard categories 1, 1A, 1B ◄ Section 3.5 Germ cell mutagenicity, hazard categories 1A, 1B, 2 Section 3.6 Carcinogenicity, hazard categories 1A, 1B, 2 Section 3.7 Reproductive toxicity, hazard categories 1A, 1B, 2 Section 3.8 Specific Target Organ Toxicity — Single exposure, hazard categories 1, 2 Section 3.9 Specific Target Organ Toxicity — Repeated exposure, hazard categories 1, 2 Section 3.10 Aspiration hazard, hazard category 1
 
 2.5.
 A pictogram is not required for the following health hazard categories:
@@ -12254,8 +12244,8 @@ PART 3: ENVIRONMENTAL HAZARDS
 3.1.
 Symbol: environment
 
-Pictogram(1) Hazard class and hazard category(2)
-GHS09 Section 4.1Hazardous to the aquatic environment— Acute hazard category: Acute 1— Long-term hazard categories: Chronic 1, Chronic 2
+Pictogram(1) Hazard class and hazard category (2)
+GHS09 Section 4.1 Hazardous to the aquatic environment — Acute hazard category: Acute 1 — Long-term hazard categories: Chronic 1, Chronic 2
 
 A pictogram is not required for the following environmental hazard classes and hazard categories:
 Section 4.1: Hazardous to the aquatic environment — Long-term hazard categories: Chronic 3, Chronic 4.
@@ -12267,7 +12257,7 @@ Symbol: exclamation mark
 
 Pictogram Hazard class and hazard category
 (1) (2)
-GHS07 Section 5.1Hazardous to the ozone layer, hazard category 1
+GHS07 Section 5.1 Hazardous to the ozone layer, hazard category 1
 
 ▼B
 ANNEX VI
@@ -12324,39 +12314,39 @@ The Hazard class and category codes used for each of the hazard categories/divis
 Table 1.1
 
 Hazard Class Hazard Class and Category Code
-Explosive Unst. Expl.Expl. 1.1Expl. 1.2Expl. 1.3Expl. 1.4Expl. 1.5Expl. 1.6
+Explosive Unst. Expl. Expl. 1.1 Expl. 1.2 Expl. 1.3 Expl. 1.4 Expl. 1.5 Expl. 1.6
 ▼M4
-Flammable gas Flam. Gas 1Flam. Gas 2Chem. Unst. Gas AChem. Unst. Gas B
-Aerosol Aerosol 1Aerosol 2Aerosol 3
+Flammable gas Flam. Gas 1 Flam. Gas 2 Chem. Unst. Gas A Chem. Unst. Gas B
+Aerosol Aerosol 1 Aerosol 2 Aerosol 3
 ▼B
 Oxidising gas Ox. Gas 1
-Gases under pressure Press. Gas(*1)
-Flammable liquid Flam. Liq. 1Flam. Liq. 2Flam. Liq. 3
-Flammable solid Flam. Sol. 1Flam. Sol. 2
-Self-reactive substance or mixture Self-react. ASelf-react. BSelf-react. CDSelf-react. EFSelf-react. G
+Gases under pressure Press. Gas ( *1 )
+Flammable liquid Flam. Liq. 1 Flam. Liq. 2 Flam. Liq. 3
+Flammable solid Flam. Sol. 1 Flam. Sol. 2
+Self-reactive substance or mixture Self-react. A Self-react. B Self-react. CD Self-react. EF Self-react. G
 Pyrophoric liquid Pyr. Liq. 1
 Pyrophoric solid Pyr. Sol. 1
-Self-heating substance or mixture Self-heat. 1Self-heat. 2
-Substance or mixture which in contact with water emits flammable gas Water-react. 1Water-react. 2Water-react. 3
-Oxidising liquid Ox. Liq. 1Ox. Liq. 2Ox. Liq. 3
-Oxidising solid Ox. Sol. 1Ox. Sol. 2Ox. Sol. 3
-Organic peroxide Org. Perox. AOrg. Perox. BOrg. Perox. CDOrg. Perox. EFOrg. Perox. G
+Self-heating substance or mixture Self-heat. 1 Self-heat. 2
+Substance or mixture which in contact with water emits flammable gas Water-react. 1 Water-react. 2 Water-react. 3
+Oxidising liquid Ox. Liq. 1 Ox. Liq. 2 Ox. Liq. 3
+Oxidising solid Ox. Sol. 1 Ox. Sol. 2 Ox. Sol. 3
+Organic peroxide Org. Perox. A Org. Perox. B Org. Perox. CD Org. Perox. EF Org. Perox. G
 Substance or mixture corrosive to metals Met. Corr. 1
-Acute toxicity Acute Tox. 1Acute Tox. 2Acute Tox. 3Acute Tox. 4
+Acute toxicity Acute Tox. 1 Acute Tox. 2 Acute Tox. 3 Acute Tox. 4
 ▼M12
-Skin corrosion/irritation Skin Corr. 1Skin Corr. 1ASkin Corr. 1BSkin Corr. 1CSkin Irrit. 2
+Skin corrosion/irritation Skin Corr. 1 Skin Corr. 1A Skin Corr. 1B Skin Corr. 1C Skin Irrit. 2
 ▼B
-Serious eye damage/eye irritation Eye Dam. 1Eye Irrit. 2
-Respiratory/skin sensitization ►M2Resp. Sens. 1, 1A, 1B◄►M2Skin. Sens. 1, 1A, 1B◄
-Germ cell mutagenicity Muta. 1AMuta. 1BMuta. 2
-Carcinogenicity Carc. 1ACarc. 1BCarc. 2
-Reproductive toxicity Repr. 1ARepr. 1BRepr. 2Lact.
-Specific target organ toxicity — single exposure STOT SE 1STOT SE 2STOT SE 3
-Specific target organ toxicity — repeated exposure STOT RE 1STOT RE 2
+Serious eye damage/eye irritation Eye Dam. 1 Eye Irrit. 2
+Respiratory/skin sensitization ►M2 Resp. Sens. 1, 1A, 1B ◄ ►M2 Skin. Sens. 1, 1A, 1B ◄
+Germ cell mutagenicity Muta. 1A Muta. 1B Muta. 2
+Carcinogenicity Carc. 1A Carc. 1B Carc. 2
+Reproductive toxicity Repr. 1A Repr. 1B Repr. 2 Lact.
+Specific target organ toxicity — single exposure STOT SE 1 STOT SE 2 STOT SE 3
+Specific target organ toxicity — repeated exposure STOT RE 1 STOT RE 2
 Aspiration hazard Asp. Tox. 1
-Hazardous to the aquatic environment Aquatic Acute 1Aquatic Chronic 1Aquatic Chronic 2Aquatic Chronic 3Aquatic Chronic 4
-Hazardous for the ozone layer ►M2Ozone 1◄
-(*1)see Note U in 1.1.3.
+Hazardous to the aquatic environment Aquatic Acute 1 Aquatic Chronic 1 Aquatic Chronic 2 Aquatic Chronic 3 Aquatic Chronic 4
+Hazardous for the ozone layer ►M2 Ozone 1 ◄
+( *1 ) see Note U in 1.1.3.
 
 1.1.2.1.2.
 Hazard statement codes
@@ -17061,7 +17051,7 @@ Translation between risk phrases assigned under Directive 67/548/EEC and supplem
 
 Directive 67/548/EEC This Regulation
 R1 EUH001
-▼M4—————
+▼M4 —————
 ▼B
 R14 EUH014
 R18 EUH018

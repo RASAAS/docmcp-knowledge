@@ -18,31 +18,31 @@ Whereas:
 (1) Point (b) of Article 2 of the Euratom Treaty provides for the establishment of uniform safety standards to protect the health of workers and of the general public. Article 30 of the Euratom Treaty defines "basic standards" for the protection of the health of workers and the general public against the dangers arising from ionising radiations.
 
 
-(2) In order to perform its task, the Community laid down basic standards for the first time in 1959 by means of Directives of 2 February 1959 laying down the basic standards for the protection of the health of workers and the general public against the dangers arising from ionising radiation(1). The Directives have been revised several times, most recently by Council Directive 96/29/Euratom(2)which repealed the earlier Directives.
+(2) In order to perform its task, the Community laid down basic standards for the first time in 1959 by means of Directives of 2 February 1959 laying down the basic standards for the protection of the health of workers and the general public against the dangers arising from ionising radiation ( 1 ) . The Directives have been revised several times, most recently by Council Directive 96/29/Euratom ( 2 ) which repealed the earlier Directives.
 
 
 (3) Directive 96/29/Euratom establishes the basic safety standards. The provisions of that Directive apply to normal and emergency situations and have been supplemented by more specific legislation.
 
 
-(4) Council Directive 97/43/Euratom(3), Council Directive 89/618/Euratom(4), Council Directive 90/641/Euratom(5)and Council Directive 2003/122/Euratom(6)cover different specific aspects complementary to Directive 96/29/Euratom.
+(4) Council Directive 97/43/Euratom ( 3 ) , Council Directive 89/618/Euratom ( 4 ) , Council Directive 90/641/Euratom ( 5 ) and Council Directive 2003/122/Euratom ( 6 ) cover different specific aspects complementary to Directive 96/29/Euratom.
 
 
 (5) As recognised by the Court of Justice of the European Union in its case-law, the tasks imposed on the Community by point (b) of Article 2 of the Euratom Treaty to lay down uniform safety standards to protect the health of workers and the general public does not preclude, unless explicitly stated in the standards, a Member State from providing for more stringent measures of protection. As this Directive provides for minimum rules, Member States should be free to adopt or maintain more stringent measures in the subject-matter covered by this Directive, without prejudice to the free movement of goods and services in the internal market as defined by the case-law of the Court of Justice.
 
 
-(6) The Group of Experts appointed by the Scientific and Technical Committee has advised that the basic safety standards, established according to Articles 30 and 31 of the Euratom Treaty, should take into account the new recommendations of the International Commission on Radiological Protection (ICRP), in particular those in ICRP Publication 103(7), and should be revised in the light of new scientific evidence and operational experience.
+(6) The Group of Experts appointed by the Scientific and Technical Committee has advised that the basic safety standards, established according to Articles 30 and 31 of the Euratom Treaty, should take into account the new recommendations of the International Commission on Radiological Protection (ICRP), in particular those in ICRP Publication 103 ( 7 ) , and should be revised in the light of new scientific evidence and operational experience.
 
 
 (7) The provisions of this Directive should follow the situation based approach introduced by ICRP Publication 103 and distinguish between existing, planned and emergency exposure situations. Taking into account this new framework, this Directive should cover all exposure situations and all categories of exposure, namely occupational, public and medical exposures.
 
 
-(8) The definition of the term "undertaking" in this Directive, and its use in the context of the protection of the health of workers against ionising radiation, is without prejudice to the legal systems and the allocation of responsibilities to the employer introduced in national legislation transposing Council Directive 89/391/EEC(8).
+(8) The definition of the term "undertaking" in this Directive, and its use in the context of the protection of the health of workers against ionising radiation, is without prejudice to the legal systems and the allocation of responsibilities to the employer introduced in national legislation transposing Council Directive 89/391/EEC ( 8 ) .
 
 
-(9) Calculation of doses from measureable quantities should rely on scientifically established values and relationships. Recommendations for such dose coefficients have been published and updated by ICRP, taking scientific progress into account. A collection of dose coefficients based on its earlier recommendations in ICRP Publication 60(9), is available as ICRP Publication 119(10). However, in ICRP Publication 103, a new methodology was introduced by ICRP to calculate doses based on the latest knowledge on radiation risks, and this should, where possible, be taken into account in this Directive.
+(9) Calculation of doses from measureable quantities should rely on scientifically established values and relationships. Recommendations for such dose coefficients have been published and updated by ICRP, taking scientific progress into account. A collection of dose coefficients based on its earlier recommendations in ICRP Publication 60 ( 9 ) , is available as ICRP Publication 119 ( 10 ) . However, in ICRP Publication 103, a new methodology was introduced by ICRP to calculate doses based on the latest knowledge on radiation risks, and this should, where possible, be taken into account in this Directive.
 
 
-(10) For external exposure, values and relationships have been published following the new methodology in ICRP Publication 116(11). These data, as well as the well-established operational quantities, should be used for the purpose of this Directive.
+(10) For external exposure, values and relationships have been published following the new methodology in ICRP Publication 116 ( 11 ) . These data, as well as the well-established operational quantities, should be used for the purpose of this Directive.
 
 
 (11) For internal exposure, while ICRP has consolidated in ICRP Publication 119 all earlier publications (on the basis of ICRP Publication 60) on dose coefficients, updates of this publication will be provided and the coefficients that are tabulated in it will be superseded by values based on the radiation and tissue weighting factors and phantoms laid down in ICRP Publication 103. The Commission will invite the group of experts referred to in Article 31 of the Euratom Treaty to continue to monitor scientific developments and the Commission will make recommendations on any updated values, relationships and coefficients, including those for exposure to radon, taking relevant opinions of the group of experts into account.
@@ -66,25 +66,25 @@ Whereas:
 (17) It is appropriate for this Directive to establish reference levels for indoor radon concentrations and for indoor gamma radiation emitted from building materials, and to introduce requirements on the recycling of residues from industries processing naturally-occurring radioactive materials into building materials.
 
 
-(18) Regulation (EU) No. 305/2011(12)lays down harmonised conditions for the marketing of construction products.
+(18) Regulation (EU) No. 305/2011 ( 12 ) lays down harmonised conditions for the marketing of construction products.
 
 
-(19) Building materials emitting gamma radiation should be within the scope of this Directive but should also be regarded as construction products as defined in Regulation (EU) No 305/2011, in the sense that that Regulation applies to construction works emitting dangerous substances or dangerous radiation.
+(19) Building materials emitting gamma radiation should be within the scope of this Directive but should also be regarded as construction products as defined in Regulation (EU) No 305/2011, in the sense that that Regulation applies to construction works emitting dangerous substances or dangerous radiation.
 
 
-(20) This Directive should be without prejudice to the provisions of Regulation (EU) No 305/2011 on the declaration of performance, the establishment of harmonised standards or the means and conditions for making available the declaration of performance or with regard to CE marking.
+(20) This Directive should be without prejudice to the provisions of Regulation (EU) No 305/2011 on the declaration of performance, the establishment of harmonised standards or the means and conditions for making available the declaration of performance or with regard to CE marking.
 
 
-(21) Regulation (EU) No 305/2011 requires information to be made available when products are placed on the market. This does not affect the right of Member States to specify in national legislation requirements for additional information they deem necessary to ensure radiation protection.
+(21) Regulation (EU) No 305/2011 requires information to be made available when products are placed on the market. This does not affect the right of Member States to specify in national legislation requirements for additional information they deem necessary to ensure radiation protection.
 
 
-(22) Recent epidemiological findings from residential studies demonstrate a statistically significant increase of lung cancer risk from prolonged exposure to indoor radon at levels of the order of 100 Bq m–3. The new concept of exposure situations allows the provisions of Commission Recommendation 90/143/Euratom(13)to be incorporated into the binding requirements of the Basic Safety Standards while leaving enough flexibility for implementation.
+(22) Recent epidemiological findings from residential studies demonstrate a statistically significant increase of lung cancer risk from prolonged exposure to indoor radon at levels of the order of 100 Bq m –3 . The new concept of exposure situations allows the provisions of Commission Recommendation 90/143/Euratom ( 13 ) to be incorporated into the binding requirements of the Basic Safety Standards while leaving enough flexibility for implementation.
 
 
 (23) National action plans are needed for addressing long-term risks from radon exposure. It is recognized that the combination of smoking and high radon exposure presents a substantially higher individual lung cancer risk than either factor individually and that smoking amplifies the risk from radon exposure at the population level. It is important that Member States address both of these health hazards.
 
 
-(24) Where, due to national prevailing circumstances, a Member State establishes a reference level for indoor radon concentrations in workplaces that is higher than 300 Bq m–3, the Member State should submit the information to the Commission.
+(24) Where, due to national prevailing circumstances, a Member State establishes a reference level for indoor radon concentrations in workplaces that is higher than 300 Bq m –3 , the Member State should submit the information to the Commission.
 
 
 (25) Where radon enters from the ground into indoor workplaces, this should be considered to be an existing exposure situation since the presence of radon is largely independent of the human activities carried out within the workplace. Such exposures may be significant in certain areas or specific types of workplaces to be identified by Member States, and appropriate radon and exposure reduction measures should be taken if the national reference level is exceeded. Where levels continue to remain above the national reference level, these human activities carried out within the workplace should not be regarded as practices. However, Member States should ensure that these workplaces are notified and that, in cases where the exposure of workers is liable to exceed an effective dose of 6 mSv per year or a corresponding time-integrated radon exposure value, they are managed as a planned exposure situation and that dose limits apply, and determine which operational protection requirements need be applied.
@@ -102,7 +102,7 @@ Whereas:
 (29) A high level of competence and a clear definition of responsibilities and tasks among all professionals involved in medical exposure is fundamental to ensure adequate protection of patients undergoing medical radiodiagnostic and radiotherapeutic procedures. This applies to medical doctors, dentists and other health professionals entitled to take clinical responsibility for individual medical exposures, to medical physicists and to other professionals carrying out practical aspects of medical radiological procedures, such as radiographers and technicians in radiodiagnostic medicine, nuclear medicine and radiotherapy.
 
 
-(30) Accidental and unintended medical exposures are a source of continuing concern. Whereas for medical devices post-market surveillance is required under Council Directive 93/42/EEC(14), it is the role of the competent authority in radiation protection to address the prevention of accidental and unintended medical exposure and the follow-up in case of their occurrence. In this respect, the role of quality assurance programmes, including a study of risks in radiotherapy, to avoid such incidents should be emphasised, and recording, reporting, analysis and corrective action should be required in such cases.
+(30) Accidental and unintended medical exposures are a source of continuing concern. Whereas for medical devices post-market surveillance is required under Council Directive 93/42/EEC ( 14 ) , it is the role of the competent authority in radiation protection to address the prevention of accidental and unintended medical exposure and the follow-up in case of their occurrence. In this respect, the role of quality assurance programmes, including a study of risks in radiotherapy, to avoid such incidents should be emphasised, and recording, reporting, analysis and corrective action should be required in such cases.
 
 
 (31) In veterinary practice the use of ionising radiation for imaging is growing, often with second-hand equipment from the medical sector. Especially in the case of larger animals, or in the administration of radiopharmaceuticals to animals, there is a substantial risk of high occupational exposures and of exposure of accompanying persons. This calls for the provision of adequate information and the education of veterinarians and their staff.
@@ -117,19 +117,19 @@ Whereas:
 (34) The application of radiation protection principles in relation to consumer products requires the regulatory control of practices to start at the stage of design and manufacture of products or at the time of import of such products. Therefore, the manufacture or import of consumer products should be regulated and specific procedures should be introduced, so as to allow the timely justification of the intended use of the consumer products, as well as to allow checking that this use can be exempted from regulatory control. While such assessment should continue to be carried out in the Member State in which those practices are conducted, Member States should inform each other, so as to allow them to request relevant information from the undertakings in question and to make their own assessment.
 
 
-(35) The deliberate addition of radioactive substances to certain categories of consumer products should remain prohibited, but it needs to be made clear that this also applies to the activation of such products by irradiation, without prejudice to existing legislation such as Directive 1999/2/EC of the European Parliament and of the Council(15).
+(35) The deliberate addition of radioactive substances to certain categories of consumer products should remain prohibited, but it needs to be made clear that this also applies to the activation of such products by irradiation, without prejudice to existing legislation such as Directive 1999/2/EC of the European Parliament and of the Council ( 15 ) .
 
 
 (36) Member States should benefit from the application of a graded approach to regulatory control, which should be commensurate with the magnitude and likelihood of exposures resulting from the practices, and commensurate with the impact that regulatory control may have in reducing such exposures or improving the safety of installations.
 
 
-(37) There is a benefit in having the same activity concentration values both for the exemption of practices from regulatory control and for the clearance of materials from authorised practices. After a comprehensive review, it has been concluded that the values recommended in IAEA publication Application of the Concepts of Exclusion, Exemption and Clearance(16)can be used both as default exemption values, replacing the activity concentration values laid down in Annex I to Directive 96/29/Euratom, and as general clearance levels, replacing the values recommended by the Commission in Radiation Protection No 122(17).
+(37) There is a benefit in having the same activity concentration values both for the exemption of practices from regulatory control and for the clearance of materials from authorised practices. After a comprehensive review, it has been concluded that the values recommended in IAEA publication Application of the Concepts of Exclusion, Exemption and Clearance ( 16 ) can be used both as default exemption values, replacing the activity concentration values laid down in Annex I to Directive 96/29/Euratom, and as general clearance levels, replacing the values recommended by the Commission in Radiation Protection No 122 ( 17 ) .
 
 
 (38) Member States should be able to grant specific exemption from authorisation for certain practices involving activities above the exemption values.
 
 
-(39) Specific clearance levels, as well as corresponding Community guidance(18), remain important tools for the management of large volumes of materials arising from the dismantling of authorised facilities.
+(39) Specific clearance levels, as well as corresponding Community guidance ( 18 ) , remain important tools for the management of large volumes of materials arising from the dismantling of authorised facilities.
 
 
 (40) Member States should ensure that outside workers receive the same protection as exposed workers employed by an undertaking performing practices with radiation sources. The specific arrangements for outside workers in Directive 90/641/Euratom should be extended to also cover work in supervised areas.
@@ -144,7 +144,7 @@ Whereas:
 (43) The efficient management of an emergency with cross-border consequences calls for enhanced cooperation between Member States in emergency planning and response.
 
 
-(44) While urgent information exchange between Member States and the Commission in the event of an emergency is established through Council Decision 87/600/Euratom(19), there is a need to put in place arrangements for information exchange beyond the scope of this Decision to allow cooperation with all other Member States and with third countries which may be involved or are likely to be affected.
+(44) While urgent information exchange between Member States and the Commission in the event of an emergency is established through Council Decision 87/600/Euratom ( 19 ) , there is a need to put in place arrangements for information exchange beyond the scope of this Decision to allow cooperation with all other Member States and with third countries which may be involved or are likely to be affected.
 
 
 (45) The IAEA together with the World Health Organisation, the Food and Agricultural Organisation, the International Labour Organisation, the Nuclear Energy Agency of the Organisation for Economic Cooperation and Development, and the Pan-American Health Organisation have revised the International Basic Safety Standards in the light of the ICRP's new Publication 103, and the Commission has informed the IAEA of its decision of 6 August 2012 to co-sponsor that document on behalf of the European Atomic Energy Community.
@@ -153,16 +153,16 @@ Whereas:
 (46) The roles and responsibilities of the national services and experts involved in ensuring that the technical and practical aspects of radiation protection are managed with a high level of competence need to be clarified. This Directive should clearly distinguish between the different roles and responsibilities of the services and experts without precluding that national frameworks allow the grouping of responsibilities or allow the assignment of responsibilities for specific technical and practical tasks in radiation protection to specified experts.
 
 
-(47) Commission Recommendation 2004/2/Euratom(20)introduced standardised information for the reporting of data on discharges from nuclear power plants and reprocessing facilities, for transmission of the data to the Commission under Article 36 of the Euratom Treaty.
+(47) Commission Recommendation 2004/2/Euratom ( 20 ) introduced standardised information for the reporting of data on discharges from nuclear power plants and reprocessing facilities, for transmission of the data to the Commission under Article 36 of the Euratom Treaty.
 
 
 (48) Member States should have in place precise requirements for the issuing of discharge authorisations and the monitoring of discharges. The reporting of data to the competent authority on discharges from nuclear power plants and reprocessing facilities should be based on standardised information.
 
 
-(49) Under Article 35 of the Euratom Treaty Member States shall ensure that an appropriate programme to monitor the level of radioactivity in the environment is in place. Under Article 36 of the Euratom Treaty Member States shall report the results of such monitoring to the Commission. Reporting requirements under Article 36 of the Euratom Treaty have been explained in Commission Recommendation 2000/473/Euratom(21).
+(49) Under Article 35 of the Euratom Treaty Member States shall ensure that an appropriate programme to monitor the level of radioactivity in the environment is in place. Under Article 36 of the Euratom Treaty Member States shall report the results of such monitoring to the Commission. Reporting requirements under Article 36 of the Euratom Treaty have been explained in Commission Recommendation 2000/473/Euratom ( 21 ) .
 
 
-(50) Council Regulation (EU) No 333/2011(22)establishes criteria determining when certain types of scrap metal cease to be waste under Directive 2008/98/EC of the European Parliament and of the Council of 19 November 2008 on waste(23). Measures need to be taken to prevent the accidental melting of orphan sources as well as to ensure compliance of metals released from nuclear installations, for instance during their dismantling, with clearance criteria.
+(50) Council Regulation (EU) No 333/2011 ( 22 ) establishes criteria determining when certain types of scrap metal cease to be waste under Directive 2008/98/EC of the European Parliament and of the Council of 19 November 2008 on waste ( 23 ) . Measures need to be taken to prevent the accidental melting of orphan sources as well as to ensure compliance of metals released from nuclear installations, for instance during their dismantling, with clearance criteria.
 
 
 (51) Changes need to be made to Directive 2003/122/Euratom to broaden some of the requirements to include any radioactive source. Unresolved problems with orphan sources remain, and there have been significant cases of contaminated metal being imported from third countries. A requirement should therefore be introduced for the notification of incidents with orphan sources or the contamination of metal. It is also important to harmonise the levels above which a source is regarded as a high-activity sealed source with those established by the IAEA.
@@ -202,10 +202,9 @@ Scope
 (b) the manufacture and the operation of electrical equipment emitting ionising radiation and containing components operating at a potential difference of more than 5 kilovolt (kV);
 
 
-| (c) | human activities which involve the presence of natural radiation sources that lead to a significant increase in the exposure of workers or members of the public, in particular: (i) the operation of aircraft and spacecraft, in relation to the exposure of crews; (ii) the processing of materials with naturally-occurring radionuclides; | (i) | the operation of aircraft and spacecraft, in relation to the exposure of crews; | (ii) | the processing of materials with naturally-occurring radionuclides; |
-| --- | --- | --- | --- | --- | --- |
-| (i) | the operation of aircraft and spacecraft, in relation to the exposure of crews; |  |  |  |  |
-| (ii) | the processing of materials with naturally-occurring radionuclides; |  |  |  |  |
+(c) human activities which involve the presence of natural radiation sources that lead to a significant increase in the exposure of workers or members of the public, in particular:
+(i) the operation of aircraft and spacecraft, in relation to the exposure of crews;
+(ii) the processing of materials with naturally-occurring radionuclides;
 
 
 (d) the exposure of workers or members of the public to indoor radon, the external exposure from building materials and cases of lasting exposure resulting from the after-effects of an emergency or a past human activity.
@@ -239,10 +238,11 @@ This Directive shall not apply to:
 Definitions
 For the purpose of this Directive, the following definitions shall apply:
 
-| (1) | "Absorbed dose" (D) is the energy absorbed per unit mass where is the mean energy imparted by ionising radiation to the matter in a volume element, dm is the mass of the matter in this volume element. In this Directive, absorbed dose denotes the dose averaged over a tissue or an organ. The unit for absorbed dose is the gray (Gy) where one gray is equal to one joule per kilogram: ; |  | is the mean energy imparted by ionising radiation to the matter in a volume element, | dm | is the mass of the matter in this volume element. |
-| --- | --- | --- | --- | --- | --- |
-|  | is the mean energy imparted by ionising radiation to the matter in a volume element, |  |  |  |  |
-| dm | is the mass of the matter in this volume element. |  |  |  |  |
+(1) "Absorbed dose" (D) is the energy absorbed per unit mass
+where
+is the mean energy imparted by ionising radiation to the matter in a volume element,
+dm is the mass of the matter in this volume element.
+In this Directive, absorbed dose denotes the dose averaged over a tissue or an organ. The unit for absorbed dose is the gray (Gy) where one gray is equal to one joule per kilogram: ;
 
 
 (2) "accelerator" means equipment or installation in which particles are accelerated, emitting ionising radiation with energy higher than 1 mega-electron volt (MeV);
@@ -254,7 +254,8 @@ For the purpose of this Directive, the following definitions shall apply:
 (4) "activation" means a process through which a stable nuclide is transformed into a radionuclide by irradiating with particles or high-energy photons the material in which it is contained;
 
 
-(5) "activity" (A) is the activity of an amount of a radionuclide in a particular energy state at a given time. It is the quotient of dN by dt, where dN is the expectation value of the number of nuclear transitions from that energy state in the time interval dt:The unit of activity is the becquerel (Bq);
+(5) "activity" (A) is the activity of an amount of a radionuclide in a particular energy state at a given time. It is the quotient of dN by dt, where dN is the expectation value of the number of nuclear transitions from that energy state in the time interval dt:
+The unit of activity is the becquerel (Bq);
 
 
 (6) "apprentice" means a person receiving training or instruction within an undertaking with a view to exercising a specific skill;
@@ -263,7 +264,8 @@ For the purpose of this Directive, the following definitions shall apply:
 (7) "authorisation" means the registration or licensing of a practice;
 
 
-(8) "becquerel" (Bq) is the special name of the unit of activity. One becquerel is equivalent to one nuclear transition per second:;
+(8) "becquerel" (Bq) is the special name of the unit of activity. One becquerel is equivalent to one nuclear transition per second:
+;
 
 
 (9) "building material" means any construction product for incorporation in a permanent manner in a building or parts thereof and the performance of which has an effect on the performance of the building with regard to exposure of its occupants to ionising radiation;
@@ -281,13 +283,16 @@ For the purpose of this Directive, the following definitions shall apply:
 (13) "clinical responsibility" means responsibility of a practitioner for individual medical exposures, in particular, justification; optimisation; clinical evaluation of the outcome; cooperation with other specialists and staff, as appropriate, regarding practical aspects of medical radiological procedures; obtaining information, if appropriate, on previous examinations; providing existing medical radiological information and/or records to other practitioners and/or the referrer, as required; and giving information on the risk of ionising radiation to patients and other individuals involved, as appropriate;
 
 
-(14) "committed effective dose" (E(τ)) is the sum of the committed organ or tissue equivalent doses HT(τ) resulting from an intake, each multiplied by the appropriate tissue weighting factor wT. It is defined by:In specifying E(τ), is given in the number of years over which the integration is made. For the purpose of complying with dose limits specified in this Directive, is a period of 50 years following intake for adults and up to the age of 70 for infants and children. The unit for committed effective dose is the sievert (Sv);
+(14) "committed effective dose" (E(τ)) is the sum of the committed organ or tissue equivalent doses H T (τ) resulting from an intake, each multiplied by the appropriate tissue weighting factor w T . It is defined by:
+In specifying E(τ), is given in the number of years over which the integration is made. For the purpose of complying with dose limits specified in this Directive, is a period of 50 years following intake for adults and up to the age of 70 for infants and children. The unit for committed effective dose is the sievert (Sv);
 
 
-| (15) | "committed equivalent dose" (H T (τ)) is the integral over time (t) of the equivalent dose rate in tissue or organ T that will be received by an individual as a result of an intake. It is given by: for an intake at time t 0 where is the relevant equivalent dose rate in organ or tissue T at time t , τ is the time over which the integration is performed. In specifying H T (τ), is given in number of years over which the integration is made. For the purpose of complying with dose limits specified in this Directive, τ is a period of 50 years for adults and up to the age of 70 for infants and children. The unit for committed equivalent dose is the sievert (Sv); |  | is the relevant equivalent dose rate in organ or tissue T at time t , | τ | is the time over which the integration is performed. |
-| --- | --- | --- | --- | --- | --- |
-|  | is the relevant equivalent dose rate in organ or tissue T at time t , |  |  |  |  |
-| τ | is the time over which the integration is performed. |  |  |  |  |
+(15) "committed equivalent dose" (H T (τ)) is the integral over time (t) of the equivalent dose rate in tissue or organ T that will be received by an individual as a result of an intake.
+It is given by:
+for an intake at time t 0 where
+is the relevant equivalent dose rate in organ or tissue T at time t ,
+τ is the time over which the integration is performed.
+In specifying H T (τ), is given in number of years over which the integration is made. For the purpose of complying with dose limits specified in this Directive, τ is a period of 50 years for adults and up to the age of 70 for infants and children. The unit for committed equivalent dose is the sievert (Sv);
 
 
 (16) "competent authority" means an authority or system of authorities designated by Member States as having legal authority for the purposes of this Directive;
@@ -317,11 +322,12 @@ For the purpose of this Directive, the following definitions shall apply:
 (24) "dosimetry service" means a body or an individual competent to calibrate, read or interpret individual monitoring devices, or to measure radioactivity in the human body or in biological samples, or to assess doses, whose capacity to act in this respect is recognised by the competent authority;
 
 
-| (25) | "effective dose" (E) is the sum of the weighted equivalent doses in all the tissues and organs of the body from internal and external exposure. It is defined by the expression: where D T,R is the absorbed dose averaged over tissue or organ T, due to radiation R, w R is the radiation weighting factor and w T is the tissue weighting factor for tissue or organ T. The values for w T and w R are specified in Annex II. The unit for effective dose is the sievert (Sv); | D T,R | is the absorbed dose averaged over tissue or organ T, due to radiation R, | w R | is the radiation weighting factor and | w T | is the tissue weighting factor for tissue or organ T. |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| D T,R | is the absorbed dose averaged over tissue or organ T, due to radiation R, |  |  |  |  |  |  |
-| w R | is the radiation weighting factor and |  |  |  |  |  |  |
-| w T | is the tissue weighting factor for tissue or organ T. |  |  |  |  |  |  |
+(25) "effective dose" (E) is the sum of the weighted equivalent doses in all the tissues and organs of the body from internal and external exposure. It is defined by the expression:
+where
+DT,R is the absorbed dose averaged over tissue or organ T, due to radiation R,
+wR is the radiation weighting factor and
+wT is the tissue weighting factor for tissue or organ T.
+The values for w T and w R are specified in Annex II. The unit for effective dose is the sievert (Sv);
 
 
 (26) "emergency" means a non-routine situation or event involving a radiation source that necessitates prompt action to mitigate serious adverse consequences for human health and safety, quality of life, property or the environment, or a hazard that could give rise to such serious adverse consequences;
@@ -345,10 +351,13 @@ For the purpose of this Directive, the following definitions shall apply:
 (32) "environmental monitoring" means the measurement of external dose rates due to radioactive substances in the environment or of concentrations of radionuclides in environmental media;
 
 
-| (33) | "equivalent dose" (H T ) is the absorbed dose, in tissue or organ T weighted for the type and quality of radiation R. It is given by: , where D T,R is the absorbed dose averaged over tissue or organ T, due to radiation R, w R is the radiation weighting factor. When the radiation field is composed of types and energies with different values of w R , the total equivalent dose, H T , is given by: The values for w R are specified in Annex II, Part A. The unit for equivalent dose is the sievert (Sv); | D T,R | is the absorbed dose averaged over tissue or organ T, due to radiation R, | w R | is the radiation weighting factor. |
-| --- | --- | --- | --- | --- | --- |
-| D T,R | is the absorbed dose averaged over tissue or organ T, due to radiation R, |  |  |  |  |
-| w R | is the radiation weighting factor. |  |  |  |  |
+(33) "equivalent dose" (H T ) is the absorbed dose, in tissue or organ T weighted for the type and quality of radiation R. It is given by:
+,
+where
+DT,R is the absorbed dose averaged over tissue or organ T, due to radiation R,
+wR is the radiation weighting factor.
+When the radiation field is composed of types and energies with different values of w R , the total equivalent dose, H T , is given by:
+The values for w R are specified in Annex II, Part A. The unit for equivalent dose is the sievert (Sv);
 
 
 (34) "exemption level" means a value established by a competent authority or in legislation and expressed in terms of activity concentration or total activity at or below which a radiation source is not subject to notification or authorisation;
@@ -387,7 +396,7 @@ For the purpose of this Directive, the following definitions shall apply:
 (45) "interventional radiology" means the use of X-ray imaging techniques to facilitate the introduction and guidance of devices in the body for diagnostic or treatment purposes;
 
 
-(46) "ionising radiation" means energy transferred in the form of particles or electromagnetic waves of a wavelength of 100 nanometres or less (a frequency of 3 × 1015hertz or more) capable of producing ions directly or indirectly;
+(46) "ionising radiation" means energy transferred in the form of particles or electromagnetic waves of a wavelength of 100 nanometres or less (a frequency of 3 × 10 15 hertz or more) capable of producing ions directly or indirectly;
 
 
 (47) "licence" means permission granted in a document by the competent authority to carry out a practice in accordance with specific conditions laid down in that document;
@@ -522,7 +531,8 @@ For the purpose of this Directive, the following definitions shall apply:
 (90) "sealed source" means a radioactive source in which the radioactive material is permanently sealed in a capsule or incorporated in a solid form with the objective of preventing, under normal conditions of use, any dispersion of radioactive substances;
 
 
-(91) "sievert" (Sv) is the special name of the unit of equivalent or effective dose. One sievert is equivalent to one joule per kilogram:;
+(91) "sievert" (Sv) is the special name of the unit of equivalent or effective dose. One sievert is equivalent to one joule per kilogram:
+;
 
 
 (92) "storage" means the holding of radioactive material, including spent fuel, a radioactive source or radioactive waste, in a facility with the intention of retrieval;
@@ -534,7 +544,7 @@ For the purpose of this Directive, the following definitions shall apply:
 (94) "source container" means an assembly of components intended to guarantee the containment of a sealed source, where it is not an integral part of the source but is meant for shielding the source during its transport and handling;
 
 
-(95) "spacecraft" means a manned vehicle designed to operate at an altitude of more than 100 km above sea level;
+(95) "spacecraft" means a manned vehicle designed to operate at an altitude of more than 100 km above sea level;
 
 
 (96) "standard values and relationships" means values and relationships recommended in chapters 4 and 5 of ICRP Publication 116 for the estimation of doses from external exposure and chapter 1 of ICRP Publication 119 for the estimation of doses from internal exposure, including updates approved by Member States. Member State may approve the use of specific methods in specified cases relating to the physico-chemical properties of the radionuclide or other features of the exposure situation or of the exposed individual;
@@ -618,7 +628,7 @@ Dose limits for occupational exposure
 (a) the limit on the equivalent dose for the lens of the eye shall be 20 mSv in a single year or 100 mSv in any five consecutive years subject to a maximum dose of 50 mSv in a single year, as specified in national legislation.
 
 
-(b) the limit on the equivalent dose for the skin shall be 500 mSv in a year, this limit shall apply to the dose averaged over any area of 1 cm2, regardless of the area exposed;
+(b) the limit on the equivalent dose for the skin shall be 500 mSv in a year, this limit shall apply to the dose averaged over any area of 1 cm 2 , regardless of the area exposed;
 
 
 (c) the limit on the equivalent dose for the extremities shall be 500 mSv in a year.
@@ -640,7 +650,7 @@ Dose limits for apprentices and students
 (a) the limit on the equivalent dose for the lens of the eye shall be 15 mSv in a year;
 
 
-(b) the limit on the equivalent dose for the skin shall be 150 mSv in a year, averaged over any area of 1 cm2, regardless of the area exposed;
+(b) the limit on the equivalent dose for the skin shall be 150 mSv in a year, averaged over any area of 1 cm 2 , regardless of the area exposed;
 
 
 (c) the limit on the equivalent dose for the extremities shall be 150 mSv in a year.
@@ -657,7 +667,7 @@ Dose limits for public exposure
 (a) the limit on the equivalent dose for the lens of the eye shall be 15 mSv in a year;
 
 
-(b) the limit on the equivalent dose for the skin shall be 50 mSv in a year, averaged over any 1 cm2area of skin, regardless of the area exposed.
+(b) the limit on the equivalent dose for the skin shall be 50 mSv in a year, averaged over any 1 cm 2 area of skin, regardless of the area exposed.
 
 
 ### Article 13
@@ -800,11 +810,10 @@ Practices involving the deliberate exposure of humans for non-medical imaging pu
 (b) requirements for the practice, including criteria for individual implementation, are established by the competent authority, in cooperation with other relevant bodies and medical scientific societies, as appropriate;
 
 
-| (c) | for procedures using medical radiological equipment (i) relevant requirements identified for medical exposure as set out in Chapter VII are applied, including those for equipment, optimisation, responsibilities, training and special protection during pregnancy and the appropriate involvement of the medical physics expert; (ii) where appropriate, specific protocols, consistent with the objective of the exposure and required image quality, are put in place; (iii) where practicable, specific diagnostic reference levels are put in place; | (i) | relevant requirements identified for medical exposure as set out in Chapter VII are applied, including those for equipment, optimisation, responsibilities, training and special protection during pregnancy and the appropriate involvement of the medical physics expert; | (ii) | where appropriate, specific protocols, consistent with the objective of the exposure and required image quality, are put in place; | (iii) | where practicable, specific diagnostic reference levels are put in place; |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| (i) | relevant requirements identified for medical exposure as set out in Chapter VII are applied, including those for equipment, optimisation, responsibilities, training and special protection during pregnancy and the appropriate involvement of the medical physics expert; |  |  |  |  |  |  |
-| (ii) | where appropriate, specific protocols, consistent with the objective of the exposure and required image quality, are put in place; |  |  |  |  |  |  |
-| (iii) | where practicable, specific diagnostic reference levels are put in place; |  |  |  |  |  |  |
+(c) for procedures using medical radiological equipment
+(i) relevant requirements identified for medical exposure as set out in Chapter VII are applied, including those for equipment, optimisation, responsibilities, training and special protection during pregnancy and the appropriate involvement of the medical physics expert;
+(ii) where appropriate, specific protocols, consistent with the objective of the exposure and required image quality, are put in place;
+(iii) where practicable, specific diagnostic reference levels are put in place;
 
 
 (d) for procedures not using medical radiological equipment, dose constraints are significantly below the dose limit for members of the public;
@@ -851,17 +860,17 @@ Exemption from notification
 (b) without prejudice to Article 25(4), radioactive materials where the activity concentrations do not exceed the exemption values set out in Table A of Annex VII, or higher values that, for specific applications, are approved by the competent authority and satisfy the general exemption and clearance criteria set out in Annex VII; or
 
 
-| (c) | apparatus containing a sealed source, provided that: (i) the apparatus is of a type approved by the competent authority; (ii) the apparatus does not cause, in normal operating conditions, a dose rate exceeding at a distance of 0.1 m from any accessible surface; and (iii) conditions for recycling or disposal have been specified by the competent authority; or | (i) | the apparatus is of a type approved by the competent authority; | (ii) | the apparatus does not cause, in normal operating conditions, a dose rate exceeding at a distance of 0.1 m from any accessible surface; and | (iii) | conditions for recycling or disposal have been specified by the competent authority; or |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| (i) | the apparatus is of a type approved by the competent authority; |  |  |  |  |  |  |
-| (ii) | the apparatus does not cause, in normal operating conditions, a dose rate exceeding at a distance of 0.1 m from any accessible surface; and |  |  |  |  |  |  |
-| (iii) | conditions for recycling or disposal have been specified by the competent authority; or |  |  |  |  |  |  |
+(c) apparatus containing a sealed source, provided that:
+(i) the apparatus is of a type approved by the competent authority;
+(ii) the apparatus does not cause, in normal operating conditions, a dose rate exceeding
+at a distance of 0.1 m from any accessible surface; and
+(iii) conditions for recycling or disposal have been specified by the competent authority; or
 
 
-| (d) | any electrical apparatus provided that: (i) it is a cathode ray tube intended for the display of visual images, or other electrical apparatus operating at a potential difference not exceeding 30 kilo volt (kV), or it is of a type approved by the competent authority; and (ii) it does not cause, in normal operating conditions, a dose rate exceeding at a distance of 0.1 m from any accessible surface. | (i) | it is a cathode ray tube intended for the display of visual images, or other electrical apparatus operating at a potential difference not exceeding 30 kilo volt (kV), or it is of a type approved by the competent authority; and | (ii) | it does not cause, in normal operating conditions, a dose rate exceeding at a distance of 0.1 m from any accessible surface. |
-| --- | --- | --- | --- | --- | --- |
-| (i) | it is a cathode ray tube intended for the display of visual images, or other electrical apparatus operating at a potential difference not exceeding 30 kilo volt (kV), or it is of a type approved by the competent authority; and |  |  |  |  |
-| (ii) | it does not cause, in normal operating conditions, a dose rate exceeding at a distance of 0.1 m from any accessible surface. |  |  |  |  |
+(d) any electrical apparatus provided that:
+(i) it is a cathode ray tube intended for the display of visual images, or other electrical apparatus operating at a potential difference not exceeding 30 kilo volt (kV), or it is of a type approved by the competent authority; and
+(ii) it does not cause, in normal operating conditions, a dose rate exceeding
+at a distance of 0.1 m from any accessible surface.
 
 2. Member States may exempt specific types of practices from the notification requirement subject to compliance with the general exemption criteria established in point 3 of Annex VII, on the basis of an assessment showing that exemption is the best option.
 
@@ -1385,11 +1394,10 @@ Member States shall ensure that:
 (c) referral guidelines for medical imaging, taking into account the radiation doses, are available to the referrers;
 
 
-| (d) | in medical radiological practices, a medical physics expert is appropriately involved, the level of involvement being commensurate with the radiological risk posed by the practice. In particular: (i) in radiotherapeutic practices other than standardised therapeutic nuclear medicine practices, a medical physics expert shall be closely involved; (ii) in standardised therapeutical nuclear medicine practices as well as in radiodiagnostic and interventional radiology practices, involving high doses as referred to in point (c) of Article 61(1), a medical physics expert shall be involved; (iii) for other medical radiological practices not covered by points (a) and (b), a medical physics expert shall be involved, as appropriate, for consultation and advice on matters relating to radiation protection concerning medical exposure. | (i) | in radiotherapeutic practices other than standardised therapeutic nuclear medicine practices, a medical physics expert shall be closely involved; | (ii) | in standardised therapeutical nuclear medicine practices as well as in radiodiagnostic and interventional radiology practices, involving high doses as referred to in point (c) of Article 61(1), a medical physics expert shall be involved; | (iii) | for other medical radiological practices not covered by points (a) and (b), a medical physics expert shall be involved, as appropriate, for consultation and advice on matters relating to radiation protection concerning medical exposure. |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| (i) | in radiotherapeutic practices other than standardised therapeutic nuclear medicine practices, a medical physics expert shall be closely involved; |  |  |  |  |  |  |
-| (ii) | in standardised therapeutical nuclear medicine practices as well as in radiodiagnostic and interventional radiology practices, involving high doses as referred to in point (c) of Article 61(1), a medical physics expert shall be involved; |  |  |  |  |  |  |
-| (iii) | for other medical radiological practices not covered by points (a) and (b), a medical physics expert shall be involved, as appropriate, for consultation and advice on matters relating to radiation protection concerning medical exposure. |  |  |  |  |  |  |
+(d) in medical radiological practices, a medical physics expert is appropriately involved, the level of involvement being commensurate with the radiological risk posed by the practice. In particular:
+(i) in radiotherapeutic practices other than standardised therapeutic nuclear medicine practices, a medical physics expert shall be closely involved;
+(ii) in standardised therapeutical nuclear medicine practices as well as in radiodiagnostic and interventional radiology practices, involving high doses as referred to in point (c) of Article 61(1), a medical physics expert shall be involved;
+(iii) for other medical radiological practices not covered by points (a) and (b), a medical physics expert shall be involved, as appropriate, for consultation and advice on matters relating to radiation protection concerning medical exposure.
 
 
 (e) clinical audits are carried out in accordance with national procedures;
@@ -1481,10 +1489,8 @@ Member States shall ensure that:
 (d) arrangements are made to inform the referrer and the practitioner, and the patient, or their representative, about clinically significant unintended or accidental exposures and the results of the analysis;
 
 
-| (e) | (i) the undertaking declares as soon as possible to the competent authority the occurrence of significant events as defined by the competent authority; (ii) the results of the investigation and the corrective measures to avoid such events are reported to the competent authority within the time period specified by the Member State; | (i) | the undertaking declares as soon as possible to the competent authority the occurrence of significant events as defined by the competent authority; | (ii) | the results of the investigation and the corrective measures to avoid such events are reported to the competent authority within the time period specified by the Member State; |
-| --- | --- | --- | --- | --- | --- |
-| (i) | the undertaking declares as soon as possible to the competent authority the occurrence of significant events as defined by the competent authority; |  |  |  |  |
-| (ii) | the results of the investigation and the corrective measures to avoid such events are reported to the competent authority within the time period specified by the Member State; |  |  |  |  |
+(e) (i) the undertaking declares as soon as possible to the competent authority the occurrence of significant events as defined by the competent authority;
+(ii) the results of the investigation and the corrective measures to avoid such events are reported to the competent authority within the time period specified by the Member State;
 
 
 (f) mechanisms are in place for the timely dissemination of information, relevant to radiation protection in medical exposure, regarding lessons learned from significant events.
@@ -1546,11 +1552,10 @@ Estimation of doses to the members of the public
 (b) decide on a reasonable frequency of monitoring of the relevant parameters as determined in point (a);
 
 
-| (c) | ensure that the estimates of doses to the representative person include: i) assessment of the doses due to external radiation, indicating, where appropriate, the type of the radiation in question; ii) assessment of the intake of radionuclides, indicating the nature of the radionuclides and, where necessary, their physical and chemical states, and determination of the activity concentrations of these radionuclides in food and drinking water or other relevant environmental media; iii) assessment of the doses that the representative person, as identified in point (a), is liable to receive; | i) | assessment of the doses due to external radiation, indicating, where appropriate, the type of the radiation in question; | ii) | assessment of the intake of radionuclides, indicating the nature of the radionuclides and, where necessary, their physical and chemical states, and determination of the activity concentrations of these radionuclides in food and drinking water or other relevant environmental media; | iii) | assessment of the doses that the representative person, as identified in point (a), is liable to receive; |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| i) | assessment of the doses due to external radiation, indicating, where appropriate, the type of the radiation in question; |  |  |  |  |  |  |
-| ii) | assessment of the intake of radionuclides, indicating the nature of the radionuclides and, where necessary, their physical and chemical states, and determination of the activity concentrations of these radionuclides in food and drinking water or other relevant environmental media; |  |  |  |  |  |  |
-| iii) | assessment of the doses that the representative person, as identified in point (a), is liable to receive; |  |  |  |  |  |  |
+(c) ensure that the estimates of doses to the representative person include:
+i) assessment of the doses due to external radiation, indicating, where appropriate, the type of the radiation in question;
+ii) assessment of the intake of radionuclides, indicating the nature of the radionuclides and, where necessary, their physical and chemical states, and determination of the activity concentrations of these radionuclides in food and drinking water or other relevant environmental media;
+iii) assessment of the doses that the representative person, as identified in point (a), is liable to receive;
 
 
 (d) require records to be kept and be made available on request to all stakeholders relating to measurements of external exposure and contamination, estimates of intakes of radionuclides, and the results of the assessment of the doses received by the representative person.

@@ -13,11 +13,18 @@ For the purposes of this Directive, the following terms shall bear the following
 ▼M4 —————
 ▼M4
 
-2. Medicinal product :(a)Any substance or combination of substances presented as having properties for treating or preventing disease in human beings; or(b)Any substance or combination of substances which may be used in or administered to human beings either with a view to restoring, correcting or modifying physiological functions by exerting a pharmacological, immunological or metabolic action, or to making a medical diagnosis.
+2. Medicinal product :
+(a) Any substance or combination of substances presented as having properties for treating or preventing disease in human beings; or
+(b) Any substance or combination of substances which may be used in or administered to human beings either with a view to restoring, correcting or modifying physiological functions by exerting a pharmacological, immunological or metabolic action, or to making a medical diagnosis.
 
 ▼B
 
-3. Substance :Any matter irrespective of origin which may be:—human, e.g.human blood and human blood products;—animal, e.g.micro-organisms, whole animals, parts of organs, animal secretions, toxins, extracts, blood products;—vegetable, e.g.micro-organisms, plants, parts of plants, vegetable secretions, extracts;—chemical, e.g.elements, naturally occurring chemical materials and chemical products obtained by chemical change or synthesis.
+3. Substance :
+Any matter irrespective of origin which may be:
+— human, e.g. human blood and human blood products;
+— animal, e.g. micro-organisms, whole animals, parts of organs, animal secretions, toxins, extracts, blood products;
+— vegetable, e.g. micro-organisms, plants, parts of plants, vegetable secretions, extracts;
+— chemical, e.g. elements, naturally occurring chemical materials and chemical products obtained by chemical change or synthesis.
 
 ▼M11
 
@@ -28,11 +35,14 @@ For the purposes of this Directive, the following terms shall bear the following
 
 ▼B
 
-4. Immunological medicinal product :Any medicinal product consisting of vaccines, toxins, serums or allergen products:(a)vaccines, toxins and serums shall cover in particular:(i)agents used to produce active immunity, such as cholera vaccine, BCG, polio vaccines, smallpox vaccine;(ii)agents used to diagnose the state of immunity, including in particular tuberculin and tuberculin PPD, toxins for the Schick and Dick Tests, brucellin;(iii)agents used to produce passive immunity, such as diphtheria antitoxin, anti-smallpox globulin, antilymphocytic globulin;(b)‘allergen product’ shall mean any medicinal product which is intended to identify or induce a specific acquired alteration in the immunological response to an allergizing agent.
+4. Immunological medicinal product :
+Any medicinal product consisting of vaccines, toxins, serums or allergen products:
+(a) vaccines, toxins and serums shall cover in particular: (i) agents used to produce active immunity, such as cholera vaccine, BCG, polio vaccines, smallpox vaccine; (ii) agents used to diagnose the state of immunity, including in particular tuberculin and tuberculin PPD, toxins for the Schick and Dick Tests, brucellin; (iii) agents used to produce passive immunity, such as diphtheria antitoxin, anti-smallpox globulin, antilymphocytic globulin;
+(b) ‘allergen product’ shall mean any medicinal product which is intended to identify or induce a specific acquired alteration in the immunological response to an allergizing agent.
 
 ▼M6
 
-4a. Advanced therapy medicinal product: A product as defined in Article 2 of Regulation (EC) No 1394/2007 of the European Parliament and of the Council of 13 November 2007 on advanced therapy medicinal products (1).
+4a. Advanced therapy medicinal product : A product as defined in Article 2 of Regulation (EC) No 1394/2007 of the European Parliament and of the Council of 13 November 2007 on advanced therapy medicinal products ( 1 ).
 
 ▼M4
 
@@ -46,7 +56,7 @@ For the purposes of this Directive, the following terms shall bear the following
 7. Radionuclide generator : Any system incorporating a fixed parent radionuclide from which is produced a daughter radionuclide which is to be obtained by elution or by any other method and used in a radiopharmaceutical.
 
 
-8. ►M4Kit◄: Any preparation to be reconsitituted or combined with radionuclides in the final radiopharmaceutical, usually prior to its administration.
+8. ►M4 Kit ◄ : Any preparation to be reconsitituted or combined with radionuclides in the final radiopharmaceutical, usually prior to its administration.
 
 
 9. Radionuclide precursor : Any other radionuclide produced for the radio-labelling of another substance prior to administration.
@@ -118,14 +128,16 @@ For the purposes of this Directive, the following terms shall bear the following
 
 ▼M14
 
-26a. Variation or variation to the terms of a marketing authorisation :An amendment to the contents of the particulars and documents referred to in:(a)Article 8(3) and Articles 9 to 11 of this Directive and Annex I thereto, Article 6(2) of Regulation (EC) No 726/2004 and in Article 7 of Regulation (EC) No 1394/2007; and(b)the terms of the decision granting the marketing authorisation for a medicinal product for human use, including the summary of the product characteristics and any conditions, obligations, or restrictions affecting the marketing authorisation, or changes to the labelling or the package leaflet related to changes to the summary of the product characteristics.
+26a. Variation or variation to the terms of a marketing authorisation : An amendment to the contents of the particulars and documents referred to in: (a) Article 8(3) and Articles 9 to 11 of this Directive and Annex I thereto, Article 6(2) of Regulation (EC) No 726/2004 and in Article 7 of Regulation (EC) No 1394/2007; and (b) the terms of the decision granting the marketing authorisation for a medicinal product for human use, including the summary of the product characteristics and any conditions, obligations, or restrictions affecting the marketing authorisation, or changes to the labelling or the package leaflet related to changes to the summary of the product characteristics.
 
 ▼M4
 
-27. Agency : The European Medicines Agency established by Regulation (EC) No 726/2004 (2).
+27. Agency : The European Medicines Agency established by Regulation (EC) No 726/2004 ( 2 ).
 
 
-28. Risks related to use of the medicinal product :—any risk relating to the quality, safety or efficacy of the medicinal product as regards patients' health or public health;—any risk of undesirable effects on the environment.
+28. Risks related to use of the medicinal product :
+— any risk relating to the quality, safety or efficacy of the medicinal product as regards patients' health or public health;
+— any risk of undesirable effects on the environment.
 
 
 28a. Risk-benefit balance : An evaluation of the positive therapeutic effects of the medicinal product in relation to the risks as defined in point 28, first indent.
@@ -158,7 +170,12 @@ For the purposes of this Directive, the following terms shall bear the following
 
 ▼M11
 
-33. Falsified medicinal product :Any medicinal product with a false representation of:(a)its identity, including its packaging and labelling, its name or its composition as regards any of the ingredients including excipients and the strength of those ingredients;(b)its source, including its manufacturer, its country of manufacturing, its country of origin or its marketing authorisation holder; or(c)its history, including the records and documents relating to the distribution channels used.This definition does not include unintentional quality defects and is without prejudice to infringements of intellectual property rights.
+33. Falsified medicinal product :
+Any medicinal product with a false representation of:
+(a) its identity, including its packaging and labelling, its name or its composition as regards any of the ingredients including excipients and the strength of those ingredients;
+(b) its source, including its manufacturer, its country of manufacturing, its country of origin or its marketing authorisation holder; or
+(c) its history, including the records and documents relating to the distribution channels used.
+This definition does not include unintentional quality defects and is without prejudice to infringements of intellectual property rights.
 
 ▼B
 TITLE II

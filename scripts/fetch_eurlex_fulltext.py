@@ -100,16 +100,60 @@ def _has_class(tag: Tag, cls_fragment: str) -> bool:
     return False
 
 
+_LABEL_RE = re.compile(
+    r"^[\(\[]?\d+[\)\]]?\.?$"          # (1)  1)  [1]
+    r"|^[\(\[]?[a-z][\)\]]?\.?$"       # (a)  a)
+    r"|^\u2014$|^\u2013$|^[-\u2010]$"  # em-dash, en-dash, hyphen
+    r"|^[\(\[]?[ivxlc]+[\)\]]?\.?$",   # (i) (ii) (iv) roman
+    re.IGNORECASE,
+)
+
+
+def _direct_rows(table: Tag) -> list[Tag]:
+    """Get direct <tr> children of a table (or its <tbody>/<thead>).
+
+    Unlike ``table.find_all("tr")``, this does NOT recurse into nested
+    tables, which is critical for EUR-Lex layout tables that nest
+    sub-item tables inside outer definition rows.
+    """
+    rows: list[Tag] = []
+    for child in table.children:
+        if isinstance(child, Tag):
+            if child.name == "tr":
+                rows.append(child)
+            elif child.name in ("tbody", "thead", "tfoot"):
+                for sub in child.children:
+                    if isinstance(sub, Tag) and sub.name == "tr":
+                        rows.append(sub)
+    return rows
+
+
 def _is_layout_table(table: Tag) -> bool:
-    """Detect EUR-Lex layout tables (<=2 columns, used for numbered lists)."""
-    rows = table.find_all("tr")
+    """Detect EUR-Lex layout tables used for numbered/bulleted definitions.
+
+    Uses only *direct* rows (not recursive) to avoid being confused
+    by nested sub-tables inside definition cells.
+    """
+    rows = _direct_rows(table)
     if not rows:
         return True
+
+    max_cols = 0
     for row in rows:
-        cells = row.find_all(["td", "th"])
-        if len(cells) > 2:
-            return False
-    return True
+        cells = row.find_all(["td", "th"], recursive=False)
+        if len(cells) > max_cols:
+            max_cols = len(cells)
+
+    if max_cols > 2:
+        return False
+
+    first_cells = rows[0].find_all(["td", "th"], recursive=False)
+    if first_cells:
+        first_text = first_cells[0].get_text(strip=True)
+        if _LABEL_RE.match(first_text):
+            return True
+
+    return max_cols <= 2
 
 
 def _table_has_content(table: Tag) -> bool:
@@ -118,34 +162,77 @@ def _table_has_content(table: Tag) -> bool:
     return len(text) > 5
 
 
+def _cell_to_text(cell: Tag) -> list[str]:
+    """Extract text from a table cell, recursively processing nested layout tables."""
+    parts: list[str] = []
+    for child in cell.children:
+        if isinstance(child, NavigableString):
+            t = str(child).strip()
+            if t:
+                parts.append(re.sub(r"\s+", " ", t))
+        elif isinstance(child, Tag):
+            if child.name == "table":
+                if _is_layout_table(child):
+                    parts.extend(_layout_table_to_text(child))
+                else:
+                    parts.extend(_real_table_to_markdown(child))
+            else:
+                t = child.get_text(" ", strip=True)
+                if t:
+                    parts.append(re.sub(r"\s+", " ", t))
+    return parts
+
+
 def _layout_table_to_text(table: Tag) -> list[str]:
-    """Convert a 2-column layout table to indented text lines."""
+    """Convert a layout table to indented text lines.
+
+    Only processes *direct* rows to avoid duplication from nested tables.
+    Nested tables inside cells are recursively handled by ``_cell_to_text``.
+    """
     lines: list[str] = []
-    for row in table.find_all("tr"):
-        cells = row.find_all(["td", "th"])
+    for row in _direct_rows(table):
+        cells = row.find_all(["td", "th"], recursive=False)
         if not cells:
             continue
-        parts = [c.get_text(strip=True) for c in cells]
-        parts = [p for p in parts if p]
-        if not parts:
+
+        if len(cells) == 1:
+            cell_parts = _cell_to_text(cells[0])
+            if cell_parts:
+                lines.extend(cell_parts)
             continue
-        if len(parts) == 2:
-            label, content = parts
-            if re.match(r"^[\(\[]?\d+[\)\]]?\.?$|^[\(\[]?[a-z][\)\]]?\.?$",
-                        label):
-                lines.append(f"{label} {content}")
+
+        label_cell = cells[0]
+        label_text = label_cell.get_text(strip=True)
+        is_label = bool(_LABEL_RE.match(label_text)) if label_text else False
+
+        content_parts: list[str] = []
+        for c in cells[1:]:
+            content_parts.extend(_cell_to_text(c))
+
+        if is_label and content_parts:
+            for i, part in enumerate(content_parts):
+                if i == 0:
+                    lines.append(f"{label_text} {part}")
+                else:
+                    lines.append(part)
+        elif content_parts:
+            if label_text:
+                lines.append(label_text + " " + " ".join(content_parts))
             else:
-                lines.append(f"{label} {content}")
-        else:
-            lines.append(" ".join(parts))
+                lines.extend(content_parts)
+        elif label_text:
+            lines.append(label_text)
     return lines
 
 
 def _real_table_to_markdown(table: Tag) -> list[str]:
-    """Convert a real data table to Markdown table syntax."""
+    """Convert a real data table to Markdown table syntax.
+
+    Only processes *direct* rows to avoid pulling in nested table content.
+    """
     rows_data: list[list[str]] = []
-    for row in table.find_all("tr"):
-        cells = row.find_all(["td", "th"])
+    for row in _direct_rows(table):
+        cells = row.find_all(["td", "th"], recursive=False)
         row_cells = []
         for c in cells:
             text = c.get_text(" ", strip=True)

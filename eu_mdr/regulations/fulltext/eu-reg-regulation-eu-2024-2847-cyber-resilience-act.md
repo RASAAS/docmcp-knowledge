@@ -779,11 +779,10 @@ Reporting obligations of manufacturers
 (b) unless the relevant information has already been provided, a vulnerability notification, without undue delay and in any event within 72 hours of the manufacturer becoming aware of the actively exploited vulnerability, which shall provide general information, as available, about the product with digital elements concerned, the general nature of the exploit and of the vulnerability concerned as well as any corrective or mitigating measures taken, and corrective or mitigating measures that users can take, and which shall also indicate, where applicable, how sensitive the manufacturer considers the notified information to be;
 
 
-| (c) | unless the relevant information has already been provided, a final report, no later than 14 days after a corrective or mitigating measure is available, including at least the following: (i) a description of the vulnerability, including its severity and impact; (ii) where available, information concerning any malicious actor that has exploited or that is exploiting the vulnerability; (iii) details about the security update or other corrective measures that have been made available to remedy the vulnerability. | (i) | a description of the vulnerability, including its severity and impact; | (ii) | where available, information concerning any malicious actor that has exploited or that is exploiting the vulnerability; | (iii) | details about the security update or other corrective measures that have been made available to remedy the vulnerability. |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| (i) | a description of the vulnerability, including its severity and impact; |  |  |  |  |  |  |
-| (ii) | where available, information concerning any malicious actor that has exploited or that is exploiting the vulnerability; |  |  |  |  |  |  |
-| (iii) | details about the security update or other corrective measures that have been made available to remedy the vulnerability. |  |  |  |  |  |  |
+(c) unless the relevant information has already been provided, a final report, no later than 14 days after a corrective or mitigating measure is available, including at least the following:(i)a description of the vulnerability, including its severity and impact;(ii)where available, information concerning any malicious actor that has exploited or that is exploiting the vulnerability;(iii)details about the security update or other corrective measures that have been made available to remedy the vulnerability. (i) a description of the vulnerability, including its severity and impact; (ii) where available, information concerning any malicious actor that has exploited or that is exploiting the vulnerability; (iii) details about the security update or other corrective measures that have been made available to remedy the vulnerability.
+(i) a description of the vulnerability, including its severity and impact;
+(ii) where available, information concerning any malicious actor that has exploited or that is exploiting the vulnerability;
+(iii) details about the security update or other corrective measures that have been made available to remedy the vulnerability.
 
 3. A manufacturer shall notify any severe incident having an impact on the security of the product with digital elements that it becomes aware of simultaneously to the CSIRT designated as coordinator, in accordance with paragraph 7 of this Article, and to ENISA. The manufacturer shall notify that incident via the single reporting platform established pursuant to Article 16.
 4. For the purposes of the notification referred to in paragraph 3, the manufacturer shall submit:
@@ -794,11 +793,10 @@ Reporting obligations of manufacturers
 (b) unless the relevant information has already been provided, an incident notification, without undue delay and in any event within 72 hours of the manufacturer becoming aware of the incident, which shall provide general information, where available, about the nature of the incident, an initial assessment of the incident, as well as any corrective or mitigating measures taken, and corrective or mitigating measures that users can take, and which shall also indicate, where applicable, how sensitive the manufacturer considers the notified information to be;
 
 
-| (c) | unless the relevant information has already been provided, a final report, within one month after the submission of the incident notification under point (b), including at least the following: (i) a detailed description of the incident, including its severity and impact; (ii) the type of threat or root cause that is likely to have triggered the incident; (iii) applied and ongoing mitigation measures. | (i) | a detailed description of the incident, including its severity and impact; | (ii) | the type of threat or root cause that is likely to have triggered the incident; | (iii) | applied and ongoing mitigation measures. |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| (i) | a detailed description of the incident, including its severity and impact; |  |  |  |  |  |  |
-| (ii) | the type of threat or root cause that is likely to have triggered the incident; |  |  |  |  |  |  |
-| (iii) | applied and ongoing mitigation measures. |  |  |  |  |  |  |
+(c) unless the relevant information has already been provided, a final report, within one month after the submission of the incident notification under point (b), including at least the following:(i)a detailed description of the incident, including its severity and impact;(ii)the type of threat or root cause that is likely to have triggered the incident;(iii)applied and ongoing mitigation measures. (i) a detailed description of the incident, including its severity and impact; (ii) the type of threat or root cause that is likely to have triggered the incident; (iii) applied and ongoing mitigation measures.
+(i) a detailed description of the incident, including its severity and impact;
+(ii) the type of threat or root cause that is likely to have triggered the incident;
+(iii) applied and ongoing mitigation measures.
 
 5. For the purposes of paragraph 3, an incident having an impact on the security of the product with digital elements shall be considered to be severe where:
 
@@ -1000,11 +998,10 @@ The Commission shall, in accordance with Article 10(1) of Regulation (EU) No 102
 2. The Commission may adopt implementing acts establishing common specifications covering technical requirements that provide a means to comply with the essential cybersecurity requirements set out in Annex I for products with digital elements that fall within the scope of this Regulation.
 Those implementing acts shall be adopted only where the following conditions are fulfilled:
 
-| (a) | the Commission has requested, pursuant to Article 10(1) of Regulation (EU) No 1025/2012, one or more European standardisation organisations to draft a harmonised standard for the essential cybersecurity requirements set out in Annex I and: (i) the request has not been accepted; (ii) the harmonised standards addressing that request are not delivered within the deadline set in accordance with Article 10(1) of Regulation (EU) No 1025/2012; or (iii) the harmonised standards do not comply with the request; and | (i) | the request has not been accepted; | (ii) | the harmonised standards addressing that request are not delivered within the deadline set in accordance with Article 10(1) of Regulation (EU) No 1025/2012; or | (iii) | the harmonised standards do not comply with the request; and |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| (i) | the request has not been accepted; |  |  |  |  |  |  |
-| (ii) | the harmonised standards addressing that request are not delivered within the deadline set in accordance with Article 10(1) of Regulation (EU) No 1025/2012; or |  |  |  |  |  |  |
-| (iii) | the harmonised standards do not comply with the request; and |  |  |  |  |  |  |
+(a) the Commission has requested, pursuant to Article 10(1) of Regulation (EU) No 1025/2012, one or more European standardisation organisations to draft a harmonised standard for the essential cybersecurity requirements set out in Annex I and:(i)the request has not been accepted;(ii)the harmonised standards addressing that request are not delivered within the deadline set in accordance with Article 10(1) of Regulation (EU) No 1025/2012; or(iii)the harmonised standards do not comply with the request; and (i) the request has not been accepted; (ii) the harmonised standards addressing that request are not delivered within the deadline set in accordance with Article 10(1) of Regulation (EU) No 1025/2012; or (iii) the harmonised standards do not comply with the request; and
+(i) the request has not been accepted;
+(ii) the harmonised standards addressing that request are not delivered within the deadline set in accordance with Article 10(1) of Regulation (EU) No 1025/2012; or
+(iii) the harmonised standards do not comply with the request; and
 
 
 (b) no reference to harmonised standards covering the relevant essential cybersecurity requirements set out in Annex I to this Regulation has been published in theOfficial Journal of the European Unionin accordance with Regulation (EU) No 1025/2012 and no such reference is expected to be published within a reasonable period.
@@ -1553,8 +1550,7 @@ Amendment to Regulation (EU) No 168/2013
 In Part C1, in the table, of Annex II to Regulation (EU) No 168/2013 of the European Parliament and of the Council ( 38 ) , the following entry is added:
 ‘
 
-| 16 | 18 | protection of vehicle against cyberattacks |  | x | x | x | x | x | x | x | x | x | x | x | x | x | x |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+16 18 protection of vehicle against cyberattacks x x x x x x x x x x x x x x
 
 ’.
 
