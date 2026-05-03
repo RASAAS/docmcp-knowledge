@@ -7,8 +7,8 @@
   "regulation": "eu_mdr",
   "source": "Implementing Decision (EU) 2021/1182 (consolidated)",
   "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
-  "last_updated": "2026-04-09",
-  "count": 4,
+  "last_updated": "2026-05-03",
+  "count": 7,
   "entries": [
     {
       "id": "eu_mdr-hs-en-iso-18562-1-2024",
@@ -57,6 +57,52 @@
       "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
       "source_verified": "2026-04-09",
       "category": "breathing_gas_pathways"
+    },
+    {
+      "id": "iso-7396-1-2016",
+      "number": "ISO 7396-1:2016",
+      "title": {
+        "en": "Medical gas pipeline systems - Part 1: Pipeline systems for compressed medical gases and vacuum",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "21"
+      ],
+      "standard_type": "product_specific",
+      "source_url": "https://www.iso.org/search.html?q=ISO%207396-1"
+    },
+    {
+      "id": "iso-80601-2-12-2020",
+      "number": "ISO 80601-2-12:2020",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-12: Particular requirements for the basic safety and essential performance of critical care ventilators",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "18",
+        "21"
+      ],
+      "standard_type": "product_specific",
+      "source_url": "https://www.iso.org/search.html?q=ISO%2080601-2-12"
+    },
+    {
+      "id": "iso-80601-2-70-2020",
+      "number": "ISO 80601-2-70:2020",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-70: Particular requirements for the basic safety and essential performance of sleep apnoea breathing therapy equipment",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "18"
+      ],
+      "standard_type": "product_specific",
+      "source_url": "https://www.iso.org/search.html?q=ISO%2080601-2-70"
     }
   ]
 }

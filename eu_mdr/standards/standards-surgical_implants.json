@@ -7,8 +7,8 @@
   "regulation": "eu_mdr",
   "source": "Implementing Decision (EU) 2021/1182 (consolidated)",
   "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
-  "last_updated": "2026-04-09",
-  "count": 4,
+  "last_updated": "2026-05-03",
+  "count": 10,
   "entries": [
     {
       "id": "eu_mdr-hs-en-iso-7197-2024",
@@ -57,6 +57,99 @@
       "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
       "source_verified": "2026-04-09",
       "category": "surgical_implants"
+    },
+    {
+      "id": "iso-5832-1-2016",
+      "number": "ISO 5832-1:2016",
+      "title": {
+        "en": "Implants for surgery - Metallic materials - Part 1: Wrought stainless steel",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "10",
+        "14"
+      ],
+      "standard_type": "product_specific",
+      "source_url": "https://www.iso.org/search.html?q=ISO%205832-1"
+    },
+    {
+      "id": "iso-5832-3-2016",
+      "number": "ISO 5832-3:2016",
+      "title": {
+        "en": "Implants for surgery - Metallic materials - Part 3: Wrought titanium 6-aluminium 4-vanadium alloy",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "10",
+        "14"
+      ],
+      "standard_type": "product_specific",
+      "source_url": "https://www.iso.org/search.html?q=ISO%205832-3"
+    },
+    {
+      "id": "iso-5840-1-2021",
+      "number": "ISO 5840-1:2021",
+      "title": {
+        "en": "Cardiovascular implants - Cardiac valve prostheses - Part 1: General requirements",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "10",
+        "14",
+        "19"
+      ],
+      "standard_type": "product_specific",
+      "source_url": "https://www.iso.org/search.html?q=ISO%205840-1"
+    },
+    {
+      "id": "iso-14708-1-2014",
+      "number": "ISO 14708-1:2014",
+      "title": {
+        "en": "Implants for surgery - Active implantable medical devices - Part 1: General requirements for safety, marking and for information to be provided by the manufacturer",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "18",
+        "19",
+        "23"
+      ],
+      "standard_type": "product_specific",
+      "source_url": "https://www.iso.org/search.html?q=ISO%2014708-1"
+    },
+    {
+      "id": "astm-f2083-2021",
+      "number": "ASTM F2083:2021",
+      "title": {
+        "en": "Standard Specification for Knee Replacement Prosthesis",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "10",
+        "14"
+      ],
+      "standard_type": "product_specific",
+      "source_url": "https://www.astm.org/Standards/F2083:2021.htm"
+    },
+    {
+      "id": "astm-f2033-2020",
+      "number": "ASTM F2033:2020",
+      "title": {
+        "en": "Standard Specification for Total Hip Joint Prosthesis and Hip Endoprosthesis Bearing Surfaces Made of Metallic, Ceramic, and Polymeric Materials",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "10",
+        "14"
+      ],
+      "standard_type": "product_specific",
+      "source_url": "https://www.astm.org/Standards/F2033:2020.htm"
     }
   ]
 }

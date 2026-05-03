@@ -1,0 +1,73 @@
+{
+  "category": "mri_safety",
+  "category_name": {
+    "zh": "MRI 安全",
+    "en": "MRI Safety"
+  },
+  "regulation": "eu_mdr",
+  "source": "DocMCP Standards Library",
+  "last_updated": "2026-05-03",
+  "count": 4,
+  "entries": [
+    {
+      "id": "astm-f2052-2015",
+      "number": "ASTM F2052:2015",
+      "title": {
+        "en": "Standard Test Method for Measurement of Magnetically Induced Displacement Force on Medical Devices in the Magnetic Resonance Environment",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "16"
+      ],
+      "standard_type": "testing",
+      "source_url": "https://www.astm.org/Standards/F2052:2015.htm"
+    },
+    {
+      "id": "astm-f2213-2017",
+      "number": "ASTM F2213:2017",
+      "title": {
+        "en": "Standard Test Method for Measurement of Magnetically Induced Torque on Medical Devices in the Magnetic Resonance Environment",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "16"
+      ],
+      "standard_type": "testing",
+      "source_url": "https://www.astm.org/Standards/F2213:2017.htm"
+    },
+    {
+      "id": "astm-f2182-2019",
+      "number": "ASTM F2182:2019",
+      "title": {
+        "en": "Standard Test Method for Measurement of Radio Frequency Induced Heating On or Near Passive Implants During Magnetic Resonance Imaging",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "16"
+      ],
+      "standard_type": "testing",
+      "source_url": "https://www.astm.org/Standards/F2182:2019.htm"
+    },
+    {
+      "id": "astm-f2119-2013-r2022",
+      "number": "ASTM F2119:2013(R2022)",
+      "title": {
+        "en": "Standard Test Method for Evaluation of MR Image Artifacts from Passive Implants",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "16"
+      ],
+      "standard_type": "testing",
+      "source_url": "https://www.astm.org/Standards/F2119:2013(R2022).htm"
+    }
+  ]
+}

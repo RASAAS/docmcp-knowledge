@@ -1,0 +1,45 @@
+{
+  "category": "mechanical_testing",
+  "category_name": {
+    "zh": "机械试验",
+    "en": "Mechanical Testing"
+  },
+  "regulation": "eu_mdr",
+  "source": "DocMCP Standards Library",
+  "last_updated": "2026-05-03",
+  "count": 2,
+  "entries": [
+    {
+      "id": "astm-f2477-2019",
+      "number": "ASTM F2477:2019",
+      "title": {
+        "en": "Standard Test Methods for In Vitro Pulsatile Durability Testing of Vascular Stents",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "10",
+        "14",
+        "20"
+      ],
+      "standard_type": "testing",
+      "source_url": "https://www.astm.org/Standards/F2477:2019.htm"
+    },
+    {
+      "id": "astm-f2346-2018",
+      "number": "ASTM F2346:2018",
+      "title": {
+        "en": "Standard Test Methods for Static and Dynamic Characterization of Spinal Artificial Discs",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "10",
+        "14",
+        "20"
+      ],
+      "standard_type": "testing",
+      "source_url": "https://www.astm.org/Standards/F2346:2018.htm"
+    }
+  ]
+}

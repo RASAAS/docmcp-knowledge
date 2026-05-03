@@ -1,0 +1,64 @@
+{
+  "category": "active_implants",
+  "category_name": {
+    "zh": "有源植入物",
+    "en": "Active Implantable Devices"
+  },
+  "regulation": "eu_mdr",
+  "source": "DocMCP Standards Library",
+  "last_updated": "2026-05-03",
+  "count": 3,
+  "entries": [
+    {
+      "id": "en-45502-1-2015",
+      "number": "EN 45502-1:2015",
+      "title": {
+        "en": "Active implantable medical devices - Part 1: General requirements for safety, marking and for information to be provided by the manufacturer",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "applicable_gsprs": [
+        "19",
+        "19.3"
+      ],
+      "scope": {
+        "en": "General requirements for active implantable medical devices",
+        "zh": ""
+      },
+      "standard_type": "non_harmonised"
+    },
+    {
+      "id": "en-45502-2-1-2003-a1-2020",
+      "number": "EN 45502-2-1:2003+A1:2020",
+      "title": {
+        "en": "Active implantable medical devices - Part 2-1: Particular requirements for active implantable medical devices intended to treat bradyarrhythmia (cardiac pacemakers)",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "18",
+        "19"
+      ],
+      "standard_type": "product_specific",
+      "source_url": "https://standards.cencenelec.eu/dyn/www/f?p=205:110:0::::FSP_PROJECT:EN%2045502-2-1"
+    },
+    {
+      "id": "en-45502-2-2-2008-a1-2020",
+      "number": "EN 45502-2-2:2008+A1:2020",
+      "title": {
+        "en": "Active implantable medical devices - Part 2-2: Particular requirements for active implantable medical devices intended to treat tachyarrhythmia (includes implantable defibrillators)",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "18",
+        "19"
+      ],
+      "standard_type": "product_specific",
+      "source_url": "https://standards.cencenelec.eu/dyn/www/f?p=205:110:0::::FSP_PROJECT:EN%2045502-2-2"
+    }
+  ]
+}

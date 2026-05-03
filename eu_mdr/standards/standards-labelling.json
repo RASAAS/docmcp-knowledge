@@ -7,8 +7,8 @@
   "regulation": "eu_mdr",
   "source": "Implementing Decision (EU) 2021/1182 (consolidated)",
   "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
-  "last_updated": "2026-04-09",
-  "count": 1,
+  "last_updated": "2026-05-03",
+  "count": 3,
   "entries": [
     {
       "id": "eu_mdr-hs-en-iso-15223-1-2021",
@@ -20,7 +20,83 @@
       "status": "active",
       "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
       "source_verified": "2026-04-09",
-      "category": "labelling"
+      "category": "labelling",
+      "applicable_gsprs": [
+        "4",
+        "10",
+        "10.4.5",
+        "11",
+        "11.8",
+        "19",
+        "19.3",
+        "19.4",
+        "22",
+        "22.3",
+        "23",
+        "23.1",
+        "23.2",
+        "23.3",
+        "4(c)"
+      ],
+      "scope": {
+        "en": "Standardized symbols for medical device labeling",
+        "zh": ""
+      },
+      "standard_type": "harmonised"
+    },
+    {
+      "id": "en-iso-20417-2021",
+      "number": "EN ISO 20417:2021",
+      "title": {
+        "en": "Medical devices — Information to be supplied by the manufacturer",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "applicable_gsprs": [
+        "4",
+        "10",
+        "10.4.5",
+        "11",
+        "11.8",
+        "14",
+        "14.4",
+        "14.7",
+        "19",
+        "19.3",
+        "19.4",
+        "23",
+        "23.1",
+        "23.2",
+        "23.4",
+        "4(c)"
+      ],
+      "scope": {
+        "en": "Labeling and instructions for use requirements",
+        "zh": ""
+      },
+      "standard_type": "non_harmonised"
+    },
+    {
+      "id": "en-iso-17664-1-2021",
+      "number": "EN ISO 17664-1:2021",
+      "title": {
+        "en": "Processing of health care products - Information to be provided by the medical device manufacturer for the processing of medical devices - Part 1: Critical and semi-critical medical devices",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "applicable_gsprs": [
+        "11",
+        "11.2",
+        "23"
+      ],
+      "scope": {
+        "en": "Information for reprocessing of reusable medical devices",
+        "zh": ""
+      },
+      "harmonized": true,
+      "standard_type": "harmonised"
     }
   ]
 }

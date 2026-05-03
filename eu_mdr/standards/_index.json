@@ -1,11 +1,11 @@
 {
   "directory": "eu_mdr/standards",
-  "description": "EU MDR Harmonised Standards (Implementing Decision 2021/1182)",
+  "description": "EU MDR Standards Library (Harmonised, International, EU Regulations)",
   "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
   "latest_amendment": "2026/760",
   "latest_amendment_url": "https://eur-lex.europa.eu/eli/dec_impl/2026/760/oj",
-  "last_updated": "2026-04-09",
-  "total_standards": 53,
+  "last_updated": "2026-05-03",
+  "total_standards": 221,
   "harmonised_count": 51,
   "pending_count": 2,
   "categories": {
@@ -14,7 +14,7 @@
         "zh": "生物相容性",
         "en": "Biocompatibility"
       },
-      "count": 8,
+      "count": 25,
       "file": "standards-biocompatibility.json"
     },
     "breathing_gas_pathways": {
@@ -22,7 +22,7 @@
         "zh": "呼吸气路生物相容性",
         "en": "Breathing Gas Pathways"
       },
-      "count": 4,
+      "count": 7,
       "file": "standards-breathing_gas_pathways.json"
     },
     "clinical_investigation": {
@@ -30,7 +30,7 @@
         "zh": "临床调查",
         "en": "Clinical Investigation"
       },
-      "count": 1,
+      "count": 4,
       "file": "standards-clinical_investigation.json"
     },
     "connectors": {
@@ -38,7 +38,7 @@
         "zh": "小口径连接器",
         "en": "Small-bore Connectors"
       },
-      "count": 1,
+      "count": 4,
       "file": "standards-connectors.json"
     },
     "electrical_safety": {
@@ -46,7 +46,7 @@
         "zh": "电气安全与EMC",
         "en": "Electrical Safety & EMC"
       },
-      "count": 1,
+      "count": 19,
       "file": "standards-electrical_safety.json"
     },
     "hearing_aids": {
@@ -62,7 +62,7 @@
         "zh": "标签与符号",
         "en": "Labelling & Symbols"
       },
-      "count": 1,
+      "count": 3,
       "file": "standards-labelling.json"
     },
     "medical_gloves": {
@@ -70,7 +70,7 @@
         "zh": "医用手套",
         "en": "Medical Gloves"
       },
-      "count": 3,
+      "count": 5,
       "file": "standards-medical_gloves.json"
     },
     "patient_handling": {
@@ -94,7 +94,7 @@
         "zh": "质量管理体系",
         "en": "Quality Management"
       },
-      "count": 1,
+      "count": 2,
       "file": "standards-quality_management.json"
     },
     "risk_management": {
@@ -102,7 +102,7 @@
         "zh": "风险管理",
         "en": "Risk Management"
       },
-      "count": 1,
+      "count": 3,
       "file": "standards-risk_management.json"
     },
     "software": {
@@ -110,7 +110,7 @@
         "zh": "软件与可用性 (待协调)",
         "en": "Software & Usability (Pending)"
       },
-      "count": 2,
+      "count": 15,
       "file": "standards-software.json"
     },
     "sterilization": {
@@ -118,7 +118,7 @@
         "zh": "灭菌与无菌包装",
         "en": "Sterilization & Packaging"
       },
-      "count": 18,
+      "count": 25,
       "file": "standards-sterilization.json"
     },
     "surgical_implants": {
@@ -126,7 +126,7 @@
         "zh": "非有源外科植入物",
         "en": "Non-active Surgical Implants"
       },
-      "count": 4,
+      "count": 10,
       "file": "standards-surgical_implants.json"
     },
     "surgical_textiles": {
@@ -136,6 +136,158 @@
       },
       "count": 3,
       "file": "standards-surgical_textiles.json"
+    },
+    "pms": {
+      "name": {
+        "zh": "上市后监督",
+        "en": "Post-Market Surveillance"
+      },
+      "count": 1,
+      "file": "standards-pms.json"
+    },
+    "cybersecurity": {
+      "name": {
+        "zh": "网络安全",
+        "en": "Cybersecurity"
+      },
+      "count": 1,
+      "file": "standards-cybersecurity.json"
+    },
+    "usability": {
+      "name": {
+        "zh": "可用性与人因工程",
+        "en": "Usability & Human Factors"
+      },
+      "count": 5,
+      "file": "standards-usability.json"
+    },
+    "active_implants": {
+      "name": {
+        "zh": "有源植入物",
+        "en": "Active Implantable Devices"
+      },
+      "count": 3,
+      "file": "standards-active_implants.json"
+    },
+    "ivd": {
+      "name": {
+        "zh": "体外诊断",
+        "en": "In Vitro Diagnostics"
+      },
+      "count": 4,
+      "file": "standards-ivd.json"
+    },
+    "eu_regulations": {
+      "name": {
+        "zh": "EU 相关法规与指令",
+        "en": "EU Related Regulations & Directives"
+      },
+      "count": 17,
+      "file": "standards-eu_regulations.json"
+    },
+    "general": {
+      "name": {
+        "zh": "通用要求",
+        "en": "General Requirements"
+      },
+      "count": 30,
+      "file": "standards-general.json"
+    },
+    "packaging": {
+      "name": {
+        "zh": "包装与运输",
+        "en": "Packaging & Transport"
+      },
+      "count": 7,
+      "file": "standards-packaging.json"
+    },
+    "reprocessing": {
+      "name": {
+        "zh": "再处理",
+        "en": "Reprocessing"
+      },
+      "count": 2,
+      "file": "standards-reprocessing.json"
+    },
+    "mri_safety": {
+      "name": {
+        "zh": "MRI 安全",
+        "en": "MRI Safety"
+      },
+      "count": 4,
+      "file": "standards-mri_safety.json"
+    },
+    "environmental_testing": {
+      "name": {
+        "zh": "环境试验",
+        "en": "Environmental Testing"
+      },
+      "count": 4,
+      "file": "standards-environmental_testing.json"
+    },
+    "mechanical_testing": {
+      "name": {
+        "zh": "机械试验",
+        "en": "Mechanical Testing"
+      },
+      "count": 2,
+      "file": "standards-mechanical_testing.json"
+    },
+    "dental": {
+      "name": {
+        "zh": "口腔医疗器械",
+        "en": "Dental Devices"
+      },
+      "count": 1,
+      "file": "standards-dental.json"
+    },
+    "ophthalmic": {
+      "name": {
+        "zh": "眼科器械",
+        "en": "Ophthalmic Devices"
+      },
+      "count": 1,
+      "file": "standards-ophthalmic.json"
+    },
+    "wound_care": {
+      "name": {
+        "zh": "伤口护理",
+        "en": "Wound Care"
+      },
+      "count": 1,
+      "file": "standards-wound_care.json"
+    },
+    "ppe_barrier": {
+      "name": {
+        "zh": "防护用品",
+        "en": "PPE & Barrier Products"
+      },
+      "count": 1,
+      "file": "standards-ppe_barrier.json"
+    },
+    "radiation_protection": {
+      "name": {
+        "zh": "辐射防护与放射治疗",
+        "en": "Radiation Protection & Therapy"
+      },
+      "count": 4,
+      "file": "standards-radiation_protection.json"
+    },
+    "needles_syringes": {
+      "name": {
+        "zh": "针头与注射器",
+        "en": "Needles & Syringes"
+      },
+      "count": 2,
+      "file": "standards-needles_syringes.json"
+    },
+    "home_healthcare": {
+      "name": {
+        "zh": "家用医疗器械",
+        "en": "Home Healthcare"
+      },
+      "count": 1,
+      "file": "standards-home_healthcare.json"
     }
   }
 }

@@ -7,33 +7,246 @@
   "regulation": "eu_mdr",
   "source": "CEN/Cenelec mandate M/575 (requested, not yet published in OJEU as harmonised)",
   "source_url": "https://single-market-economy.ec.europa.eu/single-market/goods/european-standards/harmonised-standards/medical-devices_en",
-  "last_updated": "2026-04-09",
+  "last_updated": "2026-05-03",
   "note": "These standards are widely used for MDR compliance but have not yet been formally harmonised (published in OJEU under CID 2021/1182). They are part of the 277 requested standards under mandate M/575.",
-  "count": 2,
+  "count": 15,
   "entries": [
     {
-      "id": "eu_mdr-hs-en-iec-62304-2006-a1-2015",
+      "id": "en-iec-62304-2006",
       "number": "EN IEC 62304:2006+A1:2015",
       "title": {
         "en": "Medical device software - Software life cycle processes",
-        "zh": "医疗器械软件 - 软件生命周期过程"
+        "zh": ""
       },
-      "status": "pending_harmonisation",
+      "status": "active",
       "source_url": "https://www.iec.ch/homepage",
-      "source_verified": "2026-04-09",
-      "category": "software"
+      "applicable_gsprs": [
+        "14",
+        "17",
+        "17.1",
+        "17.2",
+        "17.3",
+        "17.4",
+        "18",
+        "18.8"
+      ],
+      "scope": {
+        "en": "Software development lifecycle for medical device software",
+        "zh": ""
+      },
+      "standard_type": "international"
     },
     {
-      "id": "eu_mdr-hs-en-iec-62366-1-2015-a1-2020",
-      "number": "EN IEC 62366-1:2015+A1:2020",
+      "id": "en-iec-82304-1-2017",
+      "number": "EN IEC 82304-1:2017",
       "title": {
-        "en": "Medical devices - Application of usability engineering to medical devices",
-        "zh": "医疗器械 - 可用性工程在医疗器械中的应用"
+        "en": "Health software - Part 1: General requirements for product safety",
+        "zh": ""
       },
-      "status": "pending_harmonisation",
-      "source_url": "https://www.iec.ch/homepage",
-      "source_verified": "2026-04-09",
-      "category": "software"
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "applicable_gsprs": [
+        "17",
+        "17.1",
+        "17.3"
+      ],
+      "scope": {
+        "en": "Product safety requirements for health software products",
+        "zh": ""
+      },
+      "standard_type": "non_harmonised"
+    },
+    {
+      "id": "iec-62304-2015",
+      "number": "IEC 62304:2006+AMD1:2015",
+      "title": {
+        "en": "Medical device software — Software life cycle processes",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "scope": {
+        "en": "Software development lifecycle for medical devices",
+        "zh": ""
+      },
+      "standard_type": "non_harmonised"
+    },
+    {
+      "id": "iec-82304-1-2016",
+      "number": "IEC 82304-1:2016",
+      "title": {
+        "en": "Health software — Part 1: General requirements for product safety",
+        "zh": ""
+      },
+      "status": "active",
+      "scope": {
+        "en": "Standalone health software",
+        "zh": ""
+      },
+      "standard_type": "non_harmonised",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2082304-1"
+    },
+    {
+      "id": "aami-tir57-2016",
+      "number": "AAMI TIR57:2016",
+      "title": {
+        "en": "Principles for medical device security—Risk management",
+        "zh": ""
+      },
+      "status": "active",
+      "scope": {
+        "en": "Cybersecurity risk management",
+        "zh": ""
+      },
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.aami.org/store/products/aami-tir57-2016"
+    },
+    {
+      "id": "iec-tr-80002-1-2009",
+      "number": "IEC TR 80002-1:2009",
+      "title": {
+        "en": "Medical device software — Part 1: Guidance on the application of ISO 14971 to medical device software",
+        "zh": ""
+      },
+      "status": "active",
+      "scope": {
+        "en": "Risk management for software devices",
+        "zh": ""
+      },
+      "standard_type": "non_harmonised",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%20TR%2080002-1"
+    },
+    {
+      "id": "iec-tr-80002-1-2009",
+      "number": "IEC/TR 80002-1:2009",
+      "title": {
+        "en": "Medical device software - Part 1: Guidance on the application of ISO 14971 to medical device software",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "17",
+        "17.2"
+      ],
+      "standard_type": "guidance",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC/TR%2080002-1"
+    },
+    {
+      "id": "iec-81001-5-1-2021",
+      "number": "IEC 81001-5-1:2021",
+      "title": {
+        "en": "Health software and health IT systems safety, effectiveness and security - Part 5-1: Security - Activities in the product life cycle",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "17"
+      ],
+      "standard_type": "process",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2081001-5-1"
+    },
+    {
+      "id": "iec-tr-80001-2-2-2012",
+      "number": "IEC/TR 80001-2-2:2012",
+      "title": {
+        "en": "Application of risk management for IT-networks incorporating medical devices - Part 2-2: Guidance for the communication of medical device security needs, risks and controls",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "17",
+        "17.4"
+      ],
+      "standard_type": "guidance",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC/TR%2080001-2-2"
+    },
+    {
+      "id": "iec-62443-4-1-2018",
+      "number": "IEC 62443-4-1:2018",
+      "title": {
+        "en": "Security for industrial automation and control systems - Part 4-1: Secure product development lifecycle requirements",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "17"
+      ],
+      "standard_type": "process",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2062443-4-1"
+    },
+    {
+      "id": "iso-11073-10101-2020",
+      "number": "ISO 11073-10101:2020",
+      "title": {
+        "en": "Health informatics - Device interoperability - Part 10101: Nomenclature",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "17"
+      ],
+      "standard_type": "process",
+      "source_url": "https://www.iso.org/search.html?q=ISO%2011073-10101"
+    },
+    {
+      "id": "iso-ieee-11073-10207-2019",
+      "number": "ISO/IEEE 11073-10207:2019",
+      "title": {
+        "en": "Health informatics - Device interoperability - Part 10207: Domain information and service model for point-of-care medical device communication",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "17"
+      ],
+      "standard_type": "process",
+      "source_url": "https://www.iso.org/search.html?q=ISO%20IEEE%2011073-10207"
+    },
+    {
+      "id": "iso-iec-tr-24028-2020",
+      "number": "ISO/IEC TR 24028:2020",
+      "title": {
+        "en": "Information technology - Artificial intelligence - Overview of trustworthiness in artificial intelligence",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "17"
+      ],
+      "standard_type": "guidance",
+      "source_url": "https://webstore.iec.ch/en/search?q=ISO/IEC%20TR%2024028"
+    },
+    {
+      "id": "iso-iec-23894-2023",
+      "number": "ISO/IEC 23894:2023",
+      "title": {
+        "en": "Information technology - Artificial intelligence - Guidance on risk management",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "3",
+        "17"
+      ],
+      "standard_type": "guidance",
+      "source_url": "https://webstore.iec.ch/en/search?q=ISO/IEC%2023894"
+    },
+    {
+      "id": "en-iso-11073-10101-2020",
+      "number": "EN ISO 11073-10101:2020",
+      "title": {
+        "en": "Health informatics - Device interoperability - Part 10101: Nomenclature",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "14.5"
+      ],
+      "standard_type": "international",
+      "source_url": "https://www.iso.org/search.html?q=EN%20ISO%2011073-10101"
     }
   ]
 }

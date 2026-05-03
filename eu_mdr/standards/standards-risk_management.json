@@ -7,8 +7,8 @@
   "regulation": "eu_mdr",
   "source": "Implementing Decision (EU) 2021/1182 (consolidated)",
   "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
-  "last_updated": "2026-04-09",
-  "count": 1,
+  "last_updated": "2026-05-03",
+  "count": 3,
   "entries": [
     {
       "id": "eu_mdr-hs-en-iso-14971-2019",
@@ -23,7 +23,91 @@
       "category": "risk_management",
       "amendments": [
         "EN ISO 14971:2019/A11:2021"
-      ]
+      ],
+      "applicable_gsprs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "11.1",
+        "13",
+        "14",
+        "14.1",
+        "14.2",
+        "14.3",
+        "14.7",
+        "15",
+        "15.1",
+        "16",
+        "16.1",
+        "17",
+        "18",
+        "19",
+        "19.1",
+        "20",
+        "20.1",
+        "20.5",
+        "21",
+        "21.1",
+        "21.2",
+        "22",
+        "22.2",
+        "3(d)",
+        "3(b)",
+        "5(a)",
+        "4(a)",
+        "3(f)",
+        "3(c)",
+        "3(e)",
+        "3(a)",
+        "4(b)"
+      ],
+      "scope": {
+        "en": "Risk management process for medical devices throughout the product lifecycle",
+        "zh": ""
+      },
+      "standard_type": "harmonised"
+    },
+    {
+      "id": "iso-14971-2019",
+      "number": "ISO 14971:2019",
+      "title": {
+        "en": "Medical devices — Application of risk management to medical devices",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "scope": {
+        "en": "Risk management throughout device lifecycle",
+        "zh": ""
+      },
+      "standard_type": "non_harmonised"
+    },
+    {
+      "id": "iso-tr-24971-2020",
+      "number": "ISO/TR 24971:2020",
+      "title": {
+        "en": "Medical devices - Guidance on the application of ISO 14971",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "2",
+        "3",
+        "3(e)",
+        "3(a)",
+        "3(c)",
+        "3(b)"
+      ],
+      "standard_type": "guidance",
+      "source_url": "https://www.iso.org/search.html?q=ISO%20TR%2024971"
     }
   ]
 }

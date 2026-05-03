@@ -1,0 +1,46 @@
+{
+  "category": "needles_syringes",
+  "category_name": {
+    "zh": "针头与注射器",
+    "en": "Needles & Syringes"
+  },
+  "regulation": "eu_mdr",
+  "source": "DocMCP Standards Library",
+  "last_updated": "2026-05-03",
+  "count": 2,
+  "entries": [
+    {
+      "id": "iso-7864-2016",
+      "number": "ISO 7864:2016",
+      "title": {
+        "en": "Sterile hypodermic needles for single use - Requirements and test methods",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "10",
+        "11",
+        "14"
+      ],
+      "standard_type": "product_specific",
+      "source_url": "https://www.iso.org/search.html?q=ISO%207864"
+    },
+    {
+      "id": "iso-7886-1-2017",
+      "number": "ISO 7886-1:2017",
+      "title": {
+        "en": "Sterile hypodermic syringes for single use - Part 1: Syringes for manual use",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "10",
+        "11",
+        "14",
+        "21"
+      ],
+      "standard_type": "product_specific",
+      "source_url": "https://www.iso.org/search.html?q=ISO%207886-1"
+    }
+  ]
+}

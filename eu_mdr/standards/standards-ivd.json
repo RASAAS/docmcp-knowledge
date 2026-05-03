@@ -1,0 +1,73 @@
+{
+  "category": "ivd",
+  "category_name": {
+    "zh": "体外诊断",
+    "en": "In Vitro Diagnostics"
+  },
+  "regulation": "eu_mdr",
+  "source": "DocMCP Standards Library",
+  "last_updated": "2026-05-03",
+  "count": 4,
+  "entries": [
+    {
+      "id": "iso-15197-2013",
+      "number": "ISO 15197:2013",
+      "title": {
+        "en": "In vitro diagnostic test systems — Requirements for blood-glucose monitoring systems for self-testing in managing diabetes mellitus",
+        "zh": ""
+      },
+      "status": "active",
+      "scope": {
+        "en": "Blood glucose monitoring system requirements",
+        "zh": ""
+      },
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/search.html?q=ISO%2015197"
+    },
+    {
+      "id": "iso-18113-1-2022",
+      "number": "ISO 18113-1:2022",
+      "title": {
+        "en": "In vitro diagnostic medical devices — Information supplied by the manufacturer (labelling) — Part 1: Terms, definitions and general requirements",
+        "zh": ""
+      },
+      "status": "active",
+      "scope": {
+        "en": "IVD labeling requirements",
+        "zh": ""
+      },
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/search.html?q=ISO%2018113-1"
+    },
+    {
+      "id": "iso-15197-2013-amd1-2024",
+      "number": "ISO 15197:2013+AMD1:2024",
+      "title": {
+        "en": "In vitro diagnostic test systems - Requirements for blood-glucose monitoring systems for self-testing in managing diabetes mellitus",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "15",
+        "22"
+      ],
+      "standard_type": "product_specific",
+      "source_url": "https://www.iso.org/search.html?q=ISO%2015197"
+    },
+    {
+      "id": "en-iso-15189-2022",
+      "number": "EN ISO 15189:2022",
+      "title": {
+        "en": "Medical laboratories - Requirements for quality and competence",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "15",
+        "15.1"
+      ],
+      "standard_type": "international",
+      "source_url": "https://www.iso.org/search.html?q=EN%20ISO%2015189"
+    }
+  ]
+}

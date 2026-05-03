@@ -1,0 +1,70 @@
+{
+  "category": "environmental_testing",
+  "category_name": {
+    "zh": "环境试验",
+    "en": "Environmental Testing"
+  },
+  "regulation": "eu_mdr",
+  "source": "DocMCP Standards Library",
+  "last_updated": "2026-05-03",
+  "count": 4,
+  "entries": [
+    {
+      "id": "iec-60068-2-1-2007",
+      "number": "IEC 60068-2-1:2007",
+      "title": {
+        "en": "Environmental testing - Part 2-1: Tests - Test A: Cold",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14"
+      ],
+      "standard_type": "testing",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060068-2-1"
+    },
+    {
+      "id": "iec-60068-2-2-2007",
+      "number": "IEC 60068-2-2:2007",
+      "title": {
+        "en": "Environmental testing - Part 2-2: Tests - Test B: Dry heat",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14"
+      ],
+      "standard_type": "testing",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060068-2-2"
+    },
+    {
+      "id": "iec-60068-2-30-2005",
+      "number": "IEC 60068-2-30:2005",
+      "title": {
+        "en": "Environmental testing - Part 2-30: Tests - Test Db: Damp heat, cyclic (12 h + 12 h cycle)",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14"
+      ],
+      "standard_type": "testing",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060068-2-30"
+    },
+    {
+      "id": "iec-60068-2-6-2007",
+      "number": "IEC 60068-2-6:2007",
+      "title": {
+        "en": "Environmental testing - Part 2-6: Tests - Test Fc: Vibration (sinusoidal)",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "20"
+      ],
+      "standard_type": "testing",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060068-2-6"
+    }
+  ]
+}

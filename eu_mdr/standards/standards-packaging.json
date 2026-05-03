@@ -1,0 +1,112 @@
+{
+  "category": "packaging",
+  "category_name": {
+    "zh": "包装与运输",
+    "en": "Packaging & Transport"
+  },
+  "regulation": "eu_mdr",
+  "source": "DocMCP Standards Library",
+  "last_updated": "2026-05-03",
+  "count": 7,
+  "entries": [
+    {
+      "id": "astm-f1980-2021",
+      "number": "ASTM F1980:2021",
+      "title": {
+        "en": "Standard Guide for Accelerated Aging of Sterile Barrier Systems for Medical Devices",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "11"
+      ],
+      "standard_type": "testing",
+      "source_url": "https://www.astm.org/Standards/F1980:2021.htm"
+    },
+    {
+      "id": "astm-d4169-2022",
+      "number": "ASTM D4169:2022",
+      "title": {
+        "en": "Standard Practice for Performance Testing of Shipping Containers and Systems",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "11",
+        "14"
+      ],
+      "standard_type": "testing",
+      "source_url": "https://www.astm.org/Standards/D4169:2022.htm"
+    },
+    {
+      "id": "astm-f2825-2010-r2020",
+      "number": "ASTM F2825:2010(R2020)",
+      "title": {
+        "en": "Standard Practice for Climatic Stresses of Packaging and Contained Products",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "11"
+      ],
+      "standard_type": "testing",
+      "source_url": "https://www.astm.org/Standards/F2825:2010(R2020).htm"
+    },
+    {
+      "id": "astm-d4332-2021",
+      "number": "ASTM D4332:2021",
+      "title": {
+        "en": "Standard Practice for Conditioning Containers, Packages, or Packaging Components for Testing",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "11"
+      ],
+      "standard_type": "testing",
+      "source_url": "https://www.astm.org/Standards/D4332:2021.htm"
+    },
+    {
+      "id": "astm-f2095-2007-r2020",
+      "number": "ASTM F2095:2007(R2020)",
+      "title": {
+        "en": "Standard Test Methods for Pressure Decay Leak Test for Flexible Packages With and Without Restraining Plates",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "11"
+      ],
+      "standard_type": "testing",
+      "source_url": "https://www.astm.org/Standards/F2095:2007(R2020).htm"
+    },
+    {
+      "id": "iso-11607-1-2019",
+      "number": "ISO 11607-1:2019",
+      "title": {
+        "en": "Packaging for terminally sterilized medical devices - Part 1: Requirements for materials, sterile barrier systems and packaging systems",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "11"
+      ],
+      "standard_type": "process",
+      "source_url": "https://www.iso.org/search.html?q=ISO%2011607-1"
+    },
+    {
+      "id": "iso-11607-2-2019",
+      "number": "ISO 11607-2:2019",
+      "title": {
+        "en": "Packaging for terminally sterilized medical devices - Part 2: Validation requirements for forming, sealing and assembly processes",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "11"
+      ],
+      "standard_type": "process",
+      "source_url": "https://www.iso.org/search.html?q=ISO%2011607-2"
+    }
+  ]
+}

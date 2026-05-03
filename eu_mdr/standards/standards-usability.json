@@ -1,0 +1,122 @@
+{
+  "category": "usability",
+  "category_name": {
+    "zh": "可用性与人因工程",
+    "en": "Usability & Human Factors"
+  },
+  "regulation": "eu_mdr",
+  "source": "DocMCP Standards Library",
+  "last_updated": "2026-05-03",
+  "count": 5,
+  "entries": [
+    {
+      "id": "iec-tr-62366-2-2016",
+      "number": "IEC/TR 62366-2:2016",
+      "title": {
+        "en": "Medical devices - Part 2: Guidance on the application of usability engineering to medical devices",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "5",
+        "22",
+        "22.1",
+        "5(a)",
+        "5(b)"
+      ],
+      "scope": {
+        "en": "Guidance on usability engineering for medical devices",
+        "zh": ""
+      },
+      "standard_type": "non_harmonised",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC/TR%2062366-2"
+    },
+    {
+      "id": "en-iec-62366-1-2015",
+      "number": "EN IEC 62366-1:2015+A1:2020",
+      "title": {
+        "en": "Medical devices - Part 1: Application of usability engineering to medical devices",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://www.iec.ch/homepage",
+      "applicable_gsprs": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "8",
+        "14",
+        "14.6",
+        "18",
+        "19",
+        "20",
+        "20.5",
+        "21",
+        "21.3",
+        "22",
+        "22.1",
+        "22.2",
+        "22.3",
+        "23",
+        "23.4",
+        "3(d)",
+        "5(a)",
+        "4(c)",
+        "5(b)",
+        "4(b)"
+      ],
+      "scope": {
+        "en": "Usability engineering process for medical devices",
+        "zh": ""
+      },
+      "standard_type": "international"
+    },
+    {
+      "id": "iec-62366-1-2015",
+      "number": "IEC 62366-1:2015+AMD1:2020",
+      "title": {
+        "en": "Medical devices — Part 1: Application of usability engineering to medical devices",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "scope": {
+        "en": "Usability engineering process",
+        "zh": ""
+      },
+      "standard_type": "non_harmonised"
+    },
+    {
+      "id": "iec-62366-2-2016",
+      "number": "IEC 62366-2:2016",
+      "title": {
+        "en": "Medical devices - Part 2: Guidance on the application of usability engineering to medical devices",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "5",
+        "22"
+      ],
+      "standard_type": "guidance",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2062366-2"
+    },
+    {
+      "id": "iec-tr-62366-3-2024",
+      "number": "IEC TR 62366-3:2024",
+      "title": {
+        "en": "Medical devices - Part 3: Additional guidance on usability engineering",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "5",
+        "22"
+      ],
+      "standard_type": "guidance",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%20TR%2062366-3"
+    }
+  ]
+}

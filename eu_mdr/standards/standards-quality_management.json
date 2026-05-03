@@ -7,8 +7,8 @@
   "regulation": "eu_mdr",
   "source": "Implementing Decision (EU) 2021/1182 (consolidated)",
   "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
-  "last_updated": "2026-04-09",
-  "count": 1,
+  "last_updated": "2026-05-03",
+  "count": 2,
   "entries": [
     {
       "id": "eu_mdr-hs-en-iso-13485-2016",
@@ -24,7 +24,51 @@
       "amendments": [
         "EN ISO 13485:2016/AC:2018",
         "EN ISO 13485:2016/A11:2021"
-      ]
+      ],
+      "applicable_gsprs": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "10",
+        "11",
+        "11.1",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "4(a)"
+      ],
+      "scope": {
+        "en": "Quality management system requirements for the design and manufacture of medical devices",
+        "zh": ""
+      },
+      "standard_type": "harmonised"
+    },
+    {
+      "id": "iso-13485-2016",
+      "number": "ISO 13485:2016",
+      "title": {
+        "en": "Medical devices — Quality management systems — Requirements for regulatory purposes",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "scope": {
+        "en": "Quality management system requirements",
+        "zh": ""
+      },
+      "standard_type": "non_harmonised"
     }
   ]
 }

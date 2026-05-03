@@ -1,0 +1,43 @@
+{
+  "category": "reprocessing",
+  "category_name": {
+    "zh": "再处理",
+    "en": "Reprocessing"
+  },
+  "regulation": "eu_mdr",
+  "source": "DocMCP Standards Library",
+  "last_updated": "2026-05-03",
+  "count": 2,
+  "entries": [
+    {
+      "id": "iso-17664-1-2021",
+      "number": "ISO 17664-1:2021",
+      "title": {
+        "en": "Processing of health care products - Information to be provided by the medical device manufacturer for the processing of medical devices - Part 1: Critical and semi-critical medical devices",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "11",
+        "23"
+      ],
+      "standard_type": "process",
+      "source_url": "https://www.iso.org/search.html?q=ISO%2017664-1"
+    },
+    {
+      "id": "iso-17664-2-2021",
+      "number": "ISO 17664-2:2021",
+      "title": {
+        "en": "Processing of health care products - Information to be provided by the medical device manufacturer for the processing of medical devices - Part 2: Non-critical medical devices",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "11",
+        "23"
+      ],
+      "standard_type": "process",
+      "source_url": "https://www.iso.org/search.html?q=ISO%2017664-2"
+    }
+  ]
+}

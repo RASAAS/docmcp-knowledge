@@ -1,0 +1,386 @@
+{
+  "category": "general",
+  "category_name": {
+    "zh": "通用要求",
+    "en": "General Requirements"
+  },
+  "regulation": "eu_mdr",
+  "source": "DocMCP Standards Library",
+  "last_updated": "2026-05-03",
+  "count": 30,
+  "entries": [
+    {
+      "id": "en-iso-18562-1-2024",
+      "number": "EN ISO 18562-1:2024",
+      "title": {
+        "en": "Biocompatibility evaluation of breathing gas pathways in healthcare applications - Part 1: Evaluation and testing within a risk management process (ISO 18562-1:2024)",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "harmonized": true,
+      "standard_type": "harmonised"
+    },
+    {
+      "id": "en-iso-18562-2-2024",
+      "number": "EN ISO 18562-2:2024",
+      "title": {
+        "en": "Biocompatibility evaluation of breathing gas pathways in healthcare applications - Part 2: Tests for emissions of particulate matter (ISO 18562-2:2024)",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "harmonized": true,
+      "standard_type": "harmonised"
+    },
+    {
+      "id": "en-iso-18562-3-2024",
+      "number": "EN ISO 18562-3:2024",
+      "title": {
+        "en": "Biocompatibility evaluation of breathing gas pathways in healthcare applications - Part 3: Tests for emissions of volatile organic compounds (VOCs) (ISO 18562-3:2024)",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "harmonized": true,
+      "standard_type": "harmonised"
+    },
+    {
+      "id": "en-iso-18562-4-2024",
+      "number": "EN ISO 18562-4:2024",
+      "title": {
+        "en": "Biocompatibility evaluation of breathing gas pathways in healthcare applications - Part 4: Tests for leachables in condensate (ISO 18562-4:2024)",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "harmonized": true,
+      "standard_type": "harmonised"
+    },
+    {
+      "id": "en-iec-60601-2-83-2020",
+      "number": "EN IEC 60601-2-83:2020",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-83: Particular requirements for the basic safety and essential performance of home light therapy equipment",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "amendments": [
+        "EN IEC 60601-2-83:2020/A11:2021"
+      ],
+      "harmonized": true,
+      "standard_type": "harmonised"
+    },
+    {
+      "id": "en-iec-60118-0-2024",
+      "number": "EN IEC 60118-0:2024",
+      "title": {
+        "en": "Electroacoustics - Hearing aids - Part 0: Measurement of the performance characteristics of hearing aids",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2026/760/oj",
+      "harmonized": true,
+      "standard_type": "harmonised"
+    },
+    {
+      "id": "en-455-1-2020-a2-2024",
+      "number": "EN 455-1:2020+A2:2024",
+      "title": {
+        "en": "Medical gloves for single use - Part 1: Requirements and testing for freedom of holes",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "harmonized": true,
+      "standard_type": "harmonised"
+    },
+    {
+      "id": "en-455-2-2024",
+      "number": "EN 455-2:2024",
+      "title": {
+        "en": "Medical gloves for single use - Part 2: Requirements and testing for physical properties",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "harmonized": true,
+      "standard_type": "harmonised"
+    },
+    {
+      "id": "en-455-3-2023",
+      "number": "EN 455-3:2023",
+      "title": {
+        "en": "Medical gloves for single use - Part 3: Requirements and testing for biological evaluation",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "harmonized": true,
+      "standard_type": "harmonised"
+    },
+    {
+      "id": "en-1865-2-2024",
+      "number": "EN 1865-2:2024",
+      "title": {
+        "en": "Patient handling equipment used in ambulances - Part 2: Power assisted stretcher",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "harmonized": true,
+      "standard_type": "harmonised"
+    },
+    {
+      "id": "en-1865-6-2024",
+      "number": "EN 1865-6:2024",
+      "title": {
+        "en": "Patient handling equipment used in ambulances - Part 6: Powered chairs",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "harmonized": true,
+      "standard_type": "harmonised"
+    },
+    {
+      "id": "en-iso-17664-2-2023",
+      "number": "EN ISO 17664-2:2023",
+      "title": {
+        "en": "Processing of health care products - Information to be provided by the medical device manufacturer for the processing of medical devices - Part 2: Non-critical medical devices (ISO 17664-2:2021)",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "harmonized": true,
+      "standard_type": "harmonised"
+    },
+    {
+      "id": "en-13060-2025",
+      "number": "EN 13060:2025",
+      "title": {
+        "en": "Sterilizers for medical purposes - Small steam sterilizers - Requirements and testing",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2026/760/oj",
+      "harmonized": true,
+      "standard_type": "harmonised"
+    },
+    {
+      "id": "en-iso-13408-1-2024",
+      "number": "EN ISO 13408-1:2024",
+      "title": {
+        "en": "Aseptic processing of health care products - Part 1: General requirements (ISO 13408-1:2023)",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "harmonized": true,
+      "standard_type": "harmonised"
+    },
+    {
+      "id": "en-iso-13408-6-2021",
+      "number": "EN ISO 13408-6:2021",
+      "title": {
+        "en": "Aseptic processing of health care products - Part 6: Isolator systems (ISO 13408-6:2021)",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "harmonized": true,
+      "standard_type": "harmonised"
+    },
+    {
+      "id": "en-iso-14160-2021",
+      "number": "EN ISO 14160:2021",
+      "title": {
+        "en": "Sterilization of health care products - Liquid chemical sterilizing agents for single-use medical devices utilizing animal tissues and their derivatives (ISO 14160:2020)",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "harmonized": true,
+      "standard_type": "harmonised"
+    },
+    {
+      "id": "en-14180-2025",
+      "number": "EN 14180:2025",
+      "title": {
+        "en": "Sterilizers for medical purposes - Low temperature steam and formaldehyde sterilizers - Requirements and testing",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "harmonized": true,
+      "standard_type": "harmonised"
+    },
+    {
+      "id": "en-14222-2021-a1-2025",
+      "number": "EN 14222:2021+A1:2025",
+      "title": {
+        "en": "Stainless steel steam boilers",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2026/760/oj",
+      "harmonized": true,
+      "standard_type": "harmonised"
+    },
+    {
+      "id": "en-iso-17665-2024",
+      "number": "EN ISO 17665:2024",
+      "title": {
+        "en": "Sterilization of health care products - Moist heat - Requirements for the development, validation and routine control of a sterilization process for medical devices (ISO 17665:2024)",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "harmonized": true,
+      "standard_type": "harmonised"
+    },
+    {
+      "id": "en-iso-25424-2019",
+      "number": "EN ISO 25424:2019",
+      "title": {
+        "en": "Sterilization of health care products - Low temperature steam and formaldehyde - Requirements for development, validation and routine control of a sterilization process for medical devices (ISO 25424:2018)",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "amendments": [
+        "EN ISO 25424:2019/A1:2022"
+      ],
+      "applicable_gsprs": [
+        "11",
+        "11.5"
+      ],
+      "harmonized": true,
+      "standard_type": "harmonised"
+    },
+    {
+      "id": "en-285-2015-a1-2021",
+      "number": "EN 285:2015+A1:2021",
+      "title": {
+        "en": "Sterilization - Steam sterilizers - Large sterilizers",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "harmonized": true,
+      "standard_type": "harmonised"
+    },
+    {
+      "id": "en-556-1-2024",
+      "number": "EN 556-1:2024",
+      "title": {
+        "en": "Sterilization of medical devices - Requirements for medical devices to be designated STERILE - Part 1: Requirements for terminally sterilized medical devices",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "harmonized": true,
+      "standard_type": "harmonised"
+    },
+    {
+      "id": "en-556-2-2024",
+      "number": "EN 556-2:2024",
+      "title": {
+        "en": "Sterilization of medical devices - Requirements for medical devices to be designated STERILE - Part 2: Requirements for aseptically processed medical devices",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "harmonized": true,
+      "standard_type": "harmonised"
+    },
+    {
+      "id": "en-iso-7197-2024",
+      "number": "EN ISO 7197:2024",
+      "title": {
+        "en": "Neurosurgical implants - Sterile, single-use hydrocephalus shunts and components (ISO 7197:2024)",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "harmonized": true,
+      "standard_type": "harmonised"
+    },
+    {
+      "id": "en-iso-14630-2024",
+      "number": "EN ISO 14630:2024",
+      "title": {
+        "en": "Non-active surgical implants - General requirements (ISO 14630:2024)",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "applicable_gsprs": [
+        "19"
+      ],
+      "harmonized": true,
+      "standard_type": "harmonised"
+    },
+    {
+      "id": "en-iso-21535-2024",
+      "number": "EN ISO 21535:2024",
+      "title": {
+        "en": "Non-active surgical implants - Joint replacement implants - Specific requirements for hip-joint replacement implants (ISO 21535:2023)",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "harmonized": true,
+      "standard_type": "harmonised"
+    },
+    {
+      "id": "en-iso-21536-2024",
+      "number": "EN ISO 21536:2024",
+      "title": {
+        "en": "Non-active surgical implants - Joint replacement implants - Specific requirements for knee-joint replacement implants (ISO 21536:2023)",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "harmonized": true,
+      "standard_type": "harmonised"
+    },
+    {
+      "id": "en-13795-1-2025",
+      "number": "EN 13795-1:2025",
+      "title": {
+        "en": "Surgical clothing and drapes - Requirements and test methods - Part 1: Surgical drapes and gowns",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "harmonized": true,
+      "standard_type": "harmonised"
+    },
+    {
+      "id": "en-13795-2-2025",
+      "number": "EN 13795-2:2025",
+      "title": {
+        "en": "Surgical clothing and drapes - Requirements and test methods - Part 2: Clean air suits",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "harmonized": true,
+      "standard_type": "harmonised"
+    },
+    {
+      "id": "en-14683-2025",
+      "number": "EN 14683:2025",
+      "title": {
+        "en": "Medical face masks - Requirements and test methods",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "harmonized": true,
+      "standard_type": "harmonised"
+    }
+  ]
+}

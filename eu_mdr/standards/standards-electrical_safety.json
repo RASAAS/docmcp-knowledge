@@ -7,8 +7,8 @@
   "regulation": "eu_mdr",
   "source": "Implementing Decision (EU) 2021/1182 (consolidated)",
   "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
-  "last_updated": "2026-04-09",
-  "count": 1,
+  "last_updated": "2026-05-03",
+  "count": 19,
   "entries": [
     {
       "id": "eu_mdr-hs-en-iec-60601-2-83-2020",
@@ -24,6 +24,318 @@
       "amendments": [
         "EN IEC 60601-2-83:2020/A11:2021"
       ]
+    },
+    {
+      "id": "en-iec-60601-1-2006",
+      "number": "EN IEC 60601-1:2006+A1:2013+A2:2020",
+      "title": {
+        "en": "Medical electrical equipment - Part 1: General requirements for basic safety and essential performance",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "applicable_gsprs": [
+        "14",
+        "14.2",
+        "14.3",
+        "14.4",
+        "14.5",
+        "14.6",
+        "18",
+        "18.1",
+        "18.2",
+        "18.3",
+        "18.4",
+        "18.7",
+        "19",
+        "19.1",
+        "19.2",
+        "20",
+        "20.1",
+        "20.2",
+        "20.3",
+        "20.4",
+        "20.6",
+        "21",
+        "21.2"
+      ],
+      "scope": {
+        "en": "Basic safety and essential performance of medical electrical equipment",
+        "zh": ""
+      },
+      "standard_type": "non_harmonised"
+    },
+    {
+      "id": "en-iec-60601-1-2-2015",
+      "number": "EN IEC 60601-1-2:2015+A1:2021",
+      "title": {
+        "en": "Medical electrical equipment - Part 1-2: General requirements for basic safety and essential performance - Collateral Standard: Electromagnetic disturbances - Requirements and tests",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "applicable_gsprs": [
+        "14",
+        "18",
+        "18.5",
+        "18.6"
+      ],
+      "scope": {
+        "en": "EMC requirements for medical electrical equipment",
+        "zh": ""
+      },
+      "standard_type": "non_harmonised"
+    },
+    {
+      "id": "en-iec-60601-1-6-2010",
+      "number": "EN IEC 60601-1-6:2010+A1:2015+A2:2020",
+      "title": {
+        "en": "Medical electrical equipment - Part 1-6: General requirements for basic safety and essential performance - Collateral standard: Usability",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "scope": {
+        "en": "Usability engineering for medical electrical equipment",
+        "zh": ""
+      },
+      "standard_type": "non_harmonised"
+    },
+    {
+      "id": "iec-60601-1-2020",
+      "number": "IEC 60601-1:2005+AMD1:2012+AMD2:2020 CSV",
+      "title": {
+        "en": "Medical electrical equipment — Part 1: General requirements for basic safety and essential performance",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "scope": {
+        "en": "Electrical safety requirements for medical electrical equipment",
+        "zh": ""
+      },
+      "standard_type": "non_harmonised"
+    },
+    {
+      "id": "iec-60601-2-2-2017",
+      "number": "IEC 60601-2-2:2017",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-2: Particular requirements for the basic safety and essential performance of high frequency surgical equipment and high frequency surgical accessories",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "18",
+        "20"
+      ],
+      "standard_type": "product_specific",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-2"
+    },
+    {
+      "id": "iec-60601-2-4-2010-amd1-2018",
+      "number": "IEC 60601-2-4:2010+AMD1:2018",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-4: Particular requirements for the basic safety and essential performance of cardiac defibrillators",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "18",
+        "19"
+      ],
+      "standard_type": "product_specific",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-4"
+    },
+    {
+      "id": "iec-60601-2-6-2020",
+      "number": "IEC 60601-2-6:2020",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-6: Particular requirements for the basic safety and essential performance of microwave therapy and hyperthermia equipment",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "16",
+        "18"
+      ],
+      "standard_type": "product_specific",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-6"
+    },
+    {
+      "id": "iec-60601-2-10-2012-amd1-2016",
+      "number": "IEC 60601-2-10:2012+AMD1:2016",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-10: Particular requirements for the basic safety and essential performance of nerve and muscle stimulators",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "18",
+        "19"
+      ],
+      "standard_type": "product_specific",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-10"
+    },
+    {
+      "id": "iec-60601-2-16-2018",
+      "number": "IEC 60601-2-16:2018",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-16: Particular requirements for the basic safety and essential performance of haemodialysis, haemodiafiltration and haemofiltration equipment",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "18",
+        "21"
+      ],
+      "standard_type": "product_specific",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-16"
+    },
+    {
+      "id": "iec-60601-2-24-2012",
+      "number": "IEC 60601-2-24:2012",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-24: Particular requirements for the basic safety and essential performance of infusion pumps and controllers",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "18",
+        "21"
+      ],
+      "standard_type": "product_specific",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-24"
+    },
+    {
+      "id": "iec-60601-2-25-2011-amd1-2014",
+      "number": "IEC 60601-2-25:2011+AMD1:2014",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-25: Particular requirements for the basic safety and essential performance of electrocardiographs",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "15",
+        "18"
+      ],
+      "standard_type": "product_specific",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-25"
+    },
+    {
+      "id": "iec-60601-2-27-2011-amd1-2019",
+      "number": "IEC 60601-2-27:2011+AMD1:2019",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-27: Particular requirements for the basic safety and essential performance of electrocardiographic monitoring equipment",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "15",
+        "18"
+      ],
+      "standard_type": "product_specific",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-27"
+    },
+    {
+      "id": "iec-60601-2-34-2011",
+      "number": "IEC 60601-2-34:2011",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-34: Particular requirements for the basic safety and essential performance of invasive blood pressure monitoring equipment",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "15",
+        "18"
+      ],
+      "standard_type": "product_specific",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-34"
+    },
+    {
+      "id": "iec-60601-2-37-2007-amd1-2015",
+      "number": "IEC 60601-2-37:2007+AMD1:2015",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-37: Particular requirements for the basic safety and essential performance of ultrasonic medical diagnostic and monitoring equipment",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "16",
+        "18"
+      ],
+      "standard_type": "product_specific",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-37"
+    },
+    {
+      "id": "iec-60601-2-49-2018",
+      "number": "IEC 60601-2-49:2018",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-49: Particular requirements for the basic safety and essential performance of multifunction patient monitoring equipment",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "15",
+        "18"
+      ],
+      "standard_type": "product_specific",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-49"
+    },
+    {
+      "id": "iec-60601-2-52-2009-amd1-2015",
+      "number": "IEC 60601-2-52:2009+AMD1:2015",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-52: Particular requirements for the basic safety and essential performance of medical beds",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "18",
+        "20"
+      ],
+      "standard_type": "product_specific",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-52"
+    },
+    {
+      "id": "iec-60601-1-8-2006-amd1-2012-amd2-2020",
+      "number": "IEC 60601-1-8:2006+AMD1:2012+AMD2:2020",
+      "title": {
+        "en": "Medical electrical equipment - Part 1-8: General requirements for basic safety and essential performance - Collateral standard: General requirements, tests and guidance for alarm systems in medical electrical equipment and medical electrical systems",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "18"
+      ],
+      "standard_type": "horizontal",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-1-8"
+    },
+    {
+      "id": "en-iec-60601-1-8-2006-a1-2012-a2-2020",
+      "number": "EN IEC 60601-1-8:2006+A1:2012+A2:2020",
+      "title": {
+        "en": "Medical electrical equipment - Part 1-8: General requirements for basic safety and essential performance - Collateral Standard: General requirements, tests and guidance for alarm systems in medical electrical equipment and medical electrical systems",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "18",
+        "18.4"
+      ],
+      "standard_type": "international",
+      "source_url": "https://webstore.iec.ch/en/search?q=EN%20IEC%2060601-1-8"
     }
   ]
 }
