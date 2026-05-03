@@ -1,15 +1,5 @@
 {
-  "category": "risk_management",
-  "category_name": {
-    "zh": "风险管理",
-    "en": "Risk Management"
-  },
-  "regulation": "eu_mdr",
-  "source": "Implementing Decision (EU) 2021/1182 (consolidated)",
-  "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
-  "last_updated": "2026-05-03",
-  "count": 3,
-  "entries": [
+  "standards": [
     {
       "id": "eu_mdr-hs-en-iso-14971-2019",
       "number": "EN ISO 14971:2019",
@@ -74,40 +64,6 @@
         "zh": ""
       },
       "standard_type": "harmonised"
-    },
-    {
-      "id": "iso-14971-2019",
-      "number": "ISO 14971:2019",
-      "title": {
-        "en": "Medical devices — Application of risk management to medical devices",
-        "zh": ""
-      },
-      "status": "active",
-      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
-      "scope": {
-        "en": "Risk management throughout device lifecycle",
-        "zh": ""
-      },
-      "standard_type": "non_harmonised"
-    },
-    {
-      "id": "iso-tr-24971-2020",
-      "number": "ISO/TR 24971:2020",
-      "title": {
-        "en": "Medical devices - Guidance on the application of ISO 14971",
-        "zh": ""
-      },
-      "status": "active",
-      "applicable_gsprs": [
-        "2",
-        "3",
-        "3(e)",
-        "3(a)",
-        "3(c)",
-        "3(b)"
-      ],
-      "standard_type": "guidance",
-      "source_url": "https://www.iso.org/search.html?q=ISO%20TR%2024971"
     }
   ]
 }

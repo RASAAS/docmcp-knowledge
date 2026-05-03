@@ -1,15 +1,5 @@
 {
-  "category": "connectors",
-  "category_name": {
-    "zh": "小口径连接器",
-    "en": "Small-bore Connectors"
-  },
-  "regulation": "eu_mdr",
-  "source": "Implementing Decision (EU) 2021/1182 (consolidated)",
-  "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
-  "last_updated": "2026-05-03",
-  "count": 4,
-  "entries": [
+  "standards": [
     {
       "id": "eu_mdr-hs-en-iso-80369-2-2024",
       "number": "EN ISO 80369-2:2024",
@@ -22,51 +12,6 @@
       "source_verified": "2026-04-09",
       "category": "connectors",
       "standard_type": "harmonised"
-    },
-    {
-      "id": "iso-80369-1-2018-amd1-2021",
-      "number": "ISO 80369-1:2018+AMD1:2021",
-      "title": {
-        "en": "Small-bore connectors for liquids and gases in healthcare applications - Part 1: General requirements",
-        "zh": ""
-      },
-      "status": "active",
-      "applicable_gsprs": [
-        "14",
-        "21"
-      ],
-      "standard_type": "product_specific",
-      "source_url": "https://www.iso.org/search.html?q=ISO%2080369-1"
-    },
-    {
-      "id": "iso-80369-7-2021",
-      "number": "ISO 80369-7:2021",
-      "title": {
-        "en": "Small-bore connectors for liquids and gases in healthcare applications - Part 7: Connectors for intravascular or hypodermic applications",
-        "zh": ""
-      },
-      "status": "active",
-      "applicable_gsprs": [
-        "14",
-        "21"
-      ],
-      "standard_type": "product_specific",
-      "source_url": "https://www.iso.org/search.html?q=ISO%2080369-7"
-    },
-    {
-      "id": "en-iso-80369-1-2018-a1-2021",
-      "number": "EN ISO 80369-1:2018+A1:2021",
-      "title": {
-        "en": "Small-bore connectors for liquids and gases in healthcare applications - Part 1: General requirements",
-        "zh": ""
-      },
-      "status": "active",
-      "applicable_gsprs": [
-        "21",
-        "21.1"
-      ],
-      "standard_type": "international",
-      "source_url": "https://www.iso.org/search.html?q=EN%20ISO%2080369-1"
     }
   ]
 }

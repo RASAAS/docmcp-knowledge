@@ -1,14 +1,5 @@
 {
-  "category": "usability",
-  "category_name": {
-    "zh": "可用性与人因工程",
-    "en": "Usability & Human Factors"
-  },
-  "regulation": "eu_mdr",
-  "source": "DocMCP Standards Library",
-  "last_updated": "2026-05-03",
-  "count": 5,
-  "entries": [
+  "standards": [
     {
       "id": "iec-tr-62366-2-2016",
       "number": "IEC/TR 62366-2:2016",
@@ -71,7 +62,7 @@
         "en": "Usability engineering process for medical devices",
         "zh": ""
       },
-      "standard_type": "international"
+      "standard_type": "non_harmonised"
     },
     {
       "id": "iec-62366-1-2015",
@@ -100,7 +91,7 @@
         "5",
         "22"
       ],
-      "standard_type": "guidance",
+      "standard_type": "non_harmonised",
       "source_url": "https://webstore.iec.ch/en/search?q=IEC%2062366-2"
     },
     {
@@ -115,7 +106,7 @@
         "5",
         "22"
       ],
-      "standard_type": "guidance",
+      "standard_type": "non_harmonised",
       "source_url": "https://webstore.iec.ch/en/search?q=IEC%20TR%2062366-3"
     }
   ]

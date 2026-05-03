@@ -1,15 +1,5 @@
 {
-  "category": "quality_management",
-  "category_name": {
-    "zh": "质量管理体系",
-    "en": "Quality Management"
-  },
-  "regulation": "eu_mdr",
-  "source": "Implementing Decision (EU) 2021/1182 (consolidated)",
-  "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
-  "last_updated": "2026-05-03",
-  "count": 2,
-  "entries": [
+  "standards": [
     {
       "id": "eu_mdr-hs-en-iso-13485-2016",
       "number": "EN ISO 13485:2016",
@@ -54,21 +44,6 @@
         "zh": ""
       },
       "standard_type": "harmonised"
-    },
-    {
-      "id": "iso-13485-2016",
-      "number": "ISO 13485:2016",
-      "title": {
-        "en": "Medical devices — Quality management systems — Requirements for regulatory purposes",
-        "zh": ""
-      },
-      "status": "active",
-      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
-      "scope": {
-        "en": "Quality management system requirements",
-        "zh": ""
-      },
-      "standard_type": "non_harmonised"
     }
   ]
 }

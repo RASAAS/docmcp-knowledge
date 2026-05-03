@@ -1,14 +1,5 @@
 {
-  "category": "cybersecurity",
-  "category_name": {
-    "zh": "网络安全",
-    "en": "Cybersecurity"
-  },
-  "regulation": "eu_mdr",
-  "source": "DocMCP Standards Library",
-  "last_updated": "2026-05-03",
-  "count": 1,
-  "entries": [
+  "standards": [
     {
       "id": "iec-80001-1-2021",
       "number": "IEC 80001-1:2021",

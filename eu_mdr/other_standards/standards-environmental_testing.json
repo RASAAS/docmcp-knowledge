@@ -1,14 +1,5 @@
 {
-  "category": "environmental_testing",
-  "category_name": {
-    "zh": "环境试验",
-    "en": "Environmental Testing"
-  },
-  "regulation": "eu_mdr",
-  "source": "DocMCP Standards Library",
-  "last_updated": "2026-05-03",
-  "count": 4,
-  "entries": [
+  "standards": [
     {
       "id": "iec-60068-2-1-2007",
       "number": "IEC 60068-2-1:2007",
@@ -20,7 +11,7 @@
       "applicable_gsprs": [
         "14"
       ],
-      "standard_type": "testing",
+      "standard_type": "non_harmonised",
       "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060068-2-1"
     },
     {
@@ -34,7 +25,7 @@
       "applicable_gsprs": [
         "14"
       ],
-      "standard_type": "testing",
+      "standard_type": "non_harmonised",
       "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060068-2-2"
     },
     {
@@ -48,7 +39,7 @@
       "applicable_gsprs": [
         "14"
       ],
-      "standard_type": "testing",
+      "standard_type": "non_harmonised",
       "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060068-2-30"
     },
     {
@@ -63,7 +54,7 @@
         "14",
         "20"
       ],
-      "standard_type": "testing",
+      "standard_type": "non_harmonised",
       "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060068-2-6"
     }
   ]

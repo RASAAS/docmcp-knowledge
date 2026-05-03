@@ -1,0 +1,19 @@
+{
+  "standards": [
+    {
+      "id": "iso-13485-2016",
+      "number": "ISO 13485:2016",
+      "title": {
+        "en": "Medical devices — Quality management systems — Requirements for regulatory purposes",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "scope": {
+        "en": "Quality management system requirements",
+        "zh": ""
+      },
+      "standard_type": "non_harmonised"
+    }
+  ]
+}

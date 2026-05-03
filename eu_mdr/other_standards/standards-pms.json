@@ -1,14 +1,5 @@
 {
-  "category": "pms",
-  "category_name": {
-    "zh": "上市后监督",
-    "en": "Post-Market Surveillance"
-  },
-  "regulation": "eu_mdr",
-  "source": "DocMCP Standards Library",
-  "last_updated": "2026-05-03",
-  "count": 1,
-  "entries": [
+  "standards": [
     {
       "id": "iso-tr-20416-2020",
       "number": "ISO/TR 20416:2020",

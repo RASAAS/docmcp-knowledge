@@ -1,14 +1,5 @@
 {
-  "category": "home_healthcare",
-  "category_name": {
-    "zh": "家用医疗器械",
-    "en": "Home Healthcare"
-  },
-  "regulation": "eu_mdr",
-  "source": "DocMCP Standards Library",
-  "last_updated": "2026-05-03",
-  "count": 1,
-  "entries": [
+  "standards": [
     {
       "id": "iec-60601-1-11-2015-amd1-2020",
       "number": "IEC 60601-1-11:2015+AMD1:2020",
@@ -22,7 +13,7 @@
         "18",
         "22"
       ],
-      "standard_type": "horizontal",
+      "standard_type": "non_harmonised",
       "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-1-11"
     }
   ]

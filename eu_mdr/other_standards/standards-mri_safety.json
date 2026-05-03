@@ -1,14 +1,5 @@
 {
-  "category": "mri_safety",
-  "category_name": {
-    "zh": "MRI 安全",
-    "en": "MRI Safety"
-  },
-  "regulation": "eu_mdr",
-  "source": "DocMCP Standards Library",
-  "last_updated": "2026-05-03",
-  "count": 4,
-  "entries": [
+  "standards": [
     {
       "id": "astm-f2052-2015",
       "number": "ASTM F2052:2015",
@@ -21,7 +12,7 @@
         "14",
         "16"
       ],
-      "standard_type": "testing",
+      "standard_type": "non_harmonised",
       "source_url": "https://www.astm.org/Standards/F2052:2015.htm"
     },
     {
@@ -36,7 +27,7 @@
         "14",
         "16"
       ],
-      "standard_type": "testing",
+      "standard_type": "non_harmonised",
       "source_url": "https://www.astm.org/Standards/F2213:2017.htm"
     },
     {
@@ -51,7 +42,7 @@
         "14",
         "16"
       ],
-      "standard_type": "testing",
+      "standard_type": "non_harmonised",
       "source_url": "https://www.astm.org/Standards/F2182:2019.htm"
     },
     {
@@ -66,7 +57,7 @@
         "14",
         "16"
       ],
-      "standard_type": "testing",
+      "standard_type": "non_harmonised",
       "source_url": "https://www.astm.org/Standards/F2119:2013(R2022).htm"
     }
   ]

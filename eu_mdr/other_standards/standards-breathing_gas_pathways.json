@@ -1,0 +1,50 @@
+{
+  "standards": [
+    {
+      "id": "iso-7396-1-2016",
+      "number": "ISO 7396-1:2016",
+      "title": {
+        "en": "Medical gas pipeline systems - Part 1: Pipeline systems for compressed medical gases and vacuum",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "21"
+      ],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/search.html?q=ISO%207396-1"
+    },
+    {
+      "id": "iso-80601-2-12-2020",
+      "number": "ISO 80601-2-12:2020",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-12: Particular requirements for the basic safety and essential performance of critical care ventilators",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "18",
+        "21"
+      ],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/search.html?q=ISO%2080601-2-12"
+    },
+    {
+      "id": "iso-80601-2-70-2020",
+      "number": "ISO 80601-2-70:2020",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-70: Particular requirements for the basic safety and essential performance of sleep apnoea breathing therapy equipment",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "18"
+      ],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/search.html?q=ISO%2080601-2-70"
+    }
+  ]
+}

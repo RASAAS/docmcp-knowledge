@@ -1,14 +1,5 @@
 {
-  "category": "reprocessing",
-  "category_name": {
-    "zh": "再处理",
-    "en": "Reprocessing"
-  },
-  "regulation": "eu_mdr",
-  "source": "DocMCP Standards Library",
-  "last_updated": "2026-05-03",
-  "count": 2,
-  "entries": [
+  "standards": [
     {
       "id": "iso-17664-1-2021",
       "number": "ISO 17664-1:2021",
@@ -21,7 +12,7 @@
         "11",
         "23"
       ],
-      "standard_type": "process",
+      "standard_type": "non_harmonised",
       "source_url": "https://www.iso.org/search.html?q=ISO%2017664-1"
     },
     {
@@ -36,7 +27,7 @@
         "11",
         "23"
       ],
-      "standard_type": "process",
+      "standard_type": "non_harmonised",
       "source_url": "https://www.iso.org/search.html?q=ISO%2017664-2"
     }
   ]

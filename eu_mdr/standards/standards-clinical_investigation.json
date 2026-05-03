@@ -1,15 +1,5 @@
 {
-  "category": "clinical_investigation",
-  "category_name": {
-    "zh": "临床调查",
-    "en": "Clinical Investigation"
-  },
-  "regulation": "eu_mdr",
-  "source": "Implementing Decision (EU) 2021/1182 (consolidated)",
-  "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
-  "last_updated": "2026-05-03",
-  "count": 4,
-  "entries": [
+  "standards": [
     {
       "id": "eu_mdr-hs-en-iso-14155-2020",
       "number": "EN ISO 14155:2020",
@@ -32,53 +22,6 @@
         "zh": ""
       },
       "standard_type": "harmonised"
-    },
-    {
-      "id": "iso-14155-2020",
-      "number": "ISO 14155:2020",
-      "title": {
-        "en": "Clinical investigation of medical devices for human subjects — Good clinical practice",
-        "zh": ""
-      },
-      "status": "active",
-      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
-      "scope": {
-        "en": "Clinical investigation requirements",
-        "zh": ""
-      },
-      "standard_type": "non_harmonised"
-    },
-    {
-      "id": "iso-14155-2020-amd1-2024",
-      "number": "ISO 14155:2020+AMD1:2024",
-      "title": {
-        "en": "Clinical investigation of medical devices for human subjects - Good clinical practice",
-        "zh": ""
-      },
-      "status": "active",
-      "applicable_gsprs": [
-        "1",
-        "6",
-        "8"
-      ],
-      "standard_type": "process",
-      "source_url": "https://www.iso.org/search.html?q=ISO%2014155"
-    },
-    {
-      "id": "iso-20916-2019",
-      "number": "ISO 20916:2019",
-      "title": {
-        "en": "In vitro diagnostic medical devices - Clinical performance studies using specimens from human subjects - Good study practice",
-        "zh": ""
-      },
-      "status": "active",
-      "applicable_gsprs": [
-        "1",
-        "6",
-        "8"
-      ],
-      "standard_type": "process",
-      "source_url": "https://www.iso.org/search.html?q=ISO%2020916"
     }
   ]
 }

@@ -1,14 +1,5 @@
 {
-  "category": "wound_care",
-  "category_name": {
-    "zh": "伤口护理",
-    "en": "Wound Care"
-  },
-  "regulation": "eu_mdr",
-  "source": "DocMCP Standards Library",
-  "last_updated": "2026-05-03",
-  "count": 1,
-  "entries": [
+  "standards": [
     {
       "id": "en-13795-1-2019",
       "number": "EN 13795-1:2019",
@@ -21,7 +12,7 @@
         "11",
         "14"
       ],
-      "standard_type": "product_specific",
+      "standard_type": "non_harmonised",
       "source_url": "https://standards.cencenelec.eu/dyn/www/f?p=205:110:0::::FSP_PROJECT:EN%2013795-1"
     }
   ]

@@ -1,14 +1,5 @@
 {
-  "category": "ivd",
-  "category_name": {
-    "zh": "体外诊断",
-    "en": "In Vitro Diagnostics"
-  },
-  "regulation": "eu_mdr",
-  "source": "DocMCP Standards Library",
-  "last_updated": "2026-05-03",
-  "count": 4,
-  "entries": [
+  "standards": [
     {
       "id": "iso-15197-2013",
       "number": "ISO 15197:2013",
@@ -51,7 +42,7 @@
         "15",
         "22"
       ],
-      "standard_type": "product_specific",
+      "standard_type": "non_harmonised",
       "source_url": "https://www.iso.org/search.html?q=ISO%2015197"
     },
     {
@@ -66,7 +57,7 @@
         "15",
         "15.1"
       ],
-      "standard_type": "international",
+      "standard_type": "non_harmonised",
       "source_url": "https://www.iso.org/search.html?q=EN%20ISO%2015189"
     }
   ]

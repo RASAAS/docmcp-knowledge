@@ -1,0 +1,49 @@
+{
+  "standards": [
+    {
+      "id": "iso-80369-1-2018-amd1-2021",
+      "number": "ISO 80369-1:2018+AMD1:2021",
+      "title": {
+        "en": "Small-bore connectors for liquids and gases in healthcare applications - Part 1: General requirements",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "21"
+      ],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/search.html?q=ISO%2080369-1"
+    },
+    {
+      "id": "iso-80369-7-2021",
+      "number": "ISO 80369-7:2021",
+      "title": {
+        "en": "Small-bore connectors for liquids and gases in healthcare applications - Part 7: Connectors for intravascular or hypodermic applications",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "21"
+      ],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/search.html?q=ISO%2080369-7"
+    },
+    {
+      "id": "en-iso-80369-1-2018-a1-2021",
+      "number": "EN ISO 80369-1:2018+A1:2021",
+      "title": {
+        "en": "Small-bore connectors for liquids and gases in healthcare applications - Part 1: General requirements",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "21",
+        "21.1"
+      ],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/search.html?q=EN%20ISO%2080369-1"
+    }
+  ]
+}

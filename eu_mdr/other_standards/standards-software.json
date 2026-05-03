@@ -1,16 +1,5 @@
 {
-  "category": "software",
-  "category_name": {
-    "zh": "软件与可用性",
-    "en": "Software & Usability"
-  },
-  "regulation": "eu_mdr",
-  "source": "CEN/Cenelec mandate M/575 (requested, not yet published in OJEU as harmonised)",
-  "source_url": "https://single-market-economy.ec.europa.eu/single-market/goods/european-standards/harmonised-standards/medical-devices_en",
-  "last_updated": "2026-05-03",
-  "note": "These standards are widely used for MDR compliance but have not yet been formally harmonised (published in OJEU under CID 2021/1182). They are part of the 277 requested standards under mandate M/575.",
-  "count": 15,
-  "entries": [
+  "standards": [
     {
       "id": "en-iec-62304-2006",
       "number": "EN IEC 62304:2006+A1:2015",
@@ -34,7 +23,7 @@
         "en": "Software development lifecycle for medical device software",
         "zh": ""
       },
-      "standard_type": "international"
+      "standard_type": "non_harmonised"
     },
     {
       "id": "en-iec-82304-1-2017",
@@ -128,7 +117,7 @@
         "17",
         "17.2"
       ],
-      "standard_type": "guidance",
+      "standard_type": "non_harmonised",
       "source_url": "https://webstore.iec.ch/en/search?q=IEC/TR%2080002-1"
     },
     {
@@ -142,7 +131,7 @@
       "applicable_gsprs": [
         "17"
       ],
-      "standard_type": "process",
+      "standard_type": "non_harmonised",
       "source_url": "https://webstore.iec.ch/en/search?q=IEC%2081001-5-1"
     },
     {
@@ -157,7 +146,7 @@
         "17",
         "17.4"
       ],
-      "standard_type": "guidance",
+      "standard_type": "non_harmonised",
       "source_url": "https://webstore.iec.ch/en/search?q=IEC/TR%2080001-2-2"
     },
     {
@@ -171,7 +160,7 @@
       "applicable_gsprs": [
         "17"
       ],
-      "standard_type": "process",
+      "standard_type": "non_harmonised",
       "source_url": "https://webstore.iec.ch/en/search?q=IEC%2062443-4-1"
     },
     {
@@ -186,7 +175,7 @@
         "14",
         "17"
       ],
-      "standard_type": "process",
+      "standard_type": "non_harmonised",
       "source_url": "https://www.iso.org/search.html?q=ISO%2011073-10101"
     },
     {
@@ -201,7 +190,7 @@
         "14",
         "17"
       ],
-      "standard_type": "process",
+      "standard_type": "non_harmonised",
       "source_url": "https://www.iso.org/search.html?q=ISO%20IEEE%2011073-10207"
     },
     {
@@ -215,7 +204,7 @@
       "applicable_gsprs": [
         "17"
       ],
-      "standard_type": "guidance",
+      "standard_type": "non_harmonised",
       "source_url": "https://webstore.iec.ch/en/search?q=ISO/IEC%20TR%2024028"
     },
     {
@@ -230,7 +219,7 @@
         "3",
         "17"
       ],
-      "standard_type": "guidance",
+      "standard_type": "non_harmonised",
       "source_url": "https://webstore.iec.ch/en/search?q=ISO/IEC%2023894"
     },
     {
@@ -245,7 +234,7 @@
         "14",
         "14.5"
       ],
-      "standard_type": "international",
+      "standard_type": "non_harmonised",
       "source_url": "https://www.iso.org/search.html?q=EN%20ISO%2011073-10101"
     }
   ]

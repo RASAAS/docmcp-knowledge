@@ -1,14 +1,5 @@
 {
-  "category": "radiation_protection",
-  "category_name": {
-    "zh": "辐射防护与放射治疗",
-    "en": "Radiation Protection & Therapy"
-  },
-  "regulation": "eu_mdr",
-  "source": "DocMCP Standards Library",
-  "last_updated": "2026-05-03",
-  "count": 4,
-  "entries": [
+  "standards": [
     {
       "id": "iec-60601-2-1-2020",
       "number": "IEC 60601-2-1:2020",
@@ -21,7 +12,7 @@
         "16",
         "18"
       ],
-      "standard_type": "product_specific",
+      "standard_type": "non_harmonised",
       "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-1"
     },
     {
@@ -35,7 +26,7 @@
       "applicable_gsprs": [
         "16"
       ],
-      "standard_type": "horizontal",
+      "standard_type": "non_harmonised",
       "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-1-3"
     },
     {
@@ -53,7 +44,7 @@
         "16.3",
         "16.4"
       ],
-      "standard_type": "international",
+      "standard_type": "non_harmonised",
       "source_url": "https://webstore.iec.ch/en/search?q=EN%20IEC%2060601-1-3"
     },
     {
@@ -68,7 +59,7 @@
         "16",
         "16.2"
       ],
-      "standard_type": "international",
+      "standard_type": "non_harmonised",
       "source_url": "https://webstore.iec.ch/en/search?q=EN%20IEC%2060601-2-1"
     }
   ]
