@@ -20,7 +20,8 @@
         "zh": ""
       },
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/search?q=IEC/TR%2062366-2"
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC/TR%2062366-2",
+      "abstract": "Provides guidance on the application of usability engineering to medical devices, complementing IEC 62366-1."
     },
     {
       "id": "en-iec-62366-1-2015",
@@ -62,7 +63,8 @@
         "en": "Usability engineering process for medical devices",
         "zh": ""
       },
-      "standard_type": "non_harmonised"
+      "standard_type": "non_harmonised",
+      "abstract": "Specifies a process for a manufacturer to analyse, specify, develop and evaluate the usability of a medical device as it relates to safety."
     },
     {
       "id": "iec-62366-1-2015",
@@ -77,7 +79,12 @@
         "en": "Usability engineering process",
         "zh": ""
       },
-      "standard_type": "non_harmonised"
+      "standard_type": "non_harmonised",
+      "applicable_gsprs": [
+        "5",
+        "22"
+      ],
+      "abstract": "Specifies a process for analysing, specifying, developing and evaluating the usability of a medical device as it relates to safety."
     },
     {
       "id": "iec-62366-2-2016",
@@ -92,7 +99,9 @@
         "22"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2062366-2"
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2062366-2",
+      "abstract": "Provides guidance on the application of usability engineering to medical devices.",
+      "scope": "Medical devices -- Application of usability engineering to medical devices -- Guidance on the application of usability engineering to medical devices."
     },
     {
       "id": "iec-tr-62366-3-2024",
@@ -107,7 +116,9 @@
         "22"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/search?q=IEC%20TR%2062366-3"
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%20TR%2062366-3",
+      "abstract": "Provides additional guidance and examples on the application of usability engineering to medical devices.",
+      "scope": "Medical devices -- Application of usability engineering to medical devices -- Relationship of usability requirements in IEC 62366-1 to risk control."
     }
   ]
 }

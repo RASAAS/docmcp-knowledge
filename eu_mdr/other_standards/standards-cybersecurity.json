@@ -19,7 +19,8 @@
         "zh": ""
       },
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2080001-1"
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2080001-1",
+      "abstract": "Specifies requirements for risk management when medical devices are incorporated into IT-networks."
     }
   ]
 }

@@ -14,7 +14,17 @@
       "amendments": [
         "EN IEC 60601-2-83:2020/A11:2021"
       ],
-      "standard_type": "harmonised"
+      "standard_type": "harmonised",
+      "scope": "Particular requirements for home healthcare environment light therapy equipment",
+      "applicable_gsprs": [
+        "14",
+        "14.1",
+        "14.2",
+        "14.6",
+        "14.7",
+        "21"
+      ],
+      "abstract": "Applies to basic safety and essential performance of home healthcare environment light therapy equipment."
     }
   ]
 }

@@ -13,7 +13,9 @@
         "21"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO%207396-1"
+      "source_url": "https://www.iso.org/search.html?q=ISO%207396-1",
+      "abstract": "Specifies requirements for design, installation, function, and testing of medical gas pipeline systems.",
+      "scope": "Medical gas pipeline systems -- Pipeline systems for compressed medical gases and vacuum."
     },
     {
       "id": "iso-80601-2-12-2020",
@@ -29,7 +31,9 @@
         "21"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO%2080601-2-12"
+      "source_url": "https://www.iso.org/search.html?q=ISO%2080601-2-12",
+      "abstract": "Specifies particular requirements for basic safety and essential performance of critical care ventilators.",
+      "scope": "Medical electrical equipment -- Particular requirements for the basic safety and essential performance of critical care ventilators."
     },
     {
       "id": "iso-80601-2-70-2020",
@@ -44,7 +48,9 @@
         "18"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO%2080601-2-70"
+      "source_url": "https://www.iso.org/search.html?q=ISO%2080601-2-70",
+      "abstract": "Specifies particular requirements for basic safety and essential performance of sleep apnoea breathing therapy equipment.",
+      "scope": "Medical electrical equipment -- Particular requirements for the basic safety and essential performance of sleep apnoea breathing therapy equipment."
     }
   ]
 }

@@ -13,7 +13,19 @@
         "en": "Risk management throughout device lifecycle",
         "zh": ""
       },
-      "standard_type": "non_harmonised"
+      "standard_type": "non_harmonised",
+      "applicable_gsprs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "abstract": "Specifies terminology, principles and a process for risk management of medical devices, including in vitro diagnostic devices."
     },
     {
       "id": "iso-tr-24971-2020",
@@ -32,7 +44,9 @@
         "3(b)"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO%20TR%2024971"
+      "source_url": "https://www.iso.org/search.html?q=ISO%20TR%2024971",
+      "abstract": "Provides guidance on the application of ISO 14971 risk management to medical devices.",
+      "scope": "Medical devices -- Guidance on the application of ISO 14971 for risk management of medical devices."
     }
   ]
 }

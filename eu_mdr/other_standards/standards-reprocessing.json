@@ -13,7 +13,9 @@
         "23"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO%2017664-1"
+      "source_url": "https://www.iso.org/search.html?q=ISO%2017664-1",
+      "abstract": "Specifies information to be provided by medical device manufacturers for the processing (reprocessing) of re-usable devices.",
+      "scope": "Processing of health care products -- Information to be provided by the medical device manufacturer for the processing of medical devices -- Critical and semi-critical medical devices."
     },
     {
       "id": "iso-17664-2-2021",
@@ -28,7 +30,9 @@
         "23"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO%2017664-2"
+      "source_url": "https://www.iso.org/search.html?q=ISO%2017664-2",
+      "abstract": "Specifies validation methods for reprocessing procedures of re-usable medical devices.",
+      "scope": "Processing of health care products -- Information to be provided by the medical device manufacturer for the processing of medical devices -- Non-critical medical devices."
     }
   ]
 }

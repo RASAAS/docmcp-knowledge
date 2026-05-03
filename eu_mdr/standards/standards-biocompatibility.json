@@ -14,7 +14,15 @@
       "amendments": [
         "EN ISO 10993-4:2017/A1:2025"
       ],
-      "standard_type": "harmonised"
+      "standard_type": "harmonised",
+      "scope": "Selection of tests for interactions with blood",
+      "applicable_gsprs": [
+        "10",
+        "10.1",
+        "10.4",
+        "10.4.1"
+      ],
+      "abstract": "Describes general requirements for evaluating the interactions of medical devices with blood, including categories of blood-contacting devices."
     },
     {
       "id": "eu_mdr-hs-en-iso-10993-9-2021",
@@ -31,7 +39,14 @@
         "en": "Degradation product identification and quantification",
         "zh": ""
       },
-      "standard_type": "harmonised"
+      "standard_type": "harmonised",
+      "applicable_gsprs": [
+        "10",
+        "10.1",
+        "10.4",
+        "10.4.2"
+      ],
+      "abstract": "Provides a framework for the identification and quantification of potential degradation products from medical devices."
     },
     {
       "id": "eu_mdr-hs-en-iso-10993-10-2023",
@@ -48,7 +63,14 @@
         "en": "Skin sensitization testing",
         "zh": ""
       },
-      "standard_type": "harmonised"
+      "standard_type": "harmonised",
+      "applicable_gsprs": [
+        "10",
+        "10.1",
+        "10.4",
+        "10.4.1"
+      ],
+      "abstract": "Describes procedures for assessing whether medical devices or their constituent materials cause skin sensitization (delayed-type hypersensitivity)."
     },
     {
       "id": "eu_mdr-hs-en-iso-10993-12-2021",
@@ -65,7 +87,9 @@
         "10",
         "10.2"
       ],
-      "standard_type": "harmonised"
+      "standard_type": "harmonised",
+      "scope": "Sample preparation and reference materials for biological evaluation",
+      "abstract": "Specifies requirements and guidance for the procedures to be followed in the preparation of samples and the selection of reference materials for biological testing."
     },
     {
       "id": "eu_mdr-hs-en-iso-10993-15-2023",
@@ -78,7 +102,15 @@
       "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
       "source_verified": "2026-04-09",
       "category": "biocompatibility",
-      "standard_type": "harmonised"
+      "standard_type": "harmonised",
+      "scope": "Identification and quantification of degradation products from metals and alloys",
+      "applicable_gsprs": [
+        "10",
+        "10.1",
+        "10.4",
+        "10.4.2"
+      ],
+      "abstract": "Provides requirements for the design of tests to identify and quantify degradation products from metals and alloys used in medical devices."
     },
     {
       "id": "eu_mdr-hs-en-iso-10993-17-2023",
@@ -105,7 +137,8 @@
         "en": "Toxicological risk assessment of constituents",
         "zh": ""
       },
-      "standard_type": "harmonised"
+      "standard_type": "harmonised",
+      "abstract": "Establishes allowable limits for leachable substances from medical devices. Specifies a systematic approach to the toxicological risk assessment of chemicals."
     },
     {
       "id": "eu_mdr-hs-en-iso-10993-18-2020",
@@ -133,7 +166,8 @@
         "en": "Chemical characterization within risk management",
         "zh": ""
       },
-      "standard_type": "harmonised"
+      "standard_type": "harmonised",
+      "abstract": "Specifies a framework for the identification and, if necessary, quantification of constituents of a medical device, allowing estimation of biological exposure."
     },
     {
       "id": "eu_mdr-hs-en-iso-10993-23-2021",
@@ -150,7 +184,14 @@
         "en": "Irritation testing",
         "zh": ""
       },
-      "standard_type": "harmonised"
+      "standard_type": "harmonised",
+      "applicable_gsprs": [
+        "10",
+        "10.1",
+        "10.4",
+        "10.4.1"
+      ],
+      "abstract": "Specifies tests for irritation of skin and mucous membranes by medical devices and their materials or extracts."
     }
   ]
 }

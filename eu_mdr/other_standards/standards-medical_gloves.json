@@ -13,7 +13,9 @@
         "11"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://standards.cencenelec.eu/dyn/www/f?p=205:110:0::::FSP_PROJECT:EN%20455-1"
+      "source_url": "https://standards.cencenelec.eu/dyn/www/f?p=205:110:0::::FSP_PROJECT:EN%20455-1",
+      "abstract": "Specifies requirements and testing for freedom from holes in medical gloves for single use.",
+      "scope": "Medical gloves for single use -- Requirements and testing for freedom from holes."
     },
     {
       "id": "en-455-3-2015",
@@ -28,7 +30,9 @@
         "11"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://standards.cencenelec.eu/dyn/www/f?p=205:110:0::::FSP_PROJECT:EN%20455-3"
+      "source_url": "https://standards.cencenelec.eu/dyn/www/f?p=205:110:0::::FSP_PROJECT:EN%20455-3",
+      "abstract": "Specifies requirements and testing for biological evaluation of medical gloves for single use.",
+      "scope": "Medical gloves for single use -- Requirements and testing for biological evaluation."
     }
   ]
 }

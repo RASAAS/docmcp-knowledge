@@ -13,7 +13,13 @@
         "en": "Requirements for terminally sterilized device labelling",
         "zh": ""
       },
-      "standard_type": "non_harmonised"
+      "standard_type": "non_harmonised",
+      "applicable_gsprs": [
+        "11",
+        "11.3",
+        "23"
+      ],
+      "abstract": "Specifies requirements for terminally sterilized medical devices to be labelled 'STERILE'. Establishes a maximum theoretical probability of a non-sterile unit."
     },
     {
       "id": "iso-11737-1-2018",
@@ -28,7 +34,12 @@
         "en": "Bioburden testing methods",
         "zh": ""
       },
-      "standard_type": "non_harmonised"
+      "standard_type": "non_harmonised",
+      "applicable_gsprs": [
+        "11",
+        "11.3"
+      ],
+      "abstract": "Specifies requirements for determining the population of viable microorganisms on or in a medical device, component, raw material or package."
     },
     {
       "id": "iso-11135-2014",
@@ -43,7 +54,13 @@
         "en": "EO sterilization validation",
         "zh": ""
       },
-      "standard_type": "non_harmonised"
+      "standard_type": "non_harmonised",
+      "applicable_gsprs": [
+        "11",
+        "11.5",
+        "11.6"
+      ],
+      "abstract": "Specifies requirements for the development, validation and routine control of an ethylene oxide sterilization process for medical devices."
     },
     {
       "id": "iso-11138-1-2017",
@@ -57,7 +74,9 @@
         "11"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO%2011138-1"
+      "source_url": "https://www.iso.org/search.html?q=ISO%2011138-1",
+      "abstract": "Specifies general requirements and test methods for biological indicators used in sterilization validation.",
+      "scope": "Sterilization of health care products -- Biological indicators -- General requirements."
     },
     {
       "id": "iso-11138-2-2017",
@@ -71,7 +90,9 @@
         "11"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO%2011138-2"
+      "source_url": "https://www.iso.org/search.html?q=ISO%2011138-2",
+      "abstract": "Specifies requirements for biological indicators intended to assess the performance of ethylene oxide sterilization processes.",
+      "scope": "Sterilization of health care products -- Biological indicators -- Biological indicators for ethylene oxide sterilization processes."
     },
     {
       "id": "iso-11139-2018",
@@ -85,7 +106,9 @@
         "11"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO%2011139"
+      "source_url": "https://www.iso.org/search.html?q=ISO%2011139",
+      "abstract": "Defines vocabulary and terms used in sterilization and related procedures for healthcare products.",
+      "scope": "Sterilization of health care products -- Vocabulary of terms used in sterilization and related equipment and process standards."
     },
     {
       "id": "en-iso-17665-1-2006",
@@ -102,7 +125,9 @@
         "11.6"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=EN%20ISO%2017665-1"
+      "source_url": "https://www.iso.org/search.html?q=EN%20ISO%2017665-1",
+      "abstract": "Specifies requirements for the development, validation and routine control of moist heat sterilization processes.",
+      "scope": "Sterilization of health care products -- Moist heat -- Requirements for the development, validation and routine control of a sterilization process for medical devices (European adopted version)."
     }
   ]
 }

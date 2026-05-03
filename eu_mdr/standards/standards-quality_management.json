@@ -43,7 +43,8 @@
         "en": "Quality management system requirements for the design and manufacture of medical devices",
         "zh": ""
       },
-      "standard_type": "harmonised"
+      "standard_type": "harmonised",
+      "abstract": "Specifies requirements for a quality management system for organizations involved in the life cycle of medical devices."
     }
   ]
 }

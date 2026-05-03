@@ -14,7 +14,9 @@
         "22"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-1-11"
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-1-11",
+      "abstract": "Specifies requirements for medical electrical equipment and systems used in the home healthcare environment.",
+      "scope": "General requirements for basic safety and essential performance -- Collateral standard: Requirements for medical electrical equipment and medical electrical systems used in the home healthcare environment."
     }
   ]
 }

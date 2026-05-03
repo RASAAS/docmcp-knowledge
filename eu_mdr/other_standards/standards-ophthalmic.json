@@ -14,7 +14,9 @@
         "15"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO%2011979-1"
+      "source_url": "https://www.iso.org/search.html?q=ISO%2011979-1",
+      "abstract": "Specifies vocabulary, optical properties and test methods for intraocular lenses.",
+      "scope": "Ophthalmic implants -- Intraocular lenses -- Vocabulary and fundamental requirements."
     }
   ]
 }

@@ -10,7 +10,14 @@
       "status": "active",
       "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2026/760/oj",
       "harmonized": true,
-      "standard_type": "harmonised"
+      "standard_type": "harmonised",
+      "scope": "Measurement of hearing aid performance characteristics",
+      "applicable_gsprs": [
+        "14",
+        "14.1",
+        "14.2"
+      ],
+      "abstract": "Specifies methods for measuring the electroacoustical characteristics of hearing aids for the purpose of quality assurance in production."
     },
     {
       "id": "en-455-1-2020-a2-2024",
@@ -22,7 +29,15 @@
       "status": "active",
       "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
       "harmonized": true,
-      "standard_type": "harmonised"
+      "standard_type": "harmonised",
+      "scope": "Medical gloves for single use - Requirements for freedom of holes",
+      "applicable_gsprs": [
+        "10",
+        "10.1",
+        "10.4",
+        "11"
+      ],
+      "abstract": "Specifies requirements and test methods for freedom from holes in medical gloves for single use."
     },
     {
       "id": "en-455-2-2024",
@@ -34,7 +49,14 @@
       "status": "active",
       "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
       "harmonized": true,
-      "standard_type": "harmonised"
+      "standard_type": "harmonised",
+      "scope": "Medical gloves for single use - Requirements for physical properties",
+      "applicable_gsprs": [
+        "10",
+        "10.1",
+        "10.3"
+      ],
+      "abstract": "Specifies requirements and test methods for physical properties (dimensions, tensile strength, freedom from pinholes) of medical gloves for single use."
     },
     {
       "id": "en-455-3-2023",
@@ -46,7 +68,15 @@
       "status": "active",
       "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
       "harmonized": true,
-      "standard_type": "harmonised"
+      "standard_type": "harmonised",
+      "scope": "Medical gloves for single use - Requirements for biological evaluation",
+      "applicable_gsprs": [
+        "10",
+        "10.1",
+        "10.4",
+        "10.4.1"
+      ],
+      "abstract": "Specifies requirements and test methods for the biological evaluation of medical gloves for single use, including accelerated ageing and biocompatibility."
     },
     {
       "id": "en-1865-2-2024",
@@ -58,7 +88,16 @@
       "status": "active",
       "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
       "harmonized": true,
-      "standard_type": "harmonised"
+      "standard_type": "harmonised",
+      "scope": "Patient handling equipment in ambulances - Power assisted stretchers",
+      "applicable_gsprs": [
+        "1",
+        "3",
+        "9",
+        "14",
+        "14.1"
+      ],
+      "abstract": "Specifies requirements and test methods for power-assisted stretchers used for patient handling in road ambulances."
     },
     {
       "id": "en-1865-6-2024",
@@ -70,7 +109,16 @@
       "status": "active",
       "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
       "harmonized": true,
-      "standard_type": "harmonised"
+      "standard_type": "harmonised",
+      "scope": "Patient handling equipment in ambulances - Powered chairs",
+      "applicable_gsprs": [
+        "1",
+        "3",
+        "9",
+        "14",
+        "14.1"
+      ],
+      "abstract": "Specifies requirements and test methods for powered patient chairs used for patient handling in road ambulances."
     },
     {
       "id": "en-iso-17664-2-2023",
@@ -82,7 +130,14 @@
       "status": "active",
       "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
       "harmonized": true,
-      "standard_type": "harmonised"
+      "standard_type": "harmonised",
+      "scope": "Information for reprocessing of re-usable medical devices by users - Validation methods",
+      "applicable_gsprs": [
+        "11",
+        "11.2",
+        "23"
+      ],
+      "abstract": "Specifies validation methods and guidance for reprocessing instructions provided by medical device manufacturers for re-usable devices."
     },
     {
       "id": "en-13060-2025",
@@ -94,7 +149,14 @@
       "status": "active",
       "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2026/760/oj",
       "harmonized": true,
-      "standard_type": "harmonised"
+      "standard_type": "harmonised",
+      "scope": "Small steam sterilizers - Requirements and testing",
+      "applicable_gsprs": [
+        "11",
+        "11.5",
+        "11.6"
+      ],
+      "abstract": "Specifies performance requirements and test methods for small steam sterilizers and sterilization cycles used in healthcare facilities."
     },
     {
       "id": "en-iso-13408-1-2024",
@@ -106,7 +168,14 @@
       "status": "active",
       "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
       "harmonized": true,
-      "standard_type": "harmonised"
+      "standard_type": "harmonised",
+      "scope": "Aseptic processing of health care products - General requirements",
+      "applicable_gsprs": [
+        "11",
+        "11.5",
+        "11.6"
+      ],
+      "abstract": "Specifies general requirements for processes, programmes and procedures for the development, validation and routine control of aseptic processing."
     },
     {
       "id": "en-iso-13408-6-2021",
@@ -118,7 +187,14 @@
       "status": "active",
       "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
       "harmonized": true,
-      "standard_type": "harmonised"
+      "standard_type": "harmonised",
+      "scope": "Aseptic processing of health care products - Isolator systems",
+      "applicable_gsprs": [
+        "11",
+        "11.5",
+        "11.6"
+      ],
+      "abstract": "Specifies particular requirements for isolator systems used for aseptic processing of health care products."
     },
     {
       "id": "en-iso-14160-2021",
@@ -130,7 +206,15 @@
       "status": "active",
       "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
       "harmonized": true,
-      "standard_type": "harmonised"
+      "standard_type": "harmonised",
+      "scope": "Liquid chemical sterilizing agents for single-use medical devices utilizing animal tissues",
+      "applicable_gsprs": [
+        "11",
+        "11.5",
+        "11.6",
+        "13"
+      ],
+      "abstract": "Specifies requirements for the development, validation and routine control of a liquid chemical sterilization process for single-use medical devices."
     },
     {
       "id": "en-14180-2025",
@@ -142,7 +226,14 @@
       "status": "active",
       "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
       "harmonized": true,
-      "standard_type": "harmonised"
+      "standard_type": "harmonised",
+      "scope": "Low temperature steam and formaldehyde sterilizers - Requirements and testing",
+      "applicable_gsprs": [
+        "11",
+        "11.5",
+        "11.6"
+      ],
+      "abstract": "Specifies requirements and test methods for low temperature steam and formaldehyde (LTSF) sterilizers."
     },
     {
       "id": "en-14222-2021-a1-2025",
@@ -154,7 +245,13 @@
       "status": "active",
       "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2026/760/oj",
       "harmonized": true,
-      "standard_type": "harmonised"
+      "standard_type": "harmonised",
+      "scope": "Stainless steel steam boilers for sterilization",
+      "applicable_gsprs": [
+        "11",
+        "11.5"
+      ],
+      "abstract": "Specifies requirements for stainless steel pressurised steam boilers used in sterilization equipment in healthcare facilities."
     },
     {
       "id": "en-iso-17665-2024",
@@ -166,7 +263,14 @@
       "status": "active",
       "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
       "harmonized": true,
-      "standard_type": "harmonised"
+      "standard_type": "harmonised",
+      "scope": "Moist heat sterilization process development, validation and routine control",
+      "applicable_gsprs": [
+        "11",
+        "11.5",
+        "11.6"
+      ],
+      "abstract": "Specifies requirements for the development, validation and routine control of moist heat sterilization processes for medical devices."
     },
     {
       "id": "en-iso-25424-2019",
@@ -185,7 +289,9 @@
         "11.5"
       ],
       "harmonized": true,
-      "standard_type": "harmonised"
+      "standard_type": "harmonised",
+      "scope": "Low temperature steam and formaldehyde sterilization - Process requirements",
+      "abstract": "Specifies requirements for the development, validation and routine control of a low temperature steam and formaldehyde (LTSF) sterilization process."
     },
     {
       "id": "en-285-2015-a1-2021",
@@ -197,7 +303,14 @@
       "status": "active",
       "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
       "harmonized": true,
-      "standard_type": "harmonised"
+      "standard_type": "harmonised",
+      "scope": "Large steam sterilizers - Design, construction, performance and safety",
+      "applicable_gsprs": [
+        "11",
+        "11.5",
+        "11.6"
+      ],
+      "abstract": "Specifies requirements and tests for large steam sterilizers used primarily in healthcare facilities."
     },
     {
       "id": "en-556-1-2024",
@@ -209,7 +322,14 @@
       "status": "active",
       "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
       "harmonized": true,
-      "standard_type": "harmonised"
+      "standard_type": "harmonised",
+      "scope": "Requirements for terminally sterilized medical devices to be designated sterile",
+      "applicable_gsprs": [
+        "11",
+        "11.3",
+        "23"
+      ],
+      "abstract": "Specifies requirements for terminally sterilized medical devices to be designated 'STERILE', based on a defined maximum theoretical probability of a non-sterile item."
     },
     {
       "id": "en-556-2-2024",
@@ -221,7 +341,14 @@
       "status": "active",
       "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
       "harmonized": true,
-      "standard_type": "harmonised"
+      "standard_type": "harmonised",
+      "scope": "Requirements for aseptically processed medical devices to be designated sterile",
+      "applicable_gsprs": [
+        "11",
+        "11.3",
+        "23"
+      ],
+      "abstract": "Specifies requirements for aseptically processed medical devices to be designated 'STERILE'."
     },
     {
       "id": "en-iso-7197-2024",
@@ -233,7 +360,16 @@
       "status": "active",
       "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
       "harmonized": true,
-      "standard_type": "harmonised"
+      "standard_type": "harmonised",
+      "scope": "Sterile, single-use hydrocephalus shunts and components",
+      "applicable_gsprs": [
+        "10",
+        "10.1",
+        "10.3",
+        "11",
+        "19"
+      ],
+      "abstract": "Specifies requirements for implantable cerebrospinal fluid shunt assemblies and components used for the treatment of hydrocephalus."
     },
     {
       "id": "en-iso-14630-2024",
@@ -248,7 +384,9 @@
         "19"
       ],
       "harmonized": true,
-      "standard_type": "harmonised"
+      "standard_type": "harmonised",
+      "scope": "Non-active surgical implants - General requirements",
+      "abstract": "Specifies general requirements for non-active surgical implants, including intended performance, design attributes, materials, and packaging."
     },
     {
       "id": "en-iso-21535-2024",
@@ -260,7 +398,16 @@
       "status": "active",
       "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
       "harmonized": true,
-      "standard_type": "harmonised"
+      "standard_type": "harmonised",
+      "scope": "Joint replacement implants - Specific requirements for hip joint",
+      "applicable_gsprs": [
+        "10",
+        "10.1",
+        "10.3",
+        "11",
+        "19"
+      ],
+      "abstract": "Specifies particular requirements for total and partial hip joint replacement implants."
     },
     {
       "id": "en-iso-21536-2024",
@@ -272,7 +419,16 @@
       "status": "active",
       "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
       "harmonized": true,
-      "standard_type": "harmonised"
+      "standard_type": "harmonised",
+      "scope": "Joint replacement implants - Specific requirements for knee joint",
+      "applicable_gsprs": [
+        "10",
+        "10.1",
+        "10.3",
+        "11",
+        "19"
+      ],
+      "abstract": "Specifies particular requirements for total and partial knee joint replacement implants."
     },
     {
       "id": "en-13795-1-2025",
@@ -284,7 +440,16 @@
       "status": "active",
       "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
       "harmonized": true,
-      "standard_type": "harmonised"
+      "standard_type": "harmonised",
+      "scope": "Surgical clothing and drapes - Requirements for surgical drapes and gowns",
+      "applicable_gsprs": [
+        "10",
+        "10.1",
+        "10.4",
+        "11",
+        "11.1"
+      ],
+      "abstract": "Specifies requirements and test methods for single-use and reusable surgical drapes and gowns to help prevent contamination transfer."
     },
     {
       "id": "en-13795-2-2025",
@@ -296,7 +461,16 @@
       "status": "active",
       "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
       "harmonized": true,
-      "standard_type": "harmonised"
+      "standard_type": "harmonised",
+      "scope": "Surgical clothing and drapes - Requirements for clean air suits",
+      "applicable_gsprs": [
+        "10",
+        "10.1",
+        "10.4",
+        "11",
+        "11.1"
+      ],
+      "abstract": "Specifies requirements and test methods for clean air suits used during surgical procedures."
     },
     {
       "id": "en-14683-2025",
@@ -308,7 +482,15 @@
       "status": "active",
       "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
       "harmonized": true,
-      "standard_type": "harmonised"
+      "standard_type": "harmonised",
+      "scope": "Medical face masks - Requirements and test methods",
+      "applicable_gsprs": [
+        "10",
+        "10.1",
+        "10.4",
+        "11"
+      ],
+      "abstract": "Specifies construction, design and performance requirements and test methods for medical face masks."
     }
   ]
 }

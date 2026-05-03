@@ -63,7 +63,8 @@
         "en": "Risk management process for medical devices throughout the product lifecycle",
         "zh": ""
       },
-      "standard_type": "harmonised"
+      "standard_type": "harmonised",
+      "abstract": "Specifies terminology, principles and a process for risk management of medical devices, including in vitro diagnostic devices."
     }
   ]
 }

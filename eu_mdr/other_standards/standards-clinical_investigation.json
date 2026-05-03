@@ -13,7 +13,11 @@
         "en": "Clinical investigation requirements",
         "zh": ""
       },
-      "standard_type": "non_harmonised"
+      "standard_type": "non_harmonised",
+      "applicable_gsprs": [
+        "7"
+      ],
+      "abstract": "Addresses good clinical practice for clinical investigations of medical devices in human subjects. Specifies general requirements for protecting the rights, safety and well-being of subjects."
     },
     {
       "id": "iso-14155-2020-amd1-2024",
@@ -29,7 +33,9 @@
         "8"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO%2014155"
+      "source_url": "https://www.iso.org/search.html?q=ISO%2014155",
+      "abstract": "Addresses good clinical practice for clinical investigations of medical devices in human subjects.",
+      "scope": "Clinical investigation of medical devices for human subjects -- Good clinical practice."
     },
     {
       "id": "iso-20916-2019",
@@ -45,7 +51,9 @@
         "8"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO%2020916"
+      "source_url": "https://www.iso.org/search.html?q=ISO%2020916",
+      "abstract": "Specifies requirements for clinical performance studies of in vitro diagnostic medical devices using specimens from human subjects.",
+      "scope": "In vitro diagnostic medical devices -- Clinical performance studies using specimens from human subjects -- Good study practice."
     }
   ]
 }

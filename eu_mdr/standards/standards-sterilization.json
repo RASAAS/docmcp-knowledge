@@ -25,7 +25,8 @@
         "en": "EO sterilization process development, validation and routine control",
         "zh": ""
       },
-      "standard_type": "harmonised"
+      "standard_type": "harmonised",
+      "abstract": "Specifies requirements for the development, validation and routine control of an ethylene oxide (EO) sterilization process for medical devices."
     },
     {
       "id": "eu_mdr-hs-en-iso-11137-1-2015",
@@ -50,7 +51,8 @@
         "en": "Radiation sterilization process requirements",
         "zh": ""
       },
-      "standard_type": "harmonised"
+      "standard_type": "harmonised",
+      "abstract": "Specifies requirements for the development, validation and routine control of a radiation sterilization process for medical devices."
     },
     {
       "id": "eu_mdr-hs-en-iso-11137-2-2015",
@@ -73,7 +75,8 @@
         "en": "Establishing radiation sterilization dose",
         "zh": ""
       },
-      "standard_type": "harmonised"
+      "standard_type": "harmonised",
+      "abstract": "Specifies methods of determining the minimum dose required to achieve a specified sterilization dose using radiation."
     },
     {
       "id": "eu_mdr-hs-en-iso-11607-1-2020",
@@ -101,7 +104,8 @@
         "en": "Sterile packaging system material and design requirements",
         "zh": ""
       },
-      "standard_type": "harmonised"
+      "standard_type": "harmonised",
+      "abstract": "Specifies requirements for materials, sterile barrier systems and packaging systems used in terminally sterilized medical devices."
     },
     {
       "id": "eu_mdr-hs-en-iso-11607-2-2020",
@@ -126,7 +130,8 @@
         "en": "Sterile packaging process validation",
         "zh": ""
       },
-      "standard_type": "harmonised"
+      "standard_type": "harmonised",
+      "abstract": "Specifies requirements for validation of forming, sealing and assembly processes used to manufacture packaging for terminally sterilized medical devices."
     },
     {
       "id": "eu_mdr-hs-en-iso-11737-1-2018",
@@ -150,7 +155,8 @@
         "en": "Bioburden determination methods for sterilization validation",
         "zh": ""
       },
-      "standard_type": "harmonised"
+      "standard_type": "harmonised",
+      "abstract": "Specifies requirements and methods for determining the population of viable microorganisms on or in a medical device, component, raw material or package."
     },
     {
       "id": "eu_mdr-hs-en-iso-11737-2-2020",
@@ -171,7 +177,8 @@
         "en": "Sterility testing for sterilization process validation",
         "zh": ""
       },
-      "standard_type": "harmonised"
+      "standard_type": "harmonised",
+      "abstract": "Specifies methods for testing the sterility of medical devices that have been exposed to a defined sterilization process."
     }
   ]
 }

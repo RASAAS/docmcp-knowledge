@@ -11,7 +11,15 @@
       "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
       "source_verified": "2026-04-09",
       "category": "breathing_gas_pathways",
-      "standard_type": "harmonised"
+      "standard_type": "harmonised",
+      "scope": "Biocompatibility evaluation of breathing gas pathways - General requirements",
+      "applicable_gsprs": [
+        "10",
+        "10.1",
+        "10.4",
+        "11"
+      ],
+      "abstract": "Specifies the general requirements for assessing the biocompatibility of the materials used in breathing gas pathways."
     },
     {
       "id": "eu_mdr-hs-en-iso-18562-2-2024",
@@ -24,7 +32,14 @@
       "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
       "source_verified": "2026-04-09",
       "category": "breathing_gas_pathways",
-      "standard_type": "harmonised"
+      "standard_type": "harmonised",
+      "scope": "Biocompatibility evaluation of breathing gas pathways - Particulate matter emissions",
+      "applicable_gsprs": [
+        "10",
+        "10.1",
+        "10.4"
+      ],
+      "abstract": "Specifies tests for particulate matter emissions in breathing gas pathways of medical devices to assess biocompatibility."
     },
     {
       "id": "eu_mdr-hs-en-iso-18562-3-2024",
@@ -37,7 +52,15 @@
       "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
       "source_verified": "2026-04-09",
       "category": "breathing_gas_pathways",
-      "standard_type": "harmonised"
+      "standard_type": "harmonised",
+      "scope": "Biocompatibility evaluation of breathing gas pathways - Volatile organic compound emissions",
+      "applicable_gsprs": [
+        "10",
+        "10.1",
+        "10.4",
+        "10.4.2"
+      ],
+      "abstract": "Specifies tests for emissions of volatile organic compounds (VOCs) in breathing gas pathways of medical devices."
     },
     {
       "id": "eu_mdr-hs-en-iso-18562-4-2024",
@@ -50,7 +73,15 @@
       "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
       "source_verified": "2026-04-09",
       "category": "breathing_gas_pathways",
-      "standard_type": "harmonised"
+      "standard_type": "harmonised",
+      "scope": "Biocompatibility evaluation of breathing gas pathways - Leachables in condensate",
+      "applicable_gsprs": [
+        "10",
+        "10.1",
+        "10.4",
+        "10.4.2"
+      ],
+      "abstract": "Specifies tests for leachables in condensate from breathing gas pathways of medical devices."
     }
   ]
 }

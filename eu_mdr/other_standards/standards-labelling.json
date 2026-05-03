@@ -31,7 +31,8 @@
         "en": "Labeling and instructions for use requirements",
         "zh": ""
       },
-      "standard_type": "non_harmonised"
+      "standard_type": "non_harmonised",
+      "abstract": "Specifies requirements for information to be supplied by the manufacturer with or on the medical device, or accompanying the device."
     }
   ]
 }

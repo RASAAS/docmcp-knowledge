@@ -11,7 +11,15 @@
       "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
       "source_verified": "2026-04-09",
       "category": "connectors",
-      "standard_type": "harmonised"
+      "standard_type": "harmonised",
+      "scope": "Small-bore connectors for liquids and gases - Particular requirements for enteral applications",
+      "applicable_gsprs": [
+        "10",
+        "10.3",
+        "14",
+        "14.2"
+      ],
+      "abstract": "Specifies dimensions and requirements for small-bore connectors intended to be used for enteral applications to prevent misconnections."
     }
   ]
 }

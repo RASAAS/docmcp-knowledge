@@ -17,7 +17,8 @@
         "en": "General requirements for active implantable medical devices",
         "zh": ""
       },
-      "standard_type": "non_harmonised"
+      "standard_type": "non_harmonised",
+      "abstract": "Specifies requirements for the safety, marking and information to be supplied with active implantable medical devices."
     },
     {
       "id": "en-45502-2-1-2003-a1-2020",
@@ -33,7 +34,9 @@
         "19"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://standards.cencenelec.eu/dyn/www/f?p=205:110:0::::FSP_PROJECT:EN%2045502-2-1"
+      "source_url": "https://standards.cencenelec.eu/dyn/www/f?p=205:110:0::::FSP_PROJECT:EN%2045502-2-1",
+      "abstract": "Specifies particular requirements for active implantable medical devices intended to treat bradyarrhythmia (cardiac pacemakers).",
+      "scope": "Active implantable medical devices -- Particular requirements for active implantable medical devices intended to treat bradyarrhythmia (cardiac pacemakers)."
     },
     {
       "id": "en-45502-2-2-2008-a1-2020",
@@ -49,7 +52,9 @@
         "19"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://standards.cencenelec.eu/dyn/www/f?p=205:110:0::::FSP_PROJECT:EN%2045502-2-2"
+      "source_url": "https://standards.cencenelec.eu/dyn/www/f?p=205:110:0::::FSP_PROJECT:EN%2045502-2-2",
+      "abstract": "Specifies particular requirements for active implantable medical devices intended to treat tachyarrhythmia (implantable cardioverter defibrillators).",
+      "scope": "Active implantable medical devices -- Particular requirements for active implantable medical devices intended to treat tachyarrhythmia (includes implantable defibrillators)."
     }
   ]
 }

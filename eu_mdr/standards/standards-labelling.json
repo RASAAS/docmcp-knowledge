@@ -32,7 +32,8 @@
         "en": "Standardized symbols for medical device labeling",
         "zh": ""
       },
-      "standard_type": "harmonised"
+      "standard_type": "harmonised",
+      "abstract": "Identifies symbols used to convey information for the safe and effective use of medical devices. Provides requirements for symbols used in medical device labelling."
     },
     {
       "id": "en-iso-17664-1-2021",
@@ -53,7 +54,8 @@
         "zh": ""
       },
       "harmonized": true,
-      "standard_type": "harmonised"
+      "standard_type": "harmonised",
+      "abstract": "Specifies requirements for information to be provided by medical device manufacturers for the reprocessing of re-usable devices."
     }
   ]
 }

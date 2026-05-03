@@ -13,7 +13,18 @@
         "en": "Quality management system requirements",
         "zh": ""
       },
-      "standard_type": "non_harmonised"
+      "standard_type": "non_harmonised",
+      "applicable_gsprs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "abstract": "Specifies requirements for a quality management system where an organization needs to demonstrate its ability to provide medical devices that consistently meet applicable regulatory requirements."
     }
   ]
 }

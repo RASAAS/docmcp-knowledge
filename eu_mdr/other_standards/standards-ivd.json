@@ -13,7 +13,12 @@
         "zh": ""
       },
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO%2015197"
+      "source_url": "https://www.iso.org/search.html?q=ISO%2015197",
+      "applicable_gsprs": [
+        "14",
+        "14.1"
+      ],
+      "abstract": "Specifies requirements for in vitro glucose monitoring systems that measure glucose concentrations in capillary blood samples."
     },
     {
       "id": "iso-18113-1-2022",
@@ -28,7 +33,12 @@
         "zh": ""
       },
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO%2018113-1"
+      "source_url": "https://www.iso.org/search.html?q=ISO%2018113-1",
+      "applicable_gsprs": [
+        "23",
+        "23.1"
+      ],
+      "abstract": "Specifies requirements for information supplied by the manufacturer of in vitro diagnostic medical devices, including reagents, instruments and specimen receptacles."
     },
     {
       "id": "iso-15197-2013-amd1-2024",
@@ -43,7 +53,9 @@
         "22"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO%2015197"
+      "source_url": "https://www.iso.org/search.html?q=ISO%2015197",
+      "abstract": "Specifies requirements and test methods for blood-glucose monitoring systems for self-testing.",
+      "scope": "In vitro diagnostic medical devices -- Requirements for blood-glucose monitoring systems for self-testing in managing diabetes mellitus."
     },
     {
       "id": "en-iso-15189-2022",
@@ -58,7 +70,9 @@
         "15.1"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=EN%20ISO%2015189"
+      "source_url": "https://www.iso.org/search.html?q=EN%20ISO%2015189",
+      "abstract": "Specifies requirements for quality and competence in medical laboratories, including pre-examination, examination and post-examination processes.",
+      "scope": "Medical laboratories -- Requirements for quality and competence (European adopted version)."
     }
   ]
 }
