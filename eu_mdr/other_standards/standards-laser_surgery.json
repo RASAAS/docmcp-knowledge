@@ -1,0 +1,23 @@
+{
+  "standards": [
+    {
+      "id": "eu_mdr-os-iec-60601-2-22-2019",
+      "number": "IEC 60601-2-22:2019",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-22: Particular requirements for the basic safety and essential performance of surgical, cosmetic, therapeutic and diagnostic laser equipment",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-22",
+      "source_verified": "",
+      "category": "laser_surgery",
+      "standard_type": "non_harmonised",
+      "scope": "Surgical, cosmetic, therapeutic and diagnostic laser equipment.",
+      "applicable_gsprs": [
+        "14",
+        "16"
+      ],
+      "abstract": "Particular requirements for laser medical equipment."
+    }
+  ]
+}

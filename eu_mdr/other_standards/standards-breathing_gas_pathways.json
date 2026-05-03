@@ -51,6 +51,139 @@
       "source_url": "https://www.iso.org/search.html?q=ISO%2080601-2-70",
       "abstract": "Specifies particular requirements for basic safety and essential performance of sleep apnoea breathing therapy equipment.",
       "scope": "Medical electrical equipment -- Particular requirements for the basic safety and essential performance of sleep apnoea breathing therapy equipment."
+    },
+    {
+      "id": "eu_mdr-os-iec-60601-2-12-2023",
+      "number": "IEC 60601-2-12:2023",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-12: Particular requirements for the basic safety and essential performance of critical care ventilators",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-12",
+      "source_verified": "",
+      "category": "breathing_gas_pathways",
+      "standard_type": "non_harmonised",
+      "scope": "Critical care ventilators.",
+      "applicable_gsprs": [
+        "14",
+        "14.2"
+      ],
+      "abstract": "Particular requirements for critical care ventilators."
+    },
+    {
+      "id": "eu_mdr-os-iec-60601-2-84-2020",
+      "number": "IEC 60601-2-84:2020",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-84: Particular requirements for the basic safety and essential performance of emergency and transport ventilators",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-84",
+      "source_verified": "",
+      "category": "breathing_gas_pathways",
+      "standard_type": "non_harmonised",
+      "scope": "Emergency and transport ventilators.",
+      "applicable_gsprs": [
+        "14",
+        "14.2"
+      ],
+      "abstract": "Particular requirements for emergency and transport ventilators."
+    },
+    {
+      "id": "eu_mdr-os-iec-60601-2-87-2024",
+      "number": "IEC 60601-2-87:2024",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-87: Particular requirements for the basic safety and essential performance of high-frequency ventilators",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-87",
+      "source_verified": "",
+      "category": "breathing_gas_pathways",
+      "standard_type": "non_harmonised",
+      "scope": "High-frequency ventilators.",
+      "applicable_gsprs": [
+        "14",
+        "14.2"
+      ],
+      "abstract": "Particular requirements for high-frequency ventilators."
+    },
+    {
+      "id": "eu_mdr-os-iso-80601-2-67-2020",
+      "number": "ISO 80601-2-67:2020",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-67: Particular requirements for the basic safety and essential performance of oxygen-conserving equipment",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://www.iso.org/standard/72441.html",
+      "source_verified": "",
+      "category": "breathing_gas_pathways",
+      "standard_type": "non_harmonised",
+      "scope": "Oxygen-conserving devices.",
+      "applicable_gsprs": [
+        "14",
+        "18"
+      ],
+      "abstract": "Requirements for oxygen-conserving equipment."
+    },
+    {
+      "id": "eu_mdr-os-iso-80601-2-69-2020",
+      "number": "ISO 80601-2-69:2020",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-69: Particular requirements for the basic safety and essential performance of oxygen concentrator equipment",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://www.iso.org/standard/72441.html",
+      "source_verified": "",
+      "category": "breathing_gas_pathways",
+      "standard_type": "non_harmonised",
+      "scope": "Oxygen concentrators safety and performance.",
+      "applicable_gsprs": [
+        "14",
+        "18"
+      ],
+      "abstract": "Requirements for oxygen concentrator equipment."
+    },
+    {
+      "id": "eu_mdr-os-iso-80601-2-79-2018",
+      "number": "ISO 80601-2-79:2018",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-79: Particular requirements for the basic safety and essential performance of ventilatory support equipment for ventilatory impairment",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://www.iso.org/standard/68069.html",
+      "source_verified": "",
+      "category": "breathing_gas_pathways",
+      "standard_type": "non_harmonised",
+      "scope": "Home care ventilatory support equipment.",
+      "applicable_gsprs": [
+        "14",
+        "18"
+      ],
+      "abstract": "Requirements for ventilatory support equipment."
+    },
+    {
+      "id": "eu_mdr-os-iso-80601-2-84-2020",
+      "number": "ISO 80601-2-84:2020",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-84: Particular requirements for the basic safety and essential performance of ventilators for the emergency medical services environment",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://www.iso.org/standard/68069.html",
+      "source_verified": "",
+      "category": "breathing_gas_pathways",
+      "standard_type": "non_harmonised",
+      "scope": "EMS ventilators safety and performance.",
+      "applicable_gsprs": [
+        "14",
+        "18"
+      ],
+      "abstract": "Requirements for emergency medical services ventilators."
     }
   ]
 }

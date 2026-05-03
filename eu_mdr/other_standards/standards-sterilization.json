@@ -128,6 +128,82 @@
       "source_url": "https://www.iso.org/search.html?q=EN%20ISO%2017665-1",
       "abstract": "Specifies requirements for the development, validation and routine control of moist heat sterilization processes.",
       "scope": "Sterilization of health care products -- Moist heat -- Requirements for the development, validation and routine control of a sterilization process for medical devices (European adopted version)."
+    },
+    {
+      "id": "eu_mdr-os-iso-11135-2014+amd1-2019",
+      "number": "ISO 11135:2014+AMD1:2019",
+      "title": {
+        "en": "Sterilization of health-care products - Ethylene oxide - Requirements for the development, validation and routine control of a sterilization process for medical devices",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://www.iso.org/standard/56137.html",
+      "source_verified": "",
+      "category": "sterilization",
+      "standard_type": "non_harmonised",
+      "scope": "Ethylene oxide sterilization of medical devices.",
+      "applicable_gsprs": [
+        "11",
+        "11.1"
+      ],
+      "abstract": "Requirements for EO sterilization process development, validation and routine control."
+    },
+    {
+      "id": "eu_mdr-os-iso-11137-1-2006+amd2-2019",
+      "number": "ISO 11137-1:2006+AMD2:2019",
+      "title": {
+        "en": "Sterilization of health care products - Radiation - Part 1: Requirements for development, validation and routine control of a sterilization process for medical devices",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://www.iso.org/standard/33952.html",
+      "source_verified": "",
+      "category": "sterilization",
+      "standard_type": "non_harmonised",
+      "scope": "Radiation sterilization of medical devices.",
+      "applicable_gsprs": [
+        "11",
+        "11.1"
+      ],
+      "abstract": "Requirements for radiation sterilization process."
+    },
+    {
+      "id": "eu_mdr-os-iso-11137-2-2013+amd1-2022",
+      "number": "ISO 11137-2:2013+AMD1:2022",
+      "title": {
+        "en": "Sterilization of health care products - Radiation - Part 2: Establishing the sterilization dose",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://www.iso.org/standard/62442.html",
+      "source_verified": "",
+      "category": "sterilization",
+      "standard_type": "non_harmonised",
+      "scope": "Establishing radiation sterilization dose.",
+      "applicable_gsprs": [
+        "11",
+        "11.1"
+      ],
+      "abstract": "Methods for establishing the sterilization dose for radiation sterilization."
+    },
+    {
+      "id": "eu_mdr-os-iso-17665-1-2006",
+      "number": "ISO 17665-1:2006",
+      "title": {
+        "en": "Sterilization of health care products - Moist heat - Part 1: Requirements for the development, validation and routine control of a sterilization process for medical devices",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://www.iso.org/standard/43187.html",
+      "source_verified": "",
+      "category": "sterilization",
+      "standard_type": "non_harmonised",
+      "scope": "Moist heat sterilization of medical devices.",
+      "applicable_gsprs": [
+        "11",
+        "11.1"
+      ],
+      "abstract": "Requirements for moist heat (steam) sterilization process."
     }
   ]
 }

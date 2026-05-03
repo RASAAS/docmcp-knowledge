@@ -1,0 +1,80 @@
+{
+  "standards": [
+    {
+      "id": "eu_mdr-os-iec-60601-2-26-2019",
+      "number": "IEC 60601-2-26:2019",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-26: Particular requirements for the basic safety and essential performance of electroencephalographs",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-26",
+      "source_verified": "",
+      "category": "neurology",
+      "standard_type": "non_harmonised",
+      "scope": "Electroencephalographs.",
+      "applicable_gsprs": [
+        "14",
+        "14.1"
+      ],
+      "abstract": "Particular requirements for electroencephalographs."
+    },
+    {
+      "id": "eu_mdr-os-iec-60601-2-40-2016",
+      "number": "IEC 60601-2-40:2016",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-40: Particular requirements for the basic safety and essential performance of electromyographs and evoked response equipment",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-40",
+      "source_verified": "",
+      "category": "neurology",
+      "standard_type": "non_harmonised",
+      "scope": "Electromyographs and evoked response equipment.",
+      "applicable_gsprs": [
+        "14",
+        "14.1"
+      ],
+      "abstract": "Particular requirements for electromyographs and evoked response equipment."
+    },
+    {
+      "id": "eu_mdr-os-iec-60601-2-14-2024",
+      "number": "IEC 60601-2-14:2024",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-14: Particular requirements for the basic safety and essential performance of electroconvulsive therapy equipment",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-14",
+      "source_verified": "",
+      "category": "neurology",
+      "standard_type": "non_harmonised",
+      "scope": "Electroconvulsive therapy equipment.",
+      "applicable_gsprs": [
+        "14",
+        "14.1"
+      ],
+      "abstract": "Particular requirements for electroconvulsive therapy equipment."
+    },
+    {
+      "id": "eu_mdr-os-iec-80601-2-71-2015",
+      "number": "IEC 80601-2-71:2015",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-71: Particular requirements for the basic safety and essential performance of functional near-infrared spectroscopy (fNIRS) equipment",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2080601-2-71",
+      "source_verified": "",
+      "category": "neurology",
+      "standard_type": "non_harmonised",
+      "scope": "fNIRS equipment.",
+      "applicable_gsprs": [
+        "14",
+        "14.1"
+      ],
+      "abstract": "Particular requirements for functional near-infrared spectroscopy equipment."
+    }
+  ]
+}

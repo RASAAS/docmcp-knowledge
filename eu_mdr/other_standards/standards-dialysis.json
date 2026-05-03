@@ -1,0 +1,23 @@
+{
+  "standards": [
+    {
+      "id": "eu_mdr-os-iec-60601-2-39-2018",
+      "number": "IEC 60601-2-39:2018",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-39: Particular requirements for the basic safety and essential performance of peritoneal dialysis equipment",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-39",
+      "source_verified": "",
+      "category": "dialysis",
+      "standard_type": "non_harmonised",
+      "scope": "Peritoneal dialysis equipment.",
+      "applicable_gsprs": [
+        "14",
+        "14.2"
+      ],
+      "abstract": "Particular requirements for peritoneal dialysis equipment."
+    }
+  ]
+}

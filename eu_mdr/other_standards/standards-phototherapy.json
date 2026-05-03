@@ -1,0 +1,61 @@
+{
+  "standards": [
+    {
+      "id": "eu_mdr-os-iec-60601-2-57-2011+amd1-2021",
+      "number": "IEC 60601-2-57:2011+AMD1:2021",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-57: Particular requirements for the basic safety and essential performance of non-laser light source equipment intended for therapeutic, diagnostic, monitoring and cosmetic/aesthetic use",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-57",
+      "source_verified": "",
+      "category": "phototherapy",
+      "standard_type": "non_harmonised",
+      "scope": "Non-laser light source equipment for therapeutic/diagnostic use.",
+      "applicable_gsprs": [
+        "14",
+        "16"
+      ],
+      "abstract": "Particular requirements for non-laser light source equipment."
+    },
+    {
+      "id": "eu_mdr-os-iec-60601-2-75-2017",
+      "number": "IEC 60601-2-75:2017",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-75: Particular requirements for the basic safety and essential performance of photodynamic therapy and photodynamic diagnosis equipment",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-75",
+      "source_verified": "",
+      "category": "phototherapy",
+      "standard_type": "non_harmonised",
+      "scope": "Photodynamic therapy and diagnosis equipment.",
+      "applicable_gsprs": [
+        "14",
+        "16"
+      ],
+      "abstract": "Particular requirements for photodynamic therapy equipment."
+    },
+    {
+      "id": "eu_mdr-os-iec-60601-2-83-2019",
+      "number": "IEC 60601-2-83:2019",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-83: Particular requirements for the basic safety and essential performance of home light therapy equipment",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-83",
+      "source_verified": "",
+      "category": "phototherapy",
+      "standard_type": "non_harmonised",
+      "scope": "Home light therapy equipment.",
+      "applicable_gsprs": [
+        "14",
+        "16"
+      ],
+      "abstract": "Particular requirements for home light therapy equipment."
+    }
+  ]
+}

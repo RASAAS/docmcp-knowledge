@@ -1,0 +1,23 @@
+{
+  "standards": [
+    {
+      "id": "eu_mdr-os-iec-60601-2-35-2020",
+      "number": "IEC 60601-2-35:2020",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-35: Particular requirements for the basic safety and essential performance of heating devices using blankets, pads and mattresses and intended for heating in medical use",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-35",
+      "source_verified": "",
+      "category": "patient_warming",
+      "standard_type": "non_harmonised",
+      "scope": "Medical heating blankets, pads and mattresses.",
+      "applicable_gsprs": [
+        "14",
+        "14.6"
+      ],
+      "abstract": "Particular requirements for medical heating devices."
+    }
+  ]
+}

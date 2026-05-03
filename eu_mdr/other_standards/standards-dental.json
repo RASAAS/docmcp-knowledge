@@ -15,6 +15,62 @@
       "source_url": "https://www.iso.org/search.html?q=ISO%207405",
       "abstract": "Specifies test methods for evaluating biocompatibility of medical devices used in dentistry.",
       "scope": "Dentistry -- Evaluation of biocompatibility of medical devices used in dentistry."
+    },
+    {
+      "id": "eu_mdr-os-iec-60601-2-63-2023",
+      "number": "IEC 60601-2-63:2023",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-63: Particular requirements for the basic safety and essential performance of dental extra-oral X-ray equipment",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-63",
+      "source_verified": "",
+      "category": "dental",
+      "standard_type": "non_harmonised",
+      "scope": "Dental extra-oral X-ray equipment.",
+      "applicable_gsprs": [
+        "14",
+        "16"
+      ],
+      "abstract": "Particular requirements for dental extra-oral X-ray equipment."
+    },
+    {
+      "id": "eu_mdr-os-iec-60601-2-65-2012+amd1-2016",
+      "number": "IEC 60601-2-65:2012+AMD1:2016",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-65: Particular requirements for the basic safety and essential performance of dental intra-oral X-ray equipment",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-65",
+      "source_verified": "",
+      "category": "dental",
+      "standard_type": "non_harmonised",
+      "scope": "Dental intra-oral X-ray equipment.",
+      "applicable_gsprs": [
+        "14",
+        "16"
+      ],
+      "abstract": "Particular requirements for dental intra-oral X-ray equipment."
+    },
+    {
+      "id": "eu_mdr-os-iso-1942-2020",
+      "number": "ISO 1942:2020",
+      "title": {
+        "en": "Dentistry - Vocabulary",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://www.iso.org/standard/72249.html",
+      "source_verified": "",
+      "category": "dental",
+      "standard_type": "non_harmonised",
+      "scope": "Dental terminology.",
+      "applicable_gsprs": [
+        "23"
+      ],
+      "abstract": "Vocabulary used in dentistry."
     }
   ]
 }

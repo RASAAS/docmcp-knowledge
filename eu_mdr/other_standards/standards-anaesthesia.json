@@ -1,0 +1,23 @@
+{
+  "standards": [
+    {
+      "id": "eu_mdr-os-iec-60601-2-13-2022",
+      "number": "IEC 60601-2-13:2022",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-13: Particular requirements for the basic safety and essential performance of an anaesthetic workstation",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-13",
+      "source_verified": "",
+      "category": "anaesthesia",
+      "standard_type": "non_harmonised",
+      "scope": "Anaesthetic workstations.",
+      "applicable_gsprs": [
+        "14",
+        "14.2"
+      ],
+      "abstract": "Particular requirements for anaesthetic workstations."
+    }
+  ]
+}

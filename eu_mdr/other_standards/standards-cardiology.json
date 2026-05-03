@@ -1,0 +1,61 @@
+{
+  "standards": [
+    {
+      "id": "eu_mdr-os-iec-60601-2-47-2012+amd1-2019",
+      "number": "IEC 60601-2-47:2012+AMD1:2019",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-47: Particular requirements for the basic safety and essential performance of ambulatory electrocardiographic systems",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-47",
+      "source_verified": "",
+      "category": "cardiology",
+      "standard_type": "non_harmonised",
+      "scope": "Ambulatory electrocardiographic systems.",
+      "applicable_gsprs": [
+        "14",
+        "14.1"
+      ],
+      "abstract": "Particular requirements for ambulatory ECG systems."
+    },
+    {
+      "id": "eu_mdr-os-iec-60601-2-51-2003+amd1-2015",
+      "number": "IEC 60601-2-51:2003+AMD1:2015",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-51: Particular requirements for safety, including essential performance, of recording and analysing single channel and multichannel electrocardiographs",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-51",
+      "source_verified": "",
+      "category": "cardiology",
+      "standard_type": "non_harmonised",
+      "scope": "Recording and analysing electrocardiographs.",
+      "applicable_gsprs": [
+        "14",
+        "14.1"
+      ],
+      "abstract": "Particular requirements for single and multichannel electrocardiographs."
+    },
+    {
+      "id": "eu_mdr-os-iec-60601-2-31-2020",
+      "number": "IEC 60601-2-31:2020",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-31: Particular requirements for the basic safety and essential performance of external cardiac pacemakers with internal power source",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-31",
+      "source_verified": "",
+      "category": "cardiology",
+      "standard_type": "non_harmonised",
+      "scope": "External cardiac pacemakers with internal power source.",
+      "applicable_gsprs": [
+        "14",
+        "14.2"
+      ],
+      "abstract": "Particular requirements for external cardiac pacemakers."
+    }
+  ]
+}

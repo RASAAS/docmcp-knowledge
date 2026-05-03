@@ -69,6 +69,139 @@
       "source_url": "https://webstore.iec.ch/en/search?q=EN%20IEC%2060601-2-1",
       "abstract": "Specifies particular requirements for basic safety and essential performance of electron accelerators for radiotherapy.",
       "scope": "Particular requirements for the basic safety and essential performance of electron accelerators (European adopted version)."
+    },
+    {
+      "id": "eu_mdr-os-iec-60601-2-8-2010+amd1-2014",
+      "number": "IEC 60601-2-8:2010+AMD1:2014",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-8: Particular requirements for the basic safety and essential performance of therapeutic X-ray equipment operating in the range 10 kV to 1 MV",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-8",
+      "source_verified": "",
+      "category": "radiation_protection",
+      "standard_type": "non_harmonised",
+      "scope": "Therapeutic X-ray equipment (10 kV to 1 MV).",
+      "applicable_gsprs": [
+        "14",
+        "16"
+      ],
+      "abstract": "Particular requirements for therapeutic X-ray equipment operating in the range 10 kV to 1 MV."
+    },
+    {
+      "id": "eu_mdr-os-iec-60601-2-11-2013+amd1-2017",
+      "number": "IEC 60601-2-11:2013+AMD1:2017",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-11: Particular requirements for the basic safety and essential performance of gamma beam therapy equipment",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-11",
+      "source_verified": "",
+      "category": "radiation_protection",
+      "standard_type": "non_harmonised",
+      "scope": "Gamma beam therapy equipment.",
+      "applicable_gsprs": [
+        "14",
+        "16"
+      ],
+      "abstract": "Particular requirements for gamma beam therapy equipment."
+    },
+    {
+      "id": "eu_mdr-os-iec-60601-2-17-2013",
+      "number": "IEC 60601-2-17:2013",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-17: Particular requirements for the basic safety and essential performance of automatically-controlled brachytherapy afterloading equipment",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-17",
+      "source_verified": "",
+      "category": "radiation_protection",
+      "standard_type": "non_harmonised",
+      "scope": "Automatically-controlled brachytherapy afterloading equipment.",
+      "applicable_gsprs": [
+        "14",
+        "16"
+      ],
+      "abstract": "Particular requirements for brachytherapy afterloading equipment."
+    },
+    {
+      "id": "eu_mdr-os-iec-60601-2-29-2008+amd1-2015",
+      "number": "IEC 60601-2-29:2008+AMD1:2015",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-29: Particular requirements for the basic safety and essential performance of radiotherapy simulators",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-29",
+      "source_verified": "",
+      "category": "radiation_protection",
+      "standard_type": "non_harmonised",
+      "scope": "Radiotherapy simulators.",
+      "applicable_gsprs": [
+        "14",
+        "16"
+      ],
+      "abstract": "Particular requirements for radiotherapy simulators."
+    },
+    {
+      "id": "eu_mdr-os-iec-60601-2-64-2014+amd1-2017",
+      "number": "IEC 60601-2-64:2014+AMD1:2017",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-64: Particular requirements for the basic safety and essential performance of light ion beam medical electrical equipment",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-64",
+      "source_verified": "",
+      "category": "radiation_protection",
+      "standard_type": "non_harmonised",
+      "scope": "Light ion beam medical electrical equipment.",
+      "applicable_gsprs": [
+        "14",
+        "16"
+      ],
+      "abstract": "Particular requirements for light ion beam therapy equipment."
+    },
+    {
+      "id": "eu_mdr-os-iec-60601-2-68-2014+amd1-2016",
+      "number": "IEC 60601-2-68:2014+AMD1:2016",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-68: Particular requirements for the basic safety and essential performance of X-ray-based image-guided radiotherapy equipment for use with electron accelerators, light ion beam therapy equipment and radionuclide beam therapy equipment",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-68",
+      "source_verified": "",
+      "category": "radiation_protection",
+      "standard_type": "non_harmonised",
+      "scope": "X-ray-based image-guided radiotherapy equipment.",
+      "applicable_gsprs": [
+        "14",
+        "16"
+      ],
+      "abstract": "Particular requirements for image-guided radiotherapy equipment."
+    },
+    {
+      "id": "eu_mdr-os-iec-60601-2-9-2020",
+      "number": "IEC 60601-2-9:2020",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-9: Particular requirements for the basic safety and essential performance of equipment with dosimetric instruments as used in radiotherapy",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-9",
+      "source_verified": "",
+      "category": "radiation_protection",
+      "standard_type": "non_harmonised",
+      "scope": "Equipment with dosimetric instruments for radiotherapy.",
+      "applicable_gsprs": [
+        "14",
+        "16"
+      ],
+      "abstract": "Particular requirements for dosimetric equipment in radiotherapy."
     }
   ]
 }

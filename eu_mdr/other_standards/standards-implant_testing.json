@@ -1,0 +1,118 @@
+{
+  "standards": [
+    {
+      "id": "eu_mdr-os-astm-f2129-23",
+      "number": "ASTM F2129-23",
+      "title": {
+        "en": "Standard Test Method for Conducting Cyclic Potentiodynamic Polarization Measurements to Determine the Corrosion Susceptibility of Small Implant Devices",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://www.astm.org/f2129-23.html",
+      "source_verified": "",
+      "category": "implant_testing",
+      "standard_type": "non_harmonised",
+      "scope": "Corrosion testing of small implant devices.",
+      "applicable_gsprs": [
+        "10",
+        "10.3"
+      ],
+      "abstract": "Test method for evaluating corrosion susceptibility of small implant devices using cyclic potentiodynamic polarization."
+    },
+    {
+      "id": "eu_mdr-os-astm-f2052-22",
+      "number": "ASTM F2052-22",
+      "title": {
+        "en": "Standard Test Method for Measurement of Magnetically Induced Displacement Force on Medical Devices in the Magnetic Resonance Environment",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://www.astm.org/f2052-22.html",
+      "source_verified": "",
+      "category": "implant_testing",
+      "standard_type": "non_harmonised",
+      "scope": "MRI safety testing for implants.",
+      "applicable_gsprs": [
+        "10",
+        "16"
+      ],
+      "abstract": "Test method for measuring magnetically induced displacement force on medical devices in MRI environment."
+    },
+    {
+      "id": "eu_mdr-os-astm-f2213-17",
+      "number": "ASTM F2213-17",
+      "title": {
+        "en": "Standard Test Method for Measurement of Magnetically Induced Torque on Medical Devices in the Magnetic Resonance Environment",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://www.astm.org/f2213-17.html",
+      "source_verified": "",
+      "category": "implant_testing",
+      "standard_type": "non_harmonised",
+      "scope": "MRI-induced torque testing for implants.",
+      "applicable_gsprs": [
+        "10",
+        "16"
+      ],
+      "abstract": "Test method for measuring magnetically induced torque on medical devices in MRI environment."
+    },
+    {
+      "id": "eu_mdr-os-astm-f2182-19e2",
+      "number": "ASTM F2182-19e2",
+      "title": {
+        "en": "Standard Test Method for Measurement of Radio Frequency Induced Heating on or Near Passive Implants During Magnetic Resonance Imaging",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://www.astm.org/f2182-19e2.html",
+      "source_verified": "",
+      "category": "implant_testing",
+      "standard_type": "non_harmonised",
+      "scope": "MRI RF heating testing for passive implants.",
+      "applicable_gsprs": [
+        "10",
+        "16"
+      ],
+      "abstract": "Test method for measuring RF-induced heating near passive implants during MRI."
+    },
+    {
+      "id": "eu_mdr-os-astm-f1717-24",
+      "number": "ASTM F1717-24",
+      "title": {
+        "en": "Standard Test Methods for Spinal Implant Constructs in a Vertebrectomy Model",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://www.astm.org/f1717-24.html",
+      "source_verified": "",
+      "category": "implant_testing",
+      "standard_type": "non_harmonised",
+      "scope": "Spinal implant mechanical testing.",
+      "applicable_gsprs": [
+        "10",
+        "10.1"
+      ],
+      "abstract": "Test methods for spinal implant constructs using vertebrectomy model."
+    },
+    {
+      "id": "eu_mdr-os-astm-f1264-16e1",
+      "number": "ASTM F1264-16e1",
+      "title": {
+        "en": "Standard Specification and Test Methods for Intramedullary Fixation Devices",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://www.astm.org/f1264-16e1.html",
+      "source_verified": "",
+      "category": "implant_testing",
+      "standard_type": "non_harmonised",
+      "scope": "Intramedullary fixation device testing.",
+      "applicable_gsprs": [
+        "10",
+        "10.1"
+      ],
+      "abstract": "Specification and test methods for intramedullary fixation devices."
+    }
+  ]
+}

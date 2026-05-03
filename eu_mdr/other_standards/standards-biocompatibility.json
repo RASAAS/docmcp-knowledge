@@ -332,6 +332,120 @@
       "source_url": "https://www.iso.org/search.html?q=ISO%2010993-16",
       "abstract": "Specifies principles for designing toxicokinetic studies to assess the potential hazards of degradation products from medical devices.",
       "scope": "Biological evaluation of medical devices -- Toxicokinetic study design for degradation products and leachables."
+    },
+    {
+      "id": "eu_mdr-os-iso-10993-2-2022",
+      "number": "ISO 10993-2:2022",
+      "title": {
+        "en": "Biological evaluation of medical devices - Part 2: Animal welfare requirements",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://www.iso.org/standard/72550.html",
+      "source_verified": "",
+      "category": "biocompatibility",
+      "standard_type": "non_harmonised",
+      "scope": "Animal welfare requirements for biological evaluation.",
+      "applicable_gsprs": [
+        "10",
+        "10.4"
+      ],
+      "abstract": "Requirements and guidance on animal protection aspects of animal tests for biological evaluation of medical devices."
+    },
+    {
+      "id": "eu_mdr-os-iso-10993-8-2000",
+      "number": "ISO 10993-8:2000",
+      "title": {
+        "en": "Biological evaluation of medical devices - Part 8: Selection and qualification of reference materials for biological tests",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://www.iso.org/standard/18967.html",
+      "source_verified": "",
+      "category": "biocompatibility",
+      "standard_type": "non_harmonised",
+      "scope": "Reference materials for biological tests.",
+      "applicable_gsprs": [
+        "10",
+        "10.4"
+      ],
+      "abstract": "Guidance for selection and qualification of reference materials used in biological testing of medical devices."
+    },
+    {
+      "id": "eu_mdr-os-iso-10993-19-2020",
+      "number": "ISO 10993-19:2020",
+      "title": {
+        "en": "Biological evaluation of medical devices - Part 19: Physico-chemical, morphological and topographical characterization of materials",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://www.iso.org/standard/75367.html",
+      "source_verified": "",
+      "category": "biocompatibility",
+      "standard_type": "non_harmonised",
+      "scope": "Material characterization for biological evaluation.",
+      "applicable_gsprs": [
+        "10",
+        "10.4"
+      ],
+      "abstract": "Provides guidance on physico-chemical, morphological and topographical characterization of materials used in medical devices."
+    },
+    {
+      "id": "eu_mdr-os-iso-10993-20-2006",
+      "number": "ISO 10993-20:2006",
+      "title": {
+        "en": "Biological evaluation of medical devices - Part 20: Principles and methods for immunotoxicology testing of medical devices",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://www.iso.org/standard/35979.html",
+      "source_verified": "",
+      "category": "biocompatibility",
+      "standard_type": "non_harmonised",
+      "scope": "Immunotoxicology testing of medical devices.",
+      "applicable_gsprs": [
+        "10",
+        "10.4"
+      ],
+      "abstract": "Describes principles and methods for immunotoxicology testing of medical devices."
+    },
+    {
+      "id": "eu_mdr-os-iso-ts-10993-21-2022",
+      "number": "ISO/TS 10993-21:2022",
+      "title": {
+        "en": "Biological evaluation of medical devices - Part 21: Experimental assessment of irritation potential in skin sensitization assays",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://www.iso.org/standard/81549.html",
+      "source_verified": "",
+      "category": "biocompatibility",
+      "standard_type": "non_harmonised",
+      "scope": "Irritation assessment in skin sensitization assays.",
+      "applicable_gsprs": [
+        "10",
+        "10.4"
+      ],
+      "abstract": "Provides guidance on experimental assessment of irritation potential in skin sensitization assays."
+    },
+    {
+      "id": "eu_mdr-os-iso-10993-22-2017",
+      "number": "ISO 10993-22:2017",
+      "title": {
+        "en": "Biological evaluation of medical devices - Part 22: Guidance on nanomaterials",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://www.iso.org/standard/65918.html",
+      "source_verified": "",
+      "category": "biocompatibility",
+      "standard_type": "non_harmonised",
+      "scope": "Biological evaluation of nanomaterials.",
+      "applicable_gsprs": [
+        "10",
+        "10.4"
+      ],
+      "abstract": "Provides guidance on biological evaluation of nanomaterials in medical devices."
     }
   ]
 }

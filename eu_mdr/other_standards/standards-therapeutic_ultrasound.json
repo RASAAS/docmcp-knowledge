@@ -1,0 +1,23 @@
+{
+  "standards": [
+    {
+      "id": "eu_mdr-os-iec-60601-2-62-2013+amd1-2023",
+      "number": "IEC 60601-2-62:2013+AMD1:2023",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-62: Particular requirements for the basic safety and essential performance of high intensity therapeutic ultrasound (HITU) equipment",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-62",
+      "source_verified": "",
+      "category": "therapeutic_ultrasound",
+      "standard_type": "non_harmonised",
+      "scope": "High intensity therapeutic ultrasound equipment.",
+      "applicable_gsprs": [
+        "14",
+        "14.1"
+      ],
+      "abstract": "Particular requirements for HITU equipment."
+    }
+  ]
+}

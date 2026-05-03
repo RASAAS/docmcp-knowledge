@@ -1,0 +1,42 @@
+{
+  "standards": [
+    {
+      "id": "eu_mdr-os-iec-60601-2-3-2012+amd1-2016",
+      "number": "IEC 60601-2-3:2012+AMD1:2016",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-3: Particular requirements for the basic safety and essential performance of short-wave therapy equipment",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-3",
+      "source_verified": "",
+      "category": "physiotherapy",
+      "standard_type": "non_harmonised",
+      "scope": "Short-wave therapy equipment.",
+      "applicable_gsprs": [
+        "14",
+        "18"
+      ],
+      "abstract": "Particular requirements for short-wave therapy equipment safety and essential performance."
+    },
+    {
+      "id": "eu_mdr-os-iec-60601-2-5-2009+amd1-2015",
+      "number": "IEC 60601-2-5:2009+AMD1:2015",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-5: Particular requirements for the basic safety and essential performance of ultrasonic physiotherapy equipment",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-5",
+      "source_verified": "",
+      "category": "physiotherapy",
+      "standard_type": "non_harmonised",
+      "scope": "Ultrasonic physiotherapy equipment.",
+      "applicable_gsprs": [
+        "14",
+        "18"
+      ],
+      "abstract": "Particular requirements for ultrasonic physiotherapy equipment."
+    }
+  ]
+}

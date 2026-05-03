@@ -1,0 +1,272 @@
+{
+  "standards": [
+    {
+      "id": "eu_mdr-os-iso-5832-2-2018",
+      "number": "ISO 5832-2:2018",
+      "title": {
+        "en": "Implants for surgery - Metallic materials - Part 2: Unalloyed titanium",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://www.iso.org/standard/66637.html",
+      "source_verified": "",
+      "category": "implant_materials",
+      "standard_type": "non_harmonised",
+      "scope": "Unalloyed titanium for surgical implants.",
+      "applicable_gsprs": [
+        "10",
+        "10.1"
+      ],
+      "abstract": "Specifies requirements for unalloyed titanium for surgical implant applications."
+    },
+    {
+      "id": "eu_mdr-os-iso-5832-4-2014",
+      "number": "ISO 5832-4:2014",
+      "title": {
+        "en": "Implants for surgery - Metallic materials - Part 4: Cobalt-chromium-molybdenum casting alloy",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://www.iso.org/standard/63535.html",
+      "source_verified": "",
+      "category": "implant_materials",
+      "standard_type": "non_harmonised",
+      "scope": "Cobalt-chromium-molybdenum casting alloy.",
+      "applicable_gsprs": [
+        "10",
+        "10.1"
+      ],
+      "abstract": "Requirements for cobalt-chromium-molybdenum casting alloy for surgical implants."
+    },
+    {
+      "id": "eu_mdr-os-iso-5832-5-2005",
+      "number": "ISO 5832-5:2005",
+      "title": {
+        "en": "Implants for surgery - Metallic materials - Part 5: Wrought cobalt-chromium-tungsten-nickel alloy",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://www.iso.org/standard/39025.html",
+      "source_verified": "",
+      "category": "implant_materials",
+      "standard_type": "non_harmonised",
+      "scope": "Wrought cobalt-chromium-tungsten-nickel alloy.",
+      "applicable_gsprs": [
+        "10",
+        "10.1"
+      ],
+      "abstract": "Requirements for wrought cobalt-chromium-tungsten-nickel alloy."
+    },
+    {
+      "id": "eu_mdr-os-iso-5832-6-2018",
+      "number": "ISO 5832-6:2018",
+      "title": {
+        "en": "Implants for surgery - Metallic materials - Part 6: Wrought cobalt-nickel-chromium-molybdenum alloy",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://www.iso.org/standard/66639.html",
+      "source_verified": "",
+      "category": "implant_materials",
+      "standard_type": "non_harmonised",
+      "scope": "Wrought cobalt-nickel-chromium-molybdenum alloy.",
+      "applicable_gsprs": [
+        "10",
+        "10.1"
+      ],
+      "abstract": "Requirements for wrought cobalt-nickel-chromium-molybdenum alloy."
+    },
+    {
+      "id": "eu_mdr-os-iso-5832-7-2016",
+      "number": "ISO 5832-7:2016",
+      "title": {
+        "en": "Implants for surgery - Metallic materials - Part 7: Forgeable and cold-formed cobalt-chromium-nickel-molybdenum-iron alloy",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://www.iso.org/standard/63536.html",
+      "source_verified": "",
+      "category": "implant_materials",
+      "standard_type": "non_harmonised",
+      "scope": "Forgeable cobalt-chromium-nickel-molybdenum-iron alloy.",
+      "applicable_gsprs": [
+        "10",
+        "10.1"
+      ],
+      "abstract": "Requirements for forgeable and cold-formed cobalt-chromium-nickel-molybdenum-iron alloy."
+    },
+    {
+      "id": "eu_mdr-os-iso-5832-9-2019",
+      "number": "ISO 5832-9:2019",
+      "title": {
+        "en": "Implants for surgery - Metallic materials - Part 9: Wrought high nitrogen stainless steel",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://www.iso.org/standard/69910.html",
+      "source_verified": "",
+      "category": "implant_materials",
+      "standard_type": "non_harmonised",
+      "scope": "Wrought high nitrogen stainless steel.",
+      "applicable_gsprs": [
+        "10",
+        "10.1"
+      ],
+      "abstract": "Requirements for wrought high nitrogen stainless steel for surgical implants."
+    },
+    {
+      "id": "eu_mdr-os-iso-5832-11-2014",
+      "number": "ISO 5832-11:2014",
+      "title": {
+        "en": "Implants for surgery - Metallic materials - Part 11: Wrought titanium 6-aluminium 7-niobium alloy",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://www.iso.org/standard/63537.html",
+      "source_verified": "",
+      "category": "implant_materials",
+      "standard_type": "non_harmonised",
+      "scope": "Wrought titanium 6-aluminium 7-niobium alloy.",
+      "applicable_gsprs": [
+        "10",
+        "10.1"
+      ],
+      "abstract": "Requirements for wrought titanium 6-aluminium 7-niobium alloy."
+    },
+    {
+      "id": "eu_mdr-os-iso-5832-12-2019",
+      "number": "ISO 5832-12:2019",
+      "title": {
+        "en": "Implants for surgery - Metallic materials - Part 12: Wrought cobalt-chromium-molybdenum alloy",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://www.iso.org/standard/69909.html",
+      "source_verified": "",
+      "category": "implant_materials",
+      "standard_type": "non_harmonised",
+      "scope": "Wrought cobalt-chromium-molybdenum alloy.",
+      "applicable_gsprs": [
+        "10",
+        "10.1"
+      ],
+      "abstract": "Requirements for wrought cobalt-chromium-molybdenum alloy."
+    },
+    {
+      "id": "eu_mdr-os-iso-5832-14-2019",
+      "number": "ISO 5832-14:2019",
+      "title": {
+        "en": "Implants for surgery - Metallic materials - Part 14: Wrought titanium 15-molybdenum 5-zirconium 3-aluminium alloy",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://www.iso.org/standard/75957.html",
+      "source_verified": "",
+      "category": "implant_materials",
+      "standard_type": "non_harmonised",
+      "scope": "Wrought titanium alloy for surgical implants.",
+      "applicable_gsprs": [
+        "10",
+        "10.1"
+      ],
+      "abstract": "Requirements for wrought titanium 15-molybdenum 5-zirconium 3-aluminium alloy."
+    },
+    {
+      "id": "eu_mdr-os-iso-14602-2010",
+      "number": "ISO 14602:2010",
+      "title": {
+        "en": "Non-active surgical implants - Implants for osteosynthesis - Particular requirements",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://www.iso.org/standard/44925.html",
+      "source_verified": "",
+      "category": "implant_materials",
+      "standard_type": "non_harmonised",
+      "scope": "Implants for osteosynthesis.",
+      "applicable_gsprs": [
+        "10",
+        "10.1",
+        "14"
+      ],
+      "abstract": "Particular requirements for non-active surgical implants for osteosynthesis."
+    },
+    {
+      "id": "eu_mdr-os-iso-21534-2007",
+      "number": "ISO 21534:2007",
+      "title": {
+        "en": "Non-active surgical implants - Joint replacement implants - Particular requirements",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://www.iso.org/standard/34415.html",
+      "source_verified": "",
+      "category": "implant_materials",
+      "standard_type": "non_harmonised",
+      "scope": "Joint replacement implants.",
+      "applicable_gsprs": [
+        "10",
+        "10.1",
+        "14"
+      ],
+      "abstract": "Particular requirements for non-active joint replacement surgical implants."
+    },
+    {
+      "id": "eu_mdr-os-astm-f136-13",
+      "number": "ASTM F136-13",
+      "title": {
+        "en": "Standard Specification for Wrought Titanium-6Aluminum-4Vanadium ELI (Extra Low Interstitial) Alloy for Surgical Implant Applications",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://www.astm.org/f0136-13.html",
+      "source_verified": "",
+      "category": "implant_materials",
+      "standard_type": "non_harmonised",
+      "scope": "Ti-6Al-4V ELI alloy for implants.",
+      "applicable_gsprs": [
+        "10",
+        "10.1"
+      ],
+      "abstract": "Specification for Ti-6Al-4V ELI alloy for surgical implants."
+    },
+    {
+      "id": "eu_mdr-os-astm-f75-23",
+      "number": "ASTM F75-23",
+      "title": {
+        "en": "Standard Specification for Cobalt-28 Chromium-6 Molybdenum Alloy Castings and Casting Alloy for Surgical Implants",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://www.astm.org/f0075-23.html",
+      "source_verified": "",
+      "category": "implant_materials",
+      "standard_type": "non_harmonised",
+      "scope": "CoCrMo casting alloy for implants.",
+      "applicable_gsprs": [
+        "10",
+        "10.1"
+      ],
+      "abstract": "Specification for Co-Cr-Mo alloy castings for surgical implants."
+    },
+    {
+      "id": "eu_mdr-os-astm-f138-19",
+      "number": "ASTM F138-19",
+      "title": {
+        "en": "Standard Specification for Wrought 18Chromium-14Nickel-2.5Molybdenum Stainless Steel Bar and Wire for Surgical Implants",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://www.astm.org/f0138-19.html",
+      "source_verified": "",
+      "category": "implant_materials",
+      "standard_type": "non_harmonised",
+      "scope": "316L stainless steel for implants.",
+      "applicable_gsprs": [
+        "10",
+        "10.1"
+      ],
+      "abstract": "Specification for 316L stainless steel for surgical implants."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "standards": [
+    {
+      "id": "eu_mdr-os-iec-60601-2-36-2023",
+      "number": "IEC 60601-2-36:2023",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-36: Particular requirements for the basic safety and essential performance of equipment for extracorporeally induced lithotripsy",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-36",
+      "source_verified": "",
+      "category": "lithotripsy",
+      "standard_type": "non_harmonised",
+      "scope": "Extracorporeally induced lithotripsy equipment.",
+      "applicable_gsprs": [
+        "14",
+        "14.1"
+      ],
+      "abstract": "Particular requirements for extracorporeal lithotripsy equipment."
+    }
+  ]
+}

@@ -9,24 +9,56 @@
         "zh": "有源植入物",
         "en": "Active Implantable Devices"
       },
-      "count": 3,
+      "count": 6,
       "file": "standards-active_implants.json"
+    },
+    "anaesthesia": {
+      "name": {
+        "en": "Anaesthesia Equipment",
+        "zh": "麻醉设备"
+      },
+      "count": 1,
+      "file": "standards-anaesthesia.json"
+    },
+    "audiology": {
+      "name": {
+        "en": "Audiology & Hearing",
+        "zh": "听力学"
+      },
+      "count": 1,
+      "file": "standards-audiology.json"
     },
     "biocompatibility": {
       "name": {
         "zh": "生物相容性",
         "en": "Biocompatibility"
       },
-      "count": 17,
+      "count": 23,
       "file": "standards-biocompatibility.json"
+    },
+    "biological_materials": {
+      "name": {
+        "en": "Biological Materials",
+        "zh": "生物来源材料"
+      },
+      "count": 3,
+      "file": "standards-biological_materials.json"
     },
     "breathing_gas_pathways": {
       "name": {
         "zh": "呼吸气路生物相容性",
         "en": "Breathing Gas Pathways"
       },
-      "count": 3,
+      "count": 10,
       "file": "standards-breathing_gas_pathways.json"
+    },
+    "cardiology": {
+      "name": {
+        "en": "Cardiology & Cardiovascular",
+        "zh": "心血管"
+      },
+      "count": 3,
+      "file": "standards-cardiology.json"
     },
     "clinical_investigation": {
       "name": {
@@ -57,23 +89,55 @@
         "zh": "口腔医疗器械",
         "en": "Dental Devices"
       },
-      "count": 1,
+      "count": 4,
       "file": "standards-dental.json"
+    },
+    "diagnostic_imaging": {
+      "name": {
+        "en": "Diagnostic Imaging",
+        "zh": "诊断影像设备"
+      },
+      "count": 13,
+      "file": "standards-diagnostic_imaging.json"
+    },
+    "dialysis": {
+      "name": {
+        "en": "Dialysis & Blood Treatment",
+        "zh": "透析与血液处理"
+      },
+      "count": 1,
+      "file": "standards-dialysis.json"
+    },
+    "drug_device_combination": {
+      "name": {
+        "en": "Drug-Device Combination",
+        "zh": "药械组合产品"
+      },
+      "count": 2,
+      "file": "standards-drug_device_combination.json"
     },
     "electrical_safety": {
       "name": {
         "zh": "电气安全与EMC",
         "en": "Electrical Safety & EMC"
       },
-      "count": 18,
+      "count": 19,
       "file": "standards-electrical_safety.json"
+    },
+    "endoscopy": {
+      "name": {
+        "en": "Endoscopy",
+        "zh": "内窥镜"
+      },
+      "count": 1,
+      "file": "standards-endoscopy.json"
     },
     "environmental_testing": {
       "name": {
         "zh": "环境试验",
         "en": "Environmental Testing"
       },
-      "count": 4,
+      "count": 7,
       "file": "standards-environmental_testing.json"
     },
     "home_healthcare": {
@@ -83,6 +147,22 @@
       },
       "count": 1,
       "file": "standards-home_healthcare.json"
+    },
+    "implant_materials": {
+      "name": {
+        "en": "Implant Materials & Testing",
+        "zh": "植入物材料与测试"
+      },
+      "count": 14,
+      "file": "standards-implant_materials.json"
+    },
+    "implant_testing": {
+      "name": {
+        "en": "Implant Testing",
+        "zh": "植入物测试"
+      },
+      "count": 6,
+      "file": "standards-implant_testing.json"
     },
     "ivd": {
       "name": {
@@ -99,6 +179,22 @@
       },
       "count": 1,
       "file": "standards-labelling.json"
+    },
+    "laser_surgery": {
+      "name": {
+        "en": "Laser Surgery",
+        "zh": "激光手术"
+      },
+      "count": 1,
+      "file": "standards-laser_surgery.json"
+    },
+    "lithotripsy": {
+      "name": {
+        "en": "Lithotripsy",
+        "zh": "碎石设备"
+      },
+      "count": 1,
+      "file": "standards-lithotripsy.json"
     },
     "mechanical_testing": {
       "name": {
@@ -132,12 +228,36 @@
       "count": 2,
       "file": "standards-needles_syringes.json"
     },
+    "neonatal": {
+      "name": {
+        "en": "Neonatal & Infant Care",
+        "zh": "新生儿与婴儿护理"
+      },
+      "count": 4,
+      "file": "standards-neonatal.json"
+    },
+    "neurology": {
+      "name": {
+        "en": "Neurology & Neurosurgery",
+        "zh": "神经内外科"
+      },
+      "count": 4,
+      "file": "standards-neurology.json"
+    },
+    "nuclear_medicine": {
+      "name": {
+        "en": "Nuclear Medicine",
+        "zh": "核医学"
+      },
+      "count": 2,
+      "file": "standards-nuclear_medicine.json"
+    },
     "ophthalmic": {
       "name": {
         "zh": "眼科器械",
         "en": "Ophthalmic Devices"
       },
-      "count": 1,
+      "count": 2,
       "file": "standards-ophthalmic.json"
     },
     "packaging": {
@@ -147,6 +267,38 @@
       },
       "count": 7,
       "file": "standards-packaging.json"
+    },
+    "patient_monitoring": {
+      "name": {
+        "en": "Patient Monitoring",
+        "zh": "患者监护设备"
+      },
+      "count": 9,
+      "file": "standards-patient_monitoring.json"
+    },
+    "patient_warming": {
+      "name": {
+        "en": "Patient Warming Systems",
+        "zh": "患者保温系统"
+      },
+      "count": 1,
+      "file": "standards-patient_warming.json"
+    },
+    "phototherapy": {
+      "name": {
+        "en": "Phototherapy & Light Therapy",
+        "zh": "光疗设备"
+      },
+      "count": 3,
+      "file": "standards-phototherapy.json"
+    },
+    "physiotherapy": {
+      "name": {
+        "en": "Physiotherapy & Rehabilitation",
+        "zh": "理疗与康复"
+      },
+      "count": 2,
+      "file": "standards-physiotherapy.json"
     },
     "pms": {
       "name": {
@@ -177,8 +329,16 @@
         "zh": "辐射防护与放射治疗",
         "en": "Radiation Protection & Therapy"
       },
-      "count": 4,
+      "count": 11,
       "file": "standards-radiation_protection.json"
+    },
+    "regulatory_references": {
+      "name": {
+        "en": "EU Regulatory References",
+        "zh": "欧盟法规参考"
+      },
+      "count": 17,
+      "file": "standards-regulatory_references.json"
     },
     "reprocessing": {
       "name": {
@@ -209,7 +369,7 @@
         "zh": "灭菌与无菌包装",
         "en": "Sterilization & Packaging"
       },
-      "count": 7,
+      "count": 11,
       "file": "standards-sterilization.json"
     },
     "surgical_implants": {
@@ -217,8 +377,16 @@
         "zh": "非有源外科植入物",
         "en": "Non-active Surgical Implants"
       },
-      "count": 6,
+      "count": 9,
       "file": "standards-surgical_implants.json"
+    },
+    "therapeutic_ultrasound": {
+      "name": {
+        "en": "Therapeutic Ultrasound",
+        "zh": "治疗超声"
+      },
+      "count": 1,
+      "file": "standards-therapeutic_ultrasound.json"
     },
     "usability": {
       "name": {
@@ -236,5 +404,6 @@
       "count": 1,
       "file": "standards-wound_care.json"
     }
-  }
+  },
+  "total_count": 250
 }

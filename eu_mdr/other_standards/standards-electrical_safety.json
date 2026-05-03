@@ -355,6 +355,25 @@
       "source_url": "https://webstore.iec.ch/en/search?q=EN%20IEC%2060601-1-8",
       "abstract": "Specifies general requirements for alarm systems in medical electrical equipment.",
       "scope": "General requirements for basic safety and essential performance -- Collateral standard: General requirements, tests and guidance for alarm systems (European adopted version)."
+    },
+    {
+      "id": "eu_mdr-os-iec-62353-2014+amd1-2020",
+      "number": "IEC 62353:2014+AMD1:2020",
+      "title": {
+        "en": "Medical electrical equipment - Recurrent test and test after repair of medical electrical equipment",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2062353",
+      "source_verified": "",
+      "category": "electrical_safety",
+      "standard_type": "non_harmonised",
+      "scope": "Recurrent and post-repair testing of ME equipment.",
+      "applicable_gsprs": [
+        "14",
+        "18"
+      ],
+      "abstract": "Requirements for recurrent testing and post-repair testing of medical electrical equipment."
     }
   ]
 }

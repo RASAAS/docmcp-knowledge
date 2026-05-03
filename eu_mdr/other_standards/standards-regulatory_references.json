@@ -1,0 +1,329 @@
+{
+  "standards": [
+    {
+      "id": "eu_mdr-os-directive-2011-65-eu-(rohs-2)",
+      "number": "Directive 2011/65/EU (RoHS 2)",
+      "title": {
+        "en": "Restriction of the use of certain hazardous substances in electrical and electronic equipment",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dir/2011/65/oj",
+      "source_verified": "",
+      "category": "regulatory_references",
+      "standard_type": "non_harmonised",
+      "scope": "Restricts use of hazardous substances (lead, mercury, cadmium, hexavalent chromium, PBB, PBDE, plus 4 phthalates) in EEE",
+      "applicable_gsprs": [
+        "10",
+        "10.4",
+        "10.4.3"
+      ],
+      "abstract": "Restricts the use of certain hazardous substances in electrical and electronic equipment to protect human health and the environment."
+    },
+    {
+      "id": "eu_mdr-os-regulation-(ec)-no-1907-2006-(reach)",
+      "number": "Regulation (EC) No 1907/2006 (REACH)",
+      "title": {
+        "en": "Registration, Evaluation, Authorisation and Restriction of Chemicals",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/reg/2006/1907/oj",
+      "source_verified": "",
+      "category": "regulatory_references",
+      "standard_type": "non_harmonised",
+      "scope": "Chemical substance registration, evaluation, authorisation and restriction for protection of human health and environment",
+      "applicable_gsprs": [
+        "10",
+        "10.4",
+        "10.4.2",
+        "10.4.3"
+      ],
+      "abstract": "Establishes procedures for registration, evaluation, authorisation and restriction of chemicals to ensure a high level of protection of human health and the environment."
+    },
+    {
+      "id": "eu_mdr-os-regulation-(ec)-no-1272-2008-(clp)",
+      "number": "Regulation (EC) No 1272/2008 (CLP)",
+      "title": {
+        "en": "Classification, Labelling and Packaging of Substances and Mixtures",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/reg/2008/1272/oj",
+      "source_verified": "",
+      "category": "regulatory_references",
+      "standard_type": "non_harmonised",
+      "scope": "Classification, labelling and packaging of chemical substances and mixtures; CMR substance classification",
+      "applicable_gsprs": [
+        "10",
+        "10.4",
+        "10.4.3",
+        "23"
+      ],
+      "abstract": "Sets requirements for classification, labelling and packaging of chemical substances and mixtures to inform users about hazards."
+    },
+    {
+      "id": "eu_mdr-os-directive-2012-19-eu-(weee)",
+      "number": "Directive 2012/19/EU (WEEE)",
+      "title": {
+        "en": "Waste Electrical and Electronic Equipment",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dir/2012/19/oj",
+      "source_verified": "",
+      "category": "regulatory_references",
+      "standard_type": "non_harmonised",
+      "scope": "Collection, recycling and recovery of waste electrical and electronic equipment",
+      "applicable_gsprs": [
+        "23"
+      ],
+      "abstract": "Sets collection, recycling and recovery targets for all types of waste electrical and electronic equipment."
+    },
+    {
+      "id": "eu_mdr-os-council-directive-2013-59-euratom",
+      "number": "Council Directive 2013/59/Euratom",
+      "title": {
+        "en": "Basic safety standards for protection against the dangers arising from exposure to ionising radiation",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dir/2013/59/oj",
+      "source_verified": "",
+      "category": "regulatory_references",
+      "standard_type": "non_harmonised",
+      "scope": "Basic safety standards for ionising radiation protection",
+      "applicable_gsprs": [
+        "15",
+        "15.1",
+        "15.2"
+      ],
+      "abstract": "Lays down basic safety standards for protection against the dangers arising from exposure to ionising radiation."
+    },
+    {
+      "id": "eu_mdr-os-regulation-(eu)-2023-1542-(battery-regulation)",
+      "number": "Regulation (EU) 2023/1542 (Battery Regulation)",
+      "title": {
+        "en": "Regulation concerning batteries and waste batteries, amending Directive 2008/98/EC and Regulation (EU) 2019/1020, repealing Directive 2006/66/EC",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/reg/2023/1542/oj",
+      "source_verified": "",
+      "category": "regulatory_references",
+      "standard_type": "non_harmonised",
+      "scope": "Sustainability and safety requirements for batteries in medical devices",
+      "applicable_gsprs": [
+        "10"
+      ],
+      "abstract": "Establishes sustainability and safety requirements for batteries placed on the EU market, including those used in medical devices."
+    },
+    {
+      "id": "eu_mdr-os-regulation-(eu)-722-2012-(tse)",
+      "number": "Regulation (EU) 722/2012 (TSE)",
+      "title": {
+        "en": "Concerning particular requirements as regards the requirements laid down in Council Directives 90/385/EEC and 93/42/EEC with respect to active implantable medical devices and medical devices manufactured utilising tissues of animal origin",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/reg/2012/722/oj",
+      "source_verified": "",
+      "category": "regulatory_references",
+      "standard_type": "non_harmonised",
+      "scope": "Particular requirements for devices utilizing tissues of animal origin (TSE risk)",
+      "applicable_gsprs": [
+        "10",
+        "13"
+      ],
+      "abstract": "Specifies requirements for medical devices using animal-origin tissues regarding TSE (transmissible spongiform encephalopathy) risk management."
+    },
+    {
+      "id": "eu_mdr-os-regulation-(eu)-2024-2847-(cyber-resilience-act)",
+      "number": "Regulation (EU) 2024/2847 (Cyber Resilience Act)",
+      "title": {
+        "en": "Regulation on horizontal cybersecurity requirements for products with digital elements (CRA)",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/reg/2024/2847/oj",
+      "source_verified": "",
+      "category": "regulatory_references",
+      "standard_type": "non_harmonised",
+      "scope": "Horizontal cybersecurity requirements for products with digital elements",
+      "applicable_gsprs": [
+        "17",
+        "18"
+      ],
+      "abstract": "Establishes horizontal cybersecurity requirements for products with digital elements placed on the EU market."
+    },
+    {
+      "id": "eu_mdr-os-directive-(eu)-2022-2555-(nis2)",
+      "number": "Directive (EU) 2022/2555 (NIS2)",
+      "title": {
+        "en": "Directive on measures for a high common level of cybersecurity across the Union (NIS 2 Directive)",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/reg/2022/2555/oj",
+      "source_verified": "",
+      "category": "regulatory_references",
+      "standard_type": "non_harmonised",
+      "scope": "Measures for a high common level of cybersecurity across the Union",
+      "applicable_gsprs": [
+        "17",
+        "18"
+      ],
+      "abstract": "Establishes measures for a high common level of cybersecurity across the EU, affecting operators of essential and important entities."
+    },
+    {
+      "id": "eu_mdr-os-regulation-(eu)-2024-1689-(ai-act)",
+      "number": "Regulation (EU) 2024/1689 (AI Act)",
+      "title": {
+        "en": "Regulation laying down harmonised rules on artificial intelligence (Artificial Intelligence Act)",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj",
+      "source_verified": "",
+      "category": "regulatory_references",
+      "standard_type": "non_harmonised",
+      "scope": "Harmonised rules on artificial intelligence - requirements for high-risk AI systems",
+      "applicable_gsprs": [
+        "17"
+      ],
+      "abstract": "Lays down harmonised rules on artificial intelligence, including requirements for high-risk AI systems in medical devices."
+    },
+    {
+      "id": "eu_mdr-os-regulation-(eu)-2023-988-(gpsr)",
+      "number": "Regulation (EU) 2023/988 (GPSR)",
+      "title": {
+        "en": "General Product Safety Regulation",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/reg/2023/988/oj",
+      "source_verified": "",
+      "category": "regulatory_references",
+      "standard_type": "non_harmonised",
+      "scope": "General product safety regulation - baseline safety for consumer products",
+      "applicable_gsprs": [
+        "1",
+        "3",
+        "4"
+      ],
+      "abstract": "Establishes general product safety requirements for consumer products placed on the EU market."
+    },
+    {
+      "id": "eu_mdr-os-regulation-(eu)-2024-1781-(espr)",
+      "number": "Regulation (EU) 2024/1781 (ESPR)",
+      "title": {
+        "en": "Regulation establishing a framework for setting ecodesign requirements for sustainable products (Ecodesign for Sustainable Products Regulation)",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/reg/2024/1781/oj",
+      "source_verified": "",
+      "category": "regulatory_references",
+      "standard_type": "non_harmonised",
+      "scope": "Ecodesign requirements for sustainable products framework",
+      "applicable_gsprs": [
+        "10",
+        "10.4"
+      ],
+      "abstract": "Establishes a framework for ecodesign requirements for sustainable products, including energy-related and non-energy-related products."
+    },
+    {
+      "id": "eu_mdr-os-regulation-(eu)-2025-40-(ppwr)",
+      "number": "Regulation (EU) 2025/40 (PPWR)",
+      "title": {
+        "en": "Regulation on packaging and packaging waste, amending Regulation (EU) 2019/1020 and Directive (EU) 2019/904, and repealing Directive 94/62/EC",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/reg/2025/40/oj",
+      "source_verified": "",
+      "category": "regulatory_references",
+      "standard_type": "non_harmonised",
+      "scope": "Packaging and packaging waste regulation - sustainability requirements",
+      "applicable_gsprs": [
+        "11"
+      ],
+      "abstract": "Sets requirements for packaging and packaging waste management, including sustainability and labelling requirements."
+    },
+    {
+      "id": "eu_mdr-os-directive-2014-53-eu-(red)",
+      "number": "Directive 2014/53/EU (RED)",
+      "title": {
+        "en": "Radio Equipment Directive - harmonisation of the laws of the Member States relating to the making available on the market of radio equipment",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dir/2014/53/oj",
+      "source_verified": "",
+      "category": "regulatory_references",
+      "standard_type": "non_harmonised",
+      "scope": "Radio equipment directive - essential requirements for radio equipment",
+      "applicable_gsprs": [
+        "14"
+      ],
+      "abstract": "Harmonises the laws relating to the making available on the market of radio equipment, setting essential requirements."
+    },
+    {
+      "id": "eu_mdr-os-regulation-(eu)-2023-1230-(machinery-regulation)",
+      "number": "Regulation (EU) 2023/1230 (Machinery Regulation)",
+      "title": {
+        "en": "Regulation on machinery and repealing Directive 2006/42/EC",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/reg/2023/1230/oj",
+      "source_verified": "",
+      "category": "regulatory_references",
+      "standard_type": "non_harmonised",
+      "scope": "Machinery regulation replacing Directive 2006/42/EC - safety of machinery",
+      "applicable_gsprs": [
+        "1",
+        "3",
+        "9",
+        "14"
+      ],
+      "abstract": "Establishes health and safety requirements for machinery placed on the EU market, replacing Directive 2006/42/EC."
+    },
+    {
+      "id": "eu_mdr-os-directive-2001-83-ec-(medicinal-products)",
+      "number": "Directive 2001/83/EC (Medicinal Products)",
+      "title": {
+        "en": "Directive on the Community code relating to medicinal products for human use",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dir/2001/83/oj",
+      "source_verified": "",
+      "category": "regulatory_references",
+      "standard_type": "non_harmonised",
+      "scope": "Community code relating to medicinal products for human use",
+      "applicable_gsprs": [
+        "12"
+      ],
+      "abstract": "Establishes the Community code relating to medicinal products for human use, covering authorisation, manufacturing, and distribution."
+    },
+    {
+      "id": "eu_mdr-os-directive-(eu)-2022-2557-(cer-directive)",
+      "number": "Directive (EU) 2022/2557 (CER Directive)",
+      "title": {
+        "en": "Directive on the resilience of critical entities",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/reg/2022/2557/oj",
+      "source_verified": "",
+      "category": "regulatory_references",
+      "standard_type": "non_harmonised",
+      "scope": "Resilience of critical entities - risk assessments and measures",
+      "applicable_gsprs": [
+        "17"
+      ],
+      "abstract": "Establishes rules to enhance the resilience of critical entities providing essential services in the EU."
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "standards": [
+    {
+      "id": "eu_mdr-os-iso-22442-1-2020",
+      "number": "ISO 22442-1:2020",
+      "title": {
+        "en": "Medical devices utilizing animal tissues and their derivatives - Part 1: Application of risk management",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://www.iso.org/standard/74280.html",
+      "source_verified": "",
+      "category": "biological_materials",
+      "standard_type": "non_harmonised",
+      "scope": "Animal tissue medical devices - Risk management.",
+      "applicable_gsprs": [
+        "10",
+        "10.4",
+        "12"
+      ],
+      "abstract": "Risk management for medical devices utilizing animal tissues."
+    },
+    {
+      "id": "eu_mdr-os-iso-22442-2-2020",
+      "number": "ISO 22442-2:2020",
+      "title": {
+        "en": "Medical devices utilizing animal tissues and their derivatives - Part 2: Controls on sourcing, collection and handling",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://www.iso.org/standard/74281.html",
+      "source_verified": "",
+      "category": "biological_materials",
+      "standard_type": "non_harmonised",
+      "scope": "Animal tissue sourcing and handling.",
+      "applicable_gsprs": [
+        "10",
+        "10.4",
+        "12"
+      ],
+      "abstract": "Controls on sourcing, collection and handling of animal tissues."
+    },
+    {
+      "id": "eu_mdr-os-iso-22442-3-2007+amd1-2015",
+      "number": "ISO 22442-3:2007+AMD1:2015",
+      "title": {
+        "en": "Medical devices utilizing animal tissues and their derivatives - Part 3: Validation of the elimination and/or inactivation of viruses and transmissible spongiform encephalopathy (TSE) agents",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://www.iso.org/standard/39351.html",
+      "source_verified": "",
+      "category": "biological_materials",
+      "standard_type": "non_harmonised",
+      "scope": "Virus/TSE inactivation validation.",
+      "applicable_gsprs": [
+        "10",
+        "10.4",
+        "12"
+      ],
+      "abstract": "Validation of virus and TSE agent inactivation for animal tissue devices."
+    }
+  ]
+}

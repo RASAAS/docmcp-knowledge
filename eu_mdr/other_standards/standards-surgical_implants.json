@@ -104,6 +104,63 @@
       "source_url": "https://www.astm.org/Standards/F2033:2020.htm",
       "abstract": "Specifies requirements for bearing surfaces of total hip joint prostheses and hip endoprostheses.",
       "scope": "Standard specification for total hip joint prosthesis and hip endoprosthesis bearing surfaces made of metallic, ceramic, and polymeric materials."
+    },
+    {
+      "id": "eu_mdr-os-iec-60601-2-41-2021",
+      "number": "IEC 60601-2-41:2021",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-41: Particular requirements for the basic safety and essential performance of surgical luminaires and luminaires for diagnosis",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-41",
+      "source_verified": "",
+      "category": "surgical_implants",
+      "standard_type": "non_harmonised",
+      "scope": "Surgical luminaires and luminaires for diagnosis.",
+      "applicable_gsprs": [
+        "14",
+        "14.1"
+      ],
+      "abstract": "Particular requirements for surgical luminaires."
+    },
+    {
+      "id": "eu_mdr-os-iec-60601-2-46-2016",
+      "number": "IEC 60601-2-46:2016",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-46: Particular requirements for the basic safety and essential performance of operating tables",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-46",
+      "source_verified": "",
+      "category": "surgical_implants",
+      "standard_type": "non_harmonised",
+      "scope": "Operating tables.",
+      "applicable_gsprs": [
+        "14",
+        "14.1"
+      ],
+      "abstract": "Particular requirements for operating tables."
+    },
+    {
+      "id": "eu_mdr-os-iec-60601-2-76-2018",
+      "number": "IEC 60601-2-76:2018",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-76: Particular requirements for the basic safety and essential performance of low energy ionized gas haemostasis equipment",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-76",
+      "source_verified": "",
+      "category": "surgical_implants",
+      "standard_type": "non_harmonised",
+      "scope": "Low energy ionized gas haemostasis equipment.",
+      "applicable_gsprs": [
+        "14",
+        "14.1"
+      ],
+      "abstract": "Particular requirements for low energy ionized gas haemostasis equipment."
     }
   ]
 }

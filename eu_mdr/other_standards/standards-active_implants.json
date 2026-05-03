@@ -55,6 +55,66 @@
       "source_url": "https://standards.cencenelec.eu/dyn/www/f?p=205:110:0::::FSP_PROJECT:EN%2045502-2-2",
       "abstract": "Specifies particular requirements for active implantable medical devices intended to treat tachyarrhythmia (implantable cardioverter defibrillators).",
       "scope": "Active implantable medical devices -- Particular requirements for active implantable medical devices intended to treat tachyarrhythmia (includes implantable defibrillators)."
+    },
+    {
+      "id": "eu_mdr-os-iso-14708-2-2019",
+      "number": "ISO 14708-2:2019",
+      "title": {
+        "en": "Implants for surgery - Active implantable medical devices - Part 2: Cardiac pacemakers",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://www.iso.org/standard/67699.html",
+      "source_verified": "",
+      "category": "active_implants",
+      "standard_type": "non_harmonised",
+      "scope": "Active implantable cardiac pacemakers.",
+      "applicable_gsprs": [
+        "10",
+        "14",
+        "14.2"
+      ],
+      "abstract": "Particular requirements for cardiac pacemaker implants."
+    },
+    {
+      "id": "eu_mdr-os-iso-14708-3-2017",
+      "number": "ISO 14708-3:2017",
+      "title": {
+        "en": "Implants for surgery - Active implantable medical devices - Part 3: Implantable neurostimulators",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://www.iso.org/standard/67396.html",
+      "source_verified": "",
+      "category": "active_implants",
+      "standard_type": "non_harmonised",
+      "scope": "Active implantable neurostimulators.",
+      "applicable_gsprs": [
+        "10",
+        "14",
+        "14.1"
+      ],
+      "abstract": "Particular requirements for implantable neurostimulators."
+    },
+    {
+      "id": "eu_mdr-os-iso-14708-7-2019",
+      "number": "ISO 14708-7:2019",
+      "title": {
+        "en": "Implants for surgery - Active implantable medical devices - Part 7: Cochlear implant systems",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://www.iso.org/standard/67698.html",
+      "source_verified": "",
+      "category": "active_implants",
+      "standard_type": "non_harmonised",
+      "scope": "Active implantable cochlear implant systems.",
+      "applicable_gsprs": [
+        "10",
+        "14",
+        "14.1"
+      ],
+      "abstract": "Particular requirements for cochlear implant systems."
     }
   ]
 }

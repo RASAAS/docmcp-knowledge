@@ -1,0 +1,23 @@
+{
+  "standards": [
+    {
+      "id": "eu_mdr-os-iec-60601-2-66-2019",
+      "number": "IEC 60601-2-66:2019",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-66: Particular requirements for the basic safety and essential performance of hearing instruments and hearing instrument systems",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-66",
+      "source_verified": "",
+      "category": "audiology",
+      "standard_type": "non_harmonised",
+      "scope": "Hearing instruments and hearing instrument systems.",
+      "applicable_gsprs": [
+        "14",
+        "14.1"
+      ],
+      "abstract": "Particular requirements for hearing instruments."
+    }
+  ]
+}

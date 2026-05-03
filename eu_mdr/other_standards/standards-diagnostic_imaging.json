@@ -1,0 +1,251 @@
+{
+  "standards": [
+    {
+      "id": "eu_mdr-os-iec-60601-2-7-1998",
+      "number": "IEC 60601-2-7:1998",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-7: Particular requirements for the safety of high-voltage generators of diagnostic X-ray generators",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-7",
+      "source_verified": "",
+      "category": "diagnostic_imaging",
+      "standard_type": "non_harmonised",
+      "scope": "High-voltage generators of diagnostic X-ray generators.",
+      "applicable_gsprs": [
+        "14",
+        "16"
+      ],
+      "abstract": "Safety requirements for high-voltage generators of diagnostic X-ray generators."
+    },
+    {
+      "id": "eu_mdr-os-iec-60601-2-28-2017",
+      "number": "IEC 60601-2-28:2017",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-28: Particular requirements for the basic safety and essential performance of X-ray tube assemblies for medical diagnosis",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-28",
+      "source_verified": "",
+      "category": "diagnostic_imaging",
+      "standard_type": "non_harmonised",
+      "scope": "X-ray tube assemblies for medical diagnosis.",
+      "applicable_gsprs": [
+        "14",
+        "16"
+      ],
+      "abstract": "Particular requirements for X-ray tube assemblies."
+    },
+    {
+      "id": "eu_mdr-os-iec-60601-2-33-2022",
+      "number": "IEC 60601-2-33:2022",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-33: Particular requirements for the basic safety and essential performance of magnetic resonance equipment for medical diagnosis",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-33",
+      "source_verified": "",
+      "category": "diagnostic_imaging",
+      "standard_type": "non_harmonised",
+      "scope": "MRI equipment for medical diagnosis.",
+      "applicable_gsprs": [
+        "14",
+        "16"
+      ],
+      "abstract": "Particular requirements for magnetic resonance equipment for medical diagnosis."
+    },
+    {
+      "id": "eu_mdr-os-iec-60601-2-43-2022",
+      "number": "IEC 60601-2-43:2022",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-43: Particular requirements for the basic safety and essential performance of X-ray equipment for interventional procedures",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-43",
+      "source_verified": "",
+      "category": "diagnostic_imaging",
+      "standard_type": "non_harmonised",
+      "scope": "X-ray equipment for interventional procedures.",
+      "applicable_gsprs": [
+        "14",
+        "16"
+      ],
+      "abstract": "Particular requirements for interventional X-ray equipment."
+    },
+    {
+      "id": "eu_mdr-os-iec-60601-2-44-2009+amd1-2012+amd2-2016",
+      "number": "IEC 60601-2-44:2009+AMD1:2012+AMD2:2016",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-44: Particular requirements for the basic safety and essential performance of X-ray equipment for computed tomography",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-44",
+      "source_verified": "",
+      "category": "diagnostic_imaging",
+      "standard_type": "non_harmonised",
+      "scope": "X-ray equipment for computed tomography.",
+      "applicable_gsprs": [
+        "14",
+        "16"
+      ],
+      "abstract": "Particular requirements for CT X-ray equipment."
+    },
+    {
+      "id": "eu_mdr-os-iec-60601-2-45-2023",
+      "number": "IEC 60601-2-45:2023",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-45: Particular requirements for the basic safety and essential performance of mammographic X-ray equipment and mammographic stereotactic devices",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-45",
+      "source_verified": "",
+      "category": "diagnostic_imaging",
+      "standard_type": "non_harmonised",
+      "scope": "Mammographic X-ray equipment and stereotactic devices.",
+      "applicable_gsprs": [
+        "14",
+        "16"
+      ],
+      "abstract": "Particular requirements for mammographic X-ray equipment."
+    },
+    {
+      "id": "eu_mdr-os-iec-60601-2-54-2022",
+      "number": "IEC 60601-2-54:2022",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-54: Particular requirements for the basic safety and essential performance of X-ray equipment for radiography and radioscopy",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-54",
+      "source_verified": "",
+      "category": "diagnostic_imaging",
+      "standard_type": "non_harmonised",
+      "scope": "X-ray equipment for radiography and radioscopy.",
+      "applicable_gsprs": [
+        "14",
+        "16"
+      ],
+      "abstract": "Particular requirements for X-ray equipment for radiography and radioscopy."
+    },
+    {
+      "id": "eu_mdr-os-iec-62563-1-2022",
+      "number": "IEC 62563-1:2022",
+      "title": {
+        "en": "Medical electrical equipment - Medical image display systems - Part 1: Evaluation methods",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2062563-1",
+      "source_verified": "",
+      "category": "diagnostic_imaging",
+      "standard_type": "non_harmonised",
+      "scope": "Medical image display systems - Evaluation methods.",
+      "applicable_gsprs": [
+        "14",
+        "14.1"
+      ],
+      "abstract": "Evaluation methods for medical image display systems."
+    },
+    {
+      "id": "eu_mdr-os-iec-62220-1-1-2015",
+      "number": "IEC 62220-1-1:2015",
+      "title": {
+        "en": "Medical electrical equipment - Characteristics of digital X-ray imaging devices - Part 1-1: Determination of the detective quantum efficiency - Detectors used in radiographic imaging",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2062220-1-1",
+      "source_verified": "",
+      "category": "diagnostic_imaging",
+      "standard_type": "non_harmonised",
+      "scope": "DQE measurement for digital radiographic detectors.",
+      "applicable_gsprs": [
+        "14",
+        "16"
+      ],
+      "abstract": "Determination of detective quantum efficiency for digital X-ray imaging detectors in radiography."
+    },
+    {
+      "id": "eu_mdr-os-iec-62220-1-2-2007",
+      "number": "IEC 62220-1-2:2007",
+      "title": {
+        "en": "Medical electrical equipment - Characteristics of digital X-ray imaging devices - Part 1-2: Determination of the detective quantum efficiency - Detectors used in mammography",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2062220-1-2",
+      "source_verified": "",
+      "category": "diagnostic_imaging",
+      "standard_type": "non_harmonised",
+      "scope": "DQE measurement for mammographic detectors.",
+      "applicable_gsprs": [
+        "14",
+        "16"
+      ],
+      "abstract": "Determination of DQE for mammography detectors."
+    },
+    {
+      "id": "eu_mdr-os-iec-62220-1-3-2008",
+      "number": "IEC 62220-1-3:2008",
+      "title": {
+        "en": "Medical electrical equipment - Characteristics of digital X-ray imaging devices - Part 1-3: Determination of the detective quantum efficiency - Detectors used in dynamic imaging",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2062220-1-3",
+      "source_verified": "",
+      "category": "diagnostic_imaging",
+      "standard_type": "non_harmonised",
+      "scope": "DQE measurement for dynamic imaging detectors.",
+      "applicable_gsprs": [
+        "14",
+        "16"
+      ],
+      "abstract": "Determination of DQE for dynamic imaging detectors."
+    },
+    {
+      "id": "eu_mdr-os-iec-61223-3-5-2019",
+      "number": "IEC 61223-3-5:2019",
+      "title": {
+        "en": "Evaluation and routine testing in medical imaging departments - Part 3-5: Acceptance and constancy tests - Imaging performance of computed tomography X-ray equipment",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2061223-3-5",
+      "source_verified": "",
+      "category": "diagnostic_imaging",
+      "standard_type": "non_harmonised",
+      "scope": "CT imaging performance testing.",
+      "applicable_gsprs": [
+        "14",
+        "16"
+      ],
+      "abstract": "Acceptance and constancy tests for CT imaging performance."
+    },
+    {
+      "id": "eu_mdr-os-iec-62464-1-2018",
+      "number": "IEC 62464-1:2018",
+      "title": {
+        "en": "Magnetic resonance equipment for medical imaging - Part 1: Determination of essential image quality parameters",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2062464-1",
+      "source_verified": "",
+      "category": "diagnostic_imaging",
+      "standard_type": "non_harmonised",
+      "scope": "MRI image quality parameters.",
+      "applicable_gsprs": [
+        "14",
+        "16"
+      ],
+      "abstract": "Determination of essential image quality parameters for MRI equipment."
+    }
+  ]
+}

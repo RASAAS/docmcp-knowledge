@@ -64,6 +64,63 @@
       "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060068-2-6",
       "abstract": "Specifies a standard environmental test method for sinusoidal vibration testing of components and equipment.",
       "scope": "Environmental testing -- Tests -- Test Fc: Vibration (sinusoidal)."
+    },
+    {
+      "id": "eu_mdr-os-iec-60068-2-30-2005+amd1-2024",
+      "number": "IEC 60068-2-30:2005+AMD1:2024",
+      "title": {
+        "en": "Environmental testing - Part 2-30: Tests - Test Db: Damp heat, cyclic (12 h + 12 h cycle)",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060068-2-30",
+      "source_verified": "",
+      "category": "environmental_testing",
+      "standard_type": "non_harmonised",
+      "scope": "Damp heat cyclic testing.",
+      "applicable_gsprs": [
+        "14",
+        "14.5"
+      ],
+      "abstract": "Environmental damp heat cyclic test methods."
+    },
+    {
+      "id": "eu_mdr-os-iec-60068-2-78-2012",
+      "number": "IEC 60068-2-78:2012",
+      "title": {
+        "en": "Environmental testing - Part 2-78: Tests - Test Cab: Damp heat, steady state",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060068-2-78",
+      "source_verified": "",
+      "category": "environmental_testing",
+      "standard_type": "non_harmonised",
+      "scope": "Steady state damp heat testing.",
+      "applicable_gsprs": [
+        "14",
+        "14.5"
+      ],
+      "abstract": "Environmental steady-state damp heat test methods."
+    },
+    {
+      "id": "eu_mdr-os-astm-d4169-22",
+      "number": "ASTM D4169-22",
+      "title": {
+        "en": "Standard Practice for Performance Testing of Shipping Containers and Systems",
+        "zh": ""
+      },
+      "status": "active",
+      "source_url": "https://www.astm.org/d4169-22.html",
+      "source_verified": "",
+      "category": "environmental_testing",
+      "standard_type": "non_harmonised",
+      "scope": "Shipping container performance testing.",
+      "applicable_gsprs": [
+        "14",
+        "14.5"
+      ],
+      "abstract": "Performance testing methods for shipping containers and packaging systems."
     }
   ]
 }
