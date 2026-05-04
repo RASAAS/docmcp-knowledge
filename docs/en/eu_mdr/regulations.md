@@ -22,7 +22,7 @@ The following EU legislation intersects with MDR compliance requirements:
 |------------|-----------|------------------------------|---------|
 | Directive 2011/65/EU (RoHS 2) | RoHS 2 | Restriction of the use of certain hazardous substances in electrical and electronic equipment | [Full Text](./regulations/eu-reg-directive-2011-65-eu-rohs-2) |
 | Regulation (EC) No 1907/2006 (REACH) | REACH | Registration, Evaluation, Authorisation and Restriction of Chemicals | [Full Text](./regulations/eu-reg-regulation-ec-no-1907-2006-reach) |
-| Regulation (EC) No 1272/2008 (CLP) | CLP | Classification, Labelling and Packaging of Substances and Mixtures | [Full Text](./regulations/eu-reg-regulation-ec-no-1272-2008-clp) |
+| Regulation (EC) No 1272/2008 (CLP) | CLP | Classification, Labelling and Packaging of Substances and Mixtures | [EUR-Lex](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008R1272) |
 | Directive 2012/19/EU (WEEE) | WEEE | Waste Electrical and Electronic Equipment | [Full Text](./regulations/eu-reg-directive-2012-19-eu-weee) |
 | Council Directive 2013/59/Euratom | Council Directive 2013/59/Euratom | Basic safety standards for protection against the dangers arising from exposure to ionising radiation | [Full Text](./regulations/eu-reg-council-directive-2013-59-euratom) |
 | Regulation (EU) 2023/1542 (Battery Regulation) | Battery Regulation | Regulation concerning batteries and waste batteries, amending Directive 2008/98/EC and Regulation (EU) 2019/1020, repealing Directive 2006/66/EC | [Full Text](./regulations/eu-reg-regulation-eu-2023-1542-battery-regulation) |

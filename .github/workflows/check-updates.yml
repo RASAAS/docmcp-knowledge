@@ -1,11 +1,12 @@
 name: Weekly Regulatory Update Check
 
 # Batched cron schedule to avoid rate limits:
-#   Mon 02:00 UTC -> EU MDR (EUR-Lex API + Vertex AI Search)
+#   Mon 02:00 UTC -> EU MDR (EUR-Lex SPARQL API + Vertex AI Search)
 #   Wed 02:00 UTC -> FDA (RSS + OpenFDA API + Vertex AI Search)
 #   Fri 02:00 UTC -> NMPA/CMDE (Vertex AI Search primary)
 #   1st of month 03:00 UTC -> ISO/IEC shared standards (Vertex AI Search)
-# Vertex AI Search free tier: 10,000 queries/month. Google CSE kept as fallback.
+# Vertex AI Search free tier: 10,000 queries/month.
+# LLM analysis: DeepSeek (deepseek-v4-pro) via OpenAI-compatible API.
 
 on:
   schedule:
@@ -90,12 +91,10 @@ jobs:
           VERTEX_AI_PROJECT_ID: ${{ secrets.VERTEX_AI_PROJECT_ID }}
           VERTEX_AI_SEARCH_APP_ID: ${{ secrets.VERTEX_AI_SEARCH_APP_ID }}
           VERTEX_AI_SEARCH_API_KEY: ${{ secrets.VERTEX_AI_SEARCH_API_KEY }}
-          GOOGLE_SEARCH_API_KEY: ${{ secrets.GOOGLE_SEARCH_API_KEY }}
-          GOOGLE_SEARCH_ENGINE_ID: ${{ secrets.GOOGLE_SEARCH_ENGINE_ID }}
           FDA_API_KEY: ${{ secrets.FDA_API_KEY }}
           LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
           LLM_BASE_URL: ${{ secrets.LLM_BASE_URL }}
-          LLM_MODEL: ${{ vars.LLM_MODEL || 'deepseek-chat' }}
+          LLM_MODEL: ${{ vars.LLM_MODEL || 'deepseek-v4-pro' }}
         continue-on-error: true
 
       - name: Commit updated state and version registry

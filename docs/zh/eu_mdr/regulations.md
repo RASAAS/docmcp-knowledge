@@ -22,7 +22,7 @@ title: EU 法规与指令
 |----------|------|------------------|---------|
 | Directive 2011/65/EU (RoHS 2) | RoHS 2 | 限制在电子电气设备中使用某些有害物质 | [全文](./regulations/eu-reg-directive-2011-65-eu-rohs-2) |
 | Regulation (EC) No 1907/2006 (REACH) | REACH | 化学品注册、评估、授权和限制 | [全文](./regulations/eu-reg-regulation-ec-no-1907-2006-reach) |
-| Regulation (EC) No 1272/2008 (CLP) | CLP | 物质和混合物的分类、标签和包装 | [全文](./regulations/eu-reg-regulation-ec-no-1272-2008-clp) |
+| Regulation (EC) No 1272/2008 (CLP) | CLP | 物质和混合物的分类、标签和包装 | [EUR-Lex](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008R1272) |
 | Directive 2012/19/EU (WEEE) | WEEE | 废弃电子电气设备 | [全文](./regulations/eu-reg-directive-2012-19-eu-weee) |
 | Council Directive 2013/59/Euratom | Council Directive 2013/59/Euratom | 防止电离辐射危害的基本安全标准 | [全文](./regulations/eu-reg-council-directive-2013-59-euratom) |
 | Regulation (EU) 2023/1542 (Battery Regulation) | Battery Regulation | 关于电池和废电池的法规 | [全文](./regulations/eu-reg-regulation-eu-2023-1542-battery-regulation) |

@@ -54,8 +54,8 @@ VERTEX_AI_SEARCH_APP_ID = os.environ.get("VERTEX_AI_SEARCH_APP_ID", "")
 VERTEX_AI_SEARCH_API_KEY = os.environ.get("VERTEX_AI_SEARCH_API_KEY", "")
 
 # Legacy Google CSE (fallback if Vertex AI not configured; sunsets 2027-01-01)
-GOOGLE_SEARCH_API_KEY = os.environ.get("GOOGLE_SEARCH_API_KEY", "")
-GOOGLE_SEARCH_ENGINE_ID = os.environ.get("GOOGLE_SEARCH_ENGINE_ID", "")
+GOOGLE_SEARCH_API_KEY = ""  # DEPRECATED: Google CSE no longer used, Vertex AI Search only
+GOOGLE_SEARCH_ENGINE_ID = ""
 FDA_API_KEY = os.environ.get("FDA_API_KEY", "")
 
 # LLM (OneAPI-compatible, e.g. https://api.reguverse.com/v1)
@@ -64,7 +64,7 @@ FDA_API_KEY = os.environ.get("FDA_API_KEY", "")
 # LLM_MODEL     : Model name, e.g. deepseek-chat, gpt-4o-mini
 LLM_API_KEY = os.environ.get("LLM_API_KEY", "")
 LLM_BASE_URL = os.environ.get("LLM_BASE_URL", "https://api.openai.com/v1")
-LLM_MODEL = os.environ.get("LLM_MODEL", "deepseek-chat")
+LLM_MODEL = os.environ.get("LLM_MODEL", "deepseek-v4-pro")
 
 # ---------------------------------------------------------------------------
 # Source definitions
@@ -993,18 +993,14 @@ class UpdateChecker:
             VERTEX_AI_PROJECT_ID, VERTEX_AI_SEARCH_APP_ID,
             VERTEX_AI_SEARCH_API_KEY, self.state,
         )
-        self.google = GoogleSearchChecker(GOOGLE_SEARCH_API_KEY, GOOGLE_SEARCH_ENGINE_ID,
-                                          self.state)
-        self.web_search_available = self.vertex.available or self.google.available
+        self.google = GoogleSearchChecker("", "", self.state)  # DEPRECATED
+        self.web_search_available = self.vertex.available
         self.openfda = OpenFDAChecker(FDA_API_KEY, self.state)
         self.ecfr = ECFRChecker(session, self.state)
         self.eurlex = EURLexChecker(session, self.state)
         self.llm = LLMVersionAnalyzer(LLM_API_KEY, LLM_BASE_URL, LLM_MODEL)
         if self.vertex.available:
             print("INFO: Using Vertex AI Search (searchLite) for web queries.")
-        elif self.google.available:
-            print("INFO: Using legacy Google CSE (sunsets 2027-01-01). "
-                  "Set VERTEX_AI_* vars to upgrade.")
         else:
             print("INFO: No web search configured - set VERTEX_AI_PROJECT_ID + "
                   "VERTEX_AI_SEARCH_APP_ID + VERTEX_AI_SEARCH_API_KEY.")

@@ -104,8 +104,7 @@ def generate_harmonised_standards_page(categories_data: dict):
         en_lines.append("|----------|-------|----------------|")
         for s in stds:
             number = s.get("number", "")
-            title_obj = s.get("title", {})
-            title = title_obj.get("en", title_obj) if isinstance(title_obj, dict) else title_obj
+            title = _title_str(s.get("title", {}), "en")
             gsprs = s.get("applicable_gsprs", "")
             if isinstance(gsprs, list):
                 gsprs = ", ".join(str(g) for g in gsprs[:5])
@@ -155,8 +154,7 @@ def generate_harmonised_standards_page(categories_data: dict):
         zh_lines.append("|----------|------|-----------|")
         for s in stds:
             number = s.get("number", "")
-            title_obj = s.get("title", {})
-            title = title_obj.get("zh", title_obj.get("en", title_obj)) if isinstance(title_obj, dict) else title_obj
+            title = _title_str(s.get("title", {}), "zh")
             gsprs = s.get("applicable_gsprs", "")
             if isinstance(gsprs, list):
                 gsprs = ", ".join(str(g) for g in gsprs[:5])
@@ -289,9 +287,7 @@ def generate_other_standards_category_pages(categories_data: dict):
         ]
         for s in stds:
             number = s.get("number", "")
-            title_obj = s.get("title", {})
-            title = title_obj.get("en", title_obj) if isinstance(title_obj, dict) else str(title_obj)
-            title = title.replace("|", "/")
+            title = _title_str(s.get("title", {}), "en").replace("|", "/")
             scope_raw = s.get("scope", "")
             if isinstance(scope_raw, dict):
                 scope_raw = scope_raw.get("en", "") or ""
@@ -323,12 +319,10 @@ def generate_other_standards_category_pages(categories_data: dict):
         ]
         for s in stds:
             number = s.get("number", "")
-            title_obj = s.get("title", {})
-            title = title_obj.get("zh", title_obj.get("en", "")) if isinstance(title_obj, dict) else str(title_obj)
-            title = title.replace("|", "/")
+            title = _title_str(s.get("title", {}), "zh").replace("|", "/")
             scope_raw = s.get("scope", "")
             if isinstance(scope_raw, dict):
-                scope_raw = scope_raw.get("zh", scope_raw.get("en", "")) or ""
+                scope_raw = (scope_raw.get("zh", "") or scope_raw.get("en", "")) or ""
             scope = (scope_raw or "")[:80].replace("|", "/").replace("\n", " ")
             if len(scope_raw or "") > 80:
                 scope += "..."
@@ -343,6 +337,35 @@ def generate_other_standards_category_pages(categories_data: dict):
         _write_page(DOCS_ZH / "other-standards" / f"{slug}.md", "\n".join(zh_lines))
 
 
+MAX_FULLTEXT_LINES = 5000
+
+
+def _copy_fulltext_pages(fulltext_dir: Path, has_fulltext: set) -> set:
+    """Copy regulation fulltext .md files into docs/{en,zh}/eu_mdr/regulations/.
+
+    Skips files exceeding MAX_FULLTEXT_LINES (VitePress/Vue compiler limitation).
+    Returns the set of slugs that were actually deployed.
+    """
+    if not has_fulltext:
+        return set()
+    deployed = set()
+    import shutil
+    for slug in sorted(has_fulltext):
+        src = fulltext_dir / f"{slug}.md"
+        if not src.exists():
+            continue
+        line_count = sum(1 for _ in open(src))
+        if line_count > MAX_FULLTEXT_LINES:
+            print(f"  SKIP fulltext {slug} ({line_count} lines > {MAX_FULLTEXT_LINES} limit)")
+            continue
+        deployed.add(slug)
+        for lang_dir in (DOCS_EN, DOCS_ZH):
+            target = lang_dir / "regulations"
+            target.mkdir(parents=True, exist_ok=True)
+            shutil.copy2(src, target / f"{slug}.md")
+    return deployed
+
+
 def generate_regulations_page():
     """Generate the EU regulations overview page (en + zh)."""
     index_path = REG_DIR / "_index.json"
@@ -352,13 +375,14 @@ def generate_regulations_page():
     docs = [d for d in index.get("documents", []) if d.get("standard_type") == "eu_regulation"]
     core_docs = [d for d in index.get("documents", []) if d.get("id") in ("eu-mdr-2017-745", "eu-ivdr-2017-746", "eu-mdr-amendments")]
 
-    # Check for fulltext availability
     fulltext_dir = REG_DIR / "fulltext"
-    has_fulltext = set()
+    all_fulltext = set()
     if fulltext_dir.exists():
         for f in fulltext_dir.iterdir():
             if f.suffix == ".md":
-                has_fulltext.add(f.stem)
+                all_fulltext.add(f.stem)
+
+    has_fulltext = _copy_fulltext_pages(fulltext_dir, all_fulltext)
 
     en_lines = [
         "---",
@@ -378,9 +402,8 @@ def generate_regulations_page():
     ]
 
     for d in core_docs:
-        title_obj = d.get("title", {})
-        title = title_obj.get("en", "") if isinstance(title_obj, dict) else str(title_obj)
-        source = d.get("source_url", "")
+        title = _title_str(d.get("title", {}), "en")
+        source = d.get("source_url", d.get("eurlex_url", ""))
         number = d.get("number", d.get("id", ""))
         status = d.get("status", "")
         app_date = d.get("application_date", "")
@@ -404,9 +427,8 @@ def generate_regulations_page():
     ])
 
     for d in docs:
-        title_obj = d.get("title", {})
-        title = title_obj.get("en", "") if isinstance(title_obj, dict) else str(title_obj)
-        source = d.get("source_url", "")
+        title = _title_str(d.get("title", {}), "en")
+        source = d.get("source_url", d.get("eurlex_url", ""))
         number = d.get("number", "")
         slug = d.get("slug", "")
         short_name = _extract_short_name(number)
@@ -446,9 +468,8 @@ def generate_regulations_page():
     ]
 
     for d in core_docs:
-        title_obj = d.get("title", {})
-        title = title_obj.get("zh", title_obj.get("en", "")) if isinstance(title_obj, dict) else str(title_obj)
-        source = d.get("source_url", "")
+        title = _title_str(d.get("title", {}), "zh")
+        source = d.get("source_url", d.get("eurlex_url", ""))
         number = d.get("number", d.get("id", ""))
         status = d.get("status", "")
         app_date = d.get("application_date", "")
@@ -472,9 +493,8 @@ def generate_regulations_page():
     ])
 
     for d in docs:
-        title_obj = d.get("title", {})
-        title = title_obj.get("zh", title_obj.get("en", "")) if isinstance(title_obj, dict) else str(title_obj)
-        source = d.get("source_url", "")
+        title = _title_str(d.get("title", {}), "zh")
+        source = d.get("source_url", d.get("eurlex_url", ""))
         number = d.get("number", "")
         slug = d.get("slug", "")
         short_name = _extract_short_name(number)
@@ -510,9 +530,19 @@ def _extract_short_name(number: str) -> str:
     return number.split(" - ")[0] if " - " in number else number
 
 
+def _title_str(title_obj, lang: str) -> str:
+    """Safely extract a title string, with fallback to the other language."""
+    if isinstance(title_obj, dict):
+        val = title_obj.get(lang, "") or ""
+        if not val:
+            other = "en" if lang == "zh" else "zh"
+            val = title_obj.get(other, "") or ""
+        return val
+    return str(title_obj) if title_obj else ""
+
+
 def _get_cat_name_en(cat_key: str, stds: list) -> str:
     """Get English category name from first standard's metadata or key."""
-    # Look for name in _index.json-style data
     return cat_key.replace("_", " ").title()
 
 
