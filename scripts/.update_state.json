@@ -1,120 +1,6 @@
 {
-  "eu_mdr/harmonised_standards": {
-    "url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182/oj",
-    "last_checked": "2026-05-04T05:36:33.493085",
-    "last_known_amendment": "99990101",
-    "consolidated_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02021D1182-99990101"
-  },
-  "eu_mdr/harmonised_standards_oj": {
-    "url": "https://eur-lex.europa.eu/eli/dec_impl/2026/193/oj",
-    "last_checked": "2026-04-06T04:45:40.401667",
-    "status_code": 200
-  },
-  "eu_mdr/mdcg_guidance": {
-    "url": "https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en",
-    "last_checked": "2026-05-04T05:36:35.361349",
-    "seen_titles": [
-      "MDCG 2024-10 Clinical evaluation of orphan medical devices",
-      "MDCG 2022-5 rev.1 - Guidance on borderline between medical ...",
-      "MDCG 2024-3 Guidance on content of the Clinical Investigation ...",
-      "MDCG 2021-24 - Guidance on classification of medical devices",
-      "MDCG 2021-5 Rev. 1 Guidance on standardisation for medical ...",
-      "MDCG 2024-5 - Public Health - European Commission",
-      "MDCG 2021-24 Guidance on classification of medical devices",
-      "MDCG 2020-16 rev.4 - Guidance on Classification Rules for in vitro ...",
-      "MDCG 2021-24 Rev.1 Guidance on classification of medical devices",
-      "MDCG 2024-5 - Public Health"
-    ]
-  },
-  "eu_mdr/mdcg_guidance_google": {
-    "url": "https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en",
-    "last_checked": "2026-05-04T05:36:36.834814",
-    "seen_titles": [
-      "Neue Verordnungen - Public Health - Europäische Kommission",
-      "Investigazzjonijiet kliniċi u studji dwar il-prestazzjoni",
-      "PMSV reporting forms - Public Health - European Commission",
-      "Nouveaux règlements - Public Health - Commission européenne",
-      "Medical Devices: Innovation and Patient Safety - Public Health",
-      "Baza danych Eudamed - Public Health - Komisja Europejska",
-      "Topics of Interest - Public Health - European Commission",
-      "New Regulations - Public Health - European Commission",
-      "MDCG 2021-24 - Guidance on classification of medical devices",
-      "Europos medicinos priemonių duomenų bazė („Eudamed“)",
-      "MDCG 2023-4 - Medical Device Software (MDSW)",
-      "MDCG 2024-5 - Public Health - European Commission",
-      "EUDAMED - Public Health - Ευρωπαϊκή Επιτροπή",
-      "Инвитро диагностика - Public Health - Европейска комисия",
-      "MDCG 2020-16 rev.4 - Guidance on Classification Rules for in vitro ...",
-      "In vitro-diagnostik - Public Health - Europeiska kommissionen",
-      "Нови регламенти - Public Health - Европейска комисия",
-      "MDCG 2024-10 Clinical evaluation of orphan medical devices",
-      "Member State Coordination Group on HTA (HTACG) - Public Health",
-      "Nya förordningar - Public Health - Europeiska kommissionen",
-      "MDCG 2021-5 Rev. 1 Guidance on standardisation for medical ...",
-      "Noi regulamente - Public Health - Comisia Europeană",
-      "EUDAMED - Public Health - Európai Bizottság",
-      "MDCG 2021-24 Guidance on classification of medical devices",
-      "Vue d'ensemble - Public Health - Commission européenne",
-      "Nieuwe verordeningen - Public Health - Europese Commissie",
-      "Direktive - Public Health - Evropska komisija",
-      "Überblick - Public Health - Europäische Kommission",
-      "Νέοι κανονισμοί - Public Health - Ευρωπαϊκή Επιτροπή",
-      "MDCG 2022-5 rev.1 - Guidance on borderline between medical ...",
-      "Expert panels - Public Health - European Commission",
-      "EUDAMED - Comisión Europea - Public Health",
-      "Medical Device Coordination Group (MDCG) members– MD & IVD",
-      "Medical Devices - In Vitro Diagnostics - Public Health",
-      "Novos regulamentos - Public Health - Comissão Europeia",
-      "EUDAMED - Public Health - Comisión Europea",
-      "MDCG 2021-24 Rev.1 Guidance on classification of medical devices",
-      "MDCG 2024-5 - Public Health",
-      "MDCG 2023-4 - Medical Device Software (MDSW) - Public Health"
-    ]
-  },
-  "eu_mdr/team_nb": {
-    "url": "https://www.team-nb.org/",
-    "last_checked": "2026-05-04T05:36:39.147493",
-    "seen_titles": [
-      "Submission of Technical Documentation - Team-NB Position Paper",
-      "Team-NB Position Paper",
-      "Team-NB full Position Paper on Annex VII – Implementing ...",
-      "TEAM NB Position Paper on Software qualification under the IVDR V2",
-      "SCHEER - Position Paper on \"Draft Environmental Quality ...",
-      "Position Paper on MDR/IVDR revision: impact on the sector - team-nb",
-      "Team-NB Position Paper Medical Device Lifetime",
-      "Team-NB Classification of SARS Cov2 position paper"
-    ]
-  },
-  "eu_mdr/team_nb_google": {
-    "url": "https://www.team-nb.org/",
-    "last_checked": "2026-04-06T04:45:46.406270",
-    "seen_titles": [
-      "Position Paper on MDR/IVDR revision: impact on the sector - team-nb",
-      "Demonstration of Safety and Performance for Combinatorial Use of ...",
-      "Assistant, auteur/autrice sur team-nb",
-      "Team-NB documents",
-      "IVDR Technical Documentation Training for Manufacturers - team-nb",
-      "ABOUT US - team-nb",
-      "Team-NB Letter on cybersecurity in medical devices",
-      "Networking drink in Brussels - team-nb",
-      "New Member : Scarlet NB B.V. - team-nb",
-      "Team-NB-PositionPaper-Annex-VII-V1-20251216-ExecSum",
-      "Team-NB Position Paper",
-      "Team-NB-PositionPaper-Artificial-Intelligence-V1-20211006",
-      "Team-NB-PositionPaper-Off-LabelUse-V1-20221005",
-      "All news - team-nb",
-      "MDR Technical Documentation Training for Manufacturers - team-nb",
-      "Team-NB Position Paper on Demonstration of Safety and ...",
-      "team-nb: Home",
-      "New session : MDR Clinical Training for Manufacturers - team-nb",
-      "COCIR event hosted by MEP Glück - team-nb",
-      "Team-NB full Position Paper on Annex VII – Implementing ...",
-      "Team-NB full Position Paper on Annex VII",
-      "Which impact have the reduced surveillance activities of notified ..."
-    ]
-  },
   "fda/guidance_openfda": {
-    "last_checked": "2026-04-29T05:25:57.568723"
+    "last_checked": "2026-05-04T16:09:47.333819"
   },
   "fda/guidance_google": {
     "url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents",
@@ -182,8 +68,8 @@
   },
   "fda/regulations_ecfr": {
     "url": "https://www.ecfr.gov/api/versioner/v1/titles.json",
-    "last_checked": "2026-04-29T05:26:03.011258",
-    "last_amendment_date": "2026-04-27"
+    "last_checked": "2026-05-04T16:09:51.357961",
+    "last_amendment_date": "2026-04-30"
   },
   "nmpa/cmde_guidance": {
     "url": "https://www.cmde.org.cn/flfg/zdyz/",
@@ -402,9 +288,11 @@
       "IEC 60601-2-34:2024"
     ]
   },
-  "eu_mdr/harmonised_standards_consolidated": {
-    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02021D1182-20251020",
-    "last_checked": "2026-04-06T04:45:42.137605",
-    "status_code": 200
+  "eu_mdr/harmonised_standards": {
+    "url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182/oj",
+    "last_checked": "2026-05-04T16:09:42.125631",
+    "last_known_amendment": "20260407",
+    "standards_count": 51,
+    "detection_method": "sparql"
   }
 }

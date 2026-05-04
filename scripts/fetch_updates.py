@@ -291,6 +291,7 @@ class DatabaseComparator:
                 t = (entry.get("title") or {}).get(lang, "")
                 if t:
                     self.mdcg_titles.add(t.strip().lower())
+        self._mdcg_entries = mdcg.get("entries", [])
         self.db_stats["eu_mdr/mdcg"] = {"count": len(self.mdcg_ids)}
 
         stds = self._load_json(self.root / "eu_mdr" / "standards" / "_index.json")
@@ -341,7 +342,29 @@ class DatabaseComparator:
                 return ("irrelevant", "No MDCG ID pattern in title")
             mdcg_id = mdcg_match.group(1).replace("/", "-")
             normalized = f"mdcg-{mdcg_id}"
+
+            # Check for revision indicator in the search result title
+            rev_match = re.search(r"[Rr]ev[\.\s]*(\d+)", title)
+            new_rev = rev_match.group(0).strip() if rev_match else ""
+
             if normalized in self.mdcg_ids or f"MDCG {mdcg_id}" in self.mdcg_ids:
+                if new_rev:
+                    # Search result mentions a revision -- check if our DB already has it
+                    db_entry = next(
+                        (e for e in self._mdcg_entries if e.get("id") == normalized), None
+                    )
+                    db_rev = ""
+                    if db_entry:
+                        db_rev = db_entry.get("revision", "")
+                        for lang in ("zh", "en"):
+                            t = (db_entry.get("title") or {}).get(lang, "")
+                            if t and not db_rev:
+                                rm = re.search(r"[Rr]ev[\.\s]*(\d+)", t)
+                                if rm:
+                                    db_rev = rm.group(0).strip()
+                    if db_rev and db_rev.lower().replace(" ", "") == new_rev.lower().replace(" ", ""):
+                        return ("known", "")
+                    return ("update", f"Revision update: {normalized} has {new_rev} (DB: {db_rev or 'original'})")
                 return ("known", "")
             return ("new", f"New MDCG document: {mdcg_match.group(0)}")
 
@@ -773,14 +796,28 @@ class ECFRChecker:
 
 class EURLexChecker:
     """
-    Checks EUR-Lex for harmonised standards amendments.
+    Checks EUR-Lex for harmonised standards amendments via CELLAR SPARQL API.
 
-    Two-layer detection:
-    1. Consolidated date check: HEAD request to find latest consolidated version date
+    Three-layer detection:
+    1. SPARQL query: Get all consolidated versions of CID 2021/1182 from CELLAR,
+       compare latest consolidated date against last known.
     2. Standards count comparison: Compare current harmonised standards count against
-       local _index.json to detect additions/removals between amendment cycles
+       local _index.json to detect additions/removals between amendment cycles.
+    3. Fallback HEAD redirect (unreliable, kept as belt-and-suspenders).
+
+    Note: The old HEAD-redirect approach to eur-lex.europa.eu returns HTTP 202 with
+    empty body (anti-bot), so Layer 1 SPARQL is the primary detection mechanism.
     """
-    CELLAR_SEARCH = "https://eur-lex.europa.eu/search.html"
+    SPARQL_URL = "https://publications.europa.eu/webapi/rdf/sparql"
+    SPARQL_QUERY = """
+PREFIX cdm: <http://publications.europa.eu/ontology/cdm#>
+SELECT DISTINCT ?celex ?date ?consoDate WHERE {
+  ?work cdm:resource_legal_id_celex ?celex .
+  FILTER(STRSTARTS(?celex, "02021D1182"))
+  OPTIONAL { ?work cdm:work_date_document ?date . }
+  OPTIONAL { ?work cdm:work_date_creation ?consoDate . }
+} ORDER BY DESC(?celex) LIMIT 5
+"""
 
     def __init__(self, session: requests.Session, state: dict):
         self.session = session
@@ -791,45 +828,83 @@ class EURLexChecker:
         last_known_amendment = prev.get("last_known_amendment", "")
         last_known_count = prev.get("standards_count", 0)
 
+        # Ignore legacy placeholder "99990101" from old HEAD-redirect approach
+        if last_known_amendment == "99990101":
+            last_known_amendment = ""
+
+        new_consol_date = ""
+        sparql_ok = False
+
         try:
-            # Layer 1: Consolidated version date detection
-            consol_url = "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02021D1182-99990101"
-            resp = self.session.head(consol_url, timeout=15, allow_redirects=True)
-            final_url = str(resp.url) if resp.url else ""
-            date_match = re.search(r"02021D1182-(\d{8})", final_url)
-            new_consol_date = date_match.group(1) if date_match else ""
-
-            # Layer 2: Local standards count check
-            current_count = self._get_local_standards_count()
-
-            self.state[source_id] = {
-                "url": source["url"],
-                "last_checked": datetime.now().isoformat(),
-                "last_known_amendment": new_consol_date or last_known_amendment,
-                "consolidated_url": final_url,
-                "standards_count": current_count,
-            }
-
-            if not last_known_amendment:
-                print(f"    INFO: EUR-Lex baseline established (consolidated date: {new_consol_date}, count: {current_count})")
-                return None
-
-            changes = []
-            if new_consol_date and new_consol_date > last_known_amendment:
-                changes.append(f"consolidated date: {last_known_amendment} -> {new_consol_date}")
-
-            if last_known_count and current_count != last_known_count:
-                changes.append(f"standards count: {last_known_count} -> {current_count}")
-
-            if changes:
-                return _make_update(
-                    source_id, source, "eurlex_amendment",
-                    f"Harmonised standards change detected ({'; '.join(changes)})"
-                )
-            return None
+            # Layer 1: CELLAR SPARQL API -- authoritative consolidated version dates
+            new_consol_date = self._sparql_latest_consolidated()
+            if new_consol_date:
+                sparql_ok = True
+                print(f"    INFO: SPARQL latest consolidated: {new_consol_date}")
         except Exception as e:
-            print(f"    ERROR EUR-Lex: {e}")
+            print(f"    WARNING: SPARQL failed ({e}), falling back to HEAD redirect")
+
+        if not sparql_ok:
+            # Layer 3 fallback: HEAD redirect (unreliable but harmless)
+            try:
+                consol_url = "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02021D1182-99990101"
+                resp = self.session.head(consol_url, timeout=15, allow_redirects=True)
+                final_url = str(resp.url) if resp.url else ""
+                date_match = re.search(r"02021D1182-(\d{8})", final_url)
+                fallback_date = date_match.group(1) if date_match else ""
+                if fallback_date and fallback_date != "99990101":
+                    new_consol_date = fallback_date
+            except Exception:
+                pass
+
+        # Layer 2: Local standards count check
+        current_count = self._get_local_standards_count()
+
+        self.state[source_id] = {
+            "url": source["url"],
+            "last_checked": datetime.now().isoformat(),
+            "last_known_amendment": new_consol_date or last_known_amendment,
+            "standards_count": current_count,
+            "detection_method": "sparql" if sparql_ok else "head_fallback",
+        }
+
+        if not last_known_amendment:
+            print(f"    INFO: EUR-Lex baseline established (consolidated date: {new_consol_date}, count: {current_count})")
             return None
+
+        changes = []
+        if new_consol_date and new_consol_date > last_known_amendment:
+            changes.append(f"consolidated date: {last_known_amendment} -> {new_consol_date}")
+
+        if last_known_count and current_count != last_known_count:
+            changes.append(f"standards count: {last_known_count} -> {current_count}")
+
+        if changes:
+            return _make_update(
+                source_id, source, "eurlex_amendment",
+                f"Harmonised standards change detected ({'; '.join(changes)})"
+            )
+        return None
+
+    def _sparql_latest_consolidated(self) -> str:
+        """Query CELLAR SPARQL for the latest consolidated version date of CID 2021/1182.
+
+        Returns date string like '20260407' or empty string on failure.
+        """
+        resp = self.session.get(
+            self.SPARQL_URL,
+            params={"query": self.SPARQL_QUERY, "format": "application/json"},
+            timeout=30,
+        )
+        resp.raise_for_status()
+        data = resp.json()
+        bindings = data.get("results", {}).get("bindings", [])
+        if not bindings:
+            return ""
+        # CELEX format: 02021D1182-YYYYMMDD -- extract the date part from first (latest) result
+        celex = bindings[0].get("celex", {}).get("value", "")
+        match = re.search(r"02021D1182-(\d{8})", celex)
+        return match.group(1) if match else ""
 
     def _get_local_standards_count(self) -> int:
         """Get current harmonised standards count from local _index.json."""
