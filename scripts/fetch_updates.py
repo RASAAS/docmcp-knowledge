@@ -3,12 +3,13 @@
 Automated Regulatory Update Monitoring Script
 Checks official sources for new/updated regulatory content and creates update reports.
 
-Strategy (4-layer detection with DB comparison):
+Strategy (5-layer detection with DB comparison):
   Layer 1: RSS Feed          - FDA Medical Devices RSS (real-time, no anti-scraping)
   Layer 2: Structured API    - eCFR Versioner API, EUR-Lex (replaces unreliable http_head)
   Layer 3: Vertex AI Search  - Preferred: searchLite API (free 10K/month, site-restricted)
            (Google CSE)      - Legacy fallback (sunsets 2027-01-01)
   Layer 4: OpenFDA API       - FDA guidance search via official API
+  Layer 5: EC Page Scraper   - Direct HTML parsing of EC MDCG guidance page (full coverage)
   Filter:  DatabaseComparator - Compare detections against existing _index.json data
 
 Usage:
@@ -79,22 +80,10 @@ SOURCES = {
             "note": "Checks EUR-Lex for new CID amendments to base decision 2021/1182.",
         },
         "mdcg_guidance": {
-            "name": "MDCG Guidance Documents",
+            "name": "MDCG Guidance Documents (EC Page Scrape)",
             "url": "https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en",
-            "check_type": "google_search",
+            "check_type": "ec_page_scrape",
             "category": "eu_mdr/mdcg",
-            "google_query": "site:health.ec.europa.eu MDCG guidance medical devices",
-            "date_restrict": "y2",
-            "title_filter": r"MDCG\s+20\d{2}[-/]\d+",
-        },
-        "mdcg_guidance_google": {
-            "name": "MDCG Guidance (Google CSE)",
-            "url": "https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en",
-            "check_type": "google_search",
-            "category": "eu_mdr/mdcg",
-            "google_query": "MDCG guidance medical device",
-            "date_restrict": "y2",
-            "title_filter": r"MDCG\s+20\d{2}[-/]\d+",
         },
         "team_nb": {
             "name": "TEAM-NB Position Papers",
@@ -790,6 +779,191 @@ class ECFRChecker:
 
 
 # ---------------------------------------------------------------------------
+# Layer 5: EC MDCG Page Scraper -- direct HTML parsing for full MDCG coverage
+# Fetches the official EC guidance page, extracts all MDCG document references,
+# then compares against local _index.json to find new/updated documents.
+# ---------------------------------------------------------------------------
+
+class MDCGPageChecker:
+    """Scrapes EC MDCG guidance page to detect new/updated MDCG documents."""
+
+    MDCG_URL = (
+        "https://health.ec.europa.eu/medical-devices-sector/"
+        "new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en"
+    )
+
+    # Matches patterns like: MDCG 2021-24, MDCG 2024-13, MDCG 2022-5 rev.1
+    _REF_RE = re.compile(
+        r"MDCG\s+(\d{4})[-–](\d+)(?:[-/](\d+))?"
+        r"(?:\s*(?:rev\.?\s*(\d+)|v(\d+)|ADD\.?\s*(\d+)))?",
+        re.IGNORECASE,
+    )
+    _DATE_RE = re.compile(
+        r"(January|February|March|April|May|June|July|August|September|"
+        r"October|November|December)\s+(\d{4})"
+    )
+    _MONTHS = {
+        "january": "01", "february": "02", "march": "03", "april": "04",
+        "may": "05", "june": "06", "july": "07", "august": "08",
+        "september": "09", "october": "10", "november": "11", "december": "12",
+    }
+
+    def __init__(self, session: requests.Session, state: dict, db_comparator):
+        self.session = session
+        self.state = state
+        self.db_comparator = db_comparator
+
+    def check(self, source_id: str, source: dict) -> Optional[dict]:
+        """Fetch EC page, parse all MDCG refs, compare with DB."""
+        try:
+            resp = self.session.get(self.MDCG_URL, timeout=30)
+            resp.raise_for_status()
+        except Exception as e:
+            print(f"    ERROR fetching EC MDCG page: {e}")
+            return None
+
+        page_text = resp.text
+        official_docs = self._parse_mdcg_refs(page_text)
+        if not official_docs:
+            print(f"    WARNING: No MDCG refs parsed from EC page")
+            return None
+
+        print(f"    INFO: Parsed {len(official_docs)} unique MDCG documents from EC page")
+
+        new_items = []
+        update_items = []
+
+        for doc_id, info in official_docs.items():
+            classification, desc = self.db_comparator.classify(
+                "eu_mdr/mdcg", info["title"], info.get("url", ""), info.get("date", "")
+            )
+            if classification == "new":
+                new_items.append({
+                    "title": info["title"],
+                    "link": info.get("url", ""),
+                    "pub_date": info.get("date", ""),
+                    "doc_id": doc_id,
+                    "revision": info.get("revision", ""),
+                    "db_classification": "new",
+                    "db_description": desc,
+                })
+            elif classification == "update":
+                update_items.append({
+                    "title": info["title"],
+                    "link": info.get("url", ""),
+                    "pub_date": info.get("date", ""),
+                    "doc_id": doc_id,
+                    "revision": info.get("revision", ""),
+                    "db_classification": "update",
+                    "db_description": desc,
+                })
+
+        self.state[source_id] = {
+            "url": source["url"],
+            "last_checked": datetime.now().isoformat(),
+            "official_count": len(official_docs),
+        }
+
+        all_detected = new_items + update_items
+        if not all_detected:
+            return None
+
+        result = _make_update(
+            source_id, source, "ec_page_scrape",
+            f"{len(new_items)} new + {len(update_items)} updated MDCG document(s) "
+            f"detected via EC page scrape (official total: {len(official_docs)})"
+        )
+        result["new_items"] = all_detected
+        result["db_confirmed_items"] = all_detected
+        result["db_confirmed"] = True
+        result["noise_filtered"] = len(official_docs) - len(all_detected)
+        result["official_total"] = len(official_docs)
+        return result
+
+    def _parse_mdcg_refs(self, html: str) -> dict:
+        """Extract all MDCG document references from EC page HTML.
+
+        The EC page uses <tr class="ecl-table__row"> with cells:
+          - data-ecl-table-header="Reference" : contains MDCG ref + download link
+          - data-ecl-table-header="Title" : document title
+          - data-ecl-table-header="Publication" : publication date
+        """
+        docs: dict[str, dict] = {}
+
+        # Strategy: find each table row, extract Reference/Title/Publication cells
+        row_re = re.compile(r"<tr[^>]*class=\"ecl-table__row\"[^>]*>(.*?)</tr>", re.DOTALL)
+        cell_re = re.compile(
+            r'<td[^>]*data-ecl-table-header="(\w+)"[^>]*>(.*?)</td>', re.DOTALL
+        )
+
+        for row_match in row_re.finditer(html):
+            row_html = row_match.group(1)
+            cells = {}
+            for cell_match in cell_re.finditer(row_html):
+                header = cell_match.group(1)
+                content = cell_match.group(2)
+                cells[header] = content
+
+            ref_html = cells.get("Reference", "")
+            title_html = cells.get("Title", "")
+            pub_html = cells.get("Publication", "")
+
+            # Extract MDCG ID from Reference cell
+            mdcg_match = self._REF_RE.search(ref_html)
+            if not mdcg_match:
+                continue
+
+            year, num = mdcg_match.group(1), mdcg_match.group(2)
+            sub_num = mdcg_match.group(3)
+            rev = mdcg_match.group(4) or mdcg_match.group(5) or ""
+            addendum = mdcg_match.group(6) or ""
+
+            base_id = f"mdcg-{year}-{num}"
+            if sub_num:
+                base_id += f"-{sub_num}"
+
+            revision_str = ""
+            if rev:
+                revision_str = f"rev.{rev}"
+            elif addendum:
+                revision_str = f"ADD.{addendum}"
+
+            # Extract title (strip HTML tags)
+            title = re.sub(r"<[^>]+>", "", title_html).strip()
+
+            # Extract publication date
+            date_str = ""
+            pub_text = re.sub(r"<[^>]+>", "", pub_html).strip()
+            date_match = self._DATE_RE.search(pub_text)
+            if date_match:
+                month_num = self._MONTHS.get(date_match.group(1).lower(), "01")
+                date_str = f"{date_match.group(2)}-{month_num}"
+
+            # Extract download URL from Reference cell
+            url = ""
+            url_match = re.search(r'href="([^"]+)"', ref_html)
+            if url_match:
+                url = url_match.group(1)
+                if url.startswith("/"):
+                    url = f"https://health.ec.europa.eu{url}"
+
+            full_ref = mdcg_match.group(0).strip()
+
+            if base_id not in docs or revision_str:
+                docs[base_id] = {
+                    "title": title or full_ref,
+                    "revision": revision_str,
+                    "date": date_str,
+                    "url": url,
+                    "ref": full_ref,
+                }
+            elif not docs[base_id].get("revision") and revision_str:
+                docs[base_id]["revision"] = revision_str
+
+        return docs
+
+
+# ---------------------------------------------------------------------------
 # EUR-Lex Amendment checker (replaces http_head for harmonised standards)
 # Checks consolidated decision URL date suffix for new amendments
 # ---------------------------------------------------------------------------
@@ -998,6 +1172,7 @@ class UpdateChecker:
         self.openfda = OpenFDAChecker(FDA_API_KEY, self.state)
         self.ecfr = ECFRChecker(session, self.state)
         self.eurlex = EURLexChecker(session, self.state)
+        self.mdcg_scraper = MDCGPageChecker(session, self.state, self.db_comparator)
         self.llm = LLMVersionAnalyzer(LLM_API_KEY, LLM_BASE_URL, LLM_MODEL)
         if self.vertex.available:
             print("INFO: Using Vertex AI Search (searchLite) for web queries.")
@@ -1039,6 +1214,8 @@ class UpdateChecker:
             if result:
                 result = self._apply_db_comparison(result)
             return result
+        elif check_type == "ec_page_scrape":
+            return self.mdcg_scraper.check(source_id, source)
         elif check_type == "openfda_guidance":
             result = self.openfda.check(source_id, source)
             if result:
@@ -1161,6 +1338,7 @@ class UpdateChecker:
             "checkers_used": {
                 "vertex_ai_search": self.vertex.available,
                 "google_cse_legacy": self.google.available and not self.vertex.available,
+                "ec_page_scraper": True,
                 "openfda_api": True,
                 "llm_analysis": self.llm.available,
                 "db_comparator": True,
