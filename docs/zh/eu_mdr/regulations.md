@@ -1,74 +1,45 @@
 ---
-title: EU MDR 法规文本
+title: EU 法规与指令
 ---
 
-# EU MDR 法规文本
+# EU 法规与指令
 
-## 主要立法
+本节涵盖 EU MDR 框架下与医疗器械合规相关的欧盟法规和指令。包括核心的 MDR/IVDR 以及医疗器械制造商必须考虑的其他相关欧盟立法。
 
-| 文件 | OJ 参考 | 日期 | 状态 |
-|------|---------|------|------|
-| [EU MDR 2017/745](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0745) | OJ L 117, 5.5.2017 | 2017 | 现行有效 |
-| [EU IVDR 2017/746](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0746) | OJ L 117, 5.5.2017 | 2017 | 现行有效 |
-| [修正案 2020/561](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32020R0561) | OJ L 130, 24.4.2020 | 2020 | MDR 过渡期延长 |
-| [修正案 2023/607](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R0607) | OJ L 80, 20.3.2023 | 2023 | 遗留器械过渡 |
-| [修正案 2024/1860](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1860) | OJ L, 2024/1860, 9.7.2024 | 2024 | EUDAMED逐步推出、供应中断通知、IVDR过渡期延长 |
+## 核心法规
 
-## 实施时间表
+| 法规 | 标题 | 状态 | 适用日期 |
+|------|------|------|----------|
+| eu-mdr-2017-745 | [欧盟医疗器械法规 (EU) 2017/745](./regulations/eu-mdr-2017-745) | active | 2021-05-26 |
+| eu-ivdr-2017-746 | [欧盟体外诊断医疗器械法规 (EU) 2017/746](./regulations/eu-ivdr-2017-746) | active | 2022-05-26 |
+| eu-mdr-amendments | EU MDR/IVDR 修正案汇总 | active |  |
 
-| 日期 | 里程碑 |
-|------|--------|
-| 2021年5月26日 | EU MDR 2017/745 全面适用 |
-| 2024年5月26日 | Class IIb 植入类遗留器械截止 |
-| 2027年12月31日 | Class IIb 非植入类 + Class IIa 遗留器械截止 |
-| 2028年12月31日 | Class I 遗留器械截止 |
-| 2022年5月26日 | EU IVDR 2017/746 全面适用（D类 IVD）|
-| 2025年5月26日 | C类 IVD 截止 |
-| 2026年5月26日 | B类 + A类无菌 IVD 截止 |
-| 2030年12月31日 | A类非无菌 IVD 遗留器械截止（2024/1860延长） |
+## 相关 EU 法规与指令
 
-## 关键条款
+以下欧盟立法与 MDR 合规要求存在交叉：
 
-### 第10条 — 制造商一般义务
-制造商须：
-- 建立、记录、实施并维护**质量管理体系（QMS）**
-- 按附件XIV开展**临床评价**
-- 建立**上市后监督（PMS）**体系（附件III）
-- 在 **EUDAMED** 注册并分配 **UDI**
-- 指定**授权代表**（欧盟境外制造商）
-- 任命**法规合规负责人（PRRC）**
+| 法规编号 | 简称 | 与医疗器械的关系 | EUR-Lex |
+|----------|------|------------------|---------|
+| Directive 2011/65/EU (RoHS 2) | RoHS 2 | 限制在电子电气设备中使用某些有害物质 | [全文](./regulations/eu-reg-directive-2011-65-eu-rohs-2) |
+| Regulation (EC) No 1907/2006 (REACH) | REACH | 化学品注册、评估、授权和限制 | [全文](./regulations/eu-reg-regulation-ec-no-1907-2006-reach) |
+| Regulation (EC) No 1272/2008 (CLP) | CLP | 物质和混合物的分类、标签和包装 | [全文](./regulations/eu-reg-regulation-ec-no-1272-2008-clp) |
+| Directive 2012/19/EU (WEEE) | WEEE | 废弃电子电气设备 | [全文](./regulations/eu-reg-directive-2012-19-eu-weee) |
+| Council Directive 2013/59/Euratom | Council Directive 2013/59/Euratom | 防止电离辐射危害的基本安全标准 | [全文](./regulations/eu-reg-council-directive-2013-59-euratom) |
+| Regulation (EU) 2023/1542 (Battery Regulation) | Battery Regulation | 关于电池和废电池的法规 | [全文](./regulations/eu-reg-regulation-eu-2023-1542-battery-regulation) |
+| Regulation (EU) 722/2012 (TSE) | TSE | 关于使用动物源组织的有源植入式和医疗器械的特殊要求 | [全文](./regulations/eu-reg-regulation-eu-722-2012-tse) |
+| Regulation (EU) 2024/2847 (Cyber Resilience Act) | Cyber Resilience Act | 关于数字元素产品横向网络安全要求的法规（网络弹性法案） | [全文](./regulations/eu-reg-regulation-eu-2024-2847-cyber-resilience-act) |
+| Directive (EU) 2022/2555 (NIS2) | NIS2 | 关于全联盟高水平网络安全措施的指令（NIS2指令） | [全文](./regulations/eu-reg-directive-eu-2022-2555-nis2) |
+| Regulation (EU) 2024/1689 (AI Act) | AI Act | 制定人工智能统一规则的法规（人工智能法案） | [全文](./regulations/eu-reg-regulation-eu-2024-1689-ai-act) |
+| Regulation (EU) 2023/988 (GPSR) | GPSR | 通用产品安全法规 | [全文](./regulations/eu-reg-regulation-eu-2023-988-gpsr) |
+| Regulation (EU) 2024/1781 (ESPR) | ESPR | 建立可持续产品生态设计要求框架的法规（可持续产品生态设计法规） | [全文](./regulations/eu-reg-regulation-eu-2024-1781-espr) |
+| Regulation (EU) 2025/40 (PPWR) | PPWR | 关于包装和包装废弃物的法规 | [全文](./regulations/eu-reg-regulation-eu-2025-40-ppwr) |
+| Directive 2014/53/EU (RED) | RED | 无线电设备指令 - 协调成员国关于无线电设备市场投放的法律 | [全文](./regulations/eu-reg-directive-2014-53-eu-red) |
+| Regulation (EU) 2023/1230 (Machinery Regulation) | Machinery Regulation | 关于机械的法规，废除第2006/42/EC号指令 | [全文](./regulations/eu-reg-regulation-eu-2023-1230-machinery-regulation) |
+| Directive 2001/83/EC (Medicinal Products) | Medicinal Products | 关于人用药品共同体法典的指令 | [全文](./regulations/eu-reg-directive-2001-83-ec-medicinal-products) |
+| Directive (EU) 2022/2557 (CER Directive) | CER Directive | 关于关键实体弹性的指令 | [全文](./regulations/eu-reg-directive-eu-2022-2557-cer-directive) |
 
-### 第52条 — 合规评估程序
+---
 
-| 器械类别 | 程序 |
-|----------|------|
-| Class I（非无菌、非测量） | 自我声明（附件IV）|
-| Class I 无菌/测量 | QMS（附件IX）或型式检验（附件X）+ 验证（附件XI）|
-| Class IIa | QMS（附件IX）或型式检验（附件X）+ 验证（附件XI）|
-| Class IIb | QMS（附件IX）或型式检验（附件X）+ 验证（附件XI）|
-| Class III | QMS（附件IX）+ 设计档案，或型式检验（附件X）+ 合规（附件XI）|
-
-### 附件I — 通用安全和性能要求（GSPR）
-
-**第一部分 — 通用要求（GSPR 1-9）**
-- GSPR 1：器械须实现预期目的，不损害安全
-- GSPR 2：风险管理 — 尽可能降低风险（AFAP）
-- GSPR 6：收益须超过风险
-
-**第二部分 — 设计和制造要求（GSPR 10-22）**
-- GSPR 10：化学、物理、生物特性
-- GSPR 11：感染和微生物污染
-- GSPR 17：电子可编程系统 — 软件
-- GSPR 18：有源器械及与其连接的器械
-
-**第三部分 — 随附信息要求（GSPR 23）**
-- GSPR 23：标签和使用说明要求
-
-## 质量管理
-
-- **ISO 13485:2016** — 医疗器械质量管理体系（EU MDR 协调标准）
-- **EN ISO 13485:2016** — 欧洲采用版
-
-::: tip
-完整法规文本：[EUR-Lex](https://eur-lex.europa.eu)。源文件：[eu_mdr/regulations/](https://github.com/RASAAS/docmcp-knowledge/tree/main/eu_mdr/regulations)
+::: info 全文可用性
+部分法规全文已从 EUR-Lex 提取，可直接在线阅读。点击"全文"链接查看完整法规文本。
 :::

@@ -41,3 +41,7 @@ jobs:
         run: python scripts/validate_content_match.py --changed-only
         env:
           GITHUB_BASE_REF: ${{ github.base_ref }}
+
+      - name: Verify standards data consistency
+        run: python scripts/verify_standards_consistency.py --docmcp-path .
+        continue-on-error: true

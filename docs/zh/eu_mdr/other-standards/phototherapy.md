@@ -1,0 +1,13 @@
+---
+title: "光疗"
+---
+
+# 光疗
+
+本类别共 **3** 条标准。
+
+| 标准编号 | 标题 | 适用范围 | GSPR |
+|----------|------|----------|------|
+| [IEC 60601-2-57:2011+AMD1:2021](https://webstore.iec.ch/en/search?q=IEC%2060601-2-57) |  | Non-laser light source equipment for therapeutic/diagnostic use. | 14, 16 |
+| [IEC 60601-2-75:2017](https://webstore.iec.ch/en/search?q=IEC%2060601-2-75) |  | Photodynamic therapy and diagnosis equipment. | 14, 16 |
+| [IEC 60601-2-83:2019](https://webstore.iec.ch/en/search?q=IEC%2060601-2-83) |  | Home light therapy equipment. | 14, 16 |

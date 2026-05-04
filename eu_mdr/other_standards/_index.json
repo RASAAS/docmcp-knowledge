@@ -1,8 +1,8 @@
 {
   "directory": "eu_mdr/other_standards",
   "description": "International Standards (non-harmonised) applicable to medical devices under EU MDR",
-  "last_updated": "2026-05-03",
-  "total_standards": 122,
+  "last_updated": "2026-05-04",
+  "total_standards": 249,
   "categories": {
     "active_implants": {
       "name": {
@@ -361,7 +361,7 @@
         "zh": "软件与可用性 (待协调)",
         "en": "Software & Usability (Pending)"
       },
-      "count": 15,
+      "count": 14,
       "file": "standards-software.json"
     },
     "sterilization": {

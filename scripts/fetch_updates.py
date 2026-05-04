@@ -772,6 +772,14 @@ class ECFRChecker:
 # ---------------------------------------------------------------------------
 
 class EURLexChecker:
+    """
+    Checks EUR-Lex for harmonised standards amendments.
+
+    Two-layer detection:
+    1. Consolidated date check: HEAD request to find latest consolidated version date
+    2. Standards count comparison: Compare current harmonised standards count against
+       local _index.json to detect additions/removals between amendment cycles
+    """
     CELLAR_SEARCH = "https://eur-lex.europa.eu/search.html"
 
     def __init__(self, session: requests.Session, state: dict):
@@ -781,33 +789,59 @@ class EURLexChecker:
     def check(self, source_id: str, source: dict) -> Optional[dict]:
         prev = self.state.get(source_id, {})
         last_known_amendment = prev.get("last_known_amendment", "")
+        last_known_count = prev.get("standards_count", 0)
+
         try:
+            # Layer 1: Consolidated version date detection
             consol_url = "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02021D1182-99990101"
             resp = self.session.head(consol_url, timeout=15, allow_redirects=True)
             final_url = str(resp.url) if resp.url else ""
             date_match = re.search(r"02021D1182-(\d{8})", final_url)
             new_consol_date = date_match.group(1) if date_match else ""
 
+            # Layer 2: Local standards count check
+            current_count = self._get_local_standards_count()
+
             self.state[source_id] = {
                 "url": source["url"],
                 "last_checked": datetime.now().isoformat(),
                 "last_known_amendment": new_consol_date or last_known_amendment,
                 "consolidated_url": final_url,
+                "standards_count": current_count,
             }
 
             if not last_known_amendment:
-                print(f"    INFO: EUR-Lex baseline established (consolidated date: {new_consol_date})")
+                print(f"    INFO: EUR-Lex baseline established (consolidated date: {new_consol_date}, count: {current_count})")
                 return None
 
+            changes = []
             if new_consol_date and new_consol_date > last_known_amendment:
+                changes.append(f"consolidated date: {last_known_amendment} -> {new_consol_date}")
+
+            if last_known_count and current_count != last_known_count:
+                changes.append(f"standards count: {last_known_count} -> {current_count}")
+
+            if changes:
                 return _make_update(
                     source_id, source, "eurlex_amendment",
-                    f"New harmonised standards amendment detected (consolidated: {last_known_amendment} -> {new_consol_date})"
+                    f"Harmonised standards change detected ({'; '.join(changes)})"
                 )
             return None
         except Exception as e:
             print(f"    ERROR EUR-Lex: {e}")
             return None
+
+    def _get_local_standards_count(self) -> int:
+        """Get current harmonised standards count from local _index.json."""
+        index_path = ROOT / "eu_mdr" / "standards" / "_index.json"
+        if not index_path.exists():
+            return 0
+        try:
+            with open(index_path) as f:
+                data = json.load(f)
+            return data.get("total_standards", 0)
+        except Exception:
+            return 0
 
 
 # ---------------------------------------------------------------------------

@@ -9,7 +9,7 @@ const zhSidebar = Object.assign(
     '/zh/eu_mdr/': [
       { text: 'EU MDR 概述', link: '/zh/eu_mdr/' },
       {
-        text: '法规文本', link: '/zh/eu_mdr/regulations',
+        text: '法规与指令', link: '/zh/eu_mdr/regulations',
         collapsed: true,
         items: [
           { text: '第2条 — 定义', link: '/zh/eu_mdr/regulations/art-2-definitions' },
@@ -24,7 +24,7 @@ const zhSidebar = Object.assign(
         ],
       },
       {
-        text: '协调标准', link: '/zh/eu_mdr/standards',
+        text: '协调标准 (51)', link: '/zh/eu_mdr/standards',
         collapsed: true,
         items: [
           { text: '质量管理', link: '/zh/eu_mdr/standards/quality-management' },
@@ -44,6 +44,24 @@ const zhSidebar = Object.assign(
         ],
       },
       {
+        text: '其他适用标准 (249)', link: '/zh/eu_mdr/other-standards',
+        collapsed: true,
+        items: [
+          { text: '生物相容性', link: '/zh/eu_mdr/other-standards/biocompatibility' },
+          { text: '电气安全与EMC', link: '/zh/eu_mdr/other-standards/electrical-safety' },
+          { text: '软件与可用性', link: '/zh/eu_mdr/other-standards/software' },
+          { text: '灭菌', link: '/zh/eu_mdr/other-standards/sterilization' },
+          { text: '诊断成像', link: '/zh/eu_mdr/other-standards/diagnostic-imaging' },
+          { text: '植入材料', link: '/zh/eu_mdr/other-standards/implant-materials' },
+          { text: '辐射防护', link: '/zh/eu_mdr/other-standards/radiation-protection' },
+          { text: '呼吸气路', link: '/zh/eu_mdr/other-standards/breathing-gas-pathways' },
+          { text: '患者监护', link: '/zh/eu_mdr/other-standards/patient-monitoring' },
+          { text: '外科植入物', link: '/zh/eu_mdr/other-standards/surgical-implants' },
+          { text: '环境测试', link: '/zh/eu_mdr/other-standards/environmental-testing' },
+          { text: '包装', link: '/zh/eu_mdr/other-standards/packaging' },
+        ],
+      },
+      {
         text: 'MDCG 指南', link: '/zh/eu_mdr/mdcg',
         collapsed: true,
         items: [
@@ -53,7 +71,7 @@ const zhSidebar = Object.assign(
           { text: 'PMCF评估报告模板', link: '/zh/eu_mdr/mdcg/mdcg-2020-8' },
           { text: 'SSCP指南', link: '/zh/eu_mdr/mdcg/mdcg-2019-9' },
           { text: 'PSUR指南', link: '/zh/eu_mdr/mdcg/mdcg-2022-21' },
-          { text: '器械分类指南', link: '/zh/eu_mdr/mdcg/mdcg-2021-24' },
+          { text: '器械分类指南 (rev.1)', link: '/zh/eu_mdr/mdcg/mdcg-2021-24' },
           { text: '软件临床评价', link: '/zh/eu_mdr/mdcg/mdcg-2020-1' },
           { text: '网络安全指南', link: '/zh/eu_mdr/mdcg/mdcg-2019-16' },
           { text: '临床调查豁免', link: '/zh/eu_mdr/mdcg/mdcg-2023-7' },
@@ -157,7 +175,7 @@ export default defineConfig({
             '/en/eu_mdr/': [
               { text: 'EU MDR Overview', link: '/en/eu_mdr/' },
               {
-                text: 'Regulations', link: '/en/eu_mdr/regulations',
+                text: 'Regulations & Directives', link: '/en/eu_mdr/regulations',
                 collapsed: true,
                 items: [
                   { text: 'Article 2 — Definitions', link: '/en/eu_mdr/regulations/art-2-definitions' },
@@ -172,7 +190,7 @@ export default defineConfig({
                 ],
               },
               {
-                text: 'Harmonised Standards', link: '/en/eu_mdr/standards',
+                text: 'Harmonised Standards (51)', link: '/en/eu_mdr/standards',
                 collapsed: true,
                 items: [
                   { text: 'Quality Management', link: '/en/eu_mdr/standards/quality-management' },
@@ -192,6 +210,24 @@ export default defineConfig({
                 ],
               },
               {
+                text: 'Other Standards (249)', link: '/en/eu_mdr/other-standards',
+                collapsed: true,
+                items: [
+                  { text: 'Biocompatibility', link: '/en/eu_mdr/other-standards/biocompatibility' },
+                  { text: 'Electrical Safety & EMC', link: '/en/eu_mdr/other-standards/electrical-safety' },
+                  { text: 'Software & Usability', link: '/en/eu_mdr/other-standards/software' },
+                  { text: 'Sterilization', link: '/en/eu_mdr/other-standards/sterilization' },
+                  { text: 'Diagnostic Imaging', link: '/en/eu_mdr/other-standards/diagnostic-imaging' },
+                  { text: 'Implant Materials', link: '/en/eu_mdr/other-standards/implant-materials' },
+                  { text: 'Radiation Protection', link: '/en/eu_mdr/other-standards/radiation-protection' },
+                  { text: 'Breathing Gas Pathways', link: '/en/eu_mdr/other-standards/breathing-gas-pathways' },
+                  { text: 'Patient Monitoring', link: '/en/eu_mdr/other-standards/patient-monitoring' },
+                  { text: 'Surgical Implants', link: '/en/eu_mdr/other-standards/surgical-implants' },
+                  { text: 'Environmental Testing', link: '/en/eu_mdr/other-standards/environmental-testing' },
+                  { text: 'Packaging', link: '/en/eu_mdr/other-standards/packaging' },
+                ],
+              },
+              {
                 text: 'MDCG Guidance', link: '/en/eu_mdr/mdcg',
                 collapsed: true,
                 items: [
@@ -201,7 +237,7 @@ export default defineConfig({
                   { text: 'PMCF Evaluation Report Template', link: '/en/eu_mdr/mdcg/mdcg-2020-8' },
                   { text: 'SSCP Guidance', link: '/en/eu_mdr/mdcg/mdcg-2019-9' },
                   { text: 'PSUR Guidance', link: '/en/eu_mdr/mdcg/mdcg-2022-21' },
-                  { text: 'Device Classification', link: '/en/eu_mdr/mdcg/mdcg-2021-24' },
+                  { text: 'Device Classification (rev.1)', link: '/en/eu_mdr/mdcg/mdcg-2021-24' },
                   { text: 'Software Clinical Evaluation', link: '/en/eu_mdr/mdcg/mdcg-2020-1' },
                   { text: 'Cybersecurity Guidance', link: '/en/eu_mdr/mdcg/mdcg-2019-16' },
                   { text: 'Clinical Investigation Exemptions', link: '/en/eu_mdr/mdcg/mdcg-2023-7' },

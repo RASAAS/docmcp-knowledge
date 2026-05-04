@@ -1,0 +1,14 @@
+---
+title: "新生儿"
+---
+
+# 新生儿
+
+本类别共 **4** 条标准。
+
+| 标准编号 | 标题 | 适用范围 | GSPR |
+|----------|------|----------|------|
+| [IEC 60601-2-19:2009+AMD1:2016](https://webstore.iec.ch/en/search?q=IEC%2060601-2-19) |  | Infant incubators. | 14, 14.6 |
+| [IEC 60601-2-20:2020](https://webstore.iec.ch/en/search?q=IEC%2060601-2-20) |  | Infant transport incubators. | 14, 14.6 |
+| [IEC 60601-2-21:2020](https://webstore.iec.ch/en/search?q=IEC%2060601-2-21) |  | Infant radiant warmers. | 14, 14.6 |
+| [IEC 60601-2-50:2020](https://webstore.iec.ch/en/search?q=IEC%2060601-2-50) |  | Infant phototherapy equipment. | 14, 14.6 |

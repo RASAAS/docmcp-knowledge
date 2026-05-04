@@ -140,6 +140,15 @@ jobs:
           git diff --staged --quiet || git commit -m "chore: regenerate Markdown from JSON data [skip ci]"
           git push || true
 
+      - name: Regenerate standards display pages
+        if: steps.report.outputs.db_confirmed != '0' || steps.report.outputs.confirmed != '0'
+        run: |
+          echo "Regenerating standards pages from category JSON..."
+          python scripts/generate_standards_pages.py
+          git add docs/en/eu_mdr/ docs/zh/eu_mdr/ eu_mdr/standards/_index.json eu_mdr/other_standards/_index.json || true
+          git diff --staged --quiet || git commit -m "chore: regenerate standards display pages [skip ci]"
+          git push || true
+
       - name: Notify VPS backend to refresh knowledge index
         if: steps.report.outputs.db_confirmed != '0' || steps.report.outputs.confirmed != '0'
         run: |

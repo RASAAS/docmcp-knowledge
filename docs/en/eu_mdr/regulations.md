@@ -1,85 +1,45 @@
 ---
-title: EU MDR Regulations
+title: EU Regulations & Directives
 ---
 
-# EU MDR Regulations
+# EU Regulations & Directives
 
-## Primary Legislation
+This section covers EU regulations and directives relevant to medical device compliance under the EU MDR framework. These include both the core MDR/IVDR and other cross-cutting EU legislation that medical device manufacturers must consider.
 
-| Document | OJ Reference | Date | Status |
-|----------|-------------|------|--------|
-| [EU MDR 2017/745](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0745) | OJ L 117, 5.5.2017 | 2017 | In force |
-| [EU IVDR 2017/746](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0746) | OJ L 117, 5.5.2017 | 2017 | In force |
-| [Amendment 2020/561](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32020R0561) | OJ L 130, 24.4.2020 | 2020 | MDR transition extension |
-| [Amendment 2023/607](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R0607) | OJ L 80, 20.3.2023 | 2023 | Legacy device transition |
-| [Regulation 2024/1860](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1860) | OJ L, 2024/1860, 9.7.2024 | 2024 | Gradual Eudamed roll-out, supply interruption notification, IVDR transition extension |
+## Core Regulations
 
-## Implementation Timeline
+| Regulation | Title | Status | Application Date |
+|------------|-------|--------|-----------------|
+| eu-mdr-2017-745 | [Regulation (EU) 2017/745 on Medical Devices](./regulations/eu-mdr-2017-745) | active | 2021-05-26 |
+| eu-ivdr-2017-746 | [Regulation (EU) 2017/746 on In Vitro Diagnostic Medical Devices](./regulations/eu-ivdr-2017-746) | active | 2022-05-26 |
+| eu-mdr-amendments | EU MDR/IVDR Amendments Summary | active |  |
 
-| Date | Milestone |
-|------|-----------|
-| 26 May 2021 | EU MDR 2017/745 fully applicable |
-| 26 May 2024 | Class IIb implantable legacy devices deadline |
-| 31 Dec 2027 | Class IIb non-implantable + Class IIa legacy devices deadline |
-| 31 Dec 2028 | Class I legacy devices deadline |
-| 26 May 2022 | EU IVDR 2017/746 fully applicable (Class D IVDs) |
-| 26 May 2025 | Class C IVDs deadline |
-| 26 May 2026 | Class B + Class A sterile IVDs deadline |
-| 31 Dec 2030 | Class A non-sterile IVD legacy devices deadline (extended by 2024/1860) |
+## Related EU Regulations & Directives
 
-## Key Articles
+The following EU legislation intersects with MDR compliance requirements:
 
-### Article 10 — General Obligations of Manufacturers
-Manufacturers must:
-- Establish, document, implement and maintain a **Quality Management System (QMS)**
-- Conduct **clinical evaluation** in accordance with Annex XIV
-- Establish a **post-market surveillance (PMS)** system per Annex III
-- Register in **EUDAMED** and assign a **UDI**
-- Designate an **Authorized Representative** (if outside EU)
-- Appoint a **Person Responsible for Regulatory Compliance (PRRC)**
+| Regulation | Short Name | Relevance to Medical Devices | EUR-Lex |
+|------------|-----------|------------------------------|---------|
+| Directive 2011/65/EU (RoHS 2) | RoHS 2 | Restriction of the use of certain hazardous substances in electrical and electronic equipment | [Full Text](./regulations/eu-reg-directive-2011-65-eu-rohs-2) |
+| Regulation (EC) No 1907/2006 (REACH) | REACH | Registration, Evaluation, Authorisation and Restriction of Chemicals | [Full Text](./regulations/eu-reg-regulation-ec-no-1907-2006-reach) |
+| Regulation (EC) No 1272/2008 (CLP) | CLP | Classification, Labelling and Packaging of Substances and Mixtures | [Full Text](./regulations/eu-reg-regulation-ec-no-1272-2008-clp) |
+| Directive 2012/19/EU (WEEE) | WEEE | Waste Electrical and Electronic Equipment | [Full Text](./regulations/eu-reg-directive-2012-19-eu-weee) |
+| Council Directive 2013/59/Euratom | Council Directive 2013/59/Euratom | Basic safety standards for protection against the dangers arising from exposure to ionising radiation | [Full Text](./regulations/eu-reg-council-directive-2013-59-euratom) |
+| Regulation (EU) 2023/1542 (Battery Regulation) | Battery Regulation | Regulation concerning batteries and waste batteries, amending Directive 2008/98/EC and Regulation (EU) 2019/1020, repealing Directive 2006/66/EC | [Full Text](./regulations/eu-reg-regulation-eu-2023-1542-battery-regulation) |
+| Regulation (EU) 722/2012 (TSE) | TSE | Concerning particular requirements as regards the requirements laid down in Council Directives 90/385/EEC and 93/42/EEC with respect to active implantable medical devices and medical devices manufactured utilising tissues of animal origin | [Full Text](./regulations/eu-reg-regulation-eu-722-2012-tse) |
+| Regulation (EU) 2024/2847 (Cyber Resilience Act) | Cyber Resilience Act | Regulation on horizontal cybersecurity requirements for products with digital elements (CRA) | [Full Text](./regulations/eu-reg-regulation-eu-2024-2847-cyber-resilience-act) |
+| Directive (EU) 2022/2555 (NIS2) | NIS2 | Directive on measures for a high common level of cybersecurity across the Union (NIS 2 Directive) | [Full Text](./regulations/eu-reg-directive-eu-2022-2555-nis2) |
+| Regulation (EU) 2024/1689 (AI Act) | AI Act | Regulation laying down harmonised rules on artificial intelligence (Artificial Intelligence Act) | [Full Text](./regulations/eu-reg-regulation-eu-2024-1689-ai-act) |
+| Regulation (EU) 2023/988 (GPSR) | GPSR | General Product Safety Regulation | [Full Text](./regulations/eu-reg-regulation-eu-2023-988-gpsr) |
+| Regulation (EU) 2024/1781 (ESPR) | ESPR | Regulation establishing a framework for setting ecodesign requirements for sustainable products (Ecodesign for Sustainable Products Regulation) | [Full Text](./regulations/eu-reg-regulation-eu-2024-1781-espr) |
+| Regulation (EU) 2025/40 (PPWR) | PPWR | Regulation on packaging and packaging waste, amending Regulation (EU) 2019/1020 and Directive (EU) 2019/904, and repealing Directive 94/62/EC | [Full Text](./regulations/eu-reg-regulation-eu-2025-40-ppwr) |
+| Directive 2014/53/EU (RED) | RED | Radio Equipment Directive - harmonisation of the laws of the Member States relating to the making available on the market of radio equipment | [Full Text](./regulations/eu-reg-directive-2014-53-eu-red) |
+| Regulation (EU) 2023/1230 (Machinery Regulation) | Machinery Regulation | Regulation on machinery and repealing Directive 2006/42/EC | [Full Text](./regulations/eu-reg-regulation-eu-2023-1230-machinery-regulation) |
+| Directive 2001/83/EC (Medicinal Products) | Medicinal Products | Directive on the Community code relating to medicinal products for human use | [Full Text](./regulations/eu-reg-directive-2001-83-ec-medicinal-products) |
+| Directive (EU) 2022/2557 (CER Directive) | CER Directive | Directive on the resilience of critical entities | [Full Text](./regulations/eu-reg-directive-eu-2022-2557-cer-directive) |
 
-### Article 52 — Conformity Assessment Procedures
+---
 
-| Device Class | Procedure |
-|-------------|----------|
-| Class I (non-sterile, non-measuring) | Self-declaration (Annex IV) |
-| Class I sterile / measuring | QMS (Annex IX) or Type Examination (Annex X) + Verification (Annex XI) |
-| Class IIa | QMS (Annex IX) or Type Examination (Annex X) + Verification (Annex XI) |
-| Class IIb | QMS (Annex IX) or Type Examination (Annex X) + Verification (Annex XI) |
-| Class III | QMS (Annex IX) + Design Dossier, or Type Examination (Annex X) + Conformity (Annex XI) |
-
-### Annex I — General Safety and Performance Requirements (GSPR)
-
-Annex I contains requirements across 3 parts:
-
-**Part I — General Requirements (GSPR 1–9)**
-- GSPR 1: Devices shall achieve intended purpose, not compromise safety
-- GSPR 2: Risk management — reduce risks as far as possible (ALARP)
-- GSPR 3: Known and foreseeable risks minimized
-- GSPR 6: Benefits shall outweigh risks
-
-**Part II — Requirements for Design and Manufacture (GSPR 10–22)**
-- GSPR 10: Chemical, physical, biological properties
-- GSPR 11: Infection and microbial contamination
-- GSPR 17: Electronic programmable systems — software
-- GSPR 18: Active devices and devices connected to them
-
-**Part III — Requirements for Information Supplied with the Device (GSPR 23)**
-- GSPR 23: Label and instructions for use requirements
-
-## Quality Management
-
-- **ISO 13485:2016** — Medical devices QMS (harmonised under EU MDR)
-- **EN ISO 13485:2016** — European adoption
-
-## Related Legislation
-
-| Regulation | Topic |
-|------------|-------|
-| [Regulation (EU) 2022/123](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R0123) | EUDAMED and Notified Bodies |
-| [Directive 2006/42/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32006L0042) | Machinery Directive |
-| [Regulation (EU) 2016/679](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0679) | GDPR (data protection) |
-
-::: tip
-Full regulation texts at [EUR-Lex](https://eur-lex.europa.eu). Source files in [eu_mdr/regulations/](https://github.com/RASAAS/docmcp-knowledge/tree/main/eu_mdr/regulations).
+::: info Fulltext Availability
+Where available, regulation full texts are extracted from EUR-Lex and can be viewed directly. Click the "Full Text" link to access the complete regulatory text.
 :::
