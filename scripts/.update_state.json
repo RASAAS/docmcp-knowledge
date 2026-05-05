@@ -295,22 +295,15 @@
   },
   "eu_mdr/harmonised_standards": {
     "url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182/oj",
-    "last_checked": "2026-05-04T16:34:54.858774",
+    "last_checked": "2026-05-04T16:56:53.508080",
     "last_known_amendment": "20260407",
     "standards_count": 51,
     "detection_method": "sparql"
   },
   "eu_mdr/mdcg_guidance": {
     "url": "https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en",
-    "last_checked": "2026-05-04T16:34:57.000720",
-    "seen_titles": [
-      "MDCG 2021-5 Rev. 1 Guidance on standardisation for medical ...",
-      "MDCG 2021-24 Rev.1 Guidance on classification of medical devices",
-      "MDCG 2021-24 - Guidance on classification of medical devices",
-      "MDCG 2024-10 Clinical evaluation of orphan medical devices",
-      "MDCG 2022-5 rev.1 - Guidance on borderline between medical ...",
-      "MDCG 2024-5 - Public Health"
-    ]
+    "last_checked": "2026-05-04T16:56:55.460491",
+    "official_count": 125
   },
   "eu_mdr/mdcg_guidance_google": {
     "url": "https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en",
