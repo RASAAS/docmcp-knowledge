@@ -127,12 +127,21 @@ def derive_l1_codes(codes: list[str], code_to_l1: dict) -> list[str]:
 
 def main():
     dry_run = "--dry-run" in sys.argv
+    diff_only = "--diff" in sys.argv
 
     valid_l2, valid_l3, code_to_l1 = load_valid_codes(CATALOG_PATH)
     print(f"Loaded catalog: {len(valid_l2)} L2 codes, {len(valid_l3)} L3 codes")
 
     with open(INDEX_PATH, encoding="utf-8") as f:
         index = json.load(f)
+
+    old_codes_map = {}
+    if diff_only:
+        for e in index.get("entries", []):
+            old_codes_map[e.get("slug", "")] = {
+                "codes": e.get("classification_codes", []),
+                "confidence": e.get("classification_confidence", "none"),
+            }
 
     zh_files = {
         f.replace(".zh.md", ""): GUIDANCE_DIR / f
@@ -190,6 +199,30 @@ def main():
     print(f"  Cross-cutting: {stats['cross_cutting']}")
     print(f"  No association: {stats['none']}")
     print(f"  Total: {sum(stats.values())}")
+
+    if diff_only:
+        changes = []
+        for e in index["entries"]:
+            slug = e.get("slug", "")
+            new_codes = e.get("classification_codes", [])
+            new_conf = e.get("classification_confidence", "none")
+            old = old_codes_map.get(slug, {"codes": [], "confidence": "none"})
+            if new_codes != old["codes"] or new_conf != old["confidence"]:
+                title = e.get("title", {})
+                if isinstance(title, dict):
+                    title = title.get("zh", "") or title.get("en", "")
+                changes.append({
+                    "slug": slug,
+                    "title": title[:50] if isinstance(title, str) else str(title)[:50],
+                    "old_codes": old["codes"],
+                    "new_codes": new_codes,
+                    "old_conf": old["confidence"],
+                    "new_conf": new_conf,
+                })
+        print(f"\n[diff] {len(changes)} entries changed:")
+        for c in changes[:30]:
+            print(f"  {c['slug']}: {c['old_codes']}->{c['new_codes']} ({c['old_conf']}->{c['new_conf']})")
+        return
 
     if dry_run:
         print("\n[DRY RUN] Showing samples:")

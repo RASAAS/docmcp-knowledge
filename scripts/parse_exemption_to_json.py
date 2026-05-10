@@ -125,8 +125,46 @@ def parse_table(text: str) -> list[dict]:
     return entries
 
 
+def _load_existing_entries() -> list[dict]:
+    if not OUT_PATH.exists():
+        return []
+    try:
+        with open(OUT_PATH, encoding="utf-8") as f:
+            data = json.load(f)
+        return data.get("entries", [])
+    except Exception:
+        return []
+
+
+def _diff_entries(old: list[dict], new: list[dict]) -> dict:
+    def _key(e):
+        return (e.get("classification_code", ""), e.get("product_name", ""))
+
+    old_map = {_key(e): e for e in old}
+    new_map = {_key(e): e for e in new}
+    old_keys = set(old_map.keys())
+    new_keys = set(new_map.keys())
+
+    added = sorted(new_keys - old_keys)
+    removed = sorted(old_keys - new_keys)
+    changed = []
+    for k in sorted(old_keys & new_keys):
+        if old_map[k] != new_map[k]:
+            changed.append(k)
+
+    return {
+        "added_count": len(added),
+        "removed_count": len(removed),
+        "changed_count": len(changed),
+        "added": added[:15],
+        "removed": removed[:15],
+        "changed": changed[:15],
+    }
+
+
 def main():
     dry_run = "--dry-run" in sys.argv
+    diff_only = "--diff" in sys.argv
 
     if not SRC_PATH.exists():
         print(f"Source not found: {SRC_PATH}")
@@ -147,6 +185,21 @@ def main():
     print(f"\nL1-level exemptions ({len(l1_entries)}):")
     for e in l1_entries:
         print(f"  {e['classification_code']} {e['product_name'][:40]} [{e['device_class']}]")
+
+    if diff_only:
+        old = _load_existing_entries()
+        d = _diff_entries(old, entries)
+        print(f"\n[diff] old={len(old)} new={len(entries)}")
+        print(f"  added={d['added_count']} removed={d['removed_count']} changed={d['changed_count']}")
+        if d["added"]:
+            print(f"  added (first 15):")
+            for k in d["added"]:
+                print(f"    {k}")
+        if d["removed"]:
+            print(f"  removed (first 15):")
+            for k in d["removed"]:
+                print(f"    {k}")
+        return
 
     if dry_run:
         print("\n[DRY RUN] First 5 L3 entries:")

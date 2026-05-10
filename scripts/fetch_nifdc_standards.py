@@ -20,9 +20,11 @@ Output:
     docmcp-knowledge/nmpa/standards/master/meta.json       (run metadata)
 
 Usage:
-    python scripts/fetch_nifdc_standards.py --fetch        # crawl + write
-    python scripts/fetch_nifdc_standards.py --dry-run      # crawl, print summary, no write
-    python scripts/fetch_nifdc_standards.py --max-pages 5  # limit pages for testing
+    python scripts/fetch_nifdc_standards.py --fetch           # full crawl + overwrite
+    python scripts/fetch_nifdc_standards.py --incremental     # crawl + diff + merge-write
+    python scripts/fetch_nifdc_standards.py --diff-only       # crawl + diff report only (no write)
+    python scripts/fetch_nifdc_standards.py --dry-run         # crawl, print summary, no write
+    python scripts/fetch_nifdc_standards.py --max-pages 5     # limit pages for testing
 
 This script is **not** wired into CI. Run it locally when refreshing the
 standards index. Be respectful: 0.5-1s sleep between requests, retry on
@@ -224,15 +226,63 @@ def filter_active_only(rows: list[dict]) -> list[dict]:
     return [r for r in rows if r.get("status") in ("active", "upcoming")]
 
 
+def _load_existing() -> dict[str, dict]:
+    """Load existing standards.json into a dict keyed by standard number."""
+    out_path = OUT_DIR / "standards.json"
+    if not out_path.exists():
+        return {}
+    try:
+        with open(out_path, "r", encoding="utf-8") as f:
+            items = json.load(f)
+        return {r["number"]: r for r in items if isinstance(r, dict) and "number" in r}
+    except Exception as e:
+        print(f"[warn] could not load existing standards.json: {e}")
+        return {}
+
+
+def _compute_diff(existing: dict[str, dict], fetched: list[dict]) -> dict:
+    """Compare fetched data with existing and return a diff report."""
+    fetched_map = {r["number"]: r for r in fetched}
+    existing_nums = set(existing.keys())
+    fetched_nums = set(fetched_map.keys())
+
+    added = sorted(fetched_nums - existing_nums)
+    removed = sorted(existing_nums - fetched_nums)
+
+    changed: list[dict] = []
+    for num in sorted(existing_nums & fetched_nums):
+        old, new = existing[num], fetched_map[num]
+        diffs = {}
+        for field in ("title_zh", "status", "status_zh", "effective_date", "approval_date"):
+            ov, nv = old.get(field, ""), new.get(field, "")
+            if ov != nv:
+                diffs[field] = {"old": ov, "new": nv}
+        if diffs:
+            changed.append({"number": num, "fields": diffs})
+
+    return {
+        "added_count": len(added),
+        "removed_count": len(removed),
+        "changed_count": len(changed),
+        "added": added[:20],
+        "removed": removed[:20],
+        "changed": changed[:20],
+    }
+
+
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--fetch", action="store_true", help="Crawl and write JSON outputs")
     ap.add_argument("--dry-run", action="store_true", help="Crawl but do not write")
+    ap.add_argument("--incremental", action="store_true",
+                     help="Crawl, compare with existing, show diff, and merge (new+changed)")
+    ap.add_argument("--diff-only", action="store_true",
+                     help="Like --incremental but only print diff report, no write")
     ap.add_argument("--max-pages", type=int, default=None, help="Limit pages (for testing)")
     ap.add_argument("--include-other", action="store_true", help="Include non-active standards")
     args = ap.parse_args()
 
-    if not (args.fetch or args.dry_run):
+    if not (args.fetch or args.dry_run or args.incremental or args.diff_only):
         ap.print_help()
         return 1
 
@@ -246,6 +296,26 @@ def main() -> int:
     if args.dry_run:
         print(json.dumps(rows[:3], ensure_ascii=False, indent=2))
         return 0
+
+    if args.incremental or args.diff_only:
+        existing = _load_existing()
+        diff = _compute_diff(existing, rows)
+        print(f"\n[diff] added={diff['added_count']}, removed={diff['removed_count']}, changed={diff['changed_count']}")
+        if diff["added"]:
+            print(f"  added (first 20): {diff['added']}")
+        if diff["removed"]:
+            print(f"  removed (first 20): {diff['removed']}")
+        if diff["changed"]:
+            for c in diff["changed"]:
+                print(f"  changed: {c['number']} -> {c['fields']}")
+        meta["mode"] = "incremental"
+        meta["diff_summary"] = {
+            "added": diff["added_count"],
+            "removed": diff["removed_count"],
+            "changed": diff["changed_count"],
+        }
+        if args.diff_only:
+            return 0
 
     out_path = OUT_DIR / "standards.json"
     meta_path = OUT_DIR / "meta.json"
