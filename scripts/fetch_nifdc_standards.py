@@ -57,8 +57,8 @@ OUT_DIR = ROOT / "nmpa" / "standards" / "master"
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 
 LIST_URL = "https://app.nifdc.org.cn/biaogzx/qxqwk.do"
+LIST_ACTION_URL = LIST_URL + "?formAction=list"
 DEFAULT_TIMEOUT = 20
-DEFAULT_PAGE_SIZE = 100  # NIFDC default
 SLEEP_BETWEEN = 0.6  # seconds
 MAX_RETRIES = 3
 USER_AGENT = (
@@ -100,33 +100,24 @@ def _request_with_retry(
 
 
 def _parse_listing_page(html: str) -> tuple[list[dict], dict]:
-    """
-    Parse one listing page. Returns (rows, page_info).
-    page_info contains best-effort total/page hints when available.
+    """Parse one listing page. Returns (rows, page_info).
+
+    The NIFDC page structures data across **multiple** ``<table>`` elements,
+    one per classification sub-directory. We iterate all tables and collect
+    every data row that matches the expected column layout.
     """
     soup = BeautifulSoup(html, "html.parser")
     rows: list[dict] = []
-    # The data table is a <table> immediately containing rows starting at index >= 1.
     for table in soup.find_all("table"):
-        head_cells = [c.get_text(strip=True) for c in table.find_all("th")]
-        if not head_cells:
-            # Fallback: detect by first row containing 标准编号
-            first_tr = table.find("tr")
-            if not first_tr:
-                continue
-            head_cells = [c.get_text(strip=True) for c in first_tr.find_all(["td", "th"])]
-        if not any("标准编号" in h for h in head_cells):
-            continue
-
         for tr in table.find_all("tr"):
             tds = tr.find_all("td")
             if len(tds) < 8:
                 continue
             cells = [td.get_text(strip=True) for td in tds]
-            # Layout (verified 2026-05-10):
-            #   [seq, dir_name, l1, l2, std_number, std_title, approval, effective, status, action]
-            # Some rows have 9 columns when "操作" is omitted.
             if not re.match(r"^\d+$", cells[0]):
+                continue
+            # Guard: cells[4] must look like a standard number (GB/YY/...)
+            if not re.match(r"^[A-Za-z]", cells[4]):
                 continue
             try:
                 row = {
@@ -143,17 +134,7 @@ def _parse_listing_page(html: str) -> tuple[list[dict], dict]:
             except Exception:
                 continue
             rows.append(row)
-        break
-
-    # Pagination text -- best-effort; NIFDC shows e.g. "共 1234 条/12 页".
     page_info: dict = {}
-    text_blob = soup.get_text(" ")
-    m = re.search(r"\u5171\s*(\d+)\s*\u6761", text_blob)
-    if m:
-        page_info["total_records"] = int(m.group(1))
-    m2 = re.search(r"\u5171\s*\d+\s*\u6761\s*/\s*(\d+)\s*\u9875", text_blob)
-    if m2:
-        page_info["total_pages"] = int(m2.group(1))
     return rows, page_info
 
 
@@ -179,28 +160,35 @@ def _stable_id(number: str) -> str:
 
 
 def fetch_all(max_pages: Optional[int] = None) -> tuple[list[dict], dict]:
+    """Paginate the full standards list (general + professional domains).
+
+    NIFDC ``qxqwk.do`` lists only 228 general-domain standards by default. To
+    fetch ALL 2100+ standards (including the professional/specialized domain),
+    we use the ``istiaojian`` query parameter -- any non-empty value triggers
+    the full-catalog pagination. Each page returns up to ~300 rows (from
+    multiple ``<table>`` elements). We paginate with ``index=N`` in the URL.
+
+    Stops when two consecutive pages yield zero new (de-duped) rows.
+    """
     session = _make_session()
+    # Warm up session cookies
+    _request_with_retry(session, "GET", LIST_URL)
     all_rows: list[dict] = []
     seen_keys: set[str] = set()
     page = 1
-    total_pages: Optional[int] = None
-    total_records: Optional[int] = None
+    consecutive_empty = 0
     while True:
         if max_pages and page > max_pages:
             break
-        params = {"pageNum": page, "pageSize": DEFAULT_PAGE_SIZE, "status": ""}
-        r = _request_with_retry(session, "GET", LIST_URL, params=params)
+        url = f"{LIST_ACTION_URL}&istiaojian=all&index={page}"
+        r = _request_with_retry(session, "GET", url)
         if r is None:
             print(f"[error] page {page} failed all retries; stopping.")
             break
         if r.status_code != 200:
             print(f"[error] page {page} HTTP {r.status_code}; stopping.")
             break
-        rows, info = _parse_listing_page(r.text)
-        if total_pages is None and info.get("total_pages"):
-            total_pages = info["total_pages"]
-        if total_records is None and info.get("total_records"):
-            total_records = info["total_records"]
+        rows, _info = _parse_listing_page(r.text)
         new_count = 0
         for row in rows:
             key = row["number"]
@@ -213,20 +201,22 @@ def fetch_all(max_pages: Optional[int] = None) -> tuple[list[dict], dict]:
             all_rows.append(row)
             new_count += 1
         print(f"[info] page {page}: parsed {len(rows)} (new {new_count}; total {len(all_rows)})", flush=True)
+        if new_count == 0:
+            consecutive_empty += 1
+            if consecutive_empty >= 2:
+                break
+        else:
+            consecutive_empty = 0
         if not rows:
-            break
-        if total_pages and page >= total_pages:
             break
         page += 1
         time.sleep(SLEEP_BETWEEN)
     return all_rows, {
         "fetched_at": datetime.utcnow().isoformat() + "Z",
         "page_count": page,
-        "total_records_hint": total_records,
-        "total_pages_hint": total_pages,
         "rows_collected": len(all_rows),
         "source": LIST_URL,
-        "note": "metadata-only crawl per project decision 2026-05-10",
+        "note": "metadata-only crawl (general + professional domains) per project decision 2026-05-10",
     }
 
 

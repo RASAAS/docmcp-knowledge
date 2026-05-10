@@ -1,0 +1,8 @@
+{
+  "fetched_at": "2026-05-10T07:48:10.759188Z",
+  "page_count": 23,
+  "rows_collected": 2100,
+  "source": "https://app.nifdc.org.cn/biaogzx/qxqwk.do",
+  "note": "metadata-only crawl (general + professional domains) per project decision 2026-05-10",
+  "filter": "active+upcoming only"
+}
