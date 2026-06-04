@@ -1,9 +1,23 @@
 {
   "category": "eu_mdr/mdcg",
   "description": "MDCG guidance documents for EU MDR 2017/745 and EU IVDR 2017/746",
-  "last_updated": "2026-05-04",
-  "count": 125,
+  "last_updated": "2026-06-03",
+  "count": 126,
   "entries": [
+    {
+      "id": "mdcg-2025-10",
+      "title": {
+        "zh": "MDCG 2025-10：医疗器械和体外诊断医疗器械上市后监督指南",
+        "en": "MDCG 2025-10: Guidance on Post-Market Surveillance of Medical Devices and IVDs"
+      },
+      "slug": "mdcg-2025-10",
+      "status": "active",
+      "source_url": "https://health.ec.europa.eu/document/download/a9ad86b7-1b8e-4bae-beb4-48b2b3ed2f05_en?filename=mdcg_2025-10_en.pdf",
+      "source_url_verified": "2026-06-03",
+      "published_date": "2025-12-19",
+      "category": "eu_mdr/mdcg",
+      "mdcg_category": "post_market"
+    },
     {
       "id": "mdcg-2026-3",
       "title": {

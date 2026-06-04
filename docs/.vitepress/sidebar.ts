@@ -1284,6 +1284,10 @@ export default {
         {
           "text": "MDCG 2025-9：突破性医疗器械（BtX）指南",
           "link": "/zh/eu_mdr/mdcg/mdcg-2025-9"
+        },
+        {
+          "text": "MDCG 2025-10：上市后监督指南",
+          "link": "/zh/eu_mdr/mdcg/mdcg-2025-10"
         }
       ]
     }

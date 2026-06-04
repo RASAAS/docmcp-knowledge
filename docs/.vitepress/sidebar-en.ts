@@ -268,6 +268,10 @@ export default {
         {
           "text": "MDCG 2025-9: Guidance on Breakthrough Devices (BtX)",
           "link": "/en/eu_mdr/mdcg/mdcg-2025-9"
+        },
+        {
+          "text": "MDCG 2025-10: Guidance on Post-Market Surveillance",
+          "link": "/en/eu_mdr/mdcg/mdcg-2025-10"
         }
       ]
     }

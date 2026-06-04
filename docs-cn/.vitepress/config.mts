@@ -14,6 +14,7 @@ export default defineConfig({
         nav: [
           { text: "首页", link: "/zh/" },
           { text: "快速开始", link: "/zh/guide/get-started" },
+          { text: "产品与定价", link: "/zh/guide/pricing" },
           { text: "联系我们", link: "/zh/contact" },
         ],
         sidebar: {
@@ -24,6 +25,7 @@ export default defineConfig({
                 { text: "快速开始", link: "/zh/guide/get-started" },
                 { text: "安装插件", link: "/zh/guide/install" },
                 { text: "注册与登录", link: "/zh/guide/register" },
+                { text: "套餐与定价", link: "/zh/guide/pricing" },
               ],
             },
             {
@@ -43,6 +45,15 @@ export default defineConfig({
               ],
             },
             {
+              text: "EU MDR 其他工作流",
+              items: [
+                { text: "GSPR 合规检查", link: "/zh/guide/gspr" },
+                { text: "风险管理", link: "/zh/guide/risk-management" },
+                { text: "上市后监督 (PMS)", link: "/zh/guide/pms-pmcf" },
+                { text: "证据注册表", link: "/zh/guide/evidence-registry" },
+              ],
+            },
+            {
               text: "NMPA 注册资料",
               items: [
                 { text: "创建 NMPA 项目", link: "/zh/guide/nmpa-create-project" },
@@ -50,12 +61,18 @@ export default defineConfig({
               ],
             },
             {
+              text: "AI 工具",
+              items: [
+                { text: "AI 工具总览", link: "/zh/guide/ai-tools" },
+                { text: "翻译工具", link: "/zh/guide/translation" },
+                { text: "EUDAMED UDI 批量上传", link: "/zh/guide/eudamed-udi" },
+              ],
+            },
+            {
               text: "其他功能",
               items: [
-                { text: "AI 工具", link: "/zh/guide/ai-tools" },
-                { text: "翻译工具", link: "/zh/guide/translation" },
                 { text: "法规知识库", link: "/zh/guide/knowledge-base" },
-                { text: "账户与订阅", link: "/zh/guide/account" },
+                { text: "账户管理", link: "/zh/guide/account" },
               ],
             },
           ],
@@ -70,6 +87,7 @@ export default defineConfig({
         nav: [
           { text: "Home", link: "/en/" },
           { text: "Quick Start", link: "/en/guide/get-started" },
+          { text: "Plans & Pricing", link: "/en/guide/pricing" },
           { text: "Contact", link: "/en/contact" },
         ],
         sidebar: {
@@ -80,6 +98,7 @@ export default defineConfig({
                 { text: "Quick Start", link: "/en/guide/get-started" },
                 { text: "Install Plugin", link: "/en/guide/install" },
                 { text: "Register & Login", link: "/en/guide/register" },
+                { text: "Plans & Pricing", link: "/en/guide/pricing" },
               ],
             },
             {
@@ -99,6 +118,15 @@ export default defineConfig({
               ],
             },
             {
+              text: "EU MDR Other Workflows",
+              items: [
+                { text: "GSPR Compliance", link: "/en/guide/gspr" },
+                { text: "Risk Management", link: "/en/guide/risk-management" },
+                { text: "Post-Market Surveillance", link: "/en/guide/pms-pmcf" },
+                { text: "Evidence Registry", link: "/en/guide/evidence-registry" },
+              ],
+            },
+            {
               text: "NMPA Registration",
               items: [
                 { text: "Create NMPA Project", link: "/en/guide/nmpa-create-project" },
@@ -106,12 +134,18 @@ export default defineConfig({
               ],
             },
             {
+              text: "AI Tools",
+              items: [
+                { text: "AI Tools Overview", link: "/en/guide/ai-tools" },
+                { text: "Translation", link: "/en/guide/translation" },
+                { text: "EUDAMED UDI Bulk Upload", link: "/en/guide/eudamed-udi" },
+              ],
+            },
+            {
               text: "Other Features",
               items: [
-                { text: "AI Tools", link: "/en/guide/ai-tools" },
-                { text: "Translation", link: "/en/guide/translation" },
                 { text: "Knowledge Base", link: "/en/guide/knowledge-base" },
-                { text: "Account & Subscription", link: "/en/guide/account" },
+                { text: "Account Management", link: "/en/guide/account" },
               ],
             },
           ],
