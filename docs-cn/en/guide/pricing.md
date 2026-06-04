@@ -1,104 +1,101 @@
 # Plans & Pricing
 
-Reguverse Assistant offers multiple tiers to serve individuals, enterprises, and CRO organizations.
-
 ## Plan Overview
 
 | Plan | Monthly | Yearly | Monthly Credits | Best For |
 |------|---------|--------|----------------|----------|
-| Trial | Free | -- | 7.5M | New users (30 days) |
-| Starter | $15 | $150 | 7.5M | Light individual use |
-| Basic | $50 | $500 | 25M | Regular individual use |
-| Pro | $130 | $1,300 | 60M | Enterprise / heavy use |
-| Max | $1,150 | $11,500 | 750M | Enterprise teams |
-| CRO | $300 | $3,000 | 150M | CRO / service providers |
+| Trial | Free | - | 150 | New users (30-day trial) |
+| Starter | $15/mo | $150/yr | 150 | Light usage, independent consultants |
+| Basic | $50/mo | $500/yr | 500 | Individual RA professionals |
+| Pro | $130/mo | $1,300/yr | 1,200 | Teams (up to 3 accounts) |
+| Max | $1,150/mo | $11,500/yr | 15,000 | Large teams (up to 10 accounts) |
+| CRO | $300/mo | $3,000/yr | 3,000 | CRO organizations |
+
+::: info Annual Discount
+Yearly pricing equals 10 months of monthly billing -- get 2 months free.
+:::
 
 ## Feature Comparison
 
-### Core Workflows
-
 | Feature | Trial | Starter | Basic | Pro | Max | CRO |
 |---------|:-----:|:-------:|:-----:|:---:|:---:|:---:|
-| EU MDR Clinical Evaluation | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Risk Management | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Document Generation (CEP/CER/DCR) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| GSPR Compliance | -- | -- | -- | ✓ | ✓ | ✓ |
-| PMS Plan | -- | -- | -- | ✓ | ✓ | ✓ |
-| PMCF Plan | -- | -- | -- | ✓ | ✓ | ✓ |
-| CE Update | -- | -- | -- | ✓ | ✓ | ✓ |
-| PMCF Report | -- | -- | -- | ✓ | ✓ | ✓ |
-| PSUR | -- | -- | -- | ✓ | ✓ | ✓ |
-| NMPA Registration | -- | -- | -- | ✓ | ✓ | ✓ |
-| V&V Execution | -- | -- | -- | ✓ | ✓ | ✓ |
-| Evidence Registry | -- | -- | -- | ✓ | ✓ | ✓ |
+| EU MDR Clinical Evaluation | v | v | v | v | v | v |
+| Risk Management | v | v | v | v | v | v |
+| Device Classification | v | v | v | v | v | v |
+| Equivalent Device Research | v | v | v | v | v | v |
+| Translation Tool | v | v | v | v | v | v |
+| EUDAMED UDI | v | v | v | v | v | v |
+| Knowledge Base | v | v | v | v | v | v |
+| GSPR Compliance | - | - | - | v | v | v |
+| PMS Plan | - | - | - | v | v | v |
+| PMCF Plan | - | - | - | v | v | v |
+| Clinical Evaluation Update | - | - | - | v | v | v |
+| PMCF Evaluation Report | - | - | - | v | v | v |
+| Periodic Safety Update Report | - | - | - | v | v | v |
+| NMPA Registration | - | - | - | v | v | v |
+| Team Accounts | - | - | - | 3 | 10 | - |
+| CRM Client Management | - | - | - | - | - | v |
+| Custom Model Selection | - | - | - | - | v | - |
+| Two-Factor Auth (2FA) | - | Required | Required | Required | Required | Required |
 
-### AI Tools
-
-| Tool | Trial | Starter | Basic | Pro | Max | CRO |
-|------|:-----:|:-------:|:-----:|:---:|:---:|:---:|
-| MDR/IVDR Device Classification | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Equivalent Device Research | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Document Translation | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| EUDAMED UDI Bulk Upload | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-
-### Platform Features
-
-| Feature | Trial | Starter | Basic | Pro | Max | CRO |
-|---------|:-----:|:-------:|:-----:|:---:|:---:|:---:|
-| Knowledge Base | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Word Document Export | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Two-Factor Auth (2FA) | -- | Required | Required | Required | Required | Required |
-| Team Accounts | -- | -- | -- | 3 seats | 10 seats | -- |
-| CRM Client Management | -- | -- | -- | -- | -- | ✓ |
-| Custom Advanced Models | -- | -- | -- | -- | ✓ | -- |
+::: tip CRO Plan
+The CRO plan includes all Max-tier features plus CRM client management, designed for CRO organizations managing multiple client projects.
+:::
 
 ## Credits
 
-Reguverse uses **Credits** to measure AI service usage. Different operations consume varying amounts depending on content complexity.
+Reguverse uses **Credits** to measure AI service usage. 1 Credit is approximately equivalent to $0.10 USD. Consumption depends on content complexity and length.
 
 ### Typical Usage
 
-| Operation | Approximate Cost |
-|-----------|-----------------|
-| Single CE step | 100K - 500K Credits |
-| Full clinical evaluation (10 steps) | 2M - 5M Credits |
-| Document generation (CEP/CER) | 500K - 1.5M Credits |
-| AI tool single call | 50K - 200K Credits |
-| Translation (per 1000 words) | ~50K Credits |
+| Operation | Approx. Consumption |
+|-----------|-------------------|
+| Clinical evaluation single step | 2 - 10 Credits |
+| Complete clinical evaluation (10 steps) | 40 - 100 Credits |
+| Document generation (CEP/CER) | 10 - 30 Credits |
+| AI tool single invocation | 1 - 4 Credits |
 
-### Credit Top-up Pricing
+::: info
+Actual consumption depends on input content length and complexity. Above values are estimates only.
+:::
 
-| Plan | Price per 1M Credits |
-|------|---------------------|
+### Credit Top-up
+
+All paid plans support purchasing additional Credits:
+
+| Plan | Price (per 20 Credits) |
+|------|----------------------|
 | Starter / Basic | $9 |
 | Pro | $8 |
 | Max | $7 |
 | CRO | $5 |
 
-## Trial Period
+Top-up Credits do not expire and carry over across billing periods.
 
-- 30-day free trial upon registration
-- Same credits as Starter plan (7.5M)
-- Access to Trial-tier features
-- Upgrade to a paid plan to continue after expiry
+### Translation Credits
 
-## Payment Methods
+Translation tool uses a **separate billing** system, independent from monthly AI Credits:
 
-| Region | Supported Methods |
-|--------|------------------|
-| China | Alipay (PC web payment) |
-| International | Coming soon |
+| Billing | Price |
+|---------|-------|
+| Translation top-up | $70 / million tokens |
+
+Translation usage is not deducted from monthly Credits. Separate translation credits must be purchased.
 
 ## FAQ
 
-### What happens when credits run out?
+### What happens when Credits run out?
 
-AI features are paused. You can purchase additional credits (effective immediately), wait for next month's renewal, or upgrade your plan.
+You can purchase top-up Credits at any time. Top-up Credits don't expire.
+
+### Can I upgrade or downgrade?
+
+Upgrades take effect immediately. Downgrades take effect at the end of the current billing period.
 
 ### How do team accounts work?
 
-Pro plans support up to 3 team members; Max plans support up to 10. Team members share the organization's credit pool.
+Pro plan supports up to 3 team members, Max up to 10. Team members share the organization's credit pool.
 
-### Why is 2FA required?
+## Next Steps
 
-All paid plans (Starter and above) require TOTP two-factor authentication for account security. Trusted devices can skip 2FA for 7 days.
+- [Create EU MDR Project](./eu-create-project) -- Start using core features

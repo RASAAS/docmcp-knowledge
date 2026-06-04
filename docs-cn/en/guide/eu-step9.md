@@ -1,25 +1,45 @@
-# Risk & Gap Analysis (Step 9-10)
+# Risk Summary & Gap Analysis (Step 9)
 
-The final analysis steps: risk summary and gap analysis forming the benefit-risk conclusion.
+## Overview
 
-## Step 9: Risk Summary
+Step 9 synthesizes all clinical evidence and safety data to perform benefit-risk assessment, identify clinical data gaps, and provide post-market monitoring recommendations. This is the final analytical step of the clinical evaluation workflow.
 
-- Identified risk inventory
-- Risk severity assessment
-- Control measure evaluation
-- Residual risk acceptability
-- Comparison with state of the art
+## Generated Content
 
-## Step 10: Gap Analysis
+### Benefit-Risk Assessment
+
+- Clinical benefit summary
+- Identified risks summary
+- Benefit-risk comparative analysis
+- Overall benefit-risk conclusion
+
+### Gap Analysis
+
+Identifies deficiencies in existing clinical evidence:
 
 - Clinical data gap identification
-- PMS/PMCF needs assessment
+- PMS/PMCF requirement analysis
 - Additional clinical study recommendations
 - Final benefit-risk conclusion
-- CE update frequency recommendation
+- Clinical evaluation update frequency recommendation
 
-## After Completion
+### Equivalence Argumentation (if applicable)
 
-All 10 steps approved → proceed to document generation:
+If the Equivalence pathway was selected in Step 8, Step 9 includes:
+- Technical equivalence analysis
+- Biological equivalence analysis
+- Clinical equivalence analysis
+- Equivalence conclusion and limitations
 
-→ [Generate Documents](./eu-documents)
+## Workflow
+
+1. AI synthesizes results from all previous steps to generate risk summary and gap analysis
+2. Review benefit-risk conclusions
+3. Confirm PMS/PMCF recommendations
+4. Approve to proceed to document generation
+
+## Next Step
+
+After all 9 steps are complete, proceed to document generation:
+
+→ [Generate Documents (CEP/CER/DCR)](./eu-documents)

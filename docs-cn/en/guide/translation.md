@@ -29,8 +29,16 @@ AI-powered translation tool designed specifically for medical device regulatory 
 
 Optimized for: EU MDR/IVDR, NMPA, clinical evaluation, risk management, and post-market surveillance terminology.
 
-## Credits
+## Credits & Billing
 
-Approximately 50K credits per 1000 words translated.
+Translation uses a **separate billing system**, independent from monthly AI Credits:
 
-**Available on:** All plans
+| Billing | Price |
+|---------|-------|
+| Translation top-up | $70 / million tokens |
+
+::: warning Note
+Translation token billing is different from regular AI tools. Translation credits are separate from your plan's monthly Credits and must be purchased separately.
+:::
+
+**Available on:** All plans (requires separate translation credit purchase)

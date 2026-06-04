@@ -24,9 +24,25 @@ The flow varies by region and user type:
 4. Complete email verification
 5. Accept Terms of Service and Privacy Policy
 
-#### China Users
+#### China Personal Users
 
-CN personal users require phone verification (SMS). CN enterprise users require company verification and contract signing before accessing paid features.
+1. Select region: "China Mainland"
+2. Select user type: "Personal"
+3. Phone verification: enter phone number and complete SMS verification
+4. Enter email and set password
+5. Complete email verification code
+6. Accept Terms of Service and Privacy Policy
+7. Identity verification: required before upgrading to paid plans
+
+#### China Enterprise Users
+
+CN enterprise users require company verification and contract signing before accessing paid features.
+
+1. Select region: "China Mainland"
+2. Select user type: "Enterprise"
+3. Enter email, company name, and password
+4. Complete email verification
+5. Accept Terms of Service and Privacy Policy
 
 ## Login
 
@@ -38,7 +54,7 @@ CN personal users require phone verification (SMS). CN enterprise users require 
 All paid plan users must enable TOTP 2FA:
 
 1. After upgrading to a paid plan, you'll be prompted to set up 2FA
-2. Scan the QR code with an authenticator app (Google Authenticator, Microsoft Authenticator)
+2. Scan the QR code with an authenticator app (recommended: Microsoft Authenticator)
 3. Enter the 6-digit code to confirm
 4. **Save your recovery codes** (used if authenticator is lost)
 

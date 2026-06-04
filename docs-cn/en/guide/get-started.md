@@ -9,13 +9,14 @@ Reguverse Assistant is an AI-powered medical device regulatory platform delivere
 | Module | Description | Plans |
 |--------|-------------|-------|
 | EU MDR Clinical Evaluation | 10-step workflow generating CEP/CER/DCR | All plans |
-| GSPR Compliance | Annex I full-clause compliance analysis | Pro / Max |
+| GSPR Compliance | Annex I full-clause compliance analysis | Pro / Max / CRO |
 | Risk Management | Hazard identification, RCM, risk matrix | All plans |
-| PMS/PMCF Plan | Post-market surveillance planning | Pro / Max |
-| CE Update | Periodic clinical evaluation update | Pro / Max |
-| PMCF Report | Post-market clinical follow-up report | Pro / Max |
-| PSUR | Periodic Safety Update Report | Pro / Max |
-| NMPA Registration | eRPS chapter-based submission materials | Pro / Max |
+| PMS Plan | Post-market surveillance plan | Pro / Max / CRO |
+| PMCF Plan | Post-market clinical follow-up plan | Pro / Max / CRO |
+| Clinical Evaluation Update | Periodic clinical evaluation update | Pro / Max / CRO |
+| PMCF Evaluation Report | Post-market clinical follow-up report | Pro / Max / CRO |
+| Periodic Safety Update Report | PSUR generation | Pro / Max / CRO |
+| NMPA Registration | eRPS chapter-based submission materials | Pro / Max / CRO |
 | Device Classification | MDR/IVDR Annex VIII classification | All plans |
 | Equivalent Device Research | 510(k) equivalence analysis | All plans |
 | Translation | Medical device regulatory document translation | All plans |
@@ -36,13 +37,13 @@ Install → Register → Create Project → Execute Steps → Generate Documents
 
 ### 1. Install
 
-Download the installer for your platform or use the automated installation script.
+Download the installer for your platform or use the automated installation script. You can also use the web version directly in your browser.
 
 → [Install Plugin](./install)
 
 ### 2. Register
 
-Create an account in the plugin. CN personal users require phone verification; enterprise users require certification.
+Create an account in the plugin. CN personal users require phone verification and identity verification; enterprise users require enterprise certification and contract signing.
 
 → [Register & Login](./register)
 
@@ -68,10 +69,14 @@ After all steps are approved, generate compliance documents with one click and i
 |----------|---------------------|
 | Windows | Windows 10+, Microsoft 365 or Office 2019+ |
 | macOS | macOS 12+, Microsoft 365 for Mac |
-| Web | Microsoft 365 Online (Word for Web) |
+| Web | Modern browser, access https://app.reguverse.com/ |
+
+::: info Network Requirements
+Reguverse Assistant requires a stable internet connection to access AI services. Minimum 5 Mbps bandwidth recommended.
+:::
 
 ## Next Steps
 
-- [Install Plugin](./install)
-- [Register & Login](./register)
-- [Plans & Pricing](./pricing)
+- [Install Plugin](./install) -- Get and install the Word add-in
+- [Register & Login](./register) -- Create your account
+- [Plans & Pricing](./pricing) -- Compare plans and features

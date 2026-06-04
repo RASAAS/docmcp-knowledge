@@ -22,12 +22,6 @@ After all steps are approved:
    - **Edit** -- modify text
    - **Redo** -- regenerate (confirmation required)
 
-## Format Standards
-
-- Font: Times New Roman
-- Body: 10.5pt, 1.5 line spacing, justified
-- Tables: 1pt solid borders, 9pt font, gray headers
-
 ## AI Content Labeling
 
 All generated documents include:

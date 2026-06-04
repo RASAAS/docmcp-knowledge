@@ -9,13 +9,14 @@ Reguverse 助手是一款 AI 驱动的医疗器械法规智能平台，以 Micro
 | 功能模块 | 说明 | 适用套餐 |
 |---------|------|---------|
 | EU MDR 临床评价 | 10 步工作流，生成 CEP/CER/DCR | 全部套餐 |
-| GSPR 合规检查 | Annex I 全条款合规分析 | Pro / Max |
+| GSPR 合规检查 | Annex I 全条款合规分析 | Pro / Max / CRO |
 | 风险管理 | 危害识别、RCM、风险矩阵 | 全部套餐 |
-| PMS/PMCF 计划 | 上市后监督与临床跟踪计划 | Pro / Max |
-| CE 更新 | 周期性临床评价更新 | Pro / Max |
-| PMCF 评价报告 | 上市后临床跟踪评价报告 | Pro / Max |
-| PSUR | 定期安全性更新报告 | Pro / Max |
-| NMPA 注册资料 | 按 eRPS 章节生成申报材料 | Pro / Max |
+| PMS 计划 | 上市后监督计划 | Pro / Max / CRO |
+| PMCF 计划 | 上市后临床跟踪计划 | Pro / Max / CRO |
+| Clinical Evaluation Update | 临床评价更新 | Pro / Max / CRO |
+| PMCF Evaluation Report | PMCF 评价报告 | Pro / Max / CRO |
+| Periodic Safety Update Report | 定期安全更新报告 | Pro / Max / CRO |
+| NMPA 注册资料 | 按 eRPS 章节生成申报材料 | Pro / Max / CRO |
 | 设备分类助手 | MDR/IVDR Annex VIII 分类 | 全部套餐 |
 | 等同器械研究 | 510(k) 等同性分析 | 全部套餐 |
 | 翻译工具 | 医疗器械法规文档双语翻译 | 全部套餐 |
@@ -36,13 +37,13 @@ Reguverse 助手是一款 AI 驱动的医疗器械法规智能平台，以 Micro
 
 ### 1. 下载安装
 
-从官网下载对应系统的安装包，或使用自动化安装脚本完成 Word 插件安装。
+从官网下载对应系统的安装包，或使用自动化安装脚本完成 Word 插件安装。也可通过浏览器直接访问 Web 版系统。
 
 → [安装插件](./install)
 
 ### 2. 注册账号
 
-在插件中完成注册。中国个人用户需完成手机号验证；企业用户需完成企业认证与合同签约。
+在插件中完成注册。中国个人用户需完成手机号验证和实名认证；企业用户需完成企业认证与合同签约。
 
 → [注册与登录](./register)
 
@@ -68,7 +69,7 @@ Reguverse 助手是一款 AI 驱动的医疗器械法规智能平台，以 Micro
 |------|---------|
 | Windows | Windows 10 及以上，Microsoft 365 或 Office 2019+ |
 | macOS | macOS 12 及以上，Microsoft 365 for Mac |
-| Web | Microsoft 365 Online (Word for Web) |
+| Web 版 | 现代浏览器访问 https://app.reguverse.com/ |
 
 ::: info 网络要求
 Reguverse 助手需要稳定的互联网连接以访问 AI 服务。建议带宽不低于 5 Mbps。
