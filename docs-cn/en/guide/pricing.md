@@ -51,9 +51,24 @@ Reguverse uses **Credits** to measure AI service usage. 1 Credit is approximatel
 | Operation | Approx. Consumption |
 |-----------|-------------------|
 | Clinical evaluation single step | 2 - 10 Credits |
-| Complete clinical evaluation (10 steps) | 40 - 100 Credits |
-| Document generation (CEP/CER) | 10 - 30 Credits |
+| Complete clinical evaluation (10 steps, ~200 articles) | 40 - 100 Credits |
+| Complete clinical evaluation (10 steps, 500+ articles) | 200 - 400 Credits |
+| Document generation (CEP/CER/DCR) | 10 - 30 Credits |
+| GSPR compliance check (complete) | 15 - 40 Credits |
 | AI tool single invocation | 1 - 4 Credits |
+
+::: warning Impact of Literature Volume on Credit Consumption
+In clinical evaluation, **Literature Screening (Step 4)** and **Full-text Appraisal (Step 7)** require the AI to analyze each article individually. These are the most credit-intensive steps, and the number of articles directly determines total consumption:
+
+| Article Count | Est. Step 4 Consumption | Est. Total Evaluation | Recommended Plan |
+|--------------|------------------------|----------------------|-----------------|
+| ~50 articles | 10 - 20 Credits | 30 - 60 Credits | Trial / Starter |
+| ~200 articles | 40 - 80 Credits | 80 - 150 Credits | Starter / Basic |
+| ~500 articles | 100 - 200 Credits | 200 - 350 Credits | Basic / Pro |
+| 800+ articles | 200 - 400 Credits | 350 - 600 Credits | Pro or above |
+
+**Even if you manually write the search strategy (Step 3), Step 4 literature screening still requires the AI to process each article individually**, so more uploaded articles mean higher consumption. For large literature sets, consider pre-screening articles before uploading to optimize costs.
+:::
 
 ::: info
 Actual consumption depends on input content length and complexity. Above values are estimates only.
