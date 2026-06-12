@@ -163,7 +163,8 @@ export default defineConfig({
     ],
     footer: {
       message: "Reguverse Assistant User Manual",
-      copyright: "Copyright &copy; 2026 RASAAS",
+      copyright:
+        'Copyright &copy; 2026 RASAAS<br/><span style="font-size:12px;color:#666;"><a href="https://beian.mps.gov.cn/#/query/webSearch?code=11011202101028" target="_blank" rel="noopener" style="color:#666;display:inline-flex;align-items:center;gap:4px;"><img src="/beian-icon.png" alt="" style="width:16px;height:16px;vertical-align:middle;">京公网安备11011202101028号</a>&nbsp;&nbsp;<a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener" style="color:#666;">京ICP备19053168号-2</a></span>',
     },
     search: { provider: "local" },
   },
