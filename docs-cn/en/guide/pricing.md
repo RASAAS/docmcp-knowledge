@@ -109,7 +109,13 @@ You can purchase top-up Credits at any time. Top-up Credits don't expire.
 
 ### Can I upgrade or downgrade?
 
-Upgrades take effect immediately. Downgrades take effect at the end of the current billing period.
+**Monthly plan upgrades**: You can choose to activate immediately or at the end of the current billing period.
+- **Activate immediately**: The new plan takes effect right away. Your current monthly credits will be reset to the new plan's allocation. Top-up credits carry over.
+- **At period end** (default): The new plan will activate automatically when your current billing period expires.
+
+**Annual plan upgrades**: Upgrades take effect at the end of the current annual billing period. Immediate activation is not available.
+
+**Downgrades**: Regardless of billing period, downgrades take effect at the end of the current billing period.
 
 ### How do team accounts work?
 
