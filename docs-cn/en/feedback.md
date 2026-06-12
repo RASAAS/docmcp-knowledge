@@ -22,10 +22,20 @@ Technical support, feature suggestions, and issue reports:
 
 ### WeChat
 
-Scan the QR code below to add us on WeChat for direct communication:
+Scan the QR code below to add us as a WeChat contact for direct communication:
 
 <div style="text-align: center; margin: 24px 0;">
-  <img src="/qrcode_for_ars.jpg" alt="Reguverse WeChat QR Code" style="width: 200px; border-radius: 8px;" />
+  <img src="/ARS-wechat.png" alt="Add WeChat Contact" style="width: 200px; border-radius: 8px;" />
+  <p style="color: #666; font-size: 14px; margin-top: 8px;">Add WeChat Contact</p>
+</div>
+
+### WeChat Official Account
+
+Follow the Reguverse WeChat Official Account for the latest product updates and industry news:
+
+<div style="text-align: center; margin: 24px 0;">
+  <img src="/qrcode_for_ars.jpg" alt="Reguverse WeChat Official Account" style="width: 200px; border-radius: 8px;" />
+  <p style="color: #666; font-size: 14px; margin-top: 8px;">Reguverse WeChat Official Account</p>
 </div>
 
 ### More Contact Options

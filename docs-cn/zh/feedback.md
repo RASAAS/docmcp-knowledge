@@ -22,10 +22,20 @@
 
 ### 微信
 
-扫描下方二维码添加微信，与我们直接沟通：
+扫描下方二维码添加微信好友，与我们直接沟通：
 
 <div style="text-align: center; margin: 24px 0;">
-  <img src="/qrcode_for_ars.jpg" alt="Reguverse 微信二维码" style="width: 200px; border-radius: 8px;" />
+  <img src="/ARS-wechat.png" alt="添加微信好友" style="width: 200px; border-radius: 8px;" />
+  <p style="color: #666; font-size: 14px; margin-top: 8px;">添加微信好友</p>
+</div>
+
+### 微信公众号
+
+关注 Reguverse 微信公众号，获取最新产品动态与行业资讯：
+
+<div style="text-align: center; margin: 24px 0;">
+  <img src="/qrcode_for_ars.jpg" alt="Reguverse 微信公众号" style="width: 200px; border-radius: 8px;" />
+  <p style="color: #666; font-size: 14px; margin-top: 8px;">Reguverse 微信公众号</p>
 </div>
 
 ### 更多联系方式
