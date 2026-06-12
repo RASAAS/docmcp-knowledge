@@ -117,6 +117,10 @@ You can purchase top-up Credits at any time. Top-up Credits don't expire.
 
 **Downgrades**: Regardless of billing period, downgrades take effect at the end of the current billing period.
 
+### Can I get a refund for annual plans?
+
+Annual subscriptions are non-refundable, but you can upgrade to a higher plan at any time (pay the price difference).
+
 ### How do team accounts work?
 
 Pro plan supports up to 3 team members, Max up to 10. Team members share the organization's credit pool.
