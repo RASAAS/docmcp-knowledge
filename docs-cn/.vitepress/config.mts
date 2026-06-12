@@ -15,6 +15,7 @@ export default defineConfig({
           { text: "首页", link: "/zh/" },
           { text: "快速开始", link: "/zh/guide/get-started" },
           { text: "产品与定价", link: "/zh/guide/pricing" },
+          { text: "反馈与建议", link: "/zh/feedback" },
           { text: "联系我们", link: "/zh/contact" },
         ],
         sidebar: {
@@ -88,6 +89,7 @@ export default defineConfig({
           { text: "Home", link: "/en/" },
           { text: "Quick Start", link: "/en/guide/get-started" },
           { text: "Plans & Pricing", link: "/en/guide/pricing" },
+          { text: "Feedback", link: "/en/feedback" },
           { text: "Contact", link: "/en/contact" },
         ],
         sidebar: {
