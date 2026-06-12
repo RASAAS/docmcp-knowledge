@@ -115,6 +115,8 @@ You can purchase top-up Credits at any time. Top-up Credits don't expire.
 
 **Annual plan upgrades**: Upgrades take effect at the end of the current annual billing period. Immediate activation is not available.
 
+**Renewals**: Renewing the same plan (e.g. Basic to Basic) is not an upgrade and does not support immediate activation. The renewal takes effect when your current billing period expires.
+
 **Downgrades**: Regardless of billing period, downgrades take effect at the end of the current billing period.
 
 ### Can I get a refund for annual plans?
