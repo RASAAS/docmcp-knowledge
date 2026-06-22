@@ -304,15 +304,15 @@
   },
   "eu_mdr/harmonised_standards": {
     "url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182/oj",
-    "last_checked": "2026-06-15T07:22:44.812921",
+    "last_checked": "2026-06-22T07:25:50.501490",
     "last_known_amendment": "20260407",
     "standards_count": 51,
     "detection_method": "sparql"
   },
   "eu_mdr/mdcg_guidance": {
     "url": "https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en",
-    "last_checked": "2026-06-15T07:22:46.333254",
-    "official_count": 125
+    "last_checked": "2026-06-22T07:25:51.987980",
+    "official_count": 126
   },
   "eu_mdr/mdcg_guidance_google": {
     "url": "https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en",
@@ -329,23 +329,23 @@
   },
   "eu_mdr/team_nb": {
     "url": "https://www.team-nb.org/",
-    "last_checked": "2026-06-15T07:22:49.081718",
+    "last_checked": "2026-06-22T07:25:53.421616",
     "seen_titles": [
-      "Team-NB Position Paper Medical Device Lifetime",
-      "Position Paper on MDR/IVDR revision: impact on the sector - team-nb",
-      "Team-NB Position Paper Clinical Evaluation Based on Non-Clinical ...",
-      "TEAM NB Position Paper on Software qualification under the IVDR V2",
-      "Team-NB Classification of SARS Cov2 position paper",
-      "Team-NB-PositionPaper-BPG-TechnicalDocEU-MDR-2017-745-V2 ...",
-      "Team-NB Position Paper Demonstration of Safety and Performance ...",
-      "Team-NB Position Paper",
-      "Team-NB full Position Paper on Annex VII – Implementing ...",
-      "Position Paper on \"Draft Environmental Quality Standards for Priority ...",
-      "on cyber security of medical devices - Team-NB Position Paper",
       "SCHEER - Position Paper on \"Draft Environmental Quality ...",
-      "Submission of Technical Documentation - Team-NB Position Paper",
+      "Team-NB-PositionPaper-BPG-TechnicalDocEU-MDR-2017-745-V2 ...",
+      "Position Paper on MDR/IVDR revision: impact on the sector - team-nb",
+      "Team-NB Position Paper",
+      "Position Paper on \"Draft Environmental Quality Standards for Priority ...",
+      "TEAM NB Position Paper on Software qualification under the IVDR V2",
+      "Team-NB Position Paper Clinical Evaluation Based on Non-Clinical ...",
+      "Team-NB Position Paper Medical Device Lifetime",
+      "Team-NB Position Paper Demonstration of Safety and Performance ...",
+      "Team-NB full Position Paper on Annex VII – Implementing ...",
+      "on cyber security of medical devices - Team-NB Position Paper",
       "Team-NB Position Paper Implant Card",
-      "Team-NB Position Paper Cyber Security V1"
+      "Team-NB Classification of SARS Cov2 position paper",
+      "Team-NB Position Paper Cyber Security V1",
+      "Submission of Technical Documentation - Team-NB Position Paper"
     ]
   }
 }
