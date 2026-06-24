@@ -80,9 +80,12 @@
         "zh": "医疗器械生物学评价 - 第12部分：样品制备和参考材料"
       },
       "status": "active",
-      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
-      "source_verified": "2026-04-09",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2026/1231/oj",
+      "source_verified": "2026-06-24",
       "category": "biocompatibility",
+      "amendments": [
+        "EN ISO 10993-12:2021/A1:2025"
+      ],
       "applicable_gsprs": [
         "10",
         "10.2"
@@ -120,18 +123,21 @@
         "zh": "医疗器械生物学评价 - 第17部分：医疗器械成分的毒理学风险评估"
       },
       "status": "active",
-      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
-      "source_verified": "2026-04-09",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2026/1231/oj",
+      "source_verified": "2026-06-24",
       "category": "biocompatibility",
+      "amendments": [
+        "EN ISO 10993-17:2023/A1:2025"
+      ],
       "applicable_gsprs": [
         "10",
         "10.1",
         "10.2",
-        "10.4.1",
-        "10.4.4",
         "10.4",
+        "10.4.1",
+        "10.4.2",
         "10.4.3",
-        "10.4.2"
+        "10.4.4"
       ],
       "scope": {
         "en": "Toxicological risk assessment of constituents",
@@ -177,9 +183,12 @@
         "zh": "医疗器械生物学评价 - 第23部分：刺激性试验"
       },
       "status": "active",
-      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
-      "source_verified": "2026-04-09",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2026/1231/oj",
+      "source_verified": "2026-06-24",
       "category": "biocompatibility",
+      "amendments": [
+        "EN ISO 10993-23:2021/A1:2025"
+      ],
       "scope": {
         "en": "Irritation testing",
         "zh": ""
@@ -191,7 +200,62 @@
         "10.4",
         "10.4.1"
       ],
-      "abstract": "Specifies tests for irritation of skin and mucous membranes by medical devices and their materials or extracts."
+      "abstract": "Specifies tests for irritation of skin and mucous membranes by medical devices and their materials or extracts. Amendment A1:2025 adds additional in vitro reconstructed human epidermis models."
+    },
+    {
+      "id": "eu_mdr-hs-en-iso-10993-1-2025",
+      "number": "EN ISO 10993-1:2025",
+      "title": {
+        "en": "Biological evaluation of medical devices - Part 1: Requirements and general principles for the evaluation of biological safety within a risk management process (ISO 10993-1:2025)",
+        "zh": "医疗器械生物学评价 - 第1部分：风险管理过程中生物安全评价的要求和一般原则"
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2026/1231/oj",
+      "source_verified": "2026-06-24",
+      "category": "biocompatibility",
+      "standard_type": "harmonised",
+      "scope": {
+        "en": "General framework for biological evaluation of medical devices within risk management",
+        "zh": ""
+      },
+      "applicable_gsprs": [
+        "10",
+        "10.1",
+        "10.2",
+        "10.4",
+        "10.4.1",
+        "10.4.2",
+        "10.4.3",
+        "10.4.4"
+      ],
+      "abstract": "Specifies the general principles governing the biological evaluation of medical devices within a risk management process, including categorisation of devices based on nature and duration of body contact."
+    },
+    {
+      "id": "eu_mdr-hs-en-iso-10993-5-2009",
+      "number": "EN ISO 10993-5:2009",
+      "title": {
+        "en": "Biological evaluation of medical devices - Part 5: Tests for in vitro cytotoxicity (ISO 10993-5:2009)",
+        "zh": "医疗器械生物学评价 - 第5部分：体外细胞毒性试验"
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2026/1231/oj",
+      "source_verified": "2026-06-24",
+      "category": "biocompatibility",
+      "amendments": [
+        "EN ISO 10993-5:2009/A11:2025"
+      ],
+      "standard_type": "harmonised",
+      "scope": {
+        "en": "In vitro cytotoxicity testing of medical devices",
+        "zh": ""
+      },
+      "applicable_gsprs": [
+        "10",
+        "10.1",
+        "10.4",
+        "10.4.1"
+      ],
+      "abstract": "Describes test methods for the assessment of in vitro cytotoxicity of medical devices. Amendment A11:2025 adds EU MDR-specific Annex Z requirements."
     }
   ]
 }

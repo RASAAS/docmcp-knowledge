@@ -2,18 +2,18 @@
   "directory": "eu_mdr/standards",
   "description": "EU MDR Harmonised Standards (Official Journal)",
   "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
-  "latest_amendment": "2026/760",
-  "latest_amendment_url": "https://eur-lex.europa.eu/eli/dec_impl/2026/760/oj",
-  "last_updated": "2026-05-04",
-  "total_standards": 51,
-  "harmonised_count": 51,
+  "latest_amendment": "2026/1231",
+  "latest_amendment_url": "https://eur-lex.europa.eu/eli/dec_impl/2026/1231/oj",
+  "last_updated": "2026-06-24",
+  "total_standards": 65,
+  "harmonised_count": 65,
   "categories": {
     "biocompatibility": {
       "name": {
         "zh": "生物相容性",
         "en": "Biocompatibility"
       },
-      "count": 8,
+      "count": 10,
       "file": "standards-biocompatibility.json"
     },
     "breathing_gas_pathways": {
@@ -45,7 +45,7 @@
         "zh": "电气安全与EMC",
         "en": "Electrical Safety & EMC"
       },
-      "count": 1,
+      "count": 2,
       "file": "standards-electrical_safety.json"
     },
     "general": {
@@ -53,7 +53,7 @@
         "zh": "通用要求",
         "en": "General Requirements"
       },
-      "count": 25,
+      "count": 36,
       "file": "standards-general.json"
     },
     "labelling": {

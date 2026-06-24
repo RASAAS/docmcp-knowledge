@@ -8,11 +8,12 @@
         "zh": "医用电气设备 - 第2-83部分：家用光疗设备的基本安全和基本性能的特殊要求"
       },
       "status": "active",
-      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
-      "source_verified": "2026-04-09",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2026/1231/oj",
+      "source_verified": "2026-06-24",
       "category": "electrical_safety",
       "amendments": [
-        "EN IEC 60601-2-83:2020/A11:2021"
+        "EN IEC 60601-2-83:2020/A11:2021",
+        "EN IEC 60601-2-83:2020/A1:2025"
       ],
       "standard_type": "harmonised",
       "scope": "Particular requirements for home healthcare environment light therapy equipment",
@@ -24,7 +25,36 @@
         "14.7",
         "21"
       ],
-      "abstract": "Applies to basic safety and essential performance of home healthcare environment light therapy equipment."
+      "abstract": "Applies to basic safety and essential performance of home healthcare environment light therapy equipment. Amendment A1:2025 incorporates latest technical and scientific progress."
+    },
+    {
+      "id": "eu_mdr-hs-en-60601-1-2006",
+      "number": "EN 60601-1:2006",
+      "title": {
+        "en": "Medical electrical equipment - Part 1: General requirements for basic safety and essential performance",
+        "zh": "医用电气设备 - 第1部分：基本安全和基本性能的通用要求"
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2026/1231/oj",
+      "source_verified": "2026-06-24",
+      "category": "electrical_safety",
+      "amendments": [
+        "EN 60601-1:2006/A13:2024"
+      ],
+      "standard_type": "harmonised",
+      "scope": "General requirements for basic safety and essential performance of medical electrical equipment",
+      "applicable_gsprs": [
+        "14",
+        "14.1",
+        "14.2",
+        "14.3",
+        "14.6",
+        "14.7",
+        "15",
+        "15.1",
+        "21"
+      ],
+      "abstract": "Specifies general requirements and serves as the basis for particular requirements of IEC 60601-2 series. Amendment A13:2024 adapts the standard to EU MDR requirements."
     }
   ]
 }

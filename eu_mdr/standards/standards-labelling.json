@@ -8,9 +8,12 @@
         "zh": "医疗器械 - 制造商提供信息所用符号 - 第1部分：通用要求"
       },
       "status": "active",
-      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
-      "source_verified": "2026-04-09",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2026/1231/oj",
+      "source_verified": "2026-06-24",
       "category": "labelling",
+      "amendments": [
+        "EN ISO 15223-1:2021/A1:2025"
+      ],
       "applicable_gsprs": [
         "4",
         "10",
@@ -33,7 +36,7 @@
         "zh": ""
       },
       "standard_type": "harmonised",
-      "abstract": "Identifies symbols used to convey information for the safe and effective use of medical devices. Provides requirements for symbols used in medical device labelling."
+      "abstract": "Identifies symbols used to convey information for the safe and effective use of medical devices. Amendment A1:2025 adds a defined term for authorized representative and modifies EC REP symbol to not be country or region specific."
     },
     {
       "id": "en-iso-17664-1-2021",

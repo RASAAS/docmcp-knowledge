@@ -491,6 +491,227 @@
         "11"
       ],
       "abstract": "Specifies construction, design and performance requirements and test methods for medical face masks."
+    },
+    {
+      "id": "en-iso-1135-4-2025",
+      "number": "EN ISO 1135-4:2025",
+      "title": {
+        "en": "Transfusion equipment for medical use - Part 4: Transfusion sets for single use, gravity feed (ISO 1135-4:2025)",
+        "zh": "医用输血设备 - 第4部分：一次性重力输注输血器"
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2026/1231/oj",
+      "harmonized": true,
+      "standard_type": "harmonised",
+      "scope": "Transfusion sets for single use with gravity feed",
+      "applicable_gsprs": [
+        "10",
+        "10.1",
+        "10.3",
+        "10.4",
+        "11"
+      ],
+      "abstract": "Specifies requirements for single-use transfusion sets with gravity feed, intended for the transfusion of blood and blood components."
+    },
+    {
+      "id": "en-iso-1135-5-2025",
+      "number": "EN ISO 1135-5:2025",
+      "title": {
+        "en": "Transfusion equipment for medical use - Part 5: Transfusion sets for single use with pressure infusion apparatus (ISO 1135-5:2025)",
+        "zh": "医用输血设备 - 第5部分：一次性加压输注输血器"
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2026/1231/oj",
+      "harmonized": true,
+      "standard_type": "harmonised",
+      "scope": "Transfusion sets for single use with pressure infusion apparatus",
+      "applicable_gsprs": [
+        "10",
+        "10.1",
+        "10.3",
+        "10.4",
+        "11"
+      ],
+      "abstract": "Specifies requirements for single-use transfusion sets used with pressure infusion apparatus for the transfusion of blood and blood components."
+    },
+    {
+      "id": "en-iso-12870-2025",
+      "number": "EN ISO 12870:2025",
+      "title": {
+        "en": "Ophthalmic optics - Spectacle frames - Requirements and test methods (ISO 12870:2024)",
+        "zh": "眼科光学 - 眼镜架 - 要求和试验方法"
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2026/1231/oj",
+      "harmonized": true,
+      "standard_type": "harmonised",
+      "scope": "Spectacle frames - Requirements and test methods",
+      "applicable_gsprs": [
+        "10",
+        "10.1",
+        "10.3",
+        "10.4"
+      ],
+      "abstract": "Specifies fundamental requirements and test methods for unglazed spectacle frames, including materials, construction, and mechanical resistance."
+    },
+    {
+      "id": "en-iso-14607-2025",
+      "number": "EN ISO 14607:2025",
+      "title": {
+        "en": "Non-active surgical implants - Mammary implants - Specific requirements (ISO 14607:2024)",
+        "zh": "非有源外科植入物 - 乳房植入物 - 特殊要求"
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2026/1231/oj",
+      "harmonized": true,
+      "standard_type": "harmonised",
+      "scope": "Non-active surgical implants - Mammary implants",
+      "applicable_gsprs": [
+        "10",
+        "10.1",
+        "10.3",
+        "10.4",
+        "11",
+        "19"
+      ],
+      "abstract": "Specifies particular requirements for mammary implants regarding design, materials, performance, and testing including shell integrity and fill volumes."
+    },
+    {
+      "id": "en-iso-14889-2025",
+      "number": "EN ISO 14889:2025",
+      "title": {
+        "en": "Ophthalmic optics - Spectacle lenses - Fundamental requirements for uncut finished lenses (ISO 14889:2025)",
+        "zh": "眼科光学 - 眼镜片 - 未切割成品镜片的基本要求"
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2026/1231/oj",
+      "harmonized": true,
+      "standard_type": "harmonised",
+      "scope": "Spectacle lenses - Fundamental requirements for uncut finished lenses",
+      "applicable_gsprs": [
+        "10",
+        "10.1",
+        "10.3",
+        "14"
+      ],
+      "abstract": "Specifies fundamental requirements for uncut finished spectacle lenses, including optical and mechanical properties."
+    },
+    {
+      "id": "en-iso-15883-1-2025",
+      "number": "EN ISO 15883-1:2025",
+      "title": {
+        "en": "Washer-disinfectors - Part 1: General requirements, terms and definitions and tests (ISO 15883-1:2024)",
+        "zh": "清洗消毒器 - 第1部分：通用要求、术语和定义及试验"
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2026/1231/oj",
+      "harmonized": true,
+      "standard_type": "harmonised",
+      "scope": "Washer-disinfectors - General requirements and tests",
+      "applicable_gsprs": [
+        "11",
+        "11.2",
+        "11.5"
+      ],
+      "abstract": "Specifies general performance requirements and tests for washer-disinfectors used in healthcare facilities for cleaning and thermal disinfection of re-usable medical devices."
+    },
+    {
+      "id": "en-iso-15883-2-2025",
+      "number": "EN ISO 15883-2:2025",
+      "title": {
+        "en": "Washer-disinfectors - Part 2: Requirements and tests for washer-disinfectors employing thermal disinfection for critical and semi-critical medical devices (ISO 15883-2:2024)",
+        "zh": "清洗消毒器 - 第2部分：关键和半关键医疗器械热消毒清洗消毒器的要求和试验"
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2026/1231/oj",
+      "harmonized": true,
+      "standard_type": "harmonised",
+      "scope": "Washer-disinfectors for critical and semi-critical medical devices using thermal disinfection",
+      "applicable_gsprs": [
+        "11",
+        "11.2",
+        "11.5"
+      ],
+      "abstract": "Specifies particular requirements for washer-disinfectors that employ thermal disinfection for processing critical and semi-critical re-usable medical devices."
+    },
+    {
+      "id": "en-iso-15883-3-2025",
+      "number": "EN ISO 15883-3:2025",
+      "title": {
+        "en": "Washer-disinfectors - Part 3: Requirements and tests for washer-disinfectors employing thermal disinfection for human waste containers (ISO 15883-3:2024)",
+        "zh": "清洗消毒器 - 第3部分：人体废物容器热消毒清洗消毒器的要求和试验"
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2026/1231/oj",
+      "harmonized": true,
+      "standard_type": "harmonised",
+      "scope": "Washer-disinfectors for human waste containers using thermal disinfection",
+      "applicable_gsprs": [
+        "11",
+        "11.2",
+        "11.5"
+      ],
+      "abstract": "Specifies particular requirements for washer-disinfectors employing thermal disinfection for human waste containers in healthcare settings."
+    },
+    {
+      "id": "en-iso-15883-7-2025",
+      "number": "EN ISO 15883-7:2025",
+      "title": {
+        "en": "Washer-disinfectors - Part 7: Requirements and tests for washer-disinfectors employing chemical disinfection for non-critical thermolabile medical devices and health care equipment (ISO 15883-7:2025)",
+        "zh": "清洗消毒器 - 第7部分：非关键热敏医疗器械化学消毒清洗消毒器的要求和试验"
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2026/1231/oj",
+      "harmonized": true,
+      "standard_type": "harmonised",
+      "scope": "Washer-disinfectors for non-critical thermolabile devices using chemical disinfection",
+      "applicable_gsprs": [
+        "11",
+        "11.2",
+        "11.5"
+      ],
+      "abstract": "Specifies particular requirements for washer-disinfectors employing chemical disinfection for non-critical thermolabile medical devices and healthcare equipment."
+    },
+    {
+      "id": "en-iso-22675-2025",
+      "number": "EN ISO 22675:2025",
+      "title": {
+        "en": "Prosthetics - Testing of ankle-foot devices and foot units - Requirements and test methods (ISO 22675:2024)",
+        "zh": "假肢 - 踝足装置和足部组件的试验 - 要求和试验方法"
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2026/1231/oj",
+      "harmonized": true,
+      "standard_type": "harmonised",
+      "scope": "Prosthetics - Testing of ankle-foot devices and foot units",
+      "applicable_gsprs": [
+        "10",
+        "10.1",
+        "10.3",
+        "14"
+      ],
+      "abstract": "Specifies requirements and test methods for structural testing of ankle-foot devices and foot units used in lower limb prosthetic assemblies."
+    },
+    {
+      "id": "en-iso-23908-2025",
+      "number": "EN ISO 23908:2025",
+      "title": {
+        "en": "Sharps injury protection - Sharps protection mechanisms for single-use needles, introducers for catheters and needles used for blood testing, monitoring, sampling and medical substance administration - Requirements and test methods (ISO 23908:2024)",
+        "zh": "利器伤害防护 - 一次性针头、导管引导器及用于血液检测、监测、采样和给药针头的利器防护机构 - 要求和试验方法"
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2026/1231/oj",
+      "harmonized": true,
+      "standard_type": "harmonised",
+      "scope": "Sharps injury protection mechanisms for single-use needles and catheters",
+      "applicable_gsprs": [
+        "1",
+        "3",
+        "9",
+        "14",
+        "14.1"
+      ],
+      "abstract": "Specifies requirements and test methods for sharps protection mechanisms intended to reduce the risk of needlestick and sharps injuries."
     }
   ]
 }
