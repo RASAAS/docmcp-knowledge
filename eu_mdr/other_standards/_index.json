@@ -1,15 +1,15 @@
 {
   "directory": "eu_mdr/other_standards",
   "description": "International Standards (non-harmonised) applicable to medical devices under EU MDR",
-  "last_updated": "2026-05-04",
-  "total_standards": 249,
+  "last_updated": "2026-06-24",
+  "total_standards": 221,
   "categories": {
     "active_implants": {
       "name": {
         "zh": "有源植入物",
         "en": "Active Implantable Devices"
       },
-      "count": 6,
+      "count": 5,
       "file": "standards-active_implants.json"
     },
     "anaesthesia": {
@@ -33,7 +33,7 @@
         "zh": "生物相容性",
         "en": "Biocompatibility"
       },
-      "count": 23,
+      "count": 9,
       "file": "standards-biocompatibility.json"
     },
     "biological_materials": {
@@ -73,7 +73,7 @@
         "zh": "小口径连接器",
         "en": "Small-bore Connectors"
       },
-      "count": 3,
+      "count": 2,
       "file": "standards-connectors.json"
     },
     "cybersecurity": {
@@ -97,7 +97,7 @@
         "en": "Diagnostic Imaging",
         "zh": "诊断影像设备"
       },
-      "count": 13,
+      "count": 12,
       "file": "standards-diagnostic_imaging.json"
     },
     "dialysis": {
@@ -121,7 +121,7 @@
         "zh": "电气安全与EMC",
         "en": "Electrical Safety & EMC"
       },
-      "count": 19,
+      "count": 15,
       "file": "standards-electrical_safety.json"
     },
     "endoscopy": {
@@ -169,7 +169,7 @@
         "zh": "体外诊断",
         "en": "In Vitro Diagnostics"
       },
-      "count": 4,
+      "count": 3,
       "file": "standards-ivd.json"
     },
     "labelling": {
@@ -329,7 +329,7 @@
         "zh": "辐射防护与放射治疗",
         "en": "Radiation Protection & Therapy"
       },
-      "count": 11,
+      "count": 9,
       "file": "standards-radiation_protection.json"
     },
     "regulatory_references": {
@@ -361,7 +361,7 @@
         "zh": "软件与可用性 (待协调)",
         "en": "Software & Usability (Pending)"
       },
-      "count": 14,
+      "count": 12,
       "file": "standards-software.json"
     },
     "sterilization": {
@@ -369,7 +369,7 @@
         "zh": "灭菌与无菌包装",
         "en": "Sterilization & Packaging"
       },
-      "count": 11,
+      "count": 9,
       "file": "standards-sterilization.json"
     },
     "surgical_implants": {
@@ -405,5 +405,5 @@
       "file": "standards-wound_care.json"
     }
   },
-  "total_count": 250
+  "total_count": 221
 }
