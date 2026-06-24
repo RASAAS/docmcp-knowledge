@@ -1,11 +1,7 @@
----
-title: "质量管理"
----
+# Quality Management - 相关国际标准
 
-# 质量管理
+以下是与 **Quality Management** 相关的非协调国际标准，供 EU MDR 合规参考。
 
-本类别共 **1** 条标准。
-
-| 标准编号 | 标题 | 适用范围 | GSPR |
-|----------|------|----------|------|
-| [ISO 13485:2016](https://eur-lex.europa.eu/eli/dec_impl/2021/1182) | Medical devices — Quality management systems — Requirements for regulatory purposes | Quality management system requirements | 1, 2, 3, 4, 5, 6, 7, 8 |
+| 标准号 | 标题 | 状态 | 适用GSPRs | 官方链接 |
+|--------|------|------|-----------|----------|
+| ISO 13485:2016 | Medical devices — Quality management systems — Requirements ... | active | 1, 2, 3, 4, 5, 6, 7, 8 | [官方链接](https://eur-lex.europa.eu/eli/dec_impl/2021/1182) |

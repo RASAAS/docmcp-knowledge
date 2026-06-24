@@ -1,12 +1,8 @@
----
-title: "Drug-Device Combination"
----
+# Drug Device Combination - Related International Standards
 
-# Drug-Device Combination
+The following non-harmonised international standards are related to **Drug Device Combination** for EU MDR compliance reference.
 
-This category contains **2**  standards.
-
-| Standard | Title | Scope | GSPR |
-|----------|------|----------|------|
-| [ISO 11608-1:2022](https://www.iso.org/standard/70727.html) | Needle-based injection systems for medical use - Requirements and test methods - Part 1: Needle-based injection systems | Needle-based injection systems. | 10, 14, 14.7 |
-| [ISO 11608-2:2022](https://www.iso.org/search.html?q=ISO+11608-2) | Needle-based injection systems for medical use - Requirements and test methods - Part 2: Needles | Needles for injection systems. | 10, 14 |
+| Standard | Title | Status | GSPRs | Link |
+|----------|-------|--------|-------|------|
+| ISO 11608-1:2022 | Needle-based injection systems for medical use - Requirement... | active | 10, 14, 14.7 | [Link](https://www.iso.org/search.html?q=ISO+11608-1) |
+| ISO 11608-2:2022 | Needle-based injection systems for medical use - Requirement... | active | 10, 14 | [Link](https://www.iso.org/search.html?q=ISO+11608-2) |

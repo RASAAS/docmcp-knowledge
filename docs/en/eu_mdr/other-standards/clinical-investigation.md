@@ -1,13 +1,9 @@
----
-title: "Clinical Investigation"
----
+# Clinical Investigation - Related International Standards
 
-# Clinical Investigation
+The following non-harmonised international standards are related to **Clinical Investigation** for EU MDR compliance reference.
 
-This category contains **3**  standards.
-
-| Standard | Title | Scope | GSPR |
-|----------|------|----------|------|
-| [ISO 14155:2020](https://eur-lex.europa.eu/eli/dec_impl/2021/1182) | Clinical investigation of medical devices for human subjects — Good clinical practice | Clinical investigation requirements | 7 |
-| [ISO 14155:2020+AMD1:2024](https://www.iso.org/standard/88916.html) | Clinical investigation of medical devices for human subjects - Good clinical practice | Clinical investigation of medical devices for human subjects -- Good clinical... | 1, 6, 8 |
-| [ISO 20916:2019](https://www.iso.org/standard/69455.html) | In vitro diagnostic medical devices - Clinical performance studies using specimens from human subjects - Good study practice | In vitro diagnostic medical devices -- Clinical performance studies using spe... | 1, 6, 8 |
+| Standard | Title | Status | GSPRs | Link |
+|----------|-------|--------|-------|------|
+| ISO 14155:2020 | Clinical investigation of medical devices for human subjects... | active | 7 | [Link](https://eur-lex.europa.eu/eli/dec_impl/2021/1182) |
+| ISO 14155:2020+AMD1:2024 | Clinical investigation of medical devices for human subjects... | active | 1, 6, 8 | [Link](https://www.iso.org/search.html?q=ISO+14155) |
+| ISO 20916:2019 | In vitro diagnostic medical devices - Clinical performance s... | active | 1, 6, 8 | [Link](https://www.iso.org/standard/69455.html) |

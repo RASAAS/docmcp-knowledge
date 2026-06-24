@@ -14,9 +14,10 @@
         "20"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.astm.org/f2477-24.html",
+      "source_url": "https://store.astm.org/f2477-24.html",
       "abstract": "Specifies test methods for evaluating the pulsatile durability of vascular stents in vitro.",
-      "scope": "Standard test methods for in vitro pulsatile durability testing of vascular stents."
+      "scope": "Standard test methods for in vitro pulsatile durability testing of vascular stents.",
+      "source_verified": "2026-06-24"
     },
     {
       "id": "astm-f2346-18r26",
@@ -32,9 +33,10 @@
         "20"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.astm.org/f2346-18r26.html",
+      "source_url": "https://store.astm.org/f2346-18r26.html",
       "abstract": "Specifies test methods for static and dynamic characterization of spinal artificial disc prostheses.",
-      "scope": "Standard test methods for static and dynamic characterization of spinal artificial discs."
+      "scope": "Standard test methods for static and dynamic characterization of spinal artificial discs.",
+      "source_verified": "2026-06-24"
     }
   ]
 }

@@ -1,11 +1,7 @@
----
-title: "Home Healthcare"
----
+# Home Healthcare - Related International Standards
 
-# Home Healthcare
+The following non-harmonised international standards are related to **Home Healthcare** for EU MDR compliance reference.
 
-This category contains **1**  standards.
-
-| Standard | Title | Scope | GSPR |
-|----------|------|----------|------|
-| [IEC 60601-1-11:2015+AMD1:2020](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-1-11) | Medical electrical equipment - Part 1-11: General requirements for basic safety and essential performance - Collateral standard: Requirements for medical electrical equipment and medical electrical systems used in the home healthcare environment | General requirements for basic safety and essential performance -- Collateral... | 14, 18, 22 |
+| Standard | Title | Status | GSPRs | Link |
+|----------|-------|--------|-------|------|
+| IEC 60601-1-11:2015+AMD1:2020 | Medical electrical equipment - Part 1-11: General requiremen... | active | 14, 18, 22 | [Link](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-1-11) |

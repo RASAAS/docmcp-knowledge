@@ -1,12 +1,8 @@
----
-title: "再处理"
----
+# Reprocessing - 相关国际标准
 
-# 再处理
+以下是与 **Reprocessing** 相关的非协调国际标准，供 EU MDR 合规参考。
 
-本类别共 **2** 条标准。
-
-| 标准编号 | 标题 | 适用范围 | GSPR |
-|----------|------|----------|------|
-| [ISO 17664-1:2021](https://www.iso.org/standard/81118.html) | Processing of health care products - Information to be provided by the medical device manufacturer for the processing of medical devices - Part 1: Critical and semi-critical medical devices | Processing of health care products -- Information to be provided by the medic... | 11, 23 |
-| [ISO 17664-2:2021](https://www.iso.org/standard/81119.html) | Processing of health care products - Information to be provided by the medical device manufacturer for the processing of medical devices - Part 2: Non-critical medical devices | Processing of health care products -- Information to be provided by the medic... | 11, 23 |
+| 标准号 | 标题 | 状态 | 适用GSPRs | 官方链接 |
+|--------|------|------|-----------|----------|
+| ISO 17664-1:2021 | Processing of health care products - Information to be provi... | active | 11, 23 | [官方链接](https://www.iso.org/search.html?q=ISO+17664-1) |
+| ISO 17664-2:2021 | Processing of health care products - Information to be provi... | active | 11, 23 | [官方链接](https://www.iso.org/search.html?q=ISO+17664-2) |

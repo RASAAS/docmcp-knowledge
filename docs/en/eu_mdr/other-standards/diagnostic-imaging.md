@@ -1,22 +1,18 @@
----
-title: "Diagnostic Imaging"
----
+# Diagnostic Imaging - Related International Standards
 
-# Diagnostic Imaging
+The following non-harmonised international standards are related to **Diagnostic Imaging** for EU MDR compliance reference.
 
-This category contains **12**  standards.
-
-| Standard | Title | Scope | GSPR |
-|----------|------|----------|------|
-| [IEC 60601-2-28:2017](https://webstore.iec.ch/en/publication/28614) | Medical electrical equipment - Part 2-28: Particular requirements for the basic safety and essential performance of X-ray tube assemblies for medical diagnosis | X-ray tube assemblies for medical diagnosis. | 14, 16 |
-| [IEC 60601-2-33:2022](https://webstore.iec.ch/en/publication/62500) | Medical electrical equipment - Part 2-33: Particular requirements for the basic safety and essential performance of magnetic resonance equipment for medical diagnosis | MRI equipment for medical diagnosis. | 14, 16 |
-| [IEC 60601-2-43:2022](https://webstore.iec.ch/en/publication/66050) | Medical electrical equipment - Part 2-43: Particular requirements for the basic safety and essential performance of X-ray equipment for interventional procedures | X-ray equipment for interventional procedures. | 14, 16 |
-| [IEC 60601-2-44:2009+AMD1:2012+AMD2:2016](https://webstore.iec.ch/en/publication/24442) | Medical electrical equipment - Part 2-44: Particular requirements for the basic safety and essential performance of X-ray equipment for computed tomography | X-ray equipment for computed tomography. | 14, 16 |
-| [IEC 60601-2-45:2023](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-45) | Medical electrical equipment - Part 2-45: Particular requirements for the basic safety and essential performance of mammographic X-ray equipment and mammographic stereotactic devices | Mammographic X-ray equipment and stereotactic devices. | 14, 16 |
-| [IEC 60601-2-54:2022](https://webstore.iec.ch/en/publication/66049) | Medical electrical equipment - Part 2-54: Particular requirements for the basic safety and essential performance of X-ray equipment for radiography and radioscopy | X-ray equipment for radiography and radioscopy. | 14, 16 |
-| [IEC 62563-1:2022](https://webstore.iec.ch/en/publication/62502) | Medical electrical equipment - Medical image display systems - Part 1: Evaluation methods | Medical image display systems - Evaluation methods. | 14, 14.1 |
-| [IEC 62220-1-1:2015](https://webstore.iec.ch/en/publication/21937) | Medical electrical equipment - Characteristics of digital X-ray imaging devices - Part 1-1: Determination of the detective quantum efficiency - Detectors used in radiographic imaging | DQE measurement for digital radiographic detectors. | 14, 16 |
-| [IEC 62220-1-2:2007](https://webstore.iec.ch/en/publication/6601) | Medical electrical equipment - Characteristics of digital X-ray imaging devices - Part 1-2: Determination of the detective quantum efficiency - Detectors used in mammography | DQE measurement for mammographic detectors. | 14, 16 |
-| [IEC 62220-1-3:2008](https://webstore.iec.ch/en/publication/6602) | Medical electrical equipment - Characteristics of digital X-ray imaging devices - Part 1-3: Determination of the detective quantum efficiency - Detectors used in dynamic imaging | DQE measurement for dynamic imaging detectors. | 14, 16 |
-| [IEC 61223-3-5:2019](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+61223-3-5) | Evaluation and routine testing in medical imaging departments - Part 3-5: Acceptance and constancy tests - Imaging performance of computed tomography X-ray equipment | CT imaging performance testing. | 14, 16 |
-| [IEC 62464-1:2018](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+62464-1) | Magnetic resonance equipment for medical imaging - Part 1: Determination of essential image quality parameters | MRI image quality parameters. | 14, 16 |
+| Standard | Title | Status | GSPRs | Link |
+|----------|-------|--------|-------|------|
+| IEC 60601-2-28:2017 | Medical electrical equipment - Part 2-28: Particular require... | active | 14, 16 | [Link](https://webstore.iec.ch/en/publication/28614) |
+| IEC 60601-2-33:2022 | Medical electrical equipment - Part 2-33: Particular require... | active | 14, 16 | [Link](https://webstore.iec.ch/en/publication/62500) |
+| IEC 60601-2-43:2022 | Medical electrical equipment - Part 2-43: Particular require... | active | 14, 16 | [Link](https://webstore.iec.ch/en/publication/66050) |
+| IEC 60601-2-44:2009+AMD1:2012+AMD2:2016 | Medical electrical equipment - Part 2-44: Particular require... | active | 14, 16 | [Link](https://webstore.iec.ch/en/publication/24442) |
+| IEC 60601-2-45:2023 | Medical electrical equipment - Part 2-45: Particular require... | active | 14, 16 | [Link](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-45) |
+| IEC 60601-2-54:2022 | Medical electrical equipment - Part 2-54: Particular require... | active | 14, 16 | [Link](https://webstore.iec.ch/en/publication/66049) |
+| IEC 62563-1:2022 | Medical electrical equipment - Medical image display systems... | active | 14, 14.1 | [Link](https://webstore.iec.ch/en/publication/62502) |
+| IEC 62220-1-1:2015 | Medical electrical equipment - Characteristics of digital X-... | active | 14, 16 | [Link](https://webstore.iec.ch/en/publication/21937) |
+| IEC 62220-1-2:2007 | Medical electrical equipment - Characteristics of digital X-... | active | 14, 16 | [Link](https://webstore.iec.ch/en/publication/6601) |
+| IEC 62220-1-3:2008 | Medical electrical equipment - Characteristics of digital X-... | active | 14, 16 | [Link](https://webstore.iec.ch/en/publication/6602) |
+| IEC 61223-3-5:2019 | Evaluation and routine testing in medical imaging department... | active | 14, 16 | [Link](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+61223-3-5) |
+| IEC 62464-1:2018 | Magnetic resonance equipment for medical imaging - Part 1: D... | active | 14, 16 | [Link](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+62464-1) |

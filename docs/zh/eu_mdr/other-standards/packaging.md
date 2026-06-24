@@ -1,17 +1,13 @@
----
-title: "包装"
----
+# Packaging - 相关国际标准
 
-# 包装
+以下是与 **Packaging** 相关的非协调国际标准，供 EU MDR 合规参考。
 
-本类别共 **7** 条标准。
-
-| 标准编号 | 标题 | 适用范围 | GSPR |
-|----------|------|----------|------|
-| [ASTM F1980-21](https://www.astm.org/f1980-21.html) | Standard Guide for Accelerated Aging of Sterile Barrier Systems and Medical Devices | Standard guide for accelerated aging of sterile barrier systems and medical d... | 11 |
-| [ASTM D4169-23e1](https://www.astm.org/d4169-23e01.html) | Standard Practice for Performance Testing of Shipping Containers and Systems | Standard practice for performance testing of shipping containers and systems. | 11, 14 |
-| [ASTM F2825-18(2026)](https://www.astm.org/f2825-18r26.html) | Standard Practice for Climatic Stressing of Packaging Systems for Single Parcel Delivery | Standard practice for climatic stressing of packaging systems for single parc... | 11 |
-| [ASTM D4332-22](https://www.astm.org/d4332-22.html) | Standard Practice for Conditioning Containers, Packages, or Packaging Components for Testing | Standard practice for conditioning containers, packages, or packaging compone... | 11 |
-| [ASTM F2095-07(2021)](https://www.astm.org/f2095-07r21.html) | Standard Test Methods for Pressure Decay Leak Test for Flexible Packages With and Without Restraining Plates | Standard test methods for pressure decay leak test for flexible packages with... | 11 |
-| [ISO 11607-1:2019](https://www.iso.org/standard/70799.html) | Packaging for terminally sterilized medical devices - Part 1: Requirements for materials, sterile barrier systems and packaging systems | Packaging for terminally sterilized medical devices -- Requirements for mater... | 11 |
-| [ISO 11607-2:2019](https://www.iso.org/standard/70800.html) | Packaging for terminally sterilized medical devices - Part 2: Validation requirements for forming, sealing and assembly processes | Packaging for terminally sterilized medical devices -- Validation requirement... | 11 |
+| 标准号 | 标题 | 状态 | 适用GSPRs | 官方链接 |
+|--------|------|------|-----------|----------|
+| ASTM F1980-21 | Standard Guide for Accelerated Aging of Sterile Barrier Syst... | active | 11 | [官方链接](https://store.astm.org/f1980-21.html) |
+| ASTM D4169-23e1 | Standard Practice for Performance Testing of Shipping Contai... | active | 11, 14 | [官方链接](https://store.astm.org/d4169-23e01.html) |
+| ASTM F2825-18(2026) | Standard Practice for Climatic Stressing of Packaging System... | active | 11 | [官方链接](https://store.astm.org/f2825-18r26.html) |
+| ASTM D4332-22 | Standard Practice for Conditioning Containers, Packages, or ... | active | 11 | [官方链接](https://store.astm.org/d4332-22.html) |
+| ASTM F2095-07(2021) | Standard Test Methods for Pressure Decay Leak Test for Flexi... | active | 11 | [官方链接](https://store.astm.org/f2095-07r21.html) |
+| ISO 11607-1:2019 | Packaging for terminally sterilized medical devices - Part 1... | active | 11 | [官方链接](https://www.iso.org/standard/70799.html) |
+| ISO 11607-2:2019 | Packaging for terminally sterilized medical devices - Part 2... | active | 11 | [官方链接](https://www.iso.org/standard/70800.html) |

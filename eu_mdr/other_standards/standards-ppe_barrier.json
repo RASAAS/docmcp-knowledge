@@ -2,7 +2,7 @@
   "standards": [
     {
       "id": "en-14683-2019-ac-2019",
-      "number": "EN 14683:2019+AC:2019",
+      "number": "EN 14683:2025",
       "title": {
         "en": "Medical face masks - Requirements and test methods",
         "zh": ""
@@ -13,9 +13,10 @@
         "14"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://standards.cencenelec.eu/dyn/www/f?p=205:105:0::::FSP_LANG_ID:25&cs=1D09E97B4C16A78C0FE2C5A34E474E6B3#/search?q=EN+14683",
+      "source_url": "https://standards.iteh.ai/catalog/standards/cen/a6af61a7-49b8-4db9-aab9-5cae296b5bbf/en-14683-2025",
       "abstract": "Specifies construction, design and performance requirements and test methods for medical face masks.",
-      "scope": "Medical face masks -- Requirements and test methods."
+      "scope": "Medical face masks -- Requirements and test methods.",
+      "source_verified": "2026-06-24"
     }
   ]
 }

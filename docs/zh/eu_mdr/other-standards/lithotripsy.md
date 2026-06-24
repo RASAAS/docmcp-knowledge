@@ -1,11 +1,7 @@
----
-title: "碎石"
----
+# Lithotripsy - 相关国际标准
 
-# 碎石
+以下是与 **Lithotripsy** 相关的非协调国际标准，供 EU MDR 合规参考。
 
-本类别共 **1** 条标准。
-
-| 标准编号 | 标题 | 适用范围 | GSPR |
-|----------|------|----------|------|
-| [IEC 60601-2-36:2023](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-36) | Medical electrical equipment - Part 2-36: Particular requirements for the basic safety and essential performance of equipment for extracorporeally induced lithotripsy | Extracorporeally induced lithotripsy equipment. | 14, 14.1 |
+| 标准号 | 标题 | 状态 | 适用GSPRs | 官方链接 |
+|--------|------|------|-----------|----------|
+| IEC 60601-2-36:2023 | Medical electrical equipment - Part 2-36: Particular require... | active | 14, 14.1 | [官方链接](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-36) |

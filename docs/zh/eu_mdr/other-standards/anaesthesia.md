@@ -1,11 +1,7 @@
----
-title: "麻醉设备"
----
+# Anaesthesia - 相关国际标准
 
-# 麻醉设备
+以下是与 **Anaesthesia** 相关的非协调国际标准，供 EU MDR 合规参考。
 
-本类别共 **1** 条标准。
-
-| 标准编号 | 标题 | 适用范围 | GSPR |
-|----------|------|----------|------|
-| [IEC 60601-2-13:2022](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-13) | Medical electrical equipment - Part 2-13: Particular requirements for the basic safety and essential performance of an anaesthetic workstation | Anaesthetic workstations. | 14, 14.2 |
+| 标准号 | 标题 | 状态 | 适用GSPRs | 官方链接 |
+|--------|------|------|-----------|----------|
+| IEC 60601-2-13:2022 | Medical electrical equipment - Part 2-13: Particular require... | active | 14, 14.2 | [官方链接](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-13) |

@@ -1,11 +1,7 @@
----
-title: "Laser Surgery"
----
+# Laser Surgery - Related International Standards
 
-# Laser Surgery
+The following non-harmonised international standards are related to **Laser Surgery** for EU MDR compliance reference.
 
-This category contains **1**  standards.
-
-| Standard | Title | Scope | GSPR |
-|----------|------|----------|------|
-| [IEC 60601-2-22:2019](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-22) | Medical electrical equipment - Part 2-22: Particular requirements for the basic safety and essential performance of surgical, cosmetic, therapeutic and diagnostic laser equipment | Surgical, cosmetic, therapeutic and diagnostic laser equipment. | 14, 16 |
+| Standard | Title | Status | GSPRs | Link |
+|----------|-------|--------|-------|------|
+| IEC 60601-2-22:2019 | Medical electrical equipment - Part 2-22: Particular require... | active | 14, 16 | [Link](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-22) |

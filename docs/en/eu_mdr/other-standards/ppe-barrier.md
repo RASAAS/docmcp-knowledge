@@ -1,11 +1,7 @@
----
-title: "PPE & Barrier"
----
+# Ppe Barrier - Related International Standards
 
-# PPE & Barrier
+The following non-harmonised international standards are related to **Ppe Barrier** for EU MDR compliance reference.
 
-This category contains **1**  standards.
-
-| Standard | Title | Scope | GSPR |
-|----------|------|----------|------|
-| [EN 14683:2019+AC:2019](https://standards.cencenelec.eu/dyn/www/f?p=205:105:0::::FSP_LANG_ID:25&cs=1D09E97B4C16A78C0FE2C5A34E474E6B3#/search?q=EN+14683) | Medical face masks - Requirements and test methods | Medical face masks -- Requirements and test methods. | 11, 14 |
+| Standard | Title | Status | GSPRs | Link |
+|----------|-------|--------|-------|------|
+| EN 14683:2025 | Medical face masks - Requirements and test methods | active | 11, 14 | [Link](https://standards.iteh.ai/catalog/standards/cen/a6af61a7-49b8-4db9-aab9-5cae296b5bbf/en-14683-2025) |

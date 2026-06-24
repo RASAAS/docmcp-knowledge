@@ -1,14 +1,10 @@
----
-title: "Dental"
----
+# Dental - Related International Standards
 
-# Dental
+The following non-harmonised international standards are related to **Dental** for EU MDR compliance reference.
 
-This category contains **4**  standards.
-
-| Standard | Title | Scope | GSPR |
-|----------|------|----------|------|
-| [ISO 7405:2018](https://www.iso.org/standard/68936.html) | Dentistry - Evaluation of biocompatibility of medical devices used in dentistry | Dentistry -- Evaluation of biocompatibility of medical devices used in dentis... | 10 |
-| [IEC 60601-2-63:2023](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-63) | Medical electrical equipment - Part 2-63: Particular requirements for the basic safety and essential performance of dental extra-oral X-ray equipment | Dental extra-oral X-ray equipment. | 14, 16 |
-| [IEC 60601-2-65:2012+AMD1:2016](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-65) | Medical electrical equipment - Part 2-65: Particular requirements for the basic safety and essential performance of dental intra-oral X-ray equipment | Dental intra-oral X-ray equipment. | 14, 16 |
-| [ISO 1942:2020](https://www.iso.org/standard/72249.html) | Dentistry - Vocabulary | Dental terminology. | 23 |
+| Standard | Title | Status | GSPRs | Link |
+|----------|-------|--------|-------|------|
+| ISO 7405:2018 | Dentistry - Evaluation of biocompatibility of medical device... | active | 10 | [Link](https://www.iso.org/standard/68936.html) |
+| IEC 60601-2-63:2023 | Medical electrical equipment - Part 2-63: Particular require... | active | 14, 16 | [Link](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-63) |
+| IEC 60601-2-65:2012+AMD1:2016 | Medical electrical equipment - Part 2-65: Particular require... | active | 14, 16 | [Link](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-65) |
+| ISO 1942:2020 | Dentistry - Vocabulary | active | 23 | [Link](https://www.iso.org/standard/72249.html) |

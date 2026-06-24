@@ -1,11 +1,7 @@
----
-title: "Post-Market Surveillance"
----
+# Pms - Related International Standards
 
-# Post-Market Surveillance
+The following non-harmonised international standards are related to **Pms** for EU MDR compliance reference.
 
-This category contains **1**  standards.
-
-| Standard | Title | Scope | GSPR |
-|----------|------|----------|------|
-| [ISO/TR 20416:2020](https://www.iso.org/standard/67942.html) | Medical devices - Post-market surveillance for manufacturers | Guidance on post-market surveillance activities for medical device manufacturers | 3 |
+| Standard | Title | Status | GSPRs | Link |
+|----------|-------|--------|-------|------|
+| ISO/TR 20416:2020 | Medical devices - Post-market surveillance for manufacturers | active | 3 | [Link](https://www.iso.org/standard/67942.html) |

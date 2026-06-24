@@ -1,20 +1,16 @@
----
-title: "Breathing Gas Pathways"
----
+# Breathing Gas Pathways - Related International Standards
 
-# Breathing Gas Pathways
+The following non-harmonised international standards are related to **Breathing Gas Pathways** for EU MDR compliance reference.
 
-This category contains **10**  standards.
-
-| Standard | Title | Scope | GSPR |
-|----------|------|----------|------|
-| [ISO 7396-1:2016](https://www.iso.org/standard/60061.html) | Medical gas pipeline systems - Part 1: Pipeline systems for compressed medical gases and vacuum | Medical gas pipeline systems -- Pipeline systems for compressed medical gases... | 14, 21 |
-| [ISO 80601-2-12:2020](https://www.iso.org/standard/72443.html) | Medical electrical equipment - Part 2-12: Particular requirements for the basic safety and essential performance of critical care ventilators | Medical electrical equipment -- Particular requirements for the basic safety ... | 14, 18, 21 |
-| [ISO 80601-2-70:2020](https://www.iso.org/search.html?q=ISO+80601-2-70) | Medical electrical equipment - Part 2-70: Particular requirements for the basic safety and essential performance of sleep apnoea breathing therapy equipment | Medical electrical equipment -- Particular requirements for the basic safety ... | 14, 18 |
-| [IEC 60601-2-12:2023](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-12) | Medical electrical equipment - Part 2-12: Particular requirements for the basic safety and essential performance of critical care ventilators | Critical care ventilators. | 14, 14.2 |
-| [IEC 60601-2-84:2020](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-84) | Medical electrical equipment - Part 2-84: Particular requirements for the basic safety and essential performance of emergency and transport ventilators | Emergency and transport ventilators. | 14, 14.2 |
-| [IEC 60601-2-87:2024](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-87) | Medical electrical equipment - Part 2-87: Particular requirements for the basic safety and essential performance of high-frequency ventilators | High-frequency ventilators. | 14, 14.2 |
-| [ISO 80601-2-67:2020](https://www.iso.org/standard/72441.html) | Medical electrical equipment - Part 2-67: Particular requirements for the basic safety and essential performance of oxygen-conserving equipment | Oxygen-conserving devices. | 14, 18 |
-| [ISO 80601-2-69:2020](https://www.iso.org/standard/72441.html) | Medical electrical equipment - Part 2-69: Particular requirements for the basic safety and essential performance of oxygen concentrator equipment | Oxygen concentrators safety and performance. | 14, 18 |
-| [ISO 80601-2-79:2018](https://www.iso.org/standard/68069.html) | Medical electrical equipment - Part 2-79: Particular requirements for the basic safety and essential performance of ventilatory support equipment for ventilatory impairment | Home care ventilatory support equipment. | 14, 18 |
-| [ISO 80601-2-84:2020](https://www.iso.org/standard/68069.html) | Medical electrical equipment - Part 2-84: Particular requirements for the basic safety and essential performance of ventilators for the emergency medical services environment | EMS ventilators safety and performance. | 14, 18 |
+| Standard | Title | Status | GSPRs | Link |
+|----------|-------|--------|-------|------|
+| ISO 7396-1:2016 | Medical gas pipeline systems - Part 1: Pipeline systems for ... | active | 14, 21 | [Link](https://www.iso.org/standard/60061.html) |
+| ISO 80601-2-12:2020 | Medical electrical equipment - Part 2-12: Particular require... | active | 14, 18, 21 | [Link](https://www.iso.org/search.html?q=ISO+80601-2-12) |
+| ISO 80601-2-70:2020 | Medical electrical equipment - Part 2-70: Particular require... | active | 14, 18 | [Link](https://www.iso.org/search.html?q=ISO+80601-2-70) |
+| IEC 60601-2-12:2023 | Medical electrical equipment - Part 2-12: Particular require... | active | 14, 14.2 | [Link](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-12) |
+| IEC 60601-2-84:2020 | Medical electrical equipment - Part 2-84: Particular require... | active | 14, 14.2 | [Link](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-84) |
+| IEC 60601-2-87:2024 | Medical electrical equipment - Part 2-87: Particular require... | active | 14, 14.2 | [Link](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-87) |
+| ISO 80601-2-67:2020 | Medical electrical equipment - Part 2-67: Particular require... | active | 14, 18 | [Link](https://www.iso.org/search.html?q=ISO+80601-2-67) |
+| ISO 80601-2-69:2020 | Medical electrical equipment - Part 2-69: Particular require... | active | 14, 18 | [Link](https://www.iso.org/search.html?q=ISO+80601-2-69) |
+| ISO 80601-2-79:2018 | Medical electrical equipment - Part 2-79: Particular require... | active | 14, 18 | [Link](https://www.iso.org/search.html?q=ISO+80601-2-79) |
+| ISO 80601-2-84:2020 | Medical electrical equipment - Part 2-84: Particular require... | active | 14, 18 | [Link](https://www.iso.org/search.html?q=ISO+80601-2-84) |

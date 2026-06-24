@@ -1,16 +1,12 @@
----
-title: "Implant Testing"
----
+# Implant Testing - Related International Standards
 
-# Implant Testing
+The following non-harmonised international standards are related to **Implant Testing** for EU MDR compliance reference.
 
-This category contains **6**  standards.
-
-| Standard | Title | Scope | GSPR |
-|----------|------|----------|------|
-| [ASTM F2129-23](https://www.astm.org/f2129-23.html) | Standard Test Method for Conducting Cyclic Potentiodynamic Polarization Measurements to Determine the Corrosion Susceptibility of Small Implant Devices | Corrosion testing of small implant devices. | 10, 10.3 |
-| [ASTM F2052-21](https://www.astm.org/f2052-21.html) | Standard Test Method for Measurement of Magnetically Induced Displacement Force on Medical Devices in the Magnetic Resonance Environment | MRI safety testing for implants. | 10, 16 |
-| [ASTM F2213-25](https://www.astm.org/f2213-25.html) | Standard Test Method for Measurement of Magnetically Induced Torque on Medical Devices in the Magnetic Resonance Environment | MRI-induced torque testing for implants. | 10, 16 |
-| [ASTM F2182-19e2](https://www.astm.org/f2182-19e2.html) | Standard Test Method for Measurement of Radio Frequency Induced Heating on or Near Passive Implants During Magnetic Resonance Imaging | MRI RF heating testing for passive implants. | 10, 16 |
-| [ASTM F1717-24](https://www.astm.org/f1717-24.html) | Standard Test Methods for Spinal Implant Constructs in a Vertebrectomy Model | Spinal implant mechanical testing. | 10, 10.1 |
-| [ASTM F1264-16e1](https://www.astm.org/f1264-16e1.html) | Standard Specification and Test Methods for Intramedullary Fixation Devices | Intramedullary fixation device testing. | 10, 10.1 |
+| Standard | Title | Status | GSPRs | Link |
+|----------|-------|--------|-------|------|
+| ASTM F2129-25 | Standard Test Method for Conducting Cyclic Potentiodynamic P... | active | 10, 10.3 | [Link](https://store.astm.org/f2129-25.html) |
+| ASTM F2052-21 | Standard Test Method for Measurement of Magnetically Induced... | active | 10, 16 | [Link](https://store.astm.org/f2052-21.html) |
+| ASTM F2213-25 | Standard Test Method for Measurement of Magnetically Induced... | active | 10, 16 | [Link](https://store.astm.org/f2213-25.html) |
+| ASTM F2182-19e2 | Standard Test Method for Measurement of Radio Frequency Indu... | active | 10, 16 | [Link](https://store.astm.org/f2182-19e02.html) |
+| ASTM F1717-21 | Standard Test Methods for Spinal Implant Constructs in a Ver... | active | 10, 10.1 | [Link](https://store.astm.org/f1717-21.html) |
+| ASTM F1264-24 | Standard Specification and Test Methods for Intramedullary F... | active | 10, 10.1 | [Link](https://store.astm.org/f1264-24.html) |

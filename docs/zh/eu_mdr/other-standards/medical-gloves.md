@@ -1,12 +1,8 @@
----
-title: "医用手套"
----
+# Medical Gloves - 相关国际标准
 
-# 医用手套
+以下是与 **Medical Gloves** 相关的非协调国际标准，供 EU MDR 合规参考。
 
-本类别共 **2** 条标准。
-
-| 标准编号 | 标题 | 适用范围 | GSPR |
-|----------|------|----------|------|
-| [EN 455-1:2020](https://standards.cencenelec.eu/dyn/www/f?p=205:105:0::::FSP_LANG_ID:25&cs=1D09E97B4C16A78C0FE2C5A34E474E6B3#/search?q=EN+455-1) | Medical gloves for single use - Part 1: Requirements and testing for freedom from holes | Medical gloves for single use -- Requirements and testing for freedom from ho... | 10, 11 |
-| [EN 455-3:2015](https://standards.cencenelec.eu/dyn/www/f?p=205:105:0::::FSP_LANG_ID:25&cs=1D09E97B4C16A78C0FE2C5A34E474E6B3#/search?q=EN+455-3) | Medical gloves for single use - Part 3: Requirements and testing for biological evaluation | Medical gloves for single use -- Requirements and testing for biological eval... | 10, 11 |
+| 标准号 | 标题 | 状态 | 适用GSPRs | 官方链接 |
+|--------|------|------|-----------|----------|
+| EN 455-1:2020 | Medical gloves for single use - Part 1: Requirements and tes... | active | 10, 11 | [官方链接](https://standards.iteh.ai/catalog/standards/cen/e0c14925-0b83-4e48-880e-4a4e49cdc403/en-455-1-2020) |
+| EN 455-3:2023 | Medical gloves for single use - Part 3: Requirements and tes... | active | 10, 11 | [官方链接](https://standards.iteh.ai/catalog/standards/cen/bbecf90c-21e8-4606-95c9-feb2299854a3/en-455-3-2023) |

@@ -1,13 +1,9 @@
----
-title: "临床研究"
----
+# Clinical Investigation - 相关国际标准
 
-# 临床研究
+以下是与 **Clinical Investigation** 相关的非协调国际标准，供 EU MDR 合规参考。
 
-本类别共 **3** 条标准。
-
-| 标准编号 | 标题 | 适用范围 | GSPR |
-|----------|------|----------|------|
-| [ISO 14155:2020](https://eur-lex.europa.eu/eli/dec_impl/2021/1182) | Clinical investigation of medical devices for human subjects — Good clinical practice | Clinical investigation requirements | 7 |
-| [ISO 14155:2020+AMD1:2024](https://www.iso.org/standard/88916.html) | Clinical investigation of medical devices for human subjects - Good clinical practice | Clinical investigation of medical devices for human subjects -- Good clinical... | 1, 6, 8 |
-| [ISO 20916:2019](https://www.iso.org/standard/69455.html) | In vitro diagnostic medical devices - Clinical performance studies using specimens from human subjects - Good study practice | In vitro diagnostic medical devices -- Clinical performance studies using spe... | 1, 6, 8 |
+| 标准号 | 标题 | 状态 | 适用GSPRs | 官方链接 |
+|--------|------|------|-----------|----------|
+| ISO 14155:2020 | Clinical investigation of medical devices for human subjects... | active | 7 | [官方链接](https://eur-lex.europa.eu/eli/dec_impl/2021/1182) |
+| ISO 14155:2020+AMD1:2024 | Clinical investigation of medical devices for human subjects... | active | 1, 6, 8 | [官方链接](https://www.iso.org/search.html?q=ISO+14155) |
+| ISO 20916:2019 | In vitro diagnostic medical devices - Clinical performance s... | active | 1, 6, 8 | [官方链接](https://www.iso.org/standard/69455.html) |

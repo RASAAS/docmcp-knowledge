@@ -1,12 +1,8 @@
----
-title: "Reprocessing"
----
+# Reprocessing - Related International Standards
 
-# Reprocessing
+The following non-harmonised international standards are related to **Reprocessing** for EU MDR compliance reference.
 
-This category contains **2**  standards.
-
-| Standard | Title | Scope | GSPR |
-|----------|------|----------|------|
-| [ISO 17664-1:2021](https://www.iso.org/standard/81118.html) | Processing of health care products - Information to be provided by the medical device manufacturer for the processing of medical devices - Part 1: Critical and semi-critical medical devices | Processing of health care products -- Information to be provided by the medic... | 11, 23 |
-| [ISO 17664-2:2021](https://www.iso.org/standard/81119.html) | Processing of health care products - Information to be provided by the medical device manufacturer for the processing of medical devices - Part 2: Non-critical medical devices | Processing of health care products -- Information to be provided by the medic... | 11, 23 |
+| Standard | Title | Status | GSPRs | Link |
+|----------|-------|--------|-------|------|
+| ISO 17664-1:2021 | Processing of health care products - Information to be provi... | active | 11, 23 | [Link](https://www.iso.org/search.html?q=ISO+17664-1) |
+| ISO 17664-2:2021 | Processing of health care products - Information to be provi... | active | 11, 23 | [Link](https://www.iso.org/search.html?q=ISO+17664-2) |

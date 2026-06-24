@@ -1,11 +1,7 @@
----
-title: "激光手术"
----
+# Laser Surgery - 相关国际标准
 
-# 激光手术
+以下是与 **Laser Surgery** 相关的非协调国际标准，供 EU MDR 合规参考。
 
-本类别共 **1** 条标准。
-
-| 标准编号 | 标题 | 适用范围 | GSPR |
-|----------|------|----------|------|
-| [IEC 60601-2-22:2019](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-22) | Medical electrical equipment - Part 2-22: Particular requirements for the basic safety and essential performance of surgical, cosmetic, therapeutic and diagnostic laser equipment | Surgical, cosmetic, therapeutic and diagnostic laser equipment. | 14, 16 |
+| 标准号 | 标题 | 状态 | 适用GSPRs | 官方链接 |
+|--------|------|------|-----------|----------|
+| IEC 60601-2-22:2019 | Medical electrical equipment - Part 2-22: Particular require... | active | 14, 16 | [官方链接](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-22) |

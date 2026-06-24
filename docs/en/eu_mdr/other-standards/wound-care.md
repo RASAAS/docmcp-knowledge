@@ -1,11 +1,7 @@
----
-title: "Wound Care"
----
+# Wound Care - Related International Standards
 
-# Wound Care
+The following non-harmonised international standards are related to **Wound Care** for EU MDR compliance reference.
 
-This category contains **1**  standards.
-
-| Standard | Title | Scope | GSPR |
-|----------|------|----------|------|
-| [EN 13795-1:2019](https://standards.cencenelec.eu/dyn/www/f?p=205:105:0::::FSP_LANG_ID:25&cs=1D09E97B4C16A78C0FE2C5A34E474E6B3#/search?q=EN+13795-1) | Surgical clothing and drapes - Requirements and test methods - Part 1: Surgical drapes and gowns | Surgical clothing and drapes -- Requirements and test methods -- Surgical dra... | 11, 14 |
+| Standard | Title | Status | GSPRs | Link |
+|----------|-------|--------|-------|------|
+| EN 13795-1:2025 | Surgical clothing and drapes - Requirements and test methods... | active | 11, 14 | [Link](https://standards.iteh.ai/catalog/standards/cen/2b1bed76-5f10-4f35-858e-a07f8af30a9f/en-13795-1-2019) |

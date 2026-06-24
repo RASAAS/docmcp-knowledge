@@ -1,11 +1,7 @@
----
-title: "患者保温"
----
+# Patient Warming - 相关国际标准
 
-# 患者保温
+以下是与 **Patient Warming** 相关的非协调国际标准，供 EU MDR 合规参考。
 
-本类别共 **1** 条标准。
-
-| 标准编号 | 标题 | 适用范围 | GSPR |
-|----------|------|----------|------|
-| [IEC 60601-2-35:2020](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-35) | Medical electrical equipment - Part 2-35: Particular requirements for the basic safety and essential performance of heating devices using blankets, pads and mattresses and intended for heating in medical use | Medical heating blankets, pads and mattresses. | 14, 14.6 |
+| 标准号 | 标题 | 状态 | 适用GSPRs | 官方链接 |
+|--------|------|------|-----------|----------|
+| IEC 60601-2-35:2020 | Medical electrical equipment - Part 2-35: Particular require... | active | 14, 14.6 | [官方链接](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-35) |

@@ -1,12 +1,8 @@
----
-title: "Connectors"
----
+# Connectors - Related International Standards
 
-# Connectors
+The following non-harmonised international standards are related to **Connectors** for EU MDR compliance reference.
 
-This category contains **2**  standards.
-
-| Standard | Title | Scope | GSPR |
-|----------|------|----------|------|
-| [ISO 80369-1:2018+AMD1:2021](https://www.iso.org/standard/75686.html) | Small-bore connectors for liquids and gases in healthcare applications - Part 1: General requirements | Small-bore connectors for liquids and gases in healthcare applications -- Gen... | 14, 21 |
-| [ISO 80369-7:2021](https://www.iso.org/standard/73488.html) | Small-bore connectors for liquids and gases in healthcare applications - Part 7: Connectors for intravascular or hypodermic applications | Small-bore connectors for liquids and gases in healthcare applications -- Con... | 14, 21 |
+| Standard | Title | Status | GSPRs | Link |
+|----------|-------|--------|-------|------|
+| ISO 80369-1:2018+AMD1:2021 | Small-bore connectors for liquids and gases in healthcare ap... | active | 14, 21 | [Link](https://www.iso.org/search.html?q=ISO+80369-1) |
+| ISO 80369-7:2021 | Small-bore connectors for liquids and gases in healthcare ap... | active | 14, 21 | [Link](https://www.iso.org/search.html?q=ISO+80369-7) |

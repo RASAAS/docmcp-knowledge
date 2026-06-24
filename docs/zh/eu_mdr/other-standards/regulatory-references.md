@@ -1,27 +1,23 @@
----
-title: "法规交叉引用"
----
+# Regulatory References - 相关国际标准
 
-# 法规交叉引用
+以下是与 **Regulatory References** 相关的非协调国际标准，供 EU MDR 合规参考。
 
-本类别共 **17** 条标准。
-
-| 标准编号 | 标题 | 适用范围 | GSPR |
-|----------|------|----------|------|
-| [Directive 2011/65/EU (RoHS 2)](https://eur-lex.europa.eu/eli/dir/2011/65/oj) | Restriction of the use of certain hazardous substances in electrical and electronic equipment | Restricts use of hazardous substances (lead, mercury, cadmium, hexavalent chr... | 10, 10.4, 10.4.3 |
-| [Regulation (EC) No 1907/2006 (REACH)](https://eur-lex.europa.eu/eli/reg/2006/1907/oj) | Registration, Evaluation, Authorisation and Restriction of Chemicals | Chemical substance registration, evaluation, authorisation and restriction fo... | 10, 10.4, 10.4.2, 10.4.3 |
-| [Regulation (EC) No 1272/2008 (CLP)](https://eur-lex.europa.eu/eli/reg/2008/1272/oj) | Classification, Labelling and Packaging of Substances and Mixtures | Classification, labelling and packaging of chemical substances and mixtures; ... | 10, 10.4, 10.4.3, 23 |
-| [Directive 2012/19/EU (WEEE)](https://eur-lex.europa.eu/eli/dir/2012/19/oj) | Waste Electrical and Electronic Equipment | Collection, recycling and recovery of waste electrical and electronic equipment | 23 |
-| [Council Directive 2013/59/Euratom](https://eur-lex.europa.eu/eli/dir/2013/59/oj) | Basic safety standards for protection against the dangers arising from exposure to ionising radiation | Basic safety standards for ionising radiation protection | 15, 15.1, 15.2 |
-| [Regulation (EU) 2023/1542 (Battery Regulation)](https://eur-lex.europa.eu/eli/reg/2023/1542/oj) | Regulation concerning batteries and waste batteries, amending Directive 2008/98/EC and Regulation (EU) 2019/1020, repealing Directive 2006/66/EC | Sustainability and safety requirements for batteries in medical devices | 10 |
-| [Regulation (EU) 722/2012 (TSE)](https://eur-lex.europa.eu/eli/reg/2012/722/oj) | Concerning particular requirements as regards the requirements laid down in Council Directives 90/385/EEC and 93/42/EEC with respect to active implantable medical devices and medical devices manufactured utilising tissues of animal origin | Particular requirements for devices utilizing tissues of animal origin (TSE r... | 10, 13 |
-| [Regulation (EU) 2024/2847 (Cyber Resilience Act)](https://eur-lex.europa.eu/eli/reg/2024/2847/oj) | Regulation on horizontal cybersecurity requirements for products with digital elements (CRA) | Horizontal cybersecurity requirements for products with digital elements | 17, 18 |
-| [Directive (EU) 2022/2555 (NIS2)](https://eur-lex.europa.eu/eli/reg/2022/2555/oj) | Directive on measures for a high common level of cybersecurity across the Union (NIS 2 Directive) | Measures for a high common level of cybersecurity across the Union | 17, 18 |
-| [Regulation (EU) 2024/1689 (AI Act)](https://eur-lex.europa.eu/eli/reg/2024/1689/oj) | Regulation laying down harmonised rules on artificial intelligence (Artificial Intelligence Act) | Harmonised rules on artificial intelligence - requirements for high-risk AI s... | 17 |
-| [Regulation (EU) 2023/988 (GPSR)](https://eur-lex.europa.eu/eli/reg/2023/988/oj) | General Product Safety Regulation | General product safety regulation - baseline safety for consumer products | 1, 3, 4 |
-| [Regulation (EU) 2024/1781 (ESPR)](https://eur-lex.europa.eu/eli/reg/2024/1781/oj) | Regulation establishing a framework for setting ecodesign requirements for sustainable products (Ecodesign for Sustainable Products Regulation) | Ecodesign requirements for sustainable products framework | 10, 10.4 |
-| [Regulation (EU) 2025/40 (PPWR)](https://eur-lex.europa.eu/eli/reg/2025/40/oj) | Regulation on packaging and packaging waste, amending Regulation (EU) 2019/1020 and Directive (EU) 2019/904, and repealing Directive 94/62/EC | Packaging and packaging waste regulation - sustainability requirements | 11 |
-| [Directive 2014/53/EU (RED)](https://eur-lex.europa.eu/eli/dir/2014/53/oj) | Radio Equipment Directive - harmonisation of the laws of the Member States relating to the making available on the market of radio equipment | Radio equipment directive - essential requirements for radio equipment | 14 |
-| [Regulation (EU) 2023/1230 (Machinery Regulation)](https://eur-lex.europa.eu/eli/reg/2023/1230/oj) | Regulation on machinery and repealing Directive 2006/42/EC | Machinery regulation replacing Directive 2006/42/EC - safety of machinery | 1, 3, 9, 14 |
-| [Directive 2001/83/EC (Medicinal Products)](https://eur-lex.europa.eu/eli/dir/2001/83/oj) | Directive on the Community code relating to medicinal products for human use | Community code relating to medicinal products for human use | 12 |
-| [Directive (EU) 2022/2557 (CER Directive)](https://eur-lex.europa.eu/eli/reg/2022/2557/oj) | Directive on the resilience of critical entities | Resilience of critical entities - risk assessments and measures | 17 |
+| 标准号 | 标题 | 状态 | 适用GSPRs | 官方链接 |
+|--------|------|------|-----------|----------|
+| Directive 2011/65/EU (RoHS 2) | Restriction of the use of certain hazardous substances in el... | active | 10, 10.4, 10.4.3 | [官方链接](https://eur-lex.europa.eu/eli/dir/2011/65/oj) |
+| Regulation (EC) No 1907/2006 (REACH) | Registration, Evaluation, Authorisation and Restriction of C... | active | 10, 10.4, 10.4.2, 10.4.3 | [官方链接](https://eur-lex.europa.eu/eli/reg/2006/1907/oj) |
+| Regulation (EC) No 1272/2008 (CLP) | Classification, Labelling and Packaging of Substances and Mi... | active | 10, 10.4, 10.4.3, 23 | [官方链接](https://eur-lex.europa.eu/eli/reg/2008/1272/oj) |
+| Directive 2012/19/EU (WEEE) | Waste Electrical and Electronic Equipment | active | 23 | [官方链接](https://eur-lex.europa.eu/eli/dir/2012/19/oj) |
+| Council Directive 2013/59/Euratom | Basic safety standards for protection against the dangers ar... | active | 15, 15.1, 15.2 | [官方链接](https://eur-lex.europa.eu/eli/dir/2013/59/oj) |
+| Regulation (EU) 2023/1542 (Battery Regulation) | Regulation concerning batteries and waste batteries, amendin... | active | 10 | [官方链接](https://eur-lex.europa.eu/eli/reg/2023/1542/oj) |
+| Regulation (EU) 722/2012 (TSE) | Concerning particular requirements as regards the requiremen... | active | 10, 13 | [官方链接](https://eur-lex.europa.eu/eli/reg/2012/722/oj) |
+| Regulation (EU) 2024/2847 (Cyber Resilience Act) | Regulation on horizontal cybersecurity requirements for prod... | active | 17, 18 | [官方链接](https://eur-lex.europa.eu/eli/reg/2024/2847/oj) |
+| Directive (EU) 2022/2555 (NIS2) | Directive on measures for a high common level of cybersecuri... | active | 17, 18 | [官方链接](https://eur-lex.europa.eu/eli/reg/2022/2555/oj) |
+| Regulation (EU) 2024/1689 (AI Act) | Regulation laying down harmonised rules on artificial intell... | active | 17 | [官方链接](https://eur-lex.europa.eu/eli/reg/2024/1689/oj) |
+| Regulation (EU) 2023/988 (GPSR) | General Product Safety Regulation | active | 1, 3, 4 | [官方链接](https://eur-lex.europa.eu/eli/reg/2023/988/oj) |
+| Regulation (EU) 2024/1781 (ESPR) | Regulation establishing a framework for setting ecodesign re... | active | 10, 10.4 | [官方链接](https://eur-lex.europa.eu/eli/reg/2024/1781/oj) |
+| Regulation (EU) 2025/40 (PPWR) | Regulation on packaging and packaging waste, amending Regula... | active | 11 | [官方链接](https://eur-lex.europa.eu/eli/reg/2025/40/oj) |
+| Directive 2014/53/EU (RED) | Radio Equipment Directive - harmonisation of the laws of the... | active | 14 | [官方链接](https://eur-lex.europa.eu/eli/dir/2014/53/oj) |
+| Regulation (EU) 2023/1230 (Machinery Regulation) | Regulation on machinery and repealing Directive 2006/42/EC | active | 1, 3, 9, 14 | [官方链接](https://eur-lex.europa.eu/eli/reg/2023/1230/oj) |
+| Directive 2001/83/EC (Medicinal Products) | Directive on the Community code relating to medicinal produc... | active | 12 | [官方链接](https://eur-lex.europa.eu/eli/dir/2001/83/oj) |
+| Directive (EU) 2022/2557 (CER Directive) | Directive on the resilience of critical entities | active | 17 | [官方链接](https://eur-lex.europa.eu/eli/reg/2022/2557/oj) |

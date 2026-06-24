@@ -1,11 +1,7 @@
----
-title: "听力学"
----
+# Audiology - 相关国际标准
 
-# 听力学
+以下是与 **Audiology** 相关的非协调国际标准，供 EU MDR 合规参考。
 
-本类别共 **1** 条标准。
-
-| 标准编号 | 标题 | 适用范围 | GSPR |
-|----------|------|----------|------|
-| [IEC 60601-2-66:2019](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-66) | Medical electrical equipment - Part 2-66: Particular requirements for the basic safety and essential performance of hearing instruments and hearing instrument systems | Hearing instruments and hearing instrument systems. | 14, 14.1 |
+| 标准号 | 标题 | 状态 | 适用GSPRs | 官方链接 |
+|--------|------|------|-----------|----------|
+| IEC 60601-2-66:2019 | Medical electrical equipment - Part 2-66: Particular require... | active | 14, 14.1 | [官方链接](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-66) |

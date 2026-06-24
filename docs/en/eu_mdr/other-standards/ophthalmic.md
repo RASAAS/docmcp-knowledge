@@ -1,12 +1,8 @@
----
-title: "Ophthalmic"
----
+# Ophthalmic - Related International Standards
 
-# Ophthalmic
+The following non-harmonised international standards are related to **Ophthalmic** for EU MDR compliance reference.
 
-This category contains **2**  standards.
-
-| Standard | Title | Scope | GSPR |
-|----------|------|----------|------|
-| [ISO 11979-1:2018](https://www.iso.org/standard/72603.html) | Ophthalmic implants - Intraocular lenses - Part 1: Vocabulary, and optical properties and test methods | Ophthalmic implants -- Intraocular lenses -- Vocabulary and fundamental requi... | 10, 14, 15 |
-| [IEC 80601-2-58:2014+AMD1:2016](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+80601-2-58) | Medical electrical equipment - Part 2-58: Particular requirements for the basic safety and essential performance of lens removal devices and vitrectomy devices for ophthalmic surgery | Ophthalmic surgery devices - lens removal and vitrectomy. | 14, 14.1 |
+| Standard | Title | Status | GSPRs | Link |
+|----------|-------|--------|-------|------|
+| ISO 11979-1:2018 | Ophthalmic implants - Intraocular lenses - Part 1: Vocabular... | active | 10, 14, 15 | [Link](https://www.iso.org/search.html?q=ISO+11979-1) |
+| IEC 80601-2-58:2014+AMD1:2016 | Medical electrical equipment - Part 2-58: Particular require... | active | 14, 14.1 | [Link](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+80601-2-58) |

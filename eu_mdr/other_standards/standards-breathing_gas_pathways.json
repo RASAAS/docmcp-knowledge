@@ -32,7 +32,7 @@
         "21"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/standard/72443.html",
+      "source_url": "https://www.iso.org/search.html?q=ISO+80601-2-12",
       "abstract": "Specifies particular requirements for basic safety and essential performance of critical care ventilators.",
       "scope": "Medical electrical equipment -- Particular requirements for the basic safety and essential performance of critical care ventilators.",
       "source_verified": "2026-06-24"
@@ -120,8 +120,8 @@
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://www.iso.org/standard/72441.html",
-      "source_verified": "",
+      "source_url": "https://www.iso.org/search.html?q=ISO+80601-2-67",
+      "source_verified": "2026-06-24",
       "category": "breathing_gas_pathways",
       "standard_type": "non_harmonised",
       "scope": "Oxygen-conserving devices.",
@@ -139,8 +139,8 @@
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://www.iso.org/standard/72441.html",
-      "source_verified": "",
+      "source_url": "https://www.iso.org/search.html?q=ISO+80601-2-69",
+      "source_verified": "2026-06-24",
       "category": "breathing_gas_pathways",
       "standard_type": "non_harmonised",
       "scope": "Oxygen concentrators safety and performance.",
@@ -158,8 +158,8 @@
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://www.iso.org/standard/68069.html",
-      "source_verified": "",
+      "source_url": "https://www.iso.org/search.html?q=ISO+80601-2-79",
+      "source_verified": "2026-06-24",
       "category": "breathing_gas_pathways",
       "standard_type": "non_harmonised",
       "scope": "Home care ventilatory support equipment.",
@@ -177,8 +177,8 @@
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://www.iso.org/standard/68069.html",
-      "source_verified": "",
+      "source_url": "https://www.iso.org/search.html?q=ISO+80601-2-84",
+      "source_verified": "2026-06-24",
       "category": "breathing_gas_pathways",
       "standard_type": "non_harmonised",
       "scope": "EMS ventilators safety and performance.",

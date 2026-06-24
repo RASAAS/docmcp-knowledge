@@ -1,11 +1,7 @@
----
-title: "家用医疗"
----
+# Home Healthcare - 相关国际标准
 
-# 家用医疗
+以下是与 **Home Healthcare** 相关的非协调国际标准，供 EU MDR 合规参考。
 
-本类别共 **1** 条标准。
-
-| 标准编号 | 标题 | 适用范围 | GSPR |
-|----------|------|----------|------|
-| [IEC 60601-1-11:2015+AMD1:2020](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-1-11) | Medical electrical equipment - Part 1-11: General requirements for basic safety and essential performance - Collateral standard: Requirements for medical electrical equipment and medical electrical systems used in the home healthcare environment | General requirements for basic safety and essential performance -- Collateral... | 14, 18, 22 |
+| 标准号 | 标题 | 状态 | 适用GSPRs | 官方链接 |
+|--------|------|------|-----------|----------|
+| IEC 60601-1-11:2015+AMD1:2020 | Medical electrical equipment - Part 1-11: General requiremen... | active | 14, 18, 22 | [官方链接](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-1-11) |

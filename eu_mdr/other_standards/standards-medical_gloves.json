@@ -13,13 +13,14 @@
         "11"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://standards.cencenelec.eu/dyn/www/f?p=205:105:0::::FSP_LANG_ID:25&cs=1D09E97B4C16A78C0FE2C5A34E474E6B3#/search?q=EN+455-1",
+      "source_url": "https://standards.iteh.ai/catalog/standards/cen/e0c14925-0b83-4e48-880e-4a4e49cdc403/en-455-1-2020",
       "abstract": "Specifies requirements and testing for freedom from holes in medical gloves for single use.",
-      "scope": "Medical gloves for single use -- Requirements and testing for freedom from holes."
+      "scope": "Medical gloves for single use -- Requirements and testing for freedom from holes.",
+      "source_verified": "2026-06-24"
     },
     {
       "id": "en-455-3-2015",
-      "number": "EN 455-3:2015",
+      "number": "EN 455-3:2023",
       "title": {
         "en": "Medical gloves for single use - Part 3: Requirements and testing for biological evaluation",
         "zh": ""
@@ -30,9 +31,10 @@
         "11"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://standards.cencenelec.eu/dyn/www/f?p=205:105:0::::FSP_LANG_ID:25&cs=1D09E97B4C16A78C0FE2C5A34E474E6B3#/search?q=EN+455-3",
+      "source_url": "https://standards.iteh.ai/catalog/standards/cen/bbecf90c-21e8-4606-95c9-feb2299854a3/en-455-3-2023",
       "abstract": "Specifies requirements and testing for biological evaluation of medical gloves for single use.",
-      "scope": "Medical gloves for single use -- Requirements and testing for biological evaluation."
+      "scope": "Medical gloves for single use -- Requirements and testing for biological evaluation.",
+      "source_verified": "2026-06-24"
     }
   ]
 }

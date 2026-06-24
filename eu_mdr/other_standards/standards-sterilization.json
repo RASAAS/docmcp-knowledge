@@ -127,14 +127,14 @@
       "abstract": "Methods for establishing the sterilization dose for radiation sterilization."
     },
     {
-      "id": "iso-17665-1-2006",
-      "number": "ISO 17665-1:2006",
+      "id": "iso-17665-2024",
+      "number": "ISO 17665:2024",
       "title": {
-        "en": "Sterilization of health care products - Moist heat - Part 1: Requirements for the development, validation and routine control of a sterilization process for medical devices",
+        "en": "Sterilization of health care products - Moist heat - Requirements for the development, validation and routine control of a sterilization process for medical devices",
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://www.iso.org/standard/43187.html",
+      "source_url": "https://www.iso.org/standard/80271.html",
       "source_verified": "2026-06-24",
       "scope": "Moist heat (steam) sterilization process requirements.",
       "standard_type": "non_harmonised",
@@ -142,8 +142,7 @@
         "11",
         "11.1"
       ],
-      "abstract": "Requirements for moist heat (steam) sterilization process development, validation and routine control.",
-      "note": "Confirmed current in 2024 systematic review. Intended to be revised (ISO/AWI 17665-1 registered)."
+      "abstract": "Requirements for moist heat (steam) sterilization process development, validation and routine control. Replaces ISO 17665-1:2006."
     },
     {
       "id": "iso-11737-2-2019",

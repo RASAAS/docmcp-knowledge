@@ -1,14 +1,10 @@
----
-title: "MRI Safety"
----
+# Mri Safety - Related International Standards
 
-# MRI Safety
+The following non-harmonised international standards are related to **Mri Safety** for EU MDR compliance reference.
 
-This category contains **4**  standards.
-
-| Standard | Title | Scope | GSPR |
-|----------|------|----------|------|
-| [ASTM F2052-21](https://www.astm.org/f2052-21.html) | Standard Test Method for Measurement of Magnetically Induced Displacement Force on Medical Devices in the Magnetic Resonance Environment | Standard test method for measurement of magnetically induced displacement for... | 14, 16 |
-| [ASTM F2213-25](https://www.astm.org/f2213-25.html) | Standard Test Method for Measurement of Magnetically Induced Torque on Medical Devices in the Magnetic Resonance Environment | Standard test method for measurement of magnetically induced torque on medica... | 14, 16 |
-| [ASTM F2182-19e2](https://www.astm.org/f2182-19e2.html) | Standard Test Method for Measurement of Radio Frequency Induced Heating On or Near Passive Implants During Magnetic Resonance Imaging | Standard test method for measurement of radio frequency induced heating on or... | 14, 16 |
-| [ASTM F2119-24](https://www.astm.org/f2119-24.html) | Standard Test Method for Evaluation of MR Image Artifacts from Passive Implants | Standard test method for evaluation of MR image artifacts from passive implants. | 14, 16 |
+| Standard | Title | Status | GSPRs | Link |
+|----------|-------|--------|-------|------|
+| ASTM F2052-21 | Standard Test Method for Measurement of Magnetically Induced... | active | 14, 16 | [Link](https://store.astm.org/f2052-21.html) |
+| ASTM F2213-25 | Standard Test Method for Measurement of Magnetically Induced... | active | 14, 16 | [Link](https://store.astm.org/f2213-25.html) |
+| ASTM F2182-19e2 | Standard Test Method for Measurement of Radio Frequency Indu... | active | 14, 16 | [Link](https://store.astm.org/f2182-19e02.html) |
+| ASTM F2119-24 | Standard Test Method for Evaluation of MR Image Artifacts fr... | active | 14, 16 | [Link](https://store.astm.org/f2119-24.html) |

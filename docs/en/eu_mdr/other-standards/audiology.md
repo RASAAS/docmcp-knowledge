@@ -1,11 +1,7 @@
----
-title: "Audiology"
----
+# Audiology - Related International Standards
 
-# Audiology
+The following non-harmonised international standards are related to **Audiology** for EU MDR compliance reference.
 
-This category contains **1**  standards.
-
-| Standard | Title | Scope | GSPR |
-|----------|------|----------|------|
-| [IEC 60601-2-66:2019](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-66) | Medical electrical equipment - Part 2-66: Particular requirements for the basic safety and essential performance of hearing instruments and hearing instrument systems | Hearing instruments and hearing instrument systems. | 14, 14.1 |
+| Standard | Title | Status | GSPRs | Link |
+|----------|-------|--------|-------|------|
+| IEC 60601-2-66:2019 | Medical electrical equipment - Part 2-66: Particular require... | active | 14, 14.1 | [Link](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-66) |

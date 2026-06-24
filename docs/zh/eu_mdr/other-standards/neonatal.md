@@ -1,14 +1,10 @@
----
-title: "新生儿"
----
+# Neonatal - 相关国际标准
 
-# 新生儿
+以下是与 **Neonatal** 相关的非协调国际标准，供 EU MDR 合规参考。
 
-本类别共 **4** 条标准。
-
-| 标准编号 | 标题 | 适用范围 | GSPR |
-|----------|------|----------|------|
-| [IEC 60601-2-19:2009+AMD1:2016](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-19) | Medical electrical equipment - Part 2-19: Particular requirements for the basic safety and essential performance of infant incubators | Infant incubators. | 14, 14.6 |
-| [IEC 60601-2-20:2020](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-20) | Medical electrical equipment - Part 2-20: Particular requirements for the basic safety and essential performance of infant transport incubators | Infant transport incubators. | 14, 14.6 |
-| [IEC 60601-2-21:2020](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-21) | Medical electrical equipment - Part 2-21: Particular requirements for the basic safety and essential performance of infant radiant warmers | Infant radiant warmers. | 14, 14.6 |
-| [IEC 60601-2-50:2020](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-50) | Medical electrical equipment - Part 2-50: Particular requirements for the basic safety and essential performance of infant phototherapy equipment | Infant phototherapy equipment. | 14, 14.6 |
+| 标准号 | 标题 | 状态 | 适用GSPRs | 官方链接 |
+|--------|------|------|-----------|----------|
+| IEC 60601-2-19:2009+AMD1:2016 | Medical electrical equipment - Part 2-19: Particular require... | active | 14, 14.6 | [官方链接](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-19) |
+| IEC 60601-2-20:2020 | Medical electrical equipment - Part 2-20: Particular require... | active | 14, 14.6 | [官方链接](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-20) |
+| IEC 60601-2-21:2020 | Medical electrical equipment - Part 2-21: Particular require... | active | 14, 14.6 | [官方链接](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-21) |
+| IEC 60601-2-50:2020 | Medical electrical equipment - Part 2-50: Particular require... | active | 14, 14.6 | [官方链接](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-50) |

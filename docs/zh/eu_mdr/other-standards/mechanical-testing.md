@@ -1,12 +1,8 @@
----
-title: "力学测试"
----
+# Mechanical Testing - 相关国际标准
 
-# 力学测试
+以下是与 **Mechanical Testing** 相关的非协调国际标准，供 EU MDR 合规参考。
 
-本类别共 **2** 条标准。
-
-| 标准编号 | 标题 | 适用范围 | GSPR |
-|----------|------|----------|------|
-| [ASTM F2477-24](https://www.astm.org/f2477-24.html) | Standard Test Methods for In Vitro Pulsatile Durability Testing of Vascular Stents and Endovascular Prostheses | Standard test methods for in vitro pulsatile durability testing of vascular s... | 10, 14, 20 |
-| [ASTM F2346-18(2026)](https://www.astm.org/f2346-18r26.html) | Standard Test Methods for Static and Dynamic Characterization of Spinal Artificial Discs | Standard test methods for static and dynamic characterization of spinal artif... | 10, 14, 20 |
+| 标准号 | 标题 | 状态 | 适用GSPRs | 官方链接 |
+|--------|------|------|-----------|----------|
+| ASTM F2477-24 | Standard Test Methods for In Vitro Pulsatile Durability Test... | active | 10, 14, 20 | [官方链接](https://store.astm.org/f2477-24.html) |
+| ASTM F2346-18(2026) | Standard Test Methods for Static and Dynamic Characterizatio... | active | 10, 14, 20 | [官方链接](https://store.astm.org/f2346-18r26.html) |

@@ -1,11 +1,7 @@
----
-title: "标识标签"
----
+# Labelling - 相关国际标准
 
-# 标识标签
+以下是与 **Labelling** 相关的非协调国际标准，供 EU MDR 合规参考。
 
-本类别共 **1** 条标准。
-
-| 标准编号 | 标题 | 适用范围 | GSPR |
-|----------|------|----------|------|
-| [ISO 20417:2021](https://www.iso.org/standard/67942.html) | Medical devices - Information to be supplied by the manufacturer | Medical devices -- Information to be supplied by the manufacturer (labelling,... | 23, 23.1, 23.2, 23.3, 23.4 |
+| 标准号 | 标题 | 状态 | 适用GSPRs | 官方链接 |
+|--------|------|------|-----------|----------|
+| ISO 20417:2021 | Medical devices - Information to be supplied by the manufact... | active | 23, 23.1, 23.2, 23.3, 23.4 | [官方链接](https://www.iso.org/search.html?q=ISO+20417) |

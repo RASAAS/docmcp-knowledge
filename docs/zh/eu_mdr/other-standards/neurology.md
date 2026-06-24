@@ -1,14 +1,10 @@
----
-title: "神经科"
----
+# Neurology - 相关国际标准
 
-# 神经科
+以下是与 **Neurology** 相关的非协调国际标准，供 EU MDR 合规参考。
 
-本类别共 **4** 条标准。
-
-| 标准编号 | 标题 | 适用范围 | GSPR |
-|----------|------|----------|------|
-| [IEC 60601-2-26:2019](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-26) | Medical electrical equipment - Part 2-26: Particular requirements for the basic safety and essential performance of electroencephalographs | Electroencephalographs. | 14, 14.1 |
-| [IEC 60601-2-40:2016](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-40) | Medical electrical equipment - Part 2-40: Particular requirements for the basic safety and essential performance of electromyographs and evoked response equipment | Electromyographs and evoked response equipment. | 14, 14.1 |
-| [IEC 60601-2-14:2024](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-14) | Medical electrical equipment - Part 2-14: Particular requirements for the basic safety and essential performance of electroconvulsive therapy equipment | Electroconvulsive therapy equipment. | 14, 14.1 |
-| [IEC 80601-2-71:2015](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+80601-2-71) | Medical electrical equipment - Part 2-71: Particular requirements for the basic safety and essential performance of functional near-infrared spectroscopy (fNIRS) equipment | fNIRS equipment. | 14, 14.1 |
+| 标准号 | 标题 | 状态 | 适用GSPRs | 官方链接 |
+|--------|------|------|-----------|----------|
+| IEC 60601-2-26:2019 | Medical electrical equipment - Part 2-26: Particular require... | active | 14, 14.1 | [官方链接](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-26) |
+| IEC 60601-2-40:2016 | Medical electrical equipment - Part 2-40: Particular require... | active | 14, 14.1 | [官方链接](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-40) |
+| IEC 60601-2-14:2024 | Medical electrical equipment - Part 2-14: Particular require... | active | 14, 14.1 | [官方链接](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-14) |
+| IEC 80601-2-71:2015 | Medical electrical equipment - Part 2-71: Particular require... | active | 14, 14.1 | [官方链接](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+80601-2-71) |

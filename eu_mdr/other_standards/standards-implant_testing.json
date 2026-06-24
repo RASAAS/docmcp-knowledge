@@ -1,14 +1,14 @@
 {
   "standards": [
     {
-      "id": "eu_mdr-os-astm-f2129-23",
-      "number": "ASTM F2129-23",
+      "id": "eu_mdr-os-astm-f2129-25",
+      "number": "ASTM F2129-25",
       "title": {
         "en": "Standard Test Method for Conducting Cyclic Potentiodynamic Polarization Measurements to Determine the Corrosion Susceptibility of Small Implant Devices",
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://www.astm.org/f2129-23.html",
+      "source_url": "https://store.astm.org/f2129-25.html",
       "source_verified": "2026-06-24",
       "category": "implant_testing",
       "standard_type": "non_harmonised",
@@ -27,7 +27,7 @@
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://www.astm.org/f2052-21.html",
+      "source_url": "https://store.astm.org/f2052-21.html",
       "source_verified": "2026-06-24",
       "category": "implant_testing",
       "standard_type": "non_harmonised",
@@ -46,7 +46,7 @@
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://www.astm.org/f2213-25.html",
+      "source_url": "https://store.astm.org/f2213-25.html",
       "source_verified": "2026-06-24",
       "category": "implant_testing",
       "standard_type": "non_harmonised",
@@ -65,7 +65,7 @@
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://www.astm.org/f2182-19e2.html",
+      "source_url": "https://store.astm.org/f2182-19e02.html",
       "source_verified": "2026-06-24",
       "category": "implant_testing",
       "standard_type": "non_harmonised",
@@ -77,14 +77,14 @@
       "abstract": "Test method for measuring RF-induced heating near passive implants during MRI."
     },
     {
-      "id": "eu_mdr-os-astm-f1717-24",
-      "number": "ASTM F1717-24",
+      "id": "eu_mdr-os-astm-f1717-21",
+      "number": "ASTM F1717-21",
       "title": {
         "en": "Standard Test Methods for Spinal Implant Constructs in a Vertebrectomy Model",
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://www.astm.org/f1717-24.html",
+      "source_url": "https://store.astm.org/f1717-21.html",
       "source_verified": "2026-06-24",
       "category": "implant_testing",
       "standard_type": "non_harmonised",
@@ -96,14 +96,14 @@
       "abstract": "Test methods for spinal implant constructs using vertebrectomy model."
     },
     {
-      "id": "eu_mdr-os-astm-f1264-16e1",
-      "number": "ASTM F1264-16e1",
+      "id": "eu_mdr-os-astm-f1264-24",
+      "number": "ASTM F1264-24",
       "title": {
         "en": "Standard Specification and Test Methods for Intramedullary Fixation Devices",
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://www.astm.org/f1264-16e1.html",
+      "source_url": "https://store.astm.org/f1264-24.html",
       "source_verified": "2026-06-24",
       "category": "implant_testing",
       "standard_type": "non_harmonised",
