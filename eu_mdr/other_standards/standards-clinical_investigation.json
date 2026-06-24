@@ -33,9 +33,10 @@
         "8"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO%2014155",
+      "source_url": "https://www.iso.org/standard/88916.html",
       "abstract": "Addresses good clinical practice for clinical investigations of medical devices in human subjects.",
-      "scope": "Clinical investigation of medical devices for human subjects -- Good clinical practice."
+      "scope": "Clinical investigation of medical devices for human subjects -- Good clinical practice.",
+      "source_verified": "2026-06-24"
     },
     {
       "id": "iso-20916-2019",
@@ -51,9 +52,10 @@
         "8"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO%2020916",
+      "source_url": "https://www.iso.org/standard/69455.html",
       "abstract": "Specifies requirements for clinical performance studies of in vitro diagnostic medical devices using specimens from human subjects.",
-      "scope": "In vitro diagnostic medical devices -- Clinical performance studies using specimens from human subjects -- Good study practice."
+      "scope": "In vitro diagnostic medical devices -- Clinical performance studies using specimens from human subjects -- Good study practice.",
+      "source_verified": "2026-06-24"
     }
   ]
 }

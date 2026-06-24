@@ -1,25 +1,6 @@
 {
   "standards": [
     {
-      "id": "eu_mdr-os-iec-60601-2-7-1998",
-      "number": "IEC 60601-2-7:1998",
-      "title": {
-        "en": "Medical electrical equipment - Part 2-7: Particular requirements for the safety of high-voltage generators of diagnostic X-ray generators",
-        "zh": ""
-      },
-      "status": "active",
-      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-7",
-      "source_verified": "",
-      "category": "diagnostic_imaging",
-      "standard_type": "non_harmonised",
-      "scope": "High-voltage generators of diagnostic X-ray generators.",
-      "applicable_gsprs": [
-        "14",
-        "16"
-      ],
-      "abstract": "Safety requirements for high-voltage generators of diagnostic X-ray generators."
-    },
-    {
       "id": "eu_mdr-os-iec-60601-2-28-2017",
       "number": "IEC 60601-2-28:2017",
       "title": {
@@ -27,8 +8,8 @@
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-28",
-      "source_verified": "",
+      "source_url": "https://webstore.iec.ch/en/publication/28614",
+      "source_verified": "2026-06-24",
       "category": "diagnostic_imaging",
       "standard_type": "non_harmonised",
       "scope": "X-ray tube assemblies for medical diagnosis.",
@@ -46,8 +27,8 @@
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-33",
-      "source_verified": "",
+      "source_url": "https://webstore.iec.ch/en/publication/62500",
+      "source_verified": "2026-06-24",
       "category": "diagnostic_imaging",
       "standard_type": "non_harmonised",
       "scope": "MRI equipment for medical diagnosis.",
@@ -65,8 +46,8 @@
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-43",
-      "source_verified": "",
+      "source_url": "https://webstore.iec.ch/en/publication/66050",
+      "source_verified": "2026-06-24",
       "category": "diagnostic_imaging",
       "standard_type": "non_harmonised",
       "scope": "X-ray equipment for interventional procedures.",
@@ -84,8 +65,8 @@
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-44",
-      "source_verified": "",
+      "source_url": "https://webstore.iec.ch/en/publication/24442",
+      "source_verified": "2026-06-24",
       "category": "diagnostic_imaging",
       "standard_type": "non_harmonised",
       "scope": "X-ray equipment for computed tomography.",
@@ -103,8 +84,8 @@
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-45",
-      "source_verified": "",
+      "source_url": "https://webstore.iec.ch/en/publication/66036",
+      "source_verified": "2026-06-24",
       "category": "diagnostic_imaging",
       "standard_type": "non_harmonised",
       "scope": "Mammographic X-ray equipment and stereotactic devices.",
@@ -122,8 +103,8 @@
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-54",
-      "source_verified": "",
+      "source_url": "https://webstore.iec.ch/en/publication/66049",
+      "source_verified": "2026-06-24",
       "category": "diagnostic_imaging",
       "standard_type": "non_harmonised",
       "scope": "X-ray equipment for radiography and radioscopy.",
@@ -141,8 +122,8 @@
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2062563-1",
-      "source_verified": "",
+      "source_url": "https://webstore.iec.ch/en/publication/62502",
+      "source_verified": "2026-06-24",
       "category": "diagnostic_imaging",
       "standard_type": "non_harmonised",
       "scope": "Medical image display systems - Evaluation methods.",
@@ -160,8 +141,8 @@
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2062220-1-1",
-      "source_verified": "",
+      "source_url": "https://webstore.iec.ch/en/publication/21937",
+      "source_verified": "2026-06-24",
       "category": "diagnostic_imaging",
       "standard_type": "non_harmonised",
       "scope": "DQE measurement for digital radiographic detectors.",
@@ -179,8 +160,8 @@
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2062220-1-2",
-      "source_verified": "",
+      "source_url": "https://webstore.iec.ch/en/publication/6601",
+      "source_verified": "2026-06-24",
       "category": "diagnostic_imaging",
       "standard_type": "non_harmonised",
       "scope": "DQE measurement for mammographic detectors.",
@@ -198,8 +179,8 @@
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2062220-1-3",
-      "source_verified": "",
+      "source_url": "https://webstore.iec.ch/en/publication/6602",
+      "source_verified": "2026-06-24",
       "category": "diagnostic_imaging",
       "standard_type": "non_harmonised",
       "scope": "DQE measurement for dynamic imaging detectors.",
@@ -217,8 +198,8 @@
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2061223-3-5",
-      "source_verified": "",
+      "source_url": "https://webstore.iec.ch/en/publication/31893",
+      "source_verified": "2026-06-24",
       "category": "diagnostic_imaging",
       "standard_type": "non_harmonised",
       "scope": "CT imaging performance testing.",
@@ -236,8 +217,8 @@
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2062464-1",
-      "source_verified": "",
+      "source_url": "https://webstore.iec.ch/en/publication/30498",
+      "source_verified": "2026-06-24",
       "category": "diagnostic_imaging",
       "standard_type": "non_harmonised",
       "scope": "MRI image quality parameters.",

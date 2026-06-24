@@ -44,9 +44,10 @@
         "3(b)"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO%20TR%2024971",
+      "source_url": "https://www.iso.org/standard/74437.html",
       "abstract": "Provides guidance on the application of ISO 14971 risk management to medical devices.",
-      "scope": "Medical devices -- Guidance on the application of ISO 14971 for risk management of medical devices."
+      "scope": "Medical devices -- Guidance on the application of ISO 14971 for risk management of medical devices.",
+      "source_verified": "2026-06-24"
     }
   ]
 }

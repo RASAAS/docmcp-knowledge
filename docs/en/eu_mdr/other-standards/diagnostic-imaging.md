@@ -4,11 +4,10 @@ title: "Diagnostic Imaging"
 
 # Diagnostic Imaging
 
-**13** standards in this category.
+**12** standards in this category.
 
 | Standard | Title | Scope | GSPR |
 |----------|-------|-------|------|
-| [IEC 60601-2-7:1998](https://webstore.iec.ch/en/search?q=IEC%2060601-2-7) | Medical electrical equipment - Part 2-7: Particular requirements for the safety of high-voltage generators of diagnostic X-ray generators | High-voltage generators of diagnostic X-ray generators. | 14, 16 |
 | [IEC 60601-2-28:2017](https://webstore.iec.ch/en/search?q=IEC%2060601-2-28) | Medical electrical equipment - Part 2-28: Particular requirements for the basic safety and essential performance of X-ray tube assemblies for medical diagnosis | X-ray tube assemblies for medical diagnosis. | 14, 16 |
 | [IEC 60601-2-33:2022](https://webstore.iec.ch/en/search?q=IEC%2060601-2-33) | Medical electrical equipment - Part 2-33: Particular requirements for the basic safety and essential performance of magnetic resonance equipment for medical diagnosis | MRI equipment for medical diagnosis. | 14, 16 |
 | [IEC 60601-2-43:2022](https://webstore.iec.ch/en/search?q=IEC%2060601-2-43) | Medical electrical equipment - Part 2-43: Particular requirements for the basic safety and essential performance of X-ray equipment for interventional procedures | X-ray equipment for interventional procedures. | 14, 16 |

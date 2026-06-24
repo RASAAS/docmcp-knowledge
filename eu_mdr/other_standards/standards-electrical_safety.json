@@ -1,91 +1,6 @@
 {
   "standards": [
     {
-      "id": "en-iec-60601-1-2006",
-      "number": "EN IEC 60601-1:2006+A1:2013+A2:2020",
-      "title": {
-        "en": "Medical electrical equipment - Part 1: General requirements for basic safety and essential performance",
-        "zh": ""
-      },
-      "status": "active",
-      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
-      "applicable_gsprs": [
-        "14",
-        "14.2",
-        "14.3",
-        "14.4",
-        "14.5",
-        "14.6",
-        "18",
-        "18.1",
-        "18.2",
-        "18.3",
-        "18.4",
-        "18.7",
-        "19",
-        "19.1",
-        "19.2",
-        "20",
-        "20.1",
-        "20.2",
-        "20.3",
-        "20.4",
-        "20.6",
-        "21",
-        "21.2"
-      ],
-      "scope": {
-        "en": "Basic safety and essential performance of medical electrical equipment",
-        "zh": ""
-      },
-      "standard_type": "non_harmonised",
-      "abstract": "Applies to the basic safety and essential performance of medical electrical equipment."
-    },
-    {
-      "id": "en-iec-60601-1-2-2015",
-      "number": "EN IEC 60601-1-2:2015+A1:2021",
-      "title": {
-        "en": "Medical electrical equipment - Part 1-2: General requirements for basic safety and essential performance - Collateral Standard: Electromagnetic disturbances - Requirements and tests",
-        "zh": ""
-      },
-      "status": "active",
-      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
-      "applicable_gsprs": [
-        "14",
-        "18",
-        "18.5",
-        "18.6"
-      ],
-      "scope": {
-        "en": "EMC requirements for medical electrical equipment",
-        "zh": ""
-      },
-      "standard_type": "non_harmonised",
-      "abstract": "Specifies requirements and test methods for electromagnetic compatibility (EMC) of medical electrical equipment and medical electrical systems."
-    },
-    {
-      "id": "en-iec-60601-1-6-2010",
-      "number": "EN IEC 60601-1-6:2010+A1:2015+A2:2020",
-      "title": {
-        "en": "Medical electrical equipment - Part 1-6: General requirements for basic safety and essential performance - Collateral standard: Usability",
-        "zh": ""
-      },
-      "status": "active",
-      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
-      "scope": {
-        "en": "Usability engineering for medical electrical equipment",
-        "zh": ""
-      },
-      "standard_type": "non_harmonised",
-      "applicable_gsprs": [
-        "14",
-        "14.1",
-        "14.2",
-        "22"
-      ],
-      "abstract": "Specifies a process for analysing, specifying, developing and evaluating the usability of medical electrical equipment as it relates to basic safety and essential performance."
-    },
-    {
       "id": "iec-60601-1-2020",
       "number": "IEC 60601-1:2005+AMD1:2012+AMD2:2020 CSV",
       "title": {
@@ -93,7 +8,7 @@
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-1",
       "scope": {
         "en": "Electrical safety requirements for medical electrical equipment",
         "zh": ""
@@ -338,23 +253,6 @@
       "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-1-8",
       "abstract": "Specifies general requirements for alarm systems in medical electrical equipment and medical electrical systems.",
       "scope": "General requirements for basic safety and essential performance -- Collateral standard: General requirements, tests and guidance for alarm systems in medical electrical equipment and medical electrical systems."
-    },
-    {
-      "id": "en-iec-60601-1-8-2006-a1-2012-a2-2020",
-      "number": "EN IEC 60601-1-8:2006+A1:2012+A2:2020",
-      "title": {
-        "en": "Medical electrical equipment - Part 1-8: General requirements for basic safety and essential performance - Collateral Standard: General requirements, tests and guidance for alarm systems in medical electrical equipment and medical electrical systems",
-        "zh": ""
-      },
-      "status": "active",
-      "applicable_gsprs": [
-        "18",
-        "18.4"
-      ],
-      "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/search?q=EN%20IEC%2060601-1-8",
-      "abstract": "Specifies general requirements for alarm systems in medical electrical equipment.",
-      "scope": "General requirements for basic safety and essential performance -- Collateral standard: General requirements, tests and guidance for alarm systems (European adopted version)."
     },
     {
       "id": "eu_mdr-os-iec-62353-2014+amd1-2020",

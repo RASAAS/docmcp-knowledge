@@ -12,9 +12,10 @@
         "10"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO%207405",
+      "source_url": "https://www.iso.org/standard/71567.html",
       "abstract": "Specifies test methods for evaluating biocompatibility of medical devices used in dentistry.",
-      "scope": "Dentistry -- Evaluation of biocompatibility of medical devices used in dentistry."
+      "scope": "Dentistry -- Evaluation of biocompatibility of medical devices used in dentistry.",
+      "source_verified": "2026-06-24"
     },
     {
       "id": "eu_mdr-os-iec-60601-2-63-2023",

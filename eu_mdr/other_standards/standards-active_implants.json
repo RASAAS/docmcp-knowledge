@@ -1,26 +1,6 @@
 {
   "standards": [
     {
-      "id": "en-45502-1-2015",
-      "number": "EN 45502-1:2015",
-      "title": {
-        "en": "Active implantable medical devices - Part 1: General requirements for safety, marking and for information to be provided by the manufacturer",
-        "zh": ""
-      },
-      "status": "active",
-      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
-      "applicable_gsprs": [
-        "19",
-        "19.3"
-      ],
-      "scope": {
-        "en": "General requirements for active implantable medical devices",
-        "zh": ""
-      },
-      "standard_type": "non_harmonised",
-      "abstract": "Specifies requirements for the safety, marking and information to be supplied with active implantable medical devices."
-    },
-    {
       "id": "en-45502-2-1-2003-a1-2020",
       "number": "EN 45502-2-1:2003+A1:2020",
       "title": {

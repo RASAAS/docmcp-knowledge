@@ -1,46 +1,6 @@
 {
   "standards": [
     {
-      "id": "iso-15197-2013",
-      "number": "ISO 15197:2013",
-      "title": {
-        "en": "In vitro diagnostic test systems — Requirements for blood-glucose monitoring systems for self-testing in managing diabetes mellitus",
-        "zh": ""
-      },
-      "status": "active",
-      "scope": {
-        "en": "Blood glucose monitoring system requirements",
-        "zh": ""
-      },
-      "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO%2015197",
-      "applicable_gsprs": [
-        "14",
-        "14.1"
-      ],
-      "abstract": "Specifies requirements for in vitro glucose monitoring systems that measure glucose concentrations in capillary blood samples."
-    },
-    {
-      "id": "iso-18113-1-2022",
-      "number": "ISO 18113-1:2022",
-      "title": {
-        "en": "In vitro diagnostic medical devices — Information supplied by the manufacturer (labelling) — Part 1: Terms, definitions and general requirements",
-        "zh": ""
-      },
-      "status": "active",
-      "scope": {
-        "en": "IVD labeling requirements",
-        "zh": ""
-      },
-      "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO%2018113-1",
-      "applicable_gsprs": [
-        "23",
-        "23.1"
-      ],
-      "abstract": "Specifies requirements for information supplied by the manufacturer of in vitro diagnostic medical devices, including reagents, instruments and specimen receptacles."
-    },
-    {
       "id": "iso-15197-2013-amd1-2024",
       "number": "ISO 15197:2013+AMD1:2024",
       "title": {
@@ -49,17 +9,38 @@
       },
       "status": "active",
       "applicable_gsprs": [
+        "14",
+        "14.1",
         "15",
         "22"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO%2015197",
-      "abstract": "Specifies requirements and test methods for blood-glucose monitoring systems for self-testing.",
-      "scope": "In vitro diagnostic medical devices -- Requirements for blood-glucose monitoring systems for self-testing in managing diabetes mellitus."
+      "source_url": "https://www.iso.org/standard/87649.html",
+      "source_verified": "2026-06-24",
+      "abstract": "Specifies requirements and test methods for blood-glucose monitoring systems for self-testing in managing diabetes mellitus.",
+      "scope": "In vitro diagnostic medical devices -- Requirements for blood-glucose monitoring systems for self-testing."
     },
     {
-      "id": "en-iso-15189-2022",
-      "number": "EN ISO 15189:2022",
+      "id": "iso-18113-1-2022",
+      "number": "ISO 18113-1:2022",
+      "title": {
+        "en": "In vitro diagnostic medical devices - Information supplied by the manufacturer (labelling) - Part 1: Terms, definitions and general requirements",
+        "zh": ""
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "23",
+        "23.1"
+      ],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/76996.html",
+      "source_verified": "2026-06-24",
+      "abstract": "Specifies requirements for information supplied by the manufacturer of in vitro diagnostic medical devices.",
+      "scope": "IVD medical devices -- Information supplied by the manufacturer (labelling)."
+    },
+    {
+      "id": "iso-15189-2022",
+      "number": "ISO 15189:2022",
       "title": {
         "en": "Medical laboratories - Requirements for quality and competence",
         "zh": ""
@@ -70,9 +51,10 @@
         "15.1"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=EN%20ISO%2015189",
+      "source_url": "https://www.iso.org/standard/76677.html",
+      "source_verified": "2026-06-24",
       "abstract": "Specifies requirements for quality and competence in medical laboratories, including pre-examination, examination and post-examination processes.",
-      "scope": "Medical laboratories -- Requirements for quality and competence (European adopted version)."
+      "scope": "Medical laboratories -- Requirements for quality and competence."
     }
   ]
 }

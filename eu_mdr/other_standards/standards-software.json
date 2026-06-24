@@ -27,27 +27,6 @@
       "abstract": "Defines the life cycle requirements for medical device software development, including requirements for configuration management and problem resolution."
     },
     {
-      "id": "en-iec-82304-1-2017",
-      "number": "EN IEC 82304-1:2017",
-      "title": {
-        "en": "Health software - Part 1: General requirements for product safety",
-        "zh": ""
-      },
-      "status": "active",
-      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
-      "applicable_gsprs": [
-        "17",
-        "17.1",
-        "17.3"
-      ],
-      "scope": {
-        "en": "Product safety requirements for health software products",
-        "zh": ""
-      },
-      "standard_type": "non_harmonised",
-      "abstract": "Specifies requirements for the safety of health software products, addressing lifecycle requirements for product safety."
-    },
-    {
       "id": "iec-62304-2015",
       "number": "IEC 62304:2006+AMD1:2015",
       "title": {
@@ -55,7 +34,7 @@
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2062304",
       "scope": {
         "en": "Software development lifecycle for medical devices",
         "zh": ""
@@ -196,9 +175,10 @@
         "17"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO%2011073-10101",
+      "source_url": "https://www.iso.org/standard/73890.html",
       "abstract": "Defines the nomenclature for health informatics device interoperability, providing codes for medical device data.",
-      "scope": "Health informatics -- Device interoperability -- Point-of-care medical device communication -- Nomenclature."
+      "scope": "Health informatics -- Device interoperability -- Point-of-care medical device communication -- Nomenclature.",
+      "source_verified": "2026-06-24"
     },
     {
       "id": "iso-ieee-11073-10207-2019",
@@ -213,9 +193,10 @@
         "17"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO%20IEEE%2011073-10207",
+      "source_url": "https://www.iso.org/standard/72572.html",
       "abstract": "Specifies domain information and service models for health informatics device interoperability.",
-      "scope": "Health informatics -- Personal health device communication -- Domain information model."
+      "scope": "Health informatics -- Personal health device communication -- Domain information model.",
+      "source_verified": "2026-06-24"
     },
     {
       "id": "iso-iec-tr-24028-2020",
@@ -249,23 +230,6 @@
       "source_url": "https://webstore.iec.ch/en/search?q=ISO/IEC%2023894",
       "abstract": "Provides guidance on managing risks related to the development and use of artificial intelligence.",
       "scope": "Information technology -- Artificial intelligence -- Guidance on risk management."
-    },
-    {
-      "id": "en-iso-11073-10101-2020",
-      "number": "EN ISO 11073-10101:2020",
-      "title": {
-        "en": "Health informatics - Device interoperability - Part 10101: Nomenclature",
-        "zh": ""
-      },
-      "status": "active",
-      "applicable_gsprs": [
-        "14",
-        "14.5"
-      ],
-      "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=EN%20ISO%2011073-10101",
-      "abstract": "Specifies the nomenclature for communication between medical devices and external computer systems.",
-      "scope": "Health informatics -- Device interoperability -- Point-of-care medical device communication -- Nomenclature (European adopted version)."
     }
   ]
 }

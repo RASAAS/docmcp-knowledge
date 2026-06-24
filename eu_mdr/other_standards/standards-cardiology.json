@@ -20,23 +20,24 @@
       "abstract": "Particular requirements for ambulatory ECG systems."
     },
     {
-      "id": "eu_mdr-os-iec-60601-2-51-2003+amd1-2015",
-      "number": "IEC 60601-2-51:2003+AMD1:2015",
+      "id": "eu_mdr-os-iec-60601-2-25-2011+amd1-2014",
+      "number": "IEC 60601-2-25:2011+AMD1:2014",
       "title": {
-        "en": "Medical electrical equipment - Part 2-51: Particular requirements for safety, including essential performance, of recording and analysing single channel and multichannel electrocardiographs",
+        "en": "Medical electrical equipment - Part 2-25: Particular requirements for the basic safety and essential performance of electrocardiographs",
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-51",
-      "source_verified": "",
+      "source_url": "https://webstore.iec.ch/en/publication/2636",
+      "source_verified": "2026-06-24",
       "category": "cardiology",
       "standard_type": "non_harmonised",
-      "scope": "Recording and analysing electrocardiographs.",
+      "scope": "Recording and analysing electrocardiographs (replaces IEC 60601-2-51:2003).",
       "applicable_gsprs": [
         "14",
         "14.1"
       ],
-      "abstract": "Particular requirements for single and multichannel electrocardiographs."
+      "abstract": "Particular requirements for electrocardiographs. Consolidates former IEC 60601-2-25 and IEC 60601-2-51.",
+      "note": "IEC 60601-2-51:2003 was withdrawn in 2011 and merged into this standard."
     },
     {
       "id": "eu_mdr-os-iec-60601-2-31-2020",
