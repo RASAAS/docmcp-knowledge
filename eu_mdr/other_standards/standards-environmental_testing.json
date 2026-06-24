@@ -104,15 +104,15 @@
       "abstract": "Environmental steady-state damp heat test methods."
     },
     {
-      "id": "eu_mdr-os-astm-d4169-22",
-      "number": "ASTM D4169-22",
+      "id": "eu_mdr-os-astm-d4169-23e1",
+      "number": "ASTM D4169-23e1",
       "title": {
         "en": "Standard Practice for Performance Testing of Shipping Containers and Systems",
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://www.astm.org/d4169-22.html",
-      "source_verified": "",
+      "source_url": "https://store.astm.org/d4169-23e01.html",
+      "source_verified": "2026-06-24",
       "category": "environmental_testing",
       "standard_type": "non_harmonised",
       "scope": "Shipping container performance testing.",

@@ -1,11 +1,11 @@
 {
   "standards": [
     {
-      "id": "astm-f2052-2015",
-      "number": "ASTM F2052:2015",
+      "id": "astm-f2052-21",
+      "number": "ASTM F2052-21",
       "title": {
         "en": "Standard Test Method for Measurement of Magnetically Induced Displacement Force on Medical Devices in the Magnetic Resonance Environment",
-        "zh": ""
+        "zh": "医疗器械在磁共振环境中磁致位移力测量的标准测试方法"
       },
       "status": "active",
       "applicable_gsprs": [
@@ -13,16 +13,16 @@
         "16"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.astm.org/Standards/F2052:2015.htm",
-      "abstract": "Specifies a test method for measuring magnetically induced displacement force on medical devices in the MRI environment.",
+      "source_url": "https://store.astm.org/f2052-21.html",
+      "abstract": "Covers the measurement of the magnetically induced displacement force produced by static magnetic field gradients on medical devices and the comparison of that force to the weight of the medical device.",
       "scope": "Standard test method for measurement of magnetically induced displacement force on medical devices in the magnetic resonance environment."
     },
     {
-      "id": "astm-f2213-2017",
-      "number": "ASTM F2213:2017",
+      "id": "astm-f2213-25",
+      "number": "ASTM F2213-25",
       "title": {
         "en": "Standard Test Method for Measurement of Magnetically Induced Torque on Medical Devices in the Magnetic Resonance Environment",
-        "zh": ""
+        "zh": "医疗器械在磁共振环境中磁致扭矩测量的标准测试方法"
       },
       "status": "active",
       "applicable_gsprs": [
@@ -30,16 +30,16 @@
         "16"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.astm.org/Standards/F2213:2017.htm",
-      "abstract": "Specifies a test method for measuring magnetically induced torque on medical devices in the MRI environment.",
+      "source_url": "https://store.astm.org/f2213-25.html",
+      "abstract": "Covers the measurement of the magnetically induced torque produced by the static magnetic field in the magnetic resonance environment on medical devices.",
       "scope": "Standard test method for measurement of magnetically induced torque on medical devices in the magnetic resonance environment."
     },
     {
-      "id": "astm-f2182-2019",
-      "number": "ASTM F2182:2019",
+      "id": "astm-f2182-19e2",
+      "number": "ASTM F2182-19e2",
       "title": {
         "en": "Standard Test Method for Measurement of Radio Frequency Induced Heating On or Near Passive Implants During Magnetic Resonance Imaging",
-        "zh": ""
+        "zh": "磁共振成像过程中无源植入物上或附近射频感应加热测量的标准测试方法"
       },
       "status": "active",
       "applicable_gsprs": [
@@ -47,16 +47,16 @@
         "16"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.astm.org/Standards/F2182:2019.htm",
-      "abstract": "Specifies a test method for measuring RF-induced heating of passive implants during MRI.",
+      "source_url": "https://store.astm.org/f2182-19e2.html",
+      "abstract": "Covers the measurement of radio frequency induced heating on or near passive implants during magnetic resonance imaging.",
       "scope": "Standard test method for measurement of radio frequency induced heating on or near passive implants during magnetic resonance imaging."
     },
     {
-      "id": "astm-f2119-2013-r2022",
-      "number": "ASTM F2119:2013(R2022)",
+      "id": "astm-f2119-24",
+      "number": "ASTM F2119-24",
       "title": {
         "en": "Standard Test Method for Evaluation of MR Image Artifacts from Passive Implants",
-        "zh": ""
+        "zh": "无源植入物MR图像伪影评估的标准测试方法"
       },
       "status": "active",
       "applicable_gsprs": [
@@ -64,8 +64,8 @@
         "16"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.astm.org/Standards/F2119:2013(R2022).htm",
-      "abstract": "Specifies a test method for evaluating MR image artifacts caused by passive implants.",
+      "source_url": "https://store.astm.org/f2119-24.html",
+      "abstract": "Characterizes the distortion and signal loss artifacts produced in a magnetic resonance image by a passive implant.",
       "scope": "Standard test method for evaluation of MR image artifacts from passive implants."
     }
   ]

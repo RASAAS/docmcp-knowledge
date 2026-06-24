@@ -32,20 +32,20 @@ Beyond harmonised standards, medical device manufacturers commonly apply the fol
 | [Environmental Testing](./other-standards/environmental-testing) | 7 | IEC 60068-2-1:2007, IEC 60068-2-2:2007, IEC 60068-2-30:2005... |
 | [Home Healthcare](./other-standards/home-healthcare) | 1 | IEC 60601-1-11:2015+AMD1:2020 |
 | [Implant Materials](./other-standards/implant-materials) | 14 | ISO 5832-2:2018, ISO 5832-4:2014, ISO 5832-5:2005... |
-| [Implant Testing](./other-standards/implant-testing) | 6 | ASTM F2129-23, ASTM F2052-22, ASTM F2213-17... |
+| [Implant Testing](./other-standards/implant-testing) | 6 | ASTM F2129-23, ASTM F2052-21, ASTM F2213-25... |
 | [Ivd](./other-standards/ivd) | 4 | ISO 15197:2013, ISO 18113-1:2022, ISO 15197:2013+AMD1:2024... |
 | [Labelling](./other-standards/labelling) | 1 | EN ISO 20417:2021 |
 | [Laser Surgery](./other-standards/laser-surgery) | 1 | IEC 60601-2-22:2019 |
 | [Lithotripsy](./other-standards/lithotripsy) | 1 | IEC 60601-2-36:2023 |
-| [Mechanical Testing](./other-standards/mechanical-testing) | 2 | ASTM F2477:2019, ASTM F2346:2018 |
+| [Mechanical Testing](./other-standards/mechanical-testing) | 2 | ASTM F2477-24, ASTM F2346-18(2026) |
 | [Medical Gloves](./other-standards/medical-gloves) | 2 | EN 455-1:2020, EN 455-3:2015 |
-| [Mri Safety](./other-standards/mri-safety) | 4 | ASTM F2052:2015, ASTM F2213:2017, ASTM F2182:2019... |
+| [Mri Safety](./other-standards/mri-safety) | 4 | ASTM F2052-21, ASTM F2213-25, ASTM F2182-19e2... |
 | [Needles Syringes](./other-standards/needles-syringes) | 2 | ISO 7864:2016, ISO 7886-1:2017 |
 | [Neonatal](./other-standards/neonatal) | 4 | IEC 60601-2-19:2009+AMD1:2016, IEC 60601-2-20:2020, IEC 60601-2-21:2020... |
 | [Neurology](./other-standards/neurology) | 4 | IEC 60601-2-26:2019, IEC 60601-2-40:2016, IEC 60601-2-14:2024... |
 | [Nuclear Medicine](./other-standards/nuclear-medicine) | 2 | IEC 61675-1:2022, IEC 61675-2:2015 |
 | [Ophthalmic](./other-standards/ophthalmic) | 2 | ISO 11979-1:2018, IEC 80601-2-58:2014+AMD1:2016 |
-| [Packaging](./other-standards/packaging) | 7 | ASTM F1980:2021, ASTM D4169:2022, ASTM F2825:2010(R2020)... |
+| [Packaging](./other-standards/packaging) | 7 | ASTM F1980-21, ASTM D4169-23e1, ASTM F2825-18(2026)... |
 | [Patient Monitoring](./other-standards/patient-monitoring) | 9 | IEC 60601-2-23:2011+AMD1:2019, IEC 60601-2-85:2021, IEC 60601-2-30:2018... |
 | [Patient Warming](./other-standards/patient-warming) | 1 | IEC 60601-2-35:2020 |
 | [Phototherapy](./other-standards/phototherapy) | 3 | IEC 60601-2-57:2011+AMD1:2021, IEC 60601-2-75:2017, IEC 60601-2-83:2019 |

@@ -72,27 +72,28 @@
       "scope": "Implants for surgery -- Active implantable medical devices -- General requirements for safety, marking and for information to be provided by the manufacturer."
     },
     {
-      "id": "astm-f2083-2021",
-      "number": "ASTM F2083:2021",
+      "id": "astm-f2083-21-withdrawn",
+      "number": "ASTM F2083-21",
       "title": {
         "en": "Standard Specification for Knee Replacement Prosthesis",
         "zh": ""
       },
-      "status": "active",
+      "status": "withdrawn",
       "applicable_gsprs": [
         "10",
         "14"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.astm.org/Standards/F2083:2021.htm",
+      "source_url": "https://store.astm.org/f2083-21.html",
+      "note": "Withdrawn in 2023. No direct replacement designated by ASTM. For knee implant testing, refer to ISO 21536 (harmonised under EU MDR) and ASTM F3334.",
       "abstract": "Specifies requirements for materials, design, and performance of knee replacement prostheses.",
       "scope": "Standard specification for knee replacement prosthesis."
     },
     {
-      "id": "astm-f2033-2020",
-      "number": "ASTM F2033:2020",
+      "id": "astm-f2033-25",
+      "number": "ASTM F2033-25",
       "title": {
-        "en": "Standard Specification for Total Hip Joint Prosthesis and Hip Endoprosthesis Bearing Surfaces Made of Metallic, Ceramic, and Polymeric Materials",
+        "en": "Standard Specification for Hip Joint Replacement Bearing Surfaces",
         "zh": ""
       },
       "status": "active",
@@ -101,9 +102,9 @@
         "14"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.astm.org/Standards/F2033:2020.htm",
-      "abstract": "Specifies requirements for bearing surfaces of total hip joint prostheses and hip endoprostheses.",
-      "scope": "Standard specification for total hip joint prosthesis and hip endoprosthesis bearing surfaces made of metallic, ceramic, and polymeric materials."
+      "source_url": "https://store.astm.org/f2033-25.html",
+      "abstract": "Covers the design and dimensional requirements for metallic, ceramic, and polymeric mating bearing surfaces used in total hip joint prostheses and hip endoprostheses.",
+      "scope": "Standard specification for hip joint replacement bearing surfaces made of metallic, ceramic, and polymeric materials."
     },
     {
       "id": "eu_mdr-os-iec-60601-2-41-2021",

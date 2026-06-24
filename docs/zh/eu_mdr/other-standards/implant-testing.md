@@ -4,13 +4,13 @@ title: "植入物测试"
 
 # 植入物测试
 
-本类别共 **6** 条标准。
+本类别共 **6** 项标准。
 
-| 标准编号 | 标题 | 适用范围 | GSPR |
-|----------|------|----------|------|
-| [ASTM F2129-23](https://www.astm.org/f2129-23.html) | Standard Test Method for Conducting Cyclic Potentiodynamic Polarization Measurements to Determine the Corrosion Susceptibility of Small Implant Devices | Corrosion testing of small implant devices. | 10, 10.3 |
-| [ASTM F2052-22](https://www.astm.org/f2052-22.html) | Standard Test Method for Measurement of Magnetically Induced Displacement Force on Medical Devices in the Magnetic Resonance Environment | MRI safety testing for implants. | 10, 16 |
-| [ASTM F2213-17](https://www.astm.org/f2213-17.html) | Standard Test Method for Measurement of Magnetically Induced Torque on Medical Devices in the Magnetic Resonance Environment | MRI-induced torque testing for implants. | 10, 16 |
-| [ASTM F2182-19e2](https://www.astm.org/f2182-19e2.html) | Standard Test Method for Measurement of Radio Frequency Induced Heating on or Near Passive Implants During Magnetic Resonance Imaging | MRI RF heating testing for passive implants. | 10, 16 |
-| [ASTM F1717-24](https://www.astm.org/f1717-24.html) | Standard Test Methods for Spinal Implant Constructs in a Vertebrectomy Model | Spinal implant mechanical testing. | 10, 10.1 |
-| [ASTM F1264-16e1](https://www.astm.org/f1264-16e1.html) | Standard Specification and Test Methods for Intramedullary Fixation Devices | Intramedullary fixation device testing. | 10, 10.1 |
+| 标准编号 | 标题 | 范围 | GSPR |
+|----------|------|------|------|
+| [ASTM F2129-23](https://store.astm.org/f2129-23.html) | 用于测定小型植入物器械腐蚀敏感性的循环电位动态极化测量标准测试方法 | 小型植入物器械腐蚀测试 | 10, 10.3 |
+| [ASTM F2052-21](https://store.astm.org/f2052-21.html) | 医疗器械在磁共振环境中磁致位移力测量的标准测试方法 | 植入物MRI安全测试 | 10, 16 |
+| [ASTM F2213-25](https://store.astm.org/f2213-25.html) | 医疗器械在磁共振环境中磁致扭矩测量的标准测试方法 | 植入物MRI扭矩测试 | 10, 16 |
+| [ASTM F2182-19e2](https://store.astm.org/f2182-19e2.html) | 磁共振成像过程中无源植入物上或附近射频感应加热测量的标准测试方法 | 无源植入物MRI RF加热测试 | 10, 16 |
+| [ASTM F1717-24](https://store.astm.org/f1717-24.html) | 椎体切除模型中脊柱植入物构造的标准测试方法 | 脊柱植入物力学测试 | 10, 10.1 |
+| [ASTM F1264-16e1](https://store.astm.org/f1264-16e1.html) | 髓内固定装置的标准规范和测试方法 | 髓内固定装置测试 | 10, 10.1 |

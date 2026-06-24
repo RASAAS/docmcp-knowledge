@@ -24,7 +24,7 @@ const zhSidebar = Object.assign(
         ],
       },
       {
-        text: '协调标准 (51)', link: '/zh/eu_mdr/standards',
+        text: '协调标准 (65)', link: '/zh/eu_mdr/standards',
         collapsed: true,
         items: [
           { text: '质量管理', link: '/zh/eu_mdr/standards/quality-management' },
@@ -224,7 +224,7 @@ export default defineConfig({
                 ],
               },
               {
-                text: 'Harmonised Standards (51)', link: '/en/eu_mdr/standards',
+                text: 'Harmonised Standards (65)', link: '/en/eu_mdr/standards',
                 collapsed: true,
                 items: [
                   { text: 'Quality Management', link: '/en/eu_mdr/standards/quality-management' },

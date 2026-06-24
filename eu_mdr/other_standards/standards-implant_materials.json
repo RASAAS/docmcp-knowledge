@@ -212,15 +212,15 @@
       "abstract": "Particular requirements for non-active joint replacement surgical implants."
     },
     {
-      "id": "eu_mdr-os-astm-f136-13",
-      "number": "ASTM F136-13",
+      "id": "eu_mdr-os-astm-f136-26",
+      "number": "ASTM F136-26",
       "title": {
         "en": "Standard Specification for Wrought Titanium-6Aluminum-4Vanadium ELI (Extra Low Interstitial) Alloy for Surgical Implant Applications",
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://www.astm.org/f0136-13.html",
-      "source_verified": "",
+      "source_url": "https://store.astm.org/f136-26.html",
+      "source_verified": "2026-06-24",
       "category": "implant_materials",
       "standard_type": "non_harmonised",
       "scope": "Ti-6Al-4V ELI alloy for implants.",
@@ -238,8 +238,8 @@
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://www.astm.org/f0075-23.html",
-      "source_verified": "",
+      "source_url": "https://store.astm.org/f75-23.html",
+      "source_verified": "2026-06-24",
       "category": "implant_materials",
       "standard_type": "non_harmonised",
       "scope": "CoCrMo casting alloy for implants.",
@@ -257,8 +257,8 @@
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://www.astm.org/f0138-19.html",
-      "source_verified": "",
+      "source_url": "https://store.astm.org/f138-19.html",
+      "source_verified": "2026-06-24",
       "category": "implant_materials",
       "standard_type": "non_harmonised",
       "scope": "316L stainless steel for implants.",

@@ -1,10 +1,10 @@
 {
   "standards": [
     {
-      "id": "astm-f1980-2021",
-      "number": "ASTM F1980:2021",
+      "id": "astm-f1980-21",
+      "number": "ASTM F1980-21",
       "title": {
-        "en": "Standard Guide for Accelerated Aging of Sterile Barrier Systems for Medical Devices",
+        "en": "Standard Guide for Accelerated Aging of Sterile Barrier Systems and Medical Devices",
         "zh": ""
       },
       "status": "active",
@@ -12,13 +12,14 @@
         "11"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.astm.org/Standards/F1980:2021.htm",
+      "source_url": "https://store.astm.org/f1980-21.html",
+      "source_verified": "2026-06-24",
       "abstract": "Provides guidance on accelerated aging test methods for evaluating the shelf life of sterile barrier systems for medical devices.",
       "scope": "Standard guide for accelerated aging of sterile barrier systems and medical device packaging."
     },
     {
-      "id": "astm-d4169-2022",
-      "number": "ASTM D4169:2022",
+      "id": "astm-d4169-23e1",
+      "number": "ASTM D4169-23e1",
       "title": {
         "en": "Standard Practice for Performance Testing of Shipping Containers and Systems",
         "zh": ""
@@ -29,15 +30,16 @@
         "14"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.astm.org/Standards/D4169:2022.htm",
+      "source_url": "https://store.astm.org/d4169-23e01.html",
+      "source_verified": "2026-06-24",
       "abstract": "Provides methods for evaluating the performance of shipping containers and systems through a series of standard tests.",
       "scope": "Standard practice for performance testing of shipping containers and systems."
     },
     {
-      "id": "astm-f2825-2010-r2020",
-      "number": "ASTM F2825:2010(R2020)",
+      "id": "astm-f2825-18r26",
+      "number": "ASTM F2825-18(2026)",
       "title": {
-        "en": "Standard Practice for Climatic Stresses of Packaging and Contained Products",
+        "en": "Standard Practice for Climatic Stressing of Packaging Systems for Single Parcel Delivery",
         "zh": ""
       },
       "status": "active",
@@ -45,13 +47,14 @@
         "11"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.astm.org/Standards/F2825:2010(R2020).htm",
-      "abstract": "Provides methods for subjecting packages and their contents to a series of climatic stress conditions.",
-      "scope": "Standard practice for climatic and durability exposures of adhesive joint assemblies for medical device evaluation."
+      "source_url": "https://store.astm.org/f2825-18r26.html",
+      "source_verified": "2026-06-24",
+      "abstract": "Provides a method for conditioning packaging systems using climatic conditions that occur in actual distribution.",
+      "scope": "Standard practice for climatic stressing of packaging systems for single parcel delivery."
     },
     {
-      "id": "astm-d4332-2021",
-      "number": "ASTM D4332:2021",
+      "id": "astm-d4332-22",
+      "number": "ASTM D4332-22",
       "title": {
         "en": "Standard Practice for Conditioning Containers, Packages, or Packaging Components for Testing",
         "zh": ""
@@ -61,13 +64,14 @@
         "11"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.astm.org/Standards/D4332:2021.htm",
+      "source_url": "https://store.astm.org/d4332-22.html",
+      "source_verified": "2026-06-24",
       "abstract": "Describes practices for conditioning containers, packages, or packaging components for testing.",
       "scope": "Standard practice for conditioning containers, packages, or packaging components for testing."
     },
     {
-      "id": "astm-f2095-2007-r2020",
-      "number": "ASTM F2095:2007(R2020)",
+      "id": "astm-f2095-07r21",
+      "number": "ASTM F2095-07(2021)",
       "title": {
         "en": "Standard Test Methods for Pressure Decay Leak Test for Flexible Packages With and Without Restraining Plates",
         "zh": ""
@@ -77,7 +81,8 @@
         "11"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.astm.org/Standards/F2095:2007(R2020).htm",
+      "source_url": "https://store.astm.org/f2095-07r21.html",
+      "source_verified": "2026-06-24",
       "abstract": "Specifies methods for testing the integrity of flexible packages using pressure decay leak testing.",
       "scope": "Standard test methods for pressure decay leak test for flexible packages with and without restraining plates."
     },
@@ -93,7 +98,8 @@
         "11"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO%2011607-1",
+      "source_url": "https://www.iso.org/standard/70799.html",
+      "source_verified": "2026-06-24",
       "abstract": "Specifies requirements for materials, sterile barrier systems and packaging systems for terminally sterilized medical devices.",
       "scope": "Packaging for terminally sterilized medical devices -- Requirements for materials, sterile barrier systems and packaging systems."
     },
@@ -109,7 +115,8 @@
         "11"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO%2011607-2",
+      "source_url": "https://www.iso.org/standard/70800.html",
+      "source_verified": "2026-06-24",
       "abstract": "Specifies requirements for validation of forming, sealing and assembly processes for packaging of terminally sterilized medical devices.",
       "scope": "Packaging for terminally sterilized medical devices -- Validation requirements for forming, sealing and assembly processes."
     }

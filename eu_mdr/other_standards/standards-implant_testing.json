@@ -8,8 +8,8 @@
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://www.astm.org/f2129-23.html",
-      "source_verified": "",
+      "source_url": "https://store.astm.org/f2129-23.html",
+      "source_verified": "2026-06-24",
       "category": "implant_testing",
       "standard_type": "non_harmonised",
       "scope": "Corrosion testing of small implant devices.",
@@ -20,15 +20,15 @@
       "abstract": "Test method for evaluating corrosion susceptibility of small implant devices using cyclic potentiodynamic polarization."
     },
     {
-      "id": "eu_mdr-os-astm-f2052-22",
-      "number": "ASTM F2052-22",
+      "id": "eu_mdr-os-astm-f2052-21",
+      "number": "ASTM F2052-21",
       "title": {
         "en": "Standard Test Method for Measurement of Magnetically Induced Displacement Force on Medical Devices in the Magnetic Resonance Environment",
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://www.astm.org/f2052-22.html",
-      "source_verified": "",
+      "source_url": "https://store.astm.org/f2052-21.html",
+      "source_verified": "2026-06-24",
       "category": "implant_testing",
       "standard_type": "non_harmonised",
       "scope": "MRI safety testing for implants.",
@@ -39,15 +39,15 @@
       "abstract": "Test method for measuring magnetically induced displacement force on medical devices in MRI environment."
     },
     {
-      "id": "eu_mdr-os-astm-f2213-17",
-      "number": "ASTM F2213-17",
+      "id": "eu_mdr-os-astm-f2213-25",
+      "number": "ASTM F2213-25",
       "title": {
         "en": "Standard Test Method for Measurement of Magnetically Induced Torque on Medical Devices in the Magnetic Resonance Environment",
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://www.astm.org/f2213-17.html",
-      "source_verified": "",
+      "source_url": "https://store.astm.org/f2213-25.html",
+      "source_verified": "2026-06-24",
       "category": "implant_testing",
       "standard_type": "non_harmonised",
       "scope": "MRI-induced torque testing for implants.",
@@ -65,8 +65,8 @@
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://www.astm.org/f2182-19e2.html",
-      "source_verified": "",
+      "source_url": "https://store.astm.org/f2182-19e2.html",
+      "source_verified": "2026-06-24",
       "category": "implant_testing",
       "standard_type": "non_harmonised",
       "scope": "MRI RF heating testing for passive implants.",
@@ -84,8 +84,8 @@
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://www.astm.org/f1717-24.html",
-      "source_verified": "",
+      "source_url": "https://store.astm.org/f1717-24.html",
+      "source_verified": "2026-06-24",
       "category": "implant_testing",
       "standard_type": "non_harmonised",
       "scope": "Spinal implant mechanical testing.",
@@ -103,8 +103,8 @@
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://www.astm.org/f1264-16e1.html",
-      "source_verified": "",
+      "source_url": "https://store.astm.org/f1264-16e1.html",
+      "source_verified": "2026-06-24",
       "category": "implant_testing",
       "standard_type": "non_harmonised",
       "scope": "Intramedullary fixation device testing.",
