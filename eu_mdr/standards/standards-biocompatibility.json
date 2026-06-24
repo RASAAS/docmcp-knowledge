@@ -92,7 +92,8 @@
       ],
       "standard_type": "harmonised",
       "scope": "Sample preparation and reference materials for biological evaluation",
-      "abstract": "Specifies requirements and guidance for the procedures to be followed in the preparation of samples and the selection of reference materials for biological testing."
+      "abstract": "Specifies requirements and guidance for the procedures to be followed in the preparation of samples and the selection of reference materials for biological testing.",
+      "note": "Amendment A1:2025 added per CID (EU) 2026/1231."
     },
     {
       "id": "eu_mdr-hs-en-iso-10993-15-2023",
@@ -144,7 +145,8 @@
         "zh": ""
       },
       "standard_type": "harmonised",
-      "abstract": "Establishes allowable limits for leachable substances from medical devices. Specifies a systematic approach to the toxicological risk assessment of chemicals."
+      "abstract": "Establishes allowable limits for leachable substances from medical devices. Specifies a systematic approach to the toxicological risk assessment of chemicals.",
+      "note": "Amendment A1:2025 added per CID (EU) 2026/1231."
     },
     {
       "id": "eu_mdr-hs-en-iso-10993-18-2020",
@@ -200,7 +202,8 @@
         "10.4",
         "10.4.1"
       ],
-      "abstract": "Specifies tests for irritation of skin and mucous membranes by medical devices and their materials or extracts. Amendment A1:2025 adds additional in vitro reconstructed human epidermis models."
+      "abstract": "Specifies tests for irritation of skin and mucous membranes by medical devices and their materials or extracts. Amendment A1:2025 adds additional in vitro reconstructed human epidermis models.",
+      "note": "Amendment A1:2025 added per CID (EU) 2026/1231."
     },
     {
       "id": "eu_mdr-hs-en-iso-10993-1-2025",
@@ -214,21 +217,17 @@
       "source_verified": "2026-06-24",
       "category": "biocompatibility",
       "standard_type": "harmonised",
-      "scope": {
-        "en": "General framework for biological evaluation of medical devices within risk management",
-        "zh": ""
-      },
+      "scope": "Framework standard for biological evaluation of medical devices within risk management",
       "applicable_gsprs": [
         "10",
         "10.1",
         "10.2",
         "10.4",
         "10.4.1",
-        "10.4.2",
-        "10.4.3",
-        "10.4.4"
+        "10.4.2"
       ],
-      "abstract": "Specifies the general principles governing the biological evaluation of medical devices within a risk management process, including categorisation of devices based on nature and duration of body contact."
+      "abstract": "Establishes the general principles for the biological evaluation of medical devices within a risk management process. Key framework standard for biocompatibility.",
+      "note": "Newly harmonised per CID (EU) 2026/1231 (11 June 2026). Replaces EN ISO 10993-1:2020 reference."
     },
     {
       "id": "eu_mdr-hs-en-iso-10993-5-2009",
@@ -245,131 +244,15 @@
         "EN ISO 10993-5:2009/A11:2025"
       ],
       "standard_type": "harmonised",
-      "scope": {
-        "en": "In vitro cytotoxicity testing of medical devices",
-        "zh": ""
-      },
+      "scope": "In vitro cytotoxicity testing methods for biological evaluation",
       "applicable_gsprs": [
         "10",
         "10.1",
         "10.4",
         "10.4.1"
       ],
-      "abstract": "Describes test methods for the assessment of in vitro cytotoxicity of medical devices. Amendment A11:2025 adds EU MDR-specific Annex Z requirements."
-    },
-    {
-      "id": "eu_mdr-hs-en-iso-10993-3-2014",
-      "number": "EN ISO 10993-3:2014",
-      "title": {
-        "en": "Biological evaluation of medical devices - Part 3: Tests for genotoxicity, carcinogenicity and reproductive toxicity (ISO 10993-3:2014)",
-        "zh": "医疗器械生物学评价 - 第3部分：遗传毒性、致癌性和生殖毒性试验"
-      },
-      "status": "active",
-      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
-      "source_verified": "2026-06-24",
-      "category": "biocompatibility",
-      "standard_type": "harmonised",
-      "scope": {
-        "en": "Genotoxicity, carcinogenicity and reproductive toxicity testing",
-        "zh": ""
-      },
-      "applicable_gsprs": ["10", "10.1", "10.4", "10.4.1"],
-      "abstract": "Specifies categories of tests for genotoxicity, carcinogenicity and reproductive toxicity for evaluating potential genetic and reproductive hazards arising from medical devices."
-    },
-    {
-      "id": "eu_mdr-hs-en-iso-10993-7-2008",
-      "number": "EN ISO 10993-7:2008",
-      "title": {
-        "en": "Biological evaluation of medical devices - Part 7: Ethylene oxide sterilization residuals (ISO 10993-7:2008)",
-        "zh": "医疗器械生物学评价 - 第7部分：环氧乙烷灭菌残留物"
-      },
-      "status": "active",
-      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
-      "source_verified": "2026-06-24",
-      "category": "biocompatibility",
-      "standard_type": "harmonised",
-      "scope": {
-        "en": "Allowable limits for ethylene oxide sterilization residuals",
-        "zh": ""
-      },
-      "applicable_gsprs": ["10", "10.1", "10.4", "10.4.2", "11"],
-      "abstract": "Specifies allowable limits for residual ethylene oxide (EO) and ethylene chlorohydrin (ECH) in individual EO-sterilised medical devices."
-    },
-    {
-      "id": "eu_mdr-hs-en-iso-10993-11-2018",
-      "number": "EN ISO 10993-11:2018",
-      "title": {
-        "en": "Biological evaluation of medical devices - Part 11: Tests for systemic toxicity (ISO 10993-11:2017)",
-        "zh": "医疗器械生物学评价 - 第11部分：全身毒性试验"
-      },
-      "status": "active",
-      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
-      "source_verified": "2026-06-24",
-      "category": "biocompatibility",
-      "standard_type": "harmonised",
-      "scope": {
-        "en": "Systemic toxicity testing of medical devices",
-        "zh": ""
-      },
-      "applicable_gsprs": ["10", "10.1", "10.4", "10.4.1", "10.6"],
-      "abstract": "Specifies requirements and gives guidance on procedures for assessing the potential of medical devices and their constituent materials to cause adverse systemic reactions."
-    },
-    {
-      "id": "eu_mdr-hs-en-iso-22442-1-2020",
-      "number": "EN ISO 22442-1:2020",
-      "title": {
-        "en": "Medical devices utilizing animal tissues and their derivatives - Part 1: Application of risk management (ISO 22442-1:2020)",
-        "zh": "利用动物组织及其衍生物的医疗器械 - 第1部分：风险管理的应用"
-      },
-      "status": "active",
-      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
-      "source_verified": "2026-06-24",
-      "category": "biocompatibility",
-      "standard_type": "harmonised",
-      "scope": {
-        "en": "Risk management for medical devices utilizing animal tissues and their derivatives",
-        "zh": ""
-      },
-      "applicable_gsprs": ["10", "10.4", "12", "13", "13.1", "13.2"],
-      "abstract": "Specifies requirements for the application of risk management to medical devices manufactured utilizing animal tissues or their derivatives which are non-viable or rendered non-viable."
-    },
-    {
-      "id": "eu_mdr-hs-en-iso-22442-2-2020",
-      "number": "EN ISO 22442-2:2020",
-      "title": {
-        "en": "Medical devices utilizing animal tissues and their derivatives - Part 2: Controls on sourcing, collection and handling (ISO 22442-2:2020)",
-        "zh": "利用动物组织及其衍生物的医疗器械 - 第2部分：来源、采集和处理的控制"
-      },
-      "status": "active",
-      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
-      "source_verified": "2026-06-24",
-      "category": "biocompatibility",
-      "standard_type": "harmonised",
-      "scope": {
-        "en": "Controls on sourcing, collection and handling of animal tissues for medical devices",
-        "zh": ""
-      },
-      "applicable_gsprs": ["10", "10.4", "12", "13", "13.1", "13.2"],
-      "abstract": "Specifies requirements for controls on the sourcing, collection, and handling of animals and tissues for the manufacture of medical devices."
-    },
-    {
-      "id": "eu_mdr-hs-en-iso-22442-3-2020",
-      "number": "EN ISO 22442-3:2020",
-      "title": {
-        "en": "Medical devices utilizing animal tissues and their derivatives - Part 3: Validation of the elimination and/or inactivation of viruses and TSE agents (ISO 22442-3:2007, Amd 1:2015)",
-        "zh": "利用动物组织及其衍生物的医疗器械 - 第3部分：病毒和TSE因子灭活/消除验证"
-      },
-      "status": "active",
-      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
-      "source_verified": "2026-06-24",
-      "category": "biocompatibility",
-      "standard_type": "harmonised",
-      "scope": {
-        "en": "Validation of virus and TSE agent elimination/inactivation for animal tissue medical devices",
-        "zh": ""
-      },
-      "applicable_gsprs": ["10", "10.4", "12", "13", "13.1", "13.2"],
-      "abstract": "Specifies requirements for the validation of the elimination and/or inactivation of viruses and transmissible spongiform encephalopathy (TSE) agents during the manufacture of medical devices."
+      "abstract": "Specifies test methods for assessing the in vitro cytotoxicity of medical devices.",
+      "note": "Newly harmonised per CID (EU) 2026/1231 with amendment A11:2025."
     }
   ]
 }

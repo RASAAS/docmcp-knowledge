@@ -1,26 +1,95 @@
 {
   "standards": [
     {
+      "id": "iec-81001-5-1-2021",
+      "number": "IEC 81001-5-1:2021",
+      "title": {
+        "en": "Health software and health IT systems safety, effectiveness and security - Part 5-1: Security - Activities in the product life cycle",
+        "zh": "健康软件和健康IT系统的安全性、有效性和网络安全 - 第5-1部分：安全 - 产品生命周期中的活动"
+      },
+      "status": "active",
+      "applicable_gsprs": ["17", "17.1", "17.2", "17.3", "17.4", "18", "18.8"],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/76097.html",
+      "source_verified": "2026-06-24",
+      "abstract": "Defines lifecycle requirements for development and maintenance of health software needed to support conformance to IEC 62443-4-1, taking specific needs for health software into account. Considered current state-of-the-art for medical device cybersecurity under EU MDR.",
+      "scope": "Secure software lifecycle processes for health software and medical device software (SaMD, SiMD, MDSW).",
+      "note": "EN IEC 81001-5-1:2022 published. Harmonisation under EU MDR delayed to 2028. Already mandatory in Japan (JIS T 81001-5-1) since April 2024. FDA recognized consensus standard."
+    },
+    {
+      "id": "iec-tr-60601-4-5-2021",
+      "number": "IEC TR 60601-4-5:2021",
+      "title": {
+        "en": "Medical electrical equipment - Part 4-5: Guidance and interpretation - Safety-related technical security specifications",
+        "zh": "医用电气设备 - 第4-5部分：指南和解释 - 安全相关技术安全规范"
+      },
+      "status": "active",
+      "applicable_gsprs": ["17", "17.1", "17.2", "17.4", "18"],
+      "standard_type": "non_harmonised",
+      "source_url": "https://webstore.iec.ch/en/publication/34263",
+      "source_verified": "2026-06-24",
+      "abstract": "Defines Security Levels (SL 0-4) and Security Capabilities (SC) for medical devices with network connectivity. Complements IEC 81001-5-1 by specifying technical security requirements.",
+      "scope": "Technical security requirements for network-connected medical electrical equipment."
+    },
+    {
       "id": "iec-80001-1-2021",
       "number": "IEC 80001-1:2021",
       "title": {
         "en": "Application of risk management for IT-networks incorporating medical devices - Part 1: Safety, effectiveness and security in the implementation and use of connected medical devices or connected health software",
-        "zh": ""
+        "zh": "IT网络中纳入医疗器械的风险管理应用 - 第1部分：联网医疗器械或联网健康软件的实施和使用中的安全性、有效性和网络安全"
       },
       "status": "active",
-      "applicable_gsprs": [
-        "17",
-        "17.4",
-        "18",
-        "18.8"
-      ],
-      "scope": {
-        "en": "Risk management for networked medical devices and health IT",
-        "zh": ""
-      },
+      "applicable_gsprs": ["17", "17.4", "18", "18.8"],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2080001-1",
-      "abstract": "Specifies requirements for risk management when medical devices are incorporated into IT-networks."
+      "source_url": "https://webstore.iec.ch/en/publication/34263",
+      "source_verified": "2026-06-24",
+      "abstract": "Specifies requirements for risk management when medical devices or health software are incorporated into IT-networks.",
+      "scope": "Risk management for networked medical devices and health IT."
+    },
+    {
+      "id": "iec-62443-4-1-2018",
+      "number": "IEC 62443-4-1:2018",
+      "title": {
+        "en": "Security for industrial automation and control systems - Part 4-1: Secure product development lifecycle requirements",
+        "zh": "工业自动化和控制系统安全 - 第4-1部分：安全产品开发生命周期要求"
+      },
+      "status": "active",
+      "applicable_gsprs": ["17", "17.2", "17.4"],
+      "standard_type": "non_harmonised",
+      "source_url": "https://webstore.iec.ch/en/publication/33615",
+      "source_verified": "2026-06-24",
+      "abstract": "Defines secure product development lifecycle requirements. IEC 81001-5-1 adapts this standard specifically for health software.",
+      "scope": "Secure development lifecycle requirements for products used in industrial automation, also applicable to medical devices."
+    },
+    {
+      "id": "aami-tir57-2016-r2022",
+      "number": "AAMI TIR57:2016/(R)2022",
+      "title": {
+        "en": "Principles for medical device security - Risk management",
+        "zh": "医疗器械安全原则 - 风险管理"
+      },
+      "status": "active",
+      "applicable_gsprs": ["17", "17.4", "18"],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.aami.org/store/products/tir57-2016-r-2022",
+      "source_verified": "2026-06-24",
+      "abstract": "Provides guidance on applying ISO 14971 risk management process to cybersecurity threats for medical devices. FDA recognized consensus standard.",
+      "scope": "Cybersecurity risk management principles for medical devices."
+    },
+    {
+      "id": "iec-tr-80001-2-2-2012",
+      "number": "IEC/TR 80001-2-2:2012",
+      "title": {
+        "en": "Application of risk management for IT-networks incorporating medical devices - Part 2-2: Guidance for the communication of medical device security needs, risks and controls",
+        "zh": "IT网络中纳入医疗器械的风险管理应用 - 第2-2部分：医疗器械安全需求、风险和控制的沟通指南"
+      },
+      "status": "active",
+      "applicable_gsprs": ["17", "17.4"],
+      "standard_type": "non_harmonised",
+      "source_url": "https://webstore.iec.ch/en/publication/7532",
+      "source_verified": "2026-06-24",
+      "abstract": "Defines a framework for manufacturer disclosure of medical device security capabilities (MDS2 form).",
+      "scope": "Communication framework for medical device security properties and manufacturer disclosure statements."
     }
   ]
 }

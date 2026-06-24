@@ -6,7 +6,7 @@ title: 其他适用标准
 
 除协调标准外，医疗器械制造商通常还应用以下国际标准（ISO、IEC、ASTM 等）来证明符合 EU MDR GSPR 要求。虽然这些标准不产生*符合性推定*，但它们代表了公认的技术水平。
 
-::: info 共 **221** 条标准，分布于 **50** 个类别
+::: info 共 **242** 条标准，分布于 **51** 个类别
 :::
 
 ## 标准分类
@@ -16,13 +16,14 @@ title: 其他适用标准
 | [有源植入物](./other-standards/active-implants) | 5 | EN 45502-2-1:2003+A1:2020, EN 45502-2-2:2008+A1:2020, EN 45502-2-3:2024... |
 | [麻醉设备](./other-standards/anaesthesia) | 1 | IEC 60601-2-13:2022 |
 | [听力学](./other-standards/audiology) | 1 | IEC 60601-2-66:2019 |
-| [生物相容性](./other-standards/biocompatibility) | 9 | ISO 10993-2:2022, ISO 10993-6:2026, ISO 10993-13:2010... |
+| [AI与机器学习](./other-standards/ai-ml) | 10 | ISO/TS 24971-2:2026, AAMI/BSI 34971:2023, IEC PAS 63621:2026... |
+| [生物相容性](./other-standards/biocompatibility) | 15 | ISO 10993-3:2014, ISO 10993-6:2026, ISO 10993-7:2008... |
 | [生物来源材料](./other-standards/biological-materials) | 3 | ISO 22442-1:2020, ISO 22442-2:2020, ISO 22442-3:2007+AMD1:2015 |
 | [呼吸气路](./other-standards/breathing-gas-pathways) | 10 | ISO 7396-1:2016, ISO 80601-2-12:2020, ISO 80601-2-70:2020... |
 | [心血管](./other-standards/cardiology) | 3 | IEC 60601-2-47:2012+AMD1:2019, IEC 60601-2-25:2011+AMD1:2014, IEC 60601-2-31:2020 |
 | [临床调查](./other-standards/clinical-investigation) | 3 | ISO 14155:2020, ISO 14155:2020+AMD1:2024, ISO 20916:2019 |
 | [小口径连接器](./other-standards/connectors) | 2 | ISO 80369-1:2018+AMD1:2021, ISO 80369-7:2021 |
-| [网络安全](./other-standards/cybersecurity) | 1 | IEC 80001-1:2021 |
+| [网络安全](./other-standards/cybersecurity) | 6 | IEC 81001-5-1:2021, IEC TR 60601-4-5:2021, IEC 80001-1:2021... |
 | [牙科](./other-standards/dental) | 4 | ISO 7405:2018, IEC 60601-2-63:2023, IEC 60601-2-65:2012+AMD1:2016... |
 | [诊断成像](./other-standards/diagnostic-imaging) | 12 | IEC 60601-2-28:2017, IEC 60601-2-33:2022, IEC 60601-2-43:2022... |
 | [透析](./other-standards/dialysis) | 1 | IEC 60601-2-39:2018 |

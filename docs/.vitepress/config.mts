@@ -44,12 +44,13 @@ const zhSidebar = Object.assign(
         ],
       },
       {
-        text: '其他适用标准 (221)', link: '/zh/eu_mdr/other-standards',
+        text: '其他适用标准 (242)', link: '/zh/eu_mdr/other-standards',
         collapsed: true,
         items: [
           { text: '有源植入物', link: '/zh/eu_mdr/other-standards/active-implants' },
           { text: '麻醉设备', link: '/zh/eu_mdr/other-standards/anaesthesia' },
           { text: '听力学', link: '/zh/eu_mdr/other-standards/audiology' },
+          { text: 'AI与机器学习', link: '/zh/eu_mdr/other-standards/ai-ml' },
           { text: '生物相容性', link: '/zh/eu_mdr/other-standards/biocompatibility' },
           { text: '生物来源材料', link: '/zh/eu_mdr/other-standards/biological-materials' },
           { text: '呼吸气路', link: '/zh/eu_mdr/other-standards/breathing-gas-pathways' },
@@ -282,12 +283,13 @@ export default defineConfig({
                 ],
               },
               {
-                text: 'Other Standards (221)', link: '/en/eu_mdr/other-standards',
+                text: 'Other Standards (242)', link: '/en/eu_mdr/other-standards',
                 collapsed: true,
                 items: [
                   { text: 'Active Implants', link: '/en/eu_mdr/other-standards/active-implants' },
                   { text: 'Anaesthesia', link: '/en/eu_mdr/other-standards/anaesthesia' },
                   { text: 'Audiology', link: '/en/eu_mdr/other-standards/audiology' },
+                  { text: 'AI & Machine Learning', link: '/en/eu_mdr/other-standards/ai-ml' },
                   { text: 'Biocompatibility', link: '/en/eu_mdr/other-standards/biocompatibility' },
                   { text: 'Biological Materials', link: '/en/eu_mdr/other-standards/biological-materials' },
                   { text: 'Breathing Gas Pathways', link: '/en/eu_mdr/other-standards/breathing-gas-pathways' },

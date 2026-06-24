@@ -6,7 +6,7 @@ title: Other Applicable Standards
 
 Beyond harmonised standards, medical device manufacturers commonly apply the following international standards (ISO, IEC, ASTM, etc.) to demonstrate compliance with EU MDR GSPR. While these do not create a *presumption of conformity*, they represent accepted state-of-the-art practices.
 
-::: info Total: **221** standards across **50** categories
+::: info Total: **242** standards across **51** categories
 :::
 
 ## Categories
@@ -16,13 +16,14 @@ Beyond harmonised standards, medical device manufacturers commonly apply the fol
 | [Active Implants](./other-standards/active-implants) | 5 | EN 45502-2-1:2003+A1:2020, EN 45502-2-2:2008+A1:2020, EN 45502-2-3:2024... |
 | [Anaesthesia](./other-standards/anaesthesia) | 1 | IEC 60601-2-13:2022 |
 | [Audiology](./other-standards/audiology) | 1 | IEC 60601-2-66:2019 |
-| [Biocompatibility](./other-standards/biocompatibility) | 9 | ISO 10993-2:2022, ISO 10993-6:2026, ISO 10993-13:2010... |
+| [AI & Machine Learning](./other-standards/ai-ml) | 10 | ISO/TS 24971-2:2026, AAMI/BSI 34971:2023, IEC PAS 63621:2026... |
+| [Biocompatibility](./other-standards/biocompatibility) | 15 | ISO 10993-3:2014, ISO 10993-6:2026, ISO 10993-7:2008... |
 | [Biological Materials](./other-standards/biological-materials) | 3 | ISO 22442-1:2020, ISO 22442-2:2020, ISO 22442-3:2007+AMD1:2015 |
 | [Breathing Gas Pathways](./other-standards/breathing-gas-pathways) | 10 | ISO 7396-1:2016, ISO 80601-2-12:2020, ISO 80601-2-70:2020... |
 | [Cardiology](./other-standards/cardiology) | 3 | IEC 60601-2-47:2012+AMD1:2019, IEC 60601-2-25:2011+AMD1:2014, IEC 60601-2-31:2020 |
 | [Clinical Investigation](./other-standards/clinical-investigation) | 3 | ISO 14155:2020, ISO 14155:2020+AMD1:2024, ISO 20916:2019 |
 | [Connectors](./other-standards/connectors) | 2 | ISO 80369-1:2018+AMD1:2021, ISO 80369-7:2021 |
-| [Cybersecurity](./other-standards/cybersecurity) | 1 | IEC 80001-1:2021 |
+| [Cybersecurity](./other-standards/cybersecurity) | 6 | IEC 81001-5-1:2021, IEC TR 60601-4-5:2021, IEC 80001-1:2021... |
 | [Dental](./other-standards/dental) | 4 | ISO 7405:2018, IEC 60601-2-63:2023, IEC 60601-2-65:2012+AMD1:2016... |
 | [Diagnostic Imaging](./other-standards/diagnostic-imaging) | 12 | IEC 60601-2-28:2017, IEC 60601-2-33:2022, IEC 60601-2-43:2022... |
 | [Dialysis](./other-standards/dialysis) | 1 | IEC 60601-2-39:2018 |

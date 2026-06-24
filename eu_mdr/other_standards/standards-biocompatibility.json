@@ -16,7 +16,10 @@
         "en": "Minimum requirements for animal welfare in biocompatibility testing of medical devices",
         "zh": ""
       },
-      "applicable_gsprs": ["10", "10.4"],
+      "applicable_gsprs": [
+        "10",
+        "10.4"
+      ],
       "abstract": "Specifies minimum requirements for ensuring proper provision for the welfare of animals used in tests to assess biocompatibility of materials used in medical devices."
     },
     {
@@ -35,7 +38,10 @@
         "en": "Implantation test methods for preclinical assessment of local tissue effects",
         "zh": ""
       },
-      "applicable_gsprs": ["10", "10.4"],
+      "applicable_gsprs": [
+        "10",
+        "10.4"
+      ],
       "abstract": "Specifies requirements for implantation test methods for preclinical assessment of the local effects after implantation of materials intended for use in medical devices. Fourth edition replaces ISO 10993-6:2016."
     },
     {
@@ -54,7 +60,10 @@
         "en": "Test design for identifying and quantifying degradation products from polymeric medical devices",
         "zh": ""
       },
-      "applicable_gsprs": ["10", "10.4"],
+      "applicable_gsprs": [
+        "10",
+        "10.4"
+      ],
       "abstract": "Provides general requirements for the design of tests in a simulated environment for identifying and quantifying degradation products from finished polymeric medical devices. Under revision (ISO/AWI 10993-13).",
       "note": "Under revision; ISO/AWI 10993-13 approved 2024-10-29"
     },
@@ -74,7 +83,10 @@
         "en": "Test design for identifying and quantifying degradation products from ceramic medical devices",
         "zh": ""
       },
-      "applicable_gsprs": ["10", "10.4"],
+      "applicable_gsprs": [
+        "10",
+        "10.4"
+      ],
       "abstract": "Provides general requirements for the design of tests for identifying and quantifying degradation products from ceramics used in medical devices. Under revision (ISO/AWI 10993-14).",
       "note": "Under revision; ISO/AWI 10993-14 approved 2024-10-29"
     },
@@ -94,7 +106,10 @@
         "en": "Principles for designing toxicokinetic studies for degradation products and leachables from medical devices",
         "zh": ""
       },
-      "applicable_gsprs": ["10", "10.4"],
+      "applicable_gsprs": [
+        "10",
+        "10.4"
+      ],
       "abstract": "Provides principles on designing and performing toxicokinetic studies relevant to medical devices. Under revision (ISO/DIS 10993-16, voting closed 2026-03-03).",
       "note": "Under revision; ISO/DIS 10993-16 at DIS stage"
     },
@@ -114,7 +129,10 @@
         "en": "Physico-chemical, morphological and topographical characterization of materials in biological evaluation",
         "zh": ""
       },
-      "applicable_gsprs": ["10", "10.4"],
+      "applicable_gsprs": [
+        "10",
+        "10.4"
+      ],
       "abstract": "Provides guidance on physico-chemical, morphological and topographical characterization of materials used in medical devices as part of biological evaluation."
     },
     {
@@ -133,7 +151,10 @@
         "en": "Principles and methods for immunotoxicology testing of medical devices",
         "zh": ""
       },
-      "applicable_gsprs": ["10", "10.4"],
+      "applicable_gsprs": [
+        "10",
+        "10.4"
+      ],
       "abstract": "Describes principles and methods for immunotoxicology testing of medical devices, including assessment of immunosuppression, immunostimulation, and hypersensitivity."
     },
     {
@@ -152,7 +173,10 @@
         "en": "Assessment of irritation potential in skin sensitization assays for medical devices",
         "zh": ""
       },
-      "applicable_gsprs": ["10", "10.4"],
+      "applicable_gsprs": [
+        "10",
+        "10.4"
+      ],
       "abstract": "Provides guidance on experimental assessment of irritation potential when using skin sensitization assays for biological evaluation of medical devices."
     },
     {
@@ -171,8 +195,163 @@
         "en": "Guidance on biological evaluation of medical devices containing nanomaterials",
         "zh": ""
       },
-      "applicable_gsprs": ["10", "10.4"],
+      "applicable_gsprs": [
+        "10",
+        "10.4"
+      ],
       "abstract": "Provides guidance on the biological evaluation of medical devices that incorporate or generate nanomaterials, addressing specific considerations for nanoscale materials."
+    },
+    {
+      "id": "eu_mdr-os-iso-10993-3-2014",
+      "number": "ISO 10993-3:2014",
+      "title": {
+        "en": "Biological evaluation of medical devices - Part 3: Tests for genotoxicity, carcinogenicity and reproductive toxicity (ISO 10993-3:2014)",
+        "zh": "医疗器械生物学评价 - 第3部分：遗传毒性、致癌性和生殖毒性试验"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "10",
+        "10.1",
+        "10.4",
+        "10.4.1"
+      ],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/55614.html",
+      "source_verified": "2026-06-24",
+      "abstract": "Specifies categories of tests for genotoxicity, carcinogenicity and reproductive toxicity for evaluating potential genetic and reproductive hazards arising from medical devices.",
+      "scope": {
+        "en": "Genotoxicity, carcinogenicity and reproductive toxicity testing",
+        "zh": ""
+      },
+      "note": "Widely used in industry but NOT listed in EU Official Journal for MDR presumption of conformity. The EN adoption exists but has not been formally harmonised under MDR."
+    },
+    {
+      "id": "eu_mdr-os-iso-10993-7-2008",
+      "number": "ISO 10993-7:2008",
+      "title": {
+        "en": "Biological evaluation of medical devices - Part 7: Ethylene oxide sterilization residuals (ISO 10993-7:2008)",
+        "zh": "医疗器械生物学评价 - 第7部分：环氧乙烷灭菌残留物"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "10",
+        "10.1",
+        "10.4",
+        "10.4.2",
+        "11"
+      ],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/41943.html",
+      "source_verified": "2026-06-24",
+      "abstract": "Specifies allowable limits for residual ethylene oxide (EO) and ethylene chlorohydrin (ECH) in individual EO-sterilised medical devices.",
+      "scope": {
+        "en": "Allowable limits for ethylene oxide sterilization residuals",
+        "zh": ""
+      },
+      "note": "Widely used in industry but NOT listed in EU Official Journal for MDR presumption of conformity. The EN adoption exists but has not been formally harmonised under MDR."
+    },
+    {
+      "id": "eu_mdr-os-iso-10993-11-2018",
+      "number": "ISO 10993-11:2018",
+      "title": {
+        "en": "Biological evaluation of medical devices - Part 11: Tests for systemic toxicity (ISO 10993-11:2017)",
+        "zh": "医疗器械生物学评价 - 第11部分：全身毒性试验"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "10",
+        "10.1",
+        "10.4",
+        "10.4.1",
+        "10.6"
+      ],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/68426.html",
+      "source_verified": "2026-06-24",
+      "abstract": "Specifies requirements and gives guidance on procedures for assessing the potential of medical devices and their constituent materials to cause adverse systemic reactions.",
+      "scope": {
+        "en": "Systemic toxicity testing of medical devices",
+        "zh": ""
+      },
+      "note": "Widely used in industry but NOT listed in EU Official Journal for MDR presumption of conformity. The EN adoption exists but has not been formally harmonised under MDR."
+    },
+    {
+      "id": "eu_mdr-os-iso-22442-1-2020",
+      "number": "ISO 22442-1:2020",
+      "title": {
+        "en": "Medical devices utilizing animal tissues and their derivatives - Part 1: Application of risk management (ISO 22442-1:2020)",
+        "zh": "利用动物组织及其衍生物的医疗器械 - 第1部分：风险管理的应用"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "10",
+        "10.4",
+        "12",
+        "13",
+        "13.1",
+        "13.2"
+      ],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/74280.html",
+      "source_verified": "2026-06-24",
+      "abstract": "Specifies requirements for the application of risk management to medical devices manufactured utilizing animal tissues or their derivatives which are non-viable or rendered non-viable.",
+      "scope": {
+        "en": "Risk management for medical devices utilizing animal tissues and their derivatives",
+        "zh": ""
+      },
+      "note": "Widely used in industry but NOT listed in EU Official Journal for MDR presumption of conformity. The EN adoption exists but has not been formally harmonised under MDR."
+    },
+    {
+      "id": "eu_mdr-os-iso-22442-2-2020",
+      "number": "ISO 22442-2:2020",
+      "title": {
+        "en": "Medical devices utilizing animal tissues and their derivatives - Part 2: Controls on sourcing, collection and handling (ISO 22442-2:2020)",
+        "zh": "利用动物组织及其衍生物的医疗器械 - 第2部分：来源、采集和处理的控制"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "10",
+        "10.4",
+        "12",
+        "13",
+        "13.1",
+        "13.2"
+      ],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/74281.html",
+      "source_verified": "2026-06-24",
+      "abstract": "Specifies requirements for controls on the sourcing, collection, and handling of animals and tissues for the manufacture of medical devices.",
+      "scope": {
+        "en": "Controls on sourcing, collection and handling of animal tissues for medical devices",
+        "zh": ""
+      },
+      "note": "Widely used in industry but NOT listed in EU Official Journal for MDR presumption of conformity. The EN adoption exists but has not been formally harmonised under MDR."
+    },
+    {
+      "id": "eu_mdr-os-iso-22442-3-2020",
+      "number": "ISO 22442-3:2020",
+      "title": {
+        "en": "Medical devices utilizing animal tissues and their derivatives - Part 3: Validation of the elimination and/or inactivation of viruses and TSE agents (ISO 22442-3:2007, Amd 1:2015)",
+        "zh": "利用动物组织及其衍生物的医疗器械 - 第3部分：病毒和TSE因子灭活/消除验证"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "10",
+        "10.4",
+        "12",
+        "13",
+        "13.1",
+        "13.2"
+      ],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/74282.html",
+      "source_verified": "2026-06-24",
+      "abstract": "Specifies requirements for the validation of the elimination and/or inactivation of viruses and transmissible spongiform encephalopathy (TSE) agents during the manufacture of medical devices.",
+      "scope": {
+        "en": "Validation of virus and TSE agent elimination/inactivation for animal tissue medical devices",
+        "zh": ""
+      },
+      "note": "Widely used in industry but NOT listed in EU Official Journal for MDR presumption of conformity. The EN adoption exists but has not been formally harmonised under MDR."
     }
   ]
 }

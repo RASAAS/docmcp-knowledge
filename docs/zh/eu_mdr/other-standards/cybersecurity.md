@@ -1,11 +1,40 @@
----
-title: "网络安全"
----
-
 # 网络安全
 
-本类别共 **1** 条标准。
+本类别共 **6** 条标准。
+
+::: tip 核心标准
+**IEC 81001-5-1:2021**（EN IEC 81001-5-1:2022）被视为EU MDR下医疗器械网络安全的当前技术水平（state-of-the-art），尽管其协调化已推迟至2028年。
+:::
 
 | 标准编号 | 标题 | 适用范围 | GSPR |
-|----------|------|----------|------|
-| [IEC 80001-1:2021](https://webstore.iec.ch/en/search?q=IEC%2080001-1) | Application of risk management for IT-networks incorporating medical devices - Part 1: Safety, effectiveness and security in the implementation and use of connected medical devices or connected health software | Risk management for networked medical devices and health IT | 17, 17.4, 18, 18.8 |
+| --- | --- | --- | --- |
+| [IEC 81001-5-1:2021](https://www.iso.org/standard/76097.html) | 健康软件和健康IT系统的安全性、有效性和网络安全 - 第5-1部分：安全 - 产品生命周期中的活动 | 健康软件的安全软件生命周期过程（SaMD、SiMD、MDSW） | 17, 17.1-17.4, 18, 18.8 |
+| [IEC TR 60601-4-5:2021](https://webstore.iec.ch/en/publication/34263) | 医用电气设备 - 第4-5部分：指南和解释 - 安全相关技术安全规范 | 联网医用电气设备的技术安全要求 | 17, 17.1, 17.2, 17.4, 18 |
+| [IEC 80001-1:2021](https://webstore.iec.ch/en/publication/34263) | IT网络中纳入医疗器械的风险管理应用 - 第1部分：安全性、有效性和网络安全 | 联网医疗器械和健康IT的风险管理 | 17, 17.4, 18, 18.8 |
+| [IEC 62443-4-1:2018](https://webstore.iec.ch/en/publication/33615) | 工业自动化和控制系统安全 - 第4-1部分：安全产品开发生命周期要求 | 安全开发生命周期要求（IEC 81001-5-1的基础） | 17, 17.2, 17.4 |
+| [AAMI TIR57:2016/(R)2022](https://www.aami.org/store/products/tir57-2016-r-2022) | 医疗器械安全原则 - 风险管理 | 医疗器械网络安全风险管理（FDA认可） | 17, 17.4, 18 |
+| [IEC/TR 80001-2-2:2012](https://webstore.iec.ch/en/publication/7532) | IT网络风险管理应用 - 第2-2部分：医疗器械安全需求、风险和控制的沟通指南 | MDS2制造商安全披露框架 | 17, 17.4 |
+
+## 标准关系
+
+```
+IEC 62443-4-1（通用安全开发）
+    |
+    v  （适配健康软件）
+IEC 81001-5-1（过程要求 - "如何安全开发"）
+    +
+IEC TR 60601-4-5（技术要求 - "实现什么"）
+    =
+医疗器械完整网络安全框架
+```
+
+## 法规状态
+
+- **EU MDR**：IEC 81001-5-1协调化推迟至2028年，但被视为当前技术水平
+- **日本**：JIS T 81001-5-1自2024年4月起强制执行
+- **美国FDA**：已认可的共识标准；与FDA的SPDF和Section 524B要求一致
+- **MDCG 2019-16 rev.1**：医疗器械网络安全EU指南
+
+## 数据层源文件
+
+`eu_mdr/other_standards/standards-cybersecurity.json`

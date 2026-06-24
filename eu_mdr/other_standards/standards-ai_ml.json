@@ -1,0 +1,157 @@
+{
+  "standards": [
+    {
+      "id": "iso-ts-24971-2-2026",
+      "number": "ISO/TS 24971-2:2026",
+      "title": {
+        "en": "Medical devices - Guidance on the application of ISO 14971 - Part 2: Machine learning in artificial intelligence",
+        "zh": "医疗器械 - ISO 14971应用指南 - 第2部分：人工智能中的机器学习"
+      },
+      "status": "active",
+      "applicable_gsprs": ["14", "14.2", "17", "17.1", "17.2", "17.4"],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/87600.html",
+      "source_verified": "2026-06-24",
+      "abstract": "Provides guidance on risks specific to AI and ML and how to apply the risk management process of ISO 14971 to ML-enabled medical devices. Does not apply to LLM or generative AI.",
+      "scope": "Risk management guidance for ML-enabled medical devices (MLMD).",
+      "note": "Published June 2026. Supersedes and formalizes concepts from AAMI TIR 34971:2023."
+    },
+    {
+      "id": "aami-bsi-34971-2023",
+      "number": "AAMI/BSI 34971:2023",
+      "title": {
+        "en": "Application of ISO 14971 to machine learning in artificial intelligence - Guide",
+        "zh": "ISO 14971在人工智能机器学习中的应用 - 指南"
+      },
+      "status": "active",
+      "applicable_gsprs": ["14", "14.2", "17", "17.1"],
+      "standard_type": "non_harmonised",
+      "source_url": "https://knowledge.bsigroup.com/products/application-of-iso-14971-to-machine-learning-in-artificial-intelligence-guide",
+      "source_verified": "2026-06-24",
+      "abstract": "Jointly developed by BSI and AAMI, provides practical guidance on identifying and managing ML-specific hazards including dataset shifts, model drift, bias, adversarial inputs, and explainability within ISO 14971 framework.",
+      "scope": "AI/ML risk management guidance for medical devices, complementing ISO 14971.",
+      "note": "Largely superseded by ISO/TS 24971-2:2026 but remains a recognized industry reference."
+    },
+    {
+      "id": "iec-pas-63621-2026",
+      "number": "IEC PAS 63621:2026",
+      "title": {
+        "en": "Artificial intelligence enabled medical devices - Data management",
+        "zh": "人工智能医疗器械 - 数据管理"
+      },
+      "status": "active",
+      "applicable_gsprs": ["14", "14.2", "17", "17.1", "17.2"],
+      "standard_type": "non_harmonised",
+      "source_url": "https://webstore.iec.ch/en/publication/100814",
+      "source_verified": "2026-06-24",
+      "abstract": "Framework for data life cycle processes for management of data used to train, test or validate AI models in medical devices. Covers data quality, governance, traceability, bias mitigation, versioning, and annotation.",
+      "scope": "Data lifecycle management for AI-enabled medical devices.",
+      "note": "Published March 2026. First IEC standard specifically addressing AI data management for medical devices."
+    },
+    {
+      "id": "iso-iec-5259-2-2024",
+      "number": "ISO/IEC 5259-2:2024",
+      "title": {
+        "en": "Artificial intelligence - Data quality for analytics and machine learning (ML) - Part 2: Data quality measures",
+        "zh": "人工智能 - 分析和机器学习的数据质量 - 第2部分：数据质量度量"
+      },
+      "status": "active",
+      "applicable_gsprs": ["14", "17.1"],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/81088.html",
+      "source_verified": "2026-06-24",
+      "abstract": "Defines data quality measures for analytics and machine learning, including accuracy, completeness, consistency, and timeliness metrics.",
+      "scope": "Data quality measurement framework for AI/ML systems."
+    },
+    {
+      "id": "iso-iec-5259-4-2024",
+      "number": "ISO/IEC 5259-4:2024",
+      "title": {
+        "en": "Artificial intelligence - Data quality for analytics and machine learning (ML) - Part 4: Data quality process framework",
+        "zh": "人工智能 - 分析和机器学习的数据质量 - 第4部分：数据质量过程框架"
+      },
+      "status": "active",
+      "applicable_gsprs": ["14", "17.1"],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/81093.html",
+      "source_verified": "2026-06-24",
+      "abstract": "Provides a process framework for ensuring data quality in AI/ML systems, covering data governance, quality management, and continuous improvement.",
+      "scope": "Data quality process framework for AI/ML applications."
+    },
+    {
+      "id": "iso-iec-ts-4213-2022",
+      "number": "ISO/IEC TS 4213:2022",
+      "title": {
+        "en": "Information technology - Artificial intelligence - Assessment of machine learning classification performance",
+        "zh": "信息技术 - 人工智能 - 机器学习分类性能评估"
+      },
+      "status": "active",
+      "applicable_gsprs": ["14", "14.2"],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/79799.html",
+      "source_verified": "2026-06-24",
+      "abstract": "Specifies methodologies for assessing the performance of machine learning classification models, including metrics and validation approaches.",
+      "scope": "Assessment methods for ML classification performance."
+    },
+    {
+      "id": "iso-iec-23053-2022",
+      "number": "ISO/IEC 23053:2022",
+      "title": {
+        "en": "Framework for Artificial Intelligence (AI) Systems Using Machine Learning (ML)",
+        "zh": "使用机器学习(ML)的人工智能(AI)系统框架"
+      },
+      "status": "active",
+      "applicable_gsprs": ["14", "17.1"],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/74438.html",
+      "source_verified": "2026-06-24",
+      "abstract": "Establishes an AI/ML framework describing functional components, their relationships, and defines terminology for ML-based AI systems.",
+      "scope": "Framework and terminology for AI systems using machine learning."
+    },
+    {
+      "id": "iso-iec-tr-24028-2020",
+      "number": "ISO/IEC TR 24028:2020",
+      "title": {
+        "en": "Information technology - Artificial intelligence - Overview of trustworthiness in artificial intelligence",
+        "zh": "信息技术 - 人工智能 - 人工智能可信赖性概述"
+      },
+      "status": "active",
+      "applicable_gsprs": ["14", "17"],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/77608.html",
+      "source_verified": "2026-06-24",
+      "abstract": "Provides an overview of trustworthiness in AI, addressing vulnerabilities, threats, and approaches to enhance trust in AI systems.",
+      "scope": "Trustworthiness framework for AI systems."
+    },
+    {
+      "id": "iso-iec-23894-2023",
+      "number": "ISO/IEC 23894:2023",
+      "title": {
+        "en": "Information technology - Artificial intelligence - Guidance on risk management",
+        "zh": "信息技术 - 人工智能 - 风险管理指南"
+      },
+      "status": "active",
+      "applicable_gsprs": ["14", "14.2", "17"],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/77304.html",
+      "source_verified": "2026-06-24",
+      "abstract": "Provides guidance on managing risks related to the development, deployment, and use of AI systems, extending ISO 31000 for AI-specific contexts.",
+      "scope": "AI-specific risk management guidance aligned with ISO 31000."
+    },
+    {
+      "id": "iso-iec-25024-2015",
+      "number": "ISO/IEC 25024:2015",
+      "title": {
+        "en": "Systems and software engineering - Systems and software Quality Requirements and Evaluation (SQuaRE) - Measurement of data quality",
+        "zh": "系统与软件工程 - 系统与软件质量要求和评价(SQuaRE) - 数据质量度量"
+      },
+      "status": "active",
+      "applicable_gsprs": ["14", "17.1"],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/35749.html",
+      "source_verified": "2026-06-24",
+      "abstract": "Defines quality measures for data retained in structured format within a computer system, complementing ISO/IEC 5259-2 for AI/ML data quality assessment.",
+      "scope": "Measurement of data quality within the SQuaRE framework."
+    }
+  ]
+}

@@ -2,7 +2,7 @@
   "directory": "eu_mdr/other_standards",
   "description": "International Standards (non-harmonised) applicable to medical devices under EU MDR",
   "last_updated": "2026-06-24",
-  "total_standards": 221,
+  "total_standards": 242,
   "categories": {
     "active_implants": {
       "name": {
@@ -33,7 +33,7 @@
         "zh": "生物相容性",
         "en": "Biocompatibility"
       },
-      "count": 9,
+      "count": 15,
       "file": "standards-biocompatibility.json"
     },
     "biological_materials": {
@@ -81,7 +81,7 @@
         "zh": "网络安全",
         "en": "Cybersecurity"
       },
-      "count": 1,
+      "count": 6,
       "file": "standards-cybersecurity.json"
     },
     "dental": {
@@ -403,7 +403,19 @@
       },
       "count": 1,
       "file": "standards-wound_care.json"
+    },
+    "ai_ml": {
+      "name": {
+        "en": "AI & Machine Learning",
+        "zh": "AI与机器学习"
+      },
+      "file": "standards-ai_ml.json",
+      "count": 10,
+      "description": {
+        "en": "Standards for artificial intelligence and machine learning in medical devices",
+        "zh": "医疗器械人工智能与机器学习相关标准"
+      }
     }
   },
-  "total_count": 221
+  "total_count": 242
 }
