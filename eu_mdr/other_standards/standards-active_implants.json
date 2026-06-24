@@ -14,7 +14,7 @@
         "19"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://standards.cencenelec.eu/dyn/www/f?p=205:110:0::::FSP_PROJECT:EN%2045502-2-1",
+      "source_url": "https://standards.cencenelec.eu/dyn/www/f?p=205:105:0::::FSP_LANG_ID:25&cs=1D09E97B4C16A78C0FE2C5A34E474E6B3#/search?q=EN+45502-2-1",
       "abstract": "Specifies particular requirements for active implantable medical devices intended to treat bradyarrhythmia (cardiac pacemakers).",
       "scope": "Active implantable medical devices -- Particular requirements for active implantable medical devices intended to treat bradyarrhythmia (cardiac pacemakers)."
     },
@@ -32,7 +32,7 @@
         "19"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://standards.cencenelec.eu/dyn/www/f?p=205:110:0::::FSP_PROJECT:EN%2045502-2-2",
+      "source_url": "https://standards.cencenelec.eu/dyn/www/f?p=205:105:0::::FSP_LANG_ID:25&cs=1D09E97B4C16A78C0FE2C5A34E474E6B3#/search?q=EN+45502-2-2",
       "abstract": "Specifies particular requirements for active implantable medical devices intended to treat tachyarrhythmia (implantable cardioverter defibrillators).",
       "scope": "Active implantable medical devices -- Particular requirements for active implantable medical devices intended to treat tachyarrhythmia (includes implantable defibrillators)."
     },
@@ -64,7 +64,7 @@
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://www.iso.org/standard/67396.html",
+      "source_url": "https://www.iso.org/standard/60539.html",
       "source_verified": "",
       "category": "active_implants",
       "standard_type": "non_harmonised",
@@ -84,7 +84,7 @@
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://www.iso.org/standard/67698.html",
+      "source_url": "https://www.iso.org/standard/69865.html",
       "source_verified": "",
       "category": "active_implants",
       "standard_type": "non_harmonised",

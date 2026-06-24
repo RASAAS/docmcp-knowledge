@@ -12,7 +12,10 @@
       "source_verified": "2026-06-24",
       "scope": "Bioburden testing methods for medical devices.",
       "standard_type": "non_harmonised",
-      "applicable_gsprs": ["11", "11.3"],
+      "applicable_gsprs": [
+        "11",
+        "11.3"
+      ],
       "abstract": "Specifies requirements for determining the population of viable microorganisms on or in a medical device, component, raw material or package."
     },
     {
@@ -27,7 +30,12 @@
       "source_verified": "2026-06-24",
       "scope": "EO sterilization process development, validation and routine control.",
       "standard_type": "non_harmonised",
-      "applicable_gsprs": ["11", "11.1", "11.5", "11.6"],
+      "applicable_gsprs": [
+        "11",
+        "11.1",
+        "11.5",
+        "11.6"
+      ],
       "abstract": "Specifies requirements for the development, validation and routine control of an ethylene oxide sterilization process for medical devices.",
       "note": "ISO/FDIS 11135 (Ed.3) is at FDIS stage as of May 2026; current published edition remains 2014+Amd1:2018."
     },
@@ -39,11 +47,13 @@
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://www.iso.org/standard/66078.html",
+      "source_url": "https://www.iso.org/search.html?q=ISO+11138-1",
       "source_verified": "2026-06-24",
       "scope": "Biological indicators general requirements.",
       "standard_type": "non_harmonised",
-      "applicable_gsprs": ["11"],
+      "applicable_gsprs": [
+        "11"
+      ],
       "abstract": "Specifies general requirements and test methods for biological indicators used in sterilization validation."
     },
     {
@@ -54,11 +64,13 @@
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://www.iso.org/standard/66079.html",
+      "source_url": "https://www.iso.org/search.html?q=ISO+11138-2",
       "source_verified": "2026-06-24",
       "scope": "Biological indicators for EO sterilization processes.",
       "standard_type": "non_harmonised",
-      "applicable_gsprs": ["11"],
+      "applicable_gsprs": [
+        "11"
+      ],
       "abstract": "Specifies requirements for biological indicators intended to assess the performance of ethylene oxide sterilization processes."
     },
     {
@@ -73,7 +85,9 @@
       "source_verified": "2026-06-24",
       "scope": "Sterilization vocabulary and terminology.",
       "standard_type": "non_harmonised",
-      "applicable_gsprs": ["11"],
+      "applicable_gsprs": [
+        "11"
+      ],
       "abstract": "Defines vocabulary and terms used in sterilization and related procedures for healthcare products."
     },
     {
@@ -88,7 +102,10 @@
       "source_verified": "2026-06-24",
       "scope": "Radiation sterilization process requirements.",
       "standard_type": "non_harmonised",
-      "applicable_gsprs": ["11", "11.1"],
+      "applicable_gsprs": [
+        "11",
+        "11.1"
+      ],
       "abstract": "Requirements for radiation sterilization process development, validation and routine control."
     },
     {
@@ -103,7 +120,10 @@
       "source_verified": "2026-06-24",
       "scope": "Establishing radiation sterilization dose.",
       "standard_type": "non_harmonised",
-      "applicable_gsprs": ["11", "11.1"],
+      "applicable_gsprs": [
+        "11",
+        "11.1"
+      ],
       "abstract": "Methods for establishing the sterilization dose for radiation sterilization."
     },
     {
@@ -118,7 +138,10 @@
       "source_verified": "2026-06-24",
       "scope": "Moist heat (steam) sterilization process requirements.",
       "standard_type": "non_harmonised",
-      "applicable_gsprs": ["11", "11.1"],
+      "applicable_gsprs": [
+        "11",
+        "11.1"
+      ],
       "abstract": "Requirements for moist heat (steam) sterilization process development, validation and routine control.",
       "note": "Confirmed current in 2024 systematic review. Intended to be revised (ISO/AWI 17665-1 registered)."
     },
@@ -134,7 +157,10 @@
       "source_verified": "2026-06-24",
       "scope": "Sterility testing for sterilization process validation.",
       "standard_type": "non_harmonised",
-      "applicable_gsprs": ["11", "11.3"],
+      "applicable_gsprs": [
+        "11",
+        "11.3"
+      ],
       "abstract": "Specifies tests of sterility performed in the definition, validation and maintenance of a sterilization process."
     }
   ]

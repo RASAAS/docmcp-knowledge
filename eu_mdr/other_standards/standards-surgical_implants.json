@@ -31,7 +31,7 @@
         "14"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/standard/66629.html",
+      "source_url": "https://www.iso.org/search.html?q=ISO+5832-3",
       "abstract": "Specifies requirements for wrought titanium 6-aluminium 4-vanadium alloy used in the manufacture of surgical implants.",
       "scope": "Implants for surgery -- Metallic materials -- Wrought titanium 6-aluminium 4-vanadium alloy.",
       "source_verified": "2026-06-24"
@@ -88,7 +88,7 @@
         "14"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://store.astm.org/f2083-21.html",
+      "source_url": "https://www.astm.org/f2083-21.html",
       "note": "Withdrawn in 2023. No direct replacement designated by ASTM. For knee implant testing, refer to ISO 21536 (harmonised under EU MDR) and ASTM F3334.",
       "abstract": "Specifies requirements for materials, design, and performance of knee replacement prostheses.",
       "scope": "Standard specification for knee replacement prosthesis."
@@ -106,7 +106,7 @@
         "14"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://store.astm.org/f2033-25.html",
+      "source_url": "https://www.astm.org/f2033-25.html",
       "abstract": "Covers the design and dimensional requirements for metallic, ceramic, and polymeric mating bearing surfaces used in total hip joint prostheses and hip endoprostheses.",
       "scope": "Standard specification for hip joint replacement bearing surfaces made of metallic, ceramic, and polymeric materials."
     },
@@ -118,7 +118,7 @@
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-41",
+      "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-41",
       "source_verified": "",
       "category": "surgical_implants",
       "standard_type": "non_harmonised",
@@ -137,7 +137,7 @@
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-46",
+      "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-46",
       "source_verified": "",
       "category": "surgical_implants",
       "standard_type": "non_harmonised",
@@ -156,7 +156,7 @@
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-76",
+      "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-76",
       "source_verified": "",
       "category": "surgical_implants",
       "standard_type": "non_harmonised",

@@ -121,7 +121,7 @@
         "zh": "医疗器械生物学评价 - 第19部分：材料的物理化学、形态学和拓扑学表征"
       },
       "status": "active",
-      "source_url": "https://www.iso.org/standard/75367.html",
+      "source_url": "https://www.iso.org/standard/65069.html",
       "source_verified": "2026-06-24",
       "category": "biocompatibility",
       "standard_type": "non_harmonised",
@@ -241,7 +241,7 @@
         "11"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/standard/41943.html",
+      "source_url": "https://www.iso.org/standard/81595.html",
       "source_verified": "2026-06-24",
       "abstract": "Specifies allowable limits for residual ethylene oxide (EO) and ethylene chlorohydrin (ECH) in individual EO-sterilised medical devices.",
       "scope": {
@@ -344,7 +344,7 @@
         "13.2"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/standard/74282.html",
+      "source_url": "https://www.iso.org/search.html?q=ISO+22442-3",
       "source_verified": "2026-06-24",
       "abstract": "Specifies requirements for the validation of the elimination and/or inactivation of viruses and transmissible spongiform encephalopathy (TSE) agents during the manufacture of medical devices.",
       "scope": {

@@ -20,7 +20,7 @@
         "zh": ""
       },
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/search?q=IEC/TR%2062366-2",
+      "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=62366-2",
       "abstract": "Provides guidance on the application of usability engineering to medical devices, complementing IEC 62366-1."
     },
     {
@@ -99,7 +99,7 @@
         "22"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2062366-2",
+      "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+62366-2",
       "abstract": "Provides guidance on the application of usability engineering to medical devices.",
       "scope": "Medical devices -- Application of usability engineering to medical devices -- Guidance on the application of usability engineering to medical devices."
     },
@@ -116,7 +116,7 @@
         "22"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/search?q=IEC%20TR%2062366-3",
+      "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+TR+62366-3",
       "abstract": "Provides additional guidance and examples on the application of usability engineering to medical devices.",
       "scope": "Medical devices -- Application of usability engineering to medical devices -- Relationship of usability requirements in IEC 62366-1 to risk control."
     }

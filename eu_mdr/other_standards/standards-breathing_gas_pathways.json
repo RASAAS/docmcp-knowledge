@@ -50,7 +50,7 @@
         "18"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/standard/72440.html",
+      "source_url": "https://www.iso.org/search.html?q=ISO+80601-2-70",
       "abstract": "Specifies particular requirements for basic safety and essential performance of sleep apnoea breathing therapy equipment.",
       "scope": "Medical electrical equipment -- Particular requirements for the basic safety and essential performance of sleep apnoea breathing therapy equipment.",
       "source_verified": "2026-06-24"
@@ -63,7 +63,7 @@
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-12",
+      "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-12",
       "source_verified": "",
       "category": "breathing_gas_pathways",
       "standard_type": "non_harmonised",
@@ -82,7 +82,7 @@
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-84",
+      "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-84",
       "source_verified": "",
       "category": "breathing_gas_pathways",
       "standard_type": "non_harmonised",
@@ -101,7 +101,7 @@
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-87",
+      "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-87",
       "source_verified": "",
       "category": "breathing_gas_pathways",
       "standard_type": "non_harmonised",

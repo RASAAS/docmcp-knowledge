@@ -8,7 +8,15 @@
         "zh": "健康软件和健康IT系统的安全性、有效性和网络安全 - 第5-1部分：安全 - 产品生命周期中的活动"
       },
       "status": "active",
-      "applicable_gsprs": ["17", "17.1", "17.2", "17.3", "17.4", "18", "18.8"],
+      "applicable_gsprs": [
+        "17",
+        "17.1",
+        "17.2",
+        "17.3",
+        "17.4",
+        "18",
+        "18.8"
+      ],
       "standard_type": "non_harmonised",
       "source_url": "https://www.iso.org/standard/76097.html",
       "source_verified": "2026-06-24",
@@ -24,7 +32,13 @@
         "zh": "医用电气设备 - 第4-5部分：指南和解释 - 安全相关技术安全规范"
       },
       "status": "active",
-      "applicable_gsprs": ["17", "17.1", "17.2", "17.4", "18"],
+      "applicable_gsprs": [
+        "17",
+        "17.1",
+        "17.2",
+        "17.4",
+        "18"
+      ],
       "standard_type": "non_harmonised",
       "source_url": "https://webstore.iec.ch/en/publication/34263",
       "source_verified": "2026-06-24",
@@ -39,7 +53,12 @@
         "zh": "IT网络中纳入医疗器械的风险管理应用 - 第1部分：联网医疗器械或联网健康软件的实施和使用中的安全性、有效性和网络安全"
       },
       "status": "active",
-      "applicable_gsprs": ["17", "17.4", "18", "18.8"],
+      "applicable_gsprs": [
+        "17",
+        "17.4",
+        "18",
+        "18.8"
+      ],
       "standard_type": "non_harmonised",
       "source_url": "https://webstore.iec.ch/en/publication/34263",
       "source_verified": "2026-06-24",
@@ -54,7 +73,11 @@
         "zh": "工业自动化和控制系统安全 - 第4-1部分：安全产品开发生命周期要求"
       },
       "status": "active",
-      "applicable_gsprs": ["17", "17.2", "17.4"],
+      "applicable_gsprs": [
+        "17",
+        "17.2",
+        "17.4"
+      ],
       "standard_type": "non_harmonised",
       "source_url": "https://webstore.iec.ch/en/publication/33615",
       "source_verified": "2026-06-24",
@@ -69,9 +92,13 @@
         "zh": "医疗器械安全原则 - 风险管理"
       },
       "status": "active",
-      "applicable_gsprs": ["17", "17.4", "18"],
+      "applicable_gsprs": [
+        "17",
+        "17.4",
+        "18"
+      ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.aami.org/store/products/tir57-2016-r-2022",
+      "source_url": "https://www.aami.org/standards/aami-tir57",
       "source_verified": "2026-06-24",
       "abstract": "Provides guidance on applying ISO 14971 risk management process to cybersecurity threats for medical devices. FDA recognized consensus standard.",
       "scope": "Cybersecurity risk management principles for medical devices."
@@ -84,7 +111,10 @@
         "zh": "IT网络中纳入医疗器械的风险管理应用 - 第2-2部分：医疗器械安全需求、风险和控制的沟通指南"
       },
       "status": "active",
-      "applicable_gsprs": ["17", "17.4"],
+      "applicable_gsprs": [
+        "17",
+        "17.4"
+      ],
       "standard_type": "non_harmonised",
       "source_url": "https://webstore.iec.ch/en/publication/7532",
       "source_verified": "2026-06-24",

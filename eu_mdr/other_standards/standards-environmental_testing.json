@@ -12,7 +12,7 @@
         "14"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060068-2-1",
+      "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60068-2-1",
       "abstract": "Specifies a standard environmental test method (cold test) for determining the ability of components and equipment to withstand low temperatures.",
       "scope": "Environmental testing -- Tests -- Test A: Cold."
     },
@@ -28,7 +28,7 @@
         "14"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060068-2-2",
+      "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60068-2-2",
       "abstract": "Specifies a standard environmental test method (dry heat test) for determining the ability of components and equipment to withstand high temperatures.",
       "scope": "Environmental testing -- Tests -- Test B: Dry heat."
     },
@@ -44,7 +44,7 @@
         "14"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060068-2-30",
+      "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60068-2-30",
       "abstract": "Specifies a standard environmental test method for damp heat cyclic conditions.",
       "scope": "Environmental testing -- Tests -- Test Db: Damp heat, cyclic (12 h + 12 h cycle)."
     },
@@ -61,7 +61,7 @@
         "20"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060068-2-6",
+      "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60068-2-6",
       "abstract": "Specifies a standard environmental test method for sinusoidal vibration testing of components and equipment.",
       "scope": "Environmental testing -- Tests -- Test Fc: Vibration (sinusoidal)."
     },
@@ -73,7 +73,7 @@
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060068-2-30",
+      "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60068-2-30",
       "source_verified": "",
       "category": "environmental_testing",
       "standard_type": "non_harmonised",
@@ -92,7 +92,7 @@
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060068-2-78",
+      "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60068-2-78",
       "source_verified": "",
       "category": "environmental_testing",
       "standard_type": "non_harmonised",
@@ -111,7 +111,7 @@
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://store.astm.org/d4169-23e01.html",
+      "source_url": "https://www.astm.org/d4169-23e01.html",
       "source_verified": "2026-06-24",
       "category": "environmental_testing",
       "standard_type": "non_harmonised",
