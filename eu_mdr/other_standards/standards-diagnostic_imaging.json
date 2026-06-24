@@ -8,7 +8,7 @@
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/28614",
+      "source_url": "https://webstore.iec.ch/en/publication/32908",
       "source_verified": "2026-06-24",
       "category": "diagnostic_imaging",
       "standard_type": "non_harmonised",
@@ -27,7 +27,7 @@
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/62500",
+      "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-33",
       "source_verified": "2026-06-24",
       "category": "diagnostic_imaging",
       "standard_type": "non_harmonised",
@@ -46,7 +46,7 @@
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/66050",
+      "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-43",
       "source_verified": "2026-06-24",
       "category": "diagnostic_imaging",
       "standard_type": "non_harmonised",
@@ -65,7 +65,7 @@
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/24442",
+      "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-44",
       "source_verified": "2026-06-24",
       "category": "diagnostic_imaging",
       "standard_type": "non_harmonised",
@@ -103,7 +103,7 @@
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/66049",
+      "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-54",
       "source_verified": "2026-06-24",
       "category": "diagnostic_imaging",
       "standard_type": "non_harmonised",
@@ -115,14 +115,14 @@
       "abstract": "Particular requirements for X-ray equipment for radiography and radioscopy."
     },
     {
-      "id": "eu_mdr-os-iec-62563-1-2022",
-      "number": "IEC 62563-1:2022",
+      "id": "eu_mdr-os-iec-62563-1-2009-amd1-2016-amd2-2021",
+      "number": "IEC 62563-1:2009+AMD1:2016+AMD2:2021",
       "title": {
         "en": "Medical electrical equipment - Medical image display systems - Part 1: Evaluation methods",
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/62502",
+      "source_url": "https://webstore.iec.ch/en/publication/70108",
       "source_verified": "2026-06-24",
       "category": "diagnostic_imaging",
       "standard_type": "non_harmonised",
@@ -131,7 +131,7 @@
         "14",
         "14.1"
       ],
-      "abstract": "Evaluation methods for medical image display systems."
+      "abstract": "Evaluation methods for medical image display systems. Consolidated version includes AMD1:2016 and AMD2:2021."
     },
     {
       "id": "eu_mdr-os-iec-62220-1-1-2015",
@@ -160,7 +160,7 @@
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/6601",
+      "source_url": "https://webstore.iec.ch/en/publication/6598",
       "source_verified": "2026-06-24",
       "category": "diagnostic_imaging",
       "standard_type": "non_harmonised",
@@ -179,7 +179,7 @@
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/6602",
+      "source_url": "https://webstore.iec.ch/en/publication/6599",
       "source_verified": "2026-06-24",
       "category": "diagnostic_imaging",
       "standard_type": "non_harmonised",

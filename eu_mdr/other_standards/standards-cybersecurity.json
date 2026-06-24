@@ -40,7 +40,7 @@
         "18"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/publication/34263",
+      "source_url": "https://webstore.iec.ch/en/publication/64703",
       "source_verified": "2026-06-24",
       "abstract": "Defines Security Levels (SL 0-4) and Security Capabilities (SC) for medical devices with network connectivity. Complements IEC 81001-5-1 by specifying technical security requirements.",
       "scope": "Technical security requirements for network-connected medical electrical equipment."
@@ -110,16 +110,36 @@
         "en": "Application of risk management for IT-networks incorporating medical devices - Part 2-2: Guidance for the communication of medical device security needs, risks and controls",
         "zh": "IT网络中纳入医疗器械的风险管理应用 - 第2-2部分：医疗器械安全需求、风险和控制的沟通指南"
       },
-      "status": "active",
+      "status": "withdrawn",
       "applicable_gsprs": [
         "17",
         "17.4"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/publication/7532",
+      "source_url": "https://webstore.iec.ch/en/publication/7484",
       "source_verified": "2026-06-24",
-      "abstract": "Defines a framework for manufacturer disclosure of medical device security capabilities (MDS2 form).",
-      "scope": "Communication framework for medical device security properties and manufacturer disclosure statements."
+      "abstract": "Defines a framework for manufacturer disclosure of medical device security capabilities (MDS2 form). Withdrawn and replaced by IEC TS 81001-2-2:2025.",
+      "scope": "Communication framework for medical device security properties and manufacturer disclosure statements.",
+      "note": "WITHDRAWN 2025-10-01. Replaced by IEC TS 81001-2-2:2025 (https://webstore.iec.ch/en/publication/78673)."
+    },
+    {
+      "id": "iec-ts-81001-2-2-2025",
+      "number": "IEC TS 81001-2-2:2025",
+      "title": {
+        "en": "Health software and health IT systems safety, effectiveness and security - Part 2-2: Coordination - Guidance for the implementation, disclosure and communication of security needs, risks and controls",
+        "zh": "健康软件和健康IT系统的安全性、有效性和网络安全 - 第2-2部分：协调 - 安全需求、风险和控制的实施、披露和沟通指南"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "17",
+        "17.4",
+        "18"
+      ],
+      "standard_type": "non_harmonised",
+      "source_url": "https://webstore.iec.ch/en/publication/78673",
+      "source_verified": "2026-06-24",
+      "abstract": "Combines and updates IEC/TR 80001-2-2:2012 and IEC TR 80001-2-8:2016. Provides guidance on implementation, disclosure and communication of security needs, risks and controls for connected medical devices and health software.",
+      "scope": "Security coordination and disclosure framework for health software and IT systems incorporating medical devices."
     }
   ]
 }
