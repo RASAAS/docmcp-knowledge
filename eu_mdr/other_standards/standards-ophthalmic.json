@@ -2,9 +2,9 @@
   "standards": [
     {
       "id": "iso-11979-1-2018",
-      "number": "ISO 11979-1:2018",
+      "number": "ISO 11979-1:2026",
       "title": {
-        "en": "Ophthalmic implants - Intraocular lenses - Part 1: Vocabulary, and optical properties and test methods",
+        "en": "Ophthalmic implants - Intraocular lenses - Part 1: Vocabulary",
         "zh": ""
       },
       "status": "active",
@@ -14,10 +14,11 @@
         "15"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO+11979-1",
+      "source_url": "https://www.iso.org/standard/79921.html",
       "abstract": "Specifies vocabulary, optical properties and test methods for intraocular lenses.",
       "scope": "Ophthalmic implants -- Intraocular lenses -- Vocabulary and fundamental requirements.",
-      "source_verified": "2026-06-24"
+      "source_verified": "2026-06-24",
+      "note": "Edition 5 (2026) replaces 2018 version."
     },
     {
       "id": "eu_mdr-os-iec-80601-2-58-2014+amd1-2016",

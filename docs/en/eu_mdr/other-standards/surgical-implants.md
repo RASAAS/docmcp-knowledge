@@ -4,9 +4,9 @@ The following non-harmonised international standards are related to **Surgical I
 
 | Standard | Title | Status | GSPRs | Link |
 |----------|-------|--------|-------|------|
-| ISO 5832-1:2016 | Implants for surgery - Metallic materials - Part 1: Wrought ... | active | 10, 14 | [Link](https://www.iso.org/search.html?q=ISO+5832-1) |
-| ISO 5832-3:2016 | Implants for surgery - Metallic materials - Part 3: Wrought ... | active | 10, 14 | [Link](https://www.iso.org/search.html?q=ISO+5832-3) |
-| ISO 5840-1:2021 | Cardiovascular implants - Cardiac valve prostheses - Part 1:... | active | 10, 14, 19 | [Link](https://www.iso.org/search.html?q=ISO+5840-1) |
+| ISO 5832-1:2024 | Implants for surgery - Metallic materials - Part 1: Wrought ... | active | 10, 14 | [Link](https://www.iso.org/standard/83775.html) |
+| ISO 5832-3:2021 | Implants for surgery - Metallic materials - Part 3: Wrought ... | active | 10, 14 | [Link](https://www.iso.org/standard/79626.html) |
+| ISO 5840-1:2021 | Cardiovascular implants - Cardiac valve prostheses - Part 1:... | active | 10, 14, 19 | [Link](https://www.iso.org/standard/77033.html) |
 | ISO 14708-1:2014 | Implants for surgery - Active implantable medical devices - ... | active | 14, 18, 19, 23 | [Link](https://www.iso.org/standard/52804.html) |
 | ASTM F2083-21 | Standard Specification for Knee Replacement Prosthesis | withdrawn | 10, 14 | [Link](https://store.astm.org/f2083-21.html) |
 | ASTM F2033-25 | Standard Specification for Hip Joint Replacement Bearing Sur... | active | 10, 14 | [Link](https://store.astm.org/f2033-25.html) |

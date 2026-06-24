@@ -2,13 +2,13 @@
   "standards": [
     {
       "id": "eu_mdr-os-iso-5832-2-2018",
-      "number": "ISO 5832-2:2018",
+      "number": "ISO 5832-2:2025",
       "title": {
         "en": "Implants for surgery - Metallic materials - Part 2: Unalloyed titanium",
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://www.iso.org/search.html?q=ISO+5832-2",
+      "source_url": "https://www.iso.org/standard/88632.html",
       "source_verified": "2026-06-24",
       "category": "implant_materials",
       "standard_type": "non_harmonised",
@@ -17,17 +17,18 @@
         "10",
         "10.1"
       ],
-      "abstract": "Specifies requirements for unalloyed titanium for surgical implant applications."
+      "abstract": "Specifies requirements for unalloyed titanium for surgical implant applications.",
+      "note": "Edition 5 (2025) replaces 2018 version."
     },
     {
       "id": "eu_mdr-os-iso-5832-4-2014",
-      "number": "ISO 5832-4:2014",
+      "number": "ISO 5832-4:2024",
       "title": {
         "en": "Implants for surgery - Metallic materials - Part 4: Cobalt-chromium-molybdenum casting alloy",
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://www.iso.org/search.html?q=ISO+5832-4",
+      "source_url": "https://www.iso.org/standard/82121.html",
       "source_verified": "2026-06-24",
       "category": "implant_materials",
       "standard_type": "non_harmonised",
@@ -36,17 +37,18 @@
         "10",
         "10.1"
       ],
-      "abstract": "Requirements for cobalt-chromium-molybdenum casting alloy for surgical implants."
+      "abstract": "Requirements for cobalt-chromium-molybdenum casting alloy for surgical implants.",
+      "note": "Edition 4 (2024) replaces 2014 version."
     },
     {
       "id": "eu_mdr-os-iso-5832-5-2005",
-      "number": "ISO 5832-5:2005",
+      "number": "ISO 5832-5:2022",
       "title": {
         "en": "Implants for surgery - Metallic materials - Part 5: Wrought cobalt-chromium-tungsten-nickel alloy",
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://www.iso.org/search.html?q=ISO+5832-5",
+      "source_url": "https://www.iso.org/standard/79955.html",
       "source_verified": "",
       "category": "implant_materials",
       "standard_type": "non_harmonised",
@@ -55,17 +57,18 @@
         "10",
         "10.1"
       ],
-      "abstract": "Requirements for wrought cobalt-chromium-tungsten-nickel alloy."
+      "abstract": "Requirements for wrought cobalt-chromium-tungsten-nickel alloy.",
+      "note": "Edition 4 (2022) replaces 2005 version."
     },
     {
       "id": "eu_mdr-os-iso-5832-6-2018",
-      "number": "ISO 5832-6:2018",
+      "number": "ISO 5832-6:2022",
       "title": {
         "en": "Implants for surgery - Metallic materials - Part 6: Wrought cobalt-nickel-chromium-molybdenum alloy",
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://www.iso.org/search.html?q=ISO+5832-6",
+      "source_url": "https://www.iso.org/standard/79956.html",
       "source_verified": "2026-06-24",
       "category": "implant_materials",
       "standard_type": "non_harmonised",
@@ -74,17 +77,18 @@
         "10",
         "10.1"
       ],
-      "abstract": "Requirements for wrought cobalt-nickel-chromium-molybdenum alloy."
+      "abstract": "Requirements for wrought cobalt-nickel-chromium-molybdenum alloy.",
+      "note": "Edition 3 (2022) replaces 2018 version."
     },
     {
       "id": "eu_mdr-os-iso-5832-7-2016",
-      "number": "ISO 5832-7:2016",
+      "number": "ISO 5832-7:2024",
       "title": {
         "en": "Implants for surgery - Metallic materials - Part 7: Forgeable and cold-formed cobalt-chromium-nickel-molybdenum-iron alloy",
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://www.iso.org/search.html?q=ISO+5832-7",
+      "source_url": "https://www.iso.org/standard/83776.html",
       "source_verified": "2026-06-24",
       "category": "implant_materials",
       "standard_type": "non_harmonised",
@@ -93,7 +97,8 @@
         "10",
         "10.1"
       ],
-      "abstract": "Requirements for forgeable and cold-formed cobalt-chromium-nickel-molybdenum-iron alloy."
+      "abstract": "Requirements for forgeable and cold-formed cobalt-chromium-nickel-molybdenum-iron alloy.",
+      "note": "Edition 4 (2024) replaces 2016 version."
     },
     {
       "id": "eu_mdr-os-iso-5832-9-2019",
@@ -103,7 +108,7 @@
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://www.iso.org/search.html?q=ISO+5832-9",
+      "source_url": "https://www.iso.org/standard/72593.html",
       "source_verified": "",
       "category": "implant_materials",
       "standard_type": "non_harmonised",
@@ -116,13 +121,13 @@
     },
     {
       "id": "eu_mdr-os-iso-5832-11-2014",
-      "number": "ISO 5832-11:2014",
+      "number": "ISO 5832-11:2024",
       "title": {
         "en": "Implants for surgery - Metallic materials - Part 11: Wrought titanium 6-aluminium 7-niobium alloy",
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://www.iso.org/search.html?q=ISO+5832-11",
+      "source_url": "https://www.iso.org/standard/82122.html",
       "source_verified": "2026-06-24",
       "category": "implant_materials",
       "standard_type": "non_harmonised",
@@ -131,7 +136,8 @@
         "10",
         "10.1"
       ],
-      "abstract": "Requirements for wrought titanium 6-aluminium 7-niobium alloy."
+      "abstract": "Requirements for wrought titanium 6-aluminium 7-niobium alloy.",
+      "note": "Edition 3 (2024) replaces 2014 version."
     },
     {
       "id": "eu_mdr-os-iso-5832-12-2019",
@@ -141,7 +147,7 @@
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://www.iso.org/search.html?q=ISO+5832-12",
+      "source_url": "https://www.iso.org/standard/72594.html",
       "source_verified": "2026-06-24",
       "category": "implant_materials",
       "standard_type": "non_harmonised",
@@ -160,7 +166,7 @@
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://www.iso.org/search.html?q=ISO+5832-14",
+      "source_url": "https://www.iso.org/standard/72595.html",
       "source_verified": "2026-06-24",
       "category": "implant_materials",
       "standard_type": "non_harmonised",
@@ -179,7 +185,7 @@
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://www.iso.org/search.html?q=ISO+14602",
+      "source_url": "https://www.iso.org/standard/52671.html",
       "source_verified": "2026-06-24",
       "category": "implant_materials",
       "standard_type": "non_harmonised",
@@ -199,7 +205,7 @@
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://www.iso.org/search.html?q=ISO+21534",
+      "source_url": "https://www.iso.org/standard/39024.html",
       "source_verified": "2026-06-24",
       "category": "implant_materials",
       "standard_type": "non_harmonised",

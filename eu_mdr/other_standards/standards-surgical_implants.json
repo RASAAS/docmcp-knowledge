@@ -2,7 +2,7 @@
   "standards": [
     {
       "id": "iso-5832-1-2016",
-      "number": "ISO 5832-1:2016",
+      "number": "ISO 5832-1:2024",
       "title": {
         "en": "Implants for surgery - Metallic materials - Part 1: Wrought stainless steel",
         "zh": ""
@@ -13,14 +13,15 @@
         "14"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO+5832-1",
+      "source_url": "https://www.iso.org/standard/83775.html",
       "abstract": "Specifies requirements for wrought stainless steel used in the manufacture of surgical implants.",
       "scope": "Implants for surgery -- Metallic materials -- Wrought stainless steel.",
-      "source_verified": "2026-06-24"
+      "source_verified": "2026-06-24",
+      "note": "Edition 6 (2024) replaces 2016 version."
     },
     {
       "id": "iso-5832-3-2016",
-      "number": "ISO 5832-3:2016",
+      "number": "ISO 5832-3:2021",
       "title": {
         "en": "Implants for surgery - Metallic materials - Part 3: Wrought titanium 6-aluminium 4-vanadium alloy",
         "zh": ""
@@ -31,10 +32,11 @@
         "14"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO+5832-3",
+      "source_url": "https://www.iso.org/standard/79626.html",
       "abstract": "Specifies requirements for wrought titanium 6-aluminium 4-vanadium alloy used in the manufacture of surgical implants.",
       "scope": "Implants for surgery -- Metallic materials -- Wrought titanium 6-aluminium 4-vanadium alloy.",
-      "source_verified": "2026-06-24"
+      "source_verified": "2026-06-24",
+      "note": "Edition 5 (2021) replaces 2016 version."
     },
     {
       "id": "iso-5840-1-2021",
@@ -50,7 +52,7 @@
         "19"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO+5840-1",
+      "source_url": "https://www.iso.org/standard/77033.html",
       "abstract": "Specifies general requirements for cardiac valve prostheses and components for surgical and transcatheter implantation.",
       "scope": "Cardiovascular implants -- Cardiac valve prostheses -- General requirements.",
       "source_verified": "2026-06-24"

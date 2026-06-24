@@ -8,7 +8,7 @@
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://www.iec.ch/homepage",
+      "source_url": "https://webstore.iec.ch/en/publication/22794",
       "applicable_gsprs": [
         "14",
         "17",
@@ -24,7 +24,8 @@
         "zh": ""
       },
       "standard_type": "non_harmonised",
-      "abstract": "Defines the life cycle requirements for medical device software development, including requirements for configuration management and problem resolution."
+      "abstract": "Defines the life cycle requirements for medical device software development, including requirements for configuration management and problem resolution.",
+      "note": "Consolidated version (Edition 1.1). EN version harmonised under EU MDR."
     },
     {
       "id": "iec-62304-2015",
@@ -136,7 +137,7 @@
         "en": "Application of risk management for IT-networks incorporating medical devices - Part 2-2: Guidance for the communication of medical device security needs, risks and controls",
         "zh": ""
       },
-      "status": "active",
+      "status": "withdrawn",
       "applicable_gsprs": [
         "17",
         "17.4"
@@ -144,7 +145,8 @@
       "standard_type": "non_harmonised",
       "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=80001-2-2",
       "abstract": "Provides guidance on disclosure of security-related capabilities and risks of medical devices on IT-networks.",
-      "scope": "Application of risk management for IT-networks incorporating medical devices -- Guidance for the communication of medical device security needs, risks and controls."
+      "scope": "Application of risk management for IT-networks incorporating medical devices -- Guidance for the communication of medical device security needs, risks and controls.",
+      "note": "Withdrawn. Replaced by IEC TS 81001-2-2:2025."
     },
     {
       "id": "iec-62443-4-1-2018",
@@ -175,7 +177,7 @@
         "17"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO+11073-10101",
+      "source_url": "https://www.iso.org/standard/77338.html",
       "abstract": "Defines the nomenclature for health informatics device interoperability, providing codes for medical device data.",
       "scope": "Health informatics -- Device interoperability -- Point-of-care medical device communication -- Nomenclature.",
       "source_verified": "2026-06-24"
@@ -193,7 +195,7 @@
         "17"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/standard/72572.html",
+      "source_url": "https://www.iso.org/standard/76538.html",
       "abstract": "Specifies domain information and service models for health informatics device interoperability.",
       "scope": "Health informatics -- Personal health device communication -- Domain information model.",
       "source_verified": "2026-06-24"

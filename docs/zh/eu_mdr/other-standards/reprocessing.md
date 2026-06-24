@@ -4,5 +4,5 @@
 
 | 标准号 | 标题 | 状态 | 适用GSPRs | 官方链接 |
 |--------|------|------|-----------|----------|
-| ISO 17664-1:2021 | Processing of health care products - Information to be provi... | active | 11, 23 | [官方链接](https://www.iso.org/search.html?q=ISO+17664-1) |
-| ISO 17664-2:2021 | Processing of health care products - Information to be provi... | active | 11, 23 | [官方链接](https://www.iso.org/search.html?q=ISO+17664-2) |
+| ISO 17664-1:2021 | Processing of health care products - Information to be provi... | active | 11, 23 | [官方链接](https://www.iso.org/standard/81720.html) |
+| ISO 17664-2:2021 | Processing of health care products - Information to be provi... | active | 11, 23 | [官方链接](https://www.iso.org/standard/74152.html) |

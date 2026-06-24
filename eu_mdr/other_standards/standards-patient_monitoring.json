@@ -116,13 +116,13 @@
     },
     {
       "id": "eu_mdr-os-iso-80601-2-56-2017+amd1-2023",
-      "number": "ISO 80601-2-56:2017+AMD1:2023",
+      "number": "ISO 80601-2-56:2017",
       "title": {
         "en": "Medical electrical equipment - Part 2-56: Particular requirements for the basic safety and essential performance of clinical thermometers for body temperature measurement",
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://www.iso.org/search.html?q=ISO+80601-2-56",
+      "source_url": "https://www.iso.org/standard/67348.html",
       "source_verified": "2026-06-24",
       "category": "patient_monitoring",
       "standard_type": "non_harmonised",
@@ -131,7 +131,8 @@
         "14",
         "18"
       ],
-      "abstract": "Requirements for clinical thermometers."
+      "abstract": "Requirements for clinical thermometers.",
+      "note": "Current (2017) with Amd1:2018. Under revision (ISO/DIS 80601-2-56)."
     },
     {
       "id": "eu_mdr-os-iso-80601-2-61-2017+amd1-2023",

@@ -14,10 +14,11 @@
         "14"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO+7864",
+      "source_url": "https://www.iso.org/standard/60481.html",
       "abstract": "Specifies requirements and test methods for sterile, single-use hypodermic needles.",
       "scope": "Sterile hypodermic needles for single use -- Requirements and test methods.",
-      "source_verified": "2026-06-24"
+      "source_verified": "2026-06-24",
+      "note": "Current (2016), confirmed 2021. Under revision (ISO/DIS 7864)."
     },
     {
       "id": "iso-7886-1-2017",
@@ -34,10 +35,11 @@
         "21"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO+7886-1",
+      "source_url": "https://www.iso.org/standard/64790.html",
       "abstract": "Specifies requirements and test methods for sterile, single-use hypodermic syringes for manual use.",
       "scope": "Sterile hypodermic syringes for single use -- Requirements and test methods.",
-      "source_verified": "2026-06-24"
+      "source_verified": "2026-06-24",
+      "note": "Current (2017). Under revision (ISO/DIS 7886-1)."
     }
   ]
 }

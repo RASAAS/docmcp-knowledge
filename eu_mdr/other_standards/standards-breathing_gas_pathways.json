@@ -20,9 +20,9 @@
     },
     {
       "id": "iso-80601-2-12-2020",
-      "number": "ISO 80601-2-12:2020",
+      "number": "ISO 80601-2-12:2023",
       "title": {
-        "en": "Medical electrical equipment - Part 2-12: Particular requirements for the basic safety and essential performance of critical care ventilators",
+        "en": "Medical electrical equipment - Part 2-12: Particular requirements for basic safety and essential performance of critical care ventilators",
         "zh": ""
       },
       "status": "active",
@@ -32,16 +32,17 @@
         "21"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO+80601-2-12",
+      "source_url": "https://www.iso.org/standard/82707.html",
       "abstract": "Specifies particular requirements for basic safety and essential performance of critical care ventilators.",
       "scope": "Medical electrical equipment -- Particular requirements for the basic safety and essential performance of critical care ventilators.",
-      "source_verified": "2026-06-24"
+      "source_verified": "2026-06-24",
+      "note": "Edition 3 (2023) replaces 2020 version."
     },
     {
       "id": "iso-80601-2-70-2020",
-      "number": "ISO 80601-2-70:2020",
+      "number": "ISO 80601-2-70:2025",
       "title": {
-        "en": "Medical electrical equipment - Part 2-70: Particular requirements for the basic safety and essential performance of sleep apnoea breathing therapy equipment",
+        "en": "Medical electrical equipment - Part 2-70: Particular requirements for basic safety and essential performance of sleep apnoea breathing therapy equipment",
         "zh": ""
       },
       "status": "active",
@@ -50,10 +51,11 @@
         "18"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO+80601-2-70",
+      "source_url": "https://www.iso.org/standard/87160.html",
       "abstract": "Specifies particular requirements for basic safety and essential performance of sleep apnoea breathing therapy equipment.",
       "scope": "Medical electrical equipment -- Particular requirements for the basic safety and essential performance of sleep apnoea breathing therapy equipment.",
-      "source_verified": "2026-06-24"
+      "source_verified": "2026-06-24",
+      "note": "Edition 3 (2025) replaces 2020 version."
     },
     {
       "id": "eu_mdr-os-iec-60601-2-12-2023",
@@ -114,13 +116,13 @@
     },
     {
       "id": "eu_mdr-os-iso-80601-2-67-2020",
-      "number": "ISO 80601-2-67:2020",
+      "number": "ISO 80601-2-67:2026",
       "title": {
-        "en": "Medical electrical equipment - Part 2-67: Particular requirements for the basic safety and essential performance of oxygen-conserving equipment",
+        "en": "Medical electrical equipment - Part 2-67: Particular requirements for basic safety and essential performance of oxygen-conserving equipment",
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://www.iso.org/search.html?q=ISO+80601-2-67",
+      "source_url": "https://www.iso.org/standard/87163.html",
       "source_verified": "2026-06-24",
       "category": "breathing_gas_pathways",
       "standard_type": "non_harmonised",
@@ -129,17 +131,18 @@
         "14",
         "18"
       ],
-      "abstract": "Requirements for oxygen-conserving equipment."
+      "abstract": "Requirements for oxygen-conserving equipment.",
+      "note": "Edition 3 (2026) replaces 2020 version."
     },
     {
       "id": "eu_mdr-os-iso-80601-2-69-2020",
-      "number": "ISO 80601-2-69:2020",
+      "number": "ISO 80601-2-69:2026",
       "title": {
         "en": "Medical electrical equipment - Part 2-69: Particular requirements for the basic safety and essential performance of oxygen concentrator equipment",
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://www.iso.org/search.html?q=ISO+80601-2-69",
+      "source_url": "https://www.iso.org/standard/87164.html",
       "source_verified": "2026-06-24",
       "category": "breathing_gas_pathways",
       "standard_type": "non_harmonised",
@@ -148,17 +151,18 @@
         "14",
         "18"
       ],
-      "abstract": "Requirements for oxygen concentrator equipment."
+      "abstract": "Requirements for oxygen concentrator equipment.",
+      "note": "Edition 3 (2026) replaces 2020 version."
     },
     {
       "id": "eu_mdr-os-iso-80601-2-79-2018",
-      "number": "ISO 80601-2-79:2018",
+      "number": "ISO 80601-2-79:2024",
       "title": {
-        "en": "Medical electrical equipment - Part 2-79: Particular requirements for the basic safety and essential performance of ventilatory support equipment for ventilatory impairment",
+        "en": "Medical electrical equipment - Part 2-79: Particular requirements for basic safety and essential performance of ventilatory support equipment for ventilatory impairment",
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://www.iso.org/search.html?q=ISO+80601-2-79",
+      "source_url": "https://www.iso.org/standard/83465.html",
       "source_verified": "2026-06-24",
       "category": "breathing_gas_pathways",
       "standard_type": "non_harmonised",
@@ -167,17 +171,18 @@
         "14",
         "18"
       ],
-      "abstract": "Requirements for ventilatory support equipment."
+      "abstract": "Requirements for ventilatory support equipment.",
+      "note": "Edition 2 (2024) replaces 2018 version."
     },
     {
       "id": "eu_mdr-os-iso-80601-2-84-2020",
-      "number": "ISO 80601-2-84:2020",
+      "number": "ISO 80601-2-84:2023",
       "title": {
         "en": "Medical electrical equipment - Part 2-84: Particular requirements for the basic safety and essential performance of ventilators for the emergency medical services environment",
         "zh": ""
       },
       "status": "active",
-      "source_url": "https://www.iso.org/search.html?q=ISO+80601-2-84",
+      "source_url": "https://www.iso.org/standard/83438.html",
       "source_verified": "2026-06-24",
       "category": "breathing_gas_pathways",
       "standard_type": "non_harmonised",
@@ -186,7 +191,8 @@
         "14",
         "18"
       ],
-      "abstract": "Requirements for emergency medical services ventilators."
+      "abstract": "Requirements for emergency medical services ventilators.",
+      "note": "Edition 2 (2023) replaces 2020 version."
     }
   ]
 }

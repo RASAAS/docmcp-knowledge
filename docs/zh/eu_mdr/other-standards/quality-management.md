@@ -4,4 +4,4 @@
 
 | 标准号 | 标题 | 状态 | 适用GSPRs | 官方链接 |
 |--------|------|------|-----------|----------|
-| ISO 13485:2016 | Medical devices — Quality management systems — Requirements ... | active | 1, 2, 3, 4, 5, 6, 7, 8 | [官方链接](https://eur-lex.europa.eu/eli/dec_impl/2021/1182) |
+| ISO 13485:2016 | Medical devices — Quality management systems — Requirements ... | active | 1, 2, 3, 4, 5, 6, 7, 8 | [官方链接](https://www.iso.org/standard/59752.html) |

@@ -2,7 +2,7 @@
   "standards": [
     {
       "id": "iso-15197-2013-amd1-2024",
-      "number": "ISO 15197:2013+AMD1:2024",
+      "number": "ISO 15197:2013",
       "title": {
         "en": "In vitro diagnostic test systems - Requirements for blood-glucose monitoring systems for self-testing in managing diabetes mellitus",
         "zh": ""
@@ -15,10 +15,11 @@
         "22"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO+15197",
+      "source_url": "https://www.iso.org/standard/54976.html",
       "source_verified": "2026-06-24",
       "abstract": "Specifies requirements and test methods for blood-glucose monitoring systems for self-testing in managing diabetes mellitus.",
-      "scope": "In vitro diagnostic medical devices -- Requirements for blood-glucose monitoring systems for self-testing."
+      "scope": "In vitro diagnostic medical devices -- Requirements for blood-glucose monitoring systems for self-testing.",
+      "note": "Edition 2 (2013), confirmed 2018. Under revision (ISO/CD 15197). No published AMD1."
     },
     {
       "id": "iso-18113-1-2022",
@@ -33,7 +34,7 @@
         "23.1"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO+18113-1",
+      "source_url": "https://www.iso.org/standard/79866.html",
       "source_verified": "2026-06-24",
       "abstract": "Specifies requirements for information supplied by the manufacturer of in vitro diagnostic medical devices.",
       "scope": "IVD medical devices -- Information supplied by the manufacturer (labelling)."

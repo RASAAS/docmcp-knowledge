@@ -1,25 +1,6 @@
 {
   "standards": [
     {
-      "id": "iso-14155-2020",
-      "number": "ISO 14155:2020",
-      "title": {
-        "en": "Clinical investigation of medical devices for human subjects — Good clinical practice",
-        "zh": ""
-      },
-      "status": "active",
-      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182",
-      "scope": {
-        "en": "Clinical investigation requirements",
-        "zh": ""
-      },
-      "standard_type": "non_harmonised",
-      "applicable_gsprs": [
-        "7"
-      ],
-      "abstract": "Addresses good clinical practice for clinical investigations of medical devices in human subjects. Specifies general requirements for protecting the rights, safety and well-being of subjects."
-    },
-    {
       "id": "iso-14155-2020-amd1-2024",
       "number": "ISO 14155:2020+AMD1:2024",
       "title": {
@@ -33,7 +14,7 @@
         "8"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO+14155",
+      "source_url": "https://www.iso.org/standard/71690.html",
       "abstract": "Addresses good clinical practice for clinical investigations of medical devices in human subjects.",
       "scope": "Clinical investigation of medical devices for human subjects -- Good clinical practice.",
       "source_verified": "2026-06-24"

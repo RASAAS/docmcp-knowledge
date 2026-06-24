@@ -10,6 +10,6 @@
 | IEC 80601-2-61:2017+AMD1:2023 | Medical electrical equipment - Part 2-61: Particular require... | active | 14, 14.1 | [官方链接](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+80601-2-61) |
 | IEC 80601-2-56:2017+AMD1:2023 | Medical electrical equipment - Part 2-56: Particular require... | active | 14, 14.1 | [官方链接](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+80601-2-56) |
 | IEC 80601-2-59:2017+AMD1:2023 | Medical electrical equipment - Part 2-59: Particular require... | active | 14, 14.1 | [官方链接](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+80601-2-59) |
-| ISO 80601-2-56:2017+AMD1:2023 | Medical electrical equipment - Part 2-56: Particular require... | active | 14, 18 | [官方链接](https://www.iso.org/search.html?q=ISO+80601-2-56) |
+| ISO 80601-2-56:2017 | Medical electrical equipment - Part 2-56: Particular require... | active | 14, 18 | [官方链接](https://www.iso.org/standard/67348.html) |
 | ISO 80601-2-61:2017+AMD1:2023 | Medical electrical equipment - Part 2-61: Particular require... | active | 14, 18 | [官方链接](https://www.iso.org/standard/67963.html) |
 | IEC 60601-1-10:2007+AMD1:2013+AMD2:2020 | Medical electrical equipment - Part 1-10: General requiremen... | active | 14, 17, 22 | [官方链接](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-1-10) |

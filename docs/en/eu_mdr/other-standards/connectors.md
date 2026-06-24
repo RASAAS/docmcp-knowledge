@@ -4,5 +4,5 @@ The following non-harmonised international standards are related to **Connectors
 
 | Standard | Title | Status | GSPRs | Link |
 |----------|-------|--------|-------|------|
-| ISO 80369-1:2018+AMD1:2021 | Small-bore connectors for liquids and gases in healthcare ap... | active | 14, 21 | [Link](https://www.iso.org/search.html?q=ISO+80369-1) |
-| ISO 80369-7:2021 | Small-bore connectors for liquids and gases in healthcare ap... | active | 14, 21 | [Link](https://www.iso.org/search.html?q=ISO+80369-7) |
+| ISO 80369-1:2025 | Small-bore connectors for liquids and gases in healthcare ap... | active | 14, 21 | [Link](https://www.iso.org/standard/82071.html) |
+| ISO 80369-7:2021 | Small-bore connectors for liquids and gases in healthcare ap... | active | 14, 21 | [Link](https://www.iso.org/standard/79173.html) |

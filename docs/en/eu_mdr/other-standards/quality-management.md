@@ -4,4 +4,4 @@ The following non-harmonised international standards are related to **Quality Ma
 
 | Standard | Title | Status | GSPRs | Link |
 |----------|-------|--------|-------|------|
-| ISO 13485:2016 | Medical devices — Quality management systems — Requirements ... | active | 1, 2, 3, 4, 5, 6, 7, 8 | [Link](https://eur-lex.europa.eu/eli/dec_impl/2021/1182) |
+| ISO 13485:2016 | Medical devices — Quality management systems — Requirements ... | active | 1, 2, 3, 4, 5, 6, 7, 8 | [Link](https://www.iso.org/standard/59752.html) |

@@ -115,13 +115,13 @@
     },
     {
       "id": "eu_mdr-os-iso-10993-19-2020",
-      "number": "ISO 10993-19:2020",
+      "number": "ISO/TS 10993-19:2020",
       "title": {
         "en": "Biological evaluation of medical devices - Part 19: Physico-chemical, morphological and topographical characterization of materials",
         "zh": "医疗器械生物学评价 - 第19部分：材料的物理化学、形态学和拓扑学表征"
       },
       "status": "active",
-      "source_url": "https://www.iso.org/search.html?q=ISO+10993-19",
+      "source_url": "https://www.iso.org/standard/75138.html",
       "source_verified": "2026-06-24",
       "category": "biocompatibility",
       "standard_type": "non_harmonised",
@@ -227,10 +227,10 @@
     },
     {
       "id": "eu_mdr-os-iso-10993-7-2008",
-      "number": "ISO 10993-7:2008",
+      "number": "ISO 10993-7:2026",
       "title": {
-        "en": "Biological evaluation of medical devices - Part 7: Ethylene oxide sterilization residuals (ISO 10993-7:2008)",
-        "zh": "医疗器械生物学评价 - 第7部分：环氧乙烷灭菌残留物"
+        "en": "Biological evaluation of medical devices - Part 7: Ethylene oxide sterilization residuals",
+        "zh": ""
       },
       "status": "active",
       "applicable_gsprs": [
@@ -241,14 +241,14 @@
         "11"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO+10993-7",
+      "source_url": "https://www.iso.org/standard/84824.html",
       "source_verified": "2026-06-24",
       "abstract": "Specifies allowable limits for residual ethylene oxide (EO) and ethylene chlorohydrin (ECH) in individual EO-sterilised medical devices.",
       "scope": {
         "en": "Allowable limits for ethylene oxide sterilization residuals",
         "zh": ""
       },
-      "note": "Widely used in industry but NOT listed in EU Official Journal for MDR presumption of conformity. The EN adoption exists but has not been formally harmonised under MDR."
+      "note": "Edition 3 (2026) replaces ISO 10993-7:2008."
     },
     {
       "id": "eu_mdr-os-iso-10993-11-2018",
@@ -329,7 +329,7 @@
     },
     {
       "id": "eu_mdr-os-iso-22442-3-2020",
-      "number": "ISO 22442-3:2020",
+      "number": "ISO 22442-3:2007",
       "title": {
         "en": "Medical devices utilizing animal tissues and their derivatives - Part 3: Validation of the elimination and/or inactivation of viruses and TSE agents (ISO 22442-3:2007, Amd 1:2015)",
         "zh": "利用动物组织及其衍生物的医疗器械 - 第3部分：病毒和TSE因子灭活/消除验证"
@@ -344,14 +344,14 @@
         "13.2"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO+22442-3",
+      "source_url": "https://www.iso.org/standard/39351.html",
       "source_verified": "2026-06-24",
       "abstract": "Specifies requirements for the validation of the elimination and/or inactivation of viruses and transmissible spongiform encephalopathy (TSE) agents during the manufacture of medical devices.",
       "scope": {
         "en": "Validation of virus and TSE agent elimination/inactivation for animal tissue medical devices",
         "zh": ""
       },
-      "note": "Widely used in industry but NOT listed in EU Official Journal for MDR presumption of conformity. The EN adoption exists but has not been formally harmonised under MDR."
+      "note": "Edition 1 (2007), confirmed 2022. Revision in progress (ISO/AWI 22442-3)."
     }
   ]
 }

@@ -2,7 +2,7 @@
   "standards": [
     {
       "id": "eu_mdr-os-iso-20417-2021",
-      "number": "ISO 20417:2021",
+      "number": "ISO 20417:2026",
       "title": {
         "en": "Medical devices - Information to be supplied by the manufacturer",
         "zh": ""
@@ -16,11 +16,11 @@
         "23.4"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO+20417",
+      "source_url": "https://www.iso.org/standard/20417",
       "source_verified": "2026-06-24",
       "abstract": "Specifies requirements for information supplied by the manufacturer of medical devices, including labels, packaging markings, and instructions for use. Supersedes EN 1041:2008+A1:2013.",
       "scope": "Medical devices -- Information to be supplied by the manufacturer (labelling, instructions for use, packaging markings).",
-      "note": "Intended for harmonisation under EU MDR but not yet formally listed in the Official Journal. Widely used to demonstrate compliance with MDR Article 23 labelling requirements."
+      "note": "Edition 2 (2026) replaces 2021 version."
     }
   ]
 }
