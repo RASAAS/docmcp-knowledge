@@ -1,14 +1,14 @@
 ---
-title: "MRI 安全"
+title: "MRI安全"
 ---
 
-# MRI 安全
+# MRI安全
 
-本类别共 **4** 项标准。
+本类别共 **4** 条标准。
 
-| 标准编号 | 标题 | 范围 | GSPR |
-|----------|------|------|------|
-| [ASTM F2052-21](https://store.astm.org/f2052-21.html) | 医疗器械在磁共振环境中磁致位移力测量的标准测试方法 | 涵盖医疗器械在MR环境中磁致位移力的测量 | 14, 16 |
-| [ASTM F2213-25](https://store.astm.org/f2213-25.html) | 医疗器械在磁共振环境中磁致扭矩测量的标准测试方法 | 涵盖医疗器械在MR环境中磁致扭矩的测量 | 14, 16 |
-| [ASTM F2182-19e2](https://store.astm.org/f2182-19e2.html) | 磁共振成像过程中无源植入物上或附近射频感应加热测量的标准测试方法 | 涵盖MRI过程中无源植入物上或附近RF感应加热的测量 | 14, 16 |
-| [ASTM F2119-24](https://store.astm.org/f2119-24.html) | 无源植入物MR图像伪影评估的标准测试方法 | 表征无源植入物在MR图像中产生的畸变和信号丢失伪影 | 14, 16 |
+| 标准编号 | 标题 | 适用范围 | GSPR |
+|----------|------|----------|------|
+| [ASTM F2052-21](https://www.astm.org/f2052-21.html) | Standard Test Method for Measurement of Magnetically Induced Displacement Force on Medical Devices in the Magnetic Resonance Environment | Standard test method for measurement of magnetically induced displacement for... | 14, 16 |
+| [ASTM F2213-25](https://www.astm.org/f2213-25.html) | Standard Test Method for Measurement of Magnetically Induced Torque on Medical Devices in the Magnetic Resonance Environment | Standard test method for measurement of magnetically induced torque on medica... | 14, 16 |
+| [ASTM F2182-19e2](https://www.astm.org/f2182-19e2.html) | Standard Test Method for Measurement of Radio Frequency Induced Heating On or Near Passive Implants During Magnetic Resonance Imaging | Standard test method for measurement of radio frequency induced heating on or... | 14, 16 |
+| [ASTM F2119-24](https://www.astm.org/f2119-24.html) | Standard Test Method for Evaluation of MR Image Artifacts from Passive Implants | Standard test method for evaluation of MR image artifacts from passive implants. | 14, 16 |
