@@ -178,7 +178,6 @@ const zhSidebar = Object.assign(
     ],
     '/zh/shared/': [
       { text: '通用标准', link: '/zh/shared/standards' },
-      { text: 'ISO/IEC 国际标准', link: '/zh/shared/iso_iec' },
       {
         text: 'IMDRF 技术文件', link: '/zh/shared/imdrf',
         collapsed: true,
@@ -417,7 +416,6 @@ export default defineConfig({
             ],
             '/en/shared/': [
               { text: 'International Standards', link: '/en/shared/standards' },
-              { text: 'ISO/IEC Standards', link: '/en/shared/iso_iec' },
               {
                 text: 'IMDRF Technical Documents', link: '/en/shared/imdrf',
                 collapsed: true,

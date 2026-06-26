@@ -5,7 +5,7 @@
       "number": "IEC 60601-2-23:2011+AMD1:2019",
       "title": {
         "en": "Medical electrical equipment - Part 2-23: Particular requirements for the basic safety and essential performance of transcutaneous partial pressure monitoring equipment",
-        "zh": ""
+        "zh": "医用电气设备 - 第2-23部分：经皮分压监测设备的基本安全和基本性能专用要求"
       },
       "status": "active",
       "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-23",
@@ -24,7 +24,7 @@
       "number": "IEC 60601-2-85:2021",
       "title": {
         "en": "Medical electrical equipment - Part 2-85: Particular requirements for the basic safety and essential performance of cerebral tissue oximeters",
-        "zh": ""
+        "zh": "医用电气设备 - 第2-85部分：脉搏血氧仪设备的基本安全和基本性能专用要求"
       },
       "status": "active",
       "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-85",
@@ -43,7 +43,7 @@
       "number": "IEC 60601-2-30:2018",
       "title": {
         "en": "Medical electrical equipment - Part 2-30: Particular requirements for the basic safety and essential performance of automated non-invasive sphygmomanometers",
-        "zh": ""
+        "zh": "医用电气设备 - 第2-30部分：无创血压监测设备的基本安全和基本性能专用要求"
       },
       "status": "active",
       "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-30",
@@ -62,7 +62,7 @@
       "number": "IEC 80601-2-61:2017+AMD1:2023",
       "title": {
         "en": "Medical electrical equipment - Part 2-61: Particular requirements for the basic safety and essential performance of pulse oximeter equipment",
-        "zh": ""
+        "zh": "医用电气设备 - 第2-61部分：脉搏血氧仪设备的基本安全和基本性能专用要求"
       },
       "status": "active",
       "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+80601-2-61",
@@ -81,7 +81,7 @@
       "number": "IEC 80601-2-56:2017+AMD1:2023",
       "title": {
         "en": "Medical electrical equipment - Part 2-56: Particular requirements for the basic safety and essential performance of clinical thermometers for body temperature measurement",
-        "zh": ""
+        "zh": "医用电气设备 - 第2-56部分：临床体温计的基本安全和基本性能专用要求"
       },
       "status": "active",
       "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+80601-2-56",
@@ -100,7 +100,7 @@
       "number": "IEC 80601-2-59:2017+AMD1:2023",
       "title": {
         "en": "Medical electrical equipment - Part 2-59: Particular requirements for the basic safety and essential performance of screening thermographs for human febrile temperature screening",
-        "zh": ""
+        "zh": "医用电气设备 - 第2-59部分：通气障碍筛查热像仪设备的基本安全和基本性能专用要求"
       },
       "status": "active",
       "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+80601-2-59",
@@ -119,7 +119,7 @@
       "number": "ISO 80601-2-56:2017",
       "title": {
         "en": "Medical electrical equipment - Part 2-56: Particular requirements for the basic safety and essential performance of clinical thermometers for body temperature measurement",
-        "zh": ""
+        "zh": "医用电气设备 - 第2-56部分：临床体温计的基本安全和基本性能专用要求"
       },
       "status": "active",
       "source_url": "https://www.iso.org/standard/67348.html",
@@ -139,7 +139,7 @@
       "number": "ISO 80601-2-61:2017+AMD1:2023",
       "title": {
         "en": "Medical electrical equipment - Part 2-61: Particular requirements for the basic safety and essential performance of pulse oximeter equipment",
-        "zh": ""
+        "zh": "医用电气设备 - 第2-61部分：脉搏血氧仪设备的基本安全和基本性能专用要求"
       },
       "status": "active",
       "source_url": "https://www.iso.org/standard/67963.html",
@@ -158,7 +158,7 @@
       "number": "IEC 60601-1-10:2007+AMD1:2013+AMD2:2020",
       "title": {
         "en": "Medical electrical equipment - Part 1-10: General requirements for basic safety and essential performance - Collateral standard: Requirements for the development of physiologic closed-loop controllers",
-        "zh": ""
+        "zh": "医用电气设备 - 第1-10部分：基本安全和基本性能的通用要求 - 并列标准：生理闭环控制器的开发要求"
       },
       "status": "active",
       "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-1-10",

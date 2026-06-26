@@ -4,4 +4,4 @@
 
 | 标准号 | 标题 | 状态 | 适用GSPRs | 官方链接 |
 |--------|------|------|-----------|----------|
-| IEC 60601-2-35:2020 | Medical electrical equipment - Part 2-35: Particular require... | active | 14, 14.6 | [官方链接](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-35) |
+| IEC 60601-2-35:2020 | 医用电气设备 - 第2-35部分：使用毯子、垫子或褥子的加热设备的基本安全和基本性能专用要求 | active | 14, 14.6 | [官方链接](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-35) |

@@ -4,7 +4,7 @@ The following non-harmonised international standards are related to **Neurology*
 
 | Standard | Title | Status | GSPRs | Link |
 |----------|-------|--------|-------|------|
-| IEC 60601-2-26:2019 | Medical electrical equipment - Part 2-26: Particular require... | active | 14, 14.1 | [Link](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-26) |
-| IEC 60601-2-40:2016 | Medical electrical equipment - Part 2-40: Particular require... | active | 14, 14.1 | [Link](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-40) |
-| IEC 60601-2-14:2024 | Medical electrical equipment - Part 2-14: Particular require... | active | 14, 14.1 | [Link](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-14) |
-| IEC 80601-2-71:2015 | Medical electrical equipment - Part 2-71: Particular require... | active | 14, 14.1 | [Link](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+80601-2-71) |
+| IEC 60601-2-26:2019 | Medical electrical equipment - Part 2-26: Particular requirements for the basic safety and essential performance of elec... | active | 14, 14.1 | [Link](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-26) |
+| IEC 60601-2-40:2016 | Medical electrical equipment - Part 2-40: Particular requirements for the basic safety and essential performance of elec... | active | 14, 14.1 | [Link](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-40) |
+| IEC 60601-2-14:2024 | Medical electrical equipment - Part 2-14: Particular requirements for the basic safety and essential performance of elec... | active | 14, 14.1 | [Link](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-14) |
+| IEC 80601-2-71:2015 | Medical electrical equipment - Part 2-71: Particular requirements for the basic safety and essential performance of func... | active | 14, 14.1 | [Link](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+80601-2-71) |

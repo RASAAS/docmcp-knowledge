@@ -14,7 +14,7 @@
 | ISO/TS 10993-21:2022 | 医疗器械生物学评价 - 第21部分：皮肤致敏试验中刺激潜能的实验评估 | active | 10, 10.4 | [官方链接](https://www.iso.org/standard/81549.html) |
 | ISO 10993-22:2017 | 医疗器械生物学评价 - 第22部分：纳米材料指南 | active | 10, 10.4 | [官方链接](https://www.iso.org/standard/65918.html) |
 | ISO 10993-3:2014 | 医疗器械生物学评价 - 第3部分：遗传毒性、致癌性和生殖毒性试验 | active | 10, 10.1, 10.4, 10.4.1 | [官方链接](https://www.iso.org/standard/55614.html) |
-| ISO 10993-7:2026 | Biological evaluation of medical devices - Part 7: Ethylene ... | active | 10, 10.1, 10.4, 10.4.2, 11 | [官方链接](https://www.iso.org/standard/84824.html) |
+| ISO 10993-7:2026 | 医疗器械生物学评价 - 第7部分：环氧乙烷灭菌残留量 | active | 10, 10.1, 10.4, 10.4.2, 11 | [官方链接](https://www.iso.org/standard/84824.html) |
 | ISO 10993-11:2018 | 医疗器械生物学评价 - 第11部分：全身毒性试验 | active | 10, 10.1, 10.4, 10.4.1, 10.6 | [官方链接](https://www.iso.org/standard/68426.html) |
 | ISO 22442-1:2020 | 利用动物组织及其衍生物的医疗器械 - 第1部分：风险管理的应用 | active | 10, 10.4, 12, 13, 13.1, 13.2 | [官方链接](https://www.iso.org/standard/74280.html) |
 | ISO 22442-2:2020 | 利用动物组织及其衍生物的医疗器械 - 第2部分：来源、采集和处理的控制 | active | 10, 10.4, 12, 13, 13.1, 13.2 | [官方链接](https://www.iso.org/standard/74281.html) |

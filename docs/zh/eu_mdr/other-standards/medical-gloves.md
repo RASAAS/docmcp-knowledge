@@ -4,5 +4,5 @@
 
 | 标准号 | 标题 | 状态 | 适用GSPRs | 官方链接 |
 |--------|------|------|-----------|----------|
-| EN 455-1:2020 | Medical gloves for single use - Part 1: Requirements and tes... | active | 10, 11 | [官方链接](https://standards.iteh.ai/catalog/standards/cen/e0c14925-0b83-4e48-880e-4a4e49cdc403/en-455-1-2020) |
-| EN 455-3:2023 | Medical gloves for single use - Part 3: Requirements and tes... | active | 10, 11 | [官方链接](https://standards.iteh.ai/catalog/standards/cen/bbecf90c-21e8-4606-95c9-feb2299854a3/en-455-3-2023) |
+| EN 455-1:2020 | 一次性使用医用手套 - 第1部分：针孔检测要求和试验 | active | 10, 11 | [官方链接](https://standards.iteh.ai/catalog/standards/cen/e0c14925-0b83-4e48-880e-4a4e49cdc403/en-455-1-2020) |
+| EN 455-3:2023 | 一次性使用医用手套 - 第3部分：生物学评价要求和试验 | active | 10, 11 | [官方链接](https://standards.iteh.ai/catalog/standards/cen/bbecf90c-21e8-4606-95c9-feb2299854a3/en-455-3-2023) |

@@ -4,4 +4,4 @@
 
 | 标准号 | 标题 | 状态 | 适用GSPRs | 官方链接 |
 |--------|------|------|-----------|----------|
-| IEC 60601-2-18:2009+AMD1:2016 | Medical electrical equipment - Part 2-18: Particular require... | active | 14, 14.1 | [官方链接](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-18) |
+| IEC 60601-2-18:2009+AMD1:2016 | 医用电气设备 - 第2-18部分：内窥镜设备的基本安全和基本性能专用要求 | active | 14, 14.1 | [官方链接](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-18) |

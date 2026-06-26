@@ -4,4 +4,4 @@
 
 | 标准号 | 标题 | 状态 | 适用GSPRs | 官方链接 |
 |--------|------|------|-----------|----------|
-| ISO/TR 20416:2020 | Medical devices - Post-market surveillance for manufacturers | active | 3 | [官方链接](https://www.iso.org/standard/67942.html) |
+| ISO/TR 20416:2020 | 医疗器械 - 制造商上市后监督 | active | 3 | [官方链接](https://www.iso.org/standard/67942.html) |

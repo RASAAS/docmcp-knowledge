@@ -4,4 +4,4 @@
 
 | 标准号 | 标题 | 状态 | 适用GSPRs | 官方链接 |
 |--------|------|------|-----------|----------|
-| IEC 60601-2-13:2022 | Medical electrical equipment - Part 2-13: Particular require... | active | 14, 14.2 | [官方链接](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-13) |
+| IEC 60601-2-13:2022 | 医用电气设备 - 第2-13部分：麻醉工作站的基本安全和基本性能专用要求 | active | 14, 14.2 | [官方链接](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-13) |

@@ -5,7 +5,7 @@
       "number": "ASTM F1980-21",
       "title": {
         "en": "Standard Guide for Accelerated Aging of Sterile Barrier Systems and Medical Devices",
-        "zh": ""
+        "zh": "标准指南 - 无菌屏障系统包装的加速老化"
       },
       "status": "active",
       "applicable_gsprs": [
@@ -22,7 +22,7 @@
       "number": "ASTM D4169-23e1",
       "title": {
         "en": "Standard Practice for Performance Testing of Shipping Containers and Systems",
-        "zh": ""
+        "zh": "标准实施规程 - 运输集装箱和系统的性能试验"
       },
       "status": "active",
       "applicable_gsprs": [
@@ -40,7 +40,7 @@
       "number": "ASTM F2825-18(2026)",
       "title": {
         "en": "Standard Practice for Climatic Stressing of Packaging Systems for Single Parcel Delivery",
-        "zh": ""
+        "zh": "标准实施规程 - 包装系统的气候应力"
       },
       "status": "active",
       "applicable_gsprs": [
@@ -57,7 +57,7 @@
       "number": "ASTM D4332-22",
       "title": {
         "en": "Standard Practice for Conditioning Containers, Packages, or Packaging Components for Testing",
-        "zh": ""
+        "zh": "标准实施规程 - 容器、包装或包装组件的调节"
       },
       "status": "active",
       "applicable_gsprs": [
@@ -74,7 +74,7 @@
       "number": "ASTM F2095-07(2021)",
       "title": {
         "en": "Standard Test Methods for Pressure Decay Leak Test for Flexible Packages With and Without Restraining Plates",
-        "zh": ""
+        "zh": "标准试验方法 - 柔性屏障密封包装的无限制自由落体测试"
       },
       "status": "active",
       "applicable_gsprs": [
@@ -91,7 +91,7 @@
       "number": "ISO 11607-1:2019",
       "title": {
         "en": "Packaging for terminally sterilized medical devices - Part 1: Requirements for materials, sterile barrier systems and packaging systems",
-        "zh": ""
+        "zh": "最终灭菌医疗器械的包装 - 第1部分：材料、无菌屏障系统和包装系统的要求"
       },
       "status": "active",
       "applicable_gsprs": [
@@ -108,7 +108,7 @@
       "number": "ISO 11607-2:2019",
       "title": {
         "en": "Packaging for terminally sterilized medical devices - Part 2: Validation requirements for forming, sealing and assembly processes",
-        "zh": ""
+        "zh": "最终灭菌医疗器械的包装 - 第2部分：成形、密封和组装过程的确认要求"
       },
       "status": "active",
       "applicable_gsprs": [

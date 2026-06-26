@@ -5,7 +5,7 @@
       "number": "ISO 14155:2020+AMD1:2024",
       "title": {
         "en": "Clinical investigation of medical devices for human subjects - Good clinical practice",
-        "zh": ""
+        "zh": "医疗器械临床调查 - 良好临床实践"
       },
       "status": "active",
       "applicable_gsprs": [
@@ -24,7 +24,7 @@
       "number": "ISO 20916:2019",
       "title": {
         "en": "In vitro diagnostic medical devices - Clinical performance studies using specimens from human subjects - Good study practice",
-        "zh": ""
+        "zh": "体外诊断医疗器械 - 用于近患者检测（POCT）的临床性能研究"
       },
       "status": "active",
       "applicable_gsprs": [

@@ -4,5 +4,5 @@
 
 | 标准号 | 标题 | 状态 | 适用GSPRs | 官方链接 |
 |--------|------|------|-----------|----------|
-| ISO 11608-1:2022 | Needle-based injection systems for medical use - Requirement... | active | 10, 14, 14.7 | [官方链接](https://www.iso.org/standard/70733.html) |
-| ISO 11608-2:2022 | Needle-based injection systems for medical use - Requirement... | active | 10, 14 | [官方链接](https://www.iso.org/standard/70734.html) |
+| ISO 11608-1:2022 | 笔式注射器系统 - 第1部分：笔式注射器 - 要求和试验方法 | active | 10, 14, 14.7 | [官方链接](https://www.iso.org/standard/70733.html) |
+| ISO 11608-2:2022 | 笔式注射器系统 - 第2部分：针头 - 要求和试验方法 | active | 10, 14 | [官方链接](https://www.iso.org/standard/70734.html) |

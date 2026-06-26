@@ -4,6 +4,6 @@
 
 | 标准号 | 标题 | 状态 | 适用GSPRs | 官方链接 |
 |--------|------|------|-----------|----------|
-| ISO 22442-1:2020 | Medical devices utilizing animal tissues and their derivativ... | active | 10, 10.4, 12 | [官方链接](https://www.iso.org/standard/74280.html) |
-| ISO 22442-2:2020 | Medical devices utilizing animal tissues and their derivativ... | active | 10, 10.4, 12 | [官方链接](https://www.iso.org/standard/74281.html) |
-| ISO 22442-3:2007+AMD1:2015 | Medical devices utilizing animal tissues and their derivativ... | active | 10, 10.4, 12 | [官方链接](https://www.iso.org/standard/39351.html) |
+| ISO 22442-1:2020 | 动物组织及其衍生物制造的医疗器械 - 第1部分：风险管理的应用 | active | 10, 10.4, 12 | [官方链接](https://www.iso.org/standard/74280.html) |
+| ISO 22442-2:2020 | 动物组织及其衍生物制造的医疗器械 - 第2部分：来源、采集和处理的控制 | active | 10, 10.4, 12 | [官方链接](https://www.iso.org/standard/74281.html) |
+| ISO 22442-3:2007+AMD1:2015 | 动物组织及其衍生物制造的医疗器械 - 第3部分：病毒和传播性海绵状脑病(TSE)因子的消除和/或灭活的确认 | active | 10, 10.4, 12 | [官方链接](https://www.iso.org/standard/39351.html) |

@@ -4,7 +4,7 @@ Ensures URLs in display layer match the corrected data layer.
 """
 import json, glob, os, re
 
-def truncate(s, maxlen=80):
+def truncate(s, maxlen=120):
     if not s:
         return ''
     s = s.replace('|', ' ').replace('\n', ' ').strip()
@@ -27,7 +27,7 @@ def generate_md_table(standards, lang='en'):
             title = title_obj.get(lang, '') or title_obj.get('en', '')
         else:
             title = str(title_obj)
-        title = truncate(title, 60)
+        title = truncate(title, 120)
         
         status = std.get('status', 'active')
         gsprs = ', '.join(std.get('applicable_gsprs', []))

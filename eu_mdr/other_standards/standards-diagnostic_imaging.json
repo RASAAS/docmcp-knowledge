@@ -5,7 +5,7 @@
       "number": "IEC 60601-2-28:2017",
       "title": {
         "en": "Medical electrical equipment - Part 2-28: Particular requirements for the basic safety and essential performance of X-ray tube assemblies for medical diagnosis",
-        "zh": ""
+        "zh": "医用电气设备 - 第2-28部分：X射线管组件的基本安全和基本性能专用要求"
       },
       "status": "active",
       "source_url": "https://webstore.iec.ch/en/publication/32908",
@@ -24,7 +24,7 @@
       "number": "IEC 60601-2-33:2022",
       "title": {
         "en": "Medical electrical equipment - Part 2-33: Particular requirements for the basic safety and essential performance of magnetic resonance equipment for medical diagnosis",
-        "zh": ""
+        "zh": "医用电气设备 - 第2-33部分：医用磁共振设备的基本安全和基本性能专用要求"
       },
       "status": "active",
       "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-33",
@@ -43,7 +43,7 @@
       "number": "IEC 60601-2-43:2022",
       "title": {
         "en": "Medical electrical equipment - Part 2-43: Particular requirements for the basic safety and essential performance of X-ray equipment for interventional procedures",
-        "zh": ""
+        "zh": "医用电气设备 - 第2-43部分：介入操作用X射线设备的基本安全和基本性能专用要求"
       },
       "status": "active",
       "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-43",
@@ -62,7 +62,7 @@
       "number": "IEC 60601-2-44:2009+AMD1:2012+AMD2:2016",
       "title": {
         "en": "Medical electrical equipment - Part 2-44: Particular requirements for the basic safety and essential performance of X-ray equipment for computed tomography",
-        "zh": ""
+        "zh": "医用电气设备 - 第2-44部分：X射线计算机体层摄影设备的基本安全和基本性能专用要求"
       },
       "status": "active",
       "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-44",
@@ -81,7 +81,7 @@
       "number": "IEC 60601-2-45:2023",
       "title": {
         "en": "Medical electrical equipment - Part 2-45: Particular requirements for the basic safety and essential performance of mammographic X-ray equipment and mammographic stereotactic devices",
-        "zh": ""
+        "zh": "医用电气设备 - 第2-45部分：乳房X射线摄影设备和乳房立体定位设备的基本安全和基本性能专用要求"
       },
       "status": "active",
       "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-45",
@@ -100,7 +100,7 @@
       "number": "IEC 60601-2-54:2022",
       "title": {
         "en": "Medical electrical equipment - Part 2-54: Particular requirements for the basic safety and essential performance of X-ray equipment for radiography and radioscopy",
-        "zh": ""
+        "zh": "医用电气设备 - 第2-54部分：用于透视和摄影的X射线设备的基本安全和基本性能专用要求"
       },
       "status": "active",
       "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-54",
@@ -119,7 +119,7 @@
       "number": "IEC 62563-1:2009+AMD1:2016+AMD2:2021",
       "title": {
         "en": "Medical electrical equipment - Medical image display systems - Part 1: Evaluation methods",
-        "zh": ""
+        "zh": "医用电气设备 - 医学图像显示系统 - 第1部分：评价方法"
       },
       "status": "active",
       "source_url": "https://webstore.iec.ch/en/publication/70108",
@@ -138,7 +138,7 @@
       "number": "IEC 62220-1-1:2015",
       "title": {
         "en": "Medical electrical equipment - Characteristics of digital X-ray imaging devices - Part 1-1: Determination of the detective quantum efficiency - Detectors used in radiographic imaging",
-        "zh": ""
+        "zh": "医用电气设备 - 数字X射线成像设备特性 - 第1-1部分：量子检测效率的测定"
       },
       "status": "active",
       "source_url": "https://webstore.iec.ch/en/publication/21937",
@@ -157,7 +157,7 @@
       "number": "IEC 62220-1-2:2007",
       "title": {
         "en": "Medical electrical equipment - Characteristics of digital X-ray imaging devices - Part 1-2: Determination of the detective quantum efficiency - Detectors used in mammography",
-        "zh": ""
+        "zh": "医用电气设备 - 数字X射线成像设备特性 - 第1-2部分：乳腺摄影用探测器"
       },
       "status": "active",
       "source_url": "https://webstore.iec.ch/en/publication/6598",
@@ -176,7 +176,7 @@
       "number": "IEC 62220-1-3:2008",
       "title": {
         "en": "Medical electrical equipment - Characteristics of digital X-ray imaging devices - Part 1-3: Determination of the detective quantum efficiency - Detectors used in dynamic imaging",
-        "zh": ""
+        "zh": "医用电气设备 - 数字X射线成像设备特性 - 第1-3部分：动态成像用探测器"
       },
       "status": "active",
       "source_url": "https://webstore.iec.ch/en/publication/6599",
@@ -195,7 +195,7 @@
       "number": "IEC 61223-3-5:2019",
       "title": {
         "en": "Evaluation and routine testing in medical imaging departments - Part 3-5: Acceptance and constancy tests - Imaging performance of computed tomography X-ray equipment",
-        "zh": ""
+        "zh": "医用成像设备质量评价和常规检测 - 第3-5部分：乳腺X射线摄影系统验收和稳定性检测"
       },
       "status": "active",
       "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+61223-3-5",
@@ -214,7 +214,7 @@
       "number": "IEC 62464-1:2018",
       "title": {
         "en": "Magnetic resonance equipment for medical imaging - Part 1: Determination of essential image quality parameters",
-        "zh": ""
+        "zh": "磁共振成像设备 - 第1部分：影像质量评估的测定"
       },
       "status": "active",
       "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+62464-1",

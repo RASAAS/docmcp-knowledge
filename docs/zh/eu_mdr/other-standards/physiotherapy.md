@@ -4,5 +4,5 @@
 
 | 标准号 | 标题 | 状态 | 适用GSPRs | 官方链接 |
 |--------|------|------|-----------|----------|
-| IEC 60601-2-3:2012+AMD1:2016 | Medical electrical equipment - Part 2-3: Particular requirem... | active | 14, 18 | [官方链接](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-3) |
-| IEC 60601-2-5:2009+AMD1:2015 | Medical electrical equipment - Part 2-5: Particular requirem... | active | 14, 18 | [官方链接](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-5) |
+| IEC 60601-2-3:2012+AMD1:2016 | 医用电气设备 - 第2-3部分：短波治疗设备的基本安全和基本性能专用要求 | active | 14, 18 | [官方链接](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-3) |
+| IEC 60601-2-5:2009+AMD1:2015 | 医用电气设备 - 第2-5部分：超声物理治疗设备的基本安全和基本性能专用要求 | active | 14, 18 | [官方链接](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-5) |

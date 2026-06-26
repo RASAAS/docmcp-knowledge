@@ -4,5 +4,5 @@
 
 | 标准号 | 标题 | 状态 | 适用GSPRs | 官方链接 |
 |--------|------|------|-----------|----------|
-| ASTM F2477-24 | Standard Test Methods for In Vitro Pulsatile Durability Test... | active | 10, 14, 20 | [官方链接](https://store.astm.org/f2477-24.html) |
-| ASTM F2346-18(2026) | Standard Test Methods for Static and Dynamic Characterizatio... | active | 10, 14, 20 | [官方链接](https://store.astm.org/f2346-18r26.html) |
+| ASTM F2477-24 | 标准试验方法 - 体外脉动耐久性测试（心血管器械） | active | 10, 14, 20 | [官方链接](https://store.astm.org/f2477-24.html) |
+| ASTM F2346-18(2026) | 标准试验方法 - 心包组织的静态和动态表征 | active | 10, 14, 20 | [官方链接](https://store.astm.org/f2346-18r26.html) |

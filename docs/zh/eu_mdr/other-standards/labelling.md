@@ -4,4 +4,4 @@
 
 | 标准号 | 标题 | 状态 | 适用GSPRs | 官方链接 |
 |--------|------|------|-----------|----------|
-| ISO 20417:2026 | Medical devices - Information to be supplied by the manufact... | active | 23, 23.1, 23.2, 23.3, 23.4 | [官方链接](https://www.iso.org/standard/20417) |
+| ISO 20417:2026 | 医疗器械 - 制造商提供的信息 | active | 23, 23.1, 23.2, 23.3, 23.4 | [官方链接](https://www.iso.org/standard/20417) |

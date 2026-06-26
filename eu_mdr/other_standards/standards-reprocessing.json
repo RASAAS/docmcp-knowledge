@@ -5,7 +5,7 @@
       "number": "ISO 17664-1:2021",
       "title": {
         "en": "Processing of health care products - Information to be provided by the medical device manufacturer for the processing of medical devices - Part 1: Critical and semi-critical medical devices",
-        "zh": ""
+        "zh": "医疗器械的处理 - 由医疗器械制造商提供的可再处理医疗器械的处理信息 - 第1部分：关键和半关键医疗器械"
       },
       "status": "active",
       "applicable_gsprs": [
@@ -23,7 +23,7 @@
       "number": "ISO 17664-2:2021",
       "title": {
         "en": "Processing of health care products - Information to be provided by the medical device manufacturer for the processing of medical devices - Part 2: Non-critical medical devices",
-        "zh": ""
+        "zh": "医疗器械的处理 - 由医疗器械制造商提供的可再处理医疗器械的处理信息 - 第2部分：非关键医疗器械"
       },
       "status": "active",
       "applicable_gsprs": [

@@ -5,7 +5,7 @@
       "number": "ISO 14971:2019",
       "title": {
         "en": "Medical devices — Application of risk management to medical devices",
-        "zh": ""
+        "zh": "医疗器械 - 风险管理在医疗器械中的应用"
       },
       "status": "active",
       "source_url": "https://www.iso.org/standard/72704.html",
@@ -32,7 +32,7 @@
       "number": "ISO/TR 24971:2020",
       "title": {
         "en": "Medical devices - Guidance on the application of ISO 14971",
-        "zh": ""
+        "zh": "医疗器械 - ISO 14971应用指南"
       },
       "status": "active",
       "applicable_gsprs": [

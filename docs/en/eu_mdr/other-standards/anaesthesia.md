@@ -4,4 +4,4 @@ The following non-harmonised international standards are related to **Anaesthesi
 
 | Standard | Title | Status | GSPRs | Link |
 |----------|-------|--------|-------|------|
-| IEC 60601-2-13:2022 | Medical electrical equipment - Part 2-13: Particular require... | active | 14, 14.2 | [Link](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-13) |
+| IEC 60601-2-13:2022 | Medical electrical equipment - Part 2-13: Particular requirements for the basic safety and essential performance of an a... | active | 14, 14.2 | [Link](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-13) |

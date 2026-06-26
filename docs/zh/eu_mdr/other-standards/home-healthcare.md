@@ -4,4 +4,4 @@
 
 | 标准号 | 标题 | 状态 | 适用GSPRs | 官方链接 |
 |--------|------|------|-----------|----------|
-| IEC 60601-1-11:2015+AMD1:2020 | Medical electrical equipment - Part 1-11: General requiremen... | active | 14, 18, 22 | [官方链接](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-1-11) |
+| IEC 60601-1-11:2015+AMD1:2020 | 医用电气设备 - 第1-11部分：基本安全和基本性能的通用要求 - 并列标准：家用医疗设备和家用医疗系统的要求 | active | 14, 18, 22 | [官方链接](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-1-11) |

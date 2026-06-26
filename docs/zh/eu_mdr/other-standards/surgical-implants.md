@@ -4,12 +4,12 @@
 
 | 标准号 | 标题 | 状态 | 适用GSPRs | 官方链接 |
 |--------|------|------|-----------|----------|
-| ISO 5832-1:2024 | Implants for surgery - Metallic materials - Part 1: Wrought ... | active | 10, 14 | [官方链接](https://www.iso.org/standard/83775.html) |
-| ISO 5832-3:2021 | Implants for surgery - Metallic materials - Part 3: Wrought ... | active | 10, 14 | [官方链接](https://www.iso.org/standard/79626.html) |
-| ISO 5840-1:2021 | Cardiovascular implants - Cardiac valve prostheses - Part 1:... | active | 10, 14, 19 | [官方链接](https://www.iso.org/standard/77033.html) |
-| ISO 14708-1:2014 | Implants for surgery - Active implantable medical devices - ... | active | 14, 18, 19, 23 | [官方链接](https://www.iso.org/standard/52804.html) |
-| ASTM F2083-21 | Standard Specification for Knee Replacement Prosthesis | withdrawn | 10, 14 | [官方链接](https://store.astm.org/f2083-21.html) |
-| ASTM F2033-25 | Standard Specification for Hip Joint Replacement Bearing Sur... | active | 10, 14 | [官方链接](https://store.astm.org/f2033-25.html) |
-| IEC 60601-2-41:2021 | Medical electrical equipment - Part 2-41: Particular require... | active | 14, 14.1 | [官方链接](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-41) |
-| IEC 60601-2-46:2016 | Medical electrical equipment - Part 2-46: Particular require... | active | 14, 14.1 | [官方链接](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-46) |
-| IEC 60601-2-76:2018 | Medical electrical equipment - Part 2-76: Particular require... | active | 14, 14.1 | [官方链接](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-76) |
+| ISO 5832-1:2024 | 外科植入物 - 金属材料 - 第1部分：锻造不锈钢 | active | 10, 14 | [官方链接](https://www.iso.org/standard/83775.html) |
+| ISO 5832-3:2021 | 外科植入物 - 金属材料 - 第3部分：锻造钛-6铝-4钒合金 | active | 10, 14 | [官方链接](https://www.iso.org/standard/79626.html) |
+| ISO 5840-1:2021 | 心血管植入物 - 心脏瓣膜假体 - 第1部分：通用要求 | active | 10, 14, 19 | [官方链接](https://www.iso.org/standard/77033.html) |
+| ISO 14708-1:2014 | 外科植入物 - 有源植入式医疗器械 - 第1部分：通用要求 | active | 14, 18, 19, 23 | [官方链接](https://www.iso.org/standard/52804.html) |
+| ASTM F2083-21 | 标准规范 - 膝关节置换假体 | withdrawn | 10, 14 | [官方链接](https://store.astm.org/f2083-21.html) |
+| ASTM F2033-25 | 标准规范 - 髋关节置换假体承载表面 | active | 10, 14 | [官方链接](https://store.astm.org/f2033-25.html) |
+| IEC 60601-2-41:2021 | 医用电气设备 - 第2-41部分：外科照明设备和诊断照明设备的基本安全和基本性能专用要求 | active | 14, 14.1 | [官方链接](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-41) |
+| IEC 60601-2-46:2016 | 医用电气设备 - 第2-46部分：手术台的基本安全和基本性能专用要求 | active | 14, 14.1 | [官方链接](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-46) |
+| IEC 60601-2-76:2018 | 医用电气设备 - 第2-76部分：低能X射线照相成像设备的基本安全和基本性能专用要求 | active | 14, 14.1 | [官方链接](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-76) |

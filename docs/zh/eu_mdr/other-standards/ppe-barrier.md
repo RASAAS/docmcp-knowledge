@@ -4,4 +4,4 @@
 
 | 标准号 | 标题 | 状态 | 适用GSPRs | 官方链接 |
 |--------|------|------|-----------|----------|
-| EN 14683:2025 | Medical face masks - Requirements and test methods | active | 11, 14 | [官方链接](https://standards.iteh.ai/catalog/standards/cen/a6af61a7-49b8-4db9-aab9-5cae296b5bbf/en-14683-2025) |
+| EN 14683:2025 | 医用口罩 - 要求和试验方法 | active | 11, 14 | [官方链接](https://standards.iteh.ai/catalog/standards/cen/a6af61a7-49b8-4db9-aab9-5cae296b5bbf/en-14683-2025) |

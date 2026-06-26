@@ -4,5 +4,5 @@ The following non-harmonised international standards are related to **Needles Sy
 
 | Standard | Title | Status | GSPRs | Link |
 |----------|-------|--------|-------|------|
-| ISO 7864:2016 | Sterile hypodermic needles for single use - Requirements and... | active | 10, 11, 14 | [Link](https://www.iso.org/standard/60481.html) |
-| ISO 7886-1:2017 | Sterile hypodermic syringes for single use - Part 1: Syringe... | active | 10, 11, 14, 21 | [Link](https://www.iso.org/standard/64790.html) |
+| ISO 7864:2016 | Sterile hypodermic needles for single use - Requirements and test methods | active | 10, 11, 14 | [Link](https://www.iso.org/standard/60481.html) |
+| ISO 7886-1:2017 | Sterile hypodermic syringes for single use - Part 1: Syringes for manual use | active | 10, 11, 14, 21 | [Link](https://www.iso.org/standard/64790.html) |

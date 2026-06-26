@@ -5,7 +5,7 @@
       "number": "ISO 7405:2018",
       "title": {
         "en": "Dentistry - Evaluation of biocompatibility of medical devices used in dentistry",
-        "zh": ""
+        "zh": "牙科 - 用于牙科的医疗器械生物相容性评价"
       },
       "status": "active",
       "applicable_gsprs": [
@@ -22,7 +22,7 @@
       "number": "IEC 60601-2-63:2023",
       "title": {
         "en": "Medical electrical equipment - Part 2-63: Particular requirements for the basic safety and essential performance of dental extra-oral X-ray equipment",
-        "zh": ""
+        "zh": "医用电气设备 - 第2-63部分：口腔外科和口腔内科设备的基本安全和基本性能专用要求"
       },
       "status": "active",
       "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-63",
@@ -41,7 +41,7 @@
       "number": "IEC 60601-2-65:2012+AMD1:2016",
       "title": {
         "en": "Medical electrical equipment - Part 2-65: Particular requirements for the basic safety and essential performance of dental intra-oral X-ray equipment",
-        "zh": ""
+        "zh": "医用电气设备 - 第2-65部分：口腔内X射线设备的基本安全和基本性能专用要求"
       },
       "status": "active",
       "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-65",
@@ -60,7 +60,7 @@
       "number": "ISO 1942:2020",
       "title": {
         "en": "Dentistry - Vocabulary",
-        "zh": ""
+        "zh": "牙科 - 词汇"
       },
       "status": "active",
       "source_url": "https://www.iso.org/standard/72249.html",

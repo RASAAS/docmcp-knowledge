@@ -4,4 +4,4 @@
 
 | 标准号 | 标题 | 状态 | 适用GSPRs | 官方链接 |
 |--------|------|------|-----------|----------|
-| EN 13795-1:2025 | Surgical clothing and drapes - Requirements and test methods... | active | 11, 14 | [官方链接](https://standards.iteh.ai/catalog/standards/cen/2b1bed76-5f10-4f35-858e-a07f8af30a9f/en-13795-1-2019) |
+| EN 13795-1:2025 | 手术衣物和手术铺单 - 要求和试验方法 - 第1部分：手术铺单和手术衣 | active | 11, 14 | [官方链接](https://standards.iteh.ai/catalog/standards/cen/2b1bed76-5f10-4f35-858e-a07f8af30a9f/en-13795-1-2019) |

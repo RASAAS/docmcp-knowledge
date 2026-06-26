@@ -5,7 +5,7 @@
       "number": "ISO 15197:2013",
       "title": {
         "en": "In vitro diagnostic test systems - Requirements for blood-glucose monitoring systems for self-testing in managing diabetes mellitus",
-        "zh": ""
+        "zh": "体外诊断试验系统 - 血糖监测系统要求"
       },
       "status": "active",
       "applicable_gsprs": [
@@ -26,7 +26,7 @@
       "number": "ISO 18113-1:2022",
       "title": {
         "en": "In vitro diagnostic medical devices - Information supplied by the manufacturer (labelling) - Part 1: Terms, definitions and general requirements",
-        "zh": ""
+        "zh": "体外诊断医疗器械 - 制造商提供的信息（标签） - 第1部分：体外诊断试剂的术语、定义和通用要求"
       },
       "status": "active",
       "applicable_gsprs": [
@@ -44,7 +44,7 @@
       "number": "ISO 15189:2022",
       "title": {
         "en": "Medical laboratories - Requirements for quality and competence",
-        "zh": ""
+        "zh": "医学实验室 - 质量和能力要求"
       },
       "status": "active",
       "applicable_gsprs": [

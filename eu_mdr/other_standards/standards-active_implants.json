@@ -5,7 +5,7 @@
       "number": "EN 45502-2-1:2003",
       "title": {
         "en": "Active implantable medical devices - Part 2-1: Particular requirements for active implantable medical devices intended to treat bradyarrhythmia (cardiac pacemakers)",
-        "zh": ""
+        "zh": "有源植入式医疗器械 - 第2-1部分：治疗心动过缓的有源植入式医疗器械的特殊要求（心脏起搏器）"
       },
       "status": "active",
       "applicable_gsprs": [
@@ -14,7 +14,7 @@
         "19"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=EN+45502-2-1",
+      "source_url": "https://standards.iteh.ai/catalog/standards/clc/90a5e267-c5cc-4b3b-a501-048f006b192b/en-45502-2-1-2003",
       "abstract": "Specifies particular requirements for active implantable medical devices intended to treat bradyarrhythmia (cardiac pacemakers). Developed under AIMDD 90/385/EEC, remains state-of-the-art reference for EU MDR.",
       "scope": "Active implantable medical devices -- Particular requirements for active implantable medical devices intended to treat bradyarrhythmia (cardiac pacemakers).",
       "source_verified": "2026-06-24",
@@ -25,7 +25,7 @@
       "number": "EN 45502-2-2:2008",
       "title": {
         "en": "Active implantable medical devices - Part 2-2: Particular requirements for active implantable medical devices intended to treat tachyarrhythmia (includes implantable defibrillators)",
-        "zh": ""
+        "zh": "有源植入式医疗器械 - 第2-2部分：治疗快速性心律失常的有源植入式医疗器械的特殊要求（包括植入式除颤器）"
       },
       "status": "active",
       "applicable_gsprs": [
@@ -34,7 +34,7 @@
         "19"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=EN+45502-2-2",
+      "source_url": "https://standards.iteh.ai/catalog/standards/clc/cf5b36cb-2301-44b5-ba79-91473d400b10/en-45502-2-2-2008",
       "abstract": "Specifies particular requirements for active implantable medical devices intended to treat tachyarrhythmia (implantable cardioverter defibrillators). Developed under AIMDD 90/385/EEC, remains state-of-the-art reference for EU MDR.",
       "scope": "Active implantable medical devices -- Particular requirements for active implantable medical devices intended to treat tachyarrhythmia (includes implantable defibrillators).",
       "source_verified": "2026-06-24",
@@ -45,7 +45,7 @@
       "number": "ISO 14708-2:2019",
       "title": {
         "en": "Implants for surgery - Active implantable medical devices - Part 2: Cardiac pacemakers",
-        "zh": ""
+        "zh": "外科植入物 - 有源植入式医疗器械 - 第2部分：心脏起搏器"
       },
       "status": "active",
       "source_url": "https://www.iso.org/standard/67699.html",
@@ -65,7 +65,7 @@
       "number": "ISO 14708-3:2017",
       "title": {
         "en": "Implants for surgery - Active implantable medical devices - Part 3: Implantable neurostimulators",
-        "zh": ""
+        "zh": "外科植入物 - 有源植入式医疗器械 - 第3部分：植入式神经刺激器"
       },
       "status": "active",
       "source_url": "https://www.iso.org/standard/60539.html",
@@ -85,7 +85,7 @@
       "number": "ISO 14708-7:2019",
       "title": {
         "en": "Implants for surgery - Active implantable medical devices - Part 7: Cochlear implant systems",
-        "zh": ""
+        "zh": "外科植入物 - 有源植入式医疗器械 - 第7部分：人工耳蜗系统"
       },
       "status": "active",
       "source_url": "https://www.iso.org/standard/67701.html",

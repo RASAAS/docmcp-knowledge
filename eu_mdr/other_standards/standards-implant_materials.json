@@ -5,7 +5,7 @@
       "number": "ISO 5832-2:2025",
       "title": {
         "en": "Implants for surgery - Metallic materials - Part 2: Unalloyed titanium",
-        "zh": ""
+        "zh": "外科植入物 - 金属材料 - 第2部分：非合金钛"
       },
       "status": "active",
       "source_url": "https://www.iso.org/standard/88632.html",
@@ -25,7 +25,7 @@
       "number": "ISO 5832-4:2024",
       "title": {
         "en": "Implants for surgery - Metallic materials - Part 4: Cobalt-chromium-molybdenum casting alloy",
-        "zh": ""
+        "zh": "外科植入物 - 金属材料 - 第4部分：铸造钴-铬-钼合金"
       },
       "status": "active",
       "source_url": "https://www.iso.org/standard/82121.html",
@@ -45,7 +45,7 @@
       "number": "ISO 5832-5:2022",
       "title": {
         "en": "Implants for surgery - Metallic materials - Part 5: Wrought cobalt-chromium-tungsten-nickel alloy",
-        "zh": ""
+        "zh": "外科植入物 - 金属材料 - 第5部分：锻造钴-铬-钨-镍合金"
       },
       "status": "active",
       "source_url": "https://www.iso.org/standard/79955.html",
@@ -65,7 +65,7 @@
       "number": "ISO 5832-6:2022",
       "title": {
         "en": "Implants for surgery - Metallic materials - Part 6: Wrought cobalt-nickel-chromium-molybdenum alloy",
-        "zh": ""
+        "zh": "外科植入物 - 金属材料 - 第6部分：锻造钴-镍-铬-钼合金"
       },
       "status": "active",
       "source_url": "https://www.iso.org/standard/79956.html",
@@ -85,7 +85,7 @@
       "number": "ISO 5832-7:2024",
       "title": {
         "en": "Implants for surgery - Metallic materials - Part 7: Forgeable and cold-formed cobalt-chromium-nickel-molybdenum-iron alloy",
-        "zh": ""
+        "zh": "外科植入物 - 金属材料 - 第7部分：可锻造和冷加工钴-铬-镍-钼-铁合金"
       },
       "status": "active",
       "source_url": "https://www.iso.org/standard/83776.html",
@@ -105,7 +105,7 @@
       "number": "ISO 5832-9:2019",
       "title": {
         "en": "Implants for surgery - Metallic materials - Part 9: Wrought high nitrogen stainless steel",
-        "zh": ""
+        "zh": "外科植入物 - 金属材料 - 第9部分：锻造高氮不锈钢"
       },
       "status": "active",
       "source_url": "https://www.iso.org/standard/72593.html",
@@ -124,7 +124,7 @@
       "number": "ISO 5832-11:2024",
       "title": {
         "en": "Implants for surgery - Metallic materials - Part 11: Wrought titanium 6-aluminium 7-niobium alloy",
-        "zh": ""
+        "zh": "外科植入物 - 金属材料 - 第11部分：锻造钛-6铝-7铌合金"
       },
       "status": "active",
       "source_url": "https://www.iso.org/standard/82122.html",
@@ -144,7 +144,7 @@
       "number": "ISO 5832-12:2019",
       "title": {
         "en": "Implants for surgery - Metallic materials - Part 12: Wrought cobalt-chromium-molybdenum alloy",
-        "zh": ""
+        "zh": "外科植入物 - 金属材料 - 第12部分：锻造钴-铬-钼合金"
       },
       "status": "active",
       "source_url": "https://www.iso.org/standard/72594.html",
@@ -163,7 +163,7 @@
       "number": "ISO 5832-14:2019",
       "title": {
         "en": "Implants for surgery - Metallic materials - Part 14: Wrought titanium 15-molybdenum 5-zirconium 3-aluminium alloy",
-        "zh": ""
+        "zh": "外科植入物 - 金属材料 - 第14部分：锻造钛-15钼-5锆-3铝合金"
       },
       "status": "active",
       "source_url": "https://www.iso.org/standard/72595.html",
@@ -182,7 +182,7 @@
       "number": "ISO 14602:2010",
       "title": {
         "en": "Non-active surgical implants - Implants for osteosynthesis - Particular requirements",
-        "zh": ""
+        "zh": "非有源外科植入物 - 骨接合植入物 - 特殊要求"
       },
       "status": "active",
       "source_url": "https://www.iso.org/standard/52671.html",
@@ -202,7 +202,7 @@
       "number": "ISO 21534:2007",
       "title": {
         "en": "Non-active surgical implants - Joint replacement implants - Particular requirements",
-        "zh": ""
+        "zh": "非有源外科植入物 - 关节置换植入物 - 膝关节植入物的特殊要求"
       },
       "status": "active",
       "source_url": "https://www.iso.org/standard/39024.html",
@@ -222,7 +222,7 @@
       "number": "ASTM F136-26",
       "title": {
         "en": "Standard Specification for Wrought Titanium-6Aluminum-4Vanadium ELI (Extra Low Interstitial) Alloy for Surgical Implant Applications",
-        "zh": ""
+        "zh": "标准规范 - 外科植入用锻造钛-6铝-4钒ELI合金"
       },
       "status": "active",
       "source_url": "https://store.astm.org/f0136-26.html",
@@ -241,7 +241,7 @@
       "number": "ASTM F75-23",
       "title": {
         "en": "Standard Specification for Cobalt-28 Chromium-6 Molybdenum Alloy Castings and Casting Alloy for Surgical Implants",
-        "zh": ""
+        "zh": "标准规范 - 外科植入物用铸造钴-28铬-6钼合金"
       },
       "status": "active",
       "source_url": "https://store.astm.org/f0075-23.html",
@@ -260,7 +260,7 @@
       "number": "ASTM F138-19",
       "title": {
         "en": "Standard Specification for Wrought 18Chromium-14Nickel-2.5Molybdenum Stainless Steel Bar and Wire for Surgical Implants",
-        "zh": ""
+        "zh": "标准规范 - 外科植入物用锻造18铬-14镍-2.5钼不锈钢棒材和丝材"
       },
       "status": "active",
       "source_url": "https://store.astm.org/f0138-19.html",
