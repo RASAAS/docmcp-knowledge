@@ -4,4 +4,4 @@ The following non-harmonised international standards are related to **Lithotrips
 
 | Standard | Title | Status | GSPRs | Link |
 |----------|-------|--------|-------|------|
-| IEC 60601-2-36:2023 | Medical electrical equipment - Part 2-36: Particular requirements for the basic safety and essential performance of equi... | active | 14, 14.1 | [Link](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-36) |
+| IEC 60601-2-36:2023 | Medical electrical equipment - Part 2-36: Particular requirements for the basic safety and essential performance of equipment for extracorporeally induced lithotripsy | active | 14, 14.1 | [Link](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-36) |

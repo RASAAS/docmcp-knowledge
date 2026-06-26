@@ -4,4 +4,4 @@ The following non-harmonised international standards are related to **Audiology*
 
 | Standard | Title | Status | GSPRs | Link |
 |----------|-------|--------|-------|------|
-| IEC 60601-2-66:2019 | Medical electrical equipment - Part 2-66: Particular requirements for the basic safety and essential performance of hear... | active | 14, 14.1 | [Link](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-66) |
+| IEC 60601-2-66:2019 | Medical electrical equipment - Part 2-66: Particular requirements for the basic safety and essential performance of hearing instruments and hearing instrument systems | active | 14, 14.1 | [Link](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-66) |

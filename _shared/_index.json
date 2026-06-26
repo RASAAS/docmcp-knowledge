@@ -1,82 +1,8 @@
 {
   "category": "_shared",
-  "description": "Cross-framework international standards (ISO, IEC) applicable to multiple regulatory jurisdictions",
-  "last_updated": "2026-04-09",
-  "count": 6,
-  "entries": [
-    {
-      "id": "shared-iso-13485-2016",
-      "title": {
-        "en": "ISO 13485:2016 - Medical devices - Quality management systems - Requirements for regulatory purposes",
-        "zh": "ISO 13485:2016 - 医疗器械 - 质量管理体系 - 用于法规的要求"
-      },
-      "status": "active",
-      "source_url": "https://www.iso.org/standard/59752.html",
-      "source_url_verified": "2026-04-09",
-      "effective_date": "2016-03-01",
-      "standard_number": "ISO 13485:2016"
-    },
-    {
-      "id": "shared-iso-14971-2019",
-      "title": {
-        "en": "ISO 14971:2019 - Medical devices - Application of risk management to medical devices",
-        "zh": "ISO 14971:2019 - 医疗器械 - 医疗器械风险管理的应用"
-      },
-      "status": "active",
-      "source_url": "https://www.iso.org/standard/72704.html",
-      "source_url_verified": "2026-04-09",
-      "effective_date": "2019-12-01",
-      "standard_number": "ISO 14971:2019"
-    },
-    {
-      "id": "shared-iec-62304-2006-amd1-2015",
-      "title": {
-        "en": "IEC 62304:2006+AMD1:2015 - Medical device software - Software life cycle processes",
-        "zh": "IEC 62304:2006+AMD1:2015 - 医疗器械软件 - 软件生命周期过程"
-      },
-      "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/22794",
-      "source_url_verified": "2026-04-09",
-      "effective_date": "2015-06-01",
-      "standard_number": "IEC 62304:2006+AMD1:2015"
-    },
-    {
-      "id": "shared-iec-62366-1-2015-amd1-2020",
-      "title": {
-        "en": "IEC 62366-1:2015+AMD1:2020 - Medical devices - Application of usability engineering to medical devices",
-        "zh": "IEC 62366-1:2015+AMD1:2020 - 医疗器械 - 可用性工程在医疗器械中的应用"
-      },
-      "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/67220",
-      "source_url_verified": "2026-04-09",
-      "effective_date": "2020-06-01",
-      "standard_number": "IEC 62366-1:2015+AMD1:2020"
-    },
-    {
-      "id": "shared-iso-20417-2026",
-      "title": {
-        "en": "ISO 20417:2026 - Medical devices - Information to be supplied by the manufacturer (2nd edition)",
-        "zh": "ISO 20417:2026 - 医疗器械 - 制造商应提供的信息（第2版）"
-      },
-      "status": "active",
-      "source_url": "https://www.iso.org/standard/20417.html",
-      "source_url_verified": "2026-04-09",
-      "effective_date": "2026-03-01",
-      "standard_number": "ISO 20417:2026",
-      "replaces": "ISO 20417:2021"
-    },
-    {
-      "id": "shared-iec-60601-1-2005-amd2-2020",
-      "title": {
-        "en": "IEC 60601-1:2005+AMD1:2012+AMD2:2020 - Medical electrical equipment - General requirements for basic safety and essential performance",
-        "zh": "IEC 60601-1:2005+AMD1:2012+AMD2:2020 - 医用电气设备 - 基本安全和基本性能的通用要求"
-      },
-      "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/67497",
-      "source_url_verified": "2026-04-09",
-      "effective_date": "2020-12-01",
-      "standard_number": "IEC 60601-1:2005+AMD1:2012+AMD2:2020"
-    }
-  ],
+  "description": "Cross-framework international organizations and regulatory frameworks",
+  "last_updated": "2026-06-26",
+  "count": 0,
+  "entries": [],
   "legacy_reguverse_entries_archived": "Moved to insights/. Original 19 reguverse.com documentation articles (QMS, NMPA registration templates, SOTA) are archived and accessible via insights/_index.json."
 }

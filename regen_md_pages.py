@@ -4,11 +4,11 @@ Ensures URLs in display layer match the corrected data layer.
 """
 import json, glob, os, re
 
-def truncate(s, maxlen=120):
+def sanitize(s):
+    """Sanitize string for markdown table cell (no truncation)."""
     if not s:
         return ''
-    s = s.replace('|', ' ').replace('\n', ' ').strip()
-    return s[:maxlen] + '...' if len(s) > maxlen else s
+    return s.replace('|', '/').replace('\n', ' ').strip()
 
 def generate_md_table(standards, lang='en'):
     """Generate a markdown table from standards list."""
@@ -27,7 +27,7 @@ def generate_md_table(standards, lang='en'):
             title = title_obj.get(lang, '') or title_obj.get('en', '')
         else:
             title = str(title_obj)
-        title = truncate(title, 120)
+        title = sanitize(title)
         
         status = std.get('status', 'active')
         gsprs = ', '.join(std.get('applicable_gsprs', []))
