@@ -100,26 +100,6 @@
       "source_verified": "2026-06-27",
       "abstract": "Specifies requirements and test methods for male condoms to be used with condom-compatible lubricants. Confirmed in 2020.",
       "scope": "Male condoms and compatible lubricants."
-    },
-    {
-      "id": "iec-60601-2-25-2011",
-      "number": "IEC 60601-2-25:2011",
-      "title": {
-        "en": "Medical electrical equipment - Part 2-25: Particular requirements for the basic safety and essential performance of electrocardiographs",
-        "zh": "医用电气设备 - 第2-25部分：心电图仪的基本安全和基本性能的特殊要求"
-      },
-      "status": "active",
-      "applicable_gsprs": [
-        "1",
-        "3",
-        "14"
-      ],
-      "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/publication/2636",
-      "source_verified": "2026-06-27",
-      "abstract": "Applies to the basic safety and essential performance of electrocardiographs intended for use in diagnosis and monitoring. Edition 2.",
-      "scope": "Electrocardiograph equipment for cardiac diagnosis and monitoring.",
-      "note": "Also applicable to urodynamic monitoring equipment that incorporates ECG functionality."
     }
   ]
 }

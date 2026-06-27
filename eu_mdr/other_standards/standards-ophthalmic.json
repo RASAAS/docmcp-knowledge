@@ -49,8 +49,8 @@
         "18"
       ],
       "standard_type": "international",
-      "source_url": "https://www.iso.org/standard/82840.html",
-      "source_verified": true,
+      "source_url": "https://www.iso.org/standard/86607.html",
+      "source_verified": "2026-06-27",
       "abstract": "Requirements and test methods for optical properties of intraocular lenses including monofocal, toric, and multifocal.",
       "scope": "Intraocular lens optical properties"
     },
@@ -68,8 +68,8 @@
         "20"
       ],
       "standard_type": "international",
-      "source_url": "https://www.iso.org/standard/82841.html",
-      "source_verified": true,
+      "source_url": "https://www.iso.org/standard/79689.html",
+      "source_verified": "2026-06-27",
       "abstract": "Requirements for clinical investigations of intraocular lenses for correction of aphakia.",
       "scope": "IOL clinical investigations"
     },
@@ -86,8 +86,8 @@
         "18"
       ],
       "standard_type": "international",
-      "source_url": "https://www.iso.org/standard/74036.html",
-      "source_verified": true,
+      "source_url": "https://www.iso.org/standard/72616.html",
+      "source_verified": "2026-06-27",
       "abstract": "General requirements applicable to all ophthalmic instruments.",
       "scope": "Ophthalmic instruments general"
     },

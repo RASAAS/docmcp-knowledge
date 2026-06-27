@@ -87,11 +87,11 @@
       "title_en": "Preparation and quality management of fluids for haemodialysis and related therapies -- Part 3: Water for haemodialysis and related therapies"
     },
     {
-      "id": "iso-11663-2014",
-      "number": "ISO 23500-5:2019",
+      "id": "iso-23500-5-2024",
+      "number": "ISO 23500-5:2024",
       "title": {
-        "en": "Quality of dialysis fluid for haemodialysis and related therapies",
-        "zh": "血液透析及相关治疗用透析液的质量"
+        "en": "Preparation and quality management of fluids for haemodialysis and related therapies - Part 5: Quality of dialysis fluid for haemodialysis and related therapies",
+        "zh": "血液透析及相关治疗用液的准备和质量管理 - 第5部分：血液透析及相关治疗用透析液的质量"
       },
       "status": "active",
       "applicable_gsprs": [
@@ -101,7 +101,7 @@
         "10"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/standard/67614.html",
+      "source_url": "https://www.iso.org/standard/84372.html",
       "source_verified": "2026-06-27",
       "abstract": "Specifies minimum requirements for dialysis fluids used for haemodialysis and haemodiafiltration, including chemical and microbiological purity. Confirmed 2020.",
       "scope": "Quality requirements for dialysis fluids.",
