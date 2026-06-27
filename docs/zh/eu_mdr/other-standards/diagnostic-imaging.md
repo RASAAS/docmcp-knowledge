@@ -10,7 +10,7 @@
 | IEC 60601-2-44:2009+AMD1:2012+AMD2:2016 | 医用电气设备 - 第2-44部分：X射线计算机体层摄影设备的基本安全和基本性能专用要求 | active | 14, 16 | [官方链接](https://webstore.iec.ch/en/publication/24442) |
 | IEC 60601-2-45:2023 | 医用电气设备 - 第2-45部分：乳房X射线摄影设备和乳房立体定位设备的基本安全和基本性能专用要求 | active | 14, 16 | [官方链接](https://webstore.iec.ch/en/publication/78076) |
 | IEC 60601-2-54:2022 | 医用电气设备 - 第2-54部分：用于透视和摄影的X射线设备的基本安全和基本性能专用要求 | active | 14, 16 | [官方链接](https://webstore.iec.ch/en/publication/69988) |
-| IEC 62563-1:2009+AMD1:2016+AMD2:2021 | 医用电气设备 - 医学图像显示系统 - 第1部分：评价方法 | active | 14, 14.1 | [官方链接](https://webstore.iec.ch/en/publication/5613) |
+| IEC 62563-1:2009+AMD1:2016+AMD2:2021 | 医用电气设备 - 医学图像显示系统 - 第1部分：评价方法 | active | 14, 14.1 | [官方链接](https://webstore.iec.ch/en/publication/70108) |
 | IEC 62220-1-1:2015 | 医用电气设备 - 数字X射线成像设备特性 - 第1-1部分：量子检测效率的测定 | active | 14, 16 | [官方链接](https://webstore.iec.ch/en/publication/22016) |
 | IEC 62220-1-2:2007 | 医用电气设备 - 数字X射线成像设备特性 - 第1-2部分：乳腺摄影用探测器 | active | 14, 16 | [官方链接](https://webstore.iec.ch/en/publication/6598) |
 | IEC 62220-1-3:2008 | 医用电气设备 - 数字X射线成像设备特性 - 第1-3部分：动态成像用探测器 | active | 14, 16 | [官方链接](https://webstore.iec.ch/en/publication/6599) |

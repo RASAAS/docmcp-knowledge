@@ -39,10 +39,12 @@
         "17"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/publication/30552",
+      "source_url": "https://webstore.iec.ch/en/publication/33594",
       "source_verified": "2026-06-27",
       "abstract": "Applies to the basic safety and essential performance of medical robots used for rehabilitation, assessment, compensation or alleviation. Edition 1.",
-      "scope": "Medical robots for rehabilitation and assistive purposes."
+      "scope": "Medical robots for rehabilitation and assistive purposes.",
+      "title_en": "Medical electrical equipment - Part 2-78: Particular requirements for basic safety and essential performance of medical robots for rehabilitation, assessment, compensation or alleviation",
+      "title_zh": "医用电气设备 - 第2-78部分：康复、评估、补偿或缓解用医疗机器人基本安全和基本性能的特殊要求"
     },
     {
       "id": "iso-13482-2014",

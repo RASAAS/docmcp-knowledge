@@ -132,7 +132,7 @@
     },
     {
       "id": "iec-60601-2-25-2011-amd1-2014",
-      "number": "IEC 60601-2-25:2011+AMD1:2014",
+      "number": "IEC 60601-2-25:2011",
       "title": {
         "en": "Medical electrical equipment - Part 2-25: Particular requirements for the basic safety and essential performance of electrocardiographs",
         "zh": "医用电气设备 - 第2-25部分：心电图设备的基本安全和基本性能专用要求"
@@ -150,7 +150,7 @@
     },
     {
       "id": "iec-60601-2-27-2011-amd1-2019",
-      "number": "IEC 60601-2-27:2011+AMD1:2019",
+      "number": "IEC 60601-2-27:2011",
       "title": {
         "en": "Medical electrical equipment - Part 2-27: Particular requirements for the basic safety and essential performance of electrocardiographic monitoring equipment",
         "zh": "医用电气设备 - 第2-27部分：心电监护设备的基本安全和基本性能专用要求"
@@ -168,7 +168,7 @@
     },
     {
       "id": "iec-60601-2-34-2011",
-      "number": "IEC 60601-2-34:2011",
+      "number": "IEC 60601-2-34:2024",
       "title": {
         "en": "Medical electrical equipment - Part 2-34: Particular requirements for the basic safety and essential performance of invasive blood pressure monitoring equipment",
         "zh": "医用电气设备 - 第2-34部分：有创血压监测设备的基本安全和基本性能专用要求"
@@ -182,11 +182,13 @@
       "standard_type": "non_harmonised",
       "source_url": "https://webstore.iec.ch/en/publication/68609",
       "abstract": "Specifies particular requirements for basic safety and essential performance of invasive blood pressure monitoring equipment.",
-      "scope": "Particular requirements for the basic safety and essential performance of invasive blood pressure monitoring equipment."
+      "scope": "Particular requirements for the basic safety and essential performance of invasive blood pressure monitoring equipment.",
+      "title_en": "Medical electrical equipment - Part 2-34: Particular requirements for the basic safety and essential performance of invasive blood pressure monitoring equipment",
+      "title_zh": "医用电气设备 - 第2-34部分：有创血压监测设备基本安全和基本性能的特殊要求"
     },
     {
       "id": "iec-60601-2-37-2007-amd1-2015",
-      "number": "IEC 60601-2-37:2007+AMD1:2015",
+      "number": "IEC 60601-2-37:2024",
       "title": {
         "en": "Medical electrical equipment - Part 2-37: Particular requirements for the basic safety and essential performance of ultrasonic medical diagnostic and monitoring equipment",
         "zh": "医用电气设备 - 第2-37部分：超声诊断和监护设备的基本安全和基本性能专用要求"
@@ -200,11 +202,13 @@
       "standard_type": "non_harmonised",
       "source_url": "https://webstore.iec.ch/en/publication/78093",
       "abstract": "Specifies particular requirements for basic safety and essential performance of ultrasonic medical diagnostic and monitoring equipment.",
-      "scope": "Particular requirements for the basic safety and essential performance of ultrasonic medical diagnostic and monitoring equipment."
+      "scope": "Particular requirements for the basic safety and essential performance of ultrasonic medical diagnostic and monitoring equipment.",
+      "title_en": "Medical electrical equipment - Part 2-37: Particular requirements for the basic safety and essential performance of ultrasonic medical diagnostic and monitoring equipment",
+      "title_zh": "医用电气设备 - 第2-37部分：超声诊断和监护设备基本安全和基本性能的特殊要求"
     },
     {
       "id": "iec-60601-2-49-2018",
-      "number": "IEC 60601-2-49:2018",
+      "number": "IEC 80601-2-49:2018",
       "title": {
         "en": "Medical electrical equipment - Part 2-49: Particular requirements for the basic safety and essential performance of multifunction patient monitoring equipment",
         "zh": "医用电气设备 - 第2-49部分：多功能患者监护设备的基本安全和基本性能专用要求"
@@ -218,11 +222,13 @@
       "standard_type": "non_harmonised",
       "source_url": "https://webstore.iec.ch/en/publication/30552",
       "abstract": "Specifies particular requirements for basic safety and essential performance of multifunction patient monitoring equipment.",
-      "scope": "Particular requirements for the basic safety and essential performance of multifunction patient monitoring equipment."
+      "scope": "Particular requirements for the basic safety and essential performance of multifunction patient monitoring equipment.",
+      "title_en": "Medical electrical equipment - Part 2-49: Particular requirements for the basic safety and essential performance of multifunction patient monitors",
+      "title_zh": "医用电气设备 - 第2-49部分：多功能患者监护设备基本安全和基本性能的特殊要求"
     },
     {
       "id": "iec-60601-2-52-2009-amd1-2015",
-      "number": "IEC 60601-2-52:2009+AMD1:2015",
+      "number": "IEC 80601-2-52:2026",
       "title": {
         "en": "Medical electrical equipment - Part 2-52: Particular requirements for the basic safety and essential performance of medical beds",
         "zh": "医用电气设备 - 第2-52部分：医用病床的基本安全和基本性能专用要求"
@@ -234,9 +240,11 @@
         "20"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/publication/21963",
+      "source_url": "https://webstore.iec.ch/en/publication/66296",
       "abstract": "Specifies particular requirements for basic safety and essential performance of medical beds.",
-      "scope": "Particular requirements for the basic safety and essential performance of medical beds."
+      "scope": "Particular requirements for the basic safety and essential performance of medical beds.",
+      "title_en": "Medical electrical equipment - Part 2-52: Particular requirements for the basic safety and essential performance of medical beds for adults",
+      "title_zh": "医用电气设备 - 第2-52部分：医用床基本安全和基本性能的特殊要求"
     },
     {
       "id": "iec-60601-1-8-2006-amd1-2012-amd2-2020",

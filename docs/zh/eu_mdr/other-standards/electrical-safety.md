@@ -11,11 +11,11 @@
 | IEC 60601-2-10:2012+AMD1:2016 | 医用电气设备 - 第2-10部分：神经和肌肉刺激器的基本安全和基本性能专用要求 | active | 14, 18, 19 | [官方链接](https://webstore.iec.ch/en/publication/24098) |
 | IEC 60601-2-16:2018 | 医用电气设备 - 第2-16部分：血液透析、血液透析滤过和血液滤过设备的基本安全和基本性能专用要求 | active | 14, 18, 21 | [官方链接](https://webstore.iec.ch/en/publication/68379) |
 | IEC 60601-2-24:2012 | 医用电气设备 - 第2-24部分：输液泵和输液控制器的基本安全和基本性能专用要求 | active | 14, 18, 21 | [官方链接](https://webstore.iec.ch/en/publication/2635) |
-| IEC 60601-2-25:2011+AMD1:2014 | 医用电气设备 - 第2-25部分：心电图设备的基本安全和基本性能专用要求 | active | 14, 15, 18 | [官方链接](https://webstore.iec.ch/en/publication/2636) |
-| IEC 60601-2-27:2011+AMD1:2019 | 医用电气设备 - 第2-27部分：心电监护设备的基本安全和基本性能专用要求 | active | 14, 15, 18 | [官方链接](https://webstore.iec.ch/en/publication/2638) |
-| IEC 60601-2-34:2011 | 医用电气设备 - 第2-34部分：有创血压监测设备的基本安全和基本性能专用要求 | active | 14, 15, 18 | [官方链接](https://webstore.iec.ch/en/publication/68609) |
-| IEC 60601-2-37:2007+AMD1:2015 | 医用电气设备 - 第2-37部分：超声诊断和监护设备的基本安全和基本性能专用要求 | active | 14, 16, 18 | [官方链接](https://webstore.iec.ch/en/publication/78093) |
-| IEC 60601-2-49:2018 | 医用电气设备 - 第2-49部分：多功能患者监护设备的基本安全和基本性能专用要求 | active | 14, 15, 18 | [官方链接](https://webstore.iec.ch/en/publication/30552) |
-| IEC 60601-2-52:2009+AMD1:2015 | 医用电气设备 - 第2-52部分：医用病床的基本安全和基本性能专用要求 | active | 14, 18, 20 | [官方链接](https://webstore.iec.ch/en/publication/21963) |
+| IEC 60601-2-25:2011 | 医用电气设备 - 第2-25部分：心电图设备的基本安全和基本性能专用要求 | active | 14, 15, 18 | [官方链接](https://webstore.iec.ch/en/publication/2636) |
+| IEC 60601-2-27:2011 | 医用电气设备 - 第2-27部分：心电监护设备的基本安全和基本性能专用要求 | active | 14, 15, 18 | [官方链接](https://webstore.iec.ch/en/publication/2638) |
+| IEC 60601-2-34:2024 | 医用电气设备 - 第2-34部分：有创血压监测设备的基本安全和基本性能专用要求 | active | 14, 15, 18 | [官方链接](https://webstore.iec.ch/en/publication/68609) |
+| IEC 60601-2-37:2024 | 医用电气设备 - 第2-37部分：超声诊断和监护设备的基本安全和基本性能专用要求 | active | 14, 16, 18 | [官方链接](https://webstore.iec.ch/en/publication/78093) |
+| IEC 80601-2-49:2018 | 医用电气设备 - 第2-49部分：多功能患者监护设备的基本安全和基本性能专用要求 | active | 14, 15, 18 | [官方链接](https://webstore.iec.ch/en/publication/30552) |
+| IEC 80601-2-52:2026 | 医用电气设备 - 第2-52部分：医用病床的基本安全和基本性能专用要求 | active | 14, 18, 20 | [官方链接](https://webstore.iec.ch/en/publication/66296) |
 | IEC 60601-1-8:2006+AMD1:2012+AMD2:2020 | 医用电气设备 - 第1-8部分：基本安全和基本性能的通用要求 - 并列标准：报警系统 | active | 18 | [官方链接](https://webstore.iec.ch/en/publication/67388) |
 | IEC 62353:2014+AMD1:2020 | 医用电气设备 - 定期检测和修理后检测 | active | 14, 18 | [官方链接](https://webstore.iec.ch/en/publication/6913) |
