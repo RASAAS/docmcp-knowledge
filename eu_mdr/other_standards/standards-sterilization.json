@@ -74,15 +74,15 @@
       "abstract": "Specifies requirements for biological indicators intended to assess the performance of ethylene oxide sterilization processes."
     },
     {
-      "id": "iso-11139-2018",
-      "number": "ISO 11139:2018",
+      "id": "iso-11139-2018-amd1-2024",
+      "number": "ISO 11139:2018/Amd 1:2024",
       "title": {
         "en": "Sterilization of health care products - Vocabulary of terms used in sterilization and related equipment and process standards",
         "zh": "保健品灭菌 - 术语词汇"
       },
       "status": "active",
-      "source_url": "https://www.iso.org/standard/66262.html",
-      "source_verified": "2026-06-24",
+      "source_url": "https://www.iso.org/standard/83351.html",
+      "source_verified": "2026-06-27",
       "scope": "Sterilization vocabulary and terminology.",
       "standard_type": "non_harmonised",
       "applicable_gsprs": [

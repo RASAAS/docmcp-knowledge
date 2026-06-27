@@ -92,8 +92,8 @@
       "scope": "Breathing gas pathway leachable testing"
     },
     {
-      "id": "iso-7396-1-2016",
-      "number": "ISO 7396-1:2016",
+      "id": "iso-7396-1-2016-amd1-2017",
+      "number": "ISO 7396-1:2016/Amd 1:2017",
       "title": {
         "en": "Medical gas pipeline systems - Part 1: Pipeline systems for compressed medical gases and vacuum",
         "zh": "医用气体管道系统 - 第1部分：压缩医用气体和真空管道系统"
@@ -104,10 +104,10 @@
         "21"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/standard/60061.html",
+      "source_url": "https://www.iso.org/standard/72456.html",
       "abstract": "Specifies requirements for design, installation, function, and testing of medical gas pipeline systems.",
       "scope": "Medical gas pipeline systems -- Pipeline systems for compressed medical gases and vacuum.",
-      "source_verified": "2026-06-24"
+      "source_verified": "2026-06-27"
     },
     {
       "id": "iso-80601-2-12-2020",
