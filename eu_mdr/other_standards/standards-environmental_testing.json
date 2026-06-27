@@ -2,7 +2,7 @@
   "standards": [
     {
       "id": "iec-60068-2-1-2007",
-      "number": "IEC 60068-2-1:2007",
+      "number": "IEC 60068-2-1:2025",
       "title": {
         "en": "Environmental testing - Part 2-1: Tests - Test A: Cold",
         "zh": "环境试验 - 第2-1部分：试验 - 试验A：低温"
@@ -12,13 +12,15 @@
         "14"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/publication/502",
+      "source_url": "https://webstore.iec.ch/en/publication/82354",
       "abstract": "Specifies a standard environmental test method (cold test) for determining the ability of components and equipment to withstand low temperatures.",
-      "scope": "Environmental testing -- Tests -- Test A: Cold."
+      "scope": "Environmental testing -- Tests -- Test A: Cold.",
+      "title_en": "Environmental testing - Part 2-1: Tests - Test A: Cold",
+      "title_zh": "环境试验 - 第2-1部分：试验 - 试验A：低温"
     },
     {
       "id": "iec-60068-2-2-2007",
-      "number": "IEC 60068-2-2:2007",
+      "number": "IEC 60068-2-2:2025",
       "title": {
         "en": "Environmental testing - Part 2-2: Tests - Test B: Dry heat",
         "zh": "环境试验 - 第2-2部分：试验 - 试验B：高温(干热)"
@@ -28,9 +30,11 @@
         "14"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/publication/510",
+      "source_url": "https://webstore.iec.ch/en/publication/82355",
       "abstract": "Specifies a standard environmental test method (dry heat test) for determining the ability of components and equipment to withstand high temperatures.",
-      "scope": "Environmental testing -- Tests -- Test B: Dry heat."
+      "scope": "Environmental testing -- Tests -- Test B: Dry heat.",
+      "title_en": "Environmental testing - Part 2-2: Tests - Test B: Dry heat",
+      "title_zh": "环境试验 - 第2-2部分：试验 - 试验B：干热"
     },
     {
       "id": "iec-60068-2-30-2005",

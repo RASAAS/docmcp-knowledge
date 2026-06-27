@@ -4,8 +4,8 @@ The following non-harmonised international standards are related to **Environmen
 
 | Standard | Title | Status | GSPRs | Link |
 |----------|-------|--------|-------|------|
-| IEC 60068-2-1:2007 | Environmental testing - Part 2-1: Tests - Test A: Cold | active | 14 | [Link](https://webstore.iec.ch/en/publication/502) |
-| IEC 60068-2-2:2007 | Environmental testing - Part 2-2: Tests - Test B: Dry heat | active | 14 | [Link](https://webstore.iec.ch/en/publication/510) |
+| IEC 60068-2-1:2025 | Environmental testing - Part 2-1: Tests - Test A: Cold | active | 14 | [Link](https://webstore.iec.ch/en/publication/82354) |
+| IEC 60068-2-2:2025 | Environmental testing - Part 2-2: Tests - Test B: Dry heat | active | 14 | [Link](https://webstore.iec.ch/en/publication/82355) |
 | IEC 60068-2-30:2025 | Environmental testing - Part 2-30: Tests - Test Db: Damp heat, cyclic (12 h + 12 h cycle) | active | 14 | [Link](https://webstore.iec.ch/en/publication/82356) |
 | IEC 60068-2-6:2007 | Environmental testing - Part 2-6: Tests - Test Fc: Vibration (sinusoidal) | active | 14, 20 | [Link](https://webstore.iec.ch/en/publication/544) |
 | IEC 60068-2-78:2012 | Environmental testing - Part 2-78: Tests - Test Cab: Damp heat, steady state | active | 14, 14.5 | [Link](https://webstore.iec.ch/en/publication/560) |
