@@ -27,8 +27,8 @@
       "abstract": "Specifies requirements for a quality management system where an organization needs to demonstrate its ability to provide medical devices that consistently meet applicable regulatory requirements."
     },
     {
-      "id": "iso-19011-2018",
-      "number": "ISO 19011:2018",
+      "id": "iso-19011-2026",
+      "number": "ISO 19011:2026",
       "title": {
         "en": "Guidelines for auditing management systems",
         "zh": "管理体系审核指南"
@@ -39,9 +39,9 @@
         "2"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/standard/70017.html",
+      "source_url": "https://www.iso.org/standard/88984.html",
       "source_verified": "2026-06-27",
-      "abstract": "Provides guidance on auditing management systems, including principles of auditing, managing an audit programme, conducting management system audits, and competence of auditors. Edition 3.",
+      "abstract": "Provides guidance on auditing management systems, including principles of auditing, managing an audit programme, conducting management system audits, and competence of auditors. Edition 4, includes remote/hybrid auditing and digital tools.",
       "scope": "Auditing guidelines for quality management systems (applicable to ISO 13485 audits)."
     },
     {

@@ -105,13 +105,13 @@
     },
     {
       "id": "eu_mdr-os-iec-80601-2-59-2017+amd1-2023",
-      "number": "ISO 80601-2-59:2017+AMD1:2018",
+      "number": "IEC 80601-2-59:2017+AMD1:2023",
       "title": {
         "en": "Medical electrical equipment - Part 2-59: Particular requirements for the basic safety and essential performance of screening thermographs for human febrile temperature screening",
-        "zh": "医用电气设备 - 第2-59部分：通气障碍筛查热像仪设备的基本安全和基本性能专用要求"
+        "zh": "医用电气设备 - 第2-59部分：人体发热温度筛查热像仪的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/61341",
+      "source_url": "https://www.iso.org/standard/69346.html",
       "source_verified": "",
       "category": "patient_monitoring",
       "standard_type": "non_harmonised",
