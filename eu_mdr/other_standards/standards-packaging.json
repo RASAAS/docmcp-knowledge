@@ -87,8 +87,8 @@
       "scope": "Standard test methods for pressure decay leak test for flexible packages with and without restraining plates."
     },
     {
-      "id": "iso-11607-1-2019",
-      "number": "ISO 11607-1:2019",
+      "id": "iso-11607-1-2019-amd1-2023",
+      "number": "ISO 11607-1:2019/Amd 1:2023",
       "title": {
         "en": "Packaging for terminally sterilized medical devices - Part 1: Requirements for materials, sterile barrier systems and packaging systems",
         "zh": "最终灭菌医疗器械的包装 - 第1部分：材料、无菌屏障系统和包装系统的要求"
@@ -99,13 +99,13 @@
       ],
       "standard_type": "non_harmonised",
       "source_url": "https://www.iso.org/standard/70799.html",
-      "source_verified": "2026-06-24",
+      "source_verified": "2026-06-27",
       "abstract": "Specifies requirements for materials, sterile barrier systems and packaging systems for terminally sterilized medical devices.",
       "scope": "Packaging for terminally sterilized medical devices -- Requirements for materials, sterile barrier systems and packaging systems."
     },
     {
-      "id": "iso-11607-2-2019",
-      "number": "ISO 11607-2:2019",
+      "id": "iso-11607-2-2019-amd1-2023",
+      "number": "ISO 11607-2:2019/Amd 1:2023",
       "title": {
         "en": "Packaging for terminally sterilized medical devices - Part 2: Validation requirements for forming, sealing and assembly processes",
         "zh": "最终灭菌医疗器械的包装 - 第2部分：成形、密封和组装过程的确认要求"
@@ -116,7 +116,7 @@
       ],
       "standard_type": "non_harmonised",
       "source_url": "https://www.iso.org/standard/70800.html",
-      "source_verified": "2026-06-24",
+      "source_verified": "2026-06-27",
       "abstract": "Specifies requirements for validation of forming, sealing and assembly processes for packaging of terminally sterilized medical devices.",
       "scope": "Packaging for terminally sterilized medical devices -- Validation requirements for forming, sealing and assembly processes."
     }

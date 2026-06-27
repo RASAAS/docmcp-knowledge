@@ -1,15 +1,15 @@
 {
   "standards": [
     {
-      "id": "iso-11737-1-2018",
-      "number": "ISO 11737-1:2018",
+      "id": "iso-11737-1-2018-amd1-2021",
+      "number": "ISO 11737-1:2018/Amd 1:2021",
       "title": {
         "en": "Sterilization of health care products - Microbiological methods - Part 1: Determination of a population of microorganisms on products",
         "zh": "保健品灭菌 - 微生物学方法 - 第1部分：产品上微生物群落的测定"
       },
       "status": "active",
       "source_url": "https://www.iso.org/standard/66451.html",
-      "source_verified": "2026-06-24",
+      "source_verified": "2026-06-27",
       "scope": "Bioburden testing methods for medical devices.",
       "standard_type": "non_harmonised",
       "applicable_gsprs": [

@@ -57,8 +57,8 @@
       "abstract": "Particular requirements for ultrasonic physiotherapy equipment."
     },
     {
-      "id": "iso-13091-1-2001",
-      "number": "ISO 13091-1:2001",
+      "id": "iso-13091-1-2001-amd2-2021",
+      "number": "ISO 13091-1:2001/Amd 2:2021",
       "title": {
         "en": "Mechanical vibration - Vibrotactile perception thresholds for the assessment of nerve dysfunction - Part 1: Methods of measurement at the fingertips",
         "zh": "机械振动 - 评估神经功能障碍的振动触觉感知阈值 - 第1部分：指尖测量方法"
@@ -70,7 +70,7 @@
       ],
       "standard_type": "international",
       "source_url": "https://www.iso.org/standard/32509.html",
-      "source_verified": true,
+      "source_verified": "2026-06-27",
       "abstract": "Methods for measuring vibrotactile perception thresholds at fingertips.",
       "scope": "Nerve dysfunction assessment"
     }
