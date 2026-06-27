@@ -1,0 +1,79 @@
+{
+  "standards": [
+    {
+      "id": "iso-4135-2022",
+      "number": "ISO 4135:2022",
+      "title": {
+        "en": "Anaesthetic and respiratory equipment - Vocabulary",
+        "zh": "麻醉和呼吸设备 - 术语"
+      },
+      "status": "active",
+      "applicable_gsprs": ["1", "3"],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/79744.html",
+      "source_verified": "2026-06-27",
+      "abstract": "Defines terms used in the field of anaesthetic and respiratory equipment. Edition 5.",
+      "scope": "Terminology for anaesthetic and respiratory equipment."
+    },
+    {
+      "id": "iso-80601-2-55-2018",
+      "number": "ISO 80601-2-55:2018",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-55: Particular requirements for the basic safety and essential performance of respiratory gas monitors",
+        "zh": "医用电气设备 - 第2-55部分：呼吸气体监测仪的基本安全和基本性能的特殊要求"
+      },
+      "status": "active",
+      "applicable_gsprs": ["1", "3", "5", "14"],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/67532.html",
+      "source_verified": "2026-06-27",
+      "abstract": "Specifies requirements for the basic safety and essential performance of respiratory gas monitors (capnographs, oxygen monitors, multi-gas analysers). Edition 2.",
+      "scope": "Respiratory gas monitors (capnographs, O2 monitors, multi-gas analysers)."
+    },
+    {
+      "id": "iso-80601-2-12-2020",
+      "number": "ISO 80601-2-12:2020",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-12: Particular requirements for the basic safety and essential performance of critical care ventilators",
+        "zh": "医用电气设备 - 第2-12部分：重症监护呼吸机的基本安全和基本性能的特殊要求"
+      },
+      "status": "active",
+      "applicable_gsprs": ["1", "3", "5", "9", "14"],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/72069.html",
+      "source_verified": "2026-06-27",
+      "abstract": "Applies to critical care ventilators intended for use in critical care environments. Edition 2.",
+      "scope": "Critical care (ICU) ventilators."
+    },
+    {
+      "id": "iso-80601-2-70-2020",
+      "number": "ISO 80601-2-70:2020",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-70: Particular requirements for the basic safety and essential performance of sleep apnoea breathing therapy equipment",
+        "zh": "医用电气设备 - 第2-70部分：睡眠呼吸暂停治疗设备的基本安全和基本性能的特殊要求"
+      },
+      "status": "active",
+      "applicable_gsprs": ["1", "3", "5", "9", "14"],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/72442.html",
+      "source_verified": "2026-06-27",
+      "abstract": "Requirements for CPAP, bilevel, and adaptive servo-ventilation devices for treatment of sleep apnoea. Edition 2.",
+      "scope": "Sleep apnoea breathing therapy equipment (CPAP, BiPAP, ASV)."
+    },
+    {
+      "id": "iso-18562-1-2024",
+      "number": "ISO 18562-1:2024",
+      "title": {
+        "en": "Biocompatibility evaluation of breathing gas pathways in healthcare applications - Part 1: Evaluation and testing within a risk management process",
+        "zh": "医疗保健应用中呼吸气体通路的生物相容性评价 - 第1部分：风险管理过程中的评价和测试"
+      },
+      "status": "active",
+      "applicable_gsprs": ["1", "3", "5", "10"],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/83400.html",
+      "source_verified": "2026-06-27",
+      "abstract": "Specifies biocompatibility evaluation requirements for breathing gas pathways in medical devices. Edition 2, published 2024.",
+      "scope": "Biocompatibility of breathing gas pathways (ventilator circuits, masks, humidifiers)."
+    }
+  ]
+}

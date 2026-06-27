@@ -18,6 +18,81 @@
         "14.2"
       ],
       "abstract": "Particular requirements for peritoneal dialysis equipment."
+    },
+    {
+      "id": "iec-60601-2-16-2018",
+      "number": "IEC 60601-2-16:2018",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-16: Particular requirements for the basic safety and essential performance of haemodialysis, haemodiafiltration and haemofiltration equipment",
+        "zh": "医用电气设备 - 第2-16部分：血液透析、血液透析滤过和血液滤过设备的基本安全和基本性能的特殊要求"
+      },
+      "status": "active",
+      "applicable_gsprs": ["1", "3", "5", "9", "14"],
+      "standard_type": "non_harmonised",
+      "source_url": "https://webstore.iec.ch/en/publication/29790",
+      "source_verified": "2026-06-27",
+      "abstract": "Applies to the basic safety and essential performance of haemodialysis, haemodiafiltration, and haemofiltration equipment. Edition 3.",
+      "scope": "Haemodialysis, haemodiafiltration and haemofiltration equipment."
+    },
+    {
+      "id": "iso-23500-1-2019",
+      "number": "ISO 23500-1:2019",
+      "title": {
+        "en": "Preparation and quality management of fluids for haemodialysis and related therapies - Part 1: General requirements",
+        "zh": "血液透析及相关治疗用液体的制备和质量管理 - 第1部分：通用要求"
+      },
+      "status": "active",
+      "applicable_gsprs": ["1", "3", "5", "10"],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/67610.html",
+      "source_verified": "2026-06-27",
+      "abstract": "Specifies general requirements for preparation and quality management of fluids used in haemodialysis and related therapies.",
+      "scope": "General requirements for dialysis fluids preparation and quality management."
+    },
+    {
+      "id": "iso-23500-3-2019",
+      "number": "ISO 23500-3:2019",
+      "title": {
+        "en": "Preparation and quality management of fluids for haemodialysis and related therapies - Part 3: Water for haemodialysis and related therapies",
+        "zh": "血液透析及相关治疗用液体的制备和质量管理 - 第3部分：血液透析及相关治疗用水"
+      },
+      "status": "active",
+      "applicable_gsprs": ["1", "3", "5", "10"],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/67612.html",
+      "source_verified": "2026-06-27",
+      "abstract": "Specifies minimum quality requirements for water used for haemodialysis and related therapies.",
+      "scope": "Water quality requirements for haemodialysis systems."
+    },
+    {
+      "id": "iso-11663-2014",
+      "number": "ISO 11663:2014",
+      "title": {
+        "en": "Quality of dialysis fluid for haemodialysis and related therapies",
+        "zh": "血液透析及相关治疗用透析液的质量"
+      },
+      "status": "active",
+      "applicable_gsprs": ["1", "3", "5", "10"],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/61861.html",
+      "source_verified": "2026-06-27",
+      "abstract": "Specifies minimum requirements for dialysis fluids used for haemodialysis and haemodiafiltration, including chemical and microbiological purity. Confirmed 2020.",
+      "scope": "Quality requirements for dialysis fluids."
+    },
+    {
+      "id": "iso-8637-1-2017",
+      "number": "ISO 8637-1:2017",
+      "title": {
+        "en": "Extracorporeal systems for blood purification - Part 1: Haemodialysers, haemodiafilters, haemofilters and haemoconcentrators",
+        "zh": "体外血液净化系统 - 第1部分：血液透析器、血液透析滤过器、血液滤过器和血液浓缩器"
+      },
+      "status": "active",
+      "applicable_gsprs": ["1", "3", "5", "10", "11"],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/69843.html",
+      "source_verified": "2026-06-27",
+      "abstract": "Specifies requirements for haemodialysers, haemodiafilters, haemofilters and haemoconcentrators for use in extracorporeal blood purification therapies. Edition 3.",
+      "scope": "Extracorporeal blood purification devices (dialysers, filters, concentrators)."
     }
   ]
 }

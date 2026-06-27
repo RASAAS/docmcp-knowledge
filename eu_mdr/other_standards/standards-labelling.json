@@ -21,6 +21,69 @@
       "abstract": "Specifies requirements for information supplied by the manufacturer of medical devices, including labels, packaging markings, and instructions for use. Supersedes EN 1041:2008+A1:2013.",
       "scope": "Medical devices -- Information to be supplied by the manufacturer (labelling, instructions for use, packaging markings).",
       "note": "Edition 2 (2026) replaces 2021 version."
+    },
+    {
+      "id": "iso-15223-1-2021",
+      "number": "ISO 15223-1:2021",
+      "title": {
+        "en": "Medical devices - Symbols to be used with information to be supplied by the manufacturer - Part 1: General requirements",
+        "zh": "医疗器械 - 与制造商提供的信息一起使用的符号 - 第1部分：通用要求"
+      },
+      "status": "active",
+      "applicable_gsprs": ["23"],
+      "standard_type": "harmonised",
+      "source_url": "https://www.iso.org/standard/77326.html",
+      "source_verified": "2026-06-27",
+      "abstract": "Identifies requirements for symbols used in labelling of medical devices. Edition 4. EN ISO 15223-1:2021 harmonized under EU MDR.",
+      "scope": "Standardized symbols for medical device labelling.",
+      "note": "Harmonized under EU MDR. Covers symbols for manufacturer, date of manufacture, expiry, sterile, single-use, etc."
+    },
+    {
+      "id": "en-1041-2008-a1-2013",
+      "number": "EN 1041:2008+A1:2013",
+      "title": {
+        "en": "Information supplied by the manufacturer of medical devices",
+        "zh": "医疗器械制造商提供的信息"
+      },
+      "status": "active",
+      "applicable_gsprs": ["23"],
+      "standard_type": "non_harmonised",
+      "source_url": "https://standards.iteh.ai/catalog/standards/cen/11c28f00-06f4-4ef7-afaf-8b9340d3ff25/en-1041-2008-a1-2013",
+      "source_verified": "2026-06-27",
+      "abstract": "Specifies requirements for information to be supplied by the manufacturer with a medical device, including content, form and language of labels, instructions for use and technical descriptions.",
+      "scope": "Requirements for manufacturer-supplied information (labels, IFU, technical descriptions).",
+      "note": "Being superseded by ISO 20417 series but still referenced in some national implementations."
+    },
+    {
+      "id": "iec-62366-1-2015-a1-2020",
+      "number": "IEC 62366-1:2015+AMD1:2020",
+      "title": {
+        "en": "Medical devices - Part 1: Application of usability engineering to medical devices",
+        "zh": "医疗器械 - 第1部分：可用性工程在医疗器械中的应用"
+      },
+      "status": "active",
+      "applicable_gsprs": ["5", "23"],
+      "standard_type": "harmonised",
+      "source_url": "https://webstore.iec.ch/en/publication/67220",
+      "source_verified": "2026-06-27",
+      "abstract": "Specifies a process for manufacturer to analyse, specify, develop and evaluate usability of a medical device as it relates to safety. Critical for ensuring labelling and IFU are understandable. EN IEC 62366-1:2015/A1:2020 harmonized under EU MDR.",
+      "scope": "Usability engineering process for medical device labelling and user interface design.",
+      "note": "Directly impacts labelling design: user comprehension testing, IFU readability, symbol recognition."
+    },
+    {
+      "id": "iso-udi-16679-2024",
+      "number": "ISO/TS 16791:2024",
+      "title": {
+        "en": "Health informatics - Requirements for international machine-readable coding of medicinal product package identifiers",
+        "zh": "健康信息学 - 药品包装标识符国际机器可读编码的要求"
+      },
+      "status": "active",
+      "applicable_gsprs": ["23"],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/82782.html",
+      "source_verified": "2026-06-27",
+      "abstract": "Requirements for machine-readable coding of medical device identifiers, supporting UDI system implementation. Edition 2.",
+      "scope": "Machine-readable coding for medical device unique device identifiers (UDI)."
     }
   ]
 }

@@ -59,6 +59,51 @@
         "12"
       ],
       "abstract": "Validation of virus and TSE agent inactivation for animal tissue devices."
+    },
+    {
+      "id": "iso-3826-1-2019",
+      "number": "ISO 3826-1:2019",
+      "title": {
+        "en": "Plastics collapsible containers for human blood and blood components - Part 1: Conventional containers",
+        "zh": "人体血液和血液成分用塑料可折叠容器 - 第1部分：常规容器"
+      },
+      "status": "active",
+      "applicable_gsprs": ["1", "3", "5", "10", "11"],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/72412.html",
+      "source_verified": "2026-06-27",
+      "abstract": "Specifies requirements including performance requirements for plastics collapsible containers, complete with satellite containers and accessory equipment, for collection, storage and transport of blood and blood components. Edition 4.",
+      "scope": "Plastic blood bags for collection, storage and transport of blood and blood components."
+    },
+    {
+      "id": "iso-3826-4-2015",
+      "number": "ISO 3826-4:2015",
+      "title": {
+        "en": "Plastics collapsible containers for human blood and blood components - Part 4: Apheresis blood bag systems with integrated features",
+        "zh": "人体血液和血液成分用塑料可折叠容器 - 第4部分：带集成功能的单采血袋系统"
+      },
+      "status": "active",
+      "applicable_gsprs": ["1", "3", "5", "10", "11"],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/63093.html",
+      "source_verified": "2026-06-27",
+      "abstract": "Specifies requirements for apheresis blood bag systems with integrated features for separation, collection and storage of blood components. Confirmed 2021.",
+      "scope": "Apheresis blood bag systems with integrated separation features."
+    },
+    {
+      "id": "iso-ts-21560-2020",
+      "number": "ISO/TS 21560:2020",
+      "title": {
+        "en": "General requirements of tissue-engineered medical products",
+        "zh": "组织工程医疗产品的通用要求"
+      },
+      "status": "active",
+      "applicable_gsprs": ["1", "3", "5", "10"],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/71086.html",
+      "source_verified": "2026-06-27",
+      "abstract": "Specifies general requirements for tissue-engineered medical products (TEMPs) used in regenerative medicine, including safety, materials, manufacture and quality control. Confirmed 2024.",
+      "scope": "General requirements for tissue-engineered medical products used in regenerative medicine."
     }
   ]
 }

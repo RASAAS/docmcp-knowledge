@@ -1,0 +1,79 @@
+{
+  "standards": [
+    {
+      "id": "iso-8536-4-2019",
+      "number": "ISO 8536-4:2019",
+      "title": {
+        "en": "Infusion equipment for medical use - Part 4: Infusion sets for single use, gravity feed",
+        "zh": "医用输液设备 - 第4部分：一次性使用重力式输液器"
+      },
+      "status": "active",
+      "applicable_gsprs": ["1", "3", "5", "10", "11"],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/73704.html",
+      "source_verified": "2026-06-27",
+      "abstract": "Specifies requirements for sterilized, single-use infusion sets for gravity-feed infusion of intravenous fluids. Edition 7.",
+      "scope": "Single-use gravity-feed infusion sets for IV fluid administration."
+    },
+    {
+      "id": "iso-8536-8-2015",
+      "number": "ISO 8536-8:2015",
+      "title": {
+        "en": "Infusion equipment for medical use - Part 8: Infusion equipment for use with pressure infusion apparatus",
+        "zh": "医用输液设备 - 第8部分：与加压输注装置配合使用的输液设备"
+      },
+      "status": "active",
+      "applicable_gsprs": ["1", "3", "5", "10", "11"],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/63100.html",
+      "source_verified": "2026-06-27",
+      "abstract": "Specifies requirements for single-use infusion equipment for use with pressure infusion apparatus. Edition 2. Confirmed 2021.",
+      "scope": "Single-use infusion equipment for pressure infusion."
+    },
+    {
+      "id": "iso-1135-4-2025-it",
+      "number": "ISO 1135-4:2025",
+      "title": {
+        "en": "Transfusion equipment for medical use - Part 4: Transfusion sets for single use, gravity feed",
+        "zh": "医用输血设备 - 第4部分：一次性使用重力式输血器"
+      },
+      "status": "active",
+      "applicable_gsprs": ["1", "3", "5", "10", "11"],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/83959.html",
+      "source_verified": "2026-06-27",
+      "abstract": "Specifies requirements for single-use transfusion sets for gravity-feed administration of blood and blood components. Edition 7, published 2025-05.",
+      "scope": "Single-use gravity-feed transfusion sets for blood products."
+    },
+    {
+      "id": "iec-60601-2-24-2012-it",
+      "number": "IEC 60601-2-24:2012",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-24: Particular requirements for the basic safety and essential performance of infusion pumps and controllers",
+        "zh": "医用电气设备 - 第2-24部分：输液泵和输液控制器的基本安全和基本性能的特殊要求"
+      },
+      "status": "active",
+      "applicable_gsprs": ["1", "3", "5", "9", "14"],
+      "standard_type": "non_harmonised",
+      "source_url": "https://webstore.iec.ch/en/publication/2632",
+      "source_verified": "2026-06-27",
+      "abstract": "Applies to basic safety and essential performance of infusion pumps (syringe, volumetric, ambulatory) and volumetric infusion controllers. Edition 2, confirmed 2020.",
+      "scope": "Infusion pumps and controllers (syringe pumps, volumetric pumps, ambulatory pumps)."
+    },
+    {
+      "id": "iso-28620-2010",
+      "number": "ISO 28620:2010",
+      "title": {
+        "en": "Medical devices - Non-electrically driven portable infusion devices",
+        "zh": "医疗器械 - 非电驱动便携式输液装置"
+      },
+      "status": "active",
+      "applicable_gsprs": ["1", "3", "5"],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/44805.html",
+      "source_verified": "2026-06-27",
+      "abstract": "Specifies requirements for non-electrically driven portable infusion devices (elastomeric pumps, spring-loaded devices). Confirmed 2020.",
+      "scope": "Non-electric portable infusion devices (elastomeric pumps, spring-loaded infusers)."
+    }
+  ]
+}

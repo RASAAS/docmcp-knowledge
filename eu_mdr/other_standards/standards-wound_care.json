@@ -17,6 +17,81 @@
       "abstract": "Specifies requirements and test methods for surgical drapes, gowns, and clean air suits used in healthcare facilities.",
       "scope": "Surgical clothing and drapes -- Requirements and test methods -- Surgical drapes and gowns.",
       "source_verified": "2026-06-24"
+    },
+    {
+      "id": "en-13726-2023",
+      "number": "EN 13726:2023",
+      "title": {
+        "en": "Test methods for primary wound dressings - Aspects of absorbency, moisture vapour transmission rate, waterproofness and extensibility",
+        "zh": "初级伤口敷料的试验方法 - 吸收性、水蒸气透过率、防水性和延展性"
+      },
+      "status": "active",
+      "applicable_gsprs": ["1", "3", "5", "10"],
+      "standard_type": "non_harmonised",
+      "source_url": "https://standards.iteh.ai/catalog/standards/cen/47263f9e-7265-4ef9-bed2-2a9b6ee49ea9/en-13726-2023",
+      "source_verified": "2026-06-27",
+      "abstract": "Specifies test methods for evaluation of absorption, moisture vapour transmission rate, waterproofness and extensibility of wound dressings. Replaces EN 13726 parts 1-4.",
+      "scope": "Performance testing of wound dressings (absorption, MVTR, waterproof, extensibility)."
+    },
+    {
+      "id": "iso-ts-20721-2025",
+      "number": "ISO/TS 20721:2025",
+      "title": {
+        "en": "Implants for surgery - Absorbable implants - General guidelines and requirements for assessment of absorbable metallic implants",
+        "zh": "外科植入物 - 可吸收植入物 - 可吸收金属植入物评估的一般指南和要求"
+      },
+      "status": "active",
+      "applicable_gsprs": ["1", "3", "5", "10"],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/89265.html",
+      "source_verified": "2026-06-27",
+      "abstract": "Establishes approaches and special considerations for evaluating in vitro and in vivo performance of absorbable metals and implants. Published 2025-05.",
+      "scope": "Assessment of absorbable metallic implants (degradation, fatigue, biological evaluation)."
+    },
+    {
+      "id": "en-1644-1-2018",
+      "number": "EN 1644-1:2018",
+      "title": {
+        "en": "Test methods for nonwoven compresses for medical use - Part 1: Nonwoven compresses, all cotton or containing cotton",
+        "zh": "医用无纺布敷料的试验方法 - 第1部分：全棉或含棉无纺布敷料"
+      },
+      "status": "active",
+      "applicable_gsprs": ["1", "3", "5", "10"],
+      "standard_type": "non_harmonised",
+      "source_url": "https://standards.iteh.ai/catalog/standards/cen/0d5f8e5b-5f2f-4d1b-8a3e-90d3e0d3d5a5/en-1644-1-2018",
+      "source_verified": "2026-06-27",
+      "abstract": "Specifies test methods for nonwoven compresses used for medical purposes. Covers absorbency, mass, dimensions, and fibre composition.",
+      "scope": "Testing of nonwoven medical compresses."
+    },
+    {
+      "id": "iso-10334-1994",
+      "number": "ISO 10334:1994",
+      "title": {
+        "en": "Implants for surgery - Malleable wires for use as sutures and other surgical applications",
+        "zh": "外科植入物 - 用作缝合线和其他外科应用的可延展金属丝"
+      },
+      "status": "active",
+      "applicable_gsprs": ["1", "3", "5", "10"],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/18388.html",
+      "source_verified": "2026-06-27",
+      "abstract": "Specifies requirements for malleable metallic wires intended for use as sutures and in other surgical applications. Confirmed 2020.",
+      "scope": "Metallic surgical suture wires."
+    },
+    {
+      "id": "en-13795-2-2019",
+      "number": "EN 13795-2:2019",
+      "title": {
+        "en": "Surgical clothing and drapes - Requirements and test methods - Part 2: Clean air suits",
+        "zh": "手术服和手术单 - 要求和试验方法 - 第2部分：洁净空气服"
+      },
+      "status": "active",
+      "applicable_gsprs": ["1", "3", "5", "11"],
+      "standard_type": "non_harmonised",
+      "source_url": "https://standards.iteh.ai/catalog/standards/cen/7dbeb2f3-ccf1-4e09-9d6e-cf30d88a9783/en-13795-2-2019",
+      "source_verified": "2026-06-27",
+      "abstract": "Specifies requirements and test methods for clean air suits used in operating theatres and other clean areas to reduce body dispersal of viable particles.",
+      "scope": "Clean air surgical suits for operating theatre environments."
     }
   ]
 }

@@ -1,0 +1,79 @@
+{
+  "standards": [
+    {
+      "id": "iec-80601-2-77-2019",
+      "number": "IEC 80601-2-77:2019",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-77: Particular requirements for the basic safety and essential performance of robotically assisted surgical equipment",
+        "zh": "医用电气设备 - 第2-77部分：机器人辅助手术设备的基本安全和基本性能的特殊要求"
+      },
+      "status": "active",
+      "applicable_gsprs": ["1", "3", "5", "9", "14", "17"],
+      "standard_type": "non_harmonised",
+      "source_url": "https://webstore.iec.ch/en/publication/28594",
+      "source_verified": "2026-06-27",
+      "abstract": "Applies to the basic safety and essential performance of robotically assisted surgical equipment (RASE) and its accessories. Edition 1.",
+      "scope": "Robotically assisted surgical equipment and accessories."
+    },
+    {
+      "id": "iec-80601-2-78-2019",
+      "number": "IEC 80601-2-78:2019",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-78: Particular requirements for the basic safety and essential performance of medical robots for rehabilitation, assessment, compensation or alleviation",
+        "zh": "医用电气设备 - 第2-78部分：用于康复、评估、补偿或缓解的医用机器人的基本安全和基本性能的特殊要求"
+      },
+      "status": "active",
+      "applicable_gsprs": ["1", "3", "5", "9", "14", "17"],
+      "standard_type": "non_harmonised",
+      "source_url": "https://webstore.iec.ch/en/publication/28596",
+      "source_verified": "2026-06-27",
+      "abstract": "Applies to the basic safety and essential performance of medical robots used for rehabilitation, assessment, compensation or alleviation. Edition 1.",
+      "scope": "Medical robots for rehabilitation and assistive purposes."
+    },
+    {
+      "id": "iso-13482-2014",
+      "number": "ISO 13482:2014",
+      "title": {
+        "en": "Robots and robotic devices - Safety requirements for personal care robots",
+        "zh": "机器人和机器人装置 - 个人护理机器人的安全要求"
+      },
+      "status": "active",
+      "applicable_gsprs": ["1", "3", "5", "9"],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/53820.html",
+      "source_verified": "2026-06-27",
+      "abstract": "Specifies requirements and guidelines for safe design and protective measures of personal care robots, including mobile servant robots, physical assistant robots, and person carrier robots. Confirmed 2020.",
+      "scope": "Safety requirements for personal care robots (applicable to medical service robots)."
+    },
+    {
+      "id": "iec-62443-4-2-2019",
+      "number": "IEC 62443-4-2:2019",
+      "title": {
+        "en": "Security for industrial automation and control systems - Part 4-2: Technical security requirements for IACS components",
+        "zh": "工业自动化和控制系统安全 - 第4-2部分：IACS组件的技术安全要求"
+      },
+      "status": "active",
+      "applicable_gsprs": ["17", "17.2", "17.4"],
+      "standard_type": "non_harmonised",
+      "source_url": "https://webstore.iec.ch/en/publication/34421",
+      "source_verified": "2026-06-27",
+      "abstract": "Provides technical security requirements at the component level for industrial automation and control systems. Applicable to networked surgical robot components. Edition 1.1.",
+      "scope": "Component-level security for networked robotic surgical systems."
+    },
+    {
+      "id": "iso-ts-15066-2016",
+      "number": "ISO/TS 15066:2016",
+      "title": {
+        "en": "Robots and robotic devices - Collaborative robots",
+        "zh": "机器人和机器人装置 - 协作机器人"
+      },
+      "status": "active",
+      "applicable_gsprs": ["1", "3", "5", "9"],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/62996.html",
+      "source_verified": "2026-06-27",
+      "abstract": "Specifies safety requirements for collaborative industrial robot systems and the work environment. Applicable principles relevant to human-robot interaction in surgical and rehabilitation robotics. Confirmed 2021.",
+      "scope": "Safety requirements for collaborative robots (applicable principles for medical human-robot interaction)."
+    }
+  ]
+}

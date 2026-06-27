@@ -17,6 +17,81 @@
       "abstract": "Specifies construction, design and performance requirements and test methods for medical face masks.",
       "scope": "Medical face masks -- Requirements and test methods.",
       "source_verified": "2026-06-24"
+    },
+    {
+      "id": "en-455-1-2020",
+      "number": "EN 455-1:2020",
+      "title": {
+        "en": "Medical gloves for single use - Part 1: Requirements and testing for freedom from holes",
+        "zh": "一次性使用医用手套 - 第1部分：无孔检测的要求和试验"
+      },
+      "status": "active",
+      "applicable_gsprs": ["1", "3", "5", "10"],
+      "standard_type": "non_harmonised",
+      "source_url": "https://standards.iteh.ai/catalog/standards/cen/97e37a4a-0ae5-44c3-afe9-857ad0e6bbf7/en-455-1-2020",
+      "source_verified": "2026-06-27",
+      "abstract": "Specifies requirements and methods of test for medical gloves for single use to ensure freedom from holes. Edition 3.",
+      "scope": "Hole-free integrity requirements for single-use medical gloves."
+    },
+    {
+      "id": "en-455-2-2015",
+      "number": "EN 455-2:2015",
+      "title": {
+        "en": "Medical gloves for single use - Part 2: Requirements and testing for physical properties",
+        "zh": "一次性使用医用手套 - 第2部分：物理性能的要求和试验"
+      },
+      "status": "active",
+      "applicable_gsprs": ["1", "3", "5", "10"],
+      "standard_type": "non_harmonised",
+      "source_url": "https://standards.iteh.ai/catalog/standards/cen/11b17d03-e57a-4b5e-80a1-6cf8f05d4e83/en-455-2-2015",
+      "source_verified": "2026-06-27",
+      "abstract": "Specifies requirements and test methods for physical properties (dimensions, tensile strength) of single-use medical gloves.",
+      "scope": "Physical properties testing of single-use medical gloves."
+    },
+    {
+      "id": "en-455-3-2015",
+      "number": "EN 455-3:2015",
+      "title": {
+        "en": "Medical gloves for single use - Part 3: Requirements and testing for biological evaluation",
+        "zh": "一次性使用医用手套 - 第3部分：生物学评价的要求和试验"
+      },
+      "status": "active",
+      "applicable_gsprs": ["1", "3", "5", "10"],
+      "standard_type": "non_harmonised",
+      "source_url": "https://standards.iteh.ai/catalog/standards/cen/0e6c26e4-ce26-4f98-8e6e-c6c5ef90c58b/en-455-3-2015",
+      "source_verified": "2026-06-27",
+      "abstract": "Specifies requirements and methods of test for the biological evaluation of single-use medical gloves, including extractable protein and powder residue.",
+      "scope": "Biological evaluation of single-use medical gloves (protein, powder)."
+    },
+    {
+      "id": "en-455-4-2009",
+      "number": "EN 455-4:2009",
+      "title": {
+        "en": "Medical gloves for single use - Part 4: Requirements and testing for shelf life determination",
+        "zh": "一次性使用医用手套 - 第4部分：保质期测定的要求和试验"
+      },
+      "status": "active",
+      "applicable_gsprs": ["1", "3", "5", "10"],
+      "standard_type": "non_harmonised",
+      "source_url": "https://standards.iteh.ai/catalog/standards/cen/0a3b5cdd-6de6-44bb-98b3-c0e84e7a6d9a/en-455-4-2009",
+      "source_verified": "2026-06-27",
+      "abstract": "Specifies requirements and methods of test for the determination of shelf life of single-use medical gloves.",
+      "scope": "Shelf life determination for single-use medical gloves."
+    },
+    {
+      "id": "en-iso-22609-2004",
+      "number": "EN ISO 22609:2004",
+      "title": {
+        "en": "Clothing for protection against infectious agents - Medical face masks - Test method for resistance against penetration by synthetic blood (fixed volume, horizontally projected)",
+        "zh": "防感染性病原体的防护服 - 医用口罩 - 防合成血液穿透的试验方法（固定体积，水平投射）"
+      },
+      "status": "active",
+      "applicable_gsprs": ["1", "3", "5", "10"],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/35055.html",
+      "source_verified": "2026-06-27",
+      "abstract": "Describes a test method for resistance of medical face masks against penetration by synthetic blood. Confirmed 2020.",
+      "scope": "Synthetic blood penetration resistance testing for medical face masks."
     }
   ]
 }

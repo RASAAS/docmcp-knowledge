@@ -57,6 +57,81 @@
         "14.2"
       ],
       "abstract": "Particular requirements for external cardiac pacemakers."
+    },
+    {
+      "id": "iso-25539-1-2017",
+      "number": "ISO 25539-1:2017",
+      "title": {
+        "en": "Cardiovascular implants - Endovascular devices - Part 1: Endovascular prostheses",
+        "zh": "心血管植入物 - 血管内器械 - 第1部分：血管内假体"
+      },
+      "status": "active",
+      "applicable_gsprs": ["1", "3", "5", "10"],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/63457.html",
+      "source_verified": "2026-06-27",
+      "abstract": "Specifies requirements for endovascular prostheses (stent-grafts) including design, material, sterility, biocompatibility, packaging, and labelling. Confirmed 2023.",
+      "scope": "Endovascular prostheses (stent-grafts for aortic and peripheral vascular applications)."
+    },
+    {
+      "id": "iso-25539-2-2020",
+      "number": "ISO 25539-2:2020",
+      "title": {
+        "en": "Cardiovascular implants - Endovascular devices - Part 2: Vascular stents",
+        "zh": "心血管植入物 - 血管内器械 - 第2部分：血管支架"
+      },
+      "status": "active",
+      "applicable_gsprs": ["1", "3", "5", "10"],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/72720.html",
+      "source_verified": "2026-06-27",
+      "abstract": "Specifies requirements for vascular stents based upon current medical knowledge, including design attributes, materials, design evaluation, manufacturing, sterilization, packaging and information supplied by the manufacturer. Edition 2.",
+      "scope": "Vascular stents for coronary, peripheral, and neurovascular applications."
+    },
+    {
+      "id": "iso-5840-1-2021",
+      "number": "ISO 5840-1:2021",
+      "title": {
+        "en": "Cardiovascular implants - Cardiac valve prostheses - Part 1: General requirements",
+        "zh": "心血管植入物 - 人工心脏瓣膜 - 第1部分：通用要求"
+      },
+      "status": "active",
+      "applicable_gsprs": ["1", "3", "5", "10"],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/77034.html",
+      "source_verified": "2026-06-27",
+      "abstract": "Outlines general requirements for cardiac valve substitutes and provides a framework for qualification and ongoing evaluation. Edition 1.",
+      "scope": "General requirements for heart valve prostheses (mechanical and biological)."
+    },
+    {
+      "id": "iec-60601-2-27-2011",
+      "number": "IEC 60601-2-27:2011",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-27: Particular requirements for the basic safety and essential performance of electrocardiographic monitoring equipment",
+        "zh": "医用电气设备 - 第2-27部分：心电监护设备的基本安全和基本性能的特殊要求"
+      },
+      "status": "active",
+      "applicable_gsprs": ["1", "3", "14"],
+      "standard_type": "non_harmonised",
+      "source_url": "https://webstore.iec.ch/en/publication/2637",
+      "source_verified": "2026-06-27",
+      "abstract": "Applies to the basic safety and essential performance of electrocardiographic monitoring equipment. Edition 3.",
+      "scope": "ECG monitoring equipment for patient monitoring in clinical settings."
+    },
+    {
+      "id": "iec-60601-2-34-2024",
+      "number": "IEC 60601-2-34:2024",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-34: Particular requirements for the basic safety and essential performance of invasive blood pressure monitoring equipment",
+        "zh": "医用电气设备 - 第2-34部分：有创血压监测设备的基本安全和基本性能的特殊要求"
+      },
+      "status": "active",
+      "applicable_gsprs": ["1", "3", "14"],
+      "standard_type": "non_harmonised",
+      "source_url": "https://webstore.iec.ch/en/publication/66893",
+      "source_verified": "2026-06-27",
+      "abstract": "Applies to the basic safety and essential performance of invasive blood pressure monitoring equipment. Edition 4, published 2024-10.",
+      "scope": "Invasive blood pressure monitoring equipment."
     }
   ]
 }

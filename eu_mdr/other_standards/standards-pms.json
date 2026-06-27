@@ -19,6 +19,67 @@
       "source_url": "https://www.iso.org/standard/67942.html",
       "abstract": "Provides guidance on processes for post-market surveillance by manufacturers of medical devices.",
       "source_verified": "2026-06-24"
+    },
+    {
+      "id": "iso-tr-20416-2020-amd1-2024",
+      "number": "ISO/TR 20416:2020/Amd 1:2024",
+      "title": {
+        "en": "Medical devices - Post-market surveillance for manufacturers - Amendment 1",
+        "zh": "医疗器械 - 制造商的上市后监督 - 修正案1"
+      },
+      "status": "active",
+      "applicable_gsprs": ["1", "3"],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/85899.html",
+      "source_verified": "2026-06-27",
+      "abstract": "Amendment 1 provides additional guidance on PMS processes and updates references to the latest regulatory frameworks. Published 2024.",
+      "scope": "Updated guidance on post-market surveillance for medical device manufacturers."
+    },
+    {
+      "id": "iso-20916-2019-pms",
+      "number": "ISO 20916:2019",
+      "title": {
+        "en": "In vitro diagnostic medical devices - Clinical performance studies using specimens from human subjects - Good study practice",
+        "zh": "体外诊断医疗器械 - 使用人体标本的临床性能研究 - 良好研究实践"
+      },
+      "status": "active",
+      "applicable_gsprs": ["1", "3", "6"],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/69455.html",
+      "source_verified": "2026-06-27",
+      "abstract": "Specifies requirements for good clinical performance study practice for IVD device post-market performance studies using human specimens.",
+      "scope": "Good practice for clinical performance studies of IVD devices (PMS context).",
+      "note": "Relevant for PMCF-equivalent studies for IVD devices."
+    },
+    {
+      "id": "aami-tir73-2019",
+      "number": "AAMI TIR73:2019",
+      "title": {
+        "en": "Guidance for the application of medical device standards related to complaint handling and the MDR/IVDR vigilance reporting",
+        "zh": "与投诉处理和MDR/IVDR警戒报告相关的医疗器械标准应用指南"
+      },
+      "status": "active",
+      "applicable_gsprs": ["1", "3"],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.aami.org/standards/aami-tir73",
+      "source_verified": "2026-06-27",
+      "abstract": "Provides guidance on correlating medical device complaint handling processes with EU MDR/IVDR vigilance reporting requirements.",
+      "scope": "Complaint handling and vigilance reporting alignment with EU MDR."
+    },
+    {
+      "id": "iso-16142-1-2016",
+      "number": "ISO 16142-1:2016",
+      "title": {
+        "en": "Medical devices - Recognized essential principles of safety and performance of medical devices - Part 1: General essential principles and additional specific essential principles for all non-IVD medical devices and guidance on the selection of standards",
+        "zh": "医疗器械 - 公认的医疗器械安全和性能基本原则 - 第1部分：所有非IVD医疗器械的一般基本原则和附加特定基本原则以及标准选择指南"
+      },
+      "status": "active",
+      "applicable_gsprs": ["1", "2", "3"],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/63939.html",
+      "source_verified": "2026-06-27",
+      "abstract": "Identifies and describes recognized essential principles of safety and performance of medical devices, and provides guidance on selection of standards. Critical reference for GSPR compliance mapping.",
+      "scope": "Essential principles of safety and performance mapped to standards selection (supports PMS/PMCF planning)."
     }
   ]
 }

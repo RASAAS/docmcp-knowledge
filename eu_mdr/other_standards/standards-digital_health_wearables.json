@@ -1,0 +1,80 @@
+{
+  "standards": [
+    {
+      "id": "iec-62304-2006-a1-2015",
+      "number": "IEC 62304:2006+AMD1:2015",
+      "title": {
+        "en": "Medical device software - Software life cycle processes",
+        "zh": "医疗器械软件 - 软件生命周期过程"
+      },
+      "status": "active",
+      "applicable_gsprs": ["1", "3", "14", "17"],
+      "standard_type": "harmonised",
+      "source_url": "https://webstore.iec.ch/en/publication/22794",
+      "source_verified": "2026-06-27",
+      "abstract": "Defines the lifecycle requirements for medical device software development and maintenance. Harmonized under EU MDR. Critical for all digital health and wearable medical devices with software.",
+      "scope": "Software lifecycle processes for medical device software (applies to SaMD, SiMD, wearable apps).",
+      "note": "Mandatory for wearable medical devices with embedded or companion software."
+    },
+    {
+      "id": "iso-ieee-11073-10101-2020",
+      "number": "ISO/IEEE 11073-10101:2020",
+      "title": {
+        "en": "Health informatics - Device interoperability - Part 10101: Nomenclature",
+        "zh": "健康信息学 - 设备互操作性 - 第10101部分：命名法"
+      },
+      "status": "active",
+      "applicable_gsprs": ["14", "17"],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/72577.html",
+      "source_verified": "2026-06-27",
+      "abstract": "Provides nomenclature for communication between personal health devices and managers. Essential for wearable medical devices that transmit physiological data.",
+      "scope": "Nomenclature for personal health device communication (wearables, home monitors)."
+    },
+    {
+      "id": "iso-ieee-11073-10417-2024",
+      "number": "ISO/IEEE 11073-10417:2024",
+      "title": {
+        "en": "Health informatics - Device interoperability - Part 10417: Personal health device communication - Device specialization - Glucose meter",
+        "zh": "健康信息学 - 设备互操作性 - 第10417部分：个人健康设备通信 - 设备专化 - 血糖仪"
+      },
+      "status": "active",
+      "applicable_gsprs": ["14", "17"],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/85643.html",
+      "source_verified": "2026-06-27",
+      "abstract": "Establishes a normative definition of communication between personal glucose meter devices and compute engines. Edition 3. Published 2024.",
+      "scope": "Communication protocol for connected glucose meters (CGM wearable devices)."
+    },
+    {
+      "id": "iec-60601-1-11-2015-a1-2020",
+      "number": "IEC 60601-1-11:2015+AMD1:2020",
+      "title": {
+        "en": "Medical electrical equipment - Part 1-11: General requirements for basic safety and essential performance - Collateral standard: Requirements for medical electrical equipment and medical electrical systems used in the home healthcare environment",
+        "zh": "医用电气设备 - 第1-11部分：基本安全和基本性能的通用要求 - 并列标准：家庭保健环境中使用的医用电气设备和医用电气系统的要求"
+      },
+      "status": "active",
+      "applicable_gsprs": ["1", "3", "5", "9", "14"],
+      "standard_type": "harmonised",
+      "source_url": "https://webstore.iec.ch/en/publication/67222",
+      "source_verified": "2026-06-27",
+      "abstract": "Requirements for medical equipment used in home healthcare (wearables, home monitors, telehealth). Covers non-professional user environment considerations. EN IEC 60601-1-11:2015/A1:2020 harmonized under EU MDR.",
+      "scope": "Medical electrical equipment for home healthcare environment (wearables, remote monitoring)."
+    },
+    {
+      "id": "iso-ts-82304-2-2021",
+      "number": "ISO/TS 82304-2:2021",
+      "title": {
+        "en": "Health software - Part 2: Health and wellness apps - Quality and reliability",
+        "zh": "健康软件 - 第2部分：健康和保健应用程序 - 质量和可靠性"
+      },
+      "status": "active",
+      "applicable_gsprs": ["1", "3", "14", "17"],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/78182.html",
+      "source_verified": "2026-06-27",
+      "abstract": "Defines quality and reliability requirements for health and wellness apps. Applicable to mobile health apps and wearable companion software. Provides an app quality assessment framework.",
+      "scope": "Quality framework for health and wellness mobile apps (mHealth)."
+    }
+  ]
+}

@@ -6,7 +6,7 @@ title: Other Applicable Standards
 
 Beyond harmonised standards, medical device manufacturers commonly apply the following international standards (ISO, IEC, ASTM, etc.) to demonstrate compliance with EU MDR GSPR. While these do not create a *presumption of conformity*, they represent accepted state-of-the-art practices.
 
-::: info Total: **242** standards across **51** categories
+::: info Total: **358** standards across **63** categories
 :::
 
 ## Categories
