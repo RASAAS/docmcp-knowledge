@@ -97,6 +97,13 @@ jobs:
           LLM_MODEL: ${{ vars.LLM_MODEL || 'deepseek-v4-pro' }}
         continue-on-error: true
 
+      - name: Run precise standards version check (monthly)
+        id: standards_check
+        if: steps.group.outputs.group == 'shared' || steps.group.outputs.group == 'all'
+        run: |
+          python scripts/check_standards_versions.py --report /tmp/standards_version_report.json
+        continue-on-error: true
+
       - name: Commit updated state and version registry
         run: |
           git add scripts/.update_state.json scripts/version_registry.json || true
@@ -120,6 +127,13 @@ jobs:
             echo "count=0" >> $GITHUB_OUTPUT
             echo "confirmed=0" >> $GITHUB_OUTPUT
             echo "db_confirmed=0" >> $GITHUB_OUTPUT
+          fi
+          # Read standards version check report
+          if [ -f /tmp/standards_version_report.json ]; then
+            STD_UPDATES=$(python -c "import json; d=json.load(open('/tmp/standards_version_report.json')); print(d['updates_detected'])")
+            echo "std_updates=$STD_UPDATES" >> $GITHUB_OUTPUT
+          else
+            echo "std_updates=0" >> $GITHUB_OUTPUT
           fi
 
       - name: Generate content drafts and create PR
@@ -183,11 +197,31 @@ jobs:
         continue-on-error: true
 
       - name: Create tracking issue if DB-confirmed updates found
-        if: steps.report.outputs.db_confirmed != '0' || steps.report.outputs.confirmed != '0'
+        if: steps.report.outputs.db_confirmed != '0' || steps.report.outputs.confirmed != '0' || steps.report.outputs.std_updates != '0'
         uses: actions/github-script@v7
         with:
           script: |
             const fs = require('fs');
+            let body = `## Automated Regulatory Update Detection\n\n`;
+
+            // Standards version check results (precise direct-source monitoring)
+            if (fs.existsSync('/tmp/standards_version_report.json')) {
+              const stdReport = JSON.parse(fs.readFileSync('/tmp/standards_version_report.json', 'utf8'));
+              if (stdReport.updates_detected > 0) {
+                body += `## Standards Version Updates (Direct Source Check)\n\n`;
+                body += `**Checked**: ${stdReport.total_checked} standards | **Updates found**: ${stdReport.updates_detected}\n\n`;
+                for (const u of stdReport.updates) {
+                  body += `- **${u.number}** (\`${u.category}\`): ${u.signal}\n`;
+                  if (u.new_url) body += `  - New URL: ${u.new_url}\n`;
+                }
+                body += `\n`;
+              }
+            }
+
+            // Existing detection report
+            if (!fs.existsSync('/tmp/update_report.json')) {
+              body += `*No regulatory update report generated.*\n`;
+            } else {
             const report = JSON.parse(fs.readFileSync('/tmp/update_report.json', 'utf8'));
             const updates = report.updates;
             const confirmed = updates.filter(u => u.confirmed_update);
@@ -195,7 +229,7 @@ jobs:
             const checkers = report.checkers_used || {};
             const dbStats = report.db_stats || {};
 
-            let body = `## Automated Regulatory Update Detection\n\n`;
+            body += `## Regulatory Document Updates (Vertex AI / CSE)\n\n`;
             body += `**Detected at**: ${report.checked_at}\n`;
             body += `**DB-confirmed new**: ${report.db_confirmed_new || 0}\n`;
             body += `**LLM-confirmed updates**: ${report.confirmed_updates || 0}\n`;
@@ -258,6 +292,7 @@ jobs:
             body += `\n---\n`;
             body += `*Only DB-confirmed new documents and LLM-confirmed updates trigger this issue.*\n`;
             body += `*Pure ETag/CDN noise is automatically filtered.*\n`;
+            } // end of existing report block
 
             await github.rest.issues.create({
               owner: context.repo.owner,
