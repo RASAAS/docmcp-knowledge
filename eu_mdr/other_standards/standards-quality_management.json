@@ -8,7 +8,7 @@
         "zh": "医疗器械 - 质量管理体系 - 用于法规的要求"
       },
       "status": "active",
-      "source_url": "https://www.iso.org/standard/59752.html",
+      "source_url": "https://www.iso.org/search.html?q=ISO%2013485",
       "scope": {
         "en": "Quality management system requirements",
         "zh": ""
@@ -39,7 +39,7 @@
         "2"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/standard/85929.html",
+      "source_url": "https://www.iso.org/search.html?q=ISO%2013485",
       "source_verified": "2026-06-27",
       "abstract": "Amendment 1 to ISO 13485:2016. Provides editorial and technical updates to the medical device QMS standard.",
       "scope": "Amendment to the quality management system standard for medical devices."
@@ -57,7 +57,7 @@
         "2"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/standard/70017.html",
+      "source_url": "https://www.iso.org/search.html?q=ISO%2019011",
       "source_verified": "2026-06-27",
       "abstract": "Provides guidance on auditing management systems, including principles of auditing, managing an audit programme, conducting management system audits, and competence of auditors. Edition 3.",
       "scope": "Auditing guidelines for quality management systems (applicable to ISO 13485 audits)."
@@ -75,7 +75,7 @@
         "2"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/standard/38613.html",
+      "source_url": "https://www.iso.org/search.html?q=ISO/TR%2014969",
       "source_verified": "2026-06-27",
       "abstract": "Provides guidance on the application of ISO 13485 for medical device manufacturers. While written for ISO 13485:2003, the principles remain applicable. Confirmed 2020.",
       "scope": "Guidance on QMS application for medical device manufacturers.",

@@ -20,7 +20,7 @@
         "zh": ""
       },
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/publication/59898",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC/TR%2062366-2",
       "abstract": "Provides guidance on the application of usability engineering to medical devices, complementing IEC 62366-1."
     },
     {
@@ -31,7 +31,7 @@
         "zh": "医疗器械 - 第1部分：可用性工程在医疗器械中的应用"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/67220",
+      "source_url": "https://webstore.iec.ch/en/search?q=EN%20IEC%2062366-1",
       "applicable_gsprs": [
         "1",
         "3",
@@ -75,7 +75,7 @@
         "zh": "医疗器械 - 第1部分：可用性工程在医疗器械中的应用"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/67220",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2062366-1",
       "scope": {
         "en": "Usability engineering process",
         "zh": ""
@@ -101,7 +101,7 @@
         "22"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/publication/59898",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2062366-2",
       "abstract": "Provides guidance on the application of usability engineering to medical devices.",
       "scope": "Medical devices -- Application of usability engineering to medical devices -- Guidance on the application of usability engineering to medical devices."
     }

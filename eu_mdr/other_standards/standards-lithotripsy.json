@@ -8,7 +8,7 @@
         "zh": "医用电气设备 - 第2-36部分：体外引发的碎石设备的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/67618",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-36",
       "source_verified": "",
       "category": "lithotripsy",
       "standard_type": "non_harmonised",
@@ -32,7 +32,7 @@
         "18"
       ],
       "standard_type": "international",
-      "source_url": "https://webstore.iec.ch/en/publication/5891",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2061846",
       "source_verified": true,
       "abstract": "Characteristics of fields produced by pressure pulse lithotripters.",
       "scope": "Lithotripter field characterization"
@@ -50,7 +50,7 @@
         "18"
       ],
       "standard_type": "international",
-      "source_url": "https://webstore.iec.ch/en/publication/5892",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2061847",
       "source_verified": true,
       "abstract": "Measurement and declaration of basic output characteristics of ultrasonic surgical systems.",
       "scope": "Ultrasonic surgical systems output"

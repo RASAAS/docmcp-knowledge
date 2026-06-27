@@ -8,7 +8,7 @@
         "zh": "医用电气设备 - 第2-26部分：脑电图设备的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/63531",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-26",
       "source_verified": "",
       "category": "neurology",
       "standard_type": "non_harmonised",
@@ -27,7 +27,7 @@
         "zh": "医用电气设备 - 第2-40部分：肌电图和诱发反应设备的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/25993",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-40",
       "source_verified": "",
       "category": "neurology",
       "standard_type": "non_harmonised",
@@ -46,7 +46,7 @@
         "zh": "医用电气设备 - 第2-14部分：颅脑伽玛射束治疗设备的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/68455",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-14",
       "source_verified": "",
       "category": "neurology",
       "standard_type": "non_harmonised",
@@ -65,7 +65,7 @@
         "zh": "医用电气设备 - 第2-71部分：功能性神经刺激器(FNS)设备的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/28589",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2080601-2-71",
       "source_verified": "",
       "category": "neurology",
       "standard_type": "non_harmonised",
@@ -91,7 +91,7 @@
         "10"
       ],
       "standard_type": "harmonised",
-      "source_url": "https://www.iso.org/standard/82379.html",
+      "source_url": "https://www.iso.org/search.html?q=ISO%207197",
       "source_verified": "2026-06-27",
       "abstract": "Specifies requirements for sterile, single-use hydrocephalus shunts and components. Edition 4. EN ISO 7197:2024 harmonized under EU MDR (replacing EN ISO 7197:2009). Published via EU 2026/193.",
       "scope": "Hydrocephalus shunts and neurosurgical drainage systems.",

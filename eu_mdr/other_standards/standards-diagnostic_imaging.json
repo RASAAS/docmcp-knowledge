@@ -8,7 +8,7 @@
         "zh": "医用电气设备 - 第2-28部分：X射线管组件的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/32908",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-28",
       "source_verified": "2026-06-24",
       "category": "diagnostic_imaging",
       "standard_type": "non_harmonised",
@@ -27,7 +27,7 @@
         "zh": "医用电气设备 - 第2-33部分：医用磁共振设备的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/66896",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-33",
       "source_verified": "2026-06-24",
       "category": "diagnostic_imaging",
       "standard_type": "non_harmonised",
@@ -46,7 +46,7 @@
         "zh": "医用电气设备 - 第2-43部分：介入操作用X射线设备的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/67620",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-43",
       "source_verified": "2026-06-24",
       "category": "diagnostic_imaging",
       "standard_type": "non_harmonised",
@@ -65,7 +65,7 @@
         "zh": "医用电气设备 - 第2-44部分：X射线计算机体层摄影设备的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/5216",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-44",
       "source_verified": "2026-06-24",
       "category": "diagnostic_imaging",
       "standard_type": "non_harmonised",
@@ -84,7 +84,7 @@
         "zh": "医用电气设备 - 第2-45部分：乳房X射线摄影设备和乳房立体定位设备的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/67621",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-45",
       "source_verified": "2026-06-24",
       "category": "diagnostic_imaging",
       "standard_type": "non_harmonised",
@@ -103,7 +103,7 @@
         "zh": "医用电气设备 - 第2-54部分：用于透视和摄影的X射线设备的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/66899",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-54",
       "source_verified": "2026-06-24",
       "category": "diagnostic_imaging",
       "standard_type": "non_harmonised",
@@ -122,7 +122,7 @@
         "zh": "医用电气设备 - 医学图像显示系统 - 第1部分：评价方法"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/70108",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2062563-1",
       "source_verified": "2026-06-24",
       "category": "diagnostic_imaging",
       "standard_type": "non_harmonised",
@@ -141,7 +141,7 @@
         "zh": "医用电气设备 - 数字X射线成像设备特性 - 第1-1部分：量子检测效率的测定"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/21937",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2062220-1-1",
       "source_verified": "2026-06-24",
       "category": "diagnostic_imaging",
       "standard_type": "non_harmonised",
@@ -160,7 +160,7 @@
         "zh": "医用电气设备 - 数字X射线成像设备特性 - 第1-2部分：乳腺摄影用探测器"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/6598",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2062220-1-2",
       "source_verified": "2026-06-24",
       "category": "diagnostic_imaging",
       "standard_type": "non_harmonised",
@@ -179,7 +179,7 @@
         "zh": "医用电气设备 - 数字X射线成像设备特性 - 第1-3部分：动态成像用探测器"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/6599",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2062220-1-3",
       "source_verified": "2026-06-24",
       "category": "diagnostic_imaging",
       "standard_type": "non_harmonised",
@@ -198,7 +198,7 @@
         "zh": "医用成像设备质量评价和常规检测 - 第3-5部分：乳腺X射线摄影系统验收和稳定性检测"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/62417",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2061223-3-5",
       "source_verified": "2026-06-24",
       "category": "diagnostic_imaging",
       "standard_type": "non_harmonised",
@@ -217,7 +217,7 @@
         "zh": "磁共振成像设备 - 第1部分：影像质量评估的测定"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/62426",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2062464-1",
       "source_verified": "2026-06-24",
       "category": "diagnostic_imaging",
       "standard_type": "non_harmonised",

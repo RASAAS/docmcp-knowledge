@@ -15,7 +15,7 @@
         "10"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/standard/74514.html",
+      "source_url": "https://www.iso.org/search.html?q=ISO/ASTM%2052900",
       "source_verified": "2026-06-27",
       "abstract": "Establishes and defines terms used in additive manufacturing (AM) technology. Provides fundamental terminology for all AM processes applicable to medical devices. Edition 2.",
       "scope": "Fundamental terminology and principles for additive manufacturing of medical devices."
@@ -34,7 +34,7 @@
         "5"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/standard/67289.html",
+      "source_url": "https://www.iso.org/search.html?q=ISO/ASTM%2052910",
       "source_verified": "2026-06-27",
       "abstract": "Provides requirements, guidelines and recommendations for using additive manufacturing in product design. Applicable to design of 3D-printed medical devices and patient-matched implants.",
       "scope": "Design requirements for additively manufactured products (medical implants, surgical guides)."
@@ -53,7 +53,7 @@
         "5"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/standard/79529.html",
+      "source_url": "https://www.iso.org/search.html?q=ISO/ASTM%2052920",
       "source_verified": "2026-06-27",
       "abstract": "Specifies requirements for qualification of industrial AM processes and production sites. Critical for quality assurance of 3D-printed medical devices in production environments. Edition 1.",
       "scope": "Process and site qualification for additive manufacturing of medical devices."
@@ -93,7 +93,7 @@
         "10"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/standard/72951.html",
+      "source_url": "https://www.iso.org/search.html?q=ISO/ASTM%2052911-1",
       "source_verified": "2026-06-27",
       "abstract": "Provides design recommendations for parts manufactured using laser-based powder bed fusion of metals (L-PBF). Most common AM process for medical device production (titanium, stainless steel).",
       "scope": "Design for laser powder bed fusion of metal medical devices (implants, instruments)."

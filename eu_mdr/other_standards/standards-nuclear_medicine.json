@@ -8,7 +8,7 @@
         "zh": "放射性核素成像设备 - 特性和试验条件 - 第1部分：正电子发射断层摄影（PET）"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/66861",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2061675-1",
       "source_verified": "",
       "category": "nuclear_medicine",
       "standard_type": "non_harmonised",
@@ -27,7 +27,7 @@
         "zh": "放射性核素成像设备 - 特性和试验条件 - 第2部分：单光子发射计算机断层摄影（SPECT）"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/22009",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2061675-2",
       "source_verified": "",
       "category": "nuclear_medicine",
       "standard_type": "non_harmonised",
@@ -51,7 +51,7 @@
         "18"
       ],
       "standard_type": "international",
-      "source_url": "https://webstore.iec.ch/en/publication/66864",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2061675-3",
       "source_verified": true,
       "abstract": "Characteristics and test conditions for gamma camera based wholebody imaging systems.",
       "scope": "Nuclear medicine whole body imaging"
@@ -69,7 +69,7 @@
         "18"
       ],
       "standard_type": "international",
-      "source_url": "https://webstore.iec.ch/en/publication/66850",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2062220-1",
       "source_verified": true,
       "abstract": "Methods for determination of detective quantum efficiency of digital X-ray imaging detectors.",
       "scope": "Digital X-ray detector characterization"

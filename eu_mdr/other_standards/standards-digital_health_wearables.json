@@ -15,7 +15,7 @@
         "17"
       ],
       "standard_type": "harmonised",
-      "source_url": "https://webstore.iec.ch/en/publication/22794",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2062304",
       "source_verified": "2026-06-27",
       "abstract": "Defines the lifecycle requirements for medical device software development and maintenance. Harmonized under EU MDR. Critical for all digital health and wearable medical devices with software.",
       "scope": "Software lifecycle processes for medical device software (applies to SaMD, SiMD, wearable apps).",
@@ -34,7 +34,7 @@
         "17"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/standard/73491.html",
+      "source_url": "https://www.iso.org/search.html?q=ISO/IEEE%2011073-10101",
       "source_verified": "2026-06-27",
       "abstract": "Provides nomenclature for communication between personal health devices and managers. Essential for wearable medical devices that transmit physiological data.",
       "scope": "Nomenclature for personal health device communication (wearables, home monitors)."
@@ -52,7 +52,7 @@
         "17"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/standard/83095.html",
+      "source_url": "https://www.iso.org/search.html?q=ISO/IEEE%2011073-10417",
       "source_verified": "2026-06-27",
       "abstract": "Establishes a normative definition of communication between personal glucose meter devices and compute engines. Edition 3. Published 2024.",
       "scope": "Communication protocol for connected glucose meters (CGM wearable devices)."
@@ -73,7 +73,7 @@
         "14"
       ],
       "standard_type": "harmonised",
-      "source_url": "https://webstore.iec.ch/en/publication/4884",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-1-11",
       "source_verified": "2026-06-27",
       "abstract": "Requirements for medical equipment used in home healthcare (wearables, home monitors, telehealth). Covers non-professional user environment considerations. EN IEC 60601-1-11:2015/A1:2020 harmonized under EU MDR.",
       "scope": "Medical electrical equipment for home healthcare environment (wearables, remote monitoring)."
@@ -93,7 +93,7 @@
         "17"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/standard/78182.html",
+      "source_url": "https://www.iso.org/search.html?q=ISO/TS%2082304-2",
       "source_verified": "2026-06-27",
       "abstract": "Defines quality and reliability requirements for health and wellness apps. Applicable to mobile health apps and wearable companion software. Provides an app quality assessment framework.",
       "scope": "Quality framework for health and wellness mobile apps (mHealth)."

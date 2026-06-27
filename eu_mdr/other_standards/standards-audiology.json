@@ -8,7 +8,7 @@
         "zh": "医用电气设备 - 第2-66部分：助听器和助听器系统的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/62463",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-66",
       "source_verified": "",
       "category": "audiology",
       "standard_type": "non_harmonised",
@@ -32,7 +32,7 @@
         "18"
       ],
       "standard_type": "international",
-      "source_url": "https://webstore.iec.ch/en/publication/28600",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060645-1",
       "source_verified": true,
       "abstract": "Requirements for equipment for pure-tone and speech audiometry.",
       "scope": "Audiometric equipment"
@@ -50,7 +50,7 @@
         "18"
       ],
       "standard_type": "international",
-      "source_url": "https://webstore.iec.ch/en/publication/63620",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060645-3",
       "source_verified": true,
       "abstract": "Requirements for test signals of short duration used in audiometric equipment.",
       "scope": "Audiometric test signals"
@@ -68,7 +68,7 @@
         "18"
       ],
       "standard_type": "international",
-      "source_url": "https://webstore.iec.ch/en/publication/2771",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060645-5",
       "source_verified": true,
       "abstract": "Requirements for instruments measuring aural acoustic impedance and admittance.",
       "scope": "Aural impedance measurement"

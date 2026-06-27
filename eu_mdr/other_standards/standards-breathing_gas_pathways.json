@@ -1,14 +1,14 @@
 {
   "standards": [
     {
-      "id": "eu_mdr-os-iec-60601-2-87-2024",
-      "number": "IEC 60601-2-87:2024",
+      "id": "iso-80601-2-87-2021",
+      "number": "ISO 80601-2-87:2021",
       "title": {
-        "en": "Medical electrical equipment - Part 2-87: Particular requirements for the basic safety and essential performance of high-frequency ventilators",
-        "zh": "医用电气设备 - 第2-87部分：高频振荡呼吸机的基本安全和基本性能专用要求"
+        "en": "Medical electrical equipment - Part 2-87: Particular requirements for basic safety and essential performance of high-frequency ventilators",
+        "zh": "医用电气设备 - 第2-87部分：高频呼吸机的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/66234",
+      "source_url": "https://www.iso.org/standard/74486.html",
       "source_verified": "",
       "category": "breathing_gas_pathways",
       "standard_type": "non_harmonised",

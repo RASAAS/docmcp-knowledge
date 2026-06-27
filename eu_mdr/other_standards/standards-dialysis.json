@@ -8,7 +8,7 @@
         "zh": "医用电气设备 - 第2-39部分：腹膜透析设备的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/62453",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-39",
       "source_verified": "",
       "category": "dialysis",
       "standard_type": "non_harmonised",
@@ -35,7 +35,7 @@
         "14"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/publication/28726",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-16",
       "source_verified": "2026-06-27",
       "abstract": "Applies to the basic safety and essential performance of haemodialysis, haemodiafiltration, and haemofiltration equipment. Edition 3.",
       "scope": "Haemodialysis, haemodiafiltration and haemofiltration equipment."
@@ -55,7 +55,7 @@
         "10"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/standard/67610.html",
+      "source_url": "https://www.iso.org/search.html?q=ISO%2023500-1",
       "source_verified": "2026-06-27",
       "abstract": "Specifies general requirements for preparation and quality management of fluids used in haemodialysis and related therapies.",
       "scope": "General requirements for dialysis fluids preparation and quality management."
@@ -75,7 +75,7 @@
         "10"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/standard/67612.html",
+      "source_url": "https://www.iso.org/search.html?q=ISO%2023500-3",
       "source_verified": "2026-06-27",
       "abstract": "Specifies minimum quality requirements for water used for haemodialysis and related therapies.",
       "scope": "Water quality requirements for haemodialysis systems."
@@ -95,7 +95,7 @@
         "10"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/standard/60343.html",
+      "source_url": "https://www.iso.org/search.html?q=ISO%2011663",
       "source_verified": "2026-06-27",
       "abstract": "Specifies minimum requirements for dialysis fluids used for haemodialysis and haemodiafiltration, including chemical and microbiological purity. Confirmed 2020.",
       "scope": "Quality requirements for dialysis fluids."
@@ -116,7 +116,7 @@
         "11"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/standard/69843.html",
+      "source_url": "https://www.iso.org/search.html?q=ISO%208637-1",
       "source_verified": "2026-06-27",
       "abstract": "Specifies requirements for haemodialysers, haemodiafilters, haemofilters and haemoconcentrators for use in extracorporeal blood purification therapies. Edition 3.",
       "scope": "Extracorporeal blood purification devices (dialysers, filters, concentrators)."

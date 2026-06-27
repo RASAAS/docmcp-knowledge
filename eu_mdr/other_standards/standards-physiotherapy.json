@@ -13,7 +13,7 @@
         "18"
       ],
       "standard_type": "international",
-      "source_url": "https://webstore.iec.ch/en/publication/5038",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-10",
       "source_verified": true,
       "abstract": "Requirements for nerve and muscle stimulators used in physiotherapy.",
       "scope": "Nerve and muscle stimulators"
@@ -26,7 +26,7 @@
         "zh": "医用电气设备 - 第2-3部分：短波治疗设备的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/6480",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-3",
       "source_verified": "",
       "category": "physiotherapy",
       "standard_type": "non_harmonised",
@@ -45,7 +45,7 @@
         "zh": "医用电气设备 - 第2-5部分：超声物理治疗设备的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/5000",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-5",
       "source_verified": "",
       "category": "physiotherapy",
       "standard_type": "non_harmonised",
@@ -69,7 +69,7 @@
         "18"
       ],
       "standard_type": "international",
-      "source_url": "https://www.iso.org/standard/33413.html",
+      "source_url": "https://www.iso.org/search.html?q=ISO%2013091-1",
       "source_verified": true,
       "abstract": "Methods for measuring vibrotactile perception thresholds at fingertips.",
       "scope": "Nerve dysfunction assessment"

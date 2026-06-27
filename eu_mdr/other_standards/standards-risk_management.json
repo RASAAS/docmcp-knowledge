@@ -8,7 +8,7 @@
         "zh": "医疗器械 - 风险管理在医疗器械中的应用"
       },
       "status": "active",
-      "source_url": "https://www.iso.org/standard/72704.html",
+      "source_url": "https://www.iso.org/search.html?q=ISO%2014971",
       "scope": {
         "en": "Risk management throughout device lifecycle",
         "zh": ""
@@ -44,7 +44,7 @@
         "3(b)"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/standard/74437.html",
+      "source_url": "https://www.iso.org/search.html?q=ISO/TR%2024971",
       "abstract": "Provides guidance on the application of ISO 14971 risk management to medical devices.",
       "scope": "Medical devices -- Guidance on the application of ISO 14971 for risk management of medical devices.",
       "source_verified": "2026-06-24"
@@ -63,7 +63,7 @@
         "3"
       ],
       "standard_type": "harmonised",
-      "source_url": "https://www.iso.org/standard/84034.html",
+      "source_url": "https://www.iso.org/search.html?q=ISO%2014971",
       "source_verified": "2026-06-27",
       "abstract": "Amendment 1 to ISO 14971:2019. Addresses editorial and technical corrections to the risk management standard for medical devices.",
       "scope": "Amendment to the fundamental risk management standard for medical devices."
@@ -83,7 +83,7 @@
         "17"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/publication/34263",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2080001-1",
       "source_verified": "2026-06-27",
       "abstract": "Specifies requirements for risk management when medical devices or health software are incorporated into IT-networks. Edition 2.",
       "scope": "Risk management for IT networks incorporating medical devices and health software."

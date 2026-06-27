@@ -4,7 +4,7 @@ The following non-harmonised international standards are related to **Breathing 
 
 | Standard | Title | Status | GSPRs | Link |
 |----------|-------|--------|-------|------|
-| IEC 60601-2-87:2024 | Medical electrical equipment - Part 2-87: Particular requirements for the basic safety and essential performance of high-frequency ventilators | active | 14, 14.2 | [Link](https://webstore.iec.ch/en/publication/66234) |
+| ISO 80601-2-87:2021 | Medical electrical equipment - Part 2-87: Particular requirements for basic safety and essential performance of high-frequency ventilators | active | 14, 14.2 | [Link](https://www.iso.org/standard/74486.html) |
 | ISO 18562-1:2024 | Biocompatibility evaluation of breathing gas pathways in healthcare applications - Part 1: Evaluation and testing within a risk management process | active | 10, 14 | [Link](https://www.iso.org/standard/83409.html) |
 | ISO 18562-2:2024 | Biocompatibility evaluation of breathing gas pathways in healthcare applications - Part 2: Tests for emissions of particulate matter | active | 10, 14 | [Link](https://www.iso.org/standard/83410.html) |
 | ISO 18562-3:2024 | Biocompatibility evaluation of breathing gas pathways in healthcare applications - Part 3: Tests for emissions of volatile organic substances | active | 10, 14 | [Link](https://www.iso.org/standard/83411.html) |

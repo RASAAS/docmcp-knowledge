@@ -8,7 +8,7 @@
         "zh": "医用电气设备 - 第2-23部分：经皮分压监测设备的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/5144",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-23",
       "source_verified": "",
       "category": "patient_monitoring",
       "standard_type": "non_harmonised",
@@ -27,7 +27,7 @@
         "zh": "医用电气设备 - 第2-85部分：脉搏血氧仪设备的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/64740",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-85",
       "source_verified": "",
       "category": "patient_monitoring",
       "standard_type": "non_harmonised",
@@ -46,7 +46,7 @@
         "zh": "医用电气设备 - 第2-30部分：无创血压监测设备的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/29280",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-30",
       "source_verified": "",
       "category": "patient_monitoring",
       "standard_type": "non_harmonised",
@@ -65,7 +65,7 @@
         "zh": "医用电气设备 - 第2-61部分：脉搏血氧仪设备的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/5392",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2080601-2-61",
       "source_verified": "",
       "category": "patient_monitoring",
       "standard_type": "non_harmonised",
@@ -84,7 +84,7 @@
         "zh": "医用电气设备 - 第2-56部分：临床体温计的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/28586",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2080601-2-56",
       "source_verified": "",
       "category": "patient_monitoring",
       "standard_type": "non_harmonised",
@@ -103,7 +103,7 @@
         "zh": "医用电气设备 - 第2-59部分：通气障碍筛查热像仪设备的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/28587",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2080601-2-59",
       "source_verified": "",
       "category": "patient_monitoring",
       "standard_type": "non_harmonised",
@@ -122,7 +122,7 @@
         "zh": "医用电气设备 - 第2-56部分：临床体温计的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://www.iso.org/standard/67348.html",
+      "source_url": "https://www.iso.org/search.html?q=ISO%2080601-2-56",
       "source_verified": "2026-06-24",
       "category": "patient_monitoring",
       "standard_type": "non_harmonised",
@@ -142,7 +142,7 @@
         "zh": "医用电气设备 - 第2-61部分：脉搏血氧仪设备的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://www.iso.org/standard/67963.html",
+      "source_url": "https://www.iso.org/search.html?q=ISO%2080601-2-61",
       "source_verified": "",
       "category": "patient_monitoring",
       "standard_type": "non_harmonised",
@@ -161,7 +161,7 @@
         "zh": "医用电气设备 - 第1-10部分：基本安全和基本性能的通用要求 - 并列标准：生理闭环控制器的开发要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/4886",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-1-10",
       "source_verified": "",
       "category": "patient_monitoring",
       "standard_type": "non_harmonised",

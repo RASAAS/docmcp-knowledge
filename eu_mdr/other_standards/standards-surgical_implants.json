@@ -13,7 +13,7 @@
         "14"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/standard/83775.html",
+      "source_url": "https://www.iso.org/search.html?q=ISO%205832-1",
       "abstract": "Specifies requirements for wrought stainless steel used in the manufacture of surgical implants.",
       "scope": "Implants for surgery -- Metallic materials -- Wrought stainless steel.",
       "source_verified": "2026-06-24",
@@ -32,7 +32,7 @@
         "14"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/standard/79626.html",
+      "source_url": "https://www.iso.org/search.html?q=ISO%205832-3",
       "abstract": "Specifies requirements for wrought titanium 6-aluminium 4-vanadium alloy used in the manufacture of surgical implants.",
       "scope": "Implants for surgery -- Metallic materials -- Wrought titanium 6-aluminium 4-vanadium alloy.",
       "source_verified": "2026-06-24",
@@ -52,7 +52,7 @@
         "19"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/standard/77033.html",
+      "source_url": "https://www.iso.org/search.html?q=ISO%205840-1",
       "abstract": "Specifies general requirements for cardiac valve prostheses and components for surgical and transcatheter implantation.",
       "scope": "Cardiovascular implants -- Cardiac valve prostheses -- General requirements.",
       "source_verified": "2026-06-24"
@@ -72,7 +72,7 @@
         "23"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/standard/52804.html",
+      "source_url": "https://www.iso.org/search.html?q=ISO%2014708-1",
       "abstract": "Specifies general requirements for active implantable medical devices, including safety, biocompatibility and electromagnetic compatibility.",
       "scope": "Implants for surgery -- Active implantable medical devices -- General requirements for safety, marking and for information to be provided by the manufacturer.",
       "source_verified": "2026-06-24"
@@ -122,7 +122,7 @@
         "zh": "医用电气设备 - 第2-41部分：外科照明设备和诊断照明设备的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/64385",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-41",
       "source_verified": "",
       "category": "surgical_implants",
       "standard_type": "non_harmonised",
@@ -141,7 +141,7 @@
         "zh": "医用电气设备 - 第2-46部分：手术台的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/59893",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-46",
       "source_verified": "",
       "category": "surgical_implants",
       "standard_type": "non_harmonised",
@@ -160,7 +160,7 @@
         "zh": "医用电气设备 - 第2-76部分：低能X射线照相成像设备的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/62486",
+      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-76",
       "source_verified": "",
       "category": "surgical_implants",
       "standard_type": "non_harmonised",
