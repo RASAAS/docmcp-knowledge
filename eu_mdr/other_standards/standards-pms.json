@@ -21,24 +21,6 @@
       "source_verified": "2026-06-24"
     },
     {
-      "id": "iso-tr-20416-2020-amd1-2024",
-      "number": "ISO/TR 20416:2020/Amd 1:2024",
-      "title": {
-        "en": "Medical devices - Post-market surveillance for manufacturers - Amendment 1",
-        "zh": "医疗器械 - 制造商的上市后监督 - 修正案1"
-      },
-      "status": "active",
-      "applicable_gsprs": [
-        "1",
-        "3"
-      ],
-      "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/standard/88127.html",
-      "source_verified": "2026-06-27",
-      "abstract": "Amendment 1 provides additional guidance on PMS processes and updates references to the latest regulatory frameworks. Published 2024.",
-      "scope": "Updated guidance on post-market surveillance for medical device manufacturers."
-    },
-    {
       "id": "iso-20916-2019-pms",
       "number": "ISO 20916:2019",
       "title": {

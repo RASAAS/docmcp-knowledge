@@ -27,24 +27,6 @@
       "abstract": "Specifies requirements for a quality management system where an organization needs to demonstrate its ability to provide medical devices that consistently meet applicable regulatory requirements."
     },
     {
-      "id": "iso-13485-2016-amd1-2024",
-      "number": "ISO 13485:2016/Amd 1:2024",
-      "title": {
-        "en": "Medical devices - Quality management systems - Requirements for regulatory purposes - Amendment 1",
-        "zh": "医疗器械 - 质量管理体系 - 用于法规的要求 - 修正案1"
-      },
-      "status": "active",
-      "applicable_gsprs": [
-        "1",
-        "2"
-      ],
-      "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/standard/85494.html",
-      "source_verified": "2026-06-27",
-      "abstract": "Amendment 1 to ISO 13485:2016. Provides editorial and technical updates to the medical device QMS standard.",
-      "scope": "Amendment to the quality management system standard for medical devices."
-    },
-    {
       "id": "iso-19011-2018",
       "number": "ISO 19011:2018",
       "title": {

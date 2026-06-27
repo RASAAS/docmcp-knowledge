@@ -44,29 +44,10 @@
         "3(b)"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/standard/75498.html",
+      "source_url": "https://www.iso.org/standard/74437.html",
       "abstract": "Provides guidance on the application of ISO 14971 risk management to medical devices.",
       "scope": "Medical devices -- Guidance on the application of ISO 14971 for risk management of medical devices.",
-      "source_verified": "2026-06-24"
-    },
-    {
-      "id": "iso-14971-2019-amd1-2024",
-      "number": "ISO 14971:2019/Amd 1:2024",
-      "title": {
-        "en": "Medical devices - Application of risk management to medical devices - Amendment 1",
-        "zh": "医疗器械 - 医疗器械风险管理的应用 - 修正案1"
-      },
-      "status": "active",
-      "applicable_gsprs": [
-        "1",
-        "2",
-        "3"
-      ],
-      "standard_type": "harmonised",
-      "source_url": "https://www.iso.org/standard/85609.html",
-      "source_verified": "2026-06-27",
-      "abstract": "Amendment 1 to ISO 14971:2019. Addresses editorial and technical corrections to the risk management standard for medical devices.",
-      "scope": "Amendment to the fundamental risk management standard for medical devices."
+      "source_verified": "2026-06-27"
     },
     {
       "id": "iec-80001-1-2021-rm",
