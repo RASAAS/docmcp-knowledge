@@ -42,7 +42,7 @@
     },
     {
       "id": "iso-23500-1-2019",
-      "number": "ISO 23500-1:2019",
+      "number": "ISO 23500-1:2024",
       "title": {
         "en": "Preparation and quality management of fluids for haemodialysis and related therapies - Part 1: General requirements",
         "zh": "血液透析及相关治疗用液体的制备和质量管理 - 第1部分：通用要求"
@@ -55,14 +55,15 @@
         "10"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO%2023500-1",
+      "source_url": "https://www.iso.org/standard/84368.html",
       "source_verified": "2026-06-27",
       "abstract": "Specifies general requirements for preparation and quality management of fluids used in haemodialysis and related therapies.",
-      "scope": "General requirements for dialysis fluids preparation and quality management."
+      "scope": "General requirements for dialysis fluids preparation and quality management.",
+      "title_en": "Preparation and quality management of fluids for haemodialysis and related therapies -- Part 1: General requirements"
     },
     {
       "id": "iso-23500-3-2019",
-      "number": "ISO 23500-3:2019",
+      "number": "ISO 23500-3:2024",
       "title": {
         "en": "Preparation and quality management of fluids for haemodialysis and related therapies - Part 3: Water for haemodialysis and related therapies",
         "zh": "血液透析及相关治疗用液体的制备和质量管理 - 第3部分：血液透析及相关治疗用水"
@@ -75,14 +76,15 @@
         "10"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO%2023500-3",
+      "source_url": "https://www.iso.org/standard/84370.html",
       "source_verified": "2026-06-27",
       "abstract": "Specifies minimum quality requirements for water used for haemodialysis and related therapies.",
-      "scope": "Water quality requirements for haemodialysis systems."
+      "scope": "Water quality requirements for haemodialysis systems.",
+      "title_en": "Preparation and quality management of fluids for haemodialysis and related therapies -- Part 3: Water for haemodialysis and related therapies"
     },
     {
       "id": "iso-11663-2014",
-      "number": "ISO 11663:2014",
+      "number": "ISO 23500-5:2019",
       "title": {
         "en": "Quality of dialysis fluid for haemodialysis and related therapies",
         "zh": "血液透析及相关治疗用透析液的质量"
@@ -95,14 +97,15 @@
         "10"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO%2011663",
+      "source_url": "https://www.iso.org/standard/67614.html",
       "source_verified": "2026-06-27",
       "abstract": "Specifies minimum requirements for dialysis fluids used for haemodialysis and haemodiafiltration, including chemical and microbiological purity. Confirmed 2020.",
-      "scope": "Quality requirements for dialysis fluids."
+      "scope": "Quality requirements for dialysis fluids.",
+      "title_en": "Preparation and quality management of fluids for haemodialysis and related therapies -- Part 5: Quality of dialysis fluid for haemodialysis and related therapies"
     },
     {
       "id": "iso-8637-1-2017",
-      "number": "ISO 8637-1:2017",
+      "number": "ISO 8637-1:2024",
       "title": {
         "en": "Extracorporeal systems for blood purification - Part 1: Haemodialysers, haemodiafilters, haemofilters and haemoconcentrators",
         "zh": "体外血液净化系统 - 第1部分：血液透析器、血液透析滤过器、血液滤过器和血液浓缩器"
@@ -116,10 +119,11 @@
         "11"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO%208637-1",
+      "source_url": "https://www.iso.org/standard/86613.html",
       "source_verified": "2026-06-27",
       "abstract": "Specifies requirements for haemodialysers, haemodiafilters, haemofilters and haemoconcentrators for use in extracorporeal blood purification therapies. Edition 3.",
-      "scope": "Extracorporeal blood purification devices (dialysers, filters, concentrators)."
+      "scope": "Extracorporeal blood purification devices (dialysers, filters, concentrators).",
+      "title_en": "Extracorporeal systems for blood purification -- Part 1: Haemodialysers, haemodiafilters, haemofilters and haemoconcentrators"
     }
   ]
 }

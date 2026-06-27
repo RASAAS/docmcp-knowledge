@@ -4,8 +4,8 @@
 
 | 标准号 | 标题 | 状态 | 适用GSPRs | 官方链接 |
 |--------|------|------|-----------|----------|
-| ISO 5832-1:2024 | 外科植入物 - 金属材料 - 第1部分：锻造不锈钢 | active | 10, 14 | [官方链接](https://www.iso.org/search.html?q=ISO%205832-1) |
-| ISO 5832-3:2021 | 外科植入物 - 金属材料 - 第3部分：锻造钛-6铝-4钒合金 | active | 10, 14 | [官方链接](https://www.iso.org/search.html?q=ISO%205832-3) |
+| ISO 5832-1:2024 | 外科植入物 - 金属材料 - 第1部分：锻造不锈钢 | active | 10, 14 | [官方链接](https://www.iso.org/standard/82120.html) |
+| ISO 5832-3:2021 | 外科植入物 - 金属材料 - 第3部分：锻造钛-6铝-4钒合金 | active | 10, 14 | [官方链接](https://www.iso.org/standard/79954.html) |
 | ISO 5840-1:2021 | 心血管植入物 - 心脏瓣膜假体 - 第1部分：通用要求 | active | 10, 14, 19 | [官方链接](https://www.iso.org/standard/77034.html) |
 | ISO 14708-1:2014 | 外科植入物 - 有源植入式医疗器械 - 第1部分：通用要求 | active | 14, 18, 19, 23 | [官方链接](https://www.iso.org/standard/52804.html) |
 | ASTM F2083-21 | 标准规范 - 膝关节置换假体 | withdrawn | 10, 14 | [官方链接](https://store.astm.org/f2083-21.html) |

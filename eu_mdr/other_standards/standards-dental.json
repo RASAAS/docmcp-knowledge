@@ -2,13 +2,13 @@
   "standards": [
     {
       "id": "eu_mdr-os-iec-60601-2-63-2023",
-      "number": "IEC 60601-2-63:2023",
+      "number": "IEC 60601-2-63:2012+AMD1:2017+AMD2:2021",
       "title": {
         "en": "Medical electrical equipment - Part 2-63: Particular requirements for the basic safety and essential performance of dental extra-oral X-ray equipment",
         "zh": "医用电气设备 - 第2-63部分：口腔外科和口腔内科设备的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-63",
+      "source_url": "https://webstore.iec.ch/en/publication/68977",
       "source_verified": "",
       "category": "dental",
       "standard_type": "non_harmonised",
@@ -21,13 +21,13 @@
     },
     {
       "id": "eu_mdr-os-iec-60601-2-65-2012+amd1-2016",
-      "number": "IEC 60601-2-65:2012+AMD1:2016",
+      "number": "IEC 60601-2-65:2012+AMD1:2017+AMD2:2021",
       "title": {
         "en": "Medical electrical equipment - Part 2-65: Particular requirements for the basic safety and essential performance of dental intra-oral X-ray equipment",
         "zh": "医用电气设备 - 第2-65部分：口腔内X射线设备的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-65",
+      "source_url": "https://webstore.iec.ch/en/publication/68947",
       "source_verified": "",
       "category": "dental",
       "standard_type": "non_harmonised",
@@ -64,7 +64,7 @@
         "zh": "牙科 - 词汇"
       },
       "status": "active",
-      "source_url": "https://www.iso.org/search.html?q=ISO%201942",
+      "source_url": "https://www.iso.org/standard/68288.html",
       "source_verified": "",
       "category": "dental",
       "standard_type": "non_harmonised",
@@ -94,7 +94,7 @@
     },
     {
       "id": "iso-7405-2018",
-      "number": "ISO 7405:2018",
+      "number": "ISO 7405:2025",
       "title": {
         "en": "Dentistry - Evaluation of biocompatibility of medical devices used in dentistry",
         "zh": "牙科 - 用于牙科的医疗器械生物相容性评价"
@@ -104,10 +104,11 @@
         "10"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO%207405",
+      "source_url": "https://www.iso.org/standard/7405",
       "abstract": "Specifies test methods for evaluating biocompatibility of medical devices used in dentistry.",
       "scope": "Dentistry -- Evaluation of biocompatibility of medical devices used in dentistry.",
-      "source_verified": "2026-06-24"
+      "source_verified": "2026-06-24",
+      "title_en": "Dentistry -- Evaluation of biocompatibility of medical devices used in dentistry"
     },
     {
       "id": "iso-7405-2025",
@@ -122,7 +123,7 @@
         "14"
       ],
       "standard_type": "international",
-      "source_url": "https://www.iso.org/standard/85788.html",
+      "source_url": "https://www.iso.org/standard/7405",
       "source_verified": true,
       "abstract": "Biological test methods for evaluating biocompatibility of dental medical devices.",
       "scope": "Dental biocompatibility"

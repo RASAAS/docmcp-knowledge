@@ -8,4 +8,4 @@
 | IEC 60601-2-40:2016 | 医用电气设备 - 第2-40部分：肌电图和诱发反应设备的基本安全和基本性能专用要求 | active | 14, 14.1 | [官方链接](https://webstore.iec.ch/en/publication/25362) |
 | IEC 60601-2-14:2024 | 医用电气设备 - 第2-14部分：颅脑伽玛射束治疗设备的基本安全和基本性能专用要求 | active | 14, 14.1 | [官方链接](https://webstore.iec.ch/en/publication/68377) |
 | IEC 80601-2-71:2015 | 医用电气设备 - 第2-71部分：功能性神经刺激器(FNS)设备的基本安全和基本性能专用要求 | active | 14, 14.1 | [官方链接](https://webstore.iec.ch/en/publication/22497) |
-| ISO 7197:2024 | 神经外科植入物 - 灭菌一次性使用脑积水分流器和组件 | active | 1, 3, 5, 10 | [官方链接](https://www.iso.org/search.html?q=ISO%207197) |
+| ISO 7197:2024 | 神经外科植入物 - 灭菌一次性使用脑积水分流器和组件 | active | 1, 3, 5, 10 | [官方链接](https://www.iso.org/standard/83698.html) |

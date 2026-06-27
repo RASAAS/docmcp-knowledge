@@ -177,7 +177,7 @@
         "17"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO%2011073-10101",
+      "source_url": "https://www.iso.org/standard/77338.html",
       "abstract": "Defines the nomenclature for health informatics device interoperability, providing codes for medical device data.",
       "scope": "Health informatics -- Device interoperability -- Point-of-care medical device communication -- Nomenclature.",
       "source_verified": "2026-06-24"
@@ -195,7 +195,7 @@
         "17"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO/IEEE%2011073-10207",
+      "source_url": "https://www.iso.org/standard/76538.html",
       "abstract": "Specifies domain information and service models for health informatics device interoperability.",
       "scope": "Health informatics -- Personal health device communication -- Domain information model.",
       "source_verified": "2026-06-24"

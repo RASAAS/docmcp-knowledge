@@ -34,14 +34,14 @@
         "17"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO/IEEE%2011073-10101",
+      "source_url": "https://www.iso.org/standard/77338.html",
       "source_verified": "2026-06-27",
       "abstract": "Provides nomenclature for communication between personal health devices and managers. Essential for wearable medical devices that transmit physiological data.",
       "scope": "Nomenclature for personal health device communication (wearables, home monitors)."
     },
     {
       "id": "iso-ieee-11073-10417-2024",
-      "number": "ISO/IEEE 11073-10417:2024",
+      "number": "ISO/IEEE 11073-10417:2017",
       "title": {
         "en": "Health informatics - Device interoperability - Part 10417: Personal health device communication - Device specialization - Glucose meter",
         "zh": "健康信息学 - 设备互操作性 - 第10417部分：个人健康设备通信 - 设备专化 - 血糖仪"
@@ -52,7 +52,7 @@
         "17"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO/IEEE%2011073-10417",
+      "source_url": "https://www.iso.org/standard/70739.html",
       "source_verified": "2026-06-27",
       "abstract": "Establishes a normative definition of communication between personal glucose meter devices and compute engines. Edition 3. Published 2024.",
       "scope": "Communication protocol for connected glucose meters (CGM wearable devices)."
@@ -93,7 +93,7 @@
         "17"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO/TS%2082304-2",
+      "source_url": "https://www.iso.org/standard/78182.html",
       "source_verified": "2026-06-27",
       "abstract": "Defines quality and reliability requirements for health and wellness apps. Applicable to mobile health apps and wearable companion software. Provides an app quality assessment framework.",
       "scope": "Quality framework for health and wellness mobile apps (mHealth)."

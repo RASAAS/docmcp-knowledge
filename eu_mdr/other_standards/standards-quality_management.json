@@ -63,25 +63,6 @@
       "scope": "Auditing guidelines for quality management systems (applicable to ISO 13485 audits)."
     },
     {
-      "id": "iso-tr-14969-2004",
-      "number": "ISO/TR 14969:2004",
-      "title": {
-        "en": "Medical devices - Quality management systems - Guidance on the application of ISO 13485:2003",
-        "zh": "医疗器械 - 质量管理体系 - ISO 13485:2003应用指南"
-      },
-      "status": "active",
-      "applicable_gsprs": [
-        "1",
-        "2"
-      ],
-      "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO/TR%2014969",
-      "source_verified": "2026-06-27",
-      "abstract": "Provides guidance on the application of ISO 13485 for medical device manufacturers. While written for ISO 13485:2003, the principles remain applicable. Confirmed 2020.",
-      "scope": "Guidance on QMS application for medical device manufacturers.",
-      "note": "Under revision to align with ISO 13485:2016."
-    },
-    {
       "id": "aami-tir75-2019",
       "number": "AAMI TIR75:2019",
       "title": {

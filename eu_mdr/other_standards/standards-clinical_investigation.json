@@ -59,7 +59,7 @@
     },
     {
       "id": "iso-tr-80002-1-2009",
-      "number": "ISO/TR 80002-1:2009",
+      "number": "IEC/TR 80002-1:2009",
       "title": {
         "en": "Medical device software - Part 1: Guidance on the application of ISO 14971 to medical device software",
         "zh": "医疗器械软件 - 第1部分：ISO 14971应用于医疗器械软件的指南"
@@ -71,30 +71,11 @@
         "17"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO/TR%2080002-1",
+      "source_url": "https://www.iso.org/standard/54146.html",
       "source_verified": "2026-06-27",
       "abstract": "Provides guidance on applying ISO 14971 risk management to medical device software development. Confirmed 2020.",
       "scope": "Risk management guidance specific to medical device software.",
       "note": "Supports clinical investigation planning for software as medical device (SaMD)."
-    },
-    {
-      "id": "iso-ts-20282-2024",
-      "number": "ISO/TS 20282:2024",
-      "title": {
-        "en": "Usability of consumer products and products for public use - Part 1: Design requirements",
-        "zh": "消费品和公共用途产品的可用性 - 第1部分：设计要求"
-      },
-      "status": "active",
-      "applicable_gsprs": [
-        "1",
-        "3",
-        "5"
-      ],
-      "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO/TS%2020282",
-      "source_verified": "2026-06-27",
-      "abstract": "Specifies requirements and recommendations for the usability of consumer products, applicable to home-use medical devices in clinical investigation setting.",
-      "scope": "Usability design requirements applicable to home-use medical device clinical studies."
     }
   ]
 }

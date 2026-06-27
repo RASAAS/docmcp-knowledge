@@ -17,7 +17,7 @@
         "17.4"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO/TS%2024971-2",
+      "source_url": "https://www.iso.org/standard/87600.html",
       "source_verified": "2026-06-24",
       "abstract": "Provides guidance on risks specific to AI and ML and how to apply the risk management process of ISO 14971 to ML-enabled medical devices. Does not apply to LLM or generative AI.",
       "scope": "Risk management guidance for ML-enabled medical devices (MLMD).",
@@ -60,7 +60,7 @@
         "17.2"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/publication/83476",
+      "source_url": "https://webstore.iec.ch/en/publication/100814",
       "source_verified": "2026-06-24",
       "abstract": "Framework for data life cycle processes for management of data used to train, test or validate AI models in medical devices. Covers data quality, governance, traceability, bias mitigation, versioning, and annotation.",
       "scope": "Data lifecycle management for AI-enabled medical devices.",
@@ -79,7 +79,7 @@
         "17.1"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO/IEC%205259-2",
+      "source_url": "https://www.iso.org/standard/81860.html",
       "source_verified": "2026-06-24",
       "abstract": "Defines data quality measures for analytics and machine learning, including accuracy, completeness, consistency, and timeliness metrics.",
       "scope": "Data quality measurement framework for AI/ML systems."
@@ -97,7 +97,7 @@
         "17.1"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO/IEC%205259-4",
+      "source_url": "https://www.iso.org/standard/81093.html",
       "source_verified": "2026-06-24",
       "abstract": "Provides a process framework for ensuring data quality in AI/ML systems, covering data governance, quality management, and continuous improvement.",
       "scope": "Data quality process framework for AI/ML applications."
@@ -115,7 +115,7 @@
         "14.2"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO/IEC%20TS%204213",
+      "source_url": "https://www.iso.org/standard/79799.html",
       "source_verified": "2026-06-24",
       "abstract": "Specifies methodologies for assessing the performance of machine learning classification models, including metrics and validation approaches.",
       "scope": "Assessment methods for ML classification performance."
@@ -133,7 +133,7 @@
         "17.1"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO/IEC%2023053",
+      "source_url": "https://www.iso.org/standard/74438.html",
       "source_verified": "2026-06-24",
       "abstract": "Establishes an AI/ML framework describing functional components, their relationships, and defines terminology for ML-based AI systems.",
       "scope": "Framework and terminology for AI systems using machine learning."
@@ -188,7 +188,7 @@
         "17.1"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO/IEC%2025024",
+      "source_url": "https://www.iso.org/standard/35749.html",
       "source_verified": "2026-06-24",
       "abstract": "Defines quality measures for data retained in structured format within a computer system, complementing ISO/IEC 5259-2 for AI/ML data quality assessment.",
       "scope": "Measurement of data quality within the SQuaRE framework."

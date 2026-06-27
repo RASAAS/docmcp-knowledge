@@ -35,7 +35,7 @@
         "10"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO%2025539-3",
+      "source_url": "https://www.iso.org/standard/84030.html",
       "source_verified": "2026-06-27",
       "abstract": "Specifies particular requirements for vena cava filters used to prevent pulmonary embolism. Covers design, materials, preclinical and clinical evaluation.",
       "scope": "Vena cava filters for pulmonary embolism prevention."
@@ -62,7 +62,7 @@
     },
     {
       "id": "iso-25539-4-2020",
-      "number": "ISO 25539-4:2020",
+      "number": "ISO 25539-4:2021",
       "title": {
         "en": "Cardiovascular implants - Endovascular devices - Part 4: Coils and flow diverters",
         "zh": "心血管植入物 - 血管内器械 - 第4部分：弹簧圈和血流导向装置"
@@ -75,14 +75,14 @@
         "10"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO%2025539-4",
+      "source_url": "https://www.iso.org/standard/77991.html",
       "source_verified": "2026-06-27",
       "abstract": "Specifies particular requirements for neurovascular coils and flow diverters used for treatment of intracranial aneurysms.",
       "scope": "Neurovascular coils and flow diverters for intracranial aneurysm treatment."
     },
     {
       "id": "iso-12417-1-2015",
-      "number": "ISO 12417-1:2015",
+      "number": "ISO 12417-1:2024",
       "title": {
         "en": "Cardiovascular implants and extracorporeal systems - Vascular device-drug combination products - Part 1: General requirements",
         "zh": "心血管植入物和体外循环系统 - 血管器械-药物组合产品 - 第1部分：通用要求"
@@ -95,10 +95,11 @@
         "10"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO%2012417-1",
+      "source_url": "https://www.iso.org/standard/82032.html",
       "source_verified": "2026-06-27",
       "abstract": "Specifies general requirements for vascular device-drug combination products (e.g. drug-eluting stents). Covers drug release, biocompatibility, and performance. Confirmed 2021.",
-      "scope": "Drug-eluting vascular devices (drug-eluting stents, drug-coated balloons)."
+      "scope": "Drug-eluting vascular devices (drug-eluting stents, drug-coated balloons).",
+      "title_en": "Cardiovascular implants and extracorporeal systems -- Vascular device-drug combination products -- Part 1: General requirements"
     }
   ]
 }

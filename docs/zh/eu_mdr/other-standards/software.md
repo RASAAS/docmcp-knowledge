@@ -12,7 +12,7 @@
 | IEC 81001-5-1:2021 | 健康软件和健康IT系统安全、有效性和保密性 - 第5-1部分：安全 - 产品生命周期中的安全活动 | active | 17 | [官方链接](https://webstore.iec.ch/en/publication/63293) |
 | IEC/TR 80001-2-2:2012 | 健康信息基础设施中整合医疗设备的风险管理应用 - 第2-2部分：医疗设备通信安全能力的披露和沟通指南 | withdrawn | 17, 17.4 | [官方链接](https://webstore.iec.ch/en/publication/7532) |
 | IEC 62443-4-1:2018 | 工业通信网络 - 网络和系统安全 - 第4-1部分：安全产品开发生命周期要求 | active | 17 | [官方链接](https://webstore.iec.ch/en/publication/33615) |
-| ISO 11073-10101:2020 | 健康信息学 - 设备互操作性 - 第10101部分：命名法 | active | 14, 17 | [官方链接](https://www.iso.org/search.html?q=ISO%2011073-10101) |
-| ISO/IEEE 11073-10207:2019 | 健康信息学 - 设备互操作性 - 第10207部分：基于领域信息和服务模型 | active | 14, 17 | [官方链接](https://www.iso.org/search.html?q=ISO/IEEE%2011073-10207) |
+| ISO 11073-10101:2020 | 健康信息学 - 设备互操作性 - 第10101部分：命名法 | active | 14, 17 | [官方链接](https://www.iso.org/standard/77338.html) |
+| ISO/IEEE 11073-10207:2019 | 健康信息学 - 设备互操作性 - 第10207部分：基于领域信息和服务模型 | active | 14, 17 | [官方链接](https://www.iso.org/standard/76538.html) |
 | ISO/IEC TR 24028:2020 | 信息技术 - 人工智能 - 人工智能中的偏差概述 | active | 17 | [官方链接](https://webstore.iec.ch/en/publication/65308) |
 | ISO/IEC 23894:2023 | 信息技术 - 人工智能 - 风险管理指南 | active | 3, 17 | [官方链接](https://webstore.iec.ch/en/publication/68155) |

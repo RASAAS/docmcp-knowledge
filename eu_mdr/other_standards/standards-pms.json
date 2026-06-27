@@ -16,7 +16,7 @@
         "zh": ""
       },
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO/TR%2020416",
+      "source_url": "https://www.iso.org/standard/67942.html",
       "abstract": "Provides guidance on processes for post-market surveillance by manufacturers of medical devices.",
       "source_verified": "2026-06-24"
     },
@@ -33,7 +33,7 @@
         "3"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO/TR%2020416",
+      "source_url": "https://www.iso.org/standard/88127.html",
       "source_verified": "2026-06-27",
       "abstract": "Amendment 1 provides additional guidance on PMS processes and updates references to the latest regulatory frameworks. Published 2024.",
       "scope": "Updated guidance on post-market surveillance for medical device manufacturers."
@@ -75,25 +75,6 @@
       "source_verified": "2026-06-27",
       "abstract": "Provides guidance on correlating medical device complaint handling processes with EU MDR/IVDR vigilance reporting requirements.",
       "scope": "Complaint handling and vigilance reporting alignment with EU MDR."
-    },
-    {
-      "id": "iso-16142-1-2016",
-      "number": "ISO 16142-1:2016",
-      "title": {
-        "en": "Medical devices - Recognized essential principles of safety and performance of medical devices - Part 1: General essential principles and additional specific essential principles for all non-IVD medical devices and guidance on the selection of standards",
-        "zh": "医疗器械 - 公认的医疗器械安全和性能基本原则 - 第1部分：所有非IVD医疗器械的一般基本原则和附加特定基本原则以及标准选择指南"
-      },
-      "status": "active",
-      "applicable_gsprs": [
-        "1",
-        "2",
-        "3"
-      ],
-      "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO%2016142-1",
-      "source_verified": "2026-06-27",
-      "abstract": "Identifies and describes recognized essential principles of safety and performance of medical devices, and provides guidance on selection of standards. Critical reference for GSPR compliance mapping.",
-      "scope": "Essential principles of safety and performance mapped to standards selection (supports PMS/PMCF planning)."
     }
   ]
 }

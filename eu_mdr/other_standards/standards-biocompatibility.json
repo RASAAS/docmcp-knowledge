@@ -8,7 +8,7 @@
         "zh": "医疗器械生物学评价 - 第2部分：动物福利要求"
       },
       "status": "active",
-      "source_url": "https://www.iso.org/standard/79105.html",
+      "source_url": "https://www.iso.org/standard/78866.html",
       "source_verified": "2026-06-24",
       "category": "biocompatibility",
       "standard_type": "non_harmonised",
@@ -121,7 +121,7 @@
         "zh": "医疗器械生物学评价 - 第19部分：材料的物理化学、形态学和拓扑学表征"
       },
       "status": "active",
-      "source_url": "https://www.iso.org/search.html?q=ISO/TS%2010993-19",
+      "source_url": "https://www.iso.org/standard/75138.html",
       "source_verified": "2026-06-24",
       "category": "biocompatibility",
       "standard_type": "non_harmonised",
@@ -143,7 +143,7 @@
         "zh": "医疗器械生物学评价 - 第20部分：医疗器械免疫毒理学试验的原则和方法"
       },
       "status": "active",
-      "source_url": "https://www.iso.org/search.html?q=ISO/TS%2010993-20",
+      "source_url": "https://www.iso.org/standard/35979.html",
       "source_verified": "2026-06-24",
       "category": "biocompatibility",
       "standard_type": "non_harmonised",
@@ -156,28 +156,6 @@
         "10.4"
       ],
       "abstract": "Describes principles and methods for immunotoxicology testing of medical devices, including assessment of immunosuppression, immunostimulation, and hypersensitivity."
-    },
-    {
-      "id": "eu_mdr-os-iso-ts-10993-21-2022",
-      "number": "ISO/TS 10993-21:2022",
-      "title": {
-        "en": "Biological evaluation of medical devices - Part 21: Experimental assessment of irritation potential in skin sensitization assays",
-        "zh": "医疗器械生物学评价 - 第21部分：皮肤致敏试验中刺激潜能的实验评估"
-      },
-      "status": "active",
-      "source_url": "https://www.iso.org/search.html?q=ISO/TS%2010993-21",
-      "source_verified": "2026-06-24",
-      "category": "biocompatibility",
-      "standard_type": "non_harmonised",
-      "scope": {
-        "en": "Assessment of irritation potential in skin sensitization assays for medical devices",
-        "zh": ""
-      },
-      "applicable_gsprs": [
-        "10",
-        "10.4"
-      ],
-      "abstract": "Provides guidance on experimental assessment of irritation potential when using skin sensitization assays for biological evaluation of medical devices."
     },
     {
       "id": "eu_mdr-os-iso-10993-22-2017",

@@ -76,23 +76,6 @@
       "abstract": "Specifies a process for manufacturer to analyse, specify, develop and evaluate usability of a medical device as it relates to safety. Critical for ensuring labelling and IFU are understandable. EN IEC 62366-1:2015/A1:2020 harmonized under EU MDR.",
       "scope": "Usability engineering process for medical device labelling and user interface design.",
       "note": "Directly impacts labelling design: user comprehension testing, IFU readability, symbol recognition."
-    },
-    {
-      "id": "iso-udi-16679-2024",
-      "number": "ISO/TS 16791:2024",
-      "title": {
-        "en": "Health informatics - Requirements for international machine-readable coding of medicinal product package identifiers",
-        "zh": "健康信息学 - 药品包装标识符国际机器可读编码的要求"
-      },
-      "status": "active",
-      "applicable_gsprs": [
-        "23"
-      ],
-      "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO/TS%2016791",
-      "source_verified": "2026-06-27",
-      "abstract": "Requirements for machine-readable coding of medical device identifiers, supporting UDI system implementation. Edition 2.",
-      "scope": "Machine-readable coding for medical device unique device identifiers (UDI)."
     }
   ]
 }

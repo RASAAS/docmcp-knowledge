@@ -44,7 +44,7 @@
     },
     {
       "id": "iso-14889-2024",
-      "number": "ISO 14889:2024",
+      "number": "ISO 14889:2025",
       "title": {
         "en": "Ophthalmic optics - Spectacle lenses - Fundamental requirements for uncut finished lenses",
         "zh": "眼科光学 - 眼镜片 - 未切割成品镜片的基本要求"
@@ -56,7 +56,7 @@
         "5"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO%2014889",
+      "source_url": "https://www.iso.org/standard/86730.html",
       "source_verified": "2026-06-27",
       "abstract": "Specifies fundamental requirements for uncut finished spectacle lenses. Applicable to colored and decorative contact lenses under Annex XVI when used without corrective purpose. Edition 3.",
       "scope": "Spectacle lenses requirements, applicable by reference to non-corrective colored contact lenses."
@@ -84,7 +84,7 @@
     },
     {
       "id": "en-iso-14155-2020-a1-2024",
-      "number": "EN ISO 14155:2020/A1:2024",
+      "number": "EN ISO 14155:2020/A11:2024",
       "title": {
         "en": "Clinical investigation of medical devices for human subjects - Good clinical practice",
         "zh": "人体医疗器械临床研究 - 良好临床实践"
@@ -96,7 +96,7 @@
         "6"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=EN%20ISO%2014155",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600193",
       "source_verified": "2026-06-27",
       "abstract": "Specifies good clinical practice for design, conduct, recording and reporting of clinical investigations. Amendment 1 published 2024. Required for Annex XVI products clinical evidence.",
       "scope": "Good clinical practice for clinical investigations of medical devices and Annex XVI products."

@@ -4,14 +4,13 @@
 
 | 标准号 | 标题 | 状态 | 适用GSPRs | 官方链接 |
 |--------|------|------|-----------|----------|
-| ISO 10993-2:2022 | 医疗器械生物学评价 - 第2部分：动物福利要求 | active | 10, 10.4 | [官方链接](https://www.iso.org/standard/79105.html) |
+| ISO 10993-2:2022 | 医疗器械生物学评价 - 第2部分：动物福利要求 | active | 10, 10.4 | [官方链接](https://www.iso.org/standard/78866.html) |
 | ISO 10993-6:2026 | 医疗器械生物学评价 - 第6部分：植入后局部效应试验 | active | 10, 10.4 | [官方链接](https://www.iso.org/standard/86328.html) |
 | ISO 10993-13:2010 | 医疗器械生物学评价 - 第13部分：聚合物医疗器械降解产物的鉴定和定量 | active | 10, 10.4 | [官方链接](https://www.iso.org/standard/44050.html) |
 | ISO 10993-14:2001 | 医疗器械生物学评价 - 第14部分：陶瓷降解产物的鉴定和定量 | active | 10, 10.4 | [官方链接](https://www.iso.org/standard/33674.html) |
 | ISO 10993-16:2017 | 医疗器械生物学评价 - 第16部分：降解产物和可浸出物的毒代动力学研究设计 | active | 10, 10.4 | [官方链接](https://www.iso.org/standard/65353.html) |
-| ISO/TS 10993-19:2020 | 医疗器械生物学评价 - 第19部分：材料的物理化学、形态学和拓扑学表征 | active | 10, 10.4 | [官方链接](https://www.iso.org/search.html?q=ISO/TS%2010993-19) |
-| ISO/TS 10993-20:2006 | 医疗器械生物学评价 - 第20部分：医疗器械免疫毒理学试验的原则和方法 | active | 10, 10.4 | [官方链接](https://www.iso.org/search.html?q=ISO/TS%2010993-20) |
-| ISO/TS 10993-21:2022 | 医疗器械生物学评价 - 第21部分：皮肤致敏试验中刺激潜能的实验评估 | active | 10, 10.4 | [官方链接](https://www.iso.org/search.html?q=ISO/TS%2010993-21) |
+| ISO/TS 10993-19:2020 | 医疗器械生物学评价 - 第19部分：材料的物理化学、形态学和拓扑学表征 | active | 10, 10.4 | [官方链接](https://www.iso.org/standard/75138.html) |
+| ISO/TS 10993-20:2006 | 医疗器械生物学评价 - 第20部分：医疗器械免疫毒理学试验的原则和方法 | active | 10, 10.4 | [官方链接](https://www.iso.org/standard/35979.html) |
 | ISO 10993-22:2017 | 医疗器械生物学评价 - 第22部分：纳米材料指南 | active | 10, 10.4 | [官方链接](https://www.iso.org/standard/65918.html) |
 | ISO 10993-3:2014 | 医疗器械生物学评价 - 第3部分：遗传毒性、致癌性和生殖毒性试验 | active | 10, 10.1, 10.4, 10.4.1 | [官方链接](https://www.iso.org/standard/55614.html) |
 | ISO 10993-7:2026 | 医疗器械生物学评价 - 第7部分：环氧乙烷灭菌残留量 | active | 10, 10.1, 10.4, 10.4.2, 11 | [官方链接](https://www.iso.org/standard/83437.html) |
