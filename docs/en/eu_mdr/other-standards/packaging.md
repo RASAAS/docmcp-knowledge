@@ -9,5 +9,5 @@ The following non-harmonised international standards are related to **Packaging*
 | ASTM F2825-18(2026) | Standard Practice for Climatic Stressing of Packaging Systems for Single Parcel Delivery | active | 11 | [Link](https://store.astm.org/f2825-18r26.html) |
 | ASTM D4332-22 | Standard Practice for Conditioning Containers, Packages, or Packaging Components for Testing | active | 11 | [Link](https://store.astm.org/d4332-22.html) |
 | ASTM F2095-07(2021) | Standard Test Methods for Pressure Decay Leak Test for Flexible Packages With and Without Restraining Plates | active | 11 | [Link](https://store.astm.org/f2095-07r21.html) |
-| ISO 11607-1:2019 | Packaging for terminally sterilized medical devices - Part 1: Requirements for materials, sterile barrier systems and packaging systems | active | 11 | [Link](https://www.iso.org/search.html?q=ISO%2011607-1) |
-| ISO 11607-2:2019 | Packaging for terminally sterilized medical devices - Part 2: Validation requirements for forming, sealing and assembly processes | active | 11 | [Link](https://www.iso.org/search.html?q=ISO%2011607-2) |
+| ISO 11607-1:2019 | Packaging for terminally sterilized medical devices - Part 1: Requirements for materials, sterile barrier systems and packaging systems | active | 11 | [Link](https://www.iso.org/standard/70799.html) |
+| ISO 11607-2:2019 | Packaging for terminally sterilized medical devices - Part 2: Validation requirements for forming, sealing and assembly processes | active | 11 | [Link](https://www.iso.org/standard/70800.html) |

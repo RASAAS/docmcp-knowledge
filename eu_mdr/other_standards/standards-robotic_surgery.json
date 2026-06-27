@@ -17,7 +17,7 @@
         "17"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2080601-2-77",
+      "source_url": "https://webstore.iec.ch/en/publication/31013",
       "source_verified": "2026-06-27",
       "abstract": "Applies to the basic safety and essential performance of robotically assisted surgical equipment (RASE) and its accessories. Edition 1.",
       "scope": "Robotically assisted surgical equipment and accessories."
@@ -39,7 +39,7 @@
         "17"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2080601-2-78",
+      "source_url": "https://webstore.iec.ch/en/publication/30552",
       "source_verified": "2026-06-27",
       "abstract": "Applies to the basic safety and essential performance of medical robots used for rehabilitation, assessment, compensation or alleviation. Edition 1.",
       "scope": "Medical robots for rehabilitation and assistive purposes."
@@ -59,7 +59,7 @@
         "9"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO%2013482",
+      "source_url": "https://www.iso.org/standard/53820.html",
       "source_verified": "2026-06-27",
       "abstract": "Specifies requirements and guidelines for safe design and protective measures of personal care robots, including mobile servant robots, physical assistant robots, and person carrier robots. Confirmed 2020.",
       "scope": "Safety requirements for personal care robots (applicable to medical service robots)."
@@ -78,7 +78,7 @@
         "17.4"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2062443-4-2",
+      "source_url": "https://webstore.iec.ch/en/publication/34421",
       "source_verified": "2026-06-27",
       "abstract": "Provides technical security requirements at the component level for industrial automation and control systems. Applicable to networked surgical robot components. Edition 1.1.",
       "scope": "Component-level security for networked robotic surgical systems."
@@ -98,7 +98,7 @@
         "9"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO/TS%2015066",
+      "source_url": "https://www.iso.org/standard/62996.html",
       "source_verified": "2026-06-27",
       "abstract": "Specifies safety requirements for collaborative industrial robot systems and the work environment. Applicable principles relevant to human-robot interaction in surgical and rehabilitation robotics. Confirmed 2021.",
       "scope": "Safety requirements for collaborative robots (applicable principles for medical human-robot interaction)."

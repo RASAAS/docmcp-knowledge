@@ -8,7 +8,7 @@
         "zh": "医用电气设备 - 第2-22部分：外科、治疗、诊断和美容激光设备的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-22",
+      "source_url": "https://webstore.iec.ch/en/publication/31770",
       "source_verified": "",
       "category": "laser_surgery",
       "standard_type": "non_harmonised",
@@ -32,7 +32,7 @@
         "18"
       ],
       "standard_type": "international",
-      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060825-1",
+      "source_url": "https://webstore.iec.ch/en/publication/3587",
       "source_verified": true,
       "abstract": "Classification and requirements for safety of laser products.",
       "scope": "Laser product safety classification"

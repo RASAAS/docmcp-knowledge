@@ -15,7 +15,7 @@
         "17"
       ],
       "standard_type": "harmonised",
-      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2062304",
+      "source_url": "https://webstore.iec.ch/en/publication/22794",
       "source_verified": "2026-06-27",
       "abstract": "Defines the lifecycle requirements for medical device software development and maintenance. Harmonized under EU MDR. Critical for all digital health and wearable medical devices with software.",
       "scope": "Software lifecycle processes for medical device software (applies to SaMD, SiMD, wearable apps).",
@@ -73,7 +73,7 @@
         "14"
       ],
       "standard_type": "harmonised",
-      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-1-11",
+      "source_url": "https://webstore.iec.ch/en/publication/67384",
       "source_verified": "2026-06-27",
       "abstract": "Requirements for medical equipment used in home healthcare (wearables, home monitors, telehealth). Covers non-professional user environment considerations. EN IEC 60601-1-11:2015/A1:2020 harmonized under EU MDR.",
       "scope": "Medical electrical equipment for home healthcare environment (wearables, remote monitoring)."

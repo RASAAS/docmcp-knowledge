@@ -8,7 +8,7 @@
         "zh": "医疗器械软件 - 软件生命周期过程"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/search?q=EN%20IEC%2062304",
+      "source_url": "https://webstore.iec.ch/en/publication/22794",
       "applicable_gsprs": [
         "14",
         "17",
@@ -35,7 +35,7 @@
         "zh": "医疗器械软件 - 软件生命周期过程"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2062304",
+      "source_url": "https://webstore.iec.ch/en/publication/22794",
       "scope": {
         "en": "Software development lifecycle for medical devices",
         "zh": ""
@@ -63,7 +63,7 @@
         "zh": ""
       },
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2082304-1",
+      "source_url": "https://webstore.iec.ch/en/publication/26120",
       "applicable_gsprs": [
         "17",
         "17.1",
@@ -107,7 +107,7 @@
         "zh": ""
       },
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/search?q=IEC%20TR%2080002-1",
+      "source_url": "https://webstore.iec.ch/en/publication/7483",
       "applicable_gsprs": [
         "17",
         "17.1"
@@ -126,7 +126,7 @@
         "17"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2081001-5-1",
+      "source_url": "https://webstore.iec.ch/en/publication/63293",
       "abstract": "Specifies requirements for security in the development and maintenance lifecycle of health software and health IT systems.",
       "scope": "Health software and health IT systems safety, effectiveness and security -- Security -- Activities in the product life cycle."
     },
@@ -143,7 +143,7 @@
         "17.4"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/search?q=IEC/TR%2080001-2-2",
+      "source_url": "https://webstore.iec.ch/en/publication/7532",
       "abstract": "Provides guidance on disclosure of security-related capabilities and risks of medical devices on IT-networks.",
       "scope": "Application of risk management for IT-networks incorporating medical devices -- Guidance for the communication of medical device security needs, risks and controls.",
       "note": "Withdrawn. Replaced by IEC TS 81001-2-2:2025."
@@ -160,7 +160,7 @@
         "17"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2062443-4-1",
+      "source_url": "https://webstore.iec.ch/en/publication/33615",
       "abstract": "Specifies process requirements for the secure development lifecycle of products used in industrial automation and control systems.",
       "scope": "Security for industrial automation and control systems -- Secure product development lifecycle requirements."
     },
@@ -212,7 +212,7 @@
         "17"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/search?q=ISO/IEC%20TR%2024028",
+      "source_url": "https://webstore.iec.ch/en/publication/65308",
       "abstract": "Provides an overview of trustworthiness in artificial intelligence, including reliability, safety and security aspects.",
       "scope": "Information technology -- Artificial intelligence -- Overview of trustworthiness in artificial intelligence."
     },
@@ -229,7 +229,7 @@
         "17"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/search?q=ISO/IEC%2023894",
+      "source_url": "https://webstore.iec.ch/en/publication/68155",
       "abstract": "Provides guidance on managing risks related to the development and use of artificial intelligence.",
       "scope": "Information technology -- Artificial intelligence -- Guidance on risk management."
     }

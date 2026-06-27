@@ -8,7 +8,7 @@
         "zh": "医疗器械生物学评价 - 第2部分：动物福利要求"
       },
       "status": "active",
-      "source_url": "https://www.iso.org/search.html?q=ISO%2010993-2",
+      "source_url": "https://www.iso.org/standard/79105.html",
       "source_verified": "2026-06-24",
       "category": "biocompatibility",
       "standard_type": "non_harmonised",
@@ -30,7 +30,7 @@
         "zh": "医疗器械生物学评价 - 第6部分：植入后局部效应试验"
       },
       "status": "active",
-      "source_url": "https://www.iso.org/search.html?q=ISO%2010993-6",
+      "source_url": "https://www.iso.org/standard/86328.html",
       "source_verified": "2026-06-24",
       "category": "biocompatibility",
       "standard_type": "non_harmonised",
@@ -52,7 +52,7 @@
         "zh": "医疗器械生物学评价 - 第13部分：聚合物医疗器械降解产物的鉴定和定量"
       },
       "status": "active",
-      "source_url": "https://www.iso.org/search.html?q=ISO%2010993-13",
+      "source_url": "https://www.iso.org/standard/44050.html",
       "source_verified": "2026-06-24",
       "category": "biocompatibility",
       "standard_type": "non_harmonised",
@@ -75,7 +75,7 @@
         "zh": "医疗器械生物学评价 - 第14部分：陶瓷降解产物的鉴定和定量"
       },
       "status": "active",
-      "source_url": "https://www.iso.org/search.html?q=ISO%2010993-14",
+      "source_url": "https://www.iso.org/standard/33674.html",
       "source_verified": "2026-06-24",
       "category": "biocompatibility",
       "standard_type": "non_harmonised",
@@ -98,7 +98,7 @@
         "zh": "医疗器械生物学评价 - 第16部分：降解产物和可浸出物的毒代动力学研究设计"
       },
       "status": "active",
-      "source_url": "https://www.iso.org/search.html?q=ISO%2010993-16",
+      "source_url": "https://www.iso.org/standard/65353.html",
       "source_verified": "2026-06-24",
       "category": "biocompatibility",
       "standard_type": "non_harmonised",
@@ -187,7 +187,7 @@
         "zh": "医疗器械生物学评价 - 第22部分：纳米材料指南"
       },
       "status": "active",
-      "source_url": "https://www.iso.org/search.html?q=ISO%2010993-22",
+      "source_url": "https://www.iso.org/standard/65918.html",
       "source_verified": "2026-06-24",
       "category": "biocompatibility",
       "standard_type": "non_harmonised",
@@ -216,7 +216,7 @@
         "10.4.1"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO%2010993-3",
+      "source_url": "https://www.iso.org/standard/55614.html",
       "source_verified": "2026-06-24",
       "abstract": "Specifies categories of tests for genotoxicity, carcinogenicity and reproductive toxicity for evaluating potential genetic and reproductive hazards arising from medical devices.",
       "scope": {
@@ -241,7 +241,7 @@
         "11"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO%2010993-7",
+      "source_url": "https://www.iso.org/standard/83437.html",
       "source_verified": "2026-06-24",
       "abstract": "Specifies allowable limits for residual ethylene oxide (EO) and ethylene chlorohydrin (ECH) in individual EO-sterilised medical devices.",
       "scope": {
@@ -266,7 +266,7 @@
         "10.6"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO%2010993-11",
+      "source_url": "https://www.iso.org/standard/68426.html",
       "source_verified": "2026-06-24",
       "abstract": "Specifies requirements and gives guidance on procedures for assessing the potential of medical devices and their constituent materials to cause adverse systemic reactions.",
       "scope": {
@@ -292,7 +292,7 @@
         "13.2"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO%2022442-1",
+      "source_url": "https://www.iso.org/standard/74280.html",
       "source_verified": "2026-06-24",
       "abstract": "Specifies requirements for the application of risk management to medical devices manufactured utilizing animal tissues or their derivatives which are non-viable or rendered non-viable.",
       "scope": {
@@ -318,7 +318,7 @@
         "13.2"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO%2022442-2",
+      "source_url": "https://www.iso.org/standard/74281.html",
       "source_verified": "2026-06-24",
       "abstract": "Specifies requirements for controls on the sourcing, collection, and handling of animals and tissues for the manufacture of medical devices.",
       "scope": {
@@ -344,7 +344,7 @@
         "13.2"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO%2022442-3",
+      "source_url": "https://www.iso.org/standard/39352.html",
       "source_verified": "2026-06-24",
       "abstract": "Specifies requirements for the validation of the elimination and/or inactivation of viruses and transmissible spongiform encephalopathy (TSE) agents during the manufacture of medical devices.",
       "scope": {

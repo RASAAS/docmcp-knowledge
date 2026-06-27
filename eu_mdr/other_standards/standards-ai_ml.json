@@ -60,7 +60,7 @@
         "17.2"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/search?q=IEC%20PAS%2063621",
+      "source_url": "https://webstore.iec.ch/en/publication/83476",
       "source_verified": "2026-06-24",
       "abstract": "Framework for data life cycle processes for management of data used to train, test or validate AI models in medical devices. Covers data quality, governance, traceability, bias mitigation, versioning, and annotation.",
       "scope": "Data lifecycle management for AI-enabled medical devices.",
@@ -151,7 +151,7 @@
         "17"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO/IEC%20TR%2024028",
+      "source_url": "https://webstore.iec.ch/en/publication/65308",
       "source_verified": "2026-06-24",
       "abstract": "Provides an overview of trustworthiness in AI, addressing vulnerabilities, threats, and approaches to enhance trust in AI systems.",
       "scope": "Trustworthiness framework for AI systems."
@@ -170,7 +170,7 @@
         "17"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO/IEC%2023894",
+      "source_url": "https://webstore.iec.ch/en/publication/68155",
       "source_verified": "2026-06-24",
       "abstract": "Provides guidance on managing risks related to the development, deployment, and use of AI systems, extending ISO 31000 for AI-specific contexts.",
       "scope": "AI-specific risk management guidance aligned with ISO 31000."

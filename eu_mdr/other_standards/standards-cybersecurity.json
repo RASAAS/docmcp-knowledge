@@ -18,7 +18,7 @@
         "18.8"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=IEC%2081001-5-1",
+      "source_url": "https://webstore.iec.ch/en/publication/63293",
       "source_verified": "2026-06-24",
       "abstract": "Defines lifecycle requirements for development and maintenance of health software needed to support conformance to IEC 62443-4-1, taking specific needs for health software into account. Considered current state-of-the-art for medical device cybersecurity under EU MDR.",
       "scope": "Secure software lifecycle processes for health software and medical device software (SaMD, SiMD, MDSW).",
@@ -40,7 +40,7 @@
         "18"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/search?q=IEC%20TR%2060601-4-5",
+      "source_url": "https://webstore.iec.ch/en/publication/62458",
       "source_verified": "2026-06-24",
       "abstract": "Defines Security Levels (SL 0-4) and Security Capabilities (SC) for medical devices with network connectivity. Complements IEC 81001-5-1 by specifying technical security requirements.",
       "scope": "Technical security requirements for network-connected medical electrical equipment."
@@ -60,7 +60,7 @@
         "18.8"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2080001-1",
+      "source_url": "https://webstore.iec.ch/en/publication/34263",
       "source_verified": "2026-06-24",
       "abstract": "Specifies requirements for risk management when medical devices or health software are incorporated into IT-networks.",
       "scope": "Risk management for networked medical devices and health IT."
@@ -79,7 +79,7 @@
         "17.4"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2062443-4-1",
+      "source_url": "https://webstore.iec.ch/en/publication/33615",
       "source_verified": "2026-06-24",
       "abstract": "Defines secure product development lifecycle requirements. IEC 81001-5-1 adapts this standard specifically for health software.",
       "scope": "Secure development lifecycle requirements for products used in industrial automation, also applicable to medical devices."
@@ -116,7 +116,7 @@
         "17.4"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/search?q=IEC/TR%2080001-2-2",
+      "source_url": "https://webstore.iec.ch/en/publication/7532",
       "source_verified": "2026-06-24",
       "abstract": "Defines a framework for manufacturer disclosure of medical device security capabilities (MDS2 form). Withdrawn and replaced by IEC TS 81001-2-2:2025.",
       "scope": "Communication framework for medical device security properties and manufacturer disclosure statements.",
@@ -136,7 +136,7 @@
         "18"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/search?q=IEC%20TS%2081001-2-2",
+      "source_url": "https://webstore.iec.ch/en/publication/72879",
       "source_verified": "2026-06-24",
       "abstract": "Combines and updates IEC/TR 80001-2-2:2012 and IEC TR 80001-2-8:2016. Provides guidance on implementation, disclosure and communication of security needs, risks and controls for connected medical devices and health software.",
       "scope": "Security coordination and disclosure framework for health software and IT systems incorporating medical devices."

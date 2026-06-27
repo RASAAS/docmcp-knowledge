@@ -52,7 +52,7 @@
         "19"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO%205840-1",
+      "source_url": "https://www.iso.org/standard/77034.html",
       "abstract": "Specifies general requirements for cardiac valve prostheses and components for surgical and transcatheter implantation.",
       "scope": "Cardiovascular implants -- Cardiac valve prostheses -- General requirements.",
       "source_verified": "2026-06-24"
@@ -72,7 +72,7 @@
         "23"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO%2014708-1",
+      "source_url": "https://www.iso.org/standard/52804.html",
       "abstract": "Specifies general requirements for active implantable medical devices, including safety, biocompatibility and electromagnetic compatibility.",
       "scope": "Implants for surgery -- Active implantable medical devices -- General requirements for safety, marking and for information to be provided by the manufacturer.",
       "source_verified": "2026-06-24"
@@ -122,7 +122,7 @@
         "zh": "医用电气设备 - 第2-41部分：外科照明设备和诊断照明设备的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-41",
+      "source_url": "https://webstore.iec.ch/en/publication/66069",
       "source_verified": "",
       "category": "surgical_implants",
       "standard_type": "non_harmonised",
@@ -141,7 +141,7 @@
         "zh": "医用电气设备 - 第2-46部分：手术台的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-46",
+      "source_url": "https://webstore.iec.ch/en/publication/25390",
       "source_verified": "",
       "category": "surgical_implants",
       "standard_type": "non_harmonised",
@@ -160,7 +160,7 @@
         "zh": "医用电气设备 - 第2-76部分：低能X射线照相成像设备的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-76",
+      "source_url": "https://webstore.iec.ch/en/publication/31023",
       "source_verified": "",
       "category": "surgical_implants",
       "standard_type": "non_harmonised",

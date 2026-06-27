@@ -8,7 +8,7 @@
         "zh": "医用电气设备 - 第2-62部分：高强度治疗性超声(HITU)设备的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-62",
+      "source_url": "https://webstore.iec.ch/en/publication/6678",
       "source_verified": "",
       "category": "therapeutic_ultrasound",
       "standard_type": "non_harmonised",
@@ -32,7 +32,7 @@
         "18"
       ],
       "standard_type": "international",
-      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2061161",
+      "source_url": "https://webstore.iec.ch/en/publication/4725",
       "source_verified": true,
       "abstract": "Requirements for radiation force balances used to measure ultrasonic power.",
       "scope": "Ultrasonic power measurement"
@@ -50,7 +50,7 @@
         "18"
       ],
       "standard_type": "international",
-      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2061689",
+      "source_url": "https://webstore.iec.ch/en/publication/5723",
       "source_verified": true,
       "abstract": "Field specifications and measurement methods for physiotherapy ultrasound systems.",
       "scope": "Physiotherapy ultrasound"

@@ -8,7 +8,7 @@
         "zh": "医用电气设备 - 第2-47部分：动态心电图系统的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-47",
+      "source_url": "https://webstore.iec.ch/en/publication/2666",
       "source_verified": "",
       "category": "cardiology",
       "standard_type": "non_harmonised",
@@ -27,7 +27,7 @@
         "zh": "医用电气设备 - 第2-25部分：心电图设备的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-25",
+      "source_url": "https://webstore.iec.ch/en/publication/2636",
       "source_verified": "2026-06-24",
       "category": "cardiology",
       "standard_type": "non_harmonised",
@@ -47,7 +47,7 @@
         "zh": "医用电气设备 - 第2-31部分：外部心脏起搏器的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-31",
+      "source_url": "https://webstore.iec.ch/en/publication/31934",
       "source_verified": "",
       "category": "cardiology",
       "standard_type": "non_harmonised",
@@ -73,7 +73,7 @@
         "10"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO%2025539-1",
+      "source_url": "https://www.iso.org/standard/63768.html",
       "source_verified": "2026-06-27",
       "abstract": "Specifies requirements for endovascular prostheses (stent-grafts) including design, material, sterility, biocompatibility, packaging, and labelling. Confirmed 2023.",
       "scope": "Endovascular prostheses (stent-grafts for aortic and peripheral vascular applications)."
@@ -93,7 +93,7 @@
         "10"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO%2025539-2",
+      "source_url": "https://www.iso.org/standard/69534.html",
       "source_verified": "2026-06-27",
       "abstract": "Specifies requirements for vascular stents based upon current medical knowledge, including design attributes, materials, design evaluation, manufacturing, sterilization, packaging and information supplied by the manufacturer. Edition 2.",
       "scope": "Vascular stents for coronary, peripheral, and neurovascular applications."
@@ -113,7 +113,7 @@
         "10"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/search.html?q=ISO%205840-1",
+      "source_url": "https://www.iso.org/standard/77034.html",
       "source_verified": "2026-06-27",
       "abstract": "Outlines general requirements for cardiac valve substitutes and provides a framework for qualification and ongoing evaluation. Edition 1.",
       "scope": "General requirements for heart valve prostheses (mechanical and biological)."
@@ -132,7 +132,7 @@
         "14"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-27",
+      "source_url": "https://webstore.iec.ch/en/publication/2638",
       "source_verified": "2026-06-27",
       "abstract": "Applies to the basic safety and essential performance of electrocardiographic monitoring equipment. Edition 3.",
       "scope": "ECG monitoring equipment for patient monitoring in clinical settings."
@@ -151,7 +151,7 @@
         "14"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/search?q=IEC%2060601-2-34",
+      "source_url": "https://webstore.iec.ch/en/publication/68609",
       "source_verified": "2026-06-27",
       "abstract": "Applies to the basic safety and essential performance of invasive blood pressure monitoring equipment. Edition 4, published 2024-10.",
       "scope": "Invasive blood pressure monitoring equipment."
