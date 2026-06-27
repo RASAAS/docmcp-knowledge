@@ -72,15 +72,15 @@
       "scope": "Environmental testing -- Tests -- Test Fc: Vibration (sinusoidal)."
     },
     {
-      "id": "eu_mdr-os-iec-60068-2-78-2012",
-      "number": "IEC 60068-2-78:2012",
+      "id": "iec-60068-2-78-2025",
+      "number": "IEC 60068-2-78:2025",
       "title": {
         "en": "Environmental testing - Part 2-78: Tests - Test Cab: Damp heat, steady state",
         "zh": "环境试验 - 第2-78部分：试验 - 试验Cab：恒定湿热"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/560",
-      "source_verified": "",
+      "source_url": "https://webstore.iec.ch/en/publication/109062",
+      "source_verified": "2026-06-27",
       "category": "environmental_testing",
       "standard_type": "non_harmonised",
       "scope": "Steady state damp heat testing.",
@@ -88,7 +88,8 @@
         "14",
         "14.5"
       ],
-      "abstract": "Environmental steady-state damp heat test methods."
+      "abstract": "Environmental steady-state damp heat test methods.",
+      "name": "Environmental testing - Part 2-78: Tests - Test Cab: Damp heat, steady state"
     },
     {
       "id": "eu_mdr-os-astm-d4169-23e1",
