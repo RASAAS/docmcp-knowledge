@@ -2,7 +2,7 @@
   "standards": [
     {
       "id": "iec-60601-2-10-2012",
-      "number": "IEC 60601-2-10:2012+AMD1:2016",
+      "number": "IEC 60601-2-10:2012+AMD1:2016+AMD2:2023",
       "title": {
         "en": "Medical electrical equipment - Part 2-10: Particular requirements for the basic safety and essential performance of nerve and muscle stimulators",
         "zh": "医用电气设备 - 第2-10部分：神经和肌肉刺激器的基本安全和基本性能专用要求"
@@ -13,7 +13,7 @@
         "18"
       ],
       "standard_type": "international",
-      "source_url": "https://webstore.iec.ch/en/publication/24098",
+      "source_url": "https://webstore.iec.ch/en/publication/81814",
       "source_verified": true,
       "abstract": "Requirements for nerve and muscle stimulators used in physiotherapy.",
       "scope": "Nerve and muscle stimulators"

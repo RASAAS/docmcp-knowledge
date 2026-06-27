@@ -1,54 +1,12 @@
 {
   "standards": [
     {
-      "id": "en-iec-62304-2006",
-      "number": "EN IEC 62304:2006+A1:2015",
-      "title": {
-        "en": "Medical device software - Software life cycle processes",
-        "zh": "医疗器械软件 - 软件生命周期过程"
-      },
-      "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/22794",
-      "applicable_gsprs": [
-        "14",
-        "17",
-        "17.1",
-        "17.2",
-        "17.3",
-        "17.4",
-        "18",
-        "18.8"
-      ],
-      "scope": {
-        "en": "Software development lifecycle for medical device software",
-        "zh": ""
-      },
-      "standard_type": "non_harmonised",
-      "abstract": "Defines the life cycle requirements for medical device software development, including requirements for configuration management and problem resolution.",
-      "note": "Consolidated version (Edition 1.1). EN version harmonised under EU MDR."
-    },
-    {
-      "id": "iec-62304-2015",
       "number": "IEC 62304:2006+AMD1:2015",
-      "title": {
-        "en": "Medical device software — Software life cycle processes",
-        "zh": "医疗器械软件 - 软件生命周期过程"
-      },
-      "status": "active",
+      "title_en": "Medical device software - Software life cycle processes",
+      "title_zh": "医疗器械软件 - 软件生命周期过程",
       "source_url": "https://webstore.iec.ch/en/publication/22794",
-      "scope": {
-        "en": "Software development lifecycle for medical devices",
-        "zh": ""
-      },
-      "standard_type": "non_harmonised",
-      "applicable_gsprs": [
-        "17",
-        "17.1",
-        "17.2",
-        "17.3",
-        "17.4"
-      ],
-      "abstract": "Defines life cycle requirements for the development of medical device software and software within medical devices. Applicable to the development and maintenance of medical device software."
+      "status": "active",
+      "replaced_by": null
     },
     {
       "id": "iec-82304-1-2016",

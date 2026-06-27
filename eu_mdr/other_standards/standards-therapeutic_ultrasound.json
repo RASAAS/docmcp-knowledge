@@ -2,13 +2,13 @@
   "standards": [
     {
       "id": "eu_mdr-os-iec-60601-2-62-2013+amd1-2023",
-      "number": "IEC 60601-2-62:2013+AMD1:2023",
+      "number": "IEC 60601-2-62:2013",
       "title": {
         "en": "Medical electrical equipment - Part 2-62: Particular requirements for the basic safety and essential performance of high intensity therapeutic ultrasound (HITU) equipment",
         "zh": "医用电气设备 - 第2-62部分：高强度治疗性超声(HITU)设备的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/6678",
+      "source_url": "https://webstore.iec.ch/en/publication/2678",
       "source_verified": "",
       "category": "therapeutic_ultrasound",
       "standard_type": "non_harmonised",
@@ -32,14 +32,14 @@
         "18"
       ],
       "standard_type": "international",
-      "source_url": "https://webstore.iec.ch/en/publication/4725",
+      "source_url": "https://webstore.iec.ch/en/publication/5150",
       "source_verified": true,
       "abstract": "Requirements for radiation force balances used to measure ultrasonic power.",
       "scope": "Ultrasonic power measurement"
     },
     {
       "id": "iec-61689-2013",
-      "number": "IEC 61689:2013+AMD1:2024",
+      "number": "IEC 61689:2022",
       "title": {
         "en": "Ultrasonics - Physiotherapy systems - Field specifications and methods of measurement in the frequency range 0,5 MHz to 5 MHz",
         "zh": "超声学 - 理疗系统 - 0.5MHz至5MHz频率范围内的场规格和测量方法"
@@ -50,10 +50,12 @@
         "18"
       ],
       "standard_type": "international",
-      "source_url": "https://webstore.iec.ch/en/publication/5723",
+      "source_url": "https://webstore.iec.ch/en/publication/66989",
       "source_verified": true,
       "abstract": "Field specifications and measurement methods for physiotherapy ultrasound systems.",
-      "scope": "Physiotherapy ultrasound"
+      "scope": "Physiotherapy ultrasound",
+      "title_en": "Ultrasonics - Physiotherapy systems - Field specifications and methods of measurement in the frequency range 0.5 MHz to 5 MHz",
+      "title_zh": "超声学 - 理疗系统 - 0.5 MHz至5 MHz频率范围内的场规范和测量方法"
     }
   ]
 }

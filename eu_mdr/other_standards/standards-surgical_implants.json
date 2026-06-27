@@ -135,13 +135,13 @@
     },
     {
       "id": "eu_mdr-os-iec-60601-2-46-2016",
-      "number": "IEC 60601-2-46:2016",
+      "number": "IEC 60601-2-46:2023",
       "title": {
         "en": "Medical electrical equipment - Part 2-46: Particular requirements for the basic safety and essential performance of operating tables",
         "zh": "医用电气设备 - 第2-46部分：手术台的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/25390",
+      "source_url": "https://webstore.iec.ch/en/publication/68385",
       "source_verified": "",
       "category": "surgical_implants",
       "standard_type": "non_harmonised",
@@ -150,7 +150,9 @@
         "14",
         "14.1"
       ],
-      "abstract": "Particular requirements for operating tables."
+      "abstract": "Particular requirements for operating tables.",
+      "title_en": "Medical electrical equipment - Part 2-46: Particular requirements for the basic safety and essential performance of operating tables",
+      "title_zh": "医用电气设备 - 第2-46部分：手术台基本安全和基本性能的特殊要求"
     },
     {
       "id": "eu_mdr-os-iec-60601-2-76-2018",

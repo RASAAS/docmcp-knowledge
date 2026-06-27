@@ -123,25 +123,6 @@
       "note": "WITHDRAWN 2025-10-01. Replaced by IEC TS 81001-2-2:2025 (https://webstore.iec.ch/en/publication/78673).",
       "title_en": "Health software and health IT systems safety, effectiveness and security - Part 2-2: Guidance for the implementation, disclosure and communication of security needs, risks and controls",
       "title_zh": "健康软件和健康IT系统安全、有效性和安保 - 第2-2部分：安全需求、风险和控制的实施、披露和通信指南"
-    },
-    {
-      "id": "iec-ts-81001-2-2-2025",
-      "number": "IEC TS 81001-2-2:2025",
-      "title": {
-        "en": "Health software and health IT systems safety, effectiveness and security - Part 2-2: Coordination - Guidance for the implementation, disclosure and communication of security needs, risks and controls",
-        "zh": "健康软件和健康IT系统的安全性、有效性和网络安全 - 第2-2部分：协调 - 安全需求、风险和控制的实施、披露和沟通指南"
-      },
-      "status": "active",
-      "applicable_gsprs": [
-        "17",
-        "17.4",
-        "18"
-      ],
-      "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/publication/78673",
-      "source_verified": "2026-06-24",
-      "abstract": "Combines and updates IEC/TR 80001-2-2:2012 and IEC TR 80001-2-8:2016. Provides guidance on implementation, disclosure and communication of security needs, risks and controls for connected medical devices and health software.",
-      "scope": "Security coordination and disclosure framework for health software and IT systems incorporating medical devices."
     }
   ]
 }

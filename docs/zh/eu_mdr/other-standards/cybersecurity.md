@@ -10,4 +10,3 @@
 | IEC 62443-4-1:2018 | 工业自动化和控制系统安全 - 第4-1部分：安全产品开发生命周期要求 | active | 17, 17.2, 17.4 | [官方链接](https://webstore.iec.ch/en/publication/33615) |
 | AAMI TIR57:2016/(R)2022 | 医疗器械安全原则 - 风险管理 | active | 17, 17.4, 18 | [官方链接](https://www.aami.org/standards/aami-tir57) |
 | IEC TS 81001-2-2:2025 | IT网络中纳入医疗器械的风险管理应用 - 第2-2部分：医疗器械安全需求、风险和控制的沟通指南 | withdrawn | 17, 17.4 | [官方链接](https://webstore.iec.ch/en/publication/78673) |
-| IEC TS 81001-2-2:2025 | 健康软件和健康IT系统的安全性、有效性和网络安全 - 第2-2部分：协调 - 安全需求、风险和控制的实施、披露和沟通指南 | active | 17, 17.4, 18 | [官方链接](https://webstore.iec.ch/en/publication/78673) |

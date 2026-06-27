@@ -60,7 +60,7 @@
     },
     {
       "id": "iec-60601-2-6-2020",
-      "number": "IEC 60601-2-6:2020",
+      "number": "IEC 60601-2-6:2012+AMD1:2016+AMD2:2022",
       "title": {
         "en": "Medical electrical equipment - Part 2-6: Particular requirements for the basic safety and essential performance of microwave therapy and hyperthermia equipment",
         "zh": "医用电气设备 - 第2-6部分：微波治疗设备的基本安全和基本性能专用要求"
@@ -72,13 +72,15 @@
         "18"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/publication/32186",
+      "source_url": "https://webstore.iec.ch/en/publication/78853",
       "abstract": "Specifies particular requirements for basic safety and essential performance of microwave therapy equipment.",
-      "scope": "Particular requirements for the basic safety and essential performance of microwave therapy equipment."
+      "scope": "Particular requirements for the basic safety and essential performance of microwave therapy equipment.",
+      "title_en": "Medical electrical equipment - Part 2-6: Particular requirements for the basic safety and essential performance of microwave therapy equipment",
+      "title_zh": "医用电气设备 - 第2-6部分：微波治疗设备基本安全和基本性能的特殊要求"
     },
     {
       "id": "iec-60601-2-10-2012-amd1-2016",
-      "number": "IEC 60601-2-10:2012+AMD1:2016",
+      "number": "IEC 60601-2-10:2012+AMD1:2016+AMD2:2023",
       "title": {
         "en": "Medical electrical equipment - Part 2-10: Particular requirements for the basic safety and essential performance of nerve and muscle stimulators",
         "zh": "医用电气设备 - 第2-10部分：神经和肌肉刺激器的基本安全和基本性能专用要求"
@@ -90,7 +92,7 @@
         "19"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/publication/24098",
+      "source_url": "https://webstore.iec.ch/en/publication/81814",
       "abstract": "Specifies particular requirements for basic safety and essential performance of nerve and muscle stimulators.",
       "scope": "Particular requirements for the basic safety and essential performance of nerve and muscle stimulators."
     },

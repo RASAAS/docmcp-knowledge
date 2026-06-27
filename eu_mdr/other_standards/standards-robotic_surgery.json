@@ -2,7 +2,7 @@
   "standards": [
     {
       "id": "iec-80601-2-77-2019",
-      "number": "IEC 80601-2-77:2019",
+      "number": "IEC 80601-2-77:2019+AMD1:2023",
       "title": {
         "en": "Medical electrical equipment - Part 2-77: Particular requirements for the basic safety and essential performance of robotically assisted surgical equipment",
         "zh": "医用电气设备 - 第2-77部分：机器人辅助手术设备的基本安全和基本性能的特殊要求"
@@ -17,7 +17,7 @@
         "17"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/publication/31013",
+      "source_url": "https://webstore.iec.ch/en/publication/89957",
       "source_verified": "2026-06-27",
       "abstract": "Applies to the basic safety and essential performance of robotically assisted surgical equipment (RASE) and its accessories. Edition 1.",
       "scope": "Robotically assisted surgical equipment and accessories."

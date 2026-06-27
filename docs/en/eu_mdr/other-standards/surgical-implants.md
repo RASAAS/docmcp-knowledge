@@ -11,5 +11,5 @@ The following non-harmonised international standards are related to **Surgical I
 | ASTM F2083-21 | Standard Specification for Knee Replacement Prosthesis | withdrawn | 10, 14 | [Link](https://store.astm.org/f2083-21.html) |
 | ASTM F2033-25 | Standard Specification for Hip Joint Replacement Bearing Surfaces | active | 10, 14 | [Link](https://store.astm.org/f2033-25.html) |
 | IEC 60601-2-41:2021 | Medical electrical equipment - Part 2-41: Particular requirements for the basic safety and essential performance of surgical luminaires and luminaires for diagnosis | active | 14, 14.1 | [Link](https://webstore.iec.ch/en/publication/66069) |
-| IEC 60601-2-46:2016 | Medical electrical equipment - Part 2-46: Particular requirements for the basic safety and essential performance of operating tables | active | 14, 14.1 | [Link](https://webstore.iec.ch/en/publication/25390) |
+| IEC 60601-2-46:2023 | Medical electrical equipment - Part 2-46: Particular requirements for the basic safety and essential performance of operating tables | active | 14, 14.1 | [Link](https://webstore.iec.ch/en/publication/68385) |
 | IEC 60601-2-76:2018 | Medical electrical equipment - Part 2-76: Particular requirements for the basic safety and essential performance of low energy ionized gas haemostasis equipment | active | 14, 14.1 | [Link](https://webstore.iec.ch/en/publication/31023) |

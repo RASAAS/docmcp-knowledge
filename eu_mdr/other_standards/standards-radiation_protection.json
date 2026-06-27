@@ -35,13 +35,13 @@
     },
     {
       "id": "eu_mdr-os-iec-60601-2-8-2010+amd1-2014",
-      "number": "IEC 60601-2-8:2010+AMD1:2014",
+      "number": "IEC 60601-2-8:2010+AMD1:2015",
       "title": {
         "en": "Medical electrical equipment - Part 2-8: Particular requirements for the basic safety and essential performance of therapeutic X-ray equipment operating in the range 10 kV to 1 MV",
         "zh": "医用电气设备 - 第2-8部分：X射线治疗设备的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/2612",
+      "source_url": "https://webstore.iec.ch/en/publication/23416",
       "source_verified": "",
       "category": "radiation_protection",
       "standard_type": "non_harmonised",
@@ -54,13 +54,13 @@
     },
     {
       "id": "eu_mdr-os-iec-60601-2-11-2013+amd1-2017",
-      "number": "IEC 60601-2-11:2013+AMD1:2017",
+      "number": "IEC 60601-2-11:2013",
       "title": {
         "en": "Medical electrical equipment - Part 2-11: Particular requirements for the basic safety and essential performance of gamma beam therapy equipment",
         "zh": "医用电气设备 - 第2-11部分：伽马射束治疗设备的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/2617",
+      "source_url": "https://webstore.iec.ch/en/publication/2618",
       "source_verified": "",
       "category": "radiation_protection",
       "standard_type": "non_harmonised",
@@ -92,13 +92,13 @@
     },
     {
       "id": "eu_mdr-os-iec-60601-2-29-2008+amd1-2015",
-      "number": "IEC 60601-2-29:2008+AMD1:2015",
+      "number": "IEC 60601-2-29:2008",
       "title": {
         "en": "Medical electrical equipment - Part 2-29: Particular requirements for the basic safety and essential performance of radiotherapy simulators",
         "zh": "医用电气设备 - 第2-29部分：放射治疗模拟机的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/2640",
+      "source_url": "https://webstore.iec.ch/en/publication/2641",
       "source_verified": "",
       "category": "radiation_protection",
       "standard_type": "non_harmonised",
@@ -111,13 +111,13 @@
     },
     {
       "id": "eu_mdr-os-iec-60601-2-64-2014+amd1-2017",
-      "number": "IEC 60601-2-64:2014+AMD1:2017",
+      "number": "IEC 60601-2-64:2025",
       "title": {
         "en": "Medical electrical equipment - Part 2-64: Particular requirements for the basic safety and essential performance of light ion beam medical electrical equipment",
         "zh": "医用电气设备 - 第2-64部分：轻粒子束治疗设备的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/2680",
+      "source_url": "https://webstore.iec.ch/en/publication/78373",
       "source_verified": "",
       "category": "radiation_protection",
       "standard_type": "non_harmonised",
@@ -126,17 +126,19 @@
         "14",
         "16"
       ],
-      "abstract": "Particular requirements for light ion beam therapy equipment."
+      "abstract": "Particular requirements for light ion beam therapy equipment.",
+      "title_en": "Medical electrical equipment - Part 2-64: Particular requirements for the basic safety and essential performance of light ion beam medical electrical equipment",
+      "title_zh": "医用电气设备 - 第2-64部分：轻离子束医用电气设备基本安全和基本性能的特殊要求"
     },
     {
       "id": "eu_mdr-os-iec-60601-2-68-2014+amd1-2016",
-      "number": "IEC 60601-2-68:2014+AMD1:2016",
+      "number": "IEC 60601-2-68:2025",
       "title": {
         "en": "Medical electrical equipment - Part 2-68: Particular requirements for the basic safety and essential performance of X-ray-based image-guided radiotherapy equipment for use with electron accelerators, light ion beam therapy equipment and radionuclide beam therapy equipment",
         "zh": "医用电气设备 - 第2-68部分：X射线立体定向放射外科设备的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/24099",
+      "source_url": "https://webstore.iec.ch/en/publication/67429",
       "source_verified": "",
       "category": "radiation_protection",
       "standard_type": "non_harmonised",
@@ -145,7 +147,9 @@
         "14",
         "16"
       ],
-      "abstract": "Particular requirements for image-guided radiotherapy equipment."
+      "abstract": "Particular requirements for image-guided radiotherapy equipment.",
+      "title_en": "Medical electrical equipment - Part 2-68: Particular requirements for the basic safety and essential performance of X-ray-based image-guided radiotherapy equipment",
+      "title_zh": "医用电气设备 - 第2-68部分：与电子加速器、轻离子束治疗设备和放射性核素束治疗设备配合使用的基于X射线的图像引导放射治疗设备的基本安全和基本性能特殊要求"
     },
     {
       "id": "eu_mdr-os-iec-60601-2-9-2020",

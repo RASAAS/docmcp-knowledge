@@ -4,7 +4,5 @@
 
 | 标准号 | 标题 | 状态 | 适用GSPRs | 官方链接 |
 |--------|------|------|-----------|----------|
+| IEC 62366-1:2015+AMD1:2020 |  | active |  | [官方链接](https://webstore.iec.ch/en/publication/67220) |
 | IEC/TR 62366-2:2016 | 医疗器械 - 第2部分：可用性工程在医疗器械中的应用指南 | active | 5, 22, 22.1, 5(a), 5(b) | [官方链接](https://webstore.iec.ch/en/publication/26649) |
-| EN IEC 62366-1:2015+A1:2020 | 医疗器械 - 第1部分：可用性工程在医疗器械中的应用 | active | 1, 3, 4, 5, 6, 8, 14, 14.6, 18, 19, 20, 20.5, 21, 21.3, 22, 22.1, 22.2, 22.3, 23, 23.4, 3(d), 5(a), 4(c), 5(b), 4(b) | [官方链接](https://webstore.iec.ch/en/publication/67220) |
-| IEC 62366-1:2015+AMD1:2020 | 医疗器械 - 第1部分：可用性工程在医疗器械中的应用 | active | 5, 22 | [官方链接](https://webstore.iec.ch/en/publication/67220) |
-| IEC 62366-2:2016 | 医疗器械 - 第2部分：可用性工程在医疗器械中的应用指南 | active | 5, 22 | [官方链接](https://webstore.iec.ch/en/publication/26649) |
