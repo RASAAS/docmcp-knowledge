@@ -21,7 +21,7 @@
     },
     {
       "id": "iec-61161-2013",
-      "number": "IEC 61161:2013+AMD1:2019",
+      "number": "IEC 61161:2013",
       "title": {
         "en": "Ultrasonics - Power measurement - Radiation force balances and performance requirements",
         "zh": "超声学 - 功率测量 - 辐射力天平和性能要求"
@@ -32,7 +32,7 @@
         "18"
       ],
       "standard_type": "international",
-      "source_url": "https://webstore.iec.ch/en/publication/5150",
+      "source_url": "https://webstore.iec.ch/en/publication/4708",
       "source_verified": true,
       "abstract": "Requirements for radiation force balances used to measure ultrasonic power.",
       "scope": "Ultrasonic power measurement"

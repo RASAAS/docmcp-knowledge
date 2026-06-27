@@ -12,4 +12,4 @@
 | ASTM F2033-25 | 标准规范 - 髋关节置换假体承载表面 | active | 10, 14 | [官方链接](https://store.astm.org/f2033-25.html) |
 | IEC 60601-2-41:2021 | 医用电气设备 - 第2-41部分：外科照明设备和诊断照明设备的基本安全和基本性能专用要求 | active | 14, 14.1 | [官方链接](https://webstore.iec.ch/en/publication/66069) |
 | IEC 60601-2-46:2023 | 医用电气设备 - 第2-46部分：手术台的基本安全和基本性能专用要求 | active | 14, 14.1 | [官方链接](https://webstore.iec.ch/en/publication/68385) |
-| IEC 60601-2-76:2018 | 医用电气设备 - 第2-76部分：低能X射线照相成像设备的基本安全和基本性能专用要求 | active | 14, 14.1 | [官方链接](https://webstore.iec.ch/en/publication/31023) |
+| IEC 60601-2-76:2018+AMD1:2023 | 医用电气设备 - 第2-76部分：低能X射线照相成像设备的基本安全和基本性能专用要求 | active | 14, 14.1 | [官方链接](https://webstore.iec.ch/en/publication/30149) |

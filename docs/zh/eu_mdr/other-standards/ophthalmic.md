@@ -4,7 +4,7 @@
 
 | 标准号 | 标题 | 状态 | 适用GSPRs | 官方链接 |
 |--------|------|------|-----------|----------|
-| IEC 80601-2-58:2014+AMD1:2016 | 医用电气设备 - 第2-58部分：晶体乳化手术和玻璃体切割设备的基本安全和基本性能专用要求 | active | 14, 14.1 | [官方链接](https://webstore.iec.ch/en/publication/24447) |
+| IEC 80601-2-58:2024 | Particular requirements for lens removal devices and vitrectomy devices for ophthalmic surgery | active | 14, 14.1 | [官方链接](https://webstore.iec.ch/en/publication/68607) |
 | ISO 11979-1:2026 | 眼科植入物 - 人工晶体 - 第1部分：词汇 | active | 10, 14, 15 | [官方链接](https://www.iso.org/standard/79921.html) |
 | ISO 11979-2:2024 | 眼科植入物 - 人工晶状体 - 第2部分：光学性能和试验方法 | active | 14, 18 | [官方链接](https://www.iso.org/standard/82840.html) |
 | ISO 11979-7:2024 | 眼科植入物 - 人工晶状体 - 第7部分：矫正无晶状体眼的人工晶状体临床调查 | active | 14, 18, 20 | [官方链接](https://www.iso.org/standard/82841.html) |

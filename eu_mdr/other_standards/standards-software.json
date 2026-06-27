@@ -65,7 +65,7 @@
         "zh": ""
       },
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/publication/7483",
+      "source_url": "https://webstore.iec.ch/en/publication/7488",
       "applicable_gsprs": [
         "17",
         "17.1"
@@ -172,7 +172,7 @@
         "17"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/publication/65308",
+      "source_url": "https://webstore.iec.ch/en/publication/67138",
       "abstract": "Provides an overview of trustworthiness in artificial intelligence, including reliability, safety and security aspects.",
       "scope": "Information technology -- Artificial intelligence -- Overview of trustworthiness in artificial intelligence."
     },
@@ -189,7 +189,7 @@
         "17"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/publication/68155",
+      "source_url": "https://webstore.iec.ch/en/publication/82914",
       "abstract": "Provides guidance on managing risks related to the development and use of artificial intelligence.",
       "scope": "Information technology -- Artificial intelligence -- Guidance on risk management."
     }

@@ -5,5 +5,5 @@ The following non-harmonised international standards are related to **Therapeuti
 | Standard | Title | Status | GSPRs | Link |
 |----------|-------|--------|-------|------|
 | IEC 60601-2-62:2013 | Medical electrical equipment - Part 2-62: Particular requirements for the basic safety and essential performance of high intensity therapeutic ultrasound (HITU) equipment | active | 14, 14.1 | [Link](https://webstore.iec.ch/en/publication/2678) |
-| IEC 61161:2013+AMD1:2019 | Ultrasonics - Power measurement - Radiation force balances and performance requirements | active | 14, 18 | [Link](https://webstore.iec.ch/en/publication/5150) |
+| IEC 61161:2013 | Ultrasonics - Power measurement - Radiation force balances and performance requirements | active | 14, 18 | [Link](https://webstore.iec.ch/en/publication/4708) |
 | IEC 61689:2022 | Ultrasonics - Physiotherapy systems - Field specifications and methods of measurement in the frequency range 0,5 MHz to 5 MHz | active | 14, 18 | [Link](https://webstore.iec.ch/en/publication/66989) |

@@ -42,13 +42,13 @@
     },
     {
       "id": "eu_mdr-os-iec-60601-2-21-2020",
-      "number": "IEC 60601-2-21:2020",
+      "number": "IEC 60601-2-21:2020+AMD1:2023",
       "title": {
         "en": "Medical electrical equipment - Part 2-21: Particular requirements for the basic safety and essential performance of infant radiant warmers",
         "zh": "医用电气设备 - 第2-21部分：婴儿辐射保暖台的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/27034",
+      "source_url": "https://webstore.iec.ch/en/publication/89776",
       "source_verified": "",
       "category": "neonatal",
       "standard_type": "non_harmonised",
@@ -61,13 +61,13 @@
     },
     {
       "id": "eu_mdr-os-iec-60601-2-50-2020",
-      "number": "IEC 60601-2-50:2020",
+      "number": "IEC 60601-2-50:2020+AMD1:2023",
       "title": {
         "en": "Medical electrical equipment - Part 2-50: Particular requirements for the basic safety and essential performance of infant phototherapy equipment",
         "zh": "医用电气设备 - 第2-50部分：婴儿光治疗设备的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/31936",
+      "source_url": "https://webstore.iec.ch/en/publication/89656",
       "source_verified": "",
       "category": "neonatal",
       "standard_type": "non_harmonised",

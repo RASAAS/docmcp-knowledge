@@ -156,13 +156,13 @@
     },
     {
       "id": "eu_mdr-os-iec-60601-2-76-2018",
-      "number": "IEC 60601-2-76:2018",
+      "number": "IEC 60601-2-76:2018+AMD1:2023",
       "title": {
         "en": "Medical electrical equipment - Part 2-76: Particular requirements for the basic safety and essential performance of low energy ionized gas haemostasis equipment",
         "zh": "医用电气设备 - 第2-76部分：低能X射线照相成像设备的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/31023",
+      "source_url": "https://webstore.iec.ch/en/publication/30149",
       "source_verified": "",
       "category": "surgical_implants",
       "standard_type": "non_harmonised",

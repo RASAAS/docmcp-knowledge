@@ -12,4 +12,4 @@
 | IEC 60601-2-29:2008 | 医用电气设备 - 第2-29部分：放射治疗模拟机的基本安全和基本性能专用要求 | active | 14, 16 | [官方链接](https://webstore.iec.ch/en/publication/2641) |
 | IEC 60601-2-64:2025 | 医用电气设备 - 第2-64部分：轻粒子束治疗设备的基本安全和基本性能专用要求 | active | 14, 16 | [官方链接](https://webstore.iec.ch/en/publication/78373) |
 | IEC 60601-2-68:2025 | 医用电气设备 - 第2-68部分：X射线立体定向放射外科设备的基本安全和基本性能专用要求 | active | 14, 16 | [官方链接](https://webstore.iec.ch/en/publication/67429) |
-| IEC 60731:2011+AMD1:2016 | 医用电气设备 - 第2-9部分：接触式放射治疗设备的基本安全和基本性能专用要求 | active | 14, 16 | [官方链接](https://webstore.iec.ch/en/publication/24331) |
+| IEC 60731:2011+AMD1:2016 | 医用电气设备 - 第2-9部分：接触式放射治疗设备的基本安全和基本性能专用要求 | active | 14, 16 | [官方链接](https://webstore.iec.ch/en/publication/24481) |
