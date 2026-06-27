@@ -8,7 +8,7 @@
         "zh": "放射性核素成像设备 - 特性和试验条件 - 第1部分：正电子发射断层摄影（PET）"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/66022",
+      "source_url": "https://webstore.iec.ch/en/publication/67292",
       "source_verified": "",
       "category": "nuclear_medicine",
       "standard_type": "non_harmonised",
@@ -37,42 +37,6 @@
         "16"
       ],
       "abstract": "Characteristics and test conditions for SPECT scanners."
-    },
-    {
-      "id": "iec-61675-3-2022",
-      "number": "IEC 61675-3:2022",
-      "title": {
-        "en": "Radionuclide imaging devices - Characteristics and test conditions - Part 3: Gamma camera based wholebody imaging systems",
-        "zh": "放射性核素成像设备 - 特性和试验条件 - 第3部分：基于伽马相机的全身成像系统"
-      },
-      "status": "active",
-      "applicable_gsprs": [
-        "14",
-        "18"
-      ],
-      "standard_type": "international",
-      "source_url": "https://webstore.iec.ch/en/publication/66023",
-      "source_verified": true,
-      "abstract": "Characteristics and test conditions for gamma camera based wholebody imaging systems.",
-      "scope": "Nuclear medicine whole body imaging"
-    },
-    {
-      "id": "iec-62220-1-2024",
-      "number": "IEC 62220-1:2024",
-      "title": {
-        "en": "Medical electrical equipment - Characteristics of digital X-ray imaging devices - Part 1: Determination of the detective quantum efficiency - Detectors used in radiographic imaging",
-        "zh": "医用电气设备 - 数字X射线成像设备的特性 - 第1部分：探测量子效率的测定 - 放射成像探测器"
-      },
-      "status": "active",
-      "applicable_gsprs": [
-        "14",
-        "18"
-      ],
-      "standard_type": "international",
-      "source_url": "https://webstore.iec.ch/en/publication/67925",
-      "source_verified": true,
-      "abstract": "Methods for determination of detective quantum efficiency of digital X-ray imaging detectors.",
-      "scope": "Digital X-ray detector characterization"
     }
   ]
 }

@@ -24,7 +24,7 @@
     },
     {
       "id": "iec-60601-2-2-2017",
-      "number": "IEC 60601-2-2:2017",
+      "number": "IEC 60601-2-2:2017+AMD1:2023",
       "title": {
         "en": "Medical electrical equipment - Part 2-2: Particular requirements for the basic safety and essential performance of high frequency surgical equipment and high frequency surgical accessories",
         "zh": "医用电气设备 - 第2-2部分：高频手术设备和高频手术附件的基本安全和基本性能专用要求"
@@ -36,7 +36,7 @@
         "20"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/publication/68382",
+      "source_url": "https://webstore.iec.ch/en/publication/83195",
       "abstract": "Specifies particular requirements for basic safety and essential performance of high frequency surgical equipment and accessories.",
       "scope": "Particular requirements for the basic safety and essential performance of high frequency surgical equipment and high frequency surgical accessories."
     },
@@ -96,7 +96,7 @@
     },
     {
       "id": "iec-60601-2-16-2018",
-      "number": "IEC 60601-2-16:2018",
+      "number": "IEC 60601-2-16:2025",
       "title": {
         "en": "Medical electrical equipment - Part 2-16: Particular requirements for the basic safety and essential performance of haemodialysis, haemodiafiltration and haemofiltration equipment",
         "zh": "医用电气设备 - 第2-16部分：血液透析、血液透析滤过和血液滤过设备的基本安全和基本性能专用要求"
@@ -110,7 +110,9 @@
       "standard_type": "non_harmonised",
       "source_url": "https://webstore.iec.ch/en/publication/68379",
       "abstract": "Specifies particular requirements for basic safety and essential performance of haemodialysis, haemodiafiltration and haemofiltration equipment.",
-      "scope": "Particular requirements for the basic safety and essential performance of haemodialysis, haemodiafiltration and haemofiltration equipment."
+      "scope": "Particular requirements for the basic safety and essential performance of haemodialysis, haemodiafiltration and haemofiltration equipment.",
+      "title_en": "Medical electrical equipment - Part 2-16: Particular requirements for the basic safety and essential performance of haemodialysis, haemodiafiltration and haemofiltration equipment",
+      "title_zh": "医用电气设备 - 第2-16部分：血液透析、血液透析滤过和血液滤过设备基本安全和基本性能的特殊要求"
     },
     {
       "id": "iec-60601-2-24-2012",
@@ -264,7 +266,7 @@
     },
     {
       "id": "eu_mdr-os-iec-62353-2014+amd1-2020",
-      "number": "IEC 62353:2014+AMD1:2020",
+      "number": "IEC 62353:2014",
       "title": {
         "en": "Medical electrical equipment - Recurrent test and test after repair of medical electrical equipment",
         "zh": "医用电气设备 - 定期检测和修理后检测"

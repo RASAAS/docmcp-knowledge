@@ -2,13 +2,13 @@
   "standards": [
     {
       "id": "eu_mdr-os-iec-60601-2-39-2018",
-      "number": "IEC 60601-2-39:2018",
+      "number": "IEC 60601-2-39:2024",
       "title": {
         "en": "Medical electrical equipment - Part 2-39: Particular requirements for the basic safety and essential performance of peritoneal dialysis equipment",
         "zh": "医用电气设备 - 第2-39部分：腹膜透析设备的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/27665",
+      "source_url": "https://webstore.iec.ch/en/publication/68380",
       "source_verified": "",
       "category": "dialysis",
       "standard_type": "non_harmonised",
@@ -17,11 +17,13 @@
         "14",
         "14.2"
       ],
-      "abstract": "Particular requirements for peritoneal dialysis equipment."
+      "abstract": "Particular requirements for peritoneal dialysis equipment.",
+      "title_en": "Medical electrical equipment - Part 2-39: Particular requirements for basic safety and essential performance of peritoneal dialysis equipment",
+      "title_zh": "医用电气设备 - 第2-39部分：腹膜透析设备基本安全和基本性能的特殊要求"
     },
     {
       "id": "iec-60601-2-16-2018",
-      "number": "IEC 60601-2-16:2018",
+      "number": "IEC 60601-2-16:2025",
       "title": {
         "en": "Medical electrical equipment - Part 2-16: Particular requirements for the basic safety and essential performance of haemodialysis, haemodiafiltration and haemofiltration equipment",
         "zh": "医用电气设备 - 第2-16部分：血液透析、血液透析滤过和血液滤过设备的基本安全和基本性能的特殊要求"
@@ -38,7 +40,9 @@
       "source_url": "https://webstore.iec.ch/en/publication/68379",
       "source_verified": "2026-06-27",
       "abstract": "Applies to the basic safety and essential performance of haemodialysis, haemodiafiltration, and haemofiltration equipment. Edition 3.",
-      "scope": "Haemodialysis, haemodiafiltration and haemofiltration equipment."
+      "scope": "Haemodialysis, haemodiafiltration and haemofiltration equipment.",
+      "title_en": "Medical electrical equipment - Part 2-16: Particular requirements for the basic safety and essential performance of haemodialysis, haemodiafiltration and haemofiltration equipment",
+      "title_zh": "医用电气设备 - 第2-16部分：血液透析、血液透析滤过和血液滤过设备基本安全和基本性能的特殊要求"
     },
     {
       "id": "iso-23500-1-2019",

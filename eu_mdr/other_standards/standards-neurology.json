@@ -2,13 +2,13 @@
   "standards": [
     {
       "id": "eu_mdr-os-iec-60601-2-26-2019",
-      "number": "IEC 60601-2-26:2019",
+      "number": "IEC 80601-2-26:2019+AMD1:2024",
       "title": {
         "en": "Medical electrical equipment - Part 2-26: Particular requirements for the basic safety and essential performance of electroencephalographs",
         "zh": "医用电气设备 - 第2-26部分：脑电图设备的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/31795",
+      "source_url": "https://webstore.iec.ch/en/publication/92074",
       "source_verified": "",
       "category": "neurology",
       "standard_type": "non_harmonised",
@@ -17,17 +17,19 @@
         "14",
         "14.1"
       ],
-      "abstract": "Particular requirements for electroencephalographs."
+      "abstract": "Particular requirements for electroencephalographs.",
+      "title_en": "Medical electrical equipment - Part 2-26: Particular requirements for the basic safety and essential performance of electroencephalographs",
+      "title_zh": "医用电气设备 - 第2-26部分：脑电图仪基本安全和基本性能的特殊要求"
     },
     {
       "id": "eu_mdr-os-iec-60601-2-40-2016",
-      "number": "IEC 60601-2-40:2016",
+      "number": "IEC 60601-2-40:2024",
       "title": {
         "en": "Medical electrical equipment - Part 2-40: Particular requirements for the basic safety and essential performance of electromyographs and evoked response equipment",
         "zh": "医用电气设备 - 第2-40部分：肌电图和诱发反应设备的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/25362",
+      "source_url": "https://webstore.iec.ch/en/publication/68373",
       "source_verified": "",
       "category": "neurology",
       "standard_type": "non_harmonised",
@@ -36,36 +38,19 @@
         "14",
         "14.1"
       ],
-      "abstract": "Particular requirements for electromyographs and evoked response equipment."
-    },
-    {
-      "id": "eu_mdr-os-iec-60601-2-14-2024",
-      "number": "IEC 60601-2-14:2024",
-      "title": {
-        "en": "Medical electrical equipment - Part 2-14: Particular requirements for the basic safety and essential performance of electroconvulsive therapy equipment",
-        "zh": "医用电气设备 - 第2-14部分：颅脑伽玛射束治疗设备的基本安全和基本性能专用要求"
-      },
-      "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/68377",
-      "source_verified": "",
-      "category": "neurology",
-      "standard_type": "non_harmonised",
-      "scope": "Electroconvulsive therapy equipment.",
-      "applicable_gsprs": [
-        "14",
-        "14.1"
-      ],
-      "abstract": "Particular requirements for electroconvulsive therapy equipment."
+      "abstract": "Particular requirements for electromyographs and evoked response equipment.",
+      "title_en": "Medical electrical equipment - Part 2-40: Particular requirements for the basic safety and essential performance of electromyographs and evoked response equipment",
+      "title_zh": "医用电气设备 - 第2-40部分：肌电图仪和诱发反应设备基本安全和基本性能的特殊要求"
     },
     {
       "id": "eu_mdr-os-iec-80601-2-71-2015",
-      "number": "IEC 80601-2-71:2015",
+      "number": "IEC 80601-2-71:2025",
       "title": {
         "en": "Medical electrical equipment - Part 2-71: Particular requirements for the basic safety and essential performance of functional near-infrared spectroscopy (fNIRS) equipment",
         "zh": "医用电气设备 - 第2-71部分：功能性神经刺激器(FNS)设备的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/22497",
+      "source_url": "https://webstore.iec.ch/en/publication/68378",
       "source_verified": "",
       "category": "neurology",
       "standard_type": "non_harmonised",
@@ -74,7 +59,9 @@
         "14",
         "14.1"
       ],
-      "abstract": "Particular requirements for functional near-infrared spectroscopy equipment."
+      "abstract": "Particular requirements for functional near-infrared spectroscopy equipment.",
+      "title_en": "Medical electrical equipment - Part 2-71: Particular requirements for the basic safety and essential performance of functional near-infrared spectroscopy (NIRS) equipment",
+      "title_zh": "医用电气设备 - 第2-71部分：功能性近红外光谱（NIRS）设备基本安全和基本性能的特殊要求"
     },
     {
       "id": "iso-7197-2024",

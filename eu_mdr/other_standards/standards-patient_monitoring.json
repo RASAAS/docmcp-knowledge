@@ -2,7 +2,7 @@
   "standards": [
     {
       "id": "eu_mdr-os-iec-60601-2-23-2011+amd1-2019",
-      "number": "IEC 60601-2-23:2011+AMD1:2019",
+      "number": "IEC 60601-2-23:2011",
       "title": {
         "en": "Medical electrical equipment - Part 2-23: Particular requirements for the basic safety and essential performance of transcutaneous partial pressure monitoring equipment",
         "zh": "医用电气设备 - 第2-23部分：经皮分压监测设备的基本安全和基本性能专用要求"
@@ -21,13 +21,13 @@
     },
     {
       "id": "eu_mdr-os-iec-60601-2-85-2021",
-      "number": "IEC 60601-2-85:2021",
+      "number": "ISO 80601-2-85:2021",
       "title": {
         "en": "Medical electrical equipment - Part 2-85: Particular requirements for the basic safety and essential performance of cerebral tissue oximeters",
         "zh": "医用电气设备 - 第2-85部分：脉搏血氧仪设备的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/62596",
+      "source_url": "https://webstore.iec.ch/en/publication/31693",
       "source_verified": "",
       "category": "patient_monitoring",
       "standard_type": "non_harmonised",
@@ -36,17 +36,19 @@
         "14",
         "14.1"
       ],
-      "abstract": "Particular requirements for cerebral tissue oximeters."
+      "abstract": "Particular requirements for cerebral tissue oximeters.",
+      "title_en": "Medical electrical equipment - Part 2-85: Particular requirements for the basic safety and essential performance of cerebral tissue oximeter equipment",
+      "title_zh": "医用电气设备 - 第2-85部分：脑组织血氧仪设备基本安全和基本性能的特殊要求"
     },
     {
       "id": "eu_mdr-os-iec-60601-2-30-2018",
-      "number": "IEC 60601-2-30:2018",
+      "number": "IEC 80601-2-30:2018",
       "title": {
         "en": "Medical electrical equipment - Part 2-30: Particular requirements for the basic safety and essential performance of automated non-invasive sphygmomanometers",
         "zh": "医用电气设备 - 第2-30部分：无创血压监测设备的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/28626",
+      "source_url": "https://webstore.iec.ch/en/publication/29812",
       "source_verified": "",
       "category": "patient_monitoring",
       "standard_type": "non_harmonised",
@@ -55,7 +57,9 @@
         "14",
         "14.1"
       ],
-      "abstract": "Particular requirements for automated non-invasive blood pressure monitors."
+      "abstract": "Particular requirements for automated non-invasive blood pressure monitors.",
+      "title_en": "Medical electrical equipment - Part 2-30: Particular requirements for the basic safety and essential performance of automated non-invasive sphygmomanometers",
+      "title_zh": "医用电气设备 - 第2-30部分：自动无创血压计基本安全和基本性能的特殊要求"
     },
     {
       "id": "eu_mdr-os-iec-80601-2-61-2017+amd1-2023",
