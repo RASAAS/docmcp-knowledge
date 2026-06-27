@@ -8,7 +8,12 @@
         "zh": "含铜宫内节育器 - 要求和试验"
       },
       "status": "active",
-      "applicable_gsprs": ["1", "3", "5", "10"],
+      "applicable_gsprs": [
+        "1",
+        "3",
+        "5",
+        "10"
+      ],
       "standard_type": "non_harmonised",
       "source_url": "https://www.iso.org/standard/82276.html",
       "source_verified": "2026-06-27",
@@ -23,9 +28,15 @@
         "zh": "医用电气设备 - 第2-41部分：手术灯和诊断灯的基本安全和基本性能的特殊要求"
       },
       "status": "active",
-      "applicable_gsprs": ["1", "3", "5", "9", "14"],
+      "applicable_gsprs": [
+        "1",
+        "3",
+        "5",
+        "9",
+        "14"
+      ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/publication/62415",
+      "source_url": "https://webstore.iec.ch/en/publication/64385",
       "source_verified": "2026-06-27",
       "abstract": "Applies to the basic safety and essential performance of surgical luminaires and luminaires for diagnosis. Edition 2.",
       "scope": "Surgical and diagnostic luminaires used in gynecological and urological examinations."
@@ -38,9 +49,14 @@
         "zh": "机械避孕器具 - 可重复使用天然橡胶乳胶隔膜 - 要求和试验"
       },
       "status": "active",
-      "applicable_gsprs": ["1", "3", "5", "10"],
+      "applicable_gsprs": [
+        "1",
+        "3",
+        "5",
+        "10"
+      ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/standard/62116.html",
+      "source_url": "https://www.iso.org/standard/57242.html",
       "source_verified": "2026-06-27",
       "abstract": "Specifies the minimum requirements and test methods to be used for reusable natural rubber latex vaginal diaphragms. Confirmed in 2020.",
       "scope": "Reusable natural rubber latex vaginal diaphragms for contraception."
@@ -53,9 +69,14 @@
         "zh": "女用安全套 - 要求和试验方法"
       },
       "status": "active",
-      "applicable_gsprs": ["1", "3", "5", "10"],
+      "applicable_gsprs": [
+        "1",
+        "3",
+        "5",
+        "10"
+      ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/standard/63967.html",
+      "source_url": "https://www.iso.org/standard/67406.html",
       "source_verified": "2026-06-27",
       "abstract": "Specifies minimum requirements and test methods for single-use female condoms made of synthetic and natural rubber latex. Edition 2, confirmed in 2023.",
       "scope": "Female condoms (natural rubber latex and synthetic materials)."
@@ -68,9 +89,14 @@
         "zh": "男用安全套 - 与避孕套兼容润滑剂配合使用的避孕套的要求和试验方法"
       },
       "status": "active",
-      "applicable_gsprs": ["1", "3", "5", "10"],
+      "applicable_gsprs": [
+        "1",
+        "3",
+        "5",
+        "10"
+      ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/standard/56530.html",
+      "source_url": "https://www.iso.org/standard/41561.html",
       "source_verified": "2026-06-27",
       "abstract": "Specifies requirements and test methods for male condoms to be used with condom-compatible lubricants. Confirmed in 2020.",
       "scope": "Male condoms and compatible lubricants."
@@ -83,9 +109,13 @@
         "zh": "医用电气设备 - 第2-25部分：心电图仪的基本安全和基本性能的特殊要求"
       },
       "status": "active",
-      "applicable_gsprs": ["1", "3", "14"],
+      "applicable_gsprs": [
+        "1",
+        "3",
+        "14"
+      ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/publication/2635",
+      "source_url": "https://webstore.iec.ch/en/publication/2636",
       "source_verified": "2026-06-27",
       "abstract": "Applies to the basic safety and essential performance of electrocardiographs intended for use in diagnosis and monitoring. Edition 2.",
       "scope": "Electrocardiograph equipment for cardiac diagnosis and monitoring.",

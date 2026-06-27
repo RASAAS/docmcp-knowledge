@@ -8,24 +8,34 @@
         "zh": "心血管植入物 - 血管内器械 - 第1部分：血管内假体"
       },
       "status": "active",
-      "applicable_gsprs": ["1", "3", "5", "10"],
+      "applicable_gsprs": [
+        "1",
+        "3",
+        "5",
+        "10"
+      ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/standard/63457.html",
+      "source_url": "https://www.iso.org/standard/66925.html",
       "source_verified": "2026-06-27",
       "abstract": "Specifies requirements for endovascular prostheses (stent-grafts) for aortic and peripheral vascular repair. Confirmed 2023.",
       "scope": "Endovascular stent-grafts for aortic aneurysm and peripheral vascular disease."
     },
     {
-      "id": "iso-25539-3-2020",
-      "number": "ISO 25539-3:2020",
+      "id": "iso-25539-3-2024",
+      "number": "ISO 25539-3:2024",
       "title": {
         "en": "Cardiovascular implants - Endovascular devices - Part 3: Vena cava filters",
         "zh": "心血管植入物 - 血管内器械 - 第3部分：腔静脉滤器"
       },
       "status": "active",
-      "applicable_gsprs": ["1", "3", "5", "10"],
+      "applicable_gsprs": [
+        "1",
+        "3",
+        "5",
+        "10"
+      ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/standard/69892.html",
+      "source_url": "https://www.iso.org/standard/80225.html",
       "source_verified": "2026-06-27",
       "abstract": "Specifies particular requirements for vena cava filters used to prevent pulmonary embolism. Covers design, materials, preclinical and clinical evaluation.",
       "scope": "Vena cava filters for pulmonary embolism prevention."
@@ -38,7 +48,12 @@
         "zh": "心血管植入物和体外循环系统 - 血管假体 - 管状血管移植物和血管补片"
       },
       "status": "active",
-      "applicable_gsprs": ["1", "3", "5", "10"],
+      "applicable_gsprs": [
+        "1",
+        "3",
+        "5",
+        "10"
+      ],
       "standard_type": "non_harmonised",
       "source_url": "https://www.iso.org/standard/50661.html",
       "source_verified": "2026-06-27",
@@ -53,9 +68,14 @@
         "zh": "心血管植入物 - 血管内器械 - 第4部分：弹簧圈和血流导向装置"
       },
       "status": "active",
-      "applicable_gsprs": ["1", "3", "5", "10"],
+      "applicable_gsprs": [
+        "1",
+        "3",
+        "5",
+        "10"
+      ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/standard/69893.html",
+      "source_url": "https://www.iso.org/standard/75783.html",
       "source_verified": "2026-06-27",
       "abstract": "Specifies particular requirements for neurovascular coils and flow diverters used for treatment of intracranial aneurysms.",
       "scope": "Neurovascular coils and flow diverters for intracranial aneurysm treatment."
@@ -68,9 +88,14 @@
         "zh": "心血管植入物和体外循环系统 - 血管器械-药物组合产品 - 第1部分：通用要求"
       },
       "status": "active",
-      "applicable_gsprs": ["1", "3", "5", "10"],
+      "applicable_gsprs": [
+        "1",
+        "3",
+        "5",
+        "10"
+      ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/standard/59813.html",
+      "source_url": "https://www.iso.org/standard/63513.html",
       "source_verified": "2026-06-27",
       "abstract": "Specifies general requirements for vascular device-drug combination products (e.g. drug-eluting stents). Covers drug release, biocompatibility, and performance. Confirmed 2021.",
       "scope": "Drug-eluting vascular devices (drug-eluting stents, drug-coated balloons)."

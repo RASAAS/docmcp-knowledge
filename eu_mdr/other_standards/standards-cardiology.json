@@ -66,9 +66,14 @@
         "zh": "心血管植入物 - 血管内器械 - 第1部分：血管内假体"
       },
       "status": "active",
-      "applicable_gsprs": ["1", "3", "5", "10"],
+      "applicable_gsprs": [
+        "1",
+        "3",
+        "5",
+        "10"
+      ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/standard/63457.html",
+      "source_url": "https://www.iso.org/standard/66925.html",
       "source_verified": "2026-06-27",
       "abstract": "Specifies requirements for endovascular prostheses (stent-grafts) including design, material, sterility, biocompatibility, packaging, and labelling. Confirmed 2023.",
       "scope": "Endovascular prostheses (stent-grafts for aortic and peripheral vascular applications)."
@@ -81,9 +86,14 @@
         "zh": "心血管植入物 - 血管内器械 - 第2部分：血管支架"
       },
       "status": "active",
-      "applicable_gsprs": ["1", "3", "5", "10"],
+      "applicable_gsprs": [
+        "1",
+        "3",
+        "5",
+        "10"
+      ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/standard/72720.html",
+      "source_url": "https://www.iso.org/standard/69835.html",
       "source_verified": "2026-06-27",
       "abstract": "Specifies requirements for vascular stents based upon current medical knowledge, including design attributes, materials, design evaluation, manufacturing, sterilization, packaging and information supplied by the manufacturer. Edition 2.",
       "scope": "Vascular stents for coronary, peripheral, and neurovascular applications."
@@ -96,7 +106,12 @@
         "zh": "心血管植入物 - 人工心脏瓣膜 - 第1部分：通用要求"
       },
       "status": "active",
-      "applicable_gsprs": ["1", "3", "5", "10"],
+      "applicable_gsprs": [
+        "1",
+        "3",
+        "5",
+        "10"
+      ],
       "standard_type": "non_harmonised",
       "source_url": "https://www.iso.org/standard/77034.html",
       "source_verified": "2026-06-27",
@@ -111,7 +126,11 @@
         "zh": "医用电气设备 - 第2-27部分：心电监护设备的基本安全和基本性能的特殊要求"
       },
       "status": "active",
-      "applicable_gsprs": ["1", "3", "14"],
+      "applicable_gsprs": [
+        "1",
+        "3",
+        "14"
+      ],
       "standard_type": "non_harmonised",
       "source_url": "https://webstore.iec.ch/en/publication/2637",
       "source_verified": "2026-06-27",
@@ -126,9 +145,13 @@
         "zh": "医用电气设备 - 第2-34部分：有创血压监测设备的基本安全和基本性能的特殊要求"
       },
       "status": "active",
-      "applicable_gsprs": ["1", "3", "14"],
+      "applicable_gsprs": [
+        "1",
+        "3",
+        "14"
+      ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/publication/66893",
+      "source_url": "https://webstore.iec.ch/en/publication/67617",
       "source_verified": "2026-06-27",
       "abstract": "Applies to the basic safety and essential performance of invasive blood pressure monitoring equipment. Edition 4, published 2024-10.",
       "scope": "Invasive blood pressure monitoring equipment."

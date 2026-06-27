@@ -28,9 +28,12 @@
         "zh": "医疗器械 - 制造商的上市后监督 - 修正案1"
       },
       "status": "active",
-      "applicable_gsprs": ["1", "3"],
+      "applicable_gsprs": [
+        "1",
+        "3"
+      ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/standard/85899.html",
+      "source_url": "https://www.iso.org/standard/85098.html",
       "source_verified": "2026-06-27",
       "abstract": "Amendment 1 provides additional guidance on PMS processes and updates references to the latest regulatory frameworks. Published 2024.",
       "scope": "Updated guidance on post-market surveillance for medical device manufacturers."
@@ -43,7 +46,11 @@
         "zh": "体外诊断医疗器械 - 使用人体标本的临床性能研究 - 良好研究实践"
       },
       "status": "active",
-      "applicable_gsprs": ["1", "3", "6"],
+      "applicable_gsprs": [
+        "1",
+        "3",
+        "6"
+      ],
       "standard_type": "non_harmonised",
       "source_url": "https://www.iso.org/standard/69455.html",
       "source_verified": "2026-06-27",
@@ -59,9 +66,12 @@
         "zh": "与投诉处理和MDR/IVDR警戒报告相关的医疗器械标准应用指南"
       },
       "status": "active",
-      "applicable_gsprs": ["1", "3"],
+      "applicable_gsprs": [
+        "1",
+        "3"
+      ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.aami.org/standards/aami-tir73",
+      "source_url": "https://array.aami.org/doi/abs/10.2345/0899-8205-tir73.2019",
       "source_verified": "2026-06-27",
       "abstract": "Provides guidance on correlating medical device complaint handling processes with EU MDR/IVDR vigilance reporting requirements.",
       "scope": "Complaint handling and vigilance reporting alignment with EU MDR."
@@ -74,7 +84,11 @@
         "zh": "医疗器械 - 公认的医疗器械安全和性能基本原则 - 第1部分：所有非IVD医疗器械的一般基本原则和附加特定基本原则以及标准选择指南"
       },
       "status": "active",
-      "applicable_gsprs": ["1", "2", "3"],
+      "applicable_gsprs": [
+        "1",
+        "2",
+        "3"
+      ],
       "standard_type": "non_harmonised",
       "source_url": "https://www.iso.org/standard/63939.html",
       "source_verified": "2026-06-27",

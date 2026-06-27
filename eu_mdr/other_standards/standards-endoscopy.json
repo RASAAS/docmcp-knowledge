@@ -27,7 +27,11 @@
         "zh": "内窥镜 - 医用内窥镜和内镜治疗器械 - 第1部分：通用要求"
       },
       "status": "active",
-      "applicable_gsprs": ["1", "3", "5"],
+      "applicable_gsprs": [
+        "1",
+        "3",
+        "5"
+      ],
       "standard_type": "non_harmonised",
       "source_url": "https://www.iso.org/standard/84216.html",
       "source_verified": "2026-06-27",
@@ -42,7 +46,13 @@
         "zh": "医用电气设备 - 第2-2部分：高频手术设备和高频手术附件的基本安全和基本性能的特殊要求"
       },
       "status": "active",
-      "applicable_gsprs": ["1", "3", "5", "9", "14"],
+      "applicable_gsprs": [
+        "1",
+        "3",
+        "5",
+        "9",
+        "14"
+      ],
       "standard_type": "non_harmonised",
       "source_url": "https://webstore.iec.ch/en/publication/83195",
       "source_verified": "2026-06-27",
@@ -58,7 +68,12 @@
         "zh": "医疗器械产生的烟雾排放系统"
       },
       "status": "active",
-      "applicable_gsprs": ["1", "3", "5", "9"],
+      "applicable_gsprs": [
+        "1",
+        "3",
+        "5",
+        "9"
+      ],
       "standard_type": "non_harmonised",
       "source_url": "https://www.iso.org/standard/83065.html",
       "source_verified": "2026-06-27",
@@ -73,9 +88,12 @@
         "zh": "内窥镜 - 医用内窥镜和内镜治疗器械 - 第3部分：带光学系统的内窥镜视野和视向的测定"
       },
       "status": "active",
-      "applicable_gsprs": ["1", "3"],
+      "applicable_gsprs": [
+        "1",
+        "3"
+      ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/standard/73445.html",
+      "source_url": "https://www.iso.org/standard/72186.html",
       "source_verified": "2026-06-27",
       "abstract": "Specifies test methods for the determination of field of view and direction of view of endoscopes. Edition 4.",
       "scope": "Optical performance testing for medical endoscopes."
@@ -88,9 +106,12 @@
         "zh": "内窥镜 - 医用内窥镜和内镜治疗器械 - 第5部分：带光学系统的硬式内窥镜光学分辨率的测定"
       },
       "status": "active",
-      "applicable_gsprs": ["1", "3"],
+      "applicable_gsprs": [
+        "1",
+        "3"
+      ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/standard/76903.html",
+      "source_url": "https://www.iso.org/standard/72188.html",
       "source_verified": "2026-06-27",
       "abstract": "Specifies methods for the determination of optical resolution of rigid endoscopes. Edition 3.",
       "scope": "Optical resolution testing for rigid endoscopes."

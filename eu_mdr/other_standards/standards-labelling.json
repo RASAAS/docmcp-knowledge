@@ -30,7 +30,9 @@
         "zh": "医疗器械 - 与制造商提供的信息一起使用的符号 - 第1部分：通用要求"
       },
       "status": "active",
-      "applicable_gsprs": ["23"],
+      "applicable_gsprs": [
+        "23"
+      ],
       "standard_type": "harmonised",
       "source_url": "https://www.iso.org/standard/77326.html",
       "source_verified": "2026-06-27",
@@ -46,7 +48,9 @@
         "zh": "医疗器械制造商提供的信息"
       },
       "status": "active",
-      "applicable_gsprs": ["23"],
+      "applicable_gsprs": [
+        "23"
+      ],
       "standard_type": "non_harmonised",
       "source_url": "https://standards.iteh.ai/catalog/standards/cen/11c28f00-06f4-4ef7-afaf-8b9340d3ff25/en-1041-2008-a1-2013",
       "source_verified": "2026-06-27",
@@ -62,7 +66,10 @@
         "zh": "医疗器械 - 第1部分：可用性工程在医疗器械中的应用"
       },
       "status": "active",
-      "applicable_gsprs": ["5", "23"],
+      "applicable_gsprs": [
+        "5",
+        "23"
+      ],
       "standard_type": "harmonised",
       "source_url": "https://webstore.iec.ch/en/publication/67220",
       "source_verified": "2026-06-27",
@@ -78,9 +85,11 @@
         "zh": "健康信息学 - 药品包装标识符国际机器可读编码的要求"
       },
       "status": "active",
-      "applicable_gsprs": ["23"],
+      "applicable_gsprs": [
+        "23"
+      ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/standard/82782.html",
+      "source_url": "https://www.iso.org/standard/84665.html",
       "source_verified": "2026-06-27",
       "abstract": "Requirements for machine-readable coding of medical device identifiers, supporting UDI system implementation. Edition 2.",
       "scope": "Machine-readable coding for medical device unique device identifiers (UDI)."

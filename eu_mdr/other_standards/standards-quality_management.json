@@ -34,9 +34,12 @@
         "zh": "医疗器械 - 质量管理体系 - 用于法规的要求 - 修正案1"
       },
       "status": "active",
-      "applicable_gsprs": ["1", "2"],
+      "applicable_gsprs": [
+        "1",
+        "2"
+      ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/standard/85930.html",
+      "source_url": "https://www.iso.org/standard/85929.html",
       "source_verified": "2026-06-27",
       "abstract": "Amendment 1 to ISO 13485:2016. Provides editorial and technical updates to the medical device QMS standard.",
       "scope": "Amendment to the quality management system standard for medical devices."
@@ -49,7 +52,10 @@
         "zh": "管理体系审核指南"
       },
       "status": "active",
-      "applicable_gsprs": ["1", "2"],
+      "applicable_gsprs": [
+        "1",
+        "2"
+      ],
       "standard_type": "non_harmonised",
       "source_url": "https://www.iso.org/standard/70017.html",
       "source_verified": "2026-06-27",
@@ -64,9 +70,12 @@
         "zh": "医疗器械 - 质量管理体系 - ISO 13485:2003应用指南"
       },
       "status": "active",
-      "applicable_gsprs": ["1", "2"],
+      "applicable_gsprs": [
+        "1",
+        "2"
+      ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/standard/38937.html",
+      "source_url": "https://www.iso.org/standard/38613.html",
       "source_verified": "2026-06-27",
       "abstract": "Provides guidance on the application of ISO 13485 for medical device manufacturers. While written for ISO 13485:2003, the principles remain applicable. Confirmed 2020.",
       "scope": "Guidance on QMS application for medical device manufacturers.",
@@ -80,7 +89,10 @@
         "zh": "关于将ISO 13485应用于提供医疗器械维修服务的组织的指南"
       },
       "status": "active",
-      "applicable_gsprs": ["1", "2"],
+      "applicable_gsprs": [
+        "1",
+        "2"
+      ],
       "standard_type": "non_harmonised",
       "source_url": "https://www.aami.org/standards/aami-tir75",
       "source_verified": "2026-06-27",
