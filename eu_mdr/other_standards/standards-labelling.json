@@ -41,18 +41,18 @@
       "note": "Harmonized under EU MDR. Covers symbols for manufacturer, date of manufacture, expiry, sterile, single-use, etc."
     },
     {
-      "id": "en-1041-2008-a1-2013",
-      "number": "EN 1041:2008+A1:2013",
+      "id": "iso-20417-2026",
+      "number": "ISO 20417:2026",
       "title": {
-        "en": "Information supplied by the manufacturer of medical devices",
-        "zh": "医疗器械制造商提供的信息"
+        "en": "Medical devices - Information to be supplied by the manufacturer",
+        "zh": "医疗器械 - 制造商应提供的信息"
       },
       "status": "active",
       "applicable_gsprs": [
         "23"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://standards.iteh.ai/catalog/standards/cen/11c28f00-06f4-4ef7-afaf-8b9340d3ff25/en-1041-2008-a1-2013",
+      "source_url": "https://www.iso.org/standard/20417",
       "source_verified": "2026-06-27",
       "abstract": "Specifies requirements for information to be supplied by the manufacturer with a medical device, including content, form and language of labels, instructions for use and technical descriptions.",
       "scope": "Requirements for manufacturer-supplied information (labels, IFU, technical descriptions).",

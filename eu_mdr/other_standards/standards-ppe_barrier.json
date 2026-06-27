@@ -39,11 +39,11 @@
       "scope": "Hole-free integrity requirements for single-use medical gloves."
     },
     {
-      "id": "en-455-2-2015",
-      "number": "EN 455-2:2015",
+      "id": "en-455-2-2024",
+      "number": "EN 455-2:2024",
       "title": {
         "en": "Medical gloves for single use - Part 2: Requirements and testing for physical properties",
-        "zh": "一次性使用医用手套 - 第2部分：物理性能的要求和试验"
+        "zh": "一次性使用医用手套 - 第2部分：物理性能要求和试验"
       },
       "status": "active",
       "applicable_gsprs": [
@@ -53,7 +53,7 @@
         "10"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://standards.iteh.ai/catalog/standards/cen/11b17d03-e57a-4b5e-80a1-6cf8f05d4e83/en-455-2-2015",
+      "source_url": "https://standards.iteh.ai/catalog/standards/cen/976c1f4c-3002-4b18-ac1a-ac36ee972631/en-455-2-2024",
       "source_verified": "2026-06-27",
       "abstract": "Specifies requirements and test methods for physical properties (dimensions, tensile strength) of single-use medical gloves.",
       "scope": "Physical properties testing of single-use medical gloves."
