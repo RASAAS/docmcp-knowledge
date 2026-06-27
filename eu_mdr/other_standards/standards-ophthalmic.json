@@ -110,8 +110,8 @@
       "scope": "Ophthalmic light hazard protection"
     },
     {
-      "id": "iso-iso-12870-2025",
-      "number": "ISO 12870:2025",
+      "id": "iso-12870-2024",
+      "number": "ISO 12870:2024",
       "title": {
         "en": "Ophthalmic optics - Spectacle frames - Requirements and test methods (ISO 12870:2024)",
         "zh": "眼科光学 - 眼镜架 - 要求和试验方法"
@@ -124,7 +124,7 @@
         "10.4"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/standard/84282.html",
+      "source_url": "https://www.iso.org/standard/75916.html",
       "source_verified": "2026-06-27",
       "note": "International version of harmonised standard EN ISO 12870:2025"
     }

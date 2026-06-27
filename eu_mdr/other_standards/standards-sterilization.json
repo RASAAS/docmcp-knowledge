@@ -164,8 +164,8 @@
       "abstract": "Specifies tests of sterility performed in the definition, validation and maintenance of a sterilization process."
     },
     {
-      "id": "iso-iso-13408-1-2024",
-      "number": "ISO 13408-1:2024",
+      "id": "iso-13408-1-2023",
+      "number": "ISO 13408-1:2023",
       "title": {
         "en": "Aseptic processing of health care products - Part 1: General requirements (ISO 13408-1:2023)",
         "zh": ""
@@ -177,7 +177,7 @@
         "11.6"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/standard/81899.html",
+      "source_url": "https://www.iso.org/standard/77151.html",
       "source_verified": "2026-06-27",
       "note": "International version of harmonised standard EN ISO 13408-1:2024"
     },
@@ -195,13 +195,13 @@
         "11.6"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/standard/77547.html",
+      "source_url": "https://www.iso.org/standard/72836.html",
       "source_verified": "2026-06-27",
       "note": "International version of harmonised standard EN ISO 13408-6:2021"
     },
     {
-      "id": "iso-iso-14160-2021",
-      "number": "ISO 14160:2021",
+      "id": "iso-14160-2020",
+      "number": "ISO 14160:2020",
       "title": {
         "en": "Sterilization of health care products - Liquid chemical sterilizing agents for single-use medical devices utilizing animal tissues and their derivatives (ISO 14160:2020)",
         "zh": ""
@@ -214,13 +214,13 @@
         "13"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/standard/75213.html",
+      "source_url": "https://www.iso.org/standard/73159.html",
       "source_verified": "2026-06-27",
       "note": "International version of harmonised standard EN ISO 14160:2021"
     },
     {
-      "id": "iso-iso-25424-2019",
-      "number": "ISO 25424:2019",
+      "id": "iso-25424-2018",
+      "number": "ISO 25424:2018",
       "title": {
         "en": "Sterilization of health care products - Low temperature steam and formaldehyde - Requirements for development, validation and routine control of a sterilization process for medical devices (ISO 25424:2018)",
         "zh": ""
@@ -231,7 +231,7 @@
         "11.5"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/standard/69545.html",
+      "source_url": "https://www.iso.org/standard/70822.html",
       "source_verified": "2026-06-27",
       "note": "International version of harmonised standard EN ISO 25424:2019"
     }

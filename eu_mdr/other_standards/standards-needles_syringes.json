@@ -140,8 +140,8 @@
       "scope": "Infusion pumps and volumetric infusion controllers (syringe pumps, peristaltic pumps, etc.)."
     },
     {
-      "id": "iso-iso-23908-2025",
-      "number": "ISO 23908:2025",
+      "id": "iso-23908-2024",
+      "number": "ISO 23908:2024",
       "title": {
         "en": "Sharps injury protection - Sharps protection mechanisms for single-use needles, introducers for catheters and needles used for blood testing, monitoring, sampling and medical substance administration - Requirements and test methods (ISO 23908:2024)",
         "zh": "利器伤害防护 - 一次性针头、导管引导器及用于血液检测、监测、采样和给药针头的利器防护机构 - 要求和试验方法"
@@ -155,7 +155,7 @@
         "14.1"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/standard/84236.html",
+      "source_url": "https://www.iso.org/standard/83582.html",
       "source_verified": "2026-06-27",
       "note": "International version of harmonised standard EN ISO 23908:2025"
     }

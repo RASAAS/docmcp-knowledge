@@ -75,8 +75,8 @@
       "scope": "Nerve dysfunction assessment"
     },
     {
-      "id": "iso-iso-22675-2025",
-      "number": "ISO 22675:2025",
+      "id": "iso-22675-2024",
+      "number": "ISO 22675:2024",
       "title": {
         "en": "Prosthetics - Testing of ankle-foot devices and foot units - Requirements and test methods (ISO 22675:2024)",
         "zh": "假肢 - 踝足装置和足部组件的试验 - 要求和试验方法"
@@ -89,7 +89,7 @@
         "14"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/standard/83696.html",
+      "source_url": "https://www.iso.org/standard/79620.html",
       "source_verified": "2026-06-27",
       "note": "International version of harmonised standard EN ISO 22675:2025"
     }

@@ -32,10 +32,10 @@
         "14"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/standard/79954.html",
+      "source_url": "https://www.iso.org/standard/79626.html",
       "abstract": "Specifies requirements for wrought titanium 6-aluminium 4-vanadium alloy used in the manufacture of surgical implants.",
       "scope": "Implants for surgery -- Metallic materials -- Wrought titanium 6-aluminium 4-vanadium alloy.",
-      "source_verified": "2026-06-24",
+      "source_verified": "2026-06-27",
       "note": "Edition 5 (2021) replaces 2016 version."
     },
     {
@@ -75,25 +75,6 @@
       "source_url": "https://www.iso.org/standard/52804.html",
       "abstract": "Specifies general requirements for active implantable medical devices, including safety, biocompatibility and electromagnetic compatibility.",
       "scope": "Implants for surgery -- Active implantable medical devices -- General requirements for safety, marking and for information to be provided by the manufacturer.",
-      "source_verified": "2026-06-24"
-    },
-    {
-      "id": "astm-f2083-21-withdrawn",
-      "number": "ASTM F2083-21",
-      "title": {
-        "en": "Standard Specification for Knee Replacement Prosthesis",
-        "zh": "标准规范 - 膝关节置换假体"
-      },
-      "status": "withdrawn",
-      "applicable_gsprs": [
-        "10",
-        "14"
-      ],
-      "standard_type": "non_harmonised",
-      "source_url": "https://store.astm.org/f2083-21.html",
-      "note": "Withdrawn in 2023. No direct replacement designated by ASTM. For knee implant testing, refer to ISO 21536 (harmonised under EU MDR) and ASTM F3334.",
-      "abstract": "Specifies requirements for materials, design, and performance of knee replacement prostheses.",
-      "scope": "Standard specification for knee replacement prosthesis.",
       "source_verified": "2026-06-24"
     },
     {
@@ -162,8 +143,8 @@
         "zh": "医用电气设备 - 第2-76部分：低能X射线照相成像设备的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/30149",
-      "source_verified": "",
+      "source_url": "https://webstore.iec.ch/en/publication/88254",
+      "source_verified": "2026-06-27",
       "category": "surgical_implants",
       "standard_type": "non_harmonised",
       "scope": "Low energy ionized gas haemostasis equipment.",
@@ -185,7 +166,7 @@
         "19"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/standard/84371.html",
+      "source_url": "https://www.iso.org/standard/76810.html",
       "source_verified": "2026-06-27",
       "note": "International version of harmonised standard EN ISO 14630:2024"
     },
@@ -210,8 +191,8 @@
       "note": "International version of harmonised standard EN ISO 21535:2024"
     },
     {
-      "id": "iso-iso-21536-2024",
-      "number": "ISO 21536:2024",
+      "id": "iso-21536-2023",
+      "number": "ISO 21536:2023",
       "title": {
         "en": "Non-active surgical implants - Joint replacement implants - Specific requirements for knee-joint replacement implants (ISO 21536:2023)",
         "zh": ""
@@ -225,7 +206,7 @@
         "19"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/standard/82016.html",
+      "source_url": "https://www.iso.org/standard/77045.html",
       "source_verified": "2026-06-27",
       "note": "International version of harmonised standard EN ISO 21536:2024"
     },

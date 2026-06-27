@@ -19,8 +19,8 @@
       "source_verified": "2026-06-24"
     },
     {
-      "id": "en-455-1-2020",
-      "number": "EN 455-1:2020",
+      "id": "en-455-1-2020-a2-2024",
+      "number": "EN 455-1:2020+A2:2024",
       "title": {
         "en": "Medical gloves for single use - Part 1: Requirements and testing for freedom from holes",
         "zh": "一次性使用医用手套 - 第1部分：无孔检测的要求和试验"
@@ -33,10 +33,11 @@
         "10"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://standards.iteh.ai/catalog/standards/cen/97e37a4a-0ae5-44c3-afe9-857ad0e6bbf7/en-455-1-2020",
+      "source_url": "https://standards.iteh.ai/catalog/standards/cen/dba02947-9582-4056-a18f-e9d827788d99/en-455-1-2020a2-2024",
       "source_verified": "2026-06-27",
       "abstract": "Specifies requirements and methods of test for medical gloves for single use to ensure freedom from holes. Edition 3.",
-      "scope": "Hole-free integrity requirements for single-use medical gloves."
+      "scope": "Hole-free integrity requirements for single-use medical gloves.",
+      "name": "Medical gloves for single use - Part 1: Requirements and testing for freedom from holes"
     },
     {
       "id": "en-455-2-2024",
@@ -93,7 +94,7 @@
         "10"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://standards.iteh.ai/catalog/standards/cen/0a3b5cdd-6de6-44bb-98b3-c0e84e7a6d9a/en-455-4-2009",
+      "source_url": "https://standards.iteh.ai/catalog/standards/cen/0f77d871-d14a-4d45-9a09-a64ba5f21f93/en-455-4-2009",
       "source_verified": "2026-06-27",
       "abstract": "Specifies requirements and methods of test for the determination of shelf life of single-use medical gloves.",
       "scope": "Shelf life determination for single-use medical gloves."

@@ -55,8 +55,8 @@
       "scope": "Home ventilators"
     },
     {
-      "id": "iso-80601-2-78-2019",
-      "number": "ISO 80601-2-78:2019",
+      "id": "iec-80601-2-78-2019",
+      "number": "IEC 80601-2-78:2019",
       "title": {
         "en": "Medical electrical equipment - Part 2-78: Particular requirements for basic safety and essential performance of medical robots for rehabilitation, assessment, compensation or alleviation",
         "zh": "医用电气设备 - 第2-78部分：康复、评估、补偿或缓解用医疗机器人的基本安全和基本性能专用要求"
@@ -68,7 +68,7 @@
       ],
       "standard_type": "international",
       "source_url": "https://www.iso.org/standard/68474.html",
-      "source_verified": true,
+      "source_verified": "2026-06-27",
       "abstract": "Requirements for medical robots used for rehabilitation, assessment, compensation or alleviation.",
       "scope": "Rehabilitation robots"
     }

@@ -389,8 +389,8 @@
       "note": "International version of harmonised standard EN ISO 10993-5:2009"
     },
     {
-      "id": "iso-iso-10993-9-2021",
-      "number": "ISO 10993-9:2021",
+      "id": "iso-10993-9-2019",
+      "number": "ISO 10993-9:2019",
       "title": {
         "en": "Biological evaluation of medical devices - Part 9: Framework for identification and quantification of potential degradation products (ISO 10993-9:2019)",
         "zh": "医疗器械生物学评价 - 第9部分：潜在降解产物的鉴定和定量框架"
@@ -408,8 +408,8 @@
       "note": "International version of harmonised standard EN ISO 10993-9:2021"
     },
     {
-      "id": "iso-iso-10993-10-2023",
-      "number": "ISO 10993-10:2023",
+      "id": "iso-10993-10-2021",
+      "number": "ISO 10993-10:2021",
       "title": {
         "en": "Biological evaluation of medical devices - Part 10: Tests for skin sensitisation (ISO 10993-10:2021)",
         "zh": "医疗器械生物学评价 - 第10部分：皮肤致敏试验"
