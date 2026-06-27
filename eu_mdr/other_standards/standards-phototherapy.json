@@ -2,13 +2,13 @@
   "standards": [
     {
       "id": "eu_mdr-os-iec-60601-2-57-2011+amd1-2021",
-      "number": "IEC 60601-2-57:2011+AMD1:2021",
+      "number": "IEC 60601-2-57:2023",
       "title": {
         "en": "Medical electrical equipment - Part 2-57: Particular requirements for the basic safety and essential performance of non-laser light source equipment intended for therapeutic, diagnostic, monitoring and cosmetic/aesthetic use",
         "zh": "医用电气设备 - 第2-57部分：非激光光源治疗、诊断、监测和美容/美学用途设备的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/2673",
+      "source_url": "https://webstore.iec.ch/en/publication/60600",
       "source_verified": "",
       "category": "phototherapy",
       "standard_type": "non_harmonised",
@@ -17,7 +17,9 @@
         "14",
         "16"
       ],
-      "abstract": "Particular requirements for non-laser light source equipment."
+      "abstract": "Particular requirements for non-laser light source equipment.",
+      "title_en": "Medical electrical equipment - Part 2-57: Particular requirements for the basic safety and essential performance of non-laser light source equipment intended for therapeutic, diagnostic, monitoring, cosmetic and aesthetic use",
+      "title_zh": "医用电气设备 - 第2-57部分：用于治疗、诊断、监测、美容和美学用途的非激光光源设备基本安全和基本性能的特殊要求"
     },
     {
       "id": "eu_mdr-os-iec-60601-2-75-2017",

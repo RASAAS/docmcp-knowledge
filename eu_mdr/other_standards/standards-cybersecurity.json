@@ -105,7 +105,7 @@
     },
     {
       "id": "iec-tr-80001-2-2-2012",
-      "number": "IEC/TR 80001-2-2:2012",
+      "number": "IEC TS 81001-2-2:2025",
       "title": {
         "en": "Application of risk management for IT-networks incorporating medical devices - Part 2-2: Guidance for the communication of medical device security needs, risks and controls",
         "zh": "IT网络中纳入医疗器械的风险管理应用 - 第2-2部分：医疗器械安全需求、风险和控制的沟通指南"
@@ -116,11 +116,13 @@
         "17.4"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/publication/7484",
+      "source_url": "https://webstore.iec.ch/en/publication/78673",
       "source_verified": "2026-06-24",
       "abstract": "Defines a framework for manufacturer disclosure of medical device security capabilities (MDS2 form). Withdrawn and replaced by IEC TS 81001-2-2:2025.",
       "scope": "Communication framework for medical device security properties and manufacturer disclosure statements.",
-      "note": "WITHDRAWN 2025-10-01. Replaced by IEC TS 81001-2-2:2025 (https://webstore.iec.ch/en/publication/78673)."
+      "note": "WITHDRAWN 2025-10-01. Replaced by IEC TS 81001-2-2:2025 (https://webstore.iec.ch/en/publication/78673).",
+      "title_en": "Health software and health IT systems safety, effectiveness and security - Part 2-2: Guidance for the implementation, disclosure and communication of security needs, risks and controls",
+      "title_zh": "健康软件和健康IT系统安全、有效性和安保 - 第2-2部分：安全需求、风险和控制的实施、披露和通信指南"
     },
     {
       "id": "iec-ts-81001-2-2-2025",

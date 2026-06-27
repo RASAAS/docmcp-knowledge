@@ -132,7 +132,7 @@
     },
     {
       "id": "iec-tr-80001-2-2-2012",
-      "number": "IEC/TR 80001-2-2:2012",
+      "number": "IEC TS 81001-2-2:2025",
       "title": {
         "en": "Application of risk management for IT-networks incorporating medical devices - Part 2-2: Guidance for the communication of medical device security needs, risks and controls",
         "zh": "健康信息基础设施中整合医疗设备的风险管理应用 - 第2-2部分：医疗设备通信安全能力的披露和沟通指南"
@@ -143,10 +143,12 @@
         "17.4"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/publication/7484",
+      "source_url": "https://webstore.iec.ch/en/publication/78673",
       "abstract": "Provides guidance on disclosure of security-related capabilities and risks of medical devices on IT-networks.",
       "scope": "Application of risk management for IT-networks incorporating medical devices -- Guidance for the communication of medical device security needs, risks and controls.",
-      "note": "Withdrawn. Replaced by IEC TS 81001-2-2:2025."
+      "note": "Withdrawn. Replaced by IEC TS 81001-2-2:2025.",
+      "title_en": "Health software and health IT systems safety, effectiveness and security - Part 2-2: Guidance for the implementation, disclosure and communication of security needs, risks and controls",
+      "title_zh": "健康软件和健康IT系统安全、有效性和安保 - 第2-2部分：安全需求、风险和控制的实施、披露和通信指南"
     },
     {
       "id": "iec-62443-4-1-2018",

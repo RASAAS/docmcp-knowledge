@@ -13,7 +13,7 @@
         "18"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/publication/26879",
+      "source_url": "https://webstore.iec.ch/en/publication/31388",
       "abstract": "Specifies particular requirements for basic safety and essential performance of electron accelerators used for radiotherapy.",
       "scope": "Medical electrical equipment -- Particular requirements for the basic safety and essential performance of electron accelerators in the range 1 MeV to 50 MeV."
     },
@@ -29,7 +29,7 @@
         "16"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/publication/2589",
+      "source_url": "https://webstore.iec.ch/en/publication/68449",
       "abstract": "Specifies general requirements for radiation protection of diagnostic X-ray equipment.",
       "scope": "General requirements for basic safety and essential performance -- Collateral standard: Radiation protection in diagnostic X-ray equipment."
     },
@@ -149,13 +149,13 @@
     },
     {
       "id": "eu_mdr-os-iec-60601-2-9-2020",
-      "number": "IEC 60601-2-9:2020",
+      "number": "IEC 60731:2011+AMD1:2016",
       "title": {
         "en": "Medical electrical equipment - Part 2-9: Particular requirements for the basic safety and essential performance of equipment with dosimetric instruments as used in radiotherapy",
         "zh": "医用电气设备 - 第2-9部分：接触式放射治疗设备的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/29564",
+      "source_url": "https://webstore.iec.ch/en/publication/24331",
       "source_verified": "",
       "category": "radiation_protection",
       "standard_type": "non_harmonised",
@@ -164,7 +164,9 @@
         "14",
         "16"
       ],
-      "abstract": "Particular requirements for dosimetric equipment in radiotherapy."
+      "abstract": "Particular requirements for dosimetric equipment in radiotherapy.",
+      "title_en": "Medical electrical equipment - Dosimeters with ionization chambers as used in radiotherapy",
+      "title_zh": "医用电气设备 - 放射治疗中使用的电离室剂量计"
     }
   ]
 }

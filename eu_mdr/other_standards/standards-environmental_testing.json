@@ -34,7 +34,7 @@
     },
     {
       "id": "iec-60068-2-30-2005",
-      "number": "IEC 60068-2-30:2005",
+      "number": "IEC 60068-2-30:2025",
       "title": {
         "en": "Environmental testing - Part 2-30: Tests - Test Db: Damp heat, cyclic (12 h + 12 h cycle)",
         "zh": "环境试验 - 第2-30部分：试验 - 试验Db：交变湿热"
@@ -44,9 +44,11 @@
         "14"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/publication/515",
+      "source_url": "https://webstore.iec.ch/en/publication/82356",
       "abstract": "Specifies a standard environmental test method for damp heat cyclic conditions.",
-      "scope": "Environmental testing -- Tests -- Test Db: Damp heat, cyclic (12 h + 12 h cycle)."
+      "scope": "Environmental testing -- Tests -- Test Db: Damp heat, cyclic (12 h + 12 h cycle).",
+      "title_en": "Environmental testing - Part 2-30: Tests - Test Db: Damp heat, cyclic (12 h + 12 h cycle)",
+      "title_zh": "环境试验 - 第2-30部分：试验 - 试验Db：交变湿热（12h+12h循环）"
     },
     {
       "id": "iec-60068-2-6-2007",
@@ -64,25 +66,6 @@
       "source_url": "https://webstore.iec.ch/en/publication/544",
       "abstract": "Specifies a standard environmental test method for sinusoidal vibration testing of components and equipment.",
       "scope": "Environmental testing -- Tests -- Test Fc: Vibration (sinusoidal)."
-    },
-    {
-      "id": "eu_mdr-os-iec-60068-2-30-2005+amd1-2024",
-      "number": "IEC 60068-2-30:2005+AMD1:2024",
-      "title": {
-        "en": "Environmental testing - Part 2-30: Tests - Test Db: Damp heat, cyclic (12 h + 12 h cycle)",
-        "zh": "环境试验 - 第2-30部分：试验 - 试验Db：交变湿热（修正案1）"
-      },
-      "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/515",
-      "source_verified": "",
-      "category": "environmental_testing",
-      "standard_type": "non_harmonised",
-      "scope": "Damp heat cyclic testing.",
-      "applicable_gsprs": [
-        "14",
-        "14.5"
-      ],
-      "abstract": "Environmental damp heat cyclic test methods."
     },
     {
       "id": "eu_mdr-os-iec-60068-2-78-2012",

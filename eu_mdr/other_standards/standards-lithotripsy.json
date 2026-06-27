@@ -21,7 +21,7 @@
     },
     {
       "id": "iec-61846-1998",
-      "number": "IEC 61846:1998+AMD1:2024",
+      "number": "IEC 61846:2025",
       "title": {
         "en": "Ultrasonics - Pressure pulse lithotripters - Characteristics of fields",
         "zh": "超声学 - 压力脉冲碎石机 - 场的特性"
@@ -32,14 +32,16 @@
         "18"
       ],
       "standard_type": "international",
-      "source_url": "https://webstore.iec.ch/en/publication/6012",
+      "source_url": "https://webstore.iec.ch/en/publication/72095",
       "source_verified": true,
       "abstract": "Characteristics of fields produced by pressure pulse lithotripters.",
-      "scope": "Lithotripter field characterization"
+      "scope": "Lithotripter field characterization",
+      "title_en": "Ultrasonics - Therapeutic focused short pressure pulse sources - Characteristics of fields",
+      "title_zh": "超声学 - 治疗性聚焦短压力脉冲源 - 场特性"
     },
     {
       "id": "iec-61847-1998",
-      "number": "IEC 61847:1998+AMD1:2024",
+      "number": "IEC 61847:2025",
       "title": {
         "en": "Ultrasonics - Surgical systems - Measurement and declaration of the basic output characteristics",
         "zh": "超声学 - 外科系统 - 基本输出特性的测量和声明"
@@ -50,10 +52,12 @@
         "18"
       ],
       "standard_type": "international",
-      "source_url": "https://webstore.iec.ch/en/publication/6013",
+      "source_url": "https://webstore.iec.ch/en/publication/73373",
       "source_verified": true,
       "abstract": "Measurement and declaration of basic output characteristics of ultrasonic surgical systems.",
-      "scope": "Ultrasonic surgical systems output"
+      "scope": "Ultrasonic surgical systems output",
+      "title_en": "Ultrasonics - Surgical systems - Measurement and declaration of the basic output characteristics",
+      "title_zh": "超声学 - 手术系统 - 基本输出特性的测量和声明"
     }
   ]
 }
