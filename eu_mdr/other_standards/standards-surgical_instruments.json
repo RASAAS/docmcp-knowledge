@@ -82,11 +82,11 @@
       "title_zh": "外科器械 - 可拆卸刀片手术刀 - 配合尺寸"
     },
     {
-      "id": "iso-13404-2007",
-      "number": "ISO 13404:2007",
+      "id": "iso-13404-1-2024",
+      "number": "ISO 13404-1:2024",
       "title": {
-        "en": "Prosthetics and orthotics - Categorization and description of external orthoses and orthotic components",
-        "zh": "假肢和矫形器 - 外部矫形器和矫形器组件的分类和描述"
+        "en": "Prosthetics and orthotics - External orthoses and orthotic components - Part 1: Uses, functions, classification and description of lower limb orthoses",
+        "zh": "假肢和矫形器 - 外部矫形器和矫形器组件 - 第1部分：下肢矫形器的用途、功能、分类和描述"
       },
       "status": "withdrawn",
       "applicable_gsprs": [
@@ -94,7 +94,7 @@
         "3"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/standard/37023.html",
+      "source_url": "https://www.iso.org/standard/85316.html",
       "source_verified": "2026-06-27",
       "abstract": "Establishes a categorization system and a method of describing external orthoses and orthotic components. Confirmed in 2023.",
       "scope": "Classification and description of external orthopaedic orthoses.",
