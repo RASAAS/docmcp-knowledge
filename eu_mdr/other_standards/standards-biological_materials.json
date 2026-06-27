@@ -41,15 +41,15 @@
       "abstract": "Controls on sourcing, collection and handling of animal tissues."
     },
     {
-      "id": "eu_mdr-os-iso-22442-3-2007+amd1-2015",
-      "number": "ISO 22442-3:2007+AMD1:2015",
+      "id": "eu_mdr-os-iso-22442-3-2007+",
+      "number": "ISO 22442-3:2007",
       "title": {
         "en": "Medical devices utilizing animal tissues and their derivatives - Part 3: Validation of the elimination and/or inactivation of viruses and transmissible spongiform encephalopathy (TSE) agents",
         "zh": "动物组织及其衍生物制造的医疗器械 - 第3部分：病毒和传播性海绵状脑病(TSE)因子的消除和/或灭活的确认"
       },
       "status": "active",
       "source_url": "https://www.iso.org/standard/39351.html",
-      "source_verified": "",
+      "source_verified": "2026-06-27",
       "category": "biological_materials",
       "standard_type": "non_harmonised",
       "scope": "Virus/TSE inactivation validation.",
@@ -58,7 +58,8 @@
         "10.4",
         "12"
       ],
-      "abstract": "Validation of virus and TSE agent inactivation for animal tissue devices."
+      "abstract": "Validation of virus and TSE agent inactivation for animal tissue devices.",
+      "note": "Edition 1, published 2007-12. Confirmed 2022. No Amendment exists (the 2015 date was a confirmation review, not an amendment). AWI for Ed.2 in progress."
     },
     {
       "id": "iso-3826-1-2019",
