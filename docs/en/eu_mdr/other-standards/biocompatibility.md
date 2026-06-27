@@ -4,6 +4,7 @@ The following non-harmonised international standards are related to **Biocompati
 
 | Standard | Title | Status | GSPRs | Link |
 |----------|-------|--------|-------|------|
+| ISO 10993-1:2025 | Biological evaluation of medical devices - Part 1: Requirements and general principles for the evaluation of biological safety within a risk management process | active | 10, 10.1, 10.4 | [Link](https://www.iso.org/standard/10993-1) |
 | ISO 10993-2:2022 | Biological evaluation of medical devices - Part 2: Animal welfare requirements | active | 10, 10.4 | [Link](https://www.iso.org/standard/78866.html) |
 | ISO 10993-6:2026 | Biological evaluation of medical devices - Part 6: Tests for local effects after implantation | active | 10, 10.4 | [Link](https://www.iso.org/standard/83976.html) |
 | ISO 10993-13:2010 | Biological evaluation of medical devices - Part 13: Identification and quantification of degradation products from polymeric medical devices | active | 10, 10.4 | [Link](https://www.iso.org/standard/44050.html) |
@@ -23,7 +24,7 @@ The following non-harmonised international standards are related to **Biocompati
 | ISO 10993-9:2021 | Biological evaluation of medical devices - Part 9: Framework for identification and quantification of potential degradation products (ISO 10993-9:2019) | active | 10, 10.1, 10.4, 10.4.2 | [Link](https://www.iso.org/standard/64580.html) |
 | ISO 10993-10:2023 | Biological evaluation of medical devices - Part 10: Tests for skin sensitisation (ISO 10993-10:2021) | active | 10, 10.1, 10.4, 10.4.1 | [Link](https://www.iso.org/standard/75279.html) |
 | ISO 10993-12:2021 | Biological evaluation of medical devices - Part 12: Sample preparation and reference materials (ISO 10993-12:2021) | active | 10, 10.2 | [Link](https://www.iso.org/standard/75769.html) |
-| ISO 10993-15:2023 | Biological evaluation of medical devices - Part 15: Identification and quantification of degradation products from metals and alloys (ISO 10993-15:2019) | active | 10, 10.1, 10.4, 10.4.2 | [Link](https://www.iso.org/standard/64583.html) |
-| ISO 10993-17:2023 | Biological evaluation of medical devices - Part 17: Toxicological risk assessment of medical device constituents (ISO 10993-17:2023) | active | 10, 10.1, 10.2, 10.4, 10.4.1, 10.4.2, 10.4.3, 10.4.4 | [Link](https://www.iso.org/standard/80072.html) |
+| ISO 10993-15:2019 | Biological evaluation of medical devices - Part 15: Identification and quantification of degradation products from metals and alloys (ISO 10993-15:2019) | active | 10, 10.1, 10.4, 10.4.2 | [Link](https://www.iso.org/standard/68937.html) |
+| ISO 10993-17:2023 | Biological evaluation of medical devices - Part 17: Toxicological risk assessment of medical device constituents (ISO 10993-17:2023) | active | 10, 10.1, 10.2, 10.4, 10.4.1, 10.4.2, 10.4.3, 10.4.4 | [Link](https://www.iso.org/standard/75323.html) |
 | ISO 10993-18:2020 | Biological evaluation of medical devices - Part 18: Chemical characterization of medical device materials within a risk management process (ISO 10993-18:2020) | active | 10, 10.1, 10.2, 10.4.1, 10.4.2, 10.5 | [Link](https://www.iso.org/standard/64750.html) |
 | ISO 10993-23:2021 | Biological evaluation of medical devices - Part 23: Tests for irritation (ISO 10993-23:2021) | active | 10, 10.1, 10.4, 10.4.1 | [Link](https://www.iso.org/standard/74151.html) |

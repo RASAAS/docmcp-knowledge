@@ -73,8 +73,8 @@
       "note": "International version of harmonised standard EN ISO 15883-2:2025"
     },
     {
-      "id": "iso-iso-15883-3-2025",
-      "number": "ISO 15883-3:2025",
+      "id": "iso-15883-3-2024",
+      "number": "ISO 15883-3:2024",
       "title": {
         "en": "Washer-disinfectors - Part 3: Requirements and tests for washer-disinfectors employing thermal disinfection for human waste containers (ISO 15883-3:2024)",
         "zh": "清洗消毒器 - 第3部分：人体废物容器热消毒清洗消毒器的要求和试验"
@@ -86,7 +86,7 @@
         "11.5"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/standard/81649.html",
+      "source_url": "https://www.iso.org/standard/84378.html",
       "source_verified": "2026-06-27",
       "note": "International version of harmonised standard EN ISO 15883-3:2025"
     }

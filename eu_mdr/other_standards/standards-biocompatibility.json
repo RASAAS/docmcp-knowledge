@@ -1,6 +1,25 @@
 {
   "standards": [
     {
+      "id": "iso-10993-1-2025",
+      "number": "ISO 10993-1:2025",
+      "title": {
+        "en": "Biological evaluation of medical devices - Part 1: Requirements and general principles for the evaluation of biological safety within a risk management process",
+        "zh": "医疗器械生物学评价 - 第1部分：风险管理过程中生物安全评价的要求和通用原则"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "10",
+        "10.1",
+        "10.4"
+      ],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/10993-1",
+      "source_verified": "2026-06-27",
+      "abstract": "Cornerstone standard for biological evaluation. Edition 6, completely reorganized to align with ISO 14971. Critical for Annex XVI products involving body contact (dermal fillers, implants).",
+      "scope": "Biological safety evaluation framework for all medical devices and Annex XVI products with body contact."
+    },
+    {
       "id": "eu_mdr-os-iso-10993-2-2022",
       "number": "ISO 10993-2:2022",
       "title": {
@@ -425,8 +444,8 @@
       "note": "International version of harmonised standard EN ISO 10993-12:2021"
     },
     {
-      "id": "iso-iso-10993-15-2023",
-      "number": "ISO 10993-15:2023",
+      "id": "iso-10993-15-2019",
+      "number": "ISO 10993-15:2019",
       "title": {
         "en": "Biological evaluation of medical devices - Part 15: Identification and quantification of degradation products from metals and alloys (ISO 10993-15:2019)",
         "zh": "医疗器械生物学评价 - 第15部分：金属和合金降解产物的鉴定和定量"
@@ -439,7 +458,7 @@
         "10.4.2"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/standard/64583.html",
+      "source_url": "https://www.iso.org/standard/68937.html",
       "source_verified": "2026-06-27",
       "note": "International version of harmonised standard EN ISO 10993-15:2023"
     },
@@ -462,7 +481,7 @@
         "10.4.4"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/standard/80072.html",
+      "source_url": "https://www.iso.org/standard/75323.html",
       "source_verified": "2026-06-27",
       "note": "International version of harmonised standard EN ISO 10993-17:2023"
     },

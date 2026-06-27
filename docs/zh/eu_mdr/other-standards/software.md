@@ -4,7 +4,7 @@
 
 | 标准号 | 标题 | 状态 | 适用GSPRs | 官方链接 |
 |--------|------|------|-----------|----------|
-| IEC 62304:2006+AMD1:2015 |  | active |  | [官方链接](https://webstore.iec.ch/en/publication/22794) |
+| IEC 62304:2006+AMD1:2015 | 医疗器械软件 - 软件生命周期过程 | active |  | [官方链接](https://webstore.iec.ch/en/publication/22794) |
 | IEC 82304-1:2016 | 健康软件 - 第1部分：产品安全通用要求 | active | 17, 17.1, 17.2, 14 | [官方链接](https://webstore.iec.ch/en/publication/26120) |
 | AAMI TIR57:2016/(R)2022 | 医疗设备安全的风险管理原则 | active | 17, 17.1, 17.2, 17.3 | [官方链接](https://www.aami.org/standards/aami-tir57) |
 | IEC TR 80002-1:2009 | 医疗器械软件 - 第1部分：IEC 62304应用于制造和维护的指南 | active | 17, 17.1 | [官方链接](https://webstore.iec.ch/en/publication/7488) |

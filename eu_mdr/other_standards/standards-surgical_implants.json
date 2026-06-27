@@ -190,8 +190,8 @@
       "note": "International version of harmonised standard EN ISO 14630:2024"
     },
     {
-      "id": "iso-iso-21535-2024",
-      "number": "ISO 21535:2024",
+      "id": "iso-21535-2023",
+      "number": "ISO 21535:2023",
       "title": {
         "en": "Non-active surgical implants - Joint replacement implants - Specific requirements for hip-joint replacement implants (ISO 21535:2023)",
         "zh": ""
@@ -205,7 +205,7 @@
         "19"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/standard/82019.html",
+      "source_url": "https://www.iso.org/standard/77044.html",
       "source_verified": "2026-06-27",
       "note": "International version of harmonised standard EN ISO 21535:2024"
     },
@@ -230,8 +230,8 @@
       "note": "International version of harmonised standard EN ISO 21536:2024"
     },
     {
-      "id": "iso-iso-14607-2025",
-      "number": "ISO 14607:2025",
+      "id": "iso-14607-2024",
+      "number": "ISO 14607:2024",
       "title": {
         "en": "Non-active surgical implants - Mammary implants - Specific requirements (ISO 14607:2024)",
         "zh": "非有源外科植入物 - 乳房植入物 - 特殊要求"
@@ -246,7 +246,7 @@
         "19"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/standard/82543.html",
+      "source_url": "https://www.iso.org/standard/82020.html",
       "source_verified": "2026-06-27",
       "note": "International version of harmonised standard EN ISO 14607:2025"
     }

@@ -70,7 +70,7 @@
         "18"
       ],
       "standard_type": "international",
-      "source_url": "https://webstore.iec.ch/en/publication/2772",
+      "source_url": "https://webstore.iec.ch/en/publication/2774",
       "source_verified": true,
       "abstract": "Requirements for instruments measuring aural acoustic impedance and admittance.",
       "scope": "Aural impedance measurement",
@@ -78,11 +78,11 @@
       "title_zh": "电声学 - 听力计设备 - 第5部分：耳声阻抗/导纳测量仪器"
     },
     {
-      "id": "iso-iec-60118-0-2024",
-      "number": "IEC 60118-0:2024",
+      "id": "iec-60118-0-2022",
+      "number": "IEC 60118-0:2022",
       "title": {
         "en": "Electroacoustics - Hearing aids - Part 0: Measurement of the performance characteristics of hearing aids",
-        "zh": ""
+        "zh": "电声学 - 助听器 - 第0部分：助听器性能特性的测量"
       },
       "status": "active",
       "applicable_gsprs": [
@@ -91,7 +91,7 @@
         "14.2"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/publication/68736",
+      "source_url": "https://webstore.iec.ch/en/publication/62974",
       "source_verified": "2026-06-27",
       "note": "International version of harmonised standard EN IEC 60118-0:2024"
     }

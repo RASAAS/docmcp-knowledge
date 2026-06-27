@@ -7,7 +7,12 @@
       "source_url": "https://webstore.iec.ch/en/publication/67220",
       "status": "active",
       "replaced_by": null,
-      "id": "iec-62366-1-2015-amd1-2020"
+      "id": "iec-62366-1-2015-amd1-2020",
+      "title": {
+        "en": "Medical devices - Part 1: Application of usability engineering to medical devices",
+        "zh": "医疗器械 - 第1部分：可用性工程在医疗器械中的应用"
+      },
+      "source_verified": "2026-06-27"
     },
     {
       "id": "iec-tr-62366-2-2016",

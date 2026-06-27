@@ -21,11 +21,11 @@
       "scope": "Blood glucose monitoring systems for patient self-testing."
     },
     {
-      "id": "iso-22870-2016",
-      "number": "ISO 22870:2016",
+      "id": "iso-15189-2022",
+      "number": "ISO 15189:2022",
       "title": {
-        "en": "Point-of-care testing (POCT) - Requirements for quality and competence",
-        "zh": "即时检验(POCT) - 质量和能力要求"
+        "en": "Medical laboratories - Requirements for quality and competence (includes POCT requirements)",
+        "zh": "医学实验室 - 质量和能力的要求（含即时检验POCT要求）"
       },
       "status": "active",
       "applicable_gsprs": [
@@ -35,7 +35,7 @@
         "14"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/standard/71061.html",
+      "source_url": "https://www.iso.org/standard/76677.html",
       "source_verified": "2026-06-27",
       "abstract": "Provides requirements for quality and competence in point-of-care testing. Applies to POCT performed in hospitals, clinics, and physician offices. Edition 2.",
       "scope": "Quality and competence requirements for point-of-care testing environments.",

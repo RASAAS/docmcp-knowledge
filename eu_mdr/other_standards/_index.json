@@ -2,7 +2,7 @@
   "directory": "eu_mdr/other_standards",
   "description": "International Standards (non-harmonised) applicable to medical devices under EU MDR",
   "last_updated": "2026-06-27",
-  "total_standards": 386,
+  "total_standards": 385,
   "categories": {
     "active_implants": {
       "name": {
@@ -33,7 +33,7 @@
         "zh": "生物相容性",
         "en": "Biocompatibility"
       },
-      "count": 23,
+      "count": 24,
       "file": "standards-biocompatibility.json"
     },
     "biological_materials": {
@@ -429,7 +429,7 @@
         "en": "Annex XVI (Non-medical Purpose)",
         "zh": "Annex XVI (非医疗目的)"
       },
-      "count": 5,
+      "count": 3,
       "file": "standards-annex_xvi.json"
     },
     "assistive_technology": {

@@ -61,8 +61,8 @@
       "scope": "Characterization of biomaterial scaffolds for tissue engineering applications."
     },
     {
-      "id": "astm-f2312-11-r2020",
-      "number": "ASTM F2312-11(2020)",
+      "id": "astm-f2312-24",
+      "number": "ASTM F2312-24",
       "title": {
         "en": "Standard Terminology Relating to Tissue Engineered Medical Products",
         "zh": "与组织工程医疗产品相关的标准术语"
@@ -73,7 +73,7 @@
         "3"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.astm.org/f2312-11r2020.html",
+      "source_url": "https://store.astm.org/f2312-24.html",
       "source_verified": "2026-06-27",
       "abstract": "Defines and describes terminology relating to tissue-engineered medical products (TEMPs). Reapproved 2020.",
       "scope": "Terminology for tissue-engineered medical products."

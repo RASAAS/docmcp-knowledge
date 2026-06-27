@@ -4,7 +4,7 @@ The following non-harmonised international standards are related to **Software &
 
 | Standard | Title | Status | GSPRs | Link |
 |----------|-------|--------|-------|------|
-| IEC 62304:2006+AMD1:2015 |  | active |  | [Link](https://webstore.iec.ch/en/publication/22794) |
+| IEC 62304:2006+AMD1:2015 | Medical device software - Software life cycle processes | active |  | [Link](https://webstore.iec.ch/en/publication/22794) |
 | IEC 82304-1:2016 | Health software — Part 1: General requirements for product safety | active | 17, 17.1, 17.2, 14 | [Link](https://webstore.iec.ch/en/publication/26120) |
 | AAMI TIR57:2016/(R)2022 | Principles for medical device security—Risk management | active | 17, 17.1, 17.2, 17.3 | [Link](https://www.aami.org/standards/aami-tir57) |
 | IEC TR 80002-1:2009 | Medical device software — Part 1: Guidance on the application of ISO 14971 to medical device software | active | 17, 17.1 | [Link](https://webstore.iec.ch/en/publication/7488) |

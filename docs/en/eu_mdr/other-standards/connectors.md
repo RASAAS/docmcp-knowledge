@@ -5,5 +5,5 @@ The following non-harmonised international standards are related to **Small-bore
 | Standard | Title | Status | GSPRs | Link |
 |----------|-------|--------|-------|------|
 | ISO 80369-1:2025 | Small-bore connectors for liquids and gases in healthcare applications - Part 1: General requirements | active | 14, 21 | [Link](https://www.iso.org/standard/82071.html) |
-| ISO 80369-7:2021 | Small-bore connectors for liquids and gases in healthcare applications - Part 7: Connectors for intravascular or hypodermic applications | active | 14, 21 | [Link](https://www.iso.org/standard/74123.html) |
-| ISO 80369-2:2024 | Small-bore connectors for liquids and gases in healthcare applications - Part 2: Connectors for respiratory applications (ISO 80369-2:2024, Corrected version 2025-06) | active | 10, 10.3, 14, 14.2 | [Link](https://www.iso.org/standard/83056.html) |
+| ISO 80369-7:2021 | Small-bore connectors for liquids and gases in healthcare applications - Part 7: Connectors for intravascular or hypodermic applications | active | 14, 21 | [Link](https://www.iso.org/standard/79173.html) |
+| ISO 80369-2:2024 | Small-bore connectors for liquids and gases in healthcare applications - Part 2: Connectors for respiratory applications (ISO 80369-2:2024, Corrected version 2025-06) | active | 10, 10.3, 14, 14.2 | [Link](https://www.iso.org/standard/79601.html) |

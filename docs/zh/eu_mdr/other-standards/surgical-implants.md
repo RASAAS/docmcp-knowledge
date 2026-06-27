@@ -14,6 +14,6 @@
 | IEC 60601-2-46:2023 | 医用电气设备 - 第2-46部分：手术台的基本安全和基本性能专用要求 | active | 14, 14.1 | [官方链接](https://webstore.iec.ch/en/publication/68385) |
 | IEC 60601-2-76:2018+AMD1:2023 | 医用电气设备 - 第2-76部分：低能X射线照相成像设备的基本安全和基本性能专用要求 | active | 14, 14.1 | [官方链接](https://webstore.iec.ch/en/publication/30149) |
 | ISO 14630:2024 |  | active | 19 | [官方链接](https://www.iso.org/standard/84371.html) |
-| ISO 21535:2024 |  | active | 10, 10.1, 10.3, 11, 19 | [官方链接](https://www.iso.org/standard/82019.html) |
+| ISO 21535:2023 |  | active | 10, 10.1, 10.3, 11, 19 | [官方链接](https://www.iso.org/standard/77044.html) |
 | ISO 21536:2024 |  | active | 10, 10.1, 10.3, 11, 19 | [官方链接](https://www.iso.org/standard/82016.html) |
-| ISO 14607:2025 | 非有源外科植入物 - 乳房植入物 - 特殊要求 | active | 10, 10.1, 10.3, 10.4, 11, 19 | [官方链接](https://www.iso.org/standard/82543.html) |
+| ISO 14607:2024 | 非有源外科植入物 - 乳房植入物 - 特殊要求 | active | 10, 10.1, 10.3, 10.4, 11, 19 | [官方链接](https://www.iso.org/standard/82020.html) |

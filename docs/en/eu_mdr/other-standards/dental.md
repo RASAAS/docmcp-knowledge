@@ -7,6 +7,6 @@ The following non-harmonised international standards are related to **Dental** f
 | IEC 60601-2-63:2012+AMD1:2017+AMD2:2021 | Medical electrical equipment - Part 2-63: Particular requirements for the basic safety and essential performance of dental extra-oral X-ray equipment | active | 14, 16 | [Link](https://webstore.iec.ch/en/publication/68977) |
 | IEC 60601-2-65:2012+AMD1:2017+AMD2:2021 | Medical electrical equipment - Part 2-65: Particular requirements for the basic safety and essential performance of dental intra-oral X-ray equipment | active | 14, 16 | [Link](https://webstore.iec.ch/en/publication/68947) |
 | ISO 14801:2016 | Dentistry - Implants - Dynamic loading test for endosseous dental implants | active | 14, 17 | [Link](https://www.iso.org/standard/61997.html) |
-| ISO 1942:2020 | Dentistry - Vocabulary | active | 23 | [Link](https://www.iso.org/standard/68288.html) |
+| ISO 1942:2020 | Dentistry - Vocabulary | active | 23 | [Link](https://www.iso.org/standard/72249.html) |
 | ISO 6872:2024 | Dentistry - Ceramic materials | active | 10, 14 | [Link](https://www.iso.org/standard/81718.html) |
 | ISO 7405:2025 | Dentistry - Evaluation of biocompatibility of medical devices used in dentistry | active | 10 | [Link](https://www.iso.org/standard/7405) |
