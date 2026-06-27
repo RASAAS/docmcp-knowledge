@@ -10,4 +10,3 @@
 | ISO 1942:2020 | 牙科 - 词汇 | active | 23 | [官方链接](https://www.iso.org/standard/68288.html) |
 | ISO 6872:2024 | 牙科 - 陶瓷材料 | active | 10, 14 | [官方链接](https://www.iso.org/standard/81718.html) |
 | ISO 7405:2025 | 牙科 - 用于牙科的医疗器械生物相容性评价 | active | 10 | [官方链接](https://www.iso.org/standard/7405) |
-| ISO 7405:2025 | 牙科 - 牙科医疗器械的生物相容性评价 | active | 10, 14 | [官方链接](https://www.iso.org/standard/7405) |

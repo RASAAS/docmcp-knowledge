@@ -15,7 +15,7 @@
         "11"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/standard/83019.html",
+      "source_url": "https://www.iso.org/standard/83673.html",
       "source_verified": "2026-06-27",
       "abstract": "Specifies general requirements and corresponding test methods for a general range of non-cutting articulated instruments in surgery. Edition 3, replaces ISO 7151:1988.",
       "scope": "Non-cutting articulated surgical instruments (forceps, clamps, needle holders, etc.)."
@@ -35,7 +35,7 @@
         "11"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/standard/83021.html",
+      "source_url": "https://www.iso.org/standard/85618.html",
       "source_verified": "2026-06-27",
       "abstract": "Describes test methods to determine the resistance of stainless steel surgical and dental hand instruments against autoclaving, corrosion and thermal exposure. Edition 2, replaces ISO 13402:1995.",
       "scope": "Corrosion and autoclaving resistance testing for surgical/dental hand instruments."
@@ -62,7 +62,7 @@
     },
     {
       "id": "iso-7740-2024",
-      "number": "ISO 7740:2024",
+      "number": "ISO 7740:1985",
       "title": {
         "en": "Surgical instruments - Scalpels with detachable blades - Fitting dimensions",
         "zh": "手术器械 - 可拆卸刀片手术刀 - 配合尺寸"
@@ -74,10 +74,12 @@
         "5"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/standard/83020.html",
+      "source_url": "https://www.iso.org/standard/14579.html",
       "source_verified": "2026-06-27",
       "abstract": "Specifies the fitting dimensions for scalpel handles and their detachable blades to ensure interchangeability. Edition 4, replaces ISO 7740:1985.",
-      "scope": "Dimensional interchangeability of scalpel handles and detachable blades."
+      "scope": "Dimensional interchangeability of scalpel handles and detachable blades.",
+      "title_en": "Instruments for surgery - Scalpels with detachable blades - Fitting dimensions",
+      "title_zh": "外科器械 - 可拆卸刀片手术刀 - 配合尺寸"
     },
     {
       "id": "iso-13404-2007",

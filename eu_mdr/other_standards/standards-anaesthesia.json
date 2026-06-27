@@ -36,25 +36,6 @@
       "source_verified": true,
       "abstract": "Requirements for medical supply units incorporating patient care services such as electric power and medical gases.",
       "scope": "Medical supply units"
-    },
-    {
-      "id": "iso-80601-2-13-2022",
-      "number": "ISO 80601-2-13:2022",
-      "title": {
-        "en": "Medical electrical equipment - Part 2-13: Particular requirements for basic safety and essential performance of an anaesthetic workstation",
-        "zh": "医用电气设备 - 第2-13部分：麻醉工作站的基本安全和基本性能专用要求"
-      },
-      "status": "active",
-      "applicable_gsprs": [
-        "14",
-        "18",
-        "21"
-      ],
-      "standard_type": "international",
-      "source_url": "https://www.iso.org/standard/76679.html",
-      "source_verified": true,
-      "abstract": "Requirements for anaesthetic workstations including gas delivery, breathing systems, ventilators, and alarm systems.",
-      "scope": "Anaesthetic workstations"
     }
   ]
 }

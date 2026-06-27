@@ -10,4 +10,3 @@ The following non-harmonised international standards are related to **Dental** f
 | ISO 1942:2020 | Dentistry - Vocabulary | active | 23 | [Link](https://www.iso.org/standard/68288.html) |
 | ISO 6872:2024 | Dentistry - Ceramic materials | active | 10, 14 | [Link](https://www.iso.org/standard/81718.html) |
 | ISO 7405:2025 | Dentistry - Evaluation of biocompatibility of medical devices used in dentistry | active | 10 | [Link](https://www.iso.org/standard/7405) |
-| ISO 7405:2025 | Dentistry - Evaluation of biocompatibility of medical devices used in dentistry | active | 10, 14 | [Link](https://www.iso.org/standard/7405) |

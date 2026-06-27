@@ -13,7 +13,7 @@
         "14"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://standards.iteh.ai/catalog/standards/cen/2b1bed76-5f10-4f35-858e-a07f8af30a9f/en-13795-1-2019",
+      "source_url": "https://standards.iteh.ai/catalog/standards/cen/2b1bed76-5f10-4f35-858e-a07f8af30a9f/en-13795-1-2025",
       "abstract": "Specifies requirements and test methods for surgical drapes, gowns, and clean air suits used in healthcare facilities.",
       "scope": "Surgical clothing and drapes -- Requirements and test methods -- Surgical drapes and gowns.",
       "source_verified": "2026-06-24"
@@ -56,11 +56,13 @@
       "source_url": "https://www.iso.org/standard/89265.html",
       "source_verified": "2026-06-27",
       "abstract": "Establishes approaches and special considerations for evaluating in vitro and in vivo performance of absorbable metals and implants. Published 2025-05.",
-      "scope": "Assessment of absorbable metallic implants (degradation, fatigue, biological evaluation)."
+      "scope": "Assessment of absorbable metallic implants (degradation, fatigue, biological evaluation).",
+      "title_en": "Implants for surgery - Absorbable implants - General guidelines and requirements for assessment of absorbable metallic implants",
+      "title_zh": "外科植入物 - 可吸收植入物 - 可吸收金属植入物评估的一般指南和要求"
     },
     {
       "id": "en-1644-1-2018",
-      "number": "EN 1644-1:2018",
+      "number": "EN 1644-1:1997",
       "title": {
         "en": "Test methods for nonwoven compresses for medical use - Part 1: Nonwoven compresses, all cotton or containing cotton",
         "zh": "医用无纺布敷料的试验方法 - 第1部分：全棉或含棉无纺布敷料"
@@ -73,10 +75,12 @@
         "10"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://standards.iteh.ai/catalog/standards/cen/0d5f8e5b-5f2f-4d1b-8a3e-90d3e0d3d5a5/en-1644-1-2018",
+      "source_url": "https://standards.iteh.ai/catalog/standards/cen/8c935175-9937-4e30-af36-e94db5829888/en-1644-1-1997",
       "source_verified": "2026-06-27",
       "abstract": "Specifies test methods for nonwoven compresses used for medical purposes. Covers absorbency, mass, dimensions, and fibre composition.",
-      "scope": "Testing of nonwoven medical compresses."
+      "scope": "Testing of nonwoven medical compresses.",
+      "title_en": "Test methods for nonwoven compresses for medical use - Part 1: Nonwovens used in the manufacture of compresses",
+      "title_zh": "医用无纺布敷料试验方法 - 第1部分：用于制造敷料的无纺布"
     },
     {
       "id": "iso-10334-1994",
@@ -96,7 +100,9 @@
       "source_url": "https://www.iso.org/standard/18385.html",
       "source_verified": "2026-06-27",
       "abstract": "Specifies requirements for malleable metallic wires intended for use as sutures and in other surgical applications. Confirmed 2020.",
-      "scope": "Metallic surgical suture wires."
+      "scope": "Metallic surgical suture wires.",
+      "title_en": "Implants for surgery - Malleable wires for use as sutures and other surgical applications",
+      "title_zh": "外科植入物 - 用于缝合和其他外科应用的可延展金属丝"
     },
     {
       "id": "en-13795-2-2019",

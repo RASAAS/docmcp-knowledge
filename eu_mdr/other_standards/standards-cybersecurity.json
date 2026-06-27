@@ -40,7 +40,7 @@
         "18"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/publication/62458",
+      "source_url": "https://webstore.iec.ch/en/publication/64703",
       "source_verified": "2026-06-24",
       "abstract": "Defines Security Levels (SL 0-4) and Security Capabilities (SC) for medical devices with network connectivity. Complements IEC 81001-5-1 by specifying technical security requirements.",
       "scope": "Technical security requirements for network-connected medical electrical equipment."
@@ -116,7 +116,7 @@
         "17.4"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/publication/7532",
+      "source_url": "https://webstore.iec.ch/en/publication/7484",
       "source_verified": "2026-06-24",
       "abstract": "Defines a framework for manufacturer disclosure of medical device security capabilities (MDS2 form). Withdrawn and replaced by IEC TS 81001-2-2:2025.",
       "scope": "Communication framework for medical device security properties and manufacturer disclosure statements.",
@@ -136,7 +136,7 @@
         "18"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/publication/72879",
+      "source_url": "https://webstore.iec.ch/en/publication/78673",
       "source_verified": "2026-06-24",
       "abstract": "Combines and updates IEC/TR 80001-2-2:2012 and IEC TR 80001-2-8:2016. Provides guidance on implementation, disclosure and communication of security needs, risks and controls for connected medical devices and health software.",
       "scope": "Security coordination and disclosure framework for health software and IT systems incorporating medical devices."

@@ -109,24 +109,6 @@
       "scope": "Dentistry -- Evaluation of biocompatibility of medical devices used in dentistry.",
       "source_verified": "2026-06-24",
       "title_en": "Dentistry -- Evaluation of biocompatibility of medical devices used in dentistry"
-    },
-    {
-      "id": "iso-7405-2025",
-      "number": "ISO 7405:2025",
-      "title": {
-        "en": "Dentistry - Evaluation of biocompatibility of medical devices used in dentistry",
-        "zh": "牙科 - 牙科医疗器械的生物相容性评价"
-      },
-      "status": "active",
-      "applicable_gsprs": [
-        "10",
-        "14"
-      ],
-      "standard_type": "international",
-      "source_url": "https://www.iso.org/standard/7405",
-      "source_verified": true,
-      "abstract": "Biological test methods for evaluating biocompatibility of dental medical devices.",
-      "scope": "Dental biocompatibility"
     }
   ]
 }
