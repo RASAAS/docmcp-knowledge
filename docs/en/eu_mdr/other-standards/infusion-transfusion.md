@@ -1,6 +1,6 @@
-# Infusion Transfusion - Related International Standards
+# Infusion & Transfusion - Related International Standards
 
-The following non-harmonised international standards are related to **Infusion Transfusion** for EU MDR compliance reference.
+The following non-harmonised international standards are related to **Infusion & Transfusion** for EU MDR compliance reference.
 
 | Standard | Title | Status | GSPRs | Link |
 |----------|-------|--------|-------|------|

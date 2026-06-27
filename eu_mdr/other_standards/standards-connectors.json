@@ -36,6 +36,25 @@
       "source_verified": "2026-06-24",
       "abstract": "Specifies requirements for small-bore connectors for intravascular or hypodermic applications.",
       "scope": "Small-bore connectors for liquids and gases in healthcare applications -- Connectors for intravascular or hypodermic applications."
+    },
+    {
+      "id": "iso-iso-80369-2-2024",
+      "number": "ISO 80369-2:2024",
+      "title": {
+        "en": "Small-bore connectors for liquids and gases in healthcare applications - Part 2: Connectors for respiratory applications (ISO 80369-2:2024, Corrected version 2025-06)",
+        "zh": "医疗保健应用中液体和气体的小口径连接器 - 第2部分：呼吸应用连接器"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "10",
+        "10.3",
+        "14",
+        "14.2"
+      ],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/83056.html",
+      "source_verified": "2026-06-27",
+      "note": "International version of harmonised standard EN ISO 80369-2:2024"
     }
   ]
 }

@@ -1,6 +1,6 @@
-# Electrical Safety - Related International Standards
+# Electrical Safety & EMC - Related International Standards
 
-The following non-harmonised international standards are related to **Electrical Safety** for EU MDR compliance reference.
+The following non-harmonised international standards are related to **Electrical Safety & EMC** for EU MDR compliance reference.
 
 | Standard | Title | Status | GSPRs | Link |
 |----------|-------|--------|-------|------|
@@ -15,7 +15,7 @@ The following non-harmonised international standards are related to **Electrical
 | IEC 60601-2-27:2011 | Medical electrical equipment - Part 2-27: Particular requirements for the basic safety and essential performance of electrocardiographic monitoring equipment | active | 14, 15, 18 | [Link](https://webstore.iec.ch/en/publication/2638) |
 | IEC 60601-2-34:2024 | Medical electrical equipment - Part 2-34: Particular requirements for the basic safety and essential performance of invasive blood pressure monitoring equipment | active | 14, 15, 18 | [Link](https://webstore.iec.ch/en/publication/68609) |
 | IEC 60601-2-37:2024 | Medical electrical equipment - Part 2-37: Particular requirements for the basic safety and essential performance of ultrasonic medical diagnostic and monitoring equipment | active | 14, 16, 18 | [Link](https://webstore.iec.ch/en/publication/78093) |
-| IEC 80601-2-49:2018 | Medical electrical equipment - Part 2-49: Particular requirements for the basic safety and essential performance of multifunction patient monitoring equipment | active | 14, 15, 18 | [Link](https://webstore.iec.ch/en/publication/30552) |
+| IEC 80601-2-49:2018+AMD1:2024 | Medical electrical equipment - Part 2-49: Particular requirements for the basic safety and essential performance of multifunction patient monitoring equipment | active | 14, 15, 18 | [Link](https://webstore.iec.ch/en/publication/100456) |
 | IEC 80601-2-52:2026 | Medical electrical equipment - Part 2-52: Particular requirements for the basic safety and essential performance of medical beds | active | 14, 18, 20 | [Link](https://webstore.iec.ch/en/publication/66296) |
 | IEC 60601-1-8:2006+AMD1:2012+AMD2:2020 | Medical electrical equipment - Part 1-8: General requirements for basic safety and essential performance - Collateral standard: General requirements, tests and guidance for alarm systems in medical electrical equipment and medical electrical systems | active | 18 | [Link](https://webstore.iec.ch/en/publication/67388) |
 | IEC 62353:2014 | Medical electrical equipment - Recurrent test and test after repair of medical electrical equipment | active | 14, 18 | [Link](https://webstore.iec.ch/en/publication/6913) |

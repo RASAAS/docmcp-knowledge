@@ -1,6 +1,6 @@
-# Ai Ml - Related International Standards
+# AI and Machine Learning - Related International Standards
 
-The following non-harmonised international standards are related to **Ai Ml** for EU MDR compliance reference.
+The following non-harmonised international standards are related to **AI and Machine Learning** for EU MDR compliance reference.
 
 | Standard | Title | Status | GSPRs | Link |
 |----------|-------|--------|-------|------|

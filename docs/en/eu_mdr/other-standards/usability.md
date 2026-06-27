@@ -1,6 +1,6 @@
-# Usability - Related International Standards
+# Usability Engineering - Related International Standards
 
-The following non-harmonised international standards are related to **Usability** for EU MDR compliance reference.
+The following non-harmonised international standards are related to **Usability Engineering** for EU MDR compliance reference.
 
 | Standard | Title | Status | GSPRs | Link |
 |----------|-------|--------|-------|------|

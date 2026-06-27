@@ -1,6 +1,6 @@
-# Digital Health Wearables - Related International Standards
+# Digital Health & Wearables - Related International Standards
 
-The following non-harmonised international standards are related to **Digital Health Wearables** for EU MDR compliance reference.
+The following non-harmonised international standards are related to **Digital Health & Wearables** for EU MDR compliance reference.
 
 | Standard | Title | Status | GSPRs | Link |
 |----------|-------|--------|-------|------|

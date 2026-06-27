@@ -35,6 +35,60 @@
       "abstract": "Specifies validation methods for reprocessing procedures of re-usable medical devices.",
       "scope": "Processing of health care products -- Information to be provided by the medical device manufacturer for the processing of medical devices -- Non-critical medical devices.",
       "source_verified": "2026-06-27"
+    },
+    {
+      "id": "iso-iso-15883-1-2025",
+      "number": "ISO 15883-1:2025",
+      "title": {
+        "en": "Washer-disinfectors - Part 1: General requirements, terms and definitions and tests (ISO 15883-1:2024)",
+        "zh": "清洗消毒器 - 第1部分：通用要求、术语和定义及试验"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "11",
+        "11.2",
+        "11.5"
+      ],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/81647.html",
+      "source_verified": "2026-06-27",
+      "note": "International version of harmonised standard EN ISO 15883-1:2025"
+    },
+    {
+      "id": "iso-iso-15883-2-2025",
+      "number": "ISO 15883-2:2025",
+      "title": {
+        "en": "Washer-disinfectors - Part 2: Requirements and tests for washer-disinfectors employing thermal disinfection for critical and semi-critical medical devices (ISO 15883-2:2024)",
+        "zh": "清洗消毒器 - 第2部分：关键和半关键医疗器械热消毒清洗消毒器的要求和试验"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "11",
+        "11.2",
+        "11.5"
+      ],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/81648.html",
+      "source_verified": "2026-06-27",
+      "note": "International version of harmonised standard EN ISO 15883-2:2025"
+    },
+    {
+      "id": "iso-iso-15883-3-2025",
+      "number": "ISO 15883-3:2025",
+      "title": {
+        "en": "Washer-disinfectors - Part 3: Requirements and tests for washer-disinfectors employing thermal disinfection for human waste containers (ISO 15883-3:2024)",
+        "zh": "清洗消毒器 - 第3部分：人体废物容器热消毒清洗消毒器的要求和试验"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "11",
+        "11.2",
+        "11.5"
+      ],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/81649.html",
+      "source_verified": "2026-06-27",
+      "note": "International version of harmonised standard EN ISO 15883-3:2025"
     }
   ]
 }

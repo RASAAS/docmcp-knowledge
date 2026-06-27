@@ -1,6 +1,6 @@
-# Anaesthesia - Related International Standards
+# Anaesthesia Equipment - Related International Standards
 
-The following non-harmonised international standards are related to **Anaesthesia** for EU MDR compliance reference.
+The following non-harmonised international standards are related to **Anaesthesia Equipment** for EU MDR compliance reference.
 
 | Standard | Title | Status | GSPRs | Link |
 |----------|-------|--------|-------|------|

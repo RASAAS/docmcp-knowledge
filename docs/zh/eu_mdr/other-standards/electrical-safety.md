@@ -1,6 +1,6 @@
-# Electrical Safety - 相关国际标准
+# 电气安全与EMC - 相关国际标准
 
-以下是与 **Electrical Safety** 相关的非协调国际标准，供 EU MDR 合规参考。
+以下是与 **电气安全与EMC** 相关的非协调国际标准，供 EU MDR 合规参考。
 
 | 标准号 | 标题 | 状态 | 适用GSPRs | 官方链接 |
 |--------|------|------|-----------|----------|
@@ -15,7 +15,7 @@
 | IEC 60601-2-27:2011 | 医用电气设备 - 第2-27部分：心电监护设备的基本安全和基本性能专用要求 | active | 14, 15, 18 | [官方链接](https://webstore.iec.ch/en/publication/2638) |
 | IEC 60601-2-34:2024 | 医用电气设备 - 第2-34部分：有创血压监测设备的基本安全和基本性能专用要求 | active | 14, 15, 18 | [官方链接](https://webstore.iec.ch/en/publication/68609) |
 | IEC 60601-2-37:2024 | 医用电气设备 - 第2-37部分：超声诊断和监护设备的基本安全和基本性能专用要求 | active | 14, 16, 18 | [官方链接](https://webstore.iec.ch/en/publication/78093) |
-| IEC 80601-2-49:2018 | 医用电气设备 - 第2-49部分：多功能患者监护设备的基本安全和基本性能专用要求 | active | 14, 15, 18 | [官方链接](https://webstore.iec.ch/en/publication/30552) |
+| IEC 80601-2-49:2018+AMD1:2024 | 医用电气设备 - 第2-49部分：多功能患者监护设备的基本安全和基本性能专用要求 | active | 14, 15, 18 | [官方链接](https://webstore.iec.ch/en/publication/100456) |
 | IEC 80601-2-52:2026 | 医用电气设备 - 第2-52部分：医用病床的基本安全和基本性能专用要求 | active | 14, 18, 20 | [官方链接](https://webstore.iec.ch/en/publication/66296) |
 | IEC 60601-1-8:2006+AMD1:2012+AMD2:2020 | 医用电气设备 - 第1-8部分：基本安全和基本性能的通用要求 - 并列标准：报警系统 | active | 18 | [官方链接](https://webstore.iec.ch/en/publication/67388) |
 | IEC 62353:2014 | 医用电气设备 - 定期检测和修理后检测 | active | 14, 18 | [官方链接](https://webstore.iec.ch/en/publication/6913) |

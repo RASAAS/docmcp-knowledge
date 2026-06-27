@@ -1,6 +1,6 @@
-# Additive Manufacturing - Related International Standards
+# Additive Manufacturing (3D Printing) - Related International Standards
 
-The following non-harmonised international standards are related to **Additive Manufacturing** for EU MDR compliance reference.
+The following non-harmonised international standards are related to **Additive Manufacturing (3D Printing)** for EU MDR compliance reference.
 
 | Standard | Title | Status | GSPRs | Link |
 |----------|-------|--------|-------|------|

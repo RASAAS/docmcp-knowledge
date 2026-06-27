@@ -1,6 +1,6 @@
-# Mri Safety - Related International Standards
+# MRI Safety - Related International Standards
 
-The following non-harmonised international standards are related to **Mri Safety** for EU MDR compliance reference.
+The following non-harmonised international standards are related to **MRI Safety** for EU MDR compliance reference.
 
 | Standard | Title | Status | GSPRs | Link |
 |----------|-------|--------|-------|------|

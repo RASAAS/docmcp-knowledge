@@ -1,15 +1,15 @@
 {
   "directory": "eu_mdr/other_standards",
   "description": "International Standards (non-harmonised) applicable to medical devices under EU MDR",
-  "last_updated": "2026-06-24",
-  "total_standards": 242,
+  "last_updated": "2026-06-27",
+  "total_standards": 386,
   "categories": {
     "active_implants": {
       "name": {
         "zh": "有源植入物",
         "en": "Active Implantable Devices"
       },
-      "count": 5,
+      "count": 4,
       "file": "standards-active_implants.json"
     },
     "anaesthesia": {
@@ -17,7 +17,7 @@
         "en": "Anaesthesia Equipment",
         "zh": "麻醉设备"
       },
-      "count": 1,
+      "count": 2,
       "file": "standards-anaesthesia.json"
     },
     "audiology": {
@@ -25,7 +25,7 @@
         "en": "Audiology & Hearing",
         "zh": "听力学"
       },
-      "count": 1,
+      "count": 5,
       "file": "standards-audiology.json"
     },
     "biocompatibility": {
@@ -33,7 +33,7 @@
         "zh": "生物相容性",
         "en": "Biocompatibility"
       },
-      "count": 15,
+      "count": 23,
       "file": "standards-biocompatibility.json"
     },
     "biological_materials": {
@@ -41,7 +41,7 @@
         "en": "Biological Materials",
         "zh": "生物来源材料"
       },
-      "count": 3,
+      "count": 6,
       "file": "standards-biological_materials.json"
     },
     "breathing_gas_pathways": {
@@ -49,7 +49,7 @@
         "zh": "呼吸气路生物相容性",
         "en": "Breathing Gas Pathways"
       },
-      "count": 10,
+      "count": 14,
       "file": "standards-breathing_gas_pathways.json"
     },
     "cardiology": {
@@ -57,7 +57,7 @@
         "en": "Cardiology & Cardiovascular",
         "zh": "心血管"
       },
-      "count": 3,
+      "count": 8,
       "file": "standards-cardiology.json"
     },
     "clinical_investigation": {
@@ -65,7 +65,7 @@
         "zh": "临床调查",
         "en": "Clinical Investigation"
       },
-      "count": 3,
+      "count": 2,
       "file": "standards-clinical_investigation.json"
     },
     "connectors": {
@@ -73,7 +73,7 @@
         "zh": "小口径连接器",
         "en": "Small-bore Connectors"
       },
-      "count": 2,
+      "count": 3,
       "file": "standards-connectors.json"
     },
     "cybersecurity": {
@@ -89,7 +89,7 @@
         "zh": "口腔医疗器械",
         "en": "Dental Devices"
       },
-      "count": 4,
+      "count": 6,
       "file": "standards-dental.json"
     },
     "diagnostic_imaging": {
@@ -105,7 +105,7 @@
         "en": "Dialysis & Blood Treatment",
         "zh": "透析与血液处理"
       },
-      "count": 1,
+      "count": 6,
       "file": "standards-dialysis.json"
     },
     "drug_device_combination": {
@@ -113,7 +113,7 @@
         "en": "Drug-Device Combination",
         "zh": "药械组合产品"
       },
-      "count": 2,
+      "count": 3,
       "file": "standards-drug_device_combination.json"
     },
     "electrical_safety": {
@@ -129,7 +129,7 @@
         "en": "Endoscopy",
         "zh": "内窥镜"
       },
-      "count": 1,
+      "count": 6,
       "file": "standards-endoscopy.json"
     },
     "environmental_testing": {
@@ -137,7 +137,7 @@
         "zh": "环境试验",
         "en": "Environmental Testing"
       },
-      "count": 7,
+      "count": 6,
       "file": "standards-environmental_testing.json"
     },
     "home_healthcare": {
@@ -145,7 +145,7 @@
         "zh": "家用医疗器械",
         "en": "Home Healthcare"
       },
-      "count": 1,
+      "count": 4,
       "file": "standards-home_healthcare.json"
     },
     "implant_materials": {
@@ -177,7 +177,7 @@
         "zh": "标签与符号",
         "en": "Labelling & Symbols"
       },
-      "count": 1,
+      "count": 3,
       "file": "standards-labelling.json"
     },
     "laser_surgery": {
@@ -185,7 +185,7 @@
         "en": "Laser Surgery",
         "zh": "激光手术"
       },
-      "count": 1,
+      "count": 3,
       "file": "standards-laser_surgery.json"
     },
     "lithotripsy": {
@@ -193,7 +193,7 @@
         "en": "Lithotripsy",
         "zh": "碎石设备"
       },
-      "count": 1,
+      "count": 3,
       "file": "standards-lithotripsy.json"
     },
     "mechanical_testing": {
@@ -217,7 +217,7 @@
         "zh": "MRI 安全",
         "en": "MRI Safety"
       },
-      "count": 4,
+      "count": 5,
       "file": "standards-mri_safety.json"
     },
     "needles_syringes": {
@@ -225,7 +225,7 @@
         "zh": "针头与注射器",
         "en": "Needles & Syringes"
       },
-      "count": 2,
+      "count": 8,
       "file": "standards-needles_syringes.json"
     },
     "neonatal": {
@@ -257,7 +257,7 @@
         "zh": "眼科器械",
         "en": "Ophthalmic Devices"
       },
-      "count": 2,
+      "count": 7,
       "file": "standards-ophthalmic.json"
     },
     "packaging": {
@@ -273,7 +273,7 @@
         "en": "Patient Monitoring",
         "zh": "患者监护设备"
       },
-      "count": 9,
+      "count": 7,
       "file": "standards-patient_monitoring.json"
     },
     "patient_warming": {
@@ -297,7 +297,7 @@
         "en": "Physiotherapy & Rehabilitation",
         "zh": "理疗与康复"
       },
-      "count": 2,
+      "count": 5,
       "file": "standards-physiotherapy.json"
     },
     "pms": {
@@ -305,7 +305,7 @@
         "zh": "上市后监督",
         "en": "Post-Market Surveillance"
       },
-      "count": 1,
+      "count": 3,
       "file": "standards-pms.json"
     },
     "ppe_barrier": {
@@ -313,7 +313,7 @@
         "zh": "防护用品",
         "en": "PPE & Barrier Products"
       },
-      "count": 1,
+      "count": 6,
       "file": "standards-ppe_barrier.json"
     },
     "quality_management": {
@@ -321,7 +321,7 @@
         "zh": "质量管理体系",
         "en": "Quality Management"
       },
-      "count": 1,
+      "count": 3,
       "file": "standards-quality_management.json"
     },
     "radiation_protection": {
@@ -345,7 +345,7 @@
         "zh": "再处理",
         "en": "Reprocessing"
       },
-      "count": 2,
+      "count": 5,
       "file": "standards-reprocessing.json"
     },
     "risk_management": {
@@ -353,7 +353,7 @@
         "zh": "风险管理",
         "en": "Risk Management"
       },
-      "count": 2,
+      "count": 4,
       "file": "standards-risk_management.json"
     },
     "software": {
@@ -361,7 +361,7 @@
         "zh": "软件与可用性 (待协调)",
         "en": "Software & Usability (Pending)"
       },
-      "count": 12,
+      "count": 11,
       "file": "standards-software.json"
     },
     "sterilization": {
@@ -369,7 +369,7 @@
         "zh": "灭菌与无菌包装",
         "en": "Sterilization & Packaging"
       },
-      "count": 9,
+      "count": 13,
       "file": "standards-sterilization.json"
     },
     "surgical_implants": {
@@ -377,7 +377,7 @@
         "zh": "非有源外科植入物",
         "en": "Non-active Surgical Implants"
       },
-      "count": 9,
+      "count": 13,
       "file": "standards-surgical_implants.json"
     },
     "therapeutic_ultrasound": {
@@ -385,7 +385,7 @@
         "en": "Therapeutic Ultrasound",
         "zh": "治疗超声"
       },
-      "count": 1,
+      "count": 3,
       "file": "standards-therapeutic_ultrasound.json"
     },
     "usability": {
@@ -393,7 +393,7 @@
         "zh": "可用性与人因工程",
         "en": "Usability & Human Factors"
       },
-      "count": 5,
+      "count": 2,
       "file": "standards-usability.json"
     },
     "wound_care": {
@@ -401,7 +401,7 @@
         "zh": "伤口护理",
         "en": "Wound Care"
       },
-      "count": 1,
+      "count": 5,
       "file": "standards-wound_care.json"
     },
     "ai_ml": {
@@ -415,6 +415,102 @@
         "en": "Standards for artificial intelligence and machine learning in medical devices",
         "zh": "医疗器械人工智能与机器学习相关标准"
       }
+    },
+    "additive_manufacturing": {
+      "name": {
+        "en": "Additive Manufacturing (3D Printing)",
+        "zh": "增材制造(3D打印)"
+      },
+      "count": 5,
+      "file": "standards-additive_manufacturing.json"
+    },
+    "annex_xvi": {
+      "name": {
+        "en": "Annex XVI (Non-medical Purpose)",
+        "zh": "Annex XVI (非医疗目的)"
+      },
+      "count": 5,
+      "file": "standards-annex_xvi.json"
+    },
+    "assistive_technology": {
+      "name": {
+        "en": "Assistive Technology",
+        "zh": "辅助技术"
+      },
+      "count": 6,
+      "file": "standards-assistive_technology.json"
+    },
+    "digital_health_wearables": {
+      "name": {
+        "en": "Digital Health & Wearables",
+        "zh": "数字健康与可穿戴"
+      },
+      "count": 5,
+      "file": "standards-digital_health_wearables.json"
+    },
+    "infusion_transfusion": {
+      "name": {
+        "en": "Infusion & Transfusion",
+        "zh": "输液与输血"
+      },
+      "count": 5,
+      "file": "standards-infusion_transfusion.json"
+    },
+    "point_of_care_testing": {
+      "name": {
+        "en": "Point-of-Care Testing (POCT)",
+        "zh": "即时检验(POCT)"
+      },
+      "count": 5,
+      "file": "standards-point_of_care_testing.json"
+    },
+    "respiratory_anaesthesia": {
+      "name": {
+        "en": "Respiratory & Anaesthesia",
+        "zh": "呼吸与麻醉"
+      },
+      "count": 5,
+      "file": "standards-respiratory_anaesthesia.json"
+    },
+    "robotic_surgery": {
+      "name": {
+        "en": "Robotic Surgery",
+        "zh": "手术机器人"
+      },
+      "count": 5,
+      "file": "standards-robotic_surgery.json"
+    },
+    "surgical_instruments": {
+      "name": {
+        "en": "Surgical Instruments",
+        "zh": "手术器械"
+      },
+      "count": 7,
+      "file": "standards-surgical_instruments.json"
+    },
+    "tissue_engineering": {
+      "name": {
+        "en": "Tissue Engineering",
+        "zh": "组织工程"
+      },
+      "count": 4,
+      "file": "standards-tissue_engineering.json"
+    },
+    "urogenital": {
+      "name": {
+        "en": "Urogenital",
+        "zh": "泌尿生殖"
+      },
+      "count": 5,
+      "file": "standards-urogenital.json"
+    },
+    "vascular_devices": {
+      "name": {
+        "en": "Vascular Devices",
+        "zh": "血管器械"
+      },
+      "count": 5,
+      "file": "standards-vascular_devices.json"
     }
   },
   "total_count": 242

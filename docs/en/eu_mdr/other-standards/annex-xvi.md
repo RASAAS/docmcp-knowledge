@@ -1,6 +1,6 @@
-# Annex Xvi - Related International Standards
+# Annex XVI (Non-medical Purpose) - Related International Standards
 
-The following non-harmonised international standards are related to **Annex Xvi** for EU MDR compliance reference.
+The following non-harmonised international standards are related to **Annex XVI (Non-medical Purpose)** for EU MDR compliance reference.
 
 | Standard | Title | Status | GSPRs | Link |
 |----------|-------|--------|-------|------|

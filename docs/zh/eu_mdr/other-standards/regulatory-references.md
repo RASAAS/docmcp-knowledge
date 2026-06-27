@@ -1,6 +1,6 @@
-# Regulatory References - 相关国际标准
+# 法规参考 - 相关国际标准
 
-以下是与 **Regulatory References** 相关的非协调国际标准，供 EU MDR 合规参考。
+以下是与 **法规参考** 相关的非协调国际标准，供 EU MDR 合规参考。
 
 | 标准号 | 标题 | 状态 | 适用GSPRs | 官方链接 |
 |--------|------|------|-----------|----------|
@@ -12,7 +12,7 @@
 | Regulation (EU) 2023/1542 (Battery Regulation) | 电池和废旧电池法规 | active | 10 | [官方链接](https://eur-lex.europa.eu/eli/reg/2023/1542/oj) |
 | Regulation (EU) 722/2012 (TSE) | 关于使用动物组织的医疗器械的特殊要求 | active | 10, 13 | [官方链接](https://eur-lex.europa.eu/eli/reg/2012/722/oj) |
 | Regulation (EU) 2024/2847 (Cyber Resilience Act) | 数字产品网络安全横向要求法规 | active | 17, 18 | [官方链接](https://eur-lex.europa.eu/eli/reg/2024/2847/oj) |
-| Directive (EU) 2022/2555 (NIS2) | 确保高水平网络和信息系统安全的措施指令 | active | 17, 18 | [官方链接](https://eur-lex.europa.eu/eli/reg/2022/2555/oj) |
+| Directive (EU) 2022/2555 (NIS2) | 确保高水平网络和信息系统安全的措施指令 | active | 17, 18 | [官方链接](https://eur-lex.europa.eu/eli/dir/2022/2555/oj) |
 | Regulation (EU) 2024/1689 (AI Act) | 人工智能统一规则法规 | active | 17 | [官方链接](https://eur-lex.europa.eu/eli/reg/2024/1689/oj) |
 | Regulation (EU) 2023/988 (GPSR) | 通用产品安全法规 | active | 1, 3, 4 | [官方链接](https://eur-lex.europa.eu/eli/reg/2023/988/oj) |
 | Regulation (EU) 2024/1781 (ESPR) | 可持续产品生态设计要求框架法规 | active | 10, 10.4 | [官方链接](https://eur-lex.europa.eu/eli/reg/2024/1781/oj) |
@@ -20,4 +20,4 @@
 | Directive 2014/53/EU (RED) | 无线电设备指令 | active | 14 | [官方链接](https://eur-lex.europa.eu/eli/dir/2014/53/oj) |
 | Regulation (EU) 2023/1230 (Machinery Regulation) | 机械法规 | active | 1, 3, 9, 14 | [官方链接](https://eur-lex.europa.eu/eli/reg/2023/1230/oj) |
 | Directive 2001/83/EC (Medicinal Products) | 药品社区法典指令 | active | 12 | [官方链接](https://eur-lex.europa.eu/eli/dir/2001/83/oj) |
-| Directive (EU) 2022/2557 (CER Directive) | 关键实体韧性指令 | active | 17 | [官方链接](https://eur-lex.europa.eu/eli/reg/2022/2557/oj) |
+| Directive (EU) 2022/2557 (CER Directive) | 关键实体韧性指令 | active | 17 | [官方链接](https://eur-lex.europa.eu/eli/dir/2022/2557/oj) |

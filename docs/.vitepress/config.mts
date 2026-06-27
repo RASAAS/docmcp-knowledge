@@ -44,7 +44,7 @@ const zhSidebar = Object.assign(
         ],
       },
       {
-        text: '其他适用标准 (391)', link: '/zh/eu_mdr/other-standards',
+        text: '其他适用标准 (386)', link: '/zh/eu_mdr/other-standards',
         collapsed: true,
         items: [
           { text: '有源植入物', link: '/zh/eu_mdr/other-standards/active-implants' },
@@ -294,7 +294,7 @@ export default defineConfig({
                 ],
               },
               {
-                text: 'Other Standards (391)', link: '/en/eu_mdr/other-standards',
+                text: 'Other Standards (386)', link: '/en/eu_mdr/other-standards',
                 collapsed: true,
                 items: [
                   { text: 'Active Implants', link: '/en/eu_mdr/other-standards/active-implants' },
