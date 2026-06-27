@@ -1,6 +1,97 @@
 {
   "standards": [
     {
+      "id": "eu_mdr-os-iec-60601-2-87-2024",
+      "number": "IEC 60601-2-87:2024",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-87: Particular requirements for the basic safety and essential performance of high-frequency ventilators",
+        "zh": "医用电气设备 - 第2-87部分：高频振荡呼吸机的基本安全和基本性能专用要求"
+      },
+      "status": "active",
+      "source_url": "https://webstore.iec.ch/en/publication/66234",
+      "source_verified": "",
+      "category": "breathing_gas_pathways",
+      "standard_type": "non_harmonised",
+      "scope": "High-frequency ventilators.",
+      "applicable_gsprs": [
+        "14",
+        "14.2"
+      ],
+      "abstract": "Particular requirements for high-frequency ventilators."
+    },
+    {
+      "id": "iso-18562-1-2024",
+      "number": "ISO 18562-1:2024",
+      "title": {
+        "en": "Biocompatibility evaluation of breathing gas pathways in healthcare applications - Part 1: Evaluation and testing within a risk management process",
+        "zh": "医疗保健应用中呼吸气路的生物相容性评价 - 第1部分：风险管理过程中的评价和试验"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "10",
+        "14"
+      ],
+      "standard_type": "international",
+      "source_url": "https://www.iso.org/standard/83409.html",
+      "source_verified": true,
+      "abstract": "Specifies general principles for biological evaluation of breathing gas pathways within a risk management process.",
+      "scope": "Breathing gas pathway biocompatibility"
+    },
+    {
+      "id": "iso-18562-2-2024",
+      "number": "ISO 18562-2:2024",
+      "title": {
+        "en": "Biocompatibility evaluation of breathing gas pathways in healthcare applications - Part 2: Tests for emissions of particulate matter",
+        "zh": "医疗保健应用中呼吸气路的生物相容性评价 - 第2部分：颗粒物排放试验"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "10",
+        "14"
+      ],
+      "standard_type": "international",
+      "source_url": "https://www.iso.org/standard/83410.html",
+      "source_verified": true,
+      "abstract": "Specifies tests for emissions of particulate matter from gas pathways of medical devices.",
+      "scope": "Breathing gas pathway particulate testing"
+    },
+    {
+      "id": "iso-18562-3-2024",
+      "number": "ISO 18562-3:2024",
+      "title": {
+        "en": "Biocompatibility evaluation of breathing gas pathways in healthcare applications - Part 3: Tests for emissions of volatile organic substances",
+        "zh": "医疗保健应用中呼吸气路的生物相容性评价 - 第3部分：挥发性有机物排放试验"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "10",
+        "14"
+      ],
+      "standard_type": "international",
+      "source_url": "https://www.iso.org/standard/83411.html",
+      "source_verified": true,
+      "abstract": "Specifies tests for emissions of volatile organic substances from gas pathways.",
+      "scope": "Breathing gas pathway VOC testing"
+    },
+    {
+      "id": "iso-18562-4-2024",
+      "number": "ISO 18562-4:2024",
+      "title": {
+        "en": "Biocompatibility evaluation of breathing gas pathways in healthcare applications - Part 4: Tests for leachables in condensate",
+        "zh": "医疗保健应用中呼吸气路的生物相容性评价 - 第4部分：冷凝液中可浸出物试验"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "10",
+        "14"
+      ],
+      "standard_type": "international",
+      "source_url": "https://www.iso.org/standard/82898.html",
+      "source_verified": true,
+      "abstract": "Specifies tests for substances leached by condensate in gas pathways.",
+      "scope": "Breathing gas pathway leachable testing"
+    },
+    {
       "id": "iso-7396-1-2016",
       "number": "ISO 7396-1:2016",
       "title": {
@@ -39,80 +130,23 @@
       "note": "Edition 3 (2023) replaces 2020 version."
     },
     {
-      "id": "iso-80601-2-70-2020",
-      "number": "ISO 80601-2-70:2025",
+      "id": "iso-80601-2-55-2018",
+      "number": "ISO 80601-2-55:2018+AMD1:2023",
       "title": {
-        "en": "Medical electrical equipment - Part 2-70: Particular requirements for basic safety and essential performance of sleep apnoea breathing therapy equipment",
-        "zh": "医用电气设备 - 第2-70部分：睡眠呼吸暂停治疗设备的基本安全和基本性能专用要求"
+        "en": "Medical electrical equipment - Part 2-55: Particular requirements for the basic safety and essential performance of respiratory gas monitors",
+        "zh": "医用电气设备 - 第2-55部分：呼吸气体监测器的基本安全和基本性能专用要求"
       },
       "status": "active",
       "applicable_gsprs": [
         "14",
-        "18"
+        "18",
+        "21"
       ],
-      "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/standard/87160.html",
-      "abstract": "Specifies particular requirements for basic safety and essential performance of sleep apnoea breathing therapy equipment.",
-      "scope": "Medical electrical equipment -- Particular requirements for the basic safety and essential performance of sleep apnoea breathing therapy equipment.",
-      "source_verified": "2026-06-24",
-      "note": "Edition 3 (2025) replaces 2020 version."
-    },
-    {
-      "id": "eu_mdr-os-iec-60601-2-12-2023",
-      "number": "IEC 60601-2-12:2023",
-      "title": {
-        "en": "Medical electrical equipment - Part 2-12: Particular requirements for the basic safety and essential performance of critical care ventilators",
-        "zh": "医用电气设备 - 第2-12部分：重症监护呼吸机的基本安全和基本性能专用要求"
-      },
-      "status": "active",
-      "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-12",
-      "source_verified": "",
-      "category": "breathing_gas_pathways",
-      "standard_type": "non_harmonised",
-      "scope": "Critical care ventilators.",
-      "applicable_gsprs": [
-        "14",
-        "14.2"
-      ],
-      "abstract": "Particular requirements for critical care ventilators."
-    },
-    {
-      "id": "eu_mdr-os-iec-60601-2-84-2020",
-      "number": "IEC 60601-2-84:2020",
-      "title": {
-        "en": "Medical electrical equipment - Part 2-84: Particular requirements for the basic safety and essential performance of emergency and transport ventilators",
-        "zh": "医用电气设备 - 第2-84部分：紧急和转运呼吸机的基本安全和基本性能专用要求"
-      },
-      "status": "active",
-      "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-84",
-      "source_verified": "",
-      "category": "breathing_gas_pathways",
-      "standard_type": "non_harmonised",
-      "scope": "Emergency and transport ventilators.",
-      "applicable_gsprs": [
-        "14",
-        "14.2"
-      ],
-      "abstract": "Particular requirements for emergency and transport ventilators."
-    },
-    {
-      "id": "eu_mdr-os-iec-60601-2-87-2024",
-      "number": "IEC 60601-2-87:2024",
-      "title": {
-        "en": "Medical electrical equipment - Part 2-87: Particular requirements for the basic safety and essential performance of high-frequency ventilators",
-        "zh": "医用电气设备 - 第2-87部分：高频振荡呼吸机的基本安全和基本性能专用要求"
-      },
-      "status": "active",
-      "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-87",
-      "source_verified": "",
-      "category": "breathing_gas_pathways",
-      "standard_type": "non_harmonised",
-      "scope": "High-frequency ventilators.",
-      "applicable_gsprs": [
-        "14",
-        "14.2"
-      ],
-      "abstract": "Particular requirements for high-frequency ventilators."
+      "standard_type": "international",
+      "source_url": "https://www.iso.org/standard/67241.html",
+      "source_verified": true,
+      "abstract": "Requirements for respiratory gas monitors including anaesthetic gas, CO2 and oxygen monitoring.",
+      "scope": "Respiratory gas monitoring"
     },
     {
       "id": "eu_mdr-os-iso-80601-2-67-2020",
@@ -153,6 +187,43 @@
       ],
       "abstract": "Requirements for oxygen concentrator equipment.",
       "note": "Edition 3 (2026) replaces 2020 version."
+    },
+    {
+      "id": "iso-80601-2-70-2020",
+      "number": "ISO 80601-2-70:2025",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-70: Particular requirements for basic safety and essential performance of sleep apnoea breathing therapy equipment",
+        "zh": "医用电气设备 - 第2-70部分：睡眠呼吸暂停治疗设备的基本安全和基本性能专用要求"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "18"
+      ],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/87160.html",
+      "abstract": "Specifies particular requirements for basic safety and essential performance of sleep apnoea breathing therapy equipment.",
+      "scope": "Medical electrical equipment -- Particular requirements for the basic safety and essential performance of sleep apnoea breathing therapy equipment.",
+      "source_verified": "2026-06-24",
+      "note": "Edition 3 (2025) replaces 2020 version."
+    },
+    {
+      "id": "iso-80601-2-74-2026",
+      "number": "ISO 80601-2-74:2026",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-74: Particular requirements for basic safety and essential performance of respiratory humidifying equipment",
+        "zh": "医用电气设备 - 第2-74部分：呼吸加湿设备的基本安全和基本性能专用要求"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "18"
+      ],
+      "standard_type": "international",
+      "source_url": "https://www.iso.org/standard/83412.html",
+      "source_verified": true,
+      "abstract": "Requirements for basic safety and essential performance of respiratory humidifying equipment.",
+      "scope": "Respiratory humidifiers"
     },
     {
       "id": "eu_mdr-os-iso-80601-2-79-2018",

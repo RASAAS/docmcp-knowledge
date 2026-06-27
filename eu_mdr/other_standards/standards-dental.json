@@ -1,23 +1,6 @@
 {
   "standards": [
     {
-      "id": "iso-7405-2018",
-      "number": "ISO 7405:2018",
-      "title": {
-        "en": "Dentistry - Evaluation of biocompatibility of medical devices used in dentistry",
-        "zh": "牙科 - 用于牙科的医疗器械生物相容性评价"
-      },
-      "status": "active",
-      "applicable_gsprs": [
-        "10"
-      ],
-      "standard_type": "non_harmonised",
-      "source_url": "https://www.iso.org/standard/68936.html",
-      "abstract": "Specifies test methods for evaluating biocompatibility of medical devices used in dentistry.",
-      "scope": "Dentistry -- Evaluation of biocompatibility of medical devices used in dentistry.",
-      "source_verified": "2026-06-24"
-    },
-    {
       "id": "eu_mdr-os-iec-60601-2-63-2023",
       "number": "IEC 60601-2-63:2023",
       "title": {
@@ -25,7 +8,7 @@
         "zh": "医用电气设备 - 第2-63部分：口腔外科和口腔内科设备的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-63",
+      "source_url": "https://webstore.iec.ch/en/publication/67622",
       "source_verified": "",
       "category": "dental",
       "standard_type": "non_harmonised",
@@ -44,7 +27,7 @@
         "zh": "医用电气设备 - 第2-65部分：口腔内X射线设备的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-65",
+      "source_url": "https://webstore.iec.ch/en/publication/5300",
       "source_verified": "",
       "category": "dental",
       "standard_type": "non_harmonised",
@@ -54,6 +37,24 @@
         "16"
       ],
       "abstract": "Particular requirements for dental intra-oral X-ray equipment."
+    },
+    {
+      "id": "iso-14801-2016",
+      "number": "ISO 14801:2016",
+      "title": {
+        "en": "Dentistry - Implants - Dynamic loading test for endosseous dental implants",
+        "zh": "牙科 - 植入物 - 骨内牙科植入物动态负载试验"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "17"
+      ],
+      "standard_type": "international",
+      "source_url": "https://www.iso.org/standard/61188.html",
+      "source_verified": true,
+      "abstract": "Dynamic loading test methods for endosseous dental implants.",
+      "scope": "Dental implant fatigue testing"
     },
     {
       "id": "eu_mdr-os-iso-1942-2020",
@@ -72,6 +73,59 @@
         "23"
       ],
       "abstract": "Vocabulary used in dentistry."
+    },
+    {
+      "id": "iso-6872-2024",
+      "number": "ISO 6872:2024",
+      "title": {
+        "en": "Dentistry - Ceramic materials",
+        "zh": "牙科 - 陶瓷材料"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "10",
+        "14"
+      ],
+      "standard_type": "international",
+      "source_url": "https://www.iso.org/standard/81718.html",
+      "source_verified": true,
+      "abstract": "Requirements and test methods for dental ceramic materials for fixed all-ceramic and metal-ceramic restorations.",
+      "scope": "Dental ceramics"
+    },
+    {
+      "id": "iso-7405-2018",
+      "number": "ISO 7405:2018",
+      "title": {
+        "en": "Dentistry - Evaluation of biocompatibility of medical devices used in dentistry",
+        "zh": "牙科 - 用于牙科的医疗器械生物相容性评价"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "10"
+      ],
+      "standard_type": "non_harmonised",
+      "source_url": "https://www.iso.org/standard/68936.html",
+      "abstract": "Specifies test methods for evaluating biocompatibility of medical devices used in dentistry.",
+      "scope": "Dentistry -- Evaluation of biocompatibility of medical devices used in dentistry.",
+      "source_verified": "2026-06-24"
+    },
+    {
+      "id": "iso-7405-2025",
+      "number": "ISO 7405:2025",
+      "title": {
+        "en": "Dentistry - Evaluation of biocompatibility of medical devices used in dentistry",
+        "zh": "牙科 - 牙科医疗器械的生物相容性评价"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "10",
+        "14"
+      ],
+      "standard_type": "international",
+      "source_url": "https://www.iso.org/standard/7405.html",
+      "source_verified": true,
+      "abstract": "Biological test methods for evaluating biocompatibility of dental medical devices.",
+      "scope": "Dental biocompatibility"
     }
   ]
 }

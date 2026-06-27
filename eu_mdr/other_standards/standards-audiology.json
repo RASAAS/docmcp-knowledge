@@ -8,7 +8,7 @@
         "zh": "医用电气设备 - 第2-66部分：助听器和助听器系统的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-66",
+      "source_url": "https://webstore.iec.ch/en/publication/62463",
       "source_verified": "",
       "category": "audiology",
       "standard_type": "non_harmonised",
@@ -18,6 +18,60 @@
         "14.1"
       ],
       "abstract": "Particular requirements for hearing instruments."
+    },
+    {
+      "id": "iec-60645-1-2017",
+      "number": "IEC 60645-1:2017",
+      "title": {
+        "en": "Electroacoustics - Audiometric equipment - Part 1: Equipment for pure-tone and speech audiometry",
+        "zh": "电声学 - 听力计设备 - 第1部分：纯音和言语测听设备"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "18"
+      ],
+      "standard_type": "international",
+      "source_url": "https://webstore.iec.ch/en/publication/28600",
+      "source_verified": true,
+      "abstract": "Requirements for equipment for pure-tone and speech audiometry.",
+      "scope": "Audiometric equipment"
+    },
+    {
+      "id": "iec-60645-3-2020",
+      "number": "IEC 60645-3:2020",
+      "title": {
+        "en": "Electroacoustics - Audiometric equipment - Part 3: Test signals of short duration",
+        "zh": "电声学 - 听力计设备 - 第3部分：短时测试信号"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "18"
+      ],
+      "standard_type": "international",
+      "source_url": "https://webstore.iec.ch/en/publication/63620",
+      "source_verified": true,
+      "abstract": "Requirements for test signals of short duration used in audiometric equipment.",
+      "scope": "Audiometric test signals"
+    },
+    {
+      "id": "iec-60645-5-2004",
+      "number": "IEC 60645-5:2004+AMD1:2015",
+      "title": {
+        "en": "Electroacoustics - Audiometric equipment - Part 5: Instruments for the measurement of aural acoustic impedance/admittance",
+        "zh": "电声学 - 听力计设备 - 第5部分：耳声阻抗/导纳测量仪器"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "18"
+      ],
+      "standard_type": "international",
+      "source_url": "https://webstore.iec.ch/en/publication/2771",
+      "source_verified": true,
+      "abstract": "Requirements for instruments measuring aural acoustic impedance and admittance.",
+      "scope": "Aural impedance measurement"
     }
   ]
 }

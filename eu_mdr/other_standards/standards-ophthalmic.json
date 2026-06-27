@@ -1,6 +1,25 @@
 {
   "standards": [
     {
+      "id": "eu_mdr-os-iec-80601-2-58-2014+amd1-2016",
+      "number": "IEC 80601-2-58:2014+AMD1:2016",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-58: Particular requirements for the basic safety and essential performance of lens removal devices and vitrectomy devices for ophthalmic surgery",
+        "zh": "医用电气设备 - 第2-58部分：晶体乳化手术和玻璃体切割设备的基本安全和基本性能专用要求"
+      },
+      "status": "active",
+      "source_url": "https://webstore.iec.ch/en/publication/5382",
+      "source_verified": "",
+      "category": "ophthalmic",
+      "standard_type": "non_harmonised",
+      "scope": "Ophthalmic surgery devices - lens removal and vitrectomy.",
+      "applicable_gsprs": [
+        "14",
+        "14.1"
+      ],
+      "abstract": "Particular requirements for lens removal and vitrectomy devices."
+    },
+    {
       "id": "iso-11979-1-2018",
       "number": "ISO 11979-1:2026",
       "title": {
@@ -21,23 +40,77 @@
       "note": "Edition 5 (2026) replaces 2018 version."
     },
     {
-      "id": "eu_mdr-os-iec-80601-2-58-2014+amd1-2016",
-      "number": "IEC 80601-2-58:2014+AMD1:2016",
+      "id": "iso-11979-2-2024",
+      "number": "ISO 11979-2:2024",
       "title": {
-        "en": "Medical electrical equipment - Part 2-58: Particular requirements for the basic safety and essential performance of lens removal devices and vitrectomy devices for ophthalmic surgery",
-        "zh": "医用电气设备 - 第2-58部分：晶体乳化手术和玻璃体切割设备的基本安全和基本性能专用要求"
+        "en": "Ophthalmic implants - Intraocular lenses - Part 2: Optical properties and test methods",
+        "zh": "眼科植入物 - 人工晶状体 - 第2部分：光学性能和试验方法"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+80601-2-58",
-      "source_verified": "",
-      "category": "ophthalmic",
-      "standard_type": "non_harmonised",
-      "scope": "Ophthalmic surgery devices - lens removal and vitrectomy.",
       "applicable_gsprs": [
         "14",
-        "14.1"
+        "18"
       ],
-      "abstract": "Particular requirements for lens removal and vitrectomy devices."
+      "standard_type": "international",
+      "source_url": "https://www.iso.org/standard/82840.html",
+      "source_verified": true,
+      "abstract": "Requirements and test methods for optical properties of intraocular lenses including monofocal, toric, and multifocal.",
+      "scope": "Intraocular lens optical properties"
+    },
+    {
+      "id": "iso-11979-7-2024",
+      "number": "ISO 11979-7:2024",
+      "title": {
+        "en": "Ophthalmic implants - Intraocular lenses - Part 7: Clinical investigations of intraocular lenses for the correction of aphakia",
+        "zh": "眼科植入物 - 人工晶状体 - 第7部分：矫正无晶状体眼的人工晶状体临床调查"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "18",
+        "20"
+      ],
+      "standard_type": "international",
+      "source_url": "https://www.iso.org/standard/82841.html",
+      "source_verified": true,
+      "abstract": "Requirements for clinical investigations of intraocular lenses for correction of aphakia.",
+      "scope": "IOL clinical investigations"
+    },
+    {
+      "id": "iso-15004-1-2020",
+      "number": "ISO 15004-1:2020",
+      "title": {
+        "en": "Ophthalmic instruments - Fundamental requirements and test methods - Part 1: General requirements applicable to all ophthalmic instruments",
+        "zh": "眼科仪器 - 基本要求和试验方法 - 第1部分：适用于所有眼科仪器的一般要求"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "18"
+      ],
+      "standard_type": "international",
+      "source_url": "https://www.iso.org/standard/74036.html",
+      "source_verified": true,
+      "abstract": "General requirements applicable to all ophthalmic instruments.",
+      "scope": "Ophthalmic instruments general"
+    },
+    {
+      "id": "iso-15004-2-2024",
+      "number": "ISO 15004-2:2024",
+      "title": {
+        "en": "Ophthalmic instruments - Fundamental requirements and test methods - Part 2: Light hazard protection",
+        "zh": "眼科仪器 - 基本要求和试验方法 - 第2部分：光危害防护"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "18"
+      ],
+      "standard_type": "international",
+      "source_url": "https://www.iso.org/standard/79919.html",
+      "source_verified": true,
+      "abstract": "Optical radiation safety requirements for ophthalmic instruments directing light into or at the eye.",
+      "scope": "Ophthalmic light hazard protection"
     }
   ]
 }

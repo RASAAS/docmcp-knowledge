@@ -8,7 +8,7 @@
         "zh": "医用电气设备 - 第2-36部分：体外引发的碎石设备的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-36",
+      "source_url": "https://webstore.iec.ch/en/publication/67618",
       "source_verified": "",
       "category": "lithotripsy",
       "standard_type": "non_harmonised",
@@ -18,6 +18,42 @@
         "14.1"
       ],
       "abstract": "Particular requirements for extracorporeal lithotripsy equipment."
+    },
+    {
+      "id": "iec-61846-1998",
+      "number": "IEC 61846:1998+AMD1:2024",
+      "title": {
+        "en": "Ultrasonics - Pressure pulse lithotripters - Characteristics of fields",
+        "zh": "超声学 - 压力脉冲碎石机 - 场的特性"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "18"
+      ],
+      "standard_type": "international",
+      "source_url": "https://webstore.iec.ch/en/publication/5891",
+      "source_verified": true,
+      "abstract": "Characteristics of fields produced by pressure pulse lithotripters.",
+      "scope": "Lithotripter field characterization"
+    },
+    {
+      "id": "iec-61847-1998",
+      "number": "IEC 61847:1998+AMD1:2024",
+      "title": {
+        "en": "Ultrasonics - Surgical systems - Measurement and declaration of the basic output characteristics",
+        "zh": "超声学 - 外科系统 - 基本输出特性的测量和声明"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "18"
+      ],
+      "standard_type": "international",
+      "source_url": "https://webstore.iec.ch/en/publication/5892",
+      "source_verified": true,
+      "abstract": "Measurement and declaration of basic output characteristics of ultrasonic surgical systems.",
+      "scope": "Ultrasonic surgical systems output"
     }
   ]
 }

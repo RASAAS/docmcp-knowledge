@@ -4,7 +4,7 @@
 
 | 标准号 | 标题 | 状态 | 适用GSPRs | 官方链接 |
 |--------|------|------|-----------|----------|
-| IEC 60601-2-18:2009+AMD1:2016 | 医用电气设备 - 第2-18部分：内窥镜设备的基本安全和基本性能专用要求 | active | 14, 14.1 | [官方链接](https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-18) |
+| IEC 60601-2-18:2009+AMD1:2016 | 医用电气设备 - 第2-18部分：内窥镜设备的基本安全和基本性能专用要求 | active | 14, 14.1 | [官方链接](https://webstore.iec.ch/en/publication/5108) |
 | ISO 8600-1:2025 | 内窥镜 - 医用内窥镜和内镜治疗器械 - 第1部分：通用要求 | active | 1, 3, 5 | [官方链接](https://www.iso.org/standard/84216.html) |
 | IEC 60601-2-2:2017+AMD1:2023 | 医用电气设备 - 第2-2部分：高频手术设备和高频手术附件的基本安全和基本性能的特殊要求 | active | 1, 3, 5, 9, 14 | [官方链接](https://webstore.iec.ch/en/publication/83195) |
 | ISO 16571:2024 | 医疗器械产生的烟雾排放系统 | active | 1, 3, 5, 9 | [官方链接](https://www.iso.org/standard/83065.html) |

@@ -8,7 +8,7 @@
         "zh": "医用电气设备 - 第2-26部分：脑电图设备的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-26",
+      "source_url": "https://webstore.iec.ch/en/publication/63531",
       "source_verified": "",
       "category": "neurology",
       "standard_type": "non_harmonised",
@@ -46,7 +46,7 @@
         "zh": "医用电气设备 - 第2-14部分：颅脑伽玛射束治疗设备的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-14",
+      "source_url": "https://webstore.iec.ch/en/publication/68455",
       "source_verified": "",
       "category": "neurology",
       "standard_type": "non_harmonised",
@@ -65,7 +65,7 @@
         "zh": "医用电气设备 - 第2-71部分：功能性神经刺激器(FNS)设备的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+80601-2-71",
+      "source_url": "https://webstore.iec.ch/en/publication/28589",
       "source_verified": "",
       "category": "neurology",
       "standard_type": "non_harmonised",
@@ -96,44 +96,6 @@
       "abstract": "Specifies requirements for sterile, single-use hydrocephalus shunts and components. Edition 4. EN ISO 7197:2024 harmonized under EU MDR (replacing EN ISO 7197:2009). Published via EU 2026/193.",
       "scope": "Hydrocephalus shunts and neurosurgical drainage systems.",
       "note": "Newly harmonized under EU MDR via Implementing Decision (EU) 2026/193."
-    },
-    {
-      "id": "iec-60601-2-26-2012",
-      "number": "IEC 60601-2-26:2012",
-      "title": {
-        "en": "Medical electrical equipment - Part 2-26: Particular requirements for the basic safety and essential performance of electroencephalographs",
-        "zh": "医用电气设备 - 第2-26部分：脑电图仪的基本安全和基本性能的特殊要求"
-      },
-      "status": "active",
-      "applicable_gsprs": [
-        "1",
-        "3",
-        "14"
-      ],
-      "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/publication/22420",
-      "source_verified": "2026-06-27",
-      "abstract": "Applies to basic safety and essential performance of electroencephalographs (EEG). Edition 3.",
-      "scope": "Electroencephalographic (EEG) monitoring and diagnostic equipment."
-    },
-    {
-      "id": "iec-60601-2-40-2016",
-      "number": "IEC 60601-2-40:2016",
-      "title": {
-        "en": "Medical electrical equipment - Part 2-40: Particular requirements for the basic safety and essential performance of electromyographs and evoked response equipment",
-        "zh": "医用电气设备 - 第2-40部分：肌电图仪和诱发反应设备的基本安全和基本性能的特殊要求"
-      },
-      "status": "active",
-      "applicable_gsprs": [
-        "1",
-        "3",
-        "14"
-      ],
-      "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/publication/25994",
-      "source_verified": "2026-06-27",
-      "abstract": "Applies to basic safety and essential performance of electromyography (EMG) and evoked response equipment. Edition 2.",
-      "scope": "Electromyograph (EMG) and evoked potential diagnostic equipment."
     }
   ]
 }

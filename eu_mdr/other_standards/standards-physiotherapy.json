@@ -1,6 +1,24 @@
 {
   "standards": [
     {
+      "id": "iec-60601-2-10-2012",
+      "number": "IEC 60601-2-10:2012+AMD1:2016",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-10: Particular requirements for the basic safety and essential performance of nerve and muscle stimulators",
+        "zh": "医用电气设备 - 第2-10部分：神经和肌肉刺激器的基本安全和基本性能专用要求"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "18"
+      ],
+      "standard_type": "international",
+      "source_url": "https://webstore.iec.ch/en/publication/5038",
+      "source_verified": true,
+      "abstract": "Requirements for nerve and muscle stimulators used in physiotherapy.",
+      "scope": "Nerve and muscle stimulators"
+    },
+    {
       "id": "eu_mdr-os-iec-60601-2-3-2012+amd1-2016",
       "number": "IEC 60601-2-3:2012+AMD1:2016",
       "title": {
@@ -8,7 +26,7 @@
         "zh": "医用电气设备 - 第2-3部分：短波治疗设备的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-3",
+      "source_url": "https://webstore.iec.ch/en/publication/6480",
       "source_verified": "",
       "category": "physiotherapy",
       "standard_type": "non_harmonised",
@@ -27,7 +45,7 @@
         "zh": "医用电气设备 - 第2-5部分：超声物理治疗设备的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-5",
+      "source_url": "https://webstore.iec.ch/en/publication/5000",
       "source_verified": "",
       "category": "physiotherapy",
       "standard_type": "non_harmonised",
@@ -37,6 +55,24 @@
         "18"
       ],
       "abstract": "Particular requirements for ultrasonic physiotherapy equipment."
+    },
+    {
+      "id": "iso-13091-1-2001",
+      "number": "ISO 13091-1:2001",
+      "title": {
+        "en": "Mechanical vibration - Vibrotactile perception thresholds for the assessment of nerve dysfunction - Part 1: Methods of measurement at the fingertips",
+        "zh": "机械振动 - 评估神经功能障碍的振动触觉感知阈值 - 第1部分：指尖测量方法"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "18"
+      ],
+      "standard_type": "international",
+      "source_url": "https://www.iso.org/standard/33413.html",
+      "source_verified": true,
+      "abstract": "Methods for measuring vibrotactile perception thresholds at fingertips.",
+      "scope": "Nerve dysfunction assessment"
     }
   ]
 }

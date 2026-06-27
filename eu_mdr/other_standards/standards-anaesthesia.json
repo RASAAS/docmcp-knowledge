@@ -8,7 +8,7 @@
         "zh": "医用电气设备 - 第2-13部分：麻醉工作站的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-13",
+      "source_url": "https://webstore.iec.ch/en/publication/66891",
       "source_verified": "",
       "category": "anaesthesia",
       "standard_type": "non_harmonised",
@@ -18,6 +18,79 @@
         "14.2"
       ],
       "abstract": "Particular requirements for anaesthetic workstations."
+    },
+    {
+      "id": "iso-11197-2019",
+      "number": "ISO 11197:2019",
+      "title": {
+        "en": "Medical supply units",
+        "zh": "医疗供应装置"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "21"
+      ],
+      "standard_type": "international",
+      "source_url": "https://www.iso.org/standard/68074.html",
+      "source_verified": true,
+      "abstract": "Requirements for medical supply units incorporating patient care services such as electric power and medical gases.",
+      "scope": "Medical supply units"
+    },
+    {
+      "id": "iso-5765-1-2024",
+      "number": "ISO 5765-1:2024",
+      "title": {
+        "en": "Anaesthetic and respiratory equipment - Endotracheal tubes and connectors - Part 1: Tubes",
+        "zh": "麻醉和呼吸设备 - 气管内导管和连接器 - 第1部分：导管"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "10",
+        "14"
+      ],
+      "standard_type": "international",
+      "source_url": "https://www.iso.org/standard/81694.html",
+      "source_verified": true,
+      "abstract": "Requirements for endotracheal tubes used in anaesthesia and respiratory care.",
+      "scope": "Endotracheal tubes"
+    },
+    {
+      "id": "iso-80601-2-13-2022",
+      "number": "ISO 80601-2-13:2022",
+      "title": {
+        "en": "Medical electrical equipment - Part 2-13: Particular requirements for basic safety and essential performance of an anaesthetic workstation",
+        "zh": "医用电气设备 - 第2-13部分：麻醉工作站的基本安全和基本性能专用要求"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "18",
+        "21"
+      ],
+      "standard_type": "international",
+      "source_url": "https://www.iso.org/standard/76679.html",
+      "source_verified": true,
+      "abstract": "Requirements for anaesthetic workstations including gas delivery, breathing systems, ventilators, and alarm systems.",
+      "scope": "Anaesthetic workstations"
+    },
+    {
+      "id": "iso-8835-2-2007",
+      "number": "ISO 8835-2:2007",
+      "title": {
+        "en": "Inhalational anaesthesia systems - Part 2: Anaesthetic breathing systems for adults",
+        "zh": "吸入麻醉系统 - 第2部分：成人麻醉呼吸系统"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "21"
+      ],
+      "standard_type": "international",
+      "source_url": "https://www.iso.org/standard/38843.html",
+      "source_verified": true,
+      "abstract": "Requirements for anaesthetic breathing systems for adults.",
+      "scope": "Anaesthetic breathing systems"
     }
   ]
 }

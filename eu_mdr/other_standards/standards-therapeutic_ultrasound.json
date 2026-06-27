@@ -8,7 +8,7 @@
         "zh": "医用电气设备 - 第2-62部分：高强度治疗性超声(HITU)设备的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-62",
+      "source_url": "https://webstore.iec.ch/en/publication/5290",
       "source_verified": "",
       "category": "therapeutic_ultrasound",
       "standard_type": "non_harmonised",
@@ -18,6 +18,42 @@
         "14.1"
       ],
       "abstract": "Particular requirements for HITU equipment."
+    },
+    {
+      "id": "iec-61161-2013",
+      "number": "IEC 61161:2013+AMD1:2019",
+      "title": {
+        "en": "Ultrasonics - Power measurement - Radiation force balances and performance requirements",
+        "zh": "超声学 - 功率测量 - 辐射力天平和性能要求"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "18"
+      ],
+      "standard_type": "international",
+      "source_url": "https://webstore.iec.ch/en/publication/4721",
+      "source_verified": true,
+      "abstract": "Requirements for radiation force balances used to measure ultrasonic power.",
+      "scope": "Ultrasonic power measurement"
+    },
+    {
+      "id": "iec-61689-2013",
+      "number": "IEC 61689:2013+AMD1:2024",
+      "title": {
+        "en": "Ultrasonics - Physiotherapy systems - Field specifications and methods of measurement in the frequency range 0,5 MHz to 5 MHz",
+        "zh": "超声学 - 理疗系统 - 0.5MHz至5MHz频率范围内的场规格和测量方法"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "18"
+      ],
+      "standard_type": "international",
+      "source_url": "https://webstore.iec.ch/en/publication/5726",
+      "source_verified": true,
+      "abstract": "Field specifications and measurement methods for physiotherapy ultrasound systems.",
+      "scope": "Physiotherapy ultrasound"
     }
   ]
 }

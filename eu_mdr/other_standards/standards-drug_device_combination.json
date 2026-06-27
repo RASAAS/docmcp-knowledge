@@ -38,6 +38,24 @@
         "14"
       ],
       "abstract": "Requirements and test methods for needles used in injection systems."
+    },
+    {
+      "id": "iso-20072-2019",
+      "number": "ISO 20072:2019",
+      "title": {
+        "en": "Aerosol drug delivery device design verification - Requirements and test methods",
+        "zh": "气雾药物递送设备设计验证 - 要求和试验方法"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "18"
+      ],
+      "standard_type": "international",
+      "source_url": "https://www.iso.org/standard/66961.html",
+      "source_verified": true,
+      "abstract": "Design verification requirements and test methods for aerosol drug delivery devices.",
+      "scope": "Aerosol drug delivery devices"
     }
   ]
 }

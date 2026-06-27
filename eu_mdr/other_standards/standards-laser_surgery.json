@@ -8,7 +8,7 @@
         "zh": "医用电气设备 - 第2-22部分：外科、治疗、诊断和美容激光设备的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-22",
+      "source_url": "https://webstore.iec.ch/en/publication/62485",
       "source_verified": "",
       "category": "laser_surgery",
       "standard_type": "non_harmonised",
@@ -18,6 +18,42 @@
         "16"
       ],
       "abstract": "Particular requirements for laser medical equipment."
+    },
+    {
+      "id": "iec-60825-1-2014",
+      "number": "IEC 60825-1:2014",
+      "title": {
+        "en": "Safety of laser products - Part 1: Equipment classification and requirements",
+        "zh": "激光产品安全 - 第1部分：设备分类和要求"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "18"
+      ],
+      "standard_type": "international",
+      "source_url": "https://webstore.iec.ch/en/publication/3587",
+      "source_verified": true,
+      "abstract": "Classification and requirements for safety of laser products.",
+      "scope": "Laser product safety classification"
+    },
+    {
+      "id": "iso-11810-2017",
+      "number": "ISO 11810:2017",
+      "title": {
+        "en": "Lasers and laser-related equipment - Test method and classification for the laser resistance of surgical drapes and/or patient protective covers - Primary ignition, penetration, flame spread and secondary ignition",
+        "zh": "激光及激光相关设备 - 手术帘和/或患者保护罩的激光抵抗力试验方法和分类"
+      },
+      "status": "active",
+      "applicable_gsprs": [
+        "14",
+        "18"
+      ],
+      "standard_type": "international",
+      "source_url": "https://www.iso.org/standard/70253.html",
+      "source_verified": true,
+      "abstract": "Test methods for laser resistance of surgical drapes and patient protective covers.",
+      "scope": "Laser-resistant surgical drapes"
     }
   ]
 }

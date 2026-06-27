@@ -8,7 +8,7 @@
         "zh": "医用电气设备 - 第1部分：基本安全和基本性能的通用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-1",
+      "source_url": "https://webstore.iec.ch/en/publication/2612",
       "scope": {
         "en": "Electrical safety requirements for medical electrical equipment",
         "zh": ""
@@ -36,7 +36,7 @@
         "20"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-2",
+      "source_url": "https://webstore.iec.ch/en/publication/59891",
       "abstract": "Specifies particular requirements for basic safety and essential performance of high frequency surgical equipment and accessories.",
       "scope": "Particular requirements for the basic safety and essential performance of high frequency surgical equipment and high frequency surgical accessories."
     },
@@ -54,7 +54,7 @@
         "19"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-4",
+      "source_url": "https://webstore.iec.ch/en/publication/4988",
       "abstract": "Specifies particular requirements for basic safety and essential performance of cardiac defibrillators.",
       "scope": "Particular requirements for the basic safety and essential performance of cardiac defibrillators."
     },
@@ -72,7 +72,7 @@
         "18"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-6",
+      "source_url": "https://webstore.iec.ch/en/publication/63525",
       "abstract": "Specifies particular requirements for basic safety and essential performance of microwave therapy equipment.",
       "scope": "Particular requirements for the basic safety and essential performance of microwave therapy equipment."
     },
@@ -90,7 +90,7 @@
         "19"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-10",
+      "source_url": "https://webstore.iec.ch/en/publication/5038",
       "abstract": "Specifies particular requirements for basic safety and essential performance of nerve and muscle stimulators.",
       "scope": "Particular requirements for the basic safety and essential performance of nerve and muscle stimulators."
     },
@@ -126,7 +126,7 @@
         "21"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-24",
+      "source_url": "https://webstore.iec.ch/en/publication/2634",
       "abstract": "Specifies particular requirements for basic safety and essential performance of infusion pumps and infusion controllers.",
       "scope": "Particular requirements for the basic safety and essential performance of infusion pumps and controllers."
     },
@@ -144,7 +144,7 @@
         "18"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-25",
+      "source_url": "https://webstore.iec.ch/en/publication/2636",
       "abstract": "Specifies particular requirements for basic safety and essential performance of electrocardiographic (ECG) equipment.",
       "scope": "Particular requirements for the basic safety and essential performance of electrocardiographs."
     },
@@ -162,7 +162,7 @@
         "18"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-27",
+      "source_url": "https://webstore.iec.ch/en/publication/2637",
       "abstract": "Specifies particular requirements for basic safety and essential performance of electrocardiographic monitoring equipment.",
       "scope": "Particular requirements for the basic safety and essential performance of electrocardiographic monitoring equipment."
     },
@@ -180,7 +180,7 @@
         "18"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-34",
+      "source_url": "https://webstore.iec.ch/en/publication/67617",
       "abstract": "Specifies particular requirements for basic safety and essential performance of invasive blood pressure monitoring equipment.",
       "scope": "Particular requirements for the basic safety and essential performance of invasive blood pressure monitoring equipment."
     },
@@ -198,7 +198,7 @@
         "18"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-37",
+      "source_url": "https://webstore.iec.ch/en/publication/5198",
       "abstract": "Specifies particular requirements for basic safety and essential performance of ultrasonic medical diagnostic and monitoring equipment.",
       "scope": "Particular requirements for the basic safety and essential performance of ultrasonic medical diagnostic and monitoring equipment."
     },
@@ -216,7 +216,7 @@
         "18"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-49",
+      "source_url": "https://webstore.iec.ch/en/publication/62455",
       "abstract": "Specifies particular requirements for basic safety and essential performance of multifunction patient monitoring equipment.",
       "scope": "Particular requirements for the basic safety and essential performance of multifunction patient monitoring equipment."
     },
@@ -234,7 +234,7 @@
         "20"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-52",
+      "source_url": "https://webstore.iec.ch/en/publication/5252",
       "abstract": "Specifies particular requirements for basic safety and essential performance of medical beds.",
       "scope": "Particular requirements for the basic safety and essential performance of medical beds."
     },
@@ -250,7 +250,7 @@
         "18"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-1-8",
+      "source_url": "https://webstore.iec.ch/en/publication/4892",
       "abstract": "Specifies general requirements for alarm systems in medical electrical equipment and medical electrical systems.",
       "scope": "General requirements for basic safety and essential performance -- Collateral standard: General requirements, tests and guidance for alarm systems in medical electrical equipment and medical electrical systems."
     },
@@ -262,7 +262,7 @@
         "zh": "医用电气设备 - 定期检测和修理后检测"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+62353",
+      "source_url": "https://webstore.iec.ch/en/publication/5394",
       "source_verified": "",
       "category": "electrical_safety",
       "standard_type": "non_harmonised",

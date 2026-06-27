@@ -13,7 +13,7 @@
         "18"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-1",
+      "source_url": "https://webstore.iec.ch/en/publication/63518",
       "abstract": "Specifies particular requirements for basic safety and essential performance of electron accelerators used for radiotherapy.",
       "scope": "Medical electrical equipment -- Particular requirements for the basic safety and essential performance of electron accelerators in the range 1 MeV to 50 MeV."
     },
@@ -29,7 +29,7 @@
         "16"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-1-3",
+      "source_url": "https://webstore.iec.ch/en/publication/3738",
       "abstract": "Specifies general requirements for radiation protection of diagnostic X-ray equipment.",
       "scope": "General requirements for basic safety and essential performance -- Collateral standard: Radiation protection in diagnostic X-ray equipment."
     },
@@ -41,7 +41,7 @@
         "zh": "医用电气设备 - 第2-8部分：X射线治疗设备的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-8",
+      "source_url": "https://webstore.iec.ch/en/publication/5026",
       "source_verified": "",
       "category": "radiation_protection",
       "standard_type": "non_harmonised",
@@ -60,7 +60,7 @@
         "zh": "医用电气设备 - 第2-11部分：伽马射束治疗设备的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-11",
+      "source_url": "https://webstore.iec.ch/en/publication/5054",
       "source_verified": "",
       "category": "radiation_protection",
       "standard_type": "non_harmonised",
@@ -79,7 +79,7 @@
         "zh": "医用电气设备 - 第2-17部分：后装式近距离治疗设备的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-17",
+      "source_url": "https://webstore.iec.ch/en/publication/5102",
       "source_verified": "",
       "category": "radiation_protection",
       "standard_type": "non_harmonised",
@@ -98,7 +98,7 @@
         "zh": "医用电气设备 - 第2-29部分：放射治疗模拟机的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-29",
+      "source_url": "https://webstore.iec.ch/en/publication/5170",
       "source_verified": "",
       "category": "radiation_protection",
       "standard_type": "non_harmonised",
@@ -117,7 +117,7 @@
         "zh": "医用电气设备 - 第2-64部分：轻粒子束治疗设备的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-64",
+      "source_url": "https://webstore.iec.ch/en/publication/5296",
       "source_verified": "",
       "category": "radiation_protection",
       "standard_type": "non_harmonised",
@@ -136,7 +136,7 @@
         "zh": "医用电气设备 - 第2-68部分：X射线立体定向放射外科设备的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-68",
+      "source_url": "https://webstore.iec.ch/en/publication/5310",
       "source_verified": "",
       "category": "radiation_protection",
       "standard_type": "non_harmonised",
@@ -155,7 +155,7 @@
         "zh": "医用电气设备 - 第2-9部分：接触式放射治疗设备的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/catalogsearch/result/?q=IEC+60601-2-9",
+      "source_url": "https://webstore.iec.ch/en/publication/63526",
       "source_verified": "",
       "category": "radiation_protection",
       "standard_type": "non_harmonised",
