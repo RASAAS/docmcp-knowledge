@@ -8,8 +8,8 @@
         "zh": "笔式注射器系统 - 第1部分：笔式注射器 - 要求和试验方法"
       },
       "status": "active",
-      "source_url": "https://www.iso.org/standard/77557.html",
-      "source_verified": "2026-06-24",
+      "source_url": "https://www.iso.org/standard/70733.html",
+      "source_verified": "2026-06-27",
       "category": "drug_device_combination",
       "standard_type": "non_harmonised",
       "scope": "Needle-based injection systems.",
@@ -28,8 +28,8 @@
         "zh": "笔式注射器系统 - 第2部分：针头 - 要求和试验方法"
       },
       "status": "active",
-      "source_url": "https://www.iso.org/standard/79118.html",
-      "source_verified": "",
+      "source_url": "https://www.iso.org/standard/70734.html",
+      "source_verified": "2026-06-27",
       "category": "drug_device_combination",
       "standard_type": "non_harmonised",
       "scope": "Needles for injection systems.",
@@ -40,8 +40,8 @@
       "abstract": "Requirements and test methods for needles used in injection systems."
     },
     {
-      "id": "iso-20072-2019",
-      "number": "ISO 20072:2019",
+      "id": "iso-20072-2009",
+      "number": "ISO 20072:2009",
       "title": {
         "en": "Aerosol drug delivery device design verification - Requirements and test methods",
         "zh": "气雾药物递送设备设计验证 - 要求和试验方法"
@@ -52,10 +52,11 @@
         "18"
       ],
       "standard_type": "international",
-      "source_url": "https://www.iso.org/standard/66961.html",
-      "source_verified": true,
+      "source_url": "https://www.iso.org/standard/41989.html",
+      "source_verified": "2026-06-27",
       "abstract": "Design verification requirements and test methods for aerosol drug delivery devices.",
-      "scope": "Aerosol drug delivery devices"
+      "scope": "Aerosol drug delivery devices",
+      "note": "Edition 1, published 2009-07. Last confirmed 2025-06-10. No newer edition exists."
     }
   ]
 }

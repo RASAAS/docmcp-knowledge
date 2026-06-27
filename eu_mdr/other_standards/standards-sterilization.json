@@ -91,22 +91,23 @@
       "abstract": "Defines vocabulary and terms used in sterilization and related procedures for healthcare products."
     },
     {
-      "id": "iso-11137-1-2006-amd2-2019",
-      "number": "ISO 11137-1:2006+AMD2:2019",
+      "id": "eu_mdr-os-iso-11137-1-2025",
+      "number": "ISO 11137-1:2025",
       "title": {
-        "en": "Sterilization of health care products - Radiation - Part 1: Requirements for development, validation and routine control of a sterilization process for medical devices",
+        "en": "Sterilization of health care products - Radiation - Part 1: Requirements for the development, validation and routine control of a sterilization process for medical devices",
         "zh": "保健品灭菌 - 辐射 - 第1部分：灭菌过程的开发、确认和常规控制要求"
       },
       "status": "active",
-      "source_url": "https://www.iso.org/standard/33952.html",
-      "source_verified": "2026-06-24",
+      "source_url": "https://www.iso.org/standard/81721.html",
+      "source_verified": "2026-06-27",
       "scope": "Radiation sterilization process requirements.",
       "standard_type": "non_harmonised",
       "applicable_gsprs": [
         "11",
         "11.1"
       ],
-      "abstract": "Requirements for radiation sterilization process development, validation and routine control."
+      "abstract": "Requirements for radiation sterilization process development, validation and routine control.",
+      "note": "Second edition published 2025-04-02. Replaces ISO 11137-1:2006 and its amendments."
     },
     {
       "id": "iso-11137-2-2013-amd1-2022",

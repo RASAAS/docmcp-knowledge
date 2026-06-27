@@ -38,8 +38,8 @@
       "scope": "Laser product safety classification"
     },
     {
-      "id": "iso-11810-2017",
-      "number": "ISO 11810:2017",
+      "id": "iso-11810-2015",
+      "number": "ISO 11810:2015",
       "title": {
         "en": "Lasers and laser-related equipment - Test method and classification for the laser resistance of surgical drapes and/or patient protective covers - Primary ignition, penetration, flame spread and secondary ignition",
         "zh": "激光及激光相关设备 - 手术帘和/或患者保护罩的激光抵抗力试验方法和分类"
@@ -50,10 +50,11 @@
         "18"
       ],
       "standard_type": "international",
-      "source_url": "https://www.iso.org/standard/70253.html",
-      "source_verified": true,
+      "source_url": "https://www.iso.org/standard/65248.html",
+      "source_verified": "2026-06-27",
       "abstract": "Test methods for laser resistance of surgical drapes and patient protective covers.",
-      "scope": "Laser-resistant surgical drapes"
+      "scope": "Laser-resistant surgical drapes",
+      "note": "Edition 1, published 2015. Supersedes ISO 11810-1 and ISO 11810-2. No 2017 edition exists."
     }
   ]
 }

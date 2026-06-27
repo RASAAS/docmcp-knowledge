@@ -18,42 +18,6 @@
         "14.6"
       ],
       "abstract": "Particular requirements for medical heating devices."
-    },
-    {
-      "id": "iso-80601-2-35-2020",
-      "number": "ISO 80601-2-35:2023",
-      "title": {
-        "en": "Medical electrical equipment - Part 2-35: Particular requirements for basic safety and essential performance of heating devices for medical use using blankets, pads and mattresses",
-        "zh": "医用电气设备 - 第2-35部分：使用毯、垫和床垫的医用加温设备的基本安全和基本性能专用要求"
-      },
-      "status": "active",
-      "applicable_gsprs": [
-        "14",
-        "18"
-      ],
-      "standard_type": "international",
-      "source_url": "https://www.iso.org/standard/80601-2-35",
-      "source_verified": true,
-      "abstract": "Requirements for heating devices using blankets, pads, and mattresses for medical use.",
-      "scope": "Medical heating blankets and pads"
-    },
-    {
-      "id": "iso-80601-2-76-2024",
-      "number": "ISO 80601-2-76:2024",
-      "title": {
-        "en": "Medical electrical equipment - Part 2-76: Particular requirements for basic safety and essential performance of blood/solution warming equipment",
-        "zh": "医用电气设备 - 第2-76部分：血液/溶液加温设备的基本安全和基本性能专用要求"
-      },
-      "status": "active",
-      "applicable_gsprs": [
-        "14",
-        "18"
-      ],
-      "standard_type": "international",
-      "source_url": "https://www.iso.org/standard/80601-2-76",
-      "source_verified": true,
-      "abstract": "Requirements for blood and solution warming equipment.",
-      "scope": "Blood/solution warming"
     }
   ]
 }

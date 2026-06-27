@@ -38,7 +38,8 @@
       "source_url": "https://www.iso.org/standard/71061.html",
       "source_verified": "2026-06-27",
       "abstract": "Provides requirements for quality and competence in point-of-care testing. Applies to POCT performed in hospitals, clinics, and physician offices. Edition 2.",
-      "scope": "Quality and competence requirements for point-of-care testing environments."
+      "scope": "Quality and competence requirements for point-of-care testing environments.",
+      "note": "WITHDRAWN 2022-12-06. Replaced by ISO 15189:2022 Annex A (POCT requirements integrated). Retained for historical reference."
     },
     {
       "id": "iso-18113-1-2022",

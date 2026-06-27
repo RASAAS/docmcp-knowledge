@@ -125,45 +125,6 @@
       "title_zh": "医用电气设备 - 第2-59部分：人体发热温度筛查用筛查热像仪基本安全和基本性能的特殊要求"
     },
     {
-      "id": "eu_mdr-os-iso-80601-2-56-2017+amd1-2023",
-      "number": "ISO 80601-2-56:2017",
-      "title": {
-        "en": "Medical electrical equipment - Part 2-56: Particular requirements for the basic safety and essential performance of clinical thermometers for body temperature measurement",
-        "zh": "医用电气设备 - 第2-56部分：临床体温计的基本安全和基本性能专用要求"
-      },
-      "status": "active",
-      "source_url": "https://www.iso.org/standard/67240.html",
-      "source_verified": "2026-06-24",
-      "category": "patient_monitoring",
-      "standard_type": "non_harmonised",
-      "scope": "Clinical thermometers for body temperature.",
-      "applicable_gsprs": [
-        "14",
-        "18"
-      ],
-      "abstract": "Requirements for clinical thermometers.",
-      "note": "Current (2017) with Amd1:2018. Under revision (ISO/DIS 80601-2-56)."
-    },
-    {
-      "id": "eu_mdr-os-iso-80601-2-61-2017+amd1-2023",
-      "number": "ISO 80601-2-61:2017+AMD1:2023",
-      "title": {
-        "en": "Medical electrical equipment - Part 2-61: Particular requirements for the basic safety and essential performance of pulse oximeter equipment",
-        "zh": "医用电气设备 - 第2-61部分：脉搏血氧仪设备的基本安全和基本性能专用要求"
-      },
-      "status": "active",
-      "source_url": "https://www.iso.org/standard/67242.html",
-      "source_verified": "",
-      "category": "patient_monitoring",
-      "standard_type": "non_harmonised",
-      "scope": "Pulse oximeters safety and performance.",
-      "applicable_gsprs": [
-        "14",
-        "18"
-      ],
-      "abstract": "Requirements for pulse oximeter equipment."
-    },
-    {
       "id": "eu_mdr-os-iec-60601-1-10-2007+amd1-2013+amd2-2020",
       "number": "IEC 60601-1-10:2007+AMD1:2013+AMD2:2020",
       "title": {
