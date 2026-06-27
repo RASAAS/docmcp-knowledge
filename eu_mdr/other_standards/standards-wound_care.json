@@ -13,10 +13,10 @@
         "14"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://standards.iteh.ai/catalog/standards/cen/2b1bed76-5f10-4f35-858e-a07f8af30a9f/en-13795-1-2025",
+      "source_url": "https://standards.iteh.ai/catalog/standards/cen/488f3348-3c28-424b-aa83-9c46a49fd28f/en-13795-1-2025",
       "abstract": "Specifies requirements and test methods for surgical drapes, gowns, and clean air suits used in healthcare facilities.",
       "scope": "Surgical clothing and drapes -- Requirements and test methods -- Surgical drapes and gowns.",
-      "source_verified": "2026-06-24"
+      "source_verified": "2026-06-27"
     },
     {
       "id": "en-13726-2023",
@@ -105,11 +105,11 @@
       "title_zh": "外科植入物 - 用于缝合和其他外科应用的可延展金属丝"
     },
     {
-      "id": "en-13795-2-2019",
-      "number": "EN 13795-2:2019",
+      "id": "en-13795-2-2025",
+      "number": "EN 13795-2:2025",
       "title": {
         "en": "Surgical clothing and drapes - Requirements and test methods - Part 2: Clean air suits",
-        "zh": "手术服和手术单 - 要求和试验方法 - 第2部分：洁净空气服"
+        "zh": "手术衣物和铺巾 - 要求和试验方法 - 第2部分：洁净空气服"
       },
       "status": "active",
       "applicable_gsprs": [
@@ -119,7 +119,7 @@
         "11"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://standards.iteh.ai/catalog/standards/cen/7dbeb2f3-ccf1-4e09-9d6e-cf30d88a9783/en-13795-2-2019",
+      "source_url": "https://standards.iteh.ai/catalog/standards/cen/ce1617f8-f95d-425c-9512-6aa6393dbcaf/en-13795-2-2025",
       "source_verified": "2026-06-27",
       "abstract": "Specifies requirements and test methods for clean air suits used in operating theatres and other clean areas to reduce body dispersal of viable particles.",
       "scope": "Clean air surgical suits for operating theatre environments."
