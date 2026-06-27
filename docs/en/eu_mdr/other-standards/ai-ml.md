@@ -11,6 +11,6 @@ The following non-harmonised international standards are related to **Ai Ml** fo
 | ISO/IEC 5259-4:2024 | Artificial intelligence - Data quality for analytics and machine learning (ML) - Part 4: Data quality process framework | active | 14, 17.1 | [Link](https://www.iso.org/standard/81093.html) |
 | ISO/IEC TS 4213:2022 | Information technology - Artificial intelligence - Assessment of machine learning classification performance | active | 14, 14.2 | [Link](https://www.iso.org/standard/79799.html) |
 | ISO/IEC 23053:2022 | Framework for Artificial Intelligence (AI) Systems Using Machine Learning (ML) | active | 14, 17.1 | [Link](https://www.iso.org/standard/74438.html) |
-| ISO/IEC TR 24028:2020 | Information technology - Artificial intelligence - Overview of trustworthiness in artificial intelligence | active | 14, 17 | [Link](https://webstore.iec.ch/en/publication/65308) |
-| ISO/IEC 23894:2023 | Information technology - Artificial intelligence - Guidance on risk management | active | 14, 14.2, 17 | [Link](https://webstore.iec.ch/en/publication/68155) |
+| ISO/IEC TR 24028:2020 | Information technology - Artificial intelligence - Overview of trustworthiness in artificial intelligence | active | 14, 17 | [Link](https://webstore.iec.ch/en/publication/67138) |
+| ISO/IEC 23894:2023 | Information technology - Artificial intelligence - Guidance on risk management | active | 14, 14.2, 17 | [Link](https://webstore.iec.ch/en/publication/82914) |
 | ISO/IEC 25024:2015 | Systems and software engineering - Systems and software Quality Requirements and Evaluation (SQuaRE) - Measurement of data quality | active | 14, 17.1 | [Link](https://www.iso.org/standard/35749.html) |
