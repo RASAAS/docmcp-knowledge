@@ -211,8 +211,8 @@
       "title_zh": "医用电气设备 - 第2-37部分：超声诊断和监护设备基本安全和基本性能的特殊要求"
     },
     {
-      "id": "iec-60601-2-49-2018",
-      "number": "IEC 80601-2-49:2018",
+      "id": "iec-80601-2-49-2018-amd1-2024",
+      "number": "IEC 80601-2-49:2018+AMD1:2024",
       "title": {
         "en": "Medical electrical equipment - Part 2-49: Particular requirements for the basic safety and essential performance of multifunction patient monitoring equipment",
         "zh": "医用电气设备 - 第2-49部分：多功能患者监护设备的基本安全和基本性能专用要求"
@@ -224,11 +224,12 @@
         "18"
       ],
       "standard_type": "non_harmonised",
-      "source_url": "https://webstore.iec.ch/en/publication/30552",
+      "source_url": "https://webstore.iec.ch/en/publication/100456",
       "abstract": "Specifies particular requirements for basic safety and essential performance of multifunction patient monitoring equipment.",
       "scope": "Particular requirements for the basic safety and essential performance of multifunction patient monitoring equipment.",
       "title_en": "Medical electrical equipment - Part 2-49: Particular requirements for the basic safety and essential performance of multifunction patient monitors",
-      "title_zh": "医用电气设备 - 第2-49部分：多功能患者监护设备基本安全和基本性能的特殊要求"
+      "title_zh": "医用电气设备 - 第2-49部分：多功能患者监护设备基本安全和基本性能的特殊要求",
+      "source_verified": "2026-06-27"
     },
     {
       "id": "iec-60601-2-52-2009-amd1-2015",
