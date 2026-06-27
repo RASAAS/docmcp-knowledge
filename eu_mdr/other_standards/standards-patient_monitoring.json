@@ -63,13 +63,13 @@
     },
     {
       "id": "eu_mdr-os-iec-80601-2-61-2017+amd1-2023",
-      "number": "IEC 80601-2-61:2017+AMD1:2023",
+      "number": "ISO 80601-2-61:2026",
       "title": {
         "en": "Medical electrical equipment - Part 2-61: Particular requirements for the basic safety and essential performance of pulse oximeter equipment",
         "zh": "医用电气设备 - 第2-61部分：脉搏血氧仪设备的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/31014",
+      "source_url": "https://webstore.iec.ch/en/publication/74527",
       "source_verified": "",
       "category": "patient_monitoring",
       "standard_type": "non_harmonised",
@@ -78,17 +78,19 @@
         "14",
         "14.1"
       ],
-      "abstract": "Particular requirements for pulse oximeter equipment."
+      "abstract": "Particular requirements for pulse oximeter equipment.",
+      "title_en": "Medical electrical equipment - Part 2-61: Particular requirements for basic safety and essential performance of pulse oximeter equipment",
+      "title_zh": "医用电气设备 - 第2-61部分：脉搏血氧仪设备基本安全和基本性能的特殊要求"
     },
     {
       "id": "eu_mdr-os-iec-80601-2-56-2017+amd1-2023",
-      "number": "IEC 80601-2-56:2017+AMD1:2023",
+      "number": "ISO 80601-2-56:2017+AMD1:2018",
       "title": {
         "en": "Medical electrical equipment - Part 2-56: Particular requirements for the basic safety and essential performance of clinical thermometers for body temperature measurement",
         "zh": "医用电气设备 - 第2-56部分：临床体温计的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/31016",
+      "source_url": "https://webstore.iec.ch/en/publication/61342",
       "source_verified": "",
       "category": "patient_monitoring",
       "standard_type": "non_harmonised",
@@ -97,17 +99,19 @@
         "14",
         "14.1"
       ],
-      "abstract": "Particular requirements for clinical thermometers."
+      "abstract": "Particular requirements for clinical thermometers.",
+      "title_en": "Medical electrical equipment - Part 2-56: Particular requirements for basic safety and essential performance of clinical thermometers for body temperature measurement",
+      "title_zh": "医用电气设备 - 第2-56部分：体温测量临床温度计基本安全和基本性能的特殊要求"
     },
     {
       "id": "eu_mdr-os-iec-80601-2-59-2017+amd1-2023",
-      "number": "IEC 80601-2-59:2017+AMD1:2023",
+      "number": "ISO 80601-2-59:2017+AMD1:2018",
       "title": {
         "en": "Medical electrical equipment - Part 2-59: Particular requirements for the basic safety and essential performance of screening thermographs for human febrile temperature screening",
         "zh": "医用电气设备 - 第2-59部分：通气障碍筛查热像仪设备的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/31015",
+      "source_url": "https://webstore.iec.ch/en/publication/61341",
       "source_verified": "",
       "category": "patient_monitoring",
       "standard_type": "non_harmonised",
@@ -116,7 +120,9 @@
         "14",
         "14.1"
       ],
-      "abstract": "Particular requirements for screening thermographs."
+      "abstract": "Particular requirements for screening thermographs.",
+      "title_en": "Medical electrical equipment - Part 2-59: Particular requirements for basic safety and essential performance of screening thermographs for human febrile temperature screening",
+      "title_zh": "医用电气设备 - 第2-59部分：人体发热温度筛查用筛查热像仪基本安全和基本性能的特殊要求"
     },
     {
       "id": "eu_mdr-os-iso-80601-2-56-2017+amd1-2023",
