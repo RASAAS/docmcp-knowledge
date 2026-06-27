@@ -23,13 +23,13 @@
     },
     {
       "id": "eu_mdr-os-iec-60601-2-75-2017",
-      "number": "IEC 60601-2-75:2017",
+      "number": "IEC 60601-2-75:2017+AMD1:2023",
       "title": {
         "en": "Medical electrical equipment - Part 2-75: Particular requirements for the basic safety and essential performance of photodynamic therapy and photodynamic diagnosis equipment",
         "zh": "医用电气设备 - 第2-75部分：动态灭菌光源设备的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/33376",
+      "source_url": "https://webstore.iec.ch/en/publication/82294",
       "source_verified": "",
       "category": "phototherapy",
       "standard_type": "non_harmonised",

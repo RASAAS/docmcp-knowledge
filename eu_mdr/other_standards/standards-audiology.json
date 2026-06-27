@@ -39,7 +39,7 @@
     },
     {
       "id": "iec-60645-3-2020",
-      "number": "IEC 60645-3:2020",
+      "number": "IEC 60645-7:2025",
       "title": {
         "en": "Electroacoustics - Audiometric equipment - Part 3: Test signals of short duration",
         "zh": "电声学 - 听力计设备 - 第3部分：短时测试信号"
@@ -50,14 +50,16 @@
         "18"
       ],
       "standard_type": "international",
-      "source_url": "https://webstore.iec.ch/en/publication/62973",
+      "source_url": "https://webstore.iec.ch/en/publication/109324",
       "source_verified": true,
       "abstract": "Requirements for test signals of short duration used in audiometric equipment.",
-      "scope": "Audiometric test signals"
+      "scope": "Audiometric test signals",
+      "title_en": "Electroacoustics - Audiometric equipment - Part 7: Instruments for the measurement of auditory evoked potentials",
+      "title_zh": "电声学 - 听力计设备 - 第7部分：听觉诱发电位测量仪器"
     },
     {
       "id": "iec-60645-5-2004",
-      "number": "IEC 60645-5:2004+AMD1:2015",
+      "number": "IEC 60645-5:2004",
       "title": {
         "en": "Electroacoustics - Audiometric equipment - Part 5: Instruments for the measurement of aural acoustic impedance/admittance",
         "zh": "电声学 - 听力计设备 - 第5部分：耳声阻抗/导纳测量仪器"
@@ -68,10 +70,12 @@
         "18"
       ],
       "standard_type": "international",
-      "source_url": "https://webstore.iec.ch/en/publication/22830",
+      "source_url": "https://webstore.iec.ch/en/publication/2772",
       "source_verified": true,
       "abstract": "Requirements for instruments measuring aural acoustic impedance and admittance.",
-      "scope": "Aural impedance measurement"
+      "scope": "Aural impedance measurement",
+      "title_en": "Electroacoustics - Audiometric equipment - Part 5: Instruments for the measurement of aural acoustic impedance/admittance",
+      "title_zh": "电声学 - 听力计设备 - 第5部分：耳声阻抗/导纳测量仪器"
     }
   ]
 }

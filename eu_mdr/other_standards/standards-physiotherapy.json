@@ -20,13 +20,13 @@
     },
     {
       "id": "eu_mdr-os-iec-60601-2-3-2012+amd1-2016",
-      "number": "IEC 60601-2-3:2012+AMD1:2016",
+      "number": "IEC 60601-2-3:2012+AMD1:2016+AMD2:2022",
       "title": {
         "en": "Medical electrical equipment - Part 2-3: Particular requirements for the basic safety and essential performance of short-wave therapy equipment",
         "zh": "医用电气设备 - 第2-3部分：短波治疗设备的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/24182",
+      "source_url": "https://webstore.iec.ch/en/publication/78833",
       "source_verified": "",
       "category": "physiotherapy",
       "standard_type": "non_harmonised",
@@ -39,13 +39,13 @@
     },
     {
       "id": "eu_mdr-os-iec-60601-2-5-2009+amd1-2015",
-      "number": "IEC 60601-2-5:2009+AMD1:2015",
+      "number": "IEC 60601-2-5:2009",
       "title": {
         "en": "Medical electrical equipment - Part 2-5: Particular requirements for the basic safety and essential performance of ultrasonic physiotherapy equipment",
         "zh": "医用电气设备 - 第2-5部分：超声物理治疗设备的基本安全和基本性能专用要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/2644",
+      "source_url": "https://webstore.iec.ch/en/publication/2668",
       "source_verified": "",
       "category": "physiotherapy",
       "standard_type": "non_harmonised",

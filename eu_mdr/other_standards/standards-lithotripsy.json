@@ -2,13 +2,13 @@
   "standards": [
     {
       "id": "eu_mdr-os-iec-60601-2-36-2023",
-      "number": "IEC 60601-2-36:2023",
+      "number": "IEC 60601-2-36:2014",
       "title": {
         "en": "Medical electrical equipment - Part 2-36: Particular requirements for the basic safety and essential performance of equipment for extracorporeally induced lithotripsy",
-        "zh": "医用电气设备 - 第2-36部分：体外引发的碎石设备的基本安全和基本性能专用要求"
+        "zh": "医用电气设备 - 第2-36部分：体外引发碎石设备基本安全和基本性能的特殊要求"
       },
       "status": "active",
-      "source_url": "https://webstore.iec.ch/en/publication/68384",
+      "source_url": "https://webstore.iec.ch/en/publication/2651",
       "source_verified": "",
       "category": "lithotripsy",
       "standard_type": "non_harmonised",
