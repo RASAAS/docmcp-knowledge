@@ -6,18 +6,6 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
-### 欧盟更新MDCG 2020-6遗留器械充分临床证据指南
-
-**2026-06-30** | EU MDR/IVDR | 新指南发布 | !! MEDIUM
-
-欧盟委员会发布了更新版MDCG 2020-6指南，涉及MDR下遗留器械的充分临床证据。该更新即日起生效，主要影响将遗留CE标志产品过渡到新法规的医疗器械制造商。注册法规专业人员应审查修订后的指南，特别是关于与MEDDEV 2.7/1 rev.4关系的澄清，以确保其临床评价报告（CER）符合最新监管期望。
-
-**标签**: `eu_mdr`, `mdcg`, `clinical_evaluation`, `legacy_devices`
-
-[查看来源 (European Commission)](https://health.ec.europa.eu/document/download/a6d29444-b5d5-4afb-8024-10be85256aa7_en?filename=md_mdcg_2020_6_guidance_sufficient_clinical_evidence_en.pdf)
-
----
-
 ### 欧盟委员会发布关于MDR下“成熟技术”医疗器械的授权法案
 
 **2026-06-30** | EU MDR/IVDR | 法规更新 | !!! HIGH

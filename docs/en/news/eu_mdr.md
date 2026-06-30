@@ -6,18 +6,6 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
-### Updated MDCG 2020-6 Guidance on Sufficient Clinical Evidence for Legacy Devices
-
-**2026-06-30** | EU MDR/IVDR | New Guidance | !! MEDIUM
-
-The European Commission has published an updated version of MDCG 2020-6 regarding sufficient clinical evidence for legacy devices under the MDR. Effective immediately, this update affects medical device manufacturers transitioning legacy CE-marked products to the new regulation. Regulatory affairs professionals should review the revised guidance to ensure their clinical evaluation reports (CERs) align with the clarified expectations, particularly concerning the relationship with MEDDEV 2.7/1 rev.4.
-
-**Tags**: `eu_mdr`, `mdcg`, `clinical_evaluation`, `legacy_devices`
-
-[View Source (European Commission)](https://health.ec.europa.eu/document/download/a6d29444-b5d5-4afb-8024-10be85256aa7_en?filename=md_mdcg_2020_6_guidance_sufficient_clinical_evidence_en.pdf)
-
----
-
 ### EC Publishes Delegated Acts on Well-Established Technologies Under EU MDR
 
 **2026-06-30** | EU MDR/IVDR | Regulation Update | !!! HIGH
