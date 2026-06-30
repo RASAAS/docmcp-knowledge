@@ -7,6 +7,8 @@ on:
       - 'scripts/**'
       - '*.md'
       - 'docs/**'
+      - '.update_state.json'
+      - '.github/**'
   workflow_dispatch:
 
 jobs:
@@ -90,7 +92,7 @@ jobs:
           username: ${{ secrets.CN_BACKEND_USER }}
           key: ${{ secrets.CN_BACKEND_SSH_KEY }}
           port: 22
-          source: "eu_mdr/,fda/,nmpa/,imdrf/,shared/"
+          source: "eu_mdr/,fda/,nmpa/,imdrf/,shared/,regulatory_news/"
           target: "/opt/docmcp-knowledge"
           overwrite: true
           rm: false

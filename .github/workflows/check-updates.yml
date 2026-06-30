@@ -47,7 +47,7 @@ jobs:
           sudo apt-get install -y -qq libreoffice-writer-nogui
 
       - name: Install Python dependencies
-        run: pip install requests pyyaml python-docx
+        run: pip install requests pyyaml python-docx beautifulsoup4
 
       - name: Configure git
         run: |
@@ -109,6 +109,54 @@ jobs:
           git add scripts/.update_state.json scripts/version_registry.json || true
           git diff --staged --quiet || git commit -m "chore: update regulatory check state [skip ci]"
           git push || true
+        continue-on-error: true
+
+      - name: Generate regulatory news from report
+        id: news
+        if: steps.check.outcome == 'success'
+        run: |
+          if [ ! -f /tmp/update_report.json ]; then
+            echo "news_added=0" >> $GITHUB_OUTPUT
+            exit 0
+          fi
+          # Extract JSON portion (fetch_updates.py prints info lines before JSON)
+          python3 -c "
+          import json, sys
+          with open('/tmp/update_report.json') as f:
+              content = f.read()
+          idx = content.index('{')
+          report = json.loads(content[idx:])
+          if report.get('updates_found', 0) == 0:
+              sys.exit(0)
+          with open('/tmp/update_report_clean.json', 'w') as f:
+              json.dump(report, f, ensure_ascii=False)
+          "
+          if [ ! -f /tmp/update_report_clean.json ]; then
+            echo "news_added=0" >> $GITHUB_OUTPUT
+            exit 0
+          fi
+          # Run report_to_news.py with LLM summaries
+          python scripts/report_to_news.py \
+            --report /tmp/update_report_clean.json \
+            --use-llm 2>&1 | tee /tmp/news_generation.log
+          # Count new items added
+          ADDED=$(grep -c "^  + Added:" /tmp/news_generation.log || echo "0")
+          echo "news_added=$ADDED" >> $GITHUB_OUTPUT
+          echo "News items added: $ADDED"
+        env:
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          LLM_BASE_URL: ${{ secrets.LLM_BASE_URL }}
+          LLM_MODEL: ${{ vars.LLM_MODEL || 'deepseek-v4-pro' }}
+        continue-on-error: true
+
+      - name: Commit and push regulatory news
+        if: steps.news.outputs.news_added != '0' && steps.news.outputs.news_added != ''
+        run: |
+          git add regulatory_news/ || true
+          git diff --staged --quiet || {
+            git commit -m "chore: add regulatory news from automated detection"
+            git push
+          }
         continue-on-error: true
 
       - name: Read report
