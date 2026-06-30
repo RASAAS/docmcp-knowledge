@@ -1,7 +1,59 @@
 {
   "framework": "eu_mdr",
-  "last_updated": "2026-06-30T11:00:00Z",
+  "last_updated": "2026-06-30T14:06:08Z",
   "items": [
+    {
+      "id": "eu_mdr_20260630_updated_mdcg_2020_6_guidance_on_sufficient_clinical_evidence",
+      "framework": "eu_mdr",
+      "category": "guidance_new",
+      "title": {
+        "en": "Updated MDCG 2020-6 Guidance on Sufficient Clinical Evidence for Legacy Devices",
+        "zh": "欧盟更新MDCG 2020-6遗留器械充分临床证据指南"
+      },
+      "summary": {
+        "en": "The European Commission has published an updated version of MDCG 2020-6 regarding sufficient clinical evidence for legacy devices under the MDR. Effective immediately, this update affects medical device manufacturers transitioning legacy CE-marked products to the new regulation. Regulatory affairs professionals should review the revised guidance to ensure their clinical evaluation reports (CERs) align with the clarified expectations, particularly concerning the relationship with MEDDEV 2.7/1 rev.4.",
+        "zh": "欧盟委员会发布了更新版MDCG 2020-6指南，涉及MDR下遗留器械的充分临床证据。该更新即日起生效，主要影响将遗留CE标志产品过渡到新法规的医疗器械制造商。注册法规专业人员应审查修订后的指南，特别是关于与MEDDEV 2.7/1 rev.4关系的澄清，以确保其临床评价报告（CER）符合最新监管期望。"
+      },
+      "source_url": "https://health.ec.europa.eu/document/download/a6d29444-b5d5-4afb-8024-10be85256aa7_en?filename=md_mdcg_2020_6_guidance_sufficient_clinical_evidence_en.pdf",
+      "source_name": "European Commission",
+      "published_date": "2026-06-30",
+      "detected_date": "2026-06-30T12:25:31Z",
+      "importance": "medium",
+      "tags": [
+        "eu_mdr",
+        "mdcg",
+        "clinical_evaluation",
+        "legacy_devices"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "eu_mdr_20260630_ec_publishes_delegated_acts_on_well_established_technologies",
+      "framework": "eu_mdr",
+      "category": "regulation_update",
+      "title": {
+        "en": "EC Publishes Delegated Acts on Well-Established Technologies Under EU MDR",
+        "zh": "欧盟委员会发布关于MDR下“成熟技术”医疗器械的授权法案"
+      },
+      "summary": {
+        "en": "The European Commission has published new delegated acts concerning well-established technologies (WET) under the Medical Devices Regulation (MDR). This update affects manufacturers of specific Class IIb implantable and Class III devices, such as sutures, staples, and bone screws, by clarifying exemptions for clinical investigations. Affected manufacturers must review the updated acts upon entry into force to verify their eligibility for WET exemptions and adjust their clinical evaluation strategies accordingly.",
+        "zh": "欧盟委员会发布了关于《医疗器械法规》(MDR)下“成熟技术”(WET)的最新授权法案。此更新主要影响生产缝合线、吻合器和骨钉等特定IIb类植入物和III类器械的制造商，进一步明确了临床试验的豁免条件。相关制造商应在法案生效后立即评估其产品是否符合豁免资格，并相应调整临床评价策略和更新技术文件。"
+      },
+      "source_url": "https://ec.europa.eu/newsroom/sante/newsletter-archives/77013",
+      "source_name": "European Commission",
+      "published_date": "2026-06-30",
+      "detected_date": "2026-06-30T14:06:08Z",
+      "importance": "high",
+      "tags": [
+        "eu_mdr",
+        "delegated_act",
+        "well_established_technologies",
+        "clinical_evaluation"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
     {
       "id": "eu_mdr_2026_cid_1231",
       "framework": "eu_mdr",
@@ -19,8 +71,15 @@
       "published_date": "2026-06-17",
       "detected_date": "2026-06-17T12:00:00Z",
       "importance": "high",
-      "tags": ["harmonised_standards", "biological_evaluation", "labelling", "conformity"],
-      "related_docs": ["eu_mdr-standards"],
+      "tags": [
+        "harmonised_standards",
+        "biological_evaluation",
+        "labelling",
+        "conformity"
+      ],
+      "related_docs": [
+        "eu_mdr-standards"
+      ],
       "status": "published"
     },
     {
@@ -40,8 +99,15 @@
       "published_date": "2026-06-02",
       "detected_date": "2026-06-05T12:00:00Z",
       "importance": "high",
-      "tags": ["eudamed", "sscp", "notified_body", "manufacturer_obligation"],
-      "related_docs": ["eu_mdr-mdcg"],
+      "tags": [
+        "eudamed",
+        "sscp",
+        "notified_body",
+        "manufacturer_obligation"
+      ],
+      "related_docs": [
+        "eu_mdr-mdcg"
+      ],
       "status": "published"
     }
   ]
