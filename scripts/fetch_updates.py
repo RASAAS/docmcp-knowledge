@@ -85,6 +85,13 @@ SOURCES = {
             "check_type": "ec_page_scrape",
             "category": "eu_mdr/mdcg",
         },
+        "ec_latest_updates": {
+            "name": "EC Medical Devices Latest Updates",
+            "url": "https://ec.europa.eu/health/medical-devices-sector/latest-updates_en",
+            "check_type": "ec_latest_updates",
+            "category": "eu_mdr/regulations",
+            "note": "Scrapes EC Medical Devices Latest Updates page for Delegated/Implementing Regulations, policy news.",
+        },
         "team_nb": {
             "name": "TEAM-NB Position Papers",
             "url": "https://www.team-nb.org/",
@@ -964,6 +971,131 @@ class MDCGPageChecker:
 
 
 # ---------------------------------------------------------------------------
+# EC Medical Devices Latest Updates page checker
+# Scrapes https://ec.europa.eu/health/medical-devices-sector/latest-updates_en
+# Covers: Delegated Regulations, Implementing Regulations, MDCG updates, policy
+# ---------------------------------------------------------------------------
+
+class ECLatestUpdatesChecker:
+    """Scrapes EC Medical Devices Latest Updates page for regulatory news.
+
+    This page covers a much wider scope than the MDCG guidance list:
+    - Delegated Regulations (e.g. WET expansions under Art. 52(4), 61(6)(b))
+    - Implementing Regulations (e.g. conformity assessment, notified bodies)
+    - MDCG position papers and new guidance
+    - EUDAMED updates, MIR form updates
+    - Policy announcements (breakthrough device programmes, etc.)
+    """
+
+    URL = "https://ec.europa.eu/health/medical-devices-sector/latest-updates_en"
+
+    _PRIORITY_KEYWORDS = re.compile(
+        r"(?i)(delegated\s+(?:act|regulation)|implementing\s+regulation|"
+        r"well.established|harmonised\s+standard|common\s+specification|"
+        r"clinical\s+investigation|classification|notified\s+bod|"
+        r"unique\s+device\s+identif|UDI|EUDAMED|conformity\s+assessment|"
+        r"borderline|breakthrough|Article\s+\d+)",
+    )
+
+    def __init__(self, session: requests.Session, state: dict):
+        self.session = session
+        self.state = state
+
+    def check(self, source_id: str, source: dict) -> Optional[dict]:
+        prev = self.state.get(source_id, {})
+        prev_titles = set(prev.get("seen_titles", []))
+
+        try:
+            resp = self.session.get(self.URL, timeout=30)
+            resp.raise_for_status()
+        except Exception as e:
+            print(f"    ERROR fetching EC Latest Updates: {e}")
+            return None
+
+        entries = self._parse_entries(resp.text)
+        if not entries:
+            print(f"    WARNING: No entries parsed from EC Latest Updates page")
+            return None
+
+        print(f"    INFO: Parsed {len(entries)} entries from EC Latest Updates page")
+
+        new_items = []
+        all_titles = list(prev_titles)
+
+        for entry in entries:
+            title = entry.get("title", "")
+            if not title or title in prev_titles:
+                continue
+            all_titles.append(title)
+            new_items.append({
+                "title": title,
+                "link": entry.get("link", ""),
+                "pub_date": entry.get("date", ""),
+                "description": entry.get("type", ""),
+            })
+
+        self.state[source_id] = {
+            "url": source["url"],
+            "last_checked": datetime.now().isoformat(),
+            "seen_titles": all_titles[-200:],
+            "total_entries": len(entries),
+        }
+
+        if new_items and prev_titles:
+            result = _make_update(
+                source_id, source, "ec_latest_updates",
+                f"{len(new_items)} new EC Medical Devices update(s) detected"
+            )
+            result["new_items"] = new_items
+            return result
+        elif not prev_titles:
+            print(f"    INFO: Baseline established ({len(entries)} entries indexed)")
+
+        return None
+
+    def _parse_entries(self, html: str) -> list[dict]:
+        """Parse article blocks from EC Latest Updates page."""
+        results = []
+        article_re = re.compile(r"<article[^>]*>(.*?)</article>", re.DOTALL)
+
+        for art_match in article_re.finditer(html):
+            art = art_match.group(1)
+
+            date_m = re.search(r'<time[^>]*datetime="([^"]+)"', art)
+            date_str = date_m.group(1)[:10] if date_m else ""
+
+            title = ""
+            link = ""
+            title_block = re.search(
+                r'class="ecl-content-block__title"[^>]*>(.*?)</(?:h\d|div|span)',
+                art, re.DOTALL,
+            )
+            if title_block:
+                link_m = re.search(r'<a[^>]*href="([^"]+)"[^>]*>([^<]+)</a>',
+                                   title_block.group(1))
+                if link_m:
+                    link = link_m.group(1)
+                    title = link_m.group(2).strip()
+                else:
+                    title = re.sub(r"<[^>]+>", "", title_block.group(1)).strip()
+
+            if link and link.startswith("/"):
+                link = "https://health.ec.europa.eu" + link
+
+            if not title:
+                continue
+
+            results.append({
+                "title": title,
+                "date": date_str,
+                "link": link,
+                "type": "EC News",
+            })
+
+        return results
+
+
+# ---------------------------------------------------------------------------
 # EUR-Lex Amendment checker (replaces http_head for harmonised standards)
 # Checks consolidated decision URL date suffix for new amendments
 # ---------------------------------------------------------------------------
@@ -1173,6 +1305,7 @@ class UpdateChecker:
         self.ecfr = ECFRChecker(session, self.state)
         self.eurlex = EURLexChecker(session, self.state)
         self.mdcg_scraper = MDCGPageChecker(session, self.state, self.db_comparator)
+        self.ec_latest = ECLatestUpdatesChecker(session, self.state)
         self.llm = LLMVersionAnalyzer(LLM_API_KEY, LLM_BASE_URL, LLM_MODEL)
         if self.vertex.available:
             print("INFO: Using Vertex AI Search (searchLite) for web queries.")
@@ -1216,6 +1349,8 @@ class UpdateChecker:
             return result
         elif check_type == "ec_page_scrape":
             return self.mdcg_scraper.check(source_id, source)
+        elif check_type == "ec_latest_updates":
+            return self.ec_latest.check(source_id, source)
         elif check_type == "openfda_guidance":
             result = self.openfda.check(source_id, source)
             if result:

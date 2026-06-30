@@ -1,6 +1,6 @@
 {
   "fda/guidance_openfda": {
-    "last_checked": "2026-06-24T06:05:44.079710"
+    "last_checked": "2026-06-30T12:17:37.312441"
   },
   "fda/guidance_google": {
     "url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents",
@@ -73,8 +73,8 @@
   },
   "fda/regulations_ecfr": {
     "url": "https://www.ecfr.gov/api/versioner/v1/titles.json",
-    "last_checked": "2026-06-24T06:05:48.154658",
-    "last_amendment_date": "2026-06-17"
+    "last_checked": "2026-06-30T12:17:41.611339",
+    "last_amendment_date": "2026-06-26"
   },
   "nmpa/cmde_guidance": {
     "url": "https://www.cmde.org.cn/flfg/zdyz/",
@@ -307,14 +307,14 @@
   },
   "eu_mdr/harmonised_standards": {
     "url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182/oj",
-    "last_checked": "2026-06-29T06:49:38.629252",
+    "last_checked": "2026-06-30T14:03:57.720116",
     "last_known_amendment": "20260407",
     "standards_count": 65,
     "detection_method": "sparql"
   },
   "eu_mdr/mdcg_guidance": {
     "url": "https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en",
-    "last_checked": "2026-06-29T06:49:39.841645",
+    "last_checked": "2026-06-30T14:03:59.688721",
     "official_count": 126
   },
   "eu_mdr/mdcg_guidance_google": {
@@ -352,5 +352,32 @@
       "EU Medical Device Regulation 2017/745 Article 61.10 - team-nb",
       "MDCG 2026-4 MDCG Position Paper: Management of SS(C)P in ..."
     ]
+  },
+  "eu_mdr/ec_latest_updates": {
+    "url": "https://ec.europa.eu/health/medical-devices-sector/latest-updates_en",
+    "last_checked": "2026-06-30T14:04:01.921837",
+    "seen_titles": [
+      "New harmonised standards for the Regulations on medical devices",
+      "Pilot programme to be launched to support breakthrough medical devices and in vitro diagnostics",
+      "Article 10a Decision tree",
+      "Medical Devices: Register now for high-level conference on 16 March 2026",
+      "Update - MDCG 2021-24 rev.1 - Guidance on classification of medical devices (April 2026)",
+      "Update - Manual on borderline and classification under Regulations (EU) 2017/745 and 2017/746 v5",
+      "Commissioner Várhelyi to open high-level event on medical devices",
+      "Update MIR 7.3.1. form – Updated XSD-XSL files for field 4.3.3.d. and Changelog file (SB 11252)",
+      "Recording available - Second training on EMDN: structure, consultation process, and practical application",
+      "Rev.2 - Q&amp;A Obligation to inform in case of interruption or discontinuation of supply",
+      "New Implementing Regulation sets out uniform requirements for conformity assessment and notified bodies",
+      "Implementing Regulation (EU) 2026/977 – uniform requirements for conformity assessment and notified bodies (Annex VII)",
+      "Update - New manufacturer incident report XSD files and XSL files (SB 11154)",
+      "Update – new manufacturer incident report PDF file (SB 11154) and important information about which MIR 7.3.1. versions are accepted from 1st May 2026",
+      "Update – Documents on European Medical Device Nomenclature (EMDN)",
+      "New guidance document on the “EU REP” symbol for authorised representatives",
+      "New MDCG Position Paper: Management of SS(C)P in EUDAMED after mandatory use",
+      "Recording available - Commissioner Várhelyi to open high-level event on medical devices",
+      "Registration - High-level Conference on Medical Devices: Innovation and Patient Safety - 16 March 2026, 9.00 - 17.00 CET",
+      "Medical Devices: Delegated acts on well-established technologies published"
+    ],
+    "total_entries": 20
   }
 }
