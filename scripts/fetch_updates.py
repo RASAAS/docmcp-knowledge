@@ -339,8 +339,14 @@ class DatabaseComparator:
             mdcg_id = mdcg_match.group(1).replace("/", "-")
             normalized = f"mdcg-{mdcg_id}"
 
-            # Check for revision indicator in the search result title
-            rev_match = re.search(r"[Rr]ev[\.\s]*(\d+)", title)
+            # Check for revision indicator attached to THIS MDCG document
+            # Only match rev.X that appears near the MDCG ID (within ~30 chars),
+            # NOT revision markers belonging to other referenced documents
+            # e.g. "MDCG 2021-24 Rev.1" -> rev.1 (correct)
+            # e.g. "...MDCG 2020-6 and MEDDEV 2.7/1 rev.4..." -> ignore rev.4
+            mdcg_end = mdcg_match.end()
+            nearby_text = title[mdcg_end:mdcg_end + 30]
+            rev_match = re.search(r"^\s*[-–/]?\s*[Rr]ev[\.\s]*(\d+)", nearby_text)
             new_rev = rev_match.group(0).strip() if rev_match else ""
 
             if normalized in self.mdcg_ids or f"MDCG {mdcg_id}" in self.mdcg_ids:
