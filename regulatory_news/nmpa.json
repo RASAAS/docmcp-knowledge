@@ -1,25 +1,67 @@
 {
   "framework": "nmpa",
-  "last_updated": "2026-06-30T00:00:00Z",
+  "last_updated": "2026-06-30T10:00:00Z",
   "items": [
     {
-      "id": "nmpa_news_20260501_001",
+      "id": "nmpa_2026_udi_full_coverage",
       "framework": "nmpa",
       "category": "regulation_update",
       "title": {
-        "en": "NMPA Published Revised Classification Catalogue for Medical Devices (2025 Edition)",
-        "zh": "NMPA 发布修订版医疗器械分类目录（2025年版）"
+        "en": "NMPA Announcement No. 21 (2026) -- UDI Full Coverage Implementation Timeline",
+        "zh": "国家药监局2026年第21号公告 -- 医疗器械唯一标识全品类全覆盖时间表"
       },
       "summary": {
-        "en": "The National Medical Products Administration (NMPA) published the revised Medical Device Classification Catalogue (2025 Edition), effective from January 1, 2026. Key changes include updated classification rules for AI-assisted diagnostic software, new entries for combination products, and revised risk classifications for several device categories. Manufacturers should review product registrations against the new catalogue.",
-        "zh": "国家药品监督管理局（NMPA）发布了修订版《医疗器械分类目录》（2025年版），自2026年1月1日起实施。主要变化包括更新了AI辅助诊断软件的分类规则、新增了组合产品条目，以及修订了多个器械类别的风险分类。制造商应根据新目录审查产品注册情况。"
+        "en": "Published 13 March 2026, jointly issued by NMPA, National Health Commission and National Healthcare Security Administration. Mandates UDI implementation for all remaining medical device categories: all Class II devices and Class I IVDs by 1 June 2027; all Class I devices by 1 June 2029. Manufacturers must complete UDI assignment, data upload and maintenance. Provincial drug regulatory authorities are to coordinate with health and healthcare security departments to promote integration.",
+        "zh": "2026年3月13日发布，由国家药监局、国家卫健委、国家医保局三部门联合发布。在已实施全部第三类医疗器械和103种第二类医疗器械唯一标识的基础上，明确后续实施时间表：2027年6月1日起全部第二类器械和第一类体外诊断试剂；2029年6月1日起全部第一类器械。注册人/备案人须完成赋码、数据上传和维护工作。省级药监部门加强培训指导，推动三医联动。"
       },
-      "source_url": "https://www.nmpa.gov.cn/",
+      "source_url": "https://yjj.sh.gov.cn/qtgzwj/20260313/e0e980644b754683933dc6109d1ecbd7.html",
       "source_name": "NMPA",
-      "published_date": "2025-05-01",
-      "detected_date": "2026-05-01T02:00:00Z",
+      "published_date": "2026-03-13",
+      "detected_date": "2026-03-14T12:00:00Z",
       "importance": "high",
-      "tags": ["NMPA", "Classification", "Catalogue"],
+      "tags": ["udi", "traceability", "full_coverage", "multi_department"],
+      "related_docs": ["nmpa-regulations"],
+      "status": "published"
+    },
+    {
+      "id": "nmpa_2026_classification_adjustment",
+      "framework": "nmpa",
+      "category": "regulation_update",
+      "title": {
+        "en": "NMPA Announcement No. 52 (2026) -- Medical Device Classification Adjustment Procedures",
+        "zh": "国家药监局2026年第52号公告 -- 医疗器械分类调整工作规范"
+      },
+      "summary": {
+        "en": "Published 1 June 2026, this announcement clarifies transitional procedures when medical device management categories or attributes are adjusted. Covers: registration/filing requirements when classification changes from higher to lower class; transition from medical device to non-medical device status; timeline and documentation requirements for affected manufacturers.",
+        "zh": "2026年6月1日发布，明确医疗器械产品管理属性和管理类别调整后的过渡安排：高类别调整为低类别（如三类降二类）的注册备案衔接；管理类别调整后注册证有效期内的延续注册要求；由医疗器械调整为非医疗器械管理的产品处理方式。省级药监部门建立产品管理台账，压实企业主体责任。"
+      },
+      "source_url": "https://www.ylzbzz.org.cn/index.php?a=show&c=index&catid=30&id=297&m=content",
+      "source_name": "NMPA",
+      "published_date": "2026-06-01",
+      "detected_date": "2026-06-02T12:00:00Z",
+      "importance": "high",
+      "tags": ["classification", "registration", "transition", "compliance"],
+      "related_docs": ["nmpa-regulations"],
+      "status": "published"
+    },
+    {
+      "id": "nmpa_2026_udi_exemptions",
+      "framework": "nmpa",
+      "category": "regulation_update",
+      "title": {
+        "en": "NMPA Announcement No. 15 (2026) -- UDI Exemption for Specific Circumstances",
+        "zh": "国家药监局2026年第15号公告 -- 特定情形医疗器械唯一标识豁免"
+      },
+      "summary": {
+        "en": "Published 13 March 2026, defines 7 circumstances where medical devices are exempt from UDI implementation: clinical trial devices, custom-made devices, device components, post-market study devices, and others. For reusable devices where direct marking may affect safety, UDI must be marked on the smallest sales unit packaging with alternative traceability solutions.",
+        "zh": "2026年3月13日发布，明确7种免于实施唯一标识的情形：临床试验用器械、定制式器械、器械零部件、用于上市后研究的器械等。对于重复使用器械中直接标记可能影响安全有效性的情形，应在最小销售单元包装上标记唯一标识，并提供有效的可追溯方案。"
+      },
+      "source_url": "https://www.ccfdie.org/zryyxxw/ylqx/cfdztz/webinfo/2026/03/1774302445030397.htm",
+      "source_name": "NMPA",
+      "published_date": "2026-03-13",
+      "detected_date": "2026-03-14T12:00:00Z",
+      "importance": "medium",
+      "tags": ["udi", "exemption", "clinical_trial", "custom_device"],
       "related_docs": ["nmpa-regulations"],
       "status": "published"
     }

@@ -1,46 +1,46 @@
 {
   "framework": "eu_mdr",
-  "last_updated": "2026-06-30T00:00:00Z",
+  "last_updated": "2026-06-30T10:00:00Z",
   "items": [
     {
-      "id": "eu_mdr_news_20260415_001",
+      "id": "eu_mdr_2026_cid_1231",
       "framework": "eu_mdr",
       "category": "regulation_update",
       "title": {
-        "en": "Commission Implementing Decision (EU) 2025/425 -- Updated Harmonised Standards for MDR",
-        "zh": "欧盟委员会实施决定 (EU) 2025/425 -- MDR 协调标准更新"
+        "en": "Commission Implementing Decision (EU) 2026/1231 -- Updated Harmonised Standards for MDR",
+        "zh": "欧盟实施决定 (EU) 2026/1231 -- MDR 协调标准更新（九大类别）"
       },
       "summary": {
-        "en": "The European Commission published implementing decision (EU) 2025/425 on 3 March 2025, updating the list of harmonised standards for medical devices under Regulation (EU) 2017/745. Key changes include new references for EN ISO 10993 series (biocompatibility), EN ISO 14971:2019/A11:2021 (risk management), and updated IEC 62304 (software lifecycle). Manufacturers should review their declarations of conformity for compliance with newly cited standards.",
-        "zh": "欧盟委员会于2025年3月3日发布实施决定 (EU) 2025/425，更新了 (EU) 2017/745 医疗器械法规下的协调标准清单。主要变化包括 EN ISO 10993 系列（生物相容性）、EN ISO 14971:2019/A11:2021（风险管理）以及更新的 IEC 62304（软件生命周期）的新引用。制造商应审查其符合性声明以确保遵守新引用的标准。"
+        "en": "Published 17 June 2026 (effective 11 June 2026), this decision amends Decision 2021/1182 and updates harmonised standard references across nine medical device categories: biological evaluation (EN ISO 10993-12:2021/A1:2025), labelling/symbols (EN ISO 15223-1:2021/A1:2025), electromedical equipment, transfusion equipment, ophthalmic optics, non-active surgical implants, washer-disinfectors, prostheses, and sharps injury protection. Manufacturers must review technical documentation, declarations of conformity, and test reports against updated standard references.",
+        "zh": "2026年6月17日发布（6月11日生效），该决定修订了2021/1182号决定，更新了九大类别医疗器械协调标准引用：生物评价（EN ISO 10993-12:2021/A1:2025）、标签符号（EN ISO 15223-1:2021/A1:2025）、电气医用设备、输血设备、眼科光学、非有源外科植入物、清洗消毒器、假肢和锐器伤防护。制造商须审查技术文件、符合性声明及测试报告，确保引用最新标准版本。"
       },
-      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2025/425/oj",
-      "source_name": "EUR-Lex",
-      "published_date": "2025-03-03",
-      "detected_date": "2026-04-15T02:00:00Z",
+      "source_url": "https://cambioslegales.es/en/blog/eu-technical-standards-medical-devices-2026",
+      "source_name": "EUR-Lex / CambiosLegales",
+      "published_date": "2026-06-17",
+      "detected_date": "2026-06-17T12:00:00Z",
       "importance": "high",
-      "tags": ["MDR", "Harmonised Standards", "CID"],
+      "tags": ["harmonised_standards", "biological_evaluation", "labelling", "conformity"],
       "related_docs": ["eu_mdr-standards"],
       "status": "published"
     },
     {
-      "id": "eu_mdr_news_20260410_001",
+      "id": "eu_mdr_2026_mdcg_2026_4",
       "framework": "eu_mdr",
       "category": "guidance_new",
       "title": {
-        "en": "MDCG 2025-9: Guidance on Clinical Evaluation Consultation Procedure (Article 54)",
-        "zh": "MDCG 2025-9: 临床评价咨询程序指南（第54条）"
+        "en": "MDCG 2026-4: Management of SS(C)P in EUDAMED After Mandatory Use",
+        "zh": "MDCG 2026-4: EUDAMED 强制使用后 SS(C)P 管理职责转移"
       },
       "summary": {
-        "en": "The Medical Device Coordination Group (MDCG) published new guidance document MDCG 2025-9, providing detailed instructions on the clinical evaluation consultation procedure under Article 54 of the MDR. The guidance clarifies the roles of expert panels, timelines for assessment, and documentation requirements for Class III and Class IIb implantable devices.",
-        "zh": "医疗器械协调小组（MDCG）发布了新的指南文件 MDCG 2025-9，对 MDR 第54条下的临床评价咨询程序提供了详细说明。该指南明确了专家组的角色、评估时间表以及 III 类和 IIb 类可植入器械的文件要求。"
+        "en": "Published June 2026, MDCG 2026-4 transfers SSCP/SSP upload responsibility from Notified Bodies to manufacturers in EUDAMED. Key dates: from 28 May 2026 Notified Bodies continue uploading during transition; from October 2026 manufacturers take over direct upload; deadline 27 February 2027 for devices already on market. Manufacturers must upload master SS(C)P and translations, ensuring the uploaded version matches the one validated during certification.",
+        "zh": "2026年6月发布，MDCG 2026-4 将 SSCP/SSP 上传职责从公告机构转移至制造商。关键时间节点：2026年5月28日起过渡期内公告机构继续上传；2026年10月起制造商直接上传；已上市器械截止日期为2027年2月27日。制造商须上传主版 SS(C)P 及翻译件，确保上传版本与认证时验证的版本一致。"
       },
-      "source_url": "https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en",
-      "source_name": "EC MDCG",
-      "published_date": "2025-04-01",
-      "detected_date": "2026-04-10T02:00:00Z",
-      "importance": "medium",
-      "tags": ["MDR", "MDCG", "Clinical Evaluation", "Article 54"],
+      "source_url": "https://mdlaw.eu/mdr/mdcg-2026-4-new-responsibilities-for-sscp-management-in-eudamed/",
+      "source_name": "MDCG / mdlaw.eu",
+      "published_date": "2026-06-02",
+      "detected_date": "2026-06-05T12:00:00Z",
+      "importance": "high",
+      "tags": ["eudamed", "sscp", "notified_body", "manufacturer_obligation"],
       "related_docs": ["eu_mdr-mdcg"],
       "status": "published"
     }

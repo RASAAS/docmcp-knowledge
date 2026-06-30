@@ -1,25 +1,46 @@
 {
   "framework": "fda",
-  "last_updated": "2026-06-30T00:00:00Z",
+  "last_updated": "2026-06-30T10:00:00Z",
   "items": [
     {
-      "id": "fda_news_20260420_001",
+      "id": "fda_2026_qmsr",
+      "framework": "fda",
+      "category": "regulation_update",
+      "title": {
+        "en": "QMSR Takes Effect -- 21 CFR Part 820 Incorporates ISO 13485:2016",
+        "zh": "QMSR 正式生效 -- 21 CFR Part 820 纳入 ISO 13485:2016"
+      },
+      "summary": {
+        "en": "Effective 2 February 2026, the FDA's Quality Management System Regulation (QMSR) amends 21 CFR Part 820 by incorporating ISO 13485:2016 by reference. The legacy Quality System Inspection Technique (QSIT) was discontinued and replaced by Compliance Program 7382.850, aligned with ISO 13485. Manufacturers must now explicitly comply with ISO 13485:2016 requirements. Two older guidance documents (1997 design control guidance and 2008 PMA manufacturing inspection guidance) were withdrawn.",
+        "zh": "2026年2月2日生效，FDA 质量管理体系法规（QMSR）修订 21 CFR Part 820，正式纳入 ISO 13485:2016。旧版质量体系检查技术（QSIT）被废止，替换为与 ISO 13485 一致的合规程序 7382.850。制造商须明确满足 ISO 13485:2016 要求。1997年设计控制指南和2008年 PMA 生产检查指南已同步撤回。"
+      },
+      "source_url": "https://www.aabb.org/news-resources/news/article/2026/02/04/fda-implements-quality-management-system-regulation-for-medical-devices",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-02-02",
+      "detected_date": "2026-02-04T12:00:00Z",
+      "importance": "high",
+      "tags": ["quality_management", "iso_13485", "cgmp", "inspection"],
+      "related_docs": ["fda-regulations"],
+      "status": "published"
+    },
+    {
+      "id": "fda_2026_cybersecurity_guidance",
       "framework": "fda",
       "category": "guidance_new",
       "title": {
-        "en": "FDA Issues Final Guidance on Predetermined Change Control Plans for AI/ML-Enabled Devices",
-        "zh": "FDA 发布 AI/ML 医疗器械预定变更控制计划最终指南"
+        "en": "FDA Revised Cybersecurity Guidance for Medical Devices (Feb 2026)",
+        "zh": "FDA 修订医疗器械网络安全上市前提交指南（2026年2月）"
       },
       "summary": {
-        "en": "The FDA issued final guidance on Predetermined Change Control Plans (PCCPs) for machine learning-enabled device software functions. The guidance outlines how manufacturers can describe planned modifications and the methodology for implementing those changes in a controlled manner, without requiring a new premarket submission for each change. This is a significant step in the FDA's framework for regulating adaptive AI/ML-based Software as a Medical Device (SaMD).",
-        "zh": "FDA 发布了关于机器学习医疗器械软件功能预定变更控制计划（PCCP）的最终指南。该指南概述了制造商如何描述计划的修改及以受控方式实施变更的方法，无需为每次变更提交新的上市前申请。这是 FDA 监管自适应 AI/ML 医疗器械软件（SaMD）框架的重要进展。"
+        "en": "Issued 3 February 2026, superseding the June 2025 version. Aligns with the new QMSR and ISO 13485. Applies to all devices with cybersecurity considerations, not just network-connected devices. Key expectations: Secure Product Development Framework (SPDF), threat modeling, Software Bill of Materials (SBOM), eight security control categories (authentication, authorization, cryptography, integrity, confidentiality, event detection, resiliency, updatability), and coordinated vulnerability disclosure processes.",
+        "zh": "2026年2月3日发布，取代2025年6月版本，与新 QMSR 和 ISO 13485 保持一致。适用于所有具有网络安全考量的器械（不限于联网设备）。核心要求：安全产品开发框架（SPDF）、威胁建模、软件物料清单（SBOM）、八大安全控制类别（认证、授权、加密、完整性、机密性、事件检测、弹性恢复、可更新性），以及协调漏洞披露流程。"
       },
-      "source_url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents",
+      "source_url": "https://innolitics.com/articles/2026-cybersecurity-guidance/",
       "source_name": "FDA CDRH",
-      "published_date": "2025-03-15",
-      "detected_date": "2026-04-20T02:00:00Z",
+      "published_date": "2026-02-03",
+      "detected_date": "2026-02-05T12:00:00Z",
       "importance": "high",
-      "tags": ["FDA", "AI/ML", "SaMD", "PCCP", "510(k)"],
+      "tags": ["cybersecurity", "premarket_submission", "software", "sbom"],
       "related_docs": ["fda-guidance"],
       "status": "published"
     }

@@ -1,25 +1,25 @@
 {
   "framework": "_shared",
-  "last_updated": "2026-06-30T00:00:00Z",
+  "last_updated": "2026-06-30T10:00:00Z",
   "items": [
     {
-      "id": "shared_news_20260601_001",
+      "id": "shared_2026_iec62304_ed2",
       "framework": "_shared",
       "category": "standard_revision",
       "title": {
-        "en": "ISO 14971:2024 Amendment 1 -- Risk Management for Medical Devices",
-        "zh": "ISO 14971:2024 修正案1 -- 医疗器械风险管理"
+        "en": "IEC 62304 Edition 2 -- Major Overhaul of Medical Device Software Standard (Aug 2026)",
+        "zh": "IEC 62304 第2版 -- 医疗器械软件标准20年来最大修订（2026年8月发布）"
       },
       "summary": {
-        "en": "ISO published Amendment 1 to ISO 14971:2019, addressing alignment with the latest EU MDR requirements and clarifying risk acceptability criteria. The amendment introduces updated guidance on benefit-risk analysis methodology and integration with post-market surveillance data. Transition period ends December 2026.",
-        "zh": "ISO 发布了 ISO 14971:2019 的修正案1，旨在与最新的 EU MDR 要求保持一致，并澄清了风险可接受性标准。修正案引入了更新的获益-风险分析方法指导以及与上市后监督数据的整合。过渡期至2026年12月结束。"
+        "en": "Scheduled for publication 12 August 2026. Key changes: scope expanded from 'medical device software' to 'health software' (including wellness apps, remote monitoring); three safety classes replaced by two Software Process Rigor Levels (I and II); new AI/ML development lifecycle clause (5.1.15); cybersecurity integrated as core design control (referencing IEC 81001-5-1); ISO 13485 and ISO 14971 removed as normative references; legacy software moved to informative annex; new Agile guidance in Annex F. Full regulatory adoption expected 2028-2029.",
+        "zh": "预定2026年8月12日发布。核心变化：适用范围从\"医疗器械软件\"扩展至\"健康软件\"（含健康管理应用、远程监控）；三级安全分类替换为两级软件过程严格度级别（I级和II级）；新增 AI/ML 开发生命周期条款（5.1.15）；网络安全作为核心设计控制集成（引用 IEC 81001-5-1）；ISO 13485 和 ISO 14971 移除规范性引用；遗留软件移至资料性附录；新增敏捷开发指南附录 F。预计2028-2029年完成监管采纳。"
       },
-      "source_url": "https://www.iso.org/standard/72704.html",
-      "source_name": "ISO",
-      "published_date": "2025-06-01",
-      "detected_date": "2026-06-01T02:00:00Z",
+      "source_url": "https://meddeviceguide.com/blog/iec-62304-edition-2-2026-software-lifecycle-standard-update-guide",
+      "source_name": "IEC / MedDeviceGuide",
+      "published_date": "2026-05-22",
+      "detected_date": "2026-06-01T12:00:00Z",
       "importance": "high",
-      "tags": ["ISO", "Risk Management", "ISO 14971"],
+      "tags": ["software_lifecycle", "ai_ml", "cybersecurity", "health_software"],
       "related_docs": ["_shared-standards"],
       "status": "published"
     }
