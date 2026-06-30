@@ -1,0 +1,27 @@
+{
+  "framework": "fda",
+  "last_updated": "2026-06-30T00:00:00Z",
+  "items": [
+    {
+      "id": "fda_news_20260420_001",
+      "framework": "fda",
+      "category": "guidance_new",
+      "title": {
+        "en": "FDA Issues Final Guidance on Predetermined Change Control Plans for AI/ML-Enabled Devices",
+        "zh": "FDA 发布 AI/ML 医疗器械预定变更控制计划最终指南"
+      },
+      "summary": {
+        "en": "The FDA issued final guidance on Predetermined Change Control Plans (PCCPs) for machine learning-enabled device software functions. The guidance outlines how manufacturers can describe planned modifications and the methodology for implementing those changes in a controlled manner, without requiring a new premarket submission for each change. This is a significant step in the FDA's framework for regulating adaptive AI/ML-based Software as a Medical Device (SaMD).",
+        "zh": "FDA 发布了关于机器学习医疗器械软件功能预定变更控制计划（PCCP）的最终指南。该指南概述了制造商如何描述计划的修改及以受控方式实施变更的方法，无需为每次变更提交新的上市前申请。这是 FDA 监管自适应 AI/ML 医疗器械软件（SaMD）框架的重要进展。"
+      },
+      "source_url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents",
+      "source_name": "FDA CDRH",
+      "published_date": "2025-03-15",
+      "detected_date": "2026-04-20T02:00:00Z",
+      "importance": "high",
+      "tags": ["FDA", "AI/ML", "SaMD", "PCCP", "510(k)"],
+      "related_docs": ["fda-guidance"],
+      "status": "published"
+    }
+  ]
+}

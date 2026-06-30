@@ -1,0 +1,48 @@
+{
+  "framework": "eu_mdr",
+  "last_updated": "2026-06-30T00:00:00Z",
+  "items": [
+    {
+      "id": "eu_mdr_news_20260415_001",
+      "framework": "eu_mdr",
+      "category": "regulation_update",
+      "title": {
+        "en": "Commission Implementing Decision (EU) 2025/425 -- Updated Harmonised Standards for MDR",
+        "zh": "欧盟委员会实施决定 (EU) 2025/425 -- MDR 协调标准更新"
+      },
+      "summary": {
+        "en": "The European Commission published implementing decision (EU) 2025/425 on 3 March 2025, updating the list of harmonised standards for medical devices under Regulation (EU) 2017/745. Key changes include new references for EN ISO 10993 series (biocompatibility), EN ISO 14971:2019/A11:2021 (risk management), and updated IEC 62304 (software lifecycle). Manufacturers should review their declarations of conformity for compliance with newly cited standards.",
+        "zh": "欧盟委员会于2025年3月3日发布实施决定 (EU) 2025/425，更新了 (EU) 2017/745 医疗器械法规下的协调标准清单。主要变化包括 EN ISO 10993 系列（生物相容性）、EN ISO 14971:2019/A11:2021（风险管理）以及更新的 IEC 62304（软件生命周期）的新引用。制造商应审查其符合性声明以确保遵守新引用的标准。"
+      },
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2025/425/oj",
+      "source_name": "EUR-Lex",
+      "published_date": "2025-03-03",
+      "detected_date": "2026-04-15T02:00:00Z",
+      "importance": "high",
+      "tags": ["MDR", "Harmonised Standards", "CID"],
+      "related_docs": ["eu_mdr-standards"],
+      "status": "published"
+    },
+    {
+      "id": "eu_mdr_news_20260410_001",
+      "framework": "eu_mdr",
+      "category": "guidance_new",
+      "title": {
+        "en": "MDCG 2025-9: Guidance on Clinical Evaluation Consultation Procedure (Article 54)",
+        "zh": "MDCG 2025-9: 临床评价咨询程序指南（第54条）"
+      },
+      "summary": {
+        "en": "The Medical Device Coordination Group (MDCG) published new guidance document MDCG 2025-9, providing detailed instructions on the clinical evaluation consultation procedure under Article 54 of the MDR. The guidance clarifies the roles of expert panels, timelines for assessment, and documentation requirements for Class III and Class IIb implantable devices.",
+        "zh": "医疗器械协调小组（MDCG）发布了新的指南文件 MDCG 2025-9，对 MDR 第54条下的临床评价咨询程序提供了详细说明。该指南明确了专家组的角色、评估时间表以及 III 类和 IIb 类可植入器械的文件要求。"
+      },
+      "source_url": "https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en",
+      "source_name": "EC MDCG",
+      "published_date": "2025-04-01",
+      "detected_date": "2026-04-10T02:00:00Z",
+      "importance": "medium",
+      "tags": ["MDR", "MDCG", "Clinical Evaluation", "Article 54"],
+      "related_docs": ["eu_mdr-mdcg"],
+      "status": "published"
+    }
+  ]
+}

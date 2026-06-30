@@ -1,0 +1,27 @@
+{
+  "framework": "nmpa",
+  "last_updated": "2026-06-30T00:00:00Z",
+  "items": [
+    {
+      "id": "nmpa_news_20260501_001",
+      "framework": "nmpa",
+      "category": "regulation_update",
+      "title": {
+        "en": "NMPA Published Revised Classification Catalogue for Medical Devices (2025 Edition)",
+        "zh": "NMPA 发布修订版医疗器械分类目录（2025年版）"
+      },
+      "summary": {
+        "en": "The National Medical Products Administration (NMPA) published the revised Medical Device Classification Catalogue (2025 Edition), effective from January 1, 2026. Key changes include updated classification rules for AI-assisted diagnostic software, new entries for combination products, and revised risk classifications for several device categories. Manufacturers should review product registrations against the new catalogue.",
+        "zh": "国家药品监督管理局（NMPA）发布了修订版《医疗器械分类目录》（2025年版），自2026年1月1日起实施。主要变化包括更新了AI辅助诊断软件的分类规则、新增了组合产品条目，以及修订了多个器械类别的风险分类。制造商应根据新目录审查产品注册情况。"
+      },
+      "source_url": "https://www.nmpa.gov.cn/",
+      "source_name": "NMPA",
+      "published_date": "2025-05-01",
+      "detected_date": "2026-05-01T02:00:00Z",
+      "importance": "high",
+      "tags": ["NMPA", "Classification", "Catalogue"],
+      "related_docs": ["nmpa-regulations"],
+      "status": "published"
+    }
+  ]
+}
