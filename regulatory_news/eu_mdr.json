@@ -1,6 +1,6 @@
 {
   "framework": "eu_mdr",
-  "last_updated": "2026-06-30T10:00:00Z",
+  "last_updated": "2026-06-30T11:00:00Z",
   "items": [
     {
       "id": "eu_mdr_2026_cid_1231",
@@ -14,8 +14,8 @@
         "en": "Published 17 June 2026 (effective 11 June 2026), this decision amends Decision 2021/1182 and updates harmonised standard references across nine medical device categories: biological evaluation (EN ISO 10993-12:2021/A1:2025), labelling/symbols (EN ISO 15223-1:2021/A1:2025), electromedical equipment, transfusion equipment, ophthalmic optics, non-active surgical implants, washer-disinfectors, prostheses, and sharps injury protection. Manufacturers must review technical documentation, declarations of conformity, and test reports against updated standard references.",
         "zh": "2026年6月17日发布（6月11日生效），该决定修订了2021/1182号决定，更新了九大类别医疗器械协调标准引用：生物评价（EN ISO 10993-12:2021/A1:2025）、标签符号（EN ISO 15223-1:2021/A1:2025）、电气医用设备、输血设备、眼科光学、非有源外科植入物、清洗消毒器、假肢和锐器伤防护。制造商须审查技术文件、符合性声明及测试报告，确保引用最新标准版本。"
       },
-      "source_url": "https://cambioslegales.es/en/blog/eu-technical-standards-medical-devices-2026",
-      "source_name": "EUR-Lex / CambiosLegales",
+      "source_url": "https://eur-lex.europa.eu/eli/dec_impl/2026/1231/oj",
+      "source_name": "EUR-Lex",
       "published_date": "2026-06-17",
       "detected_date": "2026-06-17T12:00:00Z",
       "importance": "high",
@@ -35,8 +35,8 @@
         "en": "Published June 2026, MDCG 2026-4 transfers SSCP/SSP upload responsibility from Notified Bodies to manufacturers in EUDAMED. Key dates: from 28 May 2026 Notified Bodies continue uploading during transition; from October 2026 manufacturers take over direct upload; deadline 27 February 2027 for devices already on market. Manufacturers must upload master SS(C)P and translations, ensuring the uploaded version matches the one validated during certification.",
         "zh": "2026年6月发布，MDCG 2026-4 将 SSCP/SSP 上传职责从公告机构转移至制造商。关键时间节点：2026年5月28日起过渡期内公告机构继续上传；2026年10月起制造商直接上传；已上市器械截止日期为2027年2月27日。制造商须上传主版 SS(C)P 及翻译件，确保上传版本与认证时验证的版本一致。"
       },
-      "source_url": "https://mdlaw.eu/mdr/mdcg-2026-4-new-responsibilities-for-sscp-management-in-eudamed/",
-      "source_name": "MDCG / mdlaw.eu",
+      "source_url": "https://health.ec.europa.eu/document/download/a80332cf-e9f0-4d45-8863-3d96e8c2a675_en?filename=mdcg_2026-4_en.pdf",
+      "source_name": "European Commission",
       "published_date": "2026-06-02",
       "detected_date": "2026-06-05T12:00:00Z",
       "importance": "high",
