@@ -1,5 +1,160 @@
 {
   "framework": "australia_tga",
-  "last_updated": "2026-07-01T13:24:18Z",
-  "items": []
+  "last_updated": "2026-07-01T13:34:06Z",
+  "items": [
+    {
+      "id": "australia_tga_20260701_fda_australia_cooperative_agreement_regarding_exchange_of",
+      "framework": "australia_tga",
+      "category": "safety_communication",
+      "title": {
+        "en": "FDA-Australia Cooperative Agreement regarding Exchange of ...",
+        "zh": "FDA-Australia Cooperative Agreement regarding Exchange of ..."
+      },
+      "summary": {
+        "en": "Jan 30, 2018 ... Recalls, Market Withdrawals and Safety Alerts · Press Announcements ... Advice/information about a medical device, drug, food, or other FDA- ...",
+        "zh": "Jan 30, 2018 ... Recalls, Market Withdrawals and Safety Alerts · Press Announcements ... Advice/information about a medical device, drug, food, or other FDA- ..."
+      },
+      "source_url": "https://www.fda.gov/international-programs/cooperative-arrangements/fda-australia-cooperative-agreement-regarding-exchange-information-gmp-inspections-human",
+      "source_name": "FDA",
+      "published_date": "2026-07-01",
+      "detected_date": "2026-07-01T13:32:22Z",
+      "importance": "medium",
+      "tags": [],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "australia_tga_20260701_australia_s_tga_outlines_robust_strategy_for_regional_and_gl",
+      "framework": "australia_tga",
+      "category": "safety_communication",
+      "title": {
+        "en": "Australia's TGA Outlines Robust Strategy for Regional and Global Medical Product Engagement, Chairs IMDRF in 2022",
+        "zh": "澳大利亚TGA发布区域与全球医疗产品参与战略，担任2022年IMDRF主席"
+      },
+      "summary": {
+        "en": "The U.S. FDA announces Australia's Therapeutic Goods Administration (TGA) strategy for strengthening regional and global collaboration on medical product safety, including recalls, market withdrawals, and safety alerts. As the 2022 chair of the International Medical Device Regulators Forum (IMDRF), TGA aims to enhance regulatory convergence and address emerging device challenges. Medical device manufacturers and sponsors should monitor TGA-led initiatives as they may influence international compliance expectations and alert coordination.",
+        "zh": "美国FDA报道了澳大利亚药品管理局（TGA）为加强区域和全球医疗产品安全合作（涵盖召回、市场撤出和安全警示）所制定的战略。TGA作为2022年国际医疗器械监管机构论坛（IMDRF）主席，致力于促进法规趋同并应对新兴器械挑战。医疗器械制造商和申办方应关注TGA主导的倡议，因其可能影响国际合规预期和安全警报协调。"
+      },
+      "source_url": "https://www.fda.gov/international-programs/australias-robust-strategy-regional-and-global-medical-product-engagement",
+      "source_name": "FDA",
+      "published_date": "2026-07-01",
+      "detected_date": "2026-07-01T13:32:40Z",
+      "importance": "medium",
+      "tags": [
+        "australia_tga",
+        "imdrf",
+        "global_collaboration",
+        "medical_device_regulation",
+        "safety_alerts"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "australia_tga_20260701_fda_and_australia_s_tga_sign_confidentiality_commitment_to_s",
+      "framework": "australia_tga",
+      "category": "safety_communication",
+      "title": {
+        "en": "FDA and Australia's TGA Sign Confidentiality Commitment to Share Non-Public Information on Medical Devices and Other Products",
+        "zh": "美国FDA与澳大利亚TGA签署保密承诺，共享医疗器械等产品非公开信息"
+      },
+      "summary": {
+        "en": "On January 11, 2018, the U.S. FDA and Australia's Therapeutic Goods Administration (TGA) finalized a Confidentiality Commitment that permits the exchange of trade secrets and commercial confidential information regarding medical devices, drugs, food, and other regulated products. This arrangement supports joint regulatory activities such as recalls, market withdrawals, and safety alerts while safeguarding sensitive data. Medical device manufacturers should be aware that confidential information submitted to one agency may be shared with the other under this commitment to enhance post-market surveillance and public health protection.",
+        "zh": "2018年1月11日，美国FDA与澳大利亚药品管理局（TGA）达成保密承诺，允许双方在保护商业秘密和商业机密信息的前提下，交换有关医疗器械、药品、食品等受监管产品的非公开信息。该承诺支持召回、市场撤回和安全警报等联合监管活动，同时确保信息得到保护。医疗器械制造商需注意，根据该承诺，提交给其中一方的机密信息可能会与另一方共享，以加强上市后监管和公共健康保护。"
+      },
+      "source_url": "https://www.fda.gov/international-programs/confidentiality-commitments/tga-australia-fda-confidentiality-commitment",
+      "source_name": "FDA",
+      "published_date": "2026-07-01",
+      "detected_date": "2026-07-01T13:33:05Z",
+      "importance": "medium",
+      "tags": [
+        "confidentiality_commitment",
+        "fda_tga_cooperation",
+        "safety_alerts"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "australia_tga_20260701_fda_australia_tga_medical_device_gmp_inspection_information",
+      "framework": "australia_tga",
+      "category": "safety_communication",
+      "title": {
+        "en": "FDA-Australia TGA Medical Device GMP Inspection Information Exchange Arrangement",
+        "zh": "美国FDA与澳大利亚TGA达成医疗器械GMP检查信息交换安排"
+      },
+      "summary": {
+        "en": "On January 30, 2018, the FDA and Australia’s Therapeutic Goods Administration (TGA) established an arrangement to exchange medical device GMP inspection information. Under the agreement, TGA will upon request provide information from its inspections, including recalls, market withdrawals, and safety alerts. This cooperative exchange aims to improve regulatory efficiency and reduce duplicate inspections for manufacturers subject to both agencies' oversight.",
+        "zh": "2018年1月30日，美国FDA与澳大利亚治疗用品管理局（TGA）就医疗器械GMP检查信息交换达成合作安排。根据协议，TGA将应请求提供其检查中获得的信息，包括召回、市场撤回和安全警报。该安排旨在提高监管效率，减少两国监管下制造商的重复检查。"
+      },
+      "source_url": "https://www.fda.gov/international-programs/cooperative-arrangements/fda-australia-therapeutic-goods-administration-regarding-exchange-medical-device-gmp-inspectional",
+      "source_name": "FDA",
+      "published_date": "2026-07-01",
+      "detected_date": "2026-07-01T13:33:30Z",
+      "importance": "medium",
+      "tags": [
+        "gmp_inspection",
+        "information_exchange",
+        "mutual_recognition"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "australia_tga_20260701_fda_releases_medical_device_single_audit_program_mdsap_frequ",
+      "framework": "australia_tga",
+      "category": "regulation_update",
+      "title": {
+        "en": "FDA Releases Medical Device Single Audit Program (MDSAP) Frequently Asked Questions",
+        "zh": "FDA 发布医疗器械单一审核计划（MDSAP）常见问题解答"
+      },
+      "summary": {
+        "en": "The FDA has published a Frequently Asked Questions document providing clarity on the Medical Device Single Audit Program (MDSAP). This guidance explains how audits are conducted by authorized Auditing Organizations under MDSAP requirements, affecting medical device manufacturers seeking market access in participating jurisdictions such as Australia (TGA), the US, Canada, Japan, and Brazil. Manufacturers should review the document to understand audit processes, scope, and qualifications needed for compliance.",
+        "zh": "美国食品药品监督管理局（FDA）发布了一份常见问题解答文件，明确了医疗器械单一审核计划（MDSAP）的相关要求。该文件解释了由授权审核机构执行的审核流程，适用于希望通过澳大利亚TGA等参与成员国准入的医疗器械制造商。企业应仔细阅读该文件，以了解审核过程、范围及合规所需的资质条件。"
+      },
+      "source_url": "https://www.fda.gov/media/90179/download",
+      "source_name": "FDA",
+      "published_date": "2026-07-01",
+      "detected_date": "2026-07-01T13:33:44Z",
+      "importance": "medium",
+      "tags": [
+        "mdsap",
+        "medical_device",
+        "audit",
+        "faq",
+        "regulatory_guidance",
+        "tga"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "australia_tga_20260701_fda_releases_updated_medical_device_single_audit_program_mds",
+      "framework": "australia_tga",
+      "category": "regulation_update",
+      "title": {
+        "en": "FDA Releases Updated Medical Device Single Audit Program (MDSAP) Overview",
+        "zh": "FDA更新医疗器械单一审核程序（MDSAP）信息"
+      },
+      "summary": {
+        "en": "The U.S. FDA has updated its webpage for the Medical Device Single Audit Program (MDSAP), which allows a single regulatory audit by an MDSAP-recognized Auditing Organization to satisfy requirements of multiple jurisdictions. This update clarifies how manufacturers selling devices in participating countries (U.S., Canada, Japan, Brazil, Australia) can leverage MDSAP audits to streamline compliance and potentially replace routine FDA inspections. Manufacturers should review the revised content for current program details and enrollment guidance.",
+        "zh": "美国FDA更新了医疗器械单一审核程序（MDSAP）网页，该程序允许经认可的审核机构开展一次审核即可满足多个监管辖区的要求。本次更新明确了制造商如何利用MDSAP审核简化在参与国（美国、加拿大、日本、巴西、澳大利亚）的合规流程，并可能取代FDA常规检查。制造商应查阅最新内容，了解当前项目细节和注册指导。"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/cdrh-international-affairs/medical-device-single-audit-program-mdsap",
+      "source_name": "FDA",
+      "published_date": "2026-07-01",
+      "detected_date": "2026-07-01T13:34:06Z",
+      "importance": "medium",
+      "tags": [
+        "mdsap",
+        "fda",
+        "medical_device_audit",
+        "international_regulation",
+        "compliance",
+        "single_audit"
+      ],
+      "related_docs": [],
+      "status": "published"
+    }
+  ]
 }
