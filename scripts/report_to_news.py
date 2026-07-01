@@ -43,6 +43,9 @@ CATEGORY_MAP = {
     "fda/guidance": ("fda", "guidance_new"),
     "fda/regulations": ("fda", "regulation_update"),
     "fda/standards": ("fda", "standard_revision"),
+    "fda/safety": ("fda", "safety_communication"),
+    "fda/recall": ("fda", "recall_class1"),
+    "fda/cdrh_news": ("fda", "cdrh_news"),
     "nmpa/regulations": ("nmpa", "regulation_update"),
     "nmpa/guidance": ("nmpa", "guidance_new"),
     "nmpa/standards": ("nmpa", "standard_revision"),
@@ -54,6 +57,28 @@ def generate_item_id(framework: str, title: str, date: str) -> str:
     """Generate a stable item ID from framework + title keywords."""
     slug = re.sub(r"[^a-z0-9]+", "_", title.lower())[:60].strip("_")
     return f"{framework}_{date.replace('-','')[:8]}_{slug}"
+
+
+_CATEGORY_PROMPTS = {
+    "fda/safety": (
+        "This is an FDA Safety Communication -- a critical safety alert about medical devices. "
+        "The summary MUST cover: (1) what the safety issue is, (2) which devices/manufacturers are affected, "
+        "(3) what health risks are involved, (4) what patients/providers should do. "
+        "importance should almost always be 'high'."
+    ),
+    "fda/recall": (
+        "This is a Class I medical device recall -- the most serious type. "
+        "The summary MUST cover: (1) recalling firm and product, (2) reason for recall (health hazard), "
+        "(3) quantity and distribution, (4) recommended actions. "
+        "importance should always be 'high'."
+    ),
+    "fda/cdrh_news": (
+        "This is a CDRH (Center for Devices and Radiological Health) news item. "
+        "The summary should cover: (1) what was announced, (2) who is affected, "
+        "(3) key dates or deadlines, (4) actions needed by manufacturers. "
+        "importance: 'high' for new guidance/rules, 'medium' for town halls/updates."
+    ),
+}
 
 
 def call_llm_summary(title: str, note: str, items: list, category: str) -> Optional[dict]:
@@ -71,6 +96,10 @@ def call_llm_summary(title: str, note: str, items: list, category: str) -> Optio
         for it in items[:5]
     )
 
+    category_hint = _CATEGORY_PROMPTS.get(category, "")
+    if category_hint:
+        category_hint = f"\nSpecial instructions for this category:\n{category_hint}\n"
+
     prompt = f"""You are a medical device regulatory affairs expert. Based on the following detected regulatory update, generate a bilingual news summary.
 
 Detection info:
@@ -78,7 +107,7 @@ Detection info:
 - Detection note: {note}
 - Related items:
 {context_items}
-
+{category_hint}
 Generate a JSON object with these exact fields:
 {{
   "title_en": "Concise English title (max 120 chars)",
@@ -94,7 +123,7 @@ Rules:
 - Titles should be factual and specific (include document numbers, dates)
 - Summaries should be informative for regulatory affairs professionals
 - Tags should be lowercase_underscore format, relevant to medical device compliance
-- importance: "high" for new regulations/major guidance, "medium" for updates/revisions, "low" for minor changes
+- importance: "high" for new regulations/major guidance/safety alerts/Class I recalls, "medium" for updates/revisions, "low" for minor changes
 - source_url must be from an official government or standards body domain
 - Return ONLY the JSON object, no markdown"""
 
@@ -164,6 +193,8 @@ def build_news_item(update: dict, llm_result: Optional[dict]) -> Optional[dict]:
         source_name = "EUR-Lex"
     elif "ec.europa.eu" in source_url.lower():
         source_name = "European Commission"
+    elif "accessdata.fda.gov" in source_url.lower():
+        source_name = "FDA CDRH"
     elif "fda.gov" in source_url.lower():
         source_name = "FDA"
     elif "ecfr.gov" in source_url.lower():

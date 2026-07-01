@@ -134,6 +134,27 @@ SOURCES = {
             "category": "fda/regulations",
             "note": "Checks eCFR Versioner API for Title 21 amendment dates, scoped to Parts 800-898.",
         },
+        "safety_communications": {
+            "name": "FDA Medical Device Safety Communications",
+            "url": "https://www.fda.gov/medical-devices/medical-device-safety",
+            "check_type": "fda_safety_page",
+            "category": "fda/safety",
+            "note": "Scrapes FDA Medical Device Safety page for new safety communications.",
+        },
+        "enforcement_class1": {
+            "name": "FDA Class I Device Recalls (OpenFDA Enforcement)",
+            "url": "https://api.fda.gov/device/enforcement.json",
+            "check_type": "openfda_enforcement",
+            "category": "fda/recall",
+            "note": "OpenFDA enforcement API, filtered to Class I device recalls only.",
+        },
+        "cdrh_news": {
+            "name": "CDRH News and Updates",
+            "url": "https://www.fda.gov/medical-devices/medical-devices-news-and-events/cdrh-new-news-and-updates",
+            "check_type": "fda_cdrh_news",
+            "category": "fda/cdrh_news",
+            "note": "CDRH news page for regulatory announcements, town halls, and policy updates.",
+        },
     },
     "nmpa": {
         "cmde_guidance": {
@@ -1102,6 +1123,355 @@ class ECLatestUpdatesChecker:
 
 
 # ---------------------------------------------------------------------------
+# FDA Safety Communications page scraper
+# Scrapes the FDA Medical Device Safety page for new safety communications.
+# ---------------------------------------------------------------------------
+
+class FDASafetyRecallChecker:
+    """Checks OpenFDA device/recall.json for recently initiated recalls (all classes).
+
+    This replaces the web-scraping FDASafetyPageChecker because FDA pages are
+    protected by WAF (401). The OpenFDA recall API provides structured data
+    about all device recalls initiated in the past 14 days.
+
+    Complements FDARecallChecker (enforcement API, Class I only) by covering
+    Class II/III recalls and newly initiated events before enforcement action.
+    """
+
+    RECALL_URL = "https://api.fda.gov/device/recall.json"
+
+    def __init__(self, api_key: str, state: dict):
+        self.api_key = api_key
+        self.state = state
+
+    def check(self, source_id: str, source: dict) -> Optional[dict]:
+        prev = self.state.get(source_id, {})
+        seen_ids = set(prev.get("seen_res_numbers", []))
+
+        lookback = (datetime.now() - timedelta(days=30)).strftime("%Y%m%d")
+        today = datetime.now().strftime("%Y%m%d")
+
+        search_q = f'event_date_initiated:[{lookback} TO {today}]'
+        url = (
+            f"{self.RECALL_URL}"
+            f"?search={requests.utils.quote(search_q)}"
+            f"&sort=event_date_initiated:desc&limit=30"
+        )
+        if self.api_key:
+            url += f"&api_key={self.api_key}"
+
+        try:
+            resp = requests.get(url, timeout=20)
+            if resp.status_code == 404:
+                self.state[source_id] = {
+                    "url": source["url"],
+                    "last_checked": datetime.now().isoformat(),
+                    "seen_res_numbers": list(seen_ids),
+                }
+                return None
+            resp.raise_for_status()
+            results = resp.json().get("results", [])
+        except Exception as e:
+            print(f"    ERROR OpenFDA Recall: {e}")
+            return None
+
+        new_items = []
+        all_ids = list(seen_ids)
+
+        for r in results:
+            res_num = r.get("product_res_number") or r.get("res_event_number", "")
+            if not res_num or res_num in seen_ids:
+                continue
+            all_ids.append(res_num)
+
+            firm = r.get("recalling_firm", "Unknown")
+            product = (r.get("product_description") or "")[:120]
+            reason = r.get("reason_for_recall", "")
+            cfres_id = r.get("cfres_id", "")
+            init_date = r.get("event_date_initiated", "")
+
+            title = f"Device Recall: {firm} - {product}"
+            description = f"Recall {res_num}: {reason[:250]}"
+            link = (
+                f"https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm"
+                f"?id={cfres_id}"
+            ) if cfres_id else source["url"]
+
+            new_items.append({
+                "title": title,
+                "link": link,
+                "pub_date": self._format_date(init_date),
+                "description": description,
+                "res_number": res_num,
+                "recalling_firm": firm,
+            })
+
+        self.state[source_id] = {
+            "url": source["url"],
+            "last_checked": datetime.now().isoformat(),
+            "seen_res_numbers": all_ids[-500:],
+        }
+
+        if new_items and seen_ids:
+            result = _make_update(
+                source_id, source, "fda_safety_page",
+                f"{len(new_items)} new device recall(s) detected"
+            )
+            result["new_items"] = new_items
+            return result
+        elif not seen_ids:
+            print(f"    INFO: Baseline established ({len(results)} recent recalls indexed)")
+
+        return None
+
+    @staticmethod
+    def _format_date(date_str: str) -> str:
+        if len(date_str) == 8 and date_str.isdigit():
+            return f"{date_str[:4]}-{date_str[4:6]}-{date_str[6:8]}"
+        return date_str
+
+
+# ---------------------------------------------------------------------------
+# FDA Class I Recall checker via OpenFDA Enforcement API
+# Only retrieves Class I (most serious) device recalls.
+# ---------------------------------------------------------------------------
+
+class FDARecallChecker:
+    """Checks OpenFDA Enforcement API for new Class I medical device recalls.
+
+    Class I recalls are the most serious: reasonable probability that use of or
+    exposure to a product will cause serious adverse health consequences or death.
+    """
+
+    ENFORCEMENT_URL = "https://api.fda.gov/device/enforcement.json"
+
+    def __init__(self, api_key: str, state: dict):
+        self.api_key = api_key
+        self.state = state
+
+    def check(self, source_id: str, source: dict) -> Optional[dict]:
+        prev = self.state.get(source_id, {})
+        last_recall_nums = set(prev.get("seen_recall_numbers", []))
+
+        two_weeks_ago = (datetime.now() - timedelta(days=14)).strftime("%Y%m%d")
+        today = datetime.now().strftime("%Y%m%d")
+
+        search_q = (
+            f'classification:"Class I"'
+            f' AND report_date:[{two_weeks_ago} TO {today}]'
+        )
+        url = f"{self.ENFORCEMENT_URL}?search={requests.utils.quote(search_q)}&limit=20"
+        if self.api_key:
+            url += f"&api_key={self.api_key}"
+
+        try:
+            resp = requests.get(url, timeout=20)
+            if resp.status_code == 404:
+                self.state[source_id] = {
+                    "url": source["url"],
+                    "last_checked": datetime.now().isoformat(),
+                    "seen_recall_numbers": list(last_recall_nums),
+                }
+                return None
+            resp.raise_for_status()
+            results = resp.json().get("results", [])
+        except Exception as e:
+            print(f"    ERROR OpenFDA Enforcement: {e}")
+            return None
+
+        new_items = []
+        all_recall_nums = list(last_recall_nums)
+
+        for r in results:
+            recall_num = r.get("recall_number", "")
+            if not recall_num or recall_num in last_recall_nums:
+                continue
+            all_recall_nums.append(recall_num)
+
+            product_desc = r.get("product_description", "")[:200]
+            reason = r.get("reason_for_recall", "")
+            firm = r.get("recalling_firm", "")
+            report_date = r.get("report_date", "")
+            quantity = r.get("product_quantity", "")
+
+            title = f"Class I Recall: {firm} - {product_desc[:80]}"
+            description = (
+                f"Recall #{recall_num} by {firm}. "
+                f"Reason: {reason[:200]}. "
+                f"Quantity: {quantity}."
+            )
+
+            new_items.append({
+                "title": title,
+                "link": f"https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id={recall_num}",
+                "pub_date": self._format_date(report_date),
+                "description": description,
+                "recall_number": recall_num,
+                "recalling_firm": firm,
+                "classification": "Class I",
+                "reason": reason,
+                "product_quantity": quantity,
+            })
+
+        self.state[source_id] = {
+            "url": source["url"],
+            "last_checked": datetime.now().isoformat(),
+            "seen_recall_numbers": all_recall_nums[-500:],
+        }
+
+        if new_items and last_recall_nums:
+            result = _make_update(
+                source_id, source, "openfda_enforcement",
+                f"{len(new_items)} new Class I device recall(s) detected"
+            )
+            result["new_items"] = new_items
+            return result
+        elif not last_recall_nums:
+            print(f"    INFO: Baseline established ({len(results)} Class I recalls indexed)")
+
+        return None
+
+    @staticmethod
+    def _format_date(date_str: str) -> str:
+        """Convert YYYYMMDD to YYYY-MM-DD."""
+        if len(date_str) == 8 and date_str.isdigit():
+            return f"{date_str[:4]}-{date_str[4:6]}-{date_str[6:8]}"
+        return date_str
+
+
+# ---------------------------------------------------------------------------
+# CDRH News and Updates page checker
+# Scrapes the CDRH main news page for regulatory announcements.
+# ---------------------------------------------------------------------------
+
+class CDRHNewsChecker:
+    """Scrapes CDRH News and Updates page for regulatory announcements.
+
+    Captures: town halls, guidance announcements, policy updates, and other
+    CDRH communications relevant to medical device manufacturers.
+    """
+
+    CDRH_URL = "https://www.fda.gov/medical-devices/medical-devices-news-and-events/cdrh-new-news-and-updates"
+
+    _PRIORITY_KEYWORDS = re.compile(
+        r"(?i)(guidance|final\s+rule|proposed\s+rule|safety\s+communication|"
+        r"recall|cybersecurity|software|QMSR|510\(k\)|PMA|De\s*Novo|"
+        r"UDI|labeling|AI|machine\s+learning|real.world|SaMD|"
+        r"postmarket|premarket|clinical\s+investigation|town\s+hall)",
+    )
+
+    def __init__(self, session: requests.Session, state: dict):
+        self.session = session
+        self.state = state
+
+    def check(self, source_id: str, source: dict) -> Optional[dict]:
+        prev = self.state.get(source_id, {})
+        prev_titles = set(prev.get("seen_titles", []))
+
+        try:
+            resp = self.session.get(self.CDRH_URL, timeout=30)
+            if resp.status_code == 401:
+                print(f"    INFO: CDRH news page returned 401 (WAF block). "
+                      f"Falling back to OpenFDA guidance API coverage.")
+                self.state[source_id] = {
+                    "url": source["url"],
+                    "last_checked": datetime.now().isoformat(),
+                    "seen_titles": list(prev_titles),
+                    "status": "waf_blocked",
+                }
+                return None
+            resp.raise_for_status()
+        except Exception as e:
+            print(f"    ERROR fetching CDRH news: {e}")
+            return None
+
+        entries = self._parse_entries(resp.text)
+        if not entries:
+            print(f"    WARNING: No entries parsed from CDRH news page")
+            return None
+
+        print(f"    INFO: Parsed {len(entries)} entries from CDRH news page")
+
+        new_items = []
+        all_titles = list(prev_titles)
+
+        for entry in entries:
+            title = entry.get("title", "")
+            if not title or title in prev_titles:
+                continue
+            all_titles.append(title)
+            new_items.append({
+                "title": title,
+                "link": entry.get("link", ""),
+                "pub_date": entry.get("date", ""),
+                "description": entry.get("type", "CDRH News"),
+            })
+
+        self.state[source_id] = {
+            "url": source["url"],
+            "last_checked": datetime.now().isoformat(),
+            "seen_titles": all_titles[-200:],
+        }
+
+        if new_items and prev_titles:
+            result = _make_update(
+                source_id, source, "fda_cdrh_news",
+                f"{len(new_items)} new CDRH news/update(s) detected"
+            )
+            result["new_items"] = new_items
+            return result
+        elif not prev_titles:
+            print(f"    INFO: Baseline established ({len(entries)} CDRH news entries)")
+
+        return None
+
+    def _parse_entries(self, html: str) -> list[dict]:
+        """Parse news entries from CDRH News page."""
+        results = []
+        try:
+            from bs4 import BeautifulSoup
+            soup = BeautifulSoup(html, "html.parser")
+            for link in soup.find_all("a"):
+                href = link.get("href", "")
+                text = link.get_text(strip=True)
+                if not text or len(text) < 10:
+                    continue
+                if "/medical-devices/" in href and self._PRIORITY_KEYWORDS.search(text):
+                    if href.startswith("/"):
+                        href = "https://www.fda.gov" + href
+                    date_m = re.search(r"(\d{2}/\d{2}/\d{4})", text)
+                    date_str = date_m.group(1) if date_m else ""
+                    results.append({
+                        "title": text,
+                        "date": date_str,
+                        "link": href,
+                        "type": "CDRH News",
+                    })
+        except ImportError:
+            results = self._parse_entries_regex(html)
+        return results
+
+    def _parse_entries_regex(self, html: str) -> list[dict]:
+        """Fallback regex parser."""
+        results = []
+        link_re = re.compile(
+            r'<a[^>]*href="(/medical-devices/[^"]+)"[^>]*>(.*?)</a>',
+            re.DOTALL,
+        )
+        for m in link_re.finditer(html):
+            href = "https://www.fda.gov" + m.group(1)
+            title = re.sub(r"<[^>]+>", "", m.group(2)).strip()
+            if title and len(title) > 10 and self._PRIORITY_KEYWORDS.search(title):
+                results.append({
+                    "title": title,
+                    "date": "",
+                    "link": href,
+                    "type": "CDRH News",
+                })
+        return results
+
+
+# ---------------------------------------------------------------------------
 # EUR-Lex Amendment checker (replaces http_head for harmonised standards)
 # Checks consolidated decision URL date suffix for new amendments
 # ---------------------------------------------------------------------------
@@ -1312,6 +1682,9 @@ class UpdateChecker:
         self.eurlex = EURLexChecker(session, self.state)
         self.mdcg_scraper = MDCGPageChecker(session, self.state, self.db_comparator)
         self.ec_latest = ECLatestUpdatesChecker(session, self.state)
+        self.fda_safety = FDASafetyRecallChecker(FDA_API_KEY, self.state)
+        self.fda_recall = FDARecallChecker(FDA_API_KEY, self.state)
+        self.cdrh_news = CDRHNewsChecker(session, self.state)
         self.llm = LLMVersionAnalyzer(LLM_API_KEY, LLM_BASE_URL, LLM_MODEL)
         if self.vertex.available:
             print("INFO: Using Vertex AI Search (searchLite) for web queries.")
@@ -1364,6 +1737,12 @@ class UpdateChecker:
             return result
         elif check_type == "ecfr_api":
             return self.ecfr.check(source_id, source)
+        elif check_type == "fda_safety_page":
+            return self.fda_safety.check(source_id, source)
+        elif check_type == "openfda_enforcement":
+            return self.fda_recall.check(source_id, source)
+        elif check_type == "fda_cdrh_news":
+            return self.cdrh_news.check(source_id, source)
         elif check_type == "eurlex_amendment":
             return self.eurlex.check(source_id, source)
         else:
