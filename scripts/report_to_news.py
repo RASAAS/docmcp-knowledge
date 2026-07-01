@@ -50,6 +50,17 @@ CATEGORY_MAP = {
     "nmpa/guidance": ("nmpa", "guidance_new"),
     "nmpa/standards": ("nmpa", "standard_revision"),
     "_shared/standards": ("_shared", "standard_revision"),
+    # Tier 1 international markets
+    "uk_mhra/safety": ("uk_mhra", "safety_communication"),
+    "uk_mhra/regulations": ("uk_mhra", "regulation_update"),
+    "canada/safety": ("canada", "safety_communication"),
+    "canada/regulations": ("canada", "regulation_update"),
+    "australia_tga/safety": ("australia_tga", "safety_communication"),
+    "australia_tga/regulations": ("australia_tga", "regulation_update"),
+    "japan_pmda/regulations": ("japan_pmda", "regulation_update"),
+    "japan_pmda/safety": ("japan_pmda", "safety_communication"),
+    "korea_mfds/regulations": ("korea_mfds", "regulation_update"),
+    "korea_mfds/safety": ("korea_mfds", "safety_communication"),
 }
 
 
@@ -207,6 +218,18 @@ def build_news_item(update: dict, llm_result: Optional[dict]) -> Optional[dict]:
         source_name = "ISO"
     elif "iec.ch" in source_url.lower():
         source_name = "IEC"
+    elif "gov.uk" in source_url.lower():
+        source_name = "MHRA (UK)"
+    elif "canada.ca" in source_url.lower() or "recalls-rappels.canada.ca" in source_url.lower():
+        source_name = "Health Canada"
+    elif "tga.gov.au" in source_url.lower():
+        source_name = "TGA (Australia)"
+    elif "pmda.go.jp" in source_url.lower():
+        source_name = "PMDA (Japan)"
+    elif "mhlw.go.jp" in source_url.lower():
+        source_name = "MHLW (Japan)"
+    elif "mfds.go.kr" in source_url.lower():
+        source_name = "MFDS (Korea)"
 
     return {
         "id": item_id,

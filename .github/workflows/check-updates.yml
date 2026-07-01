@@ -2,7 +2,9 @@ name: Weekly Regulatory Update Check
 
 # Batched cron schedule (Beijing Time 03:00 = UTC 19:00 previous day):
 #   Mon 03:00 CST (Sun 19:00 UTC) -> EU MDR (EUR-Lex SPARQL API + EC Latest Updates)
+#   Tue 03:00 CST (Mon 19:00 UTC) -> Tier 1: UK MHRA + Canada + Australia TGA
 #   Wed 03:00 CST (Tue 19:00 UTC) -> FDA (RSS + eCFR API + OpenFDA API)
+#   Thu 03:00 CST (Wed 19:00 UTC) -> Tier 1: Japan PMDA + Korea MFDS
 #   Fri 03:00 CST (Thu 19:00 UTC) -> NMPA/CMDE (Vertex AI Search primary)
 #   1st of month 03:00 CST (prev 19:00 UTC) -> ISO/IEC shared standards
 # Scheduled during off-peak hours to minimize user impact from deploy restarts.
@@ -10,13 +12,15 @@ name: Weekly Regulatory Update Check
 on:
   schedule:
     - cron: '0 19 * * 0'   # Sun 19:00 UTC = Mon 03:00 CST: EU MDR
+    - cron: '0 19 * * 1'   # Mon 19:00 UTC = Tue 03:00 CST: UK + Canada + Australia
     - cron: '0 19 * * 2'   # Tue 19:00 UTC = Wed 03:00 CST: FDA
+    - cron: '0 19 * * 3'   # Wed 19:00 UTC = Thu 03:00 CST: Japan + Korea
     - cron: '0 19 * * 4'   # Thu 19:00 UTC = Fri 03:00 CST: NMPA
     - cron: '0 19 1 * *'   # 1st 19:00 UTC = 2nd 03:00 CST: Shared standards (ISO/IEC)
   workflow_dispatch:
     inputs:
       regulation_group:
-        description: 'Regulation group to check (eu_mdr/fda/nmpa/shared/all)'
+        description: 'Regulation group to check (eu_mdr/fda/nmpa/shared/uk_mhra/canada/australia_tga/japan_pmda/korea_mfds/tier1_west/tier1_east/all)'
         required: false
         default: 'all'
 
@@ -60,16 +64,20 @@ jobs:
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
             GROUP="${{ github.event.inputs.regulation_group }}"
           else
-            DAY=$(date +%u)   # UTC day: 7=Sun, 2=Tue, 4=Thu (maps to CST Mon/Wed/Fri)
+            DAY=$(date +%u)   # UTC day of week (1=Mon .. 7=Sun)
             DOM=$(date +%d)   # day of month
             if [ "$DOM" = "01" ]; then
               GROUP="shared"
             elif [ "$DAY" = "7" ]; then
-              GROUP="eu_mdr"
+              GROUP="eu_mdr"           # Sun UTC = Mon CST
+            elif [ "$DAY" = "1" ]; then
+              GROUP="tier1_west"       # Mon UTC = Tue CST: UK+CA+AU
             elif [ "$DAY" = "2" ]; then
-              GROUP="fda"
+              GROUP="fda"              # Tue UTC = Wed CST
+            elif [ "$DAY" = "3" ]; then
+              GROUP="tier1_east"       # Wed UTC = Thu CST: JP+KR
             elif [ "$DAY" = "4" ]; then
-              GROUP="nmpa"
+              GROUP="nmpa"             # Thu UTC = Fri CST
             else
               GROUP="all"
             fi

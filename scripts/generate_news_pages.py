@@ -17,21 +17,32 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 NEWS_DIR = REPO_ROOT / "regulatory_news"
 DOCS_DIR = REPO_ROOT / "docs"
 
-FRAMEWORKS = ["eu_mdr", "fda", "nmpa", "_shared"]
+FRAMEWORKS = [
+    "eu_mdr", "fda", "nmpa", "_shared",
+    "uk_mhra", "canada", "australia_tga", "japan_pmda", "korea_mfds",
+]
 
 FRAMEWORK_NAMES = {
     "eu_mdr": {"en": "EU MDR/IVDR", "zh": "EU MDR/IVDR"},
     "fda": {"en": "FDA", "zh": "FDA"},
     "nmpa": {"en": "NMPA", "zh": "NMPA"},
-    "_shared": {"en": "Shared Standards", "zh": "通用标准"},
+    "_shared": {"en": "ISO/IEC Standards", "zh": "ISO/IEC\u6807\u51c6"},
+    "uk_mhra": {"en": "UK MHRA", "zh": "UK MHRA"},
+    "canada": {"en": "Health Canada", "zh": "Health Canada"},
+    "australia_tga": {"en": "Australia TGA", "zh": "Australia TGA"},
+    "japan_pmda": {"en": "Japan PMDA", "zh": "Japan PMDA"},
+    "korea_mfds": {"en": "Korea MFDS", "zh": "Korea MFDS"},
 }
 
 CATEGORY_LABELS = {
-    "regulation_update": {"en": "Regulation Update", "zh": "法规更新"},
-    "guidance_new": {"en": "New Guidance", "zh": "新指南发布"},
-    "standard_revision": {"en": "Standard Revision", "zh": "标准修订"},
-    "recall": {"en": "Recall Notice", "zh": "召回通知"},
-    "notice": {"en": "Notice", "zh": "公告通知"},
+    "regulation_update": {"en": "Regulation Update", "zh": "\u6cd5\u89c4\u66f4\u65b0"},
+    "guidance_new": {"en": "New Guidance", "zh": "\u65b0\u6307\u5357\u53d1\u5e03"},
+    "standard_revision": {"en": "Standard Revision", "zh": "\u6807\u51c6\u4fee\u8ba2"},
+    "recall": {"en": "Recall Notice", "zh": "\u53ec\u56de\u901a\u77e5"},
+    "notice": {"en": "Notice", "zh": "\u516c\u544a\u901a\u77e5"},
+    "safety_communication": {"en": "Safety Communication", "zh": "\u5b89\u5168\u901a\u62a5"},
+    "product_approval": {"en": "Product Approval", "zh": "\u4ea7\u54c1\u5ba1\u6279"},
+    "enforcement": {"en": "Enforcement", "zh": "\u6267\u6cd5\u884c\u52a8"},
 }
 
 IMPORTANCE_EMOJI = {

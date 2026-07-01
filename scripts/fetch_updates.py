@@ -194,6 +194,76 @@ SOURCES = {
             "title_filter": r"YY[/T\s]*\d{4,5}|GB[/T\s]*\d{4,5}",
         },
     },
+    # ----- Tier 1: Core international markets -----
+    "uk_mhra": {
+        "drug_device_alerts": {
+            "name": "MHRA Drug & Device Alerts (GOV.UK Atom Feed)",
+            "url": "https://www.gov.uk/drug-device-alerts.atom",
+            "check_type": "atom_feed",
+            "category": "uk_mhra/safety",
+            "note": "FSN, safety info, recalls for medical devices in the UK.",
+        },
+        "mhra_news": {
+            "name": "MHRA Regulatory News (GOV.UK)",
+            "url": "https://www.gov.uk/government/organisations/medicines-and-healthcare-products-regulatory-agency.atom",
+            "check_type": "atom_feed",
+            "category": "uk_mhra/regulations",
+            "note": "MHRA press releases, guidance updates, consultations.",
+            "title_filter": r"(?i)(medical\s+device|device\s+safety|UKCA|conformity|clinical\s+investigation|IVD|SaMD|software|vigilance|field\s+safety|recall|adverse\s+incident)",
+        },
+    },
+    "canada": {
+        "recalls_safety": {
+            "name": "Health Canada Medical Device Recalls & Safety Alerts",
+            "url": "https://recalls-rappels.canada.ca/en/search/site?f%5B0%5D=category%3A509",
+            "check_type": "canada_recalls",
+            "category": "canada/safety",
+            "note": "Health Canada medical device recalls and safety alerts.",
+        },
+        "announcements": {
+            "name": "Health Canada Medical Device Announcements",
+            "url": "https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/activities/announcements.html",
+            "check_type": "generic_page",
+            "category": "canada/regulations",
+            "title_filter": r"(?i)(medical\s+device|device\s+regulation|device\s+licence|MDEL|guidance|class\s+[IViv]+|recall|safety\s+alert|market\s+authorization)",
+            "note": "Health Canada announcements on medical device regulations.",
+        },
+    },
+    "australia_tga": {
+        "safety_alerts": {
+            "name": "TGA Safety Alerts (RSS Feed)",
+            "url": "https://www.tga.gov.au/feeds/article/safety.xml",
+            "check_type": "rss",
+            "category": "australia_tga/safety",
+            "note": "TGA safety alerts and recalls for medical devices.",
+        },
+        "news": {
+            "name": "TGA News (RSS Feed)",
+            "url": "https://www.tga.gov.au/feeds/article/news.xml",
+            "check_type": "rss",
+            "category": "australia_tga/regulations",
+            "title_filter": r"(?i)(medical\s+device|IVD|device\s+classification|conformity|essential\s+principles|sponsor|listing|TGA\s+regulatory|vigilance)",
+            "note": "TGA regulatory news and updates.",
+        },
+    },
+    "japan_pmda": {
+        "whats_new_en": {
+            "name": "PMDA What's New (English)",
+            "url": "https://www.pmda.go.jp/english/0023.html",
+            "check_type": "pmda_page",
+            "category": "japan_pmda/regulations",
+            "note": "PMDA English page: regulatory updates, medical device approvals, safety.",
+        },
+    },
+    "korea_mfds": {
+        "news_en": {
+            "name": "MFDS Medical Device News (English)",
+            "url": "https://www.mfds.go.kr/eng/brd/m_61/list.do",
+            "check_type": "mfds_page",
+            "category": "korea_mfds/regulations",
+            "note": "MFDS English news: device regulations, KGMP, DMPA transition.",
+        },
+    },
     "shared": {
         "iso_tc210": {
             "name": "ISO TC 210 Medical Device Standards",
@@ -1472,6 +1542,524 @@ class CDRHNewsChecker:
 
 
 # ---------------------------------------------------------------------------
+# Generic Atom Feed checker (GOV.UK, MHRA, etc.)
+# Parses Atom XML feeds and detects new entries since last check.
+# ---------------------------------------------------------------------------
+
+class AtomFeedChecker:
+    """Parses Atom feeds (RFC 4287) for new entries since last check.
+
+    Covers: GOV.UK Atom feeds (MHRA, HSE), EU Atom feeds, etc.
+    """
+
+    def __init__(self, session: requests.Session, state: dict):
+        self.session = session
+        self.state = state
+
+    def check(self, source_id: str, source: dict) -> Optional[dict]:
+        url = source["url"]
+        prev = self.state.get(source_id, {})
+        prev_ids = set(prev.get("seen_ids", []))
+        title_filter = source.get("title_filter")
+
+        try:
+            resp = self.session.get(url, timeout=30)
+            resp.raise_for_status()
+        except Exception as e:
+            print(f"    ERROR Atom feed: {e}")
+            return None
+
+        entries = self._parse_atom(resp.content)
+        if not entries:
+            print(f"    WARNING: No entries parsed from Atom feed")
+            return None
+
+        print(f"    INFO: Parsed {len(entries)} entries from Atom feed")
+
+        new_items = []
+        all_ids = list(prev_ids)
+
+        for entry in entries:
+            eid = entry.get("id", entry.get("link", ""))
+            title = entry.get("title", "")
+            if not eid or eid in prev_ids:
+                continue
+            if title_filter and not re.search(title_filter, title, re.IGNORECASE):
+                continue
+            all_ids.append(eid)
+            new_items.append({
+                "title": title,
+                "link": entry.get("link", ""),
+                "pub_date": entry.get("updated", "")[:10],
+                "description": entry.get("summary", "")[:300],
+            })
+
+        self.state[source_id] = {
+            "url": url,
+            "last_checked": datetime.now().isoformat(),
+            "seen_ids": all_ids[-500:],
+        }
+
+        if new_items and prev_ids:
+            result = _make_update(
+                source_id, source, "atom_feed",
+                f"{len(new_items)} new Atom feed entry(ies) detected"
+            )
+            result["new_items"] = new_items
+            return result
+        elif not prev_ids:
+            print(f"    INFO: Baseline established ({len(entries)} Atom entries indexed)")
+
+        return None
+
+    def _parse_atom(self, content: bytes) -> list[dict]:
+        """Parse Atom XML feed into list of entry dicts."""
+        results = []
+        try:
+            root = ET.fromstring(content)
+            ns = {"atom": "http://www.w3.org/2005/Atom"}
+            for entry in root.findall("atom:entry", ns):
+                eid_el = entry.find("atom:id", ns)
+                title_el = entry.find("atom:title", ns)
+                updated_el = entry.find("atom:updated", ns)
+                summary_el = entry.find("atom:summary", ns)
+                link_el = entry.find("atom:link[@rel='alternate']", ns)
+                if link_el is None:
+                    link_el = entry.find("atom:link", ns)
+
+                results.append({
+                    "id": eid_el.text.strip() if eid_el is not None and eid_el.text else "",
+                    "title": title_el.text.strip() if title_el is not None and title_el.text else "",
+                    "updated": updated_el.text.strip() if updated_el is not None and updated_el.text else "",
+                    "summary": (summary_el.text or "").strip() if summary_el is not None else "",
+                    "link": link_el.get("href", "") if link_el is not None else "",
+                })
+        except ET.ParseError as e:
+            print(f"    ERROR parsing Atom XML: {e}")
+        return results
+
+
+# ---------------------------------------------------------------------------
+# Canada Health Canada Recalls checker
+# Uses recalls-rappels.canada.ca search page for device recalls/safety alerts.
+# ---------------------------------------------------------------------------
+
+class CanadaRecallsChecker:
+    """Checks Health Canada recalls and safety alerts for medical devices.
+
+    Scrapes the recalls-rappels.canada.ca search results page filtered
+    to category 509 (Medical Devices).
+    """
+
+    SEARCH_URL = "https://recalls-rappels.canada.ca/en/search/site"
+
+    def __init__(self, session: requests.Session, state: dict):
+        self.session = session
+        self.state = state
+
+    def check(self, source_id: str, source: dict) -> Optional[dict]:
+        prev = self.state.get(source_id, {})
+        prev_titles = set(prev.get("seen_titles", []))
+
+        try:
+            resp = self.session.get(
+                self.SEARCH_URL,
+                params={"f[0]": "category:509"},
+                timeout=30,
+            )
+            resp.raise_for_status()
+        except Exception as e:
+            print(f"    ERROR Canada Recalls: {e}")
+            return None
+
+        entries = self._parse_results(resp.text)
+        if not entries:
+            print(f"    WARNING: No entries from Canada Recalls page")
+            return None
+
+        print(f"    INFO: Parsed {len(entries)} entries from Canada Recalls")
+
+        new_items = []
+        all_titles = list(prev_titles)
+
+        for entry in entries:
+            title = entry.get("title", "")
+            if not title or title in prev_titles:
+                continue
+            all_titles.append(title)
+            new_items.append(entry)
+
+        self.state[source_id] = {
+            "url": source["url"],
+            "last_checked": datetime.now().isoformat(),
+            "seen_titles": all_titles[-300:],
+        }
+
+        if new_items and prev_titles:
+            result = _make_update(
+                source_id, source, "canada_recalls",
+                f"{len(new_items)} new Canada medical device recall(s)/alert(s)"
+            )
+            result["new_items"] = new_items
+            return result
+        elif not prev_titles:
+            print(f"    INFO: Baseline established ({len(entries)} recall entries)")
+
+        return None
+
+    def _parse_results(self, html: str) -> list[dict]:
+        """Parse search results from recalls-rappels.canada.ca."""
+        results = []
+        try:
+            from bs4 import BeautifulSoup
+            soup = BeautifulSoup(html, "html.parser")
+            for item in soup.select(".search-result, .views-row, article"):
+                link_el = item.find("a")
+                if not link_el:
+                    continue
+                title = link_el.get_text(strip=True)
+                href = link_el.get("href", "")
+                if href and not href.startswith("http"):
+                    href = "https://recalls-rappels.canada.ca" + href
+                date_el = item.find("time") or item.find(class_=re.compile(r"date|time"))
+                date_str = ""
+                if date_el:
+                    date_str = date_el.get("datetime", date_el.get_text(strip=True))[:10]
+                if title and len(title) > 5:
+                    results.append({
+                        "title": title,
+                        "link": href,
+                        "pub_date": date_str,
+                        "description": "",
+                    })
+        except ImportError:
+            link_re = re.compile(
+                r'<a[^>]*href="(/en/[^"]*)"[^>]*>(.*?)</a>', re.DOTALL
+            )
+            for m in link_re.finditer(html):
+                title = re.sub(r"<[^>]+>", "", m.group(2)).strip()
+                if title and len(title) > 5:
+                    results.append({
+                        "title": title,
+                        "link": "https://recalls-rappels.canada.ca" + m.group(1),
+                        "pub_date": "",
+                        "description": "",
+                    })
+        return results[:30]
+
+
+# ---------------------------------------------------------------------------
+# PMDA (Japan) What's New page checker
+# Parses the PMDA English "What's New" page for regulatory updates.
+# ---------------------------------------------------------------------------
+
+class PMDAChecker:
+    """Checks PMDA (Japan) What's New page for medical device regulatory updates.
+
+    Covers: safety alerts, approval notices, regulatory revisions, MHLW ordinances.
+    English page provides monthly-level updates; significant items are captured.
+    """
+
+    def __init__(self, session: requests.Session, state: dict):
+        self.session = session
+        self.state = state
+
+    def check(self, source_id: str, source: dict) -> Optional[dict]:
+        url = source["url"]
+        prev = self.state.get(source_id, {})
+        prev_titles = set(prev.get("seen_titles", []))
+
+        try:
+            resp = self.session.get(url, timeout=30)
+            resp.raise_for_status()
+        except Exception as e:
+            print(f"    ERROR PMDA: {e}")
+            return None
+
+        entries = self._parse_whats_new(resp.text)
+        if not entries:
+            print(f"    WARNING: No entries from PMDA What's New")
+            return None
+
+        print(f"    INFO: Parsed {len(entries)} entries from PMDA What's New")
+
+        new_items = []
+        all_titles = list(prev_titles)
+
+        for entry in entries:
+            title = entry.get("title", "")
+            if not title or title in prev_titles:
+                continue
+            all_titles.append(title)
+            new_items.append(entry)
+
+        self.state[source_id] = {
+            "url": url,
+            "last_checked": datetime.now().isoformat(),
+            "seen_titles": all_titles[-300:],
+        }
+
+        if new_items and prev_titles:
+            result = _make_update(
+                source_id, source, "pmda_page",
+                f"{len(new_items)} new PMDA update(s) detected"
+            )
+            result["new_items"] = new_items
+            return result
+        elif not prev_titles:
+            print(f"    INFO: Baseline established ({len(entries)} PMDA entries)")
+
+        return None
+
+    def _parse_whats_new(self, html: str) -> list[dict]:
+        """Parse PMDA What's New page for news entries."""
+        results = []
+        try:
+            from bs4 import BeautifulSoup
+            soup = BeautifulSoup(html, "html.parser")
+            for li in soup.select("ul li, .whatsnew li, .news-list li, dl dt, dl dd"):
+                links = li.find_all("a")
+                for a in links:
+                    title = a.get_text(strip=True)
+                    href = a.get("href", "")
+                    if not title or len(title) < 10:
+                        continue
+                    if href and not href.startswith("http"):
+                        href = "https://www.pmda.go.jp" + href
+                    date_m = re.search(r"(\d{4})[./\-](\d{1,2})[./\-](\d{1,2})", li.get_text())
+                    date_str = f"{date_m.group(1)}-{date_m.group(2).zfill(2)}-{date_m.group(3).zfill(2)}" if date_m else ""
+                    results.append({
+                        "title": title,
+                        "link": href,
+                        "pub_date": date_str,
+                        "description": "",
+                    })
+        except ImportError:
+            link_re = re.compile(r'<a[^>]*href="([^"]*)"[^>]*>(.*?)</a>', re.DOTALL)
+            for m in link_re.finditer(html):
+                title = re.sub(r"<[^>]+>", "", m.group(2)).strip()
+                href = m.group(1)
+                if title and len(title) > 10:
+                    if not href.startswith("http"):
+                        href = "https://www.pmda.go.jp" + href
+                    results.append({
+                        "title": title, "link": href,
+                        "pub_date": "", "description": "",
+                    })
+        return results[:30]
+
+
+# ---------------------------------------------------------------------------
+# MFDS (Korea) English news page checker
+# Parses the MFDS English news board for device regulatory updates.
+# ---------------------------------------------------------------------------
+
+class MFDSChecker:
+    """Checks MFDS (Korea) English news page for medical device regulatory updates.
+
+    Korea is transitioning from MFDS to DMPA (2026 reform).
+    Captures: KGMP updates, device classification changes, regulatory reforms.
+    """
+
+    def __init__(self, session: requests.Session, state: dict):
+        self.session = session
+        self.state = state
+
+    def check(self, source_id: str, source: dict) -> Optional[dict]:
+        url = source["url"]
+        prev = self.state.get(source_id, {})
+        prev_titles = set(prev.get("seen_titles", []))
+
+        try:
+            resp = self.session.get(url, timeout=30)
+            resp.raise_for_status()
+        except Exception as e:
+            print(f"    ERROR MFDS: {e}")
+            return None
+
+        entries = self._parse_news(resp.text)
+        if not entries:
+            print(f"    WARNING: No entries from MFDS news page")
+            return None
+
+        print(f"    INFO: Parsed {len(entries)} entries from MFDS news")
+
+        new_items = []
+        all_titles = list(prev_titles)
+
+        for entry in entries:
+            title = entry.get("title", "")
+            if not title or title in prev_titles:
+                continue
+            all_titles.append(title)
+            new_items.append(entry)
+
+        self.state[source_id] = {
+            "url": url,
+            "last_checked": datetime.now().isoformat(),
+            "seen_titles": all_titles[-300:],
+        }
+
+        if new_items and prev_titles:
+            result = _make_update(
+                source_id, source, "mfds_page",
+                f"{len(new_items)} new MFDS update(s) detected"
+            )
+            result["new_items"] = new_items
+            return result
+        elif not prev_titles:
+            print(f"    INFO: Baseline established ({len(entries)} MFDS entries)")
+
+        return None
+
+    _BASE_URL = "https://www.mfds.go.kr/eng/brd/m_61/"
+
+    def _parse_news(self, html: str) -> list[dict]:
+        """Parse MFDS English news board."""
+        results = []
+        try:
+            from bs4 import BeautifulSoup
+            soup = BeautifulSoup(html, "html.parser")
+            for a in soup.find_all("a", href=re.compile(r"view\.do")):
+                title = a.get_text(strip=True)
+                href = a.get("href", "")
+                if not title or len(title) < 10:
+                    continue
+                if href.startswith("./"):
+                    href = self._BASE_URL + href[2:]
+                elif href and not href.startswith("http"):
+                    href = self._BASE_URL + href
+                date_m = re.search(r"(\d{4})\s+\w+\s+(\d{1,2})", title)
+                date_str = ""
+                row = a.find_parent("tr")
+                if row:
+                    for td in row.find_all("td"):
+                        dm = re.search(r"(\d{4})[.\-/](\d{2})[.\-/](\d{2})", td.get_text())
+                        if dm:
+                            date_str = f"{dm.group(1)}-{dm.group(2)}-{dm.group(3)}"
+                            break
+                results.append({
+                    "title": title, "link": href,
+                    "pub_date": date_str, "description": "",
+                })
+        except ImportError:
+            link_re = re.compile(r'<a[^>]*href="(\./view\.do[^"]*)"[^>]*>(.*?)</a>', re.DOTALL)
+            for m in link_re.finditer(html):
+                title = re.sub(r"<[^>]+>", "", m.group(2)).strip()
+                href = m.group(1).replace("&amp;", "&")
+                if title and len(title) > 10:
+                    href = self._BASE_URL + href[2:]
+                    results.append({
+                        "title": title, "link": href,
+                        "pub_date": "", "description": "",
+                    })
+        return results[:30]
+
+
+# ---------------------------------------------------------------------------
+# Generic page checker (for simple announcement pages with links)
+# Used as fallback for pages without RSS/Atom/API support.
+# ---------------------------------------------------------------------------
+
+class GenericPageChecker:
+    """Scrapes a generic announcement/news page for new links.
+
+    Simple approach: extract all <a> tags with href, filter by title_filter,
+    detect new titles since last check. Works for most government news pages.
+    """
+
+    def __init__(self, session: requests.Session, state: dict):
+        self.session = session
+        self.state = state
+
+    def check(self, source_id: str, source: dict) -> Optional[dict]:
+        url = source["url"]
+        prev = self.state.get(source_id, {})
+        prev_titles = set(prev.get("seen_titles", []))
+        title_filter = source.get("title_filter")
+
+        try:
+            resp = self.session.get(url, timeout=30)
+            resp.raise_for_status()
+        except Exception as e:
+            print(f"    ERROR generic page: {e}")
+            return None
+
+        entries = self._parse_links(resp.text, url)
+        if not entries:
+            print(f"    WARNING: No entries from page {url}")
+            return None
+
+        print(f"    INFO: Parsed {len(entries)} entries from page")
+
+        new_items = []
+        all_titles = list(prev_titles)
+
+        for entry in entries:
+            title = entry.get("title", "")
+            if not title or title in prev_titles:
+                continue
+            if title_filter and not re.search(title_filter, title, re.IGNORECASE):
+                continue
+            all_titles.append(title)
+            new_items.append(entry)
+
+        self.state[source_id] = {
+            "url": url,
+            "last_checked": datetime.now().isoformat(),
+            "seen_titles": all_titles[-300:],
+        }
+
+        if new_items and prev_titles:
+            result = _make_update(
+                source_id, source, "generic_page",
+                f"{len(new_items)} new page item(s) detected"
+            )
+            result["new_items"] = new_items
+            return result
+        elif not prev_titles:
+            print(f"    INFO: Baseline established ({len(entries)} page entries)")
+
+        return None
+
+    def _parse_links(self, html: str, base_url: str) -> list[dict]:
+        """Extract meaningful links from an HTML page."""
+        results = []
+        parsed = urlparse(base_url)
+        base_domain = f"{parsed.scheme}://{parsed.netloc}"
+
+        try:
+            from bs4 import BeautifulSoup
+            soup = BeautifulSoup(html, "html.parser")
+            for a in soup.find_all("a"):
+                title = a.get_text(strip=True)
+                href = a.get("href", "")
+                if not title or len(title) < 10:
+                    continue
+                if href and not href.startswith("http"):
+                    href = base_domain + href
+                date_el = a.find_parent().find("time") if a.find_parent() else None
+                date_str = date_el.get("datetime", "")[:10] if date_el else ""
+                results.append({
+                    "title": title, "link": href,
+                    "pub_date": date_str, "description": "",
+                })
+        except ImportError:
+            link_re = re.compile(r'<a[^>]*href="([^"]*)"[^>]*>(.*?)</a>', re.DOTALL)
+            for m in link_re.finditer(html):
+                title = re.sub(r"<[^>]+>", "", m.group(2)).strip()
+                href = m.group(1)
+                if title and len(title) > 10:
+                    if not href.startswith("http"):
+                        href = base_domain + href
+                    results.append({
+                        "title": title, "link": href,
+                        "pub_date": "", "description": "",
+                    })
+        return results[:30]
+
+
+# ---------------------------------------------------------------------------
 # EUR-Lex Amendment checker (replaces http_head for harmonised standards)
 # Checks consolidated decision URL date suffix for new amendments
 # ---------------------------------------------------------------------------
@@ -1685,6 +2273,11 @@ class UpdateChecker:
         self.fda_safety = FDASafetyRecallChecker(FDA_API_KEY, self.state)
         self.fda_recall = FDARecallChecker(FDA_API_KEY, self.state)
         self.cdrh_news = CDRHNewsChecker(session, self.state)
+        self.atom_feed = AtomFeedChecker(session, self.state)
+        self.canada_recalls = CanadaRecallsChecker(session, self.state)
+        self.pmda = PMDAChecker(session, self.state)
+        self.mfds = MFDSChecker(session, self.state)
+        self.generic_page = GenericPageChecker(session, self.state)
         self.llm = LLMVersionAnalyzer(LLM_API_KEY, LLM_BASE_URL, LLM_MODEL)
         if self.vertex.available:
             print("INFO: Using Vertex AI Search (searchLite) for web queries.")
@@ -1743,6 +2336,16 @@ class UpdateChecker:
             return self.fda_recall.check(source_id, source)
         elif check_type == "fda_cdrh_news":
             return self.cdrh_news.check(source_id, source)
+        elif check_type == "atom_feed":
+            return self.atom_feed.check(source_id, source)
+        elif check_type == "canada_recalls":
+            return self.canada_recalls.check(source_id, source)
+        elif check_type == "pmda_page":
+            return self.pmda.check(source_id, source)
+        elif check_type == "mfds_page":
+            return self.mfds.check(source_id, source)
+        elif check_type == "generic_page":
+            return self.generic_page.check(source_id, source)
         elif check_type == "eurlex_amendment":
             return self.eurlex.check(source_id, source)
         else:
@@ -1892,8 +2495,15 @@ def main():
 
     checker = UpdateChecker()
 
+    updates = []
     if args.check_all:
         updates = checker.check_all()
+    elif args.check == "tier1_west":
+        for grp in ("uk_mhra", "canada", "australia_tga"):
+            updates.extend(checker.check_regulation(grp))
+    elif args.check == "tier1_east":
+        for grp in ("japan_pmda", "korea_mfds"):
+            updates.extend(checker.check_regulation(grp))
     else:
         updates = checker.check_regulation(args.check)
 
