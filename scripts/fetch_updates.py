@@ -234,18 +234,18 @@ SOURCES = {
             "name": "TGA Medical Device Safety Updates (via Search)",
             "url": "https://www.tga.gov.au/safety/safety-monitoring-and-information",
             "check_type": "google_search",
-            "google_query": "site:tga.gov.au medical device recall safety alert",
+            "google_query": "site:tga.gov.au medical device recall safety alert warning",
             "category": "australia_tga/safety",
-            "date_restrict": "m1",
+            "date_restrict": "m3",
             "note": "TGA medical device safety alerts and recalls via web search.",
         },
         "regulations": {
             "name": "TGA Medical Device Regulatory Updates (via Search)",
             "url": "https://www.tga.gov.au/products/medical-devices",
             "check_type": "google_search",
-            "google_query": "site:tga.gov.au medical device regulation essential principles classification",
+            "google_query": "site:tga.gov.au medical device regulation classification essential principles guidance",
             "category": "australia_tga/regulations",
-            "date_restrict": "m1",
+            "date_restrict": "m3",
             "title_filter": r"(?i)(medical\s+device|IVD|device\s+classification|conformity|essential\s+principles|sponsor|listing|TGA|vigilance|recall|post-market)",
             "note": "TGA regulatory updates via web search (RSS feeds inaccessible).",
         },
@@ -279,9 +279,9 @@ SOURCES = {
             "name": "MFDS Medical Device Regulatory Updates (via Search)",
             "url": "https://www.mfds.go.kr/eng/index.do",
             "check_type": "google_search",
-            "google_query": "site:mfds.go.kr medical device regulation KGMP DMPA approval 2026",
+            "google_query": "site:mfds.go.kr medical device regulation approval GMP safety",
             "category": "korea_mfds/regulations",
-            "date_restrict": "m1",
+            "date_restrict": "y1",
             "note": "MFDS medical device updates via web search.",
         },
     },
@@ -623,10 +623,12 @@ class RSSChecker:
 class GoogleSearchChecker:
     BASE_URL = "https://www.googleapis.com/customsearch/v1"
 
-    def __init__(self, api_key: str, engine_id: str, state: dict):
+    def __init__(self, api_key: str, engine_id: str, state: dict,
+                 seed_mode: bool = False):
         self.api_key = api_key
         self.engine_id = engine_id
         self.state = state
+        self.seed_mode = seed_mode
         self.available = bool(api_key and engine_id)
 
     def search(self, query: str, num: int = 10,
@@ -683,7 +685,10 @@ class GoogleSearchChecker:
         self.state[source_id] = {"url": source["url"],
                                   "last_checked": datetime.now().isoformat(),
                                   "seen_titles": all_titles[-100:]}
-        if new_items and prev_titles:
+        if new_items and (prev_titles or self.seed_mode):
+            if self.seed_mode and not prev_titles:
+                new_items = new_items[:10]
+                print(f"    INFO: Seed mode -- returning top {len(new_items)} results as initial news")
             result = _make_update(source_id, source, "google_search",
                                   f"{len(new_items)} new result(s) via Google Search")
             result["new_items"] = new_items
@@ -708,11 +713,13 @@ class VertexAISearchChecker:
         "/engines/{app_id}/servingConfigs/default_search:searchLite"
     )
 
-    def __init__(self, project_id: str, app_id: str, api_key: str, state: dict):
+    def __init__(self, project_id: str, app_id: str, api_key: str, state: dict,
+                 seed_mode: bool = False):
         self.project_id = project_id
         self.app_id = app_id
         self.api_key = api_key
         self.state = state
+        self.seed_mode = seed_mode
         self.available = bool(project_id and app_id and api_key)
 
     def search(self, query: str, num: int = 10) -> list:
@@ -792,7 +799,10 @@ class VertexAISearchChecker:
         self.state[source_id] = {"url": source["url"],
                                   "last_checked": datetime.now().isoformat(),
                                   "seen_titles": all_titles[-100:]}
-        if new_items and prev_titles:
+        if new_items and (prev_titles or self.seed_mode):
+            if self.seed_mode and not prev_titles:
+                new_items = new_items[:10]
+                print(f"    INFO: Seed mode -- returning top {len(new_items)} results as initial news")
             result = _make_update(source_id, source, "vertex_ai_search",
                                   f"{len(new_items)} new result(s) via Vertex AI Search")
             result["new_items"] = new_items
@@ -2331,9 +2341,9 @@ class UpdateChecker:
         self.rss = RSSChecker(session, self.state, seed_mode)
         self.vertex = VertexAISearchChecker(
             VERTEX_AI_PROJECT_ID, VERTEX_AI_SEARCH_APP_ID,
-            VERTEX_AI_SEARCH_API_KEY, self.state,
+            VERTEX_AI_SEARCH_API_KEY, self.state, seed_mode,
         )
-        self.google = GoogleSearchChecker("", "", self.state)  # DEPRECATED
+        self.google = GoogleSearchChecker("", "", self.state, seed_mode)  # DEPRECATED
         self.web_search_available = self.vertex.available
         self.openfda = OpenFDAChecker(FDA_API_KEY, self.state)
         self.ecfr = ECFRChecker(session, self.state)

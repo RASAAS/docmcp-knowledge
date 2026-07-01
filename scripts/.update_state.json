@@ -675,34 +675,6 @@
       "Device licence applications for diagnostic ultrasound systems and transducers: Notice to industry"
     ]
   },
-  "australia_tga/safety_updates": {
-    "url": "https://www.tga.gov.au/safety/safety-monitoring-and-information",
-    "last_checked": "2026-07-01T12:50:00.779370",
-    "seen_titles": [
-      "Medical Device Safety - FDA",
-      "Medical Device Recalls and Early Alerts - FDA",
-      "Communications Pilot to Enhance Medical Device Recall Program",
-      "Abbott Diabetes Care Removes Certain FreeStyle Libre 3 and ... - FDA",
-      "The FDA Safety Information and Adverse Event Reporting Program",
-      "Recalls Background and Definitions - FDA",
-      "Boston Scientific Updates Use Instructions for WATCHMAN ... - FDA",
-      "Automated Impella Controller Correction due to Cybersecurity Issue",
-      "Insulet Initiates Voluntary Medical Device Correction for ... - FDA",
-      "Intuitive Surgical Removes 8mm SureForm 30 Gray Reloads - FDA"
-    ]
-  },
-  "australia_tga/regulations": {
-    "url": "https://www.tga.gov.au/products/medical-devices",
-    "last_checked": "2026-07-01T12:50:02.235259",
-    "seen_titles": [
-      "MDCG 2021-24 Rev.1 Guidance on classification of medical devices",
-      "Artificial Intelligence in Software as a Medical Device - FDA",
-      "Software as a Medical Device (SaMD) - FDA",
-      "ISO 16142-1:2016(en), Medical devices",
-      "Provisions for Medical Device Registration and Filing",
-      "European Medical Devices Nomenclature (EMDN) - Public Health"
-    ]
-  },
   "japan_pmda/whats_new_en": {
     "url": "https://www.pmda.go.jp/english/0023.html",
     "last_checked": "2026-07-01T12:50:04.450911",
@@ -738,10 +710,5 @@
       "Public comments",
       "Public comments"
     ]
-  },
-  "korea_mfds/md_search": {
-    "url": "https://www.mfds.go.kr/eng/index.do",
-    "last_checked": "2026-07-01T12:51:09.405366",
-    "seen_titles": []
   }
 }
