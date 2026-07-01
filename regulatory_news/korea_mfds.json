@@ -1,5 +1,269 @@
 {
   "framework": "korea_mfds",
-  "last_updated": "",
-  "items": []
+  "last_updated": "2026-07-01T13:23:21Z",
+  "items": [
+    {
+      "id": "korea_mfds_20260701_fda_updates_class_i_and_class_ii_device_exemptions_from_510",
+      "framework": "korea_mfds",
+      "category": "regulation_update",
+      "title": {
+        "en": "FDA Updates Class I and Class II Device Exemptions from 510(k) Notification as of July 1, 2025",
+        "zh": "FDA于2025年7月1日更新豁免510(k)提交的I类和II类器械清单"
+      },
+      "summary": {
+        "en": "The FDA has issued an updated list of Class I and Class II medical devices that are exempt from premarket notification (510(k)) requirements, effective July 1, 2025. The guidance clarifies which device types do not require a 510(k) submission, while emphasizing that exempt devices must still comply with the Quality System (QS) regulation and other applicable requirements. Manufacturers should review the exemption criteria closely, as certain limitations and device-specific conditions still apply. This update helps regulatory professionals determine the most efficient pathway for market entry.",
+        "zh": "FDA已发布一份更新后的豁免上市前通知（510(k)）要求的I类和II类医疗器械清单，自2025年7月1日起生效。该指南明确了哪些器械类型无需提交510(k)，同时强调豁免器械仍需遵守质量体系（QS）法规及其他适用要求。器械厂商应仔细审查豁免标准，因为仍然存在特定的限制和器械专属条件。此次更新有助于法规事务专员确定最高效的市场准入路径。"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/classify-your-medical-device/class-i-and-class-ii-device-exemptions",
+      "source_name": "FDA",
+      "published_date": "2026-07-01",
+      "detected_date": "2026-07-01T13:20:48Z",
+      "importance": "medium",
+      "tags": [
+        "510k_exemption",
+        "fda_guidance",
+        "device_classification"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "korea_mfds_20260701_fda_updates_overview_of_in_vitro_diagnostic_ivd_regulation_p",
+      "framework": "korea_mfds",
+      "category": "regulation_update",
+      "title": {
+        "en": "FDA Updates Overview of In Vitro Diagnostic (IVD) Regulation Page",
+        "zh": "FDA更新体外诊断(IVD)法规概况页面"
+      },
+      "summary": {
+        "en": "The FDA has refreshed its explanatory webpage on the regulation of in vitro diagnostic devices, clarifying the risk-based classification system and the corresponding premarket pathways such as 510(k), De Novo, and PMA. The page serves as a reference for IVD manufacturers to understand which regulatory submission is required, particularly noting that most IVDs are Class II and require premarket notification. No new regulatory requirements are introduced, but the update helps stakeholders navigate existing compliance frameworks.",
+        "zh": "美国FDA更新了关于体外诊断(IVD)器械法规的说明页面，阐明了基于风险的分类体系以及510(k)、De Novo和PMA等相应的上市前路径。该页面供IVD制造商参考，可帮助了解所需的注册提交类型，特别是大多数IVD属于II类器械需进行上市前通知。本次更新未引入新法规要求，但有助于业界理解现有合规框架。"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/ivd-regulatory-assistance/overview-ivd-regulation",
+      "source_name": "FDA",
+      "published_date": "2026-07-01",
+      "detected_date": "2026-07-01T13:21:04Z",
+      "importance": "low",
+      "tags": [
+        "ivd_regulation",
+        "fda_overview",
+        "classification_pathways"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "korea_mfds_20260701_fda_issues_comprehensive_overview_of_medical_device_regulati",
+      "framework": "korea_mfds",
+      "category": "regulation_update",
+      "title": {
+        "en": "FDA Issues Comprehensive Overview of Medical Device Regulation: Registration, Listing, and Premarket Pathways",
+        "zh": "FDA发布医疗器械法规全面概览：涵盖注册、列名与上市前路径"
+      },
+      "summary": {
+        "en": "The FDA's Device Advice page provides a foundational overview of U.S. medical device regulation, covering establishment registration, device listing, premarket notification (510(k)) unless exempt, premarket approval (PMA), and investigational device requirements. It serves as a guide for manufacturers, importers, and other stakeholders to understand the basic regulatory framework. Key actions include determining device classification, completing registration and listing, and submitting the appropriate premarket submission. This resource is essential for ensuring compliance with FDA requirements before marketing a device.",
+        "zh": "FDA的Device Advice页面提供了美国医疗器械监管的基础概览，涵盖企业注册、器械列名、上市前通知（510(k)）（除非豁免）或上市前批准（PMA），以及研究用器械要求。它为制造商、进口商和其他利益相关方理解基本监管框架提供了指导。关键行动包括确定器械分类、完成注册和列名，并提交相应的上市前申请。该资源对于确保器械上市前符合FDA要求至关重要。"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-assistance/overview-device-regulation",
+      "source_name": "FDA",
+      "published_date": "2026-07-01",
+      "detected_date": "2026-07-01T13:21:22Z",
+      "importance": "medium",
+      "tags": [
+        "fda",
+        "overview",
+        "registration_and_listing",
+        "510k",
+        "pma",
+        "device_regulation"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "korea_mfds_20260701_fda_current_good_manufacturing_practice_cgmp_regulations_for",
+      "framework": "korea_mfds",
+      "category": "regulation_update",
+      "title": {
+        "en": "FDA Current Good Manufacturing Practice (CGMP) Regulations for Pharmaceutical Products",
+        "zh": "FDA现行药品生产质量管理规范(CGMP)法规"
+      },
+      "summary": {
+        "en": "The FDA's CGMP regulations establish minimum quality standards for the methods, facilities, and controls used in manufacturing, processing, and packing of drug products. All pharmaceutical manufacturers, including those of finished dosage forms and active pharmaceutical ingredients, must comply to ensure product safety, identity, strength, and purity. Key requirements include robust quality systems, process validation, thorough documentation, and investigation of deviations. Failure to meet CGMP can result in product being deemed adulterated and subject to regulatory enforcement.",
+        "zh": "FDA的CGMP法规为药品生产、加工和包装的方法、设施及控制设定了最低质量标准，确保产品安全、成分准确、效力可靠。所有制剂和原料药制造商均须遵守，包括建立严格的质量体系、验证关键工艺、保留完整记录并调查偏差。不合规可能被视为产品掺假，并面临监管执法措施。"
+      },
+      "source_url": "https://www.fda.gov/drugs/pharmaceutical-quality-resources/current-good-manufacturing-practice-cgmp-regulations",
+      "source_name": "FDA",
+      "published_date": "2026-07-01",
+      "detected_date": "2026-07-01T13:21:44Z",
+      "importance": "medium",
+      "tags": [
+        "cgmp",
+        "pharmaceutical_quality",
+        "fda_regulations"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "korea_mfds_20260701_fda_updates_historical_overview_of_medical_device_regulation",
+      "framework": "korea_mfds",
+      "category": "regulation_update",
+      "title": {
+        "en": "FDA Updates Historical Overview of Medical Device Regulation and Oversight in the United States",
+        "zh": "FDA更新美国医疗器械监管与监督历史概述"
+      },
+      "summary": {
+        "en": "The FDA has published an updated page tracing the history of medical device regulation in the U.S., from early legislation to current Good Manufacturing Practices (GMPs) and quality system requirements. This resource explains the evolution of the legal framework intended to provide reasonable assurance of device safety and effectiveness. It is intended for regulatory professionals, industry stakeholders, and the public seeking context on how FDA oversight has developed. No immediate compliance actions are required, but the page serves as a valuable reference for understanding current regulatory expectations.",
+        "zh": "FDA发布更新后的历史页面，回顾了美国医疗器械监管历程，涵盖从早期立法到现行良好生产规范（GMP）和质量体系要求。该页面阐释了旨在确保器械安全性与有效性合理保证的法律框架演变，适用于法规专业人士、行业相关方及公众。此次更新不涉及直接合规行动，但为理解现行监管预期提供了重要参考。"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/overview-device-regulation/history-medical-device-regulation-oversight-united-states",
+      "source_name": "FDA",
+      "published_date": "2026-07-01",
+      "detected_date": "2026-07-01T13:21:59Z",
+      "importance": "low",
+      "tags": [
+        "medical_device_regulation",
+        "fda_history",
+        "gmp",
+        "overview"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "korea_mfds_20260701_fda_finalizes_quality_management_system_regulation_qmsr_harm",
+      "framework": "korea_mfds",
+      "category": "regulation_update",
+      "title": {
+        "en": "FDA Finalizes Quality Management System Regulation (QMSR) Harmonizing with ISO 13485:2016",
+        "zh": "FDA发布最终质量管理体系法规(QMSR) 与ISO 13485:2016协调"
+      },
+      "summary": {
+        "en": "The FDA has issued the final Quality Management System Regulation (QMSR), amending 21 CFR Part 820 to align device CGMP requirements with ISO 13485:2016. This rule affects all medical device manufacturers and requires them to establish a quality management system consistent with the international standard. Key compliance activities include updating quality policies, design controls, risk management, and supplier management processes. The regulation becomes effective on February 2, 2026, with a transition period for implementation.",
+        "zh": "美国FDA发布最终版质量管理体系法规(QMSR)，修订21 CFR第820部分，使医疗器械CGMP要求与ISO 13485:2016国际标准协调一致。该法规影响所有医疗器械制造商，要求其建立符合国际标准的质量管理体系。关键合规行动包括更新质量方针、设计控制、风险管理和供应商管理流程。该法规将于2026年2月2日生效，并设有过渡期。"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/postmarket-requirements-devices/quality-management-system-regulation-qmsr",
+      "source_name": "FDA",
+      "published_date": "2026-07-01",
+      "detected_date": "2026-07-01T13:22:13Z",
+      "importance": "high",
+      "tags": [
+        "qmsr",
+        "iso_13485",
+        "quality_management_system"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "korea_mfds_20260701_fda_general_controls_for_medical_devices_qmsr_cgmp_and_inves",
+      "framework": "korea_mfds",
+      "category": "regulation_update",
+      "title": {
+        "en": "FDA General Controls for Medical Devices: QMSR, CGMP, and Investigational Device Exception",
+        "zh": "FDA医疗器械通用控制：QMSR与CGMP要求及研究性器械豁免"
+      },
+      "summary": {
+        "en": "This FDA resource explains the general controls applicable to medical devices, including the Quality Management System Regulation (QMSR) and Current Good Manufacturing Practices (CGMP). All devices, except those under an approved Investigational Device Exemption (IDE), must comply with these requirements. Manufacturers need to implement design controls, production process controls, and a robust quality management system to ensure safety and effectiveness.",
+        "zh": "该FDA资源阐述了医疗器械通用的控制要求，包括质量管理体系法规（QMSR）和现行良好生产规范（CGMP）。除已获批的研究性器械豁免（IDE）外，所有器械均须遵守这些规定。制造商须建立设计控制、生产流程控制以及充分的质量管理体系，以确保产品安全有效。"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/regulatory-controls/general-controls-medical-devices",
+      "source_name": "FDA",
+      "published_date": "2026-07-01",
+      "detected_date": "2026-07-01T13:22:31Z",
+      "importance": "medium",
+      "tags": [
+        "general_controls",
+        "qmsr",
+        "cgmp"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "korea_mfds_20260701_fda_issues_guidance_on_reporting_allegations_of_regulatory_m",
+      "framework": "korea_mfds",
+      "category": "regulation_update",
+      "title": {
+        "en": "FDA Issues Guidance on Reporting Allegations of Regulatory Misconduct for Medical Devices",
+        "zh": "FDA 发布医疗器械监管违规举报指南"
+      },
+      "summary": {
+        "en": "The FDA published a guidance on June 23, 2025, detailing procedures for reporting regulatory misconduct involving medical devices. Examples include marketing a device without proper 510(k) clearance or PMA, and importing unapproved devices. The guidance affects industry stakeholders, whistleblowers, and the public, outlining how to submit credible allegations to the agency.",
+        "zh": "FDA 于 2025 年 6 月 23 日发布了一份指南，详细说明了举报医疗器械监管违规的程序。违规示例包括在未获得适当 510(k) 许可或 PMA 批准的情况下销售器械，以及进口未批准器械。该指南影响行业相关方、举报人和公众，阐述了向该机构提交可信指控的方式。"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/medical-device-safety/reporting-allegations-regulatory-misconduct",
+      "source_name": "FDA",
+      "published_date": "2026-07-01",
+      "detected_date": "2026-07-01T13:22:42Z",
+      "importance": "medium",
+      "tags": [
+        "fda",
+        "medical_devices",
+        "regulatory_misconduct",
+        "allegations",
+        "510k",
+        "pma"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "korea_mfds_20260701_fda_s_quality_management_system_regulation_qmsr_becomes_effe",
+      "framework": "korea_mfds",
+      "category": "regulation_update",
+      "title": {
+        "en": "FDA's Quality Management System Regulation (QMSR) Becomes Effective on February 2, 2026",
+        "zh": "FDA质量体系法规(QMSR)于2026年2月2日正式生效"
+      },
+      "summary": {
+        "en": "The FDA's Quality Management System Regulation (QMSR) took effect on February 2, 2026, amending the current good manufacturing practice (CGMP) requirements for medical devices. This regulation aligns the FDA's quality system framework with ISO 13485:2016, affecting all medical device manufacturers subject to the QS regulation. Manufacturers must now ensure their quality management systems comply with the QMSR, replacing the previous Quality System (QS) regulation. The change aims to harmonize international standards and reduce regulatory burden.",
+        "zh": "FDA质量体系法规(QMSR)于2026年2月2日正式生效，对医疗器械现行良好生产规范(CGMP)要求进行了修订。该法规将FDA的质量体系框架与ISO 13485:2016国际标准接轨，影响所有受QS法规约束的医疗器械制造商。企业必须确保其质量体系符合QMSR要求，替代原有质量体系法规(QS Regulation)。此举旨在协调国际标准，减轻监管负担。"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-assistance/quality-and-compliance-medical-devices",
+      "source_name": "FDA",
+      "published_date": "2026-07-01",
+      "detected_date": "2026-07-01T13:22:56Z",
+      "importance": "high",
+      "tags": [
+        "quality_management_system",
+        "qmsr",
+        "fda",
+        "medical_devices",
+        "cgmp",
+        "iso_13485",
+        "compliance"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "korea_mfds_20260701_fda_modernization_of_cosmetics_regulation_act_mocra_overview",
+      "framework": "korea_mfds",
+      "category": "regulation_update",
+      "title": {
+        "en": "FDA Modernization of Cosmetics Regulation Act (MoCRA) Overview and Key Requirements",
+        "zh": "美国FDA《2022年化妆品监管现代化法案》(MoCRA) 概述与关键要求"
+      },
+      "summary": {
+        "en": "The Modernization of Cosmetics Regulation Act of 2022 (MoCRA) significantly expands FDA’s authority over cosmetics, introducing mandatory recall power, facility registration, product listing, and adverse event reporting. Cosmetic manufacturers, packers, and distributors must register facilities, list products with the FDA, and report serious adverse events within 15 days. The law also requires safety substantiation of products and maintenance of records, marking a major shift toward proactive cosmetics oversight.",
+        "zh": "《2022年化妆品监管现代化法案》(MoCRA) 大幅扩大 FDA 对化妆品的监管权限，引入强制召回、设施注册、产品列名和不良事件报告等要求。化妆品制造商、包装商和经销商须向 FDA 注册设施、列名产品，并在15日内报告严重不良事件。该法案还要求产品安全证实及记录保存，标志着化妆品监管向主动监管的重要转变。"
+      },
+      "source_url": "https://www.fda.gov/cosmetics/cosmetics-laws-regulations/modernization-cosmetics-regulation-act-2022-mocra",
+      "source_name": "FDA",
+      "published_date": "2026-07-01",
+      "detected_date": "2026-07-01T13:23:21Z",
+      "importance": "high",
+      "tags": [
+        "mocra",
+        "cosmetics_regulation",
+        "fda",
+        "adverse_event_reporting",
+        "safety_substantiation"
+      ],
+      "related_docs": [],
+      "status": "published"
+    }
+  ]
 }
