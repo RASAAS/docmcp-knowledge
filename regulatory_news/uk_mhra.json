@@ -1,1 +1,52 @@
-{"framework": "uk_mhra", "last_updated": "", "items": []}
+{
+  "framework": "uk_mhra",
+  "last_updated": "2026-07-01T11:18:41Z",
+  "items": [
+    {
+      "id": "uk_mhra_20260701_field_safety_notices_22_to_26_june_2026",
+      "framework": "uk_mhra",
+      "category": "safety_communication",
+      "title": {
+        "en": "Field Safety Notices: 22 to 26 June 2026",
+        "zh": "Field Safety Notices: 22 to 26 June 2026"
+      },
+      "summary": {
+        "en": "10 new Atom feed entry(ies) detected",
+        "zh": "10 new Atom feed entry(ies) detected"
+      },
+      "source_url": "https://www.gov.uk/drug-device-alerts/field-safety-notices-22-to-26-june-2026",
+      "source_name": "MHRA (UK)",
+      "published_date": "2026-07-01",
+      "detected_date": "2026-07-01T11:17:44Z",
+      "importance": "medium",
+      "tags": [],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "uk_mhra_20260701_mhra_updates_guidance_on_borderline_products_medical_devices",
+      "framework": "uk_mhra",
+      "category": "regulation_update",
+      "title": {
+        "en": "MHRA Updates Guidance on Borderline Products: Medical Devices and Other Products",
+        "zh": "MHRA更新边界产品（医疗器械与其他产品）指南"
+      },
+      "summary": {
+        "en": "The MHRA has published updated guidance on how it determines whether a borderline product is a medical device and which regulations apply. This guidance affects manufacturers, importers, and distributors of products at the boundary between medical devices and other regulated sectors (e.g., medicines, cosmetics, food). Stakeholders should review the new decision-making criteria to ensure proper classification and compliance with medical device regulations. While existing products are not immediately impacted, future borderline determinations will follow this updated framework.",
+        "zh": "英国药品和健康产品管理局（MHRA）发布了更新指南，阐明如何判定边界产品是否属于医疗器械以及适用何种法规。该指南影响处于医疗器械与药品、化妆品、食品等其他监管领域交界处的产品制造商、进口商和分销商。相关企业应审查新的决策标准，以确保产品正确分类并符合医疗器械法规。虽不会立即影响现有产品，但未来边界裁定将遵循此更新框架。"
+      },
+      "source_url": "https://www.gov.uk/government/publications/borderlines-with-medical-devices",
+      "source_name": "MHRA (UK)",
+      "published_date": "2026-07-01",
+      "detected_date": "2026-07-01T11:18:09Z",
+      "importance": "medium",
+      "tags": [
+        "borderline_products",
+        "medical_device_classification",
+        "mhra_guidance"
+      ],
+      "related_docs": [],
+      "status": "published"
+    }
+  ]
+}

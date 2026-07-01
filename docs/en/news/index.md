@@ -6,6 +6,38 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### Field Safety Notices: 22 to 26 June 2026
+
+**2026-07-01** | UK MHRA | Safety Communication | !! MEDIUM
+
+10 new Atom feed entry(ies) detected
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-22-to-26-june-2026)
+
+---
+
+### MHRA Updates Guidance on Borderline Products: Medical Devices and Other Products
+
+**2026-07-01** | UK MHRA | Regulation Update | !! MEDIUM
+
+The MHRA has published updated guidance on how it determines whether a borderline product is a medical device and which regulations apply. This guidance affects manufacturers, importers, and distributors of products at the boundary between medical devices and other regulated sectors (e.g., medicines, cosmetics, food). Stakeholders should review the new decision-making criteria to ensure proper classification and compliance with medical device regulations. While existing products are not immediately impacted, future borderline determinations will follow this updated framework.
+
+**Tags**: `borderline_products`, `medical_device_classification`, `mhra_guidance`
+
+[View Source (MHRA (UK))](https://www.gov.uk/government/publications/borderlines-with-medical-devices)
+
+---
+
+### Wu Xian Zhai brand Vegetable Beef (Sauce) recalled due to undeclared wheat and egg
+
+**2026-07-01** | Health Canada | Safety Communication | !! MEDIUM
+
+10 new Canada medical device recall(s)/alert(s)
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/wu-xian-zhai-brand-vegetable-beef-sauce-recalled-due-undeclared-wheat-and-egg)
+
+---
+
 ### EC Publishes Delegated Acts on Well-Established Technologies Under EU MDR
 
 **2026-06-30** | EU MDR/IVDR | Regulation Update | !!! HIGH
