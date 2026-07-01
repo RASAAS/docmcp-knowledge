@@ -518,5 +518,21 @@
       "Public comments",
       "Public comments"
     ]
+  },
+  "korea_mfds/news_en": {
+    "url": "https://www.mfds.go.kr/eng/brd/m_61/list.do",
+    "last_checked": "2026-07-01T10:46:22.053405",
+    "seen_titles": [
+      "[Press Release]MFDS Opens a New Era of Innovation in Medical Product Approval and Review(Target: 240-Day Approval)",
+      "[News Release on 2026 May 13] APFRAS 2026 Concludes with Tangible Progress in Regulatory Harmonization",
+      "[Press Release] MFDS to Host ‘The 6th Global Conference on Foodborne Antimicrobial Resistance’",
+      "[News Release on 2026 May 11] APFRAS 2026, Shaping the Future of Global Food Safety and K-Food",
+      "[Press Release] MFDS Leads CODEX Discussions on Food Additive Standards",
+      "MFDS Builds Trust for ‘K-Brand’ in Latin America...  Strengthening Food Safety Cooperation",
+      "WHO Recognizes Korea’s Food Safety Management System as ‘World-Class’ with Perfect Score",
+      "[Press Release] MFDS Shares zero foodborne illness expertise with APEC 2026 Shenzhen delegation",
+      "[Press Release] Korea Leads the World’s First International Guideline on the Assessment of Abuse and Dependence Potential of New Psychoactive Substances",
+      "[Press Release] Korean Beef and Pork Start Their Voyage to Singapore"
+    ]
   }
 }
