@@ -92,54 +92,53 @@ _CATEGORY_PROMPTS = {
 }
 
 
-def call_llm_summary(title: str, note: str, items: list, category: str) -> Optional[dict]:
-    """Call LLM to generate bilingual summary for a detected update."""
+def call_llm_summary_single(item: dict, category: str, context_note: str = "") -> Optional[dict]:
+    """Call LLM to generate bilingual summary for a SINGLE news item."""
     if not LLM_API_KEY:
         return None
 
     try:
-        import requests
+        import requests as _requests
     except ImportError:
         return None
 
-    context_items = "\n".join(
-        f"- {it.get('title', 'N/A')} | {it.get('link', '')} | {it.get('snippet', it.get('description', ''))[:200]}"
-        for it in items[:5]
-    )
+    title = item.get("title", "N/A")
+    link = item.get("link", "")
+    snippet = item.get("snippet", item.get("description", ""))[:400]
 
     category_hint = _CATEGORY_PROMPTS.get(category, "")
     if category_hint:
         category_hint = f"\nSpecial instructions for this category:\n{category_hint}\n"
 
-    prompt = f"""You are a medical device regulatory affairs expert. Based on the following detected regulatory update, generate a bilingual news summary.
+    prompt = f"""You are a medical device regulatory affairs expert. Generate a bilingual news summary for this SPECIFIC regulatory item.
 
-Detection info:
+Item info:
+- Title: {title}
+- URL: {link}
+- Description: {snippet}
 - Category: {category}
-- Detection note: {note}
-- Related items:
-{context_items}
+- Context: {context_note}
 {category_hint}
 Generate a JSON object with these exact fields:
 {{
-  "title_en": "Concise English title (max 120 chars)",
+  "title_en": "Concise English title (max 120 chars) -- be specific to THIS item",
   "title_zh": "Concise Chinese title (max 80 chars)",
-  "summary_en": "2-4 sentence English summary covering: what changed, effective date, who is affected, key actions needed",
+  "summary_en": "2-4 sentence English summary covering: what this specific item is about, who is affected, key actions needed",
   "summary_zh": "2-4 sentence Chinese summary covering the same points",
   "importance": "high|medium|low",
-  "tags": ["tag1", "tag2", "tag3"],
-  "source_url": "the most relevant official source URL from the items above"
+  "tags": ["tag1", "tag2", "tag3"]
 }}
 
 Rules:
-- Titles should be factual and specific (include document numbers, dates)
+- Title must be specific to THIS single item, not a summary of multiple items
+- If the title mentions a specific product, company, or document, include that
 - Summaries should be informative for regulatory affairs professionals
 - Tags should be lowercase_underscore format, relevant to medical device compliance
 - importance: "high" for new regulations/major guidance/safety alerts/Class I recalls, "medium" for updates/revisions, "low" for minor changes
-- source_url must be from an official government or standards body domain
 - Return ONLY the JSON object, no markdown"""
 
     try:
-        resp = requests.post(
+        resp = _requests.post(
             f"{LLM_BASE_URL.rstrip('/')}/chat/completions",
             headers={
                 "Authorization": f"Bearer {LLM_API_KEY}",
@@ -162,74 +161,63 @@ Rules:
         return None
 
 
-def build_news_item(update: dict, llm_result: Optional[dict]) -> Optional[dict]:
-    """Convert a fetch_updates detection into a RegulatoryNewsItem."""
-    category_key = update.get("category", "")
-    mapping = CATEGORY_MAP.get(category_key)
-    if not mapping:
-        print(f"  SKIP: unknown category {category_key}")
-        return None
+def _resolve_source_name(url: str) -> str:
+    """Resolve human-readable source name from URL domain."""
+    url_lower = url.lower()
+    for domain, name in [
+        ("eur-lex", "EUR-Lex"),
+        ("ec.europa.eu", "European Commission"),
+        ("accessdata.fda.gov", "FDA CDRH"),
+        ("fda.gov", "FDA"),
+        ("ecfr.gov", "eCFR"),
+        ("govinfo.gov", "Federal Register"),
+        ("nmpa.gov.cn", "NMPA"),
+        ("iso.org", "ISO"),
+        ("iec.ch", "IEC"),
+        ("gov.uk", "MHRA (UK)"),
+        ("recalls-rappels.canada.ca", "Health Canada"),
+        ("canada.ca", "Health Canada"),
+        ("tga.gov.au", "TGA (Australia)"),
+        ("pmda.go.jp", "PMDA (Japan)"),
+        ("mhlw.go.jp", "MHLW (Japan)"),
+        ("mfds.go.kr", "MFDS (Korea)"),
+    ]:
+        if domain in url_lower:
+            return name
+    return "Official Source"
 
-    framework, news_category = mapping
-    note = update.get("note", "")
-    items = update.get("new_items", update.get("db_confirmed_items", []))
-    check_type = update.get("check_type", "")
-    source_url = update.get("url", "")
+
+def build_news_item_from_single(
+    item: dict,
+    framework: str,
+    news_category: str,
+    check_type: str,
+    source_id: str,
+    llm_result: Optional[dict] = None,
+    fallback_url: str = "",
+) -> dict:
+    """Build one RegulatoryNewsItem from a SINGLE detection item."""
+    source_url = item.get("link", "") or fallback_url
 
     if llm_result:
-        title_en = llm_result.get("title_en", note[:120])
-        title_zh = llm_result.get("title_zh", note[:80])
-        summary_en = llm_result.get("summary_en", note)
-        summary_zh = llm_result.get("summary_zh", note)
+        title_en = llm_result.get("title_en", item.get("title", "")[:120])
+        title_zh = llm_result.get("title_zh", title_en)
+        summary_en = llm_result.get("summary_en", item.get("description", ""))
+        summary_zh = llm_result.get("summary_zh", summary_en)
         importance = llm_result.get("importance", "medium")
         tags = llm_result.get("tags", [])
-        if llm_result.get("source_url"):
-            source_url = llm_result["source_url"]
     else:
-        first_item = items[0] if items else {}
-        title_en = first_item.get("title", note[:120])
+        title_en = item.get("title", "Untitled")[:120]
         title_zh = title_en
-        summary_en = note
-        summary_zh = note
+        desc = item.get("description", "") or item.get("snippet", "")
+        summary_en = desc[:500] if desc else title_en
+        summary_zh = summary_en
         importance = "medium"
         tags = []
-        if first_item.get("link"):
-            source_url = first_item["link"]
 
+    pub_date = item.get("pub_date", "") or datetime.now().strftime("%Y-%m-%d")
     today = datetime.now().strftime("%Y-%m-%d")
     item_id = generate_item_id(framework, title_en, today)
-
-    source_name = "Official Source"
-    if "eur-lex" in source_url.lower():
-        source_name = "EUR-Lex"
-    elif "ec.europa.eu" in source_url.lower():
-        source_name = "European Commission"
-    elif "accessdata.fda.gov" in source_url.lower():
-        source_name = "FDA CDRH"
-    elif "fda.gov" in source_url.lower():
-        source_name = "FDA"
-    elif "ecfr.gov" in source_url.lower():
-        source_name = "eCFR"
-    elif "govinfo.gov" in source_url.lower():
-        source_name = "Federal Register"
-    elif "nmpa.gov.cn" in source_url.lower():
-        source_name = "NMPA"
-    elif "iso.org" in source_url.lower():
-        source_name = "ISO"
-    elif "iec.ch" in source_url.lower():
-        source_name = "IEC"
-    elif "gov.uk" in source_url.lower():
-        source_name = "MHRA (UK)"
-    elif "canada.ca" in source_url.lower() or "recalls-rappels.canada.ca" in source_url.lower():
-        source_name = "Health Canada"
-    elif "tga.gov.au" in source_url.lower():
-        source_name = "TGA (Australia)"
-    elif "pmda.go.jp" in source_url.lower():
-        source_name = "PMDA (Japan)"
-    elif "mhlw.go.jp" in source_url.lower():
-        source_name = "MHLW (Japan)"
-    elif "mfds.go.kr" in source_url.lower():
-        source_name = "MFDS (Korea)"
 
     return {
         "id": item_id,
@@ -238,8 +226,8 @@ def build_news_item(update: dict, llm_result: Optional[dict]) -> Optional[dict]:
         "title": {"en": title_en, "zh": title_zh},
         "summary": {"en": summary_en, "zh": summary_zh},
         "source_url": source_url,
-        "source_name": source_name,
-        "published_date": today,
+        "source_name": _resolve_source_name(source_url),
+        "published_date": pub_date if len(pub_date) == 10 else today,
         "detected_date": datetime.now().strftime("%Y-%m-%dT%H:%M:%SZ"),
         "importance": importance,
         "tags": tags,
@@ -247,8 +235,7 @@ def build_news_item(update: dict, llm_result: Optional[dict]) -> Optional[dict]:
         "status": "published",
         "_detection": {
             "check_type": check_type,
-            "source_id": update.get("source_id", ""),
-            "original_note": note,
+            "source_id": source_id,
         },
     }
 
@@ -311,24 +298,38 @@ def main():
             print(f"SKIP: {category_key} (no mapping)")
             continue
 
-        framework = mapping[0]
-        print(f"Processing: [{category_key}] {update.get('note', '')[:80]}")
+        framework, news_category = mapping
+        items = update.get("new_items", update.get("db_confirmed_items", []))
+        check_type = update.get("check_type", "")
+        source_id = update.get("source_id", "")
+        fallback_url = update.get("url", "")
+        note = update.get("note", "")
 
-        llm_result = None
-        if args.use_llm and LLM_API_KEY:
-            items = update.get("new_items", update.get("db_confirmed_items", []))
-            llm_result = call_llm_summary(
-                update.get("name", ""),
-                update.get("note", ""),
-                items,
-                category_key,
+        if not items:
+            print(f"SKIP: [{category_key}] no items")
+            continue
+
+        print(f"Processing: [{category_key}] {len(items)} item(s) -- {note[:60]}")
+
+        for idx, item in enumerate(items):
+            item_title = item.get("title", "")[:60]
+            print(f"  Item {idx + 1}/{len(items)}: {item_title}...")
+
+            llm_result = None
+            if args.use_llm and LLM_API_KEY:
+                llm_result = call_llm_summary_single(
+                    item, category_key, context_note=note,
+                )
+                if llm_result:
+                    print(f"    LLM: {llm_result.get('title_en', '')[:60]}")
+                time.sleep(1)
+
+            news_item = build_news_item_from_single(
+                item, framework, news_category,
+                check_type, source_id,
+                llm_result=llm_result,
+                fallback_url=fallback_url,
             )
-            if llm_result:
-                print(f"  LLM summary generated: {llm_result.get('title_en', '')[:60]}...")
-            time.sleep(1)
-
-        news_item = build_news_item(update, llm_result)
-        if news_item:
             new_by_framework.setdefault(framework, []).append(news_item)
 
     print(f"\n{'='*50}")

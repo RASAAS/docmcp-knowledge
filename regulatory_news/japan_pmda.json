@@ -1,32 +1,5 @@
 {
   "framework": "japan_pmda",
-  "last_updated": "2026-07-01T11:22:25Z",
-  "items": [
-    {
-      "id": "japan_pmda_20260701_pmda_publishes_10_new_regulatory_updates_june_25_2025",
-      "framework": "japan_pmda",
-      "category": "regulation_update",
-      "title": {
-        "en": "PMDA Publishes 10 New Regulatory Updates (June 25, 2025)",
-        "zh": "PMDA发布10项新法规更新（2025年6月25日）"
-      },
-      "summary": {
-        "en": "On June 25, 2025, Japan’s Pharmaceuticals and Medical Devices Agency (PMDA) posted 10 new updates to its official website, affecting the ‘Reviews and Related Services’ and ‘Consultations’ sections. Medical device manufacturers, importers, and in-country representatives should immediately review these changes for potential impacts on registration, quality management, and post-market requirements. The updates may include revised guidelines, consultation procedures, or administrative notices that require prompt compliance actions.",
-        "zh": "2025年6月25日，日本药品和医疗器械管理局（PMDA）在其官方网站上发布了10项新更新，涉及“审查及相关服务”和“咨询”板块。医疗器械制造商、进口商及国内市场代表应立即审查这些变更，以评估其对注册、质量管理和上市后要求的潜在影响。更新内容可能包括修订后的指南、咨询程序或行政通知，需要及时采取合规措施。"
-      },
-      "source_url": "https://www.pmda.go.jp/index.html",
-      "source_name": "PMDA (Japan)",
-      "published_date": "2026-07-01",
-      "detected_date": "2026-07-01T11:22:25Z",
-      "importance": "medium",
-      "tags": [
-        "pmda",
-        "regulatory_update",
-        "medical_devices",
-        "japan"
-      ],
-      "related_docs": [],
-      "status": "published"
-    }
-  ]
+  "last_updated": "",
+  "items": []
 }

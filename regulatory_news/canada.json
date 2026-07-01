@@ -1,27 +1,5 @@
 {
   "framework": "canada",
-  "last_updated": "2026-07-01T11:18:41Z",
-  "items": [
-    {
-      "id": "canada_20260701_wu_xian_zhai_brand_vegetable_beef_sauce_recalled_due_to_unde",
-      "framework": "canada",
-      "category": "safety_communication",
-      "title": {
-        "en": "Wu Xian Zhai brand Vegetable Beef (Sauce) recalled due to undeclared wheat and egg",
-        "zh": "Wu Xian Zhai brand Vegetable Beef (Sauce) recalled due to undeclared wheat and egg"
-      },
-      "summary": {
-        "en": "10 new Canada medical device recall(s)/alert(s)",
-        "zh": "10 new Canada medical device recall(s)/alert(s)"
-      },
-      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/wu-xian-zhai-brand-vegetable-beef-sauce-recalled-due-undeclared-wheat-and-egg",
-      "source_name": "Health Canada",
-      "published_date": "2026-07-01",
-      "detected_date": "2026-07-01T11:18:41Z",
-      "importance": "medium",
-      "tags": [],
-      "related_docs": [],
-      "status": "published"
-    }
-  ]
+  "last_updated": "",
+  "items": []
 }

@@ -230,20 +230,24 @@ SOURCES = {
         },
     },
     "australia_tga": {
-        "safety_alerts": {
-            "name": "TGA Safety Alerts (RSS Feed)",
-            "url": "https://www.tga.gov.au/feeds/article/safety.xml",
-            "check_type": "rss",
+        "safety_updates": {
+            "name": "TGA Medical Device Safety Updates (via Search)",
+            "url": "https://www.tga.gov.au/safety/safety-monitoring-and-information",
+            "check_type": "google_search",
+            "google_query": "site:tga.gov.au medical device recall safety alert",
             "category": "australia_tga/safety",
-            "note": "TGA safety alerts and recalls for medical devices.",
+            "date_restrict": "m1",
+            "note": "TGA medical device safety alerts and recalls via web search.",
         },
-        "news": {
-            "name": "TGA News (RSS Feed)",
-            "url": "https://www.tga.gov.au/feeds/article/news.xml",
-            "check_type": "rss",
+        "regulations": {
+            "name": "TGA Medical Device Regulatory Updates (via Search)",
+            "url": "https://www.tga.gov.au/products/medical-devices",
+            "check_type": "google_search",
+            "google_query": "site:tga.gov.au medical device regulation essential principles classification",
             "category": "australia_tga/regulations",
-            "title_filter": r"(?i)(medical\s+device|IVD|device\s+classification|conformity|essential\s+principles|sponsor|listing|TGA\s+regulatory|vigilance)",
-            "note": "TGA regulatory news and updates.",
+            "date_restrict": "m1",
+            "title_filter": r"(?i)(medical\s+device|IVD|device\s+classification|conformity|essential\s+principles|sponsor|listing|TGA|vigilance|recall|post-market)",
+            "note": "TGA regulatory updates via web search (RSS feeds inaccessible).",
         },
     },
     "japan_pmda": {
@@ -261,7 +265,24 @@ SOURCES = {
             "url": "https://www.mfds.go.kr/eng/brd/m_61/list.do",
             "check_type": "mfds_page",
             "category": "korea_mfds/regulations",
-            "note": "MFDS English news: device regulations, KGMP, DMPA transition.",
+            "title_filter": r"(?i)(medical\s+device|device\s+approval|medical\s+product|GMP|KGMP|DMPA|digital\s+medical|IVD|in\s+vitro|SaMD|software\s+as|UDI|clinical\s+trial|pre-?market|post-?market)",
+            "note": "MFDS English news filtered for medical devices only.",
+        },
+        "md_regulations": {
+            "name": "MFDS Medical Device Regulations Page",
+            "url": "https://www.mfds.go.kr/eng/brd/m_40/list.do",
+            "check_type": "mfds_page",
+            "category": "korea_mfds/regulations",
+            "note": "MFDS medical device regulations, guidance, GMP standards.",
+        },
+        "md_search": {
+            "name": "MFDS Medical Device Regulatory Updates (via Search)",
+            "url": "https://www.mfds.go.kr/eng/index.do",
+            "check_type": "google_search",
+            "google_query": "site:mfds.go.kr medical device regulation KGMP DMPA approval 2026",
+            "category": "korea_mfds/regulations",
+            "date_restrict": "m1",
+            "note": "MFDS medical device updates via web search.",
         },
     },
     "shared": {
@@ -1654,11 +1675,21 @@ class AtomFeedChecker:
 class CanadaRecallsChecker:
     """Checks Health Canada recalls and safety alerts for medical devices.
 
-    Scrapes the recalls-rappels.canada.ca search results page filtered
-    to category 509 (Medical Devices).
+    Uses the official Open Data JSON dataset from recalls-rappels.canada.ca.
+    Medical device records are identified by 'Recall class' using 'Type I/II/III'
+    (food/consumer products use 'Class 1/2/3' instead).
     """
 
-    SEARCH_URL = "https://recalls-rappels.canada.ca/en/search/site"
+    DATA_URL = "https://recalls-rappels.canada.ca/sites/default/files/opendata-donneesouvertes/HCRSAMOpenData.json"
+
+    _MEDICAL_DEVICE_CATEGORIES = {
+        "Anaesthesiology", "Cardiovascular", "Chemistry", "Dental",
+        "Ear, nose and throat", "Gastroenterology and urology",
+        "General and plastic surgery", "General hospital and personal use",
+        "In vitro diagnostics", "Microbiology", "Neurology",
+        "Obstetrics and gynaecology", "Ophthalmology", "Orthopaedics",
+        "Radiology", "Physical medicine",
+    }
 
     def __init__(self, session: requests.Session, state: dict,
                  seed_mode: bool = False):
@@ -1666,98 +1697,82 @@ class CanadaRecallsChecker:
         self.state = state
         self.seed_mode = seed_mode
 
+    _EXCLUDE_CATEGORIES = {"Drugs", "Alcoholic", "Dairy", "Herbs and spices",
+                            "Other", "Candy, confectionary, snacks and sweeten"}
+
+    def _is_medical_device(self, record: dict) -> bool:
+        category = record.get("Category", "") or ""
+        if any(ec in category for ec in self._EXCLUDE_CATEGORIES):
+            return False
+        recall_class = record.get("Recall class", "") or ""
+        if "Type " in recall_class:
+            return True
+        return any(mc in category for mc in self._MEDICAL_DEVICE_CATEGORIES)
+
     def check(self, source_id: str, source: dict) -> Optional[dict]:
         prev = self.state.get(source_id, {})
-        prev_titles = set(prev.get("seen_titles", []))
+        prev_nids = set(str(n) for n in prev.get("seen_nids", []))
 
         try:
-            resp = self.session.get(
-                self.SEARCH_URL,
-                params={"f[0]": "category:509"},
-                timeout=30,
-            )
+            resp = self.session.get(self.DATA_URL, timeout=60)
             resp.raise_for_status()
+            all_records = resp.json()
         except Exception as e:
-            print(f"    ERROR Canada Recalls: {e}")
+            print(f"    ERROR Canada Open Data: {e}")
             return None
 
-        entries = self._parse_results(resp.text)
-        if not entries:
-            print(f"    WARNING: No entries from Canada Recalls page")
-            return None
+        cutoff = (datetime.now() - timedelta(days=90)).strftime("%Y-%m-%d")
+        md_records = []
+        for r in all_records:
+            if not self._is_medical_device(r):
+                continue
+            updated = r.get("Last updated", "") or ""
+            if updated >= cutoff:
+                md_records.append(r)
 
-        print(f"    INFO: Parsed {len(entries)} entries from Canada Recalls")
+        print(f"    INFO: {len(md_records)} medical device records in last 90 days (from {len(all_records)} total)")
 
         new_items = []
-        all_titles = list(prev_titles)
+        all_nids = list(prev_nids)
 
-        for entry in entries:
-            title = entry.get("title", "")
-            if not title or title in prev_titles:
+        for r in md_records:
+            nid = str(r.get("NID", ""))
+            if not nid or nid in prev_nids:
                 continue
-            all_titles.append(title)
-            new_items.append(entry)
+            all_nids.append(nid)
+            title = r.get("Title", "Untitled")
+            url = r.get("URL", "")
+            if url and not url.startswith("http"):
+                url = "https://recalls-rappels.canada.ca" + url
+            new_items.append({
+                "title": title,
+                "link": url,
+                "pub_date": (r.get("Last updated", "") or "")[:10],
+                "description": (r.get("Issue", "") or "")[:400],
+                "recall_class": r.get("Recall class", ""),
+                "category": r.get("Category", ""),
+            })
 
         self.state[source_id] = {
-            "url": source["url"],
+            "url": self.DATA_URL,
             "last_checked": datetime.now().isoformat(),
-            "seen_titles": all_titles[-300:],
+            "seen_nids": all_nids[-1000:],
         }
 
-        if new_items and (prev_titles or self.seed_mode):
-            if self.seed_mode and not prev_titles:
+        if new_items and (prev_nids or self.seed_mode):
+            if self.seed_mode and not prev_nids:
                 new_items = new_items[:10]
-                print(f"    INFO: Seed mode -- returning top {len(new_items)} entries as initial news")
+                print(f"    INFO: Seed mode -- returning top {len(new_items)} medical device entries")
             result = _make_update(
                 source_id, source, "canada_recalls",
                 f"{len(new_items)} new Canada medical device recall(s)/alert(s)"
             )
             result["new_items"] = new_items
             return result
-        elif not prev_titles:
-            print(f"    INFO: Baseline established ({len(entries)} recall entries)")
+        elif not prev_nids:
+            print(f"    INFO: Baseline established ({len(md_records)} medical device records)")
 
         return None
-
-    def _parse_results(self, html: str) -> list[dict]:
-        """Parse search results from recalls-rappels.canada.ca."""
-        results = []
-        try:
-            from bs4 import BeautifulSoup
-            soup = BeautifulSoup(html, "html.parser")
-            for item in soup.select(".search-result, .views-row, article"):
-                link_el = item.find("a")
-                if not link_el:
-                    continue
-                title = link_el.get_text(strip=True)
-                href = link_el.get("href", "")
-                if href and not href.startswith("http"):
-                    href = "https://recalls-rappels.canada.ca" + href
-                date_el = item.find("time") or item.find(class_=re.compile(r"date|time"))
-                date_str = ""
-                if date_el:
-                    date_str = date_el.get("datetime", date_el.get_text(strip=True))[:10]
-                if title and len(title) > 5:
-                    results.append({
-                        "title": title,
-                        "link": href,
-                        "pub_date": date_str,
-                        "description": "",
-                    })
-        except ImportError:
-            link_re = re.compile(
-                r'<a[^>]*href="(/en/[^"]*)"[^>]*>(.*?)</a>', re.DOTALL
-            )
-            for m in link_re.finditer(html):
-                title = re.sub(r"<[^>]+>", "", m.group(2)).strip()
-                if title and len(title) > 5:
-                    results.append({
-                        "title": title,
-                        "link": "https://recalls-rappels.canada.ca" + m.group(1),
-                        "pub_date": "",
-                        "description": "",
-                    })
-        return results[:30]
 
 
 # ---------------------------------------------------------------------------
@@ -1888,6 +1903,7 @@ class MFDSChecker:
         url = source["url"]
         prev = self.state.get(source_id, {})
         prev_titles = set(prev.get("seen_titles", []))
+        title_filter = source.get("title_filter")
 
         try:
             resp = self.session.get(url, timeout=30)
@@ -1896,12 +1912,19 @@ class MFDSChecker:
             print(f"    ERROR MFDS: {e}")
             return None
 
-        entries = self._parse_news(resp.text)
+        base_url = self._detect_base_url(url)
+        entries = self._parse_news(resp.text, base_url)
         if not entries:
-            print(f"    WARNING: No entries from MFDS news page")
+            print(f"    WARNING: No entries from MFDS page ({url})")
             return None
 
-        print(f"    INFO: Parsed {len(entries)} entries from MFDS news")
+        print(f"    INFO: Parsed {len(entries)} entries from MFDS page")
+
+        if title_filter:
+            before = len(entries)
+            entries = [e for e in entries
+                       if re.search(title_filter, e.get("title", ""), re.IGNORECASE)]
+            print(f"    INFO: {len(entries)} entries after title filter (from {before})")
 
         new_items = []
         all_titles = list(prev_titles)
@@ -1934,10 +1957,15 @@ class MFDSChecker:
 
         return None
 
-    _BASE_URL = "https://www.mfds.go.kr/eng/brd/m_61/"
+    @staticmethod
+    def _detect_base_url(url: str) -> str:
+        """Extract base URL from the board list page URL."""
+        m = re.match(r"(https://www\.mfds\.go\.kr/eng/brd/m_\d+/)", url)
+        return m.group(1) if m else "https://www.mfds.go.kr/eng/brd/m_61/"
 
-    def _parse_news(self, html: str) -> list[dict]:
-        """Parse MFDS English news board."""
+    @staticmethod
+    def _parse_news(html: str, base_url: str) -> list[dict]:
+        """Parse MFDS English board page (supports m_40, m_41, m_61)."""
         results = []
         try:
             from bs4 import BeautifulSoup
@@ -1947,19 +1975,31 @@ class MFDSChecker:
                 href = a.get("href", "")
                 if not title or len(title) < 10:
                     continue
+                href = href.replace("&amp;", "&")
                 if href.startswith("./"):
-                    href = self._BASE_URL + href[2:]
+                    href = base_url + href[2:]
                 elif href and not href.startswith("http"):
-                    href = self._BASE_URL + href
-                date_m = re.search(r"(\d{4})\s+\w+\s+(\d{1,2})", title)
+                    href = base_url + href
                 date_str = ""
-                row = a.find_parent("tr")
+                date_in_title = re.search(
+                    r"(\d{4})[.\s]+(?:January|February|March|April|May|June|July|August|September|October|November|December|Jan|Feb|Mar|Apr|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s+(\d{1,2})",
+                    title,
+                )
+                if date_in_title:
+                    pass
+                row = a.find_parent("tr") or a.find_parent("li")
                 if row:
-                    for td in row.find_all("td"):
-                        dm = re.search(r"(\d{4})[.\-/](\d{2})[.\-/](\d{2})", td.get_text())
+                    for el in row.find_all(["td", "span", "p"]):
+                        dm = re.search(r"(\d{4})[.\-/](\d{2})[.\-/](\d{2})", el.get_text())
                         if dm:
                             date_str = f"{dm.group(1)}-{dm.group(2)}-{dm.group(3)}"
                             break
+                if not date_str:
+                    dm_raw = re.search(r"(\d{4})-(\d{2})-(\d{2})", html[html.find(title[:20]):html.find(title[:20])+500] if title[:20] in html else "")
+                    if dm_raw:
+                        date_str = f"{dm_raw.group(1)}-{dm_raw.group(2)}-{dm_raw.group(3)}"
+                if href.endswith("down.do") or "/down.do?" in href:
+                    continue
                 results.append({
                     "title": title, "link": href,
                     "pub_date": date_str, "description": "",
@@ -1970,12 +2010,19 @@ class MFDSChecker:
                 title = re.sub(r"<[^>]+>", "", m.group(2)).strip()
                 href = m.group(1).replace("&amp;", "&")
                 if title and len(title) > 10:
-                    href = self._BASE_URL + href[2:]
+                    href = base_url + href[2:]
                     results.append({
                         "title": title, "link": href,
                         "pub_date": "", "description": "",
                     })
-        return results[:30]
+        seen = set()
+        deduped = []
+        for r in results:
+            key = r["title"][:50]
+            if key not in seen:
+                seen.add(key)
+                deduped.append(r)
+        return deduped[:30]
 
 
 # ---------------------------------------------------------------------------
