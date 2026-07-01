@@ -743,5 +743,15 @@
       "Medical Device Single Audit Program Frequently Asked Questions",
       "Medical Device Single Audit Program (MDSAP) - FDA"
     ]
+  },
+  "korea_mfds/md_search": {
+    "url": "https://www.mfds.go.kr/eng/index.do",
+    "last_checked": "2026-07-01T13:42:42.469700",
+    "seen_titles": []
+  },
+  "korea_mfds/global_news": {
+    "url": "https://www.mfds.go.kr/eng/index.do",
+    "last_checked": "2026-07-01T13:42:44.134991",
+    "seen_titles": []
   }
 }
