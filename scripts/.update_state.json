@@ -713,29 +713,35 @@
   },
   "australia_tga/safety_updates": {
     "url": "https://www.tga.gov.au/safety/safety-monitoring-and-information",
-    "last_checked": "2026-07-01T13:18:49.876894",
+    "last_checked": "2026-07-01T13:31:37.567026",
     "seen_titles": [
       "Medical Device Safety - FDA",
       "Medical Device Recalls and Early Alerts - FDA",
+      "Automated Impella Controller Correction due to Cybersecurity Issue",
+      "The FDA Safety Information and Adverse Event Reporting Program",
+      "AXIOS Stent and Electrocautery Enhanced Delivery System - FDA",
+      "Insulet Initiates Voluntary Medical Device Correction for ... - FDA",
+      "Intuitive Surgical Removes 8mm SureForm 30 Gray Reloads - FDA",
+      "Boston Scientific Updates Use Instructions for WATCHMAN ... - FDA",
       "Abbott Diabetes Care Removes Certain FreeStyle Libre 3 and ... - FDA",
       "Communications Pilot to Enhance Medical Device Recall Program",
-      "Insulet Initiates Voluntary Medical Device Correction for ... - FDA",
-      "The FDA Safety Information and Adverse Event Reporting Program",
-      "Automated Impella Controller Correction due to Cybersecurity Issue",
-      "Boston Scientific Updates Use Instructions for WATCHMAN ... - FDA",
-      "Intuitive Surgical Removes 8mm SureForm 30 Gray Reloads - FDA",
-      "AXIOS Stent and Electrocautery Enhanced Delivery System - FDA"
+      "FDA-Australia Cooperative Agreement regarding Exchange of ...",
+      "Australia's Robust Strategy for Regional and Global Medical Product ...",
+      "TGA Australia - FDA, Confidentiality Commitment",
+      "FDA - Therapeutic Goods, Australia, Medical Device GMP ..."
     ]
   },
   "australia_tga/regulations": {
     "url": "https://www.tga.gov.au/products/medical-devices",
-    "last_checked": "2026-07-01T13:18:51.737827",
+    "last_checked": "2026-07-01T13:31:39.159740",
     "seen_titles": [
       "MDCG 2021-24 Rev.1 Guidance on classification of medical devices",
-      "Artificial Intelligence in Software as a Medical Device - FDA",
       "Software as a Medical Device (SaMD) - FDA",
       "ISO 16142-1:2016(en), Medical devices",
-      "Medical Device Classification Product Codes - Guidance for ... - FDA"
+      "Medical Device Classification Product Codes - Guidance for ... - FDA",
+      "Artificial Intelligence in Software as a Medical Device - FDA",
+      "Medical Device Single Audit Program Frequently Asked Questions",
+      "Medical Device Single Audit Program (MDSAP) - FDA"
     ]
   }
 }
