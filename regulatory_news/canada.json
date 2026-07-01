@@ -1,5 +1,270 @@
 {
   "framework": "canada",
-  "last_updated": "",
-  "items": []
+  "last_updated": "2026-07-01T13:09:48Z",
+  "items": [
+    {
+      "id": "canada_20260701_health_canada_safety_alert_abiomed_introducer_kits_with_impe",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Safety Alert: Abiomed Introducer Kits with Impella Heart Pumps – Performance Issue",
+        "zh": "加拿大卫生部警示：Abiomed Impella心脏泵导入套件存在性能问题"
+      },
+      "summary": {
+        "en": "Health Canada has issued a safety recall/alert for specific Abiomed Introducer Kits used with Impella heart pumps due to a performance issue. The performance defect may impact device insertion, function, or patient safety during cardiac procedures. Affected healthcare facilities should immediately check the Health Canada alert, identify and quarantine the recalled lots, and follow the manufacturer’s instructions for return or disposal.",
+        "zh": "加拿大卫生部对与Impella心脏泵配套使用的特定Abiomed导入套件发布安全警示，涉及性能问题。该性能缺陷可能在心脏手术中影响装置导入、功能或患者安全。受影响的医疗机构应立即查阅警示，识别并隔离相关批次，并按制造商指示进行退回或废弃处理。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/abiomed-introducer-kits-impella-heart-pumps",
+      "source_name": "Health Canada",
+      "published_date": "2026-06-29",
+      "detected_date": "2026-07-01T13:04:14Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "impella_heart_pump",
+        "performance_issue"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260701_argon_medical_devices_l_cath_picc_and_midline_catheters_reca",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Argon Medical Devices L-Cath™ PICC and Midline Catheters Recall Due to Performance Issue",
+        "zh": "Argon L-Cath™ PICC及Midline导管因性能问题召回"
+      },
+      "summary": {
+        "en": "Health Canada has issued a recall for Argon Medical Devices' L-Cath™ PICC and Midline Catheters due to a performance issue that may affect catheter function. The affected devices could pose risks such as catheter breakage, leakage, or failure during use, potentially leading to patient harm. Healthcare facilities should immediately identify and quarantine impacted lots, and follow the manufacturer's instructions for return or disposal.",
+        "zh": "加拿大卫生部发布了Argon Medical Devices公司L-Cath™ PICC和Midline导管的召回通知，原因是性能问题可能影响导管功能。受影响的产品存在导管断裂、渗漏或使用中失效的风险，可能对患者造成伤害。医疗机构应立即识别并隔离相关批次，并按照制造商指示进行退货或处理。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/argon-medical-devices-cathtm-picc-and-midline-catheters",
+      "source_name": "Health Canada",
+      "published_date": "2026-06-24",
+      "detected_date": "2026-07-01T13:04:34Z",
+      "importance": "high",
+      "tags": [
+        "canada_recall",
+        "picc_catheter",
+        "midline_catheter",
+        "performance_issue",
+        "argon_medical"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260701_health_canada_issues_recall_for_uhi_4_high_flow_insufflation",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Issues Recall for UHI-4 High Flow Insufflation System Insufflator Due to Performance Problems",
+        "zh": "加拿大卫生部因性能问题召回UHI-4高流量气腹机"
+      },
+      "summary": {
+        "en": "Health Canada has issued a recall for the UHI-4 High Flow Insufflation System Insufflator due to performance issues that may compromise device function. The recall affects all healthcare facilities using this insufflator in laparoscopic or endoscopic procedures. Users should immediately quarantine affected units, identify all stock, and contact the manufacturer for corrective actions. No adverse events have been confirmed at this time, but the device may present a risk to patient safety if performance degradation occurs during surgery.",
+        "zh": "加拿大卫生部因性能问题对UHI-4高流量气腹系统（气腹机）实施召回，该问题可能影响设备正常工作。本次召回涉及所有在腹腔镜或内窥镜手术中使用该气腹机的医疗机构。使用者应立即隔离受影响产品，清查库存，并联系制造商采取纠正措施。目前尚未确认相关不良事件，但若手术期间设备性能下降，可能对患者安全构成风险。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/uhi-4-high-flow-insufflation-system-insufflator-0",
+      "source_name": "Health Canada",
+      "published_date": "2026-06-24",
+      "detected_date": "2026-07-01T13:04:52Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "insufflator",
+        "performance_failure",
+        "health_canada",
+        "surgical_safety"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260701_health_canada_recalls_abbott_s_infinion_cx_contact_lead_kit",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Recalls Abbott's Infinion™ CX Contact Lead Kit Over Performance Concerns",
+        "zh": "加拿大卫生部因性能问题召回雅培Infinion™ CX接触导线套件"
+      },
+      "summary": {
+        "en": "Health Canada has issued a recall for the Infinion™ CX Contact Lead Kit, a component of Abbott's spinal cord stimulation system, due to performance issues that may compromise device functionality. Affected products include all lots of the lead kit, which are used by healthcare providers to deliver neuromodulation therapy. The recall advises immediate identification and quarantine of unused kits, along with enhanced monitoring of patients already implanted with the lead. This alert is part of a broader update involving 10 new medical device recalls in Canada.",
+        "zh": "加拿大卫生部已对雅培公司生产的Infinion™ CX接触导线套件发出召回通知，该产品是脊髓神经刺激系统的组成部分，因性能问题可能导致器械功能失效。受影响范围涵盖所有批次，相关医疗机构需立即识别并隔离未使用的套件，并对已植入导线的患者加强随访监测。此次警告是加拿大10项新医疗器械召回中的一项。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/infiniontm-cx-contact-lead-kit",
+      "source_name": "Health Canada",
+      "published_date": "2026-06-24",
+      "detected_date": "2026-07-01T13:05:09Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "neuromodulation",
+        "lead_kit",
+        "performance_issue",
+        "canada_safety_alert"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260701_health_canada_recalls_hoffmann_ii_carbon_connecting_rod_due",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Recalls Hoffmann® II Carbon Connecting Rod Due to Performance Issue",
+        "zh": "加拿大卫生部因性能问题召回Hoffmann® II碳纤维连接杆"
+      },
+      "summary": {
+        "en": "Health Canada has issued a recall for the Hoffmann® II Carbon Connecting Rod, an orthopaedic implant component, due to performance issues that may compromise device functionality and patient safety. Affected healthcare facilities and surgeons must immediately cease use of the recalled devices and follow the manufacturer's return or disposal instructions. This safety alert underscores the need for prompt inventory quarantine and adherence to adverse event reporting protocols.",
+        "zh": "加拿大卫生部因性能问题召回了Hoffmann® II碳纤维连接杆（骨科植入物组件），该问题可能影响器械功能和患者安全。受影响的医疗机构和外科医生须立即停止使用该产品，并按照制造商指示进行退回或处理。此安全警告旨在强调需要迅速隔离库存并遵守不良事件报告程序。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/hoffmannr-ii-carbon-connecting-rod",
+      "source_name": "Health Canada",
+      "published_date": "2026-06-23",
+      "detected_date": "2026-07-01T13:05:27Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "performance_issue",
+        "orthopaedic_implant",
+        "health_canada"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260701_recall_of_a_t_s_4000_ts_tourniquet_systems_with_cpc_connecto",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Recall of A.T.S® 4000 TS Tourniquet Systems with CPC Connectors Due to Sterility Concerns",
+        "zh": "因无菌问题召回A.T.S® 4000 TS止血带系统（带CPC连接器）"
+      },
+      "summary": {
+        "en": "Health Canada has issued a recall for A.T.S® 4000 TS Tourniquet Systems single and dual hose models with CPC connectors. The recall is due to potential sterility issues that may compromise patient safety. Healthcare facilities using these devices should immediately identify affected units, discontinue use, and follow the manufacturer’s return or disposal instructions. This safety alert is part of a broader set of Canadian medical device recalls.",
+        "zh": "加拿大卫生部已针对带CPC连接器的A.T.S® 4000 TS单双管止血带系统发布召回通知。此次召回涉及无菌问题，可能影响患者安全。使用该设备的医疗机构应立即识别受影响产品，停止使用，并遵循制造商的退货或处置指南。此安全警报是加拿大医疗器械一系列召回行动之一。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/atsr-4000-ts-tourniquet-systems-single-and-dual-hose-cpc-connectors",
+      "source_name": "Health Canada",
+      "published_date": "2026-06-23",
+      "detected_date": "2026-07-01T13:05:40Z",
+      "importance": "high",
+      "tags": [
+        "tourniquet",
+        "sterility",
+        "safety_recall",
+        "medical_device",
+        "canada"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260701_health_canada_recalls_optima_xr240amx_x_ray_system_due_to_pe",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Recalls Optima XR240amx X-Ray System Due to Performance Issue",
+        "zh": "加拿大卫生部因性能问题召回Optima XR240amx X射线系统"
+      },
+      "summary": {
+        "en": "Health Canada has issued a recall for the Optima XR240amx X-Ray System due to a performance issue that may affect image quality or system reliability. Healthcare facilities using this device should immediately consult the recall notice and follow the manufacturer's corrective actions. Affected users must verify device status and may need to suspend use until remediation is completed. The alert is part of a wider set of medical device safety actions in Canada.",
+        "zh": "加拿大卫生部因性能问题召回Optima XR240amx X射线系统，该问题可能影响图像质量或系统稳定性。使用该设备的医疗机构应立即查阅召回通知并遵循制造商的纠正措施。受影响用户需核实设备状态，并可能需要在修复完成前暂停使用。此警报是加拿大一系列医疗器械安全行动的一部分。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/optima-xr240amx-x-ray-system",
+      "source_name": "Health Canada",
+      "published_date": "2026-06-23",
+      "detected_date": "2026-07-01T13:05:55Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "x_ray_system",
+        "canada"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260701_health_canada_recalls_cyberknife_treatment_delivery_system_d",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Recalls CyberKnife® Treatment Delivery System Due to Performance Issues",
+        "zh": "加拿大卫生部因性能问题召回CyberKnife®治疗输送系统"
+      },
+      "summary": {
+        "en": "Health Canada has issued a recall for the CyberKnife® Treatment Delivery System, manufactured by Accuray, due to performance issues that could lead to inaccuracies in radiation treatment delivery. Affected healthcare facilities must immediately follow the manufacturer's instructions for inspection, mitigation, and possible device repair or replacement. Users should contact the manufacturer to confirm if their system is impacted and implement necessary corrective actions to ensure patient safety.",
+        "zh": "加拿大卫生部发布召回通知，涉及Accuray公司生产的CyberKnife®治疗输送系统，因存在可能影响放射治疗准确性的性能问题。受影响的医疗机构须按照制造商的指示进行设备检查、采取缓解措施，并可能修复或更换设备。用户应联系制造商确认其系统是否受影响，并实施必要的纠正措施以保障患者安全。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/cyberknifer-treatment-delivery-system",
+      "source_name": "Health Canada",
+      "published_date": "2026-06-22",
+      "detected_date": "2026-07-01T13:06:12Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "radiation_therapy",
+        "performance_issue",
+        "canada",
+        "safety_alert"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260701_health_canada_recalls_penumbra_system_red_68_reperfusion_cat",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Recalls Penumbra System RED 68 Reperfusion Catheter Due to Performance Issue Risking Tip Separation",
+        "zh": "加拿大卫生部召回Penumbra System RED 68再灌注导管，因性能问题存在尖端分离风险"
+      },
+      "summary": {
+        "en": "Health Canada has issued a medical device recall for the Penumbra System RED 68 Reperfusion Catheter due to a performance issue that may cause the catheter tip to separate or detach during use. The affected catheter is used in neurovascular thrombectomy procedures to remove blood clots from cerebral arteries. Healthcare professionals are advised to immediately quarantine and discontinue use of the recalled lots, and return them to Penumbra. This recall addresses a risk of serious adverse events, including vessel damage, embolism, or stroke.",
+        "zh": "加拿大卫生部因性能问题发布了Penumbra System RED 68再灌注导管的医疗器械召回，该导管在神经血管取栓术中可能发生尖端分离或脱落。受影响产品用于清除脑动脉血栓，医疗机构应立即隔离并停用相关批次，将其退回Penumbra公司。此次召回旨在应对可能导致血管损伤、栓塞或卒中等严重不良事件的风险。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/penumbra-system-red-68-reperfusion-catheter",
+      "source_name": "Health Canada",
+      "published_date": "2026-06-22",
+      "detected_date": "2026-07-01T13:06:28Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "performance_issue",
+        "catheter_tip_separation",
+        "neurovascular",
+        "class_i_recall",
+        "health_canada"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260701_health_canada_recalls_gyrus_acmi_classic_series_continuous_f",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Recalls Gyrus ACMI Classic Series Continuous Flow Resectoscope Due to Sterility Issue",
+        "zh": "加拿大卫生部因无菌问题召回Gyrus ACMI经典系列连续流电切镜"
+      },
+      "summary": {
+        "en": "Health Canada has issued an alert/recall for the Gyrus ACMI Classic Series Continuous Flow Resectoscope after a sterility issue was identified that could compromise device safety. Affected devices may not be sterile, posing an infection risk to patients during urological or gynecological procedures. Healthcare facilities should immediately quarantine the affected units, cease use, and follow the manufacturer's instructions for return or disposal. Prompt action is required to prevent potential patient harm.",
+        "zh": "加拿大卫生部发布警报/召回，涉及Gyrus ACMI经典系列连续流电切镜，原因是无菌问题可能影响设备安全。受影响的产品可能未达到无菌标准，在泌尿或妇科手术中有导致患者感染的风险。医疗机构应立即隔离受影响器械、停止使用，并按照制造商指示进行退回或处置。需迅速采取行动以避免患者伤害。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/gyrus-acmir-classic-series-continuous-flow-resectoscope",
+      "source_name": "Health Canada",
+      "published_date": "2026-06-22",
+      "detected_date": "2026-07-01T13:06:55Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "sterility",
+        "resectoscope"
+      ],
+      "related_docs": [],
+      "status": "published"
+    }
+  ]
 }

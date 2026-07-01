@@ -6,6 +6,18 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### NMPA Issues Amendment Sheets for YY 0068.4-2009 and Six Other Industry Standards for Medical Devices
+
+**2026-07-01** | NMPA | Standard Revision | !! MEDIUM
+
+On August 29, 2023, NMPA released amendment sheets for seven medical device industry standards, including YY 0068.4-2009 'Medical Endoscopes – Rigid Endoscopes – Part 4: Basic Requirements'. The amendments update technical specifications and testing methods. Manufacturers, importers, and testing agencies of rigid endoscopes and related products must review the changes and integrate them into technical documentation and quality systems by the specified effective dates to maintain regulatory compliance.
+
+**Tags**: `nmpa`, `industry_standard_amendment`, `rigid_endoscopes`, `yy0068_4`, `standards_update`
+
+[View Source (NMPA)](https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/ggtg/ylqxggtg/ylqxhybzhgg/20230829153040160.html)
+
+---
+
 ### NMPA Announcement No. 52 (2026) -- Medical Device Classification Adjustment Procedures
 
 **2026-06-01** | NMPA | Regulation Update | !!! HIGH

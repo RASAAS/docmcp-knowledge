@@ -1,26 +1,32 @@
 {
   "framework": "nmpa",
-  "last_updated": "2026-06-30T11:30:00Z",
+  "last_updated": "2026-07-01T13:09:48Z",
   "items": [
     {
-      "id": "nmpa_2026_udi_full_coverage",
+      "id": "nmpa_20260701_nmpa_issues_amendment_sheets_for_yy_0068_4_2009_and_six_othe",
       "framework": "nmpa",
-      "category": "regulation_update",
+      "category": "standard_revision",
       "title": {
-        "en": "NMPA Announcement No. 21 (2026) -- UDI Full Coverage Implementation Timeline",
-        "zh": "国家药监局2026年第21号公告 -- 医疗器械唯一标识全品类全覆盖时间表"
+        "en": "NMPA Issues Amendment Sheets for YY 0068.4-2009 and Six Other Industry Standards for Medical Devices",
+        "zh": "国家药监局发布YY 0068.4-2009等7项行业标准修改单"
       },
       "summary": {
-        "en": "Published 13 March 2026, jointly issued by NMPA, National Health Commission and National Healthcare Security Administration. Mandates UDI implementation for all remaining medical device categories: all Class II devices and Class I IVDs by 1 June 2027; all Class I devices by 1 June 2029. Manufacturers must complete UDI assignment, data upload and maintenance. Provincial drug regulatory authorities are to coordinate with health and healthcare security departments to promote integration.",
-        "zh": "2026年3月13日发布，由国家药监局、国家卫健委、国家医保局三部门联合发布。在已实施全部第三类医疗器械和103种第二类医疗器械唯一标识的基础上，明确后续实施时间表：2027年6月1日起全部第二类器械和第一类体外诊断试剂；2029年6月1日起全部第一类器械。注册人/备案人须完成赋码、数据上传和维护工作。省级药监部门加强培训指导，推动三医联动。"
+        "en": "On August 29, 2023, NMPA released amendment sheets for seven medical device industry standards, including YY 0068.4-2009 'Medical Endoscopes – Rigid Endoscopes – Part 4: Basic Requirements'. The amendments update technical specifications and testing methods. Manufacturers, importers, and testing agencies of rigid endoscopes and related products must review the changes and integrate them into technical documentation and quality systems by the specified effective dates to maintain regulatory compliance.",
+        "zh": "2023年8月29日，国家药监局发布了7项医疗器械行业标准修改单，其中包括YY 0068.4-2009《医用内窥镜 硬性内窥镜 第4部分：基本要求》。修订内容涉及技术要求和试验方法的更新。硬性内窥镜及相关产品的生产企业、进口商和检测机构需在规定实施日期前评估修改内容，更新技术文件与质量管理体系，确保产品合规。"
       },
-      "source_url": "https://udi.nmpa.gov.cn/toDetail.html?CatalogId=2&infoId=80",
+      "source_url": "https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/ggtg/ylqxggtg/ylqxhybzhgg/20230829153040160.html",
       "source_name": "NMPA",
-      "published_date": "2026-03-13",
-      "detected_date": "2026-03-14T12:00:00Z",
-      "importance": "high",
-      "tags": ["udi", "traceability", "full_coverage", "multi_department"],
-      "related_docs": ["nmpa-regulations"],
+      "published_date": "2026-07-01",
+      "detected_date": "2026-07-01T12:59:20Z",
+      "importance": "medium",
+      "tags": [
+        "nmpa",
+        "industry_standard_amendment",
+        "rigid_endoscopes",
+        "yy0068_4",
+        "standards_update"
+      ],
+      "related_docs": [],
       "status": "published"
     },
     {
@@ -40,8 +46,43 @@
       "published_date": "2026-06-01",
       "detected_date": "2026-06-02T12:00:00Z",
       "importance": "high",
-      "tags": ["classification", "registration", "transition", "compliance"],
-      "related_docs": ["nmpa-regulations"],
+      "tags": [
+        "classification",
+        "registration",
+        "transition",
+        "compliance"
+      ],
+      "related_docs": [
+        "nmpa-regulations"
+      ],
+      "status": "published"
+    },
+    {
+      "id": "nmpa_2026_udi_full_coverage",
+      "framework": "nmpa",
+      "category": "regulation_update",
+      "title": {
+        "en": "NMPA Announcement No. 21 (2026) -- UDI Full Coverage Implementation Timeline",
+        "zh": "国家药监局2026年第21号公告 -- 医疗器械唯一标识全品类全覆盖时间表"
+      },
+      "summary": {
+        "en": "Published 13 March 2026, jointly issued by NMPA, National Health Commission and National Healthcare Security Administration. Mandates UDI implementation for all remaining medical device categories: all Class II devices and Class I IVDs by 1 June 2027; all Class I devices by 1 June 2029. Manufacturers must complete UDI assignment, data upload and maintenance. Provincial drug regulatory authorities are to coordinate with health and healthcare security departments to promote integration.",
+        "zh": "2026年3月13日发布，由国家药监局、国家卫健委、国家医保局三部门联合发布。在已实施全部第三类医疗器械和103种第二类医疗器械唯一标识的基础上，明确后续实施时间表：2027年6月1日起全部第二类器械和第一类体外诊断试剂；2029年6月1日起全部第一类器械。注册人/备案人须完成赋码、数据上传和维护工作。省级药监部门加强培训指导，推动三医联动。"
+      },
+      "source_url": "https://udi.nmpa.gov.cn/toDetail.html?CatalogId=2&infoId=80",
+      "source_name": "NMPA",
+      "published_date": "2026-03-13",
+      "detected_date": "2026-03-14T12:00:00Z",
+      "importance": "high",
+      "tags": [
+        "udi",
+        "traceability",
+        "full_coverage",
+        "multi_department"
+      ],
+      "related_docs": [
+        "nmpa-regulations"
+      ],
       "status": "published"
     },
     {
@@ -61,8 +102,15 @@
       "published_date": "2026-03-13",
       "detected_date": "2026-03-14T12:00:00Z",
       "importance": "medium",
-      "tags": ["udi", "exemption", "clinical_trial", "custom_device"],
-      "related_docs": ["nmpa-regulations"],
+      "tags": [
+        "udi",
+        "exemption",
+        "clinical_trial",
+        "custom_device"
+      ],
+      "related_docs": [
+        "nmpa-regulations"
+      ],
       "status": "published"
     }
   ]

@@ -1,7 +1,34 @@
 {
   "framework": "_shared",
-  "last_updated": "2026-06-30T11:00:00Z",
+  "last_updated": "2026-07-01T13:09:48Z",
   "items": [
+    {
+      "id": "_shared_20260701_iec_62304_2006_amd1_2015_csv_published_consolidated_medical",
+      "framework": "_shared",
+      "category": "standard_revision",
+      "title": {
+        "en": "IEC 62304:2006+AMD1:2015 CSV Published – Consolidated Medical Device Software Lifecycle Standard",
+        "zh": "IEC 62304:2006+AMD1:2015 CSV发布：医疗器械软件生命周期标准整合版"
+      },
+      "summary": {
+        "en": "IEC 62304:2006+AMD1:2015 CSV consolidates the original standard with its 2015 Amendment 1, offering a single, up-to-date reference for medical device software lifecycle processes. It affects all manufacturers developing software for medical devices, including software as a medical device (SaMD). Companies should review their software development and maintenance procedures to ensure alignment with the revised requirements, facilitating global regulatory compliance.",
+        "zh": "IEC 62304:2006+AMD1:2015 CSV整合了原标准及其2015年第1号修正案，为医疗器械软件生命周期过程提供了一致的最新要求。该标准影响所有开发医疗器械软件（含独立软件SaMD）的制造商。企业应审查其软件开发与维护流程，确保符合此整合版标准，以支持全球法规合规。"
+      },
+      "source_url": "https://webstore.iec.ch/en/publication/22794",
+      "source_name": "IEC",
+      "published_date": "2026-07-01",
+      "detected_date": "2026-07-01T13:09:48Z",
+      "importance": "medium",
+      "tags": [
+        "iec_62304",
+        "software_lifecycle",
+        "medical_device_software",
+        "consolidated_standard",
+        "regulatory_compliance"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
     {
       "id": "shared_2026_iec62304_ed2",
       "framework": "_shared",
@@ -19,8 +46,15 @@
       "published_date": "2026-05-22",
       "detected_date": "2026-06-01T12:00:00Z",
       "importance": "high",
-      "tags": ["software_lifecycle", "ai_ml", "cybersecurity", "health_software"],
-      "related_docs": ["_shared-standards"],
+      "tags": [
+        "software_lifecycle",
+        "ai_ml",
+        "cybersecurity",
+        "health_software"
+      ],
+      "related_docs": [
+        "_shared-standards"
+      ],
       "status": "published"
     }
   ]

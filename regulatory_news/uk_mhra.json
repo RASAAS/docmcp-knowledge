@@ -1,5 +1,422 @@
 {
   "framework": "uk_mhra",
-  "last_updated": "",
-  "items": []
+  "last_updated": "2026-07-01T13:09:48Z",
+  "items": [
+    {
+      "id": "uk_mhra_20260701_uk_mhra_publishes_field_safety_notices_for_22_26_june_2026",
+      "framework": "uk_mhra",
+      "category": "safety_communication",
+      "title": {
+        "en": "UK MHRA Publishes Field Safety Notices for 22–26 June 2026",
+        "zh": "英国MHRA发布2026年6月22日至26日现场安全通知汇编"
+      },
+      "summary": {
+        "en": "This item lists 10 field safety notices (FSNs) issued by medical device manufacturers during the week of 22–26 June 2026, as compiled by the UK MHRA. It alerts healthcare professionals, patients, and regulatory affairs teams to potential safety issues and required corrective actions. Affected parties should immediately review the notices, identify relevant devices, and implement any field safety corrective actions. The compilation is part of the MHRA's routine safety communication.",
+        "zh": "本文为英国MHRA发布的医疗器械现场安全通知清单，涵盖2026年6月22日至26日期间制造商发出的10项独立通知，旨在向医疗专业人员、患者及监管事务团队警示潜在安全隐患与必要纠正措施。相关方应立即查阅通知，识别受影响器械并执行现场安全纠正行动。该汇编是MHRA常规安全通报的一部分。"
+      },
+      "source_url": "https://www.gov.uk/drug-device-alerts/field-safety-notices-22-to-26-june-2026",
+      "source_name": "MHRA (UK)",
+      "published_date": "2026-06-30",
+      "detected_date": "2026-07-01T12:59:36Z",
+      "importance": "medium",
+      "tags": [
+        "field_safety_notice",
+        "mhra",
+        "medical_device_safety"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "uk_mhra_20260701_mhra_safety_roundup_june_2026_latest_safety_advice_for_medic",
+      "framework": "uk_mhra",
+      "category": "safety_communication",
+      "title": {
+        "en": "MHRA Safety Roundup – June 2026: Latest Safety Advice for Medicines and Medical Devices",
+        "zh": "MHRA 2026年6月安全综述：药品与医疗器械最新安全建议"
+      },
+      "summary": {
+        "en": "This June 2026 roundup from the UK MHRA consolidates the latest safety updates for both medicines and medical devices. Healthcare professionals, patients, and device users should review the listed warnings, recalls, and guidance to ensure continued safe use. The document highlights key actions including checking affected products and reporting adverse incidents through the Yellow Card scheme. It serves as a monthly compliance resource for vigilance and risk management.",
+        "zh": "这份由英国MHRA发布的2026年6月安全综述汇总了药品和医疗器械的最新安全动态。医疗专业人士、患者及器械使用者应查阅其中列出的警告、召回和指导，以确保持续安全使用。文件重点包括核查受影响产品，并通过黄卡系统报告可疑不良事件，是当月警戒与风险管理的重要合规参考。"
+      },
+      "source_url": "https://www.gov.uk/drug-device-alerts/mhra-safety-roundup-june-2026",
+      "source_name": "MHRA (UK)",
+      "published_date": "2026-06-30",
+      "detected_date": "2026-07-01T12:59:52Z",
+      "importance": "medium",
+      "tags": [
+        "mhra",
+        "safety_roundup",
+        "medical_devices",
+        "medication_safety",
+        "post_market_surveillance"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "uk_mhra_20260701_class_3_recall_flucloxacillin_500mg_capsules_incorrect_patie",
+      "framework": "uk_mhra",
+      "category": "safety_communication",
+      "title": {
+        "en": "Class 3 Recall: Flucloxacillin 500mg Capsules – Incorrect Patient Leaflet (Flamingo Pharma UK Ltd)",
+        "zh": "三级药品召回：氟氯西林500mg胶囊内附错误患者说明书（Flamingo Pharma UK Ltd）"
+      },
+      "summary": {
+        "en": "Flamingo Pharma UK Ltd has informed the MHRA that specific batches of Flucloxacillin Capsules BP 500mg contain the Patient Information Leaflet (PIL) for Amoxicillin 500mg Capsules instead of the correct Flucloxacillin PIL. This Class 3 recall requires healthcare professionals and wholesalers to check stock, quarantine affected packs, and return them to the supplier. The defect poses a low risk to patient safety, but incorrect dosing information could lead to confusion.",
+        "zh": "Flamingo Pharma UK Ltd 已通知 MHRA，部分批次的氟氯西林 500mg 胶囊内错误附带了阿莫西林 500mg 胶囊的患者说明书（PIL）。此次三级召回要求医护人员和批发商检查库存、隔离受影响包装并退回供应商。该缺陷对患者安全风险较低，但错误的用药信息可能造成混淆。"
+      },
+      "source_url": "https://www.gov.uk/drug-device-alerts/class-3-medicines-recall-flamingo-pharma-uk-ltd-flucloxacillin-capsules-bp-500mg-el-26-a-slash-32",
+      "source_name": "MHRA (UK)",
+      "published_date": "2026-06-30",
+      "detected_date": "2026-07-01T13:00:05Z",
+      "importance": "low",
+      "tags": [
+        "medicines_recall",
+        "incorrect_pil",
+        "flucloxacillin",
+        "class_3",
+        "mhra_alert"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "uk_mhra_20260701_mhra_class_4_defect_alert_gabapentin_relonchem_50mg_ml_oral",
+      "framework": "uk_mhra",
+      "category": "safety_communication",
+      "title": {
+        "en": "MHRA Class 4 Defect Alert: Gabapentin Relonchem 50mg/ml Oral Solution – Visible Particles",
+        "zh": "MHRA四级缺陷通报：Relonchem加巴喷丁口服溶液检出可见颗粒物"
+      },
+      "summary": {
+        "en": "Relonchem Limited has notified the MHRA of visible particles found in some bottles of Gabapentin Relonchem 50mg/ml Oral Solution (batch unspecified) following a customer complaint. This is a Class 4 medicines defect notification, meaning no product recall is required. Healthcare professionals should inspect stock before dispensing and report any affected units to the company. Patients using the solution can continue treatment but may consult a pharmacist if concerned.",
+        "zh": "Relonchem Limited因客户投诉通报MHRA，部分Gabapentin Relonchem 50mg/ml口服溶液瓶中发现可见颗粒物。此为四级药品缺陷通报，无需召回产品。医疗专业人员应在分发前检查库存，并将受污染产品报告给公司。患者可继续用药，但如有疑虑可咨询药师。"
+      },
+      "source_url": "https://www.gov.uk/drug-device-alerts/class-4-medicines-defect-notification-relonchem-limited-gabapentin-relonchem-50mg-slash-ml-oral-solution-el-26-a-slash-31",
+      "source_name": "MHRA (UK)",
+      "published_date": "2026-06-30",
+      "detected_date": "2026-07-01T13:00:28Z",
+      "importance": "low",
+      "tags": [
+        "class_4_defect",
+        "gabapentin_relonchem",
+        "particle_contamination"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "uk_mhra_20260701_mhra_field_safety_notices_compilation_for_22_26_june_2026_6",
+      "framework": "uk_mhra",
+      "category": "regulation_update",
+      "title": {
+        "en": "MHRA Field Safety Notices compilation for 22–26 June 2026: 6 new device alerts published",
+        "zh": "MHRA发布2026年6月22–26日现场安全通知汇总（6则新警报）"
+      },
+      "summary": {
+        "en": "The UK MHRA released a weekly list of six Field Safety Notices issued between 22 and 26 June 2026. Healthcare professionals and medical device organisations should review the notices to identify any relevant safety actions, such as software updates, part replacements, or usage modifications, and implement manufacturer instructions promptly to maintain patient safety and regulatory compliance.",
+        "zh": "英国MHRA发布了2026年6月22日至26日期间发布的6份现场安全通知汇总。涉及医疗器械的制造商、医疗机构及专业人员应查阅该列表，确认是否有与自己产品相关的要求（如软件升级、部件更换或使用调整），并及时执行制造商指示，以保障患者安全并符合法规要求。"
+      },
+      "source_url": "https://www.gov.uk/drug-device-alerts/field-safety-notices-22-to-26-june-2026",
+      "source_name": "MHRA (UK)",
+      "published_date": "2026-06-30",
+      "detected_date": "2026-07-01T13:02:44Z",
+      "importance": "medium",
+      "tags": [
+        "field_safety_notice",
+        "mhra",
+        "medical_device_safety",
+        "regulatory_alert",
+        "postmarket_surveillance"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "uk_mhra_20260701_class_3_medicines_recall_flamingo_pharma_uk_ltd_flucloxacill",
+      "framework": "uk_mhra",
+      "category": "regulation_update",
+      "title": {
+        "en": "Class 3 Medicines Recall: Flamingo Pharma UK Ltd, Flucloxacillin 500mg Capsules with Incorrect PIL (Amoxicillin Leaflet) – EL(26)A/32",
+        "zh": "3级药品召回：Flamingo Pharma UK Ltd氟氯西林500mg胶囊误附阿莫西林说明书 – EL(26)A/32"
+      },
+      "summary": {
+        "en": "Flamingo Pharma UK Ltd has initiated a Class 3 recall of certain batches of Flucloxacillin 500mg Capsules BP because the packs contain the Patient Information Leaflet (PIL) for Amoxicillin 500mg Capsules instead of the correct Flucloxacillin leaflet. Healthcare professionals are required to identify and quarantine affected stock immediately and contact the company for credit. Patients should continue taking their medication but are advised to obtain the correct PIL from their pharmacy; the recall is precautionary and does not pose a risk to patient safety.",
+        "zh": "Flamingo Pharma UK Ltd因部分批次氟氯西林500mg胶囊内附患者说明书误放为阿莫西林说明书，主动启动3级召回。医疗机构需立即识别并隔离受影响批次药品，联系公司办理退货。患者可继续服药，但应到药房索取正确说明书；本次召回为预防性措施，不影响用药安全。"
+      },
+      "source_url": "https://www.gov.uk/drug-device-alerts/class-3-medicines-recall-flamingo-pharma-uk-ltd-flucloxacillin-capsules-bp-500mg-el-26-a-slash-32",
+      "source_name": "MHRA (UK)",
+      "published_date": "2026-06-30",
+      "detected_date": "2026-07-01T13:03:01Z",
+      "importance": "medium",
+      "tags": [
+        "medicines_recall",
+        "class_3",
+        "pil_error",
+        "flucloxacillin",
+        "mhra",
+        "labeling_defect"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "uk_mhra_20260701_mhra_class_4_defect_brancaster_pharma_benzylpenicillin_benza",
+      "framework": "uk_mhra",
+      "category": "safety_communication",
+      "title": {
+        "en": "MHRA Class 4 Defect: Brancaster Pharma Benzylpenicillin Benzathine Injection PIL Outdated in Certain Batches",
+        "zh": "MHRA 4级药品缺陷通知：Brancaster Pharma苄星青霉素注射液部分批次说明书过时"
+      },
+      "summary": {
+        "en": "Brancaster Pharma Limited has informed the MHRA that specific batches of Benzylpenicillin benzathine 1.2 M IU and 2.4 M IU powder for suspension for injection were shipped with an outdated Patient Information Leaflet (PIL). This Class 4 notification means no risk to patient safety, and no recall is required. Healthcare professionals should replace the outdated leaflet with the current version or refer to the Summary of Product Characteristics when dispensing the affected batches.",
+        "zh": "Brancaster Pharma Limited已通知MHRA，特定批次的苄星青霉素120万IU和240万IU注射用混悬液粉末在包装中附有过时的患者信息说明书。此为4级缺陷通知，无患者安全风险，无需召回。医护人员在调配受影响批次时应替换为当前说明书或参考产品特性摘要。"
+      },
+      "source_url": "https://www.gov.uk/drug-device-alerts/class-4-medicines-defect-notification-brancaster-pharma-limited-benzylpenicillin-benzathine-1-dot-2-million-iu-and-2-dot-4-million-iu-powder-for-suspension-for-injection-el-26-a-slash-30",
+      "source_name": "MHRA (UK)",
+      "published_date": "2026-06-29",
+      "detected_date": "2026-07-01T13:00:48Z",
+      "importance": "low",
+      "tags": [
+        "class_4_medicines_defect",
+        "outdated_patient_information_leaflet",
+        "benzylpenicillin_benzathine"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "uk_mhra_20260701_mhra_issues_updated_guidance_on_borderline_products_medical",
+      "framework": "uk_mhra",
+      "category": "regulation_update",
+      "title": {
+        "en": "MHRA Issues Updated Guidance on Borderline Products: Medical Devices vs Other Products",
+        "zh": "MHRA 发布更新版边界产品指南：医疗器械与其他产品的界定"
+      },
+      "summary": {
+        "en": "The UK MHRA has published updated guidance on borderline products, explaining the principles used to decide whether a product is a medical device and whether the Medical Devices Regulations 2002 apply. The document provides examples, flowcharts, and case studies to help manufacturers determine if their product falls under medicines, cosmetics, food, or general product safety regulations instead. Stakeholders should use this guidance to ensure correct classification and regulatory compliance in the UK market.",
+        "zh": "英国 MHRA 发布了关于边界产品的最新指南，阐述了用于判断产品是否属于医疗器械及是否适用《2002年医疗器械法规》的决策原则。文件通过示例、流程图和案例研究，帮助制造商确定其产品是否应归入药品、化妆品、食品或通用产品安全法规范畴。相关方应依据该指南确保在英市场正确分类与合规。"
+      },
+      "source_url": "https://www.gov.uk/government/publications/borderlines-with-medical-devices",
+      "source_name": "MHRA (UK)",
+      "published_date": "2026-06-29",
+      "detected_date": "2026-07-01T13:03:14Z",
+      "importance": "medium",
+      "tags": [
+        "borderline_products",
+        "medical_device_classification",
+        "mhra_guidance",
+        "uk_regulations"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "uk_mhra_20260701_mhra_guidance_registering_medical_devices_for_the_great_brit",
+      "framework": "uk_mhra",
+      "category": "regulation_update",
+      "title": {
+        "en": "MHRA Guidance: Registering Medical Devices for the Great Britain and Northern Ireland Markets",
+        "zh": "MHRA指南：注册医疗器械以投放大不列颠及北爱尔兰市场"
+      },
+      "summary": {
+        "en": "This MHRA guidance outlines the process for registering medical devices before they can be placed on the market in Great Britain and Northern Ireland. It applies to manufacturers, authorised representatives, and responsible persons, who must ensure all devices are properly registered under the UK Medical Devices Regulations 2002. Key steps include identifying the correct registration route, submitting required device information, and maintaining compliance with post-market obligations. Failure to register can result in enforcement action and prevent lawful sale.",
+        "zh": "该MHRA指南阐述了医疗器械在大不列颠及北爱尔兰上市前的注册流程。它适用于制造商、授权代表和责任人，他们必须确保所有设备根据《2002年英国医疗器械法规》完成注册。关键步骤包括确定正确的注册途径、提交必要的设备信息并履行上市后合规义务。未注册可能导致执法行动并阻碍合法销售。"
+      },
+      "source_url": "https://www.gov.uk/guidance/register-medical-devices-to-place-on-the-market",
+      "source_name": "MHRA (UK)",
+      "published_date": "2026-06-26",
+      "detected_date": "2026-07-01T13:03:30Z",
+      "importance": "medium",
+      "tags": [
+        "medical_device_registration",
+        "mhra",
+        "market_access",
+        "uk_compliance"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "uk_mhra_20260701_mhra_field_safety_notices_15_19_june_2026_10_new_notices_pub",
+      "framework": "uk_mhra",
+      "category": "safety_communication",
+      "title": {
+        "en": "MHRA Field Safety Notices: 15-19 June 2026 – 10 New Notices Published",
+        "zh": "MHRA现场安全通知：2026年6月15日至19日发布10份新通知"
+      },
+      "summary": {
+        "en": "This item aggregates 10 field safety notices issued by the UK MHRA between 15 and 19 June 2026. The notices cover various medical devices requiring corrective actions or safety communication from manufacturers. Healthcare providers and device manufacturers must review the list to identify affected products and implement any mandated actions to ensure patient safety and regulatory compliance.",
+        "zh": "本条目汇总了英国MHRA于2026年6月15日至19日发布的10份现场安全通知。这些通知涉及多种医疗器械，需由制造商执行纠正措施或安全沟通。医疗机构和器械制造商须查阅该清单，识别受影响的器械并执行必要措施，确保患者安全和合规。"
+      },
+      "source_url": "https://www.gov.uk/drug-device-alerts/field-safety-notices-15-to-19-june-2026",
+      "source_name": "MHRA (UK)",
+      "published_date": "2026-06-23",
+      "detected_date": "2026-07-01T13:01:00Z",
+      "importance": "medium",
+      "tags": [
+        "field_safety_notices",
+        "mhra",
+        "medical_device_safety",
+        "post_market_surveillance",
+        "regulatory_compliance"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "uk_mhra_20260701_uk_mhra_weekly_field_safety_notices_compilation_15_19_june_2",
+      "framework": "uk_mhra",
+      "category": "regulation_update",
+      "title": {
+        "en": "UK MHRA Weekly Field Safety Notices Compilation: 15–19 June 2026",
+        "zh": "英国MHRA发布2026年6月15日至19日现场安全通知汇编"
+      },
+      "summary": {
+        "en": "This item lists all Field Safety Notices (FSNs) issued by the UK MHRA between 15 and 19 June 2026, covering post-market safety actions for medical devices and IVDs. It affects manufacturers, healthcare providers, and users who must review the notices for relevant corrective actions. Key actions include identifying affected devices in inventory, implementing manufacturer instructions, and reporting any incidents.",
+        "zh": "该条目汇总了英国MHRA于2026年6月15日至19日期间发布的所有现场安全通知（FSN），涉及医疗器械和体外诊断产品的上市后安全措施。相关制造商、医疗保健提供者和用户需审查这些通知，识别受影响设备，按照制造商指示采取纠正措施，并报告相关事件。"
+      },
+      "source_url": "https://www.gov.uk/drug-device-alerts/field-safety-notices-15-to-19-june-2026",
+      "source_name": "MHRA (UK)",
+      "published_date": "2026-06-23",
+      "detected_date": "2026-07-01T13:03:44Z",
+      "importance": "medium",
+      "tags": [
+        "field_safety_notices",
+        "mhra",
+        "medical_device_safety"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "uk_mhra_20260701_mhra_decision_list_of_medical_devices_granted_exceptional_us",
+      "framework": "uk_mhra",
+      "category": "regulation_update",
+      "title": {
+        "en": "MHRA Decision: List of Medical Devices Granted Exceptional Use Authorisations",
+        "zh": "MHRA决定：医疗器械获特例使用授权名单"
+      },
+      "summary": {
+        "en": "The MHRA has published an updated list of manufacturers and medical devices that have been granted exceptional use authorisations. The list also includes devices whose exemptions have expired or been cancelled. Affected manufacturers, importers, and healthcare providers should review the list to verify the current status of relevant products and ensure continued compliance with the applicable conditions of the authorisation.",
+        "zh": "MHRA发布了获特例使用授权的制造商和医疗器械最新清单，同时包含已过期或被撤销豁免的器械。相关制造商、进口商及医疗机构应核查该清单，确认涉及产品的当前授权状态，并确保持续遵守授权条件。"
+      },
+      "source_url": "https://www.gov.uk/government/publications/medical-devices-given-exceptional-use-authorisations",
+      "source_name": "MHRA (UK)",
+      "published_date": "2026-06-23",
+      "detected_date": "2026-07-01T13:03:57Z",
+      "importance": "medium",
+      "tags": [
+        "exceptional_use",
+        "mhra_authorisation",
+        "medical_devices",
+        "regulatory_update"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "uk_mhra_20260701_class_3_medicines_recall_orbit_pharma_limited_recalls_cycliz",
+      "framework": "uk_mhra",
+      "category": "safety_communication",
+      "title": {
+        "en": "Class 3 Medicines Recall: Orbit Pharma Limited Recalls Cyclizine Lactate 50 mg/ml Injection Due to GMP Deficiencies",
+        "zh": "三级药品召回：Orbit Pharma Limited因GMP缺陷召回乳酸赛克利嗪注射液50 mg/ml"
+      },
+      "summary": {
+        "en": "Orbit Pharma Limited is recalling a specific batch of Cyclizine Lactate 50 mg/ml Solution for Injection as a precautionary measure due to Good Manufacturing Practice (GMP) deficiencies identified at the manufacturing site. This is a Class 3 recall, indicating a defect that is unlikely to cause harm to patients. Healthcare professionals should immediately stop supplying the affected batch, quarantine remaining stock, and follow the recall procedures. The MHRA alert reference is EL(26)A/29.",
+        "zh": "Orbit Pharma Limited因生产现场发现良好生产规范（GMP）缺陷，预防性召回一批乳酸赛克利嗪50 mg/ml注射液。此次为三级召回，表明该缺陷风险低，不太可能对患者造成伤害。医疗专业人员须立即停止供应受影响批次，隔离所有库存，并按召回流程处理。MHRA警报编号为EL(26)A/29。"
+      },
+      "source_url": "https://www.gov.uk/drug-device-alerts/class-3-medicines-recall-orbit-pharma-limited-cyclizine-lactate-50-mg-slash-ml-solution-for-injection-el-26-a-slash-29",
+      "source_name": "MHRA (UK)",
+      "published_date": "2026-06-16",
+      "detected_date": "2026-07-01T13:01:29Z",
+      "importance": "medium",
+      "tags": [
+        "class_3_recall",
+        "gmp_deficiency",
+        "cyclizine_lactate"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "uk_mhra_20260701_mhra_weekly_field_safety_notices_8_12_june_2026",
+      "framework": "uk_mhra",
+      "category": "safety_communication",
+      "title": {
+        "en": "MHRA Weekly Field Safety Notices: 8-12 June 2026",
+        "zh": "英国MHRA发布2026年6月8-12日现场安全通告列表"
+      },
+      "summary": {
+        "en": "The UK MHRA published the compilation of Field Safety Notices (FSNs) issued between 8 and 12 June 2026. These notices alert healthcare professionals and users to safety issues with medical devices and medicinal products, requiring actions such as product checks, modifications, or recalls. Manufacturers and responsible persons should review the list to identify any notices relevant to their products and ensure compliance with required actions. This weekly update is part of MHRA’s routine safety surveillance.",
+        "zh": "英国MHRA发布了2026年6月8日至12日期间发出的现场安全通告汇总。这些通告提醒医疗专业人员和用户注意医疗器械及医药产品的安全问题，并需采取产品检查、修改或召回等措施。制造商和负责人应查阅此列表，识别与其产品相关的通告并确保采取必要行动。该周度发布是MHRA常规安全监测工作的一部分。"
+      },
+      "source_url": "https://www.gov.uk/drug-device-alerts/field-safety-notices-8-12-june-2026",
+      "source_name": "MHRA (UK)",
+      "published_date": "2026-06-15",
+      "detected_date": "2026-07-01T13:01:53Z",
+      "importance": "medium",
+      "tags": [
+        "uk_mhra",
+        "field_safety_notice",
+        "safety_surveillance"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "uk_mhra_20260701_mhra_field_safety_notices_for_1_5_june_2026_now_available",
+      "framework": "uk_mhra",
+      "category": "safety_communication",
+      "title": {
+        "en": "MHRA Field Safety Notices for 1–5 June 2026 Now Available",
+        "zh": "英国MHRA发布2026年6月1日至5日现场安全通知列表"
+      },
+      "summary": {
+        "en": "The UK MHRA has published the weekly list of Field Safety Notices (FSNs) for 1–5 June 2026. This compilation affects healthcare providers and organisations using affected medical devices in the UK. Users should review each notice and take recommended actions to address potential safety issues with specific devices.",
+        "zh": "英国药品和医疗产品监管署（MHRA）发布了2026年6月1日至5日期间的一周现场安全通知列表。该汇编涉及在英国使用受影响医疗器械的医疗保健机构和专业人士，需逐一查看通知并采取建议措施，以处理相关设备的潜在安全问题。"
+      },
+      "source_url": "https://www.gov.uk/drug-device-alerts/field-safety-notices-1-5-june-2026",
+      "source_name": "MHRA (UK)",
+      "published_date": "2026-06-08",
+      "detected_date": "2026-07-01T13:02:05Z",
+      "importance": "medium",
+      "tags": [
+        "field_safety_notice",
+        "mhra",
+        "medical_devices",
+        "uk_regulation",
+        "safety_alert"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "uk_mhra_20260701_mhra_class_4_defect_cadila_s_mirtazapine_30mg_tablets_incorr",
+      "framework": "uk_mhra",
+      "category": "safety_communication",
+      "title": {
+        "en": "MHRA Class 4 Defect: Cadila's Mirtazapine 30mg Tablets Incorrect EAN Barcode (EL(26)A/28)",
+        "zh": "MHRA 4级缺陷通知：Cadila公司米氮平30毫克片剂条码错误(EL(26)A/28)"
+      },
+      "summary": {
+        "en": "Cadila Pharmaceuticals Limited has notified the MHRA that one batch of Mirtazapine 30mg Film-Coated Tablets distributed under Crescent Pharma Limited branding has an incorrect European Article Number (EAN) barcode on its cartons. This is a Class 4 medicines defect, indicating a minor quality issue with no risk to patient safety. Healthcare professionals and wholesalers should verify barcodes and be aware that no recall is required, but refer to the notification for the affected batch details.",
+        "zh": "Cadila制药有限公司已通知MHRA，一批以Crescent Pharma Limited名义分销的米氮平30毫克薄膜衣片剂外盒上的欧洲商品编号（EAN）条码有误。此为4级药品缺陷通知，属轻微质量问题，无患者安全风险。医疗专业人员和批发商应核对条码，无需召回产品，但需查阅通知了解具体批次信息。"
+      },
+      "source_url": "https://www.gov.uk/drug-device-alerts/class-4-medicines-defect-notification-cadila-pharmaceuticals-limited-mirtazapine-30mg-tablets-el-26-a-slash-28",
+      "source_name": "MHRA (UK)",
+      "published_date": "2026-06-08",
+      "detected_date": "2026-07-01T13:02:32Z",
+      "importance": "low",
+      "tags": [
+        "barcode_error",
+        "mhra_notification",
+        "class_4_defect"
+      ],
+      "related_docs": [],
+      "status": "published"
+    }
+  ]
 }
