@@ -128,7 +128,7 @@ jobs:
 
       - name: Generate regulatory news from report
         id: news
-        if: steps.check.outcome == 'success'
+        if: always() && steps.check.conclusion == 'success'
         run: |
           if [ ! -f /tmp/update_report.json ]; then
             echo "news_added=0" >> $GITHUB_OUTPUT
