@@ -1,5 +1,482 @@
 {
   "framework": "korea_mfds",
-  "last_updated": "",
-  "items": []
+  "last_updated": "2026-07-01T15:22:14Z",
+  "items": [
+    {
+      "id": "korea_mfds_20260701_mfds_launches_innovative_medical_product_fast_track_review_w",
+      "framework": "korea_mfds",
+      "category": "regulation_update",
+      "title": {
+        "en": "MFDS Launches Innovative Medical Product Fast-Track Review with 240-Day Approval Target",
+        "zh": "韩国MFDS启动创新医疗产品快速审评，目标240天获批"
+      },
+      "summary": {
+        "en": "The Ministry of Food and Drug Safety (MFDS) of South Korea has introduced a new innovation-focused review pathway that aims to complete the approval of cutting-edge medical products within 240 days. This streamlined process targets high-tech medical devices and drugs, reducing regulatory turnaround time and enhancing predictability for sponsors. Manufacturers of innovative products should review the updated submission requirements and prepare for accelerated premarket reviews. The initiative reflects MFDS's commitment to expediting patient access to novel technologies.",
+        "zh": "韩国食品药品安全部（MFDS）推出了一项以创新为重点的快速审评路径，目标在240天内完成对前沿医疗产品的审批。该流程针对高科技医疗器械和药品，缩短了审评周期并提高了审评的可预测性。创新产品制造商应了解最新的提交要求，为加速上市审评做好准备。此举体现了MFDS加快创新技术惠及患者的决心。"
+      },
+      "source_url": "https://www.mfds.go.kr/eng/brd/m_61/view.do?seq=188&srchFr=&srchTo=&srchWord=&srchTp=&itm_seq_1=0&itm_seq_2=0&multi_itm_seq=0&company_cd=&company_nm=&page=1",
+      "source_name": "MFDS (Korea)",
+      "published_date": "2026-07-01",
+      "detected_date": "2026-07-01T15:15:52Z",
+      "importance": "high",
+      "tags": [
+        "fast_track",
+        "approval_timeline",
+        "innovation",
+        "mfds",
+        "regulatory_reform",
+        "premarket_review"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "korea_mfds_20260701_mfds_publishes_medical_device_good_manufacturing_practice_gm",
+      "framework": "korea_mfds",
+      "category": "regulation_update",
+      "title": {
+        "en": "MFDS Publishes Medical Device Good Manufacturing Practice (GMP) Regulations",
+        "zh": "韩国食药安全部发布医疗器械良好生产规范（GMP）法规"
+      },
+      "summary": {
+        "en": "The Ministry of Food and Drug Safety (MFDS) has published the Medical Device Good Manufacturing Practice (GMP) Regulations, establishing quality management system requirements for manufacturers and importers. These regulations cover design, production, installation, and servicing standards to ensure device safety and performance. Stakeholders must align their quality systems with the new rules and prepare for compliance audits by MFDS. Companies distributing medical devices in Korea should review the full text and update their procedures accordingly.",
+        "zh": "韩国食品药品安全部（MFDS）正式发布了医疗器械良好生产规范（GMP）法规，确立了制造商和进口商的质量管理体系要求。该法规涵盖设计、生产、安装和服务标准，以确保器械安全与性能。相关方须调整质量体系以符合新规，并准备接受MFDS的合规审核。在韩国销售医疗器械的企业应研读全文并更新相应程序。"
+      },
+      "source_url": "https://www.mfds.go.kr/eng/brd/m_40/view.do?seq=72638&srchFr=&srchTo=&srchWord=&srchTp=&itm_seq_1=0&itm_seq_2=0&multi_itm_seq=0&company_cd=&company_nm=&page=1",
+      "source_name": "MFDS (Korea)",
+      "published_date": "2026-07-01",
+      "detected_date": "2026-07-01T15:16:10Z",
+      "importance": "high",
+      "tags": [
+        "gmp",
+        "quality_management_system",
+        "korea_mfds"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "korea_mfds_20260701_mfds_issues_guiding_principles_for_clinical_trials_of_machin",
+      "framework": "korea_mfds",
+      "category": "regulation_update",
+      "title": {
+        "en": "MFDS Issues Guiding Principles for Clinical Trials of Machine Learning-Enabled Medical Devices",
+        "zh": "韩国食药处发布机器学习医疗器械临床试验指导原则"
+      },
+      "summary": {
+        "en": "The Ministry of Food and Drug Safety (MFDS) has published 'Guiding Principles for conducting Clinical Trial for Machine Learning-enabled MDs,' providing a regulatory framework for clinical evaluation of medical devices that incorporate machine learning. This guidance targets manufacturers and sponsors of ML-enabled medical devices, outlining key considerations for trial design, data management, performance assessment, and safety monitoring. Stakeholders are advised to review the principles to ensure their clinical trial protocols align with the new recommendations when seeking regulatory approval in Korea.",
+        "zh": "韩国食品药品安全部(MFDS)发布了《机器学习医疗器械临床试验指导原则》，为含机器学习功能的医疗器械的临床评价提供了监管框架。该指导原则面向相关制造商和申办方，详述了试验设计、数据管理、性能评估和安全性监测的关键考量。利益相关方应仔细研读该原则，以确保在韩国申请注册时临床试验方案符合新建议。"
+      },
+      "source_url": "https://www.mfds.go.kr/eng/brd/m_40/view.do?seq=72637&srchFr=&srchTo=&srchWord=&srchTp=&itm_seq_1=0&itm_seq_2=0&multi_itm_seq=0&company_cd=&company_nm=&page=1",
+      "source_name": "MFDS (Korea)",
+      "published_date": "2026-07-01",
+      "detected_date": "2026-07-01T15:16:19Z",
+      "importance": "high",
+      "tags": [
+        "machine_learning",
+        "clinical_trial",
+        "guidance",
+        "medical_device",
+        "korea_mfds"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "korea_mfds_20260701_mfds_issues_new_regulation_on_unique_device_identification_u",
+      "framework": "korea_mfds",
+      "category": "regulation_update",
+      "title": {
+        "en": "MFDS Issues New Regulation on Unique Device Identification (UDI) Management for Medical Devices",
+        "zh": "韩国食药安全部发布《唯一器械标识管理等相关规定》"
+      },
+      "summary": {
+        "en": "The Ministry of Food and Drug Safety (MFDS) has promulgated a new regulation establishing comprehensive requirements for Unique Device Identification (UDI) management. This rule mandates that medical device manufacturers, importers, and distributors assign and maintain UDI codes, register device identifiers in the integrated database, and comply with phased implementation timelines. The regulation aims to enhance traceability and safety across the device supply chain, requiring affected entities to update labeling, quality systems, and reporting processes accordingly.",
+        "zh": "韩国食品医药品安全部发布了关于唯一器械标识（UDI）管理的新规，全面规定了UDI的分配、维护及数据库登记要求。该规定要求医疗器械制造商、进口商和分销商按照分阶段实施时间表，为产品赋予UDI码并完成信息录入，以强化供应链追溯和安全管理。相关企业须据此更新标签、质量体系及报告流程。"
+      },
+      "source_url": "https://www.mfds.go.kr/eng/brd/m_40/view.do?seq=72636&srchFr=&srchTo=&srchWord=&srchTp=&itm_seq_1=0&itm_seq_2=0&multi_itm_seq=0&company_cd=&company_nm=&page=1",
+      "source_name": "MFDS (Korea)",
+      "published_date": "2026-07-01",
+      "detected_date": "2026-07-01T15:16:32Z",
+      "importance": "high",
+      "tags": [
+        "unique_device_identification",
+        "udi",
+        "medical_device_regulation",
+        "korea_mfds",
+        "traceability"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "korea_mfds_20260701_mfds_guidance_on_additional_considerations_for_conformity_as",
+      "framework": "korea_mfds",
+      "category": "regulation_update",
+      "title": {
+        "en": "MFDS Guidance on Additional Considerations for Conformity Assessment of In Vitro Companion Diagnostic Medical Devices",
+        "zh": "韩国食药处发布体外诊断伴随诊断器械合格评定补充考虑指南"
+      },
+      "summary": {
+        "en": "The Ministry of Food and Drug Safety (MFDS) of Korea has published a guidance document specifying additional considerations for the conformity assessment of in vitro companion diagnostic medical devices. This affects manufacturers and sponsors of companion diagnostics by detailing supplementary evidence and performance requirements to be addressed during conformity assessment. Regulatory affairs professionals should review the new elements to ensure their technical documentation aligns with MFDS expectations when seeking or maintaining device approvals in Korea.",
+        "zh": "韩国食品药品安全处（MFDS）发布了体外诊断伴随诊断器械合格评定的补充考虑指南。该指南明确了制造商在合格评定过程中需要额外关注的证据与性能要求，直接影响在韩国申请或维持此类器械上市许可的企业。法规事务人员应仔细研究新增内容，确保技术文件符合MFDS的最新期望。"
+      },
+      "source_url": "https://www.mfds.go.kr/eng/brd/m_40/view.do?seq=72635&srchFr=&srchTo=&srchWord=&srchTp=&itm_seq_1=0&itm_seq_2=0&multi_itm_seq=0&company_cd=&company_nm=&page=1",
+      "source_name": "MFDS (Korea)",
+      "published_date": "2026-07-01",
+      "detected_date": "2026-07-01T15:16:44Z",
+      "importance": "medium",
+      "tags": [
+        "companion_diagnostics",
+        "ivd",
+        "conformity_assessment",
+        "mfds_guidance",
+        "korean_regulations"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "korea_mfds_20260701_mfds_amends_the_enforcement_rule_of_the_medical_devices_act",
+      "framework": "korea_mfds",
+      "category": "regulation_update",
+      "title": {
+        "en": "MFDS Amends the Enforcement Rule of the Medical Devices Act",
+        "zh": "韩国食药处修订《医疗器械法施行规则》"
+      },
+      "summary": {
+        "en": "The Ministry of Food and Drug Safety (MFDS) has revised the Enforcement Rule of the Medical Devices Act. This updated rule contains detailed administrative procedures covering device licensing, clinical investigations, good manufacturing practice, and post-market obligations. All medical device manufacturers, importers, and distributors operating in South Korea must review the changes and align their regulatory compliance processes accordingly. Industry should promptly assess the impact on product registrations, facility requirements, and reporting duties.",
+        "zh": "韩国食品医药品安全处（MFDS）修订了《医疗器械法施行规则》。该规则详细规定了医疗器械许可、临床试验、生产质量管理规范及上市后管理等行政程序。所有在韩国运营的医疗器械制造商、进口商和分销商均需审阅变更内容，并相应调整合规流程，确保在注册、设施要求和报告义务等方面符合新规。"
+      },
+      "source_url": "https://www.mfds.go.kr/eng/brd/m_40/view.do?seq=72634&srchFr=&srchTo=&srchWord=&srchTp=&itm_seq_1=0&itm_seq_2=0&multi_itm_seq=0&company_cd=&company_nm=&page=1",
+      "source_name": "MFDS (Korea)",
+      "published_date": "2026-07-01",
+      "detected_date": "2026-07-01T15:17:03Z",
+      "importance": "medium",
+      "tags": [
+        "korea_mfds",
+        "medical_device_act",
+        "enforcement_rule",
+        "regulatory_update"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "korea_mfds_20260701_mfds_amends_regulation_on_permission_notification_review_of",
+      "framework": "korea_mfds",
+      "category": "regulation_update",
+      "title": {
+        "en": "MFDS Amends Regulation on Permission, Notification, Review of Medical Devices",
+        "zh": "韩国食药处修订《医疗器械许可、申报、审查等规定》"
+      },
+      "summary": {
+        "en": "This amendment updates the comprehensive Korean regulation governing medical device marketing authorization, notification, and review processes. It affects manufacturers and importers seeking to place devices on the Korean market, introducing revised procedures, documentation requirements, and classification criteria. Companies must review the changes to ensure ongoing compliance and adapt their registration dossiers accordingly.",
+        "zh": "该修订更新了韩国医疗器械许可、申报和审查的核心法规，涉及上市授权、通知程序和审评要求的变化。影响所有拟在韩国市场销售产品的制造商和进口商，需按照新规调整申请文件、技术文档和分类策略。企业应尽快审查修订内容以保证合规。"
+      },
+      "source_url": "https://www.mfds.go.kr/eng/brd/m_40/view.do?seq=72633&srchFr=&srchTo=&srchWord=&srchTp=&itm_seq_1=0&itm_seq_2=0&multi_itm_seq=0&company_cd=&company_nm=&page=1",
+      "source_name": "MFDS (Korea)",
+      "published_date": "2026-07-01",
+      "detected_date": "2026-07-01T15:17:17Z",
+      "importance": "medium",
+      "tags": [
+        "korea",
+        "medical_device_regulation",
+        "marketing_authorization",
+        "review_procedure",
+        "notification"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "korea_mfds_20260701_mfds_issues_enforcement_rule_of_the_act_on_in_vitro_diagnost",
+      "framework": "korea_mfds",
+      "category": "regulation_update",
+      "title": {
+        "en": "MFDS Issues Enforcement Rule of the Act on In-Vitro Diagnostic Medical Devices",
+        "zh": "韩国MFDS发布《体外诊断医疗器械法施行规则》"
+      },
+      "summary": {
+        "en": "The Ministry of Food and Drug Safety (MFDS) has published the Enforcement Rule of the Act on In-Vitro Diagnostic Medical Devices, detailing the procedures and standards needed to implement the new IVD legislation in Korea. This rule applies to all manufacturers, importers, and distributors of in-vitro diagnostic products. Affected parties should review the rule to comply with requirements on classification, conformity assessment, quality management, and post-market surveillance.",
+        "zh": "韩国食品药品安全部（MFDS）发布了《体外诊断医疗器械法施行规则》，明确了实施韩国新版体外诊断医疗器械法律所需的程序和标准。该规则适用于所有体外诊断产品的制造商、进口商和经销商。相关方应审查该规则，确保在器械分类、合格评定、质量管理和上市后监督等方面满足合规要求。"
+      },
+      "source_url": "https://www.mfds.go.kr/eng/brd/m_40/view.do?seq=72632&srchFr=&srchTo=&srchWord=&srchTp=&itm_seq_1=0&itm_seq_2=0&multi_itm_seq=0&company_cd=&company_nm=&page=1",
+      "source_name": "MFDS (Korea)",
+      "published_date": "2026-07-01",
+      "detected_date": "2026-07-01T15:17:33Z",
+      "importance": "high",
+      "tags": [
+        "korea_mfds",
+        "ivd_regulation",
+        "enforcement_rule",
+        "regulatory_update"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "korea_mfds_20260701_mfds_issues_instructions_on_labeling_and_management_of_uniqu",
+      "framework": "korea_mfds",
+      "category": "regulation_update",
+      "title": {
+        "en": "MFDS Issues Instructions on Labeling and Management of Unique Device Identifiers",
+        "zh": "韩国发布医疗器械唯一标识标签与管理指南"
+      },
+      "summary": {
+        "en": "The Ministry of Food and Drug Safety (MFDS) has released a guidance document specifying how medical device manufacturers and importers must label Unique Device Identifiers (UDIs) and manage UDI-related data. The instructions cover label placement, format, and submission requirements to the national UDI database. Affected companies should review and align their labeling and data management processes to meet Korea’s UDI compliance deadlines.",
+        "zh": "韩国食品药品安全部（MFDS）发布了关于医疗器械唯一标识（UDI）标签和管理的具体指南，明确了标签的放置、格式要求及向国家UDI数据库提交数据的规范。该指南影响所有在韩国流通医疗器械的制造商和进口商，相关企业须据此调整标签设计和数据管理流程，以确保符合UDI合规期限。"
+      },
+      "source_url": "https://www.mfds.go.kr/eng/brd/m_40/view.do?seq=72631&srchFr=&srchTo=&srchWord=&srchTp=&itm_seq_1=0&itm_seq_2=0&multi_itm_seq=0&company_cd=&company_nm=&page=1",
+      "source_name": "MFDS (Korea)",
+      "published_date": "2026-07-01",
+      "detected_date": "2026-07-01T15:17:49Z",
+      "importance": "high",
+      "tags": [
+        "udi",
+        "labeling",
+        "medical_devices"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "korea_mfds_20260701_mfds_issues_regulations_on_labeling_and_description_for_medi",
+      "framework": "korea_mfds",
+      "category": "regulation_update",
+      "title": {
+        "en": "MFDS Issues Regulations on Labeling and Description for Medical Devices",
+        "zh": "韩国MFDS发布医疗器械标签与说明书法规"
+      },
+      "summary": {
+        "en": "The South Korean Ministry of Food and Drug Safety (MFDS) has published regulations detailing mandatory requirements for the labeling and description of medical devices marketed in Korea. These rules cover product identification, manufacturer information, intended use, warnings, and instructions, affecting all domestic and foreign manufacturers and importers. Companies must review their current labeling and descriptions to ensure full compliance with the updated provisions to avoid regulatory penalties or market access issues.",
+        "zh": "韩国食品药品安全部（MFDS）发布了医疗器械标签和说明书的强制性法规，涵盖产品标识、制造商信息、预期用途、警示和说明等内容。该法规适用于所有国内外制造商和进口商，企业须审查现有标签和说明书以确保完全合规，避免因违规而受到处罚或市场准入限制。"
+      },
+      "source_url": "https://www.mfds.go.kr/eng/brd/m_40/view.do?seq=72630&srchFr=&srchTo=&srchWord=&srchTp=&itm_seq_1=0&itm_seq_2=0&multi_itm_seq=0&company_cd=&company_nm=&page=1",
+      "source_name": "MFDS (Korea)",
+      "published_date": "2026-07-01",
+      "detected_date": "2026-07-01T15:18:05Z",
+      "importance": "high",
+      "tags": [
+        "labeling",
+        "medical_device_regulation",
+        "korea_mfds",
+        "description_requirements",
+        "compliance"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "korea_mfds_20260701_mfds_revises_standards_for_medical_device_good_manufacturing",
+      "framework": "korea_mfds",
+      "category": "regulation_update",
+      "title": {
+        "en": "MFDS Revises Standards for Medical Device Good Manufacturing Practices (GMP)",
+        "zh": "韩国食药安全部修订《医疗器械生产质量管理规范》标准"
+      },
+      "summary": {
+        "en": "South Korea's Ministry of Food and Drug Safety (MFDS) has published a revision to the Standards of Medical Device Good Manufacturing Practices. The updated standards align quality management system requirements more closely with international norms such as ISO 13485. Medical device manufacturers and importers in the Korean market must review their quality systems and implement necessary changes to remain compliant. A transition period is expected, and stakeholders should promptly assess the impact on their operations.",
+        "zh": "韩国食品药品安全部（MFDS）发布了《医疗器械生产质量管理规范》修订版。此次修订使质量管理体系要求与国际标准（如ISO 13485）进一步接轨。在韩国市场的医疗器械制造商和进口商须审查其质量体系，实施必要变更以保持合规。预计将设定过渡期，相关方应尽快评估对自身运营的影响。"
+      },
+      "source_url": "https://www.mfds.go.kr/eng/brd/m_40/view.do?seq=72629&srchFr=&srchTo=&srchWord=&srchTp=&itm_seq_1=0&itm_seq_2=0&multi_itm_seq=0&company_cd=&company_nm=&page=1",
+      "source_name": "MFDS (Korea)",
+      "published_date": "2026-07-01",
+      "detected_date": "2026-07-01T15:18:22Z",
+      "importance": "medium",
+      "tags": [
+        "gmp",
+        "quality_management_system",
+        "korea_mfds",
+        "iso_13485",
+        "medical_device"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "korea_mfds_20260701_mfds_publishes_2025_medical_device_approval_report",
+      "framework": "korea_mfds",
+      "category": "regulation_update",
+      "title": {
+        "en": "MFDS Publishes 2025 Medical Device Approval Report",
+        "zh": "韩国食药处发布2025年度医疗器械审批报告"
+      },
+      "summary": {
+        "en": "The Ministry of Food and Drug Safety (MFDS) has released its annual report detailing medical device approvals in Korea for 2025, covering certifications, amendments, and market trends. The report serves as a benchmark for manufacturers, importers, and regulatory professionals seeking to understand the Korean medical device approval landscape. No immediate regulatory action is required, but stakeholders are encouraged to review the data for strategic planning and compliance monitoring.",
+        "zh": "韩国食品药品安全部（MFDS）发布了2025年度医疗器械审批报告，汇总了全年新认证、变更审批及市场趋势数据。该报告为制造商、进口商和法规事务人员提供了韩国医疗器械审批格局的参考。无需立即采取合规措施，但建议相关方研读报告内容，用于战略规划与合规监测。"
+      },
+      "source_url": "https://www.mfds.go.kr/eng/brd/m_41/view.do?seq=70940&srchFr=&srchTo=&srchWord=&srchTp=&itm_seq_1=0&itm_seq_2=0&multi_itm_seq=0&company_cd=&company_nm=&page=1",
+      "source_name": "MFDS (Korea)",
+      "published_date": "2026-07-01",
+      "detected_date": "2026-07-01T15:18:34Z",
+      "importance": "medium",
+      "tags": [
+        "korea_mfds",
+        "medical_device_approval",
+        "annual_report",
+        "regulatory_affairs"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "korea_mfds_20260701_mfds_publishes_2024_medical_device_approval_report",
+      "framework": "korea_mfds",
+      "category": "regulation_update",
+      "title": {
+        "en": "MFDS Publishes 2024 Medical Device Approval Report",
+        "zh": "韩国食药安全处发布2024年医疗器械审批报告"
+      },
+      "summary": {
+        "en": "The Korean Ministry of Food and Drug Safety (MFDS) has issued its annual report for 2024, summarizing medical device approval statistics, including new certifications, amendments, and renewals. The document provides insights into approval volumes, review timelines, and product category trends. Regulatory professionals should examine the report to benchmark submission strategies and monitor shifts in MFDS review practices.",
+        "zh": "韩国食品药品安全处（MFDS）发布了2024年度医疗器械审批报告，汇总了新认证、变更及延续注册等统计数据。报告涵盖审批数量、审评时限及产品类别趋势，为注册专员制定申报策略和观察审评动态提供参考。"
+      },
+      "source_url": "https://www.mfds.go.kr/eng/brd/m_41/view.do?seq=70939&srchFr=&srchTo=&srchWord=&srchTp=&itm_seq_1=0&itm_seq_2=0&multi_itm_seq=0&company_cd=&company_nm=&page=1",
+      "source_name": "MFDS (Korea)",
+      "published_date": "2026-07-01",
+      "detected_date": "2026-07-01T15:18:46Z",
+      "importance": "medium",
+      "tags": [
+        "korea_mfds",
+        "medical_device_approval",
+        "annual_report",
+        "regulatory_intelligence"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "korea_mfds_20260701_mfds_publishes_2023_medical_device_approval_statistics_repor",
+      "framework": "korea_mfds",
+      "category": "regulation_update",
+      "title": {
+        "en": "MFDS Publishes 2023 Medical Device Approval Statistics Report",
+        "zh": "韩国食药安全处发布2023年医疗器械审批统计报告"
+      },
+      "summary": {
+        "en": "The Ministry of Food and Drug Safety (MFDS) has released its Annual Medical Device Approval Report for 2023, summarizing the number of product approvals, certifications, and clearances. The data covers domestic and imported devices, providing industry stakeholders with insights into regulatory trends and market access activity. Medical device manufacturers and importers can use this information for benchmarking and strategic planning in the Korean market.",
+        "zh": "韩国食药安全处（MFDS）发布了2023年度医疗器械审批报告，汇总了产品许可、认证和备案的数量。报告涵盖国产与进口器械，为行业提供了监管趋势和市场准入动态的参考。医疗器械制造商和进口商可利用该报告在韩国市场进行对标分析和战略规划。"
+      },
+      "source_url": "https://www.mfds.go.kr/eng/brd/m_41/view.do?seq=70938&srchFr=&srchTo=&srchWord=&srchTp=&itm_seq_1=0&itm_seq_2=0&multi_itm_seq=0&company_cd=&company_nm=&page=1",
+      "source_name": "MFDS (Korea)",
+      "published_date": "2026-07-01",
+      "detected_date": "2026-07-01T15:18:56Z",
+      "importance": "medium",
+      "tags": [
+        "medical_device_approval",
+        "annual_report",
+        "MFDS",
+        "regulatory_statistics",
+        "South_Korea"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "korea_mfds_20260701_mfds_publishes_2022_medical_device_approval_report_with_mark",
+      "framework": "korea_mfds",
+      "category": "regulation_update",
+      "title": {
+        "en": "MFDS Publishes 2022 Medical Device Approval Report with Market Trend Data",
+        "zh": "韩国发布2022年医疗器械审批报告，总结市场趋势数据"
+      },
+      "summary": {
+        "en": "The Korean Ministry of Food and Drug Safety (MFDS) released the 2022 Medical Device Approval Report, providing annual statistics on approvals, certifications, and notifications. The report details trends by device class and product type, serving as a reference for manufacturers and regulatory professionals to understand Korea’s medical device market dynamics and plan market entry strategies.",
+        "zh": "韩国食品医药品安全部（MFDS）发布《2022年医疗器械审批报告》，汇总了当年各类医疗器械的批准、认证及备案统计数据。报告按产品类别和风险等级分析审批趋势，为制造商及法规事务人员了解韩国医疗器械市场动态、制定准入策略提供参考依据。"
+      },
+      "source_url": "https://www.mfds.go.kr/eng/brd/m_41/view.do?seq=70937&srchFr=&srchTo=&srchWord=&srchTp=&itm_seq_1=0&itm_seq_2=0&multi_itm_seq=0&company_cd=&company_nm=&page=1",
+      "source_name": "MFDS (Korea)",
+      "published_date": "2026-07-01",
+      "detected_date": "2026-07-01T15:19:09Z",
+      "importance": "medium",
+      "tags": [
+        "medical_device",
+        "korea_mfds",
+        "approval_report",
+        "annual_statistics",
+        "regulatory_intelligence"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "korea_mfds_20260701_mfds_publishes_2021_medical_device_approval_report_and_stati",
+      "framework": "korea_mfds",
+      "category": "regulation_update",
+      "title": {
+        "en": "MFDS Publishes 2021 Medical Device Approval Report and Statistics",
+        "zh": "韩国食药处发布2021年度医疗器械审批报告"
+      },
+      "summary": {
+        "en": "The Korean Ministry of Food and Drug Safety (MFDS) released the 2021 Medical Device Approval Report, summarizing the year’s approval, certification, and amendment statistics. The report offers insights into approval volumes, timelines, and classification trends, helping regulatory affairs professionals assess market entry dynamics. No immediate compliance actions are required, but the data is valuable for strategic registration planning and benchmarking.",
+        "zh": "韩国食品医药品安全部（MFDS）发布《2021年医疗器械审批报告》，汇总了全年批准、认证及变更的统计数据。该报告揭示了各类产品的审批数量、耗时及分类趋势，为监管事务人员提供了市场准入的参考依据。无需立即采取合规行动，但可用于注册策略规划和行业对标。"
+      },
+      "source_url": "https://www.mfds.go.kr/eng/brd/m_41/view.do?seq=70936&srchFr=&srchTo=&srchWord=&srchTp=&itm_seq_1=0&itm_seq_2=0&multi_itm_seq=0&company_cd=&company_nm=&page=1",
+      "source_name": "MFDS (Korea)",
+      "published_date": "2026-07-01",
+      "detected_date": "2026-07-01T15:19:20Z",
+      "importance": "medium",
+      "tags": [
+        "medical_device",
+        "approval_report",
+        "mfds",
+        "annual_statistics",
+        "korea_regulation"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "korea_mfds_20260701_mfds_publishes_2020_medical_device_approval_report_with_annu",
+      "framework": "korea_mfds",
+      "category": "regulation_update",
+      "title": {
+        "en": "MFDS Publishes 2020 Medical Device Approval Report with Annual Statistics",
+        "zh": "韩国食药安全部发布《2020年医疗器械审批报告》"
+      },
+      "summary": {
+        "en": "The Ministry of Food and Drug Safety (MFDS) has released its annual report on medical device approvals for 2020. The report provides a statistical overview of product registrations, certifications, and approvals, highlighting category trends and market entry volumes. Regulatory professionals and manufacturers can use this data to benchmark approval timelines, identify growth segments, and anticipate regulatory focus areas. No immediate action is required, but the document serves as a valuable resource for strategic planning and compliance monitoring.",
+        "zh": "韩国食品药品安全部（MFDS）发布了2020年度医疗器械审批统计报告。报告汇总了产品注册、认证和批准的总体数据，分析了各产品类别的趋势及市场准入规模。注册事务人员和制造商可利用该报告了解审批时长、识别增长领域并预判监管重点。本报告不要求即时行动，但可为战略规划和合规监测提供重要参考。"
+      },
+      "source_url": "https://www.mfds.go.kr/eng/brd/m_41/view.do?seq=70935&srchFr=&srchTo=&srchWord=&srchTp=&itm_seq_1=0&itm_seq_2=0&multi_itm_seq=0&company_cd=&company_nm=&page=1",
+      "source_name": "MFDS (Korea)",
+      "published_date": "2026-07-01",
+      "detected_date": "2026-07-01T15:19:32Z",
+      "importance": "low",
+      "tags": [
+        "medical_device_approval",
+        "mfds_report",
+        "market_statistics",
+        "2020_annual_summary"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "korea_mfds_20260701_mfds_released_the_2019_medical_device_approval_report_summar",
+      "framework": "korea_mfds",
+      "category": "regulation_update",
+      "title": {
+        "en": "MFDS Released the 2019 Medical Device Approval Report Summarizing Approval Statistics",
+        "zh": "韩国食药处发布2019年医疗器械审批报告"
+      },
+      "summary": {
+        "en": "The Korean Ministry of Food and Drug Safety (MFDS) published the 2019 Medical Device Approval Report, providing an overview of medical device approvals, certifications, and classifications for the year. This report is essential for medical device manufacturers, importers, and regulatory professionals to understand market access trends and regulatory activities in South Korea. It includes statistics on approval numbers, product categories, and review timelines, helping stakeholders assess the approval landscape and plan future submissions.",
+        "zh": "韩国食品医药品安全部发布了2019年医疗器械审批报告，总结了该年度医疗器械审批、认证及分类概况。该报告对于医疗器械制造商、进口商和法规专业人员了解韩国市场准入趋势和监管活动至关重要。报告包含审批数量、产品类别和审评时限等统计数据，有助于相关方评估审批形势并规划后续注册申报。"
+      },
+      "source_url": "https://www.mfds.go.kr/eng/brd/m_41/view.do?seq=70934&srchFr=&srchTo=&srchWord=&srchTp=&itm_seq_1=0&itm_seq_2=0&multi_itm_seq=0&company_cd=&company_nm=&page=1",
+      "source_name": "MFDS (Korea)",
+      "published_date": "2026-07-01",
+      "detected_date": "2026-07-01T15:19:45Z",
+      "importance": "medium",
+      "tags": [
+        "medical_device_approval",
+        "annual_report",
+        "korea_mfds"
+      ],
+      "related_docs": [],
+      "status": "published"
+    }
+  ]
 }

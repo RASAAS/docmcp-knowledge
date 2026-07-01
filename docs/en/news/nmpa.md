@@ -18,6 +18,30 @@ On August 29, 2023, NMPA released amendment sheets for seven medical device indu
 
 ---
 
+### CMDE Guideline on Shelf Life of Non-active Implantable Medical Devices
+
+**2026-07-01** | NMPA | New Guidance | !!! HIGH
+
+This guidance document from China's CMDE specifies general requirements for establishing and documenting the shelf life of non-active implantable medical devices. It applies to manufacturers seeking NMPA registration for such devices and covers aspects like stability testing protocols. Applicants must use this guidance when preparing shelf life evidence, while other technical requirements remain subject to separate regulations and guidance documents.
+
+**Tags**: `non_active_implantable`, `shelf_life`, `cmde_guidance`, `stability`, `regulatory_submission`
+
+[View Source (Official Source)](https://www.cmde.org.cn/images/1267747813062.doc?type=pc&m=)
+
+---
+
+### New Guidance Standard: YY/T 0316 Application Guide for Medical Device Risk Management
+
+**2026-07-01** | NMPA | Standard Revision | !! MEDIUM
+
+This standard offers guidance on establishing, implementing, and maintaining a medical device risk management process conforming to YY/T 0316 (Chinese adoption of ISO 14971). It is designed to help manufacturers understand and apply YY/T 0316 requirements. The guide is now listed on the National Standard Information Public Service Platform. Manufacturers should review the document to ensure their risk management systems are aligned.
+
+**Tags**: `risk_management`, `yy_t0316`, `guidance`, `medical_device`, `standards`
+
+[View Source (Official Source)](https://std.samr.gov.cn/hb/search/stdHBDetailed?id=8B1827F248CABB19E05397BE0A0AB44A)
+
+---
+
 ### NMPA Announcement No. 52 (2026) -- Medical Device Classification Adjustment Procedures
 
 **2026-06-01** | NMPA | Regulation Update | !!! HIGH

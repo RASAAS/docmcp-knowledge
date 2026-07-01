@@ -1,6 +1,6 @@
 {
   "framework": "_shared",
-  "last_updated": "2026-07-01T13:09:48Z",
+  "last_updated": "2026-07-01T15:22:14Z",
   "items": [
     {
       "id": "_shared_20260701_iec_62304_2006_amd1_2015_csv_published_consolidated_medical",
@@ -25,6 +25,245 @@
         "medical_device_software",
         "consolidated_standard",
         "regulatory_compliance"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "_shared_20260701_iso_14971_2019_medical_devices_application_of_risk_managemen",
+      "framework": "_shared",
+      "category": "standard_revision",
+      "title": {
+        "en": "ISO 14971:2019 - Medical devices — Application of risk management",
+        "zh": "ISO 14971:2019 医疗器械风险管理标准"
+      },
+      "summary": {
+        "en": "ISO 14971:2019 is the core international standard outlining a comprehensive risk management framework for all medical device manufacturers throughout the product lifecycle. It specifies terminology, principles, and processes to identify, evaluate, control, and monitor risks, with the 2019 edition introducing clarifications on benefit-risk analysis and post-market activities. Compliance with this standard is essential for meeting regulatory requirements such as EU MDR and FDA Quality System Regulations.",
+        "zh": "ISO 14971:2019 是面向所有医疗器械制造商的核心国际标准，系统规定了贯穿产品全生命周期的风险管理框架。该标准明确了术语、原则及风险识别、评估、控制和监控流程，2019年版就受益-风险分析及上市后活动进行了澄清补充。符合该标准是满足欧盟MDR、FDA质量体系法规等监管要求的关键基础。"
+      },
+      "source_url": "https://www.iso.org/standard/72704.html",
+      "source_name": "ISO",
+      "published_date": "2026-07-01",
+      "detected_date": "2026-07-01T15:19:59Z",
+      "importance": "high",
+      "tags": [
+        "iso_14971",
+        "risk_management",
+        "medical_devices",
+        "standard"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "_shared_20260701_iso_10993_18_2005_chemical_characterization_of_materials_for",
+      "framework": "_shared",
+      "category": "standard_revision",
+      "title": {
+        "en": "ISO 10993-18:2005 – Chemical Characterization of Materials for Biological Evaluation of Medical Devices",
+        "zh": "ISO 10993-18:2005 – 医疗器械生物学评价的材料化学表征"
+      },
+      "summary": {
+        "en": "This standard specifies the framework for identifying and quantifying chemical constituents released from medical device materials as part of biological evaluation. It applies to manufacturers whose devices contact the body directly or indirectly, requiring a thorough chemical characterization to support toxicological risk assessment. Key actions include performing extraction studies, analyzing leachable substances, and documenting the chemical profile in accordance with the ISO 10993 series. Compliance with this standard helps demonstrate the safety of device materials under ISO 10993-1.",
+        "zh": "该标准规定了医疗器械材料化学表征的框架，用于识别和量化材料释放的化学成分，以支持毒理学风险评估。适用于直接或间接接触人体的器械制造商，需要进行彻底的化学表征。关键行动包括开展提取研究、分析可沥滤物，并按照ISO 10993系列要求记录化学特性。符合此标准有助于证明器械材料在ISO 10993-1下的安全性。"
+      },
+      "source_url": "https://www.iso.org/standard/41106.html",
+      "source_name": "ISO",
+      "published_date": "2026-07-01",
+      "detected_date": "2026-07-01T15:20:12Z",
+      "importance": "medium",
+      "tags": [
+        "biocompatibility",
+        "chemical_characterization",
+        "iso_10993"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "_shared_20260701_iso_10993_10_2002_biological_evaluation_of_medical_devices_i",
+      "framework": "_shared",
+      "category": "standard_revision",
+      "title": {
+        "en": "ISO 10993-10:2002 – Biological evaluation of medical devices: Irritation and skin sensitization testing",
+        "zh": "ISO 10993-10:2002 医疗器械生物学评价 第10部分：刺激与皮肤致敏试验"
+      },
+      "summary": {
+        "en": "This standard specifies procedures for assessing the potential of medical device materials to cause irritation and skin sensitization. It is intended for manufacturers, testing laboratories, and regulatory professionals involved in biocompatibility evaluations. The 2002 edition has been superseded by ISO 10993-10:2010, so stakeholders should transition to the current version to meet regulatory expectations.",
+        "zh": "该标准规定了医疗器械材料引起刺激和皮肤致敏可能性的评估程序。适用于开展生物相容性评价的制造商、检测实验室及法规事务人员。2002年版已被ISO 10993-10:2010替代，相关方应改用现行版本以满足监管要求。"
+      },
+      "source_url": "https://www.iso.org/standard/33364.html",
+      "source_name": "ISO",
+      "published_date": "2026-07-01",
+      "detected_date": "2026-07-01T15:20:32Z",
+      "importance": "low",
+      "tags": [
+        "iso_10993_10",
+        "biocompatibility",
+        "irritation",
+        "skin_sensitization",
+        "medical_device_testing"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "_shared_20260701_iso_14971_2000_withdrawn_transition_to_iso_14971_2019_for_me",
+      "framework": "_shared",
+      "category": "standard_revision",
+      "title": {
+        "en": "ISO 14971:2000 Withdrawn – Transition to ISO 14971:2019 for Medical Device Risk Management",
+        "zh": "ISO 14971:2000已废止，医疗器械风险管理需采用ISO 14971:2019"
+      },
+      "summary": {
+        "en": "The first edition of ISO 14971:2000, the international standard for risk management of medical devices, has been withdrawn and superseded by ISO 14971:2019. This update affects all medical device manufacturers and regulatory professionals who must align their risk management processes with the third edition. The 2019 version introduces refined risk concepts and explicit requirements that impact design, production, and post-market surveillance. Transitioning is essential to maintain compliance with global regulations that reference this core standard.",
+        "zh": "医疗器械风险管理的国际标准ISO 14971:2000第一版已正式废止，由ISO 14971:2019取代。所有医疗器械制造商和法规事务专业人员需将风险管理过程更新至第三版，新版细化了风险概念并明确了影响设计、生产及上市后监督的要求。由于全球多项法规引用该标准，及时过渡对保持合规至关重要。"
+      },
+      "source_url": "https://www.iso.org/standard/31550.html",
+      "source_name": "ISO",
+      "published_date": "2026-07-01",
+      "detected_date": "2026-07-01T15:20:48Z",
+      "importance": "medium",
+      "tags": [
+        "risk_management",
+        "iso_14971",
+        "standard_update",
+        "medical_device_compliance"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "_shared_20260701_iec_60601_1_2005_general_safety_and_essential_performance_st",
+      "framework": "_shared",
+      "category": "standard_revision",
+      "title": {
+        "en": "IEC 60601-1:2005 – General Safety and Essential Performance Standard for Medical Electrical Equipment",
+        "zh": "IEC 60601-1:2005 医用电气设备基本安全与基本性能通用标准"
+      },
+      "summary": {
+        "en": "IEC 60601-1:2005 is the third edition of the core standard for medical electrical equipment, specifying general requirements for basic safety and essential performance. It applies to manufacturers of a wide range of medical devices and is harmonized by regulators such as the FDA, Health Canada, and under the EU Medical Device Regulation. Compliance typically requires testing by an accredited laboratory to demonstrate conformance, and the standard serves as the foundation for many collateral and particular standards.",
+        "zh": "IEC 60601-1:2005 是医用电气设备基础标准的第三版，规定了基本安全和基本性能的通用要求。该标准适用于各类医用电气设备制造商，已被美国 FDA、加拿大卫生部及欧盟医疗器械法规等监管机构所协调采用。合规通常需要经认可的实验室进行测试以证明符合性，并且该标准是众多并列和专用标准的基础。"
+      },
+      "source_url": "https://webstore.iec.ch/en/publication/2606",
+      "source_name": "IEC",
+      "published_date": "2026-07-01",
+      "detected_date": "2026-07-01T15:21:05Z",
+      "importance": "low",
+      "tags": [
+        "iec_60601_1",
+        "basic_safety",
+        "essential_performance",
+        "medical_electrical_equipment",
+        "international_standard",
+        "regulatory_harmonization"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "_shared_20260701_iec_60601_1_11_2015_requirements_for_medical_electrical_equi",
+      "framework": "_shared",
+      "category": "standard_revision",
+      "title": {
+        "en": "IEC 60601-1-11:2015 – Requirements for Medical Electrical Equipment in the Home Healthcare Environment",
+        "zh": "IEC 60601-1-11:2015 – 家用醫療電氣設備要求標準"
+      },
+      "summary": {
+        "en": "IEC 60601-1-11:2015 specifies general requirements for basic safety and essential performance of medical electrical equipment and systems intended for use in the home healthcare environment. This standard applies to manufacturers of devices such as ventilators, infusion pumps, and patient monitors, aiming to ensure that equipment is safe for use by lay operators, withstands home environmental conditions, and includes appropriate instructions and markings. Regulatory affairs professionals should ensure that new or modified devices comply with this standard to support market clearance applications in jurisdictions recognizing IEC 60601-1-11, and review existing product portfolios for gaps in home-use labeling and testing.",
+        "zh": "IEC 60601-1-11:2015 標準規定了在家庭醫療保健環境中使用的醫用電氣設備和系統的基本安全和基本性能要求。該標準影響通風機、輸液泵、病人監護儀等設備的製造商，旨在確保設備可由非專業操作者安全使用，承受家庭環境條件，並提供合適的說明和標記。法規事務專業人員應確保新設計或修改的設備符合此標準以支持在認可IEC 60601-1-11的地區的市場許可申請，並檢視現有產品線在家庭使用標籤和測試方面的不足。"
+      },
+      "source_url": "https://webstore.iec.ch/en/publication/2588",
+      "source_name": "IEC",
+      "published_date": "2026-07-01",
+      "detected_date": "2026-07-01T15:21:16Z",
+      "importance": "medium",
+      "tags": [
+        "iec_60601_1_11",
+        "home_healthcare",
+        "medical_electrical_equipment",
+        "basic_safety",
+        "essential_performance",
+        "regulatory_compliance"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "_shared_20260701_iec_60601_1_11_2015_amd1_2020_amendment_to_home_healthcare_m",
+      "framework": "_shared",
+      "category": "standard_revision",
+      "title": {
+        "en": "IEC 60601-1-11:2015/AMD1:2020 – Amendment to Home Healthcare Medical Electrical Equipment Standard",
+        "zh": "IEC 60601-1-11:2015/AMD1:2020 居家医疗电气设备标准修订案"
+      },
+      "summary": {
+        "en": "This amendment updates IEC 60601-1-11:2015, which specifies safety and performance requirements for medical electrical equipment and systems used in home healthcare environments. Manufacturers of home-use medical devices are directly affected and should review the changes to maintain compliance. Key actions include evaluating design impacts, updating risk management files, and aligning with amended normative references or test protocols. The revision may necessitate updates to technical documentation for regulatory submissions in jurisdictions that recognize IEC standards.",
+        "zh": "本修订案更新了IEC 60601-1-11:2015标准，该标准规定了家庭医疗环境中使用的医用电气设备和系统的安全与性能要求。相关家用医疗器械制造商需关注变更内容以确保持续合规，重点包括评估设计影响、更新风险管理文档并调整至新规范性引用文件及测试方法。在认可IEC标准的市场中，此项修订可能要求更新产品技术文档以支持监管申报。"
+      },
+      "source_url": "https://webstore.iec.ch/en/publication/59650",
+      "source_name": "IEC",
+      "published_date": "2026-07-01",
+      "detected_date": "2026-07-01T15:21:35Z",
+      "importance": "medium",
+      "tags": [
+        "iec_60601_1_11",
+        "home_healthcare",
+        "standard_amendment",
+        "medical_device_compliance",
+        "electrical_safety"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "_shared_20260701_iec_60601_1_9_2007_collateral_standard_published_to_reduce_e",
+      "framework": "_shared",
+      "category": "standard_revision",
+      "title": {
+        "en": "IEC 60601-1-9:2007 Collateral Standard Published to Reduce Environmental Impact of Medical Electrical Equipment",
+        "zh": "IEC 60601-1-9:2007 附属标准发布：减少医疗电气设备环境影响"
+      },
+      "summary": {
+        "en": "This collateral standard to IEC 60601 sets requirements for minimizing the environmental impact of medical electrical equipment across its entire life cycle. Manufacturers must integrate environmental considerations into product design, covering material selection, energy use, and end-of-life management. Compliance may become necessary for regulatory submissions in markets that adopt IEC standards, requiring documentation of environmental aspects.",
+        "zh": "该标准作为 IEC 60601 的附属标准，规定了减少医疗电气设备在整个生命周期内环境影响的要求。制造商需在产品设计中融入环保因素，涵盖材料选择、能耗和废弃处理。在采纳 IEC 标准的市场，合规可能成为注册要求，并需要记录环境相关方面。"
+      },
+      "source_url": "https://webstore.iec.ch/en/publication/2601",
+      "source_name": "IEC",
+      "published_date": "2026-07-01",
+      "detected_date": "2026-07-01T15:21:55Z",
+      "importance": "medium",
+      "tags": [
+        "iec_60601",
+        "environmental_impact",
+        "collateral_standard",
+        "medical_electrical_equipment"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "_shared_20260701_iec_60601_2_25_2011_standard_for_electrocardiographs_safety",
+      "framework": "_shared",
+      "category": "standard_revision",
+      "title": {
+        "en": "IEC 60601-2-25:2011 Standard for Electrocardiographs Safety and Performance Now Available",
+        "zh": "IEC 60601-2-25:2011 心电图机安全与性能标准现已发布"
+      },
+      "summary": {
+        "en": "The IEC 60601-2-25:2011 standard specifies particular requirements for basic safety and essential performance of electrocardiographs (ECG). It applies to medical electrical equipment in diagnostic environments and is critical for manufacturers aligning with global regulatory pathways. Manufacturers should review the scope and exclusions to confirm device compliance.",
+        "zh": "IEC 60601-2-25:2011 标准规定了心电图机（ECG）的基本安全和基本性能特殊要求。该标准适用于诊断场景中的医用电气设备，对寻求全球法规合规的制造商至关重要。制造商应审查其范围和排除条款，以确保设备符合更新后的要求。"
+      },
+      "source_url": "https://webstore.iec.ch/en/publication/2636",
+      "source_name": "IEC",
+      "published_date": "2026-07-01",
+      "detected_date": "2026-07-01T15:22:14Z",
+      "importance": "low",
+      "tags": [
+        "iec_60601",
+        "electrocardiograph",
+        "safety_standard",
+        "medical_electrical_equipment"
       ],
       "related_docs": [],
       "status": "published"
