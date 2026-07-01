@@ -23,6 +23,10 @@ on:
         description: 'Regulation group to check (eu_mdr/fda/nmpa/shared/uk_mhra/canada/australia_tga/japan_pmda/korea_mfds/tier1_west/tier1_east/all)'
         required: false
         default: 'all'
+      seed_news:
+        description: 'Seed mode: generate initial news from first-time sources (true/false)'
+        required: false
+        default: 'false'
 
 jobs:
   check-updates:
@@ -89,10 +93,14 @@ jobs:
         id: check
         run: |
           GROUP="${{ steps.group.outputs.group }}"
+          SEED_FLAG=""
+          if [ "${{ github.event.inputs.seed_news }}" = "true" ]; then
+            SEED_FLAG="--seed-news"
+          fi
           if [ "$GROUP" = "all" ]; then
-            python scripts/fetch_updates.py --check-all --analyze-versions --report --output /tmp/update_report.json
+            python scripts/fetch_updates.py --check-all --analyze-versions --report --output /tmp/update_report.json $SEED_FLAG
           else
-            python scripts/fetch_updates.py --check "$GROUP" --analyze-versions --report --output /tmp/update_report.json
+            python scripts/fetch_updates.py --check "$GROUP" --analyze-versions --report --output /tmp/update_report.json $SEED_FLAG
           fi
         env:
           VERTEX_AI_PROJECT_ID: ${{ secrets.VERTEX_AI_PROJECT_ID }}

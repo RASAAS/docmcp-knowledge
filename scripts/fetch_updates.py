@@ -546,16 +546,18 @@ class HTTPChecker:
 # ---------------------------------------------------------------------------
 
 class RSSChecker:
-    def __init__(self, session: requests.Session, state: dict):
+    def __init__(self, session: requests.Session, state: dict,
+                 seed_mode: bool = False):
         self.session = session
         self.state = state
+        self.seed_mode = seed_mode
 
     def check(self, source_id: str, source: dict) -> Optional[dict]:
         url = source["url"]
         prev = self.state.get(source_id, {})
         last_checked = prev.get("last_checked")
         try:
-            resp = self.session.get(url, timeout=15)
+            resp = self.session.get(url, timeout=30)
             resp.raise_for_status()
             root = ET.fromstring(resp.content)
             new_items = []
@@ -1552,9 +1554,11 @@ class AtomFeedChecker:
     Covers: GOV.UK Atom feeds (MHRA, HSE), EU Atom feeds, etc.
     """
 
-    def __init__(self, session: requests.Session, state: dict):
+    def __init__(self, session: requests.Session, state: dict,
+                 seed_mode: bool = False):
         self.session = session
         self.state = state
+        self.seed_mode = seed_mode
 
     def check(self, source_id: str, source: dict) -> Optional[dict]:
         url = source["url"]
@@ -1600,7 +1604,10 @@ class AtomFeedChecker:
             "seen_ids": all_ids[-500:],
         }
 
-        if new_items and prev_ids:
+        if new_items and (prev_ids or self.seed_mode):
+            if self.seed_mode and not prev_ids:
+                new_items = new_items[:10]
+                print(f"    INFO: Seed mode -- returning top {len(new_items)} entries as initial news")
             result = _make_update(
                 source_id, source, "atom_feed",
                 f"{len(new_items)} new Atom feed entry(ies) detected"
@@ -1653,9 +1660,11 @@ class CanadaRecallsChecker:
 
     SEARCH_URL = "https://recalls-rappels.canada.ca/en/search/site"
 
-    def __init__(self, session: requests.Session, state: dict):
+    def __init__(self, session: requests.Session, state: dict,
+                 seed_mode: bool = False):
         self.session = session
         self.state = state
+        self.seed_mode = seed_mode
 
     def check(self, source_id: str, source: dict) -> Optional[dict]:
         prev = self.state.get(source_id, {})
@@ -1695,7 +1704,10 @@ class CanadaRecallsChecker:
             "seen_titles": all_titles[-300:],
         }
 
-        if new_items and prev_titles:
+        if new_items and (prev_titles or self.seed_mode):
+            if self.seed_mode and not prev_titles:
+                new_items = new_items[:10]
+                print(f"    INFO: Seed mode -- returning top {len(new_items)} entries as initial news")
             result = _make_update(
                 source_id, source, "canada_recalls",
                 f"{len(new_items)} new Canada medical device recall(s)/alert(s)"
@@ -1760,9 +1772,11 @@ class PMDAChecker:
     English page provides monthly-level updates; significant items are captured.
     """
 
-    def __init__(self, session: requests.Session, state: dict):
+    def __init__(self, session: requests.Session, state: dict,
+                 seed_mode: bool = False):
         self.session = session
         self.state = state
+        self.seed_mode = seed_mode
 
     def check(self, source_id: str, source: dict) -> Optional[dict]:
         url = source["url"]
@@ -1799,7 +1813,10 @@ class PMDAChecker:
             "seen_titles": all_titles[-300:],
         }
 
-        if new_items and prev_titles:
+        if new_items and (prev_titles or self.seed_mode):
+            if self.seed_mode and not prev_titles:
+                new_items = new_items[:10]
+                print(f"    INFO: Seed mode -- returning top {len(new_items)} entries as initial news")
             result = _make_update(
                 source_id, source, "pmda_page",
                 f"{len(new_items)} new PMDA update(s) detected"
@@ -1861,9 +1878,11 @@ class MFDSChecker:
     Captures: KGMP updates, device classification changes, regulatory reforms.
     """
 
-    def __init__(self, session: requests.Session, state: dict):
+    def __init__(self, session: requests.Session, state: dict,
+                 seed_mode: bool = False):
         self.session = session
         self.state = state
+        self.seed_mode = seed_mode
 
     def check(self, source_id: str, source: dict) -> Optional[dict]:
         url = source["url"]
@@ -1900,7 +1919,10 @@ class MFDSChecker:
             "seen_titles": all_titles[-300:],
         }
 
-        if new_items and prev_titles:
+        if new_items and (prev_titles or self.seed_mode):
+            if self.seed_mode and not prev_titles:
+                new_items = new_items[:10]
+                print(f"    INFO: Seed mode -- returning top {len(new_items)} entries as initial news")
             result = _make_update(
                 source_id, source, "mfds_page",
                 f"{len(new_items)} new MFDS update(s) detected"
@@ -2250,15 +2272,16 @@ def _make_update(source_id: str, source: dict, check_type: str, note: str) -> di
 # ---------------------------------------------------------------------------
 
 class UpdateChecker:
-    def __init__(self, state_file: Path = None):
+    def __init__(self, state_file: Path = None, seed_mode: bool = False):
         self.state_file = state_file or ROOT / "scripts" / ".update_state.json"
         self.state = self._load_state()
+        self.seed_mode = seed_mode
         self.registry = VersionRegistry()
         self.db_comparator = DatabaseComparator(ROOT)
         session = requests.Session()
         session.headers.update({"User-Agent": "Mozilla/5.0 (docmcp-knowledge-bot/2.0)"})
         self.http = HTTPChecker(session, self.state)
-        self.rss = RSSChecker(session, self.state)
+        self.rss = RSSChecker(session, self.state, seed_mode)
         self.vertex = VertexAISearchChecker(
             VERTEX_AI_PROJECT_ID, VERTEX_AI_SEARCH_APP_ID,
             VERTEX_AI_SEARCH_API_KEY, self.state,
@@ -2273,10 +2296,10 @@ class UpdateChecker:
         self.fda_safety = FDASafetyRecallChecker(FDA_API_KEY, self.state)
         self.fda_recall = FDARecallChecker(FDA_API_KEY, self.state)
         self.cdrh_news = CDRHNewsChecker(session, self.state)
-        self.atom_feed = AtomFeedChecker(session, self.state)
-        self.canada_recalls = CanadaRecallsChecker(session, self.state)
-        self.pmda = PMDAChecker(session, self.state)
-        self.mfds = MFDSChecker(session, self.state)
+        self.atom_feed = AtomFeedChecker(session, self.state, seed_mode)
+        self.canada_recalls = CanadaRecallsChecker(session, self.state, seed_mode)
+        self.pmda = PMDAChecker(session, self.state, seed_mode)
+        self.mfds = MFDSChecker(session, self.state, seed_mode)
         self.generic_page = GenericPageChecker(session, self.state)
         self.llm = LLMVersionAnalyzer(LLM_API_KEY, LLM_BASE_URL, LLM_MODEL)
         if self.vertex.available:
@@ -2487,13 +2510,15 @@ def main():
     parser.add_argument("--report", action="store_true",
                         help="Output JSON report (for GitHub Actions)")
     parser.add_argument("--output", metavar="FILE", help="Save report to file")
+    parser.add_argument("--seed-news", action="store_true",
+                        help="Seed mode: treat first run as news (not just baseline)")
     args = parser.parse_args()
 
     if not args.check_all and not args.check:
         parser.print_help()
         sys.exit(0)
 
-    checker = UpdateChecker()
+    checker = UpdateChecker(seed_mode=args.seed_news)
 
     updates = []
     if args.check_all:
