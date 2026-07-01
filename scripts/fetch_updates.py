@@ -197,11 +197,12 @@ SOURCES = {
     # ----- Tier 1: Core international markets -----
     "uk_mhra": {
         "drug_device_alerts": {
-            "name": "MHRA Drug & Device Alerts (GOV.UK Atom Feed)",
+            "name": "MHRA Medical Device Alerts (GOV.UK Atom Feed)",
             "url": "https://www.gov.uk/drug-device-alerts.atom",
             "check_type": "atom_feed",
             "category": "uk_mhra/safety",
             "note": "FSN, safety info, recalls for medical devices in the UK.",
+            "title_exclude": r"(?i)(class\s+[1234]\s+(medicines?\s+)?recall|class\s+[1234]\s+(medicines?\s+)?defect|medicines?\s+recall|drug\s+(alert|recall)|tablet[s]?\s+(recall|defect)|capsule[s]?\s+(recall|defect)|injection[s]?\s+(recall|defect|solution|suspension)|oral\s+(solution|suspension)\s+(recall|defect)|vaccine\s+(batch|recall)|pill[s]?\s+recall|pharmaceutical\s+recall|defective\s+medicines?|EL\s*\(\d+\)\s*A/\d+|patient\s+information\s+leaflet|PIL\s+error|barcode\s+error|incorrect\s+PIL|GMP\s+deficien|batch\s+recall.{0,20}(medicine|drug|tablet|capsule|oral)|paracetamol|amoxicillin|ibuprofen|flucloxacillin|gabapentin|mirtazapine|cyclizine|benzylpenicillin|methotrexate|omeprazole|levothyroxine|prednisolone|codeine\s+phosphate|tramadol|diazepam|lorazepam)",
         },
         "mhra_news": {
             "name": "MHRA Regulatory News (GOV.UK)",
@@ -209,7 +210,8 @@ SOURCES = {
             "check_type": "atom_feed",
             "category": "uk_mhra/regulations",
             "note": "MHRA press releases, guidance updates, consultations.",
-            "title_filter": r"(?i)(medical\s+device|device\s+safety|UKCA|conformity|clinical\s+investigation|IVD|SaMD|software|vigilance|field\s+safety|recall|adverse\s+incident)",
+            "title_filter": r"(?i)(medical\s+device|device\s+safety|UKCA|conformity|clinical\s+investigation|IVD|SaMD|software|vigilance|field\s+safety|recall|adverse\s+incident|borderline\s+product|exceptional\s+use|registration)",
+            "title_exclude": r"(?i)(class\s+[1234]\s+(medicines?\s+)?recall|medicines?\s+recall|drug\s+(alert|recall)|tablet[s]?\s+recall|capsule[s]?\s+recall|pharmaceutical\s+recall|vaccine\s+batch|oral\s+(solution|suspension)\s+recall|EL\s*\(\d+\)\s*A/\d+)",
         },
     },
     "canada": {
@@ -231,74 +233,122 @@ SOURCES = {
     },
     "australia_tga": {
         "safety_updates": {
-            "name": "TGA Medical Device Safety Updates (via Search)",
+            "name": "TGA Medical Device Recalls & Safety (via Search)",
             "url": "https://www.tga.gov.au/safety/safety-monitoring-and-information",
             "check_type": "google_search",
-            "google_query": "Australia TGA medical device recall safety alert",
+            "google_query": "site:tga.gov.au medical device recall alert safety",
             "category": "australia_tga/safety",
             "date_restrict": "m3",
             "skip_domain_filter": True,
-            "title_filter": r"(?i)(TGA|Australia|therapeutic\s+goods|medical\s+device.*(recall|alert|safety|warning))",
+            "exclude_domains": ["fda.gov", "accessdata.fda.gov", "federalregister.gov"],
             "note": "TGA medical device safety alerts via web search (direct access blocked).",
+        },
+        "safety_industry": {
+            "name": "TGA Medical Device Recalls (Industry Sources)",
+            "url": "https://www.tga.gov.au/safety",
+            "check_type": "google_search",
+            "google_query": "\"TGA\" OR \"Therapeutic Goods Administration\" medical device recall 2026",
+            "category": "australia_tga/safety",
+            "date_restrict": "m3",
+            "skip_domain_filter": True,
+            "exclude_domains": ["fda.gov", "accessdata.fda.gov", "federalregister.gov"],
+            "title_filter": r"(?i)(TGA|Therapeutic\s+Goods|Australia|ARTG|medical\s+device)",
+            "note": "TGA medical device recalls from industry/news sources.",
         },
         "regulations": {
             "name": "TGA Medical Device Regulatory Updates (via Search)",
             "url": "https://www.tga.gov.au/products/medical-devices",
             "check_type": "google_search",
-            "google_query": "Australia TGA medical device regulation classification essential principles guidance",
+            "google_query": "site:tga.gov.au medical device regulation guidance classification",
             "category": "australia_tga/regulations",
             "date_restrict": "m6",
             "skip_domain_filter": True,
-            "title_filter": r"(?i)(TGA|Australia|therapeutic\s+goods|medical\s+device|IVD|essential\s+principles|device\s+classification|sponsor|vigilance|post-market)",
+            "exclude_domains": ["fda.gov", "accessdata.fda.gov", "federalregister.gov"],
             "note": "TGA regulatory updates via web search (RSS feeds inaccessible).",
         },
     },
     "japan_pmda": {
-        "whats_new_en": {
-            "name": "PMDA What's New (English)",
-            "url": "https://www.pmda.go.jp/english/0023.html",
+        "recalls_class1": {
+            "name": "PMDA Medical Device Recalls Class I (Japanese)",
+            "url": "https://www.info.pmda.go.jp/kaisyuu/rcidx{yy}-1k.html",
+            "check_type": "pmda_recalls",
+            "category": "japan_pmda/safety",
+            "recall_class": "I",
+            "dynamic_year": True,
+            "note": "PMDA Class I medical device recalls (serious health risk).",
+        },
+        "recalls_class2": {
+            "name": "PMDA Medical Device Recalls Class II (Japanese)",
+            "url": "https://www.info.pmda.go.jp/kaisyuu/rcidx{yy}-2k.html",
+            "check_type": "pmda_recalls",
+            "category": "japan_pmda/safety",
+            "recall_class": "II",
+            "dynamic_year": True,
+            "note": "PMDA Class II medical device recalls.",
+        },
+        "safety_info_en": {
+            "name": "PMDA Medical Safety Information (English)",
+            "url": "https://www.pmda.go.jp/english/safety/info-services/safety-information/0001.html",
+            "check_type": "pmda_page",
+            "category": "japan_pmda/safety",
+            "note": "PMDA medical safety information bulletins (English translations).",
+        },
+        "device_precautions": {
+            "name": "PMDA Revisions of PRECAUTIONS - Medical Devices (English)",
+            "url": "https://www.pmda.go.jp/english/safety/info-services/devices/0002.html",
             "check_type": "pmda_page",
             "category": "japan_pmda/regulations",
-            "note": "PMDA English page: regulatory updates, medical device approvals, safety.",
+            "note": "MHLW-issued revisions of PRECAUTIONS for medical devices.",
+        },
+        "device_alerts": {
+            "name": "PMDA Alert for Proper Use of Medical Devices (English)",
+            "url": "https://www.pmda.go.jp/english/safety/info-services/devices/0005.html",
+            "check_type": "pmda_page",
+            "category": "japan_pmda/safety",
+            "note": "PMDA alerts for proper use of medical devices.",
         },
     },
     "korea_mfds": {
         "news_en": {
-            "name": "MFDS Medical Device News (English)",
+            "name": "MFDS General News (English, filtered for medical devices)",
             "url": "https://www.mfds.go.kr/eng/brd/m_61/list.do",
             "check_type": "mfds_page",
             "category": "korea_mfds/regulations",
-            "title_filter": r"(?i)(medical\s+device|device\s+approval|medical\s+product|GMP|KGMP|DMPA|digital\s+medical|IVD|in\s+vitro|SaMD|software\s+as|UDI|clinical\s+trial|pre-?market|post-?market)",
-            "note": "MFDS English news filtered for medical devices only.",
+            "title_filter": r"(?i)(medical\s+device|device\s+approval|medical\s+product|GMP|KGMP|DMPA|digital\s+medical|IVD|in\s+vitro|SaMD|software\s+as|UDI|clinical\s+trial|pre-?market|post-?market|approval\s+(report|review)|240.?day)",
+            "note": "MFDS English general news filtered for medical devices only.",
         },
         "md_regulations": {
-            "name": "MFDS Medical Device Regulations Page",
+            "name": "MFDS Medical Device Regulations (English)",
             "url": "https://www.mfds.go.kr/eng/brd/m_40/list.do",
             "check_type": "mfds_page",
             "category": "korea_mfds/regulations",
             "note": "MFDS medical device regulations, guidance, GMP standards.",
         },
-        "md_search": {
-            "name": "MFDS/Korea Medical Device Regulatory News (via Search)",
-            "url": "https://www.mfds.go.kr/eng/index.do",
-            "check_type": "google_search",
-            "google_query": "Korea MFDS KFDA medical device regulation approval KGMP MFDS guidance update",
+        "md_products": {
+            "name": "MFDS Medical Device Products & Approvals (English)",
+            "url": "https://www.mfds.go.kr/eng/brd/m_41/list.do",
+            "check_type": "mfds_page",
             "category": "korea_mfds/regulations",
-            "date_restrict": "y1",
-            "skip_domain_filter": True,
-            "title_filter": r"(?i)(Korea|MFDS|KFDA|KGMP|MHLW|Korean|KR).*(medical\s+device|device|pharma|GMP|regulation|approval|guidance)",
-            "note": "Korean medical device regulation news via web search.",
+            "title_filter": r"(?i)(medical\s+device|device\s+approval|approval\s+report|innovative|SaMD|AI|machine\s+learning|digital\s+health)",
+            "note": "MFDS medical device product approvals and reports.",
         },
-        "global_news": {
-            "name": "Korea Medical Device Regulation Global News",
+        "md_innovative": {
+            "name": "MFDS Innovative Medical Devices Designation (English)",
+            "url": "https://www.mfds.go.kr/eng/brd/m_1135/list.do",
+            "check_type": "mfds_page",
+            "category": "korea_mfds/regulations",
+            "note": "MFDS innovative medical device designations.",
+        },
+        "md_search": {
+            "name": "Korea Medical Device Regulatory News (via Search)",
             "url": "https://www.mfds.go.kr/eng/index.do",
             "check_type": "google_search",
-            "google_query": "South Korea medical device regulatory update approval requirement",
+            "google_query": "Korea MFDS medical device regulation approval KGMP guidance update 2026",
             "category": "korea_mfds/regulations",
             "date_restrict": "m6",
             "skip_domain_filter": True,
-            "title_filter": r"(?i)(Korea|Korean|Seoul|KR|MFDS).*(medical|device|regulatory|approval|guideline|regulation)",
-            "note": "Global English coverage of Korean medical device regulations.",
+            "title_filter": r"(?i)(Korea|MFDS|KFDA|KGMP|Korean|KR).*(medical\s+device|device|GMP|regulation|approval|guidance)",
+            "note": "Korean medical device regulation news via web search.",
         },
     },
     "shared": {
@@ -789,24 +839,34 @@ class VertexAISearchChecker:
         return m.group(1) if m else None
 
     def _filter_items(self, items: list, prev_titles: set,
-                       site_domain: Optional[str], title_filter: Optional[str]
+                       site_domain: Optional[str], title_filter: Optional[str],
+                       exclude_domains: Optional[list] = None,
                        ) -> tuple:
         """Filter search results, return (new_items, domain_filtered, title_filtered)."""
         new_items = []
         domain_filtered = 0
         title_filtered = 0
+        excluded_count = 0
         for item in items:
             title = item.get("title", "")
             link = item.get("link", "")
             if site_domain and link and site_domain not in link:
                 domain_filtered += 1
                 continue
+            if exclude_domains and link:
+                link_lower = link.lower()
+                if any(d in link_lower for d in exclude_domains):
+                    excluded_count += 1
+                    print(f"      EXCLUDED (blocked domain): {link[:80]}")
+                    continue
             if title_filter and not re.search(title_filter, title, re.IGNORECASE):
                 title_filtered += 1
                 continue
             if title not in prev_titles:
                 new_items.append({"title": title, "link": link,
                                   "snippet": item.get("snippet", "")[:200]})
+        if excluded_count:
+            print(f"    INFO: {excluded_count} results excluded by domain blocklist")
         return new_items, domain_filtered, title_filtered
 
     def check(self, source_id: str, source: dict) -> Optional[dict]:
@@ -818,12 +878,13 @@ class VertexAISearchChecker:
         skip_domain = source.get("skip_domain_filter", False)
         site_domain = None if skip_domain else self._extract_site_domain(query)
         title_filter = source.get("title_filter")
+        exclude_domains = source.get("exclude_domains")
         prev = self.state.get(source_id, {})
         prev_titles = set(prev.get("seen_titles", []))
 
         items = self.search(query)
         new_items, domain_filtered, tf_count = self._filter_items(
-            items, prev_titles, site_domain, title_filter)
+            items, prev_titles, site_domain, title_filter, exclude_domains)
 
         if not new_items and domain_filtered > 0 and site_domain:
             fallback_query = re.sub(r"site:\S+\s*", "", query).strip()
@@ -831,7 +892,7 @@ class VertexAISearchChecker:
                   f"retrying without site: prefix")
             items = self.search(fallback_query)
             new_items, domain_filtered, tf_count = self._filter_items(
-                items, prev_titles, site_domain, title_filter)
+                items, prev_titles, site_domain, title_filter, exclude_domains)
 
         if domain_filtered:
             print(f"    INFO: {domain_filtered} results filtered by domain ({site_domain})")
@@ -1659,6 +1720,7 @@ class AtomFeedChecker:
 
         new_items = []
         all_ids = list(prev_ids)
+        title_exclude = source.get("title_exclude")
 
         for entry in entries:
             eid = entry.get("id", entry.get("link", ""))
@@ -1666,6 +1728,10 @@ class AtomFeedChecker:
             if not eid or eid in prev_ids:
                 continue
             if title_filter and not re.search(title_filter, title, re.IGNORECASE):
+                continue
+            if title_exclude and re.search(title_exclude, title, re.IGNORECASE):
+                print(f"      EXCLUDED (medicine/drug): {title[:80]}")
+                all_ids.append(eid)
                 continue
             all_ids.append(eid)
             new_items.append({
@@ -1832,15 +1898,15 @@ class CanadaRecallsChecker:
 
 
 # ---------------------------------------------------------------------------
-# PMDA (Japan) What's New page checker
-# Parses the PMDA English "What's New" page for regulatory updates.
+# PMDA (Japan) page checkers
+# Parses PMDA English safety/regulatory pages and Japanese recall lists.
 # ---------------------------------------------------------------------------
 
 class PMDAChecker:
-    """Checks PMDA (Japan) What's New page for medical device regulatory updates.
+    """Checks PMDA (Japan) English pages for medical device safety & regulatory updates.
 
-    Covers: safety alerts, approval notices, regulatory revisions, MHLW ordinances.
-    English page provides monthly-level updates; significant items are captured.
+    Parses tabular pages: Medical Safety Information, Revisions of PRECAUTIONS,
+    Alert for Proper Use of Medical Devices, etc.
     """
 
     def __init__(self, session: requests.Session, state: dict,
@@ -1861,12 +1927,12 @@ class PMDAChecker:
             print(f"    ERROR PMDA: {e}")
             return None
 
-        entries = self._parse_whats_new(resp.text)
+        entries = self._parse_table_page(resp.text, url)
         if not entries:
-            print(f"    WARNING: No entries from PMDA What's New")
+            print(f"    WARNING: No entries from PMDA page ({url})")
             return None
 
-        print(f"    INFO: Parsed {len(entries)} entries from PMDA What's New")
+        print(f"    INFO: Parsed {len(entries)} entries from PMDA page")
 
         new_items = []
         all_titles = list(prev_titles)
@@ -1899,29 +1965,66 @@ class PMDAChecker:
 
         return None
 
-    def _parse_whats_new(self, html: str) -> list[dict]:
-        """Parse PMDA What's New page for news entries."""
+    def _parse_table_page(self, html: str, base_url: str) -> list[dict]:
+        """Parse PMDA table-based pages (safety info, precautions, alerts)."""
         results = []
         try:
             from bs4 import BeautifulSoup
             soup = BeautifulSoup(html, "html.parser")
-            for li in soup.select("ul li, .whatsnew li, .news-list li, dl dt, dl dd"):
-                links = li.find_all("a")
-                for a in links:
-                    title = a.get_text(strip=True)
-                    href = a.get("href", "")
-                    if not title or len(title) < 10:
-                        continue
-                    if href and not href.startswith("http"):
-                        href = "https://www.pmda.go.jp" + href
-                    date_m = re.search(r"(\d{4})[./\-](\d{1,2})[./\-](\d{1,2})", li.get_text())
-                    date_str = f"{date_m.group(1)}-{date_m.group(2).zfill(2)}-{date_m.group(3).zfill(2)}" if date_m else ""
-                    results.append({
-                        "title": title,
-                        "link": href,
-                        "pub_date": date_str,
-                        "description": "",
-                    })
+            for tr in soup.find_all("tr"):
+                cells = tr.find_all("td")
+                if len(cells) < 2:
+                    continue
+                date_text = ""
+                content_title = ""
+                link_title = ""
+                link_href = ""
+                for cell in cells:
+                    cell_text = cell.get_text(strip=True)
+                    dm = re.search(r"((?:January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{1,2},?\s*\d{4})", cell_text)
+                    if not dm:
+                        dm = re.search(r"((?:January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{4})", cell_text)
+                    if not dm:
+                        dm = re.search(r"(\d{4})[./\-](\d{1,2})[./\-](\d{1,2})", cell_text)
+                    if dm and not date_text:
+                        if dm.lastindex and dm.lastindex >= 2:
+                            date_text = f"{dm.group(1)}-{dm.group(2).zfill(2)}-{dm.group(3).zfill(2)}"
+                        else:
+                            date_text = dm.group(1)
+                    a = cell.find("a")
+                    if a and a.get_text(strip=True) and len(a.get_text(strip=True)) > 5:
+                        link_title = a.get_text(strip=True)
+                        link_href = a.get("href", "")
+                    elif len(cell_text) > 5 and not re.match(r"^[\d\s,./]+$", cell_text) and not content_title:
+                        if cell_text != date_text and not re.search(r"^\d+$", cell_text):
+                            content_title = cell_text
+                title_text = content_title or link_title
+                if not title_text or len(title_text) < 5:
+                    continue
+                title_text = re.sub(r"\s*\[\d+\s*KB\]", "", title_text).strip()
+                if re.match(r"^(?:January|February|March|April|May|June|July|August|September|October|November|December)\s*\d{4}$", title_text):
+                    continue
+                if link_href and not link_href.startswith("http"):
+                    link_href = "https://www.pmda.go.jp" + link_href
+                results.append({
+                    "title": title_text,
+                    "link": link_href,
+                    "pub_date": date_text,
+                    "description": "",
+                })
+            if not results:
+                for li in soup.select("ul li, .whatsnew li, dl dt, dl dd"):
+                    links = li.find_all("a")
+                    for a in links:
+                        title = a.get_text(strip=True)
+                        href = a.get("href", "")
+                        if not title or len(title) < 10:
+                            continue
+                        if href and not href.startswith("http"):
+                            href = "https://www.pmda.go.jp" + href
+                        dm = re.search(r"(\d{4})[./\-](\d{1,2})[./\-](\d{1,2})", li.get_text())
+                        ds = f"{dm.group(1)}-{dm.group(2).zfill(2)}-{dm.group(3).zfill(2)}" if dm else ""
+                        results.append({"title": title, "link": href, "pub_date": ds, "description": ""})
         except ImportError:
             link_re = re.compile(r'<a[^>]*href="([^"]*)"[^>]*>(.*?)</a>', re.DOTALL)
             for m in link_re.finditer(html):
@@ -1930,11 +2033,112 @@ class PMDAChecker:
                 if title and len(title) > 10:
                     if not href.startswith("http"):
                         href = "https://www.pmda.go.jp" + href
-                    results.append({
-                        "title": title, "link": href,
-                        "pub_date": "", "description": "",
-                    })
+                    results.append({"title": title, "link": href, "pub_date": "", "description": ""})
         return results[:30]
+
+
+class PMDARecallsChecker:
+    """Checks PMDA Japanese recall list pages for medical device recalls.
+
+    Parses the structured HTML tables at info.pmda.go.jp with device name,
+    manufacturer, recall class and publication date.
+    """
+
+    def __init__(self, session: requests.Session, state: dict,
+                 seed_mode: bool = False):
+        self.session = session
+        self.state = state
+        self.seed_mode = seed_mode
+
+    def check(self, source_id: str, source: dict) -> Optional[dict]:
+        url = source["url"]
+        if source.get("dynamic_year"):
+            yy = str(datetime.now().year % 100).zfill(2)
+            url = url.replace("{yy}", yy)
+        recall_class = source.get("recall_class", "")
+        prev = self.state.get(source_id, {})
+        prev_ids = set(prev.get("seen_ids", []))
+
+        try:
+            resp = self.session.get(url, timeout=30)
+            resp.raise_for_status()
+        except Exception as e:
+            print(f"    ERROR PMDA Recalls: {e}")
+            return None
+
+        entries = self._parse_recall_table(resp.text, recall_class)
+        if not entries:
+            print(f"    WARNING: No entries from PMDA recall page")
+            return None
+
+        print(f"    INFO: Parsed {len(entries)} Class {recall_class} recall entries from PMDA")
+
+        new_items = []
+        all_ids = list(prev_ids)
+        cutoff = (datetime.now() - timedelta(days=60)).strftime("%Y-%m-%d")
+
+        for entry in entries:
+            eid = entry.get("id", "")
+            if not eid or eid in prev_ids:
+                continue
+            all_ids.append(eid)
+            pub = entry.get("pub_date", "")
+            if pub and pub < cutoff:
+                continue
+            new_items.append(entry)
+
+        self.state[source_id] = {
+            "url": url,
+            "last_checked": datetime.now().isoformat(),
+            "seen_ids": all_ids[-500:],
+        }
+
+        if new_items and (prev_ids or self.seed_mode):
+            if self.seed_mode and not prev_ids:
+                new_items = new_items[:10]
+                print(f"    INFO: Seed mode -- returning top {len(new_items)} recall entries")
+            result = _make_update(
+                source_id, source, "pmda_recalls",
+                f"{len(new_items)} new PMDA Class {recall_class} recall(s) detected"
+            )
+            result["new_items"] = new_items
+            return result
+        elif not prev_ids:
+            print(f"    INFO: Baseline established ({len(entries)} PMDA recall entries)")
+
+        return None
+
+    def _parse_recall_table(self, html: str, recall_class: str) -> list[dict]:
+        """Parse PMDA Japanese recall table page."""
+        results = []
+        try:
+            from bs4 import BeautifulSoup
+            soup = BeautifulSoup(html, "html.parser")
+            for tr in soup.find_all("tr"):
+                cells = tr.find_all("td")
+                if len(cells) < 5:
+                    continue
+                recall_num = cells[0].get_text(strip=True)
+                pub_date_raw = cells[1].get_text(strip=True)
+                device_type = cells[2].get_text(strip=True)
+                generic_name = cells[3].get_text(strip=True)
+                product_name = cells[4].get_text(strip=True)
+                manufacturer = cells[5].get_text(strip=True) if len(cells) > 5 else ""
+                dm = re.search(r"(\d{4})/(\d{1,2})/(\d{1,2})", pub_date_raw)
+                pub_date = f"{dm.group(1)}-{dm.group(2).zfill(2)}-{dm.group(3).zfill(2)}" if dm else ""
+                title = f"[Class {recall_class}] {product_name} ({generic_name})"
+                if manufacturer:
+                    title += f" - {manufacturer}"
+                results.append({
+                    "id": recall_num,
+                    "title": title,
+                    "link": "",
+                    "pub_date": pub_date,
+                    "description": f"Recall #{recall_num}: {generic_name} / {product_name} by {manufacturer}. Type: {device_type}.",
+                })
+        except ImportError:
+            pass
+        return results
 
 
 # ---------------------------------------------------------------------------
@@ -2402,6 +2606,7 @@ class UpdateChecker:
         self.atom_feed = AtomFeedChecker(session, self.state, seed_mode)
         self.canada_recalls = CanadaRecallsChecker(session, self.state, seed_mode)
         self.pmda = PMDAChecker(session, self.state, seed_mode)
+        self.pmda_recalls = PMDARecallsChecker(session, self.state, seed_mode)
         self.mfds = MFDSChecker(session, self.state, seed_mode)
         self.generic_page = GenericPageChecker(session, self.state)
         self.llm = LLMVersionAnalyzer(LLM_API_KEY, LLM_BASE_URL, LLM_MODEL)
@@ -2470,6 +2675,8 @@ class UpdateChecker:
             return self.canada_recalls.check(source_id, source)
         elif check_type == "pmda_page":
             return self.pmda.check(source_id, source)
+        elif check_type == "pmda_recalls":
+            return self.pmda_recalls.check(source_id, source)
         elif check_type == "mfds_page":
             return self.mfds.check(source_id, source)
         elif check_type == "generic_page":

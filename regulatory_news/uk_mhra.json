@@ -55,58 +55,6 @@
       "status": "published"
     },
     {
-      "id": "uk_mhra_20260701_class_3_recall_flucloxacillin_500mg_capsules_incorrect_patie",
-      "framework": "uk_mhra",
-      "category": "safety_communication",
-      "title": {
-        "en": "Class 3 Recall: Flucloxacillin 500mg Capsules – Incorrect Patient Leaflet (Flamingo Pharma UK Ltd)",
-        "zh": "三级药品召回：氟氯西林500mg胶囊内附错误患者说明书（Flamingo Pharma UK Ltd）"
-      },
-      "summary": {
-        "en": "Flamingo Pharma UK Ltd has informed the MHRA that specific batches of Flucloxacillin Capsules BP 500mg contain the Patient Information Leaflet (PIL) for Amoxicillin 500mg Capsules instead of the correct Flucloxacillin PIL. This Class 3 recall requires healthcare professionals and wholesalers to check stock, quarantine affected packs, and return them to the supplier. The defect poses a low risk to patient safety, but incorrect dosing information could lead to confusion.",
-        "zh": "Flamingo Pharma UK Ltd 已通知 MHRA，部分批次的氟氯西林 500mg 胶囊内错误附带了阿莫西林 500mg 胶囊的患者说明书（PIL）。此次三级召回要求医护人员和批发商检查库存、隔离受影响包装并退回供应商。该缺陷对患者安全风险较低，但错误的用药信息可能造成混淆。"
-      },
-      "source_url": "https://www.gov.uk/drug-device-alerts/class-3-medicines-recall-flamingo-pharma-uk-ltd-flucloxacillin-capsules-bp-500mg-el-26-a-slash-32",
-      "source_name": "MHRA (UK)",
-      "published_date": "2026-06-30",
-      "detected_date": "2026-07-01T13:00:05Z",
-      "importance": "low",
-      "tags": [
-        "medicines_recall",
-        "incorrect_pil",
-        "flucloxacillin",
-        "class_3",
-        "mhra_alert"
-      ],
-      "related_docs": [],
-      "status": "published"
-    },
-    {
-      "id": "uk_mhra_20260701_mhra_class_4_defect_alert_gabapentin_relonchem_50mg_ml_oral",
-      "framework": "uk_mhra",
-      "category": "safety_communication",
-      "title": {
-        "en": "MHRA Class 4 Defect Alert: Gabapentin Relonchem 50mg/ml Oral Solution – Visible Particles",
-        "zh": "MHRA四级缺陷通报：Relonchem加巴喷丁口服溶液检出可见颗粒物"
-      },
-      "summary": {
-        "en": "Relonchem Limited has notified the MHRA of visible particles found in some bottles of Gabapentin Relonchem 50mg/ml Oral Solution (batch unspecified) following a customer complaint. This is a Class 4 medicines defect notification, meaning no product recall is required. Healthcare professionals should inspect stock before dispensing and report any affected units to the company. Patients using the solution can continue treatment but may consult a pharmacist if concerned.",
-        "zh": "Relonchem Limited因客户投诉通报MHRA，部分Gabapentin Relonchem 50mg/ml口服溶液瓶中发现可见颗粒物。此为四级药品缺陷通报，无需召回产品。医疗专业人员应在分发前检查库存，并将受污染产品报告给公司。患者可继续用药，但如有疑虑可咨询药师。"
-      },
-      "source_url": "https://www.gov.uk/drug-device-alerts/class-4-medicines-defect-notification-relonchem-limited-gabapentin-relonchem-50mg-slash-ml-oral-solution-el-26-a-slash-31",
-      "source_name": "MHRA (UK)",
-      "published_date": "2026-06-30",
-      "detected_date": "2026-07-01T13:00:28Z",
-      "importance": "low",
-      "tags": [
-        "class_4_defect",
-        "gabapentin_relonchem",
-        "particle_contamination"
-      ],
-      "related_docs": [],
-      "status": "published"
-    },
-    {
       "id": "uk_mhra_20260701_mhra_field_safety_notices_compilation_for_22_26_june_2026_6",
       "framework": "uk_mhra",
       "category": "regulation_update",
@@ -129,59 +77,6 @@
         "medical_device_safety",
         "regulatory_alert",
         "postmarket_surveillance"
-      ],
-      "related_docs": [],
-      "status": "published"
-    },
-    {
-      "id": "uk_mhra_20260701_class_3_medicines_recall_flamingo_pharma_uk_ltd_flucloxacill",
-      "framework": "uk_mhra",
-      "category": "regulation_update",
-      "title": {
-        "en": "Class 3 Medicines Recall: Flamingo Pharma UK Ltd, Flucloxacillin 500mg Capsules with Incorrect PIL (Amoxicillin Leaflet) – EL(26)A/32",
-        "zh": "3级药品召回：Flamingo Pharma UK Ltd氟氯西林500mg胶囊误附阿莫西林说明书 – EL(26)A/32"
-      },
-      "summary": {
-        "en": "Flamingo Pharma UK Ltd has initiated a Class 3 recall of certain batches of Flucloxacillin 500mg Capsules BP because the packs contain the Patient Information Leaflet (PIL) for Amoxicillin 500mg Capsules instead of the correct Flucloxacillin leaflet. Healthcare professionals are required to identify and quarantine affected stock immediately and contact the company for credit. Patients should continue taking their medication but are advised to obtain the correct PIL from their pharmacy; the recall is precautionary and does not pose a risk to patient safety.",
-        "zh": "Flamingo Pharma UK Ltd因部分批次氟氯西林500mg胶囊内附患者说明书误放为阿莫西林说明书，主动启动3级召回。医疗机构需立即识别并隔离受影响批次药品，联系公司办理退货。患者可继续服药，但应到药房索取正确说明书；本次召回为预防性措施，不影响用药安全。"
-      },
-      "source_url": "https://www.gov.uk/drug-device-alerts/class-3-medicines-recall-flamingo-pharma-uk-ltd-flucloxacillin-capsules-bp-500mg-el-26-a-slash-32",
-      "source_name": "MHRA (UK)",
-      "published_date": "2026-06-30",
-      "detected_date": "2026-07-01T13:03:01Z",
-      "importance": "medium",
-      "tags": [
-        "medicines_recall",
-        "class_3",
-        "pil_error",
-        "flucloxacillin",
-        "mhra",
-        "labeling_defect"
-      ],
-      "related_docs": [],
-      "status": "published"
-    },
-    {
-      "id": "uk_mhra_20260701_mhra_class_4_defect_brancaster_pharma_benzylpenicillin_benza",
-      "framework": "uk_mhra",
-      "category": "safety_communication",
-      "title": {
-        "en": "MHRA Class 4 Defect: Brancaster Pharma Benzylpenicillin Benzathine Injection PIL Outdated in Certain Batches",
-        "zh": "MHRA 4级药品缺陷通知：Brancaster Pharma苄星青霉素注射液部分批次说明书过时"
-      },
-      "summary": {
-        "en": "Brancaster Pharma Limited has informed the MHRA that specific batches of Benzylpenicillin benzathine 1.2 M IU and 2.4 M IU powder for suspension for injection were shipped with an outdated Patient Information Leaflet (PIL). This Class 4 notification means no risk to patient safety, and no recall is required. Healthcare professionals should replace the outdated leaflet with the current version or refer to the Summary of Product Characteristics when dispensing the affected batches.",
-        "zh": "Brancaster Pharma Limited已通知MHRA，特定批次的苄星青霉素120万IU和240万IU注射用混悬液粉末在包装中附有过时的患者信息说明书。此为4级缺陷通知，无患者安全风险，无需召回。医护人员在调配受影响批次时应替换为当前说明书或参考产品特性摘要。"
-      },
-      "source_url": "https://www.gov.uk/drug-device-alerts/class-4-medicines-defect-notification-brancaster-pharma-limited-benzylpenicillin-benzathine-1-dot-2-million-iu-and-2-dot-4-million-iu-powder-for-suspension-for-injection-el-26-a-slash-30",
-      "source_name": "MHRA (UK)",
-      "published_date": "2026-06-29",
-      "detected_date": "2026-07-01T13:00:48Z",
-      "importance": "low",
-      "tags": [
-        "class_4_medicines_defect",
-        "outdated_patient_information_leaflet",
-        "benzylpenicillin_benzathine"
       ],
       "related_docs": [],
       "status": "published"
@@ -317,31 +212,6 @@
       "status": "published"
     },
     {
-      "id": "uk_mhra_20260701_class_3_medicines_recall_orbit_pharma_limited_recalls_cycliz",
-      "framework": "uk_mhra",
-      "category": "safety_communication",
-      "title": {
-        "en": "Class 3 Medicines Recall: Orbit Pharma Limited Recalls Cyclizine Lactate 50 mg/ml Injection Due to GMP Deficiencies",
-        "zh": "三级药品召回：Orbit Pharma Limited因GMP缺陷召回乳酸赛克利嗪注射液50 mg/ml"
-      },
-      "summary": {
-        "en": "Orbit Pharma Limited is recalling a specific batch of Cyclizine Lactate 50 mg/ml Solution for Injection as a precautionary measure due to Good Manufacturing Practice (GMP) deficiencies identified at the manufacturing site. This is a Class 3 recall, indicating a defect that is unlikely to cause harm to patients. Healthcare professionals should immediately stop supplying the affected batch, quarantine remaining stock, and follow the recall procedures. The MHRA alert reference is EL(26)A/29.",
-        "zh": "Orbit Pharma Limited因生产现场发现良好生产规范（GMP）缺陷，预防性召回一批乳酸赛克利嗪50 mg/ml注射液。此次为三级召回，表明该缺陷风险低，不太可能对患者造成伤害。医疗专业人员须立即停止供应受影响批次，隔离所有库存，并按召回流程处理。MHRA警报编号为EL(26)A/29。"
-      },
-      "source_url": "https://www.gov.uk/drug-device-alerts/class-3-medicines-recall-orbit-pharma-limited-cyclizine-lactate-50-mg-slash-ml-solution-for-injection-el-26-a-slash-29",
-      "source_name": "MHRA (UK)",
-      "published_date": "2026-06-16",
-      "detected_date": "2026-07-01T13:01:29Z",
-      "importance": "medium",
-      "tags": [
-        "class_3_recall",
-        "gmp_deficiency",
-        "cyclizine_lactate"
-      ],
-      "related_docs": [],
-      "status": "published"
-    },
-    {
       "id": "uk_mhra_20260701_mhra_weekly_field_safety_notices_8_12_june_2026",
       "framework": "uk_mhra",
       "category": "safety_communication",
@@ -389,31 +259,6 @@
         "medical_devices",
         "uk_regulation",
         "safety_alert"
-      ],
-      "related_docs": [],
-      "status": "published"
-    },
-    {
-      "id": "uk_mhra_20260701_mhra_class_4_defect_cadila_s_mirtazapine_30mg_tablets_incorr",
-      "framework": "uk_mhra",
-      "category": "safety_communication",
-      "title": {
-        "en": "MHRA Class 4 Defect: Cadila's Mirtazapine 30mg Tablets Incorrect EAN Barcode (EL(26)A/28)",
-        "zh": "MHRA 4级缺陷通知：Cadila公司米氮平30毫克片剂条码错误(EL(26)A/28)"
-      },
-      "summary": {
-        "en": "Cadila Pharmaceuticals Limited has notified the MHRA that one batch of Mirtazapine 30mg Film-Coated Tablets distributed under Crescent Pharma Limited branding has an incorrect European Article Number (EAN) barcode on its cartons. This is a Class 4 medicines defect, indicating a minor quality issue with no risk to patient safety. Healthcare professionals and wholesalers should verify barcodes and be aware that no recall is required, but refer to the notification for the affected batch details.",
-        "zh": "Cadila制药有限公司已通知MHRA，一批以Crescent Pharma Limited名义分销的米氮平30毫克薄膜衣片剂外盒上的欧洲商品编号（EAN）条码有误。此为4级药品缺陷通知，属轻微质量问题，无患者安全风险。医疗专业人员和批发商应核对条码，无需召回产品，但需查阅通知了解具体批次信息。"
-      },
-      "source_url": "https://www.gov.uk/drug-device-alerts/class-4-medicines-defect-notification-cadila-pharmaceuticals-limited-mirtazapine-30mg-tablets-el-26-a-slash-28",
-      "source_name": "MHRA (UK)",
-      "published_date": "2026-06-08",
-      "detected_date": "2026-07-01T13:02:32Z",
-      "importance": "low",
-      "tags": [
-        "barcode_error",
-        "mhra_notification",
-        "class_4_defect"
       ],
       "related_docs": [],
       "status": "published"

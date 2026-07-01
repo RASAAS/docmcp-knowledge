@@ -151,8 +151,6 @@ def main():
 
         for fw in FRAMEWORKS:
             fw_items = [i for i in all_items if i.get("framework") == fw]
-            if not fw_items:
-                continue
             fw_name = FRAMEWORK_NAMES.get(fw, {}).get(lang, fw)
             fw_content = generate_index_page(fw_items, lang)
             fw_content = fw_content.replace(
@@ -162,7 +160,7 @@ def main():
             )
             fw_path = out_dir / f"{fw}.md"
             fw_path.write_text(fw_content, encoding="utf-8")
-            print(f"  Generated {fw_path}")
+            print(f"  Generated {fw_path} ({len(fw_items)} items)")
 
     print("Done.")
 

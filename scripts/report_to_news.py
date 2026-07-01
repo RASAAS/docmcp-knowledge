@@ -89,6 +89,20 @@ _CATEGORY_PROMPTS = {
         "(3) key dates or deadlines, (4) actions needed by manufacturers. "
         "importance: 'high' for new guidance/rules, 'medium' for town halls/updates."
     ),
+    "japan_pmda/safety": (
+        "This is a Japanese PMDA medical device safety/recall item. "
+        "Input may be in Japanese -- translate to English and Chinese. "
+        "The summary MUST cover: (1) the device name and manufacturer, (2) recall class (I=most serious, II=moderate, III=minor), "
+        "(3) the safety issue or reason for recall, (4) actions needed. "
+        "importance: 'high' for Class I recalls, 'medium' for Class II, 'low' for Class III and informational items."
+    ),
+    "japan_pmda/regulations": (
+        "This is a Japanese PMDA regulatory update for medical devices. "
+        "Input may be in Japanese -- translate to English and Chinese. "
+        "The summary should cover: (1) what changed, (2) which devices are affected, "
+        "(3) key dates or deadlines, (4) actions needed by manufacturers. "
+        "importance: 'high' for new precaution revisions, 'medium' for guidance updates."
+    ),
 }
 
 
@@ -178,6 +192,7 @@ def _resolve_source_name(url: str) -> str:
         ("recalls-rappels.canada.ca", "Health Canada"),
         ("canada.ca", "Health Canada"),
         ("tga.gov.au", "TGA (Australia)"),
+        ("info.pmda.go.jp", "PMDA (Japan)"),
         ("pmda.go.jp", "PMDA (Japan)"),
         ("mhlw.go.jp", "MHLW (Japan)"),
         ("mfds.go.kr", "MFDS (Korea)"),
