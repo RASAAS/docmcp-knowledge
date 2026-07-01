@@ -234,19 +234,22 @@ SOURCES = {
             "name": "TGA Medical Device Safety Updates (via Search)",
             "url": "https://www.tga.gov.au/safety/safety-monitoring-and-information",
             "check_type": "google_search",
-            "google_query": "site:tga.gov.au medical device recall safety alert warning",
+            "google_query": "Australia TGA medical device recall safety alert",
             "category": "australia_tga/safety",
             "date_restrict": "m3",
-            "note": "TGA medical device safety alerts and recalls via web search.",
+            "skip_domain_filter": True,
+            "title_filter": r"(?i)(TGA|Australia|therapeutic\s+goods|medical\s+device.*(recall|alert|safety|warning))",
+            "note": "TGA medical device safety alerts via web search (direct access blocked).",
         },
         "regulations": {
             "name": "TGA Medical Device Regulatory Updates (via Search)",
             "url": "https://www.tga.gov.au/products/medical-devices",
             "check_type": "google_search",
-            "google_query": "site:tga.gov.au medical device regulation classification essential principles guidance",
+            "google_query": "Australia TGA medical device regulation classification essential principles guidance",
             "category": "australia_tga/regulations",
-            "date_restrict": "m3",
-            "title_filter": r"(?i)(medical\s+device|IVD|device\s+classification|conformity|essential\s+principles|sponsor|listing|TGA|vigilance|recall|post-market)",
+            "date_restrict": "m6",
+            "skip_domain_filter": True,
+            "title_filter": r"(?i)(TGA|Australia|therapeutic\s+goods|medical\s+device|IVD|essential\s+principles|device\s+classification|sponsor|vigilance|post-market)",
             "note": "TGA regulatory updates via web search (RSS feeds inaccessible).",
         },
     },
@@ -279,10 +282,12 @@ SOURCES = {
             "name": "MFDS Medical Device Regulatory Updates (via Search)",
             "url": "https://www.mfds.go.kr/eng/index.do",
             "check_type": "google_search",
-            "google_query": "site:mfds.go.kr medical device regulation approval GMP safety",
+            "google_query": "Korea MFDS medical device regulation KGMP approval guidance",
             "category": "korea_mfds/regulations",
             "date_restrict": "y1",
-            "note": "MFDS medical device updates via web search.",
+            "skip_domain_filter": True,
+            "title_filter": r"(?i)(MFDS|Korea|KGMP|KFDA|medical\s+device|device\s+approval|DMPA|GMP|pharmaceutical)",
+            "note": "MFDS medical device updates via web search (direct access blocked from CI).",
         },
     },
     "shared": {
@@ -767,9 +772,31 @@ class VertexAISearchChecker:
             return []
 
     @staticmethod
-    def _strip_site_prefix(query: str) -> str:
-        """Remove 'site:domain.com' prefixes -- Vertex AI data store handles domain restriction."""
-        return re.sub(r"site:\S+\s*", "", query).strip()
+    def _extract_site_domain(query: str) -> Optional[str]:
+        """Extract domain from 'site:domain.com' in query, if present."""
+        m = re.search(r"site:(\S+)", query)
+        return m.group(1) if m else None
+
+    def _filter_items(self, items: list, prev_titles: set,
+                       site_domain: Optional[str], title_filter: Optional[str]
+                       ) -> tuple:
+        """Filter search results, return (new_items, domain_filtered, title_filtered)."""
+        new_items = []
+        domain_filtered = 0
+        title_filtered = 0
+        for item in items:
+            title = item.get("title", "")
+            link = item.get("link", "")
+            if site_domain and link and site_domain not in link:
+                domain_filtered += 1
+                continue
+            if title_filter and not re.search(title_filter, title, re.IGNORECASE):
+                title_filtered += 1
+                continue
+            if title not in prev_titles:
+                new_items.append({"title": title, "link": link,
+                                  "snippet": item.get("snippet", "")[:200]})
+        return new_items, domain_filtered, title_filtered
 
     def check(self, source_id: str, source: dict) -> Optional[dict]:
         query = source.get("google_query")
@@ -777,25 +804,30 @@ class VertexAISearchChecker:
             if not self.available:
                 print(f"    SKIP (Vertex AI Search not configured)")
             return None
-        query = self._strip_site_prefix(query)
+        skip_domain = source.get("skip_domain_filter", False)
+        site_domain = None if skip_domain else self._extract_site_domain(query)
         title_filter = source.get("title_filter")
         prev = self.state.get(source_id, {})
         prev_titles = set(prev.get("seen_titles", []))
+
         items = self.search(query)
-        new_items = []
-        filtered_count = 0
-        all_titles = list(prev_titles)
-        for item in items:
-            title = item.get("title", "")
-            if title_filter and not re.search(title_filter, title, re.IGNORECASE):
-                filtered_count += 1
-                continue
-            if title not in prev_titles:
-                new_items.append({"title": title, "link": item.get("link", ""),
-                                  "snippet": item.get("snippet", "")[:200]})
-                all_titles.append(title)
-        if filtered_count:
-            print(f"    INFO: {filtered_count} results filtered by title_filter")
+        new_items, domain_filtered, tf_count = self._filter_items(
+            items, prev_titles, site_domain, title_filter)
+
+        if not new_items and domain_filtered > 0 and site_domain:
+            fallback_query = re.sub(r"site:\S+\s*", "", query).strip()
+            print(f"    INFO: {domain_filtered} results from wrong domain; "
+                  f"retrying without site: prefix")
+            items = self.search(fallback_query)
+            new_items, domain_filtered, tf_count = self._filter_items(
+                items, prev_titles, site_domain, title_filter)
+
+        if domain_filtered:
+            print(f"    INFO: {domain_filtered} results filtered by domain ({site_domain})")
+        if tf_count:
+            print(f"    INFO: {tf_count} results filtered by title_filter")
+
+        all_titles = list(prev_titles) + [i["title"] for i in new_items]
         self.state[source_id] = {"url": source["url"],
                                   "last_checked": datetime.now().isoformat(),
                                   "seen_titles": all_titles[-100:]}
@@ -809,7 +841,10 @@ class VertexAISearchChecker:
             result["query"] = query
             return result
         elif not prev_titles:
-            print(f"    INFO: Baseline established ({len(items)} results indexed)")
+            if not new_items and items:
+                print(f"    INFO: All {len(items)} results filtered out (domain/title mismatch)")
+            else:
+                print(f"    INFO: Baseline established ({len(items)} results indexed)")
         return None
 
 
@@ -2383,9 +2418,11 @@ class UpdateChecker:
             json.dump(self.state, f, indent=2, ensure_ascii=False)
 
     def _web_search_check(self, source_id: str, source: dict) -> Optional[dict]:
-        """Dispatch web search to Vertex AI (preferred) or legacy CSE."""
+        """Dispatch web search to Vertex AI (preferred), fallback to Google CSE."""
         if self.vertex.available:
-            return self.vertex.check(source_id, source)
+            result = self.vertex.check(source_id, source)
+            if result:
+                return result
         if self.google.available:
             return self.google.check(source_id, source)
         return None
