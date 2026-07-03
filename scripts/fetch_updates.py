@@ -232,39 +232,41 @@ SOURCES = {
         },
     },
     "australia_tga": {
-        "safety_updates": {
-            "name": "TGA Medical Device Recalls & Safety (via Search)",
+        "market_actions_rss": {
+            "name": "TGA Market Actions (Official RSS)",
+            "url": "https://tga.gov.au/feeds/alert/market-actions.xml",
+            "check_type": "tga_rss",
+            "category": "australia_tga/safety",
+            "note": "TGA official RSS for recalls, product alerts, product corrections.",
+        },
+        "safety_alerts_rss": {
+            "name": "TGA Safety Alerts (Official RSS)",
+            "url": "https://tga.gov.au/feeds/alert/safety-alerts.xml",
+            "check_type": "tga_rss",
+            "category": "australia_tga/safety",
+            "note": "TGA official RSS for medical device safety alerts.",
+        },
+        "safety_search": {
+            "name": "TGA Medical Device Safety (Search Fallback)",
             "url": "https://www.tga.gov.au/safety/safety-monitoring-and-information",
             "check_type": "google_search",
-            "google_query": "site:tga.gov.au medical device recall alert safety",
+            "google_query": "site:tga.gov.au medical device recall alert safety 2026",
             "category": "australia_tga/safety",
             "date_restrict": "m3",
             "skip_domain_filter": True,
             "exclude_domains": ["fda.gov", "accessdata.fda.gov", "federalregister.gov"],
-            "note": "TGA medical device safety alerts via web search (direct access blocked).",
+            "note": "Fallback: TGA safety via Vertex AI Search when RSS unreachable.",
         },
-        "safety_industry": {
-            "name": "TGA Medical Device Recalls (Industry Sources)",
-            "url": "https://www.tga.gov.au/safety",
-            "check_type": "google_search",
-            "google_query": "\"TGA\" OR \"Therapeutic Goods Administration\" medical device recall 2026",
-            "category": "australia_tga/safety",
-            "date_restrict": "m3",
-            "skip_domain_filter": True,
-            "exclude_domains": ["fda.gov", "accessdata.fda.gov", "federalregister.gov"],
-            "title_filter": r"(?i)(TGA|Therapeutic\s+Goods|Australia|ARTG|medical\s+device)",
-            "note": "TGA medical device recalls from industry/news sources.",
-        },
-        "regulations": {
-            "name": "TGA Medical Device Regulatory Updates (via Search)",
+        "regulations_search": {
+            "name": "TGA Medical Device Regulatory Updates (Search)",
             "url": "https://www.tga.gov.au/products/medical-devices",
             "check_type": "google_search",
-            "google_query": "site:tga.gov.au medical device regulation guidance classification",
+            "google_query": "site:tga.gov.au medical device regulation guidance classification 2026",
             "category": "australia_tga/regulations",
             "date_restrict": "m6",
             "skip_domain_filter": True,
             "exclude_domains": ["fda.gov", "accessdata.fda.gov", "federalregister.gov"],
-            "note": "TGA regulatory updates via web search (RSS feeds inaccessible).",
+            "note": "TGA regulatory updates via Vertex AI Search.",
         },
     },
     "japan_pmda": {
@@ -349,6 +351,101 @@ SOURCES = {
             "skip_domain_filter": True,
             "title_filter": r"(?i)(Korea|MFDS|KFDA|KGMP|Korean|KR).*(medical\s+device|device|GMP|regulation|approval|guidance)",
             "note": "Korean medical device regulation news via web search.",
+        },
+    },
+    # --- Tier 2 countries (Phase 3b) ---
+    "switzerland": {
+        "fsca": {
+            "name": "Swissmedic FSCA (Medical Device Field Safety Corrective Actions)",
+            "url": "https://fsca.swissmedic.ch/mep/api/publications/export",
+            "check_type": "swissmedic_csv",
+            "category": "switzerland/safety",
+            "device_only": True,
+            "note": "Swissmedic FSCA export CSV API - structured medical device recalls/corrections.",
+        },
+    },
+    "brazil_anvisa": {
+        "tecnovigilance": {
+            "name": "ANVISA Tecnovigilance Alerts (via Search)",
+            "url": "https://antigo.anvisa.gov.br/alertas",
+            "check_type": "google_search",
+            "google_query": "site:anvisa.gov.br tecnovigilancia alerta produto saude dispositivo medico",
+            "category": "brazil_anvisa/safety",
+            "date_restrict": "m3",
+            "skip_domain_filter": True,
+            "note": "ANVISA medical device tecnovigilance alerts via search (direct 403).",
+        },
+        "regulations": {
+            "name": "ANVISA Medical Device Regulations (via Search)",
+            "url": "https://www.gov.br/anvisa/pt-br/assuntos/produtos-para-a-saude",
+            "check_type": "google_search",
+            "google_query": "site:gov.br/anvisa dispositivo medico regulamento RDC produto saude 2026",
+            "category": "brazil_anvisa/regulations",
+            "date_restrict": "m6",
+            "skip_domain_filter": True,
+            "note": "ANVISA medical device regulations via search.",
+        },
+    },
+    "saudi_sfda": {
+        "weekly_alerts": {
+            "name": "SFDA NCMDR Weekly Medical Device Safety Reports",
+            "url": "https://www.sfda.gov.sa/en/weekly-alert",
+            "check_type": "sfda_weekly",
+            "category": "saudi_sfda/safety",
+            "note": "Saudi FDA weekly medical device safety reports (PDF reports listed on page).",
+        },
+        "device_news_rss": {
+            "name": "SFDA Medical Devices Sector News (RSS)",
+            "url": "https://www.sfda.gov.sa/en/news.xml?tags=3",
+            "check_type": "sfda_rss",
+            "check_sub": "rss",
+            "category": "saudi_sfda/regulations",
+            "title_filter": r"(?i)(medical\s+device|device|مستلزمات|equipment|MDMA|MDS|regulation|recall|safety)",
+            "note": "SFDA RSS for medical device sector news (filtered from general RSS).",
+        },
+    },
+    "singapore_hsa": {
+        "device_safety": {
+            "name": "HSA Medical Device Safety (via Search)",
+            "url": "https://www.hsa.gov.sg/medical-devices",
+            "check_type": "google_search",
+            "google_query": "site:hsa.gov.sg medical device recall FSCA safety alert",
+            "category": "singapore_hsa/safety",
+            "date_restrict": "m3",
+            "skip_domain_filter": True,
+            "note": "HSA medical device safety via search (direct 403).",
+        },
+        "regulations": {
+            "name": "HSA Medical Device Regulatory Updates (via Search)",
+            "url": "https://www.hsa.gov.sg/medical-devices/guidance-documents/",
+            "check_type": "google_search",
+            "google_query": "site:hsa.gov.sg medical device guidance regulation registration",
+            "category": "singapore_hsa/regulations",
+            "date_restrict": "m6",
+            "skip_domain_filter": True,
+            "note": "HSA medical device regulatory guidance via search.",
+        },
+    },
+    "india_cdsco": {
+        "device_alerts": {
+            "name": "CDSCO Medical Device Alerts (via Search)",
+            "url": "https://cdsco.gov.in/opencms/opencms/en/Medical-Device-Diagnostics/",
+            "check_type": "google_search",
+            "google_query": "site:cdsco.gov.in medical device alert recall safety",
+            "category": "india_cdsco/safety",
+            "date_restrict": "m6",
+            "skip_domain_filter": True,
+            "note": "CDSCO medical device alerts via search (direct 403).",
+        },
+        "regulations": {
+            "name": "CDSCO Medical Device Regulations (via Search)",
+            "url": "https://cdsco.gov.in/opencms/opencms/en/Medical-Device-Diagnostics/",
+            "check_type": "google_search",
+            "google_query": "CDSCO India medical device regulation notification MDR 2017 amendment 2026",
+            "category": "india_cdsco/regulations",
+            "date_restrict": "m6",
+            "skip_domain_filter": True,
+            "note": "CDSCO medical device regulations via search.",
         },
     },
     "shared": {
@@ -2609,6 +2706,11 @@ class UpdateChecker:
         self.pmda_recalls = PMDARecallsChecker(session, self.state, seed_mode)
         self.mfds = MFDSChecker(session, self.state, seed_mode)
         self.generic_page = GenericPageChecker(session, self.state)
+        # Tier 2 checkers (Phase 3b)
+        from tier2_checkers import TGARSSChecker, SwissmedicChecker, SFDAChecker
+        self.tga_rss = TGARSSChecker(session, self.state, seed_mode)
+        self.swissmedic = SwissmedicChecker(session, self.state, seed_mode)
+        self.sfda = SFDAChecker(session, self.state, seed_mode)
         self.llm = LLMVersionAnalyzer(LLM_API_KEY, LLM_BASE_URL, LLM_MODEL)
         if self.vertex.available:
             print("INFO: Using Vertex AI Search (searchLite) for web queries.")
@@ -2679,6 +2781,14 @@ class UpdateChecker:
             return self.pmda_recalls.check(source_id, source)
         elif check_type == "mfds_page":
             return self.mfds.check(source_id, source)
+        elif check_type == "tga_rss":
+            return self.tga_rss.check(source_id, source)
+        elif check_type == "swissmedic_csv":
+            return self.swissmedic.check(source_id, source)
+        elif check_type == "sfda_weekly":
+            return self.sfda.check(source_id, source)
+        elif check_type == "sfda_rss":
+            return self.sfda.check(source_id, source)
         elif check_type == "generic_page":
             return self.generic_page.check(source_id, source)
         elif check_type == "eurlex_amendment":
@@ -2840,6 +2950,9 @@ def main():
             updates.extend(checker.check_regulation(grp))
     elif args.check == "tier1_east":
         for grp in ("japan_pmda", "korea_mfds"):
+            updates.extend(checker.check_regulation(grp))
+    elif args.check == "tier2":
+        for grp in ("switzerland", "brazil_anvisa", "saudi_sfda", "singapore_hsa", "india_cdsco"):
             updates.extend(checker.check_regulation(grp))
     else:
         updates = checker.check_regulation(args.check)

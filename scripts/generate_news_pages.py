@@ -20,6 +20,7 @@ DOCS_DIR = REPO_ROOT / "docs"
 FRAMEWORKS = [
     "eu_mdr", "fda", "nmpa", "_shared",
     "uk_mhra", "canada", "australia_tga", "japan_pmda", "korea_mfds",
+    "switzerland", "brazil_anvisa", "saudi_sfda", "singapore_hsa", "india_cdsco",
 ]
 
 FRAMEWORK_NAMES = {
@@ -32,6 +33,11 @@ FRAMEWORK_NAMES = {
     "australia_tga": {"en": "Australia TGA", "zh": "Australia TGA"},
     "japan_pmda": {"en": "Japan PMDA", "zh": "Japan PMDA"},
     "korea_mfds": {"en": "Korea MFDS", "zh": "Korea MFDS"},
+    "switzerland": {"en": "Swissmedic", "zh": "Swissmedic"},
+    "brazil_anvisa": {"en": "Brazil ANVISA", "zh": "Brazil ANVISA"},
+    "saudi_sfda": {"en": "Saudi SFDA", "zh": "Saudi SFDA"},
+    "singapore_hsa": {"en": "Singapore HSA", "zh": "Singapore HSA"},
+    "india_cdsco": {"en": "India CDSCO", "zh": "India CDSCO"},
 }
 
 CATEGORY_LABELS = {

@@ -61,6 +61,17 @@ CATEGORY_MAP = {
     "japan_pmda/safety": ("japan_pmda", "safety_communication"),
     "korea_mfds/regulations": ("korea_mfds", "regulation_update"),
     "korea_mfds/safety": ("korea_mfds", "safety_communication"),
+    # Tier 2 international markets
+    "switzerland/safety": ("switzerland", "safety_communication"),
+    "switzerland/regulations": ("switzerland", "regulation_update"),
+    "brazil_anvisa/safety": ("brazil_anvisa", "safety_communication"),
+    "brazil_anvisa/regulations": ("brazil_anvisa", "regulation_update"),
+    "saudi_sfda/safety": ("saudi_sfda", "safety_communication"),
+    "saudi_sfda/regulations": ("saudi_sfda", "regulation_update"),
+    "singapore_hsa/safety": ("singapore_hsa", "safety_communication"),
+    "singapore_hsa/regulations": ("singapore_hsa", "regulation_update"),
+    "india_cdsco/safety": ("india_cdsco", "safety_communication"),
+    "india_cdsco/regulations": ("india_cdsco", "regulation_update"),
 }
 
 
@@ -102,6 +113,39 @@ _CATEGORY_PROMPTS = {
         "The summary should cover: (1) what changed, (2) which devices are affected, "
         "(3) key dates or deadlines, (4) actions needed by manufacturers. "
         "importance: 'high' for new precaution revisions, 'medium' for guidance updates."
+    ),
+    "switzerland/safety": (
+        "This is a Swissmedic FSCA (Field Safety Corrective Action) for medical devices. "
+        "The summary MUST cover: (1) device name and manufacturer, (2) reason for corrective action, "
+        "(3) model/lot affected, (4) recommended actions. "
+        "importance: 'high' for recalls, 'medium' for product corrections."
+    ),
+    "brazil_anvisa/safety": (
+        "This is a Brazilian ANVISA tecnovigilance alert for medical devices. "
+        "Input may be in Portuguese -- translate to English and Chinese. "
+        "The summary MUST cover: (1) device name and manufacturer, (2) safety issue, "
+        "(3) affected products, (4) actions needed. "
+        "importance: 'high' for serious safety issues, 'medium' for corrections."
+    ),
+    "saudi_sfda/safety": (
+        "This is a Saudi SFDA (NCMDR) medical device safety report. "
+        "Input may be in Arabic -- translate to English and Chinese. "
+        "The summary MUST cover: (1) key safety alerts from the weekly report, "
+        "(2) affected devices and manufacturers, (3) actions needed. "
+        "importance: 'medium' for weekly summary reports."
+    ),
+    "singapore_hsa/safety": (
+        "This is a Singapore HSA (Health Sciences Authority) medical device safety alert. "
+        "The summary MUST cover: (1) device name and manufacturer, (2) safety issue description, "
+        "(3) affected products/lots, (4) actions for healthcare professionals/users. "
+        "importance: 'high' for recalls, 'medium' for safety advisories."
+    ),
+    "india_cdsco/safety": (
+        "This is an India CDSCO (Central Drugs Standard Control Organisation) medical device alert. "
+        "Input may be in Hindi -- translate to English and Chinese. "
+        "The summary MUST cover: (1) device name and manufacturer, (2) safety concern, "
+        "(3) regulatory action taken, (4) impact on importers/manufacturers. "
+        "importance: 'high' for device bans/recalls, 'medium' for notices."
     ),
 }
 
@@ -196,6 +240,14 @@ def _resolve_source_name(url: str) -> str:
         ("pmda.go.jp", "PMDA (Japan)"),
         ("mhlw.go.jp", "MHLW (Japan)"),
         ("mfds.go.kr", "MFDS (Korea)"),
+        ("fsca.swissmedic.ch", "Swissmedic"),
+        ("swissmedic.ch", "Swissmedic"),
+        ("anvisa.gov.br", "ANVISA (Brazil)"),
+        ("gov.br/anvisa", "ANVISA (Brazil)"),
+        ("sfda.gov.sa", "SFDA (Saudi Arabia)"),
+        ("ade.sfda.gov.sa", "SFDA (Saudi Arabia)"),
+        ("hsa.gov.sg", "HSA (Singapore)"),
+        ("cdsco.gov.in", "CDSCO (India)"),
     ]:
         if domain in url_lower:
             return name
