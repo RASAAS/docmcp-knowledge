@@ -54,6 +54,138 @@ Japan's PMDA issued a safety alert warning that improper use of insulin-specific
 
 ---
 
+### SFDA Organizes Two Specialized Workshops on Clinical Trials and Healthcare Technologies in the Medical Devices Sector at GHE
+
+**2026-07-03** | Saudi SFDA | Regulation Update | !! MEDIUM
+
+The Saudi Food and Drug Authority (SFDA) conducted two specialized workshops at the Global Health Exhibition (GHE) addressing clinical trial requirements and emerging healthcare technologies for medical devices. The sessions targeted industry stakeholders, including manufacturers and investigators, to clarify regulatory expectations and foster compliance. Participants are encouraged to review workshop outcomes and align their clinical investigation and technology adoption practices with SFDA guidance.
+
+**Tags**: `medical_devices`, `clinical_trials`, `workshop`, `sfda`, `global_health_exhibition`, `healthcare_technologies`
+
+[View Source (FDA)](https://www.sfda.gov.sa/en/news/4883559)
+
+---
+
+### SFDA and AAMI Sign MoU to Advance Medical Device Standards
+
+**2026-07-03** | Saudi SFDA | Regulation Update | !! MEDIUM
+
+The Saudi Food and Drug Authority (SFDA) has signed a Memorandum of Understanding (MoU) with the Association for the Advancement of Medical Instrumentation (AAMI) to strengthen collaboration on medical device standards. The partnership aims to harmonize regulatory requirements, enhance device safety and performance, and promote the adoption of international best practices in Saudi Arabia. Medical device manufacturers and importers should note that future SFDA guidance may increasingly reference AAMI standards, which could affect product certification and compliance. No immediate regulatory changes have been announced, but stakeholders are advised to monitor SFDA updates for potential new requirements.
+
+**Tags**: `sfda`, `aami`, `medical_device_standards`, `regulatory_collaboration`, `saudi_arabia`
+
+[View Source (FDA)](https://www.sfda.gov.sa/en/news/4348967)
+
+---
+
+### "الغذاء والدواء" تواصل ترسيخ مكانتها العالمية بتنظيم دراسات سريرية لأجهزة ومستلزمات طبية مبتكرة
+
+**2026-07-03** | Saudi SFDA | Regulation Update | !! MEDIUM
+
+The Impact of Dupilumab Treatment on Anxiety and Depression Symptoms in Patients with Moderate-to-Severe Atopic Dermatitis in Gulf Countries: DERMIND-AD
+
+<span><span>KFYousef</span></span>
+
+<span><time datetime="2026-04-15T07:32:34+03:00" title="Wednesday, April 15, 2026 - 07:32">Wed, 04/15/2026 - 0
+
+[View Source (FDA)](https://www.sfda.gov.sa/ar/news/4129105)
+
+---
+
+### ISO 13485: Essential Quality Management Standard for Medical Devices Globally
+
+**2026-07-03** | India CDSCO | Regulation Update | !! MEDIUM
+
+ISO 13485 is the internationally recognized standard for quality management systems specific to medical devices. It sets requirements for design, production, installation, and servicing to ensure safety and regulatory compliance. Medical device manufacturers must adopt this standard to gain access to major markets, and it is frequently referenced by regulators like India's CDSCO as a prerequisite for product registration. Ongoing adherence requires regular audits and continuous improvement of QMS processes.
+
+**Tags**: `iso_13485`, `quality_management_system`, `medical_device_compliance`, `global_regulatory_requirements`, `cdsco`
+
+[View Source (ISO)](https://www.iso.org/iso-13485-medical-devices.html)
+
+---
+
+### ISO 14155:2020 - Clinical investigation of medical devices for human subjects — Good clinical practice
+
+**2026-07-03** | India CDSCO | Regulation Update | !!! HIGH
+
+This ISO standard specifies good clinical practice for the design, conduct, recording, and reporting of clinical investigations with medical devices in human subjects. It applies to sponsors, investigators, ethics committees, regulatory authorities, and conformity assessment bodies involved in the clinical evaluation of devices. Compliance with this standard is essential for demonstrating safety and performance of medical devices in regulatory submissions, and it may be referenced by national authorities such as CDSCO in India. All stakeholders should ensure their clinical investigation processes align with ISO 14155:2020 requirements ahead of upcoming conformity assessments.
+
+**Tags**: `medical_devices`, `clinical_investigation`, `iso_14155`, `good_clinical_practice`, `regulatory_compliance`
+
+[View Source (ISO)](https://www.iso.org/standard/71690.html)
+
+---
+
+### NMPA Holds Meeting on Vaccine Regulatory Quality Management System
+
+**2026-07-03** | India CDSCO | Regulation Update | !! MEDIUM
+
+The National Medical Products Administration (NMPA) convened a meeting to advance the vaccine regulatory quality management system (QMS). The discussion centered on strengthening process controls, aligning with international standards, and elevating oversight across vaccine development, manufacturing, and distribution. Stakeholders including vaccine manufacturers and regulatory professionals are expected to adopt enhanced QMS measures to ensure product safety and compliance.
+
+**Tags**: `vaccine_regulation`, `quality_management_system`, `nmpa`, `regulatory_affairs`
+
+[View Source (NMPA)](https://english.nmpa.gov.cn/)
+
+---
+
+### FDA Consent Decree with Philips on Recalled Ventilators, BiPAP, CPAP Machines Prioritizes Patient Relief
+
+**2026-07-03** | India CDSCO | Regulation Update | !!! HIGH
+
+The FDA announced a consent decree with Philips Respironics addressing the massive recall of ventilators, BiPAP, and CPAP machines due to foam degradation risks. The decree requires Philips to prioritize patient relief through remediation, replacement, or refunds, and to implement rigorous corrective actions and regulatory compliance measures. It affects millions of patients worldwide who rely on these devices for sleep apnea and respiratory support. Regulated entities should monitor the decree's impact on Philips' market access and supply chain obligations.
+
+**Tags**: `philips_recall`, `consent_decree`, `respiratory_devices`, `fda`, `patient_safety`, `corrective_action`, `device_compliance`
+
+[View Source (FDA)](https://www.fda.gov/medical-devices/respiratory-devices/recalled-philips-ventilators-bipap-machines-and-cpap-machines)
+
+---
+
+### December 16, 2025 Skanray Technologies Limited Vasundhara R ...
+
+**2026-07-03** | India CDSCO | Regulation Update | !! MEDIUM
+
+Dec 16, 2025 ... mdr-how-report-medical-device-problems. For comprehensive regulatory information about medical devices and radiation-emitting products, ...
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/cdrh_docs/pdf25/K251893.pdf)
+
+---
+
+### FDA Updates OZEMPIC (semaglutide) Label with Boxed Warning on Thyroid C-Cell Tumors
+
+**2026-07-03** | India CDSCO | Regulation Update | !! MEDIUM
+
+The FDA has updated the label for OZEMPIC (semaglutide) injection, emphasizing the boxed warning for thyroid C-cell tumors. This revision (supplements s020/s021) provides the full prescribing information, including safety data and detailed instructions for the pre-filled pen injector. Medical device professionals working on drug-device combination products, such as injector pens, should review the updated device-specific instructions to align with design controls and labeling compliance.
+
+**Tags**: `drug_device_combination`, `injector_pen`, `semaglutide`, `fda_label_update`, `boxed_warning`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/209637s020s021lbl.pdf)
+
+---
+
+### FDA Releases November 2015 Establishment Inspection Report on Implantable Device for Emotional Regulation and Behavior Modification
+
+**2026-07-03** | India CDSCO | Regulation Update | !! MEDIUM
+
+This item is an FDA Establishment Inspection Report (EIR) from a November 2015 inspection of a medical device facility, now publicly released. The report focuses on a device related to implantation, emotional regulation, behavior modification, or psychological influence. Regulatory professionals should review the document for compliance observations and potential implications for similar device classifications. No new enforcement action is indicated, but it offers historical insights into FDA inspection practices in this sensitive device area.
+
+**Tags**: `establishment_inspection_report`, `implantable_device`, `emotional_regulation`, `behavior_modification`, `foia_release`
+
+[View Source (FDA)](https://www.fda.gov/media/186301/download)
+
+---
+
+### Swissmedic FSCA for B. Braun Infusomat Space P Bedside Infusion Pump (Model 8713070)
+
+**2026-07-02** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic has issued a Field Safety Corrective Action (FSCA) for the Infusomat Space P single-channel bedside infusion pump (model 8713070) manufactured by B. Braun Melsungen AG. The specific safety issue prompting this corrective action is not detailed in the public notice. Healthcare facilities using this device should immediately check their inventory for the affected model and follow the manufacturer's instructions distributed via the FSCA notification.
+
+**Tags**: `swissmedic_fsca`, `infusion_pump`, `b_braun`, `safety_correction`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260701_035)
+
+---
+
 ### NMPA Issues Amendment Sheets for YY 0068.4-2009 and Six Other Industry Standards for Medical Devices
 
 **2026-07-01** | NMPA | Standard Revision | !! MEDIUM
@@ -638,6 +770,54 @@ The Korean Ministry of Food and Drug Safety (MFDS) published the 2019 Medical De
 
 ---
 
+### Swissmedic FSCA for Olympus Single-Use Distal Cover MAJ-2315 (Lot N6192000)
+
+**2026-07-01** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic issued a Field Safety Corrective Action for the Olympus single-use endoscope patient protection cap, model MAJ-2315, lot N6192000. The specific reason for the corrective action was not disclosed in the notice. Affected healthcare providers should identify and quarantine the product, and follow Olympus' instructions for return or disposal.
+
+**Tags**: `swissmedic`, `fsca`, `olympus`, `endoscope_cap`, `patient_protection`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260626_004)
+
+---
+
+### Swissmedic FSCA: SY-LAB IceCube Freezers Field Safety Corrective Action
+
+**2026-07-01** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic issued a Field Safety Corrective Action (FSCA) for SY-LAB IceCube linear rate freezers. Affected models include IceCube 11XS MED, 14S MED, 14M MED, 17M MED, 17L MED, and non-MED variants 11XS, 14S, 14M, 17M, 17L. The reason for the corrective action was not specified in the notice. Users should follow manufacturer instructions for the corrective action.
+
+**Tags**: `fsca`, `swissmedic`, `freezer`, `sy-lab`, `field_safety_corrective_action`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260624_027)
+
+---
+
+### Swissmedic FSCA: DH Healthcare GmbH ORBIS Medication 3.x Field Safety Corrective Action
+
+**2026-07-01** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic issued a Field Safety Corrective Action for ORBIS Medication version 3.x by DH Healthcare GmbH, categorized under general medicine instruments. No specific reason or model details were provided in the notice. Users of this medication software should verify if their installation is impacted and follow the manufacturer's corrective instructions.
+
+**Tags**: `swissmedic`, `fsca`, `medical_device`, `software`, `dh_healthcare`, `general_medicine_instruments`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260624_032)
+
+---
+
+### Therakos CELLEX Photopheresis System (CLXECP, CLXSP-I) Field Safety Corrective Action
+
+**2026-07-01** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic published a Field Safety Corrective Action (FSCA) for the Therakos CELLEX Photopheresis System, models CLXECP and CLXSP-I, from Therakos Development Limited. The notice does not specify the reason for the corrective action. Affected users should consult the official FSCA for required actions.
+
+**Tags**: `swissmedic`, `fsca`, `photopheresis`, `medical_device`, `corrective_action`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260626_024)
+
+---
+
 ### EC Publishes Delegated Acts on Well-Established Technologies Under EU MDR
 
 **2026-06-30** | EU MDR/IVDR | Regulation Update | !!! HIGH
@@ -722,6 +902,42 @@ Japan's PMDA has issued a Class II recall (Recall #2-12867) for the Cellex ECP S
 
 ---
 
+### Swissmedic FSCA: Boston Scientific Radial Jaw 4 Biopsy Forceps
+
+**2026-06-30** | Swissmedic | Safety Communication | !!! HIGH
+
+The Swissmedic has issued a Field Safety Corrective Action (FSCA) for the Radial Jaw 4 single-use flexible endoscopic biopsy forceps manufactured by Boston Scientific Corporation. Affected models are identified in the Field Safety Notice (FSN). Healthcare professionals should immediately review the FSN and implement the manufacturer's recommended actions, which may include quarantine and return of affected devices.
+
+**Tags**: `swissmedic`, `fsca`, `biopsy_forceps`, `boston_scientific`, `endoscopic`, `single_use`, `corrective_action`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260626_015)
+
+---
+
+### Swissmedic FSCA: Medline Industries LP MEDSTOP Stopcock Safety Alert
+
+**2026-06-30** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic has issued a Field Safety Corrective Action (FSCA) for the MEDSTOP stopcock manufactured by Medline Industries LP. The reason for the corrective action is not specified in the alert summary; affected models are referenced in the manufacturer’s Field Safety Notice (FSN). Users should consult the full FSN for detailed affected model information and implement the recommended actions immediately.
+
+**Tags**: `swissmedic`, `fsca`, `stopcock`, `medline_industries_lp`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260625_032)
+
+---
+
+### MiniMed Go App (MMT-8600/8601) Field Safety Corrective Action – Medtronic MINIMED
+
+**2026-06-30** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic published a Field Safety Corrective Action (FSCA) for the Medtronic MiniMed Go App, covering iOS version MMT-8600 and Android version MMT-8601, used in conjunction with various diabetes monitoring instruments. The notice does not specify the exact reason for the correction. Affected users should immediately review the manufacturer's instructions and follow the recommended corrective measures to ensure safe device operation.
+
+**Tags**: `swissmedic`, `fsca`, `diabetes_monitoring`, `medtronic`, `minimed`, `mobile_app`, `field_safety_corrective_action`, `medical_device`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260624_007)
+
+---
+
 ### MHRA Issues Updated Guidance on Borderline Products: Medical Devices vs Other Products
 
 **2026-06-29** | UK MHRA | Regulation Update | !! MEDIUM
@@ -743,6 +959,18 @@ Health Canada has issued a safety recall/alert for specific Abiomed Introducer K
 **Tags**: `medical_device_recall`, `impella_heart_pump`, `performance_issue`
 
 [View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/abiomed-introducer-kits-impella-heart-pumps)
+
+---
+
+### SFDA NCMDR Weekly Safety Update WU2627 (June 28, 2026)
+
+**2026-06-28** | Saudi SFDA | Safety Communication | !! MEDIUM
+
+The Saudi Food and Drug Authority's National Center for Medical Devices Reporting (NCMDR) issued Weekly Update WU2627, covering safety alerts and adverse event reports for medical devices distributed in the Kingdom. The report identifies specific devices and manufacturers with reported safety issues, and recommends that healthcare providers review the findings and take necessary corrective or preventive actions as indicated in the update.
+
+**Tags**: `sfda`, `ncmdr`, `weekly_update`, `safety_alert`
+
+[View Source (FDA)](https://www.sfda.gov.sa/sites/default/files/2026-06/%28WU2627%29%20NCMDR%20Weekly%20Update%2028%20June%202026.pdf)
 
 ---
 
@@ -950,6 +1178,18 @@ The Japanese PMDA has issued a Class II recall (#2-12856) for the Olympus Medica
 
 ---
 
+### SFDA NCMDR Weekly Safety Update WU2626 (21 June 2026)
+
+**2026-06-21** | Saudi SFDA | Safety Communication | !! MEDIUM
+
+The Saudi Food and Drug Authority’s National Center for Medical Devices Reporting (NCMDR) released weekly update WU2626 on 21 June 2026, containing recent medical device field safety notices and adverse event reports. Healthcare providers, authorized representatives, and distributors should review the listed manufacturers and devices, and promptly apply any recommended corrective actions to ensure ongoing compliance and patient safety.
+
+**Tags**: `sfda`, `ncmdr`, `safety_alert`, `medical_devices`, `saudi_arabia`
+
+[View Source (FDA)](https://www.sfda.gov.sa/sites/default/files/2026-06/%28WU2626%29%20NCMDR%20Weekly%20Update%2021%20June%202026.pdf)
+
+---
+
 ### Japan PMDA Class II Recall: Arcatena Disposable Angiography Kit by Nemoto Kyorindo
 
 **2026-06-19** | Japan PMDA | Safety Communication | !! MEDIUM
@@ -986,6 +1226,18 @@ Published 17 June 2026 (effective 11 June 2026), this decision amends Decision 2
 
 ---
 
+### FARADRIVE Steerable Sheath by Boston Scientific: FSCA for Language Addition to Labeling
+
+**2026-06-16** | Swissmedic | Safety Communication | !! MEDIUM
+
+This field safety corrective action (FSCA) from Swissmedic concerns the FARADRIVE Steerable Sheath, a single-use vascular guide-catheter manufactured by Boston Scientific. The reason is the addition of new language to the product labeling. Affected models are listed in the Field Safety Notice; no specific lot numbers are provided in the public summary. Users should ensure the updated labeling is implemented in accordance with the manufacturer's instructions.
+
+**Tags**: `fsca`, `labeling_update`, `vascular_catheter`, `boston_scientific`, `swissmedic`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260611_006)
+
+---
+
 ### MHRA Weekly Field Safety Notices: 8-12 June 2026
 
 **2026-06-15** | UK MHRA | Safety Communication | !! MEDIUM
@@ -998,6 +1250,18 @@ The UK MHRA published the compilation of Field Safety Notices (FSNs) issued betw
 
 ---
 
+### SFDA NCMDR Weekly Update WU2625 (14 June 2026) Medical Device Safety Report
+
+**2026-06-14** | Saudi SFDA | Safety Communication | !! MEDIUM
+
+The Saudi FDA National Center for Medical Devices Reporting (NCMDR) published Weekly Update WU2625, summarizing recent medical device field safety notices, recalls, and adverse event reports. Healthcare professionals and facilities should review the listed affected devices and manufacturers for any required corrective actions. The report emphasizes continued vigilance and prompt reporting of adverse events through the NCMDR system.
+
+**Tags**: `saudi_sfda`, `weekly_update`, `safety_alert`, `medical_devices`, `ncmdr`
+
+[View Source (FDA)](https://www.sfda.gov.sa/sites/default/files/2026-06/%28WU2625%29%20NCMDR%20Weekly%20Update%2014%20June%202026%20%281%29.pdf)
+
+---
+
 ### MHRA Field Safety Notices for 1–5 June 2026 Now Available
 
 **2026-06-08** | UK MHRA | Safety Communication | !! MEDIUM
@@ -1007,6 +1271,18 @@ The UK MHRA has published the weekly list of Field Safety Notices (FSNs) for 1�
 **Tags**: `field_safety_notice`, `mhra`, `medical_devices`, `uk_regulation`, `safety_alert`
 
 [View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-1-5-june-2026)
+
+---
+
+### SFDA NCMDR Weekly Safety Update WU2624 Released on 07 June 2026
+
+**2026-06-07** | Saudi SFDA | Safety Communication | !! MEDIUM
+
+The Saudi Food and Drug Authority’s National Center for Medical Devices Reporting (NCMDR) issued Weekly Update WU2624 on 07 June 2026. The report includes recent safety alerts for medical devices, identifying affected products and manufacturers. Healthcare providers and suppliers are advised to review the specific advisories and implement any corrective actions to maintain patient safety.
+
+**Tags**: `saudi_sfda`, `ncmdr`, `weekly_update`, `medical_device_safety`
+
+[View Source (FDA)](https://www.sfda.gov.sa/sites/default/files/2026-06/%28WU2624%29%20NCMDR%20Weekly%20Update%2007%20June%202026.pdf)
 
 ---
 
@@ -1046,6 +1322,18 @@ The Japanese PMDA has issued a Class I recall (most serious) for Terumo Corporat
 
 ---
 
+### SFDA NCMDR Weekly Safety Update WU2622 – 24 May 2026
+
+**2026-05-24** | Saudi SFDA | Safety Communication | !! MEDIUM
+
+The Saudi FDA's National Center for Medical Devices Reporting (NCMDR) published weekly update WU2622 on 24 May 2026, consolidating recent medical device safety alerts, field safety notices, and recalls. Affected devices and manufacturers are listed in the report; healthcare providers and suppliers in Saudi Arabia must review the notice, check inventories, and implement any recommended corrective actions immediately to ensure patient safety and regulatory compliance.
+
+**Tags**: `sfda`, `ncmdr`, `weekly_safety_report`, `medical_devices`, `recall`
+
+[View Source (FDA)](https://www.sfda.gov.sa/sites/default/files/2026-05/%28WU2622%29%20NCMDR%20Weekly%20Update%2024%20May%202026.pdf)
+
+---
+
 ### IEC 62304 Edition 2 -- Major Overhaul of Medical Device Software Standard (Aug 2026)
 
 **2026-05-22** | ISO/IEC Standards | Standard Revision | !!! HIGH
@@ -1055,6 +1343,18 @@ Scheduled for publication 12 August 2026. Key changes: scope expanded from 'medi
 **Tags**: `software_lifecycle`, `ai_ml`, `cybersecurity`, `health_software`
 
 [View Source (IEC)](https://webstore.iec.ch/en/publication/22794)
+
+---
+
+### Updated Field Safety Notice for Sphere-9 Catheter (Model AFR-00001) from Medtronic/BIOTRONIK
+
+**2026-03-30** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has published an updated Field Safety Corrective Action for the Sphere-9 Catheter, a cardiac tissue ablation device, due to a new version of the Field Safety Notice (FSN). The affected model is AFR-00001, with manufacturers Medtronic, Inc. and BIOTRONIK SE & Co. KG. Healthcare professionals should immediately review the revised FSN for any modified instructions or risk mitigation measures regarding this device.
+
+**Tags**: `switzerland`, `fsca`, `field_safety_notice`, `cardiac_ablation`, `medtronic`, `biotronik`, `catheter`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260318_029)
 
 ---
 

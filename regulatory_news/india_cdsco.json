@@ -1,0 +1,190 @@
+{
+  "framework": "india_cdsco",
+  "last_updated": "2026-07-03T02:36:51Z",
+  "items": [
+    {
+      "id": "india_cdsco_20260703_iso_13485_essential_quality_management_standard_for_medical",
+      "framework": "india_cdsco",
+      "category": "regulation_update",
+      "title": {
+        "en": "ISO 13485: Essential Quality Management Standard for Medical Devices Globally",
+        "zh": "ISO 13485：医疗器械全球质量管理体系核心标准"
+      },
+      "summary": {
+        "en": "ISO 13485 is the internationally recognized standard for quality management systems specific to medical devices. It sets requirements for design, production, installation, and servicing to ensure safety and regulatory compliance. Medical device manufacturers must adopt this standard to gain access to major markets, and it is frequently referenced by regulators like India's CDSCO as a prerequisite for product registration. Ongoing adherence requires regular audits and continuous improvement of QMS processes.",
+        "zh": "ISO 13485是医疗器械行业专用的质量管理体系国际标准，规定了从设计到售后各环节的要求，以确保产品安全与法规合规。该标准是全球市场准入的重要基础，印度药品管理局（CDSCO）等监管机构常将其作为注册前提。医疗器械制造商需建立并持续维护符合标准的QMS，接受定期审核。"
+      },
+      "source_url": "https://www.iso.org/iso-13485-medical-devices.html",
+      "source_name": "ISO",
+      "published_date": "2026-07-03",
+      "detected_date": "2026-07-03T02:34:19Z",
+      "importance": "medium",
+      "tags": [
+        "iso_13485",
+        "quality_management_system",
+        "medical_device_compliance",
+        "global_regulatory_requirements",
+        "cdsco"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "india_cdsco_20260703_iso_14155_2020_clinical_investigation_of_medical_devices_for",
+      "framework": "india_cdsco",
+      "category": "regulation_update",
+      "title": {
+        "en": "ISO 14155:2020 - Clinical investigation of medical devices for human subjects — Good clinical practice",
+        "zh": "ISO 14155:2020 医疗器械人体临床研究——良好临床实践标准"
+      },
+      "summary": {
+        "en": "This ISO standard specifies good clinical practice for the design, conduct, recording, and reporting of clinical investigations with medical devices in human subjects. It applies to sponsors, investigators, ethics committees, regulatory authorities, and conformity assessment bodies involved in the clinical evaluation of devices. Compliance with this standard is essential for demonstrating safety and performance of medical devices in regulatory submissions, and it may be referenced by national authorities such as CDSCO in India. All stakeholders should ensure their clinical investigation processes align with ISO 14155:2020 requirements ahead of upcoming conformity assessments.",
+        "zh": "该标准规定了医疗器械人体临床试验的设计、实施、记录和报告的良好临床实践要求。适用于发起人、研究者、伦理委员会、监管机构及参与器械临床评价的符合性评定机构。符合该标准对于在注册申报中证明医疗器械安全有效至关重要，印度CDSCO等国家监管机构可能引用此标准。相关方应确保临床研究流程符合ISO 14155:2020的要求，以应对即将到来的符合性评定。"
+      },
+      "source_url": "https://www.iso.org/standard/71690.html",
+      "source_name": "ISO",
+      "published_date": "2026-07-03",
+      "detected_date": "2026-07-03T02:34:42Z",
+      "importance": "high",
+      "tags": [
+        "medical_devices",
+        "clinical_investigation",
+        "iso_14155",
+        "good_clinical_practice",
+        "regulatory_compliance"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "india_cdsco_20260703_nmpa_holds_meeting_on_vaccine_regulatory_quality_management",
+      "framework": "india_cdsco",
+      "category": "regulation_update",
+      "title": {
+        "en": "NMPA Holds Meeting on Vaccine Regulatory Quality Management System",
+        "zh": "国家药监局召开疫苗监管质量管理体系会议"
+      },
+      "summary": {
+        "en": "The National Medical Products Administration (NMPA) convened a meeting to advance the vaccine regulatory quality management system (QMS). The discussion centered on strengthening process controls, aligning with international standards, and elevating oversight across vaccine development, manufacturing, and distribution. Stakeholders including vaccine manufacturers and regulatory professionals are expected to adopt enhanced QMS measures to ensure product safety and compliance.",
+        "zh": "国家药监局召开疫苗监管质量管理体系会议，聚焦强化流程控制、接轨国际标准及提升疫苗全生命周期监管。疫苗生产企业和法规事务人员需加强质量管理体系建设，确保疫苗安全与合规。"
+      },
+      "source_url": "https://english.nmpa.gov.cn/",
+      "source_name": "NMPA",
+      "published_date": "2026-07-03",
+      "detected_date": "2026-07-03T02:35:12Z",
+      "importance": "medium",
+      "tags": [
+        "vaccine_regulation",
+        "quality_management_system",
+        "nmpa",
+        "regulatory_affairs"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "india_cdsco_20260703_fda_consent_decree_with_philips_on_recalled_ventilators_bipa",
+      "framework": "india_cdsco",
+      "category": "regulation_update",
+      "title": {
+        "en": "FDA Consent Decree with Philips on Recalled Ventilators, BiPAP, CPAP Machines Prioritizes Patient Relief",
+        "zh": "FDA与飞利浦就其呼吸机、BiPAP和CPAP召回达成同意令，优先患者救济"
+      },
+      "summary": {
+        "en": "The FDA announced a consent decree with Philips Respironics addressing the massive recall of ventilators, BiPAP, and CPAP machines due to foam degradation risks. The decree requires Philips to prioritize patient relief through remediation, replacement, or refunds, and to implement rigorous corrective actions and regulatory compliance measures. It affects millions of patients worldwide who rely on these devices for sleep apnea and respiratory support. Regulated entities should monitor the decree's impact on Philips' market access and supply chain obligations.",
+        "zh": "美国FDA宣布与飞利浦伟康就因消音泡沫降解风险而召回的呼吸机、BiPAP和CPAP设备达成同意令。该同意令要求飞利浦优先通过修复、更换或退款等方式提供患者救济，并实施严格的纠正措施与合规计划。此举措影响全球数百万依赖这些设备的睡眠呼吸暂停和呼吸支持患者。相关监管主体应关注该同意令对飞利浦市场准入及供应链义务的影响。"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/respiratory-devices/recalled-philips-ventilators-bipap-machines-and-cpap-machines",
+      "source_name": "FDA",
+      "published_date": "2026-07-03",
+      "detected_date": "2026-07-03T02:35:31Z",
+      "importance": "high",
+      "tags": [
+        "philips_recall",
+        "consent_decree",
+        "respiratory_devices",
+        "fda",
+        "patient_safety",
+        "corrective_action",
+        "device_compliance"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "india_cdsco_20260703_december_16_2025_skanray_technologies_limited_vasundhara_r",
+      "framework": "india_cdsco",
+      "category": "regulation_update",
+      "title": {
+        "en": "December 16, 2025 Skanray Technologies Limited Vasundhara R ...",
+        "zh": "December 16, 2025 Skanray Technologies Limited Vasundhara R ..."
+      },
+      "summary": {
+        "en": "Dec 16, 2025 ... mdr-how-report-medical-device-problems. For comprehensive regulatory information about medical devices and radiation-emitting products, ...",
+        "zh": "Dec 16, 2025 ... mdr-how-report-medical-device-problems. For comprehensive regulatory information about medical devices and radiation-emitting products, ..."
+      },
+      "source_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf25/K251893.pdf",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-03",
+      "detected_date": "2026-07-03T02:36:02Z",
+      "importance": "medium",
+      "tags": [],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "india_cdsco_20260703_fda_updates_ozempic_semaglutide_label_with_boxed_warning_on",
+      "framework": "india_cdsco",
+      "category": "regulation_update",
+      "title": {
+        "en": "FDA Updates OZEMPIC (semaglutide) Label with Boxed Warning on Thyroid C-Cell Tumors",
+        "zh": "FDA更新OZEMPIC（索马鲁肽）标签，添加甲状腺C细胞肿瘤黑框警告"
+      },
+      "summary": {
+        "en": "The FDA has updated the label for OZEMPIC (semaglutide) injection, emphasizing the boxed warning for thyroid C-cell tumors. This revision (supplements s020/s021) provides the full prescribing information, including safety data and detailed instructions for the pre-filled pen injector. Medical device professionals working on drug-device combination products, such as injector pens, should review the updated device-specific instructions to align with design controls and labeling compliance.",
+        "zh": "FDA更新了OZEMPIC（索马鲁肽）注射剂标签，突出甲状腺C细胞肿瘤的黑框警告。此次修订（补充申请s020/s021）提供了完整处方信息，包括安全性数据及预充式注射笔的详细使用说明。从事注射笔等药械组合产品的医疗器械专业人员应审查更新的器械使用说明，以确保设计控制与标签合规。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/209637s020s021lbl.pdf",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-03",
+      "detected_date": "2026-07-03T02:36:29Z",
+      "importance": "medium",
+      "tags": [
+        "drug_device_combination",
+        "injector_pen",
+        "semaglutide",
+        "fda_label_update",
+        "boxed_warning"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "india_cdsco_20260703_fda_releases_november_2015_establishment_inspection_report_o",
+      "framework": "india_cdsco",
+      "category": "regulation_update",
+      "title": {
+        "en": "FDA Releases November 2015 Establishment Inspection Report on Implantable Device for Emotional Regulation and Behavior Modification",
+        "zh": "FDA发布2015年11月涉及情绪调节与行为修正植入器械的设施检查报告"
+      },
+      "summary": {
+        "en": "This item is an FDA Establishment Inspection Report (EIR) from a November 2015 inspection of a medical device facility, now publicly released. The report focuses on a device related to implantation, emotional regulation, behavior modification, or psychological influence. Regulatory professionals should review the document for compliance observations and potential implications for similar device classifications. No new enforcement action is indicated, but it offers historical insights into FDA inspection practices in this sensitive device area.",
+        "zh": "该事项为FDA近期公开的一份2015年11月对某医疗器械工厂的设施检查报告（EIR），涉及一款与植入、情绪调节、行为修正或心理影响相关的器械。报告未包含新的执法行动，但为业界了解FDA在该类敏感器械领域的检查尺度提供了历史参考。法规事务人员可审阅文件以获取合规观察项及对类似产品的潜在启示。"
+      },
+      "source_url": "https://www.fda.gov/media/186301/download",
+      "source_name": "FDA",
+      "published_date": "2026-07-03",
+      "detected_date": "2026-07-03T02:36:51Z",
+      "importance": "medium",
+      "tags": [
+        "establishment_inspection_report",
+        "implantable_device",
+        "emotional_regulation",
+        "behavior_modification",
+        "foia_release"
+      ],
+      "related_docs": [],
+      "status": "published"
+    }
+  ]
+}
