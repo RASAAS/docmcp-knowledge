@@ -1110,6 +1110,9 @@ class COFEPRISChecker:
                 if title in prev_titles:
                     continue
                 all_titles.append(title)
+                article_text = article.get_text(" ", strip=True)
+                if not self.DEVICE_KEYWORDS.search(article_text):
+                    continue
                 new_items.append({
                     "title": title,
                     "link": href or url,
@@ -1130,6 +1133,8 @@ class COFEPRISChecker:
                     if title in prev_titles:
                         continue
                     all_titles.append(title)
+                    if not self.DEVICE_KEYWORDS.search(title):
+                        continue
                     new_items.append({
                         "title": title,
                         "link": href,

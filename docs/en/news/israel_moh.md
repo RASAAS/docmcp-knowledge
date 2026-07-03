@@ -6,8 +6,38 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
-::: info Data Source Integration In Progress
-The official data source for Israel MOH is currently being integrated. The agency website uses dynamic rendering and cannot be automatically collected at this time.
+## Regulatory Framework
 
-Please visit the official website for the latest information: [Israel MOH Official Site](https://www.gov.il/en/departments/ministry_of_health/)
-:::
+**Regulatory Authority:** Ministry of Health (MOH), Division of Medical Devices and Accessories (AMAR)
+
+**Key Legislation:**
+- Pharmacists Ordinance [New Version] 1981
+- Medical Devices Order (Control and Supervision of Medical Devices) 2014
+- Standards Institution of Israel Law
+
+**Classification:** Israel recognizes CE-marked devices (EU MDR) and FDA-cleared/approved devices. No independent Israeli classification system -- relies on classifications from recognized reference authorities.
+
+**Registration Pathway:**
+1. Appoint a local Authorized Representative in Israel
+2. Submit Import License application to AMAR
+3. Reference authority route: devices with CE marking (EU) or FDA clearance/approval receive expedited review
+4. Non-reference authority route: full dossier review
+5. Manufacturing site GMP compliance verification
+
+**Key Requirements:**
+- Import License from AMAR required before marketing
+- Local Authorized Representative mandatory for foreign manufacturers
+- Recognition of CE marking (EU MDR) and FDA clearance/approval
+- Hebrew-language labeling required for retail products
+- Periodic renewal of Import License
+- Post-market surveillance and adverse event reporting (AMAR)
+- Mutual Recognition: Israel-EU MRA covers medical devices
+
+**Current Key Guidance:**
+- [AMAR Medical Devices Portal](https://www.gov.il/en/departments/units/medical-devices-and-accessories-unit)
+- [Import License Application](https://www.gov.il/en/service/import-license-medical-devices)
+- [Standards Institution of Israel](https://www.sii.org.il/en/)
+
+## Latest Updates
+
+No recent updates available. Please check back later.

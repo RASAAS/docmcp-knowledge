@@ -166,6 +166,33 @@ _CATEGORY_PROMPTS = {
         "(3) regulatory action taken, (4) impact on importers/manufacturers. "
         "importance: 'high' for device bans/recalls, 'medium' for notices."
     ),
+    "mexico_cofepris/safety": (
+        "This is a Mexico COFEPRIS medical device safety alert. "
+        "Input is in Spanish -- translate to English and Chinese. "
+        "The summary MUST cover: (1) device name and manufacturer, (2) safety issue or reason for alert, "
+        "(3) affected products/lots, (4) recommended actions for healthcare professionals. "
+        "importance: 'high' for recalls/suspensions, 'medium' for safety advisories."
+    ),
+    "argentina_anmat/safety": (
+        "This is an Argentina ANMAT medical device safety alert. "
+        "Input is in Spanish -- translate to English and Chinese. "
+        "The summary MUST cover: (1) device name and manufacturer, (2) safety issue or reason for alert, "
+        "(3) affected products/lots, (4) recommended actions. "
+        "importance: 'high' for product bans/recalls, 'medium' for safety advisories."
+    ),
+    "taiwan_tfda/safety": (
+        "This is a Taiwan TFDA medical device safety alert. "
+        "Input may be in Chinese (Traditional) -- translate to English and Simplified Chinese. "
+        "The summary MUST cover: (1) device name and manufacturer, (2) safety issue or defect, "
+        "(3) affected products/lots, (4) actions needed. "
+        "importance: 'high' for Class I recalls, 'medium' for Class II, 'low' for advisory."
+    ),
+    "newzealand_medsafe/safety": (
+        "This is a New Zealand Medsafe medical device safety communication. "
+        "The summary MUST cover: (1) device name and manufacturer, (2) safety issue, "
+        "(3) affected products, (4) recommended actions for users/providers. "
+        "importance: 'high' for recalls, 'medium' for safety advisories."
+    ),
 }
 
 

@@ -1,0 +1,11 @@
+{
+  "framework": "taiwan_tfda",
+  "agency": {
+    "en": "Taiwan Food and Drug Administration (TFDA)",
+    "zh": "台湾食品药物管理署（TFDA）"
+  },
+  "overview": {
+    "en": "## Regulatory Framework\n\n**Regulatory Authority:** Taiwan FDA (TFDA), under the Ministry of Health and Welfare\n\n**Key Legislation:**\n- Medical Devices Act (enacted 2021, replacing relevant sections of Pharmaceutical Affairs Act)\n- Medical Devices Management Regulations\n- Regulations for Registration of Medical Devices\n\n**Classification:** Risk-based, 3 classes:\n- Class I (low risk) | Class II (medium risk) | Class III (high risk)\n- Further divided into tiers based on specific product categories\n\n**Registration Pathway:**\n1. Class I: Listing notification (simplified)\n2. Class II/III: Full registration application with technical documentation\n3. Appoint a local authorized representative (for foreign manufacturers)\n4. Submit via TFDA online system with Chinese-language documentation\n5. GMP/QSD inspection may be required for manufacturing sites\n\n**Key Requirements:**\n- Medical Device License required before marketing\n- Local authorized agent mandatory for foreign manufacturers\n- QSD (Quality System Documentation) inspection for manufacturing facilities\n- Chinese-language labeling and IFU required\n- Clinical data may be required for Class III and novel devices\n- License validity: 5 years, renewable\n\n**Current Key Guidance:**\n- [TFDA Medical Devices Portal](https://www.fda.gov.tw/TC/site.aspx?sid=38)\n- [Medical Devices Act](https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=L0030106)\n- [Open Data - Safety Alerts](https://data.fda.gov.tw/)",
+    "zh": "## 法规框架\n\n**监管机构：** 台湾食品药物管理署（TFDA），隶属于卫生福利部\n\n**核心法规：**\n- 《医疗器材管理法》（2021年施行，取代《药事法》相关章节）\n- 《医疗器材管理办法》\n- 《医疗器材查验登记审查准则》\n\n**分类体系：** 基于风险的3级分类：\n- 第一等级（低风险）| 第二等级（中等风险）| 第三等级（高风险）\n- 依据具体产品类别进一步细分\n\n**注册路径：**\n1. 第一等级：登录（简化程序）\n2. 第二/三等级：提交完整注册申请及技术文档\n3. 指定当地授权代表（境外制造商必须）\n4. 通过 TFDA 线上系统提交中文文件\n5. 制造场所可能需要 GMP/QSD 检查\n\n**关键要求：**\n- 上市前须取得医疗器材许可证\n- 境外制造商须指定当地授权代理\n- 制造设施需要 QSD（品质系统文件）检查\n- 须提供中文标签和使用说明\n- 第三等级及新型器械可能需要临床数据\n- 许可证有效期：5年，可展延\n\n**当前有效指南：**\n- [TFDA 医疗器材专区](https://www.fda.gov.tw/TC/site.aspx?sid=38)\n- [医疗器材管理法](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0030106)\n- [开放数据 - 安全警示](https://data.fda.gov.tw/)"
+  }
+}

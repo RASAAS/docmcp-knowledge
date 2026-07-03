@@ -16,6 +16,7 @@ from pathlib import Path
 REPO_ROOT = Path(__file__).resolve().parent.parent
 NEWS_DIR = REPO_ROOT / "regulatory_news"
 DOCS_DIR = REPO_ROOT / "docs"
+OVERVIEWS_DIR = REPO_ROOT / "regulatory_overviews"
 
 FRAMEWORKS = [
     "eu_mdr", "fda", "nmpa",
@@ -92,6 +93,18 @@ def load_all_items() -> list[dict]:
     return all_items
 
 
+def load_overview(framework: str, lang: str) -> str:
+    """Load regulatory overview content for a framework if available."""
+    fp = OVERVIEWS_DIR / f"{framework}.json"
+    if not fp.exists():
+        return ""
+    try:
+        data = json.loads(fp.read_text(encoding="utf-8"))
+        return data.get("overview", {}).get(lang, "")
+    except Exception:
+        return ""
+
+
 def render_item_md(item: dict, lang: str) -> str:
     """Render a single news item as markdown."""
     title = item.get("title", {}).get(lang, item.get("title", {}).get("en", "Untitled"))
@@ -152,10 +165,21 @@ def generate_index_page(items: list[dict], lang: str, framework: str = "") -> st
         "",
     ]
 
+    overview_md = load_overview(framework, lang) if framework else ""
+    if overview_md:
+        lines.append(overview_md)
+        lines.append("")
+        news_header = "## 最新动态" if lang == "zh" else "## Latest Updates"
+        lines.append(news_header)
+        lines.append("")
+
     if not items:
         agency_url = AGENCY_URLS.get(framework, "")
         fw_name = FRAMEWORK_NAMES.get(framework, {}).get(lang, framework)
-        if framework and agency_url:
+        if overview_md:
+            no_news = "No recent updates available. Please check back later." if lang == "en" else "暂无最新动态，请稍后查看。"
+            lines.append(no_news)
+        elif framework and agency_url:
             if lang == "zh":
                 lines.append(f"::: info 数据源对接中")
                 lines.append(f"{fw_name} 的官方数据源正在对接中。该机构官方网站使用动态渲染技术，暂时无法通过自动化方式采集。")
