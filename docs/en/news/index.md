@@ -52,6 +52,78 @@ Japan’s PMDA has issued a Class II recall (No. 2-12872) for the CyberKnife Rad
 
 ---
 
+### SFDA Hosts Workshops on Medical Device Clinical Trials and Health Tech at GHE
+
+**2026-07-03** | Saudi SFDA | Regulation Update | !! MEDIUM
+
+The Saudi Food and Drug Authority (SFDA) organized two specialized workshops at the Global Health Exhibition (GHE) covering clinical trial requirements for medical devices and emerging healthcare technologies. The sessions targeted manufacturers, researchers, and healthcare professionals to enhance understanding of regulatory frameworks and encourage compliant innovation. Key discussions included trial design, ethical standards, and technology integration in the medical device sector.
+
+**Tags**: `clinical_trials`, `healthcare_technologies`, `sfda_workshop`, `medical_devices`, `regulatory_education`
+
+[View Source (FDA)](https://www.sfda.gov.sa/en/news/4883559)
+
+---
+
+### SFDA Signs MoU with AAMI to Enhance Medical Device Standards
+
+**2026-07-03** | Saudi SFDA | Regulation Update | !! MEDIUM
+
+On July 18, 2023, the Saudi Food and Drug Authority (SFDA) signed a Memorandum of Understanding with the Association for the Advancement of Medical Instrumentation (AAMI) to collaborate on medical device standards. The partnership aims to align Saudi requirements with international best practices, affecting manufacturers seeking market access. Companies should monitor for forthcoming standards updates and guidance from this cooperation to ensure ongoing compliance.
+
+**Tags**: `medical_device_standards`, `SFDA`, `AAMI`, `regulatory_cooperation`
+
+[View Source (FDA)](https://www.sfda.gov.sa/en/news/4348967)
+
+---
+
+### SFDA Strengthens Global Standing by Regulating Clinical Studies for Innovative Medical Devices and Supplies
+
+**2026-07-03** | Saudi SFDA | Regulation Update | !! MEDIUM
+
+The Saudi Food and Drug Authority (SFDA) is advancing its global regulatory position by organizing and overseeing clinical studies for innovative medical devices and supplies. This initiative aims to foster local clinical research, align with international best practices, and encourage medical device innovation within the Kingdom. Medical device manufacturers, clinical research organizations, and healthcare professionals involved in device trials will be directly affected as the authority reinforces its oversight framework.
+
+**Tags**: `clinical_studies`, `innovative_medical_devices`, `sfda`, `regulatory_oversight`
+
+[View Source (FDA)](https://www.sfda.gov.sa/ar/news/4129105)
+
+---
+
+### COFEPRIS Alert: Risk of Collecting and Consuming Wild Mushrooms
+
+**2026-07-03** | Mexico COFEPRIS | Safety Communication | !! MEDIUM
+
+COFEPRIS has issued a safety alert warning about the severe health risks of collecting and consuming wild mushrooms, including poisoning and death. The general public, especially those who forage in rural areas, are affected. The alert advises against consuming wild mushrooms unless identified by experts, and to only eat mushrooms from safe commercial sources. Immediate medical attention is urged if ingestion and symptoms occur.
+
+**Tags**: `cofepris`, `safety_alert`, `public_health`
+
+[View Source (Official Source)](https://www.gob.mx/cofepris/articulos/riesgo-de-recolectar-y-consumir-hongos-silvestres-429632)
+
+---
+
+### COFEPRIS Requests Stakeholders to Complete Satisfaction Survey on Sanitary Alerts Program
+
+**2026-07-03** | Mexico COFEPRIS | Safety Communication | ! LOW
+
+COFEPRIS has published a call for stakeholders to answer a satisfaction survey regarding its sanitary alerts program. This initiative aims to gather user feedback on the effectiveness and accessibility of safety communications. There are no new safety alerts or regulatory changes associated with this item; it is solely a feedback mechanism. Interested parties can access the survey via the provided link.
+
+**Tags**: `cofepris`, `satisfaction_survey`, `stakeholder_feedback`, `sanitary_alerts`
+
+[View Source (Official Source)](https://www.gob.mx/cofepris/acciones-y-programas/alertas-sanitarias-336947)
+
+---
+
+### COFEPRIS Alert: Users Instructed to Print the Entire Safety Alert Page
+
+**2026-07-03** | Mexico COFEPRIS | Safety Communication | ! LOW
+
+COFEPRIS has issued an alert titled 'Print the complete page' on its safety notices page. This appears to be a reminder to regulated entities, including medical device companies, that when retrieving safety alerts from the official website, they must print the entire page to ensure all critical information, including headers and disclaimers, is captured for their records. This may impact how companies document official communications for compliance purposes.
+
+**Tags**: `cofepris`, `safety_alert`, `record_keeping`, `documentation`
+
+[View Source (Official Source)](https://www.gob.mx#)
+
+---
+
 ### Borderline products: MHRA guidance on determining if your product is a medicine
 
 **2026-07-02** | UK MHRA | Regulation Update | !! MEDIUM
@@ -155,6 +227,18 @@ Health Canada has issued a safety alert for the NephroMax High Pressure Nephrost
 **Tags**: `recall`, `balloon_catheter`, `device_compatibility`, `safety_alert`, `health_canada`
 
 [View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/nephromax-high-pressure-nephrostomy-balloon-catheter)
+
+---
+
+### FSCA: B. Braun Infusomat Space P Single-Channel Infusion Pump (Model 8713070)
+
+**2026-07-02** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic has issued a Field Safety Corrective Action for the B. Braun Melsungen AG Infusomat Space P bedside infusion pump, model 8713070. The reason for the corrective action is not detailed in the brief notice, but it signals a potential safety issue requiring user attention. Healthcare facilities using this device should immediately consult the full FSCA on the Swissmedic portal and follow the manufacturer's recommended actions to mitigate any risk.
+
+**Tags**: `swissmedic`, `fsca`, `infusion_pump`, `safety`, `b_braun`, `field_safety_corrective_action`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260701_035)
 
 ---
 
@@ -374,6 +458,30 @@ The Korean Ministry of Food and Drug Safety (MFDS) published the 2019 Medical De
 
 ---
 
+### Swissmedic FSCA: Olympus Single Use Distal Cover (MAJ-2315) Patient Protection Cap
+
+**2026-07-01** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic has issued a Field Safety Corrective Action (FSCA) for the Olympus Single Use Distal Cover, a single-use endoscope patient protection cap. The affected model is MAJ-2315 and lot N6192000. While the specific reason for the corrective action was not detailed in the notification, users should immediately identify and quarantine affected products and follow Olympus' instructions to mitigate potential risks.
+
+**Tags**: `swissmedic`, `fsca`, `olympus`, `distal_cover`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260626_004)
+
+---
+
+### Swissmedic FSCA for SY-LAB IceCube Linear Rate Medical Freezers
+
+**2026-07-01** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has issued a Field Safety Corrective Action (FSCA) for SY-LAB IceCube medical freezers with linear rate control, affecting models 11XS MED, 14S MED, 14M MED, 17M MED, 17L MED and their non-MED variants. The specific safety reason was not published in the initial notice. Users in laboratories and healthcare settings should immediately review the full FSCA on the Swissmedic portal and follow the manufacturer's corrective measures.
+
+**Tags**: `swissmedic`, `fsca`, `medical_freezer`, `laboratory_equipment`, `safety_correction`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260624_027)
+
+---
+
 ### EC Publishes Delegated Acts on Well-Established Technologies Under EU MDR
 
 **2026-06-30** | EU MDR/IVDR | Regulation Update | !!! HIGH
@@ -434,6 +542,28 @@ The UK MHRA released a weekly list of six Field Safety Notices issued between 22
 
 ---
 
+### FSCA for Medline MEDSTOP Stopcock: New Language Added to Labeling
+
+**2026-06-30** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic published a field safety corrective action for the MEDSTOP stopcock manufactured by Medline Industries LP. The corrective action involves adding a new language to the device labeling to meet regulatory requirements. Affected models are identified by their Field Safety Notice (FSN). Distributors and healthcare facilities should ensure the updated labeling is used.
+
+**Tags**: `stopcock`, `labeling_update`, `field_safety_corrective_action`, `medline`, `swissmedic`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260625_032)
+
+---
+
+### 30 de junio de 2026ANMAT prohíbe un lote de un producto médico falsificado de la firma LINEDERM
+
+**2026-06-30** | Argentina ANMAT | Safety Communication | !! MEDIUM
+
+ANMAT Alert: 30 de junio de 2026ANMAT prohíbe un lote de un producto médico falsificado de la firma LINEDERM
+
+[View Source (Official Source)](https://www.argentina.gob.ar/noticias/anmat-prohibe-un-lote-de-un-producto-medico-falsificado-de-la-firma-linederm)
+
+---
+
 ### MHRA Issues Updated Guidance on Borderline Products: Medical Devices vs Other Products
 
 **2026-06-29** | UK MHRA | Regulation Update | !! MEDIUM
@@ -465,6 +595,18 @@ Health Canada has issued a safety recall/alert for specific Abiomed Introducer K
 HSA Speeches: Keynote Address by Adj Prof (Dr) Raymond Chua, Chief Executive Officer, Health Sciences Authority, on "Regulatory Innovation as a Catalyst for Global Medtech Growth" for Singapore Medical Device Ventu
 
 [View Source (HSA (Singapore))](https://www.hsa.gov.sg/announcements/keynote-address-by-adj-prof--dr--raymond-chua--chief-executive-officer--health-sciences-authority--on--regulatory-innovation-as-a-catalyst-for-global-medtech-growth--for-singapore-medical-device-venture-showcase/)
+
+---
+
+### SFDA NCMDR Weekly Safety Update WU2627 – Medical Device Field Safety Notices and Recalls
+
+**2026-06-28** | Saudi SFDA | Safety Communication | !! MEDIUM
+
+The Saudi Food and Drug Authority (SFDA) National Center for Medical Devices Reporting (NCMDR) published Weekly Update WU2627 on 28 June 2026, compiling new field safety corrective actions and recalls for medical devices. Healthcare facilities and distributors should review the listed devices and affected manufacturers to identify products requiring action and implement the recommended safety measures. The update covers multiple device categories and includes details on risk mitigation steps.
+
+**Tags**: `saudi_sfda`, `ncmdr`, `weekly_update`, `safety_notice`, `recall`
+
+[View Source (FDA)](https://www.sfda.gov.sa/sites/default/files/2026-06/%28WU2627%29%20NCMDR%20Weekly%20Update%2028%20June%202026.pdf)
 
 ---
 
@@ -634,6 +776,18 @@ Health Canada has issued an alert/recall for the Gyrus ACMI Classic Series Conti
 
 ---
 
+### SFDA NCMDR Weekly Update (WU2626) – Medical Device Safety Alerts and Adverse Event Reports
+
+**2026-06-21** | Saudi SFDA | Safety Communication | !! MEDIUM
+
+The Saudi Food and Drug Authority (SFDA) released Weekly Update WU2626 through the National Center for Medical Devices Reporting (NCMDR), detailing recent safety alerts, adverse event reports, and field safety corrective actions concerning medical devices in the Saudi market. Healthcare providers, importers, and manufacturers should review the listed devices and implement any recommended actions to ensure patient safety and regulatory compliance.
+
+**Tags**: `medical_devices`, `safety_alert`, `sfda`, `ncmdr`, `weekly_update`, `saudi_arabia`
+
+[View Source (FDA)](https://www.sfda.gov.sa/sites/default/files/2026-06/%28WU2626%29%20NCMDR%20Weekly%20Update%2021%20June%202026.pdf)
+
+---
+
 ### Commission Implementing Decision (EU) 2026/1231 -- Updated Harmonised Standards for MDR
 
 **2026-06-17** | EU MDR/IVDR | Regulation Update | !!! HIGH
@@ -667,6 +821,18 @@ The FDA announced a recall of Accuray's CyberKnife Treatment Delivery System equ
 **Tags**: `device_recall`, `radiation_oncology`, `collimator_failure`, `patient_safety`, `fda_recall`
 
 [View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=220764)
+
+---
+
+### FARADRIVE Steerable Sheath: Swissmedic FSCA for Added Language to Labeling
+
+**2026-06-16** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic issued a Field Safety Corrective Action for Boston Scientific's FARADRIVE Steerable Sheath, a single-use vascular guide-catheter. The reason is the addition of a new language to the product labeling, categorized as a correction. Affected models are referenced in the FSN; users should update and follow the revised instructions for use.
+
+**Tags**: `swissmedic`, `fsca`, `labeling_update`, `steerable_sheath`, `boston_scientific`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260611_006)
 
 ---
 
@@ -772,6 +938,18 @@ Alerta 5257 (Tecnovigilância) - Comunicado da empresa VR Medical Importadora e 
 
 ---
 
+### SFDA NCMDR Weekly Safety Update WU2625 – 14 June 2026
+
+**2026-06-14** | Saudi SFDA | Safety Communication | !! MEDIUM
+
+The Saudi Food and Drug Authority (SFDA) National Center for Medical Devices Reporting (NCMDR) has released Weekly Update WU2625 on 14 June 2026. This report contains recent adverse event notifications, field safety corrective actions, and recall notices for medical devices marketed in Saudi Arabia. Healthcare providers and device manufacturers should review the listed affected products and implement any required risk mitigation measures as specified in the update.
+
+**Tags**: `saudi_fda`, `ncmdr`, `medical_device_safety`, `weekly_report`, `recall_alert`
+
+[View Source (FDA)](https://www.sfda.gov.sa/sites/default/files/2026-06/%28WU2625%29%20NCMDR%20Weekly%20Update%2014%20June%202026%20%281%29.pdf)
+
+---
+
 ### Alerta 5256 (Tecnovigilância) - Comunicado da empresa Conmed do Brasil Comercio, Imp. e Exp. de Produtos Médicos Hospita
 
 **2026-06-12** | Brazil ANVISA | Safety Communication | !! MEDIUM
@@ -803,6 +981,18 @@ The UK MHRA has published the weekly list of Field Safety Notices (FSNs) for 1�
 **Tags**: `field_safety_notice`, `mhra`, `medical_devices`, `uk_regulation`, `safety_alert`
 
 [View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-1-5-june-2026)
+
+---
+
+### SFDA NCMDR Weekly Update WU2624 (07 June 2026) Issued
+
+**2026-06-07** | Saudi SFDA | Safety Communication | !! MEDIUM
+
+The Saudi Food and Drug Authority's National Center for Medical Devices Reporting (NCMDR) has published Weekly Update WU2624 on 07 June 2026. This report summarizes recent medical device safety alerts, listing affected products and manufacturers. Healthcare providers and stakeholders should review the update to identify any necessary corrective actions or field safety notices relevant to their facilities.
+
+**Tags**: `saudi_fda`, `ncmdr`, `weekly_update`, `safety_alert`
+
+[View Source (FDA)](https://www.sfda.gov.sa/sites/default/files/2026-06/%28WU2624%29%20NCMDR%20Weekly%20Update%2007%20June%202026.pdf)
 
 ---
 
@@ -852,6 +1042,66 @@ Published 1 June 2026, this announcement clarifies transitional procedures when 
 
 ---
 
+### Swissmedic FSCA: Armstrong Medical PEP Therapy APL Valve – Language Addition to Labeling
+
+**2026-05-28** | Swissmedic | Safety Communication | !! MEDIUM
+
+This Swissmedic Field Safety Corrective Action (FSCA) concerns the APL Valve used in Positive Expiratory Pressure (PEP) Therapy Devices from Armstrong Medical Limited. The reason for the correction is the addition of a new language to the device labeling, likely to meet local regulatory language requirements. Affected models are listed in the Field Safety Notice (FSN). No direct patient safety issue is involved; users should follow the updated labeling instructions.
+
+**Tags**: `swissmedic`, `fsca`, `medical_device`, `labeling_update`, `pep_therapy`, `armstrong_medical`, `apl_valve`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260526_032)
+
+---
+
+### Swissmedic FSCA: Armstrong Medical Adult Coaxial Breathing Systems APL Valve - Added Language to Labeling
+
+**2026-05-28** | Swissmedic | Safety Communication | !! MEDIUM
+
+This Swissmedic FSCA addresses Armstrong Medical Limited's Adult Coaxial Breathing Systems, specifically the APL valve. The corrective action adds a new language to the device labeling or instructions for use, ensuring compliance with Swiss official language requirements. Affected models are detailed in the related Field Safety Notice (FSN). Users should verify they have the updated labeling and follow the manufacturer's instructions.
+
+**Tags**: `swissmedic`, `fsca`, `breathing_system`, `armstrong_medical`, `labeling_update`, `apl_valve`, `language`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260526_032)
+
+---
+
+### Swissmedic FSCA: Armstrong Medical Resuscitation Sets (Mapleson Systems) – APL Valve Labeling Language Update
+
+**2026-05-28** | Swissmedic | Safety Communication | !! MEDIUM
+
+This Swissmedic field safety corrective action addresses Armstrong Medical Limited's Resuscitation Sets (Mapleson Systems) where the APL valve labeling required a new language addition. Affected models are listed in the Field Safety Notice (FSN). Users are advised to consult the FSN and ensure the updated labeling is integrated into the instructions for use. This is a documentation correction, not a safety defect.
+
+**Tags**: `swissmedic`, `fsca`, `labeling_correction`, `resuscitation_set`, `armstrong_medical`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260526_032)
+
+---
+
+### Swissmedic FSCA: Paediatric Ayres T‑Piece Systems – APL Valve Label Updated with New Language
+
+**2026-05-28** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has issued a Field Safety Corrective Action (FSCA) for Armstrong Medical Limited's Paediatric Ayres T‑Piece Systems (Resuscitation Set) affecting the APL Valve. The corrective action involves adding a new language to the device labelling to ensure proper use. Affected models are detailed in the Field Safety Notice (FSN); users should review the updated instructions and share the notice with relevant personnel.
+
+**Tags**: `swissmedic`, `fsca`, `medical_device`, `labeling_correction`, `pediatric_resuscitation`, `apl_valve`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260526_032)
+
+---
+
+### SFDA NCMDR Weekly Safety Update WU2622 (24 May 2026) Released
+
+**2026-05-24** | Saudi SFDA | Safety Communication | !! MEDIUM
+
+The Saudi Food and Drug Authority's National Center for Medical Devices Reporting (NCMDR) has published Weekly Update WU2622, dated 24 May 2026. This report compiles recent field safety notices, recalls, and adverse event reports affecting medical devices registered in the Kingdom. Manufacturers, authorized representatives, and healthcare providers should review the listed alerts to identify any devices within their inventory and implement required corrective actions promptly.
+
+**Tags**: `sfda`, `ncmdr`, `weekly_safety_update`, `field_safety_notice`, `medical_device_recall`
+
+[View Source (FDA)](https://www.sfda.gov.sa/sites/default/files/2026-05/%28WU2622%29%20NCMDR%20Weekly%20Update%2024%20May%202026.pdf)
+
+---
+
 ### GN-02-R8 Annex 1 Declaration for dealing with MD that are solely for export or re-export purposes
 
 **2026-04-01** | Singapore HSA | Regulation Update | !! MEDIUM
@@ -859,6 +1109,18 @@ Published 1 June 2026, this announcement clarifies transitional procedures when 
 HSA medical device guidance update: GN-02-R8 Annex 1 Declaration for dealing with MD that are solely for export or re-export purposes (2026 Apr)
 
 [View Source (Official Source)](https://go.gov.sg/gn02r8)
+
+---
+
+### Swissmedic FSCA: Sphere-9 Catheter – Updated Field Safety Notice (Medtronic/BIOTRONIK)
+
+**2026-03-30** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic issued a Field Safety Corrective Action for the Sphere-9 Catheter (Model AFR-00001), manufactured by Medtronic, Inc. and BIOTRONIK SE & Co. KG. The reason is a new version of the Field Safety Notice (FSN) for this cardiac tissue ablation device. Affected users should review the updated FSN and implement any revised instructions.
+
+**Tags**: `fsca`, `cardiac_ablation_catheter`, `field_safety_notice`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260318_029)
 
 ---
 
