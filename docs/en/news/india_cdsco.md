@@ -2,7 +2,7 @@
 title: Regulatory News
 ---
 
-# Japan PMDA Regulatory News
+# India CDSCO Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 

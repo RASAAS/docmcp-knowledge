@@ -233,43 +233,50 @@ SOURCES = {
     },
     "australia_tga": {
         "market_actions_rss": {
-            "name": "TGA Market Actions (Official RSS)",
-            "url": "https://tga.gov.au/feeds/alert/market-actions.xml",
+            "name": "TGA Market Actions / Recalls (RSS)",
+            "url": "https://www.tga.gov.au/feeds/alert/market-actions.xml",
             "check_type": "tga_rss",
             "category": "australia_tga/safety",
-            "note": "TGA official RSS for recalls, product alerts, product corrections.",
+            "title_filter": r"(?i)(medical\s+device|device|monitor|pump|catheter|implant|stent|pacemaker|defibrillator|ventilator|glucose|insulin|infusion|surgical|diagnostic|endoscope|prosth|ortho|dental|imaging|MRI|CT\s+scan|ultrasound|IV\s+set|blood|steril|recall|product\s+correction|product\s+alert)",
+            "note": "Official TGA RSS feed for market actions including medical device recalls.",
         },
         "safety_alerts_rss": {
-            "name": "TGA Safety Alerts (Official RSS)",
-            "url": "https://tga.gov.au/feeds/alert/safety-alerts.xml",
+            "name": "TGA Safety Alerts (RSS)",
+            "url": "https://www.tga.gov.au/feeds/alert/safety-alerts.xml",
             "check_type": "tga_rss",
             "category": "australia_tga/safety",
-            "note": "TGA official RSS for medical device safety alerts.",
+            "title_filter": r"(?i)(medical\s+device|device|implant|surgical|monitor|pump|prosth|ventilator|glucose|blood|recall|product\s+correction|product\s+alert|safety\s+alert|market\s+action)",
+            "note": "Official TGA RSS feed for safety alerts.",
         },
-        "safety_search": {
-            "name": "TGA Medical Device Safety (Search Fallback)",
-            "url": "https://www.tga.gov.au/safety/safety-monitoring-and-information",
-            "check_type": "google_search",
-            "google_query": "site:tga.gov.au medical device recall alert safety 2026",
-            "category": "australia_tga/safety",
-            "date_restrict": "m3",
-            "skip_domain_filter": True,
-            "exclude_domains": ["fda.gov", "accessdata.fda.gov", "federalregister.gov"],
-            "note": "Fallback: TGA safety via Vertex AI Search when RSS unreachable.",
+        "news_rss": {
+            "name": "TGA News (RSS)",
+            "url": "https://www.tga.gov.au/feeds/article/news.xml",
+            "check_type": "tga_rss",
+            "category": "australia_tga/regulations",
+            "title_filter": r"(?i)(medical\s+device|device|UDI|SaMD|software\s+as|IVD|in\s+vitro|essential\s+principles|classification|implant|clinical\s+evidence|regulation|conformity\s+assessment|artg|post-?market|sponsor|TGA\s+guidance|therapeutic\s+goods)",
+            "note": "Official TGA RSS feed for news articles, filtered for device-related regulatory news.",
         },
         "regulations_search": {
             "name": "TGA Medical Device Regulatory Updates (Search)",
             "url": "https://www.tga.gov.au/products/medical-devices",
             "check_type": "google_search",
-            "google_query": "site:tga.gov.au medical device regulation guidance classification 2026",
+            "google_query": "TGA Australia medical device regulation guidance UDI essential principles classification 2026",
             "category": "australia_tga/regulations",
             "date_restrict": "m6",
             "skip_domain_filter": True,
             "exclude_domains": ["fda.gov", "accessdata.fda.gov", "federalregister.gov"],
-            "note": "TGA regulatory updates via Vertex AI Search.",
+            "note": "TGA regulatory updates via search (fallback for RSS).",
         },
     },
     "japan_pmda": {
+        "whats_new_en": {
+            "name": "PMDA What's New (English) -- Medical Devices & Regulatory",
+            "url": "https://www.pmda.go.jp/english/0006.html",
+            "check_type": "pmda_whatsnew",
+            "category": "japan_pmda/regulations",
+            "title_filter": r"(?i)(medical\s+device|device\s+review|device\s+standard|device\s+approval|approved\s+medical\s+device|SaMD|software\s+as\s+a\s+medical|IVD|in\s+vitro|QMS|GCTP|GMP|IMDRF|cybersecurity|recall\s+class|UDI|guidance|guide|standard|regulation|regulatory|MHLW.*device|medical\s+safety\s+information|safety\s+information\s+no|AI\s+utiliz|program.*medical|classification|clinical\s+trial.*device|post-?market|pre-?market)",
+            "note": "Primary: PMDA English What's New page, broader filter for device-related updates including regulatory, guidance, and standards.",
+        },
         "recalls_class1": {
             "name": "PMDA Medical Device Recalls Class I (Japanese)",
             "url": "https://www.info.pmda.go.jp/kaisyuu/rcidx{yy}-1k.html",
@@ -287,27 +294,6 @@ SOURCES = {
             "recall_class": "II",
             "dynamic_year": True,
             "note": "PMDA Class II medical device recalls.",
-        },
-        "safety_info_en": {
-            "name": "PMDA Medical Safety Information (English)",
-            "url": "https://www.pmda.go.jp/english/safety/info-services/safety-information/0001.html",
-            "check_type": "pmda_page",
-            "category": "japan_pmda/safety",
-            "note": "PMDA medical safety information bulletins (English translations).",
-        },
-        "device_precautions": {
-            "name": "PMDA Revisions of PRECAUTIONS - Medical Devices (English)",
-            "url": "https://www.pmda.go.jp/english/safety/info-services/devices/0002.html",
-            "check_type": "pmda_page",
-            "category": "japan_pmda/regulations",
-            "note": "MHLW-issued revisions of PRECAUTIONS for medical devices.",
-        },
-        "device_alerts": {
-            "name": "PMDA Alert for Proper Use of Medical Devices (English)",
-            "url": "https://www.pmda.go.jp/english/safety/info-services/devices/0005.html",
-            "check_type": "pmda_page",
-            "category": "japan_pmda/safety",
-            "note": "PMDA alerts for proper use of medical devices.",
         },
     },
     "korea_mfds": {
@@ -366,12 +352,12 @@ SOURCES = {
     },
     "brazil_anvisa": {
         "tecnovigilance": {
-            "name": "ANVISA Tecnovigilance Alerts (via Search)",
+            "name": "ANVISA Medical Device Safety Alerts (via Search)",
             "url": "https://antigo.anvisa.gov.br/alertas",
             "check_type": "google_search",
-            "google_query": "site:anvisa.gov.br tecnovigilancia alerta produto saude dispositivo medico",
+            "google_query": "ANVISA Brazil medical device recall alert safety tecnovigilance 2026",
             "category": "brazil_anvisa/safety",
-            "date_restrict": "m3",
+            "date_restrict": "m6",
             "skip_domain_filter": True,
             "note": "ANVISA medical device tecnovigilance alerts via search (direct 403).",
         },
@@ -379,7 +365,7 @@ SOURCES = {
             "name": "ANVISA Medical Device Regulations (via Search)",
             "url": "https://www.gov.br/anvisa/pt-br/assuntos/produtos-para-a-saude",
             "check_type": "google_search",
-            "google_query": "site:gov.br/anvisa dispositivo medico regulamento RDC produto saude 2026",
+            "google_query": "ANVISA Brazil medical device regulation RDC guidance GMP certification 2026",
             "category": "brazil_anvisa/regulations",
             "date_restrict": "m6",
             "skip_domain_filter": True,
@@ -409,9 +395,9 @@ SOURCES = {
             "name": "HSA Medical Device Safety (via Search)",
             "url": "https://www.hsa.gov.sg/medical-devices",
             "check_type": "google_search",
-            "google_query": "site:hsa.gov.sg medical device recall FSCA safety alert",
+            "google_query": "Singapore HSA medical device recall FSCA safety alert corrective action 2026",
             "category": "singapore_hsa/safety",
-            "date_restrict": "m3",
+            "date_restrict": "m6",
             "skip_domain_filter": True,
             "note": "HSA medical device safety via search (direct 403).",
         },
@@ -419,7 +405,7 @@ SOURCES = {
             "name": "HSA Medical Device Regulatory Updates (via Search)",
             "url": "https://www.hsa.gov.sg/medical-devices/guidance-documents/",
             "check_type": "google_search",
-            "google_query": "site:hsa.gov.sg medical device guidance regulation registration",
+            "google_query": "Singapore HSA medical device guidance regulation registration GN class 2026",
             "category": "singapore_hsa/regulations",
             "date_restrict": "m6",
             "skip_domain_filter": True,
@@ -1999,6 +1985,130 @@ class CanadaRecallsChecker:
 # Parses PMDA English safety/regulatory pages and Japanese recall lists.
 # ---------------------------------------------------------------------------
 
+class PMDAWhatsNewChecker:
+    """Checks PMDA English 'What's New' page for device-related updates.
+
+    This page (https://www.pmda.go.jp/english/0006.html) lists all recent
+    PMDA updates with category tags (Review, Safety, Other, Events, Int, JP).
+    Content is filtered by title_filter regex to extract device-related items only.
+    """
+
+    def __init__(self, session: requests.Session, state: dict,
+                 seed_mode: bool = False):
+        self.session = session
+        self.state = state
+        self.seed_mode = seed_mode
+
+    def check(self, source_id: str, source: dict) -> Optional[dict]:
+        url = source["url"]
+        prev = self.state.get(source_id, {})
+        prev_ids = set(prev.get("seen_ids", []))
+        title_filter = source.get("title_filter")
+
+        try:
+            resp = self.session.get(url, timeout=30)
+            resp.raise_for_status()
+        except Exception as e:
+            print(f"    ERROR PMDA What's New: {e}")
+            return None
+
+        entries = self._parse_whatsnew(resp.text)
+        if not entries:
+            print("    WARNING: No entries from PMDA What's New page")
+            return None
+
+        print(f"    INFO: Parsed {len(entries)} entries from PMDA What's New")
+
+        new_items = []
+        all_ids = list(prev_ids)
+
+        for entry in entries:
+            eid = entry.get("link") or entry.get("title", "")
+            if not eid or eid in prev_ids:
+                continue
+            title = entry.get("title", "")
+            if title_filter and not re.search(title_filter, title, re.IGNORECASE):
+                all_ids.append(eid)
+                continue
+            all_ids.append(eid)
+            new_items.append(entry)
+
+        self.state[source_id] = {
+            "url": url,
+            "last_checked": datetime.now().isoformat(),
+            "seen_ids": all_ids[-500:],
+        }
+
+        if new_items and (prev_ids or self.seed_mode):
+            if self.seed_mode and not prev_ids:
+                new_items = new_items[:10]
+                print(f"    INFO: Seed mode -- returning top {len(new_items)} PMDA What's New entries")
+            result = _make_update(
+                source_id, source, "pmda_whatsnew",
+                f"{len(new_items)} new PMDA device update(s) detected"
+            )
+            result["new_items"] = new_items
+            return result
+        elif not prev_ids:
+            print(f"    INFO: Baseline established ({len(entries)} PMDA What's New entries)")
+
+        return None
+
+    @staticmethod
+    def _parse_whatsnew(html: str) -> list[dict]:
+        """Parse PMDA What's New page -- list items with date, category, and title."""
+        _TAG_RE = re.compile(
+            r"^(?:(?:January|February|March|April|May|June|July|August|"
+            r"September|October|November|December)\s+\d{1,2},?\s*\d{4})"
+            r"\s*"
+            r"(?:Review|Safety|Other|Events|Int|JP|Devices?|Drug|Regen\.?|IVD|CDx)*"
+            r"\s*(?:New)?\s*",
+            re.IGNORECASE,
+        )
+        results = []
+        try:
+            from bs4 import BeautifulSoup
+            soup = BeautifulSoup(html, "html.parser")
+            for li in soup.find_all("li"):
+                text = li.get_text(" ", strip=True)
+                dm = re.search(
+                    r"((?:January|February|March|April|May|June|July|August|"
+                    r"September|October|November|December)\s+\d{1,2},?\s*\d{4})",
+                    text,
+                )
+                if not dm:
+                    continue
+                date_str = dm.group(1)
+                a_tag = li.find("a")
+                if a_tag and a_tag.get("href"):
+                    title = a_tag.get_text(strip=True)
+                    href = a_tag["href"]
+                    if not href.startswith("http"):
+                        href = "https://www.pmda.go.jp" + href
+                else:
+                    remainder = text[dm.end():].strip()
+                    remainder = re.sub(
+                        r"^(?:Review|Safety|Other|Events|Int|JP|Devices?|Drug|Regen\.?|IVD|CDx)\s*",
+                        "", remainder,
+                    ).strip()
+                    remainder = re.sub(r"^New\s*", "", remainder).strip()
+                    title = remainder
+                    href = ""
+                if not title or len(title) < 10:
+                    continue
+                title = re.sub(r"\s*\[\d+\s*KB\]", "", title).strip()
+                title = _TAG_RE.sub("", title).strip()
+                results.append({
+                    "title": title,
+                    "link": href,
+                    "pub_date": date_str,
+                    "description": "",
+                })
+        except ImportError:
+            pass
+        return results[:50]
+
+
 class PMDAChecker:
     """Checks PMDA (Japan) English pages for medical device safety & regulatory updates.
 
@@ -2221,6 +2331,17 @@ class PMDARecallsChecker:
                 generic_name = cells[3].get_text(strip=True)
                 product_name = cells[4].get_text(strip=True)
                 manufacturer = cells[5].get_text(strip=True) if len(cells) > 5 else ""
+                detail_link = ""
+                a_tag = cells[0].find("a")
+                if a_tag and a_tag.get("href"):
+                    href = a_tag["href"]
+                    if not href.startswith("http"):
+                        href = "https://www.info.pmda.go.jp" + href
+                    detail_link = href
+                if not detail_link:
+                    yy = str(datetime.now().year % 100).zfill(2)
+                    cls_suffix = "1k" if recall_class == "I" else "2k"
+                    detail_link = f"https://www.info.pmda.go.jp/kaisyuu/rcidx{yy}-{cls_suffix}.html"
                 dm = re.search(r"(\d{4})/(\d{1,2})/(\d{1,2})", pub_date_raw)
                 pub_date = f"{dm.group(1)}-{dm.group(2).zfill(2)}-{dm.group(3).zfill(2)}" if dm else ""
                 title = f"[Class {recall_class}] {product_name} ({generic_name})"
@@ -2229,7 +2350,7 @@ class PMDARecallsChecker:
                 results.append({
                     "id": recall_num,
                     "title": title,
-                    "link": "",
+                    "link": detail_link,
                     "pub_date": pub_date,
                     "description": f"Recall #{recall_num}: {generic_name} / {product_name} by {manufacturer}. Type: {device_type}.",
                 })
@@ -2702,6 +2823,7 @@ class UpdateChecker:
         self.cdrh_news = CDRHNewsChecker(session, self.state)
         self.atom_feed = AtomFeedChecker(session, self.state, seed_mode)
         self.canada_recalls = CanadaRecallsChecker(session, self.state, seed_mode)
+        self.pmda_whatsnew = PMDAWhatsNewChecker(session, self.state, seed_mode)
         self.pmda = PMDAChecker(session, self.state, seed_mode)
         self.pmda_recalls = PMDARecallsChecker(session, self.state, seed_mode)
         self.mfds = MFDSChecker(session, self.state, seed_mode)
@@ -2775,6 +2897,8 @@ class UpdateChecker:
             return self.atom_feed.check(source_id, source)
         elif check_type == "canada_recalls":
             return self.canada_recalls.check(source_id, source)
+        elif check_type == "pmda_whatsnew":
+            return self.pmda_whatsnew.check(source_id, source)
         elif check_type == "pmda_page":
             return self.pmda.check(source_id, source)
         elif check_type == "pmda_recalls":
