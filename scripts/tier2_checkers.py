@@ -3,7 +3,8 @@
 Covers: Switzerland (Swissmedic), Saudi Arabia (SFDA), Brazil (ANVISA),
         Singapore (HSA), India (CDSCO).
 
-Also includes TGA RSS checker (fix for Phase 3a Australia TGA).
+Also includes TGA RSS checker (fix for Phase 3a Australia TGA)
+and HSA multi-source checkers (guidance docs + announcements).
 """
 
 import csv
@@ -719,6 +720,347 @@ class MedsafeChecker:
                     "link": link,
                     "pub_date": pub_date,
                     "description": f"Medsafe {comm_type} - Product: {prod_type}",
+                })
+        except ImportError:
+            pass
+        return results
+
+
+# ---------------------------------------------------------------------------
+# HSA Guidance Documents Checker (Singapore)
+# Parses hsa.gov.sg/medical-devices/guidance-documents/ for updated GN/GL docs.
+# ---------------------------------------------------------------------------
+
+class HSAGuidanceChecker:
+    """Checks HSA guidance documents page for newly updated regulatory guidance.
+
+    The page lists all medical device GN/GL documents with revision numbers
+    and dates. We track which GN identifiers we have seen and detect when
+    a document is updated (new revision or new date in parentheses).
+    """
+
+    GUIDANCE_URL = "https://www.hsa.gov.sg/medical-devices/guidance-documents/"
+
+    def __init__(self, session: requests.Session, state: dict,
+                 seed_mode: bool = False):
+        self.session = session
+        self.state = state
+        self.seed_mode = seed_mode
+
+    def check(self, source_id: str, source: dict) -> Optional[dict]:
+        url = source.get("url") or self.GUIDANCE_URL
+        prev = self.state.get(source_id, {})
+        prev_ids = set(prev.get("seen_ids", []))
+
+        try:
+            resp = self.session.get(url, timeout=30, headers={
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                              "AppleWebKit/537.36 Chrome/130.0 Safari/537.36",
+            })
+            resp.raise_for_status()
+        except Exception as e:
+            print(f"    ERROR HSA Guidance: {e}")
+            return None
+
+        entries = self._parse_guidance_page(resp.text)
+        if not entries:
+            print("    WARNING: No entries from HSA guidance documents page")
+            return None
+
+        print(f"    INFO: Parsed {len(entries)} guidance documents from HSA")
+
+        max_age_days = source.get("max_age_days", 365)
+        age_cutoff = ""
+        if max_age_days > 0:
+            age_cutoff = (datetime.now() - timedelta(days=max_age_days)).strftime("%Y-%m-%d")
+
+        new_items = []
+        all_ids = list(prev_ids)
+
+        for entry in entries:
+            eid = entry.get("id") or entry.get("title", "")
+            if not eid or eid in prev_ids:
+                continue
+            all_ids.append(eid)
+            if age_cutoff and entry.get("pub_date", "") and entry["pub_date"] < age_cutoff:
+                continue
+            new_items.append(entry)
+
+        self.state[source_id] = {
+            "url": url,
+            "last_checked": datetime.now().isoformat(),
+            "seen_ids": all_ids[-500:],
+        }
+
+        if new_items and (prev_ids or self.seed_mode):
+            if self.seed_mode and not prev_ids:
+                new_items = new_items[:10]
+                print(f"    INFO: Seed mode -- returning top {len(new_items)} HSA guidance entries")
+            result = _make_update(
+                source_id, source, "hsa_guidance",
+                f"{len(new_items)} updated HSA guidance document(s) detected"
+            )
+            result["new_items"] = new_items
+            return result
+        elif not prev_ids:
+            print(f"    INFO: Baseline established ({len(entries)} HSA guidance docs)")
+
+        return None
+
+    @staticmethod
+    def _parse_guidance_page(html: str) -> list[dict]:
+        """Extract guidance documents with GN/GL identifiers and dates.
+
+        Looks for patterns like:
+        - GN-15-R13 Guidance on Medical Device Product Registration (2026 Mar)
+        - GL-04-R4 Regulatory Guidelines for Software Medical Devices (2025 Dec)
+        """
+        results = []
+
+        MONTH_MAP = {
+            "jan": "01", "feb": "02", "mar": "03", "apr": "04",
+            "may": "05", "jun": "06", "jul": "07", "aug": "08",
+            "sep": "09", "oct": "10", "nov": "11", "dec": "12",
+            "january": "01", "february": "02", "march": "03", "april": "04",
+            "june": "06", "july": "07", "august": "08",
+            "september": "09", "october": "10", "november": "11", "december": "12",
+        }
+
+        gn_pattern = re.compile(
+            r"((?:GN|GL|TR)-[\d]+-?[A-Za-z]*\d*)\s+(.*?)\s*\((\d{4})\s+([A-Za-z]+)\)",
+            re.IGNORECASE,
+        )
+
+        try:
+            from bs4 import BeautifulSoup
+            soup = BeautifulSoup(html, "html.parser")
+            text_content = soup.get_text()
+            seen_ids = set()
+            for m in gn_pattern.finditer(text_content):
+                doc_id = m.group(1).upper()
+                title = m.group(2).strip().rstrip(" -")
+                year = m.group(3)
+                month_str = m.group(4).lower()
+                month = MONTH_MAP.get(month_str, "01")
+                pub_date = f"{year}-{month}-01"
+
+                uid = f"{doc_id}_{year}_{month}"
+                if uid in seen_ids:
+                    continue
+                seen_ids.add(uid)
+
+                if "[ARCHIVED" in title.upper():
+                    continue
+
+                a_tag = None
+                for a in soup.find_all("a", href=True):
+                    if doc_id.replace("-", "") in a.get_text().replace("-", "").replace(" ", ""):
+                        a_tag = a
+                        break
+
+                link = ""
+                if a_tag:
+                    href = a_tag.get("href", "")
+                    if href.startswith("http"):
+                        link = href
+                    elif href.startswith("/"):
+                        link = "https://www.hsa.gov.sg" + href
+
+                if not link:
+                    link = "https://www.hsa.gov.sg/medical-devices/guidance-documents/"
+
+                results.append({
+                    "id": uid,
+                    "title": f"{doc_id} {title}".strip(),
+                    "link": link,
+                    "pub_date": pub_date,
+                    "description": f"HSA medical device guidance update: {doc_id} {title} ({year} {m.group(4)})",
+                })
+        except ImportError:
+            for m in gn_pattern.finditer(html):
+                doc_id = m.group(1).upper()
+                title = m.group(2).strip().rstrip(" -")
+                year = m.group(3)
+                month_str = m.group(4).lower()
+                month = MONTH_MAP.get(month_str, "01")
+                pub_date = f"{year}-{month}-01"
+                uid = f"{doc_id}_{year}_{month}"
+                if "ARCHIVED" in title.upper():
+                    continue
+                results.append({
+                    "id": uid,
+                    "title": f"{doc_id} {title}".strip(),
+                    "link": "https://www.hsa.gov.sg/medical-devices/guidance-documents/",
+                    "pub_date": pub_date,
+                    "description": f"HSA guidance update: {doc_id} {title} ({year} {m.group(4)})",
+                })
+        return results
+
+
+# ---------------------------------------------------------------------------
+# HSA Announcements Checker (Singapore)
+# Parses hsa.gov.sg/announcements for medical-device-related entries.
+# ---------------------------------------------------------------------------
+
+class HSAAnnouncementsChecker:
+    """Checks HSA announcements page for medical device related news.
+
+    Parses the announcements listing page and filters for entries
+    tagged with 'Medical Devices' product type or containing device keywords.
+    """
+
+    ANNOUNCEMENTS_URL = "https://www.hsa.gov.sg/announcements"
+
+    DEVICE_KEYWORDS = re.compile(
+        r"(?i)(medical\s+device|medtech|FSCA|field\s+safety|recall.*device|"
+        r"device.*recall|UDI|SaMD|software.*device|IVD|in\s+vitro|"
+        r"device.*registration|device.*classification|device.*safety|"
+        r"device.*guidance|medical\s+device\s+dealer|GDPMDS|"
+        r"venture\s+showcase|medtech\s+growth)"
+    )
+
+    EXCLUDE_KEYWORDS = re.compile(
+        r"(?i)(blood\s+donor|vaporiser|tobacco|cosmetic|health\s+supplement|"
+        r"traditional\s+medicine|homeopathic|therapeutic\s+product\s+registration|"
+        r"pharmaceutical|drug\s+registration)"
+    )
+
+    def __init__(self, session: requests.Session, state: dict,
+                 seed_mode: bool = False):
+        self.session = session
+        self.state = state
+        self.seed_mode = seed_mode
+
+    def check(self, source_id: str, source: dict) -> Optional[dict]:
+        url = source.get("url") or self.ANNOUNCEMENTS_URL
+        prev = self.state.get(source_id, {})
+        prev_ids = set(prev.get("seen_ids", []))
+
+        try:
+            resp = self.session.get(url, timeout=30, headers={
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                              "AppleWebKit/537.36 Chrome/130.0 Safari/537.36",
+            })
+            resp.raise_for_status()
+        except Exception as e:
+            print(f"    ERROR HSA Announcements: {e}")
+            return None
+
+        entries = self._parse_announcements(resp.text)
+        if not entries:
+            print("    WARNING: No device-related entries from HSA announcements")
+            return None
+
+        print(f"    INFO: Parsed {len(entries)} device-related announcements from HSA")
+
+        max_age_days = source.get("max_age_days", 180)
+        age_cutoff = ""
+        if max_age_days > 0:
+            age_cutoff = (datetime.now() - timedelta(days=max_age_days)).strftime("%Y-%m-%d")
+
+        new_items = []
+        all_ids = list(prev_ids)
+
+        for entry in entries:
+            eid = entry.get("link") or entry.get("title", "")
+            if not eid or eid in prev_ids:
+                continue
+            all_ids.append(eid)
+            if age_cutoff and entry.get("pub_date", "") and entry["pub_date"] < age_cutoff:
+                continue
+            new_items.append(entry)
+
+        self.state[source_id] = {
+            "url": url,
+            "last_checked": datetime.now().isoformat(),
+            "seen_ids": all_ids[-500:],
+        }
+
+        if new_items and (prev_ids or self.seed_mode):
+            if self.seed_mode and not prev_ids:
+                new_items = new_items[:10]
+                print(f"    INFO: Seed mode -- returning top {len(new_items)} HSA announcement entries")
+            result = _make_update(
+                source_id, source, "hsa_announcements",
+                f"{len(new_items)} new HSA medical device announcement(s) detected"
+            )
+            result["new_items"] = new_items
+            return result
+        elif not prev_ids:
+            print(f"    INFO: Baseline established ({len(entries)} HSA announcements)")
+
+        return None
+
+    def _parse_announcements(self, html: str) -> list[dict]:
+        """Parse announcements page, filter for medical-device-related entries.
+
+        HSA announcement structure: <a href="/announcements/..."><div><h3>Title</h3>
+        ...date...categories...</div></a>.  The link is on the grandparent <a>.
+        """
+        results = []
+        MONTH_MAP = {
+            "january": "01", "february": "02", "march": "03", "april": "04",
+            "may": "05", "june": "06", "july": "07", "august": "08",
+            "september": "09", "october": "10", "november": "11", "december": "12",
+        }
+
+        try:
+            from bs4 import BeautifulSoup
+            soup = BeautifulSoup(html, "html.parser")
+
+            for a_tag in soup.find_all("a", href=True):
+                h3 = a_tag.find("h3")
+                if not h3:
+                    continue
+                title = h3.get_text(strip=True)
+                if not title:
+                    continue
+
+                block_text = a_tag.get_text(" ", strip=True)
+
+                is_device = (
+                    "Medical Devices" in block_text
+                    or self.DEVICE_KEYWORDS.search(title)
+                )
+                if not is_device:
+                    continue
+                if self.EXCLUDE_KEYWORDS.search(title):
+                    continue
+                if "Therapeutic Products" in block_text and "Medical Devices" not in block_text:
+                    continue
+
+                href = a_tag.get("href", "")
+                link = ""
+                if href.startswith("http"):
+                    link = href
+                elif href.startswith("/"):
+                    link = "https://www.hsa.gov.sg" + href
+
+                dm = re.search(
+                    r"(\d{1,2})\s+(January|February|March|April|May|June|July|August|"
+                    r"September|October|November|December)\s+(\d{4})",
+                    block_text,
+                )
+                pub_date = ""
+                if dm:
+                    day = dm.group(1).zfill(2)
+                    month = MONTH_MAP.get(dm.group(2).lower(), "01")
+                    year = dm.group(3)
+                    pub_date = f"{year}-{month}-{day}"
+
+                cat_parts = []
+                for kw in ("Product Recalls", "Regulatory Updates",
+                           "Dear Healthcare Professional Letter",
+                           "Press Releases", "Public Consultations", "Speeches"):
+                    if kw in block_text:
+                        cat_parts.append(kw)
+                cat_str = ", ".join(cat_parts) if cat_parts else "Announcement"
+
+                results.append({
+                    "title": title,
+                    "link": link or "https://www.hsa.gov.sg/announcements",
+                    "pub_date": pub_date,
+                    "description": f"HSA {cat_str}: {title[:200]}",
                 })
         except ImportError:
             pass

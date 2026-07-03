@@ -406,25 +406,41 @@ SOURCES = {
         },
     },
     "singapore_hsa": {
-        "device_safety": {
-            "name": "HSA Medical Device Safety (via Search)",
-            "url": "https://www.hsa.gov.sg/medical-devices",
+        "device_safety_oscar": {
+            "name": "HSA OSCAR FSCA (via Search)",
+            "url": "https://oscar.hsa.gov.sg/Publication/ahpdm/faces/FSCAPublication.jspx",
             "check_type": "google_search",
-            "google_query": "Singapore HSA medical device recall FSCA safety alert corrective action 2026",
+            "google_query": "site:oscar.hsa.gov.sg FSCA medical device 2026 OR 2025",
             "category": "singapore_hsa/safety",
             "date_restrict": "m6",
             "skip_domain_filter": True,
-            "note": "HSA medical device safety via search (direct 403).",
+            "note": "HSA OSCAR FSCA database via Google index (direct access 403).",
         },
-        "regulations": {
-            "name": "HSA Medical Device Regulatory Updates (via Search)",
-            "url": "https://www.hsa.gov.sg/medical-devices/guidance-documents/",
+        "device_safety_dhcpl": {
+            "name": "HSA DHCPL & Recalls (via Search)",
+            "url": "https://www.hsa.gov.sg/announcements",
             "check_type": "google_search",
-            "google_query": "Singapore HSA medical device guidance regulation registration GN class 2026",
-            "category": "singapore_hsa/regulations",
+            "google_query": "site:hsa.gov.sg (recall OR \"dear healthcare professional\" OR \"field safety\") medical device 2026 OR 2025",
+            "category": "singapore_hsa/safety",
             "date_restrict": "m6",
             "skip_domain_filter": True,
-            "note": "HSA medical device regulatory guidance via search.",
+            "note": "HSA Dear Healthcare Professional Letters and recall announcements.",
+        },
+        "guidance_documents": {
+            "name": "HSA Medical Device Guidance Documents",
+            "url": "https://www.hsa.gov.sg/medical-devices/guidance-documents/",
+            "check_type": "hsa_guidance",
+            "category": "singapore_hsa/regulations",
+            "max_age_days": 365,
+            "note": "Direct parsing of HSA guidance documents page for GN/GL updates.",
+        },
+        "announcements": {
+            "name": "HSA Medical Device Announcements",
+            "url": "https://www.hsa.gov.sg/announcements",
+            "check_type": "hsa_announcements",
+            "category": "singapore_hsa/regulations",
+            "max_age_days": 180,
+            "note": "Direct parsing of HSA announcements page, filtered for medical device content.",
         },
     },
     "india_cdsco": {
@@ -2965,12 +2981,15 @@ class UpdateChecker:
         self.generic_page = GenericPageChecker(session, self.state)
         # Tier 2 checkers (Phase 3b)
         from tier2_checkers import (TGARSSChecker, SwissmedicChecker, SFDAChecker,
-                                    ANVISAChecker, MedsafeChecker)
+                                    ANVISAChecker, MedsafeChecker,
+                                    HSAGuidanceChecker, HSAAnnouncementsChecker)
         self.tga_rss = TGARSSChecker(session, self.state, seed_mode)
         self.swissmedic = SwissmedicChecker(session, self.state, seed_mode)
         self.sfda = SFDAChecker(session, self.state, seed_mode)
         self.anvisa = ANVISAChecker(session, self.state, seed_mode)
         self.medsafe = MedsafeChecker(session, self.state, seed_mode)
+        self.hsa_guidance = HSAGuidanceChecker(session, self.state, seed_mode)
+        self.hsa_announcements = HSAAnnouncementsChecker(session, self.state, seed_mode)
         self.llm = LLMVersionAnalyzer(LLM_API_KEY, LLM_BASE_URL, LLM_MODEL)
         if self.vertex.available:
             print("INFO: Using Vertex AI Search (searchLite) for web queries.")
@@ -3055,6 +3074,10 @@ class UpdateChecker:
             return self.anvisa.check(source_id, source)
         elif check_type == "medsafe_page":
             return self.medsafe.check(source_id, source)
+        elif check_type == "hsa_guidance":
+            return self.hsa_guidance.check(source_id, source)
+        elif check_type == "hsa_announcements":
+            return self.hsa_announcements.check(source_id, source)
         elif check_type == "generic_page":
             return self.generic_page.check(source_id, source)
         elif check_type == "eurlex_amendment":
