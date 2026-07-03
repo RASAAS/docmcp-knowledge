@@ -6,6 +6,18 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### MHRA发布边界产品指南：判断产品是否属于药品
+
+**2026-07-02** | UK MHRA | 法规更新 | !! MEDIUM
+
+MHRA发布详细指南，阐明其如何判断产品是否属于药品，尤其是那些可能同时属于医疗器械、化妆品、食品补充剂或生物杀灭剂的边界产品。该指南对需要正确分类产品以遵守英国法规的制造商和供应商至关重要，分类错误可能导致执法行动。指南列出了基于产品展示和功能的决策标准，并提供实例，帮助利益相关方确定正确的监管路径。企业应审阅本指南，确保其产品分类正确并符合所有适用的安全和性能要求。
+
+**标签**: `borderline_products`, `medicine_classification`, `mhra_guidance`, `regulatory_compliance`, `medical_devices`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/guidance/borderline-products-how-to-tell-if-your-product-is-a-medicine)
+
+---
+
 ### 英国MHRA发布2026年6月22日至26日现场安全通知汇编
 
 **2026-06-30** | UK MHRA | 安全通报 | !! MEDIUM

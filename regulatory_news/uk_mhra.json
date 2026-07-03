@@ -1,7 +1,34 @@
 {
   "framework": "uk_mhra",
-  "last_updated": "2026-07-01T13:09:48Z",
+  "last_updated": "2026-07-03T05:34:27Z",
   "items": [
+    {
+      "id": "uk_mhra_20260703_mhra_guidance_on_borderline_products_how_to_tell_if_your_pro",
+      "framework": "uk_mhra",
+      "category": "regulation_update",
+      "title": {
+        "en": "MHRA Guidance on Borderline Products: How to Tell if Your Product is a Medicine",
+        "zh": "MHRA发布边界产品指南：判断产品是否属于药品"
+      },
+      "summary": {
+        "en": "The MHRA has published detailed guidance explaining how it determines whether a product is a medicinal product, especially for borderline cases that could also be medical devices, cosmetics, food supplements, or biocides. This guidance is crucial for manufacturers and suppliers who must correctly classify their products to comply with UK regulations, as misclassification can lead to enforcement action. It outlines the decision-making criteria based on a product's presentation and function, with practical examples to help stakeholders identify the correct regulatory route. Companies should review the guidance to ensure their products are properly classified and meet all applicable safety and performance requirements.",
+        "zh": "MHRA发布详细指南，阐明其如何判断产品是否属于药品，尤其是那些可能同时属于医疗器械、化妆品、食品补充剂或生物杀灭剂的边界产品。该指南对需要正确分类产品以遵守英国法规的制造商和供应商至关重要，分类错误可能导致执法行动。指南列出了基于产品展示和功能的决策标准，并提供实例，帮助利益相关方确定正确的监管路径。企业应审阅本指南，确保其产品分类正确并符合所有适用的安全和性能要求。"
+      },
+      "source_url": "https://www.gov.uk/guidance/borderline-products-how-to-tell-if-your-product-is-a-medicine",
+      "source_name": "MHRA (UK)",
+      "published_date": "2026-07-02",
+      "detected_date": "2026-07-03T05:34:27Z",
+      "importance": "medium",
+      "tags": [
+        "borderline_products",
+        "medicine_classification",
+        "mhra_guidance",
+        "regulatory_compliance",
+        "medical_devices"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
     {
       "id": "uk_mhra_20260701_uk_mhra_publishes_field_safety_notices_for_22_26_june_2026",
       "framework": "uk_mhra",
