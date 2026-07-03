@@ -1,1 +1,273 @@
-{"items": []}
+{
+  "items": [
+    {
+      "id": "israel_moh_20260703_fda_class_i_recall_philips_respironics_trilogy_evo_ventilato",
+      "framework": "israel_moh",
+      "category": "safety_communication",
+      "title": {
+        "en": "FDA Class I Recall: Philips Respironics Trilogy Evo Ventilator – Software Update Pending",
+        "zh": "FDA I级召回：飞利浦伟康Trilogy Evo呼吸机软件缺陷，待更新"
+      },
+      "summary": {
+        "en": "The U.S. FDA has classified a recall of Philips Respironics Trilogy Evo ventilators as Class I, the most serious type, due to a software error that could lead to serious injury or death. A software update to correct the issue is currently pending; an updated Urgent Field Safety Notice was mailed on March 2, 2026, providing recall instructions for affected devices. Healthcare providers and patients should immediately consult the notice and ensure implementation of the pending software update when available.",
+        "zh": "美国FDA将飞利浦伟康Trilogy Evo呼吸机的召回列为I级（最严重），原因是软件错误可能导致严重伤害或死亡。目前软件更新待发布；2026年3月2日已邮寄更新的紧急现场安全通知，包含受影响设备的召回信息。医疗机构和患者应立即查阅该通知，并在可用时实施软件更新。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=219025",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-03",
+      "detected_date": "2026-07-03T08:03:37Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "philips_respironics",
+        "trilogy_evo",
+        "software_defect"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "israel_moh_20260703_fda_class_2_recall_cardiosave_rescue_nvram_preventive_mainte",
+      "framework": "israel_moh",
+      "category": "safety_communication",
+      "title": {
+        "en": "FDA Class 2 Recall: Cardiosave Rescue – NVRAM Preventive Maintenance Addendum Update",
+        "zh": "FDA II类召回：Cardiosave Rescue - NVRAM预防性维护增补更新"
+      },
+      "summary": {
+        "en": "The FDA issued a Class 2 recall for the Cardiosave Rescue device on December 11, 2025, due to a new field safety corrective action (FSCA) requiring preventive maintenance for the NVRAM component. The notification includes four addendum updates, with the NVRAM preventive maintenance being a newly identified corrective action. Consignees must review and implement the updated maintenance procedures to ensure continued device safety and performance.",
+        "zh": "美国FDA于2025年12月11日对Cardiosave Rescue设备发布II类召回，涉及一项针对NVRAM组件的全新现场安全纠正措施（FSCA），要求执行预防性维护。该通知包含四项增补更新，其中NVRAM预防性维护为此次新增的纠正内容。所有收货人必须查阅并执行更新后的维护程序，以保障设备的安全有效运行。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=217393",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-03",
+      "detected_date": "2026-07-03T08:03:57Z",
+      "importance": "medium",
+      "tags": [
+        "class_2_recall",
+        "cardiosave_rescue",
+        "nvm_preventive_maintenance",
+        "fda",
+        "fsca"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "israel_moh_20260703_fda_search_databases_for_medical_device_enforcement_warning",
+      "framework": "israel_moh",
+      "category": "safety_communication",
+      "title": {
+        "en": "FDA Search Databases for Medical Device Enforcement: Warning Letters and Compliance Tools",
+        "zh": "FDA医疗器械执法搜查数据库：警告信与合规工具"
+      },
+      "summary": {
+        "en": "This FDA resource details public databases that industry can use to identify enforcement actions, primarily Warning Letters, issued against medical device companies for violations of federal law. It is relevant for manufacturers, importers, and other stakeholders who need to monitor compliance and public health risks. Users should regularly search these databases to stay informed of regulatory actions and facilitate prompt corrective responses to any Warning Letters received.",
+        "zh": "该FDA资源详细介绍了可用于查询医疗器械执法行动的公共数据库，主要是因违反联邦法律而发出的警告信。这适用于需要监控合规和公共健康风险的制造商、进口商等利益相关方。用户应定期检索这些数据库，以及时了解监管行动，并对收到的警告信迅速作出纠正。"
+      },
+      "source_url": "https://www.fda.gov/industry/fda-basics-industry/search-databases",
+      "source_name": "FDA",
+      "published_date": "2026-07-03",
+      "detected_date": "2026-07-03T08:04:16Z",
+      "importance": "low",
+      "tags": [
+        "fda",
+        "warning_letters",
+        "medical_devices"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "israel_moh_20260703_class_i_recall_dexcom_g7_cgm_app_version_0_fails_to_generate",
+      "framework": "israel_moh",
+      "category": "safety_communication",
+      "title": {
+        "en": "Class I Recall: Dexcom G7 CGM App (Version ≤0) Fails to Generate Critical 'Sensor Failed' Alert",
+        "zh": "一级召回：Dexcom G7 CGM应用（版本≤0）无法发出“传感器故障”警报"
+      },
+      "summary": {
+        "en": "The FDA has issued a Class I recall for the Dexcom G7 Continuous Glucose Monitoring App (versions 0 and earlier) because it does not provide the expected 'Sensor Failed' alert when the transmitter stops communicating with the sensor. This missing alert may delay detection of a non-functioning sensor, potentially leading to incorrect insulin dosing decisions and serious health consequences. Affected users must immediately update to a corrected app version or contact Dexcom for instructions.",
+        "zh": "美国FDA已将Dexcom G7连续血糖监测应用（版本0及更早）列为一级召回，因该应用在发射器与传感器通信中断时未发出预期的“传感器故障”警报。此缺陷可能导致传感器失效未被及时察觉，进而引起胰岛素剂量决策错误及严重健康风险。受影响用户须立即更新至已修复版本或联系Dexcom获取指导。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=215005",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-03",
+      "detected_date": "2026-07-03T08:04:29Z",
+      "importance": "high",
+      "tags": [
+        "class_1_recall",
+        "dexcom_g7",
+        "continuous_glucose_monitor",
+        "software_failure",
+        "alert_malfunction"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "israel_moh_20260703_fda_class_2_recall_ge_healthcare_device_recall_z_1112_2026_o",
+      "framework": "israel_moh",
+      "category": "safety_communication",
+      "title": {
+        "en": "FDA Class 2 Recall: GE Healthcare Device, Recall Z-1112-2026, Open Status",
+        "zh": "FDA II类召回：GE Healthcare设备，召回编号Z-1112-2026，状态开放"
+      },
+      "summary": {
+        "en": "The U.S. FDA posted a Class 2 device recall notice for a GE Healthcare product, initiated by the firm on December 24, 2025, and classified on January 16, 2026. The recall (Z-1112-2026, Event 9826923) remains open, affecting healthcare facilities using the recalled device. Affected parties should follow the manufacturer's recall instructions to mitigate potential risks.",
+        "zh": "美国FDA发布了一项针对GE Healthcare产品的II类设备召回通知，该召回由企业于2025年12月24日启动，2026年1月16日分类发布。召回（编号Z-1112-2026，事件9826923）目前仍处于开放状态，涉及使用该设备的医疗机构。受影响方应遵循制造商的召回说明以降低潜在风险。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=218084",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-03",
+      "detected_date": "2026-07-03T08:04:44Z",
+      "importance": "medium",
+      "tags": [
+        "device_recall",
+        "class_2",
+        "ge_healthcare",
+        "fda",
+        "recall_open"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "israel_moh_20260703_class_i_recall_of_phasitron_5_inline_valve_recall_number_z_0",
+      "framework": "israel_moh",
+      "category": "safety_communication",
+      "title": {
+        "en": "Class I Recall of Phasitron 5 InLine Valve (Recall Number Z-0031-2026)",
+        "zh": "Phasitron 5 直列阀 I 级召回（召回编号 Z-0031-2026）"
+      },
+      "summary": {
+        "en": "The U.S. FDA has classified the recall of the Phasitron 5 InLine Valve as Class I, the most serious type, indicating a reasonable probability of serious adverse health consequences or death. The firm initiated the recall on September 17, 2025, and the status remains open. Healthcare facilities using this device should immediately stop use, quarantine affected units, and follow the manufacturer's instructions for return or corrective action.",
+        "zh": "美国FDA已将Phasitron 5直列阀的召回行动列为最严重的I级召回，表明使用该产品可能导致严重健康危害或死亡。生产企业于2025年9月17日启动召回，目前状态仍为开放。使用该器械的医疗机构应立即停用、隔离受影响产品，并按照制造商指示进行退回或采取纠正措施。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=215428",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-03",
+      "detected_date": "2026-07-03T08:04:58Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "medical_device",
+        "valve",
+        "recall",
+        "fda_alert"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "israel_moh_20260703_urgent_field_safety_corrective_action_for_femtouch_delivery",
+      "framework": "israel_moh",
+      "category": "safety_communication",
+      "title": {
+        "en": "Urgent Field Safety Corrective Action for FemTouch Delivery System: Class 2 Recall with Disassembly Tool Kit",
+        "zh": "FemTouch输送系统二级召回：紧急现场安全纠正措施及拆卸工具包"
+      },
+      "summary": {
+        "en": "The FDA issued a Class 2 device recall for the FemTouch delivery system (Lumenis Ltd.) following an urgent field safety corrective action. On September 25, 2016, consignees were notified and provided with a disassembly tool kit to mitigate a safety issue related to device disassembly. Affected users must follow the enclosed instructions immediately to ensure safe operation and prevent potential harm.",
+        "zh": "美国FDA对Lumenis公司的FemTouch输送系统发布二级召回（Z-0009-2017），属于紧急现场安全纠正措施。2016年9月25日，收货方收到通知及拆卸工具包，以解决设备拆卸相关的安全问题。使用该产品的医疗机构须立即按照随附说明进行正确拆卸，以避免潜在风险。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=150176",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-03",
+      "detected_date": "2026-07-03T08:05:22Z",
+      "importance": "high",
+      "tags": [
+        "recall",
+        "fda_class_2",
+        "femtouch",
+        "field_safety_corrective_action",
+        "gynecological_laser",
+        "disassembly_tool_kit"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "israel_moh_20260703_class_2_device_recall_sierra_scientific_motility_visualizati",
+      "framework": "israel_moh",
+      "category": "safety_communication",
+      "title": {
+        "en": "Class 2 Device Recall: Sierra Scientific Motility Visualization System",
+        "zh": "二级医疗器械召回：Sierra Scientific 运动可视化系统"
+      },
+      "summary": {
+        "en": "The U.S. FDA posted a Class II recall for the Sierra Scientific Motility Visualization System, a device used in gastrointestinal motility testing. The recall, initiated on October 28, 2011, addresses a potential performance issue that could affect clinical use. Healthcare facilities should identify affected units, contact the manufacturer for corrective actions, and report any adverse events.",
+        "zh": "美国FDA发布了Sierra Scientific运动可视化系统的二级召回，该系统用于胃肠动力检测。召回于2011年10月28日启动，旨在解决一项可能影响临床使用的性能问题。医疗机构应识别受影响的设备，联系制造商采取纠正措施，并报告任何不良事件。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=104678",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-03",
+      "detected_date": "2026-07-03T08:05:44Z",
+      "importance": "medium",
+      "tags": [
+        "device_recall",
+        "class_ii",
+        "gastroenterology",
+        "safety_alert",
+        "sierra_scientific"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "israel_moh_20260703_class_2_device_recall_freestyle_comfort_oxygen_concentrator",
+      "framework": "israel_moh",
+      "category": "safety_communication",
+      "title": {
+        "en": "Class 2 Device Recall: FreeStyle Comfort Oxygen Concentrator – DME Distributor Notification (Oct 2024)",
+        "zh": "二级召回：FreeStyle Comfort 制氧机（2024年10月通知DME经销商）"
+      },
+      "summary": {
+        "en": "The FDA posted a Class 2 recall notice for the FreeStyle Comfort Oxygen Concentrator on November 15, 2024. The recalling firm notified its direct DME distributors via email on October 4, 2024, with instructions for corrective actions. Distributors must follow the recall letter to address potential safety issues associated with the device.",
+        "zh": "FDA 于 2024 年 11 月 15 日发布了 FreeStyle Comfort 制氧机的二级召回通知。召回企业已于 2024 年 10 月 4 日通过电子邮件将其‘销售给’的耐用医疗设备（DME）经销商，要求按照信件指示采取纠正措施。经销商需遵循召回通知处理该设备相关的潜在安全问题。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=210663",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-03",
+      "detected_date": "2026-07-03T08:06:03Z",
+      "importance": "medium",
+      "tags": [
+        "class_2_recall",
+        "oxygen_concentrator",
+        "freestyle_comfort",
+        "dme_distributors",
+        "safety_alert"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "israel_moh_20260703_class_1_device_recall_maquet_critical_care_ab_getinge_servo",
+      "framework": "israel_moh",
+      "category": "safety_communication",
+      "title": {
+        "en": "Class 1 Device Recall: Maquet Critical Care AB/Getinge Servo-u Ventilator",
+        "zh": "一级召回：Maquet/Getinge Servo-u呼吸机"
+      },
+      "summary": {
+        "en": "The FDA has classified a recall of Maquet Critical Care AB/Getinge Servo-u ventilators as Class 1, the most serious type. This action addresses a defect that may cause the ventilator to stop functioning unexpectedly, potentially leading to serious patient injury or death. All affected devices should be immediately removed from use and healthcare providers must contact Getinge for a corrective software update or replacement.",
+        "zh": "美国FDA已将Maquet Critical Care AB/Getinge生产的Servo-u呼吸机召回列为一级召回（最严重级别）。此次召回针对设备可能意外停止工作的缺陷，可能导致严重患者伤害或死亡。所有受影响设备应立即停用，医护人员需联系Getinge获取纠正性软件更新或更换。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=194852",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-03",
+      "detected_date": "2026-07-03T08:06:21Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "ventilator",
+        "getinge",
+        "maquet",
+        "safety_alert"
+      ],
+      "related_docs": [],
+      "status": "published"
+    }
+  ],
+  "last_updated": "2026-07-03T08:06:55Z"
+}

@@ -6,6 +6,100 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### 加拿大卫生部警示：Aisys、Avance和Aespire麻醉机性能问题
+
+**2026-07-02** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部发布安全警示，涉及GE医疗生产的Aisys、Avance和Aespire麻醉机的性能问题。此次召回针对可能影响设备正常运行的潜在故障。医疗机构应立即识别受影响设备，联系制造商采取纠正措施，并在问题解决前确保临床应急计划到位。
+
+**标签**: `medical_device_recall`, `anesthesia_machine`, `performance_issue`, `health_canada`, `safety_alert`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/aisys-avance-and-aespire-anesthesia-machines)
+
+---
+
+### 加拿大卫生部发布RAPIDLab® 348EX系统性能警报
+
+**2026-07-02** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部针对RAPIDLab® 348EX血气分析系统发布安全警报，原因是性能问题可能导致检测结果不准确。使用该设备的实验室和医疗机构应按照制造商说明立即验证系统性能。该警报包含纠正措施以降低患者风险并确保合规。
+
+**标签**: `medical_device_recall`, `performance_issue`, `blood_gas_analyzer`, `health_canada`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/rapidlabr-348ex-system)
+
+---
+
+### 因性能问题召回AirSeal入路端口（带钝头闭孔器和光学闭孔器）
+
+**2026-07-02** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部发布了AirSeal入路端口（含钝头闭孔器与光学闭孔器型号）的医疗器械召回通知。召回原因为性能问题，可能影响腹腔镜手术中器械的正常功能。医疗机构应立即识别并隔离受影响产品，按照制造商指示进行退货或处置。此警报旨在预防因该缺陷入路端口可能导致的患者伤害。
+
+**标签**: `medical_device_recall`, `laparoscopic_access_port`, `performance_issue`, `health_canada`, `safety_alert`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/airseal-access-port-blunt-obturator-and-airseal-access-port-optical-obturator)
+
+---
+
+### 加拿大卫生部因性能问题召回Glidesheath Slender®导引鞘
+
+**2026-07-02** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已对Terumo公司制造的Glidesheath Slender®导引鞘发布召回通知，原因是性能缺陷。该产品在使用中可能出现分离或扭结，可能导致血管损伤、持续出血或止血延迟。需立即识别、隔离受影响批次，并联系制造商退回更换。
+
+**标签**: `medical_device_recall`, `introducer_sheath`, `performance_defect`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/glidesheath-slenderr-introducer-sheath)
+
+---
+
+### WASPLab召回：性能问题可能影响样本处理 – 加拿大卫生部警示
+
+**2026-07-02** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已就WASPLab自动化微生物系统发布召回警示，原因是性能问题可能导致标本处理错误或结果不准确。使用受影响设备的医疗机构应立即检查系统性能并遵循制造商指示。该召回旨在防止可能的误诊或结果延迟。建议用户联系制造商采取纠正措施。
+
+**标签**: `medical_device_recall`, `performance_issue`, `microbiology_automation`, `canada_health_alert`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/wasplab)
+
+---
+
+### LIFECODES LSA Class II
+
+**2026-07-02** | Health Canada | 安全通报 | !! MEDIUM
+
+Performance
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/lifecodes-lsa-class-ii)
+
+---
+
+### 加拿大卫生部因瓶裂问题召回氟[18F]脱氧葡萄糖注射液
+
+**2026-07-02** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部因发现氟[18F]脱氧葡萄糖注射液存在瓶裂问题而发布召回，该缺陷可能导致产品无菌性受损，增加感染风险。此放射性药物用于PET成像，受影响的医疗机构应立即停用并退回相关批次产品。若在无菌性未保证的情况下使用，可能对患者造成伤害。批次和分销详情请查阅加拿大卫生部召回页面。
+
+**标签**: `recall`, `radiopharmaceutical`, `product_quality`, `cracked_vial`, `health_canada`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/fludeoxyglucose-18f-injection-cracket-vial)
+
+---
+
+### 加拿大卫生部安全警报：NephroMax高压肾造瘘球囊导管设备兼容性问题
+
+**2026-07-02** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部发布了NephroMax高压肾造瘘球囊导管的安全警报，原因是设备兼容性问题。该召回影响所有使用该导管进行肾造瘘手术的医疗机构。建议用户检查与导丝及其他配件的兼容性，并报告任何不良事件。制造商正在提供更新的使用说明。
+
+**标签**: `recall`, `balloon_catheter`, `device_compatibility`, `safety_alert`, `health_canada`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/nephromax-high-pressure-nephrostomy-balloon-catheter)
+
+---
+
 ### 加拿大卫生部警示：Abiomed Impella心脏泵导入套件存在性能问题
 
 **2026-06-29** | Health Canada | 安全通报 | !!! HIGH

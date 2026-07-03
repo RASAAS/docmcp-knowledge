@@ -1,7 +1,28 @@
 {
   "framework": "brazil_anvisa",
-  "last_updated": "2026-07-03T14:00:10Z",
+  "last_updated": "2026-07-03T08:06:55Z",
   "items": [
+    {
+      "id": "brazil_anvisa_20260703_mdsap_audit_approach_document_no_fda",
+      "framework": "brazil_anvisa",
+      "category": "regulation_update",
+      "title": {
+        "en": "MDSAP AUDIT APPROACH Document No - FDA",
+        "zh": "MDSAP AUDIT APPROACH Document No - FDA"
+      },
+      "summary": {
+        "en": "Aug 6, 2024 ... Sch3), Brazilian Good Manufacturing Practices (RDC ANVISA 665/2022), Canadian Medical Devices Regulations, Japan. Ordinance on Standards for ...",
+        "zh": "Aug 6, 2024 ... Sch3), Brazilian Good Manufacturing Practices (RDC ANVISA 665/2022), Canadian Medical Devices Regulations, Japan. Ordinance on Standards for ..."
+      },
+      "source_url": "https://www.fda.gov/media/166672/download",
+      "source_name": "FDA",
+      "published_date": "2026-07-03",
+      "detected_date": "2026-07-03T07:59:18Z",
+      "importance": "medium",
+      "tags": [],
+      "related_docs": [],
+      "status": "published"
+    },
     {
       "id": "brazil_anvisa_20260703_alerta_5265_tecnovigil_ncia_comunicado_da_empresa_zimmer_bio",
       "framework": "brazil_anvisa",

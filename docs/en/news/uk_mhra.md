@@ -6,6 +6,18 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### Borderline products: MHRA guidance on determining if your product is a medicine
+
+**2026-07-02** | UK MHRA | Regulation Update | !! MEDIUM
+
+The MHRA guidance outlines the decision-making process for classifying products as medicinal products (medicines) versus medical devices or other categories. It covers essential criteria such as product presentation, pharmacological action, and intended purpose. Manufacturers of potentially borderline products should review this guide to ensure proper classification and comply with UK regulatory requirements, avoiding misclassification risks.
+
+**Tags**: `borderline_products`, `medicine_classification`, `mhra_guidance`, `product_classification`, `medical_device_regulation`
+
+[View Source (MHRA (UK))](https://www.gov.uk/guidance/borderline-products-how-to-tell-if-your-product-is-a-medicine)
+
+---
+
 ### UK MHRA Publishes Field Safety Notices for 22–26 June 2026
 
 **2026-06-30** | UK MHRA | Safety Communication | !! MEDIUM

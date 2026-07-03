@@ -1,1 +1,60 @@
-{"items": []}
+{
+  "items": [
+    {
+      "id": "hongkong_mdco_20260703_fda_publishes_2018_log_of_coumadin_safety_alerts_decision_an",
+      "framework": "hongkong_mdco",
+      "category": "safety_communication",
+      "title": {
+        "en": "FDA Publishes 2018 Log of Coumadin Safety Alerts, Decision Analyses, and Medical Device Reporting Regulations",
+        "zh": "FDA发布2018年香豆素安全警报、决策分析及医疗器械报告法规日志"
+      },
+      "summary": {
+        "en": "The FDA has released a downloadable file containing its 2018 log of safety alerts and decision analyses related to Coumadin (warfarin), along with historical Federal Medical Device Reporting regulations covering January 1, 1983 to April 11, 1996. This compilation includes FDA policies and safety communications that may affect healthcare professionals managing anticoagulation therapy and medical device manufacturers navigating legacy reporting requirements. Regulatory affairs specialists should review the log for relevant safety updates and historical context for compliance programs.",
+        "zh": "美国FDA发布了一份可下载文件，内含2018年与香豆素（华法林）相关的安全警报及决策分析日志，并涵盖1983年1月1日至1996年4月11日期间的联邦医疗器械报告法规历史。该汇编包括FDA政策与安全通报，可能影响管理抗凝治疗的医护人员及了解既往报告要求变化的医疗器械制造商。法规事务专员应查阅此日志，以获取相关安全更新及合规计划的背景信息。"
+      },
+      "source_url": "https://www.fda.gov/media/184919/download",
+      "source_name": "FDA",
+      "published_date": "2026-07-03",
+      "detected_date": "2026-07-03T08:06:38Z",
+      "importance": "medium",
+      "tags": [
+        "coumadin",
+        "safety_alert",
+        "fda_log",
+        "medical_device_reporting",
+        "warfarin",
+        "regulation_history"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "hongkong_mdco_20260703_fda_releases_fy2016_foia_log_including_medical_device_recall",
+      "framework": "hongkong_mdco",
+      "category": "safety_communication",
+      "title": {
+        "en": "FDA Releases FY2016 FOIA Log Including Medical Device Recall Data and Monteris Medical Request",
+        "zh": "FDA 发布包含医疗器械召回数据的2016财年FOIA日志"
+      },
+      "summary": {
+        "en": "The U.S. FDA has published its Freedom of Information Act (FOIA) log for fiscal year 2016, which documents requests for medical device recall notices, safety alerts, and specific entries such as a closed request concerning Monteris Medical. This release offers transparency into public inquiries about device recalls and can be used by regulatory professionals to monitor historical request patterns. No immediate compliance action is required, but manufacturers and vigilance specialists may consult the log for trend analysis and reference.",
+        "zh": "美国FDA发布了2016财年《信息自由法》（FOIA）日志，其中记录了有关医疗器械召回通知、安全警报的请求，以及涉及Monteris Medical公司的已结案请求等具体条目。该日志为公众了解器械召回相关查询提供了透明度，监管专业人士可借此追踪历史请求模式。无需立即采取合规行动，但制造商和警戒专员可查阅该日志进行趋势分析和参考。"
+      },
+      "source_url": "https://www.fda.gov/media/184916/download",
+      "source_name": "FDA",
+      "published_date": "2026-07-03",
+      "detected_date": "2026-07-03T08:06:55Z",
+      "importance": "low",
+      "tags": [
+        "fda_foia",
+        "recall_data",
+        "medical_device",
+        "transparency",
+        "monteris_medical"
+      ],
+      "related_docs": [],
+      "status": "published"
+    }
+  ],
+  "last_updated": "2026-07-03T08:06:55Z"
+}

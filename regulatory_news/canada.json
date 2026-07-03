@@ -1,7 +1,213 @@
 {
   "framework": "canada",
-  "last_updated": "2026-07-01T13:09:48Z",
+  "last_updated": "2026-07-03T08:06:55Z",
   "items": [
+    {
+      "id": "canada_20260703_health_canada_alert_performance_issue_with_aisys_avance_and",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Alert: Performance Issue with Aisys, Avance, and Aespire Anesthesia Machines",
+        "zh": "加拿大卫生部警示：Aisys、Avance和Aespire麻醉机性能问题"
+      },
+      "summary": {
+        "en": "Health Canada has issued a safety alert regarding a performance issue affecting GE Healthcare's Aisys, Avance, and Aespire anesthesia machines. The recall addresses a potential malfunction that could compromise device performance during use. Healthcare facilities should immediately identify affected units, contact the manufacturer for corrective action, and ensure clinical contingency plans are in place until resolution.",
+        "zh": "加拿大卫生部发布安全警示，涉及GE医疗生产的Aisys、Avance和Aespire麻醉机的性能问题。此次召回针对可能影响设备正常运行的潜在故障。医疗机构应立即识别受影响设备，联系制造商采取纠正措施，并在问题解决前确保临床应急计划到位。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/aisys-avance-and-aespire-anesthesia-machines",
+      "source_name": "Health Canada",
+      "published_date": "2026-07-02",
+      "detected_date": "2026-07-03T07:55:30Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "anesthesia_machine",
+        "performance_issue",
+        "health_canada",
+        "safety_alert"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260703_health_canada_issues_performance_alert_for_rapidlab_348ex_bl",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Issues Performance Alert for RAPIDLab® 348EX Blood Gas System",
+        "zh": "加拿大卫生部发布RAPIDLab® 348EX系统性能警报"
+      },
+      "summary": {
+        "en": "Health Canada has issued a safety alert regarding the RAPIDLab® 348EX System, a blood gas analyzer, due to a performance issue that may lead to inaccurate test results. Laboratories and healthcare facilities using this device should immediately verify performance according to the manufacturer's instructions. The alert includes corrective actions to mitigate patient risks and ensure compliance.",
+        "zh": "加拿大卫生部针对RAPIDLab® 348EX血气分析系统发布安全警报，原因是性能问题可能导致检测结果不准确。使用该设备的实验室和医疗机构应按照制造商说明立即验证系统性能。该警报包含纠正措施以降低患者风险并确保合规。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/rapidlabr-348ex-system",
+      "source_name": "Health Canada",
+      "published_date": "2026-07-02",
+      "detected_date": "2026-07-03T07:55:50Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "performance_issue",
+        "blood_gas_analyzer",
+        "health_canada"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260703_recall_of_airseal_access_port_with_blunt_obturator_and_optic",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Recall of AirSeal Access Port with Blunt Obturator and Optical Obturator Due to Performance Issue",
+        "zh": "因性能问题召回AirSeal入路端口（带钝头闭孔器和光学闭孔器）"
+      },
+      "summary": {
+        "en": "Health Canada has issued a medical device recall for the AirSeal Access Port with Blunt Obturator and the AirSeal Access Port with Optical Obturator. The recall is due to a performance issue that could compromise device functionality during laparoscopic procedures. Healthcare facilities should immediately locate and quarantine affected units, and follow the manufacturer's instructions for return or disposal. This alert aims to prevent potential patient harm associated with the defective access ports.",
+        "zh": "加拿大卫生部发布了AirSeal入路端口（含钝头闭孔器与光学闭孔器型号）的医疗器械召回通知。召回原因为性能问题，可能影响腹腔镜手术中器械的正常功能。医疗机构应立即识别并隔离受影响产品，按照制造商指示进行退货或处置。此警报旨在预防因该缺陷入路端口可能导致的患者伤害。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/airseal-access-port-blunt-obturator-and-airseal-access-port-optical-obturator",
+      "source_name": "Health Canada",
+      "published_date": "2026-07-02",
+      "detected_date": "2026-07-03T07:56:07Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "laparoscopic_access_port",
+        "performance_issue",
+        "health_canada",
+        "safety_alert"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260703_health_canada_recalls_glidesheath_slender_introducer_sheath",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Recalls Glidesheath Slender® Introducer Sheath Due to Performance Issue",
+        "zh": "加拿大卫生部因性能问题召回Glidesheath Slender®导引鞘"
+      },
+      "summary": {
+        "en": "Health Canada has issued a recall for the Glidesheath Slender® Introducer Sheath (Terumo Corporation) due to a performance issue. The device may separate or kink during use, potentially causing vessel injury, prolonged bleeding, or delayed hemostasis. Affected lots must be immediately identified, quarantined, and returned to the manufacturer for replacement.",
+        "zh": "加拿大卫生部已对Terumo公司制造的Glidesheath Slender®导引鞘发布召回通知，原因是性能缺陷。该产品在使用中可能出现分离或扭结，可能导致血管损伤、持续出血或止血延迟。需立即识别、隔离受影响批次，并联系制造商退回更换。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/glidesheath-slenderr-introducer-sheath",
+      "source_name": "Health Canada",
+      "published_date": "2026-07-02",
+      "detected_date": "2026-07-03T07:56:30Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "introducer_sheath",
+        "performance_defect"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260703_wasplab_recall_performance_issue_may_impact_specimen_process",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "WASPLab Recall: Performance Issue May Impact Specimen Processing – Health Canada Alert",
+        "zh": "WASPLab召回：性能问题可能影响样本处理 – 加拿大卫生部警示"
+      },
+      "summary": {
+        "en": "Health Canada has issued a recall alert for the WASPLab automated microbiology system due to a performance issue that could lead to incorrect specimen processing or result errors. Healthcare facilities using affected WASPLab units should immediately verify system performance and follow the manufacturer's instructions. The recall aims to prevent potential misdiagnosis or delayed results. Users are advised to contact the manufacturer for corrective actions.",
+        "zh": "加拿大卫生部已就WASPLab自动化微生物系统发布召回警示，原因是性能问题可能导致标本处理错误或结果不准确。使用受影响设备的医疗机构应立即检查系统性能并遵循制造商指示。该召回旨在防止可能的误诊或结果延迟。建议用户联系制造商采取纠正措施。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/wasplab",
+      "source_name": "Health Canada",
+      "published_date": "2026-07-02",
+      "detected_date": "2026-07-03T07:56:44Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "performance_issue",
+        "microbiology_automation",
+        "canada_health_alert"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260703_lifecodes_lsa_class_ii",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "LIFECODES LSA Class II",
+        "zh": "LIFECODES LSA Class II"
+      },
+      "summary": {
+        "en": "Performance",
+        "zh": "Performance"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/lifecodes-lsa-class-ii",
+      "source_name": "Health Canada",
+      "published_date": "2026-07-02",
+      "detected_date": "2026-07-03T07:57:16Z",
+      "importance": "medium",
+      "tags": [],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260703_health_canada_recalls_fludeoxyglucose_18f_injection_due_to_c",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Recalls Fludeoxyglucose (18F) Injection Due to Cracked Vial, Risk of Contamination",
+        "zh": "加拿大卫生部因瓶裂问题召回氟[18F]脱氧葡萄糖注射液"
+      },
+      "summary": {
+        "en": "Health Canada has issued a recall for Fludeoxyglucose (18F) Injection due to cracked vials, which pose a risk of compromised sterility and potential infection. This radiopharmaceutical is used in PET imaging, and affected healthcare facilities should immediately quarantine and return the impacted lots. The issue may lead to patient harm if the product is used without assured sterility. Further details on lot numbers and distribution can be found on the Health Canada recall page.",
+        "zh": "加拿大卫生部因发现氟[18F]脱氧葡萄糖注射液存在瓶裂问题而发布召回，该缺陷可能导致产品无菌性受损，增加感染风险。此放射性药物用于PET成像，受影响的医疗机构应立即停用并退回相关批次产品。若在无菌性未保证的情况下使用，可能对患者造成伤害。批次和分销详情请查阅加拿大卫生部召回页面。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/fludeoxyglucose-18f-injection-cracket-vial",
+      "source_name": "Health Canada",
+      "published_date": "2026-07-02",
+      "detected_date": "2026-07-03T07:57:36Z",
+      "importance": "high",
+      "tags": [
+        "recall",
+        "radiopharmaceutical",
+        "product_quality",
+        "cracked_vial",
+        "health_canada"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260703_health_canada_safety_alert_nephromax_high_pressure_nephrosto",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Safety Alert: NephroMax High Pressure Nephrostomy Balloon Catheter Device Compatibility Issue",
+        "zh": "加拿大卫生部安全警报：NephroMax高压肾造瘘球囊导管设备兼容性问题"
+      },
+      "summary": {
+        "en": "Health Canada has issued a safety alert for the NephroMax High Pressure Nephrostomy Balloon Catheter due to a device compatibility issue. This recall affects all healthcare facilities using this catheter in nephrostomy procedures. Users are advised to check compatibility with guidewires and other accessories, and to report any incidents. The manufacturer is providing updated instructions for use.",
+        "zh": "加拿大卫生部发布了NephroMax高压肾造瘘球囊导管的安全警报，原因是设备兼容性问题。该召回影响所有使用该导管进行肾造瘘手术的医疗机构。建议用户检查与导丝及其他配件的兼容性，并报告任何不良事件。制造商正在提供更新的使用说明。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/nephromax-high-pressure-nephrostomy-balloon-catheter",
+      "source_name": "Health Canada",
+      "published_date": "2026-07-02",
+      "detected_date": "2026-07-03T07:57:54Z",
+      "importance": "high",
+      "tags": [
+        "recall",
+        "balloon_catheter",
+        "device_compatibility",
+        "safety_alert",
+        "health_canada"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
     {
       "id": "canada_20260701_health_canada_safety_alert_abiomed_introducer_kits_with_impe",
       "framework": "canada",

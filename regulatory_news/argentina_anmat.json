@@ -1,1 +1,31 @@
-{"items": []}
+{
+  "items": [
+    {
+      "id": "argentina_anmat_20260703_fda_launches_spanish_language_safety_news_platform_fda_en_es",
+      "framework": "argentina_anmat",
+      "category": "safety_communication",
+      "title": {
+        "en": "FDA Launches Spanish-Language Safety News Platform 'FDA en español'",
+        "zh": "FDA推出西班牙语安全资讯平台“FDA en español”"
+      },
+      "summary": {
+        "en": "The U.S. FDA has launched 'FDA en español', a Spanish-language web page providing the latest safety news on medical products, biologics, veterinary products, food, vaccines, cosmetics, and supplements. This resource targets Spanish-speaking audiences, including healthcare professionals and consumers in Argentina, where ANMAT has highlighted the platform. Regulatory affairs professionals should utilize this channel to access timely FDA safety communications in Spanish.",
+        "zh": "美国FDA推出了“FDA en español”西班牙语网页，发布有关医疗产品、生物制品、兽药、食品、疫苗、化妆品和膳食补充剂的最新安全资讯。该资源面向西班牙语用户，包括阿根廷的医疗专业人员和消费者，ANMAT已对此平台进行通报。监管事务专业人员应利用此渠道及时获取FDA的西班牙语安全信息。"
+      },
+      "source_url": "https://www.fda.gov/about-fda/fda-en-espanol",
+      "source_name": "FDA",
+      "published_date": "2026-07-03",
+      "detected_date": "2026-07-03T08:01:01Z",
+      "importance": "medium",
+      "tags": [
+        "fda_en_espanol",
+        "safety_alerts",
+        "multilingual",
+        "argentina_anmat"
+      ],
+      "related_docs": [],
+      "status": "published"
+    }
+  ],
+  "last_updated": "2026-07-03T08:06:55Z"
+}

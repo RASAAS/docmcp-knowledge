@@ -6,6 +6,456 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### FDA Class I Recall: Insulet Removes Omnipod Pods Insulin Pump Due to Under-Delivery Risk
+
+**2026-07-03** | FDA | cdrh_news | !!! HIGH
+
+The FDA has announced a Class I recall for Insulet's Omnipod Pods, used with the Omnipod DASH Insulin Management System, due to a missing cannula or needle that can result in under-delivery of insulin. This poses risks of hyperglycemia, diabetic ketoacidosis, and death. Patients and caregivers must immediately stop using affected lots, contact Insulet for replacements, and transition to an alternative insulin delivery method.
+
+**Tags**: `insulin_pump`, `class_I_recall`, `omnipod`, `diabetes_device`, `safety_alert`, `insulet`
+
+[View Source (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/insulin-pump-recall-insulet-removes-omnipod-pods)
+
+---
+
+### Abiomed Recalls Impella CP Sets with SmartAssist Due to Potential for Catheter Perforation
+
+**2026-07-03** | FDA | cdrh_news | !!! HIGH
+
+Abiomed is recalling its Impella CP with SmartAssist sets after reports of the catheter tip breaking or perforating during insertion, which could lead to serious injury or death. The FDA has classified this as a Class I recall, the most serious type. Health care providers should immediately stop using affected devices and follow Abiomed's instructions for return and replacement. The recall affects certain lots distributed from August 2021 to March 2023.
+
+**Tags**: `recall`, `class_i`, `impella_cp`, `smartassist`, `heart_pump`, `abiomed`, `catheter_perforation`
+
+[View Source (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/heart-pump-recall-abiomed-removes-impella-cp-sets-smartassist)
+
+---
+
+### [Class II] ジーシー　ガスレーザー (炭酸ガスレーザ) - 株式会社ジーシー
+
+**2026-07-03** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Recall #2-12873: 炭酸ガスレーザ / ジーシー　ガスレーザー by 株式会社ジーシー. Type: 医療機器.
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12873)
+
+---
+
+### Accuray CyberKnife Radiosurgery System and M6 Series Class II Recall in Japan (No. 2-12872)
+
+**2026-07-03** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Japan’s PMDA has issued a Class II recall (No. 2-12872) for the CyberKnife Radiosurgery System and CyberKnife M6 Series linear accelerator systems used in stereotactic radiotherapy, manufactured by Accuray Inc. The recall indicates a potential safety issue affecting these devices. Healthcare facilities in Japan operating these systems should immediately contact Accuray for corrective actions and follow the manufacturer’s instructions.
+
+**Tags**: `pmda_recall`, `class_ii`, `cyberknife`, `radiosurgery`, `linear_accelerator`, `stereotactic_radiotherapy`, `accuray`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12872)
+
+---
+
+### MDSAP AUDIT APPROACH Document No - FDA
+
+**2026-07-03** | Brazil ANVISA | Regulation Update | !! MEDIUM
+
+Aug 6, 2024 ... Sch3), Brazilian Good Manufacturing Practices (RDC ANVISA 665/2022), Canadian Medical Devices Regulations, Japan. Ordinance on Standards for ...
+
+[View Source (FDA)](https://www.fda.gov/media/166672/download)
+
+---
+
+### FDA Update: Recall of Certain Philips Ventilators, BiPAP, and CPAP Machines
+
+**2026-07-03** | Mexico COFEPRIS | Safety Communication | !!! HIGH
+
+This FDA safety communication updates the ongoing Class I recall of specific Philips Respironics ventilators, BiPAP, and CPAP machines due to potential degradation of PE-PUR sound abatement foam, which may release particles and volatile organic compounds posing health risks. The update provides current recall status, affected model numbers, and reemphasizes actions for patients and healthcare providers, including device replacement or repair, and monitoring for symptoms. Users are urged to consult the FDA’s website and Philips’ recall portal for the latest guidance.
+
+**Tags**: `recall`, `philips`, `cpap_ventilator`
+
+[View Source (FDA)](https://www.fda.gov/medical-devices/safety-communications/actualizacion-se-retiran-del-mercado-ciertos-ventiladores-maquinas-bipap-y-maquinas-cpap-de-philips)
+
+---
+
+### FDA Updates Spanish-Language Homepage to Improve Access for Spanish-Speaking Stakeholders
+
+**2026-07-03** | Mexico COFEPRIS | Safety Communication | !! MEDIUM
+
+The U.S. FDA has updated its main Spanish-language web portal, 'FDA en español,' offering consumers, healthcare professionals, and industry stakeholders direct access to safety alerts, recalls, and regulatory guidance in Spanish. This resource is particularly relevant for medical device manufacturers targeting both the U.S. Hispanic market and Latin America, including collaboration with Mexico's COFEPRIS. Regulatory affairs teams should bookmark this page to ensure timely Spanish-language compliance communication with patients and partners.
+
+**Tags**: `fda`, `spanish_language`, `cofepris`, `regulatory_communications`, `language_access`, `cross_border_compliance`
+
+[View Source (FDA)](https://www.fda.gov/about-fda/fda-en-espanol)
+
+---
+
+### FDA Consumer Update: What ‘FDA Approved’ Really Means Across Product Categories, Including Tobacco
+
+**2026-07-03** | Mexico COFEPRIS | Safety Communication | !! MEDIUM
+
+This FDA consumer article clarifies that the phrase ‘FDA approved’ is reserved for medical products like drugs and devices that have been reviewed for safety and efficacy. It emphasizes that tobacco products are never considered safe, so the standard of safety and efficacy does not apply; they are merely authorized for marketing. The piece warns consumers not to misinterpret ‘FDA approved’ labeling and explains the differing regulatory pathways.
+
+**Tags**: `fda_approval`, `consumer_education`, `regulatory_terminology`
+
+[View Source (FDA)](https://www.fda.gov/consumers/articulos-para-el-consumidor-en-espanol/esta-realmente-aprobado-por-la-fda)
+
+---
+
+### FDA Publishes '¿Qué regula la FDA?' Spanish-Language Page Explaining Its Regulatory Scope
+
+**2026-07-03** | Mexico COFEPRIS | Safety Communication | ! LOW
+
+On March 29, 2024, the FDA released a Spanish-language page titled '¿Qué regula la FDA?' that clarifies the agency's oversight of medical devices, drugs, biologics, tobacco, and most foods, while noting exceptions like most meat and poultry products. This resource is aimed at Spanish-speaking stakeholders, facilitating understanding of FDA's jurisdiction for international partners such as Mexico's COFEPRIS. No new regulatory actions or changes are introduced; it is an informational tool for education and transparency.
+
+**Tags**: `fda_scope`, `spanish_resource`, `regulatory_education`, `cofepris_cooperation`
+
+[View Source (FDA)](https://www.fda.gov/about-fda/what-we-do/que-regula-la-fda)
+
+---
+
+### FDA Launches Spanish-Language Safety News Platform 'FDA en español'
+
+**2026-07-03** | Argentina ANMAT | Safety Communication | !! MEDIUM
+
+The U.S. FDA has launched 'FDA en español', a Spanish-language web page providing the latest safety news on medical products, biologics, veterinary products, food, vaccines, cosmetics, and supplements. This resource targets Spanish-speaking audiences, including healthcare professionals and consumers in Argentina, where ANMAT has highlighted the platform. Regulatory affairs professionals should utilize this channel to access timely FDA safety communications in Spanish.
+
+**Tags**: `fda_en_espanol`, `safety_alerts`, `multilingual`, `argentina_anmat`
+
+[View Source (FDA)](https://www.fda.gov/about-fda/fda-en-espanol)
+
+---
+
+### Class I Recall of Philips Respironics Trilogy Evo Ventilators Due to Obstruction Alarm Compliance Failure
+
+**2026-07-03** | Thailand FDA | Safety Communication | !!! HIGH
+
+The FDA has classified a recall of Philips Respironics Trilogy Evo ventilators as Class I, the most serious type, due to a failure of the obstruction alarm to comply with regulatory requirements. An important product notice was sent to consignees on June 5, 2024, alerting them that the alarm may not sound as intended, potentially delaying detection of airway obstruction. Affected users should immediately review the notice and follow the manufacturer's recommendations to mitigate risk.
+
+**Tags**: `class_i_recall`, `ventilator`, `obstruction_alarm`, `philips_respironics`, `safety_alert`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=219025)
+
+---
+
+### Class 2 Device Recall: Cardiosave Rescue – Addendum Notifications Including NVRAM Preventive Maintenance FSCA
+
+**2026-07-03** | Thailand FDA | Safety Communication | !! MEDIUM
+
+The FDA has announced a Class 2 recall for Cardiosave Rescue devices. The recall notifies consignees of four addendum updates, with a key addition being a new Field Safety Corrective Action (FSCA) for NVRAM preventive maintenance. Healthcare facilities using these devices should immediately review the updated instructions and implement the required preventive maintenance to ensure continued safe operation.
+
+**Tags**: `class_2_recall`, `fsca`, `cardiosave_rescue`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=217393)
+
+---
+
+### Class 2 Recall of BioFire BCID Panel Used with BACT/ALERT Bottles (Exp. Sep 19, 2020+)
+
+**2026-07-03** | Thailand FDA | Safety Communication | !! MEDIUM
+
+BioFire Diagnostics recalls all lots of FilmArray Blood Culture Identification (BCID) Panel with expiration dates September 19, 2020 and beyond when used with BACT/ALERT blood culture bottles. The issue may cause false negative results for certain bottle types. Users should immediately quarantine and stop using affected cartridges, and contact the manufacturer for return or replacement. This is a Class 2 recall indicating temporary or medically reversible adverse health consequences are possible.
+
+**Tags**: `recall`, `class_2`, `compatibility_issue`, `false_negative`, `blood_culture`, `fda`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?ID=181223)
+
+---
+
+### FDA Class 2 Recall: Atom Medical Infa Warmer i (Infant Warmer Model 103)
+
+**2026-07-03** | Thailand FDA | Safety Communication | !! MEDIUM
+
+The U.S. FDA has posted a Class 2 recall for the Infa Warmer i (Atom Infant Warmer Model 103) manufactured by Atom Medical Corporation, Tokyo, Japan. This device is used to warm infants in clinical settings. The Class 2 classification indicates that use of the affected device may cause temporary or medically reversible adverse health consequences. Healthcare facilities using this warmer should check the FDA recall notice and follow the manufacturer’s corrective action instructions.
+
+**Tags**: `recall`, `infant_warmer`, `class_2`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=103617)
+
+---
+
+### GE Healthcare Class 2 Device Recall (Z-1112-2026) Initiated December 2025, Posted by FDA January 2026
+
+**2026-07-03** | Thailand FDA | Safety Communication | !! MEDIUM
+
+GE Healthcare initiated a voluntary Class 2 device recall on December 24, 2025, which was classified and posted by the FDA on January 16, 2026, under recall number Z-1112-2026. The recall remains open and affects specific medical devices distributed by the firm. Healthcare facilities using the recalled device should immediately consult the firm’s recall notice and follow the recommended corrective actions to mitigate potential risks.
+
+**Tags**: `medical_device_recall`, `class_2_recall`, `ge_healthcare`, `fda`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=218084)
+
+---
+
+### Class 2 Device Recall: Varian Barcode Conical Collimator Verification (BCCV) Model HB, FSCA CP-06873
+
+**2026-07-03** | Thailand FDA | Safety Communication | !! MEDIUM
+
+Varian Medical Systems has issued a Class 2 recall for the Barcode Conical Collimator Verification (BCCV), model number HB, under FSCA identifier CP-06873. The device is used with the 4D Integrated Treatment Console in radiotherapy. The recall addresses verification issues that could lead to treatment inaccuracies. Affected facilities should immediately follow the manufacturer's recall notice and implement any recommended corrective actions.
+
+**Tags**: `class_2_recall`, `varian_medical_systems`, `barcode_conical_collimator`, `radiotherapy_device`, `fsca_cp-06873`, `safety_correction`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=106588)
+
+---
+
+### FDA Class I Recall: Getinge/Maquet Servo-u, Servo-n, Servo-u MR, and Servo-air Ventilators
+
+**2026-07-03** | Thailand FDA | Safety Communication | !!! HIGH
+
+The U.S. FDA has classified the recall of Maquet Critical Care AB/Getinge Servo-u, Servo-n, Servo-u MR, and Servo-air ventilators as a Class I recall, the most serious type. This action indicates that use of the affected devices may cause serious injury or death. Healthcare facilities should immediately identify and quarantine the implicated units, and follow the manufacturer's recall instructions to mitigate patient safety risks.
+
+**Tags**: `class_i_recall`, `ventilator`, `getinge`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=194852)
+
+---
+
+### FDA Class I Recall: Philips Respironics Trilogy Evo Ventilator – Software Update Pending
+
+**2026-07-03** | Israel MOH | Safety Communication | !!! HIGH
+
+The U.S. FDA has classified a recall of Philips Respironics Trilogy Evo ventilators as Class I, the most serious type, due to a software error that could lead to serious injury or death. A software update to correct the issue is currently pending; an updated Urgent Field Safety Notice was mailed on March 2, 2026, providing recall instructions for affected devices. Healthcare providers and patients should immediately consult the notice and ensure implementation of the pending software update when available.
+
+**Tags**: `class_i_recall`, `philips_respironics`, `trilogy_evo`, `software_defect`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=219025)
+
+---
+
+### FDA Class 2 Recall: Cardiosave Rescue – NVRAM Preventive Maintenance Addendum Update
+
+**2026-07-03** | Israel MOH | Safety Communication | !! MEDIUM
+
+The FDA issued a Class 2 recall for the Cardiosave Rescue device on December 11, 2025, due to a new field safety corrective action (FSCA) requiring preventive maintenance for the NVRAM component. The notification includes four addendum updates, with the NVRAM preventive maintenance being a newly identified corrective action. Consignees must review and implement the updated maintenance procedures to ensure continued device safety and performance.
+
+**Tags**: `class_2_recall`, `cardiosave_rescue`, `nvm_preventive_maintenance`, `fda`, `fsca`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=217393)
+
+---
+
+### FDA Search Databases for Medical Device Enforcement: Warning Letters and Compliance Tools
+
+**2026-07-03** | Israel MOH | Safety Communication | ! LOW
+
+This FDA resource details public databases that industry can use to identify enforcement actions, primarily Warning Letters, issued against medical device companies for violations of federal law. It is relevant for manufacturers, importers, and other stakeholders who need to monitor compliance and public health risks. Users should regularly search these databases to stay informed of regulatory actions and facilitate prompt corrective responses to any Warning Letters received.
+
+**Tags**: `fda`, `warning_letters`, `medical_devices`
+
+[View Source (FDA)](https://www.fda.gov/industry/fda-basics-industry/search-databases)
+
+---
+
+### Class I Recall: Dexcom G7 CGM App (Version ≤0) Fails to Generate Critical 'Sensor Failed' Alert
+
+**2026-07-03** | Israel MOH | Safety Communication | !!! HIGH
+
+The FDA has issued a Class I recall for the Dexcom G7 Continuous Glucose Monitoring App (versions 0 and earlier) because it does not provide the expected 'Sensor Failed' alert when the transmitter stops communicating with the sensor. This missing alert may delay detection of a non-functioning sensor, potentially leading to incorrect insulin dosing decisions and serious health consequences. Affected users must immediately update to a corrected app version or contact Dexcom for instructions.
+
+**Tags**: `class_1_recall`, `dexcom_g7`, `continuous_glucose_monitor`, `software_failure`, `alert_malfunction`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=215005)
+
+---
+
+### FDA Class 2 Recall: GE Healthcare Device, Recall Z-1112-2026, Open Status
+
+**2026-07-03** | Israel MOH | Safety Communication | !! MEDIUM
+
+The U.S. FDA posted a Class 2 device recall notice for a GE Healthcare product, initiated by the firm on December 24, 2025, and classified on January 16, 2026. The recall (Z-1112-2026, Event 9826923) remains open, affecting healthcare facilities using the recalled device. Affected parties should follow the manufacturer's recall instructions to mitigate potential risks.
+
+**Tags**: `device_recall`, `class_2`, `ge_healthcare`, `fda`, `recall_open`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=218084)
+
+---
+
+### Class I Recall of Phasitron 5 InLine Valve (Recall Number Z-0031-2026)
+
+**2026-07-03** | Israel MOH | Safety Communication | !!! HIGH
+
+The U.S. FDA has classified the recall of the Phasitron 5 InLine Valve as Class I, the most serious type, indicating a reasonable probability of serious adverse health consequences or death. The firm initiated the recall on September 17, 2025, and the status remains open. Healthcare facilities using this device should immediately stop use, quarantine affected units, and follow the manufacturer's instructions for return or corrective action.
+
+**Tags**: `class_i_recall`, `medical_device`, `valve`, `recall`, `fda_alert`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=215428)
+
+---
+
+### Urgent Field Safety Corrective Action for FemTouch Delivery System: Class 2 Recall with Disassembly Tool Kit
+
+**2026-07-03** | Israel MOH | Safety Communication | !!! HIGH
+
+The FDA issued a Class 2 device recall for the FemTouch delivery system (Lumenis Ltd.) following an urgent field safety corrective action. On September 25, 2016, consignees were notified and provided with a disassembly tool kit to mitigate a safety issue related to device disassembly. Affected users must follow the enclosed instructions immediately to ensure safe operation and prevent potential harm.
+
+**Tags**: `recall`, `fda_class_2`, `femtouch`, `field_safety_corrective_action`, `gynecological_laser`, `disassembly_tool_kit`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=150176)
+
+---
+
+### Class 2 Device Recall: Sierra Scientific Motility Visualization System
+
+**2026-07-03** | Israel MOH | Safety Communication | !! MEDIUM
+
+The U.S. FDA posted a Class II recall for the Sierra Scientific Motility Visualization System, a device used in gastrointestinal motility testing. The recall, initiated on October 28, 2011, addresses a potential performance issue that could affect clinical use. Healthcare facilities should identify affected units, contact the manufacturer for corrective actions, and report any adverse events.
+
+**Tags**: `device_recall`, `class_ii`, `gastroenterology`, `safety_alert`, `sierra_scientific`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=104678)
+
+---
+
+### Class 2 Device Recall: FreeStyle Comfort Oxygen Concentrator – DME Distributor Notification (Oct 2024)
+
+**2026-07-03** | Israel MOH | Safety Communication | !! MEDIUM
+
+The FDA posted a Class 2 recall notice for the FreeStyle Comfort Oxygen Concentrator on November 15, 2024. The recalling firm notified its direct DME distributors via email on October 4, 2024, with instructions for corrective actions. Distributors must follow the recall letter to address potential safety issues associated with the device.
+
+**Tags**: `class_2_recall`, `oxygen_concentrator`, `freestyle_comfort`, `dme_distributors`, `safety_alert`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=210663)
+
+---
+
+### Class 1 Device Recall: Maquet Critical Care AB/Getinge Servo-u Ventilator
+
+**2026-07-03** | Israel MOH | Safety Communication | !!! HIGH
+
+The FDA has classified a recall of Maquet Critical Care AB/Getinge Servo-u ventilators as Class 1, the most serious type. This action addresses a defect that may cause the ventilator to stop functioning unexpectedly, potentially leading to serious patient injury or death. All affected devices should be immediately removed from use and healthcare providers must contact Getinge for a corrective software update or replacement.
+
+**Tags**: `class_i_recall`, `ventilator`, `getinge`, `maquet`, `safety_alert`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=194852)
+
+---
+
+### FDA Publishes 2018 Log of Coumadin Safety Alerts, Decision Analyses, and Medical Device Reporting Regulations
+
+**2026-07-03** | Hong Kong MDCO | Safety Communication | !! MEDIUM
+
+The FDA has released a downloadable file containing its 2018 log of safety alerts and decision analyses related to Coumadin (warfarin), along with historical Federal Medical Device Reporting regulations covering January 1, 1983 to April 11, 1996. This compilation includes FDA policies and safety communications that may affect healthcare professionals managing anticoagulation therapy and medical device manufacturers navigating legacy reporting requirements. Regulatory affairs specialists should review the log for relevant safety updates and historical context for compliance programs.
+
+**Tags**: `coumadin`, `safety_alert`, `fda_log`, `medical_device_reporting`, `warfarin`, `regulation_history`
+
+[View Source (FDA)](https://www.fda.gov/media/184919/download)
+
+---
+
+### FDA Releases FY2016 FOIA Log Including Medical Device Recall Data and Monteris Medical Request
+
+**2026-07-03** | Hong Kong MDCO | Safety Communication | ! LOW
+
+The U.S. FDA has published its Freedom of Information Act (FOIA) log for fiscal year 2016, which documents requests for medical device recall notices, safety alerts, and specific entries such as a closed request concerning Monteris Medical. This release offers transparency into public inquiries about device recalls and can be used by regulatory professionals to monitor historical request patterns. No immediate compliance action is required, but manufacturers and vigilance specialists may consult the log for trend analysis and reference.
+
+**Tags**: `fda_foia`, `recall_data`, `medical_device`, `transparency`, `monteris_medical`
+
+[View Source (FDA)](https://www.fda.gov/media/184916/download)
+
+---
+
+### Borderline products: MHRA guidance on determining if your product is a medicine
+
+**2026-07-02** | UK MHRA | Regulation Update | !! MEDIUM
+
+The MHRA guidance outlines the decision-making process for classifying products as medicinal products (medicines) versus medical devices or other categories. It covers essential criteria such as product presentation, pharmacological action, and intended purpose. Manufacturers of potentially borderline products should review this guide to ensure proper classification and comply with UK regulatory requirements, avoiding misclassification risks.
+
+**Tags**: `borderline_products`, `medicine_classification`, `mhra_guidance`, `product_classification`, `medical_device_regulation`
+
+[View Source (MHRA (UK))](https://www.gov.uk/guidance/borderline-products-how-to-tell-if-your-product-is-a-medicine)
+
+---
+
+### Health Canada Alert: Performance Issue with Aisys, Avance, and Aespire Anesthesia Machines
+
+**2026-07-02** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a safety alert regarding a performance issue affecting GE Healthcare's Aisys, Avance, and Aespire anesthesia machines. The recall addresses a potential malfunction that could compromise device performance during use. Healthcare facilities should immediately identify affected units, contact the manufacturer for corrective action, and ensure clinical contingency plans are in place until resolution.
+
+**Tags**: `medical_device_recall`, `anesthesia_machine`, `performance_issue`, `health_canada`, `safety_alert`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/aisys-avance-and-aespire-anesthesia-machines)
+
+---
+
+### Health Canada Issues Performance Alert for RAPIDLab® 348EX Blood Gas System
+
+**2026-07-02** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a safety alert regarding the RAPIDLab® 348EX System, a blood gas analyzer, due to a performance issue that may lead to inaccurate test results. Laboratories and healthcare facilities using this device should immediately verify performance according to the manufacturer's instructions. The alert includes corrective actions to mitigate patient risks and ensure compliance.
+
+**Tags**: `medical_device_recall`, `performance_issue`, `blood_gas_analyzer`, `health_canada`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/rapidlabr-348ex-system)
+
+---
+
+### Recall of AirSeal Access Port with Blunt Obturator and Optical Obturator Due to Performance Issue
+
+**2026-07-02** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a medical device recall for the AirSeal Access Port with Blunt Obturator and the AirSeal Access Port with Optical Obturator. The recall is due to a performance issue that could compromise device functionality during laparoscopic procedures. Healthcare facilities should immediately locate and quarantine affected units, and follow the manufacturer's instructions for return or disposal. This alert aims to prevent potential patient harm associated with the defective access ports.
+
+**Tags**: `medical_device_recall`, `laparoscopic_access_port`, `performance_issue`, `health_canada`, `safety_alert`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/airseal-access-port-blunt-obturator-and-airseal-access-port-optical-obturator)
+
+---
+
+### Health Canada Recalls Glidesheath Slender® Introducer Sheath Due to Performance Issue
+
+**2026-07-02** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a recall for the Glidesheath Slender® Introducer Sheath (Terumo Corporation) due to a performance issue. The device may separate or kink during use, potentially causing vessel injury, prolonged bleeding, or delayed hemostasis. Affected lots must be immediately identified, quarantined, and returned to the manufacturer for replacement.
+
+**Tags**: `medical_device_recall`, `introducer_sheath`, `performance_defect`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/glidesheath-slenderr-introducer-sheath)
+
+---
+
+### WASPLab Recall: Performance Issue May Impact Specimen Processing – Health Canada Alert
+
+**2026-07-02** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a recall alert for the WASPLab automated microbiology system due to a performance issue that could lead to incorrect specimen processing or result errors. Healthcare facilities using affected WASPLab units should immediately verify system performance and follow the manufacturer's instructions. The recall aims to prevent potential misdiagnosis or delayed results. Users are advised to contact the manufacturer for corrective actions.
+
+**Tags**: `medical_device_recall`, `performance_issue`, `microbiology_automation`, `canada_health_alert`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/wasplab)
+
+---
+
+### LIFECODES LSA Class II
+
+**2026-07-02** | Health Canada | Safety Communication | !! MEDIUM
+
+Performance
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/lifecodes-lsa-class-ii)
+
+---
+
+### Health Canada Recalls Fludeoxyglucose (18F) Injection Due to Cracked Vial, Risk of Contamination
+
+**2026-07-02** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a recall for Fludeoxyglucose (18F) Injection due to cracked vials, which pose a risk of compromised sterility and potential infection. This radiopharmaceutical is used in PET imaging, and affected healthcare facilities should immediately quarantine and return the impacted lots. The issue may lead to patient harm if the product is used without assured sterility. Further details on lot numbers and distribution can be found on the Health Canada recall page.
+
+**Tags**: `recall`, `radiopharmaceutical`, `product_quality`, `cracked_vial`, `health_canada`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/fludeoxyglucose-18f-injection-cracket-vial)
+
+---
+
+### Health Canada Safety Alert: NephroMax High Pressure Nephrostomy Balloon Catheter Device Compatibility Issue
+
+**2026-07-02** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a safety alert for the NephroMax High Pressure Nephrostomy Balloon Catheter due to a device compatibility issue. This recall affects all healthcare facilities using this catheter in nephrostomy procedures. Users are advised to check compatibility with guidewires and other accessories, and to report any incidents. The manufacturer is providing updated instructions for use.
+
+**Tags**: `recall`, `balloon_catheter`, `device_compatibility`, `safety_alert`, `health_canada`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/nephromax-high-pressure-nephrostomy-balloon-catheter)
+
+---
+
 ### NMPA Issues Amendment Sheets for YY 0068.4-2009 and Six Other Industry Standards for Medical Devices
 
 **2026-07-01** | NMPA | Standard Revision | !! MEDIUM
@@ -651,6 +1101,30 @@ Published 17 June 2026 (effective 11 June 2026), this decision amends Decision 2
 
 ---
 
+### Accuray CyberKnife Xchange Collimator Changer Recalled: Collimator Docking Failure May Cause Injury
+
+**2026-06-16** | FDA | Safety Communication | !!! HIGH
+
+Accuray Incorporated is recalling its CyberKnife Treatment Delivery System with Xchange Robotic Collimator Changer due to a risk that a collimator may not fully dock. If personnel enter the treatment room and use the in-room control pendant after a docking interlock, the collimator could fall, posing a serious injury hazard. Users must follow the manufacturer's corrective actions, including not attempting manual motion when the interlock is active.
+
+**Tags**: `recall`, `radiation_therapy`, `collimator`, `safety`, `linear_accelerator`, `medical_device`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=220744)
+
+---
+
+### Accuray CyberKnife with Xchange Collimator Changer Recalled for Collimator Docking Failure Hazard
+
+**2026-06-16** | FDA | Safety Communication | !!! HIGH
+
+The FDA announced a recall of Accuray's CyberKnife Treatment Delivery System equipped with the Xchange Robotic Collimator Changer. If a collimator does not fully dock, a system interlock may be triggered; should personnel then manually move the robot using the in-room pendant, the collimator could fall, risking injury to patients or staff. Users should immediately inform all operators of this risk and adhere to the manufacturer's interim safety instructions until a permanent correction is deployed.
+
+**Tags**: `device_recall`, `radiation_oncology`, `collimator_failure`, `patient_safety`, `fda_recall`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=220764)
+
+---
+
 ### Alerta 5265 (Tecnovigilância) - Comunicado da empresa Zimmer Biomet Brasil Ltda - Sutura MaxBraid.
 
 **2026-06-16** | Brazil ANVISA | Safety Communication | !! MEDIUM
@@ -763,6 +1237,18 @@ Alerta 5256 (Tecnovigilância) - Comunicado da empresa Conmed do Brasil Comercio
 
 ---
 
+### FDA Recalls Siemens ARTIS icono ceiling Due to Risk of Monitor Detachment from Ceiling Suspension
+
+**2026-06-08** | FDA | Safety Communication | !!! HIGH
+
+The FDA has issued a Class I recall (Z-2648-2026) for the Siemens ARTIS icono ceiling angiography system (model 11328100) due to a potential issue with the Display Ceiling Suspension (DCS Fix XL). Over time, screws securing the monitor to the suspension may gradually loosen, causing the monitor to detach and fall, posing a risk of impact injury to patients or healthcare staff. Affected facilities should immediately inspect the suspension assembly and contact Siemens to arrange for corrective maintenance.
+
+**Tags**: `fda_recall`, `siemens_medical_solutions`, `artis_icono_ceiling`, `ceiling_suspension`, `loose_screws`, `safety_alert`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=221088)
+
+---
+
 ### MHRA Field Safety Notices for 1–5 June 2026 Now Available
 
 **2026-06-08** | UK MHRA | Safety Communication | !! MEDIUM
@@ -772,6 +1258,29 @@ The UK MHRA has published the weekly list of Field Safety Notices (FSNs) for 1�
 **Tags**: `field_safety_notice`, `mhra`, `medical_devices`, `uk_regulation`, `safety_alert`
 
 [View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-1-5-june-2026)
+
+---
+
+### Medela Recalls ENFit ExSet Syringes Due to Incompatible Connectors Risking Enteral Feeding Delays
+
+**2026-06-05** | FDA | Safety Communication | !!! HIGH
+
+Medela Inc. is recalling its ENFit ExSet Strl 60 2.0ml PV 1ct EN syringe (Model ENF060182LD / 101033086) because the product may contain incorrect connectors that cannot attach or misconnect to ENFit connections. This incompatibility could cause a slight delay in the delivery of enteral nutritional fluids or oral medication. Healthcare providers and patients should immediately identify affected units, discontinue use, and follow the firm's instructions for return or disposal.
+
+**Tags**: `recall`, `enteral_feeding`, `connector_safety`, `fda`, `medela`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=220801)
+
+---
+
+### Device Recall: Remel, Inc - GC Agar Base (150mm) 10/PK R04030;
+GC Agar Base (100mm) 10/PK R01460
+
+**2026-06-03** | FDA | Safety Communication | !! MEDIUM
+
+Recall Z-2623-2026: Reduced or no recovery of some strains of Neisseria gonorrhoeae.
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=220907)
 
 ---
 

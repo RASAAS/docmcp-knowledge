@@ -6,6 +6,16 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### MDSAP AUDIT APPROACH Document No - FDA
+
+**2026-07-03** | Brazil ANVISA | Regulation Update | !! MEDIUM
+
+Aug 6, 2024 ... Sch3), Brazilian Good Manufacturing Practices (RDC ANVISA 665/2022), Canadian Medical Devices Regulations, Japan. Ordinance on Standards for ...
+
+[View Source (FDA)](https://www.fda.gov/media/166672/download)
+
+---
+
 ### Alerta 5265 (Tecnovigilância) - Comunicado da empresa Zimmer Biomet Brasil Ltda - Sutura MaxBraid.
 
 **2026-06-16** | Brazil ANVISA | Safety Communication | !! MEDIUM

@@ -1,1 +1,189 @@
-{"items": []}
+{
+  "items": [
+    {
+      "id": "thailand_fda_20260703_class_i_recall_of_philips_respironics_trilogy_evo_ventilator",
+      "framework": "thailand_fda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Class I Recall of Philips Respironics Trilogy Evo Ventilators Due to Obstruction Alarm Compliance Failure",
+        "zh": "飞利浦伟康Trilogy Evo呼吸机因阻塞报警合规性故障被I级召回"
+      },
+      "summary": {
+        "en": "The FDA has classified a recall of Philips Respironics Trilogy Evo ventilators as Class I, the most serious type, due to a failure of the obstruction alarm to comply with regulatory requirements. An important product notice was sent to consignees on June 5, 2024, alerting them that the alarm may not sound as intended, potentially delaying detection of airway obstruction. Affected users should immediately review the notice and follow the manufacturer's recommendations to mitigate risk.",
+        "zh": "美国FDA已将飞利浦伟康Trilogy Evo呼吸机的召回定为I级（最严重级别），原因是阻塞报警未能符合法规要求。制造商已于2024年6月5日向收货方发出重要产品通知，警告该报警可能无法正常响起，导致气道阻塞未被及时发现。受影响用户应立即查阅通知并遵循制造商建议以降低风险。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=219025",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-03",
+      "detected_date": "2026-07-03T08:01:19Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "ventilator",
+        "obstruction_alarm",
+        "philips_respironics",
+        "safety_alert"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "thailand_fda_20260703_class_2_device_recall_cardiosave_rescue_addendum_notificatio",
+      "framework": "thailand_fda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Class 2 Device Recall: Cardiosave Rescue – Addendum Notifications Including NVRAM Preventive Maintenance FSCA",
+        "zh": "二级召回：Cardiosave Rescue 发布包含NVRAM预防性维护FSCA的增补通知"
+      },
+      "summary": {
+        "en": "The FDA has announced a Class 2 recall for Cardiosave Rescue devices. The recall notifies consignees of four addendum updates, with a key addition being a new Field Safety Corrective Action (FSCA) for NVRAM preventive maintenance. Healthcare facilities using these devices should immediately review the updated instructions and implement the required preventive maintenance to ensure continued safe operation.",
+        "zh": "美国FDA对Cardiosave Rescue设备发布二级召回。此次召回通知包含四项增补更新，重点新增了针对NVRAM预防性维护的现场安全纠正措施（FSCA）。使用该设备的医疗机构应立即查阅更新内容并执行规定的预防性维护，以保障设备安全运行。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=217393",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-03",
+      "detected_date": "2026-07-03T08:01:37Z",
+      "importance": "medium",
+      "tags": [
+        "class_2_recall",
+        "fsca",
+        "cardiosave_rescue"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "thailand_fda_20260703_class_2_recall_of_biofire_bcid_panel_used_with_bact_alert_bo",
+      "framework": "thailand_fda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Class 2 Recall of BioFire BCID Panel Used with BACT/ALERT Bottles (Exp. Sep 19, 2020+)",
+        "zh": "BioFire BCID板二级召回：与BACT/ALERT瓶联用批次（有效期2020.9.19+）"
+      },
+      "summary": {
+        "en": "BioFire Diagnostics recalls all lots of FilmArray Blood Culture Identification (BCID) Panel with expiration dates September 19, 2020 and beyond when used with BACT/ALERT blood culture bottles. The issue may cause false negative results for certain bottle types. Users should immediately quarantine and stop using affected cartridges, and contact the manufacturer for return or replacement. This is a Class 2 recall indicating temporary or medically reversible adverse health consequences are possible.",
+        "zh": "BioFire Diagnostics 召回所有有效期在2020年9月19日及之后、与BACT/ALERT血培养瓶联合使用的 FilmArray 血培养鉴定（BCID）板。该问题可能导致特定瓶型出现假阴性结果。用户应立即隔离并停止使用受影响批次，与制造商联系退换事宜。此召回属二级召回，提示可能引起暂时性或医学上可逆的不良健康后果。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?ID=181223",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-03",
+      "detected_date": "2026-07-03T08:01:55Z",
+      "importance": "medium",
+      "tags": [
+        "recall",
+        "class_2",
+        "compatibility_issue",
+        "false_negative",
+        "blood_culture",
+        "fda"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "thailand_fda_20260703_fda_class_2_recall_atom_medical_infa_warmer_i_infant_warmer",
+      "framework": "thailand_fda",
+      "category": "safety_communication",
+      "title": {
+        "en": "FDA Class 2 Recall: Atom Medical Infa Warmer i (Infant Warmer Model 103)",
+        "zh": "FDA II级召回：Atom Medical婴儿保温箱Infa Warmer i（型号103）"
+      },
+      "summary": {
+        "en": "The U.S. FDA has posted a Class 2 recall for the Infa Warmer i (Atom Infant Warmer Model 103) manufactured by Atom Medical Corporation, Tokyo, Japan. This device is used to warm infants in clinical settings. The Class 2 classification indicates that use of the affected device may cause temporary or medically reversible adverse health consequences. Healthcare facilities using this warmer should check the FDA recall notice and follow the manufacturer’s corrective action instructions.",
+        "zh": "美国FDA发布了一项针对Atom Medical Corporation（日本东京）生产的Infa Warmer i（婴儿保温箱型号103）的II级召回。该产品用于新生儿保温。根据II级分类，受影响设备的使用可能导致暂时性或可逆的健康损害。使用该保温箱的医疗机构应查阅FDA召回公告并遵循制造商的纠正措施指引。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=103617",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-03",
+      "detected_date": "2026-07-03T08:02:14Z",
+      "importance": "medium",
+      "tags": [
+        "recall",
+        "infant_warmer",
+        "class_2"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "thailand_fda_20260703_ge_healthcare_class_2_device_recall_z_1112_2026_initiated_de",
+      "framework": "thailand_fda",
+      "category": "safety_communication",
+      "title": {
+        "en": "GE Healthcare Class 2 Device Recall (Z-1112-2026) Initiated December 2025, Posted by FDA January 2026",
+        "zh": "GE Healthcare 启动2类设备召回 (Z-1112-2026)，FDA于2026年1月发布"
+      },
+      "summary": {
+        "en": "GE Healthcare initiated a voluntary Class 2 device recall on December 24, 2025, which was classified and posted by the FDA on January 16, 2026, under recall number Z-1112-2026. The recall remains open and affects specific medical devices distributed by the firm. Healthcare facilities using the recalled device should immediately consult the firm’s recall notice and follow the recommended corrective actions to mitigate potential risks.",
+        "zh": "GE Healthcare 于2025年12月24日启动一项自愿性2类设备召回，FDA于2026年1月16日将该召回归类并发布，召回编号为Z-1112-2026。该召回目前仍在进行中，涉及该公司分销的特定医疗设备。使用该召回设备的医疗机构应立即查阅公司召回通知，并遵循推荐的纠正措施以降低潜在风险。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=218084",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-03",
+      "detected_date": "2026-07-03T08:02:29Z",
+      "importance": "medium",
+      "tags": [
+        "medical_device_recall",
+        "class_2_recall",
+        "ge_healthcare",
+        "fda"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "thailand_fda_20260703_class_2_device_recall_varian_barcode_conical_collimator_veri",
+      "framework": "thailand_fda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Class 2 Device Recall: Varian Barcode Conical Collimator Verification (BCCV) Model HB, FSCA CP-06873",
+        "zh": "二级医疗器械召回：Varian条形码锥形准直器验证系统(BCCV)型号HB"
+      },
+      "summary": {
+        "en": "Varian Medical Systems has issued a Class 2 recall for the Barcode Conical Collimator Verification (BCCV), model number HB, under FSCA identifier CP-06873. The device is used with the 4D Integrated Treatment Console in radiotherapy. The recall addresses verification issues that could lead to treatment inaccuracies. Affected facilities should immediately follow the manufacturer's recall notice and implement any recommended corrective actions.",
+        "zh": "Varian Medical Systems公司针对其条形码锥形准直器验证系统（BCCV，型号HB）发起了二级召回，FSCA编号为CP-06873。该设备与4D Integrated Treatment Console放射治疗系统配套使用，召回旨在解决可能导致治疗误差的验证问题。相关医疗机构须立即遵循厂商召回通知，并采取建议的纠正措施。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=106588",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-03",
+      "detected_date": "2026-07-03T08:02:47Z",
+      "importance": "medium",
+      "tags": [
+        "class_2_recall",
+        "varian_medical_systems",
+        "barcode_conical_collimator",
+        "radiotherapy_device",
+        "fsca_cp-06873",
+        "safety_correction"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "thailand_fda_20260703_fda_class_i_recall_getinge_maquet_servo_u_servo_n_servo_u_mr",
+      "framework": "thailand_fda",
+      "category": "safety_communication",
+      "title": {
+        "en": "FDA Class I Recall: Getinge/Maquet Servo-u, Servo-n, Servo-u MR, and Servo-air Ventilators",
+        "zh": "FDA I级召回：Getinge/Maquet Servo-u、Servo-n、Servo-u MR及Servo-air呼吸机"
+      },
+      "summary": {
+        "en": "The U.S. FDA has classified the recall of Maquet Critical Care AB/Getinge Servo-u, Servo-n, Servo-u MR, and Servo-air ventilators as a Class I recall, the most serious type. This action indicates that use of the affected devices may cause serious injury or death. Healthcare facilities should immediately identify and quarantine the implicated units, and follow the manufacturer's recall instructions to mitigate patient safety risks.",
+        "zh": "美国FDA已将Maquet Critical Care AB/Getinge公司生产的Servo-u、Servo-n、Servo-u MR和Servo-air呼吸机召回定为I级召回，这是最严重的召回类型。此次召回意味着使用受影响设备可能导致严重伤害或死亡。医疗机构应立即识别并隔离相关设备，遵循制造商召回指示，以降低患者安全风险。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=194852",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-03",
+      "detected_date": "2026-07-03T08:03:05Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "ventilator",
+        "getinge"
+      ],
+      "related_docs": [],
+      "status": "published"
+    }
+  ],
+  "last_updated": "2026-07-03T08:06:55Z"
+}

@@ -1,7 +1,34 @@
 {
   "framework": "uk_mhra",
-  "last_updated": "2026-07-01T13:09:48Z",
+  "last_updated": "2026-07-03T08:06:55Z",
   "items": [
+    {
+      "id": "uk_mhra_20260703_borderline_products_mhra_guidance_on_determining_if_your_pro",
+      "framework": "uk_mhra",
+      "category": "regulation_update",
+      "title": {
+        "en": "Borderline products: MHRA guidance on determining if your product is a medicine",
+        "zh": "边界产品：MHRA发布如何判断产品是否为药品的指南"
+      },
+      "summary": {
+        "en": "The MHRA guidance outlines the decision-making process for classifying products as medicinal products (medicines) versus medical devices or other categories. It covers essential criteria such as product presentation, pharmacological action, and intended purpose. Manufacturers of potentially borderline products should review this guide to ensure proper classification and comply with UK regulatory requirements, avoiding misclassification risks.",
+        "zh": "MHRA指南说明了将产品归类为药品还是医疗器械或其他类别的决策过程，关键考量包括产品呈现方式、药理作用和预期用途。涉及边界产品的制造商应参照此指南，确保正确分类，遵守英国法规要求，避免分类错误风险。"
+      },
+      "source_url": "https://www.gov.uk/guidance/borderline-products-how-to-tell-if-your-product-is-a-medicine",
+      "source_name": "MHRA (UK)",
+      "published_date": "2026-07-02",
+      "detected_date": "2026-07-03T07:55:21Z",
+      "importance": "medium",
+      "tags": [
+        "borderline_products",
+        "medicine_classification",
+        "mhra_guidance",
+        "product_classification",
+        "medical_device_regulation"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
     {
       "id": "uk_mhra_20260701_uk_mhra_publishes_field_safety_notices_for_22_26_june_2026",
       "framework": "uk_mhra",

@@ -1,7 +1,64 @@
 {
   "framework": "fda",
-  "last_updated": "2026-06-30T12:25:45Z",
+  "last_updated": "2026-07-03T08:06:55Z",
   "items": [
+    {
+      "id": "fda_20260703_fda_class_i_recall_insulet_removes_omnipod_pods_insulin_pump",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "FDA Class I Recall: Insulet Removes Omnipod Pods Insulin Pump Due to Under-Delivery Risk",
+        "zh": "FDA I 级召回：Insulet 因剂量不足风险移除 Omnipod Pods 胰岛素泵"
+      },
+      "summary": {
+        "en": "The FDA has announced a Class I recall for Insulet's Omnipod Pods, used with the Omnipod DASH Insulin Management System, due to a missing cannula or needle that can result in under-delivery of insulin. This poses risks of hyperglycemia, diabetic ketoacidosis, and death. Patients and caregivers must immediately stop using affected lots, contact Insulet for replacements, and transition to an alternative insulin delivery method.",
+        "zh": "FDA 宣布了一项针对 Insulet 公司 Omnipod Pods（与 Omnipod DASH 胰岛素管理系统配合使用）的 I 级召回，原因是部分产品可能存在导管或针头缺失，导致胰岛素输注不足，可能引发高血糖、糖尿病酮症酸中毒甚至死亡。受影响用户应立即停用相关批次产品，联系 Insulet 更换新泵，并改用其他胰岛素给药方式。"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/insulin-pump-recall-insulet-removes-omnipod-pods",
+      "source_name": "FDA",
+      "published_date": "2026-07-03",
+      "detected_date": "2026-07-03T07:54:56Z",
+      "importance": "high",
+      "tags": [
+        "insulin_pump",
+        "class_I_recall",
+        "omnipod",
+        "diabetes_device",
+        "safety_alert",
+        "insulet"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260703_abiomed_recalls_impella_cp_sets_with_smartassist_due_to_pote",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "Abiomed Recalls Impella CP Sets with SmartAssist Due to Potential for Catheter Perforation",
+        "zh": "Abiomed召回带SmartAssist的Impella CP心脏泵套装，因导管可能穿孔"
+      },
+      "summary": {
+        "en": "Abiomed is recalling its Impella CP with SmartAssist sets after reports of the catheter tip breaking or perforating during insertion, which could lead to serious injury or death. The FDA has classified this as a Class I recall, the most serious type. Health care providers should immediately stop using affected devices and follow Abiomed's instructions for return and replacement. The recall affects certain lots distributed from August 2021 to March 2023.",
+        "zh": "Abiomed公司正在召回其配备SmartAssist功能的Impella CP心脏泵套装，因有报告称导管尖端在插入过程中可能破裂或穿孔，可导致严重伤害或死亡。FDA已将其列为最严重的I类召回。医护人员应立即停止使用受影响的设备，并按Abiomed的指示进行退货和更换。召回涉及2021年8月至2023年3月分销的特定批次。"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/heart-pump-recall-abiomed-removes-impella-cp-sets-smartassist",
+      "source_name": "FDA",
+      "published_date": "2026-07-03",
+      "detected_date": "2026-07-03T07:55:06Z",
+      "importance": "high",
+      "tags": [
+        "recall",
+        "class_i",
+        "impella_cp",
+        "smartassist",
+        "heart_pump",
+        "abiomed",
+        "catheter_perforation"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
     {
       "id": "fda_20260630_fda_title_21_cfr_update_medical_device_parts_800_898_revised",
       "framework": "fda",
@@ -24,6 +81,137 @@
         "cfr_title_21",
         "medical_device_regulations"
       ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260703_accuray_cyberknife_xchange_collimator_changer_recalled_colli",
+      "framework": "fda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Accuray CyberKnife Xchange Collimator Changer Recalled: Collimator Docking Failure May Cause Injury",
+        "zh": "Accuray CyberKnife Xchange 准直器更换器召回：对接故障存在受伤风险"
+      },
+      "summary": {
+        "en": "Accuray Incorporated is recalling its CyberKnife Treatment Delivery System with Xchange Robotic Collimator Changer due to a risk that a collimator may not fully dock. If personnel enter the treatment room and use the in-room control pendant after a docking interlock, the collimator could fall, posing a serious injury hazard. Users must follow the manufacturer's corrective actions, including not attempting manual motion when the interlock is active.",
+        "zh": "Accuray 公司召回其配备 Xchange 机器人准直器更换器的 CyberKnife 治疗输送系统，因准直器可能未完全对接。若人员在触发互锁后进入治疗室并使用室内控制面板，准直器可能坠落，造成严重伤害风险。用户须遵循制造商纠正措施，包括互锁激活时不得尝试手动移动。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=220744",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-06-16",
+      "detected_date": "2026-07-03T07:53:01Z",
+      "importance": "high",
+      "tags": [
+        "recall",
+        "radiation_therapy",
+        "collimator",
+        "safety",
+        "linear_accelerator",
+        "medical_device"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260703_accuray_cyberknife_with_xchange_collimator_changer_recalled",
+      "framework": "fda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Accuray CyberKnife with Xchange Collimator Changer Recalled for Collimator Docking Failure Hazard",
+        "zh": "Accuray CyberKnife系统因准直器对接故障风险被召回"
+      },
+      "summary": {
+        "en": "The FDA announced a recall of Accuray's CyberKnife Treatment Delivery System equipped with the Xchange Robotic Collimator Changer. If a collimator does not fully dock, a system interlock may be triggered; should personnel then manually move the robot using the in-room pendant, the collimator could fall, risking injury to patients or staff. Users should immediately inform all operators of this risk and adhere to the manufacturer's interim safety instructions until a permanent correction is deployed.",
+        "zh": "FDA发布召回通知，涉及Accuray公司配备Xchange机器人准直器更换器的CyberKnife治疗递送系统。当准直器未完全对接时会触发系统互锁，若操作人员随后使用室内控制盒移动机械臂，准直器可能脱落，导致患者或操作人员受伤。医疗机构须立即向相关人员传达风险并严格执行制造商提供的临时安全操作指南，直至永久修正措施到位。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=220764",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-06-16",
+      "detected_date": "2026-07-03T07:53:19Z",
+      "importance": "high",
+      "tags": [
+        "device_recall",
+        "radiation_oncology",
+        "collimator_failure",
+        "patient_safety",
+        "fda_recall"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260703_fda_recalls_siemens_artis_icono_ceiling_due_to_risk_of_monit",
+      "framework": "fda",
+      "category": "safety_communication",
+      "title": {
+        "en": "FDA Recalls Siemens ARTIS icono ceiling Due to Risk of Monitor Detachment from Ceiling Suspension",
+        "zh": "西门子ARTIS icono ceiling显示器悬挂装置因螺丝松动被FDA召回"
+      },
+      "summary": {
+        "en": "The FDA has issued a Class I recall (Z-2648-2026) for the Siemens ARTIS icono ceiling angiography system (model 11328100) due to a potential issue with the Display Ceiling Suspension (DCS Fix XL). Over time, screws securing the monitor to the suspension may gradually loosen, causing the monitor to detach and fall, posing a risk of impact injury to patients or healthcare staff. Affected facilities should immediately inspect the suspension assembly and contact Siemens to arrange for corrective maintenance.",
+        "zh": "美国FDA已对西门子ARTIS icono ceiling血管造影系统（型号11328100）发布I级召回(Z-2648-2026)，原因是显示器天花板悬挂装置（DCS Fix XL）的固定螺丝可能随时间逐渐松动。这可能导致显示器脱落坠落，造成患者或医护人员撞击受伤的风险。受影响的医疗机构应立即检查悬挂组件，并联系西门子安排纠正维修。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=221088",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-06-08",
+      "detected_date": "2026-07-03T07:53:45Z",
+      "importance": "high",
+      "tags": [
+        "fda_recall",
+        "siemens_medical_solutions",
+        "artis_icono_ceiling",
+        "ceiling_suspension",
+        "loose_screws",
+        "safety_alert"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260703_medela_recalls_enfit_exset_syringes_due_to_incompatible_conn",
+      "framework": "fda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Medela Recalls ENFit ExSet Syringes Due to Incompatible Connectors Risking Enteral Feeding Delays",
+        "zh": "Medela因连接器不兼容召回ENFit ExSet注射器，可能导致肠内喂养延迟"
+      },
+      "summary": {
+        "en": "Medela Inc. is recalling its ENFit ExSet Strl 60 2.0ml PV 1ct EN syringe (Model ENF060182LD / 101033086) because the product may contain incorrect connectors that cannot attach or misconnect to ENFit connections. This incompatibility could cause a slight delay in the delivery of enteral nutritional fluids or oral medication. Healthcare providers and patients should immediately identify affected units, discontinue use, and follow the firm's instructions for return or disposal.",
+        "zh": "Medela Inc. 正在召回其 ENFit ExSet Strl 60 2.0ml PV 1ct EN 注射器（型号 ENF060182LD / 101033086），原因是该产品可能带有错误的连接器，无法连接或错误连接至 ENFit 接口，从而导致肠内营养液或口服药物输送出现轻微延迟。医护人员和患者应立即识别受影响产品，停止使用，并按照厂家指示进行退货或处置。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=220801",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-06-05",
+      "detected_date": "2026-07-03T07:54:03Z",
+      "importance": "high",
+      "tags": [
+        "recall",
+        "enteral_feeding",
+        "connector_safety",
+        "fda",
+        "medela"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260703_device_recall_remel_inc_gc_agar_base_150mm_10_pk_r04030_gc_a",
+      "framework": "fda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Device Recall: Remel, Inc - GC Agar Base (150mm) 10/PK R04030;\r\nGC Agar Base (100mm) 10/PK R01460",
+        "zh": "Device Recall: Remel, Inc - GC Agar Base (150mm) 10/PK R04030;\r\nGC Agar Base (100mm) 10/PK R01460"
+      },
+      "summary": {
+        "en": "Recall Z-2623-2026: Reduced or no recovery of some strains of Neisseria gonorrhoeae.",
+        "zh": "Recall Z-2623-2026: Reduced or no recovery of some strains of Neisseria gonorrhoeae."
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=220907",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-06-03",
+      "detected_date": "2026-07-03T07:54:35Z",
+      "importance": "medium",
+      "tags": [],
       "related_docs": [],
       "status": "published"
     },

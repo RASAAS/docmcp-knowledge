@@ -6,6 +6,100 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### Health Canada Alert: Performance Issue with Aisys, Avance, and Aespire Anesthesia Machines
+
+**2026-07-02** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a safety alert regarding a performance issue affecting GE Healthcare's Aisys, Avance, and Aespire anesthesia machines. The recall addresses a potential malfunction that could compromise device performance during use. Healthcare facilities should immediately identify affected units, contact the manufacturer for corrective action, and ensure clinical contingency plans are in place until resolution.
+
+**Tags**: `medical_device_recall`, `anesthesia_machine`, `performance_issue`, `health_canada`, `safety_alert`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/aisys-avance-and-aespire-anesthesia-machines)
+
+---
+
+### Health Canada Issues Performance Alert for RAPIDLab® 348EX Blood Gas System
+
+**2026-07-02** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a safety alert regarding the RAPIDLab® 348EX System, a blood gas analyzer, due to a performance issue that may lead to inaccurate test results. Laboratories and healthcare facilities using this device should immediately verify performance according to the manufacturer's instructions. The alert includes corrective actions to mitigate patient risks and ensure compliance.
+
+**Tags**: `medical_device_recall`, `performance_issue`, `blood_gas_analyzer`, `health_canada`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/rapidlabr-348ex-system)
+
+---
+
+### Recall of AirSeal Access Port with Blunt Obturator and Optical Obturator Due to Performance Issue
+
+**2026-07-02** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a medical device recall for the AirSeal Access Port with Blunt Obturator and the AirSeal Access Port with Optical Obturator. The recall is due to a performance issue that could compromise device functionality during laparoscopic procedures. Healthcare facilities should immediately locate and quarantine affected units, and follow the manufacturer's instructions for return or disposal. This alert aims to prevent potential patient harm associated with the defective access ports.
+
+**Tags**: `medical_device_recall`, `laparoscopic_access_port`, `performance_issue`, `health_canada`, `safety_alert`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/airseal-access-port-blunt-obturator-and-airseal-access-port-optical-obturator)
+
+---
+
+### Health Canada Recalls Glidesheath Slender® Introducer Sheath Due to Performance Issue
+
+**2026-07-02** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a recall for the Glidesheath Slender® Introducer Sheath (Terumo Corporation) due to a performance issue. The device may separate or kink during use, potentially causing vessel injury, prolonged bleeding, or delayed hemostasis. Affected lots must be immediately identified, quarantined, and returned to the manufacturer for replacement.
+
+**Tags**: `medical_device_recall`, `introducer_sheath`, `performance_defect`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/glidesheath-slenderr-introducer-sheath)
+
+---
+
+### WASPLab Recall: Performance Issue May Impact Specimen Processing – Health Canada Alert
+
+**2026-07-02** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a recall alert for the WASPLab automated microbiology system due to a performance issue that could lead to incorrect specimen processing or result errors. Healthcare facilities using affected WASPLab units should immediately verify system performance and follow the manufacturer's instructions. The recall aims to prevent potential misdiagnosis or delayed results. Users are advised to contact the manufacturer for corrective actions.
+
+**Tags**: `medical_device_recall`, `performance_issue`, `microbiology_automation`, `canada_health_alert`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/wasplab)
+
+---
+
+### LIFECODES LSA Class II
+
+**2026-07-02** | Health Canada | Safety Communication | !! MEDIUM
+
+Performance
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/lifecodes-lsa-class-ii)
+
+---
+
+### Health Canada Recalls Fludeoxyglucose (18F) Injection Due to Cracked Vial, Risk of Contamination
+
+**2026-07-02** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a recall for Fludeoxyglucose (18F) Injection due to cracked vials, which pose a risk of compromised sterility and potential infection. This radiopharmaceutical is used in PET imaging, and affected healthcare facilities should immediately quarantine and return the impacted lots. The issue may lead to patient harm if the product is used without assured sterility. Further details on lot numbers and distribution can be found on the Health Canada recall page.
+
+**Tags**: `recall`, `radiopharmaceutical`, `product_quality`, `cracked_vial`, `health_canada`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/fludeoxyglucose-18f-injection-cracket-vial)
+
+---
+
+### Health Canada Safety Alert: NephroMax High Pressure Nephrostomy Balloon Catheter Device Compatibility Issue
+
+**2026-07-02** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a safety alert for the NephroMax High Pressure Nephrostomy Balloon Catheter due to a device compatibility issue. This recall affects all healthcare facilities using this catheter in nephrostomy procedures. Users are advised to check compatibility with guidewires and other accessories, and to report any incidents. The manufacturer is providing updated instructions for use.
+
+**Tags**: `recall`, `balloon_catheter`, `device_compatibility`, `safety_alert`, `health_canada`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/nephromax-high-pressure-nephrostomy-balloon-catheter)
+
+---
+
 ### Health Canada Safety Alert: Abiomed Introducer Kits with Impella Heart Pumps – Performance Issue
 
 **2026-06-29** | Health Canada | Safety Communication | !!! HIGH
