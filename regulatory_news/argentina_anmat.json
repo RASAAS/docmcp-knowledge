@@ -1,26 +1,4 @@
 {
-  "items": [
-    {
-      "id": "argentina_anmat_20260703_30_de_junio_de_2026anmat_proh_be_un_lote_de_un_producto_m_di",
-      "framework": "argentina_anmat",
-      "category": "safety_communication",
-      "title": {
-        "en": "30 de junio de 2026ANMAT prohíbe un lote de un producto médico falsificado de la firma LINEDERM",
-        "zh": "30 de junio de 2026ANMAT prohíbe un lote de un producto médico falsificado de la firma LINEDERM"
-      },
-      "summary": {
-        "en": "ANMAT Alert: 30 de junio de 2026ANMAT prohíbe un lote de un producto médico falsificado de la firma LINEDERM",
-        "zh": "ANMAT Alert: 30 de junio de 2026ANMAT prohíbe un lote de un producto médico falsificado de la firma LINEDERM"
-      },
-      "source_url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-un-lote-de-un-producto-medico-falsificado-de-la-firma-linederm",
-      "source_name": "Official Source",
-      "published_date": "2026-06-30",
-      "detected_date": "2026-07-03T13:30:16Z",
-      "importance": "medium",
-      "tags": [],
-      "related_docs": [],
-      "status": "published"
-    }
-  ],
+  "items": [],
   "last_updated": "2026-07-03T13:30:16Z"
 }
