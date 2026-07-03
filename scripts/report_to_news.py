@@ -72,6 +72,25 @@ CATEGORY_MAP = {
     "singapore_hsa/regulations": ("singapore_hsa", "regulation_update"),
     "india_cdsco/safety": ("india_cdsco", "safety_communication"),
     "india_cdsco/regulations": ("india_cdsco", "regulation_update"),
+    # Tier 3 international markets
+    "mexico_cofepris/regulations": ("mexico_cofepris", "regulation_update"),
+    "mexico_cofepris/safety": ("mexico_cofepris", "safety_communication"),
+    "argentina_anmat/regulations": ("argentina_anmat", "regulation_update"),
+    "argentina_anmat/safety": ("argentina_anmat", "safety_communication"),
+    "taiwan_tfda/regulations": ("taiwan_tfda", "regulation_update"),
+    "taiwan_tfda/safety": ("taiwan_tfda", "safety_communication"),
+    "newzealand_medsafe/regulations": ("newzealand_medsafe", "regulation_update"),
+    "newzealand_medsafe/safety": ("newzealand_medsafe", "safety_communication"),
+    "indonesia_bpom/regulations": ("indonesia_bpom", "regulation_update"),
+    "indonesia_bpom/safety": ("indonesia_bpom", "safety_communication"),
+    "malaysia_mda/regulations": ("malaysia_mda", "regulation_update"),
+    "malaysia_mda/safety": ("malaysia_mda", "safety_communication"),
+    "thailand_fda/regulations": ("thailand_fda", "regulation_update"),
+    "thailand_fda/safety": ("thailand_fda", "safety_communication"),
+    "israel_moh/regulations": ("israel_moh", "regulation_update"),
+    "israel_moh/safety": ("israel_moh", "safety_communication"),
+    "hongkong_mdco/regulations": ("hongkong_mdco", "regulation_update"),
+    "hongkong_mdco/safety": ("hongkong_mdco", "safety_communication"),
 }
 
 

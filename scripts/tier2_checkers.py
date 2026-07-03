@@ -9,7 +9,7 @@ Also includes TGA RSS checker (fix for Phase 3a Australia TGA).
 import csv
 import io
 import re
-from datetime import datetime
+from datetime import datetime, timedelta
 from typing import Optional
 
 try:
@@ -90,8 +90,14 @@ class TGARSSChecker:
 
         title_filter = source.get("title_filter")
         title_exclude = source.get("title_exclude")
+        max_age_days = source.get("max_age_days", 0)
         new_items = []
         all_ids = list(prev_ids)
+
+        if max_age_days > 0:
+            age_cutoff = (datetime.now() - timedelta(days=max_age_days)).strftime("%Y-%m-%d")
+        else:
+            age_cutoff = ""
 
         for entry in entries:
             eid = entry.get("link") or entry.get("title", "")
@@ -101,6 +107,9 @@ class TGARSSChecker:
             if title_filter and not re.search(title_filter, title, re.IGNORECASE):
                 continue
             if title_exclude and re.search(title_exclude, title, re.IGNORECASE):
+                all_ids.append(eid)
+                continue
+            if age_cutoff and entry.get("pub_date", "") and entry["pub_date"][:10] < age_cutoff:
                 all_ids.append(eid)
                 continue
             all_ids.append(eid)
@@ -130,6 +139,7 @@ class TGARSSChecker:
     @staticmethod
     def _parse_rss(content: bytes) -> list[dict]:
         import xml.etree.ElementTree as ET
+        from email.utils import parsedate_to_datetime as _rfc2822
         results = []
         try:
             root = ET.fromstring(content)
@@ -138,14 +148,139 @@ class TGARSSChecker:
                 link_el = item.find("link")
                 desc_el = item.find("description")
                 pub_el = item.find("pubDate")
+                pub_date = ""
+                if pub_el is not None and pub_el.text:
+                    try:
+                        pub_date = _rfc2822(pub_el.text.strip()).strftime("%Y-%m-%d")
+                    except Exception:
+                        pub_date = pub_el.text.strip()[:10]
                 results.append({
                     "title": (title_el.text or "").strip() if title_el is not None else "",
                     "link": (link_el.text or "").strip() if link_el is not None else "",
-                    "pub_date": (pub_el.text or "")[:10] if pub_el is not None else "",
+                    "pub_date": pub_date,
                     "description": (desc_el.text or "").strip()[:300] if desc_el is not None else "",
                 })
         except ET.ParseError as e:
             print(f"    ERROR parsing TGA RSS XML: {e}")
+        return results
+
+
+# ---------------------------------------------------------------------------
+# ANVISA (Brazil) Tecnovigilancia alerts HTML checker
+# Parses the ANVISA alerts page filtered by tecnovigilancia tag.
+# ---------------------------------------------------------------------------
+
+class ANVISAChecker:
+    """Checks ANVISA (Brazil) medical device tecnovigilance alerts.
+
+    Parses antigo.anvisa.gov.br/alertas?tagsName=tecnovigilancia page
+    which lists FSCA/recall alerts for medical devices in Brazil (Portuguese).
+    """
+
+    ALERTS_URL = "https://antigo.anvisa.gov.br/alertas?tagsName=tecnovigil%C3%A2ncia"
+
+    def __init__(self, session: requests.Session, state: dict,
+                 seed_mode: bool = False):
+        self.session = session
+        self.state = state
+        self.seed_mode = seed_mode
+
+    def check(self, source_id: str, source: dict) -> Optional[dict]:
+        url = source.get("url") or self.ALERTS_URL
+        prev = self.state.get(source_id, {})
+        prev_ids = set(prev.get("seen_ids", []))
+
+        try:
+            resp = self.session.get(url, timeout=30, headers={
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                              "AppleWebKit/537.36 Chrome/130.0 Safari/537.36",
+            })
+            resp.raise_for_status()
+        except Exception as e:
+            print(f"    ERROR ANVISA: {e}")
+            return None
+
+        entries = self._parse_alerts(resp.text)
+        if not entries:
+            print("    WARNING: No entries from ANVISA alerts page")
+            return None
+
+        print(f"    INFO: Parsed {len(entries)} entries from ANVISA tecnovigilancia")
+
+        new_items = []
+        all_ids = list(prev_ids)
+        cutoff = (datetime.now() - timedelta(days=90)).strftime("%Y-%m-%d")
+
+        for entry in entries:
+            eid = entry.get("id") or entry.get("title", "")
+            if not eid or eid in prev_ids:
+                continue
+            all_ids.append(eid)
+            pub = entry.get("pub_date", "")
+            if pub and pub < cutoff:
+                continue
+            new_items.append(entry)
+
+        self.state[source_id] = {
+            "url": url,
+            "last_checked": datetime.now().isoformat(),
+            "seen_ids": all_ids[-500:],
+        }
+
+        if new_items and (prev_ids or self.seed_mode):
+            if self.seed_mode and not prev_ids:
+                new_items = new_items[:10]
+                print(f"    INFO: Seed mode -- returning top {len(new_items)} ANVISA entries")
+            result = _make_update(
+                source_id, source, "anvisa_page",
+                f"{len(new_items)} new ANVISA tecnovigilance alert(s) detected"
+            )
+            result["new_items"] = new_items
+            return result
+        elif not prev_ids:
+            print(f"    INFO: Baseline established ({len(entries)} ANVISA entries)")
+
+        return None
+
+    @staticmethod
+    def _parse_alerts(html: str) -> list[dict]:
+        import re
+        results = []
+        try:
+            from bs4 import BeautifulSoup
+            soup = BeautifulSoup(html, "html.parser")
+            for div in soup.find_all("div", class_="lista-noticias"):
+                date_div = div.find("div", class_="data-hora")
+                title_div = div.find("div", class_="titulo-resumo")
+                if not title_div:
+                    continue
+                a_tag = title_div.find("a")
+                if not a_tag:
+                    continue
+
+                title = a_tag.get_text(strip=True)
+                link = a_tag.get("href", "")
+                if link and not link.startswith("http"):
+                    link = "https://antigo.anvisa.gov.br" + link
+
+                date_text = date_div.get_text(strip=True) if date_div else ""
+                dm = re.search(r"(\d{2})/(\d{2})/(\d{4})", date_text)
+                pub_date = f"{dm.group(3)}-{dm.group(2)}-{dm.group(1)}" if dm else ""
+
+                alert_id = ""
+                am = re.search(r"Alerta\s+(\d+)", title)
+                if am:
+                    alert_id = f"ANVISA-{am.group(1)}"
+
+                results.append({
+                    "id": alert_id,
+                    "title": title,
+                    "link": link,
+                    "pub_date": pub_date,
+                    "description": "",
+                })
+        except ImportError:
+            pass
         return results
 
 
@@ -471,4 +606,120 @@ class SFDAChecker:
                     "pub_date": "",
                     "description": f"Saudi FDA NCMDR weekly safety update report {wu_id}.",
                 })
+        return results
+
+
+# ---------------------------------------------------------------------------
+# Medsafe (New Zealand) Safety Communications Checker
+# Parses the structured table at medsafe.govt.nz/safety/SafetyCommunications.asp
+# ---------------------------------------------------------------------------
+
+class MedsafeChecker:
+    """Checks Medsafe (NZ) Safety Communications for medical device alerts.
+
+    Parses the HTML table with columns: Date, Communication, Product Type, Topic.
+    Filters for Product Type containing 'Device'.
+    """
+
+    def __init__(self, session: requests.Session, state: dict,
+                 seed_mode: bool = False):
+        self.session = session
+        self.state = state
+        self.seed_mode = seed_mode
+
+    def check(self, source_id: str, source: dict) -> Optional[dict]:
+        url = source.get("url", "https://medsafe.govt.nz/safety/SafetyCommunications.asp")
+        prev = self.state.get(source_id, {})
+        prev_ids = set(prev.get("seen_ids", []))
+
+        try:
+            resp = self.session.get(url, timeout=30, headers={
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/130.0",
+            })
+            resp.raise_for_status()
+        except Exception as e:
+            print(f"    ERROR Medsafe: {e}")
+            return None
+
+        entries = self._parse_table(resp.text)
+        if not entries:
+            print("    WARNING: No entries from Medsafe Safety Communications")
+            return None
+
+        print(f"    INFO: Parsed {len(entries)} device entries from Medsafe")
+
+        new_items = []
+        all_ids = list(prev_ids)
+
+        for entry in entries:
+            eid = entry.get("title", "")
+            if not eid or eid in prev_ids:
+                continue
+            all_ids.append(eid)
+            new_items.append(entry)
+
+        self.state[source_id] = {
+            "url": url,
+            "last_checked": datetime.now().isoformat(),
+            "seen_ids": all_ids[-200:],
+        }
+
+        if new_items and (prev_ids or self.seed_mode):
+            if self.seed_mode and not prev_ids:
+                new_items = new_items[:10]
+                print(f"    INFO: Seed mode -- returning top {len(new_items)} Medsafe entries")
+            result = _make_update(
+                source_id, source, "medsafe_page",
+                f"{len(new_items)} new Medsafe device safety communication(s)"
+            )
+            result["new_items"] = new_items
+            return result
+        elif not prev_ids:
+            print(f"    INFO: Baseline established ({len(entries)} Medsafe entries)")
+
+        return None
+
+    @staticmethod
+    def _parse_table(html: str) -> list[dict]:
+        import re
+        results = []
+        try:
+            from bs4 import BeautifulSoup
+            soup = BeautifulSoup(html, "html.parser")
+            table = soup.find("table")
+            if not table:
+                return results
+            for tr in table.find_all("tr")[1:]:
+                cells = tr.find_all("td")
+                if len(cells) < 4:
+                    continue
+                date_text = cells[0].get_text(strip=True)
+                comm_type = cells[1].get_text(strip=True)
+                prod_type = cells[2].get_text(strip=True)
+                topic = cells[3].get_text(strip=True)
+                if "device" not in prod_type.lower():
+                    continue
+                a_tag = cells[3].find("a")
+                link = ""
+                if a_tag and a_tag.get("href"):
+                    href = a_tag["href"]
+                    if not href.startswith("http"):
+                        link = "https://medsafe.govt.nz/safety/" + href
+                    else:
+                        link = href
+                dm = re.search(r"(\d{1,2})\s+(January|February|March|April|May|June|July|August|September|October|November|December)\s+(\d{4})", date_text)
+                pub_date = ""
+                if dm:
+                    month_map = {"January": "01", "February": "02", "March": "03", "April": "04",
+                                 "May": "05", "June": "06", "July": "07", "August": "08",
+                                 "September": "09", "October": "10", "November": "11", "December": "12"}
+                    pub_date = f"{dm.group(3)}-{month_map.get(dm.group(2), '01')}-{dm.group(1).zfill(2)}"
+                results.append({
+                    "title": f"[{comm_type}] {topic}",
+                    "link": link,
+                    "pub_date": pub_date,
+                    "description": f"Medsafe {comm_type} - Product: {prod_type}",
+                })
+        except ImportError:
+            pass
         return results

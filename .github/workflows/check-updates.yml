@@ -7,6 +7,7 @@ name: Weekly Regulatory Update Check
 #   Thu 03:00 CST (Wed 19:00 UTC) -> Tier 1: Japan PMDA + Korea MFDS
 #   Fri 03:00 CST (Thu 19:00 UTC) -> NMPA/CMDE (Vertex AI Search primary)
 #   Sat 03:00 CST (Fri 19:00 UTC) -> Tier 2: CH/BR/SA/SG/IN
+#   Sun 03:00 CST (Sat 19:00 UTC) -> Tier 3: MX/AR/TW/NZ/ID/MY/TH/IL/HK
 #   1st of month 03:00 CST (prev 19:00 UTC) -> ISO/IEC shared standards
 # Scheduled during off-peak hours to minimize user impact from deploy restarts.
 
@@ -18,11 +19,12 @@ on:
     - cron: '0 19 * * 3'   # Wed 19:00 UTC = Thu 03:00 CST: Japan + Korea
     - cron: '0 19 * * 4'   # Thu 19:00 UTC = Fri 03:00 CST: NMPA
     - cron: '0 19 * * 5'   # Fri 19:00 UTC = Sat 03:00 CST: Tier 2
+    - cron: '0 19 * * 6'   # Sat 19:00 UTC = Sun 03:00 CST: Tier 3
     - cron: '0 19 1 * *'   # 1st 19:00 UTC = 2nd 03:00 CST: Shared standards (ISO/IEC)
   workflow_dispatch:
     inputs:
       regulation_group:
-        description: 'Regulation group (eu_mdr/fda/nmpa/shared/tier1_west/tier1_east/tier2/switzerland/brazil_anvisa/saudi_sfda/singapore_hsa/india_cdsco/all)'
+        description: 'Regulation group (eu_mdr/fda/nmpa/shared/tier1_west/tier1_east/tier2/tier3/all or country code)'
         required: false
         default: 'all'
       seed_news:
@@ -86,6 +88,8 @@ jobs:
               GROUP="nmpa"             # Thu UTC = Fri CST
             elif [ "$DAY" = "5" ]; then
               GROUP="tier2"            # Fri UTC = Sat CST
+            elif [ "$DAY" = "6" ]; then
+              GROUP="tier3"            # Sat UTC = Sun CST
             else
               GROUP="all"
             fi

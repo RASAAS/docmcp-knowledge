@@ -238,6 +238,8 @@ SOURCES = {
             "check_type": "tga_rss",
             "category": "australia_tga/safety",
             "title_filter": r"(?i)(medical\s+device|device|monitor|pump|catheter|implant|stent|pacemaker|defibrillator|ventilator|glucose|insulin|infusion|surgical|diagnostic|endoscope|prosth|ortho|dental|imaging|MRI|CT\s+scan|ultrasound|IV\s+set|blood|steril|recall|product\s+correction|product\s+alert)",
+            "title_exclude": r"(?i)(FDA\s+safety|FDA\s+alert|U\.?S\.?\s+FDA|FDA\s+recall)",
+            "max_age_days": 90,
             "note": "Official TGA RSS feed for market actions including medical device recalls.",
         },
         "safety_alerts_rss": {
@@ -246,6 +248,8 @@ SOURCES = {
             "check_type": "tga_rss",
             "category": "australia_tga/safety",
             "title_filter": r"(?i)(medical\s+device|device|implant|surgical|monitor|pump|prosth|ventilator|glucose|blood|recall|product\s+correction|product\s+alert|safety\s+alert|market\s+action)",
+            "title_exclude": r"(?i)(FDA\s+safety|FDA\s+alert|U\.?S\.?\s+FDA|FDA\s+recall)",
+            "max_age_days": 90,
             "note": "Official TGA RSS feed for safety alerts.",
         },
         "news_rss": {
@@ -254,6 +258,8 @@ SOURCES = {
             "check_type": "tga_rss",
             "category": "australia_tga/regulations",
             "title_filter": r"(?i)(medical\s+device|device|UDI|SaMD|software\s+as|IVD|in\s+vitro|essential\s+principles|classification|implant|clinical\s+evidence|regulation|conformity\s+assessment|artg|post-?market|sponsor|TGA\s+guidance|therapeutic\s+goods)",
+            "title_exclude": r"(?i)(FDA\s+safety|FDA\s+alert|U\.?S\.?\s+FDA|FDA\s+recall)",
+            "max_age_days": 90,
             "note": "Official TGA RSS feed for news articles, filtered for device-related regulatory news.",
         },
         "regulations_search": {
@@ -274,8 +280,9 @@ SOURCES = {
             "url": "https://www.pmda.go.jp/english/0006.html",
             "check_type": "pmda_whatsnew",
             "category": "japan_pmda/regulations",
-            "title_filter": r"(?i)(medical\s+device|device\s+review|device\s+standard|device\s+approval|approved\s+medical\s+device|SaMD|software\s+as\s+a\s+medical|IVD|in\s+vitro|QMS|GCTP|GMP|IMDRF|cybersecurity|recall\s+class|UDI|guidance|guide|standard|regulation|regulatory|MHLW.*device|medical\s+safety\s+information|safety\s+information\s+no|AI\s+utiliz|program.*medical|classification|clinical\s+trial.*device|post-?market|pre-?market)",
-            "note": "Primary: PMDA English What's New page, broader filter for device-related updates including regulatory, guidance, and standards.",
+            "title_filter": r"(?i)(medical\s+device|device\s+review|device\s+standard|device\s+approval|approved\s+medical\s+device|SaMD|software\s+as\s+a\s+medical|IVD|in\s+vitro|QMS|GCTP|IMDRF|cybersecurity|recall\s+class|UDI|CDx|companion\s+diagnostic|MHLW.*device|medical\s+safety\s+information|safety\s+information\s+no|AI\s+utiliz|program.*medical|classification|clinical\s+trial.*device|post-?market|pre-?market|essential\s+principles|approved\s+.*device|device.*approved|implant|prosth|surgical\s+instrument|therapeutic\s+device|diagnostic\s+device|endoscope|pacemaker|defibrillator)",
+            "title_exclude": r"(?i)(approved\s+drugs?$|list\s+of\s+approved\s+drugs|revisions?\s+of\s+precaution|proper\s+use\s+of\s+drugs?|pharmacopoeia|vaccine|drug\s+substance|drug\s+product|prescription\s+drug|adverse\s+drug|anti-?cancer\s+drug|pediatric\s+drug|orphan\s+drug|drug\s+development|drug\s+designation|generic\s+drugs?|review\s+report:\s+(?!.*(?:device|SaMD|IVD|implant|monitor|pump|stent|prosth|ventilator))|urgent\s+safety\s+information.*(?:capsule|tablet|injection|oral|ophthalmic|cream|ointment)|risk\s+commun.*(?:omeprazole|aspirin|warfarin|heparin|insulin$)|orange\s+letter|pharmacovigilance\s+seminar|PDG\s+.*news\s+posted|JP\d+|japanese\s+pharmacopoeia|GCP\s+workshop|GMP\s+(?:inspection|workshop)(?!.*device)|副作用|使用上の注意)",
+            "note": "Primary: PMDA English What's New page. title_filter includes device keywords; title_exclude rejects drug-only content.",
         },
         "recalls_class1": {
             "name": "PMDA Medical Device Recalls Class I (Japanese)",
@@ -294,6 +301,17 @@ SOURCES = {
             "recall_class": "II",
             "dynamic_year": True,
             "note": "PMDA Class II medical device recalls.",
+        },
+        "device_regulatory_search": {
+            "name": "PMDA Medical Device Regulatory Updates (Search)",
+            "url": "https://www.pmda.go.jp/english/review-services/reviews/0002.html",
+            "check_type": "google_search",
+            "google_query": "PMDA Japan medical device regulation guidance QMS SaMD software IVD IMDRF device classification approval review 2026",
+            "category": "japan_pmda/regulations",
+            "date_restrict": "m3",
+            "skip_domain_filter": True,
+            "exclude_domains": ["fda.gov", "accessdata.fda.gov"],
+            "note": "PMDA medical device regulatory updates via search (supplements What's New).",
         },
     },
     "korea_mfds": {
@@ -352,14 +370,11 @@ SOURCES = {
     },
     "brazil_anvisa": {
         "tecnovigilance": {
-            "name": "ANVISA Medical Device Safety Alerts (via Search)",
-            "url": "https://antigo.anvisa.gov.br/alertas",
-            "check_type": "google_search",
-            "google_query": "ANVISA Brazil medical device recall alert safety tecnovigilance 2026",
+            "name": "ANVISA Medical Device Tecnovigilance Alerts (Direct)",
+            "url": "https://antigo.anvisa.gov.br/alertas?tagsName=tecnovigil%C3%A2ncia",
+            "check_type": "anvisa_page",
             "category": "brazil_anvisa/safety",
-            "date_restrict": "m6",
-            "skip_domain_filter": True,
-            "note": "ANVISA medical device tecnovigilance alerts via search (direct 403).",
+            "note": "Direct HTML parsing of ANVISA tecnovigilancia alerts page (Portuguese).",
         },
         "regulations": {
             "name": "ANVISA Medical Device Regulations (via Search)",
@@ -432,6 +447,114 @@ SOURCES = {
             "date_restrict": "m6",
             "skip_domain_filter": True,
             "note": "CDSCO medical device regulations via search.",
+        },
+    },
+    # -----------------------------------------------------------------------
+    # Tier 3: Supplementary markets (monthly updates)
+    # -----------------------------------------------------------------------
+    "mexico_cofepris": {
+        "safety_alerts": {
+            "name": "COFEPRIS Medical Device Safety Alerts (Mexico)",
+            "url": "https://www.gob.mx/cofepris/acciones-y-programas/alertas-sanitarias",
+            "check_type": "google_search",
+            "google_query": "COFEPRIS Mexico dispositivo medico alerta sanitaria retiro recall medical device 2026",
+            "category": "mexico_cofepris/safety",
+            "date_restrict": "m6",
+            "skip_domain_filter": True,
+            "note": "COFEPRIS medical device safety alerts via search (Spanish content + LLM).",
+        },
+    },
+    "argentina_anmat": {
+        "safety_alerts": {
+            "name": "ANMAT Medical Device Safety Alerts (Argentina)",
+            "url": "https://www.argentina.gob.ar/anmat/alertas",
+            "check_type": "google_search",
+            "google_query": "ANMAT Argentina dispositivo medico alerta retiro producto medico recall 2026",
+            "category": "argentina_anmat/safety",
+            "date_restrict": "m6",
+            "skip_domain_filter": True,
+            "note": "ANMAT medical device safety alerts via search (Spanish content + LLM).",
+        },
+    },
+    "taiwan_tfda": {
+        "safety_alerts": {
+            "name": "TFDA Medical Device Safety Alerts (Taiwan)",
+            "url": "https://www.fda.gov.tw/TC/site.aspx?sid=7383",
+            "check_type": "google_search",
+            "google_query": "site:fda.gov.tw OR site:tdrf.org.tw medical device recall safety alert warning 2026",
+            "category": "taiwan_tfda/safety",
+            "date_restrict": "m6",
+            "skip_domain_filter": True,
+            "note": "TFDA medical device safety alerts via search (Chinese + English content).",
+        },
+    },
+    "newzealand_medsafe": {
+        "safety_comms": {
+            "name": "Medsafe Safety Communications (New Zealand)",
+            "url": "https://medsafe.govt.nz/safety/SafetyCommunications.asp",
+            "check_type": "medsafe_page",
+            "category": "newzealand_medsafe/safety",
+            "note": "Direct HTML parsing of Medsafe Safety Communications table (device-filtered).",
+        },
+    },
+    "indonesia_bpom": {
+        "device_safety": {
+            "name": "BPOM/Kemenkes Medical Device Alerts (Indonesia)",
+            "url": "https://www.pom.go.id/",
+            "check_type": "google_search",
+            "google_query": "Indonesia BPOM Kemenkes medical device alat kesehatan recall safety alert 2026",
+            "category": "indonesia_bpom/safety",
+            "date_restrict": "m6",
+            "skip_domain_filter": True,
+            "note": "Indonesian medical device alerts via search (Bahasa + English).",
+        },
+    },
+    "malaysia_mda": {
+        "device_safety": {
+            "name": "MDA Medical Device Safety (Malaysia)",
+            "url": "https://www.mda.gov.my/",
+            "check_type": "google_search",
+            "google_query": "site:mda.gov.my medical device recall FSCA safety alert guidance 2026",
+            "category": "malaysia_mda/safety",
+            "date_restrict": "m6",
+            "skip_domain_filter": True,
+            "note": "MDA Malaysia medical device safety via search (English).",
+        },
+    },
+    "thailand_fda": {
+        "device_safety": {
+            "name": "Thai FDA Medical Device Alerts (Thailand)",
+            "url": "https://www.fda.moph.go.th/",
+            "check_type": "google_search",
+            "google_query": "Thailand FDA medical device recall safety alert FSCA regulation 2026",
+            "category": "thailand_fda/safety",
+            "date_restrict": "m6",
+            "skip_domain_filter": True,
+            "note": "Thai FDA medical device alerts via search (Thai + English).",
+        },
+    },
+    "israel_moh": {
+        "device_safety": {
+            "name": "Israel MOH Medical Device Alerts",
+            "url": "https://www.health.gov.il/English/",
+            "check_type": "google_search",
+            "google_query": "Israel Ministry Health medical device recall FSCA safety alert regulation 2026",
+            "category": "israel_moh/safety",
+            "date_restrict": "m6",
+            "skip_domain_filter": True,
+            "note": "Israel MOH medical device alerts via search (English).",
+        },
+    },
+    "hongkong_mdco": {
+        "device_safety": {
+            "name": "Hong Kong MDCO Medical Device Safety",
+            "url": "https://www.mdco.gov.hk/",
+            "check_type": "google_search",
+            "google_query": "Hong Kong MDCO medical device recall safety alert regulation 2026",
+            "category": "hongkong_mdco/safety",
+            "date_restrict": "m6",
+            "skip_domain_filter": True,
+            "note": "HK MDCO medical device safety via search (English/Chinese).",
         },
     },
     "shared": {
@@ -2004,6 +2127,7 @@ class PMDAWhatsNewChecker:
         prev = self.state.get(source_id, {})
         prev_ids = set(prev.get("seen_ids", []))
         title_filter = source.get("title_filter")
+        title_exclude = source.get("title_exclude")
 
         try:
             resp = self.session.get(url, timeout=30)
@@ -2028,6 +2152,9 @@ class PMDAWhatsNewChecker:
                 continue
             title = entry.get("title", "")
             if title_filter and not re.search(title_filter, title, re.IGNORECASE):
+                all_ids.append(eid)
+                continue
+            if title_exclude and re.search(title_exclude, title, re.IGNORECASE):
                 all_ids.append(eid)
                 continue
             all_ids.append(eid)
@@ -2316,7 +2443,12 @@ class PMDARecallsChecker:
         return None
 
     def _parse_recall_table(self, html: str, recall_class: str) -> list[dict]:
-        """Parse PMDA Japanese recall table page."""
+        """Parse PMDA Japanese recall table page.
+
+        Table columns: [0] recall_num, [1] pub_date, [2] device_type,
+        [3] generic_name, [4] product_name (has <a> detail link), [5] manufacturer.
+        Detail links use /rgo/MainServlet?recallno=xxx format.
+        """
         results = []
         try:
             from bs4 import BeautifulSoup
@@ -2332,12 +2464,15 @@ class PMDARecallsChecker:
                 product_name = cells[4].get_text(strip=True)
                 manufacturer = cells[5].get_text(strip=True) if len(cells) > 5 else ""
                 detail_link = ""
-                a_tag = cells[0].find("a")
-                if a_tag and a_tag.get("href"):
-                    href = a_tag["href"]
-                    if not href.startswith("http"):
-                        href = "https://www.info.pmda.go.jp" + href
-                    detail_link = href
+                for cell in cells:
+                    a_tag = cell.find("a")
+                    if a_tag and a_tag.get("href"):
+                        href = a_tag["href"]
+                        if not href.startswith("http"):
+                            href = "https://www.info.pmda.go.jp" + href
+                        if "MainServlet" in href or "kaisyuu" in href:
+                            detail_link = href
+                            break
                 if not detail_link:
                     yy = str(datetime.now().year % 100).zfill(2)
                     cls_suffix = "1k" if recall_class == "I" else "2k"
@@ -2829,10 +2964,13 @@ class UpdateChecker:
         self.mfds = MFDSChecker(session, self.state, seed_mode)
         self.generic_page = GenericPageChecker(session, self.state)
         # Tier 2 checkers (Phase 3b)
-        from tier2_checkers import TGARSSChecker, SwissmedicChecker, SFDAChecker
+        from tier2_checkers import (TGARSSChecker, SwissmedicChecker, SFDAChecker,
+                                    ANVISAChecker, MedsafeChecker)
         self.tga_rss = TGARSSChecker(session, self.state, seed_mode)
         self.swissmedic = SwissmedicChecker(session, self.state, seed_mode)
         self.sfda = SFDAChecker(session, self.state, seed_mode)
+        self.anvisa = ANVISAChecker(session, self.state, seed_mode)
+        self.medsafe = MedsafeChecker(session, self.state, seed_mode)
         self.llm = LLMVersionAnalyzer(LLM_API_KEY, LLM_BASE_URL, LLM_MODEL)
         if self.vertex.available:
             print("INFO: Using Vertex AI Search (searchLite) for web queries.")
@@ -2913,6 +3051,10 @@ class UpdateChecker:
             return self.sfda.check(source_id, source)
         elif check_type == "sfda_rss":
             return self.sfda.check(source_id, source)
+        elif check_type == "anvisa_page":
+            return self.anvisa.check(source_id, source)
+        elif check_type == "medsafe_page":
+            return self.medsafe.check(source_id, source)
         elif check_type == "generic_page":
             return self.generic_page.check(source_id, source)
         elif check_type == "eurlex_amendment":
@@ -3077,6 +3219,11 @@ def main():
             updates.extend(checker.check_regulation(grp))
     elif args.check == "tier2":
         for grp in ("switzerland", "brazil_anvisa", "saudi_sfda", "singapore_hsa", "india_cdsco"):
+            updates.extend(checker.check_regulation(grp))
+    elif args.check == "tier3":
+        for grp in ("mexico_cofepris", "argentina_anmat", "taiwan_tfda",
+                     "newzealand_medsafe", "indonesia_bpom", "malaysia_mda",
+                     "thailand_fda", "israel_moh", "hongkong_mdco"):
             updates.extend(checker.check_regulation(grp))
     else:
         updates = checker.check_regulation(args.check)

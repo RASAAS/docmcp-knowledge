@@ -21,6 +21,8 @@ FRAMEWORKS = [
     "eu_mdr", "fda", "nmpa", "_shared",
     "uk_mhra", "canada", "australia_tga", "japan_pmda", "korea_mfds",
     "switzerland", "brazil_anvisa", "saudi_sfda", "singapore_hsa", "india_cdsco",
+    "mexico_cofepris", "argentina_anmat", "taiwan_tfda", "newzealand_medsafe",
+    "indonesia_bpom", "malaysia_mda", "thailand_fda", "israel_moh", "hongkong_mdco",
 ]
 
 FRAMEWORK_NAMES = {
@@ -38,6 +40,15 @@ FRAMEWORK_NAMES = {
     "saudi_sfda": {"en": "Saudi SFDA", "zh": "Saudi SFDA"},
     "singapore_hsa": {"en": "Singapore HSA", "zh": "Singapore HSA"},
     "india_cdsco": {"en": "India CDSCO", "zh": "India CDSCO"},
+    "mexico_cofepris": {"en": "Mexico COFEPRIS", "zh": "Mexico COFEPRIS"},
+    "argentina_anmat": {"en": "Argentina ANMAT", "zh": "Argentina ANMAT"},
+    "taiwan_tfda": {"en": "Taiwan TFDA", "zh": "Taiwan TFDA"},
+    "newzealand_medsafe": {"en": "New Zealand Medsafe", "zh": "New Zealand Medsafe"},
+    "indonesia_bpom": {"en": "Indonesia BPOM", "zh": "Indonesia BPOM"},
+    "malaysia_mda": {"en": "Malaysia MDA", "zh": "Malaysia MDA"},
+    "thailand_fda": {"en": "Thailand FDA", "zh": "Thailand FDA"},
+    "israel_moh": {"en": "Israel MOH", "zh": "Israel MOH"},
+    "hongkong_mdco": {"en": "Hong Kong MDCO", "zh": "Hong Kong MDCO"},
 }
 
 CATEGORY_LABELS = {
