@@ -704,35 +704,12 @@
   "australia_tga/safety_updates": {
     "url": "https://www.tga.gov.au/safety/safety-monitoring-and-information",
     "last_checked": "2026-07-01T14:54:16.006114",
-    "seen_titles": [
-      "Automated Impella Controller Correction due to Cybersecurity Issue",
-      "FDA - Therapeutic Goods, Australia, Medical Device GMP ...",
-      "Medical Device Recalls and Early Alerts - FDA",
-      "The FDA Safety Information and Adverse Event Reporting Program",
-      "AXIOS Stent and Electrocautery Enhanced Delivery System - FDA",
-      "FDA-Australia Cooperative Agreement regarding Exchange of ...",
-      "Insulet Initiates Voluntary Medical Device Correction for ... - FDA",
-      "TGA Australia - FDA, Confidentiality Commitment",
-      "Boston Scientific Updates Use Instructions for WATCHMAN ... - FDA",
-      "Abbott Diabetes Care Removes Certain FreeStyle Libre 3 and ... - FDA",
-      "Intuitive Surgical Removes 8mm SureForm 30 Gray Reloads - FDA",
-      "Medical Device Safety - FDA",
-      "Communications Pilot to Enhance Medical Device Recall Program",
-      "Australia's Robust Strategy for Regional and Global Medical Product ..."
-    ]
+    "seen_titles": []
   },
   "australia_tga/regulations": {
     "url": "https://www.tga.gov.au/products/medical-devices",
     "last_checked": "2026-07-01T14:54:19.508837",
-    "seen_titles": [
-      "Software as a Medical Device (SaMD) - FDA",
-      "ISO 16142-1:2016(en), Medical devices",
-      "Medical Device Classification Product Codes - Guidance for ... - FDA",
-      "Medical Device Single Audit Program Frequently Asked Questions",
-      "Medical Device Single Audit Program (MDSAP) - FDA",
-      "MDCG 2021-24 Rev.1 Guidance on classification of medical devices",
-      "Artificial Intelligence in Software as a Medical Device - FDA"
-    ]
+    "seen_titles": []
   },
   "korea_mfds/md_search": {
     "url": "https://www.mfds.go.kr/eng/index.do",
@@ -886,82 +863,7 @@
   "switzerland/fsca": {
     "url": "https://fsca.swissmedic.ch/mep/api/publications/export?direction=DESC&onlyUpdates=false&sortingProperty=PUBLICATION_DATE",
     "last_checked": "2026-07-03T07:44:50.323986",
-    "seen_refs": [
-      "Vk_20260521_003",
-      "Vk_20260626_004",
-      "Vk_20260522_044",
-      "Vk_20260518_067",
-      "Vk_20260528_020",
-      "Vk_20260519_021",
-      "Vk_20260318_029",
-      "Vk_20260626_024",
-      "Vk_20260623_005",
-      "Vk_20260602_019",
-      "Vk_20260623_023",
-      "Vk_20260414_037",
-      "Vk_20260520_002",
-      "Vk_20260505_027",
-      "Vk_20260625_032",
-      "Vk_20260513_001",
-      "Vk_20260529_026",
-      "Vk_20260609_024",
-      "Vk_20260615_023",
-      "Vk_20260601_020",
-      "Vk_20260624_019",
-      "Vk_20260428_007",
-      "Vk_20260205_027",
-      "Vk_20260611_040",
-      "Vk_20260521_029",
-      "Vk_20260518_074",
-      "Vk_20260612_006",
-      "Vk_20260528_021",
-      "Vk_20260604_021",
-      "Vk_20260624_027",
-      "Vk_20260513_045",
-      "Vk_20260605_010",
-      "Vk_20260410_042",
-      "Vk_20260617_014",
-      "Vk_20260511_010",
-      "Vk_20260610_026",
-      "Vk_20260622_053",
-      "Vk_20260624_007",
-      "Vk_20260519_055",
-      "Vk_20250704_25",
-      "Vk_20260622_030",
-      "Vk_20260626_015",
-      "Vk_20260622_051",
-      "Vk_20260527_039",
-      "Vk_20260624_032",
-      "Vk_20260611_006",
-      "Vk_20260529_001",
-      "Vk_20260528_025",
-      "Vk_20260520_008",
-      "Vk_20260605_020",
-      "Vk_20260701_035",
-      "Vk_20260427_026",
-      "Vk_20260619_023",
-      "Vk_20260526_032",
-      "Vk_20260428_037",
-      "Vk_20260519_056",
-      "Vk_20260527_038",
-      "Vk_20260521_013",
-      "Vk_20260522_022",
-      "Vk_20260429_014",
-      "Vk_20260612_030",
-      "Vk_20260618_031",
-      "Vk_20260616_001",
-      "Vk_20260603_022",
-      "Vk_20260605_019",
-      "Vk_20260622_011",
-      "Vk_20260615_002",
-      "Vk_20260603_008",
-      "Vk_20260513_028",
-      "Vk_20260520_001",
-      "Vk_20260605_024",
-      "Vk_20260617_007",
-      "Vk_20260521_019",
-      "Vk_20250508_31"
-    ]
+    "seen_refs": []
   },
   "brazil_anvisa/tecnovigilance": {
     "url": "https://antigo.anvisa.gov.br/alertas?tagsName=tecnovigil%C3%A2ncia",
@@ -989,27 +891,12 @@
   "saudi_sfda/weekly_alerts": {
     "url": "https://www.sfda.gov.sa/en/weekly-alert",
     "last_checked": "2026-07-03T07:44:56.114226",
-    "seen_ids": [
-      "WU2619",
-      "WU2627",
-      "WU2617",
-      "WU2626",
-      "WU2625",
-      "WU2624",
-      "WU2622",
-      "WU2620",
-      "WU2618",
-      "WU2621"
-    ]
+    "seen_ids": []
   },
   "saudi_sfda/device_news_rss": {
     "url": "https://www.sfda.gov.sa/en/news.xml?tags=3",
     "last_checked": "2026-07-03T07:44:57.336537",
-    "seen_ids": [
-      "https://www.sfda.gov.sa/en/news/4348967",
-      "https://www.sfda.gov.sa/ar/news/4129105",
-      "https://www.sfda.gov.sa/en/news/4883559"
-    ]
+    "seen_ids": []
   },
   "singapore_hsa/device_safety": {
     "url": "https://www.hsa.gov.sg/medical-devices",
@@ -1029,15 +916,7 @@
   "india_cdsco/regulations": {
     "url": "https://cdsco.gov.in/opencms/opencms/en/Medical-Device-Diagnostics/",
     "last_checked": "2026-07-03T07:45:07.903567",
-    "seen_titles": [
-      "queryResult - FDA",
-      "Recalled Philips Ventilators, BiPAP Machines, and CPAP ... - FDA",
-      "National Medical Products Administration",
-      "December 16, 2025 Skanray Technologies Limited Vasundhara R ...",
-      "Clinical investigation of medical devices for human subjects - ISO",
-      "OZEMPIC (semaglutide) injection - accessdata.fda.gov",
-      "ISO 13485 — Medical devices"
-    ]
+    "seen_titles": []
   },
   "japan_pmda/whats_new_en": {
     "url": "https://www.pmda.go.jp/english/0006.html",
@@ -1158,19 +1037,12 @@
   "mexico_cofepris/safety_alerts": {
     "url": "https://www.gob.mx/cofepris/acciones-y-programas/alertas-sanitarias",
     "last_checked": "2026-07-03T07:45:09.386906",
-    "seen_titles": [
-      "ACTUALIZACIÓN: Se retiran del mercado ciertos ventiladores ... - FDA",
-      "FDA en español",
-      "¿Está realmente “aprobado por la FDA”?",
-      "¿Qué regula la FDA?"
-    ]
+    "seen_titles": []
   },
   "argentina_anmat/safety_alerts": {
     "url": "https://www.argentina.gob.ar/anmat/alertas",
     "last_checked": "2026-07-03T07:45:10.802802",
-    "seen_titles": [
-      "FDA en español"
-    ]
+    "seen_titles": []
   },
   "taiwan_tfda/safety_alerts": {
     "url": "https://www.fda.gov.tw/TC/site.aspx?sid=7383",
@@ -1190,38 +1062,16 @@
   "thailand_fda/device_safety": {
     "url": "https://www.fda.moph.go.th/",
     "last_checked": "2026-07-03T07:45:19.242022",
-    "seen_titles": [
-      "Class 1 Device Recall Philips Respironics Trilogy Evo",
-      "Class 2 Device Recall Cardiosave Rescue - accessdata.fda.gov",
-      "Class 2 Device Recall FilmArray Blood Culture Identification (BCID ...",
-      "Class 2 Device Recall Infa Warmer i - accessdata.fda.gov",
-      "Class 2 Device Recall GE Healthcare - accessdata.fda.gov",
-      "Class 2 Device Recall Barcode Conical Collimator Verification (BCCV)",
-      "Class 1 Device Recall Maquet Critical Care AB/Getinge Servou ..."
-    ]
+    "seen_titles": []
   },
   "israel_moh/device_safety": {
     "url": "https://www.health.gov.il/English/",
     "last_checked": "2026-07-03T07:45:20.816750",
-    "seen_titles": [
-      "Class 1 Device Recall Philips Respironics Trilogy Evo",
-      "Class 2 Device Recall Cardiosave Rescue - accessdata.fda.gov",
-      "Search Databases - FDA",
-      "Class 1 Device Recall Dexcom G7 Continuous Glucose Monitoring ...",
-      "Class 2 Device Recall GE Healthcare - accessdata.fda.gov",
-      "Class 1 Device Recall Phasitron 5 InLine Valve",
-      "Class 2 Device Recall FemTouch delivery system",
-      "Class 2 Device Recall Sierra Scientific Motility Visualization System ...",
-      "Class 2 Device Recall FreeStyle Comfort Oxygen Concentrator",
-      "Class 1 Device Recall Maquet Critical Care AB/Getinge Servou ..."
-    ]
+    "seen_titles": []
   },
   "hongkong_mdco/device_safety": {
     "url": "https://www.mdco.gov.hk/",
     "last_checked": "2026-07-03T07:45:22.890178",
-    "seen_titles": [
-      "2018log - FDA",
-      "FDA FOIA Log FY2016"
-    ]
+    "seen_titles": []
   }
 }

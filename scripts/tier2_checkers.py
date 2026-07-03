@@ -1159,7 +1159,24 @@ class COFEPRISChecker:
 
 
 class ANMATChecker:
-    """Parse ANMAT (Argentina) alertas page for medical device safety alerts."""
+    """Parse ANMAT (Argentina) alertas page for medical device safety alerts.
+
+    Parses the main alertas page which lists alerts with dates.
+    Filters for 'producto medico' (medical device) alerts specifically.
+    Falls back to the dedicated /alertas/productos-medicos subpage if available.
+    """
+
+    MONTH_MAP_ES = {
+        "enero": "01", "febrero": "02", "marzo": "03", "abril": "04",
+        "mayo": "05", "junio": "06", "julio": "07", "agosto": "08",
+        "septiembre": "09", "octubre": "10", "noviembre": "11", "diciembre": "12",
+    }
+
+    DEVICE_KW = re.compile(
+        r"(?i)(producto\s+m[eé]dico|dispositivo|equipo|implant|"
+        r"pr[oó]tesis|reactivo|diagn[oó]stico|medical|device|"
+        r"instrumental|material\s+descartable|esteriliz)"
+    )
 
     def __init__(self, session, state: dict, seed_mode: bool = False):
         self.session = session
@@ -1170,7 +1187,7 @@ class ANMATChecker:
         url = source["url"]
         try:
             from bs4 import BeautifulSoup
-            resp = self.session.get(url, timeout=15)
+            resp = self.session.get(url, timeout=30)
             resp.raise_for_status()
             resp.encoding = resp.apparent_encoding or "utf-8"
             soup = BeautifulSoup(resp.text, "html.parser")
@@ -1180,29 +1197,47 @@ class ANMATChecker:
             new_items = []
             all_titles = list(prev_titles)
 
-            device_kw = re.compile(
-                r"(?i)(producto\s+m[eé]dico|dispositivo|equipo|implant|"
-                r"pr[oó]tesis|reactivo|diagn[oó]stico|medical|device|"
-                r"instrumental|material\s+descartable|esteriliz)"
-            )
-
             for a_tag in soup.find_all("a", href=True):
-                title = a_tag.get_text(strip=True)[:200]
-                if not title or len(title) < 15:
+                text = a_tag.get_text(strip=True)[:200]
+                if not text or len(text) < 20:
                     continue
                 href = a_tag["href"]
-                if "/alertas/" not in href and "/anmat/" not in href.lower():
-                    continue
                 if not href.startswith("http"):
                     href = "https://www.argentina.gob.ar" + href
 
-                if title in prev_titles:
+                if not self.DEVICE_KW.search(text):
                     continue
-                all_titles.append(title)
+
+                if text in prev_titles:
+                    continue
+                all_titles.append(text)
+
+                dm = re.search(
+                    r"(\d{1,2})\s+de\s+(\w+)\s+de\s+(\d{4})", text)
+                pub_date = ""
+                if dm:
+                    month = self.MONTH_MAP_ES.get(dm.group(2).lower(), "")
+                    if month:
+                        pub_date = f"{dm.group(3)}-{month}-{dm.group(1).zfill(2)}"
+
+                parent = a_tag.find_parent()
+                if parent and not pub_date:
+                    sibling_text = ""
+                    prev_sib = parent.find_previous_sibling()
+                    if prev_sib:
+                        sibling_text = prev_sib.get_text(strip=True)
+                    dm2 = re.search(
+                        r"(\d{1,2})\s+de\s+(\w+)\s+de\s+(\d{4})", sibling_text)
+                    if dm2:
+                        month = self.MONTH_MAP_ES.get(dm2.group(2).lower(), "")
+                        if month:
+                            pub_date = f"{dm2.group(3)}-{month}-{dm2.group(1).zfill(2)}"
+
                 new_items.append({
-                    "title": title,
+                    "title": text,
                     "link": href,
-                    "description": f"ANMAT Alert: {title[:200]}",
+                    "pub_date": pub_date,
+                    "description": f"ANMAT Alert: {text[:200]}",
                 })
 
             self.state[source_id] = {
@@ -1225,3 +1260,85 @@ class ANMATChecker:
         except Exception as e:
             print(f"    ERROR ANMAT: {e}")
             return None
+
+
+class TFDAOpenDataChecker:
+    """Check Taiwan TFDA medical device safety alerts via open data API.
+
+    Uses the government open data API at data.fda.gov.tw which provides
+    medical device safety alert data in JSON format.
+    """
+
+    def __init__(self, session, state: dict, seed_mode: bool = False):
+        self.session = session
+        self.state = state
+        self.seed_mode = seed_mode
+
+    def check(self, source_id: str, source: dict) -> Optional[dict]:
+        url = source["url"]
+        prev = self.state.get(source_id, {})
+        prev_ids = set(prev.get("seen_ids", []))
+
+        try:
+            resp = self.session.get(url, timeout=30, headers={
+                "Accept": "application/json",
+            })
+            resp.raise_for_status()
+            data = resp.json()
+        except Exception as e:
+            print(f"    ERROR TFDA OpenData: {e}")
+            return None
+
+        if not isinstance(data, list) or not data:
+            print("    WARNING: TFDA OpenData returned empty or non-list response")
+            return None
+
+        print(f"    INFO: Parsed {len(data)} entries from TFDA OpenData API")
+
+        new_items = []
+        all_ids = list(prev_ids)
+
+        for row in data:
+            title = row.get("Title", row.get("title", ""))
+            if not title:
+                continue
+            link = row.get("Link", row.get("link", ""))
+            pub_date = row.get("Release date", row.get("PublishDate", ""))
+            if pub_date:
+                pub_date = pub_date[:10]
+
+            eid = link or title
+            if eid in prev_ids:
+                continue
+            all_ids.append(eid)
+
+            if not link or not link.startswith("http"):
+                link = "https://www.fda.gov.tw/"
+
+            new_items.append({
+                "title": title,
+                "link": link,
+                "pub_date": pub_date,
+                "description": f"TFDA medical device safety alert: {title[:200]}",
+            })
+
+        self.state[source_id] = {
+            "url": url,
+            "last_checked": datetime.now().isoformat(),
+            "seen_ids": all_ids[-500:],
+        }
+
+        if new_items and (prev_ids or self.seed_mode):
+            if self.seed_mode and not prev_ids:
+                new_items = new_items[:10]
+                print(f"    INFO: Seed mode -- returning top {len(new_items)} TFDA entries")
+            result = _make_update(
+                source_id, source, "tfda_opendata",
+                f"{len(new_items)} new TFDA safety alert(s) detected"
+            )
+            result["new_items"] = new_items
+            return result
+        elif not prev_ids:
+            print(f"    INFO: Baseline established ({len(data)} TFDA entries)")
+
+        return None

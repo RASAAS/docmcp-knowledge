@@ -347,10 +347,10 @@ SOURCES = {
     "mexico_cofepris": {
         "safety_alerts": {
             "name": "COFEPRIS Medical Device Safety Alerts (Mexico)",
-            "url": "https://www.gob.mx/cofepris/acciones-y-programas/alertas-sanitarias",
+            "url": "https://www.gob.mx/cofepris/acciones-y-programas/alertas-sanitarias-336947",
             "check_type": "cofepris_page",
             "category": "mexico_cofepris/safety",
-            "note": "Direct HTML parsing of COFEPRIS alertas sanitarias page (Spanish).",
+            "note": "Direct HTML parsing of COFEPRIS alertas sanitarias page (Spanish). URL updated 2026-07.",
         },
     },
     "argentina_anmat": {
@@ -363,8 +363,13 @@ SOURCES = {
         },
     },
     "taiwan_tfda": {
-        # safety_alerts: removed (was google_search, deprecated; TFDA page requires JS rendering)
-        # TODO: implement TFDA RSS or API parser when available
+        "safety_alerts": {
+            "name": "Taiwan TFDA Medical Device Safety Alerts (Open Data API)",
+            "url": "https://data.fda.gov.tw/opendata/exportDataList.do?method=ExportData&InfoId=14&PageRow=30",
+            "check_type": "tfda_opendata",
+            "category": "taiwan_tfda/safety",
+            "note": "Taiwan government open data API for medical device safety alerts (JSON).",
+        },
     },
     "newzealand_medsafe": {
         "safety_comms": {
@@ -2780,7 +2785,8 @@ class UpdateChecker:
         from tier2_checkers import (TGARSSChecker, SwissmedicChecker, SFDAChecker,
                                     ANVISAChecker, MedsafeChecker,
                                     HSAGuidanceChecker, HSAAnnouncementsChecker,
-                                    COFEPRISChecker, ANMATChecker)
+                                    COFEPRISChecker, ANMATChecker,
+                                    TFDAOpenDataChecker)
         self.tga_rss = TGARSSChecker(session, self.state, seed_mode)
         self.swissmedic = SwissmedicChecker(session, self.state, seed_mode)
         self.sfda = SFDAChecker(session, self.state, seed_mode)
@@ -2790,6 +2796,7 @@ class UpdateChecker:
         self.hsa_announcements = HSAAnnouncementsChecker(session, self.state, seed_mode)
         self.cofepris = COFEPRISChecker(session, self.state, seed_mode)
         self.anmat = ANMATChecker(session, self.state, seed_mode)
+        self.tfda = TFDAOpenDataChecker(session, self.state, seed_mode)
         self.llm = LLMVersionAnalyzer(LLM_API_KEY, LLM_BASE_URL, LLM_MODEL)
         print("INFO: Google Search deprecated - all sources use direct parsing.")
         if not self.llm.available:
@@ -2876,6 +2883,8 @@ class UpdateChecker:
             return self.cofepris.check(source_id, source)
         elif check_type == "anmat_page":
             return self.anmat.check(source_id, source)
+        elif check_type == "tfda_opendata":
+            return self.tfda.check(source_id, source)
         elif check_type == "generic_page":
             return self.generic_page.check(source_id, source)
         elif check_type == "eurlex_amendment":
