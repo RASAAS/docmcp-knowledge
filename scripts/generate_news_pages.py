@@ -18,18 +18,18 @@ NEWS_DIR = REPO_ROOT / "regulatory_news"
 DOCS_DIR = REPO_ROOT / "docs"
 
 FRAMEWORKS = [
-    "eu_mdr", "fda", "nmpa", "_shared",
+    "eu_mdr", "fda", "nmpa",
     "uk_mhra", "canada", "australia_tga", "japan_pmda", "korea_mfds",
-    "switzerland", "brazil_anvisa", "saudi_sfda", "singapore_hsa", "india_cdsco",
-    "mexico_cofepris", "argentina_anmat", "taiwan_tfda", "newzealand_medsafe",
-    "indonesia_bpom", "malaysia_mda", "thailand_fda", "israel_moh", "hongkong_mdco",
+    "switzerland", "brazil_anvisa", "saudi_sfda", "singapore_hsa",
+    "mexico_cofepris", "argentina_anmat", "newzealand_medsafe",
+    "taiwan_tfda", "indonesia_bpom", "malaysia_mda",
+    "thailand_fda", "israel_moh", "hongkong_mdco", "india_cdsco",
 ]
 
 FRAMEWORK_NAMES = {
     "eu_mdr": {"en": "EU MDR/IVDR", "zh": "EU MDR/IVDR"},
     "fda": {"en": "FDA", "zh": "FDA"},
     "nmpa": {"en": "NMPA", "zh": "NMPA"},
-    "_shared": {"en": "ISO/IEC Standards", "zh": "ISO/IEC\u6807\u51c6"},
     "uk_mhra": {"en": "UK MHRA", "zh": "UK MHRA"},
     "canada": {"en": "Health Canada", "zh": "Health Canada"},
     "australia_tga": {"en": "Australia TGA", "zh": "Australia TGA"},
@@ -49,6 +49,16 @@ FRAMEWORK_NAMES = {
     "thailand_fda": {"en": "Thailand FDA", "zh": "Thailand FDA"},
     "israel_moh": {"en": "Israel MOH", "zh": "Israel MOH"},
     "hongkong_mdco": {"en": "Hong Kong MDCO", "zh": "Hong Kong MDCO"},
+}
+
+AGENCY_URLS = {
+    "india_cdsco": "https://cdsco.gov.in/",
+    "taiwan_tfda": "https://www.fda.gov.tw/",
+    "indonesia_bpom": "https://www.pom.go.id/",
+    "malaysia_mda": "https://www.mda.gov.my/",
+    "thailand_fda": "https://www.fda.moph.go.th/",
+    "israel_moh": "https://www.gov.il/en/departments/ministry_of_health/",
+    "hongkong_mdco": "https://www.mdco.gov.hk/",
 }
 
 CATEGORY_LABELS = {
@@ -122,7 +132,7 @@ def render_item_md(item: dict, lang: str) -> str:
     return "\n".join(lines)
 
 
-def generate_index_page(items: list[dict], lang: str) -> str:
+def generate_index_page(items: list[dict], lang: str, framework: str = "") -> str:
     """Generate the main news index page."""
     if lang == "zh":
         title = "法规速递"
@@ -143,8 +153,24 @@ def generate_index_page(items: list[dict], lang: str) -> str:
     ]
 
     if not items:
-        no_news = "No news available yet." if lang == "en" else "暂无法规动态。"
-        lines.append(no_news)
+        agency_url = AGENCY_URLS.get(framework, "")
+        fw_name = FRAMEWORK_NAMES.get(framework, {}).get(lang, framework)
+        if framework and agency_url:
+            if lang == "zh":
+                lines.append(f"::: info 数据源对接中")
+                lines.append(f"{fw_name} 的官方数据源正在对接中。该机构官方网站使用动态渲染技术，暂时无法通过自动化方式采集。")
+                lines.append(f"")
+                lines.append(f"请直接访问官方网站获取最新信息：[{fw_name} 官网]({agency_url})")
+                lines.append(f":::")
+            else:
+                lines.append(f"::: info Data Source Integration In Progress")
+                lines.append(f"The official data source for {fw_name} is currently being integrated. The agency website uses dynamic rendering and cannot be automatically collected at this time.")
+                lines.append(f"")
+                lines.append(f"Please visit the official website for the latest information: [{fw_name} Official Site]({agency_url})")
+                lines.append(f":::")
+        else:
+            no_news = "No news available yet." if lang == "en" else "暂无法规动态。"
+            lines.append(no_news)
         return "\n".join(lines)
 
     for item in items:
@@ -169,7 +195,7 @@ def main():
         for fw in FRAMEWORKS:
             fw_items = [i for i in all_items if i.get("framework") == fw]
             fw_name = FRAMEWORK_NAMES.get(fw, {}).get(lang, fw)
-            fw_content = generate_index_page(fw_items, lang)
+            fw_content = generate_index_page(fw_items, lang, framework=fw)
             fw_content = fw_content.replace(
                 f"# {'法规速递' if lang == 'zh' else 'Regulatory News'}",
                 f"# {fw_name} {'法规速递' if lang == 'zh' else 'Regulatory News'}",

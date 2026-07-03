@@ -158,162 +158,6 @@ Health Canada has issued a safety alert for the NephroMax High Pressure Nephrost
 
 ---
 
-### NMPA Issues Amendment Sheets for YY 0068.4-2009 and Six Other Industry Standards for Medical Devices
-
-**2026-07-01** | NMPA | Standard Revision | !! MEDIUM
-
-On August 29, 2023, NMPA released amendment sheets for seven medical device industry standards, including YY 0068.4-2009 'Medical Endoscopes – Rigid Endoscopes – Part 4: Basic Requirements'. The amendments update technical specifications and testing methods. Manufacturers, importers, and testing agencies of rigid endoscopes and related products must review the changes and integrate them into technical documentation and quality systems by the specified effective dates to maintain regulatory compliance.
-
-**Tags**: `nmpa`, `industry_standard_amendment`, `rigid_endoscopes`, `yy0068_4`, `standards_update`
-
-[View Source (NMPA)](https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/ggtg/ylqxggtg/ylqxhybzhgg/20230829153040160.html)
-
----
-
-### CMDE Guideline on Shelf Life of Non-active Implantable Medical Devices
-
-**2026-07-01** | NMPA | New Guidance | !!! HIGH
-
-This guidance document from China's CMDE specifies general requirements for establishing and documenting the shelf life of non-active implantable medical devices. It applies to manufacturers seeking NMPA registration for such devices and covers aspects like stability testing protocols. Applicants must use this guidance when preparing shelf life evidence, while other technical requirements remain subject to separate regulations and guidance documents.
-
-**Tags**: `non_active_implantable`, `shelf_life`, `cmde_guidance`, `stability`, `regulatory_submission`
-
-[View Source (Official Source)](https://www.cmde.org.cn/images/1267747813062.doc?type=pc&m=)
-
----
-
-### New Guidance Standard: YY/T 0316 Application Guide for Medical Device Risk Management
-
-**2026-07-01** | NMPA | Standard Revision | !! MEDIUM
-
-This standard offers guidance on establishing, implementing, and maintaining a medical device risk management process conforming to YY/T 0316 (Chinese adoption of ISO 14971). It is designed to help manufacturers understand and apply YY/T 0316 requirements. The guide is now listed on the National Standard Information Public Service Platform. Manufacturers should review the document to ensure their risk management systems are aligned.
-
-**Tags**: `risk_management`, `yy_t0316`, `guidance`, `medical_device`, `standards`
-
-[View Source (Official Source)](https://std.samr.gov.cn/hb/search/stdHBDetailed?id=8B1827F248CABB19E05397BE0A0AB44A)
-
----
-
-### IEC 62304:2006+AMD1:2015 CSV Published – Consolidated Medical Device Software Lifecycle Standard
-
-**2026-07-01** | ISO/IEC Standards | Standard Revision | !! MEDIUM
-
-IEC 62304:2006+AMD1:2015 CSV consolidates the original standard with its 2015 Amendment 1, offering a single, up-to-date reference for medical device software lifecycle processes. It affects all manufacturers developing software for medical devices, including software as a medical device (SaMD). Companies should review their software development and maintenance procedures to ensure alignment with the revised requirements, facilitating global regulatory compliance.
-
-**Tags**: `iec_62304`, `software_lifecycle`, `medical_device_software`, `consolidated_standard`, `regulatory_compliance`
-
-[View Source (IEC)](https://webstore.iec.ch/en/publication/22794)
-
----
-
-### ISO 14971:2019 - Medical devices — Application of risk management
-
-**2026-07-01** | ISO/IEC Standards | Standard Revision | !!! HIGH
-
-ISO 14971:2019 is the core international standard outlining a comprehensive risk management framework for all medical device manufacturers throughout the product lifecycle. It specifies terminology, principles, and processes to identify, evaluate, control, and monitor risks, with the 2019 edition introducing clarifications on benefit-risk analysis and post-market activities. Compliance with this standard is essential for meeting regulatory requirements such as EU MDR and FDA Quality System Regulations.
-
-**Tags**: `iso_14971`, `risk_management`, `medical_devices`, `standard`
-
-[View Source (ISO)](https://www.iso.org/standard/72704.html)
-
----
-
-### ISO 10993-18:2005 – Chemical Characterization of Materials for Biological Evaluation of Medical Devices
-
-**2026-07-01** | ISO/IEC Standards | Standard Revision | !! MEDIUM
-
-This standard specifies the framework for identifying and quantifying chemical constituents released from medical device materials as part of biological evaluation. It applies to manufacturers whose devices contact the body directly or indirectly, requiring a thorough chemical characterization to support toxicological risk assessment. Key actions include performing extraction studies, analyzing leachable substances, and documenting the chemical profile in accordance with the ISO 10993 series. Compliance with this standard helps demonstrate the safety of device materials under ISO 10993-1.
-
-**Tags**: `biocompatibility`, `chemical_characterization`, `iso_10993`
-
-[View Source (ISO)](https://www.iso.org/standard/41106.html)
-
----
-
-### ISO 10993-10:2002 – Biological evaluation of medical devices: Irritation and skin sensitization testing
-
-**2026-07-01** | ISO/IEC Standards | Standard Revision | ! LOW
-
-This standard specifies procedures for assessing the potential of medical device materials to cause irritation and skin sensitization. It is intended for manufacturers, testing laboratories, and regulatory professionals involved in biocompatibility evaluations. The 2002 edition has been superseded by ISO 10993-10:2010, so stakeholders should transition to the current version to meet regulatory expectations.
-
-**Tags**: `iso_10993_10`, `biocompatibility`, `irritation`, `skin_sensitization`, `medical_device_testing`
-
-[View Source (ISO)](https://www.iso.org/standard/33364.html)
-
----
-
-### ISO 14971:2000 Withdrawn – Transition to ISO 14971:2019 for Medical Device Risk Management
-
-**2026-07-01** | ISO/IEC Standards | Standard Revision | !! MEDIUM
-
-The first edition of ISO 14971:2000, the international standard for risk management of medical devices, has been withdrawn and superseded by ISO 14971:2019. This update affects all medical device manufacturers and regulatory professionals who must align their risk management processes with the third edition. The 2019 version introduces refined risk concepts and explicit requirements that impact design, production, and post-market surveillance. Transitioning is essential to maintain compliance with global regulations that reference this core standard.
-
-**Tags**: `risk_management`, `iso_14971`, `standard_update`, `medical_device_compliance`
-
-[View Source (ISO)](https://www.iso.org/standard/31550.html)
-
----
-
-### IEC 60601-1:2005 – General Safety and Essential Performance Standard for Medical Electrical Equipment
-
-**2026-07-01** | ISO/IEC Standards | Standard Revision | ! LOW
-
-IEC 60601-1:2005 is the third edition of the core standard for medical electrical equipment, specifying general requirements for basic safety and essential performance. It applies to manufacturers of a wide range of medical devices and is harmonized by regulators such as the FDA, Health Canada, and under the EU Medical Device Regulation. Compliance typically requires testing by an accredited laboratory to demonstrate conformance, and the standard serves as the foundation for many collateral and particular standards.
-
-**Tags**: `iec_60601_1`, `basic_safety`, `essential_performance`, `medical_electrical_equipment`, `international_standard`, `regulatory_harmonization`
-
-[View Source (IEC)](https://webstore.iec.ch/en/publication/2606)
-
----
-
-### IEC 60601-1-11:2015 – Requirements for Medical Electrical Equipment in the Home Healthcare Environment
-
-**2026-07-01** | ISO/IEC Standards | Standard Revision | !! MEDIUM
-
-IEC 60601-1-11:2015 specifies general requirements for basic safety and essential performance of medical electrical equipment and systems intended for use in the home healthcare environment. This standard applies to manufacturers of devices such as ventilators, infusion pumps, and patient monitors, aiming to ensure that equipment is safe for use by lay operators, withstands home environmental conditions, and includes appropriate instructions and markings. Regulatory affairs professionals should ensure that new or modified devices comply with this standard to support market clearance applications in jurisdictions recognizing IEC 60601-1-11, and review existing product portfolios for gaps in home-use labeling and testing.
-
-**Tags**: `iec_60601_1_11`, `home_healthcare`, `medical_electrical_equipment`, `basic_safety`, `essential_performance`, `regulatory_compliance`
-
-[View Source (IEC)](https://webstore.iec.ch/en/publication/2588)
-
----
-
-### IEC 60601-1-11:2015/AMD1:2020 – Amendment to Home Healthcare Medical Electrical Equipment Standard
-
-**2026-07-01** | ISO/IEC Standards | Standard Revision | !! MEDIUM
-
-This amendment updates IEC 60601-1-11:2015, which specifies safety and performance requirements for medical electrical equipment and systems used in home healthcare environments. Manufacturers of home-use medical devices are directly affected and should review the changes to maintain compliance. Key actions include evaluating design impacts, updating risk management files, and aligning with amended normative references or test protocols. The revision may necessitate updates to technical documentation for regulatory submissions in jurisdictions that recognize IEC standards.
-
-**Tags**: `iec_60601_1_11`, `home_healthcare`, `standard_amendment`, `medical_device_compliance`, `electrical_safety`
-
-[View Source (IEC)](https://webstore.iec.ch/en/publication/59650)
-
----
-
-### IEC 60601-1-9:2007 Collateral Standard Published to Reduce Environmental Impact of Medical Electrical Equipment
-
-**2026-07-01** | ISO/IEC Standards | Standard Revision | !! MEDIUM
-
-This collateral standard to IEC 60601 sets requirements for minimizing the environmental impact of medical electrical equipment across its entire life cycle. Manufacturers must integrate environmental considerations into product design, covering material selection, energy use, and end-of-life management. Compliance may become necessary for regulatory submissions in markets that adopt IEC standards, requiring documentation of environmental aspects.
-
-**Tags**: `iec_60601`, `environmental_impact`, `collateral_standard`, `medical_electrical_equipment`
-
-[View Source (IEC)](https://webstore.iec.ch/en/publication/2601)
-
----
-
-### IEC 60601-2-25:2011 Standard for Electrocardiographs Safety and Performance Now Available
-
-**2026-07-01** | ISO/IEC Standards | Standard Revision | ! LOW
-
-The IEC 60601-2-25:2011 standard specifies particular requirements for basic safety and essential performance of electrocardiographs (ECG). It applies to medical electrical equipment in diagnostic environments and is critical for manufacturers aligning with global regulatory pathways. Manufacturers should review the scope and exclusions to confirm device compliance.
-
-**Tags**: `iec_60601`, `electrocardiograph`, `safety_standard`, `medical_electrical_equipment`
-
-[View Source (IEC)](https://webstore.iec.ch/en/publication/2636)
-
----
-
 ### MFDS Launches Innovative Medical Product Fast-Track Review with 240-Day Approval Target
 
 **2026-07-01** | Korea MFDS | Regulation Update | !!! HIGH
@@ -1008,28 +852,6 @@ Published 1 June 2026, this announcement clarifies transitional procedures when 
 
 ---
 
-### IEC 62304 Edition 2 -- Major Overhaul of Medical Device Software Standard (Aug 2026)
-
-**2026-05-22** | ISO/IEC Standards | Standard Revision | !!! HIGH
-
-Scheduled for publication 12 August 2026. Key changes: scope expanded from 'medical device software' to 'health software' (including wellness apps, remote monitoring); three safety classes replaced by two Software Process Rigor Levels (I and II); new AI/ML development lifecycle clause (5.1.15); cybersecurity integrated as core design control (referencing IEC 81001-5-1); ISO 13485 and ISO 14971 removed as normative references; legacy software moved to informative annex; new Agile guidance in Annex F. Full regulatory adoption expected 2028-2029.
-
-**Tags**: `software_lifecycle`, `ai_ml`, `cybersecurity`, `health_software`
-
-[View Source (IEC)](https://webstore.iec.ch/en/publication/22794)
-
----
-
-### GN-16 R4 Essential Principles Checklist Template (June 2018 version)172 KBAnnex 3 GN-16 R4 Essential Principles Checklis
-
-**2026-04-01** | Singapore HSA | Regulation Update | !! MEDIUM
-
-HSA medical device guidance update: GN-16 R4 Essential Principles Checklist Template (June 2018 version)172 KBAnnex 3 GN-16 R4 Essential Principles Checklist Template (Dec 2017 version)128 KBChange Management programGN-37-R1 Guidance on Change Management Program (CMP) for SaMD, including machine-learning enabled SaMD [PDF, 294 KB]Dealer's licensingManufacturers, Importers and Wholesalers LicensingGN-02-R8 Guidance on Licensing of Manufacturers Importers and Wholesalers of MD (2026 Apr)
-
-[View Source (Official Source)](https://isomer-user-content.by.gov.sg/409/38884cd0-2e55-4e93-9b86-81936494667c/gn-16-r4-guidance-on-essential-principles-for-safety-and-performance-of-medical-devices(2023-sep)-pub.pdf)
-
----
-
 ### GN-02-R8 Annex 1 Declaration for dealing with MD that are solely for export or re-export purposes
 
 **2026-04-01** | Singapore HSA | Regulation Update | !! MEDIUM
@@ -1070,7 +892,7 @@ Published 13 March 2026, defines 7 circumstances where medical devices are exemp
 
 HSA medical device guidance update: GN-15-R13 Guidance on Medical Device Product Registration (2026 Mar)
 
-[View Source (Official Source)](https://isomer-user-content.by.gov.sg/409/5dcb48bc-ebb9-4085-88bf-d8d0a61899ed/gn-15-r13-guidance-on-medical-device-product-registration-(2026-mar)-pub.pdf)
+[View Source (Official Source)](https://www.hsa.gov.sg/medical-devices/guidance-documents/)
 
 ---
 
@@ -1104,7 +926,7 @@ Effective 2 February 2026, the FDA's Quality Management System Regulation (QMSR)
 
 HSA medical device guidance update: GL-04-R4 Regulatory Guidelines for Software Medical Devices - A Life Cycle Approach (2025 Dec)
 
-[View Source (Official Source)](https://isomer-user-content.by.gov.sg/409/26808a93-6a7a-4551-8c66-13046c6124c5/gl-04-r4-regulatory-guidelines-for-software-medical-devices---a-life-cycle-approach-(2025-dec)-pub.pdf)
+[View Source (Official Source)](https://www.hsa.gov.sg/medical-devices/guidance-documents/)
 
 ---
 
@@ -1114,7 +936,7 @@ HSA medical device guidance update: GL-04-R4 Regulatory Guidelines for Software 
 
 HSA medical device guidance update: GN-34 R2 Guidance for IVD Analysers (2025 Oct)
 
-[View Source (Official Source)](https://isomer-user-content.by.gov.sg/409/803aec65-d1d6-40ce-b7b6-c984e92524ba/gn-34-r2-guidance-for-ivd-analysers-(2025-oct)-pub.pdf)
+[View Source (Official Source)](https://www.hsa.gov.sg/medical-devices/guidance-documents/)
 
 ---
 
@@ -1124,7 +946,7 @@ HSA medical device guidance update: GN-34 R2 Guidance for IVD Analysers (2025 Oc
 
 HSA medical device guidance update: GN-17 R4 Guidance on Preparation of a Product Registration Submission for GMD using the ASEAN CSDT (2025 Oct)
 
-[View Source (Official Source)](https://isomer-user-content.by.gov.sg/409/2bfa5cca-bdfc-4795-9ef0-488f67061238/gn-17-r4-guidance-on-preparation-of-a-product-registration-submission-for-gmd-using-the-asean-csdt-(2025-oct)-pub.pdf)
+[View Source (Official Source)](https://www.hsa.gov.sg/medical-devices/guidance-documents/)
 
 ---
 
@@ -1134,7 +956,7 @@ HSA medical device guidance update: GN-17 R4 Guidance on Preparation of a Produc
 
 HSA medical device guidance update: GN-18 R4 Guidance on Preparation of a Product Registration Submission for IVD MD using the ASEAN CSDT (2025 Oct)
 
-[View Source (Official Source)](https://isomer-user-content.by.gov.sg/409/0fc98e8f-65fb-4e9a-8833-152825dc9696/annex-2-for-gn-17-and-gn18-list-of-configurations-(2025-oct).xlsx)
+[View Source (Official Source)](https://www.hsa.gov.sg/medical-devices/guidance-documents/)
 
 ---
 
@@ -1144,27 +966,7 @@ HSA medical device guidance update: GN-18 R4 Guidance on Preparation of a Produc
 
 HSA medical device guidance update: GL-08-R2 Regulatory Guidelines for Laboratory Developed Tests (LDTs) (2025 Sep)
 
-[View Source (Official Source)](https://isomer-user-content.by.gov.sg/409/87f2911e-fb1b-4723-9e9c-41176406b9e4/gl-08-r2-regulatory-guidelines-for-laboratory-developed-tests-(ldts)-(2025-sep)-pub.pdf)
-
----
-
-### GN-25-R1 Guidance on the Cancellation of Medical Device Listing [PDF, 328 KB]Special Access RoutesGN-35-R5 Guidance on S
-
-**2025-09-01** | Singapore HSA | Regulation Update | !! MEDIUM
-
-HSA medical device guidance update: GN-25-R1 Guidance on the Cancellation of Medical Device Listing [PDF, 328 KB]Special Access RoutesGN-35-R5 Guidance on Special Access Routes (2025 Sep)
-
-[View Source (Official Source)](https://isomer-user-content.by.gov.sg/409/554ca683-4a6b-42e6-a8be-a4959997b052/gn-25-r1_guidance-on-the-cancellation-of-medical-device-listing(17dec-pub).pdf)
-
----
-
-### GN-26 and GN-27 application)MOH CLINICAL JUSTIFICATION REVIEW FORM FOR CLASS D MEDICAL DEVICEGN-30 Product Owner Authori
-
-**2025-09-01** | Singapore HSA | Regulation Update | !! MEDIUM
-
-HSA medical device guidance update: GN-26 and GN-27 application)MOH CLINICAL JUSTIFICATION REVIEW FORM FOR CLASS D MEDICAL DEVICEGN-30 Product Owner Authorisation Template (2025 Sep)
-
-[View Source (HSA (Singapore))](https://www.hsa.gov.sg/medical-devices/guidance-documents/)
+[View Source (Official Source)](https://www.hsa.gov.sg/medical-devices/guidance-documents/)
 
 ---
 

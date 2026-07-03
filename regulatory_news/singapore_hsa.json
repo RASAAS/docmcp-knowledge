@@ -24,27 +24,6 @@
       "status": "published"
     },
     {
-      "id": "singapore_hsa_20260703_gn_16_r4_essential_principles_checklist_template_june_2018_v",
-      "framework": "singapore_hsa",
-      "category": "regulation_update",
-      "title": {
-        "en": "GN-16 R4 Essential Principles Checklist Template (June 2018 version)172 KBAnnex 3 GN-16 R4 Essential Principles Checklis",
-        "zh": "GN-16 R4 基本原则检查表模板（2018年6月版）"
-      },
-      "summary": {
-        "en": "HSA medical device guidance update: GN-16 R4 Essential Principles Checklist Template (June 2018 version)172 KBAnnex 3 GN-16 R4 Essential Principles Checklist Template (Dec 2017 version)128 KBChange Management programGN-37-R1 Guidance on Change Management Program (CMP) for SaMD, including machine-learning enabled SaMD [PDF, 294 KB]Dealer's licensingManufacturers, Importers and Wholesalers LicensingGN-02-R8 Guidance on Licensing of Manufacturers Importers and Wholesalers of MD (2026 Apr)",
-        "zh": "新加坡HSA发布医疗器械基本原则检查表模板第4修订版。"
-      },
-      "source_url": "https://isomer-user-content.by.gov.sg/409/38884cd0-2e55-4e93-9b86-81936494667c/gn-16-r4-guidance-on-essential-principles-for-safety-and-performance-of-medical-devices(2023-sep)-pub.pdf",
-      "source_name": "Official Source",
-      "published_date": "2026-04-01",
-      "detected_date": "2026-07-03T14:00:10Z",
-      "importance": "medium",
-      "tags": [],
-      "related_docs": [],
-      "status": "published"
-    },
-    {
       "id": "singapore_hsa_20260703_gn_02_r8_annex_1_declaration_for_dealing_with_md_that_are_so",
       "framework": "singapore_hsa",
       "category": "regulation_update",
@@ -77,7 +56,7 @@
         "en": "HSA medical device guidance update: GN-15-R13 Guidance on Medical Device Product Registration (2026 Mar)",
         "zh": "新加坡HSA发布最新版医疗器械产品注册指南文件。"
       },
-      "source_url": "https://isomer-user-content.by.gov.sg/409/5dcb48bc-ebb9-4085-88bf-d8d0a61899ed/gn-15-r13-guidance-on-medical-device-product-registration-(2026-mar)-pub.pdf",
+      "source_url": "https://www.hsa.gov.sg/medical-devices/guidance-documents/",
       "source_name": "Official Source",
       "published_date": "2026-03-01",
       "detected_date": "2026-07-03T14:00:10Z",
@@ -98,7 +77,7 @@
         "en": "HSA medical device guidance update: GL-04-R4 Regulatory Guidelines for Software Medical Devices - A Life Cycle Approach (2025 Dec)",
         "zh": "新加坡HSA发布软件医疗器械（SaMD）监管指南，采用生命周期方法。"
       },
-      "source_url": "https://isomer-user-content.by.gov.sg/409/26808a93-6a7a-4551-8c66-13046c6124c5/gl-04-r4-regulatory-guidelines-for-software-medical-devices---a-life-cycle-approach-(2025-dec)-pub.pdf",
+      "source_url": "https://www.hsa.gov.sg/medical-devices/guidance-documents/",
       "source_name": "Official Source",
       "published_date": "2025-12-01",
       "detected_date": "2026-07-03T14:00:10Z",
@@ -119,7 +98,7 @@
         "en": "HSA medical device guidance update: GN-34 R2 Guidance for IVD Analysers (2025 Oct)",
         "zh": "新加坡HSA发布体外诊断分析仪注册与监管指南。"
       },
-      "source_url": "https://isomer-user-content.by.gov.sg/409/803aec65-d1d6-40ce-b7b6-c984e92524ba/gn-34-r2-guidance-for-ivd-analysers-(2025-oct)-pub.pdf",
+      "source_url": "https://www.hsa.gov.sg/medical-devices/guidance-documents/",
       "source_name": "Official Source",
       "published_date": "2025-10-01",
       "detected_date": "2026-07-03T14:00:10Z",
@@ -140,7 +119,7 @@
         "en": "HSA medical device guidance update: GN-17 R4 Guidance on Preparation of a Product Registration Submission for GMD using the ASEAN CSDT (2025 Oct)",
         "zh": "新加坡HSA发布使用ASEAN CSDT的通用医疗器械产品注册申请准备指南。"
       },
-      "source_url": "https://isomer-user-content.by.gov.sg/409/2bfa5cca-bdfc-4795-9ef0-488f67061238/gn-17-r4-guidance-on-preparation-of-a-product-registration-submission-for-gmd-using-the-asean-csdt-(2025-oct)-pub.pdf",
+      "source_url": "https://www.hsa.gov.sg/medical-devices/guidance-documents/",
       "source_name": "Official Source",
       "published_date": "2025-10-01",
       "detected_date": "2026-07-03T14:00:10Z",
@@ -161,7 +140,7 @@
         "en": "HSA medical device guidance update: GN-18 R4 Guidance on Preparation of a Product Registration Submission for IVD MD using the ASEAN CSDT (2025 Oct)",
         "zh": "新加坡HSA发布使用ASEAN CSDT的体外诊断医疗器械产品注册申请准备指南。"
       },
-      "source_url": "https://isomer-user-content.by.gov.sg/409/0fc98e8f-65fb-4e9a-8833-152825dc9696/annex-2-for-gn-17-and-gn18-list-of-configurations-(2025-oct).xlsx",
+      "source_url": "https://www.hsa.gov.sg/medical-devices/guidance-documents/",
       "source_name": "Official Source",
       "published_date": "2025-10-01",
       "detected_date": "2026-07-03T14:00:10Z",
@@ -182,50 +161,8 @@
         "en": "HSA medical device guidance update: GL-08-R2 Regulatory Guidelines for Laboratory Developed Tests (LDTs) (2025 Sep)",
         "zh": "新加坡HSA发布实验室自研检测产品的监管指南第2修订版。"
       },
-      "source_url": "https://isomer-user-content.by.gov.sg/409/87f2911e-fb1b-4723-9e9c-41176406b9e4/gl-08-r2-regulatory-guidelines-for-laboratory-developed-tests-(ldts)-(2025-sep)-pub.pdf",
-      "source_name": "Official Source",
-      "published_date": "2025-09-01",
-      "detected_date": "2026-07-03T14:00:10Z",
-      "importance": "medium",
-      "tags": [],
-      "related_docs": [],
-      "status": "published"
-    },
-    {
-      "id": "singapore_hsa_20260703_gn_25_r1_guidance_on_the_cancellation_of_medical_device_list",
-      "framework": "singapore_hsa",
-      "category": "regulation_update",
-      "title": {
-        "en": "GN-25-R1 Guidance on the Cancellation of Medical Device Listing [PDF, 328 KB]Special Access RoutesGN-35-R5 Guidance on S",
-        "zh": "GN-25-R1 医疗器械注册取消指南"
-      },
-      "summary": {
-        "en": "HSA medical device guidance update: GN-25-R1 Guidance on the Cancellation of Medical Device Listing [PDF, 328 KB]Special Access RoutesGN-35-R5 Guidance on Special Access Routes (2025 Sep)",
-        "zh": "新加坡HSA发布医疗器械注册取消流程指南。"
-      },
-      "source_url": "https://isomer-user-content.by.gov.sg/409/554ca683-4a6b-42e6-a8be-a4959997b052/gn-25-r1_guidance-on-the-cancellation-of-medical-device-listing(17dec-pub).pdf",
-      "source_name": "Official Source",
-      "published_date": "2025-09-01",
-      "detected_date": "2026-07-03T14:00:10Z",
-      "importance": "medium",
-      "tags": [],
-      "related_docs": [],
-      "status": "published"
-    },
-    {
-      "id": "singapore_hsa_20260703_gn_26_and_gn_27_application_moh_clinical_justification_revie",
-      "framework": "singapore_hsa",
-      "category": "regulation_update",
-      "title": {
-        "en": "GN-26 and GN-27 application)MOH CLINICAL JUSTIFICATION REVIEW FORM FOR CLASS D MEDICAL DEVICEGN-30 Product Owner Authori",
-        "zh": "GN-26/GN-27 D类医疗器械临床论证审核表"
-      },
-      "summary": {
-        "en": "HSA medical device guidance update: GN-26 and GN-27 application)MOH CLINICAL JUSTIFICATION REVIEW FORM FOR CLASS D MEDICAL DEVICEGN-30 Product Owner Authorisation Template (2025 Sep)",
-        "zh": "新加坡卫生部D类医疗器械临床论证审核表格。"
-      },
       "source_url": "https://www.hsa.gov.sg/medical-devices/guidance-documents/",
-      "source_name": "HSA (Singapore)",
+      "source_name": "Official Source",
       "published_date": "2025-09-01",
       "detected_date": "2026-07-03T14:00:10Z",
       "importance": "medium",

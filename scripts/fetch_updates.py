@@ -390,10 +390,6 @@ SOURCES = {
     "hongkong_mdco": {
         # device_safety: removed (was google_search, deprecated; MDCO website requires JS rendering)
     },
-    "shared": {
-        # iso_tc210 + iec_tc62: removed (were google_search, deprecated)
-        # TODO: implement ISO/IEC RSS or API parser when available
-    },
 }
 
 # Medical device eCFR parts (800-898)
