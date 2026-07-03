@@ -1065,3 +1065,163 @@ class HSAAnnouncementsChecker:
         except ImportError:
             pass
         return results
+
+
+class COFEPRISChecker:
+    """Parse COFEPRIS (Mexico) alertas sanitarias page for medical device alerts."""
+
+    DEVICE_KEYWORDS = re.compile(
+        r"(?i)(dispositivo|equipo\s+m[eé]dico|producto\s+m[eé]dico|"
+        r"reactivo\s+de\s+diagn[oó]stico|implant|pr[oó]tesis|monitor|"
+        r"ventilador|desfibrilador|marcapasos|cat[eé]ter|endoscop|"
+        r"medical\s+device|recall|retiro)"
+    )
+
+    def __init__(self, session, state: dict, seed_mode: bool = False):
+        self.session = session
+        self.state = state
+        self.seed_mode = seed_mode
+
+    def check(self, source_id: str, source: dict) -> Optional[dict]:
+        url = source["url"]
+        try:
+            from bs4 import BeautifulSoup
+            resp = self.session.get(url, timeout=15)
+            resp.raise_for_status()
+            resp.encoding = resp.apparent_encoding or "utf-8"
+            soup = BeautifulSoup(resp.text, "html.parser")
+
+            prev = self.state.get(source_id, {})
+            prev_titles = set(prev.get("seen_titles", []))
+            new_items = []
+            all_titles = list(prev_titles)
+
+            for article in soup.select("article, .article, .views-row, div.row"):
+                a_tag = article.find("a")
+                if not a_tag:
+                    continue
+                title = a_tag.get_text(strip=True)[:200]
+                if not title or len(title) < 10:
+                    continue
+                href = a_tag.get("href", "")
+                if href and not href.startswith("http"):
+                    href = "https://www.gob.mx" + href
+
+                if title in prev_titles:
+                    continue
+                all_titles.append(title)
+                new_items.append({
+                    "title": title,
+                    "link": href or url,
+                    "description": f"COFEPRIS Alert: {title[:200]}",
+                })
+
+            if not new_items:
+                links = soup.find_all("a", href=True)
+                for a_tag in links:
+                    title = a_tag.get_text(strip=True)[:200]
+                    if not title or len(title) < 15:
+                        continue
+                    href = a_tag["href"]
+                    if "/alertas" not in href and "/retiro" not in href:
+                        continue
+                    if not href.startswith("http"):
+                        href = "https://www.gob.mx" + href
+                    if title in prev_titles:
+                        continue
+                    all_titles.append(title)
+                    new_items.append({
+                        "title": title,
+                        "link": href,
+                        "description": f"COFEPRIS Alert: {title[:200]}",
+                    })
+
+            self.state[source_id] = {
+                "url": url,
+                "last_checked": datetime.now().isoformat(),
+                "seen_titles": all_titles[-200:],
+            }
+
+            if new_items and (prev_titles or self.seed_mode):
+                if self.seed_mode and not prev_titles:
+                    new_items = new_items[:15]
+                    print(f"    INFO: Seed mode -- {len(new_items)} initial items")
+                result = _make_update(source_id, source, "cofepris_page",
+                                      f"{len(new_items)} alert(s) from COFEPRIS page")
+                result["new_items"] = new_items
+                return result
+            elif not prev_titles:
+                print(f"    INFO: Baseline established ({len(all_titles)} items)")
+            return None
+        except Exception as e:
+            print(f"    ERROR COFEPRIS: {e}")
+            return None
+
+
+class ANMATChecker:
+    """Parse ANMAT (Argentina) alertas page for medical device safety alerts."""
+
+    def __init__(self, session, state: dict, seed_mode: bool = False):
+        self.session = session
+        self.state = state
+        self.seed_mode = seed_mode
+
+    def check(self, source_id: str, source: dict) -> Optional[dict]:
+        url = source["url"]
+        try:
+            from bs4 import BeautifulSoup
+            resp = self.session.get(url, timeout=15)
+            resp.raise_for_status()
+            resp.encoding = resp.apparent_encoding or "utf-8"
+            soup = BeautifulSoup(resp.text, "html.parser")
+
+            prev = self.state.get(source_id, {})
+            prev_titles = set(prev.get("seen_titles", []))
+            new_items = []
+            all_titles = list(prev_titles)
+
+            device_kw = re.compile(
+                r"(?i)(producto\s+m[eé]dico|dispositivo|equipo|implant|"
+                r"pr[oó]tesis|reactivo|diagn[oó]stico|medical|device|"
+                r"instrumental|material\s+descartable|esteriliz)"
+            )
+
+            for a_tag in soup.find_all("a", href=True):
+                title = a_tag.get_text(strip=True)[:200]
+                if not title or len(title) < 15:
+                    continue
+                href = a_tag["href"]
+                if "/alertas/" not in href and "/anmat/" not in href.lower():
+                    continue
+                if not href.startswith("http"):
+                    href = "https://www.argentina.gob.ar" + href
+
+                if title in prev_titles:
+                    continue
+                all_titles.append(title)
+                new_items.append({
+                    "title": title,
+                    "link": href,
+                    "description": f"ANMAT Alert: {title[:200]}",
+                })
+
+            self.state[source_id] = {
+                "url": url,
+                "last_checked": datetime.now().isoformat(),
+                "seen_titles": all_titles[-200:],
+            }
+
+            if new_items and (prev_titles or self.seed_mode):
+                if self.seed_mode and not prev_titles:
+                    new_items = new_items[:15]
+                    print(f"    INFO: Seed mode -- {len(new_items)} initial items")
+                result = _make_update(source_id, source, "anmat_page",
+                                      f"{len(new_items)} alert(s) from ANMAT page")
+                result["new_items"] = new_items
+                return result
+            elif not prev_titles:
+                print(f"    INFO: Baseline established ({len(all_titles)} items)")
+            return None
+        except Exception as e:
+            print(f"    ERROR ANMAT: {e}")
+            return None

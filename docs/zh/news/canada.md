@@ -66,11 +66,11 @@ title: 法规速递
 
 ---
 
-### LIFECODES LSA Class II
+### 加拿大卫生部召回：LIFECODES LSA II类体外诊断器械
 
 **2026-07-02** | Health Canada | 安全通报 | !! MEDIUM
 
-Performance
+加拿大卫生部发布LIFECODES LSA Class II体外诊断器械召回通知。
 
 [查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/lifecodes-lsa-class-ii)
 

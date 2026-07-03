@@ -6,11 +6,11 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
-### [Class II] ジーシー　ガスレーザー (炭酸ガスレーザ) - 株式会社ジーシー
+### 日本PMDA发布II类医疗器械回收：GC公司CO2气体激光器
 
 **2026-07-03** | Japan PMDA | 安全通报 | !! MEDIUM
 
-Recall #2-12873: 炭酸ガスレーザ / ジーシー　ガスレーザー by 株式会社ジーシー. Type: 医療機器.
+日本PMDA发布株式会社GC的CO2气体激光器（炭酸气体激光器）II类医疗器械回收通知。
 
 [查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12873)
 

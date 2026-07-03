@@ -92,15 +92,7 @@ SOURCES = {
             "category": "eu_mdr/regulations",
             "note": "Scrapes EC Medical Devices Latest Updates page for Delegated/Implementing Regulations, policy news.",
         },
-        "team_nb": {
-            "name": "TEAM-NB Position Papers",
-            "url": "https://www.team-nb.org/",
-            "check_type": "google_search",
-            "category": "eu_mdr/team_nb",
-            "google_query": "site:team-nb.org position paper",
-            "date_restrict": "y2",
-            "title_filter": r"(?i)position\s+paper|guidance\s+note|team[- ]?nb",
-        },
+        # team_nb: removed (was google_search, deprecated)
     },
     "fda": {
         "guidance_openfda": {
@@ -109,24 +101,8 @@ SOURCES = {
             "check_type": "openfda_guidance",
             "category": "fda/guidance",
         },
-        "guidance_google": {
-            "name": "FDA Medical Device Guidance (Google Search)",
-            "url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents",
-            "check_type": "google_search",
-            "category": "fda/guidance",
-            "google_query": "site:fda.gov/regulatory-information/search-fda-guidance-documents medical device guidance final",
-            "date_restrict": "y2",
-            "title_filter": r"(?i)guidance|premarket|510\(k\)|PMA|De\s*Novo|cybersecurity|biocompatibility|software|clinical|labeling|UDI",
-        },
-        "consensus_standards": {
-            "name": "FDA Recognized Consensus Standards (Google CSE)",
-            "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfStandards/search.cfm",
-            "check_type": "google_search",
-            "category": "fda/standards",
-            "google_query": "site:accessdata.fda.gov consensus standards recognized medical device",
-            "date_restrict": "y2",
-            "title_filter": r"(?i)standard|consensus|ISO|IEC|ASTM|AAMI",
-        },
+        # guidance_google: removed (was google_search, deprecated; covered by openfda_guidance)
+        # consensus_standards: removed (was google_search, deprecated)
         "regulations_ecfr": {
             "name": "FDA 21 CFR Medical Device Parts (eCFR API)",
             "url": "https://www.ecfr.gov/api/versioner/v1/titles.json",
@@ -157,42 +133,17 @@ SOURCES = {
         },
     },
     "nmpa": {
-        "cmde_guidance": {
-            "name": "CMDE Guidance Principles Index",
-            "url": "https://www.cmde.org.cn/flfg/zdyz/",
-            "check_type": "google_search",
-            "category": "nmpa/guidance",
-            "google_query": "site:cmde.org.cn 指导原则 医疗器械",
-            "date_restrict": "y1",
-            "title_filter": r"(指导原则|技术审查|审查要点|技术指导)",
-        },
-        "nmpa_regulations": {
-            "name": "NMPA Medical Device Regulations (SAMR)",
-            "url": "https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/",
-            "check_type": "google_search",
-            "category": "nmpa/regulations",
-            "google_query": "site:samr.gov.cn 医疗器械 部门规章",
-            "date_restrict": "y1",
-            "title_filter": r"(规定|办法|条例|通告|公告|令).{0,30}(医疗器械|体外诊断|器械)",
-        },
         "nmpa_announcements": {
-            "name": "NMPA Medical Device Announcements",
+            "name": "NMPA Medical Device Announcements (RSS)",
             "url": "https://www.nmpa.gov.cn/ylqx/ylqxggtg/",
-            "check_type": "google_search",
+            "check_type": "generic_page",
             "category": "nmpa/regulations",
-            "google_query": "site:nmpa.gov.cn 医疗器械 公告 通告",
-            "date_restrict": "y1",
             "title_filter": r"(医疗器械|体外诊断).{0,20}(公告|通告|通知|决定)",
+            "note": "NMPA medical device announcements page (generic_page parser). Replaces deprecated google_search.",
         },
-        "nmpa_standards": {
-            "name": "NMPA Medical Device Standards (YY/GB)",
-            "url": "https://std.samr.gov.cn",
-            "check_type": "google_search",
-            "category": "nmpa/standards",
-            "google_query": "site:std.samr.gov.cn YY 医疗器械",
-            "date_restrict": "y2",
-            "title_filter": r"YY[/T\s]*\d{4,5}|GB[/T\s]*\d{4,5}",
-        },
+        # cmde_guidance: removed (was google_search, CMDE requires JS rendering)
+        # nmpa_regulations: removed (was google_search, SAMR requires JS rendering)
+        # nmpa_standards: removed (was google_search, std.samr.gov.cn requires JS rendering)
     },
     # ----- Tier 1: Core international markets -----
     "uk_mhra": {
@@ -262,17 +213,7 @@ SOURCES = {
             "max_age_days": 90,
             "note": "Official TGA RSS feed for news articles, filtered for device-related regulatory news.",
         },
-        "regulations_search": {
-            "name": "TGA Medical Device Regulatory Updates (Search)",
-            "url": "https://www.tga.gov.au/products/medical-devices",
-            "check_type": "google_search",
-            "google_query": "TGA Australia medical device regulation guidance UDI essential principles classification 2026",
-            "category": "australia_tga/regulations",
-            "date_restrict": "m6",
-            "skip_domain_filter": True,
-            "exclude_domains": ["fda.gov", "accessdata.fda.gov", "federalregister.gov"],
-            "note": "TGA regulatory updates via search (fallback for RSS).",
-        },
+        # regulations_search: removed (was google_search, deprecated; covered by 3 RSS sources above)
     },
     "japan_pmda": {
         "whats_new_en": {
@@ -302,17 +243,7 @@ SOURCES = {
             "dynamic_year": True,
             "note": "PMDA Class II medical device recalls.",
         },
-        "device_regulatory_search": {
-            "name": "PMDA Medical Device Regulatory Updates (Search)",
-            "url": "https://www.pmda.go.jp/english/review-services/reviews/0002.html",
-            "check_type": "google_search",
-            "google_query": "PMDA Japan medical device regulation guidance QMS SaMD software IVD IMDRF device classification approval review 2026",
-            "category": "japan_pmda/regulations",
-            "date_restrict": "m3",
-            "skip_domain_filter": True,
-            "exclude_domains": ["fda.gov", "accessdata.fda.gov"],
-            "note": "PMDA medical device regulatory updates via search (supplements What's New).",
-        },
+        # device_regulatory_search: removed (was google_search, deprecated; covered by whatsnew + recalls)
     },
     "korea_mfds": {
         "news_en": {
@@ -345,17 +276,7 @@ SOURCES = {
             "category": "korea_mfds/regulations",
             "note": "MFDS innovative medical device designations.",
         },
-        "md_search": {
-            "name": "Korea Medical Device Regulatory News (via Search)",
-            "url": "https://www.mfds.go.kr/eng/index.do",
-            "check_type": "google_search",
-            "google_query": "Korea MFDS medical device regulation approval KGMP guidance update 2026",
-            "category": "korea_mfds/regulations",
-            "date_restrict": "m6",
-            "skip_domain_filter": True,
-            "title_filter": r"(?i)(Korea|MFDS|KFDA|KGMP|Korean|KR).*(medical\s+device|device|GMP|regulation|approval|guidance)",
-            "note": "Korean medical device regulation news via web search.",
-        },
+        # md_search: removed (was google_search, deprecated; covered by 4 mfds_page sources above)
     },
     # --- Tier 2 countries (Phase 3b) ---
     "switzerland": {
@@ -376,16 +297,7 @@ SOURCES = {
             "category": "brazil_anvisa/safety",
             "note": "Direct HTML parsing of ANVISA tecnovigilancia alerts page (Portuguese).",
         },
-        "regulations": {
-            "name": "ANVISA Medical Device Regulations (via Search)",
-            "url": "https://www.gov.br/anvisa/pt-br/assuntos/produtos-para-a-saude",
-            "check_type": "google_search",
-            "google_query": "ANVISA Brazil medical device regulation RDC guidance GMP certification 2026",
-            "category": "brazil_anvisa/regulations",
-            "date_restrict": "m6",
-            "skip_domain_filter": True,
-            "note": "ANVISA medical device regulations via search.",
-        },
+        # regulations: removed (was google_search, deprecated; covered by anvisa_page above)
     },
     "saudi_sfda": {
         "weekly_alerts": {
@@ -406,26 +318,8 @@ SOURCES = {
         },
     },
     "singapore_hsa": {
-        "device_safety_oscar": {
-            "name": "HSA OSCAR FSCA (via Search)",
-            "url": "https://oscar.hsa.gov.sg/Publication/ahpdm/faces/FSCAPublication.jspx",
-            "check_type": "google_search",
-            "google_query": "site:oscar.hsa.gov.sg FSCA medical device 2026 OR 2025",
-            "category": "singapore_hsa/safety",
-            "date_restrict": "m6",
-            "skip_domain_filter": True,
-            "note": "HSA OSCAR FSCA database via Google index (direct access 403).",
-        },
-        "device_safety_dhcpl": {
-            "name": "HSA DHCPL & Recalls (via Search)",
-            "url": "https://www.hsa.gov.sg/announcements",
-            "check_type": "google_search",
-            "google_query": "site:hsa.gov.sg (recall OR \"dear healthcare professional\" OR \"field safety\") medical device 2026 OR 2025",
-            "category": "singapore_hsa/safety",
-            "date_restrict": "m6",
-            "skip_domain_filter": True,
-            "note": "HSA Dear Healthcare Professional Letters and recall announcements.",
-        },
+        # device_safety_oscar: removed (was google_search, OSCAR requires JS rendering)
+        # device_safety_dhcpl: removed (was google_search, covered by hsa_announcements below)
         "guidance_documents": {
             "name": "HSA Medical Device Guidance Documents",
             "url": "https://www.hsa.gov.sg/medical-devices/guidance-documents/",
@@ -444,26 +338,8 @@ SOURCES = {
         },
     },
     "india_cdsco": {
-        "device_alerts": {
-            "name": "CDSCO Medical Device Alerts (via Search)",
-            "url": "https://cdsco.gov.in/opencms/opencms/en/Medical-Device-Diagnostics/",
-            "check_type": "google_search",
-            "google_query": "site:cdsco.gov.in medical device alert recall safety",
-            "category": "india_cdsco/safety",
-            "date_restrict": "m6",
-            "skip_domain_filter": True,
-            "note": "CDSCO medical device alerts via search (direct 403).",
-        },
-        "regulations": {
-            "name": "CDSCO Medical Device Regulations (via Search)",
-            "url": "https://cdsco.gov.in/opencms/opencms/en/Medical-Device-Diagnostics/",
-            "check_type": "google_search",
-            "google_query": "CDSCO India medical device regulation notification MDR 2017 amendment 2026",
-            "category": "india_cdsco/regulations",
-            "date_restrict": "m6",
-            "skip_domain_filter": True,
-            "note": "CDSCO medical device regulations via search.",
-        },
+        # device_alerts + regulations: removed (were google_search, deprecated; CDSCO returns 403 for direct access)
+        # TODO: implement CDSCO direct parser when their website becomes accessible
     },
     # -----------------------------------------------------------------------
     # Tier 3: Supplementary markets (monthly updates)
@@ -472,37 +348,23 @@ SOURCES = {
         "safety_alerts": {
             "name": "COFEPRIS Medical Device Safety Alerts (Mexico)",
             "url": "https://www.gob.mx/cofepris/acciones-y-programas/alertas-sanitarias",
-            "check_type": "google_search",
-            "google_query": "COFEPRIS Mexico dispositivo medico alerta sanitaria retiro recall medical device 2026",
+            "check_type": "cofepris_page",
             "category": "mexico_cofepris/safety",
-            "date_restrict": "m6",
-            "skip_domain_filter": True,
-            "note": "COFEPRIS medical device safety alerts via search (Spanish content + LLM).",
+            "note": "Direct HTML parsing of COFEPRIS alertas sanitarias page (Spanish).",
         },
     },
     "argentina_anmat": {
         "safety_alerts": {
             "name": "ANMAT Medical Device Safety Alerts (Argentina)",
             "url": "https://www.argentina.gob.ar/anmat/alertas",
-            "check_type": "google_search",
-            "google_query": "ANMAT Argentina dispositivo medico alerta retiro producto medico recall 2026",
+            "check_type": "anmat_page",
             "category": "argentina_anmat/safety",
-            "date_restrict": "m6",
-            "skip_domain_filter": True,
-            "note": "ANMAT medical device safety alerts via search (Spanish content + LLM).",
+            "note": "Direct HTML parsing of ANMAT alertas page (Spanish).",
         },
     },
     "taiwan_tfda": {
-        "safety_alerts": {
-            "name": "TFDA Medical Device Safety Alerts (Taiwan)",
-            "url": "https://www.fda.gov.tw/TC/site.aspx?sid=7383",
-            "check_type": "google_search",
-            "google_query": "site:fda.gov.tw OR site:tdrf.org.tw medical device recall safety alert warning 2026",
-            "category": "taiwan_tfda/safety",
-            "date_restrict": "m6",
-            "skip_domain_filter": True,
-            "note": "TFDA medical device safety alerts via search (Chinese + English content).",
-        },
+        # safety_alerts: removed (was google_search, deprecated; TFDA page requires JS rendering)
+        # TODO: implement TFDA RSS or API parser when available
     },
     "newzealand_medsafe": {
         "safety_comms": {
@@ -514,84 +376,23 @@ SOURCES = {
         },
     },
     "indonesia_bpom": {
-        "device_safety": {
-            "name": "BPOM/Kemenkes Medical Device Alerts (Indonesia)",
-            "url": "https://www.pom.go.id/",
-            "check_type": "google_search",
-            "google_query": "Indonesia BPOM Kemenkes medical device alat kesehatan recall safety alert 2026",
-            "category": "indonesia_bpom/safety",
-            "date_restrict": "m6",
-            "skip_domain_filter": True,
-            "note": "Indonesian medical device alerts via search (Bahasa + English).",
-        },
+        # device_safety: removed (was google_search, deprecated; BPOM website requires JS rendering)
     },
     "malaysia_mda": {
-        "device_safety": {
-            "name": "MDA Medical Device Safety (Malaysia)",
-            "url": "https://www.mda.gov.my/",
-            "check_type": "google_search",
-            "google_query": "site:mda.gov.my medical device recall FSCA safety alert guidance 2026",
-            "category": "malaysia_mda/safety",
-            "date_restrict": "m6",
-            "skip_domain_filter": True,
-            "note": "MDA Malaysia medical device safety via search (English).",
-        },
+        # device_safety: removed (was google_search, deprecated; MDA website requires JS rendering)
     },
     "thailand_fda": {
-        "device_safety": {
-            "name": "Thai FDA Medical Device Alerts (Thailand)",
-            "url": "https://www.fda.moph.go.th/",
-            "check_type": "google_search",
-            "google_query": "Thailand FDA medical device recall safety alert FSCA regulation 2026",
-            "category": "thailand_fda/safety",
-            "date_restrict": "m6",
-            "skip_domain_filter": True,
-            "note": "Thai FDA medical device alerts via search (Thai + English).",
-        },
+        # device_safety: removed (was google_search, deprecated; Thai FDA website requires JS rendering)
     },
     "israel_moh": {
-        "device_safety": {
-            "name": "Israel MOH Medical Device Alerts",
-            "url": "https://www.health.gov.il/English/",
-            "check_type": "google_search",
-            "google_query": "Israel Ministry Health medical device recall FSCA safety alert regulation 2026",
-            "category": "israel_moh/safety",
-            "date_restrict": "m6",
-            "skip_domain_filter": True,
-            "note": "Israel MOH medical device alerts via search (English).",
-        },
+        # device_safety: removed (was google_search, deprecated; Israel MOH requires specific API)
     },
     "hongkong_mdco": {
-        "device_safety": {
-            "name": "Hong Kong MDCO Medical Device Safety",
-            "url": "https://www.mdco.gov.hk/",
-            "check_type": "google_search",
-            "google_query": "Hong Kong MDCO medical device recall safety alert regulation 2026",
-            "category": "hongkong_mdco/safety",
-            "date_restrict": "m6",
-            "skip_domain_filter": True,
-            "note": "HK MDCO medical device safety via search (English/Chinese).",
-        },
+        # device_safety: removed (was google_search, deprecated; MDCO website requires JS rendering)
     },
     "shared": {
-        "iso_tc210": {
-            "name": "ISO TC 210 Medical Device Standards",
-            "url": "https://www.iso.org/committee/54892/x/catalogue/",
-            "check_type": "google_search",
-            "category": "_shared/standards",
-            "google_query": "site:iso.org 13485 OR 14971 OR 62304 OR 10993 medical device",
-            "date_restrict": "y2",
-            "title_filter": r"ISO\s+\d{4,5}|IEC\s+\d{4,5}",
-        },
-        "iec_tc62": {
-            "name": "IEC TC 62 Medical Electrical Equipment Standards",
-            "url": "https://www.iec.ch/dyn/www/f?p=103:7:::::FSP_ORG_ID:1245",
-            "check_type": "google_search",
-            "category": "_shared/standards",
-            "google_query": "site:iec.ch 60601 OR 62133 medical device standard",
-            "date_restrict": "y2",
-            "title_filter": r"IEC\s+\d{4,5}|ISO\s+\d{4,5}",
-        },
+        # iso_tc210 + iec_tc62: removed (were google_search, deprecated)
+        # TODO: implement ISO/IEC RSS or API parser when available
     },
 }
 
@@ -2982,7 +2783,8 @@ class UpdateChecker:
         # Tier 2 checkers (Phase 3b)
         from tier2_checkers import (TGARSSChecker, SwissmedicChecker, SFDAChecker,
                                     ANVISAChecker, MedsafeChecker,
-                                    HSAGuidanceChecker, HSAAnnouncementsChecker)
+                                    HSAGuidanceChecker, HSAAnnouncementsChecker,
+                                    COFEPRISChecker, ANMATChecker)
         self.tga_rss = TGARSSChecker(session, self.state, seed_mode)
         self.swissmedic = SwissmedicChecker(session, self.state, seed_mode)
         self.sfda = SFDAChecker(session, self.state, seed_mode)
@@ -2990,12 +2792,10 @@ class UpdateChecker:
         self.medsafe = MedsafeChecker(session, self.state, seed_mode)
         self.hsa_guidance = HSAGuidanceChecker(session, self.state, seed_mode)
         self.hsa_announcements = HSAAnnouncementsChecker(session, self.state, seed_mode)
+        self.cofepris = COFEPRISChecker(session, self.state, seed_mode)
+        self.anmat = ANMATChecker(session, self.state, seed_mode)
         self.llm = LLMVersionAnalyzer(LLM_API_KEY, LLM_BASE_URL, LLM_MODEL)
-        if self.vertex.available:
-            print("INFO: Using Vertex AI Search (searchLite) for web queries.")
-        else:
-            print("INFO: No web search configured - set VERTEX_AI_PROJECT_ID + "
-                  "VERTEX_AI_SEARCH_APP_ID + VERTEX_AI_SEARCH_API_KEY.")
+        print("INFO: Google Search deprecated - all sources use direct parsing.")
         if not self.llm.available:
             print(f"INFO: LLM analysis not configured - set LLM_API_KEY "
                   f"(LLM_BASE_URL={LLM_BASE_URL}, LLM_MODEL={LLM_MODEL}).")
@@ -3029,10 +2829,8 @@ class UpdateChecker:
         if check_type == "rss":
             return self.rss.check(source_id, source)
         elif check_type == "google_search":
-            result = self._web_search_check(source_id, source)
-            if result:
-                result = self._apply_db_comparison(result)
-            return result
+            print(f"    SKIP (google_search deprecated, source needs migration)")
+            return None
         elif check_type == "ec_page_scrape":
             return self.mdcg_scraper.check(source_id, source)
         elif check_type == "ec_latest_updates":
@@ -3078,6 +2876,10 @@ class UpdateChecker:
             return self.hsa_guidance.check(source_id, source)
         elif check_type == "hsa_announcements":
             return self.hsa_announcements.check(source_id, source)
+        elif check_type == "cofepris_page":
+            return self.cofepris.check(source_id, source)
+        elif check_type == "anmat_page":
+            return self.anmat.check(source_id, source)
         elif check_type == "generic_page":
             return self.generic_page.check(source_id, source)
         elif check_type == "eurlex_amendment":
@@ -3193,8 +2995,8 @@ class UpdateChecker:
                 if updates else "No updates detected"
             ),
             "checkers_used": {
-                "vertex_ai_search": self.vertex.available,
-                "google_cse_legacy": self.google.available and not self.vertex.available,
+                "vertex_ai_search": False,
+                "google_cse_legacy": False,
                 "ec_page_scraper": True,
                 "openfda_api": True,
                 "llm_analysis": self.llm.available,

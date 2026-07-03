@@ -5,12 +5,12 @@
       "framework": "newzealand_medsafe",
       "category": "safety_communication",
       "title": {
-        "en": "[Alert] Product \r\n\t\t\t\tAlert of Dexcom US G7 Sensors: Lots 1725204004 and 1725069002",
-        "zh": "[Alert] Product \r\n\t\t\t\tAlert of Dexcom US G7 Sensors: Lots 1725204004 and 1725069002"
+        "en": "[Alert] Product Alert of Dexcom US G7 Sensors: Lots 1725204004 and 1725069002",
+        "zh": "新西兰Medsafe产品警示：Dexcom US G7传感器批次召回"
       },
       "summary": {
         "en": "Medsafe Alert - Product: Device",
-        "zh": "Medsafe Alert - Product: Device"
+        "zh": "新西兰Medsafe发布关于Dexcom US G7传感器特定批次（1725204004和1725207004）的产品安全警示。"
       },
       "source_url": "https://medsafe.govt.nz/safety/Alerts/Dexcom-US-G7-Sensors-Lots-1725204004-and-1725069002.asp",
       "source_name": "Official Source",
@@ -26,12 +26,12 @@
       "framework": "newzealand_medsafe",
       "category": "safety_communication",
       "title": {
-        "en": "[Alert] Stop using Euky Bear \r\n\t\t\t\tWarm Steam Vaporiser â model number EBSV2013",
-        "zh": "[Alert] Stop using Euky Bear \r\n\t\t\t\tWarm Steam Vaporiser â model number EBSV2013"
+        "en": "[Alert] Stop using Euky Bear Warm Steam Vaporiser - model number EBSV2013",
+        "zh": "新西兰Medsafe安全警示：停止使用Euky Bear暖蒸汽雾化器"
       },
       "summary": {
         "en": "Medsafe Alert - Product: Device",
-        "zh": "Medsafe Alert - Product: Device"
+        "zh": "新西兰Medsafe发布安全警示，要求停止使用Euky Bear暖蒸汽雾化器特定型号。"
       },
       "source_url": "https://medsafe.govt.nz/safety/../hot/RecallActionNoticesNew/31811.asp",
       "source_name": "Official Source",

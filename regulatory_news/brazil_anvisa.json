@@ -3,37 +3,16 @@
   "last_updated": "2026-07-03T08:06:55Z",
   "items": [
     {
-      "id": "brazil_anvisa_20260703_mdsap_audit_approach_document_no_fda",
-      "framework": "brazil_anvisa",
-      "category": "regulation_update",
-      "title": {
-        "en": "MDSAP AUDIT APPROACH Document No - FDA",
-        "zh": "MDSAP AUDIT APPROACH Document No - FDA"
-      },
-      "summary": {
-        "en": "Aug 6, 2024 ... Sch3), Brazilian Good Manufacturing Practices (RDC ANVISA 665/2022), Canadian Medical Devices Regulations, Japan. Ordinance on Standards for ...",
-        "zh": "Aug 6, 2024 ... Sch3), Brazilian Good Manufacturing Practices (RDC ANVISA 665/2022), Canadian Medical Devices Regulations, Japan. Ordinance on Standards for ..."
-      },
-      "source_url": "https://www.fda.gov/media/166672/download",
-      "source_name": "FDA",
-      "published_date": "2026-07-03",
-      "detected_date": "2026-07-03T07:59:18Z",
-      "importance": "medium",
-      "tags": [],
-      "related_docs": [],
-      "status": "published"
-    },
-    {
       "id": "brazil_anvisa_20260703_alerta_5265_tecnovigil_ncia_comunicado_da_empresa_zimmer_bio",
       "framework": "brazil_anvisa",
       "category": "safety_communication",
       "title": {
         "en": "Alerta 5265 (Tecnovigilância) - Comunicado da empresa Zimmer Biomet Brasil Ltda - Sutura MaxBraid.",
-        "zh": "Alerta 5265 (Tecnovigilância) - Comunicado da empresa Zimmer Biomet Brasil Ltda - Sutura MaxBraid."
+        "zh": "ANVISA技术警戒通告5265 - Zimmer Biomet Brasil有限公司"
       },
       "summary": {
         "en": "Alerta 5265 (Tecnovigilância) - Comunicado da empresa Zimmer Biomet Brasil Ltda - Sutura MaxBraid.",
-        "zh": "Alerta 5265 (Tecnovigilância) - Comunicado da empresa Zimmer Biomet Brasil Ltda - Sutura MaxBraid."
+        "zh": "巴西ANVISA发布关于Zimmer Biomet Brasil公司医疗器械的技术警戒通告。"
       },
       "source_url": "http://antigo.anvisa.gov.br/informacoes-tecnicas13?p_p_id=101_INSTANCE_R6VaZWsQDDzS&p_p_col_id=column-1&p_p_col_count=1&_101_INSTANCE_R6VaZWsQDDzS_groupId=33868&_101_INSTANCE_R6VaZWsQDDzS_urlTitle=alerta-5265-tecnovigilancia-comunicado-da-empresa-zimmer-biomet-brasil-ltda-sutura-maxbraid-&_101_INSTANCE_R6VaZWsQDDzS_struts_action=%2Fasset_publisher%2Fview_content&_101_INSTANCE_R6VaZWsQDDzS_assetEntryId=7288106&_101_INSTANCE_R6VaZWsQDDzS_type=content",
       "source_name": "ANVISA (Brazil)",
@@ -50,11 +29,11 @@
       "category": "safety_communication",
       "title": {
         "en": "Alerta 5264 (Tecnovigilância) - Comunicado da empresa Olympus Optical do Brasil Ltda - Unidade de Insuflação de Alto Flu",
-        "zh": "Alerta 5264 (Tecnovigilância) - Comunicado da empresa Olympus Optical do Brasil Ltda - Unidade de Insuflação de Alto Flu"
+        "zh": "ANVISA技术警戒通告5264 - Olympus Optical do Brasil有限公司"
       },
       "summary": {
         "en": "Alerta 5264 (Tecnovigilância) - Comunicado da empresa Olympus Optical do Brasil Ltda - Unidade de Insuflação de Alto Flu",
-        "zh": "Alerta 5264 (Tecnovigilância) - Comunicado da empresa Olympus Optical do Brasil Ltda - Unidade de Insuflação de Alto Flu"
+        "zh": "巴西ANVISA发布关于Olympus Optical do Brasil公司医疗器械的技术警戒通告。"
       },
       "source_url": "http://antigo.anvisa.gov.br/informacoes-tecnicas13?p_p_id=101_INSTANCE_R6VaZWsQDDzS&p_p_col_id=column-1&p_p_col_count=1&_101_INSTANCE_R6VaZWsQDDzS_groupId=33868&_101_INSTANCE_R6VaZWsQDDzS_urlTitle=alerta-5264-tecnovigilancia-comunicado-da-empresa-olympus-optical-do-brasil-ltda-unidade-de-insuflacao-de-alto-fluxo-uhi-4-&_101_INSTANCE_R6VaZWsQDDzS_struts_action=%2Fasset_publisher%2Fview_content&_101_INSTANCE_R6VaZWsQDDzS_assetEntryId=7288074&_101_INSTANCE_R6VaZWsQDDzS_type=content",
       "source_name": "ANVISA (Brazil)",
@@ -71,11 +50,11 @@
       "category": "safety_communication",
       "title": {
         "en": "Alerta 5263 (Tecnovigilância) - Comunicado da empresa Elekta Medical Systems Comércio e Serviços Radioterapia Ltda - Sis",
-        "zh": "Alerta 5263 (Tecnovigilância) - Comunicado da empresa Elekta Medical Systems Comércio e Serviços Radioterapia Ltda - Sis"
+        "zh": "ANVISA技术警戒通告5263 - Elekta Medical Systems公司"
       },
       "summary": {
         "en": "Alerta 5263 (Tecnovigilância) - Comunicado da empresa Elekta Medical Systems Comércio e Serviços Radioterapia Ltda - Sis",
-        "zh": "Alerta 5263 (Tecnovigilância) - Comunicado da empresa Elekta Medical Systems Comércio e Serviços Radioterapia Ltda - Sis"
+        "zh": "巴西ANVISA发布关于Elekta Medical Systems公司医疗器械的技术警戒通告。"
       },
       "source_url": "http://antigo.anvisa.gov.br/informacoes-tecnicas13?p_p_id=101_INSTANCE_R6VaZWsQDDzS&p_p_col_id=column-1&p_p_col_count=1&_101_INSTANCE_R6VaZWsQDDzS_groupId=33868&_101_INSTANCE_R6VaZWsQDDzS_urlTitle=alerta-5263-tecnovigilancia-comunicado-da-empresa-elekta-medical-systems-comercio-e-servicos-radioterapia-ltda-sistema-de-braquiterapia-&_101_INSTANCE_R6VaZWsQDDzS_struts_action=%2Fasset_publisher%2Fview_content&_101_INSTANCE_R6VaZWsQDDzS_assetEntryId=7287870&_101_INSTANCE_R6VaZWsQDDzS_type=content",
       "source_name": "ANVISA (Brazil)",
@@ -91,12 +70,12 @@
       "framework": "brazil_anvisa",
       "category": "safety_communication",
       "title": {
-        "en": "Alerta 5262 (Tecnovigilância) - Comunicado da empresa Philips Medical Systems Ltda - Azurion (10216710345); Equipamento ",
-        "zh": "Alerta 5262 (Tecnovigilância) - Comunicado da empresa Philips Medical Systems Ltda - Azurion (10216710345); Equipamento "
+        "en": "Alerta 5262 (Tecnovigilância) - Comunicado da empresa Philips Medical Systems Ltda - Azurion (10216710345); Equipamento",
+        "zh": "ANVISA技术警戒通告5262 - Philips Medical Systems有限公司"
       },
       "summary": {
-        "en": "Alerta 5262 (Tecnovigilância) - Comunicado da empresa Philips Medical Systems Ltda - Azurion (10216710345); Equipamento ",
-        "zh": "Alerta 5262 (Tecnovigilância) - Comunicado da empresa Philips Medical Systems Ltda - Azurion (10216710345); Equipamento "
+        "en": "Alerta 5262 (Tecnovigilância) - Comunicado da empresa Philips Medical Systems Ltda - Azurion (10216710345); Equipamento",
+        "zh": "巴西ANVISA发布关于Philips Medical Systems公司医疗器械的技术警戒通告。"
       },
       "source_url": "http://antigo.anvisa.gov.br/informacoes-tecnicas13?p_p_id=101_INSTANCE_R6VaZWsQDDzS&p_p_col_id=column-1&p_p_col_count=1&_101_INSTANCE_R6VaZWsQDDzS_groupId=33868&_101_INSTANCE_R6VaZWsQDDzS_urlTitle=alerta-5262-tecnovigilancia-comunicado-da-empresa-philips-medical-systems-ltda-azurion-10216710345-equipamento-para-angiografia-allura-xper-marca-phil&_101_INSTANCE_R6VaZWsQDDzS_struts_action=%2Fasset_publisher%2Fview_content&_101_INSTANCE_R6VaZWsQDDzS_assetEntryId=7287831&_101_INSTANCE_R6VaZWsQDDzS_type=content",
       "source_name": "ANVISA (Brazil)",
@@ -113,11 +92,11 @@
       "category": "safety_communication",
       "title": {
         "en": "Alerta 5261 (Tecnovigilância) - Comunicado da empresa Philips Medical Systems Ltda - Arco Cirúrgico Zenition.",
-        "zh": "Alerta 5261 (Tecnovigilância) - Comunicado da empresa Philips Medical Systems Ltda - Arco Cirúrgico Zenition."
+        "zh": "ANVISA技术警戒通告5261 - Philips Medical Systems有限公司"
       },
       "summary": {
         "en": "Alerta 5261 (Tecnovigilância) - Comunicado da empresa Philips Medical Systems Ltda - Arco Cirúrgico Zenition.",
-        "zh": "Alerta 5261 (Tecnovigilância) - Comunicado da empresa Philips Medical Systems Ltda - Arco Cirúrgico Zenition."
+        "zh": "巴西ANVISA发布关于Philips Medical Systems公司医疗器械的技术警戒通告。"
       },
       "source_url": "http://antigo.anvisa.gov.br/informacoes-tecnicas13?p_p_id=101_INSTANCE_R6VaZWsQDDzS&p_p_col_id=column-1&p_p_col_count=1&_101_INSTANCE_R6VaZWsQDDzS_groupId=33868&_101_INSTANCE_R6VaZWsQDDzS_urlTitle=alerta-5261-tecnovigilancia-comunicado-da-empresa-philips-medical-systems-ltda-arco-cirurgico-zenition-&_101_INSTANCE_R6VaZWsQDDzS_struts_action=%2Fasset_publisher%2Fview_content&_101_INSTANCE_R6VaZWsQDDzS_assetEntryId=7287780&_101_INSTANCE_R6VaZWsQDDzS_type=content",
       "source_name": "ANVISA (Brazil)",
@@ -134,11 +113,11 @@
       "category": "safety_communication",
       "title": {
         "en": "Alerta 5260 (Tecnovigilância) - Comunicado da empresa GE Healthcare do Brasil, Com. e Serv. para Equipamentos Médico-Hos",
-        "zh": "Alerta 5260 (Tecnovigilância) - Comunicado da empresa GE Healthcare do Brasil, Com. e Serv. para Equipamentos Médico-Hos"
+        "zh": "ANVISA技术警戒通告5260 - GE Healthcare do Brasil公司"
       },
       "summary": {
         "en": "Alerta 5260 (Tecnovigilância) - Comunicado da empresa GE Healthcare do Brasil, Com. e Serv. para Equipamentos Médico-Hos",
-        "zh": "Alerta 5260 (Tecnovigilância) - Comunicado da empresa GE Healthcare do Brasil, Com. e Serv. para Equipamentos Médico-Hos"
+        "zh": "巴西ANVISA发布关于GE Healthcare do Brasil公司医疗器械的技术警戒通告。"
       },
       "source_url": "http://antigo.anvisa.gov.br/informacoes-tecnicas13?p_p_id=101_INSTANCE_R6VaZWsQDDzS&p_p_col_id=column-1&p_p_col_count=1&_101_INSTANCE_R6VaZWsQDDzS_groupId=33868&_101_INSTANCE_R6VaZWsQDDzS_urlTitle=alerta-5260-tecnovigilancia-comunicado-da-empresa-ge-healthcare-do-brasil-com-e-serv-para-equipamentos-medico-hospitalares-ltda-sistema-de-raios-x-800&_101_INSTANCE_R6VaZWsQDDzS_struts_action=%2Fasset_publisher%2Fview_content&_101_INSTANCE_R6VaZWsQDDzS_assetEntryId=7287338&_101_INSTANCE_R6VaZWsQDDzS_type=content",
       "source_name": "ANVISA (Brazil)",
@@ -155,11 +134,11 @@
       "category": "safety_communication",
       "title": {
         "en": "Alerta 5259 (Tecnovigilância) - Comunicado da empresa Randox Brasil LTDA - Controle de Urinálise.",
-        "zh": "Alerta 5259 (Tecnovigilância) - Comunicado da empresa Randox Brasil LTDA - Controle de Urinálise."
+        "zh": "ANVISA技术警戒通告5259 - Randox Brasil有限公司"
       },
       "summary": {
         "en": "Alerta 5259 (Tecnovigilância) - Comunicado da empresa Randox Brasil LTDA - Controle de Urinálise.",
-        "zh": "Alerta 5259 (Tecnovigilância) - Comunicado da empresa Randox Brasil LTDA - Controle de Urinálise."
+        "zh": "巴西ANVISA发布关于Randox Brasil公司体外诊断产品的技术警戒通告。"
       },
       "source_url": "http://antigo.anvisa.gov.br/informacoes-tecnicas13?p_p_id=101_INSTANCE_R6VaZWsQDDzS&p_p_col_id=column-1&p_p_col_count=1&_101_INSTANCE_R6VaZWsQDDzS_groupId=33868&_101_INSTANCE_R6VaZWsQDDzS_urlTitle=alerta-5259-tecnovigilancia-comunicado-da-empresa-randox-brasil-ltda-controle-de-urinalise-&_101_INSTANCE_R6VaZWsQDDzS_struts_action=%2Fasset_publisher%2Fview_content&_101_INSTANCE_R6VaZWsQDDzS_assetEntryId=7287301&_101_INSTANCE_R6VaZWsQDDzS_type=content",
       "source_name": "ANVISA (Brazil)",
@@ -176,11 +155,11 @@
       "category": "safety_communication",
       "title": {
         "en": "Alerta 5258 (Tecnovigilância) - Comunicado da empresa Siemens Healthcare Diagnósticos Ltda - Reagente Flex Tacrolimus (T",
-        "zh": "Alerta 5258 (Tecnovigilância) - Comunicado da empresa Siemens Healthcare Diagnósticos Ltda - Reagente Flex Tacrolimus (T"
+        "zh": "ANVISA技术警戒通告5258 - Siemens Healthcare Diagnostics公司"
       },
       "summary": {
         "en": "Alerta 5258 (Tecnovigilância) - Comunicado da empresa Siemens Healthcare Diagnósticos Ltda - Reagente Flex Tacrolimus (T",
-        "zh": "Alerta 5258 (Tecnovigilância) - Comunicado da empresa Siemens Healthcare Diagnósticos Ltda - Reagente Flex Tacrolimus (T"
+        "zh": "巴西ANVISA发布关于Siemens Healthcare Diagnostics公司诊断设备的技术警戒通告。"
       },
       "source_url": "http://antigo.anvisa.gov.br/informacoes-tecnicas13?p_p_id=101_INSTANCE_R6VaZWsQDDzS&p_p_col_id=column-1&p_p_col_count=1&_101_INSTANCE_R6VaZWsQDDzS_groupId=33868&_101_INSTANCE_R6VaZWsQDDzS_urlTitle=alerta-5258-tecnovigilancia-comunicado-da-empresa-siemens-healthcare-diagnosticos-ltda-reagente-flex-tacrolimus-tac-dimension-&_101_INSTANCE_R6VaZWsQDDzS_struts_action=%2Fasset_publisher%2Fview_content&_101_INSTANCE_R6VaZWsQDDzS_assetEntryId=7287205&_101_INSTANCE_R6VaZWsQDDzS_type=content",
       "source_name": "ANVISA (Brazil)",
@@ -196,12 +175,12 @@
       "framework": "brazil_anvisa",
       "category": "safety_communication",
       "title": {
-        "en": "Alerta 5257 (Tecnovigilância) - Comunicado da empresa VR Medical Importadora e Distribuidora de Produtos médicos LTDA - ",
-        "zh": "Alerta 5257 (Tecnovigilância) - Comunicado da empresa VR Medical Importadora e Distribuidora de Produtos médicos LTDA - "
+        "en": "Alerta 5257 (Tecnovigilância) - Comunicado da empresa VR Medical Importadora e Distribuidora de Produtos médicos LTDA -",
+        "zh": "ANVISA技术警戒通告5257 - VR Medical Importadora公司"
       },
       "summary": {
-        "en": "Alerta 5257 (Tecnovigilância) - Comunicado da empresa VR Medical Importadora e Distribuidora de Produtos médicos LTDA - ",
-        "zh": "Alerta 5257 (Tecnovigilância) - Comunicado da empresa VR Medical Importadora e Distribuidora de Produtos médicos LTDA - "
+        "en": "Alerta 5257 (Tecnovigilância) - Comunicado da empresa VR Medical Importadora e Distribuidora de Produtos médicos LTDA -",
+        "zh": "巴西ANVISA发布关于VR Medical Importadora公司医疗器械的技术警戒通告。"
       },
       "source_url": "http://antigo.anvisa.gov.br/informacoes-tecnicas13?p_p_id=101_INSTANCE_R6VaZWsQDDzS&p_p_col_id=column-1&p_p_col_count=1&_101_INSTANCE_R6VaZWsQDDzS_groupId=33868&_101_INSTANCE_R6VaZWsQDDzS_urlTitle=alerta-5257-tecnovigilancia-comunicado-da-empresa-vr-medical-importadora-e-distribuidora-de-produtos-medicos-ltda-exoplan-&_101_INSTANCE_R6VaZWsQDDzS_struts_action=%2Fasset_publisher%2Fview_content&_101_INSTANCE_R6VaZWsQDDzS_assetEntryId=7287066&_101_INSTANCE_R6VaZWsQDDzS_type=content",
       "source_name": "ANVISA (Brazil)",
@@ -218,11 +197,11 @@
       "category": "safety_communication",
       "title": {
         "en": "Alerta 5256 (Tecnovigilância) - Comunicado da empresa Conmed do Brasil Comercio, Imp. e Exp. de Produtos Médicos Hospita",
-        "zh": "Alerta 5256 (Tecnovigilância) - Comunicado da empresa Conmed do Brasil Comercio, Imp. e Exp. de Produtos Médicos Hospita"
+        "zh": "ANVISA技术警戒通告5256 - Conmed do Brasil公司"
       },
       "summary": {
         "en": "Alerta 5256 (Tecnovigilância) - Comunicado da empresa Conmed do Brasil Comercio, Imp. e Exp. de Produtos Médicos Hospita",
-        "zh": "Alerta 5256 (Tecnovigilância) - Comunicado da empresa Conmed do Brasil Comercio, Imp. e Exp. de Produtos Médicos Hospita"
+        "zh": "巴西ANVISA发布关于Conmed do Brasil公司医疗器械的技术警戒通告。"
       },
       "source_url": "http://antigo.anvisa.gov.br/informacoes-tecnicas13?p_p_id=101_INSTANCE_R6VaZWsQDDzS&p_p_col_id=column-1&p_p_col_count=1&_101_INSTANCE_R6VaZWsQDDzS_groupId=33868&_101_INSTANCE_R6VaZWsQDDzS_urlTitle=alerta-5256-tecnovigilancia-comunicado-da-empresa-conmed-do-brasil-comercio-imp-e-exp-de-produtos-medicos-hospitalares-ltda-sistema-de-fluxo-inteligen&_101_INSTANCE_R6VaZWsQDDzS_struts_action=%2Fasset_publisher%2Fview_content&_101_INSTANCE_R6VaZWsQDDzS_assetEntryId=7285383&_101_INSTANCE_R6VaZWsQDDzS_type=content",
       "source_name": "ANVISA (Brazil)",

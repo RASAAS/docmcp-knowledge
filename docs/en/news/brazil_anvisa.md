@@ -6,16 +6,6 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
-### MDSAP AUDIT APPROACH Document No - FDA
-
-**2026-07-03** | Brazil ANVISA | Regulation Update | !! MEDIUM
-
-Aug 6, 2024 ... Sch3), Brazilian Good Manufacturing Practices (RDC ANVISA 665/2022), Canadian Medical Devices Regulations, Japan. Ordinance on Standards for ...
-
-[View Source (FDA)](https://www.fda.gov/media/166672/download)
-
----
-
 ### Alerta 5265 (Tecnovigilância) - Comunicado da empresa Zimmer Biomet Brasil Ltda - Sutura MaxBraid.
 
 **2026-06-16** | Brazil ANVISA | Safety Communication | !! MEDIUM
@@ -46,11 +36,11 @@ Alerta 5263 (Tecnovigilância) - Comunicado da empresa Elekta Medical Systems Co
 
 ---
 
-### Alerta 5262 (Tecnovigilância) - Comunicado da empresa Philips Medical Systems Ltda - Azurion (10216710345); Equipamento 
+### Alerta 5262 (Tecnovigilância) - Comunicado da empresa Philips Medical Systems Ltda - Azurion (10216710345); Equipamento
 
 **2026-06-16** | Brazil ANVISA | Safety Communication | !! MEDIUM
 
-Alerta 5262 (Tecnovigilância) - Comunicado da empresa Philips Medical Systems Ltda - Azurion (10216710345); Equipamento 
+Alerta 5262 (Tecnovigilância) - Comunicado da empresa Philips Medical Systems Ltda - Azurion (10216710345); Equipamento
 
 [View Source (ANVISA (Brazil))](http://antigo.anvisa.gov.br/informacoes-tecnicas13?p_p_id=101_INSTANCE_R6VaZWsQDDzS&p_p_col_id=column-1&p_p_col_count=1&_101_INSTANCE_R6VaZWsQDDzS_groupId=33868&_101_INSTANCE_R6VaZWsQDDzS_urlTitle=alerta-5262-tecnovigilancia-comunicado-da-empresa-philips-medical-systems-ltda-azurion-10216710345-equipamento-para-angiografia-allura-xper-marca-phil&_101_INSTANCE_R6VaZWsQDDzS_struts_action=%2Fasset_publisher%2Fview_content&_101_INSTANCE_R6VaZWsQDDzS_assetEntryId=7287831&_101_INSTANCE_R6VaZWsQDDzS_type=content)
 
@@ -96,11 +86,11 @@ Alerta 5258 (Tecnovigilância) - Comunicado da empresa Siemens Healthcare Diagn�
 
 ---
 
-### Alerta 5257 (Tecnovigilância) - Comunicado da empresa VR Medical Importadora e Distribuidora de Produtos médicos LTDA - 
+### Alerta 5257 (Tecnovigilância) - Comunicado da empresa VR Medical Importadora e Distribuidora de Produtos médicos LTDA -
 
 **2026-06-15** | Brazil ANVISA | Safety Communication | !! MEDIUM
 
-Alerta 5257 (Tecnovigilância) - Comunicado da empresa VR Medical Importadora e Distribuidora de Produtos médicos LTDA - 
+Alerta 5257 (Tecnovigilância) - Comunicado da empresa VR Medical Importadora e Distribuidora de Produtos médicos LTDA -
 
 [View Source (ANVISA (Brazil))](http://antigo.anvisa.gov.br/informacoes-tecnicas13?p_p_id=101_INSTANCE_R6VaZWsQDDzS&p_p_col_id=column-1&p_p_col_count=1&_101_INSTANCE_R6VaZWsQDDzS_groupId=33868&_101_INSTANCE_R6VaZWsQDDzS_urlTitle=alerta-5257-tecnovigilancia-comunicado-da-empresa-vr-medical-importadora-e-distribuidora-de-produtos-medicos-ltda-exoplan-&_101_INSTANCE_R6VaZWsQDDzS_struts_action=%2Fasset_publisher%2Fview_content&_101_INSTANCE_R6VaZWsQDDzS_assetEntryId=7287066&_101_INSTANCE_R6VaZWsQDDzS_type=content)
 

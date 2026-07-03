@@ -90,8 +90,7 @@ Medela Inc. is recalling its ENFit ExSet Strl 60 2.0ml PV 1ct EN syringe (Model 
 
 ---
 
-### Device Recall: Remel, Inc - GC Agar Base (150mm) 10/PK R04030;
-GC Agar Base (100mm) 10/PK R01460
+### Device Recall: Remel, Inc - GC Agar Base (150mm) 10/PK R04030; GC Agar Base (100mm) 10/PK R01460
 
 **2026-06-03** | FDA | Safety Communication | !! MEDIUM
 
