@@ -1,1 +1,47 @@
-{"items": []}
+{
+  "items": [
+    {
+      "id": "newzealand_medsafe_20260703_alert_product_alert_of_dexcom_us_g7_sensors_lots_1725204004",
+      "framework": "newzealand_medsafe",
+      "category": "safety_communication",
+      "title": {
+        "en": "[Alert] Product \r\n\t\t\t\tAlert of Dexcom US G7 Sensors: Lots 1725204004 and 1725069002",
+        "zh": "[Alert] Product \r\n\t\t\t\tAlert of Dexcom US G7 Sensors: Lots 1725204004 and 1725069002"
+      },
+      "summary": {
+        "en": "Medsafe Alert - Product: Device",
+        "zh": "Medsafe Alert - Product: Device"
+      },
+      "source_url": "https://medsafe.govt.nz/safety/Alerts/Dexcom-US-G7-Sensors-Lots-1725204004-and-1725069002.asp",
+      "source_name": "Official Source",
+      "published_date": "2026-06-25",
+      "detected_date": "2026-07-03T14:00:16Z",
+      "importance": "medium",
+      "tags": [],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "newzealand_medsafe_20260703_alert_stop_using_euky_bear_warm_steam_vaporiser_model_numbe",
+      "framework": "newzealand_medsafe",
+      "category": "safety_communication",
+      "title": {
+        "en": "[Alert] Stop using Euky Bear \r\n\t\t\t\tWarm Steam Vaporiser â model number EBSV2013",
+        "zh": "[Alert] Stop using Euky Bear \r\n\t\t\t\tWarm Steam Vaporiser â model number EBSV2013"
+      },
+      "summary": {
+        "en": "Medsafe Alert - Product: Device",
+        "zh": "Medsafe Alert - Product: Device"
+      },
+      "source_url": "https://medsafe.govt.nz/safety/../hot/RecallActionNoticesNew/31811.asp",
+      "source_name": "Official Source",
+      "published_date": "2025-05-30",
+      "detected_date": "2026-07-03T14:00:16Z",
+      "importance": "medium",
+      "tags": [],
+      "related_docs": [],
+      "status": "published"
+    }
+  ],
+  "last_updated": "2026-07-03T14:00:16Z"
+}

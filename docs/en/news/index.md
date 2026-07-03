@@ -462,6 +462,16 @@ Health Canada has issued a safety recall/alert for specific Abiomed Introducer K
 
 ---
 
+### Keynote Address by Adj Prof (Dr) Raymond Chua, Chief Executive Officer, Health Sciences Authority, on "Regulatory Innova
+
+**2026-06-29** | Singapore HSA | Regulation Update | !! MEDIUM
+
+HSA Speeches: Keynote Address by Adj Prof (Dr) Raymond Chua, Chief Executive Officer, Health Sciences Authority, on "Regulatory Innovation as a Catalyst for Global Medtech Growth" for Singapore Medical Device Ventu
+
+[View Source (HSA (Singapore))](https://www.hsa.gov.sg/announcements/keynote-address-by-adj-prof--dr--raymond-chua--chief-executive-officer--health-sciences-authority--on--regulatory-innovation-as-a-catalyst-for-global-medtech-growth--for-singapore-medical-device-venture-showcase/)
+
+---
+
 ### MHRA Guidance: Registering Medical Devices for the Great Britain and Northern Ireland Markets
 
 **2026-06-26** | UK MHRA | Regulation Update | !! MEDIUM
@@ -471,6 +481,17 @@ This MHRA guidance outlines the process for registering medical devices before t
 **Tags**: `medical_device_registration`, `mhra`, `market_access`, `uk_compliance`
 
 [View Source (MHRA (UK))](https://www.gov.uk/guidance/register-medical-devices-to-place-on-the-market)
+
+---
+
+### [Alert] Product 
+				Alert of Dexcom US G7 Sensors: Lots 1725204004 and 1725069002
+
+**2026-06-25** | New Zealand Medsafe | Safety Communication | !! MEDIUM
+
+Medsafe Alert - Product: Device
+
+[View Source (Official Source)](https://medsafe.govt.nz/safety/Alerts/Dexcom-US-G7-Sensors-Lots-1725204004-and-1725069002.asp)
 
 ---
 
@@ -630,6 +651,56 @@ Published 17 June 2026 (effective 11 June 2026), this decision amends Decision 2
 
 ---
 
+### Alerta 5265 (Tecnovigilância) - Comunicado da empresa Zimmer Biomet Brasil Ltda - Sutura MaxBraid.
+
+**2026-06-16** | Brazil ANVISA | Safety Communication | !! MEDIUM
+
+Alerta 5265 (Tecnovigilância) - Comunicado da empresa Zimmer Biomet Brasil Ltda - Sutura MaxBraid.
+
+[View Source (ANVISA (Brazil))](http://antigo.anvisa.gov.br/informacoes-tecnicas13?p_p_id=101_INSTANCE_R6VaZWsQDDzS&p_p_col_id=column-1&p_p_col_count=1&_101_INSTANCE_R6VaZWsQDDzS_groupId=33868&_101_INSTANCE_R6VaZWsQDDzS_urlTitle=alerta-5265-tecnovigilancia-comunicado-da-empresa-zimmer-biomet-brasil-ltda-sutura-maxbraid-&_101_INSTANCE_R6VaZWsQDDzS_struts_action=%2Fasset_publisher%2Fview_content&_101_INSTANCE_R6VaZWsQDDzS_assetEntryId=7288106&_101_INSTANCE_R6VaZWsQDDzS_type=content)
+
+---
+
+### Alerta 5264 (Tecnovigilância) - Comunicado da empresa Olympus Optical do Brasil Ltda - Unidade de Insuflação de Alto Flu
+
+**2026-06-16** | Brazil ANVISA | Safety Communication | !! MEDIUM
+
+Alerta 5264 (Tecnovigilância) - Comunicado da empresa Olympus Optical do Brasil Ltda - Unidade de Insuflação de Alto Flu
+
+[View Source (ANVISA (Brazil))](http://antigo.anvisa.gov.br/informacoes-tecnicas13?p_p_id=101_INSTANCE_R6VaZWsQDDzS&p_p_col_id=column-1&p_p_col_count=1&_101_INSTANCE_R6VaZWsQDDzS_groupId=33868&_101_INSTANCE_R6VaZWsQDDzS_urlTitle=alerta-5264-tecnovigilancia-comunicado-da-empresa-olympus-optical-do-brasil-ltda-unidade-de-insuflacao-de-alto-fluxo-uhi-4-&_101_INSTANCE_R6VaZWsQDDzS_struts_action=%2Fasset_publisher%2Fview_content&_101_INSTANCE_R6VaZWsQDDzS_assetEntryId=7288074&_101_INSTANCE_R6VaZWsQDDzS_type=content)
+
+---
+
+### Alerta 5263 (Tecnovigilância) - Comunicado da empresa Elekta Medical Systems Comércio e Serviços Radioterapia Ltda - Sis
+
+**2026-06-16** | Brazil ANVISA | Safety Communication | !! MEDIUM
+
+Alerta 5263 (Tecnovigilância) - Comunicado da empresa Elekta Medical Systems Comércio e Serviços Radioterapia Ltda - Sis
+
+[View Source (ANVISA (Brazil))](http://antigo.anvisa.gov.br/informacoes-tecnicas13?p_p_id=101_INSTANCE_R6VaZWsQDDzS&p_p_col_id=column-1&p_p_col_count=1&_101_INSTANCE_R6VaZWsQDDzS_groupId=33868&_101_INSTANCE_R6VaZWsQDDzS_urlTitle=alerta-5263-tecnovigilancia-comunicado-da-empresa-elekta-medical-systems-comercio-e-servicos-radioterapia-ltda-sistema-de-braquiterapia-&_101_INSTANCE_R6VaZWsQDDzS_struts_action=%2Fasset_publisher%2Fview_content&_101_INSTANCE_R6VaZWsQDDzS_assetEntryId=7287870&_101_INSTANCE_R6VaZWsQDDzS_type=content)
+
+---
+
+### Alerta 5262 (Tecnovigilância) - Comunicado da empresa Philips Medical Systems Ltda - Azurion (10216710345); Equipamento 
+
+**2026-06-16** | Brazil ANVISA | Safety Communication | !! MEDIUM
+
+Alerta 5262 (Tecnovigilância) - Comunicado da empresa Philips Medical Systems Ltda - Azurion (10216710345); Equipamento 
+
+[View Source (ANVISA (Brazil))](http://antigo.anvisa.gov.br/informacoes-tecnicas13?p_p_id=101_INSTANCE_R6VaZWsQDDzS&p_p_col_id=column-1&p_p_col_count=1&_101_INSTANCE_R6VaZWsQDDzS_groupId=33868&_101_INSTANCE_R6VaZWsQDDzS_urlTitle=alerta-5262-tecnovigilancia-comunicado-da-empresa-philips-medical-systems-ltda-azurion-10216710345-equipamento-para-angiografia-allura-xper-marca-phil&_101_INSTANCE_R6VaZWsQDDzS_struts_action=%2Fasset_publisher%2Fview_content&_101_INSTANCE_R6VaZWsQDDzS_assetEntryId=7287831&_101_INSTANCE_R6VaZWsQDDzS_type=content)
+
+---
+
+### Alerta 5261 (Tecnovigilância) - Comunicado da empresa Philips Medical Systems Ltda - Arco Cirúrgico Zenition.
+
+**2026-06-16** | Brazil ANVISA | Safety Communication | !! MEDIUM
+
+Alerta 5261 (Tecnovigilância) - Comunicado da empresa Philips Medical Systems Ltda - Arco Cirúrgico Zenition.
+
+[View Source (ANVISA (Brazil))](http://antigo.anvisa.gov.br/informacoes-tecnicas13?p_p_id=101_INSTANCE_R6VaZWsQDDzS&p_p_col_id=column-1&p_p_col_count=1&_101_INSTANCE_R6VaZWsQDDzS_groupId=33868&_101_INSTANCE_R6VaZWsQDDzS_urlTitle=alerta-5261-tecnovigilancia-comunicado-da-empresa-philips-medical-systems-ltda-arco-cirurgico-zenition-&_101_INSTANCE_R6VaZWsQDDzS_struts_action=%2Fasset_publisher%2Fview_content&_101_INSTANCE_R6VaZWsQDDzS_assetEntryId=7287780&_101_INSTANCE_R6VaZWsQDDzS_type=content)
+
+---
+
 ### MHRA Weekly Field Safety Notices: 8-12 June 2026
 
 **2026-06-15** | UK MHRA | Safety Communication | !! MEDIUM
@@ -639,6 +710,56 @@ The UK MHRA published the compilation of Field Safety Notices (FSNs) issued betw
 **Tags**: `uk_mhra`, `field_safety_notice`, `safety_surveillance`
 
 [View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-8-12-june-2026)
+
+---
+
+### Alerta 5260 (Tecnovigilância) - Comunicado da empresa GE Healthcare do Brasil, Com. e Serv. para Equipamentos Médico-Hos
+
+**2026-06-15** | Brazil ANVISA | Safety Communication | !! MEDIUM
+
+Alerta 5260 (Tecnovigilância) - Comunicado da empresa GE Healthcare do Brasil, Com. e Serv. para Equipamentos Médico-Hos
+
+[View Source (ANVISA (Brazil))](http://antigo.anvisa.gov.br/informacoes-tecnicas13?p_p_id=101_INSTANCE_R6VaZWsQDDzS&p_p_col_id=column-1&p_p_col_count=1&_101_INSTANCE_R6VaZWsQDDzS_groupId=33868&_101_INSTANCE_R6VaZWsQDDzS_urlTitle=alerta-5260-tecnovigilancia-comunicado-da-empresa-ge-healthcare-do-brasil-com-e-serv-para-equipamentos-medico-hospitalares-ltda-sistema-de-raios-x-800&_101_INSTANCE_R6VaZWsQDDzS_struts_action=%2Fasset_publisher%2Fview_content&_101_INSTANCE_R6VaZWsQDDzS_assetEntryId=7287338&_101_INSTANCE_R6VaZWsQDDzS_type=content)
+
+---
+
+### Alerta 5259 (Tecnovigilância) - Comunicado da empresa Randox Brasil LTDA - Controle de Urinálise.
+
+**2026-06-15** | Brazil ANVISA | Safety Communication | !! MEDIUM
+
+Alerta 5259 (Tecnovigilância) - Comunicado da empresa Randox Brasil LTDA - Controle de Urinálise.
+
+[View Source (ANVISA (Brazil))](http://antigo.anvisa.gov.br/informacoes-tecnicas13?p_p_id=101_INSTANCE_R6VaZWsQDDzS&p_p_col_id=column-1&p_p_col_count=1&_101_INSTANCE_R6VaZWsQDDzS_groupId=33868&_101_INSTANCE_R6VaZWsQDDzS_urlTitle=alerta-5259-tecnovigilancia-comunicado-da-empresa-randox-brasil-ltda-controle-de-urinalise-&_101_INSTANCE_R6VaZWsQDDzS_struts_action=%2Fasset_publisher%2Fview_content&_101_INSTANCE_R6VaZWsQDDzS_assetEntryId=7287301&_101_INSTANCE_R6VaZWsQDDzS_type=content)
+
+---
+
+### Alerta 5258 (Tecnovigilância) - Comunicado da empresa Siemens Healthcare Diagnósticos Ltda - Reagente Flex Tacrolimus (T
+
+**2026-06-15** | Brazil ANVISA | Safety Communication | !! MEDIUM
+
+Alerta 5258 (Tecnovigilância) - Comunicado da empresa Siemens Healthcare Diagnósticos Ltda - Reagente Flex Tacrolimus (T
+
+[View Source (ANVISA (Brazil))](http://antigo.anvisa.gov.br/informacoes-tecnicas13?p_p_id=101_INSTANCE_R6VaZWsQDDzS&p_p_col_id=column-1&p_p_col_count=1&_101_INSTANCE_R6VaZWsQDDzS_groupId=33868&_101_INSTANCE_R6VaZWsQDDzS_urlTitle=alerta-5258-tecnovigilancia-comunicado-da-empresa-siemens-healthcare-diagnosticos-ltda-reagente-flex-tacrolimus-tac-dimension-&_101_INSTANCE_R6VaZWsQDDzS_struts_action=%2Fasset_publisher%2Fview_content&_101_INSTANCE_R6VaZWsQDDzS_assetEntryId=7287205&_101_INSTANCE_R6VaZWsQDDzS_type=content)
+
+---
+
+### Alerta 5257 (Tecnovigilância) - Comunicado da empresa VR Medical Importadora e Distribuidora de Produtos médicos LTDA - 
+
+**2026-06-15** | Brazil ANVISA | Safety Communication | !! MEDIUM
+
+Alerta 5257 (Tecnovigilância) - Comunicado da empresa VR Medical Importadora e Distribuidora de Produtos médicos LTDA - 
+
+[View Source (ANVISA (Brazil))](http://antigo.anvisa.gov.br/informacoes-tecnicas13?p_p_id=101_INSTANCE_R6VaZWsQDDzS&p_p_col_id=column-1&p_p_col_count=1&_101_INSTANCE_R6VaZWsQDDzS_groupId=33868&_101_INSTANCE_R6VaZWsQDDzS_urlTitle=alerta-5257-tecnovigilancia-comunicado-da-empresa-vr-medical-importadora-e-distribuidora-de-produtos-medicos-ltda-exoplan-&_101_INSTANCE_R6VaZWsQDDzS_struts_action=%2Fasset_publisher%2Fview_content&_101_INSTANCE_R6VaZWsQDDzS_assetEntryId=7287066&_101_INSTANCE_R6VaZWsQDDzS_type=content)
+
+---
+
+### Alerta 5256 (Tecnovigilância) - Comunicado da empresa Conmed do Brasil Comercio, Imp. e Exp. de Produtos Médicos Hospita
+
+**2026-06-12** | Brazil ANVISA | Safety Communication | !! MEDIUM
+
+Alerta 5256 (Tecnovigilância) - Comunicado da empresa Conmed do Brasil Comercio, Imp. e Exp. de Produtos Médicos Hospita
+
+[View Source (ANVISA (Brazil))](http://antigo.anvisa.gov.br/informacoes-tecnicas13?p_p_id=101_INSTANCE_R6VaZWsQDDzS&p_p_col_id=column-1&p_p_col_count=1&_101_INSTANCE_R6VaZWsQDDzS_groupId=33868&_101_INSTANCE_R6VaZWsQDDzS_urlTitle=alerta-5256-tecnovigilancia-comunicado-da-empresa-conmed-do-brasil-comercio-imp-e-exp-de-produtos-medicos-hospitalares-ltda-sistema-de-fluxo-inteligen&_101_INSTANCE_R6VaZWsQDDzS_struts_action=%2Fasset_publisher%2Fview_content&_101_INSTANCE_R6VaZWsQDDzS_assetEntryId=7285383&_101_INSTANCE_R6VaZWsQDDzS_type=content)
 
 ---
 
@@ -690,6 +811,26 @@ Scheduled for publication 12 August 2026. Key changes: scope expanded from 'medi
 
 ---
 
+### GN-16 R4 Essential Principles Checklist Template (June 2018 version)172 KBAnnex 3 GN-16 R4 Essential Principles Checklis
+
+**2026-04-01** | Singapore HSA | Regulation Update | !! MEDIUM
+
+HSA medical device guidance update: GN-16 R4 Essential Principles Checklist Template (June 2018 version)172 KBAnnex 3 GN-16 R4 Essential Principles Checklist Template (Dec 2017 version)128 KBChange Management programGN-37-R1 Guidance on Change Management Program (CMP) for SaMD, including machine-learning enabled SaMD [PDF, 294 KB]Dealer's licensingManufacturers, Importers and Wholesalers LicensingGN-02-R8 Guidance on Licensing of Manufacturers Importers and Wholesalers of MD (2026 Apr)
+
+[View Source (Official Source)](https://isomer-user-content.by.gov.sg/409/38884cd0-2e55-4e93-9b86-81936494667c/gn-16-r4-guidance-on-essential-principles-for-safety-and-performance-of-medical-devices(2023-sep)-pub.pdf)
+
+---
+
+### GN-02-R8 Annex 1 Declaration for dealing with MD that are solely for export or re-export purposes
+
+**2026-04-01** | Singapore HSA | Regulation Update | !! MEDIUM
+
+HSA medical device guidance update: GN-02-R8 Annex 1 Declaration for dealing with MD that are solely for export or re-export purposes (2026 Apr)
+
+[View Source (Official Source)](https://go.gov.sg/gn02r8)
+
+---
+
 ### NMPA Announcement No. 21 (2026) -- UDI Full Coverage Implementation Timeline
 
 **2026-03-13** | NMPA | Regulation Update | !!! HIGH
@@ -714,6 +855,16 @@ Published 13 March 2026, defines 7 circumstances where medical devices are exemp
 
 ---
 
+### GN-15-R13 Guidance on Medical Device Product Registration
+
+**2026-03-01** | Singapore HSA | Regulation Update | !! MEDIUM
+
+HSA medical device guidance update: GN-15-R13 Guidance on Medical Device Product Registration (2026 Mar)
+
+[View Source (Official Source)](https://isomer-user-content.by.gov.sg/409/5dcb48bc-ebb9-4085-88bf-d8d0a61899ed/gn-15-r13-guidance-on-medical-device-product-registration-(2026-mar)-pub.pdf)
+
+---
+
 ### FDA Revised Cybersecurity Guidance for Medical Devices (Feb 2026)
 
 **2026-02-03** | FDA | New Guidance | !!! HIGH
@@ -735,5 +886,86 @@ Effective 2 February 2026, the FDA's Quality Management System Regulation (QMSR)
 **Tags**: `quality_management`, `iso_13485`, `cgmp`, `inspection`
 
 [View Source (FDA)](https://www.fda.gov/medical-devices/postmarket-requirements-devices/quality-management-system-regulation-qmsr)
+
+---
+
+### GL-04-R4 Regulatory Guidelines for Software Medical Devices - A Life Cycle Approach
+
+**2025-12-01** | Singapore HSA | Regulation Update | !! MEDIUM
+
+HSA medical device guidance update: GL-04-R4 Regulatory Guidelines for Software Medical Devices - A Life Cycle Approach (2025 Dec)
+
+[View Source (Official Source)](https://isomer-user-content.by.gov.sg/409/26808a93-6a7a-4551-8c66-13046c6124c5/gl-04-r4-regulatory-guidelines-for-software-medical-devices---a-life-cycle-approach-(2025-dec)-pub.pdf)
+
+---
+
+### GN-34 R2 Guidance for IVD Analysers
+
+**2025-10-01** | Singapore HSA | Regulation Update | !! MEDIUM
+
+HSA medical device guidance update: GN-34 R2 Guidance for IVD Analysers (2025 Oct)
+
+[View Source (Official Source)](https://isomer-user-content.by.gov.sg/409/803aec65-d1d6-40ce-b7b6-c984e92524ba/gn-34-r2-guidance-for-ivd-analysers-(2025-oct)-pub.pdf)
+
+---
+
+### GN-17 R4 Guidance on Preparation of a Product Registration Submission for GMD using the ASEAN CSDT
+
+**2025-10-01** | Singapore HSA | Regulation Update | !! MEDIUM
+
+HSA medical device guidance update: GN-17 R4 Guidance on Preparation of a Product Registration Submission for GMD using the ASEAN CSDT (2025 Oct)
+
+[View Source (Official Source)](https://isomer-user-content.by.gov.sg/409/2bfa5cca-bdfc-4795-9ef0-488f67061238/gn-17-r4-guidance-on-preparation-of-a-product-registration-submission-for-gmd-using-the-asean-csdt-(2025-oct)-pub.pdf)
+
+---
+
+### GN-18 R4 Guidance on Preparation of a Product Registration Submission for IVD MD using the ASEAN CSDT
+
+**2025-10-01** | Singapore HSA | Regulation Update | !! MEDIUM
+
+HSA medical device guidance update: GN-18 R4 Guidance on Preparation of a Product Registration Submission for IVD MD using the ASEAN CSDT (2025 Oct)
+
+[View Source (Official Source)](https://isomer-user-content.by.gov.sg/409/0fc98e8f-65fb-4e9a-8833-152825dc9696/annex-2-for-gn-17-and-gn18-list-of-configurations-(2025-oct).xlsx)
+
+---
+
+### GL-08-R2 Regulatory Guidelines for Laboratory Developed Tests (LDTs)
+
+**2025-09-01** | Singapore HSA | Regulation Update | !! MEDIUM
+
+HSA medical device guidance update: GL-08-R2 Regulatory Guidelines for Laboratory Developed Tests (LDTs) (2025 Sep)
+
+[View Source (Official Source)](https://isomer-user-content.by.gov.sg/409/87f2911e-fb1b-4723-9e9c-41176406b9e4/gl-08-r2-regulatory-guidelines-for-laboratory-developed-tests-(ldts)-(2025-sep)-pub.pdf)
+
+---
+
+### GN-25-R1 Guidance on the Cancellation of Medical Device Listing [PDF, 328 KB]Special Access RoutesGN-35-R5 Guidance on S
+
+**2025-09-01** | Singapore HSA | Regulation Update | !! MEDIUM
+
+HSA medical device guidance update: GN-25-R1 Guidance on the Cancellation of Medical Device Listing [PDF, 328 KB]Special Access RoutesGN-35-R5 Guidance on Special Access Routes (2025 Sep)
+
+[View Source (Official Source)](https://isomer-user-content.by.gov.sg/409/554ca683-4a6b-42e6-a8be-a4959997b052/gn-25-r1_guidance-on-the-cancellation-of-medical-device-listing(17dec-pub).pdf)
+
+---
+
+### GN-26 and GN-27 application)MOH CLINICAL JUSTIFICATION REVIEW FORM FOR CLASS D MEDICAL DEVICEGN-30 Product Owner Authori
+
+**2025-09-01** | Singapore HSA | Regulation Update | !! MEDIUM
+
+HSA medical device guidance update: GN-26 and GN-27 application)MOH CLINICAL JUSTIFICATION REVIEW FORM FOR CLASS D MEDICAL DEVICEGN-30 Product Owner Authorisation Template (2025 Sep)
+
+[View Source (HSA (Singapore))](https://www.hsa.gov.sg/medical-devices/guidance-documents/)
+
+---
+
+### [Alert] Stop using Euky Bear 
+				Warm Steam Vaporiser â model number EBSV2013
+
+**2025-05-30** | New Zealand Medsafe | Safety Communication | !! MEDIUM
+
+Medsafe Alert - Product: Device
+
+[View Source (Official Source)](https://medsafe.govt.nz/safety/../hot/RecallActionNoticesNew/31811.asp)
 
 ---
