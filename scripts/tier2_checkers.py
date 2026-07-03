@@ -54,14 +54,31 @@ class TGARSSChecker:
         prev = self.state.get(source_id, {})
         prev_ids = set(prev.get("seen_ids", []))
 
-        try:
-            resp = self.session.get(url, timeout=30)
-            resp.raise_for_status()
-            if len(resp.content) < 50:
-                print(f"    WARNING: TGA RSS returned empty/tiny response ({len(resp.content)} bytes)")
-                return None
-        except Exception as e:
-            print(f"    WARNING: TGA RSS unreachable: {e}")
+        resp = None
+        for attempt in range(3):
+            try:
+                headers = {
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                                  "AppleWebKit/537.36 (KHTML, like Gecko) "
+                                  "Chrome/130.0.0.0 Safari/537.36",
+                    "Accept": "application/rss+xml, application/xml, text/xml, */*",
+                }
+                timeout = 45 + attempt * 15
+                resp = self.session.get(url, timeout=timeout, headers=headers)
+                resp.raise_for_status()
+                if len(resp.content) < 50:
+                    print(f"    WARNING: TGA RSS returned tiny response ({len(resp.content)} bytes), retry {attempt+1}/3")
+                    resp = None
+                    continue
+                break
+            except Exception as e:
+                print(f"    WARNING: TGA RSS attempt {attempt+1}/3 failed: {e}")
+                resp = None
+                import time
+                time.sleep(2 + attempt * 3)
+
+        if resp is None:
+            print("    ERROR: TGA RSS unreachable after 3 attempts")
             return None
 
         entries = self._parse_rss(resp.content)
