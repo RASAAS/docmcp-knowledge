@@ -1,7 +1,140 @@
 {
   "framework": "canada",
-  "last_updated": "2026-07-03T08:06:55Z",
+  "last_updated": "2026-07-06T20:58:28Z",
   "items": [
+    {
+      "id": "canada_20260706_health_canada_recalls_omni_tract_surgical_retractor_system_d",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Recalls Omni-Tract Surgical Retractor System Due to Sterility Failure",
+        "zh": "Omni-Tract外科牵开器系统因无菌问题被加拿大卫生部召回"
+      },
+      "summary": {
+        "en": "Health Canada has issued a safety alert regarding the Omni-Tract Surgical Retractor System after identifying a sterility failure that could lead to surgical site infections. Affected products include specific lots of the retractor system; healthcare facilities should immediately quarantine and stop using the devices. Users must follow the manufacturer's recall instructions for return or disposal to mitigate patient risk.",
+        "zh": "加拿大卫生部针对Omni-Tract外科牵开器系统发布安全警报，原因是发现无菌失效，可能导致手术部位感染。受影响产品为特定批次的牵开器系统，医疗机构应立即停用并隔离相关器械。用户需遵循制造商的召回指引，退回或处置产品以降低患者风险。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/omni-tract-surgical-retractor-system",
+      "source_name": "Health Canada",
+      "published_date": "2026-07-03",
+      "detected_date": "2026-07-06T20:57:44Z",
+      "importance": "high",
+      "tags": [
+        "recall",
+        "sterility",
+        "surgical_instrument",
+        "health_canada"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260706_health_canada_recalls_dlp_select_3d_and_elongated_one_piece",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada recalls DLP Select 3D and Elongated One Piece Arterial Cannulae due to sterility performance issues",
+        "zh": "加拿大卫生部因无菌性能问题召回DLP Select 3D和一体式加长动脉插管"
+      },
+      "summary": {
+        "en": "Health Canada has issued a recall for specific DLP arterial cannulae due to potential sterility concerns that could compromise product performance. Affected devices include DLP Select 3D Arterial Cannula and DLP Elongated One Piece Arterial Cannulae. Healthcare facilities must immediately identify and quarantine affected inventory, discontinue use, and follow the manufacturer’s return or disposal instructions. This safety alert highlights a sterility failure that poses a risk of infection to patients.",
+        "zh": "加拿大卫生部因潜在的无菌问题召回特定型号的DLP动脉插管，涉及DLP Select 3D动脉插管和DLP一体式加长动脉插管。医疗机构应立即识别并隔离受影响产品，停止使用，并遵循制造商的退货或处置指南。该安全警示指向产品无菌性能失效，可能导致患者感染风险。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/dlp-select-3d-arterial-cannula-and-dlp-elongated-one-piece-arterial-cannulae",
+      "source_name": "Health Canada",
+      "published_date": "2026-07-03",
+      "detected_date": "2026-07-06T20:57:52Z",
+      "importance": "high",
+      "tags": [
+        "canada_recall",
+        "sterility_failure",
+        "arterial_cannula",
+        "medical_device",
+        "safety_alert"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260706_health_canada_recalls_hybrid_hydrophilic_microguidewire_due",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Recalls Hybrid Hydrophilic Microguidewire Due to Performance Issue",
+        "zh": "加拿大卫生部因性能问题召回混合亲水微导丝"
+      },
+      "summary": {
+        "en": "Health Canada has issued a recall for the Hybrid Hydrophilic Microguidewire because of a performance defect. The issue may cause coating separation, wire fracture, or loss of hydrophilicity, potentially leading to vascular injury, embolism, or procedural failure. Healthcare professionals must immediately stop using the affected device, quarantine any inventory, and follow the manufacturer's recall instructions for return or replacement.",
+        "zh": "加拿大卫生部因性能缺陷对混合亲水微导丝发出召回通知。该问题可能导致涂层分离、导丝断裂或亲水性丧失，可能引起血管损伤、栓塞或手术失败。医务人员须立即停用受影响产品，隔离库存，并按照制造商召回指引进行退换货。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/hybrid-hydrophilic-microguidewire",
+      "source_name": "Health Canada",
+      "published_date": "2026-07-03",
+      "detected_date": "2026-07-06T20:58:04Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "safety_alert",
+        "microguidewire",
+        "canada"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260706_intramedullary_bone_saw_blade_assembly_recalled_in_canada_du",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Intramedullary Bone Saw Blade Assembly Recalled in Canada Due to Sterility Issues",
+        "zh": "加拿大因无菌问题召回髓内骨锯刀片组件"
+      },
+      "summary": {
+        "en": "Health Canada has issued a recall for the Intramedullary Bone Saw Blade Assembly due to a lack of sterility assurance. The affected devices may not be sterile, posing a risk of infection to patients. Healthcare facilities must immediately quarantine and discontinue use of the impacted lots, and contact the manufacturer for return or replacement. This recall is part of a broader safety alert for medical devices.",
+        "zh": "加拿大卫生部因无菌保证问题召回髓内骨锯刀片组件。受影响器械可能未达无菌状态，对患者构成感染风险。医疗机构须立即隔离并停用相关批次产品，并联系制造商进行退货或更换。此次召回属于医疗器械安全警报的一部分。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/intramedullary-bone-saw-blade-assembly",
+      "source_name": "Health Canada",
+      "published_date": "2026-07-03",
+      "detected_date": "2026-07-06T20:58:14Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "sterility_issue",
+        "bone_saw_blade",
+        "health_canada",
+        "orthopedic_device"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260706_health_canada_recalls_urinary_catheter_trays_with_cliniclean",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Recalls Urinary Catheter Trays with Cliniclean Pericare Wipes Over Performance Concerns",
+        "zh": "加拿大卫生部因性能问题召回含Cliniclean Pericare湿巾的导尿管托盘"
+      },
+      "summary": {
+        "en": "Health Canada has issued a recall for urinary catheter trays that contain Cliniclean Pericare Wipes due to performance deficiencies that may affect their intended cleaning and antiseptic function. Healthcare facilities and patients using these trays are affected. Users should immediately stop using the affected lots, quarantine the products, and contact the supplier for return and replacement.",
+        "zh": "加拿大卫生部已发出召回通知，涉及含有Cliniclean Pericare湿巾的导尿管托盘，原因是这些湿巾存在性能缺陷，可能影响其预期的清洁和消毒功能。受影响的包括使用此类托盘的医疗机构和患者。应立即停止使用受影响批次的产品，隔离库存，并联系供应商进行退回和更换。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/urinary-catheter-trays-containing-cliniclean-pericare-wipes",
+      "source_name": "Health Canada",
+      "published_date": "2026-07-03",
+      "detected_date": "2026-07-06T20:58:28Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "catheter_tray",
+        "performance_issue",
+        "cliniclean",
+        "health_canada"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
     {
       "id": "canada_20260703_health_canada_alert_performance_issue_with_aisys_avance_and",
       "framework": "canada",

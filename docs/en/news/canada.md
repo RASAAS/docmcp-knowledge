@@ -6,6 +6,66 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### Health Canada Recalls Omni-Tract Surgical Retractor System Due to Sterility Failure
+
+**2026-07-03** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a safety alert regarding the Omni-Tract Surgical Retractor System after identifying a sterility failure that could lead to surgical site infections. Affected products include specific lots of the retractor system; healthcare facilities should immediately quarantine and stop using the devices. Users must follow the manufacturer's recall instructions for return or disposal to mitigate patient risk.
+
+**Tags**: `recall`, `sterility`, `surgical_instrument`, `health_canada`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/omni-tract-surgical-retractor-system)
+
+---
+
+### Health Canada recalls DLP Select 3D and Elongated One Piece Arterial Cannulae due to sterility performance issues
+
+**2026-07-03** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a recall for specific DLP arterial cannulae due to potential sterility concerns that could compromise product performance. Affected devices include DLP Select 3D Arterial Cannula and DLP Elongated One Piece Arterial Cannulae. Healthcare facilities must immediately identify and quarantine affected inventory, discontinue use, and follow the manufacturer’s return or disposal instructions. This safety alert highlights a sterility failure that poses a risk of infection to patients.
+
+**Tags**: `canada_recall`, `sterility_failure`, `arterial_cannula`, `medical_device`, `safety_alert`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/dlp-select-3d-arterial-cannula-and-dlp-elongated-one-piece-arterial-cannulae)
+
+---
+
+### Health Canada Recalls Hybrid Hydrophilic Microguidewire Due to Performance Issue
+
+**2026-07-03** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a recall for the Hybrid Hydrophilic Microguidewire because of a performance defect. The issue may cause coating separation, wire fracture, or loss of hydrophilicity, potentially leading to vascular injury, embolism, or procedural failure. Healthcare professionals must immediately stop using the affected device, quarantine any inventory, and follow the manufacturer's recall instructions for return or replacement.
+
+**Tags**: `medical_device_recall`, `safety_alert`, `microguidewire`, `canada`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/hybrid-hydrophilic-microguidewire)
+
+---
+
+### Intramedullary Bone Saw Blade Assembly Recalled in Canada Due to Sterility Issues
+
+**2026-07-03** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a recall for the Intramedullary Bone Saw Blade Assembly due to a lack of sterility assurance. The affected devices may not be sterile, posing a risk of infection to patients. Healthcare facilities must immediately quarantine and discontinue use of the impacted lots, and contact the manufacturer for return or replacement. This recall is part of a broader safety alert for medical devices.
+
+**Tags**: `medical_device_recall`, `sterility_issue`, `bone_saw_blade`, `health_canada`, `orthopedic_device`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/intramedullary-bone-saw-blade-assembly)
+
+---
+
+### Health Canada Recalls Urinary Catheter Trays with Cliniclean Pericare Wipes Over Performance Concerns
+
+**2026-07-03** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a recall for urinary catheter trays that contain Cliniclean Pericare Wipes due to performance deficiencies that may affect their intended cleaning and antiseptic function. Healthcare facilities and patients using these trays are affected. Users should immediately stop using the affected lots, quarantine the products, and contact the supplier for return and replacement.
+
+**Tags**: `medical_device_recall`, `catheter_tray`, `performance_issue`, `cliniclean`, `health_canada`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/urinary-catheter-trays-containing-cliniclean-pericare-wipes)
+
+---
+
 ### Health Canada Alert: Performance Issue with Aisys, Avance, and Aespire Anesthesia Machines
 
 **2026-07-02** | Health Canada | Safety Communication | !!! HIGH

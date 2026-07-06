@@ -1,7 +1,35 @@
 {
   "framework": "uk_mhra",
-  "last_updated": "2026-07-03T08:06:55Z",
+  "last_updated": "2026-07-06T20:58:28Z",
   "items": [
+    {
+      "id": "uk_mhra_20260706_mhra_updates_guidance_on_clinical_investigation_notification",
+      "framework": "uk_mhra",
+      "category": "regulation_update",
+      "title": {
+        "en": "MHRA Updates Guidance on Clinical Investigation Notifications for Medical Devices",
+        "zh": "MHRA更新医疗器械临床研究申报指南"
+      },
+      "summary": {
+        "en": "The UK's MHRA has published updated guidance outlining the process for notifying the regulator about planned clinical investigations for medical devices. Sponsors and manufacturers must submit specific notification forms with required documentation before starting a study in the UK. This update ensures clarity on regulatory obligations and patient safety requirements for all parties involved in medical device clinical investigations.",
+        "zh": "英国MHRA发布更新指南，说明医疗器械临床研究的申报流程。申办方和生产企业在英国启动研究前，须提交指定通知表格及所需文件。该更新进一步明确了所有相关方在临床研究中的法规义务和患者安全要求。"
+      },
+      "source_url": "https://www.gov.uk/guidance/notify-mhra-about-a-clinical-investigation-for-a-medical-device",
+      "source_name": "MHRA (UK)",
+      "published_date": "2026-07-06",
+      "detected_date": "2026-07-06T20:57:30Z",
+      "importance": "medium",
+      "tags": [
+        "clinical_investigations",
+        "mhra",
+        "notification",
+        "medical_devices",
+        "uk_regulations",
+        "guidance_update"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
     {
       "id": "uk_mhra_20260703_borderline_products_mhra_guidance_on_determining_if_your_pro",
       "framework": "uk_mhra",

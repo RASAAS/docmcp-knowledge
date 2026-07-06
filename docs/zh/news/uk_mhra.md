@@ -6,6 +6,18 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### MHRA更新医疗器械临床研究申报指南
+
+**2026-07-06** | UK MHRA | 法规更新 | !! MEDIUM
+
+英国MHRA发布更新指南，说明医疗器械临床研究的申报流程。申办方和生产企业在英国启动研究前，须提交指定通知表格及所需文件。该更新进一步明确了所有相关方在临床研究中的法规义务和患者安全要求。
+
+**标签**: `clinical_investigations`, `mhra`, `notification`, `medical_devices`, `uk_regulations`, `guidance_update`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/guidance/notify-mhra-about-a-clinical-investigation-for-a-medical-device)
+
+---
+
 ### 边界产品：MHRA发布如何判断产品是否为药品的指南
 
 **2026-07-02** | UK MHRA | 法规更新 | !! MEDIUM

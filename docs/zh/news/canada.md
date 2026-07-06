@@ -6,6 +6,66 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### Omni-Tract外科牵开器系统因无菌问题被加拿大卫生部召回
+
+**2026-07-03** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部针对Omni-Tract外科牵开器系统发布安全警报，原因是发现无菌失效，可能导致手术部位感染。受影响产品为特定批次的牵开器系统，医疗机构应立即停用并隔离相关器械。用户需遵循制造商的召回指引，退回或处置产品以降低患者风险。
+
+**标签**: `recall`, `sterility`, `surgical_instrument`, `health_canada`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/omni-tract-surgical-retractor-system)
+
+---
+
+### 加拿大卫生部因无菌性能问题召回DLP Select 3D和一体式加长动脉插管
+
+**2026-07-03** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部因潜在的无菌问题召回特定型号的DLP动脉插管，涉及DLP Select 3D动脉插管和DLP一体式加长动脉插管。医疗机构应立即识别并隔离受影响产品，停止使用，并遵循制造商的退货或处置指南。该安全警示指向产品无菌性能失效，可能导致患者感染风险。
+
+**标签**: `canada_recall`, `sterility_failure`, `arterial_cannula`, `medical_device`, `safety_alert`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/dlp-select-3d-arterial-cannula-and-dlp-elongated-one-piece-arterial-cannulae)
+
+---
+
+### 加拿大卫生部因性能问题召回混合亲水微导丝
+
+**2026-07-03** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部因性能缺陷对混合亲水微导丝发出召回通知。该问题可能导致涂层分离、导丝断裂或亲水性丧失，可能引起血管损伤、栓塞或手术失败。医务人员须立即停用受影响产品，隔离库存，并按照制造商召回指引进行退换货。
+
+**标签**: `medical_device_recall`, `safety_alert`, `microguidewire`, `canada`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/hybrid-hydrophilic-microguidewire)
+
+---
+
+### 加拿大因无菌问题召回髓内骨锯刀片组件
+
+**2026-07-03** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部因无菌保证问题召回髓内骨锯刀片组件。受影响器械可能未达无菌状态，对患者构成感染风险。医疗机构须立即隔离并停用相关批次产品，并联系制造商进行退货或更换。此次召回属于医疗器械安全警报的一部分。
+
+**标签**: `medical_device_recall`, `sterility_issue`, `bone_saw_blade`, `health_canada`, `orthopedic_device`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/intramedullary-bone-saw-blade-assembly)
+
+---
+
+### 加拿大卫生部因性能问题召回含Cliniclean Pericare湿巾的导尿管托盘
+
+**2026-07-03** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已发出召回通知，涉及含有Cliniclean Pericare湿巾的导尿管托盘，原因是这些湿巾存在性能缺陷，可能影响其预期的清洁和消毒功能。受影响的包括使用此类托盘的医疗机构和患者。应立即停止使用受影响批次的产品，隔离库存，并联系供应商进行退回和更换。
+
+**标签**: `medical_device_recall`, `catheter_tray`, `performance_issue`, `cliniclean`, `health_canada`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/urinary-catheter-trays-containing-cliniclean-pericare-wipes)
+
+---
+
 ### 加拿大卫生部警示：Aisys、Avance和Aespire麻醉机性能问题
 
 **2026-07-02** | Health Canada | 安全通报 | !!! HIGH

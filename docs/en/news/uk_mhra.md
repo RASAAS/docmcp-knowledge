@@ -6,6 +6,18 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### MHRA Updates Guidance on Clinical Investigation Notifications for Medical Devices
+
+**2026-07-06** | UK MHRA | Regulation Update | !! MEDIUM
+
+The UK's MHRA has published updated guidance outlining the process for notifying the regulator about planned clinical investigations for medical devices. Sponsors and manufacturers must submit specific notification forms with required documentation before starting a study in the UK. This update ensures clarity on regulatory obligations and patient safety requirements for all parties involved in medical device clinical investigations.
+
+**Tags**: `clinical_investigations`, `mhra`, `notification`, `medical_devices`, `uk_regulations`, `guidance_update`
+
+[View Source (MHRA (UK))](https://www.gov.uk/guidance/notify-mhra-about-a-clinical-investigation-for-a-medical-device)
+
+---
+
 ### Borderline products: MHRA guidance on determining if your product is a medicine
 
 **2026-07-02** | UK MHRA | Regulation Update | !! MEDIUM
