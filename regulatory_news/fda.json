@@ -1,6 +1,6 @@
 {
   "framework": "fda",
-  "last_updated": "2026-07-03T08:06:55Z",
+  "last_updated": "2026-07-07T20:54:40Z",
   "items": [
     {
       "id": "fda_20260703_fda_class_i_recall_insulet_removes_omnipod_pods_insulin_pump",
@@ -56,6 +56,109 @@
         "abiomed",
         "catheter_perforation"
       ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260707_class_i_recall_abiomed_inc_abiomed_impella_cp_set_with_smart",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Abiomed, Inc. - Abiomed Impella CP Set with SmartAssist (10th Generation) containing affected 14",
+        "zh": "I级召回：Abiomed Impella CP智能辅助套装（第10代）含问题14号组件"
+      },
+      "summary": {
+        "en": "Abiomed, Inc. is recalling 168 units of its Impella CP Set with SmartAssist (10th Generation) that contain the affected component 14. The recall was initiated due to the potential for thrombus formation during prolonged use of the introducer. Customers should immediately locate and quarantine the affected sets, discontinue use, and return them to Abiomed as instructed in the firm's Urgent Medical Device Recall notice.",
+        "zh": "Abiomed公司因配套引入器长时间使用时可能导致血栓形成，正在召回168台第10代Impella CP智能辅助套装（含受影响的14号组件）。医疗机构应立即清点库存，停止使用相关产品，并按照紧急医疗器械召回通知要求退回给Abiomed。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2601-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-01",
+      "detected_date": "2026-07-07T20:53:30Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "abiomed",
+        "impella_cp",
+        "thrombus",
+        "introducer"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260707_abiomed_recalls_impella_cp_low_profile_introducer_kit_due_to",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Abiomed Recalls Impella CP Low Profile Introducer Kit Due to Thrombus Risk – FDA Class I Recall",
+        "zh": "Abiomed召回Impella CP导入器套件，因血栓风险——FDA I类召回"
+      },
+      "summary": {
+        "en": "Abiomed, Inc. has initiated a Class I recall of its Abiomed 14 Fr x 25 cm Low Profile Introducer Kit for Impella CP, part of the Impella Set Pro, due to the potential for thrombus formation during prolonged use. The FDA has classified this as the most serious type of recall, indicating a risk of serious injury or death. A total of 17 units are affected. Healthcare providers should immediately stop using the recalled devices, quarantine them, and contact Abiomed for return instructions.",
+        "zh": "Abiomed, Inc.已对其Impella CP系统使用的14Fr×25cm薄壁导入器套件发起I类召回，原因是长时间使用可能导致血栓形成。FDA将此列为最严重的召回级别，提示存在重伤或死亡风险。受影响产品共17件，医疗机构应立即停用、隔离该产品，并联系Abiomed办理退货。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2600-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-01",
+      "detected_date": "2026-07-07T20:53:49Z",
+      "importance": "high",
+      "tags": [
+        "fda_class_i_recall",
+        "abiomed",
+        "impella_cp",
+        "introducer_kit",
+        "thrombus_risk",
+        "medical_device"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260707_class_i_recall_abiomed_14_fr_low_profile_introducer_kit_for",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Abiomed 14 Fr Low Profile Introducer Kit for Impella CP – Thrombus Formation Risk",
+        "zh": "Abiomed Impella CP低轮廓导入器套件因血栓风险启动一级召回"
+      },
+      "summary": {
+        "en": "Abiomed, Inc. is recalling its 14 Fr x 13 cm Low Profile Introducer Kit (used with Impella CP/Impella Set Pro) due to a potential for thrombus formation during prolonged use. This Class I recall, the most serious type, involves only 3 units. Users should immediately quarantine the affected kits and follow the manufacturer’s instructions to prevent possible embolic events.",
+        "zh": "Abiomed公司对用于Impella CP系统的14 Fr x 13 cm低轮廓导入器套件（Impella Set Pro组件）发起一级召回，原因是在延长使用期间可能形成血栓。此次最严重级别的召回仅涉及3台设备。相关用户应立即隔离受影响产品并遵循厂家通知，以防范血栓脱落导致栓塞等严重风险。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2599-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-01",
+      "detected_date": "2026-07-07T20:54:08Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "thrombus_formation",
+        "impella_cp",
+        "abiomed",
+        "introducer_kit"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260707_class_i_recall_medline_industries_lp_medline_convenience_kit",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Medline Industries, LP - Medline Convenience Kits:   1) DYNJ905503F, Model Number: CV ANESTHESIA - ROOM ",
+        "zh": "Class I Recall: Medline Industries, LP - Medline Convenience Kits:   1) DYNJ905503F, Model Number: CV ANESTHESIA - ROOM "
+      },
+      "summary": {
+        "en": "Recall #Z-2452-2026 by Medline Industries, LP. Reason: The Medline Convenience Kits contain Arrow Kits and Sets that include Lidocaine Hydrochloride Injection, USP and Bupivacaine Hydrochloride in Dextrose Injection, USP which were recalled due to quality. Quantity: 227 units.",
+        "zh": "Recall #Z-2452-2026 by Medline Industries, LP. Reason: The Medline Convenience Kits contain Arrow Kits and Sets that include Lidocaine Hydrochloride Injection, USP and Bupivacaine Hydrochloride in Dextrose Injection, USP which were recalled due to quality. Quantity: 227 units."
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2452-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-01",
+      "detected_date": "2026-07-07T20:54:40Z",
+      "importance": "medium",
+      "tags": [],
       "related_docs": [],
       "status": "published"
     },
@@ -135,6 +238,59 @@
         "collimator_failure",
         "patient_safety",
         "fda_recall"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260707_recall_zimmer_surgical_sterile_tourniquet_hoses_a_t_s_4000_t",
+      "framework": "fda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Recall: Zimmer Surgical Sterile Tourniquet Hoses (A.T.S 4000 TS) – Potential Sterility Breach (Recall Z-2673-2026)",
+        "zh": "Zimmer Surgical A.T.S 4000 TS 无菌止血带软管召回：无菌包装密封失效风险"
+      },
+      "summary": {
+        "en": "Zimmer Surgical has initiated a recall (Z-2673-2026) of its A.T.S 4000 TS Tourniquet Systems Dual Hose with CPC Connectors due to a potential sterility breach in the sealing area of the sterile pouch. Use of affected devices could lead to moderate localized infection requiring treatment; if the issue is noticed before use, it may cause a clinically insignificant delay while an alternative device is obtained. Healthcare providers should immediately identify and quarantine all affected units, stop using them, and return them to the manufacturer as instructed.",
+        "zh": "Zimmer Surgical 已对其 A.T.S 4000 TS 止血带系统双管（带 CPC 连接器）发起召回（召回编号 Z-2673-2026），原因是无菌袋密封区域存在潜在的无菌性破坏。使用受影响产品可能导致中度局部感染；若在术前发现，需临时寻找替代设备，可能造成手术的轻微延迟。医疗机构应立即查点隔离受影响产品，停止使用并按照厂家指示退货。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=220992",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-06-09",
+      "detected_date": "2026-07-07T20:52:51Z",
+      "importance": "high",
+      "tags": [
+        "device_recall",
+        "sterility_breach",
+        "tourniquet_hoses",
+        "zimmer_surgical"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260707_zimmer_surgical_recalls_a_t_s_4000_ts_tourniquet_single_hose",
+      "framework": "fda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Zimmer Surgical Recalls A.T.S 4000 TS Tourniquet Single Hose Over Potential Sterility Breach",
+        "zh": "捷迈外科召回A.T.S 4000 TS止血带单管，因无菌袋封口存在潜在破损"
+      },
+      "summary": {
+        "en": "The FDA has announced a recall of Zimmer Surgical's A.T.S 4000 TS Tourniquet Systems Single Hose with CPC Connectors (Recall Z-2674-2026) due to a potential sterility breach in the sealing area of the sterile pouch. If the affected device is used, it may lead to moderate localized infection; if discovered prior to use, it may cause a clinically insignificant extension of surgery while an alternative is sourced. Healthcare providers should immediately identify and quarantine all affected units.",
+        "zh": "美国FDA宣布召回捷迈外科（Zimmer Surgical）生产的A.T.S 4000 TS止血带系统单管（带CPC接头，召回编号Z-2674-2026），原因是无菌袋封口区域可能存在无菌性破损。若使用受影响的器械，可能导致中度局部感染；若术前发现，则可能轻微延长手术时间以替换各用器械。医疗机构应立即识别并隔离所有相关产品。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=220993",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-06-09",
+      "detected_date": "2026-07-07T20:53:06Z",
+      "importance": "high",
+      "tags": [
+        "recall",
+        "sterility_breach",
+        "tourniquet_hose",
+        "zimmer_surgical",
+        "infection_risk"
       ],
       "related_docs": [],
       "status": "published"

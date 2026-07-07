@@ -30,6 +30,52 @@ Abiomed is recalling its Impella CP with SmartAssist sets after reports of the c
 
 ---
 
+### Class I Recall: Abiomed, Inc. - Abiomed Impella CP Set with SmartAssist (10th Generation) containing affected 14
+
+**2026-07-01** | FDA | recall_class1 | !!! HIGH
+
+Abiomed, Inc. is recalling 168 units of its Impella CP Set with SmartAssist (10th Generation) that contain the affected component 14. The recall was initiated due to the potential for thrombus formation during prolonged use of the introducer. Customers should immediately locate and quarantine the affected sets, discontinue use, and return them to Abiomed as instructed in the firm's Urgent Medical Device Recall notice.
+
+**Tags**: `class_i_recall`, `abiomed`, `impella_cp`, `thrombus`, `introducer`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2601-2026)
+
+---
+
+### Abiomed Recalls Impella CP Low Profile Introducer Kit Due to Thrombus Risk – FDA Class I Recall
+
+**2026-07-01** | FDA | recall_class1 | !!! HIGH
+
+Abiomed, Inc. has initiated a Class I recall of its Abiomed 14 Fr x 25 cm Low Profile Introducer Kit for Impella CP, part of the Impella Set Pro, due to the potential for thrombus formation during prolonged use. The FDA has classified this as the most serious type of recall, indicating a risk of serious injury or death. A total of 17 units are affected. Healthcare providers should immediately stop using the recalled devices, quarantine them, and contact Abiomed for return instructions.
+
+**Tags**: `fda_class_i_recall`, `abiomed`, `impella_cp`, `introducer_kit`, `thrombus_risk`, `medical_device`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2600-2026)
+
+---
+
+### Class I Recall: Abiomed 14 Fr Low Profile Introducer Kit for Impella CP – Thrombus Formation Risk
+
+**2026-07-01** | FDA | recall_class1 | !!! HIGH
+
+Abiomed, Inc. is recalling its 14 Fr x 13 cm Low Profile Introducer Kit (used with Impella CP/Impella Set Pro) due to a potential for thrombus formation during prolonged use. This Class I recall, the most serious type, involves only 3 units. Users should immediately quarantine the affected kits and follow the manufacturer’s instructions to prevent possible embolic events.
+
+**Tags**: `class_i_recall`, `thrombus_formation`, `impella_cp`, `abiomed`, `introducer_kit`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2599-2026)
+
+---
+
+### Class I Recall: Medline Industries, LP - Medline Convenience Kits:   1) DYNJ905503F, Model Number: CV ANESTHESIA - ROOM 
+
+**2026-07-01** | FDA | recall_class1 | !! MEDIUM
+
+Recall #Z-2452-2026 by Medline Industries, LP. Reason: The Medline Convenience Kits contain Arrow Kits and Sets that include Lidocaine Hydrochloride Injection, USP and Bupivacaine Hydrochloride in Dextrose Injection, USP which were recalled due to quality. Quantity: 227 units.
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2452-2026)
+
+---
+
 ### FDA Title 21 CFR Update: Medical Device Parts 800-898 Revised (June 26, 2026)
 
 **2026-06-30** | FDA | Regulation Update | !! MEDIUM
@@ -63,6 +109,30 @@ The FDA announced a recall of Accuray's CyberKnife Treatment Delivery System equ
 **Tags**: `device_recall`, `radiation_oncology`, `collimator_failure`, `patient_safety`, `fda_recall`
 
 [View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=220764)
+
+---
+
+### Recall: Zimmer Surgical Sterile Tourniquet Hoses (A.T.S 4000 TS) – Potential Sterility Breach (Recall Z-2673-2026)
+
+**2026-06-09** | FDA | Safety Communication | !!! HIGH
+
+Zimmer Surgical has initiated a recall (Z-2673-2026) of its A.T.S 4000 TS Tourniquet Systems Dual Hose with CPC Connectors due to a potential sterility breach in the sealing area of the sterile pouch. Use of affected devices could lead to moderate localized infection requiring treatment; if the issue is noticed before use, it may cause a clinically insignificant delay while an alternative device is obtained. Healthcare providers should immediately identify and quarantine all affected units, stop using them, and return them to the manufacturer as instructed.
+
+**Tags**: `device_recall`, `sterility_breach`, `tourniquet_hoses`, `zimmer_surgical`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=220992)
+
+---
+
+### Zimmer Surgical Recalls A.T.S 4000 TS Tourniquet Single Hose Over Potential Sterility Breach
+
+**2026-06-09** | FDA | Safety Communication | !!! HIGH
+
+The FDA has announced a recall of Zimmer Surgical's A.T.S 4000 TS Tourniquet Systems Single Hose with CPC Connectors (Recall Z-2674-2026) due to a potential sterility breach in the sealing area of the sterile pouch. If the affected device is used, it may lead to moderate localized infection; if discovered prior to use, it may cause a clinically insignificant extension of surgery while an alternative is sourced. Healthcare providers should immediately identify and quarantine all affected units.
+
+**Tags**: `recall`, `sterility_breach`, `tourniquet_hose`, `zimmer_surgical`, `infection_risk`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=220993)
 
 ---
 
