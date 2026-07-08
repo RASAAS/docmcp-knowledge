@@ -1,0 +1,15 @@
+name = "reguverse-hub-api"
+main = "src/index.ts"
+compatibility_date = "2024-09-23"
+
+[vars]
+ALLOWED_ORIGIN = "https://docs.team-ra.org"
+DOCMCP_API_URL = "https://llm.team-ra.org"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "reguverse-hub"
+database_id = "placeholder-create-via-wrangler"
+
+# Turnstile secret key -- set via `wrangler secret put TURNSTILE_SECRET`
+# TURNSTILE_SECRET = ""
