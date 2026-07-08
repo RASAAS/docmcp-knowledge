@@ -1,7 +1,199 @@
 {
   "framework": "japan_pmda",
-  "last_updated": "2026-07-03T08:06:55Z",
+  "last_updated": "2026-07-08T20:20:50Z",
   "items": [
+    {
+      "id": "japan_pmda_20260708_class_ii_recall_of_noritsu_precision_enteral_feeding_pump_cp",
+      "framework": "japan_pmda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Class II Recall of Noritsu Precision Enteral Feeding Pump CP-55E (Enteral Nutrition Infusion Pump) in Japan",
+        "zh": "日本Noritsu Precision肠内营养泵CP-55E II级召回"
+      },
+      "summary": {
+        "en": "The PMDA has issued a Class II recall for the Enteral Feeding Pump CP-55E, an enteral nutrition infusion pump manufactured by Noritsu Precision Co., Ltd. This recall addresses a safety-related issue that may affect device performance or labeling. Healthcare facilities using this pump should immediately identify affected units, cease use if instructed, and follow the manufacturer’s corrective actions as detailed in the recall notice.",
+        "zh": "日本药品医疗器械综合机构（PMDA）发布了对Noritsu Precision株式会社生产的肠内营养输液泵CP-55E的II级召回。此次召回涉及可能影响设备性能或标识的安全问题。使用该产品的医疗机构应立即确认受影响设备，按召回通知要求停用并执行制造商提供的纠正措施。"
+      },
+      "source_url": "https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12882",
+      "source_name": "PMDA (Japan)",
+      "published_date": "2026-07-07",
+      "detected_date": "2026-07-08T20:19:00Z",
+      "importance": "medium",
+      "tags": [
+        "class_ii_recall",
+        "enteral_feeding_pump",
+        "pmda_japan"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "japan_pmda_20260708_philips_japan_recalls_integris_allura_flat_detector_allura_c",
+      "framework": "japan_pmda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Philips Japan Recalls Integris Allura Flat Detector, Allura Centron, and Azurion Cardiac X-Ray Fluoroscopic Systems (Class II)",
+        "zh": "菲利普日本召回Integris Allura平板探测器、Allura Centron及Azurion心脏X射线透视装置 (II类召回)"
+      },
+      "summary": {
+        "en": "Philips Japan has initiated a Class II recall (No. 2-12881) for three stationary digital cardiac X-ray fluoroscopic diagnostic devices: Integris Allura Flat Detector, Allura Centron, and Azurion. This recall addresses a moderate safety risk that may affect device performance or patient safety. Healthcare facilities using these systems should immediately follow the manufacturer's field safety corrective action, which may involve inspection, software update, or part replacement, and contact Philips Japan for guidance.",
+        "zh": "菲利普日本公司已启动II类召回（编号2-12881），涉及三款固定式数字心脏X射线透视诊断装置：Integris Allura平板探测器、Allura Centron和Azurion。此次召回针对一个中等安全风险，可能影响设备性能或患者安全。使用这些系统的医疗机构应立即执行制造商的现场安全纠正措施，包括检查、软件更新或部件更换，并联系菲利普日本获取指导。"
+      },
+      "source_url": "https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12881",
+      "source_name": "PMDA (Japan)",
+      "published_date": "2026-07-07",
+      "detected_date": "2026-07-08T20:19:19Z",
+      "importance": "medium",
+      "tags": [
+        "philips",
+        "allura",
+        "azurion",
+        "cardiac_x_ray",
+        "class_ii_recall",
+        "pmda_japan"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "japan_pmda_20260708_class_ii_recall_covidien_japan_v_loc90_v_loc180_barbed_sutur",
+      "framework": "japan_pmda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Class II Recall: Covidien Japan V-Loc90 & V-Loc180 Barbed Suture Closure Devices",
+        "zh": "二级召回：Covidien Japan V-Loc90和V-Loc180带刺缝合闭合装置"
+      },
+      "summary": {
+        "en": "Covidien Japan has issued a Class II recall (No. 2-12880) for its V-Loc90 and V-Loc180 barbed closure devices, which use polyglycomer and polyglyconate sutures respectively. The recall addresses a potential manufacturing defect that may compromise suture integrity, posing a risk of wound dehiscence or prolonged healing. Healthcare providers must immediately identify and quarantine affected lots, discontinue use, and arrange product return to the manufacturer.",
+        "zh": "Covidien Japan 已对其 V-Loc90 和 V-Loc180 带刺缝合闭合装置（分别采用聚多糖可吸收和聚葡糖酸盐缝线）启动二级召回（编号 2-12880）。此次召回涉及潜在的生产缺陷，可能导致缝线完整性受损，增加切口裂开或延迟愈合的风险。医疗机构须立即识别并隔离受影响批次、停止使用，并安排产品退回厂家。"
+      },
+      "source_url": "https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12880",
+      "source_name": "PMDA (Japan)",
+      "published_date": "2026-07-07",
+      "detected_date": "2026-07-08T20:19:44Z",
+      "importance": "medium",
+      "tags": [
+        "recall",
+        "class_ii",
+        "suture",
+        "barbed_suture",
+        "covidien",
+        "pmda"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "japan_pmda_20260708_pmda_class_ii_recall_sensitouch_synthetic_rubber_surgical_gl",
+      "framework": "japan_pmda",
+      "category": "safety_communication",
+      "title": {
+        "en": "PMDA Class II Recall: Sensitouch Synthetic Rubber Surgical Gloves (Non-Latex) by Toray Medical (Recall No. 2-12879)",
+        "zh": "PMDA II类召回：东丽医疗Sensitouch合成橡胶手术手套（非乳胶）"
+      },
+      "summary": {
+        "en": "The Japanese PMDA issued a Class II recall for Sensitouch synthetic rubber surgical gloves manufactured by Toray Medical Co., Ltd. This moderate-risk recall addresses a potential quality defect that could compromise glove integrity. Healthcare providers must immediately identify and quarantine affected lots, cease use, and follow the manufacturer's return or disposal instructions as detailed in recall notice 2-12879.",
+        "zh": "日本PMDA发布了对东丽医疗株式会社生产的Sensitouch合成橡胶手术手套（非乳胶）的II类召回。该召回为中等风险，涉及可能影响手套屏障完整性的质量缺陷。医疗机构须立即停用并隔离受影响批次，按照召回通知（编号2-12879）联系东丽医疗办理退货或处置。"
+      },
+      "source_url": "https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12879",
+      "source_name": "PMDA (Japan)",
+      "published_date": "2026-07-07",
+      "detected_date": "2026-07-08T20:20:07Z",
+      "importance": "medium",
+      "tags": [
+        "surgical_gloves",
+        "class_ii_recall",
+        "non_latex",
+        "pmda",
+        "toray_medical",
+        "product_safety"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "japan_pmda_20260708_class_ii_recall_of_vitros_xt7600_5600ii_5600_4600_clinical_c",
+      "framework": "japan_pmda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Class II Recall of VITROS XT7600, 5600II, 5600, 4600 Clinical Chemistry Analyzers by Ortho Clinical Diagnostics in Japan",
+        "zh": "日本厚生劳动省对Ortho Clinical Diagnostics的VITROS系列临床化学分析仪实施II级召回"
+      },
+      "summary": {
+        "en": "Japan's PMDA announced a Class II recall (No. 2-12877) for Ortho Clinical Diagnostics' VITROS XT7600, 5600II, 5600, and 4600 discrete clinical chemistry analyzers due to a potential performance issue. Affected devices may produce inaccurate results, necessitating a field correction. Healthcare facilities should immediately follow the manufacturer's notification for inspection, software update, or device replacement to mitigate patient risk.",
+        "zh": "日本PMDA发布II级召回（编号2-12877），涉及Ortho Clinical Diagnostics株式会社生产的VITROS XT7600、5600II、5600、4600全自动分立式临床化学分析仪，原因是潜在的设备性能问题可能导致检测结果不准确。使用机构需按制造商指示进行检修、软件升级或设备更换，以确保患者安全。"
+      },
+      "source_url": "https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12877",
+      "source_name": "PMDA (Japan)",
+      "published_date": "2026-07-06",
+      "detected_date": "2026-07-08T20:20:24Z",
+      "importance": "medium",
+      "tags": [
+        "pmda",
+        "class_ii_recall",
+        "vitros",
+        "clinical_chemistry_analyzer",
+        "ortho_clinical_diagnostics",
+        "safety"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "japan_pmda_20260708_class_ii_recall_of_nemuri_scan_nn_1530_body_motion_sensor_by",
+      "framework": "japan_pmda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Class II Recall of Nemuri SCAN (NN-1530) Body Motion Sensor by Paramount Bed",
+        "zh": "帕拉蒙床公司召回Ⅱ类体动传感器 眠りSCAN（NN-1530）"
+      },
+      "summary": {
+        "en": "Paramount Bed Co., Ltd. has initiated a Class II recall of its Nemuri SCAN (NN-1530) body motion sensor. The recall addresses a potential issue where the sensor may provide inaccurate movement detection, which could affect monitoring of patient sleep and activity. Healthcare facilities and users should stop using affected units and follow the manufacturer's instructions for return or replacement.",
+        "zh": "帕拉蒙床公司对Ⅱ类医疗器械眠りSCAN（NN-1530）体动传感器实施召回。该传感器可能出现运动检测不准确问题，影响患者睡眠和活动监测。医疗机构和使用者应停用受影响设备，并按制造商指示退货或更换。"
+      },
+      "source_url": "https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12875",
+      "source_name": "PMDA (Japan)",
+      "published_date": "2026-07-06",
+      "detected_date": "2026-07-08T20:20:37Z",
+      "importance": "medium",
+      "tags": [
+        "class_ii_recall",
+        "body_motion_sensor",
+        "paramount_bed",
+        "pmda",
+        "japan"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "japan_pmda_20260708_paramount_bed_recalls_nemuri_scan_nn_1530_body_movement_sens",
+      "framework": "japan_pmda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Paramount Bed Recalls Nemuri SCAN (NN-1530) Body Movement Sensor – Class II",
+        "zh": "帕拉马温特床具公司召回II类体动传感器「眠りＳＣＡＮ(NN-1530)」"
+      },
+      "summary": {
+        "en": "The Japanese PMDA has issued a Class II recall (No. 2-12874) for the Nemuri SCAN (NN-1530) body movement sensor, manufactured by Paramount Bed Co., Ltd. The recall addresses a potential malfunction that could result in inaccurate detection of patient movements, posing a moderate safety risk. Healthcare facilities and distributors should immediately check affected devices and contact the manufacturer to arrange inspection and necessary corrective actions.",
+        "zh": "日本PMDA已发布II类召回（编号2-12874），涉及帕拉马温特床具株式会社生产的「眠りＳＣＡＮ（NN-1530）」体动传感器。该召回针对潜在的传感器故障，可能导致患者体动检测不准确，构成中等安全风险。医疗机构和经销商应立即核查受影响产品，并联系制造商安排检查及必要的纠正措施。"
+      },
+      "source_url": "https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12874",
+      "source_name": "PMDA (Japan)",
+      "published_date": "2026-07-06",
+      "detected_date": "2026-07-08T20:20:50Z",
+      "importance": "medium",
+      "tags": [
+        "pmda",
+        "recall",
+        "class_ii",
+        "body_movement_sensor",
+        "paramount_bed",
+        "sleep_scan"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
     {
       "id": "japan_pmda_20260703_class_ii",
       "framework": "japan_pmda",
