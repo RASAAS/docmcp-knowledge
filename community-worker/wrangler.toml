@@ -9,7 +9,7 @@ DOCMCP_API_URL = "https://llm.team-ra.org"
 [[d1_databases]]
 binding = "DB"
 database_name = "reguverse-hub"
-database_id = "placeholder-create-via-wrangler"
+database_id = "5ae7f6ec-1fcb-444e-adb5-9db754d17d4f"
 
 # Turnstile secret key -- set via `wrangler secret put TURNSTILE_SECRET`
 # TURNSTILE_SECRET = ""
