@@ -36,7 +36,7 @@ title: Regulatory News
 
 **Current Key Guidance:**
 - [ARGMD - Overview](https://www.tga.gov.au/products/medical-devices/overview)
-- [Essential Principles Checklist](https://www.tga.gov.au/resources/guidance/essential-principles-checklist)
+- [Essential Principles Checklist](https://www.tga.gov.au/resources/resources/checklists/essential-principles-checklist)
 - [Classification Guidance (non-IVD)](https://www.tga.gov.au/resources/guidance/classifying-medical-devices-are-not-vitro-diagnostics-ivds)
 - [Software-based Medical Devices](https://www.tga.gov.au/resources/guidance/understanding-how-we-regulate-software-based-medical-devices)
 

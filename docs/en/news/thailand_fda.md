@@ -35,8 +35,8 @@ title: Regulatory News
 - Clinical evidence for Class 3/4 devices
 
 **Current Key Guidance:**
-- [Thai FDA Medical Devices Division](https://www.fda.moph.go.th/sites/Medical/)
-- [Medical Device Act B.E. 2551](https://www.fda.moph.go.th/sites/Medical/Shared%20Documents/law/)
+- [Thai FDA Medical Devices (English)](https://en.fda.moph.go.th/entrepreneurs-medical-devices/manufacture-import-commercialpurposes)
+- [Thai FDA Medical Device FAQ](https://en.fda.moph.go.th/our-services-new/category/faq-md)
 - [ASEAN AMDD Framework](https://asean.org/our-communities/economic-community/asean-medical-device-directive/)
 
 ## Latest Updates

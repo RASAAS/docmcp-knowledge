@@ -34,9 +34,9 @@ title: Regulatory News
 - UDI implementation in progress
 
 **Current Key Guidance:**
-- [MDS-REQ1: MDMA Requirements](https://www.sfda.gov.sa/sites/default/files/2021-12/REQ1En_0.pdf)
-- [MDS-G008: Classification Guidance](https://sfda.gov.sa/sites/default/files/2022-12/MDS%E2%80%93G008.pdf)
-- [SFDA Medical Devices Portal](https://www.sfda.gov.sa/en/medicaldevices)
+- [MDS-REQ1: MDMA Requirements](https://www.sfda.gov.sa/en/regulations/68759)
+- [MDS-G008: Classification Guidance](https://www.sfda.gov.sa/sites/default/files/2022-12/MDS%E2%80%93G008.pdf)
+- [SFDA Medical Devices Sector Overview](https://www.sfda.gov.sa/en/overview-medical)
 
 ## Latest Updates
 

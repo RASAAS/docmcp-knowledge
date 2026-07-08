@@ -37,8 +37,8 @@ title: 法规速递
 
 **当前有效指南：**
 - [MDA 官方网站](https://www.mda.gov.my/)
-- [医疗器械法2012](https://www.mda.gov.my/legislation/medical-device-act-2012.html)
-- [MeDC@St 注册系统](https://www.mda.gov.my/services/medical-device-registration.html)
+- [法规文件列表](https://www.mda.gov.my/index.php/doc-list/legislation)
+- [医疗器械注册信息](https://www.mda.gov.my/index.php/industry/medical-device-registration/medical-device-registration-information)
 
 ## 最新动态
 

@@ -8,7 +8,7 @@ title: Regulatory News
 
 ## Regulatory Framework
 
-**Regulatory Authority:** Medical Device Control Office (MDCO), under the Department of Health, Hong Kong SAR
+**Regulatory Authority:** Medical Device Division (MDD, formerly MDCO), under the Department of Health, Hong Kong SAR
 
 **Key Legislation:**
 - Medical Device Ordinance (Cap. 620) -- currently in phased implementation
@@ -33,9 +33,9 @@ title: Regulatory News
 - English and/or Chinese labeling
 
 **Current Key Guidance:**
-- [MDCO Official Website](https://www.mdco.gov.hk/)
-- [MDACS Listing System](https://www.mdco.gov.hk/english/mdacs/mdacs.html)
-- [Medical Device Ordinance](https://www.elegislation.gov.hk/hk/cap620)
+- [MDD Official Website](https://www.mdd.gov.hk/)
+- [MDACS Guidance Notes (GN-02)](https://www.mdd.gov.hk/filemanager/common/mdacs/GN-02-E.pdf)
+- [Medical Device Ordinance (Cap. 620)](https://www.elegislation.gov.hk/hk/cap620)
 
 ## Latest Updates
 

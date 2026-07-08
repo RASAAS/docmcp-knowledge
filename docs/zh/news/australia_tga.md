@@ -36,7 +36,7 @@ title: 法规速递
 
 **当前有效指南：**
 - [ARGMD - 概述](https://www.tga.gov.au/products/medical-devices/overview)
-- [基本原则检查表](https://www.tga.gov.au/resources/guidance/essential-principles-checklist)
+- [基本原则检查表](https://www.tga.gov.au/resources/resources/checklists/essential-principles-checklist)
 - [分类指南（非IVD）](https://www.tga.gov.au/resources/guidance/classifying-medical-devices-are-not-vitro-diagnostics-ivds)
 - [软件类医疗器械](https://www.tga.gov.au/resources/guidance/understanding-how-we-regulate-software-based-medical-devices)
 

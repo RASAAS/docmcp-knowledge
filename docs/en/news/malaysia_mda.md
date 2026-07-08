@@ -37,8 +37,8 @@ title: Regulatory News
 
 **Current Key Guidance:**
 - [MDA Official Website](https://www.mda.gov.my/)
-- [Medical Device Act 2012](https://www.mda.gov.my/legislation/medical-device-act-2012.html)
-- [MeDC@St Registration System](https://www.mda.gov.my/services/medical-device-registration.html)
+- [Legislation Documents](https://www.mda.gov.my/index.php/doc-list/legislation)
+- [Medical Device Registration Information](https://www.mda.gov.my/index.php/industry/medical-device-registration/medical-device-registration-information)
 
 ## Latest Updates
 

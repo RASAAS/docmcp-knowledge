@@ -36,7 +36,7 @@ title: Regulatory News
 
 **Current Key Guidance:**
 - [TFDA Medical Devices Portal](https://www.fda.gov.tw/TC/site.aspx?sid=38)
-- [Medical Devices Act](https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=L0030106)
+- [Medical Devices Act (医疗器材管理法)](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0030106)
 - [Open Data - Safety Alerts](https://data.fda.gov.tw/)
 
 ## Latest Updates

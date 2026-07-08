@@ -33,7 +33,7 @@ title: Regulatory News
 **Current Key Guidance:**
 - [NOM-241-SSA1-2025 (DOF Publication)](http://diariooficial.segob.gob.mx/nota_detalle.php?codigo=5754074)
 - [COFEPRIS Medical Devices Portal](https://www.gob.mx/cofepris/acciones-y-programas/dispositivos-medicos)
-- [Abbreviated Pathway Guidance](https://www.gob.mx/cofepris/documentos/lineamientos-via-regulatoria-abreviada)
+- [Abbreviated Pathway (Via Regulatoria Abreviada, DOF 2025)](https://sidof.segob.gob.mx/notas/5763319)
 
 ## Latest Updates
 

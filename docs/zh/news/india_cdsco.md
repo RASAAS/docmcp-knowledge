@@ -36,9 +36,9 @@ title: 法规速递
 - 实施全生命周期监管方法
 
 **当前有效指南：**
-- [CDSCO 医疗器械](https://cdsco.gov.in/opencms/opencms/en/Medical-Device-Diagnostics/Medical-Device-Diagnostics/)
-- [MDR 2017 法规文本](https://cdsco.gov.in/opencms/opencms/en/Medical-Device-Diagnostics/Medical-Devices-Rules-2017/)
-- [SUGAM 在线门户](https://sugam.cdsco.gov.in/)
+- [CDSCO 医疗器械](https://cdsco.gov.in/opencms/opencms/hi/Medical-Device/Medical-Device-Diagnostics/)
+- [MDR 2017 FAQ 与指南](https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/mdfaq24.pdf)
+- [SUGAM 在线门户](https://cdscomdonline.gov.in/)
 
 ## 最新动态
 

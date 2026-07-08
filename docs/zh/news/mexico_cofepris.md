@@ -33,7 +33,7 @@ title: 法规速递
 **当前有效指南：**
 - [NOM-241-SSA1-2025（DOF 发布）](http://diariooficial.segob.gob.mx/nota_detalle.php?codigo=5754074)
 - [COFEPRIS 医疗器械门户](https://www.gob.mx/cofepris/acciones-y-programas/dispositivos-medicos)
-- [简化路径指南](https://www.gob.mx/cofepris/documentos/lineamientos-via-regulatoria-abreviada)
+- [简化路径（Via Regulatoria Abreviada，DOF 2025）](https://sidof.segob.gob.mx/notas/5763319)
 
 ## 最新动态
 

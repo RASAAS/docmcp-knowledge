@@ -31,8 +31,8 @@ title: 法规速递
 
 **当前有效指南：**
 - [swissdamed 注册指南](https://www.swissmedic.ch/swissmedic/en/home/medical-devices/medizinprodukte-datenbank/produktregistrierung.html)
-- [CH-REP 要求](https://www.swissmedic.ch/swissmedic/en/home/medical-devices/market-access/authorised-representative.html)
-- [FSCA 报告要求](https://www.swissmedic.ch/swissmedic/en/home/medical-devices/market-surveillance-of-medical-devices/fsca.html)
+- [CH-REP 与经济运营商注册 (CHRN)](https://www.swissmedic.ch/swissmedic/en/home/medizinprodukte/marktzugang/registriernummer-chrn.html)
+- [FSCA 报告（警戒系统）](https://www.swissmedic.ch/swissmedic/en/home/medical-devices/reporting-incidents---fscas/hersteller---inverkehrbringer.html)
 
 ## 最新动态
 

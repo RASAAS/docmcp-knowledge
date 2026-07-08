@@ -36,7 +36,7 @@ title: 法规速递
 
 **当前有效指南：**
 - [TFDA 医疗器材专区](https://www.fda.gov.tw/TC/site.aspx?sid=38)
-- [医疗器材管理法](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0030106)
+- [医疗器材管理法（全文）](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0030106)
 - [开放数据 - 安全警示](https://data.fda.gov.tw/)
 
 ## 最新动态

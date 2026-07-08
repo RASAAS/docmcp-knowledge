@@ -34,9 +34,9 @@ title: 法规速递
 - UDI 实施推进中
 
 **当前有效指南：**
-- [MDS-REQ1：MDMA 要求](https://www.sfda.gov.sa/sites/default/files/2021-12/REQ1En_0.pdf)
-- [MDS-G008：分类指南](https://sfda.gov.sa/sites/default/files/2022-12/MDS%E2%80%93G008.pdf)
-- [SFDA 医疗器械门户](https://www.sfda.gov.sa/en/medicaldevices)
+- [MDS-REQ1：MDMA 要求](https://www.sfda.gov.sa/en/regulations/68759)
+- [MDS-G008：分类指南](https://www.sfda.gov.sa/sites/default/files/2022-12/MDS%E2%80%93G008.pdf)
+- [SFDA 医疗器械部门概述](https://www.sfda.gov.sa/en/overview-medical)
 
 ## 最新动态
 

@@ -34,8 +34,8 @@ title: Regulatory News
 - Mutual Recognition: Israel-EU MRA covers medical devices
 
 **Current Key Guidance:**
-- [AMAR Medical Devices Portal](https://www.gov.il/en/departments/units/medical-devices-and-accessories-unit)
-- [Import License Application](https://www.gov.il/en/service/import-license-medical-devices)
+- [AMAR Registration Guidelines (MOH PDF)](https://health.gov.il/Services/ImportAndBusinessLicensing/AMR/regitration/Documents/AMR_reg_guidelines.pdf)
+- [AMAR Registration Guide (MedDeviceGuide)](https://meddeviceguide.com/blog/israel-amar-medical-device-registration-guide)
 - [Standards Institution of Israel](https://www.sii.org.il/en/)
 
 ## Latest Updates

@@ -8,7 +8,7 @@ title: 法规速递
 
 ## 法规框架
 
-**监管机构：** 医疗仪器管制办公室（MDCO），香港特别行政区卫生署
+**监管机构：** 医疗仪器科（MDD，前身为 MDCO），香港特别行政区卫生署
 
 **核心法规：**
 - 《医疗仪器条例》（第620章）-- 分阶段实施中
@@ -33,9 +33,9 @@ title: 法规速递
 - 英文和/或中文标签
 
 **当前有效指南：**
-- [MDCO 官方网站](https://www.mdco.gov.hk/)
-- [MDACS 登记系统](https://www.mdco.gov.hk/english/mdacs/mdacs.html)
-- [医疗仪器条例](https://www.elegislation.gov.hk/hk/cap620)
+- [MDD 官方网站](https://www.mdd.gov.hk/)
+- [MDACS 指引文件 (GN-02)](https://www.mdd.gov.hk/filemanager/common/mdacs/GN-02-E.pdf)
+- [医疗仪器条例（第620章）](https://www.elegislation.gov.hk/hk/cap620)
 
 ## 最新动态
 

@@ -41,7 +41,7 @@ title: 法规速递
 **当前有效指南：**
 - [第 2318/2002 号处置令（MERCOSUR 法规）](https://www.argentina.gob.ar/normativa/nacional/disposicion-2318-2002-75867/texto)
 - [ANMAT 医疗器械门户](https://www.argentina.gob.ar/anmat/regulados/productos-medicos)
-- [HELENA 在线系统](https://www.argentina.gob.ar/anmat/tramites/helena)
+- [HELENA 在线系统](https://helena.anmat.gob.ar/Login.aspx)
 
 ## 最新动态
 

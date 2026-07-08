@@ -35,8 +35,8 @@ title: 法规速递
 - 3/4 类器械需要临床证据
 
 **当前有效指南：**
-- [Thai FDA 医疗器械处](https://www.fda.moph.go.th/sites/Medical/)
-- [医疗器械法佛历2551年](https://www.fda.moph.go.th/sites/Medical/Shared%20Documents/law/)
+- [Thai FDA 医疗器械（英文版）](https://en.fda.moph.go.th/entrepreneurs-medical-devices/manufacture-import-commercialpurposes)
+- [Thai FDA 医疗器械常见问题](https://en.fda.moph.go.th/our-services-new/category/faq-md)
 - [东盟 AMDD 框架](https://asean.org/our-communities/economic-community/asean-medical-device-directive/)
 
 ## 最新动态

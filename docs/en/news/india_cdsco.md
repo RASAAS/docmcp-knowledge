@@ -36,9 +36,9 @@ title: Regulatory News
 - Whole Life Cycle approach to regulation
 
 **Current Key Guidance:**
-- [CDSCO Medical Devices](https://cdsco.gov.in/opencms/opencms/en/Medical-Device-Diagnostics/Medical-Device-Diagnostics/)
-- [MDR 2017 Text](https://cdsco.gov.in/opencms/opencms/en/Medical-Device-Diagnostics/Medical-Devices-Rules-2017/)
-- [SUGAM Online Portal](https://sugam.cdsco.gov.in/)
+- [CDSCO Medical Devices](https://cdsco.gov.in/opencms/opencms/hi/Medical-Device/Medical-Device-Diagnostics/)
+- [MDR 2017 FAQ & Guidance](https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/mdfaq24.pdf)
+- [SUGAM Online Portal](https://cdscomdonline.gov.in/)
 
 ## Latest Updates
 

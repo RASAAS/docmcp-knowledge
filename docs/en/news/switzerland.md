@@ -31,8 +31,8 @@ title: Regulatory News
 
 **Current Key Guidance:**
 - [swissdamed Registration Guide](https://www.swissmedic.ch/swissmedic/en/home/medical-devices/medizinprodukte-datenbank/produktregistrierung.html)
-- [CH-REP Requirements](https://www.swissmedic.ch/swissmedic/en/home/medical-devices/market-access/authorised-representative.html)
-- [FSCA Reporting](https://www.swissmedic.ch/swissmedic/en/home/medical-devices/market-surveillance-of-medical-devices/fsca.html)
+- [CH-REP & Economic Operator Registration (CHRN)](https://www.swissmedic.ch/swissmedic/en/home/medizinprodukte/marktzugang/registriernummer-chrn.html)
+- [FSCA Reporting (Vigilance)](https://www.swissmedic.ch/swissmedic/en/home/medical-devices/reporting-incidents---fscas/hersteller---inverkehrbringer.html)
 
 ## Latest Updates
 
