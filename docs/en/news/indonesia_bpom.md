@@ -35,7 +35,8 @@ title: Regulatory News
 
 **Current Key Guidance:**
 - [Ministry of Health - Medical Devices](https://www.kemkes.go.id/)
-- [ASEAN AMDD Framework](https://asean.org/our-communities/economic-community/asean-medical-device-directive/)
+- [ASEAN AMDD Framework & CSDT Guide](https://meddeviceguide.com/blog/asean-amdd-csdt-medical-device-guide)
+- [ASEAN Standards & Conformance (Official)](https://asean.org/our-communities/economic-community/standards-technical-regulations-and-conformity-assessment-procedures/)
 
 ## Latest Updates
 

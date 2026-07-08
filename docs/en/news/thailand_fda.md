@@ -37,7 +37,8 @@ title: Regulatory News
 **Current Key Guidance:**
 - [Thai FDA Medical Devices (English)](https://en.fda.moph.go.th/entrepreneurs-medical-devices/manufacture-import-commercialpurposes)
 - [Thai FDA Medical Device FAQ](https://en.fda.moph.go.th/our-services-new/category/faq-md)
-- [ASEAN AMDD Framework](https://asean.org/our-communities/economic-community/asean-medical-device-directive/)
+- [ASEAN AMDD Framework & CSDT Guide](https://meddeviceguide.com/blog/asean-amdd-csdt-medical-device-guide)
+- [ASEAN Standards & Conformance (Official)](https://asean.org/our-communities/economic-community/standards-technical-regulations-and-conformity-assessment-procedures/)
 
 ## Latest Updates
 

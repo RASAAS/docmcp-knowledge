@@ -37,7 +37,8 @@ title: 法规速递
 **当前有效指南：**
 - [Thai FDA 医疗器械（英文版）](https://en.fda.moph.go.th/entrepreneurs-medical-devices/manufacture-import-commercialpurposes)
 - [Thai FDA 医疗器械常见问题](https://en.fda.moph.go.th/our-services-new/category/faq-md)
-- [东盟 AMDD 框架](https://asean.org/our-communities/economic-community/asean-medical-device-directive/)
+- [东盟 AMDD 框架与 CSDT 指南](https://meddeviceguide.com/blog/asean-amdd-csdt-medical-device-guide)
+- [东盟标准与合规（官方）](https://asean.org/our-communities/economic-community/standards-technical-regulations-and-conformity-assessment-procedures/)
 
 ## 最新动态
 

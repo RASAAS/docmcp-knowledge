@@ -34,7 +34,8 @@ title: 法规速递
 - 互认协定：以色列-EU MRA 涵盖医疗器械
 
 **当前有效指南：**
-- [AMAR 注册指南（卫生部 PDF）](https://health.gov.il/Services/ImportAndBusinessLicensing/AMR/regitration/Documents/AMR_reg_guidelines.pdf)
+- [AMAR 注册指南（MedDeviceGuide）](https://meddeviceguide.com/blog/israel-amar-medical-device-registration-guide)
+- [AMAR I 类声明路径指南（卫生部 PDF）](https://sfilev2.f-static.com/image/users/398798/ftp/my_files/units_amar_guidelines-for-registering-medical-equipment-declaration-route.pdf?id=33257050)
 - [AMAR 注册指南（MedDeviceGuide）](https://meddeviceguide.com/blog/israel-amar-medical-device-registration-guide)
 - [以色列标准化机构](https://www.sii.org.il/en/)
 

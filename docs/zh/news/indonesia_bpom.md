@@ -35,7 +35,8 @@ title: 法规速递
 
 **当前有效指南：**
 - [卫生部 - 医疗器械](https://www.kemkes.go.id/)
-- [东盟 AMDD 框架](https://asean.org/our-communities/economic-community/asean-medical-device-directive/)
+- [东盟 AMDD 框架与 CSDT 指南](https://meddeviceguide.com/blog/asean-amdd-csdt-medical-device-guide)
+- [东盟标准与合规（官方）](https://asean.org/our-communities/economic-community/standards-technical-regulations-and-conformity-assessment-procedures/)
 
 ## 最新动态
 
