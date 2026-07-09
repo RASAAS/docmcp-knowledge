@@ -3,6 +3,7 @@ export interface Env {
   ALLOWED_ORIGIN: string;
   DOCMCP_API_URL: string;
   TURNSTILE_SECRET: string;
+  HUB_TOKEN_SECRET: string;
 }
 
 export interface AuthUser {

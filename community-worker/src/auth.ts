@@ -1,9 +1,11 @@
 import type { Env, AuthUser } from "./types";
 
+const HUB_TOKEN_MAX_AGE = 30 * 24 * 3600; // 30 days (must match backend)
+
 /**
- * Verify a Hub HMAC token (from hub-otp/verify flow).
- * The token is base64url-encoded: user_id|display_name|role|tier|expires|sig
- * We forward it to the docmcp backend for signature verification.
+ * Verify a Hub HMAC token locally using Web Crypto API.
+ * Token format (base64url-encoded): user_id|display_name|role|tier|expires|sig
+ * sig = HMAC-SHA256(secret, "user_id|display_name|role|tier|expires")[:32hex]
  */
 export async function verifyToken(
   authHeader: string | null,
@@ -12,31 +14,39 @@ export async function verifyToken(
   if (!authHeader || !authHeader.startsWith("Bearer ")) return null;
   const token = authHeader.slice(7);
   if (!token) return null;
+  if (!env.HUB_TOKEN_SECRET) return null;
 
   try {
-    const resp = await fetch(
-      `${env.DOCMCP_API_URL}/api/v1/auth/hub-token/verify`,
-      {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ hub_token: token }),
-      }
+    const raw = atob(token.replace(/-/g, "+").replace(/_/g, "/"));
+    const parts = raw.split("|");
+    if (parts.length !== 6) return null;
+
+    const [userId, displayName, role, tier, expiresStr, sig] = parts;
+    const expires = parseInt(expiresStr, 10);
+    if (isNaN(expires) || Date.now() / 1000 > expires) return null;
+
+    const payload = `${userId}|${displayName}|${role}|${tier}|${expiresStr}`;
+    const key = await crypto.subtle.importKey(
+      "raw",
+      new TextEncoder().encode(env.HUB_TOKEN_SECRET),
+      { name: "HMAC", hash: "SHA-256" },
+      false,
+      ["sign"]
     );
-    if (!resp.ok) return null;
-    const data = (await resp.json()) as {
-      verified?: boolean;
-      user_id?: string;
-      display_name?: string;
-      role?: string;
-      subscription_tier?: string;
-    };
-    if (!data.verified) return null;
+    const sigBuf = await crypto.subtle.sign("HMAC", key, new TextEncoder().encode(payload));
+    const expectedSig = Array.from(new Uint8Array(sigBuf))
+      .map((b) => b.toString(16).padStart(2, "0"))
+      .join("")
+      .slice(0, 32);
+
+    if (sig !== expectedSig) return null;
+
     return {
       verified: true,
-      user_id: data.user_id || "",
-      display_name: data.display_name || "",
-      role: data.role || "user",
-      subscription_tier: data.subscription_tier || "",
+      user_id: userId,
+      display_name: displayName,
+      role: role || "user",
+      subscription_tier: tier || "",
     };
   } catch {
     return null;
