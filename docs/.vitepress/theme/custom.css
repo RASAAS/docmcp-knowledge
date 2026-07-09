@@ -41,3 +41,18 @@
   padding: 0 !important;
   max-width: 100% !important;
 }
+
+/* Fix VitePress nav bar transparency on Hub pages:
+   Ensure nav bar is fully opaque so Hub banner doesn't bleed through on scroll. */
+.VPNav {
+  background: var(--vp-c-bg) !important;
+}
+.VPNavBar .content {
+  background: var(--vp-c-bg) !important;
+}
+.VPNavBar {
+  background: var(--vp-c-bg) !important;
+}
+.VPNavBar .content-body {
+  background: var(--vp-c-bg) !important;
+}

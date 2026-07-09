@@ -209,3 +209,17 @@ export function logout(): void {
     localStorage.removeItem("reguverse_hub_token");
   }
 }
+
+export async function verifyAuth(token: string): Promise<{
+  verified: boolean;
+  display_name?: string;
+  error?: string;
+}> {
+  const resp = await fetch(`${HUB_API_URL}/api/auth/verify`, {
+    headers: { Authorization: `Bearer ${token}` },
+  });
+  if (!resp.ok) {
+    return { verified: false, error: resp.statusText };
+  }
+  return resp.json();
+}

@@ -111,6 +111,17 @@ async function route(
     return hideComment(parseInt(hideCommentMatch[1], 10), env, user);
   }
 
+  // --- Auth verify ---
+  if (path === "/api/auth/verify" && method === "GET") {
+    if (!user) return error("NO_TOKEN", 401, env);
+    return json({
+      verified: true,
+      user_id: user.user_id,
+      display_name: user.display_name,
+      role: user.role,
+    }, 200, env);
+  }
+
   // --- Health ---
   if (path === "/api/health") {
     return json({ status: "ok", timestamp: new Date().toISOString() }, 200, env);
