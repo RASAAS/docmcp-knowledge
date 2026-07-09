@@ -3,7 +3,7 @@ import { ref, computed, onMounted } from "vue";
 import { useData } from "vitepress";
 import FeatureBoard from "./FeatureBoard.vue";
 import DiscussionWall from "./DiscussionWall.vue";
-import { isLoggedIn, loginWithToken, logout, verifyAuth } from "./HubApi";
+import { isLoggedIn, getDisplayName, saveSession, logout, sendOtp, verifyOtp, verifyAuth } from "./HubApi";
 
 const { lang } = useData();
 const isZh = computed(() => lang.value === "zh" || lang.value === "zh-CN");
@@ -11,9 +11,14 @@ const isZh = computed(() => lang.value === "zh" || lang.value === "zh-CN");
 const activeTab = ref<"features" | "discussions" | "roadmap">("features");
 const loggedIn = ref(false);
 const showLoginDialog = ref(false);
-const loginToken = ref("");
+const loginStep = ref<"email" | "code">("email");
+const loginEmail = ref("");
+const loginCode = ref("");
 const loginError = ref("");
 const loginLoading = ref(false);
+const otpSent = ref(false);
+const cooldown = ref(0);
+let cooldownTimer: ReturnType<typeof setInterval> | null = null;
 
 const tabs = computed(() => [
   {
@@ -33,54 +38,113 @@ const tabs = computed(() => [
   },
 ]);
 
-async function checkLogin() {
-  loggedIn.value = isLoggedIn();
-  if (loggedIn.value) {
-    try {
-      const token = typeof window !== "undefined" ? localStorage.getItem("reguverse_hub_token") : null;
-      if (token) {
-        const result = await verifyAuth(token);
-        if (result.verified) {
-          userName.value = result.display_name || "";
-        } else {
-          logout();
-          loggedIn.value = false;
-        }
-      }
-    } catch {
-      // keep as logged in, name unknown
-    }
-  }
-}
-
 const userName = ref("");
 
-async function doLogin() {
-  const token = loginToken.value.trim();
-  if (!token) return;
+function startCooldown(seconds: number) {
+  cooldown.value = seconds;
+  if (cooldownTimer) clearInterval(cooldownTimer);
+  cooldownTimer = setInterval(() => {
+    cooldown.value--;
+    if (cooldown.value <= 0 && cooldownTimer) {
+      clearInterval(cooldownTimer);
+      cooldownTimer = null;
+    }
+  }, 1000);
+}
+
+async function doSendOtp() {
+  const email = loginEmail.value.trim();
+  if (!email) return;
   loginLoading.value = true;
   loginError.value = "";
   try {
-    const result = await verifyAuth(token);
-    if (!result.verified) {
-      loginError.value = isZh.value ? "Token 无效或已过期" : "Invalid or expired token";
+    const result = await sendOtp(email);
+    if (result.error) {
+      const errMap: Record<string, string> = {
+        TOO_MANY_REQUESTS: isZh.value ? "请求过于频繁，请稍后再试" : "Too many requests, please try later",
+        OTP_RATE_LIMITED: isZh.value ? "发送过于频繁，请10分钟后再试" : "Too many OTPs sent, wait 10 minutes",
+        EMAIL_NOT_CONFIGURED: isZh.value ? "邮件服务暂不可用" : "Email service unavailable",
+        EMAIL_SEND_FAILED: isZh.value ? "邮件发送失败，请稍后重试" : "Failed to send email, please retry",
+      };
+      loginError.value = errMap[result.error] || result.error;
       return;
     }
-    loginWithToken(token);
-    loggedIn.value = true;
-    userName.value = result.display_name || "";
-    showLoginDialog.value = false;
-    loginToken.value = "";
+    otpSent.value = true;
+    loginStep.value = "code";
+    startCooldown(60);
   } catch {
-    loginError.value = isZh.value ? "验证失败，请重试" : "Verification failed, please retry";
+    loginError.value = isZh.value ? "网络错误，请稍后重试" : "Network error, please retry";
   } finally {
     loginLoading.value = false;
   }
 }
 
+async function doVerifyOtp() {
+  const code = loginCode.value.trim();
+  if (!code || code.length !== 6) return;
+  loginLoading.value = true;
+  loginError.value = "";
+  try {
+    const result = await verifyOtp(loginEmail.value.trim(), code);
+    if (result.error) {
+      const errMap: Record<string, string> = {
+        INVALID_OR_EXPIRED_CODE: isZh.value ? "验证码无效或已过期" : "Invalid or expired code",
+        WRONG_CODE: isZh.value
+          ? `验证码错误，剩余 ${result.attempts_remaining ?? "?"} 次`
+          : `Wrong code, ${result.attempts_remaining ?? "?"} attempts left`,
+        TOO_MANY_ATTEMPTS: isZh.value ? "尝试过多，请重新获取验证码" : "Too many attempts, request a new code",
+        USER_NOT_FOUND: isZh.value ? "用户不存在" : "User not found",
+      };
+      loginError.value = errMap[result.error] || result.error;
+      return;
+    }
+    if (result.verified && result.hub_token) {
+      saveSession(result.hub_token, result.display_name || "");
+      loggedIn.value = true;
+      userName.value = result.display_name || "";
+      showLoginDialog.value = false;
+      resetLoginForm();
+    }
+  } catch {
+    loginError.value = isZh.value ? "网络错误，请稍后重试" : "Network error, please retry";
+  } finally {
+    loginLoading.value = false;
+  }
+}
+
+function resetLoginForm() {
+  loginStep.value = "email";
+  loginEmail.value = "";
+  loginCode.value = "";
+  loginError.value = "";
+  otpSent.value = false;
+  if (cooldownTimer) { clearInterval(cooldownTimer); cooldownTimer = null; }
+  cooldown.value = 0;
+}
+
 function doLogout() {
   logout();
   loggedIn.value = false;
+  userName.value = "";
+}
+
+async function checkLogin() {
+  loggedIn.value = isLoggedIn();
+  if (loggedIn.value) {
+    userName.value = getDisplayName();
+    try {
+      const result = await verifyAuth();
+      if (result.verified) {
+        userName.value = result.display_name || userName.value;
+      } else {
+        logout();
+        loggedIn.value = false;
+        userName.value = "";
+      }
+    } catch {
+      // keep as logged in with cached name
+    }
+  }
 }
 
 onMounted(checkLogin);
@@ -127,8 +191,8 @@ onMounted(checkLogin);
       </div>
     </header>
 
-    <!-- Login Dialog -->
-    <div v-if="showLoginDialog" class="rv-login-overlay" @click.self="showLoginDialog = false">
+    <!-- Login Dialog: Email + OTP -->
+    <div v-if="showLoginDialog" class="rv-login-overlay" @click.self="showLoginDialog = false; resetLoginForm()">
       <div class="rv-login-dialog">
         <h3 class="rv-login-title">
           <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="var(--vp-c-brand-1)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
@@ -136,31 +200,77 @@ onMounted(checkLogin);
           </svg>
           {{ isZh ? "Reguverse 用户验证" : "Verify Reguverse Account" }}
         </h3>
-        <p class="rv-login-desc">
-          {{ isZh
-            ? "输入您的 Reguverse 账户 JWT Token 以获得 Verified 身份标识。您可以在 Reguverse Assistant 插件的 Account 页面找到您的 Token。"
-            : "Enter your Reguverse JWT Token to get a Verified badge. You can find your Token on the Account page of the Reguverse Assistant plugin." }}
-        </p>
-        <input
-          v-model="loginToken"
-          type="password"
-          :placeholder="isZh ? '粘贴您的 JWT Token...' : 'Paste your JWT Token...'"
-          class="rv-login-input"
-          @keydown.enter="doLogin"
-        />
-        <div v-if="loginError" class="rv-login-error">{{ loginError }}</div>
-        <div class="rv-login-actions">
-          <button class="rv-login-cancel" @click="showLoginDialog = false; loginError = ''">
-            {{ isZh ? "取消" : "Cancel" }}
-          </button>
-          <button class="rv-login-submit" :disabled="loginLoading || !loginToken.trim()" @click="doLogin">
-            {{ loginLoading ? (isZh ? "验证中..." : "Verifying...") : (isZh ? "验证" : "Verify") }}
-          </button>
-        </div>
+
+        <!-- Step 1: Email -->
+        <template v-if="loginStep === 'email'">
+          <p class="rv-login-desc">
+            {{ isZh
+              ? "输入您的 Reguverse 注册邮箱，我们将发送一个验证码到该邮箱。"
+              : "Enter your Reguverse account email. We will send a verification code." }}
+          </p>
+          <input
+            v-model="loginEmail"
+            type="email"
+            :placeholder="isZh ? '输入注册邮箱...' : 'Enter your email...'"
+            class="rv-login-input"
+            @keydown.enter="doSendOtp"
+          />
+          <div v-if="loginError" class="rv-login-error">{{ loginError }}</div>
+          <div class="rv-login-actions">
+            <button class="rv-login-cancel" @click="showLoginDialog = false; resetLoginForm()">
+              {{ isZh ? "取消" : "Cancel" }}
+            </button>
+            <button class="rv-login-submit" :disabled="loginLoading || !loginEmail.trim()" @click="doSendOtp">
+              {{ loginLoading ? (isZh ? "发送中..." : "Sending...") : (isZh ? "发送验证码" : "Send Code") }}
+            </button>
+          </div>
+        </template>
+
+        <!-- Step 2: OTP Code -->
+        <template v-else>
+          <p class="rv-login-desc">
+            {{ isZh
+              ? `验证码已发送至 ${loginEmail}，请查收邮件。`
+              : `Code sent to ${loginEmail}. Check your inbox.` }}
+          </p>
+          <input
+            v-model="loginCode"
+            type="text"
+            inputmode="numeric"
+            maxlength="6"
+            :placeholder="isZh ? '输入6位验证码' : 'Enter 6-digit code'"
+            class="rv-login-input rv-login-code-input"
+            @keydown.enter="doVerifyOtp"
+          />
+          <div v-if="loginError" class="rv-login-error">{{ loginError }}</div>
+          <div class="rv-login-resend">
+            <button
+              class="rv-login-resend-btn"
+              :disabled="cooldown > 0 || loginLoading"
+              @click="doSendOtp"
+            >
+              {{ cooldown > 0
+                ? (isZh ? `${cooldown}s 后可重新发送` : `Resend in ${cooldown}s`)
+                : (isZh ? "重新发送验证码" : "Resend code") }}
+            </button>
+            <button class="rv-login-back-btn" @click="loginStep = 'email'; loginError = ''">
+              {{ isZh ? "更换邮箱" : "Change email" }}
+            </button>
+          </div>
+          <div class="rv-login-actions">
+            <button class="rv-login-cancel" @click="showLoginDialog = false; resetLoginForm()">
+              {{ isZh ? "取消" : "Cancel" }}
+            </button>
+            <button class="rv-login-submit" :disabled="loginLoading || loginCode.trim().length !== 6" @click="doVerifyOtp">
+              {{ loginLoading ? (isZh ? "验证中..." : "Verifying...") : (isZh ? "验证" : "Verify") }}
+            </button>
+          </div>
+        </template>
+
         <p class="rv-login-note">
           {{ isZh
-            ? "未注册？无需登录也可以参与讨论和投票。验证后可获得 Verified 标识。"
-            : "Not registered? You can participate without logging in. Verification gives you a Verified badge." }}
+            ? "未注册？无需验证也可以参与讨论和投票。验证后可获得 Verified 标识。"
+            : "Not registered? You can participate without verification. Verified users get a badge." }}
         </p>
       </div>
     </div>
@@ -453,6 +563,38 @@ onMounted(checkLogin);
   color: var(--vp-c-text-3);
   margin: 16px 0 0;
   line-height: 1.5;
+}
+.rv-login-code-input {
+  font-size: 24px;
+  letter-spacing: 8px;
+  text-align: center;
+  font-family: monospace;
+  font-weight: 600;
+}
+.rv-login-resend {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-top: 12px;
+}
+.rv-login-resend-btn,
+.rv-login-back-btn {
+  background: none;
+  border: none;
+  color: var(--vp-c-brand-1);
+  cursor: pointer;
+  font-size: 13px;
+  padding: 0;
+}
+.rv-login-resend-btn:disabled {
+  color: var(--vp-c-text-3);
+  cursor: default;
+}
+.rv-login-back-btn {
+  color: var(--vp-c-text-2);
+}
+.rv-login-back-btn:hover {
+  color: var(--vp-c-text-1);
 }
 
 @media (max-width: 768px) {

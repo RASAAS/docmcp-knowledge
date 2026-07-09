@@ -1,27 +1,43 @@
 import type { Env, AuthUser } from "./types";
 
 /**
- * Verify a Reguverse JWT token against the docmcp backend.
- * Returns AuthUser on success, null on failure.
+ * Verify a Hub HMAC token (from hub-otp/verify flow).
+ * The token is base64url-encoded: user_id|display_name|role|tier|expires|sig
+ * We forward it to the docmcp backend for signature verification.
  */
 export async function verifyToken(
   authHeader: string | null,
   env: Env
 ): Promise<AuthUser | null> {
   if (!authHeader || !authHeader.startsWith("Bearer ")) return null;
+  const token = authHeader.slice(7);
+  if (!token) return null;
 
   try {
     const resp = await fetch(
-      `${env.DOCMCP_API_URL}/api/v1/auth/community-verify`,
+      `${env.DOCMCP_API_URL}/api/v1/auth/hub-token/verify`,
       {
-        method: "GET",
-        headers: { Authorization: authHeader },
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ hub_token: token }),
       }
     );
     if (!resp.ok) return null;
-    const data = (await resp.json()) as AuthUser & { verified?: boolean };
+    const data = (await resp.json()) as {
+      verified?: boolean;
+      user_id?: string;
+      display_name?: string;
+      role?: string;
+      subscription_tier?: string;
+    };
     if (!data.verified) return null;
-    return data;
+    return {
+      verified: true,
+      user_id: data.user_id || "",
+      display_name: data.display_name || "",
+      role: data.role || "user",
+      subscription_tier: data.subscription_tier || "",
+    };
   } catch {
     return null;
   }

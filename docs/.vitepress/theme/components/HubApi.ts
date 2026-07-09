@@ -194,32 +194,74 @@ export function getStats(): Promise<HubStats> {
 
 // --- Auth helpers ---
 
+const DOCMCP_API_URL =
+  (typeof window !== "undefined" &&
+    (window as Record<string, unknown>).__DOCMCP_API_URL__) ||
+  "https://llm.team-ra.org";
+
 export function isLoggedIn(): boolean {
   return !!getAuthToken();
 }
 
-export function loginWithToken(token: string): void {
+export function getDisplayName(): string {
+  if (typeof window === "undefined") return "";
+  return localStorage.getItem("reguverse_hub_name") || "";
+}
+
+export function saveSession(token: string, name: string): void {
   if (typeof window !== "undefined") {
     localStorage.setItem("reguverse_hub_token", token);
+    localStorage.setItem("reguverse_hub_name", name);
   }
 }
 
 export function logout(): void {
   if (typeof window !== "undefined") {
     localStorage.removeItem("reguverse_hub_token");
+    localStorage.removeItem("reguverse_hub_name");
   }
 }
 
-export async function verifyAuth(token: string): Promise<{
-  verified: boolean;
+export async function sendOtp(email: string): Promise<{ ok?: boolean; error?: string }> {
+  const resp = await fetch(`${DOCMCP_API_URL}/api/v1/auth/hub-otp/send`, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ email }),
+  });
+  return resp.json();
+}
+
+export async function verifyOtp(
+  email: string,
+  code: string
+): Promise<{
+  verified?: boolean;
+  hub_token?: string;
   display_name?: string;
   error?: string;
+  attempts_remaining?: number;
 }> {
-  const resp = await fetch(`${HUB_API_URL}/api/auth/verify`, {
-    headers: { Authorization: `Bearer ${token}` },
+  const resp = await fetch(`${DOCMCP_API_URL}/api/v1/auth/hub-otp/verify`, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ email, code }),
   });
-  if (!resp.ok) {
-    return { verified: false, error: resp.statusText };
-  }
   return resp.json();
+}
+
+export async function verifyAuth(): Promise<{
+  verified: boolean;
+  display_name?: string;
+}> {
+  const token = getAuthToken();
+  if (!token) return { verified: false };
+  try {
+    const resp = await fetch(`${HUB_API_URL}/api/auth/verify`, {
+      headers: { Authorization: `Bearer ${token}` },
+    });
+    if (!resp.ok) return { verified: false };
+    return resp.json();
+  } catch {
+    return { verified: false };
+  }
 }
