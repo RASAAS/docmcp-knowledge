@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import { ref, onMounted, computed } from "vue";
+import { useData } from "vitepress";
 import {
   listDiscussions,
   createDiscussion,
@@ -10,6 +11,9 @@ import {
   type Discussion,
   type Comment,
 } from "./HubApi";
+
+const { lang } = useData();
+const isZh = computed(() => lang.value === "zh" || lang.value === "zh-CN");
 
 const discussions = ref<Discussion[]>([]);
 const total = ref(0);
@@ -35,13 +39,38 @@ const commentBody = ref("");
 const commentName = ref("");
 const commentSubmitting = ref(false);
 
-const categories = [
-  { value: "", label: "All" },
-  { value: "regulatory_intelligence", label: "Regulatory Intel" },
-  { value: "best_practices", label: "Best Practices" },
-  { value: "tool_tips", label: "Tool Tips" },
-  { value: "general", label: "General" },
-];
+const channels = computed(() => [
+  {
+    value: "",
+    label: isZh.value ? "# 全部频道" : "# all-channels",
+    desc: isZh.value ? "查看所有讨论" : "View all discussions",
+    icon: "M4 6h16M4 12h16M4 18h16",
+  },
+  {
+    value: "regulatory_intelligence",
+    label: isZh.value ? "# 法规情报" : "# regulatory-intel",
+    desc: isZh.value ? "法规动态和政策解读" : "Updates and policy analysis",
+    icon: "M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253",
+  },
+  {
+    value: "best_practices",
+    label: isZh.value ? "# 最佳实践" : "# best-practices",
+    desc: isZh.value ? "合规经验分享和方法论" : "Compliance tips and methodology",
+    icon: "M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z",
+  },
+  {
+    value: "tool_tips",
+    label: isZh.value ? "# 工具技巧" : "# tool-tips",
+    desc: isZh.value ? "Reguverse 使用技巧" : "Reguverse usage tips",
+    icon: "M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.066 2.573c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.573 1.066c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.066-2.573c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z",
+  },
+  {
+    value: "general",
+    label: isZh.value ? "# 综合讨论" : "# general",
+    desc: isZh.value ? "自由话题" : "Open discussion",
+    icon: "M17 8h2a2 2 0 012 2v6a2 2 0 01-2 2h-2v4l-4-4H9a1.994 1.994 0 01-1.414-.586m0 0L11 14h4a2 2 0 002-2V6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2v4l.586-.586z",
+  },
+]);
 
 const loggedIn = computed(() => isLoggedIn());
 
@@ -139,16 +168,24 @@ async function submitComment() {
   }
 }
 
+function selectChannel(ch: string) {
+  category.value = ch;
+  page.value = 1;
+  expandedId.value = null;
+  load();
+}
+
 function timeAgo(dateStr: string): string {
   const now = Date.now();
   const then = new Date(dateStr + "Z").getTime();
   const diff = now - then;
   const mins = Math.floor(diff / 60000);
-  if (mins < 60) return `${mins}m ago`;
+  if (mins < 1) return isZh.value ? "刚刚" : "just now";
+  if (mins < 60) return isZh.value ? `${mins}分钟前` : `${mins}m ago`;
   const hours = Math.floor(mins / 60);
-  if (hours < 24) return `${hours}h ago`;
+  if (hours < 24) return isZh.value ? `${hours}小时前` : `${hours}h ago`;
   const days = Math.floor(hours / 24);
-  if (days < 30) return `${days}d ago`;
+  if (days < 30) return isZh.value ? `${days}天前` : `${days}d ago`;
   return new Date(dateStr).toLocaleDateString();
 }
 
@@ -156,374 +193,631 @@ onMounted(load);
 </script>
 
 <template>
-  <div class="hub-discussion-wall">
-    <!-- Toolbar -->
-    <div class="hub-toolbar">
-      <div class="hub-filters">
-        <select v-model="category" @change="page = 1; load()">
-          <option v-for="c in categories" :key="c.value" :value="c.value">
-            {{ c.label }}
-          </option>
-        </select>
-        <select v-model="sort" @change="page = 1; load()">
-          <option value="latest">Latest</option>
-          <option value="likes">Most Liked</option>
-        </select>
-      </div>
-      <button class="hub-btn hub-btn-primary" @click="showForm = !showForm">
-        {{ showForm ? "Cancel" : "+ New Discussion" }}
-      </button>
-    </div>
+  <div class="dw">
+    <div class="dw-layout">
+      <!-- Channel Sidebar -->
+      <aside class="dw-sidebar">
+        <div class="dw-sidebar-header">
+          <h3 class="dw-sidebar-title">{{ isZh ? "频道" : "Channels" }}</h3>
+        </div>
+        <nav class="dw-channel-list">
+          <button
+            v-for="ch in channels"
+            :key="ch.value"
+            class="dw-channel"
+            :class="{ active: category === ch.value }"
+            @click="selectChannel(ch.value)"
+          >
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+              <path :d="ch.icon"/>
+            </svg>
+            <div class="dw-channel-text">
+              <span class="dw-channel-name">{{ ch.label }}</span>
+              <span class="dw-channel-desc">{{ ch.desc }}</span>
+            </div>
+          </button>
+        </nav>
+        <div class="dw-sidebar-footer">
+          <div class="dw-sort-label">{{ isZh ? "排序" : "Sort" }}</div>
+          <select v-model="sort" @change="page = 1; load()" class="dw-sort-select">
+            <option value="latest">{{ isZh ? "最新" : "Latest" }}</option>
+            <option value="likes">{{ isZh ? "最多点赞" : "Most Liked" }}</option>
+          </select>
+        </div>
+      </aside>
 
-    <!-- Submit Form -->
-    <div v-if="showForm" class="hub-form">
-      <div v-if="!loggedIn" class="hub-form-guest">
-        <input v-model="formName" placeholder="Your name *" class="hub-input" />
-      </div>
-      <input
-        v-model="formTitle"
-        placeholder="Discussion title *"
-        class="hub-input hub-input-full"
-      />
-      <textarea
-        v-model="formBody"
-        placeholder="Share your thoughts..."
-        class="hub-textarea"
-        rows="4"
-      ></textarea>
-      <div class="hub-form-footer">
-        <select v-model="formCategory" class="hub-select-small">
-          <option v-for="c in categories.slice(1)" :key="c.value" :value="c.value">
-            {{ c.label }}
-          </option>
-        </select>
-        <button
-          class="hub-btn hub-btn-primary"
-          :disabled="submitting || !formTitle.trim() || !formBody.trim()"
-          @click="submit"
-        >
-          {{ submitting ? "Posting..." : "Post" }}
-        </button>
-      </div>
-    </div>
-
-    <!-- Error -->
-    <div v-if="error" class="hub-error">{{ error }}</div>
-
-    <!-- Loading -->
-    <div v-if="loading" class="hub-loading">Loading...</div>
-
-    <!-- Discussion List -->
-    <div v-else class="hub-list">
-      <div v-if="discussions.length === 0" class="hub-empty">
-        No discussions yet. Start one!
-      </div>
-      <div v-for="d in discussions" :key="d.id" class="hub-disc-card">
-        <div class="hub-disc-main">
-          <div class="hub-disc-header">
-            <h3 class="hub-disc-title">{{ d.title }}</h3>
-            <span v-if="d.is_verified" class="hub-badge hub-badge-verified">Verified</span>
+      <!-- Main Content -->
+      <div class="dw-main">
+        <!-- Channel Header -->
+        <div class="dw-main-header">
+          <div class="dw-main-header-left">
+            <h2 class="dw-main-title">
+              {{ channels.find(c => c.value === category)?.label || (isZh ? "# 全部频道" : "# all-channels") }}
+            </h2>
+            <span class="dw-disc-count" v-if="total">{{ total }} {{ isZh ? "条讨论" : "discussions" }}</span>
           </div>
-          <p class="hub-disc-body">{{ d.body }}</p>
-          <div class="hub-disc-meta">
-            <span class="hub-badge hub-badge-cat">{{ d.category }}</span>
-            <span class="hub-meta-text">{{ d.author_name }}</span>
-            <span class="hub-meta-text">{{ timeAgo(d.created_at) }}</span>
+          <button class="dw-btn dw-btn-primary" @click="showForm = !showForm">
+            {{ showForm ? (isZh ? "取消" : "Cancel") : (isZh ? "+ 发起讨论" : "+ New Discussion") }}
+          </button>
+        </div>
+
+        <!-- New Discussion Form -->
+        <div v-if="showForm" class="dw-form">
+          <div v-if="!loggedIn" class="dw-form-row">
+            <input v-model="formName" :placeholder="isZh ? '您的姓名 *' : 'Your name *'" class="dw-input" />
+          </div>
+          <input v-model="formTitle" :placeholder="isZh ? '讨论标题 *' : 'Discussion title *'" class="dw-input dw-input-full" />
+          <textarea v-model="formBody" :placeholder="isZh ? '分享您的想法...' : 'Share your thoughts...'" class="dw-textarea" rows="4"></textarea>
+          <div class="dw-form-footer">
+            <select v-model="formCategory" class="dw-sort-select">
+              <option v-for="c in channels.slice(1)" :key="c.value" :value="c.value">{{ c.label }}</option>
+            </select>
             <button
-              class="hub-action-btn"
-              :class="{ active: d.user_liked }"
-              @click="like(d)"
+              class="dw-btn dw-btn-primary"
+              :disabled="submitting || !formTitle.trim() || !formBody.trim()"
+              @click="submit"
             >
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/>
-              </svg>
-              {{ d.like_count }}
-            </button>
-            <button
-              class="hub-action-btn"
-              :class="{ active: expandedId === d.id }"
-              @click="toggleComments(d.id)"
-            >
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/>
-              </svg>
-              {{ d.comment_count }}
+              {{ submitting ? (isZh ? "发布中..." : "Posting...") : (isZh ? "发布" : "Post") }}
             </button>
           </div>
         </div>
 
-        <!-- Comments Section -->
-        <div v-if="expandedId === d.id" class="hub-comments">
-          <div v-if="commentLoading" class="hub-loading-sm">Loading comments...</div>
-          <div v-else>
-            <div v-if="comments.length === 0" class="hub-comments-empty">
-              No comments yet.
-            </div>
-            <div v-for="c in comments" :key="c.id" class="hub-comment">
-              <div class="hub-comment-header">
-                <span class="hub-comment-author">{{ c.author_name }}</span>
-                <span v-if="c.is_verified" class="hub-badge hub-badge-verified-sm">V</span>
-                <span class="hub-comment-time">{{ timeAgo(c.created_at) }}</span>
+        <!-- Error -->
+        <div v-if="error" class="dw-error">{{ error }}</div>
+
+        <!-- Loading -->
+        <div v-if="loading" class="dw-loading">
+          <div class="dw-spinner"></div>
+          {{ isZh ? "加载中..." : "Loading..." }}
+        </div>
+
+        <!-- Discussion List -->
+        <div v-else class="dw-thread-list">
+          <div v-if="discussions.length === 0" class="dw-empty">
+            <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="var(--vp-c-text-3)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z"/>
+            </svg>
+            <p>{{ isZh ? "暂无讨论。发起第一个话题吧！" : "No discussions yet. Start one!" }}</p>
+          </div>
+
+          <div v-for="d in discussions" :key="d.id" class="dw-thread">
+            <div class="dw-thread-main">
+              <div class="dw-thread-avatar">
+                {{ d.author_name ? d.author_name.charAt(0).toUpperCase() : "?" }}
               </div>
-              <p class="hub-comment-body">{{ c.body }}</p>
+              <div class="dw-thread-content">
+                <div class="dw-thread-header">
+                  <span class="dw-thread-author">{{ d.author_name }}</span>
+                  <span v-if="d.is_verified" class="dw-badge-verified" title="Verified Reguverse user">
+                    <svg width="14" height="14" viewBox="0 0 24 24" fill="var(--vp-c-brand-1)"><path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+                  </span>
+                  <span class="dw-thread-tag">{{ d.category.replace(/_/g, " ") }}</span>
+                  <span class="dw-thread-time">{{ timeAgo(d.created_at) }}</span>
+                </div>
+                <h4 class="dw-thread-title">{{ d.title }}</h4>
+                <p class="dw-thread-body">{{ d.body }}</p>
+                <div class="dw-thread-actions">
+                  <button class="dw-action" :class="{ active: d.user_liked }" @click="like(d)">
+                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                      <path d="M14 9V5a3 3 0 00-3-3l-4 9v11h11.28a2 2 0 002-1.7l1.38-9a2 2 0 00-2-2.3zM7 22H4a2 2 0 01-2-2v-7a2 2 0 012-2h3"/>
+                    </svg>
+                    {{ d.like_count }}
+                  </button>
+                  <button class="dw-action" :class="{ active: expandedId === d.id }" @click="toggleComments(d.id)">
+                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                      <path d="M21 15a2 2 0 01-2 2H7l-4 4V5a2 2 0 012-2h14a2 2 0 012 2z"/>
+                    </svg>
+                    {{ d.comment_count }} {{ isZh ? "回复" : "replies" }}
+                  </button>
+                </div>
+              </div>
             </div>
-          </div>
-          <div class="hub-comment-form">
-            <input
-              v-if="!loggedIn"
-              v-model="commentName"
-              placeholder="Your name"
-              class="hub-input hub-input-sm"
-            />
-            <div class="hub-comment-input-row">
-              <input
-                v-model="commentBody"
-                placeholder="Add a comment..."
-                class="hub-input"
-                @keydown.enter="submitComment"
-              />
-              <button
-                class="hub-btn hub-btn-sm"
-                :disabled="commentSubmitting || !commentBody.trim()"
-                @click="submitComment"
-              >
-                {{ commentSubmitting ? "..." : "Post" }}
-              </button>
+
+            <!-- Comments Thread -->
+            <div v-if="expandedId === d.id" class="dw-comments">
+              <div v-if="commentLoading" class="dw-comments-loading">
+                <div class="dw-spinner-sm"></div>
+              </div>
+              <div v-else>
+                <div v-if="comments.length === 0" class="dw-comments-empty">
+                  {{ isZh ? "暂无回复" : "No replies yet" }}
+                </div>
+                <div v-for="c in comments" :key="c.id" class="dw-comment">
+                  <div class="dw-comment-avatar">{{ c.author_name ? c.author_name.charAt(0).toUpperCase() : "?" }}</div>
+                  <div class="dw-comment-content">
+                    <div class="dw-comment-header">
+                      <span class="dw-comment-author">{{ c.author_name }}</span>
+                      <span v-if="c.is_verified" class="dw-badge-verified-sm">
+                        <svg width="12" height="12" viewBox="0 0 24 24" fill="var(--vp-c-brand-1)"><path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+                      </span>
+                      <span class="dw-comment-time">{{ timeAgo(c.created_at) }}</span>
+                    </div>
+                    <p class="dw-comment-body">{{ c.body }}</p>
+                  </div>
+                </div>
+              </div>
+              <div class="dw-comment-form">
+                <input
+                  v-if="!loggedIn"
+                  v-model="commentName"
+                  :placeholder="isZh ? '您的姓名' : 'Your name'"
+                  class="dw-input dw-input-sm"
+                />
+                <div class="dw-comment-input-row">
+                  <input
+                    v-model="commentBody"
+                    :placeholder="isZh ? '添加回复...' : 'Add a reply...'"
+                    class="dw-input"
+                    @keydown.enter="submitComment"
+                  />
+                  <button
+                    class="dw-btn dw-btn-sm"
+                    :disabled="commentSubmitting || !commentBody.trim()"
+                    @click="submitComment"
+                  >
+                    {{ commentSubmitting ? "..." : (isZh ? "发送" : "Send") }}
+                  </button>
+                </div>
+              </div>
             </div>
           </div>
         </div>
-      </div>
-    </div>
 
-    <!-- Pagination -->
-    <div v-if="pages > 1" class="hub-pagination">
-      <button :disabled="page <= 1" @click="page--; load()" class="hub-btn hub-btn-sm">Prev</button>
-      <span class="hub-page-info">Page {{ page }} / {{ pages }}</span>
-      <button :disabled="page >= pages" @click="page++; load()" class="hub-btn hub-btn-sm">Next</button>
+        <!-- Pagination -->
+        <div v-if="pages > 1" class="dw-pagination">
+          <button :disabled="page <= 1" @click="page--; load()" class="dw-btn dw-btn-sm">
+            {{ isZh ? "上一页" : "Prev" }}
+          </button>
+          <span class="dw-page-info">{{ page }} / {{ pages }}</span>
+          <button :disabled="page >= pages" @click="page++; load()" class="dw-btn dw-btn-sm">
+            {{ isZh ? "下一页" : "Next" }}
+          </button>
+        </div>
+      </div>
     </div>
   </div>
 </template>
 
 <style scoped>
-.hub-discussion-wall {
-  max-width: 800px;
-  margin: 0 auto;
-}
-.hub-toolbar {
+.dw-layout {
   display: flex;
-  justify-content: space-between;
-  align-items: center;
-  gap: 12px;
-  margin-bottom: 16px;
-  flex-wrap: wrap;
+  gap: 0;
+  min-height: 500px;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 12px;
+  overflow: hidden;
+  background: var(--vp-c-bg);
 }
-.hub-filters {
+
+/* Sidebar */
+.dw-sidebar {
+  width: 240px;
+  flex-shrink: 0;
+  background: var(--vp-c-bg-soft);
+  border-right: 1px solid var(--vp-c-divider);
   display: flex;
-  gap: 8px;
+  flex-direction: column;
 }
-.hub-filters select,
-.hub-select-small {
+.dw-sidebar-header {
+  padding: 16px 16px 8px;
+}
+.dw-sidebar-title {
+  font-size: 12px;
+  font-weight: 600;
+  text-transform: uppercase;
+  color: var(--vp-c-text-3);
+  letter-spacing: 0.5px;
+  margin: 0;
+}
+.dw-channel-list {
+  flex: 1;
+  padding: 4px 8px;
+}
+.dw-channel {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  width: 100%;
+  padding: 8px 10px;
+  border: none;
+  background: none;
+  border-radius: 6px;
+  cursor: pointer;
+  text-align: left;
+  color: var(--vp-c-text-2);
+  transition: all 0.15s;
+}
+.dw-channel:hover {
+  background: var(--vp-c-bg);
+  color: var(--vp-c-text-1);
+}
+.dw-channel.active {
+  background: var(--vp-c-brand-soft);
+  color: var(--vp-c-brand-1);
+}
+.dw-channel svg {
+  margin-top: 2px;
+  flex-shrink: 0;
+}
+.dw-channel-text {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+.dw-channel-name {
+  font-size: 14px;
+  font-weight: 500;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.dw-channel-desc {
+  font-size: 11px;
+  color: var(--vp-c-text-3);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.dw-channel.active .dw-channel-desc {
+  color: var(--vp-c-brand-2);
+}
+
+.dw-sidebar-footer {
+  padding: 12px 16px;
+  border-top: 1px solid var(--vp-c-divider);
+}
+.dw-sort-label {
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  color: var(--vp-c-text-3);
+  letter-spacing: 0.5px;
+  margin-bottom: 6px;
+}
+.dw-sort-select {
+  width: 100%;
   padding: 6px 10px;
   border: 1px solid var(--vp-c-divider);
   border-radius: 6px;
   background: var(--vp-c-bg);
   color: var(--vp-c-text-1);
-  font-size: 14px;
+  font-size: 13px;
 }
-.hub-btn {
-  padding: 6px 14px;
-  border: 1px solid var(--vp-c-divider);
-  border-radius: 6px;
-  cursor: pointer;
-  font-size: 14px;
-  background: var(--vp-c-bg);
-  color: var(--vp-c-text-1);
-  transition: all 0.15s;
+
+/* Main content */
+.dw-main {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
 }
-.hub-btn:hover { border-color: var(--vp-c-brand-1); }
-.hub-btn:disabled { opacity: 0.5; cursor: not-allowed; }
-.hub-btn-primary {
-  background: var(--vp-c-brand-1);
-  color: white;
-  border-color: var(--vp-c-brand-1);
-}
-.hub-btn-primary:hover { background: var(--vp-c-brand-2); }
-.hub-btn-sm { padding: 4px 10px; font-size: 13px; }
-.hub-form {
-  border: 1px solid var(--vp-c-divider);
-  border-radius: 8px;
-  padding: 16px;
-  margin-bottom: 16px;
-  background: var(--vp-c-bg-soft);
-}
-.hub-form-guest { display: flex; gap: 8px; margin-bottom: 8px; }
-.hub-input {
-  padding: 8px 12px;
-  border: 1px solid var(--vp-c-divider);
-  border-radius: 6px;
-  font-size: 14px;
-  background: var(--vp-c-bg);
-  color: var(--vp-c-text-1);
-  width: 100%;
-}
-.hub-input-full { width: 100%; margin-bottom: 8px; }
-.hub-input-sm { width: 200px; margin-bottom: 8px; }
-.hub-textarea {
-  width: 100%;
-  padding: 8px 12px;
-  border: 1px solid var(--vp-c-divider);
-  border-radius: 6px;
-  font-size: 14px;
-  resize: vertical;
-  background: var(--vp-c-bg);
-  color: var(--vp-c-text-1);
-  margin-bottom: 8px;
-  font-family: inherit;
-}
-.hub-form-footer {
+.dw-main-header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-}
-.hub-error {
-  color: var(--vp-c-danger-1);
-  padding: 8px 12px;
-  background: var(--vp-c-danger-soft);
-  border-radius: 6px;
-  margin-bottom: 12px;
-  font-size: 14px;
-}
-.hub-loading { text-align: center; padding: 32px; color: var(--vp-c-text-2); }
-.hub-loading-sm { text-align: center; padding: 12px; color: var(--vp-c-text-3); font-size: 13px; }
-.hub-empty {
-  text-align: center;
-  padding: 48px 16px;
-  color: var(--vp-c-text-3);
-  font-size: 15px;
-}
-.hub-list { display: flex; flex-direction: column; gap: 8px; }
-.hub-disc-card {
-  border: 1px solid var(--vp-c-divider);
-  border-radius: 8px;
+  padding: 16px 20px;
+  border-bottom: 1px solid var(--vp-c-divider);
   background: var(--vp-c-bg);
-  overflow: hidden;
-  transition: border-color 0.15s;
 }
-.hub-disc-card:hover { border-color: var(--vp-c-brand-1); }
-.hub-disc-main { padding: 14px 16px; }
-.hub-disc-header {
+.dw-main-header-left {
   display: flex;
   align-items: center;
-  gap: 8px;
-  margin-bottom: 4px;
+  gap: 12px;
 }
-.hub-disc-title {
-  font-size: 15px;
+.dw-main-title {
+  font-size: 16px;
   font-weight: 600;
   margin: 0;
   color: var(--vp-c-text-1);
 }
-.hub-disc-body {
+.dw-disc-count {
   font-size: 13px;
+  color: var(--vp-c-text-3);
+}
+
+/* Buttons */
+.dw-btn {
+  padding: 7px 16px;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 500;
+  background: var(--vp-c-bg);
+  color: var(--vp-c-text-1);
+  transition: all 0.15s;
+}
+.dw-btn:hover { border-color: var(--vp-c-brand-1); }
+.dw-btn:disabled { opacity: 0.5; cursor: not-allowed; }
+.dw-btn-primary {
+  background: var(--vp-c-brand-1);
+  color: white;
+  border-color: var(--vp-c-brand-1);
+}
+.dw-btn-primary:hover { background: var(--vp-c-brand-2); }
+.dw-btn-sm { padding: 5px 12px; font-size: 13px; }
+
+/* Form */
+.dw-form {
+  padding: 16px 20px;
+  border-bottom: 1px solid var(--vp-c-divider);
+  background: var(--vp-c-bg-soft);
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.dw-form-row { display: flex; gap: 10px; }
+.dw-input {
+  padding: 9px 14px;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 8px;
+  font-size: 14px;
+  background: var(--vp-c-bg);
+  color: var(--vp-c-text-1);
+  width: 100%;
+  transition: border-color 0.15s;
+}
+.dw-input:focus { border-color: var(--vp-c-brand-1); outline: none; }
+.dw-input-full { width: 100%; }
+.dw-input-sm { width: 200px; }
+.dw-textarea {
+  width: 100%;
+  padding: 9px 14px;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 8px;
+  font-size: 14px;
+  resize: vertical;
+  background: var(--vp-c-bg);
+  color: var(--vp-c-text-1);
+  font-family: inherit;
+}
+.dw-textarea:focus { border-color: var(--vp-c-brand-1); outline: none; }
+.dw-form-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.dw-error {
+  color: var(--vp-c-danger-1);
+  padding: 10px 20px;
+  background: var(--vp-c-danger-soft);
+  font-size: 14px;
+}
+
+.dw-loading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 48px;
   color: var(--vp-c-text-2);
-  margin: 4px 0 8px;
-  line-height: 1.5;
+}
+.dw-spinner, .dw-spinner-sm {
+  border: 2px solid var(--vp-c-divider);
+  border-top-color: var(--vp-c-brand-1);
+  border-radius: 50%;
+  animation: dw-spin 0.6s linear infinite;
+}
+.dw-spinner { width: 20px; height: 20px; }
+.dw-spinner-sm { width: 16px; height: 16px; margin: 8px auto; }
+@keyframes dw-spin { to { transform: rotate(360deg); } }
+
+.dw-empty {
+  text-align: center;
+  padding: 60px 20px;
+  color: var(--vp-c-text-3);
+}
+.dw-empty p { margin: 12px 0 0; font-size: 15px; }
+
+/* Thread list */
+.dw-thread-list {
+  flex: 1;
+  overflow-y: auto;
+}
+.dw-thread {
+  border-bottom: 1px solid var(--vp-c-divider);
+}
+.dw-thread:last-child { border-bottom: none; }
+.dw-thread-main {
+  display: flex;
+  gap: 14px;
+  padding: 18px 20px;
+  transition: background 0.15s;
+}
+.dw-thread-main:hover {
+  background: var(--vp-c-bg-soft);
+}
+.dw-thread-avatar {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, var(--vp-c-brand-1), var(--vp-c-brand-2));
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 600;
+  font-size: 16px;
+  flex-shrink: 0;
+}
+.dw-thread-content {
+  flex: 1;
+  min-width: 0;
+}
+.dw-thread-header {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 4px;
+  flex-wrap: wrap;
+}
+.dw-thread-author {
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--vp-c-text-1);
+}
+.dw-badge-verified, .dw-badge-verified-sm {
+  display: inline-flex;
+  align-items: center;
+}
+.dw-thread-tag {
+  font-size: 11px;
+  padding: 1px 7px;
+  border-radius: 6px;
+  background: var(--vp-c-bg-soft);
+  color: var(--vp-c-text-3);
+  border: 1px solid var(--vp-c-divider);
+  text-transform: capitalize;
+}
+.dw-thread-time {
+  font-size: 12px;
+  color: var(--vp-c-text-3);
+}
+.dw-thread-title {
+  font-size: 16px;
+  font-weight: 600;
+  margin: 0 0 6px;
+  color: var(--vp-c-text-1);
+}
+.dw-thread-body {
+  font-size: 14px;
+  color: var(--vp-c-text-2);
+  margin: 0 0 10px;
+  line-height: 1.6;
   display: -webkit-box;
   -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
-.hub-disc-meta {
+.dw-thread-actions {
   display: flex;
-  gap: 8px;
-  align-items: center;
-  flex-wrap: wrap;
+  gap: 12px;
 }
-.hub-badge {
-  font-size: 11px;
-  padding: 1px 6px;
-  border-radius: 4px;
-  font-weight: 500;
-}
-.hub-badge-cat {
-  background: var(--vp-c-bg-soft);
-  color: var(--vp-c-text-2);
-  border: 1px solid var(--vp-c-divider);
-}
-.hub-badge-verified {
-  background: var(--vp-c-brand-soft);
-  color: var(--vp-c-brand-1);
-}
-.hub-badge-verified-sm {
-  background: var(--vp-c-brand-soft);
-  color: var(--vp-c-brand-1);
-  font-size: 10px;
-  padding: 0 4px;
-  border-radius: 3px;
-}
-.hub-meta-text { font-size: 12px; color: var(--vp-c-text-3); }
-.hub-action-btn {
+.dw-action {
   display: inline-flex;
   align-items: center;
-  gap: 4px;
-  padding: 2px 8px;
-  border: 1px solid transparent;
-  border-radius: 4px;
-  background: none;
+  gap: 5px;
+  padding: 4px 10px;
+  border: none;
+  border-radius: 6px;
+  background: var(--vp-c-bg-soft);
   color: var(--vp-c-text-3);
   cursor: pointer;
-  font-size: 12px;
+  font-size: 13px;
   transition: all 0.15s;
 }
-.hub-action-btn:hover { color: var(--vp-c-brand-1); }
-.hub-action-btn.active { color: var(--vp-c-brand-1); }
-.hub-comments {
-  border-top: 1px solid var(--vp-c-divider);
-  padding: 12px 16px;
-  background: var(--vp-c-bg-soft);
+.dw-action:hover {
+  background: var(--vp-c-bg);
+  color: var(--vp-c-text-1);
 }
-.hub-comments-empty {
+.dw-action.active {
+  color: var(--vp-c-brand-1);
+  background: var(--vp-c-brand-soft);
+}
+
+/* Comments */
+.dw-comments {
+  padding: 0 20px 16px 74px;
+  background: var(--vp-c-bg-soft);
+  border-top: 1px solid var(--vp-c-divider);
+}
+.dw-comments-loading { text-align: center; padding: 12px; }
+.dw-comments-empty {
   text-align: center;
   padding: 12px;
   color: var(--vp-c-text-3);
   font-size: 13px;
 }
-.hub-comment {
-  padding: 8px 0;
+.dw-comment {
+  display: flex;
+  gap: 10px;
+  padding: 10px 0;
   border-bottom: 1px solid var(--vp-c-divider);
 }
-.hub-comment:last-of-type { border-bottom: none; }
-.hub-comment-header {
+.dw-comment:last-of-type { border-bottom: none; }
+.dw-comment-avatar {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  background: var(--vp-c-bg);
+  border: 1px solid var(--vp-c-divider);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--vp-c-text-2);
+  flex-shrink: 0;
+}
+.dw-comment-content { flex: 1; min-width: 0; }
+.dw-comment-header {
   display: flex;
   align-items: center;
   gap: 6px;
-  margin-bottom: 4px;
+  margin-bottom: 3px;
 }
-.hub-comment-author {
+.dw-comment-author {
   font-size: 13px;
   font-weight: 600;
   color: var(--vp-c-text-1);
 }
-.hub-comment-time { font-size: 11px; color: var(--vp-c-text-3); }
-.hub-comment-body {
+.dw-comment-time {
+  font-size: 11px;
+  color: var(--vp-c-text-3);
+}
+.dw-comment-body {
   font-size: 13px;
   color: var(--vp-c-text-2);
   margin: 0;
   line-height: 1.5;
 }
-.hub-comment-form {
-  margin-top: 12px;
-}
-.hub-comment-input-row {
+.dw-comment-form { margin-top: 12px; }
+.dw-comment-input-row {
   display: flex;
   gap: 8px;
 }
-.hub-pagination {
+
+.dw-pagination {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 12px;
-  margin-top: 16px;
+  gap: 16px;
+  padding: 16px 20px;
+  border-top: 1px solid var(--vp-c-divider);
 }
-.hub-page-info { font-size: 13px; color: var(--vp-c-text-2); }
+.dw-page-info {
+  font-size: 14px;
+  color: var(--vp-c-text-2);
+}
+
+@media (max-width: 768px) {
+  .dw-layout {
+    flex-direction: column;
+  }
+  .dw-sidebar {
+    width: 100%;
+    border-right: none;
+    border-bottom: 1px solid var(--vp-c-divider);
+  }
+  .dw-channel-list {
+    display: flex;
+    overflow-x: auto;
+    gap: 4px;
+    padding: 4px 8px 8px;
+  }
+  .dw-channel {
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+  .dw-channel-desc {
+    display: none;
+  }
+  .dw-sidebar-footer {
+    display: none;
+  }
+  .dw-comments {
+    padding-left: 20px;
+  }
+}
 </style>

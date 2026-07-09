@@ -6,7 +6,7 @@
 const HUB_API_URL =
   (typeof window !== "undefined" &&
     (window as Record<string, unknown>).__HUB_API_URL__) ||
-  "https://reguverse-hub-api.michael-yan.workers.dev";
+  "https://hub-api.team-ra.org";
 
 function getAuthToken(): string | null {
   if (typeof window === "undefined") return null;

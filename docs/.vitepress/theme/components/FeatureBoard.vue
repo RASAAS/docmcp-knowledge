@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import { ref, onMounted, computed } from "vue";
+import { useData } from "vitepress";
 import {
   listFeatures,
   createFeature,
@@ -7,6 +8,9 @@ import {
   isLoggedIn,
   type Feature,
 } from "./HubApi";
+
+const { lang } = useData();
+const isZh = computed(() => lang.value === "zh" || lang.value === "zh-CN");
 
 const features = ref<Feature[]>([]);
 const total = ref(0);
@@ -26,23 +30,23 @@ const formName = ref("");
 const formEmail = ref("");
 const submitting = ref(false);
 
-const categories = [
-  { value: "", label: "All" },
-  { value: "ce_workflow", label: "Clinical Evaluation" },
-  { value: "risk_management", label: "Risk Management" },
+const categories = computed(() => [
+  { value: "", label: isZh.value ? "全部" : "All" },
+  { value: "ce_workflow", label: isZh.value ? "临床评价" : "Clinical Evaluation" },
+  { value: "risk_management", label: isZh.value ? "风险管理" : "Risk Management" },
   { value: "pms_pmcf", label: "PMS / PMCF" },
   { value: "gspr", label: "GSPR" },
-  { value: "ai_tools", label: "AI Tools" },
-  { value: "knowledge_base", label: "Knowledge Base" },
-  { value: "general", label: "General" },
-];
+  { value: "ai_tools", label: isZh.value ? "AI 工具" : "AI Tools" },
+  { value: "knowledge_base", label: isZh.value ? "知识库" : "Knowledge Base" },
+  { value: "general", label: isZh.value ? "通用" : "General" },
+]);
 
-const statusLabels: Record<string, { text: string; color: string }> = {
-  under_review: { text: "Under Review", color: "#666" },
-  planned: { text: "Planned", color: "#0070f3" },
-  in_progress: { text: "In Progress", color: "#f5a623" },
-  completed: { text: "Completed", color: "#0cce6b" },
-  declined: { text: "Declined", color: "#e00" },
+const statusLabels: Record<string, { text: string; textZh: string; color: string }> = {
+  under_review: { text: "Under Review", textZh: "审核中", color: "#666" },
+  planned: { text: "Planned", textZh: "已规划", color: "#0070f3" },
+  in_progress: { text: "In Progress", textZh: "开发中", color: "#f5a623" },
+  completed: { text: "Completed", textZh: "已完成", color: "#0cce6b" },
+  declined: { text: "Declined", textZh: "已拒绝", color: "#e00" },
 };
 
 const loggedIn = computed(() => isLoggedIn());
@@ -109,11 +113,12 @@ function timeAgo(dateStr: string): string {
   const then = new Date(dateStr + "Z").getTime();
   const diff = now - then;
   const mins = Math.floor(diff / 60000);
-  if (mins < 60) return `${mins}m ago`;
+  if (mins < 1) return isZh.value ? "刚刚" : "just now";
+  if (mins < 60) return isZh.value ? `${mins}分钟前` : `${mins}m ago`;
   const hours = Math.floor(mins / 60);
-  if (hours < 24) return `${hours}h ago`;
+  if (hours < 24) return isZh.value ? `${hours}小时前` : `${hours}h ago`;
   const days = Math.floor(hours / 24);
-  if (days < 30) return `${days}d ago`;
+  if (days < 30) return isZh.value ? `${days}天前` : `${days}d ago`;
   return new Date(dateStr).toLocaleDateString();
 }
 
@@ -121,373 +126,452 @@ onMounted(load);
 </script>
 
 <template>
-  <div class="hub-feature-board">
-    <!-- Toolbar -->
-    <div class="hub-toolbar">
-      <div class="hub-filters">
-        <select v-model="category" @change="page = 1; load()">
-          <option v-for="c in categories" :key="c.value" :value="c.value">
-            {{ c.label }}
-          </option>
-        </select>
-        <select v-model="sort" @change="page = 1; load()">
-          <option value="votes">Most Voted</option>
-          <option value="newest">Newest</option>
-          <option value="updated">Recently Updated</option>
-        </select>
+  <div class="fb">
+    <!-- Header bar -->
+    <div class="fb-header">
+      <div class="fb-header-left">
+        <h2 class="fb-section-title">
+          {{ isZh ? "功能建议板" : "Feature Board" }}
+          <span class="fb-count" v-if="total">{{ total }}</span>
+        </h2>
       </div>
-      <button class="hub-btn hub-btn-primary" @click="showForm = !showForm">
-        {{ showForm ? "Cancel" : "+ Submit Idea" }}
+      <button class="fb-btn fb-btn-primary" @click="showForm = !showForm">
+        {{ showForm ? (isZh ? "取消" : "Cancel") : (isZh ? "+ 提交建议" : "+ Submit Idea") }}
       </button>
     </div>
 
-    <!-- Submit Form -->
-    <div v-if="showForm" class="hub-form">
-      <div v-if="!loggedIn" class="hub-form-guest">
-        <input
-          v-model="formName"
-          placeholder="Your name *"
-          class="hub-input"
-        />
-        <input
-          v-model="formEmail"
-          placeholder="Email (for vote tracking)"
-          class="hub-input"
-        />
-      </div>
-      <input
-        v-model="formTitle"
-        placeholder="Feature title *"
-        class="hub-input hub-input-full"
-      />
-      <textarea
-        v-model="formDesc"
-        placeholder="Describe the feature you'd like to see... *"
-        class="hub-textarea"
-        rows="4"
-      ></textarea>
-      <div class="hub-form-footer">
-        <select v-model="formCategory" class="hub-select-small">
-          <option v-for="c in categories.slice(1)" :key="c.value" :value="c.value">
-            {{ c.label }}
-          </option>
-        </select>
+    <!-- Filters -->
+    <div class="fb-filters">
+      <div class="fb-filter-group">
         <button
-          class="hub-btn hub-btn-primary"
-          :disabled="submitting || !formTitle.trim() || !formDesc.trim()"
-          @click="submit"
+          v-for="c in categories"
+          :key="c.value"
+          class="fb-filter-chip"
+          :class="{ active: category === c.value }"
+          @click="category = c.value; page = 1; load()"
         >
-          {{ submitting ? "Submitting..." : "Submit" }}
+          {{ c.label }}
         </button>
+      </div>
+      <select v-model="sort" @change="page = 1; load()" class="fb-sort-select">
+        <option value="votes">{{ isZh ? "最多投票" : "Most Voted" }}</option>
+        <option value="newest">{{ isZh ? "最新" : "Newest" }}</option>
+        <option value="updated">{{ isZh ? "最近更新" : "Recently Updated" }}</option>
+      </select>
+    </div>
+
+    <!-- Submit Form -->
+    <div v-if="showForm" class="fb-form">
+      <div class="fb-form-grid">
+        <div v-if="!loggedIn" class="fb-form-row">
+          <input v-model="formName" :placeholder="isZh ? '您的姓名 *' : 'Your name *'" class="fb-input" />
+          <input v-model="formEmail" :placeholder="isZh ? '邮箱（用于投票追踪）' : 'Email (for vote tracking)'" class="fb-input" />
+        </div>
+        <input
+          v-model="formTitle"
+          :placeholder="isZh ? '功能标题 *' : 'Feature title *'"
+          class="fb-input fb-input-full"
+        />
+        <textarea
+          v-model="formDesc"
+          :placeholder="isZh ? '描述您想要的功能...*' : 'Describe the feature you\'d like to see... *'"
+          class="fb-textarea"
+          rows="4"
+        ></textarea>
+        <div class="fb-form-actions">
+          <select v-model="formCategory" class="fb-sort-select">
+            <option v-for="c in categories.slice(1)" :key="c.value" :value="c.value">{{ c.label }}</option>
+          </select>
+          <button
+            class="fb-btn fb-btn-primary"
+            :disabled="submitting || !formTitle.trim() || !formDesc.trim()"
+            @click="submit"
+          >
+            {{ submitting ? (isZh ? "提交中..." : "Submitting...") : (isZh ? "提交" : "Submit") }}
+          </button>
+        </div>
       </div>
     </div>
 
     <!-- Error -->
-    <div v-if="error" class="hub-error">{{ error }}</div>
+    <div v-if="error" class="fb-error">{{ error }}</div>
 
     <!-- Loading -->
-    <div v-if="loading" class="hub-loading">Loading...</div>
+    <div v-if="loading" class="fb-loading">
+      <div class="fb-spinner"></div>
+      {{ isZh ? "加载中..." : "Loading..." }}
+    </div>
 
-    <!-- Feature List -->
-    <div v-else class="hub-list">
-      <div v-if="features.length === 0" class="hub-empty">
-        No feature requests yet. Be the first to submit one!
+    <!-- Feature Grid -->
+    <div v-else class="fb-grid">
+      <div v-if="features.length === 0" class="fb-empty">
+        <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="var(--vp-c-text-3)" stroke-width="1.5">
+          <path d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+        <p>{{ isZh ? "暂无功能建议。成为第一个提交建议的人！" : "No feature requests yet. Be the first to submit one!" }}</p>
       </div>
-      <div
-        v-for="f in features"
-        :key="f.id"
-        class="hub-card"
-      >
-        <div class="hub-vote-col" @click="vote(f)">
-          <button
-            class="hub-vote-btn"
-            :class="{ voted: f.user_voted }"
-            :title="f.user_voted ? 'Remove vote' : 'Upvote'"
-          >
-            <svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor">
-              <path d="M8 4l4 5H4l4-5z"/>
-            </svg>
+
+      <div v-for="f in features" :key="f.id" class="fb-card">
+        <div class="fb-card-vote" @click="vote(f)">
+          <button class="fb-vote-btn" :class="{ voted: f.user_voted }" :title="f.user_voted ? 'Remove vote' : 'Upvote'">
+            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor"><path d="M8 4l4 5H4l4-5z"/></svg>
           </button>
-          <span class="hub-vote-count">{{ f.vote_count }}</span>
+          <span class="fb-vote-num">{{ f.vote_count }}</span>
         </div>
-        <div class="hub-card-body">
-          <div class="hub-card-header">
-            <h3 class="hub-card-title">{{ f.title }}</h3>
+        <div class="fb-card-content">
+          <div class="fb-card-top">
+            <h3 class="fb-card-title">{{ f.title }}</h3>
             <span
               v-if="statusLabels[f.status]"
-              class="hub-status"
-              :style="{ color: statusLabels[f.status].color, borderColor: statusLabels[f.status].color }"
+              class="fb-status"
+              :style="{ '--status-color': statusLabels[f.status].color }"
             >
-              {{ statusLabels[f.status].text }}
+              {{ isZh ? statusLabels[f.status].textZh : statusLabels[f.status].text }}
             </span>
           </div>
-          <p class="hub-card-desc">{{ f.description }}</p>
-          <div class="hub-card-meta">
-            <span class="hub-badge hub-badge-cat">{{ f.category }}</span>
-            <span v-if="f.is_verified" class="hub-badge hub-badge-verified" title="Verified Reguverse user">Verified</span>
-            <span class="hub-meta-text">{{ f.author_name }}</span>
-            <span class="hub-meta-text">{{ timeAgo(f.created_at) }}</span>
-            <span class="hub-meta-text">{{ f.comment_count }} comments</span>
+          <p class="fb-card-desc">{{ f.description }}</p>
+          <div class="fb-card-footer">
+            <span class="fb-tag">{{ f.category.replace(/_/g, " ") }}</span>
+            <span v-if="f.is_verified" class="fb-verified">
+              <svg width="12" height="12" viewBox="0 0 24 24" fill="var(--vp-c-brand-1)"><path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+              Verified
+            </span>
+            <span class="fb-meta">{{ f.author_name }}</span>
+            <span class="fb-meta fb-meta-dot">{{ timeAgo(f.created_at) }}</span>
+            <span class="fb-meta fb-meta-dot">
+              <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15a2 2 0 01-2 2H7l-4 4V5a2 2 0 012-2h14a2 2 0 012 2z"/></svg>
+              {{ f.comment_count }}
+            </span>
           </div>
         </div>
       </div>
     </div>
 
     <!-- Pagination -->
-    <div v-if="pages > 1" class="hub-pagination">
-      <button
-        :disabled="page <= 1"
-        @click="page--; load()"
-        class="hub-btn hub-btn-sm"
-      >
-        Prev
+    <div v-if="pages > 1" class="fb-pagination">
+      <button :disabled="page <= 1" @click="page--; load()" class="fb-btn fb-btn-sm">
+        {{ isZh ? "上一页" : "Prev" }}
       </button>
-      <span class="hub-page-info">Page {{ page }} / {{ pages }}</span>
-      <button
-        :disabled="page >= pages"
-        @click="page++; load()"
-        class="hub-btn hub-btn-sm"
-      >
-        Next
+      <span class="fb-page-info">{{ page }} / {{ pages }}</span>
+      <button :disabled="page >= pages" @click="page++; load()" class="fb-btn fb-btn-sm">
+        {{ isZh ? "下一页" : "Next" }}
       </button>
     </div>
   </div>
 </template>
 
 <style scoped>
-.hub-feature-board {
-  max-width: 800px;
-  margin: 0 auto;
+.fb-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 16px;
 }
-.hub-toolbar {
+.fb-section-title {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 20px;
+  font-weight: 600;
+  margin: 0;
+  color: var(--vp-c-text-1);
+}
+.fb-count {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 24px;
+  height: 24px;
+  padding: 0 8px;
+  border-radius: 12px;
+  background: var(--vp-c-bg-soft);
+  color: var(--vp-c-text-2);
+  font-size: 13px;
+  font-weight: 500;
+}
+
+.fb-filters {
   display: flex;
   justify-content: space-between;
   align-items: center;
   gap: 12px;
-  margin-bottom: 16px;
+  margin-bottom: 20px;
   flex-wrap: wrap;
 }
-.hub-filters {
+.fb-filter-group {
   display: flex;
-  gap: 8px;
+  gap: 6px;
+  flex-wrap: wrap;
 }
-.hub-filters select,
-.hub-select-small {
+.fb-filter-chip {
+  padding: 5px 12px;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 16px;
+  background: var(--vp-c-bg);
+  color: var(--vp-c-text-2);
+  font-size: 13px;
+  cursor: pointer;
+  transition: all 0.15s;
+  white-space: nowrap;
+}
+.fb-filter-chip:hover {
+  border-color: var(--vp-c-brand-1);
+  color: var(--vp-c-brand-1);
+}
+.fb-filter-chip.active {
+  background: var(--vp-c-brand-soft);
+  border-color: var(--vp-c-brand-1);
+  color: var(--vp-c-brand-1);
+  font-weight: 500;
+}
+.fb-sort-select {
   padding: 6px 10px;
   border: 1px solid var(--vp-c-divider);
   border-radius: 6px;
   background: var(--vp-c-bg);
   color: var(--vp-c-text-1);
-  font-size: 14px;
+  font-size: 13px;
 }
-.hub-btn {
-  padding: 6px 14px;
+
+.fb-btn {
+  padding: 7px 16px;
   border: 1px solid var(--vp-c-divider);
-  border-radius: 6px;
+  border-radius: 8px;
   cursor: pointer;
   font-size: 14px;
+  font-weight: 500;
   background: var(--vp-c-bg);
   color: var(--vp-c-text-1);
   transition: all 0.15s;
 }
-.hub-btn:hover {
-  border-color: var(--vp-c-brand-1);
-}
-.hub-btn:disabled {
-  opacity: 0.5;
-  cursor: not-allowed;
-}
-.hub-btn-primary {
+.fb-btn:hover { border-color: var(--vp-c-brand-1); }
+.fb-btn:disabled { opacity: 0.5; cursor: not-allowed; }
+.fb-btn-primary {
   background: var(--vp-c-brand-1);
   color: white;
   border-color: var(--vp-c-brand-1);
 }
-.hub-btn-primary:hover {
-  background: var(--vp-c-brand-2);
-}
-.hub-btn-sm {
-  padding: 4px 10px;
-  font-size: 13px;
-}
-.hub-form {
+.fb-btn-primary:hover { background: var(--vp-c-brand-2); }
+.fb-btn-sm { padding: 5px 12px; font-size: 13px; }
+
+.fb-form {
   border: 1px solid var(--vp-c-divider);
-  border-radius: 8px;
-  padding: 16px;
-  margin-bottom: 16px;
+  border-radius: 12px;
+  padding: 20px;
+  margin-bottom: 20px;
   background: var(--vp-c-bg-soft);
 }
-.hub-form-guest {
+.fb-form-grid {
   display: flex;
-  gap: 8px;
-  margin-bottom: 8px;
+  flex-direction: column;
+  gap: 10px;
 }
-.hub-input {
-  padding: 8px 12px;
+.fb-form-row { display: flex; gap: 10px; }
+.fb-input {
+  padding: 9px 14px;
   border: 1px solid var(--vp-c-divider);
-  border-radius: 6px;
+  border-radius: 8px;
   font-size: 14px;
   background: var(--vp-c-bg);
   color: var(--vp-c-text-1);
   width: 100%;
+  transition: border-color 0.15s;
 }
-.hub-input-full {
+.fb-input:focus { border-color: var(--vp-c-brand-1); outline: none; }
+.fb-input-full { width: 100%; }
+.fb-textarea {
   width: 100%;
-  margin-bottom: 8px;
-}
-.hub-textarea {
-  width: 100%;
-  padding: 8px 12px;
+  padding: 9px 14px;
   border: 1px solid var(--vp-c-divider);
-  border-radius: 6px;
+  border-radius: 8px;
   font-size: 14px;
   resize: vertical;
   background: var(--vp-c-bg);
   color: var(--vp-c-text-1);
-  margin-bottom: 8px;
   font-family: inherit;
+  transition: border-color 0.15s;
 }
-.hub-form-footer {
+.fb-textarea:focus { border-color: var(--vp-c-brand-1); outline: none; }
+.fb-form-actions {
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
-.hub-error {
+
+.fb-error {
   color: var(--vp-c-danger-1);
-  padding: 8px 12px;
+  padding: 10px 14px;
   background: var(--vp-c-danger-soft);
-  border-radius: 6px;
-  margin-bottom: 12px;
+  border-radius: 8px;
+  margin-bottom: 16px;
   font-size: 14px;
 }
-.hub-loading {
-  text-align: center;
-  padding: 32px;
+
+.fb-loading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 48px;
   color: var(--vp-c-text-2);
-}
-.hub-empty {
-  text-align: center;
-  padding: 48px 16px;
-  color: var(--vp-c-text-3);
   font-size: 15px;
 }
-.hub-list {
+.fb-spinner {
+  width: 20px;
+  height: 20px;
+  border: 2px solid var(--vp-c-divider);
+  border-top-color: var(--vp-c-brand-1);
+  border-radius: 50%;
+  animation: spin 0.6s linear infinite;
+}
+@keyframes spin { to { transform: rotate(360deg); } }
+
+.fb-empty {
+  text-align: center;
+  padding: 60px 20px;
+  color: var(--vp-c-text-3);
+}
+.fb-empty p { margin: 12px 0 0; font-size: 15px; }
+
+.fb-grid {
   display: flex;
   flex-direction: column;
-  gap: 8px;
+  gap: 10px;
 }
-.hub-card {
+
+.fb-card {
   display: flex;
-  gap: 12px;
-  padding: 14px 16px;
+  gap: 16px;
+  padding: 18px 20px;
   border: 1px solid var(--vp-c-divider);
-  border-radius: 8px;
+  border-radius: 12px;
   background: var(--vp-c-bg);
-  transition: border-color 0.15s;
+  transition: all 0.2s;
 }
-.hub-card:hover {
+.fb-card:hover {
   border-color: var(--vp-c-brand-1);
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.06);
 }
-.hub-vote-col {
+
+.fb-card-vote {
   display: flex;
   flex-direction: column;
   align-items: center;
-  min-width: 44px;
+  gap: 4px;
+  min-width: 48px;
   cursor: pointer;
   user-select: none;
 }
-.hub-vote-btn {
-  width: 36px;
-  height: 28px;
+.fb-vote-btn {
+  width: 40px;
+  height: 32px;
   display: flex;
   align-items: center;
   justify-content: center;
   border: 1px solid var(--vp-c-divider);
-  border-radius: 6px;
+  border-radius: 8px;
   background: var(--vp-c-bg-soft);
   color: var(--vp-c-text-3);
   cursor: pointer;
   transition: all 0.15s;
 }
-.hub-vote-btn:hover,
-.hub-vote-btn.voted {
+.fb-vote-btn:hover, .fb-vote-btn.voted {
   border-color: var(--vp-c-brand-1);
   color: var(--vp-c-brand-1);
   background: var(--vp-c-brand-soft);
 }
-.hub-vote-count {
-  font-size: 14px;
+.fb-vote-num {
+  font-size: 15px;
   font-weight: 600;
   color: var(--vp-c-text-2);
-  margin-top: 2px;
 }
-.hub-card-body {
+
+.fb-card-content {
   flex: 1;
   min-width: 0;
 }
-.hub-card-header {
+.fb-card-top {
   display: flex;
-  align-items: center;
-  gap: 8px;
-  margin-bottom: 4px;
+  align-items: flex-start;
+  gap: 10px;
+  margin-bottom: 6px;
 }
-.hub-card-title {
-  font-size: 15px;
+.fb-card-title {
+  font-size: 16px;
   font-weight: 600;
   margin: 0;
   color: var(--vp-c-text-1);
+  flex: 1;
 }
-.hub-status {
+.fb-status {
   font-size: 11px;
-  padding: 1px 6px;
-  border: 1px solid;
-  border-radius: 4px;
+  padding: 2px 8px;
+  border: 1px solid var(--status-color);
+  color: var(--status-color);
+  border-radius: 6px;
   white-space: nowrap;
   font-weight: 500;
+  flex-shrink: 0;
 }
-.hub-card-desc {
-  font-size: 13px;
+.fb-card-desc {
+  font-size: 14px;
   color: var(--vp-c-text-2);
-  margin: 4px 0 8px;
-  line-height: 1.5;
+  margin: 0 0 10px;
+  line-height: 1.6;
   display: -webkit-box;
   -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
-.hub-card-meta {
+.fb-card-footer {
   display: flex;
-  gap: 8px;
+  gap: 10px;
   align-items: center;
   flex-wrap: wrap;
 }
-.hub-badge {
+.fb-tag {
   font-size: 11px;
-  padding: 1px 6px;
-  border-radius: 4px;
-  font-weight: 500;
-}
-.hub-badge-cat {
+  padding: 2px 8px;
+  border-radius: 6px;
   background: var(--vp-c-bg-soft);
   color: var(--vp-c-text-2);
   border: 1px solid var(--vp-c-divider);
+  text-transform: capitalize;
 }
-.hub-badge-verified {
-  background: var(--vp-c-brand-soft);
+.fb-verified {
+  display: inline-flex;
+  align-items: center;
+  gap: 3px;
+  font-size: 11px;
   color: var(--vp-c-brand-1);
+  font-weight: 500;
 }
-.hub-meta-text {
+.fb-meta {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
   font-size: 12px;
   color: var(--vp-c-text-3);
 }
-.hub-pagination {
+.fb-meta-dot::before {
+  content: "";
+  display: inline-block;
+  width: 3px;
+  height: 3px;
+  border-radius: 50%;
+  background: var(--vp-c-text-3);
+  margin-right: 2px;
+}
+
+.fb-pagination {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 12px;
-  margin-top: 16px;
+  gap: 16px;
+  margin-top: 20px;
 }
-.hub-page-info {
-  font-size: 13px;
+.fb-page-info {
+  font-size: 14px;
   color: var(--vp-c-text-2);
 }
 </style>

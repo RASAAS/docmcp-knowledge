@@ -2,6 +2,10 @@ name = "reguverse-hub-api"
 main = "src/index.ts"
 compatibility_date = "2024-09-23"
 
+routes = [
+  { pattern = "hub-api.team-ra.org", custom_domain = true }
+]
+
 [vars]
 ALLOWED_ORIGIN = "https://docs.team-ra.org"
 DOCMCP_API_URL = "https://llm.team-ra.org"

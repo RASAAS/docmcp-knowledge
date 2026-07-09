@@ -32,3 +32,12 @@
   font-size: 0.85em;
   color: var(--vp-c-text-2);
 }
+
+/* Hub pages: full-width layout, no padding constraints */
+.VPPage .rv-hub {
+  width: 100%;
+}
+.VPPage .vp-doc {
+  padding: 0 !important;
+  max-width: 100% !important;
+}
