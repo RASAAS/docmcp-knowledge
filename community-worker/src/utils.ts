@@ -1,4 +1,6 @@
-import type { Env } from "./types";
+import type { Env, AuthUser } from "./types";
+
+export const EDIT_WINDOW_MS = 30 * 60 * 1000; // 30 minutes
 
 export function corsHeaders(env: Env): Record<string, string> {
   return {
@@ -34,4 +36,17 @@ export function sanitize(input: string, maxLen = 5000): string {
 
 export function sanitizeTitle(input: string): string {
   return sanitize(input, 200).trim();
+}
+
+export function isAdmin(user: AuthUser | null): boolean {
+  return !!user && ["admin", "super_admin"].includes(user.role);
+}
+
+export function isOwner(user: AuthUser | null, authorUserId: string | null): boolean {
+  return !!user && !!authorUserId && user.user_id === authorUserId;
+}
+
+export function withinEditWindow(createdAt: string): boolean {
+  const created = new Date(createdAt + "Z").getTime();
+  return Date.now() - created < EDIT_WINDOW_MS;
 }

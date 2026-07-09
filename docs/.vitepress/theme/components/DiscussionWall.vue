@@ -4,16 +4,23 @@ import { useData } from "vitepress";
 import {
   listDiscussions,
   createDiscussion,
+  editDiscussion,
+  deleteDiscussion,
   toggleLike,
   listComments,
   createComment,
+  editComment,
+  deleteComment,
   isLoggedIn,
+  getUserId,
+  getUserRole,
   type Discussion,
   type Comment,
 } from "./HubApi";
 
 const { lang } = useData();
 const isZh = computed(() => lang.value === "zh" || lang.value === "zh-CN");
+const EDIT_WINDOW_MS = 30 * 60 * 1000;
 
 const discussions = ref<Discussion[]>([]);
 const total = ref(0);
@@ -38,6 +45,86 @@ const commentLoading = ref(false);
 const commentBody = ref("");
 const commentName = ref("");
 const commentSubmitting = ref(false);
+
+const currentUserId = computed(() => getUserId());
+const isAdminUser = computed(() => ["admin", "super_admin"].includes(getUserRole()));
+
+const editDiscId = ref<number | null>(null);
+const editDiscTitle = ref("");
+const editDiscBody = ref("");
+
+const editCommentId = ref<number | null>(null);
+const editCommentBody = ref("");
+
+function canEditDisc(d: Discussion): boolean {
+  if (isAdminUser.value) return true;
+  if (!isLoggedIn() || !currentUserId.value) return false;
+  if ((d as Record<string, unknown>).author_user_id !== currentUserId.value) return false;
+  const created = new Date(d.created_at + "Z").getTime();
+  return Date.now() - created < EDIT_WINDOW_MS;
+}
+function canDeleteDisc(d: Discussion): boolean {
+  if (isAdminUser.value) return true;
+  if (!isLoggedIn() || !currentUserId.value) return false;
+  return (d as Record<string, unknown>).author_user_id === currentUserId.value;
+}
+function canEditCmt(c: Comment): boolean {
+  if (isAdminUser.value) return true;
+  if (!isLoggedIn() || !currentUserId.value) return false;
+  if ((c as Record<string, unknown>).author_user_id !== currentUserId.value) return false;
+  const created = new Date(c.created_at + "Z").getTime();
+  return Date.now() - created < EDIT_WINDOW_MS;
+}
+function canDeleteCmt(c: Comment): boolean {
+  if (isAdminUser.value) return true;
+  if (!isLoggedIn() || !currentUserId.value) return false;
+  return (c as Record<string, unknown>).author_user_id === currentUserId.value;
+}
+
+function startEditDisc(d: Discussion) {
+  editDiscId.value = d.id; editDiscTitle.value = d.title; editDiscBody.value = d.body;
+}
+async function saveEditDisc(d: Discussion) {
+  if (!editDiscTitle.value.trim() || !editDiscBody.value.trim()) return;
+  try {
+    await editDiscussion(d.id, { title: editDiscTitle.value.trim(), body: editDiscBody.value.trim() });
+    d.title = editDiscTitle.value.trim(); d.body = editDiscBody.value.trim();
+    editDiscId.value = null;
+  } catch (e) { error.value = (e as Error).message; }
+}
+async function doDeleteDisc(d: Discussion) {
+  const msg = isZh.value ? "确定删除此讨论？" : "Delete this discussion?";
+  if (!confirm(msg)) return;
+  try {
+    await deleteDiscussion(d.id);
+    discussions.value = discussions.value.filter((x) => x.id !== d.id);
+    if (expandedId.value === d.id) expandedId.value = null;
+  } catch (e) { error.value = (e as Error).message; }
+}
+
+function startEditCmt(c: Comment) {
+  editCommentId.value = c.id; editCommentBody.value = c.body;
+}
+async function saveEditCmt(c: Comment) {
+  if (!editCommentBody.value.trim()) return;
+  try {
+    await editComment(c.id, { body: editCommentBody.value.trim() });
+    c.body = editCommentBody.value.trim();
+    editCommentId.value = null;
+  } catch (e) { error.value = (e as Error).message; }
+}
+async function doDeleteCmt(c: Comment) {
+  const msg = isZh.value ? "确定删除此评论？" : "Delete this comment?";
+  if (!confirm(msg)) return;
+  try {
+    await deleteComment(c.id);
+    comments.value = comments.value.filter((x) => x.id !== c.id);
+    if (expandedId.value) {
+      const disc = discussions.value.find((d) => d.id === expandedId.value);
+      if (disc) disc.comment_count = Math.max(0, disc.comment_count - 1);
+    }
+  } catch (e) { error.value = (e as Error).message; }
+}
 
 const channels = computed(() => [
   {
@@ -294,22 +381,42 @@ onMounted(load);
                   <span class="dw-thread-tag">{{ d.category.replace(/_/g, " ") }}</span>
                   <span class="dw-thread-time">{{ timeAgo(d.created_at) }}</span>
                 </div>
-                <h4 class="dw-thread-title">{{ d.title }}</h4>
-                <p class="dw-thread-body">{{ d.body }}</p>
-                <div class="dw-thread-actions">
-                  <button class="dw-action" :class="{ active: d.user_liked }" @click="like(d)">
-                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                      <path d="M14 9V5a3 3 0 00-3-3l-4 9v11h11.28a2 2 0 002-1.7l1.38-9a2 2 0 00-2-2.3zM7 22H4a2 2 0 01-2-2v-7a2 2 0 012-2h3"/>
-                    </svg>
-                    {{ d.like_count }}
-                  </button>
-                  <button class="dw-action" :class="{ active: expandedId === d.id }" @click="toggleComments(d.id)">
-                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                      <path d="M21 15a2 2 0 01-2 2H7l-4 4V5a2 2 0 012-2h14a2 2 0 012 2z"/>
-                    </svg>
-                    {{ d.comment_count }} {{ isZh ? "回复" : "replies" }}
-                  </button>
-                </div>
+                <!-- Edit mode -->
+                <template v-if="editDiscId === d.id">
+                  <input v-model="editDiscTitle" class="dw-edit-input" :placeholder="isZh ? '标题' : 'Title'" />
+                  <textarea v-model="editDiscBody" class="dw-edit-textarea" rows="3" :placeholder="isZh ? '内容' : 'Content'"></textarea>
+                  <div class="dw-edit-actions">
+                    <button class="dw-btn-sm dw-btn-save" @click="saveEditDisc(d)">{{ isZh ? '保存' : 'Save' }}</button>
+                    <button class="dw-btn-sm dw-btn-cancel" @click="editDiscId = null">{{ isZh ? '取消' : 'Cancel' }}</button>
+                  </div>
+                </template>
+                <!-- View mode -->
+                <template v-else>
+                  <h4 class="dw-thread-title">{{ d.title }}</h4>
+                  <p class="dw-thread-body">{{ d.body }}</p>
+                  <div class="dw-thread-actions">
+                    <button class="dw-action" :class="{ active: d.user_liked }" @click="like(d)">
+                      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M14 9V5a3 3 0 00-3-3l-4 9v11h11.28a2 2 0 002-1.7l1.38-9a2 2 0 00-2-2.3zM7 22H4a2 2 0 01-2-2v-7a2 2 0 012-2h3"/>
+                      </svg>
+                      {{ d.like_count }}
+                    </button>
+                    <button class="dw-action" :class="{ active: expandedId === d.id }" @click="toggleComments(d.id)">
+                      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M21 15a2 2 0 01-2 2H7l-4 4V5a2 2 0 012-2h14a2 2 0 012 2z"/>
+                      </svg>
+                      {{ d.comment_count }} {{ isZh ? "回复" : "replies" }}
+                    </button>
+                    <span v-if="canEditDisc(d) || canDeleteDisc(d)" class="dw-owner-actions">
+                      <button v-if="canEditDisc(d)" class="dw-btn-icon" :title="isZh ? '编辑' : 'Edit'" @click.stop="startEditDisc(d)">
+                        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M11 4H4a2 2 0 00-2 2v14a2 2 0 002 2h14a2 2 0 002-2v-7"/><path d="M18.5 2.5a2.121 2.121 0 013 3L12 15l-4 1 1-4 9.5-9.5z"/></svg>
+                      </button>
+                      <button v-if="canDeleteDisc(d)" class="dw-btn-icon dw-btn-danger" :title="isZh ? '删除' : 'Delete'" @click.stop="doDeleteDisc(d)">
+                        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="3 6 5 6 21 6"/><path d="M19 6v14a2 2 0 01-2 2H7a2 2 0 01-2-2V6m3 0V4a2 2 0 012-2h4a2 2 0 012 2v2"/></svg>
+                      </button>
+                    </span>
+                  </div>
+                </template>
               </div>
             </div>
 
@@ -331,8 +438,23 @@ onMounted(load);
                         <svg width="12" height="12" viewBox="0 0 24 24" fill="var(--vp-c-brand-1)"><path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
                       </span>
                       <span class="dw-comment-time">{{ timeAgo(c.created_at) }}</span>
+                      <span v-if="canEditCmt(c) || canDeleteCmt(c)" class="dw-cmt-actions">
+                        <button v-if="canEditCmt(c)" class="dw-btn-icon-sm" :title="isZh ? '编辑' : 'Edit'" @click="startEditCmt(c)">
+                          <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M11 4H4a2 2 0 00-2 2v14a2 2 0 002 2h14a2 2 0 002-2v-7"/><path d="M18.5 2.5a2.121 2.121 0 013 3L12 15l-4 1 1-4 9.5-9.5z"/></svg>
+                        </button>
+                        <button v-if="canDeleteCmt(c)" class="dw-btn-icon-sm dw-btn-danger" :title="isZh ? '删除' : 'Delete'" @click="doDeleteCmt(c)">
+                          <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="3 6 5 6 21 6"/><path d="M19 6v14a2 2 0 01-2 2H7a2 2 0 01-2-2V6m3 0V4a2 2 0 012-2h4a2 2 0 012 2v2"/></svg>
+                        </button>
+                      </span>
                     </div>
-                    <p class="dw-comment-body">{{ c.body }}</p>
+                    <template v-if="editCommentId === c.id">
+                      <input v-model="editCommentBody" class="dw-edit-input-sm" @keydown.enter="saveEditCmt(c)" />
+                      <div class="dw-edit-actions-sm">
+                        <button class="dw-btn-sm dw-btn-save" @click="saveEditCmt(c)">{{ isZh ? '保存' : 'Save' }}</button>
+                        <button class="dw-btn-sm dw-btn-cancel" @click="editCommentId = null">{{ isZh ? '取消' : 'Cancel' }}</button>
+                      </div>
+                    </template>
+                    <p v-else class="dw-comment-body">{{ c.body }}</p>
                   </div>
                 </div>
               </div>
@@ -771,6 +893,34 @@ onMounted(load);
   color: var(--vp-c-text-2);
   margin: 0;
   line-height: 1.5;
+}
+.dw-edit-input, .dw-edit-textarea {
+  width: 100%; padding: 6px 10px; border: 1px solid var(--vp-c-divider);
+  border-radius: 6px; font-size: 14px; margin-bottom: 4px;
+  background: var(--vp-c-bg); color: var(--vp-c-text-1);
+}
+.dw-edit-textarea { resize: vertical; font-size: 13px; }
+.dw-edit-actions, .dw-edit-actions-sm { display: flex; gap: 6px; margin-top: 4px; }
+.dw-btn-sm {
+  padding: 3px 10px; border: none; border-radius: 5px; font-size: 12px;
+  cursor: pointer; font-weight: 500;
+}
+.dw-btn-save { background: var(--vp-c-brand-1); color: #fff; }
+.dw-btn-save:hover { opacity: 0.9; }
+.dw-btn-cancel { background: var(--vp-c-default-soft); color: var(--vp-c-text-2); }
+.dw-owner-actions, .dw-cmt-actions {
+  display: inline-flex; gap: 2px; margin-left: auto;
+}
+.dw-btn-icon, .dw-btn-icon-sm {
+  background: none; border: none; cursor: pointer; padding: 2px 4px;
+  color: var(--vp-c-text-3); border-radius: 4px; display: inline-flex; align-items: center;
+}
+.dw-btn-icon:hover, .dw-btn-icon-sm:hover { background: var(--vp-c-default-soft); color: var(--vp-c-text-1); }
+.dw-btn-danger:hover { color: #e53e3e; background: #fed7d7; }
+.dw-edit-input-sm {
+  width: 100%; padding: 4px 8px; border: 1px solid var(--vp-c-divider);
+  border-radius: 5px; font-size: 13px; margin-top: 4px;
+  background: var(--vp-c-bg); color: var(--vp-c-text-1);
 }
 .dw-comment-form { margin-top: 12px; }
 .dw-comment-input-row {

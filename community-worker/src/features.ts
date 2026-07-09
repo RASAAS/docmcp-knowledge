@@ -1,6 +1,6 @@
 import type { Env, AuthUser, FeatureRequest } from "./types";
 import { FEATURE_CATEGORIES, FEATURE_STATUSES } from "./types";
-import { json, error, sanitize, sanitizeTitle } from "./utils";
+import { json, error, sanitize, sanitizeTitle, isAdmin, isOwner, withinEditWindow } from "./utils";
 import { verifyTurnstile, getIdentifier } from "./auth";
 
 /** GET /api/features?category=&sort=votes|newest&page=1 */
@@ -196,6 +196,103 @@ export async function toggleVote(
   ]);
 
   return json({ voted: true, message: "Vote added" }, 200, env);
+}
+
+/** PUT /api/features/:id (Owner within edit window, or Admin) */
+export async function editFeature(
+  id: number,
+  request: Request,
+  env: Env,
+  user: AuthUser | null
+): Promise<Response> {
+  if (!user) return error("Login required", 401, env);
+
+  const feature = await env.DB.prepare(
+    `SELECT author_user_id, created_at FROM feature_requests WHERE id = ?`
+  ).bind(id).first<{ author_user_id: string | null; created_at: string }>();
+  if (!feature) return error("Feature not found", 404, env);
+
+  if (!isAdmin(user)) {
+    if (!isOwner(user, feature.author_user_id)) {
+      return error("Not authorized", 403, env);
+    }
+    if (!withinEditWindow(feature.created_at)) {
+      return error("Edit window expired (30 minutes)", 403, env);
+    }
+  }
+
+  const body = (await request.json()) as {
+    title?: string;
+    description?: string;
+    category?: string;
+  };
+
+  const updates: string[] = [];
+  const params: unknown[] = [];
+
+  if (body.title?.trim()) {
+    updates.push("title = ?");
+    params.push(sanitizeTitle(body.title));
+  }
+  if (body.description?.trim()) {
+    updates.push("description = ?");
+    params.push(sanitize(body.description));
+  }
+  if (body.category && FEATURE_CATEGORIES.includes(body.category as typeof FEATURE_CATEGORIES[number])) {
+    updates.push("category = ?");
+    params.push(body.category);
+  }
+  if (updates.length === 0) return error("No changes", 400, env);
+
+  updates.push("updated_at = datetime('now')");
+  params.push(id);
+
+  await env.DB.prepare(
+    `UPDATE feature_requests SET ${updates.join(", ")} WHERE id = ?`
+  ).bind(...params).run();
+
+  return json({ message: "Feature updated" }, 200, env);
+}
+
+/** DELETE /api/features/:id (Owner or Admin) */
+export async function deleteFeature(
+  id: number,
+  env: Env,
+  user: AuthUser | null
+): Promise<Response> {
+  if (!user) return error("Login required", 401, env);
+
+  const feature = await env.DB.prepare(
+    `SELECT author_user_id FROM feature_requests WHERE id = ?`
+  ).bind(id).first<{ author_user_id: string | null }>();
+  if (!feature) return error("Feature not found", 404, env);
+
+  if (!isAdmin(user) && !isOwner(user, feature.author_user_id)) {
+    return error("Not authorized", 403, env);
+  }
+
+  await env.DB.batch([
+    env.DB.prepare(`DELETE FROM comments WHERE target_type = 'feature' AND target_id = ?`).bind(id),
+    env.DB.prepare(`DELETE FROM votes WHERE feature_id = ?`).bind(id),
+    env.DB.prepare(`DELETE FROM feature_requests WHERE id = ?`).bind(id),
+  ]);
+
+  return json({ message: "Feature deleted" }, 200, env);
+}
+
+/** PUT /api/features/:id/hide (Admin only) */
+export async function hideFeature(
+  id: number,
+  env: Env,
+  user: AuthUser | null
+): Promise<Response> {
+  if (!isAdmin(user)) return error("Admin access required", 403, env);
+
+  await env.DB.prepare(
+    `UPDATE feature_requests SET status = 'declined', updated_at = datetime('now') WHERE id = ?`
+  ).bind(id).run();
+
+  return json({ message: "Feature hidden" }, 200, env);
 }
 
 /** PUT /api/features/:id/status (Admin only) */

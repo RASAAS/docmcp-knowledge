@@ -1,5 +1,5 @@
 import type { Env, AuthUser, Comment } from "./types";
-import { json, error, sanitize } from "./utils";
+import { json, error, sanitize, isAdmin, isOwner, withinEditWindow } from "./utils";
 import { verifyTurnstile } from "./auth";
 
 /** GET /api/comments?target_type=feature|discussion&target_id=1&page=1 */
@@ -104,6 +104,63 @@ export async function createComment(
     201,
     env
   );
+}
+
+/** PUT /api/comments/:id (Owner within edit window, or Admin) */
+export async function editComment(
+  id: number,
+  request: Request,
+  env: Env,
+  user: AuthUser | null
+): Promise<Response> {
+  if (!user) return error("Login required", 401, env);
+
+  const comment = await env.DB.prepare(
+    `SELECT author_user_id, created_at FROM comments WHERE id = ?`
+  ).bind(id).first<{ author_user_id: string | null; created_at: string }>();
+  if (!comment) return error("Comment not found", 404, env);
+
+  if (!isAdmin(user)) {
+    if (!isOwner(user, comment.author_user_id)) return error("Not authorized", 403, env);
+    if (!withinEditWindow(comment.created_at)) return error("Edit window expired (30 minutes)", 403, env);
+  }
+
+  const body = (await request.json()) as { body?: string };
+  if (!body.body?.trim()) return error("Comment body is required", 400, env);
+
+  await env.DB.prepare(
+    `UPDATE comments SET body = ? WHERE id = ?`
+  ).bind(sanitize(body.body, 2000), id).run();
+
+  return json({ message: "Comment updated" }, 200, env);
+}
+
+/** DELETE /api/comments/:id (Owner or Admin) */
+export async function deleteComment(
+  id: number,
+  env: Env,
+  user: AuthUser | null
+): Promise<Response> {
+  if (!user) return error("Login required", 401, env);
+
+  const comment = await env.DB.prepare(
+    `SELECT author_user_id, target_type, target_id FROM comments WHERE id = ?`
+  ).bind(id).first<{ author_user_id: string | null; target_type: string; target_id: number }>();
+  if (!comment) return error("Comment not found", 404, env);
+
+  if (!isAdmin(user) && !isOwner(user, comment.author_user_id)) {
+    return error("Not authorized", 403, env);
+  }
+
+  const counterTable = comment.target_type === "feature" ? "feature_requests" : "discussions";
+  await env.DB.batch([
+    env.DB.prepare(`DELETE FROM comments WHERE id = ?`).bind(id),
+    env.DB.prepare(
+      `UPDATE ${counterTable} SET comment_count = MAX(0, comment_count - 1), updated_at = datetime('now') WHERE id = ?`
+    ).bind(comment.target_id),
+  ]);
+
+  return json({ message: "Comment deleted" }, 200, env);
 }
 
 /** PUT /api/comments/:id/hide (Admin only) */

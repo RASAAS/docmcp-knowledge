@@ -5,6 +5,9 @@ import {
   listFeatures,
   getFeature,
   createFeature,
+  editFeature,
+  deleteFeature,
+  hideFeature,
   toggleVote,
   updateFeatureStatus,
 } from "./features";
@@ -12,10 +15,13 @@ import {
   listDiscussions,
   getDiscussion,
   createDiscussion,
+  editDiscussion,
+  deleteDiscussion,
   toggleLike,
   hideDiscussion,
 } from "./discussions";
-import { listComments, createComment, hideComment } from "./comments";
+import { listComments, createComment, editComment, deleteComment, hideComment } from "./comments";
+import { isAdmin as checkAdmin } from "./utils";
 
 export default {
   async fetch(request: Request, env: Env): Promise<Response> {
@@ -66,6 +72,13 @@ async function route(
     if (method === "GET" && id === null) return listFeatures(request, env, user);
     if (method === "GET" && id !== null) return getFeature(id, env, user);
     if (method === "POST" && id === null) return createFeature(request, env, user);
+    if (method === "PUT" && id !== null) return editFeature(id, request, env, user);
+    if (method === "DELETE" && id !== null) return deleteFeature(id, env, user);
+  }
+
+  const hideFeatureMatch = path.match(/^\/api\/features\/(\d+)\/hide$/);
+  if (hideFeatureMatch && method === "PUT") {
+    return hideFeature(parseInt(hideFeatureMatch[1], 10), env, user);
   }
 
   const voteMatch = path.match(/^\/api\/features\/(\d+)\/vote$/);
@@ -88,6 +101,8 @@ async function route(
     if (method === "GET" && id === null) return listDiscussions(request, env, user);
     if (method === "GET" && id !== null) return getDiscussion(id, env, user);
     if (method === "POST" && id === null) return createDiscussion(request, env, user);
+    if (method === "PUT" && id !== null) return editDiscussion(id, request, env, user);
+    if (method === "DELETE" && id !== null) return deleteDiscussion(id, env, user);
   }
 
   const likeMatch = path.match(/^\/api\/discussions\/(\d+)\/like$/);
@@ -106,6 +121,13 @@ async function route(
     if (method === "POST") return createComment(request, env, user);
   }
 
+  const commentMatch = path.match(/^\/api\/comments\/(\d+)$/);
+  if (commentMatch) {
+    const id = parseInt(commentMatch[1], 10);
+    if (method === "PUT") return editComment(id, request, env, user);
+    if (method === "DELETE") return deleteComment(id, env, user);
+  }
+
   const hideCommentMatch = path.match(/^\/api\/comments\/(\d+)\/hide$/);
   if (hideCommentMatch && method === "PUT") {
     return hideComment(parseInt(hideCommentMatch[1], 10), env, user);
@@ -119,6 +141,36 @@ async function route(
       user_id: user.user_id,
       display_name: user.display_name,
       role: user.role,
+    }, 200, env);
+  }
+
+  // --- Admin: recent content ---
+  if (path === "/api/admin/recent" && method === "GET") {
+    if (!checkAdmin(user)) return error("Admin access required", 403, env);
+
+    const limit = 50;
+    const [features, discussions, comments] = await Promise.all([
+      env.DB.prepare(
+        `SELECT id, title, description, category, status, author_name, author_user_id,
+                is_verified, vote_count, comment_count, created_at, updated_at
+         FROM feature_requests ORDER BY created_at DESC LIMIT ?`
+      ).bind(limit).all(),
+      env.DB.prepare(
+        `SELECT id, title, body, category, author_name, author_user_id,
+                is_verified, like_count, comment_count, is_hidden, created_at, updated_at
+         FROM discussions ORDER BY created_at DESC LIMIT ?`
+      ).bind(limit).all(),
+      env.DB.prepare(
+        `SELECT id, target_type, target_id, body, author_name, author_user_id,
+                is_verified, is_hidden, created_at
+         FROM comments ORDER BY created_at DESC LIMIT ?`
+      ).bind(limit).all(),
+    ]);
+
+    return json({
+      features: features.results,
+      discussions: discussions.results,
+      comments: comments.results,
     }, 200, env);
   }
 

@@ -4,13 +4,18 @@ import { useData } from "vitepress";
 import {
   listFeatures,
   createFeature,
+  editFeature,
+  deleteFeature,
   toggleVote,
   isLoggedIn,
+  getUserId,
+  getUserRole,
   type Feature,
 } from "./HubApi";
 
 const { lang } = useData();
 const isZh = computed(() => lang.value === "zh" || lang.value === "zh-CN");
+const EDIT_WINDOW_MS = 30 * 60 * 1000;
 
 const features = ref<Feature[]>([]);
 const total = ref(0);
@@ -50,6 +55,67 @@ const statusLabels: Record<string, { text: string; textZh: string; color: string
 };
 
 const loggedIn = computed(() => isLoggedIn());
+const currentUserId = computed(() => getUserId());
+const isAdmin = computed(() => ["admin", "super_admin"].includes(getUserRole()));
+
+const editingId = ref<number | null>(null);
+const editTitle = ref("");
+const editDesc = ref("");
+const editCategory = ref("general");
+
+function canEdit(f: Feature): boolean {
+  if (isAdmin.value) return true;
+  if (!loggedIn.value || !currentUserId.value) return false;
+  if ((f as Record<string, unknown>).author_user_id !== currentUserId.value) return false;
+  const created = new Date(f.created_at + "Z").getTime();
+  return Date.now() - created < EDIT_WINDOW_MS;
+}
+
+function canDelete(f: Feature): boolean {
+  if (isAdmin.value) return true;
+  if (!loggedIn.value || !currentUserId.value) return false;
+  return (f as Record<string, unknown>).author_user_id === currentUserId.value;
+}
+
+function startEdit(f: Feature) {
+  editingId.value = f.id;
+  editTitle.value = f.title;
+  editDesc.value = f.description;
+  editCategory.value = f.category;
+}
+
+function cancelEdit() {
+  editingId.value = null;
+}
+
+async function saveEdit(f: Feature) {
+  if (!editTitle.value.trim() || !editDesc.value.trim()) return;
+  try {
+    await editFeature(f.id, {
+      title: editTitle.value.trim(),
+      description: editDesc.value.trim(),
+      category: editCategory.value,
+    });
+    f.title = editTitle.value.trim();
+    f.description = editDesc.value.trim();
+    f.category = editCategory.value;
+    editingId.value = null;
+  } catch (e) {
+    error.value = (e as Error).message;
+  }
+}
+
+async function doDelete(f: Feature) {
+  const msg = isZh.value ? "确定删除此建议？此操作不可撤销。" : "Delete this feature request? This cannot be undone.";
+  if (!confirm(msg)) return;
+  try {
+    await deleteFeature(f.id);
+    features.value = features.value.filter((x) => x.id !== f.id);
+    total.value = Math.max(0, total.value - 1);
+  } catch (e) {
+    error.value = (e as Error).message;
+  }
+}
 
 async function load() {
   loading.value = true;
@@ -219,30 +285,50 @@ onMounted(load);
           <span class="fb-vote-num">{{ f.vote_count }}</span>
         </div>
         <div class="fb-card-content">
-          <div class="fb-card-top">
-            <h3 class="fb-card-title">{{ f.title }}</h3>
-            <span
-              v-if="statusLabels[f.status]"
-              class="fb-status"
-              :style="{ '--status-color': statusLabels[f.status].color }"
-            >
-              {{ isZh ? statusLabels[f.status].textZh : statusLabels[f.status].text }}
-            </span>
-          </div>
-          <p class="fb-card-desc">{{ f.description }}</p>
-          <div class="fb-card-footer">
-            <span class="fb-tag">{{ f.category.replace(/_/g, " ") }}</span>
-            <span v-if="f.is_verified" class="fb-verified">
-              <svg width="12" height="12" viewBox="0 0 24 24" fill="var(--vp-c-brand-1)"><path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
-              Verified
-            </span>
-            <span class="fb-meta">{{ f.author_name }}</span>
-            <span class="fb-meta fb-meta-dot">{{ timeAgo(f.created_at) }}</span>
-            <span class="fb-meta fb-meta-dot">
-              <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15a2 2 0 01-2 2H7l-4 4V5a2 2 0 012-2h14a2 2 0 012 2z"/></svg>
-              {{ f.comment_count }}
-            </span>
-          </div>
+          <!-- Edit mode -->
+          <template v-if="editingId === f.id">
+            <input v-model="editTitle" class="fb-edit-input" :placeholder="isZh ? '标题' : 'Title'" />
+            <textarea v-model="editDesc" class="fb-edit-textarea" rows="3" :placeholder="isZh ? '描述' : 'Description'"></textarea>
+            <div class="fb-edit-actions">
+              <button class="fb-btn-sm fb-btn-save" @click="saveEdit(f)">{{ isZh ? '保存' : 'Save' }}</button>
+              <button class="fb-btn-sm fb-btn-cancel" @click="cancelEdit()">{{ isZh ? '取消' : 'Cancel' }}</button>
+            </div>
+          </template>
+          <!-- View mode -->
+          <template v-else>
+            <div class="fb-card-top">
+              <h3 class="fb-card-title">{{ f.title }}</h3>
+              <span
+                v-if="statusLabels[f.status]"
+                class="fb-status"
+                :style="{ '--status-color': statusLabels[f.status].color }"
+              >
+                {{ isZh ? statusLabels[f.status].textZh : statusLabels[f.status].text }}
+              </span>
+            </div>
+            <p class="fb-card-desc">{{ f.description }}</p>
+            <div class="fb-card-footer">
+              <span class="fb-tag">{{ f.category.replace(/_/g, " ") }}</span>
+              <span v-if="f.is_verified" class="fb-verified">
+                <svg width="12" height="12" viewBox="0 0 24 24" fill="var(--vp-c-brand-1)"><path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+                Verified
+              </span>
+              <span class="fb-meta">{{ f.author_name }}</span>
+              <span class="fb-meta fb-meta-dot">{{ timeAgo(f.created_at) }}</span>
+              <span class="fb-meta fb-meta-dot">
+                <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15a2 2 0 01-2 2H7l-4 4V5a2 2 0 012-2h14a2 2 0 012 2z"/></svg>
+                {{ f.comment_count }}
+              </span>
+              <span v-if="canEdit(f) || canDelete(f)" class="fb-actions">
+                <button v-if="canEdit(f)" class="fb-btn-icon" :title="isZh ? '编辑' : 'Edit'" @click.stop="startEdit(f)">
+                  <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M11 4H4a2 2 0 00-2 2v14a2 2 0 002 2h14a2 2 0 002-2v-7"/><path d="M18.5 2.5a2.121 2.121 0 013 3L12 15l-4 1 1-4 9.5-9.5z"/></svg>
+                </button>
+                <button v-if="canDelete(f)" class="fb-btn-icon fb-btn-danger" :title="isZh ? '删除' : 'Delete'" @click.stop="doDelete(f)">
+                  <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="3 6 5 6 21 6"/><path d="M19 6v14a2 2 0 01-2 2H7a2 2 0 01-2-2V6m3 0V4a2 2 0 012-2h4a2 2 0 012 2v2"/></svg>
+                </button>
+              </span>
+            </div>
+          </template>
         </div>
       </div>
     </div>
@@ -523,6 +609,33 @@ onMounted(load);
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
+.fb-edit-input {
+  width: 100%; padding: 6px 10px; border: 1px solid var(--vp-c-divider);
+  border-radius: 6px; font-size: 14px; margin-bottom: 6px;
+  background: var(--vp-c-bg); color: var(--vp-c-text-1);
+}
+.fb-edit-textarea {
+  width: 100%; padding: 6px 10px; border: 1px solid var(--vp-c-divider);
+  border-radius: 6px; font-size: 13px; resize: vertical;
+  background: var(--vp-c-bg); color: var(--vp-c-text-1);
+}
+.fb-edit-actions { display: flex; gap: 6px; margin-top: 6px; }
+.fb-btn-sm {
+  padding: 4px 12px; border: none; border-radius: 5px; font-size: 12px;
+  cursor: pointer; font-weight: 500;
+}
+.fb-btn-save { background: var(--vp-c-brand-1); color: #fff; }
+.fb-btn-save:hover { opacity: 0.9; }
+.fb-btn-cancel { background: var(--vp-c-default-soft); color: var(--vp-c-text-2); }
+.fb-actions { display: inline-flex; gap: 2px; margin-left: auto; }
+.fb-btn-icon {
+  background: none; border: none; cursor: pointer; padding: 2px 4px;
+  color: var(--vp-c-text-3); border-radius: 4px; display: inline-flex;
+  align-items: center;
+}
+.fb-btn-icon:hover { background: var(--vp-c-default-soft); color: var(--vp-c-text-1); }
+.fb-btn-danger:hover { color: #e53e3e; background: #fed7d7; }
+
 .fb-card-footer {
   display: flex;
   gap: 10px;

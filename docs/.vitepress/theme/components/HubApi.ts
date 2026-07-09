@@ -99,6 +99,20 @@ export function toggleVote(
   });
 }
 
+export function editFeature(
+  id: number,
+  data: { title?: string; description?: string; category?: string }
+): Promise<{ message: string }> {
+  return request(`/api/features/${id}`, {
+    method: "PUT",
+    body: JSON.stringify(data),
+  });
+}
+
+export function deleteFeature(id: number): Promise<{ message: string }> {
+  return request(`/api/features/${id}`, { method: "DELETE" });
+}
+
 // --- Discussions ---
 
 export interface Discussion {
@@ -147,6 +161,20 @@ export function toggleLike(
   });
 }
 
+export function editDiscussion(
+  id: number,
+  data: { title?: string; body?: string; category?: string }
+): Promise<{ message: string }> {
+  return request(`/api/discussions/${id}`, {
+    method: "PUT",
+    body: JSON.stringify(data),
+  });
+}
+
+export function deleteDiscussion(id: number): Promise<{ message: string }> {
+  return request(`/api/discussions/${id}`, { method: "DELETE" });
+}
+
 // --- Comments ---
 
 export interface Comment {
@@ -180,6 +208,54 @@ export function createComment(data: {
   });
 }
 
+export function editComment(
+  id: number,
+  data: { body: string }
+): Promise<{ message: string }> {
+  return request(`/api/comments/${id}`, {
+    method: "PUT",
+    body: JSON.stringify(data),
+  });
+}
+
+export function deleteComment(id: number): Promise<{ message: string }> {
+  return request(`/api/comments/${id}`, { method: "DELETE" });
+}
+
+// --- Admin ---
+
+export interface AdminRecentData {
+  features: (Feature & { author_user_id?: string })[];
+  discussions: (Discussion & { is_hidden?: number; author_user_id?: string })[];
+  comments: (Comment & { is_hidden?: number; target_type: string; target_id: number; author_user_id?: string })[];
+}
+
+export function getAdminRecent(): Promise<AdminRecentData> {
+  return request("/api/admin/recent");
+}
+
+export function hideFeature(id: number): Promise<{ message: string }> {
+  return request(`/api/features/${id}/hide`, { method: "PUT" });
+}
+
+export function hideDiscussion(id: number): Promise<{ message: string }> {
+  return request(`/api/discussions/${id}/hide`, { method: "PUT" });
+}
+
+export function hideComment(id: number): Promise<{ message: string }> {
+  return request(`/api/comments/${id}/hide`, { method: "PUT" });
+}
+
+export function updateFeatureStatus(
+  id: number,
+  status: string
+): Promise<{ message: string }> {
+  return request(`/api/features/${id}/status`, {
+    method: "PUT",
+    body: JSON.stringify({ status }),
+  });
+}
+
 // --- Stats ---
 
 export interface HubStats {
@@ -194,10 +270,18 @@ export function getStats(): Promise<HubStats> {
 
 // --- Auth helpers ---
 
-const DOCMCP_API_URL =
-  (typeof window !== "undefined" &&
-    (window as Record<string, unknown>).__DOCMCP_API_URL__) ||
-  "https://llm.team-ra.org";
+function _resolveDocmcpUrl(): string {
+  if (typeof window !== "undefined") {
+    const override = (window as Record<string, unknown>).__DOCMCP_API_URL__;
+    if (typeof override === "string" && override) return override;
+    if (window.location.pathname.startsWith("/zh")) {
+      return "https://llm.reguverse.com";
+    }
+  }
+  return "https://llm.team-ra.org";
+}
+
+const DOCMCP_API_URL = _resolveDocmcpUrl();
 
 export function isLoggedIn(): boolean {
   return !!getAuthToken();
@@ -208,10 +292,22 @@ export function getDisplayName(): string {
   return localStorage.getItem("reguverse_hub_name") || "";
 }
 
-export function saveSession(token: string, name: string): void {
+export function getUserId(): string {
+  if (typeof window === "undefined") return "";
+  return localStorage.getItem("reguverse_hub_uid") || "";
+}
+
+export function getUserRole(): string {
+  if (typeof window === "undefined") return "";
+  return localStorage.getItem("reguverse_hub_role") || "";
+}
+
+export function saveSession(token: string, name: string, userId?: string, role?: string): void {
   if (typeof window !== "undefined") {
     localStorage.setItem("reguverse_hub_token", token);
     localStorage.setItem("reguverse_hub_name", name);
+    if (userId) localStorage.setItem("reguverse_hub_uid", userId);
+    if (role) localStorage.setItem("reguverse_hub_role", role);
   }
 }
 
@@ -219,6 +315,8 @@ export function logout(): void {
   if (typeof window !== "undefined") {
     localStorage.removeItem("reguverse_hub_token");
     localStorage.removeItem("reguverse_hub_name");
+    localStorage.removeItem("reguverse_hub_uid");
+    localStorage.removeItem("reguverse_hub_role");
   }
 }
 
@@ -252,6 +350,8 @@ export async function verifyOtp(
 export async function verifyAuth(): Promise<{
   verified: boolean;
   display_name?: string;
+  user_id?: string;
+  role?: string;
 }> {
   const token = getAuthToken();
   if (!token) return { verified: false };

@@ -1,6 +1,6 @@
 import type { Env, AuthUser, Discussion } from "./types";
 import { DISCUSSION_CATEGORIES } from "./types";
-import { json, error, sanitize, sanitizeTitle } from "./utils";
+import { json, error, sanitize, sanitizeTitle, isAdmin, isOwner, withinEditWindow } from "./utils";
 import { verifyTurnstile, getIdentifier } from "./auth";
 
 /** GET /api/discussions?category=&sort=latest|likes&page=1 */
@@ -197,6 +197,69 @@ export async function toggleLike(
   ]);
 
   return json({ liked: true, message: "Like added" }, 200, env);
+}
+
+/** PUT /api/discussions/:id (Owner within edit window, or Admin) */
+export async function editDiscussion(
+  id: number,
+  request: Request,
+  env: Env,
+  user: AuthUser | null
+): Promise<Response> {
+  if (!user) return error("Login required", 401, env);
+
+  const disc = await env.DB.prepare(
+    `SELECT author_user_id, created_at FROM discussions WHERE id = ?`
+  ).bind(id).first<{ author_user_id: string | null; created_at: string }>();
+  if (!disc) return error("Discussion not found", 404, env);
+
+  if (!isAdmin(user)) {
+    if (!isOwner(user, disc.author_user_id)) return error("Not authorized", 403, env);
+    if (!withinEditWindow(disc.created_at)) return error("Edit window expired (30 minutes)", 403, env);
+  }
+
+  const body = (await request.json()) as { title?: string; body?: string; category?: string };
+  const updates: string[] = [];
+  const params: unknown[] = [];
+
+  if (body.title?.trim()) { updates.push("title = ?"); params.push(sanitizeTitle(body.title)); }
+  if (body.body?.trim()) { updates.push("body = ?"); params.push(sanitize(body.body)); }
+  if (body.category && DISCUSSION_CATEGORIES.includes(body.category as typeof DISCUSSION_CATEGORIES[number])) {
+    updates.push("category = ?"); params.push(body.category);
+  }
+  if (updates.length === 0) return error("No changes", 400, env);
+
+  updates.push("updated_at = datetime('now')");
+  params.push(id);
+
+  await env.DB.prepare(`UPDATE discussions SET ${updates.join(", ")} WHERE id = ?`).bind(...params).run();
+  return json({ message: "Discussion updated" }, 200, env);
+}
+
+/** DELETE /api/discussions/:id (Owner or Admin) */
+export async function deleteDiscussion(
+  id: number,
+  env: Env,
+  user: AuthUser | null
+): Promise<Response> {
+  if (!user) return error("Login required", 401, env);
+
+  const disc = await env.DB.prepare(
+    `SELECT author_user_id FROM discussions WHERE id = ?`
+  ).bind(id).first<{ author_user_id: string | null }>();
+  if (!disc) return error("Discussion not found", 404, env);
+
+  if (!isAdmin(user) && !isOwner(user, disc.author_user_id)) {
+    return error("Not authorized", 403, env);
+  }
+
+  await env.DB.batch([
+    env.DB.prepare(`DELETE FROM comments WHERE target_type = 'discussion' AND target_id = ?`).bind(id),
+    env.DB.prepare(`DELETE FROM likes WHERE discussion_id = ?`).bind(id),
+    env.DB.prepare(`DELETE FROM discussions WHERE id = ?`).bind(id),
+  ]);
+
+  return json({ message: "Discussion deleted" }, 200, env);
 }
 
 /** PUT /api/discussions/:id/hide (Admin only) */

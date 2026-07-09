@@ -3,12 +3,13 @@ import { ref, computed, onMounted } from "vue";
 import { useData } from "vitepress";
 import FeatureBoard from "./FeatureBoard.vue";
 import DiscussionWall from "./DiscussionWall.vue";
-import { isLoggedIn, getDisplayName, saveSession, logout, sendOtp, verifyOtp, verifyAuth } from "./HubApi";
+import AdminPanel from "./AdminPanel.vue";
+import { isLoggedIn, getDisplayName, getUserId, getUserRole, saveSession, logout, sendOtp, verifyOtp, verifyAuth } from "./HubApi";
 
 const { lang } = useData();
 const isZh = computed(() => lang.value === "zh" || lang.value === "zh-CN");
 
-const activeTab = ref<"features" | "discussions" | "roadmap">("features");
+const activeTab = ref<"features" | "discussions" | "roadmap" | "admin">("features");
 const loggedIn = ref(false);
 const showLoginDialog = ref(false);
 const loginStep = ref<"email" | "code">("email");
@@ -20,25 +21,36 @@ const otpSent = ref(false);
 const cooldown = ref(0);
 let cooldownTimer: ReturnType<typeof setInterval> | null = null;
 
-const tabs = computed(() => [
-  {
-    key: "features" as const,
-    label: isZh.value ? "功能建议" : "Feature Board",
-    icon: "M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z",
-  },
-  {
-    key: "discussions" as const,
-    label: isZh.value ? "讨论区" : "Discussions",
-    icon: "M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z",
-  },
-  {
-    key: "roadmap" as const,
-    label: isZh.value ? "路线图" : "Roadmap",
-    icon: "M9 20l-5.447-2.724A1 1 0 013 16.382V5.618a1 1 0 011.447-.894L9 7m0 13l6-3m-6 3V7m6 10l4.553 2.276A1 1 0 0021 18.382V7.618a1 1 0 00-.553-.894L15 4m0 13V4m0 0L9 7",
-  },
-]);
+const tabs = computed(() => {
+  const base = [
+    {
+      key: "features" as const,
+      label: isZh.value ? "功能建议" : "Feature Board",
+      icon: "M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z",
+    },
+    {
+      key: "discussions" as const,
+      label: isZh.value ? "讨论区" : "Discussions",
+      icon: "M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z",
+    },
+    {
+      key: "roadmap" as const,
+      label: isZh.value ? "路线图" : "Roadmap",
+      icon: "M9 20l-5.447-2.724A1 1 0 013 16.382V5.618a1 1 0 011.447-.894L9 7m0 13l6-3m-6 3V7m6 10l4.553 2.276A1 1 0 0021 18.382V7.618a1 1 0 00-.553-.894L15 4m0 13V4m0 0L9 7",
+    },
+  ];
+  if (isAdminUser.value) {
+    base.push({
+      key: "admin" as const,
+      label: isZh.value ? "内容管理" : "Admin",
+      icon: "M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.066 2.573c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.573 1.066c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.066-2.573c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z M15 12a3 3 0 11-6 0 3 3 0 016 0z",
+    });
+  }
+  return base;
+});
 
 const userName = ref("");
+const userRole = ref("");
 
 function startCooldown(seconds: number) {
   cooldown.value = seconds;
@@ -99,9 +111,15 @@ async function doVerifyOtp() {
       return;
     }
     if (result.verified && result.hub_token) {
-      saveSession(result.hub_token, result.display_name || "");
+      saveSession(
+        result.hub_token,
+        result.display_name || "",
+        (result as Record<string, unknown>).user_id as string | undefined,
+        (result as Record<string, unknown>).role as string | undefined,
+      );
       loggedIn.value = true;
       userName.value = result.display_name || "";
+      userRole.value = getUserRole();
       showLoginDialog.value = false;
       resetLoginForm();
     }
@@ -122,24 +140,30 @@ function resetLoginForm() {
   cooldown.value = 0;
 }
 
+const isAdminUser = computed(() => ["admin", "super_admin"].includes(userRole.value));
+
 function doLogout() {
   logout();
   loggedIn.value = false;
   userName.value = "";
+  userRole.value = "";
 }
 
 async function checkLogin() {
   loggedIn.value = isLoggedIn();
   if (loggedIn.value) {
     userName.value = getDisplayName();
+    userRole.value = getUserRole();
     try {
       const result = await verifyAuth();
       if (result.verified) {
         userName.value = result.display_name || userName.value;
+        userRole.value = (result as Record<string, unknown>).role as string || userRole.value;
       } else {
         logout();
         loggedIn.value = false;
         userName.value = "";
+        userRole.value = "";
       }
     } catch {
       // keep as logged in with cached name
@@ -299,7 +323,7 @@ onMounted(checkLogin);
       <div v-else-if="activeTab === 'discussions'" class="rv-hub-panel">
         <DiscussionWall />
       </div>
-      <div v-else class="rv-hub-panel rv-hub-roadmap">
+      <div v-else-if="activeTab === 'roadmap'" class="rv-hub-panel rv-hub-roadmap">
         <div class="rv-roadmap-placeholder">
           <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="var(--vp-c-text-3)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round">
             <path d="M9 20l-5.447-2.724A1 1 0 013 16.382V5.618a1 1 0 011.447-.894L9 7m0 13l6-3m-6 3V7m6 10l4.553 2.276A1 1 0 0021 18.382V7.618a1 1 0 00-.553-.894L15 4m0 13V4m0 0L9 7"/>
@@ -307,6 +331,11 @@ onMounted(checkLogin);
           <h3>{{ isZh ? "产品路线图" : "Product Roadmap" }}</h3>
           <p>{{ isZh ? "即将推出 -- 查看我们的开发计划和已完成的功能。" : "Coming soon -- view our development plans and completed features." }}</p>
         </div>
+      </div>
+
+      <!-- Admin Panel -->
+      <div v-else-if="activeTab === 'admin' && isAdminUser" class="rv-hub-panel rv-hub-admin">
+        <AdminPanel />
       </div>
     </main>
   </div>
