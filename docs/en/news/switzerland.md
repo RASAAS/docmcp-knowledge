@@ -36,6 +36,90 @@ title: Regulatory News
 
 ## Latest Updates
 
+### BLEPHADEMODEX Sterile Skin-Cleaning Wipe: Swissmedic FSCA by Laboratoires ThÃ©a
+
+**2026-07-10** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic has issued a Field Safety Corrective Action (FSCA) for BLEPHADEMODEX, a sterile skin-cleaning wipe manufactured by Laboratoires ThÃ©a. The reason for the corrective action has not been specified in the notice. Affected model and lot numbers are not detailed; however, users should immediately quarantine the product and follow the manufacturer's instructions for return or disposal. This action underscores the importance of sterility assurance in medical devices.
+
+**Tags**: `fsca`, `swissmedic`, `sterile_wipe`, `medical_device`, `recall`, `laboratoires_thea`, `blephademodex`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260625_030)
+
+---
+
+### Swissmedic FSCA: Getinge Disinfection AB Warming Cabinets Model 363 – General-Purpose Drying Cabinet
+
+**2026-07-09** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic has issued a Field Safety Corrective Action (FSCA) for Getinge Disinfection AB's general-purpose drying cabinet, marketed as warming cabinets, model 363. The specific reason for the corrective action is not detailed in the notice, but the manufacturer is taking necessary measures to address a potential safety or performance issue. Affected users should follow the manufacturer's instructions provided through the FSCA and contact Getinge Disinfection AB for further guidance.
+
+**Tags**: `swissmedic`, `fsca`, `warming_cabinet`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260703_028)
+
+---
+
+### Swissmedic FSCA: Comecer IRIS Infusion Pump – Added German Language Version (Model 0246010026)
+
+**2026-07-08** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has published a Field Safety Corrective Action for Comecer Netherlands B.V.'s IRIS infusion pump, model number 0246010026. The action was taken to provide a German language version of the device documentation, addressing the risk of use errors among German-speaking users. Affected units should be updated with the new German documents following the manufacturer's instructions.
+
+**Tags**: `swissmedic`, `fsca`, `infusion_pump`, `comecer`, `german_language`, `product_correction`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260702_022)
+
+---
+
+### Swissmedic Issues FSCA for Philips Allura Stationary Angiographic X-Ray Systems
+
+**2026-07-08** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic has published a Field Safety Corrective Action (FSCA) for Philips Allura stationary angiographic X-ray systems manufactured by Philips Medical Systems Nederland B.V. The affected models are 722026, 722027, 722028, 722029, 722035, 722038, 722039, and 722058. Although the specific reason for the corrective action was not detailed in the notice, users are required to contact Philips immediately for instructions to ensure safe operation.
+
+**Tags**: `swissmedic`, `fsca`, `philips_allura`, `angiographic_x_ray`, `medical_device_recall`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260701_028)
+
+---
+
+### Swissmedic FSCA: BAL Flush Syringe SS, 10 ml by Jiaxing Tianhe Pharmaceutical
+
+**2026-07-07** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic has issued a Field Safety Corrective Action for the BAL Flush Syringe SS, 10 ml (model BAL 464013) manufactured by Jiaxing Tianhe Pharmaceutical Co., Ltd. The specific reason for the corrective action has not been disclosed, but it concerns the pre-filled syringes. Healthcare facilities should identify affected products, quarantine them, and follow the manufacturer's instructions for return or disposal.
+
+**Tags**: `swissmedic`, `fsca`, `medical_device`, `prefilled_syringe`, `recall`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260707_022)
+
+---
+
+### Swissmedic FSCA: Boston Scientific Rapid Refill Continuous Injection System Cholangiography Tubing Set
+
+**2026-07-07** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic issued a Field Safety Corrective Action for the Boston Scientific Rapid Refill Continuous Injection System, specifically the Cholangiography tubing set (GTIN 08714729285151, UPN M00566001). The reason for the corrective action is detailed in the manufacturer's notification. Healthcare facilities should identify affected devices, quarantine them, and follow Boston Scientific’s instructions to mitigate any safety risks.
+
+**Tags**: `swissmedic`, `fsca`, `boston_scientific`, `cholangiography_tubing`, `medical_device`, `safety_corrective_action`, `switzerland`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260630_024)
+
+---
+
+### Swissmedic FSCA: Automated Impella Controller by Abiomed – Models 0042-0040, 0042-0010, 0042-0000 and variants
+
+**2026-07-06** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic has issued a field safety corrective action (FSCA) for the Automated Impella Controller (AIC) manufactured by Abiomed Inc. The affected devices are intracardiac circulatory assist axial-pump catheter control units with model numbers 0042-0040, 0042-0010, 0042-0000, and their EU/UK variants. While the specific reason is not detailed in the notice, users should consult the manufacturer’s instructions for the required corrective actions to ensure patient safety.
+
+**Tags**: `swissmedic`, `fsca`, `impella`, `heart_pump`, `abiomed`, `safety_alert`, `cardiac_assist`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260612_048)
+
+---
+
 ### FSCA: B. Braun Infusomat Space P Single-Channel Infusion Pump (Model 8713070)
 
 **2026-07-02** | Swissmedic | Safety Communication | !!! HIGH
@@ -144,6 +228,30 @@ Swissmedic has issued a Field Safety Corrective Action (FSCA) for Armstrong Medi
 
 ---
 
+### Swissmedic Expands °M Warmer FSCA: 7 More Lots Affected for MEQU A/S Blood/Fluid Warmer
+
+**2026-05-11** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has updated the Field Safety Corrective Action (FSCA) for MEQU A/S's °M Warmer, a conduction blood/fluid warmer, expanding the affected scope to include 7 additional lots. The correction applies to models MWS201 (Box of 5) and MWS201W (Single in Silver Pouch). Users should identify impacted devices and follow the manufacturer's instructions provided in the original FSCA notice.
+
+**Tags**: `swissmedic`, `fsca`, `blood_fluid_warmer`, `mequ`, `lot_expansion`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260504_047)
+
+---
+
+### Swissmedic FSCA: Staar Surgical AG IOD Software – New Information for Ophthalmology Instruments
+
+**2026-04-30** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has issued a Field Safety Corrective Action (FSCA) for IOD Software, a software accessory manufactured by Staar Surgical AG used with various ophthalmology instruments. The corrective action stems from new information about the software, though affected model or lot details are not specified. Users of the impacted software should follow recommended actions such as applying updates or contacting the manufacturer to maintain safe and effective operation.
+
+**Tags**: `swissmedic`, `fsca`, `ophthalmology`, `software`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260429_006)
+
+---
+
 ### Swissmedic FSCA: Sphere-9 Catheter – Updated Field Safety Notice (Medtronic/BIOTRONIK)
 
 **2026-03-30** | Swissmedic | Safety Communication | !! MEDIUM
@@ -153,5 +261,41 @@ Swissmedic issued a Field Safety Corrective Action for the Sphere-9 Catheter (Mo
 **Tags**: `fsca`, `cardiac_ablation_catheter`, `field_safety_notice`
 
 [View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260318_029)
+
+---
+
+### Follow-up Field Safety Notice for ORBIS Medication 3.x by DH Healthcare GmbH
+
+**2026-01-23** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic published a follow-up Field Safety Corrective Action (FSCA) for ORBIS Medication 3.x, a medical device software from DH Healthcare GmbH. This notice provides additional information supplementing previously issued Field Safety Notices (FSNs). Affected model numbers are not specified in the notice. Users should review the updated safety information and follow the manufacturer’s recommendations.
+
+**Tags**: `swissmedic`, `fsca`, `field_safety_notice`, `follow_up`, `medical_device_software`, `dh_healthcare`, `orbis_medication`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260114_15)
+
+---
+
+### Zimmer Tourniquet Systems: Field Safety Corrective Action for Serial Number Update (Models 60500010100, 60320010100)
+
+**2026-01-20** | Swissmedic | Safety Communication | !! MEDIUM
+
+Zimmer Surgical, Inc. has issued a Field Safety Corrective Action (FSCA) for the Zimmer Tourniquet Systems concerning models 60500010100 and 60320010100. The reason is to update serial numbers, which may involve correcting records or labeling to maintain traceability. Affected users should follow the manufacturer’s instructions to verify and update the serial numbers as required.
+
+**Tags**: `swissmedic`, `fsca`, `tourniquet_system`, `serial_number_update`, `zimmer_surgical`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260115_28)
+
+---
+
+### Zimmer Tourniquet Systems Serial Number Update – Swissmedic FSCA
+
+**2026-01-20** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic published a Field Safety Corrective Action for Zimmer Surgical's pneumatic tourniquet systems (models 60500010100, 60320010100). The corrective action is to update serial numbers, likely due to labeling or documentation discrepancies. Affected users should follow manufacturer instructions to verify and update the serial numbers; no product recall or return is required.
+
+**Tags**: `swissmedic`, `fsca`, `zimmer_surgical`, `tourniquet_system`, `serial_number_update`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260115_28)
 
 ---

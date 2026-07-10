@@ -40,6 +40,18 @@ title: Regulatory News
 
 ## Latest Updates
 
+### SFDA NCMDR Weekly Safety Update WU2628 Released for 5 July 2026
+
+**2026-07-05** | Saudi SFDA | Safety Communication | !! MEDIUM
+
+The Saudi Food and Drug Authority's National Center for Medical Devices Reporting (NCMDR) has published Weekly Update WU2628, dated 5 July 2026. This report compiles recent medical device safety alerts and field safety corrective actions from manufacturers. Affected stakeholders include healthcare providers, distributors, and patients using the listed devices. All relevant parties should review the full report and implement any recommended actions promptly to ensure patient safety.
+
+**Tags**: `saudi_sfda`, `ncmdr_weekly`, `safety_alert`, `medical_devices`
+
+[View Source (FDA)](https://www.sfda.gov.sa/sites/default/files/2026-07/%28WU2628%29%20NCMDR%20Weekly%20Update%2005%20July%202026.pdf)
+
+---
+
 ### SFDA Hosts Workshops on Medical Device Clinical Trials and Health Tech at GHE
 
 **2026-07-03** | Saudi SFDA | Regulation Update | !! MEDIUM

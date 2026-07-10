@@ -1,7 +1,33 @@
 {
   "framework": "saudi_sfda",
-  "last_updated": "2026-07-03T13:30:16Z",
+  "last_updated": "2026-07-10T20:16:38Z",
   "items": [
+    {
+      "id": "saudi_sfda_20260710_sfda_ncmdr_weekly_safety_update_wu2628_released_for_5_july_2",
+      "framework": "saudi_sfda",
+      "category": "safety_communication",
+      "title": {
+        "en": "SFDA NCMDR Weekly Safety Update WU2628 Released for 5 July 2026",
+        "zh": "沙特SFDA NCMDR发布第WU2628期每周安全更新（2026年7月5日）"
+      },
+      "summary": {
+        "en": "The Saudi Food and Drug Authority's National Center for Medical Devices Reporting (NCMDR) has published Weekly Update WU2628, dated 5 July 2026. This report compiles recent medical device safety alerts and field safety corrective actions from manufacturers. Affected stakeholders include healthcare providers, distributors, and patients using the listed devices. All relevant parties should review the full report and implement any recommended actions promptly to ensure patient safety.",
+        "zh": "沙特食品药品监督管理局国家医疗器械报告中心发布了2026年7月5日的第WU2628期每周安全更新。该报告汇总了近期医疗器械安全警示和制造商的现场安全纠正措施。相关方包括使用列表中设备的医疗机构、经销商和患者。所有相关方应立即查阅完整报告并执行推荐措施，确保患者安全。"
+      },
+      "source_url": "https://www.sfda.gov.sa/sites/default/files/2026-07/%28WU2628%29%20NCMDR%20Weekly%20Update%2005%20July%202026.pdf",
+      "source_name": "FDA",
+      "published_date": "2026-07-05",
+      "detected_date": "2026-07-10T20:16:38Z",
+      "importance": "medium",
+      "tags": [
+        "saudi_sfda",
+        "ncmdr_weekly",
+        "safety_alert",
+        "medical_devices"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
     {
       "id": "saudi_sfda_20260703_sfda_hosts_workshops_on_medical_device_clinical_trials_and_h",
       "framework": "saudi_sfda",
