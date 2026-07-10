@@ -17,7 +17,11 @@ export async function verifyToken(
   if (!env.HUB_TOKEN_SECRET) return null;
 
   try {
-    const raw = atob(token.replace(/-/g, "+").replace(/_/g, "/"));
+    // Decode base64url -> UTF-8 string (atob fails on non-ASCII like CJK)
+    const b64 = token.replace(/-/g, "+").replace(/_/g, "/");
+    const binStr = atob(b64);
+    const bytes = Uint8Array.from(binStr, (c) => c.charCodeAt(0));
+    const raw = new TextDecoder().decode(bytes);
     const parts = raw.split("|");
     if (parts.length !== 6) return null;
 
