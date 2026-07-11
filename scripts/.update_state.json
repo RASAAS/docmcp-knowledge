@@ -1131,7 +1131,7 @@
   },
   "newzealand_medsafe/safety_comms": {
     "url": "https://medsafe.govt.nz/safety/SafetyCommunications.asp",
-    "last_checked": "2026-07-04T20:05:27.672871",
+    "last_checked": "2026-07-11T19:59:30.834694",
     "seen_ids": [
       "[Alert] Stop using Euky Bear \r\n\t\t\t\tWarm Steam Vaporiser â model number EBSV2013",
       "[Alert] Product \r\n\t\t\t\tAlert of Dexcom US G7 Sensors: Lots 1725204004 and 1725069002"
@@ -1159,16 +1159,17 @@
   },
   "mexico_cofepris/safety_alerts": {
     "url": "https://www.gob.mx/cofepris/acciones-y-programas/alertas-sanitarias-336947",
-    "last_checked": "2026-07-04T20:05:19.436812",
+    "last_checked": "2026-07-11T19:59:25.628425",
     "seen_titles": [
-      "Imprime la página completa",
       "Riesgo de recolectar y consumir hongos silvestres",
-      "Contesta nuestra encuesta de satisfacción."
+      "Contesta nuestra encuesta de satisfacción.",
+      "Imprime la página completa",
+      "COFEPRIS acata declaratoria de inconstitucionalidad emitida por la SCJN en materia de autoconsumo lúdico de cannabis y tetrahidrocannabinol"
     ]
   },
   "argentina_anmat/safety_alerts": {
     "url": "https://www.argentina.gob.ar/anmat/alertas",
-    "last_checked": "2026-07-04T20:05:23.125280",
+    "last_checked": "2026-07-11T19:59:26.875446",
     "seen_titles": [
       "30 de junio de 2026ANMAT prohíbe un lote de un producto médico falsificado de la firma LINEDERM"
     ]
