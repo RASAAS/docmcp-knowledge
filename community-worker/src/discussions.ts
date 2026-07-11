@@ -2,6 +2,7 @@ import type { Env, AuthUser, Discussion } from "./types";
 import { DISCUSSION_CATEGORIES } from "./types";
 import { json, error, sanitize, sanitizeTitle, isAdmin, isOwner, withinEditWindow } from "./utils";
 import { verifyTurnstile, getIdentifier } from "./auth";
+import { notifyNewDiscussion } from "./dingtalk";
 
 /** GET /api/discussions?category=&sort=latest|likes&page=1 */
 export async function listDiscussions(
@@ -144,6 +145,13 @@ export async function createDiscussion(
     )
     .run();
 
+  const authorName = user ? (user.display_name || "User") : body.author_name!;
+  notifyNewDiscussion(env, {
+    title: body.title!.trim(),
+    category,
+    authorName,
+    isVerified: !!user,
+  });
   return json(
     { id: result.meta.last_row_id, message: "Discussion created" },
     201,

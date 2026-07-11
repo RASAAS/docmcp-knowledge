@@ -1,4 +1,5 @@
 import type { Env, AuthUser, Comment } from "./types";
+import { notifyNewComment } from "./dingtalk";
 import { json, error, sanitize, isAdmin, isOwner, withinEditWindow } from "./utils";
 import { verifyTurnstile } from "./auth";
 
@@ -99,6 +100,18 @@ export async function createComment(
   await env.DB.prepare(
     `UPDATE ${counterTable} SET comment_count = comment_count + 1, updated_at = datetime('now') WHERE id = ?`
   ).bind(body.target_id!).run();
+
+  const targetRow = await env.DB.prepare(
+    `SELECT title FROM ${counterTable} WHERE id = ?`
+  ).bind(body.target_id!).first<{ title: string }>();
+  const authorName = user ? (user.display_name || "User") : body.author_name!;
+  notifyNewComment(env, {
+    targetType: body.target_type!,
+    targetTitle: targetRow?.title || `#${body.target_id}`,
+    bodyPreview: body.body!.trim(),
+    authorName,
+    isVerified: !!user,
+  });
 
   return json(
     { id: result.meta.last_row_id, message: "Comment added" },

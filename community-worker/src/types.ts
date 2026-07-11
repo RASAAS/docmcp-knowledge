@@ -4,6 +4,8 @@ export interface Env {
   DOCMCP_API_URL: string;
   TURNSTILE_SECRET: string;
   HUB_TOKEN_SECRET: string;
+  DINGTALK_HUB_WEBHOOK: string;
+  DINGTALK_HUB_SECRET: string;
 }
 
 export interface AuthUser {

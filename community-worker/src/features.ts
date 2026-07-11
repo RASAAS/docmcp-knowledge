@@ -2,6 +2,7 @@ import type { Env, AuthUser, FeatureRequest } from "./types";
 import { FEATURE_CATEGORIES, FEATURE_STATUSES } from "./types";
 import { json, error, sanitize, sanitizeTitle, isAdmin, isOwner, withinEditWindow } from "./utils";
 import { verifyTurnstile, getIdentifier } from "./auth";
+import { notifyNewFeature } from "./dingtalk";
 
 /** GET /api/features?category=&sort=votes|newest&page=1 */
 export async function listFeatures(
@@ -145,6 +146,13 @@ export async function createFeature(
     .run();
 
   const newId = result.meta.last_row_id;
+  const authorName = user ? (user.display_name || "User") : body.author_name!;
+  notifyNewFeature(env, {
+    title: body.title!.trim(),
+    category,
+    authorName,
+    isVerified: !!user,
+  });
   return json({ id: newId, message: "Feature request created" }, 201, env);
 }
 
