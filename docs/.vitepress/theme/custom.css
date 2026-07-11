@@ -56,3 +56,20 @@
 .VPNavBar .content-body {
   background: var(--vp-c-bg) !important;
 }
+
+/* Hub embed mode: hide VitePress chrome when loaded inside an iframe with ?embed=true */
+html.hub-embed-mode .VPNav,
+html.hub-embed-mode .VPSidebar,
+html.hub-embed-mode .VPFooter,
+html.hub-embed-mode .VPLocalNav {
+  display: none !important;
+}
+html.hub-embed-mode .VPContent {
+  padding-top: 0 !important;
+}
+html.hub-embed-mode .VPContent .VPPage {
+  padding-top: 0 !important;
+}
+html.hub-embed-mode body {
+  overflow-x: hidden;
+}

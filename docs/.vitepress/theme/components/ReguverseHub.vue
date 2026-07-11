@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { ref, computed, onMounted } from "vue";
+import { ref, computed, onMounted, onUnmounted } from "vue";
 import { useData } from "vitepress";
 import FeatureBoard from "./FeatureBoard.vue";
 import DiscussionWall from "./DiscussionWall.vue";
@@ -8,6 +8,8 @@ import { isLoggedIn, getDisplayName, getUserId, getUserRole, saveSession, logout
 
 const { lang } = useData();
 const isZh = computed(() => lang.value === "zh" || lang.value === "zh-CN");
+
+const isEmbedMode = ref(false);
 
 const roadmapData = [
   {
@@ -282,12 +284,45 @@ async function checkLogin() {
   }
 }
 
-onMounted(checkLogin);
+function handlePostMessage(event: MessageEvent) {
+  if (!isEmbedMode.value) return;
+  const data = event.data;
+  if (data?.type === "reguverse-hub-sso" && data.hub_token) {
+    saveSession(
+      data.hub_token,
+      data.display_name || "",
+      data.user_id,
+      data.role,
+    );
+    loggedIn.value = true;
+    userName.value = data.display_name || "";
+    userRole.value = data.role || "";
+  }
+}
+
+onMounted(() => {
+  if (typeof window !== "undefined") {
+    const params = new URLSearchParams(window.location.search);
+    if (params.get("embed") === "true") {
+      isEmbedMode.value = true;
+      document.documentElement.classList.add("hub-embed-mode");
+    }
+    window.addEventListener("message", handlePostMessage);
+  }
+  checkLogin();
+});
+
+onUnmounted(() => {
+  if (typeof window !== "undefined") {
+    window.removeEventListener("message", handlePostMessage);
+    document.documentElement.classList.remove("hub-embed-mode");
+  }
+});
 </script>
 
 <template>
-  <div class="rv-hub">
-    <header class="rv-hub-header">
+  <div class="rv-hub" :class="{ 'rv-hub-embed': isEmbedMode }">
+    <header v-if="!isEmbedMode" class="rv-hub-header">
       <div class="rv-hub-header-inner">
         <div class="rv-hub-title-row">
           <div class="rv-hub-title-left">
@@ -325,6 +360,19 @@ onMounted(checkLogin);
         </div>
       </div>
     </header>
+
+    <!-- Compact embed header: auth status only -->
+    <div v-if="isEmbedMode" class="rv-hub-embed-bar">
+      <template v-if="loggedIn">
+        <span class="rv-embed-badge">
+          <svg width="12" height="12" viewBox="0 0 24 24" fill="currentColor"><path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+          {{ userName || (isZh ? "已验证" : "Verified") }}
+        </span>
+      </template>
+      <template v-else>
+        <span class="rv-embed-hint">{{ isZh ? "未登录 -- 以访客身份参与" : "Guest mode" }}</span>
+      </template>
+    </div>
 
     <!-- Login Dialog: Email + OTP -->
     <div v-if="showLoginDialog" class="rv-login-overlay" @click.self="showLoginDialog = false; resetLoginForm()">
@@ -814,6 +862,39 @@ onMounted(checkLogin);
 }
 .rv-login-back-btn:hover {
   color: var(--vp-c-text-1);
+}
+
+/* -- Embed mode -- */
+.rv-hub-embed {
+  min-height: auto;
+}
+.rv-hub-embed .rv-hub-tabs {
+  position: static;
+  top: 0;
+}
+.rv-hub-embed-bar {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 6px 16px;
+  background: var(--vp-c-bg-soft);
+  border-bottom: 1px solid var(--vp-c-divider);
+  min-height: 28px;
+}
+.rv-embed-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 2px 10px;
+  border-radius: 12px;
+  background: rgba(12, 206, 107, 0.12);
+  color: #0cce6b;
+  font-size: 12px;
+  font-weight: 500;
+}
+.rv-embed-hint {
+  font-size: 12px;
+  color: var(--vp-c-text-3);
 }
 
 @media (max-width: 768px) {
