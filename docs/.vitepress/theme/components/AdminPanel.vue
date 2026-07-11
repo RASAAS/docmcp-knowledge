@@ -10,6 +10,7 @@ import {
   deleteDiscussion,
   deleteComment,
   updateFeatureStatus,
+  batchDelete,
   type AdminRecentData,
 } from "./HubApi";
 
@@ -21,15 +22,84 @@ const error = ref("");
 const data = ref<AdminRecentData | null>(null);
 const activeSection = ref<"features" | "discussions" | "comments">("features");
 
+const selectedFeatures = ref<Set<number>>(new Set());
+const selectedDiscussions = ref<Set<number>>(new Set());
+const selectedComments = ref<Set<number>>(new Set());
+const batchDeleting = ref(false);
+
+const currentSelected = computed(() => {
+  if (activeSection.value === "features") return selectedFeatures.value;
+  if (activeSection.value === "discussions") return selectedDiscussions.value;
+  return selectedComments.value;
+});
+
+const allChecked = computed(() => {
+  if (!data.value) return false;
+  const items = activeSection.value === "features" ? data.value.features
+    : activeSection.value === "discussions" ? data.value.discussions
+    : data.value.comments;
+  return items.length > 0 && currentSelected.value.size === items.length;
+});
+
+function toggleItem(id: number) {
+  const s = currentSelected.value;
+  if (s.has(id)) s.delete(id);
+  else s.add(id);
+}
+
+function toggleAll() {
+  if (!data.value) return;
+  const items = activeSection.value === "features" ? data.value.features
+    : activeSection.value === "discussions" ? data.value.discussions
+    : data.value.comments;
+  const s = currentSelected.value;
+  if (s.size === items.length) {
+    s.clear();
+  } else {
+    for (const item of items) s.add(item.id);
+  }
+}
+
+function clearSelections() {
+  selectedFeatures.value.clear();
+  selectedDiscussions.value.clear();
+  selectedComments.value.clear();
+}
+
 async function load() {
   loading.value = true;
   error.value = "";
   try {
     data.value = await getAdminRecent();
+    clearSelections();
   } catch (e) {
     error.value = (e as Error).message;
   } finally {
     loading.value = false;
+  }
+}
+
+async function doBatchDelete() {
+  const count = currentSelected.value.size;
+  if (count === 0) return;
+  const msg = isZh.value
+    ? `确认批量删除 ${count} 条内容？此操作不可撤销。`
+    : `Delete ${count} selected items? This cannot be undone.`;
+  if (!confirm(msg)) return;
+
+  batchDeleting.value = true;
+  error.value = "";
+  try {
+    const payload: { features?: number[]; discussions?: number[]; comments?: number[] } = {};
+    if (activeSection.value === "features") payload.features = [...selectedFeatures.value];
+    else if (activeSection.value === "discussions") payload.discussions = [...selectedDiscussions.value];
+    else payload.comments = [...selectedComments.value];
+    await batchDelete(payload);
+    await load();
+  } catch (e) {
+    error.value = (e as Error).message;
+  } finally {
+    batchDeleting.value = false;
   }
 }
 
@@ -99,9 +169,31 @@ onMounted(load);
         </button>
       </div>
 
+      <!-- Batch toolbar -->
+      <div v-if="currentSelected.size > 0" class="adm-batch-bar">
+        <span class="adm-batch-count">
+          {{ isZh ? `已选 ${currentSelected.size} 项` : `${currentSelected.size} selected` }}
+        </span>
+        <button class="adm-btn adm-btn-danger" @click="doBatchDelete" :disabled="batchDeleting">
+          {{ batchDeleting
+            ? (isZh ? "删除中..." : "Deleting...")
+            : (isZh ? `批量删除 (${currentSelected.size})` : `Delete Selected (${currentSelected.size})`) }}
+        </button>
+        <button class="adm-btn adm-btn-clear" @click="currentSelected.clear()">
+          {{ isZh ? "取消选择" : "Clear" }}
+        </button>
+      </div>
+
       <!-- Features -->
       <div v-if="activeSection === 'features'" class="adm-list">
-        <div v-for="f in data.features" :key="f.id" class="adm-item">
+        <div class="adm-list-header">
+          <label class="adm-checkbox-label">
+            <input type="checkbox" :checked="allChecked" @change="toggleAll" class="adm-checkbox" />
+            <span>{{ isZh ? "全选" : "All" }}</span>
+          </label>
+        </div>
+        <div v-for="f in data.features" :key="f.id" class="adm-item" :class="{ selected: selectedFeatures.has(f.id) }">
+          <input type="checkbox" :checked="selectedFeatures.has(f.id)" @change="toggleItem(f.id)" class="adm-checkbox" />
           <div class="adm-item-main">
             <span class="adm-item-title">{{ f.title }}</span>
             <span class="adm-item-meta">{{ f.author_name }} | {{ timeAgo(f.created_at) }} | {{ f.status }}</span>
@@ -123,7 +215,14 @@ onMounted(load);
 
       <!-- Discussions -->
       <div v-if="activeSection === 'discussions'" class="adm-list">
-        <div v-for="d in data.discussions" :key="d.id" class="adm-item" :class="{ hidden: d.is_hidden }">
+        <div class="adm-list-header">
+          <label class="adm-checkbox-label">
+            <input type="checkbox" :checked="allChecked" @change="toggleAll" class="adm-checkbox" />
+            <span>{{ isZh ? "全选" : "All" }}</span>
+          </label>
+        </div>
+        <div v-for="d in data.discussions" :key="d.id" class="adm-item" :class="{ hidden: d.is_hidden, selected: selectedDiscussions.has(d.id) }">
+          <input type="checkbox" :checked="selectedDiscussions.has(d.id)" @change="toggleItem(d.id)" class="adm-checkbox" />
           <div class="adm-item-main">
             <span class="adm-item-title">{{ d.title }}</span>
             <span class="adm-item-meta">
@@ -140,7 +239,14 @@ onMounted(load);
 
       <!-- Comments -->
       <div v-if="activeSection === 'comments'" class="adm-list">
-        <div v-for="c in data.comments" :key="c.id" class="adm-item" :class="{ hidden: c.is_hidden }">
+        <div class="adm-list-header">
+          <label class="adm-checkbox-label">
+            <input type="checkbox" :checked="allChecked" @change="toggleAll" class="adm-checkbox" />
+            <span>{{ isZh ? "全选" : "All" }}</span>
+          </label>
+        </div>
+        <div v-for="c in data.comments" :key="c.id" class="adm-item" :class="{ hidden: c.is_hidden, selected: selectedComments.has(c.id) }">
+          <input type="checkbox" :checked="selectedComments.has(c.id)" @change="toggleItem(c.id)" class="adm-checkbox" />
           <div class="adm-item-main">
             <span class="adm-item-title">{{ c.body?.slice(0, 80) }}{{ (c.body?.length ?? 0) > 80 ? "..." : "" }}</span>
             <span class="adm-item-meta">
@@ -178,18 +284,36 @@ onMounted(load);
 .adm-tab.active { color: var(--vp-c-brand-1); border-bottom-color: var(--vp-c-brand-1); font-weight: 500; }
 .adm-tab:hover { color: var(--vp-c-text-1); }
 
+.adm-batch-bar {
+  display: flex; align-items: center; gap: 10px;
+  padding: 8px 12px; margin-bottom: 8px;
+  background: var(--vp-c-default-soft); border-radius: 6px;
+  border: 1px solid var(--vp-c-brand-soft);
+}
+.adm-batch-count { font-size: 13px; font-weight: 500; color: var(--vp-c-brand-1); }
+
 .adm-list { display: flex; flex-direction: column; gap: 6px; }
+.adm-list-header {
+  display: flex; align-items: center; padding: 4px 12px;
+  font-size: 12px; color: var(--vp-c-text-3);
+}
+.adm-checkbox-label { display: flex; align-items: center; gap: 6px; cursor: pointer; user-select: none; font-size: 12px; color: var(--vp-c-text-3); }
+.adm-checkbox {
+  width: 15px; height: 15px; cursor: pointer; flex-shrink: 0;
+  accent-color: var(--vp-c-brand-1);
+}
 .adm-item {
   display: flex; align-items: center; justify-content: space-between;
   padding: 8px 12px; border: 1px solid var(--vp-c-divider); border-radius: 6px;
-  background: var(--vp-c-bg-soft);
+  background: var(--vp-c-bg-soft); gap: 8px;
 }
 .adm-item.hidden { opacity: 0.5; }
+.adm-item.selected { border-color: var(--vp-c-brand-soft); background: var(--vp-c-brand-dimm); }
 .adm-item-main { flex: 1; min-width: 0; }
 .adm-item-title { display: block; font-size: 13px; color: var(--vp-c-text-1); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .adm-item-meta { display: block; font-size: 11px; color: var(--vp-c-text-3); margin-top: 2px; }
 .adm-badge-hidden { background: #fed7d7; color: #e53e3e; padding: 1px 6px; border-radius: 4px; font-size: 10px; margin-left: 4px; }
-.adm-item-actions { display: flex; gap: 4px; margin-left: 12px; flex-shrink: 0; }
+.adm-item-actions { display: flex; gap: 4px; margin-left: 4px; flex-shrink: 0; }
 .adm-select {
   padding: 3px 6px; border: 1px solid var(--vp-c-divider); border-radius: 4px;
   font-size: 11px; background: var(--vp-c-bg); color: var(--vp-c-text-2);
@@ -202,4 +326,7 @@ onMounted(load);
 .adm-btn-warn:hover { background: #fef08a; }
 .adm-btn-danger { background: #fed7d7; color: #e53e3e; }
 .adm-btn-danger:hover { background: #fc8181; color: #fff; }
+.adm-btn-clear { background: var(--vp-c-bg); color: var(--vp-c-text-2); border: 1px solid var(--vp-c-divider); }
+.adm-btn-clear:hover { background: var(--vp-c-default-soft); }
+.adm-btn:disabled { opacity: 0.5; cursor: not-allowed; }
 </style>

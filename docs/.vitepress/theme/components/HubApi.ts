@@ -234,6 +234,17 @@ export function getAdminRecent(): Promise<AdminRecentData> {
   return request("/api/admin/recent");
 }
 
+export function batchDelete(payload: {
+  features?: number[];
+  discussions?: number[];
+  comments?: number[];
+}): Promise<{ deleted: boolean }> {
+  return request("/api/admin/batch-delete", {
+    method: "POST",
+    body: JSON.stringify(payload),
+  });
+}
+
 export function hideFeature(id: number): Promise<{ message: string }> {
   return request(`/api/features/${id}/hide`, { method: "PUT" });
 }

@@ -145,6 +145,50 @@ async function route(
     }, 200, env);
   }
 
+  // --- Admin: batch delete ---
+  if (path === "/api/admin/batch-delete" && method === "POST") {
+    if (!checkAdmin(user)) return error("Admin access required", 403, env);
+    const body = (await request.json()) as {
+      features?: number[];
+      discussions?: number[];
+      comments?: number[];
+    };
+    const ops: Promise<unknown>[] = [];
+    if (body.features?.length) {
+      const ids = body.features.filter((n) => Number.isInteger(n));
+      if (ids.length) {
+        const ph = ids.map(() => "?").join(",");
+        ops.push(
+          env.DB.prepare(`DELETE FROM votes WHERE feature_id IN (${ph})`).bind(...ids).run(),
+          env.DB.prepare(`DELETE FROM comments WHERE target_type='feature' AND target_id IN (${ph})`).bind(...ids).run(),
+          env.DB.prepare(`DELETE FROM feature_requests WHERE id IN (${ph})`).bind(...ids).run(),
+        );
+      }
+    }
+    if (body.discussions?.length) {
+      const ids = body.discussions.filter((n) => Number.isInteger(n));
+      if (ids.length) {
+        const ph = ids.map(() => "?").join(",");
+        ops.push(
+          env.DB.prepare(`DELETE FROM likes WHERE discussion_id IN (${ph})`).bind(...ids).run(),
+          env.DB.prepare(`DELETE FROM comments WHERE target_type='discussion' AND target_id IN (${ph})`).bind(...ids).run(),
+          env.DB.prepare(`DELETE FROM discussions WHERE id IN (${ph})`).bind(...ids).run(),
+        );
+      }
+    }
+    if (body.comments?.length) {
+      const ids = body.comments.filter((n) => Number.isInteger(n));
+      if (ids.length) {
+        const ph = ids.map(() => "?").join(",");
+        ops.push(
+          env.DB.prepare(`DELETE FROM comments WHERE id IN (${ph})`).bind(...ids).run(),
+        );
+      }
+    }
+    await Promise.all(ops);
+    return json({ deleted: true }, 200, env);
+  }
+
   // --- Admin: recent content ---
   if (path === "/api/admin/recent" && method === "GET") {
     if (!checkAdmin(user)) return error("Admin access required", 403, env);
