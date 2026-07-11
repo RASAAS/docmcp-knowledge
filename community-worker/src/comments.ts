@@ -47,7 +47,8 @@ export async function listComments(
 export async function createComment(
   request: Request,
   env: Env,
-  user: AuthUser | null
+  user: AuthUser | null,
+  ctx?: ExecutionContext
 ): Promise<Response> {
   const body = (await request.json()) as {
     target_type?: string;
@@ -105,13 +106,14 @@ export async function createComment(
     `SELECT title FROM ${counterTable} WHERE id = ?`
   ).bind(body.target_id!).first<{ title: string }>();
   const authorName = user ? (user.display_name || "User") : body.author_name!;
-  notifyNewComment(env, {
+  const notifyPromise = notifyNewComment(env, {
     targetType: body.target_type!,
     targetTitle: targetRow?.title || `#${body.target_id}`,
     bodyPreview: body.body!.trim(),
     authorName,
     isVerified: !!user,
   });
+  if (ctx) ctx.waitUntil(notifyPromise);
 
   return json(
     { id: result.meta.last_row_id, message: "Comment added" },

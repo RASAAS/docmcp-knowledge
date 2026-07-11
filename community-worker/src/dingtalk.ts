@@ -63,7 +63,7 @@ const CATEGORY_LABELS: Record<string, string> = {
 export function notifyNewFeature(
   env: Env,
   p: { title: string; category: string; authorName: string; isVerified: boolean }
-): void {
+): Promise<void> {
   const badge = p.isVerified ? " [已认证用户]" : " [游客]";
   const cat = CATEGORY_LABELS[p.category] || p.category;
   const text =
@@ -71,13 +71,13 @@ export function notifyNewFeature(
     `- **标题**: ${p.title}\n` +
     `- **分类**: ${cat}\n` +
     `- **提交者**: ${p.authorName}${badge}\n`;
-  sendMarkdown(env, "Hub: 新功能建议", text);
+  return sendMarkdown(env, "Hub: 新功能建议", text);
 }
 
 export function notifyNewDiscussion(
   env: Env,
   p: { title: string; category: string; authorName: string; isVerified: boolean }
-): void {
+): Promise<void> {
   const badge = p.isVerified ? " [已认证用户]" : " [游客]";
   const cat = CATEGORY_LABELS[p.category] || p.category;
   const text =
@@ -85,7 +85,7 @@ export function notifyNewDiscussion(
     `- **标题**: ${p.title}\n` +
     `- **频道**: ${cat}\n` +
     `- **发起者**: ${p.authorName}${badge}\n`;
-  sendMarkdown(env, "Hub: 新讨论", text);
+  return sendMarkdown(env, "Hub: 新讨论", text);
 }
 
 export function notifyNewComment(
@@ -97,7 +97,7 @@ export function notifyNewComment(
     authorName: string;
     isVerified: boolean;
   }
-): void {
+): Promise<void> {
   const badge = p.isVerified ? " [已认证用户]" : " [游客]";
   const typeLabel = p.targetType === "feature" ? "功能建议" : "讨论";
   const preview = p.bodyPreview.length > 80 ? p.bodyPreview.slice(0, 80) + "..." : p.bodyPreview;
@@ -106,5 +106,5 @@ export function notifyNewComment(
     `- **目标**: ${typeLabel}「${p.targetTitle}」\n` +
     `- **内容**: ${preview}\n` +
     `- **回复者**: ${p.authorName}${badge}\n`;
-  sendMarkdown(env, "Hub: 新回复", text);
+  return sendMarkdown(env, "Hub: 新回复", text);
 }

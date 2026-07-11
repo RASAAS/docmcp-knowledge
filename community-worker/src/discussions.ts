@@ -97,7 +97,8 @@ export async function getDiscussion(
 export async function createDiscussion(
   request: Request,
   env: Env,
-  user: AuthUser | null
+  user: AuthUser | null,
+  ctx?: ExecutionContext
 ): Promise<Response> {
   const body = (await request.json()) as {
     title?: string;
@@ -146,12 +147,13 @@ export async function createDiscussion(
     .run();
 
   const authorName = user ? (user.display_name || "User") : body.author_name!;
-  notifyNewDiscussion(env, {
+  const notifyPromise = notifyNewDiscussion(env, {
     title: body.title!.trim(),
     category,
     authorName,
     isVerified: !!user,
   });
+  if (ctx) ctx.waitUntil(notifyPromise);
   return json(
     { id: result.meta.last_row_id, message: "Discussion created" },
     201,

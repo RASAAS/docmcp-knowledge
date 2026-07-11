@@ -24,7 +24,7 @@ import { listComments, createComment, editComment, deleteComment, hideComment } 
 import { isAdmin as checkAdmin } from "./utils";
 
 export default {
-  async fetch(request: Request, env: Env): Promise<Response> {
+  async fetch(request: Request, env: Env, ctx: ExecutionContext): Promise<Response> {
     if (request.method === "OPTIONS") {
       return new Response(null, { status: 204, headers: corsHeaders(env) });
     }
@@ -37,7 +37,7 @@ export default {
     const user = await verifyToken(authHeader, env);
 
     try {
-      const response = await route(path, method, request, env, user);
+      const response = await route(path, method, request, env, user, ctx);
       const headers = new Headers(response.headers);
       for (const [k, v] of Object.entries(corsHeaders(env))) {
         headers.set(k, v);
@@ -62,7 +62,8 @@ async function route(
   method: string,
   request: Request,
   env: Env,
-  user: ReturnType<typeof verifyToken> extends Promise<infer T> ? T : never
+  user: ReturnType<typeof verifyToken> extends Promise<infer T> ? T : never,
+  ctx: ExecutionContext
 ): Promise<Response> {
   // --- Features ---
   const featuresMatch = path.match(/^\/api\/features(?:\/(\d+))?$/);
@@ -71,7 +72,7 @@ async function route(
 
     if (method === "GET" && id === null) return listFeatures(request, env, user);
     if (method === "GET" && id !== null) return getFeature(id, env, user);
-    if (method === "POST" && id === null) return createFeature(request, env, user);
+    if (method === "POST" && id === null) return createFeature(request, env, user, ctx);
     if (method === "PUT" && id !== null) return editFeature(id, request, env, user);
     if (method === "DELETE" && id !== null) return deleteFeature(id, env, user);
   }
@@ -100,7 +101,7 @@ async function route(
 
     if (method === "GET" && id === null) return listDiscussions(request, env, user);
     if (method === "GET" && id !== null) return getDiscussion(id, env, user);
-    if (method === "POST" && id === null) return createDiscussion(request, env, user);
+    if (method === "POST" && id === null) return createDiscussion(request, env, user, ctx);
     if (method === "PUT" && id !== null) return editDiscussion(id, request, env, user);
     if (method === "DELETE" && id !== null) return deleteDiscussion(id, env, user);
   }
@@ -118,7 +119,7 @@ async function route(
   // --- Comments ---
   if (path === "/api/comments") {
     if (method === "GET") return listComments(request, env);
-    if (method === "POST") return createComment(request, env, user);
+    if (method === "POST") return createComment(request, env, user, ctx);
   }
 
   const commentMatch = path.match(/^\/api\/comments\/(\d+)$/);

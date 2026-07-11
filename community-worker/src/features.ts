@@ -97,7 +97,8 @@ export async function getFeature(
 export async function createFeature(
   request: Request,
   env: Env,
-  user: AuthUser | null
+  user: AuthUser | null,
+  ctx?: ExecutionContext
 ): Promise<Response> {
   const body = (await request.json()) as {
     title?: string;
@@ -147,12 +148,13 @@ export async function createFeature(
 
   const newId = result.meta.last_row_id;
   const authorName = user ? (user.display_name || "User") : body.author_name!;
-  notifyNewFeature(env, {
+  const notifyPromise = notifyNewFeature(env, {
     title: body.title!.trim(),
     category,
     authorName,
     isVerified: !!user,
   });
+  if (ctx) ctx.waitUntil(notifyPromise);
   return json({ id: newId, message: "Feature request created" }, 201, env);
 }
 
