@@ -10,6 +10,8 @@ import {
   isLoggedIn,
   getUserId,
   getUserRole,
+  loadTurnstileScript,
+  renderTurnstile,
   type Feature,
 } from "./HubApi";
 
@@ -34,6 +36,8 @@ const formCategory = ref("general");
 const formName = ref("");
 const formEmail = ref("");
 const submitting = ref(false);
+const turnstileRef = ref<HTMLElement | null>(null);
+const turnstileToken = ref("");
 
 const categories = computed(() => [
   { value: "", label: isZh.value ? "全部" : "All" },
@@ -148,8 +152,22 @@ async function vote(f: Feature) {
   }
 }
 
+async function initTurnstile() {
+  if (loggedIn.value) return;
+  await loadTurnstileScript();
+  if (turnstileRef.value) {
+    try {
+      turnstileToken.value = await renderTurnstile(turnstileRef.value);
+    } catch { /* will be validated on submit */ }
+  }
+}
+
 async function submit() {
   if (!formTitle.value.trim() || !formDesc.value.trim()) return;
+  if (!loggedIn.value && !turnstileToken.value) {
+    error.value = isZh.value ? "请完成人机验证" : "Please complete the verification";
+    return;
+  }
   submitting.value = true;
   error.value = "";
   try {
@@ -159,16 +177,20 @@ async function submit() {
       category: formCategory.value,
       author_name: formName.value.trim() || undefined,
       author_email: formEmail.value.trim() || undefined,
+      turnstile_token: loggedIn.value ? undefined : turnstileToken.value || undefined,
     });
     showForm.value = false;
     formTitle.value = "";
     formDesc.value = "";
     formName.value = "";
+    turnstileToken.value = "";
     page.value = 1;
     sort.value = "newest";
     await load();
   } catch (e) {
     error.value = (e as Error).message;
+    turnstileToken.value = "";
+    if (!loggedIn.value && turnstileRef.value) initTurnstile();
   } finally {
     submitting.value = false;
   }
@@ -201,7 +223,7 @@ onMounted(load);
           <span class="fb-count" v-if="total">{{ total }}</span>
         </h2>
       </div>
-      <button class="fb-btn fb-btn-primary" @click="showForm = !showForm">
+      <button class="fb-btn fb-btn-primary" @click="showForm = !showForm; if (!showForm) { turnstileToken = ''; } else { $nextTick(() => initTurnstile()); }">
         {{ showForm ? (isZh ? "取消" : "Cancel") : (isZh ? "+ 提交建议" : "+ Submit Idea") }}
       </button>
     </div>
@@ -244,13 +266,14 @@ onMounted(load);
           class="fb-textarea"
           rows="4"
         ></textarea>
+        <div v-if="!loggedIn" ref="turnstileRef" class="fb-turnstile"></div>
         <div class="fb-form-actions">
           <select v-model="formCategory" class="fb-sort-select">
             <option v-for="c in categories.slice(1)" :key="c.value" :value="c.value">{{ c.label }}</option>
           </select>
           <button
             class="fb-btn fb-btn-primary"
-            :disabled="submitting || !formTitle.trim() || !formDesc.trim()"
+            :disabled="submitting || !formTitle.trim() || !formDesc.trim() || (!loggedIn && !turnstileToken)"
             @click="submit"
           >
             {{ submitting ? (isZh ? "提交中..." : "Submitting...") : (isZh ? "提交" : "Submit") }}
@@ -478,6 +501,9 @@ onMounted(load);
   transition: border-color 0.15s;
 }
 .fb-textarea:focus { border-color: var(--vp-c-brand-1); outline: none; }
+.fb-turnstile {
+  margin: 8px 0;
+}
 .fb-form-actions {
   display: flex;
   justify-content: space-between;

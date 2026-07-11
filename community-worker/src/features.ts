@@ -115,11 +115,12 @@ export async function createFeature(
     if (!body.author_name?.trim()) {
       return error("Name is required for guests", 400, env);
     }
-    if (body.turnstile_token) {
-      const ip = request.headers.get("CF-Connecting-IP") || "";
-      const ok = await verifyTurnstile(body.turnstile_token, ip, env);
-      if (!ok) return error("Turnstile verification failed", 403, env);
+    if (!body.turnstile_token) {
+      return error("Verification required", 400, env);
     }
+    const ip = request.headers.get("CF-Connecting-IP") || "";
+    const ok = await verifyTurnstile(body.turnstile_token, ip, env);
+    if (!ok) return error("Turnstile verification failed", 403, env);
   }
 
   const category = FEATURE_CATEGORIES.includes(

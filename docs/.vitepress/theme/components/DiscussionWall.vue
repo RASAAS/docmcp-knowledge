@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { ref, onMounted, computed } from "vue";
+import { ref, onMounted, computed, nextTick } from "vue";
 import { useData } from "vitepress";
 import {
   listDiscussions,
@@ -14,6 +14,8 @@ import {
   isLoggedIn,
   getUserId,
   getUserRole,
+  loadTurnstileScript,
+  renderTurnstile,
   type Discussion,
   type Comment,
 } from "./HubApi";
@@ -45,6 +47,11 @@ const commentLoading = ref(false);
 const commentBody = ref("");
 const commentName = ref("");
 const commentSubmitting = ref(false);
+
+const turnstileRef = ref<HTMLElement | null>(null);
+const turnstileToken = ref("");
+const commentTurnstileRef = ref<HTMLElement | null>(null);
+const commentTurnstileToken = ref("");
 
 const currentUserId = computed(() => getUserId());
 const isAdminUser = computed(() => ["admin", "super_admin"].includes(getUserRole()));
@@ -190,8 +197,28 @@ async function like(d: Discussion) {
   }
 }
 
+async function initTurnstile() {
+  if (isLoggedIn()) return;
+  await loadTurnstileScript();
+  if (turnstileRef.value) {
+    try { turnstileToken.value = await renderTurnstile(turnstileRef.value); } catch { /* validated on submit */ }
+  }
+}
+
+async function initCommentTurnstile() {
+  if (isLoggedIn()) return;
+  await loadTurnstileScript();
+  if (commentTurnstileRef.value) {
+    try { commentTurnstileToken.value = await renderTurnstile(commentTurnstileRef.value); } catch { /* validated on submit */ }
+  }
+}
+
 async function submit() {
   if (!formTitle.value.trim() || !formBody.value.trim()) return;
+  if (!isLoggedIn() && !turnstileToken.value) {
+    error.value = isZh.value ? "请完成人机验证" : "Please complete the verification";
+    return;
+  }
   submitting.value = true;
   error.value = "";
   try {
@@ -200,16 +227,20 @@ async function submit() {
       body: formBody.value.trim(),
       category: formCategory.value,
       author_name: formName.value.trim() || undefined,
+      turnstile_token: isLoggedIn() ? undefined : turnstileToken.value || undefined,
     });
     showForm.value = false;
     formTitle.value = "";
     formBody.value = "";
     formName.value = "";
+    turnstileToken.value = "";
     page.value = 1;
     sort.value = "latest";
     await load();
   } catch (e) {
     error.value = (e as Error).message;
+    turnstileToken.value = "";
+    if (!isLoggedIn() && turnstileRef.value) initTurnstile();
   } finally {
     submitting.value = false;
   }
@@ -230,11 +261,16 @@ async function toggleComments(discId: number) {
     error.value = (e as Error).message;
   } finally {
     commentLoading.value = false;
+    if (!isLoggedIn()) nextTick(() => initCommentTurnstile());
   }
 }
 
 async function submitComment() {
   if (!commentBody.value.trim() || expandedId.value === null) return;
+  if (!isLoggedIn() && !commentTurnstileToken.value) {
+    error.value = isZh.value ? "请完成人机验证" : "Please complete the verification";
+    return;
+  }
   commentSubmitting.value = true;
   try {
     await createComment({
@@ -242,14 +278,19 @@ async function submitComment() {
       target_id: expandedId.value,
       body: commentBody.value.trim(),
       author_name: commentName.value.trim() || undefined,
+      turnstile_token: isLoggedIn() ? undefined : commentTurnstileToken.value || undefined,
     });
     commentBody.value = "";
+    commentTurnstileToken.value = "";
     const data = await listComments("discussion", expandedId.value);
     comments.value = data.items;
     const disc = discussions.value.find((d) => d.id === expandedId.value);
     if (disc) disc.comment_count++;
+    if (!isLoggedIn() && commentTurnstileRef.value) initCommentTurnstile();
   } catch (e) {
     error.value = (e as Error).message;
+    commentTurnstileToken.value = "";
+    if (!isLoggedIn() && commentTurnstileRef.value) initCommentTurnstile();
   } finally {
     commentSubmitting.value = false;
   }
@@ -323,7 +364,7 @@ onMounted(load);
             </h2>
             <span class="dw-disc-count" v-if="total">{{ total }} {{ isZh ? "条讨论" : "discussions" }}</span>
           </div>
-          <button class="dw-btn dw-btn-primary" @click="showForm = !showForm">
+          <button class="dw-btn dw-btn-primary" @click="showForm = !showForm; if (!showForm) { turnstileToken = ''; } else { $nextTick(() => initTurnstile()); }">
             {{ showForm ? (isZh ? "取消" : "Cancel") : (isZh ? "+ 发起讨论" : "+ New Discussion") }}
           </button>
         </div>
@@ -335,13 +376,14 @@ onMounted(load);
           </div>
           <input v-model="formTitle" :placeholder="isZh ? '讨论标题 *' : 'Discussion title *'" class="dw-input dw-input-full" />
           <textarea v-model="formBody" :placeholder="isZh ? '分享您的想法...' : 'Share your thoughts...'" class="dw-textarea" rows="4"></textarea>
+          <div v-if="!loggedIn" ref="turnstileRef" class="dw-turnstile"></div>
           <div class="dw-form-footer">
             <select v-model="formCategory" class="dw-sort-select">
               <option v-for="c in channels.slice(1)" :key="c.value" :value="c.value">{{ c.label }}</option>
             </select>
             <button
               class="dw-btn dw-btn-primary"
-              :disabled="submitting || !formTitle.trim() || !formBody.trim()"
+              :disabled="submitting || !formTitle.trim() || !formBody.trim() || (!loggedIn && !turnstileToken)"
               @click="submit"
             >
               {{ submitting ? (isZh ? "发布中..." : "Posting...") : (isZh ? "发布" : "Post") }}
@@ -465,6 +507,7 @@ onMounted(load);
                   :placeholder="isZh ? '您的姓名' : 'Your name'"
                   class="dw-input dw-input-sm"
                 />
+                <div v-if="!loggedIn" ref="commentTurnstileRef" class="dw-turnstile"></div>
                 <div class="dw-comment-input-row">
                   <input
                     v-model="commentBody"
@@ -474,7 +517,7 @@ onMounted(load);
                   />
                   <button
                     class="dw-btn dw-btn-sm"
-                    :disabled="commentSubmitting || !commentBody.trim()"
+                    :disabled="commentSubmitting || !commentBody.trim() || (!loggedIn && !commentTurnstileToken)"
                     @click="submitComment"
                   >
                     {{ commentSubmitting ? "..." : (isZh ? "发送" : "Send") }}
@@ -694,6 +737,9 @@ onMounted(load);
   font-family: inherit;
 }
 .dw-textarea:focus { border-color: var(--vp-c-brand-1); outline: none; }
+.dw-turnstile {
+  margin: 8px 0;
+}
 .dw-form-footer {
   display: flex;
   justify-content: space-between;

@@ -268,6 +268,48 @@ export function getStats(): Promise<HubStats> {
   return request("/api/stats");
 }
 
+// --- Turnstile (guest anti-spam) ---
+
+const TURNSTILE_SITE_KEY = "0x4AAAAAADzjZtsYPWyRAB89";
+let _turnstileLoaded = false;
+
+export function loadTurnstileScript(): Promise<void> {
+  if (_turnstileLoaded || typeof window === "undefined") return Promise.resolve();
+  return new Promise((resolve) => {
+    if (document.querySelector('script[src*="turnstile"]')) {
+      _turnstileLoaded = true;
+      resolve();
+      return;
+    }
+    const s = document.createElement("script");
+    s.src = "https://challenges.cloudflare.com/turnstile/v0/api.js?render=explicit";
+    s.async = true;
+    s.onload = () => { _turnstileLoaded = true; resolve(); };
+    s.onerror = () => resolve();
+    document.head.appendChild(s);
+  });
+}
+
+export function renderTurnstile(container: HTMLElement): Promise<string> {
+  return new Promise((resolve, reject) => {
+    const w = window as Record<string, unknown>;
+    const turnstile = w.turnstile as {
+      render: (el: HTMLElement, opts: Record<string, unknown>) => string;
+      remove: (id: string) => void;
+    } | undefined;
+    if (!turnstile) { reject(new Error("Turnstile not loaded")); return; }
+    container.innerHTML = "";
+    turnstile.render(container, {
+      sitekey: TURNSTILE_SITE_KEY,
+      callback: (token: string) => resolve(token),
+      "error-callback": () => reject(new Error("Turnstile challenge failed")),
+      "expired-callback": () => reject(new Error("Turnstile token expired")),
+      theme: "auto",
+      size: "normal",
+    });
+  });
+}
+
 // --- Auth helpers ---
 
 function _resolveDocmcpUrl(): string {
