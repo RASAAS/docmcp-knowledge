@@ -66,10 +66,14 @@ html.hub-embed-mode .VPLocalNav {
 }
 html.hub-embed-mode .VPContent {
   padding-top: 0 !important;
+  padding-left: 0 !important;
 }
 html.hub-embed-mode .VPContent .VPPage {
   padding-top: 0 !important;
 }
 html.hub-embed-mode body {
   overflow-x: hidden;
+}
+html.hub-embed-mode .rv-hub {
+  min-height: 100vh;
 }
