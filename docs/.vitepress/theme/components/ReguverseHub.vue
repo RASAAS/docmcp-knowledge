@@ -284,8 +284,18 @@ async function checkLogin() {
   }
 }
 
+const ALLOWED_EMBED_ORIGINS = [
+  "https://app.team-ra.org",
+  "https://app-test.team-ra.org",
+  "https://app.reguverse.com",
+  "https://app-test.reguverse.com",
+  "https://localhost:3003",
+  "https://localhost:3000",
+];
+
 function handlePostMessage(event: MessageEvent) {
   if (!isEmbedMode.value) return;
+  if (!ALLOWED_EMBED_ORIGINS.includes(event.origin)) return;
   const data = event.data;
   if (data?.type === "reguverse-hub-sso" && data.hub_token) {
     saveSession(
