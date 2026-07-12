@@ -1,0 +1,234 @@
+[
+  {
+    "iso_number": "ISO 10993-1:2018",
+    "gb_number": "GB/T 16886.1-2022",
+    "adoption_type": "idt",
+    "domain": "biocompatibility",
+    "title_en": "Biological evaluation of medical devices - Part 1: Evaluation and testing within a risk management process",
+    "title_zh": "医疗器械生物学评价 第1部分：风险管理过程中的评价与试验"
+  },
+  {
+    "iso_number": "ISO 10993-3:2014",
+    "gb_number": "GB/T 16886.3-2019",
+    "adoption_type": "idt",
+    "domain": "biocompatibility",
+    "title_en": "Biological evaluation of medical devices - Part 3: Tests for genotoxicity, carcinogenicity and reproductive toxicity",
+    "title_zh": "医疗器械生物学评价 第3部分：遗传毒性、致癌性和生殖毒性试验"
+  },
+  {
+    "iso_number": "ISO 10993-4:2017",
+    "gb_number": "GB/T 16886.4-2022",
+    "adoption_type": "idt",
+    "domain": "biocompatibility",
+    "title_en": "Biological evaluation of medical devices - Part 4: Selection of tests for interactions with blood",
+    "title_zh": "医疗器械生物学评价 第4部分：与血液相互作用试验选择"
+  },
+  {
+    "iso_number": "ISO 10993-5:2009",
+    "gb_number": "GB/T 16886.5-2017",
+    "adoption_type": "idt",
+    "domain": "biocompatibility",
+    "title_en": "Biological evaluation of medical devices - Part 5: Tests for in vitro cytotoxicity",
+    "title_zh": "医疗器械生物学评价 第5部分：体外细胞毒性试验"
+  },
+  {
+    "iso_number": "ISO 10993-6:2016",
+    "gb_number": "GB/T 16886.6-2022",
+    "adoption_type": "idt",
+    "domain": "biocompatibility",
+    "title_en": "Biological evaluation of medical devices - Part 6: Tests for local effects after implantation",
+    "title_zh": "医疗器械生物学评价 第6部分：植入后局部反应试验"
+  },
+  {
+    "iso_number": "ISO 10993-7:2008",
+    "gb_number": "GB/T 16886.7-2015",
+    "adoption_type": "idt",
+    "domain": "biocompatibility",
+    "title_en": "Biological evaluation of medical devices - Part 7: Ethylene oxide sterilization residuals",
+    "title_zh": "医疗器械生物学评价 第7部分：环氧乙烷灭菌残留量"
+  },
+  {
+    "iso_number": "ISO 10993-9:2019",
+    "gb_number": "GB/T 16886.9-2022",
+    "adoption_type": "idt",
+    "domain": "biocompatibility",
+    "title_en": "Biological evaluation of medical devices - Part 9: Framework for identification and quantification of potential degradation products",
+    "title_zh": "医疗器械生物学评价 第9部分：潜在降解产物的定性和定量框架"
+  },
+  {
+    "iso_number": "ISO 10993-10:2021",
+    "gb_number": "GB/T 16886.10-2024",
+    "adoption_type": "idt",
+    "domain": "biocompatibility",
+    "title_en": "Biological evaluation of medical devices - Part 10: Tests for skin sensitization",
+    "title_zh": "医疗器械生物学评价 第10部分：皮肤致敏试验"
+  },
+  {
+    "iso_number": "ISO 10993-11:2017",
+    "gb_number": "GB/T 16886.11-2021",
+    "adoption_type": "idt",
+    "domain": "biocompatibility",
+    "title_en": "Biological evaluation of medical devices - Part 11: Tests for systemic toxicity",
+    "title_zh": "医疗器械生物学评价 第11部分：全身毒性试验"
+  },
+  {
+    "iso_number": "ISO 10993-12:2021",
+    "gb_number": "GB/T 16886.12-2017",
+    "adoption_type": "idt",
+    "domain": "biocompatibility",
+    "title_en": "Biological evaluation of medical devices - Part 12: Sample preparation and reference materials",
+    "title_zh": "医疗器械生物学评价 第12部分：样品制备与参照材料"
+  },
+  {
+    "iso_number": "ISO 10993-16:2017",
+    "gb_number": "GB/T 16886.16-2021",
+    "adoption_type": "idt",
+    "domain": "biocompatibility",
+    "title_en": "Biological evaluation of medical devices - Part 16: Toxicokinetic study design for degradation products and leachables",
+    "title_zh": "医疗器械生物学评价 第16部分：降解产物与可沥滤物毒代动力学研究设计"
+  },
+  {
+    "iso_number": "ISO 10993-17:2023",
+    "gb_number": "GB/T 16886.17-2024",
+    "adoption_type": "idt",
+    "domain": "biocompatibility",
+    "title_en": "Biological evaluation of medical devices - Part 17: Establishment of allowable limits for leachable substances using health-based risk assessment",
+    "title_zh": "医疗器械生物学评价 第17部分：可沥滤物允许限量的建立"
+  },
+  {
+    "iso_number": "ISO 10993-18:2020",
+    "gb_number": "GB/T 16886.18-2022",
+    "adoption_type": "idt",
+    "domain": "biocompatibility",
+    "title_en": "Biological evaluation of medical devices - Part 18: Chemical characterization of medical device materials within a risk management process",
+    "title_zh": "医疗器械生物学评价 第18部分：材料化学表征"
+  },
+  {
+    "iso_number": "IEC 60601-1:2005+A2:2020",
+    "gb_number": "GB 9706.1-2020",
+    "adoption_type": "mod",
+    "domain": "electrical_safety",
+    "title_en": "Medical electrical equipment - Part 1: General requirements for basic safety and essential performance",
+    "title_zh": "医用电气设备 第1部分：基本安全和基本性能的通用要求"
+  },
+  {
+    "iso_number": "IEC 60601-1-2:2014+A1:2020",
+    "gb_number": "YY 9706.102-2021",
+    "adoption_type": "mod",
+    "domain": "emc",
+    "title_en": "Medical electrical equipment - Part 1-2: General requirements for basic safety and essential performance - Collateral Standard: Electromagnetic disturbances",
+    "title_zh": "医用电气设备 第1-2部分：电磁兼容 要求和试验"
+  },
+  {
+    "iso_number": "IEC 62304:2006+A1:2015",
+    "gb_number": "GB/Z 42217-2022",
+    "adoption_type": "idt",
+    "domain": "software_vv",
+    "title_en": "Medical device software - Software life cycle processes",
+    "title_zh": "医疗器械 用于医疗器械质量体系软件的确认"
+  },
+  {
+    "iso_number": "ISO 14971:2019",
+    "gb_number": "GB/T 42062-2022",
+    "adoption_type": "idt",
+    "domain": "risk_management",
+    "title_en": "Medical devices - Application of risk management to medical devices",
+    "title_zh": "医疗器械 风险管理对医疗器械的应用"
+  },
+  {
+    "iso_number": "ISO 13485:2016",
+    "gb_number": "GB/T 42061-2022",
+    "adoption_type": "idt",
+    "domain": "design_verification",
+    "title_en": "Medical devices - Quality management systems - Requirements for regulatory purposes",
+    "title_zh": "医疗器械 质量管理体系 用于法规的要求"
+  },
+  {
+    "iso_number": "ISO 11607-1:2019",
+    "gb_number": "GB/T 19633.1-2024",
+    "adoption_type": "idt",
+    "domain": "packaging",
+    "title_en": "Packaging for terminally sterilized medical devices - Part 1: Requirements for materials, sterile barrier systems and packaging systems",
+    "title_zh": "最终灭菌医疗器械包装 第1部分：材料、无菌屏障系统和包装系统的要求"
+  },
+  {
+    "iso_number": "ISO 11607-2:2019",
+    "gb_number": "GB/T 19633.2-2024",
+    "adoption_type": "idt",
+    "domain": "packaging",
+    "title_en": "Packaging for terminally sterilized medical devices - Part 2: Validation requirements for forming, sealing and assembly processes",
+    "title_zh": "最终灭菌医疗器械包装 第2部分：成型、密封和装配过程的确认要求"
+  },
+  {
+    "iso_number": "ISO 17665-1:2024",
+    "gb_number": "GB 18278.1-2015",
+    "adoption_type": "mod",
+    "domain": "sterilization",
+    "title_en": "Sterilization of health care products - Moist heat - Part 1: Requirements for the development, validation and routine control of a sterilization process",
+    "title_zh": "医疗保健产品灭菌 湿热 第1部分：灭菌过程的开发、确认和常规控制要求"
+  },
+  {
+    "iso_number": "ISO 11135:2014",
+    "gb_number": "GB 18279.1-2015",
+    "adoption_type": "mod",
+    "domain": "sterilization",
+    "title_en": "Sterilization of health-care products - Ethylene oxide - Requirements for the development, validation and routine control of a sterilization process",
+    "title_zh": "医疗保健产品灭菌 环氧乙烷 第1部分：灭菌过程的开发、确认和常规控制要求"
+  },
+  {
+    "iso_number": "ISO 11137-1:2006",
+    "gb_number": "GB 18280.1-2015",
+    "adoption_type": "mod",
+    "domain": "sterilization",
+    "title_en": "Sterilization of health care products - Radiation - Part 1: Requirements for development, validation and routine control of a sterilization process",
+    "title_zh": "医疗保健产品灭菌 辐射 第1部分：灭菌过程的开发、确认和常规控制要求"
+  },
+  {
+    "iso_number": "IEC 62366-1:2015+A1:2020",
+    "gb_number": "YY/T 1474-2016",
+    "adoption_type": "mod",
+    "domain": "usability",
+    "title_en": "Medical devices - Part 1: Application of usability engineering to medical devices",
+    "title_zh": "医疗器械 可用性工程对医疗器械的应用"
+  },
+  {
+    "iso_number": "ISO 14155:2020",
+    "gb_number": "YY/T 0127.1-2022",
+    "adoption_type": "mod",
+    "domain": "clinical_evaluation",
+    "title_en": "Clinical investigation of medical devices for human subjects - Good clinical practice",
+    "title_zh": "医疗器械临床试验 良好临床实践"
+  },
+  {
+    "iso_number": "ISO 15223-1:2021",
+    "gb_number": "YY/T 0466.1-2016",
+    "adoption_type": "mod",
+    "domain": "labeling",
+    "title_en": "Medical devices - Symbols to be used with information to be supplied by the manufacturer - Part 1: General requirements",
+    "title_zh": "医疗器械 用于医疗器械标签、标记和提供信息的符号 第1部分：通用要求"
+  },
+  {
+    "iso_number": "IEC 81001-5-1:2021",
+    "gb_number": null,
+    "adoption_type": "domestic",
+    "domain": "cybersecurity",
+    "title_en": "Health software and health IT systems safety, effectiveness and security - Part 5-1: Security",
+    "title_zh": "健康软件和健康IT系统安全、有效性和安全保障"
+  },
+  {
+    "iso_number": "ISO 11737-1:2018",
+    "gb_number": "GB/T 19973.1-2015",
+    "adoption_type": "mod",
+    "domain": "sterilization",
+    "title_en": "Sterilization of health care products - Microbiological methods - Part 1: Determination of a population of microorganisms on products",
+    "title_zh": "医疗器械的灭菌 微生物学方法 第1部分：产品上微生物总数的测定"
+  },
+  {
+    "iso_number": "ISO 11737-2:2009",
+    "gb_number": "GB/T 19973.2-2017",
+    "adoption_type": "mod",
+    "domain": "sterilization",
+    "title_en": "Sterilization of health care products - Microbiological methods - Part 2: Tests of sterility performed in the definition, validation and maintenance of a sterilization process",
+    "title_zh": "医疗器械的灭菌 微生物学方法 第2部分：用于灭菌过程的定义、确认和维护的无菌试验"
+  }
+]

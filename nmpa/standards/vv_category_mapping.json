@@ -1,0 +1,119 @@
+{
+  "_comment": "Maps V&V evidence categories to NMPA standard l1 categories. Each V&V category maps to one or more l1 values from nmpa/standards/master/standards.json. This mapping is the counterpart of VV_CATEGORY_TO_DOMAINS in vv_standards_resolver.py for EU MDR.",
+  "biocompatibility": {
+    "l1_categories": ["医疗器械生物", "纳米材料生物"],
+    "keywords": ["16886", "生物学评价", "细胞毒", "致敏", "刺激", "全身毒", "遗传毒", "植入", "降解", "血液相互作用"]
+  },
+  "chemical_compliance": {
+    "l1_categories": ["医疗器械生物"],
+    "keywords": ["16886.17", "16886.18", "化学表征", "可沥滤", "毒理", "允许限量", "extractable", "leachable"]
+  },
+  "substance_absorption": {
+    "l1_categories": ["医疗器械生物"],
+    "keywords": ["16886.16", "降解产物", "毒代动力学", "吸收"]
+  },
+  "cmr_endocrine": {
+    "l1_categories": ["医疗器械生物"],
+    "keywords": ["致癌", "致突变", "生殖毒", "CMR", "邻苯二甲酸"]
+  },
+  "animal_tissue": {
+    "l1_categories": ["医疗器械生物"],
+    "keywords": ["动物源", "生物源", "动物组织"]
+  },
+  "electrical_safety": {
+    "l1_categories": ["医用电气设备", "手术、治疗电", "诊断电子仪器", "监护电子仪器"],
+    "keywords": ["9706", "安全", "基本性能", "电气"]
+  },
+  "emc": {
+    "l1_categories": ["医用电气设备"],
+    "keywords": ["9706.102", "电磁兼容", "EMC", "电磁干扰"]
+  },
+  "radiation": {
+    "l1_categories": ["放射治疗、核", "医用X射线设", "医用光学和仪"],
+    "keywords": ["辐射", "X射线", "放射", "激光", "核医学"]
+  },
+  "software_vv": {
+    "l1_categories": ["人工智能医疗", "医疗器械质量"],
+    "keywords": ["42217", "软件", "软件确认", "软件生命周期", "software"]
+  },
+  "cybersecurity": {
+    "l1_categories": ["人工智能医疗"],
+    "keywords": ["网络安全", "数据安全", "信息安全", "cybersecurity"]
+  },
+  "ai_ml_vv": {
+    "l1_categories": ["人工智能医疗"],
+    "keywords": ["1833", "人工智能", "机器学习", "深度学习", "AI"]
+  },
+  "usability": {
+    "l1_categories": ["医疗器械质量"],
+    "keywords": ["1474", "可用性", "人因", "使用错误", "usability"]
+  },
+  "sterilization": {
+    "l1_categories": ["消毒灭菌通用", "消毒灭菌设备"],
+    "keywords": ["灭菌", "消毒", "环氧乙烷", "湿热", "辐射灭菌", "无菌", "清洗", "微生物"]
+  },
+  "packaging": {
+    "l1_categories": ["医疗器械包装"],
+    "keywords": ["包装", "无菌屏障", "密封", "标签"]
+  },
+  "shelf_life": {
+    "l1_categories": ["医疗器械包装"],
+    "keywords": ["有效期", "稳定性", "加速老化", "货架寿命"]
+  },
+  "transport_simulation": {
+    "l1_categories": ["医疗器械包装"],
+    "keywords": ["运输", "振动", "跌落", "模拟运输"]
+  },
+  "clinical_evaluation": {
+    "l1_categories": ["医疗器械临床"],
+    "keywords": ["临床评价", "临床试验", "临床数据"]
+  },
+  "clinical_investigation": {
+    "l1_categories": ["医疗器械临床"],
+    "keywords": ["临床试验", "GCP", "受试者"]
+  },
+  "pms_pmcf": {
+    "l1_categories": ["医疗器械质量"],
+    "keywords": ["上市后", "不良事件", "监测"]
+  },
+  "labeling": {
+    "l1_categories": ["医疗器械唯一"],
+    "keywords": ["标签", "标记", "符号", "说明书", "使用说明"]
+  },
+  "risk_management": {
+    "l1_categories": ["医疗器械质量"],
+    "keywords": ["42062", "风险管理", "风险分析", "14971"]
+  },
+  "design_verification": {
+    "l1_categories": ["医疗器械质量", "外科植入物"],
+    "keywords": ["42061", "质量管理", "设计验证", "机械测试"]
+  },
+  "design_validation": {
+    "l1_categories": ["医疗器械质量", "医疗器械临床"],
+    "keywords": ["设计确认", "用户需求", "预期用途"]
+  },
+  "reusable_instruments": {
+    "l1_categories": ["外科手术器械", "消毒灭菌通用"],
+    "keywords": ["重复使用", "清洗", "消毒", "再处理"]
+  },
+  "measurement_diagnostic": {
+    "l1_categories": ["医学实验室与", "医用光学和仪", "诊断电子仪器"],
+    "keywords": ["诊断", "测量", "精度", "校准", "IVD"]
+  },
+  "interconnection": {
+    "l1_categories": ["输液、输血、"],
+    "keywords": ["连接器", "小口径", "鲁尔", "接头"]
+  },
+  "mri_safety": {
+    "l1_categories": ["医用电气设备", "外科植入物"],
+    "keywords": ["MRI", "磁共振", "MR安全", "MR条件"]
+  },
+  "drug_device": {
+    "l1_categories": ["医疗器械生物"],
+    "keywords": ["药械组合", "含药", "药物涂层"]
+  },
+  "service_life": {
+    "l1_categories": ["外科植入物"],
+    "keywords": ["使用寿命", "疲劳", "磨损", "耐久"]
+  }
+}
