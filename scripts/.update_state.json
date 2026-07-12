@@ -323,14 +323,14 @@
   },
   "eu_mdr/harmonised_standards": {
     "url": "https://eur-lex.europa.eu/eli/dec_impl/2021/1182/oj",
-    "last_checked": "2026-07-05T20:10:09.048238",
+    "last_checked": "2026-07-12T20:04:57.270618",
     "last_known_amendment": "20260617",
     "standards_count": 65,
     "detection_method": "sparql"
   },
   "eu_mdr/mdcg_guidance": {
     "url": "https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en",
-    "last_checked": "2026-07-05T20:10:10.444237",
+    "last_checked": "2026-07-12T20:04:58.880289",
     "official_count": 126
   },
   "eu_mdr/mdcg_guidance_google": {
@@ -371,28 +371,28 @@
   },
   "eu_mdr/ec_latest_updates": {
     "url": "https://ec.europa.eu/health/medical-devices-sector/latest-updates_en",
-    "last_checked": "2026-07-05T20:10:11.930633",
+    "last_checked": "2026-07-12T20:05:01.120109",
     "seen_titles": [
-      "Update - New manufacturer incident report XSD files and XSL files (SB 11154)",
-      "Article 10a Decision tree",
-      "New MDCG Position Paper: Management of SS(C)P in EUDAMED after mandatory use",
-      "Update – Documents on European Medical Device Nomenclature (EMDN)",
-      "Pilot programme to be launched to support breakthrough medical devices and in vitro diagnostics",
-      "Update - MDCG 2021-24 rev.1 - Guidance on classification of medical devices (April 2026)",
       "Recording available - Second training on EMDN: structure, consultation process, and practical application",
-      "Registration - High-level Conference on Medical Devices: Innovation and Patient Safety - 16 March 2026, 9.00 - 17.00 CET",
-      "Update – new manufacturer incident report PDF file (SB 11154) and important information about which MIR 7.3.1. versions are accepted from 1st May 2026",
-      "Commissioner Várhelyi to open high-level event on medical devices",
-      "Medical Devices: Delegated acts on well-established technologies published",
-      "Update MIR 7.3.1. form – Updated XSD-XSL files for field 4.3.3.d. and Changelog file (SB 11252)",
-      "Medical Devices: Register now for high-level conference on 16 March 2026",
-      "Implementing Regulation (EU) 2026/977 – uniform requirements for conformity assessment and notified bodies (Annex VII)",
-      "Update - Manual on borderline and classification under Regulations (EU) 2017/745 and 2017/746 v5",
       "New harmonised standards for the Regulations on medical devices",
-      "New Implementing Regulation sets out uniform requirements for conformity assessment and notified bodies",
-      "Recording available - Commissioner Várhelyi to open high-level event on medical devices",
       "New guidance document on the “EU REP” symbol for authorised representatives",
-      "Rev.2 - Q&amp;A Obligation to inform in case of interruption or discontinuation of supply"
+      "Update – Documents on European Medical Device Nomenclature (EMDN)",
+      "New Implementing Regulation sets out uniform requirements for conformity assessment and notified bodies",
+      "Update MIR 7.3.1. form – Updated XSD-XSL files for field 4.3.3.d. and Changelog file (SB 11252)",
+      "Update - New manufacturer incident report XSD files and XSL files (SB 11154)",
+      "Registration - High-level Conference on Medical Devices: Innovation and Patient Safety - 16 March 2026, 9.00 - 17.00 CET",
+      "Medical Devices: Delegated acts on well-established technologies published",
+      "Rev.2 - Q&amp;A Obligation to inform in case of interruption or discontinuation of supply",
+      "Implementing Regulation (EU) 2026/977 – uniform requirements for conformity assessment and notified bodies (Annex VII)",
+      "Recording available - Commissioner Várhelyi to open high-level event on medical devices",
+      "New MDCG Position Paper: Management of SS(C)P in EUDAMED after mandatory use",
+      "Article 10a Decision tree",
+      "Update - MDCG 2021-24 rev.1 - Guidance on classification of medical devices (April 2026)",
+      "Update – new manufacturer incident report PDF file (SB 11154) and important information about which MIR 7.3.1. versions are accepted from 1st May 2026",
+      "Medical Devices: Register now for high-level conference on 16 March 2026",
+      "Commissioner Várhelyi to open high-level event on medical devices",
+      "Pilot programme to be launched to support breakthrough medical devices and in vitro diagnostics",
+      "Update - Manual on borderline and classification under Regulations (EU) 2017/745 and 2017/746 v5"
     ],
     "total_entries": 20
   },
