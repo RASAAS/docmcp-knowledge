@@ -1,7 +1,88 @@
 {
   "framework": "uk_mhra",
-  "last_updated": "2026-07-06T20:58:28Z",
+  "last_updated": "2026-07-13T20:19:55Z",
   "items": [
+    {
+      "id": "uk_mhra_20260713_mhra_updates_list_of_medical_devices_granted_exceptional_use",
+      "framework": "uk_mhra",
+      "category": "regulation_update",
+      "title": {
+        "en": "MHRA Updates List of Medical Devices Granted Exceptional Use Authorisations, Including Cancellations",
+        "zh": "MHRA更新医疗器械特例使用授权名单，含取消与到期项目"
+      },
+      "summary": {
+        "en": "The MHRA has published an updated list of manufacturers and medical devices that have received exceptional use authorisations, along with those whose exemptions have expired or been cancelled. Affected stakeholders include device manufacturers, importers, and healthcare providers who rely on such authorisations for continued market access. Organisations should review the list to confirm the current status of any devices they supply or use, and take immediate action if an authorisation has been revoked to ensure compliance.",
+        "zh": "英国MHRA发布了最新版获特例使用授权的医疗器械及制造商清单，同时列明了授权已到期或被取消的项目。该更新涉及依赖此类授权维持市场准入的器械制造商、进口商和医疗机构。相关组织应立即核查清单中自身供应或使用产品的状态，如授权已被撤销，需及时采取措施确保合规。"
+      },
+      "source_url": "https://www.gov.uk/government/publications/medical-devices-given-exceptional-use-authorisations",
+      "source_name": "MHRA (UK)",
+      "published_date": "2026-07-10",
+      "detected_date": "2026-07-13T20:17:27Z",
+      "importance": "medium",
+      "tags": [
+        "mhra",
+        "exceptional_use_authorisation",
+        "medical_device_exemption",
+        "regulatory_decision",
+        "market_access"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "uk_mhra_20260713_mhra_updates_guidance_on_registering_medical_devices_for_gre",
+      "framework": "uk_mhra",
+      "category": "regulation_update",
+      "title": {
+        "en": "MHRA Updates Guidance on Registering Medical Devices for Great Britain and Northern Ireland Markets",
+        "zh": "MHRA更新大不列颠及北爱尔兰市场医疗器械注册指南"
+      },
+      "summary": {
+        "en": "The UK MHRA has updated its guidance on how to register medical devices for the Great Britain and Northern Ireland markets. Manufacturers and authorised representatives must register their devices with the MHRA before placing them on the market, following class-specific routes and deadlines. The guidance addresses both UKCA and CE marking requirements for Northern Ireland.",
+        "zh": "英国MHRA更新了针对大不列颠及北爱尔兰市场医疗器械注册的指南。制造商和授权代表须在产品上市前按照不同器械类别的途径和截止日期向MHRA注册。指南涵盖了北爱尔兰地区UKCA和CE标志的相关要求，企业需确保合规以维持市场准入。"
+      },
+      "source_url": "https://www.gov.uk/guidance/register-medical-devices-to-place-on-the-market",
+      "source_name": "MHRA (UK)",
+      "published_date": "2026-07-08",
+      "detected_date": "2026-07-13T20:17:46Z",
+      "importance": "medium",
+      "tags": [
+        "medical_device_registration",
+        "mhra_guidance",
+        "uk_market_access",
+        "regulatory_update"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "uk_mhra_20260713_mhra_releases_compilation_of_field_safety_notices_for_29_jun",
+      "framework": "uk_mhra",
+      "category": "safety_communication",
+      "title": {
+        "en": "MHRA Releases Compilation of Field Safety Notices for 29 June – 3 July 2026",
+        "zh": "英国MHRA发布2026年6月29日至7月3日现场安全通知列表"
+      },
+      "summary": {
+        "en": "The UK MHRA has published its weekly summary of Field Safety Notices (FSNs) issued by medical device manufacturers during 29 June to 3 July 2026. This list covers a range of devices and includes mandatory actions such as recalls, software updates, or device inspections. Healthcare providers, device users, and distributors should review the notices to identify affected products and implement the recommended safety measures immediately.",
+        "zh": "英国药品和健康产品管理局（MHRA）发布了2026年6月29日至7月3日期间由医疗器械制造商发出的现场安全通知（FSN）汇总。该列表涵盖多种设备，包括召回、软件更新或设备检查等强制性措施。医疗机构、用户和经销商应审查这些通知，识别受影响产品并立即执行推荐的安全行动。"
+      },
+      "source_url": "https://www.gov.uk/drug-device-alerts/field-safety-notices-29-june-to-03-july-2026",
+      "source_name": "MHRA (UK)",
+      "published_date": "2026-07-07",
+      "detected_date": "2026-07-13T20:17:16Z",
+      "importance": "medium",
+      "tags": [
+        "field_safety_notice",
+        "mhra",
+        "medical_device",
+        "recall",
+        "safety_alert",
+        "uk_regulation"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
     {
       "id": "uk_mhra_20260706_mhra_updates_guidance_on_clinical_investigation_notification",
       "framework": "uk_mhra",

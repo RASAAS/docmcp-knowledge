@@ -6,6 +6,42 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### MHRA更新医疗器械特例使用授权名单，含取消与到期项目
+
+**2026-07-10** | UK MHRA | 法规更新 | !! MEDIUM
+
+英国MHRA发布了最新版获特例使用授权的医疗器械及制造商清单，同时列明了授权已到期或被取消的项目。该更新涉及依赖此类授权维持市场准入的器械制造商、进口商和医疗机构。相关组织应立即核查清单中自身供应或使用产品的状态，如授权已被撤销，需及时采取措施确保合规。
+
+**标签**: `mhra`, `exceptional_use_authorisation`, `medical_device_exemption`, `regulatory_decision`, `market_access`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/government/publications/medical-devices-given-exceptional-use-authorisations)
+
+---
+
+### MHRA更新大不列颠及北爱尔兰市场医疗器械注册指南
+
+**2026-07-08** | UK MHRA | 法规更新 | !! MEDIUM
+
+英国MHRA更新了针对大不列颠及北爱尔兰市场医疗器械注册的指南。制造商和授权代表须在产品上市前按照不同器械类别的途径和截止日期向MHRA注册。指南涵盖了北爱尔兰地区UKCA和CE标志的相关要求，企业需确保合规以维持市场准入。
+
+**标签**: `medical_device_registration`, `mhra_guidance`, `uk_market_access`, `regulatory_update`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/guidance/register-medical-devices-to-place-on-the-market)
+
+---
+
+### 英国MHRA发布2026年6月29日至7月3日现场安全通知列表
+
+**2026-07-07** | UK MHRA | 安全通报 | !! MEDIUM
+
+英国药品和健康产品管理局（MHRA）发布了2026年6月29日至7月3日期间由医疗器械制造商发出的现场安全通知（FSN）汇总。该列表涵盖多种设备，包括召回、软件更新或设备检查等强制性措施。医疗机构、用户和经销商应审查这些通知，识别受影响产品并立即执行推荐的安全行动。
+
+**标签**: `field_safety_notice`, `mhra`, `medical_device`, `recall`, `safety_alert`, `uk_regulation`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-29-june-to-03-july-2026)
+
+---
+
 ### MHRA更新医疗器械临床研究申报指南
 
 **2026-07-06** | UK MHRA | 法规更新 | !! MEDIUM

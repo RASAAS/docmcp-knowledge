@@ -6,6 +6,42 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### MHRA Updates List of Medical Devices Granted Exceptional Use Authorisations, Including Cancellations
+
+**2026-07-10** | UK MHRA | Regulation Update | !! MEDIUM
+
+The MHRA has published an updated list of manufacturers and medical devices that have received exceptional use authorisations, along with those whose exemptions have expired or been cancelled. Affected stakeholders include device manufacturers, importers, and healthcare providers who rely on such authorisations for continued market access. Organisations should review the list to confirm the current status of any devices they supply or use, and take immediate action if an authorisation has been revoked to ensure compliance.
+
+**Tags**: `mhra`, `exceptional_use_authorisation`, `medical_device_exemption`, `regulatory_decision`, `market_access`
+
+[View Source (MHRA (UK))](https://www.gov.uk/government/publications/medical-devices-given-exceptional-use-authorisations)
+
+---
+
+### MHRA Updates Guidance on Registering Medical Devices for Great Britain and Northern Ireland Markets
+
+**2026-07-08** | UK MHRA | Regulation Update | !! MEDIUM
+
+The UK MHRA has updated its guidance on how to register medical devices for the Great Britain and Northern Ireland markets. Manufacturers and authorised representatives must register their devices with the MHRA before placing them on the market, following class-specific routes and deadlines. The guidance addresses both UKCA and CE marking requirements for Northern Ireland.
+
+**Tags**: `medical_device_registration`, `mhra_guidance`, `uk_market_access`, `regulatory_update`
+
+[View Source (MHRA (UK))](https://www.gov.uk/guidance/register-medical-devices-to-place-on-the-market)
+
+---
+
+### MHRA Releases Compilation of Field Safety Notices for 29 June – 3 July 2026
+
+**2026-07-07** | UK MHRA | Safety Communication | !! MEDIUM
+
+The UK MHRA has published its weekly summary of Field Safety Notices (FSNs) issued by medical device manufacturers during 29 June to 3 July 2026. This list covers a range of devices and includes mandatory actions such as recalls, software updates, or device inspections. Healthcare providers, device users, and distributors should review the notices to identify affected products and implement the recommended safety measures immediately.
+
+**Tags**: `field_safety_notice`, `mhra`, `medical_device`, `recall`, `safety_alert`, `uk_regulation`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-29-june-to-03-july-2026)
+
+---
+
 ### MHRA Updates Guidance on Clinical Investigation Notifications for Medical Devices
 
 **2026-07-06** | UK MHRA | Regulation Update | !! MEDIUM

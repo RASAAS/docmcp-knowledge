@@ -6,6 +6,90 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### Astral 150 Ventilator Recall in Canada Due to Performance Issue Posing Ventilation Loss Risk
+
+**2026-07-09** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a recall for ResMed's Astral 150 ventilator due to a potential internal fan stall that may cause a sudden loss of ventilation therapy. The affected devices are from specific lots distributed in Canada. Users must have an alternate means of ventilation available and contact ResMed to arrange repair or replacement. Healthcare providers should immediately quarantine and identify all impacted units.
+
+**Tags**: `medical_device_recall`, `ventilator`, `astral_150`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/astral-150tm)
+
+---
+
+### Recall: Phantom® Hindfoot TTC/TC Ball Tipped Guide Rod – Sterility Issue
+
+**2026-07-09** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a safety alert for the Phantom® Hindfoot TTC/TC Ball Tipped Guide Rod due to a sterility concern. This device, used in foot and ankle surgeries, may not be sterile and poses an infection risk to patients. Healthcare facilities should immediately quarantine affected units, stop using the product, and follow the manufacturer’s recall instructions for return or disposal.
+
+**Tags**: `medical_device_recall`, `sterility`, `health_canada`, `infection_risk`, `orthopedic_device`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/phantomr-hindfoot-ttctc-ball-tipped-guide-rod)
+
+---
+
+### Health Canada Recalls ºM Warmer Medical Device Due to Performance Failure
+
+**2026-07-09** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a medical device recall/alert for the ºM Warmer due to performance issues that may compromise its intended function. The recall affects healthcare facilities and professionals using the device, as the failure could pose risks to patient safety. Users are instructed to immediately stop using the product and follow the manufacturer’s instructions for return or remediation. This safety action is part of a new batch of seven Canadian medical device alerts.
+
+**Tags**: `medical_device_recall`, `performance_issue`, `health_canada`, `patient_safety`, `warming_device`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/om-warmer)
+
+---
+
+### Philips Allura Xper FD10 Interventional X-ray System – Performance Issue Safety Alert
+
+**2026-07-08** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a safety alert regarding the Allura Xper FD10 interventional X-ray system due to a performance issue that may affect image quality and diagnostic reliability. Affected devices could potentially lead to procedural delays or misdiagnosis. Healthcare facilities should immediately verify their system's status, follow the manufacturer's corrective actions, and report any adverse events. Philips is providing inspection and remediation guidance to impacted users.
+
+**Tags**: `medical_device_recall`, `imaging_system`, `performance_issue`, `philips`, `health_canada`, `interventional_radiology`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/allura-xper-fd10)
+
+---
+
+### Health Canada Recalls Unauthorised Alice Le System Sleepware Software
+
+**2026-07-08** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a recall for the Alice Le System Sleepware Software, an unauthorised medical device used for sleep diagnostics. The software was found to be sold without the required medical device licence. Healthcare facilities should immediately stop using the product, quarantine it, and follow the manufacturer’s return or disposal instructions. Unauthorised devices may pose unknown risks to patient safety and data integrity.
+
+**Tags**: `unauthorised_device`, `sleep_diagnostic_software`, `canada_recall`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/alice-system-sleepware-software)
+
+---
+
+### Two Lots of Omnitrope Human Growth Hormone Injection Recalled in Canada Due to Cracked Cartridges
+
+**2026-07-08** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a recall for two specific lots of Omnitrope (somatropin) injectable human growth hormone after receiving reports of cracked cartridges. This defect poses a risk of compromised sterility, potentially leading to infection or reduced efficacy for patients. Healthcare professionals and users are urged to immediately stop using product from the affected lots, quarantine remaining inventory, and contact Sandoz Canada for return and replacement. The recall highlights the importance of robust container integrity for parenteral drug-device combination products.
+
+**Tags**: `recall`, `cartridge_defect`, `sterility_risk`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/two-lots-omnitrope-injectable-human-growth-hormone-recalled-due-cracked-cartridges)
+
+---
+
+### Health Canada Recalls Hotline IV Fluid Warmer System & Accessories Due to Performance Concerns
+
+**2026-07-06** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a safety alert and recall for the Hotline IV Fluid Warmer System and its accessories due to performance issues that may compromise patient safety. Affected devices can fail to deliver fluids at the intended temperature, potentially leading to patient harm. Healthcare facilities should immediately identify and quarantine affected units, discontinue use, and follow the manufacturer's instructions for return or correction.
+
+**Tags**: `medical_device_recall`, `iv_fluid_warmer`, `performance_issue`, `health_canada`, `safety_alert`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/hotline-iv-fluid-warmer-system-accessories)
+
+---
+
 ### Health Canada Recalls Omni-Tract Surgical Retractor System Due to Sterility Failure
 
 **2026-07-03** | Health Canada | Safety Communication | !!! HIGH

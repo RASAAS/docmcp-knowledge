@@ -6,6 +6,90 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### 加拿大召回Astral 150呼吸机，性能问题致通气中断风险
+
+**2026-07-09** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部因瑞思迈Astral 150呼吸机内部风扇可能停转、导致通气治疗突然中断而发布召回。受影响器械为在加拿大境内销售的特定批次，使用者须备好替代通气方式并联系瑞思迈进行维修或更换，医护人员应立即隔离并识别所有受影响的设备。
+
+**标签**: `medical_device_recall`, `ventilator`, `astral_150`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/astral-150tm)
+
+---
+
+### Phantom® 后足 TTC/TC 球头导针因无菌问题被召回
+
+**2026-07-09** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部针对 Phantom® 后足 TTC/TC 球头导针发布安全警报，原因是产品可能存在无菌问题。该导针用于足踝手术，若未达到无菌标准将增加患者感染风险。医疗机构应立即停用并隔离受影响批次的产品，按照制造商指引进行退货或处理，监管事务人员需及时落实纠正措施。
+
+**标签**: `medical_device_recall`, `sterility`, `health_canada`, `infection_risk`, `orthopedic_device`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/phantomr-hindfoot-ttctc-ball-tipped-guide-rod)
+
+---
+
+### 加拿大卫生部因性能缺陷召回ºM Warmer医疗设备
+
+**2026-07-09** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部发布了关于ºM Warmer医疗设备的召回/安全警报，原因是其性能问题可能影响设备功能，对患者安全构成风险。此次召回涉及所有使用该设备的医疗机构和人员，要求立即停止使用并按照制造商指示进行退货或修复。该警报是近期七项加拿大医疗器械召回之一。
+
+**标签**: `medical_device_recall`, `performance_issue`, `health_canada`, `patient_safety`, `warming_device`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/om-warmer)
+
+---
+
+### 飞利浦 Allura Xper FD10 介入X射线系统性能问题安全警报
+
+**2026-07-08** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部就飞利浦 Allura Xper FD10 介入X射线系统发布安全警报，涉及可能影响图像质量和诊断可靠性的性能问题。受影响的设备可能导致手术延误或误诊。医疗机构应立即核查系统状态，遵循制造商纠正措施，并报告任何不良事件。飞利浦正向受影响用户提供检查和修复指导。
+
+**标签**: `medical_device_recall`, `imaging_system`, `performance_issue`, `philips`, `health_canada`, `interventional_radiology`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/allura-xper-fd10)
+
+---
+
+### 加拿大卫生部召回未经授权的Alice Le System Sleepware软件
+
+**2026-07-08** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已对未经授权的医疗设备Alice Le System Sleepware软件发出召回通知。该软件用于睡眠诊断，但被发现未持有必需的医疗器械许可证进行销售。医疗机构应立即停用并隔离该产品，按制造商指示退回或处置。未经授权的设备可能对患者安全和数据完整性带来未知风险。
+
+**标签**: `unauthorised_device`, `sleep_diagnostic_software`, `canada_recall`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/alice-system-sleepware-software)
+
+---
+
+### 加拿大召回两批次Omnitrope人生长激素注射液，因药筒破裂
+
+**2026-07-08** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部因收到药筒破裂报告，召回两个批次的Omnitrope（生长激素）注射液。该缺陷可能导致无菌受损，给患者带来感染风险或药效下降。要求医护人员和患者立即停用受影响批次产品，隔离库存，并联系山德士加拿大公司退换。此次召回突显了肠外药械组合产品容器完整性的重要。
+
+**标签**: `recall`, `cartridge_defect`, `sterility_risk`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/two-lots-omnitrope-injectable-human-growth-hormone-recalled-due-cracked-cartridges)
+
+---
+
+### 加拿大卫生部因性能问题召回Hotline静脉输液加温器系统及配件
+
+**2026-07-06** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部发布安全警报，召回Hotline静脉输液加温器系统及其配件，原因是性能问题可能影响患者安全。受影响的设备可能无法按预期温度输送液体，存在患者伤害风险。医疗机构应立即识别、隔离受影响设备，停止使用，并按照制造商指示进行退货或修正。
+
+**标签**: `medical_device_recall`, `iv_fluid_warmer`, `performance_issue`, `health_canada`, `safety_alert`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/hotline-iv-fluid-warmer-system-accessories)
+
+---
+
 ### Omni-Tract外科牵开器系统因无菌问题被加拿大卫生部召回
 
 **2026-07-03** | Health Canada | 安全通报 | !!! HIGH
