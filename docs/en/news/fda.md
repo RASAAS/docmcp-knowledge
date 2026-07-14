@@ -6,6 +6,170 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### Pulmonary Valve Catheter Delivery System Recall: Medtronic Removes Harmony Catheter Delivery Catheter System (DCS)
+
+**2026-07-14** | FDA | cdrh_news | !! MEDIUM
+
+CDRH News
+
+[View Source (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/pulmonary-valve-catheter-delivery-system-recall-medtronic-removes-harmony-delivery-catheter-system)
+
+---
+
+### CDRH News: FDA Small Business Determination (SBD) Program Offers Reduced or Waived Medical Device User Fees
+
+**2026-07-14** | FDA | cdrh_news | !! MEDIUM
+
+This CDRH news item provides an overview of the FDA’s Small Business Determination (SBD) program, which allows qualifying small businesses to receive reduced or waived user fees for certain medical device premarket submissions. Eligible firms must meet gross receipts thresholds and submit an SBD request using Form 3602 or 3602A. The update clarifies eligibility criteria, application steps, and the need for an active SBD number before submitting a fee‑based application. Manufacturers are advised to apply early to avoid processing delays.
+
+**Tags**: `small_business`, `user_fee`, `sbd_program`, `cdrh_news`, `medical_device`
+
+[View Source (FDA)](https://www.fda.gov/medical-devices/premarket-submissions-selecting-and-preparing-correct-submission/reduced-or-waived-medical-device-user-fees-small-business-determination-sbd-program)
+
+---
+
+### Class I Recall: Insulet Corporation - Omnipod 5 Pods (POD-OMNI-I1-6720) Due to Cannula Damage and Insulin Leakage
+
+**2026-07-08** | FDA | recall_class1 | !!! HIGH
+
+Insulet Corporation is recalling 4,936,056 Omnipod 5 Pods (model POD-OMNI-I1-6720) because a manufacturing defect in the external soft cannula may cause insulin to leak around the Pod, leading to under-delivery. This Class I recall—the most serious type—poses risks of hyperglycemia and diabetic ketoacidosis. Users should immediately check their device and contact Insulet for a replacement or further guidance.
+
+**Tags**: `class_i_recall`, `insulin_pump`, `omnipod`, `cannula_damage`, `insulin_leakage`, `patient_safety`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2603-2026)
+
+---
+
+### Class I Recall: Baxter's Hillrom VOLARA System Patient Circuit Kits Recalled Due to Air and Medication Leakage from Nebulizer Cup
+
+**2026-07-08** | FDA | recall_class1 | !!! HIGH
+
+Baxter Healthcare Corporation has initiated a Class I recall for 16,187 units of its Hillrom VOLARA System P.CIRCUIT KIT AC (single patient use circuit) due to reports of air and medication leakage from the nebulizer cup. This leakage can cause a drop in the patient's oxygen level and ineffective therapy, posing a serious health hazard. The FDA classifies this as the most serious type of recall; healthcare providers should immediately stop using affected circuits, quarantine them, and return the products to Baxter.
+
+**Tags**: `class_i_recall`, `nebulizer_leakage`, `respiratory_device`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2550-2026)
+
+---
+
+### Class I Recall: Hamilton Medical AG Coaxial Breathing Circuit Set – Sticking Valve Membranes Risk Obstructed Exhalation
+
+**2026-07-08** | FDA | recall_class1 | !!! HIGH
+
+Hamilton Medical AG has initiated a Class I recall for its coaxial breathing circuit sets (REF 260127, 260128, 260167, 260168) used with Hamilton Medical ventilators. The expiratory valve membranes may stick to the valve body, an issue not detectable during pre-operative testing, causing an 'exhalation obstructed' alarm and potentially leading to ventilation failure and serious patient harm. The recall covers 27,270 units distributed in the U.S. Users should immediately quarantine the affected products, identify them by reference number, and contact the manufacturer for replacement or further instructions per the recall notice.
+
+**Tags**: `class_i_recall`, `ventilator`, `breathing_circuit`, `exhalation_valve`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2463-2026)
+
+---
+
+### Class I Recall: Insulet Corporation - Omnipod DASH Pod. Includes the below Model/REF Numbers:     1. POD-BLE-I1-525 (5
+
+**2026-07-08** | FDA | recall_class1 | !! MEDIUM
+
+Recall #Z-2604-2026 by Insulet Corporation. Reason: External soft cannula damage during manufacturing that results in insulin leaking around the Pod instead of being delivered to the user regardless of basal or bolus delivery. The primary failure mode . Quantity: 1,790,784 units.
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2604-2026)
+
+---
+
+### Class I Recall: Windstone Medical Packaging Recalls AMS7200D Surgical Kits Due to Contaminated Alcohol Prep Pads
+
+**2026-07-08** | FDA | recall_class1 | !!! HIGH
+
+Windstone Medical Packaging, Inc. is conducting a Class I recall of its AMS, Aligned Medical Solutions, Dr. Lewin Pack (Pack Number AMS7200D) surgical kits because they contain Webcol Large Alcohol Prep Pads recalled by Cardinal Health. The prep pads were found to be contaminated with Paenibacillus phoenicis, posing a risk of serious infection. Only 45 units are affected. Customers should immediately quarantine and return any affected kits to the recalling firm.
+
+**Tags**: `class_i_recall`, `windstone_medical_packaging`, `alcohol_prep_pad`, `microbial_contamination`, `surgical_kit`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2622-2026)
+
+---
+
+### Class I Recall: Windstone Medical Packaging’s AMS Thyroid FNA Pack-RX Contains Recalled Contaminated Alcohol Prep Pads
+
+**2026-07-08** | FDA | recall_class1 | !!! HIGH
+
+Windstone Medical Packaging, Inc. is recalling 200 units of Aligned Medical Solutions Thyroid FNA Pack-RX (pack number AMS17729) because the kits include Webcol Large Alcohol Prep Pads that were recalled by Cardinal Health after a contaminant, Paenibacillus phoenicis, was found during a routine sterilization dose audit. This Class I recall is the most serious type, as use of the contaminated prep pads could lead to life-threatening infections, particularly in immunocompromised patients. The products were distributed to medical facilities performing thyroid fine-needle aspiration procedures. Customers must immediately stop using the kits, quarantine all affected units, and return them to Windstone Medical Packaging.
+
+**Tags**: `class_i_recall`, `contaminated_device`, `alcohol_prep_pad`, `thyroid_fna_kit`, `windstone_medical`, `paenibacillus_phoenicis`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2620-2026)
+
+---
+
+### Class I Recall: Baxter's Hillrom VOLARA System Circuit Kits – Nebulizer Cup Leakage Can Drop Patient Oxygen Levels
+
+**2026-07-08** | FDA | recall_class1 | !!! HIGH
+
+Baxter Healthcare Corporation has issued a Class I recall for 13,881 units of its Hillrom VOLARA System P.CIRCUIT 5KIT AC single-patient use circuits. Air and medication leakage from the nebulizer cup during therapy may cause a drop in the patient's oxygen level and reduce treatment effectiveness. This recall, the most serious type, requires healthcare providers to immediately cease using affected circuits, quarantine them, and follow Baxter's return or disposal instructions. No injuries have been reported yet, but the hazard is significant.
+
+**Tags**: `class_i_recall`, `fda`, `baxter`, `volara`, `respiratory_device`, `safety_alert`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2551-2026)
+
+---
+
+### Medtronic Recalls Harmony Delivery Catheter System Due to Distal Tip Detachment Risk (Class I Recall)
+
+**2026-07-08** | FDA | recall_class1 | !!! HIGH
+
+The FDA has classified Medtronic Heart Valves Division's recall of its Harmony Delivery Catheter System as Class I due to a potential for distal tip detachment from specific manufacturing lots. This issue may lead to embolization, vascular injury, or the need for emergency surgical intervention. A total of 1,881 units are affected. Healthcare providers should immediately stop using the affected lots, quarantine the products, and follow Medtronic's instructions for return and patient management.
+
+**Tags**: `class_i_recall`, `medtronic`, `harmony_delivery_catheter`, `tip_detachment`, `fda_recall`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2624-2026)
+
+---
+
+### Medline Industries Recalls Reprocessed Electrophysiology and Ultrasound Catheters Due to Particulate Contamination (Z-2615-2026)
+
+**2026-07-08** | FDA | recall_class1 | !!! HIGH
+
+Medline Industries, LP is conducting a Class I recall of specific lots of reprocessed electrophysiology and ultrasound catheters (Recall #Z-2615-2026). The devices may contain small residual particles on patient-contacting surfaces, posing a risk of embolization or other serious harm if used. This recall expands RES 98277 and affects 3 units. Healthcare facilities should immediately quarantine affected products and follow the firm’s return or disposal instructions.
+
+**Tags**: `class_i_recall`, `particulate_contamination`, `reprocessed_catheters`, `patient_safety_hazard`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2615-2026)
+
+---
+
+### Class I Recall: Windstone Medical DSAEK Pack-RX Kits with Contaminated Alcohol Prep Pads
+
+**2026-07-08** | FDA | recall_class1 | !!! HIGH
+
+Windstone Medical Packaging, Inc. is recalling 1,080 DSAEK Pack-RX surgical kits (Pack Number AMS12394B) because they include Webcol Large Alcohol Prep Pads that were recalled by Cardinal Health after routine sterilization audits detected Paenibacillus phoenicis contamination. Use of the affected kits could lead to serious infections in surgical patients. Healthcare providers should immediately quarantine all kits, stop usage, and return them to the recalling firm.
+
+**Tags**: `class_i_recall`, `surgical_kit`, `alcohol_prep_pad`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2619-2026)
+
+---
+
+### Class I Recall: Windstone Medical Packaging Preop Kit-NS (AMS18227) Due to Contaminated Alcohol Prep Pads
+
+**2026-07-08** | FDA | recall_class1 | !!! HIGH
+
+Windstone Medical Packaging, Inc. has issued a Class I recall for ALIGNED MEDICAL SOLUTIONS Preop Kit-NS, pack number AMS18227, following the contamination of included Webcol Large Alcohol Prep Pads with Paenibacillus phoenicis. The pads were previously recalled by Cardinal Health after the contaminant was discovered during a routine sterilization dose audit, posing a risk of serious infection. The recall covers 200 units distributed in the U.S. Users should immediately quarantine and discontinue use of the affected kits, and return them to the recalling firm.
+
+**Tags**: `class_i_recall`, `contamination`, `surgical_prep_kit`, `alcohol_prep_pad`, `paenibacillus_phoenicis`, `windstone_medical_packaging`, `aligned_medical_solutions`, `recall_z-2621-2026`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2621-2026)
+
+---
+
+### Class I Recall: Insulet Corporation - Omnipod (Eros) Pod due to Cannula Damage and Insulin Leakage
+
+**2026-07-08** | FDA | recall_class1 | !!! HIGH
+
+Insulet Corporation is recalling 289,046 units of its Omnipod (Eros) Pod (model POD-ZXP425) due to external soft cannula damage during manufacturing, which can cause insulin to leak around the Pod instead of being delivered, potentially leading to under-delivery and hyperglycemia. The FDA has classified this as a Class I recall, the most serious type, indicating a reasonable probability of serious adverse health consequences or death. Users should immediately inspect their Pods, discontinue use of affected lots, and contact Insulet for replacements while monitoring blood glucose closely.
+
+**Tags**: `class_i_recall`, `omnipod`, `insulin_pump`, `cannula_damage`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2605-2026)
+
+---
+
 ### FDA Class I Recall: Insulet Removes Omnipod Pods Insulin Pump Due to Under-Delivery Risk
 
 **2026-07-03** | FDA | cdrh_news | !!! HIGH
@@ -76,6 +240,40 @@ Recall #Z-2452-2026 by Medline Industries, LP. Reason: The Medline Convenience K
 
 ---
 
+### Class I Recall: Medline Industries, LP - Medline Convenience Kits:   1) DRAWER 6A ADULT CENTRAL LINE, Model Number: ACC0
+
+**2026-07-01** | FDA | recall_class1 | !! MEDIUM
+
+Recall #Z-2455-2026 by Medline Industries, LP. Reason: The Medline Convenience Kits contain Arrow Kits and Sets that include Lidocaine Hydrochloride Injection, USP and Bupivacaine Hydrochloride in Dextrose Injection, USP which were recalled due to quality. Quantity: 503 units.
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2455-2026)
+
+---
+
+### Class I Recall: Medline Convenience Kit 'DRAWER 6 CENTRAL LINE INSERTIO' (ACC) with Recalled Lidocaine and Bupivacaine Injections
+
+**2026-07-01** | FDA | recall_class1 | !!! HIGH
+
+Medline Industries, LP is recalling 233 units of its Convenience Kits (DRAWER 6 CENTRAL LINE INSERTIO, Model ACC) because they contain Arrow Kits with recalled Lidocaine Hydrochloride Injection, USP and Bupivacaine Hydrochloride in Dextrose Injection, USP. The recalled anesthetic injections pose potential serious health risks due to quality defects, including infection, non-sterility, or adverse patient outcomes. This is a Class I recall, the most serious type. Healthcare providers must immediately stop using affected kits, quarantine them, and contact Medline for return or disposal instructions.
+
+**Tags**: `class_i_recall`, `medline`, `convenience_kits`, `lidocaine_recall`, `bupivacaine_recall`, `arrow_kits`, `drug_quality_defect`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2454-2026)
+
+---
+
+### Class I Recall: Abiomed Impella CP Set with SmartAssist (10th Gen) Over Introducer Thrombus Risk
+
+**2026-07-01** | FDA | recall_class1 | !!! HIGH
+
+Abiomed, Inc. has issued a Class I recall for 7 units of the Impella CP Set with SmartAssist (10th Generation) due to a potential for thrombus formation during prolonged use of the introducer. This defect could lead to serious patient injury or death. Users should immediately quarantine and discontinue use of affected devices and follow the firm's recall instructions. Distribution was limited to a small number of facilities.
+
+**Tags**: `class_i_recall`, `impella_cp`, `thrombus_risk`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2602-2026)
+
+---
+
 ### FDA Title 21 CFR Update: Medical Device Parts 800-898 Revised (June 26, 2026)
 
 **2026-06-30** | FDA | Regulation Update | !! MEDIUM
@@ -85,6 +283,18 @@ The FDA has updated Title 21 of the Code of Federal Regulations (CFR), with the 
 **Tags**: `fda`, `cfr_title_21`, `medical_device_regulations`
 
 [View Source (eCFR)](https://www.ecfr.gov/current/title-21)
+
+---
+
+### Boston Scientific Recalls Rapid Refill Continuous Injection System Due to Risk of Syringe Disconnection from Manifold
+
+**2026-06-30** | FDA | Safety Communication | !!! HIGH
+
+The FDA announced a recall of Boston Scientific's Rapid Refill Continuous Injection System (UPN M00566001) because it contains a recalled Medline Namic Angiographic Control Syringe with Rotating Adaptor. The syringe may loosen or completely disconnect from the manifold, potentially causing therapy interruption, blood loss, or air embolism. Healthcare providers should immediately quarantine affected devices and follow Boston Scientific's recall instructions.
+
+**Tags**: `device_recall`, `fda_safety_alert`, `syringe_disconnection`, `boston_scientific`, `class_i_recall`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=221336)
 
 ---
 
