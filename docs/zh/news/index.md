@@ -6,6 +6,30 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### 日本尼普洛NAZ-1血液净化装置二级召回（编号2-12897）
+
+**2026-07-15** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA发布了对尼普洛株式会社NAZ-1多用途血液处理装置的二级（中等风险）召回，召回编号2-12897。该通知未详细说明具体安全问题和纠正措施，相关医疗机构和使用者应查阅官方PMDA召回公告以获取完整指引。
+
+**标签**: `japan`, `class_ii_recall`, `blood_purification_device`, `nipro`, `pmda`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12897)
+
+---
+
+### PMDA二级召回尼普洛SafeTech Pro注射泵单元
+
+**2026-07-15** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA对尼普洛公司生产的SafeTech Pro注射泵单元（注射筒输液泵）发布了II类召回（召回编号2-12896）。此次召回涉及可能影响输液精准度或设备可靠性的潜在性能问题。使用该设备的医疗机构应立即查看召回通知，识别指定序列号的产品，并按照尼普洛公司的指导进行检查、维修或更换等纠正措施。
+
+**标签**: `pmda_recall`, `class_ii`, `syringe_pump`, `infusion_pump`, `nipro`, `medical_device`, `safety_correction`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12896)
+
+---
+
 ### Pulmonary Valve Catheter Delivery System Recall: Medtronic Removes Harmony Catheter Delivery Catheter System (DCS)
 
 **2026-07-14** | FDA | cdrh_news | !! MEDIUM
@@ -28,6 +52,54 @@ CDRH News
 
 ---
 
+### II级召回：波士顿科学日本 OverStitch 一次性自动缝合器
+
+**2026-07-14** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA发布了一项II级召回（编号2-12894），涉及波士顿科学日本公司生产的OverStitch一次性自动缝合器。召回原因为可能影响术中器械功能的潜在安全或性能问题。受影响医疗机构应立即隔离未使用的器械，停止使用，并联系制造商进行退回或妥当处置。此次召回为中等风险，需迅速响应以避免患者伤害。
+
+**标签**: `class_ii_recall`, `surgical_suture_device`, `boston_scientific`, `pmda`, `medical_device_safety`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12894)
+
+---
+
+### 日本PMDA第2-12893号召回：ResMed公司Clean Air ASTRAL成人呼吸机（II类召回）
+
+**2026-07-14** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA发布了对ResMed公司生产的Clean Air ASTRAL成人呼吸机的II类召回（编号2-12893）。此次召回涉及可能影响设备性能的潜在安全隐患，对患者构成中等风险。医疗机构应立即核查受影响设备，必要时停止使用，并联系制造商进行检查、维修或更换。
+
+**标签**: `japan_pmda`, `class_ii_recall`, `ventilator`, `resmed`, `safety`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12893)
+
+---
+
+### 日本PMDA II类召回：TKB公司ダイラソフト宫颈扩张器
+
+**2026-07-13** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA发布了一项针对TKB株式会社生产的ダイラソフト子宫颈管扩张器的II类召回。该召回针对可能影响器械安全或性能的质量问题。医疗机构应立即停用并隔离受影响产品，并退回制造商。
+
+**标签**: `japan_pmda`, `class_ii_recall`, `cervical_dilator`, `medical_device`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12888)
+
+---
+
+### Atom Medical FSV中央监护仪II类召回（编号2-12887）
+
+**2026-07-13** | Japan PMDA | 安全通报 | !! MEDIUM
+
+Atom Medical Corporation因其FSV中央监护仪存在可能影响设备性能的潜在安全问题，已发布II类召回（编号2-12887）。相关医疗机构应立即停止使用受影响设备，并按照制造商的指示进行退货或修正。详细的召回通知已在PMDA官网上公布。
+
+**标签**: `recall`, `class_ii`, `central_monitor`, `atom_medical`, `patient_monitoring`, `japan_pmda`, `medical_device_safety`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12887)
+
+---
+
 ### MHRA更新医疗器械特例使用授权名单，含取消与到期项目
 
 **2026-07-10** | UK MHRA | 法规更新 | !! MEDIUM
@@ -37,6 +109,18 @@ CDRH News
 **标签**: `mhra`, `exceptional_use_authorisation`, `medical_device_exemption`, `regulatory_decision`, `market_access`
 
 [查看来源 (MHRA (UK))](https://www.gov.uk/government/publications/medical-devices-given-exceptional-use-authorisations)
+
+---
+
+### II类召回：可乐丽则武齿科陶瓷材料 Cerabian ZR（セラビアンＺＲ）
+
+**2026-07-10** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本药品和医疗器械管理局（PMDA）发布了一项II类召回（编号2-12886），涉及可乐丽则武齿科株式会社生产的牙科陶瓷材料Cerabian ZR（セラビアンＺＲ）。该召回针对特定的质量或安全问题，详情应查阅官方通知。受影响用户须立即停用相关批次产品，并联系制造商采取相应的纠正措施。
+
+**标签**: `dental_porcelain`, `class_ii_recall`, `japan_pmda`, `medical_device`, `cerabian_zr`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12886)
 
 ---
 
@@ -85,6 +169,18 @@ CDRH News
 **标签**: `medical_device_recall`, `performance_issue`, `health_canada`, `patient_safety`, `warming_device`
 
 [查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/om-warmer)
+
+---
+
+### II类召回：Fukuda电子伺服呼吸机系统（通用呼吸器）
+
+**2026-07-09** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA就Fukuda电子株式会社生产的伺服呼吸机系统（通用呼吸器）发布II类召回（编号2-12885），原因为潜在安全问题。使用该设备的医疗机构应立即查阅召回通知，并按照制造商的纠正措施执行。
+
+**标签**: `pmda_recall`, `class_ii`, `ventilator`, `fukuda_denshi`, `medical_device_safety`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12885)
 
 ---
 

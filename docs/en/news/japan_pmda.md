@@ -6,6 +6,102 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### Class II Recall for Nipro NAZ-1 Blood Purification Device in Japan (Recall No. 2-12897)
+
+**2026-07-15** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Japan's PMDA has issued a Class II (moderate risk) recall for the NAZ-1 multi-purpose blood processing device by Nipro Corporation. The alert references recall number 2-12897, though the specific safety issue and corrective actions were not detailed in the initial notification. Healthcare facilities and users of this device should review the official PMDA recall notice for full instructions.
+
+**Tags**: `japan`, `class_ii_recall`, `blood_purification_device`, `nipro`, `pmda`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12897)
+
+---
+
+### PMDA Class II Recall: Nipro SafeTech Pro Syringe Pump Unit
+
+**2026-07-15** | Japan PMDA | Safety Communication | !! MEDIUM
+
+The Japanese PMDA issued a Class II recall (No. 2-12896) for the SafeTech Pro Syringe Pump Unit, a syringe-type infusion pump manufactured by Nipro Corporation. The recall addresses a potential performance issue that could affect infusion accuracy or device reliability. Affected healthcare facilities should immediately review the recall notice, identify devices with the specified serial numbers, and follow Nipro's instructions for corrective action such as inspection, repair, or replacement.
+
+**Tags**: `pmda_recall`, `class_ii`, `syringe_pump`, `infusion_pump`, `nipro`, `medical_device`, `safety_correction`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12896)
+
+---
+
+### Class II Recall: Boston Scientific Japan OverStitch Single-Use Automatic Suturing Device
+
+**2026-07-14** | Japan PMDA | Safety Communication | !! MEDIUM
+
+The Japanese PMDA has issued a Class II recall (No. 2-12894) for the OverStitch single-use automatic suturing device, manufactured by Boston Scientific Japan. The recall addresses a potential safety or performance issue that could compromise device function during use. Affected healthcare facilities should immediately quarantine unused devices, discontinue use, and contact the manufacturer for return or proper disposal. This moderate-risk recall requires prompt action to prevent patient harm.
+
+**Tags**: `class_ii_recall`, `surgical_suture_device`, `boston_scientific`, `pmda`, `medical_device_safety`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12894)
+
+---
+
+### Class II Recall: Clean Air ASTRAL Adult Ventilator by ResMed Ltd. (Japan PMDA Recall No. 2-12893)
+
+**2026-07-14** | Japan PMDA | Safety Communication | !! MEDIUM
+
+The Japan PMDA has issued a Class II recall (No. 2-12893) for the Clean Air ASTRAL adult ventilator manufactured by ResMed Ltd. This recall is due to a potential safety concern that could affect device performance, posing a moderate risk to patients. Healthcare facilities should immediately identify affected units, discontinue use if necessary, and contact the manufacturer for inspection, repair, or replacement as appropriate.
+
+**Tags**: `japan_pmda`, `class_ii_recall`, `ventilator`, `resmed`, `safety`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12893)
+
+---
+
+### Japan PMDA Class II Recall: Dilasoft Cervical Dilator by TKB Co., Ltd.
+
+**2026-07-13** | Japan PMDA | Safety Communication | !! MEDIUM
+
+The PMDA has issued a Class II recall for the Dilasoft cervical dilator (子宮頚管拡張器) manufactured by TKB Co., Ltd. (株式会社ＴＫＢ). This recall addresses a potential quality issue that could affect device safety or performance. Healthcare providers should immediately quarantine and return affected units to the manufacturer.
+
+**Tags**: `japan_pmda`, `class_ii_recall`, `cervical_dilator`, `medical_device`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12888)
+
+---
+
+### Class II Recall: Atom Medical FSV Central Monitor (Recall #2-12887)
+
+**2026-07-13** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Atom Medical Corporation has issued a Class II recall (No. 2-12887) for its FSV Central Monitor due to a potential safety issue that could affect device performance. Affected devices should be immediately taken out of service, and healthcare facilities should follow the manufacturer's instructions for return or corrective action. The recall notice is posted on the PMDA website for further details.
+
+**Tags**: `recall`, `class_ii`, `central_monitor`, `atom_medical`, `patient_monitoring`, `japan_pmda`, `medical_device_safety`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12887)
+
+---
+
+### Class II Recall: Cerabian ZR Dental Porcelain by Kuraray Noritake Dental Inc.
+
+**2026-07-10** | Japan PMDA | Safety Communication | !! MEDIUM
+
+The Japanese PMDA has issued a Class II recall (No. 2-12886) for Cerabian ZR, a dental porcelain product manufactured by Kuraray Noritake Dental Inc. The recall addresses a specific quality or safety concern; healthcare professionals should consult the official notice for details. Affected users must immediately stop using the involved lots and contact the manufacturer for appropriate corrective actions.
+
+**Tags**: `dental_porcelain`, `class_ii_recall`, `japan_pmda`, `medical_device`, `cerabian_zr`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12886)
+
+---
+
+### Class II Recall: Fukuda Denshi Servo Ventilator System (General-Purpose Ventilator)
+
+**2026-07-09** | Japan PMDA | Safety Communication | !! MEDIUM
+
+The Japanese PMDA has issued a Class II recall (No. 2-12885) for the Servo Ventilator System, a general-purpose ventilator manufactured by Fukuda Denshi Co., Ltd., due to a potential safety issue. Healthcare facilities using this device should immediately review the recall notice and follow the manufacturer’s instructions for corrective action.
+
+**Tags**: `pmda_recall`, `class_ii`, `ventilator`, `fukuda_denshi`, `medical_device_safety`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12885)
+
+---
+
 ### Class II Recall of Noritsu Precision Enteral Feeding Pump CP-55E (Enteral Nutrition Infusion Pump) in Japan
 
 **2026-07-07** | Japan PMDA | Safety Communication | !! MEDIUM
