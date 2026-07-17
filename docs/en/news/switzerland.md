@@ -36,6 +36,220 @@ title: Regulatory News
 
 ## Latest Updates
 
+### Swissmedic FSCA: Philips Cardiac Workstation 7000 Electrocardiograph, Model 860441 (Reason Not Specified)
+
+**2026-07-15** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has issued a Field Safety Corrective Action (FSCA) for the Philips Medizin Systeme Böblingen GmbH Cardiac Workstation 7000, a professional multichannel electrocardiograph, model 860441. The specific reason for the corrective action was not detailed in the public notice. Users should contact Philips or their local representative for the necessary corrective measures, which may involve a software update, hardware inspection, or other risk mitigation steps to ensure device safety and performance.
+
+**Tags**: `switzerland`, `fsca`, `electrocardiograph`, `philips`, `safety_corrective_action`, `medical_device`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260702_031)
+
+---
+
+### Philips Cardiac Workstation 5000 (Model 860439) Swissmedic Field Safety Corrective Action
+
+**2026-07-15** | Swissmedic | Safety Communication | !! MEDIUM
+
+Philips Medizin Systeme Böblingen GmbH has issued a Field Safety Corrective Action (FSCA) for the Cardiac Workstation 5000, a professional multichannel electrocardiograph. The affected model is 860439. While the specific reason was not detailed in the Swissmedic notice, users should contact Philips or follow the manufacturer's instructions for required actions. This FSCA is registered under Swissmedic reference Vk_20260702_031.
+
+**Tags**: `fsca`, `swissmedic`, `electrocardiograph`, `philips`, `medical_device`, `field_safety_corrective_action`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260702_031)
+
+---
+
+### Swissmedic FSCA for Covidien BOX BYPASS KIT (Model BOX09222V1) – December 2025 Action
+
+**2026-07-15** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic issued a Field Safety Corrective Action (FSCA) for the BOX BYPASS KIT, model BOX09222V1, manufactured by Covidien llc. The notice, dated December 2025, alerts users to a safety-related issue requiring corrective measures. Affected healthcare facilities should immediately review the manufacturer's instructions, which may involve product inspection, quarantine, or return. Detailed rationale and required actions are provided in the full FSCA, accessible via Swissmedic's portal.
+
+**Tags**: `swissmedic`, `fsca`, `covidien`, `box_bypass_kit`, `safety_corrective_action`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260708_010)
+
+---
+
+### Swissmedic FSCA: Covidien V-Loc 180 Bioabsorbable Sutures – Models VLOCL0024, VLOCL0306, and Others
+
+**2026-07-15** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic has published a Field Safety Corrective Action (FSCA) for specified models of the V-Loc 180 polyester, bioabsorbable, monofilament, non-antimicrobial suture manufactured by Covidien llc. The affected model numbers are VLOCL0024, VLOCL0306, VLOCL0316, VLOCL0604, VLOCL0644, VLOCL0804, VLOCL2105, VLOCL2145, and VLOCL2246. While the notice does not detail the specific reason, healthcare facilities should identify and quarantine the affected products and follow the manufacturer's instructions to prevent potential patient risk.
+
+**Tags**: `swissmedic`, `fsca`, `covidien`, `v_loc_180`, `suture`, `recall`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260708_010)
+
+---
+
+### Swissmedic FSCA: V-Loc 90 Barbed Suture by Covidien llc (Models VLOCM0003, VLOCM0013, VLOCM0604)
+
+**2026-07-15** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic has issued a Field Safety Corrective Action for V-Loc 90, a barbed polyester suture manufactured by Covidien llc. The affected models are VLOCM0003, VLOCM0013, and VLOCM0604. While the specific reason was not detailed in the notice, healthcare facilities should identify and quarantine affected lots, and follow the manufacturer's instructions for return or correction.
+
+**Tags**: `barbed_suture`, `field_safety_corrective_action`, `swissmedic`, `covidien`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260708_010)
+
+---
+
+### Swissmedic FSCA on Medtronic MiniMed 640G Insulin Pump Models MMT-1711, MMT-1712
+
+**2026-07-15** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic has issued a Field Safety Corrective Action (FSCA) for Medtronic MiniMed 640G ambulatory insulin infusion pumps, covering electronic pump models MMT-1711 and MMT-1712. The reason for the corrective action is not publicly detailed in the notification. Users and healthcare professionals should follow the manufacturer's immediate recommendations and contact Medtronic for further instructions.
+
+**Tags**: `fsca`, `swissmedic`, `insulin_pump`, `medtronic`, `corrective_action`, `safety`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260713_059)
+
+---
+
+### Swissmedic FSCA: Medtronic MiniMed 670G Insulin Pump – Software-Dosing Scalar Algorithm Correction
+
+**2026-07-15** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic has published a Field Safety Corrective Action (FSCA) for the Medtronic MiniMed 670G ambulatory insulin infusion pump (models MMT-1781, MMT-1782) due to a potential issue in the software-dosing scalar algorithm. Healthcare professionals and patients using the affected devices should immediately consult the manufacturer’s instructions to mitigate any insulin delivery risk. Medtronic is expected to provide a software correction or other remedial actions.
+
+**Tags**: `swissmedic`, `fsca`, `insulin_pump`, `software_correction`, `medtronic`, `recall`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260713_059)
+
+---
+
+### Swissmedic FSCA: Medtronic MiniMed 780G Insulin Pump Software-Dosing Algorithm Correction
+
+**2026-07-15** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic issued a Field Safety Corrective Action for the Medtronic MiniMed 780G ambulatory insulin infusion pump (models MMT-1885CLW and MMT-1886CLW) due to a potential issue with its electronic software-dosing scalar algorithm. The corrective action aims to mitigate risks associated with the affected software. Users and healthcare providers are advised to contact Medtronic for the recommended corrective steps, which may include software updates or device inspection.
+
+**Tags**: `swissmedic`, `fsca`, `insulin_pump`, `medtronic`, `software_correction`, `medical_device_safety`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260713_059)
+
+---
+
+### Swissmedic FSCA: Hollister Onli & Infyna Hydrophilic Intermittent Catheters – Safety Correction
+
+**2026-07-15** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic has published a Field Safety Corrective Action (FSCA) for specific models of Hollister Incorporated's Onli and Infyna hydrophilic urethral intermittent catheters. The action affects multiple catalog numbers including 82081, 82121, 88081, 82084, 85124, and others listed in the notice. Affected devices are single-administration urethral drainage catheters, and users should immediately follow the manufacturer's instructions provided in the field safety notice. No specific reason is publicly detailed, but the corrective action indicates a potential risk requiring risk mitigation measures.
+
+**Tags**: `fsca`, `swissmedic`, `catheter_recall`, `hollister`, `urology_device`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260714_001)
+
+---
+
+### Swissmedic FSCA: Shimadzu Diagnostic X-ray System Generators UD150B-40/UD150V-40/UD150L-40/UD150L-40E/F
+
+**2026-07-15** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has issued a Field Safety Corrective Action (FSCA) for Shimadzu stationary diagnostic X-ray system generators, models UD150B-40, UD150V-40, UD150L-40, and UD150L-40E/F. The notice does not specify the reason for the corrective action. Affected users should refer to Swissmedic case number Vk_20260713_052 for required actions.
+
+**Tags**: `fsca`, `swissmedic`, `x-ray`, `diagnostic_imaging`, `shimadzu`, `medical_device_correction`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260713_052)
+
+---
+
+### Swissmedic FSCA: Kröber O2 Oxygen Concentrator – Correction of Duplicate Model/Catalog Numbers
+
+**2026-07-14** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic issued a Field Safety Corrective Action (FSCA) for Kröber O2 oxygen concentrators (models KRO2.00, KR4.00) because duplicate entries in model and catalog numbers have been corrected. This is a documentation correction and does not involve a product recall. Affected users and distributors should refer to the updated manufacturer information to ensure correct identification of the devices.
+
+**Tags**: `swissmedic`, `fsca`, `oxygen_concentrator`, `kroeber`, `model_correction`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260713_013)
+
+---
+
+### Swissmedic FSCA: Schiller AG SEMA Clinical Data Interfacing Software (Models 0A.602010, 0A.602030, 0A.602000, 0A.602020)
+
+**2026-07-14** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has issued a Field Safety Corrective Action (FSCA) for Schiller AG's SEMA medical equipment clinical data interfacing software. The affected models are 0A.602010, 0A.602030, 0A.602000, and 0A.602020. While the specific reason for the corrective action was not detailed in the public notice, users should review the FSCA documentation and follow any manufacturer or Swissmedic recommendations.
+
+**Tags**: `medical_device`, `fsca`, `swissmedic`, `software`, `clinical_data`, `schiller`, `product_correction`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260706_028)
+
+---
+
+### Swissmedic FSCA: Boston Scientific OverStitch Suture Cinch Models M00505530 and M00505540
+
+**2026-07-14** | Swissmedic | Safety Communication | !! MEDIUM
+
+The Swiss Agency for Therapeutic Products (Swissmedic) issued a Field Safety Corrective Action for the OverStitch Suture Cinch, a single-use suture/ligature tightener manufactured by Boston Scientific Corporation. The affected models are M00505530 (GTIN: 00191506060046) and M00505540 (GTIN: 00191506049171). The specific reason for the corrective action was not detailed in the notification, but users should follow the manufacturer's instructions. Affected devices should be identified, quarantined, and handled per Boston Scientific's guidance.
+
+**Tags**: `medical_device`, `fsca`, `switzerland`, `suture_tightener`, `boston_scientific`, `recall`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260713_034)
+
+---
+
+### Swissmedic FSCA for Boston Scientific Suture Cinch–Long (Model M00505550)
+
+**2026-07-14** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has issued a Field Safety Corrective Action for the Boston Scientific Suture Cinch–Long, a single-use suture/ligature tightener, model M00505550 (GTIN: 00191506049188). The reason for the corrective action is not specified in this notification. Healthcare facilities using this device should follow the manufacturer’s instructions, which may include quarantine and return of affected units.
+
+**Tags**: `field_safety_corrective_action`, `swissmedic`, `surgical_device`, `boston_scientific`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260713_034)
+
+---
+
+### Swissmedic FSCA for Maquet Critical Care Flow-i and Flow-e Anesthesia Workstations
+
+**2026-07-14** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has issued a Field Safety Corrective Action for Maquet Critical Care AB's Flow-i C20, C30, C40, Flow-c, and Flow-e general-purpose anesthesia workstations. The notice identifies affected model numbers and article codes, including various Flow-i configurations. Users should consult the manufacturer's correction instructions and implement the recommended actions to maintain device safety and performance.
+
+**Tags**: `swissmedic`, `fsca`, `anesthesia_workstation`, `maquet_critical_care`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260703_019)
+
+---
+
+### FSCA: Fritz Stephan GmbH Eve Neo Ventilators, Models 107061420 & 107061401
+
+**2026-07-14** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic has issued a Field Safety Corrective Action (FSCA) for Fritz Stephan GmbH's Eve Neo adult and paediatric/neonatal pulmonary ventilators, affecting models 107061420 and 107061401. The specific reason for the corrective action was not detailed in the public notice, but it involves a safety-related issue. Affected users should immediately consult the manufacturer's instructions provided through the FSCA and implement any required corrective measures to ensure safe device operation.
+
+**Tags**: `swissmedic`, `fsca`, `ventilator`, `field_safety_corrective_action`, `fritz_stephan`, `eve_neo`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260710_036)
+
+---
+
+### Safety Alert: Oxylog 600 Ventilators from Fritz Stephan GmbH (Models 107161400, 107161401)
+
+**2026-07-14** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic issued a Field Safety Corrective Action (FSCA) for Oxylog 600 adult and paediatric/neonatal pulmonary ventilators manufactured by Fritz Stephan GmbH. The action affects models 107161400 and 107161401. The specific reason was not detailed in this alert, but users should follow the manufacturer's safety notice and implement any required corrective measures immediately.
+
+**Tags**: `fsca`, `ventilator`, `safety_alert`, `swissmedic`, `recall`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260710_036)
+
+---
+
+### Eve In - Fritz Stephan GmbH
+
+**2026-07-14** | Swissmedic | Safety Communication | !! MEDIUM
+
+FSCA: MD: Adult and paediatric/neonatal pulmonary ventilators. Reason: . Model: 107061410, 107061411; .
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260710_036)
+
+---
+
 ### BLEPHADEMODEX Sterile Skin-Cleaning Wipe: Swissmedic FSCA by Laboratoires ThÃ©a
 
 **2026-07-10** | Swissmedic | Safety Communication | !!! HIGH

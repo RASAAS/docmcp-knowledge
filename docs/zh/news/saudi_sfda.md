@@ -40,6 +40,18 @@ title: 法规速递
 
 ## 最新动态
 
+### 沙特SFDA NCMDR每周安全更新WU2629（2026年7月12日）
+
+**2026-07-12** | Saudi SFDA | 安全通报 | !! MEDIUM
+
+沙特食品药品管理局（SFDA）国家医疗器械报告中心（NCMDR）于2026年7月12日发布每周安全更新WU2629，汇总了当周医疗器械现场安全通告、召回和安全警示。报告列明了受影响的设备和制造商，所有相关方包括进口商、经销商和医疗机构应立即查阅通告并采取必要纠正措施，确保合规与患者安全。
+
+**标签**: `saudi_sfda`, `ncmdr`, `weekly_update`, `medical_device_safety`, `field_safety_notice`
+
+[查看来源 (FDA)](https://www.sfda.gov.sa/sites/default/files/2026-07/%28WU2629%29%20NCMDR%20Weekly%20Update%2012%20July%202026.pdf)
+
+---
+
 ### 沙特SFDA NCMDR发布第WU2628期每周安全更新（2026年7月5日）
 
 **2026-07-05** | Saudi SFDA | 安全通报 | !! MEDIUM

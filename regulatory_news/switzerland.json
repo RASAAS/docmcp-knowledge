@@ -1,7 +1,495 @@
 {
   "framework": "switzerland",
-  "last_updated": "2026-07-10T20:16:38Z",
+  "last_updated": "2026-07-17T20:03:44Z",
   "items": [
+    {
+      "id": "switzerland_20260717_swissmedic_fsca_philips_cardiac_workstation_7000_electrocard",
+      "framework": "switzerland",
+      "category": "safety_communication",
+      "title": {
+        "en": "Swissmedic FSCA: Philips Cardiac Workstation 7000 Electrocardiograph, Model 860441 (Reason Not Specified)",
+        "zh": "瑞士Swissmedic发布Philips Cardiac Workstation 7000心电图机（型号860441）现场安全纠正措施（原因未详）"
+      },
+      "summary": {
+        "en": "Swissmedic has issued a Field Safety Corrective Action (FSCA) for the Philips Medizin Systeme Böblingen GmbH Cardiac Workstation 7000, a professional multichannel electrocardiograph, model 860441. The specific reason for the corrective action was not detailed in the public notice. Users should contact Philips or their local representative for the necessary corrective measures, which may involve a software update, hardware inspection, or other risk mitigation steps to ensure device safety and performance.",
+        "zh": "瑞士药品监督管理局Swissmedic发布了针对Philips Medizin Systeme Böblingen GmbH生产的Cardiac Workstation 7000专业多通道心电图机（型号860441）的现场安全纠正措施（FSCA）。公开通知中未说明具体原因。用户应联系飞利浦或其当地代表，获取必要的纠正措施（可能涉及软件更新、硬件检查或其他风险缓解步骤），以确保设备安全与性能。"
+      },
+      "source_url": "https://fsca.swissmedic.ch/mep/#?q=Vk_20260702_031",
+      "source_name": "Swissmedic",
+      "published_date": "2026-07-15",
+      "detected_date": "2026-07-17T19:59:03Z",
+      "importance": "medium",
+      "tags": [
+        "switzerland",
+        "fsca",
+        "electrocardiograph",
+        "philips",
+        "safety_corrective_action",
+        "medical_device"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "switzerland_20260717_philips_cardiac_workstation_5000_model_860439_swissmedic_fie",
+      "framework": "switzerland",
+      "category": "safety_communication",
+      "title": {
+        "en": "Philips Cardiac Workstation 5000 (Model 860439) Swissmedic Field Safety Corrective Action",
+        "zh": "飞利浦Cardiac Workstation 5000（型号860439）现场安全纠正措施"
+      },
+      "summary": {
+        "en": "Philips Medizin Systeme Böblingen GmbH has issued a Field Safety Corrective Action (FSCA) for the Cardiac Workstation 5000, a professional multichannel electrocardiograph. The affected model is 860439. While the specific reason was not detailed in the Swissmedic notice, users should contact Philips or follow the manufacturer's instructions for required actions. This FSCA is registered under Swissmedic reference Vk_20260702_031.",
+        "zh": "Philips Medizin Systeme Böblingen GmbH 针对其专业多通道心电图机 Cardiac Workstation 5000 发布了现场安全纠正措施（FSCA），涉及型号 860439。尽管瑞士药监局通知未详述具体原因，但建议用户联系飞利浦或按照制造商说明采取必要措施。该 FSCA 已在瑞士药监局备案（编号 Vk_20260702_031）。"
+      },
+      "source_url": "https://fsca.swissmedic.ch/mep/#?q=Vk_20260702_031",
+      "source_name": "Swissmedic",
+      "published_date": "2026-07-15",
+      "detected_date": "2026-07-17T19:59:22Z",
+      "importance": "medium",
+      "tags": [
+        "fsca",
+        "swissmedic",
+        "electrocardiograph",
+        "philips",
+        "medical_device",
+        "field_safety_corrective_action"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "switzerland_20260717_swissmedic_fsca_for_covidien_box_bypass_kit_model_box09222v1",
+      "framework": "switzerland",
+      "category": "safety_communication",
+      "title": {
+        "en": "Swissmedic FSCA for Covidien BOX BYPASS KIT (Model BOX09222V1) – December 2025 Action",
+        "zh": "瑞士药监局针对Covidien BOX BYPASS KIT（型号BOX09222V1）发布现场安全纠正措施（2025年12月）"
+      },
+      "summary": {
+        "en": "Swissmedic issued a Field Safety Corrective Action (FSCA) for the BOX BYPASS KIT, model BOX09222V1, manufactured by Covidien llc. The notice, dated December 2025, alerts users to a safety-related issue requiring corrective measures. Affected healthcare facilities should immediately review the manufacturer's instructions, which may involve product inspection, quarantine, or return. Detailed rationale and required actions are provided in the full FSCA, accessible via Swissmedic's portal.",
+        "zh": "瑞士药监局发布了一项针对Covidien llc生产的BOX BYPASS KIT（型号BOX09222V1）的现场安全纠正措施，通知日期为2025年12月。该警报涉及特定安全问题，相关医疗机构应立即查阅制造商提供的纠正说明，可能包括产品检查、隔离或退货。完整原因及处理措施详见Swissmedic官方FSCA文件。"
+      },
+      "source_url": "https://fsca.swissmedic.ch/mep/#?q=Vk_20260708_010",
+      "source_name": "Swissmedic",
+      "published_date": "2026-07-15",
+      "detected_date": "2026-07-17T19:59:41Z",
+      "importance": "medium",
+      "tags": [
+        "swissmedic",
+        "fsca",
+        "covidien",
+        "box_bypass_kit",
+        "safety_corrective_action"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "switzerland_20260717_swissmedic_fsca_covidien_v_loc_180_bioabsorbable_sutures_mod",
+      "framework": "switzerland",
+      "category": "safety_communication",
+      "title": {
+        "en": "Swissmedic FSCA: Covidien V-Loc 180 Bioabsorbable Sutures – Models VLOCL0024, VLOCL0306, and Others",
+        "zh": "瑞士药监局发布Covidien V-Loc 180可吸收缝合线现场安全纠正措施"
+      },
+      "summary": {
+        "en": "Swissmedic has published a Field Safety Corrective Action (FSCA) for specified models of the V-Loc 180 polyester, bioabsorbable, monofilament, non-antimicrobial suture manufactured by Covidien llc. The affected model numbers are VLOCL0024, VLOCL0306, VLOCL0316, VLOCL0604, VLOCL0644, VLOCL0804, VLOCL2105, VLOCL2145, and VLOCL2246. While the notice does not detail the specific reason, healthcare facilities should identify and quarantine the affected products and follow the manufacturer's instructions to prevent potential patient risk.",
+        "zh": "瑞士药品监督管理局（Swissmedic）发布了一项针对Covidien llc生产的V-Loc 180聚酯可吸收单丝非抗菌缝合线的现场安全纠正措施（FSCA）。受影响型号包括VLOCL0024、VLOCL0306、VLOCL0316、VLOCL0604、VLOCL0644、VLOCL0804、VLOCL2105、VLOCL2145和VLOCL2246。虽然通知未说明具体原因，但医疗机构应识别并隔离相关产品，按照制造商指引操作，以防范潜在患者风险。"
+      },
+      "source_url": "https://fsca.swissmedic.ch/mep/#?q=Vk_20260708_010",
+      "source_name": "Swissmedic",
+      "published_date": "2026-07-15",
+      "detected_date": "2026-07-17T20:00:02Z",
+      "importance": "high",
+      "tags": [
+        "swissmedic",
+        "fsca",
+        "covidien",
+        "v_loc_180",
+        "suture",
+        "recall"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "switzerland_20260717_swissmedic_fsca_v_loc_90_barbed_suture_by_covidien_llc_model",
+      "framework": "switzerland",
+      "category": "safety_communication",
+      "title": {
+        "en": "Swissmedic FSCA: V-Loc 90 Barbed Suture by Covidien llc (Models VLOCM0003, VLOCM0013, VLOCM0604)",
+        "zh": "瑞士Swissmedic发布Covidien V-Loc 90倒刺缝合线现场安全纠正措施"
+      },
+      "summary": {
+        "en": "Swissmedic has issued a Field Safety Corrective Action for V-Loc 90, a barbed polyester suture manufactured by Covidien llc. The affected models are VLOCM0003, VLOCM0013, and VLOCM0604. While the specific reason was not detailed in the notice, healthcare facilities should identify and quarantine affected lots, and follow the manufacturer's instructions for return or correction.",
+        "zh": "Swissmedic发布了由Covidien llc生产的V-Loc 90倒钩聚酯缝线的现场安全纠正措施。受影响型号为VLOCM0003、VLOCM0013及VLOCM0604。虽未公布具体原因，医疗机构应识别并隔离受影响批次，并按制造商指示进行退货或纠正。"
+      },
+      "source_url": "https://fsca.swissmedic.ch/mep/#?q=Vk_20260708_010",
+      "source_name": "Swissmedic",
+      "published_date": "2026-07-15",
+      "detected_date": "2026-07-17T20:00:17Z",
+      "importance": "high",
+      "tags": [
+        "barbed_suture",
+        "field_safety_corrective_action",
+        "swissmedic",
+        "covidien"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "switzerland_20260717_swissmedic_fsca_on_medtronic_minimed_640g_insulin_pump_model",
+      "framework": "switzerland",
+      "category": "safety_communication",
+      "title": {
+        "en": "Swissmedic FSCA on Medtronic MiniMed 640G Insulin Pump Models MMT-1711, MMT-1712",
+        "zh": "瑞士Swissmedic发布美敦力MiniMed 640G胰岛素泵（型号MMT-1711、MMT-1712）现场安全纠正措施"
+      },
+      "summary": {
+        "en": "Swissmedic has issued a Field Safety Corrective Action (FSCA) for Medtronic MiniMed 640G ambulatory insulin infusion pumps, covering electronic pump models MMT-1711 and MMT-1712. The reason for the corrective action is not publicly detailed in the notification. Users and healthcare professionals should follow the manufacturer's immediate recommendations and contact Medtronic for further instructions.",
+        "zh": "瑞士药品管理局（Swissmedic）针对美敦力MiniMed 640G便携式胰岛素泵发布了现场安全纠正措施（FSCA），涉及电子泵型号MMT-1711和MMT-1712。该纠正措施的具体原因在通知中未公开说明。建议涉及的用户和医疗专业人员遵循制造商提供的立即行动指示，并联系美敦力获取进一步指导。"
+      },
+      "source_url": "https://fsca.swissmedic.ch/mep/#?q=Vk_20260713_059",
+      "source_name": "Swissmedic",
+      "published_date": "2026-07-15",
+      "detected_date": "2026-07-17T20:00:27Z",
+      "importance": "high",
+      "tags": [
+        "fsca",
+        "swissmedic",
+        "insulin_pump",
+        "medtronic",
+        "corrective_action",
+        "safety"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "switzerland_20260717_swissmedic_fsca_medtronic_minimed_670g_insulin_pump_software",
+      "framework": "switzerland",
+      "category": "safety_communication",
+      "title": {
+        "en": "Swissmedic FSCA: Medtronic MiniMed 670G Insulin Pump – Software-Dosing Scalar Algorithm Correction",
+        "zh": "瑞士Swissmedic发布美敦力MiniMed 670G胰岛素泵软件剂量标量算法纠正公告"
+      },
+      "summary": {
+        "en": "Swissmedic has published a Field Safety Corrective Action (FSCA) for the Medtronic MiniMed 670G ambulatory insulin infusion pump (models MMT-1781, MMT-1782) due to a potential issue in the software-dosing scalar algorithm. Healthcare professionals and patients using the affected devices should immediately consult the manufacturer’s instructions to mitigate any insulin delivery risk. Medtronic is expected to provide a software correction or other remedial actions.",
+        "zh": "瑞士药品监督管理局（Swissmedic）已发布美敦力MiniMed 670G便携式胰岛素泵（型号MMT-1781、MMT-1782）的现场安全纠正措施（FSCA），原因涉及软件剂量标量算法潜在问题。相关医务人员和患者应立即遵循制造商指引，降低胰岛素输注风险。美敦力将提供软件修正或其他补救措施。"
+      },
+      "source_url": "https://fsca.swissmedic.ch/mep/#?q=Vk_20260713_059",
+      "source_name": "Swissmedic",
+      "published_date": "2026-07-15",
+      "detected_date": "2026-07-17T20:00:43Z",
+      "importance": "high",
+      "tags": [
+        "swissmedic",
+        "fsca",
+        "insulin_pump",
+        "software_correction",
+        "medtronic",
+        "recall"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "switzerland_20260717_swissmedic_fsca_medtronic_minimed_780g_insulin_pump_software",
+      "framework": "switzerland",
+      "category": "safety_communication",
+      "title": {
+        "en": "Swissmedic FSCA: Medtronic MiniMed 780G Insulin Pump Software-Dosing Algorithm Correction",
+        "zh": "瑞士药品监督管理局发布美敦力MiniMed 780G胰岛素泵软件给药算法现场安全纠正措施"
+      },
+      "summary": {
+        "en": "Swissmedic issued a Field Safety Corrective Action for the Medtronic MiniMed 780G ambulatory insulin infusion pump (models MMT-1885CLW and MMT-1886CLW) due to a potential issue with its electronic software-dosing scalar algorithm. The corrective action aims to mitigate risks associated with the affected software. Users and healthcare providers are advised to contact Medtronic for the recommended corrective steps, which may include software updates or device inspection.",
+        "zh": "瑞士药品监督管理局针对美敦力MiniMed 780G便携式胰岛素泵（型号MMT-1885CLW和MMT-1886CLW）发布现场安全纠正措施，原因是电子软件给药标量算法可能存在潜在问题。该纠正措施旨在降低相关风险，用户和医疗机构应联系美敦力获取推荐的整改步骤，可能包括软件更新或设备检查。"
+      },
+      "source_url": "https://fsca.swissmedic.ch/mep/#?q=Vk_20260713_059",
+      "source_name": "Swissmedic",
+      "published_date": "2026-07-15",
+      "detected_date": "2026-07-17T20:00:55Z",
+      "importance": "high",
+      "tags": [
+        "swissmedic",
+        "fsca",
+        "insulin_pump",
+        "medtronic",
+        "software_correction",
+        "medical_device_safety"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "switzerland_20260717_swissmedic_fsca_hollister_onli_infyna_hydrophilic_intermitte",
+      "framework": "switzerland",
+      "category": "safety_communication",
+      "title": {
+        "en": "Swissmedic FSCA: Hollister Onli & Infyna Hydrophilic Intermittent Catheters – Safety Correction",
+        "zh": "瑞士Swissmedic发布Hollister Onli与Infyna亲水间歇导尿管现场安全纠正措施"
+      },
+      "summary": {
+        "en": "Swissmedic has published a Field Safety Corrective Action (FSCA) for specific models of Hollister Incorporated's Onli and Infyna hydrophilic urethral intermittent catheters. The action affects multiple catalog numbers including 82081, 82121, 88081, 82084, 85124, and others listed in the notice. Affected devices are single-administration urethral drainage catheters, and users should immediately follow the manufacturer's instructions provided in the field safety notice. No specific reason is publicly detailed, but the corrective action indicates a potential risk requiring risk mitigation measures.",
+        "zh": "瑞士药品监督管理局(Swissmedic)发布了一项针对Hollister公司Onli和Infyna亲水涂层间歇导尿管特定型号的现场安全纠正措施(FSCA)。涉及型号包括82081、82121、88081、82084、85124等多个产品编号，均为单次使用尿道引流导管。受影响用户应立即遵循制造商现场安全通知中的指导，停止使用受影响产品并按照厂家指示处理。通知中未公开具体原因，但该纠正措施提示存在需要降低风险的潜在问题。"
+      },
+      "source_url": "https://fsca.swissmedic.ch/mep/#?q=Vk_20260714_001",
+      "source_name": "Swissmedic",
+      "published_date": "2026-07-15",
+      "detected_date": "2026-07-17T20:01:10Z",
+      "importance": "high",
+      "tags": [
+        "fsca",
+        "swissmedic",
+        "catheter_recall",
+        "hollister",
+        "urology_device"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "switzerland_20260717_swissmedic_fsca_shimadzu_diagnostic_x_ray_system_generators",
+      "framework": "switzerland",
+      "category": "safety_communication",
+      "title": {
+        "en": "Swissmedic FSCA: Shimadzu Diagnostic X-ray System Generators UD150B-40/UD150V-40/UD150L-40/UD150L-40E/F",
+        "zh": "瑞士Swissmedic发布岛津诊断X射线系统发生器FSCA"
+      },
+      "summary": {
+        "en": "Swissmedic has issued a Field Safety Corrective Action (FSCA) for Shimadzu stationary diagnostic X-ray system generators, models UD150B-40, UD150V-40, UD150L-40, and UD150L-40E/F. The notice does not specify the reason for the corrective action. Affected users should refer to Swissmedic case number Vk_20260713_052 for required actions.",
+        "zh": "Swissmedic针对岛津（Shimadzu）固定式诊断X射线系统发生器发布现场安全纠正措施（FSCA），涉及型号UD150B-40、UD150V-40、UD150L-40和UD150L-40E/F。通知未说明具体纠正原因，受影响用户应查看Swissmedic案例编号Vk_20260713_052以执行必要措施。"
+      },
+      "source_url": "https://fsca.swissmedic.ch/mep/#?q=Vk_20260713_052",
+      "source_name": "Swissmedic",
+      "published_date": "2026-07-15",
+      "detected_date": "2026-07-17T20:01:26Z",
+      "importance": "medium",
+      "tags": [
+        "fsca",
+        "swissmedic",
+        "x-ray",
+        "diagnostic_imaging",
+        "shimadzu",
+        "medical_device_correction"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "switzerland_20260717_swissmedic_fsca_kr_ber_o2_oxygen_concentrator_correction_of",
+      "framework": "switzerland",
+      "category": "safety_communication",
+      "title": {
+        "en": "Swissmedic FSCA: Kröber O2 Oxygen Concentrator – Correction of Duplicate Model/Catalog Numbers",
+        "zh": "瑞士药监局FSCA：Kröber O2制氧机 – 修正型号/目录号重复条目"
+      },
+      "summary": {
+        "en": "Swissmedic issued a Field Safety Corrective Action (FSCA) for Kröber O2 oxygen concentrators (models KRO2.00, KR4.00) because duplicate entries in model and catalog numbers have been corrected. This is a documentation correction and does not involve a product recall. Affected users and distributors should refer to the updated manufacturer information to ensure correct identification of the devices.",
+        "zh": "瑞士药监局发布针对Kröber O2制氧机（型号KRO2.00、KR4.00）的现场安全纠正措施，原因是制造商修正了型号和目录号中的重复条目。该行动为文件纠正，不涉及产品召回。受影响用户和经销商应参考更新后的制造商信息，以确保正确识别设备。"
+      },
+      "source_url": "https://fsca.swissmedic.ch/mep/#?q=Vk_20260713_013",
+      "source_name": "Swissmedic",
+      "published_date": "2026-07-14",
+      "detected_date": "2026-07-17T20:01:37Z",
+      "importance": "medium",
+      "tags": [
+        "swissmedic",
+        "fsca",
+        "oxygen_concentrator",
+        "kroeber",
+        "model_correction"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "switzerland_20260717_swissmedic_fsca_schiller_ag_sema_clinical_data_interfacing_s",
+      "framework": "switzerland",
+      "category": "safety_communication",
+      "title": {
+        "en": "Swissmedic FSCA: Schiller AG SEMA Clinical Data Interfacing Software (Models 0A.602010, 0A.602030, 0A.602000, 0A.602020)",
+        "zh": "瑞士Swissmedic发布Schiller AG SEMA临床数据接口软件现场安全纠错行动"
+      },
+      "summary": {
+        "en": "Swissmedic has issued a Field Safety Corrective Action (FSCA) for Schiller AG's SEMA medical equipment clinical data interfacing software. The affected models are 0A.602010, 0A.602030, 0A.602000, and 0A.602020. While the specific reason for the corrective action was not detailed in the public notice, users should review the FSCA documentation and follow any manufacturer or Swissmedic recommendations.",
+        "zh": "瑞士药品监督管理局（Swissmedic）针对Schiller AG的SEMA医疗设备临床数据接口软件发布了现场安全纠错行动（FSCA）。受影响型号包括0A.602010、0A.602030、0A.602000和0A.602020。尽管公告未详细说明纠错原因，用户应查阅完整的FSCA文件，并遵循制造商或Swissmedic的建议。"
+      },
+      "source_url": "https://fsca.swissmedic.ch/mep/#?q=Vk_20260706_028",
+      "source_name": "Swissmedic",
+      "published_date": "2026-07-14",
+      "detected_date": "2026-07-17T20:01:49Z",
+      "importance": "medium",
+      "tags": [
+        "medical_device",
+        "fsca",
+        "swissmedic",
+        "software",
+        "clinical_data",
+        "schiller",
+        "product_correction"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "switzerland_20260717_swissmedic_fsca_boston_scientific_overstitch_suture_cinch_mo",
+      "framework": "switzerland",
+      "category": "safety_communication",
+      "title": {
+        "en": "Swissmedic FSCA: Boston Scientific OverStitch Suture Cinch Models M00505530 and M00505540",
+        "zh": "瑞士药监局FSCA：波士顿科学OverStitch缝合线收紧器型号M00505530和M00505540"
+      },
+      "summary": {
+        "en": "The Swiss Agency for Therapeutic Products (Swissmedic) issued a Field Safety Corrective Action for the OverStitch Suture Cinch, a single-use suture/ligature tightener manufactured by Boston Scientific Corporation. The affected models are M00505530 (GTIN: 00191506060046) and M00505540 (GTIN: 00191506049171). The specific reason for the corrective action was not detailed in the notification, but users should follow the manufacturer's instructions. Affected devices should be identified, quarantined, and handled per Boston Scientific's guidance.",
+        "zh": "瑞士治疗产品监管局（Swissmedic）发布了一项针对波士顿科学公司生产的一次性缝合线/结扎收紧器OverStitch Suture Cinch的现场安全纠正措施。受影响型号为M00505530（GTIN：00191506060046）和M00505540（GTIN：00191506049171）。通知中未详细说明纠正原因，用户应遵循制造商的说明。应识别、隔离相关器械并按波士顿科学的指导处理。"
+      },
+      "source_url": "https://fsca.swissmedic.ch/mep/#?q=Vk_20260713_034",
+      "source_name": "Swissmedic",
+      "published_date": "2026-07-14",
+      "detected_date": "2026-07-17T20:02:02Z",
+      "importance": "medium",
+      "tags": [
+        "medical_device",
+        "fsca",
+        "switzerland",
+        "suture_tightener",
+        "boston_scientific",
+        "recall"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "switzerland_20260717_swissmedic_fsca_for_boston_scientific_suture_cinch_long_mode",
+      "framework": "switzerland",
+      "category": "safety_communication",
+      "title": {
+        "en": "Swissmedic FSCA for Boston Scientific Suture Cinch–Long (Model M00505550)",
+        "zh": "瑞士medic发布波士顿科学Suture Cinch–Long缝合线收紧器FSCA"
+      },
+      "summary": {
+        "en": "Swissmedic has issued a Field Safety Corrective Action for the Boston Scientific Suture Cinch–Long, a single-use suture/ligature tightener, model M00505550 (GTIN: 00191506049188). The reason for the corrective action is not specified in this notification. Healthcare facilities using this device should follow the manufacturer’s instructions, which may include quarantine and return of affected units.",
+        "zh": "瑞士medic对波士顿科学的Suture Cinch–Long一次性缝合线/结扎线收紧器（型号 M00505550，GTIN: 00191506049188）发布了现场安全纠正措施。本通知未详细说明纠正原因。使用该器械的医疗机构应遵循制造商说明，可能包括隔离并退回受影响产品。"
+      },
+      "source_url": "https://fsca.swissmedic.ch/mep/#?q=Vk_20260713_034",
+      "source_name": "Swissmedic",
+      "published_date": "2026-07-14",
+      "detected_date": "2026-07-17T20:02:18Z",
+      "importance": "medium",
+      "tags": [
+        "field_safety_corrective_action",
+        "swissmedic",
+        "surgical_device",
+        "boston_scientific"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "switzerland_20260717_swissmedic_fsca_for_maquet_critical_care_flow_i_and_flow_e_a",
+      "framework": "switzerland",
+      "category": "safety_communication",
+      "title": {
+        "en": "Swissmedic FSCA for Maquet Critical Care Flow-i and Flow-e Anesthesia Workstations",
+        "zh": "Swissmedic发布Maquet Critical Care Flow-i和Flow-e麻醉工作站现场安全纠正措施"
+      },
+      "summary": {
+        "en": "Swissmedic has issued a Field Safety Corrective Action for Maquet Critical Care AB's Flow-i C20, C30, C40, Flow-c, and Flow-e general-purpose anesthesia workstations. The notice identifies affected model numbers and article codes, including various Flow-i configurations. Users should consult the manufacturer's correction instructions and implement the recommended actions to maintain device safety and performance.",
+        "zh": "瑞士治疗产品管理局（Swissmedic）已发布针对Maquet Critical Care AB公司Flow-i C20、C30、C40、Flow-c及Flow-e通用麻醉工作站的现场安全纠正行动。该通知列出了受影响的具体型号与商品编号，涵盖多种Flow-i配置。用户应查阅制造商纠正说明并落实建议措施，以确保设备安全与性能。"
+      },
+      "source_url": "https://fsca.swissmedic.ch/mep/#?q=Vk_20260703_019",
+      "source_name": "Swissmedic",
+      "published_date": "2026-07-14",
+      "detected_date": "2026-07-17T20:02:30Z",
+      "importance": "medium",
+      "tags": [
+        "swissmedic",
+        "fsca",
+        "anesthesia_workstation",
+        "maquet_critical_care"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "switzerland_20260717_fsca_fritz_stephan_gmbh_eve_neo_ventilators_models_107061420",
+      "framework": "switzerland",
+      "category": "safety_communication",
+      "title": {
+        "en": "FSCA: Fritz Stephan GmbH Eve Neo Ventilators, Models 107061420 & 107061401",
+        "zh": "瑞士Fritz Stephan公司Eve Neo呼吸机现场安全纠正措施（型号107061420/107061401）"
+      },
+      "summary": {
+        "en": "Swissmedic has issued a Field Safety Corrective Action (FSCA) for Fritz Stephan GmbH's Eve Neo adult and paediatric/neonatal pulmonary ventilators, affecting models 107061420 and 107061401. The specific reason for the corrective action was not detailed in the public notice, but it involves a safety-related issue. Affected users should immediately consult the manufacturer's instructions provided through the FSCA and implement any required corrective measures to ensure safe device operation.",
+        "zh": "瑞士药监局（Swissmedic）发布了对Fritz Stephan GmbH公司Eve Neo成人及儿童/新生儿肺通气器的现场安全纠正措施（FSCA），涉及型号107061420和107061401。公告未详述具体原因，但涉及一项安全问题。受影响用户应立即根据该FSCA中的制造商指导采取纠正措施，确保设备安全运行。"
+      },
+      "source_url": "https://fsca.swissmedic.ch/mep/#?q=Vk_20260710_036",
+      "source_name": "Swissmedic",
+      "published_date": "2026-07-14",
+      "detected_date": "2026-07-17T20:02:45Z",
+      "importance": "high",
+      "tags": [
+        "swissmedic",
+        "fsca",
+        "ventilator",
+        "field_safety_corrective_action",
+        "fritz_stephan",
+        "eve_neo"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "switzerland_20260717_safety_alert_oxylog_600_ventilators_from_fritz_stephan_gmbh",
+      "framework": "switzerland",
+      "category": "safety_communication",
+      "title": {
+        "en": "Safety Alert: Oxylog 600 Ventilators from Fritz Stephan GmbH (Models 107161400, 107161401)",
+        "zh": "安全警报：Fritz Stephan GmbH Oxylog 600 呼吸机（型号 107161400、107161401）"
+      },
+      "summary": {
+        "en": "Swissmedic issued a Field Safety Corrective Action (FSCA) for Oxylog 600 adult and paediatric/neonatal pulmonary ventilators manufactured by Fritz Stephan GmbH. The action affects models 107161400 and 107161401. The specific reason was not detailed in this alert, but users should follow the manufacturer's safety notice and implement any required corrective measures immediately.",
+        "zh": "瑞士Swissmedic对Fritz Stephan GmbH生产的Oxylog 600成人和儿童/新生儿肺通气机发布了现场安全纠正措施（FSCA），涉及型号107161400和107161401。该警报未详细说明具体原因，但用户应立即遵循制造商的安全通知并执行所需的纠正措施。"
+      },
+      "source_url": "https://fsca.swissmedic.ch/mep/#?q=Vk_20260710_036",
+      "source_name": "Swissmedic",
+      "published_date": "2026-07-14",
+      "detected_date": "2026-07-17T20:03:01Z",
+      "importance": "high",
+      "tags": [
+        "fsca",
+        "ventilator",
+        "safety_alert",
+        "swissmedic",
+        "recall"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "switzerland_20260717_eve_in_fritz_stephan_gmbh",
+      "framework": "switzerland",
+      "category": "safety_communication",
+      "title": {
+        "en": "Eve In - Fritz Stephan GmbH",
+        "zh": "Eve In - Fritz Stephan GmbH"
+      },
+      "summary": {
+        "en": "FSCA: MD: Adult and paediatric/neonatal pulmonary ventilators. Reason: . Model: 107061410, 107061411; .",
+        "zh": "FSCA: MD: Adult and paediatric/neonatal pulmonary ventilators. Reason: . Model: 107061410, 107061411; ."
+      },
+      "source_url": "https://fsca.swissmedic.ch/mep/#?q=Vk_20260710_036",
+      "source_name": "Swissmedic",
+      "published_date": "2026-07-14",
+      "detected_date": "2026-07-17T20:03:32Z",
+      "importance": "medium",
+      "tags": [],
+      "related_docs": [],
+      "status": "published"
+    },
     {
       "id": "switzerland_20260710_blephademodex_sterile_skin_cleaning_wipe_swissmedic_fsca_by",
       "framework": "switzerland",
