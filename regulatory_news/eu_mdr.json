@@ -1,7 +1,33 @@
 {
   "framework": "eu_mdr",
-  "last_updated": "2026-06-30T14:06:08Z",
+  "last_updated": "2026-07-19T20:06:20Z",
   "items": [
+    {
+      "id": "eu_mdr_20260719_ec_publishes_dashboard_v3_5_for_monitoring_medical_device_av",
+      "framework": "eu_mdr",
+      "category": "regulation_update",
+      "title": {
+        "en": "EC Publishes Dashboard v3.5 for Monitoring Medical Device Availability on the EU Market",
+        "zh": "欧盟委员会发布医疗器械可用性监测仪表盘3.5版"
+      },
+      "summary": {
+        "en": "The European Commission has released version 3.5 of the dashboard supporting its study on the availability of medical devices in the EU market. This update provides enhanced data visualization for stakeholders, including manufacturers, notified bodies, and competent authorities, to monitor device supply trends and potential shortages. The dashboard aids in assessing the impact of the MDR/IVDR transition on market access. Affected parties should consult the new version for current market intelligence and compliance planning.",
+        "zh": "欧盟委员会发布了支持其医疗器械可用性研究的仪表盘3.5版。此次更新为制造商、公告机构和主管当局等利益相关方提供了增强的数据可视化，用于监测器械供应趋势和潜在短缺。该仪表盘有助于评估MDR/IVDR过渡对市场准入的影响。相关方应查阅新版本，获取最新市场情报和合规规划参考。"
+      },
+      "source_url": "https://health.ec.europa.eu/latest-updates/monitoring-availability-medical-devices-eu-market-2024-01-09_en",
+      "source_name": "European Commission",
+      "published_date": "2026-07-14",
+      "detected_date": "2026-07-19T20:06:20Z",
+      "importance": "medium",
+      "tags": [
+        "medical_device_availability",
+        "dashboard_update",
+        "market_surveillance",
+        "eu_mdr"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
     {
       "id": "eu_mdr_20260630_ec_publishes_delegated_acts_on_well_established_technologies",
       "framework": "eu_mdr",

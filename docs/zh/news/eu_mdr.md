@@ -6,6 +6,18 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### 欧盟委员会发布医疗器械可用性监测仪表盘3.5版
+
+**2026-07-14** | EU MDR/IVDR | 法规更新 | !! MEDIUM
+
+欧盟委员会发布了支持其医疗器械可用性研究的仪表盘3.5版。此次更新为制造商、公告机构和主管当局等利益相关方提供了增强的数据可视化，用于监测器械供应趋势和潜在短缺。该仪表盘有助于评估MDR/IVDR过渡对市场准入的影响。相关方应查阅新版本，获取最新市场情报和合规规划参考。
+
+**标签**: `medical_device_availability`, `dashboard_update`, `market_surveillance`, `eu_mdr`
+
+[查看来源 (European Commission)](https://health.ec.europa.eu/latest-updates/monitoring-availability-medical-devices-eu-market-2024-01-09_en)
+
+---
+
 ### 欧盟委员会发布关于MDR下“成熟技术”医疗器械的授权法案
 
 **2026-06-30** | EU MDR/IVDR | 法规更新 | !!! HIGH

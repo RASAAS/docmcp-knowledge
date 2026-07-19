@@ -150,6 +150,18 @@ Swissmedic has issued a Field Safety Corrective Action (FSCA) for Shimadzu stati
 
 ---
 
+### EC Publishes Dashboard v3.5 for Monitoring Medical Device Availability on the EU Market
+
+**2026-07-14** | EU MDR/IVDR | Regulation Update | !! MEDIUM
+
+The European Commission has released version 3.5 of the dashboard supporting its study on the availability of medical devices in the EU market. This update provides enhanced data visualization for stakeholders, including manufacturers, notified bodies, and competent authorities, to monitor device supply trends and potential shortages. The dashboard aids in assessing the impact of the MDR/IVDR transition on market access. Affected parties should consult the new version for current market intelligence and compliance planning.
+
+**Tags**: `medical_device_availability`, `dashboard_update`, `market_surveillance`, `eu_mdr`
+
+[View Source (European Commission)](https://health.ec.europa.eu/latest-updates/monitoring-availability-medical-devices-eu-market-2024-01-09_en)
+
+---
+
 ### Pulmonary Valve Catheter Delivery System Recall: Medtronic Removes Harmony Catheter Delivery Catheter System (DCS)
 
 **2026-07-14** | FDA | cdrh_news | !! MEDIUM
