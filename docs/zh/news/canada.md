@@ -6,6 +6,184 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### 加拿大卫生部发布III/IV类医疗器械许可申请信息要求通知
+
+**2026-07-20** | Health Canada | 法规更新 | !! MEDIUM
+
+加拿大卫生部本通知明确了III类和IV类医疗器械许可申请中需提交的具体信息和文件要求。高风险器械制造商须确保申请包含质量体系证书、详细器械描述及适用的临床证据。该指南旨在简化审评并减少缺陷项。受此影响的企业应相应更新其监管申报资料以符合要求。
+
+**标签**: `canada`, `class_iii_iv_devices`, `licence_application`, `health_canada_notice`, `regulatory_guidance`
+
+[查看来源 (Health Canada)](https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/application-information/guidance-documents/expectations-information-submitted-class-iii-iv-licence-notice-industry.html)
+
+---
+
+### 加拿大卫生部因性能问题召回4K超高清液晶显示器
+
+**2026-07-17** | Health Canada | 安全通报 | !! MEDIUM
+
+加拿大卫生部发布了一款4K超高清液晶显示器的医疗器械召回，原因为性能问题可能影响临床功能。受影响医疗机构和专业人员应立即核对产品序列号并遵循制造商的纠正措施，以防止潜在的诊断或操作失误。
+
+**标签**: `medical_device_recall`, `canada`, `performance_issue`, `lcd_monitor`, `health_canada`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/4k-uhd-lcd-monitor)
+
+---
+
+### Merge PACS
+
+**2026-07-17** | Health Canada | 安全通报 | !! MEDIUM
+
+Performance
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/merge-pacs-3)
+
+---
+
+### 加拿大召回ER-Spec一次性LED阴道窥器，因性能问题
+
+**2026-07-17** | Health Canada | 安全通报 | !! MEDIUM
+
+加拿大卫生部因性能问题召回ER-Spec一次性LED阴道窥器，该问题可能影响检查时器械的正常功能。受影响对象为使用该产品的医疗机构。使用者应立即隔离并停用受影响的产品，按照制造商指引退回或处置，以保障患者安全。
+
+**标签**: `recall`, `vaginal_speculum`, `performance_issue`, `canada_health`, `single_use_device`, `led_light_source`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/er-spec-single-use-vaginal-speculum-led-light-source)
+
+---
+
+### 加拿大卫生部因性能问题召回Atellica CH尿白蛋白检测试剂
+
+**2026-07-17** | Health Canada | 安全通报 | !! MEDIUM
+
+加拿大卫生部对Atellica® CH尿白蛋白（UAlb）检测试剂发布召回，原因是性能问题可能导致检测结果不准确，进而影响尿液白蛋白水平的测定。临床实验室须立即停用受影响批次，并与西门子医疗联系获取后续指引。本次召回旨在避免依赖白蛋白/肌酐比值的患者出现误诊或不当的临床管理。
+
+**标签**: `recall`, `ivd`, `urine_albumin`, `performance_issue`, `siemens_healthineers`, `health_canada`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/atellicar-ch-urine-albumin-ualb)
+
+---
+
+### 加拿大卫生部因性能问题召回Solar™ GI设备
+
+**2026-07-16** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部因性能问题对Solar™ GI医疗器械发布召回。该设备可能无法正常运行，影响胃肠诊断或治疗程序。医疗机构应立即隔离受影响批次，并按照制造商指示进行退货或更换。此警报是近期14项安全通报之一。
+
+**标签**: `health_canada`, `medical_device_recall`, `performance_issue`, `gastroenterology`, `safety_alert`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/solartm-gi)
+
+---
+
+### 加拿大卫生部召回心脏工作站：性能问题可能导致误诊
+
+**2026-07-16** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部发布心脏工作站召回通知，因其性能问题可能导致心脏分析结果不准确，存在误诊和不当治疗风险。使用该设备的医疗机构应立即采用替代方法核实诊断结果，并联系制造商采取纠正措施。此次召回影响特定型号或批次，用户需及时识别受影响设备并遵循安全警示要求。
+
+**标签**: `medical_device_recall`, `performance_issue`, `cardiac_diagnostics`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/cardiac-workstation)
+
+---
+
+### 加拿大卫生部因性能问题召回飞利浦Allura Xper FD系列
+
+**2026-07-16** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部因性能问题对飞利浦Allura Xper FD系列介入X射线系统发出召回。受影响设备可能未达到性能规格，可能对临床手术造成影响。医疗机构应立即按照飞利浦的现场安全通知检查并必要时纠正系统。法规事务专业人员需确保各部门知晓该召回，并与临床工程团队协调响应措施。
+
+**标签**: `recall`, `health_canada`, `imaging_system`, `performance_issue`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/philips-allura-xper-fd-series)
+
+---
+
+### 加拿大卫生部因性能问题召回StrykeFlow PS和AHTO医疗器械
+
+**2026-07-16** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已就StrykeFlow PS和AHTO医疗器械发布召回通知，原因在于性能缺陷可能影响设备有效性及患者安全。此次召回涉及在加拿大各地医疗机构分发的特定批号产品。相关使用者须立即隔离受影响设备，根据批号进行识别，并安排退回制造商。该安全警告要求迅速采取行动，以避免潜在的临床风险。
+
+**标签**: `medical_device_recall`, `performance_failure`, `health_canada`, `safety_alert`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/strykeflow-ps-and-ahto)
+
+---
+
+### 加拿大卫生部警报：SEMA 3设备兼容性问题或影响数据显示与连接
+
+**2026-07-16** | Health Canada | 安全通报 | !! MEDIUM
+
+加拿大卫生部针对用于整合与显示多设备数据的SEMA 3数据管理系统发布医疗器械警报。该警报指出存在设备兼容性问题，可能导致数据显示错误、传输延迟或丢失，进而影响临床决策。使用SEMA 3的医疗机构应立即验证系统与连接设备的兼容性，并联系生产商采取纠正措施。
+
+**标签**: `device_compatibility`, `recall`, `data_management`, `software`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/sema-3)
+
+---
+
+### 加拿大卫生部因无菌问题召回V-Loc™ 90及180缝合线产品
+
+**2026-07-16** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部因无菌性可能受损而召回V-Loc™ 90和180缝线产品，受影响的是使用这些带倒刺缝线的医疗机构及专业人员。相关机构须立即隔离并停止使用受影响批次，将产品退回，以防止潜在的病人感染。各院所需遵循此安全警示，并报告任何不良事件。
+
+**标签**: `medical_device_recall`, `sterility`, `suture`, `canada`, `v_loc`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/v-loctm-90-and-180-suture-products)
+
+---
+
+### CTP 管路套件因潜在无菌性问题被召回
+
+**2026-07-15** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部因无菌失败问题召回 CTP 管路套件，可能导致患者面临感染风险。受影响产品已分发至加拿大医疗机构。需立即采取行动：隔离剩余库存，停止使用，并遵循制造商的退回或处置指南。
+
+**标签**: `sterility`, `recall`, `tubing_sets`, `medical_device`, `health_canada`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/ctp-tubing-sets)
+
+---
+
+### 因性能问题，含Teleflex Pilling Wecksorb神经海绵的Presource套装在加拿大召回
+
+**2026-07-15** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部因性能问题召回了含Teleflex Pilling Wecksorb神经海绵的特定Presource手术组合包，该产品为神经外科止血材料，可能因功能失效而无法有效控制出血，给手术患者带来严重风险。相关医疗机构和分销商须立即隔离并停用受影响批次，并按制造商指引退货处理。本安全警报适用于所有加拿大境内的供应链环节。
+
+**标签**: `canada`, `recall`, `neurosurgery`, `hemostatic_sponge`, `performance_issue`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/presource-rkits-containing-teleflex-pillingr-wecksorb-neurosponge)
+
+---
+
+### 加拿大卫生部召回Leoni Plus医疗器械：性能问题
+
+**2026-07-15** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部因性能缺陷对Leoni Plus医疗器械发出召回，该问题可能影响设备功能或安全性。使用该设备的医疗机构和医护人员应立即核查受影响批次，按制造商指引停用并采取纠正措施。此警报凸显了监控器械性能和报告不良事件的重要性。
+
+**标签**: `medical_device_recall`, `performance_issue`, `canada`, `health_canada`, `safety_alert`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/leoni-plus)
+
+---
+
+### 加拿大卫生部因细菌污染召回Oribe Serene头皮增量洗发水
+
+**2026-07-13** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部因Oribe Serene头皮增量洗发水存在细菌污染发布召回通知。受影响产品可能导致感染风险，尤其对免疫系统较弱或皮肤破损者。消费者应立即停止使用该洗发水，并退回购买点获取退款。
+
+**标签**: `product_recall`, `bacterial_contamination`, `health_canada_alert`, `cosmetic_safety`, `consumer_advisory`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/oribe-serene-scalp-densifying-shampoo-presence-bacterial-contamination)
+
+---
+
 ### 加拿大召回Astral 150呼吸机，性能问题致通气中断风险
 
 **2026-07-09** | Health Canada | 安全通报 | !!! HIGH

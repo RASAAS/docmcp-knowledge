@@ -1,7 +1,403 @@
 {
   "framework": "canada",
-  "last_updated": "2026-07-13T20:19:55Z",
+  "last_updated": "2026-07-20T20:32:25Z",
   "items": [
+    {
+      "id": "canada_20260720_health_canada_notice_information_expectations_for_class_iii",
+      "framework": "canada",
+      "category": "regulation_update",
+      "title": {
+        "en": "Health Canada Notice: Information Expectations for Class III and IV Medical Device Licence Applications",
+        "zh": "加拿大卫生部发布III/IV类医疗器械许可申请信息要求通知"
+      },
+      "summary": {
+        "en": "This Health Canada notice outlines the specific information and documentation expectations for Class III and IV medical device licence applications. Manufacturers of these higher-risk devices must ensure submissions include quality system certificates, detailed device descriptions, and clinical evidence as applicable. The guidance aims to streamline reviews and reduce deficiencies. Affected companies should update their regulatory dossiers to align with the stated expectations.",
+        "zh": "加拿大卫生部本通知明确了III类和IV类医疗器械许可申请中需提交的具体信息和文件要求。高风险器械制造商须确保申请包含质量体系证书、详细器械描述及适用的临床证据。该指南旨在简化审评并减少缺陷项。受此影响的企业应相应更新其监管申报资料以符合要求。"
+      },
+      "source_url": "https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/application-information/guidance-documents/expectations-information-submitted-class-iii-iv-licence-notice-industry.html",
+      "source_name": "Health Canada",
+      "published_date": "2026-07-20",
+      "detected_date": "2026-07-20T20:32:25Z",
+      "importance": "medium",
+      "tags": [
+        "canada",
+        "class_iii_iv_devices",
+        "licence_application",
+        "health_canada_notice",
+        "regulatory_guidance"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260720_health_canada_issues_recall_for_4k_uhd_lcd_monitor_due_to_pe",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Issues Recall for 4K UHD LCD Monitor Due to Performance Issue",
+        "zh": "加拿大卫生部因性能问题召回4K超高清液晶显示器"
+      },
+      "summary": {
+        "en": "Health Canada has issued a medical device recall for a 4K UHD LCD monitor due to a performance issue that may compromise its clinical function. Affected healthcare facilities and professionals should immediately verify affected serial numbers and follow the manufacturer's corrective action instructions to prevent potential diagnostic or procedural errors.",
+        "zh": "加拿大卫生部发布了一款4K超高清液晶显示器的医疗器械召回，原因为性能问题可能影响临床功能。受影响医疗机构和专业人员应立即核对产品序列号并遵循制造商的纠正措施，以防止潜在的诊断或操作失误。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/4k-uhd-lcd-monitor",
+      "source_name": "Health Canada",
+      "published_date": "2026-07-17",
+      "detected_date": "2026-07-20T20:28:10Z",
+      "importance": "medium",
+      "tags": [
+        "medical_device_recall",
+        "canada",
+        "performance_issue",
+        "lcd_monitor",
+        "health_canada"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260720_merge_pacs",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Merge PACS",
+        "zh": "Merge PACS"
+      },
+      "summary": {
+        "en": "Performance",
+        "zh": "Performance"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/merge-pacs-3",
+      "source_name": "Health Canada",
+      "published_date": "2026-07-17",
+      "detected_date": "2026-07-20T20:28:42Z",
+      "importance": "medium",
+      "tags": [],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260720_recall_of_er_spec_single_use_vaginal_speculum_with_led_light",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Recall of ER-Spec Single-Use Vaginal Speculum with LED Light Source Due to Performance Issues",
+        "zh": "加拿大召回ER-Spec一次性LED阴道窥器，因性能问题"
+      },
+      "summary": {
+        "en": "Health Canada has issued a recall of the ER-Spec Single-Use Vaginal Speculum with LED Light Source because of performance concerns that may compromise device functionality during examination. The recall affects healthcare facilities that use these devices. Users should immediately quarantine all affected units, discontinue use, and follow the manufacturer’s return or disposal instructions to ensure patient safety.",
+        "zh": "加拿大卫生部因性能问题召回ER-Spec一次性LED阴道窥器，该问题可能影响检查时器械的正常功能。受影响对象为使用该产品的医疗机构。使用者应立即隔离并停用受影响的产品，按照制造商指引退回或处置，以保障患者安全。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/er-spec-single-use-vaginal-speculum-led-light-source",
+      "source_name": "Health Canada",
+      "published_date": "2026-07-17",
+      "detected_date": "2026-07-20T20:29:00Z",
+      "importance": "medium",
+      "tags": [
+        "recall",
+        "vaginal_speculum",
+        "performance_issue",
+        "canada_health",
+        "single_use_device",
+        "led_light_source"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260720_health_canada_recalls_atellica_ch_urine_albumin_ualb_test_du",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Recalls Atellica CH Urine Albumin (UAlb) Test Due to Performance Issues",
+        "zh": "加拿大卫生部因性能问题召回Atellica CH尿白蛋白检测试剂"
+      },
+      "summary": {
+        "en": "Health Canada has issued a recall for the Atellica® CH Urine Albumin (UAlb) assay, a clinical chemistry test used to measure urine albumin levels, because of a performance problem that may lead to inaccurate results. Laboratories using the affected product are instructed to stop using the impacted lots immediately and to contact Siemens Healthineers for further guidance. The recall aims to prevent misdiagnosis or inappropriate clinical management of patients relying on albumin-to-creatinine ratio assessments.",
+        "zh": "加拿大卫生部对Atellica® CH尿白蛋白（UAlb）检测试剂发布召回，原因是性能问题可能导致检测结果不准确，进而影响尿液白蛋白水平的测定。临床实验室须立即停用受影响批次，并与西门子医疗联系获取后续指引。本次召回旨在避免依赖白蛋白/肌酐比值的患者出现误诊或不当的临床管理。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/atellicar-ch-urine-albumin-ualb",
+      "source_name": "Health Canada",
+      "published_date": "2026-07-17",
+      "detected_date": "2026-07-20T20:29:18Z",
+      "importance": "medium",
+      "tags": [
+        "recall",
+        "ivd",
+        "urine_albumin",
+        "performance_issue",
+        "siemens_healthineers",
+        "health_canada"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260720_health_canada_issues_recall_for_solar_gi_device_due_to_perfo",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Issues Recall for Solar™ GI Device Due to Performance Failure",
+        "zh": "加拿大卫生部因性能问题召回Solar™ GI设备"
+      },
+      "summary": {
+        "en": "Health Canada has issued a medical device recall for the Solar™ GI due to performance issues. The device may fail to operate as intended, potentially impacting diagnostic or therapeutic procedures in gastroenterology. Healthcare facilities should immediately quarantine affected lots and follow manufacturer instructions for return or replacement. This alert is part of a recent batch of 14 safety communications.",
+        "zh": "加拿大卫生部因性能问题对Solar™ GI医疗器械发布召回。该设备可能无法正常运行，影响胃肠诊断或治疗程序。医疗机构应立即隔离受影响批次，并按照制造商指示进行退货或更换。此警报是近期14项安全通报之一。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/solartm-gi",
+      "source_name": "Health Canada",
+      "published_date": "2026-07-16",
+      "detected_date": "2026-07-20T20:29:36Z",
+      "importance": "high",
+      "tags": [
+        "health_canada",
+        "medical_device_recall",
+        "performance_issue",
+        "gastroenterology",
+        "safety_alert"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260720_health_canada_recalls_cardiac_workstation_over_performance_i",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Recalls Cardiac Workstation Over Performance Issue Causing Possible Misdiagnosis",
+        "zh": "加拿大卫生部召回心脏工作站：性能问题可能导致误诊"
+      },
+      "summary": {
+        "en": "Health Canada has issued a recall for the Cardiac Workstation due to a performance problem that may produce inaccurate cardiac analysis, posing a risk of misdiagnosis and inappropriate patient management. Healthcare facilities using this device should immediately verify any diagnostic results with alternative methods and contact the manufacturer for corrective actions. The recall affects specific models or lots; users must identify affected units and follow the safety alert instructions without delay.",
+        "zh": "加拿大卫生部发布心脏工作站召回通知，因其性能问题可能导致心脏分析结果不准确，存在误诊和不当治疗风险。使用该设备的医疗机构应立即采用替代方法核实诊断结果，并联系制造商采取纠正措施。此次召回影响特定型号或批次，用户需及时识别受影响设备并遵循安全警示要求。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/cardiac-workstation",
+      "source_name": "Health Canada",
+      "published_date": "2026-07-16",
+      "detected_date": "2026-07-20T20:30:03Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "performance_issue",
+        "cardiac_diagnostics"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260720_health_canada_recalls_philips_allura_xper_fd_series_due_to_p",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Recalls Philips Allura Xper FD Series Due to Performance Issue",
+        "zh": "加拿大卫生部因性能问题召回飞利浦Allura Xper FD系列"
+      },
+      "summary": {
+        "en": "Health Canada has issued a recall for the Philips Allura Xper FD series interventional X-ray systems because of a performance problem that could affect device function. The affected devices may not meet performance specifications, potentially impacting clinical procedures. Healthcare facilities should immediately follow Philips' field safety notice to inspect and, if necessary, correct the systems. Regulatory affairs professionals must ensure awareness of this recall and coordinate response actions with clinical engineering teams.",
+        "zh": "加拿大卫生部因性能问题对飞利浦Allura Xper FD系列介入X射线系统发出召回。受影响设备可能未达到性能规格，可能对临床手术造成影响。医疗机构应立即按照飞利浦的现场安全通知检查并必要时纠正系统。法规事务专业人员需确保各部门知晓该召回，并与临床工程团队协调响应措施。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/philips-allura-xper-fd-series",
+      "source_name": "Health Canada",
+      "published_date": "2026-07-16",
+      "detected_date": "2026-07-20T20:30:19Z",
+      "importance": "high",
+      "tags": [
+        "recall",
+        "health_canada",
+        "imaging_system",
+        "performance_issue"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260720_health_canada_recalls_strykeflow_ps_and_ahto_devices_over_pe",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Recalls StrykeFlow PS and AHTO Devices Over Performance Failure",
+        "zh": "加拿大卫生部因性能问题召回StrykeFlow PS和AHTO医疗器械"
+      },
+      "summary": {
+        "en": "Health Canada has issued a medical device recall for the StrykeFlow PS and AHTO products due to performance issues that could compromise device effectiveness and patient safety. The recall affects specific lots distributed to healthcare facilities across Canada. Users are instructed to immediately quarantine affected units, identify them by lot number, and arrange return to the manufacturer. This safety alert requires prompt action to prevent potential clinical disruptions.",
+        "zh": "加拿大卫生部已就StrykeFlow PS和AHTO医疗器械发布召回通知，原因在于性能缺陷可能影响设备有效性及患者安全。此次召回涉及在加拿大各地医疗机构分发的特定批号产品。相关使用者须立即隔离受影响设备，根据批号进行识别，并安排退回制造商。该安全警告要求迅速采取行动，以避免潜在的临床风险。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/strykeflow-ps-and-ahto",
+      "source_name": "Health Canada",
+      "published_date": "2026-07-16",
+      "detected_date": "2026-07-20T20:30:32Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "performance_failure",
+        "health_canada",
+        "safety_alert"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260720_health_canada_alert_sema_3_device_compatibility_issue_may_af",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Alert: SEMA 3 Device Compatibility Issue May Affect Data Display and Connectivity",
+        "zh": "加拿大卫生部警报：SEMA 3设备兼容性问题或影响数据显示与连接"
+      },
+      "summary": {
+        "en": "Health Canada has issued a medical device alert for SEMA 3, a data management system used to aggregate and display information from multiple medical devices. The alert warns of a device compatibility issue that could lead to incorrect data presentation, delayed or lost data transmission, potentially impacting clinical decisions. Healthcare providers using SEMA 3 should immediately verify system compatibility with connected devices and contact the manufacturer for corrective actions.",
+        "zh": "加拿大卫生部针对用于整合与显示多设备数据的SEMA 3数据管理系统发布医疗器械警报。该警报指出存在设备兼容性问题，可能导致数据显示错误、传输延迟或丢失，进而影响临床决策。使用SEMA 3的医疗机构应立即验证系统与连接设备的兼容性，并联系生产商采取纠正措施。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/sema-3",
+      "source_name": "Health Canada",
+      "published_date": "2026-07-16",
+      "detected_date": "2026-07-20T20:30:51Z",
+      "importance": "medium",
+      "tags": [
+        "device_compatibility",
+        "recall",
+        "data_management",
+        "software"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260720_health_canada_recalls_v_loc_90_and_180_suture_products_over",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Recalls V-Loc™ 90 and 180 Suture Products Over Sterility Issues",
+        "zh": "加拿大卫生部因无菌问题召回V-Loc™ 90及180缝合线产品"
+      },
+      "summary": {
+        "en": "Health Canada has issued a recall for V-Loc™ 90 and 180 suture products due to a sterility breach that may compromise product safety. Healthcare facilities and professionals who use these barbed sutures are affected and must immediately quarantine and discontinue use of the affected lots. The recall requires identification and return of the non-sterile units to prevent potential patient infections. Affected institutions should follow Health Canada's safety alert and report any adverse incidents.",
+        "zh": "加拿大卫生部因无菌性可能受损而召回V-Loc™ 90和180缝线产品，受影响的是使用这些带倒刺缝线的医疗机构及专业人员。相关机构须立即隔离并停止使用受影响批次，将产品退回，以防止潜在的病人感染。各院所需遵循此安全警示，并报告任何不良事件。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/v-loctm-90-and-180-suture-products",
+      "source_name": "Health Canada",
+      "published_date": "2026-07-16",
+      "detected_date": "2026-07-20T20:31:03Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "sterility",
+        "suture",
+        "canada",
+        "v_loc"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260720_ctp_tubing_sets_recalled_due_to_potential_sterility_compromi",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "CTP Tubing Sets Recalled Due to Potential Sterility Compromise",
+        "zh": "CTP 管路套件因潜在无菌性问题被召回"
+      },
+      "summary": {
+        "en": "Health Canada has issued a recall of CTP tubing sets because of a sterility failure that could expose patients to infectious risks. The affected devices have been distributed to Canadian healthcare facilities. Immediate action is required: quarantine remaining stock, discontinue use, and follow the manufacturer's return or disposal instructions.",
+        "zh": "加拿大卫生部因无菌失败问题召回 CTP 管路套件，可能导致患者面临感染风险。受影响产品已分发至加拿大医疗机构。需立即采取行动：隔离剩余库存，停止使用，并遵循制造商的退回或处置指南。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/ctp-tubing-sets",
+      "source_name": "Health Canada",
+      "published_date": "2026-07-15",
+      "detected_date": "2026-07-20T20:31:14Z",
+      "importance": "high",
+      "tags": [
+        "sterility",
+        "recall",
+        "tubing_sets",
+        "medical_device",
+        "health_canada"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260720_presource_kits_with_teleflex_pilling_wecksorb_neurosponge_re",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Presource Kits with Teleflex Pilling Wecksorb Neurosponge Recalled in Canada Over Performance Issue",
+        "zh": "因性能问题，含Teleflex Pilling Wecksorb神经海绵的Presource套装在加拿大召回"
+      },
+      "summary": {
+        "en": "Health Canada has issued a recall for certain Presource surgical kits that include the Teleflex Pilling Wecksorb Neurosponge, a hemostatic agent used in neurological procedures, due to a performance failure that may compromise its ability to control bleeding. Affected products could pose serious risks to patients if they fail to perform as intended during surgery. Healthcare facilities and distributors are advised to immediately quarantine and stop using the impacted lots, and follow the manufacturer's instructions for product return. This safety alert applies to all parties in the Canadian supply chain.",
+        "zh": "加拿大卫生部因性能问题召回了含Teleflex Pilling Wecksorb神经海绵的特定Presource手术组合包，该产品为神经外科止血材料，可能因功能失效而无法有效控制出血，给手术患者带来严重风险。相关医疗机构和分销商须立即隔离并停用受影响批次，并按制造商指引退货处理。本安全警报适用于所有加拿大境内的供应链环节。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/presource-rkits-containing-teleflex-pillingr-wecksorb-neurosponge",
+      "source_name": "Health Canada",
+      "published_date": "2026-07-15",
+      "detected_date": "2026-07-20T20:31:38Z",
+      "importance": "high",
+      "tags": [
+        "canada",
+        "recall",
+        "neurosurgery",
+        "hemostatic_sponge",
+        "performance_issue"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260720_health_canada_recall_leoni_plus_medical_device_performance_i",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Recall: Leoni Plus Medical Device – Performance Issue",
+        "zh": "加拿大卫生部召回Leoni Plus医疗器械：性能问题"
+      },
+      "summary": {
+        "en": "Health Canada has issued a recall for the Leoni Plus medical device due to a performance defect that may compromise its function or safety. Healthcare providers and facilities using this device should verify affected lots, discontinue use as instructed, and follow the manufacturer’s corrective actions. This alert underscores the importance of monitoring device performance and reporting adverse events.",
+        "zh": "加拿大卫生部因性能缺陷对Leoni Plus医疗器械发出召回，该问题可能影响设备功能或安全性。使用该设备的医疗机构和医护人员应立即核查受影响批次，按制造商指引停用并采取纠正措施。此警报凸显了监控器械性能和报告不良事件的重要性。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/leoni-plus",
+      "source_name": "Health Canada",
+      "published_date": "2026-07-15",
+      "detected_date": "2026-07-20T20:31:54Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "performance_issue",
+        "canada",
+        "health_canada",
+        "safety_alert"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260720_health_canada_recalls_oribe_serene_scalp_densifying_shampoo",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Recalls Oribe Serene Scalp Densifying Shampoo Due to Bacterial Contamination",
+        "zh": "加拿大卫生部因细菌污染召回Oribe Serene头皮增量洗发水"
+      },
+      "summary": {
+        "en": "Health Canada has issued a recall for Oribe Serene Scalp Densifying Shampoo due to the presence of bacterial contamination. The affected product may pose a risk of infection, especially for individuals with weakened immune systems or broken skin. Consumers are advised to immediately stop using the shampoo and return it to the place of purchase for a refund.",
+        "zh": "加拿大卫生部因Oribe Serene头皮增量洗发水存在细菌污染发布召回通知。受影响产品可能导致感染风险，尤其对免疫系统较弱或皮肤破损者。消费者应立即停止使用该洗发水，并退回购买点获取退款。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/oribe-serene-scalp-densifying-shampoo-presence-bacterial-contamination",
+      "source_name": "Health Canada",
+      "published_date": "2026-07-13",
+      "detected_date": "2026-07-20T20:32:08Z",
+      "importance": "high",
+      "tags": [
+        "product_recall",
+        "bacterial_contamination",
+        "health_canada_alert",
+        "cosmetic_safety",
+        "consumer_advisory"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
     {
       "id": "canada_20260713_astral_150_ventilator_recall_in_canada_due_to_performance_is",
       "framework": "canada",

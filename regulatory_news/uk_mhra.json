@@ -1,7 +1,164 @@
 {
   "framework": "uk_mhra",
-  "last_updated": "2026-07-13T20:19:55Z",
+  "last_updated": "2026-07-20T20:32:25Z",
   "items": [
+    {
+      "id": "uk_mhra_20260720_mhra_guidance_register_medical_devices_to_place_on_the_marke",
+      "framework": "uk_mhra",
+      "category": "regulation_update",
+      "title": {
+        "en": "MHRA Guidance: Register Medical Devices to Place on the Market in Great Britain and Northern Ireland",
+        "zh": "MHRA 指南：在大不列颠和北爱尔兰市场销售医疗设备须先注册"
+      },
+      "summary": {
+        "en": "The MHRA has issued updated guidance on the mandatory registration of medical devices before they can be placed on the Great Britain and Northern Ireland markets. It applies to manufacturers, authorised representatives, and importers, detailing the registration process, use of the Public Access Registration Database (PARD), and alignment with the UK Medical Devices Regulations 2002. The guidance covers initial registration, updates, and compliance timelines, emphasising that no device can be marketed without valid MHRA registration.",
+        "zh": "MHRA 发布了关于医疗器械在大不列颠和北爱尔兰市场上市前必须注册的最新指南。该指南适用于制造商、授权代表和进口商，详细说明了注册流程、公共访问注册数据库（PARD）的使用，以及与《2002 年英国医疗器械法规》的一致性。内容涵盖首次注册、信息更新和合规时间表，强调未获得有效 MHRA 注册的设备不得上市销售。"
+      },
+      "source_url": "https://www.gov.uk/guidance/register-medical-devices-to-place-on-the-market",
+      "source_name": "MHRA (UK)",
+      "published_date": "2026-07-20",
+      "detected_date": "2026-07-20T20:26:59Z",
+      "importance": "medium",
+      "tags": [
+        "medical_device_registration",
+        "mhra",
+        "uk_market_access",
+        "pard",
+        "compliance"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "uk_mhra_20260720_mhra_issues_guidance_on_legal_requirements_for_prosthetic_or",
+      "framework": "uk_mhra",
+      "category": "regulation_update",
+      "title": {
+        "en": "MHRA Issues Guidance on Legal Requirements for Prosthetic, Orthotic and Ophthalmic Devices",
+        "zh": "MHRA 发布假肢、矫形器及眼科器械法律要求指南"
+      },
+      "summary": {
+        "en": "The UK MHRA has published new guidance detailing the specific regulations that apply to manufacturers of prosthetic, orthotic and ophthalmic medical devices. The document clarifies obligations for conformity assessment, registration and post-market surveillance under the UK Medical Devices Regulations. Manufacturers of these specialized devices should review the guidance to ensure full compliance and avoid regulatory gaps. This update continues MHRA’s effort to offer sector-specific regulatory clarity.",
+        "zh": "英国MHRA发布了新指南，详细说明了假肢、矫形器和眼科器械制造商须遵守的具体法规。该文件明确了这些产品在英国医疗器械法规下的合格评定、注册和上市后监督义务。相关专业器械制造商应审阅本指南，确保全面合规并避免监管漏洞。此更新延续了MHRA为特定领域提供清晰监管指导的方向。"
+      },
+      "source_url": "https://www.gov.uk/government/publications/medical-devices-legal-requirements-for-specific-medical-devices",
+      "source_name": "MHRA (UK)",
+      "published_date": "2026-07-20",
+      "detected_date": "2026-07-20T20:27:15Z",
+      "importance": "medium",
+      "tags": [
+        "mhra_guidance",
+        "prosthetics_orthotics_ophthalmics",
+        "legal_requirements"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "uk_mhra_20260720_mhra_issues_guidance_on_compliance_for_custom_made_medical_d",
+      "framework": "uk_mhra",
+      "category": "regulation_update",
+      "title": {
+        "en": "MHRA Issues Guidance on Compliance for Custom-Made Medical Devices in Great Britain",
+        "zh": "MHRA 发布定制医疗器械合规指南"
+      },
+      "summary": {
+        "en": "This MHRA guidance outlines the regulatory requirements for manufacturing custom-made medical devices in Great Britain under the UK Medical Devices Regulations 2002. It explains who qualifies as a manufacturer of custom-made devices, what documentation and quality system obligations apply, and how to demonstrate conformity. Manufacturers must review these expectations to ensure they meet legal duties and maintain market access.",
+        "zh": "该指南说明了在英国《2002 年医疗器械法规》下制造定制医疗器械的合规要求，涵盖制造商定义、文件记录、质量管理体系以及符合性证明等关键内容。相关制造商应依据指南调整流程，确保满足法定义务并保持市场准入。"
+      },
+      "source_url": "https://www.gov.uk/government/publications/custom-made-medical-devices",
+      "source_name": "MHRA (UK)",
+      "published_date": "2026-07-20",
+      "detected_date": "2026-07-20T20:27:27Z",
+      "importance": "medium",
+      "tags": [
+        "custom_made_devices",
+        "uk_mhra",
+        "regulatory_guidance",
+        "medical_device_compliance"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "uk_mhra_20260720_mhra_updates_list_of_medical_devices_with_exceptional_use_au",
+      "framework": "uk_mhra",
+      "category": "regulation_update",
+      "title": {
+        "en": "MHRA Updates List of Medical Devices with Exceptional Use Authorisations (Including Expired/Cancelled Exemptions)",
+        "zh": "MHRA更新医疗器械特殊使用授权清单（含失效/取消豁免）"
+      },
+      "summary": {
+        "en": "The MHRA has published an updated list of manufacturers and medical devices granted exceptional use authorisations (exemptions), as well as those whose authorisations have expired or been cancelled. This transparency document allows stakeholders to verify which devices may be lawfully placed on the UK market under special conditions. Affected manufacturers should review the list to confirm their product’s status and ensure compliance with any conditions attached. Regulatory professionals should monitor the list for changes that may impact market access.",
+        "zh": "MHRA发布了更新的制造商及医疗器械清单，涵盖已获特殊使用授权（豁免）的产品，以及授权已失效或被取消的设备。该公开文件使相关方可核实哪些器械可在特殊条件下合法进入英国市场。相关制造商应查阅清单以确认产品状态，并确保遵守任何附加条件。法规事务专业人员应持续关注清单变化，以评估对市场准入的潜在影响。"
+      },
+      "source_url": "https://www.gov.uk/government/publications/medical-devices-given-exceptional-use-authorisations",
+      "source_name": "MHRA (UK)",
+      "published_date": "2026-07-17",
+      "detected_date": "2026-07-20T20:27:42Z",
+      "importance": "medium",
+      "tags": [
+        "exceptional_use_authorisation",
+        "mhra",
+        "medical_devices",
+        "exemption_list",
+        "uk_regulation"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "uk_mhra_20260720_uk_mhra_updates_guidance_list_of_approved_bodies_for_medical",
+      "framework": "uk_mhra",
+      "category": "regulation_update",
+      "title": {
+        "en": "UK MHRA Updates Guidance: List of Approved Bodies for Medical Device Conformity Assessments",
+        "zh": "英国MHRA更新医疗器械认可机构名单指南"
+      },
+      "summary": {
+        "en": "The UK MHRA has released updated guidance listing the organisations currently approved to conduct conformity assessments on medical devices. Manufacturers and authorised representatives must consult this list to identify valid Approved Bodies for UKCA or CE marking purposes. The document details each body’s designation scope, enabling stakeholders to verify which bodies can assess specific device categories. Staying informed about the latest approved bodies is critical for maintaining compliance and market access in Great Britain.",
+        "zh": "英国药品和健康产品管理局（MHRA）发布了最新版指南，列出当前获准开展医疗器械合格评定的机构名单。制造商及其授权代表需依据此名单选择用于UKCA或CE标志评定的有效认可机构。该文件详细说明了各机构的指定评定范围，帮助相关方核实针对特定器械类别的认可资质。及时掌握认可机构的最新动态，对于确保产品合规并维持英国市场准入至关重要。"
+      },
+      "source_url": "https://www.gov.uk/government/publications/medical-devices-uk-approved-bodies",
+      "source_name": "MHRA (UK)",
+      "published_date": "2026-07-17",
+      "detected_date": "2026-07-20T20:27:57Z",
+      "importance": "medium",
+      "tags": [
+        "uk_mhra",
+        "approved_bodies",
+        "conformity_assessment",
+        "medical_devices",
+        "guidance_update"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "uk_mhra_20260720_mhra_field_safety_notices_summary_6_10_july_2026",
+      "framework": "uk_mhra",
+      "category": "safety_communication",
+      "title": {
+        "en": "MHRA Field Safety Notices Summary: 6–10 July 2026",
+        "zh": "MHRA现场安全通告汇总：2026年7月6日至10日"
+      },
+      "summary": {
+        "en": "The UK MHRA has published its weekly list of Field Safety Notices (FSNs) for the period 6 to 10 July 2026. This compilation contains safety alerts and corrective actions for medical devices and in-vitro diagnostics distributed in the UK. Affected healthcare providers and users should review the specific notices for device models and implement recommended actions without delay. Regulatory affairs professionals are advised to monitor these notices for potential impacts on their product portfolios.",
+        "zh": "英国MHRA发布了2026年7月6日至10日期间的现场安全通告（FSN）汇总列表，涵盖在英销售的医疗器械和体外诊断产品安全警报及纠正措施。相关医疗保健提供者和用户应立即查阅具体通告中的器械型号，并执行建议的应对措施。监管事务专业人员需持续关注此类通告，评估其对自身产品线的潜在影响。"
+      },
+      "source_url": "https://www.gov.uk/drug-device-alerts/field-safety-notices-6-to-10-july-2026",
+      "source_name": "MHRA (UK)",
+      "published_date": "2026-07-14",
+      "detected_date": "2026-07-20T20:26:45Z",
+      "importance": "medium",
+      "tags": [
+        "field_safety_notices",
+        "mhra",
+        "medical_device_safety"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
     {
       "id": "uk_mhra_20260713_mhra_updates_list_of_medical_devices_granted_exceptional_use",
       "framework": "uk_mhra",

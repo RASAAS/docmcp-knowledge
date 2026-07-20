@@ -6,6 +6,232 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### MHRA 指南：在大不列颠和北爱尔兰市场销售医疗设备须先注册
+
+**2026-07-20** | UK MHRA | 法规更新 | !! MEDIUM
+
+MHRA 发布了关于医疗器械在大不列颠和北爱尔兰市场上市前必须注册的最新指南。该指南适用于制造商、授权代表和进口商，详细说明了注册流程、公共访问注册数据库（PARD）的使用，以及与《2002 年英国医疗器械法规》的一致性。内容涵盖首次注册、信息更新和合规时间表，强调未获得有效 MHRA 注册的设备不得上市销售。
+
+**标签**: `medical_device_registration`, `mhra`, `uk_market_access`, `pard`, `compliance`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/guidance/register-medical-devices-to-place-on-the-market)
+
+---
+
+### MHRA 发布假肢、矫形器及眼科器械法律要求指南
+
+**2026-07-20** | UK MHRA | 法规更新 | !! MEDIUM
+
+英国MHRA发布了新指南，详细说明了假肢、矫形器和眼科器械制造商须遵守的具体法规。该文件明确了这些产品在英国医疗器械法规下的合格评定、注册和上市后监督义务。相关专业器械制造商应审阅本指南，确保全面合规并避免监管漏洞。此更新延续了MHRA为特定领域提供清晰监管指导的方向。
+
+**标签**: `mhra_guidance`, `prosthetics_orthotics_ophthalmics`, `legal_requirements`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/government/publications/medical-devices-legal-requirements-for-specific-medical-devices)
+
+---
+
+### MHRA 发布定制医疗器械合规指南
+
+**2026-07-20** | UK MHRA | 法规更新 | !! MEDIUM
+
+该指南说明了在英国《2002 年医疗器械法规》下制造定制医疗器械的合规要求，涵盖制造商定义、文件记录、质量管理体系以及符合性证明等关键内容。相关制造商应依据指南调整流程，确保满足法定义务并保持市场准入。
+
+**标签**: `custom_made_devices`, `uk_mhra`, `regulatory_guidance`, `medical_device_compliance`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/government/publications/custom-made-medical-devices)
+
+---
+
+### 加拿大卫生部发布III/IV类医疗器械许可申请信息要求通知
+
+**2026-07-20** | Health Canada | 法规更新 | !! MEDIUM
+
+加拿大卫生部本通知明确了III类和IV类医疗器械许可申请中需提交的具体信息和文件要求。高风险器械制造商须确保申请包含质量体系证书、详细器械描述及适用的临床证据。该指南旨在简化审评并减少缺陷项。受此影响的企业应相应更新其监管申报资料以符合要求。
+
+**标签**: `canada`, `class_iii_iv_devices`, `licence_application`, `health_canada_notice`, `regulatory_guidance`
+
+[查看来源 (Health Canada)](https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/application-information/guidance-documents/expectations-information-submitted-class-iii-iv-licence-notice-industry.html)
+
+---
+
+### MHRA更新医疗器械特殊使用授权清单（含失效/取消豁免）
+
+**2026-07-17** | UK MHRA | 法规更新 | !! MEDIUM
+
+MHRA发布了更新的制造商及医疗器械清单，涵盖已获特殊使用授权（豁免）的产品，以及授权已失效或被取消的设备。该公开文件使相关方可核实哪些器械可在特殊条件下合法进入英国市场。相关制造商应查阅清单以确认产品状态，并确保遵守任何附加条件。法规事务专业人员应持续关注清单变化，以评估对市场准入的潜在影响。
+
+**标签**: `exceptional_use_authorisation`, `mhra`, `medical_devices`, `exemption_list`, `uk_regulation`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/government/publications/medical-devices-given-exceptional-use-authorisations)
+
+---
+
+### 英国MHRA更新医疗器械认可机构名单指南
+
+**2026-07-17** | UK MHRA | 法规更新 | !! MEDIUM
+
+英国药品和健康产品管理局（MHRA）发布了最新版指南，列出当前获准开展医疗器械合格评定的机构名单。制造商及其授权代表需依据此名单选择用于UKCA或CE标志评定的有效认可机构。该文件详细说明了各机构的指定评定范围，帮助相关方核实针对特定器械类别的认可资质。及时掌握认可机构的最新动态，对于确保产品合规并维持英国市场准入至关重要。
+
+**标签**: `uk_mhra`, `approved_bodies`, `conformity_assessment`, `medical_devices`, `guidance_update`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/government/publications/medical-devices-uk-approved-bodies)
+
+---
+
+### 加拿大卫生部因性能问题召回4K超高清液晶显示器
+
+**2026-07-17** | Health Canada | 安全通报 | !! MEDIUM
+
+加拿大卫生部发布了一款4K超高清液晶显示器的医疗器械召回，原因为性能问题可能影响临床功能。受影响医疗机构和专业人员应立即核对产品序列号并遵循制造商的纠正措施，以防止潜在的诊断或操作失误。
+
+**标签**: `medical_device_recall`, `canada`, `performance_issue`, `lcd_monitor`, `health_canada`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/4k-uhd-lcd-monitor)
+
+---
+
+### Merge PACS
+
+**2026-07-17** | Health Canada | 安全通报 | !! MEDIUM
+
+Performance
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/merge-pacs-3)
+
+---
+
+### 加拿大召回ER-Spec一次性LED阴道窥器，因性能问题
+
+**2026-07-17** | Health Canada | 安全通报 | !! MEDIUM
+
+加拿大卫生部因性能问题召回ER-Spec一次性LED阴道窥器，该问题可能影响检查时器械的正常功能。受影响对象为使用该产品的医疗机构。使用者应立即隔离并停用受影响的产品，按照制造商指引退回或处置，以保障患者安全。
+
+**标签**: `recall`, `vaginal_speculum`, `performance_issue`, `canada_health`, `single_use_device`, `led_light_source`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/er-spec-single-use-vaginal-speculum-led-light-source)
+
+---
+
+### 加拿大卫生部因性能问题召回Atellica CH尿白蛋白检测试剂
+
+**2026-07-17** | Health Canada | 安全通报 | !! MEDIUM
+
+加拿大卫生部对Atellica® CH尿白蛋白（UAlb）检测试剂发布召回，原因是性能问题可能导致检测结果不准确，进而影响尿液白蛋白水平的测定。临床实验室须立即停用受影响批次，并与西门子医疗联系获取后续指引。本次召回旨在避免依赖白蛋白/肌酐比值的患者出现误诊或不当的临床管理。
+
+**标签**: `recall`, `ivd`, `urine_albumin`, `performance_issue`, `siemens_healthineers`, `health_canada`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/atellicar-ch-urine-albumin-ualb)
+
+---
+
+### 加拿大卫生部因性能问题召回Solar™ GI设备
+
+**2026-07-16** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部因性能问题对Solar™ GI医疗器械发布召回。该设备可能无法正常运行，影响胃肠诊断或治疗程序。医疗机构应立即隔离受影响批次，并按照制造商指示进行退货或更换。此警报是近期14项安全通报之一。
+
+**标签**: `health_canada`, `medical_device_recall`, `performance_issue`, `gastroenterology`, `safety_alert`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/solartm-gi)
+
+---
+
+### 加拿大卫生部召回心脏工作站：性能问题可能导致误诊
+
+**2026-07-16** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部发布心脏工作站召回通知，因其性能问题可能导致心脏分析结果不准确，存在误诊和不当治疗风险。使用该设备的医疗机构应立即采用替代方法核实诊断结果，并联系制造商采取纠正措施。此次召回影响特定型号或批次，用户需及时识别受影响设备并遵循安全警示要求。
+
+**标签**: `medical_device_recall`, `performance_issue`, `cardiac_diagnostics`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/cardiac-workstation)
+
+---
+
+### 加拿大卫生部因性能问题召回飞利浦Allura Xper FD系列
+
+**2026-07-16** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部因性能问题对飞利浦Allura Xper FD系列介入X射线系统发出召回。受影响设备可能未达到性能规格，可能对临床手术造成影响。医疗机构应立即按照飞利浦的现场安全通知检查并必要时纠正系统。法规事务专业人员需确保各部门知晓该召回，并与临床工程团队协调响应措施。
+
+**标签**: `recall`, `health_canada`, `imaging_system`, `performance_issue`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/philips-allura-xper-fd-series)
+
+---
+
+### 加拿大卫生部因性能问题召回StrykeFlow PS和AHTO医疗器械
+
+**2026-07-16** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已就StrykeFlow PS和AHTO医疗器械发布召回通知，原因在于性能缺陷可能影响设备有效性及患者安全。此次召回涉及在加拿大各地医疗机构分发的特定批号产品。相关使用者须立即隔离受影响设备，根据批号进行识别，并安排退回制造商。该安全警告要求迅速采取行动，以避免潜在的临床风险。
+
+**标签**: `medical_device_recall`, `performance_failure`, `health_canada`, `safety_alert`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/strykeflow-ps-and-ahto)
+
+---
+
+### 加拿大卫生部警报：SEMA 3设备兼容性问题或影响数据显示与连接
+
+**2026-07-16** | Health Canada | 安全通报 | !! MEDIUM
+
+加拿大卫生部针对用于整合与显示多设备数据的SEMA 3数据管理系统发布医疗器械警报。该警报指出存在设备兼容性问题，可能导致数据显示错误、传输延迟或丢失，进而影响临床决策。使用SEMA 3的医疗机构应立即验证系统与连接设备的兼容性，并联系生产商采取纠正措施。
+
+**标签**: `device_compatibility`, `recall`, `data_management`, `software`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/sema-3)
+
+---
+
+### 加拿大卫生部因无菌问题召回V-Loc™ 90及180缝合线产品
+
+**2026-07-16** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部因无菌性可能受损而召回V-Loc™ 90和180缝线产品，受影响的是使用这些带倒刺缝线的医疗机构及专业人员。相关机构须立即隔离并停止使用受影响批次，将产品退回，以防止潜在的病人感染。各院所需遵循此安全警示，并报告任何不良事件。
+
+**标签**: `medical_device_recall`, `sterility`, `suture`, `canada`, `v_loc`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/v-loctm-90-and-180-suture-products)
+
+---
+
+### CTP 管路套件因潜在无菌性问题被召回
+
+**2026-07-15** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部因无菌失败问题召回 CTP 管路套件，可能导致患者面临感染风险。受影响产品已分发至加拿大医疗机构。需立即采取行动：隔离剩余库存，停止使用，并遵循制造商的退回或处置指南。
+
+**标签**: `sterility`, `recall`, `tubing_sets`, `medical_device`, `health_canada`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/ctp-tubing-sets)
+
+---
+
+### 因性能问题，含Teleflex Pilling Wecksorb神经海绵的Presource套装在加拿大召回
+
+**2026-07-15** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部因性能问题召回了含Teleflex Pilling Wecksorb神经海绵的特定Presource手术组合包，该产品为神经外科止血材料，可能因功能失效而无法有效控制出血，给手术患者带来严重风险。相关医疗机构和分销商须立即隔离并停用受影响批次，并按制造商指引退货处理。本安全警报适用于所有加拿大境内的供应链环节。
+
+**标签**: `canada`, `recall`, `neurosurgery`, `hemostatic_sponge`, `performance_issue`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/presource-rkits-containing-teleflex-pillingr-wecksorb-neurosponge)
+
+---
+
+### 加拿大卫生部召回Leoni Plus医疗器械：性能问题
+
+**2026-07-15** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部因性能缺陷对Leoni Plus医疗器械发出召回，该问题可能影响设备功能或安全性。使用该设备的医疗机构和医护人员应立即核查受影响批次，按制造商指引停用并采取纠正措施。此警报凸显了监控器械性能和报告不良事件的重要性。
+
+**标签**: `medical_device_recall`, `performance_issue`, `canada`, `health_canada`, `safety_alert`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/leoni-plus)
+
+---
+
 ### 日本尼普洛NAZ-1血液净化装置二级召回（编号2-12897）
 
 **2026-07-15** | Japan PMDA | 安全通报 | !! MEDIUM
@@ -184,6 +410,18 @@ CDRH News
 
 ---
 
+### MHRA现场安全通告汇总：2026年7月6日至10日
+
+**2026-07-14** | UK MHRA | 安全通报 | !! MEDIUM
+
+英国MHRA发布了2026年7月6日至10日期间的现场安全通告（FSN）汇总列表，涵盖在英销售的医疗器械和体外诊断产品安全警报及纠正措施。相关医疗保健提供者和用户应立即查阅具体通告中的器械型号，并执行建议的应对措施。监管事务专业人员需持续关注此类通告，评估其对自身产品线的潜在影响。
+
+**标签**: `field_safety_notices`, `mhra`, `medical_device_safety`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-6-to-10-july-2026)
+
+---
+
 ### II级召回：波士顿科学日本 OverStitch 一次性自动缝合器
 
 **2026-07-14** | Japan PMDA | 安全通报 | !! MEDIUM
@@ -299,6 +537,18 @@ CDRH News
 FSCA: MD: Adult and paediatric/neonatal pulmonary ventilators. Reason: . Model: 107061410, 107061411; .
 
 [查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260710_036)
+
+---
+
+### 加拿大卫生部因细菌污染召回Oribe Serene头皮增量洗发水
+
+**2026-07-13** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部因Oribe Serene头皮增量洗发水存在细菌污染发布召回通知。受影响产品可能导致感染风险，尤其对免疫系统较弱或皮肤破损者。消费者应立即停止使用该洗发水，并退回购买点获取退款。
+
+**标签**: `product_recall`, `bacterial_contamination`, `health_canada_alert`, `cosmetic_safety`, `consumer_advisory`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/oribe-serene-scalp-densifying-shampoo-presence-bacterial-contamination)
 
 ---
 

@@ -6,6 +6,78 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### MHRA 指南：在大不列颠和北爱尔兰市场销售医疗设备须先注册
+
+**2026-07-20** | UK MHRA | 法规更新 | !! MEDIUM
+
+MHRA 发布了关于医疗器械在大不列颠和北爱尔兰市场上市前必须注册的最新指南。该指南适用于制造商、授权代表和进口商，详细说明了注册流程、公共访问注册数据库（PARD）的使用，以及与《2002 年英国医疗器械法规》的一致性。内容涵盖首次注册、信息更新和合规时间表，强调未获得有效 MHRA 注册的设备不得上市销售。
+
+**标签**: `medical_device_registration`, `mhra`, `uk_market_access`, `pard`, `compliance`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/guidance/register-medical-devices-to-place-on-the-market)
+
+---
+
+### MHRA 发布假肢、矫形器及眼科器械法律要求指南
+
+**2026-07-20** | UK MHRA | 法规更新 | !! MEDIUM
+
+英国MHRA发布了新指南，详细说明了假肢、矫形器和眼科器械制造商须遵守的具体法规。该文件明确了这些产品在英国医疗器械法规下的合格评定、注册和上市后监督义务。相关专业器械制造商应审阅本指南，确保全面合规并避免监管漏洞。此更新延续了MHRA为特定领域提供清晰监管指导的方向。
+
+**标签**: `mhra_guidance`, `prosthetics_orthotics_ophthalmics`, `legal_requirements`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/government/publications/medical-devices-legal-requirements-for-specific-medical-devices)
+
+---
+
+### MHRA 发布定制医疗器械合规指南
+
+**2026-07-20** | UK MHRA | 法规更新 | !! MEDIUM
+
+该指南说明了在英国《2002 年医疗器械法规》下制造定制医疗器械的合规要求，涵盖制造商定义、文件记录、质量管理体系以及符合性证明等关键内容。相关制造商应依据指南调整流程，确保满足法定义务并保持市场准入。
+
+**标签**: `custom_made_devices`, `uk_mhra`, `regulatory_guidance`, `medical_device_compliance`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/government/publications/custom-made-medical-devices)
+
+---
+
+### MHRA更新医疗器械特殊使用授权清单（含失效/取消豁免）
+
+**2026-07-17** | UK MHRA | 法规更新 | !! MEDIUM
+
+MHRA发布了更新的制造商及医疗器械清单，涵盖已获特殊使用授权（豁免）的产品，以及授权已失效或被取消的设备。该公开文件使相关方可核实哪些器械可在特殊条件下合法进入英国市场。相关制造商应查阅清单以确认产品状态，并确保遵守任何附加条件。法规事务专业人员应持续关注清单变化，以评估对市场准入的潜在影响。
+
+**标签**: `exceptional_use_authorisation`, `mhra`, `medical_devices`, `exemption_list`, `uk_regulation`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/government/publications/medical-devices-given-exceptional-use-authorisations)
+
+---
+
+### 英国MHRA更新医疗器械认可机构名单指南
+
+**2026-07-17** | UK MHRA | 法规更新 | !! MEDIUM
+
+英国药品和健康产品管理局（MHRA）发布了最新版指南，列出当前获准开展医疗器械合格评定的机构名单。制造商及其授权代表需依据此名单选择用于UKCA或CE标志评定的有效认可机构。该文件详细说明了各机构的指定评定范围，帮助相关方核实针对特定器械类别的认可资质。及时掌握认可机构的最新动态，对于确保产品合规并维持英国市场准入至关重要。
+
+**标签**: `uk_mhra`, `approved_bodies`, `conformity_assessment`, `medical_devices`, `guidance_update`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/government/publications/medical-devices-uk-approved-bodies)
+
+---
+
+### MHRA现场安全通告汇总：2026年7月6日至10日
+
+**2026-07-14** | UK MHRA | 安全通报 | !! MEDIUM
+
+英国MHRA发布了2026年7月6日至10日期间的现场安全通告（FSN）汇总列表，涵盖在英销售的医疗器械和体外诊断产品安全警报及纠正措施。相关医疗保健提供者和用户应立即查阅具体通告中的器械型号，并执行建议的应对措施。监管事务专业人员需持续关注此类通告，评估其对自身产品线的潜在影响。
+
+**标签**: `field_safety_notices`, `mhra`, `medical_device_safety`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-6-to-10-july-2026)
+
+---
+
 ### MHRA更新医疗器械特例使用授权名单，含取消与到期项目
 
 **2026-07-10** | UK MHRA | 法规更新 | !! MEDIUM

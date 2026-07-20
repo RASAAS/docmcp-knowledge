@@ -6,6 +6,184 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### Health Canada Notice: Information Expectations for Class III and IV Medical Device Licence Applications
+
+**2026-07-20** | Health Canada | Regulation Update | !! MEDIUM
+
+This Health Canada notice outlines the specific information and documentation expectations for Class III and IV medical device licence applications. Manufacturers of these higher-risk devices must ensure submissions include quality system certificates, detailed device descriptions, and clinical evidence as applicable. The guidance aims to streamline reviews and reduce deficiencies. Affected companies should update their regulatory dossiers to align with the stated expectations.
+
+**Tags**: `canada`, `class_iii_iv_devices`, `licence_application`, `health_canada_notice`, `regulatory_guidance`
+
+[View Source (Health Canada)](https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/application-information/guidance-documents/expectations-information-submitted-class-iii-iv-licence-notice-industry.html)
+
+---
+
+### Health Canada Issues Recall for 4K UHD LCD Monitor Due to Performance Issue
+
+**2026-07-17** | Health Canada | Safety Communication | !! MEDIUM
+
+Health Canada has issued a medical device recall for a 4K UHD LCD monitor due to a performance issue that may compromise its clinical function. Affected healthcare facilities and professionals should immediately verify affected serial numbers and follow the manufacturer's corrective action instructions to prevent potential diagnostic or procedural errors.
+
+**Tags**: `medical_device_recall`, `canada`, `performance_issue`, `lcd_monitor`, `health_canada`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/4k-uhd-lcd-monitor)
+
+---
+
+### Merge PACS
+
+**2026-07-17** | Health Canada | Safety Communication | !! MEDIUM
+
+Performance
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/merge-pacs-3)
+
+---
+
+### Recall of ER-Spec Single-Use Vaginal Speculum with LED Light Source Due to Performance Issues
+
+**2026-07-17** | Health Canada | Safety Communication | !! MEDIUM
+
+Health Canada has issued a recall of the ER-Spec Single-Use Vaginal Speculum with LED Light Source because of performance concerns that may compromise device functionality during examination. The recall affects healthcare facilities that use these devices. Users should immediately quarantine all affected units, discontinue use, and follow the manufacturer’s return or disposal instructions to ensure patient safety.
+
+**Tags**: `recall`, `vaginal_speculum`, `performance_issue`, `canada_health`, `single_use_device`, `led_light_source`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/er-spec-single-use-vaginal-speculum-led-light-source)
+
+---
+
+### Health Canada Recalls Atellica CH Urine Albumin (UAlb) Test Due to Performance Issues
+
+**2026-07-17** | Health Canada | Safety Communication | !! MEDIUM
+
+Health Canada has issued a recall for the Atellica® CH Urine Albumin (UAlb) assay, a clinical chemistry test used to measure urine albumin levels, because of a performance problem that may lead to inaccurate results. Laboratories using the affected product are instructed to stop using the impacted lots immediately and to contact Siemens Healthineers for further guidance. The recall aims to prevent misdiagnosis or inappropriate clinical management of patients relying on albumin-to-creatinine ratio assessments.
+
+**Tags**: `recall`, `ivd`, `urine_albumin`, `performance_issue`, `siemens_healthineers`, `health_canada`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/atellicar-ch-urine-albumin-ualb)
+
+---
+
+### Health Canada Issues Recall for Solar™ GI Device Due to Performance Failure
+
+**2026-07-16** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a medical device recall for the Solar™ GI due to performance issues. The device may fail to operate as intended, potentially impacting diagnostic or therapeutic procedures in gastroenterology. Healthcare facilities should immediately quarantine affected lots and follow manufacturer instructions for return or replacement. This alert is part of a recent batch of 14 safety communications.
+
+**Tags**: `health_canada`, `medical_device_recall`, `performance_issue`, `gastroenterology`, `safety_alert`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/solartm-gi)
+
+---
+
+### Health Canada Recalls Cardiac Workstation Over Performance Issue Causing Possible Misdiagnosis
+
+**2026-07-16** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a recall for the Cardiac Workstation due to a performance problem that may produce inaccurate cardiac analysis, posing a risk of misdiagnosis and inappropriate patient management. Healthcare facilities using this device should immediately verify any diagnostic results with alternative methods and contact the manufacturer for corrective actions. The recall affects specific models or lots; users must identify affected units and follow the safety alert instructions without delay.
+
+**Tags**: `medical_device_recall`, `performance_issue`, `cardiac_diagnostics`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/cardiac-workstation)
+
+---
+
+### Health Canada Recalls Philips Allura Xper FD Series Due to Performance Issue
+
+**2026-07-16** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a recall for the Philips Allura Xper FD series interventional X-ray systems because of a performance problem that could affect device function. The affected devices may not meet performance specifications, potentially impacting clinical procedures. Healthcare facilities should immediately follow Philips' field safety notice to inspect and, if necessary, correct the systems. Regulatory affairs professionals must ensure awareness of this recall and coordinate response actions with clinical engineering teams.
+
+**Tags**: `recall`, `health_canada`, `imaging_system`, `performance_issue`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/philips-allura-xper-fd-series)
+
+---
+
+### Health Canada Recalls StrykeFlow PS and AHTO Devices Over Performance Failure
+
+**2026-07-16** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a medical device recall for the StrykeFlow PS and AHTO products due to performance issues that could compromise device effectiveness and patient safety. The recall affects specific lots distributed to healthcare facilities across Canada. Users are instructed to immediately quarantine affected units, identify them by lot number, and arrange return to the manufacturer. This safety alert requires prompt action to prevent potential clinical disruptions.
+
+**Tags**: `medical_device_recall`, `performance_failure`, `health_canada`, `safety_alert`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/strykeflow-ps-and-ahto)
+
+---
+
+### Health Canada Alert: SEMA 3 Device Compatibility Issue May Affect Data Display and Connectivity
+
+**2026-07-16** | Health Canada | Safety Communication | !! MEDIUM
+
+Health Canada has issued a medical device alert for SEMA 3, a data management system used to aggregate and display information from multiple medical devices. The alert warns of a device compatibility issue that could lead to incorrect data presentation, delayed or lost data transmission, potentially impacting clinical decisions. Healthcare providers using SEMA 3 should immediately verify system compatibility with connected devices and contact the manufacturer for corrective actions.
+
+**Tags**: `device_compatibility`, `recall`, `data_management`, `software`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/sema-3)
+
+---
+
+### Health Canada Recalls V-Loc™ 90 and 180 Suture Products Over Sterility Issues
+
+**2026-07-16** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a recall for V-Loc™ 90 and 180 suture products due to a sterility breach that may compromise product safety. Healthcare facilities and professionals who use these barbed sutures are affected and must immediately quarantine and discontinue use of the affected lots. The recall requires identification and return of the non-sterile units to prevent potential patient infections. Affected institutions should follow Health Canada's safety alert and report any adverse incidents.
+
+**Tags**: `medical_device_recall`, `sterility`, `suture`, `canada`, `v_loc`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/v-loctm-90-and-180-suture-products)
+
+---
+
+### CTP Tubing Sets Recalled Due to Potential Sterility Compromise
+
+**2026-07-15** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a recall of CTP tubing sets because of a sterility failure that could expose patients to infectious risks. The affected devices have been distributed to Canadian healthcare facilities. Immediate action is required: quarantine remaining stock, discontinue use, and follow the manufacturer's return or disposal instructions.
+
+**Tags**: `sterility`, `recall`, `tubing_sets`, `medical_device`, `health_canada`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/ctp-tubing-sets)
+
+---
+
+### Presource Kits with Teleflex Pilling Wecksorb Neurosponge Recalled in Canada Over Performance Issue
+
+**2026-07-15** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a recall for certain Presource surgical kits that include the Teleflex Pilling Wecksorb Neurosponge, a hemostatic agent used in neurological procedures, due to a performance failure that may compromise its ability to control bleeding. Affected products could pose serious risks to patients if they fail to perform as intended during surgery. Healthcare facilities and distributors are advised to immediately quarantine and stop using the impacted lots, and follow the manufacturer's instructions for product return. This safety alert applies to all parties in the Canadian supply chain.
+
+**Tags**: `canada`, `recall`, `neurosurgery`, `hemostatic_sponge`, `performance_issue`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/presource-rkits-containing-teleflex-pillingr-wecksorb-neurosponge)
+
+---
+
+### Health Canada Recall: Leoni Plus Medical Device – Performance Issue
+
+**2026-07-15** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a recall for the Leoni Plus medical device due to a performance defect that may compromise its function or safety. Healthcare providers and facilities using this device should verify affected lots, discontinue use as instructed, and follow the manufacturer’s corrective actions. This alert underscores the importance of monitoring device performance and reporting adverse events.
+
+**Tags**: `medical_device_recall`, `performance_issue`, `canada`, `health_canada`, `safety_alert`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/leoni-plus)
+
+---
+
+### Health Canada Recalls Oribe Serene Scalp Densifying Shampoo Due to Bacterial Contamination
+
+**2026-07-13** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a recall for Oribe Serene Scalp Densifying Shampoo due to the presence of bacterial contamination. The affected product may pose a risk of infection, especially for individuals with weakened immune systems or broken skin. Consumers are advised to immediately stop using the shampoo and return it to the place of purchase for a refund.
+
+**Tags**: `product_recall`, `bacterial_contamination`, `health_canada_alert`, `cosmetic_safety`, `consumer_advisory`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/oribe-serene-scalp-densifying-shampoo-presence-bacterial-contamination)
+
+---
+
 ### Astral 150 Ventilator Recall in Canada Due to Performance Issue Posing Ventilation Loss Risk
 
 **2026-07-09** | Health Canada | Safety Communication | !!! HIGH

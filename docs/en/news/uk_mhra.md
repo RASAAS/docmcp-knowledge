@@ -6,6 +6,78 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### MHRA Guidance: Register Medical Devices to Place on the Market in Great Britain and Northern Ireland
+
+**2026-07-20** | UK MHRA | Regulation Update | !! MEDIUM
+
+The MHRA has issued updated guidance on the mandatory registration of medical devices before they can be placed on the Great Britain and Northern Ireland markets. It applies to manufacturers, authorised representatives, and importers, detailing the registration process, use of the Public Access Registration Database (PARD), and alignment with the UK Medical Devices Regulations 2002. The guidance covers initial registration, updates, and compliance timelines, emphasising that no device can be marketed without valid MHRA registration.
+
+**Tags**: `medical_device_registration`, `mhra`, `uk_market_access`, `pard`, `compliance`
+
+[View Source (MHRA (UK))](https://www.gov.uk/guidance/register-medical-devices-to-place-on-the-market)
+
+---
+
+### MHRA Issues Guidance on Legal Requirements for Prosthetic, Orthotic and Ophthalmic Devices
+
+**2026-07-20** | UK MHRA | Regulation Update | !! MEDIUM
+
+The UK MHRA has published new guidance detailing the specific regulations that apply to manufacturers of prosthetic, orthotic and ophthalmic medical devices. The document clarifies obligations for conformity assessment, registration and post-market surveillance under the UK Medical Devices Regulations. Manufacturers of these specialized devices should review the guidance to ensure full compliance and avoid regulatory gaps. This update continues MHRA’s effort to offer sector-specific regulatory clarity.
+
+**Tags**: `mhra_guidance`, `prosthetics_orthotics_ophthalmics`, `legal_requirements`
+
+[View Source (MHRA (UK))](https://www.gov.uk/government/publications/medical-devices-legal-requirements-for-specific-medical-devices)
+
+---
+
+### MHRA Issues Guidance on Compliance for Custom-Made Medical Devices in Great Britain
+
+**2026-07-20** | UK MHRA | Regulation Update | !! MEDIUM
+
+This MHRA guidance outlines the regulatory requirements for manufacturing custom-made medical devices in Great Britain under the UK Medical Devices Regulations 2002. It explains who qualifies as a manufacturer of custom-made devices, what documentation and quality system obligations apply, and how to demonstrate conformity. Manufacturers must review these expectations to ensure they meet legal duties and maintain market access.
+
+**Tags**: `custom_made_devices`, `uk_mhra`, `regulatory_guidance`, `medical_device_compliance`
+
+[View Source (MHRA (UK))](https://www.gov.uk/government/publications/custom-made-medical-devices)
+
+---
+
+### MHRA Updates List of Medical Devices with Exceptional Use Authorisations (Including Expired/Cancelled Exemptions)
+
+**2026-07-17** | UK MHRA | Regulation Update | !! MEDIUM
+
+The MHRA has published an updated list of manufacturers and medical devices granted exceptional use authorisations (exemptions), as well as those whose authorisations have expired or been cancelled. This transparency document allows stakeholders to verify which devices may be lawfully placed on the UK market under special conditions. Affected manufacturers should review the list to confirm their product’s status and ensure compliance with any conditions attached. Regulatory professionals should monitor the list for changes that may impact market access.
+
+**Tags**: `exceptional_use_authorisation`, `mhra`, `medical_devices`, `exemption_list`, `uk_regulation`
+
+[View Source (MHRA (UK))](https://www.gov.uk/government/publications/medical-devices-given-exceptional-use-authorisations)
+
+---
+
+### UK MHRA Updates Guidance: List of Approved Bodies for Medical Device Conformity Assessments
+
+**2026-07-17** | UK MHRA | Regulation Update | !! MEDIUM
+
+The UK MHRA has released updated guidance listing the organisations currently approved to conduct conformity assessments on medical devices. Manufacturers and authorised representatives must consult this list to identify valid Approved Bodies for UKCA or CE marking purposes. The document details each body’s designation scope, enabling stakeholders to verify which bodies can assess specific device categories. Staying informed about the latest approved bodies is critical for maintaining compliance and market access in Great Britain.
+
+**Tags**: `uk_mhra`, `approved_bodies`, `conformity_assessment`, `medical_devices`, `guidance_update`
+
+[View Source (MHRA (UK))](https://www.gov.uk/government/publications/medical-devices-uk-approved-bodies)
+
+---
+
+### MHRA Field Safety Notices Summary: 6–10 July 2026
+
+**2026-07-14** | UK MHRA | Safety Communication | !! MEDIUM
+
+The UK MHRA has published its weekly list of Field Safety Notices (FSNs) for the period 6 to 10 July 2026. This compilation contains safety alerts and corrective actions for medical devices and in-vitro diagnostics distributed in the UK. Affected healthcare providers and users should review the specific notices for device models and implement recommended actions without delay. Regulatory affairs professionals are advised to monitor these notices for potential impacts on their product portfolios.
+
+**Tags**: `field_safety_notices`, `mhra`, `medical_device_safety`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-6-to-10-july-2026)
+
+---
+
 ### MHRA Updates List of Medical Devices Granted Exceptional Use Authorisations, Including Cancellations
 
 **2026-07-10** | UK MHRA | Regulation Update | !! MEDIUM
