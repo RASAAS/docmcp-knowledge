@@ -5,7 +5,7 @@
 | 标准号 | 标题 | 状态 | 适用GSPRs | 官方链接 |
 |--------|------|------|-----------|----------|
 | EN 13795-1:2025 | 手术衣物和手术铺单 - 要求和试验方法 - 第1部分：手术铺单和手术衣 | active | 11, 14 | [官方链接](https://standards.iteh.ai/catalog/standards/cen/488f3348-3c28-424b-aa83-9c46a49fd28f/en-13795-1-2025) |
-| EN 13726:2023 | 初级伤口敷料的试验方法 - 吸收性、水蒸气透过率、防水性和延展性 | active | 1, 3, 5, 10 | [官方链接](https://standards.iteh.ai/catalog/standards/cen/47263f9e-7265-4ef9-bed2-2a9b6ee49ea9/en-13726-2023) |
+| EN 13726:2023 | 初级伤口敷料的试验方法 - 吸收性、水蒸气透过率、防水性和延展性 | active | 1, 3, 5, 10 | [官方链接](https://standards.iteh.ai/catalog/standards/cen/041555b3-d2e5-4702-9a91-3589c000c27e/en-13726-2023) |
 | ISO/TS 20721:2025 | 外科植入物 - 可吸收植入物 - 可吸收金属植入物评估的一般指南和要求 | active | 1, 3, 5, 10 | [官方链接](https://www.iso.org/standard/89265.html) |
 | EN 1644-1:1997 | 医用无纺布敷料的试验方法 - 第1部分：全棉或含棉无纺布敷料 | active | 1, 3, 5, 10 | [官方链接](https://standards.iteh.ai/catalog/standards/cen/8c935175-9937-4e30-af36-e94db5829888/en-1644-1-1997) |
 | EN 13795-2:2025 | 手术衣物和铺巾 - 要求和试验方法 - 第2部分：洁净空气服 | active | 1, 3, 5, 11 | [官方链接](https://standards.iteh.ai/catalog/standards/cen/ce1617f8-f95d-425c-9512-6aa6393dbcaf/en-13795-2-2025) |

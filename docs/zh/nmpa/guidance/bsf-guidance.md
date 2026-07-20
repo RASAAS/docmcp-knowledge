@@ -1,16 +1,22 @@
 ---
-title: 呼吸系统过滤器注册审查指导原则
-description: 
-published: 
+id: nmpa-呼吸系统过滤器注册审查指导原则2023年第22号
+title:
+  zh: 呼吸系统过滤器注册审查指导原则（2023年第22号）
+  en: ''
+regulation: nmpa
+category: nmpa/guidance
+status: active
+source_url: https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/08-respiratory-anesthesia/bsf-guidance/
+source_url_verified: '2026-02-23'
+source_url_status: migrated
+source_format: html
+translation: original
+last_verified: '2026-02-23'
+contributor: RASAAS
+migrated_from: wordpress
+wordpress_id: 32
+effective_date: '2025-04-19'
 ---
-
-# 呼吸系统过滤器注册审查指导原则
-
-<!-- fulltext-start -->
-
----
-
-## 官方文件全文
 
 # 呼吸系统过滤器注册审查指导原则（2023年第22号）
 
@@ -287,6 +293,3 @@ published:
 ## 质量管理体系文件
 
 呼吸系统过滤器的质量管理体系文件应符合《医疗器械生产质量管理规范》的要求，并按《医疗器械注册申报资料要求及说明》提交资料。
-
-
-<!-- fulltext-end -->

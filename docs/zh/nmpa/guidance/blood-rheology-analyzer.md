@@ -1,16 +1,22 @@
 ---
-title: 血流变分析仪注册审查指导原则
-description: 
-published: 
+id: nmpa-血流变分析仪注册审查指导原则
+title:
+  zh: 血流变分析仪注册审查指导原则
+  en: ''
+regulation: nmpa
+category: nmpa/guidance
+status: active
+source_url: https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/22-diagnosis/blood-rheology-analyzer/
+source_url_verified: '2026-02-23'
+source_url_status: migrated
+source_format: html
+translation: original
+last_verified: '2026-02-23'
+contributor: RASAAS
+migrated_from: wordpress
+wordpress_id: 4607
+effective_date: '2025-09-13'
 ---
-
-# 血流变分析仪注册审查指导原则
-
-<!-- fulltext-start -->
-
----
-
-## 官方文件全文
 
 # 血流变分析仪注册审查指导原则
 
@@ -302,6 +308,3 @@ published:
 [20]喻超,哈小琴,韩冉,丛玉隆. 锥板法检测全血黏度标准化专家共识[J]. 中国医药导报, 2023, 20(22):4-7.
 
 [21]Oguz K. Baskurt, Michel Boynard, Giles C.Cokelet, et al. New guidelines for hemorheological laboratory techniques[J]. Clinical Hemorheology and Microcirculation, 2009, 42:75-97.
-
-
-<!-- fulltext-end -->

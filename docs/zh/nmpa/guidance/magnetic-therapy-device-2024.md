@@ -1,16 +1,22 @@
 ---
-title: 磁疗产品注册审查指导原则（2024年修订版）
-description: 
-published: 
+id: nmpa-磁疗产品注册审查指导原则2024年修订版
+title:
+  zh: 磁疗产品注册审查指导原则（2024年修订版）
+  en: ''
+regulation: nmpa
+category: nmpa/guidance
+status: active
+source_url: https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/09-physical-therapy/magnetic-therapy-device-2024/
+source_url_verified: '2026-02-23'
+source_url_status: migrated
+source_format: html
+translation: original
+last_verified: '2026-02-23'
+contributor: RASAAS
+migrated_from: wordpress
+wordpress_id: 4085
+effective_date: '2025-04-19'
 ---
-
-# 磁疗产品注册审查指导原则（2024年修订版）
-
-<!-- fulltext-start -->
-
----
-
-## 官方文件全文
 
 # 磁疗产品注册审查指导原则（2024年修订版）
 
@@ -436,6 +442,3 @@ published:
 使用 错误| 不遵守磁疗产品的使用规则； 缺乏电磁场知识； 违反常规。| 对人体产生辐射的影响。  
 失效产生的危害| 功能 退化| 由于老化、磨损和重复使用而导致功能退化。| 产生无效的治疗，延误患者病情。  
 磁能 失效| 非预期的电能/磁能完全性的丧失。| 产生无效的治疗，延误患者病情。
-
-
-<!-- fulltext-end -->

@@ -13,7 +13,7 @@
 | ISO 11137-2:2013+AMD1:2022 | 保健品灭菌 - 辐射 - 第2部分：灭菌剂量的确定 | active | 11, 11.1 | [官方链接](https://www.iso.org/standard/62442.html) |
 | ISO 17665:2024 | 保健品灭菌 - 湿热 - 灭菌过程的开发、确认和常规控制要求 | active | 11, 11.1 | [官方链接](https://www.iso.org/standard/80271.html) |
 | ISO 11737-2:2019 | 保健品灭菌 - 微生物学方法 - 第2部分：灭菌过程中使用的无菌试验 | active | 11, 11.3 | [官方链接](https://www.iso.org/standard/70801.html) |
-| ISO 13408-1:2024 |  | active | 11, 11.5, 11.6 | [官方链接](https://www.iso.org/standard/81899.html) |
-| ISO 13408-6:2021 |  | active | 11, 11.5, 11.6 | [官方链接](https://www.iso.org/standard/77547.html) |
-| ISO 14160:2021 |  | active | 11, 11.5, 11.6, 13 | [官方链接](https://www.iso.org/standard/75213.html) |
-| ISO 25424:2019 |  | active | 11, 11.5 | [官方链接](https://www.iso.org/standard/69545.html) |
+| ISO 13408-1:2023 |  | active | 11, 11.5, 11.6 | [官方链接](https://www.iso.org/standard/77151.html) |
+| ISO 13408-6:2021 |  | active | 11, 11.5, 11.6 | [官方链接](https://www.iso.org/standard/72836.html) |
+| ISO 14160:2020 |  | active | 11, 11.5, 11.6, 13 | [官方链接](https://www.iso.org/standard/73159.html) |
+| ISO 25424:2018 |  | active | 11, 11.5 | [官方链接](https://www.iso.org/standard/70822.html) |

@@ -46,7 +46,7 @@ export default {
       ]
     },
     {
-      "text": "Clinical Evaluation (21)",
+      "text": "Clinical Evaluation (22)",
       "collapsed": true,
       "items": [
         {
@@ -92,6 +92,10 @@ export default {
         {
           "text": "Equivalent Device",
           "link": "/en/insights/clinical-evaluation/equivalency"
+        },
+        {
+          "text": "Clinical Investigation Documents under ISO 14155:2026 (CIP/IB/ICF/SAP/CIR)",
+          "link": "/en/insights/clinical-evaluation/iso-14155-2026-ci-documents"
         },
         {
           "text": "Literature Databases and Justification",
@@ -146,7 +150,7 @@ export default {
       "link": "/en/eu_mdr/mdcg"
     },
     {
-      "text": "MDCG Guidance (30)",
+      "text": "MDCG Guidance (31)",
       "collapsed": false,
       "items": [
         {
@@ -258,6 +262,10 @@ export default {
           "link": "/en/eu_mdr/mdcg/mdcg-2024-5"
         },
         {
+          "text": "MDCG 2025-10: Guidance on Post-Market Surveillance of Medical Devices and IVDs",
+          "link": "/en/eu_mdr/mdcg/mdcg-2025-10"
+        },
+        {
           "text": "MDCG 2025-4: Guidance on Safe Making Available of MDSW Apps on Online Platforms",
           "link": "/en/eu_mdr/mdcg/mdcg-2025-4"
         },
@@ -268,10 +276,6 @@ export default {
         {
           "text": "MDCG 2025-9: Guidance on Breakthrough Devices (BtX)",
           "link": "/en/eu_mdr/mdcg/mdcg-2025-9"
-        },
-        {
-          "text": "MDCG 2025-10: Guidance on Post-Market Surveillance",
-          "link": "/en/eu_mdr/mdcg/mdcg-2025-10"
         }
       ]
     }

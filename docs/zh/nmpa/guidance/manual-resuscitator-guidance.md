@@ -1,16 +1,22 @@
 ---
-title: 人工复苏器注册技术审查指导原则
-description: 
-published: 
+id: nmpa-人工复苏器注册技术审查指导原则2019年第79号
+title:
+  zh: 人工复苏器注册技术审查指导原则（2019年第79号）
+  en: ''
+regulation: nmpa
+category: nmpa/guidance
+status: active
+source_url: https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/08-respiratory-anesthesia/manual-resuscitator-guidance/
+source_url_verified: '2026-02-23'
+source_url_status: migrated
+source_format: html
+translation: original
+last_verified: '2026-02-23'
+contributor: RASAAS
+migrated_from: wordpress
+wordpress_id: 88
+effective_date: '2025-04-19'
 ---
-
-# 人工复苏器注册技术审查指导原则
-
-<!-- fulltext-start -->
-
----
-
-## 官方文件全文
 
 # 人工复苏器注册技术审查指导原则（2019年第79号）
 
@@ -345,6 +351,3 @@ ISO 18562-1:2017| Biocompatibility evaluation of breathing gas pathways in healt
 （四）产品检验报告：应关注检测的典型型号是否覆盖所有性能要求，检验报告所附照片中的产品结构组成、标识标签等信息，是否与其他申报资料描述相同。
 
 （五）对说明书的审查应注意明确产品的信息，选配件应列明并表述正确。
-
-
-<!-- fulltext-end -->

@@ -1,16 +1,22 @@
 ---
-title: 医疗器械可用性工程注册审查指导原则
-description: 
-published: 
+id: nmpa-医疗器械可用性工程注册审查指导原则2024年第13号
+title:
+  zh: 医疗器械可用性工程注册审查指导原则（2024年第13号）
+  en: ''
+regulation: nmpa
+category: nmpa/guidance
+status: active
+source_url: https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/general-and-others/usability/
+source_url_verified: '2026-02-23'
+source_url_status: migrated
+source_format: html
+translation: original
+last_verified: '2026-02-23'
+contributor: RASAAS
+migrated_from: wordpress
+wordpress_id: 3452
+effective_date: '2025-04-19'
 ---
-
-# 医疗器械可用性工程注册审查指导原则
-
-<!-- fulltext-start -->
-
----
-
-## 官方文件全文
 
 # 医疗器械可用性工程注册审查指导原则（2024年第13号）
 
@@ -980,6 +986,3 @@ published:
 [2] 参考险肇事故的定义。
 
 [3] 参照现成软件的定义。
-
-
-<!-- fulltext-end -->

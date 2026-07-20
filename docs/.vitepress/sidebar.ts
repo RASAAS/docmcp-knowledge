@@ -1062,7 +1062,7 @@ export default {
       ]
     },
     {
-      "text": "临床评价方法论 (21)",
+      "text": "临床评价方法论 (22)",
       "collapsed": true,
       "items": [
         {
@@ -1108,6 +1108,10 @@ export default {
         {
           "text": "等同器械",
           "link": "/zh/insights/clinical-evaluation/equivalency"
+        },
+        {
+          "text": "ISO 14155:2026 临床研究文档体系（CIP/IB/ICF/SAP/CIR）",
+          "link": "/zh/insights/clinical-evaluation/iso-14155-2026-ci-documents"
         },
         {
           "text": "文献来源及选择理由",
@@ -1162,7 +1166,7 @@ export default {
       "link": "/zh/eu_mdr/mdcg"
     },
     {
-      "text": "MDCG 指南文件 (30)",
+      "text": "MDCG 指南文件 (31)",
       "collapsed": false,
       "items": [
         {
@@ -1274,6 +1278,10 @@ export default {
           "link": "/zh/eu_mdr/mdcg/mdcg-2024-5"
         },
         {
+          "text": "MDCG 2025-10：医疗器械和体外诊断医疗器械上市后监督指南",
+          "link": "/zh/eu_mdr/mdcg/mdcg-2025-10"
+        },
+        {
           "text": "MDCG 2025-4：在线平台上安全提供MDSW应用指南",
           "link": "/zh/eu_mdr/mdcg/mdcg-2025-4"
         },
@@ -1284,10 +1292,6 @@ export default {
         {
           "text": "MDCG 2025-9：突破性医疗器械（BtX）指南",
           "link": "/zh/eu_mdr/mdcg/mdcg-2025-9"
-        },
-        {
-          "text": "MDCG 2025-10：上市后监督指南",
-          "link": "/zh/eu_mdr/mdcg/mdcg-2025-10"
         }
       ]
     }

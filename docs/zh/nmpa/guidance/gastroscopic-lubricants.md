@@ -1,16 +1,22 @@
 ---
-title: 胃镜润滑液注册审查指导原则
-description: 
-published: 
+id: nmpa-胃镜润滑液注册审查指导原则
+title:
+  zh: 胃镜润滑液注册审查指导原则
+  en: ''
+regulation: nmpa
+category: nmpa/guidance
+status: active
+source_url: https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/06-imaging/gastroscopic-lubricants/
+source_url_verified: '2026-02-23'
+source_url_status: migrated
+source_format: html
+translation: original
+last_verified: '2026-02-23'
+contributor: RASAAS
+migrated_from: wordpress
+wordpress_id: 4684
+effective_date: '2025-09-17'
 ---
-
-# 胃镜润滑液注册审查指导原则
-
-<!-- fulltext-start -->
-
----
-
-## 官方文件全文
 
 # 胃镜润滑液注册审查指导原则
 
@@ -359,6 +365,3 @@ published:
 寿命终止标识缺失| 未标识产品有效期| 使用过期产品导致性能失效或危害  
 不适当的产品包装| 包装破损、封口不严、材料不当； 使用前未检查密封状态| 产品污染、性能下降或有效期缩短  
 废物处置不当| 使用后未按要求销毁| 化学/生物污染扩散
-
-
-<!-- fulltext-end -->

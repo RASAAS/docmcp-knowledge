@@ -1,16 +1,22 @@
 ---
-title: 远程监测系统注册审查指导原则
-description: 
-published: 
+id: nmpa-远程监测系统注册审查指导原则
+title:
+  zh: 远程监测系统注册审查指导原则
+  en: ''
+regulation: nmpa
+category: nmpa/guidance
+status: active
+source_url: https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/21-sw/remote-monitoring-system-2024/
+source_url_verified: '2026-02-23'
+source_url_status: migrated
+source_format: html
+translation: original
+last_verified: '2026-02-23'
+contributor: RASAAS
+migrated_from: wordpress
+wordpress_id: 4216
+effective_date: '2025-04-20'
 ---
-
-# 远程监测系统注册审查指导原则
-
-<!-- fulltext-start -->
-
----
-
-## 官方文件全文
 
 # 远程监测系统注册审查指导原则
 
@@ -939,6 +945,3 @@ IEC 60601-2-25:2011| Medical electrical equipment – Part 2-25: Particular requ
 **产品配置表******
 
 **（建议按本指导原则附录****2****编写）**
-
-
-<!-- fulltext-end -->

@@ -1,16 +1,22 @@
 ---
-title: 一次性使用引流管产品注册审查指导原则（2024年修订版）
-description: 
-published: 
+id: nmpa-一次性使用引流管产品注册审查指导原则2024年修订版
+title:
+  zh: 一次性使用引流管产品注册审查指导原则（2024年修订版）
+  en: ''
+regulation: nmpa
+category: nmpa/guidance
+status: active
+source_url: https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/14-infusion-care-and-protection/disposable-drainage-tube-2024/
+source_url_verified: '2026-02-23'
+source_url_status: migrated
+source_format: html
+translation: original
+last_verified: '2026-02-23'
+contributor: RASAAS
+migrated_from: wordpress
+wordpress_id: 4043
+effective_date: '2025-04-19'
 ---
-
-# 一次性使用引流管产品注册审查指导原则（2024年修订版）
-
-<!-- fulltext-start -->
-
----
-
-## 官方文件全文
 
 # 一次性使用引流管产品注册审查指导原则（2024年修订版）
 
@@ -391,6 +397,3 @@ published:
 再次使用和/或不适当的再次使用| 产品标识没有明确只限一次性使用| 出现细菌感染、交叉感染、以及粘膜损伤、气囊破裂等现象  
   
 ###
-
-
-<!-- fulltext-end -->

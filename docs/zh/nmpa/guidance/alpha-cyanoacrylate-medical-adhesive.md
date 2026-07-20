@@ -1,16 +1,22 @@
 ---
-title: "α-氰基丙烯酸酯类医用粘合剂注册审查指导原则(2024年修订版）"
-description: 
-published: 
+id: nmpa-α-氰基丙烯酸酯类医用粘合剂注册审查指导原则2024年修订版
+title:
+  zh: α -氰基丙烯酸酯类医用粘合剂注册审查指导原则(2024年修订版)
+  en: ''
+regulation: nmpa
+category: nmpa/guidance
+status: active
+source_url: https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/02-non-active-surgical/%ce%b1-cyanoacrylate-medical-adhesive/
+source_url_verified: '2026-02-23'
+source_url_status: migrated
+source_format: html
+translation: original
+last_verified: '2026-02-23'
+contributor: RASAAS
+migrated_from: wordpress
+wordpress_id: 3873
+effective_date: '2025-04-19'
 ---
-
-# α-氰基丙烯酸酯类医用粘合剂注册审查指导原则(2024年修订版）
-
-<!-- fulltext-start -->
-
----
-
-## 官方文件全文
 
 # α -氰基丙烯酸酯类医用粘合剂注册审查指导原则(2024年修订版)
 
@@ -506,6 +512,3 @@ a.粘度：是指成品液体粘合剂的粘度，是主体成分稳定性的主
 b.固化时间：是指粘合剂充分聚合，在无需辅助的情况下使伤口边缘保持贴合的时间。固化时间也是产品从传入涂抹器到达测试装置达到最大温度所需时间。
 
 c.聚合热：α-氰基丙烯酸酯类粘合材料的聚合作用一般是放热反应。释放热量可采用固化（聚合）率和手术区使用产品的量及涂抹的面积及厚度来进行控制。聚合产生的热量可能造成患者不适，甚至组织损伤。因此，建议提供聚合热数据以及确定聚合热的测试方法。
-
-
-<!-- fulltext-end -->

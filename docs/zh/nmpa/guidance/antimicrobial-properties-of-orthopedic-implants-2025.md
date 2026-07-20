@@ -1,16 +1,22 @@
 ---
-title: 骨科植入物抗菌性能评价注册审查指导原则
-description: 
-published: 
+id: nmpa-骨科植入物抗菌性能评价注册审查指导原则
+title:
+  zh: 骨科植入物抗菌性能评价注册审查指导原则
+  en: ''
+regulation: nmpa
+category: nmpa/guidance
+status: active
+source_url: https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/13-implants/antimicrobial-properties-of-orthopedic-implants-2025/
+source_url_verified: '2026-02-23'
+source_url_status: migrated
+source_format: html
+translation: original
+last_verified: '2026-02-23'
+contributor: RASAAS
+migrated_from: wordpress
+wordpress_id: 4168
+effective_date: '2025-04-20'
 ---
-
-# 骨科植入物抗菌性能评价注册审查指导原则
-
-<!-- fulltext-start -->
-
----
-
-## 官方文件全文
 
 # 骨科植入物抗菌性能评价注册审查指导原则
 
@@ -415,6 +421,3 @@ published:
 [34] YY/T 1477.1, 接触性创面敷料性能评价用标准试验模型 第1部分：评价抗菌活性的体外创面模型[S].     
 
 [35] WS/T 650, 抗菌和抑菌效果评价方法[S].
-
-
-<!-- fulltext-end -->

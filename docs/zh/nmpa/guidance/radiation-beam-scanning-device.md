@@ -1,16 +1,22 @@
 ---
-title: 射线束扫描测量设备注册审查指导原则
-description: 
-published: 
+id: nmpa-射线束扫描测量设备注册审查指导原则
+title:
+  zh: 射线束扫描测量设备注册审查指导原则
+  en: ''
+regulation: nmpa
+category: nmpa/guidance
+status: active
+source_url: https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/05-radiological-device/radiation-beam-scanning-device/
+source_url_verified: '2026-02-23'
+source_url_status: migrated
+source_format: html
+translation: original
+last_verified: '2026-02-23'
+contributor: RASAAS
+migrated_from: wordpress
+wordpress_id: 4773
+effective_date: '2025-10-01'
 ---
-
-# 射线束扫描测量设备注册审查指导原则
-
-<!-- fulltext-start -->
-
----
-
-## 官方文件全文
 
 # 射线束扫描测量设备注册审查指导原则
 
@@ -793,6 +799,3 @@ X：字段含义。例如：示例1；示例2；示例3 … … 。
 探测器阵列的能量依懒性|  |    
 探测器阵列的稳定时间|  |    
 是否内置温度、气压和辐射报警传感器|  |
-
-
-<!-- fulltext-end -->

@@ -1,16 +1,22 @@
 ---
-title: 冲击波治疗仪注册技术审查指导原则
-description: 
-published: 
+id: nmpa-冲击波治疗仪注册技术审查指导原则
+title:
+  zh: 冲击波治疗仪注册技术审查指导原则
+  en: ''
+regulation: nmpa
+category: nmpa/guidance
+status: active
+source_url: https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/09-physical-therapy/shock-wave-therapy-device-2020/
+source_url_verified: '2026-02-23'
+source_url_status: migrated
+source_format: html
+translation: original
+last_verified: '2026-02-23'
+contributor: RASAAS
+migrated_from: wordpress
+wordpress_id: 4130
+effective_date: '2025-04-20'
 ---
-
-# 冲击波治疗仪注册技术审查指导原则
-
-<!-- fulltext-start -->
-
----
-
-## 官方文件全文
 
 # 冲击波治疗仪注册技术审查指导原则
 
@@ -298,6 +304,3 @@ YY 1057-2016| 医用脚踏开关通用技术条件
 ## 四、编写单位
 
 广东省药品监督管理局审评认证中心。
-
-
-<!-- fulltext-end -->

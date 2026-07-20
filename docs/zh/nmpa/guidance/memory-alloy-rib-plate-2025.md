@@ -1,16 +1,22 @@
 ---
-title: 记忆合金肋骨板注册审查指导原则
-description: 
-published: 
+id: nmpa-记忆合金肋骨板注册审查指导原则
+title:
+  zh: 记忆合金肋骨板注册审查指导原则
+  en: ''
+regulation: nmpa
+category: nmpa/guidance
+status: active
+source_url: https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/13-implants/memory-alloy-rib-plate-2025/
+source_url_verified: '2026-02-23'
+source_url_status: migrated
+source_format: html
+translation: original
+last_verified: '2026-02-23'
+contributor: RASAAS
+migrated_from: wordpress
+wordpress_id: 4184
+effective_date: '2025-04-20'
 ---
-
-# 记忆合金肋骨板注册审查指导原则
-
-<!-- fulltext-start -->
-
----
-
-## 官方文件全文
 
 # 记忆合金肋骨板注册审查指导原则
 
@@ -315,6 +321,3 @@ published:
 [34]YY/T 1771-2021,弯曲-自由恢复法测试镍钛形状记忆合金相变温度[S].
 
 [35]YY/T 1823-2022,心血管植入物镍钛合金镍离子释放试验方法[S].
-
-
-<!-- fulltext-end -->

@@ -1,16 +1,22 @@
 ---
-title: 重组胶原蛋白创面敷料注册审查指导原则
-description: 
-published: 
+id: nmpa-重组胶原蛋白创面敷料注册审查指导原则
+title:
+  zh: 重组胶原蛋白创面敷料注册审查指导原则
+  en: ''
+regulation: nmpa
+category: nmpa/guidance
+status: active
+source_url: https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/14-infusion-care-and-protection/recombinant-collagen-wound-dressing-2023/
+source_url_verified: '2026-02-23'
+source_url_status: migrated
+source_format: html
+translation: original
+last_verified: '2026-02-23'
+contributor: RASAAS
+migrated_from: wordpress
+wordpress_id: 4141
+effective_date: '2025-04-20'
 ---
-
-# 重组胶原蛋白创面敷料注册审查指导原则
-
-<!-- fulltext-start -->
-
----
-
-## 官方文件全文
 
 # 重组胶原蛋白创面敷料注册审查指导原则
 
@@ -351,6 +357,3 @@ published:
 一次性使用产品重复使用时危害性警告不适当| 一次性使用产品的标识不全或不易识别| 引起交叉感染  
 开封后多次使用产品使用时危害性警告不适当| 开封后多次使用产品，未说明保证产品开封稳定性的储存条件、没有标识推荐再次使用的操作方法和要求；开封后多次使用产品的标识不全或不易识别| 达不到使用效果使用效果，引起交叉感染  
  | 由于废物和/或医疗器械处置的污染| 使用后的产品没有按照要求销毁| 造成环境污染或者细菌的交叉感染
-
-
-<!-- fulltext-end -->

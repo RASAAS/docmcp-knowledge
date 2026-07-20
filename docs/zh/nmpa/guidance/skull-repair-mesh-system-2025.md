@@ -1,16 +1,22 @@
 ---
-title: 颅骨修补网板系统注册审查指导原则
-description: 
-published: 
+id: nmpa-颅骨修补网板系统注册审查指导原则
+title:
+  zh: 颅骨修补网板系统注册审查指导原则
+  en: ''
+regulation: nmpa
+category: nmpa/guidance
+status: active
+source_url: https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/13-implants/skull-repair-mesh-system-2025/
+source_url_verified: '2026-02-23'
+source_url_status: migrated
+source_format: html
+translation: original
+last_verified: '2026-02-23'
+contributor: RASAAS
+migrated_from: wordpress
+wordpress_id: 4193
+effective_date: '2025-04-20'
 ---
-
-# 颅骨修补网板系统注册审查指导原则
-
-<!-- fulltext-start -->
-
----
-
-## 官方文件全文
 
 # 颅骨修补网板系统注册审查指导原则
 
@@ -375,6 +381,3 @@ published:
 ![](/images/nmpa-guidance/image-7.jpg)
 
 图2 颅骨修补网板系统抗冲击性能试验模型
-
-
-<!-- fulltext-end -->

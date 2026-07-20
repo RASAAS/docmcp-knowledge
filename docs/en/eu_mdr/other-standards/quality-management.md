@@ -5,5 +5,5 @@ The following non-harmonised international standards are related to **Quality Ma
 | Standard | Title | Status | GSPRs | Link |
 |----------|-------|--------|-------|------|
 | ISO 13485:2016 | Medical devices — Quality management systems — Requirements for regulatory purposes | active | 1, 2, 3, 4, 5, 6, 7, 8 | [Link](https://www.iso.org/standard/59752.html) |
-| ISO 19011:2018 | Guidelines for auditing management systems | active | 1, 2 | [Link](https://www.iso.org/standard/70017.html) |
+| ISO 19011:2026 | Guidelines for auditing management systems | active | 1, 2 | [Link](https://www.iso.org/standard/88984.html) |
 | AAMI TIR75:2019 | Guidance on the application of ISO 13485 to organizations that provide servicing of medical devices | active | 1, 2 | [Link](https://www.aami.org/standards/aami-tir75) |

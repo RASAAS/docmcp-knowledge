@@ -1,16 +1,22 @@
 ---
-title: 家用无创呼吸机（非生命支持）注册审查指导原则
-description: 
-published: 
+id: nmpa-家用无创呼吸机非生命支持注册审查指导原则
+title:
+  zh: 家用无创呼吸机（非生命支持）注册审查指导原则
+  en: ''
+regulation: nmpa
+category: nmpa/guidance
+status: active
+source_url: https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/08-respiratory-anesthesia/home-non-invasive-ventilator-non-life-support/
+source_url_verified: '2026-02-23'
+source_url_status: migrated
+source_format: html
+translation: original
+last_verified: '2026-02-23'
+contributor: RASAAS
+migrated_from: wordpress
+wordpress_id: 4617
+effective_date: '2025-09-13'
 ---
-
-# 家用无创呼吸机（非生命支持）注册审查指导原则
-
-<!-- fulltext-start -->
-
----
-
-## 官方文件全文
 
 # 家用无创呼吸机（非生命支持）注册审查指导原则
 
@@ -461,6 +467,3 @@ published:
 2.5漏气量监测：
 
 监测范围：0～100 L/min，误差为±2 L/min或±20%，两者取较大值。
-
-
-<!-- fulltext-end -->

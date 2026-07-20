@@ -1,16 +1,22 @@
 ---
-title: 种植用口腔骨填充材料注册审查指导原则
-description: 
-published: 
+id: nmpa-种植用口腔骨填充材料注册审查指导原则
+title:
+  zh: 种植用口腔骨填充材料注册审查指导原则
+  en: ''
+regulation: nmpa
+category: nmpa/guidance
+status: active
+source_url: https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/17-dentistry/oral-bone-filling-materials-for-implants-2025/
+source_url_verified: '2026-02-23'
+source_url_status: migrated
+source_format: html
+translation: original
+last_verified: '2026-02-23'
+contributor: RASAAS
+migrated_from: wordpress
+wordpress_id: 4203
+effective_date: '2025-04-20'
 ---
-
-# 种植用口腔骨填充材料注册审查指导原则
-
-<!-- fulltext-start -->
-
----
-
-## 官方文件全文
 
 # 种植用口腔骨填充材料注册审查指导原则
 
@@ -343,6 +349,3 @@ published:
 [28] GB/T 44353.1,动物源医疗器械 第1部分：风险管理应用[S].
 
 [29] GB/T 44353.2,动物源医疗器械 第2部分：来源、收集与处置的控制[S].
-
-
-<!-- fulltext-end -->

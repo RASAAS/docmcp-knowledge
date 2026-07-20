@@ -1,16 +1,22 @@
 ---
-title: 牵引床注册审查指导原则
-description: 
-published: 
+id: nmpa-牵引床注册审查指导原则
+title:
+  zh: 牵引床注册审查指导原则
+  en: ''
+regulation: nmpa
+category: nmpa/guidance
+status: active
+source_url: https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/09-physical-therapy/traction-bed/
+source_url_verified: '2026-02-23'
+source_url_status: migrated
+source_format: html
+translation: original
+last_verified: '2026-02-23'
+contributor: RASAAS
+migrated_from: wordpress
+wordpress_id: 4640
+effective_date: '2025-09-13'
 ---
-
-# 牵引床注册审查指导原则
-
-<!-- fulltext-start -->
-
----
-
-## 官方文件全文
 
 # 牵引床注册审查指导原则
 
@@ -410,6 +416,3 @@ published:
 无数据显示。| 进行了错误操作。| 患者损伤。  
 软件界面显示分辨率过低或不清晰。| 操作者错误识别显示的数据。| 延误治疗或患者伤害。  
 软件接口没有有效的保密措施。| 任何人都可以通过软件接口（如USB接口、WiFi接口等）获取存储的信息。| 患者数据泄漏。
-
-
-<!-- fulltext-end -->

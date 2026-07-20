@@ -10,4 +10,4 @@ The following non-harmonised international standards are related to **Ophthalmic
 | ISO 11979-7:2024 | Ophthalmic implants - Intraocular lenses - Part 7: Clinical investigations of intraocular lenses for the correction of aphakia | active | 14, 18, 20 | [Link](https://www.iso.org/standard/79689.html) |
 | ISO 15004-1:2020 | Ophthalmic instruments - Fundamental requirements and test methods - Part 1: General requirements applicable to all ophthalmic instruments | active | 14, 18 | [Link](https://www.iso.org/standard/72616.html) |
 | ISO 15004-2:2024 | Ophthalmic instruments - Fundamental requirements and test methods - Part 2: Light hazard protection | active | 14, 18 | [Link](https://www.iso.org/standard/79919.html) |
-| ISO 12870:2025 | Ophthalmic optics - Spectacle frames - Requirements and test methods (ISO 12870:2024) | active | 10, 10.1, 10.3, 10.4 | [Link](https://www.iso.org/standard/84282.html) |
+| ISO 12870:2024 | Ophthalmic optics - Spectacle frames - Requirements and test methods (ISO 12870:2024) | active | 10, 10.1, 10.3, 10.4 | [Link](https://www.iso.org/standard/75916.html) |

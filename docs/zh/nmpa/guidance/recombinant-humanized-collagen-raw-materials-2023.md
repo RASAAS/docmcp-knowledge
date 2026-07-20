@@ -1,16 +1,22 @@
 ---
-title: 重组人源化胶原蛋白原材料评价指导原则
-description: 
-published: 
+id: nmpa-重组人源化胶原蛋白原材料评价指导原则
+title:
+  zh: 重组人源化胶原蛋白原材料评价指导原则
+  en: ''
+regulation: nmpa
+category: nmpa/guidance
+status: active
+source_url: https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/general-and-others/recombinant-humanized-collagen-raw-materials-2023/
+source_url_verified: '2026-02-23'
+source_url_status: migrated
+source_format: html
+translation: original
+last_verified: '2026-02-23'
+contributor: RASAAS
+migrated_from: wordpress
+wordpress_id: 4145
+effective_date: '2025-04-20'
 ---
-
-# 重组人源化胶原蛋白原材料评价指导原则
-
-<!-- fulltext-start -->
-
----
-
-## 官方文件全文
 
 # 重组人源化胶原蛋白原材料评价指导原则
 
@@ -801,6 +807,3 @@ DNA质量| 紫外分光光度扫描| OD260/280=1.8~2.0
 3.生产原辅料要求
 
 原辅料需按照国家药品监督管理局有关规定执行。动物源性原料的使用需提供来源及质控检测资料；发酵用培养基若添加β内酰胺类抗生素，最终材料成品中不得检出。
-
-
-<!-- fulltext-end -->

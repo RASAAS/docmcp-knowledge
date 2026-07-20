@@ -1,16 +1,22 @@
 ---
-title: 脱细胞基质软组织创面修复材料产品注册审查指导原则
-description: 
-published: 
+id: nmpa-脱细胞基质软组织创面修复材料产品注册审查指导原则
+title:
+  zh: 脱细胞基质软组织创面修复材料产品注册审查指导原则
+  en: ''
+regulation: nmpa
+category: nmpa/guidance
+status: active
+source_url: https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/general-and-others/acellular-matrix-soft-tissue-wound-repair-material/
+source_url_verified: '2026-02-23'
+source_url_status: migrated
+source_format: html
+translation: original
+last_verified: '2026-02-23'
+contributor: RASAAS
+migrated_from: wordpress
+wordpress_id: 4567
+effective_date: '2025-09-12'
 ---
-
-# 脱细胞基质软组织创面修复材料产品注册审查指导原则
-
-<!-- fulltext-start -->
-
----
-
-## 官方文件全文
 
 # 脱细胞基质软组织创面修复材料产品注册审查指导原则
 
@@ -322,6 +328,3 @@ published:
   * 国家药品监督管理局.医疗器械动物试验研究注册审查指导原则 第二部分：试验设计、实施质量保证:国家药监局关于发布医疗器械动物试验研究注册审查指导原则 第一部分：决策原则（2021年修订版）等2项注册审查指导原则的通告（2021年第75号）[Z].
   * 国家药品监督管理局.无源植入性医疗器械稳定性研究指导原则（2022年修订版）:2022年第12号[Z].
   * 国家食品药品监督管理总局.《医疗器械说明书和标签管理规定》:国家食品药品监督管理总局局令第6号[Z].
-
-
-<!-- fulltext-end -->

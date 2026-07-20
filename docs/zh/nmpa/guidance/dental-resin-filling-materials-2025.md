@@ -1,16 +1,22 @@
 ---
-title: 牙科树脂类充填材料产品注册审查指导原则（2025年修订版）
-description: 
-published: 
+id: nmpa-牙科树脂类充填材料产品注册审查指导原则2025年修订版
+title:
+  zh: 牙科树脂类充填材料产品注册审查指导原则（2025年修订版）
+  en: ''
+regulation: nmpa
+category: nmpa/guidance
+status: active
+source_url: https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/17-dentistry/dental-resin-filling-materials-2025/
+source_url_verified: '2026-02-23'
+source_url_status: migrated
+source_format: html
+translation: original
+last_verified: '2026-02-23'
+contributor: RASAAS
+migrated_from: wordpress
+wordpress_id: 4199
+effective_date: '2025-04-20'
 ---
-
-# 牙科树脂类充填材料产品注册审查指导原则（2025年修订版）
-
-<!-- fulltext-start -->
-
----
-
-## 官方文件全文
 
 # 牙科树脂类充填材料产品注册审查指导原则（2025年修订版）
 
@@ -301,6 +307,3 @@ published:
 [24] GB/T 42062,医疗器械 风险管理对医疗器械的应用[S].
 
 [25] YY/T 0466.1,医疗器械 用于医疗器械标签、标记和提供信息的符号第1部分：通用要求[S].
-
-
-<!-- fulltext-end -->

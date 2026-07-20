@@ -1,16 +1,22 @@
 ---
-title: 微量元素分析仪注册审查指导原则
-description: 
-published: 
+id: nmpa-微量元素分析仪注册审查指导原则
+title:
+  zh: 微量元素分析仪注册审查指导原则
+  en: ''
+regulation: nmpa
+category: nmpa/guidance
+status: active
+source_url: https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/22-diagnosis/trace-element-analyzers/
+source_url_verified: '2026-02-23'
+source_url_status: migrated
+source_format: html
+translation: original
+last_verified: '2026-02-23'
+contributor: RASAAS
+migrated_from: wordpress
+wordpress_id: 4719
+effective_date: '2025-09-17'
 ---
-
-# 微量元素分析仪注册审查指导原则
-
-<!-- fulltext-start -->
-
----
-
-## 官方文件全文
 
 # 微量元素分析仪注册审查指导原则
 
@@ -395,6 +401,3 @@ published:
 [22]YY/T 1437-2023,医疗器械 GB/T 42062应用指南[S].
 
 [23]YY/T 1740.3-2024,医用质谱仪 第3部分：电感耦合等离子体质谱仪[S].
-
-
-<!-- fulltext-end -->

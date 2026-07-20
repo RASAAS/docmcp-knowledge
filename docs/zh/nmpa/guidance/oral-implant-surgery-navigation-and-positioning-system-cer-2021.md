@@ -1,16 +1,22 @@
 ---
-title: 口腔种植手术导航定位系统同品种临床评价注册审查指导原则
-description: 
-published: 
+id: nmpa-口腔种植手术导航定位系统同品种临床评价注册审查指导原则
+title:
+  zh: 口腔种植手术导航定位系统同品种临床评价注册审查指导原则
+  en: ''
+regulation: nmpa
+category: nmpa/guidance
+status: active
+source_url: https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/01-active-surgical/oral-implant-surgery-navigation-and-positioning-system-cer-2021/
+source_url_verified: '2026-02-23'
+source_url_status: migrated
+source_format: html
+translation: original
+last_verified: '2026-02-23'
+contributor: RASAAS
+migrated_from: wordpress
+wordpress_id: 4207
+effective_date: '2025-04-20'
 ---
-
-# 口腔种植手术导航定位系统同品种临床评价注册审查指导原则
-
-<!-- fulltext-start -->
-
----
-
-## 官方文件全文
 
 # 口腔种植手术导航定位系统同品种临床评价注册审查指导原则
 
@@ -201,6 +207,3 @@ published:
 ### 试验人员
 
 需明确试验人员以及审核人员，并在报告中签名。给出试验日期和审核日期。建议由具有相关资质的口腔医生进行试验。
-
-
-<!-- fulltext-end -->

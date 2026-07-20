@@ -1,16 +1,22 @@
 ---
-title: 一次性使用无菌尿道扩张器注册审查指导原则
-description: 
-published: 
+id: nmpa-一次性使用无菌尿道扩张器注册审查指导原则
+title:
+  zh: 一次性使用无菌尿道扩张器注册审查指导原则
+  en: ''
+regulation: nmpa
+category: nmpa/guidance
+status: active
+source_url: https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/02-non-active-surgical/single-use-sterile-urethral-dilators/
+source_url_verified: '2026-02-23'
+source_url_status: migrated
+source_format: html
+translation: original
+last_verified: '2026-02-23'
+contributor: RASAAS
+migrated_from: wordpress
+wordpress_id: 4689
+effective_date: '2025-09-17'
 ---
-
-# 一次性使用无菌尿道扩张器注册审查指导原则
-
-<!-- fulltext-start -->
-
----
-
-## 官方文件全文
 
 # 一次性使用无菌尿道扩张器注册审查指导原则
 
@@ -277,6 +283,3 @@ published:
 功能性失效、维修和老化引起的危险（源）| 对医疗器械寿命终止缺少适当的决定| 没有标识产品有效期| 超出有效期的产品被使用，造成细菌感染或因材料老化导致产品性能不符合要求  
 失去产品的完整性| 产品破损、涂层脱落达不到产品功能| 无法保证使用有效性  
 不适当的包装（医疗器械的污染和/或变质）| 没有进行包装确认| 不能确保产品无菌，从而导致出现细菌感染
-
-
-<!-- fulltext-end -->

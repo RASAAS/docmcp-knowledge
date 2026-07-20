@@ -1,16 +1,22 @@
 ---
-title: 移动医疗器械注册技术审查指导原则（2025年修订版）
-description: 
-published: 
+id: nmpa-移动医疗器械注册审查指导原则2025年修订版
+title:
+  zh: 移动医疗器械注册审查指导原则（2025年修订版）
+  en: ''
+regulation: nmpa
+category: nmpa/guidance
+status: active
+source_url: https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/21-sw/mobile-wearable-device-2025/
+source_url_verified: '2026-02-23'
+source_url_status: migrated
+source_format: html
+translation: original
+last_verified: '2026-02-23'
+contributor: RASAAS
+migrated_from: wordpress
+wordpress_id: 4270
+effective_date: '2025-05-08'
 ---
-
-# 移动医疗器械注册技术审查指导原则（2025年修订版）
-
-<!-- fulltext-start -->
-
----
-
-## 官方文件全文
 
 # 移动医疗器械注册审查指导原则（2025年修订版）
 
@@ -294,9 +300,9 @@ published:
 
 [26] GB/T 37729-2019, 信息技术 智能移动终端应用软件（App）技术要求 [S].
 
-[27] [GB/T 38542-2020](&lt;javascript:void\(0\)&gt;), [信息安全技术 基于生物特征识别的移动智能终端身份鉴别技术框架](&lt;javascript:void\(0\)&gt;)[S].
+[27] [GB/T 38542-2020](<javascript:void\(0\)>), [信息安全技术 基于生物特征识别的移动智能终端身份鉴别技术框架](<javascript:void\(0\)>)[S].
 
-[28] [GB/T 39720-2020](&lt;javascript:void\(0\)&gt;), [信息安全技术 移动智能终端安全技术要求及测试评价方法](&lt;javascript:void\(0\)&gt;)[S].
+[28] [GB/T 39720-2020](<javascript:void\(0\)>), [信息安全技术 移动智能终端安全技术要求及测试评价方法](<javascript:void\(0\)>)[S].
 
 [29] GB/T 37952-2019, 信息安全技术 移动终端安全管理平台技术要求[S].
 
@@ -343,6 +349,3 @@ published:
 [1] 改自IMDRF SaMD工作组关于独立软件的定义。
 
 [2] 在计算机领域，移动计算技术和穿戴计算技术的关系尚无定论。从监管角度出发，本指导原则所述移动计算技术包括穿戴计算技术。
-
-
-<!-- fulltext-end -->

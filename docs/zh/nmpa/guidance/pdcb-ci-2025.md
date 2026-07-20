@@ -1,16 +1,22 @@
 ---
-title: 外周药物涂层球囊扩张导管临床试验注册审查指导原则
-description: 
-published: 
+id: nmpa-外周药物涂层球囊扩张导管临床试验注册审查指导原则2025年第2号
+title:
+  zh: 外周药物涂层球囊扩张导管临床试验注册审查指导原则（2025年第2号）
+  en: ''
+regulation: nmpa
+category: nmpa/guidance
+status: active
+source_url: https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/03-neural-cardiovascular/pdcb-ci-2025/
+source_url_verified: '2026-02-23'
+source_url_status: migrated
+source_format: html
+translation: original
+last_verified: '2026-02-23'
+contributor: RASAAS
+migrated_from: wordpress
+wordpress_id: 4105
+effective_date: '2025-04-19'
 ---
-
-# 外周药物涂层球囊扩张导管临床试验注册审查指导原则
-
-<!-- fulltext-start -->
-
----
-
-## 官方文件全文
 
 # 外周药物涂层球囊扩张导管临床试验注册审查指导原则（2025年第2号）
 
@@ -141,6 +147,3 @@ published:
 ### 四、入排标准
 
 入选标准考虑因素包括但不限于：临床诊断提示存在由于狭窄病变导致血液透析通路功能障碍的患者，具备经皮腔内血管治疗的指征，靶病变特征、个数、长度、位置，之前进行血液透析的通路不能再成功使用等。排除标准考虑因素包括但不限于：动静脉内瘘移植物（AVG）患者，自体动静脉内瘘（AVF）成熟不良患者，AVF植入过支架或病变之前一定时间内被DEB治疗过，合并免疫性疾病的患者等。手术时应进行多普勒超声或血管造影用于确认所有的影像合格标准。
-
-
-<!-- fulltext-end -->
