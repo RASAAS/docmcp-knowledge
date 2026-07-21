@@ -1,7 +1,177 @@
 {
   "framework": "fda",
-  "last_updated": "2026-07-14T20:24:40Z",
+  "last_updated": "2026-07-21T20:23:46Z",
   "items": [
+    {
+      "id": "fda_20260721_abiomed_recalls_14fr_low_profile_catheter_introducer_kits",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "Abiomed Recalls 14Fr Low Profile Catheter Introducer Kits",
+        "zh": "Abiomed召回14Fr低轮廓导管导入器套件"
+      },
+      "summary": {
+        "en": "Abiomed is recalling its 14Fr Low Profile Introducer Kits (used with Impella heart pumps) due to a potential tip separation issue that could lead to vascular injury or procedure delay. The FDA has classified this as a Class I recall, the most serious type, requiring immediate discontinuation of use. Healthcare facilities should quarantine all affected units and follow Abiomed's instructions for return or replacement.",
+        "zh": "Abiomed因导入器尖端可能分离导致患者损伤风险，主动召回其14Fr低轮廓导管导入器套件（与Impella心脏泵配合使用）。FDA将此定为最严重的I级召回，要求立即停用。医疗机构须隔离受影响产品，并按Abiomed通知进行退还或更换。"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-introducer-kit-recall-abiomed-removes-14fr-low-profile-introducer-kits",
+      "source_name": "FDA",
+      "published_date": "2026-07-21",
+      "detected_date": "2026-07-21T20:22:46Z",
+      "importance": "high",
+      "tags": [
+        "catheter_introducer_kit",
+        "recall",
+        "abiomed",
+        "impella",
+        "class_i",
+        "medical_device"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260721_b_braun_medical_removes_spinal_anesthesia_kits_containing_hu",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "B. Braun Medical Removes Spinal Anesthesia Kits Containing Huons Bupivacaine HCl in Dextrose Due to Quality Issue",
+        "zh": "B. Braun Medical因质量问题召回含Huons布比卡因葡萄糖注射液的脊髓麻醉套件"
+      },
+      "summary": {
+        "en": "B. Braun Medical, Inc. is voluntarily removing certain convenience kits that include Huons Bupivacaine Hydrochloride in Dextrose Injection, USP. The recall is due to a potential quality defect that may compromise product integrity, leading to risk for patients. Healthcare facilities should immediately stop using and quarantine affected kits, and contact B. Braun to arrange return. This is a safety-related removal coordinated with FDA CDRH.",
+        "zh": "B. Braun Medical, Inc. 主动召回含有Huons布比卡因盐酸盐葡萄糖注射液的特制脊髓麻醉套件。此次召回因潜在质量缺陷可能影响产品完整性，给患者带来风险。医疗机构应立即停用并隔离相关套件，联系B. Braun安排退回。这是与美国FDA CDRH协调的安全召回行动。"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-recall-b-braun-medical-inc-removes-spinal-anesthesia-kits-containing-huons",
+      "source_name": "FDA",
+      "published_date": "2026-07-21",
+      "detected_date": "2026-07-21T20:23:02Z",
+      "importance": "high",
+      "tags": [
+        "recall",
+        "spinal_anesthesia",
+        "b_braun",
+        "convenience_kit",
+        "quality_defect",
+        "cdrh"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260721_arrow_international_issues_correction_for_convenience_kits_c",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "Arrow International Issues Correction for Convenience Kits Containing Recalled Huons Lidocaine, Bupivacaine, and Saline",
+        "zh": "Arrow International 发布对包含召回Huons利多卡因、布比卡因和生理盐水的便利套件的纠正通知"
+      },
+      "summary": {
+        "en": "Arrow International is issuing a field correction for certain convenience kits that include Huons-manufactured lidocaine, bupivacaine, and saline separately recalled by Huons due to lack of sterility assurance. The correction involves notifying users to quarantine and remove the affected drug components from the kits and arrange for their return. Healthcare facilities that received the impacted kits should immediately check inventory, stop using the specified drug vials, and follow Arrow International's removal instructions.",
+        "zh": "Arrow International 针对部分便利套件发布现场纠正通知，这些套件含有因无菌保证缺失而被Huons公司另行召回的利多卡因、布比卡因和生理盐水。纠正措施要求使用者隔离并取出受影响药品组分并安排退回。收到相关套件的医疗机构应立即清点库存，停止使用指定药品安瓿，并按照 Arrow International 的移除说明操作。"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-arrow-international-issues-correction-convenience-kits-containing",
+      "source_name": "FDA",
+      "published_date": "2026-07-21",
+      "detected_date": "2026-07-21T20:23:14Z",
+      "importance": "medium",
+      "tags": [
+        "convenience_kit",
+        "drug_recall",
+        "field_correction",
+        "arrow_international",
+        "huons",
+        "lidocaine",
+        "bupivacaine",
+        "sterility_assurance"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260721_fda_cdrh_town_hall_on_biocompatibility_and_toxicological_ris",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "FDA CDRH Town Hall on Biocompatibility and Toxicological Risk Assessment – October 7, 2026",
+        "zh": "FDA CDRH 生物相容性及毒理学风险评估线上交流会（2026年10月7日）"
+      },
+      "summary": {
+        "en": "The FDA's Center for Devices and Radiological Health (CDRH) is hosting a virtual Town Hall on biocompatibility and toxicological risk assessment on October 7, 2026. The event provides medical device manufacturers and stakeholders an opportunity to engage with FDA experts on current expectations, challenges, and evolving best practices for demonstrating biocompatibility under ISO 10993. Attendees can submit questions in advance and participate in live discussions to clarify regulatory pathways for chemical characterization and toxicological risk assessment.",
+        "zh": "FDA 器械与放射健康中心（CDRH）将于2026年10月7日举办一场关于生物相容性与毒理学风险评估的线上交流会。本次活动面向医疗器械制造商和相关方，提供与FDA专家直接对话的机会，探讨当前生物相容性评价（基于ISO 10993系列）的监管要求、常见挑战及最新实践。参会者可提前提交问题并参与现场讨论，以澄清化学表征和毒理学风险评估的法规路径。"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/medical-devices-news-and-events/town-hall-biocompatibility-and-toxicological-risk-assessment-10072026",
+      "source_name": "FDA",
+      "published_date": "2026-07-21",
+      "detected_date": "2026-07-21T20:23:25Z",
+      "importance": "medium",
+      "tags": [
+        "biocompatibility",
+        "toxicological_risk_assessment",
+        "town_hall",
+        "cdrh",
+        "iso_10993",
+        "medical_devices"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260721_fda_cdrh_town_hall_on_biocompatibility_and_chemical_characte",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "FDA CDRH Town Hall on Biocompatibility and Chemical Characterization: Focus on Extractions (Sep 23, 2026)",
+        "zh": "FDA CDRH 生物相容性与化学表征测试提取专题市民大会（2026年9月23日）"
+      },
+      "summary": {
+        "en": "The FDA's Center for Devices and Radiological Health (CDRH) will host a virtual town hall on September 23, 2026, dedicated to biocompatibility and chemical characterization testing with a specific focus on extraction protocols. Medical device manufacturers preparing premarket submissions should attend to understand current expectations for extraction study design, solvent selection, and data interpretation. This event provides a direct opportunity to ask questions and clarify regulatory requirements under ISO 10993-18 and related guidance.",
+        "zh": "美国FDA器械与放射健康中心（CDRH）将于2026年9月23日举办线上市民大会，专门讨论生物相容性与化学表征测试，重点聚焦提取实验方案。即将提交上市申请的医疗器械制造商应参加此次会议，以了解当前对提取研究设计、溶剂选择及数据解读的期望。此次会议提供了直接提问并澄清ISO 10993-18及相关指南中法规要求的机会。"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/medical-devices-news-and-events/town-hall-biocompatibility-and-chemical-characterization-testing-extractions-09232026",
+      "source_name": "FDA",
+      "published_date": "2026-07-21",
+      "detected_date": "2026-07-21T20:23:35Z",
+      "importance": "medium",
+      "tags": [
+        "biocompatibility",
+        "chemical_characterization",
+        "extractions",
+        "town_hall",
+        "iso_10993",
+        "fda_cdrh"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260721_fda_cdrh_announces_town_hall_on_biocompatibility_risk_assess",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "FDA CDRH Announces Town Hall on Biocompatibility Risk Assessment on September 9, 2026",
+        "zh": "FDA CDRH 将于2026年9月9日举办生物相容性风险评估市政厅会议"
+      },
+      "summary": {
+        "en": "The FDA’s Center for Devices and Radiological Health (CDRH) will hold a town hall on September 9, 2026, focused on biocompatibility risk assessment for medical devices. This event is intended for medical device manufacturers and regulatory affairs professionals seeking clarity on current expectations for biocompatibility evaluation. Participants will have the opportunity to engage directly with FDA experts, ask questions, and discuss best practices. Manufacturers are encouraged to register in advance and prepare specific questions related to their biocompatibility assessment strategies.",
+        "zh": "FDA 器械与放射健康中心（CDRH）将于2026年9月9日举办一场市政厅会议，聚焦医疗器械的生物相容性风险评估。该活动面向医疗器械制造商和法规事务专业人员，旨在澄清当前对生物相容性评估的期望。参会者可直接与 FDA 专家交流、提问并探讨最佳实践。建议制造商提前注册并准备与生物相容性评估策略相关的具体问题。"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/medical-devices-news-and-events/town-hall-biocompatibility-risk-assessment-09092026",
+      "source_name": "FDA",
+      "published_date": "2026-07-21",
+      "detected_date": "2026-07-21T20:23:46Z",
+      "importance": "medium",
+      "tags": [
+        "biocompatibility",
+        "risk_assessment",
+        "town_hall",
+        "cdrh",
+        "medical_device",
+        "regulatory_affairs"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
     {
       "id": "fda_20260714_pulmonary_valve_catheter_delivery_system_recall_medtronic_re",
       "framework": "fda",
@@ -363,6 +533,61 @@
         "omnipod",
         "insulin_pump",
         "cannula_damage"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260721_class_i_recall_baxter_healthcare_hillrom_volara_system_p_cir",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Baxter Healthcare Hillrom VOLARA System P.CIRCUIT KIT – Nebulizer Cup Leakage Causing Oxygen Drop",
+        "zh": "百特医疗Hillrom VOLARA管路套件I级召回：雾化器泄漏致血氧下降"
+      },
+      "summary": {
+        "en": "Baxter Healthcare Corporation has initiated a Class I recall of 10,540 units of the Hillrom VOLARA System P.CIRCUIT KIT due to air and medication leakage from the nebulizer cup during therapy. This fault can cause a drop in the patient's oxygen level and render treatment ineffective, posing serious health risks. All affected circuits should be immediately quarantined and returned to Baxter for replacement.",
+        "zh": "百特医疗公司已对10,540套Hillrom VOLARA系统P.CIRCUIT KIT（一次性患者管路）发起I级召回，原因是治疗期间雾化杯出现空气和药物泄漏，可能导致患者血氧水平下降及治疗无效，存在严重健康风险。用户应立即停止使用并隔离受影响产品，联系百特进行退货或更换。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2548-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-08",
+      "detected_date": "2026-07-21T20:22:11Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "respiratory_device",
+        "nebulizer_leakage",
+        "patient_safety",
+        "fda"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260721_baxter_recalls_hillrom_volara_p_circuit_5kit_due_to_nebulize",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Baxter Recalls Hillrom Volara P.Circuit 5KIT Due to Nebulizer Cup Leakage Causing Oxygen Drop",
+        "zh": "百特召回Hillrom Volara P.Circuit 5KIT 因雾化杯泄漏致血氧下降"
+      },
+      "summary": {
+        "en": "Baxter Healthcare Corporation is conducting a Class I recall of the Hillrom Volara P.Circuit 5KIT (single patient use circuit) because of air and medication leakage from the nebulizer cup during therapy. This defect can lead to a dangerous drop in the patient’s oxygen level and render the treatment ineffective. The recall impacts zero units (likely a field correction notification), and users must immediately discontinue use of affected circuits and follow the manufacturer’s instructions.",
+        "zh": "百特医疗宣布对Hillrom Volara P.Circuit 5KIT（一次性系统管路）实施一级召回，原因为治疗期间雾化杯发生空气与药物泄漏。此问题可能导致患者血氧水平严重下降及治疗无效。本次召回涉及数量为0（可能为现场纠正通知），使用者须立即停用受影响管路并按厂商指示处理。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2549-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-08",
+      "detected_date": "2026-07-21T20:22:26Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "baxter_healthcare",
+        "hillrom_volara",
+        "circuit_leakage",
+        "oxygen_desaturation",
+        "nebulizer_defect"
       ],
       "related_docs": [],
       "status": "published"

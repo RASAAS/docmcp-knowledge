@@ -6,6 +6,78 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### Abiomed Recalls 14Fr Low Profile Catheter Introducer Kits
+
+**2026-07-21** | FDA | cdrh_news | !!! HIGH
+
+Abiomed is recalling its 14Fr Low Profile Introducer Kits (used with Impella heart pumps) due to a potential tip separation issue that could lead to vascular injury or procedure delay. The FDA has classified this as a Class I recall, the most serious type, requiring immediate discontinuation of use. Healthcare facilities should quarantine all affected units and follow Abiomed's instructions for return or replacement.
+
+**Tags**: `catheter_introducer_kit`, `recall`, `abiomed`, `impella`, `class_i`, `medical_device`
+
+[View Source (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-introducer-kit-recall-abiomed-removes-14fr-low-profile-introducer-kits)
+
+---
+
+### B. Braun Medical Removes Spinal Anesthesia Kits Containing Huons Bupivacaine HCl in Dextrose Due to Quality Issue
+
+**2026-07-21** | FDA | cdrh_news | !!! HIGH
+
+B. Braun Medical, Inc. is voluntarily removing certain convenience kits that include Huons Bupivacaine Hydrochloride in Dextrose Injection, USP. The recall is due to a potential quality defect that may compromise product integrity, leading to risk for patients. Healthcare facilities should immediately stop using and quarantine affected kits, and contact B. Braun to arrange return. This is a safety-related removal coordinated with FDA CDRH.
+
+**Tags**: `recall`, `spinal_anesthesia`, `b_braun`, `convenience_kit`, `quality_defect`, `cdrh`
+
+[View Source (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-recall-b-braun-medical-inc-removes-spinal-anesthesia-kits-containing-huons)
+
+---
+
+### Arrow International Issues Correction for Convenience Kits Containing Recalled Huons Lidocaine, Bupivacaine, and Saline
+
+**2026-07-21** | FDA | cdrh_news | !! MEDIUM
+
+Arrow International is issuing a field correction for certain convenience kits that include Huons-manufactured lidocaine, bupivacaine, and saline separately recalled by Huons due to lack of sterility assurance. The correction involves notifying users to quarantine and remove the affected drug components from the kits and arrange for their return. Healthcare facilities that received the impacted kits should immediately check inventory, stop using the specified drug vials, and follow Arrow International's removal instructions.
+
+**Tags**: `convenience_kit`, `drug_recall`, `field_correction`, `arrow_international`, `huons`, `lidocaine`, `bupivacaine`, `sterility_assurance`
+
+[View Source (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-arrow-international-issues-correction-convenience-kits-containing)
+
+---
+
+### FDA CDRH Town Hall on Biocompatibility and Toxicological Risk Assessment – October 7, 2026
+
+**2026-07-21** | FDA | cdrh_news | !! MEDIUM
+
+The FDA's Center for Devices and Radiological Health (CDRH) is hosting a virtual Town Hall on biocompatibility and toxicological risk assessment on October 7, 2026. The event provides medical device manufacturers and stakeholders an opportunity to engage with FDA experts on current expectations, challenges, and evolving best practices for demonstrating biocompatibility under ISO 10993. Attendees can submit questions in advance and participate in live discussions to clarify regulatory pathways for chemical characterization and toxicological risk assessment.
+
+**Tags**: `biocompatibility`, `toxicological_risk_assessment`, `town_hall`, `cdrh`, `iso_10993`, `medical_devices`
+
+[View Source (FDA)](https://www.fda.gov/medical-devices/medical-devices-news-and-events/town-hall-biocompatibility-and-toxicological-risk-assessment-10072026)
+
+---
+
+### FDA CDRH Town Hall on Biocompatibility and Chemical Characterization: Focus on Extractions (Sep 23, 2026)
+
+**2026-07-21** | FDA | cdrh_news | !! MEDIUM
+
+The FDA's Center for Devices and Radiological Health (CDRH) will host a virtual town hall on September 23, 2026, dedicated to biocompatibility and chemical characterization testing with a specific focus on extraction protocols. Medical device manufacturers preparing premarket submissions should attend to understand current expectations for extraction study design, solvent selection, and data interpretation. This event provides a direct opportunity to ask questions and clarify regulatory requirements under ISO 10993-18 and related guidance.
+
+**Tags**: `biocompatibility`, `chemical_characterization`, `extractions`, `town_hall`, `iso_10993`, `fda_cdrh`
+
+[View Source (FDA)](https://www.fda.gov/medical-devices/medical-devices-news-and-events/town-hall-biocompatibility-and-chemical-characterization-testing-extractions-09232026)
+
+---
+
+### FDA CDRH Announces Town Hall on Biocompatibility Risk Assessment on September 9, 2026
+
+**2026-07-21** | FDA | cdrh_news | !! MEDIUM
+
+The FDA’s Center for Devices and Radiological Health (CDRH) will hold a town hall on September 9, 2026, focused on biocompatibility risk assessment for medical devices. This event is intended for medical device manufacturers and regulatory affairs professionals seeking clarity on current expectations for biocompatibility evaluation. Participants will have the opportunity to engage directly with FDA experts, ask questions, and discuss best practices. Manufacturers are encouraged to register in advance and prepare specific questions related to their biocompatibility assessment strategies.
+
+**Tags**: `biocompatibility`, `risk_assessment`, `town_hall`, `cdrh`, `medical_device`, `regulatory_affairs`
+
+[View Source (FDA)](https://www.fda.gov/medical-devices/medical-devices-news-and-events/town-hall-biocompatibility-risk-assessment-09092026)
+
+---
+
 ### Pulmonary Valve Catheter Delivery System Recall: Medtronic Removes Harmony Catheter Delivery Catheter System (DCS)
 
 **2026-07-14** | FDA | cdrh_news | !! MEDIUM
@@ -167,6 +239,30 @@ Insulet Corporation is recalling 289,046 units of its Omnipod (Eros) Pod (model 
 **Tags**: `class_i_recall`, `omnipod`, `insulin_pump`, `cannula_damage`
 
 [View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2605-2026)
+
+---
+
+### Class I Recall: Baxter Healthcare Hillrom VOLARA System P.CIRCUIT KIT – Nebulizer Cup Leakage Causing Oxygen Drop
+
+**2026-07-08** | FDA | recall_class1 | !!! HIGH
+
+Baxter Healthcare Corporation has initiated a Class I recall of 10,540 units of the Hillrom VOLARA System P.CIRCUIT KIT due to air and medication leakage from the nebulizer cup during therapy. This fault can cause a drop in the patient's oxygen level and render treatment ineffective, posing serious health risks. All affected circuits should be immediately quarantined and returned to Baxter for replacement.
+
+**Tags**: `class_i_recall`, `respiratory_device`, `nebulizer_leakage`, `patient_safety`, `fda`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2548-2026)
+
+---
+
+### Baxter Recalls Hillrom Volara P.Circuit 5KIT Due to Nebulizer Cup Leakage Causing Oxygen Drop
+
+**2026-07-08** | FDA | recall_class1 | !!! HIGH
+
+Baxter Healthcare Corporation is conducting a Class I recall of the Hillrom Volara P.Circuit 5KIT (single patient use circuit) because of air and medication leakage from the nebulizer cup during therapy. This defect can lead to a dangerous drop in the patient’s oxygen level and render the treatment ineffective. The recall impacts zero units (likely a field correction notification), and users must immediately discontinue use of affected circuits and follow the manufacturer’s instructions.
+
+**Tags**: `class_i_recall`, `baxter_healthcare`, `hillrom_volara`, `circuit_leakage`, `oxygen_desaturation`, `nebulizer_defect`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2549-2026)
 
 ---
 
