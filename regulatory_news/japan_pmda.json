@@ -1,7 +1,147 @@
 {
   "framework": "japan_pmda",
-  "last_updated": "2026-07-15T20:10:55Z",
+  "last_updated": "2026-07-22T20:14:09Z",
   "items": [
+    {
+      "id": "japan_pmda_20260722_class_ii_recall_shimadzu_lightvision_and_lightvision2_near_i",
+      "framework": "japan_pmda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Class II Recall: Shimadzu LIGHTVISION and LIGHTVISION2 Near-Infrared Camera Systems (Portable Surgical Microscope & ICG Fluorescence Device)",
+        "zh": "II级召回：岛津制作所LIGHTVISION及LIGHTVISION2近红外光摄像系统（便携式手术显微镜与ICG荧光观察装置）"
+      },
+      "summary": {
+        "en": "Shimadzu Corporation has initiated a Class II recall (No. 2-12903) in Japan for its LIGHTVISION and LIGHTVISION2 near-infrared camera systems, which include portable surgical microscopes and ICG fluorescence observation devices. The recall is due to a potential quality or safety issue that may lead to temporary or reversible health consequences. Affected users should immediately identify and quarantine the devices, and follow the manufacturer's instructions for correction or return.",
+        "zh": "日本岛津制作所对其LIGHTVISION和LIGHTVISION2近红外光摄像系统（含便携式手术显微镜及ICG荧光观察装置）发起II级召回（编号2-12903）。召回原因为潜在的质量或安全问题，可能造成暂时性或可逆的健康损害。相关机构应立即识别并隔离受影响设备，并按照制造商的通知进行修正或退回。"
+      },
+      "source_url": "https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12903",
+      "source_name": "PMDA (Japan)",
+      "published_date": "2026-07-21",
+      "detected_date": "2026-07-22T20:12:58Z",
+      "importance": "medium",
+      "tags": [
+        "japan_pmda",
+        "class_ii_recall",
+        "near_infrared_camera",
+        "shimadzu",
+        "lightvision",
+        "surgical_microscope",
+        "icg_fluorescence"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "japan_pmda_20260722_pmda_class_ii_recall_of_nisshin_ps_adhesive_bandage_recall_2",
+      "framework": "japan_pmda",
+      "category": "safety_communication",
+      "title": {
+        "en": "PMDA Class II Recall of Nisshin 救急バンPS Adhesive Bandage (Recall #2-12902)",
+        "zh": "PMDA II级召回：日进医疗器公司急救绷带PS（召回编号2-12902）"
+      },
+      "summary": {
+        "en": "The Japanese PMDA issued a Class II (moderate risk) recall for 救急バンPS adhesive bandage by Nisshin Medical Instrument Co., Ltd. (recall #2-12902). The recall addresses a quality issue that may compromise product safety. Users should stop using affected lots immediately and return or dispose per manufacturer instructions.",
+        "zh": "日本PMDA发布II级（中等风险）召回，涉及日进医疗器株式会社的急救绷带PS（编号2-12902）。召回因可能影响安全性的质量问题启动。相关用户须立即停止使用受影响批次，按制造商指引退货或处置。"
+      },
+      "source_url": "https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12902",
+      "source_name": "PMDA (Japan)",
+      "published_date": "2026-07-21",
+      "detected_date": "2026-07-22T20:13:21Z",
+      "importance": "medium",
+      "tags": [
+        "pmda",
+        "class_ii_recall",
+        "adhesive_bandage",
+        "japan",
+        "medical_device",
+        "nisshin_medical"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "japan_pmda_20260722_class_ii_recall_ge_healthcare_japan_carestation_600_750_seri",
+      "framework": "japan_pmda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Class II Recall: GE Healthcare Japan Carestation 600/750 Series Anesthesia Systems",
+        "zh": "二级召回：GE医疗日本Carestation 600/750系列麻醉系统"
+      },
+      "summary": {
+        "en": "The PMDA has issued a Class II recall (No. 2-12901) for GE Healthcare Japan's Carestation 600 and 750 series anesthesia systems. This moderate-level recall is due to a safety-related issue with the device. Affected users should immediately follow the manufacturer's recall notification and implement any recommended corrective actions.",
+        "zh": "日本PMDA对GE医疗日本株式会社的Carestation 600和750系列麻醉系统发布了二级召回（编号2-12901）。此次中等严重程度召回系因该设备存在安全隐患。受影响的用户应立即遵循制造商召回通知中的指示，并执行所建议的纠正措施。"
+      },
+      "source_url": "https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12901",
+      "source_name": "PMDA (Japan)",
+      "published_date": "2026-07-21",
+      "detected_date": "2026-07-22T20:13:37Z",
+      "importance": "medium",
+      "tags": [
+        "recall",
+        "class_ii",
+        "anesthesia_system",
+        "ge_healthcare",
+        "pmda"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "japan_pmda_20260722_pmda_class_ii_recall_of_intuitive_surgical_s_nir_camera_syst",
+      "framework": "japan_pmda",
+      "category": "safety_communication",
+      "title": {
+        "en": "PMDA Class II Recall of Intuitive Surgical’s NIR Camera System (Endoscopic Video Camera)",
+        "zh": "PMDA 对 Intuitive Surgical 的 NIR 摄像头系统（内窥镜摄像机）发布 II 级召回"
+      },
+      "summary": {
+        "en": "Intuitive Surgical’s NIR Camera System (endoscopic video camera) is the subject of a Class II recall in Japan (Recall No. 2-12900), indicating a moderate risk. The specific safety issue or reason for the recall was not detailed in the initial notice. Healthcare facilities using this device should consult the PMDA recall database and follow any manufacturer instructions to address the recall.",
+        "zh": "英特视外科（Intuitive Surgical）的 NIR 摄像头系统（内窥镜用视频摄像机）在日本被 PMDA 列为 II 级召回（召回编号 2-12900），属中等风险。初步通知中未说明具体的安全问题或召回原因。相关医疗机构应查询 PMDA 召回数据库并遵循制造商指示，以妥善处理该召回事宜。"
+      },
+      "source_url": "https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12900",
+      "source_name": "PMDA (Japan)",
+      "published_date": "2026-07-21",
+      "detected_date": "2026-07-22T20:13:59Z",
+      "importance": "medium",
+      "tags": [
+        "pmda_recall",
+        "class_ii",
+        "intuitive_surgical",
+        "endoscopic_camera",
+        "nir_camera",
+        "medical_device",
+        "japan"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "japan_pmda_20260722_pmda_class_ii_recall_mesh_carrier_skin_graft_expander_by_kei",
+      "framework": "japan_pmda",
+      "category": "safety_communication",
+      "title": {
+        "en": "PMDA Class II Recall: Mesh Carrier (Skin Graft Expander) by Keisei Medical Industry",
+        "zh": "日本PMDA II级召回：ケイセイ医科工業株式会社的网状载体（自体植皮扩张器）"
+      },
+      "summary": {
+        "en": "The PMDA has issued a Class II recall (No. 2-12899) for the Mesh Carrier (autologous skin graft expander) manufactured by Keisei Medical Industry Co., Ltd. This recall addresses a safety issue with the device used in skin grafting procedures. Healthcare facilities should immediately check their inventory, quarantine affected products, and follow the manufacturer's instructions for return or disposal.",
+        "zh": "日本PMDA对ケイセイ医科工業株式会社生产的网状载体（自体植皮扩张器）发布了II级召回（编号2-12899）。该召回涉及用于植皮手术的医疗器械的安全问题。医疗机构应立即检查库存，隔离受影响产品，并按照制造商指示进行退货或处置。"
+      },
+      "source_url": "https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12899",
+      "source_name": "PMDA (Japan)",
+      "published_date": "2026-07-17",
+      "detected_date": "2026-07-22T20:14:09Z",
+      "importance": "medium",
+      "tags": [
+        "japan_pmda",
+        "class_ii_recall",
+        "skin_graft_expander",
+        "mesh_carrier",
+        "medical_device"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
     {
       "id": "japan_pmda_20260715_class_ii_recall_for_nipro_naz_1_blood_purification_device_in",
       "framework": "japan_pmda",

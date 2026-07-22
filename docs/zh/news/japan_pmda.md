@@ -6,6 +6,66 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### II级召回：岛津制作所LIGHTVISION及LIGHTVISION2近红外光摄像系统（便携式手术显微镜与ICG荧光观察装置）
+
+**2026-07-21** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本岛津制作所对其LIGHTVISION和LIGHTVISION2近红外光摄像系统（含便携式手术显微镜及ICG荧光观察装置）发起II级召回（编号2-12903）。召回原因为潜在的质量或安全问题，可能造成暂时性或可逆的健康损害。相关机构应立即识别并隔离受影响设备，并按照制造商的通知进行修正或退回。
+
+**标签**: `japan_pmda`, `class_ii_recall`, `near_infrared_camera`, `shimadzu`, `lightvision`, `surgical_microscope`, `icg_fluorescence`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12903)
+
+---
+
+### PMDA II级召回：日进医疗器公司急救绷带PS（召回编号2-12902）
+
+**2026-07-21** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA发布II级（中等风险）召回，涉及日进医疗器株式会社的急救绷带PS（编号2-12902）。召回因可能影响安全性的质量问题启动。相关用户须立即停止使用受影响批次，按制造商指引退货或处置。
+
+**标签**: `pmda`, `class_ii_recall`, `adhesive_bandage`, `japan`, `medical_device`, `nisshin_medical`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12902)
+
+---
+
+### 二级召回：GE医疗日本Carestation 600/750系列麻醉系统
+
+**2026-07-21** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA对GE医疗日本株式会社的Carestation 600和750系列麻醉系统发布了二级召回（编号2-12901）。此次中等严重程度召回系因该设备存在安全隐患。受影响的用户应立即遵循制造商召回通知中的指示，并执行所建议的纠正措施。
+
+**标签**: `recall`, `class_ii`, `anesthesia_system`, `ge_healthcare`, `pmda`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12901)
+
+---
+
+### PMDA 对 Intuitive Surgical 的 NIR 摄像头系统（内窥镜摄像机）发布 II 级召回
+
+**2026-07-21** | Japan PMDA | 安全通报 | !! MEDIUM
+
+英特视外科（Intuitive Surgical）的 NIR 摄像头系统（内窥镜用视频摄像机）在日本被 PMDA 列为 II 级召回（召回编号 2-12900），属中等风险。初步通知中未说明具体的安全问题或召回原因。相关医疗机构应查询 PMDA 召回数据库并遵循制造商指示，以妥善处理该召回事宜。
+
+**标签**: `pmda_recall`, `class_ii`, `intuitive_surgical`, `endoscopic_camera`, `nir_camera`, `medical_device`, `japan`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12900)
+
+---
+
+### 日本PMDA II级召回：ケイセイ医科工業株式会社的网状载体（自体植皮扩张器）
+
+**2026-07-17** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA对ケイセイ医科工業株式会社生产的网状载体（自体植皮扩张器）发布了II级召回（编号2-12899）。该召回涉及用于植皮手术的医疗器械的安全问题。医疗机构应立即检查库存，隔离受影响产品，并按照制造商指示进行退货或处置。
+
+**标签**: `japan_pmda`, `class_ii_recall`, `skin_graft_expander`, `mesh_carrier`, `medical_device`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12899)
+
+---
+
 ### 日本尼普洛NAZ-1血液净化装置二级召回（编号2-12897）
 
 **2026-07-15** | Japan PMDA | 安全通报 | !! MEDIUM

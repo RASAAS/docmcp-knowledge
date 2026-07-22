@@ -6,6 +6,66 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### Class II Recall: Shimadzu LIGHTVISION and LIGHTVISION2 Near-Infrared Camera Systems (Portable Surgical Microscope & ICG Fluorescence Device)
+
+**2026-07-21** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Shimadzu Corporation has initiated a Class II recall (No. 2-12903) in Japan for its LIGHTVISION and LIGHTVISION2 near-infrared camera systems, which include portable surgical microscopes and ICG fluorescence observation devices. The recall is due to a potential quality or safety issue that may lead to temporary or reversible health consequences. Affected users should immediately identify and quarantine the devices, and follow the manufacturer's instructions for correction or return.
+
+**Tags**: `japan_pmda`, `class_ii_recall`, `near_infrared_camera`, `shimadzu`, `lightvision`, `surgical_microscope`, `icg_fluorescence`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12903)
+
+---
+
+### PMDA Class II Recall of Nisshin 救急バンPS Adhesive Bandage (Recall #2-12902)
+
+**2026-07-21** | Japan PMDA | Safety Communication | !! MEDIUM
+
+The Japanese PMDA issued a Class II (moderate risk) recall for 救急バンPS adhesive bandage by Nisshin Medical Instrument Co., Ltd. (recall #2-12902). The recall addresses a quality issue that may compromise product safety. Users should stop using affected lots immediately and return or dispose per manufacturer instructions.
+
+**Tags**: `pmda`, `class_ii_recall`, `adhesive_bandage`, `japan`, `medical_device`, `nisshin_medical`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12902)
+
+---
+
+### Class II Recall: GE Healthcare Japan Carestation 600/750 Series Anesthesia Systems
+
+**2026-07-21** | Japan PMDA | Safety Communication | !! MEDIUM
+
+The PMDA has issued a Class II recall (No. 2-12901) for GE Healthcare Japan's Carestation 600 and 750 series anesthesia systems. This moderate-level recall is due to a safety-related issue with the device. Affected users should immediately follow the manufacturer's recall notification and implement any recommended corrective actions.
+
+**Tags**: `recall`, `class_ii`, `anesthesia_system`, `ge_healthcare`, `pmda`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12901)
+
+---
+
+### PMDA Class II Recall of Intuitive Surgical’s NIR Camera System (Endoscopic Video Camera)
+
+**2026-07-21** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Intuitive Surgical’s NIR Camera System (endoscopic video camera) is the subject of a Class II recall in Japan (Recall No. 2-12900), indicating a moderate risk. The specific safety issue or reason for the recall was not detailed in the initial notice. Healthcare facilities using this device should consult the PMDA recall database and follow any manufacturer instructions to address the recall.
+
+**Tags**: `pmda_recall`, `class_ii`, `intuitive_surgical`, `endoscopic_camera`, `nir_camera`, `medical_device`, `japan`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12900)
+
+---
+
+### PMDA Class II Recall: Mesh Carrier (Skin Graft Expander) by Keisei Medical Industry
+
+**2026-07-17** | Japan PMDA | Safety Communication | !! MEDIUM
+
+The PMDA has issued a Class II recall (No. 2-12899) for the Mesh Carrier (autologous skin graft expander) manufactured by Keisei Medical Industry Co., Ltd. This recall addresses a safety issue with the device used in skin grafting procedures. Healthcare facilities should immediately check their inventory, quarantine affected products, and follow the manufacturer's instructions for return or disposal.
+
+**Tags**: `japan_pmda`, `class_ii_recall`, `skin_graft_expander`, `mesh_carrier`, `medical_device`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12899)
+
+---
+
 ### Class II Recall for Nipro NAZ-1 Blood Purification Device in Japan (Recall No. 2-12897)
 
 **2026-07-15** | Japan PMDA | Safety Communication | !! MEDIUM
