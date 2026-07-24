@@ -6,6 +6,18 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### 卫生科学局通报：三名消费者（含12岁儿童）因服用含禁用或强效药用成分产品出现严重不良反应
+
+**2026-07-23** | Singapore HSA | 法规更新 | !!! HIGH
+
+新加坡卫生科学局发布通告，通报三名消费者（包括一名12岁儿童）在服用含有禁用或未申报强效药用成分的产品后出现严重不良反应。当局警告公众切勿购买和服用来源不明、未经批准的健康产品，并建议已服用者立即停用并就医，同时鼓励报告不良事件。法规事务从业者需关注对掺杂违禁成分健康产品的执法行动，并审查自身产品警戒系统的合规性。
+
+**标签**: `hsa_alert`, `serious_adverse_events`, `banned_medicinal_ingredients`, `consumer_safety`
+
+[查看来源 (HSA (Singapore))](https://www.hsa.gov.sg/announcements/3-consumers-including-a-12-year-old-adverse-effects/)
+
+---
+
 ### 新加坡HSA首席执行官Raymond Chua博士主旨演讲
 
 **2026-06-29** | Singapore HSA | 法规更新 | !! MEDIUM

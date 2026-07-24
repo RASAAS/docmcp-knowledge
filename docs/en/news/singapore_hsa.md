@@ -6,6 +6,18 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### HSA Alert: 3 Consumers Including a Child Suffer Serious Adverse Events from Products with Banned/Potent Ingredients
+
+**2026-07-23** | Singapore HSA | Regulation Update | !!! HIGH
+
+The Singapore Health Sciences Authority (HSA) issued a press release reporting three consumers, including a 12-year-old, who experienced serious adverse effects after taking products containing banned or potent undeclared medicinal ingredients. The alert warns the public against purchasing and consuming unapproved health products from unknown sources. HSA advises anyone who has taken such products to stop immediately and consult a doctor, and urges the reporting of any adverse events. Regulatory affairs professionals should note heightened enforcement against adulterated health products and review compliance of their own product vigilance systems.
+
+**Tags**: `hsa_alert`, `serious_adverse_events`, `banned_medicinal_ingredients`, `consumer_safety`
+
+[View Source (HSA (Singapore))](https://www.hsa.gov.sg/announcements/3-consumers-including-a-12-year-old-adverse-effects/)
+
+---
+
 ### Keynote Address by Adj Prof (Dr) Raymond Chua, Chief Executive Officer, Health Sciences Authority, on "Regulatory Innova
 
 **2026-06-29** | Singapore HSA | Regulation Update | !! MEDIUM

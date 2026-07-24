@@ -36,6 +36,150 @@ title: Regulatory News
 
 ## Latest Updates
 
+### Swissmedic FSCA for Philips Azurion Stationary Angiographic X-Ray Systems
+
+**2026-07-24** | Swissmedic | Safety Communication | !! MEDIUM
+
+Philips Medical Systems Nederland B.V. has issued a Field Safety Corrective Action (FSCA) for specific models of its Azurion stationary angiographic x-ray systems. The affected models include 722063, 722064, 722067, 722068, 722078, 722079, and a series from 722221 to 722236, 722280 to 722282. The corrective action addresses a potential safety issue, though details are not publicly specified in the notice. Users of these systems should promptly contact Philips or refer to the manufacturer’s instructions for the required corrective measures.
+
+**Tags**: `swissmedic`, `fsca`, `angiographic_xray`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260722_026)
+
+---
+
+### Swissmedic FSCA for Introducer Kit for Impella by Abiomed/Oscor
+
+**2026-07-23** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic issued a Field Safety Corrective Action (FSCA) for the vascular catheter introduction set (Introducer Kit for Impella) manufactured by Abiomed Inc. with Oscor. Affected models include 0052-3046, 0052-3052, 0052-3053, 0052-3006, 0052-3021 and catalogue numbers 0048-0014, 0052-0038, 0052-0039, 1000482, 0052-0011-EU, 0550-0002, 0046-0011, 0052-0002-EU. Users should immediately check inventory, quarantine the affected devices, and follow the manufacturer's instructions for correction.
+
+**Tags**: `swissmedic`, `fsca`, `impella`, `introducer_kit`, `vascular_catheter`, `abiomed`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260708_007)
+
+---
+
+### Swissmedic FSCA: BD neXus Disposable Infusion Set by MEDCAPTAIN – Safety Correction
+
+**2026-07-22** | Swissmedic | Safety Communication | !! MEDIUM
+
+A field safety corrective action has been issued for the BD neXus Disposable Infusion Set, an electric infusion pump administration set for single use, manufactured by MEDCAPTAIN LIFE SCIENCE CO., LTD. Affected models include A211M, A211M1F, A211M5F1, A311M, A311M021F, and A212M1F. The specific reason was not detailed in the initial notice, but users are advised to follow manufacturer instructions, typically involving quarantine and return of affected devices. Further details are available on the Swissmedic FSCA portal.
+
+**Tags**: `fsca`, `infusion_set`, `swissmedic`, `medical_device_safety`, `medcaptain`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260713_032)
+
+---
+
+### Swissmedic Issues Field Safety Corrective Action for Pride Mobility Q6 Edge Electric Wheelchairs
+
+**2026-07-22** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic has issued a Field Safety Corrective Action (FSCA) for Pride Mobility's Q6 Edge 4, Q6 Edge 3 Stretto, and Q6 Edge 3 electric-motor-driven wheelchairs. The action addresses a potential safety concern that could affect occupant-controlled operation. Affected users and healthcare professionals should follow the manufacturer's Field Safety Notice for inspection or correction, and contact Pride Mobility or their supplier for specific instructions.
+
+**Tags**: `swissmedic`, `fsca`, `electric_wheelchair`, `pride_mobility`, `safety_corrective_action`, `mobility_aid`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260630_019)
+
+---
+
+### Swissmedic FSCA for Straumann BLT Ø4.1mm RC SLActive® 12mm TiZr Dental Implant (Model 021.5312)
+
+**2026-07-22** | Swissmedic | Safety Communication | !! MEDIUM
+
+Institut Straumann AG has issued a Field Safety Corrective Action (FSCA) for its BLT Ø4.1mm RC, SLActive® 12mm, TiZr, NTP dental implant (model 021.5312). The Swissmedic notice does not specify the reason for the correction, but distributors and healthcare professionals must follow recommended actions. Affected parties should consult the official FSCA for instructions, which may involve quarantine, return, or enhanced monitoring.
+
+**Tags**: `fsca`, `swissmedic`, `dental_implant`, `straumann`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260710_015)
+
+---
+
+### Swissmedic Issues FSCA for Permobil M5 Corpus Electric Wheelchair (Model M5)
+
+**2026-07-22** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has published a Field Safety Corrective Action (FSCA) for the Permobil M5 Corpus electric-motor-driven wheelchair, manufactured by Permobil AB. The specific reason for the corrective action was not detailed in the notice, but the notice targets the M5 model. Affected users and healthcare providers should follow the manufacturer's recommendations and contact Permobil AB for further instructions.
+
+**Tags**: `swissmedic`, `fsca`, `permobil`, `electric_wheelchair`, `m5_corpus`, `safety_corrective_action`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260720_039)
+
+---
+
+### Swissmedic FSCA: UroDapter Sterile Single-Use Urological Adapter by Pharmico Medical Kft.
+
+**2026-07-22** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic has issued a Field Safety Corrective Action for UroDapter, a sterile single-use urological adapter from Pharmico Medical Kft. Affected models include date-coded lots 20230228, 20230929, 20240430, 20241031, 20251231, 20260130, and 20260430. While the specific reason is not publicly detailed, healthcare facilities should quarantine affected units and follow the manufacturer's corrective instructions. The notice appears on the Swissmedic FSCA portal.
+
+**Tags**: `swissmedic`, `fsca`, `medical_device`, `urology`, `sterile_adapter`, `field_safety_corrective_action`, `pharmico_medical`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260720_024)
+
+---
+
+### Swissmedic FSCA: IALUADAPTER Sterile Urological Adapter by Pharmico Medical Kft.
+
+**2026-07-22** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic issued a Field Safety Corrective Action for the IALUADAPTER, a sterile single-use urological adapter from Pharmico Medical Kft. The reason for the corrective action was not specified in the notice, but affected models include 2300023, 2300070, 2400068, 2400133, 2500119, 2500134, and 2600044. Users should immediately quarantine the listed devices and follow the manufacturer's instructions for return or disposal.
+
+**Tags**: `field_safety_corrective_action`, `urological_device`, `swissmedic`, `recall`, `pharmico_medical`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260720_024)
+
+---
+
+### FSCA Update: Stryker Hoffmann II Micro Connecting Rods - Response Deadline Change
+
+**2026-07-21** | Swissmedic | Safety Communication | !! MEDIUM
+
+Stryker GmbH has issued a Field Safety Corrective Action (FSCA) for its Hoffmann II Micro connecting rods, part of external bone fixation systems. The sole purpose of this action is to update the response deadline for previously communicated corrective measures. Affected model numbers are 50796030, 50796040, 50796050, 50796060, 50796090, 50796120, and 50796150. Users should note the revised deadline and ensure their responses are submitted accordingly.
+
+**Tags**: `swissmedic`, `fsca`, `stryker`, `external_fixation`, `hoffmann_ii_micro`, `deadline_update`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260713_022)
+
+---
+
+### Swissmedic FSCA: Medtronic Sphere-360 Catheter (AFR-00012) – Language Addition Correction
+
+**2026-07-21** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic issued a Field Safety Corrective Action for the Medtronic Sphere-360 cardiac ablation catheter (model AFR-00012) due to an added language in its labeling. This is a product correction, not a recall, requiring no product return. Healthcare facilities and distributors should ensure the updated labeling is in place and continue using the device safely.
+
+**Tags**: `fsca`, `medtronic`, `labeling_update`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260715_006)
+
+---
+
+### Swissmedic Issues FSCA for MEDICO TECHNOLOGIES Sterile Single Use Tear Duct Cannula (S-140097, S-140096)
+
+**2026-07-21** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic has issued a Field Safety Corrective Action (FSCA) for the Sterile Single Use Tear Duct Cannula manufactured by MEDICO TECHNOLOGIES, affecting models S-140097 and S-140096. The specific reason for the corrective action was not detailed in the public notice, though it pertains to lacrimal duct devices. Healthcare facilities are advised to immediately identify and quarantine affected units and follow the manufacturer's instructions for return or correction.
+
+**Tags**: `swissmedic`, `fsca`, `medical_device_recall`, `lacrimal_cannula`, `medico_technologies`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260720_002)
+
+---
+
+### Swissmedic FSCA for Aesculap AG Silver Graft (Helix) Vascular Prosthesis – Model Info in FSN
+
+**2026-07-21** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic has issued a Field Safety Corrective Action (FSCA) for the Silver Graft (Helix) Vascular Prosthesis, a synthetic non-medicated graft from Aesculap AG. The specific reason for the action is not detailed in the public notice; affected model and lot numbers are provided in the manufacturer's Field Safety Notice (FSN). Healthcare providers should immediately identify impacted devices, consult the FSN, and follow recommended actions, which typically include quarantine and return.
+
+**Tags**: `swissmedic`, `fsca`, `vascular_prosthesis`, `aesculap_ag`, `implant`, `field_safety_corrective_action`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260715_075)
+
+---
+
 ### Swissmedic FSCA: Philips Cardiac Workstation 7000 Electrocardiograph, Model 860441 (Reason Not Specified)
 
 **2026-07-15** | Swissmedic | Safety Communication | !! MEDIUM
@@ -466,6 +610,18 @@ Swissmedic has issued a Field Safety Corrective Action (FSCA) for IOD Software, 
 
 ---
 
+### Updated Safety Measures for ELEC plus Ceramic Ball Head Hip Component – ARTIQO GmbH
+
+**2026-04-27** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has issued a Field Safety Corrective Action (FSCA) for the ELEC plus Keramik-Kugelkopf (ceramic ball head), a femoral component of hip joint prostheses manufactured by ARTIQO GmbH. The FSCA communicates updated measures; specific affected models are listed in the manufacturer's Field Safety Notice. Healthcare facilities should immediately review the revised notice and implement the recommended actions to ensure patient safety.
+
+**Tags**: `hip_prosthesis`, `ceramic_ball_head`, `field_safety_corrective_action`, `swissmedic`, `medical_device_recall`, `arthroplasty`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260427_001)
+
+---
+
 ### Swissmedic FSCA: Sphere-9 Catheter – Updated Field Safety Notice (Medtronic/BIOTRONIK)
 
 **2026-03-30** | Swissmedic | Safety Communication | !! MEDIUM
@@ -511,5 +667,17 @@ Swissmedic published a Field Safety Corrective Action for Zimmer Surgical's pneu
 **Tags**: `swissmedic`, `fsca`, `zimmer_surgical`, `tourniquet_system`, `serial_number_update`
 
 [View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260115_28)
+
+---
+
+### Medin-NC3 Neonatal CPAP Unit: New Blower and Software Update Available – Swissmedic FSCA
+
+**2025-08-15** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has published a Field Safety Corrective Action for the Medin-NC3 neonatal CPAP unit (model 3000) from medin Medical Innovations GmbH. The manufacturer is making a new blower and a software update available to improve device performance or safety. Users should contact the manufacturer to schedule the correction.
+
+**Tags**: `swissmedic_fsca`, `neonatal_cpap`, `product_correction`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20250807_02)
 
 ---
