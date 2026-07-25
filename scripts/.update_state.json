@@ -1235,10 +1235,10 @@
   },
   "newzealand_medsafe/safety_comms": {
     "url": "https://medsafe.govt.nz/safety/SafetyCommunications.asp",
-    "last_checked": "2026-07-18T19:58:59.475639",
+    "last_checked": "2026-07-25T20:06:08.552667",
     "seen_ids": [
-      "[Alert] Stop using Euky Bear \r\n\t\t\t\tWarm Steam Vaporiser â model number EBSV2013",
-      "[Alert] Product \r\n\t\t\t\tAlert of Dexcom US G7 Sensors: Lots 1725204004 and 1725069002"
+      "[Alert] Product \r\n\t\t\t\tAlert of Dexcom US G7 Sensors: Lots 1725204004 and 1725069002",
+      "[Alert] Stop using Euky Bear \r\n\t\t\t\tWarm Steam Vaporiser â model number EBSV2013"
     ]
   },
   "australia_tga/regulations_search": {
@@ -1263,17 +1263,18 @@
   },
   "mexico_cofepris/safety_alerts": {
     "url": "https://www.gob.mx/cofepris/acciones-y-programas/alertas-sanitarias-336947",
-    "last_checked": "2026-07-18T19:58:53.841978",
+    "last_checked": "2026-07-25T20:06:03.646035",
     "seen_titles": [
-      "COFEPRIS acata declaratoria de inconstitucionalidad emitida por la SCJN en materia de autoconsumo lúdico de cannabis y tetrahidrocannabinol",
-      "Imprime la página completa",
       "Contesta nuestra encuesta de satisfacción.",
-      "Riesgo de recolectar y consumir hongos silvestres"
+      "Imprime la página completa",
+      "Riesgo de recolectar y consumir hongos silvestres",
+      "COFEPRIS acata declaratoria de inconstitucionalidad emitida por la SCJN en materia de autoconsumo lúdico de cannabis y tetrahidrocannabinol",
+      "En la investigación por Cyclospora cayetanensis, ni México ni EE.UU. han encontrado el parásito en lechugas de origen mexicano"
     ]
   },
   "argentina_anmat/safety_alerts": {
     "url": "https://www.argentina.gob.ar/anmat/alertas",
-    "last_checked": "2026-07-18T19:58:55.034567",
+    "last_checked": "2026-07-25T20:06:04.892997",
     "seen_titles": [
       "30 de junio de 2026ANMAT prohíbe un lote de un producto médico falsificado de la firma LINEDERM"
     ]
