@@ -6,6 +6,18 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### New MDCG Position Paper Clarifies UDI Assignment Responsibilities Between Manufacturers and Distributors
+
+**2026-07-22** | EU MDR/IVDR | Regulation Update | !! MEDIUM
+
+The European Commission has released a new MDCG position paper on assigning Unique Device Identification (UDI) between manufacturers and distributors under the EU Medical Device Regulations. It clarifies which party is responsible for UDI placement when devices are relabeled, repackaged, or sold under a distributor’s own name, covering manufacturers, importers, and distributors. Affected stakeholders should review the guidance to align their UDI assignment processes with the clarified obligations, especially for private labelling and parallel trade scenarios. Timely adoption is essential to maintain compliance with MDR/IVDR traceability requirements.
+
+**Tags**: `udi`, `mdcg`, `guidance`, `manufacturers`, `distributors`, `traceability`
+
+[View Source (European Commission)](https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en#sec18)
+
+---
+
 ### EC Publishes Dashboard v3.5 for Monitoring Medical Device Availability on the EU Market
 
 **2026-07-14** | EU MDR/IVDR | Regulation Update | !! MEDIUM

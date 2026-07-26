@@ -42,6 +42,18 @@ title: 法规速递
 
 ---
 
+### MDCG发布新立场文件：明确制造商与经销商之间的UDI分配责任
+
+**2026-07-22** | EU MDR/IVDR | 法规更新 | !! MEDIUM
+
+欧盟委员会发布了一份新的MDCG立场文件，说明在欧盟医疗器械法规下制造商与经销商之间唯一器械标识（UDI）的分配问题。该文件明确了器械被重新贴标、重新包装或以经销商自有名义销售时UDI的分配责任，涉及制造商、进口商和经销商。相关方应审阅该指导文件，确保其UDI分配流程符合已明确的义务，特别是在自有标签和平行贸易情况下。及时落实对于遵守MDR/IVDR可追溯性要求至关重要。
+
+**标签**: `udi`, `mdcg`, `guidance`, `manufacturers`, `distributors`, `traceability`
+
+[查看来源 (European Commission)](https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en#sec18)
+
+---
+
 ### 瑞士药监局 FSCA：MEDCAPTAIN BD neXus 一次性输液器安全纠正
 
 **2026-07-22** | Swissmedic | 安全通报 | !! MEDIUM

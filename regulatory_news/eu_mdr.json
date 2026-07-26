@@ -1,7 +1,35 @@
 {
   "framework": "eu_mdr",
-  "last_updated": "2026-07-19T20:06:20Z",
+  "last_updated": "2026-07-26T20:07:13Z",
   "items": [
+    {
+      "id": "eu_mdr_20260726_new_mdcg_position_paper_clarifies_udi_assignment_responsibil",
+      "framework": "eu_mdr",
+      "category": "regulation_update",
+      "title": {
+        "en": "New MDCG Position Paper Clarifies UDI Assignment Responsibilities Between Manufacturers and Distributors",
+        "zh": "MDCG发布新立场文件：明确制造商与经销商之间的UDI分配责任"
+      },
+      "summary": {
+        "en": "The European Commission has released a new MDCG position paper on assigning Unique Device Identification (UDI) between manufacturers and distributors under the EU Medical Device Regulations. It clarifies which party is responsible for UDI placement when devices are relabeled, repackaged, or sold under a distributor’s own name, covering manufacturers, importers, and distributors. Affected stakeholders should review the guidance to align their UDI assignment processes with the clarified obligations, especially for private labelling and parallel trade scenarios. Timely adoption is essential to maintain compliance with MDR/IVDR traceability requirements.",
+        "zh": "欧盟委员会发布了一份新的MDCG立场文件，说明在欧盟医疗器械法规下制造商与经销商之间唯一器械标识（UDI）的分配问题。该文件明确了器械被重新贴标、重新包装或以经销商自有名义销售时UDI的分配责任，涉及制造商、进口商和经销商。相关方应审阅该指导文件，确保其UDI分配流程符合已明确的义务，特别是在自有标签和平行贸易情况下。及时落实对于遵守MDR/IVDR可追溯性要求至关重要。"
+      },
+      "source_url": "https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en#sec18",
+      "source_name": "European Commission",
+      "published_date": "2026-07-22",
+      "detected_date": "2026-07-26T20:07:13Z",
+      "importance": "medium",
+      "tags": [
+        "udi",
+        "mdcg",
+        "guidance",
+        "manufacturers",
+        "distributors",
+        "traceability"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
     {
       "id": "eu_mdr_20260719_ec_publishes_dashboard_v3_5_for_monitoring_medical_device_av",
       "framework": "eu_mdr",
