@@ -6,6 +6,18 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### MHRA更新获得特殊使用授权的医疗器械清单
+
+**2026-07-24** | UK MHRA | 法规更新 | !! MEDIUM
+
+英国MHRA发布了最新的获得特殊使用授权的医疗器械及制造商清单，这些器械在豁免条件下可上市或投入使用。清单涵盖有效授权以及已过期或被取消的项目。相关制造商、进口商和医疗机构应核查清单，确认其所供应或使用器械的状态，若授权已失效需采取相应措施。持续关注该清单对保证合规和患者安全至关重要。
+
+**标签**: `exceptional_use`, `mhra`, `medical_device_list`, `exemption`, `compliance`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/government/publications/medical-devices-given-exceptional-use-authorisations)
+
+---
+
 ### 瑞士药监局对飞利浦Azurion固定式血管造影X射线系统发布现场安全纠正措施
 
 **2026-07-24** | Swissmedic | 安全通报 | !! MEDIUM
@@ -15,6 +27,90 @@ title: 法规速递
 **标签**: `swissmedic`, `fsca`, `angiographic_xray`
 
 [查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260722_026)
+
+---
+
+### MHRA指南：医疗器械临床研究提交材料编制
+
+**2026-07-23** | UK MHRA | 法规更新 | !! MEDIUM
+
+MHRA发布了面向申办方和制造商的指南，说明如何编制提交材料以通知开展医疗器械临床研究。指南详细列出了所需文件、格式和提交流程，以确保符合法规要求。对于计划在英国进行医疗器械临床试验的相关方，该指南至关重要。
+
+**标签**: `clinical_investigations`, `mhra_guidance`, `submission_process`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/government/publications/clinical-investigations-compiling-a-submission)
+
+---
+
+### MHRA指南：如何判定医疗器械是否需在英国开展临床调查
+
+**2026-07-23** | UK MHRA | 法规更新 | !! MEDIUM
+
+该MHRA指南详细说明了根据英国法规判断医疗器械是否需要进行临床调查的标准，以及豁免条件。指南面向计划在大不列颠市场上市设备的制造商和申办方，提供了逐步评估临床证据要求的方法，旨在阐明监管期望，助力合规并简化符合性评估流程。
+
+**标签**: `clinical_investigation`, `mhra_guidance`, `medical_devices`, `uk_regulations`, `exemption_criteria`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/government/publications/medical-devices-that-need-a-clinical-investigation)
+
+---
+
+### 英国MHRA发布医疗器械临床调查通知指南
+
+**2026-07-23** | UK MHRA | 法规更新 | !! MEDIUM
+
+这份最新的MHRA指南说明了申办方如何向英国监管机构申报医疗器械临床调查的意向，包括所需文件、提交步骤和英国法规下的监管路径。制造商和研究人员在启动任何涉及器械的临床研究前，必须遵循本指南以确保合规。
+
+**标签**: `clinical_investigation`, `mhra_notification`, `medical_devices`, `premarket_requirements`, `uk_regulations`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/guidance/notify-mhra-about-a-clinical-investigation-for-a-medical-device)
+
+---
+
+### MHRA 关于在英国开展医疗器械临床研究的指南
+
+**2026-07-23** | UK MHRA | 法规更新 | !! MEDIUM
+
+本MHRA指南详细说明了医疗器械制造商在英国规划、开展和报告临床研究时必须遵循的《2002年医疗器械法规》要求。指南涵盖监管要求，包括MHRA批准、伦理审查和不良事件通知等。制造商和申办方应依据本文档确保在GB市场启动任何临床研究前完全合规。
+
+**标签**: `clinical_investigations`, `mhra_guidance`, `medical_devices`, `uk_regulations`, `compliance`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/guidance/clinical-investigations-in-great-britain)
+
+---
+
+### MHRA关于医疗器械临床研究审批的指南
+
+**2026-07-23** | UK MHRA | 法规更新 | !! MEDIUM
+
+本指南说明了MHRA如何决定是否批准医疗器械临床研究。适用于计划在英国开展临床试验的申办者和制造商，详细列出了所需信息和评估标准。关键行动包括理解提交要求、确保研究设计符合安全与性能标准，并提供充分的批准证据。该文件更新了现有指南，以符合当前监管期望。
+
+**标签**: `clinical_investigations`, `mhra_guidance`, `medical_devices`, `approval_process`, `uk_regulations`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/government/publications/approving-clinical-investigations)
+
+---
+
+### 加拿大卫生部召回HeartSine Samaritan PAD系列除颤器，因膜尾性能问题
+
+**2026-07-23** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部因膜尾性能缺陷召回HeartSine Samaritan PAD SAM 350P、SAM 360P和SAM 500P自动体外除颤器，该缺陷可能导致急救时无法电击。受影响的用户应立即检查设备并按制造商纠正措施处理，医疗机构须确保在修复或替换前有备用除颤器。
+
+**标签**: `defibrillator`, `recall`, `performance_issue`, `aed`, `canada`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/heartsiner-samaritanr-pad-sam-350psam-360psam-500p-membrane-tail)
+
+---
+
+### 加拿大卫生部因性能问题召回OverStitch™缝合器系列产品
+
+**2026-07-23** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已对Apollo Endosurgery公司生产的OverStitch™缝合器及长型缝合器发出召回，原因是性能问题可能影响内镜缝合操作中的设备可靠性。使用该器械的医疗机构应立即识别和隔离受影响库存，并遵循制造商的退货或处置指引。法规事务人员应核查产品，确保向加拿大卫生部报告不良事件，并将召回信息传达给相关临床团队。
+
+**标签**: `medical_device_recall`, `performance_issue`, `suture_device`, `health_canada`, `endoscopic_surgery`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/overstitchtm-suture-cinch-and-suture-cinch-long)
 
 ---
 
@@ -51,6 +147,30 @@ title: 法规速递
 **标签**: `udi`, `mdcg`, `guidance`, `manufacturers`, `distributors`, `traceability`
 
 [查看来源 (European Commission)](https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en#sec18)
+
+---
+
+### 加拿大召回DCA Vantage® HbA1c (DX Claim)因性能问题
+
+**2026-07-22** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部因性能问题召回DCA Vantage® HbA1c (DX Claim)设备，该问题可能导致糖化血红蛋白检测结果不准确。此次召回影响所有使用该设备进行糖尿病诊断和监测的临床实验室及护理点。相关用户须立即停用受影响批次，并根据制造商指示进行纠正。此事件凸显了对体外诊断产品声明进行严格性能验证的重要性。
+
+**标签**: `medical_device_recall`, `hba1c`, `performance_issue`, `diabetes_diagnostics`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/dca-vantager-hba1c-dx-claim)
+
+---
+
+### HeartSine Samaritan PAD SAM 350P/360P/500P除颤器因标签与包装问题召回
+
+**2026-07-22** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部发布HeartSine Samaritan PAD自动体外除颤器（型号SAM 350P、SAM 360P及SAM 500P）的召回通知，原因为标签与包装存在缺陷。该问题可能导致紧急情况下设备信息错误或缺失，造成使用混淆或延迟。受影响用户、经销商及医疗机构应立即核查设备，遵循制造商指引进行整改，并确保标签完整准确，以维持急救可靠性。
+
+**标签**: `medical_device_recall`, `defibrillator`, `labelling_issue`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/heartsiner-samaritanr-pad-sam-350psam-360psam-500p)
 
 ---
 
@@ -198,6 +318,66 @@ FDA 器械与放射健康中心（CDRH）将于2026年9月9日举办一场市政
 
 ---
 
+### MHRA 现场安全通告：2026年7月13日至17日
+
+**2026-07-21** | UK MHRA | 安全通报 | !! MEDIUM
+
+英国 MHRA 发布了2026年7月13日至17日期间发出的现场安全通告列表。这些通告旨在提醒医疗专业人员、患者及器械制造商注意相关医疗器械的特定安全问题。相关方应审阅列表以识别其使用或销售的受影响器械，并按照每份通告的具体要求采取纠正措施。
+
+**标签**: `field_safety_notice`, `mhra`, `medical_devices`, `safety_alert`, `uk`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-13-to-17-july-2026)
+
+---
+
+### 英国MHRA更新药品及原料生产商与批发商许可证吊销/暂停名单，新增8项记录
+
+**2026-07-21** | UK MHRA | 法规更新 | !! MEDIUM
+
+英国药监机构MHRA发布了最新版的药品及原料药生产商与批发商许可证吊销或暂停名单，新增了8条记录。该名单公开了因未能符合监管标准而被暂停或撤销制造/批发许可的公司。相关企业应核查此名单，评估对自身供应链或合作方可能产生的影响。
+
+**标签**: `uk_mhra`, `licence_suspension`, `medicines_manufacturing`, `regulatory_enforcement`, `supply_chain_compliance`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/government/publications/suspended-licences-for-manufacturers-and-wholesalers-of-medicines)
+
+---
+
+### MHRA 2026年7月13-17日现场安全通告汇总
+
+**2026-07-21** | UK MHRA | 法规更新 | !! MEDIUM
+
+该MHRA出版物列出了2026年7月13日至17日期间发布的8份医疗器械现场安全通告（FSN）。医护人员和机构应查阅这些通告，以识别其库存中的受影响器械，并遵循制造商建议的措施。通告涵盖不同器械类别及安全问题。
+
+**标签**: `field_safety_notice`, `mhra`, `weekly_listing`, `medical_devices`, `post_market_surveillance`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-13-to-17-july-2026)
+
+---
+
+### 岛津X射线高压发生器因性能问题在加拿大被召回
+
+**2026-07-21** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部因性能问题对岛津X射线高压发生器发布安全警示。受影响医疗机构应立即核查其设备是否在召回范围内，并需采取维修或更换等纠正措施，以确保设备安全、准确地运行。用户应联系岛津公司获取具体指导，并报告任何相关不良事件。
+
+**标签**: `canada_recall`, `x-ray_generator`, `shimadzu`, `performance_issue`, `safety_alert`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/shimadzu-x-ray-high-voltage-generators)
+
+---
+
+### Cardinal Health因灭菌问题召回含Ritmed神经外科海绵的Presource®套件
+
+**2026-07-21** | Health Canada | 安全通报 | !!! HIGH
+
+Cardinal Health主动召回部分含Ritmed®神经外科海绵的Presource®套件，因海绵可能存在灭菌问题。受影响产品已在加拿大分销，用于神经外科手术。医疗机构应立即识别并隔离所有相关批次产品，并退回至Cardinal Health。使用非无菌器械可能导致患者发生严重感染。
+
+**标签**: `medical_device_recall`, `sterility`, `neurosurgical_sponge`, `safety_alert`, `cardinal_health`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/cardinal-health-presourcer-kits-containing-ritmedr-neurological-sponges)
+
+---
+
 ### II级召回：岛津制作所LIGHTVISION及LIGHTVISION2近红外光摄像系统（便携式手术显微镜与ICG荧光观察装置）
 
 **2026-07-21** | Japan PMDA | 安全通报 | !! MEDIUM
@@ -339,6 +519,18 @@ MHRA 发布了关于医疗器械在大不列颠和北爱尔兰市场上市前必
 **标签**: `canada`, `class_iii_iv_devices`, `licence_application`, `health_canada_notice`, `regulatory_guidance`
 
 [查看来源 (Health Canada)](https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/application-information/guidance-documents/expectations-information-submitted-class-iii-iv-licence-notice-industry.html)
+
+---
+
+### 飞利浦Achieva与Ingenia磁共振系统性能问题安全警报
+
+**2026-07-20** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部针对部分飞利浦Achieva和Ingenia磁共振系统发布安全警报，指出存在可能影响图像质量的性能问题。受影响的系统可能生成非理想图像，导致诊断延误或遗漏。使用此类设备的医疗机构应立即联系飞利浦进行检查，并遵循制造商建议的纠正措施，确保设备安全有效运行。
+
+**标签**: `recall`, `safety_alert`, `mri_system`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/philips-achieva-and-ingenia-systems)
 
 ---
 

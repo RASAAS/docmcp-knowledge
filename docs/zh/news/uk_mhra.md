@@ -6,6 +6,114 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### MHRA更新获得特殊使用授权的医疗器械清单
+
+**2026-07-24** | UK MHRA | 法规更新 | !! MEDIUM
+
+英国MHRA发布了最新的获得特殊使用授权的医疗器械及制造商清单，这些器械在豁免条件下可上市或投入使用。清单涵盖有效授权以及已过期或被取消的项目。相关制造商、进口商和医疗机构应核查清单，确认其所供应或使用器械的状态，若授权已失效需采取相应措施。持续关注该清单对保证合规和患者安全至关重要。
+
+**标签**: `exceptional_use`, `mhra`, `medical_device_list`, `exemption`, `compliance`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/government/publications/medical-devices-given-exceptional-use-authorisations)
+
+---
+
+### MHRA指南：医疗器械临床研究提交材料编制
+
+**2026-07-23** | UK MHRA | 法规更新 | !! MEDIUM
+
+MHRA发布了面向申办方和制造商的指南，说明如何编制提交材料以通知开展医疗器械临床研究。指南详细列出了所需文件、格式和提交流程，以确保符合法规要求。对于计划在英国进行医疗器械临床试验的相关方，该指南至关重要。
+
+**标签**: `clinical_investigations`, `mhra_guidance`, `submission_process`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/government/publications/clinical-investigations-compiling-a-submission)
+
+---
+
+### MHRA指南：如何判定医疗器械是否需在英国开展临床调查
+
+**2026-07-23** | UK MHRA | 法规更新 | !! MEDIUM
+
+该MHRA指南详细说明了根据英国法规判断医疗器械是否需要进行临床调查的标准，以及豁免条件。指南面向计划在大不列颠市场上市设备的制造商和申办方，提供了逐步评估临床证据要求的方法，旨在阐明监管期望，助力合规并简化符合性评估流程。
+
+**标签**: `clinical_investigation`, `mhra_guidance`, `medical_devices`, `uk_regulations`, `exemption_criteria`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/government/publications/medical-devices-that-need-a-clinical-investigation)
+
+---
+
+### 英国MHRA发布医疗器械临床调查通知指南
+
+**2026-07-23** | UK MHRA | 法规更新 | !! MEDIUM
+
+这份最新的MHRA指南说明了申办方如何向英国监管机构申报医疗器械临床调查的意向，包括所需文件、提交步骤和英国法规下的监管路径。制造商和研究人员在启动任何涉及器械的临床研究前，必须遵循本指南以确保合规。
+
+**标签**: `clinical_investigation`, `mhra_notification`, `medical_devices`, `premarket_requirements`, `uk_regulations`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/guidance/notify-mhra-about-a-clinical-investigation-for-a-medical-device)
+
+---
+
+### MHRA 关于在英国开展医疗器械临床研究的指南
+
+**2026-07-23** | UK MHRA | 法规更新 | !! MEDIUM
+
+本MHRA指南详细说明了医疗器械制造商在英国规划、开展和报告临床研究时必须遵循的《2002年医疗器械法规》要求。指南涵盖监管要求，包括MHRA批准、伦理审查和不良事件通知等。制造商和申办方应依据本文档确保在GB市场启动任何临床研究前完全合规。
+
+**标签**: `clinical_investigations`, `mhra_guidance`, `medical_devices`, `uk_regulations`, `compliance`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/guidance/clinical-investigations-in-great-britain)
+
+---
+
+### MHRA关于医疗器械临床研究审批的指南
+
+**2026-07-23** | UK MHRA | 法规更新 | !! MEDIUM
+
+本指南说明了MHRA如何决定是否批准医疗器械临床研究。适用于计划在英国开展临床试验的申办者和制造商，详细列出了所需信息和评估标准。关键行动包括理解提交要求、确保研究设计符合安全与性能标准，并提供充分的批准证据。该文件更新了现有指南，以符合当前监管期望。
+
+**标签**: `clinical_investigations`, `mhra_guidance`, `medical_devices`, `approval_process`, `uk_regulations`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/government/publications/approving-clinical-investigations)
+
+---
+
+### MHRA 现场安全通告：2026年7月13日至17日
+
+**2026-07-21** | UK MHRA | 安全通报 | !! MEDIUM
+
+英国 MHRA 发布了2026年7月13日至17日期间发出的现场安全通告列表。这些通告旨在提醒医疗专业人员、患者及器械制造商注意相关医疗器械的特定安全问题。相关方应审阅列表以识别其使用或销售的受影响器械，并按照每份通告的具体要求采取纠正措施。
+
+**标签**: `field_safety_notice`, `mhra`, `medical_devices`, `safety_alert`, `uk`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-13-to-17-july-2026)
+
+---
+
+### 英国MHRA更新药品及原料生产商与批发商许可证吊销/暂停名单，新增8项记录
+
+**2026-07-21** | UK MHRA | 法规更新 | !! MEDIUM
+
+英国药监机构MHRA发布了最新版的药品及原料药生产商与批发商许可证吊销或暂停名单，新增了8条记录。该名单公开了因未能符合监管标准而被暂停或撤销制造/批发许可的公司。相关企业应核查此名单，评估对自身供应链或合作方可能产生的影响。
+
+**标签**: `uk_mhra`, `licence_suspension`, `medicines_manufacturing`, `regulatory_enforcement`, `supply_chain_compliance`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/government/publications/suspended-licences-for-manufacturers-and-wholesalers-of-medicines)
+
+---
+
+### MHRA 2026年7月13-17日现场安全通告汇总
+
+**2026-07-21** | UK MHRA | 法规更新 | !! MEDIUM
+
+该MHRA出版物列出了2026年7月13日至17日期间发布的8份医疗器械现场安全通告（FSN）。医护人员和机构应查阅这些通告，以识别其库存中的受影响器械，并遵循制造商建议的措施。通告涵盖不同器械类别及安全问题。
+
+**标签**: `field_safety_notice`, `mhra`, `weekly_listing`, `medical_devices`, `post_market_surveillance`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-13-to-17-july-2026)
+
+---
+
 ### MHRA 指南：在大不列颠和北爱尔兰市场销售医疗设备须先注册
 
 **2026-07-20** | UK MHRA | 法规更新 | !! MEDIUM

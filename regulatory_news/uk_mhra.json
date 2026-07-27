@@ -1,7 +1,248 @@
 {
   "framework": "uk_mhra",
-  "last_updated": "2026-07-20T20:32:25Z",
+  "last_updated": "2026-07-27T20:26:55Z",
   "items": [
+    {
+      "id": "uk_mhra_20260727_mhra_updates_list_of_medical_devices_with_exceptional_use_au",
+      "framework": "uk_mhra",
+      "category": "regulation_update",
+      "title": {
+        "en": "MHRA Updates List of Medical Devices with Exceptional Use Authorisations",
+        "zh": "MHRA更新获得特殊使用授权的医疗器械清单"
+      },
+      "summary": {
+        "en": "The MHRA has published an updated list of medical devices and manufacturers granted exceptional use authorisations, allowing market access under specific exemptions. The list covers active authorisations as well as those expired or cancelled. Affected manufacturers, importers, and healthcare providers should review the list to verify the status of devices they supply or use, and take corrective actions if authorisations have lapsed. Regular monitoring of this list is essential for ongoing compliance and patient safety.",
+        "zh": "英国MHRA发布了最新的获得特殊使用授权的医疗器械及制造商清单，这些器械在豁免条件下可上市或投入使用。清单涵盖有效授权以及已过期或被取消的项目。相关制造商、进口商和医疗机构应核查清单，确认其所供应或使用器械的状态，若授权已失效需采取相应措施。持续关注该清单对保证合规和患者安全至关重要。"
+      },
+      "source_url": "https://www.gov.uk/government/publications/medical-devices-given-exceptional-use-authorisations",
+      "source_name": "MHRA (UK)",
+      "published_date": "2026-07-24",
+      "detected_date": "2026-07-27T20:23:33Z",
+      "importance": "medium",
+      "tags": [
+        "exceptional_use",
+        "mhra",
+        "medical_device_list",
+        "exemption",
+        "compliance"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "uk_mhra_20260727_mhra_guidance_compiling_a_submission_for_clinical_investigat",
+      "framework": "uk_mhra",
+      "category": "regulation_update",
+      "title": {
+        "en": "MHRA Guidance: Compiling a Submission for Clinical Investigations of Medical Devices",
+        "zh": "MHRA指南：医疗器械临床研究提交材料编制"
+      },
+      "summary": {
+        "en": "The MHRA has issued guidance for sponsors and manufacturers on how to compile a submission to notify them of a clinical investigation of a medical device. It details the required documents, format, and submission process to help ensure regulatory compliance. This guidance is essential for anyone planning a medical device clinical trial in the UK.",
+        "zh": "MHRA发布了面向申办方和制造商的指南，说明如何编制提交材料以通知开展医疗器械临床研究。指南详细列出了所需文件、格式和提交流程，以确保符合法规要求。对于计划在英国进行医疗器械临床试验的相关方，该指南至关重要。"
+      },
+      "source_url": "https://www.gov.uk/government/publications/clinical-investigations-compiling-a-submission",
+      "source_name": "MHRA (UK)",
+      "published_date": "2026-07-23",
+      "detected_date": "2026-07-27T20:23:49Z",
+      "importance": "medium",
+      "tags": [
+        "clinical_investigations",
+        "mhra_guidance",
+        "submission_process"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "uk_mhra_20260727_mhra_guidance_determining_if_your_medical_device_needs_a_cli",
+      "framework": "uk_mhra",
+      "category": "regulation_update",
+      "title": {
+        "en": "MHRA Guidance: Determining if Your Medical Device Needs a Clinical Investigation in the UK",
+        "zh": "MHRA指南：如何判定医疗器械是否需在英国开展临床调查"
+      },
+      "summary": {
+        "en": "This MHRA guidance outlines the criteria for determining whether a medical device must undergo a clinical investigation under UK regulations, or if it qualifies for an exemption. It is aimed at manufacturers and sponsors placing devices on the Great Britain market, providing a step-by-step approach to assess clinical evidence requirements. The document clarifies regulatory expectations to support compliance and streamline the conformity assessment process.",
+        "zh": "该MHRA指南详细说明了根据英国法规判断医疗器械是否需要进行临床调查的标准，以及豁免条件。指南面向计划在大不列颠市场上市设备的制造商和申办方，提供了逐步评估临床证据要求的方法，旨在阐明监管期望，助力合规并简化符合性评估流程。"
+      },
+      "source_url": "https://www.gov.uk/government/publications/medical-devices-that-need-a-clinical-investigation",
+      "source_name": "MHRA (UK)",
+      "published_date": "2026-07-23",
+      "detected_date": "2026-07-27T20:24:00Z",
+      "importance": "medium",
+      "tags": [
+        "clinical_investigation",
+        "mhra_guidance",
+        "medical_devices",
+        "uk_regulations",
+        "exemption_criteria"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "uk_mhra_20260727_uk_mhra_guidance_how_to_notify_clinical_investigations_for_m",
+      "framework": "uk_mhra",
+      "category": "regulation_update",
+      "title": {
+        "en": "UK MHRA Guidance: How to Notify Clinical Investigations for Medical Devices",
+        "zh": "英国MHRA发布医疗器械临床调查通知指南"
+      },
+      "summary": {
+        "en": "This updated MHRA guidance explains the process for sponsors to notify the UK regulator of their intent to conduct a clinical investigation of a medical device. It outlines required documentation, submission steps, and the regulatory pathway under UK legislation. Manufacturers and investigators must follow this guidance to ensure compliance before starting any clinical study involving devices.",
+        "zh": "这份最新的MHRA指南说明了申办方如何向英国监管机构申报医疗器械临床调查的意向，包括所需文件、提交步骤和英国法规下的监管路径。制造商和研究人员在启动任何涉及器械的临床研究前，必须遵循本指南以确保合规。"
+      },
+      "source_url": "https://www.gov.uk/guidance/notify-mhra-about-a-clinical-investigation-for-a-medical-device",
+      "source_name": "MHRA (UK)",
+      "published_date": "2026-07-23",
+      "detected_date": "2026-07-27T20:24:11Z",
+      "importance": "medium",
+      "tags": [
+        "clinical_investigation",
+        "mhra_notification",
+        "medical_devices",
+        "premarket_requirements",
+        "uk_regulations"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "uk_mhra_20260727_mhra_guidance_on_conducting_clinical_investigations_for_medi",
+      "framework": "uk_mhra",
+      "category": "regulation_update",
+      "title": {
+        "en": "MHRA Guidance on Conducting Clinical Investigations for Medical Devices in Great Britain",
+        "zh": "MHRA 关于在英国开展医疗器械临床研究的指南"
+      },
+      "summary": {
+        "en": "This MHRA guidance details how medical device manufacturers must plan, conduct, and report clinical investigations in Great Britain to comply with the Medical Devices Regulations 2002. It covers regulatory requirements, including the need for MHRA approval, ethical review, and notification of adverse events. Manufacturers and sponsors should use this document to ensure full compliance before initiating any clinical investigation in the GB market.",
+        "zh": "本MHRA指南详细说明了医疗器械制造商在英国规划、开展和报告临床研究时必须遵循的《2002年医疗器械法规》要求。指南涵盖监管要求，包括MHRA批准、伦理审查和不良事件通知等。制造商和申办方应依据本文档确保在GB市场启动任何临床研究前完全合规。"
+      },
+      "source_url": "https://www.gov.uk/guidance/clinical-investigations-in-great-britain",
+      "source_name": "MHRA (UK)",
+      "published_date": "2026-07-23",
+      "detected_date": "2026-07-27T20:24:23Z",
+      "importance": "medium",
+      "tags": [
+        "clinical_investigations",
+        "mhra_guidance",
+        "medical_devices",
+        "uk_regulations",
+        "compliance"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "uk_mhra_20260727_mhra_guidance_on_approving_clinical_investigations_for_medic",
+      "framework": "uk_mhra",
+      "category": "regulation_update",
+      "title": {
+        "en": "MHRA Guidance on Approving Clinical Investigations for Medical Devices",
+        "zh": "MHRA关于医疗器械临床研究审批的指南"
+      },
+      "summary": {
+        "en": "This guidance outlines how the MHRA decides whether to approve a clinical investigation for medical devices. It is relevant to sponsors and manufacturers planning clinical trials in the UK, detailing the required information and assessment criteria. Key actions include understanding submission requirements, ensuring study designs meet safety and performance standards, and providing robust evidence for approval. The document updates existing guidance to align with current regulatory expectations.",
+        "zh": "本指南说明了MHRA如何决定是否批准医疗器械临床研究。适用于计划在英国开展临床试验的申办者和制造商，详细列出了所需信息和评估标准。关键行动包括理解提交要求、确保研究设计符合安全与性能标准，并提供充分的批准证据。该文件更新了现有指南，以符合当前监管期望。"
+      },
+      "source_url": "https://www.gov.uk/government/publications/approving-clinical-investigations",
+      "source_name": "MHRA (UK)",
+      "published_date": "2026-07-23",
+      "detected_date": "2026-07-27T20:24:35Z",
+      "importance": "medium",
+      "tags": [
+        "clinical_investigations",
+        "mhra_guidance",
+        "medical_devices",
+        "approval_process",
+        "uk_regulations"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "uk_mhra_20260727_mhra_field_safety_notices_published_13_17_july_2026",
+      "framework": "uk_mhra",
+      "category": "safety_communication",
+      "title": {
+        "en": "MHRA Field Safety Notices Published 13–17 July 2026",
+        "zh": "MHRA 现场安全通告：2026年7月13日至17日"
+      },
+      "summary": {
+        "en": "The UK MHRA has published a list of Field Safety Notices (FSNs) issued between 13 and 17 July 2026. These notices alert healthcare professionals, patients, and device manufacturers to specific safety issues with medical devices. Recipients should review the list to identify any affected devices in their care or on the market and take the corrective actions detailed in each notice.",
+        "zh": "英国 MHRA 发布了2026年7月13日至17日期间发出的现场安全通告列表。这些通告旨在提醒医疗专业人员、患者及器械制造商注意相关医疗器械的特定安全问题。相关方应审阅列表以识别其使用或销售的受影响器械，并按照每份通告的具体要求采取纠正措施。"
+      },
+      "source_url": "https://www.gov.uk/drug-device-alerts/field-safety-notices-13-to-17-july-2026",
+      "source_name": "MHRA (UK)",
+      "published_date": "2026-07-21",
+      "detected_date": "2026-07-27T20:23:17Z",
+      "importance": "medium",
+      "tags": [
+        "field_safety_notice",
+        "mhra",
+        "medical_devices",
+        "safety_alert",
+        "uk"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "uk_mhra_20260727_mhra_updates_public_list_of_suspended_and_revoked_licences_f",
+      "framework": "uk_mhra",
+      "category": "regulation_update",
+      "title": {
+        "en": "MHRA Updates Public List of Suspended and Revoked Licences for Medicine Manufacturers and Wholesalers, Adding 8 New Entries",
+        "zh": "英国MHRA更新药品及原料生产商与批发商许可证吊销/暂停名单，新增8项记录"
+      },
+      "summary": {
+        "en": "The UK MHRA has published an updated decision list of companies whose licences or registrations to manufacture or wholesale medicines and active pharmaceutical ingredients have been suspended or revoked. The update adds 8 new entries to the existing public register. Affected entities include manufacturers and wholesalers who have failed to meet regulatory standards. Industry stakeholders should review the list to assess any potential impact on their supply chains or business partners.",
+        "zh": "英国药监机构MHRA发布了最新版的药品及原料药生产商与批发商许可证吊销或暂停名单，新增了8条记录。该名单公开了因未能符合监管标准而被暂停或撤销制造/批发许可的公司。相关企业应核查此名单，评估对自身供应链或合作方可能产生的影响。"
+      },
+      "source_url": "https://www.gov.uk/government/publications/suspended-licences-for-manufacturers-and-wholesalers-of-medicines",
+      "source_name": "MHRA (UK)",
+      "published_date": "2026-07-21",
+      "detected_date": "2026-07-27T20:24:46Z",
+      "importance": "medium",
+      "tags": [
+        "uk_mhra",
+        "licence_suspension",
+        "medicines_manufacturing",
+        "regulatory_enforcement",
+        "supply_chain_compliance"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "uk_mhra_20260727_mhra_weekly_field_safety_notices_roundup_13_17_july_2026",
+      "framework": "uk_mhra",
+      "category": "regulation_update",
+      "title": {
+        "en": "MHRA Weekly Field Safety Notices Roundup: 13-17 July 2026",
+        "zh": "MHRA 2026年7月13-17日现场安全通告汇总"
+      },
+      "summary": {
+        "en": "This MHRA publication lists 8 Field Safety Notices (FSNs) issued for medical devices during the week of 13 to 17 July 2026. Healthcare professionals and organizations should review the notices to identify affected devices in their inventory and follow the manufacturer-recommended actions. The notices cover various device categories and safety issues.",
+        "zh": "该MHRA出版物列出了2026年7月13日至17日期间发布的8份医疗器械现场安全通告（FSN）。医护人员和机构应查阅这些通告，以识别其库存中的受影响器械，并遵循制造商建议的措施。通告涵盖不同器械类别及安全问题。"
+      },
+      "source_url": "https://www.gov.uk/drug-device-alerts/field-safety-notices-13-to-17-july-2026",
+      "source_name": "MHRA (UK)",
+      "published_date": "2026-07-21",
+      "detected_date": "2026-07-27T20:24:59Z",
+      "importance": "medium",
+      "tags": [
+        "field_safety_notice",
+        "mhra",
+        "weekly_listing",
+        "medical_devices",
+        "post_market_surveillance"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
     {
       "id": "uk_mhra_20260720_mhra_guidance_register_medical_devices_to_place_on_the_marke",
       "framework": "uk_mhra",

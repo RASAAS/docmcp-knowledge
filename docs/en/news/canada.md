@@ -6,6 +6,78 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### Health Canada Recalls HeartSine Samaritan PAD 350P/360P/500P AEDs Due to Membrane Tail Performance Issue
+
+**2026-07-23** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has recalled the HeartSine Samaritan PAD SAM 350P, SAM 360P, and SAM 500P automated external defibrillators due to a membrane tail defect that may prevent shock delivery during a cardiac emergency. Affected users should immediately inspect their devices and follow the manufacturer’s correction actions. Healthcare facilities must ensure backup AEDs are available until the recalled units are repaired or replaced.
+
+**Tags**: `defibrillator`, `recall`, `performance_issue`, `aed`, `canada`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/heartsiner-samaritanr-pad-sam-350psam-360psam-500p-membrane-tail)
+
+---
+
+### Health Canada Issues Recall for OverStitch™ Suture Cinch and Suture Cinch–Long Due to Performance Issues
+
+**2026-07-23** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a recall for the OverStitch™ Suture Cinch and Suture Cinch–Long devices, manufactured by Apollo Endosurgery, due to performance concerns that could compromise device reliability during endoscopic suturing. Healthcare facilities using these devices should immediately identify and quarantine affected inventory, and follow the manufacturer's instructions for return or disposal. Regulatory affairs professionals are advised to verify stock, ensure any adverse events are reported to Health Canada, and communicate the recall to relevant clinical teams.
+
+**Tags**: `medical_device_recall`, `performance_issue`, `suture_device`, `health_canada`, `endoscopic_surgery`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/overstitchtm-suture-cinch-and-suture-cinch-long)
+
+---
+
+### DCA Vantage® HbA1c (DX Claim) Recalled in Canada Over Performance Issues
+
+**2026-07-22** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a recall for the DCA Vantage® HbA1c (DX Claim) due to performance problems that may lead to inaccurate hemoglobin A1c results. This action affects laboratories and point-of-care settings that rely on the device for diabetes diagnosis and management. Users must immediately discontinue use of impacted lots and follow the manufacturer’s corrective actions. The recall highlights the critical need for robust performance verification of diagnostic claims.
+
+**Tags**: `medical_device_recall`, `hba1c`, `performance_issue`, `diabetes_diagnostics`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/dca-vantager-hba1c-dx-claim)
+
+---
+
+### HeartSine® Samaritan® PAD SAM 350P/360P/500P Recall Due to Labelling and Packaging Issue
+
+**2026-07-22** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has announced a recall for HeartSine Samaritan PAD automated external defibrillator models SAM 350P, SAM 360P, and SAM 500P due to a labelling and packaging defect. This issue may cause confusion or delays during emergency use by providing incorrect or missing information. Affected users, distributors, and healthcare facilities should immediately verify their devices, follow the manufacturer's corrective actions, and ensure proper labelling is in place.
+
+**Tags**: `medical_device_recall`, `defibrillator`, `labelling_issue`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/heartsiner-samaritanr-pad-sam-350psam-360psam-500p)
+
+---
+
+### Shimadzu X-ray High Voltage Generators Recalled in Canada Over Performance Issue
+
+**2026-07-21** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a safety alert for Shimadzu X-ray High Voltage Generators due to a performance issue. Healthcare facilities using these generators should immediately check if their units are affected by the recall. The recall may require corrective actions such as repair or replacement to ensure safe and accurate operation. Users are advised to contact Shimadzu for specific instructions and to report any adverse events.
+
+**Tags**: `canada_recall`, `x-ray_generator`, `shimadzu`, `performance_issue`, `safety_alert`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/shimadzu-x-ray-high-voltage-generators)
+
+---
+
+### Cardinal Health Recalls Presource® Kits with Ritmed® Neurological Sponges Due to Sterility Issue
+
+**2026-07-21** | Health Canada | Safety Communication | !!! HIGH
+
+Cardinal Health has initiated a voluntary recall of select Presource® kits that contain Ritmed® Neurological Sponges because the sponges may have compromised sterility. The affected kits were distributed across Canada and are used in neurological procedures. Healthcare facilities should immediately locate and quarantine all units from the impacted lots, and arrange for their return to Cardinal Health. Use of non-sterile devices could lead to serious patient infections.
+
+**Tags**: `medical_device_recall`, `sterility`, `neurosurgical_sponge`, `safety_alert`, `cardinal_health`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/cardinal-health-presourcer-kits-containing-ritmedr-neurological-sponges)
+
+---
+
 ### Health Canada Notice: Information Expectations for Class III and IV Medical Device Licence Applications
 
 **2026-07-20** | Health Canada | Regulation Update | !! MEDIUM
@@ -15,6 +87,18 @@ This Health Canada notice outlines the specific information and documentation ex
 **Tags**: `canada`, `class_iii_iv_devices`, `licence_application`, `health_canada_notice`, `regulatory_guidance`
 
 [View Source (Health Canada)](https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/application-information/guidance-documents/expectations-information-submitted-class-iii-iv-licence-notice-industry.html)
+
+---
+
+### Philips Achieva and Ingenia MRI Systems – Performance Issue Safety Alert
+
+**2026-07-20** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a safety alert for certain Philips Achieva and Ingenia MRI systems due to a performance issue that may compromise image quality. The affected systems could produce suboptimal images, potentially leading to delayed or missed diagnoses. Healthcare facilities using these systems should immediately contact Philips for inspection and follow the manufacturer’s recommended corrective actions to ensure safe and effective operation.
+
+**Tags**: `recall`, `safety_alert`, `mri_system`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/philips-achieva-and-ingenia-systems)
 
 ---
 

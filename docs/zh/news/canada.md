@@ -6,6 +6,78 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### 加拿大卫生部召回HeartSine Samaritan PAD系列除颤器，因膜尾性能问题
+
+**2026-07-23** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部因膜尾性能缺陷召回HeartSine Samaritan PAD SAM 350P、SAM 360P和SAM 500P自动体外除颤器，该缺陷可能导致急救时无法电击。受影响的用户应立即检查设备并按制造商纠正措施处理，医疗机构须确保在修复或替换前有备用除颤器。
+
+**标签**: `defibrillator`, `recall`, `performance_issue`, `aed`, `canada`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/heartsiner-samaritanr-pad-sam-350psam-360psam-500p-membrane-tail)
+
+---
+
+### 加拿大卫生部因性能问题召回OverStitch™缝合器系列产品
+
+**2026-07-23** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已对Apollo Endosurgery公司生产的OverStitch™缝合器及长型缝合器发出召回，原因是性能问题可能影响内镜缝合操作中的设备可靠性。使用该器械的医疗机构应立即识别和隔离受影响库存，并遵循制造商的退货或处置指引。法规事务人员应核查产品，确保向加拿大卫生部报告不良事件，并将召回信息传达给相关临床团队。
+
+**标签**: `medical_device_recall`, `performance_issue`, `suture_device`, `health_canada`, `endoscopic_surgery`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/overstitchtm-suture-cinch-and-suture-cinch-long)
+
+---
+
+### 加拿大召回DCA Vantage® HbA1c (DX Claim)因性能问题
+
+**2026-07-22** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部因性能问题召回DCA Vantage® HbA1c (DX Claim)设备，该问题可能导致糖化血红蛋白检测结果不准确。此次召回影响所有使用该设备进行糖尿病诊断和监测的临床实验室及护理点。相关用户须立即停用受影响批次，并根据制造商指示进行纠正。此事件凸显了对体外诊断产品声明进行严格性能验证的重要性。
+
+**标签**: `medical_device_recall`, `hba1c`, `performance_issue`, `diabetes_diagnostics`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/dca-vantager-hba1c-dx-claim)
+
+---
+
+### HeartSine Samaritan PAD SAM 350P/360P/500P除颤器因标签与包装问题召回
+
+**2026-07-22** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部发布HeartSine Samaritan PAD自动体外除颤器（型号SAM 350P、SAM 360P及SAM 500P）的召回通知，原因为标签与包装存在缺陷。该问题可能导致紧急情况下设备信息错误或缺失，造成使用混淆或延迟。受影响用户、经销商及医疗机构应立即核查设备，遵循制造商指引进行整改，并确保标签完整准确，以维持急救可靠性。
+
+**标签**: `medical_device_recall`, `defibrillator`, `labelling_issue`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/heartsiner-samaritanr-pad-sam-350psam-360psam-500p)
+
+---
+
+### 岛津X射线高压发生器因性能问题在加拿大被召回
+
+**2026-07-21** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部因性能问题对岛津X射线高压发生器发布安全警示。受影响医疗机构应立即核查其设备是否在召回范围内，并需采取维修或更换等纠正措施，以确保设备安全、准确地运行。用户应联系岛津公司获取具体指导，并报告任何相关不良事件。
+
+**标签**: `canada_recall`, `x-ray_generator`, `shimadzu`, `performance_issue`, `safety_alert`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/shimadzu-x-ray-high-voltage-generators)
+
+---
+
+### Cardinal Health因灭菌问题召回含Ritmed神经外科海绵的Presource®套件
+
+**2026-07-21** | Health Canada | 安全通报 | !!! HIGH
+
+Cardinal Health主动召回部分含Ritmed®神经外科海绵的Presource®套件，因海绵可能存在灭菌问题。受影响产品已在加拿大分销，用于神经外科手术。医疗机构应立即识别并隔离所有相关批次产品，并退回至Cardinal Health。使用非无菌器械可能导致患者发生严重感染。
+
+**标签**: `medical_device_recall`, `sterility`, `neurosurgical_sponge`, `safety_alert`, `cardinal_health`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/cardinal-health-presourcer-kits-containing-ritmedr-neurological-sponges)
+
+---
+
 ### 加拿大卫生部发布III/IV类医疗器械许可申请信息要求通知
 
 **2026-07-20** | Health Canada | 法规更新 | !! MEDIUM
@@ -15,6 +87,18 @@ title: 法规速递
 **标签**: `canada`, `class_iii_iv_devices`, `licence_application`, `health_canada_notice`, `regulatory_guidance`
 
 [查看来源 (Health Canada)](https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/application-information/guidance-documents/expectations-information-submitted-class-iii-iv-licence-notice-industry.html)
+
+---
+
+### 飞利浦Achieva与Ingenia磁共振系统性能问题安全警报
+
+**2026-07-20** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部针对部分飞利浦Achieva和Ingenia磁共振系统发布安全警报，指出存在可能影响图像质量的性能问题。受影响的系统可能生成非理想图像，导致诊断延误或遗漏。使用此类设备的医疗机构应立即联系飞利浦进行检查，并遵循制造商建议的纠正措施，确保设备安全有效运行。
+
+**标签**: `recall`, `safety_alert`, `mri_system`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/philips-achieva-and-ingenia-systems)
 
 ---
 

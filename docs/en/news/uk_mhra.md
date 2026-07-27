@@ -6,6 +6,114 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### MHRA Updates List of Medical Devices with Exceptional Use Authorisations
+
+**2026-07-24** | UK MHRA | Regulation Update | !! MEDIUM
+
+The MHRA has published an updated list of medical devices and manufacturers granted exceptional use authorisations, allowing market access under specific exemptions. The list covers active authorisations as well as those expired or cancelled. Affected manufacturers, importers, and healthcare providers should review the list to verify the status of devices they supply or use, and take corrective actions if authorisations have lapsed. Regular monitoring of this list is essential for ongoing compliance and patient safety.
+
+**Tags**: `exceptional_use`, `mhra`, `medical_device_list`, `exemption`, `compliance`
+
+[View Source (MHRA (UK))](https://www.gov.uk/government/publications/medical-devices-given-exceptional-use-authorisations)
+
+---
+
+### MHRA Guidance: Compiling a Submission for Clinical Investigations of Medical Devices
+
+**2026-07-23** | UK MHRA | Regulation Update | !! MEDIUM
+
+The MHRA has issued guidance for sponsors and manufacturers on how to compile a submission to notify them of a clinical investigation of a medical device. It details the required documents, format, and submission process to help ensure regulatory compliance. This guidance is essential for anyone planning a medical device clinical trial in the UK.
+
+**Tags**: `clinical_investigations`, `mhra_guidance`, `submission_process`
+
+[View Source (MHRA (UK))](https://www.gov.uk/government/publications/clinical-investigations-compiling-a-submission)
+
+---
+
+### MHRA Guidance: Determining if Your Medical Device Needs a Clinical Investigation in the UK
+
+**2026-07-23** | UK MHRA | Regulation Update | !! MEDIUM
+
+This MHRA guidance outlines the criteria for determining whether a medical device must undergo a clinical investigation under UK regulations, or if it qualifies for an exemption. It is aimed at manufacturers and sponsors placing devices on the Great Britain market, providing a step-by-step approach to assess clinical evidence requirements. The document clarifies regulatory expectations to support compliance and streamline the conformity assessment process.
+
+**Tags**: `clinical_investigation`, `mhra_guidance`, `medical_devices`, `uk_regulations`, `exemption_criteria`
+
+[View Source (MHRA (UK))](https://www.gov.uk/government/publications/medical-devices-that-need-a-clinical-investigation)
+
+---
+
+### UK MHRA Guidance: How to Notify Clinical Investigations for Medical Devices
+
+**2026-07-23** | UK MHRA | Regulation Update | !! MEDIUM
+
+This updated MHRA guidance explains the process for sponsors to notify the UK regulator of their intent to conduct a clinical investigation of a medical device. It outlines required documentation, submission steps, and the regulatory pathway under UK legislation. Manufacturers and investigators must follow this guidance to ensure compliance before starting any clinical study involving devices.
+
+**Tags**: `clinical_investigation`, `mhra_notification`, `medical_devices`, `premarket_requirements`, `uk_regulations`
+
+[View Source (MHRA (UK))](https://www.gov.uk/guidance/notify-mhra-about-a-clinical-investigation-for-a-medical-device)
+
+---
+
+### MHRA Guidance on Conducting Clinical Investigations for Medical Devices in Great Britain
+
+**2026-07-23** | UK MHRA | Regulation Update | !! MEDIUM
+
+This MHRA guidance details how medical device manufacturers must plan, conduct, and report clinical investigations in Great Britain to comply with the Medical Devices Regulations 2002. It covers regulatory requirements, including the need for MHRA approval, ethical review, and notification of adverse events. Manufacturers and sponsors should use this document to ensure full compliance before initiating any clinical investigation in the GB market.
+
+**Tags**: `clinical_investigations`, `mhra_guidance`, `medical_devices`, `uk_regulations`, `compliance`
+
+[View Source (MHRA (UK))](https://www.gov.uk/guidance/clinical-investigations-in-great-britain)
+
+---
+
+### MHRA Guidance on Approving Clinical Investigations for Medical Devices
+
+**2026-07-23** | UK MHRA | Regulation Update | !! MEDIUM
+
+This guidance outlines how the MHRA decides whether to approve a clinical investigation for medical devices. It is relevant to sponsors and manufacturers planning clinical trials in the UK, detailing the required information and assessment criteria. Key actions include understanding submission requirements, ensuring study designs meet safety and performance standards, and providing robust evidence for approval. The document updates existing guidance to align with current regulatory expectations.
+
+**Tags**: `clinical_investigations`, `mhra_guidance`, `medical_devices`, `approval_process`, `uk_regulations`
+
+[View Source (MHRA (UK))](https://www.gov.uk/government/publications/approving-clinical-investigations)
+
+---
+
+### MHRA Field Safety Notices Published 13–17 July 2026
+
+**2026-07-21** | UK MHRA | Safety Communication | !! MEDIUM
+
+The UK MHRA has published a list of Field Safety Notices (FSNs) issued between 13 and 17 July 2026. These notices alert healthcare professionals, patients, and device manufacturers to specific safety issues with medical devices. Recipients should review the list to identify any affected devices in their care or on the market and take the corrective actions detailed in each notice.
+
+**Tags**: `field_safety_notice`, `mhra`, `medical_devices`, `safety_alert`, `uk`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-13-to-17-july-2026)
+
+---
+
+### MHRA Updates Public List of Suspended and Revoked Licences for Medicine Manufacturers and Wholesalers, Adding 8 New Entries
+
+**2026-07-21** | UK MHRA | Regulation Update | !! MEDIUM
+
+The UK MHRA has published an updated decision list of companies whose licences or registrations to manufacture or wholesale medicines and active pharmaceutical ingredients have been suspended or revoked. The update adds 8 new entries to the existing public register. Affected entities include manufacturers and wholesalers who have failed to meet regulatory standards. Industry stakeholders should review the list to assess any potential impact on their supply chains or business partners.
+
+**Tags**: `uk_mhra`, `licence_suspension`, `medicines_manufacturing`, `regulatory_enforcement`, `supply_chain_compliance`
+
+[View Source (MHRA (UK))](https://www.gov.uk/government/publications/suspended-licences-for-manufacturers-and-wholesalers-of-medicines)
+
+---
+
+### MHRA Weekly Field Safety Notices Roundup: 13-17 July 2026
+
+**2026-07-21** | UK MHRA | Regulation Update | !! MEDIUM
+
+This MHRA publication lists 8 Field Safety Notices (FSNs) issued for medical devices during the week of 13 to 17 July 2026. Healthcare professionals and organizations should review the notices to identify affected devices in their inventory and follow the manufacturer-recommended actions. The notices cover various device categories and safety issues.
+
+**Tags**: `field_safety_notice`, `mhra`, `weekly_listing`, `medical_devices`, `post_market_surveillance`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-13-to-17-july-2026)
+
+---
+
 ### MHRA Guidance: Register Medical Devices to Place on the Market in Great Britain and Northern Ireland
 
 **2026-07-20** | UK MHRA | Regulation Update | !! MEDIUM

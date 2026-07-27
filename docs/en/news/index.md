@@ -6,6 +6,18 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### MHRA Updates List of Medical Devices with Exceptional Use Authorisations
+
+**2026-07-24** | UK MHRA | Regulation Update | !! MEDIUM
+
+The MHRA has published an updated list of medical devices and manufacturers granted exceptional use authorisations, allowing market access under specific exemptions. The list covers active authorisations as well as those expired or cancelled. Affected manufacturers, importers, and healthcare providers should review the list to verify the status of devices they supply or use, and take corrective actions if authorisations have lapsed. Regular monitoring of this list is essential for ongoing compliance and patient safety.
+
+**Tags**: `exceptional_use`, `mhra`, `medical_device_list`, `exemption`, `compliance`
+
+[View Source (MHRA (UK))](https://www.gov.uk/government/publications/medical-devices-given-exceptional-use-authorisations)
+
+---
+
 ### Swissmedic FSCA for Philips Azurion Stationary Angiographic X-Ray Systems
 
 **2026-07-24** | Swissmedic | Safety Communication | !! MEDIUM
@@ -15,6 +27,90 @@ Philips Medical Systems Nederland B.V. has issued a Field Safety Corrective Acti
 **Tags**: `swissmedic`, `fsca`, `angiographic_xray`
 
 [View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260722_026)
+
+---
+
+### MHRA Guidance: Compiling a Submission for Clinical Investigations of Medical Devices
+
+**2026-07-23** | UK MHRA | Regulation Update | !! MEDIUM
+
+The MHRA has issued guidance for sponsors and manufacturers on how to compile a submission to notify them of a clinical investigation of a medical device. It details the required documents, format, and submission process to help ensure regulatory compliance. This guidance is essential for anyone planning a medical device clinical trial in the UK.
+
+**Tags**: `clinical_investigations`, `mhra_guidance`, `submission_process`
+
+[View Source (MHRA (UK))](https://www.gov.uk/government/publications/clinical-investigations-compiling-a-submission)
+
+---
+
+### MHRA Guidance: Determining if Your Medical Device Needs a Clinical Investigation in the UK
+
+**2026-07-23** | UK MHRA | Regulation Update | !! MEDIUM
+
+This MHRA guidance outlines the criteria for determining whether a medical device must undergo a clinical investigation under UK regulations, or if it qualifies for an exemption. It is aimed at manufacturers and sponsors placing devices on the Great Britain market, providing a step-by-step approach to assess clinical evidence requirements. The document clarifies regulatory expectations to support compliance and streamline the conformity assessment process.
+
+**Tags**: `clinical_investigation`, `mhra_guidance`, `medical_devices`, `uk_regulations`, `exemption_criteria`
+
+[View Source (MHRA (UK))](https://www.gov.uk/government/publications/medical-devices-that-need-a-clinical-investigation)
+
+---
+
+### UK MHRA Guidance: How to Notify Clinical Investigations for Medical Devices
+
+**2026-07-23** | UK MHRA | Regulation Update | !! MEDIUM
+
+This updated MHRA guidance explains the process for sponsors to notify the UK regulator of their intent to conduct a clinical investigation of a medical device. It outlines required documentation, submission steps, and the regulatory pathway under UK legislation. Manufacturers and investigators must follow this guidance to ensure compliance before starting any clinical study involving devices.
+
+**Tags**: `clinical_investigation`, `mhra_notification`, `medical_devices`, `premarket_requirements`, `uk_regulations`
+
+[View Source (MHRA (UK))](https://www.gov.uk/guidance/notify-mhra-about-a-clinical-investigation-for-a-medical-device)
+
+---
+
+### MHRA Guidance on Conducting Clinical Investigations for Medical Devices in Great Britain
+
+**2026-07-23** | UK MHRA | Regulation Update | !! MEDIUM
+
+This MHRA guidance details how medical device manufacturers must plan, conduct, and report clinical investigations in Great Britain to comply with the Medical Devices Regulations 2002. It covers regulatory requirements, including the need for MHRA approval, ethical review, and notification of adverse events. Manufacturers and sponsors should use this document to ensure full compliance before initiating any clinical investigation in the GB market.
+
+**Tags**: `clinical_investigations`, `mhra_guidance`, `medical_devices`, `uk_regulations`, `compliance`
+
+[View Source (MHRA (UK))](https://www.gov.uk/guidance/clinical-investigations-in-great-britain)
+
+---
+
+### MHRA Guidance on Approving Clinical Investigations for Medical Devices
+
+**2026-07-23** | UK MHRA | Regulation Update | !! MEDIUM
+
+This guidance outlines how the MHRA decides whether to approve a clinical investigation for medical devices. It is relevant to sponsors and manufacturers planning clinical trials in the UK, detailing the required information and assessment criteria. Key actions include understanding submission requirements, ensuring study designs meet safety and performance standards, and providing robust evidence for approval. The document updates existing guidance to align with current regulatory expectations.
+
+**Tags**: `clinical_investigations`, `mhra_guidance`, `medical_devices`, `approval_process`, `uk_regulations`
+
+[View Source (MHRA (UK))](https://www.gov.uk/government/publications/approving-clinical-investigations)
+
+---
+
+### Health Canada Recalls HeartSine Samaritan PAD 350P/360P/500P AEDs Due to Membrane Tail Performance Issue
+
+**2026-07-23** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has recalled the HeartSine Samaritan PAD SAM 350P, SAM 360P, and SAM 500P automated external defibrillators due to a membrane tail defect that may prevent shock delivery during a cardiac emergency. Affected users should immediately inspect their devices and follow the manufacturer’s correction actions. Healthcare facilities must ensure backup AEDs are available until the recalled units are repaired or replaced.
+
+**Tags**: `defibrillator`, `recall`, `performance_issue`, `aed`, `canada`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/heartsiner-samaritanr-pad-sam-350psam-360psam-500p-membrane-tail)
+
+---
+
+### Health Canada Issues Recall for OverStitch™ Suture Cinch and Suture Cinch–Long Due to Performance Issues
+
+**2026-07-23** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a recall for the OverStitch™ Suture Cinch and Suture Cinch–Long devices, manufactured by Apollo Endosurgery, due to performance concerns that could compromise device reliability during endoscopic suturing. Healthcare facilities using these devices should immediately identify and quarantine affected inventory, and follow the manufacturer's instructions for return or disposal. Regulatory affairs professionals are advised to verify stock, ensure any adverse events are reported to Health Canada, and communicate the recall to relevant clinical teams.
+
+**Tags**: `medical_device_recall`, `performance_issue`, `suture_device`, `health_canada`, `endoscopic_surgery`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/overstitchtm-suture-cinch-and-suture-cinch-long)
 
 ---
 
@@ -51,6 +147,30 @@ The European Commission has released a new MDCG position paper on assigning Uniq
 **Tags**: `udi`, `mdcg`, `guidance`, `manufacturers`, `distributors`, `traceability`
 
 [View Source (European Commission)](https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en#sec18)
+
+---
+
+### DCA Vantage® HbA1c (DX Claim) Recalled in Canada Over Performance Issues
+
+**2026-07-22** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a recall for the DCA Vantage® HbA1c (DX Claim) due to performance problems that may lead to inaccurate hemoglobin A1c results. This action affects laboratories and point-of-care settings that rely on the device for diabetes diagnosis and management. Users must immediately discontinue use of impacted lots and follow the manufacturer’s corrective actions. The recall highlights the critical need for robust performance verification of diagnostic claims.
+
+**Tags**: `medical_device_recall`, `hba1c`, `performance_issue`, `diabetes_diagnostics`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/dca-vantager-hba1c-dx-claim)
+
+---
+
+### HeartSine® Samaritan® PAD SAM 350P/360P/500P Recall Due to Labelling and Packaging Issue
+
+**2026-07-22** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has announced a recall for HeartSine Samaritan PAD automated external defibrillator models SAM 350P, SAM 360P, and SAM 500P due to a labelling and packaging defect. This issue may cause confusion or delays during emergency use by providing incorrect or missing information. Affected users, distributors, and healthcare facilities should immediately verify their devices, follow the manufacturer's corrective actions, and ensure proper labelling is in place.
+
+**Tags**: `medical_device_recall`, `defibrillator`, `labelling_issue`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/heartsiner-samaritanr-pad-sam-350psam-360psam-500p)
 
 ---
 
@@ -198,6 +318,66 @@ The FDA’s Center for Devices and Radiological Health (CDRH) will hold a town h
 
 ---
 
+### MHRA Field Safety Notices Published 13–17 July 2026
+
+**2026-07-21** | UK MHRA | Safety Communication | !! MEDIUM
+
+The UK MHRA has published a list of Field Safety Notices (FSNs) issued between 13 and 17 July 2026. These notices alert healthcare professionals, patients, and device manufacturers to specific safety issues with medical devices. Recipients should review the list to identify any affected devices in their care or on the market and take the corrective actions detailed in each notice.
+
+**Tags**: `field_safety_notice`, `mhra`, `medical_devices`, `safety_alert`, `uk`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-13-to-17-july-2026)
+
+---
+
+### MHRA Updates Public List of Suspended and Revoked Licences for Medicine Manufacturers and Wholesalers, Adding 8 New Entries
+
+**2026-07-21** | UK MHRA | Regulation Update | !! MEDIUM
+
+The UK MHRA has published an updated decision list of companies whose licences or registrations to manufacture or wholesale medicines and active pharmaceutical ingredients have been suspended or revoked. The update adds 8 new entries to the existing public register. Affected entities include manufacturers and wholesalers who have failed to meet regulatory standards. Industry stakeholders should review the list to assess any potential impact on their supply chains or business partners.
+
+**Tags**: `uk_mhra`, `licence_suspension`, `medicines_manufacturing`, `regulatory_enforcement`, `supply_chain_compliance`
+
+[View Source (MHRA (UK))](https://www.gov.uk/government/publications/suspended-licences-for-manufacturers-and-wholesalers-of-medicines)
+
+---
+
+### MHRA Weekly Field Safety Notices Roundup: 13-17 July 2026
+
+**2026-07-21** | UK MHRA | Regulation Update | !! MEDIUM
+
+This MHRA publication lists 8 Field Safety Notices (FSNs) issued for medical devices during the week of 13 to 17 July 2026. Healthcare professionals and organizations should review the notices to identify affected devices in their inventory and follow the manufacturer-recommended actions. The notices cover various device categories and safety issues.
+
+**Tags**: `field_safety_notice`, `mhra`, `weekly_listing`, `medical_devices`, `post_market_surveillance`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-13-to-17-july-2026)
+
+---
+
+### Shimadzu X-ray High Voltage Generators Recalled in Canada Over Performance Issue
+
+**2026-07-21** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a safety alert for Shimadzu X-ray High Voltage Generators due to a performance issue. Healthcare facilities using these generators should immediately check if their units are affected by the recall. The recall may require corrective actions such as repair or replacement to ensure safe and accurate operation. Users are advised to contact Shimadzu for specific instructions and to report any adverse events.
+
+**Tags**: `canada_recall`, `x-ray_generator`, `shimadzu`, `performance_issue`, `safety_alert`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/shimadzu-x-ray-high-voltage-generators)
+
+---
+
+### Cardinal Health Recalls Presource® Kits with Ritmed® Neurological Sponges Due to Sterility Issue
+
+**2026-07-21** | Health Canada | Safety Communication | !!! HIGH
+
+Cardinal Health has initiated a voluntary recall of select Presource® kits that contain Ritmed® Neurological Sponges because the sponges may have compromised sterility. The affected kits were distributed across Canada and are used in neurological procedures. Healthcare facilities should immediately locate and quarantine all units from the impacted lots, and arrange for their return to Cardinal Health. Use of non-sterile devices could lead to serious patient infections.
+
+**Tags**: `medical_device_recall`, `sterility`, `neurosurgical_sponge`, `safety_alert`, `cardinal_health`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/cardinal-health-presourcer-kits-containing-ritmedr-neurological-sponges)
+
+---
+
 ### Class II Recall: Shimadzu LIGHTVISION and LIGHTVISION2 Near-Infrared Camera Systems (Portable Surgical Microscope & ICG Fluorescence Device)
 
 **2026-07-21** | Japan PMDA | Safety Communication | !! MEDIUM
@@ -339,6 +519,18 @@ This Health Canada notice outlines the specific information and documentation ex
 **Tags**: `canada`, `class_iii_iv_devices`, `licence_application`, `health_canada_notice`, `regulatory_guidance`
 
 [View Source (Health Canada)](https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/application-information/guidance-documents/expectations-information-submitted-class-iii-iv-licence-notice-industry.html)
+
+---
+
+### Philips Achieva and Ingenia MRI Systems – Performance Issue Safety Alert
+
+**2026-07-20** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a safety alert for certain Philips Achieva and Ingenia MRI systems due to a performance issue that may compromise image quality. The affected systems could produce suboptimal images, potentially leading to delayed or missed diagnoses. Healthcare facilities using these systems should immediately contact Philips for inspection and follow the manufacturer’s recommended corrective actions to ensure safe and effective operation.
+
+**Tags**: `recall`, `safety_alert`, `mri_system`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/philips-achieva-and-ingenia-systems)
 
 ---
 
