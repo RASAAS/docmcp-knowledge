@@ -224,12 +224,3 @@ For devices containing allogeneic, animal-origin, or bioactive substances:
 | Testing | Mandatory designated lab testing for Class II/III | NB decides scope |
 | Stability | 3 types required (shelf, in-use, transport) | Covered in V&V |
 | Animal studies | Decision justification required | Decision justification required |
-
-## Notes for CRO
-
-- Non-clinical research data is the most voluminous chapter -- plan 40-60% of total documentation effort here
-- Product Technical Requirement document has strict NMPA formatting rules; consult specific guidance principles for each device category
-- NMPA-designated laboratory testing can take 3-6 months -- initiate early in the project
-- Software documentation follows a unique NMPA structure distinct from IEC 62304 formatting; ensure the NMPA software guidance principle is referenced
-- Biological evaluation must strictly follow GB/T 16886 (ISO 10993) series with Chinese-specific requirements
-- For AI-based medical devices, NMPA has issued specific guidance principles that must be referenced alongside the general software requirements

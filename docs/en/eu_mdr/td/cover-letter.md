@@ -50,11 +50,3 @@
 ## Dependency
 
 Cover Letter is the **final** deliverable in the TD package, prepared when all TD sections are complete and ready for NB submission.
-
-## Notes for CRO
-
-- Cover Letter is a professional document representing the submission quality
-- NB first impression is formed from the Cover Letter and submission organisation
-- Ensure consistent device naming across Cover Letter, DoC, IFU, CER
-- Good TD structure and navigation (hyperlinks, bookmarks) significantly reduces NB assessment time
-- For complex submissions: consider a summary table mapping BPG sections to TD locations

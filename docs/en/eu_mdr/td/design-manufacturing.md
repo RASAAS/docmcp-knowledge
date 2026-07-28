@@ -71,11 +71,3 @@
 ## Dependency
 
 This is a **Phase 1** deliverable. Manufacturing information is foundational for understanding the device but is primarily a client responsibility. CRO involvement is typically limited to gap analysis and review.
-
-## Notes for CRO
-
-- Design & Manufacturing section is predominantly client-authored content
-- CRO role is usually gap analysis review against BPG requirements
-- Critical subcontractor ISO 13485 certificates should be verified for currency
-- Process validation adequacy is frequently questioned by NB reviewers
-- If manufacturing documentation is not in English, translations or annotated summaries are required

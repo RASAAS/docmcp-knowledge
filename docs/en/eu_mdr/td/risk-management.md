@@ -105,11 +105,3 @@
 ### Bi-directional Coupling with CER
 
 The RMR benefit-risk analysis requires CER conclusions as input. Conversely, the CER must reference the RMR overall residual risk assessment. Any inconsistency between these two documents will be flagged by the NB. Risk management outputs also inform PMS Plan indicators and PMCF Plan objectives.
-
-## Notes for CRO
-
-- RMP+RMR is the highest-workload document set in the entire TD
-- Risk Analysis Sheet (RSK) should be maintained as a dynamic spreadsheet throughout the project
-- NB auditors frequently check consistency between RMR benefit-risk conclusions and CER
-- Risk management procedure is a client QMS document, but RM Plan and Report are device-specific
-- For Annex XVI devices: additional Common Specification risk management requirements apply

@@ -86,11 +86,3 @@
 ## Dependency
 
 CEP is a **Phase 2** deliverable. Depends on Device Description (AII-S1) being finalized. The CEP drives all subsequent clinical evaluation activities (DCR, CER) and PMCF planning.
-
-## Notes for CRO
-
-- CEP is the foundation document for clinical evaluation -- all subsequent CE activities trace back to it
-- Intended purpose wording in CEP must be identical to IFU, DoC, CER
-- For Article 61(10) devices: justify why clinical data not needed; if clinical data exists for similar devices, 61(10) is unlikely accepted by NB
-- Legacy device CEP scope differs from new device (see [MDCG 2020-6](/eu_mdr/mdcg/mdcg-2020-6) Appendix II)
-- Pricing: CEP is typically bundled with CER in service agreements

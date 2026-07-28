@@ -138,11 +138,3 @@
 ## Dependency
 
 This document is a **Phase 1** deliverable and is the foundation for most subsequent documents. The Device Description must be aligned with IFU and established before clinical evaluation planning begins.
-
-## Notes for CRO
-
-- Clinical benefit claims should initially use client-declared claims; final wording must be validated against literature evidence (updated in Phase 3 after CER)
-- Material lists must be cross-referenced with biocompatibility evaluation requirements
-- Classification rationale must be consistent across CEP, CER, GSPR, and DoC
-- Intended purpose wording must be identical across all documents (CEP, CER, IFU, DoC, SSCP)
-- For SaMD: software safety classification per EN 62304 should be established early as it drives documentation requirements

@@ -138,11 +138,3 @@
 ## Dependency
 
 V&V is a **Phase 2** deliverable. Testing is performed after device design freeze and provides the evidence base for GSPR compliance (Phase 4) and feeds into the CER benefit-risk analysis (Phase 3).
-
-## Notes for CRO
-
-- V&V is predominantly client-executed; CRO reviews for completeness against BPG requirements
-- Biocompatibility evaluation (BER) is a common CRO service item
-- Software V&V review requires specialist expertise (separate pricing consideration)
-- Sterilisation validation review is critical for NB assessment
-- For MDD-to-MDR transition: identify what testing carries forward vs what needs re-verification

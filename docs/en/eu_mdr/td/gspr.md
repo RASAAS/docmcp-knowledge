@@ -93,11 +93,3 @@ The GSPR has **two phases**:
 2. **Phase 4 (Final Version):** Complete compliance declarations with all evidence references from all TD sections
 
 Depends on: AII-S1 (Device Description), AII-S5 (RMR), AII-S6 (CER), and all verification/validation reports.
-
-## Notes for CRO
-
-- GSPR is NOT completed early despite being "Section 4" -- it is the last document to finalize because it cross-references all other TD sections
-- Any change in preceding documents triggers GSPR update
-- Client expectation management is critical: GSPR appears simple but is high-effort cross-referencing work
-- NB frequently checks GSPR references for completeness and precision
-- Version control is essential -- draft documents should not be provided

@@ -99,10 +99,3 @@
 ## Dependency
 
 This is a **Phase 1** deliverable. Must be finalized before clinical evaluation (CEP/CER) as labelling claims must be consistent with clinical evidence. IFU and labelling updates may be triggered by clinical evaluation findings in Phase 3.
-
-## Notes for CRO
-
-- Client is responsible for translations; CRO reviews for regulatory compliance
-- DoC is a client-issued document; CRO may assist with drafting
-- IFU content must be cross-checked against GSPR 23 requirements item by item
-- For MDD-to-MDR transition, ensure IFU fully meets MDR requirements (not just MDD carry-over)
