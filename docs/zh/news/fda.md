@@ -6,6 +6,230 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### Abiomed公司因导引鞘泄漏缺陷召回Impella CP泵组（I级召回）
+
+**2026-07-22** | FDA | recall_class1 | !!! HIGH
+
+Abiomed公司因14Fr和23Fr导引鞘存在鞘帽下及护套刻度线处泄漏的潜在风险（该缺陷肉眼无法察觉），对87,277台Impella CP泵组（泵组代码0048-0003）启动I级召回。该问题可能导致出血或空气栓塞等严重患者伤害。医疗机构应立即停止使用受影响产品，隔离并按公司指示办理退回。
+
+**标签**: `class_i_recall`, `abiomed`, `impella_cp_set`, `introducer_leakage`, `patient_safety`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2682-2026)
+
+---
+
+### I级召回：Abiomed Impella CP 14Fr导入器套件（0052-0038）因鞘漏液风险
+
+**2026-07-22** | FDA | recall_class1 | !!! HIGH
+
+Abiomed公司召回1,540套Impella CP导入器套件（14Fr、13cm，泵组代码0052-0038），原因是导入器鞘管帽下方和接头刻痕线处可能发生漏液，该制造缺陷无法肉眼检出，可能导致出血或空气栓塞等严重伤害。公司已发布紧急召回通知，要求客户立即隔离并退回所有受影响产品。
+
+**标签**: `class_i_recall`, `impella_cp_introducer`, `sheath_leakage`, `abiomed`, `medical_device_safety`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2685-2026)
+
+---
+
+### 一级召回：Abiomed Impella CP 14Fr导入器套件因不可见的鞘管泄漏风险
+
+**2026-07-22** | FDA | recall_class1 | !!! HIGH
+
+Abiomed, Inc. 正在召回846台Impella CP导入器套件（14 Fr、13和25厘米，产品代码1000550），原因是制造缺陷可能导致鞘管帽下方或接头刻线处泄漏，且该问题肉眼无法察觉。泄漏可能引发出血、空气栓塞或血流动力学支持失效，构成严重健康威胁。医疗机构应立即隔离并退回所有受影响产品。
+
+**标签**: `class_i_recall`, `impella_introducer`, `sheath_leakage`, `abio_med`, `cardiac_device`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2683-2026)
+
+---
+
+### Oscor公司因泄漏风险召回Abiomed Impella导入器套件（I级召回）
+
+**2026-07-22** | FDA | recall_class1 | !!! HIGH
+
+Oscor公司对用于Impella导管系统的Abiomed导入器套件（型号0052-3025）发起I级召回，原因为制造缺陷可能导致护套从侧臂、帽下及接口压痕处发生泄漏。该问题可能造成血液流失、空气栓塞或止血失效，构成严重健康威胁。此次召回涉及在美国销售的355台设备，医疗机构应立即停用受影响产品、隔离相关库存并退回Oscor公司。
+
+**标签**: `class_i_recall`, `introducer_kit`, `leak_risk`, `air_embolism`, `oscor_inc`, `impella`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2678-2026)
+
+---
+
+### Class I Recall: Argon Medical Devices, Inc - General Biospy Tray, REF: GUTS1000
+
+**2026-07-22** | FDA | recall_class1 | !! MEDIUM
+
+Recall #Z-2706-2026 by Argon Medical Devices, Inc. Reason: Kits containing Lidocaine HCL Injection USP 1% 10mg/mL 5mL ampules subject to another recall recalled due to not meeting release criteria for sterility.. Quantity: 1800.
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2706-2026)
+
+---
+
+### Argon Medical Devices动脉管路套件因利多卡因安瓿瓶无菌问题被I级召回
+
+**2026-07-22** | FDA | recall_class1 | !!! HIGH
+
+Argon Medical Devices, Inc. 正在召回440套动脉管路套件（REF 400115A），原因是套件中包含的利多卡因注射液安瓿瓶因另一召回而未能满足无菌放行标准。这是最严重的I级召回，若使用该非无菌产品可能导致严重感染或死亡。客户应立即隔离并停止使用所有受影响套件，并将其退回公司。
+
+**标签**: `class_i_recall`, `sterility_issue`, `arterial_line_kit`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2708-2026)
+
+---
+
+### Abiomed插入套件（JP套件0052-0011-JP）因导引鞘渗漏风险被I级召回
+
+**2026-07-22** | FDA | recall_class1 | !!! HIGH
+
+Abiomed公司主动召回其面向日本市场的ABIOMED插入套件（泵组代码0052-0011-JP），该套件包含14Fr和23Fr导引鞘。召回原因为导引鞘帽下及接头刻痕线处可能存在渗漏，该制造缺陷无法通过肉眼发现，可能导致空气栓塞或出血等严重健康风险。共涉及117台产品，用户须立即隔离停用并联系公司退回。
+
+**标签**: `class_i_recall`, `abiomed`, `introducer_sheath`, `leakage_risk`, `patient_safety`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2692-2026)
+
+---
+
+### Argon Medical经静脉起搏电极托盘(REF:0)因无菌问题被I级召回
+
+**2026-07-22** | FDA | recall_class1 | !!! HIGH
+
+Argon Medical Devices, Inc.因产品内附的利多卡因注射液安瓿未能通过无菌放行标准，正召回950套经静脉起搏电极托盘（带双极球囊起搏电极5F，REF:0）。此为最严重的I级召回，表明可能引发严重感染等不良健康后果。医疗机构应立即隔离受影响批次，并按公司召回通知处置。
+
+**标签**: `class_i_recall`, `sterility_failure`, `pacing_electrode`, `argon_medical`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2704-2026)
+
+---
+
+### Oscor公司因护套泄漏风险召回Abiomed Impella导引器套件（I级召回）
+
+**2026-07-22** | FDA | recall_class1 | !!! HIGH
+
+Oscor公司对1332套Abiomed REF 0052-3021 Impella止血剥离型导引器套件实施I级召回。因制造缺陷，14Fr和23Fr导引器护套可能在侧臂、护套盖下方及接头刻痕线处发生泄漏，导致失血、空气栓塞或感染风险。医疗机构应立即停用、隔离相关产品，并按召回要求退回Oscor公司。
+
+**标签**: `class_i_recall`, `introducer_sheath_leakage`, `manufacturing_defect`, `oscor`, `abiomed`, `cardiovascular_device`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2679-2026)
+
+---
+
+### Argon Medical一次性导入托盘因利多卡因安瓿无菌问题遭I级召回
+
+**2026-07-22** | FDA | recall_class1 | !!! HIGH
+
+Argon Medical Devices, Inc. 正在召回其一次性导入托盘（产品编号 497455 及 497434），原因为套装中含有利多卡因盐酸盐注射液（1% 10mg/mL 5mL安瓿），该注射液因未能通过无菌放行标准而被单独召回。此次I级召回涉及200套在美国销售的产品，使用非无菌利多卡因可能导致严重感染或败血症。用户应立即停用并隔离受影响批次，按公司指示退回产品。
+
+**标签**: `class_i_recall`, `sterility_issue`, `lidocaine`, `one_piece_introducer_tray`, `argon_medical`, `cardiovascular`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2705-2026)
+
+---
+
+### Class I Recall: Abiomed, Inc. - ABIOMED Impella CP Set, Pump Set Code 0048-0014; containing Introducer Product C
+
+**2026-07-22** | FDA | recall_class1 | !! MEDIUM
+
+Recall #Z-2689-2026 by Abiomed, Inc.. Reason: A potential for introducer sheath leakage from under the sheath cap and along the hub score lines, identified in 14Fr and 23Fr Introducers. These manufacturing issues are not visually detectable by th. Quantity: 35,430 units.
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2689-2026)
+
+---
+
+### Abiomed Impella CP 14Fr导引器套件因鞘管不可见泄漏被一级召回
+
+**2026-07-22** | FDA | recall_class1 | !!! HIGH
+
+Abiomed 公司因导引器鞘管可能在帽盖下及裂口线处发生无法目视检测的泄漏，对 1,223 台 Impella CP 14Fr 导引器套件（泵组代码 0052-0039）发起一级召回。该缺陷可能导致空气栓塞、出血或感染等严重健康风险。医疗机构应立即隔离受影响产品，并按企业指示退回。
+
+**标签**: `class_i_recall`, `impella_cp`, `introducer_sheath`, `manufacturing_defect`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2686-2026)
+
+---
+
+### I 级召回：Argon T-Lok 骨髓穿刺托盘因利多卡因安瓿无菌问题被召回
+
+**2026-07-22** | FDA | recall_class1 | !!! HIGH
+
+Argon Medical Devices, Inc. 正在召回 850 套 T-Lok 骨髓穿刺托盘（产品编号 BMT1104STL、BMET1104TL、BMT1104CATL），因套件中所含 1% 盐酸利多卡因注射液 5mL 安瓿瓶未满足无菌放行标准，并已受另一召回影响。使用非无菌安瓿可能导致严重感染，故此次召回级别为最严重的 I 级。受影响机构应立即隔离相关批次产品，并按厂家指引进行退货或销毁。
+
+**标签**: `class_i_recall`, `sterility_failure`, `bone_marrow_tray`, `argon_medical`, `lidocaine`, `medical_device_recall`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2707-2026)
+
+---
+
+### Abiomed Impella 5.5 SmartAssist S2套装因引导鞘渗漏风险被I类召回
+
+**2026-07-22** | FDA | recall_class1 | !!! HIGH
+
+Abiomed公司正在召回1,574套Impella 5.5 SmartAssist S2套装（泵套件代码1000459、1000460，日本型号），原因是14Fr和23Fr引导鞘存在制造缺陷，可能从鞘帽下方或座部刻痕线处发生不可见渗漏。此次I类召回为最严重级别，该隐蔽性渗漏可能导致大出血、空气栓塞或血流动力学支持不足。受影响产品在日本分销，用户应立即停用、隔离产品并联系Abiomed安排退货换货。
+
+**标签**: `class_i_recall`, `introducer_sheath_leakage`, `abiomed_impella`, `high_risk`, `medical_device`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2688-2026)
+
+---
+
+### Abiomed Impella RP Flex系统因导引鞘泄漏风险发起I级召回
+
+**2026-07-22** | FDA | recall_class1 | !!! HIGH
+
+Abiomed公司正在召回其Impella RP Flex with SmartAssist套装（泵组代码1000323），原因是14Fr和23Fr导引鞘存在不可目测的制造缺陷，可能导致鞘帽下方及接口划痕处泄漏。此问题可能引发出血、空气栓塞等严重不良事件。该I级召回涉及在美国分销的5,017台设备，医疗机构须立即停止使用、隔离受影响产品并退回Abiomed。
+
+**标签**: `class_i_recall`, `abiomed`, `introducer_sheath_leakage`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2681-2026)
+
+---
+
+### 一级召回：Abiomed Impella CP套装（含Introducer Product C）因鞘管泄漏风险发起召回
+
+**2026-07-22** | FDA | recall_class1 | !!! HIGH
+
+Abiomed公司对557台Impella CP套装（泵组代码0048-0044，含Introducer Product C）发起一级召回。原因是14Fr和23Fr导引鞘存在制造缺陷，可能导致鞘盖下或座体刻痕线处泄漏，该缺陷无法目视检测，可能引发空气栓塞、出血或循环支持不足等严重风险。使用者须立即隔离并退回受影响产品。
+
+**标签**: `class_i_recall`, `cardiac_assist_device`, `introducer_leakage`, `manufacturing_defect`, `patient_safety`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2691-2026)
+
+---
+
+### Abiomed召回Impella 5.5智能辅助套装，因鞘管泄漏风险
+
+**2026-07-22** | FDA | recall_class1 | !!! HIGH
+
+Abiomed公司因潜在鞘管泄漏（鞘帽下方及鲁尔接口刻痕线处）的风险，召回其Impella 5.5智能辅助套装（泵套装代码1000211及1000212）。该制造缺陷肉眼无法识别，属最严重的一级召回，涉及383台设备，可能导致严重健康损害或死亡。用户须立即隔离受影响产品并遵循Abiomed的召回通知采取行动。
+
+**标签**: `class_i_recall`, `abiomed`, `impella_5_5`, `introducer_sheath_leakage`, `cardiovascular_device`, `recall_z_2687_2026`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2687-2026)
+
+---
+
+### I类召回：Abiomed导引套件（14Fr，日本）因鞘管泄漏风险
+
+**2026-07-22** | FDA | recall_class1 | !!! HIGH
+
+Abiomed公司正在召回96台ABIOMED导引套件，规格为14Fr x 13和25 cm，日本包装（泵组代码0052-0023-JP）。召回原因是制造缺陷可能导致鞘管帽下及接头刻痕处发生泄漏，该缺陷无法肉眼发现，可能引发空气栓塞或出血。使用者须立即停止使用受影响产品、就地隔离并退回公司。这是一次I类召回，代表存在导致严重健康危害或死亡的合理可能性。
+
+**标签**: `class_i_recall`, `introducer_sheath_leakage`, `abiomed`, `manufacturing_defect`, `air_embolism`, `cardiovascular_device`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2693-2026)
+
+---
+
+### 一级召回：Abiomed Impella CP智能辅助套装（日本版，代码0048-0024-JP）因护套渗漏风险
+
+**2026-07-22** | FDA | recall_class1 | !!! HIGH
+
+Abiomed公司正在召回8,382台Impella CP智能辅助套装（日本泵组代码0048-0024-JP），原因是14Fr和23Fr导引鞘的鞘帽下方及座划痕线处可能出现渗漏，该缺陷肉眼无法识别，可能导致患者出血或血管损伤。医疗机构应立即隔离受影响设备，并遵循公司的召回通知处理。
+
+**标签**: `class_i_recall`, `impella`, `introducer_sheath`, `patient_safety`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2690-2026)
+
+---
+
 ### Abiomed召回14Fr低轮廓导管导入器套件
 
 **2026-07-21** | FDA | cdrh_news | !!! HIGH
@@ -266,6 +490,18 @@ Insulet公司正在召回289,046个Omnipod (Eros) Pod（型号POD-ZXP425），�
 
 ---
 
+### 奥林巴斯OEV321UH 4K超高清监视器召回：HDMI/DisplayPort接口故障可能导致图像丢失
+
+**2026-07-07** | FDA | 安全通报 | !!! HIGH
+
+奥林巴斯美国公司正在召回其OEV321UH 4K超高清液晶监视器（召回编号Z-2761-2026），原因是HDMI和DisplayPort接口可能发生故障，导致使用中图像丢失或图像异常。若依赖该监视器进行可视化操作，此缺陷可能造成误诊或手术并发症。FDA已将此列为严重安全通报。医疗机构应立即识别并停用受影响设备，联系奥林巴斯获取纠正措施指导。
+
+**标签**: `recall`, `olympus`, `hdmi_dp_fault`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=221196)
+
+---
+
 ### FDA I 级召回：Insulet 因剂量不足风险移除 Omnipod Pods 胰岛素泵
 
 **2026-07-03** | FDA | cdrh_news | !!! HIGH
@@ -391,6 +627,18 @@ FDA更新了《联邦法规》(CFR)第21篇，最新修订日期为2026年6月26
 **标签**: `device_recall`, `fda_safety_alert`, `syringe_disconnection`, `boston_scientific`, `class_i_recall`
 
 [查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=221336)
+
+---
+
+### Kent Imaging因电池充电故障召回SnapshotGLO伤口成像设备
+
+**2026-06-30** | FDA | 安全通报 | !!! HIGH
+
+Kent Imaging公司正在召回其SnapshotGLO伤口成像设备（型号KB100、KB100AA），原因是电池充电电路控制软件无法识别并恢复已完全放电进入低功耗“运输模式”的电池。这会导致设备无法充电，在需要伤口成像时无法使用。受影响用户若发现设备不充电，应立即停用并联系制造商获取解决方案。
+
+**标签**: `recall`, `battery_charging`, `wound_imaging`, `fda_safety_alert`, `medical_device`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=221505)
 
 ---
 

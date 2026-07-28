@@ -1,7 +1,507 @@
 {
   "framework": "fda",
-  "last_updated": "2026-07-21T20:23:46Z",
+  "last_updated": "2026-07-28T20:26:54Z",
   "items": [
+    {
+      "id": "fda_20260728_class_i_recall_abiomed_impella_cp_set_due_to_visually_undete",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Abiomed Impella CP Set Due to Visually Undetectable Introducer Sheath Leakage",
+        "zh": "Abiomed公司因导引鞘泄漏缺陷召回Impella CP泵组（I级召回）"
+      },
+      "summary": {
+        "en": "Abiomed, Inc. has initiated a Class I recall for 87,277 units of its Impella CP Set (Pump Set Code 0048-0003) after identifying a manufacturing defect in 14Fr and 23Fr introducers that can cause leakage from under the sheath cap and along hub score lines. The defect is not visually detectable and poses serious health risks, including bleeding or air embolism. Healthcare providers should immediately stop using affected devices, quarantine them, and follow Abiomed's return instructions.",
+        "zh": "Abiomed公司因14Fr和23Fr导引鞘存在鞘帽下及护套刻度线处泄漏的潜在风险（该缺陷肉眼无法察觉），对87,277台Impella CP泵组（泵组代码0048-0003）启动I级召回。该问题可能导致出血或空气栓塞等严重患者伤害。医疗机构应立即停止使用受影响产品，隔离并按公司指示办理退回。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2682-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-22",
+      "detected_date": "2026-07-28T20:21:01Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "abiomed",
+        "impella_cp_set",
+        "introducer_leakage",
+        "patient_safety"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260728_class_i_recall_abiomed_impella_cp_introducer_kit_14fr_code_0",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Abiomed Impella CP Introducer Kit 14Fr (Code 0052-0038) Due to Sheath Leak Risk",
+        "zh": "I级召回：Abiomed Impella CP 14Fr导入器套件（0052-0038）因鞘漏液风险"
+      },
+      "summary": {
+        "en": "Abiomed, Inc. is recalling 1,540 units of the Impella CP Introducer Kit 14 Fr, 13 cm (Pump Set Code 0052-0038) because the introducer sheath can leak from under the sheath cap and along hub score lines. The manufacturing defect is not visually detectable and poses serious health risks, including bleeding or air embolism. The firm issued an Urgent Medical Device Recall letter instructing customers to immediately quarantine and return all affected kits.",
+        "zh": "Abiomed公司召回1,540套Impella CP导入器套件（14Fr、13cm，泵组代码0052-0038），原因是导入器鞘管帽下方和接头刻痕线处可能发生漏液，该制造缺陷无法肉眼检出，可能导致出血或空气栓塞等严重伤害。公司已发布紧急召回通知，要求客户立即隔离并退回所有受影响产品。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2685-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-22",
+      "detected_date": "2026-07-28T20:21:19Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "impella_cp_introducer",
+        "sheath_leakage",
+        "abiomed",
+        "medical_device_safety"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260728_class_i_recall_abiomed_impella_cp_introducer_kit_14fr_due_to",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Abiomed Impella CP Introducer Kit 14Fr Due to Undetectable Sheath Leakage Risk",
+        "zh": "一级召回：Abiomed Impella CP 14Fr导入器套件因不可见的鞘管泄漏风险"
+      },
+      "summary": {
+        "en": "Abiomed, Inc. is recalling 846 units of its Impella CP Introducer Kit (14 Fr, 13 and 25 cm, Pump Set Code 1000550) because of a manufacturing issue that can cause introducer sheath leakage under the cap or along hub score lines, which is not visible to the user. If leaks occur, patients may experience bleeding, air embolism, or loss of hemodynamic support, creating a serious health hazard. Healthcare facilities should immediately quarantine and return all affected devices to Abiomed.",
+        "zh": "Abiomed, Inc. 正在召回846台Impella CP导入器套件（14 Fr、13和25厘米，产品代码1000550），原因是制造缺陷可能导致鞘管帽下方或接头刻线处泄漏，且该问题肉眼无法察觉。泄漏可能引发出血、空气栓塞或血流动力学支持失效，构成严重健康威胁。医疗机构应立即隔离并退回所有受影响产品。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2683-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-22",
+      "detected_date": "2026-07-28T20:21:33Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "impella_introducer",
+        "sheath_leakage",
+        "abio_med",
+        "cardiac_device"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260728_oscor_inc_recalls_abiomed_introducer_kit_for_impella_due_to",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Oscor Inc. Recalls Abiomed Introducer Kit for Impella Due to Leak Risk (Class I)",
+        "zh": "Oscor公司因泄漏风险召回Abiomed Impella导入器套件（I级召回）"
+      },
+      "summary": {
+        "en": "Oscor Inc. has initiated a Class I recall of the Abiomed Introducer Kit (REF 0052-3025), a hemostatic peel-away introducer used with Impella catheters, due to manufacturing defects that can cause leakage from the sidearm, under the sheath cap, and along hub score lines. This defect may lead to blood loss, air embolism, or loss of hemostasis, posing serious health risks. The recall covers 355 units distributed in the U.S.; healthcare facilities should immediately stop using affected kits, quarantine all stock, and return them to Oscor Inc.",
+        "zh": "Oscor公司对用于Impella导管系统的Abiomed导入器套件（型号0052-3025）发起I级召回，原因为制造缺陷可能导致护套从侧臂、帽下及接口压痕处发生泄漏。该问题可能造成血液流失、空气栓塞或止血失效，构成严重健康威胁。此次召回涉及在美国销售的355台设备，医疗机构应立即停用受影响产品、隔离相关库存并退回Oscor公司。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2678-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-22",
+      "detected_date": "2026-07-28T20:21:49Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "introducer_kit",
+        "leak_risk",
+        "air_embolism",
+        "oscor_inc",
+        "impella"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260728_class_i_recall_argon_medical_devices_inc_general_biospy_tray",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Argon Medical Devices, Inc - General Biospy Tray, REF: GUTS1000",
+        "zh": "Class I Recall: Argon Medical Devices, Inc - General Biospy Tray, REF: GUTS1000"
+      },
+      "summary": {
+        "en": "Recall #Z-2706-2026 by Argon Medical Devices, Inc. Reason: Kits containing Lidocaine HCL Injection USP 1% 10mg/mL 5mL ampules subject to another recall recalled due to not meeting release criteria for sterility.. Quantity: 1800.",
+        "zh": "Recall #Z-2706-2026 by Argon Medical Devices, Inc. Reason: Kits containing Lidocaine HCL Injection USP 1% 10mg/mL 5mL ampules subject to another recall recalled due to not meeting release criteria for sterility.. Quantity: 1800."
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2706-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-22",
+      "detected_date": "2026-07-28T20:22:21Z",
+      "importance": "medium",
+      "tags": [],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260728_class_i_recall_argon_medical_devices_arterial_line_kit_due_t",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Argon Medical Devices Arterial Line Kit Due to Non-Sterile Lidocaine Ampules",
+        "zh": "Argon Medical Devices动脉管路套件因利多卡因安瓿瓶无菌问题被I级召回"
+      },
+      "summary": {
+        "en": "Argon Medical Devices, Inc. is recalling 440 units of its Arterial Line Kit (REF 400115A) because the kit contains Lidocaine HCL Injection USP 1% ampules that are subject to another recall for failing sterility release criteria. This Class I recall, the most serious type, presents a risk of serious infection or death if the non-sterile solution is used. Customers should immediately quarantine and discontinue use of all affected kits and return them to the firm.",
+        "zh": "Argon Medical Devices, Inc. 正在召回440套动脉管路套件（REF 400115A），原因是套件中包含的利多卡因注射液安瓿瓶因另一召回而未能满足无菌放行标准。这是最严重的I级召回，若使用该非无菌产品可能导致严重感染或死亡。客户应立即隔离并停止使用所有受影响套件，并将其退回公司。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2708-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-22",
+      "detected_date": "2026-07-28T20:22:40Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "sterility_issue",
+        "arterial_line_kit"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260728_class_i_recall_abiomed_insertion_kit_jp_set_0052_0011_jp_due",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Abiomed Insertion Kit (JP Set 0052-0011-JP) due to Introducer Sheath Leakage Risk",
+        "zh": "Abiomed插入套件（JP套件0052-0011-JP）因导引鞘渗漏风险被I级召回"
+      },
+      "summary": {
+        "en": "Abiomed, Inc. is recalling its ABIOMED Insertion Kit, packaged for Japan (Pump Set Code 0052-0011-JP), containing 14Fr and 23Fr Introducers. The recall is due to a potential for introducer sheath leakage from under the cap and along hub score lines, a manufacturing defect that is not visually detectable and could lead to air embolism or bleeding. A total of 117 units are affected, and customers must immediately quarantine, discontinue use, and return the product.",
+        "zh": "Abiomed公司主动召回其面向日本市场的ABIOMED插入套件（泵组代码0052-0011-JP），该套件包含14Fr和23Fr导引鞘。召回原因为导引鞘帽下及接头刻痕线处可能存在渗漏，该制造缺陷无法通过肉眼发现，可能导致空气栓塞或出血等严重健康风险。共涉及117台产品，用户须立即隔离停用并联系公司退回。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2692-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-22",
+      "detected_date": "2026-07-28T20:22:54Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "abiomed",
+        "introducer_sheath",
+        "leakage_risk",
+        "patient_safety"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260728_class_i_recall_argon_medical_transvenous_pacing_electrode_tr",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Argon Medical Transvenous Pacing Electrode Tray (REF:0) for Sterility Failure of Lidocaine Ampules",
+        "zh": "Argon Medical经静脉起搏电极托盘(REF:0)因无菌问题被I级召回"
+      },
+      "summary": {
+        "en": "Argon Medical Devices, Inc. is recalling 950 units of its Transvenous Pacing Electrode Tray with Bipolar Balloon Pacing Electrode 5F (REF:0) because the kits contain Lidocaine HCl Injection USP 1% ampules that failed sterility release criteria. This Class I recall indicates a reasonable probability of serious infection risk or other adverse health consequences. Healthcare facilities should immediately quarantine affected products and follow the firm's recall instructions.",
+        "zh": "Argon Medical Devices, Inc.因产品内附的利多卡因注射液安瓿未能通过无菌放行标准，正召回950套经静脉起搏电极托盘（带双极球囊起搏电极5F，REF:0）。此为最严重的I级召回，表明可能引发严重感染等不良健康后果。医疗机构应立即隔离受影响批次，并按公司召回通知处置。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2704-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-22",
+      "detected_date": "2026-07-28T20:23:21Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "sterility_failure",
+        "pacing_electrode",
+        "argon_medical"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260728_class_i_recall_oscor_inc_abiomed_introducer_kit_for_impella",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Oscor Inc. – Abiomed Introducer Kit for Impella Hemostatic Peel Away Intro – Sheath Leakage Risk",
+        "zh": "Oscor公司因护套泄漏风险召回Abiomed Impella导引器套件（I级召回）"
+      },
+      "summary": {
+        "en": "Oscor Inc. has initiated a Class I recall for 1332 units of the Abiomed REF 0052-3021 Introducer Kit for Impella Hemostatic Peel Away Intro. Manufacturing issues may cause the 14Fr and 23Fr introducer sheaths to leak from the sidearm, under the sheath cap, or along hub score lines, posing risks of blood loss, air embolism, or infection. Healthcare facilities should immediately stop use, quarantine affected products, and return them to Oscor per recall instructions.",
+        "zh": "Oscor公司对1332套Abiomed REF 0052-3021 Impella止血剥离型导引器套件实施I级召回。因制造缺陷，14Fr和23Fr导引器护套可能在侧臂、护套盖下方及接头刻痕线处发生泄漏，导致失血、空气栓塞或感染风险。医疗机构应立即停用、隔离相关产品，并按召回要求退回Oscor公司。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2679-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-22",
+      "detected_date": "2026-07-28T20:23:34Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "introducer_sheath_leakage",
+        "manufacturing_defect",
+        "oscor",
+        "abiomed",
+        "cardiovascular_device"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260728_class_i_recall_argon_medical_devices_one_piece_introducer_tr",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Argon Medical Devices One-Piece Introducer Tray Due to Non-Sterile Lidocaine",
+        "zh": "Argon Medical一次性导入托盘因利多卡因安瓿无菌问题遭I级召回"
+      },
+      "summary": {
+        "en": "Argon Medical Devices, Inc. is recalling its One-Piece Introducer Tray (REF 497455, 497434) because the kit contains Lidocaine HCL Injection USP 1% ampules that failed sterility release criteria, prompting a separate recall. This Class I recall affects 200 units distributed in the U.S. and poses a risk of serious infection or sepsis if non-sterile lidocaine is used. Users should immediately quarantine and discontinue use of affected lots, and return products to Argon Medical as directed.",
+        "zh": "Argon Medical Devices, Inc. 正在召回其一次性导入托盘（产品编号 497455 及 497434），原因为套装中含有利多卡因盐酸盐注射液（1% 10mg/mL 5mL安瓿），该注射液因未能通过无菌放行标准而被单独召回。此次I级召回涉及200套在美国销售的产品，使用非无菌利多卡因可能导致严重感染或败血症。用户应立即停用并隔离受影响批次，按公司指示退回产品。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2705-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-22",
+      "detected_date": "2026-07-28T20:24:01Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "sterility_issue",
+        "lidocaine",
+        "one_piece_introducer_tray",
+        "argon_medical",
+        "cardiovascular"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260728_class_i_recall_abiomed_inc_abiomed_impella_cp_set_pump_set_c",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Abiomed, Inc. - ABIOMED Impella CP Set, Pump Set Code 0048-0014; containing Introducer Product C",
+        "zh": "Class I Recall: Abiomed, Inc. - ABIOMED Impella CP Set, Pump Set Code 0048-0014; containing Introducer Product C"
+      },
+      "summary": {
+        "en": "Recall #Z-2689-2026 by Abiomed, Inc.. Reason: A potential for introducer sheath leakage from under the sheath cap and along the hub score lines, identified in 14Fr and 23Fr Introducers. These manufacturing issues are not visually detectable by th. Quantity: 35,430 units.",
+        "zh": "Recall #Z-2689-2026 by Abiomed, Inc.. Reason: A potential for introducer sheath leakage from under the sheath cap and along the hub score lines, identified in 14Fr and 23Fr Introducers. These manufacturing issues are not visually detectable by th. Quantity: 35,430 units."
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2689-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-22",
+      "detected_date": "2026-07-28T20:24:33Z",
+      "importance": "medium",
+      "tags": [],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260728_class_i_recall_abiomed_impella_cp_14_fr_introducer_kit_recal",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Abiomed Impella CP 14 Fr Introducer Kit Recalled Due to Undetectable Sheath Leakage",
+        "zh": "Abiomed Impella CP 14Fr导引器套件因鞘管不可见泄漏被一级召回"
+      },
+      "summary": {
+        "en": "Abiomed, Inc. is recalling 1,223 units of the Impella CP Introducer Kit 14 Fr (pump set code 0052-0039) because of potential introducer sheath leakage from under the cap and along hub score lines, a manufacturing defect not visually detectable. This Class I recall poses serious health risks including air embolism, bleeding, or infection. Healthcare providers must immediately quarantine the affected devices and follow Abiomed's return instructions.",
+        "zh": "Abiomed 公司因导引器鞘管可能在帽盖下及裂口线处发生无法目视检测的泄漏，对 1,223 台 Impella CP 14Fr 导引器套件（泵组代码 0052-0039）发起一级召回。该缺陷可能导致空气栓塞、出血或感染等严重健康风险。医疗机构应立即隔离受影响产品，并按企业指示退回。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2686-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-22",
+      "detected_date": "2026-07-28T20:24:47Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "impella_cp",
+        "introducer_sheath",
+        "manufacturing_defect"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260728_class_i_recall_argon_t_lok_bone_marrow_trays_due_to_non_ster",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Argon T-Lok Bone Marrow Trays Due to Non-Sterile Lidocaine Ampules",
+        "zh": "I 级召回：Argon T-Lok 骨髓穿刺托盘因利多卡因安瓿无菌问题被召回"
+      },
+      "summary": {
+        "en": "Argon Medical Devices, Inc. is recalling 850 T-Lok Bone Marrow Trays (REF BMT1104STL, BMET1104TL, BMT1104CATL) because the kits contain Lidocaine HCL Injection USP 1% 5mL ampules subject to another recall for failing sterility release criteria. Use of a non-sterile ampule poses a risk of serious infection, prompting this Class I recall, the most serious type. Affected facilities should immediately quarantine all impacted lots and follow Argon’s instructions for return or disposal.",
+        "zh": "Argon Medical Devices, Inc. 正在召回 850 套 T-Lok 骨髓穿刺托盘（产品编号 BMT1104STL、BMET1104TL、BMT1104CATL），因套件中所含 1% 盐酸利多卡因注射液 5mL 安瓿瓶未满足无菌放行标准，并已受另一召回影响。使用非无菌安瓿可能导致严重感染，故此次召回级别为最严重的 I 级。受影响机构应立即隔离相关批次产品，并按厂家指引进行退货或销毁。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2707-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-22",
+      "detected_date": "2026-07-28T20:25:01Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "sterility_failure",
+        "bone_marrow_tray",
+        "argon_medical",
+        "lidocaine",
+        "medical_device_recall"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260728_class_i_recall_abiomed_impella_5_5_smartassist_s2_set_recall",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Abiomed Impella 5.5 SmartAssist S2 Set Recalled for Introducer Sheath Leakage Risk",
+        "zh": "Abiomed Impella 5.5 SmartAssist S2套装因引导鞘渗漏风险被I类召回"
+      },
+      "summary": {
+        "en": "Abiomed, Inc. is recalling 1,574 units of the Impella 5.5 SmartAssist S2 Set (pump set codes 1000459, 1000460, JP configuration) due to a manufacturing defect in 14Fr and 23Fr introducers that may cause leakage under the sheath cap or along hub score lines. This Class I recall, the most serious type, warns that the undetectable leak could lead to hemorrhage, air embolism, or inadequate hemodynamic support. The affected devices were distributed in Japan; users must immediately discontinue use, quarantine the product, and contact Abiomed for return and replacement.",
+        "zh": "Abiomed公司正在召回1,574套Impella 5.5 SmartAssist S2套装（泵套件代码1000459、1000460，日本型号），原因是14Fr和23Fr引导鞘存在制造缺陷，可能从鞘帽下方或座部刻痕线处发生不可见渗漏。此次I类召回为最严重级别，该隐蔽性渗漏可能导致大出血、空气栓塞或血流动力学支持不足。受影响产品在日本分销，用户应立即停用、隔离产品并联系Abiomed安排退货换货。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2688-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-22",
+      "detected_date": "2026-07-28T20:25:16Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "introducer_sheath_leakage",
+        "abiomed_impella",
+        "high_risk",
+        "medical_device"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260728_class_i_recall_abiomed_impella_rp_flex_sets_due_to_introduce",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Abiomed Impella RP Flex Sets Due to Introducer Sheath Leakage Risk",
+        "zh": "Abiomed Impella RP Flex系统因导引鞘泄漏风险发起I级召回"
+      },
+      "summary": {
+        "en": "Abiomed, Inc. is recalling its Impella RP Flex with SmartAssist Set (pump set code 1000323) because 14Fr and 23Fr introducer sheaths may leak from under the sheath cap and along hub score lines, a manufacturing defect not visually detectable. This could cause bleeding, air embolism, or other serious patient injury. The Class I recall covers 5,017 units distributed in the U.S. Healthcare providers must immediately stop using and quarantine affected products and return them to Abiomed.",
+        "zh": "Abiomed公司正在召回其Impella RP Flex with SmartAssist套装（泵组代码1000323），原因是14Fr和23Fr导引鞘存在不可目测的制造缺陷，可能导致鞘帽下方及接口划痕处泄漏。此问题可能引发出血、空气栓塞等严重不良事件。该I级召回涉及在美国分销的5,017台设备，医疗机构须立即停止使用、隔离受影响产品并退回Abiomed。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2681-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-22",
+      "detected_date": "2026-07-28T20:25:38Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "abiomed",
+        "introducer_sheath_leakage"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260728_class_i_recall_abiomed_impella_cp_set_with_introducer_produc",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Abiomed Impella CP Set with Introducer Product C (Code 0048-0044) Due to Introducer Sheath Leakage",
+        "zh": "一级召回：Abiomed Impella CP套装（含Introducer Product C）因鞘管泄漏风险发起召回"
+      },
+      "summary": {
+        "en": "Abiomed, Inc. is conducting a Class I recall of 557 units of the Impella CP Set (Pump Set Code 0048-0044) containing Introducer Product C. The recall is due to a manufacturing defect in 14Fr and 23Fr introducers that can cause sheath leakage from under the cap or along hub score lines, not visually detectable. This poses a risk of air embolism, bleeding, or inadequate circulatory support. Users must immediately quarantine affected products and return them to Abiomed.",
+        "zh": "Abiomed公司对557台Impella CP套装（泵组代码0048-0044，含Introducer Product C）发起一级召回。原因是14Fr和23Fr导引鞘存在制造缺陷，可能导致鞘盖下或座体刻痕线处泄漏，该缺陷无法目视检测，可能引发空气栓塞、出血或循环支持不足等严重风险。使用者须立即隔离并退回受影响产品。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2691-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-22",
+      "detected_date": "2026-07-28T20:25:48Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "cardiac_assist_device",
+        "introducer_leakage",
+        "manufacturing_defect",
+        "patient_safety"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260728_abiomed_recalls_impella_5_5_smart_assist_set_due_to_introduc",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Abiomed Recalls Impella 5.5 Smart Assist Set Due to Introducer Sheath Leakage Risk",
+        "zh": "Abiomed召回Impella 5.5智能辅助套装，因鞘管泄漏风险"
+      },
+      "summary": {
+        "en": "Abiomed, Inc. is recalling its Impella 5.5 Smart Assist Set (pump set codes 1000211 and 1000212) due to potential introducer sheath leakage from under the cap and along hub score lines, a manufacturing defect not visually detectable. This Class I recall, the most serious type, covers 383 units and poses a risk of serious adverse health consequences or death. Customers should immediately quarantine affected products and follow Abiomed's recall instructions.",
+        "zh": "Abiomed公司因潜在鞘管泄漏（鞘帽下方及鲁尔接口刻痕线处）的风险，召回其Impella 5.5智能辅助套装（泵套装代码1000211及1000212）。该制造缺陷肉眼无法识别，属最严重的一级召回，涉及383台设备，可能导致严重健康损害或死亡。用户须立即隔离受影响产品并遵循Abiomed的召回通知采取行动。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2687-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-22",
+      "detected_date": "2026-07-28T20:26:17Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "abiomed",
+        "impella_5_5",
+        "introducer_sheath_leakage",
+        "cardiovascular_device",
+        "recall_z_2687_2026"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260728_class_i_recall_abiomed_intro_kit_14fr_jp_due_to_risk_of_intr",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Abiomed Intro Kit (14Fr, JP) Due to Risk of Introducer Sheath Leakage",
+        "zh": "I类召回：Abiomed导引套件（14Fr，日本）因鞘管泄漏风险"
+      },
+      "summary": {
+        "en": "Abiomed, Inc. is recalling 96 units of its ABIOMED Intro Kit, 14Fr x 13 and 25 cm, packaged for Japan (Pump Set Code 0052-0023-JP). The recall was initiated due to a manufacturing defect that may cause introducer sheath leakage from under the sheath cap and along hub score lines; this defect is not visually detectable and could lead to air embolism or bleeding. Users must immediately stop using the affected products, quarantine them, and return them to the firm. This is a Class I recall, the most serious type, indicating a reasonable probability of serious health consequences or death.",
+        "zh": "Abiomed公司正在召回96台ABIOMED导引套件，规格为14Fr x 13和25 cm，日本包装（泵组代码0052-0023-JP）。召回原因是制造缺陷可能导致鞘管帽下及接头刻痕处发生泄漏，该缺陷无法肉眼发现，可能引发空气栓塞或出血。使用者须立即停止使用受影响产品、就地隔离并退回公司。这是一次I类召回，代表存在导致严重健康危害或死亡的合理可能性。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2693-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-22",
+      "detected_date": "2026-07-28T20:26:35Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "introducer_sheath_leakage",
+        "abiomed",
+        "manufacturing_defect",
+        "air_embolism",
+        "cardiovascular_device"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260728_class_i_recall_abiomed_impella_cp_smart_assist_set_jp_code_0",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Abiomed Impella CP Smart Assist Set (JP, Code 0048-0024-JP) for Introducer Sheath Leakage Risk",
+        "zh": "一级召回：Abiomed Impella CP智能辅助套装（日本版，代码0048-0024-JP）因护套渗漏风险"
+      },
+      "summary": {
+        "en": "Abiomed, Inc. is recalling 8,382 units of its Impella CP Smart Assist Set, JP (Pump Set Code 0048-0024-JP) due to potential introducer sheath leakage from under the sheath cap and along hub score lines in 14Fr and 23Fr Introducers. The defect is not visually detectable and could lead to patient complications such as bleeding or vascular injury. Healthcare facilities should immediately quarantine affected products and follow Abiomed’s recall instructions.",
+        "zh": "Abiomed公司正在召回8,382台Impella CP智能辅助套装（日本泵组代码0048-0024-JP），原因是14Fr和23Fr导引鞘的鞘帽下方及座划痕线处可能出现渗漏，该缺陷肉眼无法识别，可能导致患者出血或血管损伤。医疗机构应立即隔离受影响设备，并遵循公司的召回通知处理。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2690-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-22",
+      "detected_date": "2026-07-28T20:26:54Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "impella",
+        "introducer_sheath",
+        "patient_safety"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
     {
       "id": "fda_20260721_abiomed_recalls_14fr_low_profile_catheter_introducer_kits",
       "framework": "fda",
@@ -593,6 +1093,31 @@
       "status": "published"
     },
     {
+      "id": "fda_20260728_olympus_oev321uh_4k_uhd_monitor_recall_faulty_hdmi_displaypo",
+      "framework": "fda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Olympus OEV321UH 4K UHD Monitor Recall: Faulty HDMI/DisplayPort Connectors May Cause Image Loss",
+        "zh": "奥林巴斯OEV321UH 4K超高清监视器召回：HDMI/DisplayPort接口故障可能导致图像丢失"
+      },
+      "summary": {
+        "en": "Olympus Corporation of the Americas is recalling its OEV321UH 4K UHD LCD Monitor (Recall Z-2761-2026) because the HDMI and DisplayPort connectors can become faulty, leading to image loss or image abnormalities during use. This defect poses risks of misdiagnosis or surgical complications if the monitor is relied upon for visualization. The FDA has issued this as a serious safety communication. Healthcare providers should immediately identify and cease use of affected units, and contact Olympus for remediation instructions.",
+        "zh": "奥林巴斯美国公司正在召回其OEV321UH 4K超高清液晶监视器（召回编号Z-2761-2026），原因是HDMI和DisplayPort接口可能发生故障，导致使用中图像丢失或图像异常。若依赖该监视器进行可视化操作，此缺陷可能造成误诊或手术并发症。FDA已将此列为严重安全通报。医疗机构应立即识别并停用受影响设备，联系奥林巴斯获取纠正措施指导。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=221196",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-07",
+      "detected_date": "2026-07-28T20:20:32Z",
+      "importance": "high",
+      "tags": [
+        "recall",
+        "olympus",
+        "hdmi_dp_fault"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
       "id": "fda_20260703_fda_class_i_recall_insulet_removes_omnipod_pods_insulin_pump",
       "framework": "fda",
       "category": "cdrh_news",
@@ -875,6 +1400,33 @@
         "syringe_disconnection",
         "boston_scientific",
         "class_i_recall"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260728_kent_imaging_recalls_snapshotglo_wound_imaging_device_due_to",
+      "framework": "fda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Kent Imaging Recalls SnapshotGLO Wound Imaging Device Due to Battery Charging Failure",
+        "zh": "Kent Imaging因电池充电故障召回SnapshotGLO伤口成像设备"
+      },
+      "summary": {
+        "en": "Kent Imaging, Inc. is recalling its SnapshotGLO Wound Imaging Device (Models KB100, KB100AA) because the software controlling the battery charging circuit fails to recover a battery that has fully discharged into a low-power ‘shipping mode’. This prevents the device from recharging, leaving it inoperable when needed for wound assessment. Users should stop using the device if it does not charge and contact the manufacturer for a correction.",
+        "zh": "Kent Imaging公司正在召回其SnapshotGLO伤口成像设备（型号KB100、KB100AA），原因是电池充电电路控制软件无法识别并恢复已完全放电进入低功耗“运输模式”的电池。这会导致设备无法充电，在需要伤口成像时无法使用。受影响用户若发现设备不充电，应立即停用并联系制造商获取解决方案。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=221505",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-06-30",
+      "detected_date": "2026-07-28T20:20:45Z",
+      "importance": "high",
+      "tags": [
+        "recall",
+        "battery_charging",
+        "wound_imaging",
+        "fda_safety_alert",
+        "medical_device"
       ],
       "related_docs": [],
       "status": "published"
