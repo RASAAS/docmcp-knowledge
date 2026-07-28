@@ -119,9 +119,9 @@ You can purchase top-up Credits at any time. Top-up Credits don't expire.
 
 **Downgrades**: Regardless of billing period, downgrades take effect at the end of the current billing period.
 
-### Can I get a refund for annual plans?
+### Can I get a refund?
 
-Annual subscriptions are non-refundable, but you can upgrade to a higher plan at any time (pay the price difference).
+All subscription fees are non-refundable once paid, regardless of monthly or annual billing. You can upgrade to a higher plan at any time.
 
 ### How do team accounts work?
 

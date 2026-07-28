@@ -9,6 +9,25 @@ const zhSidebar = Object.assign(
     '/zh/eu_mdr/': [
       { text: 'EU MDR 概述', link: '/zh/eu_mdr/' },
       {
+        text: '技术文件 (BPG Rev.4)', link: '/zh/eu_mdr/td/',
+        collapsed: true,
+        items: [
+          { text: '器械描述与规格', link: '/zh/eu_mdr/td/device-description' },
+          { text: '制造商提供的信息', link: '/zh/eu_mdr/td/information-supplied' },
+          { text: '设计与制造', link: '/zh/eu_mdr/td/design-manufacturing' },
+          { text: 'GSPR 检查表', link: '/zh/eu_mdr/td/gspr' },
+          { text: '风险管理', link: '/zh/eu_mdr/td/risk-management' },
+          { text: '验证与确认', link: '/zh/eu_mdr/td/verification-validation' },
+          { text: '临床评价计划 (CEP)', link: '/zh/eu_mdr/td/cep' },
+          { text: 'CER 与数据收集报告', link: '/zh/eu_mdr/td/cer' },
+          { text: 'PMCF 计划与报告', link: '/zh/eu_mdr/td/pmcf' },
+          { text: 'SSCP', link: '/zh/eu_mdr/td/sscp' },
+          { text: 'PMS 计划', link: '/zh/eu_mdr/td/pms' },
+          { text: 'PSUR', link: '/zh/eu_mdr/td/psur' },
+          { text: '技术文件封面信', link: '/zh/eu_mdr/td/cover-letter' },
+        ],
+      },
+      {
         text: '法规与指令', link: '/zh/eu_mdr/regulations',
         collapsed: true,
         items: [
@@ -135,6 +154,13 @@ const zhSidebar = Object.assign(
     ],
     '/zh/fda/': [
       { text: 'FDA 概述', link: '/zh/fda/' },
+      {
+        text: '510(k) 提交 (eSTAR)', link: '/zh/fda/td/',
+        collapsed: true,
+        items: [
+          { text: '提交概述', link: '/zh/fda/td/submission-overview' },
+        ],
+      },
       { text: '法规 (21 CFR)', link: '/zh/fda/regulations' },
       { text: '共识标准', link: '/zh/fda/standards' },
       {
@@ -149,6 +175,18 @@ const zhSidebar = Object.assign(
     ],
     '/zh/nmpa/': [
       { text: 'NMPA 概述', link: '/zh/nmpa/' },
+      {
+        text: '注册申报资料', link: '/zh/nmpa/td/',
+        collapsed: true,
+        items: [
+          { text: '第1章：监管信息', link: '/zh/nmpa/td/regulatory-info' },
+          { text: '第2章：综述资料', link: '/zh/nmpa/td/product-summary' },
+          { text: '第3章：非临床资料', link: '/zh/nmpa/td/non-clinical' },
+          { text: '第4章：临床评价资料', link: '/zh/nmpa/td/clinical-evaluation' },
+          { text: '第5章：说明书和标签', link: '/zh/nmpa/td/ifu-labels' },
+          { text: '第6章：质量管理体系文件', link: '/zh/nmpa/td/qms' },
+        ],
+      },
       { text: '法规规章', link: '/zh/nmpa/regulations' },
       {
         text: 'GB/YY 标准 (2,100)', link: '/zh/nmpa/standards',
@@ -289,6 +327,25 @@ export default defineConfig({
             '/en/eu_mdr/': [
               { text: 'EU MDR Overview', link: '/en/eu_mdr/' },
               {
+                text: 'Technical Documentation (BPG Rev.4)', link: '/en/eu_mdr/td/',
+                collapsed: true,
+                items: [
+                  { text: 'Device Description & Specification', link: '/en/eu_mdr/td/device-description' },
+                  { text: 'Information Supplied by Manufacturer', link: '/en/eu_mdr/td/information-supplied' },
+                  { text: 'Design & Manufacturing', link: '/en/eu_mdr/td/design-manufacturing' },
+                  { text: 'GSPR Checklist', link: '/en/eu_mdr/td/gspr' },
+                  { text: 'Risk Management', link: '/en/eu_mdr/td/risk-management' },
+                  { text: 'Verification & Validation', link: '/en/eu_mdr/td/verification-validation' },
+                  { text: 'Clinical Evaluation Plan (CEP)', link: '/en/eu_mdr/td/cep' },
+                  { text: 'CER & Data Collection Report', link: '/en/eu_mdr/td/cer' },
+                  { text: 'PMCF Plan & Report', link: '/en/eu_mdr/td/pmcf' },
+                  { text: 'SSCP', link: '/en/eu_mdr/td/sscp' },
+                  { text: 'PMS Plan', link: '/en/eu_mdr/td/pms' },
+                  { text: 'PSUR', link: '/en/eu_mdr/td/psur' },
+                  { text: 'TD Cover Letter', link: '/en/eu_mdr/td/cover-letter' },
+                ],
+              },
+              {
                 text: 'Regulations & Directives', link: '/en/eu_mdr/regulations',
                 collapsed: true,
                 items: [
@@ -415,6 +472,13 @@ export default defineConfig({
             ],
             '/en/fda/': [
               { text: 'FDA Overview', link: '/en/fda/' },
+              {
+                text: '510(k) Submission (eSTAR)', link: '/en/fda/td/',
+                collapsed: true,
+                items: [
+                  { text: 'Submission Overview', link: '/en/fda/td/submission-overview' },
+                ],
+              },
               { text: 'Regulations (21 CFR)', link: '/en/fda/regulations' },
               { text: 'Consensus Standards', link: '/en/fda/standards' },
               {
@@ -429,6 +493,18 @@ export default defineConfig({
             ],
             '/en/nmpa/': [
               { text: 'NMPA Overview', link: '/en/nmpa/' },
+              {
+                text: 'Technical Documentation', link: '/en/nmpa/td/',
+                collapsed: true,
+                items: [
+                  { text: 'Ch.1: Regulatory Information', link: '/en/nmpa/td/regulatory-info' },
+                  { text: 'Ch.2: Product Summary', link: '/en/nmpa/td/product-summary' },
+                  { text: 'Ch.3: Non-Clinical Data', link: '/en/nmpa/td/non-clinical' },
+                  { text: 'Ch.4: Clinical Evaluation', link: '/en/nmpa/td/clinical-evaluation' },
+                  { text: 'Ch.5: IFU & Labels', link: '/en/nmpa/td/ifu-labels' },
+                  { text: 'Ch.6: QMS Documentation', link: '/en/nmpa/td/qms' },
+                ],
+              },
               { text: 'Regulations', link: '/en/nmpa/regulations' },
               {
                 text: 'GB/YY Standards (2,100)', link: '/en/nmpa/standards',
