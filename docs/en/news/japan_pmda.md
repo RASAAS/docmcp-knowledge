@@ -6,6 +6,102 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### PMDA Publishes Report on ASEAN-Japan Medical Devices Regulatory Symposium 2026
+
+**2026-07-29** | Japan PMDA | Regulation Update | ! LOW
+
+The PMDA has released the report of the ASEAN-Japan Medical Devices Regulatory Symposium 2026, covering discussions on regulatory harmonization, quality management systems, and post-market surveillance between Japan and ASEAN states. The report offers insights for manufacturers and regulatory professionals active in both regions, though it does not introduce new requirements. It may guide future regulatory alignment and cooperation.
+
+**Tags**: `asean`, `japan`, `regulatory_symposium`, `report`, `medical_devices`
+
+[View Source (PMDA (Japan))](https://www.pmda.go.jp/english/symposia/0361.html)
+
+---
+
+### ASEAN-Japan Medical Devices Regulatory Seminar 2026 Announced
+
+**2026-07-29** | Japan PMDA | Regulation Update | ! LOW
+
+PMDA has announced the ASEAN-Japan Medical Devices Regulatory Seminar scheduled for 2026. This event will cover regulatory harmonization and updates between Japan and ASEAN countries. Medical device manufacturers seeking market access in these regions should note this upcoming opportunity for regulatory insights. No specific date or registration details are provided yet.
+
+**Tags**: `asean`, `japan`, `regulatory_seminar`, `medical_devices`, `pmda`
+
+[View Source (PMDA (Japan))](https://www.pmda.go.jp/english/symposia/0359.html)
+
+---
+
+### PMDA Class II Recall: Denver Splint (External Nasal Splint) by Meiyu Co., Ltd.
+
+**2026-07-28** | Japan PMDA | Safety Communication | !! MEDIUM
+
+The PMDA has issued a Class II recall (No. 2-12911) for the Denver Splint, an external nasal splint manufactured by Meiyu Co., Ltd. The recall addresses a potential quality or safety defect that may affect device performance. Healthcare providers and distributors should immediately quarantine impacted units and follow the manufacturer's return or disposal procedures.
+
+**Tags**: `class_ii_recall`, `nasal_splint`, `denver_splint`, `pmda`, `meiyu`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12911)
+
+---
+
+### [Class II Recall] Level 1 Hotline Warming Tube (Blood/Fluid Warming Coil) - ICU Medical Japan K.K.
+
+**2026-07-28** | Japan PMDA | Safety Communication | !! MEDIUM
+
+The PMDA announced a Class II recall (Recall #2-12910) for the Level 1 Hotline Warming Tube, a blood and fluid warming coil manufactured by ICU Medical Japan K.K. The recall is due to a potential quality defect that may affect device safety. Affected healthcare facilities should immediately identify, quarantine, and return the affected units in accordance with the manufacturer's recall instructions.
+
+**Tags**: `class_ii_recall`, `blood_fluid_warmer`, `icu_medical_japan`, `pmda`, `safety_recall`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12910)
+
+---
+
+### PMDA Class II Recall: PTA Balloon Catheter II by Firmec Co., Ltd. (Recall No. 2-12909)
+
+**2026-07-28** | Japan PMDA | Safety Communication | !! MEDIUM
+
+The Japanese PMDA has issued a Class II recall for the PTA Balloon Catheter II, a balloon dilatation catheter for percutaneous transluminal angioplasty, manufactured by Firmec Co., Ltd. The recall (No. 2-12909) is due to a potential issue that may affect device performance, such as balloon deflation or rupture. Healthcare facilities are advised to identify and quarantine affected lots, and follow the manufacturer's recall instructions.
+
+**Tags**: `pmda`, `class_ii_recall`, `pta_balloon_catheter`, `firmec`, `medical_device`, `japan`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12909)
+
+---
+
+### Class II Recall: Philips Japan Fetal Monitor FM (分娩監視装置 FM) – Potential Malfunction in Fetal Heart Rate Tracing
+
+**2026-07-27** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Philips Japan is conducting a Class II recall of its Fetal Monitor FM (分娩監視装置 FM) due to a potential malfunction that may affect the accuracy of fetal heart rate tracing. This issue could lead to misinterpretation of fetal well-being and delayed clinical intervention. Affected healthcare facilities should immediately follow the manufacturer’s recall instructions, which include device inspection and correction by Philips service personnel.
+
+**Tags**: `class_ii_recall`, `fetal_monitor`, `philips_japan`, `pmda`, `medical_device_safety`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12908)
+
+---
+
+### Class II Recall: Meira Compression Hip Screw (Internal Fixation Plate) by Meira Corporation
+
+**2026-07-23** | Japan PMDA | Safety Communication | !! MEDIUM
+
+The Japanese PMDA has issued a Class II recall (No. 2-12907) for the Meira Compression Hip Screw, an internal fixation device manufactured by Meira Corporation. The specific safety issue prompting this recall has not been publicly detailed, but the classification indicates a moderate risk where the product may cause temporary or medically reversible health consequences. Healthcare facilities should immediately identify affected inventory, quarantine the devices, and follow the manufacturer’s recall instructions for return or disposal.
+
+**Tags**: `pmda`, `recall`, `class_ii`, `orthopedic_device`, `hip_screw`, `meira`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12907)
+
+---
+
+### Class II Recall: Gunze Medical Cranio Fixation System SHINOBI (Internal Fixation Plate)
+
+**2026-07-23** | Japan PMDA | Safety Communication | !! MEDIUM
+
+The Japanese PMDA has issued a Class II recall (No. 2-12906) for the Cranio Fixation System SHINOBI, an internal fixation plate manufactured by Gunze Medical Co., Ltd. This moderate-risk recall addresses a safety issue that could affect device performance. Healthcare facilities should quarantine affected products, stop using them immediately, and follow the manufacturer’s return or disposal instructions.
+
+**Tags**: `japan_pmda`, `class_ii_recall`, `cranio_fixation_plate`, `gunze_medical`, `shinobi`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12906)
+
+---
+
 ### Class II Recall: Shimadzu LIGHTVISION and LIGHTVISION2 Near-Infrared Camera Systems (Portable Surgical Microscope & ICG Fluorescence Device)
 
 **2026-07-21** | Japan PMDA | Safety Communication | !! MEDIUM

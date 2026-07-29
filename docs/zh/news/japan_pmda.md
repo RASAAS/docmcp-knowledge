@@ -6,6 +6,102 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### PMDA发布2026年东盟-日本医疗器械监管研讨会报告
+
+**2026-07-29** | Japan PMDA | 法规更新 | ! LOW
+
+PMDA发布了2026年东盟-日本医疗器械监管研讨会报告，内容涵盖日本与东盟成员国在法规协调、质量管理体系和上市后监管等方面的讨论。报告为活跃于两地的制造商和法规事务人员提供了见解，虽未提出新的法规要求，但可能为未来的监管协作与趋同提供参考。
+
+**标签**: `asean`, `japan`, `regulatory_symposium`, `report`, `medical_devices`
+
+[查看来源 (PMDA (Japan))](https://www.pmda.go.jp/english/symposia/0361.html)
+
+---
+
+### 2026年东盟-日本医疗器械法规研讨会通知
+
+**2026-07-29** | Japan PMDA | 法规更新 | ! LOW
+
+PMDA已宣布将于2026年举办东盟-日本医疗器械法规研讨会。此次活动将涵盖日本与东盟国家之间的法规协调与更新。寻求进入这些市场的医疗器械制造商应留意这一获取法规见解的机会。目前尚未提供具体日期或注册细节。
+
+**标签**: `asean`, `japan`, `regulatory_seminar`, `medical_devices`, `pmda`
+
+[查看来源 (PMDA (Japan))](https://www.pmda.go.jp/english/symposia/0359.html)
+
+---
+
+### 日本PMDA II级召回：名优公司Denver鼻夹板（体外式鼻用副木）
+
+**2026-07-28** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本药品医疗器械综合机构（PMDA）对名优公司生产的Denver鼻夹板（体外式鼻用副木）发布了II级召回（召回编号：2-12911）。该召回涉及可能影响器械性能的质量或安全缺陷。医疗机构和经销商应立即隔离受影响批次，并按照制造商要求进行退货或处置。
+
+**标签**: `class_ii_recall`, `nasal_splint`, `denver_splint`, `pmda`, `meiyu`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12911)
+
+---
+
+### ICU Medical日本 Level 1 Hotline加温管（血液/输液加温线圈）II级召回
+
+**2026-07-28** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA发布II级召回（编号2-12910），涉及ICU Medical日本株式会社生产的Level 1 Hotline加温管（血液及药液加温线圈）。召回原因为产品存在潜在质量缺陷，可能影响使用安全性。使用该产品的医疗机构应立即停止使用受影响批次，隔离并按厂商通知退回。
+
+**标签**: `class_ii_recall`, `blood_fluid_warmer`, `icu_medical_japan`, `pmda`, `safety_recall`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12910)
+
+---
+
+### PMDA II级召回：Firmec公司PTA球囊导管II（召回编号2-12909）
+
+**2026-07-28** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA已发布II级召回，涉及Firmec公司生产的PTA球囊导管II（用于经皮腔内血管成形术的球囊扩张导管）。召回编号2-12909，原因是可能存在影响器械性能的问题，如球囊漏气或破裂。医疗机构应识别并隔离受影响批次，并遵循制造商的召回指示。
+
+**标签**: `pmda`, `class_ii_recall`, `pta_balloon_catheter`, `firmec`, `medical_device`, `japan`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12909)
+
+---
+
+### II类召回：飞利浦日本分娩监视装置FM – 胎心波形潜在功能故障
+
+**2026-07-27** | Japan PMDA | 安全通报 | !! MEDIUM
+
+飞利浦日本正在对分娩监视装置 FM 实施一项II类召回，原因为该设备存在潜在功能故障，可能影响胎心波形的准确性。该问题可能导致对胎儿状况的误判和临床干预延迟。相关医疗机构应立即遵循制造商的召回指示，由飞利浦服务人员进行设备检查和纠正。
+
+**标签**: `class_ii_recall`, `fetal_monitor`, `philips_japan`, `pmda`, `medical_device_safety`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12908)
+
+---
+
+### II类召回：メイラ加压髋螺钉（内固定加压髋钢板）—梅拉公司
+
+**2026-07-23** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA发布了对梅拉公司（メイラ株式会社）生产的II类召回（编号2-12907），涉及「メイラコンプレッションヒップスクリュー」（内固定用加压髋螺钉）。召回具体安全问题未详细披露，但II类意味着可能导致暂时的或医学上可逆的健康危害。各医疗机构应立即清查受影响产品，停止使用，并按照制造商指示进行退货或处置。
+
+**标签**: `pmda`, `recall`, `class_ii`, `orthopedic_device`, `hip_screw`, `meira`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12907)
+
+---
+
+### Gunze Medical 颅骨固定系统SHINOBI（体内固定板）II类召回
+
+**2026-07-23** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA发布了对Gunze Medical株式会社生产的颅骨固定系统SHINOBI（体内固定板）的II类召回（编号2-12906）。此次召回涉及可能影响器械性能的安全问题，属于中等风险。医疗机构应立即隔离受影响批次，停止使用，并遵循制造商的退货或处置指示。
+
+**标签**: `japan_pmda`, `class_ii_recall`, `cranio_fixation_plate`, `gunze_medical`, `shinobi`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12906)
+
+---
+
 ### II级召回：岛津制作所LIGHTVISION及LIGHTVISION2近红外光摄像系统（便携式手术显微镜与ICG荧光观察装置）
 
 **2026-07-21** | Japan PMDA | 安全通报 | !! MEDIUM

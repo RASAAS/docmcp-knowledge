@@ -1,7 +1,225 @@
 {
   "framework": "japan_pmda",
-  "last_updated": "2026-07-22T20:14:09Z",
+  "last_updated": "2026-07-29T20:13:05Z",
   "items": [
+    {
+      "id": "japan_pmda_20260729_pmda_publishes_report_on_asean_japan_medical_devices_regulat",
+      "framework": "japan_pmda",
+      "category": "regulation_update",
+      "title": {
+        "en": "PMDA Publishes Report on ASEAN-Japan Medical Devices Regulatory Symposium 2026",
+        "zh": "PMDA发布2026年东盟-日本医疗器械监管研讨会报告"
+      },
+      "summary": {
+        "en": "The PMDA has released the report of the ASEAN-Japan Medical Devices Regulatory Symposium 2026, covering discussions on regulatory harmonization, quality management systems, and post-market surveillance between Japan and ASEAN states. The report offers insights for manufacturers and regulatory professionals active in both regions, though it does not introduce new requirements. It may guide future regulatory alignment and cooperation.",
+        "zh": "PMDA发布了2026年东盟-日本医疗器械监管研讨会报告，内容涵盖日本与东盟成员国在法规协调、质量管理体系和上市后监管等方面的讨论。报告为活跃于两地的制造商和法规事务人员提供了见解，虽未提出新的法规要求，但可能为未来的监管协作与趋同提供参考。"
+      },
+      "source_url": "https://www.pmda.go.jp/english/symposia/0361.html",
+      "source_name": "PMDA (Japan)",
+      "published_date": "2026-07-29",
+      "detected_date": "2026-07-29T20:11:05Z",
+      "importance": "low",
+      "tags": [
+        "asean",
+        "japan",
+        "regulatory_symposium",
+        "report",
+        "medical_devices"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "japan_pmda_20260729_asean_japan_medical_devices_regulatory_seminar_2026_announce",
+      "framework": "japan_pmda",
+      "category": "regulation_update",
+      "title": {
+        "en": "ASEAN-Japan Medical Devices Regulatory Seminar 2026 Announced",
+        "zh": "2026年东盟-日本医疗器械法规研讨会通知"
+      },
+      "summary": {
+        "en": "PMDA has announced the ASEAN-Japan Medical Devices Regulatory Seminar scheduled for 2026. This event will cover regulatory harmonization and updates between Japan and ASEAN countries. Medical device manufacturers seeking market access in these regions should note this upcoming opportunity for regulatory insights. No specific date or registration details are provided yet.",
+        "zh": "PMDA已宣布将于2026年举办东盟-日本医疗器械法规研讨会。此次活动将涵盖日本与东盟国家之间的法规协调与更新。寻求进入这些市场的医疗器械制造商应留意这一获取法规见解的机会。目前尚未提供具体日期或注册细节。"
+      },
+      "source_url": "https://www.pmda.go.jp/english/symposia/0359.html",
+      "source_name": "PMDA (Japan)",
+      "published_date": "2026-07-29",
+      "detected_date": "2026-07-29T20:11:15Z",
+      "importance": "low",
+      "tags": [
+        "asean",
+        "japan",
+        "regulatory_seminar",
+        "medical_devices",
+        "pmda"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "japan_pmda_20260729_pmda_class_ii_recall_denver_splint_external_nasal_splint_by",
+      "framework": "japan_pmda",
+      "category": "safety_communication",
+      "title": {
+        "en": "PMDA Class II Recall: Denver Splint (External Nasal Splint) by Meiyu Co., Ltd.",
+        "zh": "日本PMDA II级召回：名优公司Denver鼻夹板（体外式鼻用副木）"
+      },
+      "summary": {
+        "en": "The PMDA has issued a Class II recall (No. 2-12911) for the Denver Splint, an external nasal splint manufactured by Meiyu Co., Ltd. The recall addresses a potential quality or safety defect that may affect device performance. Healthcare providers and distributors should immediately quarantine impacted units and follow the manufacturer's return or disposal procedures.",
+        "zh": "日本药品医疗器械综合机构（PMDA）对名优公司生产的Denver鼻夹板（体外式鼻用副木）发布了II级召回（召回编号：2-12911）。该召回涉及可能影响器械性能的质量或安全缺陷。医疗机构和经销商应立即隔离受影响批次，并按照制造商要求进行退货或处置。"
+      },
+      "source_url": "https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12911",
+      "source_name": "PMDA (Japan)",
+      "published_date": "2026-07-28",
+      "detected_date": "2026-07-29T20:11:26Z",
+      "importance": "medium",
+      "tags": [
+        "class_ii_recall",
+        "nasal_splint",
+        "denver_splint",
+        "pmda",
+        "meiyu"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "japan_pmda_20260729_class_ii_recall_level_1_hotline_warming_tube_blood_fluid_wa",
+      "framework": "japan_pmda",
+      "category": "safety_communication",
+      "title": {
+        "en": "[Class II Recall] Level 1 Hotline Warming Tube (Blood/Fluid Warming Coil) - ICU Medical Japan K.K.",
+        "zh": "ICU Medical日本 Level 1 Hotline加温管（血液/输液加温线圈）II级召回"
+      },
+      "summary": {
+        "en": "The PMDA announced a Class II recall (Recall #2-12910) for the Level 1 Hotline Warming Tube, a blood and fluid warming coil manufactured by ICU Medical Japan K.K. The recall is due to a potential quality defect that may affect device safety. Affected healthcare facilities should immediately identify, quarantine, and return the affected units in accordance with the manufacturer's recall instructions.",
+        "zh": "日本PMDA发布II级召回（编号2-12910），涉及ICU Medical日本株式会社生产的Level 1 Hotline加温管（血液及药液加温线圈）。召回原因为产品存在潜在质量缺陷，可能影响使用安全性。使用该产品的医疗机构应立即停止使用受影响批次，隔离并按厂商通知退回。"
+      },
+      "source_url": "https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12910",
+      "source_name": "PMDA (Japan)",
+      "published_date": "2026-07-28",
+      "detected_date": "2026-07-29T20:11:51Z",
+      "importance": "medium",
+      "tags": [
+        "class_ii_recall",
+        "blood_fluid_warmer",
+        "icu_medical_japan",
+        "pmda",
+        "safety_recall"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "japan_pmda_20260729_pmda_class_ii_recall_pta_balloon_catheter_ii_by_firmec_co_lt",
+      "framework": "japan_pmda",
+      "category": "safety_communication",
+      "title": {
+        "en": "PMDA Class II Recall: PTA Balloon Catheter II by Firmec Co., Ltd. (Recall No. 2-12909)",
+        "zh": "PMDA II级召回：Firmec公司PTA球囊导管II（召回编号2-12909）"
+      },
+      "summary": {
+        "en": "The Japanese PMDA has issued a Class II recall for the PTA Balloon Catheter II, a balloon dilatation catheter for percutaneous transluminal angioplasty, manufactured by Firmec Co., Ltd. The recall (No. 2-12909) is due to a potential issue that may affect device performance, such as balloon deflation or rupture. Healthcare facilities are advised to identify and quarantine affected lots, and follow the manufacturer's recall instructions.",
+        "zh": "日本PMDA已发布II级召回，涉及Firmec公司生产的PTA球囊导管II（用于经皮腔内血管成形术的球囊扩张导管）。召回编号2-12909，原因是可能存在影响器械性能的问题，如球囊漏气或破裂。医疗机构应识别并隔离受影响批次，并遵循制造商的召回指示。"
+      },
+      "source_url": "https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12909",
+      "source_name": "PMDA (Japan)",
+      "published_date": "2026-07-28",
+      "detected_date": "2026-07-29T20:12:15Z",
+      "importance": "medium",
+      "tags": [
+        "pmda",
+        "class_ii_recall",
+        "pta_balloon_catheter",
+        "firmec",
+        "medical_device",
+        "japan"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "japan_pmda_20260729_class_ii_recall_philips_japan_fetal_monitor_fm_fm_potential",
+      "framework": "japan_pmda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Class II Recall: Philips Japan Fetal Monitor FM (分娩監視装置 FM) – Potential Malfunction in Fetal Heart Rate Tracing",
+        "zh": "II类召回：飞利浦日本分娩监视装置FM – 胎心波形潜在功能故障"
+      },
+      "summary": {
+        "en": "Philips Japan is conducting a Class II recall of its Fetal Monitor FM (分娩監視装置 FM) due to a potential malfunction that may affect the accuracy of fetal heart rate tracing. This issue could lead to misinterpretation of fetal well-being and delayed clinical intervention. Affected healthcare facilities should immediately follow the manufacturer’s recall instructions, which include device inspection and correction by Philips service personnel.",
+        "zh": "飞利浦日本正在对分娩监视装置 FM 实施一项II类召回，原因为该设备存在潜在功能故障，可能影响胎心波形的准确性。该问题可能导致对胎儿状况的误判和临床干预延迟。相关医疗机构应立即遵循制造商的召回指示，由飞利浦服务人员进行设备检查和纠正。"
+      },
+      "source_url": "https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12908",
+      "source_name": "PMDA (Japan)",
+      "published_date": "2026-07-27",
+      "detected_date": "2026-07-29T20:12:35Z",
+      "importance": "medium",
+      "tags": [
+        "class_ii_recall",
+        "fetal_monitor",
+        "philips_japan",
+        "pmda",
+        "medical_device_safety"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "japan_pmda_20260729_class_ii_recall_meira_compression_hip_screw_internal_fixatio",
+      "framework": "japan_pmda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Class II Recall: Meira Compression Hip Screw (Internal Fixation Plate) by Meira Corporation",
+        "zh": "II类召回：メイラ加压髋螺钉（内固定加压髋钢板）—梅拉公司"
+      },
+      "summary": {
+        "en": "The Japanese PMDA has issued a Class II recall (No. 2-12907) for the Meira Compression Hip Screw, an internal fixation device manufactured by Meira Corporation. The specific safety issue prompting this recall has not been publicly detailed, but the classification indicates a moderate risk where the product may cause temporary or medically reversible health consequences. Healthcare facilities should immediately identify affected inventory, quarantine the devices, and follow the manufacturer’s recall instructions for return or disposal.",
+        "zh": "日本PMDA发布了对梅拉公司（メイラ株式会社）生产的II类召回（编号2-12907），涉及「メイラコンプレッションヒップスクリュー」（内固定用加压髋螺钉）。召回具体安全问题未详细披露，但II类意味着可能导致暂时的或医学上可逆的健康危害。各医疗机构应立即清查受影响产品，停止使用，并按照制造商指示进行退货或处置。"
+      },
+      "source_url": "https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12907",
+      "source_name": "PMDA (Japan)",
+      "published_date": "2026-07-23",
+      "detected_date": "2026-07-29T20:12:49Z",
+      "importance": "medium",
+      "tags": [
+        "pmda",
+        "recall",
+        "class_ii",
+        "orthopedic_device",
+        "hip_screw",
+        "meira"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "japan_pmda_20260729_class_ii_recall_gunze_medical_cranio_fixation_system_shinobi",
+      "framework": "japan_pmda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Class II Recall: Gunze Medical Cranio Fixation System SHINOBI (Internal Fixation Plate)",
+        "zh": "Gunze Medical 颅骨固定系统SHINOBI（体内固定板）II类召回"
+      },
+      "summary": {
+        "en": "The Japanese PMDA has issued a Class II recall (No. 2-12906) for the Cranio Fixation System SHINOBI, an internal fixation plate manufactured by Gunze Medical Co., Ltd. This moderate-risk recall addresses a safety issue that could affect device performance. Healthcare facilities should quarantine affected products, stop using them immediately, and follow the manufacturer’s return or disposal instructions.",
+        "zh": "日本PMDA发布了对Gunze Medical株式会社生产的颅骨固定系统SHINOBI（体内固定板）的II类召回（编号2-12906）。此次召回涉及可能影响器械性能的安全问题，属于中等风险。医疗机构应立即隔离受影响批次，停止使用，并遵循制造商的退货或处置指示。"
+      },
+      "source_url": "https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12906",
+      "source_name": "PMDA (Japan)",
+      "published_date": "2026-07-23",
+      "detected_date": "2026-07-29T20:13:05Z",
+      "importance": "medium",
+      "tags": [
+        "japan_pmda",
+        "class_ii_recall",
+        "cranio_fixation_plate",
+        "gunze_medical",
+        "shinobi"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
     {
       "id": "japan_pmda_20260722_class_ii_recall_shimadzu_lightvision_and_lightvision2_near_i",
       "framework": "japan_pmda",
