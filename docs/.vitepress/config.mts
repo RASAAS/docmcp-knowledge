@@ -8,6 +8,7 @@ const zhSidebar = Object.assign(
   {
     '/zh/eu_mdr/': [
       { text: 'EU MDR 概述', link: '/zh/eu_mdr/' },
+      { text: '认证时限', link: '/zh/eu_mdr/certification-timeline' },
       {
         text: '技术文件 (BPG Rev.4)', link: '/zh/eu_mdr/td/',
         collapsed: true,
@@ -154,6 +155,7 @@ const zhSidebar = Object.assign(
     ],
     '/zh/fda/': [
       { text: 'FDA 概述', link: '/zh/fda/' },
+      { text: '510(k) 审批时限', link: '/zh/fda/510k-timeline' },
       {
         text: '510(k) 提交 (eSTAR)', link: '/zh/fda/td/',
         collapsed: true,
@@ -175,6 +177,7 @@ const zhSidebar = Object.assign(
     ],
     '/zh/nmpa/': [
       { text: 'NMPA 概述', link: '/zh/nmpa/' },
+      { text: '注册审批时限', link: '/zh/nmpa/registration-timeline' },
       {
         text: '注册申报资料', link: '/zh/nmpa/td/',
         collapsed: true,
