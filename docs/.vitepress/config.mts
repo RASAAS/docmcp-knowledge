@@ -469,9 +469,11 @@ export default defineConfig({
                 ],
               },
               { text: 'TEAM-NB Position Papers', link: '/en/eu_mdr/team_nb' },
+              { text: 'Certification Timeline', link: '/en/eu_mdr/certification-timeline' },
             ],
             '/en/fda/': [
               { text: 'FDA Overview', link: '/en/fda/' },
+              { text: '510(k) Review Timeline', link: '/en/fda/510k-timeline' },
               {
                 text: '510(k) Submission (eSTAR)', link: '/en/fda/td/',
                 collapsed: true,
@@ -514,6 +516,7 @@ export default defineConfig({
                   { text: 'Professional Technical (1,872)', link: '/en/nmpa/standards/professional' },
                 ],
               },
+              { text: 'Registration Timeline', link: '/en/nmpa/registration-timeline' },
               { text: 'Guidance Principles', link: '/en/nmpa/guidance' },
               {
                 text: 'Classification (1,142)', link: '/en/nmpa/classification',
