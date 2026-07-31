@@ -6,6 +6,234 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### HSA更新GN-21 R7版注册医疗器械变更通知指导（2026年7月生效）
+
+**2026-08-01** | Singapore HSA | 法规更新 | !! MEDIUM
+
+新加坡卫生科学局发布GN-21指导文件第7版，明确注册医疗器械变更通知的要求。新指南将于2026年7月31日生效，适用于所有注册人。企业应据此修订内部变更评估流程，确保及时、准确地申报可报告变更以维持注册合规。
+
+**标签**: `change_notification`, `guidance_document`, `medical_devices`, `HSA`, `Singapore`
+
+[查看来源 (Official Source)](https://go.gov.sg/gn-21-r7-31-07-2026)
+
+---
+
+### 瑞士药监局：Medline抽吸罐软衬套件中MED-STOP装置GMDN代码更正通知
+
+**2026-07-31** | Swissmedic | 安全通报 | !! MEDIUM
+
+本次瑞士药品监督管理局（Swissmedic）现场安全纠正措施涉及Medline Industries LP生产的Soft Liner抽吸罐软衬套件（型号OR53916、OR53926、OR53929、OR54916、OR54926）中所含的MED-STOP装置。纠正原因为全球医疗器械命名体系（GMDN）代码最初被分配给套件而非MED-STOP组件，可能导致识别错误。Medline正在更新该GMDN代码，用户应确认自身记录与更新后的命名一致。
+
+**标签**: `swissmedic`, `fsca`, `gmdn`, `suction_canister`, `medline`, `labeling_correction`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260729_042)
+
+---
+
+### 瑞士Swissmedic发布迈瑞BeneHeart D1自动体外除颤器现场安全纠正措施
+
+**2026-07-31** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士药品监督管理局（Swissmedic）已发布由深圳迈瑞生物医疗电子股份有限公司生产的BeneHeart D1自动体外除颤器的现场安全纠正措施（FSCA）。简短通知中未详述具体纠正原因，该设备归类为生理监测除颤系统。涉事型号为BeneHeart D1。医疗机构和用户应立即遵循制造商提供的纠正措施说明，并关注Swissmedic官方通知以获取更多信息。
+
+**标签**: `swissmedic`, `fsca`, `defibrillator`, `mindray`, `recall`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260727_033)
+
+---
+
+### 瑞士medic发布迈瑞iPM病人监护仪FSCA（型号5/6/7/8/10/12/9800）
+
+**2026-07-31** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士药品监督管理局对深圳迈瑞生物医疗电子股份有限公司的iPM系列病人监护仪发布现场安全纠正措施。受影响型号为5、6、7、8、10、12、9800，涉及设备安全问题。用户需依据制造商提供的纠正措施减少风险。
+
+**标签**: `swissmedic`, `fsca`, `patient_monitor`, `mindray`, `product_correction`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260727_033)
+
+---
+
+### Swissmedic发布迈瑞遥测监护仪TMS40/TMS-6016/TM80现场安全纠正措施
+
+**2026-07-31** | Swissmedic | 安全通报 | !! MEDIUM
+
+Swissmedic已发布针对迈瑞通用多参数遥测监护仪TMS40、TMS-6016和TM80型号的现场安全纠正措施（FSCA）。警报中未详细说明采取措施的具体原因，但相关机构应排查所涉型号设备，并按照迈瑞的指示采取行动。请确认设备合规性并实施必要纠正措施，以确保患者安全。
+
+**标签**: `telemetry_monitor`, `mindray`, `fsca`, `swissmedic`, `field_safety_corrective_action`, `medical_device`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260727_033)
+
+---
+
+### Swissmedic对迈瑞uMEC系列病人监护仪发布现场安全纠正措施
+
+**2026-07-31** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士药品监督管理局（Swissmedic）已对深圳迈瑞生物医疗电子股份有限公司生产的uMEC系列床边多参数病人监护仪发布现场安全纠正措施（FSCA）。该措施涉及一项可能影响设备性能的潜在安全风险（具体原因未在通告摘要中披露）。受影响型号包括uMEC 6、7、10、12、15、15S、30、60、70、80、100、120和150。医疗机构应立即遵循FSCA通知中的制造商指示，并联系迈瑞公司以采取必要的纠正步骤。
+
+**标签**: `swissmedic`, `fsca`, `patient_monitor`, `mindray`, `safety_alert`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260727_033)
+
+---
+
+### 瑞士药监局发布iMEC系列病人监护仪现场安全纠正措施，原因未披露
+
+**2026-07-31** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士药监局（Swissmedic）针对深圳迈瑞生物医疗电子股份有限公司生产的iMEC系列多参数床边监护仪发布了现场安全纠正措施（FSCA）。通知中未披露此次纠正措施的具体原因、受影响型号或批次。使用该设备的医疗机构应关注官方后续信息，并遵循制造商的指示。
+
+**标签**: `fsca`, `swissmedic`, `patient_monitor`, `mindray`, `safety_corrective_action`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260727_033)
+
+---
+
+### 瑞士Swissmedic发布迈瑞BeneHeart除颤监护仪（D20/D30/D50/D60等型号）现场安全纠正措施
+
+**2026-07-31** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士Swissmedic发布针对深圳迈瑞BeneHeart除颤监护系统的现场安全纠正措施。受影响型号包括D20、D20A、D20C、D30、D50、D50A、D50C、D60、DX、DM、D2、D3、D5、D6。制造商正在执行纠正，用户应查阅FSCA通知获取具体措施。通知中未披露详细纠正原因。
+
+**标签**: `switzerland`, `fsca`, `defibrillator`, `mindray`, `field_safety_corrective_action`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260727_033)
+
+---
+
+### 瑞士药品监督管理局发布迈瑞 BeneView T 系列病人监护仪（型号 T1/T5/T5S/T5 OR/T6/T8/T9/T9 OR）现场安全纠正措施
+
+**2026-07-31** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士药品监督管理局（Swissmedic）针对深圳迈瑞生物医疗电子股份有限公司生产的 BeneView T 系列多参数床边监护仪发布了现场安全纠正措施（FSCA）。受影响型号包括 T1、T5、T5S、T5 OR、T6、T8、T9 及 T9 OR。尽管公告未披露具体安全原因，但相关医疗机构应立即联系迈瑞或其当地代表，执行建议的纠正措施，可能涉及检查、软件升级或部件更换。
+
+**标签**: `swissmedic`, `fsca`, `patient_monitor`, `mindray`, `safety_corrective_action`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260727_033)
+
+---
+
+### 瑞士药监局对迈瑞Benevision V系列病人监护仪发布现场安全纠正措施
+
+**2026-07-31** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士药品监管局（Swissmedic）对深圳迈瑞生物医疗电子股份有限公司生产的Benevision V系列病人监护仪发布了现场安全纠正措施（FSCA）。该通告（编号Vk_20260727_033）涉及通用多参数床边监护仪，但未在初始警报中提及具体原因及受影响型号/批次。用户应查阅Swissmedic网站完整公告，确认受影响设备并采取建议的纠正措施。
+
+**标签**: `swissmedic`, `fsca`, `patient_monitor`, `mindray`, `safety_corrective_action`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260727_033)
+
+---
+
+### 瑞士Swissmedic发布迈瑞Benevision N1病人监护仪现场安全纠正措施
+
+**2026-07-31** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士药品监督管理局（Swissmedic）已就迈瑞Benevision N1通用多参数床边监护仪发布现场安全纠正措施（FSCA）。通知未说明具体原因及受影响的型号，但通常涉及安全相关修正。使用该设备的医疗机构应查阅Swissmedic平台上的完整FSCA并遵循制造商指示。
+
+**标签**: `fsca`, `swissmedic`, `patient_monitor`, `mindray`, `safety_corrective_action`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260727_033)
+
+---
+
+### 沙特食药监局2026年Q2查获301吨不合规食品
+
+**2026-07-31** | Saudi SFDA | 法规更新 | !! MEDIUM
+
+沙特食品药品监督管理局在2026年第二季度查获301吨以上不合规食品，彰显其加强执法与数字化监管的趋势。此举直接针对食品进口商和分销商，但医疗器械监管事务人员应关注SFDA正广泛采用数字工具进行市场监督，预示着对所有受监管行业合规要求的不断提高。
+
+**标签**: `sfda_enforcement`, `food_safety_interception`, `digital_transformation`, `saudi_market_surveillance`
+
+[查看来源 (FDA)](https://www.sfda.gov.sa/en/news/5522060)
+
+---
+
+### 沙特食药监局局长实地视察麦加和东部地区朝觐准备工作
+
+**2026-07-31** | Saudi SFDA | 法规更新 | ! LOW
+
+沙特食品药品监管局（SFDA）首席执行官对麦加和东部省的多处设施进行了实地视察，核验该机构对即将到来的朝觐季节的准备情况。此次巡视重点确保食品、药品及医疗器械相关监管和技术服务已全面就绪，保障朝觐者安全。行业虽无需即刻采取行动，但为朝觐供应产品的企业应预期将面临更严格的监督与合规检查。
+
+**标签**: `hajj`, `sfda_inspection`, `regulatory_readiness`
+
+[查看来源 (FDA)](https://www.sfda.gov.sa/ar/news/5521875)
+
+---
+
+### 沙特食药局：2025年药品和化妆品许可工厂及仓库数量增长18%
+
+**2026-07-31** | Saudi SFDA | 法规更新 | !! MEDIUM
+
+沙特食品药品监督管理局（SFDA）宣布，2025年获得许可的药品和化妆品工厂及仓库数量增长了18%，这归因于数字化转型及'沙特绿卡'许可平台的应用。这一增长体现了监管现代化成效，相关领域的制造商和仓储运营商应持续通过在线系统确保其设施获得适当许可，以保持合规。
+
+**标签**: `sfda`, `digital_transformation`, `licensing`
+
+[查看来源 (FDA)](https://www.sfda.gov.sa/ar/news/5521559)
+
+---
+
+### 沙特SFDA批准先进生物技术医疗器械用于阿尔茨海默病早期检测
+
+**2026-07-31** | Saudi SFDA | 法规更新 | !! MEDIUM
+
+沙特食品药品监督管理局（SFDA）已授予一款采用先进生物技术实现阿尔茨海默病早期检测的医疗器械上市许可。该批准允许该设备在沙特阿拉伯上市和临床使用，涉及相关诊断器械制造商和医疗机构的合规和注册策略。这一授权是创新诊断技术审评路径的重要进展，值得法规事务人员关注。
+
+**标签**: `medical_device_approval`, `alzheimers_disease`, `biotechnology`
+
+[查看来源 (FDA)](https://www.sfda.gov.sa/ar/news/4447701)
+
+---
+
+### 沙特食药监局推动临床试验与基因治疗，引领药品安全数字化变革
+
+**2026-07-31** | Saudi SFDA | 法规更新 | !!! HIGH
+
+沙特食品药品监督管理局（SFDA）宣布推进临床试验和基因治疗的新举措，同时主导药品和化妆品安全监管的数字化转型。此举旨在加速创新疗法开发并加强监管监督。监管事务专业人员应关注即将更新的指南和数字平台要求。
+
+**标签**: `clinical_trials`, `gene_therapy`, `digital_transformation`
+
+[查看来源 (FDA)](https://www.sfda.gov.sa/ar/news/4050126)
+
+---
+
+### 沙特食药局拒绝批准一款可提前4年预测糖尿病的医疗软件，尽管已在欧洲多国销售
+
+**2026-07-31** | Saudi SFDA | 法规更新 | !! MEDIUM
+
+沙特食品药品管理局拒绝了一款声称可提前四年预测糖尿病的医疗软件上市申请，理由是该产品未满足沙特的监管要求。尽管该设备已在部分欧洲国家销售，沙特局方认为其提交的证据不足或不符合软件作为医疗器械的技术规范。这一决定提醒相关制造商，针对沙特市场的AI诊断类软件必须提供充分的临床验证并严格遵循沙特食品药品管理局的合规要求。
+
+**标签**: `software_as_medical_device`, `ai_diagnostics`, `marketing_rejection`, `diabetes_prediction`, `sfda`
+
+[查看来源 (FDA)](https://www.sfda.gov.sa/ar/news/3880273)
+
+---
+
+### SFDA批准新型脑刺激器械上市用于帕金森病治疗
+
+**2026-07-31** | Saudi SFDA | 法规更新 | !! MEDIUM
+
+沙特食品药品监督管理局（SFDA）批准了一款采用先进脑刺激技术治疗帕金森病的医疗器械上市。该批准使该设备得以在沙特销售，为患者提供了非药物治疗的新选择。制造商和分销商应关注此类创新神经刺激器械在沙特的法规路径，并确保持续符合SFDA的上市后要求。该器械可能属于高风险类别，需持续监督和报告。
+
+**标签**: `sfda`, `medical_device_approval`, `brain_stimulation`, `parkinsons_disease`
+
+[查看来源 (FDA)](https://www.sfda.gov.sa/ar/news/3861814)
+
+---
+
+### 瑞士Swissmedic发布Renishaw Mayfield neuromate立体定向系统FSCA（型号001.0050），具体原因未明
+
+**2026-07-30** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士药品监督管理局（Swissmedic）发布了一项针对Renishaw Mayfield SARL生产的neuromate神经立体定向手术系统的现场安全纠正措施（FSCA）。受影响型号为001.0050。该通知未说明采取纠正措施的具体原因，用户应关注制造商后续的操作指导。
+
+**标签**: `swissmedic`, `fsca`, `stereotactic_system`, `neurosurgery`, `renishaw_mayfield`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260722_030)
+
+---
+
 ### PMDA发布2026年东盟-日本医疗器械监管研讨会报告
 
 **2026-07-29** | Japan PMDA | 法规更新 | ! LOW
@@ -27,6 +255,28 @@ PMDA已宣布将于2026年举办东盟-日本医疗器械法规研讨会。此�
 **标签**: `asean`, `japan`, `regulatory_seminar`, `medical_devices`, `pmda`
 
 [查看来源 (PMDA (Japan))](https://www.pmda.go.jp/english/symposia/0359.html)
+
+---
+
+### GORE EXCLUDER Thoracoabdominal Branch Endoprosthesis - W L Gore & Associates Inc
+
+**2026-07-29** | Swissmedic | 安全通报 | !! MEDIUM
+
+FSCA: MD: Ptfe vascular endoprostheses, straight - other. Reason: . Model: all; all.
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260724_010)
+
+---
+
+### 瑞士medic警示：DH Healthcare公司ORBIS Medication 3.x软件存在用药错误风险
+
+**2026-07-29** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士药品管理局发布针对DH Healthcare GmbH生产的ORBIS Medication 3.x医疗设备软件的现场安全纠正措施。该纠正措施针对可能导致用药剂量显示或给药错误的潜在缺陷，对患者安全构成风险。受影响用户应立即核对用药医嘱，并应用制造商的更新以降低风险。
+
+**标签**: `software_recall`, `medication_error`, `swissmedic_fsca`, `field_safety_corrective_action`, `medical_device_software`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260724_014)
 
 ---
 
@@ -66,6 +316,18 @@ PMDA已宣布将于2026年举办东盟-日本医疗器械法规研讨会。此�
 
 ---
 
+### ConvaTec Esteem Body造口袋：瑞士药品监管局发布标签内容更正安全通告
+
+**2026-07-28** | Swissmedic | 安全通报 | !! MEDIUM
+
+ConvaTec 在瑞士对其 Esteem Body 单件式软凸面造口袋（单件式泌尿造口袋，开口）发布现场安全纠正措施。该纠正措施更新英文和德文版文档，修正英文版的分发日期，德文版中增加客服团队关于产品替代方案的信息并更正表格标题。受影响型号详见现场安全通告，用户应确保获取更正后的文档。此为中优先级的标签内容更正。
+
+**标签**: `swissmedic`, `fsca`, `labeling_correction`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260724_001)
+
+---
+
 ### II类召回：飞利浦日本分娩监视装置FM – 胎心波形潜在功能故障
 
 **2026-07-27** | Japan PMDA | 安全通报 | !! MEDIUM
@@ -75,6 +337,30 @@ PMDA已宣布将于2026年举办东盟-日本医疗器械法规研讨会。此�
 **标签**: `class_ii_recall`, `fetal_monitor`, `philips_japan`, `pmda`, `medical_device_safety`
 
 [查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12908)
+
+---
+
+### 瑞士Swissmedic发布Ethicon Gynecare TVT（型号TVTRL）失禁产品现场安全纠正措施
+
+**2026-07-27** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士Swissmedic针对Ethicon SARL生产的Gynecare TVT失禁装置发布了现场安全纠正措施（FSCA），受影响型号为TVTRL。通知中未详述具体纠正原因，但使用者应遵循制造商在FSCA中的指示，以确保患者安全。
+
+**标签**: `fsca`, `swissmedic`, `incontinence_device`, `ethicon`, `gynecare_tvt`, `field_safety_corrective_action`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260715_002)
+
+---
+
+### SFDA NCMDR 每周安全更新 WU2631（2026年7月26日）：医疗器械安全警示
+
+**2026-07-26** | Saudi SFDA | 安全通报 | !! MEDIUM
+
+沙特食品药品管理局（SFDA）国家医疗器械报告中心（NCMDR）于2026年7月26日发布每周更新摘要WU2631，汇总了近期的医疗器械安全警示、现场安全通告和召回行动。该报告列出了受影响的器械和制造商，并说明了沙特境内的医疗机构和供应商须采取的纠正措施。相关方应及时查阅完整报告并落实规定行动，以降低患者安全风险。
+
+**标签**: `safety_alert`, `weekly_update`, `saudi_sfda`, `ncmdr`, `field_safety_notice`
+
+[查看来源 (FDA)](https://www.sfda.gov.sa/sites/default/files/2026-07/%28WU2631%29%20NCMDR%20Weekly%20Update%2026%20July%202026.pdf)
 
 ---
 
@@ -851,6 +1137,18 @@ MHRA 发布了关于医疗器械在大不列颠和北爱尔兰市场上市前必
 **标签**: `recall`, `safety_alert`, `mri_system`
 
 [查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/philips-achieva-and-ingenia-systems)
+
+---
+
+### 沙特 SFDA NCMDR 发布第 WU2630 期每周安全更新（2026年7月19日）
+
+**2026-07-19** | Saudi SFDA | 安全通报 | !! MEDIUM
+
+沙特食品药品监督管理局（SFDA）国家医疗器械报告中心（NCMDR）发布了第 WU2630 期每周安全更新报告。该报告汇总了近期医疗器械安全警报、现场安全通知及不良事件报告，相关制造商和医疗机构应立即查阅报告，识别受影响的器械，并采取建议的纠正措施，以确保合规与患者安全。
+
+**标签**: `sfda`, `ncmdr`, `weekly_safety_update`, `medical_device_reporting`, `field_safety_notice`
+
+[查看来源 (FDA)](https://www.sfda.gov.sa/sites/default/files/2026-07/%28WU2630%29%20NCMDR%20Weekly%20Update%2019%20July%202026.pdf)
 
 ---
 
@@ -2494,6 +2792,18 @@ Abiomed公司主动召回7台Impella CP SmartAssist（第10代）心脏泵套装
 
 ---
 
+### HSA发布修订版GN-21-R7指南：已注册医疗器械的变更通知（2026年7月）
+
+**2026-07-01** | Singapore HSA | 法规更新 | !! MEDIUM
+
+新加坡卫生科学局（HSA）发布了关于已注册医疗器械变更通知要求的GN-21指南第7版修订稿，将于2026年7月生效。该更新影响所有需对已注册器械变更进行报告的医疗器械许可证持有者。企业须审查修订后的应通知变更标准，更新内部流程，并在生效日前确保合规，避免不合规问题。
+
+**标签**: `change_notification`, `hsa_guidance`, `medical_devices`, `singapore`, `post_market_compliance`
+
+[查看来源 (Official Source)](https://go.gov.sg/gn-21-r7-31-07-2026)
+
+---
+
 ### 欧盟委员会发布关于MDR下“成熟技术”医疗器械的授权法案
 
 **2026-06-30** | EU MDR/IVDR | 法规更新 | !!! HIGH
@@ -3301,6 +3611,18 @@ Zimmer Surgical, Inc. 针对 Zimmer 止血带系统型号 60500010100 和 603200
 **标签**: `swissmedic`, `fsca`, `zimmer_surgical`, `tourniquet_system`, `serial_number_update`
 
 [查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260115_28)
+
+---
+
+### 飞利浦Azurion系统现场安全通告新增语言版本
+
+**2025-12-30** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士Swissmedic发布了飞利浦医疗系统荷兰公司关于Azurion固定式血管造影X射线系统的现场安全纠正措施（FSCA）。此次纠正措施是为该系统现有现场安全通告（FSN V2）增加了新的语言版本，以提高分发覆盖率。本次通告不涉及产品缺陷或安全风险，受影响型号（722229–722236）的用户应注意更新通知的可用性。
+
+**标签**: `fsca`, `philips`, `angiographic_system`, `field_safety_notice`, `swissmedic`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20251209_34)
 
 ---
 

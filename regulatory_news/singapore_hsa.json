@@ -1,7 +1,34 @@
 {
   "framework": "singapore_hsa",
-  "last_updated": "2026-07-24T20:14:32Z",
+  "last_updated": "2026-07-31T20:25:50Z",
   "items": [
+    {
+      "id": "singapore_hsa_20260731_hsa_updates_gn_21_r7_change_notification_guidance_for_regist",
+      "framework": "singapore_hsa",
+      "category": "regulation_update",
+      "title": {
+        "en": "HSA Updates GN-21 R7 Change Notification Guidance for Registered Medical Devices (Effective Jul 2026)",
+        "zh": "HSA更新GN-21 R7版注册医疗器械变更通知指导（2026年7月生效）"
+      },
+      "summary": {
+        "en": "Singapore’s Health Sciences Authority (HSA) has issued revision 7 of Guidance Document GN-21 on change notification for registered medical devices. The updated guidance, effective 31 July 2026, clarifies when and how registrants must notify HSA of changes to their devices. Manufacturers and local representatives should review the revised criteria, update internal change management procedures, and ensure all post-market modifications are correctly reported to avoid non-compliance.",
+        "zh": "新加坡卫生科学局发布GN-21指导文件第7版，明确注册医疗器械变更通知的要求。新指南将于2026年7月31日生效，适用于所有注册人。企业应据此修订内部变更评估流程，确保及时、准确地申报可报告变更以维持注册合规。"
+      },
+      "source_url": "https://go.gov.sg/gn-21-r7-31-07-2026",
+      "source_name": "Official Source",
+      "published_date": "2026-08-01",
+      "detected_date": "2026-07-31T20:25:50Z",
+      "importance": "medium",
+      "tags": [
+        "change_notification",
+        "guidance_document",
+        "medical_devices",
+        "HSA",
+        "Singapore"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
     {
       "id": "singapore_hsa_20260724_hsa_alert_3_consumers_including_a_child_suffer_serious_adver",
       "framework": "singapore_hsa",
@@ -24,6 +51,33 @@
         "serious_adverse_events",
         "banned_medicinal_ingredients",
         "consumer_safety"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "singapore_hsa_20260731_hsa_updates_gn_21_r7_guidance_on_change_notification_for_reg",
+      "framework": "singapore_hsa",
+      "category": "regulation_update",
+      "title": {
+        "en": "HSA Updates GN-21-R7 Guidance on Change Notification for Registered Medical Devices (Jul 2026)",
+        "zh": "HSA发布修订版GN-21-R7指南：已注册医疗器械的变更通知（2026年7月）"
+      },
+      "summary": {
+        "en": "Singapore's Health Sciences Authority (HSA) has released revision 7 of the GN-21 guidance document on change notification requirements for registered medical devices, effective July 2026. This update impacts all medical device license holders who need to report changes to their registered devices. Companies must review the revised criteria for notifiable changes, update their internal procedures, and ensure compliance by the effective date to avoid regulatory findings.",
+        "zh": "新加坡卫生科学局（HSA）发布了关于已注册医疗器械变更通知要求的GN-21指南第7版修订稿，将于2026年7月生效。该更新影响所有需对已注册器械变更进行报告的医疗器械许可证持有者。企业须审查修订后的应通知变更标准，更新内部流程，并在生效日前确保合规，避免不合规问题。"
+      },
+      "source_url": "https://go.gov.sg/gn-21-r7-31-07-2026",
+      "source_name": "Official Source",
+      "published_date": "2026-07-01",
+      "detected_date": "2026-07-31T20:25:35Z",
+      "importance": "medium",
+      "tags": [
+        "change_notification",
+        "hsa_guidance",
+        "medical_devices",
+        "singapore",
+        "post_market_compliance"
       ],
       "related_docs": [],
       "status": "published"

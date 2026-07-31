@@ -40,6 +40,114 @@ title: 法规速递
 
 ## 最新动态
 
+### 沙特食药监局2026年Q2查获301吨不合规食品
+
+**2026-07-31** | Saudi SFDA | 法规更新 | !! MEDIUM
+
+沙特食品药品监督管理局在2026年第二季度查获301吨以上不合规食品，彰显其加强执法与数字化监管的趋势。此举直接针对食品进口商和分销商，但医疗器械监管事务人员应关注SFDA正广泛采用数字工具进行市场监督，预示着对所有受监管行业合规要求的不断提高。
+
+**标签**: `sfda_enforcement`, `food_safety_interception`, `digital_transformation`, `saudi_market_surveillance`
+
+[查看来源 (FDA)](https://www.sfda.gov.sa/en/news/5522060)
+
+---
+
+### 沙特食药监局局长实地视察麦加和东部地区朝觐准备工作
+
+**2026-07-31** | Saudi SFDA | 法规更新 | ! LOW
+
+沙特食品药品监管局（SFDA）首席执行官对麦加和东部省的多处设施进行了实地视察，核验该机构对即将到来的朝觐季节的准备情况。此次巡视重点确保食品、药品及医疗器械相关监管和技术服务已全面就绪，保障朝觐者安全。行业虽无需即刻采取行动，但为朝觐供应产品的企业应预期将面临更严格的监督与合规检查。
+
+**标签**: `hajj`, `sfda_inspection`, `regulatory_readiness`
+
+[查看来源 (FDA)](https://www.sfda.gov.sa/ar/news/5521875)
+
+---
+
+### 沙特食药局：2025年药品和化妆品许可工厂及仓库数量增长18%
+
+**2026-07-31** | Saudi SFDA | 法规更新 | !! MEDIUM
+
+沙特食品药品监督管理局（SFDA）宣布，2025年获得许可的药品和化妆品工厂及仓库数量增长了18%，这归因于数字化转型及'沙特绿卡'许可平台的应用。这一增长体现了监管现代化成效，相关领域的制造商和仓储运营商应持续通过在线系统确保其设施获得适当许可，以保持合规。
+
+**标签**: `sfda`, `digital_transformation`, `licensing`
+
+[查看来源 (FDA)](https://www.sfda.gov.sa/ar/news/5521559)
+
+---
+
+### 沙特SFDA批准先进生物技术医疗器械用于阿尔茨海默病早期检测
+
+**2026-07-31** | Saudi SFDA | 法规更新 | !! MEDIUM
+
+沙特食品药品监督管理局（SFDA）已授予一款采用先进生物技术实现阿尔茨海默病早期检测的医疗器械上市许可。该批准允许该设备在沙特阿拉伯上市和临床使用，涉及相关诊断器械制造商和医疗机构的合规和注册策略。这一授权是创新诊断技术审评路径的重要进展，值得法规事务人员关注。
+
+**标签**: `medical_device_approval`, `alzheimers_disease`, `biotechnology`
+
+[查看来源 (FDA)](https://www.sfda.gov.sa/ar/news/4447701)
+
+---
+
+### 沙特食药监局推动临床试验与基因治疗，引领药品安全数字化变革
+
+**2026-07-31** | Saudi SFDA | 法规更新 | !!! HIGH
+
+沙特食品药品监督管理局（SFDA）宣布推进临床试验和基因治疗的新举措，同时主导药品和化妆品安全监管的数字化转型。此举旨在加速创新疗法开发并加强监管监督。监管事务专业人员应关注即将更新的指南和数字平台要求。
+
+**标签**: `clinical_trials`, `gene_therapy`, `digital_transformation`
+
+[查看来源 (FDA)](https://www.sfda.gov.sa/ar/news/4050126)
+
+---
+
+### 沙特食药局拒绝批准一款可提前4年预测糖尿病的医疗软件，尽管已在欧洲多国销售
+
+**2026-07-31** | Saudi SFDA | 法规更新 | !! MEDIUM
+
+沙特食品药品管理局拒绝了一款声称可提前四年预测糖尿病的医疗软件上市申请，理由是该产品未满足沙特的监管要求。尽管该设备已在部分欧洲国家销售，沙特局方认为其提交的证据不足或不符合软件作为医疗器械的技术规范。这一决定提醒相关制造商，针对沙特市场的AI诊断类软件必须提供充分的临床验证并严格遵循沙特食品药品管理局的合规要求。
+
+**标签**: `software_as_medical_device`, `ai_diagnostics`, `marketing_rejection`, `diabetes_prediction`, `sfda`
+
+[查看来源 (FDA)](https://www.sfda.gov.sa/ar/news/3880273)
+
+---
+
+### SFDA批准新型脑刺激器械上市用于帕金森病治疗
+
+**2026-07-31** | Saudi SFDA | 法规更新 | !! MEDIUM
+
+沙特食品药品监督管理局（SFDA）批准了一款采用先进脑刺激技术治疗帕金森病的医疗器械上市。该批准使该设备得以在沙特销售，为患者提供了非药物治疗的新选择。制造商和分销商应关注此类创新神经刺激器械在沙特的法规路径，并确保持续符合SFDA的上市后要求。该器械可能属于高风险类别，需持续监督和报告。
+
+**标签**: `sfda`, `medical_device_approval`, `brain_stimulation`, `parkinsons_disease`
+
+[查看来源 (FDA)](https://www.sfda.gov.sa/ar/news/3861814)
+
+---
+
+### SFDA NCMDR 每周安全更新 WU2631（2026年7月26日）：医疗器械安全警示
+
+**2026-07-26** | Saudi SFDA | 安全通报 | !! MEDIUM
+
+沙特食品药品管理局（SFDA）国家医疗器械报告中心（NCMDR）于2026年7月26日发布每周更新摘要WU2631，汇总了近期的医疗器械安全警示、现场安全通告和召回行动。该报告列出了受影响的器械和制造商，并说明了沙特境内的医疗机构和供应商须采取的纠正措施。相关方应及时查阅完整报告并落实规定行动，以降低患者安全风险。
+
+**标签**: `safety_alert`, `weekly_update`, `saudi_sfda`, `ncmdr`, `field_safety_notice`
+
+[查看来源 (FDA)](https://www.sfda.gov.sa/sites/default/files/2026-07/%28WU2631%29%20NCMDR%20Weekly%20Update%2026%20July%202026.pdf)
+
+---
+
+### 沙特 SFDA NCMDR 发布第 WU2630 期每周安全更新（2026年7月19日）
+
+**2026-07-19** | Saudi SFDA | 安全通报 | !! MEDIUM
+
+沙特食品药品监督管理局（SFDA）国家医疗器械报告中心（NCMDR）发布了第 WU2630 期每周安全更新报告。该报告汇总了近期医疗器械安全警报、现场安全通知及不良事件报告，相关制造商和医疗机构应立即查阅报告，识别受影响的器械，并采取建议的纠正措施，以确保合规与患者安全。
+
+**标签**: `sfda`, `ncmdr`, `weekly_safety_update`, `medical_device_reporting`, `field_safety_notice`
+
+[查看来源 (FDA)](https://www.sfda.gov.sa/sites/default/files/2026-07/%28WU2630%29%20NCMDR%20Weekly%20Update%2019%20July%202026.pdf)
+
+---
+
 ### 沙特SFDA NCMDR每周安全更新WU2629（2026年7月12日）
 
 **2026-07-12** | Saudi SFDA | 安全通报 | !! MEDIUM

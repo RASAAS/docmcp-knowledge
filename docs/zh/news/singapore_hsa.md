@@ -6,6 +6,18 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### HSA更新GN-21 R7版注册医疗器械变更通知指导（2026年7月生效）
+
+**2026-08-01** | Singapore HSA | 法规更新 | !! MEDIUM
+
+新加坡卫生科学局发布GN-21指导文件第7版，明确注册医疗器械变更通知的要求。新指南将于2026年7月31日生效，适用于所有注册人。企业应据此修订内部变更评估流程，确保及时、准确地申报可报告变更以维持注册合规。
+
+**标签**: `change_notification`, `guidance_document`, `medical_devices`, `HSA`, `Singapore`
+
+[查看来源 (Official Source)](https://go.gov.sg/gn-21-r7-31-07-2026)
+
+---
+
 ### 卫生科学局通报：三名消费者（含12岁儿童）因服用含禁用或强效药用成分产品出现严重不良反应
 
 **2026-07-23** | Singapore HSA | 法规更新 | !!! HIGH
@@ -15,6 +27,18 @@ title: 法规速递
 **标签**: `hsa_alert`, `serious_adverse_events`, `banned_medicinal_ingredients`, `consumer_safety`
 
 [查看来源 (HSA (Singapore))](https://www.hsa.gov.sg/announcements/3-consumers-including-a-12-year-old-adverse-effects/)
+
+---
+
+### HSA发布修订版GN-21-R7指南：已注册医疗器械的变更通知（2026年7月）
+
+**2026-07-01** | Singapore HSA | 法规更新 | !! MEDIUM
+
+新加坡卫生科学局（HSA）发布了关于已注册医疗器械变更通知要求的GN-21指南第7版修订稿，将于2026年7月生效。该更新影响所有需对已注册器械变更进行报告的医疗器械许可证持有者。企业须审查修订后的应通知变更标准，更新内部流程，并在生效日前确保合规，避免不合规问题。
+
+**标签**: `change_notification`, `hsa_guidance`, `medical_devices`, `singapore`, `post_market_compliance`
+
+[查看来源 (Official Source)](https://go.gov.sg/gn-21-r7-31-07-2026)
 
 ---
 

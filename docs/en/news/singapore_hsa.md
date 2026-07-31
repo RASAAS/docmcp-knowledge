@@ -6,6 +6,18 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### HSA Updates GN-21 R7 Change Notification Guidance for Registered Medical Devices (Effective Jul 2026)
+
+**2026-08-01** | Singapore HSA | Regulation Update | !! MEDIUM
+
+Singapore’s Health Sciences Authority (HSA) has issued revision 7 of Guidance Document GN-21 on change notification for registered medical devices. The updated guidance, effective 31 July 2026, clarifies when and how registrants must notify HSA of changes to their devices. Manufacturers and local representatives should review the revised criteria, update internal change management procedures, and ensure all post-market modifications are correctly reported to avoid non-compliance.
+
+**Tags**: `change_notification`, `guidance_document`, `medical_devices`, `HSA`, `Singapore`
+
+[View Source (Official Source)](https://go.gov.sg/gn-21-r7-31-07-2026)
+
+---
+
 ### HSA Alert: 3 Consumers Including a Child Suffer Serious Adverse Events from Products with Banned/Potent Ingredients
 
 **2026-07-23** | Singapore HSA | Regulation Update | !!! HIGH
@@ -15,6 +27,18 @@ The Singapore Health Sciences Authority (HSA) issued a press release reporting t
 **Tags**: `hsa_alert`, `serious_adverse_events`, `banned_medicinal_ingredients`, `consumer_safety`
 
 [View Source (HSA (Singapore))](https://www.hsa.gov.sg/announcements/3-consumers-including-a-12-year-old-adverse-effects/)
+
+---
+
+### HSA Updates GN-21-R7 Guidance on Change Notification for Registered Medical Devices (Jul 2026)
+
+**2026-07-01** | Singapore HSA | Regulation Update | !! MEDIUM
+
+Singapore's Health Sciences Authority (HSA) has released revision 7 of the GN-21 guidance document on change notification requirements for registered medical devices, effective July 2026. This update impacts all medical device license holders who need to report changes to their registered devices. Companies must review the revised criteria for notifiable changes, update their internal procedures, and ensure compliance by the effective date to avoid regulatory findings.
+
+**Tags**: `change_notification`, `hsa_guidance`, `medical_devices`, `singapore`, `post_market_compliance`
+
+[View Source (Official Source)](https://go.gov.sg/gn-21-r7-31-07-2026)
 
 ---
 

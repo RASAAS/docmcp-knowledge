@@ -36,6 +36,184 @@ title: Regulatory News
 
 ## Latest Updates
 
+### Swissmedic FSCA: MED-STOP Devices in Soft Liner Suction Canister Kits – GMDN Code Correction (Medline Industries LP)
+
+**2026-07-31** | Swissmedic | Safety Communication | !! MEDIUM
+
+This Swissmedic field safety corrective action addresses MED-STOP devices included in Medline Industries LP's Soft Liner Suction Canister Kits (models OR53916, OR53926, OR53929, OR54916, OR54926). The correction is due to the Global Medical Device Nomenclature (GMDN) code originally being assigned to the kit rather than the MED-STOP component, which may cause misidentification. Medline is updating the GMDN designation accordingly; users should verify their records reflect the correct nomenclature for the MED-STOP device.
+
+**Tags**: `swissmedic`, `fsca`, `gmdn`, `suction_canister`, `medline`, `labeling_correction`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260729_042)
+
+---
+
+### Swissmedic Issues Field Safety Corrective Action for Mindray BeneHeart D1 Automated External Defibrillator
+
+**2026-07-31** | Swissmedic | Safety Communication | !!! HIGH
+
+The Swiss Agency for Therapeutic Products (Swissmedic) has published a Field Safety Corrective Action (FSCA) for the BeneHeart D1 Automated External Defibrillator manufactured by Shenzhen Mindray Bio-Medical Electronics Co., Ltd. The specific reason for the correction is not detailed in the brief notice, but the device is classified as a physiologic-monitoring defibrillation system. Affected model is the BeneHeart D1. Healthcare facilities and users should immediately refer to the manufacturer's instructions for the corrective measures and monitor the official Swissmedic notice for further details.
+
+**Tags**: `swissmedic`, `fsca`, `defibrillator`, `mindray`, `recall`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260727_033)
+
+---
+
+### Swissmedic FSCA: Mindray iPM Patient Monitors (Models 5, 6, 7, 8, 10, 12, 9800)
+
+**2026-07-31** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has issued a Field Safety Corrective Action for the Mindray iPM Series Patient Monitor. Affected models include 5, 6, 7, 8, 10, 12, and 9800. The reason involves a safety-related issue; users must follow the manufacturer’s corrective instructions to mitigate risks.
+
+**Tags**: `swissmedic`, `fsca`, `patient_monitor`, `mindray`, `product_correction`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260727_033)
+
+---
+
+### Swissmedic FSCA: Mindray TMS40/TMS-6016/TM80 Telemetry Monitors Subject to Field Safety Corrective Action
+
+**2026-07-31** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has issued a Field Safety Corrective Action (FSCA) for the Mindray general-purpose multi-parameter bedside telemetry monitors, models TMS40, TMS-6016, and TM80. The specific reason for the corrective action was not detailed in the alert, but users should be aware of potential safety-related concerns. Affected facilities should immediately check their inventory for these models and follow the manufacturer's instructions as communicated by Mindray. Swissmedic advises verifying device compliance and implementing any required corrective measures to maintain patient safety.
+
+**Tags**: `telemetry_monitor`, `mindray`, `fsca`, `swissmedic`, `field_safety_corrective_action`, `medical_device`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260727_033)
+
+---
+
+### Swissmedic Issues FSCA for Mindray uMEC Series Patient Monitors
+
+**2026-07-31** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic has issued a Field Safety Corrective Action (FSCA) for the uMEC Series bedside multi-parameter patient monitors manufactured by Shenzhen Mindray Bio-Medical Electronics Co., Ltd. The corrective action addresses a potential safety issue that could affect device performance (specific reason not detailed in the public summary). Affected models include uMEC 6, 7, 10, 12, 15, 15S, 30, 60, 70, 80, 100, 120, and 150. Healthcare facilities should immediately follow the manufacturer's instructions provided in the FSCA notification and contact Mindray for necessary corrective steps.
+
+**Tags**: `swissmedic`, `fsca`, `patient_monitor`, `mindray`, `safety_alert`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260727_033)
+
+---
+
+### Swissmedic FSCA: iMEC Series Patient Monitor by Shenzhen Mindray – Reason Not Disclosed
+
+**2026-07-31** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has issued a Field Safety Corrective Action (FSCA) for the iMEC Series Patient Monitor, a general-purpose multi-parameter bedside monitor manufactured by Shenzhen Mindray Bio-Medical Electronics Co., Ltd. The specific reason for the corrective action and the affected models/lots were not provided in the notice. Healthcare facilities using this device should monitor official channels for further details and follow any instructions from the manufacturer.
+
+**Tags**: `fsca`, `swissmedic`, `patient_monitor`, `mindray`, `safety_corrective_action`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260727_033)
+
+---
+
+### Swissmedic FSCA for Mindray BeneHeart Defibrillator/Monitor Systems (Models D20, D30, D50, D60, D2, D3, D5, D6 and variants)
+
+**2026-07-31** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic published a Field Safety Corrective Action for Shenzhen Mindray Bio-Medical Electronics' BeneHeart physiologic-monitoring defibrillation systems. Affected models include D20, D20A, D20C, D30, D50, D50A, D50C, D60, DX, DM, D2, D3, D5, and D6. The manufacturer is implementing a correction; users should consult the FSCA notice for required actions. No specific recall reason was detailed in the notification.
+
+**Tags**: `switzerland`, `fsca`, `defibrillator`, `mindray`, `field_safety_corrective_action`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260727_033)
+
+---
+
+### Swissmedic FSCA for Mindray BeneView T Series Patient Monitors (Models T1/T5/T5S/T5 OR/T6/T8/T9/T9 OR)
+
+**2026-07-31** | Swissmedic | Safety Communication | !! MEDIUM
+
+The Swiss Agency for Therapeutic Products (Swissmedic) issued a Field Safety Corrective Action (FSCA) for Shenzhen Mindray Bio-Medical Electronics Co., Ltd.'s BeneView T Series multi-parameter bedside monitors. Affected models include T1, T5, T5S, T5 OR, T6, T8, T9, and T9 OR. While the specific safety reason was not disclosed in the public notice, healthcare facilities using these devices should immediately consult Mindray or their local representative for the recommended corrective actions, which may involve inspection, software updates, or part replacement.
+
+**Tags**: `swissmedic`, `fsca`, `patient_monitor`, `mindray`, `safety_corrective_action`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260727_033)
+
+---
+
+### Swissmedic Issues FSCA for Mindray Benevision V Series Patient Monitor
+
+**2026-07-31** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic issued a Field Safety Corrective Action (FSCA) for the Benevision V Series patient monitor from Shenzhen Mindray Bio-Medical Electronics. The notice (reference Vk_20260727_033) relates to the general-purpose multi-parameter bedside monitor; however, the specific safety reason and affected model/lot details were not included in the initial alert. Users should consult the full FSCA on the Swissmedic website to identify impacted devices and take recommended corrective actions.
+
+**Tags**: `swissmedic`, `fsca`, `patient_monitor`, `mindray`, `safety_corrective_action`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260727_033)
+
+---
+
+### Swissmedic FSCA: Mindray Benevision N1 Patient Monitor Field Safety Corrective Action
+
+**2026-07-31** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic has issued a Field Safety Corrective Action (FSCA) for the Mindray Benevision N1 general-purpose multi-parameter bedside monitor. The notice did not specify the reason or affected model numbers, but typical actions involve a safety-related correction. Healthcare facilities using this device should consult the full FSCA on Swissmedic's platform and follow the manufacturer's instructions.
+
+**Tags**: `fsca`, `swissmedic`, `patient_monitor`, `mindray`, `safety_corrective_action`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260727_033)
+
+---
+
+### Swissmedic FSCA: Renishaw Mayfield’s neuromate Stereotactic System, Model 001.0050 – Reason Not Detailed
+
+**2026-07-30** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has published a Field Safety Corrective Action (FSCA) for the neuromate neurological stereotactic surgery system manufactured by Renishaw Mayfield SARL. The affected model is 001.0050. The official notice did not include the specific reason for the corrective action; users should monitor manufacturer communications for instructions.
+
+**Tags**: `swissmedic`, `fsca`, `stereotactic_system`, `neurosurgery`, `renishaw_mayfield`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260722_030)
+
+---
+
+### GORE EXCLUDER Thoracoabdominal Branch Endoprosthesis - W L Gore & Associates Inc
+
+**2026-07-29** | Swissmedic | Safety Communication | !! MEDIUM
+
+FSCA: MD: Ptfe vascular endoprostheses, straight - other. Reason: . Model: all; all.
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260724_010)
+
+---
+
+### FSCA: ORBIS Medication 3.x software by DH Healthcare GmbH may cause medication errors
+
+**2026-07-29** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic issued a Field Safety Corrective Action for ORBIS Medication 3.x, a medical device software for medication management by DH Healthcare GmbH. The corrective action addresses a potential defect that could lead to incorrect medication dosage display or administration, posing risks to patient safety. Affected users should immediately verify medication orders and apply the manufacturer's update to mitigate the risk.
+
+**Tags**: `software_recall`, `medication_error`, `swissmedic_fsca`, `field_safety_corrective_action`, `medical_device_software`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260724_014)
+
+---
+
+### ConvaTec Esteem Body Ostomy Pouches: Swissmedic FSCA for Labeling Content Correction
+
+**2026-07-28** | Swissmedic | Safety Communication | !! MEDIUM
+
+ConvaTec issued a Field Safety Corrective Action for the Esteem Body 1 Piece Soft Convex Ostomy Pouches (one-piece urostomy bag, open-ended) in Switzerland. The correction updates the English and German versions of the document to fix the distribution date in English, and in German, to include information from the customer care team on product alternatives and to correct a table header. Affected models are listed in the Field Safety Notice; users should ensure they have the updated documentation. This is a medium-priority labeling correction.
+
+**Tags**: `swissmedic`, `fsca`, `labeling_correction`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260724_001)
+
+---
+
+### Swissmedic FSCA: Ethicon Gynecare TVT (Model TVTRL) for Incontinence – Field Safety Corrective Action
+
+**2026-07-27** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic issued a Field Safety Corrective Action (FSCA) for the Gynecare TVT device, manufactured by Ethicon SARL. The affected model is TVTRL, described as an incontinence clamp. The specific reason for the correction was not publicly detailed, but users are advised to follow the manufacturer's instructions provided in the FSCA notification to ensure patient safety.
+
+**Tags**: `fsca`, `swissmedic`, `incontinence_device`, `ethicon`, `gynecare_tvt`, `field_safety_corrective_action`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260715_002)
+
+---
+
 ### Swissmedic FSCA for Philips Azurion Stationary Angiographic X-Ray Systems
 
 **2026-07-24** | Swissmedic | Safety Communication | !! MEDIUM
@@ -667,6 +845,18 @@ Swissmedic published a Field Safety Corrective Action for Zimmer Surgical's pneu
 **Tags**: `swissmedic`, `fsca`, `zimmer_surgical`, `tourniquet_system`, `serial_number_update`
 
 [View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260115_28)
+
+---
+
+### Philips Azurion System FSCA: Additional Language Versions of Field Safety Notice V2
+
+**2025-12-30** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic issued a Field Safety Corrective Action (FSCA) for Philips Medical Systems Nederland B.V. concerning stationary angiographic X-ray systems Azurion (models 722229–722236). The action is a product correction where Philips added new language versions for the existing Field Safety Notice (FSN V2) to improve distribution. No defect or safety risk is involved; affected users should note the updated notice availability.
+
+**Tags**: `fsca`, `philips`, `angiographic_system`, `field_safety_notice`, `swissmedic`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20251209_34)
 
 ---
 

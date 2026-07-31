@@ -6,6 +6,234 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### HSA Updates GN-21 R7 Change Notification Guidance for Registered Medical Devices (Effective Jul 2026)
+
+**2026-08-01** | Singapore HSA | Regulation Update | !! MEDIUM
+
+Singapore’s Health Sciences Authority (HSA) has issued revision 7 of Guidance Document GN-21 on change notification for registered medical devices. The updated guidance, effective 31 July 2026, clarifies when and how registrants must notify HSA of changes to their devices. Manufacturers and local representatives should review the revised criteria, update internal change management procedures, and ensure all post-market modifications are correctly reported to avoid non-compliance.
+
+**Tags**: `change_notification`, `guidance_document`, `medical_devices`, `HSA`, `Singapore`
+
+[View Source (Official Source)](https://go.gov.sg/gn-21-r7-31-07-2026)
+
+---
+
+### Swissmedic FSCA: MED-STOP Devices in Soft Liner Suction Canister Kits – GMDN Code Correction (Medline Industries LP)
+
+**2026-07-31** | Swissmedic | Safety Communication | !! MEDIUM
+
+This Swissmedic field safety corrective action addresses MED-STOP devices included in Medline Industries LP's Soft Liner Suction Canister Kits (models OR53916, OR53926, OR53929, OR54916, OR54926). The correction is due to the Global Medical Device Nomenclature (GMDN) code originally being assigned to the kit rather than the MED-STOP component, which may cause misidentification. Medline is updating the GMDN designation accordingly; users should verify their records reflect the correct nomenclature for the MED-STOP device.
+
+**Tags**: `swissmedic`, `fsca`, `gmdn`, `suction_canister`, `medline`, `labeling_correction`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260729_042)
+
+---
+
+### Swissmedic Issues Field Safety Corrective Action for Mindray BeneHeart D1 Automated External Defibrillator
+
+**2026-07-31** | Swissmedic | Safety Communication | !!! HIGH
+
+The Swiss Agency for Therapeutic Products (Swissmedic) has published a Field Safety Corrective Action (FSCA) for the BeneHeart D1 Automated External Defibrillator manufactured by Shenzhen Mindray Bio-Medical Electronics Co., Ltd. The specific reason for the correction is not detailed in the brief notice, but the device is classified as a physiologic-monitoring defibrillation system. Affected model is the BeneHeart D1. Healthcare facilities and users should immediately refer to the manufacturer's instructions for the corrective measures and monitor the official Swissmedic notice for further details.
+
+**Tags**: `swissmedic`, `fsca`, `defibrillator`, `mindray`, `recall`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260727_033)
+
+---
+
+### Swissmedic FSCA: Mindray iPM Patient Monitors (Models 5, 6, 7, 8, 10, 12, 9800)
+
+**2026-07-31** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has issued a Field Safety Corrective Action for the Mindray iPM Series Patient Monitor. Affected models include 5, 6, 7, 8, 10, 12, and 9800. The reason involves a safety-related issue; users must follow the manufacturer’s corrective instructions to mitigate risks.
+
+**Tags**: `swissmedic`, `fsca`, `patient_monitor`, `mindray`, `product_correction`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260727_033)
+
+---
+
+### Swissmedic FSCA: Mindray TMS40/TMS-6016/TM80 Telemetry Monitors Subject to Field Safety Corrective Action
+
+**2026-07-31** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has issued a Field Safety Corrective Action (FSCA) for the Mindray general-purpose multi-parameter bedside telemetry monitors, models TMS40, TMS-6016, and TM80. The specific reason for the corrective action was not detailed in the alert, but users should be aware of potential safety-related concerns. Affected facilities should immediately check their inventory for these models and follow the manufacturer's instructions as communicated by Mindray. Swissmedic advises verifying device compliance and implementing any required corrective measures to maintain patient safety.
+
+**Tags**: `telemetry_monitor`, `mindray`, `fsca`, `swissmedic`, `field_safety_corrective_action`, `medical_device`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260727_033)
+
+---
+
+### Swissmedic Issues FSCA for Mindray uMEC Series Patient Monitors
+
+**2026-07-31** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic has issued a Field Safety Corrective Action (FSCA) for the uMEC Series bedside multi-parameter patient monitors manufactured by Shenzhen Mindray Bio-Medical Electronics Co., Ltd. The corrective action addresses a potential safety issue that could affect device performance (specific reason not detailed in the public summary). Affected models include uMEC 6, 7, 10, 12, 15, 15S, 30, 60, 70, 80, 100, 120, and 150. Healthcare facilities should immediately follow the manufacturer's instructions provided in the FSCA notification and contact Mindray for necessary corrective steps.
+
+**Tags**: `swissmedic`, `fsca`, `patient_monitor`, `mindray`, `safety_alert`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260727_033)
+
+---
+
+### Swissmedic FSCA: iMEC Series Patient Monitor by Shenzhen Mindray – Reason Not Disclosed
+
+**2026-07-31** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has issued a Field Safety Corrective Action (FSCA) for the iMEC Series Patient Monitor, a general-purpose multi-parameter bedside monitor manufactured by Shenzhen Mindray Bio-Medical Electronics Co., Ltd. The specific reason for the corrective action and the affected models/lots were not provided in the notice. Healthcare facilities using this device should monitor official channels for further details and follow any instructions from the manufacturer.
+
+**Tags**: `fsca`, `swissmedic`, `patient_monitor`, `mindray`, `safety_corrective_action`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260727_033)
+
+---
+
+### Swissmedic FSCA for Mindray BeneHeart Defibrillator/Monitor Systems (Models D20, D30, D50, D60, D2, D3, D5, D6 and variants)
+
+**2026-07-31** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic published a Field Safety Corrective Action for Shenzhen Mindray Bio-Medical Electronics' BeneHeart physiologic-monitoring defibrillation systems. Affected models include D20, D20A, D20C, D30, D50, D50A, D50C, D60, DX, DM, D2, D3, D5, and D6. The manufacturer is implementing a correction; users should consult the FSCA notice for required actions. No specific recall reason was detailed in the notification.
+
+**Tags**: `switzerland`, `fsca`, `defibrillator`, `mindray`, `field_safety_corrective_action`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260727_033)
+
+---
+
+### Swissmedic FSCA for Mindray BeneView T Series Patient Monitors (Models T1/T5/T5S/T5 OR/T6/T8/T9/T9 OR)
+
+**2026-07-31** | Swissmedic | Safety Communication | !! MEDIUM
+
+The Swiss Agency for Therapeutic Products (Swissmedic) issued a Field Safety Corrective Action (FSCA) for Shenzhen Mindray Bio-Medical Electronics Co., Ltd.'s BeneView T Series multi-parameter bedside monitors. Affected models include T1, T5, T5S, T5 OR, T6, T8, T9, and T9 OR. While the specific safety reason was not disclosed in the public notice, healthcare facilities using these devices should immediately consult Mindray or their local representative for the recommended corrective actions, which may involve inspection, software updates, or part replacement.
+
+**Tags**: `swissmedic`, `fsca`, `patient_monitor`, `mindray`, `safety_corrective_action`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260727_033)
+
+---
+
+### Swissmedic Issues FSCA for Mindray Benevision V Series Patient Monitor
+
+**2026-07-31** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic issued a Field Safety Corrective Action (FSCA) for the Benevision V Series patient monitor from Shenzhen Mindray Bio-Medical Electronics. The notice (reference Vk_20260727_033) relates to the general-purpose multi-parameter bedside monitor; however, the specific safety reason and affected model/lot details were not included in the initial alert. Users should consult the full FSCA on the Swissmedic website to identify impacted devices and take recommended corrective actions.
+
+**Tags**: `swissmedic`, `fsca`, `patient_monitor`, `mindray`, `safety_corrective_action`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260727_033)
+
+---
+
+### Swissmedic FSCA: Mindray Benevision N1 Patient Monitor Field Safety Corrective Action
+
+**2026-07-31** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic has issued a Field Safety Corrective Action (FSCA) for the Mindray Benevision N1 general-purpose multi-parameter bedside monitor. The notice did not specify the reason or affected model numbers, but typical actions involve a safety-related correction. Healthcare facilities using this device should consult the full FSCA on Swissmedic's platform and follow the manufacturer's instructions.
+
+**Tags**: `fsca`, `swissmedic`, `patient_monitor`, `mindray`, `safety_corrective_action`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260727_033)
+
+---
+
+### SFDA Intercepts Over 301 Tons of Non-Compliant Food Products in Q2 2026
+
+**2026-07-31** | Saudi SFDA | Regulation Update | !! MEDIUM
+
+The Saudi Food and Drug Authority (SFDA) intercepted over 301 tons of non-compliant food products in Q2 2026, highlighting its robust enforcement and digital monitoring capabilities. While the action directly impacts food importers and distributors, medical device manufacturers and regulatory professionals should note SFDA's growing use of digital tools for market surveillance, signaling a broader compliance expectation across all regulated sectors.
+
+**Tags**: `sfda_enforcement`, `food_safety_interception`, `digital_transformation`, `saudi_market_surveillance`
+
+[View Source (FDA)](https://www.sfda.gov.sa/en/news/5522060)
+
+---
+
+### SFDA CEO Conducts Field Inspections of Hajj Preparations in Makkah and Eastern Region
+
+**2026-07-31** | Saudi SFDA | Regulation Update | ! LOW
+
+The CEO of the Saudi Food and Drug Authority (SFDA) conducted on-site inspections at several facilities in Makkah Al-Mukarramah and the Eastern Region to verify the Authority's readiness for the upcoming Hajj season. The visits focused on ensuring that regulatory and technical services for food, drugs, and medical devices are fully prepared to safeguard pilgrims. While no immediate industry action is required, suppliers of products used during Hajj should expect intensified oversight and compliance checks.
+
+**Tags**: `hajj`, `sfda_inspection`, `regulatory_readiness`
+
+[View Source (FDA)](https://www.sfda.gov.sa/ar/news/5521875)
+
+---
+
+### SFDA Reports 18% Increase in Licensed Drug and Cosmetic Factories and Warehouses in 2025
+
+**2026-07-31** | Saudi SFDA | Regulation Update | !! MEDIUM
+
+The Saudi Food and Drug Authority (SFDA) announced an 18% growth in the number of licensed pharmaceutical and cosmetic factories and warehouses during 2025, crediting its digital transformation and the 'Saudi Green Card' licensing platform. This increase reflects broader regulatory modernization efforts, and manufacturers and warehouse operators in these sectors should continue ensuring their facilities are properly licensed through the online system to maintain compliance.
+
+**Tags**: `sfda`, `digital_transformation`, `licensing`
+
+[View Source (FDA)](https://www.sfda.gov.sa/ar/news/5521559)
+
+---
+
+### SFDA Grants Marketing Authorization for Advanced Biotech Medical Device for Early Alzheimer's Detection
+
+**2026-07-31** | Saudi SFDA | Regulation Update | !! MEDIUM
+
+The Saudi Food and Drug Authority (SFDA) has granted marketing authorization for a medical device that uses advanced biotechnology to enable early detection of Alzheimer's disease. This approval permits the device to be marketed and used in Saudi Arabia, affecting diagnostic device manufacturers and healthcare providers in the region. Regulatory professionals should note this as a significant development in the approval pathway for innovative diagnostic technologies.
+
+**Tags**: `medical_device_approval`, `alzheimers_disease`, `biotechnology`
+
+[View Source (FDA)](https://www.sfda.gov.sa/ar/news/4447701)
+
+---
+
+### SFDA Advances Health Innovation via Clinical Trials, Gene Therapies, and Digital Transformation of Drug Safety
+
+**2026-07-31** | Saudi SFDA | Regulation Update | !!! HIGH
+
+The Saudi Food and Drug Authority (SFDA) announced new initiatives to support clinical trials and gene therapies, while also leading a digital transformation in drug and cosmetic safety regulation. The move aims to accelerate innovative treatment development and enhance regulatory oversight. Regulatory professionals should anticipate updated guidelines and new digital platform requirements.
+
+**Tags**: `clinical_trials`, `gene_therapy`, `digital_transformation`
+
+[View Source (FDA)](https://www.sfda.gov.sa/ar/news/4050126)
+
+---
+
+### SFDA Rejects Marketing Authorization for Software Predicting Diabetes 4 Years Before Onset Despite European Marketing
+
+**2026-07-31** | Saudi SFDA | Regulation Update | !! MEDIUM
+
+The Saudi Food and Drug Authority (SFDA) has denied marketing authorization for a software medical device designed to predict diabetes four years before it occurs, citing failure to meet required regulatory standards. The device is already marketed in some European countries, highlighting differing evidence and compliance expectations. This decision affects manufacturers targeting the Saudi market with AI-based diagnostic tools, emphasizing the need for robust clinical validation and full adherence to SFDA’s technical requirements for software as a medical device.
+
+**Tags**: `software_as_medical_device`, `ai_diagnostics`, `marketing_rejection`, `diabetes_prediction`, `sfda`
+
+[View Source (FDA)](https://www.sfda.gov.sa/ar/news/3880273)
+
+---
+
+### SFDA Approves Marketing of Novel Brain Stimulation Device for Parkinson's Disease Treatment
+
+**2026-07-31** | Saudi SFDA | Regulation Update | !! MEDIUM
+
+The Saudi Food and Drug Authority (SFDA) has granted marketing authorization for a medical device that uses modern brain stimulation technology to treat Parkinson's disease. This approval allows the device to be placed on the Saudi market, offering patients a new non-pharmacological option. Manufacturers and distributors should note the regulatory pathway for innovative neurostimulation devices in Saudi Arabia and ensure ongoing compliance with SFDA post-market requirements. The device likely falls under a high-risk classification, requiring vigilance and reporting.
+
+**Tags**: `sfda`, `medical_device_approval`, `brain_stimulation`, `parkinsons_disease`
+
+[View Source (FDA)](https://www.sfda.gov.sa/ar/news/3861814)
+
+---
+
+### Swissmedic FSCA: Renishaw Mayfield’s neuromate Stereotactic System, Model 001.0050 – Reason Not Detailed
+
+**2026-07-30** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has published a Field Safety Corrective Action (FSCA) for the neuromate neurological stereotactic surgery system manufactured by Renishaw Mayfield SARL. The affected model is 001.0050. The official notice did not include the specific reason for the corrective action; users should monitor manufacturer communications for instructions.
+
+**Tags**: `swissmedic`, `fsca`, `stereotactic_system`, `neurosurgery`, `renishaw_mayfield`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260722_030)
+
+---
+
 ### PMDA Publishes Report on ASEAN-Japan Medical Devices Regulatory Symposium 2026
 
 **2026-07-29** | Japan PMDA | Regulation Update | ! LOW
@@ -27,6 +255,28 @@ PMDA has announced the ASEAN-Japan Medical Devices Regulatory Seminar scheduled 
 **Tags**: `asean`, `japan`, `regulatory_seminar`, `medical_devices`, `pmda`
 
 [View Source (PMDA (Japan))](https://www.pmda.go.jp/english/symposia/0359.html)
+
+---
+
+### GORE EXCLUDER Thoracoabdominal Branch Endoprosthesis - W L Gore & Associates Inc
+
+**2026-07-29** | Swissmedic | Safety Communication | !! MEDIUM
+
+FSCA: MD: Ptfe vascular endoprostheses, straight - other. Reason: . Model: all; all.
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260724_010)
+
+---
+
+### FSCA: ORBIS Medication 3.x software by DH Healthcare GmbH may cause medication errors
+
+**2026-07-29** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic issued a Field Safety Corrective Action for ORBIS Medication 3.x, a medical device software for medication management by DH Healthcare GmbH. The corrective action addresses a potential defect that could lead to incorrect medication dosage display or administration, posing risks to patient safety. Affected users should immediately verify medication orders and apply the manufacturer's update to mitigate the risk.
+
+**Tags**: `software_recall`, `medication_error`, `swissmedic_fsca`, `field_safety_corrective_action`, `medical_device_software`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260724_014)
 
 ---
 
@@ -66,6 +316,18 @@ The Japanese PMDA has issued a Class II recall for the PTA Balloon Catheter II, 
 
 ---
 
+### ConvaTec Esteem Body Ostomy Pouches: Swissmedic FSCA for Labeling Content Correction
+
+**2026-07-28** | Swissmedic | Safety Communication | !! MEDIUM
+
+ConvaTec issued a Field Safety Corrective Action for the Esteem Body 1 Piece Soft Convex Ostomy Pouches (one-piece urostomy bag, open-ended) in Switzerland. The correction updates the English and German versions of the document to fix the distribution date in English, and in German, to include information from the customer care team on product alternatives and to correct a table header. Affected models are listed in the Field Safety Notice; users should ensure they have the updated documentation. This is a medium-priority labeling correction.
+
+**Tags**: `swissmedic`, `fsca`, `labeling_correction`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260724_001)
+
+---
+
 ### Class II Recall: Philips Japan Fetal Monitor FM (分娩監視装置 FM) – Potential Malfunction in Fetal Heart Rate Tracing
 
 **2026-07-27** | Japan PMDA | Safety Communication | !! MEDIUM
@@ -75,6 +337,30 @@ Philips Japan is conducting a Class II recall of its Fetal Monitor FM (分娩監
 **Tags**: `class_ii_recall`, `fetal_monitor`, `philips_japan`, `pmda`, `medical_device_safety`
 
 [View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12908)
+
+---
+
+### Swissmedic FSCA: Ethicon Gynecare TVT (Model TVTRL) for Incontinence – Field Safety Corrective Action
+
+**2026-07-27** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic issued a Field Safety Corrective Action (FSCA) for the Gynecare TVT device, manufactured by Ethicon SARL. The affected model is TVTRL, described as an incontinence clamp. The specific reason for the correction was not publicly detailed, but users are advised to follow the manufacturer's instructions provided in the FSCA notification to ensure patient safety.
+
+**Tags**: `fsca`, `swissmedic`, `incontinence_device`, `ethicon`, `gynecare_tvt`, `field_safety_corrective_action`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260715_002)
+
+---
+
+### SFDA NCMDR Weekly Update WU2631 (26 July 2026): Medical Device Safety Alerts
+
+**2026-07-26** | Saudi SFDA | Safety Communication | !! MEDIUM
+
+The Saudi FDA National Center for Medical Devices Reporting (NCMDR) issued Weekly Update WU2631 on 26 July 2026, compiling recent medical device safety alerts, field safety notices, and recall actions. The report identifies affected devices and manufacturers, and outlines required corrective measures for healthcare providers and suppliers in Saudi Arabia. Stakeholders should review the full report promptly and implement the specified actions to mitigate risks to patient safety.
+
+**Tags**: `safety_alert`, `weekly_update`, `saudi_sfda`, `ncmdr`, `field_safety_notice`
+
+[View Source (FDA)](https://www.sfda.gov.sa/sites/default/files/2026-07/%28WU2631%29%20NCMDR%20Weekly%20Update%2026%20July%202026.pdf)
 
 ---
 
@@ -851,6 +1137,18 @@ Health Canada has issued a safety alert for certain Philips Achieva and Ingenia 
 **Tags**: `recall`, `safety_alert`, `mri_system`
 
 [View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/philips-achieva-and-ingenia-systems)
+
+---
+
+### SFDA NCMDR Weekly Safety Update WU2630 (19 July 2026) Released
+
+**2026-07-19** | Saudi SFDA | Safety Communication | !! MEDIUM
+
+The Saudi Food and Drug Authority's National Center for Medical Devices Reporting (NCMDR) has published Weekly Update report WU2630. This report compiles recent medical device safety alerts, field safety notices, and adverse event reports for healthcare providers and manufacturers. Stakeholders are advised to review the document, identify affected devices listed within, and implement any recommended corrective actions to ensure continued compliance and patient safety.
+
+**Tags**: `sfda`, `ncmdr`, `weekly_safety_update`, `medical_device_reporting`, `field_safety_notice`
+
+[View Source (FDA)](https://www.sfda.gov.sa/sites/default/files/2026-07/%28WU2630%29%20NCMDR%20Weekly%20Update%2019%20July%202026.pdf)
 
 ---
 
@@ -2494,6 +2792,18 @@ Swissmedic has issued a Field Safety Corrective Action (FSCA) for SY-LAB IceCube
 
 ---
 
+### HSA Updates GN-21-R7 Guidance on Change Notification for Registered Medical Devices (Jul 2026)
+
+**2026-07-01** | Singapore HSA | Regulation Update | !! MEDIUM
+
+Singapore's Health Sciences Authority (HSA) has released revision 7 of the GN-21 guidance document on change notification requirements for registered medical devices, effective July 2026. This update impacts all medical device license holders who need to report changes to their registered devices. Companies must review the revised criteria for notifiable changes, update their internal procedures, and ensure compliance by the effective date to avoid regulatory findings.
+
+**Tags**: `change_notification`, `hsa_guidance`, `medical_devices`, `singapore`, `post_market_compliance`
+
+[View Source (Official Source)](https://go.gov.sg/gn-21-r7-31-07-2026)
+
+---
+
 ### EC Publishes Delegated Acts on Well-Established Technologies Under EU MDR
 
 **2026-06-30** | EU MDR/IVDR | Regulation Update | !!! HIGH
@@ -3301,6 +3611,18 @@ Swissmedic published a Field Safety Corrective Action for Zimmer Surgical's pneu
 **Tags**: `swissmedic`, `fsca`, `zimmer_surgical`, `tourniquet_system`, `serial_number_update`
 
 [View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260115_28)
+
+---
+
+### Philips Azurion System FSCA: Additional Language Versions of Field Safety Notice V2
+
+**2025-12-30** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic issued a Field Safety Corrective Action (FSCA) for Philips Medical Systems Nederland B.V. concerning stationary angiographic X-ray systems Azurion (models 722229–722236). The action is a product correction where Philips added new language versions for the existing Field Safety Notice (FSN V2) to improve distribution. No defect or safety risk is involved; affected users should note the updated notice availability.
+
+**Tags**: `fsca`, `philips`, `angiographic_system`, `field_safety_notice`, `swissmedic`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20251209_34)
 
 ---
 

@@ -40,6 +40,114 @@ title: Regulatory News
 
 ## Latest Updates
 
+### SFDA Intercepts Over 301 Tons of Non-Compliant Food Products in Q2 2026
+
+**2026-07-31** | Saudi SFDA | Regulation Update | !! MEDIUM
+
+The Saudi Food and Drug Authority (SFDA) intercepted over 301 tons of non-compliant food products in Q2 2026, highlighting its robust enforcement and digital monitoring capabilities. While the action directly impacts food importers and distributors, medical device manufacturers and regulatory professionals should note SFDA's growing use of digital tools for market surveillance, signaling a broader compliance expectation across all regulated sectors.
+
+**Tags**: `sfda_enforcement`, `food_safety_interception`, `digital_transformation`, `saudi_market_surveillance`
+
+[View Source (FDA)](https://www.sfda.gov.sa/en/news/5522060)
+
+---
+
+### SFDA CEO Conducts Field Inspections of Hajj Preparations in Makkah and Eastern Region
+
+**2026-07-31** | Saudi SFDA | Regulation Update | ! LOW
+
+The CEO of the Saudi Food and Drug Authority (SFDA) conducted on-site inspections at several facilities in Makkah Al-Mukarramah and the Eastern Region to verify the Authority's readiness for the upcoming Hajj season. The visits focused on ensuring that regulatory and technical services for food, drugs, and medical devices are fully prepared to safeguard pilgrims. While no immediate industry action is required, suppliers of products used during Hajj should expect intensified oversight and compliance checks.
+
+**Tags**: `hajj`, `sfda_inspection`, `regulatory_readiness`
+
+[View Source (FDA)](https://www.sfda.gov.sa/ar/news/5521875)
+
+---
+
+### SFDA Reports 18% Increase in Licensed Drug and Cosmetic Factories and Warehouses in 2025
+
+**2026-07-31** | Saudi SFDA | Regulation Update | !! MEDIUM
+
+The Saudi Food and Drug Authority (SFDA) announced an 18% growth in the number of licensed pharmaceutical and cosmetic factories and warehouses during 2025, crediting its digital transformation and the 'Saudi Green Card' licensing platform. This increase reflects broader regulatory modernization efforts, and manufacturers and warehouse operators in these sectors should continue ensuring their facilities are properly licensed through the online system to maintain compliance.
+
+**Tags**: `sfda`, `digital_transformation`, `licensing`
+
+[View Source (FDA)](https://www.sfda.gov.sa/ar/news/5521559)
+
+---
+
+### SFDA Grants Marketing Authorization for Advanced Biotech Medical Device for Early Alzheimer's Detection
+
+**2026-07-31** | Saudi SFDA | Regulation Update | !! MEDIUM
+
+The Saudi Food and Drug Authority (SFDA) has granted marketing authorization for a medical device that uses advanced biotechnology to enable early detection of Alzheimer's disease. This approval permits the device to be marketed and used in Saudi Arabia, affecting diagnostic device manufacturers and healthcare providers in the region. Regulatory professionals should note this as a significant development in the approval pathway for innovative diagnostic technologies.
+
+**Tags**: `medical_device_approval`, `alzheimers_disease`, `biotechnology`
+
+[View Source (FDA)](https://www.sfda.gov.sa/ar/news/4447701)
+
+---
+
+### SFDA Advances Health Innovation via Clinical Trials, Gene Therapies, and Digital Transformation of Drug Safety
+
+**2026-07-31** | Saudi SFDA | Regulation Update | !!! HIGH
+
+The Saudi Food and Drug Authority (SFDA) announced new initiatives to support clinical trials and gene therapies, while also leading a digital transformation in drug and cosmetic safety regulation. The move aims to accelerate innovative treatment development and enhance regulatory oversight. Regulatory professionals should anticipate updated guidelines and new digital platform requirements.
+
+**Tags**: `clinical_trials`, `gene_therapy`, `digital_transformation`
+
+[View Source (FDA)](https://www.sfda.gov.sa/ar/news/4050126)
+
+---
+
+### SFDA Rejects Marketing Authorization for Software Predicting Diabetes 4 Years Before Onset Despite European Marketing
+
+**2026-07-31** | Saudi SFDA | Regulation Update | !! MEDIUM
+
+The Saudi Food and Drug Authority (SFDA) has denied marketing authorization for a software medical device designed to predict diabetes four years before it occurs, citing failure to meet required regulatory standards. The device is already marketed in some European countries, highlighting differing evidence and compliance expectations. This decision affects manufacturers targeting the Saudi market with AI-based diagnostic tools, emphasizing the need for robust clinical validation and full adherence to SFDA’s technical requirements for software as a medical device.
+
+**Tags**: `software_as_medical_device`, `ai_diagnostics`, `marketing_rejection`, `diabetes_prediction`, `sfda`
+
+[View Source (FDA)](https://www.sfda.gov.sa/ar/news/3880273)
+
+---
+
+### SFDA Approves Marketing of Novel Brain Stimulation Device for Parkinson's Disease Treatment
+
+**2026-07-31** | Saudi SFDA | Regulation Update | !! MEDIUM
+
+The Saudi Food and Drug Authority (SFDA) has granted marketing authorization for a medical device that uses modern brain stimulation technology to treat Parkinson's disease. This approval allows the device to be placed on the Saudi market, offering patients a new non-pharmacological option. Manufacturers and distributors should note the regulatory pathway for innovative neurostimulation devices in Saudi Arabia and ensure ongoing compliance with SFDA post-market requirements. The device likely falls under a high-risk classification, requiring vigilance and reporting.
+
+**Tags**: `sfda`, `medical_device_approval`, `brain_stimulation`, `parkinsons_disease`
+
+[View Source (FDA)](https://www.sfda.gov.sa/ar/news/3861814)
+
+---
+
+### SFDA NCMDR Weekly Update WU2631 (26 July 2026): Medical Device Safety Alerts
+
+**2026-07-26** | Saudi SFDA | Safety Communication | !! MEDIUM
+
+The Saudi FDA National Center for Medical Devices Reporting (NCMDR) issued Weekly Update WU2631 on 26 July 2026, compiling recent medical device safety alerts, field safety notices, and recall actions. The report identifies affected devices and manufacturers, and outlines required corrective measures for healthcare providers and suppliers in Saudi Arabia. Stakeholders should review the full report promptly and implement the specified actions to mitigate risks to patient safety.
+
+**Tags**: `safety_alert`, `weekly_update`, `saudi_sfda`, `ncmdr`, `field_safety_notice`
+
+[View Source (FDA)](https://www.sfda.gov.sa/sites/default/files/2026-07/%28WU2631%29%20NCMDR%20Weekly%20Update%2026%20July%202026.pdf)
+
+---
+
+### SFDA NCMDR Weekly Safety Update WU2630 (19 July 2026) Released
+
+**2026-07-19** | Saudi SFDA | Safety Communication | !! MEDIUM
+
+The Saudi Food and Drug Authority's National Center for Medical Devices Reporting (NCMDR) has published Weekly Update report WU2630. This report compiles recent medical device safety alerts, field safety notices, and adverse event reports for healthcare providers and manufacturers. Stakeholders are advised to review the document, identify affected devices listed within, and implement any recommended corrective actions to ensure continued compliance and patient safety.
+
+**Tags**: `sfda`, `ncmdr`, `weekly_safety_update`, `medical_device_reporting`, `field_safety_notice`
+
+[View Source (FDA)](https://www.sfda.gov.sa/sites/default/files/2026-07/%28WU2630%29%20NCMDR%20Weekly%20Update%2019%20July%202026.pdf)
+
+---
+
 ### SFDA NCMDR Weekly Update WU2629 (12 July 2026) – Medical Device Safety Report
 
 **2026-07-12** | Saudi SFDA | Safety Communication | !! MEDIUM
