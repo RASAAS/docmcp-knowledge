@@ -6,6 +6,8 @@
 **Responsible Party:** Manufacturer (Client) / CRO (biocompatibility evaluation)  
 **Service Mode:** Assist / Review
 
+> **Detailed V&V sub-topic guides are available:** See the [V&V Overview](./vv/) page for individual guides on each V&V area including biocompatibility, software V&V, electrical safety, cybersecurity, sterilisation, packaging, usability, and more.
+
 ## General V&V Requirements Checklist
 
 - [ ] Results and critical evaluation of all V&V tests/studies
