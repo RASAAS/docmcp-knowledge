@@ -6,6 +6,18 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### Health Canada Opens Consultation on Proposed Changes to the List of Recognized Standards for Medical Devices
+
+**2026-08-03** | Health Canada | Regulation Update | !! MEDIUM
+
+Health Canada has launched a public consultation on proposed updates to the List of Recognized Standards for medical devices. This consultation invites stakeholders to comment on the addition, modification, or removal of specific standards that manufacturers may use to demonstrate compliance with the Medical Devices Regulations. Affected parties include medical device manufacturers, importers, and industry associations. Feedback must be submitted by the specified deadline to influence the final list.
+
+**Tags**: `canada`, `standards`, `consultation`, `regulatory_update`, `medical_devices`
+
+[View Source (Health Canada)](https://www.canada.ca/en/health-canada/programs/consultation-proposed-changes-list-recognized-standards-medical-devices.html)
+
+---
+
 ### HSA Updates GN-21 R7 Change Notification Guidance for Registered Medical Devices (Effective Jul 2026)
 
 **2026-08-01** | Singapore HSA | Regulation Update | !! MEDIUM
@@ -15,6 +27,18 @@ Singapore’s Health Sciences Authority (HSA) has issued revision 7 of Guidance 
 **Tags**: `change_notification`, `guidance_document`, `medical_devices`, `HSA`, `Singapore`
 
 [View Source (Official Source)](https://go.gov.sg/gn-21-r7-31-07-2026)
+
+---
+
+### MHRA Updates List of Medical Devices Given Exceptional Use Authorisations
+
+**2026-07-31** | UK MHRA | Regulation Update | !! MEDIUM
+
+The UK’s MHRA has published its latest decision listing medical devices that have been granted exceptional use authorisations. This exemption permits non-compliant devices to be used in specific clinical situations. The document includes manufacturer names, device details, and current statuses (active, expired, or cancelled). Stakeholders should review the list to verify the status of any devices they supply or use, ensuring continued compliance and patient safety.
+
+**Tags**: `exceptional_use_authorisation`, `mhra`, `medical_device_exemption`, `uk_regulations`, `list_update`
+
+[View Source (MHRA (UK))](https://www.gov.uk/government/publications/medical-devices-given-exceptional-use-authorisations)
 
 ---
 
@@ -222,6 +246,18 @@ The Saudi Food and Drug Authority (SFDA) has granted marketing authorization for
 
 ---
 
+### MHRA July 2026 Safety Roundup: Latest Medicines and Medical Device Safety Advice
+
+**2026-07-30** | UK MHRA | Safety Communication | !! MEDIUM
+
+The UK MHRA published its monthly Safety Roundup for July 2026, highlighting two new safety advisory entries for medicines and medical device users. Healthcare professionals, patients, and device operators should review the roundup to stay updated on emerging risks and recommended actions. The document consolidates recent Drug Safety Update and Medical Device Alerts, serving as a routine information bulletin for the regulated community.
+
+**Tags**: `mhra`, `safety_roundup`, `drug_safety`, `medical_device_alert`, `compliance_update`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/mhra-safety-roundup-july-2026)
+
+---
+
 ### Swissmedic FSCA: Renishaw Mayfield’s neuromate Stereotactic System, Model 001.0050 – Reason Not Detailed
 
 **2026-07-30** | Swissmedic | Safety Communication | !! MEDIUM
@@ -231,6 +267,42 @@ Swissmedic has published a Field Safety Corrective Action (FSCA) for the neuroma
 **Tags**: `swissmedic`, `fsca`, `stereotactic_system`, `neurosurgery`, `renishaw_mayfield`
 
 [View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260722_030)
+
+---
+
+### MHRA Summer Advisory: Keep Medical Devices Safe in Hot Weather, Simple Precautions Urged
+
+**2026-07-29** | UK MHRA | Regulation Update | !! MEDIUM
+
+The UK's MHRA has issued a seasonal reminder for patients and caregivers to take extra care with medical devices during hot weather. High temperatures can affect device performance, battery life, and the integrity of temperature-sensitive items like insulin pumps and glucose monitors. The agency advises keeping devices out of direct sunlight, storing them in cool places, and checking manufacturer instructions for safe operating temperature ranges.
+
+**Tags**: `summer_heat_safety`, `medical_device_care`, `mhra_advisory`
+
+[View Source (MHRA (UK))](https://www.gov.uk/government/news/beat-the-heat-mhra-urges-people-to-take-extra-care-with-medical-devices-this-summer)
+
+---
+
+### MHRA Published 4 Field Safety Notices for 29 June to 3 July 2026
+
+**2026-07-29** | UK MHRA | Regulation Update | !! MEDIUM
+
+The UK MHRA has released a list of 4 Field Safety Notices (FSNs) for the week of 29 June to 3 July 2026. These notices, issued by medical device manufacturers, highlight safety issues that may require corrective actions by healthcare providers or users. Affected organizations should promptly review each notice and implement any recommended measures to ensure patient safety and device compliance.
+
+**Tags**: `field_safety_notice`, `mhra`, `medical_device`, `recall`, `post_market_surveillance`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-29-june-to-03-july-2026)
+
+---
+
+### Philips Azurion Systems Medical Device Recall in Canada Due to Performance Issue
+
+**2026-07-29** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a medical device recall for certain Philips Azurion Systems due to a performance problem that may affect device functionality and patient safety. Healthcare facilities using the affected systems should immediately identify the impacted units, follow the manufacturer's corrective action instructions, and report any related adverse events. This alert highlights the importance of ongoing post-market performance monitoring for interventional imaging systems.
+
+**Tags**: `medical_device_recall`, `interventional_imaging`, `performance_issue`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/azurion-systems-0)
 
 ---
 
@@ -280,6 +352,66 @@ Swissmedic issued a Field Safety Corrective Action for ORBIS Medication 3.x, a m
 
 ---
 
+### MHRA Releases Field Safety Notices for 20–24 July 2026
+
+**2026-07-28** | UK MHRA | Safety Communication | !! MEDIUM
+
+The UK MHRA published its weekly compilation of Field Safety Notices (FSNs) for 20–24 July 2026, covering new alerts for medical devices. These notices inform healthcare providers, users, and manufacturers about identified safety issues and required corrective actions. Affected parties should immediately review the listed notices and implement any mandated field safety corrective actions to ensure continued compliance and patient safety.
+
+**Tags**: `field_safety_notice`, `mhra`, `safety_alert`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-20-to-24-july-2026)
+
+---
+
+### MHRA Field Safety Notices: 20–24 July 2026 Weekly Summary
+
+**2026-07-28** | UK MHRA | Regulation Update | !! MEDIUM
+
+The UK MHRA published a list of field safety notices issued between 20 and 24 July 2026. These notices alert healthcare providers and manufacturers to medical device safety issues requiring corrective action. Affected parties should promptly review the notices and implement recommended measures to maintain patient safety.
+
+**Tags**: `field_safety_notices`, `mhra`, `medical_device_safety`, `weekly_update`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-20-to-24-july-2026)
+
+---
+
+### Health Canada Recalls Signa MR Systems Over Performance Issues
+
+**2026-07-28** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a recall for GE Healthcare's Signa MR systems due to performance issues that may affect image quality and diagnostic accuracy. All healthcare facilities using these MRI systems are affected and should immediately review the safety alert. The manufacturer recommends corrective measures to address the performance defect and ongoing monitoring of affected equipment.
+
+**Tags**: `recall`, `magnetic_resonance_imaging`, `performance_issue`, `health_canada`, `medical_device`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/signa-mr-systems)
+
+---
+
+### Health Canada Recall Alert: IQecg® Digital ECG Device Due to Performance Issues
+
+**2026-07-28** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a recall alert for the IQecg® Digital ECG device due to performance concerns that may affect the accuracy of electrocardiogram readings. Healthcare facilities and professionals using this device should immediately check the recall notice for specific affected models and follow the manufacturer's instructions for corrective action. The issue could potentially lead to misdiagnosis, so prompt attention is critical. Affected users should contact the manufacturer, Medicalgorithmics S.A., for remediation.
+
+**Tags**: `canada_recall`, `ecg_device`, `performance_issue`, `safety_alert`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/iqecgr-digital-ecg)
+
+---
+
+### Health Canada Recalls Blanketrol® II and III 115V Warming Units Over Performance Concern
+
+**2026-07-28** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a recall for the Blanketrol® II 115V and Blanketrol® III 115V hyper-hypothermia units due to a performance issue. The affected devices are used for patient warming and cooling in clinical settings. Healthcare facilities should immediately quarantine the units, cease use, and follow the manufacturer's recall instructions to return or have the devices serviced to prevent potential patient harm.
+
+**Tags**: `medical_device_recall`, `performance_issue`, `patient_warming`, `health_canada`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/blanketrolr-ii-115v-and-blanketrolr-iii-115v)
+
+---
+
 ### PMDA Class II Recall: Denver Splint (External Nasal Splint) by Meiyu Co., Ltd.
 
 **2026-07-28** | Japan PMDA | Safety Communication | !! MEDIUM
@@ -325,6 +457,54 @@ ConvaTec issued a Field Safety Corrective Action for the Esteem Body 1 Piece Sof
 **Tags**: `swissmedic`, `fsca`, `labeling_correction`
 
 [View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260724_001)
+
+---
+
+### Philips Allura and Azurion Patient Tables: Performance Recall Issued by Health Canada
+
+**2026-07-27** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a recall alert for patient tables used in Philips Allura and Azurion interventional X-ray systems due to a performance malfunction that may lead to unintended table movement. This could cause patient falls or injuries during procedures. Healthcare facilities using these systems should immediately review the safety notice, implement recommended mitigations, and contact Philips for corrective actions.
+
+**Tags**: `medical_device_recall`, `patient_safety`, `philips`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/patient-tables-philips-allura-and-azurion-systems)
+
+---
+
+### Harmonic Arts Holy Basil Tincture Recalled in Canada Due to Out-of-Specification Total Aerobic Microbial Count
+
+**2026-07-27** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a recall for Harmonic Arts Holy Basil Tincture (all lots) due to out-of-specification total aerobic microbial count, which may pose infection risks. Consumers and retailers should immediately stop use or sale and return the product to the place of purchase. No adverse reactions have been reported. Regulatory professionals should note this product quality alert and reinforce microbial monitoring for natural health products.
+
+**Tags**: `recall`, `microbial_contamination`, `health_canada`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/harmonic-arts-holy-basil-tincture-out-specification-total-aerobic-microbial-count)
+
+---
+
+### Health Canada Recalls Sphere-9™ Catheter Due to Performance Issues
+
+**2026-07-27** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a recall alert for the Sphere-9™ Catheter due to performance issues that may affect device functionality and patient safety. Healthcare facilities using this catheter should immediately stop using affected lots and follow the manufacturer's recall instructions for product return or replacement. The alert emphasizes that continued use could lead to unreliable diagnosis or therapy delivery.
+
+**Tags**: `recall`, `catheter`, `performance_issue`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/sphere-9tm-catheter)
+
+---
+
+### Recall: Spacelabs Healthcare Xhibit® Central Station Performance Issue Safety Alert
+
+**2026-07-27** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a safety alert concerning a performance issue with the Spacelabs Healthcare Xhibit Central Station, which may compromise the display of patient vital signs. This recall affects healthcare facilities using the device for clinical monitoring. Affected users should immediately verify their device status and apply manufacturer-recommended corrective actions to prevent potential misdiagnosis or delayed treatment.
+
+**Tags**: `medical_device_recall`, `patient_monitoring`, `performance_issue`, `health_canada`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/spacelabs-healthcare-xhibitr-central-station)
 
 ---
 

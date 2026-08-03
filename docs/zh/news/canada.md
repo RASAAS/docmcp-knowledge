@@ -6,6 +6,114 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### 加拿大卫生部就医疗器械认可标准清单拟议变更展开咨询
+
+**2026-08-03** | Health Canada | 法规更新 | !! MEDIUM
+
+加拿大卫生部已就其医疗器械认可标准清单的拟议变更启动公众咨询。此次咨询邀请相关方就新增、修订或移除特定标准提出意见，这些标准是制造商证明产品符合《医疗器械法规》的可选途径。受影响方包括医疗器械制造商、进口商及行业协会。各方需在指定截止日期前提交反馈，以影响最终清单的确定。
+
+**标签**: `canada`, `standards`, `consultation`, `regulatory_update`, `medical_devices`
+
+[查看来源 (Health Canada)](https://www.canada.ca/en/health-canada/programs/consultation-proposed-changes-list-recognized-standards-medical-devices.html)
+
+---
+
+### 飞利浦Azurion系统因性能问题在加拿大被召回
+
+**2026-07-29** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已对特定飞利浦Azurion系统发布医疗器械召回，原因是存在可能影响设备功能与患者安全的性能问题。使用受影响系统的医疗机构应立即识别相关设备，遵循制造商提供的纠正措施，并报告任何相关不良事件。该警报凸显了对介入成像系统进行持续上市后性能监测的重要性。
+
+**标签**: `medical_device_recall`, `interventional_imaging`, `performance_issue`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/azurion-systems-0)
+
+---
+
+### 加拿大卫生部因性能问题召回Signa磁共振系统
+
+**2026-07-28** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已召回GE医疗的Signa磁共振系统，原因是性能问题可能影响图像质量和诊断准确性。所有使用该系统的医疗机构均受影响，应立即查阅安全警示，并按照制造商的建议采取纠正措施，同时对受影响设备进行持续监测。
+
+**标签**: `recall`, `magnetic_resonance_imaging`, `performance_issue`, `health_canada`, `medical_device`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/signa-mr-systems)
+
+---
+
+### 加拿大卫生部召回IQecg®数字心电图设备因性能问题
+
+**2026-07-28** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部因性能问题对IQecg®数字心电图设备发布召回警报，该问题可能影响心电图读数的准确性。使用该设备的医疗机构和专业人员应立即查看召回通知，确认受影响型号并按制造商指示采取纠正措施。性能问题可能导致误诊，因此必须迅速处理。受影响用户应联系制造商Medicalgorithmics S.A.进行整改。
+
+**标签**: `canada_recall`, `ecg_device`, `performance_issue`, `safety_alert`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/iqecgr-digital-ecg)
+
+---
+
+### 加拿大卫生部召回性能问题的Blanketrol® II和III型115V加温装置
+
+**2026-07-28** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部因性能问题召回Blanketrol® II 115V和Blanketrol® III 115V型冷热敷加温装置。该设备用于临床患者的升降温治疗，性能异常可能导致温度失控，造成患者风险。相关医疗机构须立即停用并隔离受影响设备，按照制造商指示退回或进行维修。
+
+**标签**: `medical_device_recall`, `performance_issue`, `patient_warming`, `health_canada`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/blanketrolr-ii-115v-and-blanketrolr-iii-115v)
+
+---
+
+### 飞利浦Allura及Azurion系统患者检查床因性能问题被加拿大卫生部召回
+
+**2026-07-27** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已发布召回警报，针对飞利浦Allura和Azurion介入X射线系统的患者检查床，因其存在可能导致检查床意外移动的性能故障。该问题可能造成患者在手术中跌落或受伤。使用这些系统的医疗机构应立即查阅安全通知，实施推荐的缓解措施，并联系飞利浦采取纠正措施。
+
+**标签**: `medical_device_recall`, `patient_safety`, `philips`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/patient-tables-philips-allura-and-azurion-systems)
+
+---
+
+### 加拿大召回Harmonic Arts圣罗勒酊剂，因需氧菌总数超标
+
+**2026-07-27** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部因需氧菌总数超标召回Harmonic Arts圣罗勒酊剂（所有批次），该问题可能引发感染风险。消费者和零售商应立即停止使用或销售，并将产品退回购买点。目前尚无不良反应报告。监管人员应注意本产品质量警示，并加强对天然保健品微生物指标的监控。
+
+**标签**: `recall`, `microbial_contamination`, `health_canada`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/harmonic-arts-holy-basil-tincture-out-specification-total-aerobic-microbial-count)
+
+---
+
+### 加拿大卫生部因性能问题召回Sphere-9™导管
+
+**2026-07-27** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已就Sphere-9™导管发出召回警告，原因是性能问题可能影响设备功能和患者安全。使用该导管的医疗机构应立即停用受影响批次，并按照制造商的召回通知进行退货或更换。该警告强调，继续使用可能导致诊断或治疗传递不可靠。
+
+**标签**: `recall`, `catheter`, `performance_issue`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/sphere-9tm-catheter)
+
+---
+
+### Spacelabs Healthcare Xhibit®中央站性能问题召回安全警报
+
+**2026-07-27** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部发布了一项针对Spacelabs Healthcare Xhibit中央监护站的性能问题安全警报，该问题可能影响患者生命体征的准确显示。此次召回涉及使用该设备进行临床监测的医疗机构。受影响的用户应立即核查设备状态，并执行制造商建议的纠正措施，以避免可能的误诊或治疗延误。
+
+**标签**: `medical_device_recall`, `patient_monitoring`, `performance_issue`, `health_canada`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/spacelabs-healthcare-xhibitr-central-station)
+
+---
+
 ### 加拿大卫生部召回HeartSine Samaritan PAD系列除颤器，因膜尾性能问题
 
 **2026-07-23** | Health Canada | 安全通报 | !!! HIGH

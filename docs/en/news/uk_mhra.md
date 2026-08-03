@@ -6,6 +6,78 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### MHRA Updates List of Medical Devices Given Exceptional Use Authorisations
+
+**2026-07-31** | UK MHRA | Regulation Update | !! MEDIUM
+
+The UK’s MHRA has published its latest decision listing medical devices that have been granted exceptional use authorisations. This exemption permits non-compliant devices to be used in specific clinical situations. The document includes manufacturer names, device details, and current statuses (active, expired, or cancelled). Stakeholders should review the list to verify the status of any devices they supply or use, ensuring continued compliance and patient safety.
+
+**Tags**: `exceptional_use_authorisation`, `mhra`, `medical_device_exemption`, `uk_regulations`, `list_update`
+
+[View Source (MHRA (UK))](https://www.gov.uk/government/publications/medical-devices-given-exceptional-use-authorisations)
+
+---
+
+### MHRA July 2026 Safety Roundup: Latest Medicines and Medical Device Safety Advice
+
+**2026-07-30** | UK MHRA | Safety Communication | !! MEDIUM
+
+The UK MHRA published its monthly Safety Roundup for July 2026, highlighting two new safety advisory entries for medicines and medical device users. Healthcare professionals, patients, and device operators should review the roundup to stay updated on emerging risks and recommended actions. The document consolidates recent Drug Safety Update and Medical Device Alerts, serving as a routine information bulletin for the regulated community.
+
+**Tags**: `mhra`, `safety_roundup`, `drug_safety`, `medical_device_alert`, `compliance_update`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/mhra-safety-roundup-july-2026)
+
+---
+
+### MHRA Summer Advisory: Keep Medical Devices Safe in Hot Weather, Simple Precautions Urged
+
+**2026-07-29** | UK MHRA | Regulation Update | !! MEDIUM
+
+The UK's MHRA has issued a seasonal reminder for patients and caregivers to take extra care with medical devices during hot weather. High temperatures can affect device performance, battery life, and the integrity of temperature-sensitive items like insulin pumps and glucose monitors. The agency advises keeping devices out of direct sunlight, storing them in cool places, and checking manufacturer instructions for safe operating temperature ranges.
+
+**Tags**: `summer_heat_safety`, `medical_device_care`, `mhra_advisory`
+
+[View Source (MHRA (UK))](https://www.gov.uk/government/news/beat-the-heat-mhra-urges-people-to-take-extra-care-with-medical-devices-this-summer)
+
+---
+
+### MHRA Published 4 Field Safety Notices for 29 June to 3 July 2026
+
+**2026-07-29** | UK MHRA | Regulation Update | !! MEDIUM
+
+The UK MHRA has released a list of 4 Field Safety Notices (FSNs) for the week of 29 June to 3 July 2026. These notices, issued by medical device manufacturers, highlight safety issues that may require corrective actions by healthcare providers or users. Affected organizations should promptly review each notice and implement any recommended measures to ensure patient safety and device compliance.
+
+**Tags**: `field_safety_notice`, `mhra`, `medical_device`, `recall`, `post_market_surveillance`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-29-june-to-03-july-2026)
+
+---
+
+### MHRA Releases Field Safety Notices for 20–24 July 2026
+
+**2026-07-28** | UK MHRA | Safety Communication | !! MEDIUM
+
+The UK MHRA published its weekly compilation of Field Safety Notices (FSNs) for 20–24 July 2026, covering new alerts for medical devices. These notices inform healthcare providers, users, and manufacturers about identified safety issues and required corrective actions. Affected parties should immediately review the listed notices and implement any mandated field safety corrective actions to ensure continued compliance and patient safety.
+
+**Tags**: `field_safety_notice`, `mhra`, `safety_alert`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-20-to-24-july-2026)
+
+---
+
+### MHRA Field Safety Notices: 20–24 July 2026 Weekly Summary
+
+**2026-07-28** | UK MHRA | Regulation Update | !! MEDIUM
+
+The UK MHRA published a list of field safety notices issued between 20 and 24 July 2026. These notices alert healthcare providers and manufacturers to medical device safety issues requiring corrective action. Affected parties should promptly review the notices and implement recommended measures to maintain patient safety.
+
+**Tags**: `field_safety_notices`, `mhra`, `medical_device_safety`, `weekly_update`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-20-to-24-july-2026)
+
+---
+
 ### MHRA Updates List of Medical Devices with Exceptional Use Authorisations
 
 **2026-07-24** | UK MHRA | Regulation Update | !! MEDIUM

@@ -6,6 +6,18 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### 加拿大卫生部就医疗器械认可标准清单拟议变更展开咨询
+
+**2026-08-03** | Health Canada | 法规更新 | !! MEDIUM
+
+加拿大卫生部已就其医疗器械认可标准清单的拟议变更启动公众咨询。此次咨询邀请相关方就新增、修订或移除特定标准提出意见，这些标准是制造商证明产品符合《医疗器械法规》的可选途径。受影响方包括医疗器械制造商、进口商及行业协会。各方需在指定截止日期前提交反馈，以影响最终清单的确定。
+
+**标签**: `canada`, `standards`, `consultation`, `regulatory_update`, `medical_devices`
+
+[查看来源 (Health Canada)](https://www.canada.ca/en/health-canada/programs/consultation-proposed-changes-list-recognized-standards-medical-devices.html)
+
+---
+
 ### HSA更新GN-21 R7版注册医疗器械变更通知指导（2026年7月生效）
 
 **2026-08-01** | Singapore HSA | 法规更新 | !! MEDIUM
@@ -15,6 +27,18 @@ title: 法规速递
 **标签**: `change_notification`, `guidance_document`, `medical_devices`, `HSA`, `Singapore`
 
 [查看来源 (Official Source)](https://go.gov.sg/gn-21-r7-31-07-2026)
+
+---
+
+### MHRA更新异常使用授权医疗器械清单
+
+**2026-07-31** | UK MHRA | 法规更新 | !! MEDIUM
+
+英国药品和健康产品管理局（MHRA）发布了最新的异常使用授权医疗器械决定清单。此类授权允许在特定临床情况下使用不符合一般合规要求的器械。该文件列出了制造商名称、器械详情及授权状态（有效、过期或已取消）。相关方应查阅此清单，确认所供应或使用器械的授权状态，确保持续合规与患者安全。
+
+**标签**: `exceptional_use_authorisation`, `mhra`, `medical_device_exemption`, `uk_regulations`, `list_update`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/government/publications/medical-devices-given-exceptional-use-authorisations)
 
 ---
 
@@ -222,6 +246,18 @@ Swissmedic已发布针对迈瑞通用多参数遥测监护仪TMS40、TMS-6016和
 
 ---
 
+### MHRA发布2026年7月安全简报：最新药品与医疗器械安全建议
+
+**2026-07-30** | UK MHRA | 安全通报 | !! MEDIUM
+
+英国MHRA发布了2026年7月安全简报，包含两份新的药品和医疗器械安全提示。医护人员、患者及设备操作人员应查阅该简报，及时了解新出现的风险和建议措施。该文件汇总了近期药品安全更新和医疗器械警示，是面向受监管行业的一份常规信息通报。
+
+**标签**: `mhra`, `safety_roundup`, `drug_safety`, `medical_device_alert`, `compliance_update`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/mhra-safety-roundup-july-2026)
+
+---
+
 ### 瑞士Swissmedic发布Renishaw Mayfield neuromate立体定向系统FSCA（型号001.0050），具体原因未明
 
 **2026-07-30** | Swissmedic | 安全通报 | !! MEDIUM
@@ -231,6 +267,42 @@ Swissmedic已发布针对迈瑞通用多参数遥测监护仪TMS40、TMS-6016和
 **标签**: `swissmedic`, `fsca`, `stereotactic_system`, `neurosurgery`, `renishaw_mayfield`
 
 [查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260722_030)
+
+---
+
+### MHRA警示：夏季高温需妥善维护医疗器械，发布简易防护步骤
+
+**2026-07-29** | UK MHRA | 法规更新 | !! MEDIUM
+
+英国药品和健康产品管理局（MHRA）发布夏季提醒，呼吁患者和护理人员在高温天气下格外注意医疗器械安全。高温可能导致设备性能下降、电池寿命缩短，并影响胰岛素泵、血糖监测仪等温度敏感型器械。该机构建议避免将设备置于阳光直射处，存放于阴凉环境，并查阅制造商说明书了解安全使用温度范围。
+
+**标签**: `summer_heat_safety`, `medical_device_care`, `mhra_advisory`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/government/news/beat-the-heat-mhra-urges-people-to-take-extra-care-with-medical-devices-this-summer)
+
+---
+
+### MHRA发布2026年6月29日至7月3日期间的4项现场安全通知
+
+**2026-07-29** | UK MHRA | 法规更新 | !! MEDIUM
+
+英国药品和健康产品管理局(MHRA)公布了2026年6月29日至7月3日期间的4项现场安全通知。这些由医疗器械制造商发布的通知指出了潜在的安全问题，要求医疗机构或使用者采取相应的纠正措施。相关单位应尽快查阅每份通知并落实建议行动，以保障患者安全和设备合规。
+
+**标签**: `field_safety_notice`, `mhra`, `medical_device`, `recall`, `post_market_surveillance`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-29-june-to-03-july-2026)
+
+---
+
+### 飞利浦Azurion系统因性能问题在加拿大被召回
+
+**2026-07-29** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已对特定飞利浦Azurion系统发布医疗器械召回，原因是存在可能影响设备功能与患者安全的性能问题。使用受影响系统的医疗机构应立即识别相关设备，遵循制造商提供的纠正措施，并报告任何相关不良事件。该警报凸显了对介入成像系统进行持续上市后性能监测的重要性。
+
+**标签**: `medical_device_recall`, `interventional_imaging`, `performance_issue`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/azurion-systems-0)
 
 ---
 
@@ -280,6 +352,66 @@ FSCA: MD: Ptfe vascular endoprostheses, straight - other. Reason: . Model: all; 
 
 ---
 
+### MHRA发布2026年7月20日至24日现场安全通知清单
+
+**2026-07-28** | UK MHRA | 安全通报 | !! MEDIUM
+
+英国药品和健康产品管理局（MHRA）发布了2026年7月20日至24日期间的现场安全通知（FSN）周汇总，涵盖新近发布的医疗器械安全警示。这些通知要求医疗机构、用户及制造商关注所涉安全问题并采取必要的纠正措施。相关方应立即查阅清单中的各项通知，并依要求执行现场安全纠正行动，以确保合规及患者安全。
+
+**标签**: `field_safety_notice`, `mhra`, `safety_alert`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-20-to-24-july-2026)
+
+---
+
+### MHRA现场安全通告：2026年7月20日至24日周报
+
+**2026-07-28** | UK MHRA | 法规更新 | !! MEDIUM
+
+英国MHRA发布了2026年7月20日至24日期间发出的现场安全通告清单。这些通告旨在提醒医疗机构和制造商注意需要采取纠正措施的医疗器械安全问题。相关方应及时查阅并执行建议措施，以保障患者安全。
+
+**标签**: `field_safety_notices`, `mhra`, `medical_device_safety`, `weekly_update`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-20-to-24-july-2026)
+
+---
+
+### 加拿大卫生部因性能问题召回Signa磁共振系统
+
+**2026-07-28** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已召回GE医疗的Signa磁共振系统，原因是性能问题可能影响图像质量和诊断准确性。所有使用该系统的医疗机构均受影响，应立即查阅安全警示，并按照制造商的建议采取纠正措施，同时对受影响设备进行持续监测。
+
+**标签**: `recall`, `magnetic_resonance_imaging`, `performance_issue`, `health_canada`, `medical_device`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/signa-mr-systems)
+
+---
+
+### 加拿大卫生部召回IQecg®数字心电图设备因性能问题
+
+**2026-07-28** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部因性能问题对IQecg®数字心电图设备发布召回警报，该问题可能影响心电图读数的准确性。使用该设备的医疗机构和专业人员应立即查看召回通知，确认受影响型号并按制造商指示采取纠正措施。性能问题可能导致误诊，因此必须迅速处理。受影响用户应联系制造商Medicalgorithmics S.A.进行整改。
+
+**标签**: `canada_recall`, `ecg_device`, `performance_issue`, `safety_alert`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/iqecgr-digital-ecg)
+
+---
+
+### 加拿大卫生部召回性能问题的Blanketrol® II和III型115V加温装置
+
+**2026-07-28** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部因性能问题召回Blanketrol® II 115V和Blanketrol® III 115V型冷热敷加温装置。该设备用于临床患者的升降温治疗，性能异常可能导致温度失控，造成患者风险。相关医疗机构须立即停用并隔离受影响设备，按照制造商指示退回或进行维修。
+
+**标签**: `medical_device_recall`, `performance_issue`, `patient_warming`, `health_canada`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/blanketrolr-ii-115v-and-blanketrolr-iii-115v)
+
+---
+
 ### 日本PMDA II级召回：名优公司Denver鼻夹板（体外式鼻用副木）
 
 **2026-07-28** | Japan PMDA | 安全通报 | !! MEDIUM
@@ -325,6 +457,54 @@ ConvaTec 在瑞士对其 Esteem Body 单件式软凸面造口袋（单件式泌�
 **标签**: `swissmedic`, `fsca`, `labeling_correction`
 
 [查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260724_001)
+
+---
+
+### 飞利浦Allura及Azurion系统患者检查床因性能问题被加拿大卫生部召回
+
+**2026-07-27** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已发布召回警报，针对飞利浦Allura和Azurion介入X射线系统的患者检查床，因其存在可能导致检查床意外移动的性能故障。该问题可能造成患者在手术中跌落或受伤。使用这些系统的医疗机构应立即查阅安全通知，实施推荐的缓解措施，并联系飞利浦采取纠正措施。
+
+**标签**: `medical_device_recall`, `patient_safety`, `philips`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/patient-tables-philips-allura-and-azurion-systems)
+
+---
+
+### 加拿大召回Harmonic Arts圣罗勒酊剂，因需氧菌总数超标
+
+**2026-07-27** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部因需氧菌总数超标召回Harmonic Arts圣罗勒酊剂（所有批次），该问题可能引发感染风险。消费者和零售商应立即停止使用或销售，并将产品退回购买点。目前尚无不良反应报告。监管人员应注意本产品质量警示，并加强对天然保健品微生物指标的监控。
+
+**标签**: `recall`, `microbial_contamination`, `health_canada`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/harmonic-arts-holy-basil-tincture-out-specification-total-aerobic-microbial-count)
+
+---
+
+### 加拿大卫生部因性能问题召回Sphere-9™导管
+
+**2026-07-27** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已就Sphere-9™导管发出召回警告，原因是性能问题可能影响设备功能和患者安全。使用该导管的医疗机构应立即停用受影响批次，并按照制造商的召回通知进行退货或更换。该警告强调，继续使用可能导致诊断或治疗传递不可靠。
+
+**标签**: `recall`, `catheter`, `performance_issue`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/sphere-9tm-catheter)
+
+---
+
+### Spacelabs Healthcare Xhibit®中央站性能问题召回安全警报
+
+**2026-07-27** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部发布了一项针对Spacelabs Healthcare Xhibit中央监护站的性能问题安全警报，该问题可能影响患者生命体征的准确显示。此次召回涉及使用该设备进行临床监测的医疗机构。受影响的用户应立即核查设备状态，并执行制造商建议的纠正措施，以避免可能的误诊或治疗延误。
+
+**标签**: `medical_device_recall`, `patient_monitoring`, `performance_issue`, `health_canada`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/spacelabs-healthcare-xhibitr-central-station)
 
 ---
 

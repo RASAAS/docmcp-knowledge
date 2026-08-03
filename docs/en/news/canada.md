@@ -6,6 +6,114 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### Health Canada Opens Consultation on Proposed Changes to the List of Recognized Standards for Medical Devices
+
+**2026-08-03** | Health Canada | Regulation Update | !! MEDIUM
+
+Health Canada has launched a public consultation on proposed updates to the List of Recognized Standards for medical devices. This consultation invites stakeholders to comment on the addition, modification, or removal of specific standards that manufacturers may use to demonstrate compliance with the Medical Devices Regulations. Affected parties include medical device manufacturers, importers, and industry associations. Feedback must be submitted by the specified deadline to influence the final list.
+
+**Tags**: `canada`, `standards`, `consultation`, `regulatory_update`, `medical_devices`
+
+[View Source (Health Canada)](https://www.canada.ca/en/health-canada/programs/consultation-proposed-changes-list-recognized-standards-medical-devices.html)
+
+---
+
+### Philips Azurion Systems Medical Device Recall in Canada Due to Performance Issue
+
+**2026-07-29** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a medical device recall for certain Philips Azurion Systems due to a performance problem that may affect device functionality and patient safety. Healthcare facilities using the affected systems should immediately identify the impacted units, follow the manufacturer's corrective action instructions, and report any related adverse events. This alert highlights the importance of ongoing post-market performance monitoring for interventional imaging systems.
+
+**Tags**: `medical_device_recall`, `interventional_imaging`, `performance_issue`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/azurion-systems-0)
+
+---
+
+### Health Canada Recalls Signa MR Systems Over Performance Issues
+
+**2026-07-28** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a recall for GE Healthcare's Signa MR systems due to performance issues that may affect image quality and diagnostic accuracy. All healthcare facilities using these MRI systems are affected and should immediately review the safety alert. The manufacturer recommends corrective measures to address the performance defect and ongoing monitoring of affected equipment.
+
+**Tags**: `recall`, `magnetic_resonance_imaging`, `performance_issue`, `health_canada`, `medical_device`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/signa-mr-systems)
+
+---
+
+### Health Canada Recall Alert: IQecg® Digital ECG Device Due to Performance Issues
+
+**2026-07-28** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a recall alert for the IQecg® Digital ECG device due to performance concerns that may affect the accuracy of electrocardiogram readings. Healthcare facilities and professionals using this device should immediately check the recall notice for specific affected models and follow the manufacturer's instructions for corrective action. The issue could potentially lead to misdiagnosis, so prompt attention is critical. Affected users should contact the manufacturer, Medicalgorithmics S.A., for remediation.
+
+**Tags**: `canada_recall`, `ecg_device`, `performance_issue`, `safety_alert`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/iqecgr-digital-ecg)
+
+---
+
+### Health Canada Recalls Blanketrol® II and III 115V Warming Units Over Performance Concern
+
+**2026-07-28** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a recall for the Blanketrol® II 115V and Blanketrol® III 115V hyper-hypothermia units due to a performance issue. The affected devices are used for patient warming and cooling in clinical settings. Healthcare facilities should immediately quarantine the units, cease use, and follow the manufacturer's recall instructions to return or have the devices serviced to prevent potential patient harm.
+
+**Tags**: `medical_device_recall`, `performance_issue`, `patient_warming`, `health_canada`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/blanketrolr-ii-115v-and-blanketrolr-iii-115v)
+
+---
+
+### Philips Allura and Azurion Patient Tables: Performance Recall Issued by Health Canada
+
+**2026-07-27** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a recall alert for patient tables used in Philips Allura and Azurion interventional X-ray systems due to a performance malfunction that may lead to unintended table movement. This could cause patient falls or injuries during procedures. Healthcare facilities using these systems should immediately review the safety notice, implement recommended mitigations, and contact Philips for corrective actions.
+
+**Tags**: `medical_device_recall`, `patient_safety`, `philips`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/patient-tables-philips-allura-and-azurion-systems)
+
+---
+
+### Harmonic Arts Holy Basil Tincture Recalled in Canada Due to Out-of-Specification Total Aerobic Microbial Count
+
+**2026-07-27** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a recall for Harmonic Arts Holy Basil Tincture (all lots) due to out-of-specification total aerobic microbial count, which may pose infection risks. Consumers and retailers should immediately stop use or sale and return the product to the place of purchase. No adverse reactions have been reported. Regulatory professionals should note this product quality alert and reinforce microbial monitoring for natural health products.
+
+**Tags**: `recall`, `microbial_contamination`, `health_canada`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/harmonic-arts-holy-basil-tincture-out-specification-total-aerobic-microbial-count)
+
+---
+
+### Health Canada Recalls Sphere-9™ Catheter Due to Performance Issues
+
+**2026-07-27** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a recall alert for the Sphere-9™ Catheter due to performance issues that may affect device functionality and patient safety. Healthcare facilities using this catheter should immediately stop using affected lots and follow the manufacturer's recall instructions for product return or replacement. The alert emphasizes that continued use could lead to unreliable diagnosis or therapy delivery.
+
+**Tags**: `recall`, `catheter`, `performance_issue`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/sphere-9tm-catheter)
+
+---
+
+### Recall: Spacelabs Healthcare Xhibit® Central Station Performance Issue Safety Alert
+
+**2026-07-27** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a safety alert concerning a performance issue with the Spacelabs Healthcare Xhibit Central Station, which may compromise the display of patient vital signs. This recall affects healthcare facilities using the device for clinical monitoring. Affected users should immediately verify their device status and apply manufacturer-recommended corrective actions to prevent potential misdiagnosis or delayed treatment.
+
+**Tags**: `medical_device_recall`, `patient_monitoring`, `performance_issue`, `health_canada`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/spacelabs-healthcare-xhibitr-central-station)
+
+---
+
 ### Health Canada Recalls HeartSine Samaritan PAD 350P/360P/500P AEDs Due to Membrane Tail Performance Issue
 
 **2026-07-23** | Health Canada | Safety Communication | !!! HIGH

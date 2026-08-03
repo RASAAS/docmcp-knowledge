@@ -6,6 +6,78 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### MHRA更新异常使用授权医疗器械清单
+
+**2026-07-31** | UK MHRA | 法规更新 | !! MEDIUM
+
+英国药品和健康产品管理局（MHRA）发布了最新的异常使用授权医疗器械决定清单。此类授权允许在特定临床情况下使用不符合一般合规要求的器械。该文件列出了制造商名称、器械详情及授权状态（有效、过期或已取消）。相关方应查阅此清单，确认所供应或使用器械的授权状态，确保持续合规与患者安全。
+
+**标签**: `exceptional_use_authorisation`, `mhra`, `medical_device_exemption`, `uk_regulations`, `list_update`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/government/publications/medical-devices-given-exceptional-use-authorisations)
+
+---
+
+### MHRA发布2026年7月安全简报：最新药品与医疗器械安全建议
+
+**2026-07-30** | UK MHRA | 安全通报 | !! MEDIUM
+
+英国MHRA发布了2026年7月安全简报，包含两份新的药品和医疗器械安全提示。医护人员、患者及设备操作人员应查阅该简报，及时了解新出现的风险和建议措施。该文件汇总了近期药品安全更新和医疗器械警示，是面向受监管行业的一份常规信息通报。
+
+**标签**: `mhra`, `safety_roundup`, `drug_safety`, `medical_device_alert`, `compliance_update`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/mhra-safety-roundup-july-2026)
+
+---
+
+### MHRA警示：夏季高温需妥善维护医疗器械，发布简易防护步骤
+
+**2026-07-29** | UK MHRA | 法规更新 | !! MEDIUM
+
+英国药品和健康产品管理局（MHRA）发布夏季提醒，呼吁患者和护理人员在高温天气下格外注意医疗器械安全。高温可能导致设备性能下降、电池寿命缩短，并影响胰岛素泵、血糖监测仪等温度敏感型器械。该机构建议避免将设备置于阳光直射处，存放于阴凉环境，并查阅制造商说明书了解安全使用温度范围。
+
+**标签**: `summer_heat_safety`, `medical_device_care`, `mhra_advisory`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/government/news/beat-the-heat-mhra-urges-people-to-take-extra-care-with-medical-devices-this-summer)
+
+---
+
+### MHRA发布2026年6月29日至7月3日期间的4项现场安全通知
+
+**2026-07-29** | UK MHRA | 法规更新 | !! MEDIUM
+
+英国药品和健康产品管理局(MHRA)公布了2026年6月29日至7月3日期间的4项现场安全通知。这些由医疗器械制造商发布的通知指出了潜在的安全问题，要求医疗机构或使用者采取相应的纠正措施。相关单位应尽快查阅每份通知并落实建议行动，以保障患者安全和设备合规。
+
+**标签**: `field_safety_notice`, `mhra`, `medical_device`, `recall`, `post_market_surveillance`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-29-june-to-03-july-2026)
+
+---
+
+### MHRA发布2026年7月20日至24日现场安全通知清单
+
+**2026-07-28** | UK MHRA | 安全通报 | !! MEDIUM
+
+英国药品和健康产品管理局（MHRA）发布了2026年7月20日至24日期间的现场安全通知（FSN）周汇总，涵盖新近发布的医疗器械安全警示。这些通知要求医疗机构、用户及制造商关注所涉安全问题并采取必要的纠正措施。相关方应立即查阅清单中的各项通知，并依要求执行现场安全纠正行动，以确保合规及患者安全。
+
+**标签**: `field_safety_notice`, `mhra`, `safety_alert`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-20-to-24-july-2026)
+
+---
+
+### MHRA现场安全通告：2026年7月20日至24日周报
+
+**2026-07-28** | UK MHRA | 法规更新 | !! MEDIUM
+
+英国MHRA发布了2026年7月20日至24日期间发出的现场安全通告清单。这些通告旨在提醒医疗机构和制造商注意需要采取纠正措施的医疗器械安全问题。相关方应及时查阅并执行建议措施，以保障患者安全。
+
+**标签**: `field_safety_notices`, `mhra`, `medical_device_safety`, `weekly_update`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-20-to-24-july-2026)
+
+---
+
 ### MHRA更新获得特殊使用授权的医疗器械清单
 
 **2026-07-24** | UK MHRA | 法规更新 | !! MEDIUM

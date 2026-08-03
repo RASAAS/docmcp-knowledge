@@ -1,7 +1,239 @@
 {
   "framework": "canada",
-  "last_updated": "2026-07-27T20:26:55Z",
+  "last_updated": "2026-08-03T20:35:56Z",
   "items": [
+    {
+      "id": "canada_20260803_health_canada_opens_consultation_on_proposed_changes_to_the",
+      "framework": "canada",
+      "category": "regulation_update",
+      "title": {
+        "en": "Health Canada Opens Consultation on Proposed Changes to the List of Recognized Standards for Medical Devices",
+        "zh": "加拿大卫生部就医疗器械认可标准清单拟议变更展开咨询"
+      },
+      "summary": {
+        "en": "Health Canada has launched a public consultation on proposed updates to the List of Recognized Standards for medical devices. This consultation invites stakeholders to comment on the addition, modification, or removal of specific standards that manufacturers may use to demonstrate compliance with the Medical Devices Regulations. Affected parties include medical device manufacturers, importers, and industry associations. Feedback must be submitted by the specified deadline to influence the final list.",
+        "zh": "加拿大卫生部已就其医疗器械认可标准清单的拟议变更启动公众咨询。此次咨询邀请相关方就新增、修订或移除特定标准提出意见，这些标准是制造商证明产品符合《医疗器械法规》的可选途径。受影响方包括医疗器械制造商、进口商及行业协会。各方需在指定截止日期前提交反馈，以影响最终清单的确定。"
+      },
+      "source_url": "https://www.canada.ca/en/health-canada/programs/consultation-proposed-changes-list-recognized-standards-medical-devices.html",
+      "source_name": "Health Canada",
+      "published_date": "2026-08-03",
+      "detected_date": "2026-08-03T20:35:56Z",
+      "importance": "medium",
+      "tags": [
+        "canada",
+        "standards",
+        "consultation",
+        "regulatory_update",
+        "medical_devices"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260803_philips_azurion_systems_medical_device_recall_in_canada_due",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Philips Azurion Systems Medical Device Recall in Canada Due to Performance Issue",
+        "zh": "飞利浦Azurion系统因性能问题在加拿大被召回"
+      },
+      "summary": {
+        "en": "Health Canada has issued a medical device recall for certain Philips Azurion Systems due to a performance problem that may affect device functionality and patient safety. Healthcare facilities using the affected systems should immediately identify the impacted units, follow the manufacturer's corrective action instructions, and report any related adverse events. This alert highlights the importance of ongoing post-market performance monitoring for interventional imaging systems.",
+        "zh": "加拿大卫生部已对特定飞利浦Azurion系统发布医疗器械召回，原因是存在可能影响设备功能与患者安全的性能问题。使用受影响系统的医疗机构应立即识别相关设备，遵循制造商提供的纠正措施，并报告任何相关不良事件。该警报凸显了对介入成像系统进行持续上市后性能监测的重要性。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/azurion-systems-0",
+      "source_name": "Health Canada",
+      "published_date": "2026-07-29",
+      "detected_date": "2026-08-03T20:33:10Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "interventional_imaging",
+        "performance_issue"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260803_health_canada_recalls_signa_mr_systems_over_performance_issu",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Recalls Signa MR Systems Over Performance Issues",
+        "zh": "加拿大卫生部因性能问题召回Signa磁共振系统"
+      },
+      "summary": {
+        "en": "Health Canada has issued a recall for GE Healthcare's Signa MR systems due to performance issues that may affect image quality and diagnostic accuracy. All healthcare facilities using these MRI systems are affected and should immediately review the safety alert. The manufacturer recommends corrective measures to address the performance defect and ongoing monitoring of affected equipment.",
+        "zh": "加拿大卫生部已召回GE医疗的Signa磁共振系统，原因是性能问题可能影响图像质量和诊断准确性。所有使用该系统的医疗机构均受影响，应立即查阅安全警示，并按照制造商的建议采取纠正措施，同时对受影响设备进行持续监测。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/signa-mr-systems",
+      "source_name": "Health Canada",
+      "published_date": "2026-07-28",
+      "detected_date": "2026-08-03T20:33:28Z",
+      "importance": "high",
+      "tags": [
+        "recall",
+        "magnetic_resonance_imaging",
+        "performance_issue",
+        "health_canada",
+        "medical_device"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260803_health_canada_recall_alert_iqecg_digital_ecg_device_due_to_p",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Recall Alert: IQecg® Digital ECG Device Due to Performance Issues",
+        "zh": "加拿大卫生部召回IQecg®数字心电图设备因性能问题"
+      },
+      "summary": {
+        "en": "Health Canada has issued a recall alert for the IQecg® Digital ECG device due to performance concerns that may affect the accuracy of electrocardiogram readings. Healthcare facilities and professionals using this device should immediately check the recall notice for specific affected models and follow the manufacturer's instructions for corrective action. The issue could potentially lead to misdiagnosis, so prompt attention is critical. Affected users should contact the manufacturer, Medicalgorithmics S.A., for remediation.",
+        "zh": "加拿大卫生部因性能问题对IQecg®数字心电图设备发布召回警报，该问题可能影响心电图读数的准确性。使用该设备的医疗机构和专业人员应立即查看召回通知，确认受影响型号并按制造商指示采取纠正措施。性能问题可能导致误诊，因此必须迅速处理。受影响用户应联系制造商Medicalgorithmics S.A.进行整改。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/iqecgr-digital-ecg",
+      "source_name": "Health Canada",
+      "published_date": "2026-07-28",
+      "detected_date": "2026-08-03T20:33:58Z",
+      "importance": "high",
+      "tags": [
+        "canada_recall",
+        "ecg_device",
+        "performance_issue",
+        "safety_alert"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260803_health_canada_recalls_blanketrol_ii_and_iii_115v_warming_uni",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Recalls Blanketrol® II and III 115V Warming Units Over Performance Concern",
+        "zh": "加拿大卫生部召回性能问题的Blanketrol® II和III型115V加温装置"
+      },
+      "summary": {
+        "en": "Health Canada has issued a recall for the Blanketrol® II 115V and Blanketrol® III 115V hyper-hypothermia units due to a performance issue. The affected devices are used for patient warming and cooling in clinical settings. Healthcare facilities should immediately quarantine the units, cease use, and follow the manufacturer's recall instructions to return or have the devices serviced to prevent potential patient harm.",
+        "zh": "加拿大卫生部因性能问题召回Blanketrol® II 115V和Blanketrol® III 115V型冷热敷加温装置。该设备用于临床患者的升降温治疗，性能异常可能导致温度失控，造成患者风险。相关医疗机构须立即停用并隔离受影响设备，按照制造商指示退回或进行维修。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/blanketrolr-ii-115v-and-blanketrolr-iii-115v",
+      "source_name": "Health Canada",
+      "published_date": "2026-07-28",
+      "detected_date": "2026-08-03T20:34:14Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "performance_issue",
+        "patient_warming",
+        "health_canada"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260803_philips_allura_and_azurion_patient_tables_performance_recall",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Philips Allura and Azurion Patient Tables: Performance Recall Issued by Health Canada",
+        "zh": "飞利浦Allura及Azurion系统患者检查床因性能问题被加拿大卫生部召回"
+      },
+      "summary": {
+        "en": "Health Canada has issued a recall alert for patient tables used in Philips Allura and Azurion interventional X-ray systems due to a performance malfunction that may lead to unintended table movement. This could cause patient falls or injuries during procedures. Healthcare facilities using these systems should immediately review the safety notice, implement recommended mitigations, and contact Philips for corrective actions.",
+        "zh": "加拿大卫生部已发布召回警报，针对飞利浦Allura和Azurion介入X射线系统的患者检查床，因其存在可能导致检查床意外移动的性能故障。该问题可能造成患者在手术中跌落或受伤。使用这些系统的医疗机构应立即查阅安全通知，实施推荐的缓解措施，并联系飞利浦采取纠正措施。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/patient-tables-philips-allura-and-azurion-systems",
+      "source_name": "Health Canada",
+      "published_date": "2026-07-27",
+      "detected_date": "2026-08-03T20:34:40Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "patient_safety",
+        "philips"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260803_harmonic_arts_holy_basil_tincture_recalled_in_canada_due_to",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Harmonic Arts Holy Basil Tincture Recalled in Canada Due to Out-of-Specification Total Aerobic Microbial Count",
+        "zh": "加拿大召回Harmonic Arts圣罗勒酊剂，因需氧菌总数超标"
+      },
+      "summary": {
+        "en": "Health Canada has issued a recall for Harmonic Arts Holy Basil Tincture (all lots) due to out-of-specification total aerobic microbial count, which may pose infection risks. Consumers and retailers should immediately stop use or sale and return the product to the place of purchase. No adverse reactions have been reported. Regulatory professionals should note this product quality alert and reinforce microbial monitoring for natural health products.",
+        "zh": "加拿大卫生部因需氧菌总数超标召回Harmonic Arts圣罗勒酊剂（所有批次），该问题可能引发感染风险。消费者和零售商应立即停止使用或销售，并将产品退回购买点。目前尚无不良反应报告。监管人员应注意本产品质量警示，并加强对天然保健品微生物指标的监控。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/harmonic-arts-holy-basil-tincture-out-specification-total-aerobic-microbial-count",
+      "source_name": "Health Canada",
+      "published_date": "2026-07-27",
+      "detected_date": "2026-08-03T20:35:00Z",
+      "importance": "high",
+      "tags": [
+        "recall",
+        "microbial_contamination",
+        "health_canada"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260803_health_canada_recalls_sphere_9_catheter_due_to_performance_i",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Recalls Sphere-9™ Catheter Due to Performance Issues",
+        "zh": "加拿大卫生部因性能问题召回Sphere-9™导管"
+      },
+      "summary": {
+        "en": "Health Canada has issued a recall alert for the Sphere-9™ Catheter due to performance issues that may affect device functionality and patient safety. Healthcare facilities using this catheter should immediately stop using affected lots and follow the manufacturer's recall instructions for product return or replacement. The alert emphasizes that continued use could lead to unreliable diagnosis or therapy delivery.",
+        "zh": "加拿大卫生部已就Sphere-9™导管发出召回警告，原因是性能问题可能影响设备功能和患者安全。使用该导管的医疗机构应立即停用受影响批次，并按照制造商的召回通知进行退货或更换。该警告强调，继续使用可能导致诊断或治疗传递不可靠。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/sphere-9tm-catheter",
+      "source_name": "Health Canada",
+      "published_date": "2026-07-27",
+      "detected_date": "2026-08-03T20:35:24Z",
+      "importance": "high",
+      "tags": [
+        "recall",
+        "catheter",
+        "performance_issue"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260803_recall_spacelabs_healthcare_xhibit_central_station_performan",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Recall: Spacelabs Healthcare Xhibit® Central Station Performance Issue Safety Alert",
+        "zh": "Spacelabs Healthcare Xhibit®中央站性能问题召回安全警报"
+      },
+      "summary": {
+        "en": "Health Canada has issued a safety alert concerning a performance issue with the Spacelabs Healthcare Xhibit Central Station, which may compromise the display of patient vital signs. This recall affects healthcare facilities using the device for clinical monitoring. Affected users should immediately verify their device status and apply manufacturer-recommended corrective actions to prevent potential misdiagnosis or delayed treatment.",
+        "zh": "加拿大卫生部发布了一项针对Spacelabs Healthcare Xhibit中央监护站的性能问题安全警报，该问题可能影响患者生命体征的准确显示。此次召回涉及使用该设备进行临床监测的医疗机构。受影响的用户应立即核查设备状态，并执行制造商建议的纠正措施，以避免可能的误诊或治疗延误。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/spacelabs-healthcare-xhibitr-central-station",
+      "source_name": "Health Canada",
+      "published_date": "2026-07-27",
+      "detected_date": "2026-08-03T20:35:45Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "patient_monitoring",
+        "performance_issue",
+        "health_canada"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
     {
       "id": "canada_20260727_health_canada_recalls_heartsine_samaritan_pad_350p_360p_500p",
       "framework": "canada",
