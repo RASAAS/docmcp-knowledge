@@ -6,6 +6,54 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### Medline因药物浓度错误召回含Huons利多卡因和布比卡因注射液的便利套装
+
+**2026-08-04** | FDA | cdrh_news | !!! HIGH
+
+Medline Industries因其便利套装中Huons盐酸利多卡因和盐酸布比卡因葡萄糖注射液标签浓度标示错误而发布纠正通知。受影响套装已分销至全美医疗机构。使用者应立即隔离并退回相关套装，在获得纠正后的替代品之前不得使用该产品。
+
+**标签**: `convenience_kit_recall`, `lidocaine_bupivacaine`, `medication_labeling_error`, `cdrh`, `medical_device_correction`
+
+[查看来源 (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-medline-issues-correction-kits-containing-huons-lidocaine-hydrochloride)
+
+---
+
+### Medical Action Industries 对含有召回Namic歧管的便利套件发起纠正
+
+**2026-08-04** | FDA | cdrh_news | !! MEDIUM
+
+Medical Action Industries 因其部分便利套件中包含之前召回的Namic歧管而发起纠正行动，该歧管可能存在无菌性或性能问题。医疗机构和使用者应立即识别并隔离受影响产品，按照公司指示进行退货或更换。FDA 通告提醒用户核查库存，停止使用相关批次套件，以避免患者安全风险。
+
+**标签**: `recall`, `convenience_kit`, `namic_manifold`, `correction`, `sterility_risk`
+
+[查看来源 (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-medical-action-industries-issues-correction-kits-containing-recalled)
+
+---
+
+### Argon Medical因便利包含Spectra利多卡因安瓿发布更正通知
+
+**2026-08-04** | FDA | cdrh_news | !! MEDIUM
+
+Argon Medical现因便利包中所含Spectra Medical Device利多卡因安瓿存在潜在问题，主动发布更正通知。使用该类便利包的医疗机构应立即隔离并停用受影响产品，并遵循Argon Medical的退货或处理指引。FDA通过CDRH新闻更新传播此信息，以提醒相关方并确保患者安全。
+
+**标签**: `convenience_kit`, `argon_medical`, `lidocaine_ampules`, `field_correction`, `cdrh_news`
+
+[查看来源 (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-argon-medical-issues-correction-convenience-kits-containing-spectra)
+
+---
+
+### FDA发布2026年7月人因信息上市申请最终指南城镇会议资料
+
+**2026-08-04** | FDA | cdrh_news | !! MEDIUM
+
+FDA医疗器械与放射健康中心发布了2026年7月22日举行的关于人因信息在医疗器械上市申请中最终指南的城镇会议演示文稿、幻灯片和文字记录。该资料阐释了制造商在510(k)、PMA及De Novo申请中整合可用性工程数据的规范要求。建议法规事务和研发团队查阅，确保后续申报文件符合当前期望。
+
+**标签**: `human_factors`, `marketing_submission`, `town_hall`, `final_guidance`
+
+[查看来源 (FDA)](https://www.fda.gov/medical-devices/medical-devices-news-and-events/town-hall-content-human-factors-information-medical-device-marketing-submissions-final-guidance)
+
+---
+
 ### 加拿大卫生部就医疗器械认可标准清单拟议变更展开咨询
 
 **2026-08-03** | Health Canada | 法规更新 | !! MEDIUM
@@ -267,6 +315,52 @@ Swissmedic已发布针对迈瑞通用多参数遥测监护仪TMS40、TMS-6016和
 **标签**: `swissmedic`, `fsca`, `stereotactic_system`, `neurosurgery`, `renishaw_mayfield`
 
 [查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260722_030)
+
+---
+
+### I类召回：Medline TOTAL KNEE-LF手术包含被召回的布比卡因注射液
+
+**2026-07-29** | FDA | recall_class1 | !!! HIGH
+
+Medline Industries, LP正在召回318套TOTAL KNEE-LF医疗手术便利包（召回编号#Z-2765-2026），因其内含的ICU Medical疼痛管理包使用了先前因质量问题被召回的布比卡因盐酸盐葡萄糖注射液，可能引发严重健康风险。此次为I类召回，产品全国分销。医疗机构应立即隔离并退回所有受影响产品。
+
+**标签**: `class_i_recall`, `convenience_kit`, `bupivacaine_injection`, `drug_recall`, `medical_device_kit`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2765-2026)
+
+---
+
+### Class I Recall: Medline Industries, LP - MEDLINE ANTERIOR HIP, Medline Kit SKU DYNJ909640G
+
+**2026-07-29** | FDA | recall_class1 | !! MEDIUM
+
+Recall #Z-2747-2026 by Medline Industries, LP. Reason: Medline Industries, LP is issuing a recall for specific Medline kits containing B. Braun convenience kits that include Bupivacaine Hydrochloride in Dextrose Injection, USP. B. Braun Medical Inc. was n. Quantity: 60 kits.
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2747-2026)
+
+---
+
+### 美联工业召回剖宫产手术包（SKU DYNJ910835），涉及布比卡因注射液问题
+
+**2026-07-29** | FDA | recall_class1 | !!! HIGH
+
+美联工业（Medline Industries, LP）对批号为DYNJ910835的C-SECTION手术便利包发起I级召回，原因是其包含的贝朗配件中含有存在潜在健康危害的盐酸布比卡因葡萄糖注射液。召回涉及美国境内分发的56套器械包。用户应立即隔离受影响产品并退回美联公司。
+
+**标签**: `class_i_recall`, `convenience_kit`, `bupivacaine_injection`, `medline_industries`, `surgical_kit`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2748-2026)
+
+---
+
+### Medline HIP CDS-LF 手术便利套装因含召回布比卡因注射液被一级召回
+
+**2026-07-29** | FDA | recall_class1 | !!! HIGH
+
+Medline Industries, LP 正在召回52套标注为‘HIP CDS-LF’的MEDLINE医疗手术便利套装，原因是其中包含ICU Medical的疼痛管理套件，该套件中含有的盐酸布比卡因葡萄糖注射液因质量问题被召回，存在健康风险。此召回为最严重的一级召回，可能造成严重不良健康后果。医疗机构应立即停止使用并隔离受影响套件，并联系Medline进行退货或处置。
+
+**标签**: `class_i_recall`, `medline`, `procedure_kit`, `bupivacaine`, `drug_device_combination`, `pain_management`, `safety_alert`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2764-2026)
 
 ---
 
@@ -2221,6 +2315,28 @@ Insulet公司正在召回289,046个Omnipod (Eros) Pod（型号POD-ZXP425），�
 **标签**: `recall`, `olympus`, `hdmi_dp_fault`
 
 [查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=221196)
+
+---
+
+### Device Recall: INTEGRATED MEDCRAFT LLC - FORWARD Oral Airway Kit (OPA Sizes 5, 6.5, 7, 8, 9, 10, 12). REF Number: 1011-4
+
+**2026-07-07** | FDA | 安全通报 | !! MEDIUM
+
+Recall Z-2836-2026: Devices could potentially contain an occluded or partially occluded Guedel Airway tip.
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=221221)
+
+---
+
+### 召回：Integrated Medcraft Kingfisher急救包（REF 76656）Guedel气道堵塞风险
+
+**2026-07-07** | FDA | 安全通报 | !!! HIGH
+
+Integrated Medcraft LLC召回其Kingfisher紧凑型个人急救包（REF 76656），因所含一体式Guedel气道尖端可能存在完全或部分堵塞。该缺陷可能阻碍气流，延误紧急通气，导致严重伤害或死亡。经销商和用户应立即隔离受影响产品，并联系公司进行退货或更换。
+
+**标签**: `recall`, `fda_safety_communication`, `airway_obstruction`, `first_aid_kit`, `guedel_airway`, `integrated_medcraft`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=221261)
 
 ---
 

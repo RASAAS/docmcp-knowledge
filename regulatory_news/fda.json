@@ -1,7 +1,218 @@
 {
   "framework": "fda",
-  "last_updated": "2026-07-28T20:26:54Z",
+  "last_updated": "2026-08-04T20:43:18Z",
   "items": [
+    {
+      "id": "fda_20260804_medline_recalls_convenience_kits_with_huons_lidocaine_and_bu",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "Medline Recalls Convenience Kits with Huons Lidocaine and Bupivacaine Injection Due to Incorrect Drug Concentration",
+        "zh": "Medline因药物浓度错误召回含Huons利多卡因和布比卡因注射液的便利套装"
+      },
+      "summary": {
+        "en": "Medline Industries has issued a correction for convenience kits containing Huons Lidocaine Hydrochloride and Bupivacaine Hydrochloride in Dextrose Injection due to a labeling error that misstates the drug concentration. Affected kits were distributed to healthcare facilities nationwide. Users should immediately quarantine and return any impacted kits to Medline and avoid using the product until corrected replacements are provided.",
+        "zh": "Medline Industries因其便利套装中Huons盐酸利多卡因和盐酸布比卡因葡萄糖注射液标签浓度标示错误而发布纠正通知。受影响套装已分销至全美医疗机构。使用者应立即隔离并退回相关套装，在获得纠正后的替代品之前不得使用该产品。"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-medline-issues-correction-kits-containing-huons-lidocaine-hydrochloride",
+      "source_name": "FDA",
+      "published_date": "2026-08-04",
+      "detected_date": "2026-08-04T20:42:28Z",
+      "importance": "high",
+      "tags": [
+        "convenience_kit_recall",
+        "lidocaine_bupivacaine",
+        "medication_labeling_error",
+        "cdrh",
+        "medical_device_correction"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260804_medical_action_industries_corrects_convenience_kits_with_rec",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "Medical Action Industries Corrects Convenience Kits with Recalled Namic Manifolds",
+        "zh": "Medical Action Industries 对含有召回Namic歧管的便利套件发起纠正"
+      },
+      "summary": {
+        "en": "Medical Action Industries has issued a correction for certain convenience kits that contain Namic manifolds previously recalled due to potential sterility or performance issues. Healthcare providers and facilities using these kits should immediately identify and quarantine affected products, and follow the company’s instructions for return or replacement. The FDA notice alerts users to check inventory and stop using impacted kit lots to prevent patient safety risks.",
+        "zh": "Medical Action Industries 因其部分便利套件中包含之前召回的Namic歧管而发起纠正行动，该歧管可能存在无菌性或性能问题。医疗机构和使用者应立即识别并隔离受影响产品，按照公司指示进行退货或更换。FDA 通告提醒用户核查库存，停止使用相关批次套件，以避免患者安全风险。"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-medical-action-industries-issues-correction-kits-containing-recalled",
+      "source_name": "FDA",
+      "published_date": "2026-08-04",
+      "detected_date": "2026-08-04T20:42:41Z",
+      "importance": "medium",
+      "tags": [
+        "recall",
+        "convenience_kit",
+        "namic_manifold",
+        "correction",
+        "sterility_risk"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260804_argon_medical_issues_correction_for_convenience_kits_contain",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "Argon Medical Issues Correction for Convenience Kits Containing Spectra Lidocaine Ampules",
+        "zh": "Argon Medical因便利包含Spectra利多卡因安瓿发布更正通知"
+      },
+      "summary": {
+        "en": "Argon Medical has announced a voluntary correction for convenience kits that include Spectra Medical Device Lidocaine Ampules, due to a potential issue with the ampules. Healthcare providers using these kits should immediately quarantine and stop using the affected products, and follow Argon Medical’s instructions for return or disposal. The FDA is sharing this CDRH news update to raise awareness and protect patient safety.",
+        "zh": "Argon Medical现因便利包中所含Spectra Medical Device利多卡因安瓿存在潜在问题，主动发布更正通知。使用该类便利包的医疗机构应立即隔离并停用受影响产品，并遵循Argon Medical的退货或处理指引。FDA通过CDRH新闻更新传播此信息，以提醒相关方并确保患者安全。"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-argon-medical-issues-correction-convenience-kits-containing-spectra",
+      "source_name": "FDA",
+      "published_date": "2026-08-04",
+      "detected_date": "2026-08-04T20:43:03Z",
+      "importance": "medium",
+      "tags": [
+        "convenience_kit",
+        "argon_medical",
+        "lidocaine_ampules",
+        "field_correction",
+        "cdrh_news"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260804_fda_posts_town_hall_slides_transcript_on_human_factors_info",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "FDA Posts Town Hall Slides & Transcript on Human Factors Info in Marketing Submissions Final Guidance (July 2026)",
+        "zh": "FDA发布2026年7月人因信息上市申请最终指南城镇会议资料"
+      },
+      "summary": {
+        "en": "The CDRH published the presentation, slides, and transcript from the July 22, 2026 town hall discussing the final guidance on human factors information in medical device marketing submissions. The materials clarify how manufacturers should incorporate usability engineering data in 510(k), PMA, and De Novo applications. Review is recommended for regulatory and R&D teams to align future submissions with current FDA expectations.",
+        "zh": "FDA医疗器械与放射健康中心发布了2026年7月22日举行的关于人因信息在医疗器械上市申请中最终指南的城镇会议演示文稿、幻灯片和文字记录。该资料阐释了制造商在510(k)、PMA及De Novo申请中整合可用性工程数据的规范要求。建议法规事务和研发团队查阅，确保后续申报文件符合当前期望。"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/medical-devices-news-and-events/town-hall-content-human-factors-information-medical-device-marketing-submissions-final-guidance",
+      "source_name": "FDA",
+      "published_date": "2026-08-04",
+      "detected_date": "2026-08-04T20:43:18Z",
+      "importance": "medium",
+      "tags": [
+        "human_factors",
+        "marketing_submission",
+        "town_hall",
+        "final_guidance"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260804_class_i_recall_medline_total_knee_lf_procedure_kit_contains",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Medline TOTAL KNEE-LF Procedure Kit Contains Recalled Bupivacaine Injection",
+        "zh": "I类召回：Medline TOTAL KNEE-LF手术包含被召回的布比卡因注射液"
+      },
+      "summary": {
+        "en": "Medline Industries, LP is recalling 318 TOTAL KNEE-LF medical procedure convenience kits (Recall #Z-2765-2026) because they contain ICU Medical pain management kits with Bupivacaine Hydrochloride in Dextrose Injection, USP, which was previously recalled due to quality issues that could lead to serious health hazards. The affected kits were distributed nationwide and pose a Class I recall risk. Healthcare providers should immediately quarantine and return any remaining inventory.",
+        "zh": "Medline Industries, LP正在召回318套TOTAL KNEE-LF医疗手术便利包（召回编号#Z-2765-2026），因其内含的ICU Medical疼痛管理包使用了先前因质量问题被召回的布比卡因盐酸盐葡萄糖注射液，可能引发严重健康风险。此次为I类召回，产品全国分销。医疗机构应立即隔离并退回所有受影响产品。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2765-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-29",
+      "detected_date": "2026-08-04T20:41:13Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "convenience_kit",
+        "bupivacaine_injection",
+        "drug_recall",
+        "medical_device_kit"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260804_class_i_recall_medline_industries_lp_medline_anterior_hip_me",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Medline Industries, LP - MEDLINE ANTERIOR HIP, Medline Kit SKU DYNJ909640G",
+        "zh": "Class I Recall: Medline Industries, LP - MEDLINE ANTERIOR HIP, Medline Kit SKU DYNJ909640G"
+      },
+      "summary": {
+        "en": "Recall #Z-2747-2026 by Medline Industries, LP. Reason: Medline Industries, LP is issuing a recall for specific Medline kits containing B. Braun convenience kits that include Bupivacaine Hydrochloride in Dextrose Injection, USP. B. Braun Medical Inc. was n. Quantity: 60 kits.",
+        "zh": "Recall #Z-2747-2026 by Medline Industries, LP. Reason: Medline Industries, LP is issuing a recall for specific Medline kits containing B. Braun convenience kits that include Bupivacaine Hydrochloride in Dextrose Injection, USP. B. Braun Medical Inc. was n. Quantity: 60 kits."
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2747-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-29",
+      "detected_date": "2026-08-04T20:41:44Z",
+      "importance": "medium",
+      "tags": [],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260804_medline_industries_recalls_c_section_convenience_kit_sku_dyn",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Medline Industries Recalls C-Section Convenience Kit (SKU DYNJ910835) Containing Bupivacaine Injection",
+        "zh": "美联工业召回剖宫产手术包（SKU DYNJ910835），涉及布比卡因注射液问题"
+      },
+      "summary": {
+        "en": "Medline Industries, LP is conducting a Class I recall of its C-SECTION convenience kit (SKU DYNJ910835) because it contains a B. Braun component that includes Bupivacaine Hydrochloride in Dextrose Injection with a potential health hazard. The recall affects 56 kits distributed in the US. Users should immediately quarantine the affected kits and return them to Medline.",
+        "zh": "美联工业（Medline Industries, LP）对批号为DYNJ910835的C-SECTION手术便利包发起I级召回，原因是其包含的贝朗配件中含有存在潜在健康危害的盐酸布比卡因葡萄糖注射液。召回涉及美国境内分发的56套器械包。用户应立即隔离受影响产品并退回美联公司。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2748-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-29",
+      "detected_date": "2026-08-04T20:41:59Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "convenience_kit",
+        "bupivacaine_injection",
+        "medline_industries",
+        "surgical_kit"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260804_class_i_recall_medline_industries_lp_medline_hip_cds_lf_proc",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Medline Industries, LP - MEDLINE HIP CDS-LF Procedure Kit Contains Recalled Bupivacaine Injection",
+        "zh": "Medline HIP CDS-LF 手术便利套装因含召回布比卡因注射液被一级召回"
+      },
+      "summary": {
+        "en": "Medline Industries, LP is recalling 52 units of its MEDLINE ‘HIP CDS-LF’ procedure convenience kit after discovering they contain ICU Medical pain management kits with Bupivacaine Hydrochloride in Dextrose Injection, USP that were recalled due to quality issues posing a health hazard. The recall is Class I, the most serious type, because use of the affected product could lead to serious adverse health consequences. Healthcare facilities should immediately quarantine and discontinue use of the affected kits and contact Medline for return or disposal instructions.",
+        "zh": "Medline Industries, LP 正在召回52套标注为‘HIP CDS-LF’的MEDLINE医疗手术便利套装，原因是其中包含ICU Medical的疼痛管理套件，该套件中含有的盐酸布比卡因葡萄糖注射液因质量问题被召回，存在健康风险。此召回为最严重的一级召回，可能造成严重不良健康后果。医疗机构应立即停止使用并隔离受影响套件，并联系Medline进行退货或处置。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2764-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-29",
+      "detected_date": "2026-08-04T20:42:13Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "medline",
+        "procedure_kit",
+        "bupivacaine",
+        "drug_device_combination",
+        "pain_management",
+        "safety_alert"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
     {
       "id": "fda_20260728_class_i_recall_abiomed_impella_cp_set_due_to_visually_undete",
       "framework": "fda",
@@ -1113,6 +1324,55 @@
         "recall",
         "olympus",
         "hdmi_dp_fault"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260804_device_recall_integrated_medcraft_llc_forward_oral_airway_ki",
+      "framework": "fda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Device Recall: INTEGRATED MEDCRAFT LLC - FORWARD Oral Airway Kit (OPA Sizes 5, 6.5, 7, 8, 9, 10, 12). REF Number: 1011-4",
+        "zh": "Device Recall: INTEGRATED MEDCRAFT LLC - FORWARD Oral Airway Kit (OPA Sizes 5, 6.5, 7, 8, 9, 10, 12). REF Number: 1011-4"
+      },
+      "summary": {
+        "en": "Recall Z-2836-2026: Devices could potentially contain an occluded or partially occluded Guedel Airway tip.",
+        "zh": "Recall Z-2836-2026: Devices could potentially contain an occluded or partially occluded Guedel Airway tip."
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=221221",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-07",
+      "detected_date": "2026-08-04T20:40:43Z",
+      "importance": "medium",
+      "tags": [],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260804_recall_integrated_medcraft_kingfisher_first_aid_kit_ref_7665",
+      "framework": "fda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Recall: Integrated Medcraft Kingfisher First Aid Kit (REF 76656) – Guedel Airway Occlusion Hazard",
+        "zh": "召回：Integrated Medcraft Kingfisher急救包（REF 76656）Guedel气道堵塞风险"
+      },
+      "summary": {
+        "en": "Integrated Medcraft LLC is recalling its Kingfisher Compact Individual First Aid Kit (REF 76656) because the included one-piece Guedel airway may have a fully or partially occluded tip. This defect could obstruct airflow, delaying emergency ventilation and potentially causing serious injury or death. Distributors and end-users should immediately quarantine affected kits and contact the firm for return or replacement.",
+        "zh": "Integrated Medcraft LLC召回其Kingfisher紧凑型个人急救包（REF 76656），因所含一体式Guedel气道尖端可能存在完全或部分堵塞。该缺陷可能阻碍气流，延误紧急通气，导致严重伤害或死亡。经销商和用户应立即隔离受影响产品，并联系公司进行退货或更换。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=221261",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-07",
+      "detected_date": "2026-08-04T20:40:56Z",
+      "importance": "high",
+      "tags": [
+        "recall",
+        "fda_safety_communication",
+        "airway_obstruction",
+        "first_aid_kit",
+        "guedel_airway",
+        "integrated_medcraft"
       ],
       "related_docs": [],
       "status": "published"
