@@ -6,6 +6,52 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### II级召回：第一医科Stella FU-STE耳鼻喉科治疗单元（召回编号2-12921）
+
+**2026-08-05** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA发布II级医疗器械召回（编号2-12921），涉及第一医科株式会社生产的Stella FU-STE耳鼻喉科治疗单元。召回原因涉及可能影响设备性能及患者安全的潜在问题。相关医疗机构应立即停止使用受影响设备、就地隔离，并联系第一医科进行维修或更换等纠正措施。
+
+**标签**: `japan_pmda`, `class_ii_recall`, `ent_device`, `medical_device_recall`, `daiichi_ika`, `stella_fu_ste`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12921)
+
+---
+
+### [Class II] イオム　レガロ (歯科用ユニット) - 株式会社ジーシー
+
+**2026-08-04** | Japan PMDA | 安全通报 | !! MEDIUM
+
+Recall #2-12920: 歯科用ユニット / イオム　レガロ by 株式会社ジーシー. Type: 医療機器.
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12920)
+
+---
+
+### II级召回：奥林巴斯一次性结扎装置（内镜用套扎器）– PMDA召回编号2-12918
+
+**2026-08-04** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA发布II级召回（编号2-12918），涉及奥林巴斯医疗系统的一次性结扎装置（内镜用套扎器）。召回因潜在的质量或性能问题，可能影响器械安全。医疗机构应立即封存受影响批次，停止使用，并按照官方召回通知中的奥林巴斯说明进行退货或处理。
+
+**标签**: `pmda`, `class_ii_recall`, `olympus`, `endoscopic_ligation`, `disposable_device`, `medical_device_safety`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12918)
+
+---
+
+### PMDA Ⅱ类召回：日本史赛克创伤灭菌钻头（手术钻头）
+
+**2026-08-03** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA发布了Ⅱ类召回（编号2-12916），涉及日本史赛克株式会社分销的创伤用灭菌钻头（手术钻头）。此次召回针对一项可能导致暂时性或可逆不良健康后果的安全问题。受影响的医疗机构应立即停止使用该产品，隔离库存，并按制造商的退货或处置指示操作。
+
+**标签**: `pmda`, `recall`, `class_ii`, `orthopedic`, `surgical_drill`, `stryker`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12916)
+
+---
+
 ### PMDA发布2026年东盟-日本医疗器械监管研讨会报告
 
 **2026-07-29** | Japan PMDA | 法规更新 | ! LOW

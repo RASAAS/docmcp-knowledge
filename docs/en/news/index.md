@@ -6,6 +6,18 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### Class II Recall: Daiichi Ika's Stella FU-STE ENT Treatment Unit (Recall #2-12921)
+
+**2026-08-05** | Japan PMDA | Safety Communication | !! MEDIUM
+
+The PMDA has issued a Class II recall (No. 2-12921) for the Stella FU-STE ear, nose, and throat (ENT) treatment unit manufactured by Daiichi Ika Co., Ltd. The recall addresses a potential safety issue that may affect device performance and patient safety. Healthcare facilities should immediately stop using the affected device, quarantine it, and contact Daiichi Ika for necessary corrective actions such as repair or replacement.
+
+**Tags**: `japan_pmda`, `class_ii_recall`, `ent_device`, `medical_device_recall`, `daiichi_ika`, `stella_fu_ste`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12921)
+
+---
+
 ### Medline Recalls Convenience Kits with Huons Lidocaine and Bupivacaine Injection Due to Incorrect Drug Concentration
 
 **2026-08-04** | FDA | cdrh_news | !!! HIGH
@@ -54,6 +66,28 @@ The CDRH published the presentation, slides, and transcript from the July 22, 20
 
 ---
 
+### [Class II] イオム　レガロ (歯科用ユニット) - 株式会社ジーシー
+
+**2026-08-04** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Recall #2-12920: 歯科用ユニット / イオム　レガロ by 株式会社ジーシー. Type: 医療機器.
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12920)
+
+---
+
+### Class II Recall: Olympus Disposable Ligation Device (Endoscopic Loop Ligator) – PMDA Recall #2-12918
+
+**2026-08-04** | Japan PMDA | Safety Communication | !! MEDIUM
+
+The PMDA has issued a Class II recall (No. 2-12918) for the Olympus Medical Systems Disposable Ligation Device (Endoscopic Loop Ligator). The recall addresses a potential quality or performance issue that may affect device safety. Healthcare facilities should immediately quarantine affected lots, cease use, and follow Olympus’s return or disposal instructions as detailed in the official recall notice.
+
+**Tags**: `pmda`, `class_ii_recall`, `olympus`, `endoscopic_ligation`, `disposable_device`, `medical_device_safety`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12918)
+
+---
+
 ### Health Canada Opens Consultation on Proposed Changes to the List of Recognized Standards for Medical Devices
 
 **2026-08-03** | Health Canada | Regulation Update | !! MEDIUM
@@ -63,6 +97,18 @@ Health Canada has launched a public consultation on proposed updates to the List
 **Tags**: `canada`, `standards`, `consultation`, `regulatory_update`, `medical_devices`
 
 [View Source (Health Canada)](https://www.canada.ca/en/health-canada/programs/consultation-proposed-changes-list-recognized-standards-medical-devices.html)
+
+---
+
+### PMDA Class II Recall: Japan Stryker Sterile Trauma Drill Bits (Surgical Drill Bits)
+
+**2026-08-03** | Japan PMDA | Safety Communication | !! MEDIUM
+
+The Japanese PMDA has issued a Class II recall (No. 2-12916) for the Sterile Drill Bits for Trauma (surgical drill bits) distributed by Japan Stryker K.K. The recall addresses a potential safety issue that may cause temporary or medically reversible adverse health consequences. Affected healthcare providers should immediately stop using the product, quarantine remaining inventory, and follow the manufacturer’s instructions for return or disposal.
+
+**Tags**: `pmda`, `recall`, `class_ii`, `orthopedic`, `surgical_drill`, `stryker`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12916)
 
 ---
 

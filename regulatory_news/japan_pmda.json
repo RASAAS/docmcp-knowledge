@@ -1,7 +1,112 @@
 {
   "framework": "japan_pmda",
-  "last_updated": "2026-07-29T20:13:05Z",
+  "last_updated": "2026-08-05T20:26:18Z",
   "items": [
+    {
+      "id": "japan_pmda_20260805_class_ii_recall_daiichi_ika_s_stella_fu_ste_ent_treatment_un",
+      "framework": "japan_pmda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Class II Recall: Daiichi Ika's Stella FU-STE ENT Treatment Unit (Recall #2-12921)",
+        "zh": "II级召回：第一医科Stella FU-STE耳鼻喉科治疗单元（召回编号2-12921）"
+      },
+      "summary": {
+        "en": "The PMDA has issued a Class II recall (No. 2-12921) for the Stella FU-STE ear, nose, and throat (ENT) treatment unit manufactured by Daiichi Ika Co., Ltd. The recall addresses a potential safety issue that may affect device performance and patient safety. Healthcare facilities should immediately stop using the affected device, quarantine it, and contact Daiichi Ika for necessary corrective actions such as repair or replacement.",
+        "zh": "日本PMDA发布II级医疗器械召回（编号2-12921），涉及第一医科株式会社生产的Stella FU-STE耳鼻喉科治疗单元。召回原因涉及可能影响设备性能及患者安全的潜在问题。相关医疗机构应立即停止使用受影响设备、就地隔离，并联系第一医科进行维修或更换等纠正措施。"
+      },
+      "source_url": "https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12921",
+      "source_name": "PMDA (Japan)",
+      "published_date": "2026-08-05",
+      "detected_date": "2026-08-05T20:25:04Z",
+      "importance": "medium",
+      "tags": [
+        "japan_pmda",
+        "class_ii_recall",
+        "ent_device",
+        "medical_device_recall",
+        "daiichi_ika",
+        "stella_fu_ste"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "japan_pmda_20260805_class_ii",
+      "framework": "japan_pmda",
+      "category": "safety_communication",
+      "title": {
+        "en": "[Class II] イオム　レガロ (歯科用ユニット) - 株式会社ジーシー",
+        "zh": "[Class II] イオム　レガロ (歯科用ユニット) - 株式会社ジーシー"
+      },
+      "summary": {
+        "en": "Recall #2-12920: 歯科用ユニット / イオム　レガロ by 株式会社ジーシー. Type: 医療機器.",
+        "zh": "Recall #2-12920: 歯科用ユニット / イオム　レガロ by 株式会社ジーシー. Type: 医療機器."
+      },
+      "source_url": "https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12920",
+      "source_name": "PMDA (Japan)",
+      "published_date": "2026-08-04",
+      "detected_date": "2026-08-05T20:25:35Z",
+      "importance": "medium",
+      "tags": [],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "japan_pmda_20260805_class_ii_recall_olympus_disposable_ligation_device_endoscopi",
+      "framework": "japan_pmda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Class II Recall: Olympus Disposable Ligation Device (Endoscopic Loop Ligator) – PMDA Recall #2-12918",
+        "zh": "II级召回：奥林巴斯一次性结扎装置（内镜用套扎器）– PMDA召回编号2-12918"
+      },
+      "summary": {
+        "en": "The PMDA has issued a Class II recall (No. 2-12918) for the Olympus Medical Systems Disposable Ligation Device (Endoscopic Loop Ligator). The recall addresses a potential quality or performance issue that may affect device safety. Healthcare facilities should immediately quarantine affected lots, cease use, and follow Olympus’s return or disposal instructions as detailed in the official recall notice.",
+        "zh": "日本PMDA发布II级召回（编号2-12918），涉及奥林巴斯医疗系统的一次性结扎装置（内镜用套扎器）。召回因潜在的质量或性能问题，可能影响器械安全。医疗机构应立即封存受影响批次，停止使用，并按照官方召回通知中的奥林巴斯说明进行退货或处理。"
+      },
+      "source_url": "https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12918",
+      "source_name": "PMDA (Japan)",
+      "published_date": "2026-08-04",
+      "detected_date": "2026-08-05T20:26:00Z",
+      "importance": "medium",
+      "tags": [
+        "pmda",
+        "class_ii_recall",
+        "olympus",
+        "endoscopic_ligation",
+        "disposable_device",
+        "medical_device_safety"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "japan_pmda_20260805_pmda_class_ii_recall_japan_stryker_sterile_trauma_drill_bits",
+      "framework": "japan_pmda",
+      "category": "safety_communication",
+      "title": {
+        "en": "PMDA Class II Recall: Japan Stryker Sterile Trauma Drill Bits (Surgical Drill Bits)",
+        "zh": "PMDA Ⅱ类召回：日本史赛克创伤灭菌钻头（手术钻头）"
+      },
+      "summary": {
+        "en": "The Japanese PMDA has issued a Class II recall (No. 2-12916) for the Sterile Drill Bits for Trauma (surgical drill bits) distributed by Japan Stryker K.K. The recall addresses a potential safety issue that may cause temporary or medically reversible adverse health consequences. Affected healthcare providers should immediately stop using the product, quarantine remaining inventory, and follow the manufacturer’s instructions for return or disposal.",
+        "zh": "日本PMDA发布了Ⅱ类召回（编号2-12916），涉及日本史赛克株式会社分销的创伤用灭菌钻头（手术钻头）。此次召回针对一项可能导致暂时性或可逆不良健康后果的安全问题。受影响的医疗机构应立即停止使用该产品，隔离库存，并按制造商的退货或处置指示操作。"
+      },
+      "source_url": "https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12916",
+      "source_name": "PMDA (Japan)",
+      "published_date": "2026-08-03",
+      "detected_date": "2026-08-05T20:26:18Z",
+      "importance": "medium",
+      "tags": [
+        "pmda",
+        "recall",
+        "class_ii",
+        "orthopedic",
+        "surgical_drill",
+        "stryker"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
     {
       "id": "japan_pmda_20260729_pmda_publishes_report_on_asean_japan_medical_devices_regulat",
       "framework": "japan_pmda",
