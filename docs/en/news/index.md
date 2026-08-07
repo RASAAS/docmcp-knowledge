@@ -6,6 +6,42 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### Swissmedic FSCA: ORBIS Medication 3.x – DH Healthcare GmbH
+
+**2026-08-07** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has published a Field Safety Corrective Action (FSCA) for ORBIS Medication 3.x, a medical device software from DH Healthcare GmbH. The action addresses a potential safety issue related to medication management. Affected users should consult the manufacturer’s notice for required measures, which may include software updates or workarounds, to ensure safe use.
+
+**Tags**: `swissmedic`, `fsca`, `medical_device_software`, `medication_safety`, `dh_healthcare`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260803_035)
+
+---
+
+### Swissmedic FSCA: GXD5 PACS by ENOVACOM – Field Safety Corrective Action for PACS
+
+**2026-08-07** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has issued a Field Safety Corrective Action (FSCA) for the GXD5 Picture Archiving and Communication System (PACS) from ENOVACOM. The specific reason for the corrective action and affected models were not provided in the notification. Users of this device should check the official Swissmedic FSCA page and contact the manufacturer for detailed instructions and required actions.
+
+**Tags**: `swissmedic`, `fsca`, `pacs`, `medical_device`, `safety_notice`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260730_018)
+
+---
+
+### Field Safety Corrective Action for medin Medical Innovations NC3 Neonatal CPAP Unit
+
+**2026-08-07** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic has issued a Field Safety Corrective Action (FSCA) for the medin Medical Innovations GmbH neonatal CPAP unit, models NC3 and 3000. The action addresses a potential safety issue with the device. Healthcare facilities using these models should immediately follow the manufacturer's corrective instructions to mitigate risks and ensure continued safe use.
+
+**Tags**: `fsca`, `neonatal_cpap`, `swissmedic`, `field_safety_corrective_action`, `medin_medical_innovations`, `nc3`, `3000`, `patient_safety`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260803_024)
+
+---
+
 ### Swissmedic FSCA for Cardioroot Woven Synthetic Vascular Graft by Intervascular SAS
 
 **2026-08-06** | Swissmedic | Safety Communication | !! MEDIUM
@@ -3965,6 +4001,18 @@ Swissmedic has issued a Field Safety Corrective Action (FSCA) for IOD Software, 
 **Tags**: `swissmedic`, `fsca`, `ophthalmology`, `software`
 
 [View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260429_006)
+
+---
+
+### FSCA Update for Maquet Cardiohelp II Base Unit (Model 701077135) – Change in Corrective Actions
+
+**2026-04-29** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has published a Field Safety Corrective Action (FSCA) for Maquet Cardiopulmonary GmbH's Cardiohelp II Base Unit, a roller-type cardiopulmonary bypass system. This notice concerns a change in the corrective actions previously communicated for model 701077135. Affected users should review the updated instructions from the manufacturer and implement the revised measures to maintain device safety.
+
+**Tags**: `fsca`, `cardiopulmonary_bypass_system`, `corrective_action_update`, `swissmedic`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260424_016)
 
 ---
 

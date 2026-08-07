@@ -6,6 +6,42 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### 瑞士药监局FSCA：DH Healthcare GmbH的ORBIS Medication 3.x
+
+**2026-08-07** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士药监局（Swissmedic）发布了针对DH Healthcare GmbH生产的医疗器械软件ORBIS Medication 3.x的现场安全纠正措施（FSCA）。该措施解决与用药管理相关的潜在安全问题。受影响用户应参考制造商通知，采取必要措施（如软件更新或临时方案），以确保安全使用。
+
+**标签**: `swissmedic`, `fsca`, `medical_device_software`, `medication_safety`, `dh_healthcare`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260803_035)
+
+---
+
+### Swissmedic 发布 ENOVACOM GXD5 PACS 现场安全纠正措施
+
+**2026-08-07** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士药监局（Swissmedic）针对 ENOVACOM 的 GXD5 影像归档与通信系统（PACS）发布了现场安全纠正措施（FSCA）。通知未明确说明纠正原因及受影响型号。该设备用户应查阅官方 FSCA 页面并与制造商联系，获取详细信息和必要措施。
+
+**标签**: `swissmedic`, `fsca`, `pacs`, `medical_device`, `safety_notice`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260730_018)
+
+---
+
+### medin Medical Innovations NC3/3000型新生儿CPAP设备现场安全纠正措施
+
+**2026-08-07** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士药品监督管理局（Swissmedic）针对medin Medical Innovations GmbH生产的新生儿CPAP设备（型号NC3和3000）发布了现场安全纠正措施（FSCA）。该措施旨在解决设备存在的潜在安全风险。使用相关机型的医疗机构应立即遵循制造商的纠正说明，降低风险并确保安全使用。
+
+**标签**: `fsca`, `neonatal_cpap`, `swissmedic`, `field_safety_corrective_action`, `medin_medical_innovations`, `nc3`, `3000`, `patient_safety`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260803_024)
+
+---
+
 ### Swissmedic 发布 Intervascular SAS 公司 Cardioroot Woven 人造血管移植物现场安全纠正措施
 
 **2026-08-06** | Swissmedic | 安全通报 | !! MEDIUM
@@ -3965,6 +4001,18 @@ FDA发布关于Remel公司GC Agar Base (150mm)培养基产品的器械召回通�
 **标签**: `swissmedic`, `fsca`, `ophthalmology`, `software`
 
 [查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260429_006)
+
+---
+
+### Maquet Cardiohelp II 基础单元 FSCA 更新：更正措施变更
+
+**2026-04-29** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士药监局（Swissmedic）发布了针对 Maquet Cardiopulmonary GmbH 的 Cardiohelp II 基础单元（滚压式心肺旁路系统）的现场安全纠正措施（FSCA）。该通知涉及型号 701077135 此前沟通的纠正措施发生变更。受影响用户应查看制造商的最新说明，并落实修订后的纠正措施，以确保设备安全。
+
+**标签**: `fsca`, `cardiopulmonary_bypass_system`, `corrective_action_update`, `swissmedic`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260424_016)
 
 ---
 
