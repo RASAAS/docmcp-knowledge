@@ -36,6 +36,146 @@ title: 法规速递
 
 ## 最新动态
 
+### Swissmedic 发布 Intervascular SAS 公司 Cardioroot Woven 人造血管移植物现场安全纠正措施
+
+**2026-08-06** | Swissmedic | 安全通报 | !! MEDIUM
+
+Swissmedic 已针对 Intervascular SAS 生产的非药物涂层合成血管移植物 Cardioroot Woven 发布现场安全纠正措施（FSCA）。公告中未具体说明纠正原因。受影响型号包括 HEWROOT0024、HEWROOT0026、HEWROOT0028、HEWROOT0030、HEWROOT0032 和 HEWROOT0034。使用者应立即查阅制造商的安全纠正通知并采取所有建议措施以确保患者安全。
+
+**标签**: `swissmedic`, `fsca`, `vascular_graft`, `intervascular`, `cardioroot_woven`, `medical_device_safety`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260805_053)
+
+---
+
+### 瑞士药监局FSCA：Cook内窥镜止血喷雾HEMO-7、HEMO-10
+
+**2026-08-05** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士药品监督管理局对Cook内窥镜公司的Hemospray内窥镜止血剂（型号HEMO-7和HEMO-10）发布了现场安全纠正措施。该产品为一种非有机止血剂，通知中未说明具体纠正原因。受影响用户应立即遵循制造商的指示，可能包括隔离和退回相关器械。
+
+**标签**: `fsca`, `endoscopic_hemostat`, `cook_endoscopy`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260717_001)
+
+---
+
+### MAQUET GmbH ALPHAMAQUET 电动液压手术台底座现场安全纠正措施（型号115002B0）
+
+**2026-08-05** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士Swissmedic发布了一项针对MAQUET GmbH生产的ALPHAMAQUET电动液压手术台底座的现场安全纠正措施（FSCA）。受影响型号为115002B0（列表中重复出现）。通知未说明纠正原因，但建议用户查阅制造商的指导说明及FSCA门户网站以获取必要措施。这是针对使用该手术台底座的医疗机构的安全警示。
+
+**标签**: `fsca`, `operating_table`, `swissmedic`, `maquet`, `safety_alert`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260728_006)
+
+---
+
+### 瑞士药监局FSCA：MAQUET电动液压手术床基座型号115002D0
+
+**2026-08-05** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士药监局对MAQUET GmbH的电动液压手术床基座（型号115002D0）发布现场安全纠正措施（FSCA）。具体安全问题未公开，但受影响用户须立即执行制造商的纠正措施以降低风险。
+
+**标签**: `swissmedic`, `fsca`, `operating_table`, `maquet`, `medical_device`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260728_006)
+
+---
+
+### ALPHAMAQUET Operating table column - MAQUET GmbH
+
+**2026-08-05** | Swissmedic | 安全通报 | !! MEDIUM
+
+FSCA: MD: Electrohydraulic operating table base. Reason: . Model: 115002A0; 115002A0.
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260728_006)
+
+---
+
+### Swissmedic FSCA: MAQUET移动手术台柱 型号115002C0
+
+**2026-08-05** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士药品监督管理局（Swissmedic）已发布针对MAQUET GmbH移动式电动液压手术台柱（型号115002C0）的现场安全纠正措施。该措施涉及手术台底座的安全问题。受影响用户应立即遵循FSCA通知中的制造商指示，并联系MAQUET获取进一步指导。
+
+**标签**: `swissmedic`, `fsca`, `maquet`, `operating_table`, `safety_correction`, `medical_device`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260728_006)
+
+---
+
+### Swissmedic发布Maquet Cardiopulmonary血管导管导入套件FSCA（型号701047385）
+
+**2026-08-04** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士Swissmedic发布了Maquet Cardiopulmonary GmbH生产的非植入式血管导管导入套件（型号701047385）的现场安全纠正措施（FSCA）。公告未详述纠正原因。医疗机构和专业人员应立即识别受影响产品并遵循制造商的安全指示。
+
+**标签**: `swissmedic_fsca`, `vascular_catheter`, `maquet_cardiopulmonary`, `field_safety_corrective_action`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260728_032)
+
+---
+
+### 瑞士medic FSCA：迈柯唯心肺医疗有限公司 PIK 100-USA 血管导管导入套件（型号 701053068）
+
+**2026-08-04** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士药品监管局（Swissmedic）发布了一则针对迈柯唯心肺医疗有限公司生产的PIK 100-USA血管导管导入套件（型号701053068）的现场安全纠正措施（FSCA）。该通知未详细说明纠正措施的具体原因。用户应识别库存中的受影响器械，并遵循制造商的纠正指示。
+
+**标签**: `fsca`, `swissmedic`, `vascular_catheter`, `maquet`, `corrective_action`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260728_032)
+
+---
+
+### PIK 100血管导管导入套件：瑞士药监局现场安全纠正措施
+
+**2026-08-04** | Swissmedic | 安全通报 | !!! HIGH
+
+Maquet Cardiopulmonary GmbH 对其非植入式血管导管导入套件 PIK 100（型号 701047384）发布了现场安全纠正措施（FSCA）。瑞士药监局通知中未详细说明具体纠正原因。受影响用户应立即遵循制造商的指示，并联系 Maquet Cardiopulmonary GmbH 获取必要的指导与整改步骤。
+
+**标签**: `swissmedic`, `fsca`, `medical_device`, `catheter_introduction_set`, `maquet`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260728_032)
+
+---
+
+### 瑞士药监局发布Maquet PIK扩张器套件L的现场安全纠正措施
+
+**2026-08-04** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士药物监管局发布了来自Maquet Cardiopulmonary GmbH的现场安全纠正措施（FSCA），涉及PIK扩张器套件L（型号701054427），这是一种非植入式血管导管导入套件。公告未详述纠正措施的具体原因，用户应参考制造商的通知，采取相应措施以降低与该器械相关的潜在风险。
+
+**标签**: `swissmedic`, `fsca`, `maquet_cardiopulmonary`, `vascular_catheter_introduction_set`, `pik_dilator_set`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260728_032)
+
+---
+
+### 瑞士药品管理局发布PIK扩张器S（型号701054606）现场安全纠正措施
+
+**2026-08-04** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士药品管理局（Swissmedic）针对Maquet Cardiopulmonary GmbH生产的PIK扩张器S（型号701054606，非植入式血管导管导入套件）发布了现场安全纠正措施（FSCA）。公告未提供具体原因，但受影响用户需立即识别并隔离该产品，并遵循制造商的纠正措施说明。本次警示适用于指定型号的产品。
+
+**标签**: `fsca`, `vascular_catheter`, `maquet_cardiopulmonary`, `swissmedic`, `device_safety`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260728_032)
+
+---
+
+### PIK 150-USA - Maquet Cardiopulmonary GmbH
+
+**2026-08-04** | Swissmedic | 安全通报 | !! MEDIUM
+
+FSCA: MD: Vascular catheter introduction set, nonimplantable. Reason: . Model: 701053069.
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260728_032)
+
+---
+
 ### 瑞士药监局：Medline抽吸罐软衬套件中MED-STOP装置GMDN代码更正通知
 
 **2026-07-31** | Swissmedic | 安全通报 | !! MEDIUM
@@ -809,6 +949,18 @@ FSCA: MD: Adult and paediatric/neonatal pulmonary ventilators. Reason: . Model: 
 **标签**: `fsca`, `cardiac_ablation_catheter`, `field_safety_notice`
 
 [查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260318_029)
+
+---
+
+### 瑞士Swissmedic发布Vue PACS额外软件版本安全纠正措施
+
+**2026-03-11** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士药品监督管理局更新了针对飞利浦医疗系统荷兰公司Vue PACS放射学软件（型号1017979）的现场安全纠正措施。此次更新涉及更多受影响的软件版本。用户应查看制造商通知并执行必要的软件更新或缓解措施。
+
+**标签**: `fsca`, `swissmedic`, `vue_pacs`, `philips`, `radiology_software`, `product_correction`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260305_023)
 
 ---
 

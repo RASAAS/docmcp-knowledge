@@ -1,7 +1,318 @@
 {
   "framework": "switzerland",
-  "last_updated": "2026-07-31T20:25:50Z",
+  "last_updated": "2026-08-07T00:41:06Z",
   "items": [
+    {
+      "id": "switzerland_20260807_swissmedic_fsca_for_cardioroot_woven_synthetic_vascular_graf",
+      "framework": "switzerland",
+      "category": "safety_communication",
+      "title": {
+        "en": "Swissmedic FSCA for Cardioroot Woven Synthetic Vascular Graft by Intervascular SAS",
+        "zh": "Swissmedic 发布 Intervascular SAS 公司 Cardioroot Woven 人造血管移植物现场安全纠正措施"
+      },
+      "summary": {
+        "en": "Swissmedic has issued a Field Safety Corrective Action (FSCA) for Cardioroot Woven, a non-medicated synthetic vascular graft manufactured by Intervascular SAS. The specific reason for the corrective action was not detailed in the public notice. Affected model numbers include HEWROOT0024, HEWROOT0026, HEWROOT0028, HEWROOT0030, HEWROOT0032, and HEWROOT0034. Users should immediately consult the manufacturer’s FSCA notice and follow all recommended actions to ensure patient safety.",
+        "zh": "Swissmedic 已针对 Intervascular SAS 生产的非药物涂层合成血管移植物 Cardioroot Woven 发布现场安全纠正措施（FSCA）。公告中未具体说明纠正原因。受影响型号包括 HEWROOT0024、HEWROOT0026、HEWROOT0028、HEWROOT0030、HEWROOT0032 和 HEWROOT0034。使用者应立即查阅制造商的安全纠正通知并采取所有建议措施以确保患者安全。"
+      },
+      "source_url": "https://fsca.swissmedic.ch/mep/#?q=Vk_20260805_053",
+      "source_name": "Swissmedic",
+      "published_date": "2026-08-06",
+      "detected_date": "2026-08-07T00:36:46Z",
+      "importance": "medium",
+      "tags": [
+        "swissmedic",
+        "fsca",
+        "vascular_graft",
+        "intervascular",
+        "cardioroot_woven",
+        "medical_device_safety"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "switzerland_20260807_swissmedic_fsca_hemospray_endoscopic_hemostat_cook_endoscopy",
+      "framework": "switzerland",
+      "category": "safety_communication",
+      "title": {
+        "en": "Swissmedic FSCA: Hemospray Endoscopic Hemostat (Cook Endoscopy) Models HEMO-7, HEMO-10",
+        "zh": "瑞士药监局FSCA：Cook内窥镜止血喷雾HEMO-7、HEMO-10"
+      },
+      "summary": {
+        "en": "Swissmedic has issued a Field Safety Corrective Action for Cook Endoscopy’s Hemospray Endoscopic Hemostat, affecting models HEMO-7 and HEMO-10. The notice covers a non-organic haemostatic agent; the specific reason for the action was not detailed in the FSCA. Affected users should immediately follow the manufacturer’s instructions, which likely include quarantine and return of the devices.",
+        "zh": "瑞士药品监督管理局对Cook内窥镜公司的Hemospray内窥镜止血剂（型号HEMO-7和HEMO-10）发布了现场安全纠正措施。该产品为一种非有机止血剂，通知中未说明具体纠正原因。受影响用户应立即遵循制造商的指示，可能包括隔离和退回相关器械。"
+      },
+      "source_url": "https://fsca.swissmedic.ch/mep/#?q=Vk_20260717_001",
+      "source_name": "Swissmedic",
+      "published_date": "2026-08-05",
+      "detected_date": "2026-08-07T00:37:09Z",
+      "importance": "medium",
+      "tags": [
+        "fsca",
+        "endoscopic_hemostat",
+        "cook_endoscopy"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "switzerland_20260807_fsca_for_alphamaquet_electrohydraulic_operating_table_base_b",
+      "framework": "switzerland",
+      "category": "safety_communication",
+      "title": {
+        "en": "FSCA for ALPHAMAQUET Electrohydraulic Operating Table Base by MAQUET GmbH (Models 115002B0)",
+        "zh": "MAQUET GmbH ALPHAMAQUET 电动液压手术台底座现场安全纠正措施（型号115002B0）"
+      },
+      "summary": {
+        "en": "Swissmedic has issued a Field Safety Corrective Action (FSCA) for the ALPHAMAQUET electrohydraulic operating table base, manufactured by MAQUET GmbH. The affected model is listed as 115002B0 (appears twice). The reason for the corrective action is not specified in the notice, but users are advised to consult the manufacturer's instructions and the FSCA portal for recommended actions. This is a safety-related alert for healthcare facilities using this operating table base.",
+        "zh": "瑞士Swissmedic发布了一项针对MAQUET GmbH生产的ALPHAMAQUET电动液压手术台底座的现场安全纠正措施（FSCA）。受影响型号为115002B0（列表中重复出现）。通知未说明纠正原因，但建议用户查阅制造商的指导说明及FSCA门户网站以获取必要措施。这是针对使用该手术台底座的医疗机构的安全警示。"
+      },
+      "source_url": "https://fsca.swissmedic.ch/mep/#?q=Vk_20260728_006",
+      "source_name": "Swissmedic",
+      "published_date": "2026-08-05",
+      "detected_date": "2026-08-07T00:37:34Z",
+      "importance": "high",
+      "tags": [
+        "fsca",
+        "operating_table",
+        "swissmedic",
+        "maquet",
+        "safety_alert"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "switzerland_20260807_swissmedic_fsca_maquet_electrohydraulic_operating_table_base",
+      "framework": "switzerland",
+      "category": "safety_communication",
+      "title": {
+        "en": "Swissmedic FSCA: MAQUET Electrohydraulic Operating Table Base Model 115002D0",
+        "zh": "瑞士药监局FSCA：MAQUET电动液压手术床基座型号115002D0"
+      },
+      "summary": {
+        "en": "Swissmedic has issued a Field Safety Corrective Action (FSCA) for MAQUET GmbH's electrohydraulic operating table base, model 115002D0. The specific safety issue has not been publicly detailed, but affected users must immediately implement the manufacturer's corrective measures to mitigate risk.",
+        "zh": "瑞士药监局对MAQUET GmbH的电动液压手术床基座（型号115002D0）发布现场安全纠正措施（FSCA）。具体安全问题未公开，但受影响用户须立即执行制造商的纠正措施以降低风险。"
+      },
+      "source_url": "https://fsca.swissmedic.ch/mep/#?q=Vk_20260728_006",
+      "source_name": "Swissmedic",
+      "published_date": "2026-08-05",
+      "detected_date": "2026-08-07T00:37:49Z",
+      "importance": "high",
+      "tags": [
+        "swissmedic",
+        "fsca",
+        "operating_table",
+        "maquet",
+        "medical_device"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "switzerland_20260807_alphamaquet_operating_table_column_maquet_gmbh",
+      "framework": "switzerland",
+      "category": "safety_communication",
+      "title": {
+        "en": "ALPHAMAQUET Operating table column - MAQUET GmbH",
+        "zh": "ALPHAMAQUET Operating table column - MAQUET GmbH"
+      },
+      "summary": {
+        "en": "FSCA: MD: Electrohydraulic operating table base. Reason: . Model: 115002A0; 115002A0.",
+        "zh": "FSCA: MD: Electrohydraulic operating table base. Reason: . Model: 115002A0; 115002A0."
+      },
+      "source_url": "https://fsca.swissmedic.ch/mep/#?q=Vk_20260728_006",
+      "source_name": "Swissmedic",
+      "published_date": "2026-08-05",
+      "detected_date": "2026-08-07T00:38:20Z",
+      "importance": "medium",
+      "tags": [],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "switzerland_20260807_swissmedic_fsca_maquet_mobile_or_table_column_model_115002c0",
+      "framework": "switzerland",
+      "category": "safety_communication",
+      "title": {
+        "en": "Swissmedic FSCA: MAQUET Mobile OR-Table Column (Model 115002C0)",
+        "zh": "Swissmedic FSCA: MAQUET移动手术台柱 型号115002C0"
+      },
+      "summary": {
+        "en": "Swissmedic has issued a Field Safety Corrective Action for the MAQUET GmbH mobile electrohydraulic operating table column, model 115002C0. The corrective action addresses a safety issue with the table base. Affected users should immediately follow the manufacturer’s instructions in the FSCA notice and contact MAQUET for further guidance.",
+        "zh": "瑞士药品监督管理局（Swissmedic）已发布针对MAQUET GmbH移动式电动液压手术台柱（型号115002C0）的现场安全纠正措施。该措施涉及手术台底座的安全问题。受影响用户应立即遵循FSCA通知中的制造商指示，并联系MAQUET获取进一步指导。"
+      },
+      "source_url": "https://fsca.swissmedic.ch/mep/#?q=Vk_20260728_006",
+      "source_name": "Swissmedic",
+      "published_date": "2026-08-05",
+      "detected_date": "2026-08-07T00:38:47Z",
+      "importance": "medium",
+      "tags": [
+        "swissmedic",
+        "fsca",
+        "maquet",
+        "operating_table",
+        "safety_correction",
+        "medical_device"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "switzerland_20260807_swissmedic_fsca_for_maquet_cardiopulmonary_vascular_catheter",
+      "framework": "switzerland",
+      "category": "safety_communication",
+      "title": {
+        "en": "Swissmedic FSCA for Maquet Cardiopulmonary Vascular Catheter Introduction Set, Model 701047385",
+        "zh": "Swissmedic发布Maquet Cardiopulmonary血管导管导入套件FSCA（型号701047385）"
+      },
+      "summary": {
+        "en": "Swissmedic has published a Field Safety Corrective Action (FSCA) for the non-implantable vascular catheter introduction set manufactured by Maquet Cardiopulmonary GmbH, specifically model 701047385. The public notice does not detail the reason for the corrective action. Healthcare facilities and professionals should identify affected units and follow the manufacturer's safety instructions without delay.",
+        "zh": "瑞士Swissmedic发布了Maquet Cardiopulmonary GmbH生产的非植入式血管导管导入套件（型号701047385）的现场安全纠正措施（FSCA）。公告未详述纠正原因。医疗机构和专业人员应立即识别受影响产品并遵循制造商的安全指示。"
+      },
+      "source_url": "https://fsca.swissmedic.ch/mep/#?q=Vk_20260728_032",
+      "source_name": "Swissmedic",
+      "published_date": "2026-08-04",
+      "detected_date": "2026-08-07T00:39:01Z",
+      "importance": "medium",
+      "tags": [
+        "swissmedic_fsca",
+        "vascular_catheter",
+        "maquet_cardiopulmonary",
+        "field_safety_corrective_action"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "switzerland_20260807_swissmedic_fsca_maquet_cardiopulmonary_gmbh_pik_100_usa_vasc",
+      "framework": "switzerland",
+      "category": "safety_communication",
+      "title": {
+        "en": "Swissmedic FSCA: Maquet Cardiopulmonary GmbH PIK 100-USA Vascular Catheter Introduction Set (Model 701053068)",
+        "zh": "瑞士medic FSCA：迈柯唯心肺医疗有限公司 PIK 100-USA 血管导管导入套件（型号 701053068）"
+      },
+      "summary": {
+        "en": "Swissmedic has published a Field Safety Corrective Action (FSCA) for the PIK 100-USA vascular catheter introduction set, manufactured by Maquet Cardiopulmonary GmbH, affecting model 701053068. The specific reason for the corrective action was not detailed in the initial notice. Users should identify any affected devices in their inventory and follow the manufacturer's instructions for corrective measures.",
+        "zh": "瑞士药品监管局（Swissmedic）发布了一则针对迈柯唯心肺医疗有限公司生产的PIK 100-USA血管导管导入套件（型号701053068）的现场安全纠正措施（FSCA）。该通知未详细说明纠正措施的具体原因。用户应识别库存中的受影响器械，并遵循制造商的纠正指示。"
+      },
+      "source_url": "https://fsca.swissmedic.ch/mep/#?q=Vk_20260728_032",
+      "source_name": "Swissmedic",
+      "published_date": "2026-08-04",
+      "detected_date": "2026-08-07T00:39:17Z",
+      "importance": "medium",
+      "tags": [
+        "fsca",
+        "swissmedic",
+        "vascular_catheter",
+        "maquet",
+        "corrective_action"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "switzerland_20260807_pik_100_vascular_catheter_introduction_set_swissmedic_field",
+      "framework": "switzerland",
+      "category": "safety_communication",
+      "title": {
+        "en": "PIK 100 Vascular Catheter Introduction Set: Swissmedic Field Safety Corrective Action",
+        "zh": "PIK 100血管导管导入套件：瑞士药监局现场安全纠正措施"
+      },
+      "summary": {
+        "en": "Maquet Cardiopulmonary GmbH has issued a Field Safety Corrective Action (FSCA) for the nonimplantable vascular catheter introduction set model PIK 100 (model 701047384). The specific reason for the corrective action has not been detailed in the Swissmedic notification. Affected users should immediately follow the manufacturer’s instructions and contact Maquet Cardiopulmonary GmbH for necessary guidance and remedial steps.",
+        "zh": "Maquet Cardiopulmonary GmbH 对其非植入式血管导管导入套件 PIK 100（型号 701047384）发布了现场安全纠正措施（FSCA）。瑞士药监局通知中未详细说明具体纠正原因。受影响用户应立即遵循制造商的指示，并联系 Maquet Cardiopulmonary GmbH 获取必要的指导与整改步骤。"
+      },
+      "source_url": "https://fsca.swissmedic.ch/mep/#?q=Vk_20260728_032",
+      "source_name": "Swissmedic",
+      "published_date": "2026-08-04",
+      "detected_date": "2026-08-07T00:39:34Z",
+      "importance": "high",
+      "tags": [
+        "swissmedic",
+        "fsca",
+        "medical_device",
+        "catheter_introduction_set",
+        "maquet"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "switzerland_20260807_swissmedic_issues_fsca_for_maquet_pik_dilator_set_l_model_70",
+      "framework": "switzerland",
+      "category": "safety_communication",
+      "title": {
+        "en": "Swissmedic Issues FSCA for Maquet PIK Dilator Set L (Model 701054427)",
+        "zh": "瑞士药监局发布Maquet PIK扩张器套件L的现场安全纠正措施"
+      },
+      "summary": {
+        "en": "Swissmedic published a Field Safety Corrective Action (FSCA) from Maquet Cardiopulmonary GmbH for the PIK dilator set L, a nonimplantable vascular catheter introduction set, model 701054427. The specific reason for the corrective action was not detailed in the notice. Users should consult the manufacturer's communication for required actions to mitigate any potential risk associated with the device.",
+        "zh": "瑞士药物监管局发布了来自Maquet Cardiopulmonary GmbH的现场安全纠正措施（FSCA），涉及PIK扩张器套件L（型号701054427），这是一种非植入式血管导管导入套件。公告未详述纠正措施的具体原因，用户应参考制造商的通知，采取相应措施以降低与该器械相关的潜在风险。"
+      },
+      "source_url": "https://fsca.swissmedic.ch/mep/#?q=Vk_20260728_032",
+      "source_name": "Swissmedic",
+      "published_date": "2026-08-04",
+      "detected_date": "2026-08-07T00:39:56Z",
+      "importance": "high",
+      "tags": [
+        "swissmedic",
+        "fsca",
+        "maquet_cardiopulmonary",
+        "vascular_catheter_introduction_set",
+        "pik_dilator_set"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "switzerland_20260807_swissmedic_fsca_pik_dilator_s_model_701054606_by_maquet_card",
+      "framework": "switzerland",
+      "category": "safety_communication",
+      "title": {
+        "en": "Swissmedic FSCA: PIK dilator S (Model 701054606) by Maquet Cardiopulmonary GmbH",
+        "zh": "瑞士药品管理局发布PIK扩张器S（型号701054606）现场安全纠正措施"
+      },
+      "summary": {
+        "en": "Swissmedic has issued a Field Safety Corrective Action (FSCA) for the PIK dilator S (model 701054606), a non-implantable vascular catheter introduction set manufactured by Maquet Cardiopulmonary GmbH. The specific reason for the action has not been detailed in the public notice, but affected users should immediately identify and quarantine the device and follow the manufacturer's instructions for corrective measures. This alert applies to the specified model number.",
+        "zh": "瑞士药品管理局（Swissmedic）针对Maquet Cardiopulmonary GmbH生产的PIK扩张器S（型号701054606，非植入式血管导管导入套件）发布了现场安全纠正措施（FSCA）。公告未提供具体原因，但受影响用户需立即识别并隔离该产品，并遵循制造商的纠正措施说明。本次警示适用于指定型号的产品。"
+      },
+      "source_url": "https://fsca.swissmedic.ch/mep/#?q=Vk_20260728_032",
+      "source_name": "Swissmedic",
+      "published_date": "2026-08-04",
+      "detected_date": "2026-08-07T00:40:18Z",
+      "importance": "high",
+      "tags": [
+        "fsca",
+        "vascular_catheter",
+        "maquet_cardiopulmonary",
+        "swissmedic",
+        "device_safety"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "switzerland_20260807_pik_150_usa_maquet_cardiopulmonary_gmbh",
+      "framework": "switzerland",
+      "category": "safety_communication",
+      "title": {
+        "en": "PIK 150-USA - Maquet Cardiopulmonary GmbH",
+        "zh": "PIK 150-USA - Maquet Cardiopulmonary GmbH"
+      },
+      "summary": {
+        "en": "FSCA: MD: Vascular catheter introduction set, nonimplantable. Reason: . Model: 701053069.",
+        "zh": "FSCA: MD: Vascular catheter introduction set, nonimplantable. Reason: . Model: 701053069."
+      },
+      "source_url": "https://fsca.swissmedic.ch/mep/#?q=Vk_20260728_032",
+      "source_name": "Swissmedic",
+      "published_date": "2026-08-04",
+      "detected_date": "2026-08-07T00:40:49Z",
+      "importance": "medium",
+      "tags": [],
+      "related_docs": [],
+      "status": "published"
+    },
     {
       "id": "switzerland_20260731_swissmedic_fsca_med_stop_devices_in_soft_liner_suction_canis",
       "framework": "switzerland",
@@ -1760,6 +2071,34 @@
         "fsca",
         "cardiac_ablation_catheter",
         "field_safety_notice"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "switzerland_20260807_swissmedic_fsca_vue_pacs_additional_software_versions_affect",
+      "framework": "switzerland",
+      "category": "safety_communication",
+      "title": {
+        "en": "Swissmedic FSCA: Vue PACS Additional Software Versions Affected",
+        "zh": "瑞士Swissmedic发布Vue PACS额外软件版本安全纠正措施"
+      },
+      "summary": {
+        "en": "Swissmedic has updated a field safety corrective action for Philips Medical Systems Nederland B.V. Vue PACS radiological software (model 1017979). The update includes additional software versions now affected by the issue. Users should review the manufacturer's notice and apply any required software updates or mitigations.",
+        "zh": "瑞士药品监督管理局更新了针对飞利浦医疗系统荷兰公司Vue PACS放射学软件（型号1017979）的现场安全纠正措施。此次更新涉及更多受影响的软件版本。用户应查看制造商通知并执行必要的软件更新或缓解措施。"
+      },
+      "source_url": "https://fsca.swissmedic.ch/mep/#?q=Vk_20260305_023",
+      "source_name": "Swissmedic",
+      "published_date": "2026-03-11",
+      "detected_date": "2026-08-07T00:41:06Z",
+      "importance": "medium",
+      "tags": [
+        "fsca",
+        "swissmedic",
+        "vue_pacs",
+        "philips",
+        "radiology_software",
+        "product_correction"
       ],
       "related_docs": [],
       "status": "published"
