@@ -47,3 +47,4 @@
 - [风险管理](/zh/eu_mdr/td/risk-management) -- 使用相关风险分析纳入风险管理文件
 - [IVDR 可用性](/zh/eu_ivdr/td/vv/usability) -- IVD 制度说明（共用 IEC 62366-1 过程）
 - [MDR↔IVDR 可用性对照](/zh/eu_ivdr/td/vv/usability-crosswalk) -- GSPR / FDA / 中国特殊备注
+- [FDA 人因结构化摘要（2026）](./usability-fda-hf) -- CDRH 指南提纲（关键任务验证）
