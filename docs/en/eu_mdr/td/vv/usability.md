@@ -62,3 +62,5 @@ The primary standard defines the usability engineering process for medical devic
 - [Design V&V](./design-vv) -- Usability validation is part of design validation
 - [Software V&V](./software-vv) -- Software UI usability
 - [Risk Management](/en/eu_mdr/td/risk-management) -- Use-related risk analysis feeds into the risk management file
+- [IVDR usability](/en/eu_ivdr/td/vv/usability) -- IVD regime notes (shared IEC 62366-1 process)
+- [MDR↔IVDR usability crosswalk](/en/eu_ivdr/td/vv/usability-crosswalk) -- GSPR / FDA / China special notes

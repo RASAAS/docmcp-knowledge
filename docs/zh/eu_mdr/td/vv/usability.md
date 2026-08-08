@@ -45,3 +45,5 @@
 - [设计验证与确认](./design-vv) -- 可用性确认是设计确认的组成部分
 - [软件验证与确认](./software-vv) -- 软件UI可用性
 - [风险管理](/zh/eu_mdr/td/risk-management) -- 使用相关风险分析纳入风险管理文件
+- [IVDR 可用性](/zh/eu_ivdr/td/vv/usability) -- IVD 制度说明（共用 IEC 62366-1 过程）
+- [MDR↔IVDR 可用性对照](/zh/eu_ivdr/td/vv/usability-crosswalk) -- GSPR / FDA / 中国特殊备注
