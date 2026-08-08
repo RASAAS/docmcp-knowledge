@@ -382,16 +382,16 @@ export default defineConfig({
           { text: 'FDA', link: '/en/fda/' },
           { text: 'NMPA', link: '/en/nmpa/' },
           {
-            text: 'Resources',
+            text: 'More',
             items: [
               { text: 'International', link: '/en/shared/standards' },
               { text: 'News', link: '/en/news/' },
               { text: 'Insights', link: '/en/insights/' },
               { text: 'Hub', link: '/en/hub/' },
+              { text: 'Get Started', link: '/en/get-started' },
+              { text: 'Contact', link: '/en/contact' },
             ],
           },
-          { text: 'Get Started', link: '/en/get-started' },
-          { text: 'Contact', link: '/en/contact' },
         ],
         sidebar: Object.assign(
           {
@@ -753,16 +753,16 @@ export default defineConfig({
           { text: 'FDA', link: '/zh/fda/' },
           { text: 'NMPA', link: '/zh/nmpa/' },
           {
-            text: '资源',
+            text: '更多',
             items: [
               { text: 'International', link: '/zh/shared/standards' },
               { text: '法规速递', link: '/zh/news/' },
               { text: '法规解读', link: '/zh/insights/' },
               { text: 'Hub', link: '/zh/hub/' },
+              { text: '快速开始', link: '/zh/get-started' },
+              { text: '联系我们', link: '/zh/contact' },
             ],
           },
-          { text: '快速开始', link: '/zh/get-started' },
-          { text: '联系我们', link: '/zh/contact' },
         ],
         sidebar: zhSidebar,
         socialLinks: [

@@ -58,28 +58,36 @@
 }
 
 /*
- * Keep appearance toggle / language / GitHub visible when top nav grows.
- * Menu may scroll horizontally; trailing chrome must never be clipped.
+ * Nav chrome: keep flyouts (EU / Resources) unclipped, and keep
+ * appearance / GitHub / language on screen.
+ *
+ * Do NOT set overflow-x/y on .VPNavBarMenu -- that clips VPFlyout menus.
  */
-.VPNavBar .container {
-  max-width: 100%;
+.VPNav {
+  z-index: 64 !important;
+}
+.VPNavBar {
+  z-index: 64 !important;
+}
+.VPNavBar .container,
+.VPNavBar .content,
+.VPNavBar .content-body {
+  overflow: visible !important;
 }
 .VPNavBar .content-body {
   display: flex !important;
   align-items: center;
-  gap: 8px;
+  gap: 4px;
   min-width: 0;
 }
 .VPNavBarMenu {
-  flex: 1 1 auto;
+  flex: 0 1 auto;
   min-width: 0;
-  overflow-x: auto;
-  overflow-y: hidden;
-  -webkit-overflow-scrolling: touch;
-  scrollbar-width: none;
+  overflow: visible !important;
 }
-.VPNavBarMenu::-webkit-scrollbar {
-  display: none;
+.VPNavBarMenu .VPFlyout,
+.VPNavBarMenu .VPFlyout .menu {
+  z-index: 70 !important;
 }
 .VPNavBar .VPNavBarTranslations,
 .VPNavBar .VPNavBarAppearance,
@@ -87,6 +95,27 @@
 .VPNavBar .VPNavBarExtra,
 .VPNavBar .VPNavBarHamburger {
   flex: 0 0 auto !important;
+  flex-shrink: 0 !important;
+}
+/* Shrink local search so trailing icons are not pushed off-screen */
+.VPNavBarSearch {
+  flex: 0 1 180px;
+  min-width: 120px;
+  max-width: 200px;
+}
+.VPNavBarSearch .DocSearch-Button,
+.VPNavBarSearch button {
+  width: 100%;
+  max-width: 200px;
+  justify-content: flex-start;
+}
+/* Slightly tighter menu item padding on medium widths */
+@media (max-width: 1280px) {
+  .VPNavBarMenu .VPNavBarMenuLink,
+  .VPNavBarMenu .VPNavBarMenuGroup .button {
+    padding-left: 8px !important;
+    padding-right: 8px !important;
+  }
 }
 
 /* Hub embed mode: hide VitePress chrome when loaded inside an iframe with ?embed=true */
