@@ -1,29 +1,20 @@
-# Stability (reagents) (IVDR)
+# Stability (Reagents) (IVDR)
 
-**IVDR reference:** BPG Stability  
-**Team-NB Position Paper BPG-IVDR V2 (2025-09-03):** p. 22  
+**BPG reference:** Team-NB BPG-IVDR V2 (V&V — Stability, approx. pp. 19–21)  
+**Covers:** shelf-life, open-vial/on-board stability, transport simulation, in-use stability
 
 ## Checklist
 
-- [ ] Should provide a description of specimen type including surrogate samples, matrix, analyte
-- [ ] to provide a commutability study.
-- [ ] Demonstrate and document the analytical performance in a separate analytical performance report
-- [ ] Provide details on the claimed shelf-life and storage conditions.
-- [ ] Provide a study report which details the study protocol, the acceptance criteria and testing
-- [ ] intervals. The report must include data on at least 3 lots of the device. Confirm if these are
-- [ ] manufactured lots. If possible, also include the study protocol.
-- [ ] life claims but shall be followed up with data generated from real time stability studies.
-- [ ] provided, including interim time-points, where applicable.
-- [ ] Provide details on the claimed in-use stability and storage conditions.
-- [ ] The study must include data on at least 1 lot of the device reflecting the actual routine use of
-- [ ] The transport of the product to the end user shall not adversely have any effect on the
-- [ ] Shipping and transport studies should be planned.
-- [ ] Provide details on the packaging types used - primary, secondary etc.
-- [ ] Provide details of the specified shipping conditions.
-- [ ] Provide a study report which details the study protocol, the acceptance criteria and shipping
-- [ ] conditions assessed. Shipping conditions may be real or simulated but must include variable
+- [ ] Stability studies support claimed shelf-life (real-time and/or justified accelerated data)
+- [ ] Open-vial / on-board stability protocols and reports where claimed
+- [ ] Transport stability / challenge conditions aligned with labelled storage
+- [ ] Calibrators, controls and reagents addressed separately where applicable
+- [ ] Predefined acceptance criteria; transparent statistics
+- [ ] Conclusions reflected in IFU storage/use statements and risk management
+- [ ] Multiple configurations/pack sizes: representative or worst-case coverage with extrapolation rationale
 
+## Common NB gaps
 
-## See also
-
-- [TD overview](../) if nested else [TD overview](./)
+- Accelerated data only without real-time plan/justification
+- Missing open-vial data despite multi-day IFU claims
+- Transport conditions contradict labelled storage

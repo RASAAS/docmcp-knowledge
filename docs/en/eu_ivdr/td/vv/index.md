@@ -1,12 +1,18 @@
-# IVDR V&V Overview
+# V&V Overview (IVDR)
 
-Index of Product Verification and Validation topics from **Team-NB Position Paper BPG-IVDR V2 (2025-09-03)**.
+This page summarises product verification & validation topics commonly expected in IVDR technical documentation. Detailed checklists are in the child pages.
 
-| Topic | Link | Approx. pages |
-|-------|------|----------------|
-| Performance characteristics | [VV main](../verification-validation) | 19–21 |
-| Stability (reagents) | [stability](./stability) | 22 |
-| Metrological traceability | [metrological-traceability](./metrological-traceability) | 23 |
-| Usability / HFE | [usability](./usability) | 23 |
-| Chemical / physical / biological | [chemical-physical-biological](./chemical-physical-biological) | 24–25 |
-| Software & cybersecurity | [software](./software) | 26–30 |
+## Mandatory interfaces
+
+- [ ] V&V scope covers claimed performance and applicable GSPRs
+- [ ] Traceability to risk-management hazards/controls
+- [ ] Consistency with IFU / performance-evaluation claims
+- [ ] Qualification of critical outsourced testing
+
+## Child pages
+
+- [Stability (reagents)](./stability)
+- [Metrological traceability](./metrological-traceability)
+- [Usability / human factors](./usability)
+- [Chemical / physical / biological](./chemical-physical-biological)
+- [Software & cybersecurity](./software)

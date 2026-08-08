@@ -197,7 +197,6 @@ const zhSidebar = Object.assign(
               { text: '稳定性（试剂）', link: '/zh/eu_ivdr/td/vv/stability' },
               { text: '计量溯源', link: '/zh/eu_ivdr/td/vv/metrological-traceability' },
               { text: '可用性/人因工程', link: '/zh/eu_ivdr/td/vv/usability' },
-              { text: 'MDR↔IVDR 可用性对照', link: '/zh/eu_ivdr/td/vv/usability-crosswalk' },
               { text: '化学/物理/生物特性', link: '/zh/eu_ivdr/td/vv/chemical-physical-biological' },
               { text: '软件与网络安全', link: '/zh/eu_ivdr/td/vv/software' },
             ],
@@ -373,14 +372,24 @@ export default defineConfig({
       themeConfig: {
         nav: [
           { text: 'Home', link: '/' },
-          { text: 'EU MDR', link: '/en/eu_mdr/' },
-          { text: 'EU IVDR', link: '/en/eu_ivdr/' },
+          {
+            text: 'EU',
+            items: [
+              { text: 'EU MDR', link: '/en/eu_mdr/' },
+              { text: 'EU IVDR', link: '/en/eu_ivdr/' },
+            ],
+          },
           { text: 'FDA', link: '/en/fda/' },
           { text: 'NMPA', link: '/en/nmpa/' },
-          { text: 'International', link: '/en/shared/standards' },
-          { text: 'News', link: '/en/news/' },
-          { text: 'Insights', link: '/en/insights/' },
-          { text: 'Hub', link: '/en/hub/' },
+          {
+            text: 'Resources',
+            items: [
+              { text: 'International', link: '/en/shared/standards' },
+              { text: 'News', link: '/en/news/' },
+              { text: 'Insights', link: '/en/insights/' },
+              { text: 'Hub', link: '/en/hub/' },
+            ],
+          },
           { text: 'Get Started', link: '/en/get-started' },
           { text: 'Contact', link: '/en/contact' },
         ],
@@ -577,7 +586,6 @@ export default defineConfig({
                       { text: 'Stability (reagents)', link: '/en/eu_ivdr/td/vv/stability' },
                       { text: 'Metrological Traceability', link: '/en/eu_ivdr/td/vv/metrological-traceability' },
                       { text: 'Usability / Human Factors', link: '/en/eu_ivdr/td/vv/usability' },
-                      { text: 'MDR↔IVDR Usability Crosswalk', link: '/en/eu_ivdr/td/vv/usability-crosswalk' },
                       { text: 'Chemical / Physical / Biological', link: '/en/eu_ivdr/td/vv/chemical-physical-biological' },
                       { text: 'Software & Cybersecurity', link: '/en/eu_ivdr/td/vv/software' },
                     ],
@@ -735,14 +743,24 @@ export default defineConfig({
       themeConfig: {
         nav: [
           { text: '首页', link: '/zh/' },
-          { text: 'EU MDR', link: '/zh/eu_mdr/' },
-          { text: 'EU IVDR', link: '/zh/eu_ivdr/' },
+          {
+            text: 'EU',
+            items: [
+              { text: 'EU MDR', link: '/zh/eu_mdr/' },
+              { text: 'EU IVDR', link: '/zh/eu_ivdr/' },
+            ],
+          },
           { text: 'FDA', link: '/zh/fda/' },
           { text: 'NMPA', link: '/zh/nmpa/' },
-          { text: 'International', link: '/zh/shared/standards' },
-          { text: '法规速递', link: '/zh/news/' },
-          { text: '法规解读', link: '/zh/insights/' },
-          { text: 'Hub', link: '/zh/hub/' },
+          {
+            text: '资源',
+            items: [
+              { text: 'International', link: '/zh/shared/standards' },
+              { text: '法规速递', link: '/zh/news/' },
+              { text: '法规解读', link: '/zh/insights/' },
+              { text: 'Hub', link: '/zh/hub/' },
+            ],
+          },
           { text: '快速开始', link: '/zh/get-started' },
           { text: '联系我们', link: '/zh/contact' },
         ],

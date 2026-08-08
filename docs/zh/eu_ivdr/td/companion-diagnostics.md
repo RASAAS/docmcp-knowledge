@@ -1,21 +1,20 @@
-# 伴随诊断 Companion Diagnostics（IVDR）
+# 伴随诊断 CDx（IVDR）
 
-**Team-NB Position Paper BPG-IVDR V2 (2025-09-03)：** Companion Diagnostics（约第 36 页）  
-**文件代码：** AII-CDX
+**IVDR 参考：** 第 2 条定义；分类与符合性评估中与药品主管当局/EMA 咨询相关的要求  
+**BPG 参考：** Device Description 中 CDx 专段；性能评价对关联药品的要求
 
 ## 要求清单
 
-- [ ] (Annex XIII, Part B), or a justification of why this is not applicable. The outcome of this must be
-- [ ] For the PMS report, complaints data should be evaluated rather than just listed. Full details of vigilance
-- [ ] issues should be provided, including the status of any Field Safety Corrective Actions or Notices, the
-- [ ] associated CAPAs and patient outcomes. This data should include FSCA or FSN outside the EU, if related
-- [ ] Must be essential in developing or generating the supporting information for the
-- [ ] Must have a corresponding medicinal product. In some instances, a single device may be
-- [ ] Additional requirements include:
-- [ ] Agency (EMA) to seek a scientific opinion. The provided information should enable the
-
+- [ ] 明确为伴随诊断：关联药品通用名/INN、治疗决策语境、目标人群
+- [ ] 说明药品授权路径（EMA 集中程序或成员国主管当局）以便 NB 咨询
+- [ ] 预期用途 1.1(c)(ix) 要素完整写入 DD 与 IFU
+- [ ] 临床性能证据支持与药品标签/授权一致的选择或排除患者用途
+- [ ] 风险管理覆盖错误分型导致的用药伤害情景
+- [ ] 标签/IFU 清晰提示须与指定药品联合解读
+- [ ] 变更（药品标签或试剂性能）影响评估与沟通路径
 
 ## 相关页面
 
+- [器械描述与规格](./device-description)
 - [性能评价](./performance-evaluation)
-- [器械描述](./device-description)
+- [风险管理](./risk-management)

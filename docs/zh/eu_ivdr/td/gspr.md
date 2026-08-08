@@ -1,34 +1,32 @@
 # GSPR 合规清单（IVDR）
 
 **IVDR 参考：** 附件一（一般安全与性能要求）  
-**Team-NB Position Paper BPG-IVDR V2 (2025-09-03)：** General Safety & Performance Requirements (GSPRs)（约第 15 页）  
+**BPG 参考：** Team-NB BPG-IVDR V2（约第 15 页）  
 **文件代码：** AII-S4
 
-## 要求清单
+## 清单结构要求
 
-- [ ] Where a service or production is outsourced provide the name and address of the critical
-- [ ] certificates based on the product / service they provide. If a critical subcontractor and/or
-- [ ] satisfactory evidence to the Notified Body shall be provided, e.g., additional supplier audits to
-- [ ] For critical suppliers and /or subcontractors satisfactory evidence that the purchase critical
-- [ ] products or service meet the specified requirements shall be shown (e.g., EN ISO 13485
-- [ ] Based on the provided information the notified body will then assess if an audit at the
-- [ ] Information about sites and subcontractors must be also included in the application.
-- [ ] that is applied by the manufacturer, including reference to the documented (purchasing) procedures.
-- [ ] The manufacturer should provide documentation that includes the following:
-- [ ] GSPR that have different sub-sections, these must be addressed independently.
-- [ ] b. The method or methods used to demonstrate conformity with each applicable GSPR.
-- [ ] EXAMPLE: A column "methods used to demonstrate conformity", with each
-- [ ] NOTE 1 to (4): This is usually accomplished by means of a list of applicable standards
-- [ ] and CS, as well as by reference to appropriate standards and CS in the appropriate
-- [ ] standards are applied: in all these cases, an appropriate justification should be
-- [ ] provided in the Technical Documentation, in the form of a summary or gap analysis
+- [ ] 对附件一 **每一条**适用 GSPR 给出符合性论证；含分节的 GSPR 须**独立**处理各分节
+- [ ] 明确每条适用 GSPR 的符合性证明方法（标准、CS、其他方法、内部规范等）
+- [ ] 精确标识证明符合性的受控文件（文件名/编号/版本/日期），并交叉引用其在完整 TD 中的位置
+- [ ] 适用标准与 CS 列表；部分采用或偏离时提供摘要/差距分析与正当理由
+- [ ] 不适用 GSPR：给出不适用理由（与预期用途/技术特征一致）
 
+## 建议列（示例）
+
+| GSPR | 适用? | 符合方法 | 适用标准/CS | 证据文件位置 | 备注 |
+|------|-------|----------|-------------|--------------|------|
+| … | Y/N | … | … | … | … |
+
+## 证据邻居（IVDR）
+
+- [ ] 证据指向 **PER / 分析性能 / 临床性能 / RM / V&V / 标签 IFU**，而非 MDR CER
+- [ ] Applied Standards 与 Complying Documents 按 IVD 语境填写（含性能评价相关）
 
 ## Reguverse 工作流提示
 
-- 使用 `eu_ivdr` 的 Annex I 全文数据生成 checklist（条款号为 IVDR，勿混用 MDR 编号）
-- 证据位置应引用 **PER / 分析与临床性能 / RM / V&V**，而非 MDR CER
-- Applied Standards 与 Complying Documents 类别按 IVD 语境填写（含 Performance Evaluation 相关）
+- 使用 `eu_ivdr` 的 Annex I 全文数据生成 checklist（条款号为 IVDR）
+- 勿混用 MDR GSPR 编号
 
 ## 相关页面
 

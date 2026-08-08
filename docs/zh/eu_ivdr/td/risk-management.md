@@ -1,45 +1,45 @@
 # 受益-风险分析与风险管理（IVDR）
 
 **IVDR 参考：** 附件一 GSPR 1–8 等；与性能评价结论一致  
-**Team-NB Position Paper BPG-IVDR V2 (2025-09-03)：** Benefit Risk Analysis and Risk Management（约第 16–18 页）  
-**文件代码：** AII-S5
+**BPG 参考：** Team-NB BPG-IVDR V2（约第 16–18 页）  
+**文件代码：** AII-S5  
+**过程标准：** EN ISO 14971（及适用时 ISO/TR 24971）
 
-## 要求清单
+## 程序与生命周期
 
-- [ ] d. The precise identity of the controlled documents offering evidence of conformity with each
-- [ ] harmonised standard, CS, or other method applied to demonstrate conformity with the GSPR.
-- [ ] offering evidence of conformity.
-- [ ] NOTE 1 TO (4): This shall include a cross- reference to the location of that document
-- [ ] within the full Technical Documentation. The more specific the references are to
-- [ ] Devices shall achieve the performance
-- [ ] intended by their manufacturer and shall be
-- [ ] shall be safe and effective and shall not
-- [ ] provided that any risks which may be
-- [ ] manufacturer must be clear and noticeable (refer to Annex VII, 4.5.4); and the results of risk
-- [ ] management shall provide information about the appropriateness of the performance evaluation.
-- [ ] Provide a copy of risk management procedure(s) that include the definition of any rating systems used
-- [ ] the relevant information must be included.
-- [ ] Provide copies of the relevant risk management documentation to confirm that the risk management
-- [ ] Evidence of the "life-cycle management" concept must be provided, i.e., the analysis must be
-- [ ] Note that risk management documentation shall comprise all parts / components of a device.
-- [ ] Risk management shall be understood as a continuous iterative process throughout the entire lifecycle
-- [ ] Provide the risk management plan associated with the device, including:
-- [ ] The documentation shall contain information on:
-- [ ] Evidence given that a safety concept in accordance with section 4 of IVDR Annex I is applied,
-- [ ] The documentation shall include:
-- [ ] For design risk assessment, an assessment shall be provided whether any design changes add new
-- [ ] Reduction of the risks related to use error shall cover the requirements set out in section 5 of IVDR
-- [ ] For ease of review, it is recommended to provide a use flow-chart for the device in question.
-- [ ] Risk analysis shall demonstrate:
-- [ ] Risk control measures are implemented for each hazard (with references to the
-- [ ] The effectiveness of risk control measures is verified (with references to the documentation
-- [ ] where effectiveness of risk control measures is demonstrated).
-- [ ] The risk analysis shall address all known and foreseeable hazards, including but not limited to:
-- [ ] Provide the risk management report associated with the device, including:
+- [ ] 提供风险管理程序副本（含所用评级系统定义）
+- [ ] 风险管理作为全生命周期连续迭代过程的证据
+- [ ] 覆盖器械全部零件/组件
+- [ ] 生命周期管理概念证据（上市后信息反馈更新风险分析）
 
+## 风险管理计划
+
+- [ ] 与该器械关联的风险管理计划
+- [ ] 范围、职责、可接受性准则、风险控制策略
+- [ ] 与可用性、性能评价、PMS/PMPF 的接口
+
+## 安全概念与使用错误
+
+- [ ] 按附件一第 4 节应用安全概念的证据
+- [ ] 使用错误相关风险降低覆盖附件一第 5 节要求
+- [ ] 建议提供器械使用流程图（便于评审）
+
+## 风险分析与控制
+
+- [ ] 风险分析证明：识别全部已知与可合理预见的危险
+- [ ] 每一危险实施风险控制措施（引用实现文件）
+- [ ] 风险控制措施有效性已验证（引用验证文件）
+- [ ] 设计变更评估是否引入新危险/影响受益-风险
+- [ ] IVD 特有危险示例（非穷尽）：假阴性/假阳性后果、标本处理、交叉污染、校准失效、软件失效、自测误用、CDx 用药决策错误等
+
+## 风险管理报告与受益-风险
+
+- [ ] 风险管理报告：剩余风险可接受；受益-风险结论与性能评价一致
+- [ ] 制造商对受益与风险的权衡清晰可辨（参见附件七 4.5.4 精神）
+- [ ] 风险管理结果为性能评价适当性提供信息
 
 ## 相关页面
 
 - [GSPR](./gspr)
+- [可用性](./vv/usability)
 - [性能评价](./performance-evaluation)
-- [PMS](./pms)

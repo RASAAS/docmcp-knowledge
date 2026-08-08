@@ -1,46 +1,59 @@
 # 制造商提供的信息（IVDR）
 
-**IVDR 参考：** 第 10(10) 条、附件一 GSPR 20、第 18 条；DoC 见第 17 条 / 附件四  
-**Team-NB Position Paper BPG-IVDR V2 (2025-09-03)：** Information to be supplied by manufacturer（约第 11–12 页）  
+**IVDR 参考：** 第 10(10) 条、附件一 GSPR 20、第 18 条；DoC：第 17 条 / 附件四  
+**BPG 参考：** Team-NB BPG-IVDR V2（约第 11–12 页）  
 **文件代码：** AII-S2
 
-## 要求清单
+## 总则
 
-- [ ] Information to be supplied by manufacturer (Includes DoC, Labels,
-- [ ] Each device shall be accompanied by the information needed to identify the device and its
-- [ ] instructions for use, and shall, if the manufacturer has a website, be made available and kept up to
-- [ ] Provide the label or labels on the IVD for all variants; this includes device labelling, any sterile
-- [ ] specified here. Legible versions of all applicable levels of labels should be provided (e.g., secondary
-- [ ] pack, primary pack) and should be representative of the finished form, showing all included symbols.
-- [ ] If possible, provide drawings/images with the packaging configuration (showing placement of all
-- [ ] The position of labels on the finished device should be clear. If the device has a sterile package, clearly
-- [ ] user (including pictures / schematics of the device) this should also be provided.
-- [ ] Verification of label contents must be carried out in accordance with GSPR 20.2 and Article 18.
-- [ ] shall apply.
-- [ ] testing also requires bearing additional information. For class C and D devices the manufacturer shall
-- [ ] Provide the instructions for use (IFU) in the language required by the specific Notified Body performing
-- [ ] Manufacturers must ensure that the information within the IFUs, especially related to intended
-- [ ] IFUs must contain all the information required as per applicable requirements specified within GSPR
-- [ ] For instruments, provide user manual, installation and service manuals if applicable.
-- [ ] Note: for surveillance reviews a list of all countries in which the device has been sold and all translated
-- [ ] labelling including the IFU must be submitted. Instructions for use for self-testing devices also needs
-- [ ] If electronic IFU will be utilised, E-labelling information as provided on the device or on a leaflet must
-- [ ] be included. Provide details / reference to risk management in relation to e-labelling.
-- [ ] If a safety data sheet (SDS) is provided for the device, the SDS is part of the Technical Documentation
-- [ ] Note that instructions for obtaining the SDS shall be included on the label or instruction for use. The
-- [ ] provisions of Regulation (EC) No 1907/2006 and EC) No 1272/2008 on the safety data sheet shall apply,
-- [ ] includes the CE mark itself is required to be provided.
-- [ ] Claims made in the marketing literature must be consistent with the IFU and consistently displayed in
-- [ ] Note: EN ISO 15223 is harmonised to the IVDR and provides details of approved harmonised symbols.
-- [ ] EN ISO 18113 and EN ISO 20417 provide guidance on the content of labels and IFUs. Refer to Regulation
+- [ ] 每台器械随附识别器械与制造商所需信息，以及与使用者相关的安全与性能信息（可在器械本体、包装或 IFU 上）
+- [ ] 制造商如有网站，应在网站提供并保持更新（第 10(10) 条）
 
+## 标签
 
-## 关键标准 / 法规挂钩
+- [ ] 提供所有变体最终批准版标签（打印版式）：器械标签、无菌包装、单支包装、销售包装、运输包装（适用层级）
+- [ ] 各级包装标签清晰可读，代表成品形态，含全部符号
+- [ ] 尽可能提供包装配置图（标签位置）与标签规格（布局、尺寸）
+- [ ] 成品上标签位置清晰；无菌包装标签明确标识
+- [ ] 包装上印刷的用户信息/示意图一并提供
+- [ ] 按 GSPR 20.2 与第 18 条验证标签内容
+- [ ] 满足适用协调标准或通用规范（CS）对标签的额外要求
+- [ ] 含危险物质/混合物：适用 CLP (EC) No 1272/2008 危险象形图与标签要求
+- [ ] 维持无菌状态的包装需额外信息；自测与床旁检测标签需额外信息
+- [ ] C/D 类：在标签或 IFU 说明 SSP 可获得位置（第 29 条；EUDAMED 未全面可用时）
+
+## 使用说明书 / 操作手册
+
+- [ ] 按执行符合性评估的 NB 所要求语言提供 IFU
+- [ ] TD 中列明拟销售国家并摘要翻译流程；上市前完成目标市场所需语言翻译，初次提交可仅一种 NB 要求语言（翻译程序有效为前提）
+- [ ] IFU 中预期用途、适应证、禁忌证、警告等与风险管理、性能评价、可用性等章节一致
+- [ ] IFU 含 GSPR 20.4 与第 18 条全部适用信息
+- [ ] 满足相关标准/CS 对 IFU 的特定要求
+- [ ] 仪器：提供用户手册、安装与维修手册（如适用）
+- [ ] 监督评审：提交全部已售国家清单及全部翻译标签/IFU
+- [ ] 自测器械 IFU 需额外信息，并需针对外行人群的附加验证
+
+## 电子说明书 (e-IFU)
+
+- [ ] 若使用 e-IFU：器械或随附传单上的电子标签信息
+- [ ] 电子标签相关风险管理引用/详情
+
+## 安全数据表 (SDS)
+
+- [ ] 若提供 SDS：SDS 作为 TD 一部分，按成员国要求提供相应译文
+- [ ] 标签或 IFU 说明如何获取 SDS
+- [ ] 适用 REACH (EC) No 1907/2006 与 CLP；除非相关信息已完整出现在 IFU
+
+## 宣传材料与 DoC
+
+- [ ] 仅需提交提及符合 CE 要求或含 CE 标志的营销材料
+- [ ] 营销声明与 IFU 一致，并与 TD 其他部分一致
+- [ ] EU DoC（第 17 条 / 附件四最低信息）可用；持续更新并译为官方联盟语言（适用时）
+
+## 关键标准挂钩
 
 - EN ISO 15223（符号，已协调至 IVDR）
 - EN ISO 18113、EN ISO 20417（标签/说明书内容指引）
-- CLP (EC) No 1272/2008；REACH (EC) No 1907/2006（SDS）
-- C/D 类：标签或 IFU 说明 SSP 可获得位置（Art. 29，EUDAMED 未全面可用时）
 
 ## 相关页面
 

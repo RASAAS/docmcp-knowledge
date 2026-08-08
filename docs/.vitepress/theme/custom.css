@@ -57,6 +57,38 @@
   background: var(--vp-c-bg) !important;
 }
 
+/*
+ * Keep appearance toggle / language / GitHub visible when top nav grows.
+ * Menu may scroll horizontally; trailing chrome must never be clipped.
+ */
+.VPNavBar .container {
+  max-width: 100%;
+}
+.VPNavBar .content-body {
+  display: flex !important;
+  align-items: center;
+  gap: 8px;
+  min-width: 0;
+}
+.VPNavBarMenu {
+  flex: 1 1 auto;
+  min-width: 0;
+  overflow-x: auto;
+  overflow-y: hidden;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+}
+.VPNavBarMenu::-webkit-scrollbar {
+  display: none;
+}
+.VPNavBar .VPNavBarTranslations,
+.VPNavBar .VPNavBarAppearance,
+.VPNavBar .VPSocialLinks,
+.VPNavBar .VPNavBarExtra,
+.VPNavBar .VPNavBarHamburger {
+  flex: 0 0 auto !important;
+}
+
 /* Hub embed mode: hide VitePress chrome when loaded inside an iframe with ?embed=true */
 html.hub-embed-mode .VPNav,
 html.hub-embed-mode .VPSidebar,

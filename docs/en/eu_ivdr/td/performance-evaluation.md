@@ -1,44 +1,40 @@
-# Performance Evaluation — PEP / PER (IVDR)
+# Performance Evaluation (PEP / PER) (IVDR)
 
-**IVDR reference:** Article 56, Annex XIII  
-**BPG reference:** Team-NB BPG-IVDR V2 (2025-09-03), Performance Evaluation (approx. pp. 31–33)  
-**Document code:** AII-S6-PE
+**IVDR reference:** Art. 56; Annex XIII; scientific validity, analytical performance, clinical performance  
+**BPG reference:** Team-NB BPG-IVDR V2 (Performance Evaluation, approx. pp. 31–36)  
+**Service mode:** Reguverse core workflow (including post-market **Performance Evaluation Update**)
 
-Performance evaluation is a **continuous process**: scientific validity, analytical performance, clinical performance → **PER**, updated via **PMPF** (Class C/D at least annually when necessary).
+## General
 
-## Checklist
+- [ ] Controlled PEP and PER with clear versioning
+- [ ] Scope consistent with intended purpose, classification and variants in the Device Description
+- [ ] Scientific validity, analytical performance and clinical performance covered (or justified N/A)
+- [ ] Transparent evidence sources; reproducible literature search strategy
+- [ ] Benefit-risk aligned with RM; residual uncertainties feed PMPF
 
-### Performance Evaluation Plan (PEP)
+## Scientific validity / analytical / clinical performance
 
-- [ ] PEP covers the three pillars and methodology
-- [ ] Aligned with intended purpose, risk management, and IFU claims
-- [ ] Data sources justified (literature, established science, studies, historical data, etc.)
-- [ ] Gaps / residual uncertainty and follow-up actions (incl. PMPF triggers)
+- [ ] Scientific link between analyte and clinical condition/physiological state
+- [ ] Analytical performance parameters as claimed (trueness/bias, precision, LoD, linearity/range, hook effect, interference, cross-reactivity, matrix effects, …)
+- [ ] Protocols, acceptance criteria and specimen types aligned with claims; metrological traceability linked
+- [ ] Clinical performance evidence for intended purpose and target population (sensitivity/specificity, predictive values, likelihood ratios as applicable)
+- [ ] Self-testing / near-patient: performance under intended user conditions
+- [ ] CDx: performance relevant to medicinal-product decision-making; consistency with drug authorisation information
 
-### Analytical / clinical performance
+## Planning, reporting, updates
 
-- [ ] Analytical performance vs Annex I 9.1(a) as applicable (specificity, sensitivity/LoD, trueness, precision, measuring interval, etc.)
-- [ ] Clinical performance vs Annex I 9.1(b); clinical performance studies unless justified otherwise
-- [ ] Self-testing / near-patient: additional validation linked to usability evidence
+- [ ] PEP: objectives, methods, statistics, ethics/regulatory, milestones
+- [ ] PER: evidence synthesis, gaps, conclusions, IFU impact
+- [ ] Post-market: PE updates interfacing with PMPF/PMS
 
-### Performance Evaluation Report (PER)
+## Reguverse notes
 
-- [ ] PER synthesises pillar conclusions, benefit-risk, limitations, and PMPF outline
-- [ ] Consistent with labelling / IFU / SSP claims where applicable
-- [ ] Lifecycle updates document changes from PMPF / PMS / new literature
+- Initial PE and **performance_evaluation_update** are both formal tasks; update is repeatable
+- DD is a mandatory prerequisite — do not reinvent a conflicting intended purpose inside PE
 
-## Reguverse task mapping
+## Related pages
 
-| Task | Phase |
-|------|-------|
-| Performance Evaluation | Initial (pre-market) |
-| Performance Evaluation Update | Post-market / PMPF, repeatable versions |
-| PER document | Code assembly + AI assist; Word download with AI header label |
-
-## See also
-
-- [PMPF](./pmpf)
-- [SSP](./ssp)
-- [GSPR](./gspr)
-- [V&V](./verification-validation)
 - [Device description](./device-description)
+- [PMPF](./pmpf)
+- [PMS](./pms)
+- [Companion diagnostics](./companion-diagnostics)

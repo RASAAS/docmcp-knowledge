@@ -1,31 +1,19 @@
 # 上市后监督 PMS（IVDR）
 
-**IVDR 参考：** 附件三等  
-**Team-NB Position Paper BPG-IVDR V2 (2025-09-03)：** Post Market Surveillance（约第 35 页）  
-**文件代码：** AIII-PMS
+**IVDR 参考：** 第 78–81 条等；附件三  
+**相关文件：** PMS 计划；定期更新（如适用类别的 PSUR 等）
 
 ## 要求清单
 
-- [ ] The SSP should be updated as soon as possible (as per Article 56), where necessary.
-- [ ] part dedicated to patients/lay persons should be added to the SSP. If it is decided that a patient
-- [ ] version/layperson is not applicable, then a justification must be provided.
-- [ ] For self-test devices a patient/layperson version must be provided.
-- [ ] stylistic recommendations.
-- [ ] Evidence is provided of an appropriate validation technique of the patient/layperson test.
-- [ ] The layout template and guidance provided for the patient/layperson in MDCG 2022-9 is
-- [ ] applied and the provided example statements have been considered.
-- [ ] The submission should contain the following documentation on post-market surveillance:
-- [ ] search terms used in the search for serious incidents, field actions, relevant specialist or
-- [ ] o For Class D devices the PSUR should be submitted to the Notified Body (Article 81).
-- [ ] These documents must be updated at least annually.
-- [ ] o Periodic safety update report should be stand-alone document, per MDCG 2022-21.
-- [ ] The manufacturer should also provide the following post market surveillance data for the last 5 years:
-- [ ] Vigilance data and trend analysis (include details of any adverse incidents, recalls or
-- [ ] Notes: MDCG 2022-2, Appendix II includes a summary of the required frequency for updates of reports.
-- [ ] plan. Where applicable, manufacturers must also include a post-market performance follow- up plan
-
+- [ ] PMS 计划：数据源、方法、指标、阈值、职责、报告路径
+- [ ] 主动与被动收集：投诉、vigilance、文献、数据库、PMPF、真实世界数据等
+- [ ] 与风险管理、性能评价更新、纠正预防措施（CAPA）闭环
+- [ ] 趋势分析与信号检测方法文件化
+- [ ] 报告义务与时限（严重事件、FSCA 等）程序就绪
+- [ ] 输出反馈至 IFU/标签、DD、PER、GSPR 证据维护
 
 ## 相关页面
 
 - [PMPF](./pmpf)
-- [性能评价更新（产品内任务）](./performance-evaluation)
+- [性能评价](./performance-evaluation)
+- [风险管理](./risk-management)

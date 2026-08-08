@@ -1,22 +1,26 @@
 # Usability / Human Factors (IVDR)
 
-**Process standard:** IEC 62366-1:2015+A1:2020  
-**IVDR hooks:** Annex I GSPR 5 (use error); self-testing / near-patient GSPRs 19–20; consistency with performance evaluation (Art. 56 / Annex XIII) and IFU.  
-**Team-NB Position Paper BPG-IVDR V2 (2025-09-03):** Usability (approx. p. 23)
+**Primary process standard:** IEC 62366-1:2015+A1:2020  
+**IVDR hooks:** Annex I GSPR 5 (use error); self-testing / near-patient information requirements (GSPR 19–20 et al.); consistency with performance evaluation (Art. 56 / Annex XIII) and IFU  
+**BPG reference:** Team-NB BPG-IVDR V2 (Usability, approx. p. 23)
 
-## Relationship to MDR usability
+## Checklist
 
-The **process** is shared (IEC 62366-1). Under IVDR:
+- [ ] Usability Engineering File (UEF): use specification, hazard-related use scenarios, UI evaluation plan
+- [ ] Use-error-related hazards identified and controlled (GSPR 5); results feed risk management
+- [ ] Formative and summative evaluation records (or justified equivalent path)
+- [ ] Intended users (lab professionals / HCPs / lay persons) and use environment defined in the UEF
+- [ ] IFU, labels and training materials evaluated as part of the user interface
+- [ ] Self-testing / near-patient testing: additional usability validation for lay or near-patient users
+- [ ] Usability conclusions aligned with clinical performance evaluation and residual-risk acceptability
+- [ ] Acceptance criteria predefined; missing data marked for manufacturer completion — never invented
 
-| Topic | IVDR emphasis |
-|-------|----------------|
-| Regime | In vitro diagnostic devices (`eu_ivdr`) |
-| GSPR numbering | Use-error clause is IVDR **GSPR 5** |
-| Evidence neighbours | PER / analytical & clinical performance (not MDR CER) |
-| Self-test / NPT | Additional information and validation expectations |
+## Reguverse UEF Harness
 
-See also: [MDR↔IVDR usability crosswalk](./usability-crosswalk.md) and [MDR usability](../../../eu_mdr/td/vv/usability.md).
+Apply the **Usability UEF harness** in the evidence / V&V `usability` domain for structured protocol/report skeletons. Structure is code-assembled; AI fills product narrative only.
 
-## Built-in UEF Harness
+## Related pages
 
-Apply the **Usability UEF harness** in Evidence / V&V domain `usability` to generate structured plan/report skeletons. Code assembles structure; AI fills product narrative only. Missing data must be `[TO BE COMPLETED]`.
+- [Risk management](../risk-management)
+- [Information supplied](../information-supplied)
+- [Performance evaluation](../performance-evaluation)

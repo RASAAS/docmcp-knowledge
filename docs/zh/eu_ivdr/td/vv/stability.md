@@ -1,29 +1,20 @@
 # 稳定性（试剂）（IVDR）
 
-**Team-NB Position Paper BPG-IVDR V2 (2025-09-03)：** Stability (applicable to reagents)（约第 22 页）
+**BPG 参考：** Team-NB BPG-IVDR V2（V&V — Stability，约第 19–21 页）  
+**相关：** 货架期、开瓶/机载稳定性、运输模拟、使用中稳定性
 
 ## 要求清单
 
-- [ ] Should provide a description of specimen type including surrogate samples, matrix, analyte
-- [ ] to provide a commutability study.
-- [ ] Demonstrate and document the analytical performance in a separate analytical performance report
-- [ ] Provide details on the claimed shelf-life and storage conditions.
-- [ ] Provide a study report which details the study protocol, the acceptance criteria and testing
-- [ ] intervals. The report must include data on at least 3 lots of the device. Confirm if these are
-- [ ] manufactured lots. If possible, also include the study protocol.
-- [ ] life claims but shall be followed up with data generated from real time stability studies.
-- [ ] provided, including interim time-points, where applicable.
-- [ ] Provide details on the claimed in-use stability and storage conditions.
-- [ ] The study must include data on at least 1 lot of the device reflecting the actual routine use of
-- [ ] The transport of the product to the end user shall not adversely have any effect on the
-- [ ] Shipping and transport studies should be planned.
-- [ ] Provide details on the packaging types used - primary, secondary etc.
-- [ ] Provide details of the specified shipping conditions.
-- [ ] Provide a study report which details the study protocol, the acceptance criteria and shipping
-- [ ] conditions assessed. Shipping conditions may be real or simulated but must include variable
+- [ ] 稳定性研究支持声称的货架期（实时和/或经正当理由的加速数据）
+- [ ] 开瓶稳定性 / 机载稳定性（适用时）有方案与报告
+- [ ] 运输稳定性 / 挑战条件（温湿度、震动等）与标签储存条件一致
+- [ ] 校准品、质控品、试剂分别说明稳定性（如适用）
+- [ ] 接受准则与分析方法事先定义；结果统计处理透明
+- [ ] 稳定性结论反馈至 IFU 储存/使用说明与风险管理
+- [ ] 多配置/多包装规格：覆盖代表性或最差情形并说明外推理由
 
+## NB 常见不足
 
-## 相关页面
-
-- [V&V 总览](./)
-- [性能评价](../performance-evaluation)
+- 仅有加速数据而无实时计划/正当性
+- 开瓶稳定性缺失但 IFU 声称多日使用
+- 运输条件与标签储存条件矛盾
