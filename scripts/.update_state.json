@@ -1344,10 +1344,10 @@
   },
   "newzealand_medsafe/safety_comms": {
     "url": "https://medsafe.govt.nz/safety/SafetyCommunications.asp",
-    "last_checked": "2026-07-25T20:06:08.552667",
+    "last_checked": "2026-08-08T19:22:06.251282",
     "seen_ids": [
-      "[Alert] Product \r\n\t\t\t\tAlert of Dexcom US G7 Sensors: Lots 1725204004 and 1725069002",
-      "[Alert] Stop using Euky Bear \r\n\t\t\t\tWarm Steam Vaporiser â model number EBSV2013"
+      "[Alert] Stop using Euky Bear \r\n\t\t\t\tWarm Steam Vaporiser â model number EBSV2013",
+      "[Alert] Product \r\n\t\t\t\tAlert of Dexcom US G7 Sensors: Lots 1725204004 and 1725069002"
     ]
   },
   "australia_tga/regulations_search": {
@@ -1372,18 +1372,19 @@
   },
   "mexico_cofepris/safety_alerts": {
     "url": "https://www.gob.mx/cofepris/acciones-y-programas/alertas-sanitarias-336947",
-    "last_checked": "2026-07-25T20:06:03.646035",
+    "last_checked": "2026-08-08T19:22:01.121510",
     "seen_titles": [
-      "Contesta nuestra encuesta de satisfacción.",
       "Imprime la página completa",
-      "Riesgo de recolectar y consumir hongos silvestres",
+      "En la investigación por Cyclospora cayetanensis, ni México ni EE.UU. han encontrado el parásito en lechugas de origen mexicano",
       "COFEPRIS acata declaratoria de inconstitucionalidad emitida por la SCJN en materia de autoconsumo lúdico de cannabis y tetrahidrocannabinol",
-      "En la investigación por Cyclospora cayetanensis, ni México ni EE.UU. han encontrado el parásito en lechugas de origen mexicano"
+      "Riesgo de recolectar y consumir hongos silvestres",
+      "Contesta nuestra encuesta de satisfacción.",
+      "COFEPRIS realiza investigación en la planta empacadora de chiles jalapeños en Nuevo León"
     ]
   },
   "argentina_anmat/safety_alerts": {
     "url": "https://www.argentina.gob.ar/anmat/alertas",
-    "last_checked": "2026-07-25T20:06:04.892997",
+    "last_checked": "2026-08-08T19:22:02.302346",
     "seen_titles": [
       "30 de junio de 2026ANMAT prohíbe un lote de un producto médico falsificado de la firma LINEDERM"
     ]
