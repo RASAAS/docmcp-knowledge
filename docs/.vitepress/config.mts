@@ -311,6 +311,9 @@ const zhSidebar = Object.assign(
     '/zh/hub/': [
       { text: 'Reguverse Hub', link: '/zh/hub/' },
     ],
+    '/zh/learn/': [
+      { text: 'Reguverse Learn', link: '/zh/learn/' },
+    ],
     '/zh/news/': [
       { text: '法规速递', link: '/zh/news/' },
       { text: 'EU MDR', link: '/zh/news/eu_mdr' },
@@ -389,6 +392,7 @@ export default defineConfig({
               { text: 'News', link: '/en/news/' },
               { text: 'Insights', link: '/en/insights/' },
               { text: 'Hub', link: '/en/hub/' },
+              { text: 'Learn', link: '/en/learn/' },
               { text: 'Get Started', link: '/en/get-started' },
               { text: 'Contact', link: '/en/contact' },
             ],
@@ -701,6 +705,9 @@ export default defineConfig({
             '/en/hub/': [
               { text: 'Reguverse Hub', link: '/en/hub/' },
             ],
+            '/en/learn/': [
+              { text: 'Reguverse Learn', link: '/en/learn/' },
+            ],
             '/en/news/': [
               { text: 'Regulatory News', link: '/en/news/' },
               { text: 'EU MDR', link: '/en/news/eu_mdr' },
@@ -761,6 +768,7 @@ export default defineConfig({
               { text: '法规速递', link: '/zh/news/' },
               { text: '法规解读', link: '/zh/insights/' },
               { text: 'Hub', link: '/zh/hub/' },
+              { text: 'Learn', link: '/zh/learn/' },
               { text: '快速开始', link: '/zh/get-started' },
               { text: '联系我们', link: '/zh/contact' },
             ],
