@@ -383,7 +383,12 @@ onMounted(load);
 
     <div v-else class="bb-list">
       <div v-if="items.length === 0" class="bb-empty">
-        <p>{{ isZh ? "榜单暂无条目。管理员可从功能建议导入或手动创建。" : "No billboard items yet. Admins can import suggestions or create items." }}</p>
+        <p v-if="isAdmin">
+          {{ isZh ? "榜单暂无条目。可从功能建议导入或手动创建。" : "No items yet. Import from Feature Board or create manually." }}
+        </p>
+        <p v-else>
+          {{ isZh ? "榜单筹备中，敬请期待。" : "The priority board is being prepared. Please check back soon." }}
+        </p>
       </div>
 
       <article v-for="item in items" :key="item.id" class="bb-card" :class="{ 'bb-draft': !item.is_published }">
