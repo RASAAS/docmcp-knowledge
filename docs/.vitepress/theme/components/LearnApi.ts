@@ -241,11 +241,6 @@ export function buildJoinUrl(code: string, isZh: boolean): string {
   return `${origin}${lang}/learn/?code=${encodeURIComponent(code.toUpperCase())}&mode=join`;
 }
 
-/** QR image URL (no secrets; encodes join URL only). */
-export function buildJoinQrUrl(joinUrl: string, size = 280): string {
-  return `https://api.qrserver.com/v1/create-qr-code/?size=${size}x${size}&margin=10&data=${encodeURIComponent(joinUrl)}`;
-}
-
 export async function verifyLearnAuth(): Promise<{
   verified: boolean;
   display_name?: string;

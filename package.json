@@ -9,6 +9,10 @@
     "docs:preview": "cd docs && vitepress preview"
   },
   "devDependencies": {
+    "@types/qrcode": "^1.5.6",
     "vitepress": "^1.6.0"
+  },
+  "dependencies": {
+    "qrcode": "^1.5.4"
   }
 }

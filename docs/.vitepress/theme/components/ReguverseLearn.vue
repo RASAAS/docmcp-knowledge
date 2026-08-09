@@ -1,8 +1,8 @@
 <script setup lang="ts">
 import { computed, onMounted, onUnmounted, ref, watch } from "vue";
 import { useData } from "vitepress";
+import QRCode from "qrcode";
 import {
-  buildJoinQrUrl,
   buildJoinUrl,
   createLiveSession,
   ensureParticipantKey,
@@ -62,11 +62,40 @@ const hostView = ref<Awaited<ReturnType<typeof hostGet>> | null>(null);
 const copied = ref(false);
 let hostPoll: ReturnType<typeof setInterval> | null = null;
 
-const joinUrl = computed(() =>
-  hostCode.value ? buildJoinUrl(hostCode.value, isZh.value) : ""
+/** Session code used for audience QR (Join tab). Prefer join form code, fallback host code. */
+const qrSessionCode = computed(() => {
+  const c = (joinCode.value || hostCode.value || "").trim().toUpperCase();
+  return c.length >= 4 ? c : "";
+});
+const audienceJoinUrl = computed(() =>
+  qrSessionCode.value ? buildJoinUrl(qrSessionCode.value, isZh.value) : ""
 );
-const joinQrUrl = computed(() =>
-  joinUrl.value ? buildJoinQrUrl(joinUrl.value, 280) : ""
+/** Project QR on Join tab; hide for students who already arrived via ?mode=join */
+const showJoinQr = computed(
+  () => !!audienceJoinUrl.value && !joined.value && !joinOnlyMode.value
+);
+const qrDataUrl = ref("");
+
+watch(
+  [audienceJoinUrl, showJoinQr],
+  async ([url, show]) => {
+    if (typeof window === "undefined" || !show || !url) {
+      qrDataUrl.value = "";
+      return;
+    }
+    try {
+      qrDataUrl.value = await QRCode.toDataURL(url, {
+        width: 280,
+        margin: 2,
+        errorCorrectionLevel: "M",
+        color: { dark: "#111111", light: "#ffffff" },
+      });
+    } catch (e) {
+      console.error("QR generate failed", e);
+      qrDataUrl.value = "";
+    }
+  },
+  { immediate: true }
 );
 
 // --- Practice + login ---
@@ -201,11 +230,15 @@ async function doCreateHost() {
       create_secret: hostCreateSecret.value.trim() || undefined,
     });
     hostCode.value = res.code;
+    joinCode.value = res.code;
     hostToken.value = res.host_token;
     saveHostSession(res.code, res.host_token);
     await refreshHost();
     stopHostPoll();
     hostPoll = setInterval(refreshHost, 2500);
+    // Audience QR lives on Join tab — switch so host can project immediately
+    activeTab.value = "join";
+    joinOnlyMode.value = false;
   } catch (e) {
     errorMsg.value = e instanceof Error ? e.message : t("error", isZh.value);
   } finally {
@@ -217,10 +250,17 @@ function restoreHost() {
   const saved = loadHostSession();
   if (!saved) return;
   hostCode.value = saved.code;
+  joinCode.value = saved.code;
   hostToken.value = saved.host_token;
   refreshHost();
   stopHostPoll();
   hostPoll = setInterval(refreshHost, 2500);
+}
+
+function goJoinShowQr() {
+  if (hostCode.value && !joinCode.value) joinCode.value = hostCode.value;
+  joinOnlyMode.value = false;
+  activeTab.value = "join";
 }
 
 async function runHost(action: "push" | "lock" | "reveal" | "waiting" | "end", qid?: string) {
@@ -239,8 +279,11 @@ async function runHost(action: "push" | "lock" | "reveal" | "waiting" | "end", q
 }
 
 async function copyJoinLink() {
-  if (!joinUrl.value) return;
-  await navigator.clipboard.writeText(joinUrl.value);
+  const url =
+    audienceJoinUrl.value ||
+    (hostCode.value ? buildJoinUrl(hostCode.value, isZh.value) : "");
+  if (!url) return;
+  await navigator.clipboard.writeText(url);
   copied.value = true;
   setTimeout(() => (copied.value = false), 1500);
 }
@@ -435,32 +478,50 @@ onUnmounted(() => {
 
     <p v-if="errorMsg" class="learn-error">{{ errorMsg }}</p>
 
-    <!-- Join -->
+    <!-- Join (audience-facing: QR + session code + form) -->
     <section v-if="activeTab === 'join'" class="learn-panel">
-      <div v-if="!joined" class="learn-form join-form">
-        <p v-if="joinCode" class="join-banner">
+      <div v-if="!joined" class="join-form">
+        <div v-if="showJoinQr" class="qr-panel">
+          <p class="qr-title">{{ t("scanToJoin", isZh) }}</p>
+          <img
+            v-if="qrDataUrl"
+            class="qr-img"
+            :src="qrDataUrl"
+            :alt="t('scanToJoin', isZh)"
+            width="280"
+            height="280"
+          />
+          <p v-else class="hint">{{ isZh ? "正在生成二维码…" : "Generating QR…" }}</p>
+          <div class="code-under-qr">{{ qrSessionCode }}</div>
+          <p class="hint">{{ t("orEnterCode", isZh) }}</p>
+          <p class="join-url-line">{{ audienceJoinUrl }}</p>
+        </div>
+        <p v-else-if="!joinOnlyMode" class="hint enter-code-hint">{{ t("enterCodeForQr", isZh) }}</p>
+        <p v-if="joinOnlyMode && joinCode" class="join-banner">
           {{ isZh ? "已识别会话，请填写昵称后加入" : "Session detected — enter a nickname to join" }}
         </p>
-        <label>
-          {{ t("sessionCode", isZh) }}
-          <input v-model="joinCode" maxlength="8" autocomplete="off" class="input-lg" inputmode="text" />
-        </label>
-        <label>
-          {{ t("nickname", isZh) }}
-          <input v-model="nickname" maxlength="40" autocomplete="nickname" class="input-lg" />
-        </label>
-        <label>
-          {{ t("displayName", isZh) }}
-          <input v-model="displayName" maxlength="80" autocomplete="name" class="input-lg" />
-        </label>
-        <button
-          type="button"
-          class="learn-btn primary btn-lg"
-          :disabled="loading || !joinCode || !nickname"
-          @click="doJoin"
-        >
-          {{ t("join", isZh) }}
-        </button>
+        <div class="learn-form">
+          <label>
+            {{ t("sessionCode", isZh) }}
+            <input v-model="joinCode" maxlength="8" autocomplete="off" class="input-lg" inputmode="text" />
+          </label>
+          <label>
+            {{ t("nickname", isZh) }}
+            <input v-model="nickname" maxlength="40" autocomplete="nickname" class="input-lg" />
+          </label>
+          <label>
+            {{ t("displayName", isZh) }}
+            <input v-model="displayName" maxlength="80" autocomplete="name" class="input-lg" />
+          </label>
+          <button
+            type="button"
+            class="learn-btn primary btn-lg"
+            :disabled="loading || !joinCode || !nickname"
+            @click="doJoin"
+          >
+            {{ t("join", isZh) }}
+          </button>
+        </div>
       </div>
 
       <div v-else class="learn-live">
@@ -533,28 +594,18 @@ onUnmounted(() => {
       </div>
 
       <div v-else class="learn-host">
-        <div class="qr-panel">
-          <p class="qr-title">{{ t("scanToJoin", isZh) }}</p>
-          <img
-            v-if="joinQrUrl"
-            class="qr-img"
-            :src="joinQrUrl"
-            :alt="t('scanToJoin', isZh)"
-            width="280"
-            height="280"
-          />
-          <div class="code-under-qr">{{ hostCode }}</div>
-          <p class="hint">{{ t("orEnterCode", isZh) }}</p>
-          <p class="join-url-line">{{ joinUrl }}</p>
-        </div>
-
         <div class="learn-meta">
+          <span>{{ t("sessionCode", isZh) }}: <strong class="code-lg">{{ hostCode }}</strong></span>
           <span>{{ t("participants", isZh) }}: {{ hostView?.participant_count ?? 0 }}</span>
           <span>{{ t("answered", isZh) }}: {{ hostView?.answered ?? 0 }}</span>
           <span>{{ t("phase", isZh) }}: {{ hostView?.phase }}</span>
         </div>
+        <p class="hint">{{ t("qrHostHint", isZh) }}</p>
         <p class="hint">{{ t("hostTokenHint", isZh) }}</p>
         <div class="host-actions">
+          <button type="button" class="learn-btn primary" @click="goJoinShowQr">
+            {{ t("showQrOnJoin", isZh) }}
+          </button>
           <button type="button" class="learn-btn primary" @click="runHost('push')">{{ t("push", isZh) }}</button>
           <button type="button" class="learn-btn" @click="runHost('lock')">{{ t("lock", isZh) }}</button>
           <button type="button" class="learn-btn" @click="runHost('reveal')">{{ t("revealBtn", isZh) }}</button>
@@ -854,7 +905,14 @@ onUnmounted(() => {
   padding: 0.65rem 0.8rem;
   border-radius: 8px;
   background: var(--vp-c-brand-soft);
-  margin: 0;
+  margin: 0 0 0.75rem;
+}
+.enter-code-hint {
+  margin: 0 0 0.75rem;
+}
+.code-lg {
+  font-size: 1.25rem;
+  letter-spacing: 0.12em;
 }
 .learn-waiting {
   padding: 2rem 1rem;

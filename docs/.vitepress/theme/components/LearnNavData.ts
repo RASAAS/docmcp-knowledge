@@ -59,8 +59,20 @@ export const LEARN_I18N = {
     zh: "手机扫码加入（移动端自适应）",
   },
   orEnterCode: {
-    en: "Or enter the session code below",
-    zh: "或手动输入下方会话码",
+    en: "Or enter nickname below to join",
+    zh: "或在下方填写昵称后加入",
+  },
+  showQrOnJoin: {
+    en: "Show QR on Join tab",
+    zh: "去「加入现场」展示二维码",
+  },
+  enterCodeForQr: {
+    en: "Enter a session code to show the join QR code (for projection).",
+    zh: "输入会话码后将显示加入二维码（可用于投影给学员扫码）。",
+  },
+  qrHostHint: {
+    en: "Create a session first, then open Join Live to project the QR code.",
+    zh: "请先创建场次，再切换到「加入现场」投影二维码给学员。",
   },
   loginRequired: {
     en: "Practice requires a registered DocMCP account. Sign in with email OTP.",
