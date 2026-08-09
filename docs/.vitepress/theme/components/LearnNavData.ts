@@ -135,6 +135,14 @@ export const LEARN_I18N = {
     en: "No content yet.",
     zh: "暂无内容。",
   },
+  workshopUnsaved: {
+    en: "Unsaved changes — click Save group to keep them.",
+    zh: "有未保存修改，请点击「保存本组」以免丢失。",
+  },
+  openWorkshop: {
+    en: "Open workshop boards",
+    zh: "打开工作坊看板",
+  },
   hostBusy: { en: "Working…", zh: "处理中…" },
   logout: { en: "Sign out", zh: "退出登录" },
   signedInAs: { en: "Signed in as", zh: "已登录" },

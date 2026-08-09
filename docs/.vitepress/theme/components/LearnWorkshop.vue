@@ -34,7 +34,10 @@ const newGroupName = ref("");
 const loading = ref(false);
 const draftName = ref("");
 const draftSections = ref<WorkshopSection[]>([]);
+/** Prevent poll/refresh from wiping in-progress edits */
+const draftDirty = ref(false);
 let pollTimer: ReturnType<typeof setInterval> | null = null;
+let applyingRemote = false;
 
 const activeGroup = computed(() => groups.value.find((g) => g.id === activeGroupId.value) || null);
 const isHost = computed(() => !!props.hostToken);
@@ -46,36 +49,52 @@ function stopPoll() {
   }
 }
 
+function markDirty() {
+  if (!applyingRemote) draftDirty.value = true;
+}
+
 function loadDraft(g: WorkshopGroup | null) {
+  applyingRemote = true;
   if (!g) {
     draftName.value = "";
     draftSections.value = [];
-    return;
+  } else {
+    draftName.value = g.name;
+    draftSections.value = g.sections.map((s) => ({ ...s }));
   }
-  draftName.value = g.name;
-  draftSections.value = g.sections.map((s) => ({ ...s }));
+  draftDirty.value = false;
+  applyingRemote = false;
 }
 
-async function refresh() {
+async function refresh(opts?: { forceDraft?: boolean }) {
   const c = (code.value || props.sessionCode || "").trim().toUpperCase();
   if (!c) return;
   code.value = c;
   try {
     const res = await getWorkshop(c);
     groups.value = res.groups;
+
     if (activeGroupId.value == null && res.groups.length) {
       activeGroupId.value = res.groups[0].id;
-      loadDraft(res.groups[0]);
-    } else {
-      const cur = res.groups.find((g) => g.id === activeGroupId.value);
-      if (cur) loadDraft(cur);
-      else if (res.groups.length) {
+      if (!draftDirty.value || opts?.forceDraft) loadDraft(res.groups[0]);
+      return;
+    }
+
+    const cur = res.groups.find((g) => g.id === activeGroupId.value);
+    if (!cur) {
+      if (res.groups.length) {
         activeGroupId.value = res.groups[0].id;
-        loadDraft(res.groups[0]);
+        if (!draftDirty.value || opts?.forceDraft) loadDraft(res.groups[0]);
       } else {
         activeGroupId.value = null;
         loadDraft(null);
       }
+      return;
+    }
+
+    // Keep local unsaved edits; only refresh draft when clean or forced
+    if (!draftDirty.value || opts?.forceDraft) {
+      loadDraft(cur);
     }
   } catch (e) {
     emit("error", e instanceof Error ? e.message : t("error", props.isZh));
@@ -95,7 +114,9 @@ async function addGroup() {
   loading.value = true;
   try {
     const res = await createWorkshopGroup(c, {
-      name: newGroupName.value.trim() || (props.isZh ? `第 ${groups.value.length + 1} 组` : `Group ${groups.value.length + 1}`),
+      name:
+        newGroupName.value.trim() ||
+        (props.isZh ? `第 ${groups.value.length + 1} 组` : `Group ${groups.value.length + 1}`),
       host_token: props.hostToken,
     });
     groups.value = res.groups;
@@ -132,15 +153,14 @@ async function removeGroup(id: number) {
 }
 
 function addSection() {
-  const id = `s${Date.now().toString(36)}`;
-  draftSections.value = [
-    ...draftSections.value,
-    { id, title: "", body: "" },
-  ];
+  const id = `s${Date.now().toString(36)}${Math.random().toString(36).slice(2, 6)}`;
+  draftSections.value = [...draftSections.value, { id, title: "", body: "" }];
+  markDirty();
 }
 
 function removeSection(sid: string) {
   draftSections.value = draftSections.value.filter((s) => s.id !== sid);
+  markDirty();
 }
 
 async function saveActive() {
@@ -160,6 +180,8 @@ async function saveActive() {
       host_token: props.hostToken || undefined,
     });
     groups.value = res.groups;
+    const cur = res.groups.find((g) => g.id === activeGroupId.value);
+    loadDraft(cur || null);
   } catch (e) {
     emit("error", e instanceof Error ? e.message : t("error", props.isZh));
   } finally {
@@ -172,20 +194,25 @@ watch(
   (v) => {
     if (v) {
       code.value = v.trim().toUpperCase();
-      refresh();
+      refresh({ forceDraft: !draftDirty.value });
     }
   }
 );
 
-watch(activeGroupId, (id) => {
+watch(activeGroupId, (id, prev) => {
+  if (id === prev) return;
+  // Switching groups: discard dirty draft for previous group (explicit selection)
   const g = groups.value.find((x) => x.id === id) || null;
   loadDraft(g);
 });
 
+watch(draftName, () => markDirty());
+
 onMounted(() => {
   code.value = (props.sessionCode || "").trim().toUpperCase();
-  refresh();
-  pollTimer = setInterval(refresh, 5000);
+  refresh({ forceDraft: true });
+  // Poll peer boards; never wipe unsaved local draft
+  pollTimer = setInterval(() => refresh(), 5000);
 });
 
 onUnmounted(stopPoll);
@@ -199,9 +226,11 @@ onUnmounted(stopPoll);
     <div class="learn-form row">
       <label>
         {{ t("sessionCode", isZh) }}
-        <input v-model="code" maxlength="8" class="input-lg" @change="refresh" />
+        <input v-model="code" maxlength="8" class="input-lg" @change="refresh({ forceDraft: true })" />
       </label>
-      <button type="button" class="learn-btn" @click="refresh">{{ t("workshopRefresh", isZh) }}</button>
+      <button type="button" class="learn-btn" @click="refresh({ forceDraft: !draftDirty })">
+        {{ t("workshopRefresh", isZh) }}
+      </button>
     </div>
 
     <div v-if="isHost" class="ws-host-create">
@@ -215,6 +244,8 @@ onUnmounted(stopPoll);
       </button>
     </div>
     <p v-else class="hint">{{ t("workshopMemberHint", isZh) }}</p>
+
+    <p v-if="draftDirty" class="ws-dirty">{{ t("workshopUnsaved", isZh) }}</p>
 
     <div v-if="!groups.length" class="ws-empty">
       {{ t("workshopEmpty", isZh) }}
@@ -246,7 +277,7 @@ onUnmounted(stopPoll);
       <div v-if="activeGroup" class="ws-editor">
         <label>
           {{ t("workshopGroupName", isZh) }}
-          <input v-model="draftName" maxlength="80" />
+          <input v-model="draftName" maxlength="80" @input="markDirty" />
         </label>
 
         <div v-for="(sec, idx) in draftSections" :key="sec.id" class="ws-section">
@@ -260,11 +291,13 @@ onUnmounted(stopPoll);
             v-model="sec.title"
             maxlength="120"
             :placeholder="t('workshopSectionTitlePh', isZh)"
+            @input="markDirty"
           />
           <textarea
             v-model="sec.body"
             rows="4"
             :placeholder="t('workshopSectionBodyPh', isZh)"
+            @input="markDirty"
           />
         </div>
 
@@ -313,6 +346,11 @@ onUnmounted(stopPoll);
   color: var(--vp-c-text-2);
   font-size: 0.9rem;
   margin: 0;
+}
+.ws-dirty {
+  margin: 0;
+  font-size: 0.85rem;
+  color: #b54708;
 }
 .learn-form {
   display: grid;

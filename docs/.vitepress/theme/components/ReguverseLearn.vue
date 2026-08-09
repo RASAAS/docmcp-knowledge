@@ -221,6 +221,7 @@ async function doJoin() {
     participantKey.value = res.participant_key;
     joinCode.value = res.session_code;
     joined.value = true;
+    workshopCode.value = joinCode.value;
     await refreshLive();
     stopPoll();
     pollTimer = setInterval(refreshLive, 2000);
@@ -504,9 +505,17 @@ async function checkPractice() {
   }
 }
 
-const visibleTabs = computed(() =>
-  joinOnlyMode.value ? LEARN_TABS.filter((x) => x.key === "join") : LEARN_TABS
-);
+/** Audience/QR mode: Join + Workshop (hide Host/Practice). Full mode: all tabs. */
+const visibleTabs = computed(() => {
+  if (!joinOnlyMode.value) return LEARN_TABS;
+  return LEARN_TABS.filter((x) => x.key === "join" || x.key === "workshop");
+});
+
+function goWorkshop() {
+  workshopCode.value = (joinCode.value || hostCode.value || workshopCode.value).trim().toUpperCase();
+  joinOnlyMode.value = joinOnlyMode.value; // keep audience mode if set
+  activeTab.value = "workshop";
+}
 
 watch(activeTab, (tab) => {
   if (tab !== "join") stopPoll();
@@ -582,7 +591,7 @@ onUnmounted(() => {
       @success="onLoginSuccess"
     />
 
-    <nav v-if="visibleTabs.length > 1 || !joinOnlyMode" class="learn-tabs">
+    <nav v-if="visibleTabs.length > 1" class="learn-tabs">
       <button
         v-for="tab in visibleTabs"
         :key="tab.key"
@@ -648,6 +657,9 @@ onUnmounted(() => {
           <span>{{ t("sessionCode", isZh) }}: <strong>{{ liveState?.code || joinCode }}</strong></span>
           <span>{{ t("phase", isZh) }}: {{ liveState?.phase }}</span>
           <span>{{ t("participants", isZh) }}: {{ liveState?.participant_count ?? 0 }}</span>
+          <button type="button" class="learn-btn sm primary" @click="goWorkshop">
+            {{ t("openWorkshop", isZh) }}
+          </button>
         </div>
 
         <div v-if="!liveState?.question || liveState.phase === 'waiting'" class="learn-waiting">
