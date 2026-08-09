@@ -42,6 +42,24 @@
   max-width: 100% !important;
 }
 
+/* Hub uses its own left nav; hide empty VitePress sidebar */
+html.hub-page-active .VPSidebar,
+html.hub-page-active .VPLocalNav {
+  display: none !important;
+}
+html.hub-page-active .VPContent.has-sidebar,
+html.hub-page-active .VPContent {
+  padding-left: 0 !important;
+}
+html.hub-page-active .VPDoc.has-sidebar .content,
+html.hub-page-active .VPDoc .content {
+  padding: 0 !important;
+}
+html.hub-page-active .VPDoc .container {
+  max-width: 100% !important;
+  margin: 0 !important;
+}
+
 /* Fix VitePress nav bar transparency on Hub pages:
    Ensure nav bar is fully opaque so Hub banner doesn't bleed through on scroll. */
 .VPNav {

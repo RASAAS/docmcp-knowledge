@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { ref, onMounted, computed, nextTick } from "vue";
+import { ref, onMounted, computed, nextTick, watch } from "vue";
 import { useData } from "vitepress";
 import {
   listDiscussions,
@@ -19,6 +19,9 @@ import {
   type Discussion,
   type Comment,
 } from "./HubApi";
+import { DISCUSSION_CHANNELS, hubLabel } from "./HubNavData";
+
+const props = withDefaults(defineProps<{ category?: string }>(), { category: "" });
 
 const { lang } = useData();
 const isZh = computed(() => lang.value === "zh" || lang.value === "zh-CN");
@@ -31,7 +34,6 @@ const pages = ref(1);
 const loading = ref(false);
 const error = ref("");
 
-const category = ref("");
 const sort = ref("latest");
 
 const showForm = ref(false);
@@ -133,38 +135,17 @@ async function doDeleteCmt(c: Comment) {
   } catch (e) { error.value = (e as Error).message; }
 }
 
-const channels = computed(() => [
-  {
-    value: "",
-    label: isZh.value ? "# 全部频道" : "# all-channels",
-    desc: isZh.value ? "查看所有讨论" : "View all discussions",
-    icon: "M4 6h16M4 12h16M4 18h16",
-  },
-  {
-    value: "regulatory_intelligence",
-    label: isZh.value ? "# 法规情报" : "# regulatory-intel",
-    desc: isZh.value ? "法规动态和政策解读" : "Updates and policy analysis",
-    icon: "M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253",
-  },
-  {
-    value: "best_practices",
-    label: isZh.value ? "# 最佳实践" : "# best-practices",
-    desc: isZh.value ? "合规经验分享和方法论" : "Compliance tips and methodology",
-    icon: "M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z",
-  },
-  {
-    value: "tool_tips",
-    label: isZh.value ? "# 工具技巧" : "# tool-tips",
-    desc: isZh.value ? "Reguverse 使用技巧" : "Reguverse usage tips",
-    icon: "M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.066 2.573c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.573 1.066c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.066-2.573c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z",
-  },
-  {
-    value: "general",
-    label: isZh.value ? "# 综合讨论" : "# general",
-    desc: isZh.value ? "自由话题" : "Open discussion",
-    icon: "M17 8h2a2 2 0 012 2v6a2 2 0 01-2 2h-2v4l-4-4H9a1.994 1.994 0 01-1.414-.586m0 0L11 14h4a2 2 0 002-2V6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2v4l.586-.586z",
-  },
-]);
+const channels = computed(() =>
+  DISCUSSION_CHANNELS.map((c) => ({
+    value: c.value,
+    label: hubLabel(c, isZh.value),
+  }))
+);
+
+const activeChannelLabel = computed(() => {
+  const hit = DISCUSSION_CHANNELS.find((c) => c.value === props.category);
+  return hit ? hubLabel(hit, isZh.value) : (isZh.value ? "# 全部频道" : "# all-channels");
+});
 
 const loggedIn = computed(() => isLoggedIn());
 
@@ -173,7 +154,7 @@ async function load() {
   error.value = "";
   try {
     const data = await listDiscussions({
-      category: category.value || undefined,
+      category: props.category || undefined,
       sort: sort.value,
       page: page.value,
     });
@@ -186,6 +167,16 @@ async function load() {
     loading.value = false;
   }
 }
+
+watch(
+  () => props.category,
+  (val) => {
+    page.value = 1;
+    expandedId.value = null;
+    if (val) formCategory.value = val;
+    load();
+  }
+);
 
 async function like(d: Discussion) {
   try {
@@ -296,13 +287,6 @@ async function submitComment() {
   }
 }
 
-function selectChannel(ch: string) {
-  category.value = ch;
-  page.value = 1;
-  expandedId.value = null;
-  load();
-}
-
 function timeAgo(dateStr: string): string {
   const now = Date.now();
   const then = new Date(dateStr + "Z").getTime();
@@ -323,50 +307,25 @@ onMounted(load);
 <template>
   <div class="dw">
     <div class="dw-layout">
-      <!-- Channel Sidebar -->
-      <aside class="dw-sidebar">
-        <div class="dw-sidebar-header">
-          <h3 class="dw-sidebar-title">{{ isZh ? "频道" : "Channels" }}</h3>
-        </div>
-        <nav class="dw-channel-list">
-          <button
-            v-for="ch in channels"
-            :key="ch.value"
-            class="dw-channel"
-            :class="{ active: category === ch.value }"
-            @click="selectChannel(ch.value)"
-          >
-            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
-              <path :d="ch.icon"/>
-            </svg>
-            <div class="dw-channel-text">
-              <span class="dw-channel-name">{{ ch.label }}</span>
-              <span class="dw-channel-desc">{{ ch.desc }}</span>
-            </div>
-          </button>
-        </nav>
-        <div class="dw-sidebar-footer">
-          <div class="dw-sort-label">{{ isZh ? "排序" : "Sort" }}</div>
-          <select v-model="sort" @change="page = 1; load()" class="dw-sort-select">
-            <option value="latest">{{ isZh ? "最新" : "Latest" }}</option>
-            <option value="likes">{{ isZh ? "最多点赞" : "Most Liked" }}</option>
-          </select>
-        </div>
-      </aside>
-
       <!-- Main Content -->
       <div class="dw-main">
         <!-- Channel Header -->
         <div class="dw-main-header">
           <div class="dw-main-header-left">
             <h2 class="dw-main-title">
-              {{ channels.find(c => c.value === category)?.label || (isZh ? "# 全部频道" : "# all-channels") }}
+              {{ activeChannelLabel }}
             </h2>
             <span class="dw-disc-count" v-if="total">{{ total }} {{ isZh ? "条讨论" : "discussions" }}</span>
           </div>
-          <button class="dw-btn dw-btn-primary" @click="showForm = !showForm; if (!showForm) { turnstileToken = ''; } else { $nextTick(() => initTurnstile()); }">
-            {{ showForm ? (isZh ? "取消" : "Cancel") : (isZh ? "+ 发起讨论" : "+ New Discussion") }}
-          </button>
+          <div class="dw-main-header-actions">
+            <select v-model="sort" @change="page = 1; load()" class="dw-sort-select">
+              <option value="latest">{{ isZh ? "最新" : "Latest" }}</option>
+              <option value="likes">{{ isZh ? "最多点赞" : "Most Liked" }}</option>
+            </select>
+            <button class="dw-btn dw-btn-primary" @click="showForm = !showForm; if (!showForm) { turnstileToken = ''; } else { $nextTick(() => initTurnstile()); }">
+              {{ showForm ? (isZh ? "取消" : "Cancel") : (isZh ? "+ 发起讨论" : "+ New Discussion") }}
+            </button>
+          </div>
         </div>
 
         <!-- New Discussion Form -->
@@ -663,11 +622,23 @@ onMounted(load);
   padding: 16px 20px;
   border-bottom: 1px solid var(--vp-c-divider);
   background: var(--vp-c-bg);
+  gap: 12px;
+  flex-wrap: wrap;
 }
 .dw-main-header-left {
   display: flex;
   align-items: center;
   gap: 12px;
+}
+.dw-main-header-actions {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+.dw-main-header-actions .dw-sort-select {
+  width: auto;
+  min-width: 120px;
 }
 .dw-main-title {
   font-size: 16px;

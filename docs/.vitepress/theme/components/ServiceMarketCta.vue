@@ -17,8 +17,8 @@ const title = computed(() =>
 );
 const body = computed(() =>
   isZh.value
-    ? "通过 Reguverse 平台提交准入申请。批准后即可使用客户门户进行询价、项目协作与文档确认。已有 Reguverse 账号也可申请。"
-    : "Submit an access request through the Reguverse platform. After approval you can use the client portal for quotations, project collaboration, and document confirmation. Existing Reguverse accounts are welcome."
+    ? "提交准入申请，批准后可使用客户门户进行询价、项目协作与文档确认。"
+    : "Request access to quote, collaborate, and confirm documents in the client portal."
 );
 const primary = computed(() =>
   isZh.value ? "申请门户访问" : "Request portal access"
@@ -49,50 +49,62 @@ const secondary = computed(() =>
 
 <style scoped>
 .rv-svc-cta {
-  margin: 0 0 1.5rem;
+  margin: 12px 16px 0;
   border: 1px solid var(--vp-c-divider);
-  border-radius: 14px;
+  border-radius: 10px;
   background:
-    radial-gradient(800px 280px at 0% 0%, rgba(123, 104, 238, 0.12), transparent 55%),
+    linear-gradient(90deg, rgba(123, 104, 238, 0.1), transparent 42%),
     var(--vp-c-bg-soft);
 }
 .rv-svc-cta-inner {
   display: flex;
-  flex-wrap: wrap;
-  gap: 1rem 1.5rem;
+  flex-wrap: nowrap;
+  gap: 0.75rem 1rem;
   align-items: center;
   justify-content: space-between;
-  padding: 1.25rem 1.35rem;
+  padding: 0.55rem 0.9rem;
+}
+.rv-svc-cta-copy {
+  min-width: 0;
+  flex: 1;
 }
 .rv-svc-cta-title {
-  margin: 0 0 0.35rem;
-  font-size: 1.05rem;
+  margin: 0;
+  font-size: 0.92rem;
   font-weight: 650;
   color: var(--vp-c-text-1);
+  line-height: 1.3;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 .rv-svc-cta-body {
-  margin: 0;
-  max-width: 44rem;
-  font-size: 0.9rem;
-  line-height: 1.55;
+  margin: 0.15rem 0 0;
+  font-size: 0.78rem;
+  line-height: 1.35;
   color: var(--vp-c-text-2);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 .rv-svc-cta-actions {
   display: flex;
-  flex-wrap: wrap;
-  gap: 0.6rem;
+  flex-wrap: nowrap;
+  gap: 0.45rem;
+  flex-shrink: 0;
 }
 .rv-svc-cta-primary,
 .rv-svc-cta-secondary {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  padding: 0.55rem 0.95rem;
-  border-radius: 8px;
-  font-size: 0.875rem;
+  padding: 0.35rem 0.7rem;
+  border-radius: 7px;
+  font-size: 0.78rem;
   font-weight: 600;
   text-decoration: none;
   transition: opacity 0.15s ease;
+  white-space: nowrap;
 }
 .rv-svc-cta-primary {
   background: linear-gradient(135deg, #7b68ee, #5b4cdb);
@@ -106,5 +118,18 @@ const secondary = computed(() =>
 .rv-svc-cta-primary:hover,
 .rv-svc-cta-secondary:hover {
   opacity: 0.92;
+}
+
+@media (max-width: 860px) {
+  .rv-svc-cta-inner {
+    flex-wrap: wrap;
+  }
+  .rv-svc-cta-title,
+  .rv-svc-cta-body {
+    white-space: normal;
+  }
+  .rv-svc-cta-actions {
+    width: 100%;
+  }
 }
 </style>

@@ -5,125 +5,21 @@ import FeatureBoard from "./FeatureBoard.vue";
 import DiscussionWall from "./DiscussionWall.vue";
 import AdminPanel from "./AdminPanel.vue";
 import ServiceMarketCta from "./ServiceMarketCta.vue";
-import { isLoggedIn, getDisplayName, getUserId, getUserRole, saveSession, logout, sendOtp, verifyOtp, verifyAuth } from "./HubApi";
+import HubSidebar from "./HubSidebar.vue";
+import HubRoadmap from "./HubRoadmap.vue";
+import { hubLabel, HUB_TABS, HUB_ADMIN_TAB, type HubTabKey } from "./HubNavData";
+import { isLoggedIn, getDisplayName, getUserRole, saveSession, logout, sendOtp, verifyOtp, verifyAuth } from "./HubApi";
 
 const { lang } = useData();
 const isZh = computed(() => lang.value === "zh" || lang.value === "zh-CN");
 
 const isEmbedMode = ref(false);
+const mobileNavOpen = ref(false);
 
-const roadmapData = [
-  {
-    id: "phase1",
-    status: "completed",
-    titleEn: "Phase 1 -- Core EU MDR Compliance",
-    titleZh: "Phase 1 -- EU MDR 核心合规",
-    timeline: "2025 Q3 - 2026 Q1",
-    itemsEn: [
-      "Clinical Evaluation workflow (CEP/CER/DCR generation)",
-      "GSPR compliance analysis with Annex I requirements",
-      "Risk Management workflow (RMP/RMR/RM Analysis)",
-      "Literature search integration (PubMed, Embase)",
-      "FDA MAUDE & EU Vigilance safety data analysis",
-      "Regulatory knowledge base with full-text search",
-      "Multi-language support (English / Chinese)",
-      "Word document export with professional formatting",
-    ],
-    itemsZh: [
-      "临床评价工作流（CEP/CER/DCR 文档生成）",
-      "GSPR 合规分析（Annex I 基本安全与性能要求）",
-      "风险管理工作流（RMP/RMR/风险分析表）",
-      "文献检索集成（PubMed、Embase）",
-      "FDA MAUDE 和 EU 警戒系统安全数据分析",
-      "法规知识库全文检索",
-      "多语言支持（英文 / 中文）",
-      "Word 文档导出（专业排版格式）",
-    ],
-  },
-  {
-    id: "phase2",
-    status: "completed",
-    titleEn: "Phase 2 -- Platform & Enterprise",
-    titleZh: "Phase 2 -- 平台化与企业服务",
-    timeline: "2026 Q1 - Q2",
-    itemsEn: [
-      "Web platform (browser-based, no Office dependency)",
-      "User authentication with TOTP 2FA",
-      "Subscription tiers (Trial/Basic/Pro/Max/CRO)",
-      "PMS Plan, PMCF Plan/Report, PSUR workflows",
-      "Biocompatibility evaluation (BEP/BER)",
-      "Device Description structured data management",
-      "SSCP (Summary of Safety & Clinical Performance)",
-      "Equivalent device analysis workflow",
-      "Global regulatory news monitoring (30+ countries)",
-      "CRM system for CRO organizations",
-    ],
-    itemsZh: [
-      "Web 平台（浏览器端，无需 Office 依赖）",
-      "用户认证与 TOTP 双因素验证",
-      "订阅层级（试用/基础/专业/旗舰/CRO）",
-      "PMS 计划、PMCF 计划/报告、PSUR 工作流",
-      "生物相容性评价（BEP/BER）",
-      "器械描述结构化数据管理",
-      "SSCP（安全与临床性能摘要）",
-      "等效器械分析工作流",
-      "全球法规速递监控（30+ 国家/地区）",
-      "CRO 组织客户关系管理系统",
-    ],
-  },
-  {
-    id: "phase3",
-    status: "in_progress",
-    titleEn: "Phase 3 -- Multi-Regulation & Intelligence",
-    titleZh: "Phase 3 -- 多法规体系与智能化",
-    timeline: "2026 Q2 - Q3",
-    itemsEn: [
-      "NMPA (China) registration compliance workflows",
-      "FDA 510(k) pre-submission support",
-      "Technical Documentation cover letter generation",
-      "Manufacturer Information document assembly",
-      "AI-powered context-aware document generation",
-      "Cross-document consistency validation",
-      "Reguverse Hub community platform",
-    ],
-    itemsZh: [
-      "NMPA（中国）注册合规工作流",
-      "FDA 510(k) 预提交支持",
-      "技术文档封面信生成",
-      "制造商信息文档自动组装",
-      "AI 驱动的上下文感知文档生成",
-      "跨文档一致性校验",
-      "Reguverse Hub 社区平台",
-    ],
-  },
-  {
-    id: "phase4",
-    status: "planned",
-    titleEn: "Phase 4 -- Advanced Features",
-    titleZh: "Phase 4 -- 高级功能",
-    timeline: "2026 Q3 - Q4",
-    itemsEn: [
-      "BYOK (Bring Your Own Key) LLM API support",
-      "Total Product Life Cycle (TPLC) management",
-      "eQMS integration capabilities",
-      "Automated regulatory change impact assessment",
-      "Multi-team collaboration and review workflows",
-      "International payment (Stripe) integration",
-      "Advanced analytics and compliance dashboards",
-    ],
-    itemsZh: [
-      "BYOK（自带密钥）LLM API 支持",
-      "全产品生命周期（TPLC）管理",
-      "eQMS 电子质量管理系统集成",
-      "法规变更自动化影响评估",
-      "多团队协作与审批工作流",
-      "国际支付（Stripe）集成",
-      "高级数据分析与合规仪表盘",
-    ],
-  },
-];
+const activeTab = ref<HubTabKey>("features");
+const featureCategory = ref("");
+const discussionCategory = ref("");
 
-const activeTab = ref<"features" | "discussions" | "roadmap" | "admin">("features");
 const loggedIn = ref(false);
 const showLoginDialog = ref(false);
 const loginStep = ref<"email" | "code">("email");
@@ -135,36 +31,15 @@ const otpSent = ref(false);
 const cooldown = ref(0);
 let cooldownTimer: ReturnType<typeof setInterval> | null = null;
 
-const tabs = computed(() => {
-  const base = [
-    {
-      key: "features" as const,
-      label: isZh.value ? "功能建议" : "Feature Board",
-      icon: "M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z",
-    },
-    {
-      key: "discussions" as const,
-      label: isZh.value ? "讨论区" : "Discussions",
-      icon: "M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z",
-    },
-    {
-      key: "roadmap" as const,
-      label: isZh.value ? "路线图" : "Roadmap",
-      icon: "M9 20l-5.447-2.724A1 1 0 013 16.382V5.618a1 1 0 011.447-.894L9 7m0 13l6-3m-6 3V7m6 10l4.553 2.276A1 1 0 0021 18.382V7.618a1 1 0 00-.553-.894L15 4m0 13V4m0 0L9 7",
-    },
-  ];
-  if (isAdminUser.value) {
-    base.push({
-      key: "admin" as const,
-      label: isZh.value ? "内容管理" : "Admin",
-      icon: "M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.066 2.573c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.573 1.066c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.066-2.573c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z M15 12a3 3 0 11-6 0 3 3 0 016 0z",
-    });
-  }
-  return base;
-});
-
 const userName = ref("");
 const userRole = ref("");
+const isAdminUser = computed(() => ["admin", "super_admin"].includes(userRole.value));
+
+const activeTabLabel = computed(() => {
+  const all = isAdminUser.value ? [...HUB_TABS, HUB_ADMIN_TAB] : HUB_TABS;
+  const tab = all.find((t) => t.key === activeTab.value);
+  return tab ? hubLabel(tab, isZh.value) : "";
+});
 
 function startCooldown(seconds: number) {
   cooldown.value = seconds;
@@ -254,13 +129,12 @@ function resetLoginForm() {
   cooldown.value = 0;
 }
 
-const isAdminUser = computed(() => ["admin", "super_admin"].includes(userRole.value));
-
 function doLogout() {
   logout();
   loggedIn.value = false;
   userName.value = "";
   userRole.value = "";
+  if (activeTab.value === "admin") activeTab.value = "features";
 }
 
 async function checkLogin() {
@@ -311,12 +185,19 @@ function handlePostMessage(event: MessageEvent) {
   }
 }
 
+function setHubPageClass(on: boolean) {
+  if (typeof document === "undefined") return;
+  document.documentElement.classList.toggle("hub-page-active", on);
+}
+
 onMounted(() => {
   if (typeof window !== "undefined") {
     const params = new URLSearchParams(window.location.search);
     if (params.get("embed") === "true") {
       isEmbedMode.value = true;
       document.documentElement.classList.add("hub-embed-mode");
+    } else {
+      setHubPageClass(true);
     }
     window.addEventListener("message", handlePostMessage);
   }
@@ -327,7 +208,9 @@ onUnmounted(() => {
   if (typeof window !== "undefined") {
     window.removeEventListener("message", handlePostMessage);
     document.documentElement.classList.remove("hub-embed-mode");
+    setHubPageClass(false);
   }
+  if (cooldownTimer) clearInterval(cooldownTimer);
 });
 </script>
 
@@ -372,7 +255,6 @@ onUnmounted(() => {
       </div>
     </header>
 
-    <!-- Compact embed header: auth status only -->
     <div v-if="isEmbedMode" class="rv-hub-embed-bar">
       <template v-if="loggedIn">
         <span class="rv-embed-badge">
@@ -395,7 +277,6 @@ onUnmounted(() => {
           {{ isZh ? "Reguverse 用户验证" : "Verify Reguverse Account" }}
         </h3>
 
-        <!-- Step 1: Email -->
         <template v-if="loginStep === 'email'">
           <p class="rv-login-desc">
             {{ isZh
@@ -420,7 +301,6 @@ onUnmounted(() => {
           </div>
         </template>
 
-        <!-- Step 2: OTP Code -->
         <template v-else>
           <p class="rv-login-desc">
             {{ isZh
@@ -469,63 +349,50 @@ onUnmounted(() => {
       </div>
     </div>
 
-    <nav class="rv-hub-tabs">
-      <div class="rv-hub-tabs-inner">
-        <button
-          v-for="tab in tabs"
-          :key="tab.key"
-          class="rv-hub-tab"
-          :class="{ active: activeTab === tab.key }"
-          @click="activeTab = tab.key"
-        >
-          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
-            <path :d="tab.icon"/>
-          </svg>
-          {{ tab.label }}
-        </button>
-      </div>
-    </nav>
+    <div class="rv-hub-body">
+      <div
+        v-if="mobileNavOpen"
+        class="hub-side-backdrop"
+        @click="mobileNavOpen = false"
+      />
 
-    <main class="rv-hub-content">
-      <ServiceMarketCta v-if="!isEmbedMode" />
-      <div v-if="activeTab === 'features'" class="rv-hub-panel">
-        <FeatureBoard />
-      </div>
-      <div v-else-if="activeTab === 'discussions'" class="rv-hub-panel">
-        <DiscussionWall />
-      </div>
-      <div v-else-if="activeTab === 'roadmap'" class="rv-hub-panel rv-hub-roadmap">
-        <div class="rv-roadmap-container">
-          <p class="rv-roadmap-intro">
-            {{ isZh
-              ? "Reguverse Assistant 的开发路线图。我们持续改进产品以满足全球医疗器械合规需求。"
-              : "Development roadmap for Reguverse Assistant. We continuously improve to meet global medical device regulatory compliance needs." }}
-          </p>
-          <div v-for="phase in roadmapData" :key="phase.id" class="rv-roadmap-phase" :class="'rv-phase-' + phase.status">
-            <div class="rv-phase-header">
-              <span class="rv-phase-badge" :class="'rv-badge-' + phase.status">
-                {{ phase.status === 'completed' ? (isZh ? 'Completed' : 'Completed') : phase.status === 'in_progress' ? (isZh ? 'In Progress' : 'In Progress') : (isZh ? 'Planned' : 'Planned') }}
-              </span>
-              <h3 class="rv-phase-title">{{ isZh ? phase.titleZh : phase.titleEn }}</h3>
-              <span class="rv-phase-timeline">{{ phase.timeline }}</span>
-            </div>
-            <ul class="rv-phase-items">
-              <li v-for="(item, idx) in (isZh ? phase.itemsZh : phase.itemsEn)" :key="idx" class="rv-phase-item">
-                <svg v-if="phase.status === 'completed'" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#0cce6b" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg>
-                <svg v-else-if="phase.status === 'in_progress'" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#f5a623" stroke-width="2"><circle cx="12" cy="12" r="4" fill="#f5a623"/></svg>
-                <svg v-else width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="var(--vp-c-text-3)" stroke-width="2"><circle cx="12" cy="12" r="5"/></svg>
-                <span>{{ item }}</span>
-              </li>
-            </ul>
-          </div>
+      <HubSidebar
+        v-model:active-tab="activeTab"
+        v-model:feature-category="featureCategory"
+        v-model:discussion-category="discussionCategory"
+        :show-admin="isAdminUser"
+        :mobile-open="mobileNavOpen"
+        @close-mobile="mobileNavOpen = false"
+      />
+
+      <div class="rv-hub-main">
+        <div class="rv-hub-mobile-bar">
+          <button type="button" class="rv-hub-menu-btn" @click="mobileNavOpen = !mobileNavOpen">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+              <path d="M4 6h16M4 12h16M4 18h16"/>
+            </svg>
+            {{ activeTabLabel }}
+          </button>
         </div>
-      </div>
 
-      <!-- Admin Panel -->
-      <div v-else-if="activeTab === 'admin' && isAdminUser" class="rv-hub-panel rv-hub-admin">
-        <AdminPanel />
+        <ServiceMarketCta v-if="!isEmbedMode" />
+
+        <main class="rv-hub-content">
+          <div v-if="activeTab === 'features'" class="rv-hub-panel">
+            <FeatureBoard :category="featureCategory" />
+          </div>
+          <div v-else-if="activeTab === 'discussions'" class="rv-hub-panel">
+            <DiscussionWall :category="discussionCategory" />
+          </div>
+          <div v-else-if="activeTab === 'roadmap'" class="rv-hub-panel rv-hub-roadmap">
+            <HubRoadmap />
+          </div>
+          <div v-else-if="activeTab === 'admin' && isAdminUser" class="rv-hub-panel rv-hub-admin">
+            <AdminPanel />
+          </div>
+        </main>
       </div>
-    </main>
+    </div>
   </div>
 </template>
 
@@ -540,10 +407,10 @@ onUnmounted(() => {
 .rv-hub-header {
   background: linear-gradient(135deg, var(--vp-c-brand-1), var(--vp-c-brand-2));
   color: white;
-  padding: 40px 24px 32px;
+  padding: 28px 24px 22px;
 }
 .rv-hub-header-inner {
-  max-width: 1200px;
+  max-width: 1400px;
   margin: 0 auto;
 }
 .rv-hub-title-row {
@@ -555,13 +422,13 @@ onUnmounted(() => {
 .rv-hub-title-left {
   display: flex;
   flex-direction: column;
-  gap: 8px;
+  gap: 6px;
 }
 .rv-hub-title {
   display: flex;
   align-items: center;
   gap: 12px;
-  font-size: 28px;
+  font-size: 26px;
   font-weight: 700;
   margin: 0;
   color: white;
@@ -569,134 +436,51 @@ onUnmounted(() => {
 }
 .rv-hub-subtitle {
   margin: 0;
-  font-size: 16px;
+  font-size: 15px;
   opacity: 0.9;
 }
 
-.rv-hub-tabs {
-  position: sticky;
-  top: var(--vp-nav-height, 64px);
-  z-index: 10;
-  background: var(--vp-c-bg);
-  border-bottom: 1px solid var(--vp-c-divider);
-  padding: 0 24px;
-}
-.rv-hub-tabs-inner {
-  max-width: 1200px;
-  margin: 0 auto;
+.rv-hub-body {
   display: flex;
-  gap: 4px;
+  align-items: stretch;
+  width: 100%;
+  min-height: calc(100vh - var(--vp-nav-height, 64px) - 120px);
+  position: relative;
 }
-.rv-hub-tab {
+
+.rv-hub-main {
+  flex: 1;
+  min-width: 0;
   display: flex;
-  align-items: center;
-  gap: 8px;
-  padding: 14px 20px;
-  border: none;
-  background: none;
-  color: var(--vp-c-text-2);
-  font-size: 15px;
-  font-weight: 500;
-  cursor: pointer;
-  border-bottom: 2px solid transparent;
-  transition: all 0.2s;
-  white-space: nowrap;
-}
-.rv-hub-tab:hover {
-  color: var(--vp-c-text-1);
-  background: var(--vp-c-bg-soft);
-}
-.rv-hub-tab.active {
-  color: var(--vp-c-brand-1);
-  border-bottom-color: var(--vp-c-brand-1);
+  flex-direction: column;
+  max-width: 1100px;
 }
 
 .rv-hub-content {
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 24px;
+  padding: 16px 24px 32px;
 }
 
-.rv-hub-roadmap {
-  padding: 24px 0;
+.hub-side-backdrop {
+  display: none;
 }
-.rv-roadmap-container {
-  max-width: 800px;
-  margin: 0 auto;
+
+.rv-hub-mobile-bar {
+  display: none;
+  padding: 10px 16px 0;
 }
-.rv-roadmap-intro {
-  color: var(--vp-c-text-2);
-  font-size: 15px;
-  margin-bottom: 32px;
-  line-height: 1.6;
-}
-.rv-roadmap-phase {
-  margin-bottom: 28px;
-  border-left: 3px solid var(--vp-c-divider);
-  padding-left: 20px;
-  position: relative;
-}
-.rv-roadmap-phase::before {
-  content: "";
-  position: absolute;
-  left: -7px;
-  top: 6px;
-  width: 11px;
-  height: 11px;
-  border-radius: 50%;
-  background: var(--vp-c-divider);
-}
-.rv-phase-completed::before { background: #0cce6b; }
-.rv-phase-completed { border-left-color: #0cce6b; }
-.rv-phase-in_progress::before { background: #f5a623; }
-.rv-phase-in_progress { border-left-color: #f5a623; }
-.rv-phase-planned::before { background: var(--vp-c-text-3); }
-.rv-phase-header {
-  display: flex;
-  align-items: center;
-  gap: 12px;
-  margin-bottom: 12px;
-  flex-wrap: wrap;
-}
-.rv-phase-badge {
-  font-size: 11px;
-  font-weight: 600;
-  padding: 2px 10px;
-  border-radius: 10px;
-  text-transform: uppercase;
-  letter-spacing: 0.5px;
-  flex-shrink: 0;
-}
-.rv-badge-completed { background: rgba(12,206,107,0.12); color: #0cce6b; }
-.rv-badge-in_progress { background: rgba(245,166,35,0.12); color: #f5a623; }
-.rv-badge-planned { background: var(--vp-c-bg-soft); color: var(--vp-c-text-3); }
-.rv-phase-title {
-  margin: 0;
-  font-size: 17px;
-  font-weight: 600;
-  color: var(--vp-c-text-1);
-}
-.rv-phase-timeline {
-  font-size: 13px;
-  color: var(--vp-c-text-3);
-  margin-left: auto;
-}
-.rv-phase-items {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-.rv-phase-item {
-  display: flex;
+
+.rv-hub-menu-btn {
+  display: inline-flex;
   align-items: center;
   gap: 8px;
-  padding: 5px 0;
-  font-size: 14px;
-  color: var(--vp-c-text-2);
-  line-height: 1.5;
-}
-.rv-phase-item svg {
-  flex-shrink: 0;
+  padding: 8px 12px;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 8px;
+  background: var(--vp-c-bg-soft);
+  color: var(--vp-c-text-1);
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
 }
 
 /* Auth */
@@ -876,13 +660,16 @@ onUnmounted(() => {
   color: var(--vp-c-text-1);
 }
 
-/* -- Embed mode -- */
+/* Embed mode */
 .rv-hub-embed {
   min-height: auto;
 }
-.rv-hub-embed .rv-hub-tabs {
-  position: static;
+.rv-hub-embed .rv-hub-body {
+  min-height: auto;
+}
+.rv-hub-embed :deep(.hub-side) {
   top: 0;
+  height: 100vh;
 }
 .rv-hub-embed-bar {
   display: flex;
@@ -909,9 +696,26 @@ onUnmounted(() => {
   color: var(--vp-c-text-3);
 }
 
+@media (max-width: 960px) {
+  .hub-side-backdrop {
+    display: block;
+    position: fixed;
+    inset: 0;
+    top: var(--vp-nav-height, 64px);
+    background: rgba(0, 0, 0, 0.35);
+    z-index: 35;
+  }
+  .rv-hub-mobile-bar {
+    display: block;
+  }
+  .rv-hub-content {
+    padding: 12px 16px 24px;
+  }
+}
+
 @media (max-width: 768px) {
   .rv-hub-header {
-    padding: 24px 16px 20px;
+    padding: 20px 16px 16px;
   }
   .rv-hub-title-row {
     flex-direction: column;
@@ -921,20 +725,6 @@ onUnmounted(() => {
   }
   .rv-hub-subtitle {
     font-size: 14px;
-  }
-  .rv-hub-auth {
-    margin-top: 4px;
-  }
-  .rv-hub-tabs {
-    padding: 0 16px;
-    overflow-x: auto;
-  }
-  .rv-hub-tab {
-    padding: 12px 14px;
-    font-size: 14px;
-  }
-  .rv-hub-content {
-    padding: 16px;
   }
   .rv-login-dialog {
     padding: 24px;

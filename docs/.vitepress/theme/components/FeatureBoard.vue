@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { ref, onMounted, computed } from "vue";
+import { ref, onMounted, computed, watch } from "vue";
 import { useData } from "vitepress";
 import {
   listFeatures,
@@ -14,6 +14,9 @@ import {
   renderTurnstile,
   type Feature,
 } from "./HubApi";
+import { FEATURE_CATEGORIES, hubLabel } from "./HubNavData";
+
+const props = withDefaults(defineProps<{ category?: string }>(), { category: "" });
 
 const { lang } = useData();
 const isZh = computed(() => lang.value === "zh" || lang.value === "zh-CN");
@@ -26,7 +29,6 @@ const pages = ref(1);
 const loading = ref(false);
 const error = ref("");
 
-const category = ref("");
 const sort = ref("votes");
 
 const showForm = ref(false);
@@ -39,16 +41,14 @@ const submitting = ref(false);
 const turnstileRef = ref<HTMLElement | null>(null);
 const turnstileToken = ref("");
 
-const categories = computed(() => [
-  { value: "", label: isZh.value ? "全部" : "All" },
-  { value: "ce_workflow", label: isZh.value ? "临床评价" : "Clinical Evaluation" },
-  { value: "risk_management", label: isZh.value ? "风险管理" : "Risk Management" },
-  { value: "pms_pmcf", label: "PMS / PMCF" },
-  { value: "gspr", label: "GSPR" },
-  { value: "ai_tools", label: isZh.value ? "AI 工具" : "AI Tools" },
-  { value: "knowledge_base", label: isZh.value ? "知识库" : "Knowledge Base" },
-  { value: "general", label: isZh.value ? "通用" : "General" },
-]);
+const categories = computed(() =>
+  FEATURE_CATEGORIES.map((c) => ({ value: c.value, label: hubLabel(c, isZh.value) }))
+);
+
+const activeCategoryLabel = computed(() => {
+  const hit = FEATURE_CATEGORIES.find((c) => c.value === props.category);
+  return hit ? hubLabel(hit, isZh.value) : (isZh.value ? "全部" : "All");
+});
 
 const statusLabels: Record<string, { text: string; textZh: string; color: string }> = {
   under_review: { text: "Under Review", textZh: "审核中", color: "#666" },
@@ -126,7 +126,7 @@ async function load() {
   error.value = "";
   try {
     const data = await listFeatures({
-      category: category.value || undefined,
+      category: props.category || undefined,
       sort: sort.value,
       page: page.value,
     });
@@ -139,6 +139,15 @@ async function load() {
     loading.value = false;
   }
 }
+
+watch(
+  () => props.category,
+  (val) => {
+    page.value = 1;
+    if (val) formCategory.value = val;
+    load();
+  }
+);
 
 async function vote(f: Feature) {
   try {
@@ -220,32 +229,20 @@ onMounted(load);
       <div class="fb-header-left">
         <h2 class="fb-section-title">
           {{ isZh ? "功能建议板" : "Feature Board" }}
+          <span class="fb-cat-label">{{ activeCategoryLabel }}</span>
           <span class="fb-count" v-if="total">{{ total }}</span>
         </h2>
       </div>
-      <button class="fb-btn fb-btn-primary" @click="showForm = !showForm; if (!showForm) { turnstileToken = ''; } else { $nextTick(() => initTurnstile()); }">
-        {{ showForm ? (isZh ? "取消" : "Cancel") : (isZh ? "+ 提交建议" : "+ Submit Idea") }}
-      </button>
-    </div>
-
-    <!-- Filters -->
-    <div class="fb-filters">
-      <div class="fb-filter-group">
-        <button
-          v-for="c in categories"
-          :key="c.value"
-          class="fb-filter-chip"
-          :class="{ active: category === c.value }"
-          @click="category = c.value; page = 1; load()"
-        >
-          {{ c.label }}
+      <div class="fb-header-actions">
+        <select v-model="sort" @change="page = 1; load()" class="fb-sort-select">
+          <option value="votes">{{ isZh ? "最多投票" : "Most Voted" }}</option>
+          <option value="newest">{{ isZh ? "最新" : "Newest" }}</option>
+          <option value="updated">{{ isZh ? "最近更新" : "Recently Updated" }}</option>
+        </select>
+        <button class="fb-btn fb-btn-primary" @click="showForm = !showForm; if (!showForm) { turnstileToken = ''; } else { $nextTick(() => initTurnstile()); }">
+          {{ showForm ? (isZh ? "取消" : "Cancel") : (isZh ? "+ 提交建议" : "+ Submit Idea") }}
         </button>
       </div>
-      <select v-model="sort" @change="page = 1; load()" class="fb-sort-select">
-        <option value="votes">{{ isZh ? "最多投票" : "Most Voted" }}</option>
-        <option value="newest">{{ isZh ? "最新" : "Newest" }}</option>
-        <option value="updated">{{ isZh ? "最近更新" : "Recently Updated" }}</option>
-      </select>
     </div>
 
     <!-- Submit Form -->
@@ -375,6 +372,8 @@ onMounted(load);
   justify-content: space-between;
   align-items: center;
   margin-bottom: 16px;
+  gap: 12px;
+  flex-wrap: wrap;
 }
 .fb-section-title {
   display: flex;
@@ -384,6 +383,15 @@ onMounted(load);
   font-weight: 600;
   margin: 0;
   color: var(--vp-c-text-1);
+  flex-wrap: wrap;
+}
+.fb-cat-label {
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--vp-c-brand-1);
+  background: var(--vp-c-brand-soft);
+  padding: 2px 10px;
+  border-radius: 999px;
 }
 .fb-count {
   display: inline-flex;
@@ -398,40 +406,11 @@ onMounted(load);
   font-size: 13px;
   font-weight: 500;
 }
-
-.fb-filters {
+.fb-header-actions {
   display: flex;
-  justify-content: space-between;
   align-items: center;
-  gap: 12px;
-  margin-bottom: 20px;
+  gap: 8px;
   flex-wrap: wrap;
-}
-.fb-filter-group {
-  display: flex;
-  gap: 6px;
-  flex-wrap: wrap;
-}
-.fb-filter-chip {
-  padding: 5px 12px;
-  border: 1px solid var(--vp-c-divider);
-  border-radius: 16px;
-  background: var(--vp-c-bg);
-  color: var(--vp-c-text-2);
-  font-size: 13px;
-  cursor: pointer;
-  transition: all 0.15s;
-  white-space: nowrap;
-}
-.fb-filter-chip:hover {
-  border-color: var(--vp-c-brand-1);
-  color: var(--vp-c-brand-1);
-}
-.fb-filter-chip.active {
-  background: var(--vp-c-brand-soft);
-  border-color: var(--vp-c-brand-1);
-  color: var(--vp-c-brand-1);
-  font-weight: 500;
 }
 .fb-sort-select {
   padding: 6px 10px;
