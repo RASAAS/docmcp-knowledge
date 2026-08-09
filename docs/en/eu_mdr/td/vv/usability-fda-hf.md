@@ -1,60 +1,55 @@
-# FDA Human Factors / Usability Engineering — Structured Summary
+# FDA Human Factors — Process vs Submission Content
 
-**Primary source:** FDA CDRH guidance *Applying Human Factors and Usability Engineering to Medical Devices* (issued **3 August 2026**; originally 3 February 2016). Nonbinding recommendations.  
-**Docket:** FDA-2011-D-0469 · Document GUI00001757  
-**Relationship to EU:** Complements IEC 62366-1 process evidence used for MDR/IVDR GSPR 5; FDA focuses on critical-task HF validation for premarket submissions.
+Reguverse separates **two complementary FDA guidance documents**. Do not conflate them with the IEC 62366-1 Usability Engineering File (UEF) process backbone used in the product harness.
 
-> This page is a structured outline for harness / training use. It is **not** a substitute for the official guidance text.
+## 1. Process guidance
 
-## Document map (2026 edition)
+**Title:** *Applying Human Factors and Usability Engineering to Medical Devices*  
+**Role:** How to perform HFE/UE as part of risk management and design controls (users, environments, UI, formative work, HF validation testing methods).  
+**UEF mapping (typical):** Use Specification ↔ users/use environments; critical tasks ↔ hazard-related use scenarios selected for summative; formative ↔ Clause 5.8; HF validation ↔ summative Clause 5.9.
 
-| Section | Topic |
-|---------|--------|
-| 1 | Introduction |
-| 2 | Scope |
-| 3 | Definitions |
-| 4 | Overview — HFE/UE as part of risk management |
-| 5 | Device users, use environments, and user interface |
-| 6 | Preliminary analyses and evaluations (critical tasks, known problems, analytical & empirical methods, formative) |
-| 7 | Elimination or reduction of use-related hazards |
-| 8 | Human factors validation testing (simulated-use; participants; tasks; environment; training; data) |
-| App. | Examples / additional recommendations (as published) |
+## 2. Content / marketing-submission guidance (2026)
 
-## Core concepts for UEF alignment
+**Title:** *Content of Human Factors Information in Medical Device Marketing Submissions*  
+**Published:** 29 May 2026 (Federal Register announcement)  
+**Implementation expectation:** submissions received on or after **1 August 2026**  
+**Applies to:** 510(k), De Novo, PMA, HDE (CDRH medical devices)  
+**Does not replace:** risk management / design controls / performing HFE activities — it tells sponsors **what level of HF documentation to file**.  
+**Town hall:** CDRH 22 July 2026 (slides/transcript via CDRH Learn).
 
-| FDA concept | Typical UEF / IEC 62366-1 counterpart |
-|-------------|----------------------------------------|
-| Device users / use environments / UI | Use Specification (Clause 5.1) |
-| Critical tasks | Hazard-related use scenarios selected for summative (5.4–5.5) |
-| Preliminary / formative evaluations | Formative evaluation (5.8) |
-| HF validation testing | Summative evaluation (5.9) |
-| Risk management linkage | ISO 14971 + use-related risk analysis |
+### HF Submission Categories
 
-## Critical tasks (FDA emphasis)
+| Category | When (high level) | What to provide |
+|----------|-------------------|-----------------|
+| **1** | Modified device; no change to UI / users / uses / environments / training / labeling | Conclusion + high-level HF summary |
+| **2** | No critical tasks (new) / no new or impacted critical tasks (modified), **or** Decision Point D concludes validation data need not be submitted | Cat1 content + users/UI/known-use-problems + rationale |
+| **3** | Critical tasks warrant filing HF validation | Full HFE/UE report incl. preliminary analyses, **URRA**, critical tasks, HF validation of final design |
 
-- Identify tasks where use errors could lead to serious harm.
-- Use analytical methods (e.g. FMEA, fault tree, task analysis, heuristic/expert review) **and** empirical methods (contextual inquiry, interviews, formative evaluations).
-- Categorize and prioritize critical tasks for HF validation protocols.
+Flowchart decisions: **A** modification? → **B** UI/users/uses/env/training/labeling change? → **C** critical tasks? → **D** submit HF validation data?  
+**Decision Point D** is central: critical tasks do **not** automatically force Category 3 filing.
 
-## Human factors validation testing (high level)
+### URRA
 
-- Prefer simulated-use testing with representative intended users.
-- Define tasks from critical-task analysis; include labelling / IFU as part of the UI.
-- Document participant selection, training (or knowledge-task approach), environment fidelity, success criteria, use errors / close calls, and residual risk conclusions.
-- Do **not** invent numeric sample-size rules in product files — follow current FDA expectations and manufacturer justification for the device risk profile.
+Use-Related Risk Analysis (guidance Table 2) and comparative URRA (Table 3) are living analyses. Typical columns: task, use error, hazardous situation, harm, severity, **critical task Y/N**, risk controls, validation method for control effectiveness.
 
-## IVD / OTC / CLIA considerations
+### eSTAR
 
-- Self-test / near-patient / OTC / CLIA-waived products may need additional lay-user HF evidence when claimed.
-- Align UI and IFU with intended-use claims (for EU IVDR, also PE clinical performance in the intended environment).
+Updated eSTAR templates prompt Category selection (“Guide Me” or sponsor-chosen) and locate supporting sections.
 
-## Practical use in Reguverse
+## 3. How Reguverse implements this
 
-- Built-in **Usability UEF Harness** (`#231`) uses IEC 62366-1 as the backbone and injects FDA notes via the regulatory crosswalk.
-- Prefer applying the harness for structure; fill product-specific narrative and measured results from real studies.
+| Layer | Implementation |
+|-------|----------------|
+| Process UEF | Built-in Usability Harness (`#231`) — IEC 62366-1 Document+Study |
+| UE ↔ RM | `#233`–`#235` (same hazard table, Sync) |
+| FDA submission overlay | `#236` Path B — Category wizard + **derived URRA view** + Cat-specific Submission Pack Word download |
+| Feature Visibility | Continues under `evidence_registry` (no new feature key) |
+| Scope (current) | **MD only**; combination products excluded; IVD eSTAR deferred |
 
-## Related topics
+**Summative hard gate (process):** EU/IVDR/NMPA projects still require selected HRUS + substantive UI Spec before creating Summative Studies (`#233` D10).  
+**Submission pack (FDA Cat 1/2):** may omit HF validation details even if process Summative Studies exist — UI states this explicitly.
+
+## Related pages
 
 - [MDR Usability](./usability)
 - [IVDR Usability](/en/eu_ivdr/td/vv/usability)
-- [MDR↔IVDR usability crosswalk](/en/eu_ivdr/td/vv/usability-crosswalk)
