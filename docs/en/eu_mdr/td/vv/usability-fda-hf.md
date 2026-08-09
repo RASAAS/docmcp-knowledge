@@ -42,12 +42,14 @@ Updated eSTAR templates prompt Category selection (“Guide Me” or sponsor-cho
 |-------|----------------|
 | Process UEF | Built-in Usability Harness (`#231`) — IEC 62366-1 Document+Study |
 | UE ↔ RM | `#233`–`#235` (same hazard table, Sync) |
-| FDA submission overlay | `#236` Path B — Category wizard + **derived URRA view** + Cat-specific Submission Pack Word download |
+| FDA submission overlay | `#236` Path B — Category wizard + **derived URRA view** + Submission Pack |
+| FDA pack substantive generation | `#237` Phase 3 — **hybrid** assembly: code-injects Use Spec / UI Spec / URRA / Formative·Summative Study excerpts; LLM fills narrative slots only; Word download prefers persisted `pack_markdown` |
 | Feature Visibility | Continues under `evidence_registry` (no new feature key) |
 | Scope (current) | **MD only**; combination products excluded; IVD eSTAR deferred |
 
 **Summative hard gate (process):** EU/IVDR/NMPA projects still require selected HRUS + substantive UI Spec before creating Summative Studies (`#233` D10).  
-**Submission pack (FDA Cat 1/2):** may omit HF validation details even if process Summative Studies exist — UI states this explicitly.
+**Submission pack (FDA Cat 1/2):** may omit HF validation details even if process Summative Studies exist — UI states this explicitly.  
+**Generate rule:** never invent participant counts / pass rates; missing UEF evidence becomes `[TO BE COMPLETED]`.
 
 ## Related pages
 

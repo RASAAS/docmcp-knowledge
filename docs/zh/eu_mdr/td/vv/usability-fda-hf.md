@@ -42,12 +42,14 @@ Reguverse 将 **两份互补的 FDA 指南** 分开处理，且均 **不替代**
 |------|------|
 | 过程 UEF | 内置 Usability Harness（`#231`）— IEC 62366-1 Document+Study |
 | UE ↔ RM | `#233`–`#235`（同一危害表、Sync） |
-| FDA 申报 Overlay | `#236` Path B — Category 向导 + **URRA 派生视图** + 按类别 Submission Pack Word 下载 |
+| FDA 申报 Overlay | `#236` Path B — Category 向导 + **URRA 派生视图** + Submission Pack |
+| FDA 申报包实质性生成 | `#237` Phase 3 — **混合组装**：代码注入 Use Spec / UI Spec / URRA / Formative·Summative Study 摘录；LLM 仅填叙述槽；Word 优先下载已持久化的 `pack_markdown` |
 | Feature Visibility | 继续挂 `evidence_registry`（不新增 feature key） |
 | 当前范围 | **仅 MD**；组合产品排除；IVD eSTAR 延后 |
 
 **过程侧 Summative 硬门禁：** EU/IVDR/NMPA 仍要求已选 HRUS + 实质 UI Spec 后才能创建总结性 Study（`#233` D10）。  
-**FDA Cat 1/2 申报包：** 即使过程中已有 Summative Study，也可不纳入人因验证细节 — UI 会明确区分「过程」与「申报」。
+**FDA Cat 1/2 申报包：** 即使过程中已有 Summative Study，也可不纳入人因验证细节 — UI 会明确区分「过程」与「申报」。  
+**生成约束：** 禁止编造样本量/通过率；UEF 证据缺失时写 `[TO BE COMPLETED]`。
 
 ## 相关页面
 
