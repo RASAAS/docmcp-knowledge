@@ -4,6 +4,7 @@ import { useData } from "vitepress";
 import FeatureBoard from "./FeatureBoard.vue";
 import DiscussionWall from "./DiscussionWall.vue";
 import AdminPanel from "./AdminPanel.vue";
+import ServiceMarketCta from "./ServiceMarketCta.vue";
 import { isLoggedIn, getDisplayName, getUserId, getUserRole, saveSession, logout, sendOtp, verifyOtp, verifyAuth } from "./HubApi";
 
 const { lang } = useData();
@@ -486,6 +487,7 @@ onUnmounted(() => {
     </nav>
 
     <main class="rv-hub-content">
+      <ServiceMarketCta v-if="!isEmbedMode" />
       <div v-if="activeTab === 'features'" class="rv-hub-panel">
         <FeatureBoard />
       </div>
