@@ -520,6 +520,14 @@ onMounted(load);
   align-items: center;
 }
 
+.fb-success {
+  color: #0cce6b;
+  padding: 10px 14px;
+  background: rgba(12, 206, 107, 0.1);
+  border-radius: 8px;
+  margin-bottom: 12px;
+  font-size: 13px;
+}
 .fb-error {
   color: var(--vp-c-danger-1);
   padding: 10px 14px;
