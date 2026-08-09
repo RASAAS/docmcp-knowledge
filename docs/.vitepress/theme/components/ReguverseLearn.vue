@@ -8,6 +8,7 @@ import {
   ensureParticipantKey,
   getLiveState,
   getPractice,
+  getWorkshop,
   hostEnd,
   hostGet,
   hostLock,
@@ -18,20 +19,17 @@ import {
   listCourses,
   loadHostSession,
   saveHostSession,
+  saveWorkshop,
   submitLiveAnswer,
   submitPractice,
   verifyLearnAuth,
   type CourseSummary,
+  type HostView,
   type LiveQuestion,
+  type WorkshopGroup,
 } from "./LearnApi";
-import {
-  getDisplayName,
-  isLoggedIn,
-  logout as hubLogout,
-  saveSession,
-  sendOtp,
-  verifyOtp,
-} from "./HubApi";
+import { getDisplayName, isLoggedIn, logout as hubLogout } from "./HubApi";
+import HubOtpLogin from "./HubOtpLogin.vue";
 import { LEARN_TABS, learnLabel, t, type LearnTabKey } from "./LearnNavData";
 
 const { lang } = useData();
@@ -58,9 +56,40 @@ const hostCode = ref("");
 const hostToken = ref("");
 const hostTitle = ref("");
 const hostCreateSecret = ref("");
-const hostView = ref<Awaited<ReturnType<typeof hostGet>> | null>(null);
+const hostView = ref<HostView | null>(null);
+const hostQuestionList = ref<NonNullable<HostView["question_list"]>>([]);
+const hostActionBusy = ref(false);
 const copied = ref(false);
 let hostPoll: ReturnType<typeof setInterval> | null = null;
+let hostListLoaded = false;
+
+// --- Workshop ---
+const workshopCode = ref("");
+const workshopGroup = ref(1);
+const workshopGroups = ref<WorkshopGroup[]>([]);
+const workshopDraft = ref({
+  task1: {
+    users: "",
+    environment: "",
+    intended_use: "",
+    pof_candidates: "",
+    foreseeable_misuse: "",
+  },
+  task2: { use_errors: "", summative_candidates: "", primary_hrus: "" },
+  task3: {
+    inherent_safety: "",
+    protective: "",
+    information_for_safety: "",
+    needs_ue_eval: "",
+  },
+  task4: {
+    formative_needed: "",
+    summative_needed: "",
+    success_criteria: "",
+    failure_reentry: "",
+  },
+});
+let workshopPoll: ReturnType<typeof setInterval> | null = null;
 
 /** Session code used for audience QR (Join tab). Prefer join form code, fallback host code. */
 const qrSessionCode = computed(() => {
@@ -98,15 +127,10 @@ watch(
   { immediate: true }
 );
 
-// --- Practice + login ---
+// --- Practice + login (shared Hub OTP dialog) ---
 const practiceLoggedIn = ref(false);
 const practiceUserName = ref("");
-const loginEmail = ref("");
-const loginCode = ref("");
-const loginStep = ref<"email" | "code">("email");
-const loginLoading = ref(false);
-const cooldown = ref(0);
-let cooldownTimer: ReturnType<typeof setInterval> | null = null;
+const showLoginDialog = ref(false);
 
 const courses = ref<CourseSummary[]>([]);
 const practiceSlug = ref("usability-engineering");
@@ -134,6 +158,23 @@ function stopHostPoll() {
   if (hostPoll) {
     clearInterval(hostPoll);
     hostPoll = null;
+  }
+}
+function stopWorkshopPoll() {
+  if (workshopPoll) {
+    clearInterval(workshopPoll);
+    workshopPoll = null;
+  }
+}
+
+function applyHostView(view: HostView, opts?: { keepList?: boolean }) {
+  const prevList = hostQuestionList.value;
+  hostView.value = view;
+  if (view.question_list?.length) {
+    hostQuestionList.value = view.question_list;
+    hostListLoaded = true;
+  } else if (!opts?.keepList && !hostListLoaded) {
+    hostQuestionList.value = prevList;
   }
 }
 
@@ -211,16 +252,40 @@ async function doSubmitAnswer() {
   }
 }
 
-async function refreshHost() {
+async function refreshHost(opts?: { full?: boolean }) {
   if (!hostCode.value || !hostToken.value) return;
   try {
-    hostView.value = await hostGet(hostCode.value, hostToken.value);
+    const needFull = opts?.full || !hostListLoaded;
+    const view = await hostGet(hostCode.value, hostToken.value, { light: !needFull });
+    applyHostView(view, { keepList: true });
   } catch (e) {
     errorMsg.value = e instanceof Error ? e.message : t("error", isZh.value);
   }
 }
 
+function requireLogin(messageKey: "loginRequired" | "hostLoginRequired" = "loginRequired") {
+  errorMsg.value = t(messageKey, isZh.value);
+  showLoginDialog.value = true;
+}
+
+async function onLoginSuccess(payload: { displayName: string }) {
+  showLoginDialog.value = false;
+  errorMsg.value = "";
+  practiceUserName.value = payload.displayName || getDisplayName() || "";
+  // Confirm token is accepted by learn-api (same HUB_TOKEN_SECRET as hub-api)
+  await refreshAuth();
+  if (!practiceLoggedIn.value) {
+    errorMsg.value = isZh.value
+      ? "登录成功，但 Learn 服务未能验证会话。请刷新后重试，或联系管理员检查 HUB_TOKEN_SECRET。"
+      : "Signed in, but Learn could not verify the session. Refresh and retry, or check HUB_TOKEN_SECRET.";
+  }
+}
+
 async function doCreateHost() {
+  if (!practiceLoggedIn.value) {
+    requireLogin("hostLoginRequired");
+    return;
+  }
   errorMsg.value = "";
   loading.value = true;
   try {
@@ -231,30 +296,43 @@ async function doCreateHost() {
     });
     hostCode.value = res.code;
     joinCode.value = res.code;
+    workshopCode.value = res.code;
     hostToken.value = res.host_token;
+    hostListLoaded = false;
     saveHostSession(res.code, res.host_token);
-    await refreshHost();
+    await refreshHost({ full: true });
     stopHostPoll();
-    hostPoll = setInterval(refreshHost, 2500);
-    // Audience QR lives on Join tab — switch so host can project immediately
+    hostPoll = setInterval(() => refreshHost({ full: false }), 4000);
     activeTab.value = "join";
     joinOnlyMode.value = false;
   } catch (e) {
-    errorMsg.value = e instanceof Error ? e.message : t("error", isZh.value);
+    const msg = e instanceof Error ? e.message : t("error", isZh.value);
+    if (msg === "LOGIN_REQUIRED" || msg.includes("401")) {
+      doLogout();
+      requireLogin("hostLoginRequired");
+    } else {
+      errorMsg.value = msg;
+    }
   } finally {
     loading.value = false;
   }
 }
 
 function restoreHost() {
+  if (!practiceLoggedIn.value) {
+    requireLogin("hostLoginRequired");
+    return;
+  }
   const saved = loadHostSession();
   if (!saved) return;
   hostCode.value = saved.code;
   joinCode.value = saved.code;
+  workshopCode.value = saved.code;
   hostToken.value = saved.host_token;
-  refreshHost();
+  hostListLoaded = false;
+  refreshHost({ full: true });
   stopHostPoll();
-  hostPoll = setInterval(refreshHost, 2500);
+  hostPoll = setInterval(() => refreshHost({ full: false }), 4000);
 }
 
 function goJoinShowQr() {
@@ -264,19 +342,84 @@ function goJoinShowQr() {
 }
 
 async function runHost(action: "push" | "lock" | "reveal" | "waiting" | "end", qid?: string) {
-  if (!hostCode.value || !hostToken.value) return;
+  if (!hostCode.value || !hostToken.value || hostActionBusy.value) return;
   errorMsg.value = "";
+  hostActionBusy.value = true;
+  // Optimistic phase hint for push/lock/reveal
+  if (hostView.value && action === "push") {
+    hostView.value = { ...hostView.value, phase: "open" };
+  } else if (hostView.value && action === "lock") {
+    hostView.value = { ...hostView.value, phase: "locked" };
+  } else if (hostView.value && action === "reveal") {
+    hostView.value = { ...hostView.value, phase: "reveal" };
+  }
   try {
-    if (action === "push") await hostPush(hostCode.value, hostToken.value, qid ? { qid } : undefined);
-    else if (action === "lock") await hostLock(hostCode.value, hostToken.value);
-    else if (action === "reveal") await hostReveal(hostCode.value, hostToken.value);
-    else if (action === "waiting") await hostWaiting(hostCode.value, hostToken.value);
-    else await hostEnd(hostCode.value, hostToken.value);
-    await refreshHost();
+    let view: HostView;
+    if (action === "push") view = await hostPush(hostCode.value, hostToken.value, qid ? { qid } : undefined);
+    else if (action === "lock") view = await hostLock(hostCode.value, hostToken.value);
+    else if (action === "reveal") view = await hostReveal(hostCode.value, hostToken.value);
+    else if (action === "waiting") view = await hostWaiting(hostCode.value, hostToken.value);
+    else view = await hostEnd(hostCode.value, hostToken.value);
+    applyHostView(view, { keepList: true });
+  } catch (e) {
+    errorMsg.value = e instanceof Error ? e.message : t("error", isZh.value);
+    await refreshHost({ full: false });
+  } finally {
+    hostActionBusy.value = false;
+  }
+}
+
+function loadDraftFromGroup(g: WorkshopGroup | undefined) {
+  if (!g) return;
+  workshopDraft.value = {
+    task1: { ...workshopDraft.value.task1, ...(g.task1 as object) },
+    task2: { ...workshopDraft.value.task2, ...(g.task2 as object) },
+    task3: { ...workshopDraft.value.task3, ...(g.task3 as object) },
+    task4: { ...workshopDraft.value.task4, ...(g.task4 as object) },
+  } as typeof workshopDraft.value;
+}
+
+async function refreshWorkshop() {
+  const code = (workshopCode.value || joinCode.value || hostCode.value || "").trim().toUpperCase();
+  if (!code) return;
+  workshopCode.value = code;
+  try {
+    const res = await getWorkshop(code);
+    workshopGroups.value = res.groups;
+    const mine = res.groups.find((g) => g.group_no === workshopGroup.value);
+    loadDraftFromGroup(mine);
   } catch (e) {
     errorMsg.value = e instanceof Error ? e.message : t("error", isZh.value);
   }
 }
+
+async function saveWorkshopBoard() {
+  const code = workshopCode.value.trim().toUpperCase();
+  if (!code) {
+    errorMsg.value = isZh.value ? "请先填写会话码或加入现场" : "Enter session code or join live first";
+    return;
+  }
+  loading.value = true;
+  errorMsg.value = "";
+  try {
+    const res = await saveWorkshop(code, workshopGroup.value, {
+      ...workshopDraft.value,
+      updated_by: nickname.value || practiceUserName.value || `G${workshopGroup.value}`,
+      participant_key: participantKey.value || ensureParticipantKey(),
+      host_token: hostToken.value || undefined,
+    });
+    workshopGroups.value = res.groups;
+  } catch (e) {
+    errorMsg.value = e instanceof Error ? e.message : t("error", isZh.value);
+  } finally {
+    loading.value = false;
+  }
+}
+
+watch(workshopGroup, () => {
+  const mine = workshopGroups.value.find((g) => g.group_no === workshopGroup.value);
+  loadDraftFromGroup(mine);
+});
 
 async function copyJoinLink() {
   const url =
@@ -288,66 +431,13 @@ async function copyJoinLink() {
   setTimeout(() => (copied.value = false), 1500);
 }
 
-function startCooldown(seconds: number) {
-  cooldown.value = seconds;
-  if (cooldownTimer) clearInterval(cooldownTimer);
-  cooldownTimer = setInterval(() => {
-    cooldown.value--;
-    if (cooldown.value <= 0 && cooldownTimer) {
-      clearInterval(cooldownTimer);
-      cooldownTimer = null;
-    }
-  }, 1000);
-}
-
-async function doSendOtp() {
-  const email = loginEmail.value.trim();
-  if (!email) return;
-  loginLoading.value = true;
-  errorMsg.value = "";
-  try {
-    const result = await sendOtp(email);
-    if (result.error) {
-      errorMsg.value = result.error;
-      return;
-    }
-    loginStep.value = "code";
-    startCooldown(60);
-  } catch {
-    errorMsg.value = t("error", isZh.value);
-  } finally {
-    loginLoading.value = false;
-  }
-}
-
-async function doVerifyOtp() {
-  const code = loginCode.value.trim();
-  if (!code || code.length !== 6) return;
-  loginLoading.value = true;
-  errorMsg.value = "";
-  try {
-    const result = await verifyOtp(loginEmail.value.trim(), code);
-    if (result.error || !result.hub_token) {
-      errorMsg.value = result.error || t("error", isZh.value);
-      return;
-    }
-    saveSession(result.hub_token, result.display_name || loginEmail.value.trim());
-    await refreshAuth();
-    loginStep.value = "email";
-    loginCode.value = "";
-  } catch {
-    errorMsg.value = t("error", isZh.value);
-  } finally {
-    loginLoading.value = false;
-  }
-}
-
 function doLogout() {
   hubLogout();
   practiceLoggedIn.value = false;
   practiceUserName.value = "";
   practiceQs.value = [];
   practiceResult.value = null;
+  showLoginDialog.value = false;
 }
 
 async function loadCourses() {
@@ -362,7 +452,7 @@ async function loadCourses() {
 async function startPractice() {
   errorMsg.value = "";
   if (!practiceLoggedIn.value) {
-    errorMsg.value = t("loginRequired", isZh.value);
+    requireLogin("loginRequired");
     return;
   }
   practiceResult.value = null;
@@ -375,7 +465,7 @@ async function startPractice() {
     const msg = e instanceof Error ? e.message : t("error", isZh.value);
     if (msg === "LOGIN_REQUIRED" || msg.includes("401")) {
       doLogout();
-      errorMsg.value = t("loginRequired", isZh.value);
+      requireLogin("loginRequired");
     } else {
       errorMsg.value = msg;
     }
@@ -396,7 +486,7 @@ function setPracticeAnswer(q: LiveQuestion, id: string) {
 
 async function checkPractice() {
   if (!practiceLoggedIn.value) {
-    errorMsg.value = t("loginRequired", isZh.value);
+    requireLogin("loginRequired");
     return;
   }
   loading.value = true;
@@ -421,11 +511,21 @@ const visibleTabs = computed(() =>
 watch(activeTab, (tab) => {
   if (tab !== "join") stopPoll();
   if (tab !== "host") stopHostPoll();
-  if (tab === "host" && hostCode.value && hostToken.value) {
-    hostPoll = setInterval(refreshHost, 2500);
+  if (tab !== "workshop") stopWorkshopPoll();
+  if (tab === "host") {
+    refreshAuth();
+    if (hostCode.value && hostToken.value) {
+      refreshHost({ full: !hostListLoaded });
+      hostPoll = setInterval(() => refreshHost({ full: false }), 4000);
+    }
   }
   if (tab === "join" && joined.value) {
-    pollTimer = setInterval(refreshLive, 2000);
+    pollTimer = setInterval(refreshLive, 2500);
+  }
+  if (tab === "workshop") {
+    if (!workshopCode.value) workshopCode.value = joinCode.value || hostCode.value || "";
+    refreshWorkshop();
+    workshopPoll = setInterval(refreshWorkshop, 5000);
   }
   if (tab === "practice") {
     loadCourses();
@@ -440,6 +540,7 @@ onMounted(async () => {
   const mode = params.get("mode");
   if (code) {
     joinCode.value = code.toUpperCase();
+    workshopCode.value = code.toUpperCase();
     activeTab.value = "join";
   }
   if (mode === "join" || code) {
@@ -452,16 +553,37 @@ onMounted(async () => {
 onUnmounted(() => {
   stopPoll();
   stopHostPoll();
-  if (cooldownTimer) clearInterval(cooldownTimer);
+  stopWorkshopPoll();
 });
 </script>
 
 <template>
   <div class="learn-root" :class="{ 'join-focus': joinOnlyMode || activeTab === 'join' }">
     <header class="learn-header">
-      <h1>{{ t("title", isZh) }}</h1>
-      <p class="learn-sub">{{ t("subtitle", isZh) }}</p>
+      <div class="learn-title-row">
+        <div>
+          <h1>{{ t("title", isZh) }}</h1>
+          <p class="learn-sub">{{ t("subtitle", isZh) }}</p>
+        </div>
+        <div v-if="!joinOnlyMode" class="learn-auth">
+          <template v-if="practiceLoggedIn">
+            <span class="learn-auth-badge">{{ practiceUserName || t("signedInAs", isZh) }}</span>
+            <button type="button" class="learn-btn sm" @click="doLogout">{{ t("logout", isZh) }}</button>
+          </template>
+          <button v-else type="button" class="learn-btn primary sm" @click="showLoginDialog = true">
+            {{ t("signIn", isZh) }}
+          </button>
+        </div>
+      </div>
     </header>
+
+    <HubOtpLogin
+      :open="showLoginDialog"
+      :is-zh="isZh"
+      variant="learn"
+      @close="showLoginDialog = false"
+      @success="onLoginSuccess"
+    />
 
     <nav v-if="visibleTabs.length > 1 || !joinOnlyMode" class="learn-tabs">
       <button
@@ -578,71 +700,170 @@ onUnmounted(() => {
 
     <!-- Host -->
     <section v-if="activeTab === 'host'" class="learn-panel">
-      <div v-if="!hostToken" class="learn-form">
-        <label>
-          {{ isZh ? "场次标题（可选）" : "Session title (optional)" }}
-          <input v-model="hostTitle" maxlength="120" />
-        </label>
-        <label>
-          {{ isZh ? "创建密钥（若已配置）" : "Create secret (if configured)" }}
-          <input v-model="hostCreateSecret" type="password" autocomplete="off" />
-        </label>
-        <button type="button" class="learn-btn primary" :disabled="loading" @click="doCreateHost">
-          {{ t("create", isZh) }}
+      <div v-if="!practiceLoggedIn" class="learn-form login-box">
+        <p class="login-required">{{ t("hostLoginRequired", isZh) }}</p>
+        <p class="hint">{{ t("registerHint", isZh) }}</p>
+        <button type="button" class="learn-btn primary" @click="showLoginDialog = true">
+          {{ t("signIn", isZh) }}
         </button>
-        <button type="button" class="learn-btn" @click="restoreHost">{{ t("restoreHost", isZh) }}</button>
       </div>
 
-      <div v-else class="learn-host">
-        <div class="learn-meta">
-          <span>{{ t("sessionCode", isZh) }}: <strong class="code-lg">{{ hostCode }}</strong></span>
-          <span>{{ t("participants", isZh) }}: {{ hostView?.participant_count ?? 0 }}</span>
-          <span>{{ t("answered", isZh) }}: {{ hostView?.answered ?? 0 }}</span>
-          <span>{{ t("phase", isZh) }}: {{ hostView?.phase }}</span>
-        </div>
-        <p class="hint">{{ t("qrHostHint", isZh) }}</p>
-        <p class="hint">{{ t("hostTokenHint", isZh) }}</p>
-        <div class="host-actions">
-          <button type="button" class="learn-btn primary" @click="goJoinShowQr">
-            {{ t("showQrOnJoin", isZh) }}
-          </button>
-          <button type="button" class="learn-btn primary" @click="runHost('push')">{{ t("push", isZh) }}</button>
-          <button type="button" class="learn-btn" @click="runHost('lock')">{{ t("lock", isZh) }}</button>
-          <button type="button" class="learn-btn" @click="runHost('reveal')">{{ t("revealBtn", isZh) }}</button>
-          <button type="button" class="learn-btn" @click="runHost('waiting')">{{ t("lobby", isZh) }}</button>
-          <button type="button" class="learn-btn" @click="copyJoinLink">
-            {{ copied ? t("copied", isZh) : t("copyLink", isZh) }}
-          </button>
-          <button type="button" class="learn-btn danger" @click="runHost('end')">{{ t("end", isZh) }}</button>
+      <template v-else>
+        <div class="auth-bar">
+          <span>{{ t("signedInAs", isZh) }}: <strong>{{ practiceUserName }}</strong></span>
+          <button type="button" class="learn-btn sm" @click="doLogout">{{ t("logout", isZh) }}</button>
         </div>
 
-        <div v-if="hostView?.question" class="learn-question">
-          <div class="qid">{{ hostView.question.qid }}</div>
-          <h2>{{ promptOf(hostView.question) }}</h2>
-          <ul class="stat-list">
-            <li v-for="opt in hostView.question.options" :key="opt.id">
-              <strong>{{ opt.id.toUpperCase() }}</strong>
-              {{ optText(opt) }}
-              — {{ hostView.option_counts?.[opt.id] || 0 }}
-            </li>
-          </ul>
-          <p v-if="hostView.phase === 'reveal' && hostView.correct_count != null">
-            {{ t("correct", isZh) }}: {{ hostView.correct_count }} / {{ hostView.answered }}
-          </p>
-          <p v-if="hostView.phase === 'reveal'">{{ explOf(hostView.question) }}</p>
+        <div v-if="!hostToken" class="learn-form">
+          <label>
+            {{ isZh ? "场次标题（可选）" : "Session title (optional)" }}
+            <input v-model="hostTitle" maxlength="120" />
+          </label>
+          <label>
+            {{ isZh ? "创建密钥（若已配置）" : "Create secret (if configured)" }}
+            <input v-model="hostCreateSecret" type="password" autocomplete="off" />
+          </label>
+          <button type="button" class="learn-btn primary" :disabled="loading" @click="doCreateHost">
+            {{ t("create", isZh) }}
+          </button>
+          <button type="button" class="learn-btn" @click="restoreHost">{{ t("restoreHost", isZh) }}</button>
         </div>
 
-        <div v-if="hostView?.question_list?.length" class="qid-list">
-          <button
-            v-for="q in hostView.question_list"
-            :key="q.id"
-            type="button"
-            class="learn-btn sm"
-            @click="runHost('push', q.qid)"
-          >
-            {{ q.qid }}
-          </button>
+        <div v-else class="learn-host">
+          <div class="learn-meta">
+            <span>{{ t("sessionCode", isZh) }}: <strong class="code-lg">{{ hostCode }}</strong></span>
+            <span>{{ t("participants", isZh) }}: {{ hostView?.participant_count ?? 0 }}</span>
+            <span>{{ t("answered", isZh) }}: {{ hostView?.answered ?? 0 }}</span>
+            <span>{{ t("phase", isZh) }}: {{ hostView?.phase }}</span>
+            <span v-if="hostActionBusy">{{ t("hostBusy", isZh) }}</span>
+          </div>
+          <p class="hint">{{ t("qrHostHint", isZh) }}</p>
+          <p class="hint">{{ t("hostTokenHint", isZh) }}</p>
+          <div class="host-actions">
+            <button type="button" class="learn-btn primary" @click="goJoinShowQr">
+              {{ t("showQrOnJoin", isZh) }}
+            </button>
+            <button
+              type="button"
+              class="learn-btn primary"
+              :disabled="hostActionBusy"
+              @click="runHost('push')"
+            >
+              {{ t("push", isZh) }}
+            </button>
+            <button type="button" class="learn-btn" :disabled="hostActionBusy" @click="runHost('lock')">
+              {{ t("lock", isZh) }}
+            </button>
+            <button type="button" class="learn-btn" :disabled="hostActionBusy" @click="runHost('reveal')">
+              {{ t("revealBtn", isZh) }}
+            </button>
+            <button type="button" class="learn-btn" :disabled="hostActionBusy" @click="runHost('waiting')">
+              {{ t("lobby", isZh) }}
+            </button>
+            <button type="button" class="learn-btn" @click="copyJoinLink">
+              {{ copied ? t("copied", isZh) : t("copyLink", isZh) }}
+            </button>
+            <button type="button" class="learn-btn danger" :disabled="hostActionBusy" @click="runHost('end')">
+              {{ t("end", isZh) }}
+            </button>
+          </div>
+
+          <div v-if="hostView?.question" class="learn-question">
+            <div class="qid">{{ hostView.question.qid }}</div>
+            <h2>{{ promptOf(hostView.question) }}</h2>
+            <ul class="stat-list">
+              <li v-for="opt in hostView.question.options" :key="opt.id">
+                <strong>{{ opt.id.toUpperCase() }}</strong>
+                {{ optText(opt) }}
+                — {{ hostView.option_counts?.[opt.id] || 0 }}
+              </li>
+            </ul>
+            <p v-if="hostView.phase === 'reveal' && hostView.correct_count != null">
+              {{ t("correct", isZh) }}: {{ hostView.correct_count }} / {{ hostView.answered }}
+            </p>
+            <p v-if="hostView.phase === 'reveal'">{{ explOf(hostView.question) }}</p>
+          </div>
+
+          <div v-if="hostQuestionList.length" class="qid-list">
+            <button
+              v-for="q in hostQuestionList"
+              :key="q.id"
+              type="button"
+              class="learn-btn sm"
+              :disabled="hostActionBusy"
+              @click="runHost('push', q.qid)"
+            >
+              {{ q.qid }}
+            </button>
+          </div>
         </div>
+      </template>
+    </section>
+
+    <!-- Workshop -->
+    <section v-if="activeTab === 'workshop'" class="learn-panel">
+      <h2 class="ws-title">{{ t("workshopTitle", isZh) }}</h2>
+      <p class="hint">{{ t("workshopHint", isZh) }}</p>
+      <div class="learn-form row">
+        <label>
+          {{ t("sessionCode", isZh) }}
+          <input v-model="workshopCode" maxlength="8" class="input-lg" />
+        </label>
+        <label>
+          {{ t("workshopGroup", isZh) }}
+          <select v-model.number="workshopGroup">
+            <option :value="1">1</option>
+            <option :value="2">2</option>
+            <option :value="3">3</option>
+            <option :value="4">4</option>
+          </select>
+        </label>
+        <button type="button" class="learn-btn" @click="refreshWorkshop">{{ t("workshopRefresh", isZh) }}</button>
+        <button type="button" class="learn-btn primary" :disabled="loading" @click="saveWorkshopBoard">
+          {{ t("workshopSave", isZh) }}
+        </button>
+      </div>
+
+      <div class="ws-grid">
+        <fieldset class="ws-card">
+          <legend>{{ isZh ? "任务1 迷你使用规范" : "Task 1 Use specification" }}</legend>
+          <label>Users / 用户<textarea v-model="workshopDraft.task1.users" rows="2" /></label>
+          <label>Environment / 环境<textarea v-model="workshopDraft.task1.environment" rows="2" /></label>
+          <label>Intended use / 预期用途<textarea v-model="workshopDraft.task1.intended_use" rows="2" /></label>
+          <label>POF candidates / 主要操作功能候选<textarea v-model="workshopDraft.task1.pof_candidates" rows="2" /></label>
+          <label>Foreseeable misuse / 可预见误用<textarea v-model="workshopDraft.task1.foreseeable_misuse" rows="2" /></label>
+        </fieldset>
+        <fieldset class="ws-card">
+          <legend>{{ isZh ? "任务2 用错与 HRUS" : "Task 2 Use errors & HRUS" }}</legend>
+          <label>Use errors / 潜在用错 (≥5)<textarea v-model="workshopDraft.task2.use_errors" rows="3" /></label>
+          <label>Summative candidates<textarea v-model="workshopDraft.task2.summative_candidates" rows="2" /></label>
+          <label>Primary HRUS<textarea v-model="workshopDraft.task2.primary_hrus" rows="3" /></label>
+        </fieldset>
+        <fieldset class="ws-card">
+          <legend>{{ isZh ? "任务3 控制措施草图" : "Task 3 Controls" }}</legend>
+          <label>Inherent safety / 本质安全<textarea v-model="workshopDraft.task3.inherent_safety" rows="2" /></label>
+          <label>Protective / 防护<textarea v-model="workshopDraft.task3.protective" rows="2" /></label>
+          <label>Information for safety / 安全信息<textarea v-model="workshopDraft.task3.information_for_safety" rows="2" /></label>
+          <label>Needs UE evaluation?<textarea v-model="workshopDraft.task3.needs_ue_eval" rows="2" /></label>
+        </fieldset>
+        <fieldset class="ws-card">
+          <legend>{{ isZh ? "任务4 评价策略" : "Task 4 Evaluation strategy" }}</legend>
+          <label>Formative needed?<textarea v-model="workshopDraft.task4.formative_needed" rows="2" /></label>
+          <label>Summative needed?<textarea v-model="workshopDraft.task4.summative_needed" rows="2" /></label>
+          <label>Success criteria<textarea v-model="workshopDraft.task4.success_criteria" rows="2" /></label>
+          <label>Failure re-entry step<textarea v-model="workshopDraft.task4.failure_reentry" rows="2" /></label>
+        </fieldset>
+      </div>
+
+      <div class="ws-others">
+        <h3>{{ isZh ? "各组看板（互评）" : "All groups (peer review)" }}</h3>
+        <article v-for="g in workshopGroups" :key="g.group_no" class="ws-peer">
+          <header>
+            <strong>{{ t("workshopGroup", isZh) }} {{ g.group_no }}</strong>
+            <span class="hint">{{ g.updated_by || "—" }} · {{ g.updated_at || "" }}</span>
+          </header>
+          <pre class="ws-pre">{{ JSON.stringify({ t1: g.task1, t2: g.task2, t3: g.task3, t4: g.task4 }, null, 2) }}</pre>
+        </article>
       </div>
     </section>
 
@@ -651,41 +872,9 @@ onUnmounted(() => {
       <div v-if="!practiceLoggedIn" class="learn-form login-box">
         <p class="login-required">{{ t("loginRequired", isZh) }}</p>
         <p class="hint">{{ t("registerHint", isZh) }}</p>
-        <label>
-          {{ t("loginEmail", isZh) }}
-          <input v-model="loginEmail" type="email" autocomplete="email" :disabled="loginStep === 'code'" />
-        </label>
-        <label v-if="loginStep === 'code'">
-          {{ t("otpCode", isZh) }}
-          <input v-model="loginCode" maxlength="6" inputmode="numeric" autocomplete="one-time-code" />
-        </label>
-        <button
-          v-if="loginStep === 'email'"
-          type="button"
-          class="learn-btn primary"
-          :disabled="loginLoading || !loginEmail || cooldown > 0"
-          @click="doSendOtp"
-        >
-          {{ cooldown > 0 ? `${cooldown}s` : t("sendCode", isZh) }}
+        <button type="button" class="learn-btn primary" @click="showLoginDialog = true">
+          {{ t("signIn", isZh) }}
         </button>
-        <template v-else>
-          <button
-            type="button"
-            class="learn-btn primary"
-            :disabled="loginLoading || loginCode.length !== 6"
-            @click="doVerifyOtp"
-          >
-            {{ t("verifyLogin", isZh) }}
-          </button>
-          <button
-            type="button"
-            class="learn-btn"
-            :disabled="cooldown > 0"
-            @click="loginStep = 'email'"
-          >
-            {{ isZh ? "返回修改邮箱" : "Back" }}
-          </button>
-        </template>
       </div>
 
       <template v-else>
@@ -771,6 +960,13 @@ onUnmounted(() => {
 .learn-root.join-focus {
   max-width: 560px;
 }
+.learn-title-row {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
 .learn-header h1 {
   margin: 0;
   font-size: 1.75rem;
@@ -779,6 +975,21 @@ onUnmounted(() => {
 .learn-sub {
   color: var(--vp-c-text-2);
   margin: 0.35rem 0 1rem;
+}
+.learn-auth {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-shrink: 0;
+  margin-top: 0.25rem;
+}
+.learn-auth-badge {
+  font-size: 0.9rem;
+  color: var(--vp-c-text-2);
+  max-width: 180px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 .learn-tabs {
   display: flex;
@@ -1006,6 +1217,66 @@ onUnmounted(() => {
   gap: 0.75rem;
   margin-bottom: 1rem;
   flex-wrap: wrap;
+}
+.ws-title { margin: 0 0 0.35rem; font-size: 1.25rem; }
+.ws-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.75rem;
+  margin: 1rem 0;
+}
+.ws-card {
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 10px;
+  padding: 0.65rem 0.75rem 0.85rem;
+  margin: 0;
+}
+.ws-card legend { padding: 0 0.35rem; font-weight: 650; }
+.ws-card label {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  font-size: 0.85rem;
+  margin-top: 0.45rem;
+}
+.ws-card textarea {
+  width: 100%;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 8px;
+  padding: 0.45rem 0.55rem;
+  font: inherit;
+  background: var(--vp-c-bg);
+  color: var(--vp-c-text-1);
+  resize: vertical;
+}
+.ws-others { margin-top: 1.25rem; }
+.ws-peer {
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 10px;
+  padding: 0.65rem 0.75rem;
+  margin-bottom: 0.65rem;
+}
+.ws-peer header {
+  display: flex;
+  justify-content: space-between;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  margin-bottom: 0.35rem;
+}
+.ws-pre {
+  margin: 0;
+  white-space: pre-wrap;
+  word-break: break-word;
+  font-size: 0.78rem;
+  line-height: 1.35;
+  max-height: 220px;
+  overflow: auto;
+  background: var(--vp-c-bg-soft);
+  padding: 0.5rem;
+  border-radius: 8px;
+}
+@media (max-width: 900px) {
+  .ws-grid { grid-template-columns: 1fr; }
 }
 @media (max-width: 640px) {
   .learn-form.row {

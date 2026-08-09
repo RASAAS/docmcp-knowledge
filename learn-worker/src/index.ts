@@ -12,6 +12,7 @@ import {
   submitAnswer,
 } from "./live";
 import { submitPractice } from "./practice";
+import { listWorkshopBoards, upsertWorkshopBoard } from "./workshop";
 
 export default {
   async fetch(request: Request, env: Env): Promise<Response> {
@@ -120,6 +121,16 @@ async function route(
   const hostGet = path.match(/^\/api\/live\/sessions\/([A-Z0-9]+)\/host$/i);
   if (hostGet && method === "GET") {
     return hostOverview(hostGet[1], request, env);
+  }
+
+  const workshopList = path.match(/^\/api\/live\/sessions\/([A-Z0-9]+)\/workshop$/i);
+  if (workshopList && method === "GET") {
+    return listWorkshopBoards(workshopList[1], env);
+  }
+
+  const workshopPut = path.match(/^\/api\/live\/sessions\/([A-Z0-9]+)\/workshop\/([1-4])$/i);
+  if (workshopPut && method === "PUT") {
+    return upsertWorkshopBoard(workshopPut[1], parseInt(workshopPut[2], 10), request, env);
   }
 
   return error("Not found", 404, env);

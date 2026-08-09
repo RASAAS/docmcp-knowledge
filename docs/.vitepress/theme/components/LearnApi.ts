@@ -160,10 +160,8 @@ function hostHeaders(hostToken: string): Record<string, string> {
   return headers({ "X-Host-Token": hostToken });
 }
 
-export function hostGet(
-  code: string,
-  hostToken: string
-): Promise<{
+export type HostView = {
+  ok?: boolean;
   code: string;
   status: string;
   phase: string;
@@ -173,9 +171,18 @@ export function hostGet(
   correct_count?: number;
   option_counts: Record<string, number>;
   question: LiveQuestion | null;
-  question_list: Array<{ id: number; qid: string; sort_order: number; prompt_en: string; prompt_zh: string }>;
-}> {
-  return fetch(`${LEARN_API_URL}/api/live/sessions/${code}/host`, {
+  question_list?: Array<{
+    id: number;
+    qid: string;
+    sort_order: number;
+    prompt_en: string;
+    prompt_zh: string;
+  }>;
+};
+
+export function hostGet(code: string, hostToken: string, opts?: { light?: boolean }): Promise<HostView> {
+  const q = opts?.light ? "?light=1" : "";
+  return fetch(`${LEARN_API_URL}/api/live/sessions/${code}/host${q}`, {
     headers: hostHeaders(hostToken),
   }).then(async (resp) => {
     if (!resp.ok) {
@@ -186,7 +193,7 @@ export function hostGet(
   });
 }
 
-async function hostPost<T>(code: string, hostToken: string, action: string, body?: unknown): Promise<T> {
+async function hostPost(code: string, hostToken: string, action: string, body?: unknown): Promise<HostView> {
   const resp = await fetch(`${LEARN_API_URL}/api/live/sessions/${code}/${action}`, {
     method: "POST",
     headers: hostHeaders(hostToken),
@@ -196,7 +203,7 @@ async function hostPost<T>(code: string, hostToken: string, action: string, body
     const err = await resp.json().catch(() => ({ error: resp.statusText }));
     throw new Error((err as { error?: string }).error || resp.statusText);
   }
-  return resp.json() as Promise<T>;
+  return resp.json() as Promise<HostView>;
 }
 
 export function hostPush(code: string, hostToken: string, body?: { qid?: string; question_id?: number }) {
@@ -213,6 +220,46 @@ export function hostWaiting(code: string, hostToken: string) {
 }
 export function hostEnd(code: string, hostToken: string) {
   return hostPost(code, hostToken, "end");
+}
+
+export type WorkshopGroup = {
+  group_no: number;
+  task1: Record<string, string>;
+  task2: Record<string, string>;
+  task3: Record<string, string>;
+  task4: Record<string, string>;
+  updated_by: string;
+  updated_at: string;
+};
+
+export function getWorkshop(code: string): Promise<{
+  code: string;
+  groups: WorkshopGroup[];
+  template: Record<string, Record<string, string>>;
+}> {
+  return request(`/api/live/sessions/${code}/workshop`);
+}
+
+export function saveWorkshop(
+  code: string,
+  groupNo: number,
+  data: {
+    task1: Record<string, string>;
+    task2: Record<string, string>;
+    task3: Record<string, string>;
+    task4: Record<string, string>;
+    updated_by?: string;
+    participant_key?: string;
+    host_token?: string;
+  }
+): Promise<{ code: string; groups: WorkshopGroup[] }> {
+  const extra: Record<string, string> = {};
+  if (data.host_token) extra["X-Host-Token"] = data.host_token;
+  return request(`/api/live/sessions/${code}/workshop/${groupNo}`, {
+    method: "PUT",
+    headers: extra,
+    body: JSON.stringify(data),
+  });
 }
 
 export function linkAccount(code: string, participantKey: string) {

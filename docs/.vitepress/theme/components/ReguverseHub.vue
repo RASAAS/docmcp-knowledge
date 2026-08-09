@@ -9,7 +9,8 @@ import ServiceMarketCta from "./ServiceMarketCta.vue";
 import HubSidebar from "./HubSidebar.vue";
 import HubRoadmap from "./HubRoadmap.vue";
 import { hubLabel, HUB_TABS, HUB_ADMIN_TAB, type HubTabKey } from "./HubNavData";
-import { isLoggedIn, getDisplayName, getUserRole, saveSession, logout, sendOtp, verifyOtp, verifyAuth } from "./HubApi";
+import { isLoggedIn, getDisplayName, getUserRole, logout, saveSession, verifyAuth } from "./HubApi";
+import HubOtpLogin from "./HubOtpLogin.vue";
 
 const { lang } = useData();
 const isZh = computed(() => lang.value === "zh" || lang.value === "zh-CN");
@@ -23,14 +24,6 @@ const discussionCategory = ref("");
 
 const loggedIn = ref(false);
 const showLoginDialog = ref(false);
-const loginStep = ref<"email" | "code">("email");
-const loginEmail = ref("");
-const loginCode = ref("");
-const loginError = ref("");
-const loginLoading = ref(false);
-const otpSent = ref(false);
-const cooldown = ref(0);
-let cooldownTimer: ReturnType<typeof setInterval> | null = null;
 
 const userName = ref("");
 const userRole = ref("");
@@ -42,92 +35,11 @@ const activeTabLabel = computed(() => {
   return tab ? hubLabel(tab, isZh.value) : "";
 });
 
-function startCooldown(seconds: number) {
-  cooldown.value = seconds;
-  if (cooldownTimer) clearInterval(cooldownTimer);
-  cooldownTimer = setInterval(() => {
-    cooldown.value--;
-    if (cooldown.value <= 0 && cooldownTimer) {
-      clearInterval(cooldownTimer);
-      cooldownTimer = null;
-    }
-  }, 1000);
-}
-
-async function doSendOtp() {
-  const email = loginEmail.value.trim();
-  if (!email) return;
-  loginLoading.value = true;
-  loginError.value = "";
-  try {
-    const result = await sendOtp(email);
-    if (result.error) {
-      const errMap: Record<string, string> = {
-        TOO_MANY_REQUESTS: isZh.value ? "请求过于频繁，请稍后再试" : "Too many requests, please try later",
-        OTP_RATE_LIMITED: isZh.value ? "发送过于频繁，请10分钟后再试" : "Too many OTPs sent, wait 10 minutes",
-        EMAIL_NOT_CONFIGURED: isZh.value ? "邮件服务暂不可用" : "Email service unavailable",
-        EMAIL_SEND_FAILED: isZh.value ? "邮件发送失败，请稍后重试" : "Failed to send email, please retry",
-      };
-      loginError.value = errMap[result.error] || result.error;
-      return;
-    }
-    otpSent.value = true;
-    loginStep.value = "code";
-    startCooldown(60);
-  } catch {
-    loginError.value = isZh.value ? "网络错误，请稍后重试" : "Network error, please retry";
-  } finally {
-    loginLoading.value = false;
-  }
-}
-
-async function doVerifyOtp() {
-  const code = loginCode.value.trim();
-  if (!code || code.length !== 6) return;
-  loginLoading.value = true;
-  loginError.value = "";
-  try {
-    const result = await verifyOtp(loginEmail.value.trim(), code);
-    if (result.error) {
-      const errMap: Record<string, string> = {
-        INVALID_OR_EXPIRED_CODE: isZh.value ? "验证码无效或已过期" : "Invalid or expired code",
-        WRONG_CODE: isZh.value
-          ? `验证码错误，剩余 ${result.attempts_remaining ?? "?"} 次`
-          : `Wrong code, ${result.attempts_remaining ?? "?"} attempts left`,
-        TOO_MANY_ATTEMPTS: isZh.value ? "尝试过多，请重新获取验证码" : "Too many attempts, request a new code",
-        USER_NOT_FOUND: isZh.value ? "用户不存在" : "User not found",
-      };
-      loginError.value = errMap[result.error] || result.error;
-      return;
-    }
-    if (result.verified && result.hub_token) {
-      saveSession(
-        result.hub_token,
-        result.display_name || "",
-        (result as Record<string, unknown>).user_id as string | undefined,
-        (result as Record<string, unknown>).role as string | undefined,
-      );
-      loggedIn.value = true;
-      userName.value = result.display_name || "";
-      userRole.value = getUserRole();
-      showLoginDialog.value = false;
-      resetLoginForm();
-    }
-  } catch {
-    loginError.value = isZh.value ? "网络错误，请稍后重试" : "Network error, please retry";
-  } finally {
-    loginLoading.value = false;
-  }
-}
-
-function resetLoginForm() {
-  loginStep.value = "email";
-  loginEmail.value = "";
-  loginCode.value = "";
-  loginError.value = "";
-  otpSent.value = false;
-  if (cooldownTimer) { clearInterval(cooldownTimer); cooldownTimer = null; }
-  cooldown.value = 0;
+function onLoginSuccess(payload: { displayName: string; role?: string }) {
+  loggedIn.value = true;
+  userName.value = payload.displayName || getDisplayName() || "";
+  userRole.value = payload.role || getUserRole();
+  showLoginDialog.value = false;
 }
 
 function doLogout() {
@@ -135,6 +47,7 @@ function doLogout() {
   loggedIn.value = false;
   userName.value = "";
   userRole.value = "";
+  showLoginDialog.value = false;
   if (activeTab.value === "admin") activeTab.value = "features";
 }
 
@@ -211,7 +124,6 @@ onUnmounted(() => {
     document.documentElement.classList.remove("hub-embed-mode");
     setHubPageClass(false);
   }
-  if (cooldownTimer) clearInterval(cooldownTimer);
 });
 </script>
 
@@ -268,87 +180,13 @@ onUnmounted(() => {
       </template>
     </div>
 
-    <!-- Login Dialog: Email + OTP -->
-    <div v-if="showLoginDialog" class="rv-login-overlay" @click.self="showLoginDialog = false; resetLoginForm()">
-      <div class="rv-login-dialog">
-        <h3 class="rv-login-title">
-          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="var(--vp-c-brand-1)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-            <path d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"/>
-          </svg>
-          {{ isZh ? "Reguverse 用户验证" : "Verify Reguverse Account" }}
-        </h3>
-
-        <template v-if="loginStep === 'email'">
-          <p class="rv-login-desc">
-            {{ isZh
-              ? "输入您的 Reguverse 注册邮箱，我们将发送一个验证码到该邮箱。"
-              : "Enter your Reguverse account email. We will send a verification code." }}
-          </p>
-          <input
-            v-model="loginEmail"
-            type="email"
-            :placeholder="isZh ? '输入注册邮箱...' : 'Enter your email...'"
-            class="rv-login-input"
-            @keydown.enter="doSendOtp"
-          />
-          <div v-if="loginError" class="rv-login-error">{{ loginError }}</div>
-          <div class="rv-login-actions">
-            <button class="rv-login-cancel" @click="showLoginDialog = false; resetLoginForm()">
-              {{ isZh ? "取消" : "Cancel" }}
-            </button>
-            <button class="rv-login-submit" :disabled="loginLoading || !loginEmail.trim()" @click="doSendOtp">
-              {{ loginLoading ? (isZh ? "发送中..." : "Sending...") : (isZh ? "发送验证码" : "Send Code") }}
-            </button>
-          </div>
-        </template>
-
-        <template v-else>
-          <p class="rv-login-desc">
-            {{ isZh
-              ? `验证码已发送至 ${loginEmail}，请查收邮件。`
-              : `Code sent to ${loginEmail}. Check your inbox.` }}
-          </p>
-          <input
-            v-model="loginCode"
-            type="text"
-            inputmode="numeric"
-            maxlength="6"
-            :placeholder="isZh ? '输入6位验证码' : 'Enter 6-digit code'"
-            class="rv-login-input rv-login-code-input"
-            @keydown.enter="doVerifyOtp"
-          />
-          <div v-if="loginError" class="rv-login-error">{{ loginError }}</div>
-          <div class="rv-login-resend">
-            <button
-              class="rv-login-resend-btn"
-              :disabled="cooldown > 0 || loginLoading"
-              @click="doSendOtp"
-            >
-              {{ cooldown > 0
-                ? (isZh ? `${cooldown}s 后可重新发送` : `Resend in ${cooldown}s`)
-                : (isZh ? "重新发送验证码" : "Resend code") }}
-            </button>
-            <button class="rv-login-back-btn" @click="loginStep = 'email'; loginError = ''">
-              {{ isZh ? "更换邮箱" : "Change email" }}
-            </button>
-          </div>
-          <div class="rv-login-actions">
-            <button class="rv-login-cancel" @click="showLoginDialog = false; resetLoginForm()">
-              {{ isZh ? "取消" : "Cancel" }}
-            </button>
-            <button class="rv-login-submit" :disabled="loginLoading || loginCode.trim().length !== 6" @click="doVerifyOtp">
-              {{ loginLoading ? (isZh ? "验证中..." : "Verifying...") : (isZh ? "验证" : "Verify") }}
-            </button>
-          </div>
-        </template>
-
-        <p class="rv-login-note">
-          {{ isZh
-            ? "未注册？无需验证也可以参与讨论和投票。验证后可获得 Verified 标识。"
-            : "Not registered? You can participate without verification. Verified users get a badge." }}
-        </p>
-      </div>
-    </div>
+    <HubOtpLogin
+      :open="showLoginDialog"
+      :is-zh="isZh"
+      variant="hub"
+      @close="showLoginDialog = false"
+      @success="onLoginSuccess"
+    />
 
     <div class="rv-hub-body">
       <div
@@ -533,137 +371,6 @@ onUnmounted(() => {
   opacity: 1;
 }
 
-/* Login Dialog */
-.rv-login-overlay {
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background: rgba(0,0,0,0.5);
-  z-index: 100;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding: 20px;
-}
-.rv-login-dialog {
-  background: var(--vp-c-bg);
-  border-radius: 16px;
-  padding: 32px;
-  max-width: 460px;
-  width: 100%;
-  box-shadow: 0 20px 60px rgba(0,0,0,0.3);
-}
-.rv-login-title {
-  display: flex;
-  align-items: center;
-  gap: 8px;
-  font-size: 18px;
-  font-weight: 600;
-  margin: 0 0 12px;
-  color: var(--vp-c-text-1);
-}
-.rv-login-desc {
-  font-size: 14px;
-  color: var(--vp-c-text-2);
-  line-height: 1.6;
-  margin: 0 0 16px;
-}
-.rv-login-input {
-  width: 100%;
-  padding: 10px 14px;
-  border: 1px solid var(--vp-c-divider);
-  border-radius: 8px;
-  font-size: 14px;
-  background: var(--vp-c-bg-soft);
-  color: var(--vp-c-text-1);
-  font-family: monospace;
-  box-sizing: border-box;
-}
-.rv-login-input:focus {
-  border-color: var(--vp-c-brand-1);
-  outline: none;
-}
-.rv-login-error {
-  color: var(--vp-c-danger-1);
-  font-size: 13px;
-  margin-top: 8px;
-}
-.rv-login-actions {
-  display: flex;
-  justify-content: flex-end;
-  gap: 10px;
-  margin-top: 20px;
-}
-.rv-login-cancel {
-  padding: 8px 20px;
-  border: 1px solid var(--vp-c-divider);
-  border-radius: 8px;
-  background: var(--vp-c-bg);
-  color: var(--vp-c-text-2);
-  cursor: pointer;
-  font-size: 14px;
-}
-.rv-login-cancel:hover {
-  border-color: var(--vp-c-text-3);
-}
-.rv-login-submit {
-  padding: 8px 24px;
-  border: none;
-  border-radius: 8px;
-  background: var(--vp-c-brand-1);
-  color: white;
-  cursor: pointer;
-  font-size: 14px;
-  font-weight: 500;
-}
-.rv-login-submit:hover {
-  background: var(--vp-c-brand-2);
-}
-.rv-login-submit:disabled {
-  opacity: 0.5;
-  cursor: not-allowed;
-}
-.rv-login-note {
-  font-size: 12px;
-  color: var(--vp-c-text-3);
-  margin: 16px 0 0;
-  line-height: 1.5;
-}
-.rv-login-code-input {
-  font-size: 24px;
-  letter-spacing: 8px;
-  text-align: center;
-  font-family: monospace;
-  font-weight: 600;
-}
-.rv-login-resend {
-  display: flex;
-  align-items: center;
-  gap: 12px;
-  margin-top: 12px;
-}
-.rv-login-resend-btn,
-.rv-login-back-btn {
-  background: none;
-  border: none;
-  color: var(--vp-c-brand-1);
-  cursor: pointer;
-  font-size: 13px;
-  padding: 0;
-}
-.rv-login-resend-btn:disabled {
-  color: var(--vp-c-text-3);
-  cursor: default;
-}
-.rv-login-back-btn {
-  color: var(--vp-c-text-2);
-}
-.rv-login-back-btn:hover {
-  color: var(--vp-c-text-1);
-}
-
 /* Embed mode */
 .rv-hub-embed {
   min-height: auto;
@@ -729,9 +436,6 @@ onUnmounted(() => {
   }
   .rv-hub-subtitle {
     font-size: 14px;
-  }
-  .rv-login-dialog {
-    padding: 24px;
   }
 }
 </style>

@@ -477,6 +477,8 @@ export async function verifyOtp(
   verified?: boolean;
   hub_token?: string;
   display_name?: string;
+  user_id?: string;
+  role?: string;
   error?: string;
   attempts_remaining?: number;
 }> {
@@ -486,6 +488,60 @@ export async function verifyOtp(
     body: JSON.stringify({ email, code }),
   });
   return resp.json();
+}
+
+/** Map hub-otp/send error codes to localized UI copy. */
+export function mapOtpSendError(code: string, isZh: boolean): string {
+  const errMap: Record<string, { en: string; zh: string }> = {
+    TOO_MANY_REQUESTS: {
+      en: "Too many requests, please try later",
+      zh: "请求过于频繁，请稍后再试",
+    },
+    OTP_RATE_LIMITED: {
+      en: "Too many OTPs sent, wait 10 minutes",
+      zh: "发送过于频繁，请10分钟后再试",
+    },
+    EMAIL_NOT_CONFIGURED: {
+      en: "Email service unavailable",
+      zh: "邮件服务暂不可用",
+    },
+    EMAIL_SEND_FAILED: {
+      en: "Failed to send email, please retry",
+      zh: "邮件发送失败，请稍后重试",
+    },
+  };
+  const item = errMap[code];
+  if (!item) return code;
+  return isZh ? item.zh : item.en;
+}
+
+/** Map hub-otp/verify error codes to localized UI copy. */
+export function mapOtpVerifyError(
+  code: string,
+  isZh: boolean,
+  attemptsRemaining?: number
+): string {
+  if (code === "WRONG_CODE") {
+    const n = attemptsRemaining ?? "?";
+    return isZh ? `验证码错误，剩余 ${n} 次` : `Wrong code, ${n} attempts left`;
+  }
+  const errMap: Record<string, { en: string; zh: string }> = {
+    INVALID_OR_EXPIRED_CODE: {
+      en: "Invalid or expired code",
+      zh: "验证码无效或已过期",
+    },
+    TOO_MANY_ATTEMPTS: {
+      en: "Too many attempts, request a new code",
+      zh: "尝试过多，请重新获取验证码",
+    },
+    USER_NOT_FOUND: {
+      en: "User not found",
+      zh: "用户不存在",
+    },
+  };
+  const item = errMap[code];
+  if (!item) return code;
+  return isZh ? item.zh : item.en;
 }
 
 export async function verifyAuth(): Promise<{

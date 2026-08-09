@@ -92,9 +92,24 @@ CREATE TABLE IF NOT EXISTS certificates (
   issued_at TEXT NOT NULL DEFAULT (datetime('now'))
 );
 
+-- Workshop boards (4 groups × 4 paper tasks) for live classroom
+CREATE TABLE IF NOT EXISTS workshop_boards (
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
+  session_id INTEGER NOT NULL REFERENCES live_sessions(id) ON DELETE CASCADE,
+  group_no INTEGER NOT NULL CHECK(group_no BETWEEN 1 AND 4),
+  task1_json TEXT NOT NULL DEFAULT '{}',
+  task2_json TEXT NOT NULL DEFAULT '{}',
+  task3_json TEXT NOT NULL DEFAULT '{}',
+  task4_json TEXT NOT NULL DEFAULT '{}',
+  updated_by TEXT NOT NULL DEFAULT '',
+  updated_at TEXT NOT NULL DEFAULT (datetime('now')),
+  UNIQUE(session_id, group_no)
+);
+
 CREATE INDEX IF NOT EXISTS idx_questions_course ON questions(course_id, sort_order);
 CREATE INDEX IF NOT EXISTS idx_live_sessions_code ON live_sessions(code);
 CREATE INDEX IF NOT EXISTS idx_live_participants_session ON live_participants(session_id);
 CREATE INDEX IF NOT EXISTS idx_live_answers_session_q ON live_answers(session_id, question_id);
 CREATE INDEX IF NOT EXISTS idx_practice_course ON practice_attempts(course_id, created_at DESC);
 CREATE INDEX IF NOT EXISTS idx_certificates_user ON certificates(user_id);
+CREATE INDEX IF NOT EXISTS idx_workshop_session ON workshop_boards(session_id);

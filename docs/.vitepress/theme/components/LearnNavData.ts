@@ -1,4 +1,4 @@
-export type LearnTabKey = "join" | "host" | "practice";
+export type LearnTabKey = "join" | "host" | "workshop" | "practice";
 
 export interface LearnTabDef {
   key: LearnTabKey;
@@ -9,6 +9,7 @@ export interface LearnTabDef {
 export const LEARN_TABS: LearnTabDef[] = [
   { key: "join", labelEn: "Join Live", labelZh: "加入现场" },
   { key: "host", labelEn: "Host Session", labelZh: "主持场次" },
+  { key: "workshop", labelEn: "Workshop", labelZh: "工作坊" },
   { key: "practice", labelEn: "Practice", labelZh: "自学练习" },
 ];
 
@@ -75,15 +76,28 @@ export const LEARN_I18N = {
     zh: "请先创建场次，再切换到「加入现场」投影二维码给学员。",
   },
   loginRequired: {
-    en: "Practice requires a registered DocMCP account. Sign in with email OTP.",
-    zh: "自学练习需注册 DocMCP 账号并登录（邮箱验证码）。",
+    en: "A registered DocMCP account is required. Sign in with email OTP.",
+    zh: "需注册 DocMCP 账号并登录（邮箱验证码）。",
   },
-  loginEmail: { en: "Email", zh: "邮箱" },
-  sendCode: { en: "Send code", zh: "发送验证码" },
-  verifyLogin: { en: "Verify & sign in", zh: "验证并登录" },
+  hostLoginRequired: {
+    en: "Hosting a live session requires DocMCP login.",
+    zh: "主持场次需先登录 DocMCP 账号。",
+  },
+  workshopTitle: {
+    en: "i-Check workshop boards (4 groups)",
+    zh: "i-Check 工作坊看板（4 组）",
+  },
+  workshopHint: {
+    en: "Each group’s representative fills the board. Other groups review and comment aloud.",
+    zh: "每组由代表填写看板；其他组口述指出问题。需先加入现场会话。",
+  },
+  workshopSave: { en: "Save group board", zh: "保存本组看板" },
+  workshopRefresh: { en: "Refresh boards", zh: "刷新各组看板" },
+  workshopGroup: { en: "Group", zh: "组别" },
+  hostBusy: { en: "Working…", zh: "处理中…" },
   logout: { en: "Sign out", zh: "退出登录" },
   signedInAs: { en: "Signed in as", zh: "已登录" },
-  otpCode: { en: "Verification code", zh: "验证码" },
+  signIn: { en: "Sign in", zh: "登录" },
   registerHint: {
     en: "No account? Register at app.team-ra.org / app.reguverse.com first.",
     zh: "没有账号？请先在 app.team-ra.org / app.reguverse.com 注册。",

@@ -47,6 +47,9 @@ function publicQuestionForPhase(q: QuestionRow, phase: string) {
 }
 
 export async function createSession(request: Request, env: Env, user: AuthUser | null): Promise<Response> {
+  // Hosting requires a registered DocMCP / Hub account (same gate as practice).
+  if (!user) return error("LOGIN_REQUIRED", 401, env);
+
   if (env.HOST_CREATE_SECRET) {
     const createSecret = request.headers.get("X-Create-Secret") || "";
     if (createSecret !== env.HOST_CREATE_SECRET) {
@@ -305,7 +308,13 @@ export async function hostAction(
     )
       .bind(session.id)
       .run();
-    return json({ ok: true, status: "ended" }, 200, env);
+    // Return full host snapshot so UI need not issue a second GET.
+    return hostStats(
+      { ...session, status: "ended", phase: "waiting", current_question_id: null },
+      env,
+      false,
+      { includeQuestionList: false }
+    );
   }
 
   if (action === "waiting") {
@@ -315,7 +324,12 @@ export async function hostAction(
     )
       .bind(session.id)
       .run();
-    return json({ ok: true, phase: "waiting" }, 200, env);
+    return hostStats(
+      { ...session, phase: "waiting", status: "active", current_question_id: null },
+      env,
+      false,
+      { includeQuestionList: false }
+    );
   }
 
   if (action === "lock") {
@@ -325,7 +339,7 @@ export async function hostAction(
     )
       .bind(session.id)
       .run();
-    return json({ ok: true, phase: "locked" }, 200, env);
+    return hostStats({ ...session, phase: "locked" }, env, false, { includeQuestionList: false });
   }
 
   if (action === "reveal") {
@@ -337,7 +351,7 @@ export async function hostAction(
     )
       .bind(session.id)
       .run();
-    return hostStats({ ...session, phase: "reveal" }, env, true);
+    return hostStats({ ...session, phase: "reveal" }, env, true, { includeQuestionList: false });
   }
 
   // push
@@ -386,87 +400,108 @@ export async function hostAction(
     .bind(q.id, session.id)
     .run();
 
-  return json(
-    {
-      ok: true,
-      phase: "open",
-      question: publicQuestionForPhase(q, "open"),
-    },
-    200,
-    env
+  // Return full host snapshot (same shape as GET /host) — avoids slow second round-trip.
+  return hostStats(
+    { ...session, current_question_id: q.id, phase: "open", status: "active" },
+    env,
+    false,
+    { includeQuestionList: false }
   );
 }
 
 async function hostStats(
   session: LiveSessionRow,
   env: Env,
-  withReveal = false
+  withReveal = false,
+  opts: { includeQuestionList?: boolean } = {}
 ): Promise<Response> {
-  const participantCount = await env.DB.prepare(
+  const includeQuestionList = opts.includeQuestionList !== false;
+
+  const participantP = env.DB.prepare(
     `SELECT COUNT(*) AS c FROM live_participants WHERE session_id=?`
   )
     .bind(session.id)
     .first<{ c: number }>();
+
+  const questionP = session.current_question_id
+    ? env.DB.prepare(`SELECT * FROM questions WHERE id=?`)
+        .bind(session.current_question_id)
+        .first<QuestionRow>()
+    : Promise.resolve(null);
+
+  const listP = includeQuestionList
+    ? env.DB.prepare(
+        `SELECT id, qid, sort_order, prompt_en, prompt_zh FROM questions
+         WHERE course_id=? AND published=1 ORDER BY sort_order ASC, id ASC`
+      )
+        .bind(session.course_id)
+        .all()
+    : Promise.resolve({ results: [] as unknown[] });
+
+  const [participantCount, q, questions] = await Promise.all([participantP, questionP, listP]);
 
   let question = null;
   let optionCounts: Record<string, number> = {};
   let answered = 0;
   let correctCount = 0;
 
-  if (session.current_question_id) {
-    const q = await env.DB.prepare(`SELECT * FROM questions WHERE id=?`)
-      .bind(session.current_question_id)
-      .first<QuestionRow>();
-    if (q) {
-      question = publicQuestionForPhase(
-        q,
-        withReveal || session.phase === "reveal" ? "reveal" : session.phase
-      );
-      const answers = await env.DB.prepare(
-        `SELECT answer_json, is_correct FROM live_answers
-         WHERE session_id=? AND question_id=?`
-      )
-        .bind(session.id, q.id)
-        .all<{ answer_json: string; is_correct: number | null }>();
+  if (q) {
+    question = publicQuestionForPhase(
+      q,
+      withReveal || session.phase === "reveal" ? "reveal" : session.phase
+    );
+    const answers = await env.DB.prepare(
+      `SELECT answer_json, is_correct FROM live_answers
+       WHERE session_id=? AND question_id=?`
+    )
+      .bind(session.id, q.id)
+      .all<{ answer_json: string; is_correct: number | null }>();
 
-      for (const row of answers.results || []) {
-        answered += 1;
-        if (row.is_correct === 1) correctCount += 1;
+    for (const row of answers.results || []) {
+      answered += 1;
+      if (row.is_correct === 1) correctCount += 1;
+      try {
         const arr = JSON.parse(row.answer_json) as string[];
         for (const opt of arr) {
           optionCounts[opt] = (optionCounts[opt] || 0) + 1;
         }
+      } catch {
+        /* ignore bad row */
       }
     }
   }
 
-  const questions = await env.DB.prepare(
-    `SELECT id, qid, sort_order, prompt_en, prompt_zh FROM questions
-     WHERE course_id=? AND published=1 ORDER BY sort_order ASC, id ASC`
-  )
-    .bind(session.course_id)
-    .all();
+  const payload: Record<string, unknown> = {
+    ok: true,
+    code: session.code,
+    status: session.status,
+    phase: withReveal ? "reveal" : session.phase,
+    title: session.title,
+    participant_count: participantCount?.c || 0,
+    answered,
+    correct_count: session.phase === "reveal" || withReveal ? correctCount : undefined,
+    option_counts: optionCounts,
+    question,
+  };
+  if (includeQuestionList) {
+    payload.question_list = questions.results || [];
+  }
 
-  return json(
-    {
-      code: session.code,
-      status: session.status,
-      phase: withReveal ? "reveal" : session.phase,
-      title: session.title,
-      participant_count: participantCount?.c || 0,
-      answered,
-      correct_count: session.phase === "reveal" || withReveal ? correctCount : undefined,
-      option_counts: optionCounts,
-      question,
-      question_list: questions.results || [],
-    },
-    200,
-    env
-  );
+  return json(payload, 200, env);
 }
 
 export async function hostOverview(code: string, request: Request, env: Env): Promise<Response> {
-  return hostAction(code, "stats", request, env);
+  const session = await getSessionByCode(code, env);
+  if (!session) return error("Session not found", 404, env);
+
+  const hostToken = request.headers.get("X-Host-Token");
+  if (!(await requireHost(session, hostToken, env))) {
+    return error("Host token required", 403, env);
+  }
+
+  const url = new URL(request.url);
+  const light = url.searchParams.get("light") === "1";
+  return hostStats(session, env, false, { includeQuestionList: !light });
 }
 
 export async function linkParticipantAccount(
