@@ -2,6 +2,7 @@
 import { ref, computed, onMounted, onUnmounted } from "vue";
 import { useData } from "vitepress";
 import FeatureBoard from "./FeatureBoard.vue";
+import HubBillboard from "./HubBillboard.vue";
 import DiscussionWall from "./DiscussionWall.vue";
 import AdminPanel from "./AdminPanel.vue";
 import ServiceMarketCta from "./ServiceMarketCta.vue";
@@ -380,6 +381,9 @@ onUnmounted(() => {
         <main class="rv-hub-content">
           <div v-if="activeTab === 'features'" class="rv-hub-panel">
             <FeatureBoard :category="featureCategory" />
+          </div>
+          <div v-else-if="activeTab === 'billboard'" class="rv-hub-panel">
+            <HubBillboard :category="featureCategory" />
           </div>
           <div v-else-if="activeTab === 'discussions'" class="rv-hub-panel">
             <DiscussionWall :category="discussionCategory" />

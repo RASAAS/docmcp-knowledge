@@ -58,6 +58,23 @@ export interface Comment {
   created_at: string;
 }
 
+export interface BillboardItem {
+  id: number;
+  title: string;
+  description: string;
+  category: string;
+  status: string;
+  source_feature_id: number | null;
+  vote_count: number;
+  comment_count: number;
+  is_published: number;
+  created_by: string | null;
+  created_at: string;
+  updated_at: string;
+  user_voted?: boolean;
+  rank?: number;
+}
+
 export const FEATURE_CATEGORIES = [
   "ce_workflow",
   "risk_management",
@@ -82,3 +99,12 @@ export const FEATURE_STATUSES = [
   "completed",
   "declined",
 ] as const;
+
+export const BILLBOARD_STATUSES = [
+  "planned",
+  "in_progress",
+  "completed",
+  "deferred",
+] as const;
+
+export const COMMENT_TARGET_TYPES = ["feature", "discussion", "billboard"] as const;

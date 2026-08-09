@@ -1,9 +1,17 @@
 import type { Env, AuthUser, Comment } from "./types";
+import { COMMENT_TARGET_TYPES } from "./types";
 import { notifyNewComment } from "./dingtalk";
 import { json, error, sanitize, isAdmin, isOwner, withinEditWindow } from "./utils";
 import { verifyTurnstile } from "./auth";
 
-/** GET /api/comments?target_type=feature|discussion&target_id=1&page=1 */
+function counterTable(targetType: string): string | null {
+  if (targetType === "feature") return "feature_requests";
+  if (targetType === "discussion") return "discussions";
+  if (targetType === "billboard") return "billboard_items";
+  return null;
+}
+
+/** GET /api/comments?target_type=feature|discussion|billboard&target_id=1&page=1 */
 export async function listComments(
   request: Request,
   env: Env
@@ -15,7 +23,7 @@ export async function listComments(
   const limit = 30;
   const offset = (page - 1) * limit;
 
-  if (!["feature", "discussion"].includes(targetType) || !targetId) {
+  if (!(COMMENT_TARGET_TYPES as readonly string[]).includes(targetType) || !targetId) {
     return error("target_type and target_id are required", 400, env);
   }
 
@@ -63,11 +71,14 @@ export async function createComment(
     return error("Comment body is required", 400, env);
   }
   if (
-    !["feature", "discussion"].includes(body.target_type || "") ||
+    !(COMMENT_TARGET_TYPES as readonly string[]).includes(body.target_type || "") ||
     !body.target_id
   ) {
     return error("target_type and target_id are required", 400, env);
   }
+
+  const table = counterTable(body.target_type!);
+  if (!table) return error("Invalid target_type", 400, env);
 
   if (!user) {
     if (!body.author_name?.trim()) {
@@ -96,14 +107,12 @@ export async function createComment(
     )
     .run();
 
-  const counterTable =
-    body.target_type === "feature" ? "feature_requests" : "discussions";
   await env.DB.prepare(
-    `UPDATE ${counterTable} SET comment_count = comment_count + 1, updated_at = datetime('now') WHERE id = ?`
+    `UPDATE ${table} SET comment_count = comment_count + 1, updated_at = datetime('now') WHERE id = ?`
   ).bind(body.target_id!).run();
 
   const targetRow = await env.DB.prepare(
-    `SELECT title FROM ${counterTable} WHERE id = ?`
+    `SELECT title FROM ${table} WHERE id = ?`
   ).bind(body.target_id!).first<{ title: string }>();
   const authorName = user ? (user.display_name || "User") : body.author_name!;
   const notifyPromise = notifyNewComment(env, {
@@ -168,13 +177,16 @@ export async function deleteComment(
     return error("Not authorized", 403, env);
   }
 
-  const counterTable = comment.target_type === "feature" ? "feature_requests" : "discussions";
-  await env.DB.batch([
-    env.DB.prepare(`DELETE FROM comments WHERE id = ?`).bind(id),
-    env.DB.prepare(
-      `UPDATE ${counterTable} SET comment_count = MAX(0, comment_count - 1), updated_at = datetime('now') WHERE id = ?`
-    ).bind(comment.target_id),
-  ]);
+  const table = counterTable(comment.target_type);
+  const ops = [env.DB.prepare(`DELETE FROM comments WHERE id = ?`).bind(id)];
+  if (table) {
+    ops.push(
+      env.DB.prepare(
+        `UPDATE ${table} SET comment_count = MAX(0, comment_count - 1), updated_at = datetime('now') WHERE id = ?`
+      ).bind(comment.target_id)
+    );
+  }
+  await env.DB.batch(ops);
 
   return json({ message: "Comment deleted" }, 200, env);
 }

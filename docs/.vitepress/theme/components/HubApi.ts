@@ -113,6 +113,93 @@ export function deleteFeature(id: number): Promise<{ message: string }> {
   return request(`/api/features/${id}`, { method: "DELETE" });
 }
 
+// --- Billboard (Priority Board) ---
+
+export interface BillboardItem {
+  id: number;
+  title: string;
+  description: string;
+  category: string;
+  status: string;
+  source_feature_id: number | null;
+  vote_count: number;
+  comment_count: number;
+  is_published: number;
+  created_at: string;
+  updated_at: string;
+  user_voted?: boolean;
+  rank?: number;
+}
+
+export function listBillboard(
+  params: {
+    category?: string;
+    sort?: string;
+    page?: number;
+    include_drafts?: boolean;
+  } = {}
+): Promise<PaginatedResponse<BillboardItem>> {
+  const sp = new URLSearchParams();
+  if (params.category) sp.set("category", params.category);
+  if (params.sort) sp.set("sort", params.sort);
+  if (params.page) sp.set("page", String(params.page));
+  if (params.include_drafts) sp.set("include_drafts", "1");
+  return request(`/api/billboard?${sp}`);
+}
+
+export function createBillboardItem(data: {
+  title: string;
+  description?: string;
+  category?: string;
+  status?: string;
+  source_feature_id?: number;
+  is_published?: boolean;
+}): Promise<{ id: number; message: string }> {
+  return request("/api/billboard", {
+    method: "POST",
+    body: JSON.stringify(data),
+  });
+}
+
+export function createBillboardFromFeature(
+  featureId: number
+): Promise<{ id: number; message: string }> {
+  return request(`/api/billboard/from-feature/${featureId}`, {
+    method: "POST",
+    body: JSON.stringify({}),
+  });
+}
+
+export function editBillboardItem(
+  id: number,
+  data: {
+    title?: string;
+    description?: string;
+    category?: string;
+    status?: string;
+    is_published?: boolean;
+  }
+): Promise<{ message: string }> {
+  return request(`/api/billboard/${id}`, {
+    method: "PUT",
+    body: JSON.stringify(data),
+  });
+}
+
+export function deleteBillboardItem(id: number): Promise<{ message: string }> {
+  return request(`/api/billboard/${id}`, { method: "DELETE" });
+}
+
+export function toggleBillboardVote(
+  id: number,
+  data?: { author_email?: string; turnstile_token?: string }
+): Promise<{ voted: boolean; message: string }> {
+  return request(`/api/billboard/${id}/vote`, {
+    method: "POST",
+    body: JSON.stringify(data || {}),
+  });
+}
+
 // --- Discussions ---
 
 export interface Discussion {
@@ -273,6 +360,7 @@ export interface HubStats {
   features: number;
   discussions: number;
   comments: number;
+  billboard?: number;
 }
 
 export function getStats(): Promise<HubStats> {

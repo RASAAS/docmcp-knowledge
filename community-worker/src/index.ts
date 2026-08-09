@@ -21,6 +21,14 @@ import {
   hideDiscussion,
 } from "./discussions";
 import { listComments, createComment, editComment, deleteComment, hideComment } from "./comments";
+import {
+  listBillboard,
+  createBillboardItem,
+  createFromFeature,
+  editBillboardItem,
+  deleteBillboardItem,
+  toggleBillboardVote,
+} from "./billboard";
 import { isAdmin as checkAdmin } from "./utils";
 
 export default {
@@ -116,6 +124,26 @@ async function route(
     return hideDiscussion(parseInt(hideDiscMatch[1], 10), env, user);
   }
 
+  // --- Billboard (priority ranking) ---
+  const fromFeatureMatch = path.match(/^\/api\/billboard\/from-feature\/(\d+)$/);
+  if (fromFeatureMatch && method === "POST") {
+    return createFromFeature(parseInt(fromFeatureMatch[1], 10), env, user);
+  }
+
+  const billboardVoteMatch = path.match(/^\/api\/billboard\/(\d+)\/vote$/);
+  if (billboardVoteMatch && method === "POST") {
+    return toggleBillboardVote(parseInt(billboardVoteMatch[1], 10), request, env, user);
+  }
+
+  const billboardMatch = path.match(/^\/api\/billboard(?:\/(\d+))?$/);
+  if (billboardMatch) {
+    const id = billboardMatch[1] ? parseInt(billboardMatch[1], 10) : null;
+    if (method === "GET" && id === null) return listBillboard(request, env, user);
+    if (method === "POST" && id === null) return createBillboardItem(request, env, user);
+    if (method === "PUT" && id !== null) return editBillboardItem(id, request, env, user);
+    if (method === "DELETE" && id !== null) return deleteBillboardItem(id, env, user);
+  }
+
   // --- Comments ---
   if (path === "/api/comments") {
     if (method === "GET") return listComments(request, env);
@@ -185,6 +213,18 @@ async function route(
         );
       }
     }
+    const bodyBillboard = (body as { billboard?: number[] }).billboard;
+    if (bodyBillboard?.length) {
+      const ids = bodyBillboard.filter((n) => Number.isInteger(n));
+      if (ids.length) {
+        const ph = ids.map(() => "?").join(",");
+        ops.push(
+          env.DB.prepare(`DELETE FROM billboard_votes WHERE billboard_id IN (${ph})`).bind(...ids).run(),
+          env.DB.prepare(`DELETE FROM comments WHERE target_type='billboard' AND target_id IN (${ph})`).bind(...ids).run(),
+          env.DB.prepare(`DELETE FROM billboard_items WHERE id IN (${ph})`).bind(...ids).run(),
+        );
+      }
+    }
     await Promise.all(ops);
     return json({ deleted: true }, 200, env);
   }
@@ -226,15 +266,17 @@ async function route(
 
   // --- Stats ---
   if (path === "/api/stats" && method === "GET") {
-    const [features, discussions, comments] = await Promise.all([
+    const [features, discussions, comments, billboard] = await Promise.all([
       env.DB.prepare("SELECT COUNT(*) as c FROM feature_requests").first<{c: number}>(),
       env.DB.prepare("SELECT COUNT(*) as c FROM discussions WHERE is_hidden=0").first<{c: number}>(),
       env.DB.prepare("SELECT COUNT(*) as c FROM comments WHERE is_hidden=0").first<{c: number}>(),
+      env.DB.prepare("SELECT COUNT(*) as c FROM billboard_items WHERE is_published=1").first<{c: number}>(),
     ]);
     return json({
       features: features?.c || 0,
       discussions: discussions?.c || 0,
       comments: comments?.c || 0,
+      billboard: billboard?.c || 0,
     }, 200, env);
   }
 

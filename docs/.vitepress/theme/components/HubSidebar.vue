@@ -34,24 +34,28 @@ const tabs = computed(() =>
 );
 
 const subItems = computed(() => {
-  if (props.activeTab === "features") return FEATURE_CATEGORIES;
+  if (props.activeTab === "features" || props.activeTab === "billboard") {
+    return FEATURE_CATEGORIES;
+  }
   if (props.activeTab === "discussions") return DISCUSSION_CHANNELS;
   return [];
 });
 
 const subTitle = computed(() => {
-  if (props.activeTab === "features") return isZh.value ? "模块" : "Modules";
+  if (props.activeTab === "features" || props.activeTab === "billboard") {
+    return isZh.value ? "模块" : "Modules";
+  }
   if (props.activeTab === "discussions") return isZh.value ? "频道" : "Channels";
   return "";
 });
 
-const activeSub = computed(() =>
-  props.activeTab === "features"
-    ? props.featureCategory
-    : props.activeTab === "discussions"
-      ? props.discussionCategory
-      : ""
-);
+const activeSub = computed(() => {
+  if (props.activeTab === "features" || props.activeTab === "billboard") {
+    return props.featureCategory;
+  }
+  if (props.activeTab === "discussions") return props.discussionCategory;
+  return "";
+});
 
 function selectTab(key: HubTabKey) {
   emit("update:activeTab", key);
@@ -59,7 +63,7 @@ function selectTab(key: HubTabKey) {
 }
 
 function selectSub(value: string) {
-  if (props.activeTab === "features") {
+  if (props.activeTab === "features" || props.activeTab === "billboard") {
     emit("update:featureCategory", value);
   } else if (props.activeTab === "discussions") {
     emit("update:discussionCategory", value);

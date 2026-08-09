@@ -7,6 +7,7 @@ import {
   editFeature,
   deleteFeature,
   toggleVote,
+  createBillboardFromFeature,
   isLoggedIn,
   getUserId,
   getUserRole,
@@ -118,6 +119,26 @@ async function doDelete(f: Feature) {
     total.value = Math.max(0, total.value - 1);
   } catch (e) {
     error.value = (e as Error).message;
+  }
+}
+
+const addingToBoard = ref<number | null>(null);
+
+const successMsg = ref("");
+
+async function addToBillboard(f: Feature) {
+  if (!isAdmin.value) return;
+  addingToBoard.value = f.id;
+  error.value = "";
+  successMsg.value = "";
+  try {
+    await createBillboardFromFeature(f.id);
+    f.status = f.status === "under_review" ? "planned" : f.status;
+    successMsg.value = isZh.value ? "已加入优先级榜单" : "Added to Priority Board";
+  } catch (e) {
+    error.value = (e as Error).message;
+  } finally {
+    addingToBoard.value = null;
   }
 }
 
@@ -279,8 +300,9 @@ onMounted(load);
       </div>
     </div>
 
-    <!-- Error -->
+    <!-- Error / success -->
     <div v-if="error" class="fb-error">{{ error }}</div>
+    <div v-if="successMsg" class="fb-success">{{ successMsg }}</div>
 
     <!-- Loading -->
     <div v-if="loading" class="fb-loading">
@@ -339,7 +361,16 @@ onMounted(load);
                 <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15a2 2 0 01-2 2H7l-4 4V5a2 2 0 012-2h14a2 2 0 012 2z"/></svg>
                 {{ f.comment_count }}
               </span>
-              <span v-if="canEdit(f) || canDelete(f)" class="fb-actions">
+              <span v-if="isAdmin || canEdit(f) || canDelete(f)" class="fb-actions">
+                <button
+                  v-if="isAdmin"
+                  class="fb-btn-icon"
+                  :disabled="addingToBoard === f.id"
+                  :title="isZh ? '加入优先级榜单' : 'Add to Priority Board'"
+                  @click.stop="addToBillboard(f)"
+                >
+                  <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 3v18h18M7 16l4-8 4 4 4-10"/></svg>
+                </button>
                 <button v-if="canEdit(f)" class="fb-btn-icon" :title="isZh ? '编辑' : 'Edit'" @click.stop="startEdit(f)">
                   <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M11 4H4a2 2 0 00-2 2v14a2 2 0 002 2h14a2 2 0 002-2v-7"/><path d="M18.5 2.5a2.121 2.121 0 013 3L12 15l-4 1 1-4 9.5-9.5z"/></svg>
                 </button>
