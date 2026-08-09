@@ -62,14 +62,16 @@ async function route(
   }
 
   if (path === "/api/courses" && method === "GET") {
+    // Public metadata only (titles/counts) — no question stems/options
     return listCourses(env);
   }
 
   const courseMatch = path.match(/^\/api\/courses\/([a-z0-9-]+)$/);
   if (courseMatch && method === "GET") {
+    // Question content requires DocMCP/Hub login (prevents preview of quiz bank)
+    if (!user) return error("LOGIN_REQUIRED", 401, env);
     const includeAnswers = new URL(request.url).searchParams.get("answers") === "1";
-    // Never expose answers publicly unless admin (host uses live flow)
-    if (includeAnswers && (!user || !["admin", "super_admin"].includes(user.role))) {
+    if (includeAnswers && !["admin", "super_admin"].includes(user.role)) {
       return getPracticeQuestions(courseMatch[1], env);
     }
     return getCourse(courseMatch[1], env, { includeAnswers, user });
@@ -77,6 +79,8 @@ async function route(
 
   const practiceMatch = path.match(/^\/api\/courses\/([a-z0-9-]+)\/practice$/);
   if (practiceMatch) {
+    // Self-paced practice: registered DocMCP users only (Hub OTP token)
+    if (!user) return error("LOGIN_REQUIRED", 401, env);
     if (method === "GET") return getPracticeQuestions(practiceMatch[1], env);
     if (method === "POST") return submitPractice(practiceMatch[1], request, env, user);
   }

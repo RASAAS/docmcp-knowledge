@@ -54,6 +54,28 @@ export const LEARN_I18N = {
   restoreHost: { en: "Restore last host session", zh: "恢复上次主持场次" },
   correct: { en: "Correct", zh: "正确" },
   incorrect: { en: "Incorrect", zh: "不正确" },
+  scanToJoin: {
+    en: "Scan with phone to join (mobile layout)",
+    zh: "手机扫码加入（移动端自适应）",
+  },
+  orEnterCode: {
+    en: "Or enter the session code below",
+    zh: "或手动输入下方会话码",
+  },
+  loginRequired: {
+    en: "Practice requires a registered DocMCP account. Sign in with email OTP.",
+    zh: "自学练习需注册 DocMCP 账号并登录（邮箱验证码）。",
+  },
+  loginEmail: { en: "Email", zh: "邮箱" },
+  sendCode: { en: "Send code", zh: "发送验证码" },
+  verifyLogin: { en: "Verify & sign in", zh: "验证并登录" },
+  logout: { en: "Sign out", zh: "退出登录" },
+  signedInAs: { en: "Signed in as", zh: "已登录" },
+  otpCode: { en: "Verification code", zh: "验证码" },
+  registerHint: {
+    en: "No account? Register at app.team-ra.org / app.reguverse.com first.",
+    zh: "没有账号？请先在 app.team-ra.org / app.reguverse.com 注册。",
+  },
 } as const;
 
 export function t(

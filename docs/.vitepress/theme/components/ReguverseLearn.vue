@@ -2,6 +2,8 @@
 import { computed, onMounted, onUnmounted, ref, watch } from "vue";
 import { useData } from "vitepress";
 import {
+  buildJoinQrUrl,
+  buildJoinUrl,
   createLiveSession,
   ensureParticipantKey,
   getLiveState,
@@ -18,15 +20,25 @@ import {
   saveHostSession,
   submitLiveAnswer,
   submitPractice,
+  verifyLearnAuth,
   type CourseSummary,
   type LiveQuestion,
 } from "./LearnApi";
+import {
+  getDisplayName,
+  isLoggedIn,
+  logout as hubLogout,
+  saveSession,
+  sendOtp,
+  verifyOtp,
+} from "./HubApi";
 import { LEARN_TABS, learnLabel, t, type LearnTabKey } from "./LearnNavData";
 
 const { lang } = useData();
 const isZh = computed(() => lang.value === "zh" || lang.value === "zh-CN");
 
 const activeTab = ref<LearnTabKey>("join");
+const joinOnlyMode = ref(false);
 const errorMsg = ref("");
 const loading = ref(false);
 
@@ -50,7 +62,23 @@ const hostView = ref<Awaited<ReturnType<typeof hostGet>> | null>(null);
 const copied = ref(false);
 let hostPoll: ReturnType<typeof setInterval> | null = null;
 
-// --- Practice ---
+const joinUrl = computed(() =>
+  hostCode.value ? buildJoinUrl(hostCode.value, isZh.value) : ""
+);
+const joinQrUrl = computed(() =>
+  joinUrl.value ? buildJoinQrUrl(joinUrl.value, 280) : ""
+);
+
+// --- Practice + login ---
+const practiceLoggedIn = ref(false);
+const practiceUserName = ref("");
+const loginEmail = ref("");
+const loginCode = ref("");
+const loginStep = ref<"email" | "code">("email");
+const loginLoading = ref(false);
+const cooldown = ref(0);
+let cooldownTimer: ReturnType<typeof setInterval> | null = null;
+
 const courses = ref<CourseSummary[]>([]);
 const practiceSlug = ref("usability-engineering");
 const practiceQs = ref<LiveQuestion[]>([]);
@@ -77,6 +105,20 @@ function stopHostPoll() {
   if (hostPoll) {
     clearInterval(hostPoll);
     hostPoll = null;
+  }
+}
+
+async function refreshAuth() {
+  if (!isLoggedIn()) {
+    practiceLoggedIn.value = false;
+    practiceUserName.value = "";
+    return;
+  }
+  const v = await verifyLearnAuth();
+  practiceLoggedIn.value = v.verified;
+  practiceUserName.value = v.display_name || getDisplayName() || "";
+  if (!v.verified) {
+    hubLogout();
   }
 }
 
@@ -197,11 +239,72 @@ async function runHost(action: "push" | "lock" | "reveal" | "waiting" | "end", q
 }
 
 async function copyJoinLink() {
-  if (!hostCode.value) return;
-  const url = `${window.location.origin}${isZh.value ? "/zh" : "/en"}/learn/?code=${hostCode.value}`;
-  await navigator.clipboard.writeText(url);
+  if (!joinUrl.value) return;
+  await navigator.clipboard.writeText(joinUrl.value);
   copied.value = true;
   setTimeout(() => (copied.value = false), 1500);
+}
+
+function startCooldown(seconds: number) {
+  cooldown.value = seconds;
+  if (cooldownTimer) clearInterval(cooldownTimer);
+  cooldownTimer = setInterval(() => {
+    cooldown.value--;
+    if (cooldown.value <= 0 && cooldownTimer) {
+      clearInterval(cooldownTimer);
+      cooldownTimer = null;
+    }
+  }, 1000);
+}
+
+async function doSendOtp() {
+  const email = loginEmail.value.trim();
+  if (!email) return;
+  loginLoading.value = true;
+  errorMsg.value = "";
+  try {
+    const result = await sendOtp(email);
+    if (result.error) {
+      errorMsg.value = result.error;
+      return;
+    }
+    loginStep.value = "code";
+    startCooldown(60);
+  } catch {
+    errorMsg.value = t("error", isZh.value);
+  } finally {
+    loginLoading.value = false;
+  }
+}
+
+async function doVerifyOtp() {
+  const code = loginCode.value.trim();
+  if (!code || code.length !== 6) return;
+  loginLoading.value = true;
+  errorMsg.value = "";
+  try {
+    const result = await verifyOtp(loginEmail.value.trim(), code);
+    if (result.error || !result.hub_token) {
+      errorMsg.value = result.error || t("error", isZh.value);
+      return;
+    }
+    saveSession(result.hub_token, result.display_name || loginEmail.value.trim());
+    await refreshAuth();
+    loginStep.value = "email";
+    loginCode.value = "";
+  } catch {
+    errorMsg.value = t("error", isZh.value);
+  } finally {
+    loginLoading.value = false;
+  }
+}
+
+function doLogout() {
+  hubLogout();
+  practiceLoggedIn.value = false;
+  practiceUserName.value = "";
+  practiceQs.value = [];
+  practiceResult.value = null;
 }
 
 async function loadCourses() {
@@ -215,6 +318,10 @@ async function loadCourses() {
 
 async function startPractice() {
   errorMsg.value = "";
+  if (!practiceLoggedIn.value) {
+    errorMsg.value = t("loginRequired", isZh.value);
+    return;
+  }
   practiceResult.value = null;
   practiceAnswers.value = {};
   loading.value = true;
@@ -222,7 +329,13 @@ async function startPractice() {
     const res = await getPractice(practiceSlug.value);
     practiceQs.value = res.questions;
   } catch (e) {
-    errorMsg.value = e instanceof Error ? e.message : t("error", isZh.value);
+    const msg = e instanceof Error ? e.message : t("error", isZh.value);
+    if (msg === "LOGIN_REQUIRED" || msg.includes("401")) {
+      doLogout();
+      errorMsg.value = t("loginRequired", isZh.value);
+    } else {
+      errorMsg.value = msg;
+    }
   } finally {
     loading.value = false;
   }
@@ -239,12 +352,16 @@ function setPracticeAnswer(q: LiveQuestion, id: string) {
 }
 
 async function checkPractice() {
+  if (!practiceLoggedIn.value) {
+    errorMsg.value = t("loginRequired", isZh.value);
+    return;
+  }
   loading.value = true;
   errorMsg.value = "";
   try {
     practiceResult.value = await submitPractice(practiceSlug.value, {
       participant_key: ensureParticipantKey(),
-      nickname: nickname.value.trim() || "learner",
+      nickname: practiceUserName.value || nickname.value.trim() || "learner",
       answers: practiceAnswers.value,
     });
   } catch (e) {
@@ -253,6 +370,10 @@ async function checkPractice() {
     loading.value = false;
   }
 }
+
+const visibleTabs = computed(() =>
+  joinOnlyMode.value ? LEARN_TABS.filter((x) => x.key === "join") : LEARN_TABS
+);
 
 watch(activeTab, (tab) => {
   if (tab !== "join") stopPoll();
@@ -263,36 +384,45 @@ watch(activeTab, (tab) => {
   if (tab === "join" && joined.value) {
     pollTimer = setInterval(refreshLive, 2000);
   }
-  if (tab === "practice") loadCourses();
+  if (tab === "practice") {
+    loadCourses();
+    refreshAuth();
+  }
 });
 
-onMounted(() => {
+onMounted(async () => {
   participantKey.value = ensureParticipantKey();
   const params = new URLSearchParams(window.location.search);
   const code = params.get("code");
+  const mode = params.get("mode");
   if (code) {
     joinCode.value = code.toUpperCase();
     activeTab.value = "join";
   }
+  if (mode === "join" || code) {
+    joinOnlyMode.value = mode === "join" || window.matchMedia("(max-width: 768px)").matches;
+  }
+  await refreshAuth();
   loadCourses();
 });
 
 onUnmounted(() => {
   stopPoll();
   stopHostPoll();
+  if (cooldownTimer) clearInterval(cooldownTimer);
 });
 </script>
 
 <template>
-  <div class="learn-root">
+  <div class="learn-root" :class="{ 'join-focus': joinOnlyMode || activeTab === 'join' }">
     <header class="learn-header">
       <h1>{{ t("title", isZh) }}</h1>
       <p class="learn-sub">{{ t("subtitle", isZh) }}</p>
     </header>
 
-    <nav class="learn-tabs">
+    <nav v-if="visibleTabs.length > 1 || !joinOnlyMode" class="learn-tabs">
       <button
-        v-for="tab in LEARN_TABS"
+        v-for="tab in visibleTabs"
         :key="tab.key"
         type="button"
         class="learn-tab"
@@ -307,20 +437,28 @@ onUnmounted(() => {
 
     <!-- Join -->
     <section v-if="activeTab === 'join'" class="learn-panel">
-      <div v-if="!joined" class="learn-form">
+      <div v-if="!joined" class="learn-form join-form">
+        <p v-if="joinCode" class="join-banner">
+          {{ isZh ? "已识别会话，请填写昵称后加入" : "Session detected — enter a nickname to join" }}
+        </p>
         <label>
           {{ t("sessionCode", isZh) }}
-          <input v-model="joinCode" maxlength="8" autocomplete="off" />
+          <input v-model="joinCode" maxlength="8" autocomplete="off" class="input-lg" inputmode="text" />
         </label>
         <label>
           {{ t("nickname", isZh) }}
-          <input v-model="nickname" maxlength="40" autocomplete="nickname" />
+          <input v-model="nickname" maxlength="40" autocomplete="nickname" class="input-lg" />
         </label>
         <label>
           {{ t("displayName", isZh) }}
-          <input v-model="displayName" maxlength="80" autocomplete="name" />
+          <input v-model="displayName" maxlength="80" autocomplete="name" class="input-lg" />
         </label>
-        <button type="button" class="learn-btn primary" :disabled="loading || !joinCode || !nickname" @click="doJoin">
+        <button
+          type="button"
+          class="learn-btn primary btn-lg"
+          :disabled="loading || !joinCode || !nickname"
+          @click="doJoin"
+        >
           {{ t("join", isZh) }}
         </button>
       </div>
@@ -361,7 +499,7 @@ onUnmounted(() => {
           <button
             v-if="liveState.can_answer"
             type="button"
-            class="learn-btn primary"
+            class="learn-btn primary btn-lg"
             :disabled="answerBusy || selected.length === 0"
             @click="doSubmitAnswer"
           >
@@ -395,8 +533,22 @@ onUnmounted(() => {
       </div>
 
       <div v-else class="learn-host">
+        <div class="qr-panel">
+          <p class="qr-title">{{ t("scanToJoin", isZh) }}</p>
+          <img
+            v-if="joinQrUrl"
+            class="qr-img"
+            :src="joinQrUrl"
+            :alt="t('scanToJoin', isZh)"
+            width="280"
+            height="280"
+          />
+          <div class="code-under-qr">{{ hostCode }}</div>
+          <p class="hint">{{ t("orEnterCode", isZh) }}</p>
+          <p class="join-url-line">{{ joinUrl }}</p>
+        </div>
+
         <div class="learn-meta">
-          <span>{{ t("sessionCode", isZh) }}: <strong class="code-lg">{{ hostCode }}</strong></span>
           <span>{{ t("participants", isZh) }}: {{ hostView?.participant_count ?? 0 }}</span>
           <span>{{ t("answered", isZh) }}: {{ hostView?.answered ?? 0 }}</span>
           <span>{{ t("phase", isZh) }}: {{ hostView?.phase }}</span>
@@ -443,70 +595,117 @@ onUnmounted(() => {
       </div>
     </section>
 
-    <!-- Practice -->
+    <!-- Practice (login required) -->
     <section v-if="activeTab === 'practice'" class="learn-panel">
-      <div class="learn-form row">
+      <div v-if="!practiceLoggedIn" class="learn-form login-box">
+        <p class="login-required">{{ t("loginRequired", isZh) }}</p>
+        <p class="hint">{{ t("registerHint", isZh) }}</p>
         <label>
-          {{ isZh ? "课程" : "Course" }}
-          <select v-model="practiceSlug">
-            <option v-for="c in courses" :key="c.slug" :value="c.slug">
-              {{ isZh ? c.title_zh : c.title_en }}
-            </option>
-            <option v-if="!courses.length" value="usability-engineering">
-              {{ isZh ? "可用性工程基础" : "Usability Engineering Fundamentals" }}
-            </option>
-          </select>
+          {{ t("loginEmail", isZh) }}
+          <input v-model="loginEmail" type="email" autocomplete="email" :disabled="loginStep === 'code'" />
         </label>
-        <button type="button" class="learn-btn primary" :disabled="loading" @click="startPractice">
-          {{ t("practiceStart", isZh) }}
-        </button>
-      </div>
-
-      <div v-if="practiceQs.length" class="practice-list">
-        <article v-for="q in practiceQs" :key="q.qid" class="learn-question">
-          <div class="qid">{{ q.qid }}</div>
-          <h3>{{ promptOf(q) }}</h3>
-          <p v-if="q.qtype === 'multi'" class="hint">{{ t("multiHint", isZh) }}</p>
-          <div class="options">
-            <button
-              v-for="opt in q.options"
-              :key="opt.id"
-              type="button"
-              class="opt"
-              :class="{
-                selected: (practiceAnswers[q.qid] || []).includes(opt.id),
-                correct: practiceResult && practiceResult.detail.find((d) => d.qid === q.qid)?.expected.includes(opt.id),
-              }"
-              :disabled="!!practiceResult"
-              @click="setPracticeAnswer(q, opt.id)"
-            >
-              <span class="oid">{{ opt.id.toUpperCase() }}</span>
-              <span>{{ optText(opt) }}</span>
-            </button>
-          </div>
-          <p v-if="practiceResult" class="reveal-box">
-            {{
-              practiceResult.detail.find((d) => d.qid === q.qid)?.correct
-                ? t("correct", isZh)
-                : t("incorrect", isZh)
-            }}
-            — {{ explOf(practiceResult.detail.find((d) => d.qid === q.qid) || {}) }}
-          </p>
-        </article>
-
+        <label v-if="loginStep === 'code'">
+          {{ t("otpCode", isZh) }}
+          <input v-model="loginCode" maxlength="6" inputmode="numeric" autocomplete="one-time-code" />
+        </label>
         <button
-          v-if="!practiceResult"
+          v-if="loginStep === 'email'"
           type="button"
           class="learn-btn primary"
-          :disabled="loading"
-          @click="checkPractice"
+          :disabled="loginLoading || !loginEmail || cooldown > 0"
+          @click="doSendOtp"
         >
-          {{ t("practiceSubmit", isZh) }}
+          {{ cooldown > 0 ? `${cooldown}s` : t("sendCode", isZh) }}
         </button>
-        <p v-else class="score">
-          {{ t("score", isZh) }}: {{ practiceResult.score }} / {{ practiceResult.total }}
-        </p>
+        <template v-else>
+          <button
+            type="button"
+            class="learn-btn primary"
+            :disabled="loginLoading || loginCode.length !== 6"
+            @click="doVerifyOtp"
+          >
+            {{ t("verifyLogin", isZh) }}
+          </button>
+          <button
+            type="button"
+            class="learn-btn"
+            :disabled="cooldown > 0"
+            @click="loginStep = 'email'"
+          >
+            {{ isZh ? "返回修改邮箱" : "Back" }}
+          </button>
+        </template>
       </div>
+
+      <template v-else>
+        <div class="auth-bar">
+          <span>{{ t("signedInAs", isZh) }}: <strong>{{ practiceUserName }}</strong></span>
+          <button type="button" class="learn-btn sm" @click="doLogout">{{ t("logout", isZh) }}</button>
+        </div>
+
+        <div class="learn-form row">
+          <label>
+            {{ isZh ? "课程" : "Course" }}
+            <select v-model="practiceSlug">
+              <option v-for="c in courses" :key="c.slug" :value="c.slug">
+                {{ isZh ? c.title_zh : c.title_en }}
+              </option>
+              <option v-if="!courses.length" value="usability-engineering">
+                {{ isZh ? "可用性工程基础" : "Usability Engineering Fundamentals" }}
+              </option>
+            </select>
+          </label>
+          <button type="button" class="learn-btn primary" :disabled="loading" @click="startPractice">
+            {{ t("practiceStart", isZh) }}
+          </button>
+        </div>
+
+        <div v-if="practiceQs.length" class="practice-list">
+          <article v-for="q in practiceQs" :key="q.qid" class="learn-question">
+            <div class="qid">{{ q.qid }}</div>
+            <h3>{{ promptOf(q) }}</h3>
+            <p v-if="q.qtype === 'multi'" class="hint">{{ t("multiHint", isZh) }}</p>
+            <div class="options">
+              <button
+                v-for="opt in q.options"
+                :key="opt.id"
+                type="button"
+                class="opt"
+                :class="{
+                  selected: (practiceAnswers[q.qid] || []).includes(opt.id),
+                  correct: practiceResult && practiceResult.detail.find((d) => d.qid === q.qid)?.expected.includes(opt.id),
+                }"
+                :disabled="!!practiceResult"
+                @click="setPracticeAnswer(q, opt.id)"
+              >
+                <span class="oid">{{ opt.id.toUpperCase() }}</span>
+                <span>{{ optText(opt) }}</span>
+              </button>
+            </div>
+            <p v-if="practiceResult" class="reveal-box">
+              {{
+                practiceResult.detail.find((d) => d.qid === q.qid)?.correct
+                  ? t("correct", isZh)
+                  : t("incorrect", isZh)
+              }}
+              — {{ explOf(practiceResult.detail.find((d) => d.qid === q.qid) || {}) }}
+            </p>
+          </article>
+
+          <button
+            v-if="!practiceResult"
+            type="button"
+            class="learn-btn primary"
+            :disabled="loading"
+            @click="checkPractice"
+          >
+            {{ t("practiceSubmit", isZh) }}
+          </button>
+          <p v-else class="score">
+            {{ t("score", isZh) }}: {{ practiceResult.score }} / {{ practiceResult.total }}
+          </p>
+        </div>
+      </template>
     </section>
   </div>
 </template>
@@ -517,6 +716,9 @@ onUnmounted(() => {
   margin: 0 auto;
   padding: 1.25rem 1rem 3rem;
   font-family: "Source Sans 3", "Noto Sans SC", system-ui, sans-serif;
+}
+.learn-root.join-focus {
+  max-width: 560px;
 }
 .learn-header h1 {
   margin: 0;
@@ -565,12 +767,18 @@ onUnmounted(() => {
   font-size: 0.92rem;
 }
 .learn-form input,
-.learn-form select {
+.learn-form select,
+.input-lg {
   border: 1px solid var(--vp-c-divider);
   border-radius: 8px;
   padding: 0.55rem 0.7rem;
   background: var(--vp-c-bg);
   color: var(--vp-c-text-1);
+  font-size: 1rem;
+}
+.input-lg {
+  min-height: 48px;
+  font-size: 1.1rem;
 }
 .learn-btn {
   border: 1px solid var(--vp-c-divider);
@@ -593,6 +801,10 @@ onUnmounted(() => {
   padding: 0.3rem 0.55rem;
   font-size: 0.85rem;
 }
+.btn-lg {
+  min-height: 48px;
+  font-size: 1.05rem;
+}
 .learn-btn:disabled {
   opacity: 0.5;
   cursor: not-allowed;
@@ -604,9 +816,45 @@ onUnmounted(() => {
   margin-bottom: 0.75rem;
   font-size: 0.92rem;
 }
-.code-lg {
-  font-size: 1.35rem;
-  letter-spacing: 0.08em;
+.qr-panel {
+  text-align: center;
+  padding: 1.25rem 1rem;
+  margin-bottom: 1.25rem;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 14px;
+  background: var(--vp-c-bg-soft);
+}
+.qr-title {
+  margin: 0 0 0.75rem;
+  font-weight: 650;
+}
+.qr-img {
+  display: block;
+  margin: 0 auto;
+  width: min(280px, 70vw);
+  height: auto;
+  background: #fff;
+  border-radius: 8px;
+  padding: 8px;
+}
+.code-under-qr {
+  margin-top: 0.85rem;
+  font-size: clamp(1.8rem, 6vw, 2.4rem);
+  font-weight: 750;
+  letter-spacing: 0.18em;
+  font-variant-numeric: tabular-nums;
+}
+.join-url-line {
+  font-size: 0.75rem;
+  color: var(--vp-c-text-3);
+  word-break: break-all;
+  margin: 0.35rem 0 0;
+}
+.join-banner {
+  padding: 0.65rem 0.8rem;
+  border-radius: 8px;
+  background: var(--vp-c-brand-soft);
+  margin: 0;
 }
 .learn-waiting {
   padding: 2rem 1rem;
@@ -634,10 +882,11 @@ onUnmounted(() => {
   text-align: left;
   border: 1px solid var(--vp-c-divider);
   border-radius: 10px;
-  padding: 0.7rem 0.8rem;
+  padding: 0.85rem 0.9rem;
   background: var(--vp-c-bg);
   color: var(--vp-c-text-1);
   cursor: pointer;
+  min-height: 48px;
 }
 .opt.selected {
   border-color: var(--vp-c-brand-1);
@@ -683,9 +932,36 @@ onUnmounted(() => {
 .status-ok {
   color: #027a48;
 }
+.login-box {
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 12px;
+  padding: 1rem;
+}
+.login-required {
+  margin: 0;
+  font-weight: 650;
+}
+.auth-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 1rem;
+  flex-wrap: wrap;
+}
 @media (max-width: 640px) {
   .learn-form.row {
     grid-template-columns: 1fr;
+  }
+  .learn-header h1 {
+    font-size: 1.4rem;
+  }
+  .learn-tabs {
+    position: sticky;
+    top: 0;
+    z-index: 5;
+    background: var(--vp-c-bg);
+    padding: 0.35rem 0;
   }
 }
 </style>

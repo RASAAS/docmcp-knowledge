@@ -2,9 +2,8 @@ name = "reguverse-learn-api"
 main = "src/index.ts"
 compatibility_date = "2024-09-23"
 
-routes = [
-  { pattern = "learn-api.team-ra.org", custom_domain = true }
-]
+# Custom domain attached via CF Workers Domains API (learn-api.team-ra.org).
+# Do not use routes[] here — account API token lacks zone Workers Routes permission.
 
 [vars]
 ALLOWED_ORIGIN = "https://docs.team-ra.org"

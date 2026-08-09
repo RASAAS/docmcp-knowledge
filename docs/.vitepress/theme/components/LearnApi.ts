@@ -233,6 +233,38 @@ export function ensureParticipantKey(): string {
   return key;
 }
 
+/** Join URL for QR / clipboard — opens mobile-friendly Learn join tab. */
+export function buildJoinUrl(code: string, isZh: boolean): string {
+  const origin =
+    typeof window !== "undefined" ? window.location.origin : "https://docs.team-ra.org";
+  const lang = isZh ? "/zh" : "/en";
+  return `${origin}${lang}/learn/?code=${encodeURIComponent(code.toUpperCase())}&mode=join`;
+}
+
+/** QR image URL (no secrets; encodes join URL only). */
+export function buildJoinQrUrl(joinUrl: string, size = 280): string {
+  return `https://api.qrserver.com/v1/create-qr-code/?size=${size}x${size}&margin=10&data=${encodeURIComponent(joinUrl)}`;
+}
+
+export async function verifyLearnAuth(): Promise<{
+  verified: boolean;
+  display_name?: string;
+  user_id?: string;
+  role?: string;
+}> {
+  const token = getHubToken();
+  if (!token) return { verified: false };
+  try {
+    const resp = await fetch(`${LEARN_API_URL}/api/auth/verify`, {
+      headers: { Authorization: `Bearer ${token}` },
+    });
+    if (!resp.ok) return { verified: false };
+    return resp.json();
+  } catch {
+    return { verified: false };
+  }
+}
+
 export function saveHostSession(code: string, hostToken: string): void {
   if (typeof window === "undefined") return;
   localStorage.setItem("reguverse_learn_host", JSON.stringify({ code, host_token: hostToken }));
