@@ -9,10 +9,17 @@ import {
   hostOverview,
   joinSession,
   linkParticipantAccount,
+  listMyHostSessions,
+  reclaimHostSession,
   submitAnswer,
 } from "./live";
 import { submitPractice } from "./practice";
-import { listWorkshopBoards, upsertWorkshopBoard } from "./workshop";
+import {
+  createWorkshopGroup,
+  deleteWorkshopGroup,
+  listWorkshopGroups,
+  updateWorkshopGroup,
+} from "./workshop";
 
 export default {
   async fetch(request: Request, env: Env): Promise<Response> {
@@ -63,13 +70,11 @@ async function route(
   }
 
   if (path === "/api/courses" && method === "GET") {
-    // Public metadata only (titles/counts) — no question stems/options
     return listCourses(env);
   }
 
   const courseMatch = path.match(/^\/api\/courses\/([a-z0-9-]+)$/);
   if (courseMatch && method === "GET") {
-    // Question content requires DocMCP/Hub login (prevents preview of quiz bank)
     if (!user) return error("LOGIN_REQUIRED", 401, env);
     const includeAnswers = new URL(request.url).searchParams.get("answers") === "1";
     if (includeAnswers && !["admin", "super_admin"].includes(user.role)) {
@@ -80,7 +85,6 @@ async function route(
 
   const practiceMatch = path.match(/^\/api\/courses\/([a-z0-9-]+)\/practice$/);
   if (practiceMatch) {
-    // Self-paced practice: registered DocMCP users only (Hub OTP token)
     if (!user) return error("LOGIN_REQUIRED", 401, env);
     if (method === "GET") return getPracticeQuestions(practiceMatch[1], env);
     if (method === "POST") return submitPractice(practiceMatch[1], request, env, user);
@@ -88,6 +92,15 @@ async function route(
 
   if (path === "/api/live/sessions" && method === "POST") {
     return createSession(request, env, user);
+  }
+
+  if (path === "/api/live/host/sessions" && method === "GET") {
+    return listMyHostSessions(env, user);
+  }
+
+  const reclaimMatch = path.match(/^\/api\/live\/sessions\/([A-Z0-9]+)\/reclaim$/i);
+  if (reclaimMatch && method === "POST") {
+    return reclaimHostSession(reclaimMatch[1], env, user);
   }
 
   const joinMatch = path.match(/^\/api\/live\/sessions\/([A-Z0-9]+)\/join$/i);
@@ -123,14 +136,33 @@ async function route(
     return hostOverview(hostGet[1], request, env);
   }
 
+  // Blank user-designed workshop (no built-in case templates)
   const workshopList = path.match(/^\/api\/live\/sessions\/([A-Z0-9]+)\/workshop$/i);
   if (workshopList && method === "GET") {
-    return listWorkshopBoards(workshopList[1], env);
+    return listWorkshopGroups(workshopList[1], env);
+  }
+  if (workshopList && method === "POST") {
+    return createWorkshopGroup(workshopList[1], request, env, user);
   }
 
-  const workshopPut = path.match(/^\/api\/live\/sessions\/([A-Z0-9]+)\/workshop\/([1-4])$/i);
-  if (workshopPut && method === "PUT") {
-    return upsertWorkshopBoard(workshopPut[1], parseInt(workshopPut[2], 10), request, env);
+  const workshopGroupMatch = path.match(
+    /^\/api\/live\/sessions\/([A-Z0-9]+)\/workshop\/groups\/(\d+)$/i
+  );
+  if (workshopGroupMatch && method === "PUT") {
+    return updateWorkshopGroup(
+      workshopGroupMatch[1],
+      parseInt(workshopGroupMatch[2], 10),
+      request,
+      env
+    );
+  }
+  if (workshopGroupMatch && method === "DELETE") {
+    return deleteWorkshopGroup(
+      workshopGroupMatch[1],
+      parseInt(workshopGroupMatch[2], 10),
+      request,
+      env
+    );
   }
 
   return error("Not found", 404, env);

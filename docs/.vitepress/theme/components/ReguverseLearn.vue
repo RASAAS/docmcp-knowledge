@@ -8,7 +8,6 @@ import {
   ensureParticipantKey,
   getLiveState,
   getPractice,
-  getWorkshop,
   hostEnd,
   hostGet,
   hostLock,
@@ -17,19 +16,21 @@ import {
   hostWaiting,
   joinLiveSession,
   listCourses,
+  listMyHostSessions,
   loadHostSession,
+  reclaimHostSession,
   saveHostSession,
-  saveWorkshop,
   submitLiveAnswer,
   submitPractice,
   verifyLearnAuth,
   type CourseSummary,
   type HostView,
   type LiveQuestion,
-  type WorkshopGroup,
+  type MyHostSession,
 } from "./LearnApi";
 import { getDisplayName, isLoggedIn, logout as hubLogout } from "./HubApi";
 import HubOtpLogin from "./HubOtpLogin.vue";
+import LearnWorkshop from "./LearnWorkshop.vue";
 import { LEARN_TABS, learnLabel, t, type LearnTabKey } from "./LearnNavData";
 
 const { lang } = useData();
@@ -55,41 +56,18 @@ let pollTimer: ReturnType<typeof setInterval> | null = null;
 const hostCode = ref("");
 const hostToken = ref("");
 const hostTitle = ref("");
+const hostCourseSlug = ref("");
 const hostCreateSecret = ref("");
 const hostView = ref<HostView | null>(null);
 const hostQuestionList = ref<NonNullable<HostView["question_list"]>>([]);
 const hostActionBusy = ref(false);
+const myHostSessions = ref<MyHostSession[]>([]);
 const copied = ref(false);
 let hostPoll: ReturnType<typeof setInterval> | null = null;
 let hostListLoaded = false;
 
-// --- Workshop ---
+// --- Workshop session code (shared with join/host) ---
 const workshopCode = ref("");
-const workshopGroup = ref(1);
-const workshopGroups = ref<WorkshopGroup[]>([]);
-const workshopDraft = ref({
-  task1: {
-    users: "",
-    environment: "",
-    intended_use: "",
-    pof_candidates: "",
-    foreseeable_misuse: "",
-  },
-  task2: { use_errors: "", summative_candidates: "", primary_hrus: "" },
-  task3: {
-    inherent_safety: "",
-    protective: "",
-    information_for_safety: "",
-    needs_ue_eval: "",
-  },
-  task4: {
-    formative_needed: "",
-    summative_needed: "",
-    success_criteria: "",
-    failure_reentry: "",
-  },
-});
-let workshopPoll: ReturnType<typeof setInterval> | null = null;
 
 /** Session code used for audience QR (Join tab). Prefer join form code, fallback host code. */
 const qrSessionCode = computed(() => {
@@ -130,10 +108,11 @@ watch(
 // --- Practice + login (shared Hub OTP dialog) ---
 const practiceLoggedIn = ref(false);
 const practiceUserName = ref("");
+const practiceUserId = ref("");
 const showLoginDialog = ref(false);
 
 const courses = ref<CourseSummary[]>([]);
-const practiceSlug = ref("usability-engineering");
+const practiceSlug = ref("");
 const practiceQs = ref<LiveQuestion[]>([]);
 const practiceAnswers = ref<Record<string, string[]>>({});
 const practiceResult = ref<Awaited<ReturnType<typeof submitPractice>> | null>(null);
@@ -160,12 +139,6 @@ function stopHostPoll() {
     hostPoll = null;
   }
 }
-function stopWorkshopPoll() {
-  if (workshopPoll) {
-    clearInterval(workshopPoll);
-    workshopPoll = null;
-  }
-}
 
 function applyHostView(view: HostView, opts?: { keepList?: boolean }) {
   const prevList = hostQuestionList.value;
@@ -182,14 +155,47 @@ async function refreshAuth() {
   if (!isLoggedIn()) {
     practiceLoggedIn.value = false;
     practiceUserName.value = "";
+    practiceUserId.value = "";
+    myHostSessions.value = [];
     return;
   }
   const v = await verifyLearnAuth();
   practiceLoggedIn.value = v.verified;
   practiceUserName.value = v.display_name || getDisplayName() || "";
+  practiceUserId.value = v.user_id || "";
   if (!v.verified) {
     hubLogout();
+    practiceUserId.value = "";
+    myHostSessions.value = [];
+    return;
   }
+  await refreshMyHostSessions();
+}
+
+async function refreshMyHostSessions() {
+  if (!practiceLoggedIn.value) {
+    myHostSessions.value = [];
+    return;
+  }
+  try {
+    const res = await listMyHostSessions();
+    myHostSessions.value = res.items || [];
+  } catch {
+    myHostSessions.value = [];
+  }
+}
+
+function applyHostControl(code: string, token: string, courseSlug?: string) {
+  hostCode.value = code;
+  joinCode.value = code;
+  workshopCode.value = code;
+  hostToken.value = token;
+  if (courseSlug) hostCourseSlug.value = courseSlug;
+  hostListLoaded = false;
+  if (practiceUserId.value) saveHostSession(practiceUserId.value, code, token);
+  refreshHost({ full: true });
+  stopHostPoll();
+  hostPoll = setInterval(() => refreshHost({ full: false }), 4000);
 }
 
 async function refreshLive() {
@@ -286,23 +292,21 @@ async function doCreateHost() {
     requireLogin("hostLoginRequired");
     return;
   }
+  const slug = hostCourseSlug.value.trim() || practiceSlug.value.trim();
+  if (!slug) {
+    errorMsg.value = t("selectCourse", isZh.value);
+    return;
+  }
   errorMsg.value = "";
   loading.value = true;
   try {
     const res = await createLiveSession({
-      course_slug: "usability-engineering",
+      course_slug: slug,
       title: hostTitle.value.trim(),
       create_secret: hostCreateSecret.value.trim() || undefined,
     });
-    hostCode.value = res.code;
-    joinCode.value = res.code;
-    workshopCode.value = res.code;
-    hostToken.value = res.host_token;
-    hostListLoaded = false;
-    saveHostSession(res.code, res.host_token);
-    await refreshHost({ full: true });
-    stopHostPoll();
-    hostPoll = setInterval(() => refreshHost({ full: false }), 4000);
+    applyHostControl(res.code, res.host_token, res.course_slug);
+    await refreshMyHostSessions();
     activeTab.value = "join";
     joinOnlyMode.value = false;
   } catch (e) {
@@ -318,21 +322,57 @@ async function doCreateHost() {
   }
 }
 
-function restoreHost() {
-  if (!practiceLoggedIn.value) {
+async function restoreHost() {
+  if (!practiceLoggedIn.value || !practiceUserId.value) {
     requireLogin("hostLoginRequired");
     return;
   }
-  const saved = loadHostSession();
-  if (!saved) return;
-  hostCode.value = saved.code;
-  joinCode.value = saved.code;
-  workshopCode.value = saved.code;
-  hostToken.value = saved.host_token;
-  hostListLoaded = false;
-  refreshHost({ full: true });
-  stopHostPoll();
-  hostPoll = setInterval(() => refreshHost({ full: false }), 4000);
+  errorMsg.value = "";
+  loading.value = true;
+  try {
+    // Prefer this account's local cache, then server-owned reclaim (isolates users)
+    const saved = loadHostSession(practiceUserId.value);
+    if (saved) {
+      try {
+        await hostGet(saved.code, saved.host_token, { light: true });
+        applyHostControl(saved.code, saved.host_token);
+        return;
+      } catch {
+        // token stale or not owned — fall through to reclaim
+      }
+    }
+    await refreshMyHostSessions();
+    const mine = myHostSessions.value[0];
+    if (!mine) {
+      errorMsg.value = t("noMySessions", isZh.value);
+      return;
+    }
+    await reclaimAndApply(mine.code);
+  } catch (e) {
+    errorMsg.value = e instanceof Error ? e.message : t("error", isZh.value);
+  } finally {
+    loading.value = false;
+  }
+}
+
+async function reclaimAndApply(code: string) {
+  errorMsg.value = "";
+  loading.value = true;
+  try {
+    const res = await reclaimHostSession(code);
+    applyHostControl(res.code, res.host_token, res.course_slug);
+    await refreshMyHostSessions();
+  } catch (e) {
+    const msg = e instanceof Error ? e.message : t("error", isZh.value);
+    errorMsg.value =
+      msg === "NOT_YOUR_SESSION"
+        ? isZh.value
+          ? "该场次不属于当前登录账号"
+          : "That session does not belong to this account"
+        : msg;
+  } finally {
+    loading.value = false;
+  }
 }
 
 function goJoinShowQr() {
@@ -369,58 +409,6 @@ async function runHost(action: "push" | "lock" | "reveal" | "waiting" | "end", q
   }
 }
 
-function loadDraftFromGroup(g: WorkshopGroup | undefined) {
-  if (!g) return;
-  workshopDraft.value = {
-    task1: { ...workshopDraft.value.task1, ...(g.task1 as object) },
-    task2: { ...workshopDraft.value.task2, ...(g.task2 as object) },
-    task3: { ...workshopDraft.value.task3, ...(g.task3 as object) },
-    task4: { ...workshopDraft.value.task4, ...(g.task4 as object) },
-  } as typeof workshopDraft.value;
-}
-
-async function refreshWorkshop() {
-  const code = (workshopCode.value || joinCode.value || hostCode.value || "").trim().toUpperCase();
-  if (!code) return;
-  workshopCode.value = code;
-  try {
-    const res = await getWorkshop(code);
-    workshopGroups.value = res.groups;
-    const mine = res.groups.find((g) => g.group_no === workshopGroup.value);
-    loadDraftFromGroup(mine);
-  } catch (e) {
-    errorMsg.value = e instanceof Error ? e.message : t("error", isZh.value);
-  }
-}
-
-async function saveWorkshopBoard() {
-  const code = workshopCode.value.trim().toUpperCase();
-  if (!code) {
-    errorMsg.value = isZh.value ? "请先填写会话码或加入现场" : "Enter session code or join live first";
-    return;
-  }
-  loading.value = true;
-  errorMsg.value = "";
-  try {
-    const res = await saveWorkshop(code, workshopGroup.value, {
-      ...workshopDraft.value,
-      updated_by: nickname.value || practiceUserName.value || `G${workshopGroup.value}`,
-      participant_key: participantKey.value || ensureParticipantKey(),
-      host_token: hostToken.value || undefined,
-    });
-    workshopGroups.value = res.groups;
-  } catch (e) {
-    errorMsg.value = e instanceof Error ? e.message : t("error", isZh.value);
-  } finally {
-    loading.value = false;
-  }
-}
-
-watch(workshopGroup, () => {
-  const mine = workshopGroups.value.find((g) => g.group_no === workshopGroup.value);
-  loadDraftFromGroup(mine);
-});
-
 async function copyJoinLink() {
   const url =
     audienceJoinUrl.value ||
@@ -435,8 +423,10 @@ function doLogout() {
   hubLogout();
   practiceLoggedIn.value = false;
   practiceUserName.value = "";
+  practiceUserId.value = "";
   practiceQs.value = [];
   practiceResult.value = null;
+  myHostSessions.value = [];
   showLoginDialog.value = false;
 }
 
@@ -444,6 +434,12 @@ async function loadCourses() {
   try {
     const res = await listCourses();
     courses.value = res.items || [];
+    if (!practiceSlug.value && courses.value.length) {
+      practiceSlug.value = courses.value[0].slug;
+    }
+    if (!hostCourseSlug.value && courses.value.length) {
+      hostCourseSlug.value = courses.value[0].slug;
+    }
   } catch {
     courses.value = [];
   }
@@ -453,6 +449,10 @@ async function startPractice() {
   errorMsg.value = "";
   if (!practiceLoggedIn.value) {
     requireLogin("loginRequired");
+    return;
+  }
+  if (!practiceSlug.value) {
+    errorMsg.value = t("selectCourse", isZh.value);
     return;
   }
   practiceResult.value = null;
@@ -511,9 +511,9 @@ const visibleTabs = computed(() =>
 watch(activeTab, (tab) => {
   if (tab !== "join") stopPoll();
   if (tab !== "host") stopHostPoll();
-  if (tab !== "workshop") stopWorkshopPoll();
   if (tab === "host") {
     refreshAuth();
+    loadCourses();
     if (hostCode.value && hostToken.value) {
       refreshHost({ full: !hostListLoaded });
       hostPoll = setInterval(() => refreshHost({ full: false }), 4000);
@@ -524,8 +524,6 @@ watch(activeTab, (tab) => {
   }
   if (tab === "workshop") {
     if (!workshopCode.value) workshopCode.value = joinCode.value || hostCode.value || "";
-    refreshWorkshop();
-    workshopPoll = setInterval(refreshWorkshop, 5000);
   }
   if (tab === "practice") {
     loadCourses();
@@ -546,14 +544,13 @@ onMounted(async () => {
   if (mode === "join" || code) {
     joinOnlyMode.value = mode === "join" || window.matchMedia("(max-width: 768px)").matches;
   }
+  await loadCourses();
   await refreshAuth();
-  loadCourses();
 });
 
 onUnmounted(() => {
   stopPoll();
   stopHostPoll();
-  stopWorkshopPoll();
 });
 </script>
 
@@ -716,6 +713,15 @@ onUnmounted(() => {
 
         <div v-if="!hostToken" class="learn-form">
           <label>
+            {{ t("course", isZh) }}
+            <select v-model="hostCourseSlug">
+              <option disabled value="">{{ t("selectCourse", isZh) }}</option>
+              <option v-for="c in courses" :key="'h-' + c.slug" :value="c.slug">
+                {{ (isZh ? c.title_zh : c.title_en) + (c.question_count != null ? ` (${c.question_count})` : "") }}
+              </option>
+            </select>
+          </label>
+          <label>
             {{ isZh ? "场次标题（可选）" : "Session title (optional)" }}
             <input v-model="hostTitle" maxlength="120" />
           </label>
@@ -723,10 +729,31 @@ onUnmounted(() => {
             {{ isZh ? "创建密钥（若已配置）" : "Create secret (if configured)" }}
             <input v-model="hostCreateSecret" type="password" autocomplete="off" />
           </label>
-          <button type="button" class="learn-btn primary" :disabled="loading" @click="doCreateHost">
+          <button
+            type="button"
+            class="learn-btn primary"
+            :disabled="loading || !hostCourseSlug"
+            @click="doCreateHost"
+          >
             {{ t("create", isZh) }}
           </button>
-          <button type="button" class="learn-btn" @click="restoreHost">{{ t("restoreHost", isZh) }}</button>
+          <button type="button" class="learn-btn" :disabled="loading" @click="restoreHost">
+            {{ t("restoreHost", isZh) }}
+          </button>
+
+          <div v-if="myHostSessions.length" class="my-sessions">
+            <p class="hint"><strong>{{ t("mySessions", isZh) }}</strong></p>
+            <div v-for="s in myHostSessions" :key="s.code" class="my-session-row">
+              <span>
+                <strong class="code-lg">{{ s.code }}</strong>
+                — {{ isZh ? s.course_title_zh : s.course_title_en }}
+                <span class="hint">({{ s.phase }})</span>
+              </span>
+              <button type="button" class="learn-btn sm" :disabled="loading" @click="reclaimAndApply(s.code)">
+                {{ t("reclaim", isZh) }}
+              </button>
+            </div>
+          </div>
         </div>
 
         <div v-else class="learn-host">
@@ -800,71 +827,16 @@ onUnmounted(() => {
       </template>
     </section>
 
-    <!-- Workshop -->
+    <!-- Workshop (blank user-designed boards) -->
     <section v-if="activeTab === 'workshop'" class="learn-panel">
-      <h2 class="ws-title">{{ t("workshopTitle", isZh) }}</h2>
-      <p class="hint">{{ t("workshopHint", isZh) }}</p>
-      <div class="learn-form row">
-        <label>
-          {{ t("sessionCode", isZh) }}
-          <input v-model="workshopCode" maxlength="8" class="input-lg" />
-        </label>
-        <label>
-          {{ t("workshopGroup", isZh) }}
-          <select v-model.number="workshopGroup">
-            <option :value="1">1</option>
-            <option :value="2">2</option>
-            <option :value="3">3</option>
-            <option :value="4">4</option>
-          </select>
-        </label>
-        <button type="button" class="learn-btn" @click="refreshWorkshop">{{ t("workshopRefresh", isZh) }}</button>
-        <button type="button" class="learn-btn primary" :disabled="loading" @click="saveWorkshopBoard">
-          {{ t("workshopSave", isZh) }}
-        </button>
-      </div>
-
-      <div class="ws-grid">
-        <fieldset class="ws-card">
-          <legend>{{ isZh ? "任务1 迷你使用规范" : "Task 1 Use specification" }}</legend>
-          <label>Users / 用户<textarea v-model="workshopDraft.task1.users" rows="2" /></label>
-          <label>Environment / 环境<textarea v-model="workshopDraft.task1.environment" rows="2" /></label>
-          <label>Intended use / 预期用途<textarea v-model="workshopDraft.task1.intended_use" rows="2" /></label>
-          <label>POF candidates / 主要操作功能候选<textarea v-model="workshopDraft.task1.pof_candidates" rows="2" /></label>
-          <label>Foreseeable misuse / 可预见误用<textarea v-model="workshopDraft.task1.foreseeable_misuse" rows="2" /></label>
-        </fieldset>
-        <fieldset class="ws-card">
-          <legend>{{ isZh ? "任务2 用错与 HRUS" : "Task 2 Use errors & HRUS" }}</legend>
-          <label>Use errors / 潜在用错 (≥5)<textarea v-model="workshopDraft.task2.use_errors" rows="3" /></label>
-          <label>Summative candidates<textarea v-model="workshopDraft.task2.summative_candidates" rows="2" /></label>
-          <label>Primary HRUS<textarea v-model="workshopDraft.task2.primary_hrus" rows="3" /></label>
-        </fieldset>
-        <fieldset class="ws-card">
-          <legend>{{ isZh ? "任务3 控制措施草图" : "Task 3 Controls" }}</legend>
-          <label>Inherent safety / 本质安全<textarea v-model="workshopDraft.task3.inherent_safety" rows="2" /></label>
-          <label>Protective / 防护<textarea v-model="workshopDraft.task3.protective" rows="2" /></label>
-          <label>Information for safety / 安全信息<textarea v-model="workshopDraft.task3.information_for_safety" rows="2" /></label>
-          <label>Needs UE evaluation?<textarea v-model="workshopDraft.task3.needs_ue_eval" rows="2" /></label>
-        </fieldset>
-        <fieldset class="ws-card">
-          <legend>{{ isZh ? "任务4 评价策略" : "Task 4 Evaluation strategy" }}</legend>
-          <label>Formative needed?<textarea v-model="workshopDraft.task4.formative_needed" rows="2" /></label>
-          <label>Summative needed?<textarea v-model="workshopDraft.task4.summative_needed" rows="2" /></label>
-          <label>Success criteria<textarea v-model="workshopDraft.task4.success_criteria" rows="2" /></label>
-          <label>Failure re-entry step<textarea v-model="workshopDraft.task4.failure_reentry" rows="2" /></label>
-        </fieldset>
-      </div>
-
-      <div class="ws-others">
-        <h3>{{ isZh ? "各组看板（互评）" : "All groups (peer review)" }}</h3>
-        <article v-for="g in workshopGroups" :key="g.group_no" class="ws-peer">
-          <header>
-            <strong>{{ t("workshopGroup", isZh) }} {{ g.group_no }}</strong>
-            <span class="hint">{{ g.updated_by || "—" }} · {{ g.updated_at || "" }}</span>
-          </header>
-          <pre class="ws-pre">{{ JSON.stringify({ t1: g.task1, t2: g.task2, t3: g.task3, t4: g.task4 }, null, 2) }}</pre>
-        </article>
-      </div>
+      <LearnWorkshop
+        :is-zh="isZh"
+        :session-code="workshopCode || joinCode || hostCode"
+        :host-token="hostToken"
+        :editor-name="nickname || practiceUserName || displayName"
+        :participant-key="participantKey || ensureParticipantKey()"
+        @error="(m) => (errorMsg = m)"
+      />
     </section>
 
     <!-- Practice (login required) -->
@@ -887,11 +859,9 @@ onUnmounted(() => {
           <label>
             {{ isZh ? "课程" : "Course" }}
             <select v-model="practiceSlug">
-              <option v-for="c in courses" :key="c.slug" :value="c.slug">
-                {{ isZh ? c.title_zh : c.title_en }}
-              </option>
-              <option v-if="!courses.length" value="usability-engineering">
-                {{ isZh ? "可用性工程基础" : "Usability Engineering Fundamentals" }}
+              <option disabled value="">{{ t("selectCourse", isZh) }}</option>
+              <option v-for="c in courses" :key="'p-' + c.slug" :value="c.slug">
+                {{ (isZh ? c.title_zh : c.title_en) + (c.question_count != null ? ` (${c.question_count})` : "") }}
               </option>
             </select>
           </label>
@@ -1218,65 +1188,20 @@ onUnmounted(() => {
   margin-bottom: 1rem;
   flex-wrap: wrap;
 }
-.ws-title { margin: 0 0 0.35rem; font-size: 1.25rem; }
-.ws-grid {
+.my-sessions {
+  margin-top: 0.5rem;
   display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 0.75rem;
-  margin: 1rem 0;
+  gap: 0.45rem;
 }
-.ws-card {
-  border: 1px solid var(--vp-c-divider);
-  border-radius: 10px;
-  padding: 0.65rem 0.75rem 0.85rem;
-  margin: 0;
-}
-.ws-card legend { padding: 0 0.35rem; font-weight: 650; }
-.ws-card label {
-  display: flex;
-  flex-direction: column;
-  gap: 0.25rem;
-  font-size: 0.85rem;
-  margin-top: 0.45rem;
-}
-.ws-card textarea {
-  width: 100%;
-  border: 1px solid var(--vp-c-divider);
-  border-radius: 8px;
-  padding: 0.45rem 0.55rem;
-  font: inherit;
-  background: var(--vp-c-bg);
-  color: var(--vp-c-text-1);
-  resize: vertical;
-}
-.ws-others { margin-top: 1.25rem; }
-.ws-peer {
-  border: 1px solid var(--vp-c-divider);
-  border-radius: 10px;
-  padding: 0.65rem 0.75rem;
-  margin-bottom: 0.65rem;
-}
-.ws-peer header {
+.my-session-row {
   display: flex;
   justify-content: space-between;
+  align-items: center;
   gap: 0.5rem;
   flex-wrap: wrap;
-  margin-bottom: 0.35rem;
-}
-.ws-pre {
-  margin: 0;
-  white-space: pre-wrap;
-  word-break: break-word;
-  font-size: 0.78rem;
-  line-height: 1.35;
-  max-height: 220px;
-  overflow: auto;
-  background: var(--vp-c-bg-soft);
-  padding: 0.5rem;
+  padding: 0.45rem 0.55rem;
+  border: 1px solid var(--vp-c-divider);
   border-radius: 8px;
-}
-@media (max-width: 900px) {
-  .ws-grid { grid-template-columns: 1fr; }
 }
 @media (max-width: 640px) {
   .learn-form.row {

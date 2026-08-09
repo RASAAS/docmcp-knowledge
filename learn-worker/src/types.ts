@@ -42,6 +42,7 @@ export interface LiveSessionRow {
   code: string;
   course_id: number;
   host_token_hash: string;
+  host_user_id: string | null;
   status: "lobby" | "active" | "ended";
   current_question_id: number | null;
   phase: "waiting" | "open" | "locked" | "reveal";

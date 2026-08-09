@@ -20,8 +20,8 @@ export function learnLabel(item: { labelEn: string; labelZh: string }, isZh: boo
 export const LEARN_I18N = {
   title: { en: "Reguverse Learn", zh: "Reguverse Learn" },
   subtitle: {
-    en: "Live speaker-controlled quizzes and self-paced practice.",
-    zh: "演讲者控题的现场互动答题，以及随时自学练习。",
+    en: "Live speaker-controlled quizzes, workshops, and self-paced practice across courses.",
+    zh: "跨课程的演讲者控题互动答题、工作坊协作与自学练习。",
   },
   sessionCode: { en: "Session code", zh: "会话码" },
   nickname: { en: "Nickname", zh: "昵称" },
@@ -41,8 +41,8 @@ export const LEARN_I18N = {
   participants: { en: "Participants", zh: "学员数" },
   answered: { en: "Answered", zh: "已作答" },
   hostTokenHint: {
-    en: "Save the host token — it is shown only once when creating a session.",
-    zh: "请保存主持令牌（仅在创建场次时显示一次）。",
+    en: "Your host control is tied to this DocMCP account. Others cannot restore your session.",
+    zh: "主持控制权绑定当前 DocMCP 账号，其他用户无法恢复你的场次。",
   },
   practiceStart: { en: "Start practice", zh: "开始练习" },
   practiceSubmit: { en: "Check answers", zh: "核对答案" },
@@ -52,7 +52,15 @@ export const LEARN_I18N = {
   copyLink: { en: "Copy join link", zh: "复制加入链接" },
   copied: { en: "Copied", zh: "已复制" },
   phase: { en: "Phase", zh: "阶段" },
-  restoreHost: { en: "Restore last host session", zh: "恢复上次主持场次" },
+  restoreHost: { en: "Restore my last session", zh: "恢复我的上次场次" },
+  mySessions: { en: "My active sessions", zh: "我的进行中场次" },
+  reclaim: { en: "Resume", zh: "继续主持" },
+  noMySessions: {
+    en: "No active sessions for this account.",
+    zh: "当前账号没有进行中的场次。",
+  },
+  course: { en: "Course", zh: "课程" },
+  selectCourse: { en: "Select a course", zh: "选择课程" },
   correct: { en: "Correct", zh: "正确" },
   incorrect: { en: "Incorrect", zh: "不正确" },
   scanToJoin: {
@@ -84,16 +92,49 @@ export const LEARN_I18N = {
     zh: "主持场次需先登录 DocMCP 账号。",
   },
   workshopTitle: {
-    en: "i-Check workshop boards (4 groups)",
-    zh: "i-Check 工作坊看板（4 组）",
+    en: "Workshop boards",
+    zh: "工作坊看板",
   },
   workshopHint: {
-    en: "Each group’s representative fills the board. Other groups review and comment aloud.",
-    zh: "每组由代表填写看板；其他组口述指出问题。需先加入现场会话。",
+    en: "Host creates blank groups. Each group designs its own sections and content — no built-in case.",
+    zh: "由主持人创建空白小组；各组自行设计栏目与内容，不内置任何案例模板。",
   },
-  workshopSave: { en: "Save group board", zh: "保存本组看板" },
+  workshopSave: { en: "Save group", zh: "保存本组" },
   workshopRefresh: { en: "Refresh boards", zh: "刷新各组看板" },
   workshopGroup: { en: "Group", zh: "组别" },
+  workshopAddGroup: { en: "Add group", zh: "新建小组" },
+  workshopDeleteGroup: { en: "Delete group", zh: "删除小组" },
+  workshopGroupName: { en: "Group name", zh: "小组名称" },
+  workshopGroupNamePh: { en: "e.g. Team A", zh: "例如：第一组" },
+  workshopAddSection: { en: "Add section", zh: "添加栏目" },
+  workshopRemoveSection: { en: "Remove", zh: "删除" },
+  workshopSection: { en: "Section", zh: "栏目" },
+  workshopSectionTitlePh: { en: "Section title", zh: "栏目标题" },
+  workshopSectionBodyPh: { en: "Write this group’s content…", zh: "填写本组内容…" },
+  workshopEmpty: {
+    en: "No groups yet. The host should create groups first.",
+    zh: "尚无小组。请主持人先创建小组。",
+  },
+  workshopHostOnly: {
+    en: "Only the host can create or delete groups.",
+    zh: "仅主持人可创建或删除小组。",
+  },
+  workshopMemberHint: {
+    en: "Joined participants can edit the selected group’s content.",
+    zh: "已加入的学员可编辑所选小组的内容。",
+  },
+  workshopNeedCode: {
+    en: "Enter a session code or join a live session first.",
+    zh: "请先填写会话码或加入现场会话。",
+  },
+  workshopPeerTitle: {
+    en: "All groups (peer review)",
+    zh: "各组看板（互评）",
+  },
+  workshopNoContent: {
+    en: "No content yet.",
+    zh: "暂无内容。",
+  },
   hostBusy: { en: "Working…", zh: "处理中…" },
   logout: { en: "Sign out", zh: "退出登录" },
   signedInAs: { en: "Signed in as", zh: "已登录" },
@@ -104,10 +145,7 @@ export const LEARN_I18N = {
   },
 } as const;
 
-export function t(
-  key: keyof typeof LEARN_I18N,
-  isZh: boolean
-): string {
+export function t(key: keyof typeof LEARN_I18N, isZh: boolean): string {
   const item = LEARN_I18N[key];
   return isZh ? item.zh : item.en;
 }

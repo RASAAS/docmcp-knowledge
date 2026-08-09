@@ -61,7 +61,8 @@ export async function createSession(request: Request, env: Env, user: AuthUser |
     course_slug?: string;
     title?: string;
   };
-  const slug = (body.course_slug || "usability-engineering").trim();
+  const slug = (body.course_slug || "").trim();
+  if (!slug) return error("course_slug required", 400, env);
   const course = await env.DB.prepare(`SELECT id FROM courses WHERE slug=? AND published=1`)
     .bind(slug)
     .first<{ id: number }>();
@@ -87,10 +88,11 @@ export async function createSession(request: Request, env: Env, user: AuthUser |
   const expires = new Date(Date.now() + 12 * 3600 * 1000).toISOString().replace("T", " ").slice(0, 19);
 
   await env.DB.prepare(
-    `INSERT INTO live_sessions (code, course_id, host_token_hash, status, phase, title, expires_at)
-     VALUES (?, ?, ?, 'lobby', 'waiting', ?, ?)`
+    `INSERT INTO live_sessions
+       (code, course_id, host_token_hash, host_user_id, status, phase, title, expires_at)
+     VALUES (?, ?, ?, ?, 'lobby', 'waiting', ?, ?)`
   )
-    .bind(code, course.id, hostHash, title, expires)
+    .bind(code, course.id, hostHash, user.user_id, title, expires)
     .run();
 
   return json(
@@ -99,9 +101,69 @@ export async function createSession(request: Request, env: Env, user: AuthUser |
       host_token: hostToken,
       course_slug: slug,
       join_path: `/learn/?code=${code}`,
-      created_by: user?.user_id || null,
+      host_user_id: user.user_id,
     },
     201,
+    env
+  );
+}
+
+/** List non-ended live sessions owned by the authenticated host (no host_token). */
+export async function listMyHostSessions(env: Env, user: AuthUser | null): Promise<Response> {
+  if (!user) return error("LOGIN_REQUIRED", 401, env);
+  const rows = await env.DB.prepare(
+    `SELECT s.code, s.title, s.status, s.phase, s.created_at, s.updated_at,
+            c.slug AS course_slug, c.title_en AS course_title_en, c.title_zh AS course_title_zh
+     FROM live_sessions s
+     JOIN courses c ON c.id = s.course_id
+     WHERE s.host_user_id=? AND s.status != 'ended'
+     ORDER BY s.updated_at DESC
+     LIMIT 30`
+  )
+    .bind(user.user_id)
+    .all();
+  return json({ items: rows.results || [] }, 200, env);
+}
+
+/**
+ * Reclaim host control for a session owned by the logged-in user.
+ * Issues a new host_token (invalidates previous token hash).
+ */
+export async function reclaimHostSession(
+  code: string,
+  env: Env,
+  user: AuthUser | null
+): Promise<Response> {
+  if (!user) return error("LOGIN_REQUIRED", 401, env);
+  const session = await getSessionByCode(code, env);
+  if (!session) return error("Session not found", 404, env);
+  if (session.status === "ended") return error("Session ended", 410, env);
+  if (!session.host_user_id || session.host_user_id !== user.user_id) {
+    return error("NOT_YOUR_SESSION", 403, env);
+  }
+
+  const hostToken = randomToken(24);
+  const hostHash = await sha256Hex(hostToken);
+  await env.DB.prepare(
+    `UPDATE live_sessions SET host_token_hash=?, updated_at=datetime('now') WHERE id=?`
+  )
+    .bind(hostHash, session.id)
+    .run();
+
+  const course = await env.DB.prepare(`SELECT slug FROM courses WHERE id=?`)
+    .bind(session.course_id)
+    .first<{ slug: string }>();
+
+  return json(
+    {
+      code: session.code,
+      host_token: hostToken,
+      course_slug: course?.slug || "",
+      title: session.title,
+      status: session.status,
+      phase: session.phase,
+    },
+    200,
     env
   );
 }

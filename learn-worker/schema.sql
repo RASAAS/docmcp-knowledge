@@ -33,6 +33,7 @@ CREATE TABLE IF NOT EXISTS live_sessions (
   code TEXT NOT NULL UNIQUE,
   course_id INTEGER NOT NULL REFERENCES courses(id),
   host_token_hash TEXT NOT NULL,
+  host_user_id TEXT,
   status TEXT NOT NULL DEFAULT 'lobby' CHECK(status IN ('lobby', 'active', 'ended')),
   current_question_id INTEGER REFERENCES questions(id),
   phase TEXT NOT NULL DEFAULT 'waiting' CHECK(phase IN ('waiting', 'open', 'locked', 'reveal')),
@@ -92,7 +93,7 @@ CREATE TABLE IF NOT EXISTS certificates (
   issued_at TEXT NOT NULL DEFAULT (datetime('now'))
 );
 
--- Workshop boards (4 groups × 4 paper tasks) for live classroom
+-- Legacy fixed UE boards (kept for old data; new sessions use workshop_groups)
 CREATE TABLE IF NOT EXISTS workshop_boards (
   id INTEGER PRIMARY KEY AUTOINCREMENT,
   session_id INTEGER NOT NULL REFERENCES live_sessions(id) ON DELETE CASCADE,
@@ -106,10 +107,23 @@ CREATE TABLE IF NOT EXISTS workshop_boards (
   UNIQUE(session_id, group_no)
 );
 
+-- Blank user-designed workshop groups (no built-in case content)
+CREATE TABLE IF NOT EXISTS workshop_groups (
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
+  session_id INTEGER NOT NULL REFERENCES live_sessions(id) ON DELETE CASCADE,
+  sort_order INTEGER NOT NULL DEFAULT 0,
+  name TEXT NOT NULL DEFAULT '',
+  content_json TEXT NOT NULL DEFAULT '{"sections":[]}',
+  updated_by TEXT NOT NULL DEFAULT '',
+  updated_at TEXT NOT NULL DEFAULT (datetime('now'))
+);
+
 CREATE INDEX IF NOT EXISTS idx_questions_course ON questions(course_id, sort_order);
 CREATE INDEX IF NOT EXISTS idx_live_sessions_code ON live_sessions(code);
+CREATE INDEX IF NOT EXISTS idx_live_sessions_host_user ON live_sessions(host_user_id);
 CREATE INDEX IF NOT EXISTS idx_live_participants_session ON live_participants(session_id);
 CREATE INDEX IF NOT EXISTS idx_live_answers_session_q ON live_answers(session_id, question_id);
 CREATE INDEX IF NOT EXISTS idx_practice_course ON practice_attempts(course_id, created_at DESC);
 CREATE INDEX IF NOT EXISTS idx_certificates_user ON certificates(user_id);
 CREATE INDEX IF NOT EXISTS idx_workshop_session ON workshop_boards(session_id);
+CREATE INDEX IF NOT EXISTS idx_workshop_groups_session ON workshop_groups(session_id, sort_order);

@@ -97,10 +97,16 @@ export function submitPractice(
 }
 
 export function createLiveSession(data: {
-  course_slug?: string;
+  course_slug: string;
   title?: string;
   create_secret?: string;
-}): Promise<{ code: string; host_token: string; course_slug: string; join_path: string }> {
+}): Promise<{
+  code: string;
+  host_token: string;
+  course_slug: string;
+  join_path: string;
+  host_user_id?: string;
+}> {
   const extra: Record<string, string> = {};
   if (data.create_secret) extra["X-Create-Secret"] = data.create_secret;
   return request("/api/live/sessions", {
@@ -111,6 +117,33 @@ export function createLiveSession(data: {
       title: data.title,
     }),
   });
+}
+
+export type MyHostSession = {
+  code: string;
+  title: string;
+  status: string;
+  phase: string;
+  created_at: string;
+  updated_at: string;
+  course_slug: string;
+  course_title_en: string;
+  course_title_zh: string;
+};
+
+export function listMyHostSessions(): Promise<{ items: MyHostSession[] }> {
+  return request("/api/live/host/sessions");
+}
+
+export function reclaimHostSession(code: string): Promise<{
+  code: string;
+  host_token: string;
+  course_slug: string;
+  title: string;
+  status: string;
+  phase: string;
+}> {
+  return request(`/api/live/sessions/${code}/reclaim`, { method: "POST", body: "{}" });
 }
 
 export function joinLiveSession(
@@ -222,12 +255,13 @@ export function hostEnd(code: string, hostToken: string) {
   return hostPost(code, hostToken, "end");
 }
 
+export type WorkshopSection = { id: string; title: string; body: string };
+
 export type WorkshopGroup = {
-  group_no: number;
-  task1: Record<string, string>;
-  task2: Record<string, string>;
-  task3: Record<string, string>;
-  task4: Record<string, string>;
+  id: number;
+  sort_order: number;
+  name: string;
+  sections: WorkshopSection[];
   updated_by: string;
   updated_at: string;
 };
@@ -235,19 +269,27 @@ export type WorkshopGroup = {
 export function getWorkshop(code: string): Promise<{
   code: string;
   groups: WorkshopGroup[];
-  template: Record<string, Record<string, string>>;
 }> {
   return request(`/api/live/sessions/${code}/workshop`);
 }
 
-export function saveWorkshop(
+export function createWorkshopGroup(
   code: string,
-  groupNo: number,
+  data: { name: string; host_token: string }
+): Promise<{ code: string; groups: WorkshopGroup[] }> {
+  return request(`/api/live/sessions/${code}/workshop`, {
+    method: "POST",
+    headers: { "X-Host-Token": data.host_token },
+    body: JSON.stringify({ name: data.name, host_token: data.host_token }),
+  });
+}
+
+export function updateWorkshopGroup(
+  code: string,
+  groupId: number,
   data: {
-    task1: Record<string, string>;
-    task2: Record<string, string>;
-    task3: Record<string, string>;
-    task4: Record<string, string>;
+    name?: string;
+    sections?: WorkshopSection[];
     updated_by?: string;
     participant_key?: string;
     host_token?: string;
@@ -255,10 +297,22 @@ export function saveWorkshop(
 ): Promise<{ code: string; groups: WorkshopGroup[] }> {
   const extra: Record<string, string> = {};
   if (data.host_token) extra["X-Host-Token"] = data.host_token;
-  return request(`/api/live/sessions/${code}/workshop/${groupNo}`, {
+  return request(`/api/live/sessions/${code}/workshop/groups/${groupId}`, {
     method: "PUT",
     headers: extra,
     body: JSON.stringify(data),
+  });
+}
+
+export function deleteWorkshopGroup(
+  code: string,
+  groupId: number,
+  hostToken: string
+): Promise<{ code: string; groups: WorkshopGroup[] }> {
+  return request(`/api/live/sessions/${code}/workshop/groups/${groupId}`, {
+    method: "DELETE",
+    headers: { "X-Host-Token": hostToken },
+    body: JSON.stringify({ host_token: hostToken }),
   });
 }
 
@@ -307,20 +361,42 @@ export async function verifyLearnAuth(): Promise<{
   }
 }
 
-export function saveHostSession(code: string, hostToken: string): void {
-  if (typeof window === "undefined") return;
-  localStorage.setItem("reguverse_learn_host", JSON.stringify({ code, host_token: hostToken }));
+const LEGACY_HOST_KEY = "reguverse_learn_host";
+
+function hostStorageKey(userId: string): string {
+  return `reguverse_learn_host_${userId}`;
 }
 
-export function loadHostSession(): { code: string; host_token: string } | null {
-  if (typeof window === "undefined") return null;
+/** Persist host token scoped to the logged-in DocMCP user (never share across accounts). */
+export function saveHostSession(userId: string, code: string, hostToken: string): void {
+  if (typeof window === "undefined" || !userId) return;
+  localStorage.removeItem(LEGACY_HOST_KEY);
+  localStorage.setItem(
+    hostStorageKey(userId),
+    JSON.stringify({ code, host_token: hostToken, user_id: userId })
+  );
+}
+
+export function loadHostSession(userId: string): { code: string; host_token: string } | null {
+  if (typeof window === "undefined" || !userId) return null;
   try {
-    const raw = localStorage.getItem("reguverse_learn_host");
+    // Drop legacy shared key so other users on this browser cannot restore it
+    localStorage.removeItem(LEGACY_HOST_KEY);
+    const raw = localStorage.getItem(hostStorageKey(userId));
     if (!raw) return null;
-    return JSON.parse(raw);
+    const parsed = JSON.parse(raw) as { code?: string; host_token?: string; user_id?: string };
+    if (!parsed.code || !parsed.host_token) return null;
+    if (parsed.user_id && parsed.user_id !== userId) return null;
+    return { code: parsed.code, host_token: parsed.host_token };
   } catch {
     return null;
   }
+}
+
+export function clearHostSession(userId: string): void {
+  if (typeof window === "undefined") return;
+  localStorage.removeItem(LEGACY_HOST_KEY);
+  if (userId) localStorage.removeItem(hostStorageKey(userId));
 }
 
 export { LEARN_API_URL };
