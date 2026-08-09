@@ -299,8 +299,8 @@ onMounted(load);
         </h2>
         <p class="bb-intro">
           {{ isZh
-            ? "由团队整理的计划功能榜单。票数越高，开发优先级越高。访客与用户可投票和留言；仅管理员可维护榜单。"
-            : "Admin-curated planned features. Higher votes mean higher priority. Visitors and users can vote and comment; only admins manage the board." }}
+            ? "计划功能优先级榜单。票数越高，开发优先级越高。欢迎投票与留言讨论。"
+            : "Planned feature priority board. Higher votes mean higher development priority. Vote and leave comments to share your view." }}
         </p>
       </div>
       <div class="bb-header-actions">
