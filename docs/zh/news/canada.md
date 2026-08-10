@@ -6,6 +6,102 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### 加拿大卫生部因性能问题召回Bravo胶囊递送系统
+
+**2026-08-07** | Health Canada | 安全通报 | !! MEDIUM
+
+加拿大卫生部因性能问题对Bravo胶囊递送系统发出召回通知。该设备用于胃食管反流病患者的食管pH监测。性能问题可能导致胶囊过早脱落或无法准确部署，从而影响诊断数据的可靠性或引起患者不适。医疗机构应立即识别并隔离受影响批次，停止使用，并按照制造商指示进行退回。
+
+**标签**: `medical_device_recall`, `performance_issue`, `ph_monitoring`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/bravo-capsule-delivery-system)
+
+---
+
+### 加拿大召回贝克曼库尔特AU480分析仪因性能问题
+
+**2026-08-06** | Health Canada | 安全通报 | !! MEDIUM
+
+加拿大卫生部就贝克曼库尔特AU免疫化学系统AU480分析仪因性能问题发布召回通知。该设备可能产生不准确的检测结果，影响患者诊断与治疗。所有用户应立即查看召回通知，按照贝克曼库尔特说明书验证仪器性能，并联系制造商采取纠正措施。医疗机构需识别受影响设备并实施缓解措施以确保结果可靠性。
+
+**标签**: `medical_device_recall`, `in_vitro_diagnostics`, `performance_issue`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/beckman-coulter-au-immunochemistry-system-au480-analyzer)
+
+---
+
+### 加拿大卫生部因性能问题召回HEALON EndoCoat PRO
+
+**2026-08-06** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部发布了对HEALON EndoCoat PRO（一种眼科粘弹剂）的召回警报，原因为性能缺陷可能影响设备功能与患者安全。相关医疗机构须立即停止使用受影响批次，隔离产品，并按制造商指引安排退货。此措施系医疗器械安全常规监管的一部分。
+
+**标签**: `recall`, `performance_issue`, `health_canada`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/healon-endocoat-pro)
+
+---
+
+### 特定批次New Roots Herbal益生菌因“无乳制品”声明错误被召回
+
+**2026-08-06** | Health Canada | 安全通报 | !! MEDIUM
+
+加拿大卫生部召回一批New Roots Herbal Probiotic Intensity胶囊，因其标签上“无乳制品”的声明不正确。该产品可能含有牛奶蛋白，对牛奶过敏者构成严重健康风险。消费者应立即停止使用受影响批次，出现症状需咨询医生。经销商和零售商被要求将该产品撤出市场。
+
+**标签**: `allergen_labeling`, `health_product_recall`, `labeling_compliance`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/one-lot-new-roots-herbal-probiotic-intensity-recalled-due-incorrect-no-dairy-claim)
+
+---
+
+### 加拿大卫生部召回警报：FilmArray NGDS Warrior Panel性能问题
+
+**2026-08-05** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部发布FilmArray NGDS Warrior Panel召回警报，原因是该产品可能存在性能问题，导致检测结果不准确。此问题影响使用该产品进行诊断测试的医疗机构和实验室。使用者应立即停止使用受影响批次，查阅制造商通知并联系生物梅里埃获取进一步指导。
+
+**标签**: `medical_device_recall`, `performance_issue`, `diagnostic_test`, `health_canada`, `infectious_disease`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/filmarrayr-ngds-warrior-panel)
+
+---
+
+### 加拿大卫生部因无菌问题召回Med-RX伤口护理套装
+
+**2026-08-05** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部因Med-RX伤口护理套装可能存在无菌缺陷而发出召回通知，该问题可能导致严重感染。受影响的医疗机构和患者应立即停用该产品，并按照制造商的指示进行退货或安全处置。此安全警示是近期多项加拿大医疗器械无菌问题召回之一。
+
+**标签**: `medical_device_recall`, `sterility_breach`, `wound_care`, `health_canada`, `infection_risk`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/med-rx-wound-care-kits)
+
+---
+
+### 加拿大卫生部因性能问题召回1788 4K摄像头
+
+**2026-08-05** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部发布了一则关于1788 4K摄像头的医疗器械召回警报，原因是该设备存在性能问题，可能在临床操作中影响图像质量或设备稳定性。此次召回涉及使用该摄像头进行内窥镜或手术可视化的医疗机构。受影响用户应立即停用该设备，隔离受影响产品，并联系制造商采取纠正措施，可能包括维修、更换或软件升级。本警报是近期多项加拿大医疗器械召回之一。
+
+**标签**: `medical_device_recall`, `performance_issue`, `4k_camera`, `health_canada`, `imaging_device`, `surgical_visualization`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/1788-4k-camera)
+
+---
+
+### 加拿大卫生部因性能问题召回电动驱动器针套件
+
+**2026-08-04** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部因性能缺陷召回一款用于电动驱动器的针套件。该问题可能影响器械的预期功能，并给患者或操作人员带来风险。相关医疗机构和专业人员应立即识别并隔离该产品，并遵循制造商的纠正措施说明。此次警报突显了持续监测医疗器械性能的必要性。
+
+**标签**: `recall`, `needle_kit`, `powered_driver`, `performance_issue`, `safety_alert`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/needle-kit-powered-driver)
+
+---
+
 ### 加拿大卫生部就医疗器械认可标准清单拟议变更展开咨询
 
 **2026-08-03** | Health Canada | 法规更新 | !! MEDIUM

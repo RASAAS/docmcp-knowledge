@@ -6,6 +6,102 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### Health Canada Recalls Bravo Capsule Delivery System Over Performance Issues
+
+**2026-08-07** | Health Canada | Safety Communication | !! MEDIUM
+
+Health Canada has issued a recall for the Bravo Capsule Delivery System due to performance concerns. This device is used for esophageal pH monitoring in patients with gastroesophageal reflux disease. The performance issue may cause the capsule to detach prematurely or fail to deploy accurately, potentially leading to unreliable diagnostic data or patient discomfort. Healthcare facilities should immediately identify and quarantine affected lots, discontinue use, and follow the manufacturer's return instructions.
+
+**Tags**: `medical_device_recall`, `performance_issue`, `ph_monitoring`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/bravo-capsule-delivery-system)
+
+---
+
+### Beckman Coulter AU480 Analyzer Recalled in Canada Due to Performance Issues
+
+**2026-08-06** | Health Canada | Safety Communication | !! MEDIUM
+
+Health Canada has issued a recall for the Beckman Coulter AU Immunochemistry System AU480 Analyzer due to performance concerns. The device may produce inaccurate test results, potentially affecting patient diagnosis and management. All users should immediately review the recall notice, verify instrument performance according to Beckman Coulter's instructions, and contact the manufacturer for corrective actions. The recall requires healthcare facilities to identify affected units and implement mitigation measures to ensure result reliability.
+
+**Tags**: `medical_device_recall`, `in_vitro_diagnostics`, `performance_issue`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/beckman-coulter-au-immunochemistry-system-au480-analyzer)
+
+---
+
+### Health Canada Recalls HEALON EndoCoat PRO Due to Performance Issue
+
+**2026-08-06** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a recall alert for HEALON EndoCoat PRO, an ophthalmic viscosurgical device, due to a performance deficiency that may compromise device functionality and patient safety. Affected healthcare facilities are required to immediately stop using the identified lots, quarantine the products, and follow the manufacturer’s return instructions. This action is part of routine medical device safety monitoring.
+
+**Tags**: `recall`, `performance_issue`, `health_canada`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/healon-endocoat-pro)
+
+---
+
+### One Lot of New Roots Herbal Probiotic Intensity Recalled Due to Incorrect 'No Dairy' Claim
+
+**2026-08-06** | Health Canada | Safety Communication | !! MEDIUM
+
+Health Canada has recalled one lot of New Roots Herbal Probiotic Intensity because the label incorrectly states 'No Dairy.' The product may contain milk protein, posing a risk to those with milk allergy. Consumers should stop using the affected lot immediately and consult a healthcare professional if they experience symptoms. Distributors and retailers must remove the product from sale.
+
+**Tags**: `allergen_labeling`, `health_product_recall`, `labeling_compliance`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/one-lot-new-roots-herbal-probiotic-intensity-recalled-due-incorrect-no-dairy-claim)
+
+---
+
+### Health Canada Recall Alert: FilmArray NGDS Warrior Panel Performance Issue
+
+**2026-08-05** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a recall alert for the FilmArray NGDS Warrior Panel due to a potential performance issue that could lead to inaccurate test results. This affects healthcare facilities and laboratories using the panel for diagnostic testing. Users should immediately discontinue use of affected lots, review the manufacturer’s notice, and contact BioMérieux for further guidance.
+
+**Tags**: `medical_device_recall`, `performance_issue`, `diagnostic_test`, `health_canada`, `infectious_disease`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/filmarrayr-ngds-warrior-panel)
+
+---
+
+### Health Canada Recalls Med-RX Wound Care Kits Over Sterility Failure
+
+**2026-08-05** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a recall for Med-RX Wound Care Kits due to a potential lack of sterility, which may lead to serious infections. Healthcare facilities and patients who have these kits should immediately stop using them and follow the manufacturer's instructions for return or safe disposal. This safety alert is one of multiple recent Canadian medical device recalls involving sterility breaches.
+
+**Tags**: `medical_device_recall`, `sterility_breach`, `wound_care`, `health_canada`, `infection_risk`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/med-rx-wound-care-kits)
+
+---
+
+### Health Canada Issues Recall for 1788 4K Camera Over Performance Concerns
+
+**2026-08-05** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has released a medical device recall alert for the 1788 4K Camera due to performance issues that may compromise image quality or device reliability during clinical procedures. The recall affects healthcare facilities using this camera system for endoscopic or surgical visualization. Affected users are advised to immediately stop using the device, quarantine affected units, and contact the manufacturer for corrective actions, which may include repair, replacement, or software updates. This alert is part of a broader safety bulletin involving multiple recent Canadian medical device recalls.
+
+**Tags**: `medical_device_recall`, `performance_issue`, `4k_camera`, `health_canada`, `imaging_device`, `surgical_visualization`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/1788-4k-camera)
+
+---
+
+### Health Canada Recalls Needle Kit for Powered Driver Due to Performance Issue
+
+**2026-08-04** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a recall for a needle kit used with a powered driver because of a performance defect. This issue may compromise the device's intended function and pose risks to patients or users. Affected healthcare facilities and professionals should immediately identify and quarantine the product, and follow the manufacturer’s instructions for corrective action. The alert underscores the need for ongoing performance monitoring of medical devices.
+
+**Tags**: `recall`, `needle_kit`, `powered_driver`, `performance_issue`, `safety_alert`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/needle-kit-powered-driver)
+
+---
+
 ### Health Canada Opens Consultation on Proposed Changes to the List of Recognized Standards for Medical Devices
 
 **2026-08-03** | Health Canada | Regulation Update | !! MEDIUM

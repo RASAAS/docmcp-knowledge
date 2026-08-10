@@ -6,6 +6,112 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### MHRA安全警报：供应无有效UKCA/CE标识的医疗器械须立即停用并隔离
+
+**2026-08-10** | UK MHRA | 安全通报 | !!! HIGH
+
+英国MHRA发现市面上多款医疗器械未带有有效的UKCA或CE符合性标识，也缺少必要的合格认证，违反了《2002年英国医疗器械法规》。所有医疗机构、进口商和经销商须立即停用这些不合规产品，将其隔离，并禁止继续流通。该警报强调，未采取行动可能面临执法，并重申在供应前必须核实器械的符合性。
+
+**标签**: `uk_mhra`, `safety_alert`, `non_compliant_device`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/devices-supplied-without-valid-ukca-slash-ce-conformity-markings-or-certification-remove-from-use-and-place-in-quarantine-dsi-slash-2026-slash-007)
+
+---
+
+### MHRA建议隔离缺乏适当符合性标识的医疗器械
+
+**2026-08-10** | UK MHRA | 法规更新 | !!! HIGH
+
+MHRA发布建议，要求经济运营商隔离在英国市场上发现的、未依据UK MDR 2002或EU MDR 2017/745附加符合性标识的医疗器械。这些器械可能未达到基本安全与性能要求，对患者和使用者构成潜在风险。MHRA敦促立即检查库存和供应链，并向该机构报告不合规产品。
+
+**标签**: `mhra_advisory`, `conformity_marking`, `quarantine_notice`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/government/news/mhra-advises-quarantine-of-medical-devices-supplied-without-appropriate-conformity-markings)
+
+---
+
+### MHRA警告：缺乏有效UKCA/CE符合性标记或认证的医疗器械应立即停用并隔离 (DSI/2026/007)
+
+**2026-08-10** | UK MHRA | 法规更新 | !!! HIGH
+
+英国药品和健康产品管理局（MHRA）发现英国市场上存在无有效UKCA或CE符合性标记或认证的医疗器械，违反了英国《2002年医疗器械法规》和欧盟《2017/745号医疗器械法规》。所有医疗机构和供应商须立即停用并将此类不合规器械隔离。在确认合规之前，不得使用或供应这些器械，并应向MHRA报告所有相关事件。
+
+**标签**: `ukca_marking`, `ce_marking`, `non_compliance`, `quarantine`, `mhra_alert`, `medical_device_regulation`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/devices-supplied-without-valid-ukca-slash-ce-conformity-markings-or-certification-remove-from-use-and-place-in-quarantine-dsi-slash-2026-slash-007)
+
+---
+
+### Belzer UW® Cold Storage Solution and Belzer MPS® (UW Machine Perfusion Solution): manufactured by Carnamedica (UKRP: Bri
+
+**2026-08-06** | UK MHRA | 安全通报 | !! MEDIUM
+
+The MHRA is providing an update on defects previously identified with Belzer solutions for the preservation of donated organs.  This DSI replaces advice in DSI/2023/005.
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/belzer-uw-r-cold-storage-solution-and-belzer-mps-r-uw-machine-perfusion-solution-manufactured-by-carnamedica-ukrp-bridge-to-life-updated-advice-on-the-contamination-of-fluid-dsi-slash-2026-slash-006-update-to-dsi-slash-2023-slash-)
+
+---
+
+### MHRA：医疗器械临床试验申报提交指南
+
+**2026-08-06** | UK MHRA | 法规更新 | !! MEDIUM
+
+英国MHRA发布了关于医疗器械临床试验提交申报的指南，明确了所需文件、格式和提交流程。该指南帮助制造商和申办方准备完整申请，避免审批延误，对计划在英国开展临床研究的企业至关重要。
+
+**标签**: `clinical_investigation`, `mhra_guidance`, `submission_process`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/government/publications/clinical-investigations-compiling-a-submission)
+
+---
+
+### MHRA 现场安全通知汇总：2026年7月27日至31日（共4则）
+
+**2026-08-04** | UK MHRA | 安全通报 | ! LOW
+
+本条目汇总了英国MHRA于2026年7月27日至31日期间发布的4则现场安全通知（FSN）。这些通知旨在提醒医疗专业人员和用户注意特定医疗器械的潜在安全问题。相关方应查阅每则通知以了解受影响产品、风险及建议措施。此汇编用于每周法规监控参考。
+
+**标签**: `field_safety_notice`, `mhra`, `medical_device_safety`, `weekly_summary`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-27-to-31-july-2026)
+
+---
+
+### 德尔格扩大Atlan麻醉工作站呼吸机故障现场安全通知 (DSI/2026/005)
+
+**2026-08-04** | UK MHRA | 安全通报 | !!! HIGH
+
+2026年4月，德尔格发布后续现场安全通知，扩大受制造缺陷影响的Atlan麻醉工作站设备范围，该缺陷可能导致机械通气故障。英国MHRA安全警报（DSI/2026/005）要求医疗机构立即识别并隔离受影响设备，联系德尔格采取纠正措施，并审查过往通气故障报告。此次更新延续先前通知，强调在麻醉过程中呼吸机意外停机的严重风险。
+
+**标签**: `drager`, `atlan_anaesthesia_workstation`, `ventilator_failure`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/drager-atlan-anaesthesia-workstations-risk-of-ventilator-failure-dsi-slash-2026-slash-005)
+
+---
+
+### 英国MHRA更新药品生产与批发商许可证吊销/暂停公开清单（新增5项决定）
+
+**2026-08-04** | UK MHRA | 法规更新 | !! MEDIUM
+
+英国MHRA在其公开的执法清单中新增了5项决定，涉及药品和原料药生产商及批发商的许可证和注册被暂停或吊销。该清单列出已不再具备相关授权的企业。法规事务人员应查阅更新后的清单，确认供应商或合作伙伴的合规状态，并采取相应的供应链管理措施。
+
+**标签**: `uk_mhra`, `license_suspensions`, `manufacturing_license`, `wholesale_license`, `enforcement`, `supply_chain_compliance`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/government/publications/suspended-licences-for-manufacturers-and-wholesalers-of-medicines)
+
+---
+
+### MHRA现场安全通知汇总：2026年7月27日至31日
+
+**2026-08-04** | UK MHRA | 法规更新 | !! MEDIUM
+
+英国MHRA发布了2026年7月27日至31日期间发布的5份现场安全通知（FSN）汇编，涉及医疗器械和药械组合产品。该每周公告提醒医疗专业人员、设备供应商及用户注意需要立即审查的潜在安全问题。相关人员应识别受影响产品并遵循指定的纠正措施，以确保患者安全和合规。
+
+**标签**: `field_safety_notices`, `mhra`, `medical_device_safety`, `recall_alert`, `regulatory_compliance`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-27-to-31-july-2026)
+
+---
+
 ### MHRA更新异常使用授权医疗器械清单
 
 **2026-07-31** | UK MHRA | 法规更新 | !! MEDIUM

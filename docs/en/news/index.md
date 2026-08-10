@@ -6,6 +6,54 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### MHRA Safety Alert: Medical Devices Supplied Without UKCA/CE Markings Must Be Removed and Quarantined
+
+**2026-08-10** | UK MHRA | Safety Communication | !!! HIGH
+
+The MHRA has identified a number of medical devices on the UK market that lack valid UKCA or CE conformity markings and the required certification, breaching the UK Medical Devices Regulations 2002. Healthcare providers, importers, and distributors must immediately remove these non-compliant devices from use, place them in quarantine, and ensure they are not further distributed. The alert warns that failure to act may result in enforcement action and reiterates the need to verify conformity documentation before supply.
+
+**Tags**: `uk_mhra`, `safety_alert`, `non_compliant_device`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/devices-supplied-without-valid-ukca-slash-ce-conformity-markings-or-certification-remove-from-use-and-place-in-quarantine-dsi-slash-2026-slash-007)
+
+---
+
+### MHRA advises quarantine of medical devices supplied without appropriate conformity markings
+
+**2026-08-10** | UK MHRA | Regulation Update | !!! HIGH
+
+The MHRA has issued an advisory for economic operators to quarantine medical devices found on the UK market that lack required conformity markings under UK MDR 2002 or EU MDR 2017/745. Such devices may not meet essential safety and performance standards, posing risks to patients and users. The agency urges immediate inspection of stock and supply chains, and reporting of non-compliant products to the MHRA.
+
+**Tags**: `mhra_advisory`, `conformity_marking`, `quarantine_notice`
+
+[View Source (MHRA (UK))](https://www.gov.uk/government/news/mhra-advises-quarantine-of-medical-devices-supplied-without-appropriate-conformity-markings)
+
+---
+
+### MHRA: Remove from use and quarantine devices lacking valid UKCA/CE conformity markings or certification (DSI/2026/007)
+
+**2026-08-10** | UK MHRA | Regulation Update | !!! HIGH
+
+The MHRA has identified medical devices being supplied on the UK market without valid UKCA or CE conformity markings or proper certification, breaching UK MDR 2002 and EU MDR 2017/745. Healthcare providers and suppliers are required to immediately remove these non-compliant devices from use and place them in quarantine. The devices must not be used or supplied until compliance is verified, and all incidents should be reported to the MHRA.
+
+**Tags**: `ukca_marking`, `ce_marking`, `non_compliance`, `quarantine`, `mhra_alert`, `medical_device_regulation`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/devices-supplied-without-valid-ukca-slash-ce-conformity-markings-or-certification-remove-from-use-and-place-in-quarantine-dsi-slash-2026-slash-007)
+
+---
+
+### Health Canada Recalls Bravo Capsule Delivery System Over Performance Issues
+
+**2026-08-07** | Health Canada | Safety Communication | !! MEDIUM
+
+Health Canada has issued a recall for the Bravo Capsule Delivery System due to performance concerns. This device is used for esophageal pH monitoring in patients with gastroesophageal reflux disease. The performance issue may cause the capsule to detach prematurely or fail to deploy accurately, potentially leading to unreliable diagnostic data or patient discomfort. Healthcare facilities should immediately identify and quarantine affected lots, discontinue use, and follow the manufacturer's return instructions.
+
+**Tags**: `medical_device_recall`, `performance_issue`, `ph_monitoring`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/bravo-capsule-delivery-system)
+
+---
+
 ### Swissmedic FSCA: ORBIS Medication 3.x – DH Healthcare GmbH
 
 **2026-08-07** | Swissmedic | Safety Communication | !! MEDIUM
@@ -42,6 +90,64 @@ Swissmedic has issued a Field Safety Corrective Action (FSCA) for the medin Medi
 
 ---
 
+### Belzer UW® Cold Storage Solution and Belzer MPS® (UW Machine Perfusion Solution): manufactured by Carnamedica (UKRP: Bri
+
+**2026-08-06** | UK MHRA | Safety Communication | !! MEDIUM
+
+The MHRA is providing an update on defects previously identified with Belzer solutions for the preservation of donated organs.  This DSI replaces advice in DSI/2023/005.
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/belzer-uw-r-cold-storage-solution-and-belzer-mps-r-uw-machine-perfusion-solution-manufactured-by-carnamedica-ukrp-bridge-to-life-updated-advice-on-the-contamination-of-fluid-dsi-slash-2026-slash-006-update-to-dsi-slash-2023-slash-)
+
+---
+
+### MHRA Guidance: Compiling a Submission for Clinical Investigations of Medical Devices
+
+**2026-08-06** | UK MHRA | Regulation Update | !! MEDIUM
+
+The UK MHRA has released guidance detailing how sponsors should compile and submit notifications for clinical investigations of medical devices. It outlines the required documentation, format, and procedure, enabling manufacturers and sponsors to prepare complete applications and avoid delays. This guidance is crucial for anyone planning a clinical study in the UK.
+
+**Tags**: `clinical_investigation`, `mhra_guidance`, `submission_process`
+
+[View Source (MHRA (UK))](https://www.gov.uk/government/publications/clinical-investigations-compiling-a-submission)
+
+---
+
+### Beckman Coulter AU480 Analyzer Recalled in Canada Due to Performance Issues
+
+**2026-08-06** | Health Canada | Safety Communication | !! MEDIUM
+
+Health Canada has issued a recall for the Beckman Coulter AU Immunochemistry System AU480 Analyzer due to performance concerns. The device may produce inaccurate test results, potentially affecting patient diagnosis and management. All users should immediately review the recall notice, verify instrument performance according to Beckman Coulter's instructions, and contact the manufacturer for corrective actions. The recall requires healthcare facilities to identify affected units and implement mitigation measures to ensure result reliability.
+
+**Tags**: `medical_device_recall`, `in_vitro_diagnostics`, `performance_issue`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/beckman-coulter-au-immunochemistry-system-au480-analyzer)
+
+---
+
+### Health Canada Recalls HEALON EndoCoat PRO Due to Performance Issue
+
+**2026-08-06** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a recall alert for HEALON EndoCoat PRO, an ophthalmic viscosurgical device, due to a performance deficiency that may compromise device functionality and patient safety. Affected healthcare facilities are required to immediately stop using the identified lots, quarantine the products, and follow the manufacturer’s return instructions. This action is part of routine medical device safety monitoring.
+
+**Tags**: `recall`, `performance_issue`, `health_canada`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/healon-endocoat-pro)
+
+---
+
+### One Lot of New Roots Herbal Probiotic Intensity Recalled Due to Incorrect 'No Dairy' Claim
+
+**2026-08-06** | Health Canada | Safety Communication | !! MEDIUM
+
+Health Canada has recalled one lot of New Roots Herbal Probiotic Intensity because the label incorrectly states 'No Dairy.' The product may contain milk protein, posing a risk to those with milk allergy. Consumers should stop using the affected lot immediately and consult a healthcare professional if they experience symptoms. Distributors and retailers must remove the product from sale.
+
+**Tags**: `allergen_labeling`, `health_product_recall`, `labeling_compliance`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/one-lot-new-roots-herbal-probiotic-intensity-recalled-due-incorrect-no-dairy-claim)
+
+---
+
 ### Swissmedic FSCA for Cardioroot Woven Synthetic Vascular Graft by Intervascular SAS
 
 **2026-08-06** | Swissmedic | Safety Communication | !! MEDIUM
@@ -51,6 +157,42 @@ Swissmedic has issued a Field Safety Corrective Action (FSCA) for Cardioroot Wov
 **Tags**: `swissmedic`, `fsca`, `vascular_graft`, `intervascular`, `cardioroot_woven`, `medical_device_safety`
 
 [View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260805_053)
+
+---
+
+### Health Canada Recall Alert: FilmArray NGDS Warrior Panel Performance Issue
+
+**2026-08-05** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a recall alert for the FilmArray NGDS Warrior Panel due to a potential performance issue that could lead to inaccurate test results. This affects healthcare facilities and laboratories using the panel for diagnostic testing. Users should immediately discontinue use of affected lots, review the manufacturer’s notice, and contact BioMérieux for further guidance.
+
+**Tags**: `medical_device_recall`, `performance_issue`, `diagnostic_test`, `health_canada`, `infectious_disease`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/filmarrayr-ngds-warrior-panel)
+
+---
+
+### Health Canada Recalls Med-RX Wound Care Kits Over Sterility Failure
+
+**2026-08-05** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a recall for Med-RX Wound Care Kits due to a potential lack of sterility, which may lead to serious infections. Healthcare facilities and patients who have these kits should immediately stop using them and follow the manufacturer's instructions for return or safe disposal. This safety alert is one of multiple recent Canadian medical device recalls involving sterility breaches.
+
+**Tags**: `medical_device_recall`, `sterility_breach`, `wound_care`, `health_canada`, `infection_risk`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/med-rx-wound-care-kits)
+
+---
+
+### Health Canada Issues Recall for 1788 4K Camera Over Performance Concerns
+
+**2026-08-05** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has released a medical device recall alert for the 1788 4K Camera due to performance issues that may compromise image quality or device reliability during clinical procedures. The recall affects healthcare facilities using this camera system for endoscopic or surgical visualization. Affected users are advised to immediately stop using the device, quarantine affected units, and contact the manufacturer for corrective actions, which may include repair, replacement, or software updates. This alert is part of a broader safety bulletin involving multiple recent Canadian medical device recalls.
+
+**Tags**: `medical_device_recall`, `performance_issue`, `4k_camera`, `health_canada`, `imaging_device`, `surgical_visualization`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/1788-4k-camera)
 
 ---
 
@@ -169,6 +311,66 @@ The CDRH published the presentation, slides, and transcript from the July 22, 20
 **Tags**: `human_factors`, `marketing_submission`, `town_hall`, `final_guidance`
 
 [View Source (FDA)](https://www.fda.gov/medical-devices/medical-devices-news-and-events/town-hall-content-human-factors-information-medical-device-marketing-submissions-final-guidance)
+
+---
+
+### MHRA Field Safety Notices: 27 to 31 July 2026 (4 New Notices Published)
+
+**2026-08-04** | UK MHRA | Safety Communication | ! LOW
+
+This item lists four field safety notices (FSNs) issued by the UK MHRA between 27 and 31 July 2026. These notices alert healthcare professionals and users to potential safety issues with specific medical devices. Affected parties should review the individual FSNs for details on affected products, risks, and recommended actions. The compilation serves as a weekly roundup for regulatory surveillance.
+
+**Tags**: `field_safety_notice`, `mhra`, `medical_device_safety`, `weekly_summary`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-27-to-31-july-2026)
+
+---
+
+### Dräger Issues Expanded Field Safety Notice for Atlan Anaesthesia Workstations Ventilator Failure Risk (DSI/2026/005)
+
+**2026-08-04** | UK MHRA | Safety Communication | !!! HIGH
+
+In April 2026, Dräger issued a follow-up Field Safety Notice expanding the number of affected Atlan Anaesthesia workstation devices due to a manufacturing defect that may cause mechanical ventilation failure. The MHRA safety alert (DSI/2026/005) advises healthcare providers to immediately identify and quarantine impacted devices, contact Dräger for corrective action, and review previous ventilation failure reports. This update follows an earlier notice and underscores the serious risk of unexpected ventilator shutdown during anaesthesia procedures.
+
+**Tags**: `drager`, `atlan_anaesthesia_workstation`, `ventilator_failure`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/drager-atlan-anaesthesia-workstations-risk-of-ventilator-failure-dsi-slash-2026-slash-005)
+
+---
+
+### UK MHRA Updates Public List of Suspended/Revoked Manufacturer and Wholesaler Licences (5 New Decisions)
+
+**2026-08-04** | UK MHRA | Regulation Update | !! MEDIUM
+
+The UK MHRA has added five new decisions to its public enforcement list of suspended or revoked licences and registrations for manufacturers and wholesalers of medicines and active pharmaceutical ingredients. The list identifies entities no longer authorised to carry out these activities. Regulatory professionals should review the updated list to verify the compliance status of suppliers and partners, and take appropriate supply chain actions.
+
+**Tags**: `uk_mhra`, `license_suspensions`, `manufacturing_license`, `wholesale_license`, `enforcement`, `supply_chain_compliance`
+
+[View Source (MHRA (UK))](https://www.gov.uk/government/publications/suspended-licences-for-manufacturers-and-wholesalers-of-medicines)
+
+---
+
+### MHRA Field Safety Notices Summary: 27-31 July 2026
+
+**2026-08-04** | UK MHRA | Regulation Update | !! MEDIUM
+
+The UK MHRA has published a roundup of 5 new field safety notices (FSNs) issued between 27 and 31 July 2026, covering medical devices and drug-device combinations. This weekly list alerts healthcare professionals, device suppliers, and users to potential safety issues requiring immediate review. Recipients should identify affected products and follow the specified corrective actions to ensure patient safety and regulatory compliance.
+
+**Tags**: `field_safety_notices`, `mhra`, `medical_device_safety`, `recall_alert`, `regulatory_compliance`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-27-to-31-july-2026)
+
+---
+
+### Health Canada Recalls Needle Kit for Powered Driver Due to Performance Issue
+
+**2026-08-04** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a recall for a needle kit used with a powered driver because of a performance defect. This issue may compromise the device's intended function and pose risks to patients or users. Affected healthcare facilities and professionals should immediately identify and quarantine the product, and follow the manufacturer’s instructions for corrective action. The alert underscores the need for ongoing performance monitoring of medical devices.
+
+**Tags**: `recall`, `needle_kit`, `powered_driver`, `performance_issue`, `safety_alert`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/needle-kit-powered-driver)
 
 ---
 

@@ -6,6 +6,54 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### MHRA安全警报：供应无有效UKCA/CE标识的医疗器械须立即停用并隔离
+
+**2026-08-10** | UK MHRA | 安全通报 | !!! HIGH
+
+英国MHRA发现市面上多款医疗器械未带有有效的UKCA或CE符合性标识，也缺少必要的合格认证，违反了《2002年英国医疗器械法规》。所有医疗机构、进口商和经销商须立即停用这些不合规产品，将其隔离，并禁止继续流通。该警报强调，未采取行动可能面临执法，并重申在供应前必须核实器械的符合性。
+
+**标签**: `uk_mhra`, `safety_alert`, `non_compliant_device`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/devices-supplied-without-valid-ukca-slash-ce-conformity-markings-or-certification-remove-from-use-and-place-in-quarantine-dsi-slash-2026-slash-007)
+
+---
+
+### MHRA建议隔离缺乏适当符合性标识的医疗器械
+
+**2026-08-10** | UK MHRA | 法规更新 | !!! HIGH
+
+MHRA发布建议，要求经济运营商隔离在英国市场上发现的、未依据UK MDR 2002或EU MDR 2017/745附加符合性标识的医疗器械。这些器械可能未达到基本安全与性能要求，对患者和使用者构成潜在风险。MHRA敦促立即检查库存和供应链，并向该机构报告不合规产品。
+
+**标签**: `mhra_advisory`, `conformity_marking`, `quarantine_notice`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/government/news/mhra-advises-quarantine-of-medical-devices-supplied-without-appropriate-conformity-markings)
+
+---
+
+### MHRA警告：缺乏有效UKCA/CE符合性标记或认证的医疗器械应立即停用并隔离 (DSI/2026/007)
+
+**2026-08-10** | UK MHRA | 法规更新 | !!! HIGH
+
+英国药品和健康产品管理局（MHRA）发现英国市场上存在无有效UKCA或CE符合性标记或认证的医疗器械，违反了英国《2002年医疗器械法规》和欧盟《2017/745号医疗器械法规》。所有医疗机构和供应商须立即停用并将此类不合规器械隔离。在确认合规之前，不得使用或供应这些器械，并应向MHRA报告所有相关事件。
+
+**标签**: `ukca_marking`, `ce_marking`, `non_compliance`, `quarantine`, `mhra_alert`, `medical_device_regulation`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/devices-supplied-without-valid-ukca-slash-ce-conformity-markings-or-certification-remove-from-use-and-place-in-quarantine-dsi-slash-2026-slash-007)
+
+---
+
+### 加拿大卫生部因性能问题召回Bravo胶囊递送系统
+
+**2026-08-07** | Health Canada | 安全通报 | !! MEDIUM
+
+加拿大卫生部因性能问题对Bravo胶囊递送系统发出召回通知。该设备用于胃食管反流病患者的食管pH监测。性能问题可能导致胶囊过早脱落或无法准确部署，从而影响诊断数据的可靠性或引起患者不适。医疗机构应立即识别并隔离受影响批次，停止使用，并按照制造商指示进行退回。
+
+**标签**: `medical_device_recall`, `performance_issue`, `ph_monitoring`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/bravo-capsule-delivery-system)
+
+---
+
 ### 瑞士药监局FSCA：DH Healthcare GmbH的ORBIS Medication 3.x
 
 **2026-08-07** | Swissmedic | 安全通报 | !! MEDIUM
@@ -42,6 +90,64 @@ title: 法规速递
 
 ---
 
+### Belzer UW® Cold Storage Solution and Belzer MPS® (UW Machine Perfusion Solution): manufactured by Carnamedica (UKRP: Bri
+
+**2026-08-06** | UK MHRA | 安全通报 | !! MEDIUM
+
+The MHRA is providing an update on defects previously identified with Belzer solutions for the preservation of donated organs.  This DSI replaces advice in DSI/2023/005.
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/belzer-uw-r-cold-storage-solution-and-belzer-mps-r-uw-machine-perfusion-solution-manufactured-by-carnamedica-ukrp-bridge-to-life-updated-advice-on-the-contamination-of-fluid-dsi-slash-2026-slash-006-update-to-dsi-slash-2023-slash-)
+
+---
+
+### MHRA：医疗器械临床试验申报提交指南
+
+**2026-08-06** | UK MHRA | 法规更新 | !! MEDIUM
+
+英国MHRA发布了关于医疗器械临床试验提交申报的指南，明确了所需文件、格式和提交流程。该指南帮助制造商和申办方准备完整申请，避免审批延误，对计划在英国开展临床研究的企业至关重要。
+
+**标签**: `clinical_investigation`, `mhra_guidance`, `submission_process`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/government/publications/clinical-investigations-compiling-a-submission)
+
+---
+
+### 加拿大召回贝克曼库尔特AU480分析仪因性能问题
+
+**2026-08-06** | Health Canada | 安全通报 | !! MEDIUM
+
+加拿大卫生部就贝克曼库尔特AU免疫化学系统AU480分析仪因性能问题发布召回通知。该设备可能产生不准确的检测结果，影响患者诊断与治疗。所有用户应立即查看召回通知，按照贝克曼库尔特说明书验证仪器性能，并联系制造商采取纠正措施。医疗机构需识别受影响设备并实施缓解措施以确保结果可靠性。
+
+**标签**: `medical_device_recall`, `in_vitro_diagnostics`, `performance_issue`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/beckman-coulter-au-immunochemistry-system-au480-analyzer)
+
+---
+
+### 加拿大卫生部因性能问题召回HEALON EndoCoat PRO
+
+**2026-08-06** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部发布了对HEALON EndoCoat PRO（一种眼科粘弹剂）的召回警报，原因为性能缺陷可能影响设备功能与患者安全。相关医疗机构须立即停止使用受影响批次，隔离产品，并按制造商指引安排退货。此措施系医疗器械安全常规监管的一部分。
+
+**标签**: `recall`, `performance_issue`, `health_canada`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/healon-endocoat-pro)
+
+---
+
+### 特定批次New Roots Herbal益生菌因“无乳制品”声明错误被召回
+
+**2026-08-06** | Health Canada | 安全通报 | !! MEDIUM
+
+加拿大卫生部召回一批New Roots Herbal Probiotic Intensity胶囊，因其标签上“无乳制品”的声明不正确。该产品可能含有牛奶蛋白，对牛奶过敏者构成严重健康风险。消费者应立即停止使用受影响批次，出现症状需咨询医生。经销商和零售商被要求将该产品撤出市场。
+
+**标签**: `allergen_labeling`, `health_product_recall`, `labeling_compliance`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/one-lot-new-roots-herbal-probiotic-intensity-recalled-due-incorrect-no-dairy-claim)
+
+---
+
 ### Swissmedic 发布 Intervascular SAS 公司 Cardioroot Woven 人造血管移植物现场安全纠正措施
 
 **2026-08-06** | Swissmedic | 安全通报 | !! MEDIUM
@@ -51,6 +157,42 @@ Swissmedic 已针对 Intervascular SAS 生产的非药物涂层合成血管移�
 **标签**: `swissmedic`, `fsca`, `vascular_graft`, `intervascular`, `cardioroot_woven`, `medical_device_safety`
 
 [查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260805_053)
+
+---
+
+### 加拿大卫生部召回警报：FilmArray NGDS Warrior Panel性能问题
+
+**2026-08-05** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部发布FilmArray NGDS Warrior Panel召回警报，原因是该产品可能存在性能问题，导致检测结果不准确。此问题影响使用该产品进行诊断测试的医疗机构和实验室。使用者应立即停止使用受影响批次，查阅制造商通知并联系生物梅里埃获取进一步指导。
+
+**标签**: `medical_device_recall`, `performance_issue`, `diagnostic_test`, `health_canada`, `infectious_disease`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/filmarrayr-ngds-warrior-panel)
+
+---
+
+### 加拿大卫生部因无菌问题召回Med-RX伤口护理套装
+
+**2026-08-05** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部因Med-RX伤口护理套装可能存在无菌缺陷而发出召回通知，该问题可能导致严重感染。受影响的医疗机构和患者应立即停用该产品，并按照制造商的指示进行退货或安全处置。此安全警示是近期多项加拿大医疗器械无菌问题召回之一。
+
+**标签**: `medical_device_recall`, `sterility_breach`, `wound_care`, `health_canada`, `infection_risk`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/med-rx-wound-care-kits)
+
+---
+
+### 加拿大卫生部因性能问题召回1788 4K摄像头
+
+**2026-08-05** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部发布了一则关于1788 4K摄像头的医疗器械召回警报，原因是该设备存在性能问题，可能在临床操作中影响图像质量或设备稳定性。此次召回涉及使用该摄像头进行内窥镜或手术可视化的医疗机构。受影响用户应立即停用该设备，隔离受影响产品，并联系制造商采取纠正措施，可能包括维修、更换或软件升级。本警报是近期多项加拿大医疗器械召回之一。
+
+**标签**: `medical_device_recall`, `performance_issue`, `4k_camera`, `health_canada`, `imaging_device`, `surgical_visualization`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/1788-4k-camera)
 
 ---
 
@@ -169,6 +311,66 @@ FDA医疗器械与放射健康中心发布了2026年7月22日举行的关于人�
 **标签**: `human_factors`, `marketing_submission`, `town_hall`, `final_guidance`
 
 [查看来源 (FDA)](https://www.fda.gov/medical-devices/medical-devices-news-and-events/town-hall-content-human-factors-information-medical-device-marketing-submissions-final-guidance)
+
+---
+
+### MHRA 现场安全通知汇总：2026年7月27日至31日（共4则）
+
+**2026-08-04** | UK MHRA | 安全通报 | ! LOW
+
+本条目汇总了英国MHRA于2026年7月27日至31日期间发布的4则现场安全通知（FSN）。这些通知旨在提醒医疗专业人员和用户注意特定医疗器械的潜在安全问题。相关方应查阅每则通知以了解受影响产品、风险及建议措施。此汇编用于每周法规监控参考。
+
+**标签**: `field_safety_notice`, `mhra`, `medical_device_safety`, `weekly_summary`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-27-to-31-july-2026)
+
+---
+
+### 德尔格扩大Atlan麻醉工作站呼吸机故障现场安全通知 (DSI/2026/005)
+
+**2026-08-04** | UK MHRA | 安全通报 | !!! HIGH
+
+2026年4月，德尔格发布后续现场安全通知，扩大受制造缺陷影响的Atlan麻醉工作站设备范围，该缺陷可能导致机械通气故障。英国MHRA安全警报（DSI/2026/005）要求医疗机构立即识别并隔离受影响设备，联系德尔格采取纠正措施，并审查过往通气故障报告。此次更新延续先前通知，强调在麻醉过程中呼吸机意外停机的严重风险。
+
+**标签**: `drager`, `atlan_anaesthesia_workstation`, `ventilator_failure`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/drager-atlan-anaesthesia-workstations-risk-of-ventilator-failure-dsi-slash-2026-slash-005)
+
+---
+
+### 英国MHRA更新药品生产与批发商许可证吊销/暂停公开清单（新增5项决定）
+
+**2026-08-04** | UK MHRA | 法规更新 | !! MEDIUM
+
+英国MHRA在其公开的执法清单中新增了5项决定，涉及药品和原料药生产商及批发商的许可证和注册被暂停或吊销。该清单列出已不再具备相关授权的企业。法规事务人员应查阅更新后的清单，确认供应商或合作伙伴的合规状态，并采取相应的供应链管理措施。
+
+**标签**: `uk_mhra`, `license_suspensions`, `manufacturing_license`, `wholesale_license`, `enforcement`, `supply_chain_compliance`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/government/publications/suspended-licences-for-manufacturers-and-wholesalers-of-medicines)
+
+---
+
+### MHRA现场安全通知汇总：2026年7月27日至31日
+
+**2026-08-04** | UK MHRA | 法规更新 | !! MEDIUM
+
+英国MHRA发布了2026年7月27日至31日期间发布的5份现场安全通知（FSN）汇编，涉及医疗器械和药械组合产品。该每周公告提醒医疗专业人员、设备供应商及用户注意需要立即审查的潜在安全问题。相关人员应识别受影响产品并遵循指定的纠正措施，以确保患者安全和合规。
+
+**标签**: `field_safety_notices`, `mhra`, `medical_device_safety`, `recall_alert`, `regulatory_compliance`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-27-to-31-july-2026)
+
+---
+
+### 加拿大卫生部因性能问题召回电动驱动器针套件
+
+**2026-08-04** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部因性能缺陷召回一款用于电动驱动器的针套件。该问题可能影响器械的预期功能，并给患者或操作人员带来风险。相关医疗机构和专业人员应立即识别并隔离该产品，并遵循制造商的纠正措施说明。此次警报突显了持续监测医疗器械性能的必要性。
+
+**标签**: `recall`, `needle_kit`, `powered_driver`, `performance_issue`, `safety_alert`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/needle-kit-powered-driver)
 
 ---
 
