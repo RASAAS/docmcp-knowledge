@@ -27,6 +27,7 @@ export default defineConfig({
                 { text: "安装插件", link: "/zh/guide/install" },
                 { text: "注册与登录", link: "/zh/guide/register" },
                 { text: "套餐与定价", link: "/zh/guide/pricing" },
+                { text: "助手与 CRM 的区别", link: "/zh/guide/crm-and-assistant" },
               ],
             },
             {
@@ -101,6 +102,7 @@ export default defineConfig({
                 { text: "Install Plugin", link: "/en/guide/install" },
                 { text: "Register & Login", link: "/en/guide/register" },
                 { text: "Plans & Pricing", link: "/en/guide/pricing" },
+                { text: "Assistant vs CRM", link: "/en/guide/crm-and-assistant" },
               ],
             },
             {

@@ -9,7 +9,7 @@
 | Basic | $50/mo | $500/yr | 500 | Individual RA professionals |
 | Pro | $130/mo | $1,300/yr | 1,200 | Teams (up to 3 accounts) |
 | Max | $1,150/mo | $11,500/yr | 15,000 | Large teams (up to 10 accounts) |
-| CRO | $300/mo | $3,000/yr | 3,000 | CRO organizations |
+| CRO | $1,150/mo | $11,500/yr | 15,000 | CRO organizations |
 
 ::: info Annual Discount
 Yearly pricing equals 10 months of monthly billing -- get 2 months free.
@@ -33,13 +33,15 @@ Yearly pricing equals 10 months of monthly billing -- get 2 months free.
 | PMCF Evaluation Report | - | - | - | v | v | v |
 | Periodic Safety Update Report | - | - | - | v | v | v |
 | NMPA Registration | - | - | - | v | v | v |
-| Team Accounts | - | - | - | 3 | 10 | - |
+| Team Accounts | - | - | - | 3 | 10 | 10 |
 | CRM Client Management | - | - | - | - | - | v |
 | Custom Model Selection | - | - | - | - | v | - |
 | Two-Factor Auth (2FA) | - | Required | Required | Required | Required | Required |
 
 ::: tip CRO Plan
 The CRO plan includes all Max-tier features plus CRM client management, designed for CRO organizations managing multiple client projects.
+
+Already have an Assistant account, or applying for CRM portal access? Read [Assistant vs CRM](./crm-and-assistant) so you do not confuse portal collaboration with Assistant plans / Credits.
 :::
 
 ## Credits
@@ -127,6 +129,11 @@ All subscription fees are non-refundable once paid, regardless of monthly or ann
 
 Pro plan supports up to 3 team members, Max up to 10. Team members share the organization's credit pool.
 
+### Are Assistant and CRM two products? How are Credits billed?
+
+Different purpose, same AI: Assistant is the documentation tool; CRM is the CRO client portal and operations platform (it calls the same Assistant API). Requesting portal access is not a separate Assistant purchase; Credits still bill to the account that initiates the AI call. See [Assistant vs CRM](./crm-and-assistant).
+
 ## Next Steps
 
 - [Create EU MDR Project](./eu-create-project) -- Start using core features
+- [Assistant vs CRM](./crm-and-assistant) -- Read before applying for portal access if you already have an account
