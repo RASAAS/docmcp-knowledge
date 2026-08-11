@@ -6,6 +6,18 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### Hamilton Medical 召回呼吸回路套件：FDA 宣布移除
+
+**2026-08-11** | FDA | cdrh_news | !!! HIGH
+
+美国FDA宣布，Hamilton Medical正在召回其呼吸回路套件。使用该套件的医疗机构应立即停止使用并退回受影响产品。此次召回针对可能影响通气治疗的潜在问题；具体批次号和纠正措施详见公司通知。
+
+**标签**: `medical_device_recall`, `breathing_circuit`, `hamilton_medical`, `ventilation`, `safety_alert`
+
+[查看来源 (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/breathing-circuit-set-recall-hamilton-medical-removes-breathing-circuit-set)
+
+---
+
 ### MHRA安全警报：供应无有效UKCA/CE标识的医疗器械须立即停用并隔离
 
 **2026-08-10** | UK MHRA | 安全通报 | !!! HIGH
@@ -157,6 +169,30 @@ Swissmedic 已针对 Intervascular SAS 生产的非药物涂层合成血管移�
 **标签**: `swissmedic`, `fsca`, `vascular_graft`, `intervascular`, `cardioroot_woven`, `medical_device_safety`
 
 [查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260805_053)
+
+---
+
+### 瑞思迈Astral 100/150呼吸机I级召回：超级电容泄漏可致治疗中断
+
+**2026-08-05** | FDA | recall_class1 | !!! HIGH
+
+美国FDA已将瑞思迈（ResMed）对Astral 100和Astral 150呼吸机的召回定为最严重的I级召回，原因是印刷电路板组件上的超级电容器电解液泄漏可能损坏充电芯片，导致设备进入故障安全状态并中断通气治疗。此种故障可能导致患者严重受伤或死亡。此次召回涉及全球168,069台设备。用户必须按照瑞思迈的指示，监测设备报警，若受影响应立即联系公司更换。
+
+**标签**: `class_i_recall`, `ventilator`, `resmed`, `supercapacitor_leakage`, `patient_safety`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2735-2026)
+
+---
+
+### 因颗粒物污染风险，Medical Action Industries血管造影包（REF NCAG62I）被I级召回
+
+**2026-08-05** | FDA | recall_class1 | !!! HIGH
+
+Medical Action Industries公司主动召回其Pack Angiography NCMC 3/Cs BANNER（REF NCAG62I）血管造影包，原因是所包含的Medline Namic歧管可能在生产过程中引入颗粒物，在心血管手术中可能进入血液循环并导致严重伤害。召回数量为657套，医疗机构须立即停用相关批次产品、隔离库存，并按通知退回。
+
+**标签**: `class_i_recall`, `particulate_contamination`, `angiography_pack`, `medical_action_industries`, `vascular_procedure`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2792-2026)
 
 ---
 
@@ -785,6 +821,16 @@ Medline Industries, LP 正在召回52套标注为‘HIP CDS-LF’的MEDLINE医�
 **标签**: `class_i_recall`, `medline`, `procedure_kit`, `bupivacaine`, `drug_device_combination`, `pain_management`, `safety_alert`
 
 [查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2764-2026)
+
+---
+
+### Class I Recall: Medline Industries, LP - MEDLINE convenience kits labeled as:    1) TOTAL JOINT KIT, Medline Kit SKU DYK
+
+**2026-07-29** | FDA | recall_class1 | !! MEDIUM
+
+Recall #Z-2749-2026 by Medline Industries, LP. Reason: Medline Industries, LP is issuing a recall for specific Medline kits containing B. Braun convenience kits that include Bupivacaine Hydrochloride in Dextrose Injection, USP. B. Braun Medical Inc. was n. Quantity: 2301 kits.
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2749-2026)
 
 ---
 
@@ -1850,6 +1896,18 @@ MHRA 发布了关于医疗器械在大不列颠和北爱尔兰市场上市前必
 
 ---
 
+### Thermo Fisher脑膜炎奈瑟菌C群诊断试剂（R30166901）召回：因性能不达标准，60秒内未能检出阳性
+
+**2026-07-17** | FDA | 安全通报 | !!! HIGH
+
+FDA已对特定批次的Thermo Fisher Diagnostics（Remel Europe Ltd.）脑膜炎奈瑟菌C群抗血清（产品号R30166901）发出I级召回。受影响产品未能按照说明书要求，在60秒内与ATCC13102菌株产生阳性反应，可能导致假阴性结果。错误鉴定脑膜炎球菌C群会延误临床治疗和感染防控，带来严重健康风险。各实验室应立即停用相关批次、隔离库存，联系Thermo Fisher更换产品，并对既往检测结果进行复核。
+
+**标签**: `device_recall`, `fda_safety_alert`, `invitro_diagnostics`, `neisseria_meningitidis`, `false_negative`, `class_i_recall`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=221582)
+
+---
+
 ### MHRA更新医疗器械特殊使用授权清单（含失效/取消豁免）
 
 **2026-07-17** | UK MHRA | 法规更新 | !! MEDIUM
@@ -1929,6 +1987,18 @@ Performance
 **标签**: `japan_pmda`, `class_ii_recall`, `skin_graft_expander`, `mesh_carrier`, `medical_device`
 
 [查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12899)
+
+---
+
+### Biofire Defense召回FilmArray NGDS Warrior Panel因爆发菌株与参考菌株不匹配
+
+**2026-07-16** | FDA | 安全通报 | !!! HIGH
+
+Biofire Defense已召回FilmArray NGDS Warrior Panel（REF NGDS-ASY-0007，UDI-DI (01)00851458005136），因检测开发所用参考菌株与实际爆发菌株不匹配，可能导致假阴性或检测不准确。医疗机构须立即停用受影响产品，隔离库存并按照企业指示退回或销毁。FDA已将此列为II级召回（Z-2877-2026）。
+
+**标签**: `device_recall`, `class_ii_recall`, `ivd_panel`, `nucleic_acid_test`, `biofire_defense`, `filmArray`, `safety_alert`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=221599)
 
 ---
 

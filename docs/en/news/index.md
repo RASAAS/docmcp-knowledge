@@ -6,6 +6,18 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### Hamilton Medical Recalls Breathing Circuit Set: FDA Announces Removal
+
+**2026-08-11** | FDA | cdrh_news | !!! HIGH
+
+The FDA announced that Hamilton Medical is recalling its Breathing Circuit Set. Healthcare facilities using these circuits should immediately stop use and return affected products. The recall addresses a potential issue that could compromise ventilation therapy; specific lot numbers and corrective actions are outlined in the company's notification.
+
+**Tags**: `medical_device_recall`, `breathing_circuit`, `hamilton_medical`, `ventilation`, `safety_alert`
+
+[View Source (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/breathing-circuit-set-recall-hamilton-medical-removes-breathing-circuit-set)
+
+---
+
 ### MHRA Safety Alert: Medical Devices Supplied Without UKCA/CE Markings Must Be Removed and Quarantined
 
 **2026-08-10** | UK MHRA | Safety Communication | !!! HIGH
@@ -157,6 +169,30 @@ Swissmedic has issued a Field Safety Corrective Action (FSCA) for Cardioroot Wov
 **Tags**: `swissmedic`, `fsca`, `vascular_graft`, `intervascular`, `cardioroot_woven`, `medical_device_safety`
 
 [View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260805_053)
+
+---
+
+### ResMed Astral 100/150 Ventilator Class I Recall: Supercapacitor Leak May Stop Therapy
+
+**2026-08-05** | FDA | recall_class1 | !!! HIGH
+
+FDA has classified ResMed’s recall of the Astral 100 and Astral 150 ventilators as a Class I recall, the most serious type, because electrolyte leakage from a supercapacitor on the printed circuit board assembly can damage the charger chip and force the device into a fail-safe state, interrupting ventilation therapy. This failure may cause serious patient harm or death. The recall covers 168,069 units distributed globally. Users must follow ResMed’s instructions to monitor for alarms and contact the company for a replacement if the device is affected.
+
+**Tags**: `class_i_recall`, `ventilator`, `resmed`, `supercapacitor_leakage`, `patient_safety`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2735-2026)
+
+---
+
+### Class I Recall of Medical Action Industries Angiography Pack (REF NCAG62I) Due to Particulate in Fluid Path
+
+**2026-08-05** | FDA | recall_class1 | !!! HIGH
+
+Medical Action Industries, Inc. has initiated a Class I recall of its Pack Angiography NCMC 3/Cs BANNER (REF NCAG62I) because the included Medline Namic manifolds may contain particulate in the fluid path. If particles enter the bloodstream during cardiovascular procedures, they could cause serious adverse health events. The recall involves 657 kits distributed across the U.S.; healthcare facilities should immediately stop using the affected product, quarantine remaining inventory, and follow return instructions.
+
+**Tags**: `class_i_recall`, `particulate_contamination`, `angiography_pack`, `medical_action_industries`, `vascular_procedure`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2792-2026)
 
 ---
 
@@ -785,6 +821,16 @@ Medline Industries, LP is recalling 52 units of its MEDLINE ‘HIP CDS-LF’ pro
 **Tags**: `class_i_recall`, `medline`, `procedure_kit`, `bupivacaine`, `drug_device_combination`, `pain_management`, `safety_alert`
 
 [View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2764-2026)
+
+---
+
+### Class I Recall: Medline Industries, LP - MEDLINE convenience kits labeled as:    1) TOTAL JOINT KIT, Medline Kit SKU DYK
+
+**2026-07-29** | FDA | recall_class1 | !! MEDIUM
+
+Recall #Z-2749-2026 by Medline Industries, LP. Reason: Medline Industries, LP is issuing a recall for specific Medline kits containing B. Braun convenience kits that include Bupivacaine Hydrochloride in Dextrose Injection, USP. B. Braun Medical Inc. was n. Quantity: 2301 kits.
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2749-2026)
 
 ---
 
@@ -1850,6 +1896,18 @@ The Saudi Food and Drug Authority's National Center for Medical Devices Reportin
 
 ---
 
+### Recall: Thermo Fisher Neisseria meningitidis Gp C Antisera (R30166901) Fails IFU Performance, Not Positive within 60 Seconds
+
+**2026-07-17** | FDA | Safety Communication | !!! HIGH
+
+The FDA has issued a Class I recall for specific lots of Remel Europe Ltd. / Thermo Fisher Diagnostics Neisseria meningitidis Gp C antisera (R30166901). The affected product does not yield a positive reaction with the ATCC13102 control strain within 60 seconds as required by the instructions for use, potentially leading to false-negative results. Misidentification of Neisseria meningitidis serogroup C may delay appropriate treatment and infection control measures, posing serious health risks. Laboratories should immediately discontinue use of the impacted lots, quarantine remaining inventory, and contact Thermo Fisher for replacement. All results obtained with these lots should be re-evaluated.
+
+**Tags**: `device_recall`, `fda_safety_alert`, `invitro_diagnostics`, `neisseria_meningitidis`, `false_negative`, `class_i_recall`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=221582)
+
+---
+
 ### MHRA Updates List of Medical Devices with Exceptional Use Authorisations (Including Expired/Cancelled Exemptions)
 
 **2026-07-17** | UK MHRA | Regulation Update | !! MEDIUM
@@ -1929,6 +1987,18 @@ The PMDA has issued a Class II recall (No. 2-12899) for the Mesh Carrier (autolo
 **Tags**: `japan_pmda`, `class_ii_recall`, `skin_graft_expander`, `mesh_carrier`, `medical_device`
 
 [View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12899)
+
+---
+
+### Biofire Defense Recalls FilmArray NGDS Warrior Panel Due to Outbreak Strain Mismatch
+
+**2026-07-16** | FDA | Safety Communication | !!! HIGH
+
+Biofire Defense has recalled the FilmArray NGDS Warrior Panel (REF NGDS-ASY-0007, UDI-DI (01)00851458005136) because the reference strains used in test development do not match circulating outbreak strains, which may cause false negative or inaccurate results. Affected product should be immediately removed from use, quarantined, and returned or disposed of as directed by the firm. The FDA has classified this as a Class II recall (Z-2877-2026).
+
+**Tags**: `device_recall`, `class_ii_recall`, `ivd_panel`, `nucleic_acid_test`, `biofire_defense`, `filmArray`, `safety_alert`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=221599)
 
 ---
 
