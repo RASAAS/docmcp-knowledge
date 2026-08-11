@@ -1,8 +1,21 @@
 # NMPA Technical Documentation
 
-Medical device registration technical documentation requirements under NMPA (National Medical Products Administration) are defined by the **Administrative Measures for Medical Device Registration and Filing** (Order No. 47, 2021) and **Notice 2021-121** (Attachment 5: Registration Dossier Requirements and Instructions).
+Medical device registration technical documentation requirements under NMPA are defined by **Order No. 47 (2021)** and **Notice 2021-121**.
 
-## Document Structure (6-Chapter Format per Notice 2021-121)
+## Choose the dossier path by scenario
+
+| Scenario | Applies to | Basis | Page |
+|----------|------------|-------|------|
+| **Initial registration (II/III)** | New Class II/III | Notice 2021-121 Att.5 (6 chapters) | Sections below |
+| **Change registration** | Substantive certificate changes | Att.7 | [Change registration](/en/nmpa/td/change-registration) |
+| **Change filing** | Administrative changes | Att.7 (filing) | [Change filing](/en/nmpa/td/change-filing) |
+| **Renewal** | Certificate renewal, no listed changes | Att.6 | [Renewal](/en/nmpa/td/renewal) |
+| **Class I filing** | Class I products | Notice 2022-62 | [Class I filing](/en/nmpa/td/class-i-filing) |
+| **Innovation special review** | Innovation pathway qualification | 2018-127 guide | [Innovation special review](/en/nmpa/td/innovation-special-review) |
+
+> CRM / AI checklist generation must pick the correct scenario — do **not** apply the full initial 6-chapter list to change, renewal, or Class I filing.
+
+## Initial registration structure (6 chapters, Notice 2021-121 Att.5)
 
 ### Chapter 1: Regulatory Information (监管信息)
 
