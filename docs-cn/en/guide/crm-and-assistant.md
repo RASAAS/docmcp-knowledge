@@ -83,6 +83,7 @@ No — requesting portal access does not spend Credits. When the CRO creates pro
 
 - [Request CRM portal access](https://crm.reguverse.com/request-access)
 - [CRM login](https://crm.reguverse.com/login)
+- [CRM alerts (Telegram / DingTalk)](./crm-telegram)
 - [Plans & Pricing](./pricing)
 - [Register & Login](./register)
 - [Account Management](./account)

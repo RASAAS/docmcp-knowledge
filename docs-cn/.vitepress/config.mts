@@ -28,6 +28,7 @@ export default defineConfig({
                 { text: "注册与登录", link: "/zh/guide/register" },
                 { text: "套餐与定价", link: "/zh/guide/pricing" },
                 { text: "助手与 CRM 的区别", link: "/zh/guide/crm-and-assistant" },
+                { text: "CRM 消息提醒（Telegram / 钉钉）", link: "/zh/guide/crm-telegram" },
               ],
             },
             {
@@ -103,6 +104,7 @@ export default defineConfig({
                 { text: "Register & Login", link: "/en/guide/register" },
                 { text: "Plans & Pricing", link: "/en/guide/pricing" },
                 { text: "Assistant vs CRM", link: "/en/guide/crm-and-assistant" },
+                { text: "CRM alerts (Telegram / DingTalk)", link: "/en/guide/crm-telegram" },
               ],
             },
             {

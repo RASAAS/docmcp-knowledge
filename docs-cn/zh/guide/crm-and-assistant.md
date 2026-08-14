@@ -83,6 +83,7 @@ CRM 的 **CRO 套餐**在助手套餐体系中额外开放 CRM 功能（见 [套
 
 - [申请 CRM 门户访问](https://crm.reguverse.com/request-access)
 - [CRM 登录](https://crm.reguverse.com/login)
+- [CRM 消息提醒（Telegram / 钉钉）](./crm-telegram)
 - [套餐与定价](./pricing)
 - [注册与登录](./register)
 - [账户管理](./account)
