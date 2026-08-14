@@ -13,7 +13,11 @@ Alerts are a short summary plus a link into CRM. **Full confidential message tex
 
 ## Overseas: bind Telegram
 
-This takes about a minute. Use Telegram on your phone or computer.
+This takes about a minute. Use the Telegram app or Telegram Web.
+
+::: info Sign in to Telegram Web first
+If you will finish linking in **Telegram Web**, open it and **sign in** before you tap Bind in CRM. The bind link often fails if you are not signed in yet. The mobile app does not need this step.
+:::
 
 ### Step 1: Open Notification Settings and tap Bind
 
@@ -22,20 +26,21 @@ This takes about a minute. Use Telegram on your phone or computer.
 
 ![Step 1: Bind in Notification Settings](/guide/crm-telegram/crm_tg_notify.png)
 
-### Step 2: Copy your personal command
+### Step 2: Open Telegram and send /start
 
-CRM shows a command that starts with `/start` (unique each time). **Copy the whole command.**  
-You can also tap **Open Telegram to finish linking**. If the browser says the URL is invalid, tap OK, then open the bot with the steps below.
+Tap **Open Telegram to finish linking**. In most cases, open the bot chat and tap **START**, or type `/start` and send it.
 
-![Step 2: Copy the /start command](/guide/crm-telegram/crm_tg_bind.png)
+**No extra code after `/start`:** this Telegram is linking one CRM login only. Tap START or type `/start`. Do not paste anything else.
 
-One Telegram account can link **both** your team login and your client-portal login. Bind on the other side too, then paste the **new** command in the same bot chat.
+**A code after `/start` (personal command):** this appears only when **more than one CRM login shares the same Telegram** (for example team login and client portal). Paste the full command into the same bot chat. Do not tap START only.
 
-### Step 3: Find the official bot in Telegram
+![Step 2: Open Telegram to finish linking](/guide/crm-telegram/crm_tg_bind.png)
 
-Open Telegram, search for **Reguverse CRM**, and open **Reguverse CRM** — the username must be **@reguversebot**.
+### Step 3: If the bind link does not open in Telegram Web, search for the bot
 
-![Step 3: Search for Reguverse CRM / @reguversebot](/guide/crm-telegram/telegram_web_add.png)
+If you cannot open the bind link (for example the browser says the URL is invalid), do not keep retrying it. Open Telegram, search for **Reguverse CRM**, tap **Reguverse CRM** (the username must be **@reguversebot**), then continue with START below.
+
+![Step 3: Search for the official bot @reguversebot](/guide/crm-telegram/telegram_web_add.png)
 
 ### Step 4: Open the bot
 
@@ -46,21 +51,19 @@ On the bot profile:
 
 ![Step 4: START BOT or OPEN IN WEB](/guide/crm-telegram/crm_tg_open_in_web.png)
 
-::: warning Do not rely on START BOT for a second login
-If you already started this bot (for example you linked your team login and now want the client portal too), **do not only tap START BOT**. Go back to CRM, copy the new `/start ...` command, and paste it in the same chat.
-:::
+### Step 5: Tap START, or type /start
 
-### Step 5: Start the chat
+If the chat is empty, tap **START** at the bottom. For a single CRM login, that is enough.
 
-If the chat is empty, tap **START** at the bottom.
+![Step 5: Tap START or type /start](/guide/crm-telegram/crm_tg_openbot.png)
 
-![Step 5: Tap START](/guide/crm-telegram/crm_tg_openbot.png)
+### Step 6: Wait for confirmation (personal command only for multiple logins)
 
-### Step 6: Paste the command and wait for confirmation
+Single login: after START, the bot confirms you are linked.
 
-Paste the `/start ...` command from Step 2 and send it. A reply like **Also linked...** means you are done. Later alerts are tagged **[CRO]** or **[Client portal]** so you can tell which login they belong to.
+Several CRM logins on the same Telegram: paste the full `/start ...` command from Step 2. A reply like **Also linked...** means this Telegram will get alerts for more than one login, tagged **[CRO]** or **[Client portal]**.
 
-![Step 6: Linked successfully](/guide/crm-telegram/crm_tg_linked.png)
+![Step 6: Also linked when several logins share one Telegram](/guide/crm-telegram/crm_tg_linked.png)
 
 ---
 
