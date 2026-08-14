@@ -1,7 +1,34 @@
 {
   "framework": "singapore_hsa",
-  "last_updated": "2026-07-31T20:25:50Z",
+  "last_updated": "2026-08-14T19:47:40Z",
   "items": [
+    {
+      "id": "singapore_hsa_20260814_hsa_publishes_summary_of_responses_to_public_consultation_fe",
+      "framework": "singapore_hsa",
+      "category": "regulation_update",
+      "title": {
+        "en": "HSA Publishes Summary of Responses to Public Consultation Feedback on Medical Device Cybersecurity Best Practices Guide",
+        "zh": "HSA发布医疗器械网络安全最佳实践指南公众咨询反馈回应摘要"
+      },
+      "summary": {
+        "en": "The Health Sciences Authority (HSA) has published a summary of responses to feedback received during the public consultation on its Best Practices Guide for Medical Device Cybersecurity. This item is relevant to medical device manufacturers, importers, and suppliers placing devices in Singapore, as it clarifies stakeholder comments and HSA's positions on cybersecurity expectations. Regulatory affairs professionals should review the responses and the final guide to ensure their medical device cybersecurity documentation and risk management align with HSA recommendations.",
+        "zh": "新加坡卫生科学局（HSA）发布了关于医疗器械网络安全最佳实践指南公众咨询所收反馈的回应摘要。此文件面向在新加坡供应医疗器械的制造商、进口商和供应商，澄清了利益相关方意见及HSA在网络安全要求上的立场。法规事务人员应审阅该回应摘要及最终指南，确保医疗器械网络安全文档和风险管理符合HSA建议。"
+      },
+      "source_url": "https://www.hsa.gov.sg/announcements/summary-of-responses-to-feedback-from-public-consultation-on-best-practices-guide-for-medical-device-cybersecurity/",
+      "source_name": "HSA (Singapore)",
+      "published_date": "2026-08-14",
+      "detected_date": "2026-08-14T19:47:40Z",
+      "importance": "medium",
+      "tags": [
+        "medical_device_cybersecurity",
+        "hsa",
+        "regulatory_guidance",
+        "public_consultation",
+        "singapore"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
     {
       "id": "singapore_hsa_20260731_hsa_updates_gn_21_r7_change_notification_guidance_for_regist",
       "framework": "singapore_hsa",
@@ -25,6 +52,31 @@
         "medical_devices",
         "HSA",
         "Singapore"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "singapore_hsa_20260814_hsa_updates_gl_10_r1_best_practices_guide_on_medical_device",
+      "framework": "singapore_hsa",
+      "category": "regulation_update",
+      "title": {
+        "en": "HSA Updates GL-10-R1 Best Practices Guide on Medical Device Cybersecurity",
+        "zh": "新加坡HSA更新医疗器械网络安全指南GL-10-R1"
+      },
+      "summary": {
+        "en": "The Health Sciences Authority (HSA) has updated guidance document GL-10-R1, 'Best Practices Guide on Medical Device Cybersecurity.' The guide outlines cybersecurity regulatory expectations and best practices for medical device manufacturers, importers, and suppliers in Singapore. Affected stakeholders should review the updated guidance and align pre-market submissions, post-market risk management, and cybersecurity documentation with the latest recommendations.",
+        "zh": "新加坡卫生科学局（HSA）更新了指导文件GL-10-R1《医疗器械网络安全最佳实践指南》。该指南阐述了医疗器械制造商、进口商和供应商在新加坡应遵循的网络安全监管要求和最佳实践。相关企业应审查更新内容，确保上市前申报、上市后风险管理及网络安全文件符合最新建议。"
+      },
+      "source_url": "https://go.gov.sg/gl-10-r1-14-08-2026",
+      "source_name": "Official Source",
+      "published_date": "2026-08-01",
+      "detected_date": "2026-08-14T19:47:22Z",
+      "importance": "medium",
+      "tags": [
+        "medical_device_cybersecurity",
+        "hsa_guidance",
+        "regulatory_update"
       ],
       "related_docs": [],
       "status": "published"

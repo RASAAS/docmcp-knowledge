@@ -6,6 +6,18 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### HSA Publishes Summary of Responses to Public Consultation Feedback on Medical Device Cybersecurity Best Practices Guide
+
+**2026-08-14** | Singapore HSA | Regulation Update | !! MEDIUM
+
+The Health Sciences Authority (HSA) has published a summary of responses to feedback received during the public consultation on its Best Practices Guide for Medical Device Cybersecurity. This item is relevant to medical device manufacturers, importers, and suppliers placing devices in Singapore, as it clarifies stakeholder comments and HSA's positions on cybersecurity expectations. Regulatory affairs professionals should review the responses and the final guide to ensure their medical device cybersecurity documentation and risk management align with HSA recommendations.
+
+**Tags**: `medical_device_cybersecurity`, `hsa`, `regulatory_guidance`, `public_consultation`, `singapore`
+
+[View Source (HSA (Singapore))](https://www.hsa.gov.sg/announcements/summary-of-responses-to-feedback-from-public-consultation-on-best-practices-guide-for-medical-device-cybersecurity/)
+
+---
+
 ### HSA Updates GN-21 R7 Change Notification Guidance for Registered Medical Devices (Effective Jul 2026)
 
 **2026-08-01** | Singapore HSA | Regulation Update | !! MEDIUM
@@ -15,6 +27,18 @@ Singapore’s Health Sciences Authority (HSA) has issued revision 7 of Guidance 
 **Tags**: `change_notification`, `guidance_document`, `medical_devices`, `HSA`, `Singapore`
 
 [View Source (Official Source)](https://go.gov.sg/gn-21-r7-31-07-2026)
+
+---
+
+### HSA Updates GL-10-R1 Best Practices Guide on Medical Device Cybersecurity
+
+**2026-08-01** | Singapore HSA | Regulation Update | !! MEDIUM
+
+The Health Sciences Authority (HSA) has updated guidance document GL-10-R1, 'Best Practices Guide on Medical Device Cybersecurity.' The guide outlines cybersecurity regulatory expectations and best practices for medical device manufacturers, importers, and suppliers in Singapore. Affected stakeholders should review the updated guidance and align pre-market submissions, post-market risk management, and cybersecurity documentation with the latest recommendations.
+
+**Tags**: `medical_device_cybersecurity`, `hsa_guidance`, `regulatory_update`
+
+[View Source (Official Source)](https://go.gov.sg/gl-10-r1-14-08-2026)
 
 ---
 

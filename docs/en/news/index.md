@@ -6,6 +6,38 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### HSA Publishes Summary of Responses to Public Consultation Feedback on Medical Device Cybersecurity Best Practices Guide
+
+**2026-08-14** | Singapore HSA | Regulation Update | !! MEDIUM
+
+The Health Sciences Authority (HSA) has published a summary of responses to feedback received during the public consultation on its Best Practices Guide for Medical Device Cybersecurity. This item is relevant to medical device manufacturers, importers, and suppliers placing devices in Singapore, as it clarifies stakeholder comments and HSA's positions on cybersecurity expectations. Regulatory affairs professionals should review the responses and the final guide to ensure their medical device cybersecurity documentation and risk management align with HSA recommendations.
+
+**Tags**: `medical_device_cybersecurity`, `hsa`, `regulatory_guidance`, `public_consultation`, `singapore`
+
+[View Source (HSA (Singapore))](https://www.hsa.gov.sg/announcements/summary-of-responses-to-feedback-from-public-consultation-on-best-practices-guide-for-medical-device-cybersecurity/)
+
+---
+
+### IV Sets or Administration Sets - ICU Medical, Inc.
+
+**2026-08-13** | Swissmedic | Safety Communication | !! MEDIUM
+
+FSCA: MD: IV Sets or Administration Sets. Reason: . Model: various.
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260730_037)
+
+---
+
+### SPECTRALIS with FLex Module - Heidelberg Engineering GmbH
+
+**2026-08-12** | Swissmedic | Safety Communication | !! MEDIUM
+
+FSCA: MD: Ophthalmology instruments. Reason: . Model: .
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260804_021)
+
+---
+
 ### Hamilton Medical Recalls Breathing Circuit Set: FDA Announces Removal
 
 **2026-08-11** | FDA | cdrh_news | !!! HIGH
@@ -15,6 +47,84 @@ The FDA announced that Hamilton Medical is recalling its Breathing Circuit Set. 
 **Tags**: `medical_device_recall`, `breathing_circuit`, `hamilton_medical`, `ventilation`, `safety_alert`
 
 [View Source (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/breathing-circuit-set-recall-hamilton-medical-removes-breathing-circuit-set)
+
+---
+
+### Swissmedic FSCA: Alber e-motion M25 Wheelchair Propulsion System – Added Language
+
+**2026-08-11** | Swissmedic | Safety Communication | !! MEDIUM
+
+This Swissmedic FSCA covers the e-motion M25 wheelchair electric-motor-driven propulsion system from Alber GmbH. The corrective action was issued because a new language has been added to the device documentation/labeling. The affected model is M25. Responsible parties should update and distribute the new language version according to Swissmedic requirements.
+
+**Tags**: `swissmedic_fsca`, `labeling_update`, `wheelchair_propulsion`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260805_054)
+
+---
+
+### Bravo CF capsule delivery dev - Given Imaging Inc.
+
+**2026-08-11** | Swissmedic | Safety Communication | !! MEDIUM
+
+FSCA: MD: Gastrointestinal telemetric monitoring system. Reason: additional languages added. Model: FGS-0635, FGS-0636.
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260807_046)
+
+---
+
+### EPIQ Ultrasound System - Philips Medical Systems Nederland B.V.
+
+**2026-08-11** | Swissmedic | Safety Communication | !! MEDIUM
+
+FSCA: MD: General-purpose ultrasound imaging system. Reason: . Model: 795234.
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260807_068)
+
+---
+
+### Healon Duet - AMO Uppsala AB
+
+**2026-08-11** | Swissmedic | Safety Communication | !! MEDIUM
+
+FSCA: MD: Ophthalmology, hyaluronic acid and derivatives. Reason: . Model: 10301016.
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260728_001)
+
+---
+
+### Swissmedic FSCA: Healon EndoCoat by AMO Uppsala AB, Model 10301012
+
+**2026-08-11** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic has published a Field Safety Corrective Action (FSCA) for Healon EndoCoat, manufactured by AMO Uppsala AB, an intraoperative vitreous/aqueous humour replacement medium, covering model 10301012. The specific reason for the corrective action is not detailed in the brief alert summary; regulatory affairs professionals should review the full Swissmedic FSCA notice for detailed reason and required actions. Users with affected product should verify inventory and follow the manufacturer’s field safety notice.
+
+**Tags**: `swissmedic`, `fsca`, `ophthalmic_device`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260728_001)
+
+---
+
+### Swissmedic FSCA: Edwards Lifesciences ForeSight Oximeter Cable for Bedside Monitors
+
+**2026-08-11** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic has published a field safety corrective action (FSCA) concerning the Edwards Lifesciences ForeSight Oximeter Cable, which is used with general-purpose multi-parameter bedside monitors. The specific reason and affected model/lot are referenced in the manufacturer’s Field Safety Notice (FSN). Users should review the FSN and follow the manufacturer’s recommended corrective actions.
+
+**Tags**: `swissmedic`, `fsca`, `medical_device`, `oximeter_cable`, `field_safety_corrective_action`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260810_033)
+
+---
+
+### Philips Azurion Angiographic X-Ray System: Swissmedic FSCA for Multiple Models
+
+**2026-08-11** | Swissmedic | Safety Communication | !! MEDIUM
+
+This Swissmedic field safety corrective action (FSCA) concerns the Philips Azurion stationary angiographic X-ray system, manufactured by Philips Medical Systems Nederland B.V. The affected models include 722063, 722064, 722067, 722068, 722078, 722079, 722221 through 722228, and 722280. The provided notice does not specify the reason for the corrective action, so regulatory affairs professionals and affected users should consult the official Swissmedic FSCA and Philips instructions for required actions.
+
+**Tags**: `swissmedic`, `fsca`, `medical_device_safety`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260810_030)
 
 ---
 
@@ -535,6 +645,18 @@ Singapore’s Health Sciences Authority (HSA) has issued revision 7 of Guidance 
 **Tags**: `change_notification`, `guidance_document`, `medical_devices`, `HSA`, `Singapore`
 
 [View Source (Official Source)](https://go.gov.sg/gn-21-r7-31-07-2026)
+
+---
+
+### HSA Updates GL-10-R1 Best Practices Guide on Medical Device Cybersecurity
+
+**2026-08-01** | Singapore HSA | Regulation Update | !! MEDIUM
+
+The Health Sciences Authority (HSA) has updated guidance document GL-10-R1, 'Best Practices Guide on Medical Device Cybersecurity.' The guide outlines cybersecurity regulatory expectations and best practices for medical device manufacturers, importers, and suppliers in Singapore. Affected stakeholders should review the updated guidance and align pre-market submissions, post-market risk management, and cybersecurity documentation with the latest recommendations.
+
+**Tags**: `medical_device_cybersecurity`, `hsa_guidance`, `regulatory_update`
+
+[View Source (Official Source)](https://go.gov.sg/gl-10-r1-14-08-2026)
 
 ---
 

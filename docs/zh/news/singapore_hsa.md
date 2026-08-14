@@ -6,6 +6,18 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### HSA发布医疗器械网络安全最佳实践指南公众咨询反馈回应摘要
+
+**2026-08-14** | Singapore HSA | 法规更新 | !! MEDIUM
+
+新加坡卫生科学局（HSA）发布了关于医疗器械网络安全最佳实践指南公众咨询所收反馈的回应摘要。此文件面向在新加坡供应医疗器械的制造商、进口商和供应商，澄清了利益相关方意见及HSA在网络安全要求上的立场。法规事务人员应审阅该回应摘要及最终指南，确保医疗器械网络安全文档和风险管理符合HSA建议。
+
+**标签**: `medical_device_cybersecurity`, `hsa`, `regulatory_guidance`, `public_consultation`, `singapore`
+
+[查看来源 (HSA (Singapore))](https://www.hsa.gov.sg/announcements/summary-of-responses-to-feedback-from-public-consultation-on-best-practices-guide-for-medical-device-cybersecurity/)
+
+---
+
 ### HSA更新GN-21 R7版注册医疗器械变更通知指导（2026年7月生效）
 
 **2026-08-01** | Singapore HSA | 法规更新 | !! MEDIUM
@@ -15,6 +27,18 @@ title: 法规速递
 **标签**: `change_notification`, `guidance_document`, `medical_devices`, `HSA`, `Singapore`
 
 [查看来源 (Official Source)](https://go.gov.sg/gn-21-r7-31-07-2026)
+
+---
+
+### 新加坡HSA更新医疗器械网络安全指南GL-10-R1
+
+**2026-08-01** | Singapore HSA | 法规更新 | !! MEDIUM
+
+新加坡卫生科学局（HSA）更新了指导文件GL-10-R1《医疗器械网络安全最佳实践指南》。该指南阐述了医疗器械制造商、进口商和供应商在新加坡应遵循的网络安全监管要求和最佳实践。相关企业应审查更新内容，确保上市前申报、上市后风险管理及网络安全文件符合最新建议。
+
+**标签**: `medical_device_cybersecurity`, `hsa_guidance`, `regulatory_update`
+
+[查看来源 (Official Source)](https://go.gov.sg/gl-10-r1-14-08-2026)
 
 ---
 

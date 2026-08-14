@@ -36,6 +36,104 @@ title: Regulatory News
 
 ## Latest Updates
 
+### IV Sets or Administration Sets - ICU Medical, Inc.
+
+**2026-08-13** | Swissmedic | Safety Communication | !! MEDIUM
+
+FSCA: MD: IV Sets or Administration Sets. Reason: . Model: various.
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260730_037)
+
+---
+
+### SPECTRALIS with FLex Module - Heidelberg Engineering GmbH
+
+**2026-08-12** | Swissmedic | Safety Communication | !! MEDIUM
+
+FSCA: MD: Ophthalmology instruments. Reason: . Model: .
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260804_021)
+
+---
+
+### Swissmedic FSCA: Alber e-motion M25 Wheelchair Propulsion System – Added Language
+
+**2026-08-11** | Swissmedic | Safety Communication | !! MEDIUM
+
+This Swissmedic FSCA covers the e-motion M25 wheelchair electric-motor-driven propulsion system from Alber GmbH. The corrective action was issued because a new language has been added to the device documentation/labeling. The affected model is M25. Responsible parties should update and distribute the new language version according to Swissmedic requirements.
+
+**Tags**: `swissmedic_fsca`, `labeling_update`, `wheelchair_propulsion`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260805_054)
+
+---
+
+### Bravo CF capsule delivery dev - Given Imaging Inc.
+
+**2026-08-11** | Swissmedic | Safety Communication | !! MEDIUM
+
+FSCA: MD: Gastrointestinal telemetric monitoring system. Reason: additional languages added. Model: FGS-0635, FGS-0636.
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260807_046)
+
+---
+
+### EPIQ Ultrasound System - Philips Medical Systems Nederland B.V.
+
+**2026-08-11** | Swissmedic | Safety Communication | !! MEDIUM
+
+FSCA: MD: General-purpose ultrasound imaging system. Reason: . Model: 795234.
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260807_068)
+
+---
+
+### Healon Duet - AMO Uppsala AB
+
+**2026-08-11** | Swissmedic | Safety Communication | !! MEDIUM
+
+FSCA: MD: Ophthalmology, hyaluronic acid and derivatives. Reason: . Model: 10301016.
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260728_001)
+
+---
+
+### Swissmedic FSCA: Healon EndoCoat by AMO Uppsala AB, Model 10301012
+
+**2026-08-11** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic has published a Field Safety Corrective Action (FSCA) for Healon EndoCoat, manufactured by AMO Uppsala AB, an intraoperative vitreous/aqueous humour replacement medium, covering model 10301012. The specific reason for the corrective action is not detailed in the brief alert summary; regulatory affairs professionals should review the full Swissmedic FSCA notice for detailed reason and required actions. Users with affected product should verify inventory and follow the manufacturer’s field safety notice.
+
+**Tags**: `swissmedic`, `fsca`, `ophthalmic_device`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260728_001)
+
+---
+
+### Swissmedic FSCA: Edwards Lifesciences ForeSight Oximeter Cable for Bedside Monitors
+
+**2026-08-11** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic has published a field safety corrective action (FSCA) concerning the Edwards Lifesciences ForeSight Oximeter Cable, which is used with general-purpose multi-parameter bedside monitors. The specific reason and affected model/lot are referenced in the manufacturer’s Field Safety Notice (FSN). Users should review the FSN and follow the manufacturer’s recommended corrective actions.
+
+**Tags**: `swissmedic`, `fsca`, `medical_device`, `oximeter_cable`, `field_safety_corrective_action`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260810_033)
+
+---
+
+### Philips Azurion Angiographic X-Ray System: Swissmedic FSCA for Multiple Models
+
+**2026-08-11** | Swissmedic | Safety Communication | !! MEDIUM
+
+This Swissmedic field safety corrective action (FSCA) concerns the Philips Azurion stationary angiographic X-ray system, manufactured by Philips Medical Systems Nederland B.V. The affected models include 722063, 722064, 722067, 722068, 722078, 722079, 722221 through 722228, and 722280. The provided notice does not specify the reason for the corrective action, so regulatory affairs professionals and affected users should consult the official Swissmedic FSCA and Philips instructions for required actions.
+
+**Tags**: `swissmedic`, `fsca`, `medical_device_safety`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260810_030)
+
+---
+
 ### Swissmedic FSCA: ORBIS Medication 3.x – DH Healthcare GmbH
 
 **2026-08-07** | Swissmedic | Safety Communication | !! MEDIUM

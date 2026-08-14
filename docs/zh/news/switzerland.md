@@ -36,6 +36,104 @@ title: 法规速递
 
 ## 最新动态
 
+### IV Sets or Administration Sets - ICU Medical, Inc.
+
+**2026-08-13** | Swissmedic | 安全通报 | !! MEDIUM
+
+FSCA: MD: IV Sets or Administration Sets. Reason: . Model: various.
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260730_037)
+
+---
+
+### SPECTRALIS with FLex Module - Heidelberg Engineering GmbH
+
+**2026-08-12** | Swissmedic | 安全通报 | !! MEDIUM
+
+FSCA: MD: Ophthalmology instruments. Reason: . Model: .
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260804_021)
+
+---
+
+### Swissmedic FSCA：Alber e-motion M25轮椅电动推进系统新增语言
+
+**2026-08-11** | Swissmedic | 安全通报 | !! MEDIUM
+
+该Swissmedic FSCA涉及Alber GmbH生产的e-motion M25轮椅电动推进系统。此次现场安全纠正措施的原因是为设备文件/标签新增一种语言版本，受影响型号为M25。相关责任方应根据Swissmedic要求更新并分发新增语言版本。
+
+**标签**: `swissmedic_fsca`, `labeling_update`, `wheelchair_propulsion`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260805_054)
+
+---
+
+### Bravo CF capsule delivery dev - Given Imaging Inc.
+
+**2026-08-11** | Swissmedic | 安全通报 | !! MEDIUM
+
+FSCA: MD: Gastrointestinal telemetric monitoring system. Reason: additional languages added. Model: FGS-0635, FGS-0636.
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260807_046)
+
+---
+
+### EPIQ Ultrasound System - Philips Medical Systems Nederland B.V.
+
+**2026-08-11** | Swissmedic | 安全通报 | !! MEDIUM
+
+FSCA: MD: General-purpose ultrasound imaging system. Reason: . Model: 795234.
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260807_068)
+
+---
+
+### Healon Duet - AMO Uppsala AB
+
+**2026-08-11** | Swissmedic | 安全通报 | !! MEDIUM
+
+FSCA: MD: Ophthalmology, hyaluronic acid and derivatives. Reason: . Model: 10301016.
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260728_001)
+
+---
+
+### 瑞士药监局FSCA：AMO Uppsala AB Healon EndoCoat 型号10301012
+
+**2026-08-11** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士药监局发布了对AMO Uppsala AB公司Healon EndoCoat的现场安全纠正措施（FSCA），该产品为术中玻璃体/房水替代物，涉及型号10301012。该简报未提供具体纠正原因，监管事务人员应查阅完整的Swissmedic FSCA通知以了解详细原因和所需措施。相关产品用户应核对库存并遵循制造商的现场安全通知。
+
+**标签**: `swissmedic`, `fsca`, `ophthalmic_device`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260728_001)
+
+---
+
+### Swissmedic发布Edwards Lifesciences ForeSight血氧电缆FSCA
+
+**2026-08-11** | Swissmedic | 安全通报 | !!! HIGH
+
+Swissmedic发布了涉及Edwards Lifesciences ForeSight血氧电缆的现场安全纠正措施（FSCA），该产品用于通用多参数床边监护仪。具体原因及受影响型号/批次请参阅制造商的现场安全通知（FSN）。用户应查阅FSN并遵循制造商建议的纠正措施。
+
+**标签**: `swissmedic`, `fsca`, `medical_device`, `oximeter_cable`, `field_safety_corrective_action`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260810_033)
+
+---
+
+### 飞利浦Azurion血管造影X射线系统：瑞士Swissmedic发布FSCA涉及多型号
+
+**2026-08-11** | Swissmedic | 安全通报 | !! MEDIUM
+
+本次瑞士Swissmedic现场安全纠正措施（FSCA）涉及Philips Medical Systems Nederland B.V.生产的Philips Azurion固定式血管造影X射线系统。受影响型号包括722063、722064、722067、722068、722078、722079、722221至722228以及722280。该通知摘要中未具体说明纠正原因，监管事务人员和相关用户应查阅Swissmedic官方FSCA及Philips的指导以采取所需措施。
+
+**标签**: `swissmedic`, `fsca`, `medical_device_safety`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260810_030)
+
+---
+
 ### 瑞士药监局FSCA：DH Healthcare GmbH的ORBIS Medication 3.x
 
 **2026-08-07** | Swissmedic | 安全通报 | !! MEDIUM
