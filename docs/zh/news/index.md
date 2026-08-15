@@ -6,6 +6,18 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### 国家药监局发布46项医疗器械行业标准（2026年8月14日）
+
+**2026-08-14** | NMPA | 标准修订 | !!! HIGH
+
+2026年8月14日，国家药监局发布《牙科学 光固化机》《心肺转流系统 体外心肺支持辅助设备》等46项医疗器械行业标准，覆盖新型生物材料、生命支持、外科植入物及生物学评价、软件图形测量等共性方法学。两项强制性标准实施日期为2029年8月1日；两项推荐性标准为2028年2月1日；其余42项推荐性标准为2027年8月1日。
+
+**标签**: `standards`, `YY`, `industry_standard`, `nmpa`
+
+[查看来源 (NMPA)](https://finance.sina.com.cn/jjxw/2026-08-14/doc-ininhxpk2477598.shtml)
+
+---
+
 ### HSA发布医疗器械网络安全最佳实践指南公众咨询反馈回应摘要
 
 **2026-08-14** | Singapore HSA | 法规更新 | !! MEDIUM
@@ -4277,6 +4289,18 @@ Medela Inc. 正在召回其 ENFit ExSet Strl 60 2.0ml PV 1ct EN 注射器（型�
 **标签**: `recall`, `enteral_feeding`, `connector_safety`, `fda`, `medela`
 
 [查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=220801)
+
+---
+
+### 国家药监局2026年第56号公告 -- 废止10项医疗器械行业标准
+
+**2026-06-04** | NMPA | 标准修订 | !!! HIGH
+
+2026年6月4日发布。为优化医疗器械标准体系，废止YY/T 1449.3—2016等10项行业标准，分别由GB/T 12279.3—2025等国家标准替代。其中6项自公告发布之日起废止；YY/T 0882—2013于2026年7月1日废止；YY/T 0799—2010、YY/T 0801.1—2010、YY/T 1439.2—2016于2026年8月1日废止。
+
+**标签**: `standards`, `abolished`, `YY`, `GB`, `nmpa`
+
+[查看来源 (NMPA)](https://www.nifdc.org.cn/nifdc/xxgk/zcfg/flfg/202606111618512078556.html)
 
 ---
 

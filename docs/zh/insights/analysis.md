@@ -16,7 +16,7 @@ doc_count: 25
 | [网式雾化器设计技术参数](/zh/insights/analysis/网式雾化器设计技术参数) |  | 2023 |
 | [国家药监局关于发布34项医疗器械行业标准的公告（2024年第120号）](/zh/insights/analysis/2024-120) |  | 2024 |
 | [国家药监局关于发布36项医疗器械行业标准的公告（2024年第92号）](/zh/insights/analysis/2024-92) |  | 2024 |
-| [废止标准](/zh/insights/analysis/abolished-standards) |  | 2025 |
+| [废止标准](/zh/insights/analysis/abolished-standards) |  | 2026 |
 | [医疗器械合规文件翻译助手使用指南](/zh/insights/analysis/ai-translator) |  | 2024 |
 | [洁净室合规性标准 ISO 14698 与 EN 17141 的选择困境](/zh/insights/analysis/clean-room-iso-14698-and-en-17141) |  | 2025 |
 | [中国药典2020年版与2025年版通则1105和1106实质性差异对比检查](/zh/insights/analysis/cp-2020-vs-2025-part4-general-1105-1106) |  | 2025 |
@@ -28,7 +28,7 @@ doc_count: 25
 | [ISO 13485质量管理体系的深度解析与卓越实践](/zh/insights/analysis/iso-13485-qms-best-practice) |  | 2025 |
 | [有源医疗器械外部标记要求](/zh/insights/analysis/marking-requirements) |  | 2023 |
 | [关于医疗器械软件和GB/T 25000.51测试](/zh/insights/analysis/mdsw-gbt25000-51) |  | 2025 |
-| [标准发布](/zh/insights/analysis/new-standards) |  | 2025 |
+| [标准发布](/zh/insights/analysis/new-standards) |  | 2026 |
 | [医疗器械产业本土化转型的助推剂：国家药监局2025年第30号公告深度解析](/zh/insights/analysis/nmpa-2025-30-notice) |  | 2025 |
 | [构建智能化PDF文档翻译平台：从痛点到解决方案](/zh/insights/analysis/pdf-translation-tool) |  | 2025 |
 | [医疗器械中剩余风险的概念及其在风险管理和说明书编写中的意义](/zh/insights/analysis/residual-risk-and-information-in-ifu) |  | 2025 |

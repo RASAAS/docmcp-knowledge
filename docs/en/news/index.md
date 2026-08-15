@@ -6,6 +6,18 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### NMPA Publishes 46 Medical Device Industry Standards (14 August 2026)
+
+**2026-08-14** | NMPA | Standard Revision | !!! HIGH
+
+On 14 August 2026 NMPA published 46 medical device industry standards covering biomaterials, life support, implants, biological evaluation and software measurement methods. Two mandatory standards (YY 0055-2026 dentistry powered polymerization activators; YY 1412-2026 extracorporeal cardiopulmonary support) take effect on 1 August 2029. Two recommended standards take effect on 1 February 2028; the remaining 42 recommended standards take effect on 1 August 2027.
+
+**Tags**: `standards`, `YY`, `industry_standard`, `nmpa`
+
+[View Source (NMPA)](https://finance.sina.com.cn/jjxw/2026-08-14/doc-ininhxpk2477598.shtml)
+
+---
+
 ### HSA Publishes Summary of Responses to Public Consultation Feedback on Medical Device Cybersecurity Best Practices Guide
 
 **2026-08-14** | Singapore HSA | Regulation Update | !! MEDIUM
@@ -4277,6 +4289,18 @@ Medela Inc. is recalling its ENFit ExSet Strl 60 2.0ml PV 1ct EN syringe (Model 
 **Tags**: `recall`, `enteral_feeding`, `connector_safety`, `fda`, `medela`
 
 [View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=220801)
+
+---
+
+### NMPA Announcement No. 56 (2026) -- Withdrawal of 10 Medical Device Industry Standards
+
+**2026-06-04** | NMPA | Standard Revision | !!! HIGH
+
+Published 4 June 2026. NMPA withdraws 10 YY/T industry standards (transcatheter heart valves, anaesthetic/respiratory connectors and medical gas systems) and replaces them with corresponding GB/T national standards. Six standards are withdrawn on the announcement date; YY/T 0882-2013 on 1 July 2026; YY/T 0799-2010, YY/T 0801.1-2010 and YY/T 1439.2-2016 on 1 August 2026.
+
+**Tags**: `standards`, `abolished`, `YY`, `GB`, `nmpa`
+
+[View Source (NMPA)](https://www.nifdc.org.cn/nifdc/xxgk/zcfg/flfg/202606111618512078556.html)
 
 ---
 

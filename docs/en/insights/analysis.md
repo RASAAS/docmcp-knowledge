@@ -12,7 +12,7 @@ In-depth analysis of medical device regulations, standards interpretation, and c
 |---------|-------|------|
 | [NMPA Notice 2024 No.120 — 34 New Medical Device Industry Standards](/zh/insights/analysis/2024-120) | Standards | 2024 |
 | [NMPA Notice 2024 No.92 — 36 New Medical Device Industry Standards](/zh/insights/analysis/2024-92) | Standards | 2024 |
-| [Abolished Standards](/zh/insights/analysis/abolished-standards) | Standards | 2025 |
+| [Abolished Standards](/zh/insights/analysis/abolished-standards) | Standards | 2026 |
 | [Medical Device Compliance Document Translation Assistant Guide](/zh/insights/analysis/ai-translator) | Tools | 2024 |
 | [Cleanroom Compliance: ISO 14698 vs EN 17141](/zh/insights/analysis/clean-room-iso-14698-and-en-17141) | Standards | 2025 |
 | [Chinese Pharmacopoeia 2020 vs 2025: General Rules 1105 & 1106 Comparison](/zh/insights/analysis/cp-2020-vs-2025-part4-general-1105-1106) | Standards | 2025 |
@@ -24,7 +24,7 @@ In-depth analysis of medical device regulations, standards interpretation, and c
 | [ISO 13485 QMS: In-Depth Analysis & Best Practices](/zh/insights/analysis/iso-13485-qms-best-practice) | QMS | 2025 |
 | [Active Medical Device External Marking Requirements](/zh/insights/analysis/marking-requirements) | Labeling | 2023 |
 | [Medical Device Software and GB/T 25000.51 Testing](/zh/insights/analysis/mdsw-gbt25000-51) | Software | 2025 |
-| [New Standards Published](/zh/insights/analysis/new-standards) | Standards | 2025 |
+| [New Standards Published](/zh/insights/analysis/new-standards) | Standards | 2026 |
 | [NMPA Notice 2025 No.30: Driving Localization of Medical Device Industry](/zh/insights/analysis/nmpa-2025-30-notice) | NMPA | 2025 |
 | [Building an Intelligent PDF Document Translation Platform](/zh/insights/analysis/pdf-translation-tool) | Tools | 2025 |
 | [Residual Risk in Medical Devices: Risk Management and IFU Implications](/zh/insights/analysis/residual-risk-and-information-in-ifu) | Risk Management | 2025 |

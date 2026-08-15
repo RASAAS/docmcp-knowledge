@@ -98,7 +98,7 @@ title: NMPA 医疗器械标准
 - **[专业技术领域（{len(professional)}项）](./standards/professional)** -- 特定产品类别的专用标准
 
 ::: tip 数据来源
-标准数据采集自 [NIFDC 医疗器械标准信息查询](https://app.nifdc.org.cn/biaogzx/qxqwk.do)（中检院），包含全量现行有效和即将实施标准。
+标准数据采集自 [NIFDC 医疗器械标准信息查询](https://app.nifdc.org.cn/biaogzx/qxqwk.do)（中检院），包含全量现行有效和即将实施标准。2026-08-15 对照后，另按国家药监局 2026年8月14日公告补入尚未进入 NIFDC 查询库的 46 项行业标准（即将实施）。
 :::
 """
 
@@ -138,7 +138,7 @@ title: NMPA Medical Device Standards
 - **[Professional Technical Domain ({len(professional)})](./standards/professional)** -- Product-specific standards
 
 ::: tip Data Source
-Collected from [NIFDC Medical Device Standards Query](https://app.nifdc.org.cn/biaogzx/qxqwk.do).
+Collected from [NIFDC Medical Device Standards Query](https://app.nifdc.org.cn/biaogzx/qxqwk.do). As of 2026-08-15, 46 industry standards from the NMPA announcement of 14 August 2026 were added as upcoming because they were not yet in the NIFDC listing.
 :::
 """
 

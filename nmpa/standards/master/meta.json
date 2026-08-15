@@ -1,8 +1,11 @@
 {
-  "fetched_at": "2026-05-10T07:48:10.759188Z",
+  "fetched_at": "2026-08-15T13:20:17.042326Z",
   "page_count": 23,
-  "rows_collected": 2100,
+  "rows_collected": 2141,
   "source": "https://app.nifdc.org.cn/biaogzx/qxqwk.do",
-  "note": "metadata-only crawl (general + professional domains) per project decision 2026-05-10",
-  "filter": "active+upcoming only"
+  "note": "NIFDC metadata crawl 2026-08-15 (2095 active+upcoming) plus 46 YY 2026 industry standards from NMPA announcement 2026-08-14 (not yet in NIFDC listing)",
+  "filter": "active+upcoming only",
+  "nifdc_rows": 2095,
+  "manual_yy2026_added": 46,
+  "merged_at": "2026-08-15T13:24:37.182293+00:00"
 }
