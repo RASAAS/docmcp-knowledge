@@ -545,6 +545,10 @@ onMounted(async () => {
   const params = new URLSearchParams(window.location.search);
   const code = params.get("code");
   const mode = params.get("mode");
+  if (mode === "join" && code) {
+    window.location.replace(`https://crm.reguverse.com/learn/join/${encodeURIComponent(code.toUpperCase())}`);
+    return;
+  }
   if (code) {
     joinCode.value = code.toUpperCase();
     workshopCode.value = code.toUpperCase();
