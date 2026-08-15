@@ -176,6 +176,18 @@ MHRA发布建议，要求经济运营商隔离在英国市场上发现的、未�
 
 ---
 
+### ANMAT禁止一台FotoFinder品牌皮肤镜医疗设备
+
+**2026-08-10** | Argentina ANMAT | 安全通报 | !!! HIGH
+
+2026年8月10日，阿根廷国家药品食品医疗器械管理局（ANMAT）发布警报，禁止一台FotoFinder品牌皮肤镜医疗器械。该禁令针对特定单台设备，基于官方警报中提出的安全问题。相关使用者和经销商应识别该设备，停止使用并遵循ANMAT的指示。
+
+**标签**: `argentina_anmat`, `dermatoscope`, `product_ban`, `medical_device_safety`
+
+[查看来源 (Official Source)](https://www.argentina.gob.ar/noticias/anmat-prohibe-una-unidad-del-producto-medico-dermatoscopio-marca-fotofinder)
+
+---
+
 ### 加拿大卫生部因性能问题召回Bravo胶囊递送系统
 
 **2026-08-07** | Health Canada | 安全通报 | !! MEDIUM

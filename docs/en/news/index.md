@@ -176,6 +176,18 @@ The MHRA has identified medical devices being supplied on the UK market without 
 
 ---
 
+### ANMAT Prohibits One Unit of FotoFinder Dermatoscope (Aug 10, 2026)
+
+**2026-08-10** | Argentina ANMAT | Safety Communication | !!! HIGH
+
+On August 10, 2026, Argentina's ANMAT issued an alert prohibiting one unit of the FotoFinder brand dermatoscope. The prohibition is unit-specific and based on safety concerns identified in the official ANMAT notice. Affected users and distributors should identify the prohibited unit, remove it from use, and follow ANMAT instructions.
+
+**Tags**: `argentina_anmat`, `dermatoscope`, `product_ban`, `medical_device_safety`
+
+[View Source (Official Source)](https://www.argentina.gob.ar/noticias/anmat-prohibe-una-unidad-del-producto-medico-dermatoscopio-marca-fotofinder)
+
+---
+
 ### Health Canada Recalls Bravo Capsule Delivery System Over Performance Issues
 
 **2026-08-07** | Health Canada | Safety Communication | !! MEDIUM

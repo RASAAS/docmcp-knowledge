@@ -1,4 +1,31 @@
 {
-  "items": [],
-  "last_updated": "2026-07-03T13:30:16Z"
+  "items": [
+    {
+      "id": "argentina_anmat_20260815_anmat_prohibits_one_unit_of_fotofinder_dermatoscope_aug_10_2",
+      "framework": "argentina_anmat",
+      "category": "safety_communication",
+      "title": {
+        "en": "ANMAT Prohibits One Unit of FotoFinder Dermatoscope (Aug 10, 2026)",
+        "zh": "ANMAT禁止一台FotoFinder品牌皮肤镜医疗设备"
+      },
+      "summary": {
+        "en": "On August 10, 2026, Argentina's ANMAT issued an alert prohibiting one unit of the FotoFinder brand dermatoscope. The prohibition is unit-specific and based on safety concerns identified in the official ANMAT notice. Affected users and distributors should identify the prohibited unit, remove it from use, and follow ANMAT instructions.",
+        "zh": "2026年8月10日，阿根廷国家药品食品医疗器械管理局（ANMAT）发布警报，禁止一台FotoFinder品牌皮肤镜医疗器械。该禁令针对特定单台设备，基于官方警报中提出的安全问题。相关使用者和经销商应识别该设备，停止使用并遵循ANMAT的指示。"
+      },
+      "source_url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-una-unidad-del-producto-medico-dermatoscopio-marca-fotofinder",
+      "source_name": "Official Source",
+      "published_date": "2026-08-10",
+      "detected_date": "2026-08-15T19:15:11Z",
+      "importance": "high",
+      "tags": [
+        "argentina_anmat",
+        "dermatoscope",
+        "product_ban",
+        "medical_device_safety"
+      ],
+      "related_docs": [],
+      "status": "published"
+    }
+  ],
+  "last_updated": "2026-08-15T19:15:11Z"
 }

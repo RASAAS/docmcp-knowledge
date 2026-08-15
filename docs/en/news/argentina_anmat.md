@@ -45,4 +45,14 @@ title: Regulatory News
 
 ## Latest Updates
 
-No recent updates available. Please check back later.
+### ANMAT Prohibits One Unit of FotoFinder Dermatoscope (Aug 10, 2026)
+
+**2026-08-10** | Argentina ANMAT | Safety Communication | !!! HIGH
+
+On August 10, 2026, Argentina's ANMAT issued an alert prohibiting one unit of the FotoFinder brand dermatoscope. The prohibition is unit-specific and based on safety concerns identified in the official ANMAT notice. Affected users and distributors should identify the prohibited unit, remove it from use, and follow ANMAT instructions.
+
+**Tags**: `argentina_anmat`, `dermatoscope`, `product_ban`, `medical_device_safety`
+
+[View Source (Official Source)](https://www.argentina.gob.ar/noticias/anmat-prohibe-una-unidad-del-producto-medico-dermatoscopio-marca-fotofinder)
+
+---
