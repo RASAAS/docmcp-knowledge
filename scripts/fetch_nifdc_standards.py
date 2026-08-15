@@ -101,6 +101,11 @@ def _request_with_retry(
     return None
 
 
+def _cell_text(td) -> str:
+    """Flatten NIFDC table cells: titles may contain <br> wrap points."""
+    return re.sub(r"\s+", " ", td.get_text(separator=" ", strip=True)).strip()
+
+
 def _parse_listing_page(html: str) -> tuple[list[dict], dict]:
     """Parse one listing page. Returns (rows, page_info).
 
@@ -115,7 +120,7 @@ def _parse_listing_page(html: str) -> tuple[list[dict], dict]:
             tds = tr.find_all("td")
             if len(tds) < 8:
                 continue
-            cells = [td.get_text(strip=True) for td in tds]
+            cells = [_cell_text(td) for td in tds]
             if not re.match(r"^\d+$", cells[0]):
                 continue
             # Guard: cells[4] must look like a standard number (GB/YY/...)

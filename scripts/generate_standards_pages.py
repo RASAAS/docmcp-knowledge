@@ -12,8 +12,14 @@ Reads standards.json and produces:
 """
 
 import json
+import re
 import sys
 from pathlib import Path
+
+
+def _md_cell(text: str) -> str:
+    """Keep one markdown table row: drop wrap newlines and escape pipes."""
+    return re.sub(r"\s+", " ", (text or "").replace("|", "/")).strip()
 
 REPO = Path(__file__).resolve().parent.parent
 STD_PATH = REPO / "nmpa" / "standards" / "master" / "standards.json"
@@ -170,10 +176,10 @@ def generate_domain_page_zh(stds, domain_name, domain_key):
         lines.append("| 标准编号 | 标准名称 | 状态 |")
         lines.append("|----------|---------|------|")
         for s in items:
-            num = s.get("number", "")
-            title = s.get("title_zh", "").replace("|", "/")
+            num = _md_cell(s.get("number", ""))
+            title = _md_cell(s.get("title_zh", ""))
             status = "现行" if s.get("status") == "active" else "即将实施" if s.get("status") == "upcoming" else s.get("status_zh", "")
-            lines.append(f"| {num} | {title} | {status} |")
+            lines.append(f"| {num} | {title} | {_md_cell(status)} |")
         lines.append("")
 
     lines.append(f"[<< 返回标准库](../standards)")
@@ -208,10 +214,10 @@ def generate_domain_page_en(stds, domain_name, domain_key):
         lines.append("| Standard No. | Title | Status |")
         lines.append("|--------------|-------|--------|")
         for s in items:
-            num = s.get("number", "")
-            title = s.get("title_zh", "").replace("|", "/")
+            num = _md_cell(s.get("number", ""))
+            title = _md_cell(s.get("title_zh", ""))
             status = "Active" if s.get("status") == "active" else "Upcoming" if s.get("status") == "upcoming" else s.get("status", "")
-            lines.append(f"| {num} | {title} | {status} |")
+            lines.append(f"| {num} | {title} | {_md_cell(status)} |")
         lines.append("")
 
     lines.append(f"[<< Back to Standards](../standards)")
