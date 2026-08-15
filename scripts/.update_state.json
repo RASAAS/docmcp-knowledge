@@ -1406,21 +1406,22 @@
   },
   "mexico_cofepris/safety_alerts": {
     "url": "https://www.gob.mx/cofepris/acciones-y-programas/alertas-sanitarias-336947",
-    "last_checked": "2026-08-08T19:22:01.121510",
+    "last_checked": "2026-08-15T19:14:37.505628",
     "seen_titles": [
-      "Imprime la página completa",
       "En la investigación por Cyclospora cayetanensis, ni México ni EE.UU. han encontrado el parásito en lechugas de origen mexicano",
       "COFEPRIS acata declaratoria de inconstitucionalidad emitida por la SCJN en materia de autoconsumo lúdico de cannabis y tetrahidrocannabinol",
       "Riesgo de recolectar y consumir hongos silvestres",
       "Contesta nuestra encuesta de satisfacción.",
+      "Imprime la página completa",
       "COFEPRIS realiza investigación en la planta empacadora de chiles jalapeños en Nuevo León"
     ]
   },
   "argentina_anmat/safety_alerts": {
     "url": "https://www.argentina.gob.ar/anmat/alertas",
-    "last_checked": "2026-08-08T19:22:02.302346",
+    "last_checked": "2026-08-15T19:14:38.565094",
     "seen_titles": [
-      "30 de junio de 2026ANMAT prohíbe un lote de un producto médico falsificado de la firma LINEDERM"
+      "30 de junio de 2026ANMAT prohíbe un lote de un producto médico falsificado de la firma LINEDERM",
+      "10 de agosto de 2026ANMAT prohíbe una unidad del producto médico DERMATOSCOPIO marca FotoFinder"
     ]
   },
   "taiwan_tfda/safety_alerts": {
