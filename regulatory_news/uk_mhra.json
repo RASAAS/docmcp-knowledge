@@ -1,7 +1,135 @@
 {
   "framework": "uk_mhra",
-  "last_updated": "2026-08-10T20:01:37Z",
+  "last_updated": "2026-08-17T19:33:16Z",
   "items": [
+    {
+      "id": "uk_mhra_20260817_mhra_national_patient_safety_alert_resmed_astral_100_150_ven",
+      "framework": "uk_mhra",
+      "category": "safety_communication",
+      "title": {
+        "en": "MHRA National Patient Safety Alert: ResMed Astral 100/150 Ventilators Unexpected Ventilation Interruption",
+        "zh": "MHRA患者安全警报：ResMed Astral 100/150呼吸机存在通气意外中断风险"
+      },
+      "summary": {
+        "en": "This MHRA National Patient Safety Alert (NatPSA/2026/004/MHRA) concerns ResMed Astral 100 and 150 ventilators and associated Printed Circuit Board Assembly spare parts manufactured before October 2024. A device fault can cause unexpected interruption of ventilation therapy, potentially resulting in patient harm. Affected users, caregivers, and healthcare providers should identify affected devices and implement the actions specified in ResMed's Field Safety Notice and the MHRA alert.",
+        "zh": "英国MHRA发布国家患者安全警报（NatPSA/2026/004/MHRA），涉及ResMed Astral 100和150呼吸机及2024年10月前生产的印刷电路板组件备件。该设备故障可能导致通气治疗意外中断，存在患者伤害风险。相关医疗机构、护理人员和用户应根据ResMed现场安全通知和MHRA警报要求，识别受影响设备并采取必要措施。"
+      },
+      "source_url": "https://www.gov.uk/drug-device-alerts/national-patient-safety-alert-resmed-astral-100-and-150-ventilators-potential-for-patient-harm-due-to-unexpected-interruption-of-ventilation-therapy-natpsa-slash-2026-slash-004-slash-mhra",
+      "source_name": "MHRA (UK)",
+      "published_date": "2026-08-17",
+      "detected_date": "2026-08-17T19:30:37Z",
+      "importance": "high",
+      "tags": [
+        "mhra",
+        "resmed_astral",
+        "ventilator",
+        "field_safety_notice",
+        "patient_safety"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "uk_mhra_20260817_mhra_publishes_suspended_and_revoked_licences_for_medicines",
+      "framework": "uk_mhra",
+      "category": "regulation_update",
+      "title": {
+        "en": "MHRA Publishes Suspended and Revoked Licences for Medicines Manufacturers and Wholesalers",
+        "zh": "MHRA公布药品生产商和批发商暂停及撤销许可证名单"
+      },
+      "summary": {
+        "en": "The UK MHRA has updated its public list of companies whose licences or registrations to manufacture or wholesale medicines and active ingredients have been suspended or revoked. The list affects manufacturers, wholesalers, and trading partners in the UK medicines supply chain. Regulatory affairs and quality professionals should check the current list to verify the compliance status of suppliers, contract manufacturers, and distributors, and take immediate action if a partner appears on the list.",
+        "zh": "英国MHRA更新了被暂停或撤销药品及原料药生产、批发许可证/注册的公司的公开名单。该名单影响英国药品供应链中的生产商、批发商和贸易伙伴。法规事务和质量人员应查阅最新名单，核实供应商、合同生产商和分销商的合规状态，如发现合作方在名单中应立即采取措施。"
+      },
+      "source_url": "https://www.gov.uk/government/publications/suspended-licences-for-manufacturers-and-wholesalers-of-medicines",
+      "source_name": "MHRA (UK)",
+      "published_date": "2026-08-17",
+      "detected_date": "2026-08-17T19:31:08Z",
+      "importance": "medium",
+      "tags": [
+        "uk_mhra",
+        "medicine_licensing",
+        "enforcement"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "uk_mhra_20260817_mhra_updates_list_of_medical_devices_granted_exceptional_use",
+      "framework": "uk_mhra",
+      "category": "regulation_update",
+      "title": {
+        "en": "MHRA Updates List of Medical Devices Granted Exceptional Use Authorisations",
+        "zh": "MHRA更新获特殊使用授权医疗器械清单"
+      },
+      "summary": {
+        "en": "This MHRA decision provides an updated list of manufacturers and medical devices that have been granted exceptional use authorisations (exemptions) in the UK. It also identifies devices whose exemptions have expired or been cancelled. Regulatory affairs professionals should review the list to confirm the current authorisation status of relevant devices and take action if a product's exemption is no longer active.",
+        "zh": "MHRA发布更新清单，列出了已获得特殊使用授权（豁免）的制造商及其医疗器械。该清单还包括豁免已到期或被取消的产品。相关企业应核对清单，确认其器械的授权状态，并在豁免失效时采取相应措施。"
+      },
+      "source_url": "https://www.gov.uk/government/publications/medical-devices-given-exceptional-use-authorisations",
+      "source_name": "MHRA (UK)",
+      "published_date": "2026-08-14",
+      "detected_date": "2026-08-17T19:31:21Z",
+      "importance": "medium",
+      "tags": [
+        "exceptional_use_authorisation",
+        "mhra",
+        "medical_device_exemption"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "uk_mhra_20260817_mhra_guidance_notify_clinical_investigations_for_medical_dev",
+      "framework": "uk_mhra",
+      "category": "regulation_update",
+      "title": {
+        "en": "MHRA Guidance: Notify Clinical Investigations for Medical Devices",
+        "zh": "MHRA医疗器械临床试验通知指南"
+      },
+      "summary": {
+        "en": "This MHRA guidance explains how sponsors must notify the MHRA of their intention to conduct a clinical investigation for a medical device in the UK. It applies to manufacturers, sponsors, and clinical research organisations planning device studies. Affected parties should review the notification requirements, prepare the necessary documentation, and submit the notification to MHRA before starting the investigation.",
+        "zh": "该MHRA指南说明申办方在英国开展医疗器械临床试验前如何向MHRA提交通知。适用于计划开展器械研究的制造商、申办方和临床研究组织。相关方应审查通知要求、准备必要文件并在试验开始前向MHRA提交。"
+      },
+      "source_url": "https://www.gov.uk/guidance/notify-mhra-about-a-clinical-investigation-for-a-medical-device",
+      "source_name": "MHRA (UK)",
+      "published_date": "2026-08-12",
+      "detected_date": "2026-08-17T19:31:37Z",
+      "importance": "medium",
+      "tags": [
+        "mhra",
+        "clinical_investigation",
+        "medical_devices",
+        "regulatory_guidance"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "uk_mhra_20260817_mhra_field_safety_notices_3_to_7_august_2026",
+      "framework": "uk_mhra",
+      "category": "safety_communication",
+      "title": {
+        "en": "MHRA Field Safety Notices: 3 to 7 August 2026",
+        "zh": "MHRA现场安全通告：2026年8月3日至7日"
+      },
+      "summary": {
+        "en": "This MHRA page lists Field Safety Notices (FSNs) issued for medical devices and drug-device products between 3 and 7 August 2026. The update includes two new entries in the feed. Healthcare providers, medical device manufacturers, and users should review the listed notices and take any recommended actions for affected devices. FSNs may include recalls, safety alerts, or instructions for use changes.",
+        "zh": "该MHRA页面汇总了2026年8月3日至7日发布的医疗器械和药械组合产品现场安全通告（FSN）。本次更新包含两条新条目。医疗保健机构、医疗器械制造商和用户应查阅相关通告，并对受影响设备采取建议措施。FSN可能包括召回、安全警报或使用说明变更。"
+      },
+      "source_url": "https://www.gov.uk/drug-device-alerts/field-safety-notices-3-to-7-august-2026",
+      "source_name": "MHRA (UK)",
+      "published_date": "2026-08-11",
+      "detected_date": "2026-08-17T19:30:52Z",
+      "importance": "medium",
+      "tags": [
+        "field_safety_notices",
+        "mhra",
+        "medical_device_safety"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
     {
       "id": "uk_mhra_20260810_mhra_safety_alert_medical_devices_supplied_without_ukca_ce_m",
       "framework": "uk_mhra",

@@ -6,6 +6,30 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### MHRA National Patient Safety Alert: ResMed Astral 100/150 Ventilators Unexpected Ventilation Interruption
+
+**2026-08-17** | UK MHRA | Safety Communication | !!! HIGH
+
+This MHRA National Patient Safety Alert (NatPSA/2026/004/MHRA) concerns ResMed Astral 100 and 150 ventilators and associated Printed Circuit Board Assembly spare parts manufactured before October 2024. A device fault can cause unexpected interruption of ventilation therapy, potentially resulting in patient harm. Affected users, caregivers, and healthcare providers should identify affected devices and implement the actions specified in ResMed's Field Safety Notice and the MHRA alert.
+
+**Tags**: `mhra`, `resmed_astral`, `ventilator`, `field_safety_notice`, `patient_safety`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/national-patient-safety-alert-resmed-astral-100-and-150-ventilators-potential-for-patient-harm-due-to-unexpected-interruption-of-ventilation-therapy-natpsa-slash-2026-slash-004-slash-mhra)
+
+---
+
+### MHRA Publishes Suspended and Revoked Licences for Medicines Manufacturers and Wholesalers
+
+**2026-08-17** | UK MHRA | Regulation Update | !! MEDIUM
+
+The UK MHRA has updated its public list of companies whose licences or registrations to manufacture or wholesale medicines and active ingredients have been suspended or revoked. The list affects manufacturers, wholesalers, and trading partners in the UK medicines supply chain. Regulatory affairs and quality professionals should check the current list to verify the compliance status of suppliers, contract manufacturers, and distributors, and take immediate action if a partner appears on the list.
+
+**Tags**: `uk_mhra`, `medicine_licensing`, `enforcement`
+
+[View Source (MHRA (UK))](https://www.gov.uk/government/publications/suspended-licences-for-manufacturers-and-wholesalers-of-medicines)
+
+---
+
 ### NMPA Publishes 46 Medical Device Industry Standards (14 August 2026)
 
 **2026-08-14** | NMPA | Standard Revision | !!! HIGH
@@ -15,6 +39,42 @@ On 14 August 2026 NMPA published 46 medical device industry standards covering b
 **Tags**: `standards`, `YY`, `industry_standard`, `nmpa`
 
 [View Source (NMPA)](https://finance.sina.com.cn/jjxw/2026-08-14/doc-ininhxpk2477598.shtml)
+
+---
+
+### MHRA Updates List of Medical Devices Granted Exceptional Use Authorisations
+
+**2026-08-14** | UK MHRA | Regulation Update | !! MEDIUM
+
+This MHRA decision provides an updated list of manufacturers and medical devices that have been granted exceptional use authorisations (exemptions) in the UK. It also identifies devices whose exemptions have expired or been cancelled. Regulatory affairs professionals should review the list to confirm the current authorisation status of relevant devices and take action if a product's exemption is no longer active.
+
+**Tags**: `exceptional_use_authorisation`, `mhra`, `medical_device_exemption`
+
+[View Source (MHRA (UK))](https://www.gov.uk/government/publications/medical-devices-given-exceptional-use-authorisations)
+
+---
+
+### Health Canada Alert: Performance Concerns with Orthopaedic Implant Components
+
+**2026-08-14** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has published a recall/alert regarding performance issues with orthopaedic implant components. The notice may affect healthcare facilities that stock or use the implicated components and patients who have received them. Regulatory affairs and clinical teams should review the Health Canada alert, identify affected lots, quarantine or return devices as instructed, and follow any patient monitoring or reporting requirements.
+
+**Tags**: `orthopaedic_implants`, `medical_device_recall`, `health_canada`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/orthopaedic-implant-components)
+
+---
+
+### Health Canada Recall/Alert: Endotracheal Tube, Cuffed – Device Compatibility
+
+**2026-08-14** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a medical device recall/alert for cuffed endotracheal tubes due to a device compatibility concern. The alert affects healthcare facilities and providers that stock or use the affected endotracheal tubes, potentially involving compatibility with other airway devices or accessories. Affected users should identify and quarantine relevant inventory, verify device compatibility according to the manufacturer’s instructions, and follow the actions specified by Health Canada and the manufacturer. Report any related adverse events or product problems to Health Canada.
+
+**Tags**: `medical_device_recall`, `endotracheal_tube`, `device_compatibility`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/endotracheal-tube-cuffed)
 
 ---
 
@@ -30,6 +90,30 @@ The Health Sciences Authority (HSA) has published a summary of responses to feed
 
 ---
 
+### Health Canada Recalls IV Tubing Set Drip Chambers Over Performance Issues
+
+**2026-08-13** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a medical device recall/alert for IV tubing set drip chambers due to performance issues. Healthcare facilities using affected IV tubing sets should identify and quarantine impacted lots and follow the manufacturer’s recall instructions. Regulatory affairs professionals should monitor Health Canada notices for affected models, lot numbers, and required corrective actions.
+
+**Tags**: `health_canada`, `medical_device_recall`, `iv_tubing_set`, `performance_issue`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/iv-tubing-set-drip-chambers)
+
+---
+
+### Health Canada Recall: Portrait Core Services Cssxb – Performance Issue
+
+**2026-08-13** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has published a medical device recall/alert for Portrait Core Services Cssxb due to a performance issue. This notice affects Canadian healthcare facilities and users of the affected product. Review the recall details, identify affected units, and implement the manufacturer's recommended corrective actions promptly.
+
+**Tags**: `medical_device_recall`, `health_canada`, `performance_issue`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/portrait-core-services-cssxb)
+
+---
+
 ### IV Sets or Administration Sets - ICU Medical, Inc.
 
 **2026-08-13** | Swissmedic | Safety Communication | !! MEDIUM
@@ -37,6 +121,30 @@ The Health Sciences Authority (HSA) has published a summary of responses to feed
 FSCA: MD: IV Sets or Administration Sets. Reason: . Model: various.
 
 [View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260730_037)
+
+---
+
+### MHRA Guidance: Notify Clinical Investigations for Medical Devices
+
+**2026-08-12** | UK MHRA | Regulation Update | !! MEDIUM
+
+This MHRA guidance explains how sponsors must notify the MHRA of their intention to conduct a clinical investigation for a medical device in the UK. It applies to manufacturers, sponsors, and clinical research organisations planning device studies. Affected parties should review the notification requirements, prepare the necessary documentation, and submit the notification to MHRA before starting the investigation.
+
+**Tags**: `mhra`, `clinical_investigation`, `medical_devices`, `regulatory_guidance`
+
+[View Source (MHRA (UK))](https://www.gov.uk/guidance/notify-mhra-about-a-clinical-investigation-for-a-medical-device)
+
+---
+
+### Adequan I.M. Recall: Particulate Matter Contamination in Injectable Product
+
+**2026-08-12** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a product quality recall for Adequan I.M. due to the presence of particulate matter in the injectable product. The affected product is used in veterinary settings, and particulate contamination may pose risks such as injection-site reactions or vascular obstruction. Users should immediately quarantine affected lots, stop use, and follow recall return instructions.
+
+**Tags**: `canada_recall`, `particulate_matter`, `product_quality`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/adequan-im-presence-particulate-matter)
 
 ---
 
@@ -59,6 +167,18 @@ The FDA announced that Hamilton Medical is recalling its Breathing Circuit Set. 
 **Tags**: `medical_device_recall`, `breathing_circuit`, `hamilton_medical`, `ventilation`, `safety_alert`
 
 [View Source (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/breathing-circuit-set-recall-hamilton-medical-removes-breathing-circuit-set)
+
+---
+
+### MHRA Field Safety Notices: 3 to 7 August 2026
+
+**2026-08-11** | UK MHRA | Safety Communication | !! MEDIUM
+
+This MHRA page lists Field Safety Notices (FSNs) issued for medical devices and drug-device products between 3 and 7 August 2026. The update includes two new entries in the feed. Healthcare providers, medical device manufacturers, and users should review the listed notices and take any recommended actions for affected devices. FSNs may include recalls, safety alerts, or instructions for use changes.
+
+**Tags**: `field_safety_notices`, `mhra`, `medical_device_safety`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-3-to-7-august-2026)
 
 ---
 

@@ -6,6 +6,66 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### MHRA National Patient Safety Alert: ResMed Astral 100/150 Ventilators Unexpected Ventilation Interruption
+
+**2026-08-17** | UK MHRA | Safety Communication | !!! HIGH
+
+This MHRA National Patient Safety Alert (NatPSA/2026/004/MHRA) concerns ResMed Astral 100 and 150 ventilators and associated Printed Circuit Board Assembly spare parts manufactured before October 2024. A device fault can cause unexpected interruption of ventilation therapy, potentially resulting in patient harm. Affected users, caregivers, and healthcare providers should identify affected devices and implement the actions specified in ResMed's Field Safety Notice and the MHRA alert.
+
+**Tags**: `mhra`, `resmed_astral`, `ventilator`, `field_safety_notice`, `patient_safety`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/national-patient-safety-alert-resmed-astral-100-and-150-ventilators-potential-for-patient-harm-due-to-unexpected-interruption-of-ventilation-therapy-natpsa-slash-2026-slash-004-slash-mhra)
+
+---
+
+### MHRA Publishes Suspended and Revoked Licences for Medicines Manufacturers and Wholesalers
+
+**2026-08-17** | UK MHRA | Regulation Update | !! MEDIUM
+
+The UK MHRA has updated its public list of companies whose licences or registrations to manufacture or wholesale medicines and active ingredients have been suspended or revoked. The list affects manufacturers, wholesalers, and trading partners in the UK medicines supply chain. Regulatory affairs and quality professionals should check the current list to verify the compliance status of suppliers, contract manufacturers, and distributors, and take immediate action if a partner appears on the list.
+
+**Tags**: `uk_mhra`, `medicine_licensing`, `enforcement`
+
+[View Source (MHRA (UK))](https://www.gov.uk/government/publications/suspended-licences-for-manufacturers-and-wholesalers-of-medicines)
+
+---
+
+### MHRA Updates List of Medical Devices Granted Exceptional Use Authorisations
+
+**2026-08-14** | UK MHRA | Regulation Update | !! MEDIUM
+
+This MHRA decision provides an updated list of manufacturers and medical devices that have been granted exceptional use authorisations (exemptions) in the UK. It also identifies devices whose exemptions have expired or been cancelled. Regulatory affairs professionals should review the list to confirm the current authorisation status of relevant devices and take action if a product's exemption is no longer active.
+
+**Tags**: `exceptional_use_authorisation`, `mhra`, `medical_device_exemption`
+
+[View Source (MHRA (UK))](https://www.gov.uk/government/publications/medical-devices-given-exceptional-use-authorisations)
+
+---
+
+### MHRA Guidance: Notify Clinical Investigations for Medical Devices
+
+**2026-08-12** | UK MHRA | Regulation Update | !! MEDIUM
+
+This MHRA guidance explains how sponsors must notify the MHRA of their intention to conduct a clinical investigation for a medical device in the UK. It applies to manufacturers, sponsors, and clinical research organisations planning device studies. Affected parties should review the notification requirements, prepare the necessary documentation, and submit the notification to MHRA before starting the investigation.
+
+**Tags**: `mhra`, `clinical_investigation`, `medical_devices`, `regulatory_guidance`
+
+[View Source (MHRA (UK))](https://www.gov.uk/guidance/notify-mhra-about-a-clinical-investigation-for-a-medical-device)
+
+---
+
+### MHRA Field Safety Notices: 3 to 7 August 2026
+
+**2026-08-11** | UK MHRA | Safety Communication | !! MEDIUM
+
+This MHRA page lists Field Safety Notices (FSNs) issued for medical devices and drug-device products between 3 and 7 August 2026. The update includes two new entries in the feed. Healthcare providers, medical device manufacturers, and users should review the listed notices and take any recommended actions for affected devices. FSNs may include recalls, safety alerts, or instructions for use changes.
+
+**Tags**: `field_safety_notices`, `mhra`, `medical_device_safety`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-3-to-7-august-2026)
+
+---
+
 ### MHRA Safety Alert: Medical Devices Supplied Without UKCA/CE Markings Must Be Removed and Quarantined
 
 **2026-08-10** | UK MHRA | Safety Communication | !!! HIGH

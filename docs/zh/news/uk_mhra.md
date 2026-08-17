@@ -6,6 +6,66 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### MHRA患者安全警报：ResMed Astral 100/150呼吸机存在通气意外中断风险
+
+**2026-08-17** | UK MHRA | 安全通报 | !!! HIGH
+
+英国MHRA发布国家患者安全警报（NatPSA/2026/004/MHRA），涉及ResMed Astral 100和150呼吸机及2024年10月前生产的印刷电路板组件备件。该设备故障可能导致通气治疗意外中断，存在患者伤害风险。相关医疗机构、护理人员和用户应根据ResMed现场安全通知和MHRA警报要求，识别受影响设备并采取必要措施。
+
+**标签**: `mhra`, `resmed_astral`, `ventilator`, `field_safety_notice`, `patient_safety`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/national-patient-safety-alert-resmed-astral-100-and-150-ventilators-potential-for-patient-harm-due-to-unexpected-interruption-of-ventilation-therapy-natpsa-slash-2026-slash-004-slash-mhra)
+
+---
+
+### MHRA公布药品生产商和批发商暂停及撤销许可证名单
+
+**2026-08-17** | UK MHRA | 法规更新 | !! MEDIUM
+
+英国MHRA更新了被暂停或撤销药品及原料药生产、批发许可证/注册的公司的公开名单。该名单影响英国药品供应链中的生产商、批发商和贸易伙伴。法规事务和质量人员应查阅最新名单，核实供应商、合同生产商和分销商的合规状态，如发现合作方在名单中应立即采取措施。
+
+**标签**: `uk_mhra`, `medicine_licensing`, `enforcement`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/government/publications/suspended-licences-for-manufacturers-and-wholesalers-of-medicines)
+
+---
+
+### MHRA更新获特殊使用授权医疗器械清单
+
+**2026-08-14** | UK MHRA | 法规更新 | !! MEDIUM
+
+MHRA发布更新清单，列出了已获得特殊使用授权（豁免）的制造商及其医疗器械。该清单还包括豁免已到期或被取消的产品。相关企业应核对清单，确认其器械的授权状态，并在豁免失效时采取相应措施。
+
+**标签**: `exceptional_use_authorisation`, `mhra`, `medical_device_exemption`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/government/publications/medical-devices-given-exceptional-use-authorisations)
+
+---
+
+### MHRA医疗器械临床试验通知指南
+
+**2026-08-12** | UK MHRA | 法规更新 | !! MEDIUM
+
+该MHRA指南说明申办方在英国开展医疗器械临床试验前如何向MHRA提交通知。适用于计划开展器械研究的制造商、申办方和临床研究组织。相关方应审查通知要求、准备必要文件并在试验开始前向MHRA提交。
+
+**标签**: `mhra`, `clinical_investigation`, `medical_devices`, `regulatory_guidance`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/guidance/notify-mhra-about-a-clinical-investigation-for-a-medical-device)
+
+---
+
+### MHRA现场安全通告：2026年8月3日至7日
+
+**2026-08-11** | UK MHRA | 安全通报 | !! MEDIUM
+
+该MHRA页面汇总了2026年8月3日至7日发布的医疗器械和药械组合产品现场安全通告（FSN）。本次更新包含两条新条目。医疗保健机构、医疗器械制造商和用户应查阅相关通告，并对受影响设备采取建议措施。FSN可能包括召回、安全警报或使用说明变更。
+
+**标签**: `field_safety_notices`, `mhra`, `medical_device_safety`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-3-to-7-august-2026)
+
+---
+
 ### MHRA安全警报：供应无有效UKCA/CE标识的医疗器械须立即停用并隔离
 
 **2026-08-10** | UK MHRA | 安全通报 | !!! HIGH

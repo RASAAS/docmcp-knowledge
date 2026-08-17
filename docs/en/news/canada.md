@@ -6,6 +6,66 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### Health Canada Alert: Performance Concerns with Orthopaedic Implant Components
+
+**2026-08-14** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has published a recall/alert regarding performance issues with orthopaedic implant components. The notice may affect healthcare facilities that stock or use the implicated components and patients who have received them. Regulatory affairs and clinical teams should review the Health Canada alert, identify affected lots, quarantine or return devices as instructed, and follow any patient monitoring or reporting requirements.
+
+**Tags**: `orthopaedic_implants`, `medical_device_recall`, `health_canada`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/orthopaedic-implant-components)
+
+---
+
+### Health Canada Recall/Alert: Endotracheal Tube, Cuffed – Device Compatibility
+
+**2026-08-14** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a medical device recall/alert for cuffed endotracheal tubes due to a device compatibility concern. The alert affects healthcare facilities and providers that stock or use the affected endotracheal tubes, potentially involving compatibility with other airway devices or accessories. Affected users should identify and quarantine relevant inventory, verify device compatibility according to the manufacturer’s instructions, and follow the actions specified by Health Canada and the manufacturer. Report any related adverse events or product problems to Health Canada.
+
+**Tags**: `medical_device_recall`, `endotracheal_tube`, `device_compatibility`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/endotracheal-tube-cuffed)
+
+---
+
+### Health Canada Recalls IV Tubing Set Drip Chambers Over Performance Issues
+
+**2026-08-13** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a medical device recall/alert for IV tubing set drip chambers due to performance issues. Healthcare facilities using affected IV tubing sets should identify and quarantine impacted lots and follow the manufacturer’s recall instructions. Regulatory affairs professionals should monitor Health Canada notices for affected models, lot numbers, and required corrective actions.
+
+**Tags**: `health_canada`, `medical_device_recall`, `iv_tubing_set`, `performance_issue`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/iv-tubing-set-drip-chambers)
+
+---
+
+### Health Canada Recall: Portrait Core Services Cssxb – Performance Issue
+
+**2026-08-13** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has published a medical device recall/alert for Portrait Core Services Cssxb due to a performance issue. This notice affects Canadian healthcare facilities and users of the affected product. Review the recall details, identify affected units, and implement the manufacturer's recommended corrective actions promptly.
+
+**Tags**: `medical_device_recall`, `health_canada`, `performance_issue`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/portrait-core-services-cssxb)
+
+---
+
+### Adequan I.M. Recall: Particulate Matter Contamination in Injectable Product
+
+**2026-08-12** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a product quality recall for Adequan I.M. due to the presence of particulate matter in the injectable product. The affected product is used in veterinary settings, and particulate contamination may pose risks such as injection-site reactions or vascular obstruction. Users should immediately quarantine affected lots, stop use, and follow recall return instructions.
+
+**Tags**: `canada_recall`, `particulate_matter`, `product_quality`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/adequan-im-presence-particulate-matter)
+
+---
+
 ### Health Canada Recalls Bravo Capsule Delivery System Over Performance Issues
 
 **2026-08-07** | Health Canada | Safety Communication | !! MEDIUM

@@ -6,6 +6,30 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### MHRA患者安全警报：ResMed Astral 100/150呼吸机存在通气意外中断风险
+
+**2026-08-17** | UK MHRA | 安全通报 | !!! HIGH
+
+英国MHRA发布国家患者安全警报（NatPSA/2026/004/MHRA），涉及ResMed Astral 100和150呼吸机及2024年10月前生产的印刷电路板组件备件。该设备故障可能导致通气治疗意外中断，存在患者伤害风险。相关医疗机构、护理人员和用户应根据ResMed现场安全通知和MHRA警报要求，识别受影响设备并采取必要措施。
+
+**标签**: `mhra`, `resmed_astral`, `ventilator`, `field_safety_notice`, `patient_safety`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/national-patient-safety-alert-resmed-astral-100-and-150-ventilators-potential-for-patient-harm-due-to-unexpected-interruption-of-ventilation-therapy-natpsa-slash-2026-slash-004-slash-mhra)
+
+---
+
+### MHRA公布药品生产商和批发商暂停及撤销许可证名单
+
+**2026-08-17** | UK MHRA | 法规更新 | !! MEDIUM
+
+英国MHRA更新了被暂停或撤销药品及原料药生产、批发许可证/注册的公司的公开名单。该名单影响英国药品供应链中的生产商、批发商和贸易伙伴。法规事务和质量人员应查阅最新名单，核实供应商、合同生产商和分销商的合规状态，如发现合作方在名单中应立即采取措施。
+
+**标签**: `uk_mhra`, `medicine_licensing`, `enforcement`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/government/publications/suspended-licences-for-manufacturers-and-wholesalers-of-medicines)
+
+---
+
 ### 国家药监局发布46项医疗器械行业标准（2026年8月14日）
 
 **2026-08-14** | NMPA | 标准修订 | !!! HIGH
@@ -15,6 +39,42 @@ title: 法规速递
 **标签**: `standards`, `YY`, `industry_standard`, `nmpa`
 
 [查看来源 (NMPA)](https://finance.sina.com.cn/jjxw/2026-08-14/doc-ininhxpk2477598.shtml)
+
+---
+
+### MHRA更新获特殊使用授权医疗器械清单
+
+**2026-08-14** | UK MHRA | 法规更新 | !! MEDIUM
+
+MHRA发布更新清单，列出了已获得特殊使用授权（豁免）的制造商及其医疗器械。该清单还包括豁免已到期或被取消的产品。相关企业应核对清单，确认其器械的授权状态，并在豁免失效时采取相应措施。
+
+**标签**: `exceptional_use_authorisation`, `mhra`, `medical_device_exemption`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/government/publications/medical-devices-given-exceptional-use-authorisations)
+
+---
+
+### 加拿大卫生部：骨科植入组件性能问题警报
+
+**2026-08-14** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部发布了一项关于骨科植入组件性能问题的召回/警报。该通知可能影响库存或使用相关组件的医疗机构及已植入患者。法规事务和临床团队应查阅该警报，识别受影响批次，按指示隔离或退回器械，并遵循患者监测或报告要求。
+
+**标签**: `orthopaedic_implants`, `medical_device_recall`, `health_canada`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/orthopaedic-implant-components)
+
+---
+
+### 加拿大卫生部召回/警示：带套囊气管插管兼容性问题
+
+**2026-08-14** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部发布了一项关于带套囊气管插管的医疗器械召回/警示，原因是器械兼容性问题。该通知涉及库存或使用受影响带套囊气管插管的医疗机构和医务人员，可能涉及与其他气道器械或配件的兼容性问题。相关用户应识别并隔离受影响库存，按照制造商说明确认器械兼容性，并执行加拿大卫生部和制造商规定的召回/警示措施。如有相关不良事件或产品问题，应向加拿大卫生部报告。
+
+**标签**: `medical_device_recall`, `endotracheal_tube`, `device_compatibility`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/endotracheal-tube-cuffed)
 
 ---
 
@@ -30,6 +90,30 @@ title: 法规速递
 
 ---
 
+### 加拿大卫生部召回输液管滴斗：存在性能问题
+
+**2026-08-13** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已就输液管滴斗发布医疗器械召回/警报，原因是存在性能问题。使用受影响输液管套件的医疗机构应识别并隔离相关批次，遵循制造商的召回指示。监管事务人员应关注加拿大卫生部通知中的受影响型号、批号及所需纠正措施。
+
+**标签**: `health_canada`, `medical_device_recall`, `iv_tubing_set`, `performance_issue`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/iv-tubing-set-drip-chambers)
+
+---
+
+### 加拿大卫生部召回：Portrait Core Services Cssxb 性能问题
+
+**2026-08-13** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部发布了一项针对 Portrait Core Services Cssxb 的医疗器械召回/警报，原因是存在性能问题。该通知影响加拿大境内使用该产品的医疗机构和用户。请查阅召回详情，识别受影响设备，并尽快执行制造商建议的纠正措施。
+
+**标签**: `medical_device_recall`, `health_canada`, `performance_issue`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/portrait-core-services-cssxb)
+
+---
+
 ### IV Sets or Administration Sets - ICU Medical, Inc.
 
 **2026-08-13** | Swissmedic | 安全通报 | !! MEDIUM
@@ -37,6 +121,30 @@ title: 法规速递
 FSCA: MD: IV Sets or Administration Sets. Reason: . Model: various.
 
 [查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260730_037)
+
+---
+
+### MHRA医疗器械临床试验通知指南
+
+**2026-08-12** | UK MHRA | 法规更新 | !! MEDIUM
+
+该MHRA指南说明申办方在英国开展医疗器械临床试验前如何向MHRA提交通知。适用于计划开展器械研究的制造商、申办方和临床研究组织。相关方应审查通知要求、准备必要文件并在试验开始前向MHRA提交。
+
+**标签**: `mhra`, `clinical_investigation`, `medical_devices`, `regulatory_guidance`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/guidance/notify-mhra-about-a-clinical-investigation-for-a-medical-device)
+
+---
+
+### Adequan I.M. 因颗粒物污染被召回
+
+**2026-08-12** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部发布了一则关于 Adequan I.M. 的产品质量召回警报，原因是该注射产品中存在颗粒物。受影响产品主要用于兽医领域，颗粒物可能导致注射部位反应或血管阻塞等安全风险。相关批次应立即停用、隔离，并按照召回通知退货。
+
+**标签**: `canada_recall`, `particulate_matter`, `product_quality`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/adequan-im-presence-particulate-matter)
 
 ---
 
@@ -59,6 +167,18 @@ FSCA: MD: Ophthalmology instruments. Reason: . Model: .
 **标签**: `medical_device_recall`, `breathing_circuit`, `hamilton_medical`, `ventilation`, `safety_alert`
 
 [查看来源 (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/breathing-circuit-set-recall-hamilton-medical-removes-breathing-circuit-set)
+
+---
+
+### MHRA现场安全通告：2026年8月3日至7日
+
+**2026-08-11** | UK MHRA | 安全通报 | !! MEDIUM
+
+该MHRA页面汇总了2026年8月3日至7日发布的医疗器械和药械组合产品现场安全通告（FSN）。本次更新包含两条新条目。医疗保健机构、医疗器械制造商和用户应查阅相关通告，并对受影响设备采取建议措施。FSN可能包括召回、安全警报或使用说明变更。
+
+**标签**: `field_safety_notices`, `mhra`, `medical_device_safety`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-3-to-7-august-2026)
 
 ---
 

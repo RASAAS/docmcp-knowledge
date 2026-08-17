@@ -6,6 +6,66 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### 加拿大卫生部：骨科植入组件性能问题警报
+
+**2026-08-14** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部发布了一项关于骨科植入组件性能问题的召回/警报。该通知可能影响库存或使用相关组件的医疗机构及已植入患者。法规事务和临床团队应查阅该警报，识别受影响批次，按指示隔离或退回器械，并遵循患者监测或报告要求。
+
+**标签**: `orthopaedic_implants`, `medical_device_recall`, `health_canada`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/orthopaedic-implant-components)
+
+---
+
+### 加拿大卫生部召回/警示：带套囊气管插管兼容性问题
+
+**2026-08-14** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部发布了一项关于带套囊气管插管的医疗器械召回/警示，原因是器械兼容性问题。该通知涉及库存或使用受影响带套囊气管插管的医疗机构和医务人员，可能涉及与其他气道器械或配件的兼容性问题。相关用户应识别并隔离受影响库存，按照制造商说明确认器械兼容性，并执行加拿大卫生部和制造商规定的召回/警示措施。如有相关不良事件或产品问题，应向加拿大卫生部报告。
+
+**标签**: `medical_device_recall`, `endotracheal_tube`, `device_compatibility`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/endotracheal-tube-cuffed)
+
+---
+
+### 加拿大卫生部召回输液管滴斗：存在性能问题
+
+**2026-08-13** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已就输液管滴斗发布医疗器械召回/警报，原因是存在性能问题。使用受影响输液管套件的医疗机构应识别并隔离相关批次，遵循制造商的召回指示。监管事务人员应关注加拿大卫生部通知中的受影响型号、批号及所需纠正措施。
+
+**标签**: `health_canada`, `medical_device_recall`, `iv_tubing_set`, `performance_issue`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/iv-tubing-set-drip-chambers)
+
+---
+
+### 加拿大卫生部召回：Portrait Core Services Cssxb 性能问题
+
+**2026-08-13** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部发布了一项针对 Portrait Core Services Cssxb 的医疗器械召回/警报，原因是存在性能问题。该通知影响加拿大境内使用该产品的医疗机构和用户。请查阅召回详情，识别受影响设备，并尽快执行制造商建议的纠正措施。
+
+**标签**: `medical_device_recall`, `health_canada`, `performance_issue`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/portrait-core-services-cssxb)
+
+---
+
+### Adequan I.M. 因颗粒物污染被召回
+
+**2026-08-12** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部发布了一则关于 Adequan I.M. 的产品质量召回警报，原因是该注射产品中存在颗粒物。受影响产品主要用于兽医领域，颗粒物可能导致注射部位反应或血管阻塞等安全风险。相关批次应立即停用、隔离，并按照召回通知退货。
+
+**标签**: `canada_recall`, `particulate_matter`, `product_quality`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/adequan-im-presence-particulate-matter)
+
+---
+
 ### 加拿大卫生部因性能问题召回Bravo胶囊递送系统
 
 **2026-08-07** | Health Canada | 安全通报 | !! MEDIUM

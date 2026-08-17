@@ -1,7 +1,133 @@
 {
   "framework": "canada",
-  "last_updated": "2026-08-10T20:01:37Z",
+  "last_updated": "2026-08-17T19:33:16Z",
   "items": [
+    {
+      "id": "canada_20260817_health_canada_alert_performance_concerns_with_orthopaedic_im",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Alert: Performance Concerns with Orthopaedic Implant Components",
+        "zh": "加拿大卫生部：骨科植入组件性能问题警报"
+      },
+      "summary": {
+        "en": "Health Canada has published a recall/alert regarding performance issues with orthopaedic implant components. The notice may affect healthcare facilities that stock or use the implicated components and patients who have received them. Regulatory affairs and clinical teams should review the Health Canada alert, identify affected lots, quarantine or return devices as instructed, and follow any patient monitoring or reporting requirements.",
+        "zh": "加拿大卫生部发布了一项关于骨科植入组件性能问题的召回/警报。该通知可能影响库存或使用相关组件的医疗机构及已植入患者。法规事务和临床团队应查阅该警报，识别受影响批次，按指示隔离或退回器械，并遵循患者监测或报告要求。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/orthopaedic-implant-components",
+      "source_name": "Health Canada",
+      "published_date": "2026-08-14",
+      "detected_date": "2026-08-17T19:31:52Z",
+      "importance": "high",
+      "tags": [
+        "orthopaedic_implants",
+        "medical_device_recall",
+        "health_canada"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260817_health_canada_recall_alert_endotracheal_tube_cuffed_device_c",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Recall/Alert: Endotracheal Tube, Cuffed – Device Compatibility",
+        "zh": "加拿大卫生部召回/警示：带套囊气管插管兼容性问题"
+      },
+      "summary": {
+        "en": "Health Canada has issued a medical device recall/alert for cuffed endotracheal tubes due to a device compatibility concern. The alert affects healthcare facilities and providers that stock or use the affected endotracheal tubes, potentially involving compatibility with other airway devices or accessories. Affected users should identify and quarantine relevant inventory, verify device compatibility according to the manufacturer’s instructions, and follow the actions specified by Health Canada and the manufacturer. Report any related adverse events or product problems to Health Canada.",
+        "zh": "加拿大卫生部发布了一项关于带套囊气管插管的医疗器械召回/警示，原因是器械兼容性问题。该通知涉及库存或使用受影响带套囊气管插管的医疗机构和医务人员，可能涉及与其他气道器械或配件的兼容性问题。相关用户应识别并隔离受影响库存，按照制造商说明确认器械兼容性，并执行加拿大卫生部和制造商规定的召回/警示措施。如有相关不良事件或产品问题，应向加拿大卫生部报告。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/endotracheal-tube-cuffed",
+      "source_name": "Health Canada",
+      "published_date": "2026-08-14",
+      "detected_date": "2026-08-17T19:32:22Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "endotracheal_tube",
+        "device_compatibility"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260817_health_canada_recalls_iv_tubing_set_drip_chambers_over_perfo",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Recalls IV Tubing Set Drip Chambers Over Performance Issues",
+        "zh": "加拿大卫生部召回输液管滴斗：存在性能问题"
+      },
+      "summary": {
+        "en": "Health Canada has issued a medical device recall/alert for IV tubing set drip chambers due to performance issues. Healthcare facilities using affected IV tubing sets should identify and quarantine impacted lots and follow the manufacturer’s recall instructions. Regulatory affairs professionals should monitor Health Canada notices for affected models, lot numbers, and required corrective actions.",
+        "zh": "加拿大卫生部已就输液管滴斗发布医疗器械召回/警报，原因是存在性能问题。使用受影响输液管套件的医疗机构应识别并隔离相关批次，遵循制造商的召回指示。监管事务人员应关注加拿大卫生部通知中的受影响型号、批号及所需纠正措施。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/iv-tubing-set-drip-chambers",
+      "source_name": "Health Canada",
+      "published_date": "2026-08-13",
+      "detected_date": "2026-08-17T19:32:42Z",
+      "importance": "high",
+      "tags": [
+        "health_canada",
+        "medical_device_recall",
+        "iv_tubing_set",
+        "performance_issue"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260817_health_canada_recall_portrait_core_services_cssxb_performanc",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Recall: Portrait Core Services Cssxb – Performance Issue",
+        "zh": "加拿大卫生部召回：Portrait Core Services Cssxb 性能问题"
+      },
+      "summary": {
+        "en": "Health Canada has published a medical device recall/alert for Portrait Core Services Cssxb due to a performance issue. This notice affects Canadian healthcare facilities and users of the affected product. Review the recall details, identify affected units, and implement the manufacturer's recommended corrective actions promptly.",
+        "zh": "加拿大卫生部发布了一项针对 Portrait Core Services Cssxb 的医疗器械召回/警报，原因是存在性能问题。该通知影响加拿大境内使用该产品的医疗机构和用户。请查阅召回详情，识别受影响设备，并尽快执行制造商建议的纠正措施。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/portrait-core-services-cssxb",
+      "source_name": "Health Canada",
+      "published_date": "2026-08-13",
+      "detected_date": "2026-08-17T19:32:54Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "health_canada",
+        "performance_issue"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260817_adequan_i_m_recall_particulate_matter_contamination_in_injec",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Adequan I.M. Recall: Particulate Matter Contamination in Injectable Product",
+        "zh": "Adequan I.M. 因颗粒物污染被召回"
+      },
+      "summary": {
+        "en": "Health Canada has issued a product quality recall for Adequan I.M. due to the presence of particulate matter in the injectable product. The affected product is used in veterinary settings, and particulate contamination may pose risks such as injection-site reactions or vascular obstruction. Users should immediately quarantine affected lots, stop use, and follow recall return instructions.",
+        "zh": "加拿大卫生部发布了一则关于 Adequan I.M. 的产品质量召回警报，原因是该注射产品中存在颗粒物。受影响产品主要用于兽医领域，颗粒物可能导致注射部位反应或血管阻塞等安全风险。相关批次应立即停用、隔离，并按照召回通知退货。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/adequan-im-presence-particulate-matter",
+      "source_name": "Health Canada",
+      "published_date": "2026-08-12",
+      "detected_date": "2026-08-17T19:33:16Z",
+      "importance": "high",
+      "tags": [
+        "canada_recall",
+        "particulate_matter",
+        "product_quality"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
     {
       "id": "canada_20260810_health_canada_recalls_bravo_capsule_delivery_system_over_per",
       "framework": "canada",
