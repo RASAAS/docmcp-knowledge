@@ -6,6 +6,48 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### Considerations for the Regulation of Generative AI-Enabled Medical Devices: Discussion Paper and Request for Feedback
+
+**2026-08-18** | FDA | cdrh_news | !! MEDIUM
+
+CDRH News
+
+[View Source (FDA)](https://www.fda.gov/medical-devices/digital-health-center-excellence/considerations-regulation-generative-ai-enabled-medical-devices-discussion-paper-and-request)
+
+---
+
+### Intraosseous Needle Set Recall: Becton Dickinson Removes Certain Intraosseous Vascular Access System Needle Sets
+
+**2026-08-18** | FDA | cdrh_news | !! MEDIUM
+
+CDRH News
+
+[View Source (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/intraosseous-needle-set-recall-becton-dickinson-removes-certain-intraosseous-vascular-access-system)
+
+---
+
+### FDA Announces Baxter Duo-Vent Intravascular Administration Set Recall
+
+**2026-08-18** | FDA | cdrh_news | !!! HIGH
+
+FDA issued a recall notice for Baxter Duo-Vent Solution Sets used in intravascular administration. Health care providers should immediately identify and quarantine affected lots, stop using the devices, and follow Baxter's return or disposal instructions. Patients who may have been exposed should be monitored, and adverse events should be reported to FDA.
+
+**Tags**: `recall`, `intravascular_administration_set`, `baxter`, `safety_alert`
+
+[View Source (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/intravascular-administration-set-recall-baxter-removes-duo-vent-solution-sets)
+
+---
+
+### Convenience Kit Correction: Medline Issues Correction for Convenience Kits Containing ICU Medical Pain Management Compon
+
+**2026-08-18** | FDA | cdrh_news | !! MEDIUM
+
+CDRH News
+
+[View Source (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-medline-issues-correction-convenience-kits-containing-icu-medical-pain)
+
+---
+
 ### MHRA National Patient Safety Alert: ResMed Astral 100/150 Ventilators Unexpected Ventilation Interruption
 
 **2026-08-17** | UK MHRA | Safety Communication | !!! HIGH
@@ -121,6 +163,42 @@ Health Canada has published a medical device recall/alert for Portrait Core Serv
 FSCA: MD: IV Sets or Administration Sets. Reason: . Model: various.
 
 [View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260730_037)
+
+---
+
+### Class I Recall: AVID Medical Halyard Kits with Recalled Medline Namic Angiographic Star Off Manifolds
+
+**2026-08-12** | FDA | recall_class1 | !!! HIGH
+
+AVID Medical, Inc. is recalling 5,168 Halyard convenience kits because they contain Medline Namic Angiographic Star Off Handle Manifolds that were recalled due to particulates in the fluid path. Particulate contamination in the angiographic manifold fluid path may present a serious risk of embolic or vascular events if used. Users should immediately locate, quarantine, and stop using affected kits, and follow recall instructions from AVID Medical or Medline.
+
+**Tags**: `class_i_recall`, `particulate_contamination`, `angiographic_manifold`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2797-2026)
+
+---
+
+### Class I Recall: Boston Scientific INFINION CX Lead Kit (SC-2317-50) – Lead Fracture Risk
+
+**2026-08-12** | FDA | recall_class1 | !!! HIGH
+
+FDA has posted Class I recall #Z-2879-2026 for Boston Scientific Neuromodulation Corporation’s INFINION CX Lead Kit, 50 cm (Model SC-2317-50, Material M365SC2317500). The recall covers 1,079 units because stress at the anchor site may cause high impedance or lead fractures, potentially leading to inadequate spinal cord stimulation or additional intervention. Facilities and users should identify and quarantine affected leads and follow Boston Scientific’s recall instructions for return or replacement.
+
+**Tags**: `class_i_recall`, `spinal_cord_stimulation`, `lead_fracture`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2879-2026)
+
+---
+
+### Class I Recall Z-2798-2026: AVID Medical Halyard Kits with Recalled Medline Namic Angiographic Manifolds
+
+**2026-08-12** | FDA | recall_class1 | !!! HIGH
+
+AVID Medical, Inc. is recalling 5,168 Halyard convenience kits because they contain Medline Namic Angiographic Star Off Handle Manifolds recalled due to particulates in the fluid path. This is a Class I recall, indicating a reasonable probability of serious adverse health consequences or death. Affected users should quarantine the kits and follow AVID Medical/Medline recall instructions for return or replacement.
+
+**Tags**: `class_i_recall`, `particulate_contamination`, `angiographic_manifold`, `convenience_kits`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2798-2026)
 
 ---
 
@@ -1020,6 +1098,18 @@ The Saudi Food and Drug Authority (SFDA) has granted marketing authorization for
 
 ---
 
+### Recall Z-2872-2026: Bard BD Needle Kits for Powered Driver (15mm/25mm, 15Ga) Obturator Locking Issue
+
+**2026-07-30** | FDA | Safety Communication | !!! HIGH
+
+FDA posted recall Z-2872-2026 affecting Bard Access Systems BD Needle Kits for Powered Driver, specifically 15mm x 15Ga (REF D015151NK) and 25mm x 15Ga (REF D01525). These intraosseous needle sets may have an obturator that locks after placement, making it difficult or impossible to remove during emergent or urgent vascular access. Healthcare providers should identify and quarantine affected lots and follow Bard/BD recall instructions to avoid delays in critical IO access.
+
+**Tags**: `device_recall`, `intraosseous_access`, `obturator_locking`, `bard_access_systems`, `bd_needle_kit`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=221651)
+
+---
+
 ### MHRA July 2026 Safety Roundup: Latest Medicines and Medical Device Safety Advice
 
 **2026-07-30** | UK MHRA | Safety Communication | !! MEDIUM
@@ -1371,6 +1461,30 @@ The Saudi FDA National Center for Medical Devices Reporting (NCMDR) issued Weekl
 **Tags**: `safety_alert`, `weekly_update`, `saudi_sfda`, `ncmdr`, `field_safety_notice`
 
 [View Source (FDA)](https://www.sfda.gov.sa/sites/default/files/2026-07/%28WU2631%29%20NCMDR%20Weekly%20Update%2026%20July%202026.pdf)
+
+---
+
+### Recall: Spectral Instruments Inc Lago X - Momentary Absence of 'X-Ray On' Banner During Readiness Check
+
+**2026-07-24** | FDA | Safety Communication | !!! HIGH
+
+FDA has posted a recall (Z-2939-2026) for the Spectral Instruments Inc Lago X imaging device due to a momentary absence of the on-screen 'X-Ray On' banner during the run readiness check. This could prevent operators from being alerted that X-ray emission is active, potentially leading to unintended radiation exposure. Affected facilities should identify impacted Lago X units and follow the manufacturer's recall instructions, including any software updates or workflow mitigations.
+
+**Tags**: `fda_recall`, `x_ray_safety`, `radiation_exposure`, `medical_device_compliance`, `software_defect`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=222029)
+
+---
+
+### FDA Recall: Spectral Instruments Inc Ami HTX – Missing On-Screen "X-Ray On" Banner (Z-2940-2026)
+
+**2026-07-24** | FDA | Safety Communication | !!! HIGH
+
+FDA has posted recall Z-2940-2026 for the Spectral Instruments Inc Ami HTX imaging system due to a momentary absence of the on-screen "X-Ray On" banner during the run readiness check. This may leave operators unaware that X-ray output is active, creating a potential radiation safety risk. Affected facilities should identify impacted units and follow the manufacturer's recall instructions promptly.
+
+**Tags**: `fda_recall`, `radiation_safety`, `xray_imaging`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=222031)
 
 ---
 
@@ -2087,6 +2201,30 @@ Swissmedic has issued a Field Safety Corrective Action (FSCA) for the Silver Gra
 **Tags**: `swissmedic`, `fsca`, `vascular_prosthesis`, `aesculap_ag`, `implant`, `field_safety_corrective_action`
 
 [View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260715_075)
+
+---
+
+### FDA Recall Z-2954-2026: SDI Limited - Dentsply Sirona Capsule Mixer Model 5546068 Electrical Discharge Risk
+
+**2026-07-20** | FDA | Safety Communication | !!! HIGH
+
+FDA posted recall Z-2954-2026 for the SDI Limited - Dentsply Sirona Capsule Mixer, Model No. 5546068, due to potential electrical discharge from the unit when unplugged. This dental device may pose an electrical shock hazard to users. Affected facilities should identify and remove the device from use and follow the manufacturer's recall instructions.
+
+**Tags**: `device_recall`, `electrical_safety`, `dental_device`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=221283)
+
+---
+
+### Paragonix KidneyVault Portable Renal Perfusion System Recall Z-2967-2026: Firmware Defect Causes Blank Screen
+
+**2026-07-20** | FDA | Safety Communication | !!! HIGH
+
+FDA has posted a recall for the Paragonix Technologies Inc. KidneyVault Portable Renal Perfusion System, REF PRGNX-8008-001, under recall Z-2967-2026. A firmware defect in the datalogger may cause it to lose its configuration, resulting in a blank screen and loss of displayed preservation parameters. This can prevent transplant teams from monitoring critical organ preservation data during transport. Affected facilities should identify and quarantine affected units, contact Paragonix Technologies, and follow the recall instructions.
+
+**Tags**: `device_recall`, `firmware_defect`, `organ_preservation`, `fda_safety_communication`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=221632)
 
 ---
 

@@ -6,6 +6,48 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### Considerations for the Regulation of Generative AI-Enabled Medical Devices: Discussion Paper and Request for Feedback
+
+**2026-08-18** | FDA | cdrh_news | !! MEDIUM
+
+CDRH News
+
+[查看来源 (FDA)](https://www.fda.gov/medical-devices/digital-health-center-excellence/considerations-regulation-generative-ai-enabled-medical-devices-discussion-paper-and-request)
+
+---
+
+### Intraosseous Needle Set Recall: Becton Dickinson Removes Certain Intraosseous Vascular Access System Needle Sets
+
+**2026-08-18** | FDA | cdrh_news | !! MEDIUM
+
+CDRH News
+
+[查看来源 (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/intraosseous-needle-set-recall-becton-dickinson-removes-certain-intraosseous-vascular-access-system)
+
+---
+
+### FDA宣布Baxter召回Duo-Vent血管内输液套件
+
+**2026-08-18** | FDA | cdrh_news | !!! HIGH
+
+FDA发布Baxter Duo-Vent溶液输注套件召回通知，该产品用于血管内输液。医疗机构和医护人员应立即识别并隔离受影响批次，停止使用，并按Baxter的要求进行退货或处置。可能使用过受影响器械的患者应接受监测，不良事件应向FDA报告。
+
+**标签**: `recall`, `intravascular_administration_set`, `baxter`, `safety_alert`
+
+[查看来源 (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/intravascular-administration-set-recall-baxter-removes-duo-vent-solution-sets)
+
+---
+
+### Convenience Kit Correction: Medline Issues Correction for Convenience Kits Containing ICU Medical Pain Management Compon
+
+**2026-08-18** | FDA | cdrh_news | !! MEDIUM
+
+CDRH News
+
+[查看来源 (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-medline-issues-correction-convenience-kits-containing-icu-medical-pain)
+
+---
+
 ### MHRA患者安全警报：ResMed Astral 100/150呼吸机存在通气意外中断风险
 
 **2026-08-17** | UK MHRA | 安全通报 | !!! HIGH
@@ -121,6 +163,42 @@ MHRA发布更新清单，列出了已获得特殊使用授权（豁免）的制�
 FSCA: MD: IV Sets or Administration Sets. Reason: . Model: various.
 
 [查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260730_037)
+
+---
+
+### 一级召回：AVID Medical含召回Medline Namic血管造影歧管的Halyard套件
+
+**2026-08-12** | FDA | recall_class1 | !!! HIGH
+
+AVID Medical, Inc.正在召回5,168套Halyard便利套件，因其中所含Medline Namic血管造影星型旋塞歧管因流路中存在颗粒物被制造商召回。若使用受污染套件，颗粒物可能引起栓塞或血管事件等严重健康危害。相关机构应立即停用、隔离受影响套件，并按AVID Medical或Medline的召回通知处理。
+
+**标签**: `class_i_recall`, `particulate_contamination`, `angiographic_manifold`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2797-2026)
+
+---
+
+### 波士顿科学INFINION CX电极套件（SC-2317-50）I级召回：断裂风险
+
+**2026-08-12** | FDA | recall_class1 | !!! HIGH
+
+FDA已发布波士顿科学神经调控公司INFINION CX 50cm电极套件（型号SC-2317-50，物料M365SC2317500）的I级召回，编号Z-2879-2026。此次召回涉及1,079件产品，原因是锚定部位应力可能导致高阻抗或电极断裂，进而引起刺激不足或需额外手术。相关机构和用户应立即识别并隔离受影响产品，并按波士顿科学召回通知进行退回或更换。
+
+**标签**: `class_i_recall`, `spinal_cord_stimulation`, `lead_fracture`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2879-2026)
+
+---
+
+### I级召回Z-2798-2026：AVID Medical Halyard套件含召回Medline Namic血管造影歧管
+
+**2026-08-12** | FDA | recall_class1 | !!! HIGH
+
+AVID Medical, Inc. 正在召回5,168套Halyard便利套件，因其中含有的Medline Namic血管造影Star Off手柄歧管因流体通路中存在颗粒物被制造商召回。该召回为I级，存在导致严重健康损害或死亡的合理风险。相关用户应隔离受影响套件，并按照AVID Medical/Medline的召回通知进行退货或更换。
+
+**标签**: `class_i_recall`, `particulate_contamination`, `angiographic_manifold`, `convenience_kits`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2798-2026)
 
 ---
 
@@ -1020,6 +1098,18 @@ Swissmedic已发布针对迈瑞通用多参数遥测监护仪TMS40、TMS-6016和
 
 ---
 
+### Bard BD 电动驱动针套件（15/25mm 15Ga）因闭孔器锁定召回
+
+**2026-07-30** | FDA | 安全通报 | !!! HIGH
+
+FDA发布召回Z-2872-2026，涉及Bard Access Systems的BD电动驱动针套件，具体为15mm x 15Ga（REF D015151NK）和25mm x 15Ga（REF D01525）。这些骨内针套件在置入后闭孔器可能锁定，导致在紧急或必要情况下难以或无法取出。医护人员应立即识别并隔离受影响批次，并遵循Bard/BD召回指示，以避免关键骨内通路延误。
+
+**标签**: `device_recall`, `intraosseous_access`, `obturator_locking`, `bard_access_systems`, `bd_needle_kit`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=221651)
+
+---
+
 ### MHRA发布2026年7月安全简报：最新药品与医疗器械安全建议
 
 **2026-07-30** | UK MHRA | 安全通报 | !! MEDIUM
@@ -1371,6 +1461,30 @@ ConvaTec 在瑞士对其 Esteem Body 单件式软凸面造口袋（单件式泌�
 **标签**: `safety_alert`, `weekly_update`, `saudi_sfda`, `ncmdr`, `field_safety_notice`
 
 [查看来源 (FDA)](https://www.sfda.gov.sa/sites/default/files/2026-07/%28WU2631%29%20NCMDR%20Weekly%20Update%2026%20July%202026.pdf)
+
+---
+
+### Spectral Instruments Inc Lago X设备召回：就绪检查期间“X-Ray On”横幅短暂缺失
+
+**2026-07-24** | FDA | 安全通报 | !!! HIGH
+
+FDA已发布Spectral Instruments Inc Lago X设备召回（Z-2939-2026），原因是在运行就绪检查期间，屏幕上的“X-Ray On”横幅会短暂缺失。该问题可能导致操作者无法及时得知X射线已开启，存在意外辐射暴露风险。相关机构应识别受影响的Lago X设备，并遵循制造商的召回指示，包括软件更新或操作流程缓解措施。
+
+**标签**: `fda_recall`, `x_ray_safety`, `radiation_exposure`, `medical_device_compliance`, `software_defect`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=222029)
+
+---
+
+### FDA召回：Spectral Instruments Ami HTX 因“X-Ray On”提示瞬时缺失
+
+**2026-07-24** | FDA | 安全通报 | !!! HIGH
+
+FDA已发布Spectral Instruments Inc Ami HTX成像系统的召回（编号Z-2940-2026），原因是运行就绪检查期间屏幕上的“X-Ray On”提示会瞬时消失。该问题可能导致操作者未意识到X射线已开启，带来辐射安全风险。相关机构应确认受影响设备，并按照制造商召回通知及时采取行动。
+
+**标签**: `fda_recall`, `radiation_safety`, `xray_imaging`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=222031)
 
 ---
 
@@ -2087,6 +2201,30 @@ Stryker GmbH 针对其 Hoffmann II 微型连接杆（属于外固定支架系统
 **标签**: `swissmedic`, `fsca`, `vascular_prosthesis`, `aesculap_ag`, `implant`, `field_safety_corrective_action`
 
 [查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260715_075)
+
+---
+
+### FDA召回Z-2954-2026：SDI Limited/Dentsply Sirona胶囊混合机型号5546068电气放电风险
+
+**2026-07-20** | FDA | 安全通报 | !!! HIGH
+
+FDA发布召回Z-2954-2026，涉及SDI Limited - Dentsply Sirona胶囊混合机型号5546068，原因是设备拔下电源时可能存在电气放电。该牙科设备可能对使用者造成电击风险。相关机构应识别并停用受影响设备，并遵循制造商的召回说明。
+
+**标签**: `device_recall`, `electrical_safety`, `dental_device`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=221283)
+
+---
+
+### Paragonix KidneyVault便携式肾脏灌注系统召回：固件缺陷致屏幕空白
+
+**2026-07-20** | FDA | 安全通报 | !!! HIGH
+
+FDA已发布Paragonix Technologies Inc. KidneyVault便携式肾脏灌注系统（REF PRGNX-8008-001）召回，编号为Z-2967-2026。该设备数据记录仪因固件缺陷可能丢失配置，导致屏幕空白并无法显示保存参数。这可能使移植团队在运输过程中无法监测关键的器官保存数据。受影响机构应识别并隔离相关设备，联系Paragonix Technologies并按召回通知处理。
+
+**标签**: `device_recall`, `firmware_defect`, `organ_preservation`, `fda_safety_communication`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=221632)
 
 ---
 

@@ -1,7 +1,172 @@
 {
   "framework": "fda",
-  "last_updated": "2026-08-11T20:05:18Z",
+  "last_updated": "2026-08-18T19:51:12Z",
   "items": [
+    {
+      "id": "fda_20260818_considerations_for_the_regulation_of_generative_ai_enabled_m",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "Considerations for the Regulation of Generative AI-Enabled Medical Devices: Discussion Paper and Request for Feedback",
+        "zh": "Considerations for the Regulation of Generative AI-Enabled Medical Devices: Discussion Paper and Request for Feedback"
+      },
+      "summary": {
+        "en": "CDRH News",
+        "zh": "CDRH News"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/digital-health-center-excellence/considerations-regulation-generative-ai-enabled-medical-devices-discussion-paper-and-request",
+      "source_name": "FDA",
+      "published_date": "2026-08-18",
+      "detected_date": "2026-08-18T19:49:42Z",
+      "importance": "medium",
+      "tags": [],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260818_intraosseous_needle_set_recall_becton_dickinson_removes_cert",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "Intraosseous Needle Set Recall: Becton Dickinson Removes Certain Intraosseous Vascular Access System Needle Sets",
+        "zh": "Intraosseous Needle Set Recall: Becton Dickinson Removes Certain Intraosseous Vascular Access System Needle Sets"
+      },
+      "summary": {
+        "en": "CDRH News",
+        "zh": "CDRH News"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/intraosseous-needle-set-recall-becton-dickinson-removes-certain-intraosseous-vascular-access-system",
+      "source_name": "FDA",
+      "published_date": "2026-08-18",
+      "detected_date": "2026-08-18T19:50:14Z",
+      "importance": "medium",
+      "tags": [],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260818_fda_announces_baxter_duo_vent_intravascular_administration_s",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "FDA Announces Baxter Duo-Vent Intravascular Administration Set Recall",
+        "zh": "FDA宣布Baxter召回Duo-Vent血管内输液套件"
+      },
+      "summary": {
+        "en": "FDA issued a recall notice for Baxter Duo-Vent Solution Sets used in intravascular administration. Health care providers should immediately identify and quarantine affected lots, stop using the devices, and follow Baxter's return or disposal instructions. Patients who may have been exposed should be monitored, and adverse events should be reported to FDA.",
+        "zh": "FDA发布Baxter Duo-Vent溶液输注套件召回通知，该产品用于血管内输液。医疗机构和医护人员应立即识别并隔离受影响批次，停止使用，并按Baxter的要求进行退货或处置。可能使用过受影响器械的患者应接受监测，不良事件应向FDA报告。"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/intravascular-administration-set-recall-baxter-removes-duo-vent-solution-sets",
+      "source_name": "FDA",
+      "published_date": "2026-08-18",
+      "detected_date": "2026-08-18T19:50:40Z",
+      "importance": "high",
+      "tags": [
+        "recall",
+        "intravascular_administration_set",
+        "baxter",
+        "safety_alert"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260818_convenience_kit_correction_medline_issues_correction_for_con",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "Convenience Kit Correction: Medline Issues Correction for Convenience Kits Containing ICU Medical Pain Management Compon",
+        "zh": "Convenience Kit Correction: Medline Issues Correction for Convenience Kits Containing ICU Medical Pain Management Compon"
+      },
+      "summary": {
+        "en": "CDRH News",
+        "zh": "CDRH News"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-medline-issues-correction-convenience-kits-containing-icu-medical-pain",
+      "source_name": "FDA",
+      "published_date": "2026-08-18",
+      "detected_date": "2026-08-18T19:51:12Z",
+      "importance": "medium",
+      "tags": [],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260818_class_i_recall_avid_medical_halyard_kits_with_recalled_medli",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: AVID Medical Halyard Kits with Recalled Medline Namic Angiographic Star Off Manifolds",
+        "zh": "一级召回：AVID Medical含召回Medline Namic血管造影歧管的Halyard套件"
+      },
+      "summary": {
+        "en": "AVID Medical, Inc. is recalling 5,168 Halyard convenience kits because they contain Medline Namic Angiographic Star Off Handle Manifolds that were recalled due to particulates in the fluid path. Particulate contamination in the angiographic manifold fluid path may present a serious risk of embolic or vascular events if used. Users should immediately locate, quarantine, and stop using affected kits, and follow recall instructions from AVID Medical or Medline.",
+        "zh": "AVID Medical, Inc.正在召回5,168套Halyard便利套件，因其中所含Medline Namic血管造影星型旋塞歧管因流路中存在颗粒物被制造商召回。若使用受污染套件，颗粒物可能引起栓塞或血管事件等严重健康危害。相关机构应立即停用、隔离受影响套件，并按AVID Medical或Medline的召回通知处理。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2797-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-08-12",
+      "detected_date": "2026-08-18T19:48:11Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "particulate_contamination",
+        "angiographic_manifold"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260818_class_i_recall_boston_scientific_infinion_cx_lead_kit_sc_231",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Boston Scientific INFINION CX Lead Kit (SC-2317-50) – Lead Fracture Risk",
+        "zh": "波士顿科学INFINION CX电极套件（SC-2317-50）I级召回：断裂风险"
+      },
+      "summary": {
+        "en": "FDA has posted Class I recall #Z-2879-2026 for Boston Scientific Neuromodulation Corporation’s INFINION CX Lead Kit, 50 cm (Model SC-2317-50, Material M365SC2317500). The recall covers 1,079 units because stress at the anchor site may cause high impedance or lead fractures, potentially leading to inadequate spinal cord stimulation or additional intervention. Facilities and users should identify and quarantine affected leads and follow Boston Scientific’s recall instructions for return or replacement.",
+        "zh": "FDA已发布波士顿科学神经调控公司INFINION CX 50cm电极套件（型号SC-2317-50，物料M365SC2317500）的I级召回，编号Z-2879-2026。此次召回涉及1,079件产品，原因是锚定部位应力可能导致高阻抗或电极断裂，进而引起刺激不足或需额外手术。相关机构和用户应立即识别并隔离受影响产品，并按波士顿科学召回通知进行退回或更换。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2879-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-08-12",
+      "detected_date": "2026-08-18T19:48:54Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "spinal_cord_stimulation",
+        "lead_fracture"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260818_class_i_recall_z_2798_2026_avid_medical_halyard_kits_with_re",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall Z-2798-2026: AVID Medical Halyard Kits with Recalled Medline Namic Angiographic Manifolds",
+        "zh": "I级召回Z-2798-2026：AVID Medical Halyard套件含召回Medline Namic血管造影歧管"
+      },
+      "summary": {
+        "en": "AVID Medical, Inc. is recalling 5,168 Halyard convenience kits because they contain Medline Namic Angiographic Star Off Handle Manifolds recalled due to particulates in the fluid path. This is a Class I recall, indicating a reasonable probability of serious adverse health consequences or death. Affected users should quarantine the kits and follow AVID Medical/Medline recall instructions for return or replacement.",
+        "zh": "AVID Medical, Inc. 正在召回5,168套Halyard便利套件，因其中含有的Medline Namic血管造影Star Off手柄歧管因流体通路中存在颗粒物被制造商召回。该召回为I级，存在导致严重健康损害或死亡的合理风险。相关用户应隔离受影响套件，并按照AVID Medical/Medline的召回通知进行退货或更换。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2798-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-08-12",
+      "detected_date": "2026-08-18T19:49:11Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "particulate_contamination",
+        "angiographic_manifold",
+        "convenience_kits"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
     {
       "id": "fda_20260811_hamilton_medical_recalls_breathing_circuit_set_fda_announces",
       "framework": "fda",
@@ -191,6 +356,33 @@
       "status": "published"
     },
     {
+      "id": "fda_20260818_recall_z_2872_2026_bard_bd_needle_kits_for_powered_driver_15",
+      "framework": "fda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Recall Z-2872-2026: Bard BD Needle Kits for Powered Driver (15mm/25mm, 15Ga) Obturator Locking Issue",
+        "zh": "Bard BD 电动驱动针套件（15/25mm 15Ga）因闭孔器锁定召回"
+      },
+      "summary": {
+        "en": "FDA posted recall Z-2872-2026 affecting Bard Access Systems BD Needle Kits for Powered Driver, specifically 15mm x 15Ga (REF D015151NK) and 25mm x 15Ga (REF D01525). These intraosseous needle sets may have an obturator that locks after placement, making it difficult or impossible to remove during emergent or urgent vascular access. Healthcare providers should identify and quarantine affected lots and follow Bard/BD recall instructions to avoid delays in critical IO access.",
+        "zh": "FDA发布召回Z-2872-2026，涉及Bard Access Systems的BD电动驱动针套件，具体为15mm x 15Ga（REF D015151NK）和25mm x 15Ga（REF D01525）。这些骨内针套件在置入后闭孔器可能锁定，导致在紧急或必要情况下难以或无法取出。医护人员应立即识别并隔离受影响批次，并遵循Bard/BD召回指示，以避免关键骨内通路延误。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=221651",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-30",
+      "detected_date": "2026-08-18T19:46:49Z",
+      "importance": "high",
+      "tags": [
+        "device_recall",
+        "intraosseous_access",
+        "obturator_locking",
+        "bard_access_systems",
+        "bd_needle_kit"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
       "id": "fda_20260804_class_i_recall_medline_total_knee_lf_procedure_kit_contains",
       "framework": "fda",
       "category": "recall_class1",
@@ -312,6 +504,58 @@
       "detected_date": "2026-08-11T20:05:04Z",
       "importance": "medium",
       "tags": [],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260818_recall_spectral_instruments_inc_lago_x_momentary_absence_of",
+      "framework": "fda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Recall: Spectral Instruments Inc Lago X - Momentary Absence of 'X-Ray On' Banner During Readiness Check",
+        "zh": "Spectral Instruments Inc Lago X设备召回：就绪检查期间“X-Ray On”横幅短暂缺失"
+      },
+      "summary": {
+        "en": "FDA has posted a recall (Z-2939-2026) for the Spectral Instruments Inc Lago X imaging device due to a momentary absence of the on-screen 'X-Ray On' banner during the run readiness check. This could prevent operators from being alerted that X-ray emission is active, potentially leading to unintended radiation exposure. Affected facilities should identify impacted Lago X units and follow the manufacturer's recall instructions, including any software updates or workflow mitigations.",
+        "zh": "FDA已发布Spectral Instruments Inc Lago X设备召回（Z-2939-2026），原因是在运行就绪检查期间，屏幕上的“X-Ray On”横幅会短暂缺失。该问题可能导致操作者无法及时得知X射线已开启，存在意外辐射暴露风险。相关机构应识别受影响的Lago X设备，并遵循制造商的召回指示，包括软件更新或操作流程缓解措施。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=222029",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-24",
+      "detected_date": "2026-08-18T19:47:05Z",
+      "importance": "high",
+      "tags": [
+        "fda_recall",
+        "x_ray_safety",
+        "radiation_exposure",
+        "medical_device_compliance",
+        "software_defect"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260818_fda_recall_spectral_instruments_inc_ami_htx_missing_on_scree",
+      "framework": "fda",
+      "category": "safety_communication",
+      "title": {
+        "en": "FDA Recall: Spectral Instruments Inc Ami HTX – Missing On-Screen \"X-Ray On\" Banner (Z-2940-2026)",
+        "zh": "FDA召回：Spectral Instruments Ami HTX 因“X-Ray On”提示瞬时缺失"
+      },
+      "summary": {
+        "en": "FDA has posted recall Z-2940-2026 for the Spectral Instruments Inc Ami HTX imaging system due to a momentary absence of the on-screen \"X-Ray On\" banner during the run readiness check. This may leave operators unaware that X-ray output is active, creating a potential radiation safety risk. Affected facilities should identify impacted units and follow the manufacturer's recall instructions promptly.",
+        "zh": "FDA已发布Spectral Instruments Inc Ami HTX成像系统的召回（编号Z-2940-2026），原因是运行就绪检查期间屏幕上的“X-Ray On”提示会瞬时消失。该问题可能导致操作者未意识到X射线已开启，带来辐射安全风险。相关机构应确认受影响设备，并按照制造商召回通知及时采取行动。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=222031",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-24",
+      "detected_date": "2026-08-18T19:47:21Z",
+      "importance": "high",
+      "tags": [
+        "fda_recall",
+        "radiation_safety",
+        "xray_imaging"
+      ],
       "related_docs": [],
       "status": "published"
     },
@@ -981,6 +1225,57 @@
         "cdrh",
         "medical_device",
         "regulatory_affairs"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260818_fda_recall_z_2954_2026_sdi_limited_dentsply_sirona_capsule_m",
+      "framework": "fda",
+      "category": "safety_communication",
+      "title": {
+        "en": "FDA Recall Z-2954-2026: SDI Limited - Dentsply Sirona Capsule Mixer Model 5546068 Electrical Discharge Risk",
+        "zh": "FDA召回Z-2954-2026：SDI Limited/Dentsply Sirona胶囊混合机型号5546068电气放电风险"
+      },
+      "summary": {
+        "en": "FDA posted recall Z-2954-2026 for the SDI Limited - Dentsply Sirona Capsule Mixer, Model No. 5546068, due to potential electrical discharge from the unit when unplugged. This dental device may pose an electrical shock hazard to users. Affected facilities should identify and remove the device from use and follow the manufacturer's recall instructions.",
+        "zh": "FDA发布召回Z-2954-2026，涉及SDI Limited - Dentsply Sirona胶囊混合机型号5546068，原因是设备拔下电源时可能存在电气放电。该牙科设备可能对使用者造成电击风险。相关机构应识别并停用受影响设备，并遵循制造商的召回说明。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=221283",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-20",
+      "detected_date": "2026-08-18T19:47:39Z",
+      "importance": "high",
+      "tags": [
+        "device_recall",
+        "electrical_safety",
+        "dental_device"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260818_paragonix_kidneyvault_portable_renal_perfusion_system_recall",
+      "framework": "fda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Paragonix KidneyVault Portable Renal Perfusion System Recall Z-2967-2026: Firmware Defect Causes Blank Screen",
+        "zh": "Paragonix KidneyVault便携式肾脏灌注系统召回：固件缺陷致屏幕空白"
+      },
+      "summary": {
+        "en": "FDA has posted a recall for the Paragonix Technologies Inc. KidneyVault Portable Renal Perfusion System, REF PRGNX-8008-001, under recall Z-2967-2026. A firmware defect in the datalogger may cause it to lose its configuration, resulting in a blank screen and loss of displayed preservation parameters. This can prevent transplant teams from monitoring critical organ preservation data during transport. Affected facilities should identify and quarantine affected units, contact Paragonix Technologies, and follow the recall instructions.",
+        "zh": "FDA已发布Paragonix Technologies Inc. KidneyVault便携式肾脏灌注系统（REF PRGNX-8008-001）召回，编号为Z-2967-2026。该设备数据记录仪因固件缺陷可能丢失配置，导致屏幕空白并无法显示保存参数。这可能使移植团队在运输过程中无法监测关键的器官保存数据。受影响机构应识别并隔离相关设备，联系Paragonix Technologies并按召回通知处理。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=221632",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-07-20",
+      "detected_date": "2026-08-18T19:47:55Z",
+      "importance": "high",
+      "tags": [
+        "device_recall",
+        "firmware_defect",
+        "organ_preservation",
+        "fda_safety_communication"
       ],
       "related_docs": [],
       "status": "published"
