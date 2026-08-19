@@ -48,6 +48,16 @@ CDRH News
 
 ---
 
+### [Class II] ツインキュア (歯科技工用重合装置) - デンケン・ハイデンタル株式会社
+
+**2026-08-18** | Japan PMDA | 安全通报 | !! MEDIUM
+
+Recall #2-12926: 歯科技工用重合装置 / ツインキュア by デンケン・ハイデンタル株式会社. Type: 医療機器.
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12926)
+
+---
+
 ### MHRA患者安全警报：ResMed Astral 100/150呼吸机存在通气意外中断风险
 
 **2026-08-17** | UK MHRA | 安全通报 | !!! HIGH

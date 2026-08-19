@@ -1,7 +1,28 @@
 {
   "framework": "japan_pmda",
-  "last_updated": "2026-08-05T20:26:18Z",
+  "last_updated": "2026-08-19T19:27:08Z",
   "items": [
+    {
+      "id": "japan_pmda_20260819_class_ii",
+      "framework": "japan_pmda",
+      "category": "safety_communication",
+      "title": {
+        "en": "[Class II] ツインキュア (歯科技工用重合装置) - デンケン・ハイデンタル株式会社",
+        "zh": "[Class II] ツインキュア (歯科技工用重合装置) - デンケン・ハイデンタル株式会社"
+      },
+      "summary": {
+        "en": "Recall #2-12926: 歯科技工用重合装置 / ツインキュア by デンケン・ハイデンタル株式会社. Type: 医療機器.",
+        "zh": "Recall #2-12926: 歯科技工用重合装置 / ツインキュア by デンケン・ハイデンタル株式会社. Type: 医療機器."
+      },
+      "source_url": "https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12926",
+      "source_name": "PMDA (Japan)",
+      "published_date": "2026-08-18",
+      "detected_date": "2026-08-19T19:27:08Z",
+      "importance": "medium",
+      "tags": [],
+      "related_docs": [],
+      "status": "published"
+    },
     {
       "id": "japan_pmda_20260805_class_ii_recall_daiichi_ika_s_stella_fu_ste_ent_treatment_un",
       "framework": "japan_pmda",

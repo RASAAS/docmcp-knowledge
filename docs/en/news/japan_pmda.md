@@ -6,6 +6,16 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### [Class II] ツインキュア (歯科技工用重合装置) - デンケン・ハイデンタル株式会社
+
+**2026-08-18** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Recall #2-12926: 歯科技工用重合装置 / ツインキュア by デンケン・ハイデンタル株式会社. Type: 医療機器.
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12926)
+
+---
+
 ### Class II Recall: Daiichi Ika's Stella FU-STE ENT Treatment Unit (Recall #2-12921)
 
 **2026-08-05** | Japan PMDA | Safety Communication | !! MEDIUM
