@@ -1,7 +1,303 @@
 {
   "framework": "switzerland",
-  "last_updated": "2026-08-14T19:47:40Z",
+  "last_updated": "2026-08-21T19:24:55Z",
   "items": [
+    {
+      "id": "switzerland_20260821_stryker_endoscopy_strykeflow_ps_surgical_irrigation_aspirati",
+      "framework": "switzerland",
+      "category": "safety_communication",
+      "title": {
+        "en": "Stryker Endoscopy StrykeFlow PS Surgical Irrigation/Aspiration Pump – Swissmedic FSCA (Models 0250070540, 0250070530)",
+        "zh": "Stryker StrykeFlow PS冲洗/抽吸泵瑞士Swissmedic FSCA（型号0250070540/0250070530）"
+      },
+      "summary": {
+        "en": "Swissmedic has published a field safety corrective action (FSCA) for the Stryker Endoscopy StrykeFlow PS surgical irrigation/aspiration system pump. The notice affects model numbers 0250070540 and 0250070530. The specific reason is not detailed in the alert metadata; affected users should consult the Swissmedic notice or Stryker for required risk-mitigation actions.",
+        "zh": "Swissmedic 已发布 Stryker Endoscopy 的 StrykeFlow PS 手术冲洗/抽吸系统泵现场安全纠正措施（FSCA）。涉及型号为 0250070540 和 0250070530。通知元数据中未给出具体纠正原因，相关医疗机构应查阅 Swissmedic 通知或联系 Stryker 获取风险控制措施。"
+      },
+      "source_url": "https://fsca.swissmedic.ch/mep/#?q=Vk_20260811_034",
+      "source_name": "Swissmedic",
+      "published_date": "2026-08-21",
+      "detected_date": "2026-08-21T19:20:26Z",
+      "importance": "medium",
+      "tags": [
+        "swissmedic_fsca",
+        "stryker_endoscopy",
+        "surgical_irrigation_pump"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "switzerland_20260821_stryker_ahto_tube_set_stryker_endoscopy",
+      "framework": "switzerland",
+      "category": "safety_communication",
+      "title": {
+        "en": "Stryker AHTO Tube Set - Stryker Endoscopy",
+        "zh": "Stryker AHTO Tube Set - Stryker Endoscopy"
+      },
+      "summary": {
+        "en": "FSCA: MD: Surgical irrigation/aspiration tubing set. Reason: . Model: 0250070640, 0250070620, 0250070600.",
+        "zh": "FSCA: MD: Surgical irrigation/aspiration tubing set. Reason: . Model: 0250070640, 0250070620, 0250070600."
+      },
+      "source_url": "https://fsca.swissmedic.ch/mep/#?q=Vk_20260811_034",
+      "source_name": "Swissmedic",
+      "published_date": "2026-08-21",
+      "detected_date": "2026-08-21T19:20:57Z",
+      "importance": "medium",
+      "tags": [],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "switzerland_20260821_swissmedic_fsca_orbis_medication_3_x_by_dh_healthcare_gmbh",
+      "framework": "switzerland",
+      "category": "safety_communication",
+      "title": {
+        "en": "Swissmedic FSCA: ORBIS Medication 3.x by DH Healthcare GmbH",
+        "zh": "瑞士Swissmedic发布DH Healthcare GmbH ORBIS Medication 3.x现场安全纠正措施"
+      },
+      "summary": {
+        "en": "Swissmedic has published a Field Safety Corrective Action (FSCA) for ORBIS Medication 3.x, a general medicine instrument/software from DH Healthcare GmbH. The notice does not specify the reason for the corrective action or list affected model/lot details, but the title indicates ORBIS Medication 3.x versions are involved. Affected users and regulatory professionals should review the Swissmedic notice Vk_20260813_037 and contact DH Healthcare GmbH for confirmed affected versions and required actions.",
+        "zh": "Swissmedic 已发布针对 DH Healthcare GmbH 产品 ORBIS Medication 3.x 的现场安全纠正措施（FSCA），该产品归类为通用医疗器械/其他。公告未提供具体纠正原因及受影响型号/批次信息，但标题显示涉及 ORBIS Medication 3.x 版本。相关用户和监管人员应查阅 Swissmedic 通知（编号 Vk_20260813_037），并联系 DH Healthcare GmbH 获取确认的受影响版本和需采取的措施。"
+      },
+      "source_url": "https://fsca.swissmedic.ch/mep/#?q=Vk_20260813_037",
+      "source_name": "Swissmedic",
+      "published_date": "2026-08-20",
+      "detected_date": "2026-08-21T19:21:18Z",
+      "importance": "medium",
+      "tags": [
+        "swissmedic",
+        "fsca",
+        "medical_device_software",
+        "corrective_action"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "switzerland_20260821_swissmedic_fsca_bicoag_hemostasis_probe_by_gyrus_acmi_olympu",
+      "framework": "switzerland",
+      "category": "safety_communication",
+      "title": {
+        "en": "Swissmedic FSCA: BiCOAG Hemostasis Probe by Gyrus ACMI (Olympus Surgical Technologies America)",
+        "zh": "瑞士药监局FSCA：Gyrus ACMI BiCOAG止血探头"
+      },
+      "summary": {
+        "en": "Swissmedic has published a Field Safety Corrective Action (FSCA) for the Gyrus ACMI Inc. (Olympus Surgical Technologies America) BiCOAG Hemostasis Probe, an endoscopic bipolar electrosurgical electrode. The affected models are CD-B610LA, CD-B612LA, CD-B620LA, CD-B622LA and EGCD-B610LA, EGCD-B612LA, EGCD-B620LA, EGCD-B622LA. The reason for the corrective action is not specified in the alert metadata; users should review the official Swissmedic FSCA notice for the detailed risk and required actions. Importers, distributors, and healthcare facilities should identify affected devices and follow the manufacturer's field safety notice.",
+        "zh": "瑞士药品监督管理局（Swissmedic）发布了针对Gyrus ACMI Inc.（Olympus Surgical Technologies America）BiCOAG止血探头的现场安全纠正措施（FSCA），该产品为内窥镜双极电外科电极。受影响型号包括CD-B610LA、CD-B612LA、CD-B620LA、CD-B622LA以及EGCD-B610LA、EGCD-B612LA、EGCD-B620LA、EGCD-B622LA。公告元数据中未列明具体原因，相关方应查阅Swissmedic官方FSCA通知以获取详细风险和所需措施，并识别受影响设备、遵循制造商现场安全通知。"
+      },
+      "source_url": "https://fsca.swissmedic.ch/mep/#?q=Vk_20260814_027",
+      "source_name": "Swissmedic",
+      "published_date": "2026-08-19",
+      "detected_date": "2026-08-21T19:21:37Z",
+      "importance": "high",
+      "tags": [
+        "swissmedic",
+        "fsca",
+        "electrosurgery",
+        "medical_device"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "switzerland_20260821_swissmedic_fsca_philips_pic_ix_essentials_central_patient_mo",
+      "framework": "switzerland",
+      "category": "safety_communication",
+      "title": {
+        "en": "Swissmedic FSCA: Philips PIC iX Essentials Central Patient Monitor Model 867093",
+        "zh": "瑞士药监局FSCA：飞利浦PIC iX Essentials中央监护仪型号867093"
+      },
+      "summary": {
+        "en": "Swissmedic has published a Field Safety Corrective Action for the Philips Medizin Systeme Böblingen GmbH PIC iX Essentials centralized patient monitor, model 867093. The available notice does not specify the reason for the corrective action. Affected users should consult the official Swissmedic FSCA and follow the manufacturer's instructions.",
+        "zh": "瑞士药监局发布了一项针对飞利浦医疗系统伯布林根有限公司PIC iX Essentials中央监护仪（型号867093）的现场安全纠正措施。目前公告未说明具体纠正原因。相关用户应查阅瑞士药监局官方FSCA并遵循制造商指引。"
+      },
+      "source_url": "https://fsca.swissmedic.ch/mep/#?q=Vk_20260804_016",
+      "source_name": "Swissmedic",
+      "published_date": "2026-08-19",
+      "detected_date": "2026-08-21T19:21:54Z",
+      "importance": "medium",
+      "tags": [
+        "swissmedic",
+        "fsca",
+        "patient_monitor",
+        "philips"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "switzerland_20260821_patient_information_center_ix_philips_medizin_systeme_b_blin",
+      "framework": "switzerland",
+      "category": "safety_communication",
+      "title": {
+        "en": "Patient Information Center iX - Philips Medizin Systeme BÃ¶blingen GmbH",
+        "zh": "Patient Information Center iX - Philips Medizin Systeme BÃ¶blingen GmbH"
+      },
+      "summary": {
+        "en": "FSCA: MD: Centralized patient monitor. Reason: . Model: 866389.",
+        "zh": "FSCA: MD: Centralized patient monitor. Reason: . Model: 866389."
+      },
+      "source_url": "https://fsca.swissmedic.ch/mep/#?q=Vk_20260804_016",
+      "source_name": "Swissmedic",
+      "published_date": "2026-08-19",
+      "detected_date": "2026-08-21T19:22:25Z",
+      "importance": "medium",
+      "tags": [],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "switzerland_20260821_ipv_systems_percussionaire_corporation",
+      "framework": "switzerland",
+      "category": "safety_communication",
+      "title": {
+        "en": "IPV Systems - Percussionaire Corporation",
+        "zh": "IPV Systems - Percussionaire Corporation"
+      },
+      "summary": {
+        "en": "FSCA: MD: Respiratory and anaesthesia devices - other. Reason: . Model: S00065, S00002-C, S00003-C, S00055, S00010, S00009.",
+        "zh": "FSCA: MD: Respiratory and anaesthesia devices - other. Reason: . Model: S00065, S00002-C, S00003-C, S00055, S00010, S00009."
+      },
+      "source_url": "https://fsca.swissmedic.ch/mep/#?q=Vk_20260811_001",
+      "source_name": "Swissmedic",
+      "published_date": "2026-08-19",
+      "detected_date": "2026-08-21T19:22:56Z",
+      "importance": "medium",
+      "tags": [],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "switzerland_20260821_swissmedic_fsca_ge_portrait_core_services_medical_device_sof",
+      "framework": "switzerland",
+      "category": "safety_communication",
+      "title": {
+        "en": "Swissmedic FSCA: GE Portrait Core Services Medical Device Software File Version Correction",
+        "zh": "瑞士药监局FSCA：GE Portrait Core Services软件文件版本更正"
+      },
+      "summary": {
+        "en": "Swissmedic has published a Field Safety Corrective Action for Portrait Core Services, a medical device software associated with multi-parameter monitors, from GE Medical Systems Ultrasound and Primary Care Diagnostics, LLC. The corrective action is due to a file version correction. Affected model information is not specified in the notice. Users should review the Swissmedic FSCA and follow any manufacturer instructions for affected software versions.",
+        "zh": "瑞士药监局发布了一项针对GE Medical Systems Ultrasound and Primary Care Diagnostics, LLC的Portrait Core Services医疗器械软件的现场安全纠正措施，该软件与多参数监护仪相关。此次纠正原因为文件版本更正。通知中未列明受影响型号。用户应查阅该瑞士药监局FSCA，并遵循制造商对受影响软件版本的说明。"
+      },
+      "source_url": "https://fsca.swissmedic.ch/mep/#?q=Vk_20260812_035",
+      "source_name": "Swissmedic",
+      "published_date": "2026-08-18",
+      "detected_date": "2026-08-21T19:23:08Z",
+      "importance": "medium",
+      "tags": [
+        "swissmedic",
+        "fsca",
+        "medical_device_software",
+        "ge_healthcare",
+        "software_correction"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "switzerland_20260821_swissmedic_fsca_deepunity_pacsonweb_from_dh_healthcare_gmbh",
+      "framework": "switzerland",
+      "category": "safety_communication",
+      "title": {
+        "en": "Swissmedic FSCA: DeepUnity PACSonWEB from DH Healthcare GmbH",
+        "zh": "Swissmedic 发布 DH Healthcare DeepUnity PACSonWEB PACS 安全纠正措施"
+      },
+      "summary": {
+        "en": "Swissmedic has published a field safety corrective action (FSCA) for the DeepUnity PACSonWEB picture archiving and communication system (PACS) from DH Healthcare GmbH. The notice concerns PACS devices, but the specific reason and affected model/lot details are not provided in the alert summary and should be checked in the official Swissmedic entry. Healthcare facilities using this system should review the FSCA, contact the manufacturer, and implement any required corrective actions.",
+        "zh": "瑞士药监局（Swissmedic）发布了一项针对 DH Healthcare GmbH 公司 DeepUnity PACSonWEB 影像归档与通信系统（PACS）的现场安全纠正措施（FSCA）。该警示涉及 PACS 设备类别，但摘要中未列明具体原因及受影响型号/批次，需在瑞士药监局官方条目中核实。使用该系统的医疗机构应审查该 FSCA、联系制造商并采取相应的纠正措施。"
+      },
+      "source_url": "https://fsca.swissmedic.ch/mep/#?q=Vk_20260814_030",
+      "source_name": "Swissmedic",
+      "published_date": "2026-08-18",
+      "detected_date": "2026-08-21T19:23:32Z",
+      "importance": "medium",
+      "tags": [
+        "swissmedic",
+        "fsca",
+        "pacs",
+        "medical_device",
+        "field_safety_corrective_action"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "switzerland_20260821_swissmedic_fsca_for_heraeus_palacos_copal_bone_cements_model",
+      "framework": "switzerland",
+      "category": "safety_communication",
+      "title": {
+        "en": "Swissmedic FSCA for Heraeus PALACOS®/COPAL® Bone Cements (Models 5081273, 5081279–5081285)",
+        "zh": "瑞士药监局FSCA：Heraeus PALACOS/COPAL骨水泥（型号5081273等）"
+      },
+      "summary": {
+        "en": "Swissmedic has published a Field Safety Corrective Action (FSCA) for Heraeus Medical GmbH orthopaedic prosthesis cements and mixing accessories, covering PALACOS® R+G pro, PALACOS® MV+G pro, and COPAL® G+Cpro, with affected models 5081273 and 5081279–5081285. The FSCA reason and recommended actions are not detailed in the available alert metadata; regulatory affairs professionals should consult the official Swissmedic FSCA entry or Heraeus Medical for the full field safety notice. Users should identify the listed models in inventory and follow manufacturer instructions.",
+        "zh": "瑞士药监局（Swissmedic）发布了一项针对Heraeus Medical GmbH骨科假体骨水泥及混合配件的现场安全纠正措施（FSCA），涉及PALACOS® R+G pro、PALACOS® MV+G pro和COPAL® G+Cpro，受影响型号为5081273及5081279–5081285。现有警报信息中未说明具体纠正原因和建议措施；法规事务人员应查阅Swissmedic官方FSCA条目或联系Heraeus Medical获取完整现场安全通知。相关用户应核对库存中的受影响型号并遵循制造商指示。"
+      },
+      "source_url": "https://fsca.swissmedic.ch/mep/#?q=Vk_20260813_036",
+      "source_name": "Swissmedic",
+      "published_date": "2026-08-18",
+      "detected_date": "2026-08-21T19:24:00Z",
+      "importance": "high",
+      "tags": [
+        "swissmedic",
+        "fsca",
+        "orthopaedic_cement",
+        "medical_device",
+        "heraeus_medical"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "switzerland_20260821_smartbag_liquid_acid_concentrates_fresenius_medical_care_ag",
+      "framework": "switzerland",
+      "category": "safety_communication",
+      "title": {
+        "en": "Smartbag - Liquid Acid Concentrates - Fresenius Medical Care AG",
+        "zh": "Smartbag - Liquid Acid Concentrates - Fresenius Medical Care AG"
+      },
+      "summary": {
+        "en": "FSCA: MD: Dialysis concentrates, acid solutions, non-sterile. Reason: . Model: F00007046, F0002007D, F00006560, F00006557, F00007043.",
+        "zh": "FSCA: MD: Dialysis concentrates, acid solutions, non-sterile. Reason: . Model: F00007046, F0002007D, F00006560, F00006557, F00007043."
+      },
+      "source_url": "https://fsca.swissmedic.ch/mep/#?q=Vk_20260804_035",
+      "source_name": "Swissmedic",
+      "published_date": "2026-08-17",
+      "detected_date": "2026-08-21T19:24:31Z",
+      "importance": "medium",
+      "tags": [],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "switzerland_20260821_swissmedic_fsca_orthopure_xt_ligament_reconstruction_implant",
+      "framework": "switzerland",
+      "category": "safety_communication",
+      "title": {
+        "en": "Swissmedic FSCA: OrthoPure XT Ligament Reconstruction Implant – TRx Orthopaedics Limited",
+        "zh": "Swissmedic发布TRx OrthoPure XT韧带重建植入物FSCA"
+      },
+      "summary": {
+        "en": "Swissmedic has published a Field Safety Corrective Action (FSCA) for the OrthoPure XT Ligament Reconstruction Implant manufactured by TRx Orthopaedics Limited. The notice concerns ligament prostheses; the specific corrective reason and affected model/lot details are provided in the manufacturer’s Field Safety Notice (FSN). Healthcare facilities should review the FSN, identify affected inventory, and follow the manufacturer’s required actions such as quarantine or return.",
+        "zh": "Swissmedic已发布针对TRx Orthopaedics Limited生产的OrthoPure XT韧带重建植入物的现场安全纠正措施（FSCA）。该通知涉及韧带假体，具体纠正原因及受影响型号/批次详见制造商现场安全通知（FSN）。相关医疗机构应查阅FSN，识别受影响库存，并按制造商要求执行停用、隔离或退回等措施。"
+      },
+      "source_url": "https://fsca.swissmedic.ch/mep/#?q=Vk_20260807_024",
+      "source_name": "Swissmedic",
+      "published_date": "2026-08-17",
+      "detected_date": "2026-08-21T19:24:55Z",
+      "importance": "high",
+      "tags": [
+        "swissmedic",
+        "fsca",
+        "orthopedic_implant",
+        "ligament_reconstruction",
+        "trx_orthopaedics",
+        "medical_device_corrective_action"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
     {
       "id": "switzerland_20260814_iv_sets_or_administration_sets_icu_medical_inc",
       "framework": "switzerland",
@@ -2551,6 +2847,60 @@
         "swissmedic_fsca",
         "neonatal_cpap",
         "product_correction"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "switzerland_20260821_swissmedic_fsca_newport_ht70_ventilator_covidien_additional",
+      "framework": "switzerland",
+      "category": "safety_communication",
+      "title": {
+        "en": "Swissmedic FSCA: Newport HT70 Ventilator (Covidien) – Additional Devices Affected",
+        "zh": "瑞士Swissmedic FSCA：Covidien Newport HT70呼吸机更多设备受影响"
+      },
+      "summary": {
+        "en": "Swissmedic has published a Field Safety Corrective Action (FSCA) for the Newport HT70 neonatal/adult intensive-care ventilator manufactured by Covidien LLC. The notice indicates that additional devices beyond the originally communicated scope are affected; specific affected models are listed in the manufacturer's Field Safety Notice (FSN). Healthcare facilities should identify affected Newport HT70 ventilators in their inventory and follow the manufacturer's instructions in the FSN.",
+        "zh": "瑞士药品监督管理局（Swissmedic）发布了针对Covidien LLC生产的Newport HT70新生儿/成人重症监护呼吸机的现场安全纠正措施（FSCA）。通知指出，除原通报范围外，另有更多设备受到影响，具体受影响型号见生产企业的现场安全通告（FSN）。医疗机构应排查库存中受影响的Newport HT70呼吸机，并按照FSN中的制造商指示采取相应措施。"
+      },
+      "source_url": "https://fsca.swissmedic.ch/mep/#?q=Vk_20250521_26",
+      "source_name": "Swissmedic",
+      "published_date": "2025-05-21",
+      "detected_date": "2026-08-21T19:19:49Z",
+      "importance": "high",
+      "tags": [
+        "swissmedic",
+        "fsca",
+        "ventilator",
+        "covidien",
+        "newport_ht70",
+        "medical_device_safety"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "switzerland_20260821_swissmedic_fsca_newport_ht70_plus_ventilator_covidien_additi",
+      "framework": "switzerland",
+      "category": "safety_communication",
+      "title": {
+        "en": "Swissmedic FSCA: Newport HT70 Plus Ventilator (Covidien) – Additional Devices Affected",
+        "zh": "Swissmedic FSCA：Covidien Newport HT70 Plus呼吸机新增受影响设备"
+      },
+      "summary": {
+        "en": "Swissmedic has published a Field Safety Corrective Action (FSCA) for the Newport HT70 Plus neonatal/adult intensive-care ventilator manufactured by Covidien LLC. The FSCA indicates that additional devices are affected by an existing safety issue, with affected model details provided in the manufacturer's Field Safety Notice (FSN). Regulatory affairs professionals and healthcare facilities should consult the FSN, verify affected inventory, and implement the manufacturer's required corrective actions.",
+        "zh": "瑞士药监局（Swissmedic）发布了一项关于Covidien LLC生产的Newport HT70 Plus新生儿/成人重症监护呼吸机的现场安全纠正措施（FSCA）。该FSCA指出，现有安全问题涉及更多设备，受影响型号详见制造商现场安全通知（FSN）。相关法规事务人员和医疗机构应查阅FSN，核对受影响设备并执行制造商要求的纠正措施。"
+      },
+      "source_url": "https://fsca.swissmedic.ch/mep/#?q=Vk_20250521_26",
+      "source_name": "Swissmedic",
+      "published_date": "2025-05-21",
+      "detected_date": "2026-08-21T19:20:05Z",
+      "importance": "high",
+      "tags": [
+        "swissmedic",
+        "fsca",
+        "ventilator",
+        "field_safety_corrective_action"
       ],
       "related_docs": [],
       "status": "published"

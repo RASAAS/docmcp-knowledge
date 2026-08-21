@@ -36,6 +36,142 @@ title: 法规速递
 
 ## 最新动态
 
+### Stryker StrykeFlow PS冲洗/抽吸泵瑞士Swissmedic FSCA（型号0250070540/0250070530）
+
+**2026-08-21** | Swissmedic | 安全通报 | !! MEDIUM
+
+Swissmedic 已发布 Stryker Endoscopy 的 StrykeFlow PS 手术冲洗/抽吸系统泵现场安全纠正措施（FSCA）。涉及型号为 0250070540 和 0250070530。通知元数据中未给出具体纠正原因，相关医疗机构应查阅 Swissmedic 通知或联系 Stryker 获取风险控制措施。
+
+**标签**: `swissmedic_fsca`, `stryker_endoscopy`, `surgical_irrigation_pump`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260811_034)
+
+---
+
+### Stryker AHTO Tube Set - Stryker Endoscopy
+
+**2026-08-21** | Swissmedic | 安全通报 | !! MEDIUM
+
+FSCA: MD: Surgical irrigation/aspiration tubing set. Reason: . Model: 0250070640, 0250070620, 0250070600.
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260811_034)
+
+---
+
+### 瑞士Swissmedic发布DH Healthcare GmbH ORBIS Medication 3.x现场安全纠正措施
+
+**2026-08-20** | Swissmedic | 安全通报 | !! MEDIUM
+
+Swissmedic 已发布针对 DH Healthcare GmbH 产品 ORBIS Medication 3.x 的现场安全纠正措施（FSCA），该产品归类为通用医疗器械/其他。公告未提供具体纠正原因及受影响型号/批次信息，但标题显示涉及 ORBIS Medication 3.x 版本。相关用户和监管人员应查阅 Swissmedic 通知（编号 Vk_20260813_037），并联系 DH Healthcare GmbH 获取确认的受影响版本和需采取的措施。
+
+**标签**: `swissmedic`, `fsca`, `medical_device_software`, `corrective_action`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260813_037)
+
+---
+
+### 瑞士药监局FSCA：Gyrus ACMI BiCOAG止血探头
+
+**2026-08-19** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士药品监督管理局（Swissmedic）发布了针对Gyrus ACMI Inc.（Olympus Surgical Technologies America）BiCOAG止血探头的现场安全纠正措施（FSCA），该产品为内窥镜双极电外科电极。受影响型号包括CD-B610LA、CD-B612LA、CD-B620LA、CD-B622LA以及EGCD-B610LA、EGCD-B612LA、EGCD-B620LA、EGCD-B622LA。公告元数据中未列明具体原因，相关方应查阅Swissmedic官方FSCA通知以获取详细风险和所需措施，并识别受影响设备、遵循制造商现场安全通知。
+
+**标签**: `swissmedic`, `fsca`, `electrosurgery`, `medical_device`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260814_027)
+
+---
+
+### 瑞士药监局FSCA：飞利浦PIC iX Essentials中央监护仪型号867093
+
+**2026-08-19** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士药监局发布了一项针对飞利浦医疗系统伯布林根有限公司PIC iX Essentials中央监护仪（型号867093）的现场安全纠正措施。目前公告未说明具体纠正原因。相关用户应查阅瑞士药监局官方FSCA并遵循制造商指引。
+
+**标签**: `swissmedic`, `fsca`, `patient_monitor`, `philips`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260804_016)
+
+---
+
+### Patient Information Center iX - Philips Medizin Systeme BÃ¶blingen GmbH
+
+**2026-08-19** | Swissmedic | 安全通报 | !! MEDIUM
+
+FSCA: MD: Centralized patient monitor. Reason: . Model: 866389.
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260804_016)
+
+---
+
+### IPV Systems - Percussionaire Corporation
+
+**2026-08-19** | Swissmedic | 安全通报 | !! MEDIUM
+
+FSCA: MD: Respiratory and anaesthesia devices - other. Reason: . Model: S00065, S00002-C, S00003-C, S00055, S00010, S00009.
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260811_001)
+
+---
+
+### 瑞士药监局FSCA：GE Portrait Core Services软件文件版本更正
+
+**2026-08-18** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士药监局发布了一项针对GE Medical Systems Ultrasound and Primary Care Diagnostics, LLC的Portrait Core Services医疗器械软件的现场安全纠正措施，该软件与多参数监护仪相关。此次纠正原因为文件版本更正。通知中未列明受影响型号。用户应查阅该瑞士药监局FSCA，并遵循制造商对受影响软件版本的说明。
+
+**标签**: `swissmedic`, `fsca`, `medical_device_software`, `ge_healthcare`, `software_correction`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260812_035)
+
+---
+
+### Swissmedic 发布 DH Healthcare DeepUnity PACSonWEB PACS 安全纠正措施
+
+**2026-08-18** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士药监局（Swissmedic）发布了一项针对 DH Healthcare GmbH 公司 DeepUnity PACSonWEB 影像归档与通信系统（PACS）的现场安全纠正措施（FSCA）。该警示涉及 PACS 设备类别，但摘要中未列明具体原因及受影响型号/批次，需在瑞士药监局官方条目中核实。使用该系统的医疗机构应审查该 FSCA、联系制造商并采取相应的纠正措施。
+
+**标签**: `swissmedic`, `fsca`, `pacs`, `medical_device`, `field_safety_corrective_action`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260814_030)
+
+---
+
+### 瑞士药监局FSCA：Heraeus PALACOS/COPAL骨水泥（型号5081273等）
+
+**2026-08-18** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士药监局（Swissmedic）发布了一项针对Heraeus Medical GmbH骨科假体骨水泥及混合配件的现场安全纠正措施（FSCA），涉及PALACOS® R+G pro、PALACOS® MV+G pro和COPAL® G+Cpro，受影响型号为5081273及5081279–5081285。现有警报信息中未说明具体纠正原因和建议措施；法规事务人员应查阅Swissmedic官方FSCA条目或联系Heraeus Medical获取完整现场安全通知。相关用户应核对库存中的受影响型号并遵循制造商指示。
+
+**标签**: `swissmedic`, `fsca`, `orthopaedic_cement`, `medical_device`, `heraeus_medical`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260813_036)
+
+---
+
+### Smartbag - Liquid Acid Concentrates - Fresenius Medical Care AG
+
+**2026-08-17** | Swissmedic | 安全通报 | !! MEDIUM
+
+FSCA: MD: Dialysis concentrates, acid solutions, non-sterile. Reason: . Model: F00007046, F0002007D, F00006560, F00006557, F00007043.
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260804_035)
+
+---
+
+### Swissmedic发布TRx OrthoPure XT韧带重建植入物FSCA
+
+**2026-08-17** | Swissmedic | 安全通报 | !!! HIGH
+
+Swissmedic已发布针对TRx Orthopaedics Limited生产的OrthoPure XT韧带重建植入物的现场安全纠正措施（FSCA）。该通知涉及韧带假体，具体纠正原因及受影响型号/批次详见制造商现场安全通知（FSN）。相关医疗机构应查阅FSN，识别受影响库存，并按制造商要求执行停用、隔离或退回等措施。
+
+**标签**: `swissmedic`, `fsca`, `orthopedic_implant`, `ligament_reconstruction`, `trx_orthopaedics`, `medical_device_corrective_action`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260807_024)
+
+---
+
 ### IV Sets or Administration Sets - ICU Medical, Inc.
 
 **2026-08-13** | Swissmedic | 安全通报 | !! MEDIUM
@@ -1167,5 +1303,29 @@ Zimmer Surgical, Inc. 针对 Zimmer 止血带系统型号 60500010100 和 603200
 **标签**: `swissmedic_fsca`, `neonatal_cpap`, `product_correction`
 
 [查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20250807_02)
+
+---
+
+### 瑞士Swissmedic FSCA：Covidien Newport HT70呼吸机更多设备受影响
+
+**2025-05-21** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士药品监督管理局（Swissmedic）发布了针对Covidien LLC生产的Newport HT70新生儿/成人重症监护呼吸机的现场安全纠正措施（FSCA）。通知指出，除原通报范围外，另有更多设备受到影响，具体受影响型号见生产企业的现场安全通告（FSN）。医疗机构应排查库存中受影响的Newport HT70呼吸机，并按照FSN中的制造商指示采取相应措施。
+
+**标签**: `swissmedic`, `fsca`, `ventilator`, `covidien`, `newport_ht70`, `medical_device_safety`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20250521_26)
+
+---
+
+### Swissmedic FSCA：Covidien Newport HT70 Plus呼吸机新增受影响设备
+
+**2025-05-21** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士药监局（Swissmedic）发布了一项关于Covidien LLC生产的Newport HT70 Plus新生儿/成人重症监护呼吸机的现场安全纠正措施（FSCA）。该FSCA指出，现有安全问题涉及更多设备，受影响型号详见制造商现场安全通知（FSN）。相关法规事务人员和医疗机构应查阅FSN，核对受影响设备并执行制造商要求的纠正措施。
+
+**标签**: `swissmedic`, `fsca`, `ventilator`, `field_safety_corrective_action`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20250521_26)
 
 ---
