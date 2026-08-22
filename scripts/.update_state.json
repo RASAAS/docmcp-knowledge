@@ -1416,7 +1416,7 @@
   },
   "newzealand_medsafe/safety_comms": {
     "url": "https://medsafe.govt.nz/safety/SafetyCommunications.asp",
-    "last_checked": "2026-08-08T19:22:06.251282",
+    "last_checked": "2026-08-22T19:16:11.577734",
     "seen_ids": [
       "[Alert] Stop using Euky Bear \r\n\t\t\t\tWarm Steam Vaporiser â model number EBSV2013",
       "[Alert] Product \r\n\t\t\t\tAlert of Dexcom US G7 Sensors: Lots 1725204004 and 1725069002"
@@ -1456,10 +1456,11 @@
   },
   "argentina_anmat/safety_alerts": {
     "url": "https://www.argentina.gob.ar/anmat/alertas",
-    "last_checked": "2026-08-15T19:14:38.565094",
+    "last_checked": "2026-08-22T19:16:07.838229",
     "seen_titles": [
+      "10 de agosto de 2026ANMAT prohíbe una unidad del producto médico DERMATOSCOPIO marca FotoFinder",
       "30 de junio de 2026ANMAT prohíbe un lote de un producto médico falsificado de la firma LINEDERM",
-      "10 de agosto de 2026ANMAT prohíbe una unidad del producto médico DERMATOSCOPIO marca FotoFinder"
+      "20 de agosto de 2026ANMAT prohíbe un equipo médico de la marca ALMA LASERS SOPRANO ICE"
     ]
   },
   "taiwan_tfda/safety_alerts": {
