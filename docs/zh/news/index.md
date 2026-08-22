@@ -40,6 +40,18 @@ Swissmedic 已发布针对 DH Healthcare GmbH 产品 ORBIS Medication 3.x 的现
 
 ---
 
+### ANMAT禁止Alma Lasers Soprano ICE医疗设备（2026年8月20日）
+
+**2026-08-20** | Argentina ANMAT | 安全通报 | !!! HIGH
+
+2026年8月20日，阿根廷国家药品、食品和医疗器械管理局（ANMAT）发布警报，禁止使用Alma Lasers公司生产的SOPRANO ICE医疗器械。受影响产品为该SOPRANO ICE设备，警告中未提供具体批次，但禁令表明存在严重安全或注册问题。相关医疗机构、经销商和用户应立即停止使用、销售和流通，并向ANMAT核实注册状态。
+
+**标签**: `anmat`, `medical_device_ban`, `alma_lasers_soprano_ice`
+
+[查看来源 (Official Source)](https://www.argentina.gob.ar/noticias/anmat-prohibe-un-equipo-medico-de-la-marca-alma-lasers-soprano-ice)
+
+---
+
 ### 瑞士药监局FSCA：Gyrus ACMI BiCOAG止血探头
 
 **2026-08-19** | Swissmedic | 安全通报 | !!! HIGH

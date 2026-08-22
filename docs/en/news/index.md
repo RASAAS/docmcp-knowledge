@@ -40,6 +40,18 @@ Swissmedic has published a Field Safety Corrective Action (FSCA) for ORBIS Medic
 
 ---
 
+### ANMAT Bans Alma Lasers Soprano ICE Medical Device (Aug 20, 2026)
+
+**2026-08-20** | Argentina ANMAT | Safety Communication | !!! HIGH
+
+On 20 August 2026, Argentina's ANMAT issued an alert prohibiting the medical device 'Alma Lasers Soprano ICE' (manufacturer: Alma Lasers). The affected product is the Soprano ICE equipment; specific lots are not provided in the alert, but the ban indicates serious safety or regulatory concerns. Healthcare facilities, distributors, and users should immediately stop use, sale, and distribution, and verify registration status with ANMAT.
+
+**Tags**: `anmat`, `medical_device_ban`, `alma_lasers_soprano_ice`
+
+[View Source (Official Source)](https://www.argentina.gob.ar/noticias/anmat-prohibe-un-equipo-medico-de-la-marca-alma-lasers-soprano-ice)
+
+---
+
 ### Swissmedic FSCA: BiCOAG Hemostasis Probe by Gyrus ACMI (Olympus Surgical Technologies America)
 
 **2026-08-19** | Swissmedic | Safety Communication | !!! HIGH

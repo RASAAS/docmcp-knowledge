@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "argentina_anmat_20260822_anmat_bans_alma_lasers_soprano_ice_medical_device_aug_20_202",
+      "framework": "argentina_anmat",
+      "category": "safety_communication",
+      "title": {
+        "en": "ANMAT Bans Alma Lasers Soprano ICE Medical Device (Aug 20, 2026)",
+        "zh": "ANMAT禁止Alma Lasers Soprano ICE医疗设备（2026年8月20日）"
+      },
+      "summary": {
+        "en": "On 20 August 2026, Argentina's ANMAT issued an alert prohibiting the medical device 'Alma Lasers Soprano ICE' (manufacturer: Alma Lasers). The affected product is the Soprano ICE equipment; specific lots are not provided in the alert, but the ban indicates serious safety or regulatory concerns. Healthcare facilities, distributors, and users should immediately stop use, sale, and distribution, and verify registration status with ANMAT.",
+        "zh": "2026年8月20日，阿根廷国家药品、食品和医疗器械管理局（ANMAT）发布警报，禁止使用Alma Lasers公司生产的SOPRANO ICE医疗器械。受影响产品为该SOPRANO ICE设备，警告中未提供具体批次，但禁令表明存在严重安全或注册问题。相关医疗机构、经销商和用户应立即停止使用、销售和流通，并向ANMAT核实注册状态。"
+      },
+      "source_url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-un-equipo-medico-de-la-marca-alma-lasers-soprano-ice",
+      "source_name": "Official Source",
+      "published_date": "2026-08-20",
+      "detected_date": "2026-08-22T19:17:04Z",
+      "importance": "high",
+      "tags": [
+        "anmat",
+        "medical_device_ban",
+        "alma_lasers_soprano_ice"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
       "id": "argentina_anmat_20260815_anmat_prohibits_one_unit_of_fotofinder_dermatoscope_aug_10_2",
       "framework": "argentina_anmat",
       "category": "safety_communication",
@@ -27,5 +52,5 @@
       "status": "published"
     }
   ],
-  "last_updated": "2026-08-15T19:15:11Z"
+  "last_updated": "2026-08-22T19:17:04Z"
 }
