@@ -6,6 +6,112 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### NGPod pH Testing Device Withdrawn: Quarantine and Dispose of All Devices (DSI/2026/009)
+
+**2026-08-24** | UK MHRA | Safety Communication | !!! HIGH
+
+The UK MHRA has issued an alert for the NGPod handheld pH testing device and NGPod sensor, used to aid nasogastric tube placement. The manufacturer has ceased trading in the UK, and the products are being withdrawn from the market. Healthcare providers and users should immediately quarantine all remaining devices and sensors and arrange disposal according to local procedures.
+
+**Tags**: `mhra_alert`, `ngpod`, `nasogastric_tube`, `ph_testing`, `market_withdrawal`, `quarantine`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/ngpod-ph-testing-device-quarantine-and-dispose-of-all-devices-dsi-slash-2026-slash-009)
+
+---
+
+### UK MHRA Field Safety Notices: 17 to 21 August 2026
+
+**2026-08-24** | UK MHRA | Safety Communication | !!! HIGH
+
+The UK MHRA has published its weekly list of Field Safety Notices (FSNs) issued between 17 and 21 August 2026. This item summarises safety alerts for medical devices that may require action by healthcare providers, manufacturers, or users. Affected parties should review the listed FSNs and implement any recommended corrective actions promptly.
+
+**Tags**: `field_safety_notice`, `mhra`, `medical_device_safety`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-17-to-21-august-2026)
+
+---
+
+### MHRA Field Safety Notices: 17 to 21 August 2026
+
+**2026-08-24** | UK MHRA | Regulation Update | !! MEDIUM
+
+This item lists Field Safety Notices published by the UK MHRA from 17 to 21 August 2026. It is relevant to manufacturers, importers, distributors, healthcare providers, and patients affected by medical device or drug safety issues identified during that week. Regulatory affairs professionals should review each listed field safety notice and implement the required corrective or preventive actions described. The page serves as the official source for tracking and complying with these MHRA safety communications.
+
+**Tags**: `field_safety_notices`, `mhra`, `medical_device_safety`, `regulatory_compliance`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-17-to-21-august-2026)
+
+---
+
+### MHRA Updates Exceptional Use Authorisation List for Medical Devices
+
+**2026-08-24** | UK MHRA | Regulation Update | !! MEDIUM
+
+The MHRA has published an updated list of manufacturers and medical devices granted exceptional use authorisations, including exemptions that have expired or been cancelled. Manufacturers and regulatory affairs professionals should review the list to confirm the current status of affected devices. Stakeholders need to monitor these changes to maintain compliance.
+
+**Tags**: `mhra`, `exceptional_use_authorisation`, `medical_devices`
+
+[View Source (MHRA (UK))](https://www.gov.uk/government/publications/medical-devices-given-exceptional-use-authorisations)
+
+---
+
+### MHRA Publishes Guidance on Pharmacovigilance Procedures
+
+**2026-08-21** | UK MHRA | Regulation Update | !! MEDIUM
+
+The UK MHRA has published guidance summarising its approach to pharmacovigilance procedures. This guidance is relevant to marketing authorisation holders and pharmacovigilance professionals who must ensure adverse event reporting and safety monitoring comply with MHRA expectations. Stakeholders should review the guidance and align their pharmacovigilance systems and procedures accordingly.
+
+**Tags**: `pharmacovigilance`, `mhra_guidance`, `safety_monitoring`
+
+[View Source (MHRA (UK))](https://www.gov.uk/government/publications/guidance-on-pharmacovigilance-procedures)
+
+---
+
+### MHRA UK: Do Not Use Personal-Use Rectal Catheters (Gas/Colic Relievers) in Infants – DSI/2026/008
+
+**2026-08-20** | UK MHRA | Safety Communication | !!! HIGH
+
+The UK MHRA has issued a safety alert advising that rectal catheters sold for personal use as gas and colic relievers must not be used in infants. This applies to use for colic, gas-related discomfort, or constipation. Healthcare professionals and caregivers should stop using these products immediately and dispose of any unused devices.
+
+**Tags**: `rectal_catheters`, `infant_safety`, `mhra_safety_alert`, `medical_device_safety`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/all-rectal-catheters-gas-and-colic-relievers-do-not-use-in-infants-including-for-the-treatment-of-colic-gas-related-discomfort-or-constipation-dsi-slash-2026-slash-008)
+
+---
+
+### MHRA Field Safety Notices: 10 to 14 August 2026
+
+**2026-08-18** | UK MHRA | Safety Communication | !! MEDIUM
+
+This item compiles Field Safety Notices issued by the UK MHRA between 10 and 14 August 2026. It is relevant to healthcare providers, medical device manufacturers, and regulatory affairs teams who need to review the listed notices for affected devices or equipment. Key actions include identifying whether any listed notices apply to devices in use or supplied, and implementing the manufacturer or MHRA recommended corrective actions promptly.
+
+**Tags**: `field_safety_notice`, `mhra`, `medical_device_safety`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-10-to-14-august-2026)
+
+---
+
+### Field Safety Notices: 10 to 14 August 2026
+
+**2026-08-18** | UK MHRA | Regulation Update | !! MEDIUM
+
+List of Field Safety Notices from 10 to 14 August 2026.
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-10-to-14-august-2026)
+
+---
+
+### MHRA Field Safety Notices: 13–17 July 2026
+
+**2026-08-18** | UK MHRA | Regulation Update | !! MEDIUM
+
+The UK MHRA has published its weekly list of Field Safety Notices (FSNs) for 13–17 July 2026. It includes manufacturer-issued safety communications for medical devices and in vitro diagnostics distributed in the UK. Healthcare providers, device users, and suppliers should review the notices, identify affected products, and follow the recommended actions to mitigate risks.
+
+**Tags**: `field_safety_notices`, `mhra`, `medical_device_safety`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-13-to-17-july-2026)
+
+---
+
 ### MHRA National Patient Safety Alert: ResMed Astral 100/150 Ventilators Unexpected Ventilation Interruption
 
 **2026-08-17** | UK MHRA | Safety Communication | !!! HIGH

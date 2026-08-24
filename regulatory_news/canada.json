@@ -1,7 +1,284 @@
 {
   "framework": "canada",
-  "last_updated": "2026-08-17T19:33:16Z",
+  "last_updated": "2026-08-24T19:38:52Z",
   "items": [
+    {
+      "id": "canada_20260824_foresight_oximeter_cable",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "ForeSight™ Oximeter Cable",
+        "zh": "ForeSight™ Oximeter Cable"
+      },
+      "summary": {
+        "en": "Labelling and packaging",
+        "zh": "Labelling and packaging"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/foresighttm-oximeter-cable",
+      "source_name": "Health Canada",
+      "published_date": "2026-08-21",
+      "detected_date": "2026-08-24T19:35:26Z",
+      "importance": "medium",
+      "tags": [],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260824_health_canada_recall_beckman_coulter_iq200_series_and_dxu_84",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Recall: Beckman Coulter iQ200 Series and DxU 840m/850m Iris Analyzers Performance Issue",
+        "zh": "加拿大卫生部召回iQ200系列及DxU 840m/850m Iris分析仪"
+      },
+      "summary": {
+        "en": "Health Canada has issued a medical device recall/alert for Beckman Coulter iQ200 Series Analyzers and DxU 840m/850m Iris Analyzers due to a performance issue. Laboratories and healthcare facilities using these urine analysis systems may be affected. Users should review the recall notice, follow the manufacturer's recommendations, and verify instrument performance before continuing clinical use.",
+        "zh": "加拿大卫生部已针对Beckman Coulter的iQ200系列分析仪和DxU 840m/850m Iris分析仪发布医疗器械召回/警示，原因是性能问题。使用这些尿液分析系统的实验室和医疗机构可能受到影响。用户应查看召回通知，遵循制造商建议，并在继续临床使用前确认仪器性能。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/iq200-series-analyzers-and-dxu-840m850m-iris-analyzers",
+      "source_name": "Health Canada",
+      "published_date": "2026-08-21",
+      "detected_date": "2026-08-24T19:35:53Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "performance_issue",
+        "health_canada",
+        "laboratory_diagnostics"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260824_recall_ge_healthcare_aisys_cs_and_carestation_anesthesia_sys",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Recall: GE HealthCare Aisys™ CS² and Carestation™ anesthesia systems due to performance issue",
+        "zh": "GE HealthCare Aisys™ CS²与Carestation™麻醉系统因性能问题被召回"
+      },
+      "summary": {
+        "en": "Health Canada has issued a medical device recall alert for GE HealthCare Aisys™ CS² and Carestation™ anesthesia systems due to a performance issue. The alert affects healthcare facilities using these anesthesia machines. Affected users should identify impacted units, follow the manufacturer's corrective actions, and contact GE HealthCare for support.",
+        "zh": "加拿大卫生部发布了关于GE HealthCare Aisys™ CS²和Carestation™麻醉系统的医疗器械召回警报，原因为性能问题。受影响的是使用这些麻醉设备的医疗机构。相关用户应识别受影响设备，遵循制造商提供的纠正措施，并联系GE HealthCare获取支持。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/aisystm-cs2-and-carestationtm",
+      "source_name": "Health Canada",
+      "published_date": "2026-08-21",
+      "detected_date": "2026-08-24T19:36:09Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "anesthesia_systems",
+        "health_canada",
+        "performance_issue"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260824_health_canada_safety_alert_imris_table_ort_300_performance_i",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Safety Alert: IMRIS Table ORT 300 Performance Issue",
+        "zh": "加拿大卫生部发布IMRIS ORT 300手术台性能安全警报"
+      },
+      "summary": {
+        "en": "Health Canada has issued a medical device recall/alert for the IMRIS Table ORT 300 due to a performance issue. The alert affects healthcare facilities using this table, potentially impacting device function or procedural safety. Regulatory affairs professionals should review the recall notice and ensure affected units are identified, assessed, and addressed according to the manufacturer's corrective action.",
+        "zh": "加拿大卫生部已针对 IMRIS Table ORT 300 发布医疗器械召回/安全警报，原因是性能问题。该警报涉及使用该手术台的医疗机构，可能影响设备功能或操作安全。法规事务人员应查看召回通知，确保受影响设备得到识别、评估，并按制造商纠正措施处理。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/imris-table-ort-300",
+      "source_name": "Health Canada",
+      "published_date": "2026-08-20",
+      "detected_date": "2026-08-24T19:36:30Z",
+      "importance": "high",
+      "tags": [
+        "health_canada",
+        "medical_device_recall",
+        "performance_issue"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260824_health_canada_recall_alert_patient_information_centre_ix_per",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Recall/Alert: Patient Information Centre iX Performance Issue",
+        "zh": "加拿大卫生部警示：Patient Information Centre iX性能问题"
+      },
+      "summary": {
+        "en": "Health Canada has published a medical device recall/alert for the Patient Information Centre iX, citing a performance issue. Healthcare facilities using this patient monitoring/central station device should review the notice and follow the recommended corrective actions from Health Canada or the manufacturer. Affected users may need to contact the manufacturer for configuration changes or other corrective measures.",
+        "zh": "加拿大卫生部发布了针对Patient Information Centre iX的医疗器械召回/警示，涉及性能问题。使用该患者监护/中央站设备的医疗机构应查阅相关通知，并遵循加拿大卫生部或制造商建议的纠正措施。受影响用户可能需要联系制造商进行配置调整或其他纠正处理。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/patient-information-centre-ix",
+      "source_name": "Health Canada",
+      "published_date": "2026-08-20",
+      "detected_date": "2026-08-24T19:36:50Z",
+      "importance": "high",
+      "tags": [
+        "health_canada",
+        "medical_device_recall",
+        "patient_monitoring",
+        "performance_issue"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260824_health_canada_recall_alert_theragun_pro_device_performance_i",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Recall/Alert: Theragun PRO Device Performance Issue",
+        "zh": "加拿大卫生部警示：Theragun PRO设备性能问题"
+      },
+      "summary": {
+        "en": "Health Canada has issued a medical device recall/alert for the Theragun PRO due to a performance issue. The notice affects users and distributors of the Theragun PRO in Canada. Affected parties should review the recall notice and follow the manufacturer's instructions, which may include stopping use or arranging for repair or replacement.",
+        "zh": "加拿大卫生部已针对 Theragun PRO 发布医疗器械召回/警示，原因是性能问题。该警示涉及加拿大的 Theragun PRO 用户和经销商。相关方应查阅召回通知并遵循制造商指示，可能包括停用或安排维修或更换。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/theragun-pro",
+      "source_name": "Health Canada",
+      "published_date": "2026-08-20",
+      "detected_date": "2026-08-24T19:37:16Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "performance_issue",
+        "health_canada",
+        "theragun_pro"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260824_health_canada_issues_recall_for_centricity_enterprise_archiv",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Issues Recall for Centricity™ Enterprise Archive and PACS Workstation Over Performance Issue",
+        "zh": "加拿大卫生部就Centricity™ Enterprise Archive与PACS工作站性能问题发布召回"
+      },
+      "summary": {
+        "en": "Health Canada has published a medical device recall/alert for the Centricity™ Enterprise Archive and PACS Workstation due to a performance issue. This affects healthcare facilities and users relying on these GE imaging archive and workstation products in Canada. Regulatory affairs and clinical engineering teams should review the alert, identify affected systems, and contact the manufacturer or Health Canada for remediation steps.",
+        "zh": "加拿大卫生部已就Centricity™ Enterprise Archive与PACS工作站发布医疗器械召回/警报，原因为性能问题。该问题影响加拿大使用相关GE影像归档和工作站产品的医疗机构和用户。法规事务和临床工程团队应查阅警报、识别受影响系统，并联系制造商或加拿大卫生部获取整改措施。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/centricitytm-enterprise-archive-and-pacs-workstation",
+      "source_name": "Health Canada",
+      "published_date": "2026-08-20",
+      "detected_date": "2026-08-24T19:37:34Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "pacs",
+        "ge_healthcare"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260824_health_canada_recalls_statstrip_glucose_and_beta_ketone_hosp",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Recalls StatStrip® Glucose and Beta-Ketone Hospital Meter Due to Performance Concern",
+        "zh": "加拿大因性能问题召回StatStrip®葡萄糖和β-酮医院检测仪"
+      },
+      "summary": {
+        "en": "Health Canada has issued a medical device recall/alert for the StatStrip® Glucose and Beta-Ketone Hospital Meter due to a performance issue. Healthcare facilities and professionals using this meter for glucose and beta-ketone testing are affected. Users should identify affected devices, follow the manufacturer's or Health Canada's recall instructions, and consider alternative testing methods where appropriate.",
+        "zh": "加拿大卫生部因性能问题对StatStrip®葡萄糖和β-酮医院检测仪发布医疗器械召回/警示。使用该检测仪进行葡萄糖和β-酮检测的医疗机构和专业人员受到影响。用户应识别受影响设备，遵循制造商或加拿大卫生部的召回/警示要求，并在适当时考虑替代检测方法。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/statstripr-glucose-and-beta-ketone-hospital-meter",
+      "source_name": "Health Canada",
+      "published_date": "2026-08-19",
+      "detected_date": "2026-08-24T19:37:52Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "glucose_monitoring",
+        "performance_issue",
+        "health_canada"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260824_health_canada_recall_embosphere_microspheres_syringe_sterili",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Recall: Embosphere® Microspheres-Syringe – Sterility Issue",
+        "zh": "加拿大卫生部召回Embosphere®微球注射器：无菌问题"
+      },
+      "summary": {
+        "en": "Health Canada has issued a medical device recall/alert for Embosphere® Microspheres-Syringe due to a sterility concern. The affected product is used in embolization procedures and may pose an infection risk if sterility is compromised. Healthcare facilities should immediately quarantine affected lots, discontinue use, and follow the manufacturer’s recall instructions, while regulatory affairs professionals should verify inventory and report any adverse events.",
+        "zh": "加拿大卫生部已针对Embosphere®微球注射器发布医疗器械召回/警示，原因是无菌性问题。该产品用于栓塞手术，若无菌性受影响可能导致感染风险。医疗机构应立即隔离相关批次、停止使用，并遵循制造商召回指示；法规事务人员应核查库存并报告任何不良事件。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/embospherer-microspheres-syringe",
+      "source_name": "Health Canada",
+      "published_date": "2026-08-19",
+      "detected_date": "2026-08-24T19:38:10Z",
+      "importance": "high",
+      "tags": [
+        "canada_recall",
+        "sterility",
+        "embolization_microspheres"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260824_health_canada_safety_alert_spectralis_with_flex_module_recal",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Safety Alert: SPECTRALIS® with Flex Module Recall Due to Performance Issues",
+        "zh": "加拿大卫生部：SPECTRALIS® Flex模块因性能问题召回"
+      },
+      "summary": {
+        "en": "Health Canada has issued a medical device recall/alert for the SPECTRALIS® with Flex Module, citing performance-related concerns. Healthcare facilities and operators using this optical coherence tomography (OCT) ophthalmic imaging system should review the recall notice, identify affected units, and follow the manufacturer’s recommended corrective actions. This item is part of Canada’s latest medical device safety updates.",
+        "zh": "加拿大卫生部已就SPECTRALIS® Flex模块发布医疗器械召回/警示，指出存在性能相关问题。使用该光学相干断层扫描（OCT）眼科成像系统的医疗机构和操作人员应查阅召回通知、识别受影响设备，并遵循制造商建议的纠正措施。该项警示属于加拿大最新医疗器械安全更新之一。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/spectralisr-flex-module",
+      "source_name": "Health Canada",
+      "published_date": "2026-08-19",
+      "detected_date": "2026-08-24T19:38:34Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "health_canada",
+        "ophthalmic_imaging",
+        "performance_issue"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260824_health_canada_alert_cook_medical_hemospray_kit_recalled_due",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Alert: Cook Medical Hemospray Kit Recalled Due to Performance Issue",
+        "zh": "加拿大召回Cook Medical Hemospray套件：性能问题"
+      },
+      "summary": {
+        "en": "Health Canada has issued a medical device recall/alert for the Cook Medical Hemospray Kit due to a performance issue. The device is used for endoscopic hemostasis, and affected Canadian healthcare facilities should identify and quarantine affected units. Users should consult the recall notice and contact Cook Medical for affected lot numbers and return or replacement instructions.",
+        "zh": "加拿大卫生部因性能问题对Cook Medical Hemospray套件发布医疗器械召回/警报。该产品用于内镜下止血，加拿大相关医疗机构应识别并隔离受影响批次。用户应查阅召回通知并联系Cook Medical，获取受影响批号及退货或更换指引。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/cook-medical-hemospray-kit",
+      "source_name": "Health Canada",
+      "published_date": "2026-08-17",
+      "detected_date": "2026-08-24T19:38:52Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "performance_issue",
+        "health_canada"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
     {
       "id": "canada_20260817_health_canada_alert_performance_concerns_with_orthopaedic_im",
       "framework": "canada",

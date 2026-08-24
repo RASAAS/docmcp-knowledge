@@ -6,6 +6,100 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### NGPod pH检测仪撤市：隔离并处置所有设备（DSI/2026/009）
+
+**2026-08-24** | UK MHRA | 安全通报 | !!! HIGH
+
+英国MHRA发布警示（DSI/2026/009），涉及用于辅助确认鼻胃管放置的NGPod手持式pH检测仪及NGPod传感器。该产品制造商已停止在英国运营，相关产品正在从英国市场撤市。所有医疗机构和使用者应立即隔离剩余设备与传感器，并按当地程序进行处置。
+
+**标签**: `mhra_alert`, `ngpod`, `nasogastric_tube`, `ph_testing`, `market_withdrawal`, `quarantine`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/ngpod-ph-testing-device-quarantine-and-dispose-of-all-devices-dsi-slash-2026-slash-009)
+
+---
+
+### 英国MHRA发布2026年8月17日至21日现场安全通知
+
+**2026-08-24** | UK MHRA | 安全通报 | !!! HIGH
+
+英国MHRA发布了2026年8月17日至21日期间的现场安全通知（FSN）汇总。该条目列出了可能影响医疗器械安全使用的警报，涉及医疗机构、制造商和使用者。相关方应及时查阅所列通知并采取建议的纠正措施。
+
+**标签**: `field_safety_notice`, `mhra`, `medical_device_safety`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-17-to-21-august-2026)
+
+---
+
+### MHRA 2026年8月17日至21日现场安全通告
+
+**2026-08-24** | UK MHRA | 法规更新 | !! MEDIUM
+
+该项列出了英国MHRA于2026年8月17日至21日发布的现场安全通告。相关方包括受该周识别的医疗器械或药品安全问题影响的制造商、进口商、分销商、医疗机构和患者。法规事务专业人员应审查所列每份现场安全通告，并采取通告中要求的纠正或预防措施。该页面为跟踪和遵守MHRA安全通报提供了官方来源。
+
+**标签**: `field_safety_notices`, `mhra`, `medical_device_safety`, `regulatory_compliance`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-17-to-21-august-2026)
+
+---
+
+### MHRA更新医疗器械特殊使用授权清单
+
+**2026-08-24** | UK MHRA | 法规更新 | !! MEDIUM
+
+MHRA发布了一份更新的清单，列出获得特殊使用授权的医疗器械及其制造商，同时包括已过期或被取消的豁免。相关制造商和法规事务人员应查阅该清单，确认所涉器械的当前授权状态。需持续关注变更以确保合规。
+
+**标签**: `mhra`, `exceptional_use_authorisation`, `medical_devices`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/government/publications/medical-devices-given-exceptional-use-authorisations)
+
+---
+
+### MHRA发布药物警戒程序指南
+
+**2026-08-21** | UK MHRA | 法规更新 | !! MEDIUM
+
+英国MHRA发布了总结其药物警戒程序方法的指南。该指南适用于上市许可持有人和药物警戒专业人员，需确保不良事件报告和安全性监测符合MHRA要求。相关方应审阅该指南并相应调整其药物警戒系统和程序。
+
+**标签**: `pharmacovigilance`, `mhra_guidance`, `safety_monitoring`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/government/publications/guidance-on-pharmacovigilance-procedures)
+
+---
+
+### ForeSight™ Oximeter Cable
+
+**2026-08-21** | Health Canada | 安全通报 | !! MEDIUM
+
+Labelling and packaging
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/foresighttm-oximeter-cable)
+
+---
+
+### 加拿大卫生部召回iQ200系列及DxU 840m/850m Iris分析仪
+
+**2026-08-21** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已针对Beckman Coulter的iQ200系列分析仪和DxU 840m/850m Iris分析仪发布医疗器械召回/警示，原因是性能问题。使用这些尿液分析系统的实验室和医疗机构可能受到影响。用户应查看召回通知，遵循制造商建议，并在继续临床使用前确认仪器性能。
+
+**标签**: `medical_device_recall`, `performance_issue`, `health_canada`, `laboratory_diagnostics`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/iq200-series-analyzers-and-dxu-840m850m-iris-analyzers)
+
+---
+
+### GE HealthCare Aisys™ CS²与Carestation™麻醉系统因性能问题被召回
+
+**2026-08-21** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部发布了关于GE HealthCare Aisys™ CS²和Carestation™麻醉系统的医疗器械召回警报，原因为性能问题。受影响的是使用这些麻醉设备的医疗机构。相关用户应识别受影响设备，遵循制造商提供的纠正措施，并联系GE HealthCare获取支持。
+
+**标签**: `medical_device_recall`, `anesthesia_systems`, `health_canada`, `performance_issue`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/aisystm-cs2-and-carestationtm)
+
+---
+
 ### Stryker StrykeFlow PS冲洗/抽吸泵瑞士Swissmedic FSCA（型号0250070540/0250070530）
 
 **2026-08-21** | Swissmedic | 安全通报 | !! MEDIUM
@@ -25,6 +119,66 @@ Swissmedic 已发布 Stryker Endoscopy 的 StrykeFlow PS 手术冲洗/抽吸系�
 FSCA: MD: Surgical irrigation/aspiration tubing set. Reason: . Model: 0250070640, 0250070620, 0250070600.
 
 [查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260811_034)
+
+---
+
+### 英国MHRA警告：婴儿禁用个人用直肠导管（排气/缓解肠绞痛产品）
+
+**2026-08-20** | UK MHRA | 安全通报 | !!! HIGH
+
+英国MHRA发布安全警示，禁止将个人用直肠导管（排气和缓解肠绞痛产品）用于婴儿。该警示涉及用于缓解婴儿肠绞痛、胀气不适或便秘的情形。相关人员应立即停止使用这些产品，并处置所有未使用的器械。
+
+**标签**: `rectal_catheters`, `infant_safety`, `mhra_safety_alert`, `medical_device_safety`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/all-rectal-catheters-gas-and-colic-relievers-do-not-use-in-infants-including-for-the-treatment-of-colic-gas-related-discomfort-or-constipation-dsi-slash-2026-slash-008)
+
+---
+
+### 加拿大卫生部发布IMRIS ORT 300手术台性能安全警报
+
+**2026-08-20** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已针对 IMRIS Table ORT 300 发布医疗器械召回/安全警报，原因是性能问题。该警报涉及使用该手术台的医疗机构，可能影响设备功能或操作安全。法规事务人员应查看召回通知，确保受影响设备得到识别、评估，并按制造商纠正措施处理。
+
+**标签**: `health_canada`, `medical_device_recall`, `performance_issue`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/imris-table-ort-300)
+
+---
+
+### 加拿大卫生部警示：Patient Information Centre iX性能问题
+
+**2026-08-20** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部发布了针对Patient Information Centre iX的医疗器械召回/警示，涉及性能问题。使用该患者监护/中央站设备的医疗机构应查阅相关通知，并遵循加拿大卫生部或制造商建议的纠正措施。受影响用户可能需要联系制造商进行配置调整或其他纠正处理。
+
+**标签**: `health_canada`, `medical_device_recall`, `patient_monitoring`, `performance_issue`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/patient-information-centre-ix)
+
+---
+
+### 加拿大卫生部警示：Theragun PRO设备性能问题
+
+**2026-08-20** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已针对 Theragun PRO 发布医疗器械召回/警示，原因是性能问题。该警示涉及加拿大的 Theragun PRO 用户和经销商。相关方应查阅召回通知并遵循制造商指示，可能包括停用或安排维修或更换。
+
+**标签**: `medical_device_recall`, `performance_issue`, `health_canada`, `theragun_pro`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/theragun-pro)
+
+---
+
+### 加拿大卫生部就Centricity™ Enterprise Archive与PACS工作站性能问题发布召回
+
+**2026-08-20** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已就Centricity™ Enterprise Archive与PACS工作站发布医疗器械召回/警报，原因为性能问题。该问题影响加拿大使用相关GE影像归档和工作站产品的医疗机构和用户。法规事务和临床工程团队应查阅警报、识别受影响系统，并联系制造商或加拿大卫生部获取整改措施。
+
+**标签**: `medical_device_recall`, `pacs`, `ge_healthcare`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/centricitytm-enterprise-archive-and-pacs-workstation)
 
 ---
 
@@ -49,6 +203,42 @@ Swissmedic 已发布针对 DH Healthcare GmbH 产品 ORBIS Medication 3.x 的现
 **标签**: `anmat`, `medical_device_ban`, `alma_lasers_soprano_ice`
 
 [查看来源 (Official Source)](https://www.argentina.gob.ar/noticias/anmat-prohibe-un-equipo-medico-de-la-marca-alma-lasers-soprano-ice)
+
+---
+
+### 加拿大因性能问题召回StatStrip®葡萄糖和β-酮医院检测仪
+
+**2026-08-19** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部因性能问题对StatStrip®葡萄糖和β-酮医院检测仪发布医疗器械召回/警示。使用该检测仪进行葡萄糖和β-酮检测的医疗机构和专业人员受到影响。用户应识别受影响设备，遵循制造商或加拿大卫生部的召回/警示要求，并在适当时考虑替代检测方法。
+
+**标签**: `medical_device_recall`, `glucose_monitoring`, `performance_issue`, `health_canada`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/statstripr-glucose-and-beta-ketone-hospital-meter)
+
+---
+
+### 加拿大卫生部召回Embosphere®微球注射器：无菌问题
+
+**2026-08-19** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已针对Embosphere®微球注射器发布医疗器械召回/警示，原因是无菌性问题。该产品用于栓塞手术，若无菌性受影响可能导致感染风险。医疗机构应立即隔离相关批次、停止使用，并遵循制造商召回指示；法规事务人员应核查库存并报告任何不良事件。
+
+**标签**: `canada_recall`, `sterility`, `embolization_microspheres`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/embospherer-microspheres-syringe)
+
+---
+
+### 加拿大卫生部：SPECTRALIS® Flex模块因性能问题召回
+
+**2026-08-19** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已就SPECTRALIS® Flex模块发布医疗器械召回/警示，指出存在性能相关问题。使用该光学相干断层扫描（OCT）眼科成像系统的医疗机构和操作人员应查阅召回通知、识别受影响设备，并遵循制造商建议的纠正措施。该项警示属于加拿大最新医疗器械安全更新之一。
+
+**标签**: `medical_device_recall`, `health_canada`, `ophthalmic_imaging`, `performance_issue`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/spectralisr-flex-module)
 
 ---
 
@@ -138,6 +328,40 @@ CDRH News
 
 ---
 
+### MHRA现场安全通告：2026年8月10日至14日
+
+**2026-08-18** | UK MHRA | 安全通报 | !! MEDIUM
+
+本条目汇总了英国MHRA在2026年8月10日至14日期间发布的现场安全通告。相关方包括医疗机构、医疗器械制造商和法规事务团队，需核查所列通告是否涉及在用或供应的设备。关键行动包括及时确认适用的通告，并按照制造商或MHRA建议采取纠正措施。
+
+**标签**: `field_safety_notice`, `mhra`, `medical_device_safety`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-10-to-14-august-2026)
+
+---
+
+### Field Safety Notices: 10 to 14 August 2026
+
+**2026-08-18** | UK MHRA | 法规更新 | !! MEDIUM
+
+List of Field Safety Notices from 10 to 14 August 2026.
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-10-to-14-august-2026)
+
+---
+
+### MHRA现场安全通告：2026年7月13日至17日
+
+**2026-08-18** | UK MHRA | 法规更新 | !! MEDIUM
+
+英国MHRA发布了2026年7月13日至17日当周的现场安全通告（FSN）列表。该列表涵盖医疗器械及体外诊断产品制造商发布的安全信息。医疗机构、设备使用者和供应商应查看相关通告，识别受影响产品并采取建议措施以降低风险。
+
+**标签**: `field_safety_notices`, `mhra`, `medical_device_safety`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-13-to-17-july-2026)
+
+---
+
 ### [Class II] ツインキュア (歯科技工用重合装置) - デンケン・ハイデンタル株式会社
 
 **2026-08-18** | Japan PMDA | 安全通报 | !! MEDIUM
@@ -205,6 +429,18 @@ Recall #2-12926: 歯科技工用重合装置 / ツインキュア by デンケ�
 **标签**: `uk_mhra`, `medicine_licensing`, `enforcement`
 
 [查看来源 (MHRA (UK))](https://www.gov.uk/government/publications/suspended-licences-for-manufacturers-and-wholesalers-of-medicines)
+
+---
+
+### 加拿大召回Cook Medical Hemospray套件：性能问题
+
+**2026-08-17** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部因性能问题对Cook Medical Hemospray套件发布医疗器械召回/警报。该产品用于内镜下止血，加拿大相关医疗机构应识别并隔离受影响批次。用户应查阅召回通知并联系Cook Medical，获取受影响批号及退货或更换指引。
+
+**标签**: `medical_device_recall`, `performance_issue`, `health_canada`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/cook-medical-hemospray-kit)
 
 ---
 

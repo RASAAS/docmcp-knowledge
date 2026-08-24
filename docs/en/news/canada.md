@@ -6,6 +6,136 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### ForeSight™ Oximeter Cable
+
+**2026-08-21** | Health Canada | Safety Communication | !! MEDIUM
+
+Labelling and packaging
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/foresighttm-oximeter-cable)
+
+---
+
+### Health Canada Recall: Beckman Coulter iQ200 Series and DxU 840m/850m Iris Analyzers Performance Issue
+
+**2026-08-21** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a medical device recall/alert for Beckman Coulter iQ200 Series Analyzers and DxU 840m/850m Iris Analyzers due to a performance issue. Laboratories and healthcare facilities using these urine analysis systems may be affected. Users should review the recall notice, follow the manufacturer's recommendations, and verify instrument performance before continuing clinical use.
+
+**Tags**: `medical_device_recall`, `performance_issue`, `health_canada`, `laboratory_diagnostics`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/iq200-series-analyzers-and-dxu-840m850m-iris-analyzers)
+
+---
+
+### Recall: GE HealthCare Aisys™ CS² and Carestation™ anesthesia systems due to performance issue
+
+**2026-08-21** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a medical device recall alert for GE HealthCare Aisys™ CS² and Carestation™ anesthesia systems due to a performance issue. The alert affects healthcare facilities using these anesthesia machines. Affected users should identify impacted units, follow the manufacturer's corrective actions, and contact GE HealthCare for support.
+
+**Tags**: `medical_device_recall`, `anesthesia_systems`, `health_canada`, `performance_issue`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/aisystm-cs2-and-carestationtm)
+
+---
+
+### Health Canada Safety Alert: IMRIS Table ORT 300 Performance Issue
+
+**2026-08-20** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a medical device recall/alert for the IMRIS Table ORT 300 due to a performance issue. The alert affects healthcare facilities using this table, potentially impacting device function or procedural safety. Regulatory affairs professionals should review the recall notice and ensure affected units are identified, assessed, and addressed according to the manufacturer's corrective action.
+
+**Tags**: `health_canada`, `medical_device_recall`, `performance_issue`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/imris-table-ort-300)
+
+---
+
+### Health Canada Recall/Alert: Patient Information Centre iX Performance Issue
+
+**2026-08-20** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has published a medical device recall/alert for the Patient Information Centre iX, citing a performance issue. Healthcare facilities using this patient monitoring/central station device should review the notice and follow the recommended corrective actions from Health Canada or the manufacturer. Affected users may need to contact the manufacturer for configuration changes or other corrective measures.
+
+**Tags**: `health_canada`, `medical_device_recall`, `patient_monitoring`, `performance_issue`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/patient-information-centre-ix)
+
+---
+
+### Health Canada Recall/Alert: Theragun PRO Device Performance Issue
+
+**2026-08-20** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a medical device recall/alert for the Theragun PRO due to a performance issue. The notice affects users and distributors of the Theragun PRO in Canada. Affected parties should review the recall notice and follow the manufacturer's instructions, which may include stopping use or arranging for repair or replacement.
+
+**Tags**: `medical_device_recall`, `performance_issue`, `health_canada`, `theragun_pro`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/theragun-pro)
+
+---
+
+### Health Canada Issues Recall for Centricity™ Enterprise Archive and PACS Workstation Over Performance Issue
+
+**2026-08-20** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has published a medical device recall/alert for the Centricity™ Enterprise Archive and PACS Workstation due to a performance issue. This affects healthcare facilities and users relying on these GE imaging archive and workstation products in Canada. Regulatory affairs and clinical engineering teams should review the alert, identify affected systems, and contact the manufacturer or Health Canada for remediation steps.
+
+**Tags**: `medical_device_recall`, `pacs`, `ge_healthcare`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/centricitytm-enterprise-archive-and-pacs-workstation)
+
+---
+
+### Health Canada Recalls StatStrip® Glucose and Beta-Ketone Hospital Meter Due to Performance Concern
+
+**2026-08-19** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a medical device recall/alert for the StatStrip® Glucose and Beta-Ketone Hospital Meter due to a performance issue. Healthcare facilities and professionals using this meter for glucose and beta-ketone testing are affected. Users should identify affected devices, follow the manufacturer's or Health Canada's recall instructions, and consider alternative testing methods where appropriate.
+
+**Tags**: `medical_device_recall`, `glucose_monitoring`, `performance_issue`, `health_canada`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/statstripr-glucose-and-beta-ketone-hospital-meter)
+
+---
+
+### Health Canada Recall: Embosphere® Microspheres-Syringe – Sterility Issue
+
+**2026-08-19** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a medical device recall/alert for Embosphere® Microspheres-Syringe due to a sterility concern. The affected product is used in embolization procedures and may pose an infection risk if sterility is compromised. Healthcare facilities should immediately quarantine affected lots, discontinue use, and follow the manufacturer’s recall instructions, while regulatory affairs professionals should verify inventory and report any adverse events.
+
+**Tags**: `canada_recall`, `sterility`, `embolization_microspheres`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/embospherer-microspheres-syringe)
+
+---
+
+### Health Canada Safety Alert: SPECTRALIS® with Flex Module Recall Due to Performance Issues
+
+**2026-08-19** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a medical device recall/alert for the SPECTRALIS® with Flex Module, citing performance-related concerns. Healthcare facilities and operators using this optical coherence tomography (OCT) ophthalmic imaging system should review the recall notice, identify affected units, and follow the manufacturer’s recommended corrective actions. This item is part of Canada’s latest medical device safety updates.
+
+**Tags**: `medical_device_recall`, `health_canada`, `ophthalmic_imaging`, `performance_issue`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/spectralisr-flex-module)
+
+---
+
+### Health Canada Alert: Cook Medical Hemospray Kit Recalled Due to Performance Issue
+
+**2026-08-17** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a medical device recall/alert for the Cook Medical Hemospray Kit due to a performance issue. The device is used for endoscopic hemostasis, and affected Canadian healthcare facilities should identify and quarantine affected units. Users should consult the recall notice and contact Cook Medical for affected lot numbers and return or replacement instructions.
+
+**Tags**: `medical_device_recall`, `performance_issue`, `health_canada`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/cook-medical-hemospray-kit)
+
+---
+
 ### Health Canada Alert: Performance Concerns with Orthopaedic Implant Components
 
 **2026-08-14** | Health Canada | Safety Communication | !!! HIGH

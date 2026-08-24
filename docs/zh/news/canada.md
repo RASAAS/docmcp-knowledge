@@ -6,6 +6,136 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### ForeSight™ Oximeter Cable
+
+**2026-08-21** | Health Canada | 安全通报 | !! MEDIUM
+
+Labelling and packaging
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/foresighttm-oximeter-cable)
+
+---
+
+### 加拿大卫生部召回iQ200系列及DxU 840m/850m Iris分析仪
+
+**2026-08-21** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已针对Beckman Coulter的iQ200系列分析仪和DxU 840m/850m Iris分析仪发布医疗器械召回/警示，原因是性能问题。使用这些尿液分析系统的实验室和医疗机构可能受到影响。用户应查看召回通知，遵循制造商建议，并在继续临床使用前确认仪器性能。
+
+**标签**: `medical_device_recall`, `performance_issue`, `health_canada`, `laboratory_diagnostics`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/iq200-series-analyzers-and-dxu-840m850m-iris-analyzers)
+
+---
+
+### GE HealthCare Aisys™ CS²与Carestation™麻醉系统因性能问题被召回
+
+**2026-08-21** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部发布了关于GE HealthCare Aisys™ CS²和Carestation™麻醉系统的医疗器械召回警报，原因为性能问题。受影响的是使用这些麻醉设备的医疗机构。相关用户应识别受影响设备，遵循制造商提供的纠正措施，并联系GE HealthCare获取支持。
+
+**标签**: `medical_device_recall`, `anesthesia_systems`, `health_canada`, `performance_issue`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/aisystm-cs2-and-carestationtm)
+
+---
+
+### 加拿大卫生部发布IMRIS ORT 300手术台性能安全警报
+
+**2026-08-20** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已针对 IMRIS Table ORT 300 发布医疗器械召回/安全警报，原因是性能问题。该警报涉及使用该手术台的医疗机构，可能影响设备功能或操作安全。法规事务人员应查看召回通知，确保受影响设备得到识别、评估，并按制造商纠正措施处理。
+
+**标签**: `health_canada`, `medical_device_recall`, `performance_issue`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/imris-table-ort-300)
+
+---
+
+### 加拿大卫生部警示：Patient Information Centre iX性能问题
+
+**2026-08-20** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部发布了针对Patient Information Centre iX的医疗器械召回/警示，涉及性能问题。使用该患者监护/中央站设备的医疗机构应查阅相关通知，并遵循加拿大卫生部或制造商建议的纠正措施。受影响用户可能需要联系制造商进行配置调整或其他纠正处理。
+
+**标签**: `health_canada`, `medical_device_recall`, `patient_monitoring`, `performance_issue`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/patient-information-centre-ix)
+
+---
+
+### 加拿大卫生部警示：Theragun PRO设备性能问题
+
+**2026-08-20** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已针对 Theragun PRO 发布医疗器械召回/警示，原因是性能问题。该警示涉及加拿大的 Theragun PRO 用户和经销商。相关方应查阅召回通知并遵循制造商指示，可能包括停用或安排维修或更换。
+
+**标签**: `medical_device_recall`, `performance_issue`, `health_canada`, `theragun_pro`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/theragun-pro)
+
+---
+
+### 加拿大卫生部就Centricity™ Enterprise Archive与PACS工作站性能问题发布召回
+
+**2026-08-20** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已就Centricity™ Enterprise Archive与PACS工作站发布医疗器械召回/警报，原因为性能问题。该问题影响加拿大使用相关GE影像归档和工作站产品的医疗机构和用户。法规事务和临床工程团队应查阅警报、识别受影响系统，并联系制造商或加拿大卫生部获取整改措施。
+
+**标签**: `medical_device_recall`, `pacs`, `ge_healthcare`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/centricitytm-enterprise-archive-and-pacs-workstation)
+
+---
+
+### 加拿大因性能问题召回StatStrip®葡萄糖和β-酮医院检测仪
+
+**2026-08-19** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部因性能问题对StatStrip®葡萄糖和β-酮医院检测仪发布医疗器械召回/警示。使用该检测仪进行葡萄糖和β-酮检测的医疗机构和专业人员受到影响。用户应识别受影响设备，遵循制造商或加拿大卫生部的召回/警示要求，并在适当时考虑替代检测方法。
+
+**标签**: `medical_device_recall`, `glucose_monitoring`, `performance_issue`, `health_canada`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/statstripr-glucose-and-beta-ketone-hospital-meter)
+
+---
+
+### 加拿大卫生部召回Embosphere®微球注射器：无菌问题
+
+**2026-08-19** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已针对Embosphere®微球注射器发布医疗器械召回/警示，原因是无菌性问题。该产品用于栓塞手术，若无菌性受影响可能导致感染风险。医疗机构应立即隔离相关批次、停止使用，并遵循制造商召回指示；法规事务人员应核查库存并报告任何不良事件。
+
+**标签**: `canada_recall`, `sterility`, `embolization_microspheres`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/embospherer-microspheres-syringe)
+
+---
+
+### 加拿大卫生部：SPECTRALIS® Flex模块因性能问题召回
+
+**2026-08-19** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已就SPECTRALIS® Flex模块发布医疗器械召回/警示，指出存在性能相关问题。使用该光学相干断层扫描（OCT）眼科成像系统的医疗机构和操作人员应查阅召回通知、识别受影响设备，并遵循制造商建议的纠正措施。该项警示属于加拿大最新医疗器械安全更新之一。
+
+**标签**: `medical_device_recall`, `health_canada`, `ophthalmic_imaging`, `performance_issue`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/spectralisr-flex-module)
+
+---
+
+### 加拿大召回Cook Medical Hemospray套件：性能问题
+
+**2026-08-17** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部因性能问题对Cook Medical Hemospray套件发布医疗器械召回/警报。该产品用于内镜下止血，加拿大相关医疗机构应识别并隔离受影响批次。用户应查阅召回通知并联系Cook Medical，获取受影响批号及退货或更换指引。
+
+**标签**: `medical_device_recall`, `performance_issue`, `health_canada`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/cook-medical-hemospray-kit)
+
+---
+
 ### 加拿大卫生部：骨科植入组件性能问题警报
 
 **2026-08-14** | Health Canada | 安全通报 | !!! HIGH

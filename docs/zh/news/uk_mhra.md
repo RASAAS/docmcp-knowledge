@@ -6,6 +6,112 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### NGPod pH检测仪撤市：隔离并处置所有设备（DSI/2026/009）
+
+**2026-08-24** | UK MHRA | 安全通报 | !!! HIGH
+
+英国MHRA发布警示（DSI/2026/009），涉及用于辅助确认鼻胃管放置的NGPod手持式pH检测仪及NGPod传感器。该产品制造商已停止在英国运营，相关产品正在从英国市场撤市。所有医疗机构和使用者应立即隔离剩余设备与传感器，并按当地程序进行处置。
+
+**标签**: `mhra_alert`, `ngpod`, `nasogastric_tube`, `ph_testing`, `market_withdrawal`, `quarantine`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/ngpod-ph-testing-device-quarantine-and-dispose-of-all-devices-dsi-slash-2026-slash-009)
+
+---
+
+### 英国MHRA发布2026年8月17日至21日现场安全通知
+
+**2026-08-24** | UK MHRA | 安全通报 | !!! HIGH
+
+英国MHRA发布了2026年8月17日至21日期间的现场安全通知（FSN）汇总。该条目列出了可能影响医疗器械安全使用的警报，涉及医疗机构、制造商和使用者。相关方应及时查阅所列通知并采取建议的纠正措施。
+
+**标签**: `field_safety_notice`, `mhra`, `medical_device_safety`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-17-to-21-august-2026)
+
+---
+
+### MHRA 2026年8月17日至21日现场安全通告
+
+**2026-08-24** | UK MHRA | 法规更新 | !! MEDIUM
+
+该项列出了英国MHRA于2026年8月17日至21日发布的现场安全通告。相关方包括受该周识别的医疗器械或药品安全问题影响的制造商、进口商、分销商、医疗机构和患者。法规事务专业人员应审查所列每份现场安全通告，并采取通告中要求的纠正或预防措施。该页面为跟踪和遵守MHRA安全通报提供了官方来源。
+
+**标签**: `field_safety_notices`, `mhra`, `medical_device_safety`, `regulatory_compliance`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-17-to-21-august-2026)
+
+---
+
+### MHRA更新医疗器械特殊使用授权清单
+
+**2026-08-24** | UK MHRA | 法规更新 | !! MEDIUM
+
+MHRA发布了一份更新的清单，列出获得特殊使用授权的医疗器械及其制造商，同时包括已过期或被取消的豁免。相关制造商和法规事务人员应查阅该清单，确认所涉器械的当前授权状态。需持续关注变更以确保合规。
+
+**标签**: `mhra`, `exceptional_use_authorisation`, `medical_devices`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/government/publications/medical-devices-given-exceptional-use-authorisations)
+
+---
+
+### MHRA发布药物警戒程序指南
+
+**2026-08-21** | UK MHRA | 法规更新 | !! MEDIUM
+
+英国MHRA发布了总结其药物警戒程序方法的指南。该指南适用于上市许可持有人和药物警戒专业人员，需确保不良事件报告和安全性监测符合MHRA要求。相关方应审阅该指南并相应调整其药物警戒系统和程序。
+
+**标签**: `pharmacovigilance`, `mhra_guidance`, `safety_monitoring`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/government/publications/guidance-on-pharmacovigilance-procedures)
+
+---
+
+### 英国MHRA警告：婴儿禁用个人用直肠导管（排气/缓解肠绞痛产品）
+
+**2026-08-20** | UK MHRA | 安全通报 | !!! HIGH
+
+英国MHRA发布安全警示，禁止将个人用直肠导管（排气和缓解肠绞痛产品）用于婴儿。该警示涉及用于缓解婴儿肠绞痛、胀气不适或便秘的情形。相关人员应立即停止使用这些产品，并处置所有未使用的器械。
+
+**标签**: `rectal_catheters`, `infant_safety`, `mhra_safety_alert`, `medical_device_safety`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/all-rectal-catheters-gas-and-colic-relievers-do-not-use-in-infants-including-for-the-treatment-of-colic-gas-related-discomfort-or-constipation-dsi-slash-2026-slash-008)
+
+---
+
+### MHRA现场安全通告：2026年8月10日至14日
+
+**2026-08-18** | UK MHRA | 安全通报 | !! MEDIUM
+
+本条目汇总了英国MHRA在2026年8月10日至14日期间发布的现场安全通告。相关方包括医疗机构、医疗器械制造商和法规事务团队，需核查所列通告是否涉及在用或供应的设备。关键行动包括及时确认适用的通告，并按照制造商或MHRA建议采取纠正措施。
+
+**标签**: `field_safety_notice`, `mhra`, `medical_device_safety`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-10-to-14-august-2026)
+
+---
+
+### Field Safety Notices: 10 to 14 August 2026
+
+**2026-08-18** | UK MHRA | 法规更新 | !! MEDIUM
+
+List of Field Safety Notices from 10 to 14 August 2026.
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-10-to-14-august-2026)
+
+---
+
+### MHRA现场安全通告：2026年7月13日至17日
+
+**2026-08-18** | UK MHRA | 法规更新 | !! MEDIUM
+
+英国MHRA发布了2026年7月13日至17日当周的现场安全通告（FSN）列表。该列表涵盖医疗器械及体外诊断产品制造商发布的安全信息。医疗机构、设备使用者和供应商应查看相关通告，识别受影响产品并采取建议措施以降低风险。
+
+**标签**: `field_safety_notices`, `mhra`, `medical_device_safety`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-13-to-17-july-2026)
+
+---
+
 ### MHRA患者安全警报：ResMed Astral 100/150呼吸机存在通气意外中断风险
 
 **2026-08-17** | UK MHRA | 安全通报 | !!! HIGH

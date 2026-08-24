@@ -6,6 +6,100 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### NGPod pH Testing Device Withdrawn: Quarantine and Dispose of All Devices (DSI/2026/009)
+
+**2026-08-24** | UK MHRA | Safety Communication | !!! HIGH
+
+The UK MHRA has issued an alert for the NGPod handheld pH testing device and NGPod sensor, used to aid nasogastric tube placement. The manufacturer has ceased trading in the UK, and the products are being withdrawn from the market. Healthcare providers and users should immediately quarantine all remaining devices and sensors and arrange disposal according to local procedures.
+
+**Tags**: `mhra_alert`, `ngpod`, `nasogastric_tube`, `ph_testing`, `market_withdrawal`, `quarantine`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/ngpod-ph-testing-device-quarantine-and-dispose-of-all-devices-dsi-slash-2026-slash-009)
+
+---
+
+### UK MHRA Field Safety Notices: 17 to 21 August 2026
+
+**2026-08-24** | UK MHRA | Safety Communication | !!! HIGH
+
+The UK MHRA has published its weekly list of Field Safety Notices (FSNs) issued between 17 and 21 August 2026. This item summarises safety alerts for medical devices that may require action by healthcare providers, manufacturers, or users. Affected parties should review the listed FSNs and implement any recommended corrective actions promptly.
+
+**Tags**: `field_safety_notice`, `mhra`, `medical_device_safety`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-17-to-21-august-2026)
+
+---
+
+### MHRA Field Safety Notices: 17 to 21 August 2026
+
+**2026-08-24** | UK MHRA | Regulation Update | !! MEDIUM
+
+This item lists Field Safety Notices published by the UK MHRA from 17 to 21 August 2026. It is relevant to manufacturers, importers, distributors, healthcare providers, and patients affected by medical device or drug safety issues identified during that week. Regulatory affairs professionals should review each listed field safety notice and implement the required corrective or preventive actions described. The page serves as the official source for tracking and complying with these MHRA safety communications.
+
+**Tags**: `field_safety_notices`, `mhra`, `medical_device_safety`, `regulatory_compliance`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-17-to-21-august-2026)
+
+---
+
+### MHRA Updates Exceptional Use Authorisation List for Medical Devices
+
+**2026-08-24** | UK MHRA | Regulation Update | !! MEDIUM
+
+The MHRA has published an updated list of manufacturers and medical devices granted exceptional use authorisations, including exemptions that have expired or been cancelled. Manufacturers and regulatory affairs professionals should review the list to confirm the current status of affected devices. Stakeholders need to monitor these changes to maintain compliance.
+
+**Tags**: `mhra`, `exceptional_use_authorisation`, `medical_devices`
+
+[View Source (MHRA (UK))](https://www.gov.uk/government/publications/medical-devices-given-exceptional-use-authorisations)
+
+---
+
+### MHRA Publishes Guidance on Pharmacovigilance Procedures
+
+**2026-08-21** | UK MHRA | Regulation Update | !! MEDIUM
+
+The UK MHRA has published guidance summarising its approach to pharmacovigilance procedures. This guidance is relevant to marketing authorisation holders and pharmacovigilance professionals who must ensure adverse event reporting and safety monitoring comply with MHRA expectations. Stakeholders should review the guidance and align their pharmacovigilance systems and procedures accordingly.
+
+**Tags**: `pharmacovigilance`, `mhra_guidance`, `safety_monitoring`
+
+[View Source (MHRA (UK))](https://www.gov.uk/government/publications/guidance-on-pharmacovigilance-procedures)
+
+---
+
+### ForeSight™ Oximeter Cable
+
+**2026-08-21** | Health Canada | Safety Communication | !! MEDIUM
+
+Labelling and packaging
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/foresighttm-oximeter-cable)
+
+---
+
+### Health Canada Recall: Beckman Coulter iQ200 Series and DxU 840m/850m Iris Analyzers Performance Issue
+
+**2026-08-21** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a medical device recall/alert for Beckman Coulter iQ200 Series Analyzers and DxU 840m/850m Iris Analyzers due to a performance issue. Laboratories and healthcare facilities using these urine analysis systems may be affected. Users should review the recall notice, follow the manufacturer's recommendations, and verify instrument performance before continuing clinical use.
+
+**Tags**: `medical_device_recall`, `performance_issue`, `health_canada`, `laboratory_diagnostics`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/iq200-series-analyzers-and-dxu-840m850m-iris-analyzers)
+
+---
+
+### Recall: GE HealthCare Aisys™ CS² and Carestation™ anesthesia systems due to performance issue
+
+**2026-08-21** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a medical device recall alert for GE HealthCare Aisys™ CS² and Carestation™ anesthesia systems due to a performance issue. The alert affects healthcare facilities using these anesthesia machines. Affected users should identify impacted units, follow the manufacturer's corrective actions, and contact GE HealthCare for support.
+
+**Tags**: `medical_device_recall`, `anesthesia_systems`, `health_canada`, `performance_issue`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/aisystm-cs2-and-carestationtm)
+
+---
+
 ### Stryker Endoscopy StrykeFlow PS Surgical Irrigation/Aspiration Pump – Swissmedic FSCA (Models 0250070540, 0250070530)
 
 **2026-08-21** | Swissmedic | Safety Communication | !! MEDIUM
@@ -25,6 +119,66 @@ Swissmedic has published a field safety corrective action (FSCA) for the Stryker
 FSCA: MD: Surgical irrigation/aspiration tubing set. Reason: . Model: 0250070640, 0250070620, 0250070600.
 
 [View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260811_034)
+
+---
+
+### MHRA UK: Do Not Use Personal-Use Rectal Catheters (Gas/Colic Relievers) in Infants – DSI/2026/008
+
+**2026-08-20** | UK MHRA | Safety Communication | !!! HIGH
+
+The UK MHRA has issued a safety alert advising that rectal catheters sold for personal use as gas and colic relievers must not be used in infants. This applies to use for colic, gas-related discomfort, or constipation. Healthcare professionals and caregivers should stop using these products immediately and dispose of any unused devices.
+
+**Tags**: `rectal_catheters`, `infant_safety`, `mhra_safety_alert`, `medical_device_safety`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/all-rectal-catheters-gas-and-colic-relievers-do-not-use-in-infants-including-for-the-treatment-of-colic-gas-related-discomfort-or-constipation-dsi-slash-2026-slash-008)
+
+---
+
+### Health Canada Safety Alert: IMRIS Table ORT 300 Performance Issue
+
+**2026-08-20** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a medical device recall/alert for the IMRIS Table ORT 300 due to a performance issue. The alert affects healthcare facilities using this table, potentially impacting device function or procedural safety. Regulatory affairs professionals should review the recall notice and ensure affected units are identified, assessed, and addressed according to the manufacturer's corrective action.
+
+**Tags**: `health_canada`, `medical_device_recall`, `performance_issue`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/imris-table-ort-300)
+
+---
+
+### Health Canada Recall/Alert: Patient Information Centre iX Performance Issue
+
+**2026-08-20** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has published a medical device recall/alert for the Patient Information Centre iX, citing a performance issue. Healthcare facilities using this patient monitoring/central station device should review the notice and follow the recommended corrective actions from Health Canada or the manufacturer. Affected users may need to contact the manufacturer for configuration changes or other corrective measures.
+
+**Tags**: `health_canada`, `medical_device_recall`, `patient_monitoring`, `performance_issue`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/patient-information-centre-ix)
+
+---
+
+### Health Canada Recall/Alert: Theragun PRO Device Performance Issue
+
+**2026-08-20** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a medical device recall/alert for the Theragun PRO due to a performance issue. The notice affects users and distributors of the Theragun PRO in Canada. Affected parties should review the recall notice and follow the manufacturer's instructions, which may include stopping use or arranging for repair or replacement.
+
+**Tags**: `medical_device_recall`, `performance_issue`, `health_canada`, `theragun_pro`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/theragun-pro)
+
+---
+
+### Health Canada Issues Recall for Centricity™ Enterprise Archive and PACS Workstation Over Performance Issue
+
+**2026-08-20** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has published a medical device recall/alert for the Centricity™ Enterprise Archive and PACS Workstation due to a performance issue. This affects healthcare facilities and users relying on these GE imaging archive and workstation products in Canada. Regulatory affairs and clinical engineering teams should review the alert, identify affected systems, and contact the manufacturer or Health Canada for remediation steps.
+
+**Tags**: `medical_device_recall`, `pacs`, `ge_healthcare`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/centricitytm-enterprise-archive-and-pacs-workstation)
 
 ---
 
@@ -49,6 +203,42 @@ On 20 August 2026, Argentina's ANMAT issued an alert prohibiting the medical dev
 **Tags**: `anmat`, `medical_device_ban`, `alma_lasers_soprano_ice`
 
 [View Source (Official Source)](https://www.argentina.gob.ar/noticias/anmat-prohibe-un-equipo-medico-de-la-marca-alma-lasers-soprano-ice)
+
+---
+
+### Health Canada Recalls StatStrip® Glucose and Beta-Ketone Hospital Meter Due to Performance Concern
+
+**2026-08-19** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a medical device recall/alert for the StatStrip® Glucose and Beta-Ketone Hospital Meter due to a performance issue. Healthcare facilities and professionals using this meter for glucose and beta-ketone testing are affected. Users should identify affected devices, follow the manufacturer's or Health Canada's recall instructions, and consider alternative testing methods where appropriate.
+
+**Tags**: `medical_device_recall`, `glucose_monitoring`, `performance_issue`, `health_canada`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/statstripr-glucose-and-beta-ketone-hospital-meter)
+
+---
+
+### Health Canada Recall: Embosphere® Microspheres-Syringe – Sterility Issue
+
+**2026-08-19** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a medical device recall/alert for Embosphere® Microspheres-Syringe due to a sterility concern. The affected product is used in embolization procedures and may pose an infection risk if sterility is compromised. Healthcare facilities should immediately quarantine affected lots, discontinue use, and follow the manufacturer’s recall instructions, while regulatory affairs professionals should verify inventory and report any adverse events.
+
+**Tags**: `canada_recall`, `sterility`, `embolization_microspheres`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/embospherer-microspheres-syringe)
+
+---
+
+### Health Canada Safety Alert: SPECTRALIS® with Flex Module Recall Due to Performance Issues
+
+**2026-08-19** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a medical device recall/alert for the SPECTRALIS® with Flex Module, citing performance-related concerns. Healthcare facilities and operators using this optical coherence tomography (OCT) ophthalmic imaging system should review the recall notice, identify affected units, and follow the manufacturer’s recommended corrective actions. This item is part of Canada’s latest medical device safety updates.
+
+**Tags**: `medical_device_recall`, `health_canada`, `ophthalmic_imaging`, `performance_issue`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/spectralisr-flex-module)
 
 ---
 
@@ -138,6 +328,40 @@ CDRH News
 
 ---
 
+### MHRA Field Safety Notices: 10 to 14 August 2026
+
+**2026-08-18** | UK MHRA | Safety Communication | !! MEDIUM
+
+This item compiles Field Safety Notices issued by the UK MHRA between 10 and 14 August 2026. It is relevant to healthcare providers, medical device manufacturers, and regulatory affairs teams who need to review the listed notices for affected devices or equipment. Key actions include identifying whether any listed notices apply to devices in use or supplied, and implementing the manufacturer or MHRA recommended corrective actions promptly.
+
+**Tags**: `field_safety_notice`, `mhra`, `medical_device_safety`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-10-to-14-august-2026)
+
+---
+
+### Field Safety Notices: 10 to 14 August 2026
+
+**2026-08-18** | UK MHRA | Regulation Update | !! MEDIUM
+
+List of Field Safety Notices from 10 to 14 August 2026.
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-10-to-14-august-2026)
+
+---
+
+### MHRA Field Safety Notices: 13–17 July 2026
+
+**2026-08-18** | UK MHRA | Regulation Update | !! MEDIUM
+
+The UK MHRA has published its weekly list of Field Safety Notices (FSNs) for 13–17 July 2026. It includes manufacturer-issued safety communications for medical devices and in vitro diagnostics distributed in the UK. Healthcare providers, device users, and suppliers should review the notices, identify affected products, and follow the recommended actions to mitigate risks.
+
+**Tags**: `field_safety_notices`, `mhra`, `medical_device_safety`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-13-to-17-july-2026)
+
+---
+
 ### [Class II] ツインキュア (歯科技工用重合装置) - デンケン・ハイデンタル株式会社
 
 **2026-08-18** | Japan PMDA | Safety Communication | !! MEDIUM
@@ -205,6 +429,18 @@ The UK MHRA has updated its public list of companies whose licences or registrat
 **Tags**: `uk_mhra`, `medicine_licensing`, `enforcement`
 
 [View Source (MHRA (UK))](https://www.gov.uk/government/publications/suspended-licences-for-manufacturers-and-wholesalers-of-medicines)
+
+---
+
+### Health Canada Alert: Cook Medical Hemospray Kit Recalled Due to Performance Issue
+
+**2026-08-17** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a medical device recall/alert for the Cook Medical Hemospray Kit due to a performance issue. The device is used for endoscopic hemostasis, and affected Canadian healthcare facilities should identify and quarantine affected units. Users should consult the recall notice and contact Cook Medical for affected lot numbers and return or replacement instructions.
+
+**Tags**: `medical_device_recall`, `performance_issue`, `health_canada`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/cook-medical-hemospray-kit)
 
 ---
 
