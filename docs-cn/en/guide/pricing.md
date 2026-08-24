@@ -7,13 +7,25 @@
 | Trial | Free | - | 150 | New users (30-day trial) |
 | Starter | $15/mo | $150/yr | 150 | Light usage, independent consultants |
 | Basic | $50/mo | $500/yr | 500 | Individual RA professionals |
-| Pro | $130/mo | $1,300/yr | 1,200 | Teams (up to 3 accounts) |
-| Max | $1,150/mo | $11,500/yr | 15,000 | Large teams (up to 10 accounts) |
+| Pro | $130/mo | $1,300/yr | 1,200 | Teams (3 seats included, add up to 5) |
+| Max | $1,150/mo | $11,500/yr | 15,000 | Large teams (10 seats included; extra by agreement) |
 | CRO | $1,150/mo | $11,500/yr | 15,000 | CRO organizations |
 
 ::: info Annual Discount
 Yearly pricing equals 10 months of monthly billing -- get 2 months free.
 :::
+
+## Extra team seats
+
+Pro / Max / CRO enterprise organizations can add team accounts. Members share the organization's Credits.
+
+| Plan | Included seats | Add-on rules | Add-on price | Credits |
+|------|----------------|--------------|--------------|---------|
+| **Pro** | 3 | Up to **2** extra seats (hard cap **5**) | Seats 4–5 billed at the **Starter** same-period rate: $15/seat/mo, $150/seat/yr | No extra Credits |
+| **Max** | 10 | Extra seats by written agreement (system cap 50) | **Not auto-priced**; amount is on the quote or written addendum | No extra Credits |
+| **CRO** | 10 | Same as Max | Same as Max | No extra Credits |
+
+Pro teams that need 6 or more seats should upgrade to Max. Extra seats only add login accounts; they **do not** increase the plan's AI Credits or translation quota.
 
 ## Feature Comparison
 
@@ -33,7 +45,7 @@ Yearly pricing equals 10 months of monthly billing -- get 2 months free.
 | PMCF Evaluation Report | - | - | - | v | v | v |
 | Periodic Safety Update Report | - | - | - | v | v | v |
 | NMPA Registration | - | - | - | v | v | v |
-| Team Accounts | - | - | - | 3 | 10 | 10 |
+| Team Accounts | - | - | - | 3 (add up to 5) | 10 (extra by agreement) | 10 (extra by agreement) |
 | CRM Client Management | - | - | - | - | - | v |
 | Custom Model Selection | - | - | - | - | v | - |
 | Two-Factor Auth (2FA) | - | Required | Required | Required | Required | Required |
@@ -127,7 +139,7 @@ All subscription fees are non-refundable once paid, regardless of monthly or ann
 
 ### How do team accounts work?
 
-Pro plan supports up to 3 team members, Max up to 10. Team members share the organization's credit pool.
+Pro includes 3 seats and can add 2 more (hard cap 5); seats 4–5 are billed at the Starter same-period rate and do not add Credits. Max / CRO include 10 seats; extra seats are agreed in writing (not auto-priced, no extra Credits). Team members share the organization's credit pool. See [Extra team seats](#extra-team-seats).
 
 ### Are Assistant and CRM two products? How are Credits billed?
 
