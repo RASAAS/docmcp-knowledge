@@ -6,6 +6,36 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### Early Alert: Portrait Mobile Monitoring Software Issue from GE HealthCare
+
+**2026-08-25** | FDA | cdrh_news | !! MEDIUM
+
+CDRH News
+
+[View Source (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-portrait-core-services-software-issue-ge-healthcare)
+
+---
+
+### Key Considerations for the Development and Use of Digitally Derived Measures for Clinical Investigations, FDA Paper
+
+**2026-08-25** | FDA | cdrh_news | !! MEDIUM
+
+CDRH News
+
+[View Source (FDA)](https://www.fda.gov/medical-devices/digital-health-center-excellence/key-considerations-development-and-use-digitally-derived-measures-clinical-investigations-fda-paper)
+
+---
+
+### Convenience Kit Recall: Medline Issues Correction for Convenience Kits Containing B. Braun Bupivacaine Hydrochloride Com
+
+**2026-08-25** | FDA | cdrh_news | !! MEDIUM
+
+CDRH News
+
+[View Source (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-recall-medline-issues-correction-convenience-kits-containing-b-braun-bupivacaine)
+
+---
+
 ### Considerations for the Regulation of Generative AI-Enabled Medical Devices: Discussion Paper and Request for Feedback
 
 **2026-08-18** | FDA | cdrh_news | !! MEDIUM

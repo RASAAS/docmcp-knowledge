@@ -6,6 +6,36 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### Early Alert: Portrait Mobile Monitoring Software Issue from GE HealthCare
+
+**2026-08-25** | FDA | cdrh_news | !! MEDIUM
+
+CDRH News
+
+[查看来源 (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-portrait-core-services-software-issue-ge-healthcare)
+
+---
+
+### Key Considerations for the Development and Use of Digitally Derived Measures for Clinical Investigations, FDA Paper
+
+**2026-08-25** | FDA | cdrh_news | !! MEDIUM
+
+CDRH News
+
+[查看来源 (FDA)](https://www.fda.gov/medical-devices/digital-health-center-excellence/key-considerations-development-and-use-digitally-derived-measures-clinical-investigations-fda-paper)
+
+---
+
+### Convenience Kit Recall: Medline Issues Correction for Convenience Kits Containing B. Braun Bupivacaine Hydrochloride Com
+
+**2026-08-25** | FDA | cdrh_news | !! MEDIUM
+
+CDRH News
+
+[查看来源 (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-recall-medline-issues-correction-convenience-kits-containing-b-braun-bupivacaine)
+
+---
+
 ### NGPod pH检测仪撤市：隔离并处置所有设备（DSI/2026/009）
 
 **2026-08-24** | UK MHRA | 安全通报 | !!! HIGH
