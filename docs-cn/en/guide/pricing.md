@@ -21,11 +21,11 @@ Pro / Max / CRO enterprise organizations can add team accounts. Members share th
 
 | Plan | Included seats | Add-on rules | Add-on price | Credits |
 |------|----------------|--------------|--------------|---------|
-| **Pro** | 3 | Up to **2** extra seats (hard cap **5**) | Seats 4–5 billed at the **Starter** same-period rate: $15/seat/mo, $150/seat/yr | No extra Credits |
+| **Pro** | 3 | Up to **2** extra seats (hard cap **5**). **First subscription year includes 1 complimentary extra seat** (total 4); from year 2, extra seats bill at Starter | Seats 4–5 billed at the **Starter** same-period rate: $15/seat/mo, $150/seat/yr | No extra Credits |
 | **Max** | 10 | Extra seats by written agreement (system cap 50) | **Not auto-priced**; amount is on the quote or written addendum | No extra Credits |
 | **CRO** | 10 | Same as Max | Same as Max | No extra Credits |
 
-Pro teams that need 6 or more seats should upgrade to Max. Extra seats only add login accounts; they **do not** increase the plan's AI Credits or translation quota.
+Pro teams that need 6 or more seats should upgrade to Max. Extra seats only add login accounts; they **do not** increase the plan's AI Credits or translation quota. The complimentary 4th Pro seat applies to the first subscription year only.
 
 ## Feature Comparison
 
@@ -45,7 +45,7 @@ Pro teams that need 6 or more seats should upgrade to Max. Extra seats only add 
 | PMCF Evaluation Report | - | - | - | v | v | v |
 | Periodic Safety Update Report | - | - | - | v | v | v |
 | NMPA Registration | - | - | - | v | v | v |
-| Team Accounts | - | - | - | 3 (add up to 5) | 10 (extra by agreement) | 10 (extra by agreement) |
+| Team Accounts | - | - | - | 3 (add up to 5; year-1 gift of 1) | 10 (extra by agreement) | 10 (extra by agreement) |
 | CRM Client Management | - | - | - | - | - | v |
 | Custom Model Selection | - | - | - | - | v | - |
 | Two-Factor Auth (2FA) | - | Required | Required | Required | Required | Required |
@@ -105,6 +105,15 @@ All paid plans support purchasing additional Credits:
 
 Top-up Credits do not expire and carry over across billing periods.
 
+### Bulk top-up packs (all paid plans)
+
+Small packs (20 Credits) still use the per-plan rates above. Bulk packs use a **unified rate** of about **¥1.30 / Credit** (USD $0.186 at 1:7). That is cheaper than the small pack, still higher than the annual-plan bundled rate, and is meant only for short bursts of extra usage — **not** as a substitute for upgrading or renewing.
+
+| Pack | USD | Approx. CNY | Unit rate |
+|------|----:|------------:|----------:|
+| **500 Credits** | $93 | ¥651 | ¥1.30 / Credit |
+| **2,000 Credits** | $372 | ¥2,604 | ¥1.30 / Credit |
+
 ### Translation Credits
 
 Translation tool uses a **separate billing** system, independent from monthly AI Credits:
@@ -127,9 +136,11 @@ You can purchase top-up Credits at any time. Top-up Credits don't expire.
 - **Activate immediately**: The new plan takes effect right away. Your current monthly credits will be reset to the new plan's allocation. Top-up credits carry over.
 - **At period end** (default): The new plan will activate automatically when your current billing period expires.
 
-**Annual plan upgrades**: Upgrades take effect at the end of the current annual billing period. Immediate activation is not available.
+**Annual plan upgrades**: Moving to a higher plan (for example Pro to Max) takes effect at the end of the current annual billing period. Immediate activation is not available.
 
-**Renewals**: Renewing the same plan (e.g. Basic to Basic) is not an upgrade and does not support immediate activation. The renewal takes effect when your current billing period expires.
+**Early renewal (same annual plan)**: Annual subscribers can pay the next year's **same-plan** fee before expiry. After payment, one year of plan Credits is added on top of the remaining balance (unused plan Credits are not forfeited), and the expiry date is extended by twelve months from the original end date. Each account may prepay at most one billing year; if more than twelve months remain, wait until remaining time is under twelve months. Early renewal is not an upgrade.
+
+**Renewals at expiry**: If you do not use early renewal, renewing the same plan takes effect when the current billing period expires.
 
 **Downgrades**: Regardless of billing period, downgrades take effect at the end of the current billing period.
 
@@ -139,7 +150,7 @@ All subscription fees are non-refundable once paid, regardless of monthly or ann
 
 ### How do team accounts work?
 
-Pro includes 3 seats and can add 2 more (hard cap 5); seats 4–5 are billed at the Starter same-period rate and do not add Credits. Max / CRO include 10 seats; extra seats are agreed in writing (not auto-priced, no extra Credits). Team members share the organization's credit pool. See [Extra team seats](#extra-team-seats).
+Pro includes 3 seats and can add 2 more (hard cap 5); seats 4–5 are billed at the Starter same-period rate and do not add Credits. **The first subscription year includes one complimentary extra seat** (total 4); from year 2, extra seats bill at Starter. Max / CRO include 10 seats; extra seats are agreed in writing (not auto-priced, no extra Credits). Team members share the organization's credit pool. See [Extra team seats](#extra-team-seats).
 
 ### Are Assistant and CRM two products? How are Credits billed?
 
