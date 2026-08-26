@@ -36,6 +36,28 @@ CDRH News
 
 ---
 
+### 日本PMDA二级召回：波士顿科学日本ImagerII血管造影导管（召回编号2-12935）
+
+**2026-08-25** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA已发布波士顿科学日本公司ImagerII中心循环系统血管造影导管的II级召回（召回编号2-12935），风险等级为中等。该通知涉及ImagerII血管造影导管。相关使用机构和经销商应查阅PMDA官方或公司召回通知，了解具体安全问题和所需措施，如退回、更换或检查。
+
+**标签**: `pmda_recall`, `class_ii`, `angiography_catheter`, `boston_scientific_japan`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12935)
+
+---
+
+### [Class II] (1)先端可動シースＡ(2)ＥＳダイレータ(3)ゼメックスＥＳダイレータ ((1)心臓用カテーテルイントロデューサキット、 (2)及び(3)カテーテル拡張器) - ゼオンメディカル株式会社
+
+**2026-08-25** | Japan PMDA | 安全通报 | !! MEDIUM
+
+Recall #2-12934: (1)心臓用カテーテルイントロデューサキット、 (2)及び(3)カテーテル拡張器 / (1)先端可動シースＡ(2)ＥＳダイレータ(3)ゼメックスＥＳダイレータ by ゼオンメディカル株式会社. Type: 医療機器.
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12934)
+
+---
+
 ### NGPod pH检测仪撤市：隔离并处置所有设备（DSI/2026/009）
 
 **2026-08-24** | UK MHRA | 安全通报 | !!! HIGH
@@ -81,6 +103,18 @@ MHRA发布了一份更新的清单，列出获得特殊使用授权的医疗器�
 **标签**: `mhra`, `exceptional_use_authorisation`, `medical_devices`
 
 [查看来源 (MHRA (UK))](https://www.gov.uk/government/publications/medical-devices-given-exceptional-use-authorisations)
+
+---
+
+### 日本PMDA发布贝克曼库尔特AU480全自动生化分析仪II类召回（第2-12932号）
+
+**2026-08-24** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA发布第2-12932号II类召回，涉及贝克曼库尔特株式会社生产的AU480分立式临床化学自动分析仪。该通知摘要未说明具体安全缺陷，但II类召回提示中等风险。相关机构应查阅PMDA/制造商通知并采取建议的纠正措施。
+
+**标签**: `pmda_recall`, `class_ii`, `clinical_chemistry_analyzer`, `beckman_coulter`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12932)
 
 ---
 

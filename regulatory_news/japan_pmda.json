@@ -1,7 +1,80 @@
 {
   "framework": "japan_pmda",
-  "last_updated": "2026-08-19T19:27:08Z",
+  "last_updated": "2026-08-26T21:41:08Z",
   "items": [
+    {
+      "id": "japan_pmda_20260826_pmda_class_ii_recall_boston_scientific_japan_imagerii_angiog",
+      "framework": "japan_pmda",
+      "category": "safety_communication",
+      "title": {
+        "en": "PMDA Class II Recall: Boston Scientific Japan ImagerII Angiography Catheter (Recall #2-12935)",
+        "zh": "日本PMDA二级召回：波士顿科学日本ImagerII血管造影导管（召回编号2-12935）"
+      },
+      "summary": {
+        "en": "Japan's PMDA has published a Class II recall (moderate risk) for the ImagerII catheter, a central circulatory angiography catheter marketed by Boston Scientific Japan K.K., under recall no. 2-12935. This notice affects the ImagerII angiography catheter. Affected users and distributors should consult the official PMDA or company recall notice for the specific safety issue and required actions, such as return, replacement, or inspection.",
+        "zh": "日本PMDA已发布波士顿科学日本公司ImagerII中心循环系统血管造影导管的II级召回（召回编号2-12935），风险等级为中等。该通知涉及ImagerII血管造影导管。相关使用机构和经销商应查阅PMDA官方或公司召回通知，了解具体安全问题和所需措施，如退回、更换或检查。"
+      },
+      "source_url": "https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12935",
+      "source_name": "PMDA (Japan)",
+      "published_date": "2026-08-25",
+      "detected_date": "2026-08-26T21:40:11Z",
+      "importance": "medium",
+      "tags": [
+        "pmda_recall",
+        "class_ii",
+        "angiography_catheter",
+        "boston_scientific_japan"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "japan_pmda_20260826_class_ii_1_2_3_1_2_3",
+      "framework": "japan_pmda",
+      "category": "safety_communication",
+      "title": {
+        "en": "[Class II] (1)先端可動シースＡ(2)ＥＳダイレータ(3)ゼメックスＥＳダイレータ ((1)心臓用カテーテルイントロデューサキット、 (2)及び(3)カテーテル拡張器) - ゼオンメディカル株式会社",
+        "zh": "[Class II] (1)先端可動シースＡ(2)ＥＳダイレータ(3)ゼメックスＥＳダイレータ ((1)心臓用カテーテルイントロデューサキット、 (2)及び(3)カテーテル拡張器) - ゼオンメディカル株式会社"
+      },
+      "summary": {
+        "en": "Recall #2-12934: (1)心臓用カテーテルイントロデューサキット、 (2)及び(3)カテーテル拡張器 / (1)先端可動シースＡ(2)ＥＳダイレータ(3)ゼメックスＥＳダイレータ by ゼオンメディカル株式会社. Type: 医療機器.",
+        "zh": "Recall #2-12934: (1)心臓用カテーテルイントロデューサキット、 (2)及び(3)カテーテル拡張器 / (1)先端可動シースＡ(2)ＥＳダイレータ(3)ゼメックスＥＳダイレータ by ゼオンメディカル株式会社. Type: 医療機器."
+      },
+      "source_url": "https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12934",
+      "source_name": "PMDA (Japan)",
+      "published_date": "2026-08-25",
+      "detected_date": "2026-08-26T21:40:43Z",
+      "importance": "medium",
+      "tags": [],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "japan_pmda_20260826_pmda_class_ii_recall_beckman_coulter_au480_discrete_clinical",
+      "framework": "japan_pmda",
+      "category": "safety_communication",
+      "title": {
+        "en": "PMDA Class II Recall: Beckman Coulter AU480 Discrete Clinical Chemistry Analyzer (Recall No. 2-12932)",
+        "zh": "日本PMDA发布贝克曼库尔特AU480全自动生化分析仪II类召回（第2-12932号）"
+      },
+      "summary": {
+        "en": "Japan's PMDA posted a Class II recall (No. 2-12932) for the Beckman Coulter AU480 discrete clinical chemistry autoanalyzer, manufactured by Beckman Coulter K.K. The provided notice does not specify the underlying safety defect; Class II indicates moderate risk. Affected users should review the official PMDA/manufacturer notice and follow recommended corrective actions.",
+        "zh": "日本PMDA发布第2-12932号II类召回，涉及贝克曼库尔特株式会社生产的AU480分立式临床化学自动分析仪。该通知摘要未说明具体安全缺陷，但II类召回提示中等风险。相关机构应查阅PMDA/制造商通知并采取建议的纠正措施。"
+      },
+      "source_url": "https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12932",
+      "source_name": "PMDA (Japan)",
+      "published_date": "2026-08-24",
+      "detected_date": "2026-08-26T21:41:08Z",
+      "importance": "medium",
+      "tags": [
+        "pmda_recall",
+        "class_ii",
+        "clinical_chemistry_analyzer",
+        "beckman_coulter"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
     {
       "id": "japan_pmda_20260819_class_ii",
       "framework": "japan_pmda",

@@ -6,6 +6,40 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### PMDA Class II Recall: Boston Scientific Japan ImagerII Angiography Catheter (Recall #2-12935)
+
+**2026-08-25** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Japan's PMDA has published a Class II recall (moderate risk) for the ImagerII catheter, a central circulatory angiography catheter marketed by Boston Scientific Japan K.K., under recall no. 2-12935. This notice affects the ImagerII angiography catheter. Affected users and distributors should consult the official PMDA or company recall notice for the specific safety issue and required actions, such as return, replacement, or inspection.
+
+**Tags**: `pmda_recall`, `class_ii`, `angiography_catheter`, `boston_scientific_japan`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12935)
+
+---
+
+### [Class II] (1)先端可動シースＡ(2)ＥＳダイレータ(3)ゼメックスＥＳダイレータ ((1)心臓用カテーテルイントロデューサキット、 (2)及び(3)カテーテル拡張器) - ゼオンメディカル株式会社
+
+**2026-08-25** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Recall #2-12934: (1)心臓用カテーテルイントロデューサキット、 (2)及び(3)カテーテル拡張器 / (1)先端可動シースＡ(2)ＥＳダイレータ(3)ゼメックスＥＳダイレータ by ゼオンメディカル株式会社. Type: 医療機器.
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12934)
+
+---
+
+### PMDA Class II Recall: Beckman Coulter AU480 Discrete Clinical Chemistry Analyzer (Recall No. 2-12932)
+
+**2026-08-24** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Japan's PMDA posted a Class II recall (No. 2-12932) for the Beckman Coulter AU480 discrete clinical chemistry autoanalyzer, manufactured by Beckman Coulter K.K. The provided notice does not specify the underlying safety defect; Class II indicates moderate risk. Affected users should review the official PMDA/manufacturer notice and follow recommended corrective actions.
+
+**Tags**: `pmda_recall`, `class_ii`, `clinical_chemistry_analyzer`, `beckman_coulter`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12932)
+
+---
+
 ### [Class II] ツインキュア (歯科技工用重合装置) - デンケン・ハイデンタル株式会社
 
 **2026-08-18** | Japan PMDA | Safety Communication | !! MEDIUM
