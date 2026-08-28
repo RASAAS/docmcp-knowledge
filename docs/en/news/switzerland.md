@@ -36,6 +36,166 @@ title: Regulatory News
 
 ## Latest Updates
 
+### Swissmedic FSCA for PTW-Freiburg VERIQA RT MonteCarlo 3D v3 Dosimeter Model S070031.520
+
+**2026-08-27** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has published a field safety corrective action (FSCA) concerning the PTW-Freiburg VERIQA RT MonteCarlo 3D v3 dosimeter, model S070031.520. The notice identifies the affected device as a dosimeter; the specific reason for the corrective action is not detailed in the Swissmedic entry. Users of this model should verify their inventory, consult PTW-Freiburg or the Swissmedic notice, and implement any required corrective measures.
+
+**Tags**: `swissmedic`, `fsca`, `dosimeter`, `ptw_freiburg`, `field_safety_corrective_action`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260812_036)
+
+---
+
+### Swissmedic FSCA for Philips Spectral CT Verida Full-Body CT System, Model 728345
+
+**2026-08-27** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has published a Field Safety Corrective Action (FSCA) for the Philips Medical Systems Nederland B.V. Spectral CT Verida full-body CT system, model 728345. The available entry does not specify the detailed reason for the corrective action, so affected users should consult the official Swissmedic notice and Philips communication for the specific hazard. Sites with this model should identify affected devices and implement the manufacturer's recommended corrective measures.
+
+**Tags**: `swissmedic`, `fsca`, `computed_tomography`, `philips`, `medical_device_safety`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260820_030)
+
+---
+
+### Swissmedic FSCA for Philips Spectral CT Plus China Full-Body CT System (Model 728344)
+
+**2026-08-27** | Swissmedic | Safety Communication | !!! HIGH
+
+This Swissmedic field safety corrective action concerns the Philips Medical Systems Nederland B.V. Spectral CT Plus China full-body CT system, model 728344. The available notice metadata does not specify the detailed reason or recommended actions. Affected facilities should review the official Swissmedic FSCA and the manufacturer’s field safety notice for required corrective measures.
+
+**Tags**: `swissmedic`, `fsca`, `ct_system`, `philips`, `medical_device_safety`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260820_030)
+
+---
+
+### Swissmedic FSCA: Philips Spectral CT Full-Body System Model 728333
+
+**2026-08-27** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic has issued a field safety corrective action (FSCA) for the Philips Medical Systems Nederland B.V. Spectral CT full-body CT system, model 728333. The specific reason for the corrective action was not provided in the available FSCA description. Affected users should consult the official Swissmedic notice and follow Philips' field safety instructions to ensure appropriate corrective measures are implemented.
+
+**Tags**: `swissmedic`, `fsca`, `philips`, `spectral_ct`, `full_body_ct`, `medical_device_safety`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260820_030)
+
+---
+
+### Spectral CT China - Philips Medical Systems Nederland B.V.
+
+**2026-08-27** | Swissmedic | Safety Communication | !! MEDIUM
+
+FSCA: MD: Full-body CT system. Reason: . Model: 728340.
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260820_030)
+
+---
+
+### Spectral CT 7600 - Philips Medical Systems Nederland B.V.
+
+**2026-08-27** | Swissmedic | Safety Communication | !! MEDIUM
+
+FSCA: MD: Full-body CT system. Reason: . Model: 728342.
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260820_030)
+
+---
+
+### Swissmedic FSCA for Philips Spectral CT Verida L4L, Model 728346
+
+**2026-08-27** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic has published a field safety corrective action for the Philips Medical Systems Nederland B.V. Spectral CT Verida L4L full-body CT system, model 728346. The specific reason for the corrective action is not detailed in the available notice summary; affected users should refer to the official Swissmedic FSCA and Philips guidance. Facilities with this model should verify whether their device is affected and implement any recommended corrective measures.
+
+**Tags**: `swissmedic`, `fsca`, `ct_system`, `philips`, `medical_device`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260820_030)
+
+---
+
+### Swissmedic FSCA: Aisys Anaesthesia Workstation by Datex-Ohmeda – Minor Updates, Model 1011-9000-000
+
+**2026-08-26** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has published a field safety corrective action (FSCA) for the Datex-Ohmeda Inc. Aisys general-purpose anaesthesia workstation, model 1011-9000-000. The corrective action is classified as minor updates to the device. Users of the affected model should review the Swissmedic FSCA notice and follow any manufacturer instructions for the update.
+
+**Tags**: `swissmedic`, `fsca`, `anesthesia_workstation`, `datex_ohmeda`, `medical_device_correction`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260825_019)
+
+---
+
+### Swissmedic FSCA: Datex-Ohmeda Aisys CS2 with Et Control – Minor Update, Model 1011-9055-000
+
+**2026-08-26** | Swissmedic | Safety Communication | !! MEDIUM
+
+This Swissmedic Field Safety Corrective Action covers the Datex-Ohmeda Aisys CS2 with Et Control anaesthesia workstation, model 1011-9055-000. The action is due to minor updates to the device. Affected users should review the FSCA and follow the manufacturer's instructions, including verification of device configuration and documentation updates.
+
+**Tags**: `swissmedic`, `fsca`, `anesthesia_workstation`, `product_correction`, `datex_ohmeda`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260825_019)
+
+---
+
+### Swissmedic FSCA: Datex-Ohmeda Aisys CS2 Anesthesia Workstation Minor Update (Model 1011-9050-000)
+
+**2026-08-26** | Swissmedic | Safety Communication | !! MEDIUM
+
+This Swissmedic Field Safety Corrective Action (FSCA) concerns the Datex-Ohmeda Aisys CS2 general-purpose anaesthesia workstation, model 1011-9050-000. The manufacturer is implementing minor updates as a corrective action. Facilities using the affected model should review the FSCA notice and follow the manufacturer's instructions for the update.
+
+**Tags**: `swissmedic`, `fsca`, `anesthesia_workstation`, `datex_ohmeda`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260825_019)
+
+---
+
+### IMAGER II Angiographic Catheter - Boston Scientific Coorpration
+
+**2026-08-26** | Swissmedic | Safety Communication | !! MEDIUM
+
+FSCA: MD: Angiographic catheter, single-use. Reason: . Model: See FSN; see FSN.
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260821_018)
+
+---
+
+### Swissmedic FSCA: Surgify Halo by Surgify Medical Oy – Check FSN for Affected Models
+
+**2026-08-25** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has published a Field Safety Corrective Action (FSCA) for the Surgify Halo, a single-use specialist surgical instrument/kit manufactured by Surgify Medical Oy. The public entry does not specify the corrective action reason; affected model(s) are listed in the Field Safety Notice (FSN). Users should review the FSN and follow the manufacturer’s recommended corrective actions.
+
+**Tags**: `swissmedic`, `fsca`, `surgical_instruments`, `field_safety_notice`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260819_030)
+
+---
+
+### Matoset Instrument - ToruÅskie ZakÅady MateriaÅÃ³w Opatrunkowych SA, Torunskie Zaklady Materialow Opatrunkowych S.A.
+
+**2026-08-24** | Swissmedic | Safety Communication | !! MEDIUM
+
+FSCA: MD: Specialist surgical instruments and kits not included in other classes, single-use - other. Reason: . Model: .
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260728_041)
+
+---
+
+### Swissmedic FSCA: Matoset Instrument (MA-291-PENS-005) - Toruńskie Zakłady Materiałów Opatrunkowych SA
+
+**2026-08-24** | Swissmedic | Safety Communication | !!! HIGH
+
+This Swissmedic Field Safety Corrective Action (FSCA) concerns the Matoset Instrument, manufactured by Toruńskie Zakłady Materiałów Opatrunkowych SA, a single-use specialist surgical instrument/kit with model/article MA-291-PENS-005. The published FSCA entry does not specify the detailed reason for the corrective action in its short description. Users and distributors should consult the official Swissmedic FSCA notice and the manufacturer's instructions, identify affected units, and implement any required corrective actions.
+
+**Tags**: `swissmedic`, `fsca`, `surgical_instruments`, `single_use`, `field_safety_corrective_action`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260728_041)
+
+---
+
 ### Stryker Endoscopy StrykeFlow PS Surgical Irrigation/Aspiration Pump – Swissmedic FSCA (Models 0250070540, 0250070530)
 
 **2026-08-21** | Swissmedic | Safety Communication | !! MEDIUM
@@ -1171,6 +1331,18 @@ Swissmedic has issued a Field Safety Corrective Action (FSCA) for Armstrong Medi
 **Tags**: `swissmedic`, `fsca`, `medical_device`, `labeling_correction`, `pediatric_resuscitation`, `apl_valve`
 
 [View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260526_032)
+
+---
+
+### Swissmedic FSCA: da Vinci 5 Surgical System Serial Number Update (Intuitive Surgical)
+
+**2026-05-12** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has published a field safety corrective action (FSCA) for the Intuitive Surgical da Vinci 5 Surgical System (model 380746), updating the list of affected serial numbers for this robot-assisted endoscopic surgery system. This is a product correction affecting specific serialized units; users should check the updated serial number information and follow instructions from Intuitive Surgical.
+
+**Tags**: `swissmedic`, `fsca`, `da_vinci_5`, `intuitive_surgical`, `robot_assisted_surgery`, `serial_number_update`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260506_006)
 
 ---
 

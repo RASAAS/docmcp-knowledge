@@ -36,6 +36,166 @@ title: 法规速递
 
 ## 最新动态
 
+### Swissmedic发布PTW VERIQA RT MonteCarlo 3D v3剂量仪FSCA
+
+**2026-08-27** | Swissmedic | 安全通报 | !! MEDIUM
+
+Swissmedic已发布涉及PTW-Freiburg公司VERIQA RT MonteCarlo 3D v3剂量仪（型号S070031.520）的现场安全纠正措施（FSCA）。该通知将受影响设备列为剂量仪，但瑞士药监局条目中未说明具体纠正原因。相关用户应核对库存、联系制造商或查阅通知，并落实要求的纠正措施。
+
+**标签**: `swissmedic`, `fsca`, `dosimeter`, `ptw_freiburg`, `field_safety_corrective_action`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260812_036)
+
+---
+
+### 瑞士medic发布飞利浦Spectral CT Verida全身CT系统FSCA（型号728345）
+
+**2026-08-27** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士medic发布了对飞利浦医疗荷兰公司Spectral CT Verida全身CT系统（型号728345）的现场安全纠正措施（FSCA）。目前条目未说明具体原因，受影响用户应查阅瑞士medic官方通知和飞利浦相关通告，了解具体风险。使用该型号设备的机构应核查受影响设备，并执行制造商建议的纠正措施。
+
+**标签**: `swissmedic`, `fsca`, `computed_tomography`, `philips`, `medical_device_safety`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260820_030)
+
+---
+
+### 瑞士药监局发布飞利浦Spectral CT Plus China全身CT系统FSCA（型号728344）
+
+**2026-08-27** | Swissmedic | 安全通报 | !!! HIGH
+
+该瑞士药监局现场安全纠正措施（FSCA）涉及飞利浦医疗系统荷兰公司生产的Spectral CT Plus China全身CT系统，型号728344。现有公告元数据未说明具体纠正原因和建议措施。受影响机构应查看瑞士药监局官方FSCA及制造商现场安全通知，以获取必要的纠正措施。
+
+**标签**: `swissmedic`, `fsca`, `ct_system`, `philips`, `medical_device_safety`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260820_030)
+
+---
+
+### 瑞士Swissmedic FSCA：飞利浦Spectral CT全身CT系统型号728333
+
+**2026-08-27** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士药品监督管理局（Swissmedic）发布了一项现场安全纠正措施（FSCA），涉及飞利浦医疗系统荷兰有限公司（Philips Medical Systems Nederland B.V.）的Spectral CT全身CT系统，型号为728333。现有信息中未说明此次纠正措施的具体原因。受影响用户应查阅Swissmedic官方公告和飞利浦发布的现场安全通知，并按照制造商的指导采取相应措施。
+
+**标签**: `swissmedic`, `fsca`, `philips`, `spectral_ct`, `full_body_ct`, `medical_device_safety`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260820_030)
+
+---
+
+### Spectral CT China - Philips Medical Systems Nederland B.V.
+
+**2026-08-27** | Swissmedic | 安全通报 | !! MEDIUM
+
+FSCA: MD: Full-body CT system. Reason: . Model: 728340.
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260820_030)
+
+---
+
+### Spectral CT 7600 - Philips Medical Systems Nederland B.V.
+
+**2026-08-27** | Swissmedic | 安全通报 | !! MEDIUM
+
+FSCA: MD: Full-body CT system. Reason: . Model: 728342.
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260820_030)
+
+---
+
+### 瑞士Swissmedic发布飞利浦Spectral CT Verida L4L型号728346现场安全纠正措施
+
+**2026-08-27** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士Swissmedic发布了一项针对Philips Medical Systems Nederland B.V. Spectral CT Verida L4L全身CT系统（型号728346）的现场安全纠正措施。现有摘要中未说明具体纠正原因，受影响用户应查阅Swissmedic官方FSCA和飞利浦的指导。使用该型号的机构应确认设备是否受影响并落实建议的纠正措施。
+
+**标签**: `swissmedic`, `fsca`, `ct_system`, `philips`, `medical_device`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260820_030)
+
+---
+
+### 瑞士药监局FSCA：Datex-Ohmeda Aisys麻醉工作站（型号1011-9000-000）微小更新
+
+**2026-08-26** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士药监局发布了一项针对 Datex-Ohmeda Inc. Aisys 通用麻醉工作站（型号 1011-9000-000）的现场安全纠正措施（FSCA）。该纠正措施涉及设备的轻微更新。相关型号的用户应查阅瑞士药监局 FSCA 通知并遵循制造商的更新指示。
+
+**标签**: `swissmedic`, `fsca`, `anesthesia_workstation`, `datex_ohmeda`, `medical_device_correction`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260825_019)
+
+---
+
+### 瑞士药监局FSCA：Datex-Ohmeda Aisys CS2麻醉工作站更新
+
+**2026-08-26** | Swissmedic | 安全通报 | !! MEDIUM
+
+本瑞士药监局FSCA涉及Datex-Ohmeda Inc.的Aisys CS2 with Et Control麻醉工作站，型号1011-9055-000。纠正原因为该设备的小幅更新。受影响用户应查阅本安全纠正通知，遵循制造商建议，确认设备配置并更新相关文件。
+
+**标签**: `swissmedic`, `fsca`, `anesthesia_workstation`, `product_correction`, `datex_ohmeda`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260825_019)
+
+---
+
+### 瑞士Swissmedic FSCA：Datex-Ohmeda Aisys CS2麻醉工作站轻微更新（型号1011-9050-000）
+
+**2026-08-26** | Swissmedic | 安全通报 | !! MEDIUM
+
+本瑞士Swissmedic现场安全纠正措施（FSCA）涉及Datex-Ohmeda Aisys CS2通用麻醉工作站，型号1011-9050-000。制造商正在实施轻微更新作为纠正措施。使用受影响型号的机构应查阅FSCA通知并遵循制造商的更新说明。
+
+**标签**: `swissmedic`, `fsca`, `anesthesia_workstation`, `datex_ohmeda`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260825_019)
+
+---
+
+### IMAGER II Angiographic Catheter - Boston Scientific Coorpration
+
+**2026-08-26** | Swissmedic | 安全通报 | !! MEDIUM
+
+FSCA: MD: Angiographic catheter, single-use. Reason: . Model: See FSN; see FSN.
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260821_018)
+
+---
+
+### 瑞士Swissmedic发布Surgify Medical Oy公司Surgify Halo手术器械FSCA
+
+**2026-08-25** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士Swissmedic发布针对Surgify Medical Oy公司Surgify Halo一次性专用手术器械/套件的现场安全纠正措施（FSCA）。该公开条目未列明具体原因，受影响型号见现场安全通告（FSN）。使用者应查阅FSN并遵循制造商建议的纠正措施。
+
+**标签**: `swissmedic`, `fsca`, `surgical_instruments`, `field_safety_notice`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260819_030)
+
+---
+
+### Matoset Instrument - ToruÅskie ZakÅady MateriaÅÃ³w Opatrunkowych SA, Torunskie Zaklady Materialow Opatrunkowych S.A.
+
+**2026-08-24** | Swissmedic | 安全通报 | !! MEDIUM
+
+FSCA: MD: Specialist surgical instruments and kits not included in other classes, single-use - other. Reason: . Model: .
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260728_041)
+
+---
+
+### 瑞士药监局FSCA：Toruńskie Zakłady Materiałów Opatrunkowych SA的Matoset器械（MA-291-PENS-005）
+
+**2026-08-24** | Swissmedic | 安全通报 | !!! HIGH
+
+本瑞士药监局现场安全纠正措施（FSCA）涉及Toruńskie Zakłady Materiałów Opatrunkowych SA生产的Matoset器械，该产品为一次性使用专科手术器械/套件，型号/货号为MA-291-PENS-005。瑞士药监局公布的条目未在简述中说明具体纠正原因。相关使用者和经销商应查阅官方FSCA通知及制造商说明，识别受影响产品并执行要求的纠正措施。
+
+**标签**: `swissmedic`, `fsca`, `surgical_instruments`, `single_use`, `field_safety_corrective_action`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260728_041)
+
+---
+
 ### Stryker StrykeFlow PS冲洗/抽吸泵瑞士Swissmedic FSCA（型号0250070540/0250070530）
 
 **2026-08-21** | Swissmedic | 安全通报 | !! MEDIUM
@@ -1171,6 +1331,18 @@ FSCA: MD: Adult and paediatric/neonatal pulmonary ventilators. Reason: . Model: 
 **标签**: `swissmedic`, `fsca`, `medical_device`, `labeling_correction`, `pediatric_resuscitation`, `apl_valve`
 
 [查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260526_032)
+
+---
+
+### 瑞士Swissmedic FSCA：直觉外科da Vinci 5手术系统序列号更新
+
+**2026-05-12** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士Swissmedic发布直觉外科 da Vinci 5 手术系统（型号380746）的现场安全纠正措施，更新受影响序列号清单。该措施涉及机器人辅助内镜手术系统的特定序列号范围，属于产品纠正；相关用户应核对更新后的序列号信息，并遵循直觉外科的后续指引。
+
+**标签**: `swissmedic`, `fsca`, `da_vinci_5`, `intuitive_surgical`, `robot_assisted_surgery`, `serial_number_update`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260506_006)
 
 ---
 
