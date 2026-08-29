@@ -1457,7 +1457,7 @@
   },
   "newzealand_medsafe/safety_comms": {
     "url": "https://medsafe.govt.nz/safety/SafetyCommunications.asp",
-    "last_checked": "2026-08-29T01:56:59.507547",
+    "last_checked": "2026-08-29T21:22:28.676149",
     "seen_ids": [
       "[Alert] Product \r\n\t\t\t\tAlert of Dexcom US G7 Sensors: Lots 1725204004 and 1725069002",
       "[Alert] Stop using Euky Bear \r\n\t\t\t\tWarm Steam Vaporiser â model number EBSV2013"
@@ -1485,24 +1485,24 @@
   },
   "mexico_cofepris/safety_alerts": {
     "url": "https://www.gob.mx/cofepris/acciones-y-programas/alertas-sanitarias-336947",
-    "last_checked": "2026-08-29T01:56:53.680668",
+    "last_checked": "2026-08-29T21:22:23.331779",
     "seen_titles": [
-      "Contesta nuestra encuesta de satisfacción.",
-      "COFEPRIS acata declaratoria de inconstitucionalidad emitida por la SCJN en materia de autoconsumo lúdico de cannabis y tetrahidrocannabinol",
-      "COFEPRIS realiza investigación en la planta empacadora de chiles jalapeños en Nuevo León",
-      "Imprime la página completa",
-      "En la investigación por Cyclospora cayetanensis, ni México ni EE.UU. han encontrado el parásito en lechugas de origen mexicano",
       "Riesgo de recolectar y consumir hongos silvestres",
-      "COFEPRIS publica Visor de Registros Sanitarios de Dispositivos Médicos"
+      "En la investigación por Cyclospora cayetanensis, ni México ni EE.UU. han encontrado el parásito en lechugas de origen mexicano",
+      "Imprime la página completa",
+      "COFEPRIS realiza investigación en la planta empacadora de chiles jalapeños en Nuevo León",
+      "Contesta nuestra encuesta de satisfacción.",
+      "COFEPRIS publica Visor de Registros Sanitarios de Dispositivos Médicos",
+      "COFEPRIS acata declaratoria de inconstitucionalidad emitida por la SCJN en materia de autoconsumo lúdico de cannabis y tetrahidrocannabinol"
     ]
   },
   "argentina_anmat/safety_alerts": {
     "url": "https://www.argentina.gob.ar/anmat/alertas",
-    "last_checked": "2026-08-29T01:56:54.939852",
+    "last_checked": "2026-08-29T21:22:24.518027",
     "seen_titles": [
       "10 de agosto de 2026ANMAT prohíbe una unidad del producto médico DERMATOSCOPIO marca FotoFinder",
-      "30 de junio de 2026ANMAT prohíbe un lote de un producto médico falsificado de la firma LINEDERM",
-      "20 de agosto de 2026ANMAT prohíbe un equipo médico de la marca ALMA LASERS SOPRANO ICE"
+      "20 de agosto de 2026ANMAT prohíbe un equipo médico de la marca ALMA LASERS SOPRANO ICE",
+      "30 de junio de 2026ANMAT prohíbe un lote de un producto médico falsificado de la firma LINEDERM"
     ]
   },
   "taiwan_tfda/safety_alerts": {
