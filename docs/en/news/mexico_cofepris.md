@@ -37,4 +37,12 @@ title: Regulatory News
 
 ## Latest Updates
 
-No recent updates available. Please check back later.
+### COFEPRIS publica Visor de Registros Sanitarios de Dispositivos Médicos
+
+**2026-08-29** | Mexico COFEPRIS | Safety Communication | !! MEDIUM
+
+COFEPRIS Alert: COFEPRIS publica Visor de Registros Sanitarios de Dispositivos Médicos
+
+[View Source (Official Source)](https://www.gob.mx/cofepris/articulos/cofepris-publica-visor-de-registros-sanitarios-de-dispositivos-medicos)
+
+---

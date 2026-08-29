@@ -6,6 +6,16 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### COFEPRIS publica Visor de Registros Sanitarios de Dispositivos Médicos
+
+**2026-08-29** | Mexico COFEPRIS | Safety Communication | !! MEDIUM
+
+COFEPRIS Alert: COFEPRIS publica Visor de Registros Sanitarios de Dispositivos Médicos
+
+[View Source (Official Source)](https://www.gob.mx/cofepris/articulos/cofepris-publica-visor-de-registros-sanitarios-de-dispositivos-medicos)
+
+---
+
 ### Swissmedic FSCA for PTW-Freiburg VERIQA RT MonteCarlo 3D v3 Dosimeter Model S070031.520
 
 **2026-08-27** | Swissmedic | Safety Communication | !! MEDIUM

@@ -37,4 +37,12 @@ title: 法规速递
 
 ## 最新动态
 
-暂无最新动态，请稍后查看。
+### COFEPRIS publica Visor de Registros Sanitarios de Dispositivos Médicos
+
+**2026-08-29** | Mexico COFEPRIS | 安全通报 | !! MEDIUM
+
+COFEPRIS Alert: COFEPRIS publica Visor de Registros Sanitarios de Dispositivos Médicos
+
+[查看来源 (Official Source)](https://www.gob.mx/cofepris/articulos/cofepris-publica-visor-de-registros-sanitarios-de-dispositivos-medicos)
+
+---

@@ -6,6 +6,16 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### COFEPRIS publica Visor de Registros Sanitarios de Dispositivos Médicos
+
+**2026-08-29** | Mexico COFEPRIS | 安全通报 | !! MEDIUM
+
+COFEPRIS Alert: COFEPRIS publica Visor de Registros Sanitarios de Dispositivos Médicos
+
+[查看来源 (Official Source)](https://www.gob.mx/cofepris/articulos/cofepris-publica-visor-de-registros-sanitarios-de-dispositivos-medicos)
+
+---
+
 ### Swissmedic发布PTW VERIQA RT MonteCarlo 3D v3剂量仪FSCA
 
 **2026-08-27** | Swissmedic | 安全通报 | !! MEDIUM

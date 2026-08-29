@@ -1,4 +1,26 @@
 {
-  "items": [],
-  "last_updated": "2026-07-03T14:00:00Z"
+  "items": [
+    {
+      "id": "mexico_cofepris_20260829_cofepris_publica_visor_de_registros_sanitarios_de_dispositiv",
+      "framework": "mexico_cofepris",
+      "category": "safety_communication",
+      "title": {
+        "en": "COFEPRIS publica Visor de Registros Sanitarios de Dispositivos Médicos",
+        "zh": "COFEPRIS publica Visor de Registros Sanitarios de Dispositivos Médicos"
+      },
+      "summary": {
+        "en": "COFEPRIS Alert: COFEPRIS publica Visor de Registros Sanitarios de Dispositivos Médicos",
+        "zh": "COFEPRIS Alert: COFEPRIS publica Visor de Registros Sanitarios de Dispositivos Médicos"
+      },
+      "source_url": "https://www.gob.mx/cofepris/articulos/cofepris-publica-visor-de-registros-sanitarios-de-dispositivos-medicos",
+      "source_name": "Official Source",
+      "published_date": "2026-08-29",
+      "detected_date": "2026-08-29T01:57:40Z",
+      "importance": "medium",
+      "tags": [],
+      "related_docs": [],
+      "status": "published"
+    }
+  ],
+  "last_updated": "2026-08-29T01:57:40Z"
 }
