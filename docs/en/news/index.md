@@ -6,6 +6,66 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### Health Canada Notice: Changes to Special Access Program Medical Device Application Process
+
+**2026-08-31** | Health Canada | Regulation Update | !! MEDIUM
+
+Health Canada has issued a notice describing new changes to the application process for the Special Access Program (SAP) for medical devices. The changes affect manufacturers, importers, and health care practitioners seeking access to unlicensed medical devices for emergency or special needs. Applicants should review the updated requirements and adjust their submissions to the revised process to avoid delays or non-compliance.
+
+**Tags**: `health_canada`, `special_access_program`, `medical_devices`, `application_process`, `regulatory_change`
+
+[View Source (Health Canada)](https://www.canada.ca/en/health-canada/services/drugs-health-products/special-access/medical-devices/changes-application-process-notice.html)
+
+---
+
+### Health Canada Guidance on the Regulatory Enrolment Process for Medical Devices
+
+**2026-08-31** | Health Canada | Regulation Update | !! MEDIUM
+
+Health Canada has issued guidance outlining the regulatory enrolment process for medical devices. The document covers procedural steps, application format, data requirements, and submission expectations for enrolling devices with Health Canada. Medical device manufacturers, sponsors, and regulatory affairs professionals planning to market devices in Canada should review the guidance and align their submissions accordingly. Key actions include confirming the applicable enrolment pathway and ensuring the required information is complete and compliant.
+
+**Tags**: `health_canada`, `medical_device_registration`, `regulatory_enrolment`
+
+[View Source (Health Canada)](https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/application-information/guidance-documents/regulatory-enrolment-process.html)
+
+---
+
+### Health Canada Mandates Regulatory Enrolment Process for Medical Devices
+
+**2026-08-31** | Health Canada | Regulation Update | !!! HIGH
+
+Health Canada has issued a notice to industry announcing that use of the Regulatory Enrolment Process (REP) is now mandatory for medical devices. Medical device manufacturers, importers, and other regulatory stakeholders must use this process for applicable regulatory submissions and transactions. This change introduces a mandatory enrolment step to streamline and standardize medical device regulatory activities. Stakeholders should review the notice and update their submission procedures accordingly.
+
+**Tags**: `health_canada`, `medical_devices`, `regulatory_enrolment_process`
+
+[View Source (Health Canada)](https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/activities/announcements/mandatory-use-regulatory-enrolment-process-notice-to-industry.html)
+
+---
+
+### Health Canada Guidance: New Medical Device Licence or Amendment Application for Private Label Devices
+
+**2026-08-31** | Health Canada | Regulation Update | !! MEDIUM
+
+Health Canada has issued guidance on completing applications for a new medical device licence or an amendment for private label medical devices. It is intended for manufacturers, private labelers, and importers/distributors who need to submit or amend a private label medical device licence. The document outlines required information, application steps, and supporting documentation. Affected parties should review the guidance before preparing submissions to Health Canada.
+
+**Tags**: `private_label`, `medical_device_licence`, `guidance_document`, `health_canada`
+
+[View Source (Health Canada)](https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/application-information/guidance-documents/application-new-licence-amendment-private-label.html)
+
+---
+
+### Health Canada Guidance: Completing Applications for New or Amended Medical Device Licences
+
+**2026-08-31** | Health Canada | Regulation Update | !! MEDIUM
+
+This Health Canada guidance explains how to complete the application form for a new or amended medical device licence under the Medical Devices Regulations. It applies to manufacturers, importers, and regulatory affairs professionals preparing Class II, III, or IV device licence submissions. Affected parties should review the updated instructions carefully to ensure complete, accurate applications and help prevent processing delays.
+
+**Tags**: `health_canada`, `medical_device_licence`, `regulatory_submission`, `guidance`
+
+[View Source (Health Canada)](https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/application-information/guidance-documents/application-new-amended-licence.html)
+
+---
+
 ### COFEPRIS publica Visor de Registros Sanitarios de Dispositivos Médicos
 
 **2026-08-29** | Mexico COFEPRIS | Safety Communication | !! MEDIUM
@@ -13,6 +73,66 @@ title: Regulatory News
 COFEPRIS Alert: COFEPRIS publica Visor de Registros Sanitarios de Dispositivos Médicos
 
 [View Source (Official Source)](https://www.gob.mx/cofepris/articulos/cofepris-publica-visor-de-registros-sanitarios-de-dispositivos-medicos)
+
+---
+
+### MHRA Decision: Updated Medical Device Exceptional Use Authorisations List
+
+**2026-08-28** | UK MHRA | Regulation Update | !! MEDIUM
+
+The MHRA has published an updated list of manufacturers and medical devices granted exceptional use authorisations, also identifying authorisations that have expired or been cancelled. Manufacturers and suppliers should review the list to confirm the current status of any affected devices and ensure continued compliance with UK medical device regulations.
+
+**Tags**: `mhra`, `exceptional_use_authorisation`, `medical_device_compliance`
+
+[View Source (MHRA (UK))](https://www.gov.uk/government/publications/medical-devices-given-exceptional-use-authorisations)
+
+---
+
+### Health Canada Alert: Carestation 850 Anesthesia Workstation Performance Recall
+
+**2026-08-28** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has published a recall/safety alert for the Carestation 850 anesthesia workstation due to a performance issue. Healthcare facilities using this device should verify whether their units are affected and follow the manufacturer’s corrective actions. Users should monitor device performance and report any malfunctions to the manufacturer and relevant regulatory authorities.
+
+**Tags**: `medical_device_recall`, `anesthesia_workstation`, `performance_issue`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/carestation-850)
+
+---
+
+### Health Canada Alert: pro+ Flat Deck Wide W/O X-Ray Device Compatibility Recall
+
+**2026-08-27** | Health Canada | Safety Communication | !!! HIGH
+
+This Health Canada safety alert addresses a device compatibility issue involving the pro+ Flat Deck Wide W/O X-Ray. Affected users and healthcare facilities should verify whether their device configuration is compatible with the intended use and review manufacturer communications. Discontinue use of incompatible combinations and contact the manufacturer or Health Canada for guidance.
+
+**Tags**: `health_canada`, `medical_device_recall`, `device_compatibility`, `safety_alert`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/pro-flat-deck-wide-wo-x-ray)
+
+---
+
+### Health Canada Recalls Cardinal Health Gynaecology Robotics and Endoscopy Packs Over Performance Issue
+
+**2026-08-27** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a medical device recall/alert for Cardinal Health Gynaecology Robotics and Endoscopy Packs due to a performance issue. Healthcare facilities using these packs for gynaecological robotic or endoscopic procedures are affected. Users should identify and quarantine affected lots, stop use, and follow Cardinal Health's recall instructions. Regulatory affairs teams should verify inventory and document field action responses.
+
+**Tags**: `medical_device_recall`, `health_canada`, `gynecology_endoscopy_packs`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/cardinal-health-gynaecology-robotics-and-endoscopy-packs)
+
+---
+
+### Health Canada Safety Alert: Automated Impella Controller (AIC) Performance Issue
+
+**2026-08-27** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has published a medical device alert/recall for the Automated Impella Controller (AIC) related to a performance issue. Healthcare facilities and professionals using this controller with Impella heart pumps are affected. Affected users should review the Health Canada notice and follow the manufacturer's recommended actions, including monitoring and contacting the manufacturer if needed.
+
+**Tags**: `medical_device_recall`, `cardiac_assist_device`, `safety_alert`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/automated-impella-controller-aic)
 
 ---
 
@@ -96,6 +216,78 @@ Swissmedic has published a field safety corrective action for the Philips Medica
 
 ---
 
+### MHRA alert: cobalt-chrome modular neck hip replacements risk metal-wear and revision surgery (DSI/2026/010)
+
+**2026-08-26** | UK MHRA | Safety Communication | !!! HIGH
+
+The MHRA has issued a Device Safety Information (DSI/2026/010) following an investigation that found increased risks of wear and corrosion with multiple cobalt-chrome modular neck hip stem components, potentially leading to more revision surgeries. The alert affects clinicians managing patients with these implants and may require enhanced follow-up and patient communication. Healthcare professionals should review the MHRA’s recommendations and report relevant adverse events via the Yellow Card scheme.
+
+**Tags**: `mhra_safety_alert`, `cobalt_chrome`, `modular_neck_hip_replacement`, `metal_wear`, `revision_surgery`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/cobalt-chrome-modular-neck-hip-replacements-risk-of-metal-wear-effects-and-revision-surgery-dsi-slash-2026-slash-010)
+
+---
+
+### Maquet Percutaneous Insertion Kit and Dilator Sets Recalled Due to Sterility Issue
+
+**2026-08-26** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a recall/alert for Maquet Percutaneous Insertion Kit and Dilator Sets due to sterility concerns that may compromise product sterility and pose an infection risk. Healthcare facilities using these kits and dilator sets should immediately identify and quarantine affected lots, discontinue use, and follow the manufacturer's recall instructions. Regulatory affairs professionals should verify distribution and implement corrective actions in accordance with the Canadian alert.
+
+**Tags**: `medical_device_recall`, `sterility`, `health_canada`, `infection_risk`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/maquet-percutaneous-insertion-kit-and-dilator-sets)
+
+---
+
+### Health Canada Recall: Cyanosure DermaV Laser System Performance Issue
+
+**2026-08-26** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a medical device recall/alert for the Cyanosure DermaV Laser System due to a performance issue. This affects Canadian healthcare facilities and practitioners that own or operate the device. Affected users should immediately consult the Health Canada notice, follow any manufacturer corrective actions, and report device-related adverse events to Health Canada.
+
+**Tags**: `medical_device_recall`, `laser_system`, `health_canada`, `performance_issue`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/cyanosure-dermav-laser-system)
+
+---
+
+### Health Canada Recall: Med-Rx Medication/Primary Solution Administration Kit Performance Issue
+
+**2026-08-26** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has published a medical device recall alert for the Med-Rx Medication/Primary Solution Administration Kit due to performance issues. Healthcare institutions and providers using this kit should immediately check affected lot(s) and follow recall instructions. Patients may be impacted if the kit fails during medication or solution administration, so affected products should be quarantined and returned or replaced as directed.
+
+**Tags**: `medical_device_recall`, `performance_issue`, `health_canada`, `infusion_kit`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/med-rx-medicationprimary-solution-administration-kit-2)
+
+---
+
+### Health Canada Recalls BIOFIRE® Joint Infection Panel – 30 Pack for Performance Issue
+
+**2026-08-26** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has published a recall/alert for the BIOFIRE® Joint Infection Panel – 30 Pack due to a performance issue. The alert affects laboratories and healthcare facilities using this multiplex PCR panel for joint infection testing. Users should identify affected lots, follow the manufacturer’s recall instructions, and monitor for potential inaccurate results or report incidents as appropriate.
+
+**Tags**: `health_canada`, `ivd_recall`, `performance_issue`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/biofirer-joint-infection-panel-30-pack)
+
+---
+
+### Health Canada recalls GE CARESCAPE Central Station over performance issue
+
+**2026-08-26** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a recall/alert for the GE HealthCare CARESCAPE Central Station due to a performance issue that may affect device functionality. Healthcare facilities using this central monitoring station should review the recall notice, identify affected units, and contact GE HealthCare for corrective action. The issue may impact patient monitoring workflows, so risk assessments and interim mitigations should be implemented as needed.
+
+**Tags**: `medical_device_recall`, `health_canada`, `patient_monitoring`, `performance_issue`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/carescape-central-station-1)
+
+---
+
 ### Swissmedic FSCA: Aisys Anaesthesia Workstation by Datex-Ohmeda – Minor Updates, Model 1011-9000-000
 
 **2026-08-26** | Swissmedic | Safety Communication | !! MEDIUM
@@ -169,6 +361,30 @@ CDRH News
 CDRH News
 
 [View Source (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-recall-medline-issues-correction-convenience-kits-containing-b-braun-bupivacaine)
+
+---
+
+### MHRA Safety Roundup: August 2026 – Latest Medicines and Medical Device Safety Advice
+
+**2026-08-25** | UK MHRA | Safety Communication | !! MEDIUM
+
+This item is the UK MHRA Safety Roundup for August 2026, summarizing the latest safety advice for medicines and medical device users. It is relevant to healthcare professionals, patients, and device users in the UK. Readers should review the roundup and any linked Drug Device Alerts to identify required actions such as updated usage precautions, recalls, or adverse event reporting.
+
+**Tags**: `uk_mhra`, `safety_roundup`, `medical_devices`, `medicines_safety`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/mhra-safety-roundup-august-2026)
+
+---
+
+### Health Canada Recalls Dräger VentStar Resus Neo and VentStar Resuscitaire for Performance Issue
+
+**2026-08-25** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has published a medical device recall alert for Dräger VentStar® Resus Neo and VentStar® Resuscitaire due to a performance issue. These neonatal resuscitation devices may not perform as intended during respiratory support. Healthcare facilities should identify affected products, quarantine them per the manufacturer's field safety notice, and contact Dräger for corrective action.
+
+**Tags**: `medical_device_recall`, `neonatal_resuscitation`, `performance_issue`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/drager-ventstarr-resus-neo-and-ventstarr-resuscitaire)
 
 ---
 

@@ -6,6 +6,42 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### MHRA决定：更新医疗器械特殊使用授权清单
+
+**2026-08-28** | UK MHRA | 法规更新 | !! MEDIUM
+
+MHRA已发布最新清单，列出获得特殊使用授权的制造商及其医疗器械，并标明已到期或被取消的授权。相关制造商和供应商应核对清单，确认受影响器械的当前授权状态，并确保持续符合英国医疗器械法规要求。
+
+**标签**: `mhra`, `exceptional_use_authorisation`, `medical_device_compliance`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/government/publications/medical-devices-given-exceptional-use-authorisations)
+
+---
+
+### MHRA警示：钴铬模块颈髋关节置换物金属磨损与翻修手术风险（DSI/2026/010）
+
+**2026-08-26** | UK MHRA | 安全通报 | !!! HIGH
+
+MHRA发布器械安全信息（DSI/2026/010），调查发现多个钴铬模块颈髋关节柄组件存在磨损和腐蚀风险升高，可能导致翻修手术增加。该警示影响相关植入物的患者管理和随访，需加强监测与患者沟通。医务人员应遵循MHRA建议，并通过黄卡系统报告相关不良事件。
+
+**标签**: `mhra_safety_alert`, `cobalt_chrome`, `modular_neck_hip_replacement`, `metal_wear`, `revision_surgery`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/cobalt-chrome-modular-neck-hip-replacements-risk-of-metal-wear-effects-and-revision-surgery-dsi-slash-2026-slash-010)
+
+---
+
+### MHRA安全综述：2026年8月
+
+**2026-08-25** | UK MHRA | 安全通报 | !! MEDIUM
+
+该条目为英国MHRA发布的2026年8月安全综述，汇总了针对药品和医疗器械用户的最新安全建议。面向英国的医疗专业人员、患者和设备使用者。相关方应查阅本综述及其链接的药品/器械警报，以了解使用警示、召回或不良事件报告等需采取的行动。
+
+**标签**: `uk_mhra`, `safety_roundup`, `medical_devices`, `medicines_safety`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/mhra-safety-roundup-august-2026)
+
+---
+
 ### NGPod pH检测仪撤市：隔离并处置所有设备（DSI/2026/009）
 
 **2026-08-24** | UK MHRA | 安全通报 | !!! HIGH

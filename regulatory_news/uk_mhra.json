@@ -1,7 +1,85 @@
 {
   "framework": "uk_mhra",
-  "last_updated": "2026-08-24T19:38:52Z",
+  "last_updated": "2026-08-31T23:21:10Z",
   "items": [
+    {
+      "id": "uk_mhra_20260831_mhra_decision_updated_medical_device_exceptional_use_authori",
+      "framework": "uk_mhra",
+      "category": "regulation_update",
+      "title": {
+        "en": "MHRA Decision: Updated Medical Device Exceptional Use Authorisations List",
+        "zh": "MHRA决定：更新医疗器械特殊使用授权清单"
+      },
+      "summary": {
+        "en": "The MHRA has published an updated list of manufacturers and medical devices granted exceptional use authorisations, also identifying authorisations that have expired or been cancelled. Manufacturers and suppliers should review the list to confirm the current status of any affected devices and ensure continued compliance with UK medical device regulations.",
+        "zh": "MHRA已发布最新清单，列出获得特殊使用授权的制造商及其医疗器械，并标明已到期或被取消的授权。相关制造商和供应商应核对清单，确认受影响器械的当前授权状态，并确保持续符合英国医疗器械法规要求。"
+      },
+      "source_url": "https://www.gov.uk/government/publications/medical-devices-given-exceptional-use-authorisations",
+      "source_name": "MHRA (UK)",
+      "published_date": "2026-08-28",
+      "detected_date": "2026-08-31T23:16:05Z",
+      "importance": "medium",
+      "tags": [
+        "mhra",
+        "exceptional_use_authorisation",
+        "medical_device_compliance"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "uk_mhra_20260831_mhra_alert_cobalt_chrome_modular_neck_hip_replacements_risk",
+      "framework": "uk_mhra",
+      "category": "safety_communication",
+      "title": {
+        "en": "MHRA alert: cobalt-chrome modular neck hip replacements risk metal-wear and revision surgery (DSI/2026/010)",
+        "zh": "MHRA警示：钴铬模块颈髋关节置换物金属磨损与翻修手术风险（DSI/2026/010）"
+      },
+      "summary": {
+        "en": "The MHRA has issued a Device Safety Information (DSI/2026/010) following an investigation that found increased risks of wear and corrosion with multiple cobalt-chrome modular neck hip stem components, potentially leading to more revision surgeries. The alert affects clinicians managing patients with these implants and may require enhanced follow-up and patient communication. Healthcare professionals should review the MHRA’s recommendations and report relevant adverse events via the Yellow Card scheme.",
+        "zh": "MHRA发布器械安全信息（DSI/2026/010），调查发现多个钴铬模块颈髋关节柄组件存在磨损和腐蚀风险升高，可能导致翻修手术增加。该警示影响相关植入物的患者管理和随访，需加强监测与患者沟通。医务人员应遵循MHRA建议，并通过黄卡系统报告相关不良事件。"
+      },
+      "source_url": "https://www.gov.uk/drug-device-alerts/cobalt-chrome-modular-neck-hip-replacements-risk-of-metal-wear-effects-and-revision-surgery-dsi-slash-2026-slash-010",
+      "source_name": "MHRA (UK)",
+      "published_date": "2026-08-26",
+      "detected_date": "2026-08-31T23:15:32Z",
+      "importance": "high",
+      "tags": [
+        "mhra_safety_alert",
+        "cobalt_chrome",
+        "modular_neck_hip_replacement",
+        "metal_wear",
+        "revision_surgery"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "uk_mhra_20260831_mhra_safety_roundup_august_2026_latest_medicines_and_medical",
+      "framework": "uk_mhra",
+      "category": "safety_communication",
+      "title": {
+        "en": "MHRA Safety Roundup: August 2026 – Latest Medicines and Medical Device Safety Advice",
+        "zh": "MHRA安全综述：2026年8月"
+      },
+      "summary": {
+        "en": "This item is the UK MHRA Safety Roundup for August 2026, summarizing the latest safety advice for medicines and medical device users. It is relevant to healthcare professionals, patients, and device users in the UK. Readers should review the roundup and any linked Drug Device Alerts to identify required actions such as updated usage precautions, recalls, or adverse event reporting.",
+        "zh": "该条目为英国MHRA发布的2026年8月安全综述，汇总了针对药品和医疗器械用户的最新安全建议。面向英国的医疗专业人员、患者和设备使用者。相关方应查阅本综述及其链接的药品/器械警报，以了解使用警示、召回或不良事件报告等需采取的行动。"
+      },
+      "source_url": "https://www.gov.uk/drug-device-alerts/mhra-safety-roundup-august-2026",
+      "source_name": "MHRA (UK)",
+      "published_date": "2026-08-25",
+      "detected_date": "2026-08-31T23:15:49Z",
+      "importance": "medium",
+      "tags": [
+        "uk_mhra",
+        "safety_roundup",
+        "medical_devices",
+        "medicines_safety"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
     {
       "id": "uk_mhra_20260824_ngpod_ph_testing_device_withdrawn_quarantine_and_dispose_of",
       "framework": "uk_mhra",

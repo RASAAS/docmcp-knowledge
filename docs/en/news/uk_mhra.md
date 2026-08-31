@@ -6,6 +6,42 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### MHRA Decision: Updated Medical Device Exceptional Use Authorisations List
+
+**2026-08-28** | UK MHRA | Regulation Update | !! MEDIUM
+
+The MHRA has published an updated list of manufacturers and medical devices granted exceptional use authorisations, also identifying authorisations that have expired or been cancelled. Manufacturers and suppliers should review the list to confirm the current status of any affected devices and ensure continued compliance with UK medical device regulations.
+
+**Tags**: `mhra`, `exceptional_use_authorisation`, `medical_device_compliance`
+
+[View Source (MHRA (UK))](https://www.gov.uk/government/publications/medical-devices-given-exceptional-use-authorisations)
+
+---
+
+### MHRA alert: cobalt-chrome modular neck hip replacements risk metal-wear and revision surgery (DSI/2026/010)
+
+**2026-08-26** | UK MHRA | Safety Communication | !!! HIGH
+
+The MHRA has issued a Device Safety Information (DSI/2026/010) following an investigation that found increased risks of wear and corrosion with multiple cobalt-chrome modular neck hip stem components, potentially leading to more revision surgeries. The alert affects clinicians managing patients with these implants and may require enhanced follow-up and patient communication. Healthcare professionals should review the MHRA’s recommendations and report relevant adverse events via the Yellow Card scheme.
+
+**Tags**: `mhra_safety_alert`, `cobalt_chrome`, `modular_neck_hip_replacement`, `metal_wear`, `revision_surgery`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/cobalt-chrome-modular-neck-hip-replacements-risk-of-metal-wear-effects-and-revision-surgery-dsi-slash-2026-slash-010)
+
+---
+
+### MHRA Safety Roundup: August 2026 – Latest Medicines and Medical Device Safety Advice
+
+**2026-08-25** | UK MHRA | Safety Communication | !! MEDIUM
+
+This item is the UK MHRA Safety Roundup for August 2026, summarizing the latest safety advice for medicines and medical device users. It is relevant to healthcare professionals, patients, and device users in the UK. Readers should review the roundup and any linked Drug Device Alerts to identify required actions such as updated usage precautions, recalls, or adverse event reporting.
+
+**Tags**: `uk_mhra`, `safety_roundup`, `medical_devices`, `medicines_safety`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/mhra-safety-roundup-august-2026)
+
+---
+
 ### NGPod pH Testing Device Withdrawn: Quarantine and Dispose of All Devices (DSI/2026/009)
 
 **2026-08-24** | UK MHRA | Safety Communication | !!! HIGH

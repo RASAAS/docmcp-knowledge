@@ -6,6 +6,66 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### 加拿大卫生部：医疗器械特别准入计划申请流程变更通知
+
+**2026-08-31** | Health Canada | 法规更新 | !! MEDIUM
+
+加拿大卫生部发布通知，说明医疗器械特别准入计划（SAP）申请流程的新变更。该变更影响为紧急或特殊用途申请未获许可医疗器械的制造商、进口商和医疗保健专业人员。相关申请人应查看更新后的要求，并按新流程调整提交材料，以避免延误或不合规。
+
+**标签**: `health_canada`, `special_access_program`, `medical_devices`, `application_process`, `regulatory_change`
+
+[查看来源 (Health Canada)](https://www.canada.ca/en/health-canada/services/drugs-health-products/special-access/medical-devices/changes-application-process-notice.html)
+
+---
+
+### 加拿大卫生部医疗器械监管注册流程指南
+
+**2026-08-31** | Health Canada | 法规更新 | !! MEDIUM
+
+加拿大卫生部发布了关于医疗器械监管注册流程的指南文件。该文件说明了向加拿大卫生部提交医疗器械注册的程序步骤、申请格式、数据要求和提交规范。计划在加拿大市场销售器械的制造商、申办方和法规事务人员应审查该指南并相应调整注册提交。关键行动包括确认适用的注册路径，并确保所需信息完整、合规。
+
+**标签**: `health_canada`, `medical_device_registration`, `regulatory_enrolment`
+
+[查看来源 (Health Canada)](https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/application-information/guidance-documents/regulatory-enrolment-process.html)
+
+---
+
+### 加拿大卫生部强制实施医疗器械监管注册流程
+
+**2026-08-31** | Health Canada | 法规更新 | !!! HIGH
+
+加拿大卫生部发布行业通知，宣布对医疗器械强制实施监管注册流程（REP）。医疗器械制造商、进口商及其他监管事务方必须在适用的监管提交和事务中使用该流程。此变更旨在通过强制性注册步骤，规范和简化医疗器械监管活动。相关方应查阅该通知并相应更新提交流程。
+
+**标签**: `health_canada`, `medical_devices`, `regulatory_enrolment_process`
+
+[查看来源 (Health Canada)](https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/activities/announcements/mandatory-use-regulatory-enrolment-process-notice-to-industry.html)
+
+---
+
+### 加拿大卫生部：私有标签医疗器械许可证新申请或修订填写指南
+
+**2026-08-31** | Health Canada | 法规更新 | !! MEDIUM
+
+加拿大卫生部发布了关于如何填写私有标签医疗器械新许可证申请或修订申请的指南。该指南适用于需要提交或修订私有标签医疗器械许可证的制造商、私有标签方或进口商/分销商。指南说明了填写申请表和准备支持文件所需的资料和步骤。相关方应在向加拿大卫生部提交申请前查阅该指南。
+
+**标签**: `private_label`, `medical_device_licence`, `guidance_document`, `health_canada`
+
+[查看来源 (Health Canada)](https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/application-information/guidance-documents/application-new-licence-amendment-private-label.html)
+
+---
+
+### 加拿大卫生部医疗器械许可证新申请或变更申请填写指南
+
+**2026-08-31** | Health Canada | 法规更新 | !! MEDIUM
+
+本指南由加拿大卫生部发布，说明如何填写医疗器械许可证新申请或变更申请表。适用于准备II、III、IV类器械许可证申请的制造商、进口商和法规事务人员。相关方应仔细查阅更新后的填写说明，以确保申请完整准确，避免审批延误。
+
+**标签**: `health_canada`, `medical_device_licence`, `regulatory_submission`, `guidance`
+
+[查看来源 (Health Canada)](https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/application-information/guidance-documents/application-new-amended-licence.html)
+
+---
+
 ### COFEPRIS publica Visor de Registros Sanitarios de Dispositivos Médicos
 
 **2026-08-29** | Mexico COFEPRIS | 安全通报 | !! MEDIUM
@@ -13,6 +73,66 @@ title: 法规速递
 COFEPRIS Alert: COFEPRIS publica Visor de Registros Sanitarios de Dispositivos Médicos
 
 [查看来源 (Official Source)](https://www.gob.mx/cofepris/articulos/cofepris-publica-visor-de-registros-sanitarios-de-dispositivos-medicos)
+
+---
+
+### MHRA决定：更新医疗器械特殊使用授权清单
+
+**2026-08-28** | UK MHRA | 法规更新 | !! MEDIUM
+
+MHRA已发布最新清单，列出获得特殊使用授权的制造商及其医疗器械，并标明已到期或被取消的授权。相关制造商和供应商应核对清单，确认受影响器械的当前授权状态，并确保持续符合英国医疗器械法规要求。
+
+**标签**: `mhra`, `exceptional_use_authorisation`, `medical_device_compliance`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/government/publications/medical-devices-given-exceptional-use-authorisations)
+
+---
+
+### 加拿大卫生部警示：Carestation 850 麻醉工作站性能召回
+
+**2026-08-28** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已针对 Carestation 850 麻醉工作站发布召回/安全警示，原因是性能问题。使用该设备的医疗机构应核对受影响序列号，并遵循制造商纠正措施。建议加强设备性能监测，并向制造商及监管部门报告相关故障。
+
+**标签**: `medical_device_recall`, `anesthesia_workstation`, `performance_issue`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/carestation-850)
+
+---
+
+### 加拿大卫生部警示：pro+ Flat Deck Wide W/O X-Ray 设备兼容性问题
+
+**2026-08-27** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部发布安全警示，涉及 pro+ Flat Deck Wide W/O X-Ray 设备的兼容性问题。受影响用户和医疗机构应核对设备配置与预期用途的兼容性，并关注制造商通知。必要措施包括停止使用不兼容组合，并联系制造商或加拿大卫生部获取指导。
+
+**标签**: `health_canada`, `medical_device_recall`, `device_compatibility`, `safety_alert`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/pro-flat-deck-wide-wo-x-ray)
+
+---
+
+### 加拿大卫生部召回 Cardinal Health 妇科机器人与内窥镜手术包（性能问题）
+
+**2026-08-27** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已就 Cardinal Health 妇科机器人与内窥镜手术包发布医疗器械召回/警示，原因是产品存在性能问题。受影响的是使用这些手术包进行妇科机器人或内窥镜手术的医疗机构。相关用户应识别并隔离受影响批次，停止使用，并遵循 Cardinal Health 的召回指示。法规事务人员应核查库存并记录现场行动响应。
+
+**标签**: `medical_device_recall`, `health_canada`, `gynecology_endoscopy_packs`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/cardinal-health-gynaecology-robotics-and-endoscopy-packs)
+
+---
+
+### 加拿大卫生部发布Automated Impella Controller (AIC)性能安全警报
+
+**2026-08-27** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部发布了关于Automated Impella Controller (AIC)性能问题的医疗器械警报/召回。使用该控制器配合Impella心脏泵的医疗机构和医护人员受到影响。相关用户应查看加拿大卫生部通知，并遵循制造商建议的措施，包括监测设备并在必要时联系制造商。
+
+**标签**: `medical_device_recall`, `cardiac_assist_device`, `safety_alert`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/automated-impella-controller-aic)
 
 ---
 
@@ -96,6 +216,78 @@ FSCA: MD: Full-body CT system. Reason: . Model: 728342.
 
 ---
 
+### MHRA警示：钴铬模块颈髋关节置换物金属磨损与翻修手术风险（DSI/2026/010）
+
+**2026-08-26** | UK MHRA | 安全通报 | !!! HIGH
+
+MHRA发布器械安全信息（DSI/2026/010），调查发现多个钴铬模块颈髋关节柄组件存在磨损和腐蚀风险升高，可能导致翻修手术增加。该警示影响相关植入物的患者管理和随访，需加强监测与患者沟通。医务人员应遵循MHRA建议，并通过黄卡系统报告相关不良事件。
+
+**标签**: `mhra_safety_alert`, `cobalt_chrome`, `modular_neck_hip_replacement`, `metal_wear`, `revision_surgery`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/cobalt-chrome-modular-neck-hip-replacements-risk-of-metal-wear-effects-and-revision-surgery-dsi-slash-2026-slash-010)
+
+---
+
+### Maquet经皮穿刺插入套件及扩张器套件因无菌问题召回
+
+**2026-08-26** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部发布了Maquet经皮穿刺插入套件和扩张器套件的召回/警报，原因是无菌性问题，可能影响产品无菌状态并带来感染风险。使用这些套件的医疗机构应立即识别和隔离受影响批次，停止使用，并遵循制造商的召回说明。法规事务人员应核实产品分布并根据加拿大警报实施纠正措施。
+
+**标签**: `medical_device_recall`, `sterility`, `health_canada`, `infection_risk`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/maquet-percutaneous-insertion-kit-and-dilator-sets)
+
+---
+
+### 加拿大卫生部发布Cyanosure DermaV激光系统性能召回
+
+**2026-08-26** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已就Cyanosure DermaV激光系统的性能问题发布医疗器械召回/警示。该通知适用于在加拿大拥有或使用该设备的医疗机构和从业人员。相关用户应立即查阅加拿大卫生部通知，遵循制造商纠正措施，并向加拿大卫生部报告相关不良事件。
+
+**标签**: `medical_device_recall`, `laser_system`, `health_canada`, `performance_issue`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/cyanosure-dermav-laser-system)
+
+---
+
+### 加拿大卫生部召回Med-Rx药物/原液输注套件（性能问题）
+
+**2026-08-26** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部发布了一则关于Med-Rx药物/原液输注套件的医疗器械召回警示，原因是性能问题。使用该套件的医疗机构和医务人员应立即核对受影响批次并遵循召回通知。该问题可能在药物或原液输注过程中影响患者，建议隔离受影响产品并联系制造商或加拿大卫生部获取进一步指引。
+
+**标签**: `medical_device_recall`, `performance_issue`, `health_canada`, `infusion_kit`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/med-rx-medicationprimary-solution-administration-kit-2)
+
+---
+
+### 加拿大卫生部召回BIOFIRE®关节感染检测试剂盒30包装（性能问题）
+
+**2026-08-26** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已就BIOFIRE®关节感染检测组合30包装发布召回/警示，原因为性能问题。该警示涉及使用该多重PCR检测组合进行关节感染检测的实验室和医疗机构。用户应识别受影响批次，遵循制造商召回说明，并关注潜在不准确结果或按适当渠道报告事件。
+
+**标签**: `health_canada`, `ivd_recall`, `performance_issue`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/biofirer-joint-infection-panel-30-pack)
+
+---
+
+### 加拿大卫生部因性能问题召回GE CARESCAPE中央站
+
+**2026-08-26** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已针对GE医疗CARESCAPE中央站发布召回/警示，原因是性能问题可能影响设备功能。使用该中央监护站的医疗机构应查阅召回通知、识别受影响设备并联系GE医疗采取纠正措施。该问题可能影响患者监护工作流程，应根据需要实施风险评估和临时缓解措施。
+
+**标签**: `medical_device_recall`, `health_canada`, `patient_monitoring`, `performance_issue`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/carescape-central-station-1)
+
+---
+
 ### 瑞士药监局FSCA：Datex-Ohmeda Aisys麻醉工作站（型号1011-9000-000）微小更新
 
 **2026-08-26** | Swissmedic | 安全通报 | !! MEDIUM
@@ -169,6 +361,30 @@ CDRH News
 CDRH News
 
 [查看来源 (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-recall-medline-issues-correction-convenience-kits-containing-b-braun-bupivacaine)
+
+---
+
+### MHRA安全综述：2026年8月
+
+**2026-08-25** | UK MHRA | 安全通报 | !! MEDIUM
+
+该条目为英国MHRA发布的2026年8月安全综述，汇总了针对药品和医疗器械用户的最新安全建议。面向英国的医疗专业人员、患者和设备使用者。相关方应查阅本综述及其链接的药品/器械警报，以了解使用警示、召回或不良事件报告等需采取的行动。
+
+**标签**: `uk_mhra`, `safety_roundup`, `medical_devices`, `medicines_safety`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/mhra-safety-roundup-august-2026)
+
+---
+
+### 加拿大卫生部召回德尔格VentStar Resus Neo与VentStar Resuscitaire：性能问题
+
+**2026-08-25** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部发布了一则关于德尔格VentStar® Resus Neo和VentStar® Resuscitaire的医疗器械召回警报，原因是存在性能问题。该产品用于新生儿复苏，可能影响呼吸支持功能。医疗机构应识别受影响产品，按照制造商现场安全通知进行隔离，并联系德尔格采取纠正措施。
+
+**标签**: `medical_device_recall`, `neonatal_resuscitation`, `performance_issue`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/drager-ventstarr-resus-neo-and-ventstarr-resuscitaire)
 
 ---
 
