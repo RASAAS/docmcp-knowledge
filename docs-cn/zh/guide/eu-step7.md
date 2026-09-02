@@ -54,7 +54,12 @@ Step 7 同样采用分批次处理模式：
 
 全文评审后，可用 **导出清单** 生成 CSV，再让 ArticleFetcher **Organize** 把 PDF 分到纳入/排除文件夹。
 
-**必须使用 v0.5.1 或更新版本。** 请到 [Step 4](./eu-step4.html#af-fetch) 重新下载 Windows / macOS 安装包，或使用已经下载的最新版。旧版没有 Organize 页，也无法按 `DuplicateOf` / 「重复于」处理同一 DOI 的多份 PDF。
+**必须使用 v0.5.1 或更新版本。** 请用下面的链接下载，或到 [Step 4](./eu-step4.html#af-fetch) / 助手 Step 4 工具栏重新下载，也可使用已经下载的最新版。旧版没有 Organize 页，也无法按 `DuplicateOf` / 「重复于」处理同一 DOI 的多份 PDF。
+
+**下载 ArticleFetcher v0.5.1：**
+
+- Windows：[国内](https://app.reguverse.com/downloads/ArticleFetcher-Windows.zip) · [国际](https://app.team-ra.org/downloads/ArticleFetcher-Windows.zip)
+- macOS：[国内](https://app.reguverse.com/downloads/ArticleFetcher-macOS-GUI.zip) · [国际](https://app.team-ra.org/downloads/ArticleFetcher-macOS-GUI.zip)
 
 1. 在 Step 7 汇总处点击 **导出清单**，得到 `step7_disposition_日期.csv`。
 2. 打开 ArticleFetcher，切换到 **Organize** 页。

@@ -56,10 +56,17 @@ Consolidated statistics:
 
 ## Batch download full text with ArticleFetcher {#af-fetch}
 
-After screening, export the DOI list from the relevant-articles toolbar and use **ArticleFetcher v0.5.1** to download open-access PDFs. Get the latest build from the **Windows** / **macOS** links next to “Batch PDF download tool” (the window title should read `Article Fetcher v0.5.1`). If you still have an older copy, download again and replace it.
+After screening, export the DOI list from the relevant-articles toolbar and use **ArticleFetcher v0.5.1** to download open-access PDFs. The window title should read `Article Fetcher v0.5.1`. If you still have an older copy, download again and replace it.
+
+**Download ArticleFetcher v0.5.1:**
+
+- Windows: [China](https://app.reguverse.com/downloads/ArticleFetcher-Windows.zip) · [International](https://app.team-ra.org/downloads/ArticleFetcher-Windows.zip)
+- macOS: [China](https://app.reguverse.com/downloads/ArticleFetcher-macOS-GUI.zip) · [International](https://app.team-ra.org/downloads/ArticleFetcher-macOS-GUI.zip)
+
+You can also use the **Windows** / **macOS** links next to “Batch PDF download tool” on Step 4 in the assistant.
 
 1. Click **Export DOIs** and save the CSV (number, title, DOI, suggested filename).
-2. Download ArticleFetcher from the Windows or macOS link on this step.
+2. Download ArticleFetcher from the links above (or from the Step 4 toolbar).
 3. Open the **Fetch** tab:
    - **DOI CSV**: the file you just exported
    - **Output dir**: the folder where PDFs should be saved

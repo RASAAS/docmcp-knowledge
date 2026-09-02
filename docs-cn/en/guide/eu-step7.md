@@ -54,7 +54,12 @@ Each article's appraisal includes:
 
 After appraisal, **Export list** writes a CSV that ArticleFetcher **Organize** uses to copy (or move) PDFs into included and excluded folders.
 
-**Use v0.5.1 or later.** Download it again from [Step 4](./eu-step4.html#af-fetch) (Windows / macOS), or use a latest copy you already downloaded. Older builds have no Organize tab and cannot honour `DuplicateOf` for extra PDFs that share a DOI.
+**Use v0.5.1 or later.** Download from the links below, from [Step 4](./eu-step4.html#af-fetch), or from the assistant Step 4 toolbar; or use a latest copy you already downloaded. Older builds have no Organize tab and cannot honour `DuplicateOf` for extra PDFs that share a DOI.
+
+**Download ArticleFetcher v0.5.1:**
+
+- Windows: [China](https://app.reguverse.com/downloads/ArticleFetcher-Windows.zip) · [International](https://app.team-ra.org/downloads/ArticleFetcher-Windows.zip)
+- macOS: [China](https://app.reguverse.com/downloads/ArticleFetcher-macOS-GUI.zip) · [International](https://app.team-ra.org/downloads/ArticleFetcher-macOS-GUI.zip)
 
 1. On the Step 7 summary, click **Export list** to get `step7_disposition_DATE.csv`.
 2. Open ArticleFetcher and switch to the **Organize** tab.

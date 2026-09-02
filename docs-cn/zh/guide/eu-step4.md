@@ -56,10 +56,17 @@ Step 4 对文献检索结果进行自动筛选（Title/Abstract Screening），�
 
 ## 用 ArticleFetcher 批量下载全文 {#af-fetch}
 
-筛选完成后，在相关文献表上方可以导出 DOI 列表，并用 **ArticleFetcher v0.5.1** 批量下载开放获取全文。请使用 Step 4 工具栏里的 **Windows** / **macOS** 链接下载最新版（窗口标题为 `Article Fetcher v0.5.1`）。已下载过旧版的，请重新下载替换。
+筛选完成后，在相关文献表上方可以导出 DOI 列表，并用 **ArticleFetcher v0.5.1** 批量下载开放获取全文。请使用最新版（窗口标题为 `Article Fetcher v0.5.1`）。已下载过旧版的，请重新下载替换。
+
+**下载 ArticleFetcher v0.5.1：**
+
+- Windows：[国内](https://app.reguverse.com/downloads/ArticleFetcher-Windows.zip) · [国际](https://app.team-ra.org/downloads/ArticleFetcher-Windows.zip)
+- macOS：[国内](https://app.reguverse.com/downloads/ArticleFetcher-macOS-GUI.zip) · [国际](https://app.team-ra.org/downloads/ArticleFetcher-macOS-GUI.zip)
+
+也可在助手 Step 4 工具栏「PDF 批量下载工具」旁点击 **Windows** / **macOS**。
 
 1. 点击 **导出 DOI**，保存 CSV（含序号、标题、DOI、建议文件名）。
-2. 点击 **PDF 批量下载工具** 旁的 Windows 或 macOS，下载并打开 ArticleFetcher。
+2. 用上方链接（或 Step 4 工具栏）下载并打开 ArticleFetcher。
 3. 打开 **Fetch** 页：
    - **DOI CSV**：选择刚导出的 DOI 列表
    - **Output dir**：选择保存 PDF 的文件夹
