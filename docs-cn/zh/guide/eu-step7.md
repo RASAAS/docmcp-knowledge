@@ -50,7 +50,25 @@ Step 7 同样采用分批次处理模式：
 - 关键发现摘要
 - 方法学局限性说明
 
-<!-- 截图占位：Step 7 评审结果列表 -->
+## 用 ArticleFetcher 按纳排归档 PDF {#af-organize}
+
+全文评审后，可用 **导出清单** 生成 CSV，再让 ArticleFetcher **Organize** 把 PDF 分到纳入/排除文件夹。
+
+**必须使用 v0.5.1 或更新版本。** 请到 [Step 4](./eu-step4.html#af-fetch) 重新下载 Windows / macOS 安装包，或使用已经下载的最新版。旧版没有 Organize 页，也无法按 `DuplicateOf` / 「重复于」处理同一 DOI 的多份 PDF。
+
+1. 在 Step 7 汇总处点击 **导出清单**，得到 `step7_disposition_日期.csv`。
+2. 打开 ArticleFetcher，切换到 **Organize** 页。
+3. **PDF folder**：选择当初用 Fetch 下载 PDF 的文件夹。
+4. **Disposition CSV**：选择刚导出的清单。
+5. 默认是 **复制**（不删除原文件）。若确认无误、希望直接挪走文件，再勾选 **Move files instead of copy**。
+6. 点击 **Organize Files**。完成后查看：
+   - `Included/`：纳入全文
+   - `Excluded/`：排除全文
+   - `Unmatched/`：清单有、文件夹里对不上的行，以及 `organize_report.csv`
+
+匹配顺序：完整文件名 → 筛选号（`N.` 或 `N_`）→ 用 `download_report.csv` 按 DOI 补匹配。同一 DOI 的额外 PDF 各保留一份文件；**不会**按「姓 + 年份」合并不同文章。
+
+![ArticleFetcher Organize：选择 PDF 文件夹与 Step 7 清单后归档](/guide/af/organize.png)
 
 ## 下一步
 

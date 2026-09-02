@@ -54,6 +54,24 @@ Consolidated statistics:
 - Included count
 - Excluded count (by exclusion reason)
 
+## Batch download full text with ArticleFetcher {#af-fetch}
+
+After screening, export the DOI list from the relevant-articles toolbar and use **ArticleFetcher v0.5.1** to download open-access PDFs. Get the latest build from the **Windows** / **macOS** links next to “Batch PDF download tool” (the window title should read `Article Fetcher v0.5.1`). If you still have an older copy, download again and replace it.
+
+1. Click **Export DOIs** and save the CSV (number, title, DOI, suggested filename).
+2. Download ArticleFetcher from the Windows or macOS link on this step.
+3. Open the **Fetch** tab:
+   - **DOI CSV**: the file you just exported
+   - **Output dir**: the folder where PDFs should be saved
+   - **Email (API ID)**: an email for Unpaywall
+   - Check **Bypass system proxy** if a VPN or proxy blocks downloads
+4. Click **Start Download**. When it finishes, the same folder contains `download_report.csv`.
+5. Back in Step 4, click **Import Batch Results** and select `download_report.csv` to mark which articles have full text.
+
+![ArticleFetcher Fetch: choose the DOI CSV and output folder, then start the download](/guide/af/fetch.png)
+
+Paywalled or failed items can still be marked by hand in the table. To split PDFs into included/excluded folders after appraisal, use [Step 7 Organize](./eu-step7.html#af-organize).
+
 ## Next Step
 
 → [Safety Data (Step 5)](./eu-step5)

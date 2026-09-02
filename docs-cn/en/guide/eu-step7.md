@@ -50,7 +50,25 @@ Each article's appraisal includes:
 - Key findings summary
 - Methodological limitations
 
-<!-- Screenshot placeholder: Step 7 appraisal results -->
+## Split PDFs with ArticleFetcher Organize {#af-organize}
+
+After appraisal, **Export list** writes a CSV that ArticleFetcher **Organize** uses to copy (or move) PDFs into included and excluded folders.
+
+**Use v0.5.1 or later.** Download it again from [Step 4](./eu-step4.html#af-fetch) (Windows / macOS), or use a latest copy you already downloaded. Older builds have no Organize tab and cannot honour `DuplicateOf` for extra PDFs that share a DOI.
+
+1. On the Step 7 summary, click **Export list** to get `step7_disposition_DATE.csv`.
+2. Open ArticleFetcher and switch to the **Organize** tab.
+3. **PDF folder**: the folder where Fetch saved the PDFs.
+4. **Disposition CSV**: the list you just exported.
+5. Default is **copy** (originals stay put). Check **Move files instead of copy** only if you want files relocated.
+6. Click **Organize Files**. Then check:
+   - `Included/` — included full texts
+   - `Excluded/` — excluded full texts
+   - `Unmatched/` — rows that did not match a file, plus `organize_report.csv`
+
+Match order: exact filename → screening number (`N.` or `N_`) → DOI via `download_report.csv` if those miss. Extra copies of the same DOI keep their own file. Matching never uses last name + year.
+
+![ArticleFetcher Organize: choose the PDF folder and Step 7 CSV, then organize](/guide/af/organize.png)
 
 ## Next Step
 

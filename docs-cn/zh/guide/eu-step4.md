@@ -54,6 +54,24 @@ Step 4 对文献检索结果进行自动筛选（Title/Abstract Screening），�
 - 纳入数量
 - 排除数量（按排除理由分类）
 
+## 用 ArticleFetcher 批量下载全文 {#af-fetch}
+
+筛选完成后，在相关文献表上方可以导出 DOI 列表，并用 **ArticleFetcher v0.5.1** 批量下载开放获取全文。请使用 Step 4 工具栏里的 **Windows** / **macOS** 链接下载最新版（窗口标题为 `Article Fetcher v0.5.1`）。已下载过旧版的，请重新下载替换。
+
+1. 点击 **导出 DOI**，保存 CSV（含序号、标题、DOI、建议文件名）。
+2. 点击 **PDF 批量下载工具** 旁的 Windows 或 macOS，下载并打开 ArticleFetcher。
+3. 打开 **Fetch** 页：
+   - **DOI CSV**：选择刚导出的 DOI 列表
+   - **Output dir**：选择保存 PDF 的文件夹
+   - **Email (API ID)**：填写用于 Unpaywall 的邮箱
+   - 如遇 VPN/代理干扰，勾选 **Bypass system proxy**
+4. 点击 **Start Download**。完成后同一文件夹会生成 `download_report.csv`。
+5. 回到 Step 4，点击 **导入批量结果**，导入 `download_report.csv`，自动标记哪些文献已有全文。
+
+![ArticleFetcher Fetch：选择 DOI CSV 与输出目录后开始下载](/guide/af/fetch.png)
+
+付费墙或下载失败的文献，仍可在表格中手动标记全文状态。归档纳入/排除 PDF 请到 [Step 7](./eu-step7.html#af-organize) 使用 Organize 页。
+
 ## 下一步
 
 → [安全数据 (Step 5)](./eu-step5)
