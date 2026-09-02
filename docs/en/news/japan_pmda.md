@@ -6,6 +6,52 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### Philips Japan Central Monitor Information Center Analysis Program Class II Recall (PMDA #2-12947)
+
+**2026-09-02** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Japan's PMDA has posted a Class II recall (No. 2-12947) for the Philips Information Center central monitor program with analysis function, marketed by Philips Japan K.K. This recall affects healthcare facilities using this Class II medical device software for central monitoring. Affected users should review the official PMDA notice and Philips Japan communications, identify installed versions, and follow any corrective actions required by the manufacturer.
+
+**Tags**: `pmda_recall`, `central_monitor`, `philips_japan`, `class_ii`, `medical_device_software`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12947)
+
+---
+
+### PMDA Class II Recall: Nippon Abiomed Impella Control Device for Intracardiac Pump Catheter (Recall No. 2-12943)
+
+**2026-08-31** | Japan PMDA | Safety Communication | !! MEDIUM
+
+PMDA has issued a Class II medical device recall (No. 2-12943) for the IMPELLA Control Device, a control unit for circulatory assist intracardiac indwelling pump catheters, marketed by Nippon Abiomed K.K. Class II indicates a moderate-risk recall. Affected facilities should identify affected units, review the official PMDA/manufacturer recall notice for the specific safety issue, and follow Nippon Abiomed's corrective actions.
+
+**Tags**: `pmda_recall`, `class_ii`, `impella_control_device`, `cardiovascular_device`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12943)
+
+---
+
+### PMDA Class II Recall: Olympus Gastrointestinal Balloon Dilator (Endoscopic Dilation Catheter), Recall No. 2-12940
+
+**2026-08-28** | Japan PMDA | Safety Communication | !! MEDIUM
+
+The Japanese PMDA posted a Class II recall (No. 2-12940) for Olympus Medical Systems Corporation's gastrointestinal balloon dilator/endoscopic dilation catheter. This is a moderate-risk medical device recall affecting healthcare facilities that use the device. Affected users should review the PMDA recall notice, identify affected lots, quarantine the devices, and follow Olympus Medical Systems' instructions for return or correction.
+
+**Tags**: `japan_pmda`, `medical_device_recall`, `class_ii`, `olympus`, `balloon_dilator`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12940)
+
+---
+
+### [Class II] 医用画像ビューワソフトウェア　EIRL　Viewer (汎用画像診断装置ワークステーション用プログラム) - エルピクセル株式会社
+
+**2026-08-28** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Recall #2-12939: 汎用画像診断装置ワークステーション用プログラム / 医用画像ビューワソフトウェア　EIRL　Viewer by エルピクセル株式会社. Type: 医療機器.
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12939)
+
+---
+
 ### PMDA Class II Recall: Boston Scientific Japan ImagerII Angiography Catheter (Recall #2-12935)
 
 **2026-08-25** | Japan PMDA | Safety Communication | !! MEDIUM

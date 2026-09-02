@@ -6,6 +6,18 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### 飞利浦日本中央监护仪信息中心分析程序II类召回 (PMDA #2-12947)
+
+**2026-09-02** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA已发布飞利浦日本株式会社的飞利浦信息中心中央监护仪分析功能程序（召回编号2-12947）的II类召回。此次召回涉及使用该中央监护分析程序软件的医疗机构。相关用户应查阅PMDA官方通知和飞利浦日本的通知，核对已安装版本，并按制造商要求采取纠正措施。
+
+**标签**: `pmda_recall`, `central_monitor`, `philips_japan`, `class_ii`, `medical_device_software`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12947)
+
+---
+
 ### 加拿大卫生部：医疗器械特别准入计划申请流程变更通知
 
 **2026-08-31** | Health Canada | 法规更新 | !! MEDIUM
@@ -66,6 +78,18 @@ title: 法规速递
 
 ---
 
+### 日本PMDA二类召回：日本Abiomed公司Impella心内留置泵导管控制装置（召回号2-12943）
+
+**2026-08-31** | Japan PMDA | 安全通报 | !! MEDIUM
+
+PMDA已发布二类医疗器械召回（编号2-12943），涉及日本Abiomed株式会社的Impella控制装置，该装置用于循环辅助用心内留置型泵导管。二类召回表示中等风险。相关医疗机构应识别受影响设备，查阅PMDA/制造商召回通知了解具体安全问题，并遵循日本Abiomed的纠正措施。
+
+**标签**: `pmda_recall`, `class_ii`, `impella_control_device`, `cardiovascular_device`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12943)
+
+---
+
 ### COFEPRIS publica Visor de Registros Sanitarios de Dispositivos Médicos
 
 **2026-08-29** | Mexico COFEPRIS | 安全通报 | !! MEDIUM
@@ -97,6 +121,28 @@ MHRA已发布最新清单，列出获得特殊使用授权的制造商及其医�
 **标签**: `medical_device_recall`, `anesthesia_workstation`, `performance_issue`
 
 [查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/carestation-850)
+
+---
+
+### PMDA II类召回：奥林巴斯消化管球囊扩张导管（内镜下扩张用导管）召回编号2-12940
+
+**2026-08-28** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA发布了奥林巴斯医疗系统株式会社消化管用球囊扩张导管（内镜下扩张用导管）的II类召回（编号2-12940）。该召回为中等风险医疗器械安全措施，涉及使用该产品的医疗机构。相关用户应查阅PMDA召回通知，确认受影响批次，隔离产品并按奥林巴斯医疗系统的要求进行退货或整改。
+
+**标签**: `japan_pmda`, `medical_device_recall`, `class_ii`, `olympus`, `balloon_dilator`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12940)
+
+---
+
+### [Class II] 医用画像ビューワソフトウェア　EIRL　Viewer (汎用画像診断装置ワークステーション用プログラム) - エルピクセル株式会社
+
+**2026-08-28** | Japan PMDA | 安全通报 | !! MEDIUM
+
+Recall #2-12939: 汎用画像診断装置ワークステーション用プログラム / 医用画像ビューワソフトウェア　EIRL　Viewer by エルピクセル株式会社. Type: 医療機器.
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12939)
 
 ---
 
