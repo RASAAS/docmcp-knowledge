@@ -24,6 +24,28 @@
       "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0745"
     },
     {
+      "id": "eu-mdr-2017-745-annex-ii",
+      "slug": "eu-mdr-2017-745-annex-ii",
+      "celex": "32017R0745",
+      "title": {
+        "zh": "欧盟 MDR (EU) 2017/745 附录 II 技术文件",
+        "en": "Regulation (EU) 2017/745 Annex II Technical Documentation"
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0745"
+    },
+    {
+      "id": "eu-mdr-2017-745-annex-iii",
+      "slug": "eu-mdr-2017-745-annex-iii",
+      "celex": "32017R0745",
+      "title": {
+        "zh": "欧盟 MDR (EU) 2017/745 附录 III 上市后监督技术文件",
+        "en": "Regulation (EU) 2017/745 Annex III Technical Documentation on Post-Market Surveillance"
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0745"
+    },
+    {
       "id": "eu-ivdr-2017-746",
       "slug": "eu-ivdr-2017-746",
       "celex": "32017R0746",
