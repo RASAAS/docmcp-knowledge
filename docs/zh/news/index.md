@@ -16,6 +16,30 @@ FSCA: MD: Various instruments for cardiology and cardiac surgery. Reason: . Mode
 
 ---
 
+### ANMAT禁止“MEDICAL ADVANCE”品牌医疗产品
+
+**2026-09-03** | Argentina ANMAT | 安全通报 | !!! HIGH
+
+2026年9月3日，阿根廷国家药品、食品和医疗器械管理局（ANMAT）禁止“MEDICAL ADVANCE”品牌医疗产品。该警报涉及该品牌下受影响的相关医疗器械，公告未详述具体安全原因和批次。医疗机构、经销商和使用者应停止使用、销售或分发相关产品，并向ANMAT核实其监管状态。
+
+**标签**: `argentina_anmat`, `medical_device_safety`, `product_ban`, `medical_advance`
+
+[查看来源 (Official Source)](https://www.argentina.gob.ar/noticias/anmat-prohibio-los-productos-medicos-de-la-marca-medical-advance)
+
+---
+
+### ANMAT禁止高德美SCULPTRA®医疗产品某批次
+
+**2026-09-03** | Argentina ANMAT | 安全通报 | !!! HIGH
+
+阿根廷ANMAT发布安全警示，禁止使用高德美（GALDERMA）SCULPTRA®医疗产品的某一特定批次。SCULPTRA®为注射用聚左旋乳酸植入剂，受影响批次的具体批号需以ANMAT官方公告为准。相关进口商、分销商和医疗机构应立即停用并隔离该批次，并按ANMAT要求处理。
+
+**标签**: `anmat`, `medical_device_recall`, `sculptra`, `galderma`, `safety_alert`
+
+[查看来源 (Official Source)](https://www.argentina.gob.ar/noticias/anmat-prohibe-un-lote-del-producto-medico-sculptrar-de-la-firma-galderma)
+
+---
+
 ### 飞利浦日本中央监护仪信息中心分析程序II类召回 (PMDA #2-12947)
 
 **2026-09-02** | Japan PMDA | 安全通报 | !! MEDIUM

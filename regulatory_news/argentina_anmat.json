@@ -1,6 +1,59 @@
 {
   "items": [
     {
+      "id": "argentina_anmat_20260905_anmat_bans_medical_products_of_brand_medical_advance_sep_3_2",
+      "framework": "argentina_anmat",
+      "category": "safety_communication",
+      "title": {
+        "en": "ANMAT Bans Medical Products of Brand “MEDICAL ADVANCE” – Sep 3, 2026",
+        "zh": "ANMAT禁止“MEDICAL ADVANCE”品牌医疗产品"
+      },
+      "summary": {
+        "en": "On September 3, 2026, Argentina’s ANMAT prohibited medical products branded “MEDICAL ADVANCE.” The alert affects medical devices marketed under this brand; the specific safety reason and lot numbers are not detailed in the notice. Healthcare providers, distributors, and users should stop using, selling, or delivering these products and verify their regulatory status with ANMAT.",
+        "zh": "2026年9月3日，阿根廷国家药品、食品和医疗器械管理局（ANMAT）禁止“MEDICAL ADVANCE”品牌医疗产品。该警报涉及该品牌下受影响的相关医疗器械，公告未详述具体安全原因和批次。医疗机构、经销商和使用者应停止使用、销售或分发相关产品，并向ANMAT核实其监管状态。"
+      },
+      "source_url": "https://www.argentina.gob.ar/noticias/anmat-prohibio-los-productos-medicos-de-la-marca-medical-advance",
+      "source_name": "Official Source",
+      "published_date": "2026-09-03",
+      "detected_date": "2026-09-05T20:50:10Z",
+      "importance": "high",
+      "tags": [
+        "argentina_anmat",
+        "medical_device_safety",
+        "product_ban",
+        "medical_advance"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "argentina_anmat_20260905_anmat_prohibits_specific_lot_of_galderma_s_sculptra_medical",
+      "framework": "argentina_anmat",
+      "category": "safety_communication",
+      "title": {
+        "en": "ANMAT Prohibits Specific Lot of GALDERMA's SCULPTRA® Medical Device",
+        "zh": "ANMAT禁止高德美SCULPTRA®医疗产品某批次"
+      },
+      "summary": {
+        "en": "Argentina's ANMAT has issued a safety alert prohibiting a specific lot of the medical device SCULPTRA® from GALDERMA. SCULPTRA® is an injectable poly-L-lactic acid implant; the affected lot number is not included in the alert title and should be confirmed in the official ANMAT notice. Importers, distributors, and healthcare providers should immediately quarantine and stop using the affected lot and follow ANMAT recall instructions.",
+        "zh": "阿根廷ANMAT发布安全警示，禁止使用高德美（GALDERMA）SCULPTRA®医疗产品的某一特定批次。SCULPTRA®为注射用聚左旋乳酸植入剂，受影响批次的具体批号需以ANMAT官方公告为准。相关进口商、分销商和医疗机构应立即停用并隔离该批次，并按ANMAT要求处理。"
+      },
+      "source_url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-un-lote-del-producto-medico-sculptrar-de-la-firma-galderma",
+      "source_name": "Official Source",
+      "published_date": "2026-09-03",
+      "detected_date": "2026-09-05T20:50:27Z",
+      "importance": "high",
+      "tags": [
+        "anmat",
+        "medical_device_recall",
+        "sculptra",
+        "galderma",
+        "safety_alert"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
       "id": "argentina_anmat_20260822_anmat_bans_alma_lasers_soprano_ice_medical_device_aug_20_202",
       "framework": "argentina_anmat",
       "category": "safety_communication",
@@ -52,5 +105,5 @@
       "status": "published"
     }
   ],
-  "last_updated": "2026-08-22T19:17:04Z"
+  "last_updated": "2026-09-05T20:50:27Z"
 }

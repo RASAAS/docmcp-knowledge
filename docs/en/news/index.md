@@ -16,6 +16,30 @@ FSCA: MD: Various instruments for cardiology and cardiac surgery. Reason: . Mode
 
 ---
 
+### ANMAT Bans Medical Products of Brand “MEDICAL ADVANCE” – Sep 3, 2026
+
+**2026-09-03** | Argentina ANMAT | Safety Communication | !!! HIGH
+
+On September 3, 2026, Argentina’s ANMAT prohibited medical products branded “MEDICAL ADVANCE.” The alert affects medical devices marketed under this brand; the specific safety reason and lot numbers are not detailed in the notice. Healthcare providers, distributors, and users should stop using, selling, or delivering these products and verify their regulatory status with ANMAT.
+
+**Tags**: `argentina_anmat`, `medical_device_safety`, `product_ban`, `medical_advance`
+
+[View Source (Official Source)](https://www.argentina.gob.ar/noticias/anmat-prohibio-los-productos-medicos-de-la-marca-medical-advance)
+
+---
+
+### ANMAT Prohibits Specific Lot of GALDERMA's SCULPTRA® Medical Device
+
+**2026-09-03** | Argentina ANMAT | Safety Communication | !!! HIGH
+
+Argentina's ANMAT has issued a safety alert prohibiting a specific lot of the medical device SCULPTRA® from GALDERMA. SCULPTRA® is an injectable poly-L-lactic acid implant; the affected lot number is not included in the alert title and should be confirmed in the official ANMAT notice. Importers, distributors, and healthcare providers should immediately quarantine and stop using the affected lot and follow ANMAT recall instructions.
+
+**Tags**: `anmat`, `medical_device_recall`, `sculptra`, `galderma`, `safety_alert`
+
+[View Source (Official Source)](https://www.argentina.gob.ar/noticias/anmat-prohibe-un-lote-del-producto-medico-sculptrar-de-la-firma-galderma)
+
+---
+
 ### Philips Japan Central Monitor Information Center Analysis Program Class II Recall (PMDA #2-12947)
 
 **2026-09-02** | Japan PMDA | Safety Communication | !! MEDIUM
