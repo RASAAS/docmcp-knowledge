@@ -60,18 +60,21 @@ Already have an Assistant account, or applying for CRM portal access? Read [Assi
 
 Reguverse uses **Credits** to measure AI service usage. 1 Credit is approximately equivalent to $0.10 USD. Consumption depends on content complexity and length.
 
+**Credit usage follows Qwen model pricing.** The service uses the latest stable Qwen model; a model upgrade may consume more credits for the same task. Figures below are estimates under the current meter; the Account page balance is authoritative.
+
 ### Typical Usage
 
 | Operation | Approx. Consumption |
 |-----------|-------------------|
-| Clinical evaluation single step | 2 - 10 Credits |
-| Complete clinical evaluation (10 steps, ~200 articles) | 40 - 100 Credits |
-| Complete clinical evaluation (10 steps, 500+ articles) | 200 - 400 Credits |
-| Document generation -- single document (CEP or CER) | 20 - 40 Credits |
-| Document generation -- DCR | 5 - 10 Credits |
-| Document generation -- full set (CEP + CER + DCR) | 45 - 90 Credits |
-| GSPR compliance check (complete) | 15 - 40 Credits |
-| AI tool single invocation | 1 - 4 Credits |
+| Clinical evaluation single step | 3 - 14 Credits |
+| Complete clinical evaluation (10 steps, ~200 articles) | 55 - 140 Credits |
+| Complete clinical evaluation (10 steps, 500+ articles) | 280 - 560 Credits |
+| Document generation -- single document (CEP or CER) | 30 - 55 Credits |
+| Document generation -- DCR | 7 - 14 Credits |
+| Document generation -- full set (CEP + CER + DCR) | 65 - 125 Credits |
+| GSPR compliance check (complete) | 20 - 55 Credits |
+| Technical documentation gap analysis | Varies with file count and chapter scope; a large TD can reach several hundred Credits |
+| AI tool single invocation | 1 - 6 Credits |
 
 ::: warning Impact of Literature Volume on Credit Consumption
 In clinical evaluation, **Literature Screening (Step 4)** and **Full-text Appraisal (Step 7)** require the AI to analyze each article individually. These are the most credit-intensive steps, and the number of articles directly determines total consumption.
@@ -80,10 +83,10 @@ The "Total Evaluation" column below includes all 10 steps **+ full document gene
 
 | Article Count | Est. Step 4 Consumption | Est. Total Evaluation (incl. docs) | Recommended Plan |
 |--------------|------------------------|-----------------------------------|-----------------|
-| ~50 articles | 10 - 20 Credits | 75 - 150 Credits | Starter / Basic |
-| ~200 articles | 40 - 80 Credits | 130 - 240 Credits | Basic / Pro |
-| ~500 articles | 100 - 200 Credits | 250 - 440 Credits | Pro |
-| 800+ articles | 200 - 400 Credits | 400 - 690 Credits | Pro or above |
+| ~50 articles | 15 - 30 Credits | 105 - 210 Credits | Starter / Basic |
+| ~200 articles | 55 - 110 Credits | 180 - 335 Credits | Basic / Pro |
+| ~500 articles | 140 - 280 Credits | 350 - 615 Credits | Pro |
+| 800+ articles | 280 - 560 Credits | 560 - 965 Credits | Pro or above |
 
 **Even if you manually write the search strategy (Step 3), Step 4 literature screening still requires the AI to process each article individually**, so more uploaded articles mean higher consumption. For large literature sets, consider pre-screening articles before uploading to optimize costs.
 :::
