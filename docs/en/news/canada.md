@@ -6,6 +6,18 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### Health Canada Updates Forms for Exceptional Importation and Sale of Medical Devices
+
+**2026-09-07** | Health Canada | Regulation Update | !! MEDIUM
+
+Health Canada has published a compliance bulletin announcing updated forms for the exceptional importation and sale of medical devices. Stakeholders seeking authorization under the Medical Devices Regulations must use the revised forms. Manufacturers, importers, and distributors involved in exceptional access to medical devices should review the bulletin and update internal procedures to replace prior form versions.
+
+**Tags**: `medical_devices`, `exceptional_importation`, `health_canada`, `compliance_bulletin`, `forms`
+
+[View Source (Health Canada)](https://www.canada.ca/en/health-canada/services/drugs-health-products/compliance-enforcement/establishment-licences/medical-devices-compliance-bulletin/updates-forms-exceptional-importation-sale.html)
+
+---
+
 ### Health Canada Notice: Changes to Special Access Program Medical Device Application Process
 
 **2026-08-31** | Health Canada | Regulation Update | !! MEDIUM

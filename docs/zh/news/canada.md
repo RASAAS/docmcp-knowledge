@@ -6,6 +6,18 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### 加拿大卫生部更新医疗器械特殊进口和销售表格
+
+**2026-09-07** | Health Canada | 法规更新 | !! MEDIUM
+
+加拿大卫生部发布合规公告，更新医疗器械特殊进口和销售相关表格。根据《医疗器械条例》申请特殊进口或销售授权的制造商、进口商和分销商须使用新版本表格。相关方应查看该公告，更新内部流程并停用旧版表格。
+
+**标签**: `medical_devices`, `exceptional_importation`, `health_canada`, `compliance_bulletin`, `forms`
+
+[查看来源 (Health Canada)](https://www.canada.ca/en/health-canada/services/drugs-health-products/compliance-enforcement/establishment-licences/medical-devices-compliance-bulletin/updates-forms-exceptional-importation-sale.html)
+
+---
+
 ### 加拿大卫生部：医疗器械特别准入计划申请流程变更通知
 
 **2026-08-31** | Health Canada | 法规更新 | !! MEDIUM

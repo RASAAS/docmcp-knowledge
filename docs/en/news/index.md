@@ -6,6 +6,42 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### Health Canada Updates Forms for Exceptional Importation and Sale of Medical Devices
+
+**2026-09-07** | Health Canada | Regulation Update | !! MEDIUM
+
+Health Canada has published a compliance bulletin announcing updated forms for the exceptional importation and sale of medical devices. Stakeholders seeking authorization under the Medical Devices Regulations must use the revised forms. Manufacturers, importers, and distributors involved in exceptional access to medical devices should review the bulletin and update internal procedures to replace prior form versions.
+
+**Tags**: `medical_devices`, `exceptional_importation`, `health_canada`, `compliance_bulletin`, `forms`
+
+[View Source (Health Canada)](https://www.canada.ca/en/health-canada/services/drugs-health-products/compliance-enforcement/establishment-licences/medical-devices-compliance-bulletin/updates-forms-exceptional-importation-sale.html)
+
+---
+
+### UK MHRA Field Safety Notices: 24 to 28 August 2026
+
+**2026-09-03** | UK MHRA | Safety Communication | !! MEDIUM
+
+The UK MHRA has published its list of Field Safety Notices (FSNs) issued between 24 and 28 August 2026. This compilation includes two new entries, notifying healthcare providers, medical device suppliers, and users of safety-related corrective actions. Affected parties should review the notices for the relevant devices and follow the manufacturer's instructions promptly.
+
+**Tags**: `field_safety_notices`, `mhra`, `medical_device_safety`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-24-to-28-august-2026)
+
+---
+
+### MHRA Field Safety Notices: 24 to 28 August 2026
+
+**2026-09-03** | UK MHRA | Regulation Update | !! MEDIUM
+
+The UK MHRA has published its weekly list of Field Safety Notices (FSNs) for 24 to 28 August 2026. This compilation contains safety communications for medical devices that may require action by healthcare providers, patients, and manufacturers. Regulatory affairs professionals should review the listed notices to identify any devices in their portfolio and implement recommended corrective actions.
+
+**Tags**: `field_safety_notice`, `mhra`, `medical_device_safety`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-24-to-28-august-2026)
+
+---
+
 ### Automated Impella Controller (AIC) - Abiomed Inc
 
 **2026-09-03** | Swissmedic | Safety Communication | !! MEDIUM
@@ -37,6 +73,18 @@ Argentina's ANMAT has issued a safety alert prohibiting a specific lot of the me
 **Tags**: `anmat`, `medical_device_recall`, `sculptra`, `galderma`, `safety_alert`
 
 [View Source (Official Source)](https://www.argentina.gob.ar/noticias/anmat-prohibe-un-lote-del-producto-medico-sculptrar-de-la-firma-galderma)
+
+---
+
+### MHRA Alert: Use Filters During Parenteral Nutrition Administration in All Care Settings (DSI/2026/011)
+
+**2026-09-02** | UK MHRA | Safety Communication | !!! HIGH
+
+This MHRA Drug Safety Alert (DSI/2026/011) requires the use of in-line filters during parenteral nutrition administration in all care settings. Adverse incidents, including a fatal embolism, have occurred when parenteral nutrition was administered without a filter. Healthcare professionals involved in prescribing, dispensing, and administering parenteral nutrition should ensure appropriate filters are always used and implement local procedures promptly.
+
+**Tags**: `parenteral_nutrition`, `infusion_filters`, `mhra_safety_alert`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/filters-should-be-used-during-the-administration-of-parenteral-nutrition-for-patients-in-all-care-settings-dsi-slash-2026-slash-011)
 
 ---
 

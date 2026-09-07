@@ -6,6 +6,42 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### 加拿大卫生部更新医疗器械特殊进口和销售表格
+
+**2026-09-07** | Health Canada | 法规更新 | !! MEDIUM
+
+加拿大卫生部发布合规公告，更新医疗器械特殊进口和销售相关表格。根据《医疗器械条例》申请特殊进口或销售授权的制造商、进口商和分销商须使用新版本表格。相关方应查看该公告，更新内部流程并停用旧版表格。
+
+**标签**: `medical_devices`, `exceptional_importation`, `health_canada`, `compliance_bulletin`, `forms`
+
+[查看来源 (Health Canada)](https://www.canada.ca/en/health-canada/services/drugs-health-products/compliance-enforcement/establishment-licences/medical-devices-compliance-bulletin/updates-forms-exceptional-importation-sale.html)
+
+---
+
+### 英国MHRA现场安全通告：2026年8月24日至28日
+
+**2026-09-03** | UK MHRA | 安全通报 | !! MEDIUM
+
+英国MHRA发布了2026年8月24日至28日期间的现场安全通告（FSN）列表。该汇编包含2条新条目，通知医疗机构、医疗器械供应商和使用者相关安全纠正措施。相关方应及时查阅通告，并按照制造商的说明采取行动。
+
+**标签**: `field_safety_notices`, `mhra`, `medical_device_safety`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-24-to-28-august-2026)
+
+---
+
+### MHRA现场安全通告：2026年8月24日至28日
+
+**2026-09-03** | UK MHRA | 法规更新 | !! MEDIUM
+
+英国MHRA发布了2026年8月24日至28日这一周的现场安全通告（FSN）汇总。该列表包含医疗器械安全通讯，可能涉及医疗机构、患者和制造商。法规事务人员应逐项审查通告，确认是否涉及自身产品，并采取建议的纠正措施。
+
+**标签**: `field_safety_notice`, `mhra`, `medical_device_safety`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-24-to-28-august-2026)
+
+---
+
 ### Automated Impella Controller (AIC) - Abiomed Inc
 
 **2026-09-03** | Swissmedic | 安全通报 | !! MEDIUM
@@ -37,6 +73,18 @@ FSCA: MD: Various instruments for cardiology and cardiac surgery. Reason: . Mode
 **标签**: `anmat`, `medical_device_recall`, `sculptra`, `galderma`, `safety_alert`
 
 [查看来源 (Official Source)](https://www.argentina.gob.ar/noticias/anmat-prohibe-un-lote-del-producto-medico-sculptrar-de-la-firma-galderma)
+
+---
+
+### MHRA警示：所有照护环境中肠外营养输注须使用过滤器（DSI/2026/011）
+
+**2026-09-02** | UK MHRA | 安全通报 | !!! HIGH
+
+本MHRA药物安全警示（DSI/2026/011）要求在所有照护环境中输注肠外营养时必须使用管路过滤器。未使用过滤器输注肠外营养已导致多起不良事件，包括一起致命性栓塞。参与处方、配制和给药的医护人员应确保始终使用合适的过滤器，并立即落实本地操作程序。
+
+**标签**: `parenteral_nutrition`, `infusion_filters`, `mhra_safety_alert`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/filters-should-be-used-during-the-administration-of-parenteral-nutrition-for-patients-in-all-care-settings-dsi-slash-2026-slash-011)
 
 ---
 

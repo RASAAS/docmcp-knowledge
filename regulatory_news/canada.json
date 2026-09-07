@@ -1,7 +1,34 @@
 {
   "framework": "canada",
-  "last_updated": "2026-08-31T23:21:10Z",
+  "last_updated": "2026-09-07T22:02:12Z",
   "items": [
+    {
+      "id": "canada_20260907_health_canada_updates_forms_for_exceptional_importation_and",
+      "framework": "canada",
+      "category": "regulation_update",
+      "title": {
+        "en": "Health Canada Updates Forms for Exceptional Importation and Sale of Medical Devices",
+        "zh": "加拿大卫生部更新医疗器械特殊进口和销售表格"
+      },
+      "summary": {
+        "en": "Health Canada has published a compliance bulletin announcing updated forms for the exceptional importation and sale of medical devices. Stakeholders seeking authorization under the Medical Devices Regulations must use the revised forms. Manufacturers, importers, and distributors involved in exceptional access to medical devices should review the bulletin and update internal procedures to replace prior form versions.",
+        "zh": "加拿大卫生部发布合规公告，更新医疗器械特殊进口和销售相关表格。根据《医疗器械条例》申请特殊进口或销售授权的制造商、进口商和分销商须使用新版本表格。相关方应查看该公告，更新内部流程并停用旧版表格。"
+      },
+      "source_url": "https://www.canada.ca/en/health-canada/services/drugs-health-products/compliance-enforcement/establishment-licences/medical-devices-compliance-bulletin/updates-forms-exceptional-importation-sale.html",
+      "source_name": "Health Canada",
+      "published_date": "2026-09-07",
+      "detected_date": "2026-09-07T22:02:12Z",
+      "importance": "medium",
+      "tags": [
+        "medical_devices",
+        "exceptional_importation",
+        "health_canada",
+        "compliance_bulletin",
+        "forms"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
     {
       "id": "canada_20260831_health_canada_notice_changes_to_special_access_program_medic",
       "framework": "canada",
