@@ -1,7 +1,227 @@
 {
   "framework": "fda",
-  "last_updated": "2026-08-25T19:37:31Z",
+  "last_updated": "2026-09-08T21:49:59Z",
   "items": [
+    {
+      "id": "fda_20260908_spinal_cord_stimulator_recall_boston_scientific_removes_infi",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "Spinal Cord Stimulator Recall: Boston Scientific Removes Infinion CX Leads",
+        "zh": "Spinal Cord Stimulator Recall: Boston Scientific Removes Infinion CX Leads"
+      },
+      "summary": {
+        "en": "CDRH News",
+        "zh": "CDRH News"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/spinal-cord-stimulator-recall-boston-scientific-removes-infinion-cx-lead",
+      "source_name": "FDA",
+      "published_date": "2026-09-08",
+      "detected_date": "2026-09-08T21:48:06Z",
+      "importance": "medium",
+      "tags": [],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260908_ge_healthcare_updates_use_instructions_for_portrait_core_ser",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "GE HealthCare Updates Use Instructions for Portrait Core Services Software Correction",
+        "zh": "GE医疗更新Portrait Core Services软件使用说明纠正措施"
+      },
+      "summary": {
+        "en": "FDA announced a monitoring system correction by GE HealthCare for its Portrait Core Services Software. The company is updating use instructions to address potential operational issues and ensure safe use. Healthcare providers using this software should review the corrected instructions and implement changes in their monitoring workflows promptly.",
+        "zh": "FDA发布GE医疗对Portrait Core Services软件的监测系统纠正通知。GE医疗正在更新使用说明，以解决潜在的操作问题并确保安全使用。使用该软件的医疗机构应尽快查看更新后的说明，并在监测工作流程中落实相关变更。"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software",
+      "source_name": "FDA",
+      "published_date": "2026-09-08",
+      "detected_date": "2026-09-08T21:48:24Z",
+      "importance": "medium",
+      "tags": [
+        "ge_healthcare",
+        "software_correction",
+        "use_instructions",
+        "monitoring_system"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260908_medline_issues_correction_for_convenience_kits_containing_bd",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "Medline Issues Correction for Convenience Kits Containing BD ChloraPrep Applicators",
+        "zh": "Medline 对含 BD ChloraPrep 涂抹器的便利套件发布更正通知"
+      },
+      "summary": {
+        "en": "FDA is alerting stakeholders that Medline Industries has issued a correction for convenience kits containing BD ChloraPrep applicators, which are affected by a related BD applicator recall. Healthcare facilities and distributors that received these kits should identify affected lots and follow Medline's instructions for quarantine, return, or disposal. Immediate action is recommended to prevent use of affected kits.",
+        "zh": "FDA 提醒相关方，Medline Industries 已对包含 BD ChloraPrep 涂抹器的便利套件发布更正通知，相关涂抹器受到 BD 召回影响。收到此类套件的医疗机构和经销商应识别受影响批次，并按照 Medline 的指示进行隔离、退回或处置。建议立即采取行动，防止受影响套件被继续使用。"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-medline-issues-correction-convenience-kits-containing-bd-chloraprep",
+      "source_name": "FDA",
+      "published_date": "2026-09-08",
+      "detected_date": "2026-09-08T21:48:42Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "convenience_kits",
+        "chloraprep",
+        "antiseptic_applicator",
+        "fda_cdrh"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260908_medline_recalls_neonatal_and_infant_heated_wire_breathing_ci",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "Medline Recalls Neonatal and Infant Heated Wire Breathing Circuits",
+        "zh": "Medline召回新生儿和婴儿加热丝呼吸回路"
+      },
+      "summary": {
+        "en": "FDA CDRH announced that Medline is removing/recalling neonatal and infant heated wire breathing circuits. This action affects healthcare facilities using these Medline circuits for neonatal and infant respiratory support. Affected users should identify the recalled products, stop use, quarantine them, and follow Medline’s recall instructions.",
+        "zh": "FDA CDRH发布通知，Medline正在召回/移除新生儿和婴儿加热丝呼吸回路。受影响的是使用Medline该类呼吸回路的新生儿和婴儿呼吸支持医疗机构。相关机构应识别受影响产品，立即停止使用并隔离，按照Medline的召回通知进行后续处理。"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/breathing-circuit-recall-medline-removes-neonatal-and-infant-heated-wire-breathing-circuits",
+      "source_name": "FDA",
+      "published_date": "2026-09-08",
+      "detected_date": "2026-09-08T21:48:57Z",
+      "importance": "high",
+      "tags": [
+        "recall",
+        "breathing_circuit",
+        "neonatal",
+        "infant",
+        "medline",
+        "medical_device_safety"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260908_convenience_kit_correction_avid_medical_issues_correction_fo",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "Convenience Kit Correction: AVID Medical Issues Correction for Kits Containing Medline Namic Star Off Handle Manifolds",
+        "zh": "Convenience Kit Correction: AVID Medical Issues Correction for Kits Containing Medline Namic Star Off Handle Manifolds"
+      },
+      "summary": {
+        "en": "CDRH News",
+        "zh": "CDRH News"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-avid-medical-issues-correction-kits-containing-medline-namic-star-handle",
+      "source_name": "FDA",
+      "published_date": "2026-09-08",
+      "detected_date": "2026-09-08T21:49:28Z",
+      "importance": "medium",
+      "tags": [],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260908_percutaneous_catheter_recall_boston_scientific_removes_enrou",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "Percutaneous Catheter Recall: Boston Scientific Removes ENROUTE Transcarotid Neuroprotection System",
+        "zh": "Percutaneous Catheter Recall: Boston Scientific Removes ENROUTE Transcarotid Neuroprotection System"
+      },
+      "summary": {
+        "en": "CDRH News",
+        "zh": "CDRH News"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/percutaneous-catheter-recall-boston-scientific-removes-enroute-transcarotid-neuroprotection-system",
+      "source_name": "FDA",
+      "published_date": "2026-09-08",
+      "detected_date": "2026-09-08T21:49:59Z",
+      "importance": "medium",
+      "tags": [],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260908_class_i_recall_bmc_reacthealth_luna_g3_apap_ref_lg_3600_20_1",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: BMC/REACTHEALTH Luna G3 APAP (REF LG 3600) – 20,160 Units, 2024 Warehouse Rework",
+        "zh": "BMC/REACTHEALTH Luna G3 APAP（REF LG 3600）I级召回：20,160台仓库返工"
+      },
+      "summary": {
+        "en": "The FDA posted a Class I recall by BMC Medical Co., Ltd. covering 20,160 units of the BMC/REACTHEALTH Luna G3 APAP (REF LG 3600). The recall reason is retroactive reporting of 2024 rework performed at the 3B/React Health warehouse; Class I status indicates a reasonable probability of serious adverse health consequences or death. Users, healthcare facilities, and distributors should identify and quarantine affected devices and follow the manufacturer's recall instructions.",
+        "zh": "FDA已发布BMC Medical Co., Ltd.对20,160台BMC/REACTHEALTH Luna G3 APAP（REF LG 3600）的I级召回。召回原因为2024年在3B/React Health仓库进行的返工未及时报告；I级召回表明存在导致严重健康损害或死亡的合理可能性。医疗机构、分销商和患者应识别并隔离受影响设备，并遵循制造商的召回通知进行退货或纠正。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2979-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-08-26",
+      "detected_date": "2026-09-08T21:46:39Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "cpap_device",
+        "rework_reporting"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260908_class_i_recall_boston_scientific_enroute_transcarotid_neurop",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Boston Scientific ENROUTE Transcarotid Neuroprotection System Plus (Z-2978-2026)",
+        "zh": "波士顿科学ENROUTE经颈动脉神经保护系统Plus I级召回：鞘尖分离风险"
+      },
+      "summary": {
+        "en": "The FDA has classified Boston Scientific Corporation's recall of the ENROUTE Transcarotid Neuroprotection System Plus as Class I due to potential arterial sheath tip separation or partial tip separation during use, which may lead to serious adverse events such as vessel injury, thrombosis, or stroke. The recall affects 49,229 units under recall number Z-2978-2026. Healthcare providers should immediately identify and quarantine affected inventory and follow Boston Scientific's recall instructions.",
+        "zh": "FDA已将波士顿科学公司对ENROUTE经颈动脉神经保护系统Plus的召回列为I级，原因是使用过程中可能发生动脉鞘尖端分离或部分分离，可能导致血管损伤、血栓或中风等严重不良事件。此次召回涉及49,229台产品，召回编号Z-2978-2026。医疗机构应立即识别并隔离受影响库存，并遵循波士顿科学的召回通知。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2978-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-08-26",
+      "detected_date": "2026-09-08T21:46:53Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "boston_scientific",
+        "neuroprotection_system",
+        "arterial_sheath_tip_separation"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260908_class_i_recall_z_2872_2026_bard_bd_powered_driver_needle_kit",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall Z-2872-2026: Bard BD Powered Driver Needle Kit 15mm x 15Ga REF D015151NK",
+        "zh": "I级召回Z-2872-2026：Bard BD 15mm x 15Ga动力驱动针套件"
+      },
+      "summary": {
+        "en": "FDA classified this Bard Access Systems, Inc. action as a Class I recall (Z-2872-2026) affecting the BD Needle Kit for Powered Driver 15mm x 15Ga, REF D015151NK. The recall covers 80,200 intraosseous needle kits used when intravenous access is difficult or impossible in emergent, urgent, or medically necessary situations; after placement, users may experience difficulty with the device. Customers should immediately quarantine affected inventory and follow the manufacturer’s recall instructions.",
+        "zh": "FDA将Bard Access Systems, Inc.的本次行动列为I级召回（Z-2872-2026），涉及BD 15mm x 15Ga动力驱动器穿刺针套件，REF D015151NK。该召回涉及80,200套骨内针套件，用于紧急、危重或医疗必需情况下静脉通路难以建立时；置入后用户可能遇到器械使用困难。客户应立即隔离受影响库存并遵循制造商召回指示。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2872-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-08-26",
+      "detected_date": "2026-09-08T21:47:16Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "intraosseous_needle_kit",
+        "bard_access_systems"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
     {
       "id": "fda_20260825_early_alert_portrait_mobile_monitoring_software_issue_from_g",
       "framework": "fda",
@@ -155,6 +375,33 @@
       "status": "published"
     },
     {
+      "id": "fda_20260908_olympus_powerseal_5mm_23cm_curved_jaw_sealer_divider_recalle",
+      "framework": "fda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Olympus POWERSEAL 5mm 23cm Curved Jaw Sealer & Divider Recalled for Outer Box Labeling as 37-cm Device",
+        "zh": "奥林巴斯POWERSEAL 5mm 23cm弯嘴双动闭合器因外箱误标37cm召回"
+      },
+      "summary": {
+        "en": "FDA has posted device recall Z-3035-2026 for Olympus Corporation of the Americas' POWERSEAL 5 mm diameter, 23 cm long curved jaw sealer and divider, double action. The recall is due to a labeling deficiency in which an outer shelf box is incorrectly labeled as a 37-cm device. Providers should check inventory and follow recall instructions to avoid potential device selection errors during procedures.",
+        "zh": "美国FDA发布器械召回Z-3035-2026，涉及奥林巴斯美国公司的POWERSEAL 5毫米直径、23厘米长弯嘴双动闭合/分离器。召回原因为外包装箱存在标签缺陷，被错误标注为37厘米器械。医疗机构应核对库存并遵循召回通知，以避免手术中因标签错误导致器械选择错误。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=221962",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-08-18",
+      "detected_date": "2026-09-08T21:44:07Z",
+      "importance": "high",
+      "tags": [
+        "fda_recall",
+        "labeling_deficiency",
+        "electrosurgical_device",
+        "olympus",
+        "medical_device_safety"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
       "id": "fda_20260818_class_i_recall_avid_medical_halyard_kits_with_recalled_medli",
       "framework": "fda",
       "category": "recall_class1",
@@ -253,6 +500,156 @@
         "hamilton_medical",
         "ventilation",
         "safety_alert"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260908_baxter_novum_iq_syringe_pump_recall_software_issue_in_volume",
+      "framework": "fda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Baxter Novum IQ Syringe Pump Recall: Software Issue in Volume/Time Multi-Syringe Infusion (Z-3065-2026)",
+        "zh": "Baxter Novum IQ 注射泵召回：多注射器输注软件问题"
+      },
+      "summary": {
+        "en": "The FDA posted a recall (Z-3065-2026) for the Baxter Healthcare Corporation Novum IQ Syringe Pump, Model 40800BAXUS. A software issue may occur during Volume/Time (VOT) multi-syringe infusion when a syringe reaches empty and is replaced while a Volume To Be Infused (VTBI) remains, potentially causing infusion interruption or delay. Healthcare providers should follow Baxter’s recall instructions, identify affected devices, and implement required corrections or mitigations.",
+        "zh": "FDA 发布 Baxter Healthcare Corporation Novum IQ 注射泵（型号 40800BAXUS）召回（Z-3065-2026）。该设备在 Volume/Time (VOT) 多注射器输注过程中，当一个注射器输空被更换且仍有剩余待输注量（VTBI）时，可能发生软件问题，导致输注中断或延迟。医疗机构应按照 Baxter 的召回通知识别受影响设备并采取纠正或缓解措施。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=221856",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-08-11",
+      "detected_date": "2026-09-08T21:44:21Z",
+      "importance": "high",
+      "tags": [
+        "device_recall",
+        "infusion_pump",
+        "software_issue"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260908_device_recall_baxter_healthcare_corporation_baxter_novum_iq",
+      "framework": "fda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Device Recall: Baxter Healthcare Corporation - Baxter Novum IQ Syringe Pump, Loaner, Model Number 40800BAXUSL",
+        "zh": "Device Recall: Baxter Healthcare Corporation - Baxter Novum IQ Syringe Pump, Loaner, Model Number 40800BAXUSL"
+      },
+      "summary": {
+        "en": "Recall Z-3066-2026: A software issue that may occur during a Volume/Time (VOT) multi-syringe infusion when a syringe reaches empty and is replaced while a Volume To Be Infused (VTBI) remains.",
+        "zh": "Recall Z-3066-2026: A software issue that may occur during a Volume/Time (VOT) multi-syringe infusion when a syringe reaches empty and is replaced while a Volume To Be Infused (VTBI) remains."
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=221857",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-08-11",
+      "detected_date": "2026-09-08T21:44:53Z",
+      "importance": "medium",
+      "tags": [],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260908_fresenius_5008x_standard_hd_pre_flush_blood_tubing_set_03_51",
+      "framework": "fda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Fresenius 5008X Standard HD Pre-Flush Blood Tubing Set (03-5110-6) Recall: Blood Leak Risk",
+        "zh": "费森尤斯5008X标准HD预冲洗血液管路（03-5110-6）因漏血风险召回"
+      },
+      "summary": {
+        "en": "FDA recall Z-3084-2026 affects the Fresenius Medical Care Renal Therapies Group 5008X Standard HD Pre-Flush Standard Blood Tubing Set, part number 03-5110-6. The connection between the Arterial Alpha Clip and the main line or pump segment has a heightened probability of blood leak, which may cause blood loss and hypovolemia during hemodialysis. Providers should identify and quarantine affected sets, follow recall instructions, and monitor patients for signs of blood loss.",
+        "zh": "美国FDA发布召回Z-3084-2026，涉及费森尤斯医疗肾疗集团5008X标准HD预冲洗标准血液管路，产品编号03-5110-6。该管路动脉Alpha夹与主管路或泵段连接处存在较高漏血风险，治疗中漏血可能导致失血和低血容量。医疗机构应识别并隔离受影响产品，按召回要求处置，并监测患者是否出现失血相关症状。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=221852",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-08-10",
+      "detected_date": "2026-09-08T21:45:07Z",
+      "importance": "high",
+      "tags": [
+        "device_recall",
+        "fda_safety",
+        "hemodialysis_tubing",
+        "blood_leak"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260908_fda_recall_fresenius_5008x_hd_hdf_standard_blood_tubing_set",
+      "framework": "fda",
+      "category": "safety_communication",
+      "title": {
+        "en": "FDA Recall: Fresenius 5008X HD/HDF Standard Blood Tubing Set (P/N 03-5300-3) Leak Risk",
+        "zh": "FDA召回Z-3085-2026：费森尤斯5008X HD/HDF标准血路管（P/N 03-5300-3）漏血风险"
+      },
+      "summary": {
+        "en": "The FDA has posted recall Z-3085-2026 for the Fresenius Medical Care Renal Therapies Group 5008X HD/HDF Standard Blood Tubing Set, part number 03-5300-3, due to a heightened probability of blood leakage at the connection between the Arterial Alpha Clip and the main line or pump segment. A leak during hemodialysis or hemodiafiltration may lead to blood loss and hypovolemia. Healthcare providers should stop use and quarantine affected sets, contact Fresenius for return/replacement, and monitor patients for signs of blood loss if a leak was suspected.",
+        "zh": "FDA已发布召回Z-3085-2026，涉及费森尤斯医疗肾治疗集团5008X HD/HDF标准血路管（部件号03-5300-3），原因是动脉Alpha夹与主管路/泵段连接处发生漏血的概率升高。治疗期间漏血可能导致患者失血和低血容量。医护人员应停止使用并隔离受影响产品，联系费森尤斯退货/更换；如怀疑已发生漏血，应监测患者是否出现失血迹象。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=221853",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-08-10",
+      "detected_date": "2026-09-08T21:45:31Z",
+      "importance": "high",
+      "tags": [
+        "fda_recall",
+        "hemodialysis_tubing_set",
+        "blood_loss_hypovolemia"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260908_fresenius_5008x_hd_hdf_with_clic_blood_tubing_set_part_03_53",
+      "framework": "fda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Fresenius 5008X HD/HDF with CLiC Blood Tubing Set (Part 03-5300-3C) Recalled Due to Blood Leak Risk",
+        "zh": "费森尤斯5008X HD/HDF CLiC血液管路组（部件号03-5300-3C）因漏血风险召回"
+      },
+      "summary": {
+        "en": "The FDA has posted recall Z-3086-2026 for Fresenius Medical Care Renal Therapies Group, LLC's 5008X HD/HDF with CLiC Blood Tubing Set, part number 03-5300-3C. The connection between the Arterial Alpha Clip and the main line or pump segment has a heightened probability of blood leak, which may lead to blood loss and hypovolemia during treatment. Healthcare providers should identify and quarantine affected tubing sets and follow Fresenius Medical Care's recall instructions.",
+        "zh": "FDA发布召回Z-3086-2026，涉及费森尤斯医疗肾护理集团生产的5008X HD/HDF及CLiC血液管路组，部件号03-5300-3C。该产品动脉Alpha夹与主管路/泵段连接处漏血风险增高，治疗中可能导致失血和低血容量。医疗机构应识别并隔离受影响产品，遵循费森尤斯医疗的召回指示。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=221854",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-08-10",
+      "detected_date": "2026-09-08T21:45:48Z",
+      "importance": "high",
+      "tags": [
+        "fda_recall",
+        "hemodialysis",
+        "blood_leak_risk",
+        "fresenius_medical_care"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260908_fresenius_5008x_hd_hdf_with_twister_blood_tubing_set_part_03",
+      "framework": "fda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Fresenius 5008X HD/HDF with Twister Blood Tubing Set (Part 03-5350-8) Recalled Due to Blood Leak Risk",
+        "zh": "费森尤斯5008X HD/HDF Twister血路管套装（部件号03-5350-8）因漏血风险召回"
+      },
+      "summary": {
+        "en": "FDA posted recall Z-3087-2026 for Fresenius Medical Care Renal Therapies Group's 5008X HD/HDF with Twister Blood Tubing Set, part number 03-5350-8. The device has a heightened probability of blood leak at the connection between the Arterial Alpha Clip and the main line or pump segment, which may cause blood loss and hypovolemia during treatment. Affected facilities should identify and quarantine the product, and users should follow the manufacturer's recall instructions and monitor for leaks.",
+        "zh": "FDA发布召回Z-3087-2026，涉及费森尤斯医疗肾疗集团5008X HD/HDF及Twister血路管套装，部件号03-5350-8。该装置在动脉Alpha夹与主管路或泵段连接处发生漏血的概率升高，治疗期间漏血可能导致失血和低血容量。相关机构应识别并隔离受影响产品，用户应遵循制造商召回通知并加强漏血监测。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=221855",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-08-10",
+      "detected_date": "2026-09-08T21:46:11Z",
+      "importance": "high",
+      "tags": [
+        "device_recall",
+        "fresenius_medical_care",
+        "blood_tubing_set",
+        "hemodialysis",
+        "fda_safety"
       ],
       "related_docs": [],
       "status": "published"

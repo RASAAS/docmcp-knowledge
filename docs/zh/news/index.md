@@ -6,6 +6,72 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### Spinal Cord Stimulator Recall: Boston Scientific Removes Infinion CX Leads
+
+**2026-09-08** | FDA | cdrh_news | !! MEDIUM
+
+CDRH News
+
+[查看来源 (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/spinal-cord-stimulator-recall-boston-scientific-removes-infinion-cx-lead)
+
+---
+
+### GE医疗更新Portrait Core Services软件使用说明纠正措施
+
+**2026-09-08** | FDA | cdrh_news | !! MEDIUM
+
+FDA发布GE医疗对Portrait Core Services软件的监测系统纠正通知。GE医疗正在更新使用说明，以解决潜在的操作问题并确保安全使用。使用该软件的医疗机构应尽快查看更新后的说明，并在监测工作流程中落实相关变更。
+
+**标签**: `ge_healthcare`, `software_correction`, `use_instructions`, `monitoring_system`
+
+[查看来源 (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software)
+
+---
+
+### Medline 对含 BD ChloraPrep 涂抹器的便利套件发布更正通知
+
+**2026-09-08** | FDA | cdrh_news | !!! HIGH
+
+FDA 提醒相关方，Medline Industries 已对包含 BD ChloraPrep 涂抹器的便利套件发布更正通知，相关涂抹器受到 BD 召回影响。收到此类套件的医疗机构和经销商应识别受影响批次，并按照 Medline 的指示进行隔离、退回或处置。建议立即采取行动，防止受影响套件被继续使用。
+
+**标签**: `medical_device_recall`, `convenience_kits`, `chloraprep`, `antiseptic_applicator`, `fda_cdrh`
+
+[查看来源 (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-medline-issues-correction-convenience-kits-containing-bd-chloraprep)
+
+---
+
+### Medline召回新生儿和婴儿加热丝呼吸回路
+
+**2026-09-08** | FDA | cdrh_news | !!! HIGH
+
+FDA CDRH发布通知，Medline正在召回/移除新生儿和婴儿加热丝呼吸回路。受影响的是使用Medline该类呼吸回路的新生儿和婴儿呼吸支持医疗机构。相关机构应识别受影响产品，立即停止使用并隔离，按照Medline的召回通知进行后续处理。
+
+**标签**: `recall`, `breathing_circuit`, `neonatal`, `infant`, `medline`, `medical_device_safety`
+
+[查看来源 (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/breathing-circuit-recall-medline-removes-neonatal-and-infant-heated-wire-breathing-circuits)
+
+---
+
+### Convenience Kit Correction: AVID Medical Issues Correction for Kits Containing Medline Namic Star Off Handle Manifolds
+
+**2026-09-08** | FDA | cdrh_news | !! MEDIUM
+
+CDRH News
+
+[查看来源 (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-avid-medical-issues-correction-kits-containing-medline-namic-star-handle)
+
+---
+
+### Percutaneous Catheter Recall: Boston Scientific Removes ENROUTE Transcarotid Neuroprotection System
+
+**2026-09-08** | FDA | cdrh_news | !! MEDIUM
+
+CDRH News
+
+[查看来源 (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/percutaneous-catheter-recall-boston-scientific-removes-enroute-transcarotid-neuroprotection-system)
+
+---
+
 ### 加拿大卫生部更新医疗器械特殊进口和销售表格
 
 **2026-09-07** | Health Canada | 法规更新 | !! MEDIUM
@@ -626,6 +692,42 @@ FSCA: MD: Full-body CT system. Reason: . Model: 728342.
 
 ---
 
+### BMC/REACTHEALTH Luna G3 APAP（REF LG 3600）I级召回：20,160台仓库返工
+
+**2026-08-26** | FDA | recall_class1 | !!! HIGH
+
+FDA已发布BMC Medical Co., Ltd.对20,160台BMC/REACTHEALTH Luna G3 APAP（REF LG 3600）的I级召回。召回原因为2024年在3B/React Health仓库进行的返工未及时报告；I级召回表明存在导致严重健康损害或死亡的合理可能性。医疗机构、分销商和患者应识别并隔离受影响设备，并遵循制造商的召回通知进行退货或纠正。
+
+**标签**: `class_i_recall`, `cpap_device`, `rework_reporting`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2979-2026)
+
+---
+
+### 波士顿科学ENROUTE经颈动脉神经保护系统Plus I级召回：鞘尖分离风险
+
+**2026-08-26** | FDA | recall_class1 | !!! HIGH
+
+FDA已将波士顿科学公司对ENROUTE经颈动脉神经保护系统Plus的召回列为I级，原因是使用过程中可能发生动脉鞘尖端分离或部分分离，可能导致血管损伤、血栓或中风等严重不良事件。此次召回涉及49,229台产品，召回编号Z-2978-2026。医疗机构应立即识别并隔离受影响库存，并遵循波士顿科学的召回通知。
+
+**标签**: `class_i_recall`, `boston_scientific`, `neuroprotection_system`, `arterial_sheath_tip_separation`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2978-2026)
+
+---
+
+### I级召回Z-2872-2026：Bard BD 15mm x 15Ga动力驱动针套件
+
+**2026-08-26** | FDA | recall_class1 | !!! HIGH
+
+FDA将Bard Access Systems, Inc.的本次行动列为I级召回（Z-2872-2026），涉及BD 15mm x 15Ga动力驱动器穿刺针套件，REF D015151NK。该召回涉及80,200套骨内针套件，用于紧急、危重或医疗必需情况下静脉通路难以建立时；置入后用户可能遇到器械使用困难。客户应立即隔离受影响库存并遵循制造商召回指示。
+
+**标签**: `class_i_recall`, `intraosseous_needle_kit`, `bard_access_systems`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2872-2026)
+
+---
+
 ### MHRA警示：钴铬模块颈髋关节置换物金属磨损与翻修手术风险（DSI/2026/010）
 
 **2026-08-26** | UK MHRA | 安全通报 | !!! HIGH
@@ -1188,6 +1290,18 @@ CDRH News
 
 ---
 
+### 奥林巴斯POWERSEAL 5mm 23cm弯嘴双动闭合器因外箱误标37cm召回
+
+**2026-08-18** | FDA | 安全通报 | !!! HIGH
+
+美国FDA发布器械召回Z-3035-2026，涉及奥林巴斯美国公司的POWERSEAL 5毫米直径、23厘米长弯嘴双动闭合/分离器。召回原因为外包装箱存在标签缺陷，被错误标注为37厘米器械。医疗机构应核对库存并遵循召回通知，以避免手术中因标签错误导致器械选择错误。
+
+**标签**: `fda_recall`, `labeling_deficiency`, `electrosurgical_device`, `olympus`, `medical_device_safety`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=221962)
+
+---
+
 ### MHRA现场安全通告：2026年8月10日至14日
 
 **2026-08-18** | UK MHRA | 安全通报 | !! MEDIUM
@@ -1502,6 +1616,28 @@ FSCA: MD: Ophthalmology instruments. Reason: . Model: .
 
 ---
 
+### Baxter Novum IQ 注射泵召回：多注射器输注软件问题
+
+**2026-08-11** | FDA | 安全通报 | !!! HIGH
+
+FDA 发布 Baxter Healthcare Corporation Novum IQ 注射泵（型号 40800BAXUS）召回（Z-3065-2026）。该设备在 Volume/Time (VOT) 多注射器输注过程中，当一个注射器输空被更换且仍有剩余待输注量（VTBI）时，可能发生软件问题，导致输注中断或延迟。医疗机构应按照 Baxter 的召回通知识别受影响设备并采取纠正或缓解措施。
+
+**标签**: `device_recall`, `infusion_pump`, `software_issue`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=221856)
+
+---
+
+### Device Recall: Baxter Healthcare Corporation - Baxter Novum IQ Syringe Pump, Loaner, Model Number 40800BAXUSL
+
+**2026-08-11** | FDA | 安全通报 | !! MEDIUM
+
+Recall Z-3066-2026: A software issue that may occur during a Volume/Time (VOT) multi-syringe infusion when a syringe reaches empty and is replaced while a Volume To Be Infused (VTBI) remains.
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=221857)
+
+---
+
 ### MHRA现场安全通告：2026年8月3日至7日
 
 **2026-08-11** | UK MHRA | 安全通报 | !! MEDIUM
@@ -1589,6 +1725,54 @@ Swissmedic发布了涉及Edwards Lifesciences ForeSight血氧电缆的现场安�
 **标签**: `swissmedic`, `fsca`, `medical_device_safety`
 
 [查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260810_030)
+
+---
+
+### 费森尤斯5008X标准HD预冲洗血液管路（03-5110-6）因漏血风险召回
+
+**2026-08-10** | FDA | 安全通报 | !!! HIGH
+
+美国FDA发布召回Z-3084-2026，涉及费森尤斯医疗肾疗集团5008X标准HD预冲洗标准血液管路，产品编号03-5110-6。该管路动脉Alpha夹与主管路或泵段连接处存在较高漏血风险，治疗中漏血可能导致失血和低血容量。医疗机构应识别并隔离受影响产品，按召回要求处置，并监测患者是否出现失血相关症状。
+
+**标签**: `device_recall`, `fda_safety`, `hemodialysis_tubing`, `blood_leak`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=221852)
+
+---
+
+### FDA召回Z-3085-2026：费森尤斯5008X HD/HDF标准血路管（P/N 03-5300-3）漏血风险
+
+**2026-08-10** | FDA | 安全通报 | !!! HIGH
+
+FDA已发布召回Z-3085-2026，涉及费森尤斯医疗肾治疗集团5008X HD/HDF标准血路管（部件号03-5300-3），原因是动脉Alpha夹与主管路/泵段连接处发生漏血的概率升高。治疗期间漏血可能导致患者失血和低血容量。医护人员应停止使用并隔离受影响产品，联系费森尤斯退货/更换；如怀疑已发生漏血，应监测患者是否出现失血迹象。
+
+**标签**: `fda_recall`, `hemodialysis_tubing_set`, `blood_loss_hypovolemia`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=221853)
+
+---
+
+### 费森尤斯5008X HD/HDF CLiC血液管路组（部件号03-5300-3C）因漏血风险召回
+
+**2026-08-10** | FDA | 安全通报 | !!! HIGH
+
+FDA发布召回Z-3086-2026，涉及费森尤斯医疗肾护理集团生产的5008X HD/HDF及CLiC血液管路组，部件号03-5300-3C。该产品动脉Alpha夹与主管路/泵段连接处漏血风险增高，治疗中可能导致失血和低血容量。医疗机构应识别并隔离受影响产品，遵循费森尤斯医疗的召回指示。
+
+**标签**: `fda_recall`, `hemodialysis`, `blood_leak_risk`, `fresenius_medical_care`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=221854)
+
+---
+
+### 费森尤斯5008X HD/HDF Twister血路管套装（部件号03-5350-8）因漏血风险召回
+
+**2026-08-10** | FDA | 安全通报 | !!! HIGH
+
+FDA发布召回Z-3087-2026，涉及费森尤斯医疗肾疗集团5008X HD/HDF及Twister血路管套装，部件号03-5350-8。该装置在动脉Alpha夹与主管路或泵段连接处发生漏血的概率升高，治疗期间漏血可能导致失血和低血容量。相关机构应识别并隔离受影响产品，用户应遵循制造商召回通知并加强漏血监测。
+
+**标签**: `device_recall`, `fresenius_medical_care`, `blood_tubing_set`, `hemodialysis`, `fda_safety`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=221855)
 
 ---
 
