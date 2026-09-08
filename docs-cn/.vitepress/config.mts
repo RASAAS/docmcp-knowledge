@@ -34,6 +34,7 @@ export default defineConfig({
             {
               text: "EU MDR 临床评价",
               items: [
+                { text: "临床评价概览", link: "/zh/guide/eu-ce-overview" },
                 { text: "创建项目", link: "/zh/guide/eu-create-project" },
                 { text: "设备信息 (Step 1)", link: "/zh/guide/eu-step1" },
                 { text: "临床背景 (Step 2)", link: "/zh/guide/eu-step2" },
