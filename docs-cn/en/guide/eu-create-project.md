@@ -1,5 +1,9 @@
 # Create EU MDR Project
 
+::: info
+The full narrative for this page — six evaluation pathways, Device Description as source of truth, and the rule that context files feed steps rather than CEP/CER generation — is currently maintained in the [Chinese create-project guide](/zh/guide/eu-create-project). Read the [Chinese clinical evaluation overview](/zh/guide/eu-ce-overview) first. English translation will follow after that text is confirmed.
+:::
+
 ## Overview
 
 Create a project to start the EU MDR clinical evaluation workflow. After creation, the system guides you through 10 steps to generate CEP, CER, and DCR documents.
