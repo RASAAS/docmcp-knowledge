@@ -1,5 +1,9 @@
 # Full-text Appraisal (Step 7)
 
+::: info
+The current Step-by-step operating guide is maintained in Chinese. Read [Step 7](/zh/guide/eu-step7) after the [overview](/zh/guide/eu-ce-overview). English translation will follow after that text is confirmed.
+:::
+
 ## Overview
 
 Step 7 performs full-text quality appraisal of literature screened as "Relevant" in Step 4, using systematic scoring based on IMDRF clinical evaluation guidance and MDCG evidence grading criteria.

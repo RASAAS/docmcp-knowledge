@@ -1,5 +1,9 @@
 # Generate Documents (CEP/CER/DCR)
 
+::: info
+The current operating guide is maintained in Chinese. Read [Generate Documents](/zh/guide/eu-documents) after the [overview](/zh/guide/eu-ce-overview). English translation will follow after that text is confirmed.
+:::
+
 ## Document Types
 
 | Document | Full Name | Generation Method |

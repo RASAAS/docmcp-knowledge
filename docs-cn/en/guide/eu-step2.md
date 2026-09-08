@@ -1,5 +1,9 @@
 # Clinical Background (Step 2)
 
+::: info
+The current Step-by-step operating guide is maintained in Chinese. Read [Step 2](/zh/guide/eu-step2) after the [overview](/zh/guide/eu-ce-overview). English translation will follow after that text is confirmed.
+:::
+
 Step 2 generates clinical background information including disease context, current treatment options, and technology landscape.
 
 ## Generated Content

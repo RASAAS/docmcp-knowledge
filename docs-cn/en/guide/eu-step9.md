@@ -1,5 +1,9 @@
 # Risk Summary & Gap Analysis (Step 9)
 
+::: info
+The current Step-by-step operating guide is maintained in Chinese. Read [Step 9 / BF / 10](/zh/guide/eu-step9) after the [overview](/zh/guide/eu-ce-overview). English translation will follow after that text is confirmed.
+:::
+
 ## Overview
 
 Step 9 synthesizes all clinical evidence and safety data to perform benefit-risk assessment, identify clinical data gaps, and provide post-market monitoring recommendations. This is the final analytical step of the clinical evaluation workflow.

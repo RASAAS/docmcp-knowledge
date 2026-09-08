@@ -1,5 +1,9 @@
 # Literature Search Strategy (Step 3)
 
+::: info
+The current Step-by-step operating guide is maintained in Chinese. Read [Step 3](/zh/guide/eu-step3) after the [overview](/zh/guide/eu-ce-overview). English translation will follow after that text is confirmed.
+:::
+
 ## Overview
 
 Step 3 defines the systematic literature search strategy, including database selection, search terms, and inclusion/exclusion criteria. AI automatically generates a strategy compliant with MEDDEV 2.7/1 Rev.4 requirements.

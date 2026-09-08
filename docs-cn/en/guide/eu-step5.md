@@ -1,5 +1,9 @@
 # Safety Data (Step 5)
 
+::: info
+The current Step-by-step operating guide is maintained in Chinese. Read [Step 5](/zh/guide/eu-step5) after the [overview](/zh/guide/eu-ce-overview). English translation will follow after that text is confirmed.
+:::
+
 ## Overview
 
 Step 5 collects and organizes post-market safety surveillance data from major global medical device vigilance databases. This data provides the evidence base for subsequent risk assessment and benefit-risk analysis.

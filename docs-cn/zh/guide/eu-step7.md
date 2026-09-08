@@ -1,80 +1,60 @@
-# 全文评审 (Step 7)
+# Step 7：全文评价
 
-## 概述
+Step 7 对拟纳入的全文做质量评分、来源分类和数据提取。来源标签（D1 / D2(a) / D2(b) / Eqv+SOTA）是后续 Step 8 和 DCR 的统计口径，必须按 [概览第 1.4 节](./eu-ce-overview) 的定义打，不能按「好用」改标。
 
-Step 7 对 Step 4 筛选为「相关」的文献进行全文质量评审 (Full-text Appraisal)，依据 IMDRF 临床评价指南和 MDCG 证据分级标准对每篇文献进行系统评分。
+## 这一步在法规上完成什么
 
-## 评分体系
+每条拟支持宣称的证据都要能说明设计是否可靠、是否适用于 DUE、人群是否对应、报告是否完整。来源分类决定这篇文献能干什么：D1 和 D2(a) 可以支持宣称；D2(b) 只用于制定接受标准。评分的合计由系统按 D + A + P + R 计算。
 
-### 四维度质量评分
+## 在助手中怎么操作
 
-每篇文献按以下四个维度评分，每维度 1-3 分：
+![Step 7 示意：PDF 列表、来源标签、D/A/P/R 与合计](/guide/ce/ce-ui-step7.png)
 
-| 维度 | 说明 | 分值 |
-|------|------|------|
-| Design (D) | 研究设计质量 | 1-3 |
-| Applicability (A) | 对目标器械的适用性 | 1-3 |
-| Population (P) | 研究人群的相关性 | 1-3 |
-| Reporting (R) | 结果报告的完整性 | 1-3 |
-| **Total (SUM)** | **综合评分** | **4-12** |
+*界面示意，不是真截图。*
 
-### SOTA 评分
+1. 上传拟评价的全文 PDF。一次处理一份，等当前份提取完成再传下一份。已提取的条目在取消后仍保留。
+2. 需要时标明这批 PDF 的来源（数据库检索、引文检索、制造商资料、本器械试验、既往临床评价等），便于 PRISMA 分类。
+3. 若适应症存在伦理上无法做 RCT 的情形，与 Step 4 一样勾选伦理禁忌并写明适应症；不得只因没有 RCT 而把设计维打到最低。
+4. 开始评价。文献多时按批进行：默认自动继续，可 **Pause** 后 **Continue Appraisal**。出错会停住。
+5. 审阅每篇：引用信息、D/A/P/R、合计、来源标签、抽出的终点。合计被改过且不等于四维之和时，以四维之和为准。
+6. 来源标签必须能对上名单：
+   - **D1**：DUE 本身的商品名/型号/制造商。
+   - **D2(a)**：等同名单上的精确型号。
+   - **D2(b)**：相似/可比器械、指南、替代疗法。
+   - **Eqv+SOTA**：同一研究既有等同臂又有其他品牌/型号臂——按臂拆开，合计值不能既当标准又当等同证据。
+7. 全部批次完成后 **Approve**。批准时不要把已经累计的长结果再整份重交一遍；按界面提示确认状态即可。
+8. 补传 PDF 用 **Reopen** 或 **Continue / Add More**，追加到已有评价之后。**Redo All** 会清空全部评价，须确认。
 
-除四维度评分外，还对每篇文献进行 State of the Art (SOTA) 评估，判断文献是否反映当前最新技术水平和临床实践。
+文章数量以已提取的 PDF 为准。对不上的短引用不要当成新文章追加进去。两个编号不同、剩余文件名相同的文件，只在补传「同一个洞」时合并；两个编号都在的同名作者文章仍是两行。
 
-### 贡献度评估
-
-评估每篇文献对临床评价结论的贡献程度：
-- 对安全性论证的贡献
-- 对有效性论证的贡献
-- 对获益-风险评价的贡献
-
-## 伦理禁忌声明（可选）
-
-与 Step 4 相同，如果目标适应症存在伦理限制无法开展 RCT，可启用「Ethical Contraindications」选项。启用后评分时将调整对研究设计等级的要求，不因缺少 RCT 而给予低分。
-
-## 批次处理
-
-Step 7 同样采用分批次处理模式：
-- 每批处理一组文献的全文评审
-- 支持 Auto-continue 模式自动执行
-- 可暂停为手动逐批审阅
-- 所有批次完成后合并评审结果
-
-## 输出内容
-
-每篇文献的评审结果包括：
-- 四维度评分 (D/A/P/R) 和综合分
-- SOTA 评估结论
-- 贡献度评价
-- 关键发现摘要
-- 方法学局限性说明
+等同优先时，第一波只评价 Equivalent + DUE。Gate 根据本步已经打成 D2(a) 的提取结果，列出目前能对应哪些宣称；它不是完整 Step 8。D2(a) 为空时会警告，二次确认后仍可继续 SOTA/D2(b) 全文。
 
 ## 用 ArticleFetcher 按纳排归档 PDF {#af-organize}
 
-全文评审后，可用 **导出清单** 生成 CSV，再让 ArticleFetcher **Organize** 把 PDF 分到纳入/排除文件夹。
+评价后可 **导出清单**，用 ArticleFetcher **Organize** 把 PDF 分到纳入/排除文件夹。须使用 v0.5.1 或更新版本。下载与 [Step 4](./eu-step4.html#af-fetch) 相同。
 
-**必须使用 v0.5.1 或更新版本。** 请用下面的链接下载，或到 [Step 4](./eu-step4.html#af-fetch) / 助手 Step 4 工具栏重新下载，也可使用已经下载的最新版。旧版没有 Organize 页，也无法按 `DuplicateOf` / 「重复于」处理同一 DOI 的多份 PDF。
+1. 在 Step 7 汇总处 **导出清单**，得到处置 CSV。
+2. 打开 ArticleFetcher 的 **Organize** 页：选择当初下载 PDF 的文件夹和该清单。
+3. 默认复制（不删原文件）。确认无误后再考虑改为移动。
+4. **Organize Files**。查看 `Included/`、`Excluded/`、`Unmatched/` 和 `organize_report.csv`。
 
-**下载 ArticleFetcher v0.5.1：**
+匹配顺序：完整文件名 → 筛选号 → 用下载报告按 DOI 补匹配。同一 DOI 的额外 PDF 各留一份；不会按「姓 + 年份」合并不同文章。
 
-- Windows：[国内](https://app.reguverse.com/downloads/ArticleFetcher-Windows.zip) · [国际](https://app.team-ra.org/downloads/ArticleFetcher-Windows.zip)
-- macOS：[国内](https://app.reguverse.com/downloads/ArticleFetcher-macOS-GUI.zip) · [国际](https://app.team-ra.org/downloads/ArticleFetcher-macOS-GUI.zip)
+![ArticleFetcher Organize](/guide/af/organize.png)
 
-1. 在 Step 7 汇总处点击 **导出清单**，得到 `step7_disposition_日期.csv`。
-2. 打开 ArticleFetcher，切换到 **Organize** 页。
-3. **PDF folder**：选择当初用 Fetch 下载 PDF 的文件夹。
-4. **Disposition CSV**：选择刚导出的清单。
-5. 默认是 **复制**（不删除原文件）。若确认无误、希望直接挪走文件，再勾选 **Move files instead of copy**。
-6. 点击 **Organize Files**。完成后查看：
-   - `Included/`：纳入全文
-   - `Excluded/`：排除全文
-   - `Unmatched/`：清单有、文件夹里对不上的行，以及 `organize_report.csv`
+## 审阅什么
 
-匹配顺序：完整文件名 → 筛选号（`N.` 或 `N_`）→ 用 `download_report.csv` 按 DOI 补匹配。同一 DOI 的额外 PDF 各保留一份文件；**不会**按「姓 + 年份」合并不同文章。
+- 本器械已发表文献是 D1，不是 D2(b)。
+- 没有把相似器械论文改标成 D2(a)。
+- 抽出的终点能对应到 Step 1 的宣称，而不是论文里碰巧出现的所有指标。
+- 排除的全文有理由，能进 DCR。
 
-![ArticleFetcher Organize：选择 PDF 文件夹与 Step 7 清单后归档](/guide/af/organize.png)
+## 常见失败
+
+- 并行提取大量 PDF 导致界面卡死；应一份一份来。
+- 用生成稿里的合计，不核对四维之和。
+- 把未分臂的头对头试验合计既当接受标准又当等同证据。
 
 ## 下一步
 
-→ [文献总结 (Step 8)](./eu-step8)
+→ [Step 8 数据汇总](./eu-step8)

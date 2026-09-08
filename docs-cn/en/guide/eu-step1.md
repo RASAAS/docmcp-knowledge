@@ -1,5 +1,9 @@
 # Device Info (Step 1)
 
+::: info
+The current Step-by-step operating guide is maintained in Chinese. Read [Step 1](/zh/guide/eu-step1) after the [overview](/zh/guide/eu-ce-overview). English translation will follow after that text is confirmed.
+:::
+
 Step 1 confirms the device's intended purpose, indications, and target population. This information underpins all subsequent steps.
 
 ## Workflow

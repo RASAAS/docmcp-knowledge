@@ -1,84 +1,57 @@
-# 文献筛选 (Step 4)
+# Step 4：文献筛选
 
-## 概述
+Step 4 按 Step 3 的纳入/排除标准做标题/摘要筛选，并按检索类型归档。输出是相关 / 不相关，还不是全文评分，也还不是 D1 / D2(a) / D2(b)。
 
-Step 4 对文献检索结果进行自动筛选（Title/Abstract Screening），根据 Step 3 中定义的纳入/排除标准判定每篇文献的相关性。
+## 这一步在法规上完成什么
 
-## 上传检索结果
+系统评价必须先有可追溯的筛选记录，DCR 的识别、去重和筛选计数都来自本步。去重按篇，不按库把同一研究算两次。筛选在合并去重后的文献池上进行，因此不能再按单个数据库去「按比例拆」纳入数。
 
-在执行 Step 4 前，需先上传各数据库导出的文献文件：
+## 在助手中怎么操作
 
-1. 在 Step 4 面板中点击「Upload / 上传」
-2. 选择对应数据库来源
-3. 上传文件：
-   - **PubMed**：上传 `.nbib` 格式文件
-   - **Embase / Cochrane / ScienceDirect**：上传 `.ris` 格式文件
-4. 系统自动解析、统计文献数量和去重结果
+![Step 4 示意：按库上传、批次筛选、相关/不相关表](/guide/ce/ce-ui-step4.png)
 
-## 操作流程
+*界面示意，不是真截图。*
 
-1. **自动批次处理**：AI 按批次自动筛选文献
-2. **进度监控**：实时显示筛选进度和统计
-3. **审阅结果**：查看各文献的筛选判定和理由
-4. **批准**：确认筛选结果
+1. 按数据库上传导出文件：PubMed 用 `.nbib`，Embase / Cochrane / ScienceDirect 用 `.ris`。每个检索类型都应有对应文件；某类没有上传时，识别表的原始命中、去重、去重后三列均为 0。
+2. 核对解析出的原始命中与去重后数量。Embase 导出常常没有摘要字段，这是导出限制，不是解析失败。
+3. 若适应症存在伦理上无法做 RCT 的情形，勾选 **Ethical prohibition against controlled trials** 并写明适应症。此后不得仅因缺少 RCT 而排除。
+4. 点击开始筛选。文献多时按批进行：默认自动继续下一批，进度条显示当前批；可 **Pause**，再 **Continue Screening** 或恢复自动。出错时会停住，便于你查看后再继续。
+5. 审阅相关 / 不相关判定和理由。不要在本步给 D/A/P/R 分。
+6. 全部批次完成后，系统合并去重并给出累计统计。**Approve**。
+7. 需要补传新检索文件时 **Reopen**，新批次追加到已有结果之后，不要 Redo 除非你要作废全部筛选。
 
-## 伦理禁忌声明（可选）
-
-如果目标适应症存在伦理限制，无法开展随机对照试验 (RCT)，可在执行前勾选「Ethical Contraindications」选项并填写具体适应症说明。启用后，AI 在筛选时将不以缺少 RCT 作为排除依据，而是优先保留观察性研究和同类器械的临床经验数据。
-
-## 批次处理机制
-
-由于文献数量可能较多（几十到上千篇），Step 4 采用分批次处理：
-
-- 每批处理一组文献
-- 批次间自动延续（Auto-continue 模式）
-- 可暂停自动模式改为手动逐批确认
-- 处理完成后自动合并所有批次结果
-
-### Auto-continue 模式
-
-- 默认开启，自动执行下一批
-- 进度条实时显示处理进度
-- 点击「Pause / 暂停」可切换为手动模式
-- 出错时自动暂停供用户检查
-
-## 筛选输出
-
-每篇文献的筛选结果包括：
-- **Relevant (相关)**：纳入后续全文评审
-- **Irrelevant (不相关)**：排除并记录排除理由
-
-合并统计信息：
-- 总检索量
-- 去重后数量
-- 纳入数量
-- 排除数量（按排除理由分类）
+等同优先时，本步第一波只处理 Equivalent + DUE 的上传与筛选。Gate 在第一波全文评价之后，不在本步。
 
 ## 用 ArticleFetcher 批量下载全文 {#af-fetch}
 
-筛选完成后，在相关文献表上方可以导出 DOI 列表，并用 **ArticleFetcher v0.5.1** 批量下载开放获取全文。请使用最新版（窗口标题为 `Article Fetcher v0.5.1`）。已下载过旧版的，请重新下载替换。
-
-**下载 ArticleFetcher v0.5.1：**
+筛选完成后，可在相关文献表导出 DOI 列表，用 **ArticleFetcher v0.5.1** 批量下载开放获取全文。请使用窗口标题为 `Article Fetcher v0.5.1` 的版本。
 
 - Windows：[国内](https://app.reguverse.com/downloads/ArticleFetcher-Windows.zip) · [国际](https://app.team-ra.org/downloads/ArticleFetcher-Windows.zip)
 - macOS：[国内](https://app.reguverse.com/downloads/ArticleFetcher-macOS-GUI.zip) · [国际](https://app.team-ra.org/downloads/ArticleFetcher-macOS-GUI.zip)
 
-也可在助手 Step 4 工具栏「PDF 批量下载工具」旁点击 **Windows** / **macOS**。
+也可在本步工具栏「PDF 批量下载工具」旁选择 Windows / macOS。
 
-1. 点击 **导出 DOI**，保存 CSV（含序号、标题、DOI、建议文件名）。
-2. 用上方链接（或 Step 4 工具栏）下载并打开 ArticleFetcher。
-3. 打开 **Fetch** 页：
-   - **DOI CSV**：选择刚导出的 DOI 列表
-   - **Output dir**：选择保存 PDF 的文件夹
-   - **Email (API ID)**：填写用于 Unpaywall 的邮箱
-   - 如遇 VPN/代理干扰，勾选 **Bypass system proxy**
-4. 点击 **Start Download**。完成后同一文件夹会生成 `download_report.csv`。
-5. 回到 Step 4，点击 **导入批量结果**，导入 `download_report.csv`，自动标记哪些文献已有全文。
+1. 点击 **导出 DOI**，保存 CSV（序号、标题、DOI、建议文件名）。
+2. 打开 ArticleFetcher 的 **Fetch** 页：选择该 CSV、输出文件夹，填写用于 Unpaywall 的邮箱；如遇代理干扰，勾选 **Bypass system proxy**。
+3. **Start Download**。完成后同一文件夹会有 `download_report.csv`。
+4. 回到 Step 4，**导入批量结果**，导入该报告，标记哪些文献已有全文。
 
-![ArticleFetcher Fetch：选择 DOI CSV 与输出目录后开始下载](/guide/af/fetch.png)
+![ArticleFetcher Fetch](/guide/af/fetch.png)
 
-付费墙或下载失败的文献，仍可在表格中手动标记全文状态。归档纳入/排除 PDF 请到 [Step 7](./eu-step7.html#af-organize) 使用 Organize 页。
+付费墙或失败的条目仍可在表中手工标记。纳入/排除 PDF 的归档到 [Step 7](./eu-step7.html#af-organize) 使用 Organize 页。
+
+## 审阅什么
+
+- 相关文献是否真与 Step 1 的适应症和器械有关。
+- 排除理由是否可写入 DCR，而不是「不相关」三个字。
+- 去重后数量是否合理；不要为了凑数把明显重复的记录再纳入。
+
+## 常见失败
+
+- 未上传某一检索类型却以为「没有就是空」，识别表必须显示 0 而不是空白。
+- 在本步做全文评价或来源打标（那是 Step 7）。
+- 批次未完成就 Approve，后续统计与 DCR B.6 对不上。
 
 ## 下一步
 
-→ [安全数据 (Step 5)](./eu-step5)
+Step 5 / Step 6 的警戒工作不绑文献分叉，可与 Step 4 / Step 7 并行。全文评价见 [Step 7](./eu-step7)。

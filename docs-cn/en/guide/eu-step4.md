@@ -1,5 +1,9 @@
 # Literature Screening (Step 4)
 
+::: info
+The current Step-by-step operating guide is maintained in Chinese. Read [Step 4](/zh/guide/eu-step4) after the [overview](/zh/guide/eu-ce-overview). English translation will follow after that text is confirmed.
+:::
+
 ## Overview
 
 Step 4 performs automated screening (Title/Abstract Screening) on literature search results, determining relevance of each article based on the inclusion/exclusion criteria defined in Step 3.
