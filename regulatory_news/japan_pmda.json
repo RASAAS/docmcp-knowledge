@@ -1,7 +1,189 @@
 {
   "framework": "japan_pmda",
-  "last_updated": "2026-09-02T21:37:40Z",
+  "last_updated": "2026-09-09T21:32:15Z",
   "items": [
+    {
+      "id": "japan_pmda_20260909_pmda_class_ii_recall_fujifilm_versiflex_vista_multipurpose_x",
+      "framework": "japan_pmda",
+      "category": "safety_communication",
+      "title": {
+        "en": "PMDA Class II Recall: Fujifilm VersiFlex VISTA Multipurpose X-Ray Fluoroscopy System",
+        "zh": "日本PMDA II类召回：富士胶片VersiFlex VISTA多用途X线透视系统"
+      },
+      "summary": {
+        "en": "The PMDA has issued a Class II recall (No. 2-12957) for the Fujifilm VersiFlex VISTA, a stationary digital general-purpose X-ray fluoroscopic diagnostic device. This recall affects units distributed in Japan and is classified as Class II, indicating a moderate risk of adverse health consequences. Affected healthcare facilities should verify whether their systems are included and follow Fujifilm's recall communication and corrective actions. The specific technical issue should be confirmed in the official PMDA recall notice.",
+        "zh": "日本PMDA已发布富士胶片VersiFlex VISTA（固定式数字通用X线透视诊断装置）的II类召回（编号2-12957）。此次召回影响在日销售的相关设备，II类表示存在中等风险，可能造成暂时性或可逆性健康损害。受影响的医疗机构应核对设备序列号，按照富士胶片通知采取停用、维修或更换等必要纠正措施；具体技术原因请以PMDA官方召回通知为准。"
+      },
+      "source_url": "https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12957",
+      "source_name": "PMDA (Japan)",
+      "published_date": "2026-09-08",
+      "detected_date": "2026-09-09T21:30:02Z",
+      "importance": "medium",
+      "tags": [
+        "japan_pmda",
+        "class_ii_recall",
+        "fluoroscopy_x_ray",
+        "fujifilm",
+        "medical_device_recall"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "japan_pmda_20260909_pmda_class_ii_recall_of_philips_azurion_angiography_x_ray_sy",
+      "framework": "japan_pmda",
+      "category": "safety_communication",
+      "title": {
+        "en": "PMDA Class II Recall of Philips Azurion Angiography X-Ray System (Recall #2-12956)",
+        "zh": "PMDA II级召回飞利浦Azurion血管造影X线诊断装置（召回号2-12956）"
+      },
+      "summary": {
+        "en": "Japan's PMDA has issued a Class II recall (No. 2-12956) for the Azurion angiography X-ray diagnostic device, a stationary digital cardiovascular fluoroscopic diagnostic system manufactured by Philips Japan. The recall involves a potential safety issue with the device, as detailed in the PMDA notice. Healthcare facilities using affected Azurion systems should review the recall notice, identify impacted units, and follow Philips Japan's corrective actions.",
+        "zh": "日本PMDA已对飞利浦日本公司生产的Azurion血管造影X线诊断装置（据置型数字式循环器用X线透视诊断装置）发布II级召回（召回号：2-12956）。此次召回涉及该设备的安全相关问题，具体内容以PMDA召回通知为准。相关医疗机构应核对受影响设备，并遵循飞利浦日本的纠正措施。"
+      },
+      "source_url": "https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12956",
+      "source_name": "PMDA (Japan)",
+      "published_date": "2026-09-07",
+      "detected_date": "2026-09-09T21:30:16Z",
+      "importance": "medium",
+      "tags": [
+        "pmda",
+        "class_ii_recall",
+        "angiography_xray",
+        "philips",
+        "medical_device"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "japan_pmda_20260909_class_ii_recall_invictus_spinal_internal_fixation_system_by",
+      "framework": "japan_pmda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Class II Recall: Invictus Spinal Internal Fixation System by ATEC Japan (PMDA Recall #2-12953)",
+        "zh": "ATEC Japan株式会社Invictus脊椎内固定系统II类召回（PMDA #2-12953）"
+      },
+      "summary": {
+        "en": "PMDA has issued a Class II recall (Rec. No. 2-12953) for the Invictus spinal internal fixation system from ATEC Japan K.K. The recall is classified as moderate risk. Healthcare facilities with this device should verify affected lots, quarantine the product, and follow the manufacturer’s recall or return instructions. For the specific safety issue or device failure, refer to the official PMDA notice.",
+        "zh": "PMDA已发布ATEC Japan株式会社Invictus脊椎内固定系统的II类召回（召回编号2-12953），风险等级为中等。涉及该产品的医疗机构应核对受影响批次，停止使用并隔离相关器械，按照制造商要求处理或退回。具体安全问题和器械缺陷请以PMDA官方召回通知为准。"
+      },
+      "source_url": "https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12953",
+      "source_name": "PMDA (Japan)",
+      "published_date": "2026-09-07",
+      "detected_date": "2026-09-09T21:30:39Z",
+      "importance": "medium",
+      "tags": [
+        "japan_pmda",
+        "class_ii_recall",
+        "spinal_internal_fixation",
+        "medical_device"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "japan_pmda_20260909_class_ii_recall_nakashima_health_force_bone_cement_mixing_sy",
+      "framework": "japan_pmda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Class II Recall: Nakashima Health Force Bone Cement Mixing System (Orthopedic Bone Cement Mixer)",
+        "zh": "II类召回：Nakashima Health Force骨水泥混合系统（骨科用骨水泥混合器）"
+      },
+      "summary": {
+        "en": "Japan's PMDA has issued a Class II recall (No. 2-12952) for the Bone Cement Mixing System, an orthopedic bone cement mixer manufactured by Nakashima Health Force Co., Ltd. This recall is classified as moderate risk. Healthcare facilities, distributors, and users should review the PMDA recall notice, identify affected product lots, and follow the manufacturer’s and regulator’s instructions for corrective or return actions.",
+        "zh": "日本PMDA已对Nakashima Health Force株式会社生产的骨水泥混合系统（骨科用骨水泥混合器）发布II类召回（编号2-12952）。该召回属于中等风险医疗器械召回。相关医疗机构、经销商和使用人员应查阅PMDA召回通知，确认受影响产品批次，并按照生产企业和监管机构的要求采取纠正或退回措施。"
+      },
+      "source_url": "https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12952",
+      "source_name": "PMDA (Japan)",
+      "published_date": "2026-09-07",
+      "detected_date": "2026-09-09T21:31:00Z",
+      "importance": "medium",
+      "tags": [
+        "japan_pmda",
+        "class_ii_recall",
+        "bone_cement_mixer",
+        "medical_device_recall",
+        "orthopedic_device"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "japan_pmda_20260909_pmda_class_ii_recall_tosoh_hlc_723gr01_automated_glycohemogl",
+      "framework": "japan_pmda",
+      "category": "safety_communication",
+      "title": {
+        "en": "PMDA Class II Recall: Tosoh HLC-723GR01 Automated Glycohemoglobin Analyzer (Recall #2-12951)",
+        "zh": "PMDA II类召回：东曹HLC-723GR01自动糖化血红蛋白分析仪（召回编号2-12951）"
+      },
+      "summary": {
+        "en": "Japan's PMDA has issued a Class II recall (No. 2-12951) for the Tosoh HLC-723GR01 automated glycohemoglobin analyzer manufactured by Tosoh Corporation. The recall concerns a device safety/performance issue for this specific analyzer and is classified as Class II, indicating moderate risk. Affected facilities should confirm whether their unit is impacted, review the official PMDA/manufacturer notice, and follow Tosoh's recommended corrective actions.",
+        "zh": "日本PMDA发布了对东曹公司HLC-723GR01自动糖化血红蛋白分析仪的II类召回（编号2-12951），涉及该特定分析仪的安全或性能问题，风险等级为中等。相关医疗机构应核对设备信息，查阅PMDA/制造商通知，并按东曹的建议采取纠正措施。"
+      },
+      "source_url": "https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12951",
+      "source_name": "PMDA (Japan)",
+      "published_date": "2026-09-07",
+      "detected_date": "2026-09-09T21:31:16Z",
+      "importance": "medium",
+      "tags": [
+        "japan_pmda",
+        "class_ii_recall",
+        "tosoh",
+        "glycohemoglobin_analyzer",
+        "medical_device"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "japan_pmda_20260909_class_ii",
+      "framework": "japan_pmda",
+      "category": "safety_communication",
+      "title": {
+        "en": "[Class II] ゴア バイアバーン ステントグラフト (ヘパリン使用中心循環系ステントグラフト) - 日本ゴア合同会社",
+        "zh": "[Class II] ゴア バイアバーン ステントグラフト (ヘパリン使用中心循環系ステントグラフト) - 日本ゴア合同会社"
+      },
+      "summary": {
+        "en": "Recall #2-12949: ヘパリン使用中心循環系ステントグラフト / ゴア バイアバーン ステントグラフト by 日本ゴア合同会社. Type: 医療機器.",
+        "zh": "Recall #2-12949: ヘパリン使用中心循環系ステントグラフト / ゴア バイアバーン ステントグラフト by 日本ゴア合同会社. Type: 医療機器."
+      },
+      "source_url": "https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12949",
+      "source_name": "PMDA (Japan)",
+      "published_date": "2026-09-03",
+      "detected_date": "2026-09-09T21:31:48Z",
+      "importance": "medium",
+      "tags": [],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "japan_pmda_20260909_pmda_class_ii_recall_neurostar_tms_treatment_device_vopar_te",
+      "framework": "japan_pmda",
+      "category": "safety_communication",
+      "title": {
+        "en": "PMDA Class II Recall: NeuroStar TMS Treatment Device (Vopar Technologies K.K.)",
+        "zh": "PMDA II级召回：NeuroStar TMS治疗装置（Vopar Technologies）"
+      },
+      "summary": {
+        "en": "Japan’s PMDA has issued Class II recall No. 2-12948 for the NeuroStar TMS Treatment Device, a transcranial magnetic stimulation device marketed by Vopar Technologies K.K. The recall requires affected healthcare facilities to review the official PMDA notice and follow the manufacturer’s corrective actions for the device. Class II indicates a moderate risk; users should confirm whether their units are affected.",
+        "zh": "日本PMDA发布第2-12948号II级召回，涉及Vopar Technologies株式会社销售的NeuroStar TMS治疗装置（经颅磁刺激装置）。医疗机构应核对受影响设备，查阅PMDA官方通知并遵循制造商的纠正措施。该II级召回表示中等风险，具体安全问题以官方通知为准。"
+      },
+      "source_url": "https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12948",
+      "source_name": "PMDA (Japan)",
+      "published_date": "2026-09-03",
+      "detected_date": "2026-09-09T21:32:15Z",
+      "importance": "medium",
+      "tags": [
+        "japan_pmda",
+        "class_ii_recall",
+        "neurostar_tms",
+        "transcranial_magnetic_stimulation",
+        "medical_device_safety"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
     {
       "id": "japan_pmda_20260902_philips_japan_central_monitor_information_center_analysis_pr",
       "framework": "japan_pmda",

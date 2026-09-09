@@ -6,6 +6,88 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### PMDA Class II Recall: Fujifilm VersiFlex VISTA Multipurpose X-Ray Fluoroscopy System
+
+**2026-09-08** | Japan PMDA | Safety Communication | !! MEDIUM
+
+The PMDA has issued a Class II recall (No. 2-12957) for the Fujifilm VersiFlex VISTA, a stationary digital general-purpose X-ray fluoroscopic diagnostic device. This recall affects units distributed in Japan and is classified as Class II, indicating a moderate risk of adverse health consequences. Affected healthcare facilities should verify whether their systems are included and follow Fujifilm's recall communication and corrective actions. The specific technical issue should be confirmed in the official PMDA recall notice.
+
+**Tags**: `japan_pmda`, `class_ii_recall`, `fluoroscopy_x_ray`, `fujifilm`, `medical_device_recall`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12957)
+
+---
+
+### PMDA Class II Recall of Philips Azurion Angiography X-Ray System (Recall #2-12956)
+
+**2026-09-07** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Japan's PMDA has issued a Class II recall (No. 2-12956) for the Azurion angiography X-ray diagnostic device, a stationary digital cardiovascular fluoroscopic diagnostic system manufactured by Philips Japan. The recall involves a potential safety issue with the device, as detailed in the PMDA notice. Healthcare facilities using affected Azurion systems should review the recall notice, identify impacted units, and follow Philips Japan's corrective actions.
+
+**Tags**: `pmda`, `class_ii_recall`, `angiography_xray`, `philips`, `medical_device`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12956)
+
+---
+
+### Class II Recall: Invictus Spinal Internal Fixation System by ATEC Japan (PMDA Recall #2-12953)
+
+**2026-09-07** | Japan PMDA | Safety Communication | !! MEDIUM
+
+PMDA has issued a Class II recall (Rec. No. 2-12953) for the Invictus spinal internal fixation system from ATEC Japan K.K. The recall is classified as moderate risk. Healthcare facilities with this device should verify affected lots, quarantine the product, and follow the manufacturer’s recall or return instructions. For the specific safety issue or device failure, refer to the official PMDA notice.
+
+**Tags**: `japan_pmda`, `class_ii_recall`, `spinal_internal_fixation`, `medical_device`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12953)
+
+---
+
+### Class II Recall: Nakashima Health Force Bone Cement Mixing System (Orthopedic Bone Cement Mixer)
+
+**2026-09-07** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Japan's PMDA has issued a Class II recall (No. 2-12952) for the Bone Cement Mixing System, an orthopedic bone cement mixer manufactured by Nakashima Health Force Co., Ltd. This recall is classified as moderate risk. Healthcare facilities, distributors, and users should review the PMDA recall notice, identify affected product lots, and follow the manufacturer’s and regulator’s instructions for corrective or return actions.
+
+**Tags**: `japan_pmda`, `class_ii_recall`, `bone_cement_mixer`, `medical_device_recall`, `orthopedic_device`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12952)
+
+---
+
+### PMDA Class II Recall: Tosoh HLC-723GR01 Automated Glycohemoglobin Analyzer (Recall #2-12951)
+
+**2026-09-07** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Japan's PMDA has issued a Class II recall (No. 2-12951) for the Tosoh HLC-723GR01 automated glycohemoglobin analyzer manufactured by Tosoh Corporation. The recall concerns a device safety/performance issue for this specific analyzer and is classified as Class II, indicating moderate risk. Affected facilities should confirm whether their unit is impacted, review the official PMDA/manufacturer notice, and follow Tosoh's recommended corrective actions.
+
+**Tags**: `japan_pmda`, `class_ii_recall`, `tosoh`, `glycohemoglobin_analyzer`, `medical_device`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12951)
+
+---
+
+### [Class II] ゴア バイアバーン ステントグラフト (ヘパリン使用中心循環系ステントグラフト) - 日本ゴア合同会社
+
+**2026-09-03** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Recall #2-12949: ヘパリン使用中心循環系ステントグラフト / ゴア バイアバーン ステントグラフト by 日本ゴア合同会社. Type: 医療機器.
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12949)
+
+---
+
+### PMDA Class II Recall: NeuroStar TMS Treatment Device (Vopar Technologies K.K.)
+
+**2026-09-03** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Japan’s PMDA has issued Class II recall No. 2-12948 for the NeuroStar TMS Treatment Device, a transcranial magnetic stimulation device marketed by Vopar Technologies K.K. The recall requires affected healthcare facilities to review the official PMDA notice and follow the manufacturer’s corrective actions for the device. Class II indicates a moderate risk; users should confirm whether their units are affected.
+
+**Tags**: `japan_pmda`, `class_ii_recall`, `neurostar_tms`, `transcranial_magnetic_stimulation`, `medical_device_safety`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12948)
+
+---
+
 ### Philips Japan Central Monitor Information Center Analysis Program Class II Recall (PMDA #2-12947)
 
 **2026-09-02** | Japan PMDA | Safety Communication | !! MEDIUM

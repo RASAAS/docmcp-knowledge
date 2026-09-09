@@ -72,6 +72,18 @@ CDRH News
 
 ---
 
+### 日本PMDA II类召回：富士胶片VersiFlex VISTA多用途X线透视系统
+
+**2026-09-08** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA已发布富士胶片VersiFlex VISTA（固定式数字通用X线透视诊断装置）的II类召回（编号2-12957）。此次召回影响在日销售的相关设备，II类表示存在中等风险，可能造成暂时性或可逆性健康损害。受影响的医疗机构应核对设备序列号，按照富士胶片通知采取停用、维修或更换等必要纠正措施；具体技术原因请以PMDA官方召回通知为准。
+
+**标签**: `japan_pmda`, `class_ii_recall`, `fluoroscopy_x_ray`, `fujifilm`, `medical_device_recall`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12957)
+
+---
+
 ### 加拿大卫生部更新医疗器械特殊进口和销售表格
 
 **2026-09-07** | Health Canada | 法规更新 | !! MEDIUM
@@ -81,6 +93,54 @@ CDRH News
 **标签**: `medical_devices`, `exceptional_importation`, `health_canada`, `compliance_bulletin`, `forms`
 
 [查看来源 (Health Canada)](https://www.canada.ca/en/health-canada/services/drugs-health-products/compliance-enforcement/establishment-licences/medical-devices-compliance-bulletin/updates-forms-exceptional-importation-sale.html)
+
+---
+
+### PMDA II级召回飞利浦Azurion血管造影X线诊断装置（召回号2-12956）
+
+**2026-09-07** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA已对飞利浦日本公司生产的Azurion血管造影X线诊断装置（据置型数字式循环器用X线透视诊断装置）发布II级召回（召回号：2-12956）。此次召回涉及该设备的安全相关问题，具体内容以PMDA召回通知为准。相关医疗机构应核对受影响设备，并遵循飞利浦日本的纠正措施。
+
+**标签**: `pmda`, `class_ii_recall`, `angiography_xray`, `philips`, `medical_device`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12956)
+
+---
+
+### ATEC Japan株式会社Invictus脊椎内固定系统II类召回（PMDA #2-12953）
+
+**2026-09-07** | Japan PMDA | 安全通报 | !! MEDIUM
+
+PMDA已发布ATEC Japan株式会社Invictus脊椎内固定系统的II类召回（召回编号2-12953），风险等级为中等。涉及该产品的医疗机构应核对受影响批次，停止使用并隔离相关器械，按照制造商要求处理或退回。具体安全问题和器械缺陷请以PMDA官方召回通知为准。
+
+**标签**: `japan_pmda`, `class_ii_recall`, `spinal_internal_fixation`, `medical_device`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12953)
+
+---
+
+### II类召回：Nakashima Health Force骨水泥混合系统（骨科用骨水泥混合器）
+
+**2026-09-07** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA已对Nakashima Health Force株式会社生产的骨水泥混合系统（骨科用骨水泥混合器）发布II类召回（编号2-12952）。该召回属于中等风险医疗器械召回。相关医疗机构、经销商和使用人员应查阅PMDA召回通知，确认受影响产品批次，并按照生产企业和监管机构的要求采取纠正或退回措施。
+
+**标签**: `japan_pmda`, `class_ii_recall`, `bone_cement_mixer`, `medical_device_recall`, `orthopedic_device`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12952)
+
+---
+
+### PMDA II类召回：东曹HLC-723GR01自动糖化血红蛋白分析仪（召回编号2-12951）
+
+**2026-09-07** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA发布了对东曹公司HLC-723GR01自动糖化血红蛋白分析仪的II类召回（编号2-12951），涉及该特定分析仪的安全或性能问题，风险等级为中等。相关医疗机构应核对设备信息，查阅PMDA/制造商通知，并按东曹的建议采取纠正措施。
+
+**标签**: `japan_pmda`, `class_ii_recall`, `tosoh`, `glycohemoglobin_analyzer`, `medical_device`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12951)
 
 ---
 
@@ -105,6 +165,28 @@ CDRH News
 **标签**: `field_safety_notice`, `mhra`, `medical_device_safety`
 
 [查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-24-to-28-august-2026)
+
+---
+
+### [Class II] ゴア バイアバーン ステントグラフト (ヘパリン使用中心循環系ステントグラフト) - 日本ゴア合同会社
+
+**2026-09-03** | Japan PMDA | 安全通报 | !! MEDIUM
+
+Recall #2-12949: ヘパリン使用中心循環系ステントグラフト / ゴア バイアバーン ステントグラフト by 日本ゴア合同会社. Type: 医療機器.
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12949)
+
+---
+
+### PMDA II级召回：NeuroStar TMS治疗装置（Vopar Technologies）
+
+**2026-09-03** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA发布第2-12948号II级召回，涉及Vopar Technologies株式会社销售的NeuroStar TMS治疗装置（经颅磁刺激装置）。医疗机构应核对受影响设备，查阅PMDA官方通知并遵循制造商的纠正措施。该II级召回表示中等风险，具体安全问题以官方通知为准。
+
+**标签**: `japan_pmda`, `class_ii_recall`, `neurostar_tms`, `transcranial_magnetic_stimulation`, `medical_device_safety`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12948)
 
 ---
 
