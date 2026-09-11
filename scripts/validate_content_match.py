@@ -40,18 +40,30 @@ def _get_changed_slugs() -> set[str] | None:
 
     try:
         result = subprocess.run(
-            ["git", "diff", "--name-only", f"origin/{base_ref}...HEAD"],
+            ["git", "-c", "core.quotepath=false", "diff", "--name-only",
+             f"origin/{base_ref}...HEAD"],
             capture_output=True, text=True, cwd=str(ROOT),
         )
         if result.returncode != 0:
-            return None
+            # Fallback: try base_ref without origin/ (shallow PR checkouts)
+            result = subprocess.run(
+                ["git", "-c", "core.quotepath=false", "diff", "--name-only",
+                 f"{base_ref}...HEAD"],
+                capture_output=True, text=True, cwd=str(ROOT),
+            )
+            if result.returncode != 0:
+                return None
 
         slugs = set()
         for line in result.stdout.strip().split('\n'):
-            line = line.strip()
+            line = line.strip().strip('"')
             if line.startswith("nmpa/guidance/fulltext/") and line.endswith(".md"):
                 fname = line.split("/")[-1]
-                if not fname.endswith(".en.md"):
+                if fname.endswith(".en.md"):
+                    continue
+                if fname.endswith(".zh.md"):
+                    slugs.add(fname[:-6])
+                else:
                     slugs.add(fname[:-3])
         return slugs
     except Exception:

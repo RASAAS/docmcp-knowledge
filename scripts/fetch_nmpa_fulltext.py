@@ -534,9 +534,8 @@ def _normalize_title(title: str) -> str:
     t = re.sub(r'\(\d{4}年.*?\)', '', t)
     # Official CMDE docs interchangeably use 实验/试验 (e.g. 回收实验 vs 回收试验)
     t = t.replace('实验', '试验')
-    # Title phrasing variants across CMDE finals
-    t = t.replace('注册技术审查指导原则', '注册审查指导原则')
-    t = t.replace('技术审查指导原则', '注册审查指导原则')
+    # NOTE: do NOT rewrite 技术审查↔注册审查 here — that creates false
+    # containment hits when a body cites a differently-phrased sibling title.
     return t
 
 
