@@ -1,34 +1,10 @@
----
-title: "热内膜外移装置 (IDE提交指南)"
-description: "Thermal Endometrial Ablation Devices (Submission Guidance for an IDE)"
-published: 1996-03-13
----
+# 热内地活化装置(IDE 的附属指导)
 
-# 热内膜外移装置 (IDE提交指南)
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/thermal-endometrial-ablation-devices-submission-guidance-ide](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/thermal-endometrial-ablation-devices-submission-guidance-ide)
 
-**Thermal Endometrial Ablation Devices (Submission Guidance for an IDE)**
-
-**发布日期**：1996-03-13
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：上市前
-**主题**：Premarket
-**案卷号**：FDA-2020-D-0957
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/thermal-endometrial-ablation-devices-submission-guidance-ide
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 1996-03-13
 
 ---
-
-## 官方文件全文
 
 这份指南是在1997年2月27日执行FDA的《良好指导做法》,GGP之前编写的。它不为任何人创造或授予权利,也不赋予任何人权利,也不为约束FDA或公众而运作。如果替代办法符合适用法规、条例或两者的要求,则可以采用另一种办法。下一次修订将更新本指南,以纳入全球采购计划的标准要素。
 1996年3月14日 由下列机构开发:妇产科和妇科设备处设备评价办公室,HFZ-470 9200公司Blvd Rockville,MD 20850(301)594-1180
@@ -360,4 +336,3 @@ Townsend, D.E.等人(1993年),《乳后胃结扎综合症、产科和妇科》,8
 Valle, R.F.(1993年):宫内出血功能失调的宫内出血:GnRH激动剂的作用,《国际妇产科杂志》,41,第3-15页。
 Velevil, P等人(1995年),《美国育龄妇女、产科和妇科妇女因妇科疾病住院的比率》,86(5),第764-769页。
 Wathen, P.I., Henderson, M.C. & C.A. Witz.(1995年)《子宫异常出血》,北美诊所,79(2),第329-344页。
-

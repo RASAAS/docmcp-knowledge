@@ -1,34 +1,10 @@
----
-title: "对于结器,计量剂量吸入器,间隔器和动机的审查员指南"
-description: "Reviewer Guidance for Nebulizers, Metered Dose Inhalers, Spacers and Actuators"
-published: 1993-09-30
----
+# 纳布喷雾器、测测多剂量吸入器、航天器和启动器审查员指南
 
-# 对于结器,计量剂量吸入器,间隔器和动机的审查员指南
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/reviewer-guidance-nebulizers-metered-dose-inhalers-spacers-and-actuators](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/reviewer-guidance-nebulizers-metered-dose-inhalers-spacers-and-actuators)
 
-**Reviewer Guidance for Nebulizers, Metered Dose Inhalers, Spacers and Actuators**
-
-**发布日期**：1993-09-30
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：上市前
-**主题**：Premarket
-**案卷号**：FDA-2020-D-0957
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/reviewer-guidance-nebulizers-metered-dose-inhalers-spacers-and-actuators
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 1993-09-30
 
 ---
-
-## 官方文件全文
 
 这份指南是在1997年2月27日执行FDA的《良好指导做法》,GGP之前编写的。它不为任何人创造或授予权利,也不赋予任何人权利,也不为约束FDA或公众而运作。如果替代办法符合适用法规、条例或两者的要求,则可以采用另一种办法。将在下一次修订中更新本指南,以纳入全球采购小组的CDRH最终指南中标准要素,该指南将包含《欧盟、欧洲气象成像仪、空间和行动者
 本文件旨在提供指导,代表工程处目前对上述问题的想法。它不为任何人创造或赋予任何人任何权利或权利,也不为约束FDA或公众而运作。如果替代办法符合适用法规、条例或两者的要求,则可采用替代办法。
@@ -191,4 +167,3 @@ https://www.fda.gov/regulatory-information/search-fda-guidance-documents/reviewe
 4. 美国药理学,第二十二卷,补编7,《美国药理学公约》,Rockville,MD,pp。
 3122-31.29。
 5. Burke, G.P., Poockikian, G.和Botstein, P., “吸入气溶胶的分类学”, J. Aerosols Med. 4, 265-268, 1991年。
-

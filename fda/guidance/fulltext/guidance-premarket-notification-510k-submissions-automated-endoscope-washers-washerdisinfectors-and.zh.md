@@ -1,35 +1,10 @@
----
-title: "关于上市前通知的指南 [510(k) ] 提交用于医疗保健设施的自动化内膜洗衣机,洗衣机/消毒器和消毒器的申请"
-description: "Guidance on Premarket Notification [510(k)] Submissions for Automated Endoscope Washers, Washer/Disinfectors, and Disinfectors Intended for Use in Health Care Facilities"
-published: 1993-08-01
----
+# 关于预先市场通知的指导意见 [510(k)] 提交供医疗机构使用的自动内窥管洗涤器、Washer/Disnecters和Disnectrs
 
-# 关于上市前通知的指南 [510(k) ] 提交用于医疗保健设施的自动化内膜洗衣机,洗衣机/消毒器和消毒器的申请
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-premarket-notification-510k-submissions-automated-endoscope-washers-washerdisinfectors-and](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-premarket-notification-510k-submissions-automated-endoscope-washers-washerdisinfectors-and)
 
-**Guidance on Premarket Notification [510(k)] Submissions for Automated Endoscope Washers, Washer/Disinfectors, and Disinfectors Intended for Use in Health Care Facilities**
-
-**发布日期**：1993-08-01
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：上市前
-**主题**：Premarket、510(k)
-**案卷号**：FDA-2020-D-0957
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-premarket-notification-510k-submissions-automated-endoscope-washers-washerdisinfectors-and
-PDF：https://www.fda.gov/media/72345/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 1993-08-01
 
 ---
-
-## 官方文件全文
 
 这份指南是在1997年2月27日执行FDA的《良好指导做法》,GGP之前编写的。它不为任何人创造或授予权利,也不赋予任何人权利,也不为约束FDA或公众而运作。如果替代办法符合适用法规、条例或两者的要求,则可以采用另一种办法。
 该指南将在下一次修订时更新,以包括全球采购总计划的标准精子。
@@ -259,4 +234,3 @@ Y/N
 设计、建筑、构件、部件、软件文件残余残留物毒理学评价危害评价评价5 10(k)摘要或说明
 
 附件1 比较表标注用途工艺参数:时间、温度、输入水质、压力等 1 I I 软件软件控制 I 11 Accessories 在I周期比较标签中注明:本表说明应进行比较的类型,不一定是信息的数量。它并非全部具有包容性。
-

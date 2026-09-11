@@ -1,35 +1,10 @@
----
-title: "关于透性消毒装置的评估指南 (以下简称\"指南\")"
-description: "Guidance ('Guidelines') for Evaluation of Hysteroscopic Sterilization Devices"
-published: 1978-05-09
----
+# 用于评价歇性镇静剂的“准则”
 
-# 关于透性消毒装置的评估指南 (以下简称"指南")
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-guidelines-evaluation-hysteroscopic-sterilization-devices](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-guidelines-evaluation-hysteroscopic-sterilization-devices)
 
-**Guidance ('Guidelines') for Evaluation of Hysteroscopic Sterilization Devices**
-
-**发布日期**：1978-05-09
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：上市前
-**主题**：Premarket
-**案卷号**：FDA-2020-D-0957
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-guidelines-evaluation-hysteroscopic-sterilization-devices
-PDF：https://www.fda.gov/media/73025/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 1978-05-09
 
 ---
-
-## 官方文件全文
 
 这份指南是在1997年2月27日执行FDA的《良好指导做法》,GGP之前编写的。它不为任何人创造或授予权利,也不赋予任何人权利,也不为约束FDA或公众而运作。如果替代办法符合适用法规、条例或两者的要求,则可以采用另一种办法。下一次修订将更新本指南,以纳入全球采购计划的标准要素。
 OB/GYN设备分类小组于5月10日通过的对氢经毒抗药性缓解功能的评估准则1978年 由产科和妇科设备分类小组内地学和电动外科小组委员会编写伊丽莎白·康奈尔(小组委员会主席)
@@ -152,4 +127,3 @@ c. 用于
 3. 制造商将保存区域分布和最终分布的记录(如个别医生或诊所或医院)。如果被召回或需要调查不良反应的发生率,制造商将向FDA提供这一信息。此外,制造商将向FDA提供每季度分发的总数。
 4. 制造商应联系一个反响报告系统,以征求医生和其他医务人员的反作用,并向这些从业人员提供程序方面的教育信息。
 - - 7 -
-

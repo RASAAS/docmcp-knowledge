@@ -1,35 +1,10 @@
----
-title: "陶球系统上市前通知的准备指南文件"
-description: "Guidance Document For The Preparation of Premarket Notification For Ceramic Ball Hip Systems"
-published: 1995-01-09
----
+# 编写陶瓷球排软体系统上市前通知指南文件
 
-# 陶球系统上市前通知的准备指南文件
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-document-preparation-premarket-notification-ceramic-ball-hip-systems](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-document-preparation-premarket-notification-ceramic-ball-hip-systems)
 
-**Guidance Document For The Preparation of Premarket Notification For Ceramic Ball Hip Systems**
-
-**发布日期**：1995-01-09
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：上市前
-**主题**：Premarket
-**案卷号**：FDA-2020-D-0957
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-document-preparation-premarket-notification-ceramic-ball-hip-systems
-PDF：https://www.fda.gov/media/72249/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 1995-01-09
 
 ---
-
-## 官方文件全文
 
 这项指导准则是在1997年2月27日执行FDA的《良好指导做法》,GGP之前编写的。它不为任何人创造或授予权利,也不赋予任何人权利,也不为约束FDA或公众而运作。如果替代办法符合适用法规、条例或两者的要求,则可以采用另一种办法。下次修订时将更新本指南,以纳入全球采购计划的标准内容。
 美国装置和辐射健康设备评价中心一般和修复设备办公室一般和修复设备司矫形装置处D R A F T 矫形装置处。美国食品药品监督管理局 1995年1月10日 请将你的意见转达给:FDA将臀部合金属/铁合物半硬化或未腐化的假肢(在本文件中称为陶瓷球臀系统)从第三类(上市前批准)改为第二类(业绩标准)(见联邦登记局,《联邦登记法》,第3卷,第5页,第5页,第6页,第5页,第6页所有陶瓷球和臀部经销商必须提交上市前通知(510k),贴有陶瓷球标签,以便与陶瓷球一起使用。
@@ -84,4 +59,3 @@ FDA可能需要对锥形和球形设计进行额外的机械测试,而本文件�
 FDA可能需要对锥形和球形设计进行额外测试,其性能无法从本文件所列设计规格和测试中充分预测。
 临床数据可以被接受,以支持机械数据,但不能取代机械数据,因为干球系统的机械特性可能低于请愿书中核准的特性,还没有显示球骨折或临床研究中穿戴。
 详细报告应加以编排,并细分为各节(可合并一些章节,以进一步澄清),标题(如果适用)如下:您能否提供以下信息?:每种陶瓷球(物质、直径、直、直径、proform、直径、直、直径、直径、直有证据表明,一个较小的球通常用于较轻的病人复制件6474号裂缝或因表面雕刻评估放射性同位素的方法而发生的相位变化。 一份圆球物质要求清单
-

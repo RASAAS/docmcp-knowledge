@@ -1,35 +1,10 @@
----
-title: "其他产品:外卖牙枕,,,维修套件,部分制造牙套件：行业与FDA工作人员指南"
-description: "OTC Denture Cushions, Pads, Reliners, Repair Kits, and Partially Fabricated Denture Kits - Guidance for Industry and FDA Staff"
-published: 1998-08-17
----
+# OTC 假牙胶片、垫片、延轮机、修理包和部分制造的假牙包 -- -- 工业和FDA工作人员指南
 
-# 其他产品:外卖牙枕,,,维修套件,部分制造牙套件：行业与FDA工作人员指南
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/otc-denture-cushions-pads-reliners-repair-kits-and-partially-fabricated-denture-kits-guidance](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/otc-denture-cushions-pads-reliners-repair-kits-and-partially-fabricated-denture-kits-guidance)
 
-**OTC Denture Cushions, Pads, Reliners, Repair Kits, and Partially Fabricated Denture Kits - Guidance for Industry and FDA Staff**
-
-**发布日期**：1998-08-17
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：上市前
-**主题**：Premarket
-**案卷号**：FDA-2017-P-5124
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/otc-denture-cushions-pads-reliners-repair-kits-and-partially-fabricated-denture-kits-guidance
-PDF：https://www.fda.gov/media/72467/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 1998-08-17
 
 ---
-
-## 官方文件全文
 
 截至2018年1月31日,场外假牙修理包(21 CFR 872.3570,21 CFR 872.37)免于上市前通知(510(k))。欲了解更多信息,请查阅2018年3月14日联邦登记册(FDA-2017-P-5124号文件)。
 
@@ -80,4 +55,3 @@ OTC假牙修理包是一种装置,由诸如粉末和液体粘合剂树脂单体�
 另外,关于推广和推销贵设备的问题,请联系遵约办公室(301)594-4639。此外,注意到题为“通过提及上市前通知进行品牌划分”的条例(21 CFR Part 807.97)。
 9.0 关于本指南的接触问题应向下列人士提出: Susan Runner博士 美国处长美国食品药品监督管理局设备和放射卫生中心,设备评价牙科设备处,HFZ-480 9200公司Blvd。
 Rockville, MD 20850 电话:301-827-5283 传真:301-480-3002 有关您根据该法所负职责的一般信息,可向小制造商援助司(无收费号码(800) 638-2041或(301) 443-6597或在其互联网网站上获取:~ ~
-

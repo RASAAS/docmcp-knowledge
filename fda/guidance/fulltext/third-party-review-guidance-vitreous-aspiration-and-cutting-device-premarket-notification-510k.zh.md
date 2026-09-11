@@ -1,34 +1,10 @@
----
-title: "关于玻璃吸管和切割设备上市前通知的第三方审查指南 (510(k))"
-description: "Third Party Review Guidance For Vitreous Aspiration and Cutting Device Premarket Notification (510(k))"
-published: 1997-01-30
----
+# 《关于动力呼吸和切切装置预先通知(510(k))的第三方审查指南》(510(k))
 
-# 关于玻璃吸管和切割设备上市前通知的第三方审查指南 (510(k))
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/third-party-review-guidance-vitreous-aspiration-and-cutting-device-premarket-notification-510k](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/third-party-review-guidance-vitreous-aspiration-and-cutting-device-premarket-notification-510k)
 
-**Third Party Review Guidance For Vitreous Aspiration and Cutting Device Premarket Notification (510(k))**
-
-**发布日期**：1997-01-30
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：上市前
-**主题**：Premarket
-**案卷号**：FDA-2020-D-0957
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/third-party-review-guidance-vitreous-aspiration-and-cutting-device-premarket-notification-510k
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 1997-01-30
 
 ---
-
-## 官方文件全文
 
 这份指南是在1997年2月27日执行FDA的《良好指导做法》,GGP之前编写的。它不为任何人创造或授予权利,也不赋予任何人权利,也不为约束FDA或公众而运作。如果替代办法符合适用法规、条例或两者的要求,则可以采用另一种办法。下一次修订将更新本指南,以纳入全球采购计划的标准要素。
 1. 本文件旨在为编写管制性呈文提供指导。它不以任何方式约束FDA或受管制行业。
@@ -225,4 +201,3 @@ DEVICE KITS -- -- 如果要将这一装置作为装货包销售,就必须说明�
 
 第16页 界定的装置、预定用途、用户指示、反规定或装置相关风险 -- --
 ---
-

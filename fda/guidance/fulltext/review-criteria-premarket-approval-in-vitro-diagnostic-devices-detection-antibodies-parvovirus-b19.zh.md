@@ -1,35 +1,10 @@
----
-title: "检查标准 检测对巴尔沃病毒B19抗体的内置诊断设备的前销售批准"
-description: "Review Criteria For Premarket Approval of In Vitro Diagnostic Devices for Detection of Antibodies to Parvovirus B19"
-published: 1992-05-15
----
+# 用于检测Parvo病毒B19抗体抗体的活性诊断设备预先批准审查标准
 
-# 检查标准 检测对巴尔沃病毒B19抗体的内置诊断设备的前销售批准
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/review-criteria-premarket-approval-in-vitro-diagnostic-devices-detection-antibodies-parvovirus-b19](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/review-criteria-premarket-approval-in-vitro-diagnostic-devices-detection-antibodies-parvovirus-b19)
 
-**Review Criteria For Premarket Approval of In Vitro Diagnostic Devices for Detection of Antibodies to Parvovirus B19**
-
-**发布日期**：1992-05-15
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：上市前
-**主题**：Premarket、Laboratory Tests、IVDs (In Vitro Diagnostic Devices)
-**案卷号**：FDA-2020-D-0957
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/review-criteria-premarket-approval-in-vitro-diagnostic-devices-detection-antibodies-parvovirus-b19
-PDF：https://www.fda.gov/media/73831/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 1992-05-15
 
 ---
-
-## 官方文件全文
 
 这份指南是在1997年2月27日执行FDA的《良好指导做法》,GGP之前编写的。它不为任何人创造或授予权利,也不赋予任何人权利,也不为约束FDA或公众而运作。如果替代办法符合适用法规、条例或两者的要求,则可以采用另一种办法。
 本指南将更新二, 以更新GGP标准精密软件的下个版本。
@@ -277,4 +252,3 @@ Torok TJ、Wang QY、Gary GW等人,《聚合酶链反应技术对宫内感染宫
 Wos SM, Cukor G. Parvo病毒,Chp 30,载于:Schmid NJ和Emmons RW,编辑。美国公共卫生协会
 1989年:1103-11111。
 第13页
-

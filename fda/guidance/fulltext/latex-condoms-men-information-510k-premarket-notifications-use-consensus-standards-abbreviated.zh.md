@@ -1,35 +1,10 @@
----
-title: "男人乳安全套 - 510 信息 (k) 上市前通知:使用共识标准来简短提交：行业指南"
-description: "Latex Condoms for Men - Information for 510(k) Premarket Notifications: Use of Consensus Standards for Abbreviated Submissions: Guidance for Industry"
-published: 1998-07-23
----
+# 男性的Latex保险套 -- -- 510(k) 上市前通知:使用共识标准提交缩略意见:工业指南
 
-# 男人乳安全套 - 510 信息 (k) 上市前通知:使用共识标准来简短提交：行业指南
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/latex-condoms-men-information-510k-premarket-notifications-use-consensus-standards-abbreviated](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/latex-condoms-men-information-510k-premarket-notifications-use-consensus-standards-abbreviated)
 
-**Latex Condoms for Men - Information for 510(k) Premarket Notifications: Use of Consensus Standards for Abbreviated Submissions: Guidance for Industry**
-
-**发布日期**：1998-07-23
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：上市前
-**主题**：Premarket、510(k)
-**案卷号**：FDA-2020-D-0957
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/latex-condoms-men-information-510k-premarket-notifications-use-consensus-standards-abbreviated
-PDF：https://www.fda.gov/media/72943/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 1998-07-23
 
 ---
-
-## 官方文件全文
 
 510(k) 上市前通知:使用共识标准简化呈件文件:1998年7月23日 美国卫生部卫生与公众服务美国食品药品监督管理局设备和放射卫生产科和妇科设备中心生殖、生殖腹部、耳耳、鼻喉和喉以及放射性装置评价装置办公室
 
@@ -74,7 +49,7 @@ II类 §884.5300和/或§884.5310(与杀精润滑剂结合)
 ### H. 510(k) 提交材料 Q 初始产品介绍 新的产品系列扩展模式 初次进口到美国 · 初次进口到美国 ·
 其他(在第四部分中包括一.H.部分提到的解释)
 ### I. 预言设备 [预言设备布局名称]
-[Company name] 510(k) 文件控制码 [K&#123;&#125;]
+[Company name] 510(k) 文件控制码 [K{}]
 
 男性Latex安全套510(k)节缩略语提供21 CFR §807.92 " 510(k)摘要(备选1)的内容和格式 " 下页510(k)说明(备选2)下页所要求的信息。
 ## II. 510(k) 摘要(备选1)
@@ -206,4 +181,3 @@ CFR 801.437,需要所有由天然橡胶乳胶构成或含有的、与人类接�
 (MG) 美国Corn Starch LUBRICANTS硅酮(聚二甲基硅氧烷)无氧-9表3 - 安全套组成摘要 - 颜色COLOR PIGment C.I.
 情况。
 21 CFFC 蓝色C.I. 蓝色C.I. 15:2/Copper Phthalocyanine Blue C.I. 蓝色C.#74160 化学文摘社编号:147-14-8-8178.3297(e)绿色C.I. 绿色色料7/多氯铜绿铜绿色C.I.#74260 化学文摘社编号:1328-53-6 178.3297(e) 黄色C.I.黄色74 Azo 黄黄C.I.#11741 CAS Reg No. 6358-31-2- 177.2600
-

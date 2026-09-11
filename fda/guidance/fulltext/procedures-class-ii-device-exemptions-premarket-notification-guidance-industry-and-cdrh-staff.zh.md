@@ -1,35 +1,10 @@
----
-title: "对于二级设备免于上市前通知,行业指导和CDRH人员的程序"
-description: "Procedures for Class II Device Exemptions from Premarket Notification, Guidance for Industry and CDRH Staff"
-published: 1998-02-18
----
+# 第二类装置免于上市前通知、工业指南和CDRH工作人员的程序
 
-# 对于二级设备免于上市前通知,行业指导和CDRH人员的程序
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/procedures-class-ii-device-exemptions-premarket-notification-guidance-industry-and-cdrh-staff](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/procedures-class-ii-device-exemptions-premarket-notification-guidance-industry-and-cdrh-staff)
 
-**Procedures for Class II Device Exemptions from Premarket Notification, Guidance for Industry and CDRH Staff**
-
-**发布日期**：1998-02-18
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：上市前
-**主题**：Premarket
-**案卷号**：FDA-2017-N-1129
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/procedures-class-ii-device-exemptions-premarket-notification-guidance-industry-and-cdrh-staff
-PDF：https://www.fda.gov/media/72685/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 1998-02-18
 
 ---
-
-## 官方文件全文
 
 二级装置豁免预告程序、工业指南和CDRH工作人员豁免程序它代表了工程处目前对上述问题的思考,它不为任何人创造或赋予任何权利,也不赋予任何人任何权利,也不为约束FDA或公众而运作。如果替代办法符合适用法规、条例或两者的要求,则可以采用另一种办法。
 预先市场通知(510(k))工作人员、方案业务工作人员、装置评价文件办公室印发的下列文件:至1998年5月26日为止,关于这份文件的评论和建议应提交给Dockets 管理处第98D-0083号文件。人力资源管理厅管理系统和政策司、人力资源管理厅、粮食及药物管理局、公园大道12420号(HFA-305)、Rockville 1-23室20857. 在决定是否修订现行指南时,将考虑这些意见。
@@ -73,4 +48,3 @@ FDA将发布一份FR通知,宣布请愿书,或宣布FDA打算主动豁免某类�
 
 例如,FDA正在列出生物反馈器械的豁免,但仅限于处方电池充电器械的豁免,这些装置被标明用于放松培训和肌肉再教育。所有其他生物排泄装置仍须遵守上市前通知要求,因为FDA确定,上市前通知对于合理保证这些器械的安全和有效性是必要的。
 此外,FDA还提供咨询意见,免于上市前通知要求并不意味着该装置不受任何其他法规或规章要求的约束,除非命令或条例明确规定了这种豁免。FDA确定,上市前通知对于本文件所列器械的安全性和有效性提供合理保证是不必要的,其部分依据是:其他管制措施,如目前良好制造做法要求所提供的安全和有效性保证。
-
