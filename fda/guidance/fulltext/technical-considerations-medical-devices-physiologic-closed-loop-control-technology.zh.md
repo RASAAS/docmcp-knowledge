@@ -1,36 +1,3 @@
----
-title: "具有生理闭环控制技术的医疗器械技术考量：行业与食品药品管理局工作人员指南"
-description: "Technical Considerations for Medical Devices with Physiologic Closed-Loop Control Technology: Guidance for Industry and Food and Drug Administration Staff"
-published: 2023-09-29
----
-
-# 具有生理闭环控制技术的医疗器械技术考量：行业与食品药品管理局工作人员指南
-
-**Technical Considerations for Medical Devices with Physiologic Closed-Loop Control Technology: Guidance for Industry and Food and Drug Administration Staff**
-
-**发布日期**：2023-09-29
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：数字健康与网络安全
-**主题**：Premarket、Combination Products、Clinical - Medical、Digital Health
-**案卷号**：FDA-2021-D-0996
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/technical-considerations-medical-devices-physiologic-closed-loop-control-technology
-PDF：https://www.fda.gov/media/154994/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
-
----
-
-## 官方文件全文
-
 # 采用闭闭液控制技术的医疗设备技术考虑:工业及美国食品药品监督管理局工作人员指南
 
 **来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/technical-considerations-medical-devices-physiologic-closed-loop-control-technology](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/technical-considerations-medical-devices-physiologic-closed-loop-control-technology)
@@ -453,4 +420,3 @@ FDA指南文件 " 医疗设备提交材料中计算模型研究报告 " 39,供FD
 [^44]: • 如何从自动模式(例如:当用户认为所提供的治疗不是根据临床情况预期或适当的时)。• 如何发现控制战略何时接近其局限性并可能失败(例如,如果治疗以最高速度提供,而病人没有反应)以及使用者的反应应该如何。• 应对装置错误或警告信息(如排除预期装置问题)应采取的步骤。• 应对用户预料不到的与自动化有关的使用错误。
 
 [^45]: 可在以下网站查阅:+++0++和上市前提交建议-可互操作的医疗设备
-

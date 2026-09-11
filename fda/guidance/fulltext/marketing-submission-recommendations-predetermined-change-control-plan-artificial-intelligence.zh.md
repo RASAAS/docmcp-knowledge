@@ -1,36 +1,3 @@
----
-title: "人工智能赋能器械软件功能预定变更控制计划的上市提交建议：行业与食品药品管理局工作人员指南"
-description: "Marketing Submission Recommendations for a Predetermined Change Control Plan for Artificial Intelligence-Enabled Device Software Functions: Guidance for Industry and Food and Drug Administration Staff"
-published: 2025-08-18
----
-
-# 人工智能赋能器械软件功能预定变更控制计划的上市提交建议：行业与食品药品管理局工作人员指南
-
-**Marketing Submission Recommendations for a Predetermined Change Control Plan for Artificial Intelligence-Enabled Device Software Functions: Guidance for Industry and Food and Drug Administration Staff**
-
-**发布日期**：2025-08-18
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：数字健康与网络安全
-**主题**：Premarket、Digital Health
-**案卷号**：FDA-2022-D-2628
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/marketing-submission-recommendations-predetermined-change-control-plan-artificial-intelligence
-PDF：https://www.fda.gov/media/166704/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
-
----
-
-## 官方文件全文
-
 # 关于人工智能器械软件功能预先确定的变更控制计划的营销提交建议:工业、美国食品药品监督管理局工作人员指南
 
 **来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/marketing-submission-recommendations-predetermined-change-control-plan-artificial-intelligence](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/marketing-submission-recommendations-predetermined-change-control-plan-artificial-intelligence)
@@ -751,4 +718,3 @@ AI-DSF被纳入成像系统,目的是帮助医疗服务提供者在获取成人�
 [^109]: 见《FD&C法》第502(a)(1)节,其中指出,如果医疗器械的标签在任何特定方面都是虚假或误导的,则该装置被视为错误的标志。更新后操作将保持安全和有效;以及(4) 如何使所有用户了解设备功能和性能的最新情况。此外,FDA必须了解如何减轻与更新进程本身有关的潜在风险。
 
 [^114]: 21 CFR 807.81(a)(3)或21 CFR 814.39(a)表示需要迅速临床行动,以防止对病人的潜在伤害。人工智能辅助医疗器械得到PCCP授权。
-

@@ -1,36 +1,3 @@
----
-title: "可互操作医疗器械的设计考量与上市前提交建议：行业与食品药品管理局工作人员指南"
-description: "Design Considerations and Pre-market Submission Recommendations for Interoperable Medical Devices: Guidance for Industry and Food and Drug Administration Staff"
-published: 2017-09-06
----
-
-# 可互操作医疗器械的设计考量与上市前提交建议：行业与食品药品管理局工作人员指南
-
-**Design Considerations and Pre-market Submission Recommendations for Interoperable Medical Devices: Guidance for Industry and Food and Drug Administration Staff**
-
-**发布日期**：2017-09-06
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：数字健康与网络安全
-**主题**：510(k)、Anesthesiology、Neurological、Cardiovascular、General Hospital & Personal Use、Digital Health、Dental、Radiological Health
-**案卷号**：FDA-2015-D-4852
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/design-considerations-and-pre-market-submission-recommendations-interoperable-medical-devices
-PDF：https://www.fda.gov/media/95636/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
-
----
-
-## 官方文件全文
-
 # 关于可互操作器械的设计考虑和上市前提交建议:工业及美国食品药品监督管理局工作人员指南
 
 **来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/design-considerations-and-pre-market-submission-recommendations-interoperable-medical-devices](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/design-considerations-and-pre-market-submission-recommendations-interoperable-medical-devices)
@@ -191,4 +158,3 @@ FDA建议根据医疗设备接口的目的,酌情将下列信息列入设备标�
 [^9]: 关于医疗设备网络安全的其他资料,请参见我们的指南文件,“医疗设备网络安全管理预市场呈件的内容”,可在以下网址查阅:涉及电子接口;正常使用以及可合理预见的滥用引起的风险。
 
 [^12]: 详情请查阅FDA指南,“医疗设备应用人的因素和可用性工程”如下:推荐连接; 推荐设置,或电子界面配置;就如何连接或安装、切断或卸载该设备,向信息技术人员等具体用户提供指导。
-

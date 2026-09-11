@@ -1,36 +1,3 @@
----
-title: "因《21世纪治愈法案》第3060条导致的既有医疗软件政策变更：行业与食品药品管理局工作人员指南"
-description: "Changes to Existing Medical Software Policies Resulting from Section 3060 of the 21st Century Cures Act: Guidance for Industry and Food and Drug Administration Staff"
-published: 2019-09-27
----
-
-# 因《21世纪治愈法案》第3060条导致的既有医疗软件政策变更：行业与食品药品管理局工作人员指南
-
-**Changes to Existing Medical Software Policies Resulting from Section 3060 of the 21st Century Cures Act: Guidance for Industry and Food and Drug Administration Staff**
-
-**发布日期**：2019-09-27
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：数字健康与网络安全
-**主题**：Postmarket、Premarket、Digital Health
-**案卷号**：FDA-2017-D-6294
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/changes-existing-medical-software-policies-resulting-section-3060-21st-century-cures-act
-PDF：https://www.fda.gov/media/109622/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
-
----
-
-## 官方文件全文
-
 # 根据《21世纪库尔法》第3060节对现行医疗软件政策作出的修改:工业、美国食品药品监督管理局工作人员指南
 
 **来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/changes-existing-medical-software-policies-resulting-section-3060-21st-century-cures-act](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/changes-existing-medical-software-policies-resulting-section-3060-21st-century-cures-act)
@@ -197,4 +164,3 @@ o 注 本示例的案文已作修改,以澄清,仅打算转让、储存、转换
 [^18]: 可在以下网址查阅:++0---医疗图像-存储-装置-医疗图像-图像-通信-器械。* 在背景部分,对下列DDDS实例进行了修订,以澄清只有非DDDS软件功能才具有非DDDS软件功能:○ 网络组成部分的任何组合或安排,包括专门软件,专门软件的明文制作目的与《国防和国防发展系统条例》的预定用途一致。§ 从这一例子中删除了“或硬件”的注。o 制造商专门标明的软件功能(每21份CFR Part 801)由制造商标明为DDDS,条件是这种软件功能不提供其他功能。§ 注“产品”改为“软件功能”。与医疗设备直接连接的医院、第三方供应商,以获取医疗设备信息。o 软件的修改部分,作为为特定DDDS功能而建立和/或修改的信息技术基础设施(撰写和汇编软件)的一部分。例如,在修改用于DDDS功能的软件时,只有修改部分被视为DDDS;原始软件不是。§ 从本例子中删除了“或硬件”的注。" 进行监测但被认为不进行`主动患者监测 ' 的装置实例 " 一节的标题已改为 " 转让产品实例 " 。储存、转换格式或显示医疗设备数据,为非设备-MDDS。”FDA说明了它对下列器械的遵守政策:o MDDS, 需遵守21 CFR 880.6310;o 医疗图像储存装置,需遵守21 CFR 892.2010;o 医疗图像通信装置,需遵守21 CFR 892.2020。
 
 [^19]: 可用于%0 功能和移动医疗应用程序。o 与床边(或心脏)监测器连接的移动应用程序,并将数据传送到中央观察站,供显示和病人积极监测。DSI、MHX、MLD(21 CFR 870.1025)、DRT、MWI、MSX(21 CFR 870.2300)。 §这一分模块经过修订,改为:获得或处理生理信号的软件功能。可能的产品编码:DSI、MHX、MLD(21 CFR 870.1025)、DRT、MWI、MSX(21 CFR 870.2300)。o 与围产期监测系统连接的移动应用程序,并将子宫收缩和胎儿心率数据转移到另一个显示器,以便远程监测劳动进度。可能的产品编码:HGM(21 CFR 884.2740)。 §本子号已修订如下:用于远程监测劳动进度的子宫收缩和胎儿心率数据的软件功能。旨在显示图像供诊断性审查的移动应用程序可作为一个图像存档和通信系统加以规范。LLZ(21 CFR 892.2050)。 §本分页已修改如下:旨在处理图像以供诊断性审查的软件功能可作为一个图像存档和通信系统加以规范。LLZ(21 CFR 892.2050)。
-
