@@ -1,0 +1,823 @@
+# Coronary, Peripheral, and Neurovascular Guidewires - Performance Tests and Recommended Labeling: Guidance for Industry and Food and Drug Administration Staff
+
+**Source:** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/coronary-peripheral-and-neurovascular-guidewires-performance-tests-and-recommended-labeling](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/coronary-peripheral-and-neurovascular-guidewires-performance-tests-and-recommended-labeling)
+
+**Published:** 2019-10-10
+
+---
+
+<!-- Page 1 -->
+Contains Nonbinding Recommendations 
+Coronary, Peripheral, and 
+Neurovascular Guidewires – 
+Performance Tests and 
+Recommended Labeling 
+Guidance for Industry and 
+Food and Drug Administration Staff 
+Document issued on October 10, 2019. 
+For questions about this document, contact: 
+· OHT2:  Office of Cardiovascular Devices/DHT2C:  Division of Health Technology 2C 
+at (301) 796-2520 
+· OHT5:  Office of Neurological and Physical Medicine Devices/DHT5A:  Division of 
+Health Technology 5A at (301) 796-2823 
+This guidance supersedes “Coronary and Cerebrovascular Guidewire 
+Guidance” issued January 1995. 
+U.S. Department of Health and Human Services 
+Food and Drug Administration 
+Center for Devices and Radiological Health
+
+---
+
+<!-- Page 2 -->
+Contains Nonbinding Recommendations 
+Preface 
+Public Comment 
+You may submit electronic comments and suggestions at any time for Agency consideration 
+to https://www.regulations.gov. Submit written comments to the Dockets Management Staff, 
+Food and Drug Administration, 5630 Fishers Lane, Room 1061, (HFA-305), Rockville, MD 
+20852. Identify all comments with the docket number FDA-2018-D-1775. Comments may 
+not be acted upon by the Agency until the document is next revised or updated. 
+Additional Copies 
+Additional copies are available from the Internet. You may also send an e-mail request to 
+CDRH-Guidance@fda.hhs.gov to receive a copy of the guidance. Please include the 
+document number 16007 and complete title of the guidance in the request .
+
+---
+
+<!-- Page 3 -->
+Contains Nonbinding Recommendations 
+Table of Contents 
+I. 
+Introduction ....................................................................................................................... 1 
+II. Background ....................................................................................................................... 2 
+III. Scope ................................................................................................................................. 2 
+IV. Premarket Submission Recommendations ........................................................................ 2 
+A. 
+Device Description ............................................................................................. 2 
+B. 
+Predicate Comparison ......................................................................................... 3 
+C. 
+Biocompatibility ................................................................................................. 4 
+D. 
+Sterility ............................................................................................................... 5 
+E. 
+Pyrogenicity ........................................................................................................ 5 
+F. 
+Shelf Life and Packaging ................................................................................... 6 
+G. 
+Non-Clinical Bench Testing ............................................................................... 7 
+A. 
+Clinical Performance Testing ........................................................................... 13 
+B. 
+Labeling ............................................................................................................ 14 
+V. 
+Modifications .................................................................................................... 16
+
+---
+
+<!-- Page 4 -->
+Contains Nonbinding Recommendations 
+1 
+Coronary, Peripheral, and 
+Neurovascular Guidewires -
+Performance Tests and 
+Recommended Labeling 
+Guidance for Industry and Food 
+and Drug Administration Staff 
+This guidance represents the current thinking of the Food and Drug Administration (FDA 
+or Agency) on this topic. It does not establish any rights for any person and is not binding 
+on FDA or the public. You can use an alternative approach if it satisfies the requirements 
+of the applicable statutes and regulations. To discuss an alternative approach, contact the 
+FDA staff or Office responsible for this guidance as listed on the title page. 
+I. Introduction 
+This guidance document provides recommendations for premarket notification (510(k)) 
+submissions for guidewires intended for use in the coronary vasculature, peripheral 
+vasculature, and neurovasculature.  The recommendations reflect current review practices 
+and are intended to promote consistency and facilitate efficient review of these submissions. 
+For the purposes of this guidance, the coronary vasculature includes blood vessels within the 
+heart, including the ostium of the left main coronary artery; the neurovasculature includes 
+blood vessels within the cranium, typically considered the vasculature distal to the cervical 
+segment of the internal carotid artery; the peripheral vasculature includes all other 
+cardiovascular vasculature. This document is intended to assist industry in designing and 
+executing appropriate performance testing to support a 510(k) submission and provides 
+recommendations for content and labeling to include in the submission. 
+For the current edition of the FDA-recognized standards referenced in this document, see the 
+FDA Recognized Consensus Standards Database web site at https://www.accessdata.fda.gov/ 
+scripts/cdrh/cfdocs/cfStandards/search.cfm. For more information regarding use of consensus 
+standards in regulatory submissions, please refer to FDA guidance titled “Appropriate Use of 
+Voluntary Consensus Standards in Premarket Submissions for Medical Devices.”1
+                                                
+1 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/appropriate-use-voluntary-
+consensus-standards-premarket-submissions-medical-devices
+
+---
+
+<!-- Page 5 -->
+Contains Nonbinding Recommendations 
+2
+FDA's guidance documents, including this guidance, do not establish legally enforceable 
+responsibilities. Instead, guidances describe the Agency’s current thinking on a topic and 
+should be viewed only as recommendations, unless specific regulatory or statutory 
+requirements are cited. The use of the word should in Agency guidance means that 
+something is suggested or recommended, but not required. 
+II. Background 
+Guidewires are used to facilitate the placement of therapeutic devices during percutaneous 
+interventional procedures. In the context of this guidance, the guidewires being discussed are 
+intended for use in the coronary vasculature, peripheral vasculature, and neurovasculature. 
+There have been many technological advancements since the initial regulation of these 
+devices. Therefore, updated information and additional clarity is needed regarding FDA’s 
+recommendations for performance testing and labeling for a 510(k) submission for new or 
+modified guidewires. 
+This document supplements other FDA documents regarding the specific content 
+requirements and recommendations of a 510(k) submission. You should also refer to 21 CFR 
+807.87 and FDA’s guidance, “Format for Traditional and Abbreviated 510(k)s.”2
+III. Scope 
+The scope of this document is limited to guidewires indicated for use in the coronary 
+vasculature, peripheral vasculature, and neurovasculature, regulated under 21 CFR 870.1330 
+and with product codes listed in the table below. 
+Product Code 
+Regulation Number 
+Name 
+DQX 
+21 CFR 870.1330 
+Wire, Guide, Catheter, Cardiovascular 
+(Coronary and Peripheral) 
+MOF 
+21 CFR 870.1330 
+Guide, Wire, Catheter, 
+Neurovasculature 
+IV. Premarket Submission Recommendations 
+A. Device Description 
+We recommend that you identify your device by the applicable regulation and product code 
+described in Section III above and include the information described below. 
+                                                
+2 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/format-traditional-and-
+abbreviated-510ks-guidance-industry-and-fda-staff
+
+---
+
+<!-- Page 6 -->
+Contains Nonbinding Recommendations 
+3
+· Device components: FDA recommends that you identify and explain the function of 
+all components and accessories, including packaging. You should include a clear 
+description of the basic operation of the device and identify any unique features (e.g. 
+steerable tip), when applicable. You should also identify all sizes, configurations and 
+models included within the scope of the submission. If your device contains any 
+joints (i.e., locations where adhesives, thermal fusion, or other joining methods are 
+used for bonding components of the guidewire), we recommend that you identify the 
+joint location and bonding method used. 
+· Engineering drawing(s) of the device: FDA recommends that you provide 
+engineering drawing(s) with all dimensions, tolerances, and components clearly 
+labeled (e.g., tip configuration, tip performance, and dynamic material interactions 
+(e.g., mechanism to control tip deflection)). In addition to the engineering drawing(s), 
+a photograph of the device can also be provided. FDA recommends that you include 
+this for each device, accessory, and/or component included within the scope of the 
+submission. 
+· Technological characteristics: FDA recommends that you describe the technical and 
+performance specifications and include a brief description of the device design in the 
+device description section of the submission. The specifications may include 
+performance-related product measurement tolerances, operating limitations, and any 
+other functional, physical, and environmental specifications of the device. We also 
+recommend that you describe ranges and/or accuracy of the specifications. 
+· Materials: FDA recommends that each material(s) be clearly identified along with its 
+corresponding contact duration. We recommend identifying both the generic 
+material(s) of construction and the unique material identifier(s). If your device 
+includes coating(s), we recommend that you identify the coating name, chemical 
+formulation, coating purpose, whether the coating is hydrophobic or hydrophilic, 
+thickness, length, location and details of how the coating is applied to the guidewire 
+substrate. For some device materials, it may be appropriate to provide a reference to 
+either a recognized consensus standard, or to a Letter of Authorization (LOA) for a 
+device Master File (MAF) for this information. 
+B. Predicate Comparison 
+For devices reviewed under the 510(k) process, manufacturers must compare their new 
+device to a similar legally marketed predicate device to support its substantial equivalence 
+(21 U.S.C. 360c(i); 21 CFR 807.87(f)). This comparison should provide information to show 
+how your device is similar to and different from the predicate. Side by side comparisons, 
+whenever possible, are desirable. See below for an example of how this information may be 
+organized. This table is not intended to represent an exhaustive list of comparative 
+parameters; ensure you provide all relevant device descriptive characteristics, as outlined in 
+Section IV.A. Device Description, above.
+
+---
+
+<!-- Page 7 -->
+Contains Nonbinding Recommendations 
+4
+Description 
+Subject Device 
+Predicate Device (Kxxxxxx) 
+Indications for Use 
+Intended Use 
+Wire Diameter 
+Device Length 
+Tip Length 
+Tip Type and Shape 
+Tip Flexibility 
+Wire Material 
+Coating(s) Material, Length 
+and Location 
+Tip Material 
+Accessories 
+Packaging Configuration 
+Sterilization Method 
+Shelf Life 
+As part of your comparison, we recommend that you clearly explain the intended clinical 
+environment and intended use of your device. The indications for use statement should 
+identify whether the device is intended to navigate into the coronary vasculature, peripheral 
+vasculature, and/or neurovasculature. If your device contains any feature(s) that is unique to 
+your device compared to the predicate, we recommend that you clearly describe the 
+feature(s), the location(s), and the operational characteristics and provide an explanation as to 
+why the differences do not raise different questions of safety and effectiveness. 
+C. Biocompatibility 
+Significance: Guidewires contain patient-contacting materials, which, when used as intended 
+(i.e., limited direct contact with circulating blood), may induce a harmful biological response. 
+Recommendation: You should determine the biocompatibility of all patient-contacting 
+materials present in your device. If your device is identical in composition and processing 
+methods to guidewires with a history of successful use, you may reference previous testing 
+experience or the literature, if appropriate. For some device materials, it may be appropriate 
+to provide a reference to either a recognized consensus standard, or to a LOA for a device 
+MAF. 
+If you are unable to identify a legally marketed predicate device with similar 
+location/duration of contact and intended use that uses the same materials as used in your 
+device, we recommend you conduct and provide a biocompatibility risk assessment. The 
+assessment should explain the relationship between the identified biocompatibility risks, the 
+information available to mitigate the identified risks, and identify any knowledge gaps that 
+remain. You should then identify any biocompatibility testing or other evaluations that were 
+conducted to mitigate any remaining risks. We recommend that you follow FDA’s guidance 
+“Use of International Standard ISO-10993-1, ‘Biological evaluation of medical devices - Part
+
+---
+
+<!-- Page 8 -->
+Contains Nonbinding Recommendations 
+5
+1: Evaluation and testing within a risk management process’”3 which identifies the types of 
+biocompatibility assessments that should be considered and recommendations regarding how 
+to conduct related tests. 
+Per ISO 10993-1: Biological evaluation of medical devices – Part 1: Evaluation and testing 
+within a risk management process and Attachment A of FDA’s guidance on ISO-10993-1, 
+guidewires are externally communicating devices with limited (&lt;24 hour) duration direct 
+contact with the circulating blood. Therefore, the following endpoints should be addressed in 
+your biocompatibility evaluation: 
+· cytotoxicity; 
+· sensitization; 
+· irritation/intracutaneous reactivity; 
+· acute systemic toxicity; 
+· material-mediated pyrogenicity; 
+· complement activation (SC5b-9 pathway is recommended and C3a pathway 
+optional); 
+· in vivo thrombogenicity; and 
+· direct and indirect hemolysis. 
+The following additional considerations are recommended for guidewires. If novel materials 
+are used, then genotoxicity testing may also be needed. Testing should be conducted with the 
+largest surface area device model and worst-case exposure. Test samples should represent the 
+final, sterilized device. 
+D. Sterility 
+Significance: Depending on the intended use, guidewires will contact blood and possibly 
+cerebrospinal fluid and therefore should be adequately sterilized to minimize infections and 
+related complications. 
+Recommendation: For guidewires labeled as sterile, we recommend that you provide 
+information for the final, sterilized device in accordance with FDA’s guidance “Submission 
+and Review of Sterility Information in Premarket Notification (510(k)) Submissions for 
+Devices Labeled as Sterile.”4
+E. Pyrogenicity 
+Significance: Pyrogenicity testing is used to help protect patients from the risk of febrile 
+reaction due to gram-negative bacterial endotoxins and/or chemicals that can leach from a 
+medical device (e.g., material-mediated pyrogens). 
+                                                
+3 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/use-international-standard-iso-
+10993-1-biological-evaluation-medical-devices-part-1-evaluation-and 
+4 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/submission-and-review-sterility-
+information-premarket-notification-510k-submissions-devices-labeled
+
+---
+
+<!-- Page 9 -->
+Contains Nonbinding Recommendations 
+6
+Recommendation: To address the risks associated with the presence of bacterial endotoxins, 
+guidewires should meet pyrogen limit specifications by following the recommendations 
+outlined in FDA’s guidance “Submission and Review of Sterility Information in Premarket 
+Notification (510(k)) Submissions for Devices Labeled as Sterile.”5 You should also follow 
+the recommendations in “Guidance for Industry Pyrogen and Endotoxins Testing: Questions 
+and Answers.”6 To address the risks associated with material-mediated endotoxins, follow 
+the recommendations in FDA’s guidance “Use of International Standard ISO-10993, 
+'Biological Evaluation of Medical Devices Part 1: Evaluation and Testing’.”7
+For devices intended to be labeled as “non-pyrogenic,” we recommend that both the bacterial 
+endotoxin and rabbit material-mediated pyrogen testing be conducted. 
+F. Shelf Life and Packaging 
+Significance: Shelf life testing is conducted to support the proposed expiration date through 
+evaluation of the package integrity for maintaining device sterility and/or evaluation of any 
+changes to device performance or functionality. 
+Recommendation: With respect to package integrity for maintaining device sterility, you 
+should provide a description of the packaging, including how it will maintain the device’s 
+sterility, and a description of the package integrity test methods, but not the package test data. 
+We recommend that package integrity test methods include simulated distribution and 
+associated package integrity testing, as well as simulated (and/or real-time) aging and 
+associated seal strength testing, to validate package integrity and shelf life claims. We 
+recommend you follow the methods described in the FDA-recognized series of consensus 
+standards AAMI/ANSI/ISO 11607-1: Packaging for terminally sterilized medical devices – 
+Part 1: Requirements for materials, sterile barrier systems and packaging and 
+AAMI/ANSI/ISO 11607-2: Packaging for terminally sterilized medical devices – Part 2: 
+Validation requirements for forming, sealing and assembly processes. 
+With respect to evaluating the effects of aging on device performance or functionality, shelf 
+life studies should evaluate the critical device properties to ensure it will perform adequately 
+and consistently during the entire proposed shelf life. To evaluate device functionality, we 
+recommend that you assess each of the bench tests described in Section IV.G. Non-Clinical 
+Performance Testing and repeat all tests that evaluate design components or characteristics 
+that are potentially affected by aging. 
+We recommend that you provide a summary of the test methods used for your shelf life 
+testing, results and the conclusions drawn from your results. If you use devices subject to 
+accelerated aging for shelf life testing, we recommend that you specify the way in which the 
+                                                
+5 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/submission-and-review-sterility-
+information-premarket-notification-510k-submissions-devices-labeled 
+6https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-industry-pyrogen-and-
+endotoxins-testing-questions-and-answers 
+7 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/use-international-standard-iso-
+10993-1-biological-evaluation-medical-devices-part-1-evaluation-and
+
+---
+
+<!-- Page 10 -->
+Contains Nonbinding Recommendations 
+7
+devices were aged. We recommend that you age your devices as per the currently FDA 
+recognized version of ASTM F1980: Standard Guide for Accelerated Aging of Sterile 
+Barrier Systems for Medical Devices and specify the environmental parameters used to attain 
+the expiration date. For devices or components containing polymeric materials or coatings, 
+you should conduct testing on real-time aged samples to confirm the results of the 
+accelerated aging study(ies). This testing can be conducted in parallel with 510(k) review and 
+clearance, with results documented to file in the design history file (i.e., complete test reports 
+do not need to be submitted to FDA). 
+G. Non-Clinical Bench Testing 
+The purpose of the non-clinical bench testing is to ensure that the device performs as 
+intended under the specified conditions of use and supports a demonstration of substantial 
+equivalence to the predicate device. The non-clinical performance testing recommended for 
+each device’s intended use may vary based on its respective risk profile associated with the 
+intended target vasculature. FDA recommends that you provide the information below to 
+evaluate the material and performance characteristics of your final, sterilized device that 
+represents the worst-case design for each performance test. Where appropriate, the 
+performance of the proposed device should be compared to that of the predicate device.8 If a 
+test listed in Section IV.G. Non-Clinical Performance Testing is excluded from your 
+submission, we recommend that you provide a clinical and risk-based justification for its 
+omission. 
+For information on recommended content and format of test reports for the testing described 
+in this section, refer to FDA’s guidance, “Recommended Content and Format Non-Clinical 
+Bench Performance Testing Information in Premarket Submissions.”9
+1. Pre-Conditioning 
+Pre-conditioning can include a variety of test sample preparations and may depend on the test 
+being conducted. Prior to conducting the non-clinical performance testing, we recommend 
+that you prepare the device per the instructions for use. For certain device characteristics 
+being evaluated (e.g., coating integrity, particulate generation), you should also subject the 
+device to additional pre-conditioning (e.g., extended soaking in physiologically relevant 
+solution at 37˚C), and tracking through a simulated use model as discussed in Section 
+IV.G.2. Simulated Use Model) to present worst-case clinical use. We recommend that you 
+clinically justify pre-conditioning parameters used for each test, where applicable. 
+                                                
+8 See FDA Guidance, “The 510(k) Program: Evaluating Substantial Equivalence in Premarket Notifications 
+[510(k)] - Guidance for Industry and Food and Drug Administration Staff” (https://www.fda.gov/regulatory-
+information/search-fda-guidance-documents/510k-program-evaluating-substantial-equivalence-premarket-
+notifications-510k), for more information on comparing to a primary predicate or reference device. 
+9 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/recommended-content-and-
+format-non-clinical-bench-performance-testing-information-premarket
+
+---
+
+<!-- Page 11 -->
+Contains Nonbinding Recommendations 
+8
+2. Simulated Use Model 
+The simulated use model may be used when pre-conditioning or when testing in simulated 
+anatomy is recommended. Your anatomical model should be appropriately tortuous to 
+represent a challenging vasculature for the patient population intended to be treated. When 
+designing your anatomical model, you should consider lumen diameter, bend radii, bend 
+reversals, number of bends, tracking length, and coefficient of friction of tracking materials 
+(e.g., polyurethane, silicone, Teflon, glass latex, native vessel). We recommend that your 
+anatomical model include all relevant pathway attributes to represent the human anatomy. 
+Should a two-dimensional anatomical model be chosen rather than a three-dimensional 
+model, all native pathway attributes should be maintained and represented within the model. 
+Furthermore, the anatomical model should appropriately model the various anticipated 
+curvatures and disease states, if applicable, the device will encounter from all proposed 
+access sites. While there are currently no standardized models of the coronary vasculature, 
+peripheral vasculature and/or neurovasculature, an example of a tracking fixture that FDA 
+has previously accepted in premarket submissions is described in Figure X2.4 of ASTM 
+F2394-07: Standard Guide for Measuring Securement of Balloon Expandable Vascular Stent 
+Mounted on Delivery System. 
+When describing your simulated use model(s), we recommend that you identify the materials 
+of construction of the model and include images and engineering diagrams with dimensions 
+(e.g., lengths, tubing diameters, radii of bend). We also recommend that a clinical rationale 
+supporting the selection of the anatomical model parameters include a review of available 
+imaging data or literature regarding the anatomy of the intended population. In addition, for 
+devices intended to be used in the neurovasculature, your simulated use model should be as 
+tortuous as the relevant vasculature included in your instructions for use. Specifically, we 
+recommend that you use a full three-dimensional anatomical model including the intended 
+access site (e.g., femoral, radial) to the intended target location in the neurovasculature. To 
+simulate a clinically challenging tortuosity, your full neurovascular anatomical model should 
+include, at a minimum, the Internal Carotid Artery (ICA) siphon, two (2) 180-degree turns 
+and two (2) 360-degree turns, at the distal portion of the anatomical model. Alternative 
+neurovasculature anatomical models should be justified with respect to clinically challenging 
+neurovasculature tortuosity based on the intended use of the device and/or specific 
+performance test being evaluated. 
+3. Dimensional Verification 
+Significance: Accurate device dimensions help the physician to select appropriate product 
+sizes. They can also affect the functional behavior of the device. 
+Recommendation: We recommend providing dimensional specifications and tolerances for 
+the device as manufactured. The tolerances chosen should be based on risk and should have 
+an appropriate clinically or scientifically relevant justification. We recommend using a 
+calibrated tool to verify each dimension. At a minimum, the length and outer diameter should 
+be measured and reported. If applicable, tip length, coating length, or other guidewire 
+features should also be reported.
+
+---
+
+<!-- Page 12 -->
+Contains Nonbinding Recommendations 
+9
+4. Visual Inspection 
+Significance: Guidewire defects, including kinks, cracks, deformations or debris, can 
+contribute to clinical complications, affecting the safety and performance of the device. 
+Recommendation: We recommend testing to ensure that the devices are free of extraneous 
+matter and surface defects due to processing that could cause trauma to the vessels during 
+use. If the device is coated, the coating should appear uniform. We recommend examining 
+the devices with a minimum 2.5X magnification. This test may be conducted independently 
+or in conjunction with another performance test if performed prior to performance testing to 
+represent the as-manufactured product. Please note that for coated devices, visual inspection 
+alone at 2.5X magnification is likely insufficient to adequately evaluate the coating integrity 
+and additional test considerations should be followed (see Section IV.G.10. Coating 
+Integrity). 
+5. Simulated Use 
+Significance: Use of the device in a simulated use model, in combination with other 
+interventional devices, as appropriate, can provide more clinically relevant information about 
+its performance than isolated bench top performance testing. 
+Recommendation: We recommend that you use your device in combination with ancillary 
+devices (e.g., introducer, guiding catheter) according to the instructions for use and track the 
+device through the simulated use model multiple times. Please see Section IV.G.2 Simulated 
+Use Model for recommendations in developing your anatomical model. You should report 
+observations regarding compatibility with ancillary devices, appropriate preparation, and the 
+maneuverability of the device through the simulated use model. You should also report the 
+integrity of the device prior to, during (e.g., kinking, compromised push ability), and after 
+use. This test may be conducted in conjunction with other tests when appropriately justified. 
+6. Tensile Strength 
+Significance: Joint failure could lead to device failure and/or vessel damage. 
+Recommendation: We recommend testing the strength of each unique joint to failure. If there 
+are multiple joints composed of the same material and adhesion method, then the worst-case 
+joint may be used to represent all joints. Prior to testing we recommend that the samples are 
+prepared per the instructions for use and then pre-conditioned as needed to simulate worst-
+case conditions and tracked through a simulated use model. Tensile strength testing should 
+demonstrate that your device is capable of withstanding tensile forces greater than those 
+expected in clinical use. When setting your acceptance criteria, we recommend that you 
+consider testing the predicate device concurrently or determine the theoretical force based on 
+clinical information. When the acceptance criteria are established, a clinical basis for their 
+appropriateness should be included in your protocol. Because the strain rate used may affect 
+the resulting data, and thus, the acceptability of the acceptance criteria and results, we also 
+recommend that you report the strain rate used to test each sample and justify this rate.
+
+---
+
+<!-- Page 13 -->
+Contains Nonbinding Recommendations 
+10
+7. Tip Pull 
+Significance: Tip detachment may adversely impact clinical performance (e.g., result in distal 
+embolization). 
+Recommendation: For guidewires that contain one or more joints at the distal tip (e.g., spring 
+or coil tips), we recommend evaluating the tensile force to separate the distal tip from the 
+guidewire. Prior to testing, we recommend that the samples are prepared per the instructions 
+for use and then pre-conditioned as needed to simulate worst-case conditions and tracked 
+through a simulated use model. This test may be performed as part of the tensile strength 
+assessment (see Section IV.G.6 Tensile Strength above), if applicable. 
+8. Torque Strength 
+Significance: Inability to withstand torsional forces typical of clinical use (i.e., 
+torqueing/rotating the device to navigate to the target vasculature) may lead to device failure 
+and/or vessel damage. 
+Recommendation: We recommend that you prepare the samples per the instructions for use, 
+pre-condition as needed to simulate worst-case conditions and track each device through a 
+simulated use model. We recommend the distal end of the device be constrained from 
+movement and the proximal end of the guidewire be rotated until failure. We recommend 
+that you report the number of rotations to failure and the failure mode for each device tested. 
+9. Torqueability 
+Significance: An inability of the distal tip to respond to manipulations made at the proximal 
+end may adversely impact clinical performance (e.g., whipping effects may cause vessel 
+damage and/or inability to navigate vessels). 
+Recommendation: We recommend that you prepare the samples per the instructions for use, 
+pre-condition as needed to simulate worst-case conditions and track each device through a 
+simulated use model. With the sample in the simulated use model and the distal end 
+unconstrained, we recommend that you rotate the proximal end of the guidewire. You should 
+report the rotational input to the resulting distal rotation at 90-degree intervals (with your 
+applied rotation angle determined with reference to the device risk and intended use) and 
+calculate a proximal-to-distal rotational ratio for each sample. 
+10. Coating Integrity 
+Significance: Coating separation (i.e., peeling, flaking, shedding delamination and/or 
+sloughing off) or degradation may adversely impact clinical performance (e.g., result in 
+inflammation at access site, pulmonary embolization, pulmonary infarct, myocardial 
+embolization, myocardial infarct, embolic stroke, cerebral infarct, tissue necrosis, or death).10
+                                                
+10 See FDA Safety Communication on “Lubricious Coating Separation from Intravascular Medical Devices”, at 
+http://wayback.archive-
+it.org/7993/20170722215712/https://www.fda.gov/MedicalDevices/Safety/AlertsandNotices/ucm473794.htm.
+
+---
+
+<!-- Page 14 -->
+Contains Nonbinding Recommendations 
+11
+Recommendation: Coating integrity testing should include an interpretation of the data 
+collected (including a discussion of why any observed defects are acceptable given the 
+intended use and potential risk associated with the intended use) before and after subjecting 
+the device to simulated use testing in a representative tortuous model. We recommend 
+assessing the device for any coating delamination or degradation during simulated use. You 
+should provide representative images (using scanning electron microscopy and/or optical 
+microscopy) of the coated surface pre- and post-simulated use testing. Images should be 
+taken using ≥40X magnifications in order to detail any coating defect. Multiple 
+magnifications (up to 500X) may be needed to properly visualize any observed defects. If 
+your coating is clear, it may be beneficial to dye the coating prior to assessing the device 
+surface in order to allow for proper visualization. It may be helpful to include baseline (i.e., 
+before simulated use) reference samples for comparative purposes if the guidewire is dyed. 
+We recommend that you conduct the coating integrity testing simultaneously with the 
+particulate evaluation as described in Section IV.G.11. Particulate Evaluation to assess the 
+origin, quantity, and size of particulates that may be removed from your device during 
+simulated use. If your device contains coating defects, you should provide a scientific 
+rationale explaining why the coating anomalies do not pose a safety risk. 
+11. Particulate Evaluation 
+Significance: Particulate generation during clinical use may result in serious adverse events 
+including pulmonary embolism, pulmonary infarction, myocardial embolism, myocardial 
+infarction, embolic stroke, tissue necrosis and death; therefore, guidewires intended to 
+navigate the coronary vasculature or neurovasculature pose the greatest clinical risk and 
+should be evaluated for particle generation along with coating integrity assessment in a 
+representative simulated use model. If your device is intended to only navigate the peripheral 
+vasculature and the coating integrity evaluation identified coating defects (e.g., along the 
+length of the guidewire) that may raise additional clinical concerns, particulate evaluation 
+may be needed to address potential safety concerns. 
+Recommendation: To accurately account for particulates generated during the use of your 
+device, the particles should be characterized after simulated use. We recommend that the 
+number of particulates generated at each evaluation be quantified and characterized by size 
+and count using a validated method (e.g., light obscuration, light refraction) under continuous 
+flow conditions to simulate blood flow. Specifically, we recommend that the total number of 
+particulates be reported in the following size ranges: ≥ 10μm, ≥ 25μm, and at the largest size 
+for which validation yields ≥ 75% recovery. At a minimum, the largest size should be 
+≥ 50μm. For particulates that are greater than 50 µm, we recommend that you distinguish, by 
+percentage, the amount that are ≥ 200 µm, ≥ 500 µm and ≥ 1000 µm, if those measurement 
+methods are available, as these larger sized particulates pose a greater embolic risk. 
+Appropriate precautions should also be implemented to ensure that the particles are 
+suspended during particle counting and sizing to minimize aggregation and other artifacts 
+from the test system. For further guidance on particulate evaluation, please refer to Section 
+VIII.A.13. of FDA Guidance for Industry and FDA Staff, “Class II Special Controls 
+Guidance Document for Certain Percutaneous Transluminal Coronary Angioplasty (PTCA) 
+Catheters” (https://www.fda.gov/regulatory-information/search-fda-guidance-
+
+---
+
+<!-- Page 15 -->
+Contains Nonbinding Recommendations 
+12
+documents/class-ii-special-controls-guidance-document-certain-percutaneous-transluminal-
+coronary-angioplasty). 
+You should provide a clinical discussion explaining why the results of the particulate 
+evaluation and the associated coating integrity assessments do not raise a safety concern. If 
+the particulate evaluation raises safety concerns, then chemical characterization may be 
+needed to identify the particulate source(s). 
+12. Lubricityy 
+Significance: Lubricious coatings may be incorporated to decrease frictional forces 
+experienced when navigating the target vasculature, and the functionality and performance of 
+these coatings should be demonstrated. 
+Recommendation: We recommend that you characterize the drag force of the coating (e.g., 
+pinch test) after the samples are prepared per the instructions for use and then pre-
+conditioned as needed to simulate worst-case conditions. In addition to coating integrity 
+testing (Section IV.G.10), you should consider assessing the coating durability by performing 
+the lubricity test multiple times (i.e., a clinically relevant number of passes). The mechanism 
+of lubrication (e.g., hydrodynamic) should be identified. Any observations (e.g. the changes 
+in the drag forces with cycling, coating defects using high resolution imaging) and 
+conclusions should be reported. 
+13. Corrosion Resistance 
+Significance: Guidewire corrosion can cause or contribute to premature device failure. In 
+addition, corrosion byproducts may be toxic or cause other adverse biological and tissue 
+responses. 
+Recommendation: We recommend that any metallic component of the device be examined 
+for signs of corrosion after an immersion test (e.g., exposure of the device to a series of saline 
+baths at room temperature, boiling, and 37˚C beyond the maximum expected clinical use 
+duration). For more information regarding recommendations of methodology for this testing, 
+please refer to the currently recognized version of ISO 10555-1: Intravascular catheters – 
+Sterile and single-use catheters – Part 1: General requirements, Annex A. Although this 
+standard has been written for intravascular catheters, the method used to evaluate corrosion 
+resistance is applicable to guidewires. 
+14. Kink Resistance 
+Significance: Guidewires may be subjected to bending forces during use, and an inability to 
+withstand forces that are typical of clinical use could lead to device failure and/or vessel 
+damage. 
+Recommendation: Your device should demonstrate resistance to kinking (and other failure 
+modes) when bent around anatomically relevant radii. The samples should be prepared per 
+the instructions for use and then pre-conditioned as needed to simulate worst-case conditions. 
+To evaluate the resistance to kinking, you should bend the guidewire around mandrels of
+
+---
+
+<!-- Page 16 -->
+Contains Nonbinding Recommendations 
+13
+decreasing radii until kink, plastic deformation, and/or fracture occurs or to the smallest bend 
+radii expected during clinical use, whichever comes first. This evaluation should account for 
+all joints. When reporting the results, you should identify the mandrel sizes tested, which 
+mandrel caused device failure, the location of failure and the type of failure observed. 
+15. Tip Flexibility 
+Significance: Safe and successful navigation through tortuous vessels relies on the 
+mechanical properties of the guidewire tip. Inappropriately designed guidewire tips may 
+result in vessel perforation, dissection and/or other vessel damage. 
+Recommendation: After the samples are prepared per the instructions for use and then pre-
+conditioned as needed to simulate worst-case conditions, we recommend that you identify the 
+force that induces buckling deformation when the device is held at 5, 10 and 20 mm from the 
+distal tip. 
+16. Radiopacity 
+Significance: Insufficient radiopacity could impede safe and appropriate usage of the device 
+as it will not be clearly visible during use. 
+Recommendation: We recommend choosing a sample size up to 5 devices to ensure that the 
+radiopaque markers or radiopaque portions of the device are visible using clinical imaging 
+techniques. We recommend a qualitative or quantitative measure of radiopacity, wherein the 
+guidewire is compared to a standard material or predicate device as a control via real-time or 
+plain film x-ray. It is acceptable to use data acquired as part of animal studies, in vitro 
+phantoms, or equivalent models.11 For additional information regarding recommendations of 
+methodology for this testing, please refer to the currently recognized version of ASTM F640: 
+Standard Test Method for Determining Radiopacity for Medical Use. We recommend 
+including high-quality images of the guidewires and the control(s) in your submission. 
+A. Clinical Performance Testing 
+Significance: In some cases, pre-clinical evaluation does not fully characterize all clinical 
+experience, outcomes, and risks. In such cases, we recommend that you conduct in vivo (i.e., 
+clinical) studies to evaluate device safety and effectiveness for new and modified guidewires. 
+Recommendation: Clinical evidence is generally unnecessary for most guidewires; however, 
+such testing may be requested in situations such as the following: 
+· indications for use in complex clinical scenarios (e.g., crossing chronic total 
+occlusions (CTOs)) of the coronary and peripheral arteries; 
+                                                
+11 FDA supports the principles of the “3Rs,” to reduce, refine, and replace animal use in testing when feasible. 
+We encourage sponsors to consult with us if they wish to use a non-animal testing method they believe is 
+suitable, adequate, validated, and feasible. We will consider if such an alternative method could be assessed for 
+equivalency to an animal test method.
+
+---
+
+<!-- Page 17 -->
+Contains Nonbinding Recommendations 
+14
+· cases where engineering and/or animal testing raise issues that warrant further 
+evaluation with clinical evidence; 
+· indications for use dissimilar from legally marketed devices of the same type; or 
+· new technology, i.e., technology different from that used in legally marketed devices 
+of the same type yet does not raise different questions of safety or effectiveness. 
+We will consider alternatives to clinical testing (such as animal testing) when the proposed 
+alternatives are supported by an adequate scientific rationale. If a clinical study is needed to 
+demonstrate substantial equivalence, i.e., conducted prior to obtaining 510(k) clearance of 
+the device, the study must be conducted under the Investigational Device Exemptions (IDE) 
+regulation, 21 CFR Part 812. Generally, FDA believes guidewires addressed by this guidance 
+document are significant risk devices subject to all requirements of 21 CFR 812. See the 
+FDA Guidance titled, “Significant Risk and Nonsignificant Risk Medical Device Studies.”12
+In addition to the requirements of Section 21 CFR 812, sponsors of such trials must comply 
+with the regulations governing institutional review boards (21 CFR Part 56) and informed 
+consent (21 CFR Part 50). 
+In some cases, “real-world data” (RWD) may be used to support expansion of the indication 
+for a device for which 510(k) clearance has already been obtained. Whether the collection of 
+RWD for a legally-marketed device requires an IDE depends on the particular facts of the 
+situation. Specifically, if a cleared device is being used in the normal course of medical 
+practice, an IDE would likely not be required. For additional information regarding this topic, 
+please refer to the FDA Guidance entitled “Use of Real-World Evidence to Support 
+Regulatory Decision-Making for Medical Devices.”13
+B. Labeling 
+The premarket notification must include proposed labeling in sufficient detail to satisfy the 
+requirements of 21 CFR 807.87(e). Proposed labels and labeling, sufficient to describe 
+guidewires, their intended use, and the directions for use must be provided. 
+As a prescription device, guidewires are exempt from having adequate directions for lay use 
+required under section 502(f)(1) of the Federal Food, Drug and Cosmetic Act (FD&C Act) 
+(21 U.S.C. § 352(f)(1))) as long as the conditions in 21 CFR 801.109 are met. For instance, 
+labeling must include adequate information for the intended user of the device, including 
+indications, effects, routes, methods, frequency and duration of administration and any 
+relevant hazards, contraindications, side effects and precautions (21 CFR 801.109(d)). 
+For additional recommendations regarding coated devices, please see FDA’s guidance 
+“Labeling Considerations for Intravascular Catheters, Wires, and Delivery Systems with 
+                                                
+12 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/significant-risk-and-
+nonsignificant-risk-medical-device-studies 
+13 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/use-real-world-evidence-
+support-regulatory-decision-making-medical-devices
+
+---
+
+<!-- Page 18 -->
+Contains Nonbinding Recommendations 
+15
+Lubricious Coating”14, which includes specific labeling recommendations for this subset of 
+guidewires. The instructions for use or package insert should include the following 
+information. The list below is not intended to be exhaustive of all the labeling requirements 
+under part 801. 
+1. Device Description 
+We recommend that you include a description of the guidewire identifying the important 
+components and the functions of each such as the length, outer diameter along the length 
+including transition zones, tip shape, coating location(s) and characteristics (e.g., 
+hydrophobic or hydrophilic), if applicable. 
+2. Indications for Use Statement 
+The indications for use statement described in the labeling should be supported by 
+information in the 510(k) submission and clearly identify any specific regions of the 
+vasculature. 
+3. Contraindications 
+We recommend including contraindications to describe situations in which there are known 
+hazards or risks, as applicable, in the instructions for use. If you believe there are no known 
+contraindications, please state “none known”. 
+4. Warnings/Precautions 
+We recommend including the following warnings/precautions, as applicable, in the 
+instructions for use. Sample language is provided in italics. If you believe any of these 
+warnings/precautions are not applicable to your device, please provide a justification for each 
+omission. 
+· A warning statement regarding the indications for which the device has been 
+confirmed to perform as intended, such as the following: “The safety and 
+effectiveness of the device has not been established or is unknown in vascular regions 
+other than those specifically indicated.” For example, if a specific guidewire is only 
+indicated for peripheral vascular use based on the information provided in the 510(k) 
+submission, the device should include a warning that the safety and effectiveness of 
+the device has not been established in the coronary vasculature or neurovasculature. 
+· A warning against reuse or re-sterilization of the device, which could affect medical 
+device materials and components, such as “This device is intended for single use. Do 
+not reuse or re-sterilize.” 
+· A warning statement about the unestablished safety and effectiveness of a 
+reprocessed device intended for multiple uses. For example, “The device is intended 
+for single-patient use and should not be reprocessed or used after reprocessing.” 
+                                                
+14 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/intravascular-catheters-wires-
+and-delivery-systems-lubricious-coatings-labeling-considerations
+
+---
+
+<!-- Page 19 -->
+Contains Nonbinding Recommendations 
+16
+· Guidewires should be used under fluoroscopic guidance. We recommend that you 
+consider the inclusion of important precautions and/or warnings to ensure the safety 
+of device use associated with fluoroscopy for both patients and clinical operators. 
+5. Potential Adverse Events 
+We recommend that you include information on the potential adverse events that may result 
+from use of your device. FDA acknowledges that the specific adverse events may depend on 
+the specific design and intended use of the device. Such adverse event may include, but are 
+not limited to: 
+· Access site complications 
+· Allergic reaction (to contrast, device or other) 
+· Aneurysm 
+· Angina or unstable angina 
+· Bleeding/hemorrhage 
+· Cardiac tamponade/pericardial effusion 
+· Death 
+· Embolization (plaque, thrombus, device, tissue, or other) 
+· Infection 
+· Myocardial infarction or ischemia 
+· Stroke/cerebral vascular accident (CVA)/transient ischemic attack (TIA) 
+· Thrombosis/Thrombus 
+· Vasospasm 
+· Vessel trauma, perforation, dissection 
+· X-Ray radiation exposure complications (e.g., alopecia, burns ranging in severity 
+from skin reddening to ulcers, cataracts, and delayed neoplasia) 
+6. Directions for Use 
+We recommend that you provide specific directions for use of the guidewire. If your device 
+contains a coating(s), then the directions for use should clearly explain how to properly 
+prepare the device prior to clinical use. 
+V. 
+Modifications 
+In accordance with 21 CFR 807.81(a)(3), a device modification “that could significantly 
+affect the safety or effectiveness of the device” or represents “a major change or modification 
+in the intended use of the device” requires a new 510(k). The changes or modifications listed 
+below would likely require submission of a new 510(k). Note that this list is not exhaustive 
+but provides examples of modifications that will generally require submission of a new 
+510(k). For additional details, please see FDA guidance “Deciding When to Submit a 510(k) 
+for a Change to an Existing Device.”15
+Such changes or modifications include: 
+                                                
+15 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/deciding-when-submit-510k-
+change-existing-device
+
+---
+
+<!-- Page 20 -->
+Contains Nonbinding Recommendations 
+17
+· Guidewire Material – A change in core guidewire material could significantly affect 
+both safety and effectiveness of the device by altering the biocompatibility risk 
+profile or device performance. 
+· Coating(s) Location, Material, Amount, or Processing – A change in the coating 
+composition, location, and the processes used to apply the coating could significantly 
+affect both safety and effectiveness of the device by altering the biocompatibility risk 
+profile and/or device performance. 
+· Dimensions Not Previously Cleared – A change to a critical dimensional 
+characteristic of the guidewire that is beyond the previously cleared range for your 
+device could significantly affect both safety and effectiveness by significantly 
+affecting the performance risk profile. 
+· Tip Configuration – A change to the tip shape, material, or adhesion process could 
+significantly affect both the safety and effectiveness of the device because of a 
+change to the known risk of tip detachment and the ability of the guidewire to 
+properly navigate the intended vasculature. 
+· Additional Vasculature – A change in the target vasculature could significantly affect 
+both safety and effectiveness due to new or altered risks associated with different 
+clinical conditions than those previously addressed in prior submissions. 
+FDA believes that the following changes or modifications would likely not require 
+submission of a new 510(k): 
+· minor changes to the device packaging (e.g., hard copy of the Instructions for Use is 
+replaced by an electronically available copy); 
+· an extension of shelf life implemented according to the test protocols previously 
+reviewed under the cleared submission; or 
+· a dimensional change within the existing specification tolerance or a critical 
+dimensional characteristic that is within the range of the previously cleared device.

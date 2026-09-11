@@ -666,7 +666,7 @@ Flex studies consist of adding
 1, 2, 3, 4, 5, and 6 drops and 
 observing when incorrect 
 results are obtained. Studies 
-show that &lt;2 drops or &gt;5 
+show that &lt;2 drops or >5 
 drops give erroneous results. 
 Studies to validate that fail- 
 safe mechanisms, or failure 

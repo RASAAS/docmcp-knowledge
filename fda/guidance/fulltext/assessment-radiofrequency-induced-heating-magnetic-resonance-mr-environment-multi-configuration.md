@@ -1,0 +1,500 @@
+# Assessment of Radiofrequency-Induced Heating in the Magnetic Resonance (MR) Environment for Multi-Configuration Passive Medical Devices: Guidance for Industry and Food and Drug Administration Staff
+
+**Source:** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/assessment-radiofrequency-induced-heating-magnetic-resonance-mr-environment-multi-configuration](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/assessment-radiofrequency-induced-heating-magnetic-resonance-mr-environment-multi-configuration)
+
+**Published:** 2016-03-22
+
+---
+
+<!-- Page 1 -->
+Contains Nonbinding Recommendations 
+Assessment of Radiofrequency-
+Induced Heating in the Magnetic 
+Resonance (MR) Environment for 
+Multi-Configuration Passive Medical 
+Devices 
+ 
+Guidance for Industry and  
+Food and Drug Administration Staff  
+Document issued on March 22, 2016. 
+The draft of this document was issued on June 29, 2015. 
+For questions about this document, contact the Division of Biomedical Physics, Office of 
+Science and Engineering Laboratories at (301) 796-2580 or Wolfgang Kainz, Ph.D., at (301) 
+661-7595 or by email wolfgang.kainz@fda.hhs.gov. 
+U.S. Department of Health and Human Services
+Food and Drug Administration
+Center for Devices and Radiological Health
+Office of Science and Engineering Laboratories (OSEL)
+Division of Biomedical Physics
+
+---
+
+<!-- Page 2 -->
+Contains Nonbinding Recommendations 
+Preface 
+Public Comment 
+You may submit electronic comments and suggestions at any time for Agency consideration to 
+http://www.regulations.gov. Submit written comments to the Division of Dockets Management, 
+ 
+Food and Drug Administration, 5630 Fishers Lane, Room 1061, (HFA-305), Rockville, MD 
+20852. Identify all comments with the docket number FDA-2015-D-2104. Comments may not be 
+acted upon by the Agency until the document is next revised or updated. 
+Additional Copies 
+Additional copies are available from the Internet. You may also send an e-mail request to 
+CDRH-Guidance@fda.hhs.gov to receive a copy of the guidance. Please use the document 
+number 1500001 to identify the guidance you are requesting.
+
+---
+
+<!-- Page 3 -->
+Contains Nonbinding Recommendations 
+Table of Contents 
+I. 
+Introduction ................................................................
+ 
+...........................................................................................1
+II. 
+Scope.....................................................................................................................................................................2
+III. 
+Overview of Heating Assessment .....................................................................................................................2
+IV. 
+Recommended Methods to Reduce the Number of Configurations and Combinations for Testing .................6
+V. 
+Hypothetical Example ...........................................................................................................................................9
+
+---
+
+<!-- Page 4 -->
+Contains Nonbinding Recommendations 
+ 
+1
+Assessment of Radiofrequency-
+Induced Heating in the Magnetic 
+Resonance (MR) Environment for 
+Multi-Configuration Passive Medical 
+Devices 
+ 
+Guidance for Industry and  
+Food and Drug Administration Staff  
+This guidance represents the current thinking of the Food and Drug Administration (FDA or 
+Agency) on this topic.  It does not establish any rights for any person and is not binding on 
+FDA or the public.  You can use an alternative approach if it satisfies the requirements of the 
+applicable statutes and regulations.  To discuss an alternative approach, contact the FDA staff 
+or Office responsible for this guidance as listed on the title page.  
+I. 
+Introduction 
+This guidance provides an assessment paradigm for radiofrequency (RF)-induced heating for 
+multi-configuration passive medical devices in the magnetic resonance (MR) environment, 
+including multi-component and single-component device types with various dimensions and 
+shape.  Multi-component passive devices, such as orthopedic fixation devices, may result in a 
+very large number of possible device configurations and combinations of individual components.  
+Single-component devices, such as cardiovascular stents, are also frequently available in 
+multiple sizes or configurations.  For these multi-configuration passive devices, it can be 
+challenging to leverage RF-induced heating testing from one device configuration or 
+combination to other device configurations or combinations because the geometry or 
+configuration of the device can affect heating in an unknown manner.  As a result, the total 
+number of possible configurations or combinations that need to be assessed for RF-induced 
+heating of some passive devices can be very large.   
+This document provides an approach to reduce the number of possible device configurations or 
+combinations to a manageable number for the testing of RF-induced heating in the MR 
+environment.  Additionally, this document provides guidance on how to assess RF-induced 
+device heating for multi-configuration passive medical devices.  The information provided in this 
+guidance is intended to be used to support MR Conditional labeling claims in conjunction with
+
+---
+
+<!-- Page 5 -->
+Contains Nonbinding Recommendations 
+ 
+2
+the information provided in FDA’s current guidance document for Establishing Safety and 
+Compatibility of Passive Implants in the Magnetic Resonance (MR) Environment 
+(http://www.fda.gov/downloads/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocu
+ments/UCM107708.pdf).   
+For the current edition of the FDA-recognized standard(s) referenced in this document, see the 
+FDA Recognized Consensus Standards Database Web site at 
+http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfStandards/search.cfm. 
+FDA’s guidance documents, including this guidance, do not establish legally enforceable 
+responsibilities. Instead, guidances describe the Agency’s current thinking on a topic and should 
+be viewed only as recommendations, unless specific regulatory or statutory requirements are 
+cited. The use of the word should in Agency guidance means that something is suggested or 
+recommended, but not required.   
+II. Scope 
+This document provides guidance on a recommended method to select worst-case device 
+configurations or combinations to be tested for RF-induced heating in the MR environment.  
+Additionally, this document provides guidance on how to assess RF-induced device heating for 
+multi-configuration passive medical devices. 
+This guidance applies to multi-configuration passive devices consisting of multiple components, 
+as well as single-component devices, which can be used in multiple configurations.  A passive 
+device is one that functions without the supply of electrical power. These devices may be 
+completely implanted (e.g., cardiovascular stents, spinal fixation devices), partially implanted in 
+the patient’s body (e.g., external fracture fixation devices), or used entirely externally (e.g., 
+electroencephalographs).  This document is applicable to all electrically conductive multi-
+configuration passive medical devices intended to be used in the MR environment that include 
+MR Conditional labeling, regardless of their size, or number and configuration of components.   
+Active devices, or devices that require use of internal or external electrical power, are not within 
+the scope of this guidance.  In addition, this guidance document does not establish a heating 
+acceptance criterion in general or for any specific medical device.  Such a criterion will depend 
+on the intended use and the benefit-risk profile of the device.  Rather, this guidance document 
+recommends a basis to assess the temperature rise induced by interaction between the device and 
+the electromagnetic fields in the MR environment. 
+III. Overview of Heating Assessment 
+The methodology below describes the recommended method to reduce a large number of 
+possible device configurations or combinations to a manageable number (i.e., test set) for the 
+assessment of RF-induced heating in the MR environment, and the recommended method to 
+conduct an assessment of RF-induced heating for the devices within the identified test set.
+
+---
+
+<!-- Page 6 -->
+Contains Nonbinding Recommendations 
+ 
+3
+1. 
+Define and describe the MR Conditional scan conditions for the proposed 
+labeling, such as magnetic field strength, whole-body average Specific 
+Absorption Rate (SAR) levels, B1+rms levels, coil types, landmark position (i.e., 
+position of the device relative to the MR bore), and scan area.  
+2. 
+Provide a scientific rationale based on benefit-risk considerations, using 
+information from previous human trials, animal data, and/or published literature 
+to establish the heating acceptance criterion (i.e., the maximum in vitro or in vivo 
+heating allowed for your medical device).  This criterion should be defined as the 
+peak rise in temperature over a 15-minute period.   
+3. 
+Define and describe all possible device configurations and combinations (CCall) 
+using tables, lists, and/or drawings.  The description should include device size, 
+geometry, surface properties, and design variations, in addition to all materials 
+used, their electrical properties (i.e., the electrical conductivity and the 
+permittivity at the frequency of interest) and thermal properties (i.e., thermal 
+conductivity and specific heat capacity).  While it is not necessary to describe 
+each individual configuration/combination, the limits in dimensions, geometry, 
+and the different types of configurations/combinations should be clearly 
+identified, preferably in a tabular or matrix format. 
+4. 
+Use a scientific rationale or a scientific method, such as those described in section 
+IV below, to reduce CCall to a subset of potential worst-case device configurations 
+and combinations (CCtest) for heating assessments.  The scientific method used to 
+reduce CCall to CCtest should include a detailed description of the algorithm and 
+parameters used.  The scientific rationale should note any clinically relevant 
+information and known worst-case factors for RF-induced heating.  Additionally, 
+the rationale should include a consideration of the risk and the potential harm to 
+the patient. 
+Factors influencing RF-induced heating include, but are not limited to, the 
+following: 
+a. Device Dimensions and Resonant Effects: The half-wavelength of the 
+electromagnetic field inside a patient for 1.5T systems is about 25 cm, and for 
+3.0T systems about 12 cm.  For implants with dimensions on the order of a 
+half-wavelength to a wavelength (i.e., 25 to 50 cm or 12 to 24 cm), resonant 
+effects between the device and electromagnetic field can lead to significantly 
+high heating (i.e., more than twice the background heating).1  RF-induced 
+heating can change significantly if the device dimensions change by about 
+                                                          
+1 Kainz, W., (2007). MR Heating Tests of MR Critical Implants, Journal of Magnetic Resonance 
+Imaging, vol. 26, pp. 450–451.
+
+---
+
+<!-- Page 7 -->
+Contains Nonbinding Recommendations 
+ 
+4
+one-tenth of a wavelength.2  Therefore, device heating for dimension 
+increments of about one-tenth of the wavelength should be assessed (i.e., 
+approximately 5 cm for 1.5T and 2.4 cm for 3.0T). 
+b. Device Geometry: The RF-induced heating can depend on the: 1) shape of the 
+device, 2) cross-section of the device, and 3) position of the device relative to 
+the RF transmit coil.  
+c. Device Components (e.g., screws): All possible component configurations 
+should be considered.  Because a worst-case screw configuration cannot be 
+determined by length alone, all screw lengths and screws in all possible 
+openings/holes of the device, and all possible directions should be considered 
+(e.g., in increments of 15 degrees with a scientific justification for the subset 
+of screw directions examined). 
+d. Device Configuration: Sub-components in electrical contact with each other 
+can significantly change the RF-induced heating.  Therefore, devices should 
+typically be studied as the entire construct rather than individual sub-
+components. However, if sub-components are not electrically connected and 
+you can demonstrate that the heating of the individual sub-components is 
+independent of each other, then the individual sub-components can be 
+assessed independently. 
+e. Surface Properties: Devices with smoother surfaces typically heat less, while 
+devices with sharp edges tend to heat more. 
+f. Device Construction: Devices constructed of a continuous conductive material 
+(e.g., bare metal stents) may exhibit different heating properties than devices 
+constructed of multiple individual components connected through non-
+conductive materials (e.g., endovascular stent grafts). 
+5. 
+The minimum number of configurations/combinations within CCtest depends on 
+the number of CCall, the proposed scan conditions, the device size and geometry, 
+and the electrical and thermal properties of the device materials used.  
+6. 
+Once an appropriately justified CCtest has been defined, you should perform an 
+assessment to identify which device configuration/combination within CCtest is 
+worst-case for each MR environment (i.e., scan condition) in which your device is 
+intended to be used. This assessment can be done by: 
+a. in vitro temperature measurements according to ASTM F2182,3  
+                                                          
+2 Ting, S. et al., (2015). Retrospective Analysis of Data in RF Heating Tests of Small Passive 
+Medical Implants. Abstract No. 1856, International Society for Magnetic Resonance in Medicine 
+(ISMRM) 23rd Annual Meeting and Exhibition, Toronto, CA.
+
+---
+
+<!-- Page 8 -->
+Contains Nonbinding Recommendations 
+ 
+5
+b. computer modeling to determine temperature,  
+c. computer modeling to determine local SAR, or 
+d. a combination of a, b, and/or c. 
+Note that all results using computer modeling should be validated against 
+measurements using standardized methods, e.g., ASTM F2182, and include a 
+detailed uncertainty analysis.4   
+Using one of the above methods, the location of the maximum heating on the 
+device surface should be determined for all devices in CCtest.  The heating at this 
+location for a specified local SAR should then be determined experimentally or 
+computationally.  The local SAR should be determined before performing the 
+heating tests. 
+With the exception of simple elongated structures (e.g., stents), where the location 
+of the maximum heating is usually at the end of the structure, the location of the 
+maximum heating on the device surface should be estimated with an experimental 
+or computational method.  Also, if the geometry of your device is highly irregular 
+and has geometrical features oriented in more than one direction, testing of all 
+devices in CCtest in all three exposure orientations (i.e., alignment of the three 
+major axes of the device relative to the tangential induced electric field) should be 
+performed.  If the device is located outside of the patient, you should determine 
+the heating for a specified electric field in air.  If the device is partially outside 
+and partially inside of the patient, you should determine the heating of the device 
+in a clinically relevant position partially outside and partially inside of a test 
+phantom for both a specified local SAR, and for a specified electric field in air. 
+For all testing, you should report the computationally or experimentally assessed 
+heating for the worst-case configuration as the peak rise in temperature for a 15-
+minute RF exposure; you should also report the local SAR (e.g., 10 W/kg) and/or 
+the local electric field (e.g., 100 V/m) at which the device was tested.  You should 
+also report the location on the device surface where the worst-case heating was 
+assessed.  Shorter evaluation times (e.g., 2 minutes) are possible to assess the 
+relative heating between individual configurations/combinations and to assess the 
+location of the maximum heating on the device surface of an individual 
+configuration/combination.  However, the heating for the worst-case 
+configuration/combination should be reported as the peak rise in temperature for a 
+15-minute RF exposure. 
+The scope of ASTM F2182 is limited to devices entirely implanted inside the 
+body.  However, for medical devices with other implantation conditions (e.g., 
+                                                                                                                                                                                           
+3 ASTM F2182, Standard Test Method for Measurement of Radio Frequency Induced Heating 
+On or Near Passive Implants During Magnetic Resonance Imaging. 
+4 Taylor, B. and Kuyatt, C., (1994). Guidelines for Evaluating and Expressing the Uncertainty of 
+NIST Measurement Results. Technical Note 1297, Gaithersburg, MD, NIST.
+
+---
+
+<!-- Page 9 -->
+Contains Nonbinding Recommendations 
+ 
+6
+external fixation devices, catheters), RF-induced heating can be evaluated 
+experimentally and/or computationally using a method similar to that described in 
+ASTM F2182, with modifications for the specific medical device and the context 
+of use.  ASTM F2182 should not be used to assess the worst-case MR-induced 
+RF-induced heating for medical devices used in multi-channel transmit RF coils.   
+7. 
+Provide an estimate of the accuracy of the results (i.e., an uncertainty analysis for 
+all measured or computed results).5  In addition, validation data for all 
+computational models should be provided. 
+8. 
+If the observed worst-case in vitro heating exceeds your specified heating 
+acceptance criterion, i.e., the peak rise in temperature over a 15-minute period, 
+you may estimate the expected worst-case in vivo heating to demonstrate the 
+safety of your device in the MR environment.  Because in vitro testing outlined in 
+ASTM F2182 does not consider the actual in situ electric fields, in vitro heating 
+results may be substantially higher than the actual in vivo heating.  The estimated 
+in vivo assessment should consider the patient population for which your device is 
+indicated and should include the worst-case scan conditions.  Alternately, you 
+may elect to define additional constraints for your MR Conditional labeling.   
+For complex multi-component devices we recommend that you submit a pre-submission to 
+obtain feedback on your plan for identifying and assessing CCtest and your plan for conducting in 
+vitro RF-induced heating measurements before conducting the assessments.  Please refer to 
+FDA’s Guidance Requests for Feedback on Medical Device Submissions: The Pre-Submission 
+Program and Meetings with Food and Drug Administration Staff 
+(http://www.fda.gov/downloads/medicaldevices/deviceregulationandguidance/guidancedocumen
+ts/ucm311176.pdf). 
+ 
+IV. Recommended Methods to Reduce the Number of 
+Configurations and Combinations for Testing 
+The number of possible device configurations can become very large for RF-induced heating 
+testing if multiple parameters vary between configurations or if each parameter has a range of 
+options.  For example, if a device is defined by three parameters (e.g., length, width, and 
+thickness), and each of these parameters has 100 different options there will be 1003 = 1,000,000 
+possible combinations for CCall.  Because many combinations or configurations within CCall will 
+be very similar to neighboring combinations or configurations, statistical or stochastic sampling 
+of the same parameter set and eliminating certain parameters based on a scientific rationale can 
+significantly reduce the number of devices to be tested to a smaller subset (CCtest), while still 
+providing an accurate representation of CCall. 
+To reduce CCall to CCtest, first perform a sensitivity analysis to assess the effect of each 
+parameter on RF-induced heating.  One simple type of sensitivity analysis is the minimum-
+                                                          
+5 See footnote 4 above.
+
+---
+
+<!-- Page 10 -->
+Contains Nonbinding Recommendations 
+ 
+7
+maximum differentiability.  Using this method, the sensitivity of RF-induced heating to each 
+parameter can be assessed by testing its maximum and minimum value, while other parameters 
+are set at their mean values.  Once the critical parameters are determined, a selection method 
+such as, but not limited to, those outlined below, or a combination thereof, should be used to 
+identify device configurations and combinations for heating assessments:  
+1. 
+Constant Value Justification:  If many parameters are varied between design 
+configurations, it is possible that some parameters have little or no influence on 
+RF-induced heating (i.e., less than 5%) and may justifiably be set at a constant 
+value to reduce CCall.  The maximum-minimum approach outlined above may be 
+an appropriate sensitivity analysis to support this justification.  
+2. 
+Sampling Methods: CCall can often be reduced substantially, while providing a 
+comprehensive response evaluation, by using a non-deterministic, pseudo-random 
+sampling technique such as a Monte-Carlo analysis (e.g., Haldar and Mahadevan, 
+20006).  A Monte-Carlo analysis generally consists of the following components:  
+a. Creating a deterministic model which can reliably reach a solution for the 
+range of random distribution of device parameters in the problem. 
+b. Defining the appropriate probabilistic characteristics of each random 
+parameter.  These could take the form of distribution parameters (e.g., the 
+mean and standard deviation of a normal distribution), or as a set of 
+cumulative distribution percentiles (without a named distribution).  For the 
+purpose of identifying worst-case  configurations/combinations for RF-
+induced heating tests, a uniform distribution may provide an effective 
+parameter sweep.  For a design parameter with a specific set of nominal 
+values (e.g., length = 10, 15 or 20 mm) a discrete random variable, with equal 
+likelihood for each nominal value, may be most effective. 
+c. Generating samples of these random parameters for testing (to identify 
+devices for CCtest).  Several sampling methods are commonly used: a) random 
+sampling, b) Latin hypercube sampling, and c) importance sampling (Helton 
+et al., 20067).   
+In random sampling, the input parameters are sampled according to their 
+probability density functions, with each sample independent of the others.  
+This approach offers the advantage of conceptual simplicity and the ability to 
+easily add new samples if sufficient accuracy has not been achieved (see item 
+‘f’ below).   
+                                                          
+6 Haldar, A. and Mahadevan, S., (2000). Probability, Reliability and Statistical Methods in 
+Engineering Design. New York: John Wiley & Sons, Inc., ch. 9. 
+7 Helton, J. et al., (2006). Survey of Sampling-Based Methods for Uncertainty and Sensitivity 
+Analysis. Reliability, Engineering and System Safety, vol. 91, pp. 1175-1209.
+
+---
+
+<!-- Page 11 -->
+Contains Nonbinding Recommendations 
+ 
+8
+The Latin hypercube method may increase sampling efficiency relative to 
+random sampling.  In this method, the number of samples (N) are selected at 
+the outset.  Each parameter is stratified into N, i.e., the number of samples, 
+equally likely intervals, each of which is randomly sampled only once (Helton 
+et al., 20068).  The relative efficiency of this method arises from the 
+stratification that prevents overlapping samples and guarantees more complete 
+parameter space filling than random sampling.   
+Importance sampling concentrates sampling near parameter values that are 
+most likely to induce higher levels of RF-induced heating.  This method can 
+be used to focus tests towards those combinations of parameters to which RF-
+induced heating is most sensitive.  The disadvantage of this approach is that it 
+requires distortion of the sampling distributions, which should be justified and 
+corrected for, when evaluating the system results.   
+In generating samples, it is first necessary to estimate the number of samples 
+needed to achieve the required accuracy.  An estimate can be calculated from  
+N = 4 / ε2 
+where N is the estimated number of samples and ε is the uncertainty of the 
+mean RF-induced heating; e.g., &lt;10% (Haldar and Mahadevan, 20009). 
+d. Solving the deterministic model for all samples. 
+e. Combining the individual model solutions into probabilistic system 
+information.  In the present application, the maximum expected level of RF-
+induced heating is quantified.  In practice, the maximum heating identified 
+from all tests will depend on the number of tests, such that a higher maximum 
+will be likely when more samples are taken.  Therefore we recommend 
+reporting a consistent percentile of RF-induced heating, such as the 95th or 
+99th percentile; other percentile values are possible.  You should choose the 
+percentile base on the risk associated with RF-induced heating of your 
+particular device. 
+f. Evaluating the accuracy of the simulation study and the necessity of additional 
+analyses.  As noted in item ‘e’ above, the observed RF-induced heating results 
+will depend upon the number of samples, with uncertainty remaining about 
+intermediate, un-sampled, cases.  Therefore, we recommend that you evaluate 
+the degree of convergence of the RF-induced heating results to ensure the 
+conclusions are not dependent upon the specific sample used.   
+                                                          
+8 Ibid. 
+9 See footnote 6 above.
+
+---
+
+<!-- Page 12 -->
+Contains Nonbinding Recommendations 
+ 
+9
+In random sampling, each sample point is independent of the others and 
+additional random points can be added until a stopping criterion is converged 
+upon.  A recommended stopping criterion could be when the standard 
+deviation of the mean RF-induced heating (taken from bootstrapped datasets 
+of e.g., 20 to 50 sub-samples converges within a pre-defined uncertainty of the 
+mean RF-induced heating (e.g., &lt;10%).  Note that this criterion can be applied 
+to evaluate a completed Latin hypercube analysis; however, a post-hoc 
+addition of sample points will disturb the original scheme and result in a non-
+Latin hypercube sample and hence slower convergence to the stopping 
+criterion than might be anticipated.   
+An alternative approach, often used with Latin hypercube sampling, is to run 
+multiple, equally-sized, sample sets (e.g., two or three sets of 100 samples).  
+Once the analyses are completed, the results of the samples can be compared 
+(e.g., T-test) to confirm that the mean RF-induced heating from the different 
+samples is statistically equivalent.  Once this is confirmed, the data from the 
+different samples can be combined into one dataset (Helton et al., 200610). 
+V. Hypothetical Example 
+A fracture fixation system contains 10 plates of the same thickness, but different lengths (50mm 
+to 250mm in 5mm increments) and two widths (8mm and 12mm).  The plate can be used with 5 
+to 20 screws.  There is only one compatible screw diameter, but a continuously variable screw 
+length (15-25mm), and the screws can be angled in any direction up to 30 degrees.   
+First, a sensitivity analysis of parameters reveals that RF-induced heating does not change 
+significantly (less than 5%) with the plate width, with the direction angle of the screws, or with 
+various contouring (plate bending to fit the fracture) of the plate.  Therefore the plate width is 
+kept constant at 12mm (which showed slightly higher heating than the 8mm width), the screw 
+direction angle is kept constant at 0 degrees, and the plate is kept unbent.   
+Next, the number of samples is estimated to give approximately 10% uncertainty in the mean 
+RF-induced heating.  Using the equation in Section IV, 2.c. above (i.e., N = 4/ε2 = 4/0.12), 400 
+random models (CCtest) of the fracture fixation system are created for different combinations of 
+plate length, screw number, and screw length.  Plate length is defined as a discrete random 
+variable with equally likely possible values at intervals of 5mm from 50-250mm.  Screw number 
+is defined as a discrete random variable with equally likely possible values at intervals of 1 from 
+5-20 screws.  Screw length is defined as a uniform distribution with minimum and maximum 
+values of 15mm and 25mm, respectively.  A random sampling method is used for each parameter 
+to generate the 400 models to be solved.  
+                                                          
+10 See footnote 7 above.
+
+---
+
+<!-- Page 13 -->
+Contains Nonbinding Recommendations 
+ 
+10 
+After all 400 models are solved, the stopping criterion is evaluated to confirm that the calculated 
+mean RF-induced heating does not vary by more than 10% regardless of the addition of more 
+samples.  This is done in five steps:  
+1. 
+The mean RF-induced heating of the 400 results is calculated (e.g., 3.5°C);  
+2. 
+the 400 heating results are randomly resampled into sub-samples (e.g., 25 sub-
+samples), each containing 16 results;  
+3. 
+the mean of each sub-sample is calculated as 25 different values;  
+4. 
+the standard deviation of the 25 sub-sample means is calculated (e.g., 0.31°C); 
+and  
+5. 
+the standard deviation from the mean of all 25 sub-samples is less than 10% of the 
+mean RF-induced heating of the 400 results (i.e., 0.31°C &lt; 10% of 3.5°C), 
+indicating that the stopping rule has been satisfied.   
+The device configurations/combinations that result in the highest heating are identified from all 
+400 models tested.  The highest device heating is calculated as the 99th percentile of the 
+distribution of RF-induced heating observed in all 400 tested models.

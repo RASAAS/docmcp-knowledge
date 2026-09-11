@@ -253,7 +253,7 @@ For all facet screw sizes, extract the relevant dimensions below (i.e., screw ma
 diameter, screw minor diameter, screw pitch, and axial thread length). These dimensions 
 will be used to calculate theoretical pullout strengths for the worst-case screws in the 
 device system using the following equation: 
-𝐹𝐹𝐹𝐹 = 𝑆𝑆 ∗ 𝐴𝐴 = {𝑆𝑆 ∗ 𝐿𝐿 ∗ 𝜋𝜋 ∗ 𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷 ∗ 𝑇𝑇𝑆𝑆𝐹𝐹} 
+𝐹𝐹𝐹𝐹 = 𝑆𝑆 ∗ 𝐴𝐴 = &#123;𝑆𝑆 ∗ 𝐿𝐿 ∗ 𝜋𝜋 ∗ 𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷 ∗ 𝑇𝑇𝑆𝑆𝐹𝐹&#125; 
 Fs = predicted shear failure force (N) 
 S = material ultimate shear stress (MPa) 
 A = thread shear area (mm2) 

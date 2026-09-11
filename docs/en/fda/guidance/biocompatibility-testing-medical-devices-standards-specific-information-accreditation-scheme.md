@@ -256,7 +256,7 @@ cytotoxicity
 and skin sensitization 
 • ISO 10993-11: Biological evaluation of medical devices – Part 11: Tests for systemic 
 toxicity 
-• USP &lt;151&gt;: Pyrogen Test 
+• USP &lt;151>: Pyrogen Test 
 • ISO 10993-12: Biological evaluation of medical devices – Part 12: Sample 
 preparation and reference materials 
 The eligible test methods included in the ASCA Pilot for biocompatibility testing of medical 
@@ -1340,7 +1340,7 @@ protocol and data between the complete test report and the supplemental
 documentation: (e.g., Appendix A of this premarket 
 submission)________________________________________ 
  
-&lt;Repeat for each standard in DOC&gt; 
+&lt;Repeat for each standard in DOC> 
  
 Limitations on Validity of DOC
 

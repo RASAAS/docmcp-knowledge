@@ -667,7 +667,7 @@ account.
 If the testing is not done on every unit, it may be necessary to have more
 stringent criteria than if every unit were tested.
 3.3 QUALITATIVE TESTING
-{
+&#123;
 Qualitative 
 testing should be conducted on all of the units produced and should
 include checks or testing of the following:

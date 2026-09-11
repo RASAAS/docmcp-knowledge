@@ -1706,7 +1706,7 @@ information indicate that all patient-contacting components have been adequately
 assessed for pyrogenicity. Otherwise, we recommend that you assess material-mediated 
 pyrogenicity using traditional biocompatibility extraction methods (e.g., 50 °C for 72 
 hours; 70 °C for 24 hours; or 121 °C for 1 hour per ISO 10993-12:2021), using a 
-pyrogenicity test such as the one outlined in USP &lt;151&gt; Pyrogen Test (USP Rabbit Test) 
+pyrogenicity test such as the one outlined in USP &lt;151> Pyrogen Test (USP Rabbit Test) 
 or an equivalent validated method. For devices that contain heat labile or heat sensitive 
 materials (e.g., drugs, biomolecules, tissue-derived components), which may have the 
 potential to undergo deformation or material configuration/structural change at high 
@@ -2225,7 +2225,7 @@ material certification to indicate that natural rubber latex or BPA is not used 
 device component. If this statement is made without any qualification, it should apply to the 
 entire device and all of its packaging. A sponsor can also elect to make a statement that certain 
 components of the medical device or device container are not made with the material of concern. 
-For example, “The &lt;vial stopper&gt; is not made with natural rubber latex.”69
+For example, “The &lt;vial stopper> is not made with natural rubber latex.”69
 If a sponsor elects to include a “-free” statement, in their labeling, at the time of submission, 
 FDA recommends that the sponsor provide data to support that the device does not include the 
 material at a level that could result in an adverse event (e.g., allergic reaction or toxicity).

@@ -380,6 +380,7 @@ def main():
 
     PRIORITY_CATS = {
         "digital_health_cyber", "quality_manufacturing", "ivd", "labeling_udi",
+        "postmarket",
     }
 
     def _year(entry):
