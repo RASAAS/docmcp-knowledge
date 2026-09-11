@@ -260,7 +260,7 @@
       "doc_number": "食药监办械函[2013]3号",
       "category": "ivd",
       "slug": "cmde-2013-3-2b89",
-      "source_url": "https://www.nmpa.gov.cn/directory/web/nmpa/images/MjAxN8TqtdoxODe6xc2ouOa4vbz+LmRvY3g=.docx",
+      "source_url": "https://www.situcro.com/news/m3613.html",
       "classification_codes": [],
       "classification_l1_codes": [],
       "classification_confidence": "none"
@@ -406,7 +406,7 @@
         "en": ""
       },
       "status": "active",
-      "source_url": "",
+      "source_url": "https://www.situcro.com/news/5991.html",
       "doc_number": "国家食品药品监督管理总局2015年第112号通告",
       "category": "blood_transfusion",
       "slug": "nmpa-gp-离心式血液成分分离设备技术审查指导原则-675cf6",
@@ -465,7 +465,7 @@
         "en": ""
       },
       "status": "active",
-      "source_url": "",
+      "source_url": "https://www.situcro.com/news/5405.html",
       "doc_number": "国家食品药品监督管理总局2016年第70号通告",
       "category": "dental",
       "slug": "nmpa-gp-牙科基托聚合物材料注册技术审查指导原则-1fda27",
@@ -480,7 +480,7 @@
         "en": ""
       },
       "status": "active",
-      "source_url": "",
+      "source_url": "https://www.situcro.com/news/6098.html",
       "doc_number": "国家食品药品监督管理总局2016年第131号通告",
       "category": "ivd",
       "slug": "nmpa-gp-人红细胞反定型试剂注册技术审查指导原则-02c755",
@@ -554,7 +554,7 @@
         "en": ""
       },
       "status": "active",
-      "source_url": "",
+      "source_url": "https://www.situcro.com/news/6120.html",
       "doc_number": "国家食品药品监督管理总局2017年第25号通告",
       "category": "ivd",
       "slug": "nmpa-gp-结核分枝杆菌复合群耐药基因突变检测试剂注册技术审查指导原则-464dca",
@@ -736,7 +736,7 @@
         "en": ""
       },
       "status": "active",
-      "source_url": "",
+      "source_url": "https://www.situcro.com/news/6161.html",
       "doc_number": "国家食品药品监督管理总局2017年第124号通告",
       "category": "dental",
       "slug": "nmpa-gp-牙科种植机注册技术审查指导原则-8cbaf1",
@@ -975,7 +975,7 @@
         "en": ""
       },
       "status": "active",
-      "source_url": "",
+      "source_url": "https://www.situcro.com/news/6221.html",
       "doc_number": "国家食品药品监督管理总局2018年第4号通告",
       "category": "radiation_therapy",
       "slug": "nmpa-gp-质子碳离子治疗系统临床评价技术审查指导原则-e0d1c6",
@@ -1005,7 +1005,7 @@
         "en": ""
       },
       "status": "active",
-      "source_url": "",
+      "source_url": "https://www.situcro.com/news/6222.html",
       "doc_number": "国家食品药品监督管理总局2018年第3号通告",
       "category": "blood_transfusion",
       "slug": "nmpa-gp-全血及血液成分贮存袋注册技术审查指导原则-fb0fe7",
@@ -1035,7 +1035,7 @@
         "en": ""
       },
       "status": "active",
-      "source_url": "",
+      "source_url": "https://www.situcro.com/news/6224.html",
       "doc_number": "国家食品药品监督管理总局2018年第3号通告",
       "category": "blood_transfusion",
       "slug": "nmpa-gp-血液浓缩器注册技术审查指导原则-457694",
@@ -1055,7 +1055,8 @@
       "slug": "nmpa-gp-接受医疗器械境外临床试验数据技术指导原则-219af7",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "source_url": "https://www.situcro.com/news/5548.html"
     },
     {
       "id": "nmpa-gp-载脂蛋白a1测定试剂注册技术审查指导原则-11b3b1",
@@ -1438,7 +1439,7 @@
         "en": ""
       },
       "status": "active",
-      "source_url": "",
+      "source_url": "https://www.situcro.com/news/6285.html",
       "doc_number": "国家药品监督管理局2018年第21号通告",
       "category": "implant_cardio",
       "slug": "nmpa-gp-冠状动脉药物洗脱支架临床前研究指导原则-0709d7",
@@ -1832,7 +1833,7 @@
         "en": ""
       },
       "status": "active",
-      "source_url": "",
+      "source_url": "https://www.situcro.com/news/5489.html",
       "doc_number": "国家药品监督管理局2018年第126号通告",
       "category": "surgical",
       "slug": "nmpa-gp-一次性使用活检针注册技术审查指导原则-79f8df",
@@ -2042,7 +2043,7 @@
         "en": ""
       },
       "status": "active",
-      "source_url": "",
+      "source_url": "https://www.situcro.com/news/m3626.html",
       "doc_number": "国家药品监督管理局2019年第10号通告",
       "category": "imaging",
       "slug": "nmpa-gp-双能x射线骨密度仪注册技术审查指导原则-1c0841",
@@ -2062,7 +2063,8 @@
       "slug": "nmpa-gp-麻醉机注册技术审查指导原则-f0b0c3",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "none"
+      "classification_confidence": "none",
+      "source_url": "https://www.situcro.com/news/m3627.html"
     },
     {
       "id": "nmpa-gp-口腔颌面锥形束计算机体层摄影设备临床评价指导原则-ed1708",
@@ -2101,7 +2103,7 @@
         "en": ""
       },
       "status": "active",
-      "source_url": "",
+      "source_url": "https://www.situcro.com/news/m3475.html",
       "doc_number": "国家药品监督管理局2019年第16号通告",
       "category": "dental",
       "slug": "nmpa-gp-牙科车针注册技术审查指导原则-112293",
@@ -2131,7 +2133,7 @@
         "en": ""
       },
       "status": "active",
-      "source_url": "",
+      "source_url": "https://www.situcro.com/news/m3497.html",
       "doc_number": "国家药品监督管理局2019年第18号通告",
       "category": "surgical",
       "slug": "nmpa-gp-腹腔内置疝修补补片动物实验技术审查指导原则-75521d",
@@ -2176,7 +2178,7 @@
         "en": ""
       },
       "status": "active",
-      "source_url": "",
+      "source_url": "https://www.situcro.com/news/5526.html",
       "doc_number": "国家药品监督管理局2019年第25号通告",
       "category": "dental",
       "slug": "nmpa-gp-合成树脂牙注册技术审查指导原则-f6614c",
@@ -2236,7 +2238,7 @@
         "en": ""
       },
       "status": "active",
-      "source_url": "",
+      "source_url": "https://www.situcro.com/news/7501.html",
       "doc_number": "国家药品监督管理局2019年第37号通告",
       "category": "dental",
       "slug": "nmpa-gp-口腔数字印模仪注册技术审查指导原则-1a3762",
@@ -2625,7 +2627,7 @@
         "en": ""
       },
       "status": "active",
-      "source_url": "",
+      "source_url": "https://www.situcro.com/news/6704.html",
       "doc_number": "国家药品监督管理局2019年第80号通告",
       "category": "ivd",
       "slug": "nmpa-gp-氨基酸-肉碱及琥珀酰丙酮检测试剂注册技术审查指导原则-d3ad0b",
@@ -2675,7 +2677,8 @@
       "slug": "nmpa-gp-医疗器械附条件批准上市指导原则-ef010b",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "source_url": "https://www.situcro.com/news/6804.html"
     },
     {
       "id": "nmpa-gp-促卵泡生成素检测试剂注册技术审查指导原则-05f58a",
@@ -2833,7 +2836,7 @@
         "en": ""
       },
       "status": "active",
-      "source_url": "https://www.nmpa.gov.cn/directory/web/nmpa/images/zai45rXaM7rFILi9vP4zLmRvYw==.doc",
+      "source_url": "https://www.situcro.com/news/7519.html",
       "doc_number": "国家药品监督管理局2020年第16号通告",
       "category": "ivd",
       "slug": "cmde-2020-16-1f1c",
@@ -3285,7 +3288,7 @@
         "en": ""
       },
       "status": "active",
-      "source_url": "",
+      "source_url": "https://www.situcro.com/news/5945.html",
       "doc_number": "国家药品监督管理局2020年第47号通告",
       "category": "ophthalmic",
       "slug": "nmpa-gp-角膜塑形用硬性透气接触镜说明书编写指导原则-2020年修订版-5d0ae8",
@@ -3330,7 +3333,7 @@
         "en": ""
       },
       "status": "active",
-      "source_url": "",
+      "source_url": "https://www.situcro.com/news/m3546.html",
       "doc_number": "国家药品监督管理局2020年第48号通告",
       "category": "implant_ortho",
       "slug": "nmpa-gp-定制式个性化骨植入物等效性模型注册技术审查指导原则-20b4fd",
@@ -3374,7 +3377,7 @@
         "en": ""
       },
       "status": "active",
-      "source_url": "",
+      "source_url": "https://www.situcro.com/news/5502.html",
       "doc_number": "国家药品监督管理局2020年第48号通告",
       "category": "implant_cardio",
       "slug": "nmpa-gp-生物可吸收冠状动脉药物洗脱支架动物实验研究指导原则-213a48",
@@ -3481,7 +3484,8 @@
       "slug": "nmpa-gp-个性化匹配骨植入物及工具医工交互质控审查指导原则-f97374",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "source_url": "https://www.situcro.com/news/m3637.html"
     },
     {
       "id": "nmpa-gp-真实世界数据用于医疗器械临床评价技术指导原则-试行-ba7df1",
@@ -4867,7 +4871,8 @@
       "slug": "nmpa-gp-人工智能医疗器械注册审查指导原则-eec284",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "source_url": "https://www.cmde.org.cn/flfg/zdyz/zdyzwbk/20220309091014461.html"
     },
     {
       "id": "nmpa-gp-无源植入性医疗器械稳定性研究指导原则-2022年修订版-f5e7e0",
@@ -10361,7 +10366,7 @@
         "en": ""
       },
       "status": "active",
-      "source_url": "",
+      "source_url": "https://www.cmde.org.cn/directory/web/cmde/images/1765781433006069475.docx",
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2025年第29号通告",
       "category": "ivd",
       "slug": "nmpa-gp-hla-b27基因检测试剂注册审查指导原则-979bde",
