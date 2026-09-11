@@ -1,20 +1,3 @@
----
-id: nmpa-gp-医用x射线诊断设备-第三类-注册技术审查指导原则-2016年修订版-fb1b1e
-title:
-  zh: 医用X射线诊断设备（第三类）注册技术审查指导原则（2016年修订版）
-  en: ''
-regulation: nmpa
-category: nmpa/guidance
-status: active
-document_number: 国家食品药品监督管理总局2016年第21号通告
-source_format: markdown
-translation: original
-effective_date: '2016-01-01'
-contributor: RASAAS
-promoted_from: fulltext
----
-# 医用X射线诊断设备（第三类）注册技术审查指导原则（2016年修订版）
-
 <!-- source: cmde-skill-batch 医用X射线诊断设备（第三类）注册技术审查指导原则（2016年修订版）_2016年第21号.docx -->
 <!-- source_url: https://www.cmde.org.cn/flfg/zdyz/zdyzwbk/20170405160700390.html -->
 <!-- title: 医用X射线诊断设备（第三类）注册技术审查指导原则（2016年修订版） -->

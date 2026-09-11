@@ -529,6 +529,8 @@ def _normalize_title(title: str) -> str:
     t = re.sub(r'\s+', '', title)
     t = t.replace('/', '').replace('（', '(').replace('）', ')')
     t = re.sub(r'\(\d{4}年.*?\)', '', t)
+    # Official CMDE docs interchangeably use 实验/试验 (e.g. 回收实验 vs 回收试验)
+    t = t.replace('实验', '试验')
     return t
 
 
@@ -544,6 +546,7 @@ def _extract_core_subject(title: str) -> str:
     s = re.sub(r'\u7b2c\d+\u53f7.*$', '', s)
     s = re.sub(r'\u7b2c\d+\u90e8\u5206.*$', '', s)
     s = re.sub(r'[（()）\[\]【】/／：:\s]', '', s)
+    s = s.replace('实验', '试验')
     return s.strip()
 
 

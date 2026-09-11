@@ -1,20 +1,3 @@
----
-id: nmpa-gp-一次性使用内镜用活体取样钳注册技术审查指导原则-2e5670
-title:
-  zh: 一次性使用内镜用活体取样钳注册技术审查指导原则
-  en: ''
-regulation: nmpa
-category: nmpa/guidance
-status: active
-document_number: 国家药品监督管理局2019年第79号通告
-source_format: markdown
-translation: original
-effective_date: '2019-01-01'
-contributor: RASAAS
-promoted_from: fulltext
----
-# 一次性使用内镜用活体取样钳注册技术审查指导原则
-
 <!-- source: cmde-skill-batch 一次性使用内镜用活体取样钳注册技术审查指导原则_2019年第79号.docx -->
 <!-- source_url: — -->
 <!-- title: 一次性使用内镜用活体取样钳注册技术审查指导原则 -->

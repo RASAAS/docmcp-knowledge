@@ -10,7 +10,7 @@ export default {
       "link": "/zh/nmpa/guidance"
     },
     {
-      "text": "其他 (441)",
+      "text": "其他 (448)",
       "collapsed": true,
       "items": [
         {
@@ -36,6 +36,10 @@ export default {
         {
           "text": "3D打印髋臼杯产品注册技术审查指导原则",
           "link": "/zh/nmpa/guidance/cmde-2020-36"
+        },
+        {
+          "text": "ABO、RhD血型抗原检测卡（柱凝集法）注册技术审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-abo-rhd血型抗原检测卡-柱凝集法-注册技术审查指导原则-0f6574"
         },
         {
           "text": "ALDH2基因多态性检测试剂注册审查指导原则",
@@ -98,12 +102,20 @@ export default {
           "link": "/zh/nmpa/guidance/cmde-2025-20-74f3"
         },
         {
+          "text": "一次性使用乳腺定位丝注册技术审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-一次性使用乳腺定位丝注册技术审查指导原则-5cff22"
+        },
+        {
           "text": "一次性使用产包产品注册审查指导原则",
           "link": "/zh/nmpa/guidance/cmde-2022-41-9f73"
         },
         {
           "text": "一次性使用人体动脉血样采集器注册审查指导原则",
           "link": "/zh/nmpa/guidance/cmde-2023-17-02af"
+        },
+        {
+          "text": "一次性使用内镜用活体取样钳注册技术审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-一次性使用内镜用活体取样钳注册技术审查指导原则-a96d97"
         },
         {
           "text": "一次性使用切口保护套产品注册审查指导原则",
@@ -374,6 +386,10 @@ export default {
           "link": "/zh/nmpa/guidance/cmde-2024-21-7a00"
         },
         {
+          "text": "人表皮生长因子受体2基因扩增检测试剂盒（荧光原位杂交法）注册技术审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-人表皮生长因子受体2基因扩增检测试剂盒-荧光原位杂交法-注册-933913"
+        },
+        {
           "text": "以医疗器械作用为主的药械组合产品中药物定性、定量及体外释放研究注册审查指导原则",
           "link": "/zh/nmpa/guidance/nmpa-guidance-72c946590fbb"
         },
@@ -444,6 +460,10 @@ export default {
         {
           "text": "全自动化学发光免疫分析仪注册审查指导原则（2025年修订版）",
           "link": "/zh/nmpa/guidance/clia-2025"
+        },
+        {
+          "text": "全自动血型分析仪注册技术审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-全自动血型分析仪注册技术审查指导原则-70dbff"
         },
         {
           "text": "全血及血液成分贮存袋注册技术审查指导原则",
@@ -824,6 +844,10 @@ export default {
         {
           "text": "尿液分析仪注册审查指导原则（2024年修订版）",
           "link": "/zh/nmpa/guidance/cmde-2024-19-6"
+        },
+        {
+          "text": "尿液分析试纸条注册技术审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-尿液分析试纸条注册技术审查指导原则-854bc5"
         },
         {
           "text": "尿液有形成分分析仪注册审查指导原则（2024年修订版）",
@@ -1594,6 +1618,10 @@ export default {
           "link": "/zh/nmpa/guidance/memory-alloy-rib-plate-2025"
         },
         {
+          "text": "质子/碳离子治疗系统技术审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-质子-碳离子治疗系统技术审查指导原则-948475"
+        },
+        {
           "text": "质控品注册审查指导原则——质控品赋值研究",
           "link": "/zh/nmpa/guidance/nmpa-gp-质控品注册审查指导原则-质控品赋值研究-6d4306"
         },
@@ -2284,7 +2312,7 @@ export default {
       ]
     },
     {
-      "text": "注册申报 (21)",
+      "text": "注册申报 (22)",
       "collapsed": true,
       "items": [
         {
@@ -2342,6 +2370,10 @@ export default {
         {
           "text": "医疗器械（首次）注册申报资料要求及说明",
           "link": "/zh/nmpa/guidance/initial-submission-documentation-requirements"
+        },
+        {
+          "text": "含药医疗器械产品注册申报资料撰写指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-含药医疗器械产品注册申报资料撰写指导原则-b382b9"
         },
         {
           "text": "国家药监局关于进口医疗器械产品在中国境内企业生产有关事项的公告",
@@ -2766,7 +2798,7 @@ export default {
       ]
     },
     {
-      "text": "影像与诊断器械 (49)",
+      "text": "影像与诊断器械 (53)",
       "collapsed": true,
       "items": [
         {
@@ -2806,6 +2838,14 @@ export default {
           "link": "/zh/nmpa/guidance/cmde-2024-1-d877"
         },
         {
+          "text": "体外诊断试剂分析性能评估（准确度-回收试验）技术审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-体外诊断试剂分析性能评估-准确度-回收试验-技术审查指导原则-5385f4"
+        },
+        {
+          "text": "体外诊断试剂分析性能评估（准确度-方法学比对）技术审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-体外诊断试剂分析性能评估-准确度-方法学比对-技术审查指导原-1447d0"
+        },
+        {
           "text": "体外诊断试剂参考区间确定注册审查指导原则",
           "link": "/zh/nmpa/guidance/cmde-2022-36-ff5a"
         },
@@ -2824,6 +2864,10 @@ export default {
         {
           "text": "内窥镜手术用剪注册审查指导原则",
           "link": "/zh/nmpa/guidance/scissors-for-endoscopic-surgery"
+        },
+        {
+          "text": "医用X射线诊断设备（第三类）注册技术审查指导原则（2016年修订版）",
+          "link": "/zh/nmpa/guidance/nmpa-gp-医用x射线诊断设备-第三类-注册技术审查指导原则-2016年-2e2f7b"
         },
         {
           "text": "医用内窥镜冷光源注册审查指导原则（2024年修订版）",
@@ -2872,6 +2916,10 @@ export default {
         {
           "text": "影像型超声诊断设备（第三类）注册审查指导原则（2023年修订版）",
           "link": "/zh/nmpa/guidance/nmpa-gp-影像型超声诊断设备-第三类-注册审查指导原则-2023年修订-54bcb5"
+        },
+        {
+          "text": "影像型超声诊断设备（第二类）注册技术审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-影像型超声诊断设备-第二类-注册技术审查指导原则-e26581"
         },
         {
           "text": "摄影X射线机注册审查指导原则（2024年修订版）",
