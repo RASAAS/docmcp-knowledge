@@ -10,7 +10,7 @@ export default {
       "link": "/zh/nmpa/guidance"
     },
     {
-      "text": "其他 (474)",
+      "text": "其他 (475)",
       "collapsed": true,
       "items": [
         {
@@ -1044,6 +1044,10 @@ export default {
         {
           "text": "抗菌药物说明书撰写技术指导原则",
           "link": "/zh/nmpa/guidance/nmpa-guidance-ba4c7a2ace14"
+        },
+        {
+          "text": "护脐带注册审查指导原则（2026年修订版）",
+          "link": "/zh/nmpa/guidance/cmde-2026-24-umbilical-cord-protector"
         },
         {
           "text": "持续葡萄糖监测系统注册审查指导原则（2023年修订版）",
@@ -2202,7 +2206,7 @@ export default {
       ]
     },
     {
-      "text": "心血管器械 (27)",
+      "text": "心血管器械 (28)",
       "collapsed": true,
       "items": [
         {
@@ -2312,6 +2316,10 @@ export default {
         {
           "text": "颅内取栓支架注册审查指导原则",
           "link": "/zh/nmpa/guidance/nmpa-gp-颅内取栓支架注册审查指导原则-1786ff"
+        },
+        {
+          "text": "鼻饲营养导管注册审查指导原则（2026年修订版）",
+          "link": "/zh/nmpa/guidance/cmde-2026-24-nasogastric-feeding-tube"
         }
       ]
     },
