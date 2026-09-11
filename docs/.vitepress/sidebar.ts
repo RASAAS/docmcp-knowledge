@@ -10,7 +10,7 @@ export default {
       "link": "/zh/nmpa/guidance"
     },
     {
-      "text": "其他 (429)",
+      "text": "其他 (428)",
       "collapsed": true,
       "items": [
         {
@@ -1388,10 +1388,6 @@ export default {
         {
           "text": "胃管产品注册审查指导原则（2024年修订版）",
           "link": "/zh/nmpa/guidance/nmpa-gp-胃管产品注册审查指导原则-2024年修订版-b63d6f"
-        },
-        {
-          "text": "胎儿染色体非整倍体（T21、T18、T13）检测试剂盒（高通量测序法）注册技术审查指导原则",
-          "link": "/zh/nmpa/guidance/nmpa-gp-胎儿染色体非整倍体-t21-t18-t13-检测试剂盒-高通-8f35fd"
         },
         {
           "text": "胰岛素泵注册审查指导原则（2023年第26号）",
@@ -2988,7 +2984,7 @@ export default {
       ]
     },
     {
-      "text": "灭菌与生物相容性 (9)",
+      "text": "灭菌与生物相容性 (8)",
       "collapsed": true,
       "items": [
         {
@@ -3018,10 +3014,6 @@ export default {
         {
           "text": "小型压力蒸汽灭菌器注册审查指导原则（2025年修订版）",
           "link": "/zh/nmpa/guidance/nmpa-gp-小型压力蒸汽灭菌器注册审查指导原则-2025年修订版-b1204e"
-        },
-        {
-          "text": "应用纳米材料的医疗器械安全性和有效性评价指导原则第三部分生物相容性毒理学评价",
-          "link": "/zh/nmpa/guidance/cmde-2024-23-1880"
         },
         {
           "text": "过氧化氢灭菌器注册审查指导原则",
