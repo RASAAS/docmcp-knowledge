@@ -879,7 +879,7 @@ recommendations):
 submission, and I have checked that there are no differences regarding 
 protocol and data between the testing conducted and the supplemental 
 documentation: (e.g., Appendix A of this premarket submission)__________
-&lt;Repeat for each standard in DOC&gt; 
+&lt;Repeat for each standard in DOC> 
 Limitations on Validity of DOC 
 Description of any limitation on the validity of the DOC (e.g., how long the declaration is 
 valid, what was tested, or concessions made about the testing outcomes). For testing from an 

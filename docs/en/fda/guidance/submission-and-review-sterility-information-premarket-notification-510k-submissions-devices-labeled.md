@@ -211,7 +211,7 @@ Contains Nonbinding Recommendations
 contacting the branch responsible for the review of your device to discuss questions about 
 devices that contain materials of human or animal origin. To assist sponsors in addressing 
 the concerns or issues related to viral contamination, we recommend review of United 
-States Pharmacopeia (USP) &lt;1050&gt;, Viral Safety Evaluation of Biotechnology products 
+States Pharmacopeia (USP) &lt;1050>, Viral Safety Evaluation of Biotechnology products 
 derived from cell lines of human or animal origin, and related documents. 
  
 4. Processes that incorporate the use of liquid chemical sterilants.6  
@@ -459,7 +459,7 @@ units (EU)/Device for general medical devices (e.g., blood contacting and/or
 implanted) and 2.15 EU/Device for devices that contact cerebrospinal fluid.  
 See: 
 • 
-USP &lt;161&gt;, Medical Devices-Bacterial Endotoxin and Pyrogen Tests 
+USP &lt;161>, Medical Devices-Bacterial Endotoxin and Pyrogen Tests 
 • 
 ANSI/AAMI ST72, Bacterial endotoxins – Test methods, routine 
 monitoring, and alternatives to batch testing 
@@ -480,7 +480,7 @@ we recommend that both bacterial endotoxin and material mediated
 pyrogenicity testing be conducted.15 For device-specific questions, please 
  
 15 We recommend that you assess material mediated pyrogenicity using a pyrogenicity test such as the one outlined 
-in USP &lt;151&gt;, Pyrogen Test (USP Rabbit Test), or an equivalent validated method.
+in USP &lt;151>, Pyrogen Test (USP Rabbit Test), or an equivalent validated method.
 
 ---
 

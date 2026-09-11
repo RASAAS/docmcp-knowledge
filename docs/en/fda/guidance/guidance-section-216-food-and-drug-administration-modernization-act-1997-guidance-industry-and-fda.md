@@ -18,6 +18,318 @@ published: 2000-08-08
 PDF: [https://www.fda.gov/media/71743/download](https://www.fda.gov/media/71743/download)
 :::
 
-::: warning
-Full text has not been extracted into this knowledge base. Use the official FDA source link above. This catalog page is metadata only.
-:::
+<!-- fulltext-start -->
+
+---
+
+## Official Full Text
+
+<!-- Page 1 -->
+Guidance for Industry and for FDA Reviewers
+Guidance on Section 216 of the
+Food and Drug Administration
+Modernization Act of 1997
+Document issued on August 9, 2000
+U.S. Department of Health and Human Services
+Food and Drug Administration
+Center for Devices and Radiological Health
+Office of Device Evaluation
+
+---
+
+<!-- Page 2 -->
+Preface
+Public Comment
+Until November 7, 2000, comments and suggestions regarding this document
+should be submitted to Docket No. 00D-1274, Dockets Management Branch,
+Division of Management Systems and Policy, Office of Human Resources and
+Management Services, Food and Drug Administration, 5630 Fishers Lane, Room
+1061, (HFA-305), Rockville, MD  20852.  Such comments will be considered
+when determining whether to amend the current guidance.
+After November 7, 2000 comments and suggestions may be submitted at any time
+for Agency consideration to: Thinh Nguyen, Center for Devices and
+Radiological Health, HFZ-402, 9200 Corporate Blvd., Rockville, MD 20850.
+Comments may not be acted upon by the Agency until the document is next
+revised or updated.  For questions regarding the use or interpretation of this
+guidance contact Thinh Nguyen at 240-276-4010 or at thinh.nguyen@fda.hhs.gov.
+Additional Copies:
+World Wide Web/CDRH home page at http://www.fda.gov/cdrh or CDRH Facts
+on Demand at 1-800-899-0381 or 301-827-0111, specify number 1135 when
+prompted for the document shelf number.
+
+---
+
+<!-- Page 3 -->
+Guidance1 on Section 216 of the Food and
+Drug Modernization Act of 1997
+I. 
+INTRODUCTION
+This document provides guidance for industry and for FDA reviewers on the Food and Drug
+Administration's (FDA) interpretation of section 216 of the Food and Drug Administration
+Modernization Act of 1997 (FDAMA).  The document describes how the Center for Devices and
+Radiological Health (CDRH) will apply the new provision and explains why FDA, through
+CDRH, has adopted this approach.
+II. 
+BACKGROUND
+Section 216 of FDAMA establishes the six-year rule, under which:
+(4)(A)Any information contained in an application for premarket approval filed with the
+Secretary pursuant to section 515(c) (including information from clinical or preclinical
+tests or studies that demonstrate the safety and effectiveness of a device, but excluding
+descriptions of methods of manufacture and product composition and other trade secrets)
+shall be available, 6 years after the application has been approved by the Secretary, for
+use by the Secretary in-
+(i) 
+approving another device;
+(ii) 
+determining whether a product development protocol has been completed
+under section 515 for another device;
+(iii) 
+establishing a performance standard or special control under this Act; or
+(iv) 
+classifying or reclassifying another device under section 513 or subsection
+(l)(2).
+(B) The publicly available detailed summaries of information respecting the safety and
+effectiveness of devices required by paragraph (1)(A) shall be available for use by the
+Secretary as the evidentiary basis for the agency actions described in subparagraph (A).
+This provision replaced the previous section 520(h)(4) of the Food, Drug, and Cosmetic Act
+(FDCA), which was added by the Safe Medical Devices Act of 1990 (SMDA) and established
+the four-of-a-kind rule for use of data in PMA applications.  Under the four-of-a-kind rule, the
+agency could use data contained in any filed PMA application 1 year after FDA had approved
+                    
+1 This guidance document represents the Agency's current thinking on the
+interpretation of section 216 of the Food and Drug Administration
+Modernization Act of 1997.  It does not create or confer any rights for or on
+any person and does not operate to bind FDA or the public.  An alternative
+approach may be used if such approach satisfies the requirements of the
+applicable statute, regulations, or both.
+
+---
+
+<!-- Page 4 -->
+4
+the fourth device of a kind.2  The four-of-a-kind provision also contained detailed rules for its
+application to data in applications approved before SMDA's effective date.   The SMDA
+provision replaced section 520(h)(3), which was enacted with the Medical Device Amendments
+of 1976 (MDA).3  Under the MDA rule, the agency could not use data in one PMA to establish
+the safety or effectiveness of any device other than the one for which the data was submitted.
+                    
+2 
+The use of data provision enacted with the SMDA provided:
+Any information contained in an application for premarket approval
+filed with the Secretary pursuant to section 515(c), including clinical
+and preclinical tests or studies, but excluding descriptions of methods
+of manufacture and product composition, that demonstrates the safety
+and effectiveness of a devices shall be available 1 year after the
+original application for the fourth devices of a kind has been approved
+by the Secretary, for use by the Secretary in approving devices, or
+determining whether a product development protocol has been completed,
+under section 515, establishing a performance standard under section
+514, and reclassifying devices under subsections (e) and (f) of section
+513, and subsection (l)(2).  ...
+(B) The Secretary, contemporaneously with the approval of the
+fourth device of a kind, shall publish an order in the Federal Register
+identifying the four devices of a kind that have been approved under
+section 515 and the date on which the data contained in the premarket
+approval applications will be available to the Secretary for use, as
+described in subparagraph (A).
+(C) The publicly available detailed summaries of information
+respecting the safety and effectiveness of devices required by
+paragraph (1)(A) shall be available for use by the Secretary as the
+evidentiary basis for the regulatory action described in subparagraph
+(A).
+(D)(i) This paragraph shall become effective--
+(I) on November 15, 1990, for devices for which four
+devices of a kind were approved on or before December 31, 1987, and
+(II) on November 15, 1991, for devices not described in
+subclause (I).
+(ii) For each device described in clause (i)(I) the Secretary
+shall publish a notice in the Federal Register setting forth the date,
+which shall not be earlier than 1 year after the date of the notice,
+that the data identified in subparagraph (A) shall be available for the
+use of the Secretary.
+(E)(i) Except as provided in clause (ii), the approval date of a
+device, for purposes of this paragraph, shall be the date of the letter
+of the Secretary to the applicant approving a device under section 515
+and permitting the applicant to commercially distribute the device.
+(ii) For each devices described in subparagraph(D)(i)(II) for
+which the original application for a fourth device of a kind is
+approved by the Secretary before November 1, 1991, the approval date of
+the fourth device of a kind shall be deemed to be November 15, 1991.
+(F) Any challenge to an order under subparagraph (B) shall be
+made not later than 30 days after the date of the Federal Register
+notice referred to in such subparagraph.
+3 
+Section 520(h)(3), enacted with the MDA, provided:
+
+---
+
+<!-- Page 5 -->
+5
+Congress provided little explanation of the 6-year data use provision in FDAMA's
+legislative history.  The legislative histories of the MDA and SMDA, however, each contain
+discussions relevant to the use of data provisions in those laws.  See S. Rept. No. 513, 101st
+Cong., 2d Sess. 24 - 26 (1990); H. Rept. 808, 101st Cong, 2nd Sess. 27 - 28 (1990); H. Rept. No.
+853, 94th Cong., 1st Sess. 50 (1976).  These discussions provide a general insight: namely, that
+although legal rules facilitating market entry can harm fledgling industries, in strong, established
+markets, such rules will generally benefit both industry and consumers.  In 1990, the device
+industry was stronger than it had been in 1976.  By 1997, the industry was even stronger, see H.
+Rept. 307, 105th Cong., 1st Sess. 14 (1997) and better able to prosper without the aid of anti-
+competitive rules.
+The Center never applied the SMDA four-of-a-kind provision; however, CDRH used its
+new FDAMA authority in its proposed reclassification of extracorporeal shock wave lithotriptors
+for fragmenting kidney and ureteral calculi from class III to class II.  See 64 Federal Register
+5987 (February 8, 1999).  Although CDRH believes it had sufficient data to reclassify
+lithotriptors without using its authority under the new section 520(h)(4), this authority, by freeing
+data in five PMAs approved in 1991, provides additional support for the reclassification.
+Before and since CDRH published its proposed reclassification, the Center received
+several letters from associations of medical device manufacturers advocating particular
+constructions of section 216.  One association believed the provision allowed CDRH to rely on
+data in PMAs approved any time 6 or more years have passed; one association, which submitted
+a citizen's petition (see Docket Number 99P2725) outlining its views, believed the provision
+allowed CDRH to use only data in PMAs approved after FDAMA's effective date.
+III. 
+STATUTORY INTERPRETATION
+CDRH is issuing this guidance in response to the conflicting interpretations of section
+216 regulated industry has advanced.  CDRH has concluded that it will apply section 216 to free
+data only in PMAs approved after November 28, 1990, the date of enactment of the SMDA.  The
+agency does not intend to use data in PMAs approved before that date, other than data that would
+be available to the Center without the authority granted by section 216.
+Several factors have led CDRH to develop this approach to application of section 216.
+A critical factor to consider was the language of the provision itself.   CDRH believes the
+interpretation it has adopted is consistent with Congressional intent as expressed in section 216,
+but recognizes some parts of the industry believe the language supports a different interpretation,
+                                                               
+Any information respecting a devices which is made available pursuant
+to paragraph (1) or (2) of this subsection (A) [detailed summaries of
+safety and effectiveness made publicly available] may not be used to
+establish to safety or effectiveness of another device for purposes of
+this Act by any person other than the person who submitted the
+information so made available, and (B) shall be made available subject
+to subsection (c) of this section.
+
+---
+
+<!-- Page 6 -->
+6
+and some believe the provision is ambiguous.   CDRH discussed at length some of the legal
+issues raised by its interpretation of section 216 in its response to the citizen's petition on the
+subject, on file with FDA’s Dockets Management Branch (see Docket Number 99P2725).
+Another important consideration was fairness.  Sponsors of applications approved before
+SMDA's enactment expected, at the time their applications were approved, that CDRH would not
+use the data they submitted to evaluate a competitor's product.  This expectation was created by
+express language in the MDA of 1976.  The four-of-a-kind rule unsettled these expectations by
+freeing data contained in PMAs approved before SMDA and created a new set of rules
+concerning data in PMAs approved after the new law.  Beginning November 28, 1990,
+manufacturers of all as-yet unapproved medical devices had advance notice that the agency
+could use data contained in their approved PMA applications following approval of the third
+additional PMA for a device of the same kind, in accordance with the rules of the four-of-a-kind
+provision.  Manufacturers may have anticipated that the SMDA rule would result in an extended
+or permanent period of protection for data contained in the applications of devices unlikely to be
+the subject of four or more applications.  The SMDA, however, created no settled expectation of
+data protection on which manufacturers of such devices could reasonably rely, as medical
+advances, new technologies, and a variety of other market forces will affect the number of PMAs
+the agency receives for a device.
+A third consideration was the interest of CDRH and sponsors of new submissions in
+access to data from earlier PMAs, an interest that seems particularly important to understanding
+the successive use-of-data provisions in the FDCA.  Given the restrictive, contingent, and
+complex data use provision section 216 replaced, the purpose of the new, relatively permissive
+rule appears to be to facilitate informed decision-making in several areas of device regulation by
+allowing greater access to PMA data.  Enhanced reliance on data previously reviewed by FDA is
+also consistent with other provisions of FDAMA that encourage the “least burdensome”
+pathways to product development and approval.  This consideration, then, not only reflects a
+reasonable policy goal of the Center, but also accords with the trend in the FDCA device
+provisions of increasingly relaxed data-use.
+A final important consideration was the need for rules that can be understood by industry
+and applied by the agency.   This administrative consideration combined with legal, fairness, and
+access concerns, was included in the agency's approach to applying section 216.  This approach
+is to use section 216 to free data in PMAs approved after November 28, 1990, in reviewing
+premarket submissions, classification and reclassification, and establishing special controls and
+performance standards for devices, but to forego use of data in PMAs approved before that date.
+PROCEDURES FOR USE OF DATA FROM APPROVED PMAS
+A.  For what purpose can CDRH use data made available by the revised section
+520(h)(4)?
+Information available for use under the revised section 520(h)(4) may be used to:
+1.  approve another applicant’s device;
+
+---
+
+<!-- Page 7 -->
+7
+2.  determine whether another applicant’s product development protocol has been
+completed;
+3.  establish a performance standard or special control; or
+4.  classify or reclassify another device under section 513 (Classification of Devices
+Intended for Human Use) and section 520(l)(2) (Transitional Provisions for Devices
+Considered as New Drugs or Antibiotic Drugs).
+Information that can be used in support of the above includes data from clinical and preclinical
+tests or studies that were used to demonstrate the safety and effectiveness of a device. In
+addition, FDA may now use the publicly available detailed Summary of Safety and Effectiveness
+Data (SSED) required by section 520(h)(1)(A) as the evidentiary basis for any of the above four
+actions.  FDA may not use information about the method of manufacture, product composition or
+other trade secrets found in the PMA, unless the information is otherwise publicly available to
+the agency.  A trade secret as defined in 21 CFR 20.61 may consist of any commercially
+valuable plan, formula, process, or device that is used for the making, preparing, compounding,
+or processing of trade commodities and that can be said to be the end product of either
+innovation or substantial effort.  There must be a direct relationship between the trade secret and
+the productive process.
+Applicants who want CDRH to use data made available by FDAMA section 216 need to provide
+a detailed justification of how the information in the earlier SSED applies to the applicant's
+device and submission.  In addition, the applicant needs to describe how the devices are similar
+enough to allow for the data from the earlier device to apply to the new device.
+CDRH believes that, while the six-year provision may be used for 1 and 2 above, it will be most
+useful for CDRH and the industry when it is used as a tool to initiate reclassification, to develop
+a standard or special control, to develop new guidance documents for a specific device or to
+modify current guidance documents to reduce the burden of a specific device’s data
+requirements.  Reduction in the level of preclinical and/or clinical data requirements in a
+marketing application will depend on the similarities in device characteristics and performance
+and the intended use.
+B. How will six-year data be identified?
+Applicants who want to use the six year provision to support their marketing application (PMA
+or PDP) may identify pertinent sections of the SSED from an already approved device that they
+want CDRH to consider when reviewing their application for a new device.   In addition, an
+interested person may identify information described in an SSED or other publicly available
+document (see “Supplements to Approved Applications for Class III Medical Devices: Use of
+Published Literature, Use of Previously Submitted Materials, and Priority Review” available at
+http://www.fda.gov/cdrh/modact/evidence.html) that they believe to be useful as a tool to
+implement reclassification procedures, develop a standard or special control, to develop new
+
+---
+
+<!-- Page 8 -->
+8
+guidance documents for a specific device or modify current guidance documents to reduce data
+requirements.  An interested person should discuss the use of this provision with the appropriate
+ODE review division.
+FDA may also, upon its own initiative, identify information available under the six-year rule for
+any of the uses authorized by the statute.  FDA did identify such information in its proposal to
+downclassify lithotriptors.  However, an applicant or petitioner should not rely upon FDA to
+identify useful data in any particular situation.
+C.  Does the six-year data provision mean FDA can disclose data to my competitors?
+No.  The six-year provision enables FDA to use certain data in taking the regulatory actions
+specified in 520(h)(4) of the act.  It does not authorize FDA to disclose data that would otherwise
+be protected from disclosure.  Sponsors of competitor products may be able to benefit by relying
+on your data 6 years after FDA approves your PMA; however, they will not gain any new rights
+to see your data under this provision.
+D.  How will I know when data in my approved PMA are used in support of an
+application, reclassification, or special control?
+FDA plans to identify in the SSED for the new device the PMA SSED number that contained the
+data that were used in support of a PMA or PDP application,  reclassification petition response,
+or FR document announcing development of a special control.  The agency is interested in
+receiving comments and suggestions on this proposed method of notification.
+ E.  How will use of these data affect the confidentiality of the data?
+Because section 520(h)(4) does not authorize FDA to disclose data, the provision does not
+compromise the data’s confidentiality.  Use of data under this provision does not constitute
+disclosure of the data to a member of the public, and does not make confidential data available to
+the public.
+FDA will train its review staff to determine what can reasonably be considered relevant and least
+burdensome to the applicant and the agency in accepting prior testing available under the six-
+year rule.  FDA will also instruct staff with regard to the limits of section 520(h)(4) of the act,
+which expressly exclude use of methods of manufacture and product composition and other trade
+secrets from the kinds of data available under the six-year provision.  CDRH review staff will
+also be trained to consult with their supervisors, the Freedom of Information Staff, and the Office
+of Chief Counsel, when questions arise with respect to this new provision
+Interested applicants may also contact the Program Operations Staff at 301-594-2186 or the
+appropriate division review staff for help with the scientific review requirements related to the
+device and the use of the six-year provision.
+
+<!-- fulltext-end -->

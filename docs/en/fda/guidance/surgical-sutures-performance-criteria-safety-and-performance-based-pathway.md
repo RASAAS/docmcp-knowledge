@@ -277,7 +277,7 @@ information, refer to FDA’s guidance Recommended Content and Format of Non-Cli
 Performance Testing Information in Premarket Submissions.9
 1. 
 Test name: Absorbable Suture Diameter (only for absorbable surgical sutures)
-Methodology: FDA-recognized version of USP 43-NF38 &lt;861&gt; Sutures – Diameter
+Methodology: FDA-recognized version of USP 43-NF38 &lt;861> Sutures – Diameter
 Performance Criteria: The average diameter, and no less than 20 of the 30 
 measurements on the 10-strand sample, are within the limits on average in Table 2 of 
 USP 43-NF38 (2020) Absorbable Surgical Suture for synthetic sutures within the 
@@ -298,7 +298,7 @@ for each proposed size.
 Submission Information: Results summary and DoC
 2. 
 Test name: Nonabsorbable Suture Diameter (only for nonabsorbable surgical sutures)
-Methodology: FDA-recognized version of USP 43-NF38 &lt;861&gt; Sutures – Diameter
+Methodology: FDA-recognized version of USP 43-NF38 &lt;861> Sutures – Diameter
 9 Available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/recommended-content-
 and-format-non-clinical-bench-performance-testing-information-premarket
 
@@ -327,17 +327,17 @@ oversize for each proposed size.
 Submission Information: Results summary and DoC
 3. 
 Test name: Needle Attachment
-Methodology: FDA-recognized version of USP 43-NF38 &lt;871&gt; Sutures – Needle 
+Methodology: FDA-recognized version of USP 43-NF38 &lt;871> Sutures – Needle 
 Attachment
 Performance Criteria: Neither the average of the 5 values nor any individual value is 
-less than the limits given for the designated size in Table 1 of USP 43-NF38 &lt;871&gt; 
+less than the limits given for the designated size in Table 1 of USP 43-NF38 &lt;871> 
 Sutures – Needle Attachment.
-Performance Criteria Source: FDA-recognized version of USP 43-NF38 (2020) &lt;871&gt; 
+Performance Criteria Source: FDA-recognized version of USP 43-NF38 (2020) &lt;871> 
 Sutures – Needle Attachment
 Submission Information: Results summary and DoC
 4. 
 Test name: Absorbable Suture Tensile Strength (only for absorbable surgical sutures)
-Methodology: FDA-recognized version of USP 43-NF38 &lt;881&gt; Sutures – Tensile 
+Methodology: FDA-recognized version of USP 43-NF38 &lt;881> Sutures – Tensile 
 Strength
 Performance Criteria: The average tensile strength is no less than that set forth in Table 
 2 of USP 43-NF38 (2020) Absorbable Surgical Suture for synthetic sutures within the 
@@ -348,7 +348,7 @@ Submission Information: Results summary and DoC
 5. 
 Test name: Nonabsorbable Suture Tensile Strength (only for nonabsorbable surgical 
 sutures)
-Methodology: FDA-recognized version of USP 43-NF38 &lt;881&gt; Sutures – Tensile 
+Methodology: FDA-recognized version of USP 43-NF38 &lt;881> Sutures – Tensile 
 Strength
 Performance Criteria: The average tensile strength is no less than that set forth in Table 
 1 of USP 43-NF38 (2020) Nonabsorbable Surgical Suture for the class and the size stated 

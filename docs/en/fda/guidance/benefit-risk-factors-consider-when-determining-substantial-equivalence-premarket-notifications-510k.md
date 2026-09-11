@@ -19,6 +19,1135 @@ published: 2018-09-25
 PDF: [https://www.fda.gov/media/89019/download](https://www.fda.gov/media/89019/download)
 :::
 
-::: warning
-Full text has not been extracted into this knowledge base. Use the official FDA source link above. This catalog page is metadata only.
-:::
+<!-- fulltext-start -->
+
+---
+
+## Official Full Text
+
+<!-- Page 1 -->
+Contains Nonbinding Recommendations 
+Benefit-Risk Factors to Consider 
+When Determining Substantial 
+Equivalence in Premarket 
+Notifications (510(k)) with Different 
+Technological Characteristics 
+Guidance for Industry and 
+Food and Drug Administration Staff 
+Document issued on September 25, 2018. 
+The draft of this document was issued on July 15, 2014. 
+For questions about this document regarding CDRH-regulated devices, contact the Premarket 
+Notification (510(k)) Section at 301-796-5640 or 510k_Program@fda.hhs.gov. 
+For questions about this document regarding CBER-regulated devices, contact the Office of 
+Communication, Outreach and Development (OCOD) by calling 1-800-835-4709 or 240-402-
+8010. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+U.S. Department of Health and Human Services 
+Food and Drug Administration 
+Center for Devices and Radiological Health 
+Center for Biologics Evaluation and Research
+
+---
+
+<!-- Page 2 -->
+Contains Nonbinding Recommendations 
+Preface 
+Public Comment 
+You may submit electronic comments and suggestions at any time for Agency consideration to 
+https://www.regulations.gov. Submit written comments to Dockets Management Staff, Food and 
+Drug Administration, 5630 Fishers Lane, Room 1061, (HFA-305), Rockville, MD 20852. Identify 
+all comments with the docket number FDA-2014-D-0900. Comments may not be acted upon by 
+the Agency until the document is next revised or updated. 
+Additional Copies 
+CDRH 
+Additional copies are available from the Internet. You may also send an e-mail request to CDRH-
+Guidance@fda.hhs.gov to receive a copy of the guidance. Please use the document number 1818 
+to identify the guidance you are requesting. 
+ 
+CBER 
+Additional copies are available from the Center for Biologics Evaluation and Research (CBER), 
+Office of Communication, Outreach and Development (OCOD), 10903 New Hampshire Ave., 
+Building 71, Room 3128, Silver Spring, MD 20993, or by calling 1-800-835-4709 or 240-402-
+8010, or by e-mail, ocod@fda.hhs.gov, or from the Internet at 
+https://www.fda.gov/BiologicsBloodVaccines/GuidanceComplianceRegulatoryInformation/Guid
+ances/default.htm.
+
+---
+
+<!-- Page 3 -->
+Contains Nonbinding Recommendations 
+ 
+Table of Contents 
+I. 
+Introduction ..............................................................................................................................4 
+II. 
+Background ..............................................................................................................................5 
+A. 
+The Statutory Standard for Substantial Equivalence ...........................................................5 
+B. 
+Performance Data.................................................................................................................7 
+III. Scope ........................................................................................................................................8 
+IV. Benefit and Risk Factors ........................................................................................................10 
+A. 
+Assessment of the Benefits of Devices ..............................................................................12 
+(1) 
+Magnitude of the Benefit(s) .......................................................................................13 
+(2) 
+Probability of the Patient Experiencing One or More Benefit(s) ..............................13 
+(3) 
+Duration of Effect(s) ..................................................................................................14 
+B. 
+Assessment of the Risks of Devices ..................................................................................14 
+(1) 
+Severity, Types, Number, and Rates of Harmful Events ...........................................14 
+(2) 
+Probability of a Harmful Event ..................................................................................15 
+(3) 
+Probability of the Patient Experiencing One or More Harmful Event(s) ..................15 
+(4) 
+Duration of Harmful Events (i.e., How Long the Adverse Consequences Last) .......15 
+(5) 
+Risk from False-Positive or False-Negative Results for Diagnostic Devices............15 
+C. 
+Additional Factors in the Assessment of the Benefits and Risks of Devices ....................16 
+(1) 
+Uncertainty .................................................................................................................16 
+(2) 
+Characterization of the Disease/Condition ................................................................16 
+(3) 
+Innovative Technology ..............................................................................................16 
+(4) 
+Patient Tolerance for Risk and Perspective on Benefit .............................................16 
+(5) 
+Benefit for the Health-Care Professional, Patient, or Caregiver ................................17 
+(6) 
+Risk Mitigation ..........................................................................................................17 
+(7) 
+Postmarket Data .........................................................................................................18 
+V. 
+Examples of Benefit-Risk Evaluation ....................................................................................19 
+A. 
+Example 1: Change in Device Design ...............................................................................19 
+B. 
+Example 2: Change in Technology and Possible Change in Principle of Operation.........20 
+C. 
+Example 3: New Device with Higher Risk of Malfunction ...............................................21 
+D. 
+Example 4: Material Differences Resulting in Different Device Performance .................23 
+E. 
+Example 5: Different Principle of Operation Used to Achieve Same Therapeutic 
+Outcome .............................................................................................................................24 
+F. 
+Example 6: Comparative Testing Resulting in Substantially Different Results ................25
+
+---
+
+<!-- Page 4 -->
+Contains Nonbinding Recommendations 
+4 
+Benefit-Risk Factors to Consider When 
+Determining Substantial Equivalence in 
+Premarket Notifications (510(k)) With 
+Different Technological Characteristics 
+Guidance for Industry and 
+Food and Drug Administration Staff 
+This guidance represents the current thinking of the Food and Drug Administration (FDA or 
+Agency) on this topic. It does not establish any rights for any person and is not binding on FDA 
+or the public. You can use an alternative approach if it satisfies the requirements of the 
+applicable statutes and regulations. To discuss an alternative approach, contact the FDA staff or 
+Office responsible for this guidance as listed on the title page. 
+I. 
+Introduction 
+A submitter of a premarket notification submission (510(k)) must demonstrate to the Food and Drug 
+Administration (FDA) that the “new device” is “substantially equivalent” (SE)1 to a legally 
+marketed predicate device.2 This guidance is intended to help 510(k) submitters demonstrate 
+substantial equivalence. This guidance does not add new regulatory requirements for submitters, it 
+does not change the 510(k) premarket review standard nor does it create extra or new burdens on 
+what has traditionally been submitted in 510(k)s. FDA developed this guidance to improve the 
+predictability, consistency, and transparency of the 510(k) premarket review process. Furthermore, 
+this document is intended to serve as an aid for evaluating the benefit-risk profile of a new device in 
+comparison to the predicate device.  
+The benefit-risk profile of a new device does not need to be identical to the predicate device for it to 
+be SE to the predicate device. This document is intended to provide guidance when the benefit-risk 
+profile of a new device is different from that of the predicate device. More specifically, FDA 
+believes this document can be helpful in situations when there is 1) an increase in risk and increase 
+or equivalent benefit or 2) a decrease in benefit and a decrease or equivalent risk when comparing a 
+new device to a predicate device. In these situations, a benefit-risk assessment should be conducted 
+comparing the benefits and risks of a new device to a predicate device. Such assessments may aid in 
+                                                 
+1 In this guidance, “SE” also refers to “substantial equivalence.” 
+2 See section 513(i) of the Federal Food, Drug, and Cosmetic Act (“FD&C Act”) (21 U.S.C. § 360c(i)).
+
+---
+
+<!-- Page 5 -->
+Contains Nonbinding Recommendations 
+5 
+the SE evaluation by assessing whether the new device is “as safe and effective” as the predicate 
+device. 
+This guidance and associated recommendations for evaluating benefit-risk factors in the context of 
+SE are consistent with the FDA guidance “The 510(k) Program: Evaluating Substantial Equivalence 
+in Premarket Notifications [510(k)]”3 (hereinafter, 510(k) Program Guidance), and least 
+burdensome provisions in the FD&C Act and relevant FDA guidance. 
+FDA recognizes and anticipates that the Agency and industry may need up to 60 days to perform 
+activities to operationalize the policies within the guidance. If a benefit-risk assessment as outlined 
+in this guidance is not included in a 510(k) submission received by FDA before or up to 60 days 
+after the publication of this guidance, FDA staff does not generally intend to request such 
+information during the review of a 510(k) submission. FDA does, however, intend to review any 
+such information, if submitted.  
+FDA’s guidance documents, including this one, do not establish legally enforceable responsibilities. 
+Instead, guidance documents describe the Agency’s current thinking on a topic and should be 
+viewed only as recommendations, unless specific regulatory or statutory requirements are cited. The 
+use of the word should in Agency guidance documents means that something is suggested or 
+recommended but not required. 
+II. Background 
+A. 
+The Statutory Standard for Substantial Equivalence 
+Submitters seeking device clearance must demonstrate to FDA in their 510(k) submission that the 
+“new device” is SE to a “predicate device.” For this guidance, a “new device” means a device 
+within the meaning of section 201(h) of the FD&C Act (21 U.S.C. § 321(h)) that is not legally 
+marketed. It can be either a completely new device or a modification of a legally marketed device 
+that requires a new 510(k) under 21 CFR 807.81. A “predicate device” is a device that (1) was 
+legally marketed prior to May 28, 1976 (preamendments device)4, and for which a premarket 
+approval (PMA) application is not required; or (2) has been classified or reclassified into class I or 
+II;5 or (3) has been found SE through the 510(k) premarket review process. For more information 
+on the process required to demonstrate SE, refer to the 510(k) Program Guidance.  
+The standard for a determination of SE in a 510(k) premarket review is set out in section 
+513(i)(1)(A) of the FD&C Act (21 U.S.C. § 360c(i)(1)(A)), which states: 
+“For purposes of determinations of substantial equivalence under subsection (f) and 
+section 520(l), the term ‘substantially equivalent’ or ‘substantial equivalence’ means, 
+with respect to a device being compared to a predicate device, that the device has the 
+                                                 
+3 https://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/UCM284443. 
+4 See Preamendments Status at 
+https://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/MedicalDeviceQualityandCompliance/ucm37955
+2.htm. 
+5 Section 513 of the FD&C Act (21 U.S.C. § 360c) establishes three device classes (class I, class II, and class III) and 
+sets forth device reclassification procedures.
+
+---
+
+<!-- Page 6 -->
+Contains Nonbinding Recommendations 
+6 
+same intended use as the predicate device and that the Secretary by order has found 
+that the device— 
+(i) has the same technological characteristics as the predicate device, or  
+(ii)(I) has different technological characteristics and the information submitted that 
+the device is substantially equivalent to the predicate device contains information, 
+including appropriate clinical or scientific data if deemed necessary by the Secretary 
+or a person accredited under section 523, that demonstrates that the device is as safe 
+and effective as a legally marketed device, and (II) does not raise different questions 
+of safety and effectiveness than the predicate device.” 
+Therefore, in order to find a new device SE to a predicate device, FDA must first find that the 
+devices have the “same intended use.” FDA must then determine that the devices have “the same 
+technological characteristics,” or that any difference in technological characteristics does not raise 
+different questions of safety and effectiveness and that the device is “as safe and effective” as the 
+predicate device. “Different technological characteristics” is defined in section 513(i)(1)(B) of the 
+FD&C Act (21 U.S.C. § 360c(i)(1)(B)), which states: 
+“…the term ‘different technological characteristics’ means, with respect to a device 
+being compared to a predicate device, that there is a significant change in the 
+materials, design, energy source, or other features of the device from those of the 
+predicate device.” 
+If FDA determines that there are differences in the technological characteristics, between the new 
+device and the predicate device, and that the different technological characteristics raise different 
+questions of safety and effectiveness, FDA will determine that the new device is NSE to the 
+predicate device. For more information on the critical decision-making points in the 510(k) 
+premarket review process, refer to the 510(k) decision-making flowchart in Appendix A of the 
+510(k) Program Guidance (see adapted flowchart in Figure 1). 
+If FDA determines that the different technological characteristics do not raise different questions of 
+safety and effectiveness, FDA will subsequently evaluate differences in the technological 
+characteristics between the new device and the predicate device to determine impact on safety and 
+effectiveness (i.e., whether the new device is “as safe and effective” as the predicate device). If a 
+submitter made modifications to its own FDA-cleared device and submitted a new 510(k), FDA will 
+evaluate the modifications and the information submitted to determine whether the modified device 
+is still “as safe and effective” as the predicate device. In this situation, FDA’s review focuses on the 
+assessment of the modifications to device safety and effectiveness.  
+Under section 513(a)(2) of the FD&C Act (21 U.S.C. § 360c(a)(2)), FDA determines the “safety 
+and effectiveness of a device” by “weighing any probable benefit to health from the use of the 
+device against any probable risk of injury or illness from such use,” among other relevant factors.6 
+                                                 
+6 The criteria for establishing safety and effectiveness of a device are set forth in 21 CFR 860.7. Subsection (b) notes, 
+“[i]n determining the safety and effectiveness of a device…the Commissioner and the classification panels will consider
+
+---
+
+<!-- Page 7 -->
+Contains Nonbinding Recommendations 
+7 
+This guidance is consistent with the 510(k) Program Guidance and provides additional clarification 
+on factors that FDA takes into consideration when evaluating the benefit-risk profile of a new 
+device in comparison to a predicate device. As previously mentioned, this document provides 
+guidance on when the submitter and FDA identifies a decrease in benefit and/or increase in risk 
+between the new device and the predicate device. 
+B. 
+Performance Data 
+When FDA is reviewing a 510(k) for a new device that has different technological characteristics 
+than the predicate device, performance data may be warranted to assess whether the new device is 
+“as safe and effective” as the predicate device. The type and quantity of performance data that may 
+be needed to support a determination of SE depends upon the new device.7 Valid scientific evidence 
+may be generated from both non-clinical and clinical performance data. These types of performance 
+data are evaluated by FDA during the premarket review process and can provide information 
+relating to the benefit and risk factors discussed in this guidance. 
+Non-clinical testing can encompass an array of methods including, but not limited to, performance 
+testing for product safety, reliability, characterization, human factors, usability, mechanical testing 
+under simulated conditions, animal studies,8 cell-based studies, and computer simulations. These 
+tests characterize properties of the devices including, but not limited to, precision, reproducibility, 
+linearity, wear, tensile strength, compression, flow rate, burst pressure, biocompatibility, toxicity, 
+electromagnetic compatibility (EMC), sterility, stability/shelf-life data, software validation, and 
+testing of synthetic samples.  
+Clinical data is not typically included in 510(k)s to demonstrate SE. However, when appropriate, 
+valid scientific evidence can include randomized clinical trials in the appropriate target population, 
+well-controlled investigations, partially controlled studies, studies and objective trials without 
+matched controls, well-documented case histories conducted by qualified experts, certain reports of 
+significant human experience, and testing on clinically derived human specimens (DNA, tissue, 
+organ and cadaver studies).9 Valid scientific evidence generated from clinical and/or non-clinical 
+testing can be considered during FDA’s review of the benefit-risk assessment. 
+When evaluating and comparing the benefits and risks of a new device to a predicate device, FDA 
+evaluates the “probable” or “probability” of such risks and benefits. The use of the terms “probable” 
+and “probability” in this guidance have the same connotation as in 21 CFR 860.7(b)(3), i.e., they 
+refer to the probable benefit to patient health from the use of the device weighed against any 
+probable injury or illness from such use. Hypothesis testing, formal concepts of probability and 
+predictive probability, likelihood, etc. are typically important elements in the assessment of 
+                                                 
+the following, among other relevant factors… (3) The probable benefit to health from the use of the device weighed 
+against any probable injury or illness from such use.” (21 CFR 860.7(b)). For additional information on FDA’s safety 
+and effectiveness review, see 21 CFR 860.7(d) and (e).  
+7 See 21 CFR 860.7(c)(2). 
+8 FDA supports the principles of the “3Rs,” to reduce, refine, and replace animal use in testing when feasible. We 
+encourage sponsors to consult with us if it they wish to use a non-animal testing method they believe is suitable, 
+adequate, validated, and feasible. We will consider if such an alternative method could be assessed for equivalency to an 
+animal test method. 
+9 See 21 CFR 860.7(c)(2).
+
+---
+
+<!-- Page 8 -->
+Contains Nonbinding Recommendations 
+8 
+“probable” benefit and risk. In general, a “probable risk” and a “probable benefit”’ do not include 
+purely theoretical risks and benefits, but rather those that are supported by valid scientific evidence. 
+FDA does not intend for the use of the term “probable benefit” in this guidance to refer to the 
+regulatory term as used for the approval requirements for Humanitarian Device Exemptions (HDE) 
+under section 520(m) of the FD&C Act (21 U.S.C. § 360j(m)), and FDA’s implementing HDE 
+regulations. 
+III. Scope 
+The 510(k) premarket review standard (i.e., SE of a new device when compared to a predicate 
+device) does not require a new device to be identical to a predicate device. Under section 513(i) of 
+the FD&C Act (21 U.S.C. § 360c(i)), FDA may determine that a new device is SE to a predicate 
+device if, among other things, it has the same intended use. Differences in the indications for use, 
+such as the population for which a device is intended or the disease a device is intended to treat, 
+may not necessarily result in a new intended use.10 In other words, FDA may find a new device with 
+indications for use or technological characteristics that are different from those of the predicate 
+device SE to a predicate device. Likewise, the benefit-risk profile of a new device does not need to 
+be identical to be found SE to the predicate device. 
+This guidance document focuses on the steps of the 510(k) premarket review process after FDA 
+finds that the intended use of the new device and predicate device are the same and have different 
+technological characteristics that do not raise different questions of safety and effectiveness. 
+Specifically, the guidance focuses on the step where FDA evaluates whether the new device is “as 
+safe and effective” as the predicate device. As shown in the decision-making flowchart in Figure 1, 
+this guidance focuses on the review steps after FDA has answered Yes to Decisions #1 and #2, and 
+No to Decisions #3 and #4. (Note that the flowchart was adapted from Appendix A of the 510(k) 
+Program Guidance.)  
+At this point in the review process, FDA determines whether the new device is “as safe and 
+effective” as the predicate device by looking at the submitted performance data among other things. 
+During the review, if FDA identifies an increase in risk and increase or equivalent benefit, or a 
+decrease in benefit and a decrease or equivalent risk, when comparing a new device to a predicate 
+device, a benefit-risk assessment may be beneficial to aid in the evaluation of SE or NSE. Figure 1 
+highlights steps in the decision-making process where consideration of a benefit-risk assessment 
+may be informative when reviewing a 510(k). 
+                                                 
+10 “[T]he term intended use means the general purpose of the device or its function, and encompasses the indications for 
+use. The indications for use generally describe the disease or condition that will diagnose, treat, prevent, cure or 
+mitigate, including a description of the patient population for which the device is intended. The indications include all 
+the labeled patient uses of the device. As it relates to medical devices, the indications for use statement is a factor in 
+determining a device’s intended use; however, a change indications for use that requires submission of a new 510(k) 
+does not necessarily mean that the device has a new intended use (such that the device would not be substantially 
+equivalent under section 513(i) of the FD&C Act).” See the FDA guidance, “Deciding When to Submit a 510(k) for a 
+Change to an Existing Device” 
+(https://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/UCM514737) (internal 
+citations omitted).
+
+---
+
+<!-- Page 9 -->
+Contains Nonbinding Recommendations 
+9 
+Benefit-risk factors are often considered when making a determination of SE or NSE for a new 
+device that has the same intended use as the predicate device and different technological 
+characteristics that do not raise different questions of safety and effectiveness. Some benefit and 
+risk factors that FDA may consider are described below. Not all of the factors listed in this guidance 
+will be applicable to each 510(k). Section V of this guidance provides examples of how these 
+factors could be considered during a 510(k) premarket review. 
+ 
+Figure 1: Decision-making flowchart (adapted from 510(k) Program Guidance) showing steps in 
+the process when inclusion of a benefit-risk assessment could be helpful.
+
+---
+
+<!-- Page 10 -->
+Contains Nonbinding Recommendations 
+10 
+ 
+IV. Benefit and Risk Factors 
+The benefit-risk framework for 510(k) premarket reviews is fundamentally different from the 
+benefit-risk framework that applies to devices in PMA or De Novo review. More specifically, in 
+510(k) premarket review, the benefit-risk profile of the new device is determined in the context 
+of a comparison to the benefit-risk profile of a predicate device. Thus, during the 510(k) 
+premarket review for a new device, it is important to understand the benefit-risk profile of the 
+predicate device and previously cleared devices within the same type.11 FDA may also consider 
+whether prior evaluation of the benefit-risk profile for the same or similar device type is 
+appropriate and still applicable based on postmarket and current real-world data.  
+As previously mentioned, the benefit-risk profile of a new device does not need to be identical to 
+be as safe and effective as the predicate device. This section focuses on some of the factors that 
+are taken into consideration when comparing the benefit-risk profile of a new device and 
+predicate device to determine whether the new device is “as safe and effective” as the predicate 
+device. An evaluation of these factors is important when there is an increase in risk and increase 
+or equivalent benefit; or a decrease in benefit and a decrease or equivalent risk, when comparing 
+a new device to a predicate device. In these situations, the factors in this guidance should be 
+applied to help FDA determine if SE has been demonstrated. A benefit-risk assessment is not 
+recommended for the majority of 510(k)s to support a determination of SE, including situations 
+where there is an increase or equivalent benefit and a decrease or equivalent risk, when 
+comparing a new device to the predicate device. 
+FDA may also consider the value that health-care professionals and patients place on the 
+benefits. FDA understands that health-care professionals, who utilize devices in the treatment or 
+diagnosis of patients with a disease or condition, may have developed their own insights into the 
+benefits of the treatments that may vary from that of regulators. For more information on patient 
+preference information (PPI) and patient-reported outcomes (PROs), refer to the FDA guidance 
+“Patient Preference Information – Voluntary Submission, Review in Premarket Approval 
+Applications, Humanitarian Device Exemption Applications, and De Novo Requests, and 
+Inclusion in Decision Summaries and Device Labeling”12 (hereinafter, “PPI Guidance”). 
+When comparing the benefits and risks of a new device to a predicate device, there might be 
+variability in the type or extent of benefits and/or risks. For that reason, FDA evaluates the 
+differences between the benefits and risks of a new device to a predicate device, along with 
+additional factors identified in Section IV.C. FDA evaluates the aggregate benefits, which 
+includes, but is not limited to, consideration of the type, magnitude, probability, and duration of 
+benefits. Likewise, FDA also evaluates the aggregate risks and considerations include, but are 
+not limited to the severity, types, number, rates, and probability of risks. 
+                                                 
+11 See the FDA guidance, “Medical Device Classification Product Codes” 
+(https://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/ucm285317.htm). 
+12 https://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/UCM446680.
+
+---
+
+<!-- Page 11 -->
+Contains Nonbinding Recommendations 
+11 
+ 
+The benefit-risk assessment should identify and compare the differences in technological 
+characteristics and how that could impact the new device’s benefit-risk profile when compared to 
+the predicate device.  
+Despite differences in the benefit-risk profile, in some circumstances the new device may be 
+determined to be SE to the predicate device. As a part of our determination, FDA could also 
+consider whether mitigation strategies, such as labeling revisions, could be implemented to 
+address differences in the benefit-risk profile between a new device and a predicate device. 
+Generally, if there is an increase in risk or decrease in benefit, FDA will likely find the new 
+device NSE to the predicate device. See Section V of this guidance for examples of how FDA 
+evaluates and considers benefits and risks during the review of a 510(k). 
+Both non-clinical and clinical data can play a role in FDA’s benefit-risk determinations, and the 
+factors discussed in this guidance may be informed by either type of data. In addition, both 
+clinical and non-clinical testing can be used to assess the benefits and risks of a new device and 
+can be used to assess the impact of risk mitigation measures. For information on the types of 
+performance data that FDA can consider during the 510(k) premarket review, refer to Section F 
+of the 510(k) Program Guidance. 
+A summary of the benefit-risk assessment can be included as part of the 510(k) summary 
+consistent with 21 C.F.R. 807.92(b)(3). For more information on factors that are considered 
+when assessing benefit, refer to Section IV.A below. For more information on factors that are 
+considered when assessing risk, refer to Section IV.B below. 
+Below is an explanation of certain scenarios where a benefit-risk assessment could be useful. 
+Table 1 provides a guide for certain benefit and risk outcomes when the inclusion of a benefit-
+risk assessment in a 510(k) may be recommended. However, neither the table nor the benefit-risk 
+outcomes explained below are intended to be decisional and instead represent the Agency’s 
+recommendation for when a benefit-risk assessment may or may not be helpful to include in a 
+510(k). This table should be used in conjunction with the guiding principles provided elsewhere 
+in this guidance and not in isolation. 
+Decreased Benefit and Decreased/Equivalent Risk 
+If the aggregate benefit of a new device is decreased in comparison to the predicate and the risk 
+level is decreased in comparison to that of the predicate device, FDA may determine the new 
+device to be SE if the differences do not affect whether the new device is “as safe and effective” 
+as the predicate device. However, if there is a decrease in benefit without a decrease in risk, FDA 
+would likely find a device NSE to the predicate especially if the benefit-risk assessment confirms 
+that the new device is not “as safe and effective” as the predicate device. 
+Equivalent/Increased Benefit and Increased Risk 
+FDA evaluates the nature of increased risk and degree of risk (e.g., severity, type, rate) in 
+comparison to the predicate device to determine if the difference impacts whether the new device 
+is “as safe and effective” as the predicate device. FDA may also consider whether additional
+
+---
+
+<!-- Page 12 -->
+Contains Nonbinding Recommendations 
+12 
+ 
+measures may help to mitigate the increase in risk. If there is an increase in aggregate risk and 
+there is an increase in benefit associated with the new device as compared to the predicate 
+device, FDA may determine the new device to be SE if the device is “as safe and effective” as 
+the predicate. FDA will generally not find a new device SE to the predicate device when an 
+increase in risk cannot be mitigated and is not accompanied by increased or equivalent benefit.  
+Table 1. Situations when a benefit-risk assessment could be recommended or not recommended 
+as part of the evaluation of SE. [Note: This table should be used with the guiding principles 
+provided in the rest of the guidance.] 
+ 
+INCREASE IN RISK 
+DECREASE/EQUIVALENT RISK 
+INCREASE/ EQUIVALENT 
+BENEFIT 
+Conducting a benefit-risk assessment is 
+recommended.* 
+ 
+The factors in this guidance should be used 
+to assess the benefits and risks as part of the 
+evaluation of substantial equivalence. 
+ 
+Conducting a benefit-risk assessment as 
+described in this guidance is likely not 
+recommended to determine whether the new 
+device is “as safe and effective” as the predicate 
+device. 
+ 
+FDA will generally determine the new device SE 
+to the predicate device when there is 
+increase/equivalent benefit and 
+decreased/equivalent risk. 
+DECREASE IN BENEFIT 
+Conducting a benefit-risk assessment as 
+described in this guidance is likely not 
+recommended to determine whether the 
+new device is “as safe and effective” as 
+the predicate device. 
+ 
+FDA will generally determine the new 
+device NSE to the predicate device when 
+there is a decrease in benefit and an increase 
+in risk. 
+Conducting a benefit-risk assessment is 
+recommended.* 
+ 
+The factors in this guidance should be used to 
+assess the benefits and risks as part of the 
+evaluation of substantial equivalence. 
+ 
+*FDA recommends conducting a benefit-risk assessment to determine if the new device is “as safe and effective” as 
+the predicate device despite these differences. A summary of the benefit-risk assessment should be included in the 
+510(k) summary, when such information was important to FDA’s determination that the new device is “as safe, as 
+effective, and performs as well as or better than” the predicate device, consistent with 807.92(b)(3).  
+A. 
+Assessment of the Benefits of Devices 
+Examples of possible device benefit(s) include, but are not limited to: 
+• Reduction in treatment time to achieve same effect; 
+• Improvement of mechanical properties to reduce probable likelihood of adverse events 
+or to improve handling; 
+• Reduction of variability in device output; 
+• Improvements in clinical management, probability of survival, other aspects of patient 
+health status (e.g., effect on patient management and quality of life, improvement of
+
+---
+
+<!-- Page 13 -->
+Contains Nonbinding Recommendations 
+13 
+ 
+patient function, prevention of loss of function, relief from symptoms), and patient 
+satisfaction in the target population, which may be measured with the use of PROs; and 
+• For diagnostic devices specifically, benefit(s) in reference to the nature of the public 
+health impact, could be based on a number of factors including: 
+o Identification of a specific disease; 
+o Provision of diagnosis at different stages of a disease; 
+o Prediction of future disease onset; 
+o Improvement of patient workflow; 
+o Increase in efficiency or examination; 
+o Provision of reproducible and quantifiable results contributing to the optimization 
+of therapy and treatment; and 
+o Improvement of patient outcome (e.g., well-being, health status, safety of 
+patients) by facilitating fewer missed diagnoses (or the right diagnosis the first 
+time, hence the correct treatment plan) and/or identification of patients likely to 
+respond to a given therapy and therefore enable treatment of the disease or 
+reduce/prevent its spread, which can often be measured through the use of PROs. 
+ 
+Endpoints denoting clinical benefit are usually measured directly, but in some cases may be 
+demonstrated by use of surrogate endpoints that are reasonably likely to predict clinical benefit.  
+FDA assesses information provided in a 510(k) concerning the extent of probable benefit(s) by 
+considering, among others, the following factors individually and in aggregate when making a 
+comparison to the predicate device: 
+(1) 
+Magnitude of the Benefit(s) 
+Benefits are often assessed along a scale or according to specific endpoints or criteria. The 
+criteria should be established based on scientific and/or clinical rationale. Variation in the 
+magnitude and type of benefit across a population is considered. The magnitude of benefit for 
+diagnostic devices is defined in large part by the accuracy and reproducibility of test results and 
+by the expected effect of clinically applying those results. 
+(2) 
+Probability of the Patient Experiencing One or More 
+Benefit(s) 
+Based on the data provided, it is sometimes possible to predict which patients may experience a 
+benefit, whereas other times this cannot be accurately predicted. The data may show that a benefit 
+may be experienced only by a small portion of patients in the target population or may occur 
+frequently in patients throughout the target population. It is also possible that the data will show that 
+different patient subgroups are likely to experience different benefits or different levels of the same 
+benefit. If the subgroups can be identified, the device may be indicated for those subgroups. In some 
+cases, however, the subgroups may not be identifiable. In addition, the magnitude and probability can 
+be considered together when weighing benefits against risks. That is, a large benefit experienced by a 
+small proportion of participants may raise different considerations than does a small benefit 
+experienced by a large proportion of participants.
+
+---
+
+<!-- Page 14 -->
+Contains Nonbinding Recommendations 
+14 
+ 
+(3) 
+Duration of Effect(s) 
+This factor refers to how long the benefit can be expected to last for the patient. Some treatments 
+could be curative, whereas some may need to be repeated frequently over the patient’s lifetime. 
+To the extent that it is known, the duration of a treatment effect may directly influence how its 
+benefit is defined. Treatments that must be repeated over time may introduce greater risk or the 
+benefit experienced may diminish each time the treatment is repeated. 
+B. 
+Assessment of the Risks of Devices 
+Risks of devices can take many forms, including impact on: 
+• Device performance (e.g., device failure and its impact on adverse events); 
+• Clinical management; 
+• Patient health status, often measured using PROs (e.g., negative effect on patient 
+management and quality of life, decline of patient function, loss of function, worsening 
+symptoms); and 
+• Patient tolerability. 
+FDA assesses the extent of the probable risk(s)/harm(s) by considering, among others, the 
+following factors individually and in the aggregate as compared to the predicate device: 
+(1) 
+Severity, Types, Number, and Rates of Harmful Events 
+For the purpose of this guidance, “rate of harmful events” refers to the number of harmful events 
+per patient or the number of harmful events per unit of time associated with the use of the device. 
+We identify each type of harm individually for the purpose of clarifying which of the more 
+commonly recognized harms FDA might consider in benefit-risk assessments. In making benefit-
+risk assessments, FDA may consider each type of harm individually and in aggregate. 
+• Device-related serious adverse events: These are events that may have been or were 
+attributed to the use of the device and caused or contributed to a death, injury, or illness 
+that is life-threatening, resulted in permanent impairment or damage to the body, or 
+required medical or surgical intervention to prevent permanent harm to the body.13 
+• Device-related non-serious adverse events: These are events that may have been or 
+were attributed to the use of the device and do not meet the criteria for classification as a 
+device-related serious adverse event. 
+• Procedure-related complications: These are events that caused harm to the patient, 
+would not be included under serious or non-serious adverse events, and indirectly 
+resulted from use of the device. Examples include anesthetic-related complications 
+associated with the implantation of a device or risks associated with the collection of 
+human biological materials. The latter consideration affects the risk profile of in vitro 
+                                                 
+13 See generally 21 CFR 803.3(w) (defining “serious injury” for purposes of 21 CFR part 803).
+
+---
+
+<!-- Page 15 -->
+Contains Nonbinding Recommendations 
+15 
+ 
+diagnostic devices when the biological material is collected via an invasive procedure for 
+the purpose of performing the diagnostic test. 
+(2) 
+Probability of a Harmful Event  
+The probability of a harmful event is the proportion of the intended population that could be 
+expected to experience a harmful event. FDA could factor whether an event occurs once or 
+repeatedly into the measurement of probability. 
+(3) 
+Probability of the Patient Experiencing One or More 
+Harmful Event(s) 
+Based on the data provided, it is sometimes possible to predict which patients may experience a 
+harmful event, whereas other times this cannot be accurately predicted. The data may show that a 
+harmful event may be experienced only by a small portion of patients in the target population or 
+may occur frequently in patients throughout the target population. 
+(4) 
+Duration of Harmful Events (i.e., How Long the Adverse 
+Consequences Last) 
+Some devices can cause temporary, minor harm; some devices can cause repeated, but reversible 
+harm; and other devices can cause permanent, debilitating injury. FDA may also consider the 
+severity of the harm along with its duration. 
+(5) 
+Risk from False-Positive or False-Negative Results for 
+Diagnostic Devices 
+If a diagnostic device gives a false-positive result, the patient might, for example, receive an 
+unnecessary treatment and incur the potential risks that accompany that treatment or might be 
+incorrectly diagnosed with a serious disease. Additionally, the patient might not receive effective 
+treatment (thereby missing out on the benefits that treatment could confer) or might not be 
+diagnosed with the correct disease or condition. These risks and other risks arising from false test 
+results should be considered in terms of their likelihood and severity. 
+In addition to the type of risks discussed in (1) to (5) above, FDA also considers the number of 
+different types of harmful events that can result from using the device and the severity of the 
+aggregate effect. When multiple harmful events occur at once, they can have a greater aggregate 
+effect. For example, there may be a harmful event that is considered minor when it occurs on its 
+own, but when it occurs along with other harmful events, the aggregate effect on the patient may 
+be substantial. 
+In circumstances where clinical data are not warranted to demonstrate SE, other types of valid 
+scientific evidence may be used to assess probable risks of the technological changes that address 
+the considerations above (e.g., rates of failures, severity of failures, duration of harmful event, 
+etc.). These include, but are not limited to, the risk analysis for the product, reports of simulated
+
+---
+
+<!-- Page 16 -->
+Contains Nonbinding Recommendations 
+16 
+ 
+use tests, modeling, animal testing, and, where applicable, a review of conformance with FDA-
+recognized consensus standards. 
+C. 
+Additional Factors in the Assessment of the Benefits and 
+Risks of Devices 
+(1) 
+Uncertainty 
+When determining if a new device is “as safe and effective” as a predicate device, we consider 
+the extent of certainty of the benefits and risks of a device. In the context of this guidance, 
+greater uncertainty may arise from a lower level of available evidence with regards to the 
+benefit-risk profile for a new device. Factors such as less than optimal design or less than 
+optimal conduct of bench testing, animal or clinical studies, or inadequate analysis of data can 
+render the outcomes of the test or study less reliable or invalid, and may not provide the degree 
+of information to fully understand the effects of the new technology. Additionally, for certain 
+device types where clinical data are warranted to determine SE, it is important that the clinical 
+study is adequately designed; failure to adequately design a clinical study can introduce 
+uncertainty into the benefit-risk assessment for the device, which may not support an SE 
+determination.  
+(2) 
+Characterization of the Disease/Condition 
+During review of the 510(k), FDA may consider the following: 
+• the treated or diagnosed disease/condition and its clinical manifestation; 
+• how the disease affects the patients who have it; and 
+• how and whether a diagnosed disease/condition is treated and the condition’s natural 
+history and progression (i.e., does it get progressively better or worse over time for the 
+patient and at what expected rate?). 
+(3) 
+Innovative Technology 
+When a new device has technological improvements that are important for public health, FDA 
+may accept greater uncertainty in an assessment of benefits and risks as compared with the 
+predicate device than for other established technologies in order to facilitate patient access to 
+these innovative technologies, if FDA’s overall assessment is sufficiently balanced by other 
+factors to support a determination that the new device is “as safe and effective” as the predicate 
+device. Innovative changes are evaluated on a case-by-case basis in terms of the degree of 
+benefit. 
+(4) 
+Patient Tolerance for Risk and Perspective on Benefit 
+Risk tolerance varies among patients and affects individual patients’ decisions as to whether 
+higher risks in the new device’s technology as compared to the predicate device are acceptable in 
+exchange for a higher probable benefit. When evaluating benefits and risks, FDA recognizes that
+
+---
+
+<!-- Page 17 -->
+Contains Nonbinding Recommendations 
+17 
+ 
+PPI studies of risk may identify patients who are reasonably willing to accept a higher level of 
+risk to achieve a higher probable benefit or an additional type of benefit (e.g., an improvement in 
+quality of life stemming from greater comfort or ease of use). At the same time, other patients 
+may be more risk-averse. Patient-centric assessments and PPI studies should take into account 
+both the patient’s willingness and unwillingness to use a device or tolerate risk when evaluating 
+the relative safety and effectiveness of the new device in comparison to the predicate. FDA may 
+also consider evidence relating to patients’ perspectives on what constitutes a benefit, as some 
+set of patients may value a benefit more than others. 
+Assessing patient tolerance for risk and perspective on benefit via PPI studies may be an 
+informative and helpful factor in evaluating the overall benefit-risk profile of a device and 
+whether a new device is as safe and as effective as a predicate device. FDA recommends that any 
+submitter who is considering developing or presenting studies and/or data concerning patient risk 
+tolerance or perspective on benefit in their 510(k) consult the PPI Guidance. Although the PPI 
+Guidance is not specific to 510(k) submissions, the concepts and recommendations in this 
+guidance may be helpful for manufacturers who intend to submit PPI studies in a 510(k) as part 
+of a benefit-risk assessment. 
+We also recommend discussing your plans at an early stage with the appropriate FDA review 
+Division using the Pre-Submission Program described in the FDA guidance “Requests for 
+Feedback on Medical Device Submissions: The Pre-Submission Program and Meetings with 
+Food and Drug Administration Staff.”14 
+(5) 
+Benefit for the Health-Care Professional, Patient, or 
+Caregiver 
+FDA recognizes that certain devices, such as surgical tools that allow different techniques or 
+devices that positively affect ongoing patient management, may benefit health-care professionals 
+or caregivers by improving the way they care for the patients and consequently improving patient 
+outcomes. Additional examples are surgical instruments with improved ergonomic design for 
+ease of use or patient monitoring devices with wireless capabilities. For these devices, submitters 
+may consider developing or presenting valid measurement methods and/or data concerning 
+perspective on benefit for health-care professionals or caregivers. FDA recommends that any 
+submitter who is considering developing or presenting valid measurement methods and/or data 
+concerning perspective on benefit for health-care professionals or caregivers in their 510(k) have 
+early interaction with the appropriate FDA review division. 
+(6) 
+Risk Mitigation 
+The use of mitigations, when appropriate, can minimize the probability of a harmful event 
+occurring and improve the benefit-risk profile. Even if a new device has an increased risk and if 
+the risk is appropriately mitigated, FDA may determine that the new device has a comparable 
+benefit-risk profile to the predicate device and therefore determine that the new device is “as safe 
+                                                 
+14 https://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/UCM311176.
+
+---
+
+<!-- Page 18 -->
+Contains Nonbinding Recommendations 
+18 
+ 
+and effective” as the predicate device. The most common form of risk mitigation is to include 
+appropriate information within labeling (e.g., warnings, precautions, contraindications). Some 
+risks can be mitigated through other forms of risk communication, including training and 
+professional and patient labeling. For in vitro diagnostic devices, risks may be mitigated by the 
+use of complementary or supplementary diagnostic tests and/or controls or when used in 
+conjunction with other available information, including clinical symptoms and family history. 
+(7) 
+Postmarket Data 
+The use of devices in a postmarket setting can provide a greater understanding of their risks and 
+benefits and the risks and benefits of similar devices. When reviewing a new device and 
+assessing different technological characteristics in accordance with this guidance, FDA may 
+consider postmarket data (e.g., literature, recalls, registry data, medical device reports) collected 
+on marketed devices of the same type. This assessment may clarify the magnitude and effect of 
+mitigations and may provide additional information when evaluating benefits and risks of the 
+new device in accordance with an SE determination. In some cases, postmarket information can 
+be used to confirm that certain risks have been mitigated or to identify which patients are most 
+likely to suffer adverse events. In addition, FDA has the authority to require postmarket 
+surveillance for certain class II devices15 and may order postmarket surveillance for a new device 
+that is expected to have significant use in pediatric populations as a condition to an SE 
+determination.16 Postmarket surveillance for a new device that is expected to have a significant 
+pediatric use can serve to complement premarket data. 
+Furthermore, section 513(i)(1)(C) of the FD&C Act (21 U.S.C. § 360c(i)(1)(C)) requires FDA to 
+consider the use of postmarket controls in the review of 510(k)s, stating “[t]o facilitate reviews 
+of reports submitted to the Secretary under section 510(k), the Secretary shall consider the extent 
+to which reliance on postmarket controls may expedite the classification of devices…” As 
+discussed in the FDA guidance “The Least Burdensome Provisions of the FDA Modernization 
+Act of 1997: Concept and Principles,”17 reliance on postmarket controls (e.g., Quality System 
+regulations, postmarket surveillance, and the Medical Device Reporting requirements) should be 
+considered as a mechanism to reduce the extent of premarket data for 510(k)s, while still 
+ensuring the safety and effectiveness of the device. In some cases, FDA may accept greater 
+premarket uncertainty regarding a device’s benefit-risk profile through greater reliance on 
+postmarket controls, such as postmarket surveillance where applicable, in order to reduce the 
+premarket burden for a 510(k), if FDA’s overall assessment is sufficiently balanced by other 
+factors to support SE and taking into account FDA’s limitations with respect to requiring 
+postmarket studies for 510(k)s. 
+                                                 
+15 See section 522 of the FD&C Act (21 U.S.C. § 360l). 
+16 See section 522(a)(1)(B) of the FD&C Act (21 U.S.C. § 360l(a)(1)(B)). 
+17 https://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/UCM085999.
+
+---
+
+<!-- Page 19 -->
+Contains Nonbinding Recommendations 
+19 
+ 
+V. Examples of Benefit-Risk Evaluation 
+The examples below are hypothetical or simplified real-world situations and are offered only for 
+illustrative purposes, i.e., no example is a complete assessment of the benefit-risk issues 
+associated with any actual 510(k). The decisions described in these examples are not predictive 
+of future FDA decisions; rather, they are hypothetical outcomes and are intended only to 
+demonstrate how FDA could consider the factors described in this guidance when evaluating 
+benefits and risks during a 510(k) premarket review. Similar scenarios or devices may result in 
+different clearance outcomes depending on the individual performance characteristics of a 
+particular device, the population for which it is indicated, and the context. These examples are 
+not intended to provide device-specific data recommendations for the assessment of the factors. 
+Because this guidance document focuses on the part of the SE decision-making process 
+occurring after FDA finds that the intended use of the new device and predicate device are the 
+same, and that any differences in technological characteristics do not raise different questions of 
+safety and effectiveness, these examples focus on the use of benefit-risk assessments after 
+Decision #4 of the SE decision-making process, as described in Figure 1.  
+A. 
+Example 1: Change in Device Design 
+Scenario: A manufacturer submitted a 510(k) for a powered rongeur for use during spinal 
+surgery that utilizes new designs, i.e., a different shape and a different, deeper cutting action than 
+the identified predicate device. The new design presents increased risk because the new cutting 
+action exposes additional anatomy of the patient to an increased risk of injury. On the other hand, 
+the new design expedites the cutting process and minimizes the time needed for surgical 
+procedures, and its shape allows easier access to specific anatomic regions than the available 
+predicate devices. After reviewing bench testing, FDA noted that the bench testing was not 
+designed to address the increased risk. The manufacturer provided performance data to 
+demonstrate that the risks noted by the review team had very low incidence. The animal study 
+made a direct comparison to the predicate device. The new device demonstrated shorter surgery 
+time, and the results of a survey of the participating surgeons emphasized the ease of accessing 
+more difficult anatomic areas compared to the predicate device, therefore reducing the likelihood 
+of injury to neighboring tissue when accessing the difficult-to-reach anatomical areas in the 
+patient. The device is also available in a range of sizes which also raises concerns about elevated 
+risk if larger sizes than necessary are used because this resulted in higher adverse event rates in 
+the animal study. 
+Is a benefit-risk assessment recommended? 
+Yes. A benefit-risk assessment should be conducted to assess the increase in risk and increase in 
+benefit.  
+Benefits: Compared to the predicate device, the new device offers surgeons an option to access 
+specific anatomic areas around the spine more easily with a lower likelihood of injury to 
+neighboring tissue. In some cases, surgeons may prefer to use this tool rather than the predicate
+
+---
+
+<!-- Page 20 -->
+Contains Nonbinding Recommendations 
+20 
+ 
+because the new device can offer a deeper cutting action which was demonstrated in the animal 
+study to shorten the duration of surgery. In addition, shorter surgery time results in less time 
+under anesthesia and less exposure to risk of infection. 
+Risks: The new deeper cutting action introduces higher risks of injury to the dura, arteries, veins, 
+and nerve roots than the predicate device. The manufacturer provided data from an animal study 
+to address the higher level of risks associated with the new deeper cutting action. The data 
+provided demonstrate that the probability of harm is low; however, using the incorrect size of the 
+device was found to increase risk of injury in the animal study. 
+Additional Factors: 
+Risk Mitigation: To address the concern of elevated risk due to using an incorrectly sized device, 
+labeling is used to identify the proper size to be used based on anatomical measurements made 
+before surgery. 
+Benefit for the Health-Care Professional or Caregiver: The new design allows for easier use by 
+the surgeons as demonstrated in the survey data provided by the manufacturer, thereby reducing 
+risk of injury to the patient. 
+SE Analysis: The technological differences present an increased risk of injury to the dura, 
+arteries, veins, and nerve roots. The manufacturer provided animal study data to address these 
+additional risks and to demonstrate that the probability of such harms is low. The manufacturer’s 
+labeling further mitigates risk observed in the animal testing by identifying methods to help the 
+surgeon choose the proper device size. Furthermore, the animal study demonstrated that the new 
+device shortened the surgery time compared to the predicate device, and surveys of participating 
+surgeons emphasized the benefit of easier access to specific anatomic regions around the spine, 
+thereby reducing risk of injury to the patient. Although the probable risk may be slightly higher 
+than that of the predicate device due to the nature of cutting, the increase was demonstrated to be 
+minimal. In addition, the non-clinical performance data did demonstrate benefit from the new 
+shape and cutting action in terms of shortened surgical time and easier access. Because the 
+increase in risk is accompanied by an increase in benefit and the new device would likely have a 
+comparable benefit-risk profile to the predicate device for the indicated patient population, this 
+device would likely be found SE. 
+B. 
+Example 2: Change in Technology and Possible Change 
+in Principle of Operation 
+Scenario: A self-contained device uses a low-level laser therapy for the treatment of toenail 
+fungus (onychomycosis). The new device uses a different wavelength than the predicate device 
+that was shown to produce different photo-biological effects, have a power level much lower 
+than the predicate device, and have a constant energy delivery sequence in comparison to the 
+pulsing sequence of the predicate device. For the treatment of onychomycosis, the purported 
+mechanism of action is either a photo-biological process in which the laser wavelength interacts 
+with chromophores within the fungal cells resulting in cell death or may involve a thermal effect 
+on the fungal cells at temperatures below those required for tissue coagulation or tissue
+
+---
+
+<!-- Page 21 -->
+Contains Nonbinding Recommendations 
+21 
+ 
+vaporization. Due to the differences in technological characteristics and possible changes in 
+principles of operation between the new device and predicate device, the manufacturer provided 
+clinical data to compare their device to the predicate device. The device would have equivalent 
+benefit as the predicate device if a majority of the subjects were responders, where a responder is 
+a subject for whom the toenail is effectively treated according to predefined success criteria. The 
+clinical data demonstrated that the responder rate was lower in the group treated with the new 
+device. The new device is considered to pose a lower risk than the predicate device because the 
+power level of the new device is significantly lower. 
+Is a benefit-risk assessment recommended? 
+Yes. A benefit-risk assessment should be conducted to assess the decrease in risk and decrease in 
+benefit.  
+Benefits: The new device offers an alternative treatment modality than the predicate device. 
+However, the study failed to meet the primary endpoint, as data did not support that the majority 
+of the responders saw treatment success. 
+Risks: The new device offers lower risk to the subject with a reduction of power and offers 
+minimal side effects when compared to the predicate device. Other risk mitigations include the 
+wearing of laser safety protective glasses to prevent accidental eye damage from laser exposure. 
+Additional Factors:  
+Uncertainty: The results of the clinical study raised significant concerns regarding the reliability 
+of the observed benefit of the new device. The proportion of responders was lower than desired. 
+In addition, there were significant data inconsistencies regarding the manufacturer’s photographs 
+and data set in comparison to the predicate device. 
+SE Analysis: Due to the differences in technological characteristics between the new device and 
+predicate device, the manufacturer provided clinical data to establish SE. The clinical data failed 
+to demonstrate the new device provided benefit for the majority of treated patients. In addition, 
+the provided data presented significant inconsistencies and was considered not reliable. Although 
+the new device imparts less risk, the benefit of the device is considerably smaller than the 
+predicate device. Additionally, there is considerable uncertainty with the small benefit observed. 
+Therefore, this device would likely be found NSE based on a lack of adequate performance data. 
+C. 
+Example 3: New Device with Higher Risk of Malfunction 
+Scenario: A manufacturer submitted a 510(k) for an external infusion pump that can be used in 
+an ambulatory, portable setting. The device manufacturer claimed SE to a standalone external 
+infusion pump which is used within the hospital setting for controlled intravenous (IV) delivery 
+of fluid and medications to patients. The new device utilizes a new, compact, portable platform 
+that may be used to deliver IV therapy to a patient who is in transit via ambulance or other 
+transport, such as a helicopter. Unlike the predicate device, the new device operates fully on a 
+battery and has a smaller, simpler user interface than the predicate device. Because the new
+
+---
+
+<!-- Page 22 -->
+Contains Nonbinding Recommendations 
+22 
+ 
+device is mobile, it can serve as a medical countermeasure to provide therapy to patients as part 
+of a public health response to a chemical, biological, radiological, nuclear, or high-yield 
+explosive (CBRNE) event.18 
+The user interface was evaluated and found to be adequate in achieving device performance 
+without additional risk. However, there was concern that the new device has a higher risk of 
+damage-related malfunction than the predicate device due to the ambulatory environment in 
+which it is used which could result in harm to the patient due to under-infusion, over-infusion, or 
+delay of therapy. To address the concern, the manufacturer performed bench studies to assess the 
+durability of the device when exposed to simulated, worst-case conditions in ambulatory 
+transport scenarios. This included, but was not limited to, humidity tests, temperature exposure 
+tests, mechanical forces (impact, vibration, etc.), fluid ingress, pressure altitude, and occlusions. 
+Bench testing results demonstrated an increased risk of calibration drift over repeated uses in 
+ambulatory environments. To mitigate this risk, the manufacturer changed the labeling to instruct 
+the user to perform frequent preventive maintenance. 
+Is a benefit-risk assessment recommended? 
+Yes. A benefit-risk assessment should be conducted to assess the increase in risk and increase in 
+benefit.  
+Benefits: Compared to the predicate device, the compact, portable platform of the new device 
+enables the health-care professional to extend intravenous (IV) therapy from the hospital care 
+setting into the mobile setting. It is important to consider that in the cramped environment of a 
+transport vehicle, such as an ambulance or helicopter, the compact profile of this new device’s 
+design enables the health-care professional to accommodate the critical care needs of the patient 
+which may include ventilator support, cardiac monitoring, and suction. In an emergency setting, 
+vehicles are often modified to accommodate the transport of multiple patients. In this scenario, 
+where the space for patients and health-care professionals is already constrained, the compact 
+profile of durable medical equipment becomes an essential characteristic. In addition, the device 
+can operate in various temperature and humidity conditions, as demonstrated by the bench data, 
+thereby increasing its utility as a medical countermeasure in response to CBRNE events. 
+Risks: The environments in which the new device is used introduce increased risks of damage to 
+the device while it is an ambulatory setting, such as in an ambulance or helicopter. The 
+manufacturer provided non-clinical testing demonstrating that calibration may drift over time 
+due to the mechanical forces that the device is exposed to while in ambulatory transport. This 
+calibration drift may cause the pump to deliver more or less fluid than the amount programmed 
+                                                 
+18 For information on FDA’s policies for authorizing the emergency use of medical products under section 564 of 
+the FD&C Act (21 U.S.C. § 360bbb-3), see the FDA guidance, “Emergency Use Authorization of Medical Products 
+and Related Authorities” (https://www.fda.gov/RegulatoryInformation/Guidances/ucm125127.htm). Section 564 of 
+the FD&C Act permits the FDA Commissioner to authorize the use of an unapproved medical product or an 
+unapproved use of an approved medical product during a declared emergency involving a heightened risk of attack 
+on the public or U.S. military forces, or a significant potential to affect national security, provided that certain 
+criteria are met.
+
+---
+
+<!-- Page 23 -->
+Contains Nonbinding Recommendations 
+23 
+ 
+into the device. Testing demonstrated that the calibration drifts occurs only after repeated 
+exposures to the ambulatory environment. 
+Additional Factors: 
+Benefit for the Health-Care Professional or Caregiver: The predicate device does not allow the 
+health-care professional to extend IV therapy into the mobile setting. This new device allows 
+health-care professionals to use the pump in the mobile setting to accommodate the critical care 
+needs of the patient, which may include ventilator support, cardiac monitoring, and suction in an 
+emergency environment. 
+Risk Mitigation: The manufacturer demonstrated that increased preventive maintenance will 
+reduce the risk to health associated with possible calibration drift. Therefore, the manufacturer 
+changed the labeling to instruct the user to perform preventive maintenance after 100 hours of 
+ambulatory use, which is more frequent than the predicate device’s instructions regarding 
+preventative maintenance. 
+SE Analysis: Unlike the predicate device the new device is fully battery-operated, compact, and 
+contains a simplified user interface so that it can be used in a mobile ambulatory setting. The 
+higher risk of damage-related malfunction in the ambulatory environment could result in under-
+infusion, over-infusion, or delay of therapy. The manufacturer provided non-clinical 
+performance data that confirmed the durability of the device in simulated, worst-case ambulatory 
+conditions. These data revealed that the device is prone to calibration drift over repeated use in 
+ambulatory settings. To mitigate this risk, the manufacturer changed the labeling to instruct the 
+user to perform more frequent preventative maintenance. The increased benefit of providing 
+therapy to patients in transit or to a mass number of patients in a public health emergency 
+outweighs the increased risk of calibration drift identified with the ambulatory platform for an 
+infusion pump. Because the increase in risk, mitigated by statements in the labeling, is 
+accompanied by an increase in benefit, the new device would likely have a comparable benefit-
+risk profile for the indicated patient population to the predicate device, and this device would 
+likely be found SE. 
+D. 
+Example 4: Material Differences Resulting in Different 
+Device Performance 
+Scenario: The manufacturer of a male condom composed of synthetic material claimed SE to a 
+natural rubber latex condom. The only technological difference between the two devices is the 
+material, i.e., synthetic versus natural rubber latex. There was concern that the new material may 
+not perform as well as the natural rubber latex material and could result in breakage or slippage 
+during sexual intercourse. These risks can be evaluated in a clinical study comparing the 
+performance of the synthetic condom to a cleared natural rubber latex condom (predicate 
+device). The new device manufacturer sought to demonstrate non-inferiority to natural rubber 
+latex condoms for a primary endpoint evaluating clinical failure (slippage and breakage) during 
+sexual intercourse. The manufacturer performed the clinical study, which met the primary 
+endpoint, but the slippage rate was slightly higher than natural rubber latex condoms.
+
+---
+
+<!-- Page 24 -->
+Contains Nonbinding Recommendations 
+24 
+ 
+Is a benefit-risk assessment recommended? 
+Yes. A benefit-risk assessment should be conducted to assess the increase in risk and increase in 
+benefit.  
+Benefits: This device provides another option for contraception and prophylaxis, which is 
+particularly beneficial for users and their partners that are allergic to natural rubber latex. 
+Risks: The new material may lead to increased slippage and breakage of the condom during 
+sexual intercourse, which increases the risk of undesired pregnancy and/or transmission of 
+sexually-transmitted infections (STIs). The clinical study showed an equivalent rate of clinical 
+failure for the synthetic condoms compared to natural rubber latex condoms; however, the 
+occurrence of slippage was slightly higher. 
+Additional Factors: 
+Risk Mitigation: To mitigate the risk associated with the slightly higher slippage rate revealed by 
+the clinical study, a warning was placed on all labeling that states that the device should be used 
+only if the user has an allergy to natural rubber latex. 
+SE Analysis: The new device provides another contraception and prophylaxis option, which is 
+particularly beneficial for patients and their partners who are allergic to natural rubber latex. 
+However, as compared to the predicate device, the new device may have the potential for 
+increased slippage during sexual intercourse, resulting in an increased risk of undesired 
+pregnancy and transmission of STIs. This risk between the new device and the predicate device 
+is partially mitigated by warnings on the labeling. Because the increase in risk, which may be 
+partially mitigated by warnings on the labeling, is accompanied by an increase in benefit, the 
+new device would likely be found SE. 
+E. 
+Example 5: Different Principle of Operation Used to 
+Achieve Same Therapeutic Outcome 
+Scenario: A device that exerts pressure on the mouth is used to treat obstructive sleep apnea in 
+adults. In comparison to the predicate device, which is the first-line treatment for this condition, 
+the new device has a different principle of operation to achieve the same intended therapeutic 
+outcome. There was concern that the new principle of operation could potentially partially close 
+the oral cavity, restricting the user to breathing through the nose. The bench data reveal a higher 
+level of pressure exerted by the new device as compared to the predicate device, but the 
+manufacturer provided bench performance data to show that the level of pressure would not hold 
+the mouth closed in the event of nasal obstruction. In addition, clinical data from a 28-day study 
+evaluating the ability of the device to reduce the apnea-hypopnea index (AHI) from baseline as 
+compared to the predicate device was provided. The study results showed that the new device 
+had a reduction in AHI, but less than that of the predicate device. The study also revealed that 
+patient compliance with the device was lower than the predicate due to the higher pressure 
+exerted by the device and had a higher complication rate compared to the predicate.
+
+---
+
+<!-- Page 25 -->
+Contains Nonbinding Recommendations 
+25 
+ 
+Is a benefit-risk assessment recommended? 
+No. A benefit-risk assessment is not recommended because there is increased risk and a 
+decreased benefit. FDA will generally determine the new device NSE to the predicate device 
+under these circumstances. 
+F. 
+Example 6: Comparative Testing Resulting in 
+Substantially Different Results 
+Scenario: The manufacturer of a new test for measurement of prothrombin time (PT) 
+international normalized ratio (INR) and coagulation factor levels produces a critical reagent 
+through recombinant DNA technology, rather than as a multicomponent extract of animal tissue. 
+For samples with prolonged PT, the PT results from the new test showed positive bias, compared 
+to results from the predicate device. INR results from the two devices were in better agreement 
+across the measurement range but included few samples with markedly elevated INR. Calibrated 
+assays for fibrinogen and coagulation factors II, V, VII and X showed strong correlation between 
+the new device and the predicate device, though times required for clot formation at low factor 
+levels were longer with the new device than with the predicate device. Precision and inter-
+day/inter-lot studies showed that results from the new device were more reproducible than are 
+results from the predicate device. Studies of known PT interferents, at physiologically relevant 
+concentrations, showed no unexpected effect on results from the new assay. Review of recent 
+postmarket medical device reports (MDRs) for PT devices showed that the only previously 
+cleared PT product incorporating a (different) recombinant DNA reagent is subject to 
+interference from an antibacterial drug that has not previously been associated with PT 
+interference. The mechanism of the interference (involving the recombinant reagent and another 
+chemically defined assay component) is well-defined. Bench studies showed no interference with 
+the new product by the antibacterial drug associated with the MDRs or by currently marketed 
+members of that antibacterial drug’s class. 
+Is a benefit-risk assessment recommended? 
+No. A benefit-risk assessment is not recommended because there is equivalent risk and an 
+increased benefit. FDA will generally determine the new device SE to the predicate device under 
+these circumstances.
+
+<!-- fulltext-end -->

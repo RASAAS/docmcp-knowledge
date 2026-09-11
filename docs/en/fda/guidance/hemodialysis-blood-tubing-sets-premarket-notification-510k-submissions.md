@@ -303,7 +303,7 @@ showing that all clinically relevant contact surfaces of the test device were as
 ·
 identification of the reference method used, e.g., United States Pharmacopoeia (USP), 
 ANSI/AAMI ST72 Bacterial endotoxins - Test methodologies, routine monitoring, and 
-alternatives to batch testing, USP-NF M16015_02_01&lt;86&gt; Bacterial Endotoxins Test 
+alternatives to batch testing, USP-NF M16015_02_01&lt;86> Bacterial Endotoxins Test 
 Using Recombinant Reagents, or relevant FDA guidance document such as “Pyrogen and 
 Endotoxins Testing: Questions and Answers.”
 E.

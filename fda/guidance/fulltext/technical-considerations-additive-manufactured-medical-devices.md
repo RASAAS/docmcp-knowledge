@@ -1,0 +1,1507 @@
+# Technical Considerations for Additive Manufactured Medical Devices: Guidance for Industry and Food and Drug Administration Staff
+
+**Source:** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/technical-considerations-additive-manufactured-medical-devices](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/technical-considerations-additive-manufactured-medical-devices)
+
+**Published:** 2017-12-05
+
+---
+
+<!-- Page 1 -->
+On February 2, 2024, FDA published the final rule to amend the Quality System (QS) regulation 
+in 21 CFR part 820 (89 FR 7496, effective February 2, 2026). The revised 21 CFR part 820 is 
+now titled the Quality Management System Regulation (QMSR). The QMSR harmonizes quality 
+management system requirements by incorporating by reference the international standard 
+specific for medical device quality management systems set by the International Organization for 
+Standardization (ISO), ISO 13485:2016. The FDA has determined that the requirements in ISO 
+13485 are, when taken in totality, substantially similar to the requirements of the QS regulation, 
+providing a similar level of assurance in a firm’s quality management system and ability to 
+consistently manufacture devices that are safe and effective and otherwise in compliance with 
+the Federal Food, Drug, and Cosmetic Act (FD&C Act).
+This guidance document was issued prior to the effective date of the final rule. FDA encourages 
+manufacturers to review the current QMSR to ensure compliance with the relevant regulatory 
+requirements.
+
+---
+
+<!-- Page 2 -->
+Technical Considerations for 
+Additive Manufactured Medical 
+Devices 
+Guidance for Industry and  
+Food and Drug Administration Staff  
+Document issued on December 5, 2017.  
+The draft of this document was issued on May 10, 2016. 
+For questions about this document regarding CDRH-regulated devices, contact the Division of 
+Applied Mechanics at (301) 796-2501, the Division of Orthopedic Devices at (301) 796-5650, 
+or Matthew Di Prima, Ph.D. at (301) 796-2507 or by email matthew.diprima@fda.hhs.gov.   
+For questions about this document regarding CBER-regulated devices, contact the Office of 
+Communication, Outreach, and Development (OCOD) at 1-800-835-4709 or 240-402-8010.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+U.S. Department of Health and Human 
+Services 
+Food and Drug Administration 
+Center for Devices and Radiological Health 
+Center for Biologics Evaluation and Research
+
+---
+
+<!-- Page 3 -->
+Contains Nonbinding Recommendations 
+ 
+ 
+Preface 
+Public Comment 
+You may submit electronic comments and suggestions at any time for Agency consideration to 
+http://www.regulations.gov .  Submit written comments to the Dockets Management Staff, 
+Food and Drug Administration, 5630 Fishers Lane, Room 1061, (HFA-305), Rockville, MD 
+20852.  Identify all comments with the docket number FDA-2016-D-1210. Comments may not 
+be acted upon by the Agency until the document is next revised or updated. 
+Additional Copies 
+CDRH 
+Additional copies are available from the Internet. You may also send an e-mail request to 
+CDRH-Guidance@fda.hhs.gov to receive a copy of the guidance.  Please use the document 
+number 1400002 to identify the guidance you are requesting. 
+CBER 
+Additional copies are available from the Center for Biologics Evaluation and Research 
+(CBER)), Office of Communication, Outreach, and Development (OCOD), 10903 New 
+Hampshire Ave., WO71, Room 3128, Silver Spring, MD 2090320903, or by calling 1-800-
+835-4709 or 240-402-8010, by email, ocod@fda.hhs.gov, or from the Internet at  
+http://www.fda.gov/BiologicsBloodVaccines/GuidanceComplianceRegulatoryInform
+ation/Guidances/default.htm.
+
+---
+
+<!-- Page 4 -->
+Contains Nonbinding Recommendations 
+ 
+Table of Contents 
+I. 
+Introduction and Scope..................................................................................................................................1
+II. 
+Background ....................................................................................................................................................3
+III. 
+Overview...................................................................................................................................................4
+IV.
+Definitions.................................................................................................................................................5
+V. 
+Design and Manufacturing Process Considerations .......................................................................................6
+A. 
+Overall Device Design ...............................................................................................................8
+B. 
+Patient-Matched Device Design.................................................................................................8
+C. 
+Software Workflow ..................................................................................................................11
+(1) 
+File Format Conversions ...................................................................................................11
+(2) 
+Digital Device Design to Physical Device ..........................................................................12
+(3) 
+Validating and Automating Software Processes ..............................................................15
+D. 
+Material Controls ......................................................................................................................15
+(1) 
+Starting Material ...............................................................................................................15
+(2) 
+Material Reuse..................................................................................................................16
+E. 
+Post-Processing ........................................................................................................................17
+F. 
+Process Validation and Acceptance Activities .........................................................................17
+(1) 
+Process Validation ............................................................................................................18
+(2) 
+Revalidation ......................................................................................................................19
+(3) 
+Acceptance Activities ........................................................................................................20
+(4) 
+Test Coupons ....................................................................................................................20
+G. 
+Quality Data .............................................................................................................................21
+VI. 
+Device Testing Considerations ................................................................................................................ 21
+A. 
+Device Description ...................................................................................................................22
+B. 
+Mechanical Testing ..................................................................................................................22
+C. 
+Dimensional Measurements .....................................................................................................23
+D. 
+Material Characterization .........................................................................................................24
+(1) 
+Material Chemistry ...........................................................................................................24
+(2) 
+Material Physical Properties .............................................................................................25
+E. 
+Removing Manufacturing Material Residues and Sterilization ................................................25
+F. 
+Biocompatibility .......................................................................................................................27
+VII. 
+Labeling ................................................................................................................................................... 27
+
+---
+
+<!-- Page 5 -->
+Contains Nonbinding Recommendations 
+ 
+ 
+ 
+1 
+Technical Considerations for 
+Additive Manufactured Medical 
+Devices 
+Guidance for Industry and  
+Food and Drug Administration Staff  
+ 
+This guidance represents the current thinking of the Food and Drug Administration (FDA 
+or Agency) on this topic.  It does not establish any rights for any person and is not binding 
+on FDA or the public.  You can use an alternative approach if it satisfies the requirements 
+of the applicable statutes and regulations.  To discuss an alternative approach, contact the 
+FDA staff or Office responsible for this guidance as listed on the title page.   
+I. 
+Introduction and Scope 
+FDA has developed this guidance to provide the Agency’s initial thinking on technical 
+considerations specific to devices using additive manufacturing, the broad category of 
+manufacturing encompassing 3-dimensional (3D) printing.  Additive manufacturing (AM) is 
+a process that builds an object by sequentially building 2-dimensional (2D) layers and joining 
+each to the layer below, allowing device manufacturers to rapidly produce alternative designs 
+without the need for retooling and to create complex devices built as a single piece.  Rapid 
+technological advancements and increased availability of AM fabrication equipment are 
+encouraging increased investment in the technology and its increased use by the medical 
+device industry.  The purpose of this guidance is to outline technical considerations 
+associated with AM processes, and recommendations for testing and characterization for 
+devices that include at least one additively manufactured component or additively fabricated 
+step. 
+This guidance is broadly organized into two topic areas: Design and Manufacturing 
+Considerations (Section V) and Device Testing Considerations (Section VI).  The Design and 
+Manufacturing Considerations section provides technical considerations that should be 
+addressed as part of fulfilling Quality System (QS) requirements for your device, as 
+determined by the regulatory classification of your device and/or regulation to which your 
+device is subject, if applicable.  While this guidance includes manufacturing considerations, 
+it is not intended to comprehensively address all considerations or regulatory requirements to 
+establish a quality system for the manufacturing of your device.  The Device Testing 
+Consideration section describes the type of information that should be provided in premarket
+
+---
+
+<!-- Page 6 -->
+Contains Nonbinding Recommendations 
+ 
+ 
+ 
+2 
+notification submissions (510(k)), premarket approval (PMA) applications, humanitarian 
+device exemption (HDE) applications, De Novo requests and investigational device 
+exemption (IDE) applications for an AM device.  The type of premarket submission that is 
+required for your AM device is determined by the regulatory classification of your device.  
+Questions regarding the regulatory status or requirements for specific devices, products, or 
+entities should be addressed to the appropriate review branches through the Division for 
+Industry and Consumer Education (DICE@fda.hhs.gov). 
+For devices manufactured using AM, the recommendations in this guidance supplement any 
+device-specific recommendations outlined in existing guidance documents or applicable 
+FDA-recognized consensus standards.  Point-of-care device manufacturing may raise 
+additional technical considerations that are not addressed in this document.  In addition, this 
+guidance does not address the use or incorporation of biological, cellular, or tissue-based 
+products in AM.  Biological, cellular or tissue-based products manufactured using AM 
+technology may necessitate additional regulatory and manufacturing process considerations 
+and/or different regulatory pathways.  Therefore, AM questions pertaining to biologics, cells 
+or tissue products should be directed to the Center for Biologics Evaluation and Research 
+(CBER).  Specific questions regarding jurisdiction over a combination product should be 
+directed to the Office of Combination Products (OCP) at 301-427-1934 or 
+combination@fda.gov.  
+This guidance is a leapfrog guidance, a type of guidance that serves as a mechanism by 
+which the Agency can share initial thoughts regarding emerging technologies that are likely 
+to be of public health importance early in product development.  This leapfrog guidance 
+represents the Agency's initial thinking and our recommendations may change as more 
+information becomes available.  The Agency encourages manufacturers to engage with the 
+Center for Devices and Radiological Health (CDRH) or CBER through the Pre-Submission 
+process to obtain more detailed feedback for Additively Manufactured medical devices.  For 
+more information on Pre-Submissions, please see “Requests for Feedback on Medical Device 
+Submissions: The Pre-Submission Program and Meetings with FDA Staff - Guidance for 
+Industry and Food and Drug Administration Staff.”1  
+For the current edition of the FDA-recognized standards referenced in this document, see the 
+FDA-Recognized Consensus Standards Database Website.2   
+FDA's guidance documents, including this guidance, do not establish legally enforceable 
+responsibilities.  Instead, guidances describe the Agency’s current thinking on a topic and 
+should be viewed only as recommendations, unless specific regulatory or statutory 
+requirements are cited.  The use of the word should in Agency guidance means that 
+something is suggested or recommended, but not required. 
+                                                          
+ 
+1http://www.fda.gov/downloads/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/UCM31
+1176.pdf  
+2 http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfStandards/search.cfm
+
+---
+
+<!-- Page 7 -->
+Contains Nonbinding Recommendations 
+3 
+II.
+Background
+AM is a rapidly growing technology that is frequently used for product research and 
+development in many industries, and for commercial production in some industries (e.g., 
+aerospace, medical devices).  While many AM technologies exist, at the time of publication 
+of this guidance, the most commonly used technologies in medical devices are powder bed 
+fusion, stereolithography, fused filament fabrication, and liquid-based extrusion.  Powder bed 
+fusion systems rely on an energy source (laser or electron beam) to selectively melt or sinter 
+a layer of powder, either a metal or polymer, which is then refreshed to create the next layer.  
+Stereolithography systems use a vat of liquid material that is selectively cured using light, 
+either through a laser or projection system, and create new layers by moving the build 
+surface.  Fused filament fabrication systems melt a solid filament at the point of deposition, 
+after which the material solidifies in place, and new layers are created by moving the build 
+surface away from the heat source.  Liquid-based extrusion systems eject a liquid, which then 
+solidifies (method of solidification could include light exposure, solvent evaporation, or other 
+chemical process), and new layers are created by moving the build platform away from the 
+deposition tip. 
+For medical devices, AM has the advantage of facilitating the creation of anatomically-
+matched devices and surgical instrumentation (called patient-matched devices) by using a 
+patient’s own medical imaging.  Another advantage is the ease in fabricating complex 
+geometric structures, allowing the creation of engineered porous structures, tortuous internal 
+channels, and internal support structures that would not be easily possible using traditional 
+(non-additive) manufacturing approaches.  However, the unique aspects of the AM process, 
+such as the layer-wise fabrication process, and relative lack of experience and clinical history 
+of with respect to devices manufactured using AM techniques, pose challenges in 
+determining optimal characterization and assessment methods for the final finished device, as 
+well as optimal process validation and acceptance methods for these devices.  The FDA held 
+a public workshop entitled “Additive Manufacturing of Medical Devices: An Interactive 
+Discussion on the Technical Considerations of 3D Printing” on October 8-9, 2014, to discuss 
+these challenges and obtain initial stakeholder input. 3 
+The workshop provided a forum for medical device manufacturers, AM companies, and 
+academia to discuss technical considerations for AM medical devices.  It focused on five 
+broad themes:  (1) materials; (2) design, printing, and post-printing validation; (3) printing 
+characteristics and parameters; (4) physical and mechanical assessment of final devices; and 
+(5) biological considerations of final devices, including cleaning, sterility, and 
+biocompatibility.  A variety of different types of materials can be used in additive 
+manufacturing.  Workshop participants noted that material control is an important aspect to 
+ensure successful fabrication, and that final device performance is tied to the material, 
+3 http://wayback.archive-
+it.org/7993/20170111083117/http://www.fda.gov/MedicalDevices/NewsEvents/WorkshopsConferences/ucm39
+7324.htm
+
+---
+
+<!-- Page 8 -->
+Contains Nonbinding Recommendations 
+ 
+ 
+ 
+4 
+machine, and post-printing processes.  The interaction between the material and machine was 
+also discussed in the process validation session, and the need for a robust process validation 
+and acceptance protocol appropriate to the risk profile of the final device was identified.  AM 
+design procedures were also discussed, and the importance of having a good understanding 
+of the processes and limits in the design phase was identified.  There was general agreement 
+that printing and process parameters should be captured and validated, which can include 
+individual machine validations.  The discussion on the physical and mechanical assessment 
+focused heavily on the validation of the process and the acceptance criteria for devices and 
+components after post-processing.  The discussion on the biological considerations revealed 
+that there is a concern across the community regarding how to achieve adequate cleaning, 
+sterility, and biocompatibility of an AM device.  Specifically, the challenge of assessing and 
+verifying these issues in porous or internally complex devices was discussed.  The feedback 
+obtained at the workshop served as the basis for this guidance. 
+III. Overview 
+The information, characterization, and testing necessary for a device made through AM may 
+depend on a variety of factors, including, but not limited to, whether it is an implant, an 
+instrument, single-use versus reusable, load-bearing, and/or available in pre-specified 
+standard sizes or is patient-matched.  This guidance outlines technical aspects of an AM 
+device that should be considered through the phases of design development, production 
+process, process validation, semi-finished and final finished device testing.  Not all 
+considerations described will be applicable to every device, given the variety of AM 
+technologies, materials, and devices made with additive manufacturing.  You should 
+determine and justify which considerations are appropriate for your device based on the 
+material and technology being used and the intended use of the device.  For example, a 
+device made via powder bed fusion from titanium would not need to address liquid material 
+or polymer considerations.   
+Similarly, not all considerations are expected to be addressed in premarket submissions of 
+AM devices.  It is anticipated that AM devices will generally follow the same regulatory 
+requirements and submission expectations as the classification and/or regulation to which a 
+non-AM device of the same type is subject.  In rare cases, AM may raise different questions 
+of safety and/or effectiveness.  In addition, this guidance only addresses manufacturing 
+considerations related to the AM process.  If it is unclear what technical information should 
+be provided in a premarket submission for an AM device, we strongly encourage 
+manufacturers to engage with CDRH or CBER through the Pre-Submission process to obtain 
+more detailed feedback.  For more information on Pre-Submissions, please see “Requests for 
+Feedback on Medical Device Submissions: The Pre-Submission Program and Meetings with 
+FDA Staff - Guidance for Industry and Food and Drug Administration Staff.”4   
+                                                          
+ 
+4http://www.fda.gov/downloads/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/UCM31
+1176.pdf
+
+---
+
+<!-- Page 9 -->
+Contains Nonbinding Recommendations 
+ 
+ 
+ 
+5 
+The overall AM process and the related sections in this guidance are shown in the flow chart 
+below (Figure 1).  The first step is the design process, which can include a standard design 
+with discrete pre-specified sizes and models, or a patient-matched device designed from a 
+patient’s own medical images.  Once the device design is converted to a digital file, the 
+software workflow phase begins, and that file is further processed to prepare it for printing. 
+Printing parameters are optimized, and the build file is converted into a machine-ready 
+format.  Concurrently with this step, material controls are established for materials used in 
+the printing of the device.  After printing is complete, post-processing of the built device or 
+component (e.g., cleaning, annealing, post-printing machining, sterilization, packing and 
+labeling) takes place.  After post-processing, the final finished device is ready for testing and 
+characterization.  Your quality system should be applied across all of these processes. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1: Flow chart of the AM process 
+IV. Definitions 
+The following definitions apply to this guidance and may not be applicable to any other 
+documents issued by the FDA.   
+AM Machine (machine) – “a portion of the additive manufacturing pipeline including 
+hardware, machine control software, required set-up software and peripheral accessories 
+necessary to complete a build cycle for producing parts” 5   
+Build Cycle – “single process cycle in which one or more components are built up in layers in 
+the process chamber of the additive manufacturing system.”6  
+Build Preparation Software – the software used to convert the digital design to a format 
+that can be used to build a device or component through an AM process.  This may include 
+multiple software components. 
+Design Manipulation Software – the computer program that allows a medical device design 
+to be modified for specific circumstances (e.g., patient-matching). This may include multiple 
+software components. 
+                                                          
+ 
+5ISO/ASTM 52900 Additive manufacturing — General principles — Terminology 
+6ISO/ASTM 52900 Additive manufacturing — General principles — Terminology 
+Design 
+Software Workflow 
+Material Control 
+Post Processing 
+Final Testing 
+Considerations 
+Build
+
+---
+
+<!-- Page 10 -->
+Contains Nonbinding Recommendations 
+ 
+ 
+ 
+6 
+Lot or Batch – “one or more components or finished devices that consist of a single type, 
+model, class, size, composition, or software version that are manufactured under essentially 
+the same conditions and that are intended to have uniform characteristics and quality within 
+specified limits.”7 
+Quality – “the totality of features and characteristics that bear on the ability of a device to 
+satisfy fitness for use, including safety and performance.”8  
+V. Design and Manufacturing Process Considerations 
+This section highlights technical considerations that should be addressed as part of fulfilling 
+Quality System (QS) requirements for a regulated device made in whole or in part by AM.   
+However, this guidance is not intended to comprehensively address all regulatory 
+requirements for a quality system.  For class II and class III devices and select class I 
+devices, manufacturers must establish and maintain procedures to control the design of the 
+device in order to ensure that specified design requirements are met per 21 CFR 820.30 
+Design Controls.  Manufacturers must also establish and maintain procedures for monitoring 
+and control of process parameters for validated processes to ensure that the specified 
+requirements continue to be met.9  Where the results of a process cannot be fully verified by 
+subsequent inspection and test, the process must be validated with a high degree of assurance 
+and approved according to established procedures.10  FDA interprets these regulations to 
+require manufacturers to establish procedures including validation of the manufacturing 
+process of AM devices to ensure that the device can perform as intended.  Please note that 
+exemption from the requirement to submit a premarket notification (510(k)) does not mean a 
+device is exempt from compliance with QS requirements.   
+There are some devices that are specifically exempted by regulation from most QS 
+requirements.  Manufacturers should refer to applicable regulations for their specific device 
+type to determine what QS requirements apply.  In this section, the use of the terms 
+“document,” “describe,” and “identify” refers to documentation requirements according to 
+the QS regulation and premarket submission requirements for manufacturing information 
+determined by the regulation for a specific device type or classification, regardless of the 
+method of manufacture.  Not all considerations described will be applicable to an individual 
+device, given the variety of AM technologies available.  Similarly, a premarket submission 
+for a specific device may not need to address all considerations.  It is anticipated that AM 
+devices will generally follow the same regulatory requirements as the classification and/or 
+regulation to which a non-AM device of the same type is subject. 
+                                                          
+ 
+721 CFR 820.3(m) 
+821 CFR 820.3(s) 
+921 CFR 820.75(b) 
+1021 CFR 820.75(a)
+
+---
+
+<!-- Page 11 -->
+Contains Nonbinding Recommendations 
+ 
+ 
+ 
+7 
+There are several AM technologies and different combinations of processing steps that can 
+be used with each technology to build a device.  Therefore, it is important to clearly identify 
+each step in the printing process.  A production flow diagram that identifies the steps 
+involved in the manufacturing of the device, from the initial device design to the post-
+processing of the final device, can help ensure the elements of product quality are addressed 
+during production.  In addition, a high-level summary of each critical manufacturing process 
+step may be helpful in documenting the AM process used.  The characterization of each 
+process step should include, but need not be limited to, a description of the process, and 
+identification of the process parameters and output specifications.  Since processes that 
+optimize one design parameter may influence another, information on processing steps 
+should demonstrate your understanding of these trade-offs and how they affect design 
+outputs that are essential to the proper functioning of the device.  Additionally, the 
+cumulative effects of prior processes on the final finished device or component should be 
+incorporated into the development of each process step and documented.  The effects of the 
+different steps in the AM processes can be seen in final device testing; however, determining 
+the root cause of failures from manufacturing defects can be very difficult without a clear 
+understanding of each step.  For example, in a powder bed fusion machine, the ratio of 
+reused to virgin powder can affect melting properties, which affects the energy needed to 
+create consistent bonding between layers, which in turn affects final mechanical properties.  
+Similarly, risks identified for each step of the manufacturing process, as well as mitigations 
+of these risks, should be documented.  Each AM process may have different critical steps and 
+identified risks.  It is important to use all reasonably obtainable knowledge about your 
+specific machine’s capabilities to ensure the manufacturing process outputs meet defined 
+requirements.11  Quantitative knowledge of the machine’s capabilities and limitations can be 
+gained through test builds, worst-case builds, or process validation (See Section V.F Process 
+Validation and Acceptance Activities and Section VI.B Mechanical Testing for more 
+information).   
+As with traditional manufacturing methods, design requirements drive the processes that can 
+be used to reliably produce the device.  It is therefore important to clearly identify key design 
+parameters for your device, including, but not limited to, size range and available design or 
+configuration options (e.g., range of angles between the trunnion and stem of the femoral 
+component of a hip arthroplasty device).   
+While this section includes manufacturing considerations, it is not intended to 
+comprehensively address all considerations or regulatory requirements for establishing a 
+quality system for the manufacturing of your device.  Aspects of the “Global Harmonization 
+Task Force Process Validation Guidance”12 may be helpful in developing process validation 
+procedures.  Additional information on design controls can be found in the “Design Control 
+                                                          
+ 
+11ISO 14971 Medical devices - Applications of risk management to medical devices 
+12 http://www.imdrf.org/docs/ghtf/final/sg3/technical-docs/ghtf-sg3-n99-10-2004-qms-process-guidance-
+04010.pdf
+
+---
+
+<!-- Page 12 -->
+Contains Nonbinding Recommendations 
+8 
+Guidance for Medical Device Manufacturers.”13  For general questions regarding the Quality 
+System regulation, contact the Division of Industry and Consumer Education (DICE), Office 
+of Communication and Education, at 1-800-638-2041 or 301-796-7100 or 
+DICE@fda.hhs.gov. 
+A. 
+Overall Device Design 
+The innovative potential of AM may introduce variability into the manufacturing 
+process that would not be present when using other manufacturing techniques.  
+Specifically, we recommend that you compare the desired feature sizes of your final 
+finished device to the minimum possible feature size of your AM technique and the 
+manufacturing tolerances of the individual machine, given the build parameters and 
+conditions under which the final device is expected to be made.  This is to ensure that 
+devices and components of the desired dimensional specifications can be reliably 
+built using the chosen additive technology.  Dimensional specifications for the final 
+device or component, as well as manufacturing tolerances of the machine, should be 
+documented.  Pixelation of features, where smooth surfaces become stepped, can lead 
+to rougher surface finishes than expected. Surface finish requirements should be 
+outlined in the product specification. 
+B. 
+Patient-Matched Device Design 
+Patient-matched devices (PMD) can be produced in many ways, some additive and 
+some traditional.  AM is particularly suited to making PMD; consequently, this 
+guidance attempts to address some of the considerations relevant to AM.  However, it 
+does not provide an exhaustive list of considerations for a general patient-matching 
+process.  All AM devices, including PMD, will share the considerations described in 
+Section V.A.  Some PMD are based on a standard-sized template model that is 
+matched to a patient’s anatomy.  With or without a standard-sized template, PMD 
+may be produced within a defined design or performance envelope.  This 
+performance envelope is determined before patient-matching can be initiated and 
+describes the minimum and maximum dimensions, mechanical performance limits, 
+and other clinically relevant factors.  Patient-matching can be accomplished by 
+techniques such as scaling of the device using one or more anatomic references, or by 
+using the full anatomic features from patient imaging.  Note that while patient-
+matched or patient-specific devices are sometimes colloquially referred to as 
+“customized” devices, they are not custom devices meeting the FD&C Act custom 
+device exemption requirements unless they comply with all of the criteria of section 
+520(b).  Most PMD will fall within the existing regulatory pathway for that particular 
+13 http://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/ucm070627.htm
+
+---
+
+<!-- Page 13 -->
+Contains Nonbinding Recommendations 
+9 
+device type.  For further information on custom device exemptions, please refer to 
+the Custom Device Exemptions Guidance.14   
+Patient-matched device designs may be modified either directly by clinical staff, the 
+device manufacturer, or a third party in response to clinical inputs.  These inputs may 
+be acquired from individual measurements, clinical assessments, patient imaging, or a 
+combination thereof.  Alterations to the final device, and the methods used to make 
+the alterations, may have direct consequences to the patient.  Therefore, you should 
+clearly identify clinically relevant design parameters, the pre-determined range 
+(min/max) for these parameters, and which of these parameters can be modified for 
+patient-matching.  
+Considerations for standard-sized devices should be applied to PMD as well.  In 
+addition, for patient-matched AM devices, we recommend that you address the 
+following, if applicable: 
+(1) 
+Effects of imaging 
+Many AM devices and components incorporate medical imaging data.  Every 
+medical device will not need the same level of anatomic matching or imaging 
+accuracy for optimal device performance.  Several factors may affect the fit of 
+AM devices that use patient imaging to precisely control their size or shape, 
+including, but not limited to: 
+·
+the minimum image feature quality and resolution used for matching,
+·
+any smoothing or image processing algorithms that may alter the
+dimensions of the final device when compared to the reference anatomy,
+·
+the rigidity of the anatomic structures being imaged, and
+·
+the clarity of anatomic landmarks used to match the device to the patient’s
+anatomy.
+If the device relies on anatomic features that are not accurately imaged or are not 
+consistent over time, then the final device may not fit the patient.  However, small 
+changes in size or geometry may be difficult to identify during visual inspection 
+of the device or through evaluation of patient imaging, and the mismatch may 
+only be identified during device use.  Process validation (see Section V.FI.A(1)) 
+is especially important to prevent these situations.  In addition, for devices 
+intended to be fitted to or matched to soft tissues and non-rigid structures, it is 
+important to note the range of changes that may be experienced by the soft tissue 
+at the target location, such as deformation, when compared to the reference 
+image. You should employ a risk-based approach, taking into consideration 
+14http://www.fda.gov/downloads/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/UCM41
+5799.pdf
+
+---
+
+<!-- Page 14 -->
+Contains Nonbinding Recommendations 
+ 
+ 
+ 
+10
+intended use of the device and design methodologies, to assess the scenarios that 
+may yield a worst-case match. 
+Many implantable devices and their patient-matched accessories depend on the 
+patient’s anatomy to be clinically accurate representations of the recorded images 
+in order for the device to function as intended.  Specifically, when the device is 
+intended to match a patient’s anatomy, and that anatomy can change over time 
+(e.g., with disease progression), the time that can elapse between when the patient 
+is imaged and when the final device is used may need to be reflected in the 
+expiration date of the device (see Section VII Labeling).  You should consider 
+such potential time constraints associated with producing an AM device based on 
+the intended use of your device. 
+(2) 
+Interacting with design models 
+Patient-matched devices are often made by altering the features of a standard-
+sized device for each patient within a pre-determined range of device designs and 
+size limits.  This is typically accomplished through the use of anatomical 
+matching or design manipulation software that may be developed specifically for 
+the AM device, or through other third party software.  Patient-matching may also 
+be accomplished by manual methods using specific measurements on radiographs 
+or key anatomic landmark measurements.  Any software or procedure used to 
+make modifications to the device design based on clinical input should include 
+internal checks that prevent the operator from exceeding the pre-established 
+device specifications documented in the device master record.  We recommend 
+that the design manipulation software or procedure used to make modifications to 
+the device design identify the iteration of the design being changed by the 
+operator.  You should also identify all medical devices and accessories that the 
+design manipulation software is validated to work with.   
+(3) 
+Complex design files 
+Patient-matched devices that follow the patient anatomy precisely are especially 
+vulnerable to errors in file conversion because anatomic curves are typically 
+geometrically or mathematically complex, which can create difficulties when 
+calculating conversions.  Additionally, for patient-matched devices, all of the file 
+conversion steps are typically performed every time a device is built, whereas for 
+a standard-sized device, most of the file conversion steps would be performed 
+once during the design phase.  We recommend following the considerations in 
+Section V.C.I.A(1) on maintaining data integrity throughout file conversions. 
+(4) 
+Cybersecurity and Personally Identifiable Information 
+Proper management and care of personally identifiable information (PII) and 
+protected health information (PHI) is essential in any clinical application.  For 
+more information on protecting PII and PHI, please refer to the HHS Guidance on
+
+---
+
+<!-- Page 15 -->
+Contains Nonbinding Recommendations 
+ 
+ 
+ 
+11
+Significant Aspects of the Privacy Rule.15 We also recommend that device 
+designers who include interactive steps in their patient matching workflow be 
+familiar with implementing the FDA's Guidance on the “Content of Premarket 
+Submissions for Management of Cybersecurity in Medical Devices”16 It is beyond 
+the scope of this document to provide a full discussion of how these aspects are 
+integrated into patient matching.   
+C. Software Workflow 
+The following sections highlight considerations that are especially important in the 
+AM process. 
+(1) 
+File Format Conversions  
+AM typically involves interaction between several software packages, often from 
+different manufacturers, which requires files to be compatible across the different 
+software applications used.  Patient images, design manipulation software for 
+patient-matching, digital point clouds and meshes, and machine-readable files 
+each have their own standards, coordinate systems, and default parameters.  
+Additionally, each software package has different ways of interpreting those file 
+specifications.  Errors in file conversion can negatively impact final finished 
+device and component properties, such as dimensions and geometry.  Therefore, 
+we recommend that you verify the critical attributes and performance criteria of 
+your final products as part of the software workflow validation to ensure expected 
+performance, especially for patient-matched devices.  Factors that may cause 
+unexpected conversion failures, such as changes to the software used, may trigger 
+the need for revalidation (see Section V.F.I.A(2) Revalidation). 
+When possible, final device files for printing should be maintained and archived 
+or referenced in robust, standardized formats that are able to store AM-specific 
+information so that the information can be retrieved when needed.  For instance, 
+one option is the Additive Manufacturing File format (AMF) described in the 
+ISO/ASTM 52915 Standard specification for additive manufacturing file format 
+(AMF).  This, or a comparable file format or document control system, should 
+include material information and the location of objects in a build volume and 
+have high geometric fidelity (e.g., curved patches). 
+                                                          
+ 
+15https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/significant-aspects/index.html 
+16http://www.fda.gov/downloads/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/UCM35
+6190.pdf
+
+---
+
+<!-- Page 16 -->
+Contains Nonbinding Recommendations 
+ 
+ 
+ 
+12
+(2) 
+Digital Device Design to Physical Device  
+When a digital device design is finalized, additional preparatory processes are 
+needed before the device can be additively manufactured.  This is commonly 
+accomplished using build preparation software.  These processes can be generally 
+divided into four steps: 1) build volume placement, 2) addition of support 
+material, 3) slicing, and 4) creating build paths. 
+i. 
+Build Volume Placement 
+Placement, orientation, and packing density of devices or components within 
+the build volume may be integral to individual device or component quality.  
+The distance between each device or component, and whether they are 
+identical or different designs, can affect the material properties, surface finish, 
+and ease of post-processing.  Build orientation of each device or component 
+can also impact its functional performance by affecting the anisotropic 
+properties of the device or component.  Similarly, many machines have areas 
+of the build volume where they function optimally and areas where they do 
+not.  For example, printing may be sub-optimal in the regions near the outer 
+edge of the build volume and optimal at the center.  The affected region may 
+be different for every machine, even between machines of the same model.   
+Operation Qualification (OQ) of the printing process should include, but not 
+be limited to, challenging the build volume placement to establish control 
+limits which result in product that meets all predetermined requirements.  
+These control limits may include acceptable placement regions, part 
+proximity, and other parametric considerations.  Software tools are available 
+to trace how devices are placed and oriented.  Process validation based on the 
+risk profile of the device is preferable to a one-size-fits-all approach.  
+ii. 
+Addition of Support Material 
+Some types of AM require temporary support structures for certain design 
+features during printing due to the layer-by-layer printing process.  The 
+location, type, and number of supports can affect the geometric accuracy and 
+mechanical properties of the final finished device or component.  Each AM 
+technology has different needs for support material use to ensure the 
+successful printing of a device.  For example, the critical overhang angle may 
+be different for a stereolithography machine, an extrusion-based machine, and 
+a metal powder bed fusion machine.  Automated algorithms are often used to 
+choose the location and number of supports.  However, geometric 
+complexities or printing limits often necessitate further manual intervention.  
+Therefore, if your AM process requires support material, we recommend that 
+you analyze the geometry and other requirements that could be affected by 
+adding supports.  Some common structures that may need support are:
+
+---
+
+<!-- Page 17 -->
+Contains Nonbinding Recommendations 
+13
+·
+overhangs,
+·
+high aspect ratio features that protrude from the main body of the
+device or component,
+·
+internal features (e.g., voids, channels), and
+·
+thin features prone to warping.
+Support material can be removed physically or by chemical means.  Removal 
+of support material may cause surface marks or leave residues on or in the 
+device.  Manufacturing material removal processes (cleaning) should ensure 
+that residues are removed to the level where they do not impact the safety or 
+effectiveness of the product (see Section VI.E Removing Manufacturing 
+Material Residues and Sterilization).  The complete description of the support 
+material geometry and the removal process method should be included in the 
+Device Master Record (DMR).  
+iii.
+Slicing
+Most AM techniques use a layer-by-layer printing process to fabricate 
+components.  This necessitates slicing the models into layers.  Nominal layer 
+thickness is determined by the machine specification and software 
+capabilities, and an evaluation of the raw material.  However, technical 
+characteristics of the machine and physical properties of the material may 
+influence the achievable layer thickness.  The surface texture of a device or 
+component, bonding between and curing of each layer, and sensitivity to 
+power fluctuations can all be affected by the choice of layer thickness.  For 
+example, the depth of material cured in a stereolithography system is 
+primarily controlled by the energy density and additives in the liquid polymer.  
+If the energy density is changed to reduce layer thickness and the additives are 
+not adjusted properly, the layers may not cure or bond together completely.  
+For systems where layers are created by melting the material, the layer 
+thickness can similarly influence the energy needed to create a uniform melt 
+pool to enable bonding to the layer below.   
+Your choice of layer thickness should be documented, and reflect a balance 
+between the above-mentioned effects, accuracy, quality, and printing speed. 
+iv.
+Build Paths
+The build path, the path traced by the energy or material delivery system (e.g., 
+laser or extruder), can impact the quality of the final finished device or 
+component.  For example, if the delivery system sweeps from left to right on 
+the build volume, then makes the next pass from right to left, one side of the 
+device or component has more time to cool or harden.  Similarly, the space 
+between each line of the build path and the path speed will change the amount 
+of melting and re-melting that the boundaries of each line of material will 
+experience.  In addition, the build path may result in an orientation or
+
+---
+
+<!-- Page 18 -->
+Contains Nonbinding Recommendations 
+ 
+ 
+ 
+14
+anisotropy in the device or component.  We recommend that you assess 
+whether differences in the build path significantly affect the performance of 
+each component or device.  If so, it is important to maintain consistency of the 
+build path between identical devices and components.  If more than one build 
+path is used, each build path should be evaluated and documented. 
+Some machines may allow portions of a device or component to have 
+different energy delivery or build path specifications that do not change the 
+geometry of the component or device but may influence the final device 
+performance.  Other machines may allow the fill density of a component to be 
+specified separately from patterns in the component’s geometry.  For example, 
+if the geometry shows a solid wall, it is possible to fill that solid space with a 
+sparse honeycomb instead.  These voids are easily formed with an extrusion-
+based machine.  The fill density and fill pattern of parts that are not fully 
+dense (i.e., not a solid) should be documented.  If a non-solid fill density is 
+used, we recommend that you identify whether internal voids are externally 
+accessible or if they are sealed.  If the voids are sealed but may be 
+compromised during the course of the intended clinical use, you should 
+identify the fluid or gas that fills the voids.  The risk associated with patient 
+exposure to the materials in the voids should also be assessed. 
+v. 
+Machine Parameters and Environmental Conditions 
+Each AM technology and machine model has a unique set of parameters and 
+settings that can be modified by the device manufacturer and those that are 
+configured at the time of calibration (typically by the machine manufacturer).  
+Maintaining proper calibration and performing preventative maintenance have 
+been identified as key factors to achieve low rejection rates of devices and 
+components from an individual machine.   
+Environmental conditions within the build volume can also affect quality of 
+the part.  For machines without a self-contained, well-controlled build 
+volume, the ambient temperature, atmospheric composition and flow patterns 
+can impact solidification/polymerization rate, layer bonding, and the final 
+mechanical properties of the component.  Therefore, it is critical to establish 
+and maintain procedures to adequately control environmental conditions 
+within the build volume. 
+Optimal settings and parameters for a single model of a machine can vary 
+greatly when printing different devices or components.  Furthermore, optimal 
+settings and parameters can vary between machines of the same model even 
+when printing the same devices or components.  Some parameters that can be 
+modified by the device manufacturer and may have a significant impact on the 
+device or component quality include, but are not limited to:
+
+---
+
+<!-- Page 19 -->
+Contains Nonbinding Recommendations 
+ 
+ 
+ 
+15
+· instantaneous power of the energy delivery system (e.g., temperature 
+gradients of deposition nozzle for fused filament systems, energy 
+density of laser or electron beam for powder bed fusion or 
+stereolithography), 
+· build speed or beam speed, 
+· build path, 
+· total energy density, and 
+· focal point or nozzle diameter. 
+Machine parameters should be documented, and the machine should be 
+qualified for use in its installation location.  Aspects of the “Global 
+Harmonization Task Force Process Validation Guidance”17 also address 
+Installation Qualification. 
+(3) 
+Validating and Automating Software Processes  
+If you use a workflow that automates one or more software steps, you should refer 
+to FDA Guidance on “General Principles of Software Validation18. For more 
+information on validating the manufacturing process, please refer to Section V.F 
+Validation and Acceptance Activities. 
+D. Material Controls 
+(1) 
+Starting Material 
+In the AM process, the starting material may undergo significant physical and/or 
+chemical changes.  As such, the starting material can have a significant effect on 
+the success of the build cycle, as well as on the properties of the final finished 
+device.  Therefore, to ensure the consistency of the incoming raw material and the 
+final product, the following information regarding each starting material used, as 
+well as any processing aids, additives, and cross-linkers used, should be 
+documented: 
+· the identity of the material or chemical by common name, chemical name,  
+trade names, Chemical Abstracts Service (CAS) number, or recognized 
+consensus material standard, 
+· material supplier, 
+                                                          
+ 
+17http://www.imdrf.org/docs/ghtf/final/sg3/technical-docs/ghtf-sg3-n99-10-2004-qms-process-guidance-
+04010.pdf  
+18http://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/ucm085281.htm
+
+---
+
+<!-- Page 20 -->
+Contains Nonbinding Recommendations 
+16
+·
+incoming material specifications and material certificates of analysis
+(COAs), with the test methods used for the COAs.  Applicable materials
+standards and test methods (e.g. ISO or ASTM) should be referenced.
+The specifications for incoming materials and test methods should be based on the 
+AM technology used (e.g., material specifications will be different for powder 
+based vs. stereolithography machines), the intended use of the final medical 
+product, and the information available.  The specifications of the incoming 
+materials (e.g., powders, liquid monomer/polymer systems) may be different from 
+the properties of the finished devices. 
+Examples of specifications for commonly used material types and machine 
+technologies may include, but are not limited to: 
+·
+if the material is a solid:  particle size and distribution and relevant
+rheological performance for powders, or filament diameter and diametric
+tolerances for filaments,
+·
+if the material is a fluid: viscosity or viscoelasticity, and pot life,
+·
+if the material is a polymer or monomer mixture: composition, purity,
+water content, molecular formula, chemical structure, molecular weight, 
+molecular weight distribution, glass transition temperatures, melting and 
+crystallization point temperatures, purity information (e.g., purity of 
+polymer/monomer and identification and quantity of relevant impurities, 
+both inorganic and organic, as applicable),
+·
+if the material is metal, metal alloy, or ceramic: chemical composition and
+purity,
+·
+·
+if materials of animal origin are used, refer to:  “Medical Devices
+Containing Materials Derived from Animal Sources (Except for In Vitro
+Diagnostic Devices,”19 and
+·
+if the material is a composite, the mix ratio with specifications provided
+for each component.
+In addition, when any material specification is changed, the effect on the build 
+process and the final device should be well-understood and documented. 
+(2) 
+Material Reuse 
+Some AM approaches (e.g., powder bed fusion, stereolithography) allow efficient 
+use of raw material by reusing the material that is not incorporated into the device 
+19http://www.fda.gov/downloads/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/ucm073
+816.pdf
+
+---
+
+<!-- Page 21 -->
+Contains Nonbinding Recommendations 
+ 
+ 
+ 
+17
+(e.g., unsintered powder or uncured resin).  However, the reused material could be 
+exposed to conditions (e.g., heat, oxygen, humidity, ultraviolet energy) that may 
+alter it from the virgin state.  Therefore, we recommend that you describe the 
+material reuse process, which may include, but not be limited to, a description of 
+processes such as filtering reused material, a limit on the percent of reused 
+material, or monitoring for changes in chemistry, oxygen, or water content.  We 
+also recommend that you document evidence or provide a rationale that material 
+reuse does not adversely affect the final device.  This may include an assessment 
+of the reuse protocol by conducting studies on the effect of material reuse on the 
+properties of the final finished device (see Section V.F.I.A(1) Validation).   
+ 
+E. Post-Processing 
+Final device performance and material properties can be affected by post-processing 
+steps of AM (i.e., manufacturing steps occurring after the printing process).  These 
+steps could include removing manufacturing residues from the device, heat treatments 
+of the device to relieve residual stress, and final machining.  All post-processing steps 
+should be documented and include a discussion of the effects of post-processing on 
+the materials used and the final device.  As stated previously, manufacturers must 
+establish and maintain procedures for monitoring and control of process parameters 
+for validated processes to ensure that the specified requirements continue to be met.20  
+The broad utility and ability to make multiple devices at once through AM means that 
+some post-processing may be documented for a design, a device, or a build.  We 
+recommend that you identify any potentially detrimental effects of post-processing 
+and describe mitigations implemented.  For example, one common heat treatment 
+method for metal devices is Hot Isostatic Pressing (HIP).  This process can reduce 
+residual porosity and increase fatigue life but has also been shown to reduce the 
+modulus and yield strength of the material.  Therefore, care should be taken to ensure 
+both the AM and HIP processes maintain device performance.   
+Devices that are intended for applications where fatigue is a factor may require 
+minimum surface finish or roughness specification to reduce the chance of failure.  
+The desired surface roughness can often be achieved through various post-processing 
+steps (e.g., mechanical polishing); however, hard-to-reach spaces may remain in the 
+as-built state.  These spaces should be assessed for their effects on mechanical 
+performance (including fatigue) of the device or component.  See Section VI for 
+Device Testing Considerations. 
+ 
+F. Process Validation and Acceptance Activities 
+                                                          
+ 
+2021 CFR 820.75(b)
+
+---
+
+<!-- Page 22 -->
+Contains Nonbinding Recommendations 
+ 
+ 
+ 
+18
+(1) 
+Process Validation 
+Device quality, such as feature geometry, overall dimensions, material 
+characteristics, and mechanical properties, are impacted by AM process 
+parameters, process steps, and raw material properties, as described in the sections 
+above.  In addition, for an identical device or component, quality may vary when 
+built using different AM machines, even when the same machine model, 
+parameters, process steps, and raw materials are used.  Therefore, knowledge of 
+how the variability of each input parameter and processing step affects the final 
+finished device or component is critical to ensuring part quality.  Where the 
+results of a process cannot be fully verified by subsequent inspection and testing, 
+the process must be validated with a high degree of assurance and approved 
+according to established procedures.21 In addition all documentation must 
+conform to the existing guidelines in the Quality System regulation for device 
+validation.  Process validation must be performed to ensure and maintain quality 
+for all devices and components built in a single build cycle, between build cycles, 
+and between machines, where the results of a process (i.e., output specifications) 
+cannot be fully verified by subsequent inspection and test.22  Software also must 
+be validated for its intended use according to an established protocol23 (i.e., 
+software workflow). 
+For validated processes, the monitoring and control methods and data must be 
+documented.24  This section provides some examples of methods for ensuring the 
+consistency of quality. The list is meant to be representational of the type of 
+factors to consider when performing process validation.  It can be used as a 
+reference point but is not exhaustive.  The following examples may have the 
+greatest applicability to powder bed fusion technologies, which comprise a large 
+portion of AM medical devices.  Methods could include: 
+· in-process monitoring of parameters such as: 
+o temperature at the beam focus, 
+o melt pool data, 
+o build-space environmental conditions (e.g., temperature, pressure, 
+humidity), 
+o power of the energy delivery system (e.g., laser, electron beam, 
+extruder), and 
+o status of mechanical elements of the printing system (e.g., recoater, 
+gantry) 
+In-process monitoring may also be helpful for processes that are not 
+validated, but is not required. 
+                                                          
+ 
+2121 CFR 820.75(a) 
+22See 21 CFR 820.75(a) 
+23See21 CFR 820.70(i), and “General Principles of Software Validation; Final Guidance for Industry and Staff.” 
+24See 21 CFR 820.75(b)(2)
+
+---
+
+<!-- Page 23 -->
+Contains Nonbinding Recommendations 
+ 
+ 
+ 
+19
+· manual or automated visual inspection with defined acceptance criteria, 
+· non-destructive evaluation (see Section V.E.3 Verification), and 
+· test coupon evaluation (see Section V.E.4 Test Coupons). 
+Not every AM system will be able to perform all these measurements, either 
+because the process does not use them or because of technological limitations.  
+Test methods used for process monitoring and control must be validated.25  For 
+example, analysis should be conducted to confirm that test coupons used are 
+representative of the final finished device or component and representative of a 
+certain area within the build volume. 
+A single failed component or device in a build cycle may not necessitate the 
+rejection of all other devices or components within that build cycle.  The criteria 
+for determining whether to reject a single device or component, or the entire 
+build, should be established before testing.   
+(2) 
+Revalidation 
+Changes to the device, manufacturing process, or process deviations should be 
+identified and analyzed for the potential risks they introduce.  Based on this 
+assessment, the change or deviation may trigger the need for revalidation of the 
+process.26  Manufacturers should rely on existing FDA Guidance for their 
+regulatory pathway27,28,29,30 when considering a change to a previously cleared or 
+approved device that uses AM.  Some examples of triggers for revalidation 
+specific to AM are: 
+· software changes (e.g., change or update of build preparation software), 
+· changes in material (e.g., supplier, incoming material specification, reused 
+powder, new formulation) or material handling, 
+· change in the spacing or orientation of devices or components in the build 
+volume, 
+· changes to the software workflow (see Section V.B.2 Digital Device 
+Design to Physical Device), 
+· physically moving the machine to a new location, and 
+                                                          
+ 
+25 See 820.72(a) and 820.250(a) 
+26See 820.70(b) and 820.75(c) 
+27Deciding When to Submit a 510(k) for a Change to an Existing Device 
+(www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/ucm080235.htm) 
+2830-Day Notices, 135-Day Premarket Approval (PMA) Supplements and 75-Day Humanitarian Device Exemption (HDE) 
+Supplements for Manufacturing Method or Process Changes 
+(www.fda.gov/downloads/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/UCM080194.pdf)  
+29Modifications to Devices Subject to Premarket Approval (PMA) - The PMA Supplement Decision-Making Process 
+https://www.fda.gov/downloads/medicaldevices/deviceregulationandguidance/guidancedocuments/ucm089360.pdf
+30Changes or Modifications During the Conduct of a Clinical Investigation 
+(www.fda.gov/downloads/medicaldevices/deviceregulationandguidance/guidancedocuments/ucm082158.pdf)
+
+---
+
+<!-- Page 24 -->
+Contains Nonbinding Recommendations 
+20
+·
+changes to post-processing steps or parameters.
+(3) 
+Acceptance Activities 
+Acceptance activities are integral to process control.  Many AM technologies can 
+produce more than one device or component simultaneously at different locations 
+in the build volume.  Each of these devices or components can be copies of a 
+single design or different designs.  This makes it more challenging to ensure 
+repeatability and consistency within a build cycle and across lots.   
+Some acceptance activities for individual devices or components can be 
+performed through non-destructive evaluation (NDE).  Specifically, NDE 
+techniques can be used for the verification of geometry, morphology, and some 
+performance characteristics.  Techniques include, but are not limited to: 
+·
+ultrasound,
+·
+computed tomography (CT) or micro-CT,
+·
+x-ray (in cases with simple geometry),
+·
+dye penetration,
+·
+confocal microscopy, and
+·
+hyperspectral imaging.
+Some techniques are not suitable for some materials, designs, or intended uses.  
+General NDE testing protocols can be found from the ASTM and ISO 
+Committees on Nondestructive Testing. Protocols specific to AM can be found 
+from the ISO/ASTM Committee on Additive Manufacturing Technologies.31  If 
+an NDE technique is used in your process validation or acceptance activities, the 
+choice of technique used should be discussed and documented.   
+(4) 
+Test Coupons 
+A test coupon is a representative test sample of the device or component.  The 
+design of test coupons and placement within the build volume can be especially 
+important for AM.  Coupons can be simple shapes suitable for destructive 
+mechanical testing, or they may contain one or more structural features (e.g., 
+surface porosity, internal channels) representative of the component or device that 
+can be assessed using destructive techniques.  We recommend that coupons be 
+used to help with your process validation and to identify worst-case conditions in 
+your manufacturing process (e.g., worst-case orientation and location in build 
+volume).  Test coupons can also be used for in-process monitoring by placing 
+them in build volume locations that are known to have the worst-case outputs.  
+However, test coupons may not be needed if the process is validated per Quality 
+31http://www.astm.org/COMMIT/SUBCOMMIT/F42.htm
+
+---
+
+<!-- Page 25 -->
+Contains Nonbinding Recommendations 
+ 
+ 
+ 
+21
+System requirements and coupon testing is not a process monitoring activity 
+defined in your quality system.  These test coupons can confirm that the build 
+cycle has met its performance specification for that portion of the build volume if 
+the test coupons meet the performance specifications.  For example, test coupons 
+may be placed at the edges of the build volume if edges are known to have less 
+optimal build quality.  They may also be placed randomly in between components 
+or devices to produce a sampling of the build quality.  Data to demonstrate that 
+test coupons are representative of the components, in-process devices, or finished 
+devices should be documented. Many factors can alter how well a test coupon 
+represents any given part in the build space.  When coupons are used, they should 
+be validated to accurately and reproducibly represent the one or more printed 
+parts within a specific build volume. 
+G. Quality Data 
+The analysis of sources of quality data to identify existing and potential causes of 
+nonconforming product, or other quality problems is an essential part of any quality 
+system.  For devices produced by AM, it is important to consider whether it is 
+necessary to keep track of the location in the build volume where a device or 
+component was built.  This will depend on information obtained during process 
+validation activities and design specifications.  For example, if process validation 
+demonstrated that quality is not affected by location in the build volume, it may not 
+be necessary to be able to keep track of the build volume location for each device.  
+This level of specificity is important in identifying possible causes of failure when 
+multiple different components or devices are made in the same build volume at the 
+same time.  Therefore, you should ensure that quality data such as build volume 
+location can be analyzed to enable proper identification of quality problems and 
+investigation of the cause of nonconformities. 
+ 
+VI. Device Testing Considerations 
+The following section contains a description of the type of information that we recommend 
+that you include in a premarket submission of a device made using AM.  The type and 
+amount of data to support a substantial equivalence determination or approval will vary 
+depending on the intended use, risk profile, and classification and/or regulation for the device 
+type.  In addition, the type of information needed for a device made through AM may also 
+depend on a variety of factors, including but not limited to, whether it is an implant, load 
+bearing, and/or available in pre-specified standard sizes or is patient-matched.  Not all 
+considerations described will be applicable to a single device, given the variety of devices 
+that can be made by AM and AM technologies available.  In general, if the type of 
+characterization or performance testing outlined in each of the sub-sections below is needed 
+for a device made using non-AM techniques, the information should also be provided for an 
+AM device of the same device type.  If you have specific questions regarding the information 
+to support a premarket submission for an AM device, please contact the relevant review
+
+---
+
+<!-- Page 26 -->
+Contains Nonbinding Recommendations 
+ 
+ 
+ 
+22
+division in CDRH or contact CBER for products containing biologics, cells or tissues.  
+Specific questions regarding jurisdiction over a combination product should be directed to 
+the Office of Combination Products (OCP) at 301-427-1934 or combination@fda.gov. 
+ 
+A. Device Description 
+AM facilitates the creation of intermediate and customized device sizes.  Patient-
+matched devices are a good example of this application.  Since these devices may not 
+have discrete sizes, such as small, medium, and large, we recommend that you 
+identify the range of dimensions for your device.  In addition, you should describe 
+any design variations, for example, amount of anatomical coverage for a cranioplasty 
+plate.  Any critical dimensions or features that are intended to be altered to match a 
+patient should also be clearly identified, and the range of allowable values for these 
+parameters should also be identified.  Since each type of AM technology has different 
+technical considerations, you should describe the type of AM technology used to 
+build your device.  In addition, because AM use for medical devices is relatively new, 
+we recommend that you include a flow chart describing your AM process, including 
+post-processing, in order to help determine if additional assessments are needed.   
+Due to the generally complex geometry of AM devices, we recommend that critical 
+features of the device be clearly described in the device description and identified in 
+technical drawings.  For example, the location and thickness of porous scaffolding 
+should be described, as these features may have reduced mechanical properties in 
+comparison to a solid material.  In the technical drawings of your device we 
+recommend that you identify components made using AM.     
+B. Mechanical Testing 
+The type of performance testing that should be conducted on a device made using 
+AM is generally the same as if the device was manufactured using a traditional 
+manufacturing method.  Depending on the device type, these may include material 
+property testing such as modulus, yield strength, ultimate strength, 
+creep/viscoelasticity, fatigue, or abrasive wear.  Performance testing should be 
+conducted on final finished devices subjected to all post-processing, cleaning, and 
+sterilization steps.  As with any recommended testing, the final finished device should 
+be used or a rationale should be provided explaining why the test coupon used was 
+representative of the final finished device.  In addition, the worst-case combinations 
+of dimensions and features (e.g., holes, supports, porous regions) should be 
+considered when determining the worst-case devices for performance testing.  You 
+should also provide a discussion of how the worst-case devices were selected for each 
+performance test conducted. 
+Due to the nature of AM, devices will likely have an orientation (i.e., anisotropy) 
+relative to the build direction and location within the build space.  The orientation and 
+build location can affect the final properties and should be considered when
+
+---
+
+<!-- Page 27 -->
+Contains Nonbinding Recommendations 
+ 
+ 
+ 
+23
+conducting device mechanical testing.  Specifically, the build orientation (including 
+worst-case orientation) of devices or components should be identified for each 
+performance test.  If the orientation changes with device size or design, the worst-
+case orientation should be identified for each configuration.  Since the effect of 
+orientation can vary based on the manufacturing technology used, a baseline study of 
+the machine/material combination used may be helpful in determining the degree to 
+which the build orientation will affect mechanical properties.  Coupons may be used 
+for material property assessments if there is adequate justification provided for why 
+the coupon is representative of the final device.  This justification should consider 
+critical design elements, post-printing processes, cleaning, disinfection and/or 
+sterilization as they relate to each type of testing.  This information can be used to aid 
+in the selection of worst-case samples with respect to orientation.   
+In addition, for some AM machines, the location within the build space can have an 
+effect on mechanical properties.32  For example, for powder bed systems, the 
+difference in distance from the energy source to different locations in the build space 
+(e.g., center vs. corner) could lead to variability in the mechanical properties of 
+devices built in those locations.  To determine whether build location has a significant 
+effect on device characteristics or performance (including fatigue strength), we 
+recommend that you perform a baseline study of your machine/material combination 
+(see Section V.E.1 Validation).  The use of coupons for your baseline study is 
+recommended.  If there is a significant effect, build location should be considered in 
+the identification of worst-case samples for mechanical testing.   
+Since mechanical properties of the device may be impacted by orientation and 
+location, it is important to ensure that production processes are properly developed, 
+conducted, controlled, and monitored in order to ensure that devices or components 
+are not adversely affected by fabrication orientation.  The process validation 
+described in Section V.F.  Process Validation and Acceptance Activities may be used 
+to address the impact of orientation and location. 
+ 
+C. Dimensional Measurements 
+Similar to mechanical properties, device dimensions may be affected by orientation 
+and location within the build space.  Therefore, we recommend that you specify the 
+dimensional tolerances and perform dimensional measurements for the worst case 
+additively manufactured devices and/or components.  Samples selected for the 
+assessment of dimensional measurements should address variability due to orientation 
+and build location if baseline studies show a dependence on these parameters.  To 
+demonstrate consistency and reproducibility between build cycles, dimensional 
+                                                          
+ 
+32ASTM F3122 “Standard Guide for Evaluating Mechanical Properties of Metal Materials Made via Additive 
+Manufacturing Processes”
+
+---
+
+<!-- Page 28 -->
+Contains Nonbinding Recommendations 
+ 
+ 
+ 
+24
+measurements should be made on samples from multiple build cycles, and a 
+justification should be provided on the sampling scheme used.  Alternatively, you 
+may use process validation information to demonstrate that there is negligible 
+variability between build cycles. 
+While we are aware of the potential effects of orientation and build location on 
+mechanical properties and dimensional tolerances, there may be other properties that 
+could be affected based on the intended use and technological characteristics of the 
+device. 
+D. Material Characterization 
+(1) 
+Material Chemistry 
+Since the AM process creates the final material or alters the starting material 
+during the process, all materials involved in the manufacturing of the device 
+should be identified.  As noted in Section V.C Material Controls, this information 
+should include the source and purity of each material used.  Certificates of 
+Analysis and/or Materials Safety Data Sheets (MSDS) can facilitate the review of 
+each material.  The Chemical Abstract Service (CAS) number, if available, of 
+each chemical component should be provided.  If material chemistry information 
+in a device master file (MAF) will be referenced, you should include a right to 
+reference letter from the MAF holder in your premarket submission.33  You 
+should also document the material composition of the final finished device. 
+Given the iterative nature of AM, the starting material can be exposed to partial 
+re-melting and solidification processes multiple times, which may result in 
+unexpected or undesired material chemistries for some polymer systems.  
+Therefore, if biocompatibility is not evaluated as described in the guidance “Use 
+of International Standard ISO-10993, "Biological Evaluation of Medical Devices 
+Part 1: Evaluation and Testing within a Risk Management Process”34 or if 
+biocompatibility testing identifies a concern, additional material chemistry 
+information may be needed.  For example, a description of all material chemistry 
+changes expected during the manufacturing of your device may be needed.  In 
+addition, based on this description and the material/machine type used, it may also 
+be necessary to provide additional information or testing for polymers to ensure 
+that there are no unintentionally formed chemical entities that could pose a risk to 
+patient health.   
+                                                          
+ 
+33http://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/HowtoMarketYourDevice/PremarketSub
+missions/PremarketApprovalPMA/ucm142714.htm  
+34https://www.fda.gov/downloads/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/UCM3
+48890.pdf
+
+---
+
+<!-- Page 29 -->
+Contains Nonbinding Recommendations 
+ 
+ 
+ 
+25
+(2) 
+Material Physical Properties 
+Inter-layer bonding (adhesion/cohesion) is unique to AM and determines the 
+ultimate structural integrity of the final finished device.  As such, material 
+properties known to affect interlayer bonding should be characterized.  This 
+information should be representative of the final finished device (subjected to all 
+post-processing, cleaning, and sterilization steps).  Material properties can be 
+determined from the final device or using coupons.  If coupons are used, a 
+description of the coupon and a justification for why coupon testing is 
+representative of the final device should be provided.   
+If your device is additively manufactured using metal or ceramic, we recommend 
+that you characterize the microstructure, which may include but is not limited to 
+grain size, orientation, and phase composition.  Existing consensus standards for 
+materials can be used for comparison.  If the AM process results in structural 
+inhomogeneity, microstructural voids, incomplete consolidation, or other 
+microstructural issues, additional mechanical testing may be needed to show that 
+these issues do not affect device performance. 
+If your device is additively manufactured using polymers, we recommend that 
+you ensure the AM process is consistently creating a device or component that 
+has properties that meet your specifications.  For example, in situ crosslinked 
+devices may have crosslink density gradients across the build.  For AM processes 
+that use polymer crosslinking, the percent crosslinking and degree of curing 
+should be evaluated to ensure that the AM process results in a material that is 
+fully cured and within specifications.  For systems using a crystalline or semi 
+crystalline material, crystallinity and crystalline morphology should be 
+characterized to ensure that the AM process is not adversely altering the polymer 
+structure and subsequently altering the performance (e.g., creep, material 
+transparency) of the final device.  For hydrogel materials, the percent water 
+swelling or water content of the material should be reported to ensure that that the 
+AM process has not adversely affected the materials’ ability to uptake water.   
+If your device is additively manufactured using an absorbable material, we 
+recommend that you perform in vitro degradation testing using final finished 
+devices or coupons.  If coupons are used, they should be representative of your 
+final finished device in terms of both processing and properties (e.g., surface-to-
+volume ratio, crystallinity).  This will establish whether AM has an adverse effect 
+on the degradation profile of the material. 
+E.  Removing Manufacturing Material Residues and 
+Sterilization 
+AM facilitates the creation of devices with complex geometries, such as engineered 
+porosity, honeycomb structures, channels, and internal voids or cavities that cannot be 
+produced by traditional manufacturing methods.  Such complex geometries in
+
+---
+
+<!-- Page 30 -->
+Contains Nonbinding Recommendations 
+ 
+ 
+ 
+26
+additively manufactured devices are expected to increase the difficulty in removing 
+manufacturing material residues (cleaning) and in sterilization due to the likelihood of 
+increased surface area, generation of extensive tortuous pathways, and creation of 
+internal voids with limited or no access.  Additionally, AM allows porous structures 
+to be produced earlier in the manufacturing process than many traditional methods, 
+which could result in greater soiling by the manufacturing material of those porous 
+structures throughout the rest of the process.  Therefore, validation of the reduction of 
+the manufacturing material residue to levels that do not adversely affect the device’s 
+quality and sterilization process validation should account for the complex geometry 
+of your device under worst-case conditions (e.g., greatest amount of residual 
+manufacturing materials, and a combination of largest surface area, greatest porosity, 
+and most internal voids for sterilization validation). 
+Manufacturing material means any material or substance used in or used to facilitate 
+the manufacturing process, a concomitant constituent, or a byproduct constituent 
+produced during the manufacturing process, which is present in or on the final 
+finished device as a residue or impurity not by design or intent of the manufacturer.35   
+There is also an increased risk of residual manufacturing material, such as excess 
+starting material or support material, remaining on the final finished device.  Since 
+residual manufacturing material may negatively affect the performance of the device, 
+you should describe the process used to ensure removal of residual manufacturing 
+materials to a level where they do not affect the safety and effectiveness of the device.  
+Note that for complex geometries and trapped volumes, destructive testing may be 
+needed to properly validate the removal of the manufacturing material. 
+  
+When a manufacturing material could reasonably be expected to have an adverse 
+effect on device quality, the manufacturer must establish and maintain procedures for 
+the use and removal of such residual manufacturing material to ensure that it is 
+removed or limited to an amount that does not adversely affect the device's quality. 36 
+It is important to note that many end user facilities may not have routine access to the 
+equipment or materials needed to implement cleaning procedures that are designed to 
+remove residual manufacturing materials and that personnel are likely not adequately 
+trained to perform such cleaning procedures.  Therefore, only devices that are 
+sufficiently cleaned of residual manufacturing materials should be provided to the end 
+user.  While engineered porosity and complex geometries are generally an advantage 
+of additive manufacturing, highly porous regions are expected to be difficult to clean 
+in comparison to devices made with other manufacturing methods, and can also 
+greatly increase the surface area of the device.  Therefore, we also recommend that you 
+include an overview or summary of manufacturing residue removal process and 
+information (e.g., testing procedure and data) in your premarket submission to 
+                                                          
+ 
+35 See 21 CFR 820.3(p) 
+36 See 21 CFR820.70(h)
+
+---
+
+<!-- Page 31 -->
+Contains Nonbinding Recommendations 
+ 
+ 
+ 
+27
+demonstrate that your device is cleaned of manufacturing residues before being provided 
+to the end user. 
+The extent to which manufacturing material residue must be reduced is determined on 
+case-by-case basis considering characteristics such as: manufacturing processes, 
+intended use, materials, type and duration of exposure, intended anatomical location, 
+and type of device.  In addition, we recommend using final finished devices after they 
+have undergone all other processing for assessment of manufacturing material 
+removal and validation of the sterilization process.  For additional information on 
+sterilization and validation, see “Submission and Review of Sterility Information in 
+Premarket Notification (510(k)) Submissions for Devices Labeled as Sterile.”37 
+If additively manufacturing a reusable medical device that involves reprocessing or a 
+device intended for end-user sterilization in health care facilities, we recommend the 
+inclusion of reprocessing instructions in your device labeling.  Please refer to the 
+guidance, “Reprocessing Medical Devices in Health Care Settings: Validation 
+Methods and.”38 
+F. Biocompatibility 
+We recommend that you evaluate the biocompatibility of the final finished device as 
+described in the guidance “Use of International Standard ISO-10993, "Biological 
+Evaluation of Medical Devices Part 1: Evaluation and Testing within a Risk 
+Management Process.”39  If chemical additives with known toxicities are used (e.g., 
+certain additives, catalysts, binding and curing agents, uncured monomers, 
+plasticizers), additional information, as outlined in the guidance,40 may be necessary.   
+VII. Labeling 
+Device labeling should be developed in accordance with applicable regulations, 
+device-specific guidance documents, and consensus standards. 
+Labeling Considerations for PMD 
+                                                          
+ 
+37https://www.fda.gov/downloads/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/ucm10
+9897.pdf   
+38http://www.fda.gov/downloads/medicaldevices/deviceregulationandguidance/guidancedocuments/ucm253010.
+pdf  
+39https://www.fda.gov/downloads/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/ucm34
+8890.pdf   
+40https://www.fda.gov/downloads/medicaldevices/deviceregulationandguidance/guidancedocuments/ucm34889
+0.pdf
+
+---
+
+<!-- Page 32 -->
+Contains Nonbinding Recommendations 
+ 
+ 
+ 
+28
+Since clinical staff, device manufacturers, or a designated third party might modify 
+the design of a PMD, additional labeling information is recommended for AM 
+devices that are patient-matched.  We recommend that each AM PMD be marked or 
+have accompanying healthcare practitioner labeling included in the packaging to 
+identify: 
+· patient identifier, 
+· use (e.g., left distal femoral surgical guide), and 
+· final design iteration or version used to produce the device. 
+The expiration date for a patient-matched device may be driven by the patient 
+imaging date or the design finalization date rather than the standard methods of 
+determining device shelf life (see Section V.B.(1)).   In addition, it is possible that the 
+patient may have experienced events between the time of imaging and surgery (e.g. 
+additional trauma), which could impact performance of the device.  Therefore, we 
+recommend that you include a precaution in your labeling that the patient should be 
+surveyed for potential anatomical changes prior to the procedure.
