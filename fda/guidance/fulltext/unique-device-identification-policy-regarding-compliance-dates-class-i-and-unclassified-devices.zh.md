@@ -1,35 +1,10 @@
----
-title: "唯一设备识别:关于I类和非分类设备的合规日期,直接标记和某些设备的全球唯一设备识别数据库要求的政策：行业与食品药品管理局工作人员指南"
-description: "Unique Device Identification: Policy Regarding Compliance Dates for Class I and Unclassified Devices, Direct Marking, and Global Unique Device Identification Database Requirements for Certain Devices: Guidance for Industry and Food and Drug Administration Staff"
-published: 2022-07-25
----
+# 唯一器械标识：关于I类和未分类器械合规日期、直接标记以及某些器械全球唯一器械标识数据库要求的政策：行业与食品药品监督管理局工作人员指南
 
-# 唯一设备识别:关于I类和非分类设备的合规日期,直接标记和某些设备的全球唯一设备识别数据库要求的政策：行业与食品药品管理局工作人员指南
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/unique-device-identification-policy-regarding-compliance-dates-class-i-and-unclassified-devices](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/unique-device-identification-policy-regarding-compliance-dates-class-i-and-unclassified-devices)
 
-**Unique Device Identification: Policy Regarding Compliance Dates for Class I and Unclassified Devices, Direct Marking, and Global Unique Device Identification Database Requirements for Certain Devices: Guidance for Industry and Food and Drug Administration Staff**
-
-**发布日期**：2022-07-25
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：标签标识 / UDI
-**主题**：Labeling、UDI
-**案卷号**：FDA-2017-D-6841
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/unique-device-identification-policy-regarding-compliance-dates-class-i-and-unclassified-devices
-PDF：https://www.fda.gov/media/110564/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 2022-07-25
 
 ---
-
-## 官方文件全文
 
 本指南代表美国食品药品监督管理局（FDA或本机构）对该主题的当前观点。它不赋予任何个人任何权利，对FDA或公众不具有约束力。如果您采用的替代方法满足适用法律法规的要求，则可以采用该替代方法。如需讨论替代方法，请联系本指南标题页所列的负责FDA工作人员或办公室。
 ## I. 简介
@@ -139,4 +114,3 @@ FDA不拟在2022年9月24日前对这些器械执行21 CFR 801.45下的UDI直接
 [^34]: 见脚注2。
 
 [^35]: 见78 FR at 58815-58816。
-

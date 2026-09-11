@@ -1,35 +1,10 @@
----
-title: "要求审查FDA不颁发某些设备出口证书的决定的程序：行业与食品药品管理局工作人员指南"
-description: "Process to Request a Review of FDA's Decision Not to Issue Certain Export Certificates for Devices: Guidance for Industry and Food and Drug Administration Staff"
-published: 2023-11-03
----
+# 请求审查FDA不签发某些器械出口证书之决定的程序：行业与食品药品监督管理局工作人员指南
 
-# 要求审查FDA不颁发某些设备出口证书的决定的程序：行业与食品药品管理局工作人员指南
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/process-request-review-fdas-decision-not-issue-certain-export-certificates-devices](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/process-request-review-fdas-decision-not-issue-certain-export-certificates-devices)
 
-**Process to Request a Review of FDA's Decision Not to Issue Certain Export Certificates for Devices: Guidance for Industry and Food and Drug Administration Staff**
-
-**发布日期**：2023-11-03
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：上市后
-**主题**：Postmarket、Export、Import
-**案卷号**：FDA-2018-D-2310
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/process-request-review-fdas-decision-not-issue-certain-export-certificates-devices
-PDF：https://www.fda.gov/media/115432/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 2023-11-03
 
 ---
-
-## 官方文件全文
 
 请求审查FDA不签发某些器械出口证书之决定的程序
 
@@ -106,4 +81,3 @@ CBER和CDRH将与ORA协作审查新信息，并拟在90日内作出答复，取�
 [^11]: 关于CDRH上诉审查程序的更多信息，特别是非重大决定行动的上诉，请见指南“医疗器械与放射健康中心（CDRH）上诉
 
 [^12]: 关于CBER上诉审查程序的更多信息，请见指南“正式争议
-

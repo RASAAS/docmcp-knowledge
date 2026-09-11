@@ -1,35 +1,10 @@
----
-title: "关于CLI类别的行政程序：行业与食品药品管理局工作人员指南"
-description: "Administrative Procedures for CLIA Categorization: Guidance for Industry and Food and Drug Administration Staff"
-published: 2017-10-02
----
+# CLIA分类的行政程序：行业与食品药品监督管理局工作人员指南
 
-# 关于CLI类别的行政程序：行业与食品药品管理局工作人员指南
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/administrative-procedures-clia-categorization](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/administrative-procedures-clia-categorization)
 
-**Administrative Procedures for CLIA Categorization: Guidance for Industry and Food and Drug Administration Staff**
-
-**发布日期**：2017-10-02
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：体外诊断 / 伴随诊断
-**主题**：User Fees、Administrative / Procedural、CLIA (Clinical Laboratory Improvement Amendments)
-**案卷号**：FDA-2008-D-0228
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/administrative-procedures-clia-categorization
-PDF：https://www.fda.gov/media/71065/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 2017-10-02
 
 ---
-
-## 官方文件全文
 
 本指南代表美国食品药品监督管理局（FDA或本机构）对该主题的当前观点。它不赋予任何个人任何权利，对FDA或公众不具有约束力。如果您采用的替代方法满足适用法律法规的要求，则可以采用该替代方法。如需讨论替代方法，请联系本指南标题页所列的负责FDA工作人员或办公室。
 ## I. 简介
@@ -142,4 +117,3 @@ FDA PRA工作人员，运营办公室，食品药品监督管理局，PRAStaff@f
 本指南还涉及FDA法规中先前已批准的信息收集。21 CFR Part 801中的信息收集已根据OMB控制编号0910-0485批准；21 CFR Part 807 E分部分中的信息收集已根据OMB控制编号0910-0120批准；通过申请获得CLIA豁免的信息收集已根据OMB控制编号0910-0598批准。
 
 除非显示当前有效的OMB控制编号，否则机构不得实施或赞助、个人也无需对信息收集作出答复。本信息收集的OMB控制编号为0910-0607（有效期至2019/12/31）。
-

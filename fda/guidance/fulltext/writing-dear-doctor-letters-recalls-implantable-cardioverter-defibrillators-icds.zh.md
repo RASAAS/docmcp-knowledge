@@ -1,35 +1,10 @@
----
-title: "写信给医生,提醒您:可植入的心脏除器 (ICD)：行业与FDA工作人员指南"
-description: "Writing Dear Doctor Letters for Recalls of Implantable Cardioverter Defibrillators (ICDs): Guidance for Industry and FDA Staff"
-published: 2007-07-19
----
+# 就植入式心律转复除颤器（ICD）召回撰写致医生函：行业与FDA工作人员指南
 
-# 写信给医生,提醒您:可植入的心脏除器 (ICD)：行业与FDA工作人员指南
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/writing-dear-doctor-letters-recalls-implantable-cardioverter-defibrillators-icds](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/writing-dear-doctor-letters-recalls-implantable-cardioverter-defibrillators-icds)
 
-**Writing Dear Doctor Letters for Recalls of Implantable Cardioverter Defibrillators (ICDs): Guidance for Industry and FDA Staff**
-
-**发布日期**：2007-07-19
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：上市后
-**主题**：Postmarket、Radiological Health
-**案卷号**：FDA-2020-D-0957
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/writing-dear-doctor-letters-recalls-implantable-cardioverter-defibrillators-icds
-PDF：https://www.fda.gov/media/71206/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 2007-07-19
 
 ---
-
-## 官方文件全文
 
 FDA指南文件（包括本指南）不确立具有法律强制执行力的责任。相反，指南描述本机构对某一主题的当前观点，且除非援引具体的法规或法定要求，否则应仅视为建议。在本机构指南中使用“应当（should）”一词，表示某事项被建议或推荐，但并非强制要求。
 
@@ -136,4 +111,3 @@ o 公司网址。致医生函应发布并易于在公司网站上找到，连同
 
 
 6
-

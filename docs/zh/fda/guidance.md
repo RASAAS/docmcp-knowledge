@@ -9,7 +9,7 @@ doc_count: 434
 目前有效的 **CDRH Final** 指南（Guidance Document 与 Special Controls）。不含 Draft、CPG、Memorandum 与 Small Entity Compliance Guides。
 
 共 **434** 份。本波次已填写全部中文标题，并生成分类中文目录与元数据页。
-英文结构质检（PR #113）已通过。`digital_health_cyber` 中文全文已补齐；网络安全与再制造全文已按清洗后英文刷新。
+英文结构质检（PR #113）已通过。`digital_health_cyber` 中文全文已补齐。本波次开始补齐 `quality_manufacturing`、`ivd`、`labeling_udi`、`postmarket` 中较短英文全文的中文正文（再制造沿用上一波；血透质量保证指南及若干长篇全文留待后续）。
 
 各类别内按发布日期由新到旧排列。标注〔全文〕=已有中文全文，〔仅元数据〕=本波次元数据页（英文全文见对应 EN 页）。
 
@@ -350,72 +350,72 @@ doc_count: 434
 
 ## 质量 / QMSR / 生产制造 {#quality_manufacturing}
 
-7 份文件，其中中文全文 1 份，其余为元数据页。
+7 份文件，其中中文全文 3 份，其余为元数据页。
 
 - [医疗器械再制造指南](./guidance/remanufacturing) (2024-05-10) 〔全文〕
 - [促进医疗器械的改进:FDA活动和与自愿改进计划的参与：行业与食品药品管理局工作人员指南](./guidance/fostering-medical-device-improvement-fda-activities-and-engagement-voluntary-improvement-program) (2023-09-15) 〔仅元数据〕
 - [放射性电子产品的检查和测试现场:附件C:日照灯产品检查和测试的具体说明](./guidance/inspection-and-field-testing-radiation-emitting-electronic-products-attachment-c-specific) (2007-10-30) 〔仅元数据〕
 - [放射性电子产品的检查和测试:附件A](./guidance/inspection-and-field-testing-radiation-emitting-electronic-products-attachment) (2007-10-30) 〔仅元数据〕
-- [关于第三方和医院处理器重复处理和重复使用一次性设备的常见问题 - 三个额外的问题,FDA工作人员,第三方和医院处理器：行业指南](./guidance/frequently-asked-questions-about-reprocessing-and-reuse-single-use-devices-third-party-and-hospital-0) (2003-07-16) 〔仅元数据〕
-- [标签建议:第三方和医院对一次性使用设备进行回收处理:工业和FDA的最终指导](./guidance/labeling-recommendations-single-use-devices-reprocessed-third-parties-and-hospitals) (2001-07-30) 〔仅元数据〕
+- [关于第三方和医院处理器重复处理和重复使用一次性设备的常见问题 - 三个额外的问题,FDA工作人员,第三方和医院处理器：行业指南](./guidance/frequently-asked-questions-about-reprocessing-and-reuse-single-use-devices-third-party-and-hospital-0) (2003-07-16) 〔全文〕
+- [标签建议:第三方和医院对一次性使用设备进行回收处理:工业和FDA的最终指导](./guidance/labeling-recommendations-single-use-devices-reprocessed-third-parties-and-hospitals) (2001-07-30) 〔全文〕
 - [血液透析器械质量保证指南](./guidance/quality-assurance-guidelines-hemodialysis-devices) (1991-02-01) 〔仅元数据〕
 
 ## 体外诊断 / 伴随诊断 {#ivd}
 
-7 份文件，其中中文全文 0 份，其余为元数据页。
+7 份文件，其中中文全文 2 份，其余为元数据页。
 
-- [在第564条宣布紧急情况期间,对体外诊断测试的执法政策的考虑：行业与食品药品管理局工作人员指南](./guidance/consideration-enforcement-policies-in-vitro-diagnostic-tests-during-section-564-declared-emergency) (2025-09-23) 〔仅元数据〕
+- [在第564条宣布紧急情况期间,对体外诊断测试的执法政策的考虑：行业与食品药品管理局工作人员指南](./guidance/consideration-enforcement-policies-in-vitro-diagnostic-tests-during-section-564-declared-emergency) (2025-09-23) 〔全文〕
 - [替代反应剂和仪器家庭政策：行业与FDA工作人员指南](./guidance/replacement-reagent-and-instrument-family-policy-in-vitro-diagnostic-devices) (2022-08-17) 〔仅元数据〕
 - [临床实验室改进的建议1988年 (CLIA) 免除在室内诊断设备制造商的申请：行业与食品药品管理局工作人员指南](./guidance/recommendations-clinical-laboratory-improvement-amendments-1988-clia-waiver-applications) (2020-02-26) 〔仅元数据〕
 - [基于体诊断 (IVD) 的下一代测序 (NGS) 的设计,开发和分析验证的考虑,用于帮助诊断疑似菌根病：利益相关方与食品药品管理局工作人员指南](./guidance/considerations-design-development-and-analytical-validation-next-generation-sequencing-ngs-based) (2018-04-13) 〔仅元数据〕
-- [关于CLI类别的行政程序：行业与食品药品管理局工作人员指南](./guidance/administrative-procedures-clia-categorization) (2017-10-02) 〔仅元数据〕
+- [关于CLI类别的行政程序：行业与食品药品管理局工作人员指南](./guidance/administrative-procedures-clia-categorization) (2017-10-02) 〔全文〕
 - [基于核酸的诊断设备中高度多元化的微生物/医学反措施：行业与食品药品管理局工作人员指南](./guidance/highly-multiplexed-microbiologicalmedical-countermeasure-in-vitro-nucleic-acid-based-diagnostic-devices) (2014-08-27) 〔仅元数据〕
 - [建立用于检测或检测和 流感病毒的内置诊断设备的性能特性：行业与FDA工作人员指南](./guidance/establishing-performance-characteristics-in-vitro-diagnostic-devices-detection-or-detection-and) (2011-07-14) 〔仅元数据〕
 
 ## 标签标识 / UDI {#labeling_udi}
 
-14 份文件，其中中文全文 0 份，其余为元数据页。
+14 份文件，其中中文全文 5 份，其余为元数据页。
 
 - [全球独特设备识别数据库 (GUDID)：行业与食品药品管理局工作人员指南](./guidance/global-unique-device-identification-database-gudid) (2024-12-17) 〔仅元数据〕
 - [诊断X射线设备制造商的辐射控制条例的澄清：行业与食品药品管理局工作人员指南](./guidance/clarification-radiation-control-regulations-manufacturers-diagnostic-x-ray-equipment) (2024-09-27) 〔仅元数据〕
 - [抗微生物敏感性测试系统设备 更新设备标签的断点：行业与食品药品管理局工作人员指南](./guidance/antimicrobial-susceptibility-test-ast-system-devices-updating-breakpoints-device-labeling) (2023-09-29) 〔仅元数据〕
-- [唯一设备识别:关于I类和非分类设备的合规日期,直接标记和某些设备的全球唯一设备识别数据库要求的政策：行业与食品药品管理局工作人员指南](./guidance/unique-device-identification-policy-regarding-compliance-dates-class-i-and-unclassified-devices) (2022-07-25) 〔仅元数据〕
+- [唯一设备识别:关于I类和非分类设备的合规日期,直接标记和某些设备的全球唯一设备识别数据库要求的政策：行业与食品药品管理局工作人员指南](./guidance/unique-device-identification-policy-regarding-compliance-dates-class-i-and-unclassified-devices) (2022-07-25) 〔全文〕
 - [内部使用的手术具和具 - 标签建议：行业与食品药品管理局工作人员指南](./guidance/surgical-staplers-and-staples-internal-use-labeling-recommendations) (2021-10-08) 〔仅元数据〕
-- [唯一设备识别系统:唯一设备识别器 (UDI) 的形式和内容：行业与食品药品管理局工作人员指南](./guidance/unique-device-identification-system-form-and-content-unique-device-identifier-udi) (2021-07-07) 〔仅元数据〕
-- [唯一的设备识别:便利套件：行业与食品药品管理局工作人员指南](./guidance/unique-device-identification-convenience-kits) (2019-04-26) 〔仅元数据〕
+- [唯一设备识别系统:唯一设备识别器 (UDI) 的形式和内容：行业与食品药品管理局工作人员指南](./guidance/unique-device-identification-system-form-and-content-unique-device-identifier-udi) (2021-07-07) 〔全文〕
+- [唯一的设备识别:便利套件：行业与食品药品管理局工作人员指南](./guidance/unique-device-identification-convenience-kits) (2019-04-26) 〔全文〕
 - [唯一的设备识别:直接标记设备：行业与食品药品管理局工作人员指南](./guidance/unique-device-identification-direct-marking-devices) (2017-11-17) 〔仅元数据〕
 - [如何 帮助 孩子 了解 方式?：行业与食品药品管理局工作人员指南](./guidance/unique-device-identifier-system-frequently-asked-questions-vol-1) (2014-08-20) 〔仅元数据〕
-- [电子产品标签的URL添加：行业与FDA工作人员指南](./guidance/addition-urls-electronic-product-labeling) (2010-09-29) 〔仅元数据〕
-- [激光产品标记的替代 (激光通告 53) 的批准](./guidance/approval-alternate-means-labeling-laser-products-laser-notice-53) (2007-03-22) 〔仅元数据〕
+- [电子产品标签的URL添加：行业与FDA工作人员指南](./guidance/addition-urls-electronic-product-labeling) (2010-09-29) 〔全文〕
+- [激光产品标记的替代 (激光通告 53) 的批准](./guidance/approval-alternate-means-labeling-laser-products-laser-notice-53) (2007-03-22) 〔全文〕
 - [根据2002年"医疗器械用户费"和"现代化法"第301条的遵守,：行业与FDA工作人员指南](./guidance/compliance-section-301-medical-device-user-fee-and-modernization-act-2002-amended-prominent-and) (2006-05-01) 〔仅元数据〕
 - [医疗器械患者标签指南:工业和FDA工作人员的最终指南](./guidance/guidance-medical-device-patient-labeling) (2001-04-19) 〔仅元数据〕
 - [标签 - 医疗器械的监管要求 (FDA 89-4203)](./guidance/labeling-regulatory-requirements-medical-devices-fda-89-4203) (1989-09-01) 〔仅元数据〕
 
 ## 上市后 / 召回 / 警戒 {#postmarket}
 
-25 份文件，其中中文全文 0 份，其余为元数据页。
+25 份文件，其中中文全文 9 份，其余为元数据页。
 
 - [根据FD&C法第506J条,通知FDA关于设备生产永久停产或中断：行业与食品药品管理局工作人员指南](./guidance/notifying-fda-permanent-discontinuance-or-interruption-manufacturing-device-under-section-506j-fdc) (2025-01-07) 〔仅元数据〕
 - [制造商自愿故障总结报告 (VMSR) 计划：行业与食品药品管理局工作人员指南](./guidance/voluntary-malfunction-summary-reporting-vmsr-program-manufacturers) (2024-08-29) 〔仅元数据〕
-- [要求审查FDA不颁发某些设备出口证书的决定的程序：行业与食品药品管理局工作人员指南](./guidance/process-request-review-fdas-decision-not-issue-certain-export-certificates-devices) (2023-11-03) 〔仅元数据〕
+- [要求审查FDA不颁发某些设备出口证书的决定的程序：行业与食品药品管理局工作人员指南](./guidance/process-request-review-fdas-decision-not-issue-certain-export-certificates-devices) (2023-11-03) 〔全文〕
 - [根据《联邦食品、药品和化妆品法案》第522条的市场后监督：行业与食品药品管理局工作人员指南](./guidance/postmarket-surveillance-under-section-522-federal-food-drug-and-cosmetic-act) (2022-10-07) 〔仅元数据〕
-- [经过某些FDA检查设备机构后的非约束性反：行业与食品药品管理局工作人员指南](./guidance/nonbinding-feedback-after-certain-fda-inspections-device-establishments) (2020-04-22) 〔仅元数据〕
-- [医疗器械的患者特定信息与患者分享：行业与食品药品管理局工作人员指南](./guidance/manufacturers-sharing-patient-specific-information-medical-devices-patients-upon-request) (2017-10-30) 〔仅元数据〕
-- [发布上市后医疗器械新出现信号 ("新出现信号") 的公开通知：行业与食品药品管理局工作人员指南](./guidance/public-notification-emerging-postmarket-medical-device-signals-emerging-signals) (2016-12-14) 〔仅元数据〕
+- [经过某些FDA检查设备机构后的非约束性反：行业与食品药品管理局工作人员指南](./guidance/nonbinding-feedback-after-certain-fda-inspections-device-establishments) (2020-04-22) 〔全文〕
+- [医疗器械的患者特定信息与患者分享：行业与食品药品管理局工作人员指南](./guidance/manufacturers-sharing-patient-specific-information-medical-devices-patients-upon-request) (2017-10-30) 〔全文〕
+- [发布上市后医疗器械新出现信号 ("新出现信号") 的公开通知：行业与食品药品管理局工作人员指南](./guidance/public-notification-emerging-postmarket-medical-device-signals-emerging-signals) (2016-12-14) 〔全文〕
 - [医疗器械报告：行业与食品药品管理局工作人员指南](./guidance/medical-device-reporting-manufacturers) (2016-11-08) 〔仅元数据〕
 - [区分医疗器械提醒与医疗器械改进：行业与食品药品管理局工作人员指南](./guidance/distinguishing-medical-device-recalls-medical-device-enhancements) (2014-10-15) 〔仅元数据〕
-- [医疗器械跟踪：行业与FDA工作人员指南](./guidance/medical-device-tracking) (2014-03-27) 〔仅元数据〕
+- [医疗器械跟踪：行业与FDA工作人员指南](./guidance/medical-device-tracking) (2014-03-27) 〔全文〕
 - [关于eMDR - 电子医 报告,用户设施和FDA工作人员的问题和答案：行业指南](./guidance/questions-and-answers-about-emdr-electronic-medical-device-reporting-guidance-industry-user) (2014-02-13) 〔仅元数据〕
-- [专为手动使用的X射线 设备的辐射安全考虑因素](./guidance/radiation-safety-considerations-x-ray-equipment-designed-hand-held-use) (2008-12-23) 〔仅元数据〕
+- [专为手动使用的X射线 设备的辐射安全考虑因素](./guidance/radiation-safety-considerations-x-ray-equipment-designed-hand-held-use) (2008-12-23) 〔全文〕
 - [医生和/或患者检查手的监控和拘留没有身体检查：行业与FDA工作人员指南](./guidance/surveillance-and-detention-without-physical-examination-surgeons-andor-patient-examination-gloves) (2008-07-11) 〔仅元数据〕
 - [没有身体检查的安全套监控和拘留：行业与FDA工作人员指南](./guidance/surveillance-and-detention-without-physical-examination-condoms) (2008-07-11) 〔仅元数据〕
-- [写信给医生,提醒您:可植入的心脏除器 (ICD)：行业与FDA工作人员指南](./guidance/writing-dear-doctor-letters-recalls-implantable-cardioverter-defibrillators-icds) (2007-07-19) 〔仅元数据〕
+- [写信给医生,提醒您:可植入的心脏除器 (ICD)：行业与FDA工作人员指南](./guidance/writing-dear-doctor-letters-recalls-implantable-cardioverter-defibrillators-icds) (2007-07-19) 〔全文〕
 - [医院床系统维度和评估指南减少被困：行业与FDA工作人员指南](./guidance/hospital-bed-system-dimensional-and-assessment-guidance-reduce-entrapment) (2006-03-10) 〔仅元数据〕
 - [评估C反应蛋白 (CRP),高敏感性C反应蛋白 (hsCRP) 和心脏C反应检测标准：行业与FDA工作人员指南](./guidance/review-criteria-assessment-c-reactive-protein-crp-high-sensitivity-c-reactive-protein-hscrp-and) (2005-09-22) 〔仅元数据〕
-- [制造商向诊断X射线系统组装器披露信息：行业与FDA工作人员指南](./guidance/information-disclosure-manufacturers-assemblers-diagnostic-x-ray-systems-guidance-industry-and-fda) (2003-09-04) 〔仅元数据〕
+- [制造商向诊断X射线系统组装器披露信息：行业与FDA工作人员指南](./guidance/information-disclosure-manufacturers-assemblers-diagnostic-x-ray-systems-guidance-industry-and-fda) (2003-09-04) 〔全文〕
 - [针 - 用户设施,制造商和进口商的医疗器械报告指南](./guidance/needlesticks-medical-device-reporting-guidance-user-facilities-manufacturers-and-importers) (2002-11-11) 〔仅元数据〕
 - [绝育化便利套件用于临床和手术使用:工业的最终指导](./guidance/sterilized-convenience-kits-clinical-and-surgical-use) (2002-01-07) 〔仅元数据〕
-- [关于拉斯IK的信息 - 工业的最终指导](./guidance/information-keratome-manufacturers-regarding-lasik-final-guidance-industry) (2001-06-20) 〔仅元数据〕
+- [关于拉斯IK的信息 - 工业的最终指导](./guidance/information-keratome-manufacturers-regarding-lasik-final-guidance-industry) (2001-06-20) 〔全文〕
 - [产业关于在整形植入物上测试金属质涂层的指导,以支持重新考虑市场后监控要求,以及FDA审查员/工作人员：行业指南](./guidance/guidance-industry-testing-metallic-plasma-sprayed-coatings-orthopedic-implants-support) (2000-02-01) 〔仅元数据〕
 - [变异与制造商报告号码格式 - 5号](./guidance/variance-manufacturer-report-number-format-no-5) (1996-08-11) 〔仅元数据〕
 - [变化与制造商报告号码格式 [MDR信]](./guidance/variance-manufacturer-report-number-format-mdr-letter) (1996-07-15) 〔仅元数据〕

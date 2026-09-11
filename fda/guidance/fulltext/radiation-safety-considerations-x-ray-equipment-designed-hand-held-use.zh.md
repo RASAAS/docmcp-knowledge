@@ -1,35 +1,10 @@
----
-title: "专为手动使用的X射线 设备的辐射安全考虑因素"
-description: "Radiation Safety Considerations for X-Ray Equipment Designed for Hand-Held Use"
-published: 2008-12-23
----
+# 专为手持使用设计的X射线设备的辐射安全考量
 
-# 专为手动使用的X射线 设备的辐射安全考虑因素
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/radiation-safety-considerations-x-ray-equipment-designed-hand-held-use](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/radiation-safety-considerations-x-ray-equipment-designed-hand-held-use)
 
-**Radiation Safety Considerations for X-Ray Equipment Designed for Hand-Held Use**
-
-**发布日期**：2008-12-23
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：上市后
-**主题**：Postmarket
-**案卷号**：FDA-2020-D-0957
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/radiation-safety-considerations-x-ray-equipment-designed-hand-held-use
-PDF：https://www.fda.gov/media/73890/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 2008-12-23
 
 ---
-
-## 官方文件全文
 
 FDA指南文件（包括本指南）不确立具有法律强制执行力的责任。相反，指南描述本机构对某一主题的当前观点，且除非援引具体的法规或法定要求，否则应仅视为建议。在本机构指南中使用“应当（should）”一词，表示某事项被建议或推荐，但并非强制要求。
 
@@ -99,4 +74,3 @@ General requirements for basic safety and essential performance – Collateral S
 Radiation Protection and Measurements, Bethesda, MD, 2003).
 4. Suggested State Regulations for the Control of Radiation,
 http://www.crcpd.org/publications.asp#ssrcr,(Conference of Radiation Control Program Directors, 2008).
-

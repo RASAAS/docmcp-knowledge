@@ -1,35 +1,10 @@
----
-title: "关于拉斯IK的信息 - 工业的最终指导"
-description: "Information for Keratome Manufacturers Regarding LASIK - Final Guidance for Industry"
-published: 2001-06-20
----
+# 关于LASIK的角膜刀制造商信息——行业最终指南
 
-# 关于拉斯IK的信息 - 工业的最终指导
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/information-keratome-manufacturers-regarding-lasik-final-guidance-industry](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/information-keratome-manufacturers-regarding-lasik-final-guidance-industry)
 
-**Information for Keratome Manufacturers Regarding LASIK - Final Guidance for Industry**
-
-**发布日期**：2001-06-20
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：上市后
-**主题**：Postmarket
-**案卷号**：FDA-2020-D-0957
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/information-keratome-manufacturers-regarding-lasik-final-guidance-industry
-PDF：https://www.fda.gov/media/72327/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 2001-06-20
 
 ---
-
-## 官方文件全文
 
 关于LASIK的角膜刀制造商信息；行业最终指南 文件发布日期：2001年6月21日 美国卫生与公众服务部 食品药品监督管理局 医疗器械与放射健康中心 诊断与外科器械处
 眼科与耳鼻喉科器械科 器械评价办公室
@@ -65,4 +40,3 @@ a. 用于产生可变蒂、直径或厚度的方法和组件（如适用）；�
 4，则您不得将角膜刀标示为用于LASIK。您需要提交一份针对上述事项的新510(k)并获得FDA准予后，方可将其标示为用于LASIK。
 最少负担方法
 本指南文件所识别的问题，是我们认为在您的器械可上市之前需要解决的问题。在制定本指南时，我们审慎考虑了本机构决策的相关法定标准。我们也考虑了您为遵守本指南并解决我们所识别问题可能产生的负担。我们认为，我们已经考虑了解决本指南文件所提问题的最少负担方法。但是，如果您认为存在负担更少的方式来解决这些问题，您应遵循“解决最少负担问题的建议方法”文件中概述的程序。该文件可在我们中心网页获取：http://www.fda.gov/cdrh/modact/leastburdensome.html
-

@@ -1,35 +1,10 @@
----
-title: "发布上市后医疗器械新出现信号 (\"新出现信号\") 的公开通知：行业与食品药品管理局工作人员指南"
-description: "Public Notification of Emerging Postmarket Medical Device Signals (\"Emerging Signals\"): Guidance for Industry and Food and Drug Administration Staff"
-published: 2016-12-14
----
+# 上市后医疗器械新出现信号（“新出现信号”）的公众告知：行业与食品药品监督管理局工作人员指南
 
-# 发布上市后医疗器械新出现信号 ("新出现信号") 的公开通知：行业与食品药品管理局工作人员指南
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/public-notification-emerging-postmarket-medical-device-signals-emerging-signals](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/public-notification-emerging-postmarket-medical-device-signals-emerging-signals)
 
-**Public Notification of Emerging Postmarket Medical Device Signals ("Emerging Signals"): Guidance for Industry and Food and Drug Administration Staff**
-
-**发布日期**：2016-12-14
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：上市后
-**主题**：Postmarket、Safety - Issues、Errors、and Problems
-**案卷号**：FDA-2015-D-4803
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/public-notification-emerging-postmarket-medical-device-signals-emerging-signals
-PDF：https://www.fda.gov/media/95125/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 2016-12-14
 
 ---
-
-## 官方文件全文
 
 上市后医疗器械新出现信号（“新出现信号”）的公众告知
 ______________________________________________________________________________
@@ -114,4 +89,3 @@ FDA努力使所有沟通清晰易懂。本机构在决定沟通以及沟通内�
 [^2]: 见 http://www.fda.gov/AboutFDA/WhatWeDo/。更新告知。基于本指南文件所述因素及时告知这些新出现信号，旨在使医疗服务提供者、患者和消费者能够获得关于已上市医疗器械性能及潜在获益和风险的最新信息，以便他们能够就其治疗和诊断选择作出知情的患者管理决定。在早期阶段进行公众告知，可在问题得到进一步评价期间减少或限制暴露于潜在风险的患者数量，并可促进临床医生、风险管理者、患者和消费者提高警惕。此种认识可能有助于在更严重并发症或后遗症发生之前识别不良事件。
 
 [^3]: 见 21 U.S.C. 360c(a)(2) 和 21 CFR 860.7。
-

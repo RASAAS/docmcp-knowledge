@@ -1,35 +1,10 @@
----
-title: "唯一设备识别系统:唯一设备识别器 (UDI) 的形式和内容：行业与食品药品管理局工作人员指南"
-description: "Unique Device Identification System: Form and Content of the Unique Device Identifier (UDI): Guidance for Industry and Food and Drug Administration Staff"
-published: 2021-07-07
----
+# 唯一器械标识系统：唯一器械标识符（UDI）的形式与内容：行业与食品药品监督管理局工作人员指南
 
-# 唯一设备识别系统:唯一设备识别器 (UDI) 的形式和内容：行业与食品药品管理局工作人员指南
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/unique-device-identification-system-form-and-content-unique-device-identifier-udi](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/unique-device-identification-system-form-and-content-unique-device-identifier-udi)
 
-**Unique Device Identification System: Form and Content of the Unique Device Identifier (UDI): Guidance for Industry and Food and Drug Administration Staff**
-
-**发布日期**：2021-07-07
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：标签标识 / UDI
-**主题**：Labeling、UDI
-**案卷号**：FDA-2016-D-1853
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/unique-device-identification-system-form-and-content-unique-device-identifier-udi
-PDF：https://www.fda.gov/media/99084/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 2021-07-07
 
 ---
-
-## 官方文件全文
 
 唯一器械标识系统：唯一器械标识符（UDI）的形式与内容
 
@@ -111,4 +86,3 @@ UDI规则不要求构成PI的五项标识符中的任何一项出现在标签上
 [^11]: 本指南所用“数据分隔符”一词对应于ISO/IEC 15459-3：信息技术 — 自动识别与数据采集技术 — 唯一识别 —第3部分：通用规则 [第三版] 以及UDI N48：唯一器械标识系统（UDI系统）应用指南（2019年3月21日）中所用“限定符”一词，-- http://www.imdrf.org/docs/imdrf/final/technical/imdrf-tech- 190321-udi-sag.pdf。
 
 [^13]: 另见78 FR 58804。
-
