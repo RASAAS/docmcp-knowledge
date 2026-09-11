@@ -1,7 +1,7 @@
 {
   "category": "nmpa/guidance",
   "description": "NMPA medical device registration review guidance principles (CMDE classification)",
-  "last_updated": "2026-04-09",
+  "last_updated": "2026-09-11",
   "count": 691,
   "categories": {
     "general": {
@@ -1631,14 +1631,15 @@
         "zh": "定制式义齿注册技术审查指导原则",
         "en": ""
       },
-      "status": "active",
+      "status": "superseded",
       "doc_number": "国家药品监督管理局2018年第80号通告",
       "category": "dental",
       "slug": "cmde-2018-80-da50",
       "source_url": "https://www.nmpa.gov.cn/directory/web/nmpa/images/uL28jOjutK9wcbG99C1yfqy+tbKwb+53MDtuea3tri9wry2qNbGyr3S5bPdvLDP1rOhvOyy6da4tbzUrdTyuauqtX3xPS4rz7uvO1xNb30qrQ3rjExNrI3cu1wcuZG9jeA==.docx",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "none"
+      "classification_confidence": "none",
+      "superseded_by": "nmpa-gp-定制式义齿注册技术审查指导原则-2026年修订版-11f631"
     },
     {
       "id": "nmpa-gp-鼻饲营养导管注册技术审查指导原则-2018年修订-a5ae14",
@@ -1675,14 +1676,15 @@
         "zh": "骨科外固定支架注册技术审查指导原则（2018年修订）",
         "en": ""
       },
-      "status": "active",
+      "status": "superseded",
       "source_url": "",
       "doc_number": "国家药品监督管理局2018年第107号通告",
       "category": "implant_ortho",
       "slug": "nmpa-gp-骨科外固定支架注册技术审查指导原则-2018年修订-31f5ff",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "none"
+      "classification_confidence": "none",
+      "superseded_by": "nmpa-gp-骨科外固定支架注册技术审查指导原则-2026年修订版-16c847"
     },
     {
       "id": "nmpa-gp-一次性使用医用喉罩注册技术审查指导原则-2018年修订-d91960",
@@ -1690,14 +1692,15 @@
         "zh": "一次性使用医用喉罩注册技术审查指导原则（2018年修订）",
         "en": ""
       },
-      "status": "active",
+      "status": "superseded",
       "source_url": "",
       "doc_number": "国家药品监督管理局2018年第107号通告",
       "category": "respiratory",
       "slug": "nmpa-gp-一次性使用医用喉罩注册技术审查指导原则-2018年修订-5ccda9",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "none"
+      "classification_confidence": "none",
+      "superseded_by": "nmpa-gp-一次性使用医用喉罩注册审查指导原则-2026年修订版-f77cac"
     },
     {
       "id": "nmpa-gp-骨水泥套管组件注册技术审查指导原则-f1cbdc",
@@ -1735,14 +1738,15 @@
         "zh": "全瓷义齿用氧化锆瓷块注册技术审查指导原则（2018年修订）",
         "en": ""
       },
-      "status": "active",
+      "status": "superseded",
       "source_url": "https://www.nmpa.gov.cn/directory/web/nmpa/images/ufq80tKpxre84La9udzA7b7WMjAxOMTqtdoxMTa6xc2ouOa4vbz+Mi5kb2M=.doc",
       "doc_number": "国家药品监督管理局2018年第116号通告",
       "category": "dental",
       "slug": "cmde-2018-116-3dbf",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "none"
+      "classification_confidence": "none",
+      "superseded_by": "nmpa-gp-全瓷义齿用氧化锆瓷块注册技术审查指导原则-2026年修订版-9f8738"
     },
     {
       "id": "nmpa-gp-手动轮椅车注册技术审查指导原则-69a01c",
@@ -1765,14 +1769,15 @@
         "zh": "外科纱布敷料注册技术审查指导原则（2018年修订）",
         "en": ""
       },
-      "status": "active",
+      "status": "superseded",
       "source_url": "https://www.nmpa.gov.cn/directory/web/nmpa/images/ufq80tKpxre84La9udzA7b7WMjAxOMTqtdoxMjC6xc2ouOa4vbz+MS5kb2M=.doc",
       "doc_number": "国家药品监督管理局2018年第120号通告",
       "category": "wound_care",
       "slug": "cmde-2018-120-a556",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "none"
+      "classification_confidence": "none",
+      "superseded_by": "nmpa-gp-外科纱布敷料注册审查指导原则-2026年修订版-6cab90"
     },
     {
       "id": "nmpa-gp-吻-缝-合器产品注册技术审查指导原则-2018年修订-04b868",
@@ -11794,6 +11799,86 @@
       "classification_codes": [],
       "classification_l1_codes": [],
       "classification_confidence": "none"
+    },
+    {
+      "id": "nmpa-gp-骨科外固定支架注册技术审查指导原则-2026年修订版-16c847",
+      "title": {
+        "zh": "骨科外固定支架注册技术审查指导原则（2026年修订版）",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://www.cmde.org.cn/flfg/zdyz/zdyzwbk/20260810160918137.html",
+      "doc_number": "国家药品监督管理局医疗器械技术审评中心2026年第24号通告",
+      "category": "implant_ortho",
+      "slug": "cmde-2026-24-ortho-fixator",
+      "classification_codes": [],
+      "classification_l1_codes": [],
+      "classification_confidence": "none",
+      "publish_date": "2026-07-21"
+    },
+    {
+      "id": "nmpa-gp-全瓷义齿用氧化锆瓷块注册技术审查指导原则-2026年修订版-9f8738",
+      "title": {
+        "zh": "全瓷义齿用氧化锆瓷块注册技术审查指导原则（2026年修订版）",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://www.cmde.org.cn/flfg/zdyz/zdyzwbk/20260810160954130.html",
+      "doc_number": "国家药品监督管理局医疗器械技术审评中心2026年第24号通告",
+      "category": "dental",
+      "slug": "cmde-2026-24-zirconia",
+      "classification_codes": [],
+      "classification_l1_codes": [],
+      "classification_confidence": "none",
+      "publish_date": "2026-07-21"
+    },
+    {
+      "id": "nmpa-gp-定制式义齿注册技术审查指导原则-2026年修订版-11f631",
+      "title": {
+        "zh": "定制式义齿注册技术审查指导原则（2026年修订版）",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://www.cmde.org.cn/flfg/zdyz/zdyzwbk/20260810161033141.html",
+      "doc_number": "国家药品监督管理局医疗器械技术审评中心2026年第24号通告",
+      "category": "dental",
+      "slug": "cmde-2026-24-custom-denture",
+      "classification_codes": [],
+      "classification_l1_codes": [],
+      "classification_confidence": "none",
+      "publish_date": "2026-07-21"
+    },
+    {
+      "id": "nmpa-gp-一次性使用医用喉罩注册审查指导原则-2026年修订版-f77cac",
+      "title": {
+        "zh": "一次性使用医用喉罩注册审查指导原则（2026年修订版）",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://www.cmde.org.cn/flfg/zdyz/zdyzwbk/20260810161330194.html",
+      "doc_number": "国家药品监督管理局医疗器械技术审评中心2026年第24号通告",
+      "category": "respiratory",
+      "slug": "cmde-2026-24-laryngeal-mask",
+      "classification_codes": [],
+      "classification_l1_codes": [],
+      "classification_confidence": "none",
+      "publish_date": "2026-07-21"
+    },
+    {
+      "id": "nmpa-gp-外科纱布敷料注册审查指导原则-2026年修订版-6cab90",
+      "title": {
+        "zh": "外科纱布敷料注册审查指导原则（2026年修订版）",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://www.cmde.org.cn/flfg/zdyz/zdyzwbk/20260810161410115.html",
+      "doc_number": "国家药品监督管理局医疗器械技术审评中心2026年第24号通告",
+      "category": "wound_care",
+      "slug": "cmde-2026-24-gauze-dressing",
+      "classification_codes": [],
+      "classification_l1_codes": [],
+      "classification_confidence": "none",
+      "publish_date": "2026-07-21"
     }
   ]
 }

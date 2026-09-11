@@ -10,7 +10,7 @@ export default {
       "link": "/zh/nmpa/guidance"
     },
     {
-      "text": "其他 (286)",
+      "text": "其他 (312)",
       "collapsed": true,
       "items": [
         {
@@ -20,6 +20,10 @@ export default {
         {
           "text": "2025版",
           "link": "/zh/nmpa/guidance/2025-2"
+        },
+        {
+          "text": "25-羟基维生素D检测试剂注册技术审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-25-羟基维生素d检测试剂注册技术审查指导原则-c3404e"
         },
         {
           "text": "3D打印人工椎体注册技术审查指导原则",
@@ -98,8 +102,16 @@ export default {
           "link": "/zh/nmpa/guidance/cmde-2022-41-155d"
         },
         {
+          "text": "一次性使用医用喉罩注册审查指导原则（2026年修订版）",
+          "link": "/zh/nmpa/guidance/cmde-2026-24-laryngeal-mask"
+        },
+        {
           "text": "一次性使用吸痰管注册技术审查指导原则（2018年第120号）",
           "link": "/zh/nmpa/guidance/cmde-2018-120"
+        },
+        {
+          "text": "一次性使用心电电极注册审查指导原则（2025年修订版）",
+          "link": "/zh/nmpa/guidance/cmde-2025-27"
         },
         {
           "text": "一次性使用心脏固定器注册审查指导原则",
@@ -152,6 +164,10 @@ export default {
         {
           "text": "一次性使用输尿管导引鞘注册审查指导原则",
           "link": "/zh/nmpa/guidance/cmde-2021-102-679c"
+        },
+        {
+          "text": "一次性使用输注器具产品注册审查指导原则（2023年修订版）",
+          "link": "/zh/nmpa/guidance/cmde-2023-15"
         },
         {
           "text": "一次性使用输注泵（非电驱动）注册技术审查指导原则",
@@ -246,6 +262,10 @@ export default {
           "link": "/zh/nmpa/guidance/cmde-2025-16-d4bc"
         },
         {
+          "text": "人类白细胞抗原（HLA）基因分型检测试剂注册审查指导原则",
+          "link": "/zh/nmpa/guidance/cmde-2026-2"
+        },
+        {
           "text": "人绒毛膜促性腺激素检测试剂（胶体金免疫层析法）注册审查指导原则（2024年修订版）",
           "link": "/zh/nmpa/guidance/cmde-2024-21-7a00"
         },
@@ -288,6 +308,10 @@ export default {
         {
           "text": "全瓷义齿用氧化锆瓷块注册技术审查指导原则（2018年修订）",
           "link": "/zh/nmpa/guidance/cmde-2018-116-3dbf"
+        },
+        {
+          "text": "全瓷义齿用氧化锆瓷块注册技术审查指导原则（2026年修订版）",
+          "link": "/zh/nmpa/guidance/cmde-2026-24-zirconia"
         },
         {
           "text": "全自动化学发光免疫分析仪注册审查指导原则（2025年修订版）",
@@ -510,12 +534,24 @@ export default {
           "link": "/zh/nmpa/guidance/nmpa-notice-2019-41"
         },
         {
+          "text": "地中海贫血相关基因检测试剂注册技术审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-地中海贫血相关基因检测试剂注册技术审查指导原则-b6be64"
+        },
+        {
           "text": "增材制造椎间融合器注册审查指导原则",
           "link": "/zh/nmpa/guidance/nmpa-gp-增材制造椎间融合器注册审查指导原则-190042"
         },
         {
+          "text": "大便隐血（FOB）检测试剂盒（胶体金免疫层析法）注册审查指导原则（2024年修订版）",
+          "link": "/zh/nmpa/guidance/cmde-2024-21-7444"
+        },
+        {
           "text": "天然胶乳橡胶避孕套产品注册审查指导原则（2024年修订版）",
           "link": "/zh/nmpa/guidance/cmde-2024-21-ee37"
+        },
+        {
+          "text": "天门冬氨酸氨基转移酶测定试剂注册技术审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-天门冬氨酸氨基转移酶测定试剂注册技术审查指导原则-18d54c"
         },
         {
           "text": "子宫内膜射频消融设备注册技术审查指导原则",
@@ -528,6 +564,10 @@ export default {
         {
           "text": "定制式义齿注册技术审查指导原则",
           "link": "/zh/nmpa/guidance/cmde-2018-80-da50"
+        },
+        {
+          "text": "定制式义齿注册技术审查指导原则（2026年修订版）",
+          "link": "/zh/nmpa/guidance/cmde-2026-24-custom-denture"
         },
         {
           "text": "定量剪切波超声肝脏测量仪注册审查指导原则",
@@ -590,6 +630,10 @@ export default {
           "link": "/zh/nmpa/guidance/cmde-2024-19-8c6e"
         },
         {
+          "text": "弓形虫、风疹病毒、巨细胞病毒、单纯疱疹病毒抗体及G型免疫球蛋白抗体亲合力检测试剂注册审查指导原则（2023年修订版））",
+          "link": "/zh/nmpa/guidance/cmde-2024-2-5a97"
+        },
+        {
           "text": "强脉冲光治疗设备注册审查指导原则（2023年修订版）",
           "link": "/zh/nmpa/guidance/cmde-2023-12"
         },
@@ -604,6 +648,10 @@ export default {
         {
           "text": "心电图机产品注册审查指导原则（2025年修订版）",
           "link": "/zh/nmpa/guidance/cmde-2025-27-7823"
+        },
+        {
+          "text": "心肌肌钙蛋白I/肌红蛋白/肌酸激酶同工酶MB检测试剂（胶体金免疫层析法）注册审查指导原则（2025年修订版）",
+          "link": "/zh/nmpa/guidance/cmde-2025-27-b8e2"
         },
         {
           "text": "总三碘甲状腺原氨酸检测试剂注册技术审查指导原则",
@@ -678,6 +726,10 @@ export default {
           "link": "/zh/nmpa/guidance/cmde-2023-2-2d14"
         },
         {
+          "text": "新型冠状病毒（2019-nCoV）核酸检测试剂注册审查指导原则（2023年修订版）",
+          "link": "/zh/nmpa/guidance/cmde-2023-2"
+        },
+        {
           "text": "无创血糖监测产品注册审查指导原则（2023年第42号）",
           "link": "/zh/nmpa/guidance/cmde-2023-42"
         },
@@ -728,6 +780,10 @@ export default {
         {
           "text": "气管插管产品注册审查指导原则（2024年修订版）",
           "link": "/zh/nmpa/guidance/endotracheal-intubation-2024"
+        },
+        {
+          "text": "泌乳素检测试剂注册技术审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-泌乳素检测试剂注册技术审查指导原则-a474a2"
         },
         {
           "text": "流式细胞仪配套用检测试剂（第一、二类）注册审查指导原则 （2024年修订版）",
@@ -826,6 +882,10 @@ export default {
           "link": "/zh/nmpa/guidance/cmde-2024-19-8c9f"
         },
         {
+          "text": "电解质钾、钠、氯、钙测定试剂注册审查指导原则（2025年修订版）",
+          "link": "/zh/nmpa/guidance/cmde-2025-27-9"
+        },
+        {
           "text": "病人监护产品（第二类）注册审查指导原则（2025年修订版）",
           "link": "/zh/nmpa/guidance/cmde-2025-27-4"
         },
@@ -840,6 +900,10 @@ export default {
         {
           "text": "直接检眼镜注册技术审查指导原则",
           "link": "/zh/nmpa/guidance/cmde-2019-79"
+        },
+        {
+          "text": "真菌（1-3）-β-D葡聚糖测定试剂注册审查指导原则",
+          "link": "/zh/nmpa/guidance/cmde-2022-35-1d5f"
         },
         {
           "text": "眼压计注册技术审查指导原则",
@@ -910,6 +974,10 @@ export default {
           "link": "/zh/nmpa/guidance/cmde-2025-27-81cc"
         },
         {
+          "text": "纤维蛋白单体测定试剂注册审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-纤维蛋白单体测定试剂注册审查指导原则-e0d8d7"
+        },
+        {
           "text": "结核分枝杆菌复合群核酸检测试剂注册审查指导原则（2025年修订版）",
           "link": "/zh/nmpa/guidance/cmde-2026-6"
         },
@@ -934,6 +1002,14 @@ export default {
           "link": "/zh/nmpa/guidance/cmde-2021-4-af8e"
         },
         {
+          "text": "肿瘤标志物类定量检测试剂注册审查指导原则（2023年修订版））",
+          "link": "/zh/nmpa/guidance/cmde-2024-1-7754"
+        },
+        {
+          "text": "肿瘤相关突变基因检测试剂（高通量测序法）性能评价通用注册技术审查指导原则",
+          "link": "/zh/nmpa/guidance/cmde-2019-83"
+        },
+        {
           "text": "胰岛素泵注册审查指导原则（2023年第26号）",
           "link": "/zh/nmpa/guidance/insulin-pump-14-03-02"
         },
@@ -954,6 +1030,10 @@ export default {
           "link": "/zh/nmpa/guidance/sternum-strapping-system-2025"
         },
         {
+          "text": "脂蛋白（a）检测试剂注册审查指导原则",
+          "link": "/zh/nmpa/guidance/cmde-2025-20"
+        },
+        {
           "text": "脉搏血氧仪注册技术审查指导原则（2017年修订版）",
           "link": "/zh/nmpa/guidance/cmde-2017-177"
         },
@@ -970,6 +1050,10 @@ export default {
           "link": "/zh/nmpa/guidance/cmde-2026-3-2ec9"
         },
         {
+          "text": "腹腔、盆腔外科手术用可吸收防粘连产品注册审查指导原则（2024年修订版）",
+          "link": "/zh/nmpa/guidance/cmde-2024-23"
+        },
+        {
           "text": "腹膜透析设备注册审查指导原则（2024年修订版）",
           "link": "/zh/nmpa/guidance/cmde-2024-19-1"
         },
@@ -980,6 +1064,10 @@ export default {
         {
           "text": "自测用血糖监测系统注册审查指导原则（2023年修订版）",
           "link": "/zh/nmpa/guidance/bgm-2023"
+        },
+        {
+          "text": "荧光免疫层析分析仪注册审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-荧光免疫层析分析仪注册审查指导原则-c3d31e"
         },
         {
           "text": "药品、医疗器械、保健食品、特殊医学用途配方食品广告审查管理暂行办法",
@@ -1078,12 +1166,20 @@ export default {
           "link": "/zh/nmpa/guidance/cmde-2015-93"
         },
         {
+          "text": "运动神经元存活基因1（SMN1）检测试剂注册审查指导原则",
+          "link": "/zh/nmpa/guidance/cmde-2022-44"
+        },
+        {
           "text": "远程监测系统注册审查指导原则",
           "link": "/zh/nmpa/guidance/remote-monitoring-system-2024"
         },
         {
           "text": "遗传性耳聋相关基因突变检测试剂注册技术审查指导原则",
           "link": "/zh/nmpa/guidance/cmde-2021-4"
+        },
+        {
+          "text": "酶联免疫分析仪注册审查指导原则（2025年修订版）",
+          "link": "/zh/nmpa/guidance/nmpa-gp-酶联免疫分析仪注册审查指导原则-2025年修订版-9da55f"
         },
         {
           "text": "酶联免疫法检测试剂注册技术审查指导原则",
@@ -1130,6 +1226,10 @@ export default {
           "link": "/zh/nmpa/guidance/cmde-2021-4-c676"
         },
         {
+          "text": "雌激素受体、孕激素受体抗体试剂及检测试剂盒注册审查指导原则（2025年修订版）",
+          "link": "/zh/nmpa/guidance/cmde-2025-4-6321"
+        },
+        {
           "text": "非吸收性外科缝线注册审查指导原则",
           "link": "/zh/nmpa/guidance/cmde-2022-41-7c93"
         },
@@ -1154,13 +1254,17 @@ export default {
           "link": "/zh/nmpa/guidance/cmde-2026-4-b875"
         },
         {
+          "text": "高危型人乳头瘤病毒（HPV）核酸检测及基因分型试剂注册审查指导原则（2025年修订稿）",
+          "link": "/zh/nmpa/guidance/cmde-2025-16"
+        },
+        {
           "text": "高密度脂蛋白胆固醇测定试剂注册审查指导原则（2025年修订版）",
           "link": "/zh/nmpa/guidance/cmde-2025-27-6"
         }
       ]
     },
     {
-      "text": "骨科与植入器械 (15)",
+      "text": "骨科与植入器械 (16)",
       "collapsed": true,
       "items": [
         {
@@ -1216,6 +1320,10 @@ export default {
           "link": "/zh/nmpa/guidance/skull-repair-mesh-system-2025"
         },
         {
+          "text": "骨科外固定支架注册技术审查指导原则（2026年修订版）",
+          "link": "/zh/nmpa/guidance/cmde-2026-24-ortho-fixator"
+        },
+        {
           "text": "骨科植入物抗菌性能评价注册审查指导原则",
           "link": "/zh/nmpa/guidance/antimicrobial-properties-of-orthopedic-implants-2025"
         },
@@ -1226,7 +1334,7 @@ export default {
       ]
     },
     {
-      "text": "伤口护理与生物材料 (17)",
+      "text": "伤口护理与生物材料 (18)",
       "collapsed": true,
       "items": [
         {
@@ -1240,6 +1348,10 @@ export default {
         {
           "text": "医用透明质酸钠创面敷料注册审查指导原则",
           "link": "/zh/nmpa/guidance/cmde-2024-21-6711"
+        },
+        {
+          "text": "外科纱布敷料注册审查指导原则（2026年修订版）",
+          "link": "/zh/nmpa/guidance/cmde-2026-24-gauze-dressing"
         },
         {
           "text": "外科纱布敷料注册技术审查指导原则（2018年修订）",
@@ -1300,7 +1412,7 @@ export default {
       ]
     },
     {
-      "text": "眼科器械 (6)",
+      "text": "眼科器械 (7)",
       "collapsed": true,
       "items": [
         {
@@ -1322,6 +1434,10 @@ export default {
         {
           "text": "眼科超声乳化和玻璃体切除设备及附件注册审查指导原则（2025年修订版)",
           "link": "/zh/nmpa/guidance/cmde-2025-28"
+        },
+        {
+          "text": "眼科高频超声诊断仪注册技术审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-眼科高频超声诊断仪注册技术审查指导原则-e9d60a"
         },
         {
           "text": "硬性角膜接触镜说明书编写指导原则（2023年修订版）",
@@ -1566,7 +1682,7 @@ export default {
       ]
     },
     {
-      "text": "临床评价 (52)",
+      "text": "临床评价 (54)",
       "collapsed": true,
       "items": [
         {
@@ -1700,6 +1816,14 @@ export default {
         {
           "text": "外周药物涂层球囊扩张导管临床试验注册审查指导原则（2025年第2号）",
           "link": "/zh/nmpa/guidance/pdcb-ci-2025"
+        },
+        {
+          "text": "影像型超声诊断设备同品种临床评价技术审查指导原则",
+          "link": "/zh/nmpa/guidance/cmde-2021-2"
+        },
+        {
+          "text": "微卫星不稳定性（MSI）检测试剂临床试验注册审查指导原则",
+          "link": "/zh/nmpa/guidance/cmde-2022-40-2343"
         },
         {
           "text": "抗肿瘤药物的非原研伴随诊断试剂临床试验注册审查指导原则",
@@ -1842,7 +1966,7 @@ export default {
       ]
     },
     {
-      "text": "影像与诊断器械 (28)",
+      "text": "影像与诊断器械 (32)",
       "collapsed": true,
       "items": [
         {
@@ -1922,6 +2046,10 @@ export default {
           "link": "/zh/nmpa/guidance/cmde-2024-19-4"
         },
         {
+          "text": "正电子发射/X射线计算机断层成像系统注册技术审查指导原则",
+          "link": "/zh/nmpa/guidance/cmde-2020-13-bc3b"
+        },
+        {
           "text": "用于放射治疗的X射线图像引导系统注册技术审查指导原则",
           "link": "/zh/nmpa/guidance/cmde-2020-13"
         },
@@ -1950,8 +2078,20 @@ export default {
           "link": "/zh/nmpa/guidance/gastroscopic-lubricants"
         },
         {
+          "text": "腹腔内窥镜手术系统注册审查指导原则 第1部分：手术器械",
+          "link": "/zh/nmpa/guidance/cmde-2023-5"
+        },
+        {
           "text": "腹腔内窥镜手术系统注册审查指导原则 第4部分：风险管理",
           "link": "/zh/nmpa/guidance/laparoscopic-surgery-system"
+        },
+        {
+          "text": "腹腔内窥镜手术系统注册审查指导原则第2部分：动物试验决策判定和要求",
+          "link": "/zh/nmpa/guidance/cmde-2024-12-897e"
+        },
+        {
+          "text": "腹腔内窥镜手术系统注册审查指导原则第3部分：三维内窥镜",
+          "link": "/zh/nmpa/guidance/cmde-2024-12"
         },
         {
           "text": "软性纤维内窥镜注册审查指导原则（2025年修订版）",
