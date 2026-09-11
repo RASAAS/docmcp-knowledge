@@ -1,20 +1,3 @@
----
-id: nmpa-gp-辅助生殖用胚胎移植导管注册技术审查指导原则-9e509f
-title:
-  zh: 辅助生殖用胚胎移植导管注册技术审查指导原则
-  en: ''
-regulation: nmpa
-category: nmpa/guidance
-status: active
-document_number: 国家药品监督管理局2019年第78号通告
-source_format: markdown
-translation: original
-effective_date: '2019-01-01'
-contributor: RASAAS
-promoted_from: fulltext
----
-# 辅助生殖用胚胎移植导管注册技术审查指导原则
-
 <!-- source: cmde-skill-batch 辅助生殖用胚胎移植导管注册技术审查指导原则_2019年第78号.doc -->
 <!-- source_url: https://www.cmde.org.cn/flfg/zdyz/zdyzwbk/20191104134337723.html -->
 <!-- title: 辅助生殖用胚胎移植导管注册技术审查指导原则 -->

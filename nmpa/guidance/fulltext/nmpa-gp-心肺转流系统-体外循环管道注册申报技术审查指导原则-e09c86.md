@@ -1,20 +1,3 @@
----
-id: nmpa-gp-心肺转流系统-体外循环管道注册申报技术审查指导原则-a0fc1e
-title:
-  zh: 心肺转流系统 体外循环管道注册申报技术审查指导原则
-  en: ''
-regulation: nmpa
-category: nmpa/guidance
-status: active
-document_number: 国家药品监督管理局2019年第78号通告
-source_format: markdown
-translation: original
-effective_date: '2019-01-01'
-contributor: RASAAS
-promoted_from: fulltext
----
-# 心肺转流系统 体外循环管道注册申报技术审查指导原则
-
 <!-- source: cmde-skill-batch 心肺转流系统 体外循环管道注册申报技术审查指导原则_2019年第78号.docx -->
 <!-- source_url: https://www.cmde.org.cn/flfg/zdyz/zdyzwbk/20191104134527224.html -->
 <!-- title: 心肺转流系统 体外循环管道注册申报技术审查指导原则 -->
