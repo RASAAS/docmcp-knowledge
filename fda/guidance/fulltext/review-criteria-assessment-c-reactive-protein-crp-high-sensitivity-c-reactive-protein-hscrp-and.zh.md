@@ -1,35 +1,10 @@
----
-title: "评估C反应蛋白 (CRP),高敏感性C反应蛋白 (hsCRP) 和心脏C反应检测标准：行业与FDA工作人员指南"
-description: "Review Criteria for Assessment of C-Reactive Protein (CRP), High Sensitivity C-Reactive Protein (hsCRP) and Cardiac C-Reactive Assays: Guidance for Industry and FDA Staff"
-published: 2005-09-22
----
+# C-反应性蛋白(CRP)、高敏感度C-反应性蛋白(hsCRP)和心脏病C-反应性分析:工业和FDA工作人员指南
 
-# 评估C反应蛋白 (CRP),高敏感性C反应蛋白 (hsCRP) 和心脏C反应检测标准：行业与FDA工作人员指南
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/review-criteria-assessment-c-reactive-protein-crp-high-sensitivity-c-reactive-protein-hscrp-and](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/review-criteria-assessment-c-reactive-protein-crp-high-sensitivity-c-reactive-protein-hscrp-and)
 
-**Review Criteria for Assessment of C-Reactive Protein (CRP), High Sensitivity C-Reactive Protein (hsCRP) and Cardiac C-Reactive Assays: Guidance for Industry and FDA Staff**
-
-**发布日期**：2005-09-22
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：上市后
-**主题**：Postmarket、Cardiovascular
-**案卷号**：FDA-2020-D-0957
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/review-criteria-assessment-c-reactive-protein-crp-high-sensitivity-c-reactive-protein-hscrp-and
-PDF：https://www.fda.gov/media/71337/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 2005-09-22
 
 ---
-
-## 官方文件全文
 
 FDA的指南文件,包括本指南,没有规定法律上可执行的责任。相反,指导说明工程处目前对某一专题的想法,只应视为建议,除非引述具体的规章或法规要求。在原子能机构的指导意见中使用这个词意味着建议或建议某种东西,但并不要求。
 
@@ -103,7 +78,7 @@ FDA在下表中确定了本文件所述使用CRP测试对健康构成的风险�
 • 价值分配和验证的规程和接受标准,包括所使用的任何特定工具应用或统计分析。
 · 查明国内或国际标准参考材料的可追踪性。FDA建议,应使CRP检验标准标准化,使之符合国际会计师联合会/国际竞争理事会/国际竞争理事会/CCR/CAP CRM 470和 hSCRP检验标准,至少应可追踪到这一标准。
 • 将一级校准器性能转让给二级校准器的规程和接受标准。
-有关在862.1150之下单独作为二级装置销售的校准器的信息,见指导意见“简化了510(k) 用于活性诊断校准的呈文”, ++0 &#123;__
+有关在862.1150之下单独作为二级装置销售的校准器的信息,见指导意见“简化了510(k) 用于活性诊断校准的呈文”, ++0 {__
 9. 方法比较一般建议
 您应该将使用设备获得的结果与使用具有类似使用迹象和类似试验范围前提装置获得的结果进行比较。只要有关于样品特征的适当资料,银行(反向)样品可能适合研究。
 您应该对病人样本进行评估,这些样本应具有CRP浓度,分布在可报告范围的实验中。无论是否使用未来或追溯收集的样品,我们建议你清楚说明如何选择这些样品,包括排除样品的原因。我们建议,请说明样本是从具有特定临床结果或风险简介的病人中挑选的,这些症状与常规CRP检测或hsCRP或cCRP检测的症状有关。
@@ -174,4 +149,3 @@ Fadl YY, Fortmann SP, Hong Y, Myers GL, Rifai N, Smith SC Jr, Taubert K, Tracy R
 [^1]: 3. 缩略语510(k)的内容和格式
 
 [^4]: 见《宣布符合公认标准的必要要素》(所有预先通知[510(K)]提交材料的清查清单),NQD - 心脏病C-反应性蛋白、抗原、抗血清(a)识别。C-反应性蛋白免疫测试系统是一种装置,由用来用免疫化学技术测量血清和其他体液中的C-反应性蛋白的试剂组成。在评估人体组织损伤数量时测量C-反应性蛋白辅助剂。 (b) 分类,第二类(性能标准)。
-

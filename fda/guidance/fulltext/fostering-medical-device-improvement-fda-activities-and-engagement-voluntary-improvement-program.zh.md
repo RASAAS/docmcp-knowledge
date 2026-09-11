@@ -1,35 +1,10 @@
----
-title: "促进医疗器械的改进:FDA活动和与自愿改进计划的参与：行业与食品药品管理局工作人员指南"
-description: "Fostering Medical Device Improvement: FDA Activities and Engagement with the Voluntary Improvement Program: Guidance for Industry and Food and Drug Administration Staff"
-published: 2023-09-15
----
+# 促进改善医疗设备:FDA的活动和参与自愿改进方案:工业、美国食品药品监督管理局工作人员指南
 
-# 促进医疗器械的改进:FDA活动和与自愿改进计划的参与：行业与食品药品管理局工作人员指南
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/fostering-medical-device-improvement-fda-activities-and-engagement-voluntary-improvement-program](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/fostering-medical-device-improvement-fda-activities-and-engagement-voluntary-improvement-program)
 
-**Fostering Medical Device Improvement: FDA Activities and Engagement with the Voluntary Improvement Program: Guidance for Industry and Food and Drug Administration Staff**
-
-**发布日期**：2023-09-15
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：质量与生产
-**主题**：Postmarket、Current Good Manufacturing Practice (CGMP)
-**案卷号**：FDA-2022-D-0109
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/fostering-medical-device-improvement-fda-activities-and-engagement-voluntary-improvement-program
-PDF：https://www.fda.gov/media/158180/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 2023-09-15
 
 ---
-
-## 官方文件全文
 
 2024年2月2日,FDA在21 CFR 第820部分(89 FR 7496,自2月2日起,2026年2月2日起生效)公布了修订质量管理体系法规的最后规则。经修订的21 CFR Part 820现题为 " 质量管理体系法规 " 。QMSR统一了质量管理体系的要求,以参考方式纳入了国际标准化组织(标准化组织)为医疗设备质量管理体系制定的国际标准,ISO 13485:2016. FDA确定,ISO 13485中的要求如果全部采用,与质量保障制度条例的要求基本相似,在企业的质量管理体系中提供类似程度的保证,并有能力始终如一地制造安全和有效的、在其他方面符合《联邦食品法》的装置,《毒品和化妆法》(FD和C法)。
 本指南文件是在最后规则生效日期之前印发的。FDA鼓励制造商审查当前的质量和计量及计量标准,以确保遵守相关监管要求。
@@ -116,7 +91,7 @@ FDA和贵宾参与者有一个共同目标,即通过协作和沟通,积极主动
 ## VI. 1995年《减少文件编制法》
 这份指南载有资料收集规定,根据1995年《减少文件法》(44 U.S.C.)的规定,管理预算办公室(OMB)将审查这些规定。
 3501-3521。
-完成收集资料所需时间估计平均为28小时(四舍五入)。向FDAPRA工作人员、行动厅、美国食品药品监督管理局、美国食品药品监督管理局、FDA工作人员、美国食品药品监督管理局、美国食品药品监督管理局、FDA、美国食品药品监督管理局、FDA、美国食品药品监督管理局、FDA。机构不得行为或赞助,也不得要求个人对下列事项作出反应:收集信息,除非它显示当前有效的 OMB 控制编号。此信息收集的 OMB 控制号为 0910- 0922 (为查找当前到期日, 请在 &#123;0&#125; 查找此 OMB 控制号 。)
+完成收集资料所需时间估计平均为28小时(四舍五入)。向FDAPRA工作人员、行动厅、美国食品药品监督管理局、美国食品药品监督管理局、FDA工作人员、美国食品药品监督管理局、美国食品药品监督管理局、FDA、美国食品药品监督管理局、FDA、美国食品药品监督管理局、FDA。机构不得行为或赞助,也不得要求个人对下列事项作出反应:收集信息,除非它显示当前有效的 OMB 控制编号。此信息收集的 OMB 控制号为 0910- 0922 (为查找当前到期日, 请在 {0} 查找此 OMB 控制号 。)
 附录A:通过指南文件修改的提交格式,FDA建议提供某些资料,以便列入某些类型的提交材料(即PMA/HDE 30天变化通知,PMA/HDE制造厂场变化补充材料、PMA/HDE制造单元)。它将深入了解参与方的制造工艺和控制能力,这些工艺和控制能力有可能针对这些监管呈文提出一些建议。因此,要人参与者可能能够利用效率,防止信息重复和(或)允许向FDA提交最不麻烦的文件15。
 30天变更通知提交材料建议列入30天变更通知的内容,列在FDA题为 " 30天通知,上市前批准补充品和75天人道主义装置豁免补充品,用于制造方法或工艺变化。”在要人期间,参加者可向FDA提供资料,说明有可能落实FDA关于30天变更通知的一些建议的情况。评估结果和贵宾业绩衡量标准可以使FDA了解参加点的控制能力,并充分保证对制造该装置所使用的质量控制作出知情判断。FDA制定了经修订的提交格式,供要人与会者使用,以处理其余建议。
 - 贵宾评价评价参与地点支助、管理、维持和改进既定程序的能力。因此,FDA打算向贵宾参与者提供机会,采用修改后的提交格式,其中不建议:
@@ -125,7 +100,7 @@ FDA和贵宾参与者有一个共同目标,即通过协作和沟通,积极主动
 - 描述您将如何监测和控制您打算改变的制造工艺。
 - 在已完成的证实研究摘要中,该研究表明,在不显著改变最终器械的操作的情况下,可以进行制造变化,解释如何实施变更控制程序,包括提交方是否修改了制造指令或质量控制指令,或制造规格。
 - 关于如何执行采购控制程序以评价任何新的供应商或承包商的摘要,如果制造业变化涉及15个FDA对“最低负担”的界定的改变,即为在适当的时候以最有效的方式适当解决相关监管问题或问题所需的最低限度信息。另见
-负担规定:《概念和原则》,可在 &lt; ___
+负担规定:《概念和原则》,可在 < ___
 在贵宾期间,预期评估将评价取样方法。因此,FDA打算向贵宾参与者提供机会,采用修改后的提交格式,其中不建议:
 
 - 如果提交者计划通过例行取样和独立测量来核实改变的程序,则取样方法的统计理由。
@@ -190,4 +165,3 @@ VIP预期,参与者将提供评估员,然后由他们向FDA提供这些或其他
 [^17]: 补充 - 内容 - 提交
 
 [^18]: 预市场申请审查
-

@@ -1,35 +1,10 @@
----
-title: "临床实验室改进的建议1988年 (CLIA) 免除在室内诊断设备制造商的申请：行业与食品药品管理局工作人员指南"
-description: "Recommendations for Clinical Laboratory Improvement Amendments of 1988 (CLIA) Waiver Applications for Manufacturers of In Vitro Diagnostic Devices: Guidance for Industry and Food and Drug Administration Staff"
-published: 2020-02-26
----
+# 关于1988年临床实验室改进修正案的建议(CLIA),对活性诊断器械制造商的豁免申请:工业、美国食品药品监督管理局工作人员指南
 
-# 临床实验室改进的建议1988年 (CLIA) 免除在室内诊断设备制造商的申请：行业与食品药品管理局工作人员指南
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/recommendations-clinical-laboratory-improvement-amendments-1988-clia-waiver-applications](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/recommendations-clinical-laboratory-improvement-amendments-1988-clia-waiver-applications)
 
-**Recommendations for Clinical Laboratory Improvement Amendments of 1988 (CLIA) Waiver Applications for Manufacturers of In Vitro Diagnostic Devices: Guidance for Industry and Food and Drug Administration Staff**
-
-**发布日期**：2020-02-26
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：体外诊断 / 伴随诊断
-**主题**：CLIA (Clinical Laboratory Improvement Amendments)
-**案卷号**：FDA-2017-D-5570
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/recommendations-clinical-laboratory-improvement-amendments-1988-clia-waiver-applications
-PDF：https://www.fda.gov/media/109582/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 2020-02-26
 
 ---
-
-## 官方文件全文
 
 本指南代表了美国食品药品监督管理局(美国食品药品监督管理局或机构)目前对这一专题的想法。它没有规定任何人的任何权利,对FDA或公众没有约束力。您可采取另一种方式,即满足适用的法规和条例的要求。为了讨论另一种办法,请与标题页所列FDA工作人员或负责本指南的办公室联系。
 ## I. 简介
@@ -71,7 +46,7 @@ CLIA要求持有豁免证书的实验室进行的试验必须“简单”。 8 �
 - 在考虑您的设备是否基于上述特性“简单”之后,在进行研究以支持放弃之前,请与FDA联系,征求对这个问题的反馈意见,以支持放弃。 9 在放弃申请中,您应描述设备中与上述特性对应的特征。
 尽可能(例如,如果试验系统是由一个单位化的设备组成),您应该附上设备样本,并附上您的豁免申请,以帮助FDA确定设备是否“简单”。您还可以安排一次会议,将设备带给FDA,以帮助FDA作出这一决定。
 
-9 关于从FDA获得反馈程序的资料,见“医疗设备提交反馈和会议请求:Q-Submission Programme,”可访问 &#123;0&#123;___
+9 关于从FDA获得反馈程序的资料,见“医疗设备提交反馈和会议请求:Q-Submission Programme,”可访问 {0{___
 ## IV. 证明“不协调结果的不重大风险”——故障警报和故障安全机制
 一般来说,放弃试验的错误结果风险应远远低于非放弃试验。您应在CLIA豁免申请中证明(1) 测试系统设计是健全的,即对环境和使用差异不敏感,(2) 有效控制所有已知的错误源。应利用灵活研究来显示稳健的设计,而风险管理则应用来显示发现和有效控制误差源,虽然两者并不相互排斥。
 多数风险控制措施应是故障防护措施或故障警报机制。
@@ -213,7 +188,7 @@ FDA认为,以下所述备选方案1-3在能够从先前的业绩研究(例如,�
 - 代表预定病人群的主体群体。
 - 预期样本类型和矩阵。
 
-30 关于从FDA获得反馈程序的资料,见“医疗设备提交反馈和会议请求:Q-Submission Programme,”可访问 &#123;0&#123;___
+30 关于从FDA获得反馈程序的资料,见“医疗设备提交反馈和会议请求:Q-Submission Programme,”可访问 {0{___
 32 例如,见,“在确定上市前通知(510(k))中具有不同技术特点的相当程度时,考虑有利风险因素,”可在__以及“在医疗设备预先市场批准和新分类中确定福利风险时应考虑的因素”,可查阅:__
 - 未受过训练的操作员代表那些在预定放弃设置中具有代表性的操作员。我们鼓励你以最少的培训来注册操作员,在准备使用该器械的场地类型方面可能遇到的培训最少。
 - 测试应纳入设施日常工作流程,操作人员往往在患者护理、检测和其他职责之间承担多重任务。
@@ -254,7 +229,7 @@ c. 用于您应只向未受过培训的操作人员提供针对未受过培训�
 - 关于所执行的质量控制程序的信息。
 - 相关列表。
 
-36 关于从FDA获得反馈程序的信息,见“医疗设备提交反馈和会议请求:Q-Submission Programme,”可访问 &#123;0&#123;___
+36 关于从FDA获得反馈程序的信息,见“医疗设备提交反馈和会议请求:Q-Submission Programme,”可访问 {0{___
 您还应向每位未受过培训的操作员报告下列情况: 完成的候选测试总数。
 - 初始无效结果数 。
 - 重新测试的结果数目。
@@ -383,7 +358,7 @@ A. 具有少数类型(如负、痕量、+、++、++、类别顺序以及这些�
 
 [^2]: 42 U.S.C.§263a(d)(2)。
 
-[^3]: 可在 &#123;0&#125; 双510k-clia-waiver-application-studies 上查阅。
+[^3]: 可在 {0} 双510k-clia-waiver-application-studies 上查阅。
 
 [^4]: 可在++0-Q-程序分类查阅。
 
@@ -424,4 +399,3 @@ A. 具有少数类型(如负、痕量、+、++、++、类别顺序以及这些�
 [^40]: 更详细的建议另见附录A。
 
 [^45]: 另见21 CFR 803.20和21 CFR Part 803,E分节。
-

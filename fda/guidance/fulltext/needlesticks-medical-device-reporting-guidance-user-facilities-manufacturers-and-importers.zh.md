@@ -1,35 +1,10 @@
----
-title: "针 - 用户设施,制造商和进口商的医疗器械报告指南"
-description: "Needlesticks - Medical Device Reporting Guidance for User Facilities, Manufacturers, and Importers"
-published: 2002-11-11
----
+# " 需要了解 -- -- 用户设施、制造商和进口商医疗设备报告指南 "
 
-# 针 - 用户设施,制造商和进口商的医疗器械报告指南
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/needlesticks-medical-device-reporting-guidance-user-facilities-manufacturers-and-importers](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/needlesticks-medical-device-reporting-guidance-user-facilities-manufacturers-and-importers)
 
-**Needlesticks - Medical Device Reporting Guidance for User Facilities, Manufacturers, and Importers**
-
-**发布日期**：2002-11-11
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：上市后
-**主题**：Adverse Event Reporting System (FAERS)
-**案卷号**：FDA-2020-D-0957
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/needlesticks-medical-device-reporting-guidance-user-facilities-manufacturers-and-importers
-PDF：https://www.fda.gov/media/71528/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 2002-11-11
 
 ---
-
-## 官方文件全文
 
 神经病
 
@@ -142,4 +117,3 @@ PDF：https://www.fda.gov/media/71528/download
 当21份CFR Part 803不需要向FDA报告这些事件时?
 
 用户设施无需向FDA提交涉及针头的强制性故障不良事件报告。我们鼓励保健工作者向器械制造商或FDA报告与针头事件有关的故障,通过FDA3500表3500上的FDA医疗观察自愿报告方案向FDA报告。有关FDA医疗观察自愿报告方案和3500FDA自愿报告表格的信息,可查阅FDA医疗观察主页:www.fda.gov/medwatch/。可通过访问医疗观察主页并点击“提交报告”或直接访问网站(www.accessdata.fda.gov/scripts/medwatch/),在线填写一份自愿报告。作为不通过互联网提交自愿报告的做法,你可以拨1-800-FDA-1088或1-240-276-3000向我们报告。
-

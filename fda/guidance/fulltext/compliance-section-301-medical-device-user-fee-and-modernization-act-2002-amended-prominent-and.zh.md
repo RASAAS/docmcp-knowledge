@@ -1,35 +1,10 @@
----
-title: "根据2002年\"医疗器械用户费\"和\"现代化法\"第301条的遵守,：行业与FDA工作人员指南"
-description: "Compliance with Section 301 of the Medical Device User Fee and Modernization Act of 2002, as amended – Prominent and Conspicuous Mark of Manufacturers on Single-Use Devices: Guidance for Industry and FDA Staff"
-published: 2006-05-01
----
+# 遵守经修正的2002年《医疗设备用户费用和现代化法》第301节——制造商在单一用途设备上突出和突出标记:工业和FDA工作人员指南
 
-# 根据2002年"医疗器械用户费"和"现代化法"第301条的遵守,：行业与FDA工作人员指南
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/compliance-section-301-medical-device-user-fee-and-modernization-act-2002-amended-prominent-and](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/compliance-section-301-medical-device-user-fee-and-modernization-act-2002-amended-prominent-and)
 
-**Compliance with Section 301 of the Medical Device User Fee and Modernization Act of 2002, as amended – Prominent and Conspicuous Mark of Manufacturers on Single-Use Devices: Guidance for Industry and FDA Staff**
-
-**发布日期**：2006-05-01
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：标签标识 / UDI
-**主题**：Postmarket、User Fees、Labeling
-**案卷号**：FDA-2005-D-0156
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/compliance-section-301-medical-device-user-fee-and-modernization-act-2002-amended-prominent-and
-PDF：https://www.fda.gov/media/71187/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 2006-05-01
 
 ---
-
-## 官方文件全文
 
 2024年2月2日,FDA在21 CFR 第820部分(89 FR 7496,自2月2日起,2026年2月2日起生效)公布了修订质量管理体系法规的最后规则。经修订的21 CFR Part 820现题为 " 质量管理体系法规 " 。QMSR统一了质量管理体系的要求,以参考方式纳入了国际标准化组织(标准化组织)为医疗设备质量管理体系制定的国际标准,ISO 13485:2016. FDA确定,ISO 13485中的要求如果全部采用,与质量保障制度条例的要求基本相似,在企业的质量管理体系中提供类似程度的保证,并有能力始终如一地制造安全和有效的、在其他方面符合《联邦食品法》的装置,《毒品和化妆法》(FD和C法)。
 本指南文件是在最后规则生效日期之前印发的。FDA鼓励制造商审查当前的质量和计量及计量标准,以确保遵守相关监管要求。
@@ -225,4 +200,3 @@ OEM是否标记了原始装置?
 某一机构不得进行或赞助收集资料,也不必要求某人答复,除非它显示目前有效的人事厅控制号码。本资料收集的OMB控制号为0910-0577,到期时间05/31/2018。
 
 10 个
-

@@ -1,35 +1,10 @@
----
-title: "抗微生物敏感性测试系统设备 更新设备标签的断点：行业与食品药品管理局工作人员指南"
-description: "Antimicrobial Susceptibility Test (AST) System Devices – Updating Breakpoints in Device Labeling: Guidance for Industry and Food and Drug Administration Staff"
-published: 2023-09-29
----
+# 抗微生物受体受体测试系统设备 - 更新设备标签中的中断点:工业及美国食品药品监督管理局工作人员指南
 
-# 抗微生物敏感性测试系统设备 更新设备标签的断点：行业与食品药品管理局工作人员指南
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/antimicrobial-susceptibility-test-ast-system-devices-updating-breakpoints-device-labeling](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/antimicrobial-susceptibility-test-ast-system-devices-updating-breakpoints-device-labeling)
 
-**Antimicrobial Susceptibility Test (AST) System Devices – Updating Breakpoints in Device Labeling: Guidance for Industry and Food and Drug Administration Staff**
-
-**发布日期**：2023-09-29
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：标签标识 / UDI
-**主题**：Antimicrobial Resistance
-**案卷号**：FDA-2023-D-4045
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/antimicrobial-susceptibility-test-ast-system-devices-updating-breakpoints-device-labeling
-PDF：https://www.fda.gov/media/172463/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 2023-09-29
 
 ---
-
-## 官方文件全文
 
 本指南代表了美国食品药品监督管理局(美国食品药品监督管理局或机构)目前对这一专题的想法。它没有规定任何人的任何权利,对FDA或公众没有约束力。您可采取另一种方式,即满足适用的法规和条例的要求。为了讨论另一种办法,请与标题页所列FDA工作人员或负责本指南的办公室联系。
 
@@ -168,4 +143,3 @@ FDA认为,这种办法往往对装置发起人来说负担最轻,他们要及时
 [^26]: 在科技和创新委员会网站确认的510k变化现有设备中,可查到的510k变化现有设备不会显著改变新更新(遗留)的AST系统设备的性能,因此,与最近刚清理的AST系统设备相比,更新后的设备的性能得以保持。在上述情况下,尽管AST系统装置可能根据预定使用的药物/生物组合有不同的使用迹象,这些装置具有同样的技术特性,属于同一分类条例和产品编码,具有相同的预定用途。在这些情况下,实施中断点更新的程序是相同的,因此,在下述情况下,提出新的安全和效力问题的风险会减少:(1) 赞助者使用经清理的PCCP或与赞助者单独的510(k)的断点更改协议,用于AST系统装置;(2) 已经清除的PCCP或断点更改协议适用于提案国遗留的AST系统装置;(3) AST系统装置都符合相同的分类条例和产品编码,具有相同的预定用途和技术特点。
 
 [^27]: 见21 CFR Part 820。
-

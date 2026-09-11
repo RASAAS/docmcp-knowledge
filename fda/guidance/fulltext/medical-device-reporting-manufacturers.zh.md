@@ -1,35 +1,10 @@
----
-title: "医疗器械报告：行业与食品药品管理局工作人员指南"
-description: "Medical Device Reporting for Manufacturers : Guidance for Industry and Food and Drug Administration Staff"
-published: 2016-11-08
----
+# 制造商医疗设备报告:工业及美国食品药品监督管理局工作人员指南
 
-# 医疗器械报告：行业与食品药品管理局工作人员指南
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/medical-device-reporting-manufacturers](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/medical-device-reporting-manufacturers)
 
-**Medical Device Reporting for Manufacturers : Guidance for Industry and Food and Drug Administration Staff**
-
-**发布日期**：2016-11-08
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：上市后
-**主题**：Postmarket、Adverse Event Reporting System (FAERS)、Adverse Event Reporting
-**案卷号**：FDA-2013-D-0743
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/medical-device-reporting-manufacturers
-PDF：https://www.fda.gov/media/86420/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 2016-11-08
 
 ---
-
-## 官方文件全文
 
 2024年2月2日,FDA在21 CFR 第820部分(89 FR 7496,自2月2日起,2026年2月2日起生效)公布了修订质量管理体系法规的最后规则。经修订的21 CFR Part 820现题为 " 质量管理体系法规 " 。QMSR统一了质量管理体系的要求,以参考方式纳入了国际标准化组织(标准化组织)为医疗设备质量管理体系制定的国际标准,ISO 13485:2016. FDA确定,ISO 13485中的要求如果全部采用,与质量保障制度条例的要求基本相似,在企业的质量管理体系中提供类似程度的保证,并有能力始终如一地制造安全和有效的、在其他方面符合《联邦食品法》的装置,《毒品和化妆法》(FD和C法)。
 本指南文件是在最后规则生效日期之前印发的。FDA鼓励制造商审查当前的质量和计量及计量标准,以确保遵守相关监管要求。
@@ -626,4 +601,3 @@ A.3 “分销商”是指除制造商或进口商以外的任何人,推动从原
 [^17]: 21 CFR 812.3 (s) 定义“预期不到的不利装置效应”。 书面MDR程序[21 CFR 803.17]、MDR档案或记录[21 CFR 803.18],[21 CFR 803.10(c)]。FDA一般不打算对根据《FD和C法》第801(e)节或第802节出口的装置执行MDR报告要求,除非在某些情况下。FDA一般打算执行关于这种器械的《多国备忘录》报告要求的情况包括,由于发现某种装置令人关切,FDA必须掌握关于出口装置不利事件的资料。一旦查明了这种装置问题,FDA预期会通知受影响的制造商其出口器械的MDR报告提交情况。4.11.2 我是美国制造一种设备,但在美国尚未被清除或批准销售,尽管该设备正在美国根据经批准的IDE研究。发生在美国境外的涉及我器械的事件 在这种形势下,根据MDR报告?
 
 [^18]: 参见FDA表格3500A - A节:病人信息,A1:病人识别特征,或重伤。例如组织反应,如果该装置可能造成或促成死亡或重伤,或未能按预期(失灵)进行工作,而且如果发生故障,很可能造成或促成死亡或重伤,则可以报告。
-

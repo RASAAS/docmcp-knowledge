@@ -1,35 +1,10 @@
----
-title: "全球独特设备识别数据库 (GUDID)：行业与食品药品管理局工作人员指南"
-description: "Global Unique Device Identification Database (GUDID): Guidance for Industry and Food and Drug Administration Staff"
-published: 2024-12-17
----
+# 全球独特设备识别数据库:工业、食品和药物管理工作人员指南
 
-# 全球独特设备识别数据库 (GUDID)：行业与食品药品管理局工作人员指南
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/global-unique-device-identification-database-gudid](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/global-unique-device-identification-database-gudid)
 
-**Global Unique Device Identification Database (GUDID): Guidance for Industry and Food and Drug Administration Staff**
-
-**发布日期**：2024-12-17
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：标签标识 / UDI
-**主题**：GUDID、Labeling、UDI
-**案卷号**：FDA-2013-D-0636
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/global-unique-device-identification-database-gudid
-PDF：https://www.fda.gov/media/86569/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 2024-12-17
 
 ---
-
-## 官方文件全文
 
 全球独特设备识别数据库(GUDID)工业和食品及药物管理工作人员指南
 
@@ -231,7 +206,7 @@ o 请注意,每次编辑和重新作为草案重新保存《设计资料草案�
 - 将由GUDID自动夜间程序检查,当公布日期=今天时,记录将移至已公布的DI记录状态。
 已出版的DI记录:可供公众检索和检索的DI记录。我们将认为你遵守了21 CFR 830.330的要求,即公布州GUDID将DI记录保存在公布州。
 已经公布一份已公布的DI记录:已通过所有业务规则,即已通过Review。
-- 今日(即今天或过去的一个日期)已公布日期:%0 &#123;&#123;&#123;&#123;&#123;&#125;&#125;。请注意,与公布日期=今天所输入的DI记录将立即可供公众查询。
+- 今日(即今天或过去的一个日期)已公布日期:%0 {{{{{}}。请注意,与公布日期=今天所输入的DI记录将立即可供公众查询。
 - 可以复制以创建新的数据交换记录,从而缩短数据输入时间;除主数据交换编号和软件包信息外,所有属性都复制。
 - 可供公众搜索和检索。
 - 宽限期为7个日历日,从公布数据公布记录之日后开始。
@@ -241,7 +216,7 @@ o 编辑后Grace-Period将受到限制 § 新的DI触发属性无法编辑;这�
 请注意,已公布的从商业分销中移除器械的识别数据记录将保留在已公布的状态,可供公众搜索和检索。标签人有责任更新被停用器械的DI记录。商业分销状况将按以下商业分销结束日期的系统自动容纳人口。
 - 当商业分销结束日期>今天(即未来日期)或无效时
 商业分销状况=“商业分销”。
-- 当商业分销结束日期 =0 &#123;_0&#125; 今日(即今天或过去的一个日期),
+- 当商业分销结束日期 =0 {_0} 今日(即今天或过去的一个日期),
 商业分销状况=“非商业分销”。 19 编辑新的DI触发属性和属性,但经过有限时间的后期编辑,预计这种编辑极为罕见。标签人应确保在记录移到公布状态之前,其DI记录数据准确无误。
 下表概述了通过公共搜索提供的DI记录中的三个DID记录:DI Record State Registration System sapplement dustrations System saving Propossible decess on the DI Records http://public search? 数据记录中,DI Registration System 保存时间可能采取的行动。
 请注意,HL SPL提交的材料不能作为DI记录草案提交。
@@ -429,4 +404,3 @@ FDA认证的发证机构组织经营一个发放综合数据基础设施的系�
 [^6]: 见GUDID数据要素参考表,可查阅www.fda.gov/udi。
 
 [^15]: 见GUDID数据要素参考表,可在www.fda.gov/udi上查阅数据属性清单。
-

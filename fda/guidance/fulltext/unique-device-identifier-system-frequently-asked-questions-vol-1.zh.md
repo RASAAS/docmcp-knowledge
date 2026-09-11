@@ -1,35 +1,10 @@
----
-title: "如何 帮助 孩子 了解 方式?：行业与食品药品管理局工作人员指南"
-description: "Unique Device Identifier System: Frequently Asked Questions, Vol. 1 : Guidance for Industry and Food and Drug Administration Staff"
-published: 2014-08-20
----
+# 独特设备标识系统:常问问题,第1卷:工业、美国食品药品监督管理局工作人员指南
 
-# 如何 帮助 孩子 了解 方式?：行业与食品药品管理局工作人员指南
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/unique-device-identifier-system-frequently-asked-questions-vol-1](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/unique-device-identifier-system-frequently-asked-questions-vol-1)
 
-**Unique Device Identifier System: Frequently Asked Questions, Vol. 1 : Guidance for Industry and Food and Drug Administration Staff**
-
-**发布日期**：2014-08-20
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：标签标识 / UDI
-**主题**：Labeling、UDI
-**案卷号**：FDA-2020-D-0957
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/unique-device-identifier-system-frequently-asked-questions-vol-1
-PDF：https://www.fda.gov/media/89275/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 2014-08-20
 
 ---
-
-## 官方文件全文
 
 FDA的指南文件,包括本指南,没有规定法律上可执行的责任。相反,指导说明工程处目前对一个专题的想法,只应视为建议,除非引述具体的规章或法规要求。在原子能机构的指导意见中使用这个词意味着建议或建议了一些东西,但并不需要。
 ## II. 背景
@@ -228,4 +203,3 @@ E.5. 经济、社会、文化权利委员会
 问题:对于21 CFR 801.30所列一般例外未涵盖的情况,标签商是否可以要求豁免UDI标签要求?
 
 对标签商可提出涉及不符合最后规则绝对例外的例外或未符合统一数据基础设施要求的例外或替代要求的请求,并由FDA根据21 CFR 801.55所述的程序和标准进行评估 -- -- 请求对独特设备识别要求作出例外或替代。
-

@@ -1,35 +1,10 @@
----
-title: "没有身体检查的安全套监控和拘留：行业与FDA工作人员指南"
-description: "Surveillance and Detention Without Physical Examination of Condoms: Guidance for Industry and FDA Staff"
-published: 2008-07-11
----
+# 无需对避孕套进行身体检查的监视和拘留:工业和FDA工作人员指南
 
-# 没有身体检查的安全套监控和拘留：行业与FDA工作人员指南
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/surveillance-and-detention-without-physical-examination-condoms](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/surveillance-and-detention-without-physical-examination-condoms)
 
-**Surveillance and Detention Without Physical Examination of Condoms: Guidance for Industry and FDA Staff**
-
-**发布日期**：2008-07-11
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：上市后
-**主题**：Postmarket
-**案卷号**：FDA-2000-D-0137
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/surveillance-and-detention-without-physical-examination-condoms
-PDF：https://www.fda.gov/media/71018/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 2008-07-11
 
 ---
-
-## 官方文件全文
 
 2024年2月2日,FDA在21 CFR 第820部分(89 FR 7496,自2月2日起,2026年2月2日起生效)公布了修订质量管理体系法规的最后规则。经修订的21 CFR Part 820现题为 " 质量管理体系法规 " 。QMSR统一了质量管理体系的要求,以参考方式纳入了国际标准化组织(标准化组织)为医疗设备质量管理体系制定的国际标准,ISO 13485:2016. FDA确定,ISO 13485中的要求如果全部采用,与质量保障制度条例的要求基本相似,在企业的质量管理体系中提供类似程度的保证,并有能力始终如一地制造安全和有效的、在其他方面符合《联邦食品法》的装置,《毒品和化妆法》(FD和C法)。
 本指南文件是在最后规则生效日期之前印发的。FDA鼓励制造商审查当前的质量和计量及计量标准,以确保遵守相关监管要求。
@@ -141,4 +116,3 @@ FDA外地办事处可不经身体检查,扣留FDA进口警报第85-02号附文A�
 否 根据本周期以前第二级第三级公司样品的失败,提出拘留建议?
 否 是 否 上图 上图 数月已过
 循环结束 是 是 否 O3 L1 D4 IA 85-02 Att.B实验室分析不足以从3 级O2 D1 D2 L2 L3 D3 O1 D5 输入 转到图表顶部
-

@@ -1,35 +1,10 @@
----
-title: "建立用于检测或检测和 流感病毒的内置诊断设备的性能特性：行业与FDA工作人员指南"
-description: "Establishing the Performance Characteristics of In Vitro Diagnostic Devices for the Detection or Detection and Differentiation of Influenza Viruses - Guidance for Industry and FDA Staff"
-published: 2011-07-14
----
+# 建立用于检测或检测和区别流感病毒的体外诊断设备性能特征 -- -- 工业和FDA工作人员指南
 
-# 建立用于检测或检测和 流感病毒的内置诊断设备的性能特性：行业与FDA工作人员指南
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/establishing-performance-characteristics-in-vitro-diagnostic-devices-detection-or-detection-and](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/establishing-performance-characteristics-in-vitro-diagnostic-devices-detection-or-detection-and)
 
-**Establishing the Performance Characteristics of In Vitro Diagnostic Devices for the Detection or Detection and Differentiation of Influenza Viruses - Guidance for Industry and FDA Staff**
-
-**发布日期**：2011-07-14
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：体外诊断 / 伴随诊断
-**主题**：Pediatric Product Development
-**案卷号**：FDA-2008-D-0095
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/establishing-performance-characteristics-in-vitro-diagnostic-devices-detection-or-detection-and
-PDF：https://www.fda.gov/media/71519/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 2011-07-14
 
 ---
-
-## 官方文件全文
 
 FDA的指导性文件,包括本指南性文件,并没有确立法律上可执行的责任。指南文件说明工程处目前对某一专题的想法,只应作为建议看待,除非引述具体的规章或法规要求。在原子能机构指南文件中使用这个词意味着建议或建议了一些东西,但并不需要。
 
@@ -37,8 +12,8 @@ FDA的指导性文件,包括本指南性文件,并没有确立法律上可执行
 本文件建议进行研究,确定体外诊断器械的性能特征,以便检测、检测和区分;流感病毒直接来自人类标本或培养物分离。FDA认为,这些建议的研究与特定装置可能需要的上市前呈件(例如510(k))有关。
 制造商如果打算推销试管诊断装置,以便检测或检测和区分,流感病毒的感染必须符合《联邦食品、药品和化妆法》(《法案》)的一般管制,除非有例外,在推销该装置之前获得上市前许可或批准(该法第510(k)、513、515条;21 U.S.C.360(k)、360c、360e)条)。
 
-本文件旨在补充21 CFR 807.87(上市前通知所要求的信息)和FDA的其他资源,如“上市前通知:510(k)”, +0 设备/预市场Submissions/上市前通知510k/default.htm;和“工业和FDA工作人员指南:传统格式和缩写格式 510(k)s, &#123;%0&#125; eDocuments/ ucm084396.pdf。
-此外,本文件补充了FDA专门处理流感IVD的两份指南文件:“在体外诊断器械中检测流感A病毒:标签和监管路径,” (%0- eDocuments/ucm071270.pdf),和“第二类特别管制指南文件:用于检测特定新流感病毒的试剂” (&lt;%0> eDocuments/ucm071274.pdf)。
+本文件旨在补充21 CFR 807.87(上市前通知所要求的信息)和FDA的其他资源,如“上市前通知:510(k)”, +0 设备/预市场Submissions/上市前通知510k/default.htm;和“工业和FDA工作人员指南:传统格式和缩写格式 510(k)s, {%0} eDocuments/ ucm084396.pdf。
+此外,本文件补充了FDA专门处理流感IVD的两份指南文件:“在体外诊断器械中检测流感A病毒:标签和监管路径,” (%0- eDocuments/ucm071270.pdf),和“第二类特别管制指南文件:用于检测特定新流感病毒的试剂” (<%0> eDocuments/ucm071274.pdf)。
 题为“在体外诊断设备中检测流感病毒的指南文件:标签和管制路径,”处理关于满足适用于所有试管诊断器械的标签要求的建议,这些装置旨在直接从人体标本中检测A(或A/B)流感病毒,特别强调确保合法销售的A(或A/B)流感测试装置有适当的标签,这些测试器械的许可并非基于处理新流感A病毒感染人类(包括H5N1)的性能的数据。报告还讨论了FDA对旨在检测甲型流感病毒的新产品或改良产品,包括新型甲型流感病毒的上市前途径的思考,或检测和区分特定的甲型流感病毒。
 
 题为“第二类特别管制指南文件:用于检测特定新流感A病毒的试剂”是用于检测特定新型A型流感病毒的试剂的两个特别控制措施之一。21 CFR 866.3332。该特别控制指南文件包括确定装置性能的建议,以及标签和后期市场措施的建议。21 CFR 866.3332下的设备须接受额外的特别管制,限制将这些装置分配给拥有受过标准化分子测试程序培训、具备病毒诊断专门知识和适当的生物安全设备和封闭装置方面经验丰富的工作人员的实验室。
@@ -193,7 +168,7 @@ FDA活性诊断装置评价和安全办公室(OIVD)微生物装置司,以获得�
 应对所有已感染人类的子类型以及在LoD或附近的病毒水平上进行检测。应列入代表两族(维多利亚和山形)的乙型流感菌株。选定的流感菌株应反映时间和地理多样性,重点是当代菌株。对于每个声称的流感亚型,应增加选择代表已知的血缘线和环形线的菌株。对于难以获得足够数量的菌株以显示反应的子型,我们建议你与微生物装置司联系 讨论你的研究关于病毒文化和识别程序的其他资料载于CLSI文件M41-A[5] 和卫生组织手册[6]。
 
 表1. 近期流感季节的疫苗菌株(微菌类)可以包括其中,表1列出了推荐给LoD的菌株和分析性反应研究的例子。
-疫苗菌株可能因流感季节不同而各异。有关目前疫苗菌株的资料可从疾病控制和预防中心(疾病防治中心)第 ++0 &#123;___
+疫苗菌株可能因流感季节不同而各异。有关目前疫苗菌株的资料可从疾病控制和预防中心(疾病防治中心)第 ++0 {___
 表1. 用于分析敏感性研究的流感菌株实例。
 亚型型号为流感病毒性斯特兰A H1N1 A/California/7/2009 (H1N1) A H3N2类A/Perth/16/2009 (H3N2) * B类Berisbane/60/2008 A H1N1 A/PR/8/34 AH1N1 A/FM/1/47 A H1N1 A/NWSS/33 AH1N1 A/H1N1 A/N1 A/NWSS/33 AH1N1 A1/Denver/1/57 AH1N1 A
 
@@ -483,7 +458,7 @@ ucm089742.pdf. kgm
 《国际外部质量评估计划提案》,临床化学,52:728-736。
 16. 工业和FDA工作人员指南:临床实验室建议
 《1988年改进修正案》(CLIA)2008年《体外诊断器械制造商免诉申请》。
-35 &#123;0&#125;&#123;uidance Documents/ucm070890.pdf ==
+35 {0}{uidance Documents/ucm070890.pdf ==
 17. 临床和实验室标准研究所,2004年。
 诊断实验室医学方法;核准的准则MM9-A。
 Wayne PA的临床和实验室标准研究所。
@@ -497,4 +472,3 @@ Wayne PA的临床和实验室标准研究所。
 ## 脚注
 
 [^10]: 见42《美国法典》§263a(d)(3)。
-

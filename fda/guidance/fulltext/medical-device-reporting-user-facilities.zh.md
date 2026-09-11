@@ -1,35 +1,10 @@
----
-title: "医疗器械报告用户设施"
-description: "Medical Device Reporting for User Facilities"
-published: 1996-04-01
----
+# 用户设施医疗设备报告
 
-# 医疗器械报告用户设施
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/medical-device-reporting-user-facilities](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/medical-device-reporting-user-facilities)
 
-**Medical Device Reporting for User Facilities**
-
-**发布日期**：1996-04-01
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：上市后
-**主题**：Radiological Health
-**案卷号**：FDA-2020-D-0957
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/medical-device-reporting-user-facilities
-PDF：https://www.fda.gov/media/73972/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 1996-04-01
 
 ---
-
-## 官方文件全文
 
 1.  导 言. .
 表1 - 计量吸入器报告要求摘要. 2
@@ -263,4 +238,3 @@ F10区块要求的代码
 ### D. 用户设施或D提供的每个事件代码的疑疑似医疗器械(3)
 疑似医疗器械是F10区有经销商的装置说明在发生故障的设备器械中是否涉及了对MDR可报告事件或代号所代表的事件造成或促成的一类事件。重要的是,装置标签,例如代码1738 -- -- 标签,代码1701 -- -- 不能正确识别,所有适用信息都应贴上标签,并完成此块块 。
 (4) 解释为什么任何所需信息为H3,如果对装置进行了评价,一定要附上未提供的评价以及为获得这种信息而采取的步骤。
-
