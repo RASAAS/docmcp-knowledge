@@ -2,7 +2,7 @@
   "category": "nmpa/guidance",
   "description": "NMPA medical device registration review guidance principles (CMDE classification)",
   "last_updated": "2026-09-11",
-  "count": 777,
+  "count": 780,
   "categories": {
     "general": {
       "name": {
@@ -690,14 +690,15 @@
         "zh": "胎儿染色体非整倍体（T21、T18、T13）检测试剂盒（高通量测序法）注册技术审查指导原则",
         "en": ""
       },
-      "status": "active",
+      "status": "superseded",
       "doc_number": "国家食品药品监督管理总局2017年第52号通告",
       "category": "ivd",
       "slug": "nmpa-gp-胎儿染色体非整倍体-t21-t18-t13-检测试剂盒-高通-8f35fd",
       "classification_codes": [],
       "classification_l1_codes": [],
       "classification_confidence": "none",
-      "source_url": "https://www.cmde.org.cn/directory/web/cmde/images/1782974073914013256.doc"
+      "source_url": "https://www.cmde.org.cn/directory/web/cmde/images/1782974073914013256.doc",
+      "superseded_by": "nmpa-gp-基于高通量测序法的胎儿染色体非整倍体-T21-T18-T13-检测试剂盒注册审查指导原则-2026年修订版-8aa49b"
     },
     {
       "id": "nmpa-gp-电动手术台注册技术审查指导原则-2017年修订版-d3b3a1",
@@ -1094,14 +1095,15 @@
         "zh": "D-二聚体测定试剂（免疫比浊法）注册技术审查指导原则",
         "en": ""
       },
-      "status": "active",
+      "status": "superseded",
       "source_url": "",
       "doc_number": "国家食品药品监督管理总局2018年第9号通告",
       "category": "ivd",
       "slug": "nmpa-gp-d-二聚体测定试剂-免疫比浊法-注册技术审查指导原则-dd462a",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "none"
+      "classification_confidence": "none",
+      "superseded_by": "nmpa-gp-D-二聚体检测试剂注册审查指导原则-2026年修订版-e98b63"
     },
     {
       "id": "nmpa-gp-丙氨酸氨基转移酶测定试剂注册技术审查指导原则-6c9f87",
@@ -1789,14 +1791,15 @@
         "zh": "吻（缝）合器产品注册技术审查指导原则（2018年修订）",
         "en": ""
       },
-      "status": "active",
+      "status": "superseded",
       "source_url": "",
       "doc_number": "国家药品监督管理局2018年第120号通告",
       "category": "surgical",
       "slug": "nmpa-gp-吻-缝-合器产品注册技术审查指导原则-2018年修订-fe511f",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "none"
+      "classification_confidence": "none",
+      "superseded_by": "nmpa-gp-吻-缝-合器注册审查指导原则-2026年修订版-03e13b"
     },
     {
       "id": "nmpa-gp-一次性使用吸痰管注册技术审查指导原则-2018年修订-1704b1",
@@ -12001,6 +12004,54 @@
       "doc_number": "国家药品监督管理局医疗器械技术审评中心2026年第24号通告",
       "category": "reproductive",
       "slug": "cmde-2026-24-umbilical-cord-protector",
+      "classification_codes": [],
+      "classification_l1_codes": [],
+      "classification_confidence": "none",
+      "publish_date": "2026-07-21"
+    },
+    {
+      "id": "nmpa-gp-基于高通量测序法的胎儿染色体非整倍体-T21-T18-T13-检测试剂盒注册审查指导原则-2026年修订版-8aa49b",
+      "title": {
+        "zh": "基于高通量测序法的胎儿染色体非整倍体（T21、T18、T13）检测试剂盒注册审查指导原则（2026年修订版）",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://www.cmde.org.cn/flfg/zdyz/zdyzwbk/20260710150730156.html",
+      "doc_number": "国家药品监督管理局医疗器械技术审评中心2026年第22号通告",
+      "category": "ivd",
+      "slug": "cmde-2026-22-fetal-aneuploidy-ngs",
+      "classification_codes": [],
+      "classification_l1_codes": [],
+      "classification_confidence": "none",
+      "publish_date": "2026-07-10"
+    },
+    {
+      "id": "nmpa-gp-D-二聚体检测试剂注册审查指导原则-2026年修订版-e98b63",
+      "title": {
+        "zh": "D-二聚体检测试剂注册审查指导原则（2026年修订版）",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://www.cmde.org.cn/flfg/zdyz/zdyzwbk/20260810153947184.html",
+      "doc_number": "国家药品监督管理局医疗器械技术审评中心2026年第24号通告",
+      "category": "ivd",
+      "slug": "cmde-2026-24-d-dimer",
+      "classification_codes": [],
+      "classification_l1_codes": [],
+      "classification_confidence": "none",
+      "publish_date": "2026-07-21"
+    },
+    {
+      "id": "nmpa-gp-吻-缝-合器注册审查指导原则-2026年修订版-03e13b",
+      "title": {
+        "zh": "吻（缝）合器注册审查指导原则（2026年修订版）",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://www.cmde.org.cn/flfg/zdyz/zdyzwbk/20260810161449186.html",
+      "doc_number": "国家药品监督管理局医疗器械技术审评中心2026年第24号通告",
+      "category": "surgical",
+      "slug": "cmde-2026-24-stapler",
       "classification_codes": [],
       "classification_l1_codes": [],
       "classification_confidence": "none",

@@ -10,7 +10,7 @@ export default {
       "link": "/zh/nmpa/guidance"
     },
     {
-      "text": "其他 (475)",
+      "text": "其他 (478)",
       "collapsed": true,
       "items": [
         {
@@ -60,6 +60,10 @@ export default {
         {
           "text": "C反应蛋白测定试剂盒注册审查指导原则（2024年修订版）",
           "link": "/zh/nmpa/guidance/cmde-2024-19-9"
+        },
+        {
+          "text": "D-二聚体检测试剂注册审查指导原则（2026年修订版）",
+          "link": "/zh/nmpa/guidance/cmde-2026-24-d-dimer"
         },
         {
           "text": "EB病毒抗体检测试剂注册审查指导原则",
@@ -790,6 +794,10 @@ export default {
           "link": "/zh/nmpa/guidance/cmde-2021-103"
         },
         {
+          "text": "吻（缝）合器注册审查指导原则（2026年修订版）",
+          "link": "/zh/nmpa/guidance/cmde-2026-24-stapler"
+        },
+        {
           "text": "唾液酸测定试剂盒（酶法）注册审查指导原则（2024年修订版）",
           "link": "/zh/nmpa/guidance/cmde-2024-19-3694"
         },
@@ -820,6 +828,10 @@ export default {
         {
           "text": "基于细胞荧光原位杂交法的人类染色体异常检测试剂注册技术审查指导原则",
           "link": "/zh/nmpa/guidance/nmpa-gp-基于细胞荧光原位杂交法的人类染色体异常检测试剂注册技术审查指-db7837"
+        },
+        {
+          "text": "基于高通量测序法的胎儿染色体非整倍体（T21、T18、T13）检测试剂盒注册审查指导原则（2026年修订版）",
+          "link": "/zh/nmpa/guidance/cmde-2026-22-fetal-aneuploidy-ngs"
         },
         {
           "text": "基孔肯雅病毒核酸检测试剂技术审评要点（试行）",
