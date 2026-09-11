@@ -5,6 +5,7 @@
 **Published:** 2025-08-18
 
 
+
 ---
 
 This guidance represents the current thinking of the Food and Drug Administration (FDA or Agency) on this topic. It does not establish any rights for any person and is not binding on
@@ -27,8 +28,7 @@ In general, FDA’s guidance documents do not establish legally enforceable resp
 Instead, guidances describe the Agency’s current thinking on a topic and should be viewed only as recommendations, unless specific regulatory or statutory requirements are cited. The use of the word should in Agency guidances means that something is suggested or recommended, but not required.
 
 ## II. Background
-In April 2019, FDA published the “Proposed Regulatory Framework for Modifications to
-Artificial Intelligence/Machine Learning (AI/ML)-Based Software as a Medical Device (SaMD)
+In April 2019, FDA published the “Proposed Regulatory Framework for Modifications to Artificial Intelligence/Machine Learning (AI/ML)-Based Software as a Medical Device (SaMD)
 - Discussion Paper and Request for Feedback” (“2019 discussion paper”).5 The 2019 discussion
 paper describes FDA’s foundation for a potential approach to premarket review for AI/ML-
 
@@ -45,9 +45,7 @@ The 2019 discussion paper received a substantial amount of feedback from a wide 
 FDA has also held a number of public meetings and workshops on AI/ML topics. On February 25-26, 2020, FDA held a Public Workshop on the “Evolving Role of Artificial Intelligence in
 Radiological Imaging” to discuss emerging applications of AI in radiological imaging, including
 
-Regulators Forum (IMDRF) document “Software as a Medical Device: Possible Framework for Risk Categorization and Corresponding Considerations.”
-Premarket Approval and De Novo Classifications” and FDA’s guidance “Benefit-Risk Factors to Consider When
-Determining Substantial Equivalence in Premarket Notifications (510(k)) with Different Technological Characteristics.” Decision-Making Process,” “Deciding When to Submit a 510(k) for a Change to an Existing Device,” or “Deciding
+Regulators Forum (IMDRF) document “Software as a Medical Device: Possible Framework for Risk Categorization and Corresponding Considerations.” Premarket Approval and De Novo Classifications” and FDA’s guidance “Benefit-Risk Factors to Consider When Determining Substantial Equivalence in Premarket Notifications (510(k)) with Different Technological Characteristics.” Decision-Making Process,” “Deciding When to Submit a 510(k) for a Change to an Existing Device,” or “Deciding
 When to Submit a 510(k) for a Software Change to an Existing Device,” referred to as the “Device Modifications guidances” hereafter.
 Academic Radiology 27, 58-61 (2020); and Subbaswamy et al., “From development to deployment: dataset shift, causality, and shift-stable models in health AI,” Biostatistics 21, 345-352 (2020).
 AI devices intended to automate the diagnostic radiology workflow as well as guide image acquisition. At this workshop, the Agency worked with interested parties, including patients, to identify both benefits and risks associated with the use of AI in radiological imaging, and discussed best practices for the validation of fully automated radiological imaging software and image acquisition devices.
@@ -152,7 +150,7 @@ Modifications section of the PCCP. The Modification Protocol includes the verifi
 42 Section 515C(a)(2) and 515C(b)(2) of the FD&C Act.
 Impact Assessment: The documentation of the assessment of the benefits and risks of implementing a PCCP, as well as the plan for risk mitigation.
 
-### V. Policy for Predetermined Change Control Plans
+## V. Policy for Predetermined Change Control Plans
 Software development is an iterative process, and FDA appreciates that manufacturers of device software functions strive to continually improve and update their devices. Manufacturers should evaluate the impact of modifications to their devices and must generally submit a marketing submission when device modifications affect the intended use of the device or could significantly affect the safety or effectiveness of the device.43
 
 An authorized PCCP specifies planned modifications that, if not included in a PCCP, could otherwise require a new marketing submission pursuant to 21 CFR 807.81(a)(3) and 21 CFR 814.39(a), and consistent with the Device Modifications guidances. An authorized PCCP should include the following sections, which will be further described in Sections VI. through VIII. of this guidance:
@@ -255,9 +253,6 @@ If, after review of applicable FDA statutory and regulatory requirements a new m
 In each of these cases, the marketing submission for the modification must include the appropriate marketing submission requirements73 for the device. If the manufacturer requests authorization for a modification to the authorized PCCP, the manufacturer must also submit the proposed, modified PCCP for the device.74 If the manufacturer requests authorization for the modified device, the manufacturer must also submit the proposed PCCP for the modified device.75 In both scenarios, the manufacturer must obtain FDA authorization for the device and proposed PCCP before implementing the PCCP.76
 
 See Appendix B for example scenarios for implementing modifications to an AI-DSF with an authorized PCCP.
-
-
-
 
 
 73 See, e.g., 21 CFR 807.87, 21 CFR 860.220, or 21 CFR 814.20. In general, manufacturers may provide references in the marketing submission to prior marketing submissions for content that remains unchanged, as appropriate.
@@ -369,7 +364,8 @@ Intelligence And Machine Learning.
 ### B. Content of the Modification Protocol Section
 To achieve these goals, FDA recommends that a Modification Protocol outline the methods for each component described below. Example elements of each of the four Modification Protocol components are provided in Appendix A.
 
-(1) Data management practices
+
+#### (1) Data management practices
 What they are: AI-DSF training, tuning, and testing typically utilize data that include the inputs (e.g., medical images) that will be used by the device and often utilize a label or ‘reference standard’ that is determined through a reference standard determination and/or an annotation process. Training data, tuning data, and test data are sequestered (i.e., the test data set is a unique data set compared to the data set used for training and tuning) to prevent overfitting and misquotes of test performance. The training, tuning, and testing methods aim to identify and mitigate unwanted bias in the data (which may be inherent from historical datasets) and to improve the robustness and resilience of these algorithms to withstand changing clinical inputs and conditions. Additional methods to mitigate bias may be helpful, such as cross-validation, bootstrapping, bagging, ensembling, and the use of synthetic or augmented data. To support modifications to an AI-DSF that may need training, tuning, and/or testing, it is anticipated that new data (i.e., data that were not used to develop the initial AI-DSF) will be collected. The data management practices in a Modification Protocol should outline how those new data will be collected, annotated, curated, stored, retained,99 controlled, and used by the manufacturer for each modification. The data management practices in a Modification Protocol should also clarify the relationship between all of the data used to train, tune, and test the initial and any subsequent versions of the AI-DSF. It should also describe the control methods employed to ensure that the data used to test the AI-DSF is separate and independent from the development process used to train and tune the AI-DSF.
 
 Why they are recommended: This information allows FDA to understand the manufacturer’s data management practices that will be used to support each modification to an AI-DSF, including 1) how the manufacturer plans to obtain and use training, tuning, and test data that are complete and representative of the proposed intended use populations (e.g., with respect to race, ethnicity, disease severity, sex, age, etc.100) and intended environments; 2) whether identifiable subpopulations will be adequately represented, including intersectional groups, and separated into training, tuning, and test sets to minimize AI model bias; 3) how training, tuning, and test data will be sequestered to prevent overfitting and misquotes of test performance; 4) how older data will be complemented or replaced by newer data so that the performance is representative of the current patient population and standard of care; 5) whether the reference standard represents the best available process for determining the ground truth; and 6) how the data management practices may reduce the potential to produce discriminatory outcomes. A clear explanation of data management practices also provides assurance to FDA that modifications to the AI-DSF are
@@ -380,7 +376,8 @@ based on data that are representative of the device’s indications for use. Thi
 
 What manufacturers should include in a submission: Examples of the types of information manufacturers should provide in a Modification Protocol describing their data management practices are provided in Appendix A. In general, this information should describe: how data will be collected, including clinical study protocols with inclusion/exclusion criteria; information on how data will be processed, stored, and retained;101 the process that will be followed to determine the reference standard; when clinician interpretation is used for determining the reference standard (representing the ground truth), a protocol describing how the reference standard is determined; the quality assurance process related to the data; the data sequestration strategies that will be followed during data collection to separate the data into training, tuning, and test sets; and the protocols in place to prevent access during the training, tuning, and testing process to data intended for performance testing.
 
-(2) Re-training practices
+
+#### (2) Re-training practices
 What they are: AI software generally involves multiple processing steps from the point the AI- DSF receives the input data to the point it provides an output. The re-training practices component of a Modification Protocol should identify the processing steps that are subject to change for each modification and the methods that will be used by the manufacturer to implement modifications to the AI-DSF. In addition, if re-training involves architecture modifications (e.g., in a neural network, modifications to training hyperparameters or the number of nodes, layers, etc.), the re-training practices component of a Modification Protocol should also describe the rationale or the justification for each specific architecture modification.
 
 Why they are recommended: Information on the manufacturer’s re-training practices allows FDA to understand how the proposed modifications will be achieved through re-training, to determine if modifications are implemented following appropriate, well-defined practices,102 and to determine if the performance evaluation and update procedures (discussed below) support the modifications. Information on the manufacturer’s re-training practices is typically provided in the “device description” of a marketing submission for the majority of AI-DSFs that FDA reviews. The specifics of what should be included in this component of the Modification
@@ -391,7 +388,8 @@ What manufacturers should include in a submission: Examples of the types of info
 Development: Guiding Principles.”
 re-training), and identify any triggers for re-training (e.g., when the quantity of new data reaches a certain size or when a drift in data is observed over time).
 
-(3) Performance evaluation
+
+#### (3) Performance evaluation
 What they are: FDA may require that performance requirements for changes made under the plan be provided in a PCCP.103 Performance evaluation methods should describe the processes that will be followed to verify and validate that the modified AI-DSF will meet the specifications identified as part of a specific modification, in addition to maintaining the specifications that are not part of the modification, but may be impacted by the modification. Performance evaluation should include, as applicable, the plans for verification and validation of the entire device following the implementation of each individual modification and in aggregate for the planned modifications. This includes, but is not limited to, AI model testing protocols comparing the newly modified device to both the original device (the version of the device without any modifications implemented) and the last modified version of the device. For example, for device software functions that drive hardware functionality, performance evaluation should include not only the device software functions, but also the effect of the modifications on hardware functionality. The content of this section in a Modification Protocol should provide details on the study design, performance metrics, pre-defined acceptance criteria, and statistical tests for each planned modification. More comprehensive testing can potentially support a broader set of proposed modifications.
 
 Why they are recommended: Information regarding the manufacturer’s performance evaluation methods allow FDA to confirm that appropriate study designs, including performance metrics and statistical tests, will be used to evaluate the effect of modifications on overall device performance. Performance evaluation of the device is important to ensure that specified acceptance criteria for all proposed modifications will continue to be met for the device’s specifications.
@@ -436,7 +434,7 @@ Protocol in the PCCP. As such, FDA recommends providing clear references in the 
 Assessment section of the PCCP to the relevant sections in the marketing submission that support the Impact Assessment.
 
 110 See, e.g., harm, as defined in ISO 14971 Medical devices – Application of risk management to medical devices, is the physical injury or damage to the health of people.
-Appendix A: Example Elements of Modification Protocol Components for AI-DSFs
+## Appendix A. Example Elements of Modification Protocol Components for AI-DSFs
 In general, a Modification Protocol that is included as part of a PCCP in a marketing submission should include four components that outline a manufacturer’s 1) data management practices, 2) re-training practices, 3) performance evaluation protocols, and 4) update procedures, for each modification in the Description of Modifications for the AI-DSF. However, manufacturers may include other or additional components if they believe that their proposed protocols do not fit into any of these four components. To help illustrate the level of detail and additional information that may be helpful to include in a marketing submission, this appendix includes examples of questions for consideration and the types of information manufacturers should provide in the components of a Modification Protocol. In thinking about these questions, manufacturers should consider the intended use populations (e.g., with respect to race, ethnicity, disease severity, sex, age, or others, as appropriate) and intended environments.
 
 Note that this is a developing area, and as FDA gains experience, these example questions may change. The items below are not an exhaustive list of topics that a manufacturer is expected to cover, and all questions may not apply to all marketing submissions. The topics and questions are provided to assist in identifying the types of information that may be helpful to provide to
@@ -445,7 +443,8 @@ FDA to appropriately describe the components of a Modification Protocol. The app
 In certain circumstances, FDA may request additional Modification Protocol components or information to be included in a PCCP for some device types so that FDA can make a determination of reasonable assurance of safety and effectiveness or substantial equivalence when reviewing the device and PCCP.111 Additionally, some sections of a Modification Protocol may be more or less detailed depending on the complexity and risks of each modification in the PCCP. Overall, FDA recommends that manufacturers consider the topics and questions in this
 appendix for their particular AI-DSF and PCCP as a means of encouraging a detailed and methodically prepared PCCP.
 
-(1) Data Management
+
+#### (1) Data Management
 Different data can be collected and used for training, tuning, and testing AI model updates. In cases where manufacturers are collecting new training, tuning, and test data, the Modification
 Protocol should include how the data will be used (e.g., for AI model development or testing), and how the data management supports these uses.
 a. Collection protocols 1.a.1. For each modification, what are the inclusion/exclusion criteria for data collection, and how are they linked to the intended use population?
@@ -551,7 +550,7 @@ d. Device monitoring plan 4.d.1. How will adverse events be tracked for differen
 4.d.7. What is the strategy to respond to unexpected performance deficiencies or other hazards, or to higher levels of adverse events, as compared with previous iterations of the device?
 4.d.8. How will errors in diagnosis (i.e., misdiagnosis), attributable or partially attributable to the device that do not meet the criteria for an adverse event, be tracked?
 4.d.9. Will there be criteria and/or a plan to roll-back an update to reset devices to a previous version, if applicable?
-Appendix B: Example AI-DSF Scenarios Employing PCCPs
+## Appendix B. Example AI-DSF Scenarios Employing PCCPs
 The examples in this appendix illustrate different AI-DSF scenarios where a PCCP could be employed. Due to the complexity of AI-DSFs, all examples are hypothetical and do not reflect any specific authorized device.
 
 Each example begins with a brief description of an authorized device, its intended use, and one summary of a modification from the Description of Modifications in its authorized PCCP (in the examples, denoted as “Brief Overview of Pre-Specified Modification”). Please note that the provided summaries of the devices and modifications in this appendix are not intended to reflect the complete content or detail expected in a Description of Modifications section in a PCCP.
@@ -563,7 +562,8 @@ Due to the complexity of AI-DSFs, it is not practical to describe all relevant c
 
 FDA recommends that the PCCP strategy be discussed with the appropriate FDA review division through the Q-Submission Program prior to submitting a marketing submission containing a PCCP. As part of a marketing submission, the manufacturer should provide a PCCP, consisting of a Description of Modifications (Section VI.), a Modification Protocol (Section VII.), and an Impact Assessment (Section VIII.).
 
-(1) Patient Monitoring Software
+
+#### (1) Patient Monitoring Software
 
 Background:
 
@@ -586,7 +586,8 @@ In accordance with the Modification Protocol, the manufacturer re-trained their 
 
 
 115 The values in this example are shown as variable terms. A completed PCCP should include specific criteria whenever possible.
-(2) Skin Lesion Software
+
+#### (2) Skin Lesion Software
 
 Background:
 
@@ -614,7 +615,8 @@ Modification Scenario 3: Modification related to the device’s use and performa
 The manufacturer would like to distribute a new version of the AI-DSF that is patient-facing.
 The AI-DSF would provide an analysis of the physiological characteristics of skin lesions, as it does currently, and direct patients to follow-up with a dermatologist based on the preliminary analysis of the malignancy of the skin lesion. The modification introduces many new, unconsidered risks that were not yet mitigated in the current PCCP, given that the modified AI- DSF will be patient-facing. Because this modification that was not included in the PCCP could significantly affect the safety or effectiveness of the device, a new marketing submission would be required.
 
-(3) Ventilator Settings Software Background:
+
+#### (3) Ventilator Settings Software Background:
 The device is an AI-DSF intended for use in the healthcare or home-use setting. The AI-DSF recommends the ideal ventilation parameters based on input data interpretation, which can then be programmed into the ventilator by a healthcare provider. The manufacturer proposes modifications to the AI-DSF to improve performance within the original indications. The AIenabled medical device was authorized with a PCCP.
 Brief Overview of Pre-Specified Modification:
 The manufacturer would like to re-train the AI model to optimize site-specific performance for a specific subset of patients with a particular condition, for whom sufficient data were not previously available. Specifically, the manufacturer would like to modify the AI model to improve its ability to optimize ventilator settings for minute volume and tidal volume to reduce the variability to ±x% within the specified range to improve treatment outcomes for that subset of patients at different sites.
@@ -629,7 +631,8 @@ Modification Scenario 2: Modification related to device’s use and performance 
 The manufacturer re-trained and re-validated the AI model on newly acquired data, but was unable to fulfill the protocol because the manufacturer had to implement a reference standard that was different from the one described in the Modification Protocol. Even though the modification was specified in the PCCP, it was not implemented in conformance with the PCCP.
 Because this modification that was not implemented in conformance with the PCCP could significantly affect the safety or effectiveness of the device, a new marketing submission would be required.
 
-(4) Image Acquisition Assistance Device Background:
+
+#### (4) Image Acquisition Assistance Device Background:
 The AI-DSF is integrated into an imaging system and is intended to assist healthcare providers during acquisition of ultrasound images of the shoulder region in adult and pediatric populations by highlighting portions of the image where it detects a potential abnormality in real time. The AI-DSF interfaces with the device acquisition system, analyzes its output using an AI model, provides real-time alerts to the operator if an abnormality is detected, and automatically adjusts parameters in the device acquisition system during image acquisition to optimize the imaging.
 The device does not provide a diagnosis. The AI-enabled medical device was authorized with a PCCP.
 Brief Overview of Pre-Specified Modification:
@@ -641,7 +644,8 @@ Modification Protocol. The results demonstrated that the sensitivity and specifi
 Modification Scenario 2: Modification related to the device’s use and performance, which was not specified in the PCCP
 The manufacturer used new images to re-train the AI model and would like to update their labeling to reflect improved performance in the same shoulder region in a subset of the pediatric patient population identified in the device’s indications for use. However, the modification was not specified in the PCCP. Because this modification that was not included in the PCCP could significantly affect the safety or effectiveness of the device, a new marketing submission would be required.
 
-(5) Feeding Tube Placement Radiograph Analysis Software
+
+#### (5) Feeding Tube Placement Radiograph Analysis Software
 
 Background:
 
@@ -659,7 +663,8 @@ Modification Scenario 2: Modification related to device’s use and performance,
 The manufacturer used the same database of images to re-train the AI model to identify pneumothorax on chest radiographs. The pneumothorax identification function was found to have the same sensitivity and specificity as the feeding tube AI model. The manufacturer would like to employ the new pneumothorax identification function feature alongside the feeding tube placement AI model in radiograph triage. The modification was not specified in the PCCP.
 Because this modification that was not included in the PCCP could significantly affect the safety or effectiveness of the device, a new marketing submission would be required.
 
-(6) Optical Imaging System Co-packaged with Imaging Drug
+
+#### (6) Optical Imaging System Co-packaged with Imaging Drug
 
 Background:
 
@@ -684,7 +689,6 @@ The manufacturer would like to distribute a new version of the AI-DSF that is us
 
 Also note that, consistent with the scope of this guidance (see Section III.), the recommendations in this guidance do not apply to modifications to the drug or biologic constituent part of deviceled combination products.
 
----
 
 ## Footnotes
 

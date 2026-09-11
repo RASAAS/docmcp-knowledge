@@ -7,14 +7,8 @@
 
 
 
+
 ---
-
-On February 2, 2024, FDA published the final rule to amend the Quality System (QS) regulation in 21 CFR part 820 (89 FR 7496, effective February 2, 2026). The revised 21 CFR part 820 is now titled the Quality Management System Regulation (QMSR). The QMSR harmonizes quality management system requirements by incorporating by reference the international standard specific for medical device quality management systems set by the International Organization for
-Standardization (ISO), ISO 13485:2016. The FDA has determined that the requirements in ISO 13485 are, when taken in totality, substantially similar to the requirements of the QS regulation, providing a similar level of assurance in a firm’s quality management system and ability to consistently manufacture devices that are safe and effective and otherwise in compliance with the Federal Food, Drug, and Cosmetic Act (FD&C Act).
-This guidance document was issued prior to the effective date of the final rule. FDA encourages manufacturers to review the current QMSR to ensure compliance with the relevant regulatory requirements.
-
-
-Remanufacturing of Medical Devices
 
 This guidance represents the current thinking of the Food and Drug Administration (FDA or Agency) on this topic. It does not establish any rights for any person and is not binding on
 FDA or the public. You can use an alternative approach if it satisfies the requirements of the applicable statutes and regulations. To discuss an alternative approach, contact the FDA staff or Office responsible for this guidance as listed on the title page.
@@ -30,8 +24,7 @@ FDA Recognized Consensus Standards Database.2 For more information regarding use
 
 Servicing) discusses medical device servicing in more detail, available at https://www.fda.gov/media/
 113431/download.
-Devices”3 and “Standards Development and the Use of Standards in Regulatory Submissions
-Reviewed in the Center for Biologics Evaluation and Research.”4
+Devices”3 and “Standards Development and the Use of Standards in Regulatory Submissions Reviewed in the Center for Biologics Evaluation and Research.”4
 
 In general, FDA’s guidance documents do not establish legally enforceable responsibilities.
 Instead, guidances describe the Agency’s current thinking on a topic and should be viewed only as recommendations, unless specific regulatory or statutory requirements are cited. The use of the word should in Agency guidance means that something is suggested or recommended, but not required.
@@ -115,7 +108,7 @@ remanufacturing or not, FDA recommends that the rationale for the determination 
 29 In this context, ISO stands for International Organization for Standardization, an international standards development organization. See http://www.iso.org/iso/home.html for more information.
 ## VI. Relevant Considerations to Determine if Activities are Remanufacturing
 
-What is a significant change to device performance or safety specifications?
+### What is a significant change to device performance or safety specifications?
 Remanufacturing is the processing, conditioning, renovating, repackaging, restoring, or any other act done to a finished device that significantly changes the finished device’s performance or safety specifications, or intended use.30 For purposes of this guidance, FDA generally considers a significant change to device performance or safety specifications to be one that, based on verification and validation testing and/or a risk-based assessment, results in a finished device that is outside the OEM’s performance or safety specifications or introduces new risks or significantly modifies existing risks. For example, a change to a material that contacts the human body and impacts the adequacy of the OEM’s validated reprocessing instructions is likely a significant change to device performance or safety specifications, and therefore, is likely remanufacturing. Conversely, replacing an internal capacitor with one that has the same specifications (e.g., same capacitance, working voltage, temperature range, materials, and footprint) is not likely to significantly change device performance or safety specifications and therefore, is likely not remanufacturing. However, many activities, such as modifying the design of a printed circuit board or temporarily breaking a seal to replace a component, may result in a significant change to safety and performance specifications and should be carefully assessed to determine if those changes are significant.
 
 FDA has identified certain types of activities that, in general, the Agency believes significantly change the legally marketed device’s performance or safety specifications: • Changes to the device’s sterilization methods; • Changes to the device’s reprocessing instructions;31 and • Changes to the device’s control mechanism,32 operating principle,33 or energy type.34
@@ -128,7 +121,7 @@ Labeling,” available at: https://www.fda.gov/regulatory-information/search-fda
 One example of a control mechanism change would be a change from analog to digital control of a medical device.
 33 For purposes of this guidance, an operating principle is the mode of operation or mechanism of action through which a device fulfills (or achieves) its intended use. An example of a new operating principle would be changing the image reconstruction algorithm used in a computed tomography x-ray system from simple back projection to a new, more radiation-efficient method.
 34 For purposes of this guidance, energy type is the type of power input to or output from the device. These changes include both energy output and input changes. A change from emitting microwave energy to radiofrequency (RF) energy would be an example of an energy output change; this type of change would likely be part of a significant redesign.
-Determining whether activities are “remanufacturing”
+### Determining whether activities are “remanufacturing”
 As discussed in Guiding Principle 1, FDA recommends that entities evaluate if their activities change the intended use of the device. Significant changes to a device’s intended use35 (e.g., changing a single-use device to become reusable, changing the anatomical location of use) are likely remanufacturing.36
 
 For activities involving components/parts/materials, FDA recommends the use of the flowchart in this section (Figure 1) to help entities determine if their activities are likely remanufacturing.
@@ -154,14 +147,14 @@ FDA has included examples of such documentation in Appendix B.
 39 In addition, FDA notes that under 21 CFR Part 820, manufacturers are required to maintain certain records as applicable, e.g., service reports.
 40 Consistent with Guiding Principle 6, if the identical activity was previously determined to not be remanufacturing, is being performed by the same entity, and is being performed on the same version or model of a device, such documentation could reference previous determinations.
 Figure 1. Flowchart to help determine whether activities performed are likely remanufacturing.
-A1 Add, remove, or change a component/part/
-material that directly or indirectly contacts body tissue?
-A1.1
-Is there a significant change to device performance or safety specifications?
-Yes No
-A2 Add or remove component/
+
+#### A1. Add, remove, or change a component/part/ material that directly or indirectly contacts body tissue?
+
+##### A1.1. Is there a significant change to device performance or safety specifications?
+Yes No A2 Add or remove component/
 part/material or change the dimensional or performance specifications of a component/part/ material?
-A3 Is there a new or modified risk or is there a change in the performance or safety specifications?
+
+#### A3. Is there a new or modified risk or is there a change in the performance or safety specifications?
 Yes No A2.1
 Is there a significant change to device performance or safety specifications?
 Likely Remanufacturing No No A3.1
@@ -179,7 +172,8 @@ For example, materials in a catheter hub (the part of the catheter that is exter
 If there is any addition, removal, or change to a component/part/material on the finished device, and that component/part/material directly or indirectly contacts body tissue, the answer to A1 should be “yes.” This includes exposing a previously unexposed component/part/material to direct or indirect contact with body tissue. Additionally, if there is any change in material type, formulation, or chemical composition for a component/part/material that directly or indirectly contacts body tissue, the answer to A1 should be “yes.” If the entity is uncertain how to respond to A1, the answer should be “yes.” A “yes” answer to A1 does not necessarily mean that the activity is remanufacturing. Rather, when an entity makes such changes, it should analyze the impact of the change on the device’s performance and safety specifications using the text in A1.1.
 
 If no component/part/material added, removed, or changed directly or indirectly contacts body tissue, the answer should be “no” and then proceed to A2.
-A1.1 Is there a significant change to device performance or safety specifications?
+
+##### A1.1. Is there a significant change to device performance or safety specifications?
 If the activity adds, removes, or changes a component/part/material that directly or indirectly contacts body tissue (as mentioned above, this includes an activity that exposes a previously unexposed component/part/material to body tissue either directly or indirectly), a risk-based assessment should be conducted. The assessment should be conducted to determine whether there is a significant change to the biocompatibility or the validated reprocessing instructions of the legally marketed device. An activity that results in such change may be considered remanufacturing.
 
 Labeling,” available at: https://www.fda.gov/regulatory-information/search-fda-guidance-documents/reprocessingmedical-devices-health-care-settings-validation-methods-and-labeling.
@@ -187,7 +181,8 @@ Part 1: Evaluation and testing within a risk management process,’” available
 Depending on the magnitude of the change and the nature of the component/part/material, reprocessing validation and a comprehensive biocompatibility risk assessment or testing may be necessary. Entities should incorporate factors that affect the reprocessing and biocompatibility of a device in their risk-based assessment and testing where appropriate. These factors may include the materials of construction, the processing of the materials, methods (including the sterilization process), any residuals from aids used during the process, and intended use life of the legally marketed device. Activities that impact the adequacy of the legally marketed device’s validated reprocessing instructions are likely remanufacturing.
 
 If the answer to A1.1 is “yes,” then the activity would likely be remanufacturing. If the answer to A1.1 is “no,” then proceed to A2.
-A2. Add or remove component/part/material or change the dimensional or performance specifications of a component/part/material?
+
+#### A2. Add or remove component/part/material or change the dimensional or performance specifications of a component/part/material?
 Add or remove component/part/material? If there is any addition of a component/part/material to a legally marketed device that was not originally part of the legally marketed device, the answer to A2 should be “yes.” Examples include adding an adhesive to mend a break in the device or fasteners to secure a component/part/material. If there is any removal of a component/part/material to a legally marketed device that is not replaced in the legally marketed device, the answer to A2 should be “yes.” Examples include removing a fastener or barrier without replacement. Add or remove component/part/material also includes replacing an OEM component/part/material with the same OEM component/part/material or a non-OEM component/part/material.43
 
 Change the dimensional or performance specifications of a component/part/material? If there is any change to or replacement of a component/part/material of the legally marketed device, which affects the component/part/material’s dimensional or performance specifications, the answer to A2 should be “yes.” Examples include changes to the inner or outer diameter of a tube or shaft, architecture or layout of printed circuit boards, and range of motion or articulation of components/parts/materials.
@@ -197,7 +192,8 @@ If a component/part/material is not being added or removed, or the dimensional o
 A “yes” answer to A2 does not necessarily mean that the activity is remanufacturing. Rather, when an entity makes such changes, it should analyze the impact of the change on the device’s performance and safety specifications using the text in A2.1. If the answer to A2 is “no,” then proceed to A3.
 
 43 As discussed above in Section VI.B., FDA does not recommend evaluation with Figure 1 when an activity is performed on behalf of, or otherwise explicitly authorized by, the OEM and the activity returns the legally marketed device to its original performance and safety specifications, and intended use. FDA believes such activities would likely not be remanufacturing, and the determination should be adequately documented.
-A2.1 Is there a significant change to device performance or safety specifications?
+
+##### A2.1. Is there a significant change to device performance or safety specifications?
 Does the added or removed component/part/material significantly change the device performance or safety specifications? When evaluating whether the addition or removal of a component/part/material significantly changes the device’s performance or safety specifications, the entity should consider the intended use life of the legally marketed device. For instance, many reusable devices are reprocessed numerous times within their intended use life. Applicable considerations should include an assessment of whether the added component will withstand repeated reprocessing cycles within the device’s intended use life or whether the removed component exposes previously unexposed components that will withstand repeated reprocessing cycles within the device’s intended use life. Such an assessment can include verification and validation testing or a risk-based assessment describing why such testing is not warranted. If the reusable device will not be able to withstand repeated reprocessing cycles within its intended use life, the addition or removal of the component/part/material may significantly change the legally marketed device’s performance or safety specifications.
 
 Do the changed dimensional specifications of the component/part/material significantly change the device performance or safety specifications? In determining whether an activity is remanufacturing for these types of changes, the entity should consider not only the magnitude of the dimensional specification change, but the criticality of the modified dimension. The entity should consider whether dimensional specifications meet a minimum or maximum specification (e.g., outer diameter cannot exceed 3.0 mm) or are within a range of acceptable tolerance specifications. If dimensional specifications are within the acceptable range, the answer to A2.1
@@ -206,7 +202,8 @@ would likely be “no;” however, for changes that are outside the acceptable r
 Do the changed performance specifications of the component/part/material significantly change the device performance or safety specifications? When evaluating if there is a significant change to performance or safety specifications, the entity should consider whether performance outputs meet a minimum and/or maximum specification (e.g., temperature within chamber cannot exceed 25 ºC and pressure cannot be less than 150 kPa) or are within a range of acceptable tolerance specifications (e.g., pump flowrate must be between 2 and 20 mL/hour; sound of device must not exceed 65 decibels while in operation). If performance specifications are within the acceptable range, the answer to A2.1 would likely be “no;” however, for changes that result in performance specifications that are outside the acceptable range, the answer to A2.1 would likely be “yes.”
 
 If the answer to A2.1 is “yes,” then the change would likely be remanufacturing. If the answer to A2.1 is “no,” then proceed to A3.
-A3. Is there a new or modified risk or is there a change in the performance or safety specifications?
+
+#### A3. Is there a new or modified risk or is there a change in the performance or safety specifications?
 The entity should perform a risk-based assessment to identify new or modified risks or a change in the performance or safety specifications of the legally marketed device based on the activity being performed on the device. Both the individual change and cumulative changes performed on the legally marketed device should be considered. While individual changes may not significantly change the legally marketed device’s performance or safety specifications, the cumulative changes may do so. The extent of the assessment should be appropriate considering the nature and extent of the activities being performed.
 
 Is there a new or modified risk? A risk-based assessment can identify whether there are new risks or modified existing risks in comparison to the legally marketed device. If a new risk is created or an existing risk has been modified based on the activity being performed, the answer to A3 should be “yes,” and this activity should be evaluated using the text in A3.1. If uncertain, the answer to A3 should be “yes.” Examples include risk of electrostatic shock, device short circuit, or unexpected device movement.
@@ -214,7 +211,8 @@ Is there a new or modified risk? A risk-based assessment can identify whether th
 Is there a change in the performance or safety specifications? A risk-based assessment can also identify whether there is a change in performance or safety specifications. This assessment should consider, for example, how a change could impact a device’s continued conformity to a voluntary consensus standard or compliance with a regulation, such as special controls identified in a device classification regulation. This assessment should also consider whether activities that break a seal or barrier can adequately return the device to its legally marketed performance and safety specifications, including its ability to be adequately reprocessed. If a change to performance or safety specifications has been identified, the answer to A3 should be “yes.” If uncertain, the answer to A3 should be “yes.”
 
 When an entity makes a change that has a “yes” answer to A3, the entity should analyze the impact of the change on the device’s performance and safety specifications using the text in A3.1. If the answer to A3 is “no,” then the change is likely not remanufacturing.
-A3.1 Is there a significant change to device performance or safety specifications?
+
+##### A3.1. Is there a significant change to device performance or safety specifications?
 If new or modified risks were identified, the entity should evaluate whether they significantly change the legally marketed device’s performance or safety specifications using the output of the risk-based assessment performed in A3. Removing, modifying, or bypassing a safety feature (e.g., fuses, alerts, alarms, interlocks) likely significantly changes the legally marketed device’s performance or safety specifications. Changes that impact compliance with a regulation or alter conformity with a voluntary consensus standard would likely significantly change the legally marketed device’s performance or safety specifications and may also adulterate and/or misbrand the device.44
 
 If the answer to A3.1 is “yes,” then the change would likely be remanufacturing. If the answer to A3.1 is “no,” then the change is likely not remanufacturing.
@@ -240,22 +238,22 @@ Registered remanufacturers and entities engaged in remanufacturing are subject t
 
 
 47 The considerations in this section apply to OEMs, third party servicers, and ISOs. The intent of this section is to provide additional insights for entities that may be less familiar with the FDA’s medical device regulatory requirements.
-Establishment Registration and Medical Device Listing
+### Establishment Registration and Medical Device Listing
 Under 21 CFR part 807, owners or operators of establishments that are involved in the manufacture, preparation, propagation, compounding, assembly, or processing of medical devices intended for human use in the U.S. are generally required to register annually with FDA.
 Generally, establishments that are required to register with FDA are also required to list their devices and the activities that are performed on those devices. As manufacturers, remanufacturers of medical devices54 are also required to obtain their own device listing, independent of OEM’s device listing, and their own establishment registration if not already registered as a device manufacturer.55
 
 
-Marketing Authorization
+### Marketing Authorization
 The risk of the device determines the regulatory controls needed to provide a reasonable assurance of safety and effectiveness. Medical devices are classified into class I, II, and III with increasing regulatory controls. The class to which a device is assigned determines, among other things, the type of premarket submission or application that is required for FDA authorization to market. Most class I devices, which includes devices with the lowest risk, are exempt from premarket notification (i.e., 510(k) Exempt); class II devices require premarket notification (i.e., a 510(k)) unless exempt by regulation; and class III devices (those that are the highest risk) require premarket approval (i.e., a PMA). Remanufacturers are responsible for complying with premarket requirements, including obtaining the required FDA marketing authorization prior to conducting remanufacturing activities on the OEM’s legally marketed finished device.56 The relevant regulatory standard must be met for remanufactured devices, which have experienced a significant change to performance or safety specifications, or intended use, as compared to the OEM’s legally marketed finished device.  For example, for remanufactured devices requiring a 510(k), the remanufacturer must demonstrate that the device is “substantially equivalent” to a legally marketed predicate device in terms of intended use, technological characteristics, and performance testing, as needed. For remanufactured devices requiring a PMA, the remanufacturer must provide valid scientific evidence demonstrating a reasonable assurance of safety and effectiveness for the device’s intended use.
 
 
 Registration and listing,” available at https://www.fda.gov/medical-devices/how-study-and-market-your-device/device-registration-and-listing 56 Remanufactured devices may require different regulatory controls from the OEM’s legally marketed finished device to provide a reasonable assurance of safety and effectiveness. Remanufacturers must identify the correct classification for the device to understand and comply with the applicable regulatory controls. For additional information on premarket submissions, see FDA’s website “How to Study and Market Your Device,” available at https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-assistance/how-study-and-marketyour-device.
-Medical Device Reporting and Electronic Product Reports
+### Medical Device Reporting and Electronic Product Reports
 The Medical Device Reporting (MDR) regulation (21 CFR part 803) contains mandatory requirements for manufacturers, distributors, importers, and device user facilities to report certain device-related adverse events and product problems to FDA. 21 CFR part 1002 sets forth the requirements for records and reports that must be kept and submitted for certain electronic products. Manufacturers, including remanufacturers, are required to report to FDA when they learn that any of their devices may have caused or contributed to a death or serious injury.57
 Manufacturers must also report to FDA when they become aware that their device has malfunctioned and would be likely to cause or contribute to a death or serious injury if the malfunction were to recur.58 As manufacturers, remanufacturers also are responsible for reporting adverse events and certain malfunctions, as further defined and outlined in 21 CFR parts 803 and 1002, regarding their remanufactured device to FDA.
 
 
-Reports of Corrections and Removals and Notifications of Defects
+### Reports of Corrections and Removals and Notifications of Defects
 Under 21 CFR part 806, Medical Device Reports of Correction and Removals, manufacturers and importers are required to submit a written report to FDA of any correction or removal of medical devices if the correction or removal was initiated to reduce a risk to health posed by the device or to remedy a violation of the FD&C Act caused by the device which may present a risk to health.59 Even if a remanufacturer is not required to report a correction or removal of a device to FDA under 21 CFR 806.10, records of such actions must be kept.60 Under 21 CFR part 1003,
 Notification of Defects or Failure to Comply, manufacturers, assemblers, and importers of electronic products who discover a defect or that the product otherwise fails to comply with applicable standards, are required to submit written notification to the FDA, and when applicable, affected persons.61
 
@@ -265,11 +263,11 @@ Electronic Products.
 Device Recall Authority.64 As manufacturers, remanufacturers are responsible for taking action and reporting to FDA any correction or removal which was initiated to reduce a risk to health posed by the device or to remedy a violation of the Act caused by the device which may present a risk to health.
 
 
-Quality System
+### Quality System
 The QS Regulation (21 CFR part 820) includes requirements related to the methods used in and the facilities and controls used for: designing, purchasing, manufacturing, packaging, labeling, storing, installing and servicing of medical devices.65 Remanufacturers of medical devices are required to have a quality system in place for their device, unless the device is exempt from good manufacturing practices (GMP) requirements.66
 
 
-Labeling
+### Labeling
 Labeling includes labels on the device as well as descriptive and informational literature that accompanies the device.67 General device labeling requirements are found in 21 CFR part 801.
 Additional labeling requirements for in vitro diagnostics (IVDs) are found in 21 CFR part 809 and labeling requirements for electronic products are found in 21 CFR part 1010. Unique device identification (UDI) labeling requirements are found in 21 CFR part 830.68 Remanufactured devices most likely already have labeling associated with them that is provided by the OEM of the finished device. Remanufacturing activities that significantly change the performance or safety specifications of a device, or its intended use, are likely to require corresponding labeling changes. For example, if a remanufacturer adds a feature or function to a reusable device, such modification would necessitate labeling changes to provide adequate instructions for how to use the new feature or function and to the associated reprocessing instructions to ensure the device
 
@@ -290,19 +288,23 @@ Prescription devices are exempt from the adequate directions for use requirement
 ## Appendix A. Examples
 The following are illustrative examples of activities that may be performed on devices with explanations about why such examples are or are not likely remanufacturing. Note that these generalized examples do not necessarily account for every possible detail, risk, or consideration that an entity should evaluate, and should not be taken to mean that the changes described are or are not definitively remanufacturing. Real-world decisions will depend on the specific facts and circumstances, including the specific details of the changes made to the specific device. FDA recommends referencing the guiding principles when considering the examples to expand understanding. For example, when reviewing the activities outlined in the examples below, it may be helpful to consider whether the activity results in changes to a device that would require a new marketing submission (consistent with Guiding Principle 3) and how a risk-based approach, such as ISO 14971: Medical devices – Application of risk management to medical devices may be instrumental in assessing risk (consistent with Guiding Principle 5).
 
-(1) Component/part/material activities Example E.1
+
+#### (1) Component/part/material activities Example E.1
 Activity: The door of an infusion pump was bent and now pinches the administration set.
 The flow rate accuracy fell outside the OEM’s specified accuracy range. The door is replaced with a non-OEM door that is marketed as compatible with this infusion pump. It has the same overall dimensions and is made from a similar material of construction. However, the replacement door material is more rigid than the original door.
 
 Relevant questions: A1. Add, remove, or change a component/part/material that directly or indirectly contacts body tissue?
 No. The existing and replacement doors do not have direct or indirect contact with the patient’s body tissue.
 
-A2. Add or remove component/part/material or change the dimensional or performance specifications of a component/part/material?
+
+#### A2. Add or remove component/part/material or change the dimensional or performance specifications of a component/part/material?
 Yes, the old door was removed and replaced. While the new door is marketed as compatible, all dimensions were confirmed through comparative measurement, including the hinges and latch. The specific material of the original door is unknown and there is a noticeable difference in flexibility that may impact the pump’s performance specifications.
 
-A2.1 Is there a significant change to device performance or safety specifications?
+
+##### A2.1. Is there a significant change to device performance or safety specifications?
 No. Once replaced, the door was confirmed to open and close with similar effort as the original door and it was confirmed that the added rigidity did not significantly change the pump’s performance or safety specifications (e.g., flowrate accuracy).
-A3. Is there a new or modified risk or is there a change in the performance or safety specifications?
+
+#### A3. Is there a new or modified risk or is there a change in the performance or safety specifications?
 No. A risk-based assessment determined that there are no new or modified risks and there is no change in performance or safety specifications (e.g., the change does not alter conformity to a voluntary consensus standard or compliance with a regulation).
 
 Decision: Not Remanufacturing.
@@ -314,10 +316,12 @@ Relevant questions: A1. Add, remove, or change a component/part/material that di
 No. Neither the existing or replacement component directly or indirectly contact body tissue.
 It is only in contact with the outside of the administration set.
 
-A2. Add or remove component/part/material or change the dimensional or performance specifications of a component/part/material?
+
+#### A2. Add or remove component/part/material or change the dimensional or performance specifications of a component/part/material?
 Yes. The rotor was removed and replaced. Also, although the dimensional specifications of the non-OEM pump rotor, including the individual rollers, are the same as the OEM rotor, the roller materials are different.
 
-A2.1 Is there a significant change to device performance or safety specifications?
+
+##### A2.1. Is there a significant change to device performance or safety specifications?
 Yes. Once the rotor was replaced, the device appears to function adequately. The change in material of the rollers does not significantly change the accuracy of the flowrate across the labeled flowrate range. However, a risk-based assessment identified that the change in material of the rollers can affect the useful life of the administration set. The change in the roller material from plastic to stainless steel increases the administration set wear and/or breakage due to fatigue. Evaluation of this risk concluded that the increased fatigue on the administration set is more likely to lead to patient under-dosing before the administration set is intended to be replaced. This significantly changes the device’s performance and safety specifications.
 
 Decision: Remanufacturing.
@@ -327,10 +331,12 @@ Activity: The gradient coil of a magnetic resonance (MR) system was damaged duri
 Relevant questions: A1. Add, remove, or change a component/part/material that directly or indirectly contacts body tissue?
 No. The gradient coil does not have direct or indirect contact with body tissue.
 
-A2. Add or remove component/part/material or change the dimensional or performance specifications of a component/part/material?
+
+#### A2. Add or remove component/part/material or change the dimensional or performance specifications of a component/part/material?
 Yes. The gradient coil was removed and replaced, and the new gradient coil has a larger peak gradient strength.
 
-A2.1 Is there a significant change to device performance or safety specifications?
+
+##### A2.1. Is there a significant change to device performance or safety specifications?
 Yes. An assessment was performed to determine the significance of the change. A gradient coil with a larger peak gradient strength significantly changes the imaging performance specifications (e.g., slice thickness, spatial resolution).
 
 Decision: Remanufacturing.
@@ -340,10 +346,12 @@ Activity: The gradient coil of an MR system was damaged during an imaging sessio
 Relevant questions:
 In this example, the answers to flowchart questions A1 and A2 are the same as Example E.3.a. except that for A2, the new gradient coil has different dimensional specifications and coil design.
 
-A2.1 Is there a significant change to device performance or safety specifications?
+
+##### A2.1. Is there a significant change to device performance or safety specifications?
 No. The new gradient coil only differs by small changes in design and dimensional specifications. There are no significant changes to the performance and safety specifications (e.g., slew rate, peak gradient strength, power).
 
-A3. Is there a new or modified risk or is there a change in the performance or safety specifications?
+
+#### A3. Is there a new or modified risk or is there a change in the performance or safety specifications?
 No. A risk-based assessment identified no new or modified risks or change in the performance or safety specifications due to this change because the non-OEM gradient coil has the same hardware performance specifications (e.g., slew rate), equivalent imaging performance, and meets the same safety and performance specifications (e.g., acoustic output) when compared to the OEM gradient coil.
 
 Decision: Not Remanufacturing.
@@ -353,13 +361,16 @@ Activity: The slide heater pads on an immunohistochemistry (IHC) autostainer are
 Relevant questions: A1. Add, remove, or change a component/part/material that directly or indirectly contacts body tissue?
 No. The slide heater pads do not have direct or indirect contact with body tissue.
 
-A2. Add or remove component/part/material or change the dimensional or performance specifications of a component/part/material?
+
+#### A2. Add or remove component/part/material or change the dimensional or performance specifications of a component/part/material?
 Yes. The heater pad components were physically removed and replaced with new pads.
 
-A2.1 Is there a significant change to device performance or safety specifications?
+
+##### A2.1. Is there a significant change to device performance or safety specifications?
 No. An assessment was performed to evaluate this replacement and identified no changes to dimensions, materials, or performance or safety specifications of the pads.
 
-A3. Is there a new or modified risk or is there a change in the performance or safety specifications?
+
+#### A3. Is there a new or modified risk or is there a change in the performance or safety specifications?
 No. A risk-based assessment identified no new or modified risks because the slide heater pads are identical to the original part from the OEM. The device now functions within its functional specifications identified in the labeling. There is no change in the performance or safety specifications.
 
 Decision: Not Remanufacturing.
@@ -370,10 +381,12 @@ Activity: The tubing on a sample processor became kinked from use and needs to b
 Relevant questions: A1. Add, remove, or change a component/part/material that directly or indirectly contacts body tissue?
 No. There is no direct or indirect contact between the tubing and body tissue.
 
-A2. Add or remove component/part/material or change the dimensional or performance specifications of a component/part/material?
+
+#### A2. Add or remove component/part/material or change the dimensional or performance specifications of a component/part/material?
 Yes. The tubing was removed and replaced with new tubing of a different inner diameter.
 
-A2.1 Is there a significant change to device performance or safety specifications?
+
+##### A2.1. Is there a significant change to device performance or safety specifications?
 Yes. The inner diameter of the tubing is different from the legally marketed device.
 Verification and validation testing was performed to evaluate this replacement and identified significant changes to performance because different fluid characteristics (e.g., flow rate) than those specified for the legally marketed device were noted with the new tubing.
 
@@ -384,10 +397,12 @@ Activity: A tissue pre-treatment water bath was updated by replacing the heating
 Relevant questions: A1. Add, remove, or change a component/part/material that directly or indirectly contacts body tissue?
 No. The tissue specimens have been removed from the human body, are within a sealed container, and neither the water bath nor heating chamber directly or indirectly contacts the tissue.
 
-A2 Add or remove component/part/material or change the dimensional or performance specifications of a component/part/material?
+
+#### A2. Add or remove component/part/material or change the dimensional or performance specifications of a component/part/material?
 Yes. The heating chamber was removed and replaced. The heating chamber’s performance specifications were changed because the new heating chamber has a different temperature range.
 
-A2.1 Is there a significant change to device performance or safety specifications?
+
+##### A2.1. Is there a significant change to device performance or safety specifications?
 Yes. The performance is significantly changed because the heating range extends beyond that of the heating chamber in the legally marketed device.
 
 Decision: Remanufacturing.
@@ -399,18 +414,23 @@ Activity: A stainless steel manual drill is intended to be used in the implantat
 Relevant questions: A1. Add, remove, or change a component/part/material that directly or indirectly contacts body tissue?
 Yes. Sharpening the drill removes material and exposes a fresh surface that directly contacts bone.
 
-A1.1 Is there a significant change to device performance or safety specifications?
+
+##### A1.1. Is there a significant change to device performance or safety specifications?
 No. The drill is not coated. The material and structure of the drill that contacts body tissue is uniform. A risk-based assessment concluded that removal of material due to sharpening as well as the sharpening process itself does not significantly change the biocompatibility or reprocessing.
 
-A2. Add or remove component/part/material or change the dimensional or performance specifications of a component/part/material?
+
+#### A2. Add or remove component/part/material or change the dimensional or performance specifications of a component/part/material?
 Yes. Sharpening of the drill removes material changing the dimensions of the drill.
 
-A2.1 Is there a significant change to device performance or safety specifications?
+
+##### A2.1. Is there a significant change to device performance or safety specifications?
 No. The drill was returned to its performance and safety specifications because the entity sharpened the device to its labeled outer diameter and original edge profile angle.
-A3. Is there a new or modified risk or is there a change in the performance or safety specifications?
+
+#### A3. Is there a new or modified risk or is there a change in the performance or safety specifications?
 Yes. Sharpening the drill may change the size of the resulting pilot drill hole. Changing the size of the pilot hole can change the fit of the implant or overall purchase in bone such that the mechanical integrity of the implant is compromised.
 
-A3.1 Is there a significant change to device performance or safety specifications?
+
+##### A3.1. Is there a significant change to device performance or safety specifications?
 No. Based on the facility’s maintenance record, it was determined that this is the first drill sharpening. The drill produces the same pilot hole size as the legally marketed device after the sharpening has been completed. There is no significant change to the device’s performance or safety specifications at this time.
 
 Decision: Not Remanufacturing.
@@ -420,13 +440,16 @@ Activity: A stainless steel manual drill with a titanium nitride coating is inte
 Relevant questions: A1. Add, remove, or change a component/part/material that directly or indirectly contacts body tissue?
 Yes. Sharpening the drill removes material and exposes a fresh surface that directly contacts bone.
 
-A1.1 Is there a significant change to device performance or safety specifications?
+
+##### A1.1. Is there a significant change to device performance or safety specifications?
 No. While sharpening the drill exposes the stainless steel surface beneath the coating, both the surface coating and underlying stainless steel have been subjected to a biocompatibility assessment. Additionally, a risk-based assessment concluded that removal of material due to sharpening does not significantly change the biocompatibility or reprocessing.
 
-A2. Add or remove component/part/material or change the dimensional or performance specifications of a component/part/material?
+
+#### A2. Add or remove component/part/material or change the dimensional or performance specifications of a component/part/material?
 Yes. Sharpening of the drill removes material changing the dimensions and cutting surface of the drill.
 
-A2.1 Is there a significant change to device performance or safety specifications?
+
+##### A2.1. Is there a significant change to device performance or safety specifications?
 Yes. Based on the facility’s maintenance record, it was determined that the drill has been sharpened multiple times. While the outer diameter of the drill is not significantly changed from the legally marketed device, the titanium nitride coating is no longer intact on the cutting surface of the drill, causing inefficient or destructive cutting. This activity significantly changes the device’s performance and safety specifications.
 
 Decision: Remanufacturing.
@@ -437,17 +460,21 @@ The replacement lens was not purchased from the OEM. The lens was tested and dem
 Relevant questions: A1. Add, remove, or change a component/part/material that directly or indirectly contacts body tissue?
 Yes, both the lens and the epoxy directly contact body tissue.
 
-A1.1 Is there a significant change to device performance or safety specifications?
+
+##### A1.1. Is there a significant change to device performance or safety specifications?
 No. The epoxy is identical to the epoxy used in the legally marketed device. The replacement lens is the same material as original lens. A risk-based assessment that considered both the individual and cumulative changes was performed to determine if the procedure used to replace the lens affects biocompatibility and reprocessing instructions.
 A biocompatibility assessment confirmed that there are no new surfaces previously unexposed to body tissue. A comprehensive reprocessing risk assessment and testing demonstrated that the validated reprocessing instructions identified in the labeling of the legally marketed device are not impacted by the replacement parts or the procedure used to replace the parts.
 
-A2. Add or remove component/part/material or change the dimensional or performance specifications of a component/part/material?
+
+#### A2. Add or remove component/part/material or change the dimensional or performance specifications of a component/part/material?
 Yes. The epoxy and lens were replaced.
 
-A2.1 Is there a significant change to device performance or safety specifications?
+
+##### A2.1. Is there a significant change to device performance or safety specifications?
 No. The optical performance testing (e.g., resolution and distortion) and reprocessing risk assessment and testing indicated there has been no significant change in performance or safety specifications.
 
-A3. Is there a new or modified risk or is there a change in the performance or safety specifications?
+
+#### A3. Is there a new or modified risk or is there a change in the performance or safety specifications?
 No. A risk-based assessment was performed that considered both the individual and cumulative changes that could have affected biocompatibility, reprocessing, and optical performance. This assessment identified that there are no new or modified risks, and there is no change in performance or safety specifications.
 
 Decision: Not Remanufacturing.
@@ -458,7 +485,8 @@ The replacement lens comes from a different endoscope model from the same OEM; t
 Relevant questions:
 In this example, the answers to flowchart questions A1, A1.1, and A2 are the same as Example E.8.a.
 
-A2.1 Is there a significant change to device performance or safety specifications?
+
+##### A2.1. Is there a significant change to device performance or safety specifications?
 Yes. The epoxy is identical to that used in the legally marketed device, but the lens has different optical specifications from the original lens. The endoscope with the replacement lens has different imaging specifications relative to the legally marketed device. While the replacement lens is present on another 510(k)-cleared device, it was not present on the original endoscope and significantly changes the performance specifications of the original endoscope.
 
 Decision: Remanufacturing.
@@ -469,16 +497,20 @@ Activity: An endoscope’s connection to the video processor was damaged during 
 Relevant questions: A1. Add, remove, or change a component/part/material that directly or indirectly contacts body tissue?
 No. The added adapter does not directly or indirectly contact body tissue.
 
-A2. Add or remove component/part/material or change the dimensional or performance specifications of a component/part/material?
+
+#### A2. Add or remove component/part/material or change the dimensional or performance specifications of a component/part/material?
 Yes, the adapter has been added to the endoscope.
 
-A2.1 Is there a significant change to device performance or safety specifications?
+
+##### A2.1. Is there a significant change to device performance or safety specifications?
 No. The adapter still allows the endoscope to be connected to the video processor and optical performance testing demonstrated the same optical performance as the original endoscope.
 
-A3. Is there a new or modified risk or is there a change in the performance or safety specifications?
+
+#### A3. Is there a new or modified risk or is there a change in the performance or safety specifications?
 Yes. A risk-based assessment was performed to determine the effects of this added component. Increased risks exist with the added adapter, such as disconnection from the light source, and the potential change to the electrical safety and electromagnetic compatibility (EMC) of the device.
 
-A3.1 Is there a significant change to device performance or safety specifications?
+
+##### A3.1. Is there a significant change to device performance or safety specifications?
 Yes. Disconnection from a light source during a procedure could result in a loss of imaging and adverse events such as increased procedure time or other patient injuries such as perforation. Additionally, testing should also be performed for the electrical safety and EMC of the device.
 
 Decision: Remanufacturing.
@@ -489,10 +521,12 @@ Activity: The motor on a powered wheelchair no longer functions and does not pro
 Relevant questions: A1. Add, remove, or change a component/part/material that directly or indirectly contacts body tissue?
 No. The motor does not directly or indirectly contact body tissue.
 
-A2. Add or remove component/part/material or change the dimensional or performance specifications of a component/part/material?
+
+#### A2. Add or remove component/part/material or change the dimensional or performance specifications of a component/part/material?
 Yes. The original motor was removed and replaced.
 
-A2.1 Is there a significant change to device performance or safety specifications?
+
+##### A2.1. Is there a significant change to device performance or safety specifications?
 Yes. While the motor has the same physical dimensions, the replacement motor has a different power output and maximum speed than the legally marketed device. This significantly changes the device’s performance specifications because the wheelchair can go faster than intended. This also significantly changes the device’s safety specifications because the controller and software to operate the wheelchair may no longer be compatible with the motor.
 
 Decision: Remanufacturing.
@@ -503,12 +537,15 @@ Activity: The liquid cooling system responsible for maintaining the temperature 
 Relevant questions: A1. Add, remove, or change a component/part/material that directly or indirectly contacts body tissue?
 No. The liquid coolant is maintained in the sealed coolant system and neither the liquid coolant nor the pump directly or indirectly contacts body tissue.
 
-A2. Add or remove component/part/material or change the dimensional or performance specifications of a component/part/material?
+
+#### A2. Add or remove component/part/material or change the dimensional or performance specifications of a component/part/material?
 Yes, the pump was replaced.
-A2.1 Is there a significant change to device performance or safety specifications?
+
+##### A2.1. Is there a significant change to device performance or safety specifications?
 No. Both the dimensions and performance specifications of the original pump were assessed in comparison to the replacement part. The replacement pump has the same dimensional and performance specifications of the original pump. The overall performance and safety specifications of the TMS coils were verified by testing to be the same.
 
-A3. Is there a new or modified risk or is there a change in the performance or safety specifications?
+
+#### A3. Is there a new or modified risk or is there a change in the performance or safety specifications?
 No. A risk-based assessment identified no new or modified risks because the replacement pump is equivalent to that used in the OEM’s legally marketed device and there is no change in the device performance or safety specifications.
 
 Decision: Not Remanufacturing.
@@ -518,10 +555,12 @@ Activity: The liquid cooling system responsible for maintaining the temperature 
 Relevant questions:
 In this example, the answer to flowchart question A1 is the same as Example E.11.a.
 
-A2. Add or remove component/part/material or change the dimensional or performance specifications of a component/part/material?
+
+#### A2. Add or remove component/part/material or change the dimensional or performance specifications of a component/part/material?
 Yes. A replacement pump that uses a different coolant liquid was installed.
 
-A2.1 Is there a significant change to device performance or safety specifications?
+
+##### A2.1. Is there a significant change to device performance or safety specifications?
 Yes. Although the pump has the same dimensional and flow specifications as the original pump, the new pump uses a different liquid coolant. The new liquid coolant does not have the same heat capacity as that used in the legally marketed device. Verification and validation testing was performed and it was determined that there was a significant change to cooling effectiveness, which poses a safety hazard when the TMS coil is not properly cooled. This may burn the patient or cause further device malfunctions.
 
 Decision: Remanufacturing.
@@ -531,18 +570,22 @@ Activity: An energy-delivering aesthetic device has multiple compatible handpiec
 Relevant questions: A1. Add, remove, or change a component/part/material that directly or indirectly contacts body tissue?
 Yes. The distal end of Applicator B is used to reconstruct Applicator A. It directly contacts the patient and delivers the energy.
 
-A1.1 Is there a significant change to device performance or safety specifications?
+
+##### A1.1. Is there a significant change to device performance or safety specifications?
 No. The distal end of both applicators has identical materials and the reprocessing instructions provided by the OEM are the same for both applicators. A risk-based assessment was performed to determine the effects of implementing these repairs on the biocompatibility and reprocessing. A biocompatibility assessment and reprocessing risk assessment were used to determine that the performance and safety specifications of the device were not significantly changed.
 
-A2. Add or remove component/part/material or change the dimensional or performance specifications of a component/part/material?
+
+#### A2. Add or remove component/part/material or change the dimensional or performance specifications of a component/part/material?
 Yes. The distal end of Applicator B has different dimensional specifications compared to Applicator A.
 
-A2.1. Is there a significant change to device performance or safety specifications?
+
+##### A2.1. Is there a significant change to device performance or safety specifications?
 Yes. The surface area that contacts the patient has increased by 150%. The increase in surface area changes the energy output delivered to the patient, which significantly changes both the performance and safety specifications of Applicator A.
 
 Decision: Remanufacturing.
 
-(2) Software activities Example S.1
+
+#### (2) Software activities Example S.1
 Activity: A specular microscope with a camera is intended for examination of corneal endothelium and for measurement of the thickness of the cornea. The software was updated to implement an OEM-authorized patch.
 
 Relevant analysis: The installation of this OEM-authorized patch does not significantly change the device performance or safety specifications. See Section VII of this guidance for further discussion of changes involving software. The patch is intended to maintain the original specifications.
@@ -633,7 +676,6 @@ Reviewed by: xxx
 
 Signature(s): xxx
 
----
 
 ## Footnotes
 

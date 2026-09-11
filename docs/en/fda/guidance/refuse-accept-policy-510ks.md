@@ -25,19 +25,11 @@ PDF: [https://www.fda.gov/media/83888/download](https://www.fda.gov/media/83888/
 
 ## Official Full Text
 
-On February 2, 2024, FDA published the final rule to amend the Quality System (QS) regulation in 21 CFR part 820 (89 FR 7496, effective February 2, 2026). The revised 21 CFR part 820 is now titled the Quality Management System Regulation (QMSR). The QMSR harmonizes quality management system requirements by incorporating by reference the international standard specific for medical device quality management systems set by the International Organization for
-Standardization (ISO), ISO 13485:2016. The FDA has determined that the requirements in ISO 13485 are, when taken in totality, substantially similar to the requirements of the QS regulation, providing a similar level of assurance in a firm’s quality management system and ability to consistently manufacture devices that are safe and effective and otherwise in compliance with the Federal Food, Drug, and Cosmetic Act (FD&C Act).
-This guidance document was issued prior to the effective date of the final rule. FDA encourages manufacturers to review the current QMSR to ensure compliance with the relevant regulatory requirements.
-
-
-Refuse to Accept Policy for 510(k)s
-
 This guidance represents the current thinking of the Food and Drug Administration (FDA or Agency) on this topic. It does not establish any rights for any person and is not binding on FDA or the public. You can use an alternative approach if it satisfies the requirements of the applicable statutes and regulations. To discuss an alternative approach, contact the
 FDA staff or Office responsible for this guidance as listed on the title page.
-### I. Purpose
+## I. Purpose
 The purpose of this document is to explain the procedures and criteria FDA intends to use in assessing whether a premarket notification (510(k)) submission meets a minimum threshold of acceptability and should be accepted for substantive review.
-Focusing FDA’s review resources on complete submissions will provide a more efficient approach to ensuring that safe and effective medical devices reach patients as quickly as possible. Moreover, with the enactment of the Medical Device User Fee and Modernization
-Act of 2002 (MDUFMA), the Medical Device User Fee Amendments of 2007 (MDUFA II), the Medical Device User Fee Amendments of 2012 (MDUFA III), and the Medical Device
+Focusing FDA’s review resources on complete submissions will provide a more efficient approach to ensuring that safe and effective medical devices reach patients as quickly as possible. Moreover, with the enactment of the Medical Device User Fee and Modernization Act of 2002 (MDUFMA), the Medical Device User Fee Amendments of 2007 (MDUFA II), the Medical Device User Fee Amendments of 2012 (MDUFA III), and the Medical Device
 User Fee Amendments of 2017 (MDUFA IV),1 FDA agreed to performance goals based on the timeliness of reviews. Acceptance review therefore takes on additional importance in both encouraging quality submissions from submitters of 510(k) notifications and allowing
 FDA to appropriately concentrate resources on complete submissions.
 Therefore, the current 510(k) Refuse to Accept (RTA) policy includes an early review against specific acceptance criteria and to inform the submitter within the first 15 calendar days after receipt of the submission if the submission is administratively complete, or if not, to identify the missing element(s). In order to enhance the consistency of our acceptance decisions and to help submitters better understand the types of information FDA needs to conduct a substantive review, this guidance, including the checklists included in the appendices, clarify the necessary elements and contents of a complete 510(k) submission.
@@ -67,7 +59,7 @@ In addition, other FDA guidance documents and resources provide valuable informa
 - “Types of Communication During the Review of Medical Device Submissions;”11
 - “Intent to Exempt Certain Unclassified Medical Devices from Premarket Notification Requirements;”12
 - Other applicable device-specific and cross-cutting guidance documents;13 and · CDRH Device Advice.14
-### V. 510(k) Refuse to Accept Policies and Procedures
+## V. 510(k) Refuse to Accept Policies and Procedures
 FDA staff conduct acceptance reviews of  Traditional, Abbreviated, or Special 510(k)s based on objective criteria using the applicable Acceptance Checklist (see Appendices A-C) to ensure that the 510(k) is administratively complete. In order for the submission to be accepted, all administrative elements identified as RTA items should be present or a rationale should be provided for those elements determined by the submitter to be not applicable. To aid in the administrative review, it is recommended that submitters complete and submit acceptance checklists with their submissions that identify the location of supporting information for each RTA element.
 The acceptance review occurs prior to the substantive review and should be conducted and completed within 15 calendar days of FDA receiving the 510(k) notification. An acceptance review will only begin for 510(k) submissions for which the applicable user fee has been
 The staff will select the applicable checklist based on the 510(k) type (i.e., Traditional, Abbreviated, or Special). The acceptance review will be conducted on original 510(k) submissions and responses to RTA communications, but not supplements or amendments submitted in response to requests for additional information after a submission has been accepted. The staff should assess whether the submission should be accepted by first answering the preliminary questions below, and then verifying that the submission contains all of the information identified as RTA items in the checklist.
@@ -121,8 +113,7 @@ Officer or the CBER Product Jurisdiction Officer to determine the appropriate ac
 If the submission is for a single-entity device and appears to be subject to review in a
 Center different from the one to which it was submitted, or if it is for a combination product with a device constituent part and it appears that a Center different from the one to which it was submitted has the lead, the 510(k) lead reviewer should consult with the CDRH Product Jurisdiction Officer or the CBER Product Jurisdiction Officer to determine the appropriate action and inform management. If the 510(k) is submitted to CDRH and CDRH staff determines that the submission is not subject to CDRH review, or the 510(k) is submitted to CBER and CBER staff determines that the submission is not subject to CBER review, the 510(k) review team should stop the review and notify the submitter.
 3. If a Request for Designation (RFD) was submitted for the device or combination
-product with a device constituent part and assigned to your center, identify the RFD
-# and confirm the following:
+product with a device constituent part and assigned to your center, identify the RFD # and confirm the following:
 (a) Is the device or combination product the same (e.g., design, formulation) as that presented in the RFD submission?
 (b) Are the indications for use for the device or combination product identified in the 510(k) the same as those identified in the RFD submission?
 An RFD determination is specific to the device or combination product and indications for use for the device or combination product described in the RFD submission. If the device or combination product has been modified or the indications for use have been modified since the RFD, the RFD determination may no longer be applicable and jurisdiction may need to be reevaluated by the Office of Combination Products (OCP).
@@ -225,8 +216,7 @@ If “Yes,” consult your management and CDRH Office of Product Evaluation and 
 (Submission Support) (OPEQ/ORP/DRP1) or appropriate CBER staff to determine the appropriate action.
 Comments:
 7. If clinical studies have been submitted, is the submitter the subject of an Application Integrity Policy (AIP)?
-If “Yes,” consult with the CDRH Office of Product Evaluation and Quality/Office of Clinical Evidence and Analysis/Division of Clinical Science and Quality (OPEQ/OCEA/DCEA1) or CBER Office of Compliance and
-Biologics Quality/Division of Inspections and Surveillance/Bioresearch
+If “Yes,” consult with the CDRH Office of Product Evaluation and Quality/Office of Clinical Evidence and Analysis/Division of Clinical Science and Quality (OPEQ/OCEA/DCEA1) or CBER Office of Compliance and Biologics Quality/Division of Inspections and Surveillance/Bioresearch
 Monitoring Branch (OCBQ/DIS/BMB) to determine the appropriate action, provide a summary of the discussion with them, and indicate their recommendation/action.
 If no clinical studies have been submitted, mark “N/A.” Check on the AIP list at https://www.fda.gov/inspections-compliance-enforcement-and-criminalinvestigations/application-integrity-policy/application-integrity-policy-list.
 Comments: · If the answer to 1 or 2 appears to be “No,” then stop review of the 510(k) and contact the CDRH Product Jurisdiction Officer or CBER Product Jurisdiction Officer.
@@ -434,9 +424,7 @@ Comments:
 ### D. Proposed Labeling (see also 21 CFR parts 801 and 809 as applicable)
 18. Submission includes proposed package labels and labeling (e.g., instructions for use, package insert, operator’s manual).
 a.
-Indications for use are stated in labeling and are identical to
-Indications for Use form and 510(k) Summary (if 510(k)
-Summary provided).
+Indications for use are stated in labeling and are identical to Indications for Use form and 510(k) Summary (if 510(k) Summary provided).
 b.
 Labeling includes: -
 Statements of conditions, purposes or uses for which the device is intended (e.g., hazards, warnings, precautions, contraindications) (21 CFR 801.5) AND - Includes adequate directions for use (see 21 CFR 801.5) OR -
@@ -534,9 +522,7 @@ Check “Yes” if item is present, “N/A” if it is not needed and “No” i
 *Submitters including the checklist with their submission should identify the page numbers where requested information is located. Use the comments section for an element if additional space is needed to identify the location of supporting information.
 Yes No N/A *Page #
 d.
-Device types in this submission are listed in the Federal
-Register (FR) Notice entitled “Validated Instructions for Use and Validation Data Requirements for Certain
-Reusable Medical Devices in Premarket Notifications”
+Device types in this submission are listed in the Federal Register (FR) Notice entitled “Validated Instructions for Use and Validation Data Requirements for Certain Reusable Medical Devices in Premarket Notifications”
 (Reprocessing FR Notice, available at https://www.federalregister.gov/documents/2017/06/09/201
 7-12007/medical-devices-validated-instructions-for-use-and-validation-data-requirements-for-certain-reusable).
 Device types identified in the Reprocessing FR Notice represent devices posing a greater likelihood of microbial transmission and represent a high risk of infection. Select “N/A” if the device type in the submission is not included in the Reprocessing FR Notice.
@@ -1005,9 +991,7 @@ Comments:
 ### D. Proposed Labeling (see also 21 CFR parts 801 and 809 as applicable)
 17. Submission includes proposed package labels and labeling (e.g., instructions for use, package insert, operator’s manual).
 a.
-Indications for use are stated in labeling and are identical to
-Indications for Use form and 510(k) Summary (if 510(k)
-Summary provided).
+Indications for use are stated in labeling and are identical to Indications for Use form and 510(k) Summary (if 510(k) Summary provided).
 b.
 Labeling includes: -
 Statements of conditions, purposes or uses for which the device is intended (e.g., hazards, warnings, precautions, contraindications) (21 CFR 801.5) AND - Includes adequate directions for use (see 21 CFR 801.5) OR -
@@ -1103,9 +1087,7 @@ Check “Yes” if item is present, “N/A” if it is not needed and “No” i
 *Submitters including the checklist with their submission should identify the page numbers where requested information is located. Use the comments section for an element if additional space is needed to identify the location of supporting information.
 Yes No N/A *Page #
 d.
-Device types in this submission are listed in the Federal
-Register Notice entitled “Validated Instructions for Use and Validation Data Requirements for Certain Reusable
-Medical Devices in Premarket Notifications” (Reprocessing FR Notice, available at https://www.federalregister.gov/documents/2017/06/09/201
+Device types in this submission are listed in the Federal Register Notice entitled “Validated Instructions for Use and Validation Data Requirements for Certain Reusable Medical Devices in Premarket Notifications” (Reprocessing FR Notice, available at https://www.federalregister.gov/documents/2017/06/09/201
 7-12007/medical-devices-validated-instructions-for-use-and-validation-data-requirements-for-certain-reusable).
 Device types identified in the Reprocessing FR Notice devices posing a greater likelihood of microbial transmission and represent a high risk of infection. Select “N/A” if the device type in the submission is not included in the Reprocessing FR Notice.
 i.
@@ -1240,8 +1222,7 @@ Comments:
 37. Summaries of the non-clinical laboratory studies and full test reports* are provided.
 *Summary and full test report content recommendations can be found in FDA’s guidance “Recommended Content and Format of Non-Clinical Bench Performance Testing
 Information in Premarket Submissions,” available at https://www.fda.gov/regulatory-information/search-fdaguidance-documents/recommended-content-and-format-non-clinical-bench-performance-testing-information-premarket.
-If a submitter chooses to declare conformity to a voluntary consensus standard that FDA has recognized, submission of a full test report may not be necessary. Refer to Abbreviated
-Criteria #3. See FDA’s guidance “Appropriate Use of
+If a submitter chooses to declare conformity to a voluntary consensus standard that FDA has recognized, submission of a full test report may not be necessary. Refer to Abbreviated Criteria #3. See FDA’s guidance “Appropriate Use of
 Voluntary Consensus Standards in Premarket Submissions for Medical Devices,” available at https://www.fda.gov/regulatory-information/search-fdaguidance-documents/appropriate-use-voluntary-consensusstandards-premarket-submissions-medical-devices.
 Select “N/A” if the submission appropriately does not include performance data or there are no completed tests without a Declaration of Conformity.
 a.
@@ -1453,10 +1434,6 @@ Comments:
 12. Descriptive information is present and consistent within the submission (e.g., the device description section is consistent with the device description in the labeling).
 
 
-
-
-
-
 Comments:
 
 13. The submission includes descriptive information for the device, including the following: a.
@@ -1550,7 +1527,6 @@ FDA recommends clean and redlined copies be provided.
 Comments: Digital Signature Concurrence Table Reviewer Sign-Off Management Sign-Off (digital signature optional)*
 *Management review of checklist and concurrence with decision required.
 
----
 
 ## Footnotes
 
