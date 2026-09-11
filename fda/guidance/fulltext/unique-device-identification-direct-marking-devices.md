@@ -1,0 +1,806 @@
+# Unique Device Identification: Direct Marking of Devices : Guidance for Industry and Food and Drug Administration Staff
+
+**Source:** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/unique-device-identification-direct-marking-devices](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/unique-device-identification-direct-marking-devices)
+
+**Published:** 2017-11-17
+
+---
+
+<!-- Page 1 -->
+Contains Nonbinding Recommendations 
+ 
+Unique Device Identification: 
+Direct Marking of Devices 
+Guidance for Industry and  
+Food and Drug Administration Staff  
+ 
+Document issued on November 17, 2017.  
+The draft of this document was issued on June 26, 2015. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+For questions about this document regarding CDRH-regulated devices, contact UDI 
+Regulatory Policy Support, 301-796-5995; email: GUDIDsupport@fda.hhs.gov. 
+For questions about this document regarding CBER-regulated devices, contact the Office of 
+Communication, Outreach and Development (OCOD) at 1-800-835-4709 or 240-402-8010. 
+       U.S. Department of Health and Human Services 
+Food and Drug Administration 
+Center for Devices and Radiological Health 
+Center for Biologics Evaluation and Research
+
+---
+
+<!-- Page 2 -->
+Contains Nonbinding Recommendations 
+ 
+Preface 
+Public Comment 
+ 
+You may submit electronic comments and suggestions at any time for Agency consideration to 
+https://www.regulations.gov .  Submit written comments to the Dockets Management Staff, 
+Food and Drug Administration, 5630 Fishers Lane, Room 1061, (HFA-305), Rockville, MD 
+20852.  Identify all comments with the docket number FDA-2015-D-2254. Comments may not 
+be acted upon by the Agency until the document is next revised or updated. 
+ 
+Additional Copies 
+CDRH 
+Additional copies are available from the Internet.  You may also send an e-mail request to 
+CDRH-Guidance@fda.hhs.gov to receive a copy of the guidance.  Please use the document 
+number 1400031 to identify the guidance you are requesting. 
+CBER 
+Additional copies are available from the Center for Biologics Evaluation and Research 
+(CBER) by written request, Office of Communication, Outreach, and Development (OCOD) 
+10903 New Hampshire Ave., Bldg. 71, Room 3128, Silver Spring, MD 20993-0002, or by  
+calling 1-800-835-4709 or 240-402-7800, by email, ocod@fda.hhs.gov or from the Internet 
+at 
+http://www.fda.gov/BiologicsBloodVaccines/GuidanceComplianceRegulatoryInformation/G
+uidances/default.htm.
+
+---
+
+<!-- Page 3 -->
+Contains Nonbinding Recommendations 
+ 
+Table of Contents 
+I. 
+Introduction ....................................................................................................................................................1
+II. 
+Background ................................................................................................................................................2
+III.
+Questions and Answers ..............................................................................................................................3
+A. 
+Direct Marking .......................................................................................................................................3
+1. 
+What is direct marking? ..........................................................................................................................3
+2. 
+Which devices are required to be directly marked? ................................................................................3
+3. 
+What are the compliance dates for the direct marking requirements? ....................................................3
+4. 
+What about a device that has been manufactured and labeled prior to its UDI compliance date? ..........4
+5. 
+Does FDA specify a method to directly mark a device? .........................................................................5
+6. 
+For currently legally marketed devices, does affixing a permanent marking on the device to comply
+with UDI requirements require a premarket approval (PMA) supplement, a biologics license application 
+(BLA) supplement, or a new premarket notification (510(k)) submission? ...................................................5
+7. 
+If a PMA supplement, BLA supplement, or new 510(k) is required as a result of UDI direct marking
+requirements, are user fees also required? ......................................................................................................6
+8. 
+What are the GUDID data submission requirements for devices that must be directly marked with a
+UDI? ...............................................................................................................................................................6
+9.            What are the recordkeeping requirements for devices that must be directly marked with a UDI?..7
+........8
+10. 
+May a labeler voluntarily comply with UDI direct marking requirements? ................................
+................................................................................................
+B. 
+UDI Format ................................
+............8
+1. 
+Is the full UDI required to be directly marked on the device?................................................................8
+2. 
+Does the UDI directly marked on the device need to be identical to the UDI on the device label?........9
+3. 
+For a UDI direct marking, are both the easily readable plain-text and AIDC forms required? ...............9
+4. 
+If a labeler makes a change to a device that requires assigning a new UDI, must the labeler add to or 
+replace the existing UDI direct mark? ............................................................................................................9
+C. 
+Reprocessing ........................................................................................................................................ 10
+1. 
+How is “intended to be used more than once” defined for purposes of UDI direct marking? .............. 10
+2. 
+What does FDA consider “intended to be reprocessed” for the purposes of UDI direct marking? ...... 10
+D. 
+Exceptions to Direct Marking ............................................................................................................... 11
+1. 
+What exceptions are there to the UDI direct marking requirements? ................................................... 11
+2. 
+Does a non-UDI direct marking (such as the name of the company or part or catalog number) on a 
+device itself meet the UDI direct marking requirements? ............................................................................ 12
+3. 
+What is the process for making use of a 21 CFR 801.45(d) ................................................................. 12
+4. 
+What is the process for requesting a specific alternative to direct marking?  How do I request an 
+exception from or alternative to the direct marking requirements? .............................................................. 12
+
+---
+
+<!-- Page 4 -->
+Contains Nonbinding Recommendations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+Unique Device Identification:   
+Direct Marking of Devices 
+ 
+ 
+Guidance for Industry and  
+Food and Drug Administration Staff 
+ 
+This guidance represents the current thinking of the Food and Drug Administration (FDA 
+or Agency) on this topic.  It does not establish any rights for any person and is not binding 
+on FDA or the public.  You can use an alternative approach if it satisfies the requirements 
+of the applicable statutes and regulations.  To discuss an alternative approach, contact the 
+FDA staff or Office responsible for this guidance as listed on the title page.  
+ 
+I. 
+Introduction 
+This document will assist industry, particularly labelers, as defined under 21 CFR 801.3, and 
+FDA staff in understanding FDA’s requirements for direct marking of devices for unique 
+device identification purposes.  Under 21 CFR 801.45, “[a] device that must bear a unique 
+device identifier (UDI) on its label must also bear a permanent marking providing the UDI 
+on the device itself if the device is intended to be used more than once and intended to be 
+reprocessed before each use.” This guidance defines some terms used in the Agency’s 
+regulations pertaining to the UDI direct marking requirements, including how FDA 
+interprets the term “intended to be reprocessed” as used in 21 CFR 801.45.  For additional 
+background on the UDI system, see the Unique Device Identification System Final Rule, 
+published on September 24, 2013 (78 FR 58786) (the UDI Rule - 
+https://www.gpo.gov/fdsys/pkg/FR-2013-09-24/pdf/2013-23059.pdf ). 
+Throughout this guidance document, the terms “we,” “us” and “our” refer to FDA staff 
+from the Center for Devices and Radiological Health (CDRH) and the Center for Biologics
+
+---
+
+<!-- Page 5 -->
+Contains Nonbinding Recommendations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+Evaluation and Research (CBER).  “You” and “your” refers to the labeler, as that term is 
+defined in 21 CFR 801.3. 
+FDA's guidance documents, including this guidance, do not establish legally enforceable 
+responsibilities.  Instead, guidances describe the Agency’s current thinking on a topic and 
+should be viewed only as recommendations, unless specific regulatory or statutory 
+requirements are cited.  The use of the word should in Agency guidance means that 
+something is suggested or recommended, but not required.   
+II. Background 
+Section 226 of the Food and Drug Administration Amendments Act of 2007 (FDAAA), 
+121 Stat. 854, and Section 614 of the Food and Drug Administration Safety and 
+Innovation Act (FDASIA), 126 Stat. 1061, amended the Federal Food, Drug, and 
+Cosmetic Act (FD&C Act) to add section 519(f) (21 U.S.C. 360i(f)), which directs FDA 
+to issue regulations establishing a unique device identification system for medical 
+devices along with implementation timeframes for certain medical devices. The UDI 
+Rule, establishing the unique device identification system, was published on September 
+24, 2013 (78 FR 58786). It requires that the label and each device package of a medical 
+device distributed in the United States bear a UDI, unless an exception or alternative 
+applies.  The UDI regulations also require specified information to be submitted to 
+FDA’s Global Unique Device Identification Database (GUDID).  Most of the 
+information submitted to GUDID is available to the public through AccessGUDID at 
+https://accessgudid.nlm.nih.gov/. 
+The UDI system seeks to improve the identification of medical devices by making it 
+possible to rapidly and definitively identify a device and certain key attributes that 
+affect its safe and effective use.  This will facilitate more accurate reporting of adverse 
+events by making it easier to pinpoint the device at issue in the submitted report.  FDA, 
+health care providers, and industry may then more rapidly and precisely extract useful 
+information from adverse event reports and thereby gain a better understanding of the 
+underlying problems and improve the ability to take appropriate and better-focused 
+corrective action. 
+For devices required to bear a UDI on their device label, the UDI regulation at 21 CFR 
+801.45 requires a UDI direct marking on a device if the device is intended to be used 
+more than once and intended to be reprocessed before each use.  As explained in the 
+preamble of the UDI Rule, direct marking requirements apply to devices that are 
+intended to be used for months or years, sometimes many years.  Because such devices 
+are intended to be reprocessed and reused, they will inevitably be separated from their
+
+---
+
+<!-- Page 6 -->
+Contains Nonbinding Recommendations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+original labels and device packages.  Direct marking helps to ensure the adequate 
+identification of such devices through their distribution and use.  However, the UDI Rule 
+does not define “intended to be used more than once” or “intended to be reprocessed”.  
+FDA’s interpretation of these terms as they are used in 21 CFR 801.45 is included in this 
+document. 
+III. Questions and Answers 
+A. 
+Direct Marking 
+1. 
+What is direct marking? 
+Direct marking, for purposes of UDI requirements, is affixing a UDI permanently on the 
+device itself. 
+2. 
+Which devices are required to be directly marked? 
+Under 21 CFR 801.45(a), if a UDI is required on a device label, that device is also required 
+to have a UDI permanently affixed to the device itself if the device is intended to be used 
+more than once and intended to be reprocessed before each use.  This requirement applies to 
+all device classes, except class I devices that bear a Universal Product Code (UPC) on their 
+label and device packages, as provided in 21 CFR 801.40(d).  As explained in the preamble 
+of the UDI Rule, direct marking requirements apply to devices that are intended to be used 
+for months or years, sometimes many years. Because such devices are intended to be 
+reprocessed and reused, they will inevitably be separated from their original labels and 
+device packages. Direct marking helps to ensure the adequate identification of such 
+devices. 
+ 
+3. 
+What are the compliance dates for the direct marking 
+requirements? 
+The compliance date, i.e., the date by which labelers must comply with the UDI direct 
+marking requirements, unless an exception or alternative applies, is based on the device 
+category as shown below.  The compliance dates for UDI direct marking requirements
+
+---
+
+<!-- Page 7 -->
+Contains Nonbinding Recommendations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+are listed below and also on the UDI webpage1:   
+ 
+Direct Mark 
+Compliance Date 
+Category of Device Intended to be Reused and Reprocessed 
+9/24/2015 
+Life-sustaining and life-supporting devices, regardless of device 
+class 
+9/24/2016 
+Class III devices and devices licensed under the Public Health 
+Service Act 
+9/24/2018 
+Class II devices 
+9/24/2020 
+Class I and unclassified devices 
+ 
+4. 
+What about a device that has been manufactured and labeled prior 
+to its UDI compliance date? 
+Under 21 CFR 801.30(a)(1), a finished device manufactured and labeled prior to its 
+compliance date for 21 CFR 801.20 is excepted from UDI labeling requirements until three 
+years after the UDI compliance date for 21 CFR 801.20 for that particular device.  Because 
+direct marking requirements and GUDID data submission requirements are tied to the UDI 
+labeling requirement at 21 CFR 801.20, the exception at 21 CFR 801.30(a)(1) applies to these 
+requirements as well.   
+For devices intended to be used more than once and intended to be reprocessed before each 
+use, the expiration of the three-year exception under 21 CFR 803.30(a)(1) is still based on the 
+compliance date for UDI labeling requirements under 21 CFR 801.20, not the direct marking 
+compliance date.  For example, the compliance date for 21 CFR 801.20 for class II devices 
+that are not implantable, life-supporting, or life-sustaining was September 24, 2016.  Thus, an 
+individual class II device manufactured and labeled on May 1, 2016, that is not implantable, life-
+supporting, or life-sustaining and that requires direct marking, would not be required to be in 
+compliance with UDI labeling, GUDID data submission, or direct marking requirements 
+until September 24, 2019.   
+FDA recognizes that some devices are consigned or loaned to hospitals or other healthcare 
+facilities prior to the applicable UDI compliance date for 21 CFR 801.20 or are with a sales 
+                                                          
+ 
+1 See 
+https://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/UniqueDeviceIdentification/Complianced
+atesforUDIRequirements/default.htm.
+
+---
+
+<!-- Page 8 -->
+Contains Nonbinding Recommendations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5 
+representative in the field pending sale prior to that UDI compliance date.  To the extent 
+those devices are required to comply with UDI regulatory requirements for labeling under 21 
+CFR 801.20, direct marking under 21 CFR 801.45, or date format requirements under 21 
+CFR 801.18, FDA does not intend to enforce compliance with such requirements for those 
+devices. 
+5. 
+Does FDA specify a method to directly mark a device? 
+No.  We expect the direct mark UDI to comply with the requirements of 21 CFR 801.45(b) 
+and (c) and last throughout the expected service life of the device, taking into account 
+expected usage and reprocessing according to the instructions of the manufacturer.  Possible 
+methods to directly mark a device with a UDI include etching, attaching a permanent plaque 
+to durable equipment, or affixing a permanent tag such as a radio frequency identification 
+(RFID) tag to the device.  In some cases, particularly with certain durable equipment, a 
+labeler will attach to the device hardware exterior a sticker or some other item that displays 
+information and is designed to last the expected service life of the device.  If this item bears 
+the UDI in accordance with 21 CFR 801.45(b) and (c), you have fulfilled the requirements of 
+21 CFR 801.45.   
+We do not specify any particular approach to directly mark devices, because it would be 
+difficult to account for the wide variety of existing devices, use conditions, and reprocessing 
+methods for these devices. Moreover, technological advancements may lead to change in 
+device usage, methods of device marking, and reprocessing procedures.  The labeler should 
+determine the appropriate method to provide such a marking on the device itself.   
+6. 
+For currently legally marketed devices, does affixing a permanent 
+marking on the device to comply with UDI requirements require a 
+premarket approval (PMA) supplement, a biologics license application 
+(BLA) supplement, or a new premarket notification (510(k)) submission? 
+The FDA expects labelers to conduct analysis and/or testing to determine the effect of direct 
+marking on the safety and effectiveness of the device and to document the basis for such 
+determination in the design history file (DHF). If any type of direct marking would 
+interfere with the safety or effectiveness of the device, the device would qualify for the 
+exception under 21 CFR 801.45(d)(1), and FDA encourages labelers to make use of this 
+exception if it applies.  
+For devices granted marketing authorization through the De Novo classification process or 
+cleared in a 510(k) submission, if any type of direct marking would interfere with the safety 
+or effectiveness of the device but the labeler still wishes to directly mark the device, thereby 
+not making use of the exception under 21 CFR 801.45(d)(1), clearance of a new 510(k)
+
+---
+
+<!-- Page 9 -->
+Contains Nonbinding Recommendations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6 
+submission would likely be required, since FDA anticipates that a direct marking that would 
+interfere with the safety or effectiveness of a device for purposes of 21 CFR 801.45(d)(1) 
+also could significantly affect the safety or effectiveness of the device under 21 CFR 
+807.81(a)(3)(i). When in doubt, FDA encourages labelers to contact the CDRH or CBER 
+review division relevant to the device to discuss the specific situation. 
+For devices approved in a PMA or BLA, if adding a UDI direct marking would affect the 
+safety or effectiveness of the device, this will typically require a PMA or BLA 
+supplement under 21 CFR 814.39 or 601.12. If, however, adding a UDI direct marking 
+to a device approved in a PMA or BLA would not be expected to affect safety and 
+effectiveness, no supplement would be required, but the basis for your determination 
+should be documented, and this change should be reported in an annual report.  For 
+PMA devices, please review the guidance, Modifications to Devices Subject to 
+Premarket Approval (PMA) - The PMA Supplement Decision at 
+http://www.fda.gov/medicaldevices/deviceregulationandguidance/guidancedocuments/u
+cm089274.htm.  For BLA devices, please review the guidance, Changes to an Approved 
+Application: Biological Products at 
+http://www.fda.gov/downloads/biologicsbloodvaccines/guidancecomplianceregulatoryin
+formation/guidances/blood/ucm170166.pdf.  
+ 
+ 
+7. 
+If a PMA supplement, BLA supplement, or new 510(k) is required 
+as a result of UDI direct marking requirements, are user fees also 
+required? 
+Yes.  You must pay the applicable user fee, if any, if you submit a PMA supplement, a BLA 
+supplement, or a new 510(k) submission.  There are no user fee waivers for submitting a 
+PMA supplement, a BLA supplement, or a new 510(k) submission as a result of UDI direct 
+marking requirements.  However, FDA encourages you to bundle your required submissions 
+rather than submit individually, which will reduce both administrative and user fee burdens. 
+See FDA guidance entitled “Bundling Multiple Devices or Multiple Indications in a Single 
+Submission” issued on June 22, 2007 (Bundling Guidance – 
+(http://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/u
+cm089731.htm). 
+ 
+8. 
+What are the GUDID data submission requirements for devices 
+that must be directly marked with a UDI?
+
+---
+
+<!-- Page 10 -->
+Contains Nonbinding Recommendations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7 
+The UDI regulation at 21 CFR 830.310 sets forth the information submission requirements 
+for all devices required to bear a UDI on their label.  If a device is required to be directly 
+marked, additional data submission to GUDID may be required.  Under 21 CFR 
+830.310(b)(1), the device identifier (DI) 2  portion of the UDI assigned to the version or 
+model of the device must be submitted to GUDID.  The DI that must be submitted under 
+21 CFR 830.310(b)(1) is the DI included in the lowest level of device packaging required 
+to include the full UDI. We refer to this as the “Primary DI” for purposes of this guidance.  
+In addition, if the Primary DI and the DI of the direct mark UDI are different, you need to 
+indicate this in GUDID per 21 CFR 830.310(b)(3).3  However, if the two DIs are identical, 
+no additional information needs to be submitted to GUDID.     
+If you are applying one of the exceptions listed in 21 CFR 801.45(d), you should indicate 
+in GUDID that the device is subject to direct marking but excepted.  We outline the 
+general exceptions to the UDI direct marking requirements in section III.D of this 
+guidance. 
+ 
+ 
+9.            What are the recordkeeping requirements for devices that must 
+be directly marked with a UDI? 
+The recordkeeping requirements under 21 CFR 830.360 apply to the UDI on the device 
+label, the UDIs on the packages, and the direct mark UDI.  Labelers are required to retain, 
+and make available to FDA upon request, records showing all UDIs used to identify devices 
+that must bear a UDI on their label.  See 21 CFR 830.360(a).  FDA expects that the records 
+will indicate whether a device is directly marked and, if so, whether the direct mark DI is 
+the same as or different from the primary DI.  The records should be updated when changes 
+to the production identifiers (PIs) are made, in order to reflect all PIs currently associated 
+with each DI.  Further, the Device Master Record (DMR) must include, or refer to the 
+location of, the DI for the particular version or model of the device, as well as the 
+associated types of PIs (i.e., lot or batch, serial number, expiration date, manufacturing 
+date, distinct identification code) included in the UDIs for that particular version or 
+                                                          
+ 
+2 A unique device identifier is composed of a device identifier and a production identifier, as defined in 21 CFR 
+801.3. 
+3 For additional information, see Global Unique Device Identification Database (GUDID): Guidance for 
+Industry and FDA Staff 
+(https://www.fda.gov/downloads/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/UCM36
+9248.pdf)
+
+---
+
+<!-- Page 11 -->
+Contains Nonbinding Recommendations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8 
+model of the device.  See 21 CFR 820.181.  The DMR does not need to contain the 
+actual PIs.  By contrast, the Device History Record (DHR) must include, or refer to the 
+location of, the full UDI (DI and PIs) used to identify the device.  See 21 CFR 820.184. 
+If a labeler’s device falls within one of the exceptions from direct marking under 21 CFR 
+801.45(d) and the labeler decides to make use of such exception, the labeler is required to 
+keep records supporting this decision in the DHF (see 21 CFR 801.45(e)).  If the labeler 
+determines any type of direct marking would interfere with the safety or effectiveness of the 
+device (21 CFR 801.45(d)(1)), FDA expects the rationale that supports the decision to be 
+scientifically justified by analysis and/or testing and to be documented in the DHF. If the 
+device cannot be directly marked because it is not technologically feasible (21 CFR 
+801.45(d)(2)), FDA expects the labeler to document the rationale for the technological 
+infeasibility in the DHF.  Because it is expected that direct marking technology will 
+advance over time, exceptions under 21 CFR 801.45(d)(1) and 21 CFR 801.45(d)(2) may 
+lose their applicability over time and thus labelers should periodically reassess their use of 
+those exceptions. 
+10. 
+May a labeler voluntarily comply with UDI direct marking 
+requirements? 
+Yes. FDA encourages affixing a UDI permanently on devices even when not required. If a 
+labeler of a device that is not required to bear a UDI as a permanent marking under 21 CFR 
+801.45 directly marks such a device voluntarily, or marks it before the compliance date of 
+UDI direct marking requirements, GUDID data submission requirements applicable to UDI 
+direct marking would also be voluntary but encouraged. (Note that such GUDID data 
+submission requirements would no longer be voluntary as of the compliance date for UDI 
+direct marking requirements).  Please see sections III.A.6. and 7. above regarding potential 
+impact on safety and effectiveness and the potential requirement for an additional premarket 
+submission in conjunction with applying a UDI direct marking to a currently marketed 
+device. 
+ 
+B. 
+UDI Format 
+ 
+1. 
+Is the full UDI required to be directly marked on the device? 
+Yes. In general, UDI direct marking must include both the DI and PI portions of the UDI 
+See 21 CFR 801.40(b) and 801.45.  Note that PIs are not required in UDIs of class I devices 
+per 21 CFR 801.30(d).  Also note that class I devices that bear a UPC on their label and
+
+---
+
+<!-- Page 12 -->
+Contains Nonbinding Recommendations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9 
+device packages are not required to comply with UDI direct marking requirements. See 21 
+CFR 801.40(d). 
+2. 
+Does the UDI directly marked on the device need to be identical to 
+the UDI on the device label? 
+No.  Under 21 CFR 801.45(b), the labeler may choose to directly mark the device with a 
+UDI identical to the UDI that appears on the label of the device, or with a different UDI to 
+distinguish the unpackaged device from any device package containing the device.  As 
+explained in the preamble to the UDI Rule, the direct mark must provide the full UDI, 
+including all the production identifiers that appear on the device label (78 FR 58804).  
+However, in situations where a production identifier (e.g., the lot number that appears on 
+the device label) was unknown at the time a device was directly marked during the 
+manufacturing process, FDA does not intend to enforce the requirement that the UDI 
+directly marked on the device include that production identifier. 
+3. 
+For a UDI direct marking, are both the easily readable plain-text 
+and AIDC forms required? 
+No.  Unlike the UDI on labels and packages, under 21 CFR 801.45(c), when a device must 
+bear a UDI direct marking, the UDI may be provided through either or both of the following: 
+(1) easily readable plain-text or (2) automatic identification and data capture (AIDC) 
+technology, or any alternative technology that will provide the UDI of the device on demand. 
+This permits flexibility given the wide disparity in the physical characteristics of medical 
+devices.  In deciding whether to use the easily readable plain-text or the AIDC form or both 
+forms of the UDI for direct marking, labelers should consider factors such as technological 
+feasibility, efficiency for the end user and risk of human error.  Both the easily readable 
+plain-text and the AIDC forms of the directly marked UDI should adhere to the UDI format 
+specified by the FDA-Accredited Issuing Agency. See 21 CFR 830.20 and “UDI Formats by 
+FDA-Accredited Issuing Agency (January 27, 2017)” (UDI Formats -
+http://www.fda.gov/downloads/MedicalDevices/DeviceRegulationandGuidance/UniqueDe
+viceIdentification/UDIIssuingAgencies/UCM489869.pdf.) 
+4. 
+If a labeler makes a change to a device that requires assigning a 
+new UDI, must the labeler add to or replace the existing UDI direct 
+mark? 
+No.  Under 21 CFR 801.45(d)(4), a device that has previously been directly marked in 
+compliance with 21 CFR 801.45(a) does not require a new or additional UDI direct mark.  
+However, regardless of whether the device is directly marked with a UDI, whenever there
+
+---
+
+<!-- Page 13 -->
+Contains Nonbinding Recommendations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10
+is a change to the device that results in a new version or model of the device, a new DI 
+must be assigned to the device.  See 21 CFR 830.50(a).  That changed device must bear a 
+UDI containing that new DI on its label.  See 21 CFR 801.20.   
+As noted above, for example, a labeler may attach to a device’s exterior hardware a sticker, 
+plaque, or other item that displays information (including the UDI) and fulfills UDI direct 
+marking requirements under 801.45.  If the labeler subsequently makes a change to that 
+device in the field and the change results in a new version or model, 21 CFR 830.50(a) 
+requires a new DI to be assigned to the modified device.  Under 21 CFR 801.20, the label of 
+the new version or model of the device  must bear a UDI incorporating that new DI, unless 
+an exception or alternative applies.  One way to fulfill these requirements under 21 CFR 
+801.20 and 21 CFR 830.50 would be to replace the sticker, plaque, or other item on the 
+device hardware with a similar item that bears the new UDI; the labeler could also request 
+an exception or alternative. 
+ 
+C. 
+Reprocessing 
+1. 
+How is “intended to be used more than once” defined for purposes 
+of UDI direct marking? 
+For the purposes of the UDI direct marking requirements, under 21 CFR 801.45, "intended to 
+be used more than once" means intended for repeated uses on or by different patients, e.g., 
+where a device is cleared or approved and labeled for repeated uses on or by different 
+patients.  If the device is intended to be used more than once on or by the same patient, and 
+not on or by multiple patients, then the device does not need to be directly marked with a 
+UDI. 
+2. 
+What does FDA consider “intended to be reprocessed” for the 
+purposes of UDI direct marking? 
+ 
+For purposes of UDI direct marking requirements, we consider a device intended to be 
+reprocessed if it is intended to undergo high-level disinfection and/or sterilization before 
+each use or between uses.  This means that devices that are only intended to be cleaned 
+and/or to undergo lower levels of disinfection without subsequent high-level disinfection4 or 
+                                                          
+ 
+4 For purposes of this guidance document, high-level disinfection is a lethal process utilizing a sterilant under 
+less than sterilizing conditions.  The process kills all forms of microbial life except for large numbers of 
+bacterial spores.
+
+---
+
+<!-- Page 14 -->
+Contains Nonbinding Recommendations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+11
+sterilization before each use or between uses are not required to be directly marked with a 
+UDI under 21 CFR 801.45.   
+ 
+D. 
+Exceptions to Direct Marking 
+ 
+1. 
+What exceptions are there to the UDI direct marking 
+requirements? 
+There are four UDI direct marking exceptions outlined in 21 CFR 801.45(d).  The 
+requirement of 21 CFR 801.45(a) does not apply to any device that meets any of the 
+following criteria: 
+1.   Any type of direct marking would interfere with the safety or effectiveness of the 
+device; 
+2.   The device cannot be directly marked because it is not technologically feasible; 
+3.   The device is a single-use device and is subjected to additional processing 
+and manufacturing for the purpose of an additional single use; or 
+4.   The device has been previously marked under 21 CFR 801.45(a). 
+A “single-use device” means a device that is intended for one use, or on a single patient 
+during a single procedure. Section 201(ll) of the FD&C Act (21 U.S.C. 321(ll)). FDA 
+interprets 21 CFR 801.45(d)(3) to mean that the UDI direct marking requirements do not 
+apply to a device that the original labeler (as defined in 21 CFR 801.3) intends for one use, or 
+use on a single patient during a single procedure, even if, subsequent to its initial use, the 
+device is subjected to additional processing and manufacturing for the purpose of an 
+additional single use on another patient. However, such reuse of a single-use device would 
+generally require additional clearance or approval unless 510(k)-exempt,5 as well as 
+compliance with general UDI labeling and GUDID data submission requirements by the 
+entity performing the additional processing and manufacturing for the purpose of an 
+additional single use.  In contrast, for purposes of UDI direct marking requirements under 21 
+CFR 801.45, a device intended for repeated use on or by different patients is “intended to be 
+                                                          
+ 
+5 See section 510(o) of the FD&C Act (21 U.S.C. 360(o)) and “Medical Device User Fee and Modernization 
+Act of 2002, Validation Data in Premarket Notification Submissions (510(k)s) for Reprocessed Single-Use 
+Medical Devices” 
+(http://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/ucm071434.htm) 
+regarding 510(k) submissions for reprocessed single-use devices.
+
+---
+
+<!-- Page 15 -->
+Contains Nonbinding Recommendations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+12
+used more than once” and is thus subject to UDI direct marking requirements (see section 
+III.C.1). 
+Please note that a reprocessed and/or relabeled single-use device must comply with the 
+general UDI labeling and GUDID data submission requirements. See definition of “labeler” 
+under 21 CFR 801.3 and requirements for when a device is relabeled under 21 CFR 830.60. 
+2. 
+Does a non-UDI direct marking (such as the name of the company 
+or part or catalog number) on a device itself meet the UDI direct marking 
+requirements? 
+No.  The name of the company or part/catalog number alone does not meet the UDI direct 
+marking requirements under 21 CFR 801.45.  If your device design has been cleared or 
+approved with a non-UDI direct marking, a justification for an exception under 21 CFR 
+801.45(d)(1) or under 21 CFR 801.45(d)(2) should explain how the UDI direct marking and 
+the non-UDI direct marking are relevantly different.  For example, a justification for an 
+exception under 21 CFR 801.45(d)(1) that UDI direct marking would interfere with the 
+safety or effectiveness of the device would explain why the UDI direct mark is different 
+than the non-UDI direct marks with respect to its effect on the safety and effectiveness 
+of the device. In addition, while the presence of non-UDI direct marking will typically not 
+be sufficient justification for an exception under 21 CFR 801.45(d)(2) on the grounds of 
+limited space, non-UDI direct marking that takes up all available space and is required for 
+patient safety could be a justification for an exception under 21 CFR 801.45(d)(1).  For new 
+devices, UDI direct marking requirements should be considered and/or incorporated at 
+design inception.  
+3. 
+What is the process for making use of a 21 CFR 801.45(d) 
+exception from a direct marking requirement? 
+As discussed in III.A.9., under 21 CFR 801.45(e), a labeler who decides that an exception 
+under 21 CFR 801.45(d) applies to its device must document the basis of that decision in the 
+DHF required by 21 CFR 820.30(j). As explained in III.A.8., in your GUDID data 
+submission, you should indicate that the device is subject to direct marking but excepted.  
+4. 
+What is the process for requesting a specific alternative to direct 
+marking?  How do I request an exception from or alternative to the direct 
+marking requirements? 
+The UDI regulation at 21 CFR 801.55 outlines the process for requesting a specific 
+alternative to any UDI requirement, including direct marking, by submitting a request to
+
+---
+
+<!-- Page 16 -->
+Contains Nonbinding Recommendations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+13
+FDA.  Under 21 CFR 801.55(c), FDA may grant an alternative to UDI direct marking or 
+any other UDI labeling requirement, if we determine that: 
+(a) An alternative would provide for more accurate, precise, or rapid device 
+identification; or 
+(b) An alternative would better ensure the safety or effectiveness of the device. 
+Please note that there is no reason to submit a 21 CFR 801.55 request for exception from 
+UDI direct marking requirements if any exception under 21 CFR 801.45(d) is applicable. 
+Requests for the current instructions on requesting an alternative may be submitted using the 
+online form by clicking the FDA UDI Help Desk link at  www.fda.gov/udi.

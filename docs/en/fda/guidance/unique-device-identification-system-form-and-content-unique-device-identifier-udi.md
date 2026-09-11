@@ -1,0 +1,451 @@
+---
+title: "Unique Device Identification System: Form and Content of the Unique Device Identifier (UDI): Guidance for Industry and Food and Drug Administration Staff"
+description: "FDA CDRH Final Guidance Document"
+published: 2021-07-07
+---
+
+# Unique Device Identification System: Form and Content of the Unique Device Identifier (UDI): Guidance for Industry and Food and Drug Administration Staff
+
+**Published**: 2021-07-07
+
+**Status**: Final
+**Type**: Guidance Document
+**Category**: Labeling / UDI
+**Topics**: Labeling, UDI
+**Docket**: FDA-2016-D-1853
+
+::: tip Official Source
+[https://www.fda.gov/regulatory-information/search-fda-guidance-documents/unique-device-identification-system-form-and-content-unique-device-identifier-udi](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/unique-device-identification-system-form-and-content-unique-device-identifier-udi)
+PDF: [https://www.fda.gov/media/99084/download](https://www.fda.gov/media/99084/download)
+:::
+
+<!-- fulltext-start -->
+
+---
+
+## Official Full Text
+
+<!-- Page 1 -->
+Contains Nonbinding Recommendations
+Unique Device Identification System: 
+Form and Content of the Unique 
+Device Identifier (UDI) 
+Guidance for Industry and 
+Food and Drug Administration Staff 
+Document issued on July 7, 2021. 
+The draft of this document was issued on July 25, 2016.
+For questions about this document regarding CDRH-regulated devices, UDI Regulatory Policy 
+Support, 301-796-5995, email: GUDIDSupport@fda.hhs.gov. For questions about this document 
+regarding CBER-regulated devices, contact the Office of Communication, Outreach, and 
+Development (OCOD) at 1-800-835-4709 or 240-402-8010, or by email at ocod@fda.hhs.gov.
+    
+U.S. Department of Health and Human Services
+Food and Drug Administration
+Center for Devices and Radiological Health
+Center for Biologics Evaluation and Research
+
+---
+
+<!-- Page 2 -->
+Contains Nonbinding Recommendations
+Preface
+Public Comment
+You may submit electronic comments and suggestions at any time for Agency consideration to 
+https://www.regulations.gov. Submit written comments to the Dockets Management Staff, Food 
+and Drug Administration, 5630 Fishers Lane, Room 1061, (HFA-305), Rockville, MD 20852.  
+Identify all comments with the docket number FDA-2016-D-1853. Comments may not be acted 
+upon by the Agency until the document is next revised or updated.
+Additional Copies
+CDRH
+Additional copies are available from the Internet. You may also send an email request to
+CDRH-Guidance@fda.hhs.gov to receive a copy of the guidance. Please include the document 
+number 1500035 and complete title of the guidance in the request.
+CBER
+Additional copies are available from the Center for Biologics Evaluation and Research (CBER), 
+Office of Communication, Outreach, and Development (OCOD), 10903 New Hampshire Ave., 
+WO71, Room 3128, Silver Spring, MD 20903, or by calling 1-800-835-4709 or 240-402-8010, 
+by email, ocod@fda.hhs.gov, or from the Internet at 
+https://www.fda.gov/vaccines-blood-biologics/guidance-compliance-regulatory-information-
+biologics/biologics-guidances.
+
+---
+
+<!-- Page 3 -->
+Contains Nonbinding Recommendations
+Table of Contents
+I. 
+Introduction ............................................................................................................................. 1
+II. 
+Background ............................................................................................................................. 2
+III. 
+Scope .................................................................................................................................... 2
+IV. 
+Unique Device Identifier (UDI) ........................................................................................... 3
+A. 
+Forms of UDI ................................................................................................................... 4
+1. 
+Easily readable plain-text ............................................................................................. 4
+2. 
+AIDC ............................................................................................................................ 5
+B. 
+Content of UDI ................................................................................................................. 6
+C. 
+Data delimiters ................................................................................................................. 7
+D. 
+Order of the data represented in the easily readable plain-text form of UDI carrier ....... 8
+E. 
+Stand-Alone Software ...................................................................................................... 8
+
+---
+
+<!-- Page 4 -->
+Contains Nonbinding Recommendations
+1
+Unique Device Identification System: 
+Form and Content of the Unique 
+Device Identifier (UDI)
+Guidance for Industry and
+Food and Drug Administration Staff
+This guidance represents the current thinking of the Food and Drug Administration (FDA 
+or Agency) on this topic. It does not establish any rights for any person and is not binding 
+on FDA or the public. You can use an alternative approach if it satisfies the requirements 
+of the applicable statutes and regulations. To discuss an alternative approach, contact the 
+FDA staff or Office responsible for this guidance as listed on the title page. 
+I. 
+Introduction
+This document is intended to assist labelers1 and FDA-accredited issuing agencies2 in 
+complying with unique device identifier (UDI) labeling requirements, including by clarifying 
+FDA’s interpretation of certain requirements under 21 CFR 801.40. Specifically, this 
+guidance describes the requirements for and FDA’s recommendations regarding the form and 
+content of the UDI to help ensure that the UDIs developed under systems for the issuance of 
+UDIs meet the objectives of the Unique Device Identification System Final Rule, 78 FR 
+58786 (September 24, 2013) (UDI Rule).3
+Throughout this guidance document, the terms “we,” “us,” and “our” refer to FDA staff from 
+Center for Devices and Radiological Health (CDRH) and the Center for Biologics Evaluation 
+and Research (CBER).
+1 “Labeler” is defined at 21 CFR 801.3 as (1) any person who causes a label to be applied to a device with the 
+intent that the device will be commercially distributed without any intended subsequent replacement or 
+modification of the label; and (2) any person who causes the label of a device to be replaced or modified with 
+the intent that the device will be commercially distributed without any subsequent replacement or modification 
+of the label, except that the addition of the name of, and contact information for, a person who distributes the 
+device, without making any other changes to the label, is not a modification for the purposes of determining 
+whether a person is a labeler. 
+2 “Issuing agency” is defined at 21 CFR 830.3 as an organization accredited by FDA to operate a system for the 
+issuance of unique device identifiers.
+3 Available at: https://www.federalregister.gov/articles/2013/09/24/2013-23059/unique-device-identification-
+system.
+
+---
+
+<!-- Page 5 -->
+Contains Nonbinding Recommendations
+2
+The contents of this document do not have the force and effect of law and are not meant to 
+bind the public in any way, unless specifically incorporated into a contract. This document is 
+intended only to provide clarity to the public regarding existing requirements under the law. 
+FDA guidance documents, including this guidance, should be viewed only as 
+recommendations, unless specific regulatory or statutory requirements are cited. The use of 
+the word should in Agency guidance means that something is suggested or recommended, 
+but not required.
+II. Background
+The UDI Rule requires the label and device package4 of every medical device to bear a 
+UDI, unless an exception or alternative applies (21 CFR 801.20). Additionally, some 
+devices are required to bear a permanent marking providing the UDI on the device itself 
+if the device is intended to be used more than once and intended to be reprocessed before 
+each use (21 CFR 801.45). The UDI Rule also includes special labeling requirements for 
+stand-alone software regulated as a device (21 CFR 801.50).  
+The UDI Rule is intended to create a standardized identification system for medical 
+devices that adequately identifies devices through distribution and use. As stated in the 
+preamble to the UDI Rule, this system makes it possible to rapidly and definitively 
+identify a device and some key attributes that affect its safe and effective use (78 FR 
+58786). 
+Under the UDI Rule, each labeler must use one or more systems operated by an FDA-
+accredited issuing agency to assign UDIs that appear on device labels, on device 
+packages, and, as applicable, on devices themselves as direct markings (21 CFR 801.20, 
+801.45, and 830.20). In order for there to be an effective identification system, it is 
+essential that the FDA-accredited issuing agencies develop and operate systems for the 
+assignment of UDIs that allow labelers using these systems to be in compliance with UDI 
+labeling requirements.
+The UDI must be presented in two forms on the device label and device packages: (1) 
+easily readable plain-text; and (2) automatic identification and data capture (AIDC) 
+technology (21 CFR 801.40(a)). When a device must bear a UDI as a direct marking, the 
+UDI may be provided through either or both easily readable plain-text and AIDC 
+technology forms, or through any alternative technology that will provide the UDI of the 
+device on demand (21 CFR 801.45(c)).  
+III. Scope
+This guidance describes the two forms of a UDI, clarifies the content of the UDI, and 
+addresses use of data delimiters that identify specific data elements within the UDI.  The 
+guidance also addresses the recommended order of the data in the easily readable plain-
+text form of a UDI carrier.  
+4 “Label” and “device package” are defined at 21 CFR 801.3.
+
+---
+
+<!-- Page 6 -->
+Contains Nonbinding Recommendations
+3
+This guidance does not apply to universal product codes (UPCs).5 For class I devices, a 
+UPC may serve as the UDI to meet the requirements of 21 CFR 801.20 (21 CFR 
+801.40(d)). However, a class I device labeler may choose to use a UDI rather than or in 
+addition to a UPC (see 21 CFR 801.35). For more information on UPCs, labelers should 
+contact an issuer of UPCs.6 Labelers should have proper controls over UPC assignment 
+and use to advance the goals of the UDI system.
+IV. Unique Device Identifier (UDI)
+“Unique device identifier” is defined as “an identifier that adequately identifies a device 
+through its distribution and use by meeting the requirements of [21 CFR 830.20]” (21 CFR 
+801.3). A UDI is composed of a device identifier (DI) and a production identifier (PI).  
+“Device identifier” is defined as “a mandatory, fixed portion of a UDI that identifies the 
+specific version or model of a device and the labeler of that device” (21 CFR 801.3). 
+“Production identifier” is defined at 21 CFR 801.3 as “a conditional, variable portion of a 
+UDI that identifies one or more of the following when included on the label of the device:
+(i) The lot or batch within which a device was manufactured;
+(ii) The serial number of a specific device;
+(iii) The expiration date of a specific device;
+(iv) The date a specific device was manufactured;
+(v) For an HCT/P regulated as a device, the distinct identification code required by 21 
+CFR 1271.290(c) of this chapter.”
+Under 21 CFR 830.20, a UDI must be issued under a system operated by an FDA-accredited 
+issuing agency7 and conform to the following international standards incorporated by 
+reference in the UDI Rule in 21 CFR 830.10:
+·
+ISO/IEC 15459-2: Information technology - Unique identifiers--Part 2: Registration 
+procedures;
+·
+ISO/IEC 15459-4: Information technology - Unique identifiers--Part 4: Individual 
+items; and
+·
+ISO/IEC 15459-6: Information technology - Unique identifiers--Part 6: Unique 
+identifier for product groupings.
+Additionally, the UDI must only use characters and numbers from the invariant character set 
+of ISO/IEC 646: Information technology - ISO 7-bit coded character set for information 
+interchange.   
+5 A UPC “means the product identifier used to identify an item sold at retail in the United States.” 21 CFR 
+801.3.
+6 Some FDA-accredited issuing agencies issue UPCs. Contact information for FDA-accredited issuing agencies 
+is available at: https://www.fda.gov/medical-devices/unique-device-identification-system-udi-system/contact-
+fda-accredited-issuing-agency. 
+7 Available at: https://www.fda.gov/medicaldevices/deviceregulationandguidance/uniquedeviceidentification/ 
+udiissuingagencies/default.htm. Should FDA ever act as an issuing agency, a labeler would also be permitted to 
+use UDIs issued under the system operated by FDA. 21 CFR 830.20, 830.200, and 830.210.
+
+---
+
+<!-- Page 7 -->
+Contains Nonbinding Recommendations
+4
+It is critical that each FDA-accredited issuing agency develop and operate a system for the 
+assignment of UDIs that is consistent with UDI labeling requirements under 21 CFR Part 
+801, Subpart B, allowing labelers to confidently use the FDA-accredited issuing agency’s 
+system to assign UDIs that meet those requirements.
+A. 
+Forms of UDI
+The UDI Rule specifies that the UDI on the device label and device packages must be 
+presented in both easily readable plain-text and AIDC technology forms (21 CFR 801.40(a)). 
+In addition, certain devices are required to be directly marked under 21 CFR 801.45. For 
+those devices, the UDI directly marked on the device itself may be provided through either or 
+both easily readable plain-text or AIDC technology, or any alternative technology that will 
+provide the UDI of the device on demand (21 CFR 801.45(c)).
+UDIs, particularly when provided through AIDC technology, are intended to allow rapid and 
+accurate data acquisition, recording, and retrieval. The easily readable plain-text form allows 
+healthcare professionals, patients, FDA, and other users of the UDI system to read and enter 
+the UDI into data systems, such as patient records or reports to FDA, without technological 
+assistance. Thus, the easily readable plain-text form may be used as an additional mechanism 
+to capture the UDI if the AIDC form cannot be used.  
+Figure 1 shows an example of a UDI in both easily readable plain-text and AIDC forms.  
+Figure 1. UDI in Easily Readable Plain-Text and AIDC Forms
+1. 
+Easily readable plain-text
+For purposes of this guidance, “easily readable plain-text” means human-legible 
+interpretation of the UDI data characters. Issuing agencies or other entities may refer to the 
+easily readable plain-text form of the UDI as the human readable interpretation (HRI).8 The 
+easily readable plain-text form of the UDI must include the DI and, if applicable, PI. It is also 
+important for the easily-readable plain-text form of the UDI to include any data delimiter(s) 
+8 See, e.g., UDI N48: Unique Device Identification system (UDI system) Application Guide (March 21, 2019)  
+Available at: http://www.imdrf.org/docs/imdrf/final/technical/imdrf-tech-190321-udi-sag.pdf.
+
+---
+
+<!-- Page 8 -->
+Contains Nonbinding Recommendations
+5
+for the DI and PI. If the data delimiters are not included, an individual may not be able to use 
+the easily readable plain-text form of the UDI to identify the device. The easily readable 
+plain-text form of the UDI may be presented as a single line or multiple lines of text, and 
+should be displayed below or near the AIDC technology form of the UDI. 
+FDA does not prescribe the format for any dates in the PI portion of the UDI and does not 
+require the easily readable plain-text form of the UDI to comply with 21 CFR 801.18 when it 
+includes dates.9 Labelers should refer to the guidelines of their FDA-accredited issuing 
+agency or contact their FDA-accredited issuing agency with any questions regarding the 
+format of the dates within the UDI.
+2. 
+AIDC
+AIDC is defined at 21 CFR 801.3 as any technology that conveys the UDI or the DI portion 
+of a UDI of a device in a form that can be entered into an electronic patient record or other 
+computer system via an automated process. Therefore, while the UDI Rule does not require 
+the use of a specific form of AIDC or a specific AIDC technology to convey the UDI, the 
+AIDC form of the UDI must be in a format that can be read by a bar code scanner or other 
+AIDC technology (21 CFR 801.3 and 801.40(a)). The labeler should ensure that the AIDC 
+form of the UDI can be reliably read at the points during distribution and use where device 
+identification information is important to capture. Labelers should consult the guidelines of 
+their FDA-accredited issuing agency to determine which forms of AIDC are supported by the 
+issuing agency’s UDI system.  
+When possible, FDA recommends the AIDC form of the UDI be displayed in one segment; 
+however, it may be split into multiple segments. For example, one UDI may be presented in 
+two linear bar codes: one bar code for the DI segment and another bar code for the PI 
+segment. These two bar codes should be in near proximity to each other on the device label, 
+device packages, and, when required, on the device itself.  
+The labeler may choose to use more than one type of AIDC technology on a single device 
+label, device package, or device (when applicable), to assist users who may be employing 
+different methods of UDI capture technology. For example, a labeler may include a linear (1-
+D) bar code and data matrix code (2-D) on the device label, both representing the same UDI. 
+In this example, only one easily readable plain-text form of the UDI is required to be on the 
+device label (21 CFR 801.40(a)), and it should be in near proximity to one of the AIDC 
+forms of the UDI.    
+If a labeler chooses a bar code form of AIDC, the bar code form of the UDI should be tested 
+for print quality. FDA recommends referring to the following standards and technical 
+references for more information on determining the print quality:
+9 The required format for a printed expiration date, date of manufacture, or other date intended to be brought to 
+the attention of the user of the device included on a medical device label is described at 21 CFR 801.18.
+
+---
+
+<!-- Page 9 -->
+Contains Nonbinding Recommendations
+6
+·
+ISO/IEC 15416: Information technology -- Automatic identification and data capture 
+techniques -- Bar code print quality test specification -- Linear symbols; 
+·
+ISO/IEC 15415: Information technology -- Automatic identification and data capture 
+techniques -- Bar code symbol print quality test specification – Two-dimensional 
+symbols; and
+·
+ISO/IEC TR 29158: Information technology -- Automatic identification and data 
+capture techniques – Direct Part Mark (DPM) Quality Guideline. 
+21 CFR 801.40(c) specifies that if the AIDC technology form (e.g., RFID technology) used 
+to convey the UDI is not evident upon visual examination of the device label or device 
+package, the device label or device package must disclose the presence of AIDC technology. 
+FDA does not require a specific type of symbol to disclose the presence of AIDC technology 
+that is not evident upon visual examination. However, FDA recommends that labelers 
+consider using symbols that are internationally recognized, where use of such symbols is 
+consistent with 21 CFR 801.15(c).
+B. 
+Content of UDI
+For purposes of this guidance, we define “UDI carrier” as the means to convey the UDI and 
+potentially non-UDI elements by using easily readable plain-text and/or AIDC forms. UDI 
+carriers may include additional, non-UDI information regarding the device. For example, 
+some FDA-accredited issuing agencies may provide for including non-UDI elements, such as 
+quantity, in the data string within the UDI carrier. However, FDA does not consider such 
+additional non-UDI elements as being part of the UDI. As such, data delimiters for additional 
+non-UDI elements should be different than the DI and PI data delimiters in the UDI.
+Under 21 CFR 801.40(b), the easily readable plain-text and AIDC forms of a UDI must 
+include: (1) a device identifier segment; and (2) a production identifier segment that conveys 
+one or more of the identifiers enumerated in the definition of a “production identifier” at 21 
+CFR 801.3 when included on the device label. The device identifier segment and the 
+production identifier segment cannot include non-UDI elements or data delimiters for non-
+UDI elements.  
+The UDI Rule does not require any of the five identifiers comprising a PI to be on the label. 
+However, other regulations may require one or more of the identifiers comprising a PI to be 
+on the label. For example, under 21 CFR 1271.290(c), manufacturers of human cells, tissues, 
+and cellular and tissue-based products (HCT/Ps) are required to assign and label HCT/Ps 
+with a distinct identification code. In addition, if the labeler includes any of the identifiers of 
+which a PI is composed on the label, then for all devices required to bear a UDI other than 
+class I devices,10 the identifier must also be included in the PI segment of the UDI (21 CFR 
+801.30(d) and 801.40(b)). 
+10 FDA’s Product Classification database is available at: 
+https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpcd/classification.cfm.
+
+---
+
+<!-- Page 10 -->
+Contains Nonbinding Recommendations
+7
+There are some situations where a UDI may comprise a DI only. For example, if a class II 
+device does not include any of the five identifiers of which a PI is composed on the label, 
+then a PI would not be required in the UDI. In addition, the UDI of a class I device is not 
+required to include a PI (21 CFR 801.30(d)). However, the labeler of a class I device may 
+voluntarily include a PI in the UDI.
+C. 
+Data delimiters
+For the purposes of this guidance, “data delimiter” means a defined data character or set of 
+data characters that identifies specific data elements within an encoded data string 
+represented in the UDI carrier.11 Data delimiters are used to identify the information that 
+immediately follows them, and data delimiters vary based on the UDI system established by 
+each FDA-accredited issuing agency.12  
+Data delimiters are key to UDI comprehensibility and utility. A data delimiter indicates and 
+distinguishes each data element within the data string represented in the UDI carrier, and 
+inclusion of data delimiters is important for both the easily readable plain-text and AIDC 
+forms of the UDI. Data delimiters allow users to parse the DI and PI in the easily readable 
+plain-text form of the UDI, as well as to verify that the information encoded in the AIDC 
+form of the UDI matches the easily-readable plain text form of the UDI. The data delimiters 
+also enable the UDI to be parsed into electronic systems once scanned. Importantly, data 
+delimiters allow the UDI to be distinguished and captured separately from any non-UDI 
+elements that may be represented in the UDI carrier. In addition, if non-UDI elements are 
+included in the UDI carrier, separate data delimiters for these non-UDI elements should be 
+included. Without appropriate data delimiters to identify non-UDI elements, individuals may 
+not be able to use the easily readable plain-text form of the UDI to identify a device and 
+computer systems may not be able to capture accurately the UDI in AIDC form via an 
+automated process.
+11 The term “data delimiter,” as used in this guidance, corresponds to the term “qualifier” as used in ISO/IEC 
+15459-3: Information technology — Automatic identification and data capture techniques — Unique 
+identification —Part 3: Common rules [third edition], and UDI N48: Unique Device Identification system (UDI 
+system) Application Guide (March 21, 2019),-- http://www.imdrf.org/docs/imdrf/final/technical/imdrf-tech-
+190321-udi-sag.pdf. 
+12 FDA reviewed the UDI format of each issuing agency as part of its process for accrediting issuing agencies 
+under 21 CFR 830.100 and 830.110.  The data delimiters used within the UDI formats of FDA-accredited 
+issuing agencies can be found in the UDI Formats by FDA-Accredited Issuing Agency document, available at: 
+www.fda.gov/downloads/MedicalDevices/DeviceRegulationandGuidance/ 
+UniqueDeviceIdentification/UDIIssuingAgencies/UCM489869.pdf, on the UDI webpage (www.fda.gov/udi). 
+For more information on encoding data delimiters, labelers should refer to the guidelines of their FDA-
+accredited issuing agency or contact their FDA-accredited issuing agency.
+
+---
+
+<!-- Page 11 -->
+Contains Nonbinding Recommendations
+8
+D. 
+Order of the data represented in the easily readable 
+plain­text form of UDI carrier
+In the easily readable plain-text form of the UDI carrier, the UDI should precede any non-
+UDI elements. The easily readable plain-text form of the UDI should be ordered to specify 
+the DI first, followed by the PI (if any). If there are any non-UDI elements in the UDI carrier, 
+the non-UDI elements should follow the PI that is part of the UDI in the easily readable 
+plain-text form. For example, if the label of a particular device bears an expiration date and 
+quantity, and the labeler wishes to include the quantity in the UDI carrier, the easily readable 
+plain-text of the UDI carrier should display the data delimiter for the DI, followed by the DI; 
+the data delimiter for expiration date, followed by the expiration date PI; and lastly, the data 
+delimiter for quantity, followed by the quantity. While FDA does not prohibit the inclusion 
+of quantity in the UDI carrier, quantity is not considered part of the UDI and the data 
+delimiter for quantity should be different than the DI and PI data delimiters in the UDI. For 
+more information on including certain non-UDI elements in the UDI carrier, labelers should 
+refer to the guidelines of their FDA-accredited issuing agency or contact their FDA-
+accredited issuing agency.  
+E. 
+Stand­Alone Software
+There are different labeling requirements for stand-alone software depending on whether or 
+not it is distributed in packaged form (21 CFR 801.50). For stand-alone software that is not 
+distributed in packaged form, the UDI labeling requirements are met if the UDI is provided 
+through either or both of the following and the version number is conveyed in its PI: 
+·
+an easily readable plain-text statement displayed whenever the software is started; or
+·
+an easily readable plain text statement displayed through a menu command (e.g., an 
+“about” command) (21 CFR 801.50(a)).  
+For stand-alone software that is distributed in packaged form, 21 CFR 801.50(a) does not 
+apply. The stand-alone software must provide its UDI as an easily readable plain-text 
+statement displayed whenever the software is started or through a menu command (21 CFR 
+801.50(b)). Additionally, the device label and device packages must also bear a UDI in both 
+easily readable plain-text and AIDC forms (21 CFR 801.20(a) and 801.40(a)).13  As 
+explained above, when the lot or batch within which a device was manufactured is included 
+on the device label, the lot or batch must be included in the PI (21 CFR 801.3 and 801.40(b)). 
+“Software version” is included in the definition of lot or batch at 21 CFR 801.3.14  Therefore, 
+when a labeler of stand-alone software required to bear a UDI includes a software version on 
+the label, it must be conveyed through the PI (21 CFR 801.3, 801.50(b); see also 78 FR 
+58794).  
+13 See also 78 FR 58804.
+14 “Lot or batch” is defined at 21 CFR 801.3 as “one finished device or more that consists of a single type, 
+model, class, size, composition, or software version that are manufactured under essentially the same conditions 
+and that are intended to have uniform characteristics and quality within specified limits.”
+
+<!-- fulltext-end -->

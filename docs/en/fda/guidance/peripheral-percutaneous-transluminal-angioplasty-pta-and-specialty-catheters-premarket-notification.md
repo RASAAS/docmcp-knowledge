@@ -1,0 +1,1378 @@
+---
+title: "Peripheral Percutaneous Transluminal Angioplasty (PTA) and Specialty Catheters - Premarket Notification (510(k)) Submissions: Guidance for Industry and Food and Drug Administration Staff"
+description: "FDA CDRH Final Guidance Document"
+published: 2023-04-14
+---
+
+# Peripheral Percutaneous Transluminal Angioplasty (PTA) and Specialty Catheters - Premarket Notification (510(k)) Submissions: Guidance for Industry and Food and Drug Administration Staff
+
+**Published**: 2023-04-14
+
+**Status**: Final
+**Type**: Guidance Document
+**Category**: Premarket (510(k) / PMA / De Novo / IDE)
+**Topics**: Premarket, 510(k), Cardiovascular, Labeling
+**Docket**: FDA-2019-D-5422
+
+::: tip Official Source
+[https://www.fda.gov/regulatory-information/search-fda-guidance-documents/peripheral-percutaneous-transluminal-angioplasty-pta-and-specialty-catheters-premarket-notification](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/peripheral-percutaneous-transluminal-angioplasty-pta-and-specialty-catheters-premarket-notification)
+PDF: [https://www.fda.gov/media/134016/download](https://www.fda.gov/media/134016/download)
+:::
+
+<!-- fulltext-start -->
+
+---
+
+## Official Full Text
+
+<!-- Page 1 -->
+On February 2, 2024, FDA published the final rule to amend the Quality System (QS) regulation 
+in 21 CFR part 820 (89 FR 7496, effective February 2, 2026). The revised 21 CFR part 820 is 
+now titled the Quality Management System Regulation (QMSR). The QMSR harmonizes quality 
+management system requirements by incorporating by reference the international standard 
+specific for medical device quality management systems set by the International Organization for 
+Standardization (ISO), ISO 13485:2016. The FDA has determined that the requirements in ISO 
+13485 are, when taken in totality, substantially similar to the requirements of the QS regulation, 
+providing a similar level of assurance in a firm’s quality management system and ability to 
+consistently manufacture devices that are safe and effective and otherwise in compliance with 
+the Federal Food, Drug, and Cosmetic Act (FD&C Act).
+This guidance document was issued prior to the effective date of the final rule. FDA encourages 
+manufacturers to review the current QMSR to ensure compliance with the relevant regulatory 
+requirements.
+
+---
+
+<!-- Page 2 -->
+Contains Nonbinding Recommendations
+Peripheral Percutaneous Transluminal 
+Angioplasty (PTA) and Specialty 
+Catheters - Premarket Notification 
+(510(k)) Submissions
+Guidance for Industry and Food and 
+Drug Administration Staff
+Document issued on April 14, 2023.
+The draft of this document was issued on January 13, 2020.
+For questions regarding this document, contact the Plaque Modification Devices Team in OHT2: 
+Office of Cardiovascular Devices/DHT2C: Division of Health Technology 2C at (301) 796-
+6075.
+U.S. Department of Health and Human Services
+Food and Drug Administration
+Center for Devices and Radiological Health
+
+---
+
+<!-- Page 3 -->
+Contains Nonbinding Recommendations
+Preface
+Public Comment
+You may submit electronic comments and suggestions at any time for Agency consideration to 
+https://www.regulations.gov. Submit written comments to the Dockets Management Staff, Food 
+and Drug Administration, 5630 Fishers Lane, Room 1061, (HFA-305), Rockville, MD 20852. 
+Identify all comments with the docket number FDA-2019-D-5422. Comments may not be acted 
+upon by the Agency until the document is next revised or updated.
+Additional Copies
+Additional copies are available from the Internet. You may also send an e-mail request to 
+CDRH-Guidance@fda.hhs.gov to receive a copy of the guidance. Please include the document 
+number GUI00016018 and complete title of the guidance in the request.
+
+---
+
+<!-- Page 4 -->
+Contains Nonbinding Recommendations
+Table of Contents
+I. 
+Introduction ..............................................................................................................................1
+II. Scope ........................................................................................................................................2
+III. Premarket Submission Recommendations ...............................................................................2
+A. Device Description...............................................................................................................2
+B. Predicate Comparison ..........................................................................................................3
+C. Biocompatibility ..................................................................................................................4
+D. Sterility .................................................................................................................................6
+E. 
+Pyrogenicity .........................................................................................................................6
+F. 
+Shelf-Life and Packaging .....................................................................................................7
+G. Non-Clinical Performance Testing ......................................................................................8
+(1) 
+Standard Performance Testing for PTA and Specialty Catheters ................................8
+(2) 
+Additional Tests for Catheters Intended for Infusion of Contrast Media or Other 
+Fluids ..........................................................................................................................20
+(3) 
+Additional Tests for Catheters Intended for In-Stent Restenosis (ISR) Use or for 
+Stent Expansion following Stent Deployment ...........................................................21
+(4) 
+Additional Tests for Scoring/Cutting Balloons ..........................................................21
+H. Animal Safety and Performance Testing ...........................................................................22
+I. 
+Clinical Performance Testing ............................................................................................23
+J. 
+Labeling .............................................................................................................................24
+K. Modifications .....................................................................................................................24
+
+---
+
+<!-- Page 5 -->
+Contains Nonbinding Recommendations
+1
+Peripheral Percutaneous Transluminal 
+Angioplasty (PTA) and Specialty 
+Catheters – Premarket Notification 
+(510(k)) Submissions
+Guidance for Industry and Food and 
+Drug Administration Staff
+This guidance represents the current thinking of the Food and Drug Administration (FDA or 
+Agency) on this topic. It does not establish any rights for any person and is not binding on 
+FDA or the public. You can use an alternative approach if it satisfies the requirements of the 
+applicable statutes and regulations. To discuss an alternative approach, contact the FDA staff 
+or Office responsible for this guidance as listed on the title page.
+I.
+Introduction 
+This guidance document provides recommendations, including bench testing and coating 
+characterizations for 510(k) submissions for peripheral percutaneous transluminal angioplasty 
+(PTA) balloon and specialty catheters (e.g., infusion catheters, PTA balloon catheters for in-stent 
+restenosis (ISR), scoring/cutting balloons). These devices are catheter-based devices intended to 
+treat lesions in the peripheral vasculature. This document provides anatomy-specific testing 
+recommendations and expands on FDA’s current thinking for testing of these devices. FDA is 
+issuing this guidance to clarify FDA’s premarket submission recommendations for PTA 
+catheters and specialty catheters and to promote consistency across submissions.  
+For the current edition of the FDA-recognized consensus standards referenced in this document, 
+see the FDA Recognized Consensus Standards database at 
+https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfStandards/search.cfm. For more 
+information regarding use of consensus standards in regulatory submissions, please refer to the 
+FDA guidance titled “Appropriate Use of Voluntary Consensus Standards in Premarket 
+Submissions for Medical Devices.”1
+1 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/appropriate-use-voluntary-consensus-
+standards-premarket-submissions-medical-devices
+
+---
+
+<!-- Page 6 -->
+Contains Nonbinding Recommendations
+2
+This document supplements other FDA documents regarding the specific content requirements 
+of premarket submissions. You should also refer to 21 CFR 807.87 and FDA’s guidance, 
+“Format for Traditional and Abbreviated 510(k)s.”2
+In general, FDA's guidance documents do not establish legally enforceable responsibilities. 
+Instead, guidances describe the Agency’s current thinking on a topic and should be viewed only 
+as recommendations, unless specific regulatory or statutory requirements are cited. The use of 
+the word should in Agency guidance means that something is suggested or recommended, but 
+not required. 
+II.
+Scope 
+The scope of this document is limited to class II PTA balloon catheters regulated under 21 CFR 
+870.1250 and class II specialty catheters regulated under 21 CFR 870.1210 and 21 CFR 
+870.1250 with product codes listed in the table below. 
+Table 1: Device Types within the Scope of This Guidance.
+Regulation Number
+Product Code
+Device
+870.1210
+KRA
+Continuous Flush Catheter
+870.1250
+DQY
+Percutaneous Catheter
+870.1250
+LIT
+Peripheral Transluminal Angioplasty Catheter
+870.1250
+PNO
+Percutaneous Cutting/Scoring Catheter
+In this guidance, PTA balloon catheters refer to standard peripheral angioplasty balloon 
+catheters. Specialty catheters can include but are not limited to the following 510(k) devices: 
+infusion catheters, balloon catheters with unique design characteristics (e.g., cutting/scoring), 
+and balloon catheters intended for specific indications (e.g., ISR, post-dilatation of stents). Class 
+III drug-coated balloons have additional risks and considerations and are not addressed in this 
+guidance document. 
+III. Premarket Submission Recommendations 
+A. 
+Device Description 
+We recommend you identify your device by the applicable regulation number and product code 
+indicated in Section II above and include the information described below.
+·
+Device components and mode of operation: FDA recommends that you identify all 
+components and accessories included in the premarket submission, including packaging, 
+with a clear description of how the device is utilized to achieve the intended use in the 
+intended anatomy.
+2 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/format-traditional-and-abbreviated-
+510ks
+
+---
+
+<!-- Page 7 -->
+Contains Nonbinding Recommendations
+3
+·
+Photograph and engineering drawing(s) of the device: FDA recommends that you 
+provide a photograph, as well as an engineering drawing with relevant dimensions, 
+tolerances, and components labeled, of the device. FDA recommends that you include 
+this for each device, accessory, or component included in the premarket submission.
+·
+Technological characteristics: FDA recommends that you describe the technical and 
+performance specifications and include a brief description of the device design 
+requirements in the device description section of the premarket submission. The 
+specifications may include performance-related product measurement tolerances, 
+operating limitations, and any other functional, physical, and environmental 
+specifications of the device. We also recommend that you describe ranges and/or 
+accuracy of the specifications.
+·
+Materials: FDA recommends that you provide a list of all components, their respective 
+material(s) of composition, and their patient-contacting classification (e.g., non-
+contacting, indirect-contacting, or direct-contacting). For each component, you should 
+identify the generic material of construction and the unique material identifier (e.g., 
+Chemical Abstract Services (CAS) number).
+B.
+Predicate Comparison 
+For devices reviewed under the 510(k) process, manufacturers must compare their new device to 
+a similar legally marketed predicate device to support its substantial equivalence (21 CFR 
+807.87(f)). This comparison should provide information to show how your device is similar to 
+and different from the predicate. Side by side comparisons, whenever possible, are desirable. See 
+below for an example of how this information may be organized. This table is not intended to 
+represent an exhaustive list of comparative parameters; ensure you provide all relevant device 
+descriptive characteristics as outlined in the “Device Description” section, above.
+Table 2: Sample predicate comparison table to outline differences and similarities between 
+the subject and predicate devices.
+Description
+Subject Device
+Predicate Device (Kxxxxxx)
+Intended Use
+Indications for Use
+Guidewire Compatibility
+Sheath Compatibility 
+Catheter length
+Catheter Shaft Outer 
+Diameter
+Balloon Lengths (if 
+applicable)
+Balloon Diameters (if 
+applicable)
+Nominal Pressure (if 
+applicable)
+
+---
+
+<!-- Page 8 -->
+Contains Nonbinding Recommendations
+4
+Description
+Subject Device
+Predicate Device (Kxxxxxx)
+Rated Burst Pressure (if 
+applicable)
+Component Materials (list 
+individually)
+Coating Material (if 
+applicable)
+Coating Length (if 
+applicable)
+Packaging Configuration 
+Sterilization Method
+C.
+Biocompatibility 
+Significance: PTA balloon catheters and specialty catheters contain patient-contacting materials, 
+which, when used for their intended purpose (i.e., contact type and duration), may induce a 
+harmful biological response.
+Recommendation: You should determine the biocompatibility of all patient-contacting materials 
+present in your device. If your device is identical in composition, manufacturing, and processing 
+methods to any PTA balloon catheters or specialty catheters with a history of safe use, you may 
+reference previous testing experience or the literature, if appropriate. For some device materials, 
+it may be appropriate to provide either a reference to an FDA-recognized consensus standard or a 
+letter of authorization (LOA) for a device master file (MAF).
+If you are unable to identify a legally marketed predicate device with similar location/duration of 
+contact and intended use that uses the same materials as used in your device, we recommend you 
+conduct and provide a biocompatibility risk assessment. The assessment should explain the 
+relationship between the identified biocompatibility risks and potential mitigation strategies as 
+well as identify knowledge gaps that remain. You should then identify any biocompatibility 
+testing or other evaluations that have been conducted to mitigate remaining risks.
+We recommend that you follow the FDA guidance, “Use of International Standard ISO 10993-1, 
+‘Biological evaluation of medical devices – Part 1: Evaluation and testing within a risk 
+management process’”3, which identifies the types of biocompatibility assessments that should 
+be considered and recommendations regarding how to conduct related tests.
+Per ISO 10993-1: Biological evaluation of medical devices – Part 1: Evaluation and testing 
+within a risk management process and Attachment A of FDA’s guidance on ISO 10993-1, PTA 
+balloon catheters and specialty catheters are external-communicating devices in contact with 
+circulating blood for a limited contact duration. Therefore, the following endpoints should be 
+addressed in your biocompatibility evaluation, either through testing or scientific rationale for 
+why additional testing is not needed:
+3 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/use-international-standard-iso-10993-
+1-biological-evaluation-medical-devices-part-1-evaluation-and
+
+---
+
+<!-- Page 9 -->
+Contains Nonbinding Recommendations
+5
+·
+cytotoxicity;
+·
+sensitization;
+·
+irritation or intracutaneous reactivity;
+·
+acute systemic toxicity;
+·
+material-mediated pyrogenicity;
+·
+hemocompatibility;
+o
+direct and indirect hemolysis;
+o
+SC5b-9 complement activation; and
+o
+thrombogenicity.
+Please note that a genotoxicity assessment may be requested if PTA balloon catheters or 
+specialty catheters contain novel patient-contacting materials that have not been previously 
+evaluated for use in contact with circulating blood in legally marketed medical devices.
+For biocompatibility testing, we recommend that your subject device test article be the final 
+finished device, including exposure to all manufacturing processes, such as packaging and 
+sterilization. If differences exist between the final subject device and the biocompatibility test 
+article, additional information describing all differences and why they do not impact 
+leveragability of the testing should be provided for each relevant biocompatibility endpoint as 
+identified above. FDA recommends including only and all applicable patient contacting 
+components in the test articles.
+If an animal study is being conducted in order to evaluate the safety and/or performance of your 
+device, you can consider evaluating your device for thrombogenicity in this study in lieu of a 
+separate thrombogenicity study (e.g., the 4-hour non-anticoagulated venous implant (NAVI) 
+model described in ISO 10993-4 Biological evaluation of medical devices – Part 4: Selection of 
+tests for interactions with blood). If assessing thrombogenicity in a large animal study, you 
+should consider incorporating relevant thrombogenicity-related attributes into your study design 
+(e.g., clinically relevant anticoagulation regimen and activated clotting time (ACT), worst-case 
+device dwell time, providing high-resolution images of the device post-removal from the animal 
+to assess for thrombus, and downstream thromboembolism assessment). In addition, a dynamic 
+in vitro flow loop or material-mediated thrombogenicity approach with surface assessment (e.g., 
+SEM or optical imaging with a 40X magnification) may be appropriate for some device 
+types/designs based on device geometry, materials, patient blood contact duration, and 
+anticoagulation status. To determine the thrombogenicity test strategy for your specific device, 
+FDA recommends discussing your approach with the Agency using the Q-Submission Program 
+prior to test initiation. For details on the Q-Submission Program, please refer to the guidance
+
+---
+
+<!-- Page 10 -->
+Contains Nonbinding Recommendations
+6
+“Requests for Feedback and Meetings for Medical Device Submissions: The Q-Submission 
+Program.”4
+D.
+Sterility 
+Significance: PTA balloon catheters and specialty catheters come in contact with blood and 
+should be adequately sterilized to minimize infections and related complications.
+Recommendation: For PTA balloon catheters and specialty catheters labeled as sterile, we 
+recommend that you provide information for the finished device in accordance with the FDA 
+guidance, “Submission and Review of Sterility Information in Premarket Notification (510(k)) 
+Submissions for Devices Labeled as Sterile.”5
+E.
+Pyrogenicity 
+Significance: Pyrogenicity testing is used to assess the risk of febrile reaction due to gram-
+negative bacterial endotoxins and/or chemicals that can leach from a medical device (e.g., 
+material-mediated pyrogens).
+Recommendation: To address the risks associated with the presence of bacterial endotoxins, PTA 
+balloon catheters and specialty catheters should meet pyrogen limit specifications by following 
+the recommendations outlined in the FDA’s guidance, “Submission and Review of Sterility 
+Information in Premarket Notification (510(k)) Submissions for Devices Labeled as Sterile”6
+(510(k) Sterility Guidance). You should also follow the recommendations in “Guidance for 
+Industry Pyrogen and Endotoxins Testing: Questions and Answers.”7
+To address the risks associated with material-mediated endotoxins, you should follow the 
+recommendations in the FDA guidance, “Use of International Standard ISO 10993-1, 'Biological 
+evaluation of medical devices - Part 1: Evaluation and testing within a risk management 
+process’.” 8
+Devices in contact with the cardiovascular system should meet pyrogen limit specifications 
+discussed in the 510(k) Sterility Guidance and should be labeled non-pyrogenic. For devices 
+intended to be labeled as “non-pyrogenic,” we recommend that both bacterial endotoxin and 
+material-mediated pyrogens be addressed.
+4 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/requests-feedback-and-meetings-
+medical-device-submissions-q-submission-program
+5 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/submission-and-review-sterility-
+information-premarket-notification-510k-submissions-devices-labeled
+6 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/submission-and-review-sterility-
+information-premarket-notification-510k-submissions-devices-labeled
+7 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-industry-pyrogen-and-
+endotoxins-testing-questions-and-answers
+8 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/use-international-standard-iso-10993-
+1-biological-evaluation-medical-devices-part-1-evaluation-and
+
+---
+
+<!-- Page 11 -->
+Contains Nonbinding Recommendations
+7
+F.
+Shelf-Life and Packaging 
+Significance: Shelf-life testing is conducted to support the proposed expiration date through 
+evaluation of the package integrity for maintaining device sterility and/or evaluation of the 
+device performance to ensure adequate functionality.
+Recommendation: With respect to package integrity for maintaining device sterility for PTA 
+balloon catheters and specialty catheters, you should provide a description of the packaging, 
+including how it will maintain the device’s sterility, a description of the package integrity test 
+methods, and a summary of the package integrity test data, including the test, acceptance criteria, 
+results, and any deviations noted. The following conditioning and testing should be conducted:
+Simulated Shipping and Climatic Conditioning: The full packaging configuration should be 
+subjected to simulated shipping (per ASTM D4169: Standard Practice for Performance Testing 
+of Shipping Containers and Systems) and climatic conditioning (per ASTM D4332: Standard 
+Practice for Conditioning Containers, Packages, or Packaging Components for Testing) prior to 
+packaging testing. 
+Aging: With respect to evaluating the effects of aging on device performance or functionality, 
+shelf-life studies should evaluate the critical physical and mechanical properties of the device 
+that are required to ensure it will perform adequately and consistently during the entire proposed 
+shelf life. To evaluate device functionality after aging, we recommend that you assess each of the 
+bench tests described in Section III.G and repeat all tests that evaluate design components or 
+characteristics that may be affected by aging. A rationale should be provided for changes in the 
+methods used for the aged testing as compared to the methods used for the baseline testing (e.g., 
+smaller sample size, different device sizes assessed, omitted testing). 
+For PTA balloon catheters and specialty catheters that are provided sterile and/or have a 
+proposed expiration date, we recommend that you provide a summary of the test methods used 
+for your shelf-life testing, results and the conclusions drawn from your results. If you use devices 
+subject to accelerated aging for shelf life testing, we recommend that you specify the way in 
+which the devices were aged. We recommend that you age your devices as per the currently 
+FDA-recognized version of ASTM F1980: Standard Guide for Accelerated Aging of Sterile 
+Barrier Systems for Medical Devices and specify the environmental parameters (i.e., test 
+temperature, humidity, cycle, ambient temperature) established to attain the expiration date. For 
+devices or components containing polymeric materials, you should plan to conduct testing on 
+real-time aged samples to confirm that the accelerated aging is reflective of real-time aging. This 
+testing should be conducted in parallel with 510(k) review and clearance with results 
+documented to file in the device’s design history file in accordance with the provisions of 21 
+CFR 820.30 (i.e., the test reports do not need to be submitted to FDA).
+Packaging Testing: We recommend that you assess the packaging integrity and strength of both 
+the materials and seal of the sterile barrier. The integrity of the packaging materials can be 
+assessed using test methods such as the bubble leak test (per ASTM F2096: Standard Test 
+Method for Detecting Gross Leaks in Packaging by Internal Pressurization (Bubble Test)) and/or 
+burst testing (per ASTM F2054/F2054M: Standard Test Method for Burst Testing of Flexible 
+Package Seals Using Internal Air Pressurization Within Restraining Plates). The integrity of the
+
+---
+
+<!-- Page 12 -->
+Contains Nonbinding Recommendations
+8
+seals can also be assessed using numerous test methods, including a visual assessment (per 
+ASTM F1886/F1886M: Standard Test Method for Determining Integrity of Seals for Flexible 
+Packaging by Visual Inspection), the bubble leak test (per ASTM F2096: Standard Test Method 
+for Detecting Gross Leaks in Packaging by Internal Pressurization (Bubble Test)), and/or the 
+dye penetration test (per ASTM F1929: Standard Test Method for Detecting Seal Leaks in 
+Porous Medical Packaging by Dye Penetration). A seal strength assessment (per ASTM 
+F88/F88M: Standard Test Method for Seal Strength of Flexible Barrier Materials) should also 
+be conducted at baseline and after aging (accelerated with real-time confirmatory testing) in 
+order to ensure that the seals will not be compromised due to any force exerted on the seal. 
+G.
+Non-Clinical Performance Testing 
+(1)
+Standard Performance Testing for PTA and Specialty 
+Catheters 
+Non-clinical performance testing is recommended for PTA and specialty catheters in order to 
+fully characterize the device and also ensure that the devices can perform as intended under 
+clinically-relevant conditions. The testing recommended below should be conducted on the 
+finished product that was subjected to all manufacturing processes, including sterilization. 
+Otherwise, a discussion of the differences between the test article and finished product should be 
+discussed and justified. 
+ 
+For information on recommended content and format of test reports for the testing described in 
+this section, refer to FDA’s guidance, “Recommended Content and Format of Non-Clinical 
+Bench Performance Testing Information in Premarket Submissions.”9 As noted in this document, 
+FDA recommends that you provide a scientific or statistical justification for the sample sizes 
+used for each test.
+Please note that the recommendations provided in ISO 10555-1: Intravascular Catheters – 
+Sterile and Single-Use Intravascular Catheters – Part 1: General Requirements and ISO 10555-
+4: Sterile and Single-Use Intravascular Catheters – Part 4: Balloon Dilatation Catheters are 
+directly applicable to PTA catheters and many specialty catheters. Therefore, the testing and 
+methods recommended in these standards should be followed, or a rationale for deviating from 
+these methods should be provided. However, these standards may not include all testing 
+recommended by FDA or may not be specific enough regarding the methods or criteria for 
+recommended testing. Therefore, the recommendations described below, which augment these 
+consensus standards, should also be followed.
+Before conducting the testing described below, FDA recommends that you precondition 
+catheters by tracking through a tortuous path fixture (as described in Section III.G(1)b below). 
+This is recommended for all testing, as clinically-relevant tracking, using physiological 
+conditions, may impact testing outcomes. If preconditioning is not performed prior to a certain 
+test, a scientific rationale should be provided indicating why the attribute would not be affected 
+by this conditioning.
+9 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/recommended-content-and-format-
+non-clinical-bench-performance-testing-information-premarket
+
+---
+
+<!-- Page 13 -->
+Contains Nonbinding Recommendations
+9
+a.
+Dimensional Verification 
+Significance: Accurate device dimensions help the physician to select the proper product and 
+accessory device sizes. They may also affect the operator’s ability to track the catheter to and 
+across lesions.
+Recommendation: We recommend that you provide dimensional specifications and tolerances as 
+well as data to verify that these specifications are met for your device as manufactured. At a 
+minimum, we recommend that you measure and report catheter effective length, shaft inner and 
+outer diameter, and crossing profile. For balloon catheters, the balloon outer diameter and length 
+should also be characterized, as described in ISO 10555-4.
+The crossing profile, typically defined as the maximum diameter found between the proximal 
+end of the balloon (if applicable) and the distal tip of the catheter, should be quantitatively 
+measured. This can include the proximal balloon bond and, in some cases, other parts of the 
+catheter for unique devices where the maximum outer diameter may not be related to a balloon. 
+The measurement should address potential differences in crossing profile that may exist in the 
+circumferential direction. For these situations, we recommend that you evaluate the crossing 
+profile of your catheter along different longitudinal paths (e.g., rotating the test sample 90° for 
+measurements). We recommend that you report the crossing profile in either the instructions for 
+use, the outside package labeling, or both. Various methods can be utilized, such as contact and 
+non-contact methods, as deemed appropriate. If pass/fail testing is employed, (e.g., “go/no go” 
+gauges), a rationale should be provided to support the methods and the sizes of these aids, along 
+with details regarding the methods.
+The quantitative crossing profile data should be used to support the labeled introducer sheath 
+compatibility. Since the size of commercially-available introducer sheaths vary, pass/fail 
+introducer sheath compatibility testing alone is not sufficient to support a labeled sheath 
+compatibility. If you are labeling your device with an introducer sheath compatibility that is 
+smaller than your measured crossing profile, a scientific rationale should be provided. 
+Shaft inner diameter measurement, or pass/fail guidewire compatibility testing, should be 
+provided to support the labeled guide wire compatibility. 
+b.
+Simulated Use 
+Significance: The recommended instructions for use and techniques for preparation, insertion, 
+tracking, deployment (if applicable), retraction, and removal, if properly followed, should safely 
+and reliably deliver the catheter to the intended location without adversely affecting the device.
+Recommendation: We recommend that you conduct testing to demonstrate that the catheter can 
+be safely and reliably prepared, inserted, tracked, deployed (if applicable), retracted, and 
+removed using the recommended techniques, accessory devices, and instructions for use, without 
+damage to the device. We recommend that this simulated use testing be performed by tracking 
+the device through an in vitro fixture that mimics typical in vivo physiologic conditions and 
+appropriately challenging anatomic characteristics (e.g., a tortuous path in a 37 ?C aqueous
+
+---
+
+<!-- Page 14 -->
+Contains Nonbinding Recommendations
+10
+environment) to the length that would enter a patient in clinical use. The fluid used in the 
+simulated use model should closely mimic the properties of human blood (e.g., water, saline) and 
+should not include components to reduce frictional forces (e.g., lubricants, soap). The clinical 
+basis and rationale for the model used should be provided. In general, FDA recommends a three-
+dimensional model, including a clinically-relevant access site (e.g., appropriately challenging 
+entry angle and entry path curves), with a sufficient number of curves. The length, diameters, 
+number of curves, and radii of curvatures should be sufficient to appropriately challenge the 
+device to simulate clinical use in anatomy for which the device is intended. An engineering 
+drawing, with relevant dimensions labeled (e.g., lengths, diameters, angles), and images of the 
+model should be provided.
+We recommend that you conduct testing with accessory devices that would be used in a typical 
+clinical procedure (e.g., introducer, guidewire) using worst-case sizes (e.g., smallest inner-
+diameter introducer sheath per labeled compatibility). You should report any abnormality or 
+difficulty observed during the simulated procedure as well as any damage observed to the 
+catheter or any of the accessory devices.
+For PTA catheters, it may be informative to measure and report the diameter and axial location 
+of the largest deflated balloon profile, including the inner member or wire. This information may 
+assist in determining the extreme dimensions of compatible accessory devices (i.e., minimum 
+internal diameter). Determining the insertion/retraction forces may also be informative as this 
+may assist in supporting the specifications used for device tensile testing.
+It may be possible to combine the simulated use testing with coating integrity testing (see 
+Section III.G(1)l) and/or particulate evaluation (see Section III.G(1)m), but you should take care 
+to ensure that only minimal additional handling of the sample is required for the coating integrity 
+evaluation such that particulates are neither lost nor generated. 
+ 
+c.
+Balloon Rated Burst Pressure 
+Significance: The rated burst pressure (RBP) is the pressure at which 99.9% of balloons can 
+survive with 95% confidence. Failure of a balloon to maintain integrity at the RBP could result 
+in device failure or vessel damage.
+Recommendation: We recommend that you follow ISO 10555-4, Annex A, when conducting this 
+testing. In addition to what is described in this standard, the following should be taken into 
+consideration.
+We recommend that you conduct testing on the longest length of every balloon diameter and the 
+shortest length of both the smallest diameter and largest diameter. Table 3 illustrates the 
+recommended test matrix.
+
+---
+
+<!-- Page 15 -->
+Contains Nonbinding Recommendations
+11
+Table 3: Balloon Sizes Recommended for RBP Testing (Example).
+Balloon Diameter (mm)
+Balloon Length (mm)
+40
+60
+80
+100
+120
+4.0
+X
+X
+4.5
+X
+5.0
+X
+5.5
+X
+6.0
+X
+X
+We recommend that you test balloons that are not constrained by any test fixture, such as tubing, 
+and that you inflate the balloons, at a rate similar to clinical use, until failure. We recommend 
+that you record as test failures any loss of:
+·
+integrity of the balloon, such as a rupture or leak; or
+·
+pressure due to failure of the balloon, shaft, or seals.
+We recommend that you record the pressure at which the device failed and the failure mode 
+(e.g., longitudinal tear, circumferential tear, pinhole). A discussion and rationale should be 
+provided for the failure mode observed. We also recommend that you calculate RBP as the 
+pressure at which 99.9% of the balloons will survive with 95% confidence based on statistical 
+analysis of the test data. The lower tolerance limit determined from this analysis should be 
+reported and be used to support the RBP specified in the device labeling.
+d.
+Balloon Fatigue (Repeat Balloon Inflations) 
+Significance: Balloons on PTA catheters are often inflated multiple times during clinical use. 
+Failure of the balloon to withstand multiple inflations could lead to device failure or vessel 
+damage.
+Recommendation: We recommend that you follow ISO 10555-4, Annex B, when conducting this 
+testing, unless otherwise specified below. In addition to what is described in this standard, the 
+following should be taken into consideration.
+We recommend that you determine the repeatability, to 10 inflations, of successful balloon 
+inflation to the RBP. We recommend that you test device sizes according to the “four corners” 
+paradigm:
+·
+largest diameter/longest length;
+·
+largest diameter/shortest length;
+·
+smallest diameter/longest length; and
+·
+smallest diameter/shortest length.
+
+---
+
+<!-- Page 16 -->
+Contains Nonbinding Recommendations
+12
+Table 4 illustrates the recommended test matrix.
+Table 4: Example of “Four Corners” Test Matrix.
+Balloon Diameter (mm)
+Balloon Length (mm)
+40
+60
+80
+100
+120
+4.0
+X
+X
+4.5
+5.0
+5.5
+6.0
+X
+X
+We recommend that you test balloons that are not constrained by any test fixture, such as tubing, 
+and that you inflate the balloons incrementally until they reach the RBP. For each sample, we 
+recommend that you hold the RBP for a typical clinical inflation time (e.g., 30 seconds), or the 
+time specified in the instructions for use, deflate the balloon, and inflate it again to the RBP, for a 
+total of 10 cycles. We recommend that you report loss of pressure, whether due to failure of the 
+balloon, shaft, or proximal or distal seals, as a test failure. We recommend that you record all 
+failure modes and that your results demonstrate that 90% of the balloons will survive the test 
+with at least 95% confidence.
+e.
+Balloon Compliance (Diameter vs. Pressure) 
+Significance: The diameter of a deployed PTA balloon varies with inflation pressure. A 
+compliance chart in the labeling that relates balloon diameter to balloon pressure guides proper 
+selection of catheter size to fit the target vasculature site. Incorrect selection of catheter size may 
+lead to device failure or vessel damage.
+Recommendation: We recommend that you follow ISO 10555-4, Annex D, when conducting this 
+testing. In addition to what is described in this standard, the following should be taken into 
+consideration.
+We recommend that you test balloon sizes, as illustrated previously in Table 3, and that you test 
+multiple product lots. We recommend that you include data showing inflation pressure versus 
+balloon diameter over the full range of recommended inflation diameters and report the results in 
+either the instructions for use, the outside package labeling, or both. A graphical or tabular 
+presentation (i.e., a compliance chart) should be included in the labeling. We recommend that 
+you identify the nominal inflation pressure and RBP. The compliance chart can include pressures 
+up to (but not exceeding) 25% above the RBP, if you provide data and statistics demonstrating 
+that 99% of the balloons will not fail at the listed pressure with 95% confidence. We also 
+recommend that you describe if and how you performed any data rounding and show all 
+instances, if applicable. Compliance charts should not be normalized (i.e., modified in any way 
+in order to ensure that the nominal diameter is exactly achieved at the labeled nominal pressure) 
+or calculated based on limited testing. Table 5 shows an example of compliance chart for a 
+balloon with 4.0 mm to 6.0 mm diameters, with a nominal pressure of 9 atm and varying RBPs.
+
+---
+
+<!-- Page 17 -->
+Contains Nonbinding Recommendations
+13
+Table 5: Balloon Compliance Chart Example.
+Pressure 
+(atm)
+Balloon Nominal Diameter (mm)
+(X = balloon diameter at the given pressure)
+4.0
+4.5
+5.0
+5.5
+6.0
+9.0*
+X
+X
+X
+X
+X
+10.0
+X
+X
+X
+X
+X
+11.0
+X
+X
+X
+X
+X
+12.0
+X
+X
+X
+X
+X
+13.0
+X
+X
+X
+X
+X
+14.0
+X
+X
+X
+X**
+X**
+15.0
+X
+X
+X**
+X
+X
+16.0
+X**
+X**
+X
+X
+X
+*Nominal; **RBP
+f.
+Balloon Inflation and Deflation Time 
+Significance: Balloons occlude the target vessel and obstruct blood flow while inflated. Inflation 
+and deflation times affect occlusion time. Excessively slow inflation or deflation of a balloon 
+could lead to prolonged lack of blood flow and damage to downstream tissues. Both inflation and 
+deflation time are pertinent to evaluate, as both of these attributes may affect device performance 
+and may result in prolonged lack of blood flow and damage to downstream tissues.
+Recommendation: We recommend that you follow ISO 10555-4, Annex C, for deflation time 
+testing. In addition to what is described in this standard, the following should be taken into 
+consideration when conducting balloon inflation and deflation time testing.
+We recommend that you demonstrate, using techniques recommended in your instruction 
+manual, that the balloon inflates and deflates within acceptable times and provide the clinical 
+basis for your acceptance criteria. We recommend that you test the largest diameter at the longest 
+balloon length and evaluate which other sizes may warrant testing based on your risk analysis. 
+g.
+Catheter Bond Strength 
+Significance: Failure of bonds in the catheter could lead to device failure, vessel damage, and/or 
+embolic risk due to device remnants within the vasculature.
+Recommendation: We recommend that you test the bond strength at all locations where 
+adhesives, thermal fusion, or other joining methods are used for bonding components of the 
+catheter. Multiple bonds/joints that are located in close proximity should be tested separately, if 
+possible. We recommend that the testing demonstrate that all joints/bonds can withstand tensile 
+forces greater than those that may be experienced during clinical use. As such, we also 
+recommend that you provide the clinical basis (e.g., literature, retraction forces) for your bond 
+strength acceptance criteria. As discussed above, insertion and retraction force assessments 
+during simulated use testing may also be used to support your bond strength acceptance criteria. 
+Comparative testing involving a legally marketed predicate device that has a history of safe use
+
+---
+
+<!-- Page 18 -->
+Contains Nonbinding Recommendations
+14
+is also appropriate. Please note that the values identified in ISO 10555-1: Intravascular 
+Catheters – Sterile and Single-Use Intravascular Catheters – Part 1: General Requirements 
+alone should not be used to rationalize your acceptance criteria, as the clinical relevance of these 
+criteria have not been established for peripheral interventional applications. The test 
+method/protocol for this testing should clearly describe the methods utilized, including the 
+portions of the device that were fixed into each clamp and the pull rate.
+h.
+Tip Pull Test 
+Significance: Failure of bonds in the distal tip could lead to device failure, vessel damage, and/or 
+embolic risk due to device remnants within the vasculature.
+Recommendation: For devices with one or more joints in the distal tip (e.g., spring or nose-cone 
+tips), we recommend evaluating the tensile force that will separate the distal tip from the 
+catheter. We recommend that the testing demonstrate that the joints/bonds can withstand tensile 
+forces greater than those that may be experienced during clinical use. 
+Please note that this testing should be conducted on all tips that are joined or bonded to the 
+catheter by any means, regardless of tip length. If the tip is not long enough to be gripped for 
+tensile testing, modifications to the test methods (e.g., longer tip joined by same method for the 
+test article, alternate or modified grip) should be employed. Tips that are not separate 
+components (e.g., extension of inner tubing) do not need to be tested as they are not bonded. 
+i.
+Flexibility and Kink Test 
+Significance: Catheters may be subjected to tight angulations in tortuous vasculature during use. 
+Inability to withstand flexural forces that are typical of clinical use could lead to device failure or 
+vessel damage.
+Recommendation: We recommend that you conduct testing which demonstrates that the catheter 
+will not kink at a bend radius that is appropriate for the intended anatomy. For example, we 
+recommend that you consider wrapping the catheter around a series of mandrels with 
+successively smaller radii until the catheter kinks, the lumen collapses, or the device shows no 
+kinking at a radius smaller than what could be considered appropriately challenging for the 
+intended anatomy. This testing should be conducted along the full length, or representative 
+portions, of the catheter without the use of a guidewire as this would indicate a worst-case 
+scenario (or a rationale should be provided if a guidewire is used). We also recommend you 
+provide the clinical basis for your acceptance criterion. This could include literature or testing 
+demonstrating the proposed criterion is appropriate in representative angulations for the intended 
+anatomy. Assessment of the kink resistance of your device during simulated use alone is not 
+considered an appropriately challenging assessment as it does not challenge the device to failure. 
+This should be considered supporting information.
+j.
+Torque Strength  
+Significance: Catheters may be subjected to torsional forces during use. Even non-fixed wire 
+catheters could be subject to torsional forces if the tip is inadvertently caught on a stent, calcified
+
+---
+
+<!-- Page 19 -->
+Contains Nonbinding Recommendations
+15
+lesion, etc. Inability to withstand torsional forces that are typical of clinical use could lead to 
+device failure or vessel damage.
+Recommendation: We recommend that you assess the ability of the catheter to withstand 
+torsional forces when the distal tip is not free to rotate by rotating the proximal end of the 
+catheter until failure. We also recommend that you test the torque strength of the catheter in the 
+simulated-use fixture by tracking through the fixture and then clamping the distal end and 
+rotating the proximal end. We recommend that you report the number of rotations to failure and 
+the failure mode for each sample tested. Alternatively, it may be possible to test the device to a 
+specific number of turns (i.e., not to failure) if the pre-determined acceptance criterion is 
+established as appropriately challenging compared to clinical use.
+k.
+Radiopacity 
+Significance: Insufficient radiopacity may impede safe and reliable delivery of the balloon to the 
+intended location as it will not be clearly visible during use.
+Recommendation: We recommend that you demonstrate that the radiopaque markers/materials 
+on the balloon catheter can be seen under typical fluoroscopic methods. We recommend that you 
+provide a qualitative or quantitative measure of radiopacity, wherein the balloon catheter is 
+visible using real-time and plain film x-ray. It is acceptable to provide images from animal 
+studies, in vitro phantoms, or equivalent models in order to support the visibility/radiopacity of 
+your device. If these data are leveraged from animal or bench testing, please provide a reference 
+in the submission to where the images can be located. The methods described in ASTM F640: 
+Standard Test Methods for Determining Radiopacity for Medical Use are generally considered 
+acceptable.
+l.
+Coating Integrity  
+Significance: Coatings are intended to improve the performance of the device. Delamination or 
+degradation of a coating may lessen its benefit or otherwise negatively impact its clinical 
+performance and patient safety (e.g., causing embolization downstream).
+Recommendation: Coating integrity testing should be conducted if your device has any coating 
+along the length of the catheter and/or on the balloon portion of the device. We recommend that 
+you address the aspects described below for any coatings applied to the surfaces of your product.
+Coating Description
+We recommend that you describe the clinical purpose and intended function of the coating, such 
+as enhanced radiopacity, thromboresistance, or lubricity. We also recommend that you describe 
+the physical structure of the coating, such as coating thickness, and indicate its chemical 
+identification.
+Test Samples
+You should conduct testing on the finished product that was subjected to all manufacturing 
+processes, including sterilization. Otherwise, discussion of, and justification for, the differences
+
+---
+
+<!-- Page 20 -->
+Contains Nonbinding Recommendations
+16
+between the test article and finished product should be provided. You should provide a scientific 
+or statistical justification for the sample size for each test. We recommend that you implement a 
+sampling plan to examine multiple lots of product (≥3) to assess both inter- and intra-lot 
+variability. Because coating integrity may be impacted by balloon size, you should perform 
+testing on the extremes (i.e., “four corners”) and an appropriate intermediate size for the entire 
+product matrix proposed, as depicted in Table 6.
+Table 6: Example of “Four Corners Plus Intermediate” Test Matrix.
+Balloon Diameter (mm)
+Balloon Length (mm)
+40
+60
+80
+100
+120
+4.0
+X
+X
+4.5
+5.0
+X
+5.5
+6.0
+X
+X
+It may be possible to combine coating integrity testing and particulate evaluation (Section 
+III.G(1)m) with simulated use testing (Section III.G(1)b), but you should take care to ensure that 
+only minimal additional handling of the sample is required for the coating integrity evaluation 
+such that particulates are neither lost nor generated.
+Interpretation of Data
+Coating integrity is considered a characterization test. While acceptance criteria do not need to 
+be included in the premarket submission, descriptions of visualization criteria for the assessment 
+(e.g., no voids, no cracks) should be provided. Furthermore, you should provide an interpretation 
+of the analysis.
+Test reports should include a detailed discussion of the morphology of the coated surfaces. If 
+numerous defects are observed, quantifying defects using microscopy may be helpful. This may 
+include counting the number of total defects per unit area or measuring the total representative 
+defect area. You should support your discussion with representative color images, including any 
+areas with observed defects, at a sufficient magnification to characterize the defects. Multiple 
+magnifications may be warranted to visualize and adequately characterize the product. If the 
+coating is difficult to visualize (e.g., clear hydrophilic coating), measures should be taken in 
+order to ensure proper visualization (e.g., dyeing). The discussion of acceptable coating integrity 
+should include a justification that the number, size, and/or total area of defects observed will not 
+impact clinical performance or safety. Side-by-side testing with a predicate device may be 
+helpful to support substantial equivalence for 510(k) devices.
+We recommend that you address the aspects described below for any coatings applied to the 
+surfaces of your product.
+
+---
+
+<!-- Page 21 -->
+Contains Nonbinding Recommendations
+17
+Baseline Coating Integrity
+We recommend that you conduct a visual assessment of the coating integrity on all appropriate 
+surfaces of the final catheter to establish a baseline for comparison to coating characteristics after 
+testing performed after simulated use. If the coating is present on the balloon surface, unfolding 
+or partially inflating the device may be necessary to characterize coating at different locations. 
+We recommend that you appropriately quantify characteristics such as continuity and voids in 
+the coating, as described above.
+Simulated Use Coating Integrity
+We recommend that you evaluate the coating integrity via visual assessment after simulated use. 
+Catheters should be tracked through an aqueous, tortuous path fixture (as described in Section 
+III.G(1)b) and then expanded in the aqueous medium to the maximum labeled diameter 
+described in the instructions for use prior to visual inspection.
+We recommend you test coating integrity under appropriately challenging conditions of use. For 
+example, for balloons intended for ISR or post-deployment stent expansion, we recommend that 
+you evaluate the coating integrity after tracking the device through a tortuous path fixture and 
+inflating to the largest labeled diameter within a stent which has been deployed in the mock 
+vessel.
+Functional Testing
+We recommend you demonstrate that the coating can achieve its intended function. For example, 
+if a coating is intended to provide lubricity to the catheter, it may be helpful to demonstrate that 
+the frictional forces are decreased or at least equivalent to similar products with similar coatings. 
+For this type of assessment, we recommend that you characterize the drag force of the coating 
+(e.g., pinch test, force characterization during simulated use) after the samples are prepared per 
+the instructions for use.
+m.
+Particulate Evaluation (Coated Devices Only) 
+Significance: Particulate matter can be generated by the manufacturing process, environment, or 
+from the breakdown of any coating (e.g., hydrophilic coating) on the catheter or from the device 
+packaging. If particles are introduced in the bloodstream during an angioplasty procedure, they 
+may present an embolic risk to the patient. Measurement of the total quantity and size of 
+particulates a device may generate is an indication of embolic risk. Due to lower embolic risks of 
+peripheral devices as compared to other vasculatures, if the coating and substrate are not novel 
+and coating integrity testing has been conducted with acceptable results, a particulate evaluation 
+may not be needed. However, this testing should be conducted if these factors have not been met, 
+or to further support the coating integrity of your device.
+Recommendation: We recommend that you measure the total quantity and size of the particulates 
+generated during the simulated use of your device, addressing the aspects described below.
+
+---
+
+<!-- Page 22 -->
+Contains Nonbinding Recommendations
+18
+Test Samples
+We recommend conducting testing on the finished product that was subjected to all 
+manufacturing processes, including sterilization. Otherwise, discussion of, and justification for, 
+the differences between the test article and finished product should be provided. A scientific or 
+statistical justification for the sample size should be provided. We recommend that you 
+implement a sampling plan to examine multiple lots of product (≥3) to assess both inter- and 
+intra-lot variability. You should perform testing on the extremes and an appropriate intermediate 
+size for the entire product matrix proposed (i.e., “four corners” and intermediate size matrix; see 
+Table 6.)
+It may be possible to combine the particulate evaluation and simulated use coating integrity 
+testing (Section III.G(1)l) with simulated use testing (Section III.G(1)b), but you should take care 
+to ensure that only minimal additional handling of the sample is required for the coating integrity 
+evaluation such that particulates are neither lost nor generated.
+Interpretation of Data
+Particulate testing, if warranted, should be conducted as part of your design verification testing 
+and should include acceptance criteria (i.e., not be for characterization only). A rationale for the 
+criteria used as well as a discussion of the results should also be provided. The discussion of 
+acceptable particulate evaluation and limits should include a justification that the number and 
+size of particulates is not expected to impact safety or clinical performance. This may include a 
+reference to any applicable standards, the use of side-by-side testing with a legally marketed 
+device (e.g., predicate device) demonstrating equivalent results, or references to animal testing or 
+other available safety information. Because acceptable number and size of particulates for 
+devices such as catheters have not been standardized, a clinically relevant scientific rationale for 
+the particulate acceptance criteria, which should consider the device indication, the procedure in 
+which the device is used, and the tissues or organs that may be affected, should be provided.
+Test Methods
+We recommend that you evaluate particulate generated by the entire PTA system, including 
+accessory devices expected to be used during a clinical procedure. Catheters should be tracked 
+through an aqueous, tortuous path fixture (as described in Section III.G(1)b) and then expanded 
+in an aqueous medium to the maximum labeled diameter described in the instructions for use 
+prior to visual inspection. When deployed, the balloon should be in direct contact with the 
+simulated vessel without the use of other coatings, lubricants, sheaths, or protective wraps 
+between the balloon and the simulated vessel. To ensure measurement of the total number of 
+particulates that could be potentially introduced into the bloodstream, the catheter should be 
+inserted into the test fixture to the extent at which it would be inserted in clinical use. The total 
+number of particulates, including those from the catheter and accessory devices, should be 
+reported in each of three size ranges: ≥10µm, ≥25µm, and at the largest size for which validation 
+yields ≥75% recovery. At a minimum, the largest size should be ≥50µm. Appropriate precautions 
+should be taken to ensure that the particles are suspended during sampling for particle counting 
+and sizing to minimize artifacts from the test system.
+
+---
+
+<!-- Page 23 -->
+Contains Nonbinding Recommendations
+19
+We recommend that you perform particulate evaluation under appropriately challenging 
+conditions of use. For example, for balloons intended for ISR or post-deployment stent 
+expansion, we recommend that you evaluate the quantity and sizes of particulates generated from 
+tracking the device through the tortuous path fixture (as described in Section III.G(1)b) and 
+inflating to the largest labeled diameter within a stent which has been deployed in the mock 
+vessel.
+Method Validation
+You should describe and validate particle counting and sizing methods. Validation should be 
+conducted using particulate standards of known quantity and size. Particles should be introduced 
+into your model and counting apparatus in a similar manner as the device would be introduced 
+clinically. The percent recovery, or accuracy, should be determined and meet the criteria 
+described above. For a system to be considered validated, ≥90% recovery should be 
+demonstrated for the ≥10µm and ≥25µm size ranges. Please note that recovery rates well above 
+100% would not be considered valid.
+Acceptance Criteria
+Particulate testing should include acceptance criteria (i.e., not be for characterization only). 
+Specific criteria should be established, justified, and met. If large amounts of particulates are 
+shed, it may be important to demonstrate comparability to a legally-marketed predicate device 
+used in the same target vasculature or provide evidence of safety through your animal studies 
+(with appropriate downstream assessments). A scientific rationale should be provided to support 
+the particulate acceptance criteria that are used. Note that safety issues related to particulates 
+may go undetected in patients or may be attributed to the disease or other comorbidities and, 
+therefore, a rationale based only on history of safe clinical use of the device, or other similar 
+catheters, is often not sufficient to justify particulate acceptance criteria.
+Particulate Chemical Identification 
+Particulate matter can be generated from numerous sources, including the manufacturing process 
+and/or environment contamination, from the breakdown of any coating on the catheter, or from 
+the device packaging. It is important to establish that a significant number of particulates are not 
+being introduced from other unintended sources, as described above, which may present an 
+embolic risk. Therefore, if a large amount of particulates are shed from your device, it may be 
+pertinent to conduct additional analysis, such as a chemical characterization of the particulates, 
+in order to determine their source. For this testing, FDA recommends that you perform chemical 
+identification of representative particulate populations and report the results in relative amounts 
+(percentages). Chemical characterization of captured particulates for identity can be 
+accomplished through a variety of methods including energy-dispersive x-ray spectroscopy 
+(EDX), Fourier transform infrared (FTIR) spectroscopy, Raman spectroscopy, mass 
+spectroscopy, or diffraction techniques.
+Chemical identification of representative particulate material should be performed with 
+justification for the methods used and samples analyzed. The sample should be sufficiently large 
+in order to ensure that the particulates assessed are representative of the particulates that would
+
+---
+
+<!-- Page 24 -->
+Contains Nonbinding Recommendations
+20
+be generated during the deployment of the device. The method used should be capable and 
+sufficient for chemical identification. Specific details regarding the capture and analysis (e.g., 
+how the samples were filtered, color images of the filters, how the samples were chosen, details 
+regarding the number of particulates analyzed as compared to the total particulates filtered) of 
+the particulates should be provided. Regarding sizes to be assessed, the four corners testing 
+paradigm may not be needed if adequate justification is provided for why the device sizes used 
+for testing are representative of their entire product matrix (e.g., same materials, manufacturing 
+processes).
+There are certain instances when providing additional supporting analyses may allow for reduced 
+(e.g., smaller sample size, fewer particulates analyzed) or omitted chemical identification testing. 
+Supporting analyses could include any or all of the following:
+·
+particulate quantitation studies with the uncoated balloon catheter manufactured in the 
+identical way as the coated device but including potential inclusion of a “dummy” 
+coating process, demonstrating sufficiently low amounts of particulates;
+·
+a discussion regarding the potential interactions of your coating, including all 
+components, with the catheter materials and their potential to introduce some of the 
+catheter extractables/leachables into the particulates;
+·
+representative color images of the particulates captured on the entire filter demonstrating 
+no concerning information (e.g., unexpected appearance);
+·
+a risk assessment regarding potential contaminants and the coating chemical 
+compositions;
+·
+a discussion of the animal studies data indicating no concerning downstream or embolic 
+events; and
+·
+a discussion and references to any historical clinical data indicating no concerning 
+embolic events.
+(2)
+Additional Tests for Catheters Intended for Infusion of 
+Contrast Media or Other Fluids 
+a. 
+Catheter Body Burst Pressure 
+Significance: The catheter body should be designed to withstand pressures typically needed to 
+achieve contrast media flow rates used in clinical practice. Inability to withstand pressures that 
+are typical of clinical use could lead to device failure or vessel damage.
+Recommendation: We recommend that you follow ISO 10555-1, Annex F, for burst pressure 
+testing. In addition to what is described in this standard, the following should be taken into 
+consideration when conducting balloon inflation and deflation time testing.
+We recommend that you determine the maximum pressure that the catheter body can withstand 
+during injection. We recommend you conduct the testing under clinical use conditions (i.e.,
+
+---
+
+<!-- Page 25 -->
+Contains Nonbinding Recommendations
+21
+including use of a syringe, automatic injector). The contrast medium or fluid should be 
+representative of worst-case clinical conditions. We also recommend you provide the clinical 
+basis for your acceptance criteria.
+b.
+Infusion Flow Rate 
+Significance: The catheter should be designed to achieve clinically acceptable contrast media 
+flow rates. Inability to achieve acceptable flow rates could lead to user error and adverse clinical 
+consequences.
+Recommendation: We recommend that you follow ISO 10555-1, Annex E, for flowrate testing. 
+In addition to what is described in this standard, the following should be taken into consideration 
+when conducting balloon inflation and deflation time testing.
+We recommend that you conduct testing that demonstrates that the catheter is capable of 
+achieving clinically acceptable contrast media flow rates. We recommend that testing be 
+conducted at maximum catheter burst pressures (as identified in Section III.G(2)a) as well as 
+pressures typical of clinical use. We recommend that you report the maximum flow rate in the 
+device labeling. We also recommend you provide the clinical basis for your acceptance criteria. 
+ 
+(3)
+Additional Tests for Catheters Intended for In-Stent 
+Restenosis (ISR) Use or for Stent Expansion following Stent 
+Deployment 
+If you label a PTA catheter for ISR use or for stent expansion immediately following stent 
+deployment (for purposes of securing the stent to the vessel wall and ensuring that the stent is 
+completely deployed), we recommend you conduct balloon rated burst pressure and fatigue 
+testing within an expanded stent (see Sections III.G(1)c and III.G(1)d). If the balloon has a 
+coating on it, we also recommend conducting coating integrity and particulates testing in a 
+simulated use model that includes an expanded stent (see Sections III.G(1)l and III.G(1)m). 
+ 
+(4)
+Additional Tests for Scoring/Cutting Balloons 
+Scoring and cutting balloons concentrate the dilating forces along the scoring elements or 
+atherotomes. Due to the additional design features, scoring and cutting balloons have additional 
+considerations beyond a standard PTA catheter.
+a.
+Scoring/Cutting Mechanism Securement 
+Significance: Detachment of the scoring/cutting mechanism(s), such as wire or atherotomes, 
+could result in device failure, vessel damage, and/or embolic risk due to device remnants within 
+the vasculature.
+Recommendations: We recommend that you determine the force (e.g., tensile, shear) at which 
+the bonding of the scoring/cutting mechanism fails. We recommend you provide the clinical 
+basis for your test method and acceptance criteria based on the type and level of risk.
+
+---
+
+<!-- Page 26 -->
+Contains Nonbinding Recommendations
+22
+b.
+Scoring/Cutting Performance  
+Significance: The scoring/cutting mechanism of the device introduces additional risks, such as 
+vascular damage, as compared to a standard PTA catheter. Failure to achieve adequate scoring or 
+cutting could lead to the device not performing as intended. 
+Recommendations: We recommend that you demonstrate that the device can score a lesion, as 
+intended. Performance of your device should be evaluated in a calcified bench model, animal 
+model with calcified lesions, cadaveric model, and/or clinical study and compared to a legally 
+marketed predicate device. We encourage you to contact the FDA early to discuss the proposed 
+model to evaluate the scoring/cutting performance (see FDA guidance “Requests for Feedback 
+and Meetings for Medical Device Submissions: The Q-Submission Program”10).
+c.
+Substantially-Equivalent Safety Outcomes (Demonstration of 
+No Added Risks)  
+Significance: If a scoring/cutting balloon catheter has novel technological characteristics (i.e., 
+scoring/cutting mechanism that is different from the standard scoring wire or cutting atherotomes 
+of the predicate device), additional safety questions may arise, such as added risk of vessel 
+dissection or perforation.
+Recommendations: If different technological characteristics as compared to the predicate are 
+used to achieve the intended function, we recommend that you assess whether the safety 
+outcomes (i.e., scoring depth, perforation/dissection rate) of your device are substantially 
+equivalent to those of the identified predicate, using the predicate device as the control in an 
+animal model and/or clinical study.
+H.
+Animal Safety and Performance Testing 
+Significance:  Animal testing is generally recommended to evaluate the in vivo safety and 
+performance of some specialty catheters and potentially some PTA balloon catheters, particularly 
+for new designs, significant device modifications, and new indications for use. An example of 
+this is for a scoring balloon with a new cutting mechanism.
+Recommendation:  Animal testing of PTA balloon catheters and specialty catheters should 
+address factors that cannot be evaluated through bench tests or in a clinical study. The study 
+design and endpoints should be based upon the mechanism of action of the device and mitigation 
+of risk. 
+FDA supports the principles of the “3Rs,” to replace, reduce, and/or refine animal testing when 
+feasible. You should consider the best practices for the development, conduct and presentation of 
+these animal studies while incorporating modern animal care and use strategies.
+We encourage manufacturers to take advantage of the Q-Submission Program to ensure that the 
+animal study protocol addresses safety concerns and contains elements which are appropriate for 
+10 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/requests-feedback-and-meetings-
+medical-device-submissions-q-submission-program
+
+---
+
+<!-- Page 27 -->
+Contains Nonbinding Recommendations
+23
+a regulatory submission (e.g., the study should be performed under Good Laboratory Practice 
+(GLP) regulations as stated in 21 CFR 58 at an animal study facility with appropriate licensure 
+and accreditations).11 In addition, if you are proposing to use a non-animal testing method that 
+you believe is suitable, adequate, validated, and feasible, we recommend that you discuss the 
+proposal using the Q-Submission Program. We will consider if such an alternative method could 
+be assessed for equivalency to an animal test method.  For details on the Q-Submission Program, 
+please refer to the guidance “Requests for Feedback and Meetings for Medical Device 
+Submissions: The Q-Submission Program.”12
+For devices with notable dissimilarity from legally-marketed PTA devices (e.g., new indications, 
+designs, technology), we recommend that you conduct animal testing to confirm safety of the 
+device and procedure and to evaluate the performance, including functional characteristics, of the 
+PTA or specialty catheter.
+For scoring balloons, we strongly recommend animal testing to demonstrate equivalent safety 
+outcomes for all scoring/cutting devices, as compared to their predicate, especially when the 
+technological characteristics differ. We recommend that you evaluate these devices in an 
+appropriate animal model and that you provide a supporting rationale for the chosen animal 
+model in your submission. The predicate device should be used as a control in these studies. We 
+strongly recommend that these studies be conducted in accordance with 21 CFR part 58 or 
+explain why the noncompliance would not impact the validity of the study data provided to 
+support a substantial equivalence determination.
+I.
+Clinical Performance Testing 
+Clinical evidence is generally unnecessary for most PTA balloon and specialty catheters; 
+however, such testing may be requested in situations such as the following:
+·
+indications for use dissimilar from legally marketed devices of the same type (e.g., 
+treatment of specific diseases or lesion types);
+·
+new technology (i.e., technology different from that used in legally marketed devices of 
+the same type); and
+·
+cases where engineering and/or animal testing raise issues that warrant further evaluation 
+with clinical evidence.
+If a clinical study is needed to demonstrate substantial equivalence, i.e., conducted prior to 
+obtaining 510(k) clearance of the device, the study should generally be conducted under the 
+Investigational Device Exemptions (IDE) regulation, 21 CFR 812. Generally, we believe PTA 
+balloon catheters and specialty catheters addressed by this guidance document are significant risk 
+11 See also FDA Guidance “General Considerations for Animal Studies Intended to Evaluate Medical Devices” 
+(https://www.fda.gov/regulatory-information/search-fda-guidance-documents/general-considerations-animal-
+studies-medical-devices).
+12 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/requests-feedback-and-meetings-
+medical-device-submissions-q-submission-program
+
+---
+
+<!-- Page 28 -->
+Contains Nonbinding Recommendations
+24
+devices subject to all requirements of 21 CFR part 812. Please see the FDA guidance, 
+“Significant Risk and Nonsignificant Risk Medical Device Studies.”13 In addition to the 
+requirements of 21 CFR part 812, sponsors of such trials must comply with the regulations 
+governing institutional review boards (21 CFR part 56) and informed consent (21 CFR part 50).  
+When data from clinical investigations conducted outside the United States are submitted to 
+FDA for PTA and specialty catheters, the requirements of 21 CFR 812.28 may apply.14  21 CFR 
+812.28 outlines the conditions for FDA acceptance of clinical data from investigations conducted 
+outside the US when submitted to support premarket submissions. For more information, see the 
+FDA guidance, “Acceptance of Clinical Data to Support Medical Device Applications and 
+Submissions: Frequently Asked Questions.”15
+In some cases, “real-world data” (RWD) may be used to support expansion of the indication for 
+a device for which 510(k) clearance has already been obtained. Whether the collection of RWD 
+for a legally-marketed device requires an IDE depends on the particular facts of the 
+situation. Specifically, if a cleared device is being used in the normal course of medical practice, 
+an IDE would likely not be required. For additional information regarding this topic, please refer 
+to the FDA Guidance entitled “Use of Real-World Evidence to Support Regulatory Decision-
+Making for Medical Devices.”16
+J.
+Labeling 
+The regulatory submission must include proposed labeling in sufficient detail to satisfy the 
+requirements of 21 CFR 807.87(e) for premarket notifications. Labeling for PTA balloon 
+catheters and specialty balloons should include all applicable information, including indications, 
+contraindications, warnings, product information, a summary of the clinical data (if applicable), 
+and directions for use.
+As prescription devices, PTA balloon and specialty catheters are exempt from having adequate 
+directions for lay use under section 502(f)(1) of the Federal Food, Drug, and Cosmetic Act 
+(FD&C Act) as long as the conditions in 21 CFR 801.109 are met. For instance, labeling must 
+include adequate information for practitioner use of the device, including indications, effects, 
+routes, methods, frequency and duration of administration (e.g., infusion time, inflation 
+duration), and any relevant hazards, contraindications, side effects and precautions (21 CFR 
+801.109(d)).
+K.
+Modifications 
+In accordance with 21 CFR 807.81(a)(3), a device change or modification “that could 
+significantly affect the safety or effectiveness of the device” or represents “a major change or 
+13 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/significant-risk-and-nonsignificant-
+risk-medical-device-studies
+14 Applies to data from clinical investigations that began on or after February 21, 2019 and are submitted to support 
+a premarket submission, including IDEs, PMAs, and 510(k)s.
+15 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/acceptance-clinical-data-support-
+medical-device-applications-and-submissions-frequently-asked
+16 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/use-real-world-evidence-support-
+regulatory-decision-making-medical-devices
+
+---
+
+<!-- Page 29 -->
+Contains Nonbinding Recommendations
+25
+modification in the intended use of the device” requires a new 510(k).17 The changes or 
+modifications listed below are examples of changes that may require submission of a new 
+510(k). Note that this list is not exhaustive but provides examples of modifications that are likely 
+to require submission of a new 510(k). For additional details, please see FDA guidance 
+“Deciding When to Submit a 510(k) for a Change to an Existing Device.”18
+Such changes or modifications include:
+·
+Change in device dimensions: FDA considers dimensional changes to be modifications in 
+design. This type of change could significantly affect safety and effectiveness of the 
+device as it may alter the device performance. Thus, if dimensional changes are not 
+within the range that was previously cleared, testing may be needed to support the 
+change. The magnitude and criticality of the modified dimension should be considered 
+when determining if a new 510(k) is needed.  
+·
+Change to indirect or direct blood contacting components: FDA considers these changes 
+to be modifications in material, which could significantly affect safety and effectiveness 
+of the device by altering engineering attributes and/or introducing different types or 
+quantities of residual chemicals, which could result in a toxic response. Therefore, a change 
+in the material could impact device performance and biocompatibility, which could 
+impact patient safety.
+·
+Change in sterilization technique: Depending on the type of change, a change in 
+sterilization method can be significant as it could significantly affect safety and 
+effectiveness of the device (e.g., impact device sterility and biocompatibility). For 
+example, changes to an ethylene oxide sterilization process may leave increased ethylene 
+oxide residuals. Additionally, changes in sterilization may unintentionally affect device 
+materials, which could consequently affect the safety and/or performance of the device. 
+The potential impact of the sterilization change on material performance and 
+characteristics should be considered when determining the need for a new 510(k).
+17 Section 3308 of the Food and Drug Omnibus Reform Act of 2022, Title III of Division FF of the Consolidated 
+Appropriations Act, 2023, Pub. L. No. 117-328 (“FDORA”), enacted on December 29, 2022, added section 515C 
+“Predetermined Change Control Plans for Devices” to the FD&C Act (section 515C). Under section 515C, FDA can 
+approve or clear a predetermined change control plan (PCCP) for a device that describes planned changes that may 
+be made to the device and that would otherwise require a supplemental premarket approval application or premarket 
+notification. For example, section 515C provides that a supplemental premarket approval application (section 
+515C(a)) or a premarket notification (section 515C(b)) is not required for a change to a device if the change is 
+consistent with a PCCP that is approved or cleared by FDA. Section 515C also provides that FDA may require that a 
+PCCP include labeling for safe and effective use of a device as such device changes pursuant to such plan, 
+notification requirements if the device does not function as intended pursuant to such plan, and performance 
+requirements for changes made under the plan. If you are interested in proposing a PCCP in your marketing 
+submission, we encourage you to submit a Pre-Submission to engage in further discussion with CDRH. See FDA’s 
+guidance “Requests for Feedback and Meetings for Medical Device Submissions: The Q-Submission Program” 
+available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/requests-feedback-and-
+meetings-medical-device-submissions-q-submission-program.
+18 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/deciding-when-submit-510k-change-
+existing-device
+
+---
+
+<!-- Page 30 -->
+Contains Nonbinding Recommendations
+26
+Examples of changes or modifications in the indications for use of the device that would likely 
+require a new 510(k) are:
+·
+A change in specific lesion characteristics (e.g., chronic total occlusion, ISR).
+·
+Claims in improvement of outcomes in other technologies (e.g., pre-treatment with 
+scoring balloons improves outcomes of drug-coated balloons).
+We believe that the following modifications will likely not require submission of a new 510(k):
+·
+Minor changes in packaging: A minor change in packaging (e.g., replacing hardcopy 
+instructions for use with an electronic version, update to the expiration date) is not 
+expected to impact device safety and performance.
+·
+Increase in shelf-life: An increase in device shelf-life is not expected to impact device 
+safety and performance as long as the testing protocol has been previously reviewed and 
+accepted in a prior submission. Additionally, the test results should fall within the 
+acceptance criteria previously found to be acceptable.
+
+<!-- fulltext-end -->

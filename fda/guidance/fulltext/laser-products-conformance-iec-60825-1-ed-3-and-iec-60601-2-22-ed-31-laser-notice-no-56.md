@@ -1,0 +1,340 @@
+# Laser Products - Conformance with IEC 60825-1 Ed. 3 and IEC 60601-2-22 Ed. 3.1 (Laser Notice No. 56): Guidance for Industry and Food and Drug Administration Staff
+
+**Source:** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/laser-products-conformance-iec-60825-1-ed-3-and-iec-60601-2-22-ed-31-laser-notice-no-56](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/laser-products-conformance-iec-60825-1-ed-3-and-iec-60601-2-22-ed-31-laser-notice-no-56)
+
+**Published:** 2023-02-21
+
+---
+
+<!-- Page 1 -->
+Contains Nonbinding Recommendations
+Laser Products – Conformance with 
+IEC 60825-1 Ed. 3 and 
+IEC 60601-2-22 Ed. 3.1 
+(Laser Notice No. 56)
+Guidance for Industry and
+Food and Drug Administration Staff
+Document issued on February 21, 2023. 
+Document originally issued on May 8, 2019.
+For questions about this document, contact Office of Health Technology 8 (OHT8): Office 
+of Radiological Health at RadHealth@fda.hhs.gov.
+U.S. Department of Health and Human Services
+Food and Drug Administration 
+Center for Devices and Radiological Health
+
+---
+
+<!-- Page 2 -->
+Contains Nonbinding Recommendations
+Preface
+Public Comment
+You may submit electronic comments and suggestions at any time for Agency consideration to 
+https://www.regulations.gov. Submit written comments to the Dockets Management Staff, Food 
+and Drug Administration, 5630 Fishers Lane, Room 1061, (HFA-305), Rockville, MD 20852. 
+Identify all comments with the docket number FDA-2017-D-7011. Comments may not be acted 
+upon by the Agency until the document is next revised or updated.
+Additional Copies
+Additional copies are available from the Internet. You may also send an e-mail request to CDRH-
+Guidance@fda.hhs.gov to receive a copy of the guidance. Please use the document number 
+GUI01500024 to identify the guidance you are requesting.
+
+---
+
+<!-- Page 3 -->
+Contains Nonbinding Recommendations
+1
+Laser Products – Conformance with 
+IEC 60825-1 Ed. 3 and 
+IEC 60601-2-22 Ed. 3.1 
+(Laser Notice No. 56)
+Guidance for Industry and
+Food and Drug Administration Staff
+I. 
+Introduction
+This guidance describes the Food and Drug Administration’s (FDA) approach regarding 
+manufacturers’ compliance with FDA’s performance standards for laser products. FDA 
+recognizes that while there are many similarities between International Electrotechnical 
+Commission (IEC) standards 60825-1: Safety of laser products - Part 1: Equipment 
+classification, and requirements, Edition 3.0 and 60601-2-22: Medical electrical equipment - 
+Part 2-22: Particular requirements for basic safety and essential performance of surgical, 
+cosmetic, therapeutic and diagnostic laser equipment, Edition. 3.1 and FDA’s laser performance 
+standards, there are clauses of these IEC standards that differ significantly from FDA’s 
+performance standards for laser products. For the manufacturers that conform to the clauses of 
+IEC 60825-1 Ed. 3 and IEC 60601-2-22 Ed. 3.1 that FDA identifies as comparable with 21 CFR 
+1040.10 and 1040.11, FDA does not intend to enforce the applicable requirements in 21 CFR 
+1040.10 and 1040.11.
+In general, FDA’s guidance documents, including this guidance, do not establish legally 
+enforceable responsibilities. Instead, guidance describes the Agency’s current thinking on a topic 
+and should be viewed only as recommendations, unless specific regulatory or statutory 
+requirements are cited. The use of the word should in Agency guidances means that something is 
+suggested or recommended, but not required.
+This guidance represents the current thinking of the Food and Drug Administration 
+(FDA or Agency) on this topic. It does not establish any rights for any person and is not 
+binding on FDA or the public. You can use an alternative approach if it satisfies the 
+requirements of the applicable statutes and regulations. To discuss an alternative 
+approach, contact the FDA staff or Office responsible for this guidance as listed on the 
+title page.
+
+---
+
+<!-- Page 4 -->
+Contains Nonbinding Recommendations
+3
+II. Background
+FDA regulates radiation-emitting electronic products, including all types of lasers products. Laser 
+product means any manufactured product or assemblage of components which constitutes, 
+incorporates, or is intended to incorporate a laser or laser system. A laser or laser system that is 
+intended for use as a component of an electronic product shall itself be considered a laser product 
+(see 21 CFR 1040.10(b)(21)). The Agency sets radiation safety product performance standards that 
+must be met by manufacturers in order for laser products to be legally sold in the U.S. market. 
+Laser products may fall under both the definition of a medical device and that of an electronic 
+product, under sections 201(h) and 531(2) of the Federal Food, Drug, and Cosmetic Act (FD&C 
+Act), respectively. Such products are subject to the provisions of the FD&C Act and its 
+implementing regulations that apply to medical devices1 and electronic products.2,3
+Among other requirements, laser products for introduction into United States commerce, including 
+imports, must:
+·
+Comply with 21 CFR 1040.10 and 1040.11 as applicable,
+·
+Be certified and identified in accordance with 21 CFR 1010.2 and 1010.3, and
+·
+Be reported in accordance with 21 CFR 1002.1.
+Manufacturers should be aware that CDRH previously issued notices to laser product manufacturers 
+and importers and those are available on FDA’s website at https://www.fda.gov/radiation-emitting-
+products/electronic-product-radiation-control- program/electronic-product-radiation-control-
+program-industry-guidance. 
+FDA recognizes that the International Electrotechnical Commission (“IEC”) is a global 
+organization that prepares and publishes international standards for electrical, electronic, and related 
+technologies, including laser products. This means that manufacturers distributing products in the 
+U.S. and other countries might have to ensure conformance of their products with IEC standards, as 
+well as comply with FDA regulatory requirements. Complying with FDA regulations and 
+conforming to the identified IEC standards may cause manufacturers to duplicate their efforts.
+FDA acknowledges the advantages of a universal set of device-specific criteria and requirements. 
+Moreover, FDA believes that under the circumstances described in this guidance, conformance with 
+certain IEC standards would provide adequate protection of the public health and safety for laser 
+products similar to FDA’s performance standards in 21CFR 1040.10 and 1040.11.
+FDA eventually intends to amend its standards for laser products at 21 CFR 1040.10 and 1040.11 to 
+harmonize many of its requirements with those of the IEC because FDA acknowledges the 
+advantages of one set of criteria and requirements worldwide. Until these requirements are 
+harmonized, for laser product manufacturers that conform with the comparable clauses in IEC 
+60825-1 Ed. 3 and IEC 60601-2-22 Ed. 3.1, as described in this document, FDA does not intend to 
+1 https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-assistance/overview-device-regulation 
+2 https://www.fda.gov/radiation-emitting-products/electronic-product-radiation-control-program 
+3 The regulations specific to medical devices and electronic products are found in 21 CFR Chapter I Subchapter H on 
+Medical Devices and Subchapter J on Radiological Health, respectively.
+
+---
+
+<!-- Page 5 -->
+Contains Nonbinding Recommendations
+3
+enforce the comparable requirements in 21 CFR 1040.10 and 21 CFR 1040.11.
+In June 2007 FDA issued a guidance entitled “Laser Products – Conformance with IEC 60825-1 
+and IEC 60601-2-22 (Laser Notice No. 50); Guidance for Industry and FDA Staff.”4 Laser Notice 
+No. 50 states that FDA does not intend to enforce applicable requirements of 21 CFR 1040.10 if the 
+manufacturers comply with comparable clauses of IEC 60825-1 Ed. 1.2 or 2 and IEC 60601-2-22 
+Ed. 3, as set forth in Laser Notice No. 50. This guidance (Laser Notice No. 56) does not replace the 
+recommendations in Laser Notice No. 50.
+This guidance announces that if the laser product conforms to the clauses of IEC 60825-1 Ed. 3 and 
+IEC 60601-2-22 Ed. 3.1 identified in Section III as comparable with 21 CFR 1040.10 and 1040.11, 
+FDA does not intend to enforce applicable FDA requirements. For example, FDA does not intend 
+to enforce requirements relating to obtaining variances for laser products that conform to the 
+relevant portions of IEC 60825-1 Ed. 3 and IEC 60601-2-22 Ed. 3.1 identified as comparable with 
+21 CFR 1040.10 and 1040.11, as described in Section III below.
+III. Policy
+FDA recognizes that there are many similarities between FDA’s performance standards for laser 
+products (21 CFR 1040.10 and 1040.11) and comparable clauses of IEC standards (IEC 60825-1 
+Ed. 3 and IEC 60601-2-22 Ed. 3.1).
+In particular, FDA does not intend to enforce the requirements in the following sections of 21 CFR 
+part 1040, if the laser products are in conformance with the comparable clauses of IEC 60825-1 Ed. 
+3, and when applicable, 60601-2-22 Ed. 3.1 (for medical devices). Unless identified as a not 
+comparable IEC clause in subsection A below, FDA considers all other clauses of IEC 60825-1, Ed. 
+3 and IEC 60601-2-22 Ed. 3.1 as comparable to the following FDA performance standards:
+1040.10(b) Definitions 
+1040.10(c)(1) Classification*
+1040.10(d) Accessible emission limits 
+1040.10(e) Tests for determination of compliance 
+1040.10(f)(1) Protective housing
+4https://www.fda.gov/regulatory-information/search-fda-guidance-documents/laser-products-conformance-
+iec-60825-1-and-iec-60601-2-22-laser-notice-no-50
+
+---
+
+<!-- Page 6 -->
+Contains Nonbinding Recommendations
+4
+1040.10(f)(2) Safety interlocks** 
+1040.10(f)(3) Remote Interlock connector 
+1040.10(f)(4) Key control
+1040.10(f)(5) Laser radiation emission indicator 
+1040.10(f)(6) Beam attenuator
+1040.10(f)(7) Location of controls 
+1040.10(f)(8) Viewing optics 
+1040.10(f)(9) Scanning safeguard 
+1040.10(g) Labeling requirements 
+1040.10(h)(1) User information 
+1040.11(a) Medical laser products
+* Manufacturers should apply the interpretation sheets IEC 60825-1/ISH1:Interpration sheet 1 – 
+Safety of laser products – Part 1: Equipment classification and requirements and IEC 60825-1/ISH2: 
+Interpretation sheet 2 – Safety of laser products – Part 2: Safety of optical fibre communication 
+systems (OFCS). FDA may request additional information from your product Classification Testing 
+to confirm that the laser product is properly classified.
+** IEC 60825-1 Ed. 3 (6.3) indirectly requires redundancy or safe-failure for safety interlocks 
+designed to protect against human access from Class IIIb or IV laser radiation. This indirect 
+requirement is through the Classification Rules (4.3), reasonably foreseeable single-fault condition 
+sub-clause. Accordingly, laser products conforming to the identified clauses of the IEC standards 
+must have a redundancy or safe-failure in order to be considered comparable to 21 CFR 1040.10.
+FDA eventually intends to harmonize, through rulemaking, the requirements of 21 CFR Part 1040 
+with those of the IEC standards.
+A. Not Comparable IEC Clauses
+Certain clauses of IEC 60825-1 Ed. 3 and IEC 60601-2-22 Ed. 3.1 are considered not comparable to 
+FDA’s performance standards under 21 CFR 1040.10 and 1040.11 for the reasons discussed below. 
+While some information in these clauses of IEC 60825-1 Ed. 3 and IEC 60601-2-22 Ed. 3.1 are not 
+comparable with, or there may not be a comparable section in 21 CFR 1040.10 and 1040.11, laser 
+product manufacturers may find this information useful for inclusion in correspondence and 
+applications for variance or exemption submitted to FDA under 21 CFR 1010.4 or 1010.5, 
+respectively. These clauses of IEC 60825-1 Ed. 3 and IEC 60601-2-22 Ed. 3.1 may also be useful in 
+preparation of required reports in 21 CFR 1002 or in inclusion in the informational requirements in 
+21 CFR 1040.10(h), provided the information does not conflict with FDA’s performance standards.
+·
+The following IEC clauses and annexes of IEC 60825-1 Ed. 3 are not comparable to 
+FDA’s performance standards under 21 CFR 1040.10 and 1040.11 because they are 
+either not applicable or inconsistent with FDA’s performance standards: 1, 2, 3.4., 3.15, 
+3.16, 3.37, 3.45, 3.47, 3.50, 3.52, 3.59, 3.64, 3.65, 4.4 , 6.13 , 6.15.1, 6.16, 8.2, 9.1, 9.3, 
+9.4 , 9.5 and Annexes A through G. 
+·
+Sub-clause 3.25 (definition of collateral radiation) of IEC 60825-1 Ed. 3 is considered 
+not comparable to FDA’s performance standards under 21 CFR 1040.10 because it does 
+not include all electromagnetic radiation (e.g., X-ray emissions) found in the FDA 
+definition at 21 CFR 1040.10(b)(12). However, it is not likely that laser products with 
+electrical potentials of less than 20 kV will emit X-rays.
+
+---
+
+<!-- Page 7 -->
+Contains Nonbinding Recommendations
+5
+·
+Sub-Clause 3.48 (definition of laser product) of IEC 60825-1 Ed. 3 is considered not 
+comparable to FDA’s performance standards under 21 CFR 1040.10 because the IEC’s 
+definition does not include laser products intended for use as components, which are 
+defined as laser products in the FDA definition at 21 CFR 1040.10(b)(21). However, 
+IEC 608-25-1 Ed.3 acknowledges in Clause 1 – Scope and Object that certain 
+components or repair parts are laser products. FDA requires that component and repair 
+(or replacement) laser products comply with FDA’s performance standards for laser 
+products (see 21 CFR 1040.10(a)).
+·
+Sub-clause 3.49 (definition of laser radiation) of IEC 60825-1 Ed. 3 is considered not 
+comparable to FDA’s performance standards under 21 CFR 1040.10 because it does not 
+include all electromagnetic radiation emitted by the laser product that is detectable with 
+such controlled, stimulated radiation emitted through the aperture stop (except collateral 
+radiation) as found in the FDA definition at 21 CFR 1040.10(b)(22).
+·
+Sub-clause 5.2(f) of IEC 60825-1 Ed. 3 is considered not comparable to FDA’s 
+performance standards under 21 CFR 1040.10 because it instructs to avoid or eliminate 
+the contribution of collateral radiation to the measurement of laser radiation and because 
+it contradicts clause 4.3(b)(1). While it would not be appropriate to include collateral 
+radiation in measurements of laser radiation in Clause 5.2 Measurement of laser 
+radiation, manufacturers are instructed by clause 4.3(b)(1) to include collateral radiation 
+in measurements when classifying laser products. FDA also requires that collateral 
+radiation be measured separately when making classification measurements under 21 
+CFR 1040.10(c).
+·
+Sub-clause 6.1 (general remarks and modifications) of IEC 60825-1 Ed. 3 is considered 
+not comparable to FDA’s performance standards under 21 CFR 1040.10 because it does 
+not require recertification and re-identification as required by 21 CFR 1040.10(i). 
+Otherwise, Clause 6.1 contains information that manufacturers may find helpful, such as 
+ensuring that personnel responsible for classification receive training. You may wish to 
+include such information in reports/submissions to FDA.
+·
+Sub-clause 6.2.3 (removable laser system) of IEC 60825-1 Ed. 3 is considered not 
+comparable to FDA’s performance standards under 21 CFR 1040.10(c)(2) because the 
+FDA definition is not limited to plug-in connections to electrical mains or a battery.
+·
+Sub-clause 6.15.2 (collateral radiation) of IEC 60825-1 Ed. 3 is considered not 
+comparable to FDA’s performance standards under 21 CFR 1040.10 because it limits 
+collateral radiation by laser maximum permissible exposure values instead of a laser 
+class accessible emission limit as in 21 CFR 1040.10(d).
+The FDA performance standards for laser products requires the use of admissible 
+emissions limits values, including those for x-rays. Specifically, the performance 
+standard does not make assessments of collateral radiation dependent upon levels of 
+concern, rather such assessments are mandatory in 21 CFR 1040.10(d).
+· Clause 8 (Other informational requirements) of IEC 60825-1 Ed. 3 is considered not 
+comparable to FDA’s performance standards under 21 CFR 1040.10 because it does not 
+include collateral radiation as in 21 CFR 1040.10(h). Otherwise, Clause 8 contains 
+information that manufacturers may find helpful, such as the applicable MPE and 
+NOHD for Class 3B and Class 4 laser products. You may wish to include such 
+information in reports/submissions to FDA.
+
+---
+
+<!-- Page 8 -->
+Contains Nonbinding Recommendations
+6
+For the IEC clauses listed below, FDA recommends you follow other FDA issued guidance 
+documents, as appropriate:
+· Sub-clause 4.4 (Laser products designed to function as conventional lamps) of IEC 
+60825-1 Ed. 3: For guidance on the application of international consensus standards to 
+laser illuminated projectors, please see FDA’s guidance entitled “Classification and 
+Requirements for Laser Illuminated Projectors (LIPs) (Laser Notice No. 57); Guidance 
+for Industry and Food and Drug Administration Staff.”5
+·
+Sub-clause 9.4 Electric toys of IEC 60825-1 Ed. 3: For guidance on “electric toys,” 
+please see FDA’s guidance entitled “Minimizing Risk for Children’s Toy Laser 
+Products; Guidance for Industry and Food and Drug Administration Staff.”6
+B. Performance Standards Not Subject to this Guidance
+This guidance does not affect the following sections of FDA’s performance standards for laser 
+products. These FDA performance standards are beyond the scope of the IEC standards, are 
+sufficiently different from the IEC standards, or are not normative and included as 
+recommendations in the User’s Guide clause of the IEC standards. Specifically:
+1010.2 Certification
+1010.3 Identification
+1010.4 Variances
+1010.5 Exemptions for products intended for United States Government use 
+1040.10(a) Applicability
+1040.10(c)(2) Removable laser systems 
+1040.10(h)(2) Purchasing and servicing information 
+1040.10(i) Modification of a certified product
+1040.11(b) Surveying, leveling and alignment laser products 
+1040.11(c) Demonstration laser products
+5https://www.fda.gov/regulatory-information/search-fda-guidance-documents/classification-and-requirements-laser-
+illuminated-projectors-lips-laser-notice-no-57 
+6https://www.fda.gov/regulatory-information/search-fda-guidance-documents/minimizing-risk-childrens-toy-laser-
+products
+
+---
+
+<!-- Page 9 -->
+Contains Nonbinding Recommendations
+7
+C. Certification Requirements
+Manufacturers of laser products must certify that their products comply with FDA’s performance 
+standards (see 21 CFR 1010.2). The certification must be provided on a label or tag permanently 
+affixed to or inscribed on the product so as to be legible, readily accessible to view when the 
+product is fully assembled for use, and the label or tag must be in the English language (see 21 CFR 
+1010.2(b)). FDA does not intend to enforce the requirements in 21 CFR 1010.2 for manufacturers 
+that conform to comparable clauses of IEC 60825-1 Ed. 3 and IEC 60601-2-22 Ed. 3.1, and who 
+use the following statement on the certification label or tag:
+For laser products that are also considered a medical device:
+1. “Complies with FDA performance standards for laser products except for 
+conformance with IEC 60825-1 Ed. 3 and IEC 60601-2-22 Ed. 3.1, as described in 
+Laser Notice No. 56, dated May 8, 2019.” or
+2. “Complies with 21 CFR 1040.10 and 1040.11 except for conformance with IEC 
+60825-1 Ed. 3 and IEC 60601-2-22 Ed. 3.1, as described in Laser Notice No. 56, 
+dated May 8, 2019.”
+For laser products that are not considered a medical device:
+1. “Complies with FDA performance standards for laser products except for 
+conformance with IEC 60825-1 Ed. 3., as described in Laser Notice No. 56, dated 
+May 8, 2019.” or
+2. “Complies with 21 CFR 1040.10 and 1040.11 except for conformance with IEC 
+60825-1 Ed. 3., as described in Laser Notice No. 56, dated May 8, 2019.”
+Under 21 CFR 1010.2(c), this certification must be based upon a test, in accordance with the 
+standard, of the individual article to which it is attached or upon a testing program that is in 
+accordance with good manufacturing practice. The manufacturer’s quality system should address 
+various aspects of radiation safety and conformity to standards through design controls. Testing 
+results should be documented and placed in the firm’s records.
+As identified in Table 1 of 21 CFR 1002.1, manufacturers of certain laser products must submit 
+product reports or supplemental reports that describe changes to products made in accordance with 
+this guidance. Manufacturers may use Form FDA 3632 “Guide for Preparing Product Reports for 
+Lasers and Products Containing Lasers”7 to submit these reports.
+7https://www.fda.gov/media/72593/download
