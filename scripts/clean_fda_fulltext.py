@@ -53,7 +53,7 @@ _SENTENCE_STARTERS = (
     "The ", "This ", "These ", "Those ", "That ", "A ", "An ", "As ", "For ",
     "In ", "On ", "At ", "To ", "Of ", "If ", "When ", "While ", "Although ",
     "However ", "Therefore ", "Additionally ", "Furthermore ", "Moreover ",
-    "FDA ", "Under ", "It ", "Its ", "Such ", "Any ", "All ", "Each ",
+    "FDA ", "Under ", "It ", "We ", "Our ", "Its ", "Such ", "Any ", "All ", "Each ",
     "Manufacturers ", "Sponsors ", "Entities ", "Device ", "Medical ",
     "Section ", "Appendix ", "Figure ", "Table ", "See ", "Note ",
 )
@@ -75,15 +75,73 @@ _TOP_ROMAN = (
 )
 
 _H2_TITLES = re.compile(
-    r"^(Introduction|Scope|Background|Definitions?|General Principles|"
-    r"Using |Medical |Cybersecurity Transparency|Cyber Devices|"
+    r"^(Introduction|Scope|Background|Definitions?|Terminology|Purpose|"
+    r"General Principles|Using |Medical |Cybersecurity Transparency|Cyber Devices|"
     r"Remediating|Recommended Content|Criteria for|Appendix|"
     r"Regulatory Requirements|Considerations for Labeling|"
     r"Relevant Considerations|Changes Involving|Guiding Principles|"
     r"Maintaining Safety|510\(k\)|FDA Actions|Submitter Actions|"
-    r"Q.?submission)\b",
+    r"Q.?submission|How to Use|Documentation Level|Policy for|"
+    r"Description of Modifications|Modification Protocol|Impact Assessment|"
+    r"Refuse to Accept|The Checklist|The Checklists|Paperwork Reduction|"
+    r"Additional Information)\b",
     re.I,
 )
+
+# Named section titles (PDF often omits I./A. markers; bold title alone).
+_NAMED_H2 = [
+    "Introduction",
+    "Scope",
+    "Background",
+    "Terminology",
+    "Definitions",
+    "Purpose",
+    "Relevant Consensus Standards and Guidance Documents",
+    "Addressing Hazards for Medical Devices in the MR Environment",
+    "Extent of Image Artifact",
+    "Reporting Results",
+    "MRI Safety Labeling",
+]
+
+_NAMED_H3 = [
+    "Consensus Standards",
+    "Guidance Documents",
+    "Magnetically Induced Displacement Force",
+    "Magnetically Induced Torque",
+    "Heating",
+    "Gradient Induced Vibration",
+    "Gradient Induced Extrinsic Electrical Potential (Unintended Stimulation)",
+    "Rectification of RF pulses from MR Exams (Unintended Stimulation)",
+    "Medical Device Malfunction",
+    "MR Safe",
+    "MR Unsafe",
+    "MR Conditional",
+    "Safety in MRI Not Evaluated",
+    "What is a significant change to device performance or safety specifications?",
+    "Determining whether activities are “remanufacturing”",
+    'Determining whether activities are "remanufacturing"',
+    "Establishment Registration and Medical Device Listing",
+    "Marketing Authorization",
+    "Medical Device Reporting and Electronic Product Reports",
+    "Reports of Corrections and Removals and Notifications of Defects",
+    "Quality System",
+    "Labeling",
+    "Documentation Level Evaluation",
+    "Software Description",
+    "Risk Management File",
+    "Software Requirements Specification (SRS)",
+    "System and Software Architecture Diagram",
+    "Software Design Specification (SDS)",
+    "Software Development, Configuration Management, and Maintenance Practices",
+    "Software Testing as part of Verification and Validation",
+    "Software Version History",
+    "Unresolved Software Anomalies",
+    "Contraindications",
+    "Warnings",
+    "Precautions",
+]
+
+_ROMAN_VAL = {r: i for i, r in enumerate(_TOP_ROMAN, start=1)}
 
 
 def clean_fulltext(text: str) -> str:
@@ -97,8 +155,14 @@ def clean_fulltext(text: str) -> str:
     body = _remove_stray_page_numbers(body)
     body, footnotes = _extract_footnotes(body)
     body = _rejoin_broken_paragraphs(body)
+    body = _fix_false_atx_headings(body)
     body = _fix_broken_list_items(body)
     body = _normalize_section_headings(body)
+    body = _promote_named_and_appendix_headings(body)
+    body = _rejoin_truncated_flowchart_headings(body)
+    body = _promote_numbered_subheadings(body)
+    body = _rejoin_truncated_flowchart_headings(body)
+    body = _repair_roman_heading_levels(body)
     body = _collapse_blank_lines(body)
 
     result = header + "\n" + body.strip()
@@ -314,10 +378,18 @@ def _title_like(s: str) -> bool:
 def _sentence_like(s: str) -> bool:
     if not s:
         return False
-    if len(s) > 50 and s[0].isupper():
+    words = s.split()
+    # Title Case / heading-like phrases are not sentences.
+    if len(words) >= 2 and not s.endswith((".", "?", "!")):
+        cap = sum(1 for w in words if w[:1].isupper() or not w[:1].isalpha())
+        if cap / len(words) >= 0.55:
+            return False
+    if len(s) > 40 and s[0].isupper():
         if s.startswith(_SENTENCE_STARTERS) or re.match(r"^[A-Z][a-z]+ ", s):
             return True
-    if s.startswith(_SENTENCE_STARTERS) and len(s) > 35:
+    if s.startswith(_SENTENCE_STARTERS) and len(s) > 30:
+        return True
+    if re.match(r"^(We|Our|You|Your|Please|Replace|Throughout)\b", s):
         return True
     return False
 
@@ -485,6 +557,8 @@ def _normalize_section_headings(text: str) -> str:
     def roman_heading(m: re.Match) -> str:
         num, title = m.group(1), m.group(2).strip()
         title = re.sub(r"\s+", " ", title)
+        # Provisional: multi-char romans are H2; ambiguous I/V/X demoted unless
+        # clearly a top-level title. _repair_roman_heading_levels finalizes.
         if num in ("I", "V", "X") and not _H2_TITLES.match(title):
             return f"\n### {num}. {title}"
         return f"\n## {num}. {title}"
@@ -498,8 +572,12 @@ def _normalize_section_headings(text: str) -> str:
 
     def appendix_heading(m: re.Match) -> str:
         ident, title = m.group(1), re.sub(r"\s+", " ", m.group(2).strip())
-        if _sentence_like(title) or len(title) > 90:
+        if _sentence_like(title) or len(title) > 120:
             return m.group(0)
+        sep = ". " if not title.startswith((":",)) else " "
+        if title.startswith(":"):
+            title = title.lstrip(": ").strip()
+            return f"\n## Appendix {ident}: {title}"
         return f"\n## Appendix {ident}. {title}"
 
     roman_alt = "|".join(sorted(_TOP_ROMAN, key=len, reverse=True))
@@ -524,24 +602,235 @@ def _normalize_section_headings(text: str) -> str:
         text,
         flags=re.M,
     )
+    # Only promote numbered headings when the number is alone on its line
+    # (PDF wrap). Do NOT promote "1. List item..." prose/checklist lines.
     text = re.sub(
         r"\n(\d+)\.\s*\n\s*([A-Z][^\n]+)",
-        lambda m: f"\n#### {m.group(1)}. {re.sub(r'\s+', ' ', m.group(2).strip())}",
+        lambda m: (
+            f"\n#### {m.group(1)}. {re.sub(r'\s+', ' ', m.group(2).strip())}"
+            if not _sentence_like(m.group(2)) and len(m.group(2).split()) <= 14
+            else m.group(0)
+        ),
         text,
     )
     text = re.sub(
-        r"\nAppendix\s+([A-Z0-9])\.\s*\n\s*([A-Z][^\n]+)",
+        r"\nAppendix\s+([A-Z0-9]+)\.\s*\n\s*([A-Z][^\n]+)",
         appendix_heading,
         text,
         flags=re.I,
     )
     text = re.sub(
-        r"\nAppendix\s+([A-Z0-9])\.\s+([A-Z][^\n]+)",
+        r"\nAppendix\s+([A-Z0-9]+)[.:]\s+([A-Z][^\n]+)",
         appendix_heading,
         text,
         flags=re.I,
     )
     return text
+
+
+def _fix_false_atx_headings(text: str) -> str:
+    """Rejoin PDF wraps that left a literal '#' starting a line (e.g. RFD #)."""
+    lines = text.split("\n")
+    out: list[str] = []
+    i = 0
+    while i < len(lines):
+        line = lines[i]
+        # False H1/H2: "# and confirm..." or "# " + lowercase continuation
+        if re.match(r"^#+\s+(and|[a-z])", line) and not re.match(r"^#+\s+[A-Z][A-Za-z].{8,}", line):
+            if out and out[-1].strip():
+                # Preserve a literal '#' (e.g. "RFD # and confirm...").
+                out[-1] = out[-1].rstrip() + " " + line.lstrip()
+                i += 1
+                continue
+        # "identify the RFD" then "# and confirm"
+        if re.match(r"^#\s+", line) and out and re.search(r"(RFD|No\.|number|ID)\s*$", out[-1], re.I):
+            out[-1] = out[-1].rstrip() + " " + line.lstrip()
+            i += 1
+            continue
+        out.append(line)
+        i += 1
+    return "\n".join(out)
+
+
+def _rejoin_truncated_flowchart_headings(text: str) -> str:
+    """Rejoin flowchart headings split after a trailing slash or mid-word."""
+    lines = text.split("\n")
+    out: list[str] = []
+    i = 0
+    while i < len(lines):
+        line = lines[i]
+        if (
+            re.match(r"^#{0,5}\s*A\d+", line)
+            and not line.rstrip().endswith(("?", ".", ":"))
+            and i + 1 < len(lines)
+        ):
+            nxt = lines[i + 1].strip()
+            if nxt and not nxt.startswith("#") and (
+                nxt[0].islower()
+                or nxt.startswith(("material", "ns ", "tions", "specifications", "indirectly"))
+            ):
+                line = line.rstrip() + " " + nxt
+                i += 1
+        out.append(line)
+        i += 1
+    return "\n".join(out)
+
+
+def _promote_named_and_appendix_headings(text: str) -> str:
+    """Promote known bare section titles and Appendix lines to markdown headings."""
+    for title in _NAMED_H2 + _NAMED_H3:
+        # Split when glued after a closing quote (not after "I." periods).
+        text = re.sub(
+            rf'([\u201d\u2019"\'])\s+({re.escape(title)})\b',
+            r"\1\n\n\2",
+            text,
+        )
+
+    def promote(level: int, titles: list[str], body: str) -> str:
+        hashes = "#" * level
+        for title in sorted(titles, key=len, reverse=True):
+            pat = re.compile(rf"(?m)^(?!#{{1,6}}\s)({re.escape(title)})\s*$")
+            body = pat.sub(lambda m, h=hashes: f"{h} {m.group(1)}", body)
+        return body
+
+    text = promote(2, _NAMED_H2, text)
+    text = promote(3, _NAMED_H3, text)
+
+    # Bare Appendix lines not already headings (dot or colon form).
+    def appendix_line(m: re.Match) -> str:
+        ident = m.group(1)
+        title = re.sub(r"\s+", " ", m.group(2).strip())
+        if len(title) > 120 or _sentence_like(title):
+            return m.group(0)
+        sep = ":" if m.group(0).find(":") != -1 and f"Appendix {ident}." not in m.group(0) else "."
+        # Prefer original separator style from match text
+        if re.search(rf"Appendix\s+{re.escape(ident)}\s*:", m.group(0), re.I):
+            return f"\n## Appendix {ident}: {title}"
+        return f"\n## Appendix {ident}. {title}"
+
+    text = re.sub(
+        r"(?m)^(?!#{1,6}\s)Appendix\s+([A-Z0-9]+)[.:]\s+([A-Z][^\n]+)$",
+        appendix_line,
+        text,
+    )
+    return text
+
+
+def _promote_numbered_subheadings(text: str) -> str:
+    """Promote flowchart A1/A2 and parenthetical (1)/(2) subheads."""
+
+    def a_step(m: re.Match) -> str:
+        code, title = m.group(1), re.sub(r"\s+", " ", m.group(2).strip())
+        # Require question / decision-node style; skip narrative mentions.
+        if not (
+            "?" in title
+            or re.match(r"^(Add|Is |Is there|Remove|Change)\b", title)
+        ):
+            return m.group(0)
+        if len(title.split()) > 22:
+            return m.group(0)
+        level = "#####" if "." in code else "####"
+        return f"\n{level} {code}. {title}"
+
+    text = re.sub(
+        r"(?m)^(?!#{1,6}\s)(A\d+(?:\.\d+)?)\.?\s+([A-Z?][^\n]{3,160})$",
+        a_step,
+        text,
+    )
+    # Parenthetical numbered subheads: (1) Basic Documentation Level
+    text = re.sub(
+        r"(?m)^(?!#{1,6}\s)\((\d+)\)\s+([A-Z][^\n]{3,80})$",
+        lambda m: (
+            f"\n#### ({m.group(1)}) {re.sub(r'\s+', ' ', m.group(2).strip())}"
+            if (
+                not _sentence_like(m.group(2))
+                and len(m.group(2).split()) <= 8
+                and not re.match(r"^(The |A |An |If |When |For |In |This )", m.group(2))
+            )
+            else m.group(0)
+        ),
+        text,
+    )
+    return text
+
+
+def _repair_roman_heading_levels(text: str) -> str:
+    """Fix ambiguous I/V/X heading depth using neighboring section markers."""
+    lines = text.split("\n")
+    heads: list[tuple[int, str, str, str]] = []
+    for i, line in enumerate(lines):
+        m = re.match(r"^(#{2,4})\s+([IVXLCDM]+|[A-Z])\.\s+(.+)$", line)
+        if not m:
+            continue
+        marker = m.group(2)
+        # Skip long roman-looking junk
+        if marker.isalpha() and marker.upper() == marker and len(marker) <= 6:
+            heads.append((i, m.group(1), marker, m.group(3).strip()))
+
+    def nearest_roman(k: int, direction: int):
+        j = k + direction
+        while 0 <= j < len(heads):
+            mk = heads[j][2]
+            if mk in _ROMAN_VAL:
+                return heads[j]
+            j += direction
+        return None
+
+    for k, (i, hashes, marker, title) in enumerate(heads):
+        # Non-ambiguous multi-character romans stay/force H2
+        if marker in _ROMAN_VAL and marker not in ("I", "V", "X"):
+            if hashes != "##":
+                lines[i] = f"## {marker}. {title}"
+            continue
+        if marker not in ("I", "V", "X"):
+            # Plain letter A-Z (except I/V/X handled above): force H3 unless already H2 title roman-like
+            if len(marker) == 1 and marker.isalpha() and hashes == "##" and not _H2_TITLES.match(title):
+                # Do not demote true romans already handled; letters as H2 are wrong
+                lines[i] = f"### {marker}. {title}"
+            continue
+
+        prev = heads[k - 1] if k > 0 else None
+        letter_continue = bool(
+            prev
+            and len(prev[2]) == 1
+            and prev[2].isalpha()
+            and prev[2] not in _ROMAN_VAL
+            and ord(marker) == ord(prev[2]) + 1
+        )
+        # H -> I is letter continuation even though I is also roman
+        if prev and prev[2] == "H" and marker == "I":
+            letter_continue = True
+
+        prev_r = nearest_roman(k, -1)
+        next_r = nearest_roman(k, 1)
+        val = _ROMAN_VAL.get(marker, 0)
+        roman_context = False
+        if prev_r and prev_r[2] in _ROMAN_VAL and _ROMAN_VAL[prev_r[2]] + 1 == val:
+            roman_context = True
+        if next_r and next_r[2] in _ROMAN_VAL and _ROMAN_VAL[next_r[2]] - 1 == val:
+            roman_context = True
+        if prev_r and next_r and prev_r[2] in _ROMAN_VAL and next_r[2] in _ROMAN_VAL:
+            if _ROMAN_VAL[prev_r[2]] < val < _ROMAN_VAL[next_r[2]]:
+                roman_context = True
+        if _H2_TITLES.match(title):
+            roman_context = True
+            letter_continue = False
+
+        if letter_continue and not roman_context:
+            lines[i] = f"### {marker}. {title}"
+        elif roman_context:
+            lines[i] = f"## {marker}. {title}"
+        elif letter_continue:
+            lines[i] = f"### {marker}. {title}"
+        else:
+            # Short definition-like titles after a letter heading stay H3
+            words = title.split()
+            if prev and len(prev[2]) == 1 and prev[2].isalpha() and len(words) <= 3:
+                lines[i] = f"### {marker}. {title}"
+            else:
+                lines[i] = f"## {marker}. {title}"
+
+    return "\n".join(lines)
 
 
 def _collapse_blank_lines(text: str) -> str:

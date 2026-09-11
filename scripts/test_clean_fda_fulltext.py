@@ -169,6 +169,91 @@ class FootnoteTests(unittest.TestCase):
         self.assertIn("A cybersecurity signal", body)
 
 
+
+class RepairHeadingTests(unittest.TestCase):
+    def test_roman_V_promoted_between_IV_and_VI(self):
+        text = (
+            "\n## IV. Definitions\n"
+            "Defs.\n"
+            "\n### V. Documentation Level\n"
+            "Doc level text.\n"
+            "\n## VI. Recommended Documentation\n"
+            "Recs.\n"
+        )
+        from clean_fda_fulltext import _repair_roman_heading_levels
+        out = _repair_roman_heading_levels(text)
+        self.assertIn("## V. Documentation Level", out)
+        self.assertNotIn("### V. Documentation Level", out)
+
+    def test_letter_I_stays_h3_after_H(self):
+        text = (
+            "\n## IV. Definitions\n"
+            "\n### H. Threat\n"
+            "x\n"
+            "\n### I. Threat Modeling\n"
+            "Threat modeling is a methodology.\n"
+            "\n### J. Uncontrolled Risk\n"
+            "y\n"
+        )
+        from clean_fda_fulltext import _repair_roman_heading_levels
+        out = _repair_roman_heading_levels(text)
+        self.assertRegex(out, r"(?m)^### I\. Threat Modeling$")
+
+    def test_named_mr_headings_promoted(self):
+        raw = _wrap(
+            "This guidance represents the current thinking of the Food and Drug "
+            "Administration (FDA or Agency) on this topic.\n\n"
+            "Introduction\n"
+            "This guidance document provides recommendations.\n\n"
+            "Scope\n"
+            "This guidance document applies to all medical devices.\n\n"
+            "Terminology\n"
+            "We recommend using the following terminology.\n\n"
+            "Consensus Standards\n"
+            "For the current edition of the FDA-recognized consensus standards.\n"
+        )
+        out = clean_fulltext(raw)
+        self.assertIn("## Introduction", out)
+        self.assertIn("## Scope", out)
+        self.assertIn("## Terminology", out)
+        self.assertIn("### Consensus Standards", out)
+
+    def test_false_rfd_hash_not_h1(self):
+        raw = _wrap(
+            "This guidance represents the current thinking of the Food and Drug "
+            "Administration (FDA or Agency) on this topic.\n\n"
+            "I. Purpose\n"
+            "This section describes refuse-to-accept review.\n"
+            "If a Request for Designation (RFD) was submitted for the device or combination\n"
+            "product with a device constituent part and assigned to your center, identify the RFD\n"
+            "# and confirm the following:\n"
+            "(a) Is the device the same?\n"
+        )
+        out = clean_fulltext(raw)
+        self.assertNotRegex(out, r"(?m)^#+\s+and confirm")
+        self.assertIn("RFD # and confirm the following:", out)
+        self.assertIn("## I. Purpose", out)
+
+    def test_appendix_colon_and_paren_subheads(self):
+        text = (
+            "\nAppendix A: Documentation Level Examples\n"
+            "Examples follow.\n"
+            "\n(1) Basic Documentation Level\n"
+            "Provide a summary.\n"
+            "\n(2) Enhanced Documentation Level\n"
+            "Provide more.\n"
+        )
+        from clean_fda_fulltext import (
+            _promote_named_and_appendix_headings,
+            _promote_numbered_subheadings,
+        )
+        out = _promote_named_and_appendix_headings(text)
+        out = _promote_numbered_subheadings(out)
+        self.assertIn("## Appendix A: Documentation Level Examples", out)
+        self.assertIn("#### (1) Basic Documentation Level", out)
+        self.assertIn("#### (2) Enhanced Documentation Level", out)
+
+
 class EscapeTests(unittest.TestCase):
     def test_insert_tags_escaped(self):
         raw = _wrap(

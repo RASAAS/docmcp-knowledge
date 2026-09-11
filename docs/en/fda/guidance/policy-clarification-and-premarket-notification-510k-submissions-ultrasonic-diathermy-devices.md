@@ -25,24 +25,12 @@ PDF: [https://www.fda.gov/media/107094/download](https://www.fda.gov/media/10709
 
 ## Official Full Text
 
-On June 14, 2023, FDA issued a guidance titled “Content of Premarket Submissions for Device
-Software Functions.”1 This final guidance supersedes the Guidance for the Content of Premarket
-Submissions for Software Contained in Medical Devices, issued on May 11, 2005. The final guidance issued on June 14, 2023, provides information regarding the recommended documentation sponsors should include in premarket submissions for FDA’s evaluation of the safety and effectiveness of device software functions. In particular, the final guidance includes information to help determine a device’s Documentation Level (formerly known as Level of Concern). The purpose of the Documentation Level is to help identify the minimum amount of information that would support a premarket submission that includes device software functions.
-Within the framework of the superseded guidance, ultrasonic diathermy devices were considered a device with a Major Level of Concern. Based on the device’s risk in the context of the device’s intended use, as discussed in the final guidance “Content of Premarket Submissions for Device
-Software Functions,” ultrasonic diathermy devices should generally address the recommendations for an Enhanced Documentation Level. The actual Documentation Level for your device may vary based on the specifics of your device. For more information about the
-Documentation Level and recommended documentation for a premarket submission, sponsors are encouraged to review the guidance “Content of Premarket Submissions for Device Software Functions.”
-
-
-Premarket Notification [510(k)]
-Submissions for Ultrasonic Diathermy Devices
-
 This guidance represents the current thinking of the Food and Drug Administration (FDA or Agency) on this topic.  It does not establish any rights for any person and is not binding on
 FDA or the public.  You can use an alternative approach if it satisfies the requirements of the applicable statutes and regulations.  To discuss an alternative approach, contact the FDA staff or Office responsible for this guidance as listed on the title page.
 ## I. Introduction
 This guidance document provides recommendations for 510(k) submissions for ultrasonic diathermy devices, also known as physiotherapy devices. Ultrasonic diathermy devices are devices under section 201(h) of the Federal Food, Drug and Cosmetic Act (the FD&C Act). This guidance includes recommendations on the use of certain International Electrotechnical
 Commission (IEC) standards in generating information that can support 510(k) submissions for these devices. This guidance also supplements other FDA documents regarding the specific content requirements and recommendations of a premarket notification (510(k)) submission (also refer to 21 CFR 807.87).
-For the current edition of the FDA-recognized consensus standards referenced in this document, see the FDA Recognized Consensus Standards Database.1 For more information regarding use of consensus standards in regulatory submissions, please refer to the FDA guidance “Appropriate
-Use of Voluntary Consensus Standards in Premarket Submissions for Medical Devices.”2
+For the current edition of the FDA-recognized consensus standards referenced in this document, see the FDA Recognized Consensus Standards Database.1 For more information regarding use of consensus standards in regulatory submissions, please refer to the FDA guidance “Appropriate Use of Voluntary Consensus Standards in Premarket Submissions for Medical Devices.”2
 This guidance supplements other FDA documents regarding the specific content requirements and recommendations of a premarket notification (510(k)) submission. You should also refer to 21 CFR 807.87 and FDA’s guidance, “Format for Traditional and Abbreviated 510(k)s.”3
 In general, FDA’s guidance documents do not establish legally enforceable responsibilities.
 Instead, guidances describe the Agency’s current thinking on a topic and should be viewed only as recommendations, unless specific regulatory or statutory requirements are cited. The use of the word should in Agency guidances means that something is suggested or recommended, but not required.
@@ -73,16 +61,14 @@ Table 1A. Device Description Description Subject Device Predicate Device (Kxxxxx
 * Per the IEC 60601-2-5 standard
 Table 2B. Maximum Values of Powers and Intensities (Max Settings) Subject Device Predicate Device (Kxxxxxx) Maximum Value of the Output Power (Rated Output Power) and Accuracy (W) Maximum Value of the Effective Intensity and Accuracy (Not to exceed 3 W/cm2*)
 * Per the IEC 60601-2-5 standard
-Table 3C. Information for Amplitude Modulated Waves Subject Device Predicate Device (Kxxxxxx) Pulse Duration and Accuracy (s) Pulse Repetition Period and Accuracy (s) Duty Factor and Accuracy (%) Maximum Value of the Temporal-Maximum Output Power and Accuracy (W) Maximum Value of the Temporal-Maximum Intensity and Accuracy (W/cm2) Ratio of Temporal Maximum Output Power to the Output Power
-Table 4D. Temperature Specifications Subject Device Predicate Device (Kxxxxxx) Peak Temperature Rise vs. Time and Tissue Depth to Maximum Treatment Time (for fixed Treatment Head Placement) (deg C) Maximum Patient Contact Surface Temperature of Treatment Head under Simulated or Actual Use Conditions for all Operating Conditions (Continually operated for maximum treatment time) (deg C)
+Table 3C. Information for Amplitude Modulated Waves Subject Device Predicate Device (Kxxxxxx) Pulse Duration and Accuracy (s) Pulse Repetition Period and Accuracy (s) Duty Factor and Accuracy (%) Maximum Value of the Temporal-Maximum Output Power and Accuracy (W) Maximum Value of the Temporal-Maximum Intensity and Accuracy (W/cm2) Ratio of Temporal Maximum Output Power to the Output Power Table 4D. Temperature Specifications Subject Device Predicate Device (Kxxxxxx) Peak Temperature Rise vs. Time and Tissue Depth to Maximum Treatment Time (for fixed Treatment Head Placement) (deg C) Maximum Patient Contact Surface Temperature of Treatment Head under Simulated or Actual Use Conditions for all Operating Conditions (Continually operated for maximum treatment time) (deg C)
 ### C. Software
 Software in ultrasonic diathermy devices ensures that appropriate energy is delivered to the patient. Adequate software performance testing provides assurance that the device is operating as intended and within safe parameters.
 Refer to FDA’s “Guidance for the Content of Premarket Submissions for Software Contained in
 Medical Devices,”5 for a discussion of the software documentation that you should provide in your submission. The software guidance outlines the type of documentation to be provided based on the “level of concern” associated with the device. FDA generally considers the software for ultrasonic diathermy devices to present a “Major” level of concern. You should also refer to FDA’s guidance “General Principles of Software Validation”6 for software development practices.
 We recommend that you provide a full description of the software/firmware supporting the operation of the subject device, following the software guidance, commensurate with the appropriate level of concern. This recommendation applies to original devices as well as to any software/firmware changes made to already-marketed devices. Changes to software must be revalidated and reverified in accordance with 21 CFR 820.30(f), (g), and (i), and documented in the Design History File in accordance with 21 CFR 820.30(j). Some software changes might warrant the submission of a new 510(k). For further information on this topic, refer to the FDA guidance “Deciding When to Submit a 510(k) for a Software Change to an Existing Device.”7
 If appropriate, you should also provide information on the Cybersecurity aspects of your device.
-For more information on this topic, please see FDA’s guidance “Content of Premarket
-Submissions for Management of Cybersecurity in Medical Devices.”8
+For more information on this topic, please see FDA’s guidance “Content of Premarket Submissions for Management of Cybersecurity in Medical Devices.”8
 If the device includes off-the-shelf software, you should provide the additional information recommended in the FDA documents titled “Off-the-Shelf Software Use in Medical Devices”9 and “Cybersecurity for Networked Medical Devices Containing Off-The-Shelf (OTS) Software,”10 which provide additional information regarding medical devices utilizing off-the-shelf software.
 Overall, the documentation related to the software contained in the medical device should, among other things, provide sufficient evidence to describe the role of the software included in the device, and performance testing to demonstrate that the software functions as designed.
 ### D. Biocompatibility
@@ -111,7 +97,7 @@ In addition to the labeling requirements in 21 CFR part 801, we recommend that t
 3) Each operation control should be clearly labeled identifying the function controlled and, where appropriate, the units of measure of that function. If a separate control and indicator are associated with the same function, then the labeling for the indicator should include the appropriate units of measure of that function.
 4) Each service control that is accessible without displacement or removal of any part of the ultrasonic diathermy device should be clearly labeled, identifying the function controlled, and include the phrase "for service adjustment only."
 (1)
-Contraindications
+### Contraindications
 Based on known risks associated with this device type, we recommend including the following information in the contraindications section, as applicable, in the instructions for use. Sample language is provided in italics. If you believe that any of these contraindications are not applicable to your device, you should provide a justification for each omission in your 510(k) submission.
 1. Patients with an implanted medical device other than a pacemaker such as implanted deep
 brain stimulation device.
@@ -139,14 +125,14 @@ unable to follow the increase in metabolic demand.
 17. Over areas of recent bleeding or hemorrhage.
 18. Over areas of active tuberculosis.
 (2)
-Warnings
+### Warnings
 We recommend including the following information in the warnings section of the instructions for use:
 1. The treatment head should be moved continuously during treatment to avoid discomfort and
 burns.
 2. An appropriate coupling medium should be used in order to ensure energy transmission to
 the tissue.
 (3)
-Precautions
+### Precautions
 We recommend including the following information in the precautions section of the instructions for use regarding use of the device over these areas or on patients with these conditions:
 1. Over anesthetized areas.
 2. On patients with hemorrhagic diatheses.
@@ -220,7 +206,6 @@ Note: Essentially the equipment comprises a generator of electric high-frequency
 Ultrasonic Transducer
 Device component capable of converting electrical energy to mechanical energy within the ultrasonic frequency range and/or reciprocally of converting mechanical energy to electrical energy.
 
----
 
 ## Footnotes
 

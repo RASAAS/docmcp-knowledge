@@ -5,15 +5,8 @@
 **Published:** 2023-06-14
 
 
+
 ---
-
-On February 2, 2024, FDA published the final rule to amend the Quality System (QS) regulation in 21 CFR part 820 (89 FR 7496, effective February 2, 2026). The revised 21 CFR part 820 is now titled the Quality Management System Regulation (QMSR). The QMSR harmonizes quality management system requirements by incorporating by reference the international standard specific for medical device quality management systems set by the International Organization for
-Standardization (ISO), ISO 13485:2016. The FDA has determined that the requirements in ISO 13485 are, when taken in totality, substantially similar to the requirements of the QS regulation, providing a similar level of assurance in a firm’s quality management system and ability to consistently manufacture devices that are safe and effective and otherwise in compliance with the Federal Food, Drug, and Cosmetic Act (FD&C Act).
-This guidance document was issued prior to the effective date of the final rule. FDA encourages manufacturers to review the current QMSR to ensure compliance with the relevant regulatory requirements.
-FDA notes that in particular, the QMSR does not utilize certain terms, such as “Design Controls,” and “Design Validation.” The elements that comprise these terms are described in ISO 13485:2016, Clause 7.3 and its subclauses, which are incorporated by reference in the QMSR.
-
-
-Content of Premarket Submissions for Device Software Functions ______________________________________________________________________________
 
 This guidance represents the current thinking of the Food and Drug Administration (FDA or Agency) on this topic. It does not establish any rights for any person and is not binding on
 FDA or the public. You can use an alternative approach if it satisfies the requirements of the applicable statutes and regulations. To discuss an alternative approach, contact the FDA staff or Office responsible for this guidance as listed on the title page.
@@ -24,9 +17,7 @@ Medical Devices issued on May 11, 2005, and updates FDA’s thinking related to 
 The recommendations in this guidance are intended to facilitate FDA’s premarket review. This guidance describes information that would be typically generated and documented2 during software development, verification, and validation. The least burdensome approach was applied to identify the minimum amount of information that, based on our experience, would generally be needed to support a premarket submission for a device that uses software. During premarket review, FDA may request additional information that is needed to evaluate the submission. For example, in order to demonstrate a reasonable assurance of safety and effectiveness for devices 2 As a reminder, manufacturers of device software must create and maintain software-related documentation in accordance with the requirements of the Quality System (QS) Regulation (21 CFR 820.30 Subpart C – Design Controls of the Quality System Regulation).
 that use software, documentation related to the requirements of the Quality System Regulation (QSR) (21 CFR Part 820) is often a necessary part of the premarket submission. As part of QSR design controls, a manufacturer must “establish and maintain procedures for validating the device design,” which “shall include software validation and risk analysis, where appropriate”
 (21 CFR 820.30(g)).
-The documentation recommended in this guidance is based on FDA’s experience evaluating the safety and effectiveness of device software. However, sponsors may use alternative approaches and provide different documentation so long as their approach and documentation satisfy premarket submission requirements in applicable statutory provisions and regulations. For the current edition(s) of the FDA-recognized consensus standard(s) referenced in this document, see the FDA Recognized Consensus Standards Database.3 For more information regarding use of consensus standards in regulatory submissions, please refer to the FDA guidance titled
-Appropriate Use of Voluntary Consensus Standards in Premarket Submissions for Medical Devices4 and Standards Development and the Use of Standards in Regulatory Submissions
-Reviewed in the Center for Biologics Evaluation and Research.5
+The documentation recommended in this guidance is based on FDA’s experience evaluating the safety and effectiveness of device software. However, sponsors may use alternative approaches and provide different documentation so long as their approach and documentation satisfy premarket submission requirements in applicable statutory provisions and regulations. For the current edition(s) of the FDA-recognized consensus standard(s) referenced in this document, see the FDA Recognized Consensus Standards Database.3 For more information regarding use of consensus standards in regulatory submissions, please refer to the FDA guidance titled Appropriate Use of Voluntary Consensus Standards in Premarket Submissions for Medical Devices4 and Standards Development and the Use of Standards in Regulatory Submissions Reviewed in the Center for Biologics Evaluation and Research.5
 As stated above, this guidance identifies the software information FDA considers to generally be necessary to support a premarket submission. The recommendations in this guidance are also intended to facilitate FDA’s premarket review. FDA anticipates that the Agency and industry will need up to 60 days after the publication of this guidance to operationalize the recommendations discussed. However, CDRH intends to review any such information if submitted at any time.
 In general, FDA’s guidance documents do not establish legally enforceable responsibilities.
 Instead, guidances describe the Agency’s current thinking on a topic and should be viewed only as recommendations, unless specific regulatory or statutory requirements are cited. The use of the word should in Agency guidances means that something is suggested or recommended, but not required.
@@ -46,8 +37,7 @@ FDA encourages the consideration of these guidances when developing device softw
 The emergence of consensus standards related to software has helped to improve the consistency and quality of software development and documentation, particularly with respect to activities such as risk assessment and management. When possible, FDA harmonized the terminology and recommendations in this guidance with software-related consensus standards, such as the following examples. The following standards are not intended to represent an exhaustive list and are subject to change:14
 - ANSI/AAMI/ISO 14971: Medical devices - Applications of risk management to medical devices · ANSI/AAMI/IEC 62304: Medical Device Software - Software Life Cycle Processes · ANSI/AAMI SW91: Classification of defects in health software 14 The most up-to-date list of voluntary FDA-recognized consensus standards is available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfStandards/search.cfm.
 The Agency encourages the consideration of these FDA-recognized consensus standards when developing device software functions and preparing premarket software documentation. When assessing the appropriate Documentation Level for the device and the overall recommended documentation for inclusion in a premarket submission, please refer to Section V (Documentation Level) and Section VI (Recommended Documentation) of this guidance.
-Section 3308 of the Food and Drug Omnibus Reform Act of 2022, Title III of Division FF of the
-Consolidated Appropriations Act, 2023, Pub. L. No. 117-328 (“FDORA”), enacted on December 29, 2022, added section 515C “Predetermined Change Control Plans for Devices” to the FD&C
+Section 3308 of the Food and Drug Omnibus Reform Act of 2022, Title III of Division FF of the Consolidated Appropriations Act, 2023, Pub. L. No. 117-328 (“FDORA”), enacted on December 29, 2022, added section 515C “Predetermined Change Control Plans for Devices” to the FD&C
 Act (section 515C). Under section 515C, FDA can approve or clear a predetermined change control plan (PCCP) for a device that describes planned changes that may be made to the device and that would otherwise require a supplemental premarket approval application or premarket notification. For example, section 515C provides that a supplemental premarket approval application (section 515C(a)) or a premarket notification (section 515C(b)) is not required for a change to a device if the change is consistent with a PCCP that is approved or cleared by FDA.
 Section 515C also provides that FDA may require that a PCCP include labeling for safe and effective use of a device as such device changes pursuant to such plan, notification requirements if the device does not function as intended pursuant to such plan, and performance requirements for changes made under the plan. If you are interested in proposing a PCCP in your marketing submission, we encourage you to submit a Pre-Submission to engage in further discussion with CDRH. See FDA’s guidance “Requests for Feedback and Meetings for Medical Device Submissions: The Q-Submission Program” available at https://www.fda.gov/regulatoryinformation/search-fda-guidance-documents/requests-feedback-and-meetings-medical-devicesubmissions-q-submission-program.
 ## III. Scope
@@ -84,7 +74,7 @@ Software Requirements Specification (SRS) and Software Design Specification (SDS
 - For the purposes of this guidance, software validation refers to establishing, by objective evidence, that the software specifications conform to user needs and intended uses, and that the particular requirements implemented through software can be consistently fulfilled. Software validation is a part of design validation of the finished device. It involves checking for proper operation of the software in its actual or simulated use environment, including integration into the final device where appropriate. Software validation is highly dependent upon comprehensive software testing and other 27 Serious injury as defined in 21 CFR 803.3(w).
 verification tasks previously completed at each stage of the software development life cycle. Planning, requirements, traceability, testing, risk assessment, design reviews, change management, and many other aspects of good software engineering are important activities that together help to support a conclusion that software is validated.
 The above descriptions of software verification and software validation are consistent with FDA’s thinking as described in the guidance “General Principles of Software Validation.”
-### V. Documentation Level
+## V. Documentation Level
 
 The recommended documentation for a premarket submission depends on the device’s risk to a patient, a user of a device, or others in the environment of use. FDA intends to take a risk-based approach to help determine the device’s Documentation Level, which is either Basic or Enhanced. The purpose of the Documentation Level is to help identify the minimum amount of information that would support a premarket submission that includes device software functions.
 
@@ -114,12 +104,12 @@ Software Description (Section VI.B)
 Software description, including overview of significant software features, functions, analyses, inputs, outputs, and hardware platforms.
 Risk Management File (Section VI.C)
 Risk management plan, risk assessment demonstrating that risks have been appropriately mitigated, and risk management report.
-Software Requirements Specification (SRS)
+### Software Requirements Specification (SRS)
 (Section VI.D)
 SRS documentation, describing the needs or expectations for a system or software, presented in an organized format, at the software system level or subsystem level, as appropriate, and with sufficient information to understand the traceability of the information with respect to the other software documentation elements (e.g., risk management file, software design specification, system and software architecture design chart, software testing).
 Software Documentation Elements Basic Documentation Level Enhanced Documentation Level System and Software Architecture Design (Section VI.E)
 Detailed diagrams of the modules, layers, and interfaces that comprise the device, their relationships, the data inputs/outputs and flow of data, and how users or external products (including information technology (IT) infrastructure and peripherals) interact with the system and software.
-Software Design Specification (SDS)
+### Software Design Specification (SDS)
 (Section VI.F)
 FDA is not recommending the SDS as part of the premarket submission. Sponsor should document this information on the design via the DHF for the device. During premarket review, FDA may request additional information, if needed, to evaluate the safety and effectiveness of the device.
 SDS documentation, including sufficient information that would allow FDA to understand the technical design details of how the software functions, how the software design completely and correctly implements all the requirements of the SRS, and how the software design traces to the SRS in terms of intended use, functionality, safety, and effectiveness.
@@ -134,14 +124,12 @@ Software Version History (Section VI.I)
 A history of tested software versions including the date, version number, and a brief description of all changes relative to the previously tested software version.
 Unresolved Software Anomalies (Section VI.J)
 List of remaining unresolved software anomalies with an evaluation of the impact of each unresolved software anomaly on the device’s safety and effectiveness.
-Documentation Level Evaluation
-
+### Documentation Level Evaluation
 A statement indicating the Documentation Level for the device and a description of the rationale for such Documentation Level. The rationale should account for the device’s intended use, and include references, where appropriate, from the submission documentation (such as Risk
 Management File, Software Description, etc.) to support the indicated Documentation Level.
 
 
-Software Description
-
+### Software Description
 An overview of significant software features and functions, including images, flow charts, and state diagrams as needed to adequately explain the software functionality38 should be provided. If the premarket submission is for a modified device, provide the document number of the previous submission and highlight pertinent software changes (e.g., changes that affect safety and effectiveness) since the last FDA approval or clearance.
 38 FDA may request additional architecture diagrams to address the cybersecurity risks associated with a device. For more information, please refer to the guidance document, “Content of Premarket Submissions for Management of Cybersecurity in Medical Devices.”
 Consider and, as applicable, provide information to address the questions below when preparing the software description. However, FDA recognizes that these questions and examples may not capture all the unique aspects of device software and encourages the inclusion of additional information that will further FDA’s understanding of the device’s functionality to facilitate the review of a submission.
@@ -192,11 +180,11 @@ Is the device designed to be interoperable?41 In other words, does the device tr
 If yes, what other products does the device interface with, and what methods, standards, and specifications are used to interact and/or communicate with other medical/non-medical product, system, or device? Are the medical/non-medical products, systems, or devices networked?
 If any of the information requested above is included in another document, such as the Software
 Requirements Specification (SRS), an annotation and a reference to the document in the submission where this information is located should be provided.
-Risk Management File
-
+### Risk Management File
 The risk management file should be provided as part of the premarket submission and include the following documentation. FDA recommends sponsors refer to an FDA-recognized version of ISO 14971 for additional information on the development and application of a risk management file.
 
-(1) Risk Management Plan
+
+#### (1) Risk Management Plan
 
 FDA recommends sponsors submit a risk management plan to support the effectiveness of the risk management activities and processes for a particular medical device.42 In FDA’s review of the risk management plan, the Agency intends to primarily focus on: - Individual risk acceptability criteria including the need for risk reduction (control).
 - Method to evaluate the acceptability of the overall residual risk for all residual risks after all risk control measures have been implemented and verified.
@@ -205,7 +193,8 @@ It should be clear in the risk management plan how the sponsor plans to evaluate
 41 More information on interoperable medical devices is available at: https://www.fda.gov/regulatoryinformation/search-fda-guidance-documents/design-considerations-and-pre-market-submission-recommendationsinteroperable-medical-devices.
 42 For combination products that include device software functions, a 14971-based risk management framework that incorporates relevant considerations from International Council for Harmonisation of Technical Requirements for
 Pharmaceuticals for Human Use (ICH) Q9 Quality Risk Management is recommended. For further information, see, for example, AAMI TIR 105 Risk Management Guidance for Combination Products.
-(2) Risk Assessment
+
+#### (2) Risk Assessment
 
 A risk assessment that includes a risk analysis, risk evaluation, risk control and a benefit-risk analysis (where applicable) should be provided for all device software. For software that is part of a system, a risk assessment should be performed on the system comprising the software and its whole hardware environment. If this information is covered in the system risk assessment documentation, this should be noted in the software documentation with reference to the particular section of the premarket submission.
 
@@ -237,14 +226,12 @@ o
 This includes assessment of acceptability (e.g., acceptable, not acceptable) as defined in the risk management plan.
 
 
-
-
 47 “XXX” denotes a unique number identifier for a specific hazard, software requirement specification, software design specification, unit test case, integration test case or system test case.
 - Benefit-Risk o
 If a residual risk is deemed not acceptable according to the acceptability criteria in the risk management plan and further risk control is not possible, the sponsor should provide documented benefit-risk analysis to demonstrate that the benefits of the intended use outweigh the residual risk, which may be referenced in other benefit-risk assessment documentation.
 
-(3)
-Risk Management Report
+
+#### (3) Risk Management Report
 
 A risk management report should be provided to:
 
@@ -253,8 +240,7 @@ A risk management report should be provided to:
 - Demonstrate that the risk management file has been assessed by the appropriate personnel and the overall residual risk is acceptable.
 
 - Demonstrate appropriate methods are established for the collection and assessment of relevant production and post-production information.
-Software Requirements Specification (SRS)
-
+### Software Requirements Specification (SRS)
 The SRS documents the requirements48 for the software which typically specifies inputs and outputs, functions that the software will perform, hardware,49 performance,50 interfaces,51 user interaction, error definition and handling, intended operating environment, safety related requirements derived from a risk assessment (Refer to Section VI.C Risk Management File) and all ranges, limits, defaults, and specific values that the software will accept. For additional details on what should be included in the software requirements specification, refer to the guidance, “General Principles of Software Validation.”
 49 Hardware requirements generally include, but are not limited to, requirements related to: microprocessors, memory devices, sensors, energy sources, safety features, and communications.
 50 Software performance and functional requirements generally include, but are not limited to, requirements related to algorithms or control characteristics for therapy, diagnosis, monitoring, alarms, analysis, and interpretation with full text references or supporting clinical data, if necessary. Software performance and functional requirements may also include: device limitations due to software, internal software tests and checks, error and interrupt handling, fault detection, tolerance, and recovery characteristics, safety requirements, and timing and memory requirements.
@@ -268,7 +254,10 @@ In order to facilitate a timely premarket review, the following recommendations 
 - If the premarket submission involves a modification to an existing approved or cleared device, highlight all pertinent differences in software requirements.
 - Identify the requirements the sponsor believes are most critical (i.e., could have the most significant impact) to the device’s safety and effectiveness. These requirements could be highlighted within the SRS document and/or consolidated in a supplemental document that includes these requirements of interest in a summarized format. This technique may help facilitate the presentation of those requirements that most critically affect clinical functionality or performance specifications that are directly associated with the intended use of the device, or would otherwise impact the device’s safety and effectiveness.
 If any of the information requested above is included in another document, an annotation and a reference to the document in the submission where this information is located should be provided.
-Documentation of requirements included in the premarket submission for the device functionunder-review should include adequate detail to describe any expected relationship, utility, reliance, or interoperability with any “other function,” as that term is used in the guidance “Multiple Function Device Products: Policy and Considerations.” System and Software Architecture Diagram
+Documentation of requirements included in the premarket submission for the device functionunder-review should include adequate detail to describe any expected relationship, utility, reliance, or interoperability with any “other function,” as that term is used in the guidance “Multiple Function Device Products: Policy and Considerations.”
+
+### System and Software Architecture Diagram
+
 
 The purpose of the system and software architecture diagram is to present a roadmap of the device design to facilitate a clear understanding of: - The modules and layers that make up the system and software; - The relationships among the modules and layers; - The data inputs/outputs and flow of data among the modules and layers; and - How users or external products, including IT infrastructure and peripherals (e.g., wirelessly connected medical devices) interact with the system and software.
 For purposes of the system and software architecture diagram, this guidance considers a module to be a discrete unit or architectural item within the system or software. A module could represent, for example, a finished hardware device within a system of hardware and software products, a hardware component within a finished hardware device, a finished software product within a system of software products, or a software function within a finished software product.
@@ -297,22 +286,25 @@ The above considerations are intended to serve as a guide and may not apply in e
 For multiple function device products, the system and software architecture diagram should clearly delineate between the device functions-under-review and the “other functions,” as that term is used in the guidance “Multiple Function Device Products: Policy and Considerations.”
 The system and software architecture diagram should include adequate detail to understand how or if the “other function(s)” interact with or impact the device function-under-review.
 Example system and software architecture diagrams are provided in Appendix B of this guidance, illustrating approaches to effectively convey the recommended information to facilitate an efficient premarket review. These simplified examples demonstrate how the considerations described in this section can be implemented into a system and software architecture diagram. The modules in the example are intended for illustration purposes only and are not intended to document or represent a comprehensive or complete system and software architecture diagram for a specific medical device or system. The illustrated approach does not prescribe any specific modeling languages or platforms to allow for flexibility in development and documentation. The approaches illustrated can be applied to any system and software architecture diagram.
-Software Design Specification (SDS)
-
+### Software Design Specification (SDS)
 The Software Design Specification (SDS) may contain both a high level summary of the design and detailed design information. In terms of the relationship between the Software Requirement
 Specification (SRS) and the SDS, the SRS describes what the software function will do and the SDS describes how the requirements in the SRS are implemented. The information presented in the SDS should be sufficient to ensure that the work performed by the software engineers who created the device software function was clear and unambiguous, with minimal ad hoc design decisions. The use of minimal ad hoc design decisions reflects the general principle that the creation of SDS should occur as a prospective activity rather than documented retrospectively after the software design has been implemented by ad hoc design methods. Documentation of specifications included in the premarket submission for the device function-under-review should include adequate detail to describe any expected relationship, utility, reliance, or interoperability with any “other function,” as that term is used in the guidance “Multiple Function Device Products: Policy and Considerations.”
 
 FDA is not recommending the SDS as part of the premarket submission. Sponsors should document this information on the design internally via the DHF for the device. During premarket review, FDA may request additional information on the design, if needed, to evaluate the safety and effectiveness of the device.
-(2) Enhanced Documentation Level
+
+#### (2) Enhanced Documentation Level
 
 A singular SDS document or set of SDS documents that provide the technical design details of how the software functions, how the software design completely and correctly implements all the requirements of the SRS and how the software design traces to the SRS in terms of intended use, functionality, safety, and effectiveness. The software functional units or modules along with the interfaces among them identified in the architectural (i.e., high-level) design should be documented with the corresponding detailed (i.e., low-level) design information in the SDS. The information provided for review should be sufficient to ensure that the work performed in developing the software functional units or modules and their interfaces was clear and unambiguous, with minimal ad hoc design decisions. For example, the creation of the SDS is expected to have occurred as a prospective activity where the SDS was used to guide the design, development and testing of the software rather than documented retrospectively after the software design has been implemented by ad hoc design methods.
 For additional details on what should be included in the software design specification, refer to the guidance, “General Principles of Software Validation.”
-Software Development, Configuration Management, and Maintenance Practices
+
+### Software Development, Configuration Management, and Maintenance Practices
+
 
 One way a sponsor could address this documentation element of a premarket submission is to provide the recommended information on related software development, configuration management, and maintenance practices and procedures. In another approach, a sponsor could provide a Declaration of Conformity to specific clauses of the FDA-recognized version of ANSI/AAMI/IEC 62304 Medical Device Software - Software Life Cycle Processes or the FDArecognized version of IEC 62304 Medical device software - Software life cycle processes (hereafter referred to collectively as ANSI/AAMI/IEC 62304). A sponsor could also provide a
 Declaration of Conformity to the complete ANSI/AAMI/IEC 62304 standard. However, a
 Declaration of Conformity to the complete ANSI/AAMI/IEC 62304 standard is not needed due to known differences in categorization of device software functions and other recommended documentation.
-(1) Basic Documentation Level
+
+#### (1) Basic Documentation Level
 
 A summary of the processes and procedures that are in place to manage the software life cycle development, software configuration and change management, and software maintenance activities should be provided. This summary information should include an adequate description of:
 
@@ -325,16 +317,17 @@ A summary of the processes and procedures that are in place to manage the softwa
 - Processes and procedures used in software maintenance that includes risk assessment of software changes, initial testing that evaluates the correctness of the implemented software change(s), and regression analysis and testing.
 Alternatively, to address the recommendations for this documentation element, a sponsor may provide a Declaration of Conformity to the FDA-recognized version of ANSI/AAMI/IEC 62304
 Medical Device Software - Software Life Cycle Processes, including subclauses 5.1.1 (“Software development plan”), 5.1.2 (“Keep software development plan updated”), 5.1.3 (“Software development plan reference to system design and development”), 5.1.6 (“Software verification planning”), 5.1.7 (“Software risk management planning”), 5.1.8 (“Documentation planning”), 5.1.9 (“Software configuration management planning”), clause 6 (“Software maintenance process”), and clause 8 (“Software configuration management process”),54 among others as applicable.
-(2) Enhanced Documentation Level
+
+#### (2) Enhanced Documentation Level
 Documents implementing the configuration management and maintenance plans should be provided in addition to the summary documentation requested for the Basic Documentation Level, as described above.
 Alternatively, to address the recommendations for this documentation element, a sponsor may provide a Declaration of Conformity to the FDA-recognized version of ANSI/AAMI/IEC 62304
 54 References to clauses and subclauses based on ANSI/AAMI/IEC 62304:2006 & A1:2016.
 Medical Device Software – Software Life Cycle Processes, including subclause 5.1 (Software development planning), clause 6 (“Software maintenance process”), and clause 8 (“Software configuration management process”),55 among others as applicable.
-Software Testing as part of Verification and Validation
-
+### Software Testing as part of Verification and Validation
 Refer to Section IV (Definitions) for important information pertaining to FDA’s thinking on verification and validation, as it relates to this guidance. Additionally, please refer to guidance “General Principles of Software Validation” for additional details regarding FDA’s thinking regarding software testing, particularly unit level (module or component) testing, integration level (internal and external interfaces) testing, and system level (functional) testing.
 The recommendations in this guidance do not address other forms of testing, such as non-clinical bench, animal, or clinical testing. For more information regarding other forms of device performance testing, sponsors should refer to relevant special controls,56 FDA-recognized voluntary consensus standards,57 and device-specific guidances. If the premarket submission leverages information from other device performance testing section(s) to address software verification and validation, the sponsor is encouraged to appropriately reference the other performance testing material to facilitate the navigation between submission sections, reduce instances of duplication, and improve readability.
-(1) Basic Documentation Level
+
+#### (1) Basic Documentation Level
 
 The following software testing documentation should be provided: - A summary description of the testing activities at the unit, integration, and system levels.
 The summary description should include the software version tested and the overall pass/fail test results for all test protocols (i.e., collection of test procedures for specific software functionality) executed. If the device is a modified version of a previously cleared or approved device, provide a summary of the modifications compared with the previous cleared or approved version along with a summary description of the additional testing activities performed at the unit, integration, and system levels as compared with the previously cleared or approved version.
@@ -348,17 +341,17 @@ o
 Regression analysis is a documented evaluation of the impact of a software change based on review of the relevant documentation (e.g., software requirements specification, software design specification, source code, test plans, test cases, test scripts, etc.) to determine whether regression testing is needed. If regression testing is needed as determined by the regression analysis, the sponsor should identify the necessary regression tests to be run. Regression testing is the rerunning of test cases that a program has previously executed correctly and comparing the current result to the previous result in order to detect unintended effects of a software change.
 - System level test protocol including expected results derived from software requirements, actual results that are observed and recorded, objective pass/fail determination (i.e., actual results are acceptably equivalent to expected results) and a system level test report.
 The system level test report should demonstrate that the protocol has been acceptably executed with passing test results and any unresolved anomalies have been acceptably deferred based on a risk assessment for the candidate release version.
-(2) Enhanced Documentation Level
+
+#### (2) Enhanced Documentation Level
 
 In addition to the documentation requested for the Basic Documentation Level, all unit and integration level test protocols and reports should be provided, including expected results derived from software requirements and design, actual results that are observed and recorded, and objective pass/fail determination (i.e., actual results are acceptably equivalent to expected results). The unit and integration level test reports should demonstrate that the protocols have been acceptably executed with passing testing results and any unresolved anomalies have been acceptably deferred based on a risk assessment for the candidate release version.
-Software Version History
-
+### Software Version History
 The documentation should include the history of software versions that were tested and documented at the unit, integration, and system levels as part of verification and validation activities, beginning with the version that became subject to the design controls, as described in 21 CFR 820.30. This typically takes the form of a line-item tabulation including the date, version number that was tested (including, if applicable, bench, animal, and clinical testing) and a brief description of all changes in the version relative to the previously tested version.
 
 The last entry in a line-item tabulation should be the final version to be incorporated in the released device. This entry should also include any differences between the tested version of software and the released version, along with an assessment of the potential effect of the differences on the safety and effectiveness of the device.
 If the software version history includes a version(s) that corresponds to a previously released cleared or approved version of the software, the sponsor should highlight in the version history document each prior released cleared or approved version and the premarket submission number(s) associated with that release.
 If the device is a multiple function device product and includes software function(s) that are considered “other functions,” as that term is used in the guidance “Multiple Function Device Products: Policy and Considerations,” the recommendations described in the aforementioned guidance should be considered when preparing the software version history.
-Unresolved Software Anomalies
+### Unresolved Software Anomalies
 An anomaly is any condition that deviates from the expected behavior based on user needs, requirements, specifications, design documents, or standards. Anomalies may be found during the review, test, analysis, compilation, or use of the software (whether before or after release, or whether inside a sponsor’s organization or outside it) or at other times. An unresolved software anomaly is a defect that still resides in the software because a sponsor deemed it appropriate not to correct or fix the anomaly, according to a risk-based rationale about its impact to the device’s safety and effectiveness.
 A list of unresolved anomalies should document the following items (e.g., in tabular format) for each unresolved anomaly present in the software: · A description of the anomaly; - Identification of how the anomaly was discovered and, where possible, identification of the root cause(s) of the anomaly; - Evaluation of the impact of the anomaly on the device’s safety and effectiveness, including operator usage and human factors considerations; · Outcome of the evaluation; and · Risk-based rationale for not correcting or fixing the anomaly in alignment with the sponsor’s risk management plan or procedure(s).
 Additionally, the Agency recommends considering the utilization of a defect classification system, or taxonomy, for each anomaly, such as ANSI/AAMI SW91’s Classification of defects in health software.58 Regardless of the defect classification system used, the sponsor should evaluate the impact of an unresolved anomaly on the device’s safety and effectiveness based on the software’s intended use.
@@ -370,7 +363,7 @@ Section 3060(a) of the Cures Act amended section 520 of the FD&C Act on December
 - Medical Device Data Systems, Medical Image Storage Devices, and Medical Image Communications Devices62
 - How to Determine if Your Product is a Medical Device63
 - Clinical Decision Support Software64
-Appendix A: Documentation Level Examples
+## Appendix A. Documentation Level Examples
 The following list of example devices is intended to demonstrate the implementation of the
 Documentation Level risk-based approach. Please note that these generalized examples do not necessarily account for every possible detail, risk, or consideration a sponsor should evaluate, and should not be taken to mean that the devices described do or do not require a certain
 Documentation Level. These examples do not define the appropriate Documentation Level for a particular device type. As such, the Documentation Level should be uniquely considered for each particular device or device modification and in consideration of the device’s intended use. The rationales in the examples below are abbreviated and FDA encourages sponsors to provide a detailed assessment that accounts for the specifics of their device (such as the device’s risk assessment,65 software description, etc.) when addressing the recommendations in Sections V and VI.A of this guidance.
@@ -515,7 +508,7 @@ drug component to prevent treatment failure.
 Description: The product is a combination product comprised of two regulated components (drug and device). The “primary mode of action”66 is the drug component, provided as a tablet. The device constituent part detects ingestion of the tablet component to monitor adherence to the drug regimen. A missed dose greatly increases the likelihood of treatment failure for a life-threatening condition. The device constituent part includes hardware (sensors) and software (signal processing).
 Rationale: A failure or latent flaw of the device software function(s), such as a false detection of tablet ingestion, would present a hazardous situation with a probable risk of death or serious injury to either a patient (through worsening of the life-threatening disease), user of the device, or others in the environment of use, prior to the implementation of risk control measures.
 Outcome: Enhanced Documentation Level 66 Section 503(g)(1)(C) of the FD&C Act states that the term “primary mode of action” means “the single mode of action of a combination product expected to make the greatest contribution to the overall intended therapeutic effects of the combination product.”
-Appendix B: System and Software Architecture Diagram Examples
+## Appendix B. System and Software Architecture Diagram Examples
 The three example diagrams below are simplified for the purpose of demonstrating how the considerations described in Section VI.E (System and Software Architecture Diagram) could be implemented into diagrams that facilitate a clear understanding of the system and software. Each diagram is supported by descriptive text and a brief discussion on notable features. The examples are intended for illustration purposes only and do not describe a complete and comprehensive system and software architecture diagram.
 The illustrative diagrams are based on the following distinct example devices:
 1. A hand-held diagnostic device
@@ -524,14 +517,11 @@ The illustrative diagrams are based on the following distinct example devices:
 The diagrams are largely static diagrams with high-level identification of interfaces between system and software components. The use of any specific design or formatting features is only provided as a suggestion and does not preclude the use of alternative approaches and/or OTS modeling languages or platforms.
 Figure 1: Example System and Software Architecture Diagram – Hand-Held Diagnostic Device
 Figure 1 depicts a static, high-level system and software architecture diagram of the modules in a fictional hand-held diagnostic device. A legend is provided to describe visual features used to identify different components. References are provided to documents containing more information, including other static diagrams, dynamic diagrams, and detailed descriptions. An annotation is provided to improve clarity on the purpose of one module. Text is provided with adequate clarity and font size for readability.
-Figure 2: Example System and Software Architecture Diagram – Implantable Therapeutic
-Device with Patient- and Provider-Facing Applications
+Figure 2: Example System and Software Architecture Diagram – Implantable Therapeutic Device with Patient- and Provider-Facing Applications
 Figure 2 depicts a static, high-level system and software architecture diagram of the modules in a fictional implantable therapeutic device. The example depicts the implementation of device software functions on OTS platforms, including a cloud computing platform and a smartphone application.
-Figure 3: Example System and Software Architecture Diagram - Cloud-based Device
-Algorithm for Analyzing Previously Captured Medical Images
+Figure 3: Example System and Software Architecture Diagram - Cloud-based Device Algorithm for Analyzing Previously Captured Medical Images
 Figure 3 depicts a static, high-level system and software architecture diagram of the modules in a fictional cloud-based algorithm for analyzing previously captured medical images. The example shows how a software-only function can be described from a platform-level perspective.
 
----
 
 ## Footnotes
 

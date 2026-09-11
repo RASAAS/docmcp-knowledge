@@ -5,6 +5,7 @@
 **Published:** 2017-10-25
 
 
+
 ---
 
 On February 2, 2024, FDA published the final rule to amend the Quality System (QS) regulation in 21 CFR part 820 (89 FR 7496, effective February 2, 2026). The revised 21 CFR part 820 is now titled the Quality Management System Regulation (QMSR). The QMSR harmonizes quality management system requirements by incorporating by reference the international standard specific for medical device quality management systems set by the International Organization for
@@ -27,12 +28,6 @@ FDA’s guidance documents, including this guidance, do not establish legally en
 The regulatory criteria in 21 CFR 807.81(a)(3) state that a premarket notification must be submitted when:
 
 
-
-
-
-
-
-
 (3) The device is one that the person currently has in commercial distribution or is reintroducing into commercial distribution, but that is about to be significantly changed or modified in design, components, method of manufacture, or intended use. The following constitute significant changes or modifications that require a premarket notification: (i) A change or modification in the device that could significantly affect the safety or effectiveness of the device, e.g., a significant change or modification in design, material, chemical composition, energy source, or manufacturing process.
 (ii) A major change or modification in the intended use of the device.
 FDA issued the original guidance Deciding When to Submit a 510(k) for a Change to an Existing
@@ -44,7 +39,6 @@ Regardless of whether a change requires premarket review, the QS regulation requ
 The net effect of the QS regulation is to require that, when manufacturers of a finished medical device make a change in the design of a device, there is a process in place to demonstrate that the manufactured device meets the change in design specifications (or the original specifications, if no change was intended). They must keep records, and these records must be made available to an FDA investigator upon request (see Section 704(e) of the FD&C Act). For many changes to a device, submission of a new 510(k) may not be required. In these cases, including for many design changes, compliance with the QS regulation can reasonably assure the safety and effectiveness of the changed device.
 
 
-
 Least Burdensome Principles
 The least burdensome provision concerning 510(k)s states that FDA “shall only request information that is necessary…” and “shall consider the least burdensome means of demonstrating substantial equivalence…” (see section 513(i)(1)(D)(i) of the FD&C Act). While not changing the standard for substantial equivalence, this provision states that FDA shall only request the “minimum required information” necessary to support a determination of substantial equivalence (see sections 513(i)(1)(D)(ii)-(iii) of the FD&C Act). The recommendations discussed in this guidance for evaluating when a change in a medical device would trigger the requirement that a manufacturer submit a new 510(k) to the Agency are consistent with least burdensome principles, and applies them in discussing the considerations that may affect the decision-making about when to submit a new 510(k) for a device change or modification.
 ## III. Scope
@@ -54,7 +48,6 @@ cases, FDA’s thinking has derived from its experience in situations involving 
 80928.htm). This guidance is not intended to supersede such final device-specific guidance but may cover areas not addressed in such device-specific guidance.
 
 
-
 Recalls: This guidance is also intended to apply to situations when a legally marketed existing device is the subject of a recall, correction, or removal, and a change in the device or its labeling is necessary. For more information on recommended procedures in a recall situation, please see
 Blue Book Memorandum K95-1, 510(k) Requirements During Firm-Initiated Recalls (https://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/ucm 080297.htm). As stated in that guidance, if a correction alters a device rather than simply restoring it to its original specifications, submission of a new 510(k) may be required. FDA may use this guidance in determining whether submission of a new 510(k) is warranted in cases where the correction does alter the device.
 Private Label Distributors and Repackagers: Private label distributors and repackagers are exempt from submitting a 510(k) if they satisfy the requirements of 21 CFR 807.85(b).
@@ -62,14 +55,11 @@ Software Changes: This guidance does not address software changes or modificatio
 This guidance does apply to non-software changes to devices containing software and non-software changes to software that is a medical device on its own. For example, labeling changes to software are covered by Section A of this guidance, and non-software technology changes and materials changes to existing devices that contain software are covered by Sections B through D of this guidance.
 
 
-
 When there are multiple changes that affect labeling or hardware in addition to software, the manufacturer should assess the changes using both the general and software-specific modifications guidances. If use of either guidance leads to a “New 510(k)” conclusion, submission of a new 510(k) is likely required.
 Combination Products: This guidance does not specifically address combination products, such as drug/device or biologic/device combinations; however, the general principles and concepts described herein may be helpful to manufacturers in determining whether submission of a 510(k) is required for changes to device constituent parts of combination products.
 Remanufactured or Reprocessed Single Use Devices: This guidance is not intended to address whether submission of 510(k)s are required from remanufacturers of existing devices who do not hold the 510(k) for the device, such as reprocessors of single-use devices. This guidance does apply to reprocessors and remanufacturers who hold their own 510(k) and are addressing changes or modifications. Remanufacturer is defined at 21 CFR 820.3(w) as “any person who processes, conditions, renovates, repackages, restores, or does any other act to a finished device that significantly changes the finished device’s performance or safety specifications, or intended use.”
 ## IV. Guiding Principles
 In using this guidance for deciding whether to submit a new 510(k) for a change to an existing device, a number of guiding principles should be followed. Some derive from existing FDA 510(k) policy and are widely known, and others are necessary for using the logic scheme contained in this guidance. Thus, anyone using this guidance should bear in mind the following Guiding Principles:
-
-
 
 
 1. Changes made with intent to significantly affect safety or effectiveness of a device –
@@ -82,7 +72,6 @@ This risk-based assessment should identify and analyze all new risks and changes
 For the purposes of this guidance, we have chosen the term “risk-based assessment” to describe the analysis that should be completed to assist in the determination of whether or not a change could significantly affect safety or effectiveness of the device. Although common risk analysis methods define risk in terms of device harms and their effects on safety, it is important to note that whether submission of a new 510(k) is required depends on whether the change could significantly affect the safety or effectiveness of the device. Therefore, manufacturers should also consider the possible effects a device change may have on device effectiveness. As such, we have chosen to use the distinct terminology of “risk-based assessment.”
 
 
-
 3. Unintended consequences of changes – After a manufacturer considers whether the
 change was made with the intent to significantly affect safety or effectiveness, the manufacturer should also consider whether the change could have unintended consequences. In order to fully assess device changes, manufacturers should consider the effects of the planned device changes and whether these changes create any intended and/or unintended consequences.  For example, changes in sterilization may unintentionally affect device materials, or changes to materials may unintentionally affect the performance of the device. Any unintended consequences such as these should be evaluated according to the relevant flowcharts (and their companion text) to determine whether submission of a new 510(k) is required. For instance, a change in sterilization that may unintentionally affect device performance should be reviewed as a sterilization change under B3 and as a performance specification change under B5.
 4. Use of risk management – A risk-based assessment as referred to throughout this
@@ -91,8 +80,6 @@ This guidance states throughout that submission of a new 510(k) is likely requir
 5. The role of testing (i.e., verification and validation activities) in evaluating whether a
 change could significantly affect safety and effectiveness - If the initial decision following the risk-based assessment is that submission of a new 510(k) is not required, this decision should be confirmed by successful, routine verification and validation activities. If routine verification and validation activities produce any unexpected results, any prior decision that submission of a new 510(k) is not required should be reconsidered, as discussed in B5.4 for non-IVD devices and D4 for IVD devices.
 “Routine” activities in this context refer to the original design verification and validation activities that were done to assess the original device design. Because 21 CFR 807.81(a)(3) requires submission of a new 510(k) for a change that “could significantly affect safety or effectiveness,” if the result of a risk-based assessment is that a change could significantly affect safety or effectiveness, submission of a new 510(k) is required even if routine verification and validation activities are conducted successfully without any unexpected results. Note that verification and validation requirements apply for all devices subject to 21 CFR 820.30, and must be conducted regardless of whether submission of a new 510(k) is required.
-
-
 
 
 6. Evaluating simultaneous changes to determine whether submission of a new 510(k)
@@ -108,12 +95,10 @@ with multiple changes, that 510(k) should describe all changes that trigger the 
 If a manufacturer makes multiple changes to a device, but only one change triggers the requirement for submission of a new 510(k), the changes that do not require submission of a new 510(k) may be immediately implemented, so long as those changes can be implemented independently of changes that do require submission of a new 510(k). Any immediately implemented change should still be documented in accordance with applicable QS regulations and the manufacturer’s documentation procedures. Those changes should, however, also be described in the new 510(k) for the change that does require submission.
 
 
-
 10. Substantial equivalence determinations – Manufacturers should understand that, even
-though they may follow this guidance and submit a new 510(k), a substantially equivalent determination is not assured. See FDA’s guidance The 510(k) Program: Evaluating
-Substantial Equivalence in Premarket Notifications (510(k))
+though they may follow this guidance and submit a new 510(k), a substantially equivalent determination is not assured. See FDA’s guidance The 510(k) Program: Evaluating Substantial Equivalence in Premarket Notifications (510(k))
 (https://www.fda.gov/downloads/medicaldevices/deviceregulationandguidance/guidanced ocuments/ucm284443.pdf) for more information on the decision-making process FDA uses to determine substantial equivalence.
-### V. How to Use This Guidance
+## V. How to Use This Guidance
 This guidance uses flowcharts and text to guide manufacturers through the logic scheme we recommend to arrive at a decision on whether to submit a new 510(k) for a change to an existing device. A single logic scheme containing all the necessary steps would be large and cumbersome and could be quite daunting. Rather, for ease of use, the single scheme has been broken down into smaller sections that include: • The main types of changes that might be made to a device (this section, Main Flowchart)
 • Labeling changes (Section A, Flowchart A)
 • Technology, engineering, and performance changes (Section B, Flowchart B)
@@ -127,7 +112,6 @@ Note that the first question is whether the change is being made with the intent
 If so, the change likely could significantly affect safety or effectiveness and submission of a new 510(k) is likely required. If not, you should continue to follow the logic scheme shown in Figure 1, below.
 
 
-
 Change made with intent to significantly improve the safety or effectiveness of the device Labeling change?
 No Yes Technology, engineering, or performance change?
 No Yes Materials change?
@@ -135,11 +119,6 @@ No Yes Go to Chart A Go to Chart B, or Chart D if IVD Go to Chart C, or Chart D 
 Refer to Section E as directed by the text for additional recommendations on use of risk assessment.
 Figure 1 - Main Flowchart
 Note that sections B and C are only applicable to non-IVDs, and section D is only applicable to IVDs. All other sections apply to both IVDs and non-IVDs.
-
-
-
-
-
 
 
 Each of the questions listed on the detailed flowcharts are identified by the flowchart letter (A through D) and a sequential number. Those questions on the main spine of the flowcharts relate to major questions to be answered. Subsidiary questions are identified by the flowchart letter, the question number, a decimal point, and another sequential number (e.g., B4.1 is a decision point containing a follow-up question that builds off a determination made in decision point B4).
@@ -150,8 +129,6 @@ In cases with multiple changes, manufacturers should use all applicable flowchar
 Example 1: Multiple changes caused by a manufacturing process change
 A manufacturer decides to change the manufacturing process for a patient-contacting part from a machining process to a stamping process. The use of the stamping process requires a change in the grade of stainless steel and also results in a change of the dimensional tolerances. To evaluate the impact of this change, the manufacturer should use both Sections B (Technology, Engineering, and Performance) and C (Materials).
 Example 2: Multiple changes related to a change in shelf-life
-
-
 
 
 A manufacturer changes one or more materials in a device to improve the shelf-life of the product. The material change also affects some of the performance characteristics, resulting in the need to update the labeling. To evaluate the impact of the change, the manufacturer should use Sections A (Labeling), B (Technology, Engineering, and Performance) and C (Materials) or D (Technology, Engineering, Performance, and Materials Changes for IVD Devices).
@@ -166,54 +143,40 @@ condition the device will diagnose, treat, prevent, cure or mitigate, including 
 
 FDA looks to this aspect of the submission to make a substantial equivalence determination under section 513(i) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), which requires FDA to evaluate whether, based on the proposed labeling, the device and a predicate device have the same intended use. If a particular labeling change results in an intended use of the device that is not the same as the intended use of the original device, the device would not be substantially equivalent. See also FDA’s guidance The 510(k) Program: Evaluating Substantial Equivalence in Premarket Notifications (510(k))
 (https://www.fda.gov/downloads/medicaldevices/deviceregulationandguidance/guidancedocuments/ucm284443.pdf) Although, in evaluating substantial equivalence in reviewing a 510(k), FDA must determine the intended use of a device based on the proposed labeling, see 21 USC 513(i)(1)(E), FDA may consider other evidence of intended use in determining whether there has been a major change or modification in the intended use of the device under 21 CFR 807.81(a)(3).
-From Main Chart
-A1 Is it a change in the indications for use statement?
-No
-A2 Does the change add or delete a contraindication?
-A3 Is it a change in the warnings or precautions?
-No
-A4 Could it affect the directions for use?
+From Main Chart A1 Is it a change in the indications for use statement?
+No A2 Does the change add or delete a contraindication?
+
+#### A3. Is it a change in the warnings or precautions?
+No A4 Could it affect the directions for use?
 No A1.1
 Is it a change from a device labeled for single use only to a device labeled as reusable?
-A1.2
-Is it a change from Rx to over the counter OTC use?
+
+##### A1.2. Is it a change from Rx to over the counter OTC use?
 A1.4
 Does the change describe a new disease, condition, or pt pop that the device is intended  in diagnosing, treating, preventing, curing or mitigating?
 New 510(k)
-A1.3
-Is it a change to the device name or to solely improve readability or clarity?
+
+##### A1.3. Is it a change to the device name or to solely improve readability or clarity?
 A1.5
 Does a risk-based assessment identify any new risks or significantly modified existing risks Yes No No No Yes Yes Yes Documentation No New 510(k) (If only adding a contraindication, submit CBE 510(k)) Yes Yes No No Yes Yes Reminder: Flowcharts are provided as a visual aid, but do not capture all necessary considerations. Refer to accompanying text when using this flowchart.
 Refer to Section E as directed by the text for additional recommendations on use of risk assessment.
 Yes
 
 
-Figure 2 - Flowchart A: Labeling Changes
-A1. Is it a change in the indications for use statement? Changes in the indications for use statement raise more Agency concern than any other aspect of labeling. In fact, most labeling changes that affect the substance, meaning, or scope of the indications for use could significantly affect safety or effectiveness and will require submission of a new 510(k). Changes that clarify the indications without affecting the substance or meaning of the indications usually do not require submission of a new 510(k). In addition, some changes in the indications for use that limit use within the currently cleared indication may occur without submission of a new 510(k). For example, if a device was cleared for use with three specific indications and the firm decides to market the device for only two of those indications, this change would not likely require submission of a new 510(k).
-
-
-
-
-
-
-
+Figure 2 - Flowchart A: Labeling Changes A1. Is it a change in the indications for use statement? Changes in the indications for use statement raise more Agency concern than any other aspect of labeling. In fact, most labeling changes that affect the substance, meaning, or scope of the indications for use could significantly affect safety or effectiveness and will require submission of a new 510(k). Changes that clarify the indications without affecting the substance or meaning of the indications usually do not require submission of a new 510(k). In addition, some changes in the indications for use that limit use within the currently cleared indication may occur without submission of a new 510(k). For example, if a device was cleared for use with three specific indications and the firm decides to market the device for only two of those indications, this change would not likely require submission of a new 510(k).
 
 
 If the labeling change is to the indications for use statement, proceed to A.1.1.
 Otherwise, proceed to A.2.
 It should be noted the decision points in A1.1-A1.5 may apply not only to changes to the indications for use statement of the labeling, but also to changes to other sections of the labeling, such as the directions for use of the device. You should review these decision points when directed by the text of this guidance and Flowchart A: Labeling Changes.
-A1.1 Is it a change from a device labeled for single use only to a device labeled as reusable?
+
+##### A1.1. Is it a change from a device labeled for single use only to a device labeled as reusable?
 FDA has found that the performance and risks associated with a reusable device can be significantly different from the performance and risks associated with that same device when it is labeled for single use only. Therefore, changing a device labeled for single use only to a device that is labeled as reusable typically could significantly affect the safety or effectiveness and would likely require submission of a new 510(k). Changing a device labeled for reuse to single use only, however, would likely not require submission of a new 510(k) because a single use is a limitation of the previously cleared indications for multiple uses, and the risks of single use were inherently considered within the risks of multiple uses.
 If it is not this type of labeling change, proceed to A.1.2.
 A.1.2 Is it a change from prescription (Rx) to over the counter (OTC) use?
 FDA has found that the directions for use necessary for health care professionals to use a device safely and effectively can be significantly different from the directions for use necessary for lay users to use that same device safely and effectively. Therefore, changing a device labeled for prescription use only to a device that is labeled for OTC use typically could significantly affect the safety or effectiveness and would likely require submission of a new 510(k).  Changing a device labeled for OTC use to prescription use, however, would likely not require submission of a new 510(k) because it is unlikely that the associated labeling changes could significantly affect the safety or effectiveness of the device.
 If it is not this type of labeling change, proceed to A.1.3.
 A.1.3.  Is it a change to the device name or a change solely to improve readability or clarity?
-
-
-
-
-
 
 
 Changes to the device name or description that are consistent with the cleared indications for use typically do not significantly affect the safety or effectiveness and would likely not require  submission of a new 510(k). Changes that are solely to improve readability or clarity that are consistent with the cleared indications for use typically do not significantly affect the safety or effectiveness and likely would not require submission of a new 510(k).
@@ -226,11 +189,6 @@ To evaluate whether a change in patient population is a new and distinguishable 
 One method for determining whether changes to the demographics, diagnosis, prognosis, comorbidity, and potential for complications of the previously cleared patient populations result in a new and distinguishable patient population is to assess if the changes could significantly affect a device’s risk profile through a risk-based assessment as described in A.1.5 and Section E. For example, if the most recently cleared patient population included only individuals with Stage IV carcinoma, and the modified patient population added individuals with Stage III carcinoma, a risk-based assessment considering the factors outlined in section A.1.5 could help determine whether there are any new risks or significantly modified existing risks that would require submission of a new 510(k).
 
 
-
-
-
-
-
 If it is not this type of labeling change, you should proceed to A.1.5.
 A.1.5. Does a risk-based assessment of the changed device identify any new risks or significantly modified existing risks?
 For changes that are not addressed by the previous questions in this section, thus necessitating the use of a risk-based assessment as described in Section E, the factors discussed below should be considered as part of such an assessment for a labeling change.
@@ -238,9 +196,6 @@ As discussed in Question 1 of the Main Flowchart, if a change is intended to sig
 Changes to the labeling can affect a device’s risk profile by affecting how, when, where, or by whom the device is used. As part of the risk-based assessment of a labeling change, manufacturers should consider whether the change could introduce human factors or usability issues that could significantly affect users’ understanding of the labeling and use of the device. Changes that significantly affect a device’s risk profile likely require submission of a new 510(k).
 As further described in Section E, the risk-based assessment should include an analysis of both safety and effectiveness. A risk-based assessment will help manufacturers determine whether changes such as the following could significantly affect safety or effectiveness and would require submission of a new 510(k).
 Changes to the type of joint, organ, bone, vasculature, or tissue applied to or interacted with, regardless of the section of labeling in which this information is contained: Although some changes to the type of joint, organ, bone, vasculature, or tissue applied to or interacted with would involve a new disease, condition, or patient population, and thus lead to a decision to submit a new 510(k) under A.1.4, a risk-based assessment would be appropriate for other changes in this category. How a change to the type of joint, organ, bone, vasculature, or tissue applied to or interacted with affects a device’s risk profile depends on the specific change. For example, a change from use of a bone fixation system – plates, screws, and wires – in an extremity to use in the skull is likely to significantly affect the device’s risk profile and require submission of a new 510(k). Alternatively, a bone fixation system used on one type of long bone changed to use on a different type of long bone may not significantly affect the device’s risk profile and is less likely to require submission of a new 510(k).
-
-
-
 
 
 Changes in user or use environment: How a change of this type affects a device’s risk profile depends on the differences in use environment and environmental specifications.
@@ -263,13 +218,6 @@ If a risk-based assessment indicates that the change leads to a significant chan
 A2. Does the change add or delete a contraindication? Changes in the labeled contraindications for device use generally could significantly affect safety or effectiveness of a device and should typically be reviewed by the Agency; however, FDA recognizes that, in general, the addition of a contraindication based on new information is important to public health. Thus, FDA does not intend to object if manufacturers add new contraindications to their labeling and notify existing users of their device as expeditiously as possible whenever a pressing public health need arises. In this situation, the new labeling should be submitted to FDA as part of a new 510(k) that is prominently labeled “change being effected” (CBE, in Figure 2- Flowchart A). Manufacturers should ensure they are thoroughly familiar with the definition of a contraindication in such situations.
 
 
-
-
-
-
-
-
-
 Deletion or modification of a contraindication also usually requires submission of a new 510(k) prior to effecting the change, because this type of labeling change typically changes the indications for use in a way that could significantly affect safety or effectiveness. Deletions of contraindications would expand the indications for use. For example, if a physical restraint was contraindicated for use with individuals weighing less than 100 pounds because of established life-threatening and other serious adverse events, and the manufacturer subsequently wishes to remove this contraindication, submission of a new 510(k) is likely required.
 
 Similar to changes in indications for use, minor changes that clarify or reword a contraindication without changing the meaning of the contraindications would not typically require submission of a new 510(k).
@@ -288,8 +236,7 @@ Examples of changes that affect the directions for use of the device, and that s
 FDA believes that, if manufacturers follow this approach to changes in device labeling, only necessary new 510(k)s (those changes that could significantly impact safety and effectiveness) will be submitted, while the submission of unnecessary new 510(k)s (those that could not significantly affect safety and effectiveness) will be minimized. At the same time, manufacturers should be able to retain the flexibility to improve their labeling to assure safe and effective use of their devices.
 ### B. Technology, Engineering, and Performance Changes
 These types of changes encompass a broad span of design activities, from minor engineering changes in a circuit board layout to a change from electromechanical to microprocessor control of device function. Flowchart B illustrates the decision-making logic scheme for such technology, engineering, and performance changes to a device. These changes should be evaluated using this scheme, and then the changes should be verified and/or validated according to the QS requirements (21 CFR 820.30(i)). If the results of the verification and/or validation raise any unexpected issues, the decision of whether submission of a new 510(k) is required should be re-evaluated per B5.4.
-From Main Chart
-B2 Is it a control mechanism, operating principle, or energy type change?
+From Main Chart B2 Is it a control mechanism, operating principle, or energy type change?
 B3 Is it a change in sterilization, cleaning, or disinfection?
 New 510(k)
 Yes B3.2
@@ -298,8 +245,7 @@ biocompatibility?
 B3.1
 Is it a change to a Cat. B or novel method, does it lower the SAL, or is it a change to how the device is provided?
 B5 Is it any other change in design (e.g., dimensions, performance specifications, wireless communications, components or accessories, patient/user interface)?
-No Yes Yes No Yes Documentation No No No Yes No Yes
-B4 Is there a change in packaging or expiration dating?
+No Yes Yes No Yes Documentation No No No Yes No Yes B4 Is there a change in packaging or expiration dating?
 B4.1
 Is the same method or protocol, described in previous 510(k), used to support change?
 No Yes B5.1
@@ -316,8 +262,7 @@ B1 Is the device an IVD?
 No Go to Chart D Yes
 
 
-Figure 3 - Flowchart B: Technology, Engineering, and Performance Changes
-B1. Is the device an in vitro diagnostic device? If the device is an IVD, refer to the later section of this guidance which is specific to technology, engineering, and performance changes in IVDs (Section D – Technology, Engineering, Performance, and Materials Changes for In Vitro Diagnostic Devices).
+Figure 3 - Flowchart B: Technology, Engineering, and Performance Changes B1. Is the device an in vitro diagnostic device? If the device is an IVD, refer to the later section of this guidance which is specific to technology, engineering, and performance changes in IVDs (Section D – Technology, Engineering, Performance, and Materials Changes for In Vitro Diagnostic Devices).
 B2. Is it a control mechanism, operating principle, or energy type change?
 Control mechanism changes: A control mechanism, for the purpose of this guidance, is the manner by which the actions of a device are directed. Almost all changes in the control mechanism for a device could significantly affect safety and effectiveness.
 Therefore, such changes will usually require submission of a new 510(k). This is also true for changes in operating principle as well as for changes in energy type (discussed below). Changes of these types tend to be more revolutionary than evolutionary.
@@ -328,19 +273,12 @@ Such changes may also be accompanied by significant labeling changes and, someti
 Energy type changes: Submission of a new 510(k) will usually be required for energy type changes. These changes include both energy output and input changes. A change from emitting microwave energy to radiofrequency (RF) energy would be an example of an energy output change; this type of change would likely be part of a significant redesign. An example of an energy type input change is a change from AC to battery power; this type of change is usually part of a redesign to provide a portable device that can be used under different environmental conditions than the original device. Such a change would normally be accompanied by significant labeling changes, including a new or expanded indication for use. Note that this type of change does not include a change in voltage, such as from 3V to 9V operation or a change between different types of batteries, such as from NiCad to lead acid storage batteries. Such changes should be considered changes in performance specifications or device design, as discussed at decision point B5.
 
 
-
-
 B3. Is it a change in sterilization, cleaning, or disinfection? Changes in sterilization, cleaning, or disinfection should be carefully assessed. If there is a change of this type, proceed to B3.1.
 B3.1
 Is it a change to an “established category B” or “novel” sterilization method, does the change lower the sterility assurance level, or is it a change to how the device is provided? Changes from “established category A” sterilization methods to “established category B” or “novel” sterilization methods generally require submission of a new 510(k). Changes from one “established category A” method to another “established category A” method, or from an “established category B” or “novel” method to an “established category A” method, should be evaluated under B3.2. See FDA’s guidance
 Submission and Review of Sterility Information in Premarket Notification (510(k)) Submissions for Devices Labeled as Sterile (https://www.fda.gov/downloads/medicaldevices/deviceregulationandguidance/guidanced ocuments/ucm109897.pdf) for a discussion of sterilization methods and their categorization (e.g., established A, established B, or novel).
 If the sterility assurance level (SAL) is lowered, manufacturers should consider whether device safety or effectiveness may be compromised by the new level. In general, reductions in SAL require submission of a new 510(k) unless the SAL remains better than 10-6. Note that changes to cleaning and disinfection processes for reprocessed devices can also affect the bioburden levels on a device, which may invalidate subsequent processing steps such as sterilization; manufacturers should carefully consider whether these changes could significantly affect the safety or effectiveness of the device. It is likely that changes to reprocessing procedures for devices listed in Appendix E of FDA’s guidance Reprocessing Medical Devices in Health Care Settings: Validation Methods and Labeling (https://www.fda.gov/downloads/medicaldevices/deviceregulationandguidance/guidanced ocuments/ucm253010.pdf), could significantly affect safety or effectiveness. FDA has identified the devices there as a subset of medical devices that pose a greater likelihood of microbial transmission and represent a high risk of infection (subclinical or clinical) if they are not adequately reprocessed.
 Some changes to how a device is provided to the user or patient could also significantly affect safety or effectiveness. For the purposes of this question, “how the device is provided” refers to whether the device is provided sterile or non-sterile, and to whether the device is provided for (1) single-patient, single-use, (2) single-patient, multi-use, or (3) multi-patient, multi-use. If a device is changed from (1) to (2), (1) to (3), or (2) to (3), i.e., provided for more patients and/or more uses, submission of a new 510(k) is likely required. However, the reverse would not be true; it would be unlikely that a change from (3) to (2), (3) to (1), or (2) to (1) could significantly affect safety or effectiveness and therefore would not likely require submission of a new 510(k). In addition, if a device that was originally provided sterile is modified to be provided non-sterile – either to be sterilized by the user or to be used without sterilization – submission of a new 510(k) is likely required. Submission of a new 510(k) is also likely required if a device originally provided non-sterile is modified to be provided sterile.
-
-
-
-
-
 
 
 If the answer to this question is yes, submission of a new 510(k) is likely required. If the answer is no, proceed to B3.2.
@@ -354,10 +292,6 @@ B4.1
 Is the same method or protocol, as described in a previously cleared 510(k), used to support the change? Generally, changes in device packaging or changes in the expiration date for use of a device do not require submission of a new 510(k). FDA relies on the QS regulation (21 CFR Part 820) to reasonably assure the safety and effectiveness of devices with these types of changes. This is true whether or not the manufacturer applies an expiration date because of package integrity considerations, e.g., sterility, or because of a finite shelf-life of the device. However, where methods or protocols that are not described in a previously cleared 510(k) are used to support new package integrity or shelf-life claims, submission of a new 510(k) is likely required. FDA recognizes that methods or protocols may be updated to reflect newly recognized versions of consensus standards. Submission of a new 510(k) is likely not required in such circumstances.
 
 
-
-
-
-
 B5. Is it any other change in design (e.g., dimensions, performance specifications, wireless communication, components or accessories, or the patient/user interface)?
 These types of design or engineering changes encompass everything from the routine specification changes necessary to maintain or improve device performance as a result of feedback from users, field or plant personnel, etc., up to and including significant product redesign. The bullets below highlight some, but not all, of these changes, and provide points to consider for each type of change.
 • Dimension changes: In determining whether submission of a new 510(k) is required for these types of changes, per B5.1-B5.4, the manufacturer should consider not only the magnitude of the dimension or dimensional specification change, but the criticality of the modified dimension. The more critical the dimensions being modified are to the safe and effective operation of the device, the more likely it is that the change could significantly affect safety or effectiveness. For instance, a 1 mm change to the diameter of a working channel of an endoscope is more likely to significantly affect safety or effectiveness than a 1 mm change to the length of an endoscope.
@@ -366,18 +300,12 @@ If a modified dimension is within a range of dimensions previously cleared for t
 • Wireless communication changes: Changes to device communication between device components or between the modified device and other products, particularly from wired to wireless, may change a device’s risk profile by introducing or modifying risks regarding data transmission or cybersecurity.7 Changes to employ wireless communication in devices where it was previously not used are likely to significantly affect safety or effectiveness and likely require submission of a new 510(k). This is particularly true when wireless communication is used to control device operations. When evaluating other changes, including a change to a different wireless communication protocol, the factors in B5.1-B5.4 should be taken into account in determining whether submission of a new 510(k) is required.
 
 
-
-
 • Changes in the human factors of the patient or user interface: A device user interface includes all points of interaction between the product and the user, including elements such as displays, controls, and packaging. User interface changes refer to changes in the way in which a patient or user interacts with a device, including, for example, the way in which the device presents alarms to the user, the layout of the control panel, the mode of presentation of information to the user or patient, and the way in which the device physically interacts with the user and/or patient (e.g., the way in which a CPAP mask attaches to a patient’s face, or the way a surgical instrument is designed to fit in a surgeon’s hand). Note that this type of change includes changes that modify a user workflow (tasks performed by a user in order to complete their work). Manufacturers should consider the risk impact of changes in user workflow; for example, providing new information to the user or modifying the manner in which information is presented may impact user comprehension. In addition, changing the layout of device controls may impact device use differently in different use scenarios. For more information on applying human factors in medical devices, see FDA’s guidance Applying Human Factors and Usability Engineering to Optimize Medical Device Design https://www.fda.gov/downloads/medicaldevices/deviceregulationandguidance/guidan cedocuments/UCM259760.pdf .
 Changes intended only to increase user or patient comfort when interacting with the device may be particularly difficult to evaluate. Changes to increase user or patient comfort will typically not require submission of a new 510(k), but some changes made for the comfort of the user or patient could also change the way the device functions or performs and therefore could significantly affect safety or effectiveness.
 For example, if a surgical handpiece is redesigned to move a motor closer to the surgeon’s hand or the surgical site, any heating of the motor will be more likely to affect the surgeon or patient and could result in burns. Manufacturers should evaluate changes to a user interface and whether they significantly affect safety or effectiveness in answering B5.1-B5.4.
 Changes in design should be considered, along with the above bulleted points, in answering B5.1-B5.4.
 B5.1
 Does the change significantly affect the use of the device? As with a labeling change, if a design change significantly affects how a device may be used,  submission of a new 510(k) is likely required. In the risk-based assessment, manufacturers should consider whether the design change increases the likelihood that the device will be used by a broader or different group of users who have less training regarding safe and effective use of the device (e.g., lay users instead of clinicians, or general practitioners instead of surgeons) and whether that design change affects the risk profile of the device. If the change significantly affects the risk profile (see Section E), submission of a new 510(k) is likely required.
-
-
-
-
 
 
 Manufacturers should also consider whether the design change increases the likelihood that the device will be used in a new environment, and whether the new environment affects the risk profile of the device. If the change facilitates use in a completely different environment (e.g., from hospital to home use, or from hospital to ambulance transport), this typically will introduce new or significantly modified existing risks and will likely require submission of a new 510(k). If the change facilitates use only in similar environments, the risk profile of a device may also be changed, but this is less likely to require submission of a new 510(k). In deciding whether a design change that allows use of the device in a new environment could significantly affect the safety or effectiveness of the device, manufacturers should consider differences in environmental specifications such as: • temperatures and humidity that might affect device operation; • noises that might drown out the sound of auditory alarms; • exposure to water, soils, or light that might affect device operation; • presence of other devices or equipment that may cause electromagnetic interference; and • possible use in magnetic resonance imaging (MRI).
@@ -392,10 +320,6 @@ Manufacturers should carefully consider whether changing one aspect or feature o
 If a risk-based assessment does not identify any new risks or significantly modified existing risks per Section E, proceed to B5.3.
 B5.3
 Are clinical data necessary to evaluate safety or effectiveness for purposes of design validation? Whenever a manufacturer recognizes that clinical data are needed because bench testing or simulations are not sufficient to assess the impact of the change on safety or effectiveness to validate the design change, submission of a new 510(k) is likely required. For the purposes of this question, clinical data does not include data used for purposes other than design validation, such as user or patient preference testing.
-
-
-
-
 
 
 If clinical data are unnecessary to evaluate safety and effectiveness for purposes of design validation, proceed to B5.4.
@@ -413,29 +337,19 @@ In another example, a manufacturer of monitoring devices wants to use a more sen
 ### C. Materials Changes
 Firms making changes to the materials from which their device is manufactured should also consider the other types of changes discussed above and their impact on the decision regarding submission of a new 510(k). For example, a material change, as discussed below, might also lead to a change in the labeling of the device (e.g., the removal of a contraindication or the addition of a new warning), or a change in specifications (e.g., a reduction in the strength of the device).
 These collateral changes should be considered in addition to the logic scheme described in this section.
-From Main Chart
-C1 Is the device an IVD?
-Go to Chart D Yes
-C2 Change in material type, formulation, chemical composition,  or the material’s processing?
-No Documentation No
-C3 Will the changed material directly or indirectly contact body tissues or fluids?
-Yes
-C4 Does a risk assessment identify any new or increased biocompatibility concerns?
+From Main Chart C1 Is the device an IVD?
+Go to Chart D Yes C2 Change in material type, formulation, chemical composition,  or the material’s processing?
+No Documentation No C3 Will the changed material directly or indirectly contact body tissues or fluids?
+Yes C4 Does a risk assessment identify any new or increased biocompatibility concerns?
 Yes C4.1
 Has the manufacturer used the same material in a similar legally marketed device (including formulation, processing, type and duration of contact, etc.)?
 Yes No New 510(k)
-No No Yes
-C5 Could the change affect performance specifications?
+No No Yes C5 Could the change affect performance specifications?
 No Go to B5
 Yes Reminder: Flowcharts are provided as a visual aid, but do not capture all necessary considerations. Refer to accompanying text when using this flowchart.
 Refer to Section E as directed by the text for additional recommendations on use of risk assessment.
 
-Figure 4 - Flowchart C: Materials Changes
-C1. Is the device an in vitro diagnostic device? If the device is an IVD, refer to the later section of this guidance which is specific to materials changes in IVDs (Section D – Technology, Engineering, Performance, and Materials Changes for In Vitro Diagnostic Devices).
-
-
-
-
+Figure 4 - Flowchart C: Materials Changes C1. Is the device an in vitro diagnostic device? If the device is an IVD, refer to the later section of this guidance which is specific to materials changes in IVDs (Section D – Technology, Engineering, Performance, and Materials Changes for In Vitro Diagnostic Devices).
 
 
 C2. Is this a change in material type, material formulation, chemical composition, or the material’s processing? If there is any change in material type, formulation, or chemical composition, the answer to this question should be yes. Additionally, if there is any change in supplier or manufacturer material processing or finishing steps, the answer should also be yes. The biocompatibility and physical properties of a finished device depend not only on the materials, but also on the processing of the materials, manufacturing methods (including the sterilization process), and the manufacturing residuals that may be present on the finished device. Changes of this type should be further evaluated for their potential impact on safety and effectiveness. The subsequent questions, such as C4 and C4.1, address whether the change is significant using the process of risk assessment.
@@ -446,21 +360,14 @@ While most implant materials contact patients, there are some exceptions. For ex
 If the changed material directly or indirectly contacts body tissues or fluids, proceed to C4. If the changed material does not contact body tissues or fluids, proceed to C5.
 
 
-
-
-
 C4. Does a risk assessment identify any new or increased biocompatibility concerns?
 Manufacturers should conduct a biocompatibility risk assessment, which may include an assessment of the device’s toxicological and physical properties, of any changed materials that may contact the patient or user to determine if there are any new or increased biocompatibility concerns. An example of a new concern would be a material change that requires a new type of biocompatibility test, such as an implantation test, that was not required for the original device. An example of an increased concern would be where a new chemical component added to a material requires a genotoxicity analysis of that component (because, for instance, the particular component is noted in the literature as potentially genotoxic), but the original device already required a genotoxicity analysis.
 See FDA’s guidance Use of International Standard ISO-10993, “Biological evaluation of medical devices - Part 1: Evaluation and testing within a risk management process”
 (https://www.fda.gov/downloads/medicaldevices/deviceregulationandguidance/guidanced ocuments/ucm348890.pdf) for detailed information regarding recommendations on how to conduct a biocompatibility risk assessment, including a specific chemical assessment.
 The answer to C4 may be no if a knowledgeable individual reviews the differences in chemical composition or physical properties and determines that the change is minor enough that there is no new concern about biocompatibility.
 A supporting toxicological assessment can be based on an analysis of the chemical formulations or the results of chemical characterization tests if the detailed formulation is not available (i.e., when the material is provided by a supplier and the formulation is proprietary). If, however, this analysis identifies new chemical entities or other properties that are either novel or have the potential to generate adverse biocompatibility responses, such as genotoxicity, submission of a new 510(k) may be required.
-If a risk assessment identifies any new or increased biocompatibility risks, consider the questions in C4.1. If no new or increased biocompatibility risks are identified, proceed to
-C5. C4.1 Has the manufacturer used the same material in a similar legally marketed device?9
+If a risk assessment identifies any new or increased biocompatibility risks, consider the questions in C4.1. If no new or increased biocompatibility risks are identified, proceed to C5. C4.1 Has the manufacturer used the same material in a similar legally marketed device?9
 Manufacturers who have identified possible biocompatibility concerns in their risk assessment (C4) should consider whether they have used the same material, in its final, finished state, in another one of its own legally marketed devices that has been cleared or approved by the FDA. If the manufacturer has used the same material in a similar device
-
-
-
 
 
 It is important to note that in order to answer yes to this question, the material in question should have the same formulation or chemical composition and be subjected to the same processing, including sterilization (i.e., the comparison should be between materials as they are applied in the final finished device, not between raw materials). Note that the size and geometry of the changed device or component could affect the material properties (e.g.,  affect the curing of the polymer, or result in more material in the new device or component).  Any change in chemical composition, manufacturing process, physical configuration (e.g., size, geometry, surface properties) or intended use of the device should be evaluated with respect to possible changes in biocompatibility and the need for additional biocompatibility assessment.
@@ -473,20 +380,16 @@ Changes in technology, engineering, performance, or materials of an IVD can incl
 For IVDs, performance generally refers to the analytical and clinical specifications established as part of the most recent 510(k) clearance. Analytical performance refers to the documented ability of an IVD test or test system to measure or detect a target analyte or substance that the IVD is represented or purported to identify or measure.Clinical performance refers to the documented ability of an IVD to identify, measure, monitor, or predict the presence or absence of, or the future development of, a clinical condition or predisposition, for which the device is intended.
 
 
-
 Firms making technology, engineering, performance, or materials changes to their IVD should also consider the other types of changes discussed above in Section A, Labeling Changes, and their impact on the decision regarding submission of a new 510(k). For example, a material change, as discussed below, might also be considered a design change and/or might engender a change in the labeling of a device (e.g., the removal of a contraindication, addition of a new warning, or a change in the measuring range). These collateral changes should be considered also when applying the logic scheme described in this section.
 D1 Does the change alter the operating principle of the IVD?
 D2 Is the change identified in a device-specific final guidance or classification regulation?
 D3 Does a risk-based assessment of the changed device identify any new risks or significantly modified existing risks?
-Yes
-D4 Do design verification and validation activities produce any unexpected issues of safety or effectiveness?
+Yes D4 Do design verification and validation activities produce any unexpected issues of safety or effectiveness?
 No New 510(k)
 No No Yes Documentation Yes No Yes Reminder: Flowcharts are provided as a visual aid, but do not capture all necessary considerations.
 Refer to accompanying text when using this flowchart.
 Refer to Section E as directed by the text for additional recommendations on use of risk assessment.
-From main flowchart Yes
-Figure 5 - Flowchart D: Technology, Engineering, Performance, and Materials Changes for In Vitro Diagnostic Devices
-D1. Does the change alter the operating principle of the IVD?
+From main flowchart Yes Figure 5 - Flowchart D: Technology, Engineering, Performance, and Materials Changes for In Vitro Diagnostic Devices D1. Does the change alter the operating principle of the IVD?
 In most cases, a technology, engineering, performance, or material change that alters the operating principle of an IVD could significantly affect safety and effectiveness, in which case submission of a new 510(k) is required. Submission of a new 510(k) is not necessarily required for all changes in technology, engineering, performance, or materials for IVDs that alter the operating principle of an IVD. However, when such changes introduce novel technology that could have an impact on the ability of the device to extract, isolate, or detect the analyte(s) and could therefore affect the value assigned to the specimen, or could produce deviations in device performance that would result in modified reporting of performance in labeling, submission of a new 510(k) is likely required.
 Examples of changes in technology, engineering, performance, or materials that likely alter the operating principle of the IVD and for which a new 510(k) is likely required include: • changes from radioimmunoassays (RIA) to non-RIAs; • changes in the antibody; • changes in detection reagents; • changes in critical reaction components; and • changes in conjugates.
 Examples of changes in technology, engineering, performance, or materials that might alter the operating principle of the IVD include: • changes from liquid to solid reagent; • changes in calibration materials and quality control materials; • changes in substrates; • changes in specimen type; • changes in specimen processing; and • changes in incubation times and temperatures.
@@ -509,11 +412,6 @@ Changes in the human factors of a patient or user interface could, in some cases
 Applying Human Factors and Usability Engineering to Optimize Medical Device Design https://www.fda.gov/downloads/medicaldevices/deviceregulationandguidance/guidanced ocuments/UCM259760.pdf.
 
 
-
-
-
-
-
 Changes intended only to increase user or patient comfort when interacting with the device may be particularly difficult to evaluate. These changes will typically not present new risks or modified existing risks, but some changes made for the comfort of the user or patient could significantly affect safety or effectiveness. Manufacturers should evaluate the potential of changes to a user interface as to whether they could significantly affect safety or effectiveness.
 
 If a risk-based assessment indicates that that the performance of the modified IVD could not significantly change from the previously cleared performance claims, or that the modified IVD does not present new or significantly modified existing risks apart from performance, proceed to D4.
@@ -521,7 +419,6 @@ D4. Do design verification and/or validation activities produce any unexpected i
 As discussed above in the Guiding Principles, manufacturers should conduct an initial risk-based assessment of whether a change requires submission of a new 510(k); if the initial decision following the  risk-based assessment is that submission of a new 510(k) is not required, the manufacturer should conduct design verification and/or validation activities to confirm the decision.
 Verification and validation activities should reevaluate the performance claims or performance specifications that were part of the original 510(k) clearance, as appropriate based on the manufacturer’s routine quality processes.  Submission of a new 510(k) is likely not required where: 1) standard methods and performance criteria that have been established for evaluation of the specific device, as appropriate (e.g., (a) protocols and criteria used to support the original 510(k) or (b) a protocol established in the original 510(k) that described how anticipated changes would be evaluated), are used to verify and validate the modification; 2) the results of verification and validation indicate that the performance is within the criteria; 3) the performance of the modified IVD has not significantly changed from the previously cleared performance claims; and 4) verification and validation do not reveal new risks or significantly modified existing risks apart from performance.
 If all of these criteria are met, then the change is unlikely to significantly affect safety or effectiveness and manufacturers should proceed with the change making sure to document their assessment of whether submission of a new 510(k) is required.
-
 
 
 If any of these criteria are not met, for instance, if verification or validation test methods or acceptance criteria other than those identified in item 1 immediately above are necessary to evaluate the change, it is likely that the change could significantly affect safety or effectiveness and that submission of a new 510(k) is required.
@@ -539,8 +436,6 @@ Various approaches may be employed to estimate probabilities of hazardous situat
 The use of multiple approaches may be considered as this might serve to increase confidence in the results. Where uncertainty exists around these estimates, it may be useful to consider a qualitative approach to risk probability analysis. See, for instance, Section D.3 Risk Estimation of ISO 14971:2007 (second edition).
 
 
-
-
 If it’s determined that the likelihood of a harm occurring due to a device change is negligible, then that change is unlikely to require submission of a new 510(k). If it cannot be determined that a harm’s likelihood is negligible, or the probability cannot be determined at all, then the below factors should also be considered.
 2. Severity of harm
 Manufacturers should consider the following points in analyzing the severity of a potential harm (refer to ISO 14971:2007 (second edition), Annex D, Sections D.3.3 and D.4 on severity and risk acceptability): • New risks – If a device change creates a new risk – i.e., a new hazard or hazardous situation – that did not exist for the original device and the new risk cannot be determined to be negligible, it is likely that the change could significantly affect the device’s safety or effectiveness, and submission of a new 510(k) is likely required. An exception is a device change where the pre-mitigation risk level (the risk level before any risk mitigations or controls are accounted for or product specifications are set) associated with the new risk is considered to be acceptable.
@@ -555,14 +450,13 @@ Note that if a device change results in risk that could significantly affect the
 Although ISO 14971 defines risk in terms of device harms and their effects on safety, it is important to note that whether submission of a new 510(k) is required depends on whether the change could significantly affect the safety or effectiveness of the device. Therefore, manufacturers should also consider the possible effects a device change may have on device effectiveness. As with safety risks, the manufacturer should consider the probability and severity (i.e., magnitude) of impacts to device effectiveness.
 
 In considering a device change’s effects on device effectiveness, manufacturers should understand the criticality of the device feature being modified to the safe and effective use of the device. Certain features are more critical than others. For instance, the outer case of a ventilator, although important to the overall design of the device and providing for connection of various parts, is not as critical to the safe and effective use of the ventilator as the pump that circulates air to the patient. Note that labeling changes, which affect user actions, can be critical as well.
-Appendix A: Examples
+## Appendix A. Examples
 
 The following are hypothetical examples of device changes with explanations as to why they likely would or would not require submission of a new 510(k). These examples are intended to be illustrative of the thought process for different types of changes. Note that these generalized examples do not necessarily account for every possible detail, risk, or consideration a manufacturer should evaluate, and should not be taken to mean that the changes described definitely do or do not require submission of a new 510(k). Real-world device modification decisions will depend on the particular details of the change and the specific device in question.
 
 Labeling change examples
 
-1. Change: The original indications for use for a radio frequency (RF) device is to treat mild-
-moderate wrinkles on the peri-orbital area. The indications for use are modified to also indicate the device for treatment of severe wrinkles on the decollatage.
+1. Change: The original indications for use for a radio frequency (RF) device is to treat mild-moderate wrinkles on the peri-orbital area. The indications for use are modified to also indicate the device for treatment of severe wrinkles on the decollatage.
 Relevant questions: A1- Is it a change in the indications for use statement?  Yes.  The indications for use are being expanded from treatment of mild-moderate wrinkles on the peri-orbital area of the face to treatment of the peri-orbital area and severe wrinkles on the decollatage. Proceed to A1.1 - A1.5.
 A1.4 – Does the change describe a new disease, condition, or patient population that the device is intended for use in diagnosing, treating, preventing, curing or mitigating? No. The manufacturer determined that the conditions and patient populations that the device is intended for use in treating are the same.
 A1.5 – Does a risk-based assessment of the changed device identify any new risks or significantly modified existing risks? Yes. A risk-based assessment identifies that while there are no new or increased safety risks associated with the use of the device on the decollatage, the new indication for use is associated with a risk of significantly reduced effectiveness on the decollatage due to the differences in skin types and the severity of the wrinkles, which could significantly affect safety and effectiveness.
@@ -639,7 +533,6 @@ A4 – Could the change affect the directions for use of the device? Yes. The ch
 A1.5- Does a risk-based assessment of the changed device identify any new risks or significantly modified existing risks? Yes. The changes to the device result in significantly increased existing risks. This is due to a mathematically expected increase in false positive results, which would, in turn, be expected to lead to an increase in harms such as mental anguish, delayed diagnosis for the true cause of any symptoms, and unnecessary treatment (e.g., pregnant women and newborns receiving unnecessary antiviral drugs or an unnecessary caesarean delivery of the fetus). Further, this would also significantly increase risks due to a mathematically expected increase in false negative results, which would, in turn, be expected to lead to an increase in harms such as delayed diagnosis that would in turn delay treatment of the underlying condition and could lead to unintended spread of the disease (e.g., through sexual partners, neonatal transmission during vaginal delivery, and transplanted organs).
 
 
-
 Using only Flowchart A and the corresponding text, the decision based solely on the labeling change alone would be “New 510(k).” However, this type of change in labeling is in response to a design change. Accordingly, analyses under both Section A and Section D apply and the manufacturer is directed to D1.
 D1 – Does the change alter the operating principle of the IVD? No. The change in design is not one that alters the operating principle of the IVD.
 D3 – Does a  risk-based assessment of the changed device identify any new risks or significantly modified existing risks? Yes. The manufacturer’s risk-based assessment indicates that a change in the design of the IVD could significantly change the performance of the modified device compared to the previously cleared performance claims.
@@ -655,9 +548,6 @@ Relevant questions: A1- Is it a change in the indications for usestatement ?  No
 A3 – Is it a change in warnings or precautions? No.  There is no precaution or warning pertaining to the shelf-life of the IVD.
 A4 – Could the change affect the directions for use? Yes.  The labeling change to update the shelf-life could affect the instructions and directions for using the device. Proceed to A1.1 - A1.5.
 A1.5.– Does a  risk-based assessment of the changed device identify any new risks or significantly modified existing risks? No. A risk-based assessment was performed, from which it was determined that the labeling change does not significantly affect the device’s risk profile because no new risks or significantly modified existing risks are identified.
-
-
-
 
 
 Using only Flowchart A and the corresponding text, the decision based solely on the labeling change alone would be “documentation.” However, this type of change in labeling is in response to a change in material of the immediate container of the IVD reagent. Accordingly, analyses under both Section A and Section D apply and the manufacturer is directed to D1.
@@ -727,7 +617,6 @@ B5.2 – Does a risk-based assessment of the changed device identify any new ris
 Decision: New 510(k).
 
 
-
 18. Change: The manufacturer adds a foot switch to control an endoscopic electrosurgical unit.
 The previously cleared device did not have a foot switch.
 Relevant questions: B5 – Is it any other change in design (e.g., dimensions, performance specifications, wireless communication, components or accessories, or the patient/user interface)? Yes. This is a change to the device’s user interface.
@@ -768,7 +657,6 @@ Decision: New 510(k).
 Note: This change could also be evaluated as a materials change. See Example 26.
 
 
-
 Materials change examples
 23. a. Change: The manufacturer of a catheter changes the material of its catheter from polymer
 A to polymer B. The manufacturer has not previously used polymer B in any of its devices, but knows of another catheter on the market from a different manufacturer with the same cleared indications for use that uses polymer B.
@@ -789,7 +677,6 @@ C4.1 – Has the manufacturer used the same material in a similar legally market
 Yes. The manufacturer has used the same polymer B, with the same formulation and processing, in another model of catheter with the same type and duration of contact. This addresses the possible biocompatibility concerns identified in the risk assessment covered in C4.
 C5 – Could the change affect the device’s performance specifications? No. The manufacturer has used the same polymer B in another model of catheter with the same performance specifications.
 Decision: Documentation.
-
 
 
 c. Change: A manufacturer changes the material of its catheter, intended for prolonged blood contact, from polymer A to polymer B. The manufacturer has used the same polymer B in another cleared device; however, this other device was indicated for a use with limited duration and skin contact only.
@@ -854,8 +741,6 @@ B5.4 – Do design verification and/or validation activities produce any unexpec
 Decision: Documentation.
 
 
-
-
 26. Change: The manufacturer of a dental implant changes the surface of a titanium dental
 implant from an untreated surface to one that is acid-etched. The surface is in direct contact with the patient’s bone. The manufacturer has not previously used the acid-etching process, and a cleaning process is necessary to remove acid from the device surface.
 Relevant questions: C2 – Is this a change in material type, material formulation, chemical composition, or the material’s processing? Yes. The material processing of the device has been changed.
@@ -874,12 +759,10 @@ C5 – Could the change affect the device’s performance specifications? No. Th
 Since the tape has been demonstrated to not leave adhesive on the surface of the device, it would not be expected to affect the device’s performance.
 Decision: Documentation.
 IVD technology, engineering, performance, and materials change examples
-28. Change: The manufacturer of a molecular assay received clearance for a quantitative real-
-time PCR assay that included extraction kit reagents. The kit is therefore labeled for use with a set of extraction reagents. The manufacturer makes changes to the column substrate for the extraction method.
+28. Change: The manufacturer of a molecular assay received clearance for a quantitative real-time PCR assay that included extraction kit reagents. The kit is therefore labeled for use with a set of extraction reagents. The manufacturer makes changes to the column substrate for the extraction method.
 Relevant questions: D1– Does the change alter the operating principle of the IVD? No. The change in column substrate would not alter the operating principle.
 D3 – Does a  risk-based assessment of the changed device identify any new risks or significantly modified existing risks? Yes. The manufacturer’s  risk-based assessment indicates that changing the column substrate could significantly change the analytical and clinical performance of the modified test compared to the previously cleared version of this device indicating new or significantly modified existing risks.
 Decision: New 510(k).
-
 
 
 29. Change: The manufacturer of a bilirubin test system makes a change to the reagent,
@@ -902,20 +785,12 @@ D4 – Do design verification and/or validation activities produce any unexpecte
 Decision: Documentation.
 
 
-
-
-
-
 32. Change: An IVD manufacturer makes a material change to their reagent and the
 manufacturer’s  risk-based assessment indicates that the change in material could result in significantly changing the analytical performance from the previously cleared performance claims due to a potential change in the cut-off.
 Relevant Questions: D1 – Does the change alter the operating principle of the IVD? No. The change in material is not one that alters the operating principle of the IVD.
 D3 – Does a  risk-based assessment of the changed device identify any new risks or significantly modified existing risks? Yes. The manufacturer’s  risk-based assessment indicates that a change in the material of the reagent would result in a change in analytical cut-off that could significantly change the performance of the modified test compared to the previously cleared performance claims. In particular, this change in cut-off would be a change that is clinically significant in terms of clinical decision making since patients with samples around the cut-off could now receive a different diagnosis and treatment.
 Decision: New 510(k).
-Appendix B: Documentation
-
-
-
-
+## Appendix B. Documentation
 
 
 Whenever a manufacturer changes its device, it must take certain actions to comply with the QS regulation, 21 CFR Part 820, unless a regulatory exemption exists. The QS regulation requires that design changes and production and process changes be documented prior to implementation.
@@ -930,21 +805,10 @@ It may be helpful to document the assessment of each change in a way that corres
 As a reminder, when making the decision on whether to submit a new 510(k), the manufacturer's basis for comparison of any changed device should be the original device, i.e., the device described in their most recently cleared 510(k) for the device, their legally marketed preamendments device, or their device that was granted marketing authorization via the De Novo classification process.
 
 
-
-
-
-
 Changes to a medical device or its processes vary in complexity. Some types of changes are straightforward and will generally result in a decision that submission of a new 510(k) is not required. To that end, a manufacturer may establish a documentation process that accommodates different levels of documentation depending on the complexity of the change. Simple changes would have simple documentation and may not necessarily go through each question in detail; more complex changes should have more detailed documentation. Examples of types of changes that can typically be documented with simple documentation include: • Change of company labels to update to new company name, e.g., following acquisitions or address changes • Labeling layout changes where content is not changed, for instance, due to a corporate rebranding initiative • Addition of a unique device identifier (UDI) to labeling • Raw material supplier changes that only modify the reference number or brand name of raw materials and do not change the raw material itself
 It is important that the manufacturer include, as part of the documentation process, a means to reevaluate the change should initial assumptions subsequently not be met. In those situations, an update to the existing assessment, or a new assessment, should be documented.
 The examples below are provided to illustrate one possible approach to documentation; other approaches may also be appropriate. Manufacturers are encouraged to use an approach that works for their specific purposes, taking into account the considerations discussed above. The first example below is a simple change that does not necessitate detailed analysis. The second example is a more complex change for which additional analysis and reference to supporting documentation are warranted. Note that these are generalized examples to demonstrate documentation principles and do not necessarily account for every possible detail, risk, or consideration.
 Regulatory Change Assessment (Example 1)
-
-
-
-
-
-
-
 
 
 Product Name: Device ABC Date of Assessment: 10/25/16
@@ -969,14 +833,6 @@ Risk-Based Assessment: N/A
 Signatures: xxxx Regulatory Change Assessment (Example 2)
 
 
-
-
-
-
-
-
-
-
 Product Name: Cardiopulmonary Bypass (CPB) Cannula Date of Assessment: 1/17/20
 Device Description: Cardiopulmonary Bypass Cannula is intended to cannulate the vessels, perfuse the coronary arteries, and interconnect the catheters and cannulas with an oxygenator.
 The current design uses a 304 stainless steel guidewire with a coating composed of material X; the tips of the guidewire are partially uncoated. See design specifications at Document 18-
@@ -989,11 +845,6 @@ We have confirmed that the Type 304 material used for the uncoated guidewire is 
 Reason for Change(s): The coated guidewire has been discontinued by the supplier.
 Applicable Regulatory History (including 510(k) #s and comparison of modified device to most recently cleared version): CPB Cannula was originally cleared in K10xxxx. The labeling layout was changed in 2012 (see
 Regulatory Change Assessment 12-XXXX). The differences between the K10xxxx version and the modified device therefore include an updated labeling layout and the removal of the guidewire coating.
-
-
-
-
-
 
 
 Completed Checklist Attached: ☒Yes
@@ -1012,9 +863,6 @@ Change made with intent to significantly improve the safety or effectiveness of 
 ☐Yes ☒No The change was made because the supplier discontinued the coating.
 
 
-
-
-
 Labeling change?
 ☐Yes ☒No  Labeling changes section N/A
 
@@ -1023,10 +871,6 @@ Technology, engineering, or performance change?
 ☐No Materials change?
 ☒Yes Removing the coating material from the device. This change will be evaluated to determine if processing could affect the biocompatibility of the device.
 ☐No Labeling Questions
-
-
-
-
 
 
 A1 – Is it a change in the indications for use statement?
@@ -1048,11 +892,6 @@ A1.5 – Does a risk-based assessment of the changed device identify any new ris
 ☐No  Document to file
 
 
-
-
-
-
-
 A2 – Does the change add or delete a contraindication?
 ☐Yes Submit 510(k) (If adding a contraindication, submit CBE 510(k))
 ☐No  Go to A3
@@ -1062,11 +901,6 @@ A3 – Is it a change in warnings or precautions?
 A4 – Could the change affect the directions for use of the device?
 ☐Yes Go to A1.1
 ☐No  Document to file Technology, Engineering, and Performance Changes
-
-
-
-
-
 
 
 B1 – Is the device an in vitro diagnostic device?
@@ -1090,8 +924,6 @@ B4.1 – Is the same method or protocol, as described in a previously cleared 51
 ☐Yes Document to file ☐No  Submit 510(k)
 
 
-
-
 B5 – Is it any other change in design (e.g., dimensions, performance specifications, wireless communication, components or accessories, or the patient/user interface)?
 ☒Yes Go to B5.1
 There are two changes, one to the coating of the guidewire, one to the dimensions of the guidewire. Each will be considered below.
@@ -1109,14 +941,6 @@ See full risk-based assessment in Document 20-XXXX.
 Dimensional change: it is unlikely that the small reduction in guidewire diameter could affect safety or effectiveness. Decreasing the diameter of the guidewire would not be expected to hinder the interaction between the guidewire, introducer, and cannula, and it would not be expected to reduce the strength of the guidewire, as the coating did not improve the strength of the wire and the wire itself remains unchanged.
 
 
-
-
-
-
-
-
-
-
 Removal of the coating: it is unlikely, but possible, that the removal of the coating could impact the way the guidewire interacts with the introducer and cannula. We have previously obtained clearance for cannulas with uncoated stainless steel guidewires, however, which did not have markedly different performance (see DHF XXXX). This suggests that the significance of this change is low.
 
 We have determined there are no new or significantly modified risks due to this change.
@@ -1129,11 +953,6 @@ B5.4 – Do design verification and/or validation activities produce any unexpec
 
 See verification and validation testing report in Document 20-YYYY, conducted after the risk-based assessment. Functional testing evaluated the interaction between the guidewire, introducer, and cannula to verify that the uncoated guidewire did not affect device performance. There were no unexpected issues of safety or effectiveness.
 Materials Changes
-
-
-
-
-
 
 
 C1 – Is the device an in vitro diagnostic product (IVD)?
@@ -1159,13 +978,7 @@ C5 – Could the change affect the device’s performance specifications?
 See design change analysis above.
 
 
-
-
 ☐No  Document to file Technology, Engineering, Performance, and Materials Changes for In Vitro Diagnostic Devices
-
-
-
-
 
 
 D1 – Does the change alter the operating principle of the IVD?
@@ -1180,15 +993,7 @@ D3 – Does a  risk-based assessment of the changed device identify any new risk
 D4 – Do design verification and/or validation activities produce any unexpected issues of safety or effectiveness?
 ☐Yes Submit 510(k)
 ☐No  Document to file
-Appendix C: Significant Terminology
-
-
-
-
-
-
-
-
+## Appendix C. Significant Terminology
 
 
 The following significant terminology is provided to clarify the meaning of medical device terms as used in this guidance document. Wherever possible, existing definitions or descriptors from the FD&C Act, medical device regulations, or FDA guidance documents have been used. In some cases, where regulatory definitions or descriptors are unavailable, we have relied on dictionary definitions of terms.
@@ -1203,16 +1008,6 @@ Energy Type, Character, or Source: The type of power input to or output from the
 Examples of a change in energy type or character would be a change from AC to battery power (input) or a change from ionizing radiation to ultrasound to measure a property of the body (output).
 Environmental Specifications: The (range of) acceptable levels of environmental parameters or operating conditions under which the device will perform safely and effectively. Examples of changes in environmental specifications are expanding the acceptable temperature range in which the device will operate properly or hardening the device to significantly higher levels of electromagnetic interference.
 Human Factors of Patient/User Interface: The human factors of the patient or user interface refer to the way in which the device and the patient or user interact. This includes the way in which the device presents alarms to the user, the layout of the control panel, the mode of presentation of information to the user or patient, and the way in which the device physically interacts with the user and/or patient (e.g., the way in which a CPAP mask attaches to a patient’s face, or the way a surgical instrument is designed to fit in a surgeon’s hand).
-
-
-
-
-
-
-
-
-
-
 
 
 Expiration Date: The date beyond which the product may cease to perform safely or effectively and beyond which the manufacturer states the product should not be used.
@@ -1233,14 +1028,6 @@ Material Formulation: The base formulation of a polymer, alloy, etc., plus any a
 An example of a change in material formulation would be a change from a series 300 stainless steel to a series 400 stainless steel. Another example of a change in material formulation would be the addition or subtraction of a chemical or compound to or from a polymer.
 
 
-
-
-
-
-
-
-
-
 Material Supplier: The firm supplying the raw material to a finished device manufacturer.
 Material Type: The generic name of the material from which the device is manufactured. An example of a material type change would be the change from natural latex rubber to synthetic rubber.
 Method of Sterilization: The physical or chemical mechanism used to achieve sterility or to achieve a specific sterility assurance level (SAL).
@@ -1254,17 +1041,11 @@ Precautions, Warnings, and Contraindications: • Precautions describe any speci
 • Contraindications describe situations in which the device should not be used because the risk of use clearly outweighs any reasonably foreseeable benefits.16
 
 
-
-
-
 Reprocessing: Validated processes used to render a medical device, which has been previously used or contaminated, fit for a subsequent single use. These processes are designed to remove soil and contaminants by cleaning and to inactivate microorganisms by disinfection or sterilization.17
 Reusable Medical Device: A device intended for repeated use either on the same or different patients, with appropriate cleaning and other reprocessing between uses.
 Reuse: Use of a device more than once on a single patient or on more than one patient. Actions necessary for reuse of a device may include instructions for assembly/disassembly, on-site sterilization or disinfection, etc. This definition does not include the refurbishing or repair of a device for redistribution or resale.
 Risk: The combination of the probability of occurrence of harm and the severity of that harm.
 For the purposes of this guidance, may relate to either safety or effectiveness (e.g., risk of decreasing device effectiveness).
-
-
-
 
 
 Shelf-life: The term or period during which a device remains suitable for its intended use. This period ends at the device’s expiration date.
@@ -1275,15 +1056,8 @@ Sterilization: A validated process used to render product free from viable micro
 NOTE: In a sterilization process, the nature of microbial inactivation is described as exponential and, thus, the survival of a microorganism on an individual item can be expressed in terms of 16 ODE Bluebook Memorandum G91-1, Device Labeling Guidance (https://www.fda.gov/RegulatoryInformation/Guidances/ucm081368.htm).
 
 
-
-
 User Interface: A device user interface includes all points of interaction between the product and the user, including elements such as displays, controls, packaging, product labels, and directions for use.
 Warnings: See “precautions, warnings, and contraindications” above.
-
-77
-
----
-
 ## Footnotes
 
 [^4]: See FDA’s guidance The 510(k) Program: Evaluating Substantial Equivalence in Premarket Notifications (510(k)) (https://www.fda.gov/downloads/medicaldevices/deviceregulationandguidance/guidancedocuments/ucm284443.pdf)
