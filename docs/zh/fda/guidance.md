@@ -9,7 +9,7 @@ doc_count: 434
 目前有效的 **CDRH Final** 指南（Guidance Document 与 Special Controls）。不含 Draft、CPG、Memorandum 与 Small Entity Compliance Guides。
 
 共 **434** 份。本波次已填写全部中文标题，并生成分类中文目录与元数据页。
-英文结构质检（PR #113）已通过。非 premarket 类别中文全文已按既有英文补齐。`premarket` 已完成 wave1+wave2 共 80 份中文正文（按发布日期由新到旧）；其余已有英文全文的 premarket 仍为元数据页，后续分波继续。
+英文结构质检（PR #113）已通过。非 premarket 类别中文全文已按既有英文补齐。`premarket` 已完成 wave1+wave2+wave3 共 120 份中文正文（按发布日期由新到旧）；其余已有英文全文的 premarket 仍为元数据页，后续分波继续。
 
 各类别内按发布日期由新到旧排列。标注〔全文〕=已有中文全文，〔仅元数据〕=本波次元数据页（英文全文见对应 EN 页）。
 
@@ -55,7 +55,7 @@ doc_count: 434
 
 ## 上市前（510(k) / PMA / De Novo / IDE） {#premarket}
 
-290 份文件，其中中文全文 80 份，其余为元数据页。
+290 份文件，其中中文全文 120 份，其余为元数据页。
 
 - [牙科护理灯 - 上市前通知 (510(k)) 提交：行业与食品药品管理局工作人员指南](./guidance/dental-curing-lights-premarket-notification-510k-submissions) (2026-09-02) 〔全文〕
 - [牙科复合树脂设备 - 上市前通知 (510(k)) 提交：行业与食品药品管理局工作人员指南](./guidance/dental-composite-resin-devices-premarket-notification-510k-submissions) (2026-09-02) 〔全文〕
@@ -137,46 +137,46 @@ doc_count: 434
 - [脊柱涂层系统 - 安全性和性能基础的性能标准：行业与食品药品管理局工作人员指南](./guidance/spinal-plating-systems-performance-criteria-safety-and-performance-based-pathway) (2020-12-11) 〔全文〕
 - [仅接收磁共振 (MR) 卷轴 - 基于安全与性能路径的性能标准：行业与食品药品管理局工作人员指南](./guidance/magnetic-resonance-mr-receive-only-coil-performance-criteria-safety-and-performance-based-pathway) (2020-12-11) 〔全文〕
 - [微针制品的监管考虑：行业与食品药品管理局工作人员指南](./guidance/regulatory-considerations-microneedling-products) (2020-11-10) 〔全文〕
-- [无需过分使用的血糖检测系统：行业与食品药品管理局工作人员指南](./guidance/self-monitoring-blood-glucose-test-systems-over-counter-use) (2020-09-29) 〔仅元数据〕
-- [盐水,凝和其他乳腺植入物：行业与FDA工作人员指南](./guidance/saline-silicone-gel-and-alternative-breast-implants) (2020-09-29) 〔仅元数据〕
-- [乳腺植入物 - 某些标签建议有助于改善患者的沟通：行业与食品药品管理局工作人员指南](./guidance/breast-implants-certain-labeling-recommendations-improve-patient-communication) (2020-09-29) 〔仅元数据〕
-- [处方医疗保健处使用的血糖监测测试系统：行业与食品药品管理局工作人员指南](./guidance/blood-glucose-monitoring-test-systems-prescription-point-care-use) (2020-09-29) 〔仅元数据〕
-- [认证符合性评估计划 (ASCA) 试点计划：行业、认可机构、检测实验室与食品药品管理局工作人员指南](./guidance/accreditation-scheme-conformity-assessment-asca-pilot-program) (2020-09-25) 〔仅元数据〕
-- [医疗器械生物兼容性测试 - 标准标准 认证标准评估试点计划 (ASCA) 具体信息：行业、认可机构、检测实验室与食品药品管理局工作人员指南](./guidance/biocompatibility-testing-medical-devices-standards-specific-information-accreditation-scheme) (2020-09-25) 〔仅元数据〕
-- [医疗电气设备,医疗电气系统和实验室医疗器械基本安全和基本性能 -标准 标准 认证符合性评估计划 (ASCA) 试点计划的具体信息：行业、认可机构、检测实验室与食品药品管理局工作人员指南](./guidance/basic-safety-and-essential-performance-medical-electrical-equipment-medical-electrical-systems-and) (2020-09-25) 〔仅元数据〕
-- [记录目的皮肤电极 - 安全性和性能标准的性能基础路径：行业与食品药品管理局工作人员指南](./guidance/cutaneous-electrodes-recording-purposes-performance-criteria-safety-and-performance-based-pathway) (2020-08-14) 〔仅元数据〕
-- [传统的Foley管 - 基于安全与性能路径的性能标准的路径：行业与食品药品管理局工作人员指南](./guidance/conventional-foley-catheters-performance-criteria-safety-and-performance-based-pathway) (2020-08-14) 〔仅元数据〕
-- [前列腺组织摘除设备的临床研究：行业与食品药品管理局工作人员指南](./guidance/clinical-investigations-prostate-tissue-ablation-devices) (2020-07-15) 〔仅元数据〕
-- [电气设备和放射性健康中心 (CDRH) 诉讼程序:关于517A的问题和答案：行业与食品药品管理局工作人员指南](./guidance/center-devices-and-radiological-health-cdrh-appeals-processes-questions-and-answers-about-517a) (2020-03-27) 〔仅元数据〕
-- [上市前通知 (510(k)) 关于一般外科电脑设备的申请：行业与食品药品管理局工作人员指南](./guidance/premarket-notification-510k-submissions-electrosurgical-devices-general-surgery) (2020-03-09) 〔仅元数据〕
-- [骨 - 上市前通知 (510(k)) 提交：行业与食品药品管理局工作人员指南](./guidance/bone-anchors-premarket-notification-510k-submissions) (2020-03-03) 〔仅元数据〕
-- [申请研究的双重510 ((k) 和CLIA豁免建议：行业与食品药品管理局工作人员指南](./guidance/recommendations-dual-510k-and-clia-waiver-application-studies) (2020-02-26) 〔仅元数据〕
-- [在上市前提交的非临床位性能测试信息中建议内容和格式：行业与食品药品管理局工作人员指南](./guidance/recommended-content-and-format-non-clinical-bench-performance-testing-information-premarket) (2019-12-20) 〔仅元数据〕
-- [实时上市前许可申请 (PMA) 补充：行业与FDA工作人员指南](./guidance/real-time-premarket-approval-application-pma-supplements) (2019-12-16) 〔仅元数据〕
-- [批准前市场批准申请的年度报告：行业与食品药品管理局工作人员指南](./guidance/annual-reports-approved-premarket-approval-applications-pma) (2019-12-16) 〔仅元数据〕
-- [对于市场前批准申请 (PMA) 的接受和提交审查：行业与食品药品管理局工作人员指南](./guidance/acceptance-and-filing-reviews-premarket-approval-applications-pmas) (2019-12-16) 〔仅元数据〕
-- [关于生产方法或工艺变化的30天通知,135天的上市前许可补充剂和75天的人道主义设备豁免补充剂：行业与FDA工作人员指南](./guidance/30-day-notices-135-day-premarket-approval-pma-supplements-and-75-day-humanitarian-device-exemption) (2019-12-16) 〔仅元数据〕
-- [膜内,电线和膜配送系统 - 标签考虑：行业与食品药品管理局工作人员指南](./guidance/intravascular-catheters-wires-and-delivery-systems-lubricious-coatings-labeling-considerations) (2019-10-10) 〔仅元数据〕
-- [冠状病毒,外围和神经血管导线 - 性能测试和建议标签：行业与食品药品管理局工作人员指南](./guidance/coronary-peripheral-and-neurovascular-guidewires-performance-tests-and-recommended-labeling) (2019-10-10) 〔仅元数据〕
-- [基于安全性和性能的路径：行业与食品药品管理局指南](./guidance/safety-and-performance-based-pathway) (2019-09-20) 〔仅元数据〕
-- [特别510 (k) 计划：行业与食品药品管理局工作人员指南](./guidance/special-510k-program) (2019-09-13) 〔仅元数据〕
-- [简称510 (k) 计划：行业与食品药品管理局工作人员指南](./guidance/abbreviated-510k-program) (2019-09-13) 〔仅元数据〕
-- [人道主义设备豁免计划：行业与食品药品管理局工作人员指南](./guidance/humanitarian-device-exemption-hde-program) (2019-09-06) 〔仅元数据〕
-- [代码 代码 代码 代码 代码 代码 代码 代码 代码 代码 代码 代码 代码 代码 代码 代码 代码 代码 代码 代码 代码 代码 代码：行业与食品药品管理局工作人员指南](./guidance/factors-consider-when-making-benefit-risk-determinations-medical-device-premarket-approval-and-de) (2019-08-30) 〔仅元数据〕
-- [在医疗器械上市前许可,De Novo分类和人道主义设备豁免中,考虑对利风险确定时的不确定性：行业与食品药品管理局工作人员指南](./guidance/consideration-uncertainty-making-benefit-risk-determinations-medical-device-premarket-approvals-de) (2019-08-30) 〔仅元数据〕
-- [金属可扩展的胆固醇 - 上市前通知 (510(k)) 提交：行业与食品药品管理局工作人员指南](./guidance/metal-expandable-biliary-stents-premarket-notification-510k-submissions) (2019-07-26) 〔仅元数据〕
-- [实验设备豁免 (IDE) 临床试验期间现场案例演讲:机构审查委员会,工业,临床调查人员和食品药品管理局工作人员的指导](./guidance/live-case-presentations-during-investigational-device-exemption-ide-clinical-trials) (2019-07-11) 〔仅元数据〕
-- [使用动物研究评估器官保护设备：行业与食品药品管理局工作人员指南](./guidance/utilizing-animal-studies-evaluate-organ-preservation-devices) (2019-05-08) 〔仅元数据〕
-- [果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果：行业与食品药品管理局工作人员指南](./guidance/characterization-ultrahigh-molecular-weight-polyethylene-uhmwpe-used-orthopedic-devices) (2019-04-26) 〔仅元数据〕
-- [含有动物来源材料的医疗器械 (除了体诊断设备)：行业与食品药品管理局工作人员指南](./guidance/medical-devices-containing-materials-derived-animal-sources-except-in-vitro-diagnostic-devices) (2019-03-15) 〔仅元数据〕
-- [最轻重的规定:概念和原则：行业与FDA工作人员指南](./guidance/least-burdensome-provisions-concept-and-principles) (2019-02-05) 〔仅元数据〕
-- [抗微生物药物和抗微生物敏感性测试设备的协调开发：行业与食品药品管理局工作人员指南](./guidance/coordinated-development-antimicrobial-drugs-and-antimicrobial-susceptibility-test-devices) (2019-02-01) 〔仅元数据〕
-- [制造场所变更补充剂:内容和提交：行业与食品药品管理局工作人员指南](./guidance/manufacturing-site-change-supplements-content-and-submission) (2018-12-17) 〔仅元数据〕
-- [在不同技术特征的上市前通知 (510(k)) 中确定实质性等效时考虑的利风险因素：行业与食品药品管理局工作人员指南](./guidance/benefit-risk-factors-consider-when-determining-substantial-equivalence-premarket-notifications-510k) (2018-09-25) 〔仅元数据〕
-- [含素的医疗器械和组合产品:标签和安全测试的建议：行业与食品药品管理局工作人员指南](./guidance/heparin-containing-medical-devices-and-combination-products-recommendations-labeling-and-safety) (2018-09-20) 〔仅元数据〕
-- [医疗器械前销售的自愿共识标准的适当使用：行业与食品药品管理局工作人员指南](./guidance/appropriate-use-voluntary-consensus-standards-premarket-submissions-medical-devices) (2018-09-14) 〔仅元数据〕
-- [公共人类基因变体数据库的使用,以支持基因和基因组基因在体诊断的临床有效性：利益相关方与食品药品管理局工作人员指南](./guidance/use-public-human-genetic-variant-databases-support-clinical-validity-genetic-and-genomic-based-vitro) (2018-04-13) 〔仅元数据〕
-- [接受临床数据支持医疗器械申请和提交:常见问题：行业与食品药品管理局工作人员指南](./guidance/acceptance-clinical-data-support-medical-device-applications-and-submissions-frequently-asked) (2018-02-21) 〔仅元数据〕
+- [无需过分使用的血糖检测系统：行业与食品药品管理局工作人员指南](./guidance/self-monitoring-blood-glucose-test-systems-over-counter-use) (2020-09-29) 〔全文〕
+- [盐水,凝和其他乳腺植入物：行业与FDA工作人员指南](./guidance/saline-silicone-gel-and-alternative-breast-implants) (2020-09-29) 〔全文〕
+- [乳腺植入物 - 某些标签建议有助于改善患者的沟通：行业与食品药品管理局工作人员指南](./guidance/breast-implants-certain-labeling-recommendations-improve-patient-communication) (2020-09-29) 〔全文〕
+- [处方医疗保健处使用的血糖监测测试系统：行业与食品药品管理局工作人员指南](./guidance/blood-glucose-monitoring-test-systems-prescription-point-care-use) (2020-09-29) 〔全文〕
+- [认证符合性评估计划 (ASCA) 试点计划：行业、认可机构、检测实验室与食品药品管理局工作人员指南](./guidance/accreditation-scheme-conformity-assessment-asca-pilot-program) (2020-09-25) 〔全文〕
+- [医疗器械生物兼容性测试 - 标准标准 认证标准评估试点计划 (ASCA) 具体信息：行业、认可机构、检测实验室与食品药品管理局工作人员指南](./guidance/biocompatibility-testing-medical-devices-standards-specific-information-accreditation-scheme) (2020-09-25) 〔全文〕
+- [医疗电气设备,医疗电气系统和实验室医疗器械基本安全和基本性能 -标准 标准 认证符合性评估计划 (ASCA) 试点计划的具体信息：行业、认可机构、检测实验室与食品药品管理局工作人员指南](./guidance/basic-safety-and-essential-performance-medical-electrical-equipment-medical-electrical-systems-and) (2020-09-25) 〔全文〕
+- [记录目的皮肤电极 - 安全性和性能标准的性能基础路径：行业与食品药品管理局工作人员指南](./guidance/cutaneous-electrodes-recording-purposes-performance-criteria-safety-and-performance-based-pathway) (2020-08-14) 〔全文〕
+- [传统的Foley管 - 基于安全与性能路径的性能标准的路径：行业与食品药品管理局工作人员指南](./guidance/conventional-foley-catheters-performance-criteria-safety-and-performance-based-pathway) (2020-08-14) 〔全文〕
+- [前列腺组织摘除设备的临床研究：行业与食品药品管理局工作人员指南](./guidance/clinical-investigations-prostate-tissue-ablation-devices) (2020-07-15) 〔全文〕
+- [电气设备和放射性健康中心 (CDRH) 诉讼程序:关于517A的问题和答案：行业与食品药品管理局工作人员指南](./guidance/center-devices-and-radiological-health-cdrh-appeals-processes-questions-and-answers-about-517a) (2020-03-27) 〔全文〕
+- [上市前通知 (510(k)) 关于一般外科电脑设备的申请：行业与食品药品管理局工作人员指南](./guidance/premarket-notification-510k-submissions-electrosurgical-devices-general-surgery) (2020-03-09) 〔全文〕
+- [骨 - 上市前通知 (510(k)) 提交：行业与食品药品管理局工作人员指南](./guidance/bone-anchors-premarket-notification-510k-submissions) (2020-03-03) 〔全文〕
+- [申请研究的双重510 ((k) 和CLIA豁免建议：行业与食品药品管理局工作人员指南](./guidance/recommendations-dual-510k-and-clia-waiver-application-studies) (2020-02-26) 〔全文〕
+- [在上市前提交的非临床位性能测试信息中建议内容和格式：行业与食品药品管理局工作人员指南](./guidance/recommended-content-and-format-non-clinical-bench-performance-testing-information-premarket) (2019-12-20) 〔全文〕
+- [实时上市前许可申请 (PMA) 补充：行业与FDA工作人员指南](./guidance/real-time-premarket-approval-application-pma-supplements) (2019-12-16) 〔全文〕
+- [批准前市场批准申请的年度报告：行业与食品药品管理局工作人员指南](./guidance/annual-reports-approved-premarket-approval-applications-pma) (2019-12-16) 〔全文〕
+- [对于市场前批准申请 (PMA) 的接受和提交审查：行业与食品药品管理局工作人员指南](./guidance/acceptance-and-filing-reviews-premarket-approval-applications-pmas) (2019-12-16) 〔全文〕
+- [关于生产方法或工艺变化的30天通知,135天的上市前许可补充剂和75天的人道主义设备豁免补充剂：行业与FDA工作人员指南](./guidance/30-day-notices-135-day-premarket-approval-pma-supplements-and-75-day-humanitarian-device-exemption) (2019-12-16) 〔全文〕
+- [膜内,电线和膜配送系统 - 标签考虑：行业与食品药品管理局工作人员指南](./guidance/intravascular-catheters-wires-and-delivery-systems-lubricious-coatings-labeling-considerations) (2019-10-10) 〔全文〕
+- [冠状病毒,外围和神经血管导线 - 性能测试和建议标签：行业与食品药品管理局工作人员指南](./guidance/coronary-peripheral-and-neurovascular-guidewires-performance-tests-and-recommended-labeling) (2019-10-10) 〔全文〕
+- [基于安全性和性能的路径：行业与食品药品管理局指南](./guidance/safety-and-performance-based-pathway) (2019-09-20) 〔全文〕
+- [特别510 (k) 计划：行业与食品药品管理局工作人员指南](./guidance/special-510k-program) (2019-09-13) 〔全文〕
+- [简称510 (k) 计划：行业与食品药品管理局工作人员指南](./guidance/abbreviated-510k-program) (2019-09-13) 〔全文〕
+- [人道主义设备豁免计划：行业与食品药品管理局工作人员指南](./guidance/humanitarian-device-exemption-hde-program) (2019-09-06) 〔全文〕
+- [代码 代码 代码 代码 代码 代码 代码 代码 代码 代码 代码 代码 代码 代码 代码 代码 代码 代码 代码 代码 代码 代码 代码：行业与食品药品管理局工作人员指南](./guidance/factors-consider-when-making-benefit-risk-determinations-medical-device-premarket-approval-and-de) (2019-08-30) 〔全文〕
+- [在医疗器械上市前许可,De Novo分类和人道主义设备豁免中,考虑对利风险确定时的不确定性：行业与食品药品管理局工作人员指南](./guidance/consideration-uncertainty-making-benefit-risk-determinations-medical-device-premarket-approvals-de) (2019-08-30) 〔全文〕
+- [金属可扩展的胆固醇 - 上市前通知 (510(k)) 提交：行业与食品药品管理局工作人员指南](./guidance/metal-expandable-biliary-stents-premarket-notification-510k-submissions) (2019-07-26) 〔全文〕
+- [实验设备豁免 (IDE) 临床试验期间现场案例演讲:机构审查委员会,工业,临床调查人员和食品药品管理局工作人员的指导](./guidance/live-case-presentations-during-investigational-device-exemption-ide-clinical-trials) (2019-07-11) 〔全文〕
+- [使用动物研究评估器官保护设备：行业与食品药品管理局工作人员指南](./guidance/utilizing-animal-studies-evaluate-organ-preservation-devices) (2019-05-08) 〔全文〕
+- [果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果：行业与食品药品管理局工作人员指南](./guidance/characterization-ultrahigh-molecular-weight-polyethylene-uhmwpe-used-orthopedic-devices) (2019-04-26) 〔全文〕
+- [含有动物来源材料的医疗器械 (除了体诊断设备)：行业与食品药品管理局工作人员指南](./guidance/medical-devices-containing-materials-derived-animal-sources-except-in-vitro-diagnostic-devices) (2019-03-15) 〔全文〕
+- [最轻重的规定:概念和原则：行业与FDA工作人员指南](./guidance/least-burdensome-provisions-concept-and-principles) (2019-02-05) 〔全文〕
+- [抗微生物药物和抗微生物敏感性测试设备的协调开发：行业与食品药品管理局工作人员指南](./guidance/coordinated-development-antimicrobial-drugs-and-antimicrobial-susceptibility-test-devices) (2019-02-01) 〔全文〕
+- [制造场所变更补充剂:内容和提交：行业与食品药品管理局工作人员指南](./guidance/manufacturing-site-change-supplements-content-and-submission) (2018-12-17) 〔全文〕
+- [在不同技术特征的上市前通知 (510(k)) 中确定实质性等效时考虑的利风险因素：行业与食品药品管理局工作人员指南](./guidance/benefit-risk-factors-consider-when-determining-substantial-equivalence-premarket-notifications-510k) (2018-09-25) 〔全文〕
+- [含素的医疗器械和组合产品:标签和安全测试的建议：行业与食品药品管理局工作人员指南](./guidance/heparin-containing-medical-devices-and-combination-products-recommendations-labeling-and-safety) (2018-09-20) 〔全文〕
+- [医疗器械前销售的自愿共识标准的适当使用：行业与食品药品管理局工作人员指南](./guidance/appropriate-use-voluntary-consensus-standards-premarket-submissions-medical-devices) (2018-09-14) 〔全文〕
+- [公共人类基因变体数据库的使用,以支持基因和基因组基因在体诊断的临床有效性：利益相关方与食品药品管理局工作人员指南](./guidance/use-public-human-genetic-variant-databases-support-clinical-validity-genetic-and-genomic-based-vitro) (2018-04-13) 〔全文〕
+- [接受临床数据支持医疗器械申请和提交:常见问题：行业与食品药品管理局工作人员指南](./guidance/acceptance-clinical-data-support-medical-device-applications-and-submissions-frequently-asked) (2018-02-21) 〔全文〕
 - [添加剂制造医疗器械的技术考虑因素：行业与食品药品管理局工作人员指南](./guidance/technical-considerations-additive-manufactured-medical-devices) (2017-12-05) 〔仅元数据〕
 - [医疗保险和医疗补助服务中心 (CMS) 提供覆盖决策的研究设备豁免 (IDE) 设备的FDA分类:赞助商,临床调查人员,工业,机构审查委员会和食品药品管理局工作人员的指导](./guidance/fda-categorization-investigational-device-exemption-ide-devices-assist-centers-medicare-and-medicaid) (2017-12-05) 〔仅元数据〕
 - [儿童X射线成像设备上市前通知：行业与食品药品管理局工作人员指南](./guidance/pediatric-information-x-ray-imaging-device-premarket-notifications) (2017-11-28) 〔仅元数据〕
