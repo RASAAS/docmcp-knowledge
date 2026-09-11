@@ -1,35 +1,10 @@
----
-title: "唯一的设备识别:便利套件：行业与食品药品管理局工作人员指南"
-description: "Unique Device Identification: Convenience Kits : Guidance for Industry and Food and Drug Administration Staff"
-published: 2019-04-26
----
+# 唯一器械标识：便利包：行业与食品药品监督管理局工作人员指南
 
-# 唯一的设备识别:便利套件：行业与食品药品管理局工作人员指南
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/unique-device-identification-convenience-kits](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/unique-device-identification-convenience-kits)
 
-**Unique Device Identification: Convenience Kits : Guidance for Industry and Food and Drug Administration Staff**
-
-**发布日期**：2019-04-26
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：标签标识 / UDI
-**主题**：Labeling、UDI
-**案卷号**：FDA-2015-D-4048
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/unique-device-identification-convenience-kits
-PDF：https://www.fda.gov/media/95120/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 2019-04-26
 
 ---
-
-## 官方文件全文
 
 本指南代表美国食品药品监督管理局（FDA或本机构）对该主题的当前观点。它不赋予任何个人任何权利，对FDA或公众不具有约束力。如果您采用的替代方法满足适用法律法规的要求，则可以采用该替代方法。如需讨论替代方法，请联系本指南标题页所列的负责FDA工作人员或办公室。
 ## I. 简介
@@ -123,4 +98,3 @@ https://www.fda.gov/downloads/MedicalDevices/DeviceRegulationandGuidance/Guidanc
 [^16]: 见AccessGUDID：https://accessgudid.nlm.nih.gov/。
 
 [^17]: 见 https://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/UniqueDeviceIdentification/default.htm。
-

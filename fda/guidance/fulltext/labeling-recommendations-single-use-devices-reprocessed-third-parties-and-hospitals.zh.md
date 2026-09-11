@@ -1,34 +1,10 @@
----
-title: "标签建议:第三方和医院对一次性使用设备进行回收处理:工业和FDA的最终指导"
-description: "Labeling Recommendations for Single-Use Devices Reprocessed by Third Parties and Hospitals: Final Guidance for Industry and FDA"
-published: 2001-07-30
----
+# 由第三方和医院再处理的一次性使用器械的标签建议：行业与FDA最终指南
 
-# 标签建议:第三方和医院对一次性使用设备进行回收处理:工业和FDA的最终指导
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/labeling-recommendations-single-use-devices-reprocessed-third-parties-and-hospitals](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/labeling-recommendations-single-use-devices-reprocessed-third-parties-and-hospitals)
 
-**Labeling Recommendations for Single-Use Devices Reprocessed by Third Parties and Hospitals: Final Guidance for Industry and FDA**
-
-**发布日期**：2001-07-30
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：质量与生产
-**案卷号**：FDA-2020-D-0957
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/labeling-recommendations-single-use-devices-reprocessed-third-parties-and-hospitals
-PDF：https://www.fda.gov/media/71405/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 2001-07-30
 
 ---
-
-## 官方文件全文
 
 2024年2月2日，FDA发布最终规则，修订21 CFR part 820中的质量体系（QS）法规（89 FR 7496，自2026年2月2日起生效）。经修订的21 CFR part 820现题为质量管理体系法规（QMSR）。QMSR通过引用纳入国际标准化组织（ISO）制定的专门针对医疗器械质量管理体系的国际标准ISO 13485:2016，从而协调质量管理体系要求。FDA已认定，ISO 13485的要求在整体上与QS法规的要求实质相似，对企业的质量管理体系以及持续制造安全有效并在其他方面符合《联邦食品、药品和化妆品法》（FD&C法）的器械的能力提供相似水平的保证。
 本指南文件在最终规则生效日期之前发布。FDA鼓励制造商审查现行QMSR，以确保符合相关监管要求。
@@ -150,4 +126,3 @@ FDA没有权限或专长就何构成版权或商标侵权提供建议。您应�
 13. 若第三方再处理机构将器械装运回医院，是否需要标签？
 是，除非该装运属于法规规定的豁免之一，向医院装运器械的第三方再处理机构需要遵守全部标签要求。
 否则这些器械将被错误标识。
-

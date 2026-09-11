@@ -1,34 +1,10 @@
----
-title: "关于第三方和医院处理器重复处理和重复使用一次性设备的常见问题 - 三个额外的问题,FDA工作人员,第三方和医院处理器：行业指南"
-description: "Frequently-Asked-Questions about the Reprocessing and Reuse of Single-Use Devices by Third-Party and Hospital Reprocessors - Three Additional Questions: Guidance for Industry, FDA Staff, Third-Party and Hospital Reprocessors"
-published: 2003-07-16
----
+# 关于第三方和医院再处理机构对一次性使用器械再处理与重复使用的常见问题——三个补充问题：行业、FDA工作人员、第三方和医院再处理机构指南
 
-# 关于第三方和医院处理器重复处理和重复使用一次性设备的常见问题 - 三个额外的问题,FDA工作人员,第三方和医院处理器：行业指南
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/frequently-asked-questions-about-reprocessing-and-reuse-single-use-devices-third-party-and-hospital-0](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/frequently-asked-questions-about-reprocessing-and-reuse-single-use-devices-third-party-and-hospital-0)
 
-**Frequently-Asked-Questions about the Reprocessing and Reuse of Single-Use Devices by Third-Party and Hospital Reprocessors - Three Additional Questions: Guidance for Industry, FDA Staff, Third-Party and Hospital Reprocessors**
-
-**发布日期**：2003-07-16
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：质量与生产
-**案卷号**：FDA-2020-D-0957
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/frequently-asked-questions-about-reprocessing-and-reuse-single-use-devices-third-party-and-hospital-0
-PDF：https://www.fda.gov/media/71124/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 2003-07-16
 
 ---
-
-## 官方文件全文
 
 有关医疗器械与放射健康中心监管器械的问题，请联系感染控制器械处（INCB），电话 (301) 796-5580。
 
@@ -66,4 +42,3 @@ FDA指南文件（包括本指南）不确立具有法律强制执行力的责�
 
 答复： 否。仅实际对标示为一次性使用的医疗器械进行再处理的医院，必须遵守FDA适用于制造商的医疗器械要求。
 FDA的监管要求不适用于使用第三方再处理机构对一次性使用器械（SUD）进行再处理以供重复使用的医院。
-

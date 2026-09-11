@@ -1,35 +1,10 @@
----
-title: "在第564条宣布紧急情况期间,对体外诊断测试的执法政策的考虑：行业与食品药品管理局工作人员指南"
-description: "Consideration of Enforcement Policies for In Vitro Diagnostic Tests During a Section 564 Declared Emergency: Guidance for Industry and Food and Drug Administration Staff"
-published: 2025-09-23
----
+# 第564条宣布紧急情况期间体外诊断检测执法政策的考量：行业与食品药品监督管理局工作人员指南
 
-# 在第564条宣布紧急情况期间,对体外诊断测试的执法政策的考虑：行业与食品药品管理局工作人员指南
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/consideration-enforcement-policies-in-vitro-diagnostic-tests-during-section-564-declared-emergency](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/consideration-enforcement-policies-in-vitro-diagnostic-tests-during-section-564-declared-emergency)
 
-**Consideration of Enforcement Policies for In Vitro Diagnostic Tests During a Section 564 Declared Emergency: Guidance for Industry and Food and Drug Administration Staff**
-
-**发布日期**：2025-09-23
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：体外诊断 / 伴随诊断
-**主题**：Outbreak、IVDs (In Vitro Diagnostic Devices)
-**案卷号**：FDA-2023-D-5365
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/consideration-enforcement-policies-in-vitro-diagnostic-tests-during-section-564-declared-emergency
-PDF：https://www.fda.gov/media/178123/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 2025-09-23
 
 ---
-
-## 官方文件全文
 
 第564条宣布紧急情况期间体外诊断检测执法政策的考量
 
@@ -87,4 +62,3 @@ FDA拟在特定执法政策的指南文件中，酌情提供针对特定紧急�
 [^9]: 见脚注8。
 
 [^12]: 关于ITAP的更多信息，见 https://www.nibib.nih.gov/covid-19/radx-tech-program/ITAP ¹³2025年1月，FDA发布题为“某些体外诊断器械的验证
-

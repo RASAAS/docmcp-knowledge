@@ -1,34 +1,10 @@
----
-title: "医疗器械跟踪：行业与FDA工作人员指南"
-description: "Medical Device Tracking : Guidance for Industry and FDA Staff"
-published: 2014-03-27
----
-
 # 医疗器械跟踪：行业与FDA工作人员指南
 
-**Medical Device Tracking : Guidance for Industry and FDA Staff**
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/medical-device-tracking](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/medical-device-tracking)
 
-**发布日期**：2014-03-27
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：上市后
-**案卷号**：FDA-2020-D-0957
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/medical-device-tracking
-PDF：https://www.fda.gov/media/71205/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 2014-03-27
 
 ---
-
-## 官方文件全文
 
 FDA指南文件（包括本指南）不确立具有法律强制执行力的责任。相反，指南描述本机构对某一主题的当前观点，且除非援引具体的法规或法定要求，否则应仅视为建议。在本机构指南中使用“应当（should）”一词，表示某事项被建议或推荐，但并非强制要求。
 ## II. 背景
@@ -172,4 +148,3 @@ Pulse generator, single chamber, sensor driven, implantable LWO Pump, infusion o
 
 Product Code - Preferred Name Procode Condylar fixation plate, implant JDP
 Condyle prosthesis, mandibular; bone plate with mandibular condyle prosthesis; locking reconstruction plate with attachable condyle MPL Glenoid fossa prosthesis MPI
-

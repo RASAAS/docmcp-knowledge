@@ -1,34 +1,10 @@
----
-title: "激光产品标记的替代 (激光通告 53) 的批准"
-description: "Approval of Alternate Means of Labeling for Laser Products (Laser Notice 53)"
-published: 2007-03-22
----
+# 激光产品标记的替代（激光通告53）的批准
 
-# 激光产品标记的替代 (激光通告 53) 的批准
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/approval-alternate-means-labeling-laser-products-laser-notice-53](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/approval-alternate-means-labeling-laser-products-laser-notice-53)
 
-**Approval of Alternate Means of Labeling for Laser Products (Laser Notice 53)**
-
-**发布日期**：2007-03-22
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：标签标识 / UDI
-**案卷号**：FDA-2020-D-0957
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/approval-alternate-means-labeling-laser-products-laser-notice-53
-PDF：https://www.fda.gov/media/73953/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 2007-03-22
 
 ---
-
-## 官方文件全文
 
 FDA指南文件（包括本指南）不确立具有法律强制执行力的责任。相反，指南描述本机构对某一主题的当前观点，且除非援引具体的法规或法定要求，否则应仅视为建议。在本机构指南中使用“应当（should）”一词，表示某事项被建议或推荐，但并非强制要求。
 最少负担方法
@@ -60,4 +36,3 @@ FDA指南文件（包括本指南）不确立具有法律强制执行力的责�
 您可从我们的电子产品辐射控制网页 http://www.fda.gov/cdrh/radhealth/ 获取更多关于激光要求的信息。
 
 如对本指南有任何疑问，请联系Jerome Dennis，医疗器械与放射健康中心（HFZ-240），食品药品监督管理局，1350 Piccard Drive, Rockville, Maryland 20850，或 jerome.dennis@fda.hhs.gov。
-

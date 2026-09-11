@@ -1,35 +1,10 @@
----
-title: "经过某些FDA检查设备机构后的非约束性反：行业与食品药品管理局工作人员指南"
-description: "Nonbinding Feedback After Certain FDA Inspections of Device Establishments: Guidance for Industry and Food and Drug Administration Staff"
-published: 2020-04-22
----
+# 对器械机构某些FDA检查后的非约束性反馈：行业与食品药品监督管理局工作人员指南
 
-# 经过某些FDA检查设备机构后的非约束性反：行业与食品药品管理局工作人员指南
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/nonbinding-feedback-after-certain-fda-inspections-device-establishments](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/nonbinding-feedback-after-certain-fda-inspections-device-establishments)
 
-**Nonbinding Feedback After Certain FDA Inspections of Device Establishments: Guidance for Industry and Food and Drug Administration Staff**
-
-**发布日期**：2020-04-22
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：上市后
-**主题**：Postmarket
-**案卷号**：FDA-2018-D-4711
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/nonbinding-feedback-after-certain-fda-inspections-device-establishments
-PDF：https://www.fda.gov/media/120260/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 2020-04-22
 
 ---
-
-## 官方文件全文
 
 对器械机构某些FDA检查后的非约束性反馈 ______________________________________________________________________________
 
@@ -91,4 +66,3 @@ FDA可自行决定通过替代机制（例如书面函件、电话会议、面�
 ## 脚注
 
 [^3]: 见 https://www.gpo.gov/fdsys/pkg/FR-2009-08-11/pdf/E9-19107.pdf。
-

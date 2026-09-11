@@ -1,35 +1,10 @@
----
-title: "制造商向诊断X射线系统组装器披露信息：行业与FDA工作人员指南"
-description: "Information Disclosure by Manufacturers to Assemblers for Diagnostic X-ray Systems - Guidance for Industry and FDA Staff"
-published: 2003-09-04
----
+# 制造商向组装者披露诊断X射线系统信息——行业与FDA工作人员指南
 
-# 制造商向诊断X射线系统组装器披露信息：行业与FDA工作人员指南
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/information-disclosure-manufacturers-assemblers-diagnostic-x-ray-systems-guidance-industry-and-fda](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/information-disclosure-manufacturers-assemblers-diagnostic-x-ray-systems-guidance-industry-and-fda)
 
-**Information Disclosure by Manufacturers to Assemblers for Diagnostic X-ray Systems - Guidance for Industry and FDA Staff**
-
-**发布日期**：2003-09-04
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：上市后
-**主题**：Postmarket
-**案卷号**：FDA-2020-D-0957
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/information-disclosure-manufacturers-assemblers-diagnostic-x-ray-systems-guidance-industry-and-fda
-PDF：https://www.fda.gov/media/76019/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 2003-09-04
 
 ---
-
-## 官方文件全文
 
 FDA指南文件（包括本指南）不确立具有法律强制执行力的责任。相反，指南描述本机构对某一主题的当前观点，且除非援引具体的法规或法定要求，否则应仅视为建议。
 在本机构指南中使用“应当（should）”一词，表示某事项被建议或推荐，但并非强制要求。
@@ -121,4 +96,3 @@ X射线系统是用于受控产生X射线的组件集合。信息披露义务适
 没有此信息，FDA、制造商、组装者、用户和消费者将无法就诊断X射线系统以及计算机断层扫描组件和系统在其医疗保健中的安全有效使用作出合理认定或决定。
 
 关于遵守诊断X射线系统及其主要组件系统信息披露要求的更多信息，请联系Thomas M. Jakub，电话301 594-4591。
-
