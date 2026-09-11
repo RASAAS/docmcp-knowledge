@@ -1,20 +1,3 @@
----
-id: nmpa-gp-一次性使用乳腺定位丝注册技术审查指导原则-e706aa
-title:
-  zh: 一次性使用乳腺定位丝注册技术审查指导原则
-  en: ''
-regulation: nmpa
-category: nmpa/guidance
-status: active
-document_number: 国家药品监督管理局2020年第48号通告
-source_format: markdown
-translation: original
-effective_date: '2020-01-01'
-contributor: RASAAS
-promoted_from: fulltext
----
-# 一次性使用乳腺定位丝注册技术审查指导原则
-
 <!-- source: cmde-skill-batch 一次性使用乳腺定位丝注册技术审查指导原则_2020年第48号.doc -->
 <!-- source_url: — -->
 <!-- title: 一次性使用乳腺定位丝注册技术审查指导原则 -->

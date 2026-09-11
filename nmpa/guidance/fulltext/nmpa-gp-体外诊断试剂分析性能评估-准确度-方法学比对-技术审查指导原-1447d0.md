@@ -1,20 +1,3 @@
----
-id: nmpa-gp-体外诊断试剂分析性能评估-准确度-方法学比对-技术审查指导原则-23b3b6
-title:
-  zh: 体外诊断试剂分析性能评估（准确度-方法学比对）技术审查指导原则
-  en: ''
-regulation: nmpa
-category: nmpa/guidance
-status: active
-document_number: "食药监办械函[2011]116号"
-source_format: markdown
-translation: original
-effective_date: '2011-01-01'
-contributor: RASAAS
-promoted_from: fulltext
----
-# 体外诊断试剂分析性能评估（准确度-方法学比对）技术审查指导原则
-
 <!-- source: cmde-skill-batch 体外诊断试剂分析性能评估（准确度-方法学比对）技术审查指导原则_食药监办械函2011-116号.doc -->
 <!-- source_url: https://www.cmde.org.cn/flfg/zdyz/zdyzwbk/20180706154823374.html -->
 <!-- title: 体外诊断试剂分析性能评估（准确度-方法学比对）技术审查指导原则 -->

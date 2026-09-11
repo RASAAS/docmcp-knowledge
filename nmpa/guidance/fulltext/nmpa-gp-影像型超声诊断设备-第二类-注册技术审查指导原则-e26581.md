@@ -1,20 +1,3 @@
----
-id: nmpa-gp-影像型超声诊断设备-第二类-注册技术审查指导原则-94a280
-title:
-  zh: 影像型超声诊断设备（第二类）注册技术审查指导原则
-  en: ''
-regulation: nmpa
-category: nmpa/guidance
-status: active
-document_number: 国家食品药品监督管理总局2017年第60号通告
-source_format: markdown
-translation: original
-effective_date: '2017-01-01'
-contributor: RASAAS
-promoted_from: fulltext
----
-# 影像型超声诊断设备（第二类）注册技术审查指导原则
-
 <!-- source: cmde-skill-batch 影像型超声诊断设备（第二类）注册技术审查指导原则_2017年第60号.docx -->
 <!-- source_url: https://www.cmde.org.cn/flfg/zdyz/zdyzwbk/20180206085000654.html -->
 <!-- title: 影像型超声诊断设备（第二类）注册技术审查指导原则 -->

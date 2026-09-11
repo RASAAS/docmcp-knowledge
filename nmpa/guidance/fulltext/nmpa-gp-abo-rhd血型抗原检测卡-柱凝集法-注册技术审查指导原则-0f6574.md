@@ -1,20 +1,3 @@
----
-id: nmpa-gp-abo-rhd血型抗原检测卡-柱凝集法-注册技术审查指导原则-ae3b11
-title:
-  zh: ABO、RhD血型抗原检测卡（柱凝集法）注册技术审查指导原则
-  en: ''
-regulation: nmpa
-category: nmpa/guidance
-status: active
-document_number: 国家食品药品监督管理总局2017年第209号通告
-source_format: markdown
-translation: original
-effective_date: '2017-01-01'
-contributor: RASAAS
-promoted_from: fulltext
----
-# ABO、RhD血型抗原检测卡（柱凝集法）注册技术审查指导原则
-
 <!-- source: cmde-skill-batch ABO、RhD血型抗原检测卡（柱凝集法）注册技术审查指导原则_2017年第209号.doc -->
 <!-- source_url: https://www.cmde.org.cn/flfg/zdyz/zdyzwbk/20180705103827863.html -->
 <!-- title: ABO、RhD血型抗原检测卡（柱凝集法）注册技术审查指导原则 -->
