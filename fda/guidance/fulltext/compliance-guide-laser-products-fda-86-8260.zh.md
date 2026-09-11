@@ -1,35 +1,10 @@
----
-title: "激光产品合规指南 (FDA 86-8260)"
-description: "Compliance Guide for Laser Products (FDA 86-8260)"
-published: 1992-06-01
----
+# 激光产品合规指南（FDA 86-8260）
 
-# 激光产品合规指南 (FDA 86-8260)
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/compliance-guide-laser-products-fda-86-8260](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/compliance-guide-laser-products-fda-86-8260)
 
-**Compliance Guide for Laser Products (FDA 86-8260)**
-
-**发布日期**：1992-06-01
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：辐射 / 影像
-**主题**：Radiological Health
-**案卷号**：FDA-2020-D-0957
-
-::: tip 官方来源
-[https://www.fda.gov/regulatory-information/search-fda-guidance-documents/compliance-guide-laser-products-fda-86-8260](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/compliance-guide-laser-products-fda-86-8260)
-PDF：[https://www.fda.gov/media/74026/download](https://www.fda.gov/media/74026/download)
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 1986-06-01
 
 ---
-
-## 官方文件全文
 
 本合规指南协助激光产品制造商理解21 CFR 1040.10/1040.11等联邦激光产品性能标准以及报告、记录与标签要求。定义、分类、工程控制、标签与用户/维修信息是核心。
 

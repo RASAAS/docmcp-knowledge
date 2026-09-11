@@ -1,35 +1,10 @@
----
-title: "医疗器械用户费 小企业资格和确定性：行业、食品药品管理局工作人员及外国政府指南"
-description: "Medical Device User Fee Small Business Qualification and Determination: Guidance for Industry, Food and Drug Administration Staff and Foreign Governments"
-published: 2025-07-31
----
+# 医疗器械用户费小企业资格与认定：行业、食品药品管理局工作人员及外国政府指南
 
-# 医疗器械用户费 小企业资格和确定性：行业、食品药品管理局工作人员及外国政府指南
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/medical-device-user-fee-small-business-qualification-and-determination](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/medical-device-user-fee-small-business-qualification-and-determination)
 
-**Medical Device User Fee Small Business Qualification and Determination: Guidance for Industry, Food and Drug Administration Staff and Foreign Governments**
-
-**发布日期**：2025-07-31
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：一般 / 其他
-**主题**：User Fees、Administrative / Procedural
-**案卷号**：FDA-2018-D-1873
-
-::: tip 官方来源
-[https://www.fda.gov/regulatory-information/search-fda-guidance-documents/medical-device-user-fee-small-business-qualification-and-determination](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/medical-device-user-fee-small-business-qualification-and-determination)
-PDF：[https://www.fda.gov/media/176439/download](https://www.fda.gov/media/176439/download)
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 2025-07-31
 
 ---
-
-## 官方文件全文
 
 本指南代表食品药品管理局（FDA或本机构）目前对该主题的观点。它不为任何人确立任何权利，对FDA或公众亦不具约束力。若替代方法满足适用法规与条例的要求，您可采用该替代方法。如需讨论替代方法，请联系本指南扉页所列的FDA工作人员或负责办公室。
 

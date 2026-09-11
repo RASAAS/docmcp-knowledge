@@ -1,34 +1,10 @@
----
-title: "未来的防护器械制造商,用于口腔性行为保护性病"
-description: "Prospective Manufacturers of Barrier Devices Used During Oral Sex for STD Protection"
-published: 1996-10-30
----
+# 致拟制造用于口交期间性病防护的屏障装置的制造商
 
-# 未来的防护器械制造商,用于口腔性行为保护性病
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/prospective-manufacturers-barrier-devices-used-during-oral-sex-std-protection](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/prospective-manufacturers-barrier-devices-used-during-oral-sex-std-protection)
 
-**Prospective Manufacturers of Barrier Devices Used During Oral Sex for STD Protection**
-
-**发布日期**：1996-10-30
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：一般 / 其他
-**案卷号**：FDA-2020-D-0957
-
-::: tip 官方来源
-[https://www.fda.gov/regulatory-information/search-fda-guidance-documents/prospective-manufacturers-barrier-devices-used-during-oral-sex-std-protection](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/prospective-manufacturers-barrier-devices-used-during-oral-sex-std-protection)
-PDF：[https://www.fda.gov/media/74267/download](https://www.fda.gov/media/74267/download)
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 1996-10-30
 
 ---
-
-## 官方文件全文
 
 卫生与公众服务部
 公共卫生服务

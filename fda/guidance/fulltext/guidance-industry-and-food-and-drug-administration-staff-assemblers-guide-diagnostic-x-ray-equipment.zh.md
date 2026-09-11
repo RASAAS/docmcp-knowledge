@@ -1,34 +1,10 @@
----
-title: "工业和食品药品管理局工作人员的指南 - 组装仪器用于诊断X射线设备的指南"
-description: "Guidance for Industry and Food and Drug Administration Staff - Assembler's Guide to Diagnostic X-Ray Equipment"
-published: 2023-02-21
----
+# 行业与食品药品管理局工作人员指南——诊断X射线设备装配商指南
 
-# 工业和食品药品管理局工作人员的指南 - 组装仪器用于诊断X射线设备的指南
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-industry-and-food-and-drug-administration-staff-assemblers-guide-diagnostic-x-ray-equipment](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-industry-and-food-and-drug-administration-staff-assemblers-guide-diagnostic-x-ray-equipment)
 
-**Guidance for Industry and Food and Drug Administration Staff - Assembler's Guide to Diagnostic X-Ray Equipment**
-
-**发布日期**：2023-02-21
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：辐射 / 影像
-**案卷号**：FDA-2018-D-4115
-
-::: tip 官方来源
-[https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-industry-and-food-and-drug-administration-staff-assemblers-guide-diagnostic-x-ray-equipment](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-industry-and-food-and-drug-administration-staff-assemblers-guide-diagnostic-x-ray-equipment)
-PDF：[https://www.fda.gov/media/80801/download](https://www.fda.gov/media/80801/download)
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 2009-08-31
 
 ---
-
-## 官方文件全文
 
 本指南代表FDA目前对该主题的观点。它不为任何人确立任何权利，对FDA或公众亦不具约束力。若替代方法满足适用要求，可采用该替代方法。
 

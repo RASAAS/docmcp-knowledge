@@ -1,33 +1,10 @@
----
-title: "医疗器械临床试验中使用贝叶斯统计的指南"
-description: "Guidance for the Use of Bayesian Statistics in Medical Device Clinical Trials"
-published: 2010-02-04
----
-
 # 医疗器械临床试验中使用贝叶斯统计的指南
 
-**Guidance for the Use of Bayesian Statistics in Medical Device Clinical Trials**
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-use-bayesian-statistics-medical-device-clinical-trials](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-use-bayesian-statistics-medical-device-clinical-trials)
 
-**发布日期**：2010-02-04
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：临床 / 真实世界证据
-**主题**：Biostatistics
-
-::: tip 官方来源
-[https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-use-bayesian-statistics-medical-device-clinical-trials](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-use-bayesian-statistics-medical-device-clinical-trials)
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 2010-02-05
 
 ---
-
-## 官方文件全文
 
 本指南代表食品药品管理局（FDA或本机构）目前对该主题的观点。它不为任何人确立任何权利，对FDA或公众亦不具约束力。若替代方法满足适用法规与条例的要求，您可采用该替代方法。
 

@@ -1,35 +1,10 @@
----
-title: "人类食品和动物料意外放射性污染:国家和地方机构的建议"
-description: "Accidental Radioactive Contamination of Human Food and Animal Feeds: Recommendations for State and Local Agencies"
-published: 1998-08-13
----
+# 人用食品与动物饲料的意外放射性污染：给州与地方机构的建议
 
-# 人类食品和动物料意外放射性污染:国家和地方机构的建议
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/accidental-radioactive-contamination-human-food-and-animal-feeds](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/accidental-radioactive-contamination-human-food-and-animal-feeds)
 
-**Accidental Radioactive Contamination of Human Food and Animal Feeds: Recommendations for State and Local Agencies**
-
-**发布日期**：1998-08-13
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：辐射 / 影像
-**主题**：Radiological Health
-**案卷号**：FDA-2020-D-0957
-
-::: tip 官方来源
-[https://www.fda.gov/regulatory-information/search-fda-guidance-documents/accidental-radioactive-contamination-human-food-and-animal-feeds](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/accidental-radioactive-contamination-human-food-and-animal-feeds)
-PDF：[https://www.fda.gov/media/74043/download](https://www.fda.gov/media/74043/download)
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 1998-08-13
 
 ---
-
-## 官方文件全文
 
 本文件就核事故或其他导致人用食品与动物饲料意外放射性污染的事件，向州与地方机构提供防护行动建议，包括导出干预水平（Derived Intervention Levels, DILs）的概念、应用与推导基础。
 

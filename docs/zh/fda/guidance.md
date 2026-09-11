@@ -9,7 +9,7 @@ doc_count: 434
 目前有效的 **CDRH Final** 指南（Guidance Document 与 Special Controls）。不含 Draft、CPG、Memorandum 与 Small Entity Compliance Guides。
 
 共 **434** 份。本波次已填写全部中文标题，并生成分类中文目录与元数据页。
-英文结构质检（PR #113）已通过。`digital_health_cyber` 中文全文已补齐。本波次补齐 `radiation_imaging`、`clinical_rwe`、`other` 中较短英文全文的中文正文（长篇全文与无英文全文者留待后续）。
+英文结构质检（PR #113）已通过。`digital_health_cyber` 中文全文已补齐。本波次补齐 `radiation_imaging`、`clinical_rwe`、`other` 中全部已有英文全文的中文正文（无英文全文者仍为元数据页；`premarket` 留待后续）。
 
 各类别内按发布日期由新到旧排列。标注〔全文〕=已有中文全文，〔仅元数据〕=本波次元数据页（英文全文见对应 EN 页）。
 
@@ -423,34 +423,34 @@ doc_count: 434
 
 ## 辐射 / 影像 {#radiation_imaging}
 
-44 份文件，其中中文全文 10 份，其余为元数据页。
+44 份文件，其中中文全文 21 份，其余为元数据页。
 
-- [关于不良认证决定,证书暂停/撤销或患者和指导提供商通知命令的镜设施可申请的选择:镜设施和食品药品管理局人员指南](./guidance/appeal-options-available-mammography-facilities-concerning-adverse-accreditation-decisions) (2024-09-10) 〔仅元数据〕
+- [关于不良认证决定,证书暂停/撤销或患者和指导提供商通知命令的镜设施可申请的选择:镜设施和食品药品管理局人员指南](./guidance/appeal-options-available-mammography-facilities-concerning-adverse-accreditation-decisions) (2024-09-10) 〔全文〕
 - [电子产品使用手册可接受的媒体：行业与FDA工作人员指南](./guidance/acceptable-media-electronic-product-user-manuals) (2024-08-19) 〔全文〕
-- [激光产品 - 符合IEC 60825-1第3版和IEC 60601-2-22第3.1版 (激光通告第56号)：行业与食品药品管理局工作人员指南](./guidance/laser-products-conformance-iec-60825-1-ed-3-and-iec-60601-2-22-ed-31-laser-notice-no-56) (2023-02-21) 〔仅元数据〕
-- [工业和食品药品管理局工作人员的指南 - 组装仪器用于诊断X射线设备的指南](./guidance/guidance-industry-and-food-and-drug-administration-staff-assemblers-guide-diagnostic-x-ray-equipment) (2023-02-21) 〔仅元数据〕
-- [测量,水平和配列激光产品：行业与食品药品管理局工作人员指南](./guidance/surveying-leveling-and-alignment-laser-products) (2023-01-31) 〔仅元数据〕
-- [关于某些光镜设备要求的政策澄清：行业与食品药品管理局工作人员指南](./guidance/policy-clarification-certain-fluoroscopic-equipment-requirements) (2019-05-08) 〔仅元数据〕
-- [激光照明投影机 (LIP) 的分类和要求 (激光通告第57)：行业与食品药品管理局指南](./guidance/classification-and-requirements-laser-illuminated-projectors-lips-laser-notice-no-57) (2019-05-08) 〔仅元数据〕
+- [激光产品 - 符合IEC 60825-1第3版和IEC 60601-2-22第3.1版 (激光通告第56号)：行业与食品药品管理局工作人员指南](./guidance/laser-products-conformance-iec-60825-1-ed-3-and-iec-60601-2-22-ed-31-laser-notice-no-56) (2023-02-21) 〔全文〕
+- [工业和食品药品管理局工作人员的指南 - 组装仪器用于诊断X射线设备的指南](./guidance/guidance-industry-and-food-and-drug-administration-staff-assemblers-guide-diagnostic-x-ray-equipment) (2023-02-21) 〔全文〕
+- [测量,水平和配列激光产品：行业与食品药品管理局工作人员指南](./guidance/surveying-leveling-and-alignment-laser-products) (2023-01-31) 〔全文〕
+- [关于某些光镜设备要求的政策澄清：行业与食品药品管理局工作人员指南](./guidance/policy-clarification-certain-fluoroscopic-equipment-requirements) (2019-05-08) 〔全文〕
+- [激光照明投影机 (LIP) 的分类和要求 (激光通告第57)：行业与食品药品管理局指南](./guidance/classification-and-requirements-laser-illuminated-projectors-lips-laser-notice-no-57) (2019-05-08) 〔全文〕
 - [降低儿童玩具激光产品的风险：行业与食品药品管理局工作人员指南](./guidance/minimizing-risk-childrens-toy-laser-products) (2014-12-19) 〔全文〕
 - [某些激光光显示变异的更新和更改程序 (激光通告 55)](./guidance/procedures-renewal-and-amendment-certain-laser-light-show-variances-laser-notice-55) (2007-09-24) 〔全文〕
-- [柜X射线系统的合规件指南](./guidance/compliance-guide-cabinet-x-ray-systems) (2007-09-18) 〔仅元数据〕
+- [柜X射线系统的合规件指南](./guidance/compliance-guide-cabinet-x-ray-systems) (2007-09-18) 〔全文〕
 - [免于低功率激光产品报告和记录要求 (激光通告 54)：行业与FDA工作人员指南](./guidance/exemption-reporting-and-recordkeeping-requirements-low-power-laser-products-laser-notice-54) (2006-01-05) 〔全文〕
 - [高强度蒸汽排放灯的性能标准的适用性 (21 CFR 1040.30)](./guidance/applicability-performance-standard-high-intensity-mercury-vapor-discharge-lamps-21-cfr-104030) (2005-11-05) 〔全文〕
 - [关于国防部免除FDA激光产品性能标准和FDA的指导：行业指南](./guidance/guidance-department-defense-exemption-fda-performance-standard-laser-products) (2002-07-12) 〔全文〕
 - [激光光显示投影仪制造商,经销商和分销商的责任 (激灯光表演投影仪通知 51)](./guidance/responsibilities-laser-light-show-projector-manufacturers-dealers-and-distributors-laser-notice-51) (2001-05-26) 〔全文〕
-- [人类食品和动物料意外放射性污染:国家和地方机构的建议](./guidance/accidental-radioactive-contamination-human-food-and-animal-feeds) (1998-08-13) 〔仅元数据〕
+- [人类食品和动物料意外放射性污染:国家和地方机构的建议](./guidance/accidental-radioactive-contamination-human-food-and-animal-feeds) (1998-08-13) 〔全文〕
 - [某些I类激光产品的标签 (激光通告48)](./guidance/identification-labels-certain-class-i-laser-products-laser-notice-48) (1996-09-05) 〔仅元数据〕
 - [排放激光束作为二级和三级a级激光产品排放指标 (激光通告49)](./guidance/emitted-laser-beam-emission-indicator-class-ii-and-class-iiia-laser-products-laser-notice-49) (1996-09-05) 〔仅元数据〕
 - [激光投影的有效视觉控制 (47 个激光通告)](./guidance/effective-visual-control-laser-projections-laser-notice-47) (1996-06-06) 〔仅元数据〕
 - [医疗产品使用说明 (激光通报44)](./guidance/user-instruction-medical-products-laser-notice-44) (1995-08-11) 〔仅元数据〕
 - [对于二级和三级激光系统的光束减速器和排放指标 (激光通告 43)](./guidance/beam-attenuators-and-emission-indicators-class-ii-and-iiia-laser-systems-laser-notice-43) (1993-06-07) 〔仅元数据〕
-- [激光产品合规指南 (FDA 86-8260)](./guidance/compliance-guide-laser-products-fda-86-8260) (1992-06-01) 〔仅元数据〕
+- [激光产品合规指南 (FDA 86-8260)](./guidance/compliance-guide-laser-products-fda-86-8260) (1992-06-01) 〔全文〕
 - [诊断X射线设备辐射控制规则的澄清 (第三部分)](./guidance/clarification-radiation-control-regulations-diagnostic-x-ray-equipment-part-3) (1989-03-01) 〔仅元数据〕
 - [诊断X射线设备辐射控制条例的澄清 (第1部分)](./guidance/clarification-radiation-control-regulations-diagnostic-x-ray-equipment-part-1) (1989-03-01) 〔仅元数据〕
 - [诊断X射线设备辐射控制条例的澄清 (FDA 89-8221)](./guidance/clarification-radiation-control-regulations-diagnostic-x-ray-equipment-fda-89-8221) (1989-02-28) 〔仅元数据〕
-- [太阳灯产品质量控制指南 (FDA 88-8234)](./guidance/quality-control-guide-sunlamp-products-fda-88-8234) (1988-03-01) 〔仅元数据〕
-- [微波合规性调查仪器的校准定位交换系统的建立和维护指南 (FDA 88-8264) ] (仅为PDF)](./guidance/guide-establishing-and-maintaining-calibration-constancy-intercomparison-system-microwave-oven) (1988-03-01) 〔仅元数据〕
+- [太阳灯产品质量控制指南 (FDA 88-8234)](./guidance/quality-control-guide-sunlamp-products-fda-88-8234) (1988-03-01) 〔全文〕
+- [微波合规性调查仪器的校准定位交换系统的建立和维护指南 (FDA 88-8264) ] (仅为PDF)](./guidance/guide-establishing-and-maintaining-calibration-constancy-intercomparison-system-microwave-oven) (1988-03-01) 〔全文〕
 - [类 II 和 IIIA 激光灯光表演投影仪和显示器 (激光通告 40)](./guidance/class-ii-and-iiia-laser-light-show-projectors-and-shows-laser-notice-40) (1987-10-29) 〔仅元数据〕
 - [使用者说明 - 多轴工作站 (激光通告 39)](./guidance/user-instructions-multi-axis-workstations-laser-notice-39) (1987-06-24) 〔仅元数据〕
 - [步行到工作站 (激光报道 37)](./guidance/walk-workstations-laser-notice-37) (1985-10-21) 〔仅元数据〕
@@ -472,34 +472,34 @@ doc_count: 434
 
 ## 临床 / 真实世界证据 {#clinical_rwe}
 
-3 份文件，其中中文全文 1 份，其余为元数据页。
+3 份文件，其中中文全文 3 份，其余为元数据页。
 
-- [医疗器械临床试验中使用 的指南](./guidance/guidance-use-bayesian-statistics-medical-device-clinical-trials) (2010-02-04) 〔仅元数据〕
-- [统计指导报告诊断测试 的研究结果：行业与FDA工作人员指南](./guidance/statistical-guidance-reporting-results-studies-evaluating-diagnostic-tests-guidance-industry-and-fda) (2007-03-12) 〔仅元数据〕
+- [医疗器械临床试验中使用贝叶斯统计的指南](./guidance/guidance-use-bayesian-statistics-medical-device-clinical-trials) (2010-02-04) 〔全文〕
+- [统计指导报告诊断测试 的研究结果：行业与FDA工作人员指南](./guidance/statistical-guidance-reporting-results-studies-evaluating-diagnostic-tests-guidance-industry-and-fda) (2007-03-12) 〔全文〕
 - [推的临床研究设计 Ventricular Tachycardia Ablation](./guidance/recommended-clinical-study-design-ventricular-tachycardia-ablation) (1999-05-07) 〔全文〕
 
 ## 一般 / 其他 {#other}
 
-21 份文件，其中中文全文 6 份，其余为元数据页。
+21 份文件，其中中文全文 19 份，其余为元数据页。
 
-- [整体产品生命周期中自愿患者偏好信息的集成：行业、食品药品管理局工作人员及其他相关方指南](./guidance/incorporating-voluntary-patient-preference-information-over-total-product-life-cycle) (2026-03-30) 〔仅元数据〕
-- [医疗器械用户费 小企业资格和确定性：行业、食品药品管理局工作人员及外国政府指南](./guidance/medical-device-user-fee-small-business-qualification-and-determination) (2025-07-31) 〔仅元数据〕
-- [治疗阿片类药物使用障碍的设备的临床考量：行业与食品药品管理局工作人员指南](./guidance/clinical-considerations-studies-devices-intended-treat-opioid-use-disorder) (2024-07-11) 〔仅元数据〕
+- [整体产品生命周期中自愿患者偏好信息的集成：行业、食品药品管理局工作人员及其他相关方指南](./guidance/incorporating-voluntary-patient-preference-information-over-total-product-life-cycle) (2026-03-30) 〔全文〕
+- [医疗器械用户费 小企业资格和确定性：行业、食品药品管理局工作人员及外国政府指南](./guidance/medical-device-user-fee-small-business-qualification-and-determination) (2025-07-31) 〔全文〕
+- [治疗阿片类药物使用障碍的设备的临床考量：行业与食品药品管理局工作人员指南](./guidance/clinical-considerations-studies-devices-intended-treat-opioid-use-disorder) (2024-07-11) 〔全文〕
 - [参考"食品,药品和化妆品法"中的"设备"定义,指导,监管文件,通信和其他公共文件：行业与食品药品管理局工作人员指南](./guidance/referencing-definition-device-federal-food-drug-and-cosmetic-act-guidance-regulatory-documents) (2022-11-14) 〔全文〕
-- [解决公共卫生紧急情况的子病检测政策:实验室,商业制造商和食品药品管理局工作人员的指导](./guidance/policy-monkeypox-tests-address-public-health-emergency) (2022-09-07) 〔仅元数据〕
-- [设备和放射性健康中心 (CDRH) 诉讼程序：行业与食品药品管理局工作人员指南](./guidance/center-devices-and-radiological-health-cdrh-appeals-processes) (2022-03-02) 〔仅元数据〕
-- [承认和撤销自愿共识标准：行业与食品药品管理局工作人员指南](./guidance/recognition-and-withdrawal-voluntary-consensus-standards) (2020-09-15) 〔仅元数据〕
-- [提供电子形式的医疗器械监管提交 - 根据《联邦食品、药品和化妆品法案》第745A (b) 条的提交：行业与食品药品管理局工作人员指南](./guidance/providing-regulatory-submissions-medical-devices-electronic-format-submissions-under-section-745ab) (2020-07-15) 〔仅元数据〕
-- [植入用于血调分析的血液接入设备：行业与食品药品管理局工作人员指南](./guidance/implanted-blood-access-devices-hemodialysis) (2016-01-21) 〔仅元数据〕
-- [耐冲击镜头:问题及 答案：行业与FDA工作人员指南](./guidance/impact-resistant-lenses-questions-and-answers) (2010-09-02) 〔仅元数据〕
+- [解决公共卫生紧急情况的子病检测政策:实验室,商业制造商和食品药品管理局工作人员的指导](./guidance/policy-monkeypox-tests-address-public-health-emergency) (2022-09-07) 〔全文〕
+- [设备和放射性健康中心 (CDRH) 诉讼程序：行业与食品药品管理局工作人员指南](./guidance/center-devices-and-radiological-health-cdrh-appeals-processes) (2022-03-02) 〔全文〕
+- [承认和撤销自愿共识标准：行业与食品药品管理局工作人员指南](./guidance/recognition-and-withdrawal-voluntary-consensus-standards) (2020-09-15) 〔全文〕
+- [提供电子形式的医疗器械监管提交 - 根据《联邦食品、药品和化妆品法案》第745A (b) 条的提交：行业与食品药品管理局工作人员指南](./guidance/providing-regulatory-submissions-medical-devices-electronic-format-submissions-under-section-745ab) (2020-07-15) 〔全文〕
+- [植入用于血调分析的血液接入设备：行业与食品药品管理局工作人员指南](./guidance/implanted-blood-access-devices-hemodialysis) (2016-01-21) 〔全文〕
+- [耐冲击镜头:问题及 答案：行业与FDA工作人员指南](./guidance/impact-resistant-lenses-questions-and-answers) (2010-09-02) 〔全文〕
 - [装饰性,非纠正性接触力,FDA工作人员,眼科专业人员和消费者：行业指南](./guidance/decorative-non-corrective-contact-lenses) (2006-11-24) 〔全文〕
 - [咨询小组儿童专业知识：行业与FDA工作人员指南](./guidance/pediatric-expertise-advisory-panels-guidance-industry-and-fda-staff) (2003-06-02) 〔全文〕
-- [关于1997年食品和药物管理现代化法案第216条的指南和FDA审查人员的指南：行业指南](./guidance/guidance-section-216-food-and-drug-administration-modernization-act-1997-guidance-industry-and-fda) (2000-08-08) 〔仅元数据〕
+- [关于1997年食品和药物管理现代化法案第216条的指南和FDA审查人员的指南：行业指南](./guidance/guidance-section-216-food-and-drug-administration-modernization-act-1997-guidance-industry-and-fda) (2000-08-08) 〔全文〕
 - [1-设备产品线的综合年度报告 (1-CARD)：行业与CDRH审评人员指南](./guidance/1-consolidated-annual-report-device-product-line-1-card-guidance-industry-and-cdrh-reviewers) (2000-07-05) 〔全文〕
 - [食品药品管理局动物产品数据库数据输入表](./guidance/fda-animal-products-database-data-entry-form) (1998-11-06) 〔仅元数据〕
-- [未来的防护器械制造商,用于口腔性行为保护性病](./guidance/prospective-manufacturers-barrier-devices-used-during-oral-sex-std-protection) (1996-10-30) 〔仅元数据〕
-- [关于宫细胞学设备的注意点](./guidance/points-consider-cervical-cytology-devices) (1994-07-25) 〔仅元数据〕
+- [未来的防护器械制造商,用于口腔性行为保护性病](./guidance/prospective-manufacturers-barrier-devices-used-during-oral-sex-std-protection) (1996-10-30) 〔全文〕
+- [关于宫细胞学设备的注意点](./guidance/points-consider-cervical-cytology-devices) (1994-07-25) 〔全文〕
 - [给工业,动力轮椅制造商的信件](./guidance/letter-industry-powered-wheelchair-manufacturers-rmjohnson) (1993-05-10) 〔仅元数据〕
-- [医疗器械的使用寿命](./guidance/shelf-life-medical-devices) (1991-04-01) 〔仅元数据〕
+- [医疗器械的使用寿命](./guidance/shelf-life-medical-devices) (1991-04-01) 〔全文〕
 - [颜色添加剂 - - 医疗器械](./guidance/color-additive-petitions-medical-devices) (1987-06-01) 〔全文〕
 - [灯具兼容性政策 (太阳能灯)](./guidance/policy-lamp-compatibility-sunlamps) (1986-09-02) 〔全文〕

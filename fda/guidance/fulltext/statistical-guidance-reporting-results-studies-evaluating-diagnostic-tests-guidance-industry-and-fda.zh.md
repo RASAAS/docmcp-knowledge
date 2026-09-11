@@ -1,35 +1,10 @@
----
-title: "统计指导报告诊断测试 的研究结果：行业与FDA工作人员指南"
-description: "Statistical Guidance on Reporting Results from Studies Evaluating Diagnostic Tests - Guidance for Industry and FDA Staff"
-published: 2007-03-12
----
+# 报告评价诊断试验的研究结果的统计指南——行业与FDA工作人员指南
 
-# 统计指导报告诊断测试 的研究结果：行业与FDA工作人员指南
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/statistical-guidance-reporting-results-studies-evaluating-diagnostic-tests-guidance-industry-and-fda](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/statistical-guidance-reporting-results-studies-evaluating-diagnostic-tests-guidance-industry-and-fda)
 
-**Statistical Guidance on Reporting Results from Studies Evaluating Diagnostic Tests - Guidance for Industry and FDA Staff**
-
-**发布日期**：2007-03-12
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：临床 / 真实世界证据
-**主题**：Biostatistics
-**案卷号**：FDA-2020-D-0957
-
-::: tip 官方来源
-[https://www.fda.gov/regulatory-information/search-fda-guidance-documents/statistical-guidance-reporting-results-studies-evaluating-diagnostic-tests-guidance-industry-and-fda](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/statistical-guidance-reporting-results-studies-evaluating-diagnostic-tests-guidance-industry-and-fda)
-PDF：[https://www.fda.gov/media/71147/download](https://www.fda.gov/media/71147/download)
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 2007-03-13
 
 ---
-
-## 官方文件全文
 
 本指南代表FDA目前对该主题的观点。它不为任何人确立任何权利，对FDA或公众亦不具约束力。若替代方法满足适用要求，可采用该替代方法。FDA指南中“应当”表示建议。
 

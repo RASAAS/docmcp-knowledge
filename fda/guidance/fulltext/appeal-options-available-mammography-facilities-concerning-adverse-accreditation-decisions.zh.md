@@ -1,35 +1,10 @@
----
-title: "关于不良认证决定,证书暂停/撤销或患者和指导提供商通知命令的镜设施可申请的选择:镜设施和食品药品管理局人员指南"
-description: "Appeal Options Available to Mammography Facilities Concerning Adverse Accreditation Decisions, Suspension/Revocation of Certificates, or Patient and Referring Provider Notification Orders: Guidance for Mammography Facilities and Food and Drug Administration Staff"
-published: 2024-09-10
----
+# 乳腺X线摄影设施就不利认证决定、证书暂停/撤销或患者与转诊提供者通知命令可获得的申诉选项：乳腺X线摄影设施与食品药品管理局工作人员指南
 
-# 关于不良认证决定,证书暂停/撤销或患者和指导提供商通知命令的镜设施可申请的选择:镜设施和食品药品管理局人员指南
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/appeal-options-available-mammography-facilities-concerning-adverse-accreditation-decisions](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/appeal-options-available-mammography-facilities-concerning-adverse-accreditation-decisions)
 
-**Appeal Options Available to Mammography Facilities Concerning Adverse Accreditation Decisions, Suspension/Revocation of Certificates, or Patient and Referring Provider Notification Orders: Guidance for Mammography Facilities and Food and Drug Administration Staff**
-
-**发布日期**：2024-09-10
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：辐射 / 影像
-**主题**：Investigation & Enforcement、Administrative / Procedural、Radiological Health、Radiology
-**案卷号**：FDA-2020-D-1317
-
-::: tip 官方来源
-[https://www.fda.gov/regulatory-information/search-fda-guidance-documents/appeal-options-available-mammography-facilities-concerning-adverse-accreditation-decisions](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/appeal-options-available-mammography-facilities-concerning-adverse-accreditation-decisions)
-PDF：[https://www.fda.gov/media/140242/download](https://www.fda.gov/media/140242/download)
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 2024-09-10
 
 ---
-
-## 官方文件全文
 
 乳腺X线摄影设施就不利认证决定、证书暂停/撤销或患者与转诊提供者通知命令可获得的申诉选项——乳腺X线摄影设施与食品药品管理局工作人员指南
 
