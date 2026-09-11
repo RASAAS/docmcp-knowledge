@@ -1,35 +1,10 @@
----
-title: "修改金属表面,接着接着骨头或骨水泥的整形植入物测试指南文件"
-description: "Guidance Document for Testing Orthopedic Implants with Modified Metallic Surfaces Apposing Bone Or Bone Cement"
-published: 1994-04-27
----
+# 用改性金属表面施用骨骨或骨水泥的整形植物测试指南文件
 
-# 修改金属表面,接着接着骨头或骨水泥的整形植入物测试指南文件
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-document-testing-orthopedic-implants-modified-metallic-surfaces-apposing-bone-or-bone](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-document-testing-orthopedic-implants-modified-metallic-surfaces-apposing-bone-or-bone)
 
-**Guidance Document for Testing Orthopedic Implants with Modified Metallic Surfaces Apposing Bone Or Bone Cement**
-
-**发布日期**：1994-04-27
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：上市前
-**主题**：Premarket
-**案卷号**：FDA-2020-D-0957
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-document-testing-orthopedic-implants-modified-metallic-surfaces-apposing-bone-or-bone
-PDF：https://www.fda.gov/media/72781/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 1994-04-27
 
 ---
-
-## 官方文件全文
 
 这份指南是在1997年2月27日执行FDA的《良好指导做法》,GGP之前编写的。它不为任何人创造或授予权利,也不赋予任何人权利,也不为约束FDA或公众而运作。如果替代办法符合适用法规、条例或两者的要求,则可以采用另一种办法。该指导将在下一次修订中更新,以纳入全球政府采购组织《用改性金属表面施用骨或骨水泥测试整形植物的指南文件》的标准内容,1994年 美国美国食品药品监督管理局设备和放射健康设备评价中心一般和修复设备办公室普通和修复设备司矫形装置处
 
@@ -121,4 +96,3 @@ ASTM C 633: “火源变化的焦压或凝聚强度” ASTM标准年度手册 AS
 
 提供详细的测试报告,包括方法、材料、结果、原始数据和结论。
 来源(例如:必须查明以这种形式归纳的每项试验结果的数据(已出版的文献文章或未公布的内部测试报告)。参考识别符可以放在本表格上各自测试的旁边,也可以与本表格结尾的书目中的测试名称一起列出。
-

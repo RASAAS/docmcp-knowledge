@@ -1,35 +1,10 @@
----
-title: "统一的避孕药标签：行业指南"
-description: "Uniform Contraceptive Labeling - Guidance for Industry"
-published: 1998-07-22
----
+# 统一避孕标签 -- -- 工业指导
 
-# 统一的避孕药标签：行业指南
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/uniform-contraceptive-labeling-guidance-industry](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/uniform-contraceptive-labeling-guidance-industry)
 
-**Uniform Contraceptive Labeling - Guidance for Industry**
-
-**发布日期**：1998-07-22
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：上市前
-**主题**：Premarket
-**案卷号**：FDA-2020-D-0957
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/uniform-contraceptive-labeling-guidance-industry
-PDF：https://www.fda.gov/media/72591/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 1998-07-22
 
 ---
-
-## 官方文件全文
 
 1998年7月23日发布的《工业统一避孕标签文件指南》。卫生部卫生及公众服务部食品和药品管理中心,用于生殖、遗传、生殖、腹部、耳耳、鼻喉和喉以及放射性装置评价装置办公室
 
@@ -73,4 +48,3 @@ FDA认为,向避孕器具使用者通报怀孕率信息对于安全有效地使�
 9% 阴道海绵(前一出生) 3% 40% 20% 宫颈病(前一出生) 2% 20% 9% 宫颈病(前一出生) 2% 40% 26% 女性保险套 21% 5% 自杀:(凝胶、泡沫、药剂、胶片) 26% 6% 自然方法: 19% 4% 自然计划生育 25% 1-9% (日历、温度、宫颈粘液)85% 85% 1 使用时没有二类除草剂,2类除草剂,3类除草剂,3类除草剂,包括改编自《Trussell J. 避孕效果》的数据。在Hatcher RA、Trussell J、Stewart F等人的《避孕技术》中:
 《纽约纽约:知名媒体》第十七版,1998年。
 FDA编制的表格: 5/13/97,订正 9/17/98
-

@@ -1,35 +1,10 @@
----
-title: "主要文件第三部分 - 关于科学技术信息的指导"
-description: "Master Files Part III - Guidance on Scientific and Technical Information"
-published: 1987-06-01
----
+# 第三部分 - 科学和技术信息指南
 
-# 主要文件第三部分 - 关于科学技术信息的指导
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/master-files-part-iii-guidance-scientific-and-technical-information](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/master-files-part-iii-guidance-scientific-and-technical-information)
 
-**Master Files Part III - Guidance on Scientific and Technical Information**
-
-**发布日期**：1987-06-01
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：上市前
-**主题**：Premarket
-**案卷号**：FDA-2020-D-0957
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/master-files-part-iii-guidance-scientific-and-technical-information
-PDF：https://www.fda.gov/media/72543/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 1987-06-01
 
 ---
-
-## 官方文件全文
 
 这份指南是在1997年2月27日执行FDA的《良好指导做法》,GGP之前编写的。它不为任何人创造或授予权利,也不赋予任何人权利,也不为约束FDA或公众而运作。如果替代办法符合适用法规、条例或borh的要求,则可采用另一种办法。
 下次修订时将更新本指南,以纳入全球采购计划的标准精子。
@@ -96,4 +71,3 @@ FDA建议,如果MAF呈报公司是一家外国公司,它在美国保留一个代
 不论510(k)、IDE、PMA、POI、POI、FOI申请人提交了或经授权提及一项MAF而列入的与装置有关的划界案或其他划界案。
 多边融资框架持有人应查明其多边融资框架中他们认为属于21 CFR 20.61含义范围内的贸易秘密或机密商业/随附信息的信息。已经公开的MAF信息必须披露(例如,任何出版的文献、目录、目录、由MAP持有人向潜在客户分发的产品规格单或产品规格单)。
 CCDBH 援助程序和其他与多边融资安排有关的问题联系办公室应针对:食品8 设备和放射卫生前批准人员药品管理中心(HFZ-402)电话(301)427-1188 可从上述办公室和小制造商援助CDRH司获得《MAF准则》的更多副本。后者的办公室将接听电话(800)638-2041或(301)443-6597,接受电话申请。
-

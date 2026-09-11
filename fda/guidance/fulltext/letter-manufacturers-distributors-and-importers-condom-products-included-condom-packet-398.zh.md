@@ -1,35 +1,10 @@
----
-title: "函 - 安全套产品制造商,经销商和进口商 (包含在安全套包398) :函 - 安全套产品制造商,经销商和进口商"
-description: "Letter - Manufacturers, Distributors and Importers of Condom Products (included in Condom Packet 398) : Letter - Manufacturers, Distributors and Importers of Condom Products"
-published: 1994-02-23
----
+# - 避孕套产品(包含在避孕套包装398中)的发信商、分销商和进口商:避孕套产品制造商、分销商和进口商
 
-# 函 - 安全套产品制造商,经销商和进口商 (包含在安全套包398) :函 - 安全套产品制造商,经销商和进口商
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/letter-manufacturers-distributors-and-importers-condom-products-included-condom-packet-398](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/letter-manufacturers-distributors-and-importers-condom-products-included-condom-packet-398)
 
-**Letter - Manufacturers, Distributors and Importers of Condom Products (included in Condom Packet 398) : Letter - Manufacturers, Distributors and Importers of Condom Products**
-
-**发布日期**：1994-02-23
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：上市前
-**主题**：Postmarket、Premarket
-**案卷号**：FDA-2020-D-0957
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/letter-manufacturers-distributors-and-importers-condom-products-included-condom-packet-398
-PDF：https://www.fda.gov/media/72114/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 1994-02-23
 
 ---
-
-## 官方文件全文
 
 这份指南是在1997年2月27日执行FDA的《良好指导做法》,GGP之前编写的。它不为任何人创造或授予权利,也不赋予任何人权利,也不为约束FDA或公众而运作。如果替代办法符合适用法规、条例或两者的要求,则可以采用另一种办法。
 该指南将在下一次修订时更新,以包括全球采购总计划的标准精子。
@@ -42,4 +17,3 @@ PDF：https://www.fda.gov/media/72114/download
 为了销售一种不受上述要求约束的类似避孕套的产品,该产品无论如何都不能用作避孕套。例如,安全套可以通过去除断层、切碎辅助剂而变得无法使用;将胶卷擦拭到无法解开它的方式上, 或者用其他方法来解释。 它同样无法使用。 将功能安全套贴上新标签是不够的。
 有关这项政策的问题可向Byron L.Tart先生提出,具体方式是写信给信头地址或打电话(301)594-4639。
 装置和Ftadiolod妇科健康合规中心主任办公室主任
-

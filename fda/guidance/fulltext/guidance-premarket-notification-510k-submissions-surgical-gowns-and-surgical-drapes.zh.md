@@ -1,35 +1,10 @@
----
-title: "关于上市前通知的指南 [510(k) 关于外科服装和外科的申请"
-description: "Guidance on Premarket Notification [510(k)] Submissions for Surgical Gowns and Surgical Drapes"
-published: 1993-08-01
----
+# 关于上市前通知的指导意见 [510(k)] 关于外阴袜和外科龙虾的呈文
 
-# 关于上市前通知的指南 [510(k) 关于外科服装和外科的申请
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-premarket-notification-510k-submissions-surgical-gowns-and-surgical-drapes](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-premarket-notification-510k-submissions-surgical-gowns-and-surgical-drapes)
 
-**Guidance on Premarket Notification [510(k)] Submissions for Surgical Gowns and Surgical Drapes**
-
-**发布日期**：1993-08-01
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：上市前
-**主题**：Premarket、510(k)
-**案卷号**：FDA-2020-D-0957
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-premarket-notification-510k-submissions-surgical-gowns-and-surgical-drapes
-PDF：https://www.fda.gov/media/72369/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 1993-08-01
 
 ---
-
-## 官方文件全文
 
 这份指南是在1997年2月27日执行FDA的《良好指导做法》,GGP之前编写的。它不为任何人创造或授予权利,也不赋予任何人权利,也不为约束FDA或公众而运作。如果替代办法符合适用法规、条例或两者的要求,则可以采用另一种办法。
 该指南将在下一次修订时更新,以包括全球采购总计划的标准精子。
@@ -228,4 +203,3 @@ Rockville,MD. 20850(301) 594-1107
 5 。
 510(k)应该包括工具包的所有标签和标签。仅仅贴贴袋标签可能就足以满足所有部件的需要,只要标签合并了每个装袋部件的标签中通常存在的所需信息,并在最终销售后单独出售。当需要适当的使用指示(防范、警告等)时,一个部件可能需要具体标签,例如包件插入。重要的是要审查单独销售的个别部件的标签与为成套物品提供的标签的标签。核实标签是否足够,或视需要在工具包中附加附加标签。
 6. 与标签和处理问题相比的项目可能影响到管理状况或成套材料的安全性和有效性。如果你知道任何其他可能影响贵国装备包状况的因素,请提请我们注意,以便我们在评估时加以考虑。
-

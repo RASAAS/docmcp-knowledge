@@ -9,7 +9,7 @@ doc_count: 434
 目前有效的 **CDRH Final** 指南（Guidance Document 与 Special Controls）。不含 Draft、CPG、Memorandum 与 Small Entity Compliance Guides。
 
 共 **434** 份。本波次已填写全部中文标题，并生成分类中文目录与元数据页。
-英文结构质检（PR #113）已通过。非 premarket 类别中文全文已按既有英文补齐。`premarket` 已完成 wave1–wave6 共 240 份中文正文（按发布日期由新到旧）；其余已有英文全文的 premarket 仍为元数据页，后续分波继续。
+英文结构质检（PR #113）已通过。非 premarket 类别中文全文已按既有英文补齐。`premarket` 已完成 wave1–wave7 共 270 份中文正文（按发布日期由新到旧）；余下 1 份英文全文因 OCR 严重损坏未译（`all-us-condom-manufacturers-importers-and-repackagers`），另有 19 份尚无英文全文，仍为元数据页。
 
 各类别内按发布日期由新到旧排列。标注〔全文〕=已有中文全文，〔仅元数据〕=本波次元数据页（英文全文见对应 EN 页）。
 
@@ -55,7 +55,7 @@ doc_count: 434
 
 ## 上市前（510(k) / PMA / De Novo / IDE） {#premarket}
 
-290 份文件，其中中文全文 240 份，其余为元数据页。
+290 份文件，其中中文全文 270 份，其余为元数据页。
 
 - [牙科护理灯 - 上市前通知 (510(k)) 提交：行业与食品药品管理局工作人员指南](./guidance/dental-curing-lights-premarket-notification-510k-submissions) (2026-09-02) 〔全文〕
 - [牙科复合树脂设备 - 上市前通知 (510(k)) 提交：行业与食品药品管理局工作人员指南](./guidance/dental-composite-resin-devices-premarket-notification-510k-submissions) (2026-09-02) 〔全文〕
@@ -298,54 +298,54 @@ doc_count: 434
 - [听力器标签中的噪音要求：行业指南](./guidance/noise-claims-hearing-aid-labeling-guidance-industry) (1998-10-20) 〔全文〕
 - [无处方日镜的指南文件：行业指南](./guidance/guidance-document-nonprescription-sunglasses-guidance-industry) (1998-10-08) 〔全文〕
 - [动力吸气 510 ((k) 项的指南：行业与FDA审评人员/工作人员指南](./guidance/guidance-document-powered-suction-pump-510ks-guidance-industry-and-fda-reviewersstaff) (1998-09-29) 〔全文〕
-- [其他产品:外卖牙枕,,,维修套件,部分制造牙套件：行业与FDA工作人员指南](./guidance/otc-denture-cushions-pads-reliners-repair-kits-and-partially-fabricated-denture-kits-guidance) (1998-08-17) 〔仅元数据〕
-- [修订了对延长穿戴的固体气体透透式接触镜类III类上市前许可申请的添加镜头制成实验室的程序：行业与FDA工作人员指南](./guidance/revised-procedures-adding-lens-finishing-laboratories-approved-premarket-approval-applications-class) (1998-08-10) 〔仅元数据〕
-- [男人乳安全套 - 510 信息 (k) 上市前通知:使用共识标准来简短提交：行业指南](./guidance/latex-condoms-men-information-510k-premarket-notifications-use-consensus-standards-abbreviated) (1998-07-23) 〔仅元数据〕
-- [统一的避孕药标签：行业指南](./guidance/uniform-contraceptive-labeling-guidance-industry) (1998-07-22) 〔仅元数据〕
+- [其他产品:外卖牙枕,,,维修套件,部分制造牙套件：行业与FDA工作人员指南](./guidance/otc-denture-cushions-pads-reliners-repair-kits-and-partially-fabricated-denture-kits-guidance) (1998-08-17) 〔全文〕
+- [修订了对延长穿戴的固体气体透透式接触镜类III类上市前许可申请的添加镜头制成实验室的程序：行业与FDA工作人员指南](./guidance/revised-procedures-adding-lens-finishing-laboratories-approved-premarket-approval-applications-class) (1998-08-10) 〔全文〕
+- [男人乳安全套 - 510 信息 (k) 上市前通知:使用共识标准来简短提交：行业指南](./guidance/latex-condoms-men-information-510k-premarket-notifications-use-consensus-standards-abbreviated) (1998-07-23) 〔全文〕
+- [统一的避孕药标签：行业指南](./guidance/uniform-contraceptive-labeling-guidance-industry) (1998-07-22) 〔全文〕
 - [洗衣机和洗衣机消毒器的指南文件,用于处理可重复使用的医疗器械](./guidance/guidance-document-washers-and-washer-disinfectors-intended-processing-reusable-medical-devices) (1998-06-01) 〔仅元数据〕
 - [批准第三类医疗器械的补充:使用出版物,使用先前提交的材料和优先考虑：行业指南](./guidance/supplements-approved-applications-class-iii-medical-devices-use-published-literature-use-previously) (1998-05-19) 〔仅元数据〕
-- [食器和食器假肢上市前通知内容指南 - 产业指南](./guidance/guidance-content-premarket-notifications-esophageal-and-tracheal-prostheses-guidance-industry) (1998-04-27) 〔仅元数据〕
-- [对于二级设备免于上市前通知,行业指导和CDRH人员的程序](./guidance/procedures-class-ii-device-exemptions-premarket-notification-guidance-industry-and-cdrh-staff) (1998-02-18) 〔仅元数据〕
+- [食器和食器假肢上市前通知内容指南 - 产业指南](./guidance/guidance-content-premarket-notifications-esophageal-and-tracheal-prostheses-guidance-industry) (1998-04-27) 〔全文〕
+- [对于二级设备免于上市前通知,行业指导和CDRH人员的程序](./guidance/procedures-class-ii-device-exemptions-premarket-notification-guidance-industry-and-cdrh-staff) (1998-02-18) 〔全文〕
 - [五百一十的套件认证](./guidance/kit-certification-510ks) (1997-06-30) 〔仅元数据〕
-- [便利套件临时监管指导](./guidance/convenience-kits-interim-regulatory-guidance) (1997-05-19) 〔仅元数据〕
+- [便利套件临时监管指导](./guidance/convenience-kits-interim-regulatory-guidance) (1997-05-19) 〔全文〕
 - [非入侵性血压监测指南 (NIBP)](./guidance/non-invasive-blood-pressure-nibp-monitor-guidance) (1997-03-09) 〔仅元数据〕
-- [检查人员对骨科外立固定器件的指导清单版本 #5](./guidance/reviewers-guidance-checklist-orthopedic-external-fixation-devices-version-5) (1997-02-20) 〔仅元数据〕
+- [检查人员对骨科外立固定器件的指导清单版本 #5](./guidance/reviewers-guidance-checklist-orthopedic-external-fixation-devices-version-5) (1997-02-20) 〔全文〕
 - [510(K) 需要用于氧酸涂层的整形植入物](./guidance/510k-information-needed-hydroxyapatite-coated-orthopedic-implants) (1997-02-19) 〔仅元数据〕
-- [关于断系统设备上市前通知的第三方审查指南 (510(k))](./guidance/third-party-review-guidance-phacofragmentation-system-device-premarket-notification-510k) (1997-01-31) 〔仅元数据〕
-- [关于玻璃吸管和切割设备上市前通知的第三方审查指南 (510(k))](./guidance/third-party-review-guidance-vitreous-aspiration-and-cutting-device-premarket-notification-510k) (1997-01-30) 〔仅元数据〕
-- [检查信息通常在检查设备豁免 (IDE) 申请中提交的信息检查清单 [豁免]](./guidance/checklist-information-usually-submitted-investigational-device-exemptions-ide-application-refractive) (1996-10-09) 〔仅元数据〕
+- [关于断系统设备上市前通知的第三方审查指南 (510(k))](./guidance/third-party-review-guidance-phacofragmentation-system-device-premarket-notification-510k) (1997-01-31) 〔全文〕
+- [关于玻璃吸管和切割设备上市前通知的第三方审查指南 (510(k))](./guidance/third-party-review-guidance-vitreous-aspiration-and-cutting-device-premarket-notification-510k) (1997-01-30) 〔全文〕
+- [检查信息通常在检查设备豁免 (IDE) 申请中提交的信息检查清单 [豁免]](./guidance/checklist-information-usually-submitted-investigational-device-exemptions-ide-application-refractive) (1996-10-09) 〔全文〕
 - [建议 IDE 进展报告的格式](./guidance/suggested-format-ide-progress-report) (1996-05-31) 〔仅元数据〕
-- [热内膜外移装置 (IDE提交指南)](./guidance/thermal-endometrial-ablation-devices-submission-guidance-ide) (1996-03-13) 〔仅元数据〕
-- [镜和妇科镜 - 提交指南 510(k)](./guidance/hysteroscopes-and-gynecology-laparoscopes-submission-guidance-510k) (1996-03-07) 〔仅元数据〕
+- [热内膜外移装置 (IDE提交指南)](./guidance/thermal-endometrial-ablation-devices-submission-guidance-ide) (1996-03-13) 〔全文〕
+- [镜和妇科镜 - 提交指南 510(k)](./guidance/hysteroscopes-and-gynecology-laparoscopes-submission-guidance-510k) (1996-03-07) 〔全文〕
 - [附加条:关于上市前通知的指南 [510(k) ] 应用于医疗保健设施的灭菌剂的申请](./guidance/addendum-guidance-premarket-notification-510k-submissions-sterilizers-intended-use-health-care) (1995-09-18) 〔仅元数据〕
 - [透剂和透剂:为510提供指南](./guidance/hysteroscopic-and-laparoscopic-insufflators-submission-guidance-510k) (1995-07-31) 〔仅元数据〕
-- [准备上市前通知的指南 [510(k) ]机械和动力轮椅和动力三轮车辆的应用](./guidance/guidance-document-preparation-premarket-notification-510k-applications-mechanical-and-powered) (1995-07-25) 〔仅元数据〕
-- [上市前通知的准备指南文件 [510(k) ]供供热和冷却设备的应用](./guidance/guidance-document-preparation-premarket-notification-510k-applications-heating-and-cooling-devices) (1995-07-25) 〔仅元数据〕
-- [准备上市前通知的指南 [510(K) ]运动设备申请](./guidance/guidance-document-preparation-premarket-notification-510k-applications-exercise-equipment) (1995-07-25) 〔仅元数据〕
+- [准备上市前通知的指南 [510(k) ]机械和动力轮椅和动力三轮车辆的应用](./guidance/guidance-document-preparation-premarket-notification-510k-applications-mechanical-and-powered) (1995-07-25) 〔全文〕
+- [上市前通知的准备指南文件 [510(k) ]供供热和冷却设备的应用](./guidance/guidance-document-preparation-premarket-notification-510k-applications-heating-and-cooling-devices) (1995-07-25) 〔全文〕
+- [准备上市前通知的指南 [510(K) ]运动设备申请](./guidance/guidance-document-preparation-premarket-notification-510k-applications-exercise-equipment) (1995-07-25) 〔全文〕
 - [基于新材料 (非乳) 制成的男用安全套的测试指南](./guidance/testing-guidance-male-condoms-made-new-material-non-latex) (1995-06-28) 〔仅元数据〕
-- [关于医疗激光上市前通知内容和组织的指南](./guidance/guidance-content-and-organization-premarket-notification-medical-laser) (1995-05-31) 〔仅元数据〕
-- [测试非关节,"机械锁定",模块化植入物组件的指南](./guidance/guidance-document-testing-non-articulating-mechanically-locked-modular-implant-components) (1995-04-30) 〔仅元数据〕
-- [陶球系统上市前通知的准备指南文件](./guidance/guidance-document-preparation-premarket-notification-ceramic-ball-hip-systems) (1995-01-09) 〔仅元数据〕
-- [在胃肠病学和泌尿学中使用的机械除剂和石头排放剂的检查清单](./guidance/checklist-mechanical-lithotripters-and-stone-dislodgers-used-gastroenterology-and-urology) (1994-11-01) 〔仅元数据〕
+- [关于医疗激光上市前通知内容和组织的指南](./guidance/guidance-content-and-organization-premarket-notification-medical-laser) (1995-05-31) 〔全文〕
+- [测试非关节,"机械锁定",模块化植入物组件的指南](./guidance/guidance-document-testing-non-articulating-mechanically-locked-modular-implant-components) (1995-04-30) 〔全文〕
+- [陶球系统上市前通知的准备指南文件](./guidance/guidance-document-preparation-premarket-notification-ceramic-ball-hip-systems) (1995-01-09) 〔全文〕
+- [在胃肠病学和泌尿学中使用的机械除剂和石头排放剂的检查清单](./guidance/checklist-mechanical-lithotripters-and-stone-dislodgers-used-gastroenterology-and-urology) (1994-11-01) 〔全文〕
 - [510(k) 转管外科仪器使用的无菌滑凝检查清单](./guidance/510k-checklist-sterile-lubricating-jelly-used-transurethral-surgical-instruments) (1994-09-18) 〔仅元数据〕
 - [对于常规和抗微生物片片类的预销售通知内容的指导](./guidance/guidance-content-premarket-notifications-conventional-and-antimicrobial-foley-catheters) (1994-09-11) 〔仅元数据〕
-- [关于扩展拉巴洛斯科仪器 (ELD) 上市前通知的准备指南](./guidance/guidance-preparation-premarket-notification-extended-laparoscopy-devices-eld) (1994-08-29) 〔仅元数据〕
+- [关于扩展拉巴洛斯科仪器 (ELD) 上市前通知的准备指南](./guidance/guidance-preparation-premarket-notification-extended-laparoscopy-devices-eld) (1994-08-29) 〔全文〕
 - [关于尿液排水袋上市前通知内容的指南](./guidance/guidance-content-premarket-notifications-urine-drainage-bags) (1994-06-07) 〔仅元数据〕
-- [修改金属表面,接着接着骨头或骨水泥的整形植入物测试指南文件](./guidance/guidance-document-testing-orthopedic-implants-modified-metallic-surfaces-apposing-bone-or-bone) (1994-04-27) 〔仅元数据〕
-- [函 - 安全套产品制造商,经销商和进口商 (包含在安全套包398) :函 - 安全套产品制造商,经销商和进口商](./guidance/letter-manufacturers-distributors-and-importers-condom-products-included-condom-packet-398) (1994-02-23) 〔仅元数据〕
-- [对于结器,计量剂量吸入器,间隔器和动机的审查员指南](./guidance/reviewer-guidance-nebulizers-metered-dose-inhalers-spacers-and-actuators) (1993-09-30) 〔仅元数据〕
-- [关于上市前通知的指南 [510(k) 关于外科服装和外科的申请](./guidance/guidance-premarket-notification-510k-submissions-surgical-gowns-and-surgical-drapes) (1993-08-01) 〔仅元数据〕
-- [关于上市前通知的指南 [510(k) ] 提交用于医疗保健设施的自动化内膜洗衣机,洗衣机/消毒器和消毒器的申请](./guidance/guidance-premarket-notification-510k-submissions-automated-endoscope-washers-washerdisinfectors-and) (1993-08-01) 〔仅元数据〕
+- [修改金属表面,接着接着骨头或骨水泥的整形植入物测试指南文件](./guidance/guidance-document-testing-orthopedic-implants-modified-metallic-surfaces-apposing-bone-or-bone) (1994-04-27) 〔全文〕
+- [函 - 安全套产品制造商,经销商和进口商 (包含在安全套包398) :函 - 安全套产品制造商,经销商和进口商](./guidance/letter-manufacturers-distributors-and-importers-condom-products-included-condom-packet-398) (1994-02-23) 〔全文〕
+- [对于结器,计量剂量吸入器,间隔器和动机的审查员指南](./guidance/reviewer-guidance-nebulizers-metered-dose-inhalers-spacers-and-actuators) (1993-09-30) 〔全文〕
+- [关于上市前通知的指南 [510(k) 关于外科服装和外科的申请](./guidance/guidance-premarket-notification-510k-submissions-surgical-gowns-and-surgical-drapes) (1993-08-01) 〔全文〕
+- [关于上市前通知的指南 [510(k) ] 提交用于医疗保健设施的自动化内膜洗衣机,洗衣机/消毒器和消毒器的申请](./guidance/guidance-premarket-notification-510k-submissions-automated-endoscope-washers-washerdisinfectors-and) (1993-08-01) 〔全文〕
 - [关于上市前通知内容的指导意见 [510(K) ] 注剂的申请](./guidance/guidance-content-premarket-notification-510k-submissions-piston-syringes) (1993-03-31) 〔仅元数据〕
-- [关于预销售通知的指南 510 ((k) 适用于医疗保健设施的灭菌剂](./guidance/guidance-premarket-notification-510k-sterilizers-intended-use-health-care-facilities) (1993-03-01) 〔仅元数据〕
+- [关于预销售通知的指南 510 ((k) 适用于医疗保健设施的灭菌剂](./guidance/guidance-premarket-notification-510k-sterilizers-intended-use-health-care-facilities) (1993-03-01) 〔全文〕
 - [关于尿管片上市前通知内容的指南](./guidance/guidance-content-premarket-notifications-ureteral-stents) (1993-02-09) 〔仅元数据〕
 - [肠病学和泌尿学中使用的生物检查器械上市前通知内容指南](./guidance/guidance-content-premarket-notifications-biopsy-devices-used-gastroenterology-and-urology) (1993-02-09) 〔仅元数据〕
-- [检查标准 检测对巴尔沃病毒B19抗体的内置诊断设备的前销售批准](./guidance/review-criteria-premarket-approval-in-vitro-diagnostic-devices-detection-antibodies-parvovirus-b19) (1992-05-15) 〔仅元数据〕
+- [检查标准 检测对巴尔沃病毒B19抗体的内置诊断设备的前销售批准](./guidance/review-criteria-premarket-approval-in-vitro-diagnostic-devices-detection-antibodies-parvovirus-b19) (1992-05-15) 〔全文〕
 - [设备标签指南#G91-1 (蓝色书记)](./guidance/device-labeling-guidance-g91-1-blue-book-memo) (1991-03-07) 〔仅元数据〕
 - [氧气储能装置的指南510(k) 审查73 BZD 868.5905 II类不连续风扇](./guidance/guidance-oxygen-conserving-device-510k-review-73-bzd-8685905-non-continuous-ventilator-class-ii) (1989-02-01) 〔仅元数据〕
-- [主要文件第三部分 - 关于科学技术信息的指导](./guidance/master-files-part-iii-guidance-scientific-and-technical-information) (1987-06-01) 〔仅元数据〕
+- [主要文件第三部分 - 关于科学技术信息的指导](./guidance/master-files-part-iii-guidance-scientific-and-technical-information) (1987-06-01) 〔全文〕
 - [所有美国安全套制造商,进口商和重新包装商](./guidance/all-us-condom-manufacturers-importers-and-repackagers) (1987-04-07) 〔仅元数据〕
-- [关于透性消毒装置的评估指南 (以下简称"指南")](./guidance/guidance-guidelines-evaluation-hysteroscopic-sterilization-devices) (1978-05-09) 〔仅元数据〕
+- [关于透性消毒装置的评估指南 (以下简称"指南")](./guidance/guidance-guidelines-evaluation-hysteroscopic-sterilization-devices) (1978-05-09) 〔全文〕
 - [紧急使用氧气发电机和氧气设备的审查指南](./guidance/review-guidelines-oxygen-generators-and-oxygen-equipment-emergency-use) (1977-01-01) 〔仅元数据〕
 
 ## 质量 / QMSR / 生产制造 {#quality_manufacturing}

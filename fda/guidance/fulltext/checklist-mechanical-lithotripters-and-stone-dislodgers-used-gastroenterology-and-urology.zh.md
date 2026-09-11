@@ -1,35 +1,10 @@
----
-title: "在胃肠病学和泌尿学中使用的机械除剂和石头排放剂的检查清单"
-description: "Checklist for Mechanical Lithotripters and Stone Dislodgers used in Gastroenterology and Urology"
-published: 1994-11-01
----
+# 用于气进肠学和乌鲁学的机械立电仪和碎石碎石处理器核对清单
 
-# 在胃肠病学和泌尿学中使用的机械除剂和石头排放剂的检查清单
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/checklist-mechanical-lithotripters-and-stone-dislodgers-used-gastroenterology-and-urology](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/checklist-mechanical-lithotripters-and-stone-dislodgers-used-gastroenterology-and-urology)
 
-**Checklist for Mechanical Lithotripters and Stone Dislodgers used in Gastroenterology and Urology**
-
-**发布日期**：1994-11-01
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：上市前
-**主题**：Premarket
-**案卷号**：FDA-2020-D-0957
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/checklist-mechanical-lithotripters-and-stone-dislodgers-used-gastroenterology-and-urology
-PDF：https://www.fda.gov/media/72275/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 1994-11-01
 
 ---
-
-## 官方文件全文
 
 这份指南是在1997年2月27日执行FDA的《良好指导做法》,GGP之前编写的。它不为任何人创造或授予权利,也不赋予任何人权利,也不为约束FDA或公众而运作。如果替代办法符合适用法规、条例或两者的要求,则可以采用另一种办法。下一次修订将更新本指南,以纳入全球采购计划的标准要素。
 1994年11月1日, 1994年11月510(k) 气态肠道和乌尔科学中使用的机械立体成像仪和石块拆解器核对清单510(k)份呈文的编写一般指南载于DRAERD“上市前通知内容指南草案”。 该文件可向装置和辐射健康中心小型制造商援助司索取,时间为(800)638-2041或(301)443-6597。
@@ -193,4 +168,3 @@ g. 。
 10. 510(k) 摘要/说明:
 
 欲知进一步情况,联系: 生殖、腹部、耳耳、鼻和喉部的Urlogy和Lithotriphy Protections处,装置和辐射健康设备评价中心装置评价办公室(301) 594-2194
-

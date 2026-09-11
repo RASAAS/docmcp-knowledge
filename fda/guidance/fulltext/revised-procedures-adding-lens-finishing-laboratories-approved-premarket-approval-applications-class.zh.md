@@ -1,35 +1,10 @@
----
-title: "修订了对延长穿戴的固体气体透透式接触镜类III类上市前许可申请的添加镜头制成实验室的程序：行业与FDA工作人员指南"
-description: "Revised Procedures for Adding Lens Finishing Laboratories to Approved Premarket Approval Applications for Class III Rigid Gas Permeable Contact Lenses for Extended Wear - Guidance for Industry and FDA Staff"
-published: 1998-08-10
----
+# 在核准第三类延长穿装的硬性气体渗透性接触镜头核准前核准申请中增加用镜头完成试验室的订正程序 -- -- 工业和FDA工作人员指南
 
-# 修订了对延长穿戴的固体气体透透式接触镜类III类上市前许可申请的添加镜头制成实验室的程序：行业与FDA工作人员指南
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/revised-procedures-adding-lens-finishing-laboratories-approved-premarket-approval-applications-class](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/revised-procedures-adding-lens-finishing-laboratories-approved-premarket-approval-applications-class)
 
-**Revised Procedures for Adding Lens Finishing Laboratories to Approved Premarket Approval Applications for Class III Rigid Gas Permeable Contact Lenses for Extended Wear - Guidance for Industry and FDA Staff**
-
-**发布日期**：1998-08-10
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：上市前
-**主题**：Premarket
-**案卷号**：FDA-2020-D-0957
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/revised-procedures-adding-lens-finishing-laboratories-approved-premarket-approval-applications-class
-PDF：https://www.fda.gov/media/72479/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 1998-08-10
 
 ---
-
-## 官方文件全文
 
 关于工业和FDA工作人员在核准第三类强压气体渗透接触镜头用于延长穿戴的核准预先核准申请中添加过镜头的加工实验室的订正程序指南,印发日期:1998年8月11日 本文件取代文件1985年5月9日,美国“通过对经批准的硬气渗透接触镜头预先批准申请的补充,增加用镜头完成实验室的新程序”,1985年5月9日。卫生及公众服务部卫生及公众服务部食品和药品食品及药品管理局装置和辐射健康设备和辐射健康中心
 
@@ -140,4 +115,3 @@ GCOA 发行:3-4-98 批准批准授权条件。向PMA文件邮件中心(HFZ-401)�
 根据《医疗管理条例》须报告的同样事件,也可适用本《医疗管理条例》“批准条件”中的上述“反反应和装置缺陷报告”要求。FDA确定,这种重复的报告没有必要。涉及器械的事件,如须根据《管理管理条例》和PMA的“批准条件”进行报告,制造商应在21 CFR 803.10(c) 使用FDA表格3500A确定的时限内,即:30天后 得知有应报告的死亡 严重伤害如21 CFR 803.50和21 CFR 803.52和5天后所述,在意识到报告可报告 MDR 事件需要采取补救行动,以防止对公众健康造成重大损害的不合理风险之后,发生故障。制造商负责在FDA表3417上提交设备基准报告,如果设备模型首次报告在21 CFR 803.50之下。这份基准报告将包括标界局的参考编号。任何书面报告及其信封,例如“制造商报告”、““每日报告”、“基准报告”等,都必须具体指明。美国食品药品监督管理局设备和放射卫生医疗设备中心报告信箱3002号信箱,马里兰州罗克维尔,20847-3002
 
 CDRH WWW主页上载有《医疗设备报告条例》(FOD#336和1336)和FDA题为《医疗设备报告条例概览》(FOD#509)和《制造商医疗设备报告》(FOD#987)的出版物。还通过CDRH的《需求事实》(F-O-D),800-899-0381提供。书面索取资料的要求可发送传真至CDRH的小型制造商援助司(DSMA),电话301-443-8818。
-

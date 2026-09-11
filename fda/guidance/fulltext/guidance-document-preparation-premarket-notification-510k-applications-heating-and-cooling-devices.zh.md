@@ -1,35 +1,10 @@
----
-title: "上市前通知的准备指南文件 [510(k) ]供供热和冷却设备的应用"
-description: "Guidance Document for the Preparation of Premarket Notification [510(k)] Applications for Heating and Cooling Devices"
-published: 1995-07-25
----
+# 编写上市前通知的指南文件 [510(k)]
 
-# 上市前通知的准备指南文件 [510(k) ]供供热和冷却设备的应用
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-document-preparation-premarket-notification-510k-applications-heating-and-cooling-devices](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-document-preparation-premarket-notification-510k-applications-heating-and-cooling-devices)
 
-**Guidance Document for the Preparation of Premarket Notification [510(k)] Applications for Heating and Cooling Devices**
-
-**发布日期**：1995-07-25
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：上市前
-**主题**：Premarket
-**案卷号**：FDA-2020-D-0957
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-document-preparation-premarket-notification-510k-applications-heating-and-cooling-devices
-PDF：https://www.fda.gov/media/72413/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 1995-07-25
 
 ---
-
-## 官方文件全文
 
 1 本指南是在1997年2月27日执行FDA《良好指导做法》GGP之前编写的。它不为任何人创造或授予权利,也不赋予任何人权利,也不为约束FDA或公众而运作。如果替代办法符合适用法规、条例或两者的要求,则可以采用另一种办法。下次修订时将更新本指南,以纳入全球采购计划的标准内容。
 拟订[510(K)]7月26日的《关于增加和管制燃料的 通知的指南文件》本指南文件可提及现已过时的地址和电话号码。· 本指南文件虽然是一份最后文件,但评论和建议可在任何时候提交原子能机构审议,供原子能机构审议。 9200 Corporation Blvd., HFZ-410, Rockville, MD 20850。
@@ -95,4 +70,3 @@ FDA先前已对不同迹象进行清理。
 或
 2. 提供510(k)声明,安全和成效信息将应要求提供给感兴趣的人。本声明必须遵循格式,并载有21 CFR 807.93中具体指明的措辞。
 说明上市前通知中提交的所有数据和资料都是真实和准确的,没有遗漏任何实质性事实,21 CFR 807.87(j)要求这样做。
-

@@ -1,35 +1,10 @@
----
-title: "食器和食器假肢上市前通知内容指南 - 产业指南"
-description: "Guidance For The Content Of Premarket Notifications For Esophageal And Tracheal Prostheses - Guidance For Industry"
-published: 1998-04-27
----
+# 《关于产科和创伤假肢上市前通知内容的指导意见》 -- -- 工业指南
 
-# 食器和食器假肢上市前通知内容指南 - 产业指南
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-content-premarket-notifications-esophageal-and-tracheal-prostheses-guidance-industry](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-content-premarket-notifications-esophageal-and-tracheal-prostheses-guidance-industry)
 
-**Guidance For The Content Of Premarket Notifications For Esophageal And Tracheal Prostheses - Guidance For Industry**
-
-**发布日期**：1998-04-27
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：上市前
-**主题**：Premarket
-**案卷号**：FDA-2020-D-0957
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-content-premarket-notifications-esophageal-and-tracheal-prostheses-guidance-industry
-PDF：https://www.fda.gov/media/72632/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 1998-04-27
 
 ---
-
-## 官方文件全文
 
 工业指南文件,说明1998年4月28日印发的《关于植物和植物的 初步通知》文件的内容:1998年4月28日美国卫生部卫生和公众服务部食品和药品美国食品药品监督管理局设备和放射卫生、可塑和再造手术设备中心
 
@@ -133,4 +108,3 @@ ISO-10993 医疗设备生物评价第1部分:评价和测试”应提供。
 上述声明必须由公司代表(而不是监管顾问)签署和注明日期。
 ## XV. 使用请求书
 应在一份单独的纸页上提供使用标记,并应与装置标签中提供的标记完全一致。
-

@@ -1,35 +1,10 @@
----
-title: "关于医疗激光上市前通知内容和组织的指南"
-description: "Guidance on the Content and Organization of a Premarket Notification for a Medical Laser"
-published: 1995-05-31
----
+# 关于医疗激光器上市前通知的内容和组织安排的指导
 
-# 关于医疗激光上市前通知内容和组织的指南
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-content-and-organization-premarket-notification-medical-laser](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-content-and-organization-premarket-notification-medical-laser)
 
-**Guidance on the Content and Organization of a Premarket Notification for a Medical Laser**
-
-**发布日期**：1995-05-31
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：上市前
-**主题**：Premarket、Radiology
-**案卷号**：FDA-2020-D-0957
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-content-and-organization-premarket-notification-medical-laser
-PDF：https://www.fda.gov/media/72668/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 1995-05-31
 
 ---
-
-## 官方文件全文
 
 这份指南是在1997年2月27日执行FDA的《良好指导做法》,GGP之前编写的。它不为任何人创造或授予权利,也不赋予任何人权利,也不为约束FDA或公众而运作。如果替代办法符合适用法规、条例或两者的要求,则可以采用另一种办法。该指南将在下一次修订中更新,以纳入全球政府采购总总总关于1995年6月医疗和生殖保健中心医疗实验室前通知的编制和组织准则的标准要点。
 
@@ -372,4 +347,3 @@ Hz、kHz等脉冲频率
 510(k) D R A F T 通用医疗特殊性绩效的检验,这是FDA在向FDA提交Penel Inel Pentut和其他说明后发现的问题。
 如果一项总的情况无法确定,那么,一般索赔就不可接受,并且必须使用特定的方法。是否有一个相当明显的 化学用途地区 是调查性的, 效果 对一个大 流体类型 尚未评价, 获得是不是 技术不易,或尚未建立安全。
 一般性监测综合此类信息,以:特殊区域内普通组织类型激光对组织的影响 验证一般特殊用途的可接受性,包括体外试验数据,以及临床数据 其他的 外光
-

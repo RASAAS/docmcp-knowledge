@@ -1,35 +1,10 @@
----
-title: "关于扩展拉巴洛斯科仪器 (ELD) 上市前通知的准备指南"
-description: "Guidance for the Preparation of a Premarket Notification for Extended Laparoscopy Devices (ELD)"
-published: 1994-08-29
----
+# 《扩展拉帕罗复印装置上市前通知编制指南》
 
-# 关于扩展拉巴洛斯科仪器 (ELD) 上市前通知的准备指南
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-preparation-premarket-notification-extended-laparoscopy-devices-eld](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-preparation-premarket-notification-extended-laparoscopy-devices-eld)
 
-**Guidance for the Preparation of a Premarket Notification for Extended Laparoscopy Devices (ELD)**
-
-**发布日期**：1994-08-29
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：上市前
-**主题**：Premarket
-**案卷号**：FDA-2020-D-0957
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-preparation-premarket-notification-extended-laparoscopy-devices-eld
-PDF：https://www.fda.gov/media/72392/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 1994-08-29
 
 ---
-
-## 官方文件全文
 
 1 本指南是在1997年2月27日执行FDA《良好指导做法》GGP之前编写的。它不为任何人创造或授予权利,也不赋予任何人权利,也不为约束FDA或公众而运作。如果替代办法符合适用法规、条例或两者的要求,则可以采用另一种办法。下次修订时将更新本指南,以纳入全球采购计划的标准内容。
 拟订8月30日 延长的拉帕罗斯 COP 装备(续)的 初步通知指南草案(重订格式:1994年12/17/97)本指南文件可能提及现已过时的地址和电话号码。· 本指南文件虽然是一份最后文件,但评论和建议可在任何时候提交原子能机构审议,供原子能机构审议。 9200 Corporation Blvd., HFZ-410, Rockville, MD 20850。
@@ -72,4 +47,3 @@ PDF：https://www.fda.gov/media/72392/download
 分离地点50-200名病人的第二个“分级”阶段,目的是为单一程序编制比较数据,使用和不使用ELD将装置性能与公认的上游装置和/或程序进行比较。感兴趣的参数可包括麻醉时间、失血、并发症、特别护理和住院时间。
 ## VIII. 结论:
 我们希望,本指南能使我们对目前关于这一新装置群的想法有洞察力。我们的目标是澄清审查进程,以便迅速部署这一令人兴奋的新技术,同时保持医生和病人应有的必要质量标准。
-

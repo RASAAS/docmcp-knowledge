@@ -1,35 +1,10 @@
----
-title: "测试非关节,\"机械锁定\",模块化植入物组件的指南"
-description: "Guidance Document for Testing Non-Articulating, 'Mechanically Locked', Modular Implant Components"
-published: 1995-04-30
----
+# 测试非艺术、“机械锁闭”、模块性植入元件的指南文件
 
-# 测试非关节,"机械锁定",模块化植入物组件的指南
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-document-testing-non-articulating-mechanically-locked-modular-implant-components](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-document-testing-non-articulating-mechanically-locked-modular-implant-components)
 
-**Guidance Document for Testing Non-Articulating, 'Mechanically Locked', Modular Implant Components**
-
-**发布日期**：1995-04-30
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：上市前
-**主题**：Premarket
-**案卷号**：FDA-2020-D-0957
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-document-testing-non-articulating-mechanically-locked-modular-implant-components
-PDF：https://www.fda.gov/media/72680/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 1995-04-30
 
 ---
-
-## 官方文件全文
 
 这项指导准则是在1997年2月27日执行FDA的《良好指导做法》,GGP之前编写的。它不为任何人创造或授予权利,也不赋予任何人权利,也不为约束FDA或公众而运作。如果替代办法符合适用法规、条例或两者的要求,则可以采用另一种办法。下次修订时将更新本指南,以纳入全球采购计划的标准内容。
 用于对非培训、“中锁”、混合部分进行测试的指南文件草案,请提出评论意见,以便:美国美国食品药品监督管理局9200公司Blvd公司。
@@ -101,4 +76,3 @@ FDA在情况需要时,除了本文件所载资料外,可能还需要资料。在
 9. 附录附录
 与本报告有关的所有参考文献目录,其中引用了组织报告的信息、资料、设备和问题,2. 扩大以前4年不同时期不同残疾状态的状态 4年以上强化战略(# 5) 5年以下(# 3) 3 5年 5年以下 (# 3) 6. 变压和变压的面积VADV 溶解成对VA 车辆的 挥发性驱逐,(第1-3号) 高压对完成Label 5. 低压之下用于计算和组件的 设计及组件的 设计规章和组件的完成的影响
 6. 高压对完成诊断性分析和/或气象试验(#1-3)的影响高压 高压对完成诊断性分析和/或气象试验(#1-3)的影响 高压对完成诊断性 分析和/或气象试验(#1-3)的影响 高压分析和/或气象试验(#1-3) 支持撒布的在联系项目中更多地复制和解冻碎片(E.G.,10. 生物-生物部分的下列活动:11. 寻找和评价新的碎片机制的又一个新机制
-

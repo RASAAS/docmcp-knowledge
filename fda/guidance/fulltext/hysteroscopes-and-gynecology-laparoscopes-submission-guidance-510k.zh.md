@@ -1,35 +1,10 @@
----
-title: "镜和妇科镜 - 提交指南 510(k)"
-description: "Hysteroscopes and Gynecology Laparoscopes - Submission Guidance for a 510(k)"
-published: 1996-03-07
----
+# 510(k)项的提交指南
 
-# 镜和妇科镜 - 提交指南 510(k)
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/hysteroscopes-and-gynecology-laparoscopes-submission-guidance-510k](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/hysteroscopes-and-gynecology-laparoscopes-submission-guidance-510k)
 
-**Hysteroscopes and Gynecology Laparoscopes - Submission Guidance for a 510(k)**
-
-**发布日期**：1996-03-07
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：上市前
-**主题**：Premarket、510(k)
-**案卷号**：FDA-2020-D-0957
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/hysteroscopes-and-gynecology-laparoscopes-submission-guidance-510k
-PDF：https://www.fda.gov/media/72262/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 1996-03-07
 
 ---
-
-## 官方文件全文
 
 这份指南是在1997年2月27日执行FDA的《良好指导做法》,GGP之前编写的。它不为任何人创造或授予权利,也不赋予任何人权利,也不为约束FDA或公众而运作。如果替代办法符合适用法规、条例或两者的要求,则可以采用另一种办法。下一次修订将更新本指南,以纳入全球采购计划的标准要素。
 510(k) 最后意见提交指南:1996年3月7日(取代以前部分:1994年3月25日的“眼镜和拉波罗镜、消毒器和其他有关仪器:510(k)的提交要求”,由下列人员编写:截至2015年9月的设备和辐射健康设备评价中心办公室妇产科装置处最新信息:可从互联网上获取更多副本。您也可通过电子邮件向 CDRH- Guidelines@fda.hhs.gov 发送一份请求书,要求收到指南的电子版本,或向 301-847-8149 发送传真请求书,要求收到硬拷贝。请使用文件标题和年份来确定您所要求的指导 。
@@ -280,4 +255,3 @@ A-6页,SE比较图表,SOFFWARE文件(如果适用)
 
 - 豁免拉帕罗斯古和希斯古古(Laparoscopic和Hysteroscocos Captories) 豁免禁装置清单(摘自联邦登记通知1124,1月16日)自1996年2月16日起,下列腹膜和歇斯底里配件不受510(k)上市前通知程序的管制,如果它们不是专门仪器或装置运载系统的一部分,如果它们没有电传、激光的适配器、连接器、信道或其他入口,或其他动力源。
 螺旋载体/针持者夹/热辣/草皮/草卷卷卷卷卷式仪器指导绳结通过和结结仪器缝合针(没有缝合)
-

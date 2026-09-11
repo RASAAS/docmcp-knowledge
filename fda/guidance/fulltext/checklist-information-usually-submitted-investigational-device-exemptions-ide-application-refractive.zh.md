@@ -1,34 +1,10 @@
----
-title: "检查信息通常在检查设备豁免 (IDE) 申请中提交的信息检查清单 [豁免]"
-description: "Checklist of Information Usually Submitted in an Investigational Device Exemptions (IDE) Application for Refractive Surgery Lasers [excimer]"
-published: 1996-10-09
----
+# 通常在调查设备豁免(IDE)申请中提交的易碎性外科激光器[刺激]资料清单
 
-# 检查信息通常在检查设备豁免 (IDE) 申请中提交的信息检查清单 [豁免]
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/checklist-information-usually-submitted-investigational-device-exemptions-ide-application-refractive](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/checklist-information-usually-submitted-investigational-device-exemptions-ide-application-refractive)
 
-**Checklist of Information Usually Submitted in an Investigational Device Exemptions (IDE) Application for Refractive Surgery Lasers [excimer]**
-
-**发布日期**：1996-10-09
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：上市前
-**主题**：Premarket、Investigational Device Exemption (IDE)
-**案卷号**：FDA-2020-D-0957
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/checklist-information-usually-submitted-investigational-device-exemptions-ide-application-refractive
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 1996-10-09
 
 ---
-
-## 官方文件全文
 
 10月10日,1996年 通常在调查设备豁免(IDE)申请中提交的易碎性外科激光器资料清单。 本文件旨在为编写管制性呈件提供指导。它不以任何方式约束FDA或受管制行业。
 10月10日发布的设备评价文件虽然这份指南文件是一份最后文件,但评论和建议可以随时以书面形式提交Morris Waxler博士,供原子能机构审议。关于使用或解释本指南的问题,请联系Morris Waxler博士(301) 594-2018。[本指南文件取代“关于调查设备豁免准备和内容的临床指南草案(IDE)
@@ -378,4 +354,3 @@ D 机构关于国际能源局提交材料的决定。
 
 CRRH,FDA,1996年10月10日,1996年10月10日。 所需要素清单见附录A和CFR 21 812.20(b)。
 机构批准(包括有条件批准)原IDE提交材料应查明划界案中的问题领域,这些问题可能妨碍FDA日后确定数据不构成“有效科学证据”。原子能机构应参照广泛的议题,并在可能的情况下根据具体细节,查明这些问题。发起方负责对一项国际数据开发研究所研究期间产生的数据的科学有效性进行鉴定。
-

@@ -1,35 +1,10 @@
----
-title: "检查人员对骨科外立固定器件的指导清单版本 #5"
-description: "Reviewers Guidance Checklist For Orthopedic External Fixation Devices Version #5"
-published: 1997-02-20
----
+# 审查者审查者指导审查者指导 Orthope 外部固定设备第5版核对清单
 
-# 检查人员对骨科外立固定器件的指导清单版本 #5
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/reviewers-guidance-checklist-orthopedic-external-fixation-devices-version-5](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/reviewers-guidance-checklist-orthopedic-external-fixation-devices-version-5)
 
-**Reviewers Guidance Checklist For Orthopedic External Fixation Devices Version #5**
-
-**发布日期**：1997-02-20
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：上市前
-**主题**：Premarket
-**案卷号**：FDA-2020-D-0957
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/reviewers-guidance-checklist-orthopedic-external-fixation-devices-version-5
-PDF：https://www.fda.gov/media/72733/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 1997-02-20
 
 ---
-
-## 官方文件全文
 
 本指南准则是在1997年2月27日执行FDA的GGPG良好指导做法之前编写的。它不为任何人创造或授予权利,也不赋予任何人权利,也不为约束FDA或公众而运作。如果替代办法符合适用法规、条例或两者的要求,则可以采用另一种办法。下次修订时将更新本指南,以纳入全球采购计划的标准内容。
 外食用物质或外食用 外食用 源 值 源
@@ -180,4 +155,3 @@ Xxxx
 FDA收到了对这一要求的适当答复。
 2. 请提供资料,说明使用SSS与Ti线固定装置僵硬性的差异。所审查的装置是用一种与上游相比微积分较低的材料制成的,这种材料可能会降低硬度。硬性会影响骨吸附和骨折结,僵硬性太小可能导致不稳定和不结合。
 FDA收到了对这一要求的适当答复。
-

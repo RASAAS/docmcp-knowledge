@@ -1,35 +1,10 @@
----
-title: "准备上市前通知的指南 [510(K) ]运动设备申请"
-description: "Guidance Document for the Preparation of Premarket Notification [510(K)] Applications for Exercise Equipment"
-published: 1995-07-25
----
+# 编写预先市场通知的指南文件 [510(K)]
 
-# 准备上市前通知的指南 [510(K) ]运动设备申请
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-document-preparation-premarket-notification-510k-applications-exercise-equipment](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-document-preparation-premarket-notification-510k-applications-exercise-equipment)
 
-**Guidance Document for the Preparation of Premarket Notification [510(K)] Applications for Exercise Equipment**
-
-**发布日期**：1995-07-25
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：上市前
-**主题**：Premarket
-**案卷号**：FDA-2020-D-0957
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-document-preparation-premarket-notification-510k-applications-exercise-equipment
-PDF：https://www.fda.gov/media/72390/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 1995-07-25
 
 ---
-
-## 官方文件全文
 
 1 本指南是在1997年2月27日执行FDA《良好指导做法》GGP之前编写的。它不为任何人创造或授予权利,也不赋予任何人权利,也不为约束FDA或公众而运作。如果替代办法符合适用法规、条例或两者的要求,则可以采用另一种办法。下次修订时将更新本指南,以纳入全球采购计划的标准内容。
 拟订关于拟订[510(K)] 510(K) 510(K)) 通知的 出口设备申请书的指南文件(重订格式:1995年12/19/97)本指南文件可能提及现已过时的地址和电话号码。· 本指南文件虽然是一份最后文件,但评论和建议可在任何时候提交原子能机构审议,供原子能机构审议。 9200 Corporation Blvd., HFZ-410, Rockville, MD 20850。
@@ -117,4 +92,3 @@ FDA先前已对不同迹象进行清理。
 注意FDA只对用于医疗目的的操作设备进行管制,例如重新培养肌肉或恢复运动到关节或用作肥胖症的辅助治疗。FDA没有管制仅用于一般身体调节和(或)发展没有身体障碍的个人运动能力的锻炼设备。因此,如果不为医疗用途贴上标签或促销,就没有必要通知FDA销售某种器械的意图。然而,FDA将管理设备,如果出现任何宣传材料,在销售开始后提出医疗要求,则可能需要上市前通知。
 4. 提供该器械的标签和宣传材料副本。这些材料中的所有医疗要求必须符合所引用的CFR部分所述医疗目的。另外,还应提供类似市场销售器械的宣传材料副本。
 5. 必须为所有临床测量功能提供性能数据,应说明测试方法和测试结论。
-

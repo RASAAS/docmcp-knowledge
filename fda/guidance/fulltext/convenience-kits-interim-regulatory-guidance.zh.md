@@ -1,35 +1,10 @@
----
-title: "便利套件临时监管指导"
-description: "Convenience Kits Interim Regulatory Guidance"
-published: 1997-05-19
----
+# 临时监管指导
 
-# 便利套件临时监管指导
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/convenience-kits-interim-regulatory-guidance](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/convenience-kits-interim-regulatory-guidance)
 
-**Convenience Kits Interim Regulatory Guidance**
-
-**发布日期**：1997-05-19
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：上市前
-**主题**：Premarket
-**案卷号**：FDA-2020-D-0957
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/convenience-kits-interim-regulatory-guidance
-PDF：https://www.fda.gov/media/72720/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 1997-05-19
 
 ---
-
-## 官方文件全文
 
 本文件旨在就便利工具包新的上市前通知管制战略提供指导。它不为任何人创造或赋予任何人任何权利或权利,也不为约束FDA或公众而运作。如果替代办法符合适用法规、条例或两者的要求,则可以采用另一种办法。在执行本文件之前没有征求公众的意见,因为据认为,本指南提出了一种符合公共卫生的较轻负担的政策。
 (Sea) 预先市场通知(510(k)) 1997年5月20日工作人员方案业务工作人员办公室设备评价办公室,虽然本指南文件是一份最后文件,评论和建议可在任何时候与上市前通知科(510(k))联系,301-796-5640, 提交工程处审议。关于本指南的使用或解释问题,请洽预先通知科(510(k)),电话:301-796-5640。
@@ -75,4 +50,3 @@ Kit/Tray/Set和预期使用(如果需要)麻醉装置气道抽吸器、麻醉呼
 剖腹产口服子宫颈肉片 剖腹产口科 剖腹产手术外外割割裂托盘 肺部发炎口服口服 心肺炎口服 心肺科口服 道道口服 道道口服 托盘托盘分娩 紧急产科口服 腹腔托托盘 腹腔口服 腹腔口服 剖腹服口服 剖腹产口腔口服 剖腹腔口服 剖腹腹服 剖腹产口服 产科口服
 
 用于室内再造造影外阴道阴道和深压的矫形程序外科手术、 外转性手术、 外转性脑结结
-

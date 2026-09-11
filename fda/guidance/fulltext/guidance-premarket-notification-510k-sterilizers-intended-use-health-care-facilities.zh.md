@@ -1,35 +1,10 @@
----
-title: "关于预销售通知的指南 510 ((k) 适用于医疗保健设施的灭菌剂"
-description: "Guidance on Premarket Notification 510(k) for Sterilizers Intended for Use in Health Care Facilities"
-published: 1993-03-01
----
+# 关于510(k)份准备用于医疗医疗机构的消毒剂预先通知指南
 
-# 关于预销售通知的指南 510 ((k) 适用于医疗保健设施的灭菌剂
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-premarket-notification-510k-sterilizers-intended-use-health-care-facilities](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-premarket-notification-510k-sterilizers-intended-use-health-care-facilities)
 
-**Guidance on Premarket Notification 510(k) for Sterilizers Intended for Use in Health Care Facilities**
-
-**发布日期**：1993-03-01
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：上市前
-**主题**：Premarket、510(k)
-**案卷号**：FDA-2020-D-0957
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-premarket-notification-510k-sterilizers-intended-use-health-care-facilities
-PDF：https://www.fda.gov/media/72458/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 1993-03-01
 
 ---
-
-## 官方文件全文
 
 这份指南是在1997年2月27日执行FDA的《良好指导做法》,GGP之前编写的。它不为任何人创造或授予权利,也不赋予任何人权利,也不为约束FDA或公众而运作。如果替代办法符合适用法规、条例或两者的要求,则可以采用另一种办法。
 本指南将在Nstt愿景中更新,以包括全球绿色采购的标准精子。
@@ -469,4 +444,3 @@ S. 核对清单510(k)
 P r o c e s 参数: t i m e teven p r e s u r e t c 。
 工艺监测器: r e c o d e r s 测量器 p r i n t o u t s 等。
 软件/燃料系统 C o n r o n r o r o l l e d 周期 (s) 比较过程等效时间(f o r蒸汽和 d r y 热) N e W 设备 - P r e d d i c a t e
-
