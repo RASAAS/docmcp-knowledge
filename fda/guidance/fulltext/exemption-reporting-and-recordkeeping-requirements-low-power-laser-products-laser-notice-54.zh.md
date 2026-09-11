@@ -1,34 +1,10 @@
----
-title: "免于低功率激光产品报告和记录要求 (激光通告 54)：行业与FDA工作人员指南"
-description: "Exemption from Reporting and Recordkeeping Requirements for Low Power Laser Products (Laser Notice 54): Guidance for Industry and FDA Staff"
-published: 2006-01-05
----
+# 低功率激光产品报告与记录保存要求豁免（激光通告54）：行业与FDA工作人员指南
 
-# 免于低功率激光产品报告和记录要求 (激光通告 54)：行业与FDA工作人员指南
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/exemption-reporting-and-recordkeeping-requirements-low-power-laser-products-laser-notice-54](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/exemption-reporting-and-recordkeeping-requirements-low-power-laser-products-laser-notice-54)
 
-**Exemption from Reporting and Recordkeeping Requirements for Low Power Laser Products (Laser Notice 54): Guidance for Industry and FDA Staff**
-
-**发布日期**：2006-01-05
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：辐射 / 影像
-**案卷号**：FDA-2020-D-0957
-
-::: tip 官方来源
-[https://www.fda.gov/regulatory-information/search-fda-guidance-documents/exemption-reporting-and-recordkeeping-requirements-low-power-laser-products-laser-notice-54](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/exemption-reporting-and-recordkeeping-requirements-low-power-laser-products-laser-notice-54)
-PDF：[https://www.fda.gov/media/74001/download](https://www.fda.gov/media/74001/download)
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 2006-01-05
 
 ---
-
-## 官方文件全文
 
 FDA指南文件（包括本指南）不确立具有法律强制执行力的责任。相反，指南描述本机构对某一主题的当前观点，且除非援引具体的法规或法定要求，否则应仅视为建议。在本机构指南中使用“应当（should）”一词，表示某事项被建议或推荐，但并非强制要求。
 

@@ -1,34 +1,10 @@
----
-title: "推的临床研究设计 Ventricular Tachycardia Ablation"
-description: "Recommended Clinical Study Design for Ventricular Tachycardia Ablation"
-published: 1999-05-07
----
+# 室性心动过速消融的建议临床研究设计：行业与FDA审评人员指南
 
-# 推的临床研究设计 Ventricular Tachycardia Ablation
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/recommended-clinical-study-design-ventricular-tachycardia-ablation](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/recommended-clinical-study-design-ventricular-tachycardia-ablation)
 
-**Recommended Clinical Study Design for Ventricular Tachycardia Ablation**
-
-**发布日期**：1999-05-07
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：临床 / 真实世界证据
-**案卷号**：FDA-2020-D-0957
-
-::: tip 官方来源
-[https://www.fda.gov/regulatory-information/search-fda-guidance-documents/recommended-clinical-study-design-ventricular-tachycardia-ablation](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/recommended-clinical-study-design-ventricular-tachycardia-ablation)
-PDF：[https://www.fda.gov/media/72128/download](https://www.fda.gov/media/72128/download)
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 1999-05-07
 
 ---
-
-## 官方文件全文
 
 行业与FDA审评人员指南
 室性心动过速消融的建议临床研究设计

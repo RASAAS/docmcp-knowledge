@@ -1,35 +1,10 @@
----
-title: "关于日照灯产品最大时间间隔和暴露时间表的政策"
-description: "Policy On Maximum Timer Interval and Exposure Schedule For Sunlamp Products"
-published: 1985-08-21
----
+# 日光灯产品最大计时器间隔与照射时间表政策
 
-# 关于日照灯产品最大时间间隔和暴露时间表的政策
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/policy-maximum-timer-interval-and-exposure-schedule-sunlamp-products](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/policy-maximum-timer-interval-and-exposure-schedule-sunlamp-products)
 
-**Policy On Maximum Timer Interval and Exposure Schedule For Sunlamp Products**
-
-**发布日期**：1985-08-21
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：辐射 / 影像
-**主题**：Tanning Lamps、Booths & Beds
-**案卷号**：FDA-2020-D-0957
-
-::: tip 官方来源
-[https://www.fda.gov/regulatory-information/search-fda-guidance-documents/policy-maximum-timer-interval-and-exposure-schedule-sunlamp-products](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/policy-maximum-timer-interval-and-exposure-schedule-sunlamp-products)
-PDF：[https://www.fda.gov/media/77779/download](https://www.fda.gov/media/77779/download)
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 1985-08-21
 
 ---
-
-## 官方文件全文
 
 卫生与公众服务部 公共卫生服务署
 食品药品管理局

@@ -1,35 +1,10 @@
----
-title: "咨询小组儿童专业知识：行业与FDA工作人员指南"
-description: "Pediatric Expertise for Advisory Panels - Guidance for Industry and FDA Staff"
-published: 2003-06-02
----
+# 咨询专家组的儿科专业知识——行业与FDA工作人员指南
 
-# 咨询小组儿童专业知识：行业与FDA工作人员指南
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/pediatric-expertise-advisory-panels-guidance-industry-and-fda-staff](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/pediatric-expertise-advisory-panels-guidance-industry-and-fda-staff)
 
-**Pediatric Expertise for Advisory Panels - Guidance for Industry and FDA Staff**
-
-**发布日期**：2003-06-02
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：一般 / 其他
-**主题**：Advisory Committees、Pediatric Product Development
-**案卷号**：FDA-2003-D-0147
-
-::: tip 官方来源
-[https://www.fda.gov/regulatory-information/search-fda-guidance-documents/pediatric-expertise-advisory-panels-guidance-industry-and-fda-staff](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/pediatric-expertise-advisory-panels-guidance-industry-and-fda-staff)
-PDF：[https://www.fda.gov/media/72451/download](https://www.fda.gov/media/72451/download)
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 2003-06-02
 
 ---
-
-## 官方文件全文
 
 FDA指南文件（包括本指南）不确立具有法律强制执行力的责任。相反，指南描述本机构对某一主题的当前观点，且除非援引具体的法规或法定要求，否则应仅视为建议。在本机构指南中使用“应当（should）”一词，表示某事项被建议或推荐，但并非强制要求。
 

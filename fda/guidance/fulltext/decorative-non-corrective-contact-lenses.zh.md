@@ -1,34 +1,10 @@
----
-title: "装饰性,非纠正性接触力,FDA工作人员,眼科专业人员和消费者：行业指南"
-description: "Decorative, Non-corrective Contact Lenses: Guidance for Industry, FDA Staff, Eye Care Professionals, and Consumers"
-published: 2006-11-24
----
+# 装饰性非矫正接触镜：行业、FDA工作人员、眼保健专业人员与消费者指南
 
-# 装饰性,非纠正性接触力,FDA工作人员,眼科专业人员和消费者：行业指南
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/decorative-non-corrective-contact-lenses](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/decorative-non-corrective-contact-lenses)
 
-**Decorative, Non-corrective Contact Lenses: Guidance for Industry, FDA Staff, Eye Care Professionals, and Consumers**
-
-**发布日期**：2006-11-24
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：一般 / 其他
-**案卷号**：FDA-2020-D-0957
-
-::: tip 官方来源
-[https://www.fda.gov/regulatory-information/search-fda-guidance-documents/decorative-non-corrective-contact-lenses](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/decorative-non-corrective-contact-lenses)
-PDF：[https://www.fda.gov/media/71138/download](https://www.fda.gov/media/71138/download)
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 2006-11-24
 
 ---
-
-## 官方文件全文
 
 2024年2月2日，FDA发布最终规则修订21 CFR第820部分质量管理体系（QS）法规（89 FR 7496，自2026年2月2日起生效）。经修订的21 CFR第820部分现题为质量管理体系法规（QMSR）。QMSR通过引用纳入国际标准化组织（ISO）制定的医疗器械质量管理体系国际标准ISO 13485:2016，从而协调质量管理体系要求。FDA已确定，ISO 13485的要求在总体考量时与QS法规的要求实质相似，对企业的质量管理体系以及持续制造安全有效并以其他方式符合《联邦食品、药品和化妆品法》（FD&C法）的器械的能力提供相似程度的保证。
 本指南文件发布于最终规则生效日期之前。FDA鼓励制造商审阅现行QMSR，以确保符合相关监管要求。
