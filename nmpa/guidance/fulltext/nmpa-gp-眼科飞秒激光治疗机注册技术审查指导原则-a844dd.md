@@ -1,20 +1,3 @@
----
-id: nmpa-gp-眼科飞秒激光治疗机注册技术审查指导原则-10e58a
-title:
-  zh: 眼科飞秒激光治疗机注册技术审查指导原则
-  en: ''
-regulation: nmpa
-category: nmpa/guidance
-status: active
-document_number: 国家食品药品监督管理总局2018年第53号通告
-source_format: markdown
-translation: original
-effective_date: '2018-01-01'
-contributor: RASAAS
-promoted_from: fulltext
----
-# 眼科飞秒激光治疗机注册技术审查指导原则
-
 <!-- source: cmde-skill-batch 眼科飞秒激光治疗机注册技术审查指导原则_2018年第53号.doc -->
 <!-- source_url: https://www.cmde.org.cn/flfg/zdyz/zdyzwbk/20180704151917828.html -->
 <!-- title: 眼科飞秒激光治疗机注册技术审查指导原则 -->

@@ -1,20 +1,3 @@
----
-id: nmpa-gp-眼科超声诊断设备注册技术审查指导原则-aa0f7a
-title:
-  zh: 眼科超声诊断设备注册技术审查指导原则
-  en: ''
-regulation: nmpa
-category: nmpa/guidance
-status: active
-document_number: 国家食品药品监督管理总局2018年第55号通告
-source_format: markdown
-translation: original
-effective_date: '2018-01-01'
-contributor: RASAAS
-promoted_from: fulltext
----
-# 眼科超声诊断设备注册技术审查指导原则
-
 <!-- source: cmde-skill-batch 眼科超声诊断设备注册技术审查指导原则_2018年第55号.doc -->
 <!-- source_url: https://www.cmde.org.cn/flfg/zdyz/zdyzwbk/20180704151813438.html -->
 <!-- title: 眼科超声诊断设备注册技术审查指导原则 -->
