@@ -1,20 +1,3 @@
----
-id: nmpa-gp-正电子发射-x射线计算机断层成像系统-数字化技术专用-注册审查指导原则-79828e
-title:
-  zh: 正电子发射 X射线计算机断层成像系统（数字化技术专用）注册审查指导原则
-  en: ''
-regulation: nmpa
-category: nmpa/guidance
-status: active
-document_number: 国家药品监督管理局2021年第108号通告
-source_format: markdown
-translation: original
-effective_date: '2021-01-01'
-contributor: RASAAS
-promoted_from: fulltext
----
-# 正电子发射 X射线计算机断层成像系统（数字化技术专用）注册审查指导原则
-
 <!-- source: cmde-skill-batch 正电子发射 X射线计算机断层成像系统（数字化技术专用）注册审查指导原则（2021年第108号）.doc -->
 <!-- source_url: https://www.cmde.org.cn/flfg/zdyz/zdyzwbk/20220120131600594.html -->
 <!-- title: 正电子发射 X射线计算机断层成像系统（数字化技术专用）注册审查指导原则 -->

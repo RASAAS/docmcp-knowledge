@@ -1,20 +1,3 @@
----
-id: nmpa-gp-一次性使用侧孔钝针技术审查指导原则-e202e6
-title:
-  zh: 一次性使用侧孔钝针技术审查指导原则
-  en: ''
-regulation: nmpa
-category: nmpa/guidance
-status: active
-document_number: 国家药品监督管理局医疗器械技术审评中心2024年第23号通告
-source_format: markdown
-translation: original
-effective_date: '2024-01-01'
-contributor: RASAAS
-promoted_from: fulltext
----
-# 一次性使用侧孔钝针技术审查指导原则
-
 <!-- source: cmde-skill-batch 一次性使用无菌侧孔钝针注册审查指导原则（2024年第23号）.doc -->
 <!-- source_url: https://www.cmde.org.cn/flfg/zdyz/zdyzwbk/20240827101027116.html -->
 <!-- title: 一次性使用侧孔钝针技术审查指导原则 -->

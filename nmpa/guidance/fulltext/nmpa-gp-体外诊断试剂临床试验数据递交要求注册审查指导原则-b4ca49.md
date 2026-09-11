@@ -1,20 +1,3 @@
----
-id: nmpa-gp-体外诊断试剂临床试验数据递交要求注册审查指导原则-76ae37
-title:
-  zh: 体外诊断试剂临床试验数据递交要求注册审查指导原则
-  en: ''
-regulation: nmpa
-category: nmpa/guidance
-status: active
-document_number: 国家药品监督管理局2021年第91号通告
-source_format: markdown
-translation: original
-effective_date: '2021-01-01'
-contributor: RASAAS
-promoted_from: fulltext
----
-# 体外诊断试剂临床试验数据递交要求注册审查指导原则
-
 <!-- source: cmde-skill-batch 体外诊断试剂临床试验数据递交要求注册审查指导原则（2021年第91号）.doc -->
 <!-- source_url: https://www.cmde.org.cn/flfg/zdyz/zdyzwbk/20211126085958548.html -->
 <!-- title: 体外诊断试剂临床试验数据递交要求注册审查指导原则 -->

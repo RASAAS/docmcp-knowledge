@@ -1,20 +1,3 @@
----
-id: nmpa-gp-人细小病毒b19-igm-igg抗体检测试剂注册技术审查指导原则-3f200c
-title:
-  zh: 人细小病毒B19 IgM/IgG抗体检测试剂注册技术审查指导原则
-  en: ''
-regulation: nmpa
-category: nmpa/guidance
-status: active
-document_number: 国家药品监督管理局2021年第24号通告
-source_format: markdown
-translation: original
-effective_date: '2021-01-01'
-contributor: RASAAS
-promoted_from: fulltext
----
-# 人细小病毒B19 IgM/IgG抗体检测试剂注册技术审查指导原则
-
 <!-- source: cmde-skill-batch 人细小病毒B19 IgM或IgG抗体检测试剂注册技术审查指导原则（2021年第24号）.docx -->
 <!-- source_url: https://www.cmde.org.cn/flfg/zdyz/zdyzwbk/20210416143940215.html -->
 <!-- title: 人细小病毒B19 IgM/IgG抗体检测试剂注册技术审查指导原则 -->
