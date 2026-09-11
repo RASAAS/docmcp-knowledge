@@ -1,34 +1,10 @@
----
-title: "关于国防部免除FDA激光产品性能标准和FDA的指导：行业指南"
-description: "Guidance on the Department of Defense Exemption from the FDA Performance Standard for Laser Products: Guidance for Industry and FDA"
-published: 2002-07-12
----
+# 国防部豁免FDA激光产品性能标准指南；行业与FDA指南（激光通告第52号）
 
-# 关于国防部免除FDA激光产品性能标准和FDA的指导：行业指南
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-department-defense-exemption-fda-performance-standard-laser-products](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-department-defense-exemption-fda-performance-standard-laser-products)
 
-**Guidance on the Department of Defense Exemption from the FDA Performance Standard for Laser Products: Guidance for Industry and FDA**
-
-**发布日期**：2002-07-12
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：辐射 / 影像
-**案卷号**：FDA-2020-D-0957
-
-::: tip 官方来源
-[https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-department-defense-exemption-fda-performance-standard-laser-products](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-department-defense-exemption-fda-performance-standard-laser-products)
-PDF：[https://www.fda.gov/media/71322/download](https://www.fda.gov/media/71322/download)
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 2002-07-12
 
 ---
-
-## 官方文件全文
 
 国防部豁免FDA激光产品性能标准指南；行业与FDA指南（激光通告第52号）
 

@@ -1,35 +1,10 @@
----
-title: "降低儿童玩具激光产品的风险：行业与食品药品管理局工作人员指南"
-description: "Minimizing Risk for Children's Toy Laser Products: Guidance for Industry and Food and Drug Administration Staff"
-published: 2014-12-19
----
+# 尽量降低儿童玩具激光产品风险：行业与FDA工作人员指南
 
-# 降低儿童玩具激光产品的风险：行业与食品药品管理局工作人员指南
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/minimizing-risk-childrens-toy-laser-products](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/minimizing-risk-childrens-toy-laser-products)
 
-**Minimizing Risk for Children's Toy Laser Products: Guidance for Industry and Food and Drug Administration Staff**
-
-**发布日期**：2014-12-19
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：辐射 / 影像
-**主题**：Radiological Health
-**案卷号**：FDA-2012-D-1092
-
-::: tip 官方来源
-[https://www.fda.gov/regulatory-information/search-fda-guidance-documents/minimizing-risk-childrens-toy-laser-products](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/minimizing-risk-childrens-toy-laser-products)
-PDF：[https://www.fda.gov/media/86481/download](https://www.fda.gov/media/86481/download)
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 2014-12-19
 
 ---
-
-## 官方文件全文
 
 FDA指南文件（包括本指南）不确立具有法律强制执行力的责任。相反，指南描述本机构对某一主题的当前观点，且除非援引具体的法规或法定要求，否则应仅视为建议。在本机构指南中使用“应当（should）”一词，表示某事项被建议或推荐，但并非强制要求。
 

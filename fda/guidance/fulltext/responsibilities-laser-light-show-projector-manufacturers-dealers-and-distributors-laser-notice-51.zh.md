@@ -1,34 +1,10 @@
----
-title: "激光光显示投影仪制造商,经销商和分销商的责任 (激灯光表演投影仪通知 51)"
-description: "Responsibilities of Laser Light Show Projector Manufacturers, Dealers, and Distributors; (Laser Notice 51)"
-published: 2001-05-26
----
+# 激光灯光表演投影仪制造商、经销商与分销商的责任（激光通告51）
 
-# 激光光显示投影仪制造商,经销商和分销商的责任 (激灯光表演投影仪通知 51)
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/responsibilities-laser-light-show-projector-manufacturers-dealers-and-distributors-laser-notice-51](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/responsibilities-laser-light-show-projector-manufacturers-dealers-and-distributors-laser-notice-51)
 
-**Responsibilities of Laser Light Show Projector Manufacturers, Dealers, and Distributors; (Laser Notice 51)**
-
-**发布日期**：2001-05-26
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：辐射 / 影像
-**案卷号**：FDA-2020-D-0957
-
-::: tip 官方来源
-[https://www.fda.gov/regulatory-information/search-fda-guidance-documents/responsibilities-laser-light-show-projector-manufacturers-dealers-and-distributors-laser-notice-51](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/responsibilities-laser-light-show-projector-manufacturers-dealers-and-distributors-laser-notice-51)
-PDF：[https://www.fda.gov/media/74032/download](https://www.fda.gov/media/74032/download)
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 2001-05-26
 
 ---
-
-## 官方文件全文
 
 激光灯光表演投影仪制造商、经销商与分销商的责任；行业与FDA最终指南（激光通告51）
 文件发布日期：2001年5月27日

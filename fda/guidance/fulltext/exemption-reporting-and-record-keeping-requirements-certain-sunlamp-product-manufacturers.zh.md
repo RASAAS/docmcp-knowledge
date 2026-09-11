@@ -1,34 +1,10 @@
----
-title: "免除某些太阳能灯产品制造商的报告和记录要求"
-description: "Exemption from Reporting and Record keeping Requirements for Certain Sunlamp Product Manufacturers"
-published: 1981-09-16
----
+# 某些日光灯产品制造商报告与记录保存要求的豁免
 
-# 免除某些太阳能灯产品制造商的报告和记录要求
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/exemption-reporting-and-record-keeping-requirements-certain-sunlamp-product-manufacturers](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/exemption-reporting-and-record-keeping-requirements-certain-sunlamp-product-manufacturers)
 
-**Exemption from Reporting and Record keeping Requirements for Certain Sunlamp Product Manufacturers**
-
-**发布日期**：1981-09-16
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：辐射 / 影像
-**案卷号**：FDA-2020-D-0957
-
-::: tip 官方来源
-[https://www.fda.gov/regulatory-information/search-fda-guidance-documents/exemption-reporting-and-record-keeping-requirements-certain-sunlamp-product-manufacturers](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/exemption-reporting-and-record-keeping-requirements-certain-sunlamp-product-manufacturers)
-PDF：[https://www.fda.gov/media/73639/download](https://www.fda.gov/media/73639/download)
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 1981-09-16
 
 ---
-
-## 官方文件全文
 
 卫生与公众服务部 公共卫生服务署 食品药品管理局
 1981年9月16日

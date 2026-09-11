@@ -1,34 +1,10 @@
----
-title: "对于日照灯产品所需的警告标签政策"
-description: "Policy on Warning Label Required on Sunlamp Products"
-published: 1985-06-25
----
+# 日光灯产品所需警告标签政策
 
-# 对于日照灯产品所需的警告标签政策
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/policy-warning-label-required-sunlamp-products](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/policy-warning-label-required-sunlamp-products)
 
-**Policy on Warning Label Required on Sunlamp Products**
-
-**发布日期**：1985-06-25
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：辐射 / 影像
-**案卷号**：FDA-2020-D-0957
-
-::: tip 官方来源
-[https://www.fda.gov/regulatory-information/search-fda-guidance-documents/policy-warning-label-required-sunlamp-products](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/policy-warning-label-required-sunlamp-products)
-PDF：[https://www.fda.gov/media/73620/download](https://www.fda.gov/media/73620/download)
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 1985-06-25
 
 ---
-
-## 官方文件全文
 
 公共卫生服务署
 食品药品管理局
