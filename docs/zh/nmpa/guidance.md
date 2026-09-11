@@ -1,14 +1,14 @@
 ---
 title: NMPA 注册审查指导原则
 generated: '2026-09-11'
-doc_count: 824
+doc_count: 825
 ---
 
 # NMPA 注册审查指导原则
 
 <!-- AUTO-GENERATED: do not edit below this line -->
 
-> 共 **824** 篇文档，最后更新：2026-09-11
+> 共 **825** 篇文档，最后更新：2026-09-11
 
 ## 临床评价
 
@@ -495,6 +495,7 @@ doc_count: 824
 | [肌酸激酶测定试剂盒产品注册技术审查指导原则](/zh/nmpa/guidance/nmpa-guidance-5592521b598a) |  | 2020 |
 | [丙型肝炎病毒核酸基因分型检测试剂注册技术审查指导原则](/zh/nmpa/guidance/nmpa-guidance-57d9fb6f6d55) |  | 2020 |
 | [布鲁氏菌IgM/IgG抗体检测试剂注册审查指导原则](/zh/nmpa/guidance/nmpa-guidance-5d675d82cd54) |  | 2020 |
+| [海南博鳌乐城国际医疗旅游先行区医疗器械临床真实世界数据应用试点品种沟通交流程序（试行）](/zh/nmpa/guidance/nmpa-guidance-62d26ffb633a) |  | 2020 |
 | [一次性使用血液分离器具产品注册技术审查指导原则](/zh/nmpa/guidance/nmpa-guidance-64633fd1283a) |  | 2020 |
 | [缺血修饰白蛋白测定试剂产品注册技术审查指导原则](/zh/nmpa/guidance/nmpa-guidance-6a8e18de9169) |  | 2020 |
 | [医疗器械说明书编写指导原则](/zh/nmpa/guidance/nmpa-guidance-6c2a5c07479b) |  | 2020 |

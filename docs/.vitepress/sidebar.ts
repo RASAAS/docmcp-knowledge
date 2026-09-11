@@ -10,7 +10,7 @@ export default {
       "link": "/zh/nmpa/guidance"
     },
     {
-      "text": "其他 (478)",
+      "text": "其他 (479)",
       "collapsed": true,
       "items": [
         {
@@ -1208,6 +1208,10 @@ export default {
         {
           "text": "流行性感冒病毒核酸检测试剂注册审查指导原则（2023年修订版））",
           "link": "/zh/nmpa/guidance/nmpa-gp-流行性感冒病毒核酸检测试剂注册审查指导原则-2023年修订版-5060ed"
+        },
+        {
+          "text": "海南博鳌乐城国际医疗旅游先行区医疗器械临床真实世界数据应用试点品种沟通交流程序（试行）",
+          "link": "/zh/nmpa/guidance/nmpa-guidance-62d26ffb633a"
         },
         {
           "text": "消毒棉片（签、球）注册审查指导原则",

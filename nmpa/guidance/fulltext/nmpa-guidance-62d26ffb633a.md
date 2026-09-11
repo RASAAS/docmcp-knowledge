@@ -1,19 +1,3 @@
----
-id: fd4d62bfb7136608
-title:
-  zh: 海南博鳌乐城国际医疗旅游先行区医疗器械临床真实世界数据应用试点品种沟通交流程序（试行）
-  en: ''
-regulation: nmpa
-category: nmpa/guidance
-status: active
-source_format: markdown
-translation: original
-effective_date: '2020-01-01'
-contributor: RASAAS
-promoted_from: fulltext
----
-# 海南博鳌乐城国际医疗旅游先行区医疗器械临床真实世界数据应用试点品种沟通交流程序（试行）
-
 <!-- source: user-attachment 海南博鳌乐城医疗器械临床真实世界数据应用试点品种沟通交流程序（试行）.docx -->
 <!-- source_url:  -->
 <!-- title: 海南博鳌乐城国际医疗旅游先行区医疗器械临床真实世界数据应用试点品种沟通交流程序（试行） -->
