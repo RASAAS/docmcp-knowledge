@@ -4,362 +4,73 @@
 
 **Published:** 2006-04-25
 
----
-
-<!-- Page 1 -->
-Contains Nonbinding Recommendations 
-Guidance on Informed Consent for In 
-Vitro Diagnostic Device Studies Using 
-Leftover Human Specimens that are 
-Not Individually Identifiable 
-Guidance for Sponsors, Institutional 
-Review Boards, and Food and Drug 
-Administration Staff  
- 
-Document issued on April 25, 2006.  
-An agency may not conduct or sponsor, and a person is not required to respond to, a 
-collection of information unless it displays a currently valid OMB control number. The 
-OMB control number for this information collection is 0910-0582 (expires 08/31/2019). 
-For questions about this document, contact the Office of In Vitro Diagnostics and Radiological 
-Health, Division of Microbiology Devices, 301-796-5461, and Claudia Gaffey, 301-796-6196, 
-Claudia.Gaffey@fda.hhs.gov.  
-U.S. Department of Health and Human Services
-Food and Drug Administration
-Center for Devices and Radiological Health
-Office of In Vitro Diagnostics and Radiological Health
-Division of Microbiology Devices
-Center for Biologic Evaluation and Research
-Office of Blood Research and Review
 
 ---
 
-<!-- Page 2 -->
-Contains Nonbinding Recommendations 
-Preface 
-Public Comment 
-You may submit electronic comments and suggestions at any time for Agency consideration to 
-http://www.regulations.gov. Submit written comments to the Division of Dockets Management, 
-ii 
-Food and Drug Administration, 5630 Fishers Lane, Room 1061, (HFA-305), Rockville, MD 
-20852. Identify all comments with the docket number FDA-2006-D-0150. Comments may not be 
-acted upon by the Agency until the document is next revised or updated. 
-Additional Copies 
-Additional copies are available from the Internet. You may also send an e-mail request to 
-CDRH-Guidance@fda.hhs.gov to receive a copy of the guidance. Please use the document 
-number 1588 to identify the guidance you are requesting.
+Guidance on Informed Consent for In Vitro Diagnostic Device Studies Using Leftover Human Specimens that are Not Individually Identifiable Guidance for Sponsors, Institutional Review Boards, and Food and Drug Administration Staff
+
+This guidance represents the current thinking of the Food and Drug Administration (FDA or Agency) on this topic.  It does not establish any rights for any person and is not binding on FDA or the public.  You can use an alternative approach if it satisfies the requirements of the applicable statutes and regulations.  To discuss an alternative approach, contact the
+FDA staff or Office responsible for this guidance as listed on the title page.
+## I. Introduction
+FDA is issuing this guidance to inform sponsors, institutional review boards (IRBs), clinical investigators, and agency staff that the FDA intends to exercise enforcement discretion, under certain circumstances, with respect to its current regulations governing the requirement for informed consent when human specimens are used for FDA-regulated in vitro diagnostic (IVD)1 device investigations. As described below, FDA does not intend to object to the use, without informed consent, of leftover human specimens -- remnants of specimens collected for routine clinical care or analysis that would otherwise have been discarded -- in investigations that meet the criteria for exemption from the Investigational Device Exemptions (IDE) regulation at 21 CFR 812.2(c)(3), as long as subject privacy is protected by using only specimens that are not individually identifiable. FDA also intends to include in this policy specimens obtained from
+
+1 In vitro diagnostic products are those reagents, instruments, and systems intended for use in the diagnosis of disease or other conditions, including a determination of the state of health, in order to cure, mitigate, treat, or prevent disease or its sequelae.  Such products are intended for use in the collection, preparation, and examination of specimens taken from the human body. 21 CFR 809.3(a).
+specimen repositories2 and specimens that are leftover from specimens previously collected for other unrelated research, as long as these specimens are not individually identifiable.
+Under FDA’s current regulations governing the conduct of IVD device studies, the definition of human subject includes individuals on whose specimens an investigational device is used [see 21 CFR 812.3(p)].  Because these regulations require informed consent for FDA-regulated human subject research, except in limited circumstances specified in the regulations,3 informed consent is required before specimens can be used in FDA-regulated research [see 21 CFR part 50].
+This aspect of FDA’s human subject protection regulations has created confusion and difficulty for persons developing IVDs. Many clinicians, research hospitals, and companies have viewed the requirement for informed consent for IVD studies using leftover specimens as unnecessary for the protection of human subjects and as overly burdensome and costly.
+FDA’s recent “Critical Path”4 initiative has also focused the agency’s concern on unnecessary obstacles to medical product development. The agency has received comments from trade associations and research institutions that identify the challenge of obtaining informed consent for the use of leftover specimens as an unnecessary obstacle and expense for investigational efforts.  When leftover specimens are available, it is often difficult, if not impossible, to locate the donor and obtain consent.  This difficulty may deter a manufacturer’s research efforts that would bring safe and effective IVDs to market more quickly.  At the same time, many researchers maintain that for this particular type of study, the human subject protection values that informed consent is intended to ensure either are not implicated, or can be adequately safeguarded through less burdensome measures.
+The confusion regarding the application of informed consent requirements to IVD studies and concerns about unnecessary obstacles to product development have prompted FDA to issue this guidance document.  The agency believes this guidance will facilitate product development in a manner consistent with the values of human subject protection. FDA intends that the exercise of enforcement discretion expressed in this guidance begin immediately.  In accordance with the agency’s Good Guidance Practice regulations, 21 CFR 10.115, you may submit comments on this guidance at any time.  The agency will consider your comments and determine whether to revise the guidance at a later date.
+FDA’s guidance documents, including this guidance, do not establish legally enforceable responsibilities. Instead, guidances describe the Agency’s current thinking on a topic and should be viewed only as recommendations, unless specific regulatory or statutory requirements are cited. The use of the word should in Agency guidance means that something is suggested or recommended, but not required.
+
+2 A specimen repository is a common site for storage of collections of human biological specimens available for study.
+Products" FDA Report issued on March 16, 2004. This document may be found at: http://www.fda.gov/oc/initiatives/criticalpath/whitepaper.html
+## II. Scope
+This document applies only to IVD device investigations regulated by FDA in accordance with section 520(g) of Federal Food, Drug, and Cosmetic Act (the Act), 21 USC 360j(g), that are exempt from most requirements of the IDE regulation (21 CFR 812) under 21 CFR 812.2(c)(3), and that use leftover specimens that are not individually identifiable. A leftover specimen is the remnant of a human specimen collected for routine clinical care or analysis that would otherwise have been discarded.  A specimen is not individually identifiable when the identity of the subject is not known to or may not readily be ascertained by the investigator or any other individuals associated with the investigation, including the sponsor. (See Section 4, below.)  This guidance also applies to specimens that were previously collected for other unrelated research and that are not individually identifiable.
+This guidance will be implemented on the date it is issued. It applies to investigations using leftover specimens that are already existing on the date the guidance is issued and investigations using specimens that will be collected after the issuance of this guidance, so long as both the specimens and the investigations meet the circumstances outlined below (see section 4).
+## III. Background
+FDA's investigational device regulations are intended to encourage the development of new, useful devices in a manner that is consistent with public health and safety and with ethical standards. (See 21 U.S.C. 360j(g)). Investigators should have freedom to pursue the least burdensome means of accomplishing this goal.  However, to ensure that the balance is maintained between product development and the protection of public health and safety and ethical standards, FDA has established human subject protection regulations addressing requirements for informed consent and IRB review that apply to all FDA-regulated clinical investigations involving human subjects.  In particular, informed consent requirements further both safety and ethical considerations by allowing potential subjects to consider both the physical and privacy risks they face if they agree to participate in a trial.
+Under FDA regulations, clinical investigations using human specimens conducted in support of premarket submissions to FDA are considered human subject investigations [see 21 CFR 812.3(p)].  Many IVD studies are exempt from most provisions of 21 CFR part 812,
+Investigational Device Exemptions, under 21 CFR 812.2(c)(3), but FDA’s regulations for the protection of human subjects (21 CFR parts 50 and 56) apply to all clinical investigations that are regulated by FDA [see 21 CFR 50.1; 21 CFR 56.1; 21 U.S.C. 360j(g)(3)(A) & (D)].
+FDA does have narrow exceptions from the general requirements of informed consent for certain emergency and military research,5 but FDA regulations do not contain exceptions from the requirements of informed consent on the grounds that the specimens are not identifiable and or that they are remnants of human specimens collected for routine clinical care or analysis that
+
+Leftover specimens are frequently used in feasibility studies and studies to characterize the performance of new in vitro diagnostic devices for several reasons. The evaluation of new devices often requires the use of specimens with specific laboratory characteristics, e.g., positive or negative for a particular disease marker, in order to meet the study inclusion criteria. Routine clinical care testing can provide information about the laboratory characteristics of the specimen that permit investigators to quickly ascertain whether the specimen will meet the study inclusion criteria. The remnants of these specimens thus become valuable to research at a point when they are of no value to the patient and are ready to be discarded.  The lower cost of these specimens, compared to the cost of specimens collected prospectively for research, makes studies using leftover specimens more affordable, permitting manufacturers to conduct studies that otherwise may not be done. In addition, banked leftover specimens are a source for unique and possibly rare specimens in sufficient quantity to permit the rapid completion of investigations that would be difficult if not impossible to conduct in a reasonable timeframe without these specimens.
+FDA believes that it is possible in certain circumstances for IVD device investigations to be conducted using leftover specimens obtained without informed consent while protecting the human subjects who are the source of such specimens.  When IVD study sponsors use leftover specimens for which the subject cannot be identified and where results of the investigational test are not communicated to or otherwise associated with the identified subject, concerns associated with privacy are minimized.  In addition, these studies do not pose new medical risks to subjects from whom the specimens were originally collected: Any risks from specimen collection were incurred prior to the involvement of the patient as a subject in an investigation, when the specimen was obtained for the patient's own clinical needs, and no risks from erroneous test results are presented because the results of the testing are not used for clinical management of the subject.  Like leftover specimens that have been collected for routine clinical care, the investigational use of leftover specimens previously collected for other research purposes involves no additional medical risk, and privacy risks are mitigated by limiting the applicability of this guidance to specimens that are not identifiable.
+## IV. In what circumstances does FDA intend to exercise enforcement discretion as to the requirements for informed consent for use of specimens in FDAregulated IVD studies?
+FDA intends to exercise enforcement discretion as to the informed consent requirements for clinical investigators, sponsors, and IRBs if an in vitro diagnostic device investigation is performed and all of the following are true: a) The investigation meets the IDE exemption criteria at 21 CFR 812.2(c) (3).
+b) The study uses leftover specimens, that is, remnants of specimens collected for routine clinical care or analysis that would have been discarded. The study may also use specimens obtained from specimen repositories or leftover specimens that were previously collected for other research purposes.
+c) The specimens are not individually identifiable, i.e., the identity of the subject is not known to and may not readily be ascertained by the investigator or any other individuals associated with the investigation, including the sponsor.  If the specimen is coded,66 it will be considered to be not individually identifiable if neither the investigator(s) nor any other individuals associated with the investigation or the sponsor can link the specimen to the subject from whom the specimen was collected, either directly or indirectly through coding systems.
+d) The specimens may be accompanied by clinical information as long as this information does not make the specimen source identifiable to the investigator or any other individual associated with the investigation, including the sponsor.
+e) The individuals caring for the patients are different from and do not share information about the patient with those conducting the investigation.
+f) The specimens are provided to the investigator(s) without identifiers and the supplier of the specimens has established policies and procedures to prevent the release of personal information.
+g) The study has been reviewed by an IRB in accordance with 21 CFR Part 56, except as described in section 7 of this guidance document.
+Studies that do not fall within the intended enforcement discretion expressed in this guidance include (but are not limited to) studies where any of the following is true: •
+The study does not meet the IDE exemption criteria at 21 CFR 812.2(c)(3); • the specimens are individually identifiable, i.e., the identity of the subject is known to or may be readily ascertained by the investigator or any other individuals associated with the investigation, including the sponsor.
+•
+the specimens were collected specifically for the proposed investigation.  That is, the specimens are not leftover from routine clinical care or analysis or leftover from other research.
+•
+the amount of specimen needed for the study is more than would be leftover from what is usually collected for routine clinical analysis or, • the test results will be reported to the subject’s health care provider.  For example, in the course of comparative studies involving B. anthracis detection devices, it would be inappropriate not to report positive results if they occur in the course of an investigation.
+
+### V. What type of records should be kept for these types of studies?
+We recommend that sponsors maintain written documentation regarding the factors described in section 4 (a)-(g) of this guidance, including the policies and procedures followed by the specimen provider to ensure that the subject cannot be identified. FDA may request to inspect this documentation.  FDA recommends that IRBs review this documentation before approving an investigation paying particular attention to privacy and confidentiality, and the potential for use of information from the investigation for clinical patient management.
+## VI. Should sponsors consider anything else in deciding
+whether or not to conduct a study that may fall within the exercise of enforcement discretion contemplated by this guidance?
+Sponsors should consider whether a study exhibiting the factors relevant to the exercise of enforcement discretion described in section 4 will generate sufficient data to support the product application they are considering. Although FDA does not intend to reject data from a study exhibiting the factors described in section 4 solely because it was conducted without complying with the informed consent requirements found in 21 CFR part 50, FDA also does not guarantee that the data generated from a study with those characteristics will be sufficient to support a premarket clearance or approval.  FDA may determine that additional clinical information is important in order to evaluate test results. For some studies, masking of clinical information may be problematic and may bias data collection. Sponsors should understand that by choosing to conduct an investigation without informed consent, even in a manner consistent with this guidance, they accept the risk that they may not be able to provide sufficient information to satisfy FDA's premarket review needs.
+## VII. What should IRBs do when reviewing the types of IVD
+studies that are the focus of this guidance?
+To facilitate IVD device development, FDA intends to exercise enforcement discretion toward IRBs who approve IVD investigations that are consistent with the factors in section 4 of this guidance, with respect to the IRB's duties under 21 CFR part 56 regarding informed consent for those studies. (Noncompliance with requirements of 21 CFR part 56 not related to informed consent is not subject to enforcement discretion under this guidance.) We recommend that the IRB review the sponsor's documentation regarding the factors described in Section 4, (a) through (f), including the policies and procedures followed by the specimen provider to ensure that the subject cannot be identified. IRBs should apply existing FDA regulations, including all informed consent requirements, to any other investigational IVD study. We encourage IRBs to contact
+FDA if they have questions about the guidance or a specific study under review (see FDA contact information on the title page of this guidance.)
+## VIII. Paperwork Reduction Act of 1995
+This guidance contains information collection provisions that are subject to review by the Office of Management and Budget (OMB) under the Paperwork Reduction Act of 1995 (44 U.S.C.
+3501-3520).
+The time required to complete this information collection is estimated to average 4 hours per response, including the time to review instructions, search existing data sources, gather the data needed, and complete and review the information collection.  Send comments regarding this burden estimate or suggestions for reducing this burden to: FDA PRA Staff, Office of Operations, Food and Drug Administration, PRAStaff@fda.hhs.gov
+An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid OMB control number. The OMB control number for this information collection is 0910-0582 (expires 08/31/2019).
 
 ---
 
-<!-- Page 3 -->
-Contains Nonbinding Recommendations 
-Table of Contents 
-I. 
-Introduction ................................
-iii 
-............................................................................................. 1
-II. Scope ....................................................................................................................................... 3
-III. Background ............................................................................................................................. 3
-IV. In what circumstances does FDA intend to exercise enforcement discretion as to the 
-requirements for informed consent for use of specimens in FDAregulated IVD studies? ............. 4
-V. What type of records should be kept for these types of studies? ............................................ 6
-VI. Should sponsors consider anything else in deciding whether or not to conduct a study that 
-may fall within the exercise of enforcement discretion contemplated by this guidance? .............. 6
-VII. What should IRBs do when reviewing the types of IVD studies that are the focus of this 
-guidance? ........................................................................................................................................ 6
-VIII. Paperwork Reduction Act of 1995 ......................................................................................... 7
+## Footnotes
 
----
+[^3]: See 21 CFR 50.23(a) and 50.24. 4"Innovation or Stagnation? -- Challenge and Opportunity on the Critical Path to New Medical
 
-<!-- Page 4 -->
-Contains Nonbinding Recommendations 
- 
-1
-Guidance on Informed Consent for In 
-Vitro Diagnostic Device Studies Using 
-Leftover Human Specimens that are 
-Not Individually Identifiable 
-Guidance for Sponsors, Institutional 
-Review Boards, and Food and Drug 
-Administration Staff 
-This guidance represents the current thinking of the Food and Drug Administration (FDA 
-or Agency) on this topic.  It does not establish any rights for any person and is not binding 
-on FDA or the public.  You can use an alternative approach if it satisfies the requirements 
-of the applicable statutes and regulations.  To discuss an alternative approach, contact the 
-FDA staff or Office responsible for this guidance as listed on the title page.  
-I. 
-Introduction 
-FDA is issuing this guidance to inform sponsors, institutional review boards (IRBs), clinical 
-investigators, and agency staff that the FDA intends to exercise enforcement discretion, under 
-certain circumstances, with respect to its current regulations governing the requirement for 
-informed consent when human specimens are used for FDA-regulated in vitro diagnostic (IVD)1 
-device investigations. As described below, FDA does not intend to object to the use, without 
-informed consent, of leftover human specimens -- remnants of specimens collected for routine 
-clinical care or analysis that would otherwise have been discarded -- in investigations that meet 
-the criteria for exemption from the Investigational Device Exemptions (IDE) regulation at 21 
-CFR 812.2(c)(3), as long as subject privacy is protected by using only specimens that are not 
-individually identifiable. FDA also intends to include in this policy specimens obtained from 
-                                                 
-1 In vitro diagnostic products are those reagents, instruments, and systems intended for use in the 
-diagnosis of disease or other conditions, including a determination of the state of health, in order 
-to cure, mitigate, treat, or prevent disease or its sequelae.  Such products are intended for use in 
-the collection, preparation, and examination of specimens taken from the human body. 21 CFR 
-809.3(a).
+[^5]: 21 CFR 50.23 and 50.24. would otherwise have been discarded.  Nor do FDA regulations allow IRBs to decide whether or not to waive informed consent for research involving leftover or unidentifiable specimens.
 
----
-
-<!-- Page 5 -->
-Contains Nonbinding Recommendations 
- 
-2
-specimen repositories2 and specimens that are leftover from specimens previously collected for 
-other unrelated research, as long as these specimens are not individually identifiable. 
-Under FDA’s current regulations governing the conduct of IVD device studies, the definition of 
-human subject includes individuals on whose specimens an investigational device is used [see 21 
-CFR 812.3(p)].  Because these regulations require informed consent for FDA-regulated human 
-subject research, except in limited circumstances specified in the regulations,3 informed consent 
-is required before specimens can be used in FDA-regulated research [see 21 CFR part 50]. 
-This aspect of FDA’s human subject protection regulations has created confusion and difficulty 
-for persons developing IVDs. Many clinicians, research hospitals, and companies have viewed 
-the requirement for informed consent for IVD studies using leftover specimens as unnecessary 
-for the protection of human subjects and as overly burdensome and costly. 
-FDA’s recent “Critical Path”4 initiative has also focused the agency’s concern on unnecessary 
-obstacles to medical product development. The agency has received comments from trade 
-associations and research institutions that identify the challenge of obtaining informed consent 
-for the use of leftover specimens as an unnecessary obstacle and expense for investigational 
-efforts.  When leftover specimens are available, it is often difficult, if not impossible, to locate 
-the donor and obtain consent.  This difficulty may deter a manufacturer’s research efforts that 
-would bring safe and effective IVDs to market more quickly.  At the same time, many 
-researchers maintain that for this particular type of study, the human subject protection values 
-that informed consent is intended to ensure either are not implicated, or can be adequately 
-safeguarded through less burdensome measures. 
-The confusion regarding the application of informed consent requirements to IVD studies and 
-concerns about unnecessary obstacles to product development have prompted FDA to issue this 
-guidance document.  The agency believes this guidance will facilitate product development in a 
-manner consistent with the values of human subject protection. FDA intends that the exercise of 
-enforcement discretion expressed in this guidance begin immediately.  In accordance with the 
-agency’s Good Guidance Practice regulations, 21 CFR 10.115, you may submit comments on 
-this guidance at any time.  The agency will consider your comments and determine whether to 
-revise the guidance at a later date. 
-FDA’s guidance documents, including this guidance, do not establish legally enforceable 
-responsibilities. Instead, guidances describe the Agency’s current thinking on a topic and should 
-be viewed only as recommendations, unless specific regulatory or statutory requirements are 
-cited. The use of the word should in Agency guidance means that something is suggested or 
-recommended, but not required. 
-                                                 
-2 A specimen repository is a common site for storage of collections of human biological 
-specimens available for study. 
-3 See 21 CFR 50.23(a) and 50.24. 
-4"Innovation or Stagnation? -- Challenge and Opportunity on the Critical Path to New Medical 
-Products" FDA Report issued on March 16, 2004. This document may be found at: 
-http://www.fda.gov/oc/initiatives/criticalpath/whitepaper.html
-
----
-
-<!-- Page 6 -->
-Contains Nonbinding Recommendations 
- 
-3
-  
-II. Scope 
-This document applies only to IVD device investigations regulated by FDA in accordance with 
-section 520(g) of Federal Food, Drug, and Cosmetic Act (the Act), 21 USC 360j(g), that are 
-exempt from most requirements of the IDE regulation (21 CFR 812) under 21 CFR 812.2(c)(3), 
-and that use leftover specimens that are not individually identifiable. A leftover specimen is the 
-remnant of a human specimen collected for routine clinical care or analysis that would otherwise 
-have been discarded.  A specimen is not individually identifiable when the identity of the subject 
-is not known to or may not readily be ascertained by the investigator or any other individuals 
-associated with the investigation, including the sponsor. (See Section 4, below.)  This guidance 
-also applies to specimens that were previously collected for other unrelated research and that are 
-not individually identifiable. 
-This guidance will be implemented on the date it is issued. It applies to investigations using 
-leftover specimens that are already existing on the date the guidance is issued and investigations 
-using specimens that will be collected after the issuance of this guidance, so long as both the 
-specimens and the investigations meet the circumstances outlined below (see section 4). 
-III. Background  
-FDA's investigational device regulations are intended to encourage the development of new, 
-useful devices in a manner that is consistent with public health and safety and with ethical 
-standards. (See 21 U.S.C. 360j(g)). Investigators should have freedom to pursue the least 
-burdensome means of accomplishing this goal.  However, to ensure that the balance is 
-maintained between product development and the protection of public health and safety and 
-ethical standards, FDA has established human subject protection regulations addressing 
-requirements for informed consent and IRB review that apply to all FDA-regulated clinical 
-investigations involving human subjects.  In particular, informed consent requirements further 
-both safety and ethical considerations by allowing potential subjects to consider both the 
-physical and privacy risks they face if they agree to participate in a trial. 
-Under FDA regulations, clinical investigations using human specimens conducted in support of 
-premarket submissions to FDA are considered human subject investigations [see 21 CFR 
-812.3(p)].  Many IVD studies are exempt from most provisions of 21 CFR part 812, 
-Investigational Device Exemptions, under 21 CFR 812.2(c)(3), but FDA’s regulations for the 
-protection of human subjects (21 CFR parts 50 and 56) apply to all clinical investigations that are 
-regulated by FDA [see 21 CFR 50.1; 21 CFR 56.1; 21 U.S.C. 360j(g)(3)(A) & (D)]. 
-FDA does have narrow exceptions from the general requirements of informed consent for certain 
-emergency and military research,5 but FDA regulations do not contain exceptions from the 
-requirements of informed consent on the grounds that the specimens are not identifiable and or 
-that they are remnants of human specimens collected for routine clinical care or analysis that 
-                                                 
-5 21 CFR 50.23 and 50.24.
-
----
-
-<!-- Page 7 -->
-Contains Nonbinding Recommendations 
- 
-4
-would otherwise have been discarded.  Nor do FDA regulations allow IRBs to decide whether or 
-not to waive informed consent for research involving leftover or unidentifiable specimens. 
-Leftover specimens are frequently used in feasibility studies and studies to characterize the 
-performance of new in vitro diagnostic devices for several reasons. The evaluation of new 
-devices often requires the use of specimens with specific laboratory characteristics, e.g., positive 
-or negative for a particular disease marker, in order to meet the study inclusion criteria. Routine 
-clinical care testing can provide information about the laboratory characteristics of the specimen 
-that permit investigators to quickly ascertain whether the specimen will meet the study inclusion 
-criteria. The remnants of these specimens thus become valuable to research at a point when they 
-are of no value to the patient and are ready to be discarded.  The lower cost of these specimens, 
-compared to the cost of specimens collected prospectively for research, makes studies using 
-leftover specimens more affordable, permitting manufacturers to conduct studies that otherwise 
-may not be done. In addition, banked leftover specimens are a source for unique and possibly 
-rare specimens in sufficient quantity to permit the rapid completion of investigations that would 
-be difficult if not impossible to conduct in a reasonable timeframe without these specimens. 
-FDA believes that it is possible in certain circumstances for IVD device investigations to be 
-conducted using leftover specimens obtained without informed consent while protecting the 
-human subjects who are the source of such specimens.  When IVD study sponsors use leftover 
-specimens for which the subject cannot be identified and where results of the investigational test 
-are not communicated to or otherwise associated with the identified subject, concerns associated 
-with privacy are minimized.  In addition, these studies do not pose new medical risks to subjects 
-from whom the specimens were originally collected: Any risks from specimen collection were 
-incurred prior to the involvement of the patient as a subject in an investigation, when the 
-specimen was obtained for the patient's own clinical needs, and no risks from erroneous test 
-results are presented because the results of the testing are not used for clinical management of the 
-subject.  Like leftover specimens that have been collected for routine clinical care, the 
-investigational use of leftover specimens previously collected for other research purposes 
-involves no additional medical risk, and privacy risks are mitigated by limiting the applicability 
-of this guidance to specimens that are not identifiable. 
-IV. In what circumstances does FDA intend to exercise 
-enforcement discretion as to the requirements for informed 
-consent for use of specimens in FDAregulated IVD studies? 
-FDA intends to exercise enforcement discretion as to the informed consent requirements for 
-clinical investigators, sponsors, and IRBs if an in vitro diagnostic device investigation is 
-performed and all of the following are true: 
-a) The investigation meets the IDE exemption criteria at 21 CFR 812.2(c) (3). 
-b) The study uses leftover specimens, that is, remnants of specimens collected for routine 
-clinical care or analysis that would have been discarded. The study may also use 
-specimens obtained from specimen repositories or leftover specimens that were 
-previously collected for other research purposes.
-
----
-
-<!-- Page 8 -->
-Contains Nonbinding Recommendations 
- 
-5
-c) The specimens are not individually identifiable, i.e., the identity of the subject is not 
-known to and may not readily be ascertained by the investigator or any other individuals 
-associated with the investigation, including the sponsor.  If the specimen is coded,66 it 
-will be considered to be not individually identifiable if neither the investigator(s) nor any 
-other individuals associated with the investigation or the sponsor can link the specimen to 
-the subject from whom the specimen was collected, either directly or indirectly through 
-coding systems. 
-d) The specimens may be accompanied by clinical information as long as this information 
-does not make the specimen source identifiable to the investigator or any other individual 
-associated with the investigation, including the sponsor. 
-e) The individuals caring for the patients are different from and do not share information 
-about the patient with those conducting the investigation. 
-f) The specimens are provided to the investigator(s) without identifiers and the supplier of 
-the specimens has established policies and procedures to prevent the release of personal 
-information. 
-g) The study has been reviewed by an IRB in accordance with 21 CFR Part 56, except as 
-described in section 7 of this guidance document. 
-Studies that do not fall within the intended enforcement discretion expressed in this 
-guidance include (but are not limited to) studies where any of the following is true: 
-• 
-The study does not meet the IDE exemption criteria at 21 CFR 812.2(c)(3); 
-• 
-the specimens are individually identifiable, i.e., the identity of the subject is known to or 
-may be readily ascertained by the investigator or any other individuals associated with 
-the investigation, including the sponsor. 
-• 
-the specimens were collected specifically for the proposed investigation.  That is, the 
-specimens are not leftover from routine clinical care or analysis or leftover from other 
-research. 
-• 
-the amount of specimen needed for the study is more than would be leftover from what is 
-usually collected for routine clinical analysis 
-or, 
-• 
-the test results will be reported to the subject’s health care provider.  For example, in the 
-course of comparative studies involving B. anthracis detection devices, it would be 
-inappropriate not to report positive results if they occur in the course of an investigation. 
-                                                 
-6 For the purposes of this document, coded means that: 1) a number, letter, symbol, or 
-combination thereof (i.e., the code) has replaced identifying information (such as name or social 
-security number) that would enable the investigator or any other individuals associated with the 
-investigation, including the sponsor to readily ascertain the identity of the individual to whom 
-the specimen pertains; and 2) a key to decipher the code exists, enabling linkage of the 
-identifying information to the specimen.
-
----
-
-<!-- Page 9 -->
-Contains Nonbinding Recommendations 
- 
-6
-V. What type of records should be kept for these types of 
-studies? 
-We recommend that sponsors maintain written documentation regarding the factors described in 
-section 4 (a)-(g) of this guidance, including the policies and procedures followed by the 
-specimen provider to ensure that the subject cannot be identified. FDA may request to inspect 
-this documentation.  FDA recommends that IRBs review this documentation before approving an 
-investigation paying particular attention to privacy and confidentiality, and the potential for use 
-of information from the investigation for clinical patient management. 
-VI. Should sponsors consider anything else in deciding 
-whether or not to conduct a study that may fall within the 
-exercise of enforcement discretion contemplated by this 
-guidance? 
-Sponsors should consider whether a study exhibiting the factors relevant to the exercise of 
-enforcement discretion described in section 4 will generate sufficient data to support the product 
-application they are considering. Although FDA does not intend to reject data from a study 
-exhibiting the factors described in section 4 solely because it was conducted without complying 
-with the informed consent requirements found in 21 CFR part 50, FDA also does not guarantee 
-that the data generated from a study with those characteristics will be sufficient to support a 
-premarket clearance or approval.  FDA may determine that additional clinical information is 
-important in order to evaluate test results. For some studies, masking of clinical information may 
-be problematic and may bias data collection. Sponsors should understand that by choosing to 
-conduct an investigation without informed consent, even in a manner consistent with this 
-guidance, they accept the risk that they may not be able to provide sufficient information to 
-satisfy FDA's premarket review needs. 
-VII. What should IRBs do when reviewing the types of IVD 
-studies that are the focus of this guidance? 
-To facilitate IVD device development, FDA intends to exercise enforcement discretion toward 
-IRBs who approve IVD investigations that are consistent with the factors in section 4 of this 
-guidance, with respect to the IRB's duties under 21 CFR part 56 regarding informed consent for 
-those studies. (Noncompliance with requirements of 21 CFR part 56 not related to informed 
-consent is not subject to enforcement discretion under this guidance.) We recommend that the 
-IRB review the sponsor's documentation regarding the factors described in Section 4, (a) through 
-(f), including the policies and procedures followed by the specimen provider to ensure that the 
-subject cannot be identified. IRBs should apply existing FDA regulations, including all informed 
-consent requirements, to any other investigational IVD study. We encourage IRBs to contact 
-FDA if they have questions about the guidance or a specific study under review (see FDA 
-contact information on the title page of this guidance.)
-
----
-
-<!-- Page 10 -->
-Contains Nonbinding Recommendations 
- 
-7
-VIII. 
-Paperwork Reduction Act of 1995 
-This guidance contains information collection provisions that are subject to review by the Office 
-of Management and Budget (OMB) under the Paperwork Reduction Act of 1995 (44 U.S.C. 
-3501-3520). 
-The time required to complete this information collection is estimated to average 4 hours per 
-response, including the time to review instructions, search existing data sources, gather the data 
-needed, and complete and review the information collection.  Send comments regarding this 
-burden estimate or suggestions for reducing this burden to: 
-FDA PRA Staff,  
-Office of Operations,  
-Food and Drug Administration, 
-PRAStaff@fda.hhs.gov 
-An agency may not conduct or sponsor, and a person is not required to respond to, a collection of 
-information unless it displays a currently valid OMB control number. The OMB control number 
-for this information collection is 0910-0582 (expires 08/31/2019).
+[^6]: For the purposes of this document, coded means that: 1) a number, letter, symbol, or combination thereof (i.e., the code) has replaced identifying information (such as name or social security number) that would enable the investigator or any other individuals associated with the investigation, including the sponsor to readily ascertain the identity of the individual to whom the specimen pertains; and 2) a key to decipher the code exists, enabling linkage of the identifying information to the specimen.

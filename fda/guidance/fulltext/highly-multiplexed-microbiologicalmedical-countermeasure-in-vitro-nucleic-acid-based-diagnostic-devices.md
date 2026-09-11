@@ -4,1451 +4,362 @@
 
 **Published:** 2014-08-27
 
----
-
-<!-- Page 1 -->
-Highly Multiplexed 
-Microbiological/Medical 
-Countermeasure In Vitro  
-Nucleic Acid Based Diagnostic 
-Devices 
-Guidance for Industry and Food 
-and Drug Administration Staff 
-Document issued on August 27, 2014. 
-The draft of this document was issued on November 9, 2012. 
-For questions about this document, contact the Division of Microbiology Devices at 301-796-
-5461 and John Hobson at 301-796-5892 or John.Hobson@fda.hhs.gov.  
- 
-U.S. Department of Health and Human Services 
-Food and Drug Administration 
-Center for Devices and Radiological Health 
-Office of In Vitro Diagnostics and Radiological Health 
-Division of Microbiology Devices
 
 ---
 
-<!-- Page 2 -->
-Contains Nonbinding Recommendations 
- 
- 
-Preface 
-Public Comment 
-You may submit electronic comments and suggestions at any time for Agency consideration to 
-http://www.regulations.gov . Submit written comments to the Division of Dockets 
-Management, Food and Drug Administration, 5630 Fishers Lane, Room 1061, (HFA-305), 
-Rockville, MD 20852. Identify all comments with the docket number FDA-2012-D-1057. 
-Comments may not be acted upon by the Agency until the document is next revised or updated. 
-Additional Copies 
-Additional copies are available from the Internet. You may also send an e-mail request to 
-CDRH-Guidance@fda.hhs.gov to receive a copy of the guidance. Please use the document 
-number 1803 to identify the guidance you are requesting.
+Highly Multiplexed Microbiological/Medical Countermeasure In Vitro Nucleic Acid Based Diagnostic Devices
 
----
+FDA's guidance documents, including this guidance, do not establish legally enforceable responsibilities. Instead, guidances describe the Agency’s current thinking on a topic and should be viewed only as recommendations, unless specific regulatory or statutory requirements are cited. The use of the word should in Agency guidance means that something is suggested or recommended, but not required.
 
-<!-- Page 3 -->
-Contains Nonbinding Recommendations 
- 
- 
-Table of Contents 
- 
-1. 
-INTRODUCTION ............................................................................................................ 1 
-2. 
-BACKGROUND ............................................................................................................... 2 
-3. 
-SCOPE ............................................................................................................................... 2 
-4. 
-RISKS TO HEALTH ....................................................................................................... 3 
-5. 
-DEVICE DESCRIPTION ................................................................................................ 3 
-A.  INTENDED USE .................................................................................................................. 3 
-B.  TEST METHODOLOGY ...................................................................................................... 4 
-C.  ANCILLARY REAGENTS .................................................................................................... 5 
-D.  CONTROLS ........................................................................................................................ 7 
-E.  INTERPRETING TEST RESULTS/REPORTING .................................................................... 9 
-6. 
-PERFORMANCE CHARACTERISTICS ..................................................................... 9 
-A.  PRE-ANALYTICAL FACTORS ........................................................................................... 10 
-B.  ANALYTICAL PERFORMANCE ......................................................................................... 12 
-C.  INSTRUMENTATION AND SOFTWARE ............................................................................. 20 
-7. 
-POST MARKET ANALYSIS ....................................................................................... 27 
-8. 
-DEVICE MODIFICATION .......................................................................................... 27 
-A.  LIMIT OF DETECTION ..................................................................................................... 28 
-B.  ANALYTICAL REACTIVITY ............................................................................................. 28 
-C.  CROSS-REACTIVITY ....................................................................................................... 28 
-D.  COMPETITIVE INTERFERENCE BY ANALYTES /INTERFERENCE BY OTHER 
-MICROORGANISMS .............................................................................................................. 28 
-E.  PRECISION (REPEATABILITY/REPRODUCIBILITY) ........................................................ 28 
-F.  LIMITED CLINICAL EVALUATION .................................................................................. 28
 
----
 
-<!-- Page 4 -->
-Contains Nonbinding Recommendations 
- 
-Highly Multiplexed 
-Microbiological/Medical 
-Countermeasure In Vitro Nucleic 
-Acid Based Diagnostic Devices  
-Guidance for Industry and  
-1 
- 
-Food and Drug Administration 
-Staff  
-This guidance represents the Food and Drug Administration's (FDA's) current thinking on 
-this topic.  It does not create or confer any rights for or on any person and does not operate 
-to bind FDA or the public.  You can use an alternative approach if the approach satisfies 
-the requirements of the applicable statutes and regulations.  If you want to discuss an 
-alternative approach, contact the FDA staff responsible for implementing this guidance.  If 
-you cannot identify the appropriate FDA staff, call the appropriate number listed on the 
-title page of this guidance.  
-1. Introduction 
-FDA is issuing this guidance to provide industry and agency staff with recommendations 
-for studies to establish the analytical and clinical performance of highly multiplexed 
-microbiological/medical countermeasure in vitro nucleic acid based diagnostic devices 
-(hereafter referred to as HMMDs) intended to simultaneously detect and identify multiple 
-pathogen nucleic acids extracted from a single appropriate human specimen or culture.  
-For the purposes of this guidance document, the multiplex level that is used to define 
-HMMDs is the capability to detect ≥20 different organisms/targets, in a single reaction, 
-using a nucleic acid-based technology and involves testing multiple targets through a 
-common process of specimen preparation, amplification and/or detection, and result 
-interpretation.  HMMDs are used to aid in the diagnosis of infection or screening for 
-colonization.  This guidance is not intended to replace or supersede other assay specific 
-guidance documents. 
-FDA's guidance documents, including this guidance, do not establish legally enforceable 
-responsibilities. Instead, guidances describe the Agency’s current thinking on a topic and 
-should be viewed only as recommendations, unless specific regulatory or statutory 
-requirements are cited. The use of the word should in Agency guidance means that something 
-is suggested or recommended, but not required.
+2. Background
+This document recommends studies for establishing the performance characteristics of HMMDs.  FDA considers these recommended studies to be relevant for premarket notifications (e.g., 510(k) or de novo) that may be required for a particular device.
+A manufacturer who intends to market a device of this generic type must, in addition to any other applicable requirements, · conform to the general controls of the Federal Food, Drug, and Cosmetic Act (the FD&C Act), including the premarket notification requirements described in 21 CFR 807 Subpart E, and · obtain premarket clearance or de novo classification prior to marketing the device (sections 510(k), 513, 515 of the FD&C Act; 21 U.S.C. 360(k), 360c, 360e.
+This document is intended to supplement 21 CFR 807.87 (information required in a premarket notification) and other FDA resources such as “Premarket Notification 510(k)” found at http://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/HowtoMarketYourDevic e/PremarketSubmissions/PremarketNotification510k/default.htm.
+Guidance on the content and format for abbreviated and traditional 510(k)s can be found in the guidance entitled “Format for Traditional and Abbreviated 510(k)s found at http://www.fda.gov/downloads/MedicalDevices/DeviceRegulationandGuidance/GuidanceDoc uments/ucm084396.pdf.”
+Information regarding the use of standards can be found in section 514(c) of the FD&C Act (21 U.S.C. 360d(c), and in the FDA guidance entitled “Use of Standards in Substantial Equivalence Determinations” found at http://www.fda.gov/downloads/MedicalDevices/DeviceRegulationandGuidance/GuidanceDoc uments/ucm073756.pdf.  FDA recommends that developers of HMMDs use this guidance for information on FDA’s current thoughts regarding the regulation of these devices.
+3. Scope
+The scope of this guidance includes nucleic acid based devices that employ technologies such as polymerase chain reaction (PCR), reverse-transcriptase polymerase chain reaction (RT-PCR), bead-based liquid arrays, microarrays, re-sequencing approaches as well as the measurement of individual targets via a common process of sample preparation, target or signal amplification, allele discrimination, and collective interpretation and are reported out simultaneously.  This guidance is not intended to address devices that utilize detection mechanisms other than nucleic acid based approaches.  The document does not apply to devices that are intended to screen donors of blood and blood components, and donors of human cells, tissues, and cellular and tissue-based products (HCT/Ps) for communicable diseases.
+This guidance document addresses HMMDs used in conjunction with the patient’s clinical presentation and other laboratory tests to aid in the diagnosis of infections from viruses, bacteria, parasites, or fungi and determine the presence of genetic markers for drug resistance.
+For the assays addressed by this guidance, positive results do not rule out potential coinfection with other pathogens, and negative results should not be used as the sole basis for diagnosis, treatment, or patient management decisions.
+This guidance provides detailed information on the types of data FDA recommends submitting in support of Class II premarket devices.  The inclusion of certain analytes could elevate the classification of the device to Class III, and we encourage sponsors to contact the FDA for additional guidance.
+1  In addition, if you plan to seek clearance or approval for a microbiology multiplexed device that detects less than 20 organisms/targets, please contact the Agency prior to undertaking any clinical or analytical validation studies to discuss whether the recommendations found within this guidance may be applicable.
+4. Risks to Health
+The potential risks to health associated with HMMDs that are used in conjunction with the patient’s clinical presentation and other laboratory tests to aid in the diagnosis of infection include: failure of the device to perform as indicated, leading to inaccurate results or lack of results, and incorrect interpretation of results.  These potential risks may lead to incorrect patient management decisions.
+A false positive result could lead to unnecessary or inappropriate treatment for the misidentified illness, as well as delayed treatment of the actual infection, which may potentially lead to a more serious infection.  Additionally, a false positive result in the context of a public health emergency could lead to misallocation of resources used for surveillance and prevention.  A false negative result, or lack of result, could lead to failure to provide a diagnosis and the correct treatment, may contribute to unnecessary treatment, or incorrect patient management to prevent transmission of infection.
+5. Device Description
+In your 510(k) submission, you should identify the regulation, the product code(s), and a legally marketed predicate device(s).  We recommend you include a table that outlines the similarities and differences between the predicate or multiple predicates and your device.
+You should include the following descriptive information to adequately characterize your highly multiplexed microbiological/medical countermeasure device.
+### A. Intended Use
+The intended use should specify the pathogens and, if applicable, drug resistance markers that the test detects and identifies, the nature of the analyte (e.g., RNA, DNA, or both RNA and DNA), specimen types for which testing will be indicated, the clinical indications for which
 
----
+1 Certain analytes are inherently high risk, including some that are insufficiently understood to authoritatively identify the  risks, and therefore belong in class III.  A device that tests multiple analytes takes on the classification of the highest class analyte.
 
-<!-- Page 5 -->
-Contains Nonbinding Recommendations 
- 
-2. Background 
-This document recommends studies for establishing the performance characteristics of 
-HMMDs.  FDA considers these recommended studies to be relevant for premarket 
-notifications (e.g., 510(k) or de novo) that may be required for a particular device. 
-A manufacturer who intends to market a device of this generic type must, in addition to any 
-other applicable requirements,  
-· conform to the general controls of the Federal Food, Drug, and Cosmetic Act (the 
-FD&C Act), including the premarket notification requirements described in 21 CFR 
-807 Subpart E, and 
-· obtain premarket clearance or de novo classification prior to marketing the device 
-(sections 510(k), 513, 515 of the FD&C Act; 21 U.S.C. 360(k), 360c, 360e.   
-This document is intended to supplement 21 CFR 807.87 (information required in a premarket 
-notification) and other FDA resources such as “Premarket Notification 510(k)” found at 
-http://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/HowtoMarketYourDevic
-e/PremarketSubmissions/PremarketNotification510k/default.htm.   
-Guidance on the content and format for abbreviated and traditional 510(k)s can be found in 
-the guidance entitled “Format for Traditional and Abbreviated 510(k)s found at 
-http://www.fda.gov/downloads/MedicalDevices/DeviceRegulationandGuidance/GuidanceDoc
-uments/ucm084396.pdf.” 
-Information regarding the use of standards can be found in section 514(c) of the FD&C Act 
-(21 U.S.C. 360d(c), and in the FDA guidance entitled “Use of Standards in Substantial 
-Equivalence Determinations” found at 
-http://www.fda.gov/downloads/MedicalDevices/DeviceRegulationandGuidance/GuidanceDoc
-uments/ucm073756.pdf.  FDA recommends that developers of HMMDs use this guidance for 
-information on FDA’s current thoughts regarding the regulation of these devices.    
-3. Scope 
-The scope of this guidance includes nucleic acid based devices that employ technologies 
-such as polymerase chain reaction (PCR), reverse-transcriptase polymerase chain reaction 
-(RT-PCR), bead-based liquid arrays, microarrays, re-sequencing approaches as well as the 
-measurement of individual targets via a common process of sample preparation, target or 
-signal amplification, allele discrimination, and collective interpretation and are reported 
-out simultaneously.  This guidance is not intended to address devices that utilize detection 
-mechanisms other than nucleic acid based approaches.  The document does not apply to 
-devices that are intended to screen donors of blood and blood components, and donors of 
-human cells, tissues, and cellular and tissue-based products (HCT/Ps) for communicable 
-diseases.   
-This guidance document addresses HMMDs used in conjunction with the patient’s clinical 
-presentation and other laboratory tests to aid in the diagnosis of infections from viruses, 
+
+
+the test is to be used, and the specific population(s) for which the test is intended.  The intended use should state that the test is qualitative or quantitative, whether detection of an analyte is presumptive, and any specific conditions of use.
+In your 510(k), you should clearly include the following information related to the intended use of your product: · The identity, phylogenetic relationship, or other recognized characterization of the pathogens that your device is designed to detect.
+- How the device results might be used in a diagnostic algorithm if applicable.
+Additional measures that might be needed for a laboratory identification and diagnosis of the infection.
+- Additional measures that should be instituted if infection with a novel or emerging pathogen is suspected based on current clinical and epidemiological screening criteria.
+### B. Test Methodology
+You should describe, in detail, the methodology used by your device.  You should describe the following elements, at a minimum, as applicable to your device: · Test platform (e.g., multiplexed RT-PCR, bead arrays, re-sequencing array, mass spectrometry used in conjunction with nucleic acid amplification tests (NAATs)).
+- Information and rationale for selection of specific target sequences and the methods used to design detection elements.
+- Specimen collection (e.g., swabs, viral culture media, positive blood culture, etc.) and handling methods.
+- Specimen matrix (e.g., blood, sputum, stool, etc.).
+- All pre-analytical methods and instrumentation for collection, stabilization, and concentration of specimens.
+- Specificity of the pathogen sequences being detected (i.e., methodologies used in addition to the evaluation of clinical specificity to demonstrate the target sequence is found only in the pathogen of interest).
+- Limiting factors of the assay (e.g., saturation level, maximum cycle number, etc.).
+- Reagent components provided or recommended for use, and their function within the system (e.g., buffers, enzymes, fluorescent dyes, chemiluminescent reagents, oligonucleotides, other signaling/amplification reagents, etc).
+- The potential for specific and non-specific interference effects from reagents or device material.
+- Internal controls and a description of their specific function in the system.
+- External controls that you recommend or provide to users.
+- Instrumentation inherent to using your device, including the components and their function within the system.
+- The  signal analysis and interpretation from raw data to the reported result (e.g., how raw signals are processed and converted into a useable result).  This would include sufficient software controls for identifying and dealing with obvious problems in the dataset.  It would also include adjustment for background and normalization, if applicable.
+- Illustrations, photographs, and a detailed description of non-standard equipment or methods, if available.
+- Design inputs and outputs with a risk analysis and traceability matrix.
+When applicable, you should include descriptions of how your device’s features address or mitigates risks associated with highly multiplexed devices such as the following examples: · Prevention of cross-contamination for multiplexed tests in which many probes are included in the device.
+- Correct placement and identity of assay features (e.g., probes, arrayed capture oligos).
+- Minimization of false positive results due to contamination or carryover of specimen.
+- How to enable detection of emerging variants due to mutations within the target organism.
+- Process controls used to detect and/or correct long term drift in device performance due to antigenic drift.
+### C. Ancillary Reagents
+Ancillary reagents are those reagents that a manufacturer of HMMDs specifies in device labeling as “required but not provided” in order to carry out the assay as indicated in its instructions for use and to achieve the test performance claimed in labeling for the assay.  For the purposes of this document, specific ancillary reagents are those that you specify with a catalog or product number, or other specific designation as necessary for your device to achieve its labeled performance characteristics.  For example, if your device labeling specifies the use of a specific brand of reagent (e.g., ‘Brand X or other amplification enzyme that has been shown to be equivalent’) and the use of any other DNA amplification enzyme may alter the performance characteristics of your device from that reported in your labeling, then Brand X DNA amplification enzyme or other amplification enzymes shown to be equivalent to
+Brand X DNA amplification enzyme are ancillary reagents of concern for the purposes of this document.
 2
+By contrast, if your device requires the use of 95% ethanol, and any type of 95% ethanol will allow your device to achieve the performance characteristics provided in your labeling, then 95% ethanol is not an ancillary reagent for the purposes of this document.
 
----
+2 Even if you establish that one or more alternative ancillary reagents may be used in your assay, each of those named alternatives may still be an ancillary reagent.  If you are unsure whether this aspect of the guidance applies to your device, we recommend you consult with the Division of Microbiology Devices in the Office of In Vitro Diagnostics and Radiological Health.
 
-<!-- Page 6 -->
-Contains Nonbinding Recommendations 
- 
-bacteria, parasites, or fungi and determine the presence of genetic markers for drug resistance.  
-For the assays addressed by this guidance, positive results do not rule out potential co-
-infection with other pathogens, and negative results should not be used as the sole basis for 
-diagnosis, treatment, or patient management decisions.  
-This guidance provides detailed information on the types of data FDA recommends 
-submitting in support of Class II premarket devices.  The inclusion of certain analytes 
-could elevate the classification of the device to Class III, and we encourage sponsors to 
-contact the FDA for additional guidance.
-3 
- 
-1  In addition, if you plan to seek clearance or 
-approval for a microbiology multiplexed device that detects less than 20 
-organisms/targets, please contact the Agency prior to undertaking any clinical or 
-analytical validation studies to discuss whether the recommendations found within this 
-guidance may be applicable.   
-4. Risks to Health 
-The potential risks to health associated with HMMDs that are used in conjunction with the 
-patient’s clinical presentation and other laboratory tests to aid in the diagnosis of infection 
-include: failure of the device to perform as indicated, leading to inaccurate results or lack of 
-results, and incorrect interpretation of results.  These potential risks may lead to incorrect 
-patient management decisions. 
-A false positive result could lead to unnecessary or inappropriate treatment for the 
-misidentified illness, as well as delayed treatment of the actual infection, which may 
-potentially lead to a more serious infection.  Additionally, a false positive result in the context 
-of a public health emergency could lead to misallocation of resources used for surveillance 
-and prevention.  A false negative result, or lack of result, could lead to failure to provide a 
-diagnosis and the correct treatment, may contribute to unnecessary treatment, or incorrect 
-patient management to prevent transmission of infection.  
-5. Device Description   
-In your 510(k) submission, you should identify the regulation, the product code(s), and a 
-legally marketed predicate device(s).  We recommend you include a table that outlines the 
-similarities and differences between the predicate or multiple predicates and your device.  
-You should include the following descriptive information to adequately characterize your 
-highly multiplexed microbiological/medical countermeasure device. 
-A.  Intended Use 
-The intended use should specify the pathogens and, if applicable, drug resistance markers that 
-the test detects and identifies, the nature of the analyte (e.g., RNA, DNA, or both RNA and 
-DNA), specimen types for which testing will be indicated, the clinical indications for which 
-                                                 
-1 Certain analytes are inherently high risk, including some that are insufficiently understood to authoritatively 
-identify the  risks, and therefore belong in class III.  A device that tests multiple analytes takes on the 
-classification of the highest class analyte.
 
----
 
-<!-- Page 7 -->
-Contains Nonbinding Recommendations 
- 
-the test is to be used, and the specific population(s) for which the test is intended.  The 
-intended use should state that the test is qualitative or quantitative, whether detection of an 
-analyte is presumptive, and any specific conditions of use. 
-In your 510(k), you should clearly include the following information related to the intended 
-use of your product: 
-· The identity, phylogenetic relationship, or other recognized characterization of the 
-pathogens that your device is designed to detect. 
-· How the device results might be used in a diagnostic algorithm if applicable. 
-Additional measures that might be needed for a laboratory identification and diagnosis 
-of the infection.  
-· Additional measures that should be instituted if infection with a novel or emerging 
-pathogen is suspected based on current clinical and epidemiological screening criteria. 
-B.  Test Methodology 
-You should describe, in detail, the methodology used by your device.  You should describe 
-the following elements, at a minimum, as applicable to your device: 
-· Test platform (e.g., multiplexed RT-PCR, bead arrays, re-sequencing array, mass 
-spectrometry used in conjunction with nucleic acid amplification tests (NAATs)). 
-· Information and rationale for selection of specific target sequences and the methods 
-used to design detection elements.  
-· Specimen collection (e.g., swabs, viral culture media, positive blood culture, etc.) and 
-handling methods. 
-· Specimen matrix (e.g., blood, sputum, stool, etc.). 
-· All pre-analytical methods and instrumentation for collection, stabilization, and 
-concentration of specimens. 
-· Specificity of the pathogen sequences being detected (i.e., methodologies used in 
-addition to the evaluation of clinical specificity to demonstrate the target sequence is 
-found only in the pathogen of interest). 
-· Limiting factors of the assay (e.g., saturation level, maximum cycle number, etc.). 
-· Reagent components provided or recommended for use, and their function within the 
-system (e.g., buffers, enzymes, fluorescent dyes, chemiluminescent reagents, 
-oligonucleotides, other signaling/amplification reagents, etc). 
-· The potential for specific and non-specific interference effects from reagents or device 
-material. 
-· Internal controls and a description of their specific function in the system. 
-· External controls that you recommend or provide to users.  
-· Instrumentation inherent to using your device, including the components and their 
-function within the system. 
-4
+If the instructions for use of your device specify one or more specific ancillary reagents, include information on how you will ensure that the results of testing with your device and these specific ancillary reagents, in accordance with your instructions, will be consistent with the performance established in your premarket submission.  Your plan may include application of quality systems approaches, product labeling, and other measures.
+Manufacturers should address the elements described in detail below.  FDA will evaluate whether your plan will help to mitigate the risks presented by the device to offer reasonable assurance of the safety and effectiveness of the device and establish its substantial equivalence.
+1. You should include in your 510(k) a risk assessment addressing the use of specific
+ancillary reagents, including risks associated with management of reagent quality and variability, risks associated with inconsistency between instructions for use provided directly with the specific ancillary reagent and those supplied by you with your device, and any other issues that could present a risk of obtaining incorrect results with your device.
+2. Using your risk assessment as a basis for applicability, you should describe in your
+510(k) how you intend to mitigate risks through implementation of any necessary controls over ancillary reagents.  These may include, where applicable: · User labeling to assure appropriate use of ancillary reagents.
+- Plans for assessing user compliance with labeling instructions regarding specific ancillary reagents.
+- Plans for alerting users in the event of an issue involving specific ancillary reagents that would impact the performance of the HMMD.
+- Material specifications for specific ancillary reagents.
+- Identification of reagent lots that will allow appropriate performance of your device.
+- Stability testing.
+- Complaint handling.
+- Corrective and preventive actions.
+- Any other issues that must be addressed in order to assure safe and effective use of your test in combination with named ancillary reagents, in accordance with your device’s instructions for use.
+In addition, you should provide testing data to establish that the quality controls you supply or recommend are adequate to detect performance or stability problems with the specific ancillary reagents.
+If you have questions regarding identification, use, or control of specific ancillary reagents, you should contact Division of Microbiology Devices in the Office of In Vitro Diagnostics and Radiological Health for advice.
+### D. Controls
+The performance of controls should adequately monitor when issues occur at critical steps within the system workflow in order to minimize risk of false results due to system variances/failures.
+.
+You should describe the following concerning quality control and calibration: · The nature and function of the various controls that you include with, or recommend for, your system.  These controls should enable the user to determine if all steps and critical reactions have proceeded properly without contamination or non-specific interference.
+- Your methods for value assignment (relative or absolute) and validation of control and calibrator material, if applicable.
+- The control parameters that could be used to detect failure of the instrumentation to meet required specifications.
+In general, external positive and negative controls should be run during the analytical and clinical studies as they are necessary to monitor the ongoing performance of the entire testing process.  Ideally, you should include external controls for each analyte covered with your device.  However, due to the high number of analytes detected by these devices, a rotating control scheme may be considered appropriate whereby a panel of representative control organisms (reflective of the organisms in the assay menu) is designed and used throughout the evaluation process.
+We recommend that you consult with FDA when designing specific controls for your device, including the selection/design of control panel constituents.  Controls should provide information about (1) specimen quality, (2) reagent quality, and (3) process quality.  We generally recommend that you include the following types of controls: i. Negative Controls Blank or no template control
+The blank, or no-template control, contains buffer or specimen transport media and all of the assay components except nucleic acid.  This control is used to rule out contamination with target nucleic acid or increased background in the amplification reaction.  Negative controls should be run at a justifiable frequency (# per shift, day, week) as determined by the laboratory in keeping with state and local recommendations to control for contamination.
+Negative specimen control
+The negative specimen control contains non-target nucleic acid.  It reveals non-specific detection and indicates that signals are not obtained in the absence of target sequences.  Examples of acceptable negative specimen control materials could include:
 
----
 
-<!-- Page 8 -->
-Contains Nonbinding Recommendations 
- 
-· The  signal analysis and interpretation from raw data to the reported result (e.g., how 
-raw signals are processed and converted into a useable result).  This would include 
-sufficient software controls for identifying and dealing with obvious problems in the 
-dataset.  It would also include adjustment for background and normalization, if 
-applicable.  
-· Illustrations, photographs, and a detailed description of non-standard equipment or 
-methods, if available.  
-· Design inputs and outputs with a risk analysis and traceability matrix. 
-When applicable, you should include descriptions of how your device’s features address or 
-mitigates risks associated with highly multiplexed devices such as the following examples:  
-· Prevention of cross-contamination for multiplexed tests in which many probes are 
-included in the device.  
-· Correct placement and identity of assay features (e.g., probes, arrayed capture oligos). 
-· Minimization of false positive results due to contamination or carryover of specimen. 
-· How to enable detection of emerging variants due to mutations within the target 
-organism.  
-· Process controls used to detect and/or correct long term drift in device performance 
-due to antigenic drift. 
-C.  Ancillary Reagents 
-Ancillary reagents are those reagents that a manufacturer of HMMDs specifies in device 
-labeling as “required but not provided” in order to carry out the assay as indicated in its 
-instructions for use and to achieve the test performance claimed in labeling for the assay.  For 
-the purposes of this document, specific ancillary reagents are those that you specify with a 
-catalog or product number, or other specific designation as necessary for your device to 
-achieve its labeled performance characteristics.  For example, if your device labeling specifies 
-the use of a specific brand of reagent (e.g., ‘Brand X or other amplification enzyme that has 
-been shown to be equivalent’) and the use of any other DNA amplification enzyme may alter 
-the performance characteristics of your device from that reported in your labeling, then Brand 
-X DNA amplification enzyme or other amplification enzymes shown to be equivalent to 
-Brand X DNA amplification enzyme are ancillary reagents of concern for the purposes of this 
-document.
-5 
- 
-2  
-By contrast, if your device requires the use of 95% ethanol, and any type of 95% ethanol will 
-allow your device to achieve the performance characteristics provided in your labeling, then 
-95% ethanol is not an ancillary reagent for the purposes of this document. 
-                                                 
-2 Even if you establish that one or more alternative ancillary reagents may be used in your assay, each of those 
-named alternatives may still be an ancillary reagent.  If you are unsure whether this aspect of the guidance 
-applies to your device, we recommend you consult with the Division of Microbiology Devices in the Office of In 
-Vitro Diagnostics and Radiological Health.
 
----
+- Patient specimen from a non-infected individual that has been tested to exclude any of the pathogens detected by the HMMD · Specimens containing a non-target organism · Surrogate negative control (e.g., packaged RNA) ii.  Positive Controls Positive control for complete assay
+The positive control is designed to mimic a patient specimen, contains target nucleic acids, and is used to control the entire assay process, including nucleic acid extraction, amplification, and detection.  Positive controls are run as a separate assay, concurrently with patient specimens.  For the clinical and analytical studies, a minimum of one positive and one negative external control should be run daily or per batch during the evaluation.  Positive controls can be a subset of the larger assay menu and can be rotated through a pre-defined schedule.  In the case of a single use/test consumable with an internal control, periodic external control testing may need to be performed with every new lot taking into consideration state and local recommendations.
+Some examples of acceptable external positive assay controls include: · Vaccine or prototypic vaccine strains of appropriate virus or bacteria · Low pathogenic virus or bacteria · Inactivated virus or bacteria · Packaged RNA/DNA containing target sequences Positive control for amplification/detection
+The positive control for amplification/detection can contain purified target nucleic acid near the limit of detection for a qualitative assay.  It controls for the integrity of the device and the reaction components when negative results are obtained.
+iii. Internal Control
+The internal control is a non-target nucleic acid sequence that is co-extracted and coamplified with the target nucleic acid.  It controls for integrity of the reagents, equipment functionality, and the presence of inhibitors in the specimen.  Examples of acceptable internal control materials include human nucleic acid co-extracted with the specimen and primers amplifying human housekeeping genes (e.g., RNaseP, B-actin).
+Alternatively, the internal control can be a packaged non-target sequence that is added to each clinical specimen before any pre-analytical steps and is analyzed simultaneously with the clinical targets.  The appropriateness of this control is dependent on the design of the assay and should be determined with input from the FDA.
 
-<!-- Page 9 -->
-Contains Nonbinding Recommendations 
- 
-If the instructions for use of your device specify one or more specific ancillary reagents, 
-include information on how you will ensure that the results of testing with your device and 
-these specific ancillary reagents, in accordance with your instructions, will be consistent with 
-the performance established in your premarket submission.  Your plan may include 
-application of quality systems approaches, product labeling, and other measures. 
-Manufacturers should address the elements described in detail below.  FDA will evaluate 
-whether your plan will help to mitigate the risks presented by the device to offer reasonable 
-assurance of the safety and effectiveness of the device and establish its substantial 
-equivalence.   
-1. You should include in your 510(k) a risk assessment addressing the use of specific 
-ancillary reagents, including risks associated with management of reagent quality and 
-variability, risks associated with inconsistency between instructions for use provided 
-directly with the specific ancillary reagent and those supplied by you with your device, 
-and any other issues that could present a risk of obtaining incorrect results with your 
-device. 
-2. Using your risk assessment as a basis for applicability, you should describe in your 
-510(k) how you intend to mitigate risks through implementation of any necessary 
-controls over ancillary reagents.  These may include, where applicable: 
-· User labeling to assure appropriate use of ancillary reagents. 
-· Plans for assessing user compliance with labeling instructions regarding 
-specific ancillary reagents.  
-· Plans for alerting users in the event of an issue involving specific ancillary 
-reagents that would impact the performance of the HMMD. 
-· Material specifications for specific ancillary reagents.  
-· Identification of reagent lots that will allow appropriate performance of your 
-device. 
-· Stability testing. 
-· Complaint handling. 
-· Corrective and preventive actions. 
-· Any other issues that must be addressed in order to assure safe and effective 
-use of your test in combination with named ancillary reagents, in accordance 
-with your device’s instructions for use. 
-In addition, you should provide testing data to establish that the quality controls you supply or 
-recommend are adequate to detect performance or stability problems with the specific 
-ancillary reagents. 
-If you have questions regarding identification, use, or control of specific ancillary reagents, 
-you should contact Division of Microbiology Devices in the Office of In Vitro Diagnostics 
-and Radiological Health for advice. 
-6
 
----
 
-<!-- Page 10 -->
-Contains Nonbinding Recommendations 
- 
-D.  Controls 
-The performance of controls should adequately monitor when issues occur at critical steps 
-within the system workflow in order to minimize risk of false results due to system 
-variances/failures. 
-.  
-You should describe the following concerning quality control and calibration: 
-· The nature and function of the various controls that you include with, or recommend 
-for, your system.  These controls should enable the user to determine if all steps and 
-critical reactions have proceeded properly without contamination or non-specific 
-interference. 
-· Your methods for value assignment (relative or absolute) and validation of control and 
-calibrator material, if applicable. 
-· The control parameters that could be used to detect failure of the instrumentation to 
-meet required specifications. 
-In general, external positive and negative controls should be run during the analytical and 
-clinical studies as they are necessary to monitor the ongoing performance of the entire testing 
-process.  Ideally, you should include external controls for each analyte covered with your 
-device.  However, due to the high number of analytes detected by these devices, a rotating 
-control scheme may be considered appropriate whereby a panel of representative control 
-organisms (reflective of the organisms in the assay menu) is designed and used throughout the 
-evaluation process. 
-We recommend that you consult with FDA when designing specific controls for your device, 
-including the selection/design of control panel constituents.  Controls should provide 
-information about (1) specimen quality, (2) reagent quality, and (3) process quality.  We 
-generally recommend that you include the following types of controls: 
-i. Negative Controls 
-7 
- 
-Blank or no template control  
-The blank, or no-template control, contains buffer or specimen transport media and all 
-of the assay components except nucleic acid.  This control is used to rule out 
-contamination with target nucleic acid or increased background in the amplification 
-reaction.  Negative controls should be run at a justifiable frequency (# per shift, day, 
-week) as determined by the laboratory in keeping with state and local 
-recommendations to control for contamination. 
-Negative specimen control 
-The negative specimen control contains non-target nucleic acid.  It reveals non-
-specific detection and indicates that signals are not obtained in the absence of target 
-sequences.  Examples of acceptable negative specimen control materials could 
-include:
+### E. Interpreting Test Results/Reporting
+In your 510(k), you should describe how positive, negative, or invalid results are determined and how they should be interpreted.  Developers should indicate the cut-off values for all outputs of the assay.
+- In particular, you should provide the cut-off value for defining a negative result of the assay.  If the assay has only two output results (negative/positive), this cut-off also defines a positive result of the assay.
+- If your interpretation results involve re-testing, you should provide (1) a recommendation whether re-testing should be repeated from the same nucleic acid preparation, a new extraction, or whether a new patient specimen should be obtained and tested, and (2) an algorithm for defining a final result by combining the initial result and the results after re-testing (note that this algorithm should be developed before the pivotal clinical study that evaluates the clinical performance of the assay).
+- If the assay has an invalid result, you should describe how an invalid result is defined.
+If internal controls are part of the determination of invalid results, you should provide the interpretation of each possible combination of control results for defining the invalid result.  You should provide recommendations for how to follow up any invalid result (i.e., whether the result should be reported as invalid or whether re-testing is recommended).  If re-testing is recommended, you should provide information similar to that for the re-testing of indeterminate results (i.e., whether re-testing should be repeated from the same nucleic acid preparation, a new extraction, or a new patient specimen).
+6. Performance Characteristics
+In your 510(k), you should detail the study design you used to evaluate each of the performance characteristics outlined below.
+If your product labeling calls for the use of specific ancillary reagents, the premarket performance testing submitted to support your 510(k) should use the specific ancillary reagents that your instructions for use reference.  The performance claims you establish through premarket testing, which should be reflected in your labeling under 21 CFR 809.10(b), should be based on the particular test configuration you describe in your labeling, including all pre-analytical steps.
+In addition, if your product labeling indicates the use of multiple devices (i.e., PCR machines) and/or extraction methods, the premarket performance testing submitted to support your 510(k) should use all devices or extraction methodologies specified in your instructions.
+Your performance claims in your labeling, which you established through premarket testing, should be based on the particular test configuration you describe in your labeling, including all pre-analytical steps.
+Evaluation of assay performance should include appropriate controls for the duration of the analytical and clinical studies.  This includes any internal assay controls as well as the appropriate external controls recommended by the manufacturer, but not necessarily provided with the assay, and how they were tested during the analytical and clinical studies.
+### A. Pre-analytical Factors
+Consideration of pre-analytical factors is critical for HMMDs.  In your 510(k), you should clearly address the following issues regarding pre-analytical factors.
+i. Specimen Collection and Handling
+You should specify the specimen type(s) for which your assay is intended to be used.
+Appropriate specimen types depend on a variety of factors, including the site of infection and the pathogen nucleic acid to be detected.  Specifically, a clinical specimen should be collected from the appropriate anatomical site or source at the appropriate time in the clinical progression of disease.  Appropriate specimen types will vary according to the test panel.  We recommend that sponsors consult the FDA to determine which specimens are considered appropriate for the intended test panel and if certain specimen types can be considered equivalent and thus can be combined.
+The quality and quantity of extracted target can be affected by multiple factors such as specimen source, collection method, handling (e.g., transport, storage time, temperature).  Testing results you provide in your 510(k) should validate the following:
+1. The system provides adequate and appropriate nucleic acid for all
+analytes detected by your assay (i.e., DNA/RNA from bacteria, virus, fungi, parasites, or any combination thereof included in the test).
+2. The device maintains acceptable performance under all the various
+specimen handling conditions claimed in the product labeling.
+The acceptance criteria for all specimen stability parameters should be clearly indicated and justified.
+Specimens for pathogen identification should be collected and handled using all applicable state and federal biosafety guidelines.  For standard precautions for handling of specimens, refer to the most current editions of the related Clinical and Laboratory Standards Institute (CLSI) documents.3
+ii. Fresh vs. Frozen Specimens
+Detection sensitivity can change for frozen specimens as compared to fresh.  In developing your test, we recommend you consider and evaluate whether this is a concern for any of the pathogens detected by the particular multiplex panel (i.e., they should not be frozen and thawed).  You should assess the effect of storage temperature and repeated freeze/thaw cycles on the yield of the nucleic acid and its influence on the assay performance.  The evaluation of fresh versus frozen specimens can be considered during the determination of the limit of detection (LoD) providing an early indication of
 
----
+3 Biosafety in Microbiological and Biomedical Laboratories 1999. Richmond, J.Y. and McKinney, R.W. eds.
+HHS Publication Number (CDC) 93-8395; and CLSI. Protection of Laboratory Workers from Infectious Disease
+Transmitted by Blood, Body Fluids, and Tissue. CLSI document M29-A. Wayne, PA: Clinical and Laboratory Standards Institute; 1997.
 
-<!-- Page 11 -->
-Contains Nonbinding Recommendations 
- 
-· Patient specimen from a non-infected individual that has been tested to exclude   
-any of the pathogens detected by the HMMD 
-· Specimens containing a non-target organism  
-· Surrogate negative control (e.g., packaged RNA)  
-ii.  Positive Controls 
-8 
- 
-Positive control for complete assay  
-The positive control is designed to mimic a patient specimen, contains target nucleic 
-acids, and is used to control the entire assay process, including nucleic acid extraction, 
-amplification, and detection.  Positive controls are run as a separate assay, 
-concurrently with patient specimens.  For the clinical and analytical studies, a 
-minimum of one positive and one negative external control should be run daily or per 
-batch during the evaluation.  Positive controls can be a subset of the larger assay menu 
-and can be rotated through a pre-defined schedule.  In the case of a single use/test 
-consumable with an internal control, periodic external control testing may need to be 
-performed with every new lot taking into consideration state and local 
-recommendations. 
-Some examples of acceptable external positive assay controls include: 
-· Vaccine or prototypic vaccine strains of appropriate virus or bacteria 
-· Low pathogenic virus or bacteria  
-· Inactivated virus or bacteria  
-· Packaged RNA/DNA containing target sequences 
-Positive control for amplification/detection 
-The positive control for amplification/detection can contain purified target nucleic 
-acid near the limit of detection for a qualitative assay.  It controls for the integrity of 
-the device and the reaction components when negative results are obtained.  
-iii. Internal Control 
-The internal control is a non-target nucleic acid sequence that is co-extracted and co-
-amplified with the target nucleic acid.  It controls for integrity of the reagents, 
-equipment functionality, and the presence of inhibitors in the specimen.  Examples of 
-acceptable internal control materials include human nucleic acid co-extracted with the 
-specimen and primers amplifying human housekeeping genes (e.g., RNaseP, B-actin).  
-Alternatively, the internal control can be a packaged non-target sequence that is added 
-to each clinical specimen before any pre-analytical steps and is analyzed 
-simultaneously with the clinical targets.  The appropriateness of this control is 
-dependent on the design of the assay and should be determined with input from the 
-FDA.
 
----
 
-<!-- Page 12 -->
-Contains Nonbinding Recommendations 
- 
-E.  Interpreting Test Results/Reporting  
-In your 510(k), you should describe how positive, negative, or invalid results are determined 
-and how they should be interpreted.  Developers should indicate the cut-off values for all 
-outputs of the assay. 
-· In particular, you should provide the cut-off value for defining a negative result of the 
-assay.  If the assay has only two output results (negative/positive), this cut-off also 
-defines a positive result of the assay. 
-· If your interpretation results involve re-testing, you should provide (1) a 
-recommendation whether re-testing should be repeated from the same nucleic acid 
-preparation, a new extraction, or whether a new patient specimen should be obtained 
-and tested, and (2) an algorithm for defining a final result by combining the initial 
-result and the results after re-testing (note that this algorithm should be developed 
-before the pivotal clinical study that evaluates the clinical performance of the assay).   
-· If the assay has an invalid result, you should describe how an invalid result is defined.  
-If internal controls are part of the determination of invalid results, you should provide 
-the interpretation of each possible combination of control results for defining the 
-invalid result.  You should provide recommendations for how to follow up any invalid 
-result (i.e., whether the result should be reported as invalid or whether re-testing is 
-recommended).  If re-testing is recommended, you should provide information similar 
-to that for the re-testing of indeterminate results (i.e., whether re-testing should be 
-repeated from the same nucleic acid preparation, a new extraction, or a new patient 
-specimen). 
-6. Performance Characteristics  
-In your 510(k), you should detail the study design you used to evaluate each of the 
-performance characteristics outlined below. 
-If your product labeling calls for the use of specific ancillary reagents, the premarket 
-performance testing submitted to support your 510(k) should use the specific ancillary 
-reagents that your instructions for use reference.  The performance claims you establish 
-through premarket testing, which should be reflected in your labeling under 21 CFR 
-809.10(b), should be based on the particular test configuration you describe in your labeling, 
-including all pre-analytical steps.   
-In addition, if your product labeling indicates the use of multiple devices (i.e., PCR machines) 
-and/or extraction methods, the premarket performance testing submitted to support your 
-510(k) should use all devices or extraction methodologies specified in your instructions.  
-Your performance claims in your labeling, which you established through premarket testing, 
-should be based on the particular test configuration you describe in your labeling, including 
-all pre-analytical steps.    
-Evaluation of assay performance should include appropriate controls for the duration of the 
-analytical and clinical studies.  This includes any internal assay controls as well as the 
-9
+assay performance with specimens that have been frozen as compared to fresh specimens.  The freeze-thaw conditions tested should capture the actual conditions encountered in a clinical setting and those used to establish the enrollment criteria for frozen archived specimens that could be used in the prospective analysis.
+If significant differences are observed with the LoD, then additional studies will be necessary and product labeling will indicate the use of fresh, unfrozen specimens only.
+If developers still wish to pursue the use of frozen specimens, then performance should also be established for frozen specimens by conducting a study consisting of a total of 60 positive clinical specimens tested fresh and frozen.  In certain circumstances, welldesigned mock specimens, made by spiking cultured organism into individual negative specimens could also be considered.  However, FDA feedback for this approach is recommended prior to undertaking the study.  The positive specimens should be representative of the test panel composition.  If it is the case that fresh and frozen specimens are not equivalent, then developers should ensure that all studies are conducted with specimens that have been handled properly.
+iii. Nucleic Acid Extraction
+Different extraction methods may yield nucleic acids of varying quantity and quality, and thus the extraction method can be crucial to a successful result.  Purification can be challenging because biological specimens may contain low pathogen signature sequences in a background of human genomic DNA, normal flora, as well as high levels of proteins and other contaminants.  Additionally, the lysis conditions may differ depending on physiochemical nature of the organisms detected by the device.
+For these reasons, you should evaluate the effect of your chosen extraction method on the performance of the assay with respect to satisfactory nucleic acid quantity and quality for the intended use of the assay.  In addition, you should evaluate your assay’s clinical performance characteristics using the entire pre-analytical process (including extraction procedures) that you recommend for use with your assay.  If multiple extraction methods are recommended for use with your assay, you should demonstrate extraction quality and efficiency, as well as analytical and clinical performance of your assay with each extraction method.  Specifically, you should demonstrate LoD and reproducibility for each pre-analytical method indicated for use by your device.
+You may be able to combine the extraction method variable with each site performance variable.  For example, if you recommend three different extraction methods, you can design a reproducibility study by evaluating one of the three extraction methods at each of three testing sites: test extraction method A at site 1, test extraction method B at site 2, and test extraction method C at site 3.
+However, if the studies from the three sites indicate statistically or clinically significant differences in assay performance, the reproducibility study should be expanded to include testing each extraction method at three study sites (e.g., site 1 extraction methods A, B and C, site 2 extraction methods A, B and C, and site 3 extraction methods A, B and C).
+In addition to the analytical limit of detection and reproducibility, each extraction method should be utilized in at least one clinical site during the clinical studies to
 
----
 
-<!-- Page 13 -->
-Contains Nonbinding Recommendations 
- 
-appropriate external controls recommended by the manufacturer, but not necessarily provided 
-with the assay, and how they were tested during the analytical and clinical studies.   
-A.  Pre-analytical Factors 
-Consideration of pre-analytical factors is critical for HMMDs.  In your 510(k), you should 
-clearly address the following issues regarding pre-analytical factors. 
-i. Specimen Collection and Handling 
-10 
- 
-You should specify the specimen type(s) for which your assay is intended to be used.  
-Appropriate specimen types depend on a variety of factors, including the site of 
-infection and the pathogen nucleic acid to be detected.  Specifically, a clinical 
-specimen should be collected from the appropriate anatomical site or source at the 
-appropriate time in the clinical progression of disease.  Appropriate specimen types 
-will vary according to the test panel.  We recommend that sponsors consult the FDA 
-to determine which specimens are considered appropriate for the intended test panel 
-and if certain specimen types can be considered equivalent and thus can be combined. 
-The quality and quantity of extracted target can be affected by multiple factors such as 
-specimen source, collection method, handling (e.g., transport, storage time, 
-temperature).  Testing results you provide in your 510(k) should validate the 
-following: 
-1. The system provides adequate and appropriate nucleic acid for all 
-analytes detected by your assay (i.e., DNA/RNA from bacteria, virus, 
-fungi, parasites, or any combination thereof included in the test).  
-2. The device maintains acceptable performance under all the various 
-specimen handling conditions claimed in the product labeling. 
-The acceptance criteria for all specimen stability parameters should be clearly 
-indicated and justified. 
-Specimens for pathogen identification should be collected and handled using all 
-applicable state and federal biosafety guidelines.  For standard precautions for handling 
-of specimens, refer to the most current editions of the related Clinical and Laboratory 
-Standards Institute (CLSI) documents.3     
-ii. Fresh vs. Frozen Specimens  
-Detection sensitivity can change for frozen specimens as compared to fresh.  In 
-developing your test, we recommend you consider and evaluate whether this is a 
-concern for any of the pathogens detected by the particular multiplex panel (i.e., they 
-should not be frozen and thawed).  You should assess the effect of storage temperature 
-and repeated freeze/thaw cycles on the yield of the nucleic acid and its influence on the 
-assay performance.  The evaluation of fresh versus frozen specimens can be considered 
-during the determination of the limit of detection (LoD) providing an early indication of 
-                                                 
-3 Biosafety in Microbiological and Biomedical Laboratories 1999. Richmond, J.Y. and McKinney, R.W. eds. 
-HHS Publication Number (CDC) 93-8395; and CLSI. Protection of Laboratory Workers from Infectious Disease 
-Transmitted by Blood, Body Fluids, and Tissue. CLSI document M29-A. Wayne, PA: Clinical and Laboratory 
-Standards Institute; 1997.
 
----
+generate clinical performance data.  If results from the expanded reproducibility testing indicate a significant difference in efficiency among the extraction methods, the data from each clinical testing site (using a different nucleic acid extraction method) are not considered equivalent and should not be combined, but rather should be analyzed separately.  As a consequence, additional prospective clinical specimens may be called for in order to support the claimed extraction method.
+You should provide your recommendations for assuring specimen adequacy for the different specimen types for which your assay is indicated.  For example, the quality of the nucleic acid can be assessed using internal controls that determine presence, quality, or both presence and quality of the nucleic acid.  For additional information, consult with the Division of Microbiology Devices in the Office of In Vitro Diagnostics and Radiological Health.
+iv. Specimen-to-Specimen Cross-Contamination with Automated Extraction Systems
+If automated systems are used or recommended for nucleic acid extraction that takes place prior to use of your device, you should include a check of potential well-to-well cross-contamination as part of the performance qualification of the extraction instrument.  You should provide a software hazard analysis for automated extraction systems as part of your 510(k).  A validation study of the extraction process can be designed in a pattern such that a nucleic acid-containing specimen with a concentration at the highest anticipated clinical level is surrounded on all sides by negatives.  The results should demonstrate that well-to-well cross-contamination does not occur.
+v. Performance Study Quality Controls
+Evaluation of assay performance should include appropriate controls for the duration of the analytical and clinical studies.  The results should also include any positive and negative controls provided with your assay as well as appropriate external controls recommended but not necessarily provided with the assay.  If a rotating control scheme is used throughout the evaluation process, the results should be presented for each control panel member.
+### B. Analytical Performance
+The following are analytical performance characteristics you should demonstrate for your assay in your 510(k).
+i. Limit of Detection
+The LoD provides a measure of the analytical sensitivity of an assay for a particular target and is defined as the lowest concentration of target distinguishable from negative specimens that is consistently detected in 95% of the specimen replicates.
+Proper determination of the LoD is critical since many of the analytical validation studies, as well as the levels included in the reproducibility analysis, are based on this target concentration.
 
-<!-- Page 14 -->
-Contains Nonbinding Recommendations 
- 
-assay performance with specimens that have been frozen as compared to fresh 
-specimens.  The freeze-thaw conditions tested should capture the actual conditions 
-encountered in a clinical setting and those used to establish the enrollment criteria for 
-frozen archived specimens that could be used in the prospective analysis.   
-If significant differences are observed with the LoD, then additional studies will be 
-necessary and product labeling will indicate the use of fresh, unfrozen specimens only.  
-If developers still wish to pursue the use of frozen specimens, then performance should 
-also be established for frozen specimens by conducting a study consisting of a total of 
-60 positive clinical specimens tested fresh and frozen.  In certain circumstances, well-
-designed mock specimens, made by spiking cultured organism into individual negative 
-specimens could also be considered.  However, FDA feedback for this approach is 
-recommended prior to undertaking the study.  The positive specimens should be 
-representative of the test panel composition.  If it is the case that fresh and frozen 
-specimens are not equivalent, then developers should ensure that all studies are 
-conducted with specimens that have been handled properly.    
-iii. Nucleic Acid Extraction 
-11 
- 
-Different extraction methods may yield nucleic acids of varying quantity and quality, 
-and thus the extraction method can be crucial to a successful result.  Purification can be 
-challenging because biological specimens may contain low pathogen signature 
-sequences in a background of human genomic DNA, normal flora, as well as high levels 
-of proteins and other contaminants.  Additionally, the lysis conditions may differ 
-depending on physiochemical nature of the organisms detected by the device.   
-For these reasons, you should evaluate the effect of your chosen extraction method on 
-the performance of the assay with respect to satisfactory nucleic acid quantity and 
-quality for the intended use of the assay.  In addition, you should evaluate your assay’s 
-clinical performance characteristics using the entire pre-analytical process (including 
-extraction procedures) that you recommend for use with your assay.  If multiple 
-extraction methods are recommended for use with your assay, you should demonstrate 
-extraction quality and efficiency, as well as analytical and clinical performance of 
-your assay with each extraction method.  Specifically, you should demonstrate LoD 
-and reproducibility for each pre-analytical method indicated for use by your device.  
-You may be able to combine the extraction method variable with each site 
-performance variable.  For example, if you recommend three different extraction 
-methods, you can design a reproducibility study by evaluating one of the three 
-extraction methods at each of three testing sites: test extraction method A at site 1, test 
-extraction method B at site 2, and test extraction method C at site 3.   
-However, if the studies from the three sites indicate statistically or clinically 
-significant differences in assay performance, the reproducibility study should be 
-expanded to include testing each extraction method at three study sites (e.g., site 1 
-extraction methods A, B and C, site 2 extraction methods A, B and C, and site 3 
-extraction methods A, B and C). 
-In addition to the analytical limit of detection and reproducibility, each extraction 
-method should be utilized in at least one clinical site during the clinical studies to
 
----
 
-<!-- Page 15 -->
-Contains Nonbinding Recommendations 
- 
-generate clinical performance data.  If results from the expanded reproducibility 
-testing indicate a significant difference in efficiency among the extraction methods, 
-the data from each clinical testing site (using a different nucleic acid extraction 
-method) are not considered equivalent and should not be combined, but rather should 
-be analyzed separately.  As a consequence, additional prospective clinical specimens 
-may be called for in order to support the claimed extraction method. 
-You should provide your recommendations for assuring specimen adequacy for the 
-different specimen types for which your assay is indicated.  For example, the quality 
-of the nucleic acid can be assessed using internal controls that determine presence, 
-quality, or both presence and quality of the nucleic acid.  For additional information, 
-consult with the Division of Microbiology Devices in the Office of In Vitro 
-Diagnostics and Radiological Health. 
-iv. Specimen-to-Specimen Cross-Contamination with Automated Extraction 
-12 
- 
-Systems 
-If automated systems are used or recommended for nucleic acid extraction that takes 
-place prior to use of your device, you should include a check of potential well-to-well 
-cross-contamination as part of the performance qualification of the extraction 
-instrument.  You should provide a software hazard analysis for automated extraction 
-systems as part of your 510(k).  A validation study of the extraction process can be 
-designed in a pattern such that a nucleic acid-containing specimen with a 
-concentration at the highest anticipated clinical level is surrounded on all sides by 
-negatives.  The results should demonstrate that well-to-well cross-contamination does 
-not occur. 
-v. Performance Study Quality Controls  
-Evaluation of assay performance should include appropriate controls for the duration 
-of the analytical and clinical studies.  The results should also include any positive and 
-negative controls provided with your assay as well as appropriate external controls 
-recommended but not necessarily provided with the assay.  If a rotating control 
-scheme is used throughout the evaluation process, the results should be presented for 
-each control panel member.   
-B.  Analytical Performance 
-           The following are analytical performance characteristics you should demonstrate for   
-your assay in your 510(k). 
-i. Limit of Detection  
-The LoD provides a measure of the analytical sensitivity of an assay for a particular 
-target and is defined as the lowest concentration of target distinguishable from 
-negative specimens that is consistently detected in 95% of the specimen replicates.  
-Proper determination of the LoD is critical since many of the analytical validation 
-studies, as well as the levels included in the reproducibility analysis, are based on this 
-target concentration.
+Determination of the LoD for each target included in the assay menu and each specimen type is necessary.  This can be accomplished by limiting dilutions of calibrated target material into a negative (non-infected) clinical matrix. The target material should be made from isolated culture material and can be calibrated using either acceptable molecular approaches or non-molecular methods of target quantification and expressed as colony forming unit/plaque forming unit (CFU/PFU) and genome equivalents/mL.   In certain circumstances with Agency review and agreement, it may be appropriate to use, clone, or chemically synthesize genomic DNA and/or RNA transcripts if the target cannot be cultured.  A preliminary evaluation of LoD can be done individually then substantiated with multiple replicates using pools of multiple targets.  One approach would be to prepare serial dilutions using appropriate pooled negative specimen matrix as diluent that include three to five replicates for each dilution to establish the preliminary range.
+After the preliminary LoD range is established, the preliminary LoD is confirmed by demonstrating a detection rate of 95% using a minimum of 20 independent specimens.
+Alternatively, sponsors may desire to pool targets for the preliminary estimation and final confirmation of LoD.  This approach can be taken with the understanding that developers provide justification for the number of targets included in the evaluation pool.  It is important to note that pooling of multiple targets may negatively affect the LoD; thus, the justification provided by developers should indicate what steps were taken to ensure the LoD obtained in the study is accurate.  The use of Probit analysis may also be used to establish LoD provided the study is appropriately designed.
+Additionally, an analysis to confirm the Limit of Blank (LoB) of zero using a minimum of 50 negative individual clinical specimens should also be provided.
+ii. Analytical Reactivity (Inclusivity)
+You should demonstrate analytical reactivity to account for potential genetic variation among the pathogens included in the multiplex assay panel.  You should collect data to evaluate clinically relevant microorganisms that represent temporal, geographical, and phylogenic diversity for each claimed target at or near the specific LoD or cut-off value.  The approach to establish inclusivity should use both intact cultured organisms that undergo all pre-analytical steps, as well as pre-extracted and defined nucleic acids to significantly augment traditional laboratory testing.  The pre-extracted nucleic acid target material should be made from isolated culture material and calibrated using acceptable molecular approaches and expressed as CFU/PFU and genome equivalents/mL.
+The evaluation should use panels designed to include different strains, laboratory isolates, serotypes, and other closely related subspecies relevant to the specimen type.
+It is important to note that the panel design for inclusivity should incorporate a diverse and clinically relevant specimen set.  To ensure the highest quality materials are used in this analysis, the identity and titer of the original stock should be confirmed.  For example, if your assay detects and identifies Salmonella enterica, we recommend that you demonstrate that the assay can detect all frequently reported serotypes by testing at or near the specific LoD or cut-off value.
 
----
 
-<!-- Page 16 -->
-Contains Nonbinding Recommendations 
- 
-Determination of the LoD for each target included in the assay menu and each 
-specimen type is necessary.  This can be accomplished by limiting dilutions of 
-calibrated target material into a negative (non-infected) clinical matrix. The target 
-material should be made from isolated culture material and can be calibrated using 
-either acceptable molecular approaches or non-molecular methods of target 
-quantification and expressed as colony forming unit/plaque forming unit (CFU/PFU) 
-and genome equivalents/mL.   In certain circumstances with Agency review and 
-agreement, it may be appropriate to use, clone, or chemically synthesize genomic 
-DNA and/or RNA transcripts if the target cannot be cultured.  A preliminary 
-evaluation of LoD can be done individually then substantiated with multiple replicates 
-using pools of multiple targets.  One approach would be to prepare serial dilutions 
-using appropriate pooled negative specimen matrix as diluent that include three to five 
-replicates for each dilution to establish the preliminary range.   
-After the preliminary LoD range is established, the preliminary LoD is confirmed by 
-demonstrating a detection rate of 95% using a minimum of 20 independent specimens.   
-Alternatively, sponsors may desire to pool targets for the preliminary estimation and 
-final confirmation of LoD.  This approach can be taken with the understanding that 
-developers provide justification for the number of targets included in the evaluation 
-pool.  It is important to note that pooling of multiple targets may negatively affect the 
-LoD; thus, the justification provided by developers should indicate what steps were 
-taken to ensure the LoD obtained in the study is accurate.  The use of Probit analysis 
-may also be used to establish LoD provided the study is appropriately designed.  
-Additionally, an analysis to confirm the Limit of Blank (LoB) of zero using a 
-minimum of 50 negative individual clinical specimens should also be provided.   
-ii. Analytical Reactivity (Inclusivity) 
-13 
- 
-You should demonstrate analytical reactivity to account for potential genetic variation 
-among the pathogens included in the multiplex assay panel.  You should collect data 
-to evaluate clinically relevant microorganisms that represent temporal, geographical, 
-and phylogenic diversity for each claimed target at or near the specific LoD or cut-off 
-value.  The approach to establish inclusivity should use both intact cultured organisms 
-that undergo all pre-analytical steps, as well as pre-extracted and defined nucleic acids 
-to significantly augment traditional laboratory testing.  The pre-extracted nucleic acid 
-target material should be made from isolated culture material and calibrated using 
-acceptable molecular approaches and expressed as CFU/PFU and genome 
-equivalents/mL.   
-The evaluation should use panels designed to include different strains, laboratory 
-isolates, serotypes, and other closely related subspecies relevant to the specimen type.  
-It is important to note that the panel design for inclusivity should incorporate a diverse 
-and clinically relevant specimen set.  To ensure the highest quality materials are used 
-in this analysis, the identity and titer of the original stock should be confirmed.  For 
-example, if your assay detects and identifies Salmonella enterica, we recommend that 
-you demonstrate that the assay can detect all frequently reported serotypes by testing 
-at or near the specific LoD or cut-off value.
 
----
+When it is difficult to represent adequate diversity and demonstrate detection due to difficulty obtaining sufficient specimens of pathogens, we recommend that you contact FDA to discuss your study.  When strain availability is limited, laboratory testing can be augmented through in silico analysis of target sequences.  In silico analyses should include clinically relevant organisms and represent temporal, geographical, and phylogenetic diversity for each claimed target.  In these cases, the in silico approach will be used to guide the inclusion of pathogens for traditional and in silico analyses.  For example, an approach whereby an in silico analysis is used to guide laboratory testing could be based on alignment identity.  With this approach, representative organisms selected from groups with decreasing levels of identity to the target region will be selected for further laboratory testing.  We recommend that sponsors provide a clear rationale for the inclusion of the selected strains, the metrics used to assess inclusivity, and a clear presentation of the alignment in the specific regions of interest for each pathogen evaluated.
+iii. Analytical Specificity
+You should determine analytical specificity for your HMMD for all pathogens detected.  The evaluation should be  done using a combined approach with a preextracted nucleic acid panel as well as an analysis of the complete system, from nucleic acid extraction through amplification and detection.  In general, you should evaluate interference from substances found in the specimen and the potential for interference from other microorganism present in the specimen.  However, under certain circumstances (i.e., inability to obtain rare organisms in sufficient quantity), a combined approach using pre-extracted nucleic acid for specific target(s) may be appropriate after consultation with the FDA.  In general, you should evaluate interference from substances found in the specimen and the potential for interference from other microorganisms present in the specimen.
+Interference
+You should demonstrate that your assay can specifically detect the target organism in the presence of relevant interferents.  These studies should include other organisms, homologous sequences, and contrived specimens with high background levels of human DNA.  The following sections describe specific types of interference studies you should perform in order to assess potential interference for your highly multiplexed device.  The Clinical and Laboratory Standards Institute (CLSI) document EP7-A2, Interference Testing in Clinical Chemistry; Approved Guideline; 2005, provides additional information about how to design interference studies.
+a)
+Interfering substances
+We recommend that you conduct a comprehensive interference study using medically relevant concentrations of interfering substances to assess the potentially inhibitory effects that would affect a test result.  Potentially interfering substances to test include those that may pre-exist in the specimen as well as those that may be introduced during specimen collection and specimen preparation.  The types of interfering substances will be specimen specific.  We recommend that you test the effect of each interferent on a small representative panel of organisms at the LoD or
 
-<!-- Page 17 -->
-Contains Nonbinding Recommendations 
- 
-When it is difficult to represent adequate diversity and demonstrate detection due to 
-difficulty obtaining sufficient specimens of pathogens, we recommend that you 
-contact FDA to discuss your study.  When strain availability is limited, laboratory 
-testing can be augmented through in silico analysis of target sequences.  In silico 
-analyses should include clinically relevant organisms and represent temporal, 
-geographical, and phylogenetic diversity for each claimed target.  In these cases, the in 
-silico approach will be used to guide the inclusion of pathogens for traditional and in 
-silico analyses.  For example, an approach whereby an in silico analysis is used to 
-guide laboratory testing could be based on alignment identity.  With this approach, 
-representative organisms selected from groups with decreasing levels of identity to the 
-target region will be selected for further laboratory testing.  We recommend that 
-sponsors provide a clear rationale for the inclusion of the selected strains, the metrics 
-used to assess inclusivity, and a clear presentation of the alignment in the specific 
-regions of interest for each pathogen evaluated. 
-iii. Analytical Specificity 
-14 
- 
-You should determine analytical specificity for your HMMD for all pathogens 
-detected.  The evaluation should be  done using a combined approach with a pre-
-extracted nucleic acid panel as well as an analysis of the complete system, from 
-nucleic acid extraction through amplification and detection.  In general, you should 
-evaluate interference from substances found in the specimen and the potential for 
-interference from other microorganism present in the specimen.  However, under 
-certain circumstances (i.e., inability to obtain rare organisms in sufficient quantity), a 
-combined approach using pre-extracted nucleic acid for specific target(s) may be 
-appropriate after consultation with the FDA.  In general, you should evaluate 
-interference from substances found in the specimen and the potential for interference 
-from other microorganisms present in the specimen.   
-Interference 
-You should demonstrate that your assay can specifically detect the target organism in 
-the presence of relevant interferents.  These studies should include other organisms, 
-homologous sequences, and contrived specimens with high background levels of 
-human DNA.  The following sections describe specific types of interference studies 
-you should perform in order to assess potential interference for your highly 
-multiplexed device.  The Clinical and Laboratory Standards Institute (CLSI) document 
-EP7-A2, Interference Testing in Clinical Chemistry; Approved Guideline; 2005, 
-provides additional information about how to design interference studies.   
-a) 
-Interfering substances 
-We recommend that you conduct a comprehensive interference study using 
-medically relevant concentrations of interfering substances to assess the potentially 
-inhibitory effects that would affect a test result.  Potentially interfering substances 
-to test include those that may pre-exist in the specimen as well as those that may be 
-introduced during specimen collection and specimen preparation.  The types of 
-interfering substances will be specimen specific.  We recommend that you test the 
-effect of each interferent on a small representative panel of organisms at the LoD or
 
----
 
-<!-- Page 18 -->
-Contains Nonbinding Recommendations 
- 
-cut-off as well as the effect on negative specimens.  For example, the representative 
-panel could be composed of a predetermined number of each organism type (Gram 
-(+), Gram (-), fungi, yeast, parasites, RNA and DNA viruses, etc.).  In addition to 
-the analysis of spiked specimens with endogenous levels of potential interfering 
-substances, purified interferents will also be spiked into individual negative 
-specimens to evaluate the effect on the device when elevated levels of potential 
-interfering substances are present.  The final concentration should approach the 
-worst-case levels and should be justified either through literature analysis or FDA 
-feedback.   
-The representative organisms should be spiked into negative clinical specimens, 
-which are individual or pooled, or simulated negative clinical specimens (using an 
-appropriate specimen background) at 2-3 times the LoD along with the potentially 
-interfering substance being tested.   This analysis should employ all pre-analytical 
-steps to evaluate the affects of matrix variation and inhibitory substances on 
-performance.  Devices that have unique pre-analytical processing steps, either as 
-stand alone or incorporated into a unitized consumable may involve more in depth 
-analysis and could include additional studies to ensure the removal of potential 
-interferents.  Sponsors are encouraged to obtain FDA’s feedback in these cases.    
-Potential interferents that should be assessed are endogenous substances that can be 
-encountered at elevated levels in clinical specimens, as well as commonly 
-prescribed or over-the-counter clinically relevant medications and their metabolites, 
-as appropriate in the indicated specimen type.  Exogenous substances that may be 
-introduced into specimens before or during specimen collection, including 
-medication, treatments, or topical applications for treating symptoms associated 
-with specific infections, should also be included in this study.  Since spiking 
-experiments may not necessarily be an accurate model of the in vivo scenario, 
-alternative experimental designs, such as assessing the effect of medications 
-received by patients included in the clinical studies may need to be considered, as 
-appropriate.    
-b) Interference by other microorganisms  
-15 
- 
-You should evaluate your assay for interference by microorganisms that are 
-expected to be encountered in the indicated specimen type designed to be used by 
-your device.  We recommend that you evaluate a representative test panel of intact 
-organisms 2-3 times the LoD with the interfering microorganisms expected to be 
-present in the anatomical site(s) to be sampled for testing, or those known to 
-commonly cause similar symptoms as the assay panel on the test device. The 
-potentially interfering microorganism should be spiked at the high end of the 
-clinically relevant range to allow for the determination of the maximum amount of 
-a non-target microorganism the assay can tolerate without causing interference or 
-adversely affecting the test results when target organisms are 2-3 times the LoD.    
-c) 
-Competitive Interference by analytes 
-You should assess the effects of all known clinically relevant co-infections.  The 
-selection that you consider for these studies should be based on combinations of co-
+cut-off as well as the effect on negative specimens.  For example, the representative panel could be composed of a predetermined number of each organism type (Gram (+), Gram (-), fungi, yeast, parasites, RNA and DNA viruses, etc.).  In addition to the analysis of spiked specimens with endogenous levels of potential interfering substances, purified interferents will also be spiked into individual negative specimens to evaluate the effect on the device when elevated levels of potential interfering substances are present.  The final concentration should approach the worst-case levels and should be justified either through literature analysis or FDA feedback.
+The representative organisms should be spiked into negative clinical specimens, which are individual or pooled, or simulated negative clinical specimens (using an appropriate specimen background) at 2-3 times the LoD along with the potentially interfering substance being tested.   This analysis should employ all pre-analytical steps to evaluate the affects of matrix variation and inhibitory substances on performance.  Devices that have unique pre-analytical processing steps, either as stand alone or incorporated into a unitized consumable may involve more in depth analysis and could include additional studies to ensure the removal of potential interferents.  Sponsors are encouraged to obtain FDA’s feedback in these cases.
+Potential interferents that should be assessed are endogenous substances that can be encountered at elevated levels in clinical specimens, as well as commonly prescribed or over-the-counter clinically relevant medications and their metabolites, as appropriate in the indicated specimen type.  Exogenous substances that may be introduced into specimens before or during specimen collection, including medication, treatments, or topical applications for treating symptoms associated with specific infections, should also be included in this study.  Since spiking experiments may not necessarily be an accurate model of the in vivo scenario, alternative experimental designs, such as assessing the effect of medications received by patients included in the clinical studies may need to be considered, as appropriate.
+b) Interference by other microorganisms
+You should evaluate your assay for interference by microorganisms that are expected to be encountered in the indicated specimen type designed to be used by your device.  We recommend that you evaluate a representative test panel of intact organisms 2-3 times the LoD with the interfering microorganisms expected to be present in the anatomical site(s) to be sampled for testing, or those known to commonly cause similar symptoms as the assay panel on the test device. The potentially interfering microorganism should be spiked at the high end of the clinically relevant range to allow for the determination of the maximum amount of a non-target microorganism the assay can tolerate without causing interference or adversely affecting the test results when target organisms are 2-3 times the LoD.
+c)
+Competitive Interference by analytes
+You should assess the effects of all known clinically relevant co-infections.  The selection that you consider for these studies should be based on combinations of co-
 
----
 
-<!-- Page 19 -->
-Contains Nonbinding Recommendations 
- 
-infections that are known to occur or are widespread.  The selection of targets to be 
-included in this study should be justified through literature surveillance, 
-combinations of pathogens that are known to occur, or from FDA feedback. 
-If a target/analyte is expected to be present at a high level, the detection of another 
-target present at low levels could potentially be impaired.  To assess whether this 
-would be the case, we recommend you evaluate competitive interference with one 
-target at the LoD or cut-off concentration and another target at a very high 
-concentration, as well as both targets at the LoD or cut-off values.  This can be 
-done either during the LoD or cut-off evaluation or, alternatively, as a part of 
-reproducibility or interference studies.  
-d) In Silico analysis of physical interactions 
-16 
- 
-You should provide an in silico evaluation to demonstrate a lack of internal 
-competition due to secondary structure/binding between various oligonucleotides 
-(including all primers, probes, linkers, and amplified targets) included in the 
-multiplexed assay.  You should provide data demonstrating that no adverse binding 
-interactions are having a negative impact on performance as well as all evaluation 
-parameters used for the analysis.  Any potentially negative interaction should have 
-a justification for inclusion on the assay menu as well as any relevant follow-up 
-validation data. 
-e) 
-Cross-reactivity 
-The following sections describe specific types of cross-reactivity studies in order to 
-assess potential cross-reactivity in the absence of the target organisms.  
-Comprehensive panels of microorganisms should be designed and include the 
-following information:   
-· Strain characterization (pedigree information) 
-· Titer information prior to nucleic acid extraction 
-· Quality assessment parameters of the extracted nucleic acid (i.e., quantity of 
-nucleic acid (NA) recovered, optical density (OD) 260/280 ratio, etc.) 
-· Determination of the conversion from titer to genomic equivalents or copy 
-number for the extracted nucleic acids.      
-1) Cross-reactivity with other organisms in the panel   
-Section 6B.ii above discussed testing characterized specimens for each target 
-probed by the multiplex panel to establish reactivity (inclusivity) of the assay for 
-that particular pathogen.  You should also utilize similar types of specimens to 
-evaluate (and rule out) cross-reactivity between analytes represented within the 
-highly multiplexed assay.  "The cross-reactant level used in this analysis should be 
-at the highest anticipated clinical level and can be done using cultured stocks of 
-bacteria and viruses (106 CFU/ml or higher for bacteria and 105 pfu/ml or higher). 
-In certain circumstances with Agency review and agreement, it may be appropriate 
-to use, clone, or chemically synthesize genomic DNA and/or RNA transcripts if 
-the target cannot be cultured.
 
----
+infections that are known to occur or are widespread.  The selection of targets to be included in this study should be justified through literature surveillance, combinations of pathogens that are known to occur, or from FDA feedback.
+If a target/analyte is expected to be present at a high level, the detection of another target present at low levels could potentially be impaired.  To assess whether this would be the case, we recommend you evaluate competitive interference with one target at the LoD or cut-off concentration and another target at a very high concentration, as well as both targets at the LoD or cut-off values.  This can be done either during the LoD or cut-off evaluation or, alternatively, as a part of reproducibility or interference studies.
+d) In Silico analysis of physical interactions
+You should provide an in silico evaluation to demonstrate a lack of internal competition due to secondary structure/binding between various oligonucleotides (including all primers, probes, linkers, and amplified targets) included in the multiplexed assay.  You should provide data demonstrating that no adverse binding interactions are having a negative impact on performance as well as all evaluation parameters used for the analysis.  Any potentially negative interaction should have a justification for inclusion on the assay menu as well as any relevant follow-up validation data.
+e)
+Cross-reactivity
+The following sections describe specific types of cross-reactivity studies in order to assess potential cross-reactivity in the absence of the target organisms.
+Comprehensive panels of microorganisms should be designed and include the following information: · Strain characterization (pedigree information)
+- Titer information prior to nucleic acid extraction · Quality assessment parameters of the extracted nucleic acid (i.e., quantity of nucleic acid (NA) recovered, optical density (OD) 260/280 ratio, etc.)
+- Determination of the conversion from titer to genomic equivalents or copy number for the extracted nucleic acids.
+1) Cross-reactivity with other organisms in the panel
+Section 6B.ii above discussed testing characterized specimens for each target probed by the multiplex panel to establish reactivity (inclusivity) of the assay for that particular pathogen.  You should also utilize similar types of specimens to evaluate (and rule out) cross-reactivity between analytes represented within the highly multiplexed assay.  "The cross-reactant level used in this analysis should be at the highest anticipated clinical level and can be done using cultured stocks of bacteria and viruses (106 CFU/ml or higher for bacteria and 105 pfu/ml or higher).
+In certain circumstances with Agency review and agreement, it may be appropriate to use, clone, or chemically synthesize genomic DNA and/or RNA transcripts if the target cannot be cultured.
 
-<!-- Page 20 -->
-Contains Nonbinding Recommendations 
- 
-2) Cross-reactivity with pathogens or targets that are not part of the assay 
-17 
- 
-To determine whether the HMMD cross-reacts with analytes other than the 
-pathogens it is designed to measure, we recommend assessing a comprehensive 
-panel of microorganisms designed to include all closely related organisms as well 
-as other pathogens and microorganisms that are likely found in similar specimens 
-or known to commonly cause similar symptoms as those included in the assay 
-menu.  It is important to consider analytes that have a reasonable likelihood of 
-being present at the specimen collection site for each specimen type.     
-For this analysis we recommend that you test the highest clinically encountered 
-level of viruses and bacteria (106 cfu/ml or higher for bacteria and 105 pfu/ml or 
-higher for viruses).  Generally, the bacterial and viral stocks are cultured and titered 
-using traditional methods; however, for the purposes of highly multiplexed devices 
-and the expanded size of the panels to be used, the use of cultured stocks that have 
-been calibrated using molecular approaches is appropriate.  From these calibrated 
-stocks, preparations of highly purified and qualified nucleic acids can be made and 
-used to evaluate cross-reactivity at the aforementioned test levels.  We understand 
-that with certain microorganisms you may not be able to achieve this titer.  If so, we 
-recommend consulting with the FDA. 
-A pooled target approach for the evaluation of cross-reactivity can be taken with 
-the understanding that developers provide justification for the number of targets 
-included in the evaluation pool.  It is important to note that pooling of multiple 
-targets could mask cross-reactive events due to overloading nucleic acid; thus, the 
-justification provided by developers should indicate what steps were taken to 
-obviate this potential issue.  If a justifiable pooling approach is employed, all cross- 
-reactive pools should be further analyzed as individual reactions to determine the 
-cross-reactive microorganism(s).  
-iv. Cut-off 
-You should clearly define how the cut-off for each target/analyte was initially 
-determined as well as how it was validated.  The cut-off should be determined using 
-appropriate statistical methods.  For example, to support the determined cut- off, the 
-sponsor could provide distribution of results, 95th and 99th percentiles, percents of the 
-positive results, etc. for the clinical specimens.  Selection of the appropriate cut-off 
-can be justified by the relevant levels of sensitivity and specificity based on Receiver 
-Operating Curve (ROC) analysis of the pilot studies with clinical specimens (for 
-details about ROC analysis, see CLSI document EP24-A2 Assessment of the 
-Diagnostic Accuracy of Laboratory Tests Using Receiver Operating Characteristics 
-(ROC) Plots; Second Edition; 2012).  The performance of the candidate multiplexed 
-device using the pre-determined cut-off should be validated in an independent study 
-consistent with the defined intended use of your device.  
-v. Precision (Repeatability/Reproducibility) 
-You should provide data demonstrating the precision (i.e., repeatability and 
-reproducibility) of your system.  The CLSI documents, EP05-A2, Evaluation of
 
----
 
-<!-- Page 21 -->
-Contains Nonbinding Recommendations 
- 
-Precision Performance of Quantitative Measurement Methods; Approved Guideline- 
-Second Edition; 2004, and EP12-A2, User Protocol for Evaluation of Qualitative Test 
-Performance; Approved Guideline-Second Edition: 2008, include guidelines that may 
-be helpful for developing experimental design, computations, and a format for 
-establishing performance claims.  
-We recommend you establish the precision of your device using a representative panel 
-composed of a predetermined number of each organism type (Gram (+), Gram (-), 
-fungi, RNA and DNA viruses, etc.) that has a range of analyte concentrations 
-spanning the detection range of your assay.  All sources of variability in the precision 
-study should be identified.  While some sources of variability can be evaluated in an 
-in-house precision study, the site-to-site reproducibility study should include an 
-evaluation of the major sources of variability described below, for each pathogen. 
-In the study design description in your 510(k), you should identify which factors (e.g., 
-instrument calibration, reagent lots, and operators) were held constant and which were 
-varied during the evaluation, and describe the computations and statistical analyses 
-used to evaluate the data.   
-For qualitative tests, you should estimate the overall variance as well as the variance 
-for all the factors considered in the precision study using an appropriate statistical 
-method.  For qualitative tests that have an underlying numerical output, the component 
-of precision is often measured for each source of variation using the analysis of 
-variance.  For each specimen in the precision study, you should provide the mean 
-value with variance components (standard deviation and percent coefficient of 
-variation (CV) for each site separately and for all sites combined. 
-For non-biothreat pathogens, reproducibility will be evaluated using a multi-site 
-approach.  The intended user will perform all pre-analytical steps in the analysis in the 
-intended use environment.  Not all pathogens will be included in the reproducibility 
-study due to the increase in the number of targets of these types of devices.  
-Representative panels of pathogens may be used to reduce the overall size of the study 
-while still collecting sufficient information to determine the reproducibility of the 
-device.  Panels should be composed of representative organisms selected from the 
-multiplex menu and should be agreed upon through FDA feedback prior to initiating 
-the evaluation. 
-The representative panel should be tested at the concentrations defined below and can 
-be pooled.  Intact cultured organisms should be spiked into the negative clinical 
-specimen matrix and include all pre-analytical steps to evaluate the reproducibility of 
-the device.  
-· Negative clinical matrix - If negative matrix is not available, the sponsor 
-should consult with FDA regarding the use of an artificial matrix.  Note:  a 
-matrix equivalency study is involved to support the use of an artificial matrix 
-and may not be appropriate in all cases. 
-· LoD (or C95, positive (above the cut-off) approximately 95% of the time) - 
-Cultured organisms should be spiked into negative matrix at a determined LoD 
-level. 
-18
+2) Cross-reactivity with pathogens or targets that are not part of the assay
+To determine whether the HMMD cross-reacts with analytes other than the pathogens it is designed to measure, we recommend assessing a comprehensive panel of microorganisms designed to include all closely related organisms as well as other pathogens and microorganisms that are likely found in similar specimens or known to commonly cause similar symptoms as those included in the assay menu.  It is important to consider analytes that have a reasonable likelihood of being present at the specimen collection site for each specimen type.
+For this analysis we recommend that you test the highest clinically encountered level of viruses and bacteria (106 cfu/ml or higher for bacteria and 105 pfu/ml or higher for viruses).  Generally, the bacterial and viral stocks are cultured and titered using traditional methods; however, for the purposes of highly multiplexed devices and the expanded size of the panels to be used, the use of cultured stocks that have been calibrated using molecular approaches is appropriate.  From these calibrated stocks, preparations of highly purified and qualified nucleic acids can be made and used to evaluate cross-reactivity at the aforementioned test levels.  We understand that with certain microorganisms you may not be able to achieve this titer.  If so, we recommend consulting with the FDA.
+A pooled target approach for the evaluation of cross-reactivity can be taken with the understanding that developers provide justification for the number of targets included in the evaluation pool.  It is important to note that pooling of multiple targets could mask cross-reactive events due to overloading nucleic acid; thus, the justification provided by developers should indicate what steps were taken to obviate this potential issue.  If a justifiable pooling approach is employed, all crossreactive pools should be further analyzed as individual reactions to determine the cross-reactive microorganism(s).
+iv. Cut-off
+You should clearly define how the cut-off for each target/analyte was initially determined as well as how it was validated.  The cut-off should be determined using appropriate statistical methods.  For example, to support the determined cut- off, the sponsor could provide distribution of results, 95th and 99th percentiles, percents of the positive results, etc. for the clinical specimens.  Selection of the appropriate cut-off can be justified by the relevant levels of sensitivity and specificity based on Receiver
+Operating Curve (ROC) analysis of the pilot studies with clinical specimens (for details about ROC analysis, see CLSI document EP24-A2 Assessment of the
+Diagnostic Accuracy of Laboratory Tests Using Receiver Operating Characteristics (ROC) Plots; Second Edition; 2012).  The performance of the candidate multiplexed device using the pre-determined cut-off should be validated in an independent study consistent with the defined intended use of your device.
+v. Precision (Repeatability/Reproducibility)
+You should provide data demonstrating the precision (i.e., repeatability and reproducibility) of your system.  The CLSI documents, EP05-A2, Evaluation of
 
----
 
-<!-- Page 22 -->
-Contains Nonbinding Recommendations 
- 
-· Two to three times the LoD (C100, positive 100% of the time) - Cultured 
-organisms should be spiked into negative matrix at two to three times the LoD 
-level.  It is important to clarify that test levels in excess of two to three times 
-the LoD are not appropriate for this part of the evaluation of reproducibility. 
-Factors that are held constant should be clearly identified and all computation and 
-statistical analysis should be indicated.  The following variables should be assessed 
-and included in the study design:  
-· Extraction-to-extraction precision: specimens used in precision testing are 
-processed from clinical specimens (e.g., nasopharyngeal swabs) at the test site, 
-using the procedure you plan to recommend in the test labeling.   
-· Between-instrument precision. 
-· Site-to-site and operator-to-operator precisions: include three or more sites (at 
-least two external sites and one in-house site) with multiple operators at each 
-site.  Operators should reflect potential users of the assay in terms of education 
-and experience.  You should provide training only to the same extent that you 
-intend to train users after marketing the test. 
-· A minimum five non-consecutive days to cover day-to-day variability of the 
-precision test panel on the device. 
-· A minimum of two runs per day (unless the assay design precludes multiple 
-runs per day) and two replicates of each panel member per run is 
-recommended to assess the between-run component as well as within-run and 
-within-day imprecision in your reproducibility study. 
-· Lot-to-lot precision:  including evaluation of multiple product lots (e.g., 
-multiple lots of assay reagents and ancillary reagents, multiple lots of primers 
-and probes for RT-PCR, multiple lots of beads or arrays), and multiple 
-instruments. 
-· For each analyte level (regardless of pooling), a total of 90 data points should 
-be collected. (i.e., one analyte test level x two operators times three 
-replicates/operator times five days of testing times three testing sites = 90 data 
-points/analyte test level) 
-For biothreat pathogens, within-laboratory precision should be evaluated using a 
-single site due to handling restrictions.  Arrangements to validate reproducibility at 
-qualified institutions with the capability to conduct the proper studies should be made.  
-This evaluation should be done for all biothreat targets using the same test levels 
-outlined above.  Testing should be done at a single site with multiple operators and 
-instruments to assess reproducibility between operators, runs, and days.   
-vi. Carry-over Studies and Cross-contamination Studies (for multi-specimen 
-19 
- 
-assays and devices that require instrumentation)  
-For assays and devices that require instrumentation, you should demonstrate that 
-carry-over and cross-contamination do not occur with your device.  For multiplexed 
-assays, use of one or more representative analytes to evaluate the risk of 
-contamination is appropriate.   A risk-based approach should be employed to justify 
-the choice of analyte(s) and experimental design based on a combination of all aspects 
-of the workflow, including pre- processing and run set up. Multiple instruments should
 
----
+Precision Performance of Quantitative Measurement Methods; Approved Guideline-
+Second Edition; 2004, and EP12-A2, User Protocol for Evaluation of Qualitative Test Performance; Approved Guideline-Second Edition: 2008, include guidelines that may be helpful for developing experimental design, computations, and a format for establishing performance claims.
+We recommend you establish the precision of your device using a representative panel composed of a predetermined number of each organism type (Gram (+), Gram (-), fungi, RNA and DNA viruses, etc.) that has a range of analyte concentrations spanning the detection range of your assay.  All sources of variability in the precision study should be identified.  While some sources of variability can be evaluated in an in-house precision study, the site-to-site reproducibility study should include an evaluation of the major sources of variability described below, for each pathogen.
+In the study design description in your 510(k), you should identify which factors (e.g., instrument calibration, reagent lots, and operators) were held constant and which were varied during the evaluation, and describe the computations and statistical analyses used to evaluate the data.
+For qualitative tests, you should estimate the overall variance as well as the variance for all the factors considered in the precision study using an appropriate statistical method.  For qualitative tests that have an underlying numerical output, the component of precision is often measured for each source of variation using the analysis of variance.  For each specimen in the precision study, you should provide the mean value with variance components (standard deviation and percent coefficient of variation (CV) for each site separately and for all sites combined.
+For non-biothreat pathogens, reproducibility will be evaluated using a multi-site approach.  The intended user will perform all pre-analytical steps in the analysis in the intended use environment.  Not all pathogens will be included in the reproducibility study due to the increase in the number of targets of these types of devices.
+Representative panels of pathogens may be used to reduce the overall size of the study while still collecting sufficient information to determine the reproducibility of the device.  Panels should be composed of representative organisms selected from the multiplex menu and should be agreed upon through FDA feedback prior to initiating the evaluation.
+The representative panel should be tested at the concentrations defined below and can be pooled.  Intact cultured organisms should be spiked into the negative clinical specimen matrix and include all pre-analytical steps to evaluate the reproducibility of the device.
+- Negative clinical matrix - If negative matrix is not available, the sponsor should consult with FDA regarding the use of an artificial matrix.  Note:  a matrix equivalency study is involved to support the use of an artificial matrix and may not be appropriate in all cases.
+- LoD (or C95, positive (above the cut-off) approximately 95% of the time) -
+Cultured organisms should be spiked into negative matrix at a determined LoD level.
+- Two to three times the LoD (C100, positive 100% of the time) - Cultured organisms should be spiked into negative matrix at two to three times the LoD level.  It is important to clarify that test levels in excess of two to three times the LoD are not appropriate for this part of the evaluation of reproducibility.
+Factors that are held constant should be clearly identified and all computation and statistical analysis should be indicated.  The following variables should be assessed and included in the study design: · Extraction-to-extraction precision: specimens used in precision testing are processed from clinical specimens (e.g., nasopharyngeal swabs) at the test site, using the procedure you plan to recommend in the test labeling.
+- Between-instrument precision.
+- Site-to-site and operator-to-operator precisions: include three or more sites (at least two external sites and one in-house site) with multiple operators at each site.  Operators should reflect potential users of the assay in terms of education and experience.  You should provide training only to the same extent that you intend to train users after marketing the test.
+- A minimum five non-consecutive days to cover day-to-day variability of the precision test panel on the device.
+- A minimum of two runs per day (unless the assay design precludes multiple runs per day) and two replicates of each panel member per run is recommended to assess the between-run component as well as within-run and within-day imprecision in your reproducibility study.
+- Lot-to-lot precision:  including evaluation of multiple product lots (e.g., multiple lots of assay reagents and ancillary reagents, multiple lots of primers and probes for RT-PCR, multiple lots of beads or arrays), and multiple instruments.
+- For each analyte level (regardless of pooling), a total of 90 data points should be collected. (i.e., one analyte test level x two operators times three replicates/operator times five days of testing times three testing sites = 90 data points/analyte test level)
+For biothreat pathogens, within-laboratory precision should be evaluated using a single site due to handling restrictions.  Arrangements to validate reproducibility at qualified institutions with the capability to conduct the proper studies should be made.
+This evaluation should be done for all biothreat targets using the same test levels outlined above.  Testing should be done at a single site with multiple operators and instruments to assess reproducibility between operators, runs, and days.
+vi. Carry-over Studies and Cross-contamination Studies (for multi-specimen assays and devices that require instrumentation)
+For assays and devices that require instrumentation, you should demonstrate that carry-over and cross-contamination do not occur with your device.  For multiplexed assays, use of one or more representative analytes to evaluate the risk of contamination is appropriate.   A risk-based approach should be employed to justify the choice of analyte(s) and experimental design based on a combination of all aspects of the workflow, including pre- processing and run set up. Multiple instruments should
 
-<!-- Page 23 -->
-Contains Nonbinding Recommendations 
- 
-be used in studies to demonstrate the robustness of the system design.  Multiple 
-operators should be included in studies if there is significant manual manipulation of 
-specimens and/or reagents. Rationale should be provided for the sample size tested 
-based on the power involved in detecting a specified defect rate.  Target levels tested 
-should reflect the upper end of the spectrum of anticipated clinical loads associated 
-with the analyte(s) in question and should include a testing pattern that included 
-negative specimens to evaluate potential carry over.  
-vii. Stability Studies 
-20 
- 
-You should describe your study design for determining the real-time stability of the 
-reagents and instruments, and if applicable, a description of stress test conditions and 
-results.  For each study, you should describe your acceptance criteria values and how 
-you selected them. 
-C.  Instrumentation and Software 
-Instrumentation for clinical multiplex test systems is regulated under 21 CFR 862.2570.  
-Guidance for such instrumentation is available in the guidance entitled “Class II Special 
-Controls Guidance Document: Instrumentation for Clinical Multiplex Test Systems” found at 
-http://www.fda.gov/downloads/MedicalDevices/DeviceRegulationandGuidance/GuidanceDoc
-uments/UCM071061.pdf.  If the multiplexed assay uses instrumentation for clinical multiplex 
-test systems and obtains FDA clearance, the instrumentation for clinical multiplex systems 
-will be cleared for use with the assays included in the device.  Simultaneous clearance of the 
-assay and the instrumentation can be accomplished by either (1) the sponsor of the assay 
-submitting the information for both the assay and the instrumentation for clinical multiplex 
-systems within one 510(k) or (2) the instrument manufacturer simultaneously submitting a 
-separate 510(k) for the instrumentation for clinical multiplex systems by itself.  The amount 
-of information required for clearance of the instrument depends on whether the instrument has 
-been previously cleared for a similar intended use, and whether there are software 
-modifications to accommodate the new assay(s). 
- 
-If your system includes software, you should submit software information detailed in 
-accordance with the level of concern.  More information can be found in the document 
-entitled “Guidance for the Content of Premarket Submissions for Software Contained in 
-Medical Devices” found at 
-http://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/uc
-m089543.htm.  You should determine the level of concern prior to the mitigation of hazards.  
-In vitro diagnostic devices of this type are typically considered a moderate level of concern 
-because software flaws could indirectly affect the patient and potentially result in injury due 
-to inaccurate information. 
-For any device that uses a proprietary database to define the outcome of a signal generated by 
-their device we recommend that the quality criteria for establishing the accuracy of reference 
-databases as well as the methods for curating, maintaining, and updating the databases be 
-included in your submission.
 
----
 
-<!-- Page 24 -->
-Contains Nonbinding Recommendations 
- 
-Below are additional references to help you develop and maintain your device under good 
-software life cycle practices consistent with FDA regulations. 
-· The guidance entitled “General Principles of Software Validation” found at 
-http://www.fda.gov/medicaldevices/deviceregulationandguidance/guidancedocum
-ents/ucm085281.htm 
-· The guidance entitled “Guidance for Off-the-Shelf Software Use in Medical 
-Devices” found at 
-http://www.fda.gov/downloads/MedicalDevices/DeviceRegulationandGuidance/G
-uidanceDocuments/ucm07377 
-· The guidance entitled “Guidance for the Content of Premarket Submissions for 
-Software Contained in Medical Devices” found at 
-http://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/GuidanceDoc
-uments/ucm089543.htm   
-· 21 CFR 820.30 Subpart C – Design Controls of the Quality System Regulation. 
-· ISO 14971-1; Medical devices - Risk management - Part 1: Application of risk 
-analysis. 
-· AAMI SW68:2001; Medical device software-Software lifecycle processes." 
-ANSI/AAMI/IEC 62304:2006- Medical device software - Software life cycle 
-processes and Clinical Performance Studies 
-i.  Clinical Study Design 
-21 
- 
-Clinical validation of highly multiplexed devices should be performed using a study 
-that is separated into two parts.  The clinical evaluation will determine the specificity 
-(or negative percent agreement) through a prospective study of a minimum of 1500 
-patients enrolled with the signs and symptoms of infection for which the device is 
-indicated, using a randomized evaluation with a specific number of comparator 
-method (CM) measurements for each analyte, see 6.D.iii for study size.  Sensitivity (or 
-positive percent agreement) for each analyte can be evaluated using well defined 
-retrospective archived specimens.  Developers should include a detailed description of 
-how the retrospective specimens were collected and curated.  This information should 
-include how specimens are identified, specimen characterization (including methods 
-used to determine positivity), and storage conditions of the specimens while archived.  
-All possible biases in retrospective specimens should be discussed.  It is critical that 
-the highest quality archived specimens are selected for use in this part of the study.  
-Section 6.D.iii discusses the number of specimens for each part of the study. 
-Clinical evaluation of your device should be conducted using specimens from the 
-intended use patient populations.  Specifically, specimens from patients with the signs 
-and symptoms of infection for which the device is indicated should be used to evaluate 
-the performance for the claimed specimen type and organisms included on the 
-multiplex assay menu.  The clinical specimens, either prospective or archived, should 
-be collected from clinical sites in different geographical locations representative of 
-United States (U.S.) demographics. If positive clinical specimens are not available in 
-the U.S., then the use of specimens from outside of the U.S. is warranted.  However, 
-discussion with the FDA before pursuing the inclusion of these specimens in
+be used in studies to demonstrate the robustness of the system design.  Multiple operators should be included in studies if there is significant manual manipulation of specimens and/or reagents. Rationale should be provided for the sample size tested based on the power involved in detecting a specified defect rate.  Target levels tested should reflect the upper end of the spectrum of anticipated clinical loads associated with the analyte(s) in question and should include a testing pattern that included negative specimens to evaluate potential carry over.
+vii. Stability Studies
+You should describe your study design for determining the real-time stability of the reagents and instruments, and if applicable, a description of stress test conditions and results.  For each study, you should describe your acceptance criteria values and how you selected them.
+### C. Instrumentation and Software
+Instrumentation for clinical multiplex test systems is regulated under 21 CFR 862.2570.
+Guidance for such instrumentation is available in the guidance entitled “Class II Special
+Controls Guidance Document: Instrumentation for Clinical Multiplex Test Systems” found at http://www.fda.gov/downloads/MedicalDevices/DeviceRegulationandGuidance/GuidanceDoc uments/UCM071061.pdf.  If the multiplexed assay uses instrumentation for clinical multiplex test systems and obtains FDA clearance, the instrumentation for clinical multiplex systems will be cleared for use with the assays included in the device.  Simultaneous clearance of the assay and the instrumentation can be accomplished by either (1) the sponsor of the assay submitting the information for both the assay and the instrumentation for clinical multiplex systems within one 510(k) or (2) the instrument manufacturer simultaneously submitting a separate 510(k) for the instrumentation for clinical multiplex systems by itself.  The amount of information required for clearance of the instrument depends on whether the instrument has been previously cleared for a similar intended use, and whether there are software modifications to accommodate the new assay(s).
 
----
+If your system includes software, you should submit software information detailed in accordance with the level of concern.  More information can be found in the document entitled “Guidance for the Content of Premarket Submissions for Software Contained in Medical Devices” found at http://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/uc m089543.htm.  You should determine the level of concern prior to the mitigation of hazards.
+In vitro diagnostic devices of this type are typically considered a moderate level of concern because software flaws could indirectly affect the patient and potentially result in injury due to inaccurate information.
+For any device that uses a proprietary database to define the outcome of a signal generated by their device we recommend that the quality criteria for establishing the accuracy of reference databases as well as the methods for curating, maintaining, and updating the databases be included in your submission.
 
-<!-- Page 25 -->
-Contains Nonbinding Recommendations 
-recommended.  In specialized cases of localized outbreaks, FDA might also consider a 
-single geographic collection site.   
-Evaluation of the clinical specimens with the subject device, both prospectively 
-collected as well as archived specimens, should be carried out using a minimum of 
-three testing sites (one site can be internal), with at least two sites located in the U.S.  
-The testing sites can be independent from the collection sites.  
-Prospective specimens as well as archived positive specimens should be randomly 
-distributed to the testing sites.  The application of CM testing can be done at a single 
-reference site.  Comparator methods should be FDA cleared or approved devices, if 
-available, and the use of appropriate cleared or approved multiplexed devices is 
-recommended.  When FDA cleared or approved devices are not available, a composite 
-reference method (e.g., two well-validated amplification based assays followed by bi-
-directional sequencing) could be used.  Information regarding the minimal validation 
-steps for PCR based assays and sequencing criteria is found in Section 6.D.ii and can 
-also be obtained by contacting FDA. 
-For all specimens (prospective and retrospective) used in the clinical evaluation, all 
-relevant clinical and laboratory information available should be collected, including 
-collection and testing date and time, if available.  For prospective specimens, the 
-minimum clinical information collected should be patient age (To show the degree to 
-which the data is representative of the children, adults, and the geriatric user 
-population).  Additional relevant clinical information (e.g., days since onset of 
-symptoms, sex, patient population (i.e., outpatient, ER, hospitalized, immuno-
-compromised), collection and testing date/time, signs and symptoms and indications 
-for testing, and any medications taken or administered) may be needed to further 
-define the study population.    The need for additional relevant clinical information is 
-dependent primarily upon the proposed indications for use of the test device.  The 
-clinical information appropriate for consideration may vary with the study group of 
-interest. 
-In your pre-market submission, the developer should submit a copy of the protocol of 
-each clinical study (including the inclusion and exclusion criteria, anticipated levels of 
-sensitivities (positive percent agreements) and specificities (negative percent 
-agreements, acceptance criteria), and a description of how the studies support the 
-proposed intended use.  We recommend that you include specimens from each age 
-group in your clinical studies and present the data demonstrating the performance of 
-your test stratified by age (e.g., ≤5, 6-21, 22-59, 60 years old and above) in addition to 
-the overall data summary table.  Furthermore, information regarding the archived 
-specimens should be provided including methods used for the selection of appropriate 
-archived specimens and information regarding measures taken to identify and mitigate 
-any selection biases in the study set, etc.  We encourage you to contact FDA to request 
-a review of your proposed studies. 
-The device sponsor should assure that a high quality clinical study is performed 
-through site/clinical monitoring of the study.  This should include performance of "on 
-site" monitoring of individual case histories, to assess adherence to the protocol, 
-22
 
----
 
-<!-- Page 26 -->
-Contains Nonbinding Recommendations 
- 
-ensure the ongoing implementation of appropriate data entry and quality control 
-procedures, and in general assess adherence to good clinical practices. 
-For further information regarding the conduct of clinical evaluations, human subject 
-protection, and the use of leftover specimens, please see the two following FDA 
-guidance documents entitled: 
-· “Guidance on Informed Consent for In Vitro Diagnostic Device Studies Using 
-Leftover Human Specimens that are Not Individually Identifiable” found at 
-http://www.fda.gov/downloads/RegulatoryInformation/Guidances/ucm127033
-.pdf  
-· “In Vitro Diagnostic (IVD) Device Studies -Frequently Asked Questions” 
-found at 
-http://www.fda.gov/downloads/MedicalDevices/DeviceRegulationandGuidanc
-e/GuidanceDocuments/UCM071230.pdf  
-ii.  Comparator Methods 
-23 
- 
-You should compare your assay’s performance to FDA cleared or approved devices.  
-For pathogens that do not have an FDA cleared/approved device for comparison, a 
-composite (multi-test) reference method (using a predetermined algorithm that 
-combines results of multiple tests) can be used as a CM.  This method should include a 
-separate well-characterized nucleic acid amplification method (e.g., PCR) followed by 
-bidirectional sequencing.  The nucleic acid amplification method used in the 
-composite reference method should be targeted to different genomic regions (i.e., 
-incorporate different targets) from the specific regions probed by the subject device.  
-You should provide published literature or laboratory data in your submission in 
-support of the method used for amplification.  We recommend that you perform the 
-sequencing reaction on both strands of the amplicon (bidirectional sequencing) and 
-demonstrate that the generated sequence is at least 200 base pairs of an acceptable 
-quality (e.g., a quality score of 20 or higher as measured by PHRED or similar 
-software packages) and that it matches the reference or consensus sequence.  
-Information regarding the validation steps for PCR based assays and sequencing 
-criteria could be obtained by contacting FDA.  Briefly, the analytical performances of 
-the well validated PCR-based assays for comparison followed by sequencing analysis 
-reference assays should be established by performing analytical sensitivity (LoD) and 
-reactivity studies as described previously in the guidance.  Literature and/or other 
-validation data for establishing and describing the performances of the nucleic acid 
-amplification test (NAAT) followed by sequencing analysis comparator method 
-should be evaluated prior to clinical testing. You should submit to the FDA validation 
-data from literature to justify your selection of primers for the NAAT followed by 
-sequencing analysis reference assays. This information is important to demonstrate 
-that the reference assays target conserved regions of pathogen(s) of interest genome 
-and react broadly to capture strain diversity.  As a part of the pre-market application, 
-primer sequences, target region of the genome, BLAST results, and sequence 
-alignments, should also be submitted to the FDA for review. Appropriate controls,
+Below are additional references to help you develop and maintain your device under good software life cycle practices consistent with FDA regulations.
+- The guidance entitled “General Principles of Software Validation” found at http://www.fda.gov/medicaldevices/deviceregulationandguidance/guidancedocum ents/ucm085281.htm · The guidance entitled “Guidance for Off-the-Shelf Software Use in Medical Devices” found at http://www.fda.gov/downloads/MedicalDevices/DeviceRegulationandGuidance/G uidanceDocuments/ucm07377
+- The guidance entitled “Guidance for the Content of Premarket Submissions for Software Contained in Medical Devices” found at http://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/GuidanceDoc uments/ucm089543.htm · 21 CFR 820.30 Subpart C – Design Controls of the Quality System Regulation.
+- ISO 14971-1; Medical devices - Risk management - Part 1: Application of risk analysis.
+- AAMI SW68:2001; Medical device software-Software lifecycle processes."
+ANSI/AAMI/IEC 62304:2006- Medical device software - Software life cycle processes and Clinical Performance Studies i.  Clinical Study Design
+Clinical validation of highly multiplexed devices should be performed using a study that is separated into two parts.  The clinical evaluation will determine the specificity (or negative percent agreement) through a prospective study of a minimum of 1500 patients enrolled with the signs and symptoms of infection for which the device is indicated, using a randomized evaluation with a specific number of comparator method (CM) measurements for each analyte, see 6.D.iii for study size.  Sensitivity (or positive percent agreement) for each analyte can be evaluated using well defined retrospective archived specimens.  Developers should include a detailed description of how the retrospective specimens were collected and curated.  This information should include how specimens are identified, specimen characterization (including methods used to determine positivity), and storage conditions of the specimens while archived.
+All possible biases in retrospective specimens should be discussed.  It is critical that the highest quality archived specimens are selected for use in this part of the study.
+Section 6.D.iii discusses the number of specimens for each part of the study.
+Clinical evaluation of your device should be conducted using specimens from the intended use patient populations.  Specifically, specimens from patients with the signs and symptoms of infection for which the device is indicated should be used to evaluate the performance for the claimed specimen type and organisms included on the multiplex assay menu.  The clinical specimens, either prospective or archived, should be collected from clinical sites in different geographical locations representative of
+United States (U.S.) demographics. If positive clinical specimens are not available in the U.S., then the use of specimens from outside of the U.S. is warranted.  However, discussion with the FDA before pursuing the inclusion of these specimens in
 
----
 
-<!-- Page 27 -->
-Contains Nonbinding Recommendations 
- 
-including a positive control that has a low genomic copy number of the pathogen, a 
-negative control, and an independent inhibition control measure, should be 
-incorporated into each NAAT followed by sequencing analysis reference assays. 
-iii. Clinical Evaluation - Study Size and Data Analysis 
-24 
- 
-Evaluation of Negative Percent Agreement 
-Evaluation of negative percent agreement should take place using prospectively 
-collected specimens and analysis at a minimum of three clinical testing sites, two of 
-which should be in the U.S.  Patient enrollment in the study should be based on signs 
-and symptoms and meet any additional inclusion criteria for the study.  In general, the 
-use of healthy donors is not acceptable; however, in some circumstances they may be 
-appropriate and we encourage developers to contact the FDA to discuss when these 
-types of specimens are appropriate.  For this study, 1500 prospective samples, from 
-the intended use population, should be collected and analyzed by the subject device in 
-order to obtain sufficient statistical power for FDA to make a substantial equivalence 
-determination.  Depending on the number of organisms and specimen types to be used 
-with multiplexed devices, the following approach should be considered for evaluation 
-with the CM’s.  
-If specimen volume becomes prohibitive to run all comparator tests, then a clearly 
-defined randomized approach should be taken such that a minimum of 100 of each 
-CM for each analyte would be analyzed.  In addition, provisions should be made so 
-that an adequate number of specimens can be analyzed for Select Agents in order to 
-meet the specificity performance criteria.  Using the example of a 20-plex device 
-where each CM needs equal test volumes and allows five CM tests, the first specimen 
-could be tested with comparative methods (CM1, CM2, CM3, CM4, CM5), the 
-second specimen tested with CMs as (CM6, CM7, CM8, CM9, CM10) and so on. 
-After testing four specimens, each CM would have been applied one time.  After 
-testing the first four specimens, a new array of integer numbers from 1 to 20 in a 
-random order could be generated and the next four specimens could be tested with 
-comparative methods according to this new array.  Developers should power the study 
-to establish clinical specificity with a point estimate and lower bound of the 95% CI to 
-exceed a level that has been agreed upon through FDA feedback.  For Select Agents4, 
-clinical specificity would be demonstrated to achieve a point estimate 99.9% with a 
-lower bound of the 95% CI greater than 99%.   
-Also note, for each specimen from the prospective study that has positive results by 
-the subject multiplexed device for a pathogen, this specimen will also require testing 
-by the corresponding CM.  Information about CM results that were driven by a 
-positive result from the HMMD would not be used directly in calculation of sensitivity 
-and specificity as it introduces bias into estimation of the multiplexed device 
-performance.  However, this information is useful to understand the overall 
-performance of the HMMD, especially in terms of co-detections, and should be 
-presented in a separate table.  Comparative performance of the specificity of the 
-                                                 
-4 For clarification of pathogens considered to be Select Agents please see the National Select Agent Registry, 
-http://www.selectagents.gov/select%20agents%20and%20Toxins%20list.html
+recommended.  In specialized cases of localized outbreaks, FDA might also consider a single geographic collection site.
+Evaluation of the clinical specimens with the subject device, both prospectively collected as well as archived specimens, should be carried out using a minimum of three testing sites (one site can be internal), with at least two sites located in the U.S.
+The testing sites can be independent from the collection sites.
+Prospective specimens as well as archived positive specimens should be randomly distributed to the testing sites.  The application of CM testing can be done at a single reference site.  Comparator methods should be FDA cleared or approved devices, if available, and the use of appropriate cleared or approved multiplexed devices is recommended.  When FDA cleared or approved devices are not available, a composite reference method (e.g., two well-validated amplification based assays followed by bidirectional sequencing) could be used.  Information regarding the minimal validation steps for PCR based assays and sequencing criteria is found in Section 6.D.ii and can also be obtained by contacting FDA.
+For all specimens (prospective and retrospective) used in the clinical evaluation, all relevant clinical and laboratory information available should be collected, including collection and testing date and time, if available.  For prospective specimens, the minimum clinical information collected should be patient age (To show the degree to which the data is representative of the children, adults, and the geriatric user population).  Additional relevant clinical information (e.g., days since onset of symptoms, sex, patient population (i.e., outpatient, ER, hospitalized, immunocompromised), collection and testing date/time, signs and symptoms and indications for testing, and any medications taken or administered) may be needed to further define the study population.    The need for additional relevant clinical information is dependent primarily upon the proposed indications for use of the test device.  The clinical information appropriate for consideration may vary with the study group of interest.
+In your pre-market submission, the developer should submit a copy of the protocol of each clinical study (including the inclusion and exclusion criteria, anticipated levels of sensitivities (positive percent agreements) and specificities (negative percent agreements, acceptance criteria), and a description of how the studies support the proposed intended use.  We recommend that you include specimens from each age group in your clinical studies and present the data demonstrating the performance of your test stratified by age (e.g., ≤5, 6-21, 22-59, 60 years old and above) in addition to the overall data summary table.  Furthermore, information regarding the archived specimens should be provided including methods used for the selection of appropriate archived specimens and information regarding measures taken to identify and mitigate any selection biases in the study set, etc.  We encourage you to contact FDA to request a review of your proposed studies.
+The device sponsor should assure that a high quality clinical study is performed through site/clinical monitoring of the study.  This should include performance of "on site" monitoring of individual case histories, to assess adherence to the protocol, ensure the ongoing implementation of appropriate data entry and quality control procedures, and in general assess adherence to good clinical practices.
+For further information regarding the conduct of clinical evaluations, human subject protection, and the use of leftover specimens, please see the two following FDA guidance documents entitled: · “Guidance on Informed Consent for In Vitro Diagnostic Device Studies Using
+Leftover Human Specimens that are Not Individually Identifiable” found at http://www.fda.gov/downloads/RegulatoryInformation/Guidances/ucm127033
+.pdf · “In Vitro Diagnostic (IVD) Device Studies -Frequently Asked Questions” found at http://www.fda.gov/downloads/MedicalDevices/DeviceRegulationandGuidanc e/GuidanceDocuments/UCM071230.pdf ii.  Comparator Methods
+You should compare your assay’s performance to FDA cleared or approved devices.
+For pathogens that do not have an FDA cleared/approved device for comparison, a composite (multi-test) reference method (using a predetermined algorithm that combines results of multiple tests) can be used as a CM.  This method should include a separate well-characterized nucleic acid amplification method (e.g., PCR) followed by bidirectional sequencing.  The nucleic acid amplification method used in the composite reference method should be targeted to different genomic regions (i.e., incorporate different targets) from the specific regions probed by the subject device.
+You should provide published literature or laboratory data in your submission in support of the method used for amplification.  We recommend that you perform the sequencing reaction on both strands of the amplicon (bidirectional sequencing) and demonstrate that the generated sequence is at least 200 base pairs of an acceptable quality (e.g., a quality score of 20 or higher as measured by PHRED or similar software packages) and that it matches the reference or consensus sequence.
+Information regarding the validation steps for PCR based assays and sequencing criteria could be obtained by contacting FDA.  Briefly, the analytical performances of the well validated PCR-based assays for comparison followed by sequencing analysis reference assays should be established by performing analytical sensitivity (LoD) and reactivity studies as described previously in the guidance.  Literature and/or other validation data for establishing and describing the performances of the nucleic acid amplification test (NAAT) followed by sequencing analysis comparator method should be evaluated prior to clinical testing. You should submit to the FDA validation data from literature to justify your selection of primers for the NAAT followed by sequencing analysis reference assays. This information is important to demonstrate that the reference assays target conserved regions of pathogen(s) of interest genome and react broadly to capture strain diversity.  As a part of the pre-market application, primer sequences, target region of the genome, BLAST results, and sequence alignments, should also be submitted to the FDA for review. Appropriate controls,
 
----
 
-<!-- Page 28 -->
-Contains Nonbinding Recommendations 
- 
-HMMD should be established using FDA cleared or approved devices, if available.  
-Use of cleared multiplexed devices, when appropriate, is recommended.  
-When FDA cleared or approved devices are not available or appropriate, a composite 
-reference method could be used.  See section 6.D.ii for further clarification.  
-Evaluation of Positive Percent Agreement 
-The analysis will include a minimum of 50 positive specimens (as determined by the 
-CM) per claimed organism.  The number of positive specimens for each pathogen to 
-include will be driven by the point estimate of positive percent agreement and the 
-lower bound of the 95% two-sided confidence interval.  These values can vary, 
-depending on the intended use of the device, and would require discussions with the 
-FDA to determine the appropriate clinical sensitivity levels for each pathogen of the 
-multiplexed device.   
-For example, a multiplexed device with an assay menu composed of upper respiratory 
-organisms would include a sufficient number of archived/retrospective specimens for 
-each claimed analyte to generate a result with at least 90% positive percent agreement 
-with a lower bound of the two-sided 95% confidence interval (CI) greater than 80%.  
-Assuming a point estimate of 90.2% is achieved; a minimum of 61 positive specimens 
-(55/61) will need to be included to surpass the indicated lower bound of the 95% CI of 
-greater than 80%.  Indeed, for 61 specimens, 55 out of 61 yields a point estimate of 
-90.2% with 95% CI: 80.2% to 95.4%.  However, using the example of 60 specimens, 
-with a performance of 54 out of 60 yielding a point estimate of 90.0%, the CI does not 
-meet the minimum performance bar with 95% CI being 79.9% to 95.3%.   
-All positive archived/retrospective specimens (as determined by the method prior to 
-banking the specimens) will be analyzed with the corresponding CM and the subject 
-device.  Verification by the CM is imperative to ensure that specimens were properly 
-archived, no specimen degradation occurred during storage, and that the specimens are 
-properly identified; thus, any specimens that are not confirmed as positive by the CM 
-should not be included in the performance determination.  However, results from the 
-subject device testing the unconfirmed specimens should be included in a separate 
-table.  Additionally, any positive determination for any other pathogen by the HMMD 
-should also be verified by the CM as this provides additional information about 
-multiplexed device performance, especially in cases of potential co-infection. 
-Alternative approaches to confirming the positivity of specimens can be considered; 
-however, we would encourage discussion with the FDA before executing the study.  
-Retrospective positive specimens should be the same specimen type as listed in the 
-intended use of the device, and have been collected from the appropriate intended use 
-population.  The specimens selected for inclusion in this study should represent the 
-clinically relevant range of concentrations for the particular pathogen.  In cases where 
-extracted nucleic acids from positive clinical specimens have been archived, they can 
-be considered for inclusion in the analysis provided that the appropriate intended use 
-population was used, the indicated specimen type was collected and processed using 
-the indicated pre-analytical steps, and confirmation by the corresponding CM was 
-done.   
-25
 
----
+including a positive control that has a low genomic copy number of the pathogen, a negative control, and an independent inhibition control measure, should be incorporated into each NAAT followed by sequencing analysis reference assays.
+iii. Clinical Evaluation - Study Size and Data Analysis Evaluation of Negative Percent Agreement
+Evaluation of negative percent agreement should take place using prospectively collected specimens and analysis at a minimum of three clinical testing sites, two of which should be in the U.S.  Patient enrollment in the study should be based on signs and symptoms and meet any additional inclusion criteria for the study.  In general, the use of healthy donors is not acceptable; however, in some circumstances they may be appropriate and we encourage developers to contact the FDA to discuss when these types of specimens are appropriate.  For this study, 1500 prospective samples, from the intended use population, should be collected and analyzed by the subject device in order to obtain sufficient statistical power for FDA to make a substantial equivalence determination.  Depending on the number of organisms and specimen types to be used with multiplexed devices, the following approach should be considered for evaluation with the CM’s.
+If specimen volume becomes prohibitive to run all comparator tests, then a clearly defined randomized approach should be taken such that a minimum of 100 of each CM for each analyte would be analyzed.  In addition, provisions should be made so that an adequate number of specimens can be analyzed for Select Agents in order to meet the specificity performance criteria.  Using the example of a 20-plex device where each CM needs equal test volumes and allows five CM tests, the first specimen could be tested with comparative methods (CM1, CM2, CM3, CM4, CM5), the second specimen tested with CMs as (CM6, CM7, CM8, CM9, CM10) and so on.
+After testing four specimens, each CM would have been applied one time.  After testing the first four specimens, a new array of integer numbers from 1 to 20 in a random order could be generated and the next four specimens could be tested with comparative methods according to this new array.  Developers should power the study to establish clinical specificity with a point estimate and lower bound of the 95% CI to exceed a level that has been agreed upon through FDA feedback.  For Select Agents4, clinical specificity would be demonstrated to achieve a point estimate 99.9% with a lower bound of the 95% CI greater than 99%.
+Also note, for each specimen from the prospective study that has positive results by the subject multiplexed device for a pathogen, this specimen will also require testing by the corresponding CM.  Information about CM results that were driven by a positive result from the HMMD would not be used directly in calculation of sensitivity and specificity as it introduces bias into estimation of the multiplexed device performance.  However, this information is useful to understand the overall performance of the HMMD, especially in terms of co-detections, and should be presented in a separate table.  Comparative performance of the specificity of the
 
-<!-- Page 29 -->
-Contains Nonbinding Recommendations 
- 
-We recognize that actual clinical human specimens, archived or otherwise, may not be 
-readily available for biothreat pathogens.  The use of mock clinical specimens, 
-prepared by spiking cultured pathogen into individual negative clinical specimens may 
-be used.  For this analysis, 50% of the spiked specimens would be made at the LoD 
-concentration, while the remaining 50% would span the expected clinical range of 
-pathogen concentrations.  For non-biothreat pathogens with extremely low prevalence, 
-mock specimens should reflect the relevant clinical range.  Justification of the 
-expected clinical range through peer-reviewed literature references or feedback from 
-subject matter experts should be provided by the developers for each specimen type 
-indicated.  Given the restrictions associated with the handling of many of the biothreat 
-pathogens, arrangements to validate the clinical performance at qualified institutions 
-with the capability to conduct the proper studies should be made.  For biothreat 
-pathogens, due to the logistical issues with this facet of the positive percent agreement 
-validation, analysis can be conducted at a single site.  Alternatively, if the biothreat 
-pathogen does not involve a special facility, a multiple testing site approach can be 
-used to evaluate positive percent agreement, and the archived specimens (positive and 
-negative) should be randomly distributed evenly among three testing sites for analysis.   
-Prior to conducting any studies using mock specimens, you should consult the FDA 
-for feedback.  Your protocols should include a detailed test plan and justification.  
-26 
- 
-  
-iv. Data Presentation  
-You should present positive percent agreement (PPA) and negative percent agreement 
-(NPA) (with 95% CI) separately for each pathogen identified by the HMMD.  Also, 
-you should present: 
-· The results of your test for the specimens that have co-infections as obtained 
-by the reference method.  Note:  This information may not be available for 
-some of the prospective specimens due to prohibitive specimen volume. 
-· The results of the CM for the specimens that have co-infections as obtained by 
-the HMMD. 
-· The results for CM measurements that were driven by a positive result from 
-the subject multiplex device.  
-All specimens in the clinical study should be tested with the HMMD as described in 
-the instructions for use of your device.  For example, if specimens with initial 
-indeterminate or invalid results are re-tested according to the instruction for use for the 
-HMMD then the final result obtained from the indicated testing procedure for these 
-specimens should be used in your statistical analysis.  For the specimens in your 
-clinical study, you should provide the percent of re-tested specimens because of initial 
-indeterminate results (if applicable) and the percent of re-tested specimens because of 
-initial invalid results (if applicable).  In addition, you should present the percent of 
-final invalid and final indeterminate results (if applicable) for each.  
-You should provide numerical result distributions of the HMMD for all prospectively 
-collected fresh, prospectively collected archived, and banked pre-selected specimens 
-shown separately, for each pathogen and for all pathogens combined.
+4 For clarification of pathogens considered to be Select Agents please see the National Select Agent Registry, http://www.selectagents.gov/select%20agents%20and%20Toxins%20list.html
 
----
 
-<!-- Page 30 -->
-Contains Nonbinding Recommendations 
- 
-v. Study Specimens/ Specimen Types 
-27 
- 
-You should use clinical specimens from all specimen types and matrices you claim in 
-your intended use to demonstrate that correct results can be obtained from clinical 
-material.  For specimens you use in your clinical studies, you should provide data 
-demonstrating that storage and transport of any banked specimens have not affected 
-assay results as well as the methods used to bank the specimen as positive for a 
-specific analyte.  If you have questions regarding the choice of appropriate specimen 
-type(s) as well as specimen types that can be pooled, please contact the FDA. 
-7. Post Market Analysis 
-The potential for performance erosion over time for certain pathogens, especially those that 
-are known to have a relatively high rate of mutation, is a significant concern for HMMDs.  
-HMMDs are subject to the quality system regulation described in 21 CFR Part 820.  As 
-part of the quality system a developer should monitor the performance of their devices in 
-the intended use environment and through their Corrective and Preventive Actions 
-program.   If a mutation occurs that compromises device performance characteristics that 
-were used in the premarket evaluation for clearance of the HMMD, we strongly 
-recommend that the developer contact the FDA for further guidance to modify the existing 
-device.  The validations studies for the modified device and the performance of the 
-modified device will vary depending on the type of change.    
-8. Device Modification 
-The following information provided is meant to clearly define a pathway to incorporate 
-new targets on an existing device in response to public health needs or an emergency 
-situation and to ensure that performance characteristics of a cleared device are consistent 
-over time.  Addition of a new analyte to a multiplex panel will result in a new intended use, 
-and thus will require the submission of a traditional 510(k) in accordance with 21 CFR 
-Subpart E.  Since many studies have been conducted to establish the performance of the 
-previously cleared device and we presume that the assay’s performance has not changed, 
-only a subset of the evaluations would need to be repeated. 
-In cases where the inclusion of additional targets to address a public health need or 
-emergency is necessary, the studies to substantiate performance will focus primarily on the 
-additional analyte.  It is important to highlight that certain types of evaluations may not 
-need to be considered when adding a new analyte or modifying a device, including stability 
-studies and the evaluation of carry-over and cross-contamination.  Additionally, the scope 
-of the reproducibility study and clinical evaluation would be focused on the new/modified 
-analyte and a representative panel for performance confirmation.   For any device 
-modification we recommend obtaining FDA feedback regarding the necessary studies to 
-validate the modification.
 
----
+HMMD should be established using FDA cleared or approved devices, if available.
+Use of cleared multiplexed devices, when appropriate, is recommended.
+When FDA cleared or approved devices are not available or appropriate, a composite reference method could be used.  See section 6.D.ii for further clarification.
+Evaluation of Positive Percent Agreement
+The analysis will include a minimum of 50 positive specimens (as determined by the CM) per claimed organism.  The number of positive specimens for each pathogen to include will be driven by the point estimate of positive percent agreement and the lower bound of the 95% two-sided confidence interval.  These values can vary, depending on the intended use of the device, and would require discussions with the
+FDA to determine the appropriate clinical sensitivity levels for each pathogen of the multiplexed device.
+For example, a multiplexed device with an assay menu composed of upper respiratory organisms would include a sufficient number of archived/retrospective specimens for each claimed analyte to generate a result with at least 90% positive percent agreement with a lower bound of the two-sided 95% confidence interval (CI) greater than 80%.
+Assuming a point estimate of 90.2% is achieved; a minimum of 61 positive specimens (55/61) will need to be included to surpass the indicated lower bound of the 95% CI of greater than 80%.  Indeed, for 61 specimens, 55 out of 61 yields a point estimate of 90.2% with 95% CI: 80.2% to 95.4%.  However, using the example of 60 specimens, with a performance of 54 out of 60 yielding a point estimate of 90.0%, the CI does not meet the minimum performance bar with 95% CI being 79.9% to 95.3%.
+All positive archived/retrospective specimens (as determined by the method prior to banking the specimens) will be analyzed with the corresponding CM and the subject device.  Verification by the CM is imperative to ensure that specimens were properly archived, no specimen degradation occurred during storage, and that the specimens are properly identified; thus, any specimens that are not confirmed as positive by the CM should not be included in the performance determination.  However, results from the subject device testing the unconfirmed specimens should be included in a separate table.  Additionally, any positive determination for any other pathogen by the HMMD should also be verified by the CM as this provides additional information about multiplexed device performance, especially in cases of potential co-infection.
+Alternative approaches to confirming the positivity of specimens can be considered; however, we would encourage discussion with the FDA before executing the study.
+Retrospective positive specimens should be the same specimen type as listed in the intended use of the device, and have been collected from the appropriate intended use population.  The specimens selected for inclusion in this study should represent the clinically relevant range of concentrations for the particular pathogen.  In cases where extracted nucleic acids from positive clinical specimens have been archived, they can be considered for inclusion in the analysis provided that the appropriate intended use population was used, the indicated specimen type was collected and processed using the indicated pre-analytical steps, and confirmation by the corresponding CM was done.
+We recognize that actual clinical human specimens, archived or otherwise, may not be readily available for biothreat pathogens.  The use of mock clinical specimens, prepared by spiking cultured pathogen into individual negative clinical specimens may be used.  For this analysis, 50% of the spiked specimens would be made at the LoD concentration, while the remaining 50% would span the expected clinical range of pathogen concentrations.  For non-biothreat pathogens with extremely low prevalence, mock specimens should reflect the relevant clinical range.  Justification of the expected clinical range through peer-reviewed literature references or feedback from subject matter experts should be provided by the developers for each specimen type indicated.  Given the restrictions associated with the handling of many of the biothreat pathogens, arrangements to validate the clinical performance at qualified institutions with the capability to conduct the proper studies should be made.  For biothreat pathogens, due to the logistical issues with this facet of the positive percent agreement validation, analysis can be conducted at a single site.  Alternatively, if the biothreat pathogen does not involve a special facility, a multiple testing site approach can be used to evaluate positive percent agreement, and the archived specimens (positive and negative) should be randomly distributed evenly among three testing sites for analysis.
+Prior to conducting any studies using mock specimens, you should consult the FDA for feedback.  Your protocols should include a detailed test plan and justification.
+iv. Data Presentation
+You should present positive percent agreement (PPA) and negative percent agreement (NPA) (with 95% CI) separately for each pathogen identified by the HMMD.  Also, you should present: · The results of your test for the specimens that have co-infections as obtained by the reference method.  Note:  This information may not be available for some of the prospective specimens due to prohibitive specimen volume.
+- The results of the CM for the specimens that have co-infections as obtained by the HMMD.
+- The results for CM measurements that were driven by a positive result from the subject multiplex device.
+All specimens in the clinical study should be tested with the HMMD as described in the instructions for use of your device.  For example, if specimens with initial indeterminate or invalid results are re-tested according to the instruction for use for the HMMD then the final result obtained from the indicated testing procedure for these specimens should be used in your statistical analysis.  For the specimens in your clinical study, you should provide the percent of re-tested specimens because of initial indeterminate results (if applicable) and the percent of re-tested specimens because of initial invalid results (if applicable).  In addition, you should present the percent of final invalid and final indeterminate results (if applicable) for each.
+You should provide numerical result distributions of the HMMD for all prospectively collected fresh, prospectively collected archived, and banked pre-selected specimens shown separately, for each pathogen and for all pathogens combined.
 
-<!-- Page 31 -->
-Contains Nonbinding Recommendations 
- 
-A.  Limit of Detection 
-A LoD study using the recommendations found in section 6.B.i of this guidance should 
-be followed for the new analyte.  Briefly, confirmation of 95% positivity using a 
-minimum of 20 replicates, including all pre-analytical steps, would be done.  In 
-addition, a confirmation that performance for previously cleared analytes has not 
-changed in the new assay format (i.e., with the new analyte).  For the confirmation 
-study, a dilution series to bracket LoD concentration with three to five extraction 
-replicates per concentration testing only a representative subset of previously cleared 
-analytes.  These specimens should be run on both the modified assay and the cleared 
-assay.  The selection of representative analytes used in the conformation study should be 
-justified by the developer.   
-B.  Analytical Reactivity 
-Evaluation of reactivity should be done for the new analyte.  This evaluation should be 
-based on the recommendations provided in section of 6.B.ii; however, the study should 
-focus on the new analyte only. 
-C.  Cross-Reactivity 
-Evaluation of cross-reactivity should be done for the new analyte.  This evaluation 
-should be based on the recommendations provided in section of 6.B.iii, however, the 
-focus should be placed on the new analyte only. 
-D.  Competitive Interference By Analytes /Interference By Other Microorganisms 
-Evaluation of competitive interference and interference from other microbes should be 
-done for the new analyte.  This evaluation should be based on the recommendations 
-provided in section of 6.B.iii.b and 6.B.iii.c.  The evaluation of competitive inhibition 
-should only include relevant co-infections that include the new analyte. 
-E.  Precision (Repeatability/Reproducibility)  
-Evaluation of reproducibility/repeatability should be done using a single site, which can 
-be in-house, using three different instruments.  The evaluation should include the new 
-analyte and a subset of the previously cleared analytes.  Developers should provide 
-justification for the representative panel selected for this evaluation and are encouraged 
-to consider the LoDs and types of targets when designing the test panel.  See section 
-6.B.v. for appropriate test levels.  
-F.  Limited Clinical Evaluation 
-A limited clinical evaluation should demonstrate the performance of the new analyte and 
-reaffirm the clinical performance of the previously cleared analytes.  Evaluation of 
-device performance with clinical specimens can be done using a single test site and can 
-be done in house.  Positive clinical specimens can be either prospectively collected or 
-can be archived clinical specimens as described in section 6.D.iii.  Comparator testing 
-for the new analyte should be done as described in section 6.D.ii.  For the rest of the 
-28
 
----
 
-<!-- Page 32 -->
-Contains Nonbinding Recommendations 
- 
-analytes, you can perform an evaluation of the cleared device (i.e., device without new 
-analyte) and the modified version compared head-to-head using a representative panel 
-of analytes.  The test panel should be justified and include sufficient specimens to 
-achieve the performance criteria addressed in section 6.B.iii for sensitivity and 
-specificity.  If there are stored residual specimens or extracted nucleic acids from the 
-evaluation of the cleared device (i.e., prior to modification with new analyte) it is 
-recommended that they are utilized for this part of the evaluation.  If a sufficient number 
-of specimens are not available, then additional retrospective specimens can also be used 
-for the comparative evaluation.  
+v. Study Specimens/ Specimen Types
+You should use clinical specimens from all specimen types and matrices you claim in your intended use to demonstrate that correct results can be obtained from clinical material.  For specimens you use in your clinical studies, you should provide data demonstrating that storage and transport of any banked specimens have not affected assay results as well as the methods used to bank the specimen as positive for a specific analyte.  If you have questions regarding the choice of appropriate specimen type(s) as well as specimen types that can be pooled, please contact the FDA.
+7. Post Market Analysis
+The potential for performance erosion over time for certain pathogens, especially those that are known to have a relatively high rate of mutation, is a significant concern for HMMDs.
+HMMDs are subject to the quality system regulation described in 21 CFR Part 820.  As part of the quality system a developer should monitor the performance of their devices in the intended use environment and through their Corrective and Preventive Actions program.   If a mutation occurs that compromises device performance characteristics that were used in the premarket evaluation for clearance of the HMMD, we strongly recommend that the developer contact the FDA for further guidance to modify the existing device.  The validations studies for the modified device and the performance of the modified device will vary depending on the type of change.
+8. Device Modification
+The following information provided is meant to clearly define a pathway to incorporate new targets on an existing device in response to public health needs or an emergency situation and to ensure that performance characteristics of a cleared device are consistent over time.  Addition of a new analyte to a multiplex panel will result in a new intended use, and thus will require the submission of a traditional 510(k) in accordance with 21 CFR
+Subpart E.  Since many studies have been conducted to establish the performance of the previously cleared device and we presume that the assay’s performance has not changed, only a subset of the evaluations would need to be repeated.
+In cases where the inclusion of additional targets to address a public health need or emergency is necessary, the studies to substantiate performance will focus primarily on the additional analyte.  It is important to highlight that certain types of evaluations may not need to be considered when adding a new analyte or modifying a device, including stability studies and the evaluation of carry-over and cross-contamination.  Additionally, the scope of the reproducibility study and clinical evaluation would be focused on the new/modified analyte and a representative panel for performance confirmation.   For any device modification we recommend obtaining FDA feedback regarding the necessary studies to validate the modification.
+
+
+
+### A. Limit of Detection
+A LoD study using the recommendations found in section 6.B.i of this guidance should be followed for the new analyte.  Briefly, confirmation of 95% positivity using a minimum of 20 replicates, including all pre-analytical steps, would be done.  In addition, a confirmation that performance for previously cleared analytes has not changed in the new assay format (i.e., with the new analyte).  For the confirmation study, a dilution series to bracket LoD concentration with three to five extraction replicates per concentration testing only a representative subset of previously cleared analytes.  These specimens should be run on both the modified assay and the cleared assay.  The selection of representative analytes used in the conformation study should be justified by the developer.
+### B. Analytical Reactivity
+Evaluation of reactivity should be done for the new analyte.  This evaluation should be based on the recommendations provided in section of 6.B.ii; however, the study should focus on the new analyte only.
+### C. Cross-Reactivity
+Evaluation of cross-reactivity should be done for the new analyte.  This evaluation should be based on the recommendations provided in section of 6.B.iii, however, the focus should be placed on the new analyte only.
+### D. Competitive Interference By Analytes /Interference By Other Microorganisms
+Evaluation of competitive interference and interference from other microbes should be done for the new analyte.  This evaluation should be based on the recommendations provided in section of 6.B.iii.b and 6.B.iii.c.  The evaluation of competitive inhibition should only include relevant co-infections that include the new analyte.
+### E. Precision (Repeatability/Reproducibility)
+Evaluation of reproducibility/repeatability should be done using a single site, which can be in-house, using three different instruments.  The evaluation should include the new analyte and a subset of the previously cleared analytes.  Developers should provide justification for the representative panel selected for this evaluation and are encouraged to consider the LoDs and types of targets when designing the test panel.  See section 6.B.v. for appropriate test levels.
+### F. Limited Clinical Evaluation
+A limited clinical evaluation should demonstrate the performance of the new analyte and reaffirm the clinical performance of the previously cleared analytes.  Evaluation of device performance with clinical specimens can be done using a single test site and can be done in house.  Positive clinical specimens can be either prospectively collected or can be archived clinical specimens as described in section 6.D.iii.  Comparator testing for the new analyte should be done as described in section 6.D.ii.  For the rest of the analytes, you can perform an evaluation of the cleared device (i.e., device without new analyte) and the modified version compared head-to-head using a representative panel of analytes.  The test panel should be justified and include sufficient specimens to achieve the performance criteria addressed in section 6.B.iii for sensitivity and specificity.  If there are stored residual specimens or extracted nucleic acids from the evaluation of the cleared device (i.e., prior to modification with new analyte) it is recommended that they are utilized for this part of the evaluation.  If a sufficient number of specimens are not available, then additional retrospective specimens can also be used for the comparative evaluation.
 29

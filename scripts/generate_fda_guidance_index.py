@@ -291,15 +291,13 @@ def main():
 
     has_fulltext = {}
     wrote_pages = 0
-    skipped_preserve = 0
     for e in entries:
         slug = e.get("slug") or ""
         ft = fulltext_body(e)
         has_fulltext[e.get("id")] = bool(ft.strip())
         out = DOCS_EN / "guidance" / f"{slug}.md"
-        if slug in PRESERVE_SLUGS and out.exists() and not args.dry_run:
-            skipped_preserve += 1
-            continue
+        # Always regenerate EN pages from cleaned fulltext (duplicate H1 /
+        # rejoined paragraphs). PRESERVE_SLUGS still drives the ZH index list.
         page = render_en_page(e, ft)
         if args.dry_run:
             wrote_pages += 1
@@ -311,12 +309,12 @@ def main():
     en_index = render_en_index(entries, has_fulltext)
     zh_index = render_zh_index(entries)
     if args.dry_run:
-        print(f"  [DRY] Would write {wrote_pages} EN pages, skip {skipped_preserve} preserved")
+        print(f"  [DRY] Would write {wrote_pages} EN pages")
         print(f"  [DRY] Would write docs/en/fda/guidance.md and docs/zh/fda/guidance.md")
     else:
         (DOCS_EN / "guidance.md").write_text(en_index, encoding="utf-8")
         (DOCS_ZH / "guidance.md").write_text(zh_index, encoding="utf-8")
-        print(f"  Wrote {wrote_pages} EN pages, preserved {skipped_preserve} existing")
+        print(f"  Wrote {wrote_pages} EN pages")
         print("  Wrote docs/en/fda/guidance.md")
         print("  Wrote docs/zh/fda/guidance.md (pointer)")
 

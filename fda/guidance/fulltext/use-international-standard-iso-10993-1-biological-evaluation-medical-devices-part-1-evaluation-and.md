@@ -4,3394 +4,594 @@
 
 **Published:** 2023-09-08
 
----
-
-<!-- Page 1 -->
-On February 2, 2024, FDA published the final rule to amend the Quality System (QS) regulation 
-in 21 CFR part 820 (89 FR 7496, effective February 2, 2026). The revised 21 CFR part 820 is 
-now titled the Quality Management System Regulation (QMSR). The QMSR harmonizes quality 
-management system requirements by incorporating by reference the international standard 
-specific for medical device quality management systems set by the International Organization for 
-Standardization (ISO), ISO 13485:2016. The FDA has determined that the requirements in ISO 
-13485 are, when taken in totality, substantially similar to the requirements of the QS regulation, 
-providing a similar level of assurance in a firm’s quality management system and ability to 
-consistently manufacture devices that are safe and effective and otherwise in compliance with 
-the Federal Food, Drug, and Cosmetic Act (FD&C Act).
-This guidance document was issued prior to the effective date of the final rule. FDA encourages 
-manufacturers to review the current QMSR to ensure compliance with the relevant regulatory 
-requirements.
 
 ---
 
-<!-- Page 2 -->
-Contains Nonbinding Recommendations
-Use of International Standard ISO 
-10993-1, "Biological evaluation of 
-medical devices - Part 1: Evaluation 
-and testing within a risk management 
-process"
-Guidance for Industry and Food and 
-Drug Administration Staff
-    
-Document issued on: September 8, 2023.
-The draft of this document was issued on October 15, 2020.
-This document supersedes “Use of International Standard ISO 10993-1, 
-"Biological evaluation of medical devices - Part 1: Evaluation and testing 
-within a risk management process"” dated September 4, 2020.
-For questions about this document regarding CDRH-regulated devices, contact the Office of 
-Product Evaluation and Quality (OPEQ)/Clinical and Scientific Policy Staff at 
-CDRH.Biocomp@fda.hhs.gov or 301-796-5701. For questions about this document regarding 
-CBER-regulated devices, contact the Office of Communication, Outreach and Development 
-(OCOD) at 1-800-835-4709 or 240-402-8010, or by email at ocod@fda.hhs.gov.
-U.S. Department of Health and Human Services
-Food and Drug Administration
-Center for Devices and Radiological Health
-Center for Biologics Evaluation and Research
+On February 2, 2024, FDA published the final rule to amend the Quality System (QS) regulation in 21 CFR part 820 (89 FR 7496, effective February 2, 2026). The revised 21 CFR part 820 is now titled the Quality Management System Regulation (QMSR). The QMSR harmonizes quality management system requirements by incorporating by reference the international standard specific for medical device quality management systems set by the International Organization for
+Standardization (ISO), ISO 13485:2016. The FDA has determined that the requirements in ISO 13485 are, when taken in totality, substantially similar to the requirements of the QS regulation, providing a similar level of assurance in a firm’s quality management system and ability to consistently manufacture devices that are safe and effective and otherwise in compliance with the Federal Food, Drug, and Cosmetic Act (FD&C Act).
+This guidance document was issued prior to the effective date of the final rule. FDA encourages manufacturers to review the current QMSR to ensure compliance with the relevant regulatory requirements.
 
----
 
-<!-- Page 3 -->
-Contains Nonbinding Recommendations
-Preface
-Public Comment 
-You may submit electronic comments and suggestions at any time for Agency consideration to 
-https://www.regulations.gov. Submit written comments to the Dockets Management Staff, Food 
-and Drug Administration, 5630 Fishers Lane, Room 1061, (HFA-305), Rockville, MD 20852-
-1740. Identify all comments with the docket number FDA-2013-D-0350. Comments may not be 
-acted upon by the Agency until the document is next revised or updated.
-Additional Copies
-CDRH
-Additional copies are available from the Internet. You may also send an e-mail request to
-CDRH-Guidance@fda.hhs.gov to receive a copy of the guidance. Please include the document 
-number GUI00001811 and complete title of the guidance in the request.
-CBER
-Additional copies are available from the Center for Biologics Evaluation and Research (CBER), 
-Office of Communication, Outreach, and Development (OCOD), 10903 New Hampshire Ave., 
-WO71, Room 3128, Silver Spring, MD 20903-0002, or by calling 1-800-835-4709 or 240-402-
-8010, by email, ocod@fda.hhs.gov, or from the Internet at 
-https://www.fda.gov/vaccines-blood-biologics/guidance-compliance-regulatory-information-
-biologics.
+Use of International Standard ISO 10993-1, "Biological evaluation of medical devices - Part 1: Evaluation and testing within a risk management process"
 
----
-
-<!-- Page 4 -->
-Contains Nonbinding Recommendations
-Table of Contents
-I. 
-Introduction ......................................................................................................................... 1
-II. 
-Scope ................................................................................................................................... 2
-III. 
-Risk Management for Biocompatibility Evaluations .......................................................... 6
-A. 
-Risk Assessment of the Medical Device ................................................................... 6
-B. 
-Identification of Potential Risks................................................................................ 7
-C. 
-Considering Available Information to Identify and Mitigate Risks ......................... 9
-D. 
-Submission and Interpretation ................................................................................ 13
-IV. 
-ISO 10993 - Part 1 and the FDA-Modified Matrix........................................................... 14
-A. 
-Evaluation of Local and Systemic Risks ................................................................ 15
-B. 
-FDA Use of ISO 10993-1 ....................................................................................... 16
-C. 
-The FDA-Modified Matrix ..................................................................................... 18
-D. 
-Endpoint Assessment .............................................................................................. 19
-V. 
-General Biocompatibility Testing Considerations ............................................................ 20
-A. 
-Use of Medical Device in Final Finished Form or Representative Test Article ..... 20
-B. 
-Testing of In Situ Polymerizing and/or Absorbable Materials ............................... 20
-C. 
-Biological Response Resulting from Device Mechanical Failure .......................... 21
-D. 
-Submicron or Nanotechnology Components .......................................................... 22
-E. 
-Test Article Preparation for Extract Testing ........................................................... 23
-F. 
-Inclusion of Multiple Components or Materials in a Single Test Article ............... 24
-VI. 
-Test-Specific Considerations ............................................................................................ 25
-A. 
-Cytotoxicity............................................................................................................. 25
-B. 
-Sensitization ............................................................................................................ 25
-C. 
-Hemocompatibility ................................................................................................. 28
-D. 
-Pyrogenicity ............................................................................................................ 32
-E. 
-Implantation ............................................................................................................ 33
-F. 
-Genotoxicity ............................................................................................................ 34
-G. 
-Carcinogenicity ....................................................................................................... 36
-H. 
-Reproductive and Developmental Toxicity ............................................................ 38
-I. 
-Degradation Assessments ....................................................................................... 39
-VII. 
-Chemical Assessment ....................................................................................................... 39
-VIII. 
-Labeling Devices as “-Free” ............................................................................................. 43
-Attachment A: Evaluation Endpoints for Consideration .............................................................. 44
-Attachment B: Device Master Files for Biocompatibility Evaluations ........................................ 46
-Attachment C: Summary Biocompatibility Documentation ......................................................... 48
-Attachment D: Biocompatibility Evaluation Flow Chart ............................................................. 50
-Attachment E: Contents of a Test Report ..................................................................................... 52
-Attachment F: Component and Device Documentation Examples .............................................. 54
-A. 
-Component Documentation .................................................................................... 54
-B. 
-Device Documentation............................................................................................ 54
-C. 
-New Processing/Sterilization Changes ................................................................... 55
-D. 
-Formulation Changes .............................................................................................. 55
-
----
-
-<!-- Page 5 -->
-Contains Nonbinding Recommendations
-Attachment G: Biocompatibility of Certain Devices in Contact with Intact Skin ........................ 57
-A. 
-Which Types of Devices are Included? .................................................................. 58
-B. 
-What Materials Are Included? ................................................................................ 59
-C. 
-What Devices or Materials are Excluded? .............................................................. 60
-D. 
-What Biocompatibility Information Should be Included in a Premarket 
-Submission? ............................................................................................................ 61
-E. 
-What is FDA’s Recommended Content and Format for Certain Labeling 
-Information Related to This Policy? ...................................................................... 63
-Attachment H: Glossary ................................................................................................................ 64
-
----
-
-<!-- Page 6 -->
-Contains Nonbinding Recommendations
-1
-Use of International Standard ISO 
-10993-1, "Biological evaluation of 
-medical devices - Part 1: Evaluation 
-and testing within a risk management 
-process"
-Guidance for Industry and Food and 
-Drug Administration Staff
-This guidance represents the current thinking of the Food and Drug Administration (FDA or 
-Agency) on this topic. It does not establish any rights for any person and is not binding on 
-FDA or the public. You can use an alternative approach if it satisfies the requirements of the 
-applicable statutes and regulations. To discuss an alternative approach, contact the FDA staff 
-or Office responsible for this guidance as listed on the title page. 
-I.
-Introduction 
-FDA has developed this guidance document to assist industry in preparing Premarket 
-Applications (PMAs), Humanitarian Device Exceptions (HDEs), Investigational Device 
-Exemption (IDE) Applications, Premarket Notifications (510(k)s), and De Novo requests for 
-medical devices that come into direct contact or indirect contact with the human body1 in order 
-to determine the potential for an unacceptable adverse biological response resulting from contact 
-of the component materials of the device with the body. The purpose of this guidance is to 
-provide further clarification and updated information on the use of International Standard ISO 
-10993-1, "Biological evaluation of medical devices - Part 1: Evaluation and testing within a risk 
-management process" to support applications to FDA. This guidance document also incorporates 
-several considerations, including the use of risk-based approaches to determine if 
-biocompatibility testing is needed, chemical assessment recommendations, and recommendations 
-1 For the purposes of this document, the term “human body” refers to either patient tissues or the clinical 
-practitioner. For example, masks or gloves intended for protective purposes by clinical practitioners should be 
-assessed for biocompatibility. Similarly, medical devices such as implants or skin electrodes also should be assessed 
-for biocompatibility.
-
----
-
-<!-- Page 7 -->
-Contains Nonbinding Recommendations
-2
-for biocompatibility test article preparation for devices with submicron or nanotechnology 
-components and for devices made from in situ polymerizing and/or absorbable materials.
-When assessing new devices, the sponsor should specifically state if the device does not have 
-any direct or indirect tissue contact,2 and no further biocompatibility information would be 
-needed.
-When assessing device modifications, the sponsor should specifically state if the modification 
-does not result in a change to any direct or indirect tissue-contacting components, and no further 
-biocompatibility information would typically be needed. However, if the change could affect 
-other parts of the device with direct or indirect contact that were not changed, a biocompatibility 
-evaluation should be conducted to assess the potential impact of the change. For example, if a 
-new non-contact internal component is added, but it requires the application of heat in order to 
-join to another component that has patient contact, the patient-contacting component may be 
-impacted by the application of heat such that biocompatibility could be impacted, and should be 
-assessed.
-For the current edition of the FDA-recognized consensus standard(s) referenced in this 
-document, see the FDA Recognized Consensus Standards Database.3
-Throughout this guidance document, the terms “we,” “us,” and “our” refer to FDA staff. “You” 
-and “your” refers to the sponsor.
-In general, FDA's guidance documents do not establish legally enforceable responsibilities. 
-Instead, guidances describe the Agency's current thinking on a topic and should be viewed only 
-as recommendations, unless specific regulatory or statutory requirements are cited. The use of 
-the word should in Agency guidances means that something is suggested or recommended, but 
-not required.
-II.
-Scope 
-The scope of this document and accompanying attachments is limited to the biological 
-evaluation of sterile and non-sterile medical devices that come into direct or indirect contact 
-with the human body. This document specifically covers the use of ISO 10993-1 but also is 
-2 For non-contact devices, there is no direct or indirect contact with the body (e.g., stand alone software), so it would 
-be sufficient for the biocompatibility evaluation to confirm that there are no direct or indirect tissue contacting 
-components, and no further biocompatibility information is needed. However, for devices with transient contact, 
-assessment of biocompatibility risk should be conducted to determine if testing is needed.
-3 Available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfStandards/search.cfm
-
----
-
-<!-- Page 8 -->
-Contains Nonbinding Recommendations
-3
-relevant to other biocompatibility standards (e.g., other parts of the ISO4 10993 series of 
-standards, ASTM,5 ICH,6 OECD,7 USP8).
-This document discusses the following topics: 
-·
-use of risk assessments for biocompatibility evaluations for a proposed medical device;
-·
-use of ISO 10993-1 and the FDA-modified matrix (Attachment A) to determine the 
-relevant biocompatibility endpoints for an evaluation;
-·
-general biocompatibility testing considerations, including test article preparation;
-·
-specific considerations for the following testing: cytotoxicity, sensitization, 
-hemocompatibility, pyrogenicity, implantation, genotoxicity, carcinogenicity, 
-reproductive and developmental toxicity, and degradation assessments;
-·
-chemical assessment recommendations;9 and
-·
-considerations for labeling devices as “-free.”
-In addition, this guidance includes the following attachments that are intended to serve as 
-resources:
-·
-Attachment B: Device Master Files (MAFs) for Biocompatibility Evaluations, which 
-includes information that we recommend including in an MAF;
-·
-Attachment C: Summary Biocompatibility Documentation, which includes an example 
-table that we recommend using to summarize the biocompatibility information used to 
-support a submission;
-·
-Attachment D: Biocompatibility Evaluation Flow Chart, which illustrates how to 
-proceed with a biocompatibility evaluation;
-·
-Attachment E: Content of a Biocompatibility Test Report, which includes the 
-recommended contents of a test report;
-4 ISO stands for International Organization for Standardization, an international standards development 
-organization. See http://www.iso.org/iso/home.html for more information.
-5 ASTM stands for American Society for Testing and Materials, an international standards development 
-organization. See http://www.astm.org/ABOUT/overview.html for more information.
-6 ICH stands for International Conference on Harmonisation, an international standards development organization. 
+This guidance represents the current thinking of the Food and Drug Administration (FDA or Agency) on this topic. It does not establish any rights for any person and is not binding on
+FDA or the public. You can use an alternative approach if it satisfies the requirements of the applicable statutes and regulations. To discuss an alternative approach, contact the FDA staff or Office responsible for this guidance as listed on the title page.
+## I. Introduction
+FDA has developed this guidance document to assist industry in preparing Premarket
+Applications (PMAs), Humanitarian Device Exceptions (HDEs), Investigational Device
+Exemption (IDE) Applications, Premarket Notifications (510(k)s), and De Novo requests for medical devices that come into direct contact or indirect contact with the human body1 in order to determine the potential for an unacceptable adverse biological response resulting from contact of the component materials of the device with the body. The purpose of this guidance is to provide further clarification and updated information on the use of International Standard ISO 10993-1, "Biological evaluation of medical devices - Part 1: Evaluation and testing within a risk management process" to support applications to FDA. This guidance document also incorporates several considerations, including the use of risk-based approaches to determine if biocompatibility testing is needed, chemical assessment recommendations, and recommendations
+When assessing new devices, the sponsor should specifically state if the device does not have any direct or indirect tissue contact,2 and no further biocompatibility information would be needed.
+When assessing device modifications, the sponsor should specifically state if the modification does not result in a change to any direct or indirect tissue-contacting components, and no further biocompatibility information would typically be needed. However, if the change could affect other parts of the device with direct or indirect contact that were not changed, a biocompatibility evaluation should be conducted to assess the potential impact of the change. For example, if a new non-contact internal component is added, but it requires the application of heat in order to join to another component that has patient contact, the patient-contacting component may be impacted by the application of heat such that biocompatibility could be impacted, and should be assessed.
+For the current edition of the FDA-recognized consensus standard(s) referenced in this document, see the FDA Recognized Consensus Standards Database.3
+Throughout this guidance document, the terms “we,” “us,” and “our” refer to FDA staff. “You” and “your” refers to the sponsor.
+In general, FDA's guidance documents do not establish legally enforceable responsibilities.
+Instead, guidances describe the Agency's current thinking on a topic and should be viewed only as recommendations, unless specific regulatory or statutory requirements are cited. The use of the word should in Agency guidances means that something is suggested or recommended, but not required.
+## II. Scope
+The scope of this document and accompanying attachments is limited to the biological evaluation of sterile and non-sterile medical devices that come into direct or indirect contact with the human body. This document specifically covers the use of ISO 10993-1 but also is 2 For non-contact devices, there is no direct or indirect contact with the body (e.g., stand alone software), so it would be sufficient for the biocompatibility evaluation to confirm that there are no direct or indirect tissue contacting components, and no further biocompatibility information is needed. However, for devices with transient contact, assessment of biocompatibility risk should be conducted to determine if testing is needed.
+This document discusses the following topics: ·
+use of risk assessments for biocompatibility evaluations for a proposed medical device; · use of ISO 10993-1 and the FDA-modified matrix (Attachment A) to determine the relevant biocompatibility endpoints for an evaluation; · general biocompatibility testing considerations, including test article preparation; · specific considerations for the following testing: cytotoxicity, sensitization, hemocompatibility, pyrogenicity, implantation, genotoxicity, carcinogenicity, reproductive and developmental toxicity, and degradation assessments; · chemical assessment recommendations;9 and · considerations for labeling devices as “-free.”
+In addition, this guidance includes the following attachments that are intended to serve as resources: - Attachment B: Device Master Files (MAFs) for Biocompatibility Evaluations, which includes information that we recommend including in an MAF; - Attachment C: Summary Biocompatibility Documentation, which includes an example table that we recommend using to summarize the biocompatibility information used to support a submission; - Attachment D: Biocompatibility Evaluation Flow Chart, which illustrates how to proceed with a biocompatibility evaluation; - Attachment E: Content of a Biocompatibility Test Report, which includes the recommended contents of a test report; 5 ASTM stands for American Society for Testing and Materials, an international standards development organization. See http://www.astm.org/ABOUT/overview.html for more information.
+6 ICH stands for International Conference on Harmonisation, an international standards development organization.
 See http://www.ich.org/about/vision.html for more information.
-7 OECD stands for Organisation for Economic Co-operation and Development, an international standards 
-development organization. See http://www.oecd.org/ for more information.
-8 USP stands for U.S. Pharmacopeial Convention, a United States standards development organization. See 
-http://www.usp.org/about for more information. 
-9 All issues specific to the evaluation of color additives in medical devices included in the draft version of this 
-guidance were removed, and the intent is for these items to be addressed in a separate guidance document.
-
----
-
-<!-- Page 9 -->
-Contains Nonbinding Recommendations
-4
-·
-Attachment F: Component and Device Documentation Examples, which outlines 
-example documentation language that we recommend using when comparing the 
-composition of a test article to the composition of a finished medical device or in 
-comparing the composition of a previously legally marketed device to the composition 
-of a current device; 10
-·
-Attachment G: Biocompatibility of Certain Devices in Contact with Intact Skin, which 
-describes the recommended submission contents for devices in contact with intact skin 
-that are fabricated from common polymers and fabrics; and
-·
-Attachment H: Glossary, which includes terms and definitions used in this guidance.
-If there are other FDA-recognized consensus standards11 that address biocompatibility issues for 
-particular types of devices (e.g., ISO 7405 Dentistry – Evaluation of biocompatibility of medical 
-devices used in dentistry), the recommendations in the more device-specific standard should be 
-followed. In some cases, such as for dental devices, the biocompatibility recommendations in the 
-device-specific standard should be used instead of the recommendations outlined in ISO 10993-
-1. In contrast, some device-specific guidances include recommendations regarding 
-biocompatibility evaluations, that should be considered in conjunction with ISO 10993-1. For 
-example, the FDA guidance “Content of Premarket Notifications for Conventional and High 
-Permeability Hemodialyzers”12 specifies that subcomponent testing is recommended due to the 
-high surface area of the membrane component of a hemodialyzer, and testing of the complete 
-device is only recommended if “the extraction conditions (i.e., volume of solvent used per 
-surface area of test article) are more rigorous than those recommended in ISO 10993.” In this 
-case, if biocompatibility testing of a hemodialyzer is conducted on the final device, FDA 
-recommends that the hemodialyzer be filled to capacity with the solvent, resulting in a much 
-higher surface area to extract volume ratio, as compared to recommendations from ISO 10993-12 
-Biological evaluation of medical devices – Part 12: Sample preparation and reference materials. 
-However, if non-membrane components are tested separately, then use of ISO 10993-12 
-recommendations for test article preparation would apply.
-Note that if your product is a combination product with a device constituent part,13 the general 
-principles of this guidance would apply, although additional or modified testing may14 be 
-needed. For example, sample preparation of biologic-device combination products may be 
-dependent on the type of product and the endpoint being assessed, and such detailed guidance 
-specific to biocompatibility evaluation of combination products are not within the scope of this 
-document. As such, we encourage you to discuss combination products with the appropriate 
-10 For the purposes of this guidance, “legally marketed devices” are limited to devices marketed in the US.
-11 Refer to FDA’s “Appropriate Use of Voluntary Consensus Standards in Premarket Submissions for Medical 
-Devices: Guidance for Industry and Food and Drug Administration Staff” available at 
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/appropriate-use-voluntary-consensus-
-standards-premarket-submissions-medical-devices for information regarding the recognition and use of national and 
-international consensus standards during the evaluation of premarket submissions for medical devices. 
-12 Available at https://www.fda.gov/medical-devices/guidance-documents-medical-devices-and-radiation-emitting-
-products/content-premarket-notifications-conventional-and-high-permeability-hemodialyzers-guidance-industry  
+7 OECD stands for Organisation for Economic Co-operation and Development, an international standards development organization. See http://www.oecd.org/ for more information.
+8 USP stands for U.S. Pharmacopeial Convention, a United States standards development organization. See http://www.usp.org/about for more information.
+9 All issues specific to the evaluation of color additives in medical devices included in the draft version of this guidance were removed, and the intent is for these items to be addressed in a separate guidance document.
+- Attachment F: Component and Device Documentation Examples, which outlines example documentation language that we recommend using when comparing the composition of a test article to the composition of a finished medical device or in comparing the composition of a previously legally marketed device to the composition of a current device; 10
+- Attachment G: Biocompatibility of Certain Devices in Contact with Intact Skin, which describes the recommended submission contents for devices in contact with intact skin that are fabricated from common polymers and fabrics; and - Attachment H: Glossary, which includes terms and definitions used in this guidance.
+If there are other FDA-recognized consensus standards11 that address biocompatibility issues for particular types of devices (e.g., ISO 7405 Dentistry – Evaluation of biocompatibility of medical devices used in dentistry), the recommendations in the more device-specific standard should be followed. In some cases, such as for dental devices, the biocompatibility recommendations in the device-specific standard should be used instead of the recommendations outlined in ISO 10993-
+1. In contrast, some device-specific guidances include recommendations regarding
+biocompatibility evaluations, that should be considered in conjunction with ISO 10993-1. For example, the FDA guidance “Content of Premarket Notifications for Conventional and High
+Permeability Hemodialyzers”12 specifies that subcomponent testing is recommended due to the high surface area of the membrane component of a hemodialyzer, and testing of the complete device is only recommended if “the extraction conditions (i.e., volume of solvent used per surface area of test article) are more rigorous than those recommended in ISO 10993.” In this case, if biocompatibility testing of a hemodialyzer is conducted on the final device, FDA recommends that the hemodialyzer be filled to capacity with the solvent, resulting in a much higher surface area to extract volume ratio, as compared to recommendations from ISO 10993-12
+Biological evaluation of medical devices – Part 12: Sample preparation and reference materials.
+However, if non-membrane components are tested separately, then use of ISO 10993-12 recommendations for test article preparation would apply.
+Note that if your product is a combination product with a device constituent part,13 the general principles of this guidance would apply, although additional or modified testing may14 be needed. For example, sample preparation of biologic-device combination products may be dependent on the type of product and the endpoint being assessed, and such detailed guidance specific to biocompatibility evaluation of combination products are not within the scope of this document. As such, we encourage you to discuss combination products with the appropriate 11 Refer to FDA’s “Appropriate Use of Voluntary Consensus Standards in Premarket Submissions for Medical Devices: Guidance for Industry and Food and Drug Administration Staff” available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/appropriate-use-voluntary-consensusstandards-premarket-submissions-medical-devices for information regarding the recognition and use of national and international consensus standards during the evaluation of premarket submissions for medical devices.
 13 Please refer to 21 CFR 3.2(e) for the definition of a combination product.
-14 The term “may” is used here and throughout the document to indicate that the final determination on whether 
-additional information should be provided will depend on the specifics of the final device under consideration.
+Center and review division who will initiate proper consultation on combination product-specific biocompatibility concerns as appropriate.15
+We also recognize that an ISO standard is a document that undergoes periodic review and is subject to revision. Through the FDA standards recognition process, we provide information regarding the extent of recognition of the ISO 10993 series of standards and other biocompatibility standards through Supplemental Information Sheets published on the FDA website.16 Unless testing is conducted under the Accreditation Scheme for Conformity
+Assessment (ASCA) program and it is determined that an ASCA Summary Test Report is sufficient,17 FDA recommends that complete test reports be provided for all tests performed because the ISO 10993 series of standards include general methods with multiple options, and in some cases do not include acceptance criteria or address assessment of results.18 Therefore, when a declaration of conformity is submitted for an FDA-recognized standard in the ISO 10993 series, a copy of the supplemental information used to support the declaration (e.g., a copy of the study test report as described in Attachment E) should also be provided.19 FDA intends to make updates to this guidance document as appropriate, should future revisions to ISO 10993-1 or other FDA recognized biocompatibility standards result in significant changes to the recommendations in this document.
 
----
+Sponsors are advised to initiate discussions with the appropriate Center and review division prior to the initiation of long-term testing of any new device to ensure that, if testing is needed, the proper testing will be conducted.
+Feedback on Combination Products” available at https://www.fda.gov/regulatory-information/search-fda-guidancedocuments/requesting-fda-feedback-combination-products Sheet.
+17 Refer to FDA’s “Biocompatibility Testing of Medical Devices – Standards Specific Information for the
+Accreditation Scheme for Conformity Assessment (ASCA) Pilot Program” available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/biocompatibility-testing-medicaldevices-standards-specific-information-accreditation-scheme for information regarding ASCA biocompatibility summary test reports.
+18 In the case of Abbreviated 510(k)s, a summary of the methods often is needed to ensure that the test was conducted in the same way as for a predicate device, and that the same evaluation criteria were used. If it is easier for the sponsor to submit a copy of the test report, which is not required by FDA, this would be acceptable. For
+Special 510(k)s, refer to the guidance “The Special 510(k) Program” available at https://www.fda.gov/regulatoryinformation/search-fda-guidance-documents/special-510k-program for more information about FDA’s recommended biocompatibility information that should be included.
+19 Refer to FDA’s “Appropriate Use of Voluntary Consensus Standards in Premarket Submissions for Medical Devices: Guidance for Industry and Food and Drug Administration Staff” for information regarding the recognition and use of national and international consensus standards, including declarations of conformity to these standards, during the evaluation of premarket submissions for medical devices.
+## III. Risk Management for Biocompatibility Evaluations
+As stated in ISO 10993-1, the biological evaluation of a medical device (or a material component of such) should be conducted within the framework of a risk management process. Such a process should generally begin with assessment of the device, including the material components, the manufacturing processes, the clinical use of the device including the intended anatomical location, and the frequency and duration of exposure. Considering this information, the potential risks from a biocompatibility perspective should be identified. Such risks might include chemical toxicity, unacceptable biological response to physical characteristics of the device, and aspects of manufacturing and processing that could alter the physicochemical characteristics of the device, which could lead to changes in the biocompatibility response. Once the risks have been identified, the sponsor should assess what information is already available regarding those risks and identify the knowledge gaps that remain. Considering the potential biological impact, a plan should be developed to address the knowledge gaps either by biocompatibility testing or other evaluations that appropriately address the risks. The interpretation of the overall biocompatibility evaluation should be considered in the appropriate benefit-risk context.
+### A. Risk Assessment of the Medical Device
+The risk assessment should evaluate the final finished device. The Agency makes a clearance or approval decision for a medical device as it is supplied in its final finished form. The Agency does not clear or approve individual materials that are used in the fabrication of medical devices. Therefore, the risk assessment should evaluate not only the materials used in the device, but also the processing of the materials, the manufacturing methods (including the sterilization process), and any residuals from manufacturing aids used during the process.20
+The risk assessment should also consider the proposed clinical use of the device, including the anatomical location, duration of exposure, and intended use population. For example, for pediatric patients with a limited life expectancy, the tolerance for risk associated with a permanently implanted medical device may be higher than the tolerance for risk from the same device in an otherwise healthy pediatric population. The potential exposure duration should also consider which material components of the device have direct or indirect contact with tissue, and whether exposure would be a one-time exposure, a constant exposure over time, or an intermittent exposure over time that could have a cumulative effect. For example, pacemaker pulse generators commonly contain internal electronic components made from chemicals that could be toxic to the body, but appropriate bench testing can demonstrate that the pulse generator is hermetically sealed and will limit exposure of those chemicals to the surrounding tissues.
+### B. Identification of Potential Risks
+An assessment of potential biocompatibility risk should include not only chemical toxicity, but also physical characteristics that might contribute to an unwanted tissue response. These characteristics can include surface properties, forces on surrounding tissue (e.g., mechanical, thermal, electromagnetic), geometry, and presence of particulates, among others. In addition, changes in manufacturing and processing parameters can also have an impact on biocompatibility. For example, the original processing for an implanted device might include placing the device in an acid bath to facilitate passivation of the implant surface. If this passivation process is changed to eliminate the acid bath in favor of a different method of passivating the surface, removal of the acid bath might unintentionally lead to a smaller reduction in pyrogenic material, which could result in pyrogenic reactions (fever) following implantation of the device.
+Another common change that might impact biocompatibility is a change in resin supplier.
+For example, if the new resin supplier does not remove all processing solvents (some of which may be known toxic compounds, such as formaldehyde), the final manufactured device could cause unexpected toxicities (e.g., cytotoxicity, irritation, sensitization, genotoxicity) that were not seen with devices manufactured from the original resin.
+Sources of information on potential biocompatibility risks can include, but are not limited to, a manufacturer’s previous experience with the same material(s), preferably in the same or similar anatomical location; reported experience from other manufacturers using the same material in the same or similar anatomical location; information provided by the material supplier (e.g., in a master file,21 see Attachment B); chemical or surface analysis of the device in its final finished form; and the published literature. In certain situations, clinical experience, such as postmarket surveillance information, may be informative. For example, for a limited duration, skin-contacting device, patient experience that includes information on potential for irritation or sensitization can be useful to the risk assessment.
+When leveraging data from experience with a particular device for a new device submission to FDA, it is important to understand how the tested device compares to the device under consideration. In general, the more similar the tested device and device under consideration are, including their intended use, the more applicable the risk information is likely to be. For example, for a vascular catheter comprised of a certain polymer, citing experience with the same polymer in a blood-contacting device will be more applicable than experience with a similar polymer in a device that only contacts mucosal membranes. Similarly, experience with device components made using the same formulation and processing (e.g., for devices within a product family) will be more applicable than experience with device components made by a different manufacturer where the formulation and processing are unknown.
+A master file for a material, device component, and/or device may be useful if it includes information on recommended processing of the material or component and any biological 21 Additional information regarding master files for devices is available online at: https://www.fda.gov/medicaldevices/premarket-approval-pma/master-files testing already performed (see Attachment B). A master file should also contain a risk assessment provided by the supplier that includes a discussion of the chemical formulation and structure of the material or component and information on how to evaluate a device made from that material.
+In certain situations, a sponsor may propose to use a material that has known toxicities but where the material could be acceptable for the end use. In this case, the risk assessment should include consideration of the intended use population that will use (e.g., protective mask for clinician) or be treated with the device and a discussion of potential benefits of using the chosen material as well as potential mitigations that have been considered (e.g., hermetically sealing).
+A chemical analysis of the materials used in a device in its final finished form can be informative. Chemical analysis can be particularly helpful to demonstrate that chemical toxicity testing from a previously cleared or approved medical device is relevant to a device under review by the Agency. For example, in some circumstances, a chemical analysis can demonstrate that the extractables and leachables in a biocompatibility extract have not changed, supporting that additional biocompatibility testing using that type of solvent is not needed. In addition, chemical analyses can be used to assess the toxicological risk of the chemicals that elute from devices. For example, chemical analysis using exhaustive extraction techniques (per ISO 10993-18) can also be helpful to evaluate long-term toxicity endpoints such as potential carcinogens. Extraction techniques could also be used to identify intermediate and final breakdown products in a material that is either synthesized in vivo (e.g., in situ polymerizing materials) or intended to be absorbable (e.g., degradable materials). However, chemical analysis is usually insufficient to identify all of the risks of the device in its final finished form, because it will not consider aspects of the finished device such as surface properties (e.g., rough versus polished surface) or device geometry that could affect the biological response in certain scenarios (e.g., thrombogenicity, implantation). In addition, the outcomes of chemical analyses are often sensitive to the parameters of the test. Extraction solvents should be selected to optimize compatibility with the device materials and provide information on the types of chemicals that are likely to be extracted in clinical use.
+Solvents that swell the polymer, cause the polymer to degrade or dissolve, or interfere with detection of chemicals should be used with caution.
+Finally, there may be potential hazards that are not addressed by available information. In certain cases, such as the addition of a new chemical to a standard formulation, individual toxicity information for the added chemical and starting material may be insufficient due to the potential for chemical interactions between the material and added chemical. Thus, the risk assessment should consider what is known about the additional material, the base material, and potential chemical interactions between the two.
+### C. Considering Available Information to Identify and Mitigate Risks
+In order to reduce unnecessary testing, including animal testing,22 FDA recommends that sponsors consider all available relevant information when conducting their risk assessment. FDA believes that the following information should be included in your risk assessment, if applicable:
+1. Literature and other publicly available information: Sponsors should review all
+available toxicity literature and other publicly available information to determine the toxicity risks for the materials used to manufacture their medical device. If data are not available to evaluate the safety of a compound, then the concept of
+Threshold of Toxicological Concern (TTC)23 can be used to assess some biocompatibility endpoints.
+Sponsors should also review available literature and other publicly available information to identify specific risks associated with the use of their device and possible mitigation measures. For example, literature could inform manufacturers that nitinol passivation of a peripheral stent should be conducted appropriately to ensure that nickel, a chemical with known toxicities, does not leach from the device when implanted. Literature could also be useful in identifying the potential breakdown products of an absorbable device, allowing the sponsor to conduct more focused testing to characterize and analyze these chemicals as a device degrades. Sponsors should be selective in how literature and other publicly available information are used to inform their risk assessment; all available information should be considered in the context of how relevant the information might be to a specific medical device. For example, status of a device material or component as “generally recognized as safe” (GRAS) by FDA as a food additive may or may not be informative for a medical device risk assessment because it may not be appropriate to extrapolate use in food to device-specific tissue contact, such as muscle or circulating blood. In addition, when considering available literature with respect to specific device materials, sponsors should also evaluate whether such information is relevant in light of the manufacturing and processing for the medical device. Similarly, literature or other publicly available information such as clinical data may become less relevant when changes in materials or suppliers occur. Such changes may affect the safety or effectiveness of a medical 22 FDA supports the principles of the “3Rs,” to replace, reduce, and/or refine animal use in testing when feasible.
+We encourage sponsors to consult with us if it they wish to use a non-animal testing method they believe is suitable, adequate, qualified for use with medical devices, and feasible. We will consider if such an alternative method could be assessed for equivalency to an animal test method.
+23 Refer to ICH M7 “Assessment and Control of DNA Reactive (Mutagenic) Impurities in Pharmaceuticals to Limit
+Potential Carcinogenic Risk” available at https://www.fda.gov/regulatory-information/search-fda-guidancedocuments/m7r1-assessment-and-control-dna-reactive-mutagenic-impurities-pharmaceuticals-limit-potential for information on use of the TTC and structure activity relationship (SAR) modeling to address genotoxicity and carcinogenicity issues within a risk management process.
+device and should be considered appropriately in any risk assessment provided to FDA.
+If literature is used in lieu of testing for certain biocompatibility endpoints, the submission should include information on the applicability of the dose, route, and frequency of exposure from the literature report(s) as compared to the proposed device use. In addition, while literature may be appropriate to evaluate certain biocompatibility endpoints, it may not be appropriate for all biocompatibility endpoints. For example, No Observed Adverse Effect Level (NOAEL) and
+Lowest Observed Adverse Effect Level (LOAEL) data should be derived from studies relevant to the endpoint under consideration. For example, NOAELs and LOAELs from a systemic toxicity study can often be used to address acute, subchronic, or chronic system toxicity endpoints, but might not be relevant for genotoxicity, local and systemic carcinogenicity, sensitization, irritation or reproductive toxicity assessments, if these endpoints are not assessed in the studies selected to develop NOAELs or LOAELs. However, NOAEL/LOAEL values developed to consider reproductive toxicity may be used to assess the potential reproductive toxicity of compounds released from devices that are not in direct contact with reproductive tissues.
+2. Clinical experience: Clinical experience should be considered in the overall
+benefit-risk profile for the device where the totality of the data available for the device may inform whether more testing is needed, or if any testing is needed at all. For example, clinical experience may be useful to mitigate problematic findings in an in vitro biocompatibility or in vivo animal study. In other cases, testing to address long-term biocompatibility endpoints (e.g., genotoxicity, chronic toxicity, or carcinogenicity) may not be necessary if the patient’s life expectancy in the intended use population is limited.
 
-<!-- Page 10 -->
-Contains Nonbinding Recommendations
-5
-Center and review division who will initiate proper consultation on combination product-specific 
-biocompatibility concerns as appropriate.15
-We also recognize that an ISO standard is a document that undergoes periodic review and is 
-subject to revision. Through the FDA standards recognition process, we provide information 
-regarding the extent of recognition of the ISO 10993 series of standards and other 
-biocompatibility standards through Supplemental Information Sheets published on the FDA 
-website.16 Unless testing is conducted under the Accreditation Scheme for Conformity 
-Assessment (ASCA) program and it is determined that an ASCA Summary Test Report is 
-sufficient,17 FDA recommends that complete test reports be provided for all tests performed 
-because the ISO 10993 series of standards include general methods with multiple options, and in 
-some cases do not include acceptance criteria or address assessment of results.18 Therefore, when 
-a declaration of conformity is submitted for an FDA-recognized standard in the ISO 10993 
-series, a copy of the supplemental information used to support the declaration (e.g., a copy of the 
-study test report as described in Attachment E) should also be provided.19 FDA intends to make 
-updates to this guidance document as appropriate, should future revisions to ISO 10993-1 or 
-other FDA recognized biocompatibility standards result in significant changes to the 
-recommendations in this document.
-   
-Sponsors are advised to initiate discussions with the appropriate Center and review division prior 
-to the initiation of long-term testing of any new device to ensure that, if testing is needed, the 
-proper testing will be conducted.
-15 For more information regarding combination products, see the FDA combination products website available at 
-https://www.fda.gov/combination-products/guidance-regulatory-information. For additional information regarding 
-ways in which combination product sponsors can obtain feedback from FDA on scientific and regulatory questions 
-and best practices for FDA and sponsors when interacting on these topics, see the guidance “Requesting FDA 
-Feedback on Combination Products” available at https://www.fda.gov/regulatory-information/search-fda-guidance-
-documents/requesting-fda-feedback-combination-products
-16 See FDA’s Database on Recognized Consensus Standards and input “10993-1” for the Supplemental Information 
-Sheet.
-17 Refer to FDA’s “Biocompatibility Testing of Medical Devices – Standards Specific Information for the 
-Accreditation Scheme for Conformity Assessment (ASCA) Pilot Program” available at 
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/biocompatibility-testing-medical-
-devices-standards-specific-information-accreditation-scheme for information regarding ASCA biocompatibility 
-summary test reports.
-18 In the case of Abbreviated 510(k)s, a summary of the methods often is needed to ensure that the test was 
-conducted in the same way as for a predicate device, and that the same evaluation criteria were used. If it is easier 
-for the sponsor to submit a copy of the test report, which is not required by FDA, this would be acceptable. For 
-Special 510(k)s, refer to the guidance “The Special 510(k) Program” available at https://www.fda.gov/regulatory-
-information/search-fda-guidance-documents/special-510k-program for more information about FDA’s 
-recommended biocompatibility information that should be included.
-19 Refer to FDA’s “Appropriate Use of Voluntary Consensus Standards in Premarket Submissions for Medical 
-Devices: Guidance for Industry and Food and Drug Administration Staff” for information regarding the recognition 
-and use of national and international consensus standards, including declarations of conformity to these standards, 
-during the evaluation of premarket submissions for medical devices.
+Generally, clinical studies are not sufficiently sensitive to identify biocompatibility concerns. Clinical or sub-clinical symptoms that result from the presence of a non-biocompatible material may not be identifiable, or may result in symptoms that are indistinguishable from the disease state such that the clinical data may not be informative to the biocompatibility evaluation. For example, blood vessel occlusion at the site of an implanted stent could be indicative of a toxic response to the stent materials or be related to damage to the stent during implantation (e.g., due to operator error or a delivery device malfunction).
+However, in limited circumstances, clinical experience may mitigate certain identified risks. For example, if there is previous clinical experience with a particular medical device (either from a clinical study or via marketing outside of the US), and there have been no issues with anaphylaxis, then biocompatibility testing for complement activation may not be necessary. Similarly, in an
+Investigational Device Exemption (IDE) study, first in human study data may be useful to initiate a study on a revised device design, while biocompatibility evaluations are being completed in parallel, and it may be acceptable to provide complete biocompatibility information once the device design is finalized for commercialization, depending on the risks posed to patients. 24
+Clinical experience may also inform biocompatibility evaluation of next generation devices. For example, some clinical studies of specific absorbable medical devices demonstrated that the absorption kinetics were not accurately predicted by the nonclinical performance (bench or animal) studies. This information has been helpful when evaluating a next generation device using an improved bench model for the absorption of the device, and for assessing how the type and amount of chemicals released with absorption over time might affect biocompatibility.
+However, there are also situations where FDA has not found clinical experience to provide relevant biocompatibility information. For example, providing clinical information that a particular implant material has a long history of use would not typically be sufficient to support the biocompatibility of an implant made from the same material because manufacturing and processing could affect the final chemistry presented to the body. In addition, such information is often too broad and general to be useful.
+3. Animal study experience: Data from an in vivo animal study of the medical device
+in its final finished form may be used in lieu of some biocompatibility tests.
+Testing performed in a relevant animal model can be used if the study was designed to include assessments for biocompatibility endpoints. These studies should evaluate the biological response to the test article implanted in a clinically relevant implantation site. For example, separate biocompatibility assessments for implantation, in vivo thrombogenicity, and acute, subchronic, and chronic toxicity may not be needed if these endpoints were included in the in vivo animal study design with an appropriate study endpoint, and the scientific principles and recommendations in the appropriate ISO 10993 test method were considered and applied.
+If animal study data (e.g., histology, necropsy) identifies adverse biological responses, some additional biocompatibility testing may be warranted. For example, glutaraldehyde-fixed tissue heart valves may show toxic effects in animal studies as well as some standard biocompatibility assays, such as 24 FDA considers biocompatibility information, collectively with other nonclinical information, in the review of
+Early Feasibility Study (EFS) IDE applications and through the review of devices granted Breakthrough designation and determines, through our benefit-risk analysis, what biocompatibility endpoints should be evaluated prior to initiation of clinical studies as well as what evaluations may be appropriately conducted in parallel with clinical data collection. For more information, see “Investigational Device Exemptions (IDEs) for Early Feasibility Medical
+Device Clinical Studies, Including Certain First in Human (FIH) Studies: Guidance for Industry and Food and Drug
+Administration Staff” available at https://www.fda.gov/regulatory-information/search-fda-guidancedocuments/investigational-device-exemptions-ides-early-feasibility-medical-device-clinical-studies-including and “Breakthrough Devices Program: Guidance for Industry and Food and Drug Administration Staff” available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/breakthrough-devices-program cytotoxicity and genotoxicity. These findings would usually trigger the need for additional studies, such as chemical characterization and dose ranging cytotoxicity and genotoxicity studies of suspected chemical toxins released from the device to confirm the cause of the adverse findings and to determine if additional mitigations are needed.
+Animal experience may also inform biocompatibility evaluation of next generation devices. For example, animal study data from the literature regarding absorbable adhesion barriers made of a certain material could provide information related to the timeframe of absorption and potential adverse effects for a new or modified device.
+However, there are also situations where FDA has not found animal data to provide relevant biocompatibility information. For example, data from the literature indicating that a particular implant material is biocompatible may not be sufficient to support the biocompatibility of a device made from the same material because manufacturing and processing likely will affect the final device chemistry presented to the body. Similarly, animal studies designed to assess human factors and studies conducted in animal cadavers would not typically include assessment of biological response, and therefore may not be useful to support a biocompatibility evaluation.
+4. Consensus standards: Consensus standards specific to a particular device type or
+material may be helpful to inform a risk assessment; however, the extent to which the standard could be utilized may be dependent on the specificity of the standard and/or the specific material. Ideally, a standard would have sufficient specificity to provide useful information regarding material risks. For example, standards that outline both mechanical and chemical properties of a device type with pass/fail criteria may be particularly informative to FDA’s review because of the specificity of such a standard. Standards that address bulk material composition can also be informative as a starting point for incorporating material characterization into a risk assessment. For example, it may be appropriate to use material standards to support the biocompatibility evaluation of 316L stainless steel surgical vascular clamps, as long as any risks associated with manufacturing are appropriately considered and mitigated (see Section IV.A). Given the effects that manufacturing and processing may have on a polymer as incorporated into the final finished medical device, use of material standards may not be sufficient to identify biocompatibility risks for devices made from polymers.
+5. Devices previously reviewed by FDA: Experience with medical device materials
+previously reviewed by FDA (e.g., in previous generation devices, PMAapproved devices, predicate devices) are also relevant for consideration as part of a risk assessment. Such information may be more informative when a sponsor is able to leverage their own experience, rather than that from another manufacturer or supplier as the manufacturing and processing of the device material may be unknown. Sponsors should be specific in their risk assessment regarding how devices previously reviewed by FDA are being utilized to identify potential risks and/or mitigate identified risks. Sponsors should be as specific as possible when referencing devices previously reviewed by FDA, including submission numbers or master file numbers, and references to specific test reports or data in a submission (if applicable). Sponsors should also provide a specific comparison of the subject device materials to device materials previously reviewed by FDA. It may be helpful to use the documentation examples provided in Attachment F to provide such a comparison.
+### D. Submission and Interpretation
+FDA recommends that sponsors provide their risk assessment at the beginning of the biocompatibility section in a submission to CDRH or CBER. Based on the considerations outlined above, the sponsor should clearly summarize their conclusions regarding their risk assessment and explain the relationship between the identified biocompatibility risks and the information available to mitigate the identified risks, and identify any knowledge gaps that remain. The sponsor should then identify any biocompatibility testing or other evaluations that were conducted to mitigate any remaining risks.
+The sponsor should also explain any toxicities and adverse effects identified in their biocompatibility testing or other evaluations. As a part of the risk assessment, the sponsor should discuss any other available information (such as the results of in vivo animal studies) that might provide additional context for interpretation. For example, if a device made from polypropylene shows a grade 2 cytotoxicity with L929 cells, which might be acceptable per ISO 10993-5 Biological evaluation of medical devices – Part 5: Tests for in vitro cytotoxicity, the sponsor should provide additional information regarding the potential source of the toxicity, since polypropylene is generally not expected to elicit a cytotoxicity response of this level. Conversely, skin-contacting electrodes with adhesives containing detergents might be expected to have higher than grade 2 cytotoxicity with L929 cells, which could be acceptable if the sponsor is able to confirm that there are no other chemical constituents causing the adverse cytotoxic response. In general, potential toxicities identified through biocompatibility testing should be evaluated considering the intended use of the device and as part of the overall benefit-risk assessment.
+During the biocompatibility evaluation, if chemical characterization testing is conducted per ISO 10993-18 Biological evaluation of medical devices – Part 18: Chemical characterization of medical device materials within a risk management process or ISO/TS 10993-19 Biological evaluation of medical devices – Part 19: Physico-chemical, morphological and topographical characterization of materials, it is important to understand that these standards include only general information regarding multiple analytical techniques and no acceptance criteria. Therefore, to support a declaration of conformity, as a part of the supplemental information used to support the use of these standards, we recommend that a rationale for the selected method(s) and protocols be presented with your results so that FDA can assess whether the information obtained will support the biocompatibility of your device.
+Attachment C provides an example biocompatibility risk assessment summary table, which FDA has generally found useful from a review perspective. Sponsors may find that utilizing this approach and format is helpful when developing their own biocompatibility risk assessment. FDA reviews these risk assessments as part of the overall biocompatibility evaluation to determine whether the risks, mitigations, and biocompatibility testing or other information is appropriate to support the biocompatibility of a medical device. Sponsors may wish to discuss their plan for conducting an appropriate risk assessment with FDA early in their device development process. FDA recommends that sponsors use the Q-Submission process to facilitate these discussions.25 While FDA generally cannot review a detailed risk assessment under the Q-Submission process, it is often helpful to discuss the planned approach for such a risk assessment. Pre-Submissions may be particularly helpful to obtain feedback regarding a risk assessment in the following and other instances: - When developing an in vitro test battery for hemocompatibility to determine whether the validation information being developed might be appropriate for a particular clinical indication; - When determining whether additional biocompatibility evaluations may be needed if questionable or inconclusive findings have occurred in any previously conducted biocompatibility evaluations, or in the event that novel materials are used;26
+- When designing in vivo or ex vivo studies intended to address biocompatibility endpoints; - When designing chemical analysis protocols that use accelerating factors (e.g., heat) to simulate patient exposure to medical device materials over time; - When determining how to prepare absorbable devices for biocompatibility testing (e.g., unpolymerized, pre-polymerized, partially degraded, or fully degraded test articles).
+## IV. ISO 10993 ­ Part 1 and the FDA­Modified Matrix
+This guidance considers the assessment of biocompatibility to be an evaluation of the medical device in its final finished form, including sterilization, if applicable. However, sponsors should understand the biocompatibility of each device component and any interactions between components that could occur. This is particularly important when the combination of device 25 Refer to FDA’s guidance document “Requests for Feedback and Meetings for Medical Device Submissions: The Q-Submission Program: Guidance for Industry and Food and Drug Administration Staff” available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/requests-feedback-and-meetingsmedical-device-submissions-q-submission-program 26 Novel materials are not commonly used to manufacture medical devices. Novel materials are mentioned throughout this document to provide transparency regarding FDA’s current thinking and recommendations regarding biocompatibility evaluation of devices made from these materials. However, we recognize that these recommendations will not apply to the majority of device submissions.
+components could mask or complicate interpretation of a biocompatibility evaluation. For example, if a metal stent has a polymer coating that may separate over time, then the results of a final device biocompatibility assessment may not fully reflect the longer-term clinical performance of the device, and biocompatibility evaluation of the stent with and without the coating may be needed. Similarly, for an in situ polymerizing and absorbable sealant, where the materials present will change over time, separate evaluations of the pre-polymerized, polymerized, and degrading sealant may be needed.
+### A. Evaluation of Local and Systemic Risks
+Biological evaluation of medical devices is performed to determine the acceptability of any potential adverse biological response resulting from contact of the component materials of the device with the body. The device materials should not, either directly (e.g., via surface-bound chemicals or physical properties) or through the release of their material constituents: (i) produce adverse local or systemic effects; (ii) be carcinogenic; or (iii) produce adverse reproductive and/or developmental effects, unless it can be determined that the benefits of the use of that material outweigh the risks associated with an adverse biological response. Therefore, evaluation of any new device intended for human use warrants information from a systematic analysis to ensure that the benefits provided by the device in its final finished form will outweigh any potential risks produced by device materials over the intended duration and use of the device in or on the exposed tissues.
 
----
+When selecting the appropriate endpoints for biological evaluation of a medical device, one should consider the chemical characteristics of the device materials and the nature, degree, frequency, and duration of exposure to the body (i.e., intended use), as outlined in
+Attachment A. In general, the biocompatibility endpoints to be considered include: in vitro cytotoxicity; acute, subchronic and chronic toxicity; irritation; sensitization; hemocompatibility; implantation; genotoxicity; carcinogenicity; and effects on reproduction, including developmental effects. However, depending on device physical properties (e.g., surface topography, device geometry),27 the intended use of the device, target population, and/or the nature of contact with the body, not every biocompatibility endpoint will warrant testing. In contrast, the biocompatibility endpoints identified in
+Attachment A may not be sufficient to demonstrate the safety of certain devices (e.g., devices that include submicron or nanotechnology components, see Section V.D). In addition, biocompatibility endpoints such as neurotoxicity and immunotoxicity should be considered for devices where local or end organ toxicity assessments relevant to the implant location or toxicity issues of concern would not be assessed in a traditional biocompatibility study. For example, a neurological device having direct contact with brain parenchyma and cerebrospinal fluid (CSF) may necessitate an animal implant test to evaluate its pathological and physiological effects (e.g., effects on the brain parenchyma, neurobehavioral effects and/or neurological deficits, and effects on the functional mechanisms of the choroid plexus and arachnoid villi to secrete and absorb CSF). The specific clinical application and the materials used in the manufacture of the
+Some devices are made of materials that have been well characterized both chemically and physically in the published literature and/or have a long history of safe use in legally marketed medical devices. It may not be necessary to conduct testing for all or a portion of the biocompatibility endpoints suggested in the FDA matrix of this guidance. For example, if the sponsor is able to document the use of a particular material (e.g., 316L stainless steel) in a legally-marketed predicate device or a legally-marketed device with comparable tissue exposure, and is able to explain why manufacturing is not expected to adversely impact biocompatibility, additional testing may not be necessary to address some or all of the biocompatibility endpoints recommended for consideration in
+Attachment A. Sponsors may also leverage information from existing marketing applications to support a rationale that the biocompatibility of the device has been established.28 Refer to Section III, Risk Management for Biocompatibility Evaluations, for additional information on how to use prior information in lieu of new testing. Also, refer to Attachment F, Component and Device Documentation Examples, for additional information on comparisons to a legally-marketed device.
+### B. FDA Use of ISO 10993-1
+The International Organization for Standardization (ISO), in an effort to harmonize biocompatibility testing, developed a standard for biological evaluation of medical devices (ISO 10993). The scope of this multi-part standard is to evaluate the effects of medical device materials on the body. The first part of this standard, "Biological evaluation of medical devices - Part 1: Evaluation and testing within a risk management process," provides a framework in which to plan biological evaluation of medical devices, and if needed, guidance for selecting tests to evaluate the biological response to medical devices. Most of the other parts of the ISO 10993 standard series discuss appropriate methods to conduct biological tests that may be identified when following Part 1 of the standard.
+With the 2009 and then the 2018 revisions to the ISO 10993-1 standard, the focus of the document changed from how to determine which biocompatibility tests to conduct, to an approach that considers existing information prior to determining if biocompatibility testing is needed. With the advancement of scientific knowledge regarding the basic mechanisms of tissue responses, FDA agrees with the ISO 10993-1:2018 revision focus on minimizing the “number and exposure of test animals by giving preference to in vitro models and to chemical, physical, morphological, and topographical characterization testing, in situations where these methods yield equally relevant information to that obtained from in vivo models.”29 For FDA submissions, biocompatibility information for the device in its final finished form, either developed through the risk management
 
-<!-- Page 11 -->
-Contains Nonbinding Recommendations
-6
-III. Risk Management for Biocompatibility Evaluations 
-As stated in ISO 10993-1, the biological evaluation of a medical device (or a material component 
-of such) should be conducted within the framework of a risk management process. Such a 
-process should generally begin with assessment of the device, including the material 
-components, the manufacturing processes, the clinical use of the device including the intended 
-anatomical location, and the frequency and duration of exposure. Considering this information, 
-the potential risks from a biocompatibility perspective should be identified. Such risks might 
-include chemical toxicity, unacceptable biological response to physical characteristics of the 
-device, and aspects of manufacturing and processing that could alter the physicochemical 
-characteristics of the device, which could lead to changes in the biocompatibility response. Once 
-the risks have been identified, the sponsor should assess what information is already available 
-regarding those risks and identify the knowledge gaps that remain. Considering the potential 
-biological impact, a plan should be developed to address the knowledge gaps either by 
-biocompatibility testing or other evaluations that appropriately address the risks. The 
-interpretation of the overall biocompatibility evaluation should be considered in the appropriate 
-benefit-risk context.
-A.
-Risk Assessment of the Medical Device 
-The risk assessment should evaluate the final finished device. The Agency makes a 
-clearance or approval decision for a medical device as it is supplied in its final finished 
-form. The Agency does not clear or approve individual materials that are used in the 
-fabrication of medical devices. Therefore, the risk assessment should evaluate not only 
-the materials used in the device, but also the processing of the materials, the 
-manufacturing methods (including the sterilization process), and any residuals from 
-manufacturing aids used during the process.20
-The risk assessment should also consider the proposed clinical use of the device, 
-including the anatomical location, duration of exposure, and intended use population. For 
-example, for pediatric patients with a limited life expectancy, the tolerance for risk 
-associated with a permanently implanted medical device may be higher than the tolerance 
-for risk from the same device in an otherwise healthy pediatric population. The potential 
-exposure duration should also consider which material components of the device have 
-direct or indirect contact with tissue, and whether exposure would be a one-time 
-exposure, a constant exposure over time, or an intermittent exposure over time that could 
-have a cumulative effect. For example, pacemaker pulse generators commonly contain 
-internal electronic components made from chemicals that could be toxic to the body, but 
-appropriate bench testing can demonstrate that the pulse generator is hermetically sealed 
-and will limit exposure of those chemicals to the surrounding tissues.
-20 See Attachment G for special considerations for FDA’s recommended biocompatibility evaluation for certain 
-devices in contact with intact skin that are fabricated from common polymers and fabrics.
+For the purposes of submission to the FDA, in situations where details pertaining to the materials of manufacture may be proprietary information held by the material supplier, a master file for the material component(s) may assist in determining the formulation of some components of the final device (see
+Attachment B). However, this information alone may not be sufficient to establish the biocompatibility of the device. Currently there is no standard established for the content or completeness of a device master file. Because the information in a master file may be specific to the material and may not address device fabrication, the information contained in master files may be insufficient to address all of the characterization or biocompatibility questions that pertain to the medical device in its final finished form.
+2. The material(s) of manufacture, the device in its final finished form, and possible
+leachable chemicals or degradation products should be considered for their relevance to the overall biocompatibility evaluation of the device.
+3. Endpoints relevant to the biocompatibility evaluation should take into account the
+nature, degree, frequency, duration, and conditions of exposure of the device materials to the body. This principle may lead to the categorization of devices that would facilitate the selection of appropriate endpoints for inclusion in the overall biocompatibility evaluation.
+4. Any in vitro or in vivo biological safety experiments or tests should be conducted
+in accordance with recognized Good Laboratory Practice (GLP) regulations30 including, but not limited to, the assignment of competent trained staff in the conduct of biocompatibility testing.
+30 FDA does not recognize ISO/IEC 17025 General requirements for the competence of testing and calibration laboratories.
+For the purposes of submission to the FDA, if information on these types of nonclinical laboratory studies31 is provided, a statement that all such studies have been conducted in compliance with applicable requirements in the Good
+Laboratory Practice regulation in 21 CFR 58 should also be provided. If any such study was not conducted in compliance with such regulation (e.g., for supporting historical data included with a regulatory submission), FDA recommends you include a statement in your submission explaining the reasons why the study was not in compliance with the GLP Regulations, as well as a detailed description of all deviations from the regulation. FDA recommends the statement include information that will help FDA reconstruct the study, explain any confounding variables, and demonstrate that authentic and complete test data have been collected and reported.
+5. When test data are provided, complete experimental data, complete to the extent
+that an independent conclusion could be made, should be submitted to the reviewing authority.
 
----
-
-<!-- Page 12 -->
-Contains Nonbinding Recommendations
-7
-B.
-Identification of Potential Risks 
-An assessment of potential biocompatibility risk should include not only chemical 
-toxicity, but also physical characteristics that might contribute to an unwanted tissue 
-response. These characteristics can include surface properties, forces on surrounding 
-tissue (e.g., mechanical, thermal, electromagnetic), geometry, and presence of 
-particulates, among others. In addition, changes in manufacturing and processing 
-parameters can also have an impact on biocompatibility. For example, the original 
-processing for an implanted device might include placing the device in an acid bath to 
-facilitate passivation of the implant surface. If this passivation process is changed to 
-eliminate the acid bath in favor of a different method of passivating the surface, removal 
-of the acid bath might unintentionally lead to a smaller reduction in pyrogenic material, 
-which could result in pyrogenic reactions (fever) following implantation of the device. 
-Another common change that might impact biocompatibility is a change in resin supplier. 
-For example, if the new resin supplier does not remove all processing solvents (some of 
-which may be known toxic compounds, such as formaldehyde), the final manufactured 
-device could cause unexpected toxicities (e.g., cytotoxicity, irritation, sensitization, 
-genotoxicity) that were not seen with devices manufactured from the original resin.
-Sources of information on potential biocompatibility risks can include, but are not limited 
-to, a manufacturer’s previous experience with the same material(s), preferably in the 
-same or similar anatomical location; reported experience from other manufacturers using 
-the same material in the same or similar anatomical location; information provided by the 
-material supplier (e.g., in a master file,21 see Attachment B); chemical or surface analysis 
-of the device in its final finished form; and the published literature. In certain situations, 
-clinical experience, such as postmarket surveillance information, may be informative. For 
-example, for a limited duration, skin-contacting device, patient experience that includes 
-information on potential for irritation or sensitization can be useful to the risk assessment.
-When leveraging data from experience with a particular device for a new device 
-submission to FDA, it is important to understand how the tested device compares to the 
-device under consideration. In general, the more similar the tested device and device 
-under consideration are, including their intended use, the more applicable the risk 
-information is likely to be. For example, for a vascular catheter comprised of a certain 
-polymer, citing experience with the same polymer in a blood-contacting device will be 
-more applicable than experience with a similar polymer in a device that only contacts 
-mucosal membranes. Similarly, experience with device components made using the same 
-formulation and processing (e.g., for devices within a product family) will be more 
-applicable than experience with device components made by a different manufacturer 
-where the formulation and processing are unknown.
-A master file for a material, device component, and/or device may be useful if it includes 
-information on recommended processing of the material or component and any biological 
-21 Additional information regarding master files for devices is available online at: https://www.fda.gov/medical-
-devices/premarket-approval-pma/master-files
-
----
-
-<!-- Page 13 -->
-Contains Nonbinding Recommendations
-8
-testing already performed (see Attachment B). A master file should also contain a risk 
-assessment provided by the supplier that includes a discussion of the chemical 
-formulation and structure of the material or component and information on how to 
-evaluate a device made from that material.
-In certain situations, a sponsor may propose to use a material that has known toxicities 
-but where the material could be acceptable for the end use. In this case, the risk 
-assessment should include consideration of the intended use population that will use (e.g., 
-protective mask for clinician) or be treated with the device and a discussion of potential 
-benefits of using the chosen material as well as potential mitigations that have been 
-considered (e.g., hermetically sealing). 
-A chemical analysis of the materials used in a device in its final finished form can be 
-informative. Chemical analysis can be particularly helpful to demonstrate that chemical 
-toxicity testing from a previously cleared or approved medical device is relevant to a 
-device under review by the Agency. For example, in some circumstances, a chemical 
-analysis can demonstrate that the extractables and leachables in a biocompatibility extract 
-have not changed, supporting that additional biocompatibility testing using that type of 
-solvent is not needed. In addition, chemical analyses can be used to assess the 
-toxicological risk of the chemicals that elute from devices. For example, chemical 
-analysis using exhaustive extraction techniques (per ISO 10993-18) can also be helpful to 
-evaluate long-term toxicity endpoints such as potential carcinogens. Extraction 
-techniques could also be used to identify intermediate and final breakdown products in a 
-material that is either synthesized in vivo (e.g., in situ polymerizing materials) or intended 
-to be absorbable (e.g., degradable materials). However, chemical analysis is usually 
-insufficient to identify all of the risks of the device in its final finished form, because it 
-will not consider aspects of the finished device such as surface properties (e.g., rough 
-versus polished surface) or device geometry that could affect the biological response in 
-certain scenarios (e.g., thrombogenicity, implantation). In addition, the outcomes of 
-chemical analyses are often sensitive to the parameters of the test. Extraction solvents 
-should be selected to optimize compatibility with the device materials and provide 
-information on the types of chemicals that are likely to be extracted in clinical use. 
-Solvents that swell the polymer, cause the polymer to degrade or dissolve, or interfere 
-with detection of chemicals should be used with caution.
-Finally, there may be potential hazards that are not addressed by available information. In 
-certain cases, such as the addition of a new chemical to a standard formulation, individual 
-toxicity information for the added chemical and starting material may be insufficient due 
-to the potential for chemical interactions between the material and added chemical. Thus, 
-the risk assessment should consider what is known about the additional material, the base 
-material, and potential chemical interactions between the two.
-
----
-
-<!-- Page 14 -->
-Contains Nonbinding Recommendations
-9
-C.
-Considering Available Information to Identify and 
-Mitigate Risks 
-In order to reduce unnecessary testing, including animal testing,22 FDA recommends that 
-sponsors consider all available relevant information when conducting their risk 
-assessment. FDA believes that the following information should be included in your risk 
-assessment, if applicable: 
-1. Literature and other publicly available information: Sponsors should review all 
-available toxicity literature and other publicly available information to determine 
-the toxicity risks for the materials used to manufacture their medical device. If 
-data are not available to evaluate the safety of a compound, then the concept of 
-Threshold of Toxicological Concern (TTC)23 can be used to assess some 
-biocompatibility endpoints.
-Sponsors should also review available literature and other publicly available 
-information to identify specific risks associated with the use of their device and 
-possible mitigation measures. For example, literature could inform manufacturers 
-that nitinol passivation of a peripheral stent should be conducted appropriately to 
-ensure that nickel, a chemical with known toxicities, does not leach from the 
-device when implanted. Literature could also be useful in identifying the potential 
-breakdown products of an absorbable device, allowing the sponsor to conduct 
-more focused testing to characterize and analyze these chemicals as a device 
-degrades. Sponsors should be selective in how literature and other publicly 
-available information are used to inform their risk assessment; all available 
-information should be considered in the context of how relevant the information 
-might be to a specific medical device. For example, status of a device material or 
-component as “generally recognized as safe” (GRAS) by FDA as a food additive 
-may or may not be informative for a medical device risk assessment because it 
-may not be appropriate to extrapolate use in food to device-specific tissue contact, 
-such as muscle or circulating blood. In addition, when considering available 
-literature with respect to specific device materials, sponsors should also evaluate 
-whether such information is relevant in light of the manufacturing and processing 
-for the medical device. Similarly, literature or other publicly available information 
-such as clinical data may become less relevant when changes in materials or 
-suppliers occur. Such changes may affect the safety or effectiveness of a medical 
-22 FDA supports the principles of the “3Rs,” to replace, reduce, and/or refine animal use in testing when feasible. 
-We encourage sponsors to consult with us if it they wish to use a non-animal testing method they believe is suitable, 
-adequate, qualified for use with medical devices, and feasible. We will consider if such an alternative method could 
-be assessed for equivalency to an animal test method.
-23 Refer to ICH M7 “Assessment and Control of DNA Reactive (Mutagenic) Impurities in Pharmaceuticals to Limit 
-Potential Carcinogenic Risk” available at https://www.fda.gov/regulatory-information/search-fda-guidance-
-documents/m7r1-assessment-and-control-dna-reactive-mutagenic-impurities-pharmaceuticals-limit-potential for 
-information on use of the TTC and structure activity relationship (SAR) modeling to address genotoxicity and 
-carcinogenicity issues within a risk management process.
-
----
-
-<!-- Page 15 -->
-Contains Nonbinding Recommendations
-10
-device and should be considered appropriately in any risk assessment provided to 
-FDA.
-If literature is used in lieu of testing for certain biocompatibility endpoints, the 
-submission should include information on the applicability of the dose, route, and 
-frequency of exposure from the literature report(s) as compared to the proposed 
-device use. In addition, while literature may be appropriate to evaluate certain 
-biocompatibility endpoints, it may not be appropriate for all biocompatibility 
-endpoints. For example, No Observed Adverse Effect Level (NOAEL) and 
-Lowest Observed Adverse Effect Level (LOAEL) data should be derived from 
-studies relevant to the endpoint under consideration. For example, NOAELs and 
-LOAELs from a systemic toxicity study can often be used to address acute, 
-subchronic, or chronic system toxicity endpoints, but might not be relevant for 
-genotoxicity, local and systemic carcinogenicity, sensitization, irritation or 
-reproductive toxicity assessments, if these endpoints are not assessed in the 
-studies selected to develop NOAELs or LOAELs. However, NOAEL/LOAEL 
-values developed to consider reproductive toxicity may be used to assess the 
-potential reproductive toxicity of compounds released from devices that are not in 
-direct contact with reproductive tissues.
-2. Clinical experience: Clinical experience should be considered in the overall 
-benefit-risk profile for the device where the totality of the data available for the 
-device may inform whether more testing is needed, or if any testing is needed at 
-all. For example, clinical experience may be useful to mitigate problematic 
-findings in an in vitro biocompatibility or in vivo animal study. In other cases, 
-testing to address long-term biocompatibility endpoints (e.g., genotoxicity, 
-chronic toxicity, or carcinogenicity) may not be necessary if the patient’s life 
-expectancy in the intended use population is limited. 
- 
-Generally, clinical studies are not sufficiently sensitive to identify 
-biocompatibility concerns. Clinical or sub-clinical symptoms that result from the 
-presence of a non-biocompatible material may not be identifiable, or may result in 
-symptoms that are indistinguishable from the disease state such that the clinical 
-data may not be informative to the biocompatibility evaluation. For example, 
-blood vessel occlusion at the site of an implanted stent could be indicative of a 
-toxic response to the stent materials or be related to damage to the stent during 
-implantation (e.g., due to operator error or a delivery device malfunction). 
-However, in limited circumstances, clinical experience may mitigate certain 
-identified risks. For example, if there is previous clinical experience with a 
-particular medical device (either from a clinical study or via marketing outside of 
-the US), and there have been no issues with anaphylaxis, then biocompatibility 
-testing for complement activation may not be necessary. Similarly, in an 
-Investigational Device Exemption (IDE) study, first in human study data may be 
-useful to initiate a study on a revised device design, while biocompatibility 
-evaluations are being completed in parallel, and it may be acceptable to provide
-
----
-
-<!-- Page 16 -->
-Contains Nonbinding Recommendations
-11
-complete biocompatibility information once the device design is finalized for 
-commercialization, depending on the risks posed to patients. 24
-Clinical experience may also inform biocompatibility evaluation of next 
-generation devices. For example, some clinical studies of specific absorbable 
-medical devices demonstrated that the absorption kinetics were not accurately 
-predicted by the nonclinical performance (bench or animal) studies. This 
-information has been helpful when evaluating a next generation device using an 
-improved bench model for the absorption of the device, and for assessing how the 
-type and amount of chemicals released with absorption over time might affect 
-biocompatibility.
-However, there are also situations where FDA has not found clinical experience 
-to provide relevant biocompatibility information. For example, providing clinical 
-information that a particular implant material has a long history of use would not 
-typically be sufficient to support the biocompatibility of an implant made from the 
-same material because manufacturing and processing could affect the final 
-chemistry presented to the body. In addition, such information is often too broad 
-and general to be useful.
-3. Animal study experience: Data from an in vivo animal study of the medical device 
-in its final finished form may be used in lieu of some biocompatibility tests. 
-Testing performed in a relevant animal model can be used if the study was 
-designed to include assessments for biocompatibility endpoints. These studies 
-should evaluate the biological response to the test article implanted in a clinically 
-relevant implantation site. For example, separate biocompatibility assessments for 
-implantation, in vivo thrombogenicity, and acute, subchronic, and chronic toxicity 
-may not be needed if these endpoints were included in the in vivo animal study 
-design with an appropriate study endpoint, and the scientific principles and 
-recommendations in the appropriate ISO 10993 test method were considered and 
-applied.
-If animal study data (e.g., histology, necropsy) identifies adverse biological 
-responses, some additional biocompatibility testing may be warranted. For 
-example, glutaraldehyde-fixed tissue heart valves may show toxic effects in 
-animal studies as well as some standard biocompatibility assays, such as 
-24 FDA considers biocompatibility information, collectively with other nonclinical information, in the review of 
-Early Feasibility Study (EFS) IDE applications and through the review of devices granted Breakthrough designation 
-and determines, through our benefit-risk analysis, what biocompatibility endpoints should be evaluated prior to 
-initiation of clinical studies as well as what evaluations may be appropriately conducted in parallel with clinical data 
-collection. For more information, see “Investigational Device Exemptions (IDEs) for Early Feasibility Medical 
-Device Clinical Studies, Including Certain First in Human (FIH) Studies: Guidance for Industry and Food and Drug 
-Administration Staff” available at https://www.fda.gov/regulatory-information/search-fda-guidance-
-documents/investigational-device-exemptions-ides-early-feasibility-medical-device-clinical-studies-including and 
-“Breakthrough Devices Program: Guidance for Industry and Food and Drug Administration Staff” available at 
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/breakthrough-devices-program
-
----
-
-<!-- Page 17 -->
-Contains Nonbinding Recommendations
-12
-cytotoxicity and genotoxicity. These findings would usually trigger the need for 
-additional studies, such as chemical characterization and dose ranging 
-cytotoxicity and genotoxicity studies of suspected chemical toxins released from 
-the device to confirm the cause of the adverse findings and to determine if 
-additional mitigations are needed.
-Animal experience may also inform biocompatibility evaluation of next 
-generation devices. For example, animal study data from the literature regarding 
-absorbable adhesion barriers made of a certain material could provide information 
-related to the timeframe of absorption and potential adverse effects for a new or 
-modified device.
-However, there are also situations where FDA has not found animal data to 
-provide relevant biocompatibility information. For example, data from the 
-literature indicating that a particular implant material is biocompatible may not be 
-sufficient to support the biocompatibility of a device made from the same material 
-because manufacturing and processing likely will affect the final device chemistry 
-presented to the body. Similarly, animal studies designed to assess human factors 
-and studies conducted in animal cadavers would not typically include assessment 
-of biological response, and therefore may not be useful to support a 
-biocompatibility evaluation.
-4. Consensus standards: Consensus standards specific to a particular device type or 
-material may be helpful to inform a risk assessment; however, the extent to which 
-the standard could be utilized may be dependent on the specificity of the standard 
-and/or the specific material. Ideally, a standard would have sufficient specificity 
-to provide useful information regarding material risks. For example, standards 
-that outline both mechanical and chemical properties of a device type with 
-pass/fail criteria may be particularly informative to FDA’s review because of the 
-specificity of such a standard. Standards that address bulk material composition 
-can also be informative as a starting point for incorporating material 
-characterization into a risk assessment. For example, it may be appropriate to use 
-material standards to support the biocompatibility evaluation of 316L stainless 
-steel surgical vascular clamps, as long as any risks associated with manufacturing 
-are appropriately considered and mitigated (see Section IV.A). Given the effects 
-that manufacturing and processing may have on a polymer as incorporated into 
-the final finished medical device, use of material standards may not be sufficient 
-to identify biocompatibility risks for devices made from polymers.
-5. Devices previously reviewed by FDA: Experience with medical device materials 
-previously reviewed by FDA (e.g., in previous generation devices, PMA-
-approved devices, predicate devices) are also relevant for consideration as part of 
-a risk assessment. Such information may be more informative when a sponsor is 
-able to leverage their own experience, rather than that from another manufacturer 
-or supplier as the manufacturing and processing of the device material may be 
-unknown. Sponsors should be specific in their risk assessment regarding how
-
----
-
-<!-- Page 18 -->
-Contains Nonbinding Recommendations
-13
-devices previously reviewed by FDA are being utilized to identify potential risks 
-and/or mitigate identified risks. Sponsors should be as specific as possible when 
-referencing devices previously reviewed by FDA, including submission numbers 
-or master file numbers, and references to specific test reports or data in a 
-submission (if applicable). Sponsors should also provide a specific comparison of 
-the subject device materials to device materials previously reviewed by FDA. It 
-may be helpful to use the documentation examples provided in Attachment F to 
-provide such a comparison.
-D.
-Submission and Interpretation 
-FDA recommends that sponsors provide their risk assessment at the beginning of the 
-biocompatibility section in a submission to CDRH or CBER. Based on the considerations 
-outlined above, the sponsor should clearly summarize their conclusions regarding their 
-risk assessment and explain the relationship between the identified biocompatibility risks 
-and the information available to mitigate the identified risks, and identify any knowledge 
-gaps that remain. The sponsor should then identify any biocompatibility testing or other 
-evaluations that were conducted to mitigate any remaining risks.
-The sponsor should also explain any toxicities and adverse effects identified in their 
-biocompatibility testing or other evaluations. As a part of the risk assessment, the sponsor 
-should discuss any other available information (such as the results of in vivo animal 
-studies) that might provide additional context for interpretation. For example, if a device 
-made from polypropylene shows a grade 2 cytotoxicity with L929 cells, which might be 
-acceptable per ISO 10993-5 Biological evaluation of medical devices – Part 5: Tests for 
-in vitro cytotoxicity, the sponsor should provide additional information regarding the 
-potential source of the toxicity, since polypropylene is generally not expected to elicit a 
-cytotoxicity response of this level. Conversely, skin-contacting electrodes with adhesives 
-containing detergents might be expected to have higher than grade 2 cytotoxicity with 
-L929 cells, which could be acceptable if the sponsor is able to confirm that there are no 
-other chemical constituents causing the adverse cytotoxic response. In general, potential 
-toxicities identified through biocompatibility testing should be evaluated considering the 
-intended use of the device and as part of the overall benefit-risk assessment. 
-During the biocompatibility evaluation, if chemical characterization testing is conducted 
-per ISO 10993-18 Biological evaluation of medical devices – Part 18: Chemical 
-characterization of medical device materials within a risk management process or 
-ISO/TS 10993-19 Biological evaluation of medical devices – Part 19: Physico-chemical, 
-morphological and topographical characterization of materials, it is important to 
-understand that these standards include only general information regarding multiple 
-analytical techniques and no acceptance criteria. Therefore, to support a declaration of 
-conformity, as a part of the supplemental information used to support the use of these 
-standards, we recommend that a rationale for the selected method(s) and protocols be 
-presented with your results so that FDA can assess whether the information obtained will 
-support the biocompatibility of your device.
-
----
-
-<!-- Page 19 -->
-Contains Nonbinding Recommendations
-14
-Attachment C provides an example biocompatibility risk assessment summary table, 
-which FDA has generally found useful from a review perspective. Sponsors may find that 
-utilizing this approach and format is helpful when developing their own biocompatibility 
-risk assessment. FDA reviews these risk assessments as part of the overall 
-biocompatibility evaluation to determine whether the risks, mitigations, and 
-biocompatibility testing or other information is appropriate to support the 
-biocompatibility of a medical device. Sponsors may wish to discuss their plan for 
-conducting an appropriate risk assessment with FDA early in their device development 
-process. FDA recommends that sponsors use the Q-Submission process to facilitate these 
-discussions.25 While FDA generally cannot review a detailed risk assessment under the 
-Q-Submission process, it is often helpful to discuss the planned approach for such a risk 
-assessment. Pre-Submissions may be particularly helpful to obtain feedback regarding a 
-risk assessment in the following and other instances:
-·
-When developing an in vitro test battery for hemocompatibility to determine 
-whether the validation information being developed might be appropriate for a 
-particular clinical indication;
-·
-When determining whether additional biocompatibility evaluations may be 
-needed if questionable or inconclusive findings have occurred in any previously 
-conducted biocompatibility evaluations, or in the event that novel materials are 
-used;26
-·
-When designing in vivo or ex vivo studies intended to address biocompatibility 
-endpoints; 
-·
-When designing chemical analysis protocols that use accelerating factors (e.g., 
-heat) to simulate patient exposure to medical device materials over time;
-·
-When determining how to prepare absorbable devices for biocompatibility testing 
-(e.g., unpolymerized, pre-polymerized, partially degraded, or fully degraded test 
-articles).
-IV. ISO 10993 ­ Part 1 and the FDA­Modified Matrix 
-This guidance considers the assessment of biocompatibility to be an evaluation of the medical 
-device in its final finished form, including sterilization, if applicable. However, sponsors should 
-understand the biocompatibility of each device component and any interactions between 
-components that could occur. This is particularly important when the combination of device 
-25 Refer to FDA’s guidance document “Requests for Feedback and Meetings for Medical Device Submissions: The 
-Q-Submission Program: Guidance for Industry and Food and Drug Administration Staff” available at 
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/requests-feedback-and-meetings-
-medical-device-submissions-q-submission-program
-26 Novel materials are not commonly used to manufacture medical devices. Novel materials are mentioned 
-throughout this document to provide transparency regarding FDA’s current thinking and recommendations 
-regarding biocompatibility evaluation of devices made from these materials. However, we recognize that these 
-recommendations will not apply to the majority of device submissions.
-
----
-
-<!-- Page 20 -->
-Contains Nonbinding Recommendations
-15
-components could mask or complicate interpretation of a biocompatibility evaluation. For 
-example, if a metal stent has a polymer coating that may separate over time, then the results of a 
-final device biocompatibility assessment may not fully reflect the longer-term clinical 
-performance of the device, and biocompatibility evaluation of the stent with and without the 
-coating may be needed. Similarly, for an in situ polymerizing and absorbable sealant, where the 
-materials present will change over time, separate evaluations of the pre-polymerized, 
-polymerized, and degrading sealant may be needed.
-A.
-Evaluation of Local and Systemic Risks 
-Biological evaluation of medical devices is performed to determine the acceptability of 
-any potential adverse biological response resulting from contact of the component 
-materials of the device with the body. The device materials should not, either directly 
-(e.g., via surface-bound chemicals or physical properties) or through the release of their 
-material constituents: (i) produce adverse local or systemic effects; (ii) be carcinogenic; 
-or (iii) produce adverse reproductive and/or developmental effects, unless it can be 
-determined that the benefits of the use of that material outweigh the risks associated with 
-an adverse biological response. Therefore, evaluation of any new device intended for 
-human use warrants information from a systematic analysis to ensure that the benefits 
-provided by the device in its final finished form will outweigh any potential risks 
-produced by device materials over the intended duration and use of the device in or on 
-the exposed tissues.
-    
-When selecting the appropriate endpoints for biological evaluation of a medical device, 
-one should consider the chemical characteristics of the device materials and the nature, 
-degree, frequency, and duration of exposure to the body (i.e., intended use), as outlined in 
-Attachment A. In general, the biocompatibility endpoints to be considered include: in 
-vitro cytotoxicity; acute, subchronic and chronic toxicity; irritation; sensitization; 
-hemocompatibility; implantation; genotoxicity; carcinogenicity; and effects on 
-reproduction, including developmental effects. However, depending on device physical 
-properties (e.g., surface topography, device geometry),27 the intended use of the device, 
-target population, and/or the nature of contact with the body, not every biocompatibility 
-endpoint will warrant testing. In contrast, the biocompatibility endpoints identified in 
-Attachment A may not be sufficient to demonstrate the safety of certain devices (e.g., 
-devices that include submicron or nanotechnology components, see Section V.D). In 
-addition, biocompatibility endpoints such as neurotoxicity and immunotoxicity should be 
-considered for devices where local or end organ toxicity assessments relevant to the 
-implant location or toxicity issues of concern would not be assessed in a traditional 
-biocompatibility study. For example, a neurological device having direct contact with 
-brain parenchyma and cerebrospinal fluid (CSF) may necessitate an animal implant test 
-to evaluate its pathological and physiological effects (e.g., effects on the brain 
-parenchyma, neurobehavioral effects and/or neurological deficits, and effects on the 
-functional mechanisms of the choroid plexus and arachnoid villi to secrete and absorb 
-CSF). The specific clinical application and the materials used in the manufacture of the 
-27 For example, a material may be selected to provide a certain stiffness required for the device to perform 
-appropriately (i.e., device characteristic), but may also have other material characteristics that could impact the 
-biological response to the device (e.g., hydrophilic or hydrophobic surface).
-
----
-
-<!-- Page 21 -->
-Contains Nonbinding Recommendations
-16
-new device will guide selection of the appropriate biocompatibility evaluations. Where 
-available, device-specific guidance documents may include additional safety assessments 
-to be considered within the context of a biocompatibility evaluation.
-Some devices are made of materials that have been well characterized both chemically 
-and physically in the published literature and/or have a long history of safe use in legally 
-marketed medical devices. It may not be necessary to conduct testing for all or a portion 
-of the biocompatibility endpoints suggested in the FDA matrix of this guidance. For 
-example, if the sponsor is able to document the use of a particular material (e.g., 316L 
-stainless steel) in a legally-marketed predicate device or a legally-marketed device with 
-comparable tissue exposure, and is able to explain why manufacturing is not expected to 
-adversely impact biocompatibility, additional testing may not be necessary to address 
-some or all of the biocompatibility endpoints recommended for consideration in 
-Attachment A. Sponsors may also leverage information from existing marketing 
-applications to support a rationale that the biocompatibility of the device has been 
-established.28 Refer to Section III, Risk Management for Biocompatibility Evaluations, 
-for additional information on how to use prior information in lieu of new testing. Also, 
-refer to Attachment F, Component and Device Documentation Examples, for additional 
-information on comparisons to a legally-marketed device.
-B.
-FDA Use of ISO 10993-1  
-The International Organization for Standardization (ISO), in an effort to harmonize 
-biocompatibility testing, developed a standard for biological evaluation of medical 
-devices (ISO 10993). The scope of this multi-part standard is to evaluate the effects of 
-medical device materials on the body. The first part of this standard, "Biological 
-evaluation of medical devices - Part 1: Evaluation and testing within a risk management 
-process," provides a framework in which to plan biological evaluation of medical 
-devices, and if needed, guidance for selecting tests to evaluate the biological response to 
-medical devices. Most of the other parts of the ISO 10993 standard series discuss 
-appropriate methods to conduct biological tests that may be identified when following 
-Part 1 of the standard.   
-With the 2009 and then the 2018 revisions to the ISO 10993-1 standard, the focus of the 
-document changed from how to determine which biocompatibility tests to conduct, to an 
-approach that considers existing information prior to determining if biocompatibility 
-testing is needed. With the advancement of scientific knowledge regarding the basic 
-mechanisms of tissue responses, FDA agrees with the ISO 10993-1:2018 revision focus 
-on minimizing the “number and exposure of test animals by giving preference to in vitro 
-models and to chemical, physical, morphological, and topographical characterization 
-testing, in situations where these methods yield equally relevant information to that 
-obtained from in vivo models.”29 For FDA submissions, biocompatibility information for 
-the device in its final finished form, either developed through the risk management 
-28 For the purposes of a biocompatibility evaluation, leveraging information from other marketing applications could 
-be appropriate in support of 510(k)s, PMAs, De Novos, HDEs, and initiation of IDEs.
-29 ISO 10993-1:2018 Biological evaluation of medical devices – Part 1 Evaluation and testing within a risk 
-management process.
-
----
-
-<!-- Page 22 -->
-Contains Nonbinding Recommendations
-17
-process or from biocompatibility testing (using both in vitro and in vivo models), and/or 
-adequate chemical, physical, morphological, and topographical characterization in 
-conjunction with supplementary biocompatibility information that adequately address the 
-biocompatibility risks of the device should be provided.
-ISO 10993-1 uses an approach to biocompatibility evaluation that includes these seven 
-general principles.
-1. The selection of material(s) to be used in device manufacture and its 
-biocompatibility evaluation should initially take into account the likelihood of 
-direct or indirect tissue contact and any available information for the materials of 
-manufacture, for example, chemical formulation for each component material, 
-including adhesives, known and suspected impurities, and constituents associated 
-with processing. 
- 
-For the purposes of submission to the FDA, in situations where details pertaining 
-to the materials of manufacture may be proprietary information held by the 
-material supplier, a master file for the material component(s) may assist in 
-determining the formulation of some components of the final device (see 
-Attachment B). However, this information alone may not be sufficient to establish 
-the biocompatibility of the device. Currently there is no standard established for 
-the content or completeness of a device master file. Because the information in a 
-master file may be specific to the material and may not address device fabrication, 
-the information contained in master files may be insufficient to address all of the 
-characterization or biocompatibility questions that pertain to the medical device in 
-its final finished form.
-2. The material(s) of manufacture, the device in its final finished form, and possible 
-leachable chemicals or degradation products should be considered for their 
-relevance to the overall biocompatibility evaluation of the device.
-3. Endpoints relevant to the biocompatibility evaluation should take into account the 
-nature, degree, frequency, duration, and conditions of exposure of the device 
-materials to the body. This principle may lead to the categorization of devices that 
-would facilitate the selection of appropriate endpoints for inclusion in the overall 
-biocompatibility evaluation.
-4. Any in vitro or in vivo biological safety experiments or tests should be conducted 
-in accordance with recognized Good Laboratory Practice (GLP) regulations30
-including, but not limited to, the assignment of competent trained staff in the 
-conduct of biocompatibility testing.
-30 FDA does not recognize ISO/IEC 17025 General requirements for the competence of testing and calibration 
-laboratories.
-
----
-
-<!-- Page 23 -->
-Contains Nonbinding Recommendations
-18
-For the purposes of submission to the FDA, if information on these types of 
-nonclinical laboratory studies31 is provided, a statement that all such studies have 
-been conducted in compliance with applicable requirements in the Good 
-Laboratory Practice regulation in 21 CFR 58 should also be provided. If any such 
-study was not conducted in compliance with such regulation (e.g., for supporting 
-historical data included with a regulatory submission), FDA recommends you 
-include a statement in your submission explaining the reasons why the study was 
-not in compliance with the GLP Regulations, as well as a detailed description of 
-all deviations from the regulation. FDA recommends the statement include 
-information that will help FDA reconstruct the study, explain any confounding 
-variables, and demonstrate that authentic and complete test data have been 
-collected and reported.
-5. When test data are provided, complete experimental data, complete to the extent 
-that an independent conclusion could be made, should be submitted to the 
-reviewing authority. 
- 
-For the purposes of submission to the FDA, if testing is conducted according to an 
-FDA-recognized consensus standard that does not include data reporting, 
-submission of the test data is optional.
-6. Any change in chemical composition, manufacturing process, physical 
-configuration (e.g., size, geometry, surface properties) or intended use of the 
-device should be evaluated with respect to possible changes in biocompatibility 
-and the need for additional biocompatibility testing.
-7. The biocompatibility evaluation performed in accordance with this guidance 
-should be considered in conjunction with information obtained from other 
-nonclinical tests, clinical studies, and postmarket experiences for a safety 
-assessment that incorporates all available relevant information.
-C.
-The FDA-Modified Matrix 
-Like ISO 10993-1:2018, this guidance also uses a tabular format (matrix) to outline the 
-recommendations for biological effects evaluation based on the various factors discussed 
-above for biocompatibility information to be submitted in support of an IDE or marketing 
-application.
-Attachment A, Evaluation Endpoints for Consideration, includes biocompatibility 
-endpoints for consideration recommended by ISO 10993-1:2018, and additional 
-endpoints FDA recommends for consideration. Attachment D is a biocompatibility 
-evaluation flow chart explaining when additional biocompatibility evaluations beyond 
-those recommended in ISO 10993-1 may be requested to fully characterize the 
-biocompatibility profile, such as when novel materials or manufacturing processes are 
-31 See definition of nonclinical laboratory study at 21 CFR 58.3(d).
-
----
-
-<!-- Page 24 -->
-Contains Nonbinding Recommendations
-19
-used (i.e., materials or processes that have not previously been used in a legally marketed 
-medical device with the same type and duration of contact).
-If the device has multiple types of exposure, you should include information to address 
-each exposure category identified for the device,32 even though testing may not be 
-necessary for every exposure category, in your overall biocompatibility assessment. For 
-example, a pacemaker may include both a pulse generator that is implanted 
-subcutaneously and leads that are implanted within the cardiovasculature. Therefore, we 
-have considered these devices to be classified as both tissue contact and blood contact 
-devices for the evaluation of biocompatibility.   
-In general, FDA agrees with the framework established in ISO 10993-1 for identification 
-of the nature and duration of contact (e.g., cumulative effects with repeat use).33
-However, FDA has made several modifications to the evaluations identified in that 
-standard for the reasons outlined in Section IV.D and Attachment A.
-D.
-Endpoint Assessment 
-As described in Attachments A and C, sponsors should evaluate each biocompatibility 
-endpoint and whether there is a need for additional testing. All biological effects included 
-in the matrix may not be relevant for all devices. Thus, the modified matrix is only a 
-framework for the selection of endpoints for consideration and not a comprehensive 
-checklist of biocompatibility testing. A scientific rationale to support the use of 
-previously collected information in lieu of additional biocompatibility testing should be 
-included with the submission for each endpoint identified in Attachment A. Chemical 
-formulation and processing information may not always be needed for all medical device 
-submissions; however, this information may assist the sponsor to support justifications 
-for waiving testing for any recommended endpoints.
-ISO 10993-1:2018, Clause 4.1 states that “Evaluation can include both a review of 
-relevant existing preclinical and clinical data and actual testing. Such an evaluation might 
-result in the conclusion that no testing is needed if the material has a demonstrable safe 
-history of use in a specified role and physical form that is equivalent to that of the 
-medical device under design.” To conclude that no additional biocompatibility testing is 
-needed, the sponsor should provide evidence that for each material, the type and duration 
-of tissue contact, physical form, formulation, processing, component interactions, and 
-storage conditions are the same as for the comparator device(s), or the comparator device 
-is demonstrated to be “worst case” compared to the proposed device. In cases where there 
-are differences, such differences should be explained and justified as to how prior data 
-are applicable to support a biocompatibility assessment of the medical device in its final 
-finished form. In vivo animal data and/or clinical data may be of limited utility (as 
-discussed previously in Section III) if specific biocompatibility endpoints are not 
-included as part of the data collected for these studies.
-32 We encourage sponsors to contact the appropriate Center and review division if there is a question about the 
-appropriate evaluations for a particular device type.
-33 See ISO 10993-1:2018, Clause 5.2 “Categorization by nature of body contact” and Clause 5.3 “Categorization by 
-duration of contact.”
-
----
-
-<!-- Page 25 -->
-Contains Nonbinding Recommendations
-20
-V.
-General Biocompatibility Testing Considerations 
-Test article preparation is a critical variable in the conduct of the biocompatibility tests. 
-Therefore, it is important to understand how the test articles compare to the medical device in its 
-final finished form (e.g., sterile, if applicable). The example test article documentation language 
-included in Attachment F can be used to detail how any differences may or may not affect 
-biocompatibility of the medical device in its final finished form.
-A.
-Use of Medical Device in Final Finished Form or 
-Representative Test Article 
-When biocompatibility testing is warranted, the Agency recommends testing medical 
-devices in the condition that they will be used, whenever possible. This could include 
-final packaged devices, or as sterilized by an end user, if appropriate. If the medical 
-device in its final finished form cannot be used for biocompatibility testing, a test article 
-(e.g., coupons or “representative components”) may be considered. The representative 
-test article should undergo the same manufacturing and sterilization processes, have the 
-same chemical, physical, and surface properties, and have the same ratio of component 
-materials as the medical device in its final finished form. In situations where differences 
-exist between the medical device in its final finished form and the test article, additional 
-information describing how these differences could impact study findings should be 
-provided. For example, when testing an individual device component, a low-level tissue 
-response could be observed, but when all of the components are tested within a medical 
-device in its final finished form, a more robust tissue response could occur. If there are 
-differences between the medical device in its final finished form and the representative 
-test article, additional information may aid in determining the appropriateness of the 
-selected test article. For example, extraction and surface characterization techniques may 
-be appropriate to demonstrate that the surfaces are equivalent in geometry and surface 
-properties, and that the chemicals leaching from the test article display the same kinetics, 
-chemical identity and relative quantity as those eluting from the medical device in its 
-final finished form. For example, for long term or absorbable implants, FDA may request 
-data from exhaustive extraction studies (per ISO 10993-18) and surface characterization 
-information to support use of the representative test articles. See also Attachment F.
-B.
-Testing of In Situ Polymerizing and/or Absorbable 
-Materials 
-For devices made from in situ polymerizing and/or absorbable materials, we recommend 
-that test article preparation be representative of the device in its final finished form. In 
-addition, we recommend that biocompatibility be evaluated for the medical device in its 
-final finished form as well as at various time points over the course of polymerization 
-and/or degradation to ensure that starting, intermediate, and final degradation products 
-are assessed. Should biocompatibility assessment of the materials during degradation be 
-needed, preparation of test articles using in vitro degradation methods may be considered 
-with appropriate technical justification. Test articles degraded in vitro may be used for
-
----
-
-<!-- Page 26 -->
-Contains Nonbinding Recommendations
-21
-biological testing, and/or chemically analyzed to show that the material breaks down into 
-intermediate or final degradation products that are known to be non-toxic at the levels 
-present. However, depending on the materials of manufacture and the degradation testing 
-conditions, accelerated degradation testing may not result in the same intermediate or final 
-degradation products and therefore may not be acceptable.
-For in vivo tests for devices made of in situ polymerizing or absorbable materials, the 
-assessment time points would depend on the polymerization and degradation kinetics. We 
-recommend that assessments be targeted to demonstrate how the device materials degrade 
-over time and continue until the absorbable material and/or its degradation products are no 
-longer present in the tissue (e.g., microscopically), if possible. Alternatively, it may be 
-acceptable to provide a rationale for ending the study earlier, if the rationale includes an 
-estimate of the percentage (%) of absorbable material remaining in the tissue, and 
-confirmation that a steady state biological tissue response is achieved.
-For in vitro biocompatibility tests conducted with extracts of an in situ polymerizing or 
-absorbable device, chemical analytical testing of the extract may be useful to determine 
-whether the extract is representative of leachables during the polymerization or 
-degradation processes, and if multiple biocompatibility tests with different extracts are 
-needed to represent different stages of the polymerization or degradation processes. If test 
-articles are pre-polymerized prior to extraction, unreacted constituents that may be available 
-during physiologic polymerization may or may not be available for extraction from a pre-
-polymerized test article. For systems that may not be polymerizable in traditional extraction 
-media, alternative approaches may be necessary.
-C.
-Biological Response Resulting from Device Mechanical 
-Failure 
-The scope of ISO 10993-1 includes biological hazards arising from mechanical failure, 
-and FDA agrees this potential risk is important to consider when conducting 
-biocompatibility evaluations. For some devices, it may be possible that mechanical 
-failure could alter the biological response to the device. For example, if coating particles 
-or wear debris are released from a device, those particles could lead to a biological 
-response because of their material properties, such as geometric and/or physicochemical 
-properties.34 In addition, coating delamination or component release or failure could 
-expose the biological system to leaching of different chemicals, or to an increased level 
-of chemicals from a substrate material. Another consideration is whether the surface 
-topography could change with mechanical loading in such a way that the biological 
-response changes. We recommend that your test article selection for any biocompatibility 
-testing incorporate these considerations. If your biocompatibility evaluation does not 
-include testing to evaluate potential biological hazards due to mechanical failure, your 
-34 FDA’s “Guidance for Industry and FDA Staff:  Preparation and Review of Investigational Device Exemption 
-Applications (IDEs) for Total Artificial Discs” available at https://www.fda.gov/regulatory-information/search-fda-
-guidance-documents/preparation-and-review-investigational-device-exemption-applications-ides-total-artificial-
-discs recommends that wear particles, which result from dynamic device loading during use, be assessed “to 
-evaluate the local and systemic responses (e.g., biocompatibility, neurologic response, tissue response, and toxicity) 
-to the wear debris.”
-
----
-
-<!-- Page 27 -->
-Contains Nonbinding Recommendations
-22
-rationale for why such testing is not needed may include the results of other nonclinical 
-tests, such as bench testing or in vivo animal studies. For example, inadequate surface 
-treatment of nitinol devices might result in non-optimized passivation layers that can be 
-further compromised by mechanical loading, such as during device placement. This could 
-result in nickel, a known renal toxin, sensitizer, genotoxin and possible co-carcinogen, 
-being released at levels that could be toxic. If processing includes an adequate passivation 
-method, and corrosion testing confirms that an appropriate passivation layer exists, the 
-risk for nickel toxicity is minimized, and testing to assess biological endpoints and/or 
-nickel leaching may not be necessary. 35
-D.
-Submicron or Nanotechnology Components 
-There can be unique properties associated with submicron (&lt; 1 micron) or 
-nanotechnology components such as aggregation, agglomeration, immunogenicity, or 
-toxicity. 36,37 Medical devices with submicron components may warrant specialized 
-techniques if characterization and biocompatibility testing is needed.38 Limitations may 
-apply when using chemical leachates-based ISO 10993-12 test conditions for the analysis 
-of submicron component biocompatibility assessments. The sponsor should consult 
-relevant literature and standards during the development of test protocols for device-
-specific submicron or nanotechnology component biocompatibility assessments, and 
-contact the respective Center and review division prior to initiation of any tests.
-For biocompatibility assessment of devices with submicron components, you should 
-consider the following:
-·
-Careful characterization of the test article.
-·
-Selection of extract conditions (e.g., solvent type) that avoid testing artifacts.
-·
-Assurance that the test article used is representative of the device that is intended 
-to be used clinically. 
-For test selection, the following items are also important:
-·
-Consideration of standard biocompatibility tests in the context of contemporary 
-literature regarding the validity of individual tests for assessment of devices with 
-submicron components.
-35 Refer to FDA’s guidance document “Technical Considerations for Non-Clinical Assessment of Medical Devices 
-Containing Nitinol” available at https://www.fda.gov/regulatory-information/search-fda-guidance-
-documents/technical-considerations-non-clinical-assessment-medical-devices-containing-nitinol for additional 
-recommendations on assessing the biocompatibility of nitinol devices.
-36 Kunzmann, A., et al., “Toxicology of engineered nanomaterials: Focus on biocompatibility, biodistribution and 
-biodegradation.” Biochim Biophys Acta, 2011, 1810(3): 361-373.
-37 Rivera, G.P., et al., “Correlating physico-chemical with toxicological properties of nanoparticles: the present and 
-the future.” ACS Nano, 2010, 4(10): 5527-5531.
-38 For example, ASTM F1903 Standard Practice for Testing for Cellular Responses to Particles in vitro or ASTM 
-F1904 Standard Practice for Testing the Biological Responses to Medical Device Particulate Debris and 
+For the purposes of submission to the FDA, if testing is conducted according to an FDA-recognized consensus standard that does not include data reporting, submission of the test data is optional.
+6. Any change in chemical composition, manufacturing process, physical
+configuration (e.g., size, geometry, surface properties) or intended use of the device should be evaluated with respect to possible changes in biocompatibility and the need for additional biocompatibility testing.
+7. The biocompatibility evaluation performed in accordance with this guidance
+should be considered in conjunction with information obtained from other nonclinical tests, clinical studies, and postmarket experiences for a safety assessment that incorporates all available relevant information.
+### C. The FDA-Modified Matrix
+Like ISO 10993-1:2018, this guidance also uses a tabular format (matrix) to outline the recommendations for biological effects evaluation based on the various factors discussed above for biocompatibility information to be submitted in support of an IDE or marketing application.
+Attachment A, Evaluation Endpoints for Consideration, includes biocompatibility endpoints for consideration recommended by ISO 10993-1:2018, and additional endpoints FDA recommends for consideration. Attachment D is a biocompatibility evaluation flow chart explaining when additional biocompatibility evaluations beyond those recommended in ISO 10993-1 may be requested to fully characterize the biocompatibility profile, such as when novel materials or manufacturing processes are
+If the device has multiple types of exposure, you should include information to address each exposure category identified for the device,32 even though testing may not be necessary for every exposure category, in your overall biocompatibility assessment. For example, a pacemaker may include both a pulse generator that is implanted subcutaneously and leads that are implanted within the cardiovasculature. Therefore, we have considered these devices to be classified as both tissue contact and blood contact devices for the evaluation of biocompatibility.
+In general, FDA agrees with the framework established in ISO 10993-1 for identification of the nature and duration of contact (e.g., cumulative effects with repeat use).33
+However, FDA has made several modifications to the evaluations identified in that standard for the reasons outlined in Section IV.D and Attachment A.
+### D. Endpoint Assessment
+As described in Attachments A and C, sponsors should evaluate each biocompatibility endpoint and whether there is a need for additional testing. All biological effects included in the matrix may not be relevant for all devices. Thus, the modified matrix is only a framework for the selection of endpoints for consideration and not a comprehensive checklist of biocompatibility testing. A scientific rationale to support the use of previously collected information in lieu of additional biocompatibility testing should be included with the submission for each endpoint identified in Attachment A. Chemical formulation and processing information may not always be needed for all medical device submissions; however, this information may assist the sponsor to support justifications for waiving testing for any recommended endpoints.
+ISO 10993-1:2018, Clause 4.1 states that “Evaluation can include both a review of relevant existing preclinical and clinical data and actual testing. Such an evaluation might result in the conclusion that no testing is needed if the material has a demonstrable safe history of use in a specified role and physical form that is equivalent to that of the medical device under design.” To conclude that no additional biocompatibility testing is needed, the sponsor should provide evidence that for each material, the type and duration of tissue contact, physical form, formulation, processing, component interactions, and storage conditions are the same as for the comparator device(s), or the comparator device is demonstrated to be “worst case” compared to the proposed device. In cases where there are differences, such differences should be explained and justified as to how prior data are applicable to support a biocompatibility assessment of the medical device in its final finished form. In vivo animal data and/or clinical data may be of limited utility (as discussed previously in Section III) if specific biocompatibility endpoints are not included as part of the data collected for these studies.
+32 We encourage sponsors to contact the appropriate Center and review division if there is a question about the appropriate evaluations for a particular device type.
+### V. General Biocompatibility Testing Considerations
+Test article preparation is a critical variable in the conduct of the biocompatibility tests.
+Therefore, it is important to understand how the test articles compare to the medical device in its final finished form (e.g., sterile, if applicable). The example test article documentation language included in Attachment F can be used to detail how any differences may or may not affect biocompatibility of the medical device in its final finished form.
+### A. Use of Medical Device in Final Finished Form or Representative Test Article
+When biocompatibility testing is warranted, the Agency recommends testing medical devices in the condition that they will be used, whenever possible. This could include final packaged devices, or as sterilized by an end user, if appropriate. If the medical device in its final finished form cannot be used for biocompatibility testing, a test article (e.g., coupons or “representative components”) may be considered. The representative test article should undergo the same manufacturing and sterilization processes, have the same chemical, physical, and surface properties, and have the same ratio of component materials as the medical device in its final finished form. In situations where differences exist between the medical device in its final finished form and the test article, additional information describing how these differences could impact study findings should be provided. For example, when testing an individual device component, a low-level tissue response could be observed, but when all of the components are tested within a medical device in its final finished form, a more robust tissue response could occur. If there are differences between the medical device in its final finished form and the representative test article, additional information may aid in determining the appropriateness of the selected test article. For example, extraction and surface characterization techniques may be appropriate to demonstrate that the surfaces are equivalent in geometry and surface properties, and that the chemicals leaching from the test article display the same kinetics, chemical identity and relative quantity as those eluting from the medical device in its final finished form. For example, for long term or absorbable implants, FDA may request data from exhaustive extraction studies (per ISO 10993-18) and surface characterization information to support use of the representative test articles. See also Attachment F.
+### B. Testing of In Situ Polymerizing and/or Absorbable Materials
+For devices made from in situ polymerizing and/or absorbable materials, we recommend that test article preparation be representative of the device in its final finished form. In addition, we recommend that biocompatibility be evaluated for the medical device in its final finished form as well as at various time points over the course of polymerization and/or degradation to ensure that starting, intermediate, and final degradation products are assessed. Should biocompatibility assessment of the materials during degradation be needed, preparation of test articles using in vitro degradation methods may be considered with appropriate technical justification. Test articles degraded in vitro may be used for biological testing, and/or chemically analyzed to show that the material breaks down into intermediate or final degradation products that are known to be non-toxic at the levels present. However, depending on the materials of manufacture and the degradation testing conditions, accelerated degradation testing may not result in the same intermediate or final degradation products and therefore may not be acceptable.
+For in vivo tests for devices made of in situ polymerizing or absorbable materials, the assessment time points would depend on the polymerization and degradation kinetics. We recommend that assessments be targeted to demonstrate how the device materials degrade over time and continue until the absorbable material and/or its degradation products are no longer present in the tissue (e.g., microscopically), if possible. Alternatively, it may be acceptable to provide a rationale for ending the study earlier, if the rationale includes an estimate of the percentage (%) of absorbable material remaining in the tissue, and confirmation that a steady state biological tissue response is achieved.
+For in vitro biocompatibility tests conducted with extracts of an in situ polymerizing or absorbable device, chemical analytical testing of the extract may be useful to determine whether the extract is representative of leachables during the polymerization or degradation processes, and if multiple biocompatibility tests with different extracts are needed to represent different stages of the polymerization or degradation processes. If test articles are pre-polymerized prior to extraction, unreacted constituents that may be available during physiologic polymerization may or may not be available for extraction from a prepolymerized test article. For systems that may not be polymerizable in traditional extraction media, alternative approaches may be necessary.
+### C. Biological Response Resulting from Device Mechanical Failure
+The scope of ISO 10993-1 includes biological hazards arising from mechanical failure, and FDA agrees this potential risk is important to consider when conducting biocompatibility evaluations. For some devices, it may be possible that mechanical failure could alter the biological response to the device. For example, if coating particles or wear debris are released from a device, those particles could lead to a biological response because of their material properties, such as geometric and/or physicochemical properties.34 In addition, coating delamination or component release or failure could expose the biological system to leaching of different chemicals, or to an increased level of chemicals from a substrate material. Another consideration is whether the surface topography could change with mechanical loading in such a way that the biological response changes. We recommend that your test article selection for any biocompatibility testing incorporate these considerations. If your biocompatibility evaluation does not include testing to evaluate potential biological hazards due to mechanical failure, your
+Applications (IDEs) for Total Artificial Discs” available at https://www.fda.gov/regulatory-information/search-fdaguidance-documents/preparation-and-review-investigational-device-exemption-applications-ides-total-artificialdiscs recommends that wear particles, which result from dynamic device loading during use, be assessed “to evaluate the local and systemic responses (e.g., biocompatibility, neurologic response, tissue response, and toxicity) to the wear debris.” rationale for why such testing is not needed may include the results of other nonclinical tests, such as bench testing or in vivo animal studies. For example, inadequate surface treatment of nitinol devices might result in non-optimized passivation layers that can be further compromised by mechanical loading, such as during device placement. This could result in nickel, a known renal toxin, sensitizer, genotoxin and possible co-carcinogen, being released at levels that could be toxic. If processing includes an adequate passivation method, and corrosion testing confirms that an appropriate passivation layer exists, the risk for nickel toxicity is minimized, and testing to assess biological endpoints and/or nickel leaching may not be necessary. 35
+### D. Submicron or Nanotechnology Components
+There can be unique properties associated with submicron (&lt; 1 micron) or nanotechnology components such as aggregation, agglomeration, immunogenicity, or toxicity. 36,37 Medical devices with submicron components may warrant specialized techniques if characterization and biocompatibility testing is needed.38 Limitations may apply when using chemical leachates-based ISO 10993-12 test conditions for the analysis of submicron component biocompatibility assessments. The sponsor should consult relevant literature and standards during the development of test protocols for device-specific submicron or nanotechnology component biocompatibility assessments, and contact the respective Center and review division prior to initiation of any tests.
+For biocompatibility assessment of devices with submicron components, you should consider the following: · Careful characterization of the test article.
+- Selection of extract conditions (e.g., solvent type) that avoid testing artifacts.
+- Assurance that the test article used is representative of the device that is intended to be used clinically.
+For test selection, the following items are also important: - Consideration of standard biocompatibility tests in the context of contemporary literature regarding the validity of individual tests for assessment of devices with submicron components.
+35 Refer to FDA’s guidance document “Technical Considerations for Non-Clinical Assessment of Medical Devices
+Containing Nitinol” available at https://www.fda.gov/regulatory-information/search-fda-guidancedocuments/technical-considerations-non-clinical-assessment-medical-devices-containing-nitinol for additional recommendations on assessing the biocompatibility of nitinol devices.
+36 Kunzmann, A., et al., “Toxicology of engineered nanomaterials: Focus on biocompatibility, biodistribution and biodegradation.” Biochim Biophys Acta, 2011, 1810(3): 361-373.
+37 Rivera, G.P., et al., “Correlating physico-chemical with toxicological properties of nanoparticles: the present and the future.” ACS Nano, 2010, 4(10): 5527-5531.
 Degradation Products in vivo.
-
----
-
-<!-- Page 28 -->
-Contains Nonbinding Recommendations
-23
-·
-Assurance that the submicron components will not interfere with the conduct of a 
-chosen test.
-·
-Consideration of any additional toxicity issues that might be relevant to 
-submicron particles, such as absorption, distribution, and accumulation into 
-organs, potential metabolism, and elimination, since there are greater concerns 
-associated with submicron particles that cannot be readily detoxified and/or 
-eliminated from the body.
-E.
-Test Article Preparation for Extract Testing 
-For biocompatibility testing conducted using extracts of the test article,39 we recommend 
-that you:
-·
-Determine the appropriate amount of test article as outlined in ISO 10993-12 or 
-another FDA-recognized standard (e.g., ASTM F619 Standard Practice for 
-Extraction of Materials Used in Medical Devices), using surface area to extract 
-volume ratios. Mass to extract volume ratios should only be used if surface area 
-cannot be calculated, or if use of mass will result in a test article with a larger 
-surface area to extract volume ratio than recommended by ISO 10993-12. If there 
-is a need for an alternate extraction ratio, appropriate justification should be 
-provided. For example, for fluid path devices or components (where fluids contact 
-the channels in the device or component, and then the fluid enters the body), the 
-fluid path can be filled to capacity. If the ISO 10993-12 recommended surface 
-area to extract volume cannot be achieved, the fluid contacting surface area and 
-extraction volume should be noted in the test report. This approach can be used 
-for both static and dynamic extractions. For some test systems, there may be 
-standardized alternatives for test-specific extraction conditions that provide a 
-different level of extraction (e.g., guinea pig maximization testing per ISO 10993-
-10 Biological evaluation of medical devices – Part 10: Tests for skin 
-sensitization). 
-·
-Use both polar and nonpolar solvents, such as those described in ISO 10993-12. 
-In some cases, other solvents may be used, where appropriate. For example, a 
-mixed polarity solvent (e.g., cell culture medium with 5-10% serum for 
-cytotoxicity testing) is appropriate to extract both hydrophilic and lipophilic 
-chemicals. Also, where devices do not have direct contact with the body but only 
-have indirect contact via a polar solution (e.g., assessment of the inner channel 
-material of a cardiovascular catheter where the inner channel is only used for the 
-infusion of saline), a rationale for waiving testing with a non-polar solution 
-should be provided. For some tests such as material-mediated pyrogenicity, where 
-the extract is injected intravascularly, a polar extract is sufficient.
-39 For biocompatibility testing, extracts could include leachable residuals at the surface of test articles or extractables 
-migrating from the bulk of test articles.
-
----
-
-<!-- Page 29 -->
-Contains Nonbinding Recommendations
-24
-·
-Use extraction conditions that are adequate for testing of extractables and 
-leachables from the device given its intended use. Traditional biocompatibility 
-extraction methods, such as those in ISO 10993-12:2021 (e.g., 37 °C for 72 hours; 
-50 °C for 72 hours; 70 °C for 24 hours; or 121 °C for 1 hour) are acceptable for 
-many biocompatibility tests. For prolonged contact devices and those categorized 
-as long term devices, extraction at 37 °C may not be sufficient to obtain an extract 
-that represents the chemicals extracted over the duration of device use. However, 
-in some cases, temperatures above 37 °C result in chemicals that may not occur in 
-clinical use and may result in adverse biological responses not representative of 
-the medical device in its final finished form. For example, for devices that contain 
-heat labile or heat sensitive materials (e.g., drugs, biomolecules, tissue-derived 
-components), which may have the potential to undergo deformation or material 
-configuration/structural change at high temperature, extraction at 37 °C per ISO 
-10993-12 is recommended, but some additional information on how the chemistry 
-of the device will change over time may also be needed. In all cases, a 
-justification for the selected extraction conditions should be provided.
-·
-Describe the condition of the test extract (e.g., color, presence of any particles), 
-and describe any changes in the extraction solvent (pre- and post-extraction) and 
-explain the source of these changes (e.g., test article degradation).
-·
-Use the extracts without additional processing (e.g., no filtration, centrifugation, 
-or other methods to remove particulates; no pH adjustment), unless otherwise 
-justified.
-·
-If test article extracts are not used immediately, we recommend that you use them 
-within the time frame outlined in ISO 10993-12 or an equivalent method. We 
-recommend that you describe the details of storage conditions for the test extract, 
-and explain why storage will not affect your test results (i.e., as stated in ISO 
-10993-12:2021, “stability and homogeneity of the extract under the storage 
-conditions shall be verified”).
-F.
-Inclusion of Multiple Components or Materials in a 
-Single Test Article 
-For devices that include components with different lengths of contact (e.g., categorized as 
-limited, prolonged, or long term), we recommend that any extract-based biocompatibility 
-testing be conducted separately.40 If the components are combined into a single test 
-article, this will dilute the amount of component materials being presented to the test 
-system and may not accurately identify potentially toxic agents that would have been 
-found if the components were tested separately. For example, we recommend testing 
-implants separately from delivery systems or other kit components.
-40 In many cases, it is acceptable to combine components with limited (&lt; 24 hour) use, with an appropriate 
-supporting rationale. However, separate assessments of devices with prolonged (24 hour to 30 day) or long term (> 
+- Assurance that the submicron components will not interfere with the conduct of a chosen test.
+- Consideration of any additional toxicity issues that might be relevant to submicron particles, such as absorption, distribution, and accumulation into organs, potential metabolism, and elimination, since there are greater concerns associated with submicron particles that cannot be readily detoxified and/or eliminated from the body.
+### E. Test Article Preparation for Extract Testing
+For biocompatibility testing conducted using extracts of the test article,39 we recommend that you: - Determine the appropriate amount of test article as outlined in ISO 10993-12 or another FDA-recognized standard (e.g., ASTM F619 Standard Practice for
+Extraction of Materials Used in Medical Devices), using surface area to extract volume ratios. Mass to extract volume ratios should only be used if surface area cannot be calculated, or if use of mass will result in a test article with a larger surface area to extract volume ratio than recommended by ISO 10993-12. If there is a need for an alternate extraction ratio, appropriate justification should be provided. For example, for fluid path devices or components (where fluids contact the channels in the device or component, and then the fluid enters the body), the fluid path can be filled to capacity. If the ISO 10993-12 recommended surface area to extract volume cannot be achieved, the fluid contacting surface area and extraction volume should be noted in the test report. This approach can be used for both static and dynamic extractions. For some test systems, there may be standardized alternatives for test-specific extraction conditions that provide a different level of extraction (e.g., guinea pig maximization testing per ISO 10993-
+10 Biological evaluation of medical devices – Part 10: Tests for skin sensitization).
+- Use both polar and nonpolar solvents, such as those described in ISO 10993-12.
+In some cases, other solvents may be used, where appropriate. For example, a mixed polarity solvent (e.g., cell culture medium with 5-10% serum for cytotoxicity testing) is appropriate to extract both hydrophilic and lipophilic chemicals. Also, where devices do not have direct contact with the body but only have indirect contact via a polar solution (e.g., assessment of the inner channel material of a cardiovascular catheter where the inner channel is only used for the infusion of saline), a rationale for waiving testing with a non-polar solution should be provided. For some tests such as material-mediated pyrogenicity, where the extract is injected intravascularly, a polar extract is sufficient.
+39 For biocompatibility testing, extracts could include leachable residuals at the surface of test articles or extractables migrating from the bulk of test articles.
+- Use extraction conditions that are adequate for testing of extractables and leachables from the device given its intended use. Traditional biocompatibility extraction methods, such as those in ISO 10993-12:2021 (e.g., 37 °C for 72 hours; 50 °C for 72 hours; 70 °C for 24 hours; or 121 °C for 1 hour) are acceptable for many biocompatibility tests. For prolonged contact devices and those categorized as long term devices, extraction at 37 °C may not be sufficient to obtain an extract that represents the chemicals extracted over the duration of device use. However, in some cases, temperatures above 37 °C result in chemicals that may not occur in clinical use and may result in adverse biological responses not representative of the medical device in its final finished form. For example, for devices that contain heat labile or heat sensitive materials (e.g., drugs, biomolecules, tissue-derived components), which may have the potential to undergo deformation or material configuration/structural change at high temperature, extraction at 37 °C per ISO 10993-12 is recommended, but some additional information on how the chemistry of the device will change over time may also be needed. In all cases, a justification for the selected extraction conditions should be provided.
+- Describe the condition of the test extract (e.g., color, presence of any particles), and describe any changes in the extraction solvent (pre- and post-extraction) and explain the source of these changes (e.g., test article degradation).
+- Use the extracts without additional processing (e.g., no filtration, centrifugation, or other methods to remove particulates; no pH adjustment), unless otherwise justified.
+- If test article extracts are not used immediately, we recommend that you use them within the time frame outlined in ISO 10993-12 or an equivalent method. We recommend that you describe the details of storage conditions for the test extract, and explain why storage will not affect your test results (i.e., as stated in ISO 10993-12:2021, “stability and homogeneity of the extract under the storage conditions shall be verified”).
+### F. Inclusion of Multiple Components or Materials in a Single Test Article
+For devices that include components with different lengths of contact (e.g., categorized as limited, prolonged, or long term), we recommend that any extract-based biocompatibility testing be conducted separately.40 If the components are combined into a single test article, this will dilute the amount of component materials being presented to the test system and may not accurately identify potentially toxic agents that would have been found if the components were tested separately. For example, we recommend testing implants separately from delivery systems or other kit components.
+40 In many cases, it is acceptable to combine components with limited (&lt; 24 hour) use, with an appropriate supporting rationale. However, separate assessments of devices with prolonged (24 hour to 30 day) or long term (>
 30 day) duration of contact are recommended.
-
----
-
-<!-- Page 30 -->
-Contains Nonbinding Recommendations
-25
-For devices or device components that contain multiple materials with differing surface 
-areas or differing exposure to the body, if one or more materials is new (i.e., not used 
-before in devices with the same type and duration of contact), it may also be necessary to 
-test the new material component(s) separately as well, to further understand the potential 
-toxicity of this component. For example, for a catheter-based delivery system that contains 
-a new balloon material, tests of the delivery system separate from the balloon may be 
-necessary to ensure adequate assessment of each of the materials.
-VI. Test­Specific Considerations 
-If your risk assessment indicates that testing is warranted, we recommend that you consider the 
-following issues when conducting any of the tests identified below. While there are other 
-biocompatibility endpoints identified in Attachment A, only certain tests are discussed below. 
-The test-specific issues discussed in this section have been included because they are often areas 
-where deficiencies are frequently identified in premarket submissions.
-A.
-Cytotoxicity 
-If not otherwise addressed during the risk assessment process, for tests where the test 
-article is extracted in growth media, we recommend that extractions be conducted at 37 
-°C for 24 to 72 hours using a vehicle that will allow for extraction of both polar and 
-nonpolar constituents from the test article, such as mammalian cell culture media (e.g., 
-MEM) supplemented with 5-10% serum. 
-For novel materials (i.e., materials that have not previously been used in a legally 
-marketed medical device with the same type and duration of contact), we recommend that 
-both direct contact and elution methods be considered. For some devices, a direct contact 
-study per ISO 10993-5 may be needed to better reflect clinical use. Depending on the 
-nature and function of the material (e.g., coatings or surface topography modifications), a 
-non-standard direct contact study, where the cells are grown on a material surface, may 
-be needed if no implantation data are available.
-For materials that are inherently cytotoxic, additional testing using various dilutions of 
-the test solution may be necessary to determine the level at which cytotoxicity no longer 
-occurs. This information can be evaluated with respect to the clinical dose as well as 
-other mitigating factors such as duration of contact and clinical need (e.g., clinical 
-benefits versus risks). For some devices, such as dental acid etchants, devices containing 
-a known cytostatic/cytotoxic agent, or uncured polymer resins, additional comparative 
-cytotoxicity testing using a legally marketed medical device may be necessary to 
-demonstrate that the new device is no more cytotoxic than the comparative device with 
-the same type and duration of contact.
-B.
-Sensitization  
-There are two types of sensitization tests that are generally submitted in support of IDE 
-and marketing applications: the Guinea Pig Maximization Test and the Local Lymph
-
----
-
-<!-- Page 31 -->
-Contains Nonbinding Recommendations
-26
-Node Assay. In addition, the Buehler method can be used for topical devices only (i.e., 
-those in contact with skin), per ISO 10993-10.
-Guinea Pig Maximization Test (GPMT) 
-For this test, male and/or female healthy young adult animals should be used. If female 
-animals are used, we recommend that test reports confirm that the animals are nulliparous 
-and non-pregnant, as pregnancy can reduce the ability of a female animal to detect a 
-sensitization response.
-Assays with positive controls using the same source and strain of animals should be 
-performed regularly (at least once every six months, or if longer, concurrent with the test 
-assays) to ensure the reproducibility and sensitivity of the test procedure. We recommend 
-that test reports include positive control data from concurrent testing or from positive 
-control testing within three months (before or after) of the device testing using the same 
-methods and source and strain of animal.41 We also recommend that your positive control 
-testing include a minimum of five animals to demonstrate a reproducible and 
-appropriately positive response in the test system. If a periodic positive control fails, all 
-GPMT data generated after the last valid positive GPMT response should be considered 
-invalid because there is no assurance that the test system is working appropriately. 
-Therefore, repeating positive control testing to justify a failed positive control test would 
-not be sufficient. If root cause analysis confirms the loss of sensitivity of the animal herd 
-to the positive control, repeating device testing using a new animal herd is recommended 
-for any GPMT data collected between the successful and failed periodic positive control 
-testing.
-If a preliminary irritation study is not included in the sensitization protocol, adverse 
-findings at the end of the study may be due to irritation or sensitization, and additional 
-irritation studies to determine the causality may be needed.
+For devices or device components that contain multiple materials with differing surface areas or differing exposure to the body, if one or more materials is new (i.e., not used before in devices with the same type and duration of contact), it may also be necessary to test the new material component(s) separately as well, to further understand the potential toxicity of this component. For example, for a catheter-based delivery system that contains a new balloon material, tests of the delivery system separate from the balloon may be necessary to ensure adequate assessment of each of the materials.
+## VI. Test­Specific Considerations
+If your risk assessment indicates that testing is warranted, we recommend that you consider the following issues when conducting any of the tests identified below. While there are other biocompatibility endpoints identified in Attachment A, only certain tests are discussed below.
+The test-specific issues discussed in this section have been included because they are often areas where deficiencies are frequently identified in premarket submissions.
+### A. Cytotoxicity
+If not otherwise addressed during the risk assessment process, for tests where the test article is extracted in growth media, we recommend that extractions be conducted at 37
+°C for 24 to 72 hours using a vehicle that will allow for extraction of both polar and nonpolar constituents from the test article, such as mammalian cell culture media (e.g., MEM) supplemented with 5-10% serum.
+For novel materials (i.e., materials that have not previously been used in a legally marketed medical device with the same type and duration of contact), we recommend that both direct contact and elution methods be considered. For some devices, a direct contact study per ISO 10993-5 may be needed to better reflect clinical use. Depending on the nature and function of the material (e.g., coatings or surface topography modifications), a non-standard direct contact study, where the cells are grown on a material surface, may be needed if no implantation data are available.
+For materials that are inherently cytotoxic, additional testing using various dilutions of the test solution may be necessary to determine the level at which cytotoxicity no longer occurs. This information can be evaluated with respect to the clinical dose as well as other mitigating factors such as duration of contact and clinical need (e.g., clinical benefits versus risks). For some devices, such as dental acid etchants, devices containing a known cytostatic/cytotoxic agent, or uncured polymer resins, additional comparative cytotoxicity testing using a legally marketed medical device may be necessary to demonstrate that the new device is no more cytotoxic than the comparative device with the same type and duration of contact.
+### B. Sensitization
+There are two types of sensitization tests that are generally submitted in support of IDE and marketing applications: the Guinea Pig Maximization Test and the Local Lymph
+Node Assay. In addition, the Buehler method can be used for topical devices only (i.e., those in contact with skin), per ISO 10993-10.
+Guinea Pig Maximization Test (GPMT)
+For this test, male and/or female healthy young adult animals should be used. If female animals are used, we recommend that test reports confirm that the animals are nulliparous and non-pregnant, as pregnancy can reduce the ability of a female animal to detect a sensitization response.
+Assays with positive controls using the same source and strain of animals should be performed regularly (at least once every six months, or if longer, concurrent with the test assays) to ensure the reproducibility and sensitivity of the test procedure. We recommend that test reports include positive control data from concurrent testing or from positive control testing within three months (before or after) of the device testing using the same methods and source and strain of animal.41 We also recommend that your positive control testing include a minimum of five animals to demonstrate a reproducible and appropriately positive response in the test system. If a periodic positive control fails, all GPMT data generated after the last valid positive GPMT response should be considered invalid because there is no assurance that the test system is working appropriately.
+Therefore, repeating positive control testing to justify a failed positive control test would not be sufficient. If root cause analysis confirms the loss of sensitivity of the animal herd to the positive control, repeating device testing using a new animal herd is recommended for any GPMT data collected between the successful and failed periodic positive control testing.
+If a preliminary irritation study is not included in the sensitization protocol, adverse findings at the end of the study may be due to irritation or sensitization, and additional irritation studies to determine the causality may be needed.
 Local Lymph Node Assay (LLNA)
-FDA intends to evaluate use of LLNA tests for medical devices on a case-by-case basis 
-for medical device extract/residuals that are composed of chemical mixtures. LLNA tests 
-may be appropriate in the following circumstances: 
-·
-The LLNA can be used for testing metal compounds (with the exception of nickel 
-and nickel-containing metals) unless there are unique physicochemical properties 
-associated with these materials (e.g., nanomaterials) that may interfere with the 
-ability of the LLNA to detect sensitizing materials.
-41 ISO 10993-10:2021 Biological evaluation of medical devices – Part 10: Tests for skin sensitization states that for 
-sensitization testing “a positive control does not need to be included in every assay, but may be run at regular 
-intervals which shall not exceed six months.” The standard further states that “Using a positive control only once 
-every six months can have consequences for the results obtained in the previous six months period when this 
-positive control shows a negative outcome.” FDA has not historically recommended that sponsors wait up to six 
-months for the subsequent positive control data to support submissions to the FDA. Instead, FDA has historically 
-accepted studies with positive control data conducted within three months of the device test.
+FDA intends to evaluate use of LLNA tests for medical devices on a case-by-case basis for medical device extract/residuals that are composed of chemical mixtures. LLNA tests may be appropriate in the following circumstances: - The LLNA can be used for testing metal compounds (with the exception of nickel and nickel-containing metals) unless there are unique physicochemical properties associated with these materials (e.g., nanomaterials) that may interfere with the ability of the LLNA to detect sensitizing materials.
+The LLNA can be used for testing device materials in aqueous solutions unless there are unique physicochemical properties associated with these materials (e.g., nanomaterials) that may interfere with the ability of the LLNA to detect sensitizing chemicals. When testing device materials in aqueous solutions, it is essential to use an appropriate vehicle to maintain the test extract in contact with the skin (e.g., 1% Pluronic L92)42 so that adequate exposure can be achieved, as demonstrated by positive control results.
+LLNA should not be used in the following circumstance: - For devices made from novel materials (i.e., that have not been previously used in a legally marketed medical device), or “when testing substances that do not penetrate the skin but are used in devices that contact deep tissues or breached surfaces” [per ASTM F2148-18, Section 1.2], we recommend the use of the GPMT test. For novel materials, it is unknown whether chemicals will be able to penetrate the skin in an LLNA test, so GPMT (which includes intradermal injection at induction) is recommended.
 
----
+If LLNA testing is performed, FDA recommends that a fully validated standardized method be used. Currently, the only FDA-recognized validated method is a radioactive LLNA test performed in accordance with ASTM F2148 Standard Practice for Evaluation of Delayed Contact Hypersensitivity Using the Murine Local Lymph Node Assay (LLNA).
+The following test methods may be used as alternatives. If a nonradioactive LLNA method, such as the LLNA: 2-Bromodeoxyuridine-Enzyme Linked Immunosorbent
+Assay (BrdU-ELISA) test or the LLNA: Daicel Adenosine Triphosphate (DA) test, is used, we recommend you also consider the following: - For the LLNA: BrdU-ELISA test, the accuracy and reliability supports the use of the test method to identify device materials as potential skin sensitizers and nonsensitizers using a stimulation index (SI) ≥ 1.6 as the decision criterion to identify substances as potential sensitizers. For borderline positive responses between an SI of 1.6 and 1.9, there is a potential for false positive results that could limit the usefulness of this type of LLNA test.
+- For the LLNA: DA test, the accuracy and reliability support use of the test method to identify device materials as potential skin sensitizers and nonsensitizers using a stimulation index (SI) ≥ 1.8 as the decision criterion to identify substances as potential sensitizers. For borderline positive responses between an SI of 1.8 and 2.5 there is a potential for false positive results that could limit the usefulness of this type of LLNA test. In addition, the LLNA: DA is not appropriate for testing device materials that affect ATP levels (e.g., chemicals that function as ATP inhibitors) or those that affect the accurate measurement of 42 Boverhof, D.R., et al., “Interlaboratory validation of 1% pluronic L92 surfactant as a suitable, aqueous vehicle for testing pesticide formulations using the murine local lymph node assay.” Toxicol Sci, 2008, 105(1): 79-85.
+intracellular ATP (e.g., presence of ATP degrading enzymes, presence of extracellular ATP in the lymph node).
+### C. Hemocompatibility
+For devices having direct contact with circulating blood (regardless of contact duration), we recommend that you consider hemolysis, complement activation, and thrombogenicity testing, if not otherwise addressed during the risk assessment process.
+For devices having indirect contact with circulating blood (regardless of contact duration), we recommend that you consider only hemolysis testing, as complement activation and in vivo thrombogenicity testing are generally not needed for indirect bloodcontacting devices. However, for novel materials not previously used in legally marketed devices with cardiac or vascular applications, or for devices intended to release a chemical into the circulating blood, some in vitro assessment of thrombogenicity (e.g., the effect of extractables and leachables on platelets and the coagulation system) may also be needed for devices with indirect contact with blood.
 
-<!-- Page 32 -->
-Contains Nonbinding Recommendations
-27
-·
-The LLNA can be used for testing device materials in aqueous solutions unless 
-there are unique physicochemical properties associated with these materials (e.g., 
-nanomaterials) that may interfere with the ability of the LLNA to detect 
-sensitizing chemicals. When testing device materials in aqueous solutions, it is 
-essential to use an appropriate vehicle to maintain the test extract in contact with 
-the skin (e.g., 1% Pluronic L92)42 so that adequate exposure can be achieved, as 
-demonstrated by positive control results.
-LLNA should not be used in the following circumstance:
-·
-For devices made from novel materials (i.e., that have not been previously used in 
-a legally marketed medical device), or “when testing substances that do not 
-penetrate the skin but are used in devices that contact deep tissues or breached 
-surfaces” [per ASTM F2148-18, Section 1.2], we recommend the use of the 
-GPMT test. For novel materials, it is unknown whether chemicals will be able to 
-penetrate the skin in an LLNA test, so GPMT (which includes intradermal 
-injection at induction) is recommended.  
- 
-If LLNA testing is performed, FDA recommends that a fully validated standardized 
-method be used. Currently, the only FDA-recognized validated method is a radioactive 
-LLNA test performed in accordance with ASTM F2148 Standard Practice for Evaluation 
-of Delayed Contact Hypersensitivity Using the Murine Local Lymph Node Assay (LLNA).
-The following test methods may be used as alternatives. If a nonradioactive LLNA 
-method, such as the LLNA: 2-Bromodeoxyuridine-Enzyme Linked Immunosorbent 
-Assay (BrdU-ELISA) test or the LLNA: Daicel Adenosine Triphosphate (DA) test, is 
-used, we recommend you also consider the following:
-·
-For the LLNA: BrdU-ELISA test, the accuracy and reliability supports the use of 
-the test method to identify device materials as potential skin sensitizers and non-
-sensitizers using a stimulation index (SI) ≥ 1.6 as the decision criterion to identify 
-substances as potential sensitizers. For borderline positive responses between an 
-SI of 1.6 and 1.9, there is a potential for false positive results that could limit the 
-usefulness of this type of LLNA test.
-·
-For the LLNA: DA test, the accuracy and reliability support use of the test 
-method to identify device materials as potential skin sensitizers and non-
-sensitizers using a stimulation index (SI) ≥ 1.8 as the decision criterion to identify 
-substances as potential sensitizers. For borderline positive responses between an 
-SI of 1.8 and 2.5 there is a potential for false positive results that could limit the 
-usefulness of this type of LLNA test. In addition, the LLNA: DA is not 
-appropriate for testing device materials that affect ATP levels (e.g., chemicals that 
-function as ATP inhibitors) or those that affect the accurate measurement of 
-42 Boverhof, D.R., et al., “Interlaboratory validation of 1% pluronic L92 surfactant as a suitable, aqueous vehicle for 
-testing pesticide formulations using the murine local lymph node assay.” Toxicol Sci, 2008, 105(1): 79-85.
-
----
-
-<!-- Page 33 -->
-Contains Nonbinding Recommendations
-28
-intracellular ATP (e.g., presence of ATP degrading enzymes, presence of 
-extracellular ATP in the lymph node).
-C.
-Hemocompatibility  
-For devices having direct contact with circulating blood (regardless of contact duration), 
-we recommend that you consider hemolysis, complement activation, and 
-thrombogenicity testing, if not otherwise addressed during the risk assessment process. 
-For devices having indirect contact with circulating blood (regardless of contact 
-duration), we recommend that you consider only hemolysis testing, as complement 
-activation and in vivo thrombogenicity testing are generally not needed for indirect blood-
-contacting devices. However, for novel materials not previously used in legally marketed 
-devices with cardiac or vascular applications, or for devices intended to release a 
-chemical into the circulating blood, some in vitro assessment of thrombogenicity (e.g., 
-the effect of extractables and leachables on platelets and the coagulation system) may 
-also be needed for devices with indirect contact with blood.  
- 
-Where a risk assessment has determined that hemocompatibility testing is not necessary, 
-we recommend that you provide a summary of the assessment that supports waiving 
-these specific tests. For example, to support waiving thrombogenicity testing, the 
-materials used in formulation and processing, as well as the geometry of the device (e.g., 
-shape, dimensions, surface roughness, surface defects), should be compared to a legally 
-marketed device with similar blood contacting duration and an acceptable history of use 
-(see Attachment F).
+Where a risk assessment has determined that hemocompatibility testing is not necessary, we recommend that you provide a summary of the assessment that supports waiving these specific tests. For example, to support waiving thrombogenicity testing, the materials used in formulation and processing, as well as the geometry of the device (e.g., shape, dimensions, surface roughness, surface defects), should be compared to a legally marketed device with similar blood contacting duration and an acceptable history of use (see Attachment F).
 Hemolysis
-For hemolysis testing of devices having direct contact with circulating blood, we 
-recommend that both direct and indirect (extract) methods for material/surface-mediated 
-hemolysis be conducted per ASTM F756 Standard Practice for Assessment of Hemolytic 
-Properties of Materials or an equivalent method. For hemolysis testing of devices having 
-indirect contact with circulating blood, we recommend that only an indirect (extract) 
-method be conducted per ASTM F756, or an equivalent method. For devices or device 
-components that do not have direct or indirect contact with circulating blood, this testing 
-is generally not needed. For example, devices applied to the external surface of a blood 
-vessel may not need hemolysis testing, unless there is a risk for some components to 
-access the circulating blood (e.g., hemolysis testing should be performed on sealants 
-applied to vessel sutures).
-For some devices where high shear stress due to blood flow may be an issue, dynamic 
-hemolysis assessment under clinical use conditions may also be important. See relevant 
-device-specific guidance documents.43
-43 For example, FDA’s guidance document “Implanted Blood Access Devices for Hemodialysis – Guidance for 
-Industry and Food and Drug Administration Staff” available at https://www.fda.gov/regulatory-information/search-
-fda-guidance-documents/implanted-blood-access-devices-hemodialysis includes information on mechanical 
-hemolysis testing recommendations for these devices.
-
----
-
-<!-- Page 34 -->
-Contains Nonbinding Recommendations
-29
+For hemolysis testing of devices having direct contact with circulating blood, we recommend that both direct and indirect (extract) methods for material/surface-mediated hemolysis be conducted per ASTM F756 Standard Practice for Assessment of Hemolytic
+Properties of Materials or an equivalent method. For hemolysis testing of devices having indirect contact with circulating blood, we recommend that only an indirect (extract) method be conducted per ASTM F756, or an equivalent method. For devices or device components that do not have direct or indirect contact with circulating blood, this testing is generally not needed. For example, devices applied to the external surface of a blood vessel may not need hemolysis testing, unless there is a risk for some components to access the circulating blood (e.g., hemolysis testing should be performed on sealants applied to vessel sutures).
+For some devices where high shear stress due to blood flow may be an issue, dynamic hemolysis assessment under clinical use conditions may also be important. See relevant device-specific guidance documents.43
+Industry and Food and Drug Administration Staff” available at https://www.fda.gov/regulatory-information/searchfda-guidance-documents/implanted-blood-access-devices-hemodialysis includes information on mechanical hemolysis testing recommendations for these devices.
 Complement Activation
-Medical device-mediated complement activation is a complex process and is a function 
-of physical and chemical properties of the device. Many factors such as device surface 
-area, surface architecture, and chemical composition (e.g., functional groups)44 may 
-affect complement activation. If complement activation testing is performed for devices 
-having direct contact with blood, we recommend that you perform this testing with the 
-device (i.e., a direct contact study) instead of with an extract of the device. For in vitro 
-complement activation testing, we recommend assessment of SC5b-9 fragment activation 
-using an established ELISA test method. Functionally intact serum is preferred for in 
-vitro “static” complement activation testing.45,46 If whole blood or plasma is used, the 
-type of anticoagulant should be carefully selected to ensure that it does not inhibit or 
-potentiate complement activation caused by the test device itself. If whole blood or 
-plasma is used, test validation information should be provided to confirm that the testing 
-is capable of detecting differences between negative and positive reference controls. For 
-data interpretation, the test results are deemed satisfactory if there is no statistically 
-significant difference between the test article and the negative control. However, if the 
-differences between the test article and the negative control are statistically significant, 
-performing complement activation testing using a legally marketed comparator device 
-may be helpful for data interpretation. This is because there are no established pass/fail 
-criteria for a clinically acceptable level of complement activation. This comparator data 
-can therefore be used to assess the biological relevance of the results obtained with the 
-test device in the in vitro model. Equivalent methods for testing complement activation 
-such as in vivo animal models, in vitro “static” methods such as ASTM F1984 Standard 
-Practice for Testing for Whole Complement Activation in Serum by Solid Materials, or in 
-vitro dynamic testing using simulated clinical flow conditions can be used if 
-accompanied by appropriate validation information as outlined above. Alternatively, you 
-can provide a rationale for waiving complement activation testing, if all the materials 
-used in the formulation and processing of the device have a history of previous use in 
-blood-contacting devices with comparable or larger surface area and equivalent contact 
-duration. 
+Medical device-mediated complement activation is a complex process and is a function of physical and chemical properties of the device. Many factors such as device surface area, surface architecture, and chemical composition (e.g., functional groups)44 may affect complement activation. If complement activation testing is performed for devices having direct contact with blood, we recommend that you perform this testing with the device (i.e., a direct contact study) instead of with an extract of the device. For in vitro complement activation testing, we recommend assessment of SC5b-9 fragment activation using an established ELISA test method. Functionally intact serum is preferred for in vitro “static” complement activation testing.45,46 If whole blood or plasma is used, the type of anticoagulant should be carefully selected to ensure that it does not inhibit or potentiate complement activation caused by the test device itself. If whole blood or plasma is used, test validation information should be provided to confirm that the testing is capable of detecting differences between negative and positive reference controls. For data interpretation, the test results are deemed satisfactory if there is no statistically significant difference between the test article and the negative control. However, if the differences between the test article and the negative control are statistically significant, performing complement activation testing using a legally marketed comparator device may be helpful for data interpretation. This is because there are no established pass/fail criteria for a clinically acceptable level of complement activation. This comparator data can therefore be used to assess the biological relevance of the results obtained with the test device in the in vitro model. Equivalent methods for testing complement activation such as in vivo animal models, in vitro “static” methods such as ASTM F1984 Standard
+Practice for Testing for Whole Complement Activation in Serum by Solid Materials, or in vitro dynamic testing using simulated clinical flow conditions can be used if accompanied by appropriate validation information as outlined above. Alternatively, you can provide a rationale for waiving complement activation testing, if all the materials used in the formulation and processing of the device have a history of previous use in blood-contacting devices with comparable or larger surface area and equivalent contact duration.
 Thrombogenicity
-In keeping with the Agency’s position on minimizing animal use for device testing, we 
-recommend that thrombogenicity be assessed as part of a safety or functional study 
-conducted in a relevant animal model, if such a study is generally conducted for a 
-particular device type. For example, the safety of cardiovascular stents is commonly 
-evaluated in an animal model and could include thrombogenicity assessments of the 
-delivery system and the implanted device. Protocols for studies with thrombogenicity 
-endpoints should include appropriate methods to assess device-associated thrombus 
-formation (e.g., photographic evidence) and thromboembolism in relevant downstream 
-44 Moghimi, S.M., et al., “Material properties in complement activation.” Adv Drug Deliv Rev, 2011, 63(12): 1000-
-1007.
-45 Harboe, M., et al., “Advances in assay of complement function and activation.” Adv Drug Deliv Rev, 2011, 
-63(12): 976-987.
+In keeping with the Agency’s position on minimizing animal use for device testing, we recommend that thrombogenicity be assessed as part of a safety or functional study conducted in a relevant animal model, if such a study is generally conducted for a particular device type. For example, the safety of cardiovascular stents is commonly evaluated in an animal model and could include thrombogenicity assessments of the delivery system and the implanted device. Protocols for studies with thrombogenicity endpoints should include appropriate methods to assess device-associated thrombus formation (e.g., photographic evidence) and thromboembolism in relevant downstream 44 Moghimi, S.M., et al., “Material properties in complement activation.” Adv Drug Deliv Rev, 2011, 63(12): 1000-
+1007. 45 Harboe, M., et al., “Advances in assay of complement function and activation.” Adv Drug Deliv Rev, 2011, 63(12): 976-987.
 46 Lachmann, P.J., “Preparing serum for functional complement assays.” J Immunol Methods, 2010, 352 (1-2): 195-
-197.
-
----
-
-<!-- Page 35 -->
-Contains Nonbinding Recommendations
-30
-organs. If device thrombus is evident at explantation, or the device is intended for use 
-upstream from a vital organ, additional histopathological analysis may be helpful to 
-assess local, upstream, and downstream tissue(s).
-When performing in vivo tests, there are many parameters that could affect the results of 
-the test, including:
-·
-animal species;
-·
-positioning of the animal during the operation to simulate clinical positioning;
-·
-anticoagulation regimen, if applicable;
-·
-implantation technique to minimize vessel trauma at the implant site;
-·
-vessel to device diameter ratio, where larger vessels should be used for larger 
-diameter devices to maintain a diameter relationship similar to what will be seen 
-in patients, and to avoid artifactual disruption of blood flow and contact with the 
-vessel wall;
-·
-device positioning and securement to ensure blood flow around the device; and
-·
-explantation technique to ensure minimal disruption of adhered thrombus and to 
-minimize post-mortem clot formation.
-When performing in vivo studies, fluoroscopy may be useful to ensure proper device 
-placement. If only a portion of the device is being utilized for thrombogenicity testing, 
-the sponsor should confirm that the test article is representative of all materials and 
-important geometrical/surface features that would have direct contact with the blood. In 
-addition, we recommend that for all in vivo thrombogenicity assessments, color 
-photographs of the device/vessel explants be provided.
-For some devices such as oxygenators, for which in vivo animal studies are generally not 
-conducted, a series of in vitro or ex vivo blood damage assessments may be used to 
-support regulatory submissions. In particular, a battery of in vitro tests to include 
-assessment of platelets (e.g., adhesion, activation), and the coagulation system [e.g., 
-Thrombin-Antithrombin Complex (TAT), Partial Thromboplastin Time (PTT)47] may be 
-used as a substitute for in vivo thrombogenicity testing. For assessment of changes only 
-to the material, but not to the geometry or surface characteristics of the device, testing in 
-a “static” environment (e.g., with gentle agitation of the blood in the absence of simulated 
-clinical flow conditions) may be sufficient. However, for new devices, and/or for changes 
-to the geometry of an existing device, assessment of flow-mediated thrombosis under 
-47 This would not be the activated PTT (aPPT) test that is used clinically. As noted in ISO 10993-4:2017 Biological 
-evaluation of Medical Devices – Part 4: Selection of tests for interaction with blood, the activated PTT (aPTT) test 
-“is rarely useful in the in vitro evaluation of the thrombogenic properties of blood-contacting devices/materials 
-because the activating substances mask any activation caused by the device or its component materials.”
-
----
-
-<!-- Page 36 -->
-Contains Nonbinding Recommendations
-31
-simulated clinical flow conditions is recommended. This study design should include the 
-assessment of platelets, the coagulation system, and macroscopic thrombus formation.
-For in vitro tests, the use of human blood is preferred. If blood from multiple donors 
-cannot be pooled together for use in a single test, we recommend that blood from a 
-different donor be used for each repeat test to demonstrate that results aren’t impacted by 
-donor variability. For tests that require large blood volumes, animal blood may be used 
-with justification. The flow conditions (e.g., gentle agitation versus clinically relevant 
-flow), and the type and concentration of anticoagulation used for in vitro testing, may 
-depend on the test system and the clinical indication of the device. We recommend 
-validation of the test conditions to confirm that the test can differentiate between positive 
-and negative responses.
-In some cases additional thrombogenicity evaluation may be needed, for example, if:
-·
-your device includes novel materials that have not previously been used in legally 
-marketed devices with blood-contact, especially if the potential exists for use of 
-the device in non-anticoagulated patients, or
-·
-there are questionable or inconclusive hemocompatibility findings from an in vivo 
-safety study or previously conducted in vitro thrombogenicity studies.
-This evaluation might include additional in vitro or in vivo testing, depending on the 
-specific device type, intended clinical use, and concerns (if any) from prior testing.
-In certain instances, an acute (e.g., four to six hours) non-anticoagulated animal study 
-may be needed, for example:
-·
-for devices that are not always used with anticoagulation (e.g., diagnostic cardiac 
-catheters), 
-·
-for patients where anticoagulants cannot be used for clinical reasons (e.g., for 
-devices intended to treat patients with hemophilia), or
-·
-when investigating design features intended to reduce the potential for 
-thrombogenicity (e.g., the effectiveness of a coating).
-While non-anticoagulated in vivo studies have limitations, when performed correctly, 
-they can provide useful information on how synergistic mechanisms (e.g., material and 
-geometry of the device, arterial versus venous blood flow) influence thrombosis.
-If a non-anticoagulated in vivo study results in elevated thrombus scores (i.e., the device 
-is not thromboresistant), it may be necessary to screen for device-related characteristics, 
-such as surface defects (e.g., microscopy with at least 40x magnification), that may 
-contribute to the thrombogenicity. In some cases, a detailed analysis of your device 
-geometry and surface as compared to a legally marketed device may also be beneficial. 
-Depending on the level of thrombus seen, the surface analysis results, and the potential
-
----
-
-<!-- Page 37 -->
-Contains Nonbinding Recommendations
-32
-risk to the patient, we may recommend that you repeat the in vivo study with clinically 
-relevant levels of anticoagulant to confirm that the anticoagulant will counter the 
-thrombogenic response seen in the non-anticoagulated model.48 In this case, labeling may 
-also be needed to contraindicate the use of the device in non-anticoagulated patients.
-D.
-Pyrogenicity  
-Implants (due to their contact with the lymphatic system), as well as sterile devices 
-having direct or indirect contact with the cardiovascular system, the lymphatic system, or 
-cerebrospinal fluid (CSF) (regardless of duration of contact) and devices labeled as “non-
-pyrogenic,” should meet pyrogen limit specifications.49 Pyrogenicity information is used 
-to help protect patients from the risk of febrile reaction. There are two sources of 
-pyrogens that should be considered when addressing pyrogenicity. The first, material-
-mediated pyrogens, are chemicals that can leach from a medical device during device 
-use.50 Pyrogens from bacterial endotoxins can also produce a febrile reaction similar to 
-that mediated by some materials.  
-If recommended for consideration per Attachment A, material-mediated pyrogenicity 
-testing is not needed if chemical characterization of the device extract and previous 
-information indicate that all patient-contacting components have been adequately 
-assessed for pyrogenicity. Otherwise, we recommend that you assess material-mediated 
-pyrogenicity using traditional biocompatibility extraction methods (e.g., 50 °C for 72 
-hours; 70 °C for 24 hours; or 121 °C for 1 hour per ISO 10993-12:2021), using a 
-pyrogenicity test such as the one outlined in USP &lt;151> Pyrogen Test (USP Rabbit Test) 
-or an equivalent validated method. For devices that contain heat labile or heat sensitive 
-materials (e.g., drugs, biomolecules, tissue-derived components), which may have the 
-potential to undergo deformation or material configuration/structural change at high 
-temperature, extraction at 37 °C per ISO 10993-12:2021 is recommended.
-48 Historically, some have proposed the use of anticoagulant in a four hour canine in vivo thrombogenicity study to 
-support regulatory submissions. Anticoagulant use in this type of study may significantly affect the ability of the 
-study to provide informative data regarding the thrombogenic potential of a device. Therefore, data from this type of 
-study is generally only useful for comparative purposes (i.e., to determine if clinically relevant anticoagulation will 
-counter any thrombogenic effects seen in non-anticoagulated studies).
-49 Refer to FDA’s “Guidance for Industry – Pyrogen and Endotoxins Testing:  Questions and Answers” (June 2012) 
-for information on pyrogen limit specifications.
-50 Even over a relatively short duration of use, chemical pyrogens can be released within the body and initiate a 
-febrile reaction.
-
----
-
-<!-- Page 38 -->
-Contains Nonbinding Recommendations
-33
-Bacterial pyrogens51 are traditionally addressed as part of the sterility assessment. We 
-recommend that you refer to the most recent sterility guidance document52 for 
-recommendations related to testing to determine endotoxin levels for sterile devices.53
-If a sponsor would like to label their device “non-pyrogenic” even if there are no 
-endotoxin limit specifications based on the nature of body contact, we recommend that 
-both the bacterial endotoxin and rabbit material-mediated pyrogen testing be conducted.
-E.
-Implantation 
-For implantation testing, if there are characteristics of the device geometry that may 
-confound interpretation of this test, it may be acceptable to use device sub-components or 
-coupons instead of the device in its final finished form, with appropriate justification. For 
-example, it may be acceptable to use a coupon instead of a stent, if information is provided 
-to demonstrate that the manufacturing and resulting surface properties are comparable.
-Instead of a traditional toxicology implantation study in subcutaneous, muscle, or bone 
-tissues, a clinically relevant (e.g., brain, vascular) implantation assessment may be more 
-appropriate for certain implant devices with relatively high safety risks, as described in 
-ISO 10993-6 Biological evaluation of medical devices – Part 6: Tests for local effects 
-after implantation. Clinically relevant implantation54 studies are critical to determine the 
-systemic and local tissue responses to the implant in a relevant anatomical environment 
-under simulated clinical conditions.55 In some cases, the toxicity outcomes that would be 
-obtained from a clinically relevant implantation study can be assessed as part of in vivo 
-animal studies that are performed to assess overall device safety (e.g., the protocol for an 
-animal study to evaluate delivery and deployment of a device may also include 
-assessment of relevant toxicity endpoints).
-51 This section of the guidance is addressing only the potential issues with febrile reactions, but bacterial endotoxins 
-can also lead to inflammation (e.g., swelling, pain).
-52 Refer to FDA’s guidance document “Submission and Review of Sterility Information in Premarket Notification 
-(510(k)) Submissions for Devices Labeled as Sterile – Guidance for Industry Food and Drug Administration Staff” 
-available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/submission-and-review-
-sterility-information-premarket-notification-510k-submissions-devices-labeled. Refer also to FDA’s “Guidance for 
-Industry – Pyrogen and Endotoxins Testing:  Questions and Answers” https://www.fda.gov/regulatory-
-information/search-fda-guidance-documents/pyrogen-and-endotoxins-testing-questions-and-answers for information 
-on testing for bacterial endotoxin.
-53 Although the sterility guidance was written to address sterility information for 510(k) submissions, the 
-information about bacterial endotoxin testing is also relevant to devices submitted in IDE or other marketing 
-applications.
-54 For information on FDA’s recommendations for animal studies intended to evaluate medical devices, see FDA’s 
-guidance titled “General Considerations for Animal Studies Intended to Evaluate Medical Devices” available at
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/general-considerations-animal-studies-
-intended-evaluate-medical-devices
-55 For active implantable devices, see relevant device-specific guidance documents for information regarding the 
-need for active stimulation during implantation studies, such as FDA’s “Guidance for Industry and FDA Staff – 
-Guidance for the Submission of Research and Marketing Applications for Pacemaker Leads and Lead Adaptor 
-510(k) Submissions” available at https://www.fda.gov/medical-devices/guidance-documents-medical-devices-and-
-radiation-emitting-products/submission-research-and-marketing-applications-permanent-pacemaker-leads-and-
-pacemaker-lead-adaptor
-
----
-
-<!-- Page 39 -->
-Contains Nonbinding Recommendations
-34
-Clinically relevant implantation and muscle or subcutaneous implantation tests may be 
-informative to the overall biocompatibility assessment of both the material components 
-of the device and the device in its final finished form when used in its intended 
-anatomical location. Muscle or subcutaneous implantation tests often are not needed 
-when clinically relevant implantation studies are conducted. However, the muscle or 
-subcutaneous implantation study may be helpful as a screening test to assess local 
-toxicities. For example, because the muscle implants tend to form a fibrous capsule 
-around the implant, any materials eluted over time from the test article may be contained 
-within the capsule, and therefore may result in an exaggerated response not observed in 
-the site-specific implantation study. In addition, a well-defined muscle implantation study 
-is often helpful to interpret the data from clinically relevant implantation studies that may 
-include other confounding factors (e.g., concomitant treatments may interfere with tissue 
-response). Therefore, muscle implantation studies should be considered as a supplemental 
-test even when clinically relevant implantation studies are performed, especially when 
-new materials/chemicals are used in a medical device or the results of a clinically 
-relevant implantation study raise toxicity concerns.  
-For implantation testing of devices with materials that are intended to degrade, we 
-recommend that tests include interim assessments to determine the tissue response during 
-degradation (i.e., when there is minimal or no degradation, if applicable; during 
-degradation to demonstrate a pattern of progressive degradation; and once a steady state 
-has been reached with respect to material degradation and tissue response). Selection of 
-interim assessment time points may be based on in vitro degradation testing.
-F.
-Genotoxicity 
-Genotoxicity testing may not be needed if chemical characterization of device extracts 
-and literature references indicate that all components have been adequately tested for 
-genotoxicity.
-Genotoxicity testing may not be informative for devices containing materials already 
-known to be genotoxic, because a positive result will be assumed to be due to the known 
-genotoxin. Thus, a second genotoxin from another source may be overlooked. If 
-genotoxicity testing is performed, a negative result should be interpreted as a negative for 
-the other device components or interaction products, but does not necessarily negate the 
-risk of the known genotoxin. Chemical characterization may be needed to demonstrate to 
-what extent the genotoxin is released from the device. For known genotoxins, the overall 
-benefit-risk determination will depend on the device indication and human exposure.
-Genotoxicity testing is requested when the genotoxicity profile has not been adequately 
-established. As described in Attachment A, CDRH and CBER traditionally requests 
-genotoxicity information for some devices with prolonged contact (> 24 hours to 30 
-days) or long term contact (> 30 days) with blood, bone, mucosa or other tissue, or any 
-materials that have not previously been used in legally marketed medical device 
-applications regardless of the duration of use.
-
----
-
-<!-- Page 40 -->
-Contains Nonbinding Recommendations
-35
-Genotoxicity evaluations are also requested for all devices used in extracorporeal blood-
-contacting circuits, even if the contact is less than 24 hours, genotoxicity evaluations are 
-recommended because of the high surface area, the associated increased potential for 
-chemical leaching, and introduction of any leachables into the systemic circulation. If 
-these devices include leachables with an unknown genotoxicity profile (i.e., no 
-toxicology information in the literature), some additional genotoxicity information may 
-be necessary.
-Because no single test can detect all genotoxins, we recommend the following two in 
-vitro tests be conducted, as well as an optional third in vivo test:56
-·
-Bacterial gene mutation assay. This test is conducted with engineered strains of 
-Salmonella typhimurium and Escherichia coli designed to detect all possible 
-single base pair changes as well as frameshift mutations (OECD 471 Guidelines 
-for Testing of Chemicals – Bacterial Reverse Mutation Test).
-·
-An in vitro mammalian genotoxicity assay. A choice of one of the following is 
-recommended: 
-a) the mouse lymphoma gene mutation assay (OECD 490 Guidelines for the 
-Testing of Chemicals – In Vitro Mammalian Cell Gene Mutation Tests using 
-the Thymidine Kinase Gene), which is preferred since it detects the broadest 
-set of genotoxic mechanisms associated with carcinogenic activity;57
-b) an in vitro chromosomal aberration (CA) assay (OECD 473 Guidelines for the 
-Testing of Chemicals – In Vitro Mammalian Chromosome Aberration Test); or
-c) an in vitro micronucleus assay (OECD 487 Guidelines for the Testing of 
+197. organs. If device thrombus is evident at explantation, or the device is intended for use upstream from a vital organ, additional histopathological analysis may be helpful to assess local, upstream, and downstream tissue(s).
+When performing in vivo tests, there are many parameters that could affect the results of the test, including: · animal species; · positioning of the animal during the operation to simulate clinical positioning; · anticoagulation regimen, if applicable; · implantation technique to minimize vessel trauma at the implant site; · vessel to device diameter ratio, where larger vessels should be used for larger diameter devices to maintain a diameter relationship similar to what will be seen in patients, and to avoid artifactual disruption of blood flow and contact with the vessel wall; · device positioning and securement to ensure blood flow around the device; and · explantation technique to ensure minimal disruption of adhered thrombus and to minimize post-mortem clot formation.
+When performing in vivo studies, fluoroscopy may be useful to ensure proper device placement. If only a portion of the device is being utilized for thrombogenicity testing, the sponsor should confirm that the test article is representative of all materials and important geometrical/surface features that would have direct contact with the blood. In addition, we recommend that for all in vivo thrombogenicity assessments, color photographs of the device/vessel explants be provided.
+For some devices such as oxygenators, for which in vivo animal studies are generally not conducted, a series of in vitro or ex vivo blood damage assessments may be used to support regulatory submissions. In particular, a battery of in vitro tests to include assessment of platelets (e.g., adhesion, activation), and the coagulation system [e.g., Thrombin-Antithrombin Complex (TAT), Partial Thromboplastin Time (PTT)47] may be used as a substitute for in vivo thrombogenicity testing. For assessment of changes only to the material, but not to the geometry or surface characteristics of the device, testing in a “static” environment (e.g., with gentle agitation of the blood in the absence of simulated clinical flow conditions) may be sufficient. However, for new devices, and/or for changes to the geometry of an existing device, assessment of flow-mediated thrombosis under 47 This would not be the activated PTT (aPPT) test that is used clinically. As noted in ISO 10993-4:2017 Biological evaluation of Medical Devices – Part 4: Selection of tests for interaction with blood, the activated PTT (aPTT) test “is rarely useful in the in vitro evaluation of the thrombogenic properties of blood-contacting devices/materials because the activating substances mask any activation caused by the device or its component materials.” simulated clinical flow conditions is recommended. This study design should include the assessment of platelets, the coagulation system, and macroscopic thrombus formation.
+For in vitro tests, the use of human blood is preferred. If blood from multiple donors cannot be pooled together for use in a single test, we recommend that blood from a different donor be used for each repeat test to demonstrate that results aren’t impacted by donor variability. For tests that require large blood volumes, animal blood may be used with justification. The flow conditions (e.g., gentle agitation versus clinically relevant flow), and the type and concentration of anticoagulation used for in vitro testing, may depend on the test system and the clinical indication of the device. We recommend validation of the test conditions to confirm that the test can differentiate between positive and negative responses.
+In some cases additional thrombogenicity evaluation may be needed, for example, if: · your device includes novel materials that have not previously been used in legally marketed devices with blood-contact, especially if the potential exists for use of the device in non-anticoagulated patients, or · there are questionable or inconclusive hemocompatibility findings from an in vivo safety study or previously conducted in vitro thrombogenicity studies.
+This evaluation might include additional in vitro or in vivo testing, depending on the specific device type, intended clinical use, and concerns (if any) from prior testing.
+In certain instances, an acute (e.g., four to six hours) non-anticoagulated animal study may be needed, for example: · for devices that are not always used with anticoagulation (e.g., diagnostic cardiac catheters), · for patients where anticoagulants cannot be used for clinical reasons (e.g., for devices intended to treat patients with hemophilia), or · when investigating design features intended to reduce the potential for thrombogenicity (e.g., the effectiveness of a coating).
+While non-anticoagulated in vivo studies have limitations, when performed correctly, they can provide useful information on how synergistic mechanisms (e.g., material and geometry of the device, arterial versus venous blood flow) influence thrombosis.
+If a non-anticoagulated in vivo study results in elevated thrombus scores (i.e., the device is not thromboresistant), it may be necessary to screen for device-related characteristics, such as surface defects (e.g., microscopy with at least 40x magnification), that may contribute to the thrombogenicity. In some cases, a detailed analysis of your device geometry and surface as compared to a legally marketed device may also be beneficial.
+Depending on the level of thrombus seen, the surface analysis results, and the potential risk to the patient, we may recommend that you repeat the in vivo study with clinically relevant levels of anticoagulant to confirm that the anticoagulant will counter the thrombogenic response seen in the non-anticoagulated model.48 In this case, labeling may also be needed to contraindicate the use of the device in non-anticoagulated patients.
+### D. Pyrogenicity
+Implants (due to their contact with the lymphatic system), as well as sterile devices having direct or indirect contact with the cardiovascular system, the lymphatic system, or cerebrospinal fluid (CSF) (regardless of duration of contact) and devices labeled as “nonpyrogenic,” should meet pyrogen limit specifications.49 Pyrogenicity information is used to help protect patients from the risk of febrile reaction. There are two sources of pyrogens that should be considered when addressing pyrogenicity. The first, materialmediated pyrogens, are chemicals that can leach from a medical device during device use.50 Pyrogens from bacterial endotoxins can also produce a febrile reaction similar to that mediated by some materials.
+If recommended for consideration per Attachment A, material-mediated pyrogenicity testing is not needed if chemical characterization of the device extract and previous information indicate that all patient-contacting components have been adequately assessed for pyrogenicity. Otherwise, we recommend that you assess material-mediated pyrogenicity using traditional biocompatibility extraction methods (e.g., 50 °C for 72 hours; 70 °C for 24 hours; or 121 °C for 1 hour per ISO 10993-12:2021), using a pyrogenicity test such as the one outlined in USP &lt;151> Pyrogen Test (USP Rabbit Test) or an equivalent validated method. For devices that contain heat labile or heat sensitive materials (e.g., drugs, biomolecules, tissue-derived components), which may have the potential to undergo deformation or material configuration/structural change at high temperature, extraction at 37 °C per ISO 10993-12:2021 is recommended.
+48 Historically, some have proposed the use of anticoagulant in a four hour canine in vivo thrombogenicity study to support regulatory submissions. Anticoagulant use in this type of study may significantly affect the ability of the study to provide informative data regarding the thrombogenic potential of a device. Therefore, data from this type of study is generally only useful for comparative purposes (i.e., to determine if clinically relevant anticoagulation will counter any thrombogenic effects seen in non-anticoagulated studies).
+49 Refer to FDA’s “Guidance for Industry – Pyrogen and Endotoxins Testing:  Questions and Answers” (June 2012) for information on pyrogen limit specifications.
+50 Even over a relatively short duration of use, chemical pyrogens can be released within the body and initiate a febrile reaction.
+Bacterial pyrogens51 are traditionally addressed as part of the sterility assessment. We recommend that you refer to the most recent sterility guidance document52 for recommendations related to testing to determine endotoxin levels for sterile devices.53
+If a sponsor would like to label their device “non-pyrogenic” even if there are no endotoxin limit specifications based on the nature of body contact, we recommend that both the bacterial endotoxin and rabbit material-mediated pyrogen testing be conducted.
+### E. Implantation
+For implantation testing, if there are characteristics of the device geometry that may confound interpretation of this test, it may be acceptable to use device sub-components or coupons instead of the device in its final finished form, with appropriate justification. For example, it may be acceptable to use a coupon instead of a stent, if information is provided to demonstrate that the manufacturing and resulting surface properties are comparable.
+Instead of a traditional toxicology implantation study in subcutaneous, muscle, or bone tissues, a clinically relevant (e.g., brain, vascular) implantation assessment may be more appropriate for certain implant devices with relatively high safety risks, as described in ISO 10993-6 Biological evaluation of medical devices – Part 6: Tests for local effects after implantation. Clinically relevant implantation54 studies are critical to determine the systemic and local tissue responses to the implant in a relevant anatomical environment under simulated clinical conditions.55 In some cases, the toxicity outcomes that would be obtained from a clinically relevant implantation study can be assessed as part of in vivo animal studies that are performed to assess overall device safety (e.g., the protocol for an animal study to evaluate delivery and deployment of a device may also include assessment of relevant toxicity endpoints).
+51 This section of the guidance is addressing only the potential issues with febrile reactions, but bacterial endotoxins can also lead to inflammation (e.g., swelling, pain).
+52 Refer to FDA’s guidance document “Submission and Review of Sterility Information in Premarket Notification (510(k)) Submissions for Devices Labeled as Sterile – Guidance for Industry Food and Drug Administration Staff” available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/submission-and-reviewsterility-information-premarket-notification-510k-submissions-devices-labeled. Refer also to FDA’s “Guidance for
+Industry – Pyrogen and Endotoxins Testing:  Questions and Answers” https://www.fda.gov/regulatoryinformation/search-fda-guidance-documents/pyrogen-and-endotoxins-testing-questions-and-answers for information on testing for bacterial endotoxin.
+53 Although the sterility guidance was written to address sterility information for 510(k) submissions, the information about bacterial endotoxin testing is also relevant to devices submitted in IDE or other marketing applications.
+54 For information on FDA’s recommendations for animal studies intended to evaluate medical devices, see FDA’s guidance titled “General Considerations for Animal Studies Intended to Evaluate Medical Devices” available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/general-considerations-animal-studiesintended-evaluate-medical-devices 55 For active implantable devices, see relevant device-specific guidance documents for information regarding the need for active stimulation during implantation studies, such as FDA’s “Guidance for Industry and FDA Staff –
+Guidance for the Submission of Research and Marketing Applications for Pacemaker Leads and Lead Adaptor 510(k) Submissions” available at https://www.fda.gov/medical-devices/guidance-documents-medical-devices-andradiation-emitting-products/submission-research-and-marketing-applications-permanent-pacemaker-leads-andpacemaker-lead-adaptor
+Clinically relevant implantation and muscle or subcutaneous implantation tests may be informative to the overall biocompatibility assessment of both the material components of the device and the device in its final finished form when used in its intended anatomical location. Muscle or subcutaneous implantation tests often are not needed when clinically relevant implantation studies are conducted. However, the muscle or subcutaneous implantation study may be helpful as a screening test to assess local toxicities. For example, because the muscle implants tend to form a fibrous capsule around the implant, any materials eluted over time from the test article may be contained within the capsule, and therefore may result in an exaggerated response not observed in the site-specific implantation study. In addition, a well-defined muscle implantation study is often helpful to interpret the data from clinically relevant implantation studies that may include other confounding factors (e.g., concomitant treatments may interfere with tissue response). Therefore, muscle implantation studies should be considered as a supplemental test even when clinically relevant implantation studies are performed, especially when new materials/chemicals are used in a medical device or the results of a clinically relevant implantation study raise toxicity concerns.
+For implantation testing of devices with materials that are intended to degrade, we recommend that tests include interim assessments to determine the tissue response during degradation (i.e., when there is minimal or no degradation, if applicable; during degradation to demonstrate a pattern of progressive degradation; and once a steady state has been reached with respect to material degradation and tissue response). Selection of interim assessment time points may be based on in vitro degradation testing.
+### F. Genotoxicity
+Genotoxicity testing may not be needed if chemical characterization of device extracts and literature references indicate that all components have been adequately tested for genotoxicity.
+Genotoxicity testing may not be informative for devices containing materials already known to be genotoxic, because a positive result will be assumed to be due to the known genotoxin. Thus, a second genotoxin from another source may be overlooked. If genotoxicity testing is performed, a negative result should be interpreted as a negative for the other device components or interaction products, but does not necessarily negate the risk of the known genotoxin. Chemical characterization may be needed to demonstrate to what extent the genotoxin is released from the device. For known genotoxins, the overall benefit-risk determination will depend on the device indication and human exposure.
+Genotoxicity testing is requested when the genotoxicity profile has not been adequately established. As described in Attachment A, CDRH and CBER traditionally requests genotoxicity information for some devices with prolonged contact (> 24 hours to 30 days) or long term contact (> 30 days) with blood, bone, mucosa or other tissue, or any materials that have not previously been used in legally marketed medical device applications regardless of the duration of use.
+Genotoxicity evaluations are also requested for all devices used in extracorporeal bloodcontacting circuits, even if the contact is less than 24 hours, genotoxicity evaluations are recommended because of the high surface area, the associated increased potential for chemical leaching, and introduction of any leachables into the systemic circulation. If these devices include leachables with an unknown genotoxicity profile (i.e., no toxicology information in the literature), some additional genotoxicity information may be necessary.
+Because no single test can detect all genotoxins, we recommend the following two in vitro tests be conducted, as well as an optional third in vivo test:56
+- Bacterial gene mutation assay. This test is conducted with engineered strains of
+Salmonella typhimurium and Escherichia coli designed to detect all possible single base pair changes as well as frameshift mutations (OECD 471 Guidelines for Testing of Chemicals – Bacterial Reverse Mutation Test).
+- An in vitro mammalian genotoxicity assay. A choice of one of the following is recommended: a) the mouse lymphoma gene mutation assay (OECD 490 Guidelines for the
+Testing of Chemicals – In Vitro Mammalian Cell Gene Mutation Tests using the Thymidine Kinase Gene), which is preferred since it detects the broadest set of genotoxic mechanisms associated with carcinogenic activity;57 b) an in vitro chromosomal aberration (CA) assay (OECD 473 Guidelines for the
+Testing of Chemicals – In Vitro Mammalian Chromosome Aberration Test); or c) an in vitro micronucleus assay (OECD 487 Guidelines for the Testing of
 Chemicals – In Vitro Mammalian Cell Micronucleus Test).
-·
-An in vivo cytogenetics assay should be considered, for example, for devices 
-containing novel materials. However, if the quantities of materials in the test 
-extract following exhaustive extraction of the devices are below the threshold of 
-detection of the in vivo assay, the test does not need to be performed.  
- 
-When an in vivo assay is needed, a choice of one of the following is 
-recommended: 
-a) a bone marrow micronucleus (MN) Assay (OECD 474 Guidelines for the 
-Testing of Chemicals – Mammalian Erythrocyte Micronucleus Test); or
-56 All of the OECD guidelines referenced in this section are incorporated by reference in ISO 10993-3 Biological 
-evaluation of medical devices – Part 3: Tests for genotoxicity, carcinogenicity and reproductive toxicity, which is 
-FDA-recognized.
-57 Applegate, M.L., et al., “Molecular dissection of mutations at the heterozygous thymidine kinase locus in mouse 
-lymphoma cells.” Proc. Natl. Acad. Sci. USA, 1990, 87(1): 51-55.
+- An in vivo cytogenetics assay should be considered, for example, for devices containing novel materials. However, if the quantities of materials in the test extract following exhaustive extraction of the devices are below the threshold of detection of the in vivo assay, the test does not need to be performed.
 
----
-
-<!-- Page 41 -->
-Contains Nonbinding Recommendations
-36
-b) a bone marrow chromosomal aberration (CA) assay (OECD 475 Guidelines 
-for the Testing of Chemicals – Mammalian Bone Marrow Chromosome 
-Aberration Test); or
-c) a peripheral blood MN assay (OECD 474 Guidelines for the Testing of 
+When an in vivo assay is needed, a choice of one of the following is recommended: a) a bone marrow micronucleus (MN) Assay (OECD 474 Guidelines for the
+Testing of Chemicals – Mammalian Erythrocyte Micronucleus Test); or 56 All of the OECD guidelines referenced in this section are incorporated by reference in ISO 10993-3 Biological evaluation of medical devices – Part 3: Tests for genotoxicity, carcinogenicity and reproductive toxicity, which is FDA-recognized.
+57 Applegate, M.L., et al., “Molecular dissection of mutations at the heterozygous thymidine kinase locus in mouse lymphoma cells.” Proc. Natl. Acad. Sci. USA, 1990, 87(1): 51-55.
+b) a bone marrow chromosomal aberration (CA) assay (OECD 475 Guidelines for the Testing of Chemicals – Mammalian Bone Marrow Chromosome Aberration Test); or c) a peripheral blood MN assay (OECD 474 Guidelines for the Testing of
 Chemicals – Mammalian Erythrocyte Micronucleus Test).
-Since the different genotoxicity assays detect different types of genotoxicity, a positive in 
-any assay is considered a positive result. In the event of an equivocal result in any of the 
-in vitro assays, the same assay should be repeated. In the event of a positive result, we 
-recommend further investigation to identify the source of the genotoxin. We recommend 
-this information be used to help evaluate the overall benefit-risk of the device using a 
-toxicological risk assessment with respect to carcinogenicity, as described in Section 
-VI.G, below. An in vivo genotoxicity assay is not recommended as a follow-up to rule out 
-a positive in an in vitro assay because the amount of the chemicals in a device extract 
-may be below the limit of detection of the in vivo assay.
-All assays should be performed on undiluted extracts only, unless cytotoxicity is shown 
-to interfere with the performance of the test. For the in vitro mammalian cell-based 
-assays, we recommend that cytotoxicity be evaluated using a quantitative method (i.e., 
-not confluence estimations).
-For combination products that include a drug, if genotoxicity data are not available from 
-the literature, the drug should be tested separately in a dose-response study (not as an 
-extract). In addition, the final combination product should be evaluated by standard 
-extraction methods. If the device is tested without the drug, additional chemical 
-characterization information should be provided to confirm that final manufacturing of 
-the device with the drug does not introduce any new chemical moieties that could be 
-potential genotoxins. For combination products that include a biologic, the need for 
-genotoxicity evaluation will be reviewed on a case-by-case basis.
-G.
-Carcinogenicity 
-As described in Attachment A, FDA recommends that carcinogenicity potential be 
-evaluated (usually via a risk assessment) for devices with long term contact (i.e., greater 
-than 30 day exposure). This includes devices in contact with breached or compromised 
-surfaces (i.e., wound healing), as well as externally communicating and implanted 
-devices. If novel materials (i.e., not previously used in a legally marketed device) are 
-used to manufacture devices in contact with breached or compromised surfaces, 
-externally communicating devices, or implant devices, we also recommend a review of 
-the carcinogenicity literature. In the absence of experimentally derived carcinogenicity 
-information, structure activity relationship (SAR) modeling for these materials may be 
-needed regardless of the duration of contact, to better understand the carcinogenicity
+Since the different genotoxicity assays detect different types of genotoxicity, a positive in any assay is considered a positive result. In the event of an equivocal result in any of the in vitro assays, the same assay should be repeated. In the event of a positive result, we recommend further investigation to identify the source of the genotoxin. We recommend this information be used to help evaluate the overall benefit-risk of the device using a toxicological risk assessment with respect to carcinogenicity, as described in Section VI.G, below. An in vivo genotoxicity assay is not recommended as a follow-up to rule out a positive in an in vitro assay because the amount of the chemicals in a device extract may be below the limit of detection of the in vivo assay.
+All assays should be performed on undiluted extracts only, unless cytotoxicity is shown to interfere with the performance of the test. For the in vitro mammalian cell-based assays, we recommend that cytotoxicity be evaluated using a quantitative method (i.e., not confluence estimations).
+For combination products that include a drug, if genotoxicity data are not available from the literature, the drug should be tested separately in a dose-response study (not as an extract). In addition, the final combination product should be evaluated by standard extraction methods. If the device is tested without the drug, additional chemical characterization information should be provided to confirm that final manufacturing of the device with the drug does not introduce any new chemical moieties that could be potential genotoxins. For combination products that include a biologic, the need for genotoxicity evaluation will be reviewed on a case-by-case basis.
+### G. Carcinogenicity
+As described in Attachment A, FDA recommends that carcinogenicity potential be evaluated (usually via a risk assessment) for devices with long term contact (i.e., greater than 30 day exposure). This includes devices in contact with breached or compromised surfaces (i.e., wound healing), as well as externally communicating and implanted devices. If novel materials (i.e., not previously used in a legally marketed device) are used to manufacture devices in contact with breached or compromised surfaces, externally communicating devices, or implant devices, we also recommend a review of the carcinogenicity literature. In the absence of experimentally derived carcinogenicity information, structure activity relationship (SAR) modeling for these materials may be needed regardless of the duration of contact, to better understand the carcinogenicity potential for these materials.58 Because there are carcinogens that are not genotoxins59 and carcinogenesis is multifactorial, the assessment of carcinogenicity should not rely solely on genotoxicity information. Therefore, the following elements should be considered in conjunction with genotoxicity information to evaluate carcinogenic risk of the medical device in its final finished form: - Include the complete chemical formulations and manufacturing residuals for all components of the device with the potential for tissue contact. For device materials or components that are provided by third-party suppliers where the chemical formula is proprietary, sponsors should request that suppliers use master files to provide chemical formulation information to the FDA. Refer to
+Attachment B for details regarding the chemical formulation information that would be helpful to a carcinogenicity evaluation.
+- Quantify the total amount of extractables and leachables using analytical chemistry methods with an appropriate sensitivity (i.e., ppm or ppb). The elution methods and analytical techniques should be designed to evaluate the presence of device materials, any breakdown products, chemical interaction products, or processing agents (e.g., adhesives, mold cleaning agents, mold releasing agents, sterilization chemicals, etc.). The TTC approach can be used to determine if quantification without chemical identification is sufficient to assess the toxicity risk of the device.60 Otherwise, chemical identification is needed.
+- Evaluate how much of each chemical would be present in an individual worstcase patient exposure situation. For this assessment, one would assume the patient is exposed to 100% of the chemical in the device or 100% of the byproduct that could be generated from the device. Alternatively, a worst-case scenario could be justified based on exhaustive extraction data from chemical characterization. As a part of this assessment, consider the situation where a patient might receive multiple devices of the largest device size to calculate the estimated worst-case patient exposure. An exposure assessment should also address the following: any intermediate degradation chemicals, route-to-route extrapolation of dose, and local versus systemic exposure potential.
+- Evaluate the genotoxicity and carcinogenicity potential of the chemicals, including: 58 Refer to ICH M7 “Assessment and Control of DNA Reactive (Mutagenic) Impurities in Pharmaceuticals to Limit
+Potential Carcinogenic Risk” available at https://www.fda.gov/regulatory-information/search-fda-guidancedocuments/m7r1-assessment-and-control-dna-reactive-mutagenic-impurities-pharmaceuticals-limit-potential for information on use of the TTC and SAR modeling to address genotoxicity and carcinogenicity issues within a risk management process.
+59 Benigni, R., et al., “Nongenotoxic carcinogenicity of chemicals: mechanisms of action and early recognition through a new set of structural alerts.” Chem Rev, 2013, 113(5): 2940-2957.
+60 Refer to the ICH M7 Guideline “Assessment and Control of DNA Reactive (Mutagenic) Impurities in
+Pharmaceuticals to Limit Potential Carcinogenic Risk” available at https://www.fda.gov/regulatoryinformation/search-fda-guidance-documents/m7r1-assessment-and-control-dna-reactive-mutagenic-impuritiespharmaceuticals-limit-potential for details on the level of sensitivity needed.
+o a thorough literature review with identified search terms, o assessment of any evidence of carcinogenicity from long-term in vivo animal studies (e.g., inflammation, pre-neoplastic lesions, or tumor findings in animal studies), o the relevance of animal data to assess risks in humans, and o assessment of human data from epidemiological studies if available or any other relevant long-term clinical study findings, including susceptible population and life stages, and device implant site and propensity of the site to develop local tumors.61,62
+- If potential carcinogens [e.g., International Agency for Research on Cancer (IARC) monograph chemicals]63 are identified in the device, a cancer risk assessment should also be provided with literature evidence to demonstrate that the amount of the potential carcinogen(s) available in a device does not pose an unacceptable carcinogenic risk.64
+If carcinogenicity testing is warranted (e.g., when data are not available to provide an adequate assessment or when an assessment indicates that there is a probable risk), consider use of transgenic animal models (e.g., RasH2), with confirmation of stability of transgene status, or other validated models.
+Prior to conducting carcinogenicity testing, the sponsor is advised to discuss proposed testing with FDA to ensure that the study design is appropriate to assess the probable carcinogenic risks using a statistically-based sample size, with documentation of the statistical power.
+### H. Reproductive and Developmental Toxicity
+FDA recommends that reproductive and developmental toxicity be assessed to evaluate the potential effects of medical devices, materials and/or their extracts on reproductive function, embryonic development (teratogenicity), and prenatal and early postnatal development as described in ISO 10993-1. If the biocompatibility evaluation identifies a known or a potential reproductive or developmental toxicity risk, and/or there is inadequate reproductive and developmental toxicity information in the literature to address the risk, testing and/or labeling mitigations will most likely be necessary. Some examples include: 61 Huff, J., et al., “Chemicals associated with site-specific neoplasia in 1394 long-term carcinogenesis experiments in laboratory rodents.” Environ Health Perspect, 1991, 93: 247-70.
+62 Gold, L.S., et al., “Target organs in chronic bioassays of 533 chemical carcinogens.” Environ Health Perspect, 1991, 93: 233–246.
+63 Refer to the IARC Monographs on the Evaluation of Carcinogenic Risks to Humans available at https://monographs.iarc.who.int/monographs-available/
+Testing in animals of reproductive age should also be considered, if device materials may be systemically distributed (e.g., absorbable devices), and reproductive and developmental toxicity literature is not available.
+### I. Degradation Assessments
+FDA recommends that in vivo degradation assessments be conducted in an appropriate animal model if the device is designed to be absorbable. As described in ISO 10993-1, parameters that affect the rate and extent of degradation should be described and documented. Sponsors should report the rate of degradation based upon physiologicallyrelevant data and the biological response to the degrading device. If an adverse biological response is observed, additional in vitro assessments are recommended to identify the source of the toxicity, such as potential chemicals of concern. Some additional testing (e.g., degradation testing and/or chemical characterization testing) on the medical device in its final finished form may be necessary. FDA recommends that prior to conducting in vivo degradation or chemical characterization testing, the sponsor discuss proposed testing with FDA to ensure that the design of the proposed testing is appropriate to assess the potential risks to the patient, such as toxicological risks and loss of mechanical properties. Protocols and test reports (see Attachment E for recommended elements to include in a test report) from characterization of degradation products should be provided in the submission.
+## VII. Chemical Assessment
+FDA evaluates the safety of medical devices based on duration of exposure and nature of contact. Inherent in the review of medical devices is an understanding of the body’s entire exposure to the medical device, including all chemical entities contained within the device. For devices where the patient-contacting portions may contain potentially toxic chemicals, the evaluation of safety should include both chemical risk (i.e., the level of toxicological concern) and the type and duration of exposure.
 
----
+FDA may request that additional chemistry information be provided in the following situations:
 
-<!-- Page 42 -->
-Contains Nonbinding Recommendations
-37
-potential for these materials.58 Because there are carcinogens that are not genotoxins59
-and carcinogenesis is multifactorial, the assessment of carcinogenicity should not rely 
-solely on genotoxicity information. Therefore, the following elements should be 
-considered in conjunction with genotoxicity information to evaluate carcinogenic risk of 
-the medical device in its final finished form:
-·
-Include the complete chemical formulations and manufacturing residuals for all 
-components of the device with the potential for tissue contact. For device 
-materials or components that are provided by third-party suppliers where the 
-chemical formula is proprietary, sponsors should request that suppliers use master 
-files to provide chemical formulation information to the FDA. Refer to 
-Attachment B for details regarding the chemical formulation information that 
-would be helpful to a carcinogenicity evaluation.
-·
-Quantify the total amount of extractables and leachables using analytical 
-chemistry methods with an appropriate sensitivity (i.e., ppm or ppb). The elution 
-methods and analytical techniques should be designed to evaluate the presence of 
-device materials, any breakdown products, chemical interaction products, or 
-processing agents (e.g., adhesives, mold cleaning agents, mold releasing agents, 
-sterilization chemicals, etc.). The TTC approach can be used to determine if 
-quantification without chemical identification is sufficient to assess the toxicity 
-risk of the device.60 Otherwise, chemical identification is needed.
-·
-Evaluate how much of each chemical would be present in an individual worst-
-case patient exposure situation. For this assessment, one would assume the patient 
-is exposed to 100% of the chemical in the device or 100% of the byproduct that 
-could be generated from the device. Alternatively, a worst-case scenario could be 
-justified based on exhaustive extraction data from chemical characterization. As a 
-part of this assessment, consider the situation where a patient might receive 
-multiple devices of the largest device size to calculate the estimated worst-case 
-patient exposure. An exposure assessment should also address the following: any 
-intermediate degradation chemicals, route-to-route extrapolation of dose, and 
-local versus systemic exposure potential.
-·
-Evaluate the genotoxicity and carcinogenicity potential of the chemicals, 
-including:
-58 Refer to ICH M7 “Assessment and Control of DNA Reactive (Mutagenic) Impurities in Pharmaceuticals to Limit 
-Potential Carcinogenic Risk” available at https://www.fda.gov/regulatory-information/search-fda-guidance-
-documents/m7r1-assessment-and-control-dna-reactive-mutagenic-impurities-pharmaceuticals-limit-potential for 
-information on use of the TTC and SAR modeling to address genotoxicity and carcinogenicity issues within a risk 
-management process.
-59 Benigni, R., et al., “Nongenotoxic carcinogenicity of chemicals: mechanisms of action and early recognition 
-through a new set of structural alerts.” Chem Rev, 2013, 113(5): 2940-2957.
-60 Refer to the ICH M7 Guideline “Assessment and Control of DNA Reactive (Mutagenic) Impurities in 
-Pharmaceuticals to Limit Potential Carcinogenic Risk” available at https://www.fda.gov/regulatory-
-information/search-fda-guidance-documents/m7r1-assessment-and-control-dna-reactive-mutagenic-impurities-
-pharmaceuticals-limit-potential for details on the level of sensitivity needed.
-
----
-
-<!-- Page 43 -->
-Contains Nonbinding Recommendations
-38
-o
-a thorough literature review with identified search terms, 
-o
-assessment of any evidence of carcinogenicity from long-term in vivo 
-animal studies (e.g., inflammation, pre-neoplastic lesions, or tumor 
-findings in animal studies), 
-o
-the relevance of animal data to assess risks in humans, and
-o
-assessment of human data from epidemiological studies if available or any 
-other relevant long-term clinical study findings, including susceptible 
-population and life stages, and device implant site and propensity of the 
-site to develop local tumors.61,62
-·
-If potential carcinogens [e.g., International Agency for Research on Cancer 
-(IARC) monograph chemicals]63 are identified in the device, a cancer risk 
-assessment should also be provided with literature evidence to demonstrate that 
-the amount of the potential carcinogen(s) available in a device does not pose an 
-unacceptable carcinogenic risk.64  
-If carcinogenicity testing is warranted (e.g., when data are not available to provide an 
-adequate assessment or when an assessment indicates that there is a probable risk), 
-consider use of transgenic animal models (e.g., RasH2), with confirmation of stability of 
-transgene status, or other validated models.
-Prior to conducting carcinogenicity testing, the sponsor is advised to discuss proposed 
-testing with FDA to ensure that the study design is appropriate to assess the probable 
-carcinogenic risks using a statistically-based sample size, with documentation of the 
-statistical power.
-H.
-Reproductive and Developmental Toxicity 
-FDA recommends that reproductive and developmental toxicity be assessed to evaluate 
-the potential effects of medical devices, materials and/or their extracts on reproductive 
-function, embryonic development (teratogenicity), and prenatal and early postnatal 
-development as described in ISO 10993-1. If the biocompatibility evaluation identifies a 
-known or a potential reproductive or developmental toxicity risk, and/or there is 
-inadequate reproductive and developmental toxicity information in the literature to 
-address the risk, testing and/or labeling mitigations will most likely be necessary. Some 
-examples include:
-61 Huff, J., et al., “Chemicals associated with site-specific neoplasia in 1394 long-term carcinogenesis experiments 
-in laboratory rodents.” Environ Health Perspect, 1991, 93: 247-70.
-62 Gold, L.S., et al., “Target organs in chronic bioassays of 533 chemical carcinogens.” Environ Health Perspect, 
-1991, 93: 233–246.
-63 Refer to the IARC Monographs on the Evaluation of Carcinogenic Risks to Humans available at 
-https://monographs.iarc.who.int/monographs-available/
-64 ISO 10993-17 Biological evaluation of medical devices – Part 17: Establishment of allowable limits for leachable 
-substances.
-
----
-
-<!-- Page 44 -->
-Contains Nonbinding Recommendations
-39
-·
-novel implant materials if there is a potential for chemical leachables to contact 
-reproductive organs, regardless of the type or duration of contact, and 
-·
-device materials or components in contact with reproductive organs.
-Testing in animals of reproductive age should also be considered, if device materials may 
-be systemically distributed (e.g., absorbable devices), and reproductive and 
-developmental toxicity literature is not available.
-I.
-Degradation Assessments 
-FDA recommends that in vivo degradation assessments be conducted in an appropriate 
-animal model if the device is designed to be absorbable. As described in ISO 10993-1, 
-parameters that affect the rate and extent of degradation should be described and 
-documented. Sponsors should report the rate of degradation based upon physiologically-
-relevant data and the biological response to the degrading device. If an adverse biological 
-response is observed, additional in vitro assessments are recommended to identify the 
-source of the toxicity, such as potential chemicals of concern. Some additional testing 
-(e.g., degradation testing and/or chemical characterization testing) on the medical device 
-in its final finished form may be necessary. FDA recommends that prior to conducting in 
-vivo degradation or chemical characterization testing, the sponsor discuss proposed 
-testing with FDA to ensure that the design of the proposed testing is appropriate to assess 
-the potential risks to the patient, such as toxicological risks and loss of mechanical 
-properties. Protocols and test reports (see Attachment E for recommended elements to 
-include in a test report) from characterization of degradation products should be provided 
-in the submission. 
-VII. Chemical Assessment  
-FDA evaluates the safety of medical devices based on duration of exposure and nature of 
-contact. Inherent in the review of medical devices is an understanding of the body’s entire 
-exposure to the medical device, including all chemical entities contained within the device. For 
-devices where the patient-contacting portions may contain potentially toxic chemicals, the 
-evaluation of safety should include both chemical risk (i.e., the level of toxicological concern) 
-and the type and duration of exposure.  
- 
-FDA may request that additional chemistry information be provided in the following situations: 
- 
-· For devices made from novel materials never before used in a legally marketed medical 
-device, toxicology information (i.e., data from the literature, additional biocompatibility 
-testing of the final device, or toxicity testing of the chemicals of concern) may be 
-necessary so a complete toxicity assessment of the new materials can be conducted. This 
-toxicity assessment may not necessarily be limited to those endpoints identified by ISO 
-10993-1 for a specific type and duration of contact. To more fully evaluate novel 
-materials, which may raise unique toxicological concerns, FDA will typically request 
-additional toxicology information as described in ISO 10993-1, to more fully understand
-
----
-
-<!-- Page 45 -->
-Contains Nonbinding Recommendations
-40
-the toxicological risks of materials that are novel and to ensure the safety of such 
-materials when used in medical devices.
-·
-For submissions proposing the use of new chemicals to modify the material formulation 
-or device manufacturing (e.g., surfactants, antioxidants, plasticizers),65 toxicology 
-information (i.e., purity and impurity information, data from the literature, or additional 
-toxicity testing on the chemical(s) of concern) may be necessary to address the endpoints 
-identified by ISO 10993-1 for the relevant type and duration of contact.
-·
-For some devices including chemicals with known toxicities (e.g., drugs or biologics 
-used in combination products),66 it may not be possible to mitigate the toxicological risks 
-with traditional biocompatibility testing conducted on the medical device in its final 
-finished form. For example, genotoxicity, carcinogenicity, and developmental toxicity 
-endpoints may be better assessed through chemical characterization and a review of the 
-literature. Therefore, in these particular situations, data from chemical characterization 
-and toxicology information from the literature may be necessary to support the risk 
-assessment.
-·
-For some devices manufactured from materials that change over time (e.g., combination 
-products, or in situ absorbable or degradable materials), it may not be appropriate to only 
-use the biocompatibility information from the as-manufactured device to predict the 
-toxicity of the device over its implant life. Therefore, data from chemical characterization 
-and toxicology information from the literature may be necessary to support the risk 
-assessment.
-·
-For some devices where an unexpected finding is observed in a biocompatibility study, 
-additional chemical characterization and toxicology information from the literature may 
-be necessary to determine the cause of the toxicity, and whether additional mitigations 
-are needed to reduce the risk.
-·
-For devices using materials where a “long history of safe use” rationale would not be 
-sufficient to understand the effect of formulation additives and manufacturing methods 
-and conditions on the biocompatibility of the medical device in its final finished form, 
-additional chemical characterization and toxicology information from the literature may 
-be necessary to support the risk assessment.
-When additional device or device component chemical information is needed, the following 
-descriptive information should be provided:
-65 Per requirements under purchasing controls (21 CFR 820.50), if a new material supplier is being considered, 
-comparative chemical characterization can be used with incoming material or component specifications to confirm 
-whether there are additional types or quantities of impurities in the new material or component that could impact 
-biocompatibility such that additional testing may be needed, or if it is sufficient to document the change in the 
+- For devices made from novel materials never before used in a legally marketed medical device, toxicology information (i.e., data from the literature, additional biocompatibility testing of the final device, or toxicity testing of the chemicals of concern) may be necessary so a complete toxicity assessment of the new materials can be conducted. This toxicity assessment may not necessarily be limited to those endpoints identified by ISO 10993-1 for a specific type and duration of contact. To more fully evaluate novel materials, which may raise unique toxicological concerns, FDA will typically request additional toxicology information as described in ISO 10993-1, to more fully understand the toxicological risks of materials that are novel and to ensure the safety of such materials when used in medical devices.
+- For submissions proposing the use of new chemicals to modify the material formulation or device manufacturing (e.g., surfactants, antioxidants, plasticizers),65 toxicology information (i.e., purity and impurity information, data from the literature, or additional toxicity testing on the chemical(s) of concern) may be necessary to address the endpoints identified by ISO 10993-1 for the relevant type and duration of contact.
+- For some devices including chemicals with known toxicities (e.g., drugs or biologics used in combination products),66 it may not be possible to mitigate the toxicological risks with traditional biocompatibility testing conducted on the medical device in its final finished form. For example, genotoxicity, carcinogenicity, and developmental toxicity endpoints may be better assessed through chemical characterization and a review of the literature. Therefore, in these particular situations, data from chemical characterization and toxicology information from the literature may be necessary to support the risk assessment.
+- For some devices manufactured from materials that change over time (e.g., combination products, or in situ absorbable or degradable materials), it may not be appropriate to only use the biocompatibility information from the as-manufactured device to predict the toxicity of the device over its implant life. Therefore, data from chemical characterization and toxicology information from the literature may be necessary to support the risk assessment.
+- For some devices where an unexpected finding is observed in a biocompatibility study, additional chemical characterization and toxicology information from the literature may be necessary to determine the cause of the toxicity, and whether additional mitigations are needed to reduce the risk.
+- For devices using materials where a “long history of safe use” rationale would not be sufficient to understand the effect of formulation additives and manufacturing methods and conditions on the biocompatibility of the medical device in its final finished form, additional chemical characterization and toxicology information from the literature may be necessary to support the risk assessment.
+When additional device or device component chemical information is needed, the following descriptive information should be provided:
 Device Master Record because testing was determined to be unnecessary.
-66 The amount of information available, within the submission or by reference to a device or drug master file, new 
-drug application (NDA), or biologic licensing agreement (BLA), may impact how much additional information on 
-the chemical constituents is needed to fully assess the level of toxicological concern.
-
----
-
-<!-- Page 46 -->
-Contains Nonbinding Recommendations
-41
-1. The identity of the chemical by common name, chemical name, Chemical Abstract 
+66 The amount of information available, within the submission or by reference to a device or drug master file, new drug application (NDA), or biologic licensing agreement (BLA), may impact how much additional information on the chemical constituents is needed to fully assess the level of toxicological concern.
+1. The identity of the chemical by common name, chemical name, Chemical Abstract
 Services (CAS) number, and trade name.
-2. If known,67 the composition, formula and formula weight, structural information, and 
-manufacturing and purity information for the chemical, such as a detailed description of 
-the manufacturing process (including the substances used, the amounts used in the 
-synthesis, and reaction conditions), specifications for the chemical, analysis of multiple 
-batches of the chemical, and identification of major impurities.
-3. The specific amount of each chemical in the formulation by weight percent of the 
-applicable device component and total amount (e.g., µg) in the device. If this information 
-is not available (e.g., from a material supplier), it would be acceptable to use a worst-case 
-estimation approach for the risk assessment. For example, one might assume 100% of the 
-material (e.g., resin pellet) used in the final device formulation is the chemical of concern 
-(i.e., any chemical components of the supplied material).
-4. The identity of any other devices marketed in the US (by device name, manufacturer, and 
-submission number) where the chemical entity with direct or indirect tissue contact has 
-been previously used, if known, and comparative information on the composition and 
-amount(s) used. This information is generally available only for components made by the 
-same manufacturer.
-If information on identity and quantity of component chemicals cannot be obtained (e.g., from a 
-material supplier), chemical characterization of device extracts generated using polar (e.g., water, 
-physiological 0.9% saline), semi-polar (e.g., isopropyl alcohol, ethyl alcohol, alcohol/water) and 
-non-polar (e.g., hexane) solvents may be sufficient to support the biocompatibility evaluation of 
-the device. Choice of solvents will depend on device materials and should be justified. For 
-example, physiological 0.9% saline should be used for the polar extraction of devices with metal 
-components to optimize ion release. In addition, extraction conditions (i.e., solvent, temperature, 
-and duration) should not compromise device integrity.
-In addition, to evaluate the patient exposure to the device or device component chemical(s), the 
-following exposure information should be provided:
-5. An exposure assessment for each chemical (including any related impurities) to which the 
-patient has direct or indirect contact. If repeat dosing is possible or probable, this should 
-be considered in the patient exposure calculation. This includes chemicals that can 
-migrate from the surface or bulk of the device. If testing is needed to assess if chemicals 
-migrate from the device, this testing can be conducted using the chemical 
-characterization testing methods described above for elution. For this testing, provide the 
-test report, including details of the test conditions, to confirm that the chemical is stable 
-under the intended conditions of use. As discussed in the risk assessment section, 
-descriptive information may also be sufficient in lieu of any new testing. 
-67 The amount of information available, within the submission or by reference to a device or drug master file, may 
-impact how much additional information on the chemical constituents is needed to fully assess the level of 
-toxicological concern.
-
----
-
-<!-- Page 47 -->
-Contains Nonbinding Recommendations
-42
-If the information above confirms that there are no toxicity concerns for the device or device 
-component chemical(s), either because the chemical is physically sequestered in a device 
-component with no direct or indirect tissue contact, or based on the results of testing conducted 
-as described in #5 above, no further information is necessary.
-If the information above suggests that there is patient exposure to the device or device 
-component chemical, the following toxicological information should be provided:
-6. A safety assessment for each chemical entity using toxicity information from the 
-literature and any available, unpublished data that the sponsor may have generated for all 
-known toxic effects. Where the full toxicology profile for the chemical entity is not 
-available, either in the literature, from the supplier, and/or from a previous medical 
-device submission, a complete battery of toxicity tests on the chemical entity (i.e., tests in 
-addition to those outlined in Attachment A, including but not limited to genotoxicity, 
-reproductive and developmental toxicity, and carcinogenicity) may also be needed unless 
-a scientific rationale is provided to explain why these additional tests are not needed. For 
-example, if extractables and/or leachables data demonstrates exposure will be below the 
-derived tolerable intake (TI) for a particular chemical, or the TTC (if a TI cannot be 
-derived), then further toxicological assessment is unnecessary for the evaluation of some 
-biological endpoints (e.g., systemic toxicity, genotoxicity, carcinogenicity).
-The level of toxicological concern should be based on patient exposure to the chemical entity 
-and the available toxicological data. One approach to this assessment is to consider the total 
-patient exposure of the device or device component chemical in relation to the amount at which 
-toxicities are known or probably exist.
-If available toxicity information suggests that even if all of the chemical(s) were released, no 
-toxicity concern would exist with this level of exposure (i.e., the amount is well below the 
-amount at which toxicity concerns are present), no further information is necessary.
-However, if potential toxicity concerns exist if all of the chemical(s) are released, further 
-information will generally be needed to determine how much of the chemical(s) are released, as 
-well as the fate of the chemical(s) within the body. Specifically, the following information 
-should be provided:
-7. Data to demonstrate the amount of chemical(s) to which the patient may be exposed (e.g., 
-amount released) through 30 days (or worst-case exposure that might be reasonably 
-encountered in clinical use plus a safety margin).
-8. If data indicate that the patient will be exposed to the chemical(s) (e.g., through elution), 
-assessment(s) of the fate of the chemical(s) from the device in a clinically relevant animal 
-model may be necessary to assess the timing of elimination and to perform 
-pharmacokinetic analyses (e.g., absorption, distribution, metabolism, and excretion 
-(ADME)). We recommend that a sponsor consider relevant device-specific guidance 
-documents, if available, or contact the review division to discuss the appropriate animal 
-model in these circumstances.
-
----
-
-<!-- Page 48 -->
-Contains Nonbinding Recommendations
-43
-VIII.
-Labeling68 Devices as “­Free”
-FDA notes that to communicate with users regarding potential allergenic or toxic compounds, 
-some sponsors have requested to include statements in the device labeling such as “latex-free,” 
-“DEHP-free,” “BPA-free,” or “pyrogen-free.” It may not be possible with current test methods to 
-reliably assure that there is an absence of the allergen or toxic compound in the medical device at 
-levels that could produce an adverse event in highly sensitive individuals. Use of such terms may 
-give users a false sense of security when using a medical device. If a sponsor elects to include a 
-statement in medical device labeling indicating that a specific material was not used in the 
-manufacture of their medical device or medical device container, FDA recommends the use of a 
-statement such as “Not made with natural rubber latex” or “Not made with BPA” based on a 
-material certification to indicate that natural rubber latex or BPA is not used in the device or 
-device component. If this statement is made without any qualification, it should apply to the 
-entire device and all of its packaging. A sponsor can also elect to make a statement that certain 
-components of the medical device or device container are not made with the material of concern. 
+2. If known,67 the composition, formula and formula weight, structural information, and
+manufacturing and purity information for the chemical, such as a detailed description of the manufacturing process (including the substances used, the amounts used in the synthesis, and reaction conditions), specifications for the chemical, analysis of multiple batches of the chemical, and identification of major impurities.
+3. The specific amount of each chemical in the formulation by weight percent of the
+applicable device component and total amount (e.g., µg) in the device. If this information is not available (e.g., from a material supplier), it would be acceptable to use a worst-case estimation approach for the risk assessment. For example, one might assume 100% of the material (e.g., resin pellet) used in the final device formulation is the chemical of concern (i.e., any chemical components of the supplied material).
+4. The identity of any other devices marketed in the US (by device name, manufacturer, and
+submission number) where the chemical entity with direct or indirect tissue contact has been previously used, if known, and comparative information on the composition and amount(s) used. This information is generally available only for components made by the same manufacturer.
+If information on identity and quantity of component chemicals cannot be obtained (e.g., from a material supplier), chemical characterization of device extracts generated using polar (e.g., water, physiological 0.9% saline), semi-polar (e.g., isopropyl alcohol, ethyl alcohol, alcohol/water) and non-polar (e.g., hexane) solvents may be sufficient to support the biocompatibility evaluation of the device. Choice of solvents will depend on device materials and should be justified. For example, physiological 0.9% saline should be used for the polar extraction of devices with metal components to optimize ion release. In addition, extraction conditions (i.e., solvent, temperature, and duration) should not compromise device integrity.
+In addition, to evaluate the patient exposure to the device or device component chemical(s), the following exposure information should be provided:
+5. An exposure assessment for each chemical (including any related impurities) to which the
+patient has direct or indirect contact. If repeat dosing is possible or probable, this should be considered in the patient exposure calculation. This includes chemicals that can migrate from the surface or bulk of the device. If testing is needed to assess if chemicals migrate from the device, this testing can be conducted using the chemical characterization testing methods described above for elution. For this testing, provide the test report, including details of the test conditions, to confirm that the chemical is stable under the intended conditions of use. As discussed in the risk assessment section, descriptive information may also be sufficient in lieu of any new testing.
+67 The amount of information available, within the submission or by reference to a device or drug master file, may impact how much additional information on the chemical constituents is needed to fully assess the level of toxicological concern.
+If the information above confirms that there are no toxicity concerns for the device or device component chemical(s), either because the chemical is physically sequestered in a device component with no direct or indirect tissue contact, or based on the results of testing conducted as described in #5 above, no further information is necessary.
+If the information above suggests that there is patient exposure to the device or device component chemical, the following toxicological information should be provided:
+6. A safety assessment for each chemical entity using toxicity information from the
+literature and any available, unpublished data that the sponsor may have generated for all known toxic effects. Where the full toxicology profile for the chemical entity is not available, either in the literature, from the supplier, and/or from a previous medical device submission, a complete battery of toxicity tests on the chemical entity (i.e., tests in addition to those outlined in Attachment A, including but not limited to genotoxicity, reproductive and developmental toxicity, and carcinogenicity) may also be needed unless a scientific rationale is provided to explain why these additional tests are not needed. For example, if extractables and/or leachables data demonstrates exposure will be below the derived tolerable intake (TI) for a particular chemical, or the TTC (if a TI cannot be derived), then further toxicological assessment is unnecessary for the evaluation of some biological endpoints (e.g., systemic toxicity, genotoxicity, carcinogenicity).
+The level of toxicological concern should be based on patient exposure to the chemical entity and the available toxicological data. One approach to this assessment is to consider the total patient exposure of the device or device component chemical in relation to the amount at which toxicities are known or probably exist.
+If available toxicity information suggests that even if all of the chemical(s) were released, no toxicity concern would exist with this level of exposure (i.e., the amount is well below the amount at which toxicity concerns are present), no further information is necessary.
+However, if potential toxicity concerns exist if all of the chemical(s) are released, further information will generally be needed to determine how much of the chemical(s) are released, as well as the fate of the chemical(s) within the body. Specifically, the following information should be provided:
+7. Data to demonstrate the amount of chemical(s) to which the patient may be exposed (e.g.,
+amount released) through 30 days (or worst-case exposure that might be reasonably encountered in clinical use plus a safety margin).
+8. If data indicate that the patient will be exposed to the chemical(s) (e.g., through elution),
+assessment(s) of the fate of the chemical(s) from the device in a clinically relevant animal model may be necessary to assess the timing of elimination and to perform pharmacokinetic analyses (e.g., absorption, distribution, metabolism, and excretion (ADME)). We recommend that a sponsor consider relevant device-specific guidance documents, if available, or contact the review division to discuss the appropriate animal model in these circumstances.
+## VIII. Labeling68 Devices as “­Free”
+FDA notes that to communicate with users regarding potential allergenic or toxic compounds, some sponsors have requested to include statements in the device labeling such as “latex-free,”
+“DEHP-free,” “BPA-free,” or “pyrogen-free.” It may not be possible with current test methods to reliably assure that there is an absence of the allergen or toxic compound in the medical device at levels that could produce an adverse event in highly sensitive individuals. Use of such terms may give users a false sense of security when using a medical device. If a sponsor elects to include a statement in medical device labeling indicating that a specific material was not used in the manufacture of their medical device or medical device container, FDA recommends the use of a statement such as “Not made with natural rubber latex” or “Not made with BPA” based on a material certification to indicate that natural rubber latex or BPA is not used in the device or device component. If this statement is made without any qualification, it should apply to the entire device and all of its packaging. A sponsor can also elect to make a statement that certain components of the medical device or device container are not made with the material of concern.
 For example, “The &lt;vial stopper> is not made with natural rubber latex.”69
-If a sponsor elects to include a “-free” statement, in their labeling, at the time of submission, 
-FDA recommends that the sponsor provide data to support that the device does not include the 
-material at a level that could result in an adverse event (e.g., allergic reaction or toxicity).
-68 Although final labeling is not required for 510(k) clearance, final labeling must comply with the requirements of 
-21 CFR Parts 801, and if applicable, 809 before a medical device is introduced into interstate commerce. In addition, 
-please be aware of the implications of 21 CFR 801.109 for final labeling for prescription devices.    
-69 Refer to the FDA’s guidance document “Recommendations for Labeling Medical Products to Inform Users that 
-the Product or Product Container is not Made with Natural Rubber Latex – Guidance for Industry and Food and 
-Drug Administration Staff” available at https://www.fda.gov/regulatory-information/search-fda-guidance-
-documents/recommendations-labeling-medical-products-inform-users-product-or-product-container-not-made-
-natural
-
----
-
-<!-- Page 49 -->
-Contains Nonbinding Recommendations
-44
+If a sponsor elects to include a “-free” statement, in their labeling, at the time of submission,
+FDA recommends that the sponsor provide data to support that the device does not include the material at a level that could result in an adverse event (e.g., allergic reaction or toxicity).
+68 Although final labeling is not required for 510(k) clearance, final labeling must comply with the requirements of 21 CFR Parts 801, and if applicable, 809 before a medical device is introduced into interstate commerce. In addition, please be aware of the implications of 21 CFR 801.109 for final labeling for prescription devices.
+69 Refer to the FDA’s guidance document “Recommendations for Labeling Medical Products to Inform Users that the Product or Product Container is not Made with Natural Rubber Latex – Guidance for Industry and Food and
+Drug Administration Staff” available at https://www.fda.gov/regulatory-information/search-fda-guidancedocuments/recommendations-labeling-medical-products-inform-users-product-or-product-container-not-madenatural
 Attachment A: Evaluation Endpoints for Consideration
-The following is a framework for the development of a biocompatibility evaluation and is not a 
-checklist for testing. For particular medical devices, different biological endpoints may warrant 
-evaluation, including either additional or fewer endpoints than indicated. If it is unclear in which 
-category a device falls, we recommend consulting device-specific guidances or contacting the 
-appropriate Center and review division for more information.70 For example, FDA has 
-historically considered devices used to drain fluids (such as Foley catheters) as externally 
-communicating devices rather than as surface devices contacting mucosal membranes. 
-Table A.1: Biocompatibility Evaluation Endpoints
-Medical device categorization by
-Biological effect
-Nature of Body Contact
-Contact
-Duration
-Cytotoxicity
-Sensitization
-Irritation or Intracutaneous Reactivity
-Acute Systemic Toxicity
-Material-Mediated Pyrogenicity
-Subacute/Subchronic Toxicity
-Genotoxicity
-Implantation
-Hemocompatibility
-Chronic Toxicity
-Carcinogenicity
-Reproductive/Developmental Toxicity#
-Degradation@
-Category
-Contact
-A – limited
-(&lt;24 h)
-B – prolonged
-(>24 h to 30 d)
-C – long term
-(> 30 d)
-Surface device
-Intact skin
-A
-X
-X
-X
-B
-X
-X
-X
-C
-X
-X
-X
-Mucosal 
-membrane
-A
-X
-X
-X
-B
-X
-X
-X
-X
-O
-X
-X
-C
-X
-X
-X
-X
-O
-X
-X
-X
-X
-Breached or 
-compromised 
-surface
-A
-X
-X
-X
-X
-X
-B
-X
-X
-X
-X
-X
-X
-X
-C
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-External 
-communicating 
-device
-Blood path, 
-indirect
-A
-X
-X
-X
-X
-X
-X
-B
-X
-X
-X
-X
-X
-X
-X
-C
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-Tissue+/bone/
-dentin
-A
-X
-X
-X
-X
-X
-B
-X
-X
-X
-X
-X
-X
-X
-X
-C
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-Circulating 
-blood
-A
-X
-X
-X
-X
-X
-X^
-X
-B
-X
-X
-X
-X
-X
-X
-X
-X
-X
-70 Device categorization information can be obtained informally via email, or as a part of the Q-Submission process. 
+The following is a framework for the development of a biocompatibility evaluation and is not a checklist for testing. For particular medical devices, different biological endpoints may warrant evaluation, including either additional or fewer endpoints than indicated. If it is unclear in which category a device falls, we recommend consulting device-specific guidances or contacting the appropriate Center and review division for more information.70 For example, FDA has historically considered devices used to drain fluids (such as Foley catheters) as externally communicating devices rather than as surface devices contacting mucosal membranes.
+Table A.1: Biocompatibility Evaluation Endpoints Medical device categorization by Biological effect Nature of Body Contact Contact Duration Cytotoxicity Sensitization Irritation or Intracutaneous Reactivity Acute Systemic Toxicity Material-Mediated Pyrogenicity Subacute/Subchronic Toxicity Genotoxicity Implantation Hemocompatibility Chronic Toxicity Carcinogenicity Reproductive/Developmental Toxicity# Degradation@ Category Contact A – limited (&lt;24 h) B – prolonged (>24 h to 30 d) C – long term (> 30 d) Surface device Intact skin A X X X B X X X C X X X Mucosal membrane A X X X B X X X X O X X C X X X X O X X X X Breached or compromised surface A X X X X X B X X X X X X X C X X X X X X X X X X External communicating device Blood path, indirect A X X X X X X B X X X X X X X C X X X X X X X X X X X Tissue+/bone/ dentin A X X X X X B X X X X X X X X C X X X X X X X X X X Circulating blood A X X X X X X^ X B X X X X X X X X X 70 Device categorization information can be obtained informally via email, or as a part of the Q-Submission process.
 Refer to FDA’s guidance document “Requests for Feedback and Meetings for Medical Device Submissions: The Q-
-Submission Program: Guidance for Industry and Food and Drug Administration Staff" available at 
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/requests-feedback-and-meetings-
-medical-device-submissions-q-submission-program
-
----
-
-<!-- Page 50 -->
-Contains Nonbinding Recommendations
-45
-Medical device categorization by
-Biological effect
-Nature of Body Contact
-Contact
-Duration
-Cytotoxicity
-Sensitization
-Irritation or Intracutaneous Reactivity
-Acute Systemic Toxicity
-Material-Mediated Pyrogenicity
-Subacute/Subchronic Toxicity
-Genotoxicity
-Implantation
-Hemocompatibility
-Chronic Toxicity
-Carcinogenicity
-Reproductive/Developmental Toxicity#
-Degradation@
-Category
-Contact
-A – limited
-(&lt;24 h)
-B – prolonged
-(>24 h to 30 d)
-C – long term
-(> 30 d)
-C
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-Implant device
-Tissue+/bone
-A
-X
-X
-X
-X
-X
-B
-X
-X
-X
-X
-X
-X
-X
-X
-C
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-Blood
-A
-X
-X
-X
-X
-X
-X
-X
-X
-B
-X
-X
-X
-X
-X
-X
-X
-X
-X
-C
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X = ISO 10993-1:2018 recommended endpoints for consideration*
-O = Additional FDA recommended endpoints for consideration*
-Note * All X’s and O’s should be addressed in the biological safety evaluation, either through the use of existing 
-data, additional endpoint-specific testing, or a rationale for why the endpoint does not warrant additional assessment.
+Submission Program: Guidance for Industry and Food and Drug Administration Staff" available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/requests-feedback-and-meetingsmedical-device-submissions-q-submission-program Medical device categorization by Biological effect Nature of Body Contact Contact Duration Cytotoxicity Sensitization Irritation or Intracutaneous Reactivity Acute Systemic Toxicity Material-Mediated Pyrogenicity Subacute/Subchronic Toxicity Genotoxicity Implantation Hemocompatibility Chronic Toxicity Carcinogenicity Reproductive/Developmental Toxicity# Degradation@ Category Contact A – limited (&lt;24 h) B – prolonged (>24 h to 30 d) C – long term (> 30 d) C X X X X X X X X X X X Implant device Tissue+/bone A X X X X X B X X X X X X X X C X X X X X X X X X X Blood A X X X X X X X X B X X X X X X X X X C X X X X X X X X X X X X = ISO 10993-1:2018 recommended endpoints for consideration* O = Additional FDA recommended endpoints for consideration*
+Note * All X’s and O’s should be addressed in the biological safety evaluation, either through the use of existing data, additional endpoint-specific testing, or a rationale for why the endpoint does not warrant additional assessment.
 Note + Tissue includes tissue fluids and subcutaneous spaces
 Note ^ For all devices used in extracorporeal blood-contacting circuits
-Note # Reproductive and developmental toxicity should be addressed for novel materials, materials with a known 
-reproductive or developmental toxicity, devices with relevant target populations (e.g., pregnant women), and/or 
-devices where there is the probability for local presence of device materials in the reproductive organs. 
-Note @ Degradation information should be provided for any devices, device components, or materials remaining in 
-contact with tissue that are intended to degrade.
-ISO 10993-1:2018, Table A.1 includes separate columns for subacute and subchronic toxicity 
-endpoints. FDA recommends that if a subacute or subchronic test is conducted to evaluate these 
-endpoints, the choice of test be based on the duration of the test as it compares to the duration of 
-device use. For example, devices used for greater than 14 days should not be assessed using a 14 
-day test.
-Sponsors are advised to consider conducting a separate evaluation to assess chemical 
-components of device materials that may be pyrogenic. This type of material-mediated 
-pyrogenicity is identified as a subset of acute systemic toxicity in ISO 10993-1:2018. However, 
-it may not be appropriate to use data from an acute systemic toxicity or implantation study in 
-place of a separate pyrogenicity evaluation if the study did not include periodic temperature 
-measurements (e.g., every 30 minutes for the first three hours) or was not conducted in an 
-appropriate animal model (i.e., rabbit). See also Section VI.D for more information about 
-assessment of pyrogenicity.
-
----
-
-<!-- Page 51 -->
-Contains Nonbinding Recommendations
-46
-Attachment B: Device Master Files for Biocompatibility 
-Evaluations
-There are no specific content requirements for a device master file (MAF).71 However, the 
-following information should be included to support a biocompatibility evaluation:
+Note # Reproductive and developmental toxicity should be addressed for novel materials, materials with a known reproductive or developmental toxicity, devices with relevant target populations (e.g., pregnant women), and/or devices where there is the probability for local presence of device materials in the reproductive organs.
+Note @ Degradation information should be provided for any devices, device components, or materials remaining in contact with tissue that are intended to degrade.
+ISO 10993-1:2018, Table A.1 includes separate columns for subacute and subchronic toxicity endpoints. FDA recommends that if a subacute or subchronic test is conducted to evaluate these endpoints, the choice of test be based on the duration of the test as it compares to the duration of device use. For example, devices used for greater than 14 days should not be assessed using a 14 day test.
+Sponsors are advised to consider conducting a separate evaluation to assess chemical components of device materials that may be pyrogenic. This type of material-mediated pyrogenicity is identified as a subset of acute systemic toxicity in ISO 10993-1:2018. However, it may not be appropriate to use data from an acute systemic toxicity or implantation study in place of a separate pyrogenicity evaluation if the study did not include periodic temperature measurements (e.g., every 30 minutes for the first three hours) or was not conducted in an appropriate animal model (i.e., rabbit). See also Section VI.D for more information about assessment of pyrogenicity.
+Attachment B: Device Master Files for Biocompatibility Evaluations
+There are no specific content requirements for a device master file (MAF).71 However, the following information should be included to support a biocompatibility evaluation:
 1. Material name(s) and trade name(s).
 2. Formulation information (for each material) to include:
 a.
-Chemical name(s), Chemical Abstract Services (CAS) number(s), Supplier and 
-Trade Name;
-b. Weight percent (% w/w) of each chemical in the formulation;
-c.
-Function of each chemical component; and
-d. Structure of each chemical and simplified molecular-input line-entry system 
-(SMILES) code.
+Chemical name(s), Chemical Abstract Services (CAS) number(s), Supplier and Trade Name; b. Weight percent (% w/w) of each chemical in the formulation; c.
+Function of each chemical component; and d. Structure of each chemical and simplified molecular-input line-entry system (SMILES) code.
 3. Manufacturing information to include:
 a.
-Recommended processing methods (e.g., injection molding, time and temperature 
-conditions);
-b. Recommended processing additives (or processing additives to avoid); and
-c.
+Recommended processing methods (e.g., injection molding, time and temperature conditions); b. Recommended processing additives (or processing additives to avoid); and c.
 Known or suspected impurities.
 4. Sterilization compatibility (e.g., gamma radiation, steam, ethylene oxide).
-5. Chemical characterization methods recommended for this material (per ISO 10993-18) to 
-include:
-a.
-Identification of material(s);
-b. Analysi(e)s for heavy metals;
-c.
-Sterilization residuals, if relevant (e.g., ethylene oxide);
-d. Recommended extraction conditions (solvents, temperatures) and an explanation 
-of such conditions based on material chemistry (e.g., solubility, transition 
-temperature); 
-e.
-Recommended data presentation (i.e., to allow for comparison with the original 
-material); and
-f.
-Results from testing of the material test articles used for biocompatibility 
-screening studies (item 7 below).
-6. Surface characterization methods recommended for this material (per ISO/TS 10993-19) 
-that may be relevant to implantation and/or hemocompatibility responses, to include:
-a.
-Recommended analytical techniques;
-71 Additional information regarding master files for devices is available online at: https://www.fda.gov/medical-
-devices/premarket-approval-pma/master-files
-
----
-
-<!-- Page 52 -->
-Contains Nonbinding Recommendations
-47
-b. Recommended test article preparation conditions relevant to a particular 
-analytical technique and an explanation of such conditions based on material 
-chemistry; 
-c.
-Recommended data presentation (i.e., to allow for comparison with the original 
-material); and
-d. Results from testing of the material test articles used for biocompatibility 
-screening studies (item 7 below).
+5. Chemical characterization methods recommended for this material (per ISO 10993-18) to
+include: a.
+Identification of material(s); b. Analysi(e)s for heavy metals; c.
+Sterilization residuals, if relevant (e.g., ethylene oxide); d. Recommended extraction conditions (solvents, temperatures) and an explanation of such conditions based on material chemistry (e.g., solubility, transition temperature); e.
+Recommended data presentation (i.e., to allow for comparison with the original material); and f.
+Results from testing of the material test articles used for biocompatibility screening studies (item 7 below).
+6. Surface characterization methods recommended for this material (per ISO/TS 10993-19)
+that may be relevant to implantation and/or hemocompatibility responses, to include: a.
+Recommended analytical techniques; 71 Additional information regarding master files for devices is available online at: https://www.fda.gov/medicaldevices/premarket-approval-pma/master-files b. Recommended test article preparation conditions relevant to a particular analytical technique and an explanation of such conditions based on material chemistry; c.
+Recommended data presentation (i.e., to allow for comparison with the original material); and d. Results from testing of the material test articles used for biocompatibility screening studies (item 7 below).
 7. Biocompatibility screening studies performed on the material test articles to include:
 a.
 Intended use of the material and associated ISO contact category (per ISO 10993-
-1);
-b. Test article description (e.g., dimensions, manufacturing conditions, number and 
-type of sterilization cycles);
-c.
-Test performed (e.g., cytotoxicity, sensitization, irritation, systemic toxicity, 
-hemocompatibility, etc.);
-d. Extraction conditions, if applicable, and methods (i.e., time, temperature, test 
-article ratio per extract volume);
-e.
-Compliance and/or deviations to relevant standards, if applicable (e.g., ISO 
-10993-5, ISO 10993-12); and
-f.
+1); b. Test article description (e.g., dimensions, manufacturing conditions, number and type of sterilization cycles); c.
+Test performed (e.g., cytotoxicity, sensitization, irritation, systemic toxicity, hemocompatibility, etc.); d. Extraction conditions, if applicable, and methods (i.e., time, temperature, test article ratio per extract volume); e.
+Compliance and/or deviations to relevant standards, if applicable (e.g., ISO 10993-5, ISO 10993-12); and f.
 Copies of test reports to include methods, results, and conclusions.
-
----
-
-<!-- Page 53 -->
-Contains Nonbinding Recommendations
-48
 Attachment C: Summary Biocompatibility Documentation
-The example table (Table C.1) is provided to illustrate one possible approach to documentation of the biocompatibility information 
-included or referenced in a submission; other approaches are acceptable. Manufacturers are encouraged to use an approach that works 
-for their specific purposes, taking into account the considerations discussed in this guidance document. Note that these are generalized 
-examples to demonstrate documentation and do not necessarily account for every possible consideration. 
-Table C.1 - Example Table of Summary Biocompatibility Evaluation Information for a Device Submission
-Biological 
-endpoint
-Location of new 
-test reports 
-provided in 
-submission
-Location of test 
-reports leveraged 
-from previous 
-submission
-Supporting 
-data from 
-literature
-Citation
-Test article
-Rationale for why additional 
-information isn’t needed
-Cytotoxicity
-Implant: L929 
-testing (V2, App 
-A-1, pdf p.x/200)
-Implantation 
-accessory: L929 
-testing (V3, App 
-B-1, pdf p. x/300)
-Implant: 
-[DEVICE NAME] 
-(K# V2, App X-1, 
-pdf p.x/200)
-Implantation 
-accessory: 
-[DEVICE NAME] 
-(K# V3, App X-1, 
-pdf p.x/300)
-n/a
-n/a
-Identical - see 
-documentation 
-(per Attachment 
-F) V1, pdf 
-p.x/100
-Testing conducted on final, 
-sterilized device (implant tested 
-separately from implantation 
-accessory)
-Genotoxicity
-Implant: 
-chemical 
-characterization 
-(V2, App A-2, 
-pdf p. x/200)
-n/a
-Test name 
-(e.g., 
-chromosomal 
-aberration): 
-doses with 
-effects and/or 
-doses without 
-effects
-Author, 
-Title, 
-Journal, 
-date, 
-volume, 
-and 
-pages
-Slight differences 
-between test 
-article and final, 
-sterilized device 
-– see comparison 
-information: V1, 
-pdf p.x/100
-Genotoxicity tests are hazard 
-identification tests. Chemical 
-characterization data can be used 
-to confirm that chemicals which 
-elute from the device are not 
-genotoxic per literature.
-
----
-
-<!-- Page 54 -->
-Contains Nonbinding Recommendations
-49
-Biological 
-endpoint
-Location of new 
-test reports 
-provided in 
-submission
-Location of test 
-reports leveraged 
-from previous 
-submission
-Supporting 
-data from 
-literature
-Citation
-Test article
-Rationale for why additional 
-information isn’t needed
-Carcinogenicity 
-n/a
-Rationale for use 
-of material (K#, 
-V2, App Y-1, 
-p.x/200)
-Probable 
-human 
-carcinogen 
-(Group B1) 
-IARC 
-Monograph 
-Vx, date
-Citation 
-(e.g., 
-website 
-link)
-n/a
-Material X is a known carcinogen, 
-but device is used in patients with 
-&lt; 6 month life expectancy, and 
-benefits outweigh risks, so no 
-mitigations or additional testing 
-needed.
-All other 
-endpoints 
-identified in 
-Attachment A 
-…
-
----
-
-<!-- Page 55 -->
-Contains Nonbinding Recommendations
-50
-Attachment D: Biocompatibility Evaluation Flow Chart 
-The flow chart below is provided to illustrate how one might proceed with a biocompatibility 
-evaluation.
-MAIN CHART
-
----
-
-<!-- Page 56 -->
-Contains Nonbinding Recommendations
-51
-CHART A
-
----
-
-<!-- Page 57 -->
-Contains Nonbinding Recommendations
-52
-Attachment E: Contents of a Test Report
-Whenever biocompatibility or chemical characterization testing information is included in a 
-submission, FDA recommends that complete test reports be provided for all tests performed 
-unless testing is conducted under the ASCA program and it is determined that an ASCA 
-Summary Test Report is sufficient or a declaration of conformity without supplemental 
-information can be appropriately provided. 72,73 Test reports for GLP studies must address the 
-reporting requirements of 21 CFR 58 and all test reports (for both GLP and non-GLP studies) 
-should also include the sections described below. Test reports should address the reporting 
-provisions of any referenced standards, as well as the information outlined below.
+The example table (Table C.1) is provided to illustrate one possible approach to documentation of the biocompatibility information included or referenced in a submission; other approaches are acceptable. Manufacturers are encouraged to use an approach that works for their specific purposes, taking into account the considerations discussed in this guidance document. Note that these are generalized examples to demonstrate documentation and do not necessarily account for every possible consideration.
+Table C.1 - Example Table of Summary Biocompatibility Evaluation Information for a Device Submission Biological endpoint Location of new test reports provided in submission Location of test reports leveraged from previous submission Supporting data from literature Citation Test article Rationale for why additional information isn’t needed Cytotoxicity Implant: L929 testing (V2, App A-1, pdf p.x/200) Implantation accessory: L929 testing (V3, App B-1, pdf p. x/300) Implant: [DEVICE NAME]
+(K# V2, App X-1, pdf p.x/200)
+Implantation accessory: [DEVICE NAME]
+(K# V3, App X-1, pdf p.x/300)
+n/a n/a Identical - see documentation (per Attachment F) V1, pdf p.x/100 Testing conducted on final, sterilized device (implant tested separately from implantation accessory) Genotoxicity Implant: chemical characterization (V2, App A-2, pdf p. x/200) n/a Test name (e.g., chromosomal aberration): doses with effects and/or doses without effects Author, Title, Journal, date, volume, and pages Slight differences between test article and final, sterilized device – see comparison information: V1, pdf p.x/100 Genotoxicity tests are hazard identification tests. Chemical characterization data can be used to confirm that chemicals which elute from the device are not genotoxic per literature.
+Biological endpoint Location of new test reports provided in submission Location of test reports leveraged from previous submission Supporting data from literature Citation Test article Rationale for why additional information isn’t needed Carcinogenicity n/a Rationale for use of material (K#, V2, App Y-1, p.x/200) Probable human carcinogen (Group B1) IARC Monograph Vx, date Citation (e.g., website link) n/a Material X is a known carcinogen, but device is used in patients with &lt; 6 month life expectancy, and benefits outweigh risks, so no mitigations or additional testing needed.
+All other endpoints identified in Attachment A …
+Attachment D: Biocompatibility Evaluation Flow Chart
+The flow chart below is provided to illustrate how one might proceed with a biocompatibility evaluation.
+MAIN CHART CHART A Attachment E: Contents of a Test Report
+Whenever biocompatibility or chemical characterization testing information is included in a submission, FDA recommends that complete test reports be provided for all tests performed unless testing is conducted under the ASCA program and it is determined that an ASCA
+Summary Test Report is sufficient or a declaration of conformity without supplemental information can be appropriately provided. 72,73 Test reports for GLP studies must address the reporting requirements of 21 CFR 58 and all test reports (for both GLP and non-GLP studies) should also include the sections described below. Test reports should address the reporting provisions of any referenced standards, as well as the information outlined below.
 Test Article Preparation
-As described in Section V.A above, the test report should identify the test specimen; if the test 
-article is not the medical device in its final finished form, a justification for the test article used 
-should be provided either in the test report or in the submission to FDA. If the test uses extracts, 
-the report should explain how those extracts were prepared, and indicate the appearance of the 
-extract (color, cloudy versus clear, and presence of particulates).
+As described in Section V.A above, the test report should identify the test specimen; if the test article is not the medical device in its final finished form, a justification for the test article used should be provided either in the test report or in the submission to FDA. If the test uses extracts, the report should explain how those extracts were prepared, and indicate the appearance of the extract (color, cloudy versus clear, and presence of particulates).
 Test Method
-The test report should provide a summary of the method used. If the method used is not in a 
-published guidance document or FDA-recognized standard, a complete description of the method 
-should be provided. If the test method is a modified version of a method in a published guidance 
-document or FDA-recognized standard, the test report should include an explanation of the 
-differences and their potential impact on the interpretation of the results.
-The test report should identify any protocol deviations and their impact on the conclusions drawn 
-from the test.
+The test report should provide a summary of the method used. If the method used is not in a published guidance document or FDA-recognized standard, a complete description of the method should be provided. If the test method is a modified version of a method in a published guidance document or FDA-recognized standard, the test report should include an explanation of the differences and their potential impact on the interpretation of the results.
+The test report should identify any protocol deviations and their impact on the conclusions drawn from the test.
 Test Parameters and Acceptance Criteria
-The test report should identify the test parameters and acceptance criteria applied. If the test 
-method is not in accordance with a published guidance document or FDA-recognized standard
-72 Refer to FDA’s “Biocompatibility Testing of Medical Devices – Standards Specific Information for the 
-Accreditation Scheme for Conformity Assessment (ASCA) Pilot Program” available at 
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/biocompatibility-testing-medical-
-devices-standards-specific-information-accreditation-scheme for information regarding ASCA biocompatibility 
-summary test reports.
-73 The ISO 10993 series of standards do not specify either a method or test outcome, because these standards are 
-both compendia and guidance. As such, these standards allow one to select different tests and methods, and do not 
-necessarily include acceptance criteria. Therefore, to support a declaration of conformity and for FDA to assess 
-conformance, for any tests selected under the ISO 10993 paradigm, the rationale for the test battery selected and the 
-criteria used to determine acceptance should be provided. It has been FDA’s experience that test reports often 
-address this, and raw data is usually not necessary. There may be other testing for which a declaration of conformity 
-can be submitted to FDA without supplemental information. Refer to FDA’s “Appropriate Use of Voluntary 
-Consensus Standards in Premarket Submissions for Medical Devices” available at https://www.fda.gov/regulatory-
-information/search-fda-guidance-documents/appropriate-use-voluntary-consensus-standards-premarket-
-submissions-medical-devices for more information on when to provide supplemental documentation.
-
----
-
-<!-- Page 58 -->
-Contains Nonbinding Recommendations
-53
-that includes defined acceptance criteria, a rationale for the acceptance criteria should be 
-provided.
+The test report should identify the test parameters and acceptance criteria applied. If the test method is not in accordance with a published guidance document or FDA-recognized standard 72 Refer to FDA’s “Biocompatibility Testing of Medical Devices – Standards Specific Information for the
+Accreditation Scheme for Conformity Assessment (ASCA) Pilot Program” available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/biocompatibility-testing-medicaldevices-standards-specific-information-accreditation-scheme for information regarding ASCA biocompatibility summary test reports.
+73 The ISO 10993 series of standards do not specify either a method or test outcome, because these standards are both compendia and guidance. As such, these standards allow one to select different tests and methods, and do not necessarily include acceptance criteria. Therefore, to support a declaration of conformity and for FDA to assess conformance, for any tests selected under the ISO 10993 paradigm, the rationale for the test battery selected and the criteria used to determine acceptance should be provided. It has been FDA’s experience that test reports often address this, and raw data is usually not necessary. There may be other testing for which a declaration of conformity can be submitted to FDA without supplemental information. Refer to FDA’s “Appropriate Use of Voluntary
+Consensus Standards in Premarket Submissions for Medical Devices” available at https://www.fda.gov/regulatoryinformation/search-fda-guidance-documents/appropriate-use-voluntary-consensus-standards-premarketsubmissions-medical-devices for more information on when to provide supplemental documentation.
+that includes defined acceptance criteria, a rationale for the acceptance criteria should be provided.
 Analysis of Results
-The test report should provide a summary of the test results and include tables with each data 
-point and statistical analyses, where appropriate. For example, the test report for hemolysis 
-testing per ASTM F756 should include a description of the test, blank, positive, and negative 
-supernatant conditions, in addition to the absorbance and percent hemolysis data.
-For any test in which the results indicate a potential toxicity, the report should include a 
-discussion of any test-specific issues that might have affected results.
+The test report should provide a summary of the test results and include tables with each data point and statistical analyses, where appropriate. For example, the test report for hemolysis testing per ASTM F756 should include a description of the test, blank, positive, and negative supernatant conditions, in addition to the absorbance and percent hemolysis data.
+For any test in which the results indicate a potential toxicity, the report should include a discussion of any test-specific issues that might have affected results.
 Conclusions
-The test report should describe the conclusions drawn from the test results. The clinical 
-relevance of the study conclusions should be described in the test report or in the submission to 
-FDA.
-
----
-
-<!-- Page 59 -->
-Contains Nonbinding Recommendations
-54
-Attachment F: Component and Device Documentation 
-Examples 
-The examples below are provided to illustrate one possible approach to documentation of how a 
-test article compares to the proposed medical device in its final finished form; other approaches 
-may also be acceptable. Manufacturers are encouraged to use an approach that works for their 
-specific purposes, taking into account how any changes might impact the biocompatibility of the 
-device. Note that these are generalized examples to demonstrate documentation and do not 
-necessarily account for every possible consideration.
-A. Component Documentation 
-For each component and any joining processes/materials (e.g., adhesives, sintering processes), 
-either of the following statements can be provided:
-Comparison to test article: "The [polymer/metal/ceramic/composite name] [component 
-name] of the test article is identical to the [component name] of the medical device in its 
-final finished form in formulation, processing, sterilization, and geometry, and no other 
-chemicals have been added (e.g., plasticizers, fillers, additives, cleaning agents, mold release 
-agents)."
-Comparison to previously marketed device: "The [polymer/metal/ceramic/composite 
-name] [component name] of the medical device in its final finished form is identical to the 
-[component name] of the [name] (legally marketed device)74 in formulation, processing, 
-sterilization, and geometry, and no other chemicals have been added (e.g., plasticizers, fillers, 
-additives, cleaning agents, mold release agents)."
-B. Device Documentation 
-If the above statement is true for all of the device component material formulations, processes, 
-and sterilization methods (if applicable) in the device, either of the following general statements 
-can be provided:
-Comparison to test article: "The test article is identical to the medical device in its final 
-finished form in formulation, processing, sterilization, and geometry and no other chemicals 
-have been added (e.g., plasticizers, fillers, additives, cleaning agents, mold release agents)."
-Comparison to previously marketed device: "The medical device in its final finished form 
-is identical to [name] (previously marketed device) in formulation, processing, sterilization, 
-and geometry and no other chemicals have been added (e.g., plasticizers, fillers, additives, 
-cleaning agents, mold release agents)."
-74 We recommend that you include the submission number and date where the legally marketed device was given 
-marketing authorization.
-
----
-
-<!-- Page 60 -->
-Contains Nonbinding Recommendations
-55
-C. New Processing/Sterilization Changes 
-If there are any processing or sterilization changes that the sponsor believes will not alter the 
-biocompatibility of the medical device in its final finished form, the sponsor should use the 
-component documentation language and include either of the following qualifiers:
-Comparison to test article: "…with the exception of [identify change]. FDA submission 
-exhibit [#], page [#], submitted on [date], provides scientific information to demonstrate that 
-the [processing/sterilization] change does not alter the chemical or physical properties of the 
-medical device in its final finished form, and therefore, results from the test article can be 
-applied to the medical device in its final finished form.”
-Comparison to previously marketed device: "…with the exception of [identify change]. 
-FDA submission exhibit [#], page [#], submitted on [date], provides scientific information to 
-demonstrate that the [processing/sterilization] change does not alter the chemical or 
-physical properties of the medical device in its final finished form, and therefore, results from 
-the [name] (legally marketed device) can be applied to the medical device in its final 
-finished form.”
-NOTE: The information provided to support a claim that processing and sterilization changes 
-will not affect chemical or physical properties of the medical device in its final finished form 
-should be provided in sufficient detail for FDA to make an independent assessment during 
-our review and arrive at the same conclusion.
-NOTE: Changes in raw material suppliers or raw material specifications could introduce 
-different types or quantities of residual chemicals and could result in a toxic response (even if 
-the base material has a long history of safe use in similar applications).75
-NOTE: The impact of surface alterations due to processing, even at the micron or submicron 
-level, should be evaluated when there is a reasonable possibility that they could result in 
-geometrical or chemical changes at the surface which, in turn, could result in an adverse 
-biological response (even if the base material has a long history of safe use in similar 
-applications).
-D. Formulation Changes 
-If there are any formulation changes the sponsor believes will not alter the biocompatibility of 
-the medical device in its final finished form, the sponsor should use the component 
-documentation language and include the following qualifier:
-Comparison to test article: "…with the exception of [identify change]. FDA submission 
-exhibit [#], page [#], submitted on [date], provides scientific information to demonstrate that 
-75 In some cases, chemical characterization at the raw material level may be sufficient to show comparability and to 
-justify not conducting device level testing. However, some resin changes may result in changes to physical 
-properties and/or surface characteristics of the medical device in its final finished form that could affect the 
-biological response.
-
----
-
-<!-- Page 61 -->
-Contains Nonbinding Recommendations
-56
-the formulation change does not alter the chemical or physical properties of the medical 
-device in its final finished form, and therefore, results from the test article can be applied to 
-the proposed medical device in its final finished form.”
-Comparison to previously marketed device: "…with the exception of [identify change]. 
-FDA submission exhibit [#], page [#], submitted on [date], provides scientific information to 
-demonstrate that the formulation change does not alter the chemical or physical properties of 
-the medical device in its final finished form, and therefore, results from the [name] (legally 
-marketed device) can be applied to the medical device in its final finished form.”
-For example, if your legally marketed comparator device contains a PEBAX® resin, and your 
-subject device contains a different grade of PEBAX®, your documentation should include a 
-qualifier that states that the untested PEBAX® grade varies only in the concentration of 
-specific formulation components. Formulation changes that introduce novel components, or a 
-higher concentration of an existing component, may warrant a new risk assessment or new 
-testing if the upper and lower bounds of each component have not been previously evaluated.
-NOTE: The information provided to support a claim that formulation changes will not affect 
-chemical or physical properties of the medical device in its final finished form should be 
-provided in sufficient detail for FDA to make an independent assessment during our review 
-and arrive at the same conclusion. To support this assessment, FDA requests that the 
-following be discussed:
-a.
-formulation of the test article and possible impurities or leachable chemicals;
-b. formulation of the medical device in its final finished form and possible impurities or 
-leachable chemicals; and
-c.
+The test report should describe the conclusions drawn from the test results. The clinical relevance of the study conclusions should be described in the test report or in the submission to FDA.
+Attachment F: Component and Device Documentation Examples
+The examples below are provided to illustrate one possible approach to documentation of how a test article compares to the proposed medical device in its final finished form; other approaches may also be acceptable. Manufacturers are encouraged to use an approach that works for their specific purposes, taking into account how any changes might impact the biocompatibility of the device. Note that these are generalized examples to demonstrate documentation and do not necessarily account for every possible consideration.
+### A. Component Documentation
+For each component and any joining processes/materials (e.g., adhesives, sintering processes), either of the following statements can be provided:
+Comparison to test article: "The [polymer/metal/ceramic/composite name] [component name] of the test article is identical to the [component name] of the medical device in its final finished form in formulation, processing, sterilization, and geometry, and no other chemicals have been added (e.g., plasticizers, fillers, additives, cleaning agents, mold release agents)."
+Comparison to previously marketed device: "The [polymer/metal/ceramic/composite name] [component name] of the medical device in its final finished form is identical to the [component name] of the [name] (legally marketed device)74 in formulation, processing, sterilization, and geometry, and no other chemicals have been added (e.g., plasticizers, fillers, additives, cleaning agents, mold release agents)."
+### B. Device Documentation
+If the above statement is true for all of the device component material formulations, processes, and sterilization methods (if applicable) in the device, either of the following general statements can be provided:
+Comparison to test article: "The test article is identical to the medical device in its final finished form in formulation, processing, sterilization, and geometry and no other chemicals have been added (e.g., plasticizers, fillers, additives, cleaning agents, mold release agents)."
+Comparison to previously marketed device: "The medical device in its final finished form is identical to [name] (previously marketed device) in formulation, processing, sterilization, and geometry and no other chemicals have been added (e.g., plasticizers, fillers, additives, cleaning agents, mold release agents)."
+74 We recommend that you include the submission number and date where the legally marketed device was given marketing authorization.
+### C. New Processing/Sterilization Changes
+If there are any processing or sterilization changes that the sponsor believes will not alter the biocompatibility of the medical device in its final finished form, the sponsor should use the component documentation language and include either of the following qualifiers:
+Comparison to test article: "…with the exception of [identify change]. FDA submission exhibit [#], page [#], submitted on [date], provides scientific information to demonstrate that the [processing/sterilization] change does not alter the chemical or physical properties of the medical device in its final finished form, and therefore, results from the test article can be applied to the medical device in its final finished form.”
+Comparison to previously marketed device: "…with the exception of [identify change].
+FDA submission exhibit [#], page [#], submitted on [date], provides scientific information to demonstrate that the [processing/sterilization] change does not alter the chemical or physical properties of the medical device in its final finished form, and therefore, results from the [name] (legally marketed device) can be applied to the medical device in its final finished form.” NOTE: The information provided to support a claim that processing and sterilization changes will not affect chemical or physical properties of the medical device in its final finished form should be provided in sufficient detail for FDA to make an independent assessment during our review and arrive at the same conclusion.
+NOTE: Changes in raw material suppliers or raw material specifications could introduce different types or quantities of residual chemicals and could result in a toxic response (even if the base material has a long history of safe use in similar applications).75
+NOTE: The impact of surface alterations due to processing, even at the micron or submicron level, should be evaluated when there is a reasonable possibility that they could result in geometrical or chemical changes at the surface which, in turn, could result in an adverse biological response (even if the base material has a long history of safe use in similar applications).
+### D. Formulation Changes
+If there are any formulation changes the sponsor believes will not alter the biocompatibility of the medical device in its final finished form, the sponsor should use the component documentation language and include the following qualifier:
+Comparison to test article: "…with the exception of [identify change]. FDA submission exhibit [#], page [#], submitted on [date], provides scientific information to demonstrate that 75 In some cases, chemical characterization at the raw material level may be sufficient to show comparability and to justify not conducting device level testing. However, some resin changes may result in changes to physical properties and/or surface characteristics of the medical device in its final finished form that could affect the biological response.
+the formulation change does not alter the chemical or physical properties of the medical device in its final finished form, and therefore, results from the test article can be applied to the proposed medical device in its final finished form.”
+Comparison to previously marketed device: "…with the exception of [identify change].
+FDA submission exhibit [#], page [#], submitted on [date], provides scientific information to demonstrate that the formulation change does not alter the chemical or physical properties of the medical device in its final finished form, and therefore, results from the [name] (legally marketed device) can be applied to the medical device in its final finished form.”
+For example, if your legally marketed comparator device contains a PEBAX® resin, and your subject device contains a different grade of PEBAX®, your documentation should include a qualifier that states that the untested PEBAX® grade varies only in the concentration of specific formulation components. Formulation changes that introduce novel components, or a higher concentration of an existing component, may warrant a new risk assessment or new testing if the upper and lower bounds of each component have not been previously evaluated.
+NOTE: The information provided to support a claim that formulation changes will not affect chemical or physical properties of the medical device in its final finished form should be provided in sufficient detail for FDA to make an independent assessment during our review and arrive at the same conclusion. To support this assessment, FDA requests that the following be discussed: a.
+formulation of the test article and possible impurities or leachable chemicals; b. formulation of the medical device in its final finished form and possible impurities or leachable chemicals; and c.
 a discussion of why the differences would not necessitate additional testing.
-
----
-
-<!-- Page 62 -->
-Contains Nonbinding Recommendations
-57
-Attachment G: Biocompatibility of Certain Devices in 
-Contact with Intact Skin
-Many devices have intact skin contacting materials that are made from synthetic polymers and 
-natural fabrics. FDA believes that these materials pose a very low biocompatibility risk because 
-they have a long history of safe use in legally marketed medical devices that contact intact skin.
-The policy outlined in this Attachment describes a least burdensome76 approach for these devices 
-that recommends specific material information to be included in a premarket submission in lieu 
-of biocompatibility testing. This approach also supports the principles of the “3Rs,” to replace, 
-reduce, and/or refine animal use in testing when feasible.77 This approach is partially based on 
-FDA’s review experience in premarket submissions with these common synthetic polymers and 
-natural fabrics. This approach also relies on certain parts of the Quality System Regulation (QS 
-Regulation, 21 CFR 820) and other postmarket controls78 to identify potential biocompatibility-
-related issues.
-For example, quality system and other postmarket controls have requirements that should 
-identify biocompatibility issues for devices in contact with intact skin if procedures established 
-and maintained, and records maintained in the Device Master Record79, by the manufacturer 
-include sufficient:
-·
-Purchasing controls (21 CFR 820.50) over material suppliers,
-·
-Production and process controls for manufacturing (21 CFR 820.70). Manufacturing 
-materials that could adversely affect device biocompatibility should be removed or 
-limited to an amount that does not pose toxicity concerns,
-·
-Receiving, in-process, and finished device acceptance (21 CFR 820.80) for component 
-and manufacturing materials,
-·
-Analysis of quality data (21 CFR 820.100(a)(1)), including complaints, to detect quality 
-problems, such as those that may reveal issues of cytotoxicity, irritation, or sensitization. 
-FDA recommends that such an analysis occurs routinely (at least annually), and
-·
-Complaints (21 CFR 820.198) should be received, reviewed, evaluated, and, when 
-necessary, investigated.80 We recommend that manufacturers process complaints in a 
-uniform and timely manner to look for issues related to cytotoxicity, irritation, or 
-sensitization. Indications of these issues may include:
-76 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/least-burdensome-provisions-
-concept-and-principles
-77 Russell WMS, Burch RL. The Principles of Humane Experimental Technique. London: Methuen & Co.; 1959. 
-Special edition published by Universities Federation for Animal Welfare, 1992. Available online at:
-https://caat.jhsph.edu/russell-and-burchs-principles-of-humane-experimental-techniques/
-78 For example, see 21 CFR 803.
-79 21 CFR 820.181.
-80 Pursuant to 21 CFR 820.198(a)(3) and 820.198(d), complaints can represent events that must be reported to FDA 
-under 21 CFR 803.
-
----
-
-<!-- Page 63 -->
-Contains Nonbinding Recommendations
-58
-·
-redness (erythema),
-·
-swelling (edema), 
-·
-irritation, 
-·
-sensitization (delayed Type IV hypersensitivity), 
-·
-allergy, and
-·
+Attachment G: Biocompatibility of Certain Devices in Contact with Intact Skin
+Many devices have intact skin contacting materials that are made from synthetic polymers and natural fabrics. FDA believes that these materials pose a very low biocompatibility risk because they have a long history of safe use in legally marketed medical devices that contact intact skin.
+The policy outlined in this Attachment describes a least burdensome76 approach for these devices that recommends specific material information to be included in a premarket submission in lieu of biocompatibility testing. This approach also supports the principles of the “3Rs,” to replace, reduce, and/or refine animal use in testing when feasible.77 This approach is partially based on FDA’s review experience in premarket submissions with these common synthetic polymers and natural fabrics. This approach also relies on certain parts of the Quality System Regulation (QS Regulation, 21 CFR 820) and other postmarket controls78 to identify potential biocompatibility-related issues.
+For example, quality system and other postmarket controls have requirements that should identify biocompatibility issues for devices in contact with intact skin if procedures established and maintained, and records maintained in the Device Master Record79, by the manufacturer include sufficient: - Purchasing controls (21 CFR 820.50) over material suppliers, - Production and process controls for manufacturing (21 CFR 820.70). Manufacturing materials that could adversely affect device biocompatibility should be removed or limited to an amount that does not pose toxicity concerns, · Receiving, in-process, and finished device acceptance (21 CFR 820.80) for component and manufacturing materials, - Analysis of quality data (21 CFR 820.100(a)(1)), including complaints, to detect quality problems, such as those that may reveal issues of cytotoxicity, irritation, or sensitization.
+FDA recommends that such an analysis occurs routinely (at least annually), and - Complaints (21 CFR 820.198) should be received, reviewed, evaluated, and, when necessary, investigated.80 We recommend that manufacturers process complaints in a uniform and timely manner to look for issues related to cytotoxicity, irritation, or sensitization. Indications of these issues may include: 77 Russell WMS, Burch RL. The Principles of Humane Experimental Technique. London: Methuen & Co.; 1959.
+Special edition published by Universities Federation for Animal Welfare, 1992. Available online at: https://caat.jhsph.edu/russell-and-burchs-principles-of-humane-experimental-techniques/
+80 Pursuant to 21 CFR 820.198(a)(3) and 820.198(d), complaints can represent events that must be reported to FDA under 21 CFR 803.
+- redness (erythema), ·
+swelling (edema), ·
+irritation, ·
+sensitization (delayed Type IV hypersensitivity), ·
+allergy, and ·
 immune response or other reactions on the skin where the device has contact.
-FDA intends to periodically reassess the list of device materials and exclusion characteristics 
-identified in Section B and Section C of this Attachment. FDA recommends that external 
-stakeholders submit comments to the docket to suggest the addition or removal of device 
-materials or exclusion characteristics from the policy outlined in this Attachment, including a 
-rationale. We also recommend the following information be included when suggesting the 
-addition of a material: (1) the generic chemical name, (2) identification of the FDA medical 
-device product code(s) where the material is commonly used with intact skin, and (3) a specific 
-rationale for why the proposed material(s) pose a low biocompatibility risk for intact skin. FDA 
-intends to review comments received in the docket and periodically assess whether any changes 
-to this policy are warranted. When FDA believes changes are warranted, FDA will issue updated 
-guidance in accordance with the procedures in the Good Guidance Practices Regulation (21 CFR 
-10.115).
-A. Which Types of Devices are Included? 
-Devices included in the policy outlined in this Attachment should meet all of the following 
-characteristics:
-·
-Medical devices or components that contact intact skin surfaces only, as described in 
-section 5.2.2 (a) of ISO 10993-1:2018: Biological evaluation of medical devices – 
-Part 1: Evaluation and testing within a risk management process,
-·
-Limited (≤24 hour), prolonged (>24 hours to 30 days), and long term (>30 days) 
-durations of contact, including repeat use devices, and
-·
-Composed of materials outlined in Section B below.
-FDA recommends additional discussion through the Q-Submission process81 to determine if the 
-policy outlined in this Attachment could be applicable to specific products in the following 
-situations:
-·
-If a legally marketed device made from the same material was found to be toxic in 
-previous testing. For example, if a rationale was used to support a previous premarket 
-submission where the material was found to be toxic in a biocompatibility test, additional 
-information (e.g., data or rationale) may be needed for the subject device;
-81 For more information, see FDA’s guidance titled “Requests for Feedback and Meetings for Medical Device 
-Submissions: The Q-Submission Program” available at https://www.fda.gov/regulatory-information/search-fda-
-guidance-documents/requests-feedback-and-meetings-medical-device-submissions-q-submission-program
-
----
-
-<!-- Page 64 -->
-Contains Nonbinding Recommendations
-59
-·
-If a legally marketed device made from the same material resulted in adverse clinical 
-findings (e.g., redness (erythema), swelling (edema), allergy, and immune response or 
-other reactions on the skin where the device has contact) after marketing that may be 
-related to cytotoxicity, irritation, or sensitization; 
-·
-If the proposed device is indicated for use with neonates. Neonatal skin and the skin of 
-infants with low birthweight is more permeable, and therefore the risk that leachables 
-may permeate the skin is higher;82,83
-·
-If the proposed device is indicated for use in pregnant women. Physiological alterations 
-during pregnancy may lead to higher “unsafe” levels of toxicants that would otherwise be 
-deemed “safe” in a non-pregnant woman. In addition, if chemicals absorb through the 
-skin, they may be transferred from a pregnant woman to her fetus; or
-·
-If it is a device-led combination product,84 or a device comprised of biologically-derived 
-material (e.g., tissues derived from animal or plant material).85 Such products can cause 
-adverse biological responses (e.g., cytotoxicity, irritation, or sensitization).
-B. What Materials Are Included? 
-FDA has identified specific materials in the final finished devices that are included in the policy 
-outlined in this Attachment when they are in contact with only intact skin surfaces. The materials 
-can include other processing chemicals and additives (e.g., plasticizers, fillers, color additives, 
-cleaning agents, mold release agents). With the exception of color additives, these chemicals 
-would not need to be disclosed in a marketing submission for devices with this type of tissue 
-contact. 
-Devices made from the following materials are included and can be made from a single material 
-or multiple materials, such as polymer blends:
-Synthetic polymers:
-·
-Acrylonitrile-butadiene-styrene plastic (ABS);
-·
-Cellulose Acetate
-·
-Cured epoxy adhesives (used to attach medical device components to each other);
-·
-Fluoropolymers including polytetrafluoroethylene (PTFE), expanded 
-polytetrafluoroethylene (ePTFE), poly(vinylidene fluoride) (PVDF), and 
-perfluoro(ethylene-propylene) plastic (FEP);
-·
-Nitrile Butadiene Rubber (NBR);
-82 Yosipovitch, G., et al., "Skin barrier properties in different body areas in neonates." Pediatrics, 2000, 106(1): 105-
-108.
-83 Fernandez, E., et al., "Factors and mechanisms for pharmacokinetic differences between pediatric population and 
-adults." Pharmaceutics, 2011, 3(1): 53-72.
+FDA intends to periodically reassess the list of device materials and exclusion characteristics identified in Section B and Section C of this Attachment. FDA recommends that external stakeholders submit comments to the docket to suggest the addition or removal of device materials or exclusion characteristics from the policy outlined in this Attachment, including a rationale. We also recommend the following information be included when suggesting the addition of a material: (1) the generic chemical name, (2) identification of the FDA medical device product code(s) where the material is commonly used with intact skin, and (3) a specific rationale for why the proposed material(s) pose a low biocompatibility risk for intact skin. FDA intends to review comments received in the docket and periodically assess whether any changes to this policy are warranted. When FDA believes changes are warranted, FDA will issue updated guidance in accordance with the procedures in the Good Guidance Practices Regulation (21 CFR 10.115).
+### A. Which Types of Devices are Included?
+Devices included in the policy outlined in this Attachment should meet all of the following characteristics: - Medical devices or components that contact intact skin surfaces only, as described in section 5.2.2 (a) of ISO 10993-1:2018: Biological evaluation of medical devices –
+Part 1: Evaluation and testing within a risk management process, - Limited (≤24 hour), prolonged (>24 hours to 30 days), and long term (>30 days) durations of contact, including repeat use devices, and · Composed of materials outlined in Section B below.
+FDA recommends additional discussion through the Q-Submission process81 to determine if the policy outlined in this Attachment could be applicable to specific products in the following situations: - If a legally marketed device made from the same material was found to be toxic in previous testing. For example, if a rationale was used to support a previous premarket submission where the material was found to be toxic in a biocompatibility test, additional information (e.g., data or rationale) may be needed for the subject device; Submissions: The Q-Submission Program” available at https://www.fda.gov/regulatory-information/search-fdaguidance-documents/requests-feedback-and-meetings-medical-device-submissions-q-submission-program - If a legally marketed device made from the same material resulted in adverse clinical findings (e.g., redness (erythema), swelling (edema), allergy, and immune response or other reactions on the skin where the device has contact) after marketing that may be related to cytotoxicity, irritation, or sensitization; - If the proposed device is indicated for use with neonates. Neonatal skin and the skin of infants with low birthweight is more permeable, and therefore the risk that leachables may permeate the skin is higher;82,83
+- If the proposed device is indicated for use in pregnant women. Physiological alterations during pregnancy may lead to higher “unsafe” levels of toxicants that would otherwise be deemed “safe” in a non-pregnant woman. In addition, if chemicals absorb through the skin, they may be transferred from a pregnant woman to her fetus; or - If it is a device-led combination product,84 or a device comprised of biologically-derived material (e.g., tissues derived from animal or plant material).85 Such products can cause adverse biological responses (e.g., cytotoxicity, irritation, or sensitization).
+### B. What Materials Are Included?
+FDA has identified specific materials in the final finished devices that are included in the policy outlined in this Attachment when they are in contact with only intact skin surfaces. The materials can include other processing chemicals and additives (e.g., plasticizers, fillers, color additives, cleaning agents, mold release agents). With the exception of color additives, these chemicals would not need to be disclosed in a marketing submission for devices with this type of tissue contact.
+Devices made from the following materials are included and can be made from a single material or multiple materials, such as polymer blends: Synthetic polymers: · Acrylonitrile-butadiene-styrene plastic (ABS); · Cellulose Acetate - Cured epoxy adhesives (used to attach medical device components to each other); - Fluoropolymers including polytetrafluoroethylene (PTFE), expanded polytetrafluoroethylene (ePTFE), poly(vinylidene fluoride) (PVDF), and perfluoro(ethylene-propylene) plastic (FEP); · Nitrile Butadiene Rubber (NBR); 82 Yosipovitch, G., et al., "Skin barrier properties in different body areas in neonates." Pediatrics, 2000, 106(1): 105-
+108. 83 Fernandez, E., et al., "Factors and mechanisms for pharmacokinetic differences between pediatric population and adults." Pharmaceutics, 2011, 3(1): 53-72.
 84 A combination product is defined in 21 CFR 3.2(e).
-85 See Section II. Scope regarding feedback for combination products with a device constituent part that are not 
-device-led. The Q-submission process should not be used to obtain feedback for combination products that are not 
-device-led.
-
----
-
-<!-- Page 65 -->
-Contains Nonbinding Recommendations
-60
-·
-Parylene;
-·
-Polyamides (PA), such as nylon and Velcro®;
-·
-Poly(butylene terephthalate) (PBT);
-·
-Polycarbonate (PC);
-·
-Polychloroprene, such as neoprene;
-·
-Polyetheretherketone (PEEK)
-·
-Polyetherketoneketone (PEKK);
-·
-Polyether block amide (PEBA), such as PEBAX®;
-·
-Polyether imide (PEI);
-·
-Polyethylenes, including low-density polyethylene (LDPE) and high-density 
-polyethylene (HDPE);
-·
-Poly(ethylene terephthalate) (PET), such as Velcro®;
-·
-Poly(methyl methacrylate) (PMMA);
-·
-Polyoxymethylene (POM);
-·
-Poly(phenylene sulfone) (PPSU);
-·
-Polypropylene (PP);
-·
-Polystyrene (PS), including high impact polystyrene (HIPS); 
-·
-Polyurethanes (PUR), such as Lycra®; 
-·
-Polyvinyl alcohol (PVA); or
-·
-Silicone
-Natural Fabrics:
-·
-Cotton fabrics;
-·
-Rayon fabrics; or
-·
-Silk fabrics
-C. What Devices or Materials are Excluded? 
-Medical devices, components, or materials excluded from the policy outlined in this Attachment 
-are described in Table G.1 below.
-
----
-
-<!-- Page 66 -->
-Contains Nonbinding Recommendations
-61
-Table G.1: Exclusion Characteristics
-Medical Device Characteristic
-Reason for exclusion
-Intact skin contacting components 
-fabricated from materials that are not 
-explicitly included in the above list, 
-including novel materials and bulk 
-metals (e.g., titanium, stainless steel, 
-nickel, nitinol, gold, cobalt, chrome)
-There are known risks or we do not have adequate 
-experience with these materials that may introduce 
-toxicity risks. Biocompatibility testing or detailed 
-rationales for omission of this testing could address 
-these concerns.
-Stored in or containing fluids or 
-creams
-There is an increased risk that leachables can be 
-transferred into the fluid or cream and then absorbed 
-through the skin.
-Fabricated from in-situ polymerizing 
-materials, absorbable materials, or 
-hydrogels
-There is an increased risk that polymerization or 
-degradation products can change over time. The 
-manufacturing process can impact the type and quantity 
-of intermediate and final chemicals present in the 
-device, which could introduce a toxicity risk.
-Contacts breached or compromised 
-surfaces, such as open or healing 
-wounds
-There is an increased risk that leachables can be 
-transferred through breached or compromised skin.
+Parylene; - Polyamides (PA), such as nylon and Velcro®; - Poly(butylene terephthalate) (PBT); - Polycarbonate (PC); - Polychloroprene, such as neoprene; - Polyetheretherketone (PEEK)
+- Polyetherketoneketone (PEKK); - Polyether block amide (PEBA), such as PEBAX®; - Polyether imide (PEI); - Polyethylenes, including low-density polyethylene (LDPE) and high-density polyethylene (HDPE); · Poly(ethylene terephthalate) (PET), such as Velcro®; · Poly(methyl methacrylate) (PMMA); · Polyoxymethylene (POM); · Poly(phenylene sulfone) (PPSU); · Polypropylene (PP); - Polystyrene (PS), including high impact polystyrene (HIPS); · Polyurethanes (PUR), such as Lycra®; · Polyvinyl alcohol (PVA); or · Silicone Natural Fabrics: · Cotton fabrics; · Rayon fabrics; or · Silk fabrics
+### C. What Devices or Materials are Excluded?
+Medical devices, components, or materials excluded from the policy outlined in this Attachment are described in Table G.1 below.
+Table G.1: Exclusion Characteristics Medical Device Characteristic Reason for exclusion Intact skin contacting components fabricated from materials that are not explicitly included in the above list, including novel materials and bulk metals (e.g., titanium, stainless steel, nickel, nitinol, gold, cobalt, chrome) There are known risks or we do not have adequate experience with these materials that may introduce toxicity risks. Biocompatibility testing or detailed rationales for omission of this testing could address these concerns.
+Stored in or containing fluids or creams There is an increased risk that leachables can be transferred into the fluid or cream and then absorbed through the skin.
+Fabricated from in-situ polymerizing materials, absorbable materials, or hydrogels There is an increased risk that polymerization or degradation products can change over time. The manufacturing process can impact the type and quantity of intermediate and final chemicals present in the device, which could introduce a toxicity risk.
+Contacts breached or compromised surfaces, such as open or healing wounds There is an increased risk that leachables can be transferred through breached or compromised skin.
 Reprocessed single-use devices
-FDA is unaware of a history of safe use of single-use 
-devices that are reused after reprocessing. Reprocessing 
-of such devices can cause adverse biological responses 
-(e.g., irritation)
-Adhesives used to attach a device 
-directly to the skin (e.g., electrode 
-pads, on-body pump attachment 
-systems)
-Adhesives can cause adverse biological responses (e.g., 
-irritation)
-D. What Biocompatibility Information Should be Included in a Premarket 
-Submission? 
-(1) All premarket submissions (PMAs, HDE applications, IDE 
-applications, 510(k)s, and De Novo requests) 
-We recommend the following information be included in the premarket submission for device 
-types within the scope of the policy outlined in this Attachment:
-·
-A list of all materials (including color additives)86 used to fabricate the device or 
-component with only direct or indirect skin contact;
-86 For more information regarding color additives, see the FDA website for color additives for medical devices, 
-available at https://www.fda.gov/medical-devices/biocompatibility-assessment-resource-center/color-additives-
-medical-devices
-
----
-
-<!-- Page 67 -->
-Contains Nonbinding Recommendations
-62
-·
-A statement confirming that the device materials are listed in Section B, and have a 
-documented history of safe use in legally marketed medical devices in contact with intact 
-skin (e.g., through Medical Device Reporting (MDR) analysis, literature search); and
-·
-A statement confirming that none of the exclusions listed in Section C apply.
-(2) Additional recommendation for IDE applications 
-In addition to the content recommended in Section D(1) above, FDA recommends that study 
-sponsors discuss any adverse biological responses from devices within this intact skin policy in 
-IDE progress reports87 submitted pursuant to 21 CFR 812.150(b)(5). Specifically, FDA 
-recommends that study sponsors describe any redness (erythema), swelling (edema), irritation, 
-sensitization (delayed Type IV hypersensitivity), allergy, immune response, or other reactions 
-observed by investigators during the course of a clinical study with observations attributed to a 
-specific device, if relevant.
-(3) Additional recommendations for marketing submissions (510(k)s, 
-PMAs, HDE applications, and De Novo requests) 
-In addition to the content recommended in Section D(1) above, FDA recommends manufacturers 
-include a statement that the manufacturer has documented in their Device Master Record (DMR) 
-how they have determined that biocompatibility risks for their device are addressed such that 
-biocompatibility testing, and a detailed rationale regarding manufacturing is not necessary to 
-include in a premarket submission. The following statement is an example of the format and 
-content to support such an approach:
-“We have documented in the Device Master Record (DMR) that we have addressed any 
-concerns that have been identified through biocompatibility testing (i.e., cytotoxicity, 
-irritation, and sensitization), manufacturing information (based on the type of materials, 
-formulation (if available) and nature of contact), and/or relevant quality system 
-requirements and postmarket controls related to:
-·
-Purchasing controls (21 CFR 820.50) of device materials, 
-·
-Production and process controls (21 CFR 820.70) for manufacturing materials , 
-·
-Acceptance activities (21 CFR 820.80) for component and manufacturing 
-materials, 
-·
-Corrective and preventative action (21 CFR 820.100),
-·
-Complaint files (21 CFR 820.198), and
-·
-Medical device reporting (MDR) (21 CFR 803).”
-87 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/suggested-format-ide-progress-
-report
-
----
-
-<!-- Page 68 -->
-Contains Nonbinding Recommendations
-63
-E. What is FDA’s Recommended Content and Format for Certain Labeling 
-Information Related to This Policy? 
-This section contains FDA’s format and content recommendations for certain labeling 
-information, and to help illustrate, FDA has provided an example. When the device is intended 
-for use in a patient population that may not have the ability to identify adverse biological 
-reactions related to cytotoxicity, irritation, or sensitization (e.g., patients with epilepsy or 
-dementia, or the vision impaired), FDA recommends that manufacturers using the policy 
-outlined in this Attachment, in lieu of conducting biocompatibility testing, inform caretakers in 
-the labeling by including a precaution discussing common adverse skin reactions. This applies to 
-medical devices used in health care settings by health care personnel as well as medical devices 
-used by patients and/or their caretakers. 
-An example of a precautionary statement that follows FDA’s recommendations is below:
-“Caretakers should assess patients for adverse reactions on the skin where the device has 
-contact, such as redness (erythema), swelling (edema), irritation, sensitization (delayed 
-Type IV hypersensitivity), allergy, immune response, or other reactions.”
-
----
-
-<!-- Page 69 -->
-Contains Nonbinding Recommendations
-64
-Attachment H: Glossary
-For the purposes of this guidance, the following definitions apply:
-Agglomerate/agglomeration – collection of weakly or medium strongly bound particles 
-where the resulting external surface area is similar to the sum of the surface areas of the 
-individual components88
-Aggregate/aggregation – particle comprising strongly bonded or fused particles where the 
-resulting external surface area is significantly smaller than the sum of surface areas of the 
-individual components89
-Biocompatibility – the ability of a device material to perform with an appropriate host 
-response in a specific situation90
-Contact:
-·
-Direct contact – term used for a device or device component that comes into 
-physical contact with body tissue
-·
-Indirect contact – term used for a device or device component through which a fluid 
-or gas passes, prior to the fluid or gas coming into physical contact with body tissue 
-(in this case the device or device component itself does not physically contact body 
-tissue)
-·
-Non-contact – term used for a device or device component that has no direct or 
-indirect contact with the body (e.g., stand-alone software or database), and for which 
-no biocompatibility information would be needed other than confirmation that there 
-is no contact with the human body
-·
-Transient contact – term used for a device or device component that comes into 
-very brief/transient contact with body tissue (e.g., hypodermic needles that are used 
-for less than one minute)
-Degradation – decomposition of the device, possibly through the generation of new 
-chemicals or absorption of the material, leading to loss of mechanical and/or physical 
-properties of the device (device function) over time
-88 ISO/TS 80004-6:2021(E) Nanotechnologies - Vocabulary - Part 6: Nano-object characterization.
+FDA is unaware of a history of safe use of single-use devices that are reused after reprocessing. Reprocessing of such devices can cause adverse biological responses (e.g., irritation) Adhesives used to attach a device directly to the skin (e.g., electrode pads, on-body pump attachment systems)
+Adhesives can cause adverse biological responses (e.g., irritation)
+### D. What Biocompatibility Information Should be Included in a Premarket Submission?
+(1) All premarket submissions (PMAs, HDE applications, IDE applications, 510(k)s, and De Novo requests)
+We recommend the following information be included in the premarket submission for device types within the scope of the policy outlined in this Attachment: - A list of all materials (including color additives)86 used to fabricate the device or component with only direct or indirect skin contact;
+In addition to the content recommended in Section D(1) above, FDA recommends that study sponsors discuss any adverse biological responses from devices within this intact skin policy in IDE progress reports87 submitted pursuant to 21 CFR 812.150(b)(5). Specifically, FDA recommends that study sponsors describe any redness (erythema), swelling (edema), irritation, sensitization (delayed Type IV hypersensitivity), allergy, immune response, or other reactions observed by investigators during the course of a clinical study with observations attributed to a specific device, if relevant.
+(3) Additional recommendations for marketing submissions (510(k)s, PMAs, HDE applications, and De Novo requests)
+In addition to the content recommended in Section D(1) above, FDA recommends manufacturers include a statement that the manufacturer has documented in their Device Master Record (DMR) how they have determined that biocompatibility risks for their device are addressed such that biocompatibility testing, and a detailed rationale regarding manufacturing is not necessary to include in a premarket submission. The following statement is an example of the format and content to support such an approach: “We have documented in the Device Master Record (DMR) that we have addressed any concerns that have been identified through biocompatibility testing (i.e., cytotoxicity, irritation, and sensitization), manufacturing information (based on the type of materials, formulation (if available) and nature of contact), and/or relevant quality system requirements and postmarket controls related to: - Purchasing controls (21 CFR 820.50) of device materials, - Production and process controls (21 CFR 820.70) for manufacturing materials , - Acceptance activities (21 CFR 820.80) for component and manufacturing materials, - Corrective and preventative action (21 CFR 820.100), - Complaint files (21 CFR 820.198), and - Medical device reporting (MDR) (21 CFR 803).”
+### E. What is FDA’s Recommended Content and Format for Certain Labeling
+Information Related to This Policy?
+This section contains FDA’s format and content recommendations for certain labeling information, and to help illustrate, FDA has provided an example. When the device is intended for use in a patient population that may not have the ability to identify adverse biological reactions related to cytotoxicity, irritation, or sensitization (e.g., patients with epilepsy or dementia, or the vision impaired), FDA recommends that manufacturers using the policy outlined in this Attachment, in lieu of conducting biocompatibility testing, inform caretakers in the labeling by including a precaution discussing common adverse skin reactions. This applies to medical devices used in health care settings by health care personnel as well as medical devices used by patients and/or their caretakers.
+An example of a precautionary statement that follows FDA’s recommendations is below: “Caretakers should assess patients for adverse reactions on the skin where the device has contact, such as redness (erythema), swelling (edema), irritation, sensitization (delayed
+Type IV hypersensitivity), allergy, immune response, or other reactions.” Attachment H: Glossary
+For the purposes of this guidance, the following definitions apply: Agglomerate/agglomeration – collection of weakly or medium strongly bound particles where the resulting external surface area is similar to the sum of the surface areas of the individual components88 Aggregate/aggregation – particle comprising strongly bonded or fused particles where the resulting external surface area is significantly smaller than the sum of surface areas of the individual components89
+Biocompatibility – the ability of a device material to perform with an appropriate host response in a specific situation90 Contact: - Direct contact – term used for a device or device component that comes into physical contact with body tissue - Indirect contact – term used for a device or device component through which a fluid or gas passes, prior to the fluid or gas coming into physical contact with body tissue (in this case the device or device component itself does not physically contact body tissue)
+- Non-contact – term used for a device or device component that has no direct or indirect contact with the body (e.g., stand-alone software or database), and for which no biocompatibility information would be needed other than confirmation that there is no contact with the human body - Transient contact – term used for a device or device component that comes into very brief/transient contact with body tissue (e.g., hypodermic needles that are used for less than one minute)
+Degradation – decomposition of the device, possibly through the generation of new chemicals or absorption of the material, leading to loss of mechanical and/or physical properties of the device (device function) over time 88 ISO/TS 80004-6:2021(E) Nanotechnologies - Vocabulary - Part 6: Nano-object characterization.
 89 ISO/TS 80004-6:2021(E) Nanotechnologies - Vocabulary - Part 6: Nano-object characterization.
-90 Black, J., "Biological Performance of Materials: Fundamentals of Biocompatibility." Boca Raton: CRC Press, 
-2006.
-
----
-
-<!-- Page 70 -->
-Contains Nonbinding Recommendations
-65
-Extraction, exhaustive – extraction conducted until the amount of extractable material in a 
-subsequent extraction is less than 10% by gravimetric analysis (or that achieved by other 
-means) of that detected in the initial extraction91
-Extractable – substance that can be released from a medical device or material using either 
-extraction solvents or extraction conditions, or both, that are expected to be at least as 
-aggressive as the conditions of clinical use92
-Final finished form - term used for a device or device component that includes all 
-manufacturing processes for the “to be marketed” device including packaging and 
-sterilization, if applicable
-In vivo animal study – a nonclinical animal study designed to provide initial evidence of 
-device safety, potential performance when used in a living system, and/or the biologic 
-response to the device
-Leachable – substance that can be released from a medical device or material during clinical 
-use93
+90 Black, J., "Biological Performance of Materials: Fundamentals of Biocompatibility." Boca Raton: CRC Press,
+2006. Extraction, exhaustive – extraction conducted until the amount of extractable material in a subsequent extraction is less than 10% by gravimetric analysis (or that achieved by other means) of that detected in the initial extraction91
+Extractable – substance that can be released from a medical device or material using either extraction solvents or extraction conditions, or both, that are expected to be at least as aggressive as the conditions of clinical use92
+Final finished form - term used for a device or device component that includes all manufacturing processes for the “to be marketed” device including packaging and sterilization, if applicable
+In vivo animal study – a nonclinical animal study designed to provide initial evidence of device safety, potential performance when used in a living system, and/or the biologic response to the device
+Leachable – substance that can be released from a medical device or material during clinical use93
 Material – the substance or substances of which a thing is made or composed94
-Novel material – material that has not previously been used in any legally marketed medical 
-device
-Risk assessment – overall process comprising a risk analysis (systematic use of available 
-information to identify hazards and to estimate the risk) and a risk evaluation (process of 
-comparing the estimated risk against given risk criteria to determine the acceptability of the 
-risk)95
-Sponsor – manufacturer, submitter or applicant
+Novel material – material that has not previously been used in any legally marketed medical device
+Risk assessment – overall process comprising a risk analysis (systematic use of available information to identify hazards and to estimate the risk) and a risk evaluation (process of comparing the estimated risk against given risk criteria to determine the acceptability of the risk)95 Sponsor – manufacturer, submitter or applicant
 Toxic – capable of causing injury or death, especially by chemical means96
-Toxicological hazard – potential for a chemical substance or material to cause an adverse 
-biological reaction, taking into account the nature of the reaction and the dose required to 
-elicit it97
-91 ISO 10993-12:2021 Biological evaluation of medical devices – Part 12: Sample preparation and reference 
-materials.
-92 Ibid.
-93 Ibid.
-94 Materials, DICTIONARY, http://dictionary.reference.com/browse/materials (last visited May 2, 2016). 
-95 ISO 10993-1:2018 Biological evaluation of medical devices – Part 1: Evaluation and testing within a risk 
-management process.
+Toxicological hazard – potential for a chemical substance or material to cause an adverse biological reaction, taking into account the nature of the reaction and the dose required to elicit it97
+94 Materials, DICTIONARY, http://dictionary.reference.com/browse/materials (last visited May 2, 2016).
 96 Toxic, The American Heritage Medical Dictionary (2d ed. 2007).
-97 ISO 10993-1:2018 Biological evaluation of medical devices – Part 1: Evaluation and testing within a risk 
-management process.
+Toxicological risk – probability of a specified degree of an adverse reaction occurring in response to a specified level of exposure98
+Toxicity – the degree to which a substance is toxic
 
 ---
 
-<!-- Page 71 -->
-Contains Nonbinding Recommendations
-66
-Toxicological risk – probability of a specified degree of an adverse reaction occurring in 
-response to a specified level of exposure98
-Toxicity – the degree to which a substance is toxic
-98 ISO 10993-1:2018 Biological evaluation of medical devices – Part 1: Evaluation and testing within a risk 
-management process.
+## Footnotes
+
+[^1]: For the purposes of this document, the term “human body” refers to either patient tissues or the clinical practitioner. For example, masks or gloves intended for protective purposes by clinical practitioners should be assessed for biocompatibility. Similarly, medical devices such as implants or skin electrodes also should be assessed for biocompatibility. for biocompatibility test article preparation for devices with submicron or nanotechnology components and for devices made from in situ polymerizing and/or absorbable materials.
+
+[^3]: Available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfStandards/search.cfm relevant to other biocompatibility standards (e.g., other parts of the ISO4 10993 series of standards, ASTM,5 ICH,6 OECD,7 USP8).
+
+[^4]: ISO stands for International Organization for Standardization, an international standards development organization. See http://www.iso.org/iso/home.html for more information.
+
+[^10]: For the purposes of this guidance, “legally marketed devices” are limited to devices marketed in the US.
+
+[^12]: Available at https://www.fda.gov/medical-devices/guidance-documents-medical-devices-and-radiation-emitting- products/content-premarket-notifications-conventional-and-high-permeability-hemodialyzers-guidance-industry
+
+[^14]: The term “may” is used here and throughout the document to indicate that the final determination on whether additional information should be provided will depend on the specifics of the final device under consideration.
+
+[^15]: For more information regarding combination products, see the FDA combination products website available at https://www.fda.gov/combination-products/guidance-regulatory-information. For additional information regarding ways in which combination product sponsors can obtain feedback from FDA on scientific and regulatory questions and best practices for FDA and sponsors when interacting on these topics, see the guidance “Requesting FDA
+
+[^16]: See FDA’s Database on Recognized Consensus Standards and input “10993-1” for the Supplemental Information
+
+[^20]: See Attachment G for special considerations for FDA’s recommended biocompatibility evaluation for certain devices in contact with intact skin that are fabricated from common polymers and fabrics.
+
+[^27]: For example, a material may be selected to provide a certain stiffness required for the device to perform appropriately (i.e., device characteristic), but may also have other material characteristics that could impact the biological response to the device (e.g., hydrophilic or hydrophobic surface). new device will guide selection of the appropriate biocompatibility evaluations. Where available, device-specific guidance documents may include additional safety assessments to be considered within the context of a biocompatibility evaluation.
+
+[^28]: For the purposes of a biocompatibility evaluation, leveraging information from other marketing applications could be appropriate in support of 510(k)s, PMAs, De Novos, HDEs, and initiation of IDEs.
+
+[^29]: ISO 10993-1:2018 Biological evaluation of medical devices – Part 1 Evaluation and testing within a risk management process. process or from biocompatibility testing (using both in vitro and in vivo models), and/or adequate chemical, physical, morphological, and topographical characterization in conjunction with supplementary biocompatibility information that adequately address the biocompatibility risks of the device should be provided. ISO 10993-1 uses an approach to biocompatibility evaluation that includes these seven general principles. 1. The selection of material(s) to be used in device manufacture and its biocompatibility evaluation should initially take into account the likelihood of direct or indirect tissue contact and any available information for the materials of manufacture, for example, chemical formulation for each component material, including adhesives, known and suspected impurities, and constituents associated with processing.
+
+[^31]: See definition of nonclinical laboratory study at 21 CFR 58.3(d). used (i.e., materials or processes that have not previously been used in a legally marketed medical device with the same type and duration of contact).
+
+[^33]: See ISO 10993-1:2018, Clause 5.2 “Categorization by nature of body contact” and Clause 5.3 “Categorization by duration of contact.”
+
+[^34]: FDA’s “Guidance for Industry and FDA Staff:  Preparation and Review of Investigational Device Exemption
+
+[^38]: For example, ASTM F1903 Standard Practice for Testing for Cellular Responses to Particles in vitro or ASTM F1904 Standard Practice for Testing the Biological Responses to Medical Device Particulate Debris and
+
+[^41]: ISO 10993-10:2021 Biological evaluation of medical devices – Part 10: Tests for skin sensitization states that for sensitization testing “a positive control does not need to be included in every assay, but may be run at regular intervals which shall not exceed six months.” The standard further states that “Using a positive control only once every six months can have consequences for the results obtained in the previous six months period when this positive control shows a negative outcome.” FDA has not historically recommended that sponsors wait up to six months for the subsequent positive control data to support submissions to the FDA. Instead, FDA has historically accepted studies with positive control data conducted within three months of the device test. ·
+
+[^43]: For example, FDA’s guidance document “Implanted Blood Access Devices for Hemodialysis – Guidance for
+
+[^64]: ISO 10993-17 Biological evaluation of medical devices – Part 17: Establishment of allowable limits for leachable substances. · novel implant materials if there is a potential for chemical leachables to contact reproductive organs, regardless of the type or duration of contact, and · device materials or components in contact with reproductive organs.
+
+[^65]: Per requirements under purchasing controls (21 CFR 820.50), if a new material supplier is being considered, comparative chemical characterization can be used with incoming material or component specifications to confirm whether there are additional types or quantities of impurities in the new material or component that could impact biocompatibility such that additional testing may be needed, or if it is sufficient to document the change in the
+
+[^76]: https://www.fda.gov/regulatory-information/search-fda-guidance-documents/least-burdensome-provisions- concept-and-principles
+
+[^78]: For example, see 21 CFR 803.
+
+[^79]: 21 CFR 820.181.
+
+[^81]: For more information, see FDA’s guidance titled “Requests for Feedback and Meetings for Medical Device
+
+[^85]: See Section II. Scope regarding feedback for combination products with a device constituent part that are not device-led. The Q-submission process should not be used to obtain feedback for combination products that are not device-led. ·
+
+[^86]: For more information regarding color additives, see the FDA website for color additives for medical devices, available at https://www.fda.gov/medical-devices/biocompatibility-assessment-resource-center/color-additives- medical-devices · A statement confirming that the device materials are listed in Section B, and have a documented history of safe use in legally marketed medical devices in contact with intact skin (e.g., through Medical Device Reporting (MDR) analysis, literature search); and · A statement confirming that none of the exclusions listed in Section C apply. (2) Additional recommendation for IDE applications
+
+[^87]: https://www.fda.gov/regulatory-information/search-fda-guidance-documents/suggested-format-ide-progress- report
+
+[^91]: ISO 10993-12:2021 Biological evaluation of medical devices – Part 12: Sample preparation and reference materials.
+
+[^92]: Ibid.
+
+[^93]: Ibid.
+
+[^95]: ISO 10993-1:2018 Biological evaluation of medical devices – Part 1: Evaluation and testing within a risk management process.
+
+[^97]: ISO 10993-1:2018 Biological evaluation of medical devices – Part 1: Evaluation and testing within a risk management process.
+
+[^98]: ISO 10993-1:2018 Biological evaluation of medical devices – Part 1: Evaluation and testing within a risk management process.

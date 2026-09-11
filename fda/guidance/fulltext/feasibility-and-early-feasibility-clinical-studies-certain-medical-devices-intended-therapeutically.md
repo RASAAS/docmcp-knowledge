@@ -4,589 +4,144 @@
 
 **Published:** 2022-05-06
 
----
-
-<!-- Page 1 -->
-Contains Nonbinding Recommendations
-Feasibility and Early Feasibility 
-Clinical Studies for Certain Medical 
-Devices Intended to Therapeutically 
-Improve Glycemic Control in Patients 
-with Type 2 Diabetes Mellitus
-Guidance for Industry and Food and 
-Drug Administration Staff
-Document issued on May 6, 2022.
-The draft of this document was issued on May 20, 2021.
-For questions about this document, contact OHT3: Office of Gastro-Renal, ObGyn, General 
-Hospital, and Urology Devices/DHT3A: Division of Renal, Gastrointestinal, Obesity, and 
-Transplant Devices at (301) 796-7030.
-U.S. Department of Health and Human Services
-Food and Drug Administration
-Center for Devices and Radiological Health
 
 ---
 
-<!-- Page 2 -->
-Contains Nonbinding Recommendations
-Preface
-Public Comment
-You may submit electronic comments and suggestions at any time for Agency consideration to 
-https://www.regulations.gov. Submit written comments to the Dockets Management Staff, Food 
-and Drug Administration, 5630 Fishers Lane, Room 1061, (HFA-305), Rockville, MD 20852. 
-Identify all comments with the docket number FDA-2021-D-0131. Comments may not be acted 
-upon by the Agency until the document is next revised or updated.
-Additional Copies
-Additional copies are available from the Internet. You may also send an email request to CDRH-
-Guidance@fda.hhs.gov to receive a copy of the guidance. Please include the document number 
-19045 and complete title of the guidance in the request.
+Feasibility and Early Feasibility Clinical Studies for Certain Medical Devices Intended to Therapeutically Improve Glycemic Control in Patients with Type 2 Diabetes Mellitus
 
----
-
-<!-- Page 3 -->
-Contains Nonbinding Recommendations
-Table of Contents
-I. 
-Introduction ............................................................................................................................. 1 
-II. 
-Background ............................................................................................................................. 1
-III. Scope ....................................................................................................................................... 2
-IV. Clinical Study Recommendations ........................................................................................... 3
-A. 
-Purpose/Objective ............................................................................................................... 4
-B. 
-Study Design and Sample Size ........................................................................................... 4
-C. 
-Study Duration and Follow-up Schedule ............................................................................ 5
-D. 
-Inclusion/Exclusion Criteria ............................................................................................... 6
-E. 
-Patient Demographics ......................................................................................................... 8
-F. 
-Treatment Parameters/Protocol (including post-operative regimen) .................................. 9
-G. 
-Safety Endpoints and Data ................................................................................................ 10
-H. 
-Effectiveness Analysis and Data ....................................................................................... 11
-I. 
-Statistical Analysis Considerations ................................................................................... 12
-
----
-
-<!-- Page 4 -->
-Contains Nonbinding Recommendations
-1
-Feasibility and Early Feasibility 
-Clinical Studies for Certain Medical 
-Devices Intended to Therapeutically 
-Improve Glycemic Control in Patients 
-with Type 2 Diabetes Mellitus
-Guidance for Industry and
-Food and Drug Administration Staff
-This guidance represents the current thinking of the Food and Drug Administration (FDA or 
-Agency) on this topic. It does not establish any rights for any person and is not binding on 
-FDA or the public. You can use an alternative approach if it satisfies the requirements of the 
-applicable statutes and regulations. To discuss an alternative approach, contact the FDA staff 
-or Office responsible for this guidance as listed on the title page. 
-I. 
-Introduction
-This guidance document provides recommendations for feasibility and early feasibility clinical 
-studies for certain medical devices intended to therapeutically improve glycemic control in 
-patients with Type 2 Diabetes Mellitus (T2DM). These medical devices are intended to 
-therapeutically reduce glycated hemoglobin (HbA1c) in T2DM patients independent of 
-medication (e.g., insulin) delivery.
-The contents of this document do not have the force and effect of law and are not meant to bind 
-the public in any way, unless specifically incorporated into a contract. This document is intended 
-only to provide clarity to the public regarding existing requirements under the law. FDA 
-guidance documents, including this guidance, should be viewed only as recommendations, unless 
-specific regulatory or statutory requirements are cited. The use of the word should in Agency 
-guidance means that something is suggested or recommended, but not required.
-II. Background
-Type 2 Diabetes Mellitus (T2DM) is a metabolic disorder that is characterized by high blood 
-sugar levels, insulin resistance, and relative lack of insulin. In 2020, it was estimated that 10.5%
-
----
-
-<!-- Page 5 -->
-Contains Nonbinding Recommendations
-2
-of the United States (U.S.) population, or roughly 34.2 million Americans, have diabetes and that 
-T2DM accounts for 90% to 95% of all diabetes cases.1
-Due to the prevalence of T2DM in the U.S., many medical device manufacturers and researchers 
-seek to develop therapeutic medical devices that are intended to improve glycemic control in 
-patients with T2DM. Historically, there have been several legally marketed medical devices that 
-help patients manage T2DM, including medical devices intended to measure or monitor glucose 
-(e.g., blood glucose monitors, continuous glucose monitors) or dose and deliver insulin (e.g., 
-insulin pens, pumps, syringes). Medical devices that are therapeutically intended to improve 
-glycemic control in patients with T2DM are an increasing area of interest. Manufacturers 
-frequently request the Agency’s feedback regarding feasibility and early feasibility clinical 
-studies2 for these medical devices. This guidance represents the Agency’s initial thinking on 
-feasibility and early feasibility clinical studies for these medical devices. FDA’s 
-recommendations may change as more information becomes available.
-Prior to initiating a pivotal clinical study, or to receive additional feedback on feasibility study 
-design, the Agency encourages manufacturers to submit a Pre-Submission to obtain detailed 
-feedback on the clinical investigation of medical devices within the scope of this guidance that 
-are intended to therapeutically improve glycemic control in patients with T2DM. For more 
-information on Pre-Submissions, refer to the guidance “Requests for Feedback and Meetings for 
+This guidance represents the current thinking of the Food and Drug Administration (FDA or Agency) on this topic. It does not establish any rights for any person and is not binding on
+FDA or the public. You can use an alternative approach if it satisfies the requirements of the applicable statutes and regulations. To discuss an alternative approach, contact the FDA staff or Office responsible for this guidance as listed on the title page.
+## I. Introduction
+This guidance document provides recommendations for feasibility and early feasibility clinical studies for certain medical devices intended to therapeutically improve glycemic control in patients with Type 2 Diabetes Mellitus (T2DM). These medical devices are intended to therapeutically reduce glycated hemoglobin (HbA1c) in T2DM patients independent of medication (e.g., insulin) delivery.
+The contents of this document do not have the force and effect of law and are not meant to bind the public in any way, unless specifically incorporated into a contract. This document is intended only to provide clarity to the public regarding existing requirements under the law. FDA guidance documents, including this guidance, should be viewed only as recommendations, unless specific regulatory or statutory requirements are cited. The use of the word should in Agency guidance means that something is suggested or recommended, but not required.
+## II. Background
+Type 2 Diabetes Mellitus (T2DM) is a metabolic disorder that is characterized by high blood sugar levels, insulin resistance, and relative lack of insulin. In 2020, it was estimated that 10.5% of the United States (U.S.) population, or roughly 34.2 million Americans, have diabetes and that T2DM accounts for 90% to 95% of all diabetes cases.1
+Due to the prevalence of T2DM in the U.S., many medical device manufacturers and researchers seek to develop therapeutic medical devices that are intended to improve glycemic control in patients with T2DM. Historically, there have been several legally marketed medical devices that help patients manage T2DM, including medical devices intended to measure or monitor glucose (e.g., blood glucose monitors, continuous glucose monitors) or dose and deliver insulin (e.g., insulin pens, pumps, syringes). Medical devices that are therapeutically intended to improve glycemic control in patients with T2DM are an increasing area of interest. Manufacturers frequently request the Agency’s feedback regarding feasibility and early feasibility clinical studies2 for these medical devices. This guidance represents the Agency’s initial thinking on feasibility and early feasibility clinical studies for these medical devices. FDA’s recommendations may change as more information becomes available.
+Prior to initiating a pivotal clinical study, or to receive additional feedback on feasibility study design, the Agency encourages manufacturers to submit a Pre-Submission to obtain detailed feedback on the clinical investigation of medical devices within the scope of this guidance that are intended to therapeutically improve glycemic control in patients with T2DM. For more information on Pre-Submissions, refer to the guidance “Requests for Feedback and Meetings for
 Medical Device Submissions: The Q-Submission Program.”3
-III. Scope
-The scope of this guidance document is limited to the design of feasibility and early feasibility 
-clinical studies of medical devices that are intended to therapeutically improve glycemic control 
-in patients with T2DM. Such medical devices include, but are not limited to, neurostimulators, 
-and those that mimic or result in anatomical changes similar to those made by bariatric surgical 
-procedures, alter the anatomy and/or physiology of the small intestines, or manipulate the 
-sympathetic nervous system. 
-Clinical investigations of medical devices that measure or monitor blood sugar, calculate or 
-deliver insulin and/or glucagon doses (either automatically or manually), assist in islet cell 
-therapeutics (e.g., delivery devices), or Software as a Medical Device (SaMD) to improve 
-glycemic control in patients with T2DM are all outside the scope of this guidance document. 
-1 Center for Disease Control, National Diabetes Statistics Report 2020: Estimates of Diabetes and its Burden in the 
+## III. Scope
+The scope of this guidance document is limited to the design of feasibility and early feasibility clinical studies of medical devices that are intended to therapeutically improve glycemic control in patients with T2DM. Such medical devices include, but are not limited to, neurostimulators, and those that mimic or result in anatomical changes similar to those made by bariatric surgical procedures, alter the anatomy and/or physiology of the small intestines, or manipulate the sympathetic nervous system.
+Clinical investigations of medical devices that measure or monitor blood sugar, calculate or deliver insulin and/or glucagon doses (either automatically or manually), assist in islet cell therapeutics (e.g., delivery devices), or Software as a Medical Device (SaMD) to improve glycemic control in patients with T2DM are all outside the scope of this guidance document.
+1 Center for Disease Control, National Diabetes Statistics Report 2020: Estimates of Diabetes and its Burden in the
 United States, available at www.cdc.gov/diabetes/pdfs/data/statistics/national-diabetes-statistics-report.pdf.
-2 For information on the distinction between feasibility and early feasibility studies, see FDA’s guidance 
-“Investigational Device Exemptions (IDEs) for Early Feasibility Medical Device Clinical Studies, Including Certain 
-First in Human (FIH) Studies,” available at https://www.fda.gov/regulatory-information/search-fda-guidance-
-documents/investigational-device-exemptions-ides-early-feasibility-medical-device-clinical-studies-including.
-3 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/requests-feedback-and-meetings-
-medical-device-submissions-q-submission-program.
-
----
-
-<!-- Page 6 -->
-Contains Nonbinding Recommendations
-3
-IV. Clinical Study Recommendations
-We recommend you conduct a clinical study to determine the feasibility and safety of any new 
-medical device that is therapeutically intended to improve glycemic control in patients with 
-T2DM to support initiation of further clinical investigation (e.g., additional feasibility or pivotal). 
-The study should generally be conducted under the Investigational Device Exemptions (IDE) 
-regulation, 21 CFR part 812, for studies conducted in the U.S. Generally, we believe medical 
-devices addressed by this guidance document are significant risk medical devices subject to all 
-requirements of 21 CFR part 812. See the FDA guidance titled “Significant Risk and 
-Nonsignificant Risk Medical Device Studies.”4 In addition to the requirements of 21 CFR part 
-812, sponsors of such trials of a medical device conducted in the U.S. must comply with 
-applicable regulations governing institutional review boards (21 CFR part 56) and informed 
-consent (21 CFR part 50). 
-When data from clinical investigations conducted outside the U.S. are submitted to FDA for 
-these medical devices, the requirements of 21 CFR 812.28 may apply.5 21 CFR 812.28 outlines 
-the conditions for FDA acceptance of clinical data from investigations conducted outside the 
-U.S. when submitted to support premarket submissions. For more information, see the FDA 
-guidance “Acceptance of Clinical Data to Support Medical Device Applications and 
-Submissions: Frequently Asked Questions.”6
-Specific recommendations for feasibility and early feasibility clinical studies for medical devices 
-intended to improve glycemic control in patients with T2DM are summarized below. These 
-study recommendations reflect FDA’s current thinking regarding study design for medical 
-devices intended to therapeutically improve glycemic control in patients with T2DM.
-In providing these recommendations, we often refer to clinical practice guidelines for the 
-management of T2DM. For the purposes of this guidance, use of the term “clinical practice 
-guidelines” collectively refers to clinical practice guidelines from the American Diabetes 
-Association (ADA),7 American Association of Clinical Endocrinologists (AACE),8 and the 
-American College of Endocrinology (ACE).9 FDA believes that the recommendations provided 
-in this guidance are consistent with the recommendations made in these clinical practice 
-guidelines.
-4 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/significant-risk-and-nonsignificant-
-risk-medical-device-studies.
-5 This applies to data from clinical investigations that began on or after February 21, 2019 and are submitted to 
-support a premarket submission, including IDEs, premarket approval applications (PMAs), and 510(k)s.
-6 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/acceptance-clinical-data-support-
-medical-device-applications-and-submissions-frequently-asked.
-7 American Diabetes Association. Pharmacologic approaches to glycemic treatment: Standards of Medical Care in 
+2 For information on the distinction between feasibility and early feasibility studies, see FDA’s guidance “Investigational Device Exemptions (IDEs) for Early Feasibility Medical Device Clinical Studies, Including Certain
+First in Human (FIH) Studies,” available at https://www.fda.gov/regulatory-information/search-fda-guidancedocuments/investigational-device-exemptions-ides-early-feasibility-medical-device-clinical-studies-including.
+## IV. Clinical Study Recommendations
+We recommend you conduct a clinical study to determine the feasibility and safety of any new medical device that is therapeutically intended to improve glycemic control in patients with T2DM to support initiation of further clinical investigation (e.g., additional feasibility or pivotal).
+The study should generally be conducted under the Investigational Device Exemptions (IDE) regulation, 21 CFR part 812, for studies conducted in the U.S. Generally, we believe medical devices addressed by this guidance document are significant risk medical devices subject to all requirements of 21 CFR part 812. See the FDA guidance titled “Significant Risk and
+Nonsignificant Risk Medical Device Studies.”4 In addition to the requirements of 21 CFR part 812, sponsors of such trials of a medical device conducted in the U.S. must comply with applicable regulations governing institutional review boards (21 CFR part 56) and informed consent (21 CFR part 50).
+When data from clinical investigations conducted outside the U.S. are submitted to FDA for these medical devices, the requirements of 21 CFR 812.28 may apply.5 21 CFR 812.28 outlines the conditions for FDA acceptance of clinical data from investigations conducted outside the U.S. when submitted to support premarket submissions. For more information, see the FDA guidance “Acceptance of Clinical Data to Support Medical Device Applications and Submissions: Frequently Asked Questions.”6
+Specific recommendations for feasibility and early feasibility clinical studies for medical devices intended to improve glycemic control in patients with T2DM are summarized below. These study recommendations reflect FDA’s current thinking regarding study design for medical devices intended to therapeutically improve glycemic control in patients with T2DM.
+In providing these recommendations, we often refer to clinical practice guidelines for the management of T2DM. For the purposes of this guidance, use of the term “clinical practice guidelines” collectively refers to clinical practice guidelines from the American Diabetes
+Association (ADA),7 American Association of Clinical Endocrinologists (AACE),8 and the
+American College of Endocrinology (ACE).9 FDA believes that the recommendations provided in this guidance are consistent with the recommendations made in these clinical practice guidelines.
+5 This applies to data from clinical investigations that began on or after February 21, 2019 and are submitted to support a premarket submission, including IDEs, premarket approval applications (PMAs), and 510(k)s.
+7 American Diabetes Association. Pharmacologic approaches to glycemic treatment: Standards of Medical Care in
 Diabetes - 2020. Diabetes Care 2020;43(Suppl. 1): S98–S110.
-8 A. J. Garber et al. (2019). “Consensus Statement by the American Association of Clinical Endocrinologists and 
-American College of Endocrinology on the Comprehensive Type 2 Diabetes Management Algorithm - 2019 
-Executive Summary.” Endocr Pract. 25(1): 69-100.
-9 Y. Handelsman et al. (2015). “American Association of Clinical Endocrinologists and American College of 
-Endocrinology - Clinical Practice Guidelines for Developing a Diabetes Mellitus Comprehensive Care Plan - 2015.” 
-Endocr Pract. 21 Suppl 1: 1-87.
+8 A. J. Garber et al. (2019). “Consensus Statement by the American Association of Clinical Endocrinologists and
+American College of Endocrinology on the Comprehensive Type 2 Diabetes Management Algorithm - 2019 Executive Summary.” Endocr Pract. 25(1): 69-100.
+9 Y. Handelsman et al. (2015). “American Association of Clinical Endocrinologists and American College of
+Endocrinology - Clinical Practice Guidelines for Developing a Diabetes Mellitus Comprehensive Care Plan - 2015.” Endocr Pract. 21 Suppl 1: 1-87.
+### A. Purpose/Objective
+The objective of an early feasibility study is to evaluate the device design concept with respect to initial clinical safety and device functionality in a small number of subjects (generally fewer than ten (10) initial subjects) when this information cannot practically be provided through additional nonclinical assessments or appropriate nonclinical tests are unavailable. For novel medical device technologies with little to no human-based data or an unfinalized device design, we recommend that you consider if an early feasibility clinical study is appropriate. For more information on early feasibility studies, see FDA’s guidance “Investigational Device Exemptions (IDEs) for Early Feasibility Medical Device Clinical Studies, Including Certain First in Human (FIH) Studies.”10 When consistent with the goal(s) of the study, the recommendations made in this document should be considered when designing an early feasibility clinical study.
+The objective of a feasibility clinical study is to gather initial safety and effectiveness data to support initiation of further clinical investigation. FDA recommends that the primary endpoints should address safety by collection of all adverse events and effectiveness. For effectiveness, we recommend assessing glycated hemoglobin (HbA1c), as this is a widely recognized objective measure of glycemic control recommended by ADA’s clinical practice guideline and as a surrogate for risk of developing complications.11 Other measures of effectiveness can also be collected by the study sponsor to help focus further device study.
+### B. Study Design and Sample Size
+The sample size for your study should consider the phase of medical device development, risk profile of the medical device based on similar medical devices and associated procedures, animal or bench performance data, and/or information to support any anticipated benefits. As noted above, early feasibility studies generally enroll less than ten (10) initial subjects.
+Feasibility and early feasibility clinical studies for therapeutic medical devices that are intended to improve glycemic control in patients with T2DM should primarily be designed to collect safety data on a medical device. Although these studies are typically not large enough to statistically assess device effectiveness, an effectiveness endpoint should be included in the study to capture preliminary clinical evidence with respect to glycemic control. Continued inadequate glycemic control (i.e., insufficient progress toward glycemic targets in response to the study device) in patients with T2DM not only signifies a concern with lack of effectiveness, it also presents a significant safety concern, putting the patient at risk for complications associated with poor glycemic control (e.g., cardiovascular complications, neuropathy, nephropathy, retinopathy).
+11 Agiostratidou, Gina, et al. “Standardizing clinically meaningful outcome measures beyond HbA1c for Type 1 diabetes: A consensus report of the American Association of Clinical Endocrinologists, the American Association of
+Diabetes Educators, the American Diabetes Association, the Endocrine Society, JDRF International, The Leona M.
+and Harry B. Helmsley Charitable Trust, the Pediatric Endocrine Society, and the T1D Exchange.” Diabetes Care 40.12 (2017): 1622-1630.
+FDA recommends that feasibility and early feasibility clinical studies be controlled whenever possible. The Agency acknowledges that early feasibility and some feasibility clinical studies are not designed for formal hypothesis testing of success criteria; however, descriptive statistics of outcomes in treatment and control subjects can help support that the medical device risk is appropriate for an anticipated benefit and provide justification for a subsequent and larger clinical study. Further, the use of a control group and/or run-in period can clarify if any improvements in glycemic control are due to the medical device or due to effects from participation in a clinical study in which the subjects may receive increased clinical attention, promoting better adherence to medications, and other lifestyle changes. Glycemic control is greatly affected by patient behaviors such as diet, exercise, and adherence to medication use, which can confound the results of the clinical study, especially in the short-term.
+### C. Study Duration and Follow-up Schedule
+Both feasibility and early feasibility studies should be designed to include a follow-up period that is appropriate for the risk posed and anticipated benefit from medical device use. If the medical device requires a surgical, endoscopic, or radiological procedure during use, and/or alters anatomy, or otherwise presents high risk to study subjects, FDA recommends for a feasibility study to include at least a 12-month follow-up period to evaluate medical device safety and effectiveness, including an assessment of the durability of effects on glycemic control.
+For both feasibility and early feasibility studies, FDA recommends the following: - If the medical device may interact with concurrent treatments for T2DM or other medical conditions (e.g., alter absorption of medications), assessment and follow-up should monitor for such interactions.
+- The clinical study protocol should prospectively specify collection of all adverse event information at regular intervals, with additional specific assessments of known probable medical device- and procedure-related adverse events.
+- Baseline and follow-up assessments should include evaluation by a diabetologist or endocrinologist.
+- The clinical study protocol should state that subjects will be followed until resolution or stabilization of any adverse event related to the medical device and/or procedure.
+- The clinical study protocol should include any instructions and arrangements for “unscheduled” appointments for management of adverse events.
+### D. Inclusion/Exclusion Criteria
+In general, premarket study populations in regard to disease state, health status, and potential comorbidities should be representative of the patient population for which the product is intended. However, for feasibility and early feasibility studies where medical device safety and treatment effect are not yet known, a narrow patient population as described below may be more appropriate depending on the anticipated risk that the medical device and/or medical device-related procedure(s) pose.
+A common consideration for feasibility and early feasibility clinical studies examining the potential for improving glycemic control in patients with T2DM is that patient treatment targets should be met. The clinical practice guidelines referenced in this guidance recommend the target HbA1c of &lt; 7% or 8%, depending upon the patient’s needs. Some patients may have higher HbA1c targets based upon a complex medical history, additional risks from hypoglycemia, and/or shortened life expectancy, but depending on the device and study design, patients who are at their HbA1c target may not be appropriate for inclusion in a feasibility study. Sponsors should justify the inclusion and exclusion criteria they propose for their feasibility or early feasibility clinical study.
+We recommend that you consider the following for the inclusion/exclusion criteria of your feasibility and/or early feasibility clinical study protocol: · We recommend that the study enroll subjects who can anticipate benefit from escalation of care. Thresholds for escalation of treatment should be consistent with clinical practice guidelines, as well as clinically appropriate. We recommend the inclusion of patients with minimum HbA1c > 7% to 8%, depending on the goals of the study and if it is clinically appropriate, considering potential medical device- and/or procedure-related risk.
 
----
-
-<!-- Page 7 -->
-Contains Nonbinding Recommendations
-4
-A. 
-Purpose/Objective
-The objective of an early feasibility study is to evaluate the device design concept with respect to 
-initial clinical safety and device functionality in a small number of subjects (generally fewer than 
-ten (10) initial subjects) when this information cannot practically be provided through additional 
-nonclinical assessments or appropriate nonclinical tests are unavailable. For novel medical 
-device technologies with little to no human-based data or an unfinalized device design, we 
-recommend that you consider if an early feasibility clinical study is appropriate. For more 
-information on early feasibility studies, see FDA’s guidance “Investigational Device Exemptions 
-(IDEs) for Early Feasibility Medical Device Clinical Studies, Including Certain First in Human 
-(FIH) Studies.”10 When consistent with the goal(s) of the study, the recommendations made in 
-this document should be considered when designing an early feasibility clinical study.
-The objective of a feasibility clinical study is to gather initial safety and effectiveness data to 
-support initiation of further clinical investigation. FDA recommends that the primary endpoints 
-should address safety by collection of all adverse events and effectiveness. For effectiveness, we 
-recommend assessing glycated hemoglobin (HbA1c), as this is a widely recognized objective 
-measure of glycemic control recommended by ADA’s clinical practice guideline and as a 
-surrogate for risk of developing complications.11 Other measures of effectiveness can also be 
-collected by the study sponsor to help focus further device study.
-B. 
-Study Design and Sample Size
-The sample size for your study should consider the phase of medical device development, risk 
-profile of the medical device based on similar medical devices and associated procedures, animal 
-or bench performance data, and/or information to support any anticipated benefits. As noted 
-above, early feasibility studies generally enroll less than ten (10) initial subjects. 
-Feasibility and early feasibility clinical studies for therapeutic medical devices that are intended 
-to improve glycemic control in patients with T2DM should primarily be designed to collect 
-safety data on a medical device. Although these studies are typically not large enough to 
-statistically assess device effectiveness, an effectiveness endpoint should be included in the study 
-to capture preliminary clinical evidence with respect to glycemic control. Continued inadequate 
-glycemic control (i.e., insufficient progress toward glycemic targets in response to the study 
-device) in patients with T2DM not only signifies a concern with lack of effectiveness, it also 
-presents a significant safety concern, putting the patient at risk for complications associated with 
-poor glycemic control (e.g., cardiovascular complications, neuropathy, nephropathy, 
-retinopathy).
-10 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/investigational-device-exemptions-
-ides-early-feasibility-medical-device-clinical-studies-including.
-11 Agiostratidou, Gina, et al. “Standardizing clinically meaningful outcome measures beyond HbA1c for Type 1 
-diabetes: A consensus report of the American Association of Clinical Endocrinologists, the American Association of 
-Diabetes Educators, the American Diabetes Association, the Endocrine Society, JDRF International, The Leona M. 
-and Harry B. Helmsley Charitable Trust, the Pediatric Endocrine Society, and the T1D Exchange.” Diabetes Care 
-40.12 (2017): 1622-1630.
-
----
-
-<!-- Page 8 -->
-Contains Nonbinding Recommendations
-5
-FDA recommends that feasibility and early feasibility clinical studies be controlled whenever 
-possible. The Agency acknowledges that early feasibility and some feasibility clinical studies are 
-not designed for formal hypothesis testing of success criteria; however, descriptive statistics of 
-outcomes in treatment and control subjects can help support that the medical device risk is 
-appropriate for an anticipated benefit and provide justification for a subsequent and larger 
-clinical study. Further, the use of a control group and/or run-in period can clarify if any 
-improvements in glycemic control are due to the medical device or due to effects from 
-participation in a clinical study in which the subjects may receive increased clinical attention, 
-promoting better adherence to medications, and other lifestyle changes. Glycemic control is 
-greatly affected by patient behaviors such as diet, exercise, and adherence to medication use, 
-which can confound the results of the clinical study, especially in the short-term.
-C. 
-Study Duration and Follow-up Schedule
-Both feasibility and early feasibility studies should be designed to include a follow-up period that 
-is appropriate for the risk posed and anticipated benefit from medical device use. If the medical 
-device requires a surgical, endoscopic, or radiological procedure during use, and/or alters 
-anatomy, or otherwise presents high risk to study subjects, FDA recommends for a feasibility 
-study to include at least a 12-month follow-up period to evaluate medical device safety and 
-effectiveness, including an assessment of the durability of effects on glycemic control.
-For both feasibility and early feasibility studies, FDA recommends the following:
-·
-If the medical device may interact with concurrent treatments for T2DM or other medical 
-conditions (e.g., alter absorption of medications), assessment and follow-up should 
-monitor for such interactions.
-·
-The clinical study protocol should prospectively specify collection of all adverse event 
-information at regular intervals, with additional specific assessments of known probable 
-medical device- and procedure-related adverse events.
-·
-Baseline and follow-up assessments should include evaluation by a diabetologist or 
-endocrinologist.
-·
-The clinical study protocol should state that subjects will be followed until resolution or 
-stabilization of any adverse event related to the medical device and/or procedure.
-·
-The clinical study protocol should include any instructions and arrangements for 
-“unscheduled” appointments for management of adverse events.
-
----
-
-<!-- Page 9 -->
-Contains Nonbinding Recommendations
-6
-D. 
-Inclusion/Exclusion Criteria
-In general, premarket study populations in regard to disease state, health status, and potential 
-comorbidities should be representative of the patient population for which the product is 
-intended. However, for feasibility and early feasibility studies where medical device safety and 
-treatment effect are not yet known, a narrow patient population as described below may be more 
-appropriate depending on the anticipated risk that the medical device and/or medical device-
-related procedure(s) pose.
-A common consideration for feasibility and early feasibility clinical studies examining the 
-potential for improving glycemic control in patients with T2DM is that patient treatment targets 
-should be met. The clinical practice guidelines referenced in this guidance recommend the target 
-HbA1c of &lt; 7% or 8%, depending upon the patient’s needs. Some patients may have higher 
-HbA1c targets based upon a complex medical history, additional risks from hypoglycemia, 
-and/or shortened life expectancy, but depending on the device and study design, patients who are 
-at their HbA1c target may not be appropriate for inclusion in a feasibility study. Sponsors should 
-justify the inclusion and exclusion criteria they propose for their feasibility or early feasibility 
-clinical study.
-We recommend that you consider the following for the inclusion/exclusion criteria of your 
-feasibility and/or early feasibility clinical study protocol:
-· We recommend that the study enroll subjects who can anticipate benefit from escalation 
-of care. Thresholds for escalation of treatment should be consistent with clinical practice 
-guidelines, as well as clinically appropriate. We recommend the inclusion of patients with 
-minimum HbA1c > 7% to 8%, depending on the goals of the study and if it is clinically 
-appropriate, considering potential medical device- and/or procedure-related risk.  
- 
-Similarly, the maximum HbA1c for enrollment should be such that further delay in non-
-experimental care, results in risks to the study subject that outweigh the anticipated 
-benefit. We recommend that the upper limit for feasibility clinical studies be risk-based 
-and not more than an HbA1c of 10%, as patients with an HbA1c greater than 10% are 
-generally clinically considered to have uncontrolled glycemia and non-experimental 
-treatment escalation is likely in the best interest of the patient.12
-· In assessing the patient population for the clinical study, the balance of anticipated 
-benefits and risks of the medical device and/or medical device-related procedure to the 
-patient should be carefully considered. For example, for patients with good glycemic 
-control, especially those on minimal medications, there may be no anticipated benefit 
-from participating in the study; however, the patient would be exposed to all the 
-increased risks of the study. Furthermore, patients with good glycemic control may not be 
-representative of patients who may ultimately benefit from the medical device. This 
-could limit the utility of the data from these patients to support future clinical studies. 
-12 A. J. Garber et al. (2019). “Consensus Statement by the American Association of Clinical Endocrinologists and 
-American College of Endocrinology on the Comprehensive Type 2 Diabetes Management Algorithm - 2019 
-Executive Summary.” Endocr Pract. 25(1): 69-100.
-
----
-
-<!-- Page 10 -->
-Contains Nonbinding Recommendations
-7
-Therefore, we recommend that you consider the following when developing clinical 
-study inclusion/exclusion criteria regarding baseline diabetes therapy:
-o If the medical device and/or medical device-related procedure(s) result in the 
-modification of anatomy (e.g., tissue ablation) and/or involve an implant, or 
-otherwise presents high risk to study subjects, we recommend that you limit 
-enrollment to patients who have failed to reach treatment targets when taking at 
-least two non-insulin diabetes medications, one at maximum tolerated dose and 
-another at half-maximum dose. You should provide the rationale in your IDE 
-application for the acceptable baseline medication management considering the 
-study-related risks and previously collected effectiveness data.
-o If the medical device and/or medical device-related procedure(s) do not result in 
-modification of anatomy or involve an implant, it may not be as important that 
-subjects have failed to reach treatment targets using other diabetes therapies prior 
-to study enrollment. Your IDE application should clearly articulate the rationale 
-for the acceptable baseline medication management relative to the potential study 
-risks.
-o Clinical practice guidelines referenced in this guidance document recommend 
-medical nutrition therapy for all people with T2DM. Study subjects should have 
-attempted to reach glycemic targets with therapeutic lifestyle changes (e.g., as 
-documented in patient medical records) before being subjected to investigational 
-medical device-related risk in a clinical study.
-·
-Subjects should have T2DM but be otherwise healthy under optimal medical 
-management. We recommend the following inclusion/exclusion criteria considerations 
-for T2DM-related comorbidities:
-o If complications from the medical device and/or medical device-related 
-procedure(s) may require surgery, subjects with medical conditions that could 
-make them unsuitable for surgery or general anesthesia should be excluded.
-o T2DM associated comorbidities should generally be controlled and stable (e.g., 
-cardiovascular disease, hypertension, dyslipidemia, nephropathy, retinopathy, 
-neuropathy), and inclusion/exclusion criteria should reflect this. For example, we 
-recommend that subjects do not have impaired renal function; thus, an estimated 
-glomerular filtration rate (eGFR) > 60 mL/min/1.73 m2 is recommended. An eGFR 
-below this number is associated with subsequent risk of all-cause and cardiovascular 
-mortality, kidney failure, acute kidney injury, and chronic kidney disease 
-progression.13
-13 Kidney Disease: Improving Global Outcomes (KDIGO) CKD Work Group. KDIGO 2012. Clinical Practice 
+Similarly, the maximum HbA1c for enrollment should be such that further delay in nonexperimental care, results in risks to the study subject that outweigh the anticipated benefit. We recommend that the upper limit for feasibility clinical studies be risk-based and not more than an HbA1c of 10%, as patients with an HbA1c greater than 10% are generally clinically considered to have uncontrolled glycemia and non-experimental treatment escalation is likely in the best interest of the patient.12
+- In assessing the patient population for the clinical study, the balance of anticipated benefits and risks of the medical device and/or medical device-related procedure to the patient should be carefully considered. For example, for patients with good glycemic control, especially those on minimal medications, there may be no anticipated benefit from participating in the study; however, the patient would be exposed to all the increased risks of the study. Furthermore, patients with good glycemic control may not be representative of patients who may ultimately benefit from the medical device. This could limit the utility of the data from these patients to support future clinical studies.
+12 A. J. Garber et al. (2019). “Consensus Statement by the American Association of Clinical Endocrinologists and
+American College of Endocrinology on the Comprehensive Type 2 Diabetes Management Algorithm - 2019 Executive Summary.” Endocr Pract. 25(1): 69-100.
+Therefore, we recommend that you consider the following when developing clinical study inclusion/exclusion criteria regarding baseline diabetes therapy: o If the medical device and/or medical device-related procedure(s) result in the modification of anatomy (e.g., tissue ablation) and/or involve an implant, or otherwise presents high risk to study subjects, we recommend that you limit enrollment to patients who have failed to reach treatment targets when taking at least two non-insulin diabetes medications, one at maximum tolerated dose and another at half-maximum dose. You should provide the rationale in your IDE application for the acceptable baseline medication management considering the study-related risks and previously collected effectiveness data.
+o If the medical device and/or medical device-related procedure(s) do not result in modification of anatomy or involve an implant, it may not be as important that subjects have failed to reach treatment targets using other diabetes therapies prior to study enrollment. Your IDE application should clearly articulate the rationale for the acceptable baseline medication management relative to the potential study risks.
+o Clinical practice guidelines referenced in this guidance document recommend medical nutrition therapy for all people with T2DM. Study subjects should have attempted to reach glycemic targets with therapeutic lifestyle changes (e.g., as documented in patient medical records) before being subjected to investigational medical device-related risk in a clinical study.
+- Subjects should have T2DM but be otherwise healthy under optimal medical management. We recommend the following inclusion/exclusion criteria considerations for T2DM-related comorbidities: o If complications from the medical device and/or medical device-related procedure(s) may require surgery, subjects with medical conditions that could make them unsuitable for surgery or general anesthesia should be excluded.
+o T2DM associated comorbidities should generally be controlled and stable (e.g., cardiovascular disease, hypertension, dyslipidemia, nephropathy, retinopathy, neuropathy), and inclusion/exclusion criteria should reflect this. For example, we recommend that subjects do not have impaired renal function; thus, an estimated glomerular filtration rate (eGFR) > 60 mL/min/1.73 m2 is recommended. An eGFR below this number is associated with subsequent risk of all-cause and cardiovascular mortality, kidney failure, acute kidney injury, and chronic kidney disease progression.13
+13 Kidney Disease: Improving Global Outcomes (KDIGO) CKD Work Group. KDIGO 2012. Clinical Practice
 Guideline for the Evaluation and Management of Chronic Kidney Disease. Kidney Inter., Suppl.2013; 3: 1–150.
-
----
-
-<!-- Page 11 -->
-Contains Nonbinding Recommendations
-8
-o Thyroid disorders and other endocrinopathies can affect both the ability to lose 
-weight and potentially impact glycemic control. We recommend inclusion of only 
-those patients whose endocrinopathy is controlled and stable. For patients with 
-primary hypothyroidism, we recommend that thyroid function tests be performed 
-to demonstrate adequate control and that you provide the range of acceptable 
-thyroid stimulating hormone (TSH) values as a study inclusion criterion. 
-·
-Factors that affect red blood cell turnover may result in a falsely low or high HbA1c and 
-adversely affect the interpretation of the clinical study effectiveness measure. This should 
-be considered in the protocol. We recommend that you exclude subjects with factors that 
-affect red blood cell turnover (e.g., anemia, recent blood transfusion, expect to receive a 
-blood transfusion over the duration of the study).
-·
-The inclusion/exclusion criteria should address any considerations that are appropriate for 
-risks associated with pre-determined rescue medications that may be offered during the 
-study.
-·
-Dietary supplements or herbal preparations may have unknown effects on glycemic 
-control, risk of bleeding, cause adverse events, and/or interfere with laboratory testing 
-(such as biotin). Therefore, dietary supplement use could affect the interpretation of the 
-study results and should be considered in the clinical study protocol. Ideally, these 
-substances should not be used during the study.
-·
-Female subjects of childbearing age should have a negative urine or serum pregnancy test 
-(at Screening Visit and at the time of the index procedure) and agree to use a reliable 
-mechanical or hormonal form of contraception during the study.
-·
-Subjects who are enrolled in the study may be expected to perform blood glucose 
-monitoring, record all medications, and provide details of any symptoms or adverse 
-events that occur during the study at follow-up visits. Further, medical device-related 
-procedures may involve preparation, pain, and/or identification of possible adverse events 
-that should be communicated to the study investigator. As such, study subjects, either 
-independently or with the assistance of a parent/guardian/care-partner, should be able to 
-perform the requirements of the study.
-·
-The inclusion/exclusion criteria should address any considerations for concomitant 
-medication use that is appropriate for the risk(s) associated with such medication use.
-E. 
-Patient Demographics
-You should describe characteristics of your patient populations that could affect the results of the 
-study, including:
-·
-Age, race, and ethnicity;
-
----
-
-<!-- Page 12 -->
-Contains Nonbinding Recommendations
-9
-·
-Sex;14
-·
-Body mass index (BMI); and
-·
-State of T2DM disease (e.g., HbA1c levels).
-For more information regarding the evaluation and reporting of age, race, ethnicity, and sex-
-specific data in medical device clinical studies, see FDA’s guidances “Evaluation of Sex-
-Specific Data in Medical Device Clinical Studies”15 and “Evaluation and Reporting of Age-, 
-Race-, and Ethnicity-Specific Data in Medical Device Clinical Studies.”16
-F.
-Treatment Parameters/Protocol (including post-operative
-regimen)
-A safety monitoring plan should be included in the clinical study protocol to detect and manage 
-hypoglycemia or continued uncontrolled hyperglycemia and serious adverse events. This 
-management should be integral to the study protocol. The following list should be considered in 
-development of your safety monitoring plan. Depending on specific aspects of your medical 
-device study, this list may not be exhaustive.
-·
-For a medical device with novel technology and/or with an undefined risk profile, it may
-be appropriate to define stopping rules in the clinical study protocol and/or limit the rate
-at which patients are enrolled to allow for sufficient time for serious adverse events to
-become evident and be reported. Stopping rules should consider outcomes from pre-
-clinical studies and adverse events associated with similar medical devices and/or
-medical device-related procedures. For a medical device with initial clinical safety
-information, stopping rules for further studies should be based on the current data.
+o Thyroid disorders and other endocrinopathies can affect both the ability to lose weight and potentially impact glycemic control. We recommend inclusion of only those patients whose endocrinopathy is controlled and stable. For patients with primary hypothyroidism, we recommend that thyroid function tests be performed to demonstrate adequate control and that you provide the range of acceptable thyroid stimulating hormone (TSH) values as a study inclusion criterion.
+- Factors that affect red blood cell turnover may result in a falsely low or high HbA1c and adversely affect the interpretation of the clinical study effectiveness measure. This should be considered in the protocol. We recommend that you exclude subjects with factors that affect red blood cell turnover (e.g., anemia, recent blood transfusion, expect to receive a blood transfusion over the duration of the study).
+- The inclusion/exclusion criteria should address any considerations that are appropriate for risks associated with pre-determined rescue medications that may be offered during the study.
+- Dietary supplements or herbal preparations may have unknown effects on glycemic control, risk of bleeding, cause adverse events, and/or interfere with laboratory testing (such as biotin). Therefore, dietary supplement use could affect the interpretation of the study results and should be considered in the clinical study protocol. Ideally, these substances should not be used during the study.
+- Female subjects of childbearing age should have a negative urine or serum pregnancy test (at Screening Visit and at the time of the index procedure) and agree to use a reliable mechanical or hormonal form of contraception during the study.
+- Subjects who are enrolled in the study may be expected to perform blood glucose monitoring, record all medications, and provide details of any symptoms or adverse events that occur during the study at follow-up visits. Further, medical device-related procedures may involve preparation, pain, and/or identification of possible adverse events that should be communicated to the study investigator. As such, study subjects, either independently or with the assistance of a parent/guardian/care-partner, should be able to perform the requirements of the study.
+- The inclusion/exclusion criteria should address any considerations for concomitant medication use that is appropriate for the risk(s) associated with such medication use.
+### E. Patient Demographics
+You should describe characteristics of your patient populations that could affect the results of the study, including: · Age, race, and ethnicity; · Sex;14
+- Body mass index (BMI); and - State of T2DM disease (e.g., HbA1c levels).
+For more information regarding the evaluation and reporting of age, race, ethnicity, and sex-specific data in medical device clinical studies, see FDA’s guidances “Evaluation of Sex-
+Specific Data in Medical Device Clinical Studies”15 and “Evaluation and Reporting of Age-, Race-, and Ethnicity-Specific Data in Medical Device Clinical Studies.”16
+### F. Treatment Parameters/Protocol (including post-operative regimen)
+A safety monitoring plan should be included in the clinical study protocol to detect and manage hypoglycemia or continued uncontrolled hyperglycemia and serious adverse events. This management should be integral to the study protocol. The following list should be considered in development of your safety monitoring plan. Depending on specific aspects of your medical device study, this list may not be exhaustive.
+- For a medical device with novel technology and/or with an undefined risk profile, it may be appropriate to define stopping rules in the clinical study protocol and/or limit the rate at which patients are enrolled to allow for sufficient time for serious adverse events to become evident and be reported. Stopping rules should consider outcomes from pre-clinical studies and adverse events associated with similar medical devices and/or medical device-related procedures. For a medical device with initial clinical safety information, stopping rules for further studies should be based on the current data.
 o
-Study stopping rules should be based on the type and number of adverse events
-that would discontinue further enrollment of patients for safety until additional
-mitigation measures can be implemented.
+Study stopping rules should be based on the type and number of adverse events that would discontinue further enrollment of patients for safety until additional mitigation measures can be implemented.
 o
-The clinical study protocol should include individual patient stopping rules based
-on the safety of the individual. A plan should be in place for pausing or stopping
-treatment and removing all or part of implanted medical devices as would be
-appropriate for the patient’s short-term and long-term safety. Patients who
-experience study-related adverse events should be followed until the end of the
-study, resolution, or stabilization of the adverse event, whichever is longer.
+The clinical study protocol should include individual patient stopping rules based on the safety of the individual. A plan should be in place for pausing or stopping treatment and removing all or part of implanted medical devices as would be appropriate for the patient’s short-term and long-term safety. Patients who experience study-related adverse events should be followed until the end of the study, resolution, or stabilization of the adverse event, whichever is longer.
 14 (removed)
-15 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/evaluation-sex-specific-data-
-medical-device-clinical-studies-guidance-industry-and-food-and-drug.
-16 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/evaluation-and-reporting-age-
-race-and-ethnicity-specific-data-medical-device-clinical-studies.
+The primary goal of the treatment/intervention is to improve glycemic control and subjects should be protected from prolonged hyperglycemia. Therefore, for patient safety, a medication management plan for those not achieving glycemic control (i.e., adequate HbA1c level) should be built into the clinical study protocol. We recommend that patients be assessed at least every three months to consider dose escalation and or addition of another diabetes medication. If at the three-month period glycemic indices have not improved, rescue therapy should be considered. For example, sponsors could consider rescue therapy if HbA1c is not &lt; 8%, or the interval improvement has not been
+> 0.5%. At minimum, if at the six-month period the subject has not met treatment targets
+or an HbA1c &lt; 8%, rescue therapy should again be considered. Though HbA1c of 8% is above most patients’ desired target HbA1c, we recommend the 8% limit to initiate rescue medication to allow the medical device/procedure to demonstrate its potential therapeutic effect, while protecting the subject from prolonged hyperglycemia over the short term.
+How medication will be titrated and used for rescue should be addressed in the protocol as this could also confound study results if not controlled as a study variable. Treatment algorithms for maintenance of adequate glycemic control may also help prevent losing subjects from the study.
+- The clinical study protocol should include a pre-determined list of preferred rescue medications for study subjects to minimize study variables.
+We recommend that you explain in your IDE application which evaluations will be performed to address risk associated with any endocrinopathies.
+Clinical practice guidelines recommend that medical nutrition therapy be maintained for all people with T2DM.17,18 Study subjects should follow a standard lifestyle modification program under control of the study.
+### G. Safety Endpoints and Data
+FDA recommends collection of all adverse events as the safety endpoint. FDA intends to consider the number of adverse events, severity of events, medical device design, and patient population in assessing the success of a feasibility study.
+To ensure robust collection of safety information, adverse events should be: - Prospectively collected without regard to medical device- or procedure-relatedness; - Defined using pre-specified, standardized criteria; 17 A. J. Garber et al. (2019). “Consensus Statement by the American Association of Clinical Endocrinologists and
+American College of Endocrinology on the Comprehensive Type 2 Diabetes Management Algorithm - 2019 Executive Summary.” Endocr Pract. 25(1): 69-100.
+18 Y. Handelsman et al. (2015). “American Association of Clinical Endocrinologists and American College of
+Endocrinology - Clinical Practice Guidelines for Developing a Diabetes Mellitus Comprehensive Care Plan - 2015.” Endocr Pract. 21 Suppl 1: 1-87.
+- Graded for severity according to a standard adverse event grading system (e.g., Common
+Terminology Criteria for Adverse Events19 or the Clavien-Dindo Classification of Surgical Complications20); - Categorized according to whether they meet the established serious adverse event definitions;21
+- Assessed for resolution status; and - Adjudicated by an independent clinical events committee.22
+If study subjects used dietary supplements or herbal preparations while under study, we recommend that you capture such use, and use of these substances should be discussed in the study results.
+### H. Effectiveness Analysis and Data
+FDA recommends that you collect medical device effectiveness23 data in both early feasibility and feasibility clinical studies. We recommend that you assess change in HbA1c as this is a widely recognized objective measure of glycemic control. Reduction in HbA1c indicates improved glycemic control with T2DM therapy.
+We recommend that the HbA1c assay used be specified in the clinical study protocol. HbA1c assays do not all have the same performance characteristics, with some being more accurate than others. If possible, we recommend use of a National Glycohemoglobin Standardization Program (NGSP)-certified assay and/or a laboratory-based HbA1c measurement method that has been well-validated for accuracy and precision.
+Because rescue medications may be used for subject safety during the study, a comparison of the treatment arm to a parallel control arm for the number of subjects on rescue medications to achieve glycemic targets can also be considered to support effectiveness. FDA considers the ability to achieve glycemic targets with reduction in baseline diabetes medications as a benefit.
+20 Dindo, D., Demartines N., Clavien P.A. (2004). Classification of surgical complications: a new proposal with evaluation in a cohort of 6336 patients and results of a survey. Ann Surg. 240:205–213.
+Exemptions,” available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/factorsconsider-when-making-benefit-risk-determinations-medical-device-investigational-device.
+23 For these medical devices, FDA considers the device’s ability to therapeutically improve glycemic control to be the primary effectiveness measure and is an important indicator of its anticipated benefit to subjects. As such, FDA recommends that both feasibility and early feasibility studies include collection of effectiveness data.
+FDA does not believe that continuous glucose monitoring (CGM) data are presently sufficiently accurate to measure the primary effectiveness endpoint for glycemic control. However, as secondary effectiveness endpoint data, CGM may provide useful information about the effectiveness of the medical device. You should consider the accuracy and reliability of the CGM system when considering its role in your clinical study design.
+### I. Statistical Analysis Considerations
+For both feasibility and early feasibility clinical studies, the safety and effectiveness endpoints should be analyzed using an intent-to-treat (ITT) approach. The extent of missing data should be reported and justified.
+If your study includes a control arm, the safety and effectiveness endpoints should be descriptively compared between treatment and control subjects.
 
 ---
 
-<!-- Page 13 -->
-Contains Nonbinding Recommendations
-10
-·
-The primary goal of the treatment/intervention is to improve glycemic control and 
-subjects should be protected from prolonged hyperglycemia. Therefore, for patient safety, 
-a medication management plan for those not achieving glycemic control (i.e., adequate 
-HbA1c level) should be built into the clinical study protocol. We recommend that 
-patients be assessed at least every three months to consider dose escalation and or 
-addition of another diabetes medication. If at the three-month period glycemic indices 
-have not improved, rescue therapy should be considered. For example, sponsors could 
-consider rescue therapy if HbA1c is not &lt; 8%, or the interval improvement has not been 
-> 0.5%. At minimum, if at the six-month period the subject has not met treatment targets 
-or an HbA1c &lt; 8%, rescue therapy should again be considered. Though HbA1c of 8% is 
-above most patients’ desired target HbA1c, we recommend the 8% limit to initiate rescue 
-medication to allow the medical device/procedure to demonstrate its potential therapeutic 
-effect, while protecting the subject from prolonged hyperglycemia over the short term. 
-How medication will be titrated and used for rescue should be addressed in the protocol 
-as this could also confound study results if not controlled as a study variable. Treatment 
-algorithms for maintenance of adequate glycemic control may also help prevent losing 
-subjects from the study.
-·
-The clinical study protocol should include a pre-determined list of preferred rescue 
-medications for study subjects to minimize study variables.
-We recommend that you explain in your IDE application which evaluations will be performed to 
-address risk associated with any endocrinopathies.
-Clinical practice guidelines recommend that medical nutrition therapy be maintained for all 
-people with T2DM.17,18 Study subjects should follow a standard lifestyle modification program 
-under control of the study.
-G. 
- Safety Endpoints and Data
-FDA recommends collection of all adverse events as the safety endpoint. FDA intends to 
-consider the number of adverse events, severity of events, medical device design, and patient 
-population in assessing the success of a feasibility study.
-To ensure robust collection of safety information, adverse events should be:
-·
-Prospectively collected without regard to medical device- or procedure-relatedness;
-·
-Defined using pre-specified, standardized criteria;
-17 A. J. Garber et al. (2019). “Consensus Statement by the American Association of Clinical Endocrinologists and 
-American College of Endocrinology on the Comprehensive Type 2 Diabetes Management Algorithm - 2019 
-Executive Summary.” Endocr Pract. 25(1): 69-100.
-18 Y. Handelsman et al. (2015). “American Association of Clinical Endocrinologists and American College of 
-Endocrinology - Clinical Practice Guidelines for Developing a Diabetes Mellitus Comprehensive Care Plan - 2015.” 
-Endocr Pract. 21 Suppl 1: 1-87.
+## Footnotes
 
----
+[^3]: https://www.fda.gov/regulatory-information/search-fda-guidance-documents/requests-feedback-and-meetings- medical-device-submissions-q-submission-program.
 
-<!-- Page 14 -->
-Contains Nonbinding Recommendations
-11
-·
-Graded for severity according to a standard adverse event grading system (e.g., Common 
-Terminology Criteria for Adverse Events19 or the Clavien-Dindo Classification of 
-Surgical Complications20);
-·
-Categorized according to whether they meet the established serious adverse event 
-definitions;21
-·
-Assessed for resolution status; and
-·
-Adjudicated by an independent clinical events committee.22
-If study subjects used dietary supplements or herbal preparations while under study, we 
-recommend that you capture such use, and use of these substances should be discussed in the 
-study results.
-H. 
- Effectiveness Analysis and Data
-FDA recommends that you collect medical device effectiveness23 data in both early feasibility 
-and feasibility clinical studies. We recommend that you assess change in HbA1c as this is a 
-widely recognized objective measure of glycemic control. Reduction in HbA1c indicates 
-improved glycemic control with T2DM therapy.
-We recommend that the HbA1c assay used be specified in the clinical study protocol. HbA1c 
-assays do not all have the same performance characteristics, with some being more accurate than 
-others. If possible, we recommend use of a National Glycohemoglobin Standardization Program 
-(NGSP)-certified assay and/or a laboratory-based HbA1c measurement method that has been 
-well-validated for accuracy and precision.
-Because rescue medications may be used for subject safety during the study, a comparison of the 
-treatment arm to a parallel control arm for the number of subjects on rescue medications to 
-achieve glycemic targets can also be considered to support effectiveness. FDA considers the 
-ability to achieve glycemic targets with reduction in baseline diabetes medications as a benefit.
-19 For more information, see https://ctep.cancer.gov/protocolDevelopment/electronic_applications/ctc.htm.
-20 Dindo, D., Demartines N., Clavien P.A. (2004). Classification of surgical complications: a new proposal with 
-evaluation in a cohort of 6336 patients and results of a survey. Ann Surg. 240:205–213.
-21 For the purposes of this guidance, the term “serious adverse event” is used consistent with the FDA guidance 
-“Factors to Consider When Making Benefit-Risk Determinations for Medical Device Investigational Device 
-Exemptions,” available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/factors-
-consider-when-making-benefit-risk-determinations-medical-device-investigational-device.
-22 For more information, see “Establishment and Operation of Clinical Trial Data Monitoring Committees,”
-available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/establishment-and-
-operation-clinical-trial-data-monitoring-committees.
-23 For these medical devices, FDA considers the device’s ability to therapeutically improve glycemic control to be 
-the primary effectiveness measure and is an important indicator of its anticipated benefit to subjects. As such, FDA 
-recommends that both feasibility and early feasibility studies include collection of effectiveness data.
+[^4]: https://www.fda.gov/regulatory-information/search-fda-guidance-documents/significant-risk-and-nonsignificant- risk-medical-device-studies.
 
----
+[^6]: https://www.fda.gov/regulatory-information/search-fda-guidance-documents/acceptance-clinical-data-support- medical-device-applications-and-submissions-frequently-asked.
 
-<!-- Page 15 -->
-Contains Nonbinding Recommendations
-12
-FDA does not believe that continuous glucose monitoring (CGM) data are presently sufficiently 
-accurate to measure the primary effectiveness endpoint for glycemic control. However, as 
-secondary effectiveness endpoint data, CGM may provide useful information about the 
-effectiveness of the medical device. You should consider the accuracy and reliability of the 
-CGM system when considering its role in your clinical study design.
-I. 
-Statistical Analysis Considerations
-For both feasibility and early feasibility clinical studies, the safety and effectiveness endpoints 
-should be analyzed using an intent-to-treat (ITT) approach. The extent of missing data should be 
-reported and justified.
-If your study includes a control arm, the safety and effectiveness endpoints should be 
-descriptively compared between treatment and control subjects.
+[^10]: https://www.fda.gov/regulatory-information/search-fda-guidance-documents/investigational-device-exemptions- ides-early-feasibility-medical-device-clinical-studies-including.
+
+[^15]: https://www.fda.gov/regulatory-information/search-fda-guidance-documents/evaluation-sex-specific-data- medical-device-clinical-studies-guidance-industry-and-food-and-drug.
+
+[^16]: https://www.fda.gov/regulatory-information/search-fda-guidance-documents/evaluation-and-reporting-age- race-and-ethnicity-specific-data-medical-device-clinical-studies. ·
+
+[^19]: For more information, see https://ctep.cancer.gov/protocolDevelopment/electronic_applications/ctc.htm.
+
+[^21]: For the purposes of this guidance, the term “serious adverse event” is used consistent with the FDA guidance “Factors to Consider When Making Benefit-Risk Determinations for Medical Device Investigational Device
+
+[^22]: For more information, see “Establishment and Operation of Clinical Trial Data Monitoring Committees,” available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/establishment-and- operation-clinical-trial-data-monitoring-committees.

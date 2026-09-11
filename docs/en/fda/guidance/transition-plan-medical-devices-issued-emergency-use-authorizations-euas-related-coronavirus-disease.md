@@ -25,1228 +25,335 @@ PDF: [https://www.fda.gov/media/155039/download](https://www.fda.gov/media/15503
 
 ## Official Full Text
 
-<!-- Page 1 -->
-Contains Nonbinding Recommendations
-Transition Plan for Medical Devices 
-Issued Emergency Use Authorizations 
-(EUAs) Related to Coronavirus 
-Disease 2019 (COVID-19)
-Guidance for Industry, Other 
-Stakeholders, and Food and Drug 
-Administration Staff 
-Document issued on March 27, 2023.
-The draft of this document was issued on December 23, 2021.
-For questions about this document, contact the Regulation, Policy, and Guidance Staff at 
-RPG@fda.hhs.gov. For general questions about emergency use authorizations, contact the Office 
-of the Commissioner/Office of the Chief Scientist/Office of Counterterrorism and Emerging 
-Threats at AskMCMi@fda.hhs.gov.
-U.S. Department of Health and Human Services
-Food and Drug Administration
-Center for Devices and Radiological Health
-
----
-
-<!-- Page 2 -->
-Contains Nonbinding Recommendations
-Preface
-Public Comment
-You may submit electronic comments and suggestions at any time for Agency consideration to 
-https://www.regulations.gov. Submit written comments to the Dockets Management Staff, Food 
-and Drug Administration, 5630 Fishers Lane, Room 1061, (HFA-305), Rockville, MD 20852. 
-Identify all comments with the docket number FDA-2021-D-1149. Comments may not be acted 
-upon by the Agency until the document is next revised or updated.
-Additional Copies
-Additional copies are available from the Internet. You may also send an email request to CDRH-
-Guidance@fda.hhs.gov to receive a copy of the guidance. Please include the document number 
-GUI00020042 and complete title of the guidance in the request.
-
----
-
-<!-- Page 3 -->
-Contains Nonbinding Recommendations
-Table of Contents
-I. 
-Introduction ............................................................................................................................. 1
-II. 
-Background ............................................................................................................................. 2
-III. Scope ....................................................................................................................................... 5
-IV. Guiding Principles .................................................................................................................. 5
-V. 
-Transition Plan for Devices Authorized Under an EUA ........................................................ 6
-A. 
-“Notifications of Intent” for Certain Reusable Life-Supporting or Life-Sustaining 
-Devices ........................................................................................................................................ 8
-B. 
-Devices distributed after the EUA termination date ........................................................... 9
-(1) 
-Recommendations for “Transition Implementation Plan” ......................................... 10
-(2) 
-Enforcement policy for devices with a marketing submission under review by FDA 12
-(3) 
-Additional considerations for EUA-authorized in vitro diagnostics – Clinical 
-Laboratory Improvement Amendments of 1988 (CLIA) categorization and waivers .......... 14
-C. 
-Devices not distributed after the EUA termination date ................................................... 16
-D. 
-Discontinuing distribution of a device .............................................................................. 17
-E. 
-Quality System considerations .......................................................................................... 18
-F. 
-Laboratory developed tests (LDTs) .................................................................................. 18
-VI. Examples ............................................................................................................................... 19
-Example 1 ................................................................................................................................. 19
-Example 2 ................................................................................................................................. 20
-Example 3 ................................................................................................................................. 21
-Example 4 ................................................................................................................................. 22
-
----
-
-<!-- Page 4 -->
-Contains Nonbinding Recommendations
-1
-Transition Plan for Medical Devices 
-Issued Emergency Use Authorizations 
-(EUAs) Related to Coronavirus 
-Disease 2019 (COVID-19)
-Guidance for Industry, Other 
-Stakeholders, and Food and Drug 
-Administration Staff
-This guidance represents the current thinking of the Food and Drug Administration (FDA or 
-Agency) on this topic.  It does not establish any rights for any person and is not binding on 
-FDA or the public.  You can use an alternative approach if it satisfies the requirements of the 
-applicable statutes and regulations.  To discuss an alternative approach, contact the FDA staff 
-or Office responsible for this guidance as listed on the title page. 
-I.
-Introduction 
-FDA plays a critical role in protecting the United States (U.S.) from threats such as emerging 
-infectious diseases, including Coronavirus Disease 2019 (COVID-19). FDA is committed to 
-providing timely guidance to support response efforts to the COVID-19 pandemic. FDA 
-recognizes that it will take time for device1 manufacturers,2 device distributors, healthcare 
-1 Section 201(h)(1) of the Federal Food, Drug, and Cosmetic Act provides that the term “device” means: 
-“an instrument, apparatus, implement, machine, contrivance, implant, in vitro reagent, or other similar or related 
-article, including any component, part, or accessory, which is— 
-(A) recognized in the official National Formulary, or the United States Pharmacopeia, or any supplement to 
-them,  
-(B) intended for use in the diagnosis of disease or other conditions, or in the cure, mitigation, treatment, or 
-prevention of disease, in man or other animals, or  
-(C) intended to affect the structure or any function of the body of man or other animals, and  
-which does not achieve its primary intended purposes through chemical action within or on the body of man or 
-other animals and which is not dependent upon being metabolized for the achievement of its primary intended 
-purposes. The term ‘device’ does not include software functions excluded pursuant to section 520(o)” of the 
-Federal Food, Drug and Cosmetic Act. 
-2 Throughout this guidance, when describing policies for devices that have been issued an emergency use 
-authorization, FDA uses the term “manufacturer” to refer to any person who designs, manufactures, fabricates, 
-assembles, or processes a finished device. See 21 CFR 820.3(o). Other entities, including those that introduce such 
-devices into commercial distribution, such as initial importers and certain distributors, should ensure they 
-understand, and where applicable they should follow, the recommendations that pertain to such devices.
-
----
-
-<!-- Page 5 -->
-Contains Nonbinding Recommendations
-2
-facilities, healthcare providers, patients, consumers, and FDA to adjust from policies adopted and 
-operations implemented during the COVID-19 pandemic to “normal operations.”3 To provide a 
-clear policy for all stakeholders and FDA staff, the Agency is issuing this guidance to describe 
-FDA’s general recommendations for this transition process with respect to devices issued 
-emergency use authorizations (EUAs) related to COVID-19, including recommendations 
-regarding submitting a marketing submission, as applicable, and taking other actions with respect 
-to these devices.
-FDA is concurrently issuing a companion transition guidance to describe FDA’s 
-recommendations for devices that fall within certain enforcement policies issued during the 
-COVID-19 public health emergency (PHE).4 FDA believes these transition guidances will help 
-prepare manufacturers and other stakeholders for the transition to normal operations and foster 
-compliance with applicable requirements under the FD&C Act and its implementing regulations.
-In general, FDA’s guidance documents do not establish legally enforceable responsibilities. 
-Instead, guidances describe the Agency’s current thinking on a topic and should be viewed only 
-as recommendations, unless specific regulatory or statutory requirements are cited. The use of 
-the word should in Agency guidances means that something is suggested or recommended, but 
-not required.
-II.
-Background 
-In 2019, an outbreak of respiratory disease caused by a novel coronavirus began. The virus has 
-been named “SARS-CoV-2,” and the disease it causes has been named “Coronavirus Disease 
-2019” (COVID-19). On January 31, 2020, the Secretary of Health and Human Services (HHS) 
-issued a declaration of a PHE related to COVID-19 in accordance with section 319 of the Public 
-Health Service Act (PHS Act) and mobilized the Operating Divisions of HHS.5 In addition, on 
-March 13, 2020, the President declared a national emergency in response to COVID-19.6 On 
-February 9, 2023, the HHS Secretary renewed the section 319 PHE declaration related to 
-3 Throughout this guidance, FDA refers to “normal operations” as a shorthand for the circumstances when the 
-declaration of the public health emergency related to COVID-19 under section 319 of the Public Health Service Act 
-has expired and/or the relevant device emergency use declarations related to COVID-19 under section 564 of the 
+This guidance represents the current thinking of the Food and Drug Administration (FDA or Agency) on this topic.  It does not establish any rights for any person and is not binding on
+FDA or the public.  You can use an alternative approach if it satisfies the requirements of the applicable statutes and regulations.  To discuss an alternative approach, contact the FDA staff or Office responsible for this guidance as listed on the title page.
+## I. Introduction
+FDA plays a critical role in protecting the United States (U.S.) from threats such as emerging infectious diseases, including Coronavirus Disease 2019 (COVID-19). FDA is committed to providing timely guidance to support response efforts to the COVID-19 pandemic. FDA recognizes that it will take time for device1 manufacturers,2 device distributors, healthcare 1 Section 201(h)(1) of the Federal Food, Drug, and Cosmetic Act provides that the term “device” means: “an instrument, apparatus, implement, machine, contrivance, implant, in vitro reagent, or other similar or related article, including any component, part, or accessory, which is—
+(A) recognized in the official National Formulary, or the United States Pharmacopeia, or any supplement to them, (B) intended for use in the diagnosis of disease or other conditions, or in the cure, mitigation, treatment, or prevention of disease, in man or other animals, or (C) intended to affect the structure or any function of the body of man or other animals, and which does not achieve its primary intended purposes through chemical action within or on the body of man or other animals and which is not dependent upon being metabolized for the achievement of its primary intended purposes. The term ‘device’ does not include software functions excluded pursuant to section 520(o)” of the Federal Food, Drug and Cosmetic Act.
+2 Throughout this guidance, when describing policies for devices that have been issued an emergency use authorization, FDA uses the term “manufacturer” to refer to any person who designs, manufactures, fabricates, assembles, or processes a finished device. See 21 CFR 820.3(o). Other entities, including those that introduce such devices into commercial distribution, such as initial importers and certain distributors, should ensure they understand, and where applicable they should follow, the recommendations that pertain to such devices.
+facilities, healthcare providers, patients, consumers, and FDA to adjust from policies adopted and operations implemented during the COVID-19 pandemic to “normal operations.”3 To provide a clear policy for all stakeholders and FDA staff, the Agency is issuing this guidance to describe FDA’s general recommendations for this transition process with respect to devices issued emergency use authorizations (EUAs) related to COVID-19, including recommendations regarding submitting a marketing submission, as applicable, and taking other actions with respect to these devices.
+FDA is concurrently issuing a companion transition guidance to describe FDA’s recommendations for devices that fall within certain enforcement policies issued during the COVID-19 public health emergency (PHE).4 FDA believes these transition guidances will help prepare manufacturers and other stakeholders for the transition to normal operations and foster compliance with applicable requirements under the FD&C Act and its implementing regulations.
+In general, FDA’s guidance documents do not establish legally enforceable responsibilities.
+Instead, guidances describe the Agency’s current thinking on a topic and should be viewed only as recommendations, unless specific regulatory or statutory requirements are cited. The use of the word should in Agency guidances means that something is suggested or recommended, but not required.
+## II. Background
+In 2019, an outbreak of respiratory disease caused by a novel coronavirus began. The virus has been named “SARS-CoV-2,” and the disease it causes has been named “Coronavirus Disease 2019” (COVID-19). On January 31, 2020, the Secretary of Health and Human Services (HHS) issued a declaration of a PHE related to COVID-19 in accordance with section 319 of the Public
+Health Service Act (PHS Act) and mobilized the Operating Divisions of HHS.5 In addition, on
+March 13, 2020, the President declared a national emergency in response to COVID-19.6 On
+February 9, 2023, the HHS Secretary renewed the section 319 PHE declaration related to 3 Throughout this guidance, FDA refers to “normal operations” as a shorthand for the circumstances when the declaration of the public health emergency related to COVID-19 under section 319 of the Public Health Service Act has expired and/or the relevant device emergency use declarations related to COVID-19 under section 564 of the
 Federal Food, Drug, and Cosmetic Act are terminated.
-4 The guidance “Transition Plan for Medical Devices That Fall Within Enforcement Policies Issued During the 
-Coronavirus Disease 2019 (COVID-19) Public Health Emergency,” available at https://www.fda.gov/regulatory-
-information/search-fda-guidance-documents/transition-plan-medical-devices-fall-within-enforcement-policies-
-issued-during-coronavirus-disease, will be referred to as the “companion transition guidance” in the remainder of 
-this guidance. 
-5 Secretary of Health and Human Services, Determination that a Public Health Emergency Exists (originally issued 
-on January 31, 2020, and subsequently renewed), available at 
-https://www.phe.gov/emergency/news/healthactions/phe/Pages/default.aspx.
-6 Proclamation on Declaring a National Emergency Concerning the Novel Coronavirus Disease (COVID-19) 
-Outbreak (March 13, 2020), available at https://trumpwhitehouse.archives.gov/presidential-actions/proclamation-
-declaring-national-emergency-concerning-novel-coronavirus-disease-covid-19-outbreak/. On February 24, 2021, 
-there was a Presidential Declaration continuing the national emergency concerning the COVID-19 pandemic beyond 
+4 The guidance “Transition Plan for Medical Devices That Fall Within Enforcement Policies Issued During the
+Coronavirus Disease 2019 (COVID-19) Public Health Emergency,” available at https://www.fda.gov/regulatoryinformation/search-fda-guidance-documents/transition-plan-medical-devices-fall-within-enforcement-policiesissued-during-coronavirus-disease, will be referred to as the “companion transition guidance” in the remainder of this guidance.
+5 Secretary of Health and Human Services, Determination that a Public Health Emergency Exists (originally issued on January 31, 2020, and subsequently renewed), available at https://www.phe.gov/emergency/news/healthactions/phe/Pages/default.aspx.
+6 Proclamation on Declaring a National Emergency Concerning the Novel Coronavirus Disease (COVID-19)
+Outbreak (March 13, 2020), available at https://trumpwhitehouse.archives.gov/presidential-actions/proclamationdeclaring-national-emergency-concerning-novel-coronavirus-disease-covid-19-outbreak/. On February 24, 2021, there was a Presidential Declaration continuing the national emergency concerning the COVID-19 pandemic beyond
 March 1, 2021. See Continuation of the National Emergency Concerning the Coronavirus Disease 2019 (COVID-
 19) Pandemic (86 FR 11599), available at https://www.federalregister.gov/documents/2021/02/26/2021-
 04173/continuation-ofthe-national-emergency-concerning-the-coronavirus-disease-2019-covid-19-pandemic.
-
----
-
-<!-- Page 6 -->
-Contains Nonbinding Recommendations
-3
-COVID-19, effective February 11, 2023. The section 319 PHE declaration related to COVID-19 
-is anticipated to expire at the end of the day on May 11, 2023.7
-FDA has authorized the emergency use of devices under section 564 of the Federal Food, Drug, 
-and Cosmetic Act (FD&C Act).8 Section 564 of the FD&C Act authorizes FDA, after the HHS 
-Secretary has made a declaration of emergency or threat justifying authorization of emergency 
-use (an “EUA declaration”), to authorize the emergency use of an unapproved product9 or an 
-unapproved use of an approved product for certain emergency circumstances.10 FDA may issue 
-an EUA to allow a product to be used to diagnose, treat, or prevent a serious or life-threatening 
-disease or condition referenced in the EUA declaration, when the statutory criteria are met, 
-including FDA’s determination that, based on the totality of scientific evidence, the product may 
-be effective for such use, the known and potential benefits outweigh the known and potential 
-risks for such use, and that there are no adequate, approved, and available alternatives.11
-An EUA issued under section 564 of the FD&C Act remains in effect for the duration of the 
-relevant EUA declaration, unless FDA chooses to revoke the EUA because the criteria for 
-issuance are no longer met or revocation is appropriate to protect public health or safety.12 An 
-EUA declaration under section 564 of the FD&C Act is distinct from, and is not dependent on, 
-a declaration by the HHS Secretary of a PHE under section 319 of the PHS Act.13 The device 
-7 See the HHS “Fact Sheet: COVID-19 Public Health Emergency Transition Roadmap,” (February 9, 2023), 
-available at https://www.hhs.gov/about/news/2023/02/09/fact-sheet-covid-19-public-health-emergency-transition-
-roadmap.html.
-8 A list of all device EUAs related to COVID-19 is available at https://www.fda.gov/emergency-preparedness-and-
-response/mcm-legal-regulatory-and-policy-framework/emergency-use-authorization.
-9 Under sections 564(a)(2)(A) and 564(a)(4)(D) of the FD&C Act, an unapproved product is one that “is not 
-approved, licensed, or cleared for commercial distribution under section 505, 510(k), 512, or 515 of [the FD&C] Act 
-or section 351 of the [PHS] Act or conditionally approved under section 571 of [the FD&C] Act.”
-10 Pursuant to section 564 of the FD&C Act, and on February 4, 2020, the HHS Secretary determined that there is a 
-public health emergency that has significant potential to affect national security or the health and security of U.S. 
-citizens living abroad, and that involves the SARS-CoV-2 virus that causes COVID-19. On the basis of such 
-determination, the HHS Secretary declared on that same day, that circumstances exist justifying the authorization of 
-emergency use of in vitro diagnostics for detection and/or diagnosis of the SARS-CoV-2 virus that causes COVID-
-19 (85 FR 7316), available at https://www.federalregister.gov/documents/2020/02/07/2020-02496/determination-of-
-public-health-emergency. Based on the February 4, 2020 determination, the HHS Secretary issued two more 
-declarations justifying emergency uses related to devices: on March 2, 2020, for certain personal respiratory 
-protective devices (85 FR 13907), available at https://www.federalregister.gov/documents/2020/03/10/2020-
-04823/emergency-use-declaration, and on March 24, 2020, for devices, including alternative products used as 
-devices (85 FR 17335), available at https://www.federalregister.gov/documents/2020/03/27/2020-06541/emergency-
-use-authorization-declaration, pursuant to section 564 of the FD&C Act, subject to the terms of any authorization 
-issued under that section. On March 15, 2023, the HHS Secretary amended the February 4, 2020 determination to 
-recognize the fact that there is “a public health emergency, or a significant potential for a public health emergency, 
-that affects, or has a significant potential to affect, national security or the health and security of [U.S.] citizens 
-living abroad…” and that involves the SARS-CoV-2 virus that causes COVID-19 (emphasis added) (88 FR 16644), 
-available at https://www.federalregister.gov/documents/2023/03/20/2023-05609/covid-19-emergency-use-
-authorization-declaration. 
-11 For more information on FDA’s emergency use authorities under section 564 of the FD&C Act, see the guidance 
-“Emergency Use Authorization of Medical Products and Related Authorities” (“EUA Guidance”), available at 
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/emergency-use-authorization-medical-
-products-and-related-authorities.
-12 See sections 564(f)-(g) of the FD&C Act.
-13 For additional information on this topic, see FDA’s EUA Guidance, at p. 5, footnotes 12 and 15.
-
----
-
-<!-- Page 7 -->
-Contains Nonbinding Recommendations
-4
-EUAs related to COVID-19 remain in effect until the relevant EUA declaration under section 
-564 of the FD&C Act is terminated or FDA otherwise revokes a specific EUA,14 even if the 
-section 319 PHE declaration related to COVID-19 expires before then.15
-Given the magnitude of the response to the COVID-19 pandemic, including the number of 
-devices issued EUAs, FDA recognizes that stakeholders may need time to adjust after the 
-termination of the device EUA declarations to help ensure an orderly and transparent 
-transition to normal operations. Further, FDA is taking into account that the manufacture, 
-distribution, and use of devices in the context of the COVID-19 pandemic raises unique 
-considerations. These unique considerations include, for example, the manufacturing of 
-devices by non-traditional manufacturers to address supply issues and the distribution and use 
-of capital or reusable equipment (e.g., ventilators, extracorporeal membrane oxygenation 
-systems) under EUAs. 
-FDA developed this guidance to describe a transition plan, among other things, to help avoid 
-disruption in device supply and help facilitate compliance with applicable FD&C Act 
-requirements after the termination of the relevant EUA declaration related to COVID-19 
-under section 564(b) of the FD&C Act.
-Section 564 of the FD&C Act provides a statutory framework describing the circumstances in 
-which an EUA declaration shall terminate and the process for such termination.16 Under section 
-564(b) of the FD&C Act, the HHS Secretary is required to provide advance notice that an EUA 
-declaration will be terminated and to publish such notice in the Federal Register.17 When an 
-EUA declaration is terminated, all EUAs issued under that declaration also terminate. After an 
-EUA declaration terminates, it ceases to be in effect and the emergency use of all products under 
-the EUA declaration are no longer authorized.
-Pursuant to section 564(b)(2)(B) of the FD&C Act, when an EUA for an unapproved product 
-ceases to be effective as a result of the termination of an EUA declaration, FDA must consult 
-with the manufacturer of such product with respect to the appropriate disposition of the product.  
-FDA believes that by issuing this guidance in draft with a proposed transition policy and 
-requesting public comment (including from manufacturers of EUA-authorized devices), the 
-Agency has satisfied the requirement to consult with manufacturers, while also efficiently 
-managing Agency resources. To address any unique considerations or other issues related to 
-disposition of product that are not otherwise discussed in this guidance, FDA recommends 
-engagement with the Agency as soon as possible.18
-14 See sections 564(f)-(g) of the FD&C Act.
-15 See the HHS “Fact Sheet: COVID-19 Public Health Emergency Transition Roadmap,” (February 9, 2023), 
-available at https://www.hhs.gov/about/news/2023/02/09/fact-sheet-covid-19-public-health-emergency-transition-
-roadmap.html.
+COVID-19, effective February 11, 2023. The section 319 PHE declaration related to COVID-19 is anticipated to expire at the end of the day on May 11, 2023.7
+FDA has authorized the emergency use of devices under section 564 of the Federal Food, Drug, and Cosmetic Act (FD&C Act).8 Section 564 of the FD&C Act authorizes FDA, after the HHS
+Secretary has made a declaration of emergency or threat justifying authorization of emergency use (an “EUA declaration”), to authorize the emergency use of an unapproved product9 or an unapproved use of an approved product for certain emergency circumstances.10 FDA may issue an EUA to allow a product to be used to diagnose, treat, or prevent a serious or life-threatening disease or condition referenced in the EUA declaration, when the statutory criteria are met, including FDA’s determination that, based on the totality of scientific evidence, the product may be effective for such use, the known and potential benefits outweigh the known and potential risks for such use, and that there are no adequate, approved, and available alternatives.11
+An EUA issued under section 564 of the FD&C Act remains in effect for the duration of the relevant EUA declaration, unless FDA chooses to revoke the EUA because the criteria for issuance are no longer met or revocation is appropriate to protect public health or safety.12 An EUA declaration under section 564 of the FD&C Act is distinct from, and is not dependent on, a declaration by the HHS Secretary of a PHE under section 319 of the PHS Act.13 The device 8 A list of all device EUAs related to COVID-19 is available at https://www.fda.gov/emergency-preparedness-andresponse/mcm-legal-regulatory-and-policy-framework/emergency-use-authorization.
+10 Pursuant to section 564 of the FD&C Act, and on February 4, 2020, the HHS Secretary determined that there is a public health emergency that has significant potential to affect national security or the health and security of U.S.
+citizens living abroad, and that involves the SARS-CoV-2 virus that causes COVID-19. On the basis of such determination, the HHS Secretary declared on that same day, that circumstances exist justifying the authorization of emergency use of in vitro diagnostics for detection and/or diagnosis of the SARS-CoV-2 virus that causes COVID-
+19 (85 FR 7316), available at https://www.federalregister.gov/documents/2020/02/07/2020-02496/determination-ofpublic-health-emergency. Based on the February 4, 2020 determination, the HHS Secretary issued two more declarations justifying emergency uses related to devices: on March 2, 2020, for certain personal respiratory protective devices (85 FR 13907), available at https://www.federalregister.gov/documents/2020/03/10/2020-
+04823/emergency-use-declaration, and on March 24, 2020, for devices, including alternative products used as devices (85 FR 17335), available at https://www.federalregister.gov/documents/2020/03/27/2020-06541/emergency-use-authorization-declaration, pursuant to section 564 of the FD&C Act, subject to the terms of any authorization issued under that section. On March 15, 2023, the HHS Secretary amended the February 4, 2020 determination to recognize the fact that there is “a public health emergency, or a significant potential for a public health emergency, that affects, or has a significant potential to affect, national security or the health and security of [U.S.] citizens living abroad…” and that involves the SARS-CoV-2 virus that causes COVID-19 (emphasis added) (88 FR 16644), available at https://www.federalregister.gov/documents/2023/03/20/2023-05609/covid-19-emergency-useauthorization-declaration.
+564 of the FD&C Act is terminated or FDA otherwise revokes a specific EUA,14 even if the section 319 PHE declaration related to COVID-19 expires before then.15
+Given the magnitude of the response to the COVID-19 pandemic, including the number of devices issued EUAs, FDA recognizes that stakeholders may need time to adjust after the termination of the device EUA declarations to help ensure an orderly and transparent transition to normal operations. Further, FDA is taking into account that the manufacture, distribution, and use of devices in the context of the COVID-19 pandemic raises unique considerations. These unique considerations include, for example, the manufacturing of devices by non-traditional manufacturers to address supply issues and the distribution and use of capital or reusable equipment (e.g., ventilators, extracorporeal membrane oxygenation systems) under EUAs.
+FDA developed this guidance to describe a transition plan, among other things, to help avoid disruption in device supply and help facilitate compliance with applicable FD&C Act requirements after the termination of the relevant EUA declaration related to COVID-19 under section 564(b) of the FD&C Act.
+Section 564 of the FD&C Act provides a statutory framework describing the circumstances in which an EUA declaration shall terminate and the process for such termination.16 Under section 564(b) of the FD&C Act, the HHS Secretary is required to provide advance notice that an EUA declaration will be terminated and to publish such notice in the Federal Register.17 When an EUA declaration is terminated, all EUAs issued under that declaration also terminate. After an EUA declaration terminates, it ceases to be in effect and the emergency use of all products under the EUA declaration are no longer authorized.
+Pursuant to section 564(b)(2)(B) of the FD&C Act, when an EUA for an unapproved product ceases to be effective as a result of the termination of an EUA declaration, FDA must consult with the manufacturer of such product with respect to the appropriate disposition of the product.
+FDA believes that by issuing this guidance in draft with a proposed transition policy and requesting public comment (including from manufacturers of EUA-authorized devices), the
+Agency has satisfied the requirement to consult with manufacturers, while also efficiently managing Agency resources. To address any unique considerations or other issues related to disposition of product that are not otherwise discussed in this guidance, FDA recommends engagement with the Agency as soon as possible.18
 16 Section 564(b)(2) of the FD&C Act.
 17 Sections 564(b)(3) and (4) of the FD&C Act.
-18 FDA recommends that manufacturers engage with the Agency through the Q-Submission Program, including 
-requesting feedback in Pre-Submissions, to discuss the appropriate disposition of their product. For details on the Q-
-Submission Program, refer to the guidance “Requests for Feedback and Meetings for Medical Device Submissions: 
-The Q-Submission Program,” available at https://www.fda.gov/regulatory-information/search-fda-guidance-
-documents/requests-feedback-and-meetings-medical-device-submissions-q-submission-program.
-
----
-
-<!-- Page 8 -->
-Contains Nonbinding Recommendations
-5
-HHS intends to publish the advance notice of termination of each EUA declaration19 pertaining 
-to devices in the Federal Register 180 days before the day on which the EUA declaration is 
-terminated. The advance notice of termination of each device EUA declaration may occur 
-simultaneously or at different times, depending on whether the circumstances underlying such 
-declarations continue to exist.20 For purposes of this guidance, FDA refers to the date on which 
-an EUA is terminated as the “EUA termination date.” During the time between the advance 
-notice of termination of an EUA declaration and the EUA termination date, manufacturers of 
-devices with EUAs issued pursuant to such an EUA declaration and others21 must continue to 
-comply with the terms of the devices’ respective EUAs, including applicable conditions of 
-authorization22 identified in the EUA letters of authorization for the devices. 
-FDA recommends that manufacturers of devices authorized under EUAs plan their post-EUA 
-regulatory and disposition strategies now. When an EUA declaration is terminated, the Agency 
-intends to promptly publish notice of termination of the associated EUAs in the Federal Register 
-and an explanation of the reasons for the termination.23
-III. Scope 
-This guidance applies to devices that have been issued an EUA under section 564 of the FD&C 
+18 FDA recommends that manufacturers engage with the Agency through the Q-Submission Program, including requesting feedback in Pre-Submissions, to discuss the appropriate disposition of their product. For details on the Q-
+Submission Program, refer to the guidance “Requests for Feedback and Meetings for Medical Device Submissions:
+The Q-Submission Program,” available at https://www.fda.gov/regulatory-information/search-fda-guidancedocuments/requests-feedback-and-meetings-medical-device-submissions-q-submission-program.
+HHS intends to publish the advance notice of termination of each EUA declaration19 pertaining to devices in the Federal Register 180 days before the day on which the EUA declaration is terminated. The advance notice of termination of each device EUA declaration may occur simultaneously or at different times, depending on whether the circumstances underlying such declarations continue to exist.20 For purposes of this guidance, FDA refers to the date on which an EUA is terminated as the “EUA termination date.” During the time between the advance notice of termination of an EUA declaration and the EUA termination date, manufacturers of devices with EUAs issued pursuant to such an EUA declaration and others21 must continue to comply with the terms of the devices’ respective EUAs, including applicable conditions of authorization22 identified in the EUA letters of authorization for the devices.
+FDA recommends that manufacturers of devices authorized under EUAs plan their post-EUA regulatory and disposition strategies now. When an EUA declaration is terminated, the Agency intends to promptly publish notice of termination of the associated EUAs in the Federal Register and an explanation of the reasons for the termination.23
+## III. Scope
+This guidance applies to devices that have been issued an EUA under section 564 of the FD&C
 Act on the basis of a device EUA declaration related to COVID-19.24
-Current good manufacturing practice deviations authorized under section 564A(c) of the FD&C 
-Act are outside the scope of this guidance.
-This guidance does not apply to devices for which FDA has revoked the EUA under section 
-564(g)(2)(B)-(C) of the FD&C Act because the criteria under section 564(c) of the FD&C Act 
-were no longer met or because other circumstances made such revocation appropriate to 
-protect the public health or safety.
-IV. Guiding Principles 
-In developing this guidance, and its companion transition guidance regarding devices that fall 
-within certain enforcement policies issued during the COVID-19 PHE, several guiding principles 
-were followed. Some derive from existing policies and are widely known, and others are key to 
-understanding the approach set forth in this guidance. Thus, anyone using this guidance should 
-bear in mind the following guiding principles:
-19 See footnote 10.
-20 See section 564(b)(2)(A) of the FD&C Act.
-21 Certain EUAs include conditions of authorization for parties other than the manufacturer, such as healthcare 
-facilities or distributors.
-22 See section 564(e) of the FD&C Act.
-23 See section 564(h)(1) of the FD&C Act. 
-24 See footnote 10.
-
----
-
-<!-- Page 9 -->
-Contains Nonbinding Recommendations
-6
-·
-This guidance is intended to help facilitate continued patient, consumer, and healthcare 
-provider access to devices needed in the prevention, treatment, and diagnosis of COVID-
-19.
-·
-FDA believes the policies and recommendations in this guidance will help to ensure an 
-orderly and transparent transition for devices that fall within the scope of this guidance. 
-FDA’s policies and recommendations in this guidance are consistent with the Agency’s 
-statutory mission to both protect and promote the public health.25
-·
-FDA’s policies and recommendations follow, among other things, a risk-based approach 
-with consideration of differences in the intended use and regulatory history of devices, 
-including whether the device is life-supporting or life-sustaining,26 capital or reusable27
-equipment, a single-use device,28 and whether another version of the device is FDA-
-cleared or -approved.
-·
-As always, FDA will make case-by-case decisions regarding the enforcement of legal 
-requirements in response to particular circumstances and questions that arise regarding a 
-specific device or device type. This may include FDA revising or revoking an EUA,29
-requesting a firm initiate a recall (see 21 CFR 7.45),30 or taking other actions, including 
-an enforcement action. Moreover, FDA may revise the enforcement policies and 
-recommendations in the guidance, as appropriate.
-V.
-Transition Plan for Devices Authorized Under an EUA 
-As previously stated, FDA recognizes that it will take time for device manufacturers, device 
-distributors, healthcare facilities, healthcare providers, patients, consumers, and the Agency to 
-adjust from policies adopted and operations implemented during the COVID-19 pandemic to 
-normal operations. FDA seeks to encourage and facilitate an appropriate transition period to 
-help, among other things, avoid exacerbating product shortages and supply chain disruptions. 
-This transition plan takes into account the advance notice(s) of termination of the EUA 
-declarations pertaining to devices, and the discussion below contains recommendations regarding 
-the preparation and submission of marketing submissions (including the timing of such 
-25 See section 1003(b) of the FD&C Act.
-26 Life-supporting or life-sustaining devices are defined in 21 CFR 860.3. A list of life-supporting or life-sustaining 
-devices can be found by searching FDA’s product classification database: 
-https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPCD/classification.cfm.
-27 A reusable device is intended for repeated use either on the same or different patients, with appropriate cleaning 
-and other reprocessing between uses. For additional information see the guidance “Reprocessing Medical Devices in 
-Health Care Settings: Validation Methods and Labeling” available at https://www.fda.gov/regulatory-
-information/search-fda-guidance-documents/reprocessing-medical-devices-health-care-settings-validation-methods-
-and-labeling.
-28 A single-use device is a device that is intended for one use or on a single patient during a single procedure. For 
-additional information see the guidance “Reprocessing Medical Devices in Health Care Settings: Validation 
-Methods and Labeling.”
-29 See sections 564(f)-(g) of the FD&C Act.
-30 21 CFR 7.45(a) states that FDA “may request a firm to initiate a recall when the following determinations have 
-been made: (1) That a product that has been distributed presents a risk of illness or injury or gross consumer 
-deception. (2) That the firm has not initiated a recall of the product. (3) That an agency action is necessary to protect 
-the public health and welfare.”
-
----
-
-<!-- Page 10 -->
-Contains Nonbinding Recommendations
-7
-submissions),31 manufacturers’ actions if they do not wish to continue distributing their product 
-after the EUA termination date, and the distribution of devices within the scope of this guidance.
-For purposes of this guidance, devices are considered to be “already distributed” if they are 
-finished devices32 that are labeled and are in distribution33 in the U.S. supply chain or are in the 
-possession of the end user. For purposes of this guidance, FDA would generally consider devices 
-to be “in distribution” to mean those finished, labeled devices that are no longer in the 
-manufacturer’s possession that are in transit to or held in a third party’s device inventory not on 
-behalf of the manufacturer, in a federal, state, or other governmental stockpile, or at a location 
-where devices are then offered for direct sale to the end user. 
-During the time between the advance notice of termination of an EUA declaration and the EUA 
-termination date, manufacturers of devices with EUAs issued pursuant to such an EUA 
-declaration and others34 must continue to comply with the terms of the devices’ respective 
-EUAs, including applicable conditions of authorization35 identified in the EUA letters of 
-authorization for the devices.
-FDA understands that there may be scenarios that are not specifically addressed in this guidance, 
-but generally believes that the policies and recommendations described, regardless of the specific 
-scenario for a manufacturer, will help avoid disruptions in critical devices and allow FDA to best 
-manage its resources for review of marketing submissions. To address any unique considerations 
-or other issues not otherwise discussed in this guidance, manufacturers may wish to initiate 
-discussions with the Agency through the Q-Submission Program, including requesting feedback 
-in Pre-Submissions. Manufacturers should submit any Pre-Submissions with the understanding 
-that their device will no longer be authorized for emergency use beginning on the EUA 
-termination date. If the manufacturer’s intent is to continue to distribute its device after the EUA 
-declaration for the device has been terminated, the manufacturer should promptly start preparing, 
-and FDA intends to help facilitate acceptance of, a marketing submission before the EUA 
-termination date. For details on the Q-Submission Program, refer to the guidance “Requests for 
+Current good manufacturing practice deviations authorized under section 564A(c) of the FD&C Act are outside the scope of this guidance.
+This guidance does not apply to devices for which FDA has revoked the EUA under section 564(g)(2)(B)-(C) of the FD&C Act because the criteria under section 564(c) of the FD&C Act were no longer met or because other circumstances made such revocation appropriate to protect the public health or safety.
+## IV. Guiding Principles
+In developing this guidance, and its companion transition guidance regarding devices that fall within certain enforcement policies issued during the COVID-19 PHE, several guiding principles were followed. Some derive from existing policies and are widely known, and others are key to understanding the approach set forth in this guidance. Thus, anyone using this guidance should bear in mind the following guiding principles: 21 Certain EUAs include conditions of authorization for parties other than the manufacturer, such as healthcare facilities or distributors.
+This guidance is intended to help facilitate continued patient, consumer, and healthcare provider access to devices needed in the prevention, treatment, and diagnosis of COVID-
+19. - FDA believes the policies and recommendations in this guidance will help to ensure an orderly and transparent transition for devices that fall within the scope of this guidance.
+FDA’s policies and recommendations in this guidance are consistent with the Agency’s statutory mission to both protect and promote the public health.25
+- FDA’s policies and recommendations follow, among other things, a risk-based approach with consideration of differences in the intended use and regulatory history of devices, including whether the device is life-supporting or life-sustaining,26 capital or reusable27 equipment, a single-use device,28 and whether another version of the device is FDAcleared or -approved.
+- As always, FDA will make case-by-case decisions regarding the enforcement of legal requirements in response to particular circumstances and questions that arise regarding a specific device or device type. This may include FDA revising or revoking an EUA,29 requesting a firm initiate a recall (see 21 CFR 7.45),30 or taking other actions, including an enforcement action. Moreover, FDA may revise the enforcement policies and recommendations in the guidance, as appropriate.
+### V. Transition Plan for Devices Authorized Under an EUA
+As previously stated, FDA recognizes that it will take time for device manufacturers, device distributors, healthcare facilities, healthcare providers, patients, consumers, and the Agency to adjust from policies adopted and operations implemented during the COVID-19 pandemic to normal operations. FDA seeks to encourage and facilitate an appropriate transition period to help, among other things, avoid exacerbating product shortages and supply chain disruptions.
+This transition plan takes into account the advance notice(s) of termination of the EUA declarations pertaining to devices, and the discussion below contains recommendations regarding the preparation and submission of marketing submissions (including the timing of such 26 Life-supporting or life-sustaining devices are defined in 21 CFR 860.3. A list of life-supporting or life-sustaining devices can be found by searching FDA’s product classification database: https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPCD/classification.cfm.
+27 A reusable device is intended for repeated use either on the same or different patients, with appropriate cleaning and other reprocessing between uses. For additional information see the guidance “Reprocessing Medical Devices in
+Health Care Settings: Validation Methods and Labeling” available at https://www.fda.gov/regulatoryinformation/search-fda-guidance-documents/reprocessing-medical-devices-health-care-settings-validation-methods-and-labeling.
+28 A single-use device is a device that is intended for one use or on a single patient during a single procedure. For additional information see the guidance “Reprocessing Medical Devices in Health Care Settings: Validation Methods and Labeling.”
+For purposes of this guidance, devices are considered to be “already distributed” if they are finished devices32 that are labeled and are in distribution33 in the U.S. supply chain or are in the possession of the end user. For purposes of this guidance, FDA would generally consider devices to be “in distribution” to mean those finished, labeled devices that are no longer in the manufacturer’s possession that are in transit to or held in a third party’s device inventory not on behalf of the manufacturer, in a federal, state, or other governmental stockpile, or at a location where devices are then offered for direct sale to the end user.
+During the time between the advance notice of termination of an EUA declaration and the EUA termination date, manufacturers of devices with EUAs issued pursuant to such an EUA declaration and others34 must continue to comply with the terms of the devices’ respective EUAs, including applicable conditions of authorization35 identified in the EUA letters of authorization for the devices.
+FDA understands that there may be scenarios that are not specifically addressed in this guidance, but generally believes that the policies and recommendations described, regardless of the specific scenario for a manufacturer, will help avoid disruptions in critical devices and allow FDA to best manage its resources for review of marketing submissions. To address any unique considerations or other issues not otherwise discussed in this guidance, manufacturers may wish to initiate discussions with the Agency through the Q-Submission Program, including requesting feedback in Pre-Submissions. Manufacturers should submit any Pre-Submissions with the understanding that their device will no longer be authorized for emergency use beginning on the EUA termination date. If the manufacturer’s intent is to continue to distribute its device after the EUA declaration for the device has been terminated, the manufacturer should promptly start preparing, and FDA intends to help facilitate acceptance of, a marketing submission before the EUA termination date. For details on the Q-Submission Program, refer to the guidance “Requests for
 Feedback and Meetings for Medical Device Submissions: The Q-Submission Program.”36
-31 For purposes of this guidance, “marketing submission” means a premarket approval application (PMA), PMA 
-supplement, premarket notification (510(k)) submission, humanitarian device exemption (HDE) application, or De 
-Novo classification request (De Novo). For devices that are class I or II and exempt from premarket notification 
-(e.g., shoe covers, face shields), no 510(k) submission is required unless the limitations of exemption are exceeded 
-(see, e.g., 21 CFR 878.9).
-32 See 21 CFR 820.3(l).
-33 See 21 CFR 807.3(b) (defining “commercial distribution”).
-34 Certain EUAs include conditions of authorization for parties other than the manufacturer, such as healthcare 
-facilities or distributors.
-35 See section 564(e) of the FD&C Act.
-36 Available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/requests-feedback-and-
-meetings-medical-device-submissions-q-submission-program.
-
----
-
-<!-- Page 11 -->
-Contains Nonbinding Recommendations
-8
-A.
-“Notifications of Intent” for Certain Reusable Life­
-Supporting or Life­Sustaining Devices 
-Given the public health significance of certain reusable life-supporting or life-sustaining devices 
-that have been issued an EUA, FDA requests that manufacturers of such devices submit to FDA 
-information regarding whether or not they intend to submit a marketing submission to FDA and 
-continue distributing their product after the EUA termination date. This information will assist 
-the Agency in resource planning for marketing submission review and providing support to 
-manufacturers. This request applies to EUA-authorized devices with a product code listed in 
-Table 1:
-Table 1
-Product Code
-Device Type 
-Classification 
-Regulation 
-BSZ 
-Gas-machine, anesthesia 
-21 CFR 868.5160 
-CAW 
-Generator, oxygen, portable 
-21 CFR 868.5440 
-BTT 
-Humidifier, respiratory gas, (direct 
-patient interface)  
+31 For purposes of this guidance, “marketing submission” means a premarket approval application (PMA), PMA supplement, premarket notification (510(k)) submission, humanitarian device exemption (HDE) application, or De
+Novo classification request (De Novo). For devices that are class I or II and exempt from premarket notification (e.g., shoe covers, face shields), no 510(k) submission is required unless the limitations of exemption are exceeded (see, e.g., 21 CFR 878.9).
+34 Certain EUAs include conditions of authorization for parties other than the manufacturer, such as healthcare facilities or distributors.
+A. “Notifications of Intent” for Certain Reusable Life­ Supporting or Life­Sustaining Devices
+Given the public health significance of certain reusable life-supporting or life-sustaining devices that have been issued an EUA, FDA requests that manufacturers of such devices submit to FDA information regarding whether or not they intend to submit a marketing submission to FDA and continue distributing their product after the EUA termination date. This information will assist the Agency in resource planning for marketing submission review and providing support to manufacturers. This request applies to EUA-authorized devices with a product code listed in Table 1: Table 1 Product Code Device Type Classification Regulation BSZ Gas-machine, anesthesia 21 CFR 868.5160
+CAW Generator, oxygen, portable 21 CFR 868.5440
+BTT Humidifier, respiratory gas, (direct patient interface)
 21 CFR 868.5450
-QAV
-High flow/high velocity humidified 
-oxygen delivery device 
-21 CFR 868.5454 
-CBK 
-Ventilator, continuous, facility use 
-21 CFR 868.5895 
-MNT 
-Ventilator, continuous, minimal 
-ventilatory support, facility use 
-NOU 
-Continuous, ventilator, home use 
-MNS 
-Ventilator, continuous, non-life-
-supporting 
-ONZ 
-Mechanical ventilator 
-BTL 
-Ventilator, emergency, powered 
-(resuscitator)
-21 CFR 868.5925 
-QOO 
-Ventilator tubing and accessories
-No corresponding 
-CFR section
-Manufacturers of the devices identified in Table 1 should submit the following information to the 
-CDRH Document Control Center37 as soon as possible after issuance of this guidance:38
-37 The mailing address for the CDRH Document Control Center can be found in 21 CFR 807.90(a)(1) and 
-814.104(d)(1). FDA encourages manufacturers to submit Notifications of Intent as eCopies. Information about the 
-eCopy program can be found in the guidance “eCopy Program for Medical Device Submissions,” available at 
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/ecopy-program-medical-device-
-submissions.
-38 Submitting this information as soon as possible after issuance of this guidance is encouraged because it will assist 
-the Agency in resource planning, help to avoid any supply disruptions, and otherwise help to ensure a smooth
-
----
-
-<!-- Page 12 -->
-Contains Nonbinding Recommendations
-9
-·
-General information about the manufacturer, including contact information, name and 
-place of business, and email address;
-·
-EUA request number;
-·
-Submission number(s) for related premarket submissions;
-·
-A list of all model numbers or other device identifying information;
-·
-Whether the manufacturer plans to submit a marketing submission; and
-·
-If not planning to submit a marketing submission, the manufacturer should discuss, as 
-applicable, its plans to discontinue distribution of the device, to restore the device to an 
-FDA-cleared or -approved version, to provide a physical copy and/or electronic copy of 
-updated labeling, and any other efforts to address or mitigate potential risks of devices 
-already distributed as of the EUA termination date.
-The manufacturer should submit this information designated with the EUA request number as an 
-“EUA report.” FDA recommends that manufacturers notate the following on the cover letter of 
-the submission: “Attention: Notification of Intent.” To the extent the Notification of Intent 
-contains trade secret information or confidential commercial or financial information, FDA will 
-handle that information in accordance with applicable laws, including 21 CFR 20.61.
-B.
-Devices distributed after the EUA termination date 
-For manufacturers of devices authorized under an EUA seeking the required marketing 
-authorization39 for their devices, please refer to the recommendations and policies in the 
-subsections below. FDA recommends that these manufacturers submit their marketing 
-submissions to FDA with sufficient time for the submission to be accepted by FDA40 before the 
-EUA termination date. The marketing submission should be administratively complete in that it 
-includes all of the information necessary for FDA to conduct a substantive review.41 FDA 
-understands there may be extenuating circumstances that may make doing so difficult (e.g., 
-ongoing clinical trial or longer term non-clinical studies). Manufacturers in such circumstances 
-should engage with the Agency early in the transition period.42
-transition for these devices after the EUA termination date. If this information is submitted after publication of the 
-advance notice of termination of the EUA declaration, FDA recommends submission within 90 days of that 
-publication.
-39 See, e.g., sections 510(k), 513(f)(2), 515, and 520(m) of the FD&C Act. 
-40 For more information regarding FDA’s acceptance policies for marketing submissions, see the guidances “Refuse 
-to Accept Policy for 510(k)s,” available at https://www.fda.gov/regulatory-information/search-fda-guidance-
-documents/refuse-accept-policy-510ks, “Acceptance and Filing Reviews for Premarket Approval Applications 
-(PMAs),” available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/acceptance-and-
-filing-reviews-premarket-approval-applications-pmas, and “Acceptance Review for De Novo Classification 
-Requests,” available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/acceptance-
-review-de-novo-classification-requests.
-41 See footnote 40.
-42 FDA recommends that manufacturers engage with the Agency through the Q-Submission Program, including 
-requesting Pre-Submissions, to discuss extenuating circumstances. For details on the Q-Submission Program, refer 
-to the guidance “Requests for Feedback and Meetings for Medical Device Submissions: The Q-Submission 
-Program.”
-
----
-
-<!-- Page 13 -->
-Contains Nonbinding Recommendations
-10
-FDA is taking into account that the use of devices during the COVID-19 pandemic may allow 
-manufacturers to utilize a variety of data sources in their marketing submission. As such, FDA 
-anticipates many manufacturers may wish to reference data from related marketing 
-authorizations and submissions, and use real-world data obtained as a result of device use during 
-the COVID-19 pandemic.43 FDA recommends that marketing submissions include in the cover 
-letter a statement that the device is/was previously authorized under an EUA and the EUA 
-request number, as well as submission number(s) for related premarket submissions. This 
-information will help FDA track devices that are transitioning from an EUA to the required 
-marketing authorization,44 facilitate review of the submission, and help ensure that transitioning 
-devices can be appropriately considered in light of the policy described in Section V.B.(2) of this 
-guidance.
+QAV High flow/high velocity humidified oxygen delivery device 21 CFR 868.5454
+CBK Ventilator, continuous, facility use 21 CFR 868.5895
+MNT Ventilator, continuous, minimal ventilatory support, facility use NOU Continuous, ventilator, home use MNS Ventilator, continuous, non-lifesupporting ONZ Mechanical ventilator BTL Ventilator, emergency, powered (resuscitator)
+21 CFR 868.5925
+QOO Ventilator tubing and accessories No corresponding CFR section
+Manufacturers of the devices identified in Table 1 should submit the following information to the CDRH Document Control Center37 as soon as possible after issuance of this guidance:38
+37 The mailing address for the CDRH Document Control Center can be found in 21 CFR 807.90(a)(1) and 814.104(d)(1). FDA encourages manufacturers to submit Notifications of Intent as eCopies. Information about the eCopy program can be found in the guidance “eCopy Program for Medical Device Submissions,” available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/ecopy-program-medical-devicesubmissions.
+38 Submitting this information as soon as possible after issuance of this guidance is encouraged because it will assist the Agency in resource planning, help to avoid any supply disruptions, and otherwise help to ensure a smooth - General information about the manufacturer, including contact information, name and place of business, and email address; · EUA request number; - Submission number(s) for related premarket submissions; - A list of all model numbers or other device identifying information; - Whether the manufacturer plans to submit a marketing submission; and - If not planning to submit a marketing submission, the manufacturer should discuss, as applicable, its plans to discontinue distribution of the device, to restore the device to an FDA-cleared or -approved version, to provide a physical copy and/or electronic copy of updated labeling, and any other efforts to address or mitigate potential risks of devices already distributed as of the EUA termination date.
+The manufacturer should submit this information designated with the EUA request number as an “EUA report.” FDA recommends that manufacturers notate the following on the cover letter of the submission: “Attention: Notification of Intent.” To the extent the Notification of Intent contains trade secret information or confidential commercial or financial information, FDA will handle that information in accordance with applicable laws, including 21 CFR 20.61.
+### B. Devices distributed after the EUA termination date
+For manufacturers of devices authorized under an EUA seeking the required marketing authorization39 for their devices, please refer to the recommendations and policies in the subsections below. FDA recommends that these manufacturers submit their marketing submissions to FDA with sufficient time for the submission to be accepted by FDA40 before the EUA termination date. The marketing submission should be administratively complete in that it includes all of the information necessary for FDA to conduct a substantive review.41 FDA understands there may be extenuating circumstances that may make doing so difficult (e.g., ongoing clinical trial or longer term non-clinical studies). Manufacturers in such circumstances should engage with the Agency early in the transition period.42
+transition for these devices after the EUA termination date. If this information is submitted after publication of the advance notice of termination of the EUA declaration, FDA recommends submission within 90 days of that publication.
+39 See, e.g., sections 510(k), 513(f)(2), 515, and 520(m) of the FD&C Act.
+Requests,” available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/acceptancereview-de-novo-classification-requests.
+42 FDA recommends that manufacturers engage with the Agency through the Q-Submission Program, including requesting Pre-Submissions, to discuss extenuating circumstances. For details on the Q-Submission Program, refer to the guidance “Requests for Feedback and Meetings for Medical Device Submissions: The Q-Submission Program.”
+FDA is taking into account that the use of devices during the COVID-19 pandemic may allow manufacturers to utilize a variety of data sources in their marketing submission. As such, FDA anticipates many manufacturers may wish to reference data from related marketing authorizations and submissions, and use real-world data obtained as a result of device use during the COVID-19 pandemic.43 FDA recommends that marketing submissions include in the cover letter a statement that the device is/was previously authorized under an EUA and the EUA request number, as well as submission number(s) for related premarket submissions. This information will help FDA track devices that are transitioning from an EUA to the required marketing authorization,44 facilitate review of the submission, and help ensure that transitioning devices can be appropriately considered in light of the policy described in Section V.B.(2) of this guidance.
 (1)
-Recommendations for “Transition Implementation Plan” 
-FDA anticipates that some marketing submissions will include changes or updates to the device 
-and/or its labeling compared to the product that has been distributed under the EUA. For 
-example, a manufacturer may have distributed a singleplex in vitro diagnostic assay under an 
-EUA, and the manufacturer intends to submit a marketing submission for a multiplex in vitro 
-diagnostic assay; or a manufacturer may have distributed a remote monitoring device under an 
-EUA, and the manufacturer intends to submit a marketing submission for such remote 
-monitoring device with an additional, new indication. In addition, in some cases, a manufacturer 
-may not receive a positive decision from FDA on its marketing submission.
-To help address all of these situations efficiently, FDA recommends that manufacturers include 
-in the cover letter of their marketing submission a “Transition Implementation Plan” that 
-addresses the manufacturers’ plans for dealing with devices already distributed in the case of a 
-positive decision as well as in the case of a negative decision on the marketing submission. To 
-the extent the Transition Implementation Plan contains trade secret information or confidential 
-commercial or financial information, FDA will handle that information in accordance with 
-applicable laws, including 21 CFR 20.61. 
-FDA recommends that the Transition Implementation Plan include the following information, as 
-applicable:45
-·
-Estimated number of devices under an EUA that are currently in U.S. distribution;
-·
-An explanation of the manufacturer’s benefit-risk based plan for disposition of already 
-distributed product in the event of a negative decision on the marketing submission. If the 
-manufacturer is proposing to leave already distributed product in place, the plan should 
-43 Data derived from real-world sources may be submitted in support of a marketing submission. See the guidance 
-titled “Use of Real-World Evidence to Support Regulatory Decision-Making for Medical Devices,” available at
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/use-real-world-evidence-support-
-regulatory-decision-making-medical-devices.
+Recommendations for “Transition Implementation Plan”
+FDA anticipates that some marketing submissions will include changes or updates to the device and/or its labeling compared to the product that has been distributed under the EUA. For example, a manufacturer may have distributed a singleplex in vitro diagnostic assay under an EUA, and the manufacturer intends to submit a marketing submission for a multiplex in vitro diagnostic assay; or a manufacturer may have distributed a remote monitoring device under an EUA, and the manufacturer intends to submit a marketing submission for such remote monitoring device with an additional, new indication. In addition, in some cases, a manufacturer may not receive a positive decision from FDA on its marketing submission.
+To help address all of these situations efficiently, FDA recommends that manufacturers include in the cover letter of their marketing submission a “Transition Implementation Plan” that addresses the manufacturers’ plans for dealing with devices already distributed in the case of a positive decision as well as in the case of a negative decision on the marketing submission. To the extent the Transition Implementation Plan contains trade secret information or confidential commercial or financial information, FDA will handle that information in accordance with applicable laws, including 21 CFR 20.61.
+FDA recommends that the Transition Implementation Plan include the following information, as applicable:45
+- Estimated number of devices under an EUA that are currently in U.S. distribution; - An explanation of the manufacturer’s benefit-risk based plan for disposition of already distributed product in the event of a negative decision on the marketing submission. If the manufacturer is proposing to leave already distributed product in place, the plan should 43 Data derived from real-world sources may be submitted in support of a marketing submission. See the guidance titled “Use of Real-World Evidence to Support Regulatory Decision-Making for Medical Devices,” available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/use-real-world-evidence-supportregulatory-decision-making-medical-devices.
 44 See, e.g., sections 510(k), 513(f)(2), 515, and 520(m) of the FD&C Act.
-45 If the manufacturer has already submitted a Notification of Intent with some of this information, FDA still 
-recommends that manufacturers include a Transition Implementation Plan with their marketing submission, noting 
-any updates since the Notification of Intent was submitted to FDA.
-
----
-
-<!-- Page 14 -->
-Contains Nonbinding Recommendations
-11
-address the rationale for doing so and considerations such as the following, where 
-relevant:46
-o
-Process for notifying patients, consumers, healthcare facilities, healthcare 
-providers, and device distributors of the device’s regulatory status;
-o
-Process and timeline for restoring already distributed devices to an FDA-cleared 
-or -approved version;
-o
-Process and timeline for providing47 a physical and/or electronic copy of updated 
-labeling that accurately describes the product features and regulatory status (e.g., 
-that the product lacks FDA clearance, approval, or authorization) for reusable 
-devices. To help ensure accessibility to updated labeling for reusable life-
-supporting/life-sustaining devices, FDA recommends that stakeholders be 
-provided an opportunity to request a physical copy of updated labeling, and after 
-such request, be provided the requested labeling without additional cost; and
-o
+45 If the manufacturer has already submitted a Notification of Intent with some of this information, FDA still recommends that manufacturers include a Transition Implementation Plan with their marketing submission, noting any updates since the Notification of Intent was submitted to FDA.
+address the rationale for doing so and considerations such as the following, where relevant:46 o
+Process for notifying patients, consumers, healthcare facilities, healthcare providers, and device distributors of the device’s regulatory status; o
+Process and timeline for restoring already distributed devices to an FDA-cleared or -approved version; o
+Process and timeline for providing47 a physical and/or electronic copy of updated labeling that accurately describes the product features and regulatory status (e.g., that the product lacks FDA clearance, approval, or authorization) for reusable devices. To help ensure accessibility to updated labeling for reusable lifesupporting/life-sustaining devices, FDA recommends that stakeholders be provided an opportunity to request a physical copy of updated labeling, and after such request, be provided the requested labeling without additional cost; and o
 A description of the maintenance plan for already distributed devices.
-·
-An explanation of the manufacturer’s plans for addressing already distributed product in 
-the event of a positive decision on the marketing submission, including considerations 
-such as the following, where relevant:
-o
-Process for notifying patients, consumers, healthcare facilities, healthcare 
-providers, and device distributors of the device’s regulatory status; and
-o
-Process and timeline for providing to users of already distributed devices updated 
-labeling or components for the cleared or approved device, including updated 
-labeling or components to reflect any cleared/approved changes to the already 
-distributed device.
-FDA encourages manufacturers to collaborate with device distributors, healthcare facilities, 
-healthcare providers, patients, and consumers, as appropriate, regarding their Transition 
-Implementation Plan to assist all stakeholders with transition planning. 
-Depending on FDA’s evaluation of the marketing submission, FDA may engage with the 
-manufacturer during the Agency’s review of the submission to discuss the appropriate 
-disposition of already distributed devices described in the Transition Implementation Plan. For 
-marketing submissions that include changes to the device compared to the product that has been 
-distributed under the EUA (e.g., modifications to address a cybersecurity concern), the 
-manufacturer should discuss possible correction or removal with FDA regarding devices already 
-distributed to the end user, as needed. As always, FDA will make case-by-case decisions 
-regarding the enforcement of legal requirements in response to particular circumstances and 
-46 While FDA recommends that a benefit-risk based plan for disposition of already distributed product be included 
-with a marketing submission for devices within the scope of this guidance, FDA also believes such an approach is 
-consistent with device end-of-life best practices and recommends that manufacturers consider and conduct such 
-activities even if the manufacturer’s Transition Implementation Plan is not prospectively shared with the Agency.
-47 The manufacturer should provide labeling to the original purchaser, and collaborate with the original purchaser to 
-ensure that labeling is distributed to relevant stakeholders, including device distributors, healthcare facilities, 
-healthcare providers, patients, consumers, etc.
-
----
-
-<!-- Page 15 -->
-Contains Nonbinding Recommendations
-12
-questions that arise regarding a specific device or device type (e.g., requesting a firm initiate a 
-recall (see 21 CFR 7.45)48 or taking other actions, including an enforcement action).
+- An explanation of the manufacturer’s plans for addressing already distributed product in the event of a positive decision on the marketing submission, including considerations such as the following, where relevant: o
+Process for notifying patients, consumers, healthcare facilities, healthcare providers, and device distributors of the device’s regulatory status; and o
+Process and timeline for providing to users of already distributed devices updated labeling or components for the cleared or approved device, including updated labeling or components to reflect any cleared/approved changes to the already distributed device.
+FDA encourages manufacturers to collaborate with device distributors, healthcare facilities, healthcare providers, patients, and consumers, as appropriate, regarding their Transition
+Implementation Plan to assist all stakeholders with transition planning.
+Depending on FDA’s evaluation of the marketing submission, FDA may engage with the manufacturer during the Agency’s review of the submission to discuss the appropriate disposition of already distributed devices described in the Transition Implementation Plan. For marketing submissions that include changes to the device compared to the product that has been distributed under the EUA (e.g., modifications to address a cybersecurity concern), the manufacturer should discuss possible correction or removal with FDA regarding devices already distributed to the end user, as needed. As always, FDA will make case-by-case decisions regarding the enforcement of legal requirements in response to particular circumstances and 46 While FDA recommends that a benefit-risk based plan for disposition of already distributed product be included with a marketing submission for devices within the scope of this guidance, FDA also believes such an approach is consistent with device end-of-life best practices and recommends that manufacturers consider and conduct such activities even if the manufacturer’s Transition Implementation Plan is not prospectively shared with the Agency.
+47 The manufacturer should provide labeling to the original purchaser, and collaborate with the original purchaser to ensure that labeling is distributed to relevant stakeholders, including device distributors, healthcare facilities, healthcare providers, patients, consumers, etc.
+questions that arise regarding a specific device or device type (e.g., requesting a firm initiate a recall (see 21 CFR 7.45)48 or taking other actions, including an enforcement action).
 (2)
-Enforcement policy for devices with a marketing 
-submission under review by FDA 
-As previously stated, FDA recognizes that it may take time for device manufacturers, including 
-non-traditional device manufacturers, to adapt and adjust from their operations during the 
-COVID-19 pandemic to normal operations. As such, at this time, FDA does not intend to object 
-to the continued distribution of devices within the scope of this guidance after the EUA 
-termination date where: 
-·
-The manufacturer has submitted a marketing submission49 to FDA and it is accepted50 by 
-FDA before the EUA termination date; and
-·
-FDA has not taken a final action51 on the marketing submission.
-For these same devices, while the device is under FDA review, FDA does not intend to object to 
-the devices not bearing a Unique Device Identification (UDI) (see 21 CFR Part 801 Subpart B 
-and Part 830) or complying with other applicable labeling requirements (see 21 CFR Part 801) 
-where the device continues to be labeled as previously authorized under the EUA.52 As always, 
-FDA will make case-by-case decisions regarding the enforcement of legal requirements in 
-response to particular circumstances and questions that arise regarding a specific device or 
-device type. 
-The enforcement policy in this section (Section V.B.(2)) relates to FDA marketing authorization 
-(e.g., 510(k) clearance), UDI, and certain labeling requirements. It does not apply to other legal 
-48 21 CFR 7.45(a) states that FDA “may request a firm to initiate a recall when the following determinations have 
-been made: (1) That a product that has been distributed presents a risk of illness or injury or gross consumer 
-deception. (2) That the firm has not initiated a recall of the product. (3) That an agency action is necessary to protect 
-the public health and welfare.”
-49 This includes a marketing submission for the device distributed under the EUA, or a marketing submission for a 
-device that is a derivative of, or the next generation of, the device distributed under the EUA.
-50 Manufacturers that do not have an accepted marketing submission before the EUA termination date should refer 
-to the policy described in Section V.C. of this guidance.
-51 For purposes of this guidance, FDA uses the term “final action” to mean a Medical Device User Fee Amendments 
-(MDUFA) decision, which can include positive decisions, negative decisions, and notices of withdrawals, consistent 
-with the: 510(k) Actions/Clock guidance, available at https://www.fda.gov/regulatory-information/search-fda-
-guidance-documents/fda-and-industry-actions-premarket-notification-510k-submissions-effect-fda-review-clock-
-and-goals; De Novo Actions/Clock guidance, available at https://www.fda.gov/regulatory-information/search-fda-
-guidance-documents/fda-and-industry-actions-de-novo-classification-requests-effect-fda-review-clock-and-goals; 
-and PMA Actions/Clock guidance, available at https://www.fda.gov/regulatory-information/search-fda-guidance-
-documents/fda-and-industry-actions-premarket-approval-applications-pmas-effect-fda-review-clock-and-goals.
-52 Based on comments received on this draft guidance, as well as the companion transition guidance, FDA 
-understands that updating the labeling of these devices while they are under FDA review, and then again if they are 
-subsequently cleared, approved, or authorized, would be challenging for manufacturers. This policy takes those 
-comments into account and is least burdensome for manufacturers and FDA. As noted elsewhere, manufacturers 
-should engage with the Agency if they have questions specific to their device (e.g., regarding updating the device 
-labeling to acknowledge that the device is currently under FDA review when the FDA review is expected to take an 
-extended period of time).
-
----
-
-<!-- Page 16 -->
-Contains Nonbinding Recommendations
-13
-requirements (such as registration and listing,53 Quality System (QS), and reports of corrections 
-and removals requirements under 21 CFR Parts 807, 820, and 806, respectively) that may apply 
-after the EUA termination date.54 Moreover, it does not apply after FDA has taken a final action 
-on the marketing submission for a device. At that time, FDA expects manufacturers to comply 
-with all applicable regulatory requirements for the device/manufacturer. Following the device’s 
-marketing authorization, this includes labeling updates (see 21 CFR Part 801), compliance with 
-UDI requirements (see 21 CFR Part 801 Subpart B and Part 830), and any applicable updates to 
-registration and listing information, including the submission number (see 21 CFR Part 807 
-Subparts B-D). After marketing authorization, manufacturers also should follow the steps 
-outlined in their Transition Implementation Plan.
-In addition, and as always, FDA will make case-by-case decisions regarding the enforcement of 
-legal requirements in response to particular circumstances and questions that arise regarding a 
-specific device or device type. This may include FDA revising or revoking an EUA,55 requesting 
-a firm initiate a recall (see 21 CFR 7.45),56 or taking other actions, including an enforcement 
-action. Moreover, FDA may revise the enforcement policies and recommendations in the 
-guidance, as appropriate.
-As mentioned previously, FDA recommends that marketing submissions include in the cover 
-letter a statement that the device is/was previously authorized under an EUA and the EUA 
-request number, as well as submission number(s) for related premarket submissions. This 
-information will help FDA track devices that are transitioning from an EUA to the required 
-marketing authorization,57 facilitate review of the submission, and help ensure that transitioning 
-devices can be appropriately considered in light of the policy described in this section (Section 
-V.B.(2) of this guidance).
-In addition, during this transition period and after the EUA termination date, FDA may receive 
-questions from stakeholders (e.g., other Agencies, governmental stockpilers, healthcare 
-providers) about a device’s regulatory status for devices distributed as described in this section 
-(Section V.B.(2)) while the marketing submission is under review by FDA. Typically, if a device 
-53 For manufacturers that register and list by the EUA termination date, FDA recommends that manufacturers utilize 
-the term “emergency” (as a shorthand for “emergency use authorization”) in the premarket submission field if a 
-submission number is not yet available. If the device subsequently receives marketing authorization, FDA expects 
-manufacturers to comply with all applicable registration and listing requirements, which may require updating the 
-listing information.
-54 For more information regarding FDA regulatory requirements for a specific device and FDA policies related to 
-those requirements, manufacturers can use the FDA Guidance Search Tool to identify relevant guidances 
-(https://www.fda.gov/regulatory-information/search-fda-guidance-documents/). Following the EUA termination 
-date, FDA will look to any other applicable compliance policies and otherwise apply our general risk-based 
-approach in making compliance and enforcement decisions. For more information, see the guidance “Factors to 
-Consider Regarding Benefit-Risk in Medical Device Product Availability, Compliance, and Enforcement 
-Decisions,” available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/factors-
-consider-regarding-benefit-risk-medical-device-product-availability-compliance-and.
-55 See sections 564(f)-(g) of the FD&C Act.
-56 21 CFR 7.45(a) states that FDA “may request a firm to initiate a recall when the following determinations have 
-been made: (1) That a product that has been distributed presents a risk of illness or injury or gross consumer 
-deception. (2) That the firm has not initiated a recall of the product. (3) That an agency action is necessary to protect 
-the public health and welfare.”
+Enforcement policy for devices with a marketing submission under review by FDA
+As previously stated, FDA recognizes that it may take time for device manufacturers, including non-traditional device manufacturers, to adapt and adjust from their operations during the COVID-19 pandemic to normal operations. As such, at this time, FDA does not intend to object to the continued distribution of devices within the scope of this guidance after the EUA termination date where: - The manufacturer has submitted a marketing submission49 to FDA and it is accepted50 by
+FDA before the EUA termination date; and - FDA has not taken a final action51 on the marketing submission.
+For these same devices, while the device is under FDA review, FDA does not intend to object to the devices not bearing a Unique Device Identification (UDI) (see 21 CFR Part 801 Subpart B and Part 830) or complying with other applicable labeling requirements (see 21 CFR Part 801) where the device continues to be labeled as previously authorized under the EUA.52 As always,
+FDA will make case-by-case decisions regarding the enforcement of legal requirements in response to particular circumstances and questions that arise regarding a specific device or device type.
+The enforcement policy in this section (Section V.B.(2)) relates to FDA marketing authorization (e.g., 510(k) clearance), UDI, and certain labeling requirements. It does not apply to other legal 49 This includes a marketing submission for the device distributed under the EUA, or a marketing submission for a device that is a derivative of, or the next generation of, the device distributed under the EUA.
+50 Manufacturers that do not have an accepted marketing submission before the EUA termination date should refer to the policy described in Section V.C. of this guidance.
+51 For purposes of this guidance, FDA uses the term “final action” to mean a Medical Device User Fee Amendments (MDUFA) decision, which can include positive decisions, negative decisions, and notices of withdrawals, consistent with the: 510(k) Actions/Clock guidance, available at https://www.fda.gov/regulatory-information/search-fdaguidance-documents/fda-and-industry-actions-premarket-notification-510k-submissions-effect-fda-review-clock-and-goals; De Novo Actions/Clock guidance, available at https://www.fda.gov/regulatory-information/search-fdaguidance-documents/fda-and-industry-actions-de-novo-classification-requests-effect-fda-review-clock-and-goals; and PMA Actions/Clock guidance, available at https://www.fda.gov/regulatory-information/search-fda-guidancedocuments/fda-and-industry-actions-premarket-approval-applications-pmas-effect-fda-review-clock-and-goals.
+52 Based on comments received on this draft guidance, as well as the companion transition guidance, FDA understands that updating the labeling of these devices while they are under FDA review, and then again if they are subsequently cleared, approved, or authorized, would be challenging for manufacturers. This policy takes those comments into account and is least burdensome for manufacturers and FDA. As noted elsewhere, manufacturers should engage with the Agency if they have questions specific to their device (e.g., regarding updating the device labeling to acknowledge that the device is currently under FDA review when the FDA review is expected to take an extended period of time).
+requirements (such as registration and listing,53 Quality System (QS), and reports of corrections and removals requirements under 21 CFR Parts 807, 820, and 806, respectively) that may apply after the EUA termination date.54 Moreover, it does not apply after FDA has taken a final action on the marketing submission for a device. At that time, FDA expects manufacturers to comply with all applicable regulatory requirements for the device/manufacturer. Following the device’s marketing authorization, this includes labeling updates (see 21 CFR Part 801), compliance with UDI requirements (see 21 CFR Part 801 Subpart B and Part 830), and any applicable updates to registration and listing information, including the submission number (see 21 CFR Part 807
+Subparts B-D). After marketing authorization, manufacturers also should follow the steps outlined in their Transition Implementation Plan.
+In addition, and as always, FDA will make case-by-case decisions regarding the enforcement of legal requirements in response to particular circumstances and questions that arise regarding a specific device or device type. This may include FDA revising or revoking an EUA,55 requesting a firm initiate a recall (see 21 CFR 7.45),56 or taking other actions, including an enforcement action. Moreover, FDA may revise the enforcement policies and recommendations in the guidance, as appropriate.
+As mentioned previously, FDA recommends that marketing submissions include in the cover letter a statement that the device is/was previously authorized under an EUA and the EUA request number, as well as submission number(s) for related premarket submissions. This information will help FDA track devices that are transitioning from an EUA to the required marketing authorization,57 facilitate review of the submission, and help ensure that transitioning devices can be appropriately considered in light of the policy described in this section (Section V.B.(2) of this guidance).
+In addition, during this transition period and after the EUA termination date, FDA may receive questions from stakeholders (e.g., other Agencies, governmental stockpilers, healthcare providers) about a device’s regulatory status for devices distributed as described in this section (Section V.B.(2)) while the marketing submission is under review by FDA. Typically, if a device 53 For manufacturers that register and list by the EUA termination date, FDA recommends that manufacturers utilize the term “emergency” (as a shorthand for “emergency use authorization”) in the premarket submission field if a submission number is not yet available. If the device subsequently receives marketing authorization, FDA expects manufacturers to comply with all applicable registration and listing requirements, which may require updating the listing information.
+Consider Regarding Benefit-Risk in Medical Device Product Availability, Compliance, and Enforcement Decisions,” available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/factorsconsider-regarding-benefit-risk-medical-device-product-availability-compliance-and.
 57 See, e.g., sections 510(k), 513(f)(2), 515, and 520(m) of the FD&C Act.
-
----
-
-<!-- Page 17 -->
-Contains Nonbinding Recommendations
-14
-has an EUA or conventional marketing authorization (e.g., 510(k) clearance), this information 
-would be publicly available. The existence of a marketing submission under review is not 
-typically disclosed unless certain circumstances apply, such as when the device is on the 
-market.58 As such, for devices distributed as described in this section, FDA may share that a 
-manufacturer is distributing such device as described in the policy in this guidance, which could 
-indirectly reveal that the manufacturer has a marketing submission under review by FDA.59
+has an EUA or conventional marketing authorization (e.g., 510(k) clearance), this information would be publicly available. The existence of a marketing submission under review is not typically disclosed unless certain circumstances apply, such as when the device is on the market.58 As such, for devices distributed as described in this section, FDA may share that a manufacturer is distributing such device as described in the policy in this guidance, which could indirectly reveal that the manufacturer has a marketing submission under review by FDA.59
 (3)
-Additional considerations for EUA-authorized in vitro 
-diagnostics – Clinical Laboratory Improvement 
-Amendments of 1988 (CLIA) categorization and waivers 
-In vitro diagnostics (IVDs) authorized under an EUA are generally authorized for use in specific 
-settings, such as those certified as laboratories under the Clinical Laboratory Improvement 
-Amendments of 1988 (CLIA),60 that meet the requirements to perform high or moderate 
-complexity tests, or for use at the point-of-care (POC), i.e., in patient care settings operating 
-under a CLIA Certificate of Waiver, Certificate of Compliance, or Certificate of Accreditation. 
-FDA’s determination that an EUA-authorized IVD is deemed to be in a particular category of 
-examinations and procedures under CLIA is effective only while the relevant declaration under 
-section 564(b) of the FD&C Act is in effect.61 Outside of EUAs, CLIA categorization typically is 
-determined by FDA after FDA has cleared or approved a marketing submission.62 Prior to a 
-categorization as moderate complexity or waived, an IVD is considered to be high complexity 
-and, under CLIA, use of that test is limited to laboratories that are certified under CLIA, and that 
-meet the requirements to perform tests of high complexity. 
-For IVDs authorized under an EUA for use in laboratories certified under CLIA that meet the 
-requirements to perform moderate complexity tests, FDA intends to categorize the test’s 
-complexity immediately following FDA’s final action on the marketing submission, per FDA’s 
-typical categorization process.   
-For IVDs authorized under an EUA for use in patient care settings operating under a CLIA 
-Certificate of Waiver, FDA intends to accept marketing submissions under the Dual 510(k) and 
-CLIA Waiver by Application pathway, or Dual De Novo and CLIA Waiver marketing 
-submissions63 modeled after the 510(k) and CLIA Waiver by Application pathway, as 
-58 See, e.g., 21 CFR 807.95(a)(1).
-59 To the extent the marketing submission contains trade secret information or confidential commercial or financial 
-information, FDA will handle that information in accordance with applicable laws, including 21 CFR 20.61.
-60 42 U.S.C. 263a.
-61 See section 564(m)(3) of the FD&C Act. 
-62 See the FDA website for additional information on CLIA categorizations and FDA’s process, available at 
-https://www.fda.gov/medical-devices/ivd-regulatory-assistance/clia-categorizations.
-63 Section 3301 of the Food and Drug Omnibus Reform Act of 2022, Title III of Division FF of the Consolidated 
-Appropriations Act, 2023, Pub. L. No. 117-328 (“FDORA”), amended section 513 of the FD&C Act to add 
-subsection (k), which states “[f]or a device authorized for emergency use under section 564 for which, in accordance 
-with section 564(m), the Secretary has deemed a laboratory examination or procedure associated with such device to 
-be in the category of examinations and procedures described in section 353(d)(3) of the Public Health Service Act, 
-the sponsor of such device may, when submitting a request for classification under section 513(f)(2), submit a single
-
----
-
-<!-- Page 18 -->
-Contains Nonbinding Recommendations
-15
-appropriate. Manufacturers intending to submit a Dual Submission are encouraged to consider 
-the recommendations in the guidance “Recommendations for Dual 510(k) and CLIA Waiver by 
-Application Studies,”64 for information on the process and content of Dual Submissions. 
-Consistent with the recommendations in that guidance, data regarding actual use of the IVDs in 
-CLIA-waived settings for comparison and reproducibility studies will be helpful in making a 
-CLIA waiver determination. FDA anticipates that, in many cases, manufacturers will be able to 
-reference data from related marketing authorizations and submissions, including the EUA 
-request, and real-world data obtained as a result of use of the IVD under the EUA may be 
-submitted in support of a CLIA Waiver by Application. As described in the guidance 
-“Recommendations for Dual 510(k) and CLIA Waiver by Application Studies,” FDA 
-recommends submitting a Pre-Submission65 to discuss planned study designs for comparison and 
-reproducibility studies that support the marketing submission and the CLIA waiver, and the Dual 
+Additional considerations for EUA-authorized in vitro diagnostics – Clinical Laboratory Improvement
+Amendments of 1988 (CLIA) categorization and waivers
+In vitro diagnostics (IVDs) authorized under an EUA are generally authorized for use in specific settings, such as those certified as laboratories under the Clinical Laboratory Improvement
+Amendments of 1988 (CLIA),60 that meet the requirements to perform high or moderate complexity tests, or for use at the point-of-care (POC), i.e., in patient care settings operating under a CLIA Certificate of Waiver, Certificate of Compliance, or Certificate of Accreditation.
+FDA’s determination that an EUA-authorized IVD is deemed to be in a particular category of examinations and procedures under CLIA is effective only while the relevant declaration under section 564(b) of the FD&C Act is in effect.61 Outside of EUAs, CLIA categorization typically is determined by FDA after FDA has cleared or approved a marketing submission.62 Prior to a categorization as moderate complexity or waived, an IVD is considered to be high complexity and, under CLIA, use of that test is limited to laboratories that are certified under CLIA, and that meet the requirements to perform tests of high complexity.
+For IVDs authorized under an EUA for use in laboratories certified under CLIA that meet the requirements to perform moderate complexity tests, FDA intends to categorize the test’s complexity immediately following FDA’s final action on the marketing submission, per FDA’s typical categorization process.
+For IVDs authorized under an EUA for use in patient care settings operating under a CLIA
+Certificate of Waiver, FDA intends to accept marketing submissions under the Dual 510(k) and CLIA Waiver by Application pathway, or Dual De Novo and CLIA Waiver marketing submissions63 modeled after the 510(k) and CLIA Waiver by Application pathway, as 58 See, e.g., 21 CFR 807.95(a)(1).
+59 To the extent the marketing submission contains trade secret information or confidential commercial or financial information, FDA will handle that information in accordance with applicable laws, including 21 CFR 20.61.
+63 Section 3301 of the Food and Drug Omnibus Reform Act of 2022, Title III of Division FF of the Consolidated
+Appropriations Act, 2023, Pub. L. No. 117-328 (“FDORA”), amended section 513 of the FD&C Act to add subsection (k), which states “[f]or a device authorized for emergency use under section 564 for which, in accordance with section 564(m), the Secretary has deemed a laboratory examination or procedure associated with such device to be in the category of examinations and procedures described in section 353(d)(3) of the Public Health Service Act, the sponsor of such device may, when submitting a request for classification under section 513(f)(2), submit a single appropriate. Manufacturers intending to submit a Dual Submission are encouraged to consider the recommendations in the guidance “Recommendations for Dual 510(k) and CLIA Waiver by
+Application Studies,”64 for information on the process and content of Dual Submissions.
+Consistent with the recommendations in that guidance, data regarding actual use of the IVDs in CLIA-waived settings for comparison and reproducibility studies will be helpful in making a CLIA waiver determination. FDA anticipates that, in many cases, manufacturers will be able to reference data from related marketing authorizations and submissions, including the EUA request, and real-world data obtained as a result of use of the IVD under the EUA may be submitted in support of a CLIA Waiver by Application. As described in the guidance “Recommendations for Dual 510(k) and CLIA Waiver by Application Studies,” FDA recommends submitting a Pre-Submission65 to discuss planned study designs for comparison and reproducibility studies that support the marketing submission and the CLIA waiver, and the Dual
 Submission should be submitted following a Pre-Submission.
-For IVDs authorized under an EUA for home use, if a marketing submission for such test is 
-subsequently cleared, approved, or authorized for home use, the test will be waived by regulation 
-under 42 CFR 493.15(c), meaning that the test will be categorized as waived without the need for 
-a CLIA Waiver by Application.  
-FDA recommends that any marketing submission that may necessitate a CLIA categorization 
-decision (e.g., tests intended for use in moderate complexity laboratories or in CLIA Certificate 
-of Waiver settings) be submitted as soon as possible to facilitate FDA’s review of the marketing 
-submission and CLIA categorization request (or CLIA Waiver by Application) prior to the 
-termination of the EUA declaration to reduce the potential for disruption in distribution and use.
-For IVDs authorized under an EUA for use in high complexity, moderate complexity, and 
-waived settings where, as described in Section V.B.(2) of this guidance, the manufacturer has 
-submitted a marketing submission to FDA and it is accepted by FDA before the EUA 
-termination date, and FDA has not taken a final action on the marketing submission or made a 
-determination on CLIA categorization, at this time, FDA does not intend to object to the 
-continued distribution and use of such tests consistent with the policy described in Section 
-V.B.(2) of this guidance and in a manner consistent with the EUA that was in effect prior to the 
-EUA termination date.66
-submission containing -- (1) the information needed for such a request; and (2) sufficient information to enable the 
-Secretary to determine whether such laboratory examination or procedure satisfies the criteria to be categorized 
-under section 353(d)(3) of the Public Health Service Act.”
-64 Available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/recommendations-dual-
-510k-and-clia-waiver-application-studies.
-65 For details on the Q-Submission Program, refer to the guidance “Requests for Feedback and Meetings for Medical 
+For IVDs authorized under an EUA for home use, if a marketing submission for such test is subsequently cleared, approved, or authorized for home use, the test will be waived by regulation under 42 CFR 493.15(c), meaning that the test will be categorized as waived without the need for a CLIA Waiver by Application.
+FDA recommends that any marketing submission that may necessitate a CLIA categorization decision (e.g., tests intended for use in moderate complexity laboratories or in CLIA Certificate of Waiver settings) be submitted as soon as possible to facilitate FDA’s review of the marketing submission and CLIA categorization request (or CLIA Waiver by Application) prior to the termination of the EUA declaration to reduce the potential for disruption in distribution and use.
+For IVDs authorized under an EUA for use in high complexity, moderate complexity, and waived settings where, as described in Section V.B.(2) of this guidance, the manufacturer has submitted a marketing submission to FDA and it is accepted by FDA before the EUA termination date, and FDA has not taken a final action on the marketing submission or made a determination on CLIA categorization, at this time, FDA does not intend to object to the continued distribution and use of such tests consistent with the policy described in Section V.B.(2) of this guidance and in a manner consistent with the EUA that was in effect prior to the EUA termination date.66
+submission containing -- (1) the information needed for such a request; and (2) sufficient information to enable the
+Secretary to determine whether such laboratory examination or procedure satisfies the criteria to be categorized under section 353(d)(3) of the Public Health Service Act.”
+65 For details on the Q-Submission Program, refer to the guidance “Requests for Feedback and Meetings for Medical
 Device Submissions: The Q-Submission Program.”
-66 Laboratories using such tests should consider whether CLIA requirements administered by the Centers for 
-Medicare & Medicaid Services (CMS) may apply.
-
----
-
-<!-- Page 19 -->
-Contains Nonbinding Recommendations
-16
-C.
-Devices not distributed after the EUA termination date 
-When a manufacturer does not intend to continue to distribute its device beyond the EUA 
-termination date, at this time, FDA does not intend to object to the disposition and use67 of 
-already distributed devices (i.e., FDA does not intend to request market removal68) as follows:
-1) Single-use, non-life-supporting/non-life-sustaining devices (e.g., face masks), including 
-IVDs, that were distributed before the EUA termination date are used by the end user 
-prior to the product expiration date,69 as applicable.
-2) Reusable, non-life-supporting/non-life-sustaining devices (e.g., non-invasive remote 
-patient monitoring devices) that were distributed before the EUA termination date are 
-used by their end user and either: 
-a.
-Are restored70 by the manufacturer to an FDA-cleared or -approved version of the 
-device,71 or 
-b. Have72 a physical and/or electronic copy of updated labeling that accurately 
-describes the product features and regulatory status (e.g., that the product lacks 
-FDA clearance, approval, or authorization). 
-3) Reusable life-supporting/life-sustaining devices (e.g., ventilators, extracorporeal 
-membrane oxygenation systems, continuous renal replacement therapy systems) that 
-were distributed before the EUA termination date are restored73 by the manufacturer to an 
-FDA-cleared or -approved version of the device74 so that they may be used by their end 
-user. If not restored, a physical and/or electronic copy of updated labeling that accurately 
-describes the product features and regulatory status (e.g., that the product lacks FDA 
-clearance, approval, or authorization) should be provided,75 and such devices are not to 
-be used.76,77 To help ensure accessibility to updated labeling, FDA recommends that 
-stakeholders be provided an opportunity to request a physical copy of updated labeling, 
-and after such request, be provided the requested labeling without additional cost.
-67 FDA recognizes that not all use would necessarily be violative (see, e.g., section 564(f)(2) of the FD&C Act). To 
-the extent such use is violative, FDA generally does not intend to object as described herein.
+66 Laboratories using such tests should consider whether CLIA requirements administered by the Centers for Medicare & Medicaid Services (CMS) may apply.
+### C. Devices not distributed after the EUA termination date
+When a manufacturer does not intend to continue to distribute its device beyond the EUA termination date, at this time, FDA does not intend to object to the disposition and use67 of already distributed devices (i.e., FDA does not intend to request market removal68) as follows: 1) Single-use, non-life-supporting/non-life-sustaining devices (e.g., face masks), including IVDs, that were distributed before the EUA termination date are used by the end user prior to the product expiration date,69 as applicable.
+2) Reusable, non-life-supporting/non-life-sustaining devices (e.g., non-invasive remote patient monitoring devices) that were distributed before the EUA termination date are used by their end user and either: a.
+Are restored70 by the manufacturer to an FDA-cleared or -approved version of the device,71 or b. Have72 a physical and/or electronic copy of updated labeling that accurately describes the product features and regulatory status (e.g., that the product lacks
+FDA clearance, approval, or authorization).
+3) Reusable life-supporting/life-sustaining devices (e.g., ventilators, extracorporeal membrane oxygenation systems, continuous renal replacement therapy systems) that were distributed before the EUA termination date are restored73 by the manufacturer to an FDA-cleared or -approved version of the device74 so that they may be used by their end user. If not restored, a physical and/or electronic copy of updated labeling that accurately describes the product features and regulatory status (e.g., that the product lacks FDA clearance, approval, or authorization) should be provided,75 and such devices are not to be used.76,77 To help ensure accessibility to updated labeling, FDA recommends that stakeholders be provided an opportunity to request a physical copy of updated labeling, and after such request, be provided the requested labeling without additional cost.
+67 FDA recognizes that not all use would necessarily be violative (see, e.g., section 564(f)(2) of the FD&C Act). To the extent such use is violative, FDA generally does not intend to object as described herein.
 68 FDA uses the term “removal” consistent with the definition in 21 CFR 806.2(j).
-69 For IVDs that were authorized under EUA, this is the product expiration date listed as of the EUA termination 
-date. Extension of the expiration date cannot be authorized after the EUA is terminated.
-70 In situations where manufacturers do not believe restoration is possible or in the best interest of public health, 
-FDA recommends additional engagement with the Agency on the appropriate disposition of a product if it is not 
-otherwise discussed in this guidance.
-71 For example, an FDA-cleared or -approved version may include an earlier software version, component 
-replacement, or different labeling that removes information related to the use of the device under the EUA.
-72 The manufacturer should provide labeling to the original purchaser, and collaborate with the original purchaser to 
-ensure that labeling is distributed to relevant stakeholders, including device distributors, healthcare facilities, 
-healthcare providers, patients, consumers, etc.
-73 See footnote 70.
-74 See footnote 71.
-75 See footnote 72.
+69 For IVDs that were authorized under EUA, this is the product expiration date listed as of the EUA termination date. Extension of the expiration date cannot be authorized after the EUA is terminated.
+70 In situations where manufacturers do not believe restoration is possible or in the best interest of public health,
+FDA recommends additional engagement with the Agency on the appropriate disposition of a product if it is not otherwise discussed in this guidance.
+72 The manufacturer should provide labeling to the original purchaser, and collaborate with the original purchaser to ensure that labeling is distributed to relevant stakeholders, including device distributors, healthcare facilities, healthcare providers, patients, consumers, etc.
 76 FDA recognizes that not all use would necessarily be violative (see, e.g., section 564(f)(2) of the FD&C Act).
-77 Should healthcare facilities wish to retain a device that lacks FDA clearance, approval, or authorization for use in 
-the future, the future use of the device would be subject to the regulatory requirements of any future authorization, 
-including marketing authorization or EUA, as applicable. For governmental stockpilers that wish to retain a device 
-that lacks requisite FDA clearance, approval, or authorization for use in the future, FDA recommends engaging with 
-the Agency to discuss the public health need for future deployment and/or use of the device in specific 
-circumstances (e.g., regional natural disaster, localized disease outbreaks).
-
----
-
-<!-- Page 20 -->
-Contains Nonbinding Recommendations
-17
-Manufacturers that do not intend to distribute their devices after the EUA termination date 
-should also refer to relevant information included in this guidance in other sections (though note 
-that recommendations in Section V.B. are intended only for manufacturers that intend to 
-distribute their device after the EUA termination date). In addition, manufacturers should be 
-aware of any applicable legal requirements for their device, such as adverse event reporting 
-under 21 CFR Part 803, and are expected to comply with such requirements for the duration in 
-which they are applicable, which may extend beyond the cessation of distribution.
-For IVDs authorized under an EUA for use in high complexity, moderate complexity, and 
-waived settings that were already distributed before the EUA termination date, at this time, FDA 
-does not intend to object to the continued use of such tests prior to the product expiration date in 
-a manner consistent with the EUA that was in effect prior to the EUA termination date.78
-Manufacturers may also voluntarily withdraw their devices from the market. For manufacturers 
-that do not intend to continue distributing their devices and that intend to voluntarily withdraw 
-their devices from the market, FDA recommends completing withdrawal of the devices from the 
-market prior to the EUA termination date; otherwise, if withdrawal of the devices from the 
-market is not completed prior to the EUA termination date, FDA recommends restoring and/or 
-updating labeling for reusable non-life-supporting/non-life-sustaining devices and for reusable 
-life-supporting/life-sustaining devices as outlined in the policy above prior to the EUA 
-termination date. Manufacturers should be aware of any applicable legal requirements for their 
-device, such as adverse event reporting under 21 CFR Part 803, and continue to comply with 
-such requirements for the duration in which they are applicable, which may extend beyond the 
-cessation of distribution or withdrawal. Generally, it is anticipated that, over time, legal 
-requirements will no longer apply when the manufacturer’s device withdrawal activities are 
-completed.
-FDA encourages manufacturers that do not intend to continue to distribute their devices after the 
-EUA termination date to communicate with device distributors, healthcare facilities, healthcare 
-providers, patients, and consumers, as appropriate, regarding their product disposition to assist 
-all stakeholders with transition planning. In addition, thinking through elements of the 
-“Transition Implementation Plan” outlined in Section V.B.(1) of this guidance may help 
-manufacturers and stakeholders with this process.
-D.
-Discontinuing distribution of a device  
-FDA expects manufacturers to discontinue distribution of a device within the scope of this 
-guidance:
-1) On the EUA termination date, if the manufacturer has not submitted a required 
-marketing submission79 for its device and had it accepted by FDA before the EUA 
-termination date; or
-2) On the date the manufacturer receives a negative decision on its marketing submission 
-78 Laboratories using such tests should consider whether CLIA requirements administered by CMS may apply.
+77 Should healthcare facilities wish to retain a device that lacks FDA clearance, approval, or authorization for use in the future, the future use of the device would be subject to the regulatory requirements of any future authorization, including marketing authorization or EUA, as applicable. For governmental stockpilers that wish to retain a device that lacks requisite FDA clearance, approval, or authorization for use in the future, FDA recommends engaging with the Agency to discuss the public health need for future deployment and/or use of the device in specific circumstances (e.g., regional natural disaster, localized disease outbreaks).
+Manufacturers that do not intend to distribute their devices after the EUA termination date should also refer to relevant information included in this guidance in other sections (though note that recommendations in Section V.B. are intended only for manufacturers that intend to distribute their device after the EUA termination date). In addition, manufacturers should be aware of any applicable legal requirements for their device, such as adverse event reporting under 21 CFR Part 803, and are expected to comply with such requirements for the duration in which they are applicable, which may extend beyond the cessation of distribution.
+For IVDs authorized under an EUA for use in high complexity, moderate complexity, and waived settings that were already distributed before the EUA termination date, at this time, FDA does not intend to object to the continued use of such tests prior to the product expiration date in a manner consistent with the EUA that was in effect prior to the EUA termination date.78
+Manufacturers may also voluntarily withdraw their devices from the market. For manufacturers that do not intend to continue distributing their devices and that intend to voluntarily withdraw their devices from the market, FDA recommends completing withdrawal of the devices from the market prior to the EUA termination date; otherwise, if withdrawal of the devices from the market is not completed prior to the EUA termination date, FDA recommends restoring and/or updating labeling for reusable non-life-supporting/non-life-sustaining devices and for reusable life-supporting/life-sustaining devices as outlined in the policy above prior to the EUA termination date. Manufacturers should be aware of any applicable legal requirements for their device, such as adverse event reporting under 21 CFR Part 803, and continue to comply with such requirements for the duration in which they are applicable, which may extend beyond the cessation of distribution or withdrawal. Generally, it is anticipated that, over time, legal requirements will no longer apply when the manufacturer’s device withdrawal activities are completed.
+FDA encourages manufacturers that do not intend to continue to distribute their devices after the EUA termination date to communicate with device distributors, healthcare facilities, healthcare providers, patients, and consumers, as appropriate, regarding their product disposition to assist all stakeholders with transition planning. In addition, thinking through elements of the “Transition Implementation Plan” outlined in Section V.B.(1) of this guidance may help manufacturers and stakeholders with this process.
+### D. Discontinuing distribution of a device
+FDA expects manufacturers to discontinue distribution of a device within the scope of this guidance: 1) On the EUA termination date, if the manufacturer has not submitted a required marketing submission79 for its device and had it accepted by FDA before the EUA termination date; or 2) On the date the manufacturer receives a negative decision on its marketing submission 78 Laboratories using such tests should consider whether CLIA requirements administered by CMS may apply.
 79 See, e.g., sections 510(k), 513(f)(2), 515, and 520(m) of the FD&C Act.
+as FDA’s final action, or on the date the manufacturer withdraws its submission or fails to provide a complete response to an FDA request for additional information80 within the allotted time identified in FDA’s letter.
+In addition, manufacturers should be aware of any applicable legal requirements for their device, such as adverse event reporting under 21 CFR Part 803, and continue to comply with such requirements for the duration in which they are applicable, which may extend beyond the cessation of distribution. Generally, to help determine the applicable legal requirements after cessation of distribution, FDA expects manufacturers of devices and others81 to review terms of the devices’ respective EUAs, including the conditions of authorization82 that were included in the EUA letters of authorization for the devices.
+FDA encourages manufacturers to communicate with device distributors, healthcare facilities, healthcare providers, patients, and consumers, as appropriate, regarding their product disposition to assist all stakeholders with transition planning.
+### E. Quality System considerations
+FDA recognizes that there may be situations that raise unique compliance considerations, particularly regarding QS requirements. For example, non-traditional device manufacturers that previously operated under different quality standards or requirements may face challenges that take more time to address in transitioning to a system that fully complies with 21 CFR Part 820.
+FDA intends to take such considerations into account when making case-by-case compliance and enforcement decisions. Some manufacturers who intend to continue distributing their devices after the EUA termination date may choose to request an exemption or variance from a device QS requirement as outlined in 21 CFR 820.1(e) and section 520(f)(2) of the FD&C Act. Any such exemption or variance should be requested within 90 days of publication of the advance notice of termination of the EUA declaration pertaining to the device at issue to help ensure FDA considers your request in time.
+### F. Laboratory developed tests (LDTs)
+For laboratory developed tests (LDTs)83 in general, FDA has generally exercised enforcement discretion, meaning that FDA generally does not exercise its authority to enforce the regulatory requirements for these devices, although it maintains that authority. FDA has not applied this general enforcement discretion approach to, among other LDTs, those used for declared emergencies under section 564 of the FD&C Act. As such, following termination of the EUA 81 Certain EUAs include conditions of authorization for parties other than the manufacturer, such as healthcare facilities or distributors.
+83 An LDT is a type of IVD that is designed, manufactured, and used within a single site laboratory certified under CLIA that meets the requirements to perform tests of high complexity.
+declaration for COVID-19 IVDs,84 FDA intends to have the same enforcement approach for COVID-19 LDTs as it does for other LDTs.
+## VI. Examples
+The following hypotheticals are intended to illustrate the transition policy outlined above. To exemplify the timeline of the Transition Implementation Plan outlined in this section (Section VI. of this guidance), for purposes of the examples, FDA set the hypothetical advance notice of termination date for the EUA declaration pertaining to the device at issue as July 1 in Year 1, and the EUA termination date as January 1 in Year 2. This date is not intended to propose an actual advance notice of termination or EUA termination date; it is hypothetical and for illustrative purposes only. Note that these generalized examples do not account for every possible detail, risk, or consideration a manufacturer should evaluate or that may be relevant to FDA decisions regarding a particular device.
+Example 1
+
+A single-use surgical mask that is intended for use in healthcare settings by healthcare personnel as personal protective equipment to provide a physical barrier to fluids and particulate materials was authorized for emergency use under an umbrella EUA for surgical masks.85 The manufacturer does not intend to continue distributing the surgical mask after the EUA is no longer in effect.
+
+On July 1, the advance notice of termination of the relevant EUA declaration is published. After
+July 1, the manufacturer continues to distribute the surgical masks and continues to comply with all conditions of authorization.
+
+On the EUA termination date (January 1), the relevant EUA declaration is terminated and the umbrella EUA is no longer in effect. On January 1, the manufacturer ceases distribution of the surgical mask. Before January 1, the manufacturer had recently sold surgical masks directly to retailers and device distributors. Some of the surgical masks are in transit to these customers, and others are being held in device distributors’ warehouses in the U.S.
+
+The policies included in this guidance relate to the following actions by the device manufacturer and others: · The surgical masks in transit or in device distributors’ warehouses remain distributed (they were already distributed by the EUA termination date), and they are used by the end user prior to their expiration date.
+- If on January 1, some of the surgical masks are in the manufacturer’s possession, the surgical masks in the manufacturer’s possession are not subsequently distributed (they were not already distributed by the EUA termination date).
+84 HHS declaration that circumstances exist justifying the authorization of emergency use of in vitro diagnostics for detection and/or diagnosis of the SARS-CoV-2 virus that causes COVID-19 (issued February 4, 2020 (85 FR 7316) and amended March 15, 2023 (88 FR 16644)).
+The manufacturer does not update the labeling of the already distributed surgical masks (they are single-use, non-life-supporting/non-life-sustaining devices).
+- User exhaustion of already distributed surgical masks is described in Section V.C. of this guidance.
+- Even after the cessation of distribution, the manufacturer continues to submit any adverse event reports of which it becomes aware to FDA consistent with 21 CFR Part 803.
+Example 2
+
+A continuous ventilator was authorized under the umbrella EUA for ventilators and ventilator accessories86 to support patients who develop respiratory distress due to COVID-19.
+
+On July 1, the advance notice of termination of the relevant EUA declaration is published.
+Before August 1, to help FDA plan for transition-related premarket review activities, the manufacturer submits an “EUA report” to the CDRH Document Control Center with “Attention:
+Notification of Intent” on the cover letter of the submission to inform FDA that it does not intend to pursue marketing authorization. This EUA report includes the information outlined in Section V.A. of this guidance, which includes the manufacturer’s plans to have already distributed ventilators remain distributed.
+
+On the EUA termination date (January 1), the relevant EUA declaration is terminated and the umbrella EUA is no longer in effect. On January 1, the manufacturer ceases distribution of the ventilator. FDA does not intend to object if the manufacturer implements a plan (that was included in the Notification of Intent) for the already distributed ventilators to remain distributed (e.g., ventilators in device distributors’ warehouses), including ventilators in the possession of end users (e.g., ventilators in healthcare facilities). As part of the plan, the manufacturer interacts with affected stakeholders, such as healthcare facilities, to determine the stakeholders’ interest in keeping distributed ventilators. The ventilator manufacturer updates the electronic labeling as outlined in Section V.C. of this guidance, and emails a copy of the electronic labeling to affected stakeholders that have expressed an interest in keeping the ventilators.
+
+The policies included in this guidance relate to the following actions by the device manufacturer and others: · The already distributed ventilators are not used.
+- Should healthcare facilities wish to retain the ventilator that lacks FDA clearance, approval, or authorization for use in the future, the future use of the device would be subject to the regulatory requirements of any future authorization, including marketing authorization or EUA.
+- For governmental stockpilers that wish to retain a device that lacks requisite FDA clearance, approval, or authorization for use in the future, FDA recommends engaging with the Agency to discuss the public health need for future deployment and/or use of the device in specific circumstances (e.g., regional natural disaster, localized disease outbreaks).
+Even after the cessation of distribution, the manufacturer continues to submit any adverse event reports of which it becomes aware to FDA consistent with 21 CFR Part 803.
+Example 3
+
+A non-traditional device manufacturer worked with a traditional device manufacturer (original equipment manufacturer (OEM)) to produce, as a contract manufacturer, ventilators that were designed by the traditional device manufacturer. Such devices were authorized under the umbrella EUA for ventilators and ventilator accessories87 and distributed by the OEM during the COVID-19 pandemic.
+
+On July 1, the advance notice of termination of the relevant EUA declaration is published.
+Before August 1, to help FDA plan for transition-related premarket review activities, the OEM submits an “EUA report” to the CDRH Document Control Center with “Attention: Notification of Intent” on the cover letter of the submission to inform FDA that it intends to pursue marketing authorization. This EUA report includes the information outlined in Section V.A. of this guidance.
+
+On October 1, the OEM submits a marketing submission to FDA. In its marketing submission, the OEM includes a “Transition Implementation Plan” for already distributed ventilators in the case of a positive decision as well as in the case of a negative decision on the marketing submission. On October 10, the marketing submission is determined to be administratively incomplete because it is missing a test report for a biocompatibility endpoint; the marketing submission is not accepted for review (an “RTA1 decision”). The OEM resolves the acceptance review deficiency by including the missing test report for the biocompatibility endpoint and resubmits the marketing submission on November 1. On November 8, the marketing submission is accepted for substantive review.
+
+On the EUA termination date (January 1), the relevant EUA declaration is terminated and the umbrella EUA is no longer in effect. The OEM has submitted a marketing submission and it was accepted by FDA. Under these circumstances, FDA does not intend to object to the continued distribution of the ventilators before FDA takes a final action on the marketing submission (see
+Section V.B.(2) of this guidance). Additionally, the OEM has kept the device labeling as described in the EUA-authorized device labeling. Under these circumstances, FDA does not intend to object to the device labeling not complying with applicable labeling requirements (see 21 CFR Part 801) where the device continues to be labeled as previously authorized under the EUA while the marketing submission is under FDA review (see Section V.B.(2) of this guidance).
+
+In this scenario, in the course of FDA’s substantive review, FDA identifies a potential control software issue that could result in patient harm. FDA issues a request for additional information and informs the OEM that the marketing submission is being placed on hold pending receipt of a response to the deficiency. The OEM updates its software, performs the appropriate testing, and provides additional information and a response to the deficiency.
+On July 10, the OEM receives a positive decision as part of FDA’s final action on the marketing submission. FDA and the OEM engage on the manufacturer’s Transition Implementation Plan to address already distributed devices, which includes the manufacturer updating software for already distributed ventilators and providing updated electronic labeling to the relevant stakeholders in accordance with the FDA-cleared version of the ventilator. The OEM continues to submit any adverse event reports of which it becomes aware to FDA consistent with 21 CFR Part 803.
+Example 4
+
+A molecular diagnostic test kit manufactured by a commercial manufacturer was issued an individual EUA for the qualitative detection of nucleic acid from SARS-CoV-2 in upper and lower respiratory specimens in authorized laboratories.88
+
+On July 1, the advance notice of termination of the relevant EUA declaration is published. On
+October 1, the manufacturer submits a marketing submission to FDA, which is accepted by the Agency. In its marketing submission, the manufacturer includes a “Transition Implementation Plan” for already distributed molecular diagnostic test kits in the case of a positive decision as well as in the case of a negative decision on the marketing submission.
+
+On the EUA termination date (January 1), the relevant EUA declaration is terminated and the EUA for the device is no longer in effect. The manufacturer has submitted a marketing submission and it was accepted by FDA. Under these circumstances, FDA does not intend to object to the continued distribution of the device before FDA takes a final action on the marketing submission (see Section V.B.(2) of this guidance). Additionally, the manufacturer has kept the device labeling as described in the EUA-authorized device labeling. Under these circumstances, FDA does not intend to object to the device labeling not complying with applicable labeling requirements (see 21 CFR Part 801) where the device continues to be labeled as previously authorized under the EUA while the marketing submission is under FDA review (see Section V.B.(2) of this guidance).
+
+a) Positive Decision
+In this scenario, the manufacturer receives a positive decision on February 20, as part of FDA’s final action on the marketing submission. FDA and the manufacturer engage on the manufacturer’s Transition Implementation Plan to address already distributed devices. The manufacturer does not update the device labeling for already distributed devices (these devices are single-use, non-life-supporting/non-life-sustaining devices); however, the manufacturer updates the device labeling for devices that are in production and those in its possession in accordance with the FDA-cleared version of the molecular diagnostic test kit. No outstanding issues were identified during FDA review that would result in a correction or removal of the molecular diagnostic test kits that were already distributed. The manufacturer continues to
+803. b) Negative Decision
+In this scenario, the manufacturer receives a negative decision on March 1, as part of FDA’s final action on the marketing submission. FDA and the manufacturer engage on the manufacturer’s
+Transition Implementation Plan to address already distributed devices. During FDA’s substantive review, FDA found that specific lots of the molecular diagnostic test kit had a high number of false positive reports, which may lead to a delay in both the correct diagnosis and treatment for the actual cause of a person’s illness. The manufacturer issues a voluntary recall for the affected lots of the molecular diagnostic test kit by informing relevant stakeholders to dispose of the affected lots.
+The policies included in this guidance relate to the following actions by the device manufacturer and others: - For unaffected lots of the molecular diagnostic test kit that are not subject to the recall and are already distributed, the devices remain distributed with device distributors and retail sellers who have already purchased the devices so that they may be used prior to the product expiration date.
+- The manufacturer has a small number of unaffected lots of the molecular diagnostic test kit that are not subject to the recall in its possession; the manufacturer does not distribute these devices.
+- The manufacturer does not update the device labeling of already distributed devices (these devices are single-use, non-life-supporting/non-life-sustaining devices); however, the manufacturer does communicate publicly about the recall about the affected lots of the molecular diagnostic test kit.
+- Even after the cessation of distribution, the manufacturer continues to submit any adverse event reports of which it becomes aware to FDA consistent with 21 CFR Part 803.
 
 ---
 
-<!-- Page 21 -->
-Contains Nonbinding Recommendations
-18
-as FDA’s final action, or on the date the manufacturer withdraws its submission or 
-fails to provide a complete response to an FDA request for additional information80
-within the allotted time identified in FDA’s letter.
-In addition, manufacturers should be aware of any applicable legal requirements for their device, 
-such as adverse event reporting under 21 CFR Part 803, and continue to comply with such 
-requirements for the duration in which they are applicable, which may extend beyond the 
-cessation of distribution. Generally, to help determine the applicable legal requirements after 
-cessation of distribution, FDA expects manufacturers of devices and others81 to review terms of 
-the devices’ respective EUAs, including the conditions of authorization82 that were included in 
-the EUA letters of authorization for the devices. 
-FDA encourages manufacturers to communicate with device distributors, healthcare facilities, 
-healthcare providers, patients, and consumers, as appropriate, regarding their product disposition 
-to assist all stakeholders with transition planning.
-E.
-Quality System considerations 
-FDA recognizes that there may be situations that raise unique compliance considerations, 
-particularly regarding QS requirements. For example, non-traditional device manufacturers that 
-previously operated under different quality standards or requirements may face challenges that 
-take more time to address in transitioning to a system that fully complies with 21 CFR Part 820. 
-FDA intends to take such considerations into account when making case-by-case compliance and 
-enforcement decisions. Some manufacturers who intend to continue distributing their devices 
-after the EUA termination date may choose to request an exemption or variance from a device 
-QS requirement as outlined in 21 CFR 820.1(e) and section 520(f)(2) of the FD&C Act. Any 
-such exemption or variance should be requested within 90 days of publication of the advance 
-notice of termination of the EUA declaration pertaining to the device at issue to help ensure FDA 
-considers your request in time.
-F.
-Laboratory developed tests (LDTs)   
-For laboratory developed tests (LDTs)83 in general, FDA has generally exercised enforcement 
-discretion, meaning that FDA generally does not exercise its authority to enforce the regulatory 
-requirements for these devices, although it maintains that authority. FDA has not applied this 
-general enforcement discretion approach to, among other LDTs, those used for declared 
-emergencies under section 564 of the FD&C Act. As such, following termination of the EUA 
-80 For more information on FDA requests for additional information (i.e., deficiency letters) and how to respond, see 
-the guidance “Developing and Responding to Deficiencies in Accordance with the Least Burdensome Provisions,” 
-available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/developing-and-
-responding-deficiencies-accordance-least-burdensome-provisions.
-81 Certain EUAs include conditions of authorization for parties other than the manufacturer, such as healthcare 
-facilities or distributors.
-82 See section 564(e) of the FD&C Act.
-83 An LDT is a type of IVD that is designed, manufactured, and used within a single site laboratory certified under 
-CLIA that meets the requirements to perform tests of high complexity.
+## Footnotes
 
----
+[^7]: See the HHS “Fact Sheet: COVID-19 Public Health Emergency Transition Roadmap,” (February 9, 2023), available at https://www.hhs.gov/about/news/2023/02/09/fact-sheet-covid-19-public-health-emergency-transition- roadmap.html.
 
-<!-- Page 22 -->
-Contains Nonbinding Recommendations
-19
-declaration for COVID-19 IVDs,84 FDA intends to have the same enforcement approach for 
-COVID-19 LDTs as it does for other LDTs.
-VI. Examples 
-The following hypotheticals are intended to illustrate the transition policy outlined above. To 
-exemplify the timeline of the Transition Implementation Plan outlined in this section (Section 
-VI. of this guidance), for purposes of the examples, FDA set the hypothetical advance notice of 
-termination date for the EUA declaration pertaining to the device at issue as July 1 in Year 1, and 
-the EUA termination date as January 1 in Year 2. This date is not intended to propose an actual 
-advance notice of termination or EUA termination date; it is hypothetical and for illustrative 
-purposes only. Note that these generalized examples do not account for every possible detail, 
-risk, or consideration a manufacturer should evaluate or that may be relevant to FDA decisions 
-regarding a particular device.
-Example 1 
- 
-A single-use surgical mask that is intended for use in healthcare settings by healthcare personnel 
-as personal protective equipment to provide a physical barrier to fluids and particulate materials 
-was authorized for emergency use under an umbrella EUA for surgical masks.85 The 
-manufacturer does not intend to continue distributing the surgical mask after the EUA is no 
-longer in effect. 
- 
-On July 1, the advance notice of termination of the relevant EUA declaration is published. After 
-July 1, the manufacturer continues to distribute the surgical masks and continues to comply with 
-all conditions of authorization. 
- 
-On the EUA termination date (January 1), the relevant EUA declaration is terminated and the 
-umbrella EUA is no longer in effect. On January 1, the manufacturer ceases distribution of the 
-surgical mask. Before January 1, the manufacturer had recently sold surgical masks directly to 
-retailers and device distributors. Some of the surgical masks are in transit to these customers, and 
-others are being held in device distributors’ warehouses in the U.S.  
- 
-The policies included in this guidance relate to the following actions by the device manufacturer 
-and others:  
-· The surgical masks in transit or in device distributors’ warehouses remain distributed 
-(they were already distributed by the EUA termination date), and they are used by the end 
-user prior to their expiration date.  
-· If on January 1, some of the surgical masks are in the manufacturer’s possession, the 
-surgical masks in the manufacturer’s possession are not subsequently distributed (they 
-were not already distributed by the EUA termination date). 
-84 HHS declaration that circumstances exist justifying the authorization of emergency use of in vitro diagnostics for 
-detection and/or diagnosis of the SARS-CoV-2 virus that causes COVID-19 (issued February 4, 2020 (85 FR 7316) 
-and amended March 15, 2023 (88 FR 16644)).
-85 Available at https://www.fda.gov/medical-devices/coronavirus-disease-2019-covid-19-emergency-use-
-authorizations-medical-devices/personal-protective-equipment-euas#surgicalmasks.
+[^9]: Under sections 564(a)(2)(A) and 564(a)(4)(D) of the FD&C Act, an unapproved product is one that “is not approved, licensed, or cleared for commercial distribution under section 505, 510(k), 512, or 515 of [the FD&C] Act or section 351 of the [PHS] Act or conditionally approved under section 571 of [the FD&C] Act.”
 
----
+[^11]: For more information on FDA’s emergency use authorities under section 564 of the FD&C Act, see the guidance “Emergency Use Authorization of Medical Products and Related Authorities” (“EUA Guidance”), available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/emergency-use-authorization-medical- products-and-related-authorities.
 
-<!-- Page 23 -->
-Contains Nonbinding Recommendations
-20
-·
-The manufacturer does not update the labeling of the already distributed surgical masks 
-(they are single-use, non-life-supporting/non-life-sustaining devices). 
-·
-User exhaustion of already distributed surgical masks is described in Section V.C. of this 
-guidance. 
-·
-Even after the cessation of distribution, the manufacturer continues to submit any adverse 
-event reports of which it becomes aware to FDA consistent with 21 CFR Part 803.
-Example 2 
- 
-A continuous ventilator was authorized under the umbrella EUA for ventilators and ventilator 
-accessories86 to support patients who develop respiratory distress due to COVID-19. 
- 
-On July 1, the advance notice of termination of the relevant EUA declaration is published. 
-Before August 1, to help FDA plan for transition-related premarket review activities, the 
-manufacturer submits an “EUA report” to the CDRH Document Control Center with “Attention: 
-Notification of Intent” on the cover letter of the submission to inform FDA that it does not intend 
-to pursue marketing authorization. This EUA report includes the information outlined in Section 
-V.A. of this guidance, which includes the manufacturer’s plans to have already distributed 
-ventilators remain distributed. 
- 
-On the EUA termination date (January 1), the relevant EUA declaration is terminated and the 
-umbrella EUA is no longer in effect. On January 1, the manufacturer ceases distribution of the 
-ventilator. FDA does not intend to object if the manufacturer implements a plan (that was 
-included in the Notification of Intent) for the already distributed ventilators to remain distributed 
-(e.g., ventilators in device distributors’ warehouses), including ventilators in the possession of 
-end users (e.g., ventilators in healthcare facilities). As part of the plan, the manufacturer interacts 
-with affected stakeholders, such as healthcare facilities, to determine the stakeholders’ interest in 
-keeping distributed ventilators. The ventilator manufacturer updates the electronic labeling as 
-outlined in Section V.C. of this guidance, and emails a copy of the electronic labeling to affected 
-stakeholders that have expressed an interest in keeping the ventilators.  
- 
-The policies included in this guidance relate to the following actions by the device manufacturer 
-and others:  
-· The already distributed ventilators are not used.  
-· Should healthcare facilities wish to retain the ventilator that lacks FDA clearance, 
-approval, or authorization for use in the future, the future use of the device would be 
-subject to the regulatory requirements of any future authorization, including marketing 
-authorization or EUA.  
-· For governmental stockpilers that wish to retain a device that lacks requisite FDA 
-clearance, approval, or authorization for use in the future, FDA recommends engaging 
-with the Agency to discuss the public health need for future deployment and/or use of the 
-device in specific circumstances (e.g., regional natural disaster, localized disease 
-outbreaks).
-86 Available at https://www.fda.gov/medical-devices/coronavirus-disease-2019-covid-19-emergency-use-
-authorizations-medical-devices/ventilators-and-ventilator-accessories-euas.
+[^12]: See sections 564(f)-(g) of the FD&C Act.
 
----
+[^13]: For additional information on this topic, see FDA’s EUA Guidance, at p. 5, footnotes 12 and 15. EUAs related to COVID-19 remain in effect until the relevant EUA declaration under section
 
-<!-- Page 24 -->
-Contains Nonbinding Recommendations
-21
-·
-Even after the cessation of distribution, the manufacturer continues to submit any adverse 
-event reports of which it becomes aware to FDA consistent with 21 CFR Part 803.
-Example 3 
- 
-A non-traditional device manufacturer worked with a traditional device manufacturer (original 
-equipment manufacturer (OEM)) to produce, as a contract manufacturer, ventilators that were 
-designed by the traditional device manufacturer. Such devices were authorized under the 
-umbrella EUA for ventilators and ventilator accessories87 and distributed by the OEM during the 
-COVID-19 pandemic. 
- 
-On July 1, the advance notice of termination of the relevant EUA declaration is published. 
-Before August 1, to help FDA plan for transition-related premarket review activities, the OEM 
-submits an “EUA report” to the CDRH Document Control Center with “Attention: Notification 
-of Intent” on the cover letter of the submission to inform FDA that it intends to pursue marketing 
-authorization. This EUA report includes the information outlined in Section V.A. of this 
-guidance. 
- 
-On October 1, the OEM submits a marketing submission to FDA. In its marketing submission, 
-the OEM includes a “Transition Implementation Plan” for already distributed ventilators in the 
-case of a positive decision as well as in the case of a negative decision on the marketing 
-submission. On October 10, the marketing submission is determined to be administratively 
-incomplete because it is missing a test report for a biocompatibility endpoint; the marketing 
-submission is not accepted for review (an “RTA1 decision”). The OEM resolves the acceptance 
-review deficiency by including the missing test report for the biocompatibility endpoint and 
-resubmits the marketing submission on November 1. On November 8, the marketing submission 
-is accepted for substantive review. 
- 
-On the EUA termination date (January 1), the relevant EUA declaration is terminated and the 
-umbrella EUA is no longer in effect. The OEM has submitted a marketing submission and it was 
-accepted by FDA. Under these circumstances, FDA does not intend to object to the continued 
-distribution of the ventilators before FDA takes a final action on the marketing submission (see 
-Section V.B.(2) of this guidance). Additionally, the OEM has kept the device labeling as 
-described in the EUA-authorized device labeling. Under these circumstances, FDA does not 
-intend to object to the device labeling not complying with applicable labeling requirements (see 
-21 CFR Part 801) where the device continues to be labeled as previously authorized under the 
-EUA while the marketing submission is under FDA review (see Section V.B.(2) of this 
-guidance). 
- 
-In this scenario, in the course of FDA’s substantive review, FDA identifies a potential control 
-software issue that could result in patient harm. FDA issues a request for additional information 
-and informs the OEM that the marketing submission is being placed on hold pending receipt of a 
-response to the deficiency. The OEM updates its software, performs the appropriate testing, and 
-provides additional information and a response to the deficiency.
-87 Available at https://www.fda.gov/medical-devices/coronavirus-disease-2019-covid-19-emergency-use-
-authorizations-medical-devices/ventilators-and-ventilator-accessories-euas.
+[^14]: See sections 564(f)-(g) of the FD&C Act.
 
----
+[^15]: See the HHS “Fact Sheet: COVID-19 Public Health Emergency Transition Roadmap,” (February 9, 2023), available at https://www.hhs.gov/about/news/2023/02/09/fact-sheet-covid-19-public-health-emergency-transition- roadmap.html.
 
-<!-- Page 25 -->
-Contains Nonbinding Recommendations
-22
-On July 10, the OEM receives a positive decision as part of FDA’s final action on the marketing 
-submission. FDA and the OEM engage on the manufacturer’s Transition Implementation Plan to 
-address already distributed devices, which includes the manufacturer updating software for 
-already distributed ventilators and providing updated electronic labeling to the relevant 
-stakeholders in accordance with the FDA-cleared version of the ventilator. The OEM continues 
-to submit any adverse event reports of which it becomes aware to FDA consistent with 21 CFR 
-Part 803.
-Example 4 
- 
-A molecular diagnostic test kit manufactured by a commercial manufacturer was issued an 
-individual EUA for the qualitative detection of nucleic acid from SARS-CoV-2 in upper and 
-lower respiratory specimens in authorized laboratories.88 
- 
-On July 1, the advance notice of termination of the relevant EUA declaration is published. On 
-October 1, the manufacturer submits a marketing submission to FDA, which is accepted by the 
-Agency. In its marketing submission, the manufacturer includes a “Transition Implementation 
-Plan” for already distributed molecular diagnostic test kits in the case of a positive decision as 
-well as in the case of a negative decision on the marketing submission. 
-  
-On the EUA termination date (January 1), the relevant EUA declaration is terminated and the 
-EUA for the device is no longer in effect. The manufacturer has submitted a marketing 
-submission and it was accepted by FDA. Under these circumstances, FDA does not intend to 
-object to the continued distribution of the device before FDA takes a final action on the 
-marketing submission (see Section V.B.(2) of this guidance). Additionally, the manufacturer has 
-kept the device labeling as described in the EUA-authorized device labeling. Under these 
-circumstances, FDA does not intend to object to the device labeling not complying with 
-applicable labeling requirements (see 21 CFR Part 801) where the device continues to be labeled 
-as previously authorized under the EUA while the marketing submission is under FDA review 
-(see Section V.B.(2) of this guidance). 
- 
-a) Positive Decision 
-In this scenario, the manufacturer receives a positive decision on February 20, as part of FDA’s 
-final action on the marketing submission. FDA and the manufacturer engage on the 
-manufacturer’s Transition Implementation Plan to address already distributed devices. The 
-manufacturer does not update the device labeling for already distributed devices (these devices 
-are single-use, non-life-supporting/non-life-sustaining devices); however, the manufacturer 
-updates the device labeling for devices that are in production and those in its possession in 
-accordance with the FDA-cleared version of the molecular diagnostic test kit. No outstanding 
-issues were identified during FDA review that would result in a correction or removal of the
-molecular diagnostic test kits that were already distributed. The manufacturer continues to 
-88 Available at https://www.fda.gov/medical-devices/coronavirus-disease-2019-covid-19-emergency-use-
-authorizations-medical-devices/in-vitro-diagnostics-euas-molecular-diagnostic-tests-sars-cov-2#individual-
-molecular.
+[^19]: See footnote 10.
 
----
+[^20]: See section 564(b)(2)(A) of the FD&C Act.
 
-<!-- Page 26 -->
-Contains Nonbinding Recommendations
-23
-submit any adverse event reports of which it becomes aware to FDA consistent with 21 CFR Part 
-803.
-b) Negative Decision 
-In this scenario, the manufacturer receives a negative decision on March 1, as part of FDA’s final 
-action on the marketing submission. FDA and the manufacturer engage on the manufacturer’s 
-Transition Implementation Plan to address already distributed devices. During FDA’s 
-substantive review, FDA found that specific lots of the molecular diagnostic test kit had a high 
-number of false positive reports, which may lead to a delay in both the correct diagnosis and 
-treatment for the actual cause of a person’s illness. The manufacturer issues a voluntary recall for 
-the affected lots of the molecular diagnostic test kit by informing relevant stakeholders to dispose 
-of the affected lots. 
-The policies included in this guidance relate to the following actions by the device manufacturer 
-and others:
-·
-For unaffected lots of the molecular diagnostic test kit that are not subject to the recall 
-and are already distributed, the devices remain distributed with device distributors and 
-retail sellers who have already purchased the devices so that they may be used prior to the 
-product expiration date. 
-·
-The manufacturer has a small number of unaffected lots of the molecular diagnostic test 
-kit that are not subject to the recall in its possession; the manufacturer does not distribute 
-these devices.
-·
-The manufacturer does not update the device labeling of already distributed devices 
-(these devices are single-use, non-life-supporting/non-life-sustaining devices); however, 
-the manufacturer does communicate publicly about the recall about the affected lots of 
-the molecular diagnostic test kit. 
-·
-Even after the cessation of distribution, the manufacturer continues to submit any adverse 
-event reports of which it becomes aware to FDA consistent with 21 CFR Part 803.
+[^22]: See section 564(e) of the FD&C Act.
+
+[^23]: See section 564(h)(1) of the FD&C Act.
+
+[^24]: See footnote 10. ·
+
+[^25]: See section 1003(b) of the FD&C Act.
+
+[^29]: See sections 564(f)-(g) of the FD&C Act.
+
+[^30]: 21 CFR 7.45(a) states that FDA “may request a firm to initiate a recall when the following determinations have been made: (1) That a product that has been distributed presents a risk of illness or injury or gross consumer deception. (2) That the firm has not initiated a recall of the product. (3) That an agency action is necessary to protect the public health and welfare.” submissions),31 manufacturers’ actions if they do not wish to continue distributing their product after the EUA termination date, and the distribution of devices within the scope of this guidance.
+
+[^32]: See 21 CFR 820.3(l).
+
+[^33]: See 21 CFR 807.3(b) (defining “commercial distribution”).
+
+[^35]: See section 564(e) of the FD&C Act.
+
+[^36]: Available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/requests-feedback-and- meetings-medical-device-submissions-q-submission-program.
+
+[^40]: For more information regarding FDA’s acceptance policies for marketing submissions, see the guidances “Refuse to Accept Policy for 510(k)s,” available at https://www.fda.gov/regulatory-information/search-fda-guidance- documents/refuse-accept-policy-510ks, “Acceptance and Filing Reviews for Premarket Approval Applications (PMAs),” available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/acceptance-and- filing-reviews-premarket-approval-applications-pmas, and “Acceptance Review for De Novo Classification
+
+[^41]: See footnote 40.
+
+[^48]: 21 CFR 7.45(a) states that FDA “may request a firm to initiate a recall when the following determinations have been made: (1) That a product that has been distributed presents a risk of illness or injury or gross consumer deception. (2) That the firm has not initiated a recall of the product. (3) That an agency action is necessary to protect the public health and welfare.”
+
+[^54]: For more information regarding FDA regulatory requirements for a specific device and FDA policies related to those requirements, manufacturers can use the FDA Guidance Search Tool to identify relevant guidances (https://www.fda.gov/regulatory-information/search-fda-guidance-documents/). Following the EUA termination date, FDA will look to any other applicable compliance policies and otherwise apply our general risk-based approach in making compliance and enforcement decisions. For more information, see the guidance “Factors to
+
+[^55]: See sections 564(f)-(g) of the FD&C Act.
+
+[^56]: 21 CFR 7.45(a) states that FDA “may request a firm to initiate a recall when the following determinations have been made: (1) That a product that has been distributed presents a risk of illness or injury or gross consumer deception. (2) That the firm has not initiated a recall of the product. (3) That an agency action is necessary to protect the public health and welfare.”
+
+[^60]: 42 U.S.C. 263a.
+
+[^61]: See section 564(m)(3) of the FD&C Act.
+
+[^62]: See the FDA website for additional information on CLIA categorizations and FDA’s process, available at https://www.fda.gov/medical-devices/ivd-regulatory-assistance/clia-categorizations.
+
+[^64]: Available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/recommendations-dual- 510k-and-clia-waiver-application-studies.
+
+[^71]: For example, an FDA-cleared or -approved version may include an earlier software version, component replacement, or different labeling that removes information related to the use of the device under the EUA.
+
+[^73]: See footnote 70.
+
+[^74]: See footnote 71.
+
+[^75]: See footnote 72.
+
+[^80]: For more information on FDA requests for additional information (i.e., deficiency letters) and how to respond, see the guidance “Developing and Responding to Deficiencies in Accordance with the Least Burdensome Provisions,” available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/developing-and- responding-deficiencies-accordance-least-burdensome-provisions.
+
+[^82]: See section 564(e) of the FD&C Act.
+
+[^85]: Available at https://www.fda.gov/medical-devices/coronavirus-disease-2019-covid-19-emergency-use- authorizations-medical-devices/personal-protective-equipment-euas#surgicalmasks. ·
+
+[^86]: Available at https://www.fda.gov/medical-devices/coronavirus-disease-2019-covid-19-emergency-use- authorizations-medical-devices/ventilators-and-ventilator-accessories-euas. ·
+
+[^87]: Available at https://www.fda.gov/medical-devices/coronavirus-disease-2019-covid-19-emergency-use- authorizations-medical-devices/ventilators-and-ventilator-accessories-euas.
+
+[^88]: Available at https://www.fda.gov/medical-devices/coronavirus-disease-2019-covid-19-emergency-use- authorizations-medical-devices/in-vitro-diagnostics-euas-molecular-diagnostic-tests-sars-cov-2#individual- molecular. submit any adverse event reports of which it becomes aware to FDA consistent with 21 CFR Part
 
 <!-- fulltext-end -->

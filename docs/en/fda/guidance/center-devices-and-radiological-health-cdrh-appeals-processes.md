@@ -25,972 +25,237 @@ PDF: [https://www.fda.gov/media/128444/download](https://www.fda.gov/media/12844
 
 ## Official Full Text
 
-<!-- Page 1 -->
-Section 3308 of The Food and Drug Omnibus Reform Act of 2022 (FDORA) enacted as part of 
-the Consolidated Appropriations Act, 2023 (December 29, 2022) amended section 517A(a)(1) of 
-the Federal Food, Drug, and Cosmetic Act. This guidance was developed and issued prior to the 
-enactment of FDORA, and certain sections of this guidance may no longer be current as a result. 
-As amended, section 517A(a)(1) no longer includes Breakthrough Device Designation Requests. 
-For more information, please contact the CDRH Ombudsman at 
-CDRHOmbudsman@fda.hhs.gov .
+Section 3308 of The Food and Drug Omnibus Reform Act of 2022 (FDORA) enacted as part of the Consolidated Appropriations Act, 2023 (December 29, 2022) amended section 517A(a)(1) of the Federal Food, Drug, and Cosmetic Act. This guidance was developed and issued prior to the enactment of FDORA, and certain sections of this guidance may no longer be current as a result.
+As amended, section 517A(a)(1) no longer includes Breakthrough Device Designation Requests.
+For more information, please contact the CDRH Ombudsman at CDRHOmbudsman@fda.hhs.gov .
 
----
 
-<!-- Page 2 -->
-Contains Nonbinding Recommendations
-1
-Center for Devices and 
-Radiological Health (CDRH) 
+Center for Devices and Radiological Health (CDRH)
 Appeals Processes
-Guidance for Industry and Food 
-and Drug Administration Staff
-Document issued on March 2, 2022.
-Document originally issued on February 1998.
-This document supersedes “Medical Device Appeals and Complaints: Guidance for 
-Dispute Resolution” issued in February 1998, “Resolving Scientific Disputes 
-Concerning the Regulation of Medical Devices, A Guide to Use of the Medical Devices 
-Dispute Resolution Panel – Final Guidance for Industry and FDA” issued in July 2001, 
-“Center for Devices and Radiological Health Appeals Processes – Guidance for 
-Industry and Food and Drug Administration Staff” issued on May 17, 2013, revised 
-August 1, 2019.
-For questions regarding this document, contact the CDRH Ombudsman at 301-796-5699 or 
-CDRHOmbudsman@fda.hhs.gov.
-The OMB control number for this information collection is 0910-0738 (expires 08/31/2022).
-U.S. Department of Health and Human Services
-Food and Drug Administration
-Center for Devices and Radiological Health
 
----
-
-<!-- Page 3 -->
-Contains Nonbinding Recommendations
-Preface
-Public Comment
-You may submit electronic comments and suggestions at any time for Agency consideration to 
-https://www.regulations.gov. Submit written comments to the Dockets Management Staff, 
-Food and Drug Administration, 5630 Fishers Lane, Room 1061, (HFA-305), Rockville, MD 
-20852. 
-Identify all comments with the docket number FDA-2011-D-0893. Comments may not be 
-acted upon by the Agency until the document is next revised or updated.
-Additional Copies
-Additional copies are available from the internet.  You may also send an e-mail request to 
-CDRH-Guidance@fda.hhs.gov to receive a copy of the guidance.  Please include the document 
-number 1742-R2 and complete title of the guidance in the request.
-
----
-
-<!-- Page 4 -->
-Contains Nonbinding Recommendations
-Table of Contents
-I.  Introduction ........................................................................................................................................................ 1
-A.  General Considerations ................................................................................................................................. 3
-(1)  Supervisory Review (Appeal) Hierarchy ............................................................................................. 3
-(2)  Telescoped Review ................................................................................................................................. 4
-(3)  New Information .................................................................................................................................... 4
-(4)  Parallel Review ....................................................................................................................................... 5
-(5)  Bias and Retaliation ............................................................................................................................... 5
-B.  Process for Requesting Supervisory Review (Appeal) ................................................................................. 6
-C.   Review Meeting or Teleconference ............................................................................................................. 7
-D.  External Expertise ......................................................................................................................................... 7
-E.  Format ........................................................................................................................................................... 8
-F.  Review Conclusion ....................................................................................................................................... 9
-III.  The Medical Devices Dispute Resolution Panel .............................................................................................. 9
-A.  Background ................................................................................................................................................... 9
-B.  Panel Composition ...................................................................................................................................... 10
-C.  Filing a Request .......................................................................................................................................... 11
-D.  Eligibility Review ....................................................................................................................................... 11
-E.  Dispute Resolution Panel Process ............................................................................................................... 12
-IV.  Petitions ......................................................................................................................................................... 12
-A.  Petitions under Section 515 of the FD&C Act ............................................................................................ 13
-B.  Citizen Petition (21 CFR 10.30) ................................................................................................................. 14
-C.  Petition for Administrative Reconsideration of Action (21 CFR 10.33) ..................................................... 14
-D.  Petition for Administrative Stay of Action (21 CFR 10.35) ....................................................................... 15
-E.   Request for Reconsideration of Adverse Decisions on  Mammography Facility 
-Accreditation/Certification (21 CFR Part 900, Subpart B) ............................................................................... 16
-V.  Hearings .......................................................................................................................................................... 16
-A.  Formal Evidentiary Public Hearing (21 CFR Part 12) ................................................................................ 16
-B.  Public Hearing Before A Board of Inquiry (21 CFR Part 13) ..................................................................... 17
-C.  Public Hearing Before A Public Advisory Committee (21 CFR Part 14) ................................................... 17
-D.  Public Hearing Before the FDA Commissioner (21 CFR Part 15) ............................................................. 18
-E.  Regulatory Hearing Before the FDA  (21 CFR Part 16) ............................................................................. 18
-VI.  Judicial Review ............................................................................................................................................. 19
-VII.  Paperwork Reduction Act of 1995 ............................................................................................................... 20
-
----
-
-<!-- Page 5 -->
-Contains Nonbinding Recommendations
-1
-Center for Devices and Radiological Health 
-(CDRH) Appeals Processes 
-Guidance for Industry and Food and Drug 
-Administration Staff 
-This guidance represents the Food and Drug Administration's (FDA's) current thinking 
-on this topic.  It does not establish any rights for any person and is not binding on FDA or 
-the public. You can use an alternative approach if it satisfies the requirements of the 
-applicable statutes and regulations. To discuss an alternative approach, contact the FDA 
-staff or Office responsible for this guidance as listed on the title page.
-I.  Introduction 
-This guidance document describes the processes available to outside stakeholders to request 
-additional review of decisions or actions by Center for Devices and Radiological Health 
-(CDRH or the Center) employees.  
-Individuals outside of the Food and Drug Administration (FDA), who disagree with a 
-decision or action taken by CDRH and wish to have it reviewed or reconsidered have several 
-processes for resolution from which to choose, including: Requests for supervisory review of 
-an action; petitions; and hearings.1  These processes are broadly described in statutes and 
-regulations which pertain to FDA.  This document provides general information about each 
-process, as well as guidance on how to submit related requests to CDRH and FDA.
-Keep in mind as you read over this material that for any situation, multiple processes for 
-resolution may be available.  It is up to the party seeking review of an adverse decision or 
-resolution of a difference of opinion to determine the appropriate process for a given 
-circumstance or issue.
-The most effective means of resolving a dispute between the Center and an external 
-stakeholder is through discussion and agreement prior to the regulatory decision. The CDRH 
-Ombudsman is available to assist in clarifying issues, mediating meetings and 
-teleconferences, and conducting discussions with the parties in an effort to resolve 
-disagreements before a formal request for review. Before contacting the Ombudsman, a 
-stakeholder should have made reasonable efforts to discuss the decision or action in dispute 
-with the individual charged with managing the matter at issue. If such attempt at resolution is 
-1 Requests for Supervisory Review of an action under section 517A of the FD&C Act; 21 CFR 10.75 and 
-800.75; Citizen Petitions under 21 CFR 10:30; and Requests for a hearing under 21 CFRs parts 12-16.
-
----
-
-<!-- Page 6 -->
-Contains Nonbinding Recommendations
-2
-unsatisfactory, it may be necessary or helpful for the relevant members of management to be 
-brought into the discussion. The general expectation is that the stakeholder will follow an 
-orderly progression of interaction with Center employees followed by outreach to relevant 
-members of management and then engagement with the CDRH Ombudsman, prior to filing a 
-formal request for review. However, a stakeholder may file a request for review at any time 
-that is permissible under applicable statutory and regulatory provisions. Additional 
-information about the appeals process is described in the companion guidance entitled, 
-“Center for Devices and Radiological Health (CDRH) Appeals Processes: Questions and 
+## I. Introduction
+This guidance document describes the processes available to outside stakeholders to request additional review of decisions or actions by Center for Devices and Radiological Health (CDRH or the Center) employees.
+Individuals outside of the Food and Drug Administration (FDA), who disagree with a decision or action taken by CDRH and wish to have it reviewed or reconsidered have several processes for resolution from which to choose, including: Requests for supervisory review of an action; petitions; and hearings.1  These processes are broadly described in statutes and regulations which pertain to FDA.  This document provides general information about each process, as well as guidance on how to submit related requests to CDRH and FDA.
+Keep in mind as you read over this material that for any situation, multiple processes for resolution may be available.  It is up to the party seeking review of an adverse decision or resolution of a difference of opinion to determine the appropriate process for a given circumstance or issue.
+The most effective means of resolving a dispute between the Center and an external stakeholder is through discussion and agreement prior to the regulatory decision. The CDRH
+Ombudsman is available to assist in clarifying issues, mediating meetings and teleconferences, and conducting discussions with the parties in an effort to resolve disagreements before a formal request for review. Before contacting the Ombudsman, a stakeholder should have made reasonable efforts to discuss the decision or action in dispute with the individual charged with managing the matter at issue. If such attempt at resolution is 1 Requests for Supervisory Review of an action under section 517A of the FD&C Act; 21 CFR 10.75 and 800.75; Citizen Petitions under 21 CFR 10:30; and Requests for a hearing under 21 CFRs parts 12-16.
+unsatisfactory, it may be necessary or helpful for the relevant members of management to be brought into the discussion. The general expectation is that the stakeholder will follow an orderly progression of interaction with Center employees followed by outreach to relevant members of management and then engagement with the CDRH Ombudsman, prior to filing a formal request for review. However, a stakeholder may file a request for review at any time that is permissible under applicable statutory and regulatory provisions. Additional information about the appeals process is described in the companion guidance entitled, “Center for Devices and Radiological Health (CDRH) Appeals Processes: Questions and
 Answers About 517A – Guidance for Industry and Food and Drug Administration Staff.”2
-The contents of this document do not have the force and effect of law and are not meant to 
-bind the public in any way, unless specifically incorporated into a contract. This document is 
-intended only to provide clarity to the public regarding existing requirements under the law. 
-FDA guidance documents, including this guidance, should be viewed only as 
-recommendations, unless specific regulatory or statutory requirements are cited.  The use of 
-the word should in Agency guidance means that something is suggested or recommended, 
-but not required. 
-II.  Requests for Supervisory Review (Appeals) under 21
+The contents of this document do not have the force and effect of law and are not meant to bind the public in any way, unless specifically incorporated into a contract. This document is intended only to provide clarity to the public regarding existing requirements under the law.
+FDA guidance documents, including this guidance, should be viewed only as recommendations, unless specific regulatory or statutory requirements are cited.  The use of the word should in Agency guidance means that something is suggested or recommended, but not required.
+## II. Requests for Supervisory Review (Appeals) under 21
       CFR 10.75
-As mentioned earlier, the most effective means for resolving disputes is through discussion 
-and mediation. If these approaches fail to resolve the disagreement, or if an adverse 
-regulatory action is taken, there are several mechanisms available to stakeholders, including 
-hearings, petitions, and requests for supervisory review (appeals). Each of these mechanisms 
-is described in this document. Of these, by far the most commonly used is a request for an 
-appeal. The relevant regulations are provided in 21 CFR 10.75, generally for FDA, and 21 
-CFR 800.75, specifically for CDRH. 
-This section contains guidelines for filing a 10.75 appeal and provides a general description 
-of the review process. Internal agency review is usually the quickest and most efficient 
-means of formally resolving a dispute relating to a CDRH decision.  Through this process, 
-the supervisor of a Center employee will, at the request of an interested or aggrieved party, 
-review a decision or action of the employee and issue a decision.  The decision rendered by 
-the supervisor, acting as the review authority, customarily takes one of the following forms:  
-overturning the decision of the employee; upholding the employee decision; or, in some 
-circumstances, referring the matter back to the employee for reconsideration under defined 
-conditions. An opportunity may also arise for the review authority to mediate an agreement 
-between the submitter and the employee while the review is in progress, which can be a 
-means for expediting the resolution of the issues in dispute.
-2 Center for Devices and Radiological Health (CDRH) Appeals Processes: Questions and Answers About 517A 
-– Guidance for Industry and Food and Drug Administration Staff,” available at: 
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/center-devices-and-radiological-
-health-appeals-processes-questions-and-answers-about-517a
-
----
-
-<!-- Page 7 -->
-Contains Nonbinding Recommendations
-3
-Section 517A of the Federal Food, Drug, and Cosmetic Act (FD&C Act),3 includes 
-requirements pertaining to the process and timelines for 10.75 requests for appeal of 
-“significant decisions.” In this guidance, we refer to “significant decisions”, as set forth in 
-section 517A of the FD&C Act, made by CDRH as “517A decisions.” 517A decisions 
-include: 
-·
-510(k) (Premarket Notification): Not Substantially Equivalent; Substantially 
-Equivalent;
-·
-PMA/HDE (Premarket Approval / Humanitarian Device Exemption): Not 
-Approvable; Approvable; Approval; Denial;
-·
-Breakthrough Device Designation Request (request for breakthrough 
-designation for devices subject to 510(k), PMA, or De Novo classification): 
-Grant; Denial of request for breakthrough designation;
-·
-IDE (Investigational Device Exemption): Disapproval; Approval;
-·
-Failure to Reach Agreement on a Protocol under Section 520(g)(7) of the 
-FD&C Act; and
-·
+As mentioned earlier, the most effective means for resolving disputes is through discussion and mediation. If these approaches fail to resolve the disagreement, or if an adverse regulatory action is taken, there are several mechanisms available to stakeholders, including hearings, petitions, and requests for supervisory review (appeals). Each of these mechanisms is described in this document. Of these, by far the most commonly used is a request for an appeal. The relevant regulations are provided in 21 CFR 10.75, generally for FDA, and 21 CFR 800.75, specifically for CDRH.
+This section contains guidelines for filing a 10.75 appeal and provides a general description of the review process. Internal agency review is usually the quickest and most efficient means of formally resolving a dispute relating to a CDRH decision.  Through this process, the supervisor of a Center employee will, at the request of an interested or aggrieved party, review a decision or action of the employee and issue a decision.  The decision rendered by the supervisor, acting as the review authority, customarily takes one of the following forms: overturning the decision of the employee; upholding the employee decision; or, in some circumstances, referring the matter back to the employee for reconsideration under defined conditions. An opportunity may also arise for the review authority to mediate an agreement between the submitter and the employee while the review is in progress, which can be a means for expediting the resolution of the issues in dispute.
+2 Center for Devices and Radiological Health (CDRH) Appeals Processes: Questions and Answers About 517A – Guidance for Industry and Food and Drug Administration Staff,” available at: https://www.fda.gov/regulatory-information/search-fda-guidance-documents/center-devices-and-radiologicalhealth-appeals-processes-questions-and-answers-about-517a
+Section 517A of the Federal Food, Drug, and Cosmetic Act (FD&C Act),3 includes requirements pertaining to the process and timelines for 10.75 requests for appeal of “significant decisions.” In this guidance, we refer to “significant decisions”, as set forth in section 517A of the FD&C Act, made by CDRH as “517A decisions.” 517A decisions include: ·
+510(k) (Premarket Notification): Not Substantially Equivalent; Substantially Equivalent; · PMA/HDE (Premarket Approval / Humanitarian Device Exemption): Not Approvable; Approvable; Approval; Denial; - Breakthrough Device Designation Request (request for breakthrough designation for devices subject to 510(k), PMA, or De Novo classification): Grant; Denial of request for breakthrough designation; · IDE (Investigational Device Exemption): Disapproval; Approval; - Failure to Reach Agreement on a Protocol under Section 520(g)(7) of the FD&C Act; and ·
 “Clinical Hold” Determinations under Section 520(g)(8) of the FD&C Act.
-In this guidance document, the term “significant decision” refers to significant decisions 
-pertaining to 21 CFR 10.75 appeals regarding 510(k)s, applications for PMAs, and 
-applications for IDEs. 517A decisions must comply with the requirements in 21 CFR 
-800.75(b)(1) in addition to 21 CFR 10.75.  For devices reviewed by CDRH, 10.75 appeals of 
-decisions other than 517A decisions must comply with the requirements in 21 CFR 
-800.75(b)(2) in addition to 21 CFR 10.75.  FDA provides further guidance on 517A and 21 
-CFR 800.75 in a companion guidance document entitled “Center for Devices and 
-Radiological Health (CDRH) Appeals Processes: Questions and Answers about 517A – 
+In this guidance document, the term “significant decision” refers to significant decisions pertaining to 21 CFR 10.75 appeals regarding 510(k)s, applications for PMAs, and applications for IDEs. 517A decisions must comply with the requirements in 21 CFR 800.75(b)(1) in addition to 21 CFR 10.75.  For devices reviewed by CDRH, 10.75 appeals of decisions other than 517A decisions must comply with the requirements in 21 CFR 800.75(b)(2) in addition to 21 CFR 10.75.  FDA provides further guidance on 517A and 21 CFR 800.75 in a companion guidance document entitled “Center for Devices and
+Radiological Health (CDRH) Appeals Processes: Questions and Answers about 517A –
 Guidance for Industry and Food and Drug Administration Staff.”4
-A.  General Considerations
-(1)  Supervisory Review (Appeal) Hierarchy
-A request for an appeal should be directed to the next organizational level above the level at 
-which the decision was made. Therefore, it is important to be aware of the signatory of the
-3 Section 517A of the FD&C Act was added by section 603 of the FDA Safety and Innovation Act (FDASIA) of 
-2012, and subsequently amended by sections 3051 and 3058 of the 21st Century Cures Act of 2016. 
-4 Center for Devices and Radiological Health (CDRH) Appeals Processes: Questions and Answers About 517A 
-– Guidance for Industry and Food and Drug Administration Staff,” available at: 
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/center-devices-and-radiological-
-health-appeals-processes-questions-and-answers-about-517a
-
----
-
-<!-- Page 8 -->
-Contains Nonbinding Recommendations
-4
-decision under dispute so that the request can be directed to the appropriate review authority. 
-The organizational hierarchy varies across the Center, but in general the order is Division of 
-Health Technology (DHT) → Office of Health Technology (OHT) → Office of Product 
-Evaluation and Quality (OPEQ) → Center → Commissioner.  For example, a Not 
-Substantially Equivalent (NSE) decision for a 510(k) submission typically is signed by a 
-DHT Division Director, so a request for an appeal would be directed to the relevant OHT 
-Office Director.  Note that the review authority may designate their authority to another 
-supervisor with the appropriate decision-making authority. 
-Decisions rendered at the Center level may be further appealed to the Commissioner’s 
-Office. A request for review by the Commissioner’s Office of a decision made at the Center 
-level generally takes the form of a petition or appeal under 21 CFR Part 10 as described 
-elsewhere in this document. As a matter of general practice, the Agency expects that 
-available options for review up to the Center Director, such as under 21 CFR 10.75, will have 
-been exhausted before a petition is filed with the Commissioner, although in certain cases 
-time frames for preserving an appeal might mandate filing of an appeal to the Commissioner 
-before exhaustion of Center-level review remedies.5 However, nothing in this guidance 
-should be construed as constraining the ability of a stakeholder to exercise options for appeal 
-or petition at any time that is permissible under applicable statutory and regulatory 
-provisions.
+### A. General Considerations (1) Supervisory Review (Appeal) Hierarchy
+A request for an appeal should be directed to the next organizational level above the level at which the decision was made. Therefore, it is important to be aware of the signatory of the 3 Section 517A of the FD&C Act was added by section 603 of the FDA Safety and Innovation Act (FDASIA) of 2012, and subsequently amended by sections 3051 and 3058 of the 21st Century Cures Act of 2016.
+4 Center for Devices and Radiological Health (CDRH) Appeals Processes: Questions and Answers About 517A – Guidance for Industry and Food and Drug Administration Staff,” available at: https://www.fda.gov/regulatory-information/search-fda-guidance-documents/center-devices-and-radiologicalhealth-appeals-processes-questions-and-answers-about-517a decision under dispute so that the request can be directed to the appropriate review authority.
+The organizational hierarchy varies across the Center, but in general the order is Division of
+Health Technology (DHT) → Office of Health Technology (OHT) → Office of Product
+Evaluation and Quality (OPEQ) → Center → Commissioner.  For example, a Not
+Substantially Equivalent (NSE) decision for a 510(k) submission typically is signed by a DHT Division Director, so a request for an appeal would be directed to the relevant OHT
+Office Director.  Note that the review authority may designate their authority to another supervisor with the appropriate decision-making authority.
+Decisions rendered at the Center level may be further appealed to the Commissioner’s Office. A request for review by the Commissioner’s Office of a decision made at the Center level generally takes the form of a petition or appeal under 21 CFR Part 10 as described elsewhere in this document. As a matter of general practice, the Agency expects that available options for review up to the Center Director, such as under 21 CFR 10.75, will have been exhausted before a petition is filed with the Commissioner, although in certain cases time frames for preserving an appeal might mandate filing of an appeal to the Commissioner before exhaustion of Center-level review remedies.5 However, nothing in this guidance should be construed as constraining the ability of a stakeholder to exercise options for appeal or petition at any time that is permissible under applicable statutory and regulatory provisions.
 (2)  Telescoped Review6
-In some situations, a supervisor considering a request for review may wish to engage in 
-substantive discussions with individuals at a higher organizational level, such as his/her own 
-supervisor, or others further up the supervisory chain.  This may occur, for example, in 
-matters pertaining to regulatory issues, new policy questions, or highly complex scientific 
-questions. Engagement of a next-level supervisor in a matter under dispute does not 
-necessarily disqualify the next-level supervisor from hearing the dispute on appeal; however, 
-elevation of a dispute may be appropriate if the next-level supervisor has been significantly 
-and substantively involved in the regulatory action under review. Certain circumstances may 
-also warrant referral of the review directly to the next-level supervisor, up to and including 
-the Center Director.  For example, circumstances such as imminent risk to public health may 
-warrant elevation of a Division-level appeal directly to the Center Director. A stakeholder 
-wishing to elevate a dispute should indicate a request for telescoped review with an 
-accompanying rationale. The decision to collapse two or more levels of review or to elevate a 
-review is made solely at the Center’s discretion.
+In some situations, a supervisor considering a request for review may wish to engage in substantive discussions with individuals at a higher organizational level, such as his/her own supervisor, or others further up the supervisory chain.  This may occur, for example, in matters pertaining to regulatory issues, new policy questions, or highly complex scientific questions. Engagement of a next-level supervisor in a matter under dispute does not necessarily disqualify the next-level supervisor from hearing the dispute on appeal; however, elevation of a dispute may be appropriate if the next-level supervisor has been significantly and substantively involved in the regulatory action under review. Certain circumstances may also warrant referral of the review directly to the next-level supervisor, up to and including the Center Director.  For example, circumstances such as imminent risk to public health may warrant elevation of a Division-level appeal directly to the Center Director. A stakeholder wishing to elevate a dispute should indicate a request for telescoped review with an accompanying rationale. The decision to collapse two or more levels of review or to elevate a review is made solely at the Center’s discretion.
 (3)  New Information
-A request for review under 21 CFR 10.75 should be based on the information that was 
-already present in the administrative file at the time of the decision that is being reviewed, as 
-5 For example, a sponsor of a PMA that has been disapproved may file a petition for review of such denial on or 
-before the thirtieth day after receipt of the notice of denial. See section 515(d)(4) of the FD&C Act.
-6 “Internal Agency Review of Decisions; Requests for Supervisory Review of Certain Decisions Made by the 
+A request for review under 21 CFR 10.75 should be based on the information that was already present in the administrative file at the time of the decision that is being reviewed, as 6 “Internal Agency Review of Decisions; Requests for Supervisory Review of Certain Decisions Made by the
 Center for Devices and Radiological Health” Final Rule (84 FR 31471) (July 2, 2019).
-
----
-
-<!-- Page 9 -->
-Contains Nonbinding Recommendations
-5
-provided in 21 CFR 10.75(d). A submitter can add graphs, simple analyses, or other minor 
-clarifications as part of the request and should clearly identify the information as new and 
-minor, and the review authority may request such information from either the submitter or 
-from CDRH employees involved in the decision that is being reviewed. If the request as 
-submitted contains new information such as additional data that has not been previously 
-reviewed, or substantially different analyses of existing data, then the matter will generally 
-be referred back to the original level for reconsideration; however, the review authority may, 
-at his or her discretion, allow the introduction of new information in the interest of expediting 
-a decision or reaching an agreement between the stakeholder and the Center.  
+provided in 21 CFR 10.75(d). A submitter can add graphs, simple analyses, or other minor clarifications as part of the request and should clearly identify the information as new and minor, and the review authority may request such information from either the submitter or from CDRH employees involved in the decision that is being reviewed. If the request as submitted contains new information such as additional data that has not been previously reviewed, or substantially different analyses of existing data, then the matter will generally be referred back to the original level for reconsideration; however, the review authority may, at his or her discretion, allow the introduction of new information in the interest of expediting a decision or reaching an agreement between the stakeholder and the Center.
 (4)  Parallel Review
-In some circumstances, a company with a request for appeal pending with the Center may 
-wish to engage in a discussion with the review team with the goal of resolving the issues 
-under dispute before the appeal process is completed. Alternatively, a company requesting 
-review of a final regulatory decision on a marketing application may submit a new 
-application while the appeal of the previous decision is pending. These circumstances are 
-sometimes called “parallel review.” Because of the resources required to support the 
-duplication of effort and because of the potential for confusion in reviewing a decision that is 
-still under discussion and may be modified the Center prefers only one path be pursued. 
-Generally, the Center will contact the company to ask which alternative it prefers. A 
-company with a pending request for appeal should refrain from direct communication with 
-the review team while the request is being considered; alternatively, if a company has filed a 
-request for appeal and subsequently wishes to engage in a discussion with the review team in 
-an effort to resolve the dispute, then the request should be withdrawn without prejudice.
-In addition, because the filing of a request under 21 CFR 10.75 does not stay other 
-administrative or enforcement actions by the agency,7 the matter that is the subject of the 
-appeal request may also be under review in other administrative proceedings, such as a Part 
-16 hearing described in Section 5.5 of this document, or even a Civil Money Penalty 
-proceeding.  Similarly, an interested person may seek other forms of review during the 
-pendency of a request under 21 CFR 10.75, such as reconsideration by the Commissioner 
-under 21 CFR 10.33.  However, the Center will generally decline to consider a request for 
-appeal under 21 CFR 10.75 that involves a matter that is under active review by the Office of 
-the Commissioner.
+In some circumstances, a company with a request for appeal pending with the Center may wish to engage in a discussion with the review team with the goal of resolving the issues under dispute before the appeal process is completed. Alternatively, a company requesting review of a final regulatory decision on a marketing application may submit a new application while the appeal of the previous decision is pending. These circumstances are sometimes called “parallel review.” Because of the resources required to support the duplication of effort and because of the potential for confusion in reviewing a decision that is still under discussion and may be modified the Center prefers only one path be pursued.
+Generally, the Center will contact the company to ask which alternative it prefers. A company with a pending request for appeal should refrain from direct communication with the review team while the request is being considered; alternatively, if a company has filed a request for appeal and subsequently wishes to engage in a discussion with the review team in an effort to resolve the dispute, then the request should be withdrawn without prejudice.
+In addition, because the filing of a request under 21 CFR 10.75 does not stay other administrative or enforcement actions by the agency,7 the matter that is the subject of the appeal request may also be under review in other administrative proceedings, such as a Part 16 hearing described in Section 5.5 of this document, or even a Civil Money Penalty proceeding.  Similarly, an interested person may seek other forms of review during the pendency of a request under 21 CFR 10.75, such as reconsideration by the Commissioner under 21 CFR 10.33.  However, the Center will generally decline to consider a request for appeal under 21 CFR 10.75 that involves a matter that is under active review by the Office of the Commissioner.
 (5)  Bias and Retaliation
-Handling an appeal or reconsideration of a matter in dispute is a routine part of the Center’s 
-business processes. The Center is strongly committed to ensuring that interactions with 
-entities doing business with the Center are free from bias or retaliation at every stage, 
-including the filing of an appeal of a Center action. If the submitter of an appeal or request 
-for review believes that Center staff is engaging in bias or retaliation consequent to the 
-submitter filing an appeal or otherwise formally challenging an agency decision, those 
-concerns can be brought to the attention of the Ombudsman. Evidence of bias or retaliation in 
-the form of electronic mail messages, meeting or teleconference minutes, or the like, is very 
-7 21 CFR 10.35 for requests for stays.
-
----
-
-<!-- Page 10 -->
-Contains Nonbinding Recommendations
-6
-helpful in establishing a basis for requesting relief. Contact with the Ombudsman can be on a 
-confidential basis if so requested, in which case the Center will protect the confidentiality of 
-the information provided and the source of such information to the maximum extent possible 
-under governing disclosure laws.
-Note that an appeal or review meeting is not intended to be the forum for airing allegations of 
-bias or misconduct.  An allegation of bias, misconduct or other wrongdoing can be discussed 
-with the Ombudsman and then submitted in writing directly to the Ombudsman, 
-accompanied by documentation to support the allegation. The Ombudsman will investigate 
-the allegations, make a finding as to whether bias and/or retaliation occurred, and determine 
-what, if any, further actions should be taken. If after an initial investigation the Ombudsman 
-decides that there is insufficient basis to sustain an allegation of bias or retaliation, the 
-rationale for this determination will be discussed with the complainant, affording an 
-opportunity for further discussion or presentation of additional evidence. If the Ombudsman 
-decides that there is a legitimate basis to support an allegation of bias or retaliation, then the 
-Ombudsman will pursue the matter through independent channels to the Commissioner’s 
-Office. At that point, a decision will be made whether to refer the matter for internal 
-investigation.
-In addition, a stakeholder who believes that they have been subjected to bias or misconduct 
-on the part of CDRH employees may contact the FDA Office of Internal Affairs (OIA) and 
-may also file a written complaint directly with the HHS Office of the Inspector General 
-(OIG). Although the CDRH Ombudsman is available for consultation as desired, there is no 
-requirement for prior interactions within CDRH before contacting OIA or OIG.
-B.  Process for Requesting Supervisory Review (Appeal)
-As provided in section 517A of the FD&C Act, a request for appeal of a 517A decision must 
-be submitted not later than 30 days after such decision that is the subject of the appeal. There 
-is no provision in the statute for extensions or waivers, or for partial submissions or 
-“placeholders.” Appeals received by the Center later than 30 days after the date of a 517A 
-decision are not eligible for review under 21 CFR 10.75. 
-FDA recommends that a 10.75 appeal under 21 CFR 10.75 of any decision be submitted 
-within 30 days of the decision. For a non-517A appeal under 21 CFR 800.75, FDA requires 
-requests for appeals be submitted no later than 60 days after the date of the decision. Appeals 
-of non-517A decisions received after 60 days would be untimely, unless CDRH, for good 
-cause permits the request to be filed after 60 days.8
-The submitter of the request should submit hard copy and/or electronic documents via the 
-processes established for premarket submissions and applications.
-8 21 CFR 800.75(b)(2). Good cause is related to circumstances beyond the control of the submitter, such as 
-snow emergency, Federal Government shutdown, or other unforeseen emergency event, for which CDRH may 
-permit the request to be filed after 60 days.
-
----
-
-<!-- Page 11 -->
-Contains Nonbinding Recommendations
-7
-The request for appeal should be clearly marked “APPEAL” to ensure proper document 
-processing and should identify any associated document number such as a 510(k) submission 
-number. The submitter can provide a list of references to documents already in the 
-administrative file or can include copies of these documents with the appeal package.
-Each appeal submitted to CDRH is logged in by the Document Control Center. CDRH 
-should respond to the appeal acknowledging receipt and assigning the appeal authority. If the 
-appeal is not eligible for consideration, e.g., because it is untimely, then the response should 
-explain the reason(s) why the appeal is ineligible and the matter should be considered closed.
-C.   Review Meeting or Teleconference
-A person requesting an appeal of a decision may request an in-person meeting or 
-teleconference with the review authority. If this request is included in the request for appeal 
-of a 517A decision, then the Center must schedule the meeting or teleconference to occur 
-within 30 days of the request.
-If a meeting or teleconference does take place, the Center intends the meeting to be an 
-opportunity for direct interaction between the submitter and the review authority.  One or 
-more members of the review team and the appropriate members of the management team 
-should be present at the meeting at the invitation of the review authority.  However, because 
-the meeting is the submitter’s opportunity to make its case directly to the review authority, 
-interactions between the review team and the submitter should be managed by the review 
-authority to ensure that the submitter has an unfettered opportunity to state its case.  Note that 
-one possible outcome of a review meeting is for the review authority to identify an 
-appropriate path forward, should an appropriate opportunity arise.
-To expedite resolution in cases where the submitter believes the circumstances of the 
-decision subject to review can be presented effectively in writing, the submitter may elect to 
-forego a meeting or teleconference. This is sometimes referred to as a “paper review” in that 
-the dispute is considered on the merits of the administrative file plus the review package filed 
-by the submitter.  
-D.  External Expertise
-In matters that are particularly complex or novel, the submitter may request that the review 
-authority refer the dispute to external experts such as an Advisory Panel9 to make a 
-recommendation to the review authority as provided in 21 CFR 10.75(b). The appeal 
-authority may also elect to refer a matter to external expertise on their own initiative. A 
-decision to convene an Advisory Panel to consider a 21 CFR 10.75 request for review is at 
-the discretion of the review authority. Note that this process differs from the procedure for 
-9 Procedures for Meetings of the Medical Device Advisory Committee Guidance issued September 1, 2017 
-available at: https://www.fda.gov/regulatory-information/search-fda-guidance-documents/procedures-meetings-
-medical-devices-advisory-committee
-
----
-
-<!-- Page 12 -->
-Contains Nonbinding Recommendations
-8
-requesting a meeting of the Medical Devices Dispute Resolution Panel for an appeal to the 
+Handling an appeal or reconsideration of a matter in dispute is a routine part of the Center’s business processes. The Center is strongly committed to ensuring that interactions with entities doing business with the Center are free from bias or retaliation at every stage, including the filing of an appeal of a Center action. If the submitter of an appeal or request for review believes that Center staff is engaging in bias or retaliation consequent to the submitter filing an appeal or otherwise formally challenging an agency decision, those concerns can be brought to the attention of the Ombudsman. Evidence of bias or retaliation in the form of electronic mail messages, meeting or teleconference minutes, or the like, is very
+Note that an appeal or review meeting is not intended to be the forum for airing allegations of bias or misconduct.  An allegation of bias, misconduct or other wrongdoing can be discussed with the Ombudsman and then submitted in writing directly to the Ombudsman, accompanied by documentation to support the allegation. The Ombudsman will investigate the allegations, make a finding as to whether bias and/or retaliation occurred, and determine what, if any, further actions should be taken. If after an initial investigation the Ombudsman decides that there is insufficient basis to sustain an allegation of bias or retaliation, the rationale for this determination will be discussed with the complainant, affording an opportunity for further discussion or presentation of additional evidence. If the Ombudsman decides that there is a legitimate basis to support an allegation of bias or retaliation, then the
+Ombudsman will pursue the matter through independent channels to the Commissioner’s Office. At that point, a decision will be made whether to refer the matter for internal investigation.
+In addition, a stakeholder who believes that they have been subjected to bias or misconduct on the part of CDRH employees may contact the FDA Office of Internal Affairs (OIA) and may also file a written complaint directly with the HHS Office of the Inspector General (OIG). Although the CDRH Ombudsman is available for consultation as desired, there is no requirement for prior interactions within CDRH before contacting OIA or OIG.
+### B. Process for Requesting Supervisory Review (Appeal)
+As provided in section 517A of the FD&C Act, a request for appeal of a 517A decision must be submitted not later than 30 days after such decision that is the subject of the appeal. There is no provision in the statute for extensions or waivers, or for partial submissions or “placeholders.” Appeals received by the Center later than 30 days after the date of a 517A decision are not eligible for review under 21 CFR 10.75.
+FDA recommends that a 10.75 appeal under 21 CFR 10.75 of any decision be submitted within 30 days of the decision. For a non-517A appeal under 21 CFR 800.75, FDA requires requests for appeals be submitted no later than 60 days after the date of the decision. Appeals of non-517A decisions received after 60 days would be untimely, unless CDRH, for good cause permits the request to be filed after 60 days.8
+The submitter of the request should submit hard copy and/or electronic documents via the processes established for premarket submissions and applications.
+The request for appeal should be clearly marked “APPEAL” to ensure proper document processing and should identify any associated document number such as a 510(k) submission number. The submitter can provide a list of references to documents already in the administrative file or can include copies of these documents with the appeal package.
+Each appeal submitted to CDRH is logged in by the Document Control Center. CDRH should respond to the appeal acknowledging receipt and assigning the appeal authority. If the appeal is not eligible for consideration, e.g., because it is untimely, then the response should explain the reason(s) why the appeal is ineligible and the matter should be considered closed.
+### C. Review Meeting or Teleconference
+A person requesting an appeal of a decision may request an in-person meeting or teleconference with the review authority. If this request is included in the request for appeal of a 517A decision, then the Center must schedule the meeting or teleconference to occur within 30 days of the request.
+If a meeting or teleconference does take place, the Center intends the meeting to be an opportunity for direct interaction between the submitter and the review authority.  One or more members of the review team and the appropriate members of the management team should be present at the meeting at the invitation of the review authority.  However, because the meeting is the submitter’s opportunity to make its case directly to the review authority, interactions between the review team and the submitter should be managed by the review authority to ensure that the submitter has an unfettered opportunity to state its case.  Note that one possible outcome of a review meeting is for the review authority to identify an appropriate path forward, should an appropriate opportunity arise.
+To expedite resolution in cases where the submitter believes the circumstances of the decision subject to review can be presented effectively in writing, the submitter may elect to forego a meeting or teleconference. This is sometimes referred to as a “paper review” in that the dispute is considered on the merits of the administrative file plus the review package filed by the submitter.
+### D. External Expertise
+In matters that are particularly complex or novel, the submitter may request that the review authority refer the dispute to external experts such as an Advisory Panel9 to make a recommendation to the review authority as provided in 21 CFR 10.75(b). The appeal authority may also elect to refer a matter to external expertise on their own initiative. A decision to convene an Advisory Panel to consider a 21 CFR 10.75 request for review is at the discretion of the review authority. Note that this process differs from the procedure for 9 Procedures for Meetings of the Medical Device Advisory Committee Guidance issued September 1, 2017 available at: https://www.fda.gov/regulatory-information/search-fda-guidance-documents/procedures-meetingsmedical-devices-advisory-committee requesting a meeting of the Medical Devices Dispute Resolution Panel for an appeal to the
 Center level, which is described in Section 3.3 of this document.
-A more efficient means to obtain an external opinion on a matter in dispute may be to request 
-that the review authority consider referring the matter to one or more external Subject Matter 
-Experts (SMEs), such as Special Government Employees qualified to participate on Advisory 
-Committees/Panels, to evaluate the matter in dispute and provide advice to the review 
-authority. In this process, a document is drafted by the review authority that states the 
-issue(s) in dispute and includes relevant documents for review. The review authority may 
-provide to the submitter a copy of the document for comment and may also allow the 
-submitter to suggest areas of expertise relevant to the issues in dispute, although the final 
-version of the document and the specific individuals selected as SMEs are determined by the 
-review authority. The document is assigned to the SMEs who, in turn, provide their 
-assessment of the issues in writing to the review authority.  The written responses of the 
-SMEs become part of the administrative file for the review authority to consider when 
-rendering a decision.
-Because of the resources required to convene an Advisory Panel or secure the expertise of an 
-external consultant, CDRH typically uses external experts only in unusual circumstances 
-generally involving highly complex scientific and clinical matters. 
-E.  Format
-The format for a request for review submitted under 21 CFR 10.75 is not specified by 
-regulation; therefore, submitters may employ whatever format best meets their needs.  This 
-section describes a general-purpose format that has tended to be an effective means for 
-conveying an appeal request. The descriptions in this section are guidelines intended to 
-facilitate the Center’s timely processing of requests for appeal.  Failure to follow these 
-guidelines does not disqualify the request from review; however, it is incumbent on the 
-submitter to ensure that the request includes sufficient information to permit a substantive 
-review of the issues in dispute.
-A common format for a review package consists of a four to six-page executive summary in 
-narrative form as a cover letter, together with copies of relevant documents cited in the 
-executive summary as references or appendices. The executive summary can be organized in 
-sections as follows:
-·
-A statement that a review is being requested and the requested level of review (i.e., 
-the next supervisory level or higher above the individual who made the decision) and 
-the matter of the decision under 21 CFR 10.75;
-·
-A request for either an in-person meeting or a teleconference to provide the submitter 
-an opportunity to make the case directly to the review authority, or a request for 
-review without a meeting or teleconference;
-
----
-
-<!-- Page 13 -->
-Contains Nonbinding Recommendations
-9
-·
-If desired, a request for the review authority to convene a meeting of the relevant 
-Advisory Panel, or a request for referral of the review to outside expertise in the form 
-of a “homework assignment” along with a justification for either such request; and
-·
-A clear statement of the issue in dispute and a discussion of why the relief sought by 
-the submitter should be granted.
-The executive summary should conclude with an explicit statement of the relief or action 
-being requested; e.g., overturn of a 510(k) NSE determination or a PMA Not-Approvable 
-letter. If there is an acceptable alternative to a complete reversal of the decision being 
-challenged, such as deletion of certain deficiencies and referral of the matter back to the 
-review team for reconsideration under specific conditions, that alternative should be stated in 
-the conclusion. As stated earlier, the review must be based only on the information already in 
-the administrative file at the time of the decision that is the subject of the review.
-F.  Review Conclusion
-The review process is concluded with the issuance of a decision letter. The letter describes 
-the basis for the request for review, conveys the decision of the review authority, and 
-explains the basis for the decision. Review decision letters commonly contain 
-recommendations for further actions to resolve the matter(s) in dispute and typically describe 
-options for further review or appeal, should the submitter be dissatisfied with the outcome. If 
-the person requesting an appeal of a 517A decision is granted an in-person meeting or 
-teleconference under section 517A of the FD&C Act, then a decision must be rendered 
-within 30 days of the meeting or teleconference; otherwise, a decision must be rendered 
-within 45 days of the request for appeal.  However, if the matter has been referred to experts 
-outside of the FDA as described in Section 2.4, section 517A of the FD&C Act does not 
-specify a timeframe for rendering a decision.  While there is no statutory or regulatory 
-obligation to do so, the Center does strive to meet the same timeframes for non-517A 
-decisions, as resources permit.  
-III.  The Medical Devices Dispute Resolution Panel
-A.  Background
-The Medical Devices Dispute Resolution Panel (DRP) is intended to provide a means for 
-independent review of a scientific controversy or dispute between a stakeholder and FDA.  
-The DRP operates under the provisions of FDA’s Medical Devices Advisory Committee 
-Charter and the processes that apply to Medical Devices Advisory Committees generally 
-apply to the DRP except as described in this document.  The DRP fulfills two statutory 
-mandates under the FD&C Act: The requirement of section 515(g)(2)(B) for review of PMA 
-approvals and denials by an advisory committee, “which may not be panels under section 
-513;” and the requirement of section 562 for a process for review of scientific controversies
-
----
-
-<!-- Page 14 -->
-Contains Nonbinding Recommendations
-10
-by a sponsor, applicant, or manufacturer of a drug or device product for which no other 
-section of the FD&C Act “provides a right of review of the matter in controversy….”      
-Under section 562 of the FD&C Act, CDRH may convene a meeting of the DRP to provide 
-advice to the Center:
-·
-As directed by the Center Director to provide advice on a scientific controversy or a 
-matter in dispute that has come to the attention of the Center Director; or
-·
-Upon approval of a request by a stakeholder as part of an appeal to the Center level.
-This section describes the processes that apply to requests for meetings of the DRP (apart 
-from requests under section 515(g)(2) of the FD&C Act, which are described in section 4.1 
+A more efficient means to obtain an external opinion on a matter in dispute may be to request that the review authority consider referring the matter to one or more external Subject Matter
+Experts (SMEs), such as Special Government Employees qualified to participate on Advisory Committees/Panels, to evaluate the matter in dispute and provide advice to the review authority. In this process, a document is drafted by the review authority that states the issue(s) in dispute and includes relevant documents for review. The review authority may provide to the submitter a copy of the document for comment and may also allow the submitter to suggest areas of expertise relevant to the issues in dispute, although the final version of the document and the specific individuals selected as SMEs are determined by the review authority. The document is assigned to the SMEs who, in turn, provide their assessment of the issues in writing to the review authority.  The written responses of the SMEs become part of the administrative file for the review authority to consider when rendering a decision.
+Because of the resources required to convene an Advisory Panel or secure the expertise of an external consultant, CDRH typically uses external experts only in unusual circumstances generally involving highly complex scientific and clinical matters.
+### E. Format
+The format for a request for review submitted under 21 CFR 10.75 is not specified by regulation; therefore, submitters may employ whatever format best meets their needs.  This section describes a general-purpose format that has tended to be an effective means for conveying an appeal request. The descriptions in this section are guidelines intended to facilitate the Center’s timely processing of requests for appeal.  Failure to follow these guidelines does not disqualify the request from review; however, it is incumbent on the submitter to ensure that the request includes sufficient information to permit a substantive review of the issues in dispute.
+A common format for a review package consists of a four to six-page executive summary in narrative form as a cover letter, together with copies of relevant documents cited in the executive summary as references or appendices. The executive summary can be organized in sections as follows: - A statement that a review is being requested and the requested level of review (i.e., the next supervisory level or higher above the individual who made the decision) and the matter of the decision under 21 CFR 10.75; - A request for either an in-person meeting or a teleconference to provide the submitter an opportunity to make the case directly to the review authority, or a request for review without a meeting or teleconference; - If desired, a request for the review authority to convene a meeting of the relevant
+Advisory Panel, or a request for referral of the review to outside expertise in the form of a “homework assignment” along with a justification for either such request; and - A clear statement of the issue in dispute and a discussion of why the relief sought by the submitter should be granted.
+The executive summary should conclude with an explicit statement of the relief or action being requested; e.g., overturn of a 510(k) NSE determination or a PMA Not-Approvable letter. If there is an acceptable alternative to a complete reversal of the decision being challenged, such as deletion of certain deficiencies and referral of the matter back to the review team for reconsideration under specific conditions, that alternative should be stated in the conclusion. As stated earlier, the review must be based only on the information already in the administrative file at the time of the decision that is the subject of the review.
+### F. Review Conclusion
+The review process is concluded with the issuance of a decision letter. The letter describes the basis for the request for review, conveys the decision of the review authority, and explains the basis for the decision. Review decision letters commonly contain recommendations for further actions to resolve the matter(s) in dispute and typically describe options for further review or appeal, should the submitter be dissatisfied with the outcome. If the person requesting an appeal of a 517A decision is granted an in-person meeting or teleconference under section 517A of the FD&C Act, then a decision must be rendered within 30 days of the meeting or teleconference; otherwise, a decision must be rendered within 45 days of the request for appeal.  However, if the matter has been referred to experts outside of the FDA as described in Section 2.4, section 517A of the FD&C Act does not specify a timeframe for rendering a decision.  While there is no statutory or regulatory obligation to do so, the Center does strive to meet the same timeframes for non-517A decisions, as resources permit.
+## III. The Medical Devices Dispute Resolution Panel
+### A. Background
+The Medical Devices Dispute Resolution Panel (DRP) is intended to provide a means for independent review of a scientific controversy or dispute between a stakeholder and FDA.
+The DRP operates under the provisions of FDA’s Medical Devices Advisory Committee
+Charter and the processes that apply to Medical Devices Advisory Committees generally apply to the DRP except as described in this document.  The DRP fulfills two statutory mandates under the FD&C Act: The requirement of section 515(g)(2)(B) for review of PMA approvals and denials by an advisory committee, “which may not be panels under section 513;” and the requirement of section 562 for a process for review of scientific controversies by a sponsor, applicant, or manufacturer of a drug or device product for which no other section of the FD&C Act “provides a right of review of the matter in controversy….”
+Under section 562 of the FD&C Act, CDRH may convene a meeting of the DRP to provide advice to the Center: - As directed by the Center Director to provide advice on a scientific controversy or a matter in dispute that has come to the attention of the Center Director; or - Upon approval of a request by a stakeholder as part of an appeal to the Center level.
+This section describes the processes that apply to requests for meetings of the DRP (apart from requests under section 515(g)(2) of the FD&C Act, which are described in section 4.1
 of this document) and general DRP considerations.
-B.  Panel Composition
-Pursuant to the charter of the Medical Devices Advisory Committee, the DRP has five 
-standing members, who are generally appointed for four-year terms, and three temporary 
-members, as follows:
-·
-Three standing voting members, including the Panel Chair, who are chosen for their 
-general scientific expertise applicable to a wide range of issues;
-·
-A non-voting member representing consumer interests;
-·
-A non-voting member representing industry interests;
-·
-A minimum of three temporary voting members who are chosen for their specific 
-expertise and experience in the matter under consideration by the DRP.
-Although each DRP meeting will include at a minimum the eight members described above, 
-additional temporary voting or non-voting members may be included on each Panel roster to 
-provide specific expertise as needed. Temporary panel members, including consultants, may 
-be drawn from members of other Advisory Panels or may be Special Government Employees 
-or other qualified consultants. Temporary panel members are typically selected specifically 
-for expertise appropriate to each DRP meeting. Individuals who previously had substantial 
-involvement in the matter under review, such as participation on a relevant Advisory Panel, 
-are not eligible. Although interested parties will be apprised of the selections prior to the 
-DRP meeting, the individuals are chosen by FDA to ensure freedom from bias or conflicts 
-and to ensure that appropriate expertise is represented on the DRP. Concerns regarding the 
-individuals selected as temporary voting members can be expressed in writing to the 
-Ombudsman, who will investigate these concerns and note them in the administrative record 
-of the DRP proceedings.
-
----
-
-<!-- Page 15 -->
-Contains Nonbinding Recommendations
-11
-C.  Filing a Request 
-An interested party who wishes to submit a request for review to the Center level may 
-request that the DRP be convened to consider the dispute and make a recommendation to the 
-Center Director. As with a request for a review authority to convene an Advisory Panel, a 
-request to convene the DRP should be made within the context of a request for review at the 
-Center level under 21 CFR 10.75.10  A review request that includes a request to convene the 
-DRP should be submitted within 30 days of the date of the action for 517A decisions and 
-within 60 days for non-517A decisions. The format of this request can follow the guidelines 
-described in Section 2.5 of this document and should include an explanation of the basis for 
-the request. The Deputy Center Director, in consultation with the Ombudsman, will decide 
-whether to grant the request and will convey the decision to the submitter, normally within 
-15 days of receipt of the request. If the request is denied, then the 21 CFR 10.75 review 
-process will go forward as described in Section 2 of this document, but without the 
-involvement of the DRP. 
-D.  Eligibility Review
-A request to convene the DRP should meet the following criteria:
-·
-The submitter should have exhausted other review options through the supervisory 
-chain below the Center level; for instance, a 21 CFR 10.75 request for review to the 
-relevant Office Director;
-·
-If the DRP is included in a 21 CFR 10.75 request for review made to the Center, the 
-matter under dispute should already have been the subject of an Advisory Panel 
-meeting, although the Center Director may exercise discretion in this regard;
-·
-The issue should primarily concern a scientific controversy11 and should not involve:
-o A regulatory, legal, or statutory authority dispute;
-o actual or alleged criminal activity;
-o regulatory jurisdiction, such as Designation of Lead Center for a combination 
-product; 
-o a matter not within the purview of the Center, such as designation of lead 
-center for a combination product or a dispute already referred to the 
-Commissioner’s Office; or
-10 A request to convene a meeting of the DRP may also be part of a petition under 21 CFR 10.33, as described 
-in Section 4.3 of this document.
-11 The Center intends to interpret this concept broadly, so as to allow the DRP to consider a range of issues that 
-may be associated with a scientific dispute.  For example, a scientific dispute regarding clinical evidence may 
-also involve questions regarding the need for a training program, which could be considered by the DRP within 
-this broader context.
-
----
-
-<!-- Page 16 -->
-Contains Nonbinding Recommendations
-12
+### B. Panel Composition
+Pursuant to the charter of the Medical Devices Advisory Committee, the DRP has five standing members, who are generally appointed for four-year terms, and three temporary members, as follows: - Three standing voting members, including the Panel Chair, who are chosen for their general scientific expertise applicable to a wide range of issues; - A non-voting member representing consumer interests; - A non-voting member representing industry interests; - A minimum of three temporary voting members who are chosen for their specific expertise and experience in the matter under consideration by the DRP.
+Although each DRP meeting will include at a minimum the eight members described above, additional temporary voting or non-voting members may be included on each Panel roster to provide specific expertise as needed. Temporary panel members, including consultants, may be drawn from members of other Advisory Panels or may be Special Government Employees or other qualified consultants. Temporary panel members are typically selected specifically for expertise appropriate to each DRP meeting. Individuals who previously had substantial involvement in the matter under review, such as participation on a relevant Advisory Panel, are not eligible. Although interested parties will be apprised of the selections prior to the DRP meeting, the individuals are chosen by FDA to ensure freedom from bias or conflicts and to ensure that appropriate expertise is represented on the DRP. Concerns regarding the individuals selected as temporary voting members can be expressed in writing to the Ombudsman, who will investigate these concerns and note them in the administrative record of the DRP proceedings.
+### C. Filing a Request
+An interested party who wishes to submit a request for review to the Center level may request that the DRP be convened to consider the dispute and make a recommendation to the
+Center Director. As with a request for a review authority to convene an Advisory Panel, a request to convene the DRP should be made within the context of a request for review at the
+Center level under 21 CFR 10.75.10  A review request that includes a request to convene the DRP should be submitted within 30 days of the date of the action for 517A decisions and within 60 days for non-517A decisions. The format of this request can follow the guidelines described in Section 2.5 of this document and should include an explanation of the basis for the request. The Deputy Center Director, in consultation with the Ombudsman, will decide whether to grant the request and will convey the decision to the submitter, normally within 15 days of receipt of the request. If the request is denied, then the 21 CFR 10.75 review process will go forward as described in Section 2 of this document, but without the involvement of the DRP.
+### D. Eligibility Review
+A request to convene the DRP should meet the following criteria: - The submitter should have exhausted other review options through the supervisory chain below the Center level; for instance, a 21 CFR 10.75 request for review to the relevant Office Director; - If the DRP is included in a 21 CFR 10.75 request for review made to the Center, the matter under dispute should already have been the subject of an Advisory Panel meeting, although the Center Director may exercise discretion in this regard; - The issue should primarily concern a scientific controversy11 and should not involve: o A regulatory, legal, or statutory authority dispute; o actual or alleged criminal activity; o regulatory jurisdiction, such as Designation of Lead Center for a combination product; o a matter not within the purview of the Center, such as designation of lead center for a combination product or a dispute already referred to the Commissioner’s Office; or 10 A request to convene a meeting of the DRP may also be part of a petition under 21 CFR 10.33, as described in Section 4.3 of this document.
+11 The Center intends to interpret this concept broadly, so as to allow the DRP to consider a range of issues that may be associated with a scientific dispute.  For example, a scientific dispute regarding clinical evidence may also involve questions regarding the need for a training program, which could be considered by the DRP within this broader context.
 o allegations of bias or retaliation by FDA employees.
-Under special circumstances, a review under 21 CFR 10.75 may warrant a direct referral to 
-the Center level, including a request to convene the DRP, before the review options at the 
-Division and Office levels have been exhausted. These situations may include, for example, 
-an issue that is of significant interest or impact to the public health, such as an innovative 
-device intended to treat critically ill members of a vulnerable patient population for whom no 
-other viable treatment alternative exists. If a stakeholder believes that such special 
-circumstances exist, the matter should be discussed expeditiously with the Ombudsman.
-E.  Dispute Resolution Panel Process
-As mentioned earlier, except where a different process is described in this section, the 
-procedures for the DRP generally conforms to the process for FDA’s Medical Devices 
-Advisory Committee.12 Once a decision has been made to convene the DRP, the process 
-generally utilized for medical device advisory panel meetings is initiated. However, the 
-sequence of events may be modified on an ad hoc basis as circumstances warrant for a 
-specific DRP meeting.
-In general, the processes governing the DRP are similar to other medical devices advisory 
-panels as described in the Medical Devices Advisory Committee Charter, with some 
-important differences. First, an Advisory Panel is a process used to gather information to 
-inform Center decision-making; a proceeding before the DRP, on the other hand, is an 
-adversarial process in which the Center defends a decision that has already been made.  In 
-addition, while an Advisory Panel is convened at the behest of the Agency and is run by the 
-Center, with the applicant as a participant, the DRP provides a forum in which the Center and 
-the applicant are both parties to the issues in dispute.
-During the course of the DRP meeting, members of the Panel may question the parties 
-directly; however, no questioning by or debate between the parties should be permitted. Once 
-deliberations have been completed, the Chair will determine whether consensus exists among 
-the panel members and, if not, will call for a vote. The Chair will not vote except to cast a 
-tie-breaking vote.
-Within 15 days of the DRP meeting, the Panel Chair will prepare a document providing a 
-Statement of Findings and a Recommendation on the disposition of the issues under 
-consideration, including any minority views. These documents will be issued to the Center 
+Under special circumstances, a review under 21 CFR 10.75 may warrant a direct referral to the Center level, including a request to convene the DRP, before the review options at the
+Division and Office levels have been exhausted. These situations may include, for example, an issue that is of significant interest or impact to the public health, such as an innovative device intended to treat critically ill members of a vulnerable patient population for whom no other viable treatment alternative exists. If a stakeholder believes that such special circumstances exist, the matter should be discussed expeditiously with the Ombudsman.
+### E. Dispute Resolution Panel Process
+As mentioned earlier, except where a different process is described in this section, the procedures for the DRP generally conforms to the process for FDA’s Medical Devices
+Advisory Committee.12 Once a decision has been made to convene the DRP, the process generally utilized for medical device advisory panel meetings is initiated. However, the sequence of events may be modified on an ad hoc basis as circumstances warrant for a specific DRP meeting.
+In general, the processes governing the DRP are similar to other medical devices advisory panels as described in the Medical Devices Advisory Committee Charter, with some important differences. First, an Advisory Panel is a process used to gather information to inform Center decision-making; a proceeding before the DRP, on the other hand, is an adversarial process in which the Center defends a decision that has already been made.  In addition, while an Advisory Panel is convened at the behest of the Agency and is run by the Center, with the applicant as a participant, the DRP provides a forum in which the Center and the applicant are both parties to the issues in dispute.
+During the course of the DRP meeting, members of the Panel may question the parties directly; however, no questioning by or debate between the parties should be permitted. Once deliberations have been completed, the Chair will determine whether consensus exists among the panel members and, if not, will call for a vote. The Chair will not vote except to cast a tie-breaking vote.
+Within 15 days of the DRP meeting, the Panel Chair will prepare a document providing a
+Statement of Findings and a Recommendation on the disposition of the issues under consideration, including any minority views. These documents will be issued to the Center
 Director or FDA Commissioner, as applicable, who will make the final decision.
-IV.  Petitions
-Petitions may be filed to request that the Agency take or refrain from taking an action, to 
-reconsider a decision, or to place in abeyance an action pending further consideration. This
-12 Procedures for Meetings of the Medical Device Advisory Committee Guidance issued September 1, 2017 
-available at: https://www.fda.gov/regulatory-information/search-fda-guidance-documents/procedures-meetings-
-medical-devices-advisory-committee.
-
----
-
-<!-- Page 17 -->
-Contains Nonbinding Recommendations
-13
-section is provided for information purposes only and should not be taken as conveying legal 
-advice regarding options available to stakeholders.
-The most common petitions are the Citizen Petition and the Request for Administrative 
-Reconsideration.
-A.  Petitions under Section 515 of the FD&C Act
-As provided in section 515(d)(4) of the FD&C Act, an application whose PMA application 
-has been denied may file a petition to request that the Commissioner review the denial. 
-Furthermore, under this section, any interested person may request review of a PMA 
-Approval Order. Petitions under section 515(d)(4) of the FD&C Act are reviewed as 
-described in section 515(g) of the FD&C Act and are typically filed as Petitions for 
-Administrative Reconsideration under 21 CFR 10.33, which are described further in Section 
-4.3 of this document. Section 515(g)(2)(B) of the FD&C Act, which provides for referral of 
-petitions under this section to an Advisory Committee, has been implemented by CDRH with 
-the establishment of the Medical Devices Dispute Resolution Panel (DRP) as described in 
-Section 3.1 of this document.  Section 515(d)(4) of the FD&C Act requires that such 
-petitions be filed within 30 days of the date of receipt of the denial of a PMA and does not 
-provide for extension of this time frame.
-Although the statute refers specifically to the denial of a PMA application, FDA’s regulations 
-permit a sponsor to treat an approvable or a not approvable decision as a denial and request a 
-515(g)(2) hearing.13  If a sponsor appeals an approvable or not approvable decision under 21 
-CFR 10.75 within CDRH,14 and receives an appeal decision upholding the approvable or not 
-approvable decision, FDA would consider the 21 CFR 10.75 appeal decision to be a new 
-approvable or not approvable decision under 21 CFR 814.44(e) or (f).15  Therefore, the 
-applicant may elect to treat this decision as a denial of approval of the PMA under 21 CFR 
-814.44(e)(2)(ii) or (f)(2), and may file a petition for review under section 515(d)(4) of the 
-FD&C Act within 30 days of such appeal decision.  In this circumstance, the Center will treat 
-the decision as a denial and will issue an order accordingly.16  To promote an orderly process 
-and coherent administrative record, CDRH discourages contemporaneous appeal processes 
-and generally will not consider a request for review under 21 CFR 10.75 after the filing of a 
-petition for review under section 515(d)(4) of the FD&C Act.
-The processes described in section 515(g)(2) of the FD&C Act are generally lengthy and 
-resource-intensive for both petitioners and FDA, and, as suggested by use of the dispute 
-resolution panel to fulfill the statutory requirement, can be adversarial.  Alternative processes 
-have historically provided a more streamlined pathway for elevating disputes about PMAs.  
-13 21 CFR 814.44(e)(2)(ii), (f)(2).  
-14Center for Devices and Radiological Health (CDRH) Appeals Processes: Questions and Answers About 517A 
-– Guidance for Industry and Food and Drug Administration Staff,” available at: 
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/center-devices-and-radiological-
-health-appeals-processes-questions-and-answers-about-517a 
-15 FDA would not consider an applicant who submits a timely 21 CFR 10.75 appeal of an approvable or not 
-approvable decision to have voluntarily withdrawn its PMA under 21 CFR 814.44(g). 
-16 21 CFR 814.45(e)(3).
-
----
-
-<!-- Page 18 -->
-Contains Nonbinding Recommendations
-14
-For these reasons, the procedures provided by section 515(g)(2) of the FD&C Act have rarely 
-been invoked.
-B.  Citizen Petition (21 CFR 10.30)
-A citizen petition can be submitted by any person to challenge an FDA action or decision, or 
-to request an action from FDA.  Citizen petitions must conform to a specific format and must 
-provide certain information. These requirements are explained in detail at 21 CFR Part 10, 
-subpart B, and these regulations should be carefully reviewed before preparing and 
-submitting a citizen petition. Among the informational items that must generally be included 
-are: 
-§
-A citation of the statutory provisions upon which the petition is based (if known); 
-§
-A complete description of the action requested, including the exact wording of 
-any proposed regulation or order; 
-§
-A statement of the factual and legal grounds for taking the requested action; 
-§
-Information on any environmental impact; and 
-§
-Certification that the petition includes the full information and views relied upon. 
-FDA may also request information on the economic impact of the requested action, if it 
-appears it would result in a significant economic impact. A citizen petition must be filed with 
-FDA’s Dockets Management Staff, the mailing address for which can be found on the FDA 
-Web site.17
-C.  Petition for Administrative Reconsideration of Action (21 
-CFR 10.33)
-A petition for administrative reconsideration can be filed by any person with regard to part or 
-all of a decision of the Commissioner.  In accordance with 21 CFR 10.33, the petition must 
-be filed within 30 days of the decision involved.  A petition submitted later will ordinarily be 
-denied as untimely, although the FDA Commissioner has discretion to permit a petition to be 
-filed after 30 days when there is good cause18 to do so. 
-A petition for administrative reconsideration must conform to a specific format and must 
-provide certain information. These requirements are explained in detail at 21 CFR 10.33 and 
-10.20 and these regulations should be carefully reviewed before preparing and submitting a 
-petition for administrative reconsideration.
-17 FDA’s Docket Management Staff available at: https://www.fda.gov/regulatory-information/dockets-
-management 
-18 21 CFR 800.75(b)(2).
-
----
-
-<!-- Page 19 -->
-Contains Nonbinding Recommendations
-15
-The petition must include:
-§
-A statement of the decision to be reconsidered;
-§
-The action FDA should take if the petition is granted; and
-§
-The legal and factual grounds relied upon, including identification of relevant 
-information and views that the petitioner contends were not previously or 
-adequately considered when the decision was made.
-No new information or views can be submitted in a petition for administrative 
-reconsideration. The petition must be based exclusively on information in the administrative 
-record on which the decision was made.
-A petition for administrative reconsideration may be granted and the decision reconsidered if 
-the FDA determines doing so is in the public interest and in the interest of justice.  A petition 
-for administrative reconsideration will be granted if FDA finds all of the following criteria 
-have been met: 
-§
-The petition demonstrates that relevant information or views in the administrative 
-record were not previously or not adequately considered; 
-§
-The position of the petitioner is not frivolous and is sought in good faith; 
-§
-The petition demonstrates sound public policy grounds for reconsideration; and 
-§
-Reconsideration is not outweighed by public health or other public interests. 
-Note that the granting of a petition for reconsideration means only that reconsideration will 
-occur, not that the Commissioner has decided in favor of the petitioner.  A petition for 
-administrative reconsideration must be filed with FDA’s Dockets Management Staff, the 
-mailing address for which can be found on the FDA web site.19
-D.  Petition for Administrative Stay of Action (21 CFR 10.35)
-Under 21 CFR 10.35, the Commissioner may elect to place in abeyance or extend the 
-effective date of any action pending or following a decision on any matter. The stay may be 
-requested to be indefinite or for a defined time period. A request for a stay must be filed 
-within 30 days of the action for which the stay is requested, although the Commissioner may 
-allow a petition after 30 days for good cause.20 A request under this section should clearly 
-state the action for which the stay is requested as well as the grounds for requesting the stay. 
-Note that, as is true of all administrative procedures under 21 CFR Part 10, the submission of 
-a petition under 21 CFR 10.35 does not, in itself, effect a stay of any administrative action, 
-19 FDA’s Docket Management Staff available at: https://www.fda.gov/regulatory-information/dockets-
-management 
-20 21 CFR 800.75(b)(2). Good cause is related to circumstances beyond the control of the submitter, such as 
-snow emergency, Federal Government shutdown, or other unforeseen emergency event, for which CDRH may 
-permit the request to be filed after 60 days.
-
----
-
-<!-- Page 20 -->
-Contains Nonbinding Recommendations
-16
-including enforcement action.  A request for a stay of action should be filed with FDA’s 
-Dockets Management Staff, as described above. The Commissioner’s decision on the petition 
-will be published in the Federal Register if the original action was so published.
-E.   Request for Reconsideration of Adverse Decisions on  
-Mammography Facility Accreditation/Certification (21 
+## IV. Petitions
+Petitions may be filed to request that the Agency take or refrain from taking an action, to reconsider a decision, or to place in abeyance an action pending further consideration. This 12 Procedures for Meetings of the Medical Device Advisory Committee Guidance issued September 1, 2017 available at: https://www.fda.gov/regulatory-information/search-fda-guidance-documents/procedures-meetingsmedical-devices-advisory-committee.
+section is provided for information purposes only and should not be taken as conveying legal advice regarding options available to stakeholders.
+The most common petitions are the Citizen Petition and the Request for Administrative Reconsideration.
+### A. Petitions under Section 515 of the FD&C Act
+As provided in section 515(d)(4) of the FD&C Act, an application whose PMA application has been denied may file a petition to request that the Commissioner review the denial.
+Furthermore, under this section, any interested person may request review of a PMA
+Approval Order. Petitions under section 515(d)(4) of the FD&C Act are reviewed as described in section 515(g) of the FD&C Act and are typically filed as Petitions for
+Administrative Reconsideration under 21 CFR 10.33, which are described further in Section 4.3 of this document. Section 515(g)(2)(B) of the FD&C Act, which provides for referral of petitions under this section to an Advisory Committee, has been implemented by CDRH with the establishment of the Medical Devices Dispute Resolution Panel (DRP) as described in
+Section 3.1 of this document.  Section 515(d)(4) of the FD&C Act requires that such petitions be filed within 30 days of the date of receipt of the denial of a PMA and does not provide for extension of this time frame.
+Although the statute refers specifically to the denial of a PMA application, FDA’s regulations permit a sponsor to treat an approvable or a not approvable decision as a denial and request a 515(g)(2) hearing.13  If a sponsor appeals an approvable or not approvable decision under 21 CFR 10.75 within CDRH,14 and receives an appeal decision upholding the approvable or not approvable decision, FDA would consider the 21 CFR 10.75 appeal decision to be a new approvable or not approvable decision under 21 CFR 814.44(e) or (f).15  Therefore, the applicant may elect to treat this decision as a denial of approval of the PMA under 21 CFR 814.44(e)(2)(ii) or (f)(2), and may file a petition for review under section 515(d)(4) of the FD&C Act within 30 days of such appeal decision.  In this circumstance, the Center will treat the decision as a denial and will issue an order accordingly.16  To promote an orderly process and coherent administrative record, CDRH discourages contemporaneous appeal processes and generally will not consider a request for review under 21 CFR 10.75 after the filing of a petition for review under section 515(d)(4) of the FD&C Act.
+The processes described in section 515(g)(2) of the FD&C Act are generally lengthy and resource-intensive for both petitioners and FDA, and, as suggested by use of the dispute resolution panel to fulfill the statutory requirement, can be adversarial.  Alternative processes have historically provided a more streamlined pathway for elevating disputes about PMAs.
+15 FDA would not consider an applicant who submits a timely 21 CFR 10.75 appeal of an approvable or not approvable decision to have voluntarily withdrawn its PMA under 21 CFR 814.44(g).
+For these reasons, the procedures provided by section 515(g)(2) of the FD&C Act have rarely been invoked.
+### B. Citizen Petition (21 CFR 10.30)
+A citizen petition can be submitted by any person to challenge an FDA action or decision, or to request an action from FDA.  Citizen petitions must conform to a specific format and must provide certain information. These requirements are explained in detail at 21 CFR Part 10, subpart B, and these regulations should be carefully reviewed before preparing and submitting a citizen petition. Among the informational items that must generally be included are: §
+A citation of the statutory provisions upon which the petition is based (if known); §
+A complete description of the action requested, including the exact wording of any proposed regulation or order; §
+A statement of the factual and legal grounds for taking the requested action; § Information on any environmental impact; and §
+Certification that the petition includes the full information and views relied upon.
+FDA may also request information on the economic impact of the requested action, if it appears it would result in a significant economic impact. A citizen petition must be filed with FDA’s Dockets Management Staff, the mailing address for which can be found on the FDA Web site.17
+### C. Petition for Administrative Reconsideration of Action (21 CFR 10.33)
+A petition for administrative reconsideration can be filed by any person with regard to part or all of a decision of the Commissioner.  In accordance with 21 CFR 10.33, the petition must be filed within 30 days of the decision involved.  A petition submitted later will ordinarily be denied as untimely, although the FDA Commissioner has discretion to permit a petition to be filed after 30 days when there is good cause18 to do so.
+A petition for administrative reconsideration must conform to a specific format and must provide certain information. These requirements are explained in detail at 21 CFR 10.33 and 10.20 and these regulations should be carefully reviewed before preparing and submitting a petition for administrative reconsideration.
+The petition must include: §
+A statement of the decision to be reconsidered; §
+The action FDA should take if the petition is granted; and §
+The legal and factual grounds relied upon, including identification of relevant information and views that the petitioner contends were not previously or adequately considered when the decision was made.
+No new information or views can be submitted in a petition for administrative reconsideration. The petition must be based exclusively on information in the administrative record on which the decision was made.
+A petition for administrative reconsideration may be granted and the decision reconsidered if the FDA determines doing so is in the public interest and in the interest of justice.  A petition for administrative reconsideration will be granted if FDA finds all of the following criteria have been met: §
+The petition demonstrates that relevant information or views in the administrative record were not previously or not adequately considered; §
+The position of the petitioner is not frivolous and is sought in good faith; §
+The petition demonstrates sound public policy grounds for reconsideration; and §
+Reconsideration is not outweighed by public health or other public interests.
+Note that the granting of a petition for reconsideration means only that reconsideration will occur, not that the Commissioner has decided in favor of the petitioner.  A petition for administrative reconsideration must be filed with FDA’s Dockets Management Staff, the mailing address for which can be found on the FDA web site.19
+### D. Petition for Administrative Stay of Action (21 CFR 10.35)
+Under 21 CFR 10.35, the Commissioner may elect to place in abeyance or extend the effective date of any action pending or following a decision on any matter. The stay may be requested to be indefinite or for a defined time period. A request for a stay must be filed within 30 days of the action for which the stay is requested, although the Commissioner may allow a petition after 30 days for good cause.20 A request under this section should clearly state the action for which the stay is requested as well as the grounds for requesting the stay.
+Note that, as is true of all administrative procedures under 21 CFR Part 10, the submission of a petition under 21 CFR 10.35 does not, in itself, effect a stay of any administrative action,
+Dockets Management Staff, as described above. The Commissioner’s decision on the petition will be published in the Federal Register if the original action was so published.
+### E. Request for Reconsideration of Adverse Decisions on
+Mammography Facility Accreditation/Certification (21
 CFR Part 900, Subpart B)
-Information on the processes available to mammography facilities to request additional 
-review of an adverse decision on a facility’s accreditation and/or certification is described in 
-the guidance entitled “Appeal Options Available to Mammography Facilities Concerning 
-Adverse Accreditation Decisions, Suspension/Revocation of Certificates, or Patient and 
-Physician Notification Orders.”21
-V.  Hearings
-Following is a discussion of the types of hearings that parties outside of FDA may request 
-under Agency regulations.  This discussion is not intended to be all-inclusive and should not 
-be construed as recommending for or against any option available to a stakeholder. The 
-availability of a hearing in any instance depends upon the specific circumstances of the case.  
-A person interested in filing a request for a hearing should be aware that hearings may 
-involve more procedural steps and take more time than other processes such as petitions, and 
-section 10.75 reviews as described previously. A request for a hearing should be filed with 
-FDA’s Dockets Management Staff, the mailing address for which can be found on the FDA 
-web site.22
-A.  Formal Evidentiary Public Hearing (21 CFR Part 12)
-A formal evidentiary hearing under 21 CFR Part 12 is available under the following 
-circumstances:
-§
-A person may request a formal evidentiary public hearing under the laws specified in 
-21 CFR 10.50, including section 515(g) of the FD&C Act on PMAs and product 
-development protocols (PDPs) or
-§
-The Commissioner concludes that it is in the public interest to hold a formal 
-evidentiary hearing on any matter before FDA.
-21 Appeal Options Available to Mammography Facilities Concerning Adverse Accreditation Decisions, 
-Suspension/Revocation of Certificates, or Patient and Physician Notification Orders; Guidance for 
-Mammography Facilities and Food and Drug Administration Staff available at:  
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/appeal-options-available-
-mammography-facilities-concerning-adverse-accreditation-decisions 
-22 FDA’s Docket Management Staff available at: https://www.fda.gov/regulatory-information/dockets-
-management
-
----
-
-<!-- Page 21 -->
-Contains Nonbinding Recommendations
-17
-A Part 12 hearing involving the issuance, amendment, or revocation of a regulation is 
-initiated by the Commissioner, through a petition in the form specified in Part 12 or as 
-described for a Citizen’s Petition under 21 CFR 10.30(h).
-Hearing requests concerning the issuance, amendment, or revocation of a regulation must be 
-submitted on or before the 30th day after the date of publication of a final regulation or the 
-30th day after publication of a notice withdrawing a proposal initiated by a petition under 21 
-CFR 10.25(a).  If the hearing request involves the issuance, amendment, or revocation of an 
-order (e.g., an order under section 515(g) of the FD&C Act), the request must be submitted 
-within 30 days after the issuance of a notice of opportunity for hearing.23  
-The Commissioner will review all filed requests for hearings as soon as possible and 
-determine whether a hearing has been justified and whether other actions are appropriate. 
-A person with a right to a Part 12 hearing may waive that right and instead request a public 
-hearing under Part 13, Part 14, or Part 15, all of which are described below.  Part 12 
-discusses in detail the applicable procedures when a Part 12 hearing commences, including 
-procedures for the submission of pleadings, prehearing conferences, presentation of 
-evidence, and filing of motions.  In general, two copies of any submissions, such as 
-pleadings, are to be filed with FDA’s Dockets Management Staff per 21 CFR 12.80 and, in 
-general, should conform to the requirements of 21 CFR 10.20.  
-B.  Public Hearing Before A Board of Inquiry (21 CFR Part 
-13)
-A hearing under Part 13 is held at the discretion of the FDA Commissioner, when 
-specifically authorized by regulation, or as an alternative to a formal evidentiary public 
-hearing. Generally, the purpose of such a hearing is to review medical, scientific and 
-technical issues; the proceedings are conducted as a scientific inquiry and not a legal trial.  
-The proceedings are informal and the rules of evidence do not apply.  A notice of hearing 
-will be published in the Federal Register and submissions to the Board of Inquiry are to be 
-filed with FDA’s Dockets Management Staff, as described previously, and generally served 
-on each participant in the proceeding. 
-C.  Public Hearing Before A Public Advisory Committee (21 
+Information on the processes available to mammography facilities to request additional review of an adverse decision on a facility’s accreditation and/or certification is described in the guidance entitled “Appeal Options Available to Mammography Facilities Concerning
+Adverse Accreditation Decisions, Suspension/Revocation of Certificates, or Patient and Physician Notification Orders.”21
+### V. Hearings
+Following is a discussion of the types of hearings that parties outside of FDA may request under Agency regulations.  This discussion is not intended to be all-inclusive and should not be construed as recommending for or against any option available to a stakeholder. The availability of a hearing in any instance depends upon the specific circumstances of the case.
+A person interested in filing a request for a hearing should be aware that hearings may involve more procedural steps and take more time than other processes such as petitions, and section 10.75 reviews as described previously. A request for a hearing should be filed with FDA’s Dockets Management Staff, the mailing address for which can be found on the FDA web site.22
+### A. Formal Evidentiary Public Hearing (21 CFR Part 12)
+A formal evidentiary hearing under 21 CFR Part 12 is available under the following circumstances: §
+A person may request a formal evidentiary public hearing under the laws specified in 21 CFR 10.50, including section 515(g) of the FD&C Act on PMAs and product development protocols (PDPs) or §
+The Commissioner concludes that it is in the public interest to hold a formal evidentiary hearing on any matter before FDA.
+21 Appeal Options Available to Mammography Facilities Concerning Adverse Accreditation Decisions, Suspension/Revocation of Certificates, or Patient and Physician Notification Orders; Guidance for
+Mammography Facilities and Food and Drug Administration Staff available at: https://www.fda.gov/regulatory-information/search-fda-guidance-documents/appeal-options-availablemammography-facilities-concerning-adverse-accreditation-decisions
+Hearing requests concerning the issuance, amendment, or revocation of a regulation must be submitted on or before the 30th day after the date of publication of a final regulation or the 30th day after publication of a notice withdrawing a proposal initiated by a petition under 21 CFR 10.25(a).  If the hearing request involves the issuance, amendment, or revocation of an order (e.g., an order under section 515(g) of the FD&C Act), the request must be submitted within 30 days after the issuance of a notice of opportunity for hearing.23
+The Commissioner will review all filed requests for hearings as soon as possible and determine whether a hearing has been justified and whether other actions are appropriate.
+A person with a right to a Part 12 hearing may waive that right and instead request a public hearing under Part 13, Part 14, or Part 15, all of which are described below.  Part 12 discusses in detail the applicable procedures when a Part 12 hearing commences, including procedures for the submission of pleadings, prehearing conferences, presentation of evidence, and filing of motions.  In general, two copies of any submissions, such as pleadings, are to be filed with FDA’s Dockets Management Staff per 21 CFR 12.80 and, in general, should conform to the requirements of 21 CFR 10.20.
+### B. Public Hearing Before A Board of Inquiry (21 CFR Part 13)
+A hearing under Part 13 is held at the discretion of the FDA Commissioner, when specifically authorized by regulation, or as an alternative to a formal evidentiary public hearing. Generally, the purpose of such a hearing is to review medical, scientific and technical issues; the proceedings are conducted as a scientific inquiry and not a legal trial.
+The proceedings are informal and the rules of evidence do not apply.  A notice of hearing will be published in the Federal Register and submissions to the Board of Inquiry are to be filed with FDA’s Dockets Management Staff, as described previously, and generally served on each participant in the proceeding.
+### C. Public Hearing Before A Public Advisory Committee (21
 CFR Part 14)
-A hearing under Part 14 is held at the discretion of the FDA Commissioner, or when 
-provided by law or regulations, or as an alternative to a formal evidentiary hearing.  Hearings 
-are available under this Part for, among other things, matters relating to the: 
-§
-Review of a performance standard for a radiation-emitting electronic product by 
-FDA’s Technical Electronic Product Radiation Safety Standards Committee 
-(TEPRSSC);
-23 21 CFR 10.33(b).
-
----
-
-<!-- Page 22 -->
-Contains Nonbinding Recommendations
-18
-§
-classification of devices under Part 860;
-§
-establishment, amendment or revocation of a performance standard;
-§
-review of a PMA or PDP;
-§
-review of the Quality System (formerly Good Manufacturing Practice) regulation;
-§
-establishment of minimum national uniform quality standards for mammography 
-facilities.
-Note that all meetings of the Medical Device Advisory Committee Panels are held under Part 
-14. FDA will publish a notice in the Federal Register of advisory committee meetings.  In 
-general, ten copies of written submissions to a committee are to be sent to the executive 
-secretary unless otherwise specified in the Federal Register notice.24  Submissions for a 
+A hearing under Part 14 is held at the discretion of the FDA Commissioner, or when provided by law or regulations, or as an alternative to a formal evidentiary hearing.  Hearings are available under this Part for, among other things, matters relating to the: §
+Review of a performance standard for a radiation-emitting electronic product by FDA’s Technical Electronic Product Radiation Safety Standards Committee (TEPRSSC);
+Note that all meetings of the Medical Device Advisory Committee Panels are held under Part
+14. FDA will publish a notice in the Federal Register of advisory committee meetings.  In
+general, ten copies of written submissions to a committee are to be sent to the executive secretary unless otherwise specified in the Federal Register notice.24  Submissions for a
 Public Hearing under Part 14 do not need to be sent to FDA’s Dockets Management Staff.
-D.  Public Hearing Before the FDA Commissioner (21 CFR 
-Part 15)
-A hearing under Part 15 is held at the discretion of the Commissioner, when provided by law 
-or regulation, or as an alternative to a formal evidentiary hearing (where granted in the 
-discretion of the Commissioner), to permit persons to present information and views at a 
-public hearing on any matter pending before the FDA. Examples of issues that can be 
-referred to a Part 15 hearing include, but are not limited to, the following: 
-§
-Proposals to allow persons to order custom devices; 
-§
-Proposed Quality System (formerly Good Manufacturing Practice) Regulation; 
-§
-Proposed exemptions from federal preemption of state and local device 
-requirements.25
-FDA will publish a notice of hearing in the Federal Register.  The scope of a hearing is 
-determined by the notice of hearing and any regulation under which the hearing is held.  A 
-person may submit information or views on the subject of the hearing in writing to FDA’s  
-Dockets Management Staff as described previously.26  
-E.  Regulatory Hearing Before the FDA  (21 CFR Part 16)
-A hearing under 21 CFR Part 16 (Regulatory Hearing Before the Food and Drug 
-Administration) is called at the discretion of the FDA Commissioner when considering 
-24 21 CFR 14.35(a).  
-25 21 CFR 808.25(e).  
-26 21 CFR 15.25.
+### D. Public Hearing Before the FDA Commissioner (21 CFR Part 15)
+A hearing under Part 15 is held at the discretion of the Commissioner, when provided by law or regulation, or as an alternative to a formal evidentiary hearing (where granted in the discretion of the Commissioner), to permit persons to present information and views at a public hearing on any matter pending before the FDA. Examples of issues that can be referred to a Part 15 hearing include, but are not limited to, the following: §
+Proposals to allow persons to order custom devices; §
+Proposed Quality System (formerly Good Manufacturing Practice) Regulation; §
+Proposed exemptions from federal preemption of state and local device requirements.25
+FDA will publish a notice of hearing in the Federal Register.  The scope of a hearing is determined by the notice of hearing and any regulation under which the hearing is held.  A person may submit information or views on the subject of the hearing in writing to FDA’s
+Dockets Management Staff as described previously.26
+### E. Regulatory Hearing Before the FDA (21 CFR Part 16)
+A hearing under 21 CFR Part 16 (Regulatory Hearing Before the Food and Drug Administration) is called at the discretion of the FDA Commissioner when considering
+Sections 520(g)(4) and (g)(5) of the FD&C Act, relating to disapproval of an
+Investigational Device Exemption, or notice of a proposed withdrawal of approval; §
+21 CFR 814.46(c), relating to withdrawal of approval of a PMA; § Rescission of a 510(k) clearance; §
+An order suspending or revoking an FDA certificate issued to a U.S. mammography facility pursuant to the MQSA.
+A regulatory hearing is initiated by a notice of opportunity for hearing from FDA.  A person offered a hearing has the amount of time specified in the notice to request a hearing.  Under 21 CFR 16.26(a), a request for a hearing may be denied if the request fails to demonstrate a genuine and substantial issue of fact that warrants a hearing; therefore, the request should specify the grounds for the hearing request.  FDA and the party requesting the hearing will, if feasible, at least one day before the hearing provide to each other written notice of any published articles or written information to be presented or relied on at the hearing.  A regulatory hearing is informal and the rules of evidence do not apply.27
+## VI. Judicial Review
+FDA is frequently asked about judicial remedies.  A party seeking judicial review of a final action taken by FDA should consult its attorney or perform its own research of applicable statutes and regulations.  It is not appropriate for FDA to offer advice or assistance concerning whether, and how, a party may seek judicial review of an adverse decision, and nothing in this guidance should be construed as constraining the ability of a stakeholder to exercise any remedies provided by statute or regulation.
+In general, FDA believes it is in the public interest for parties to avail themselves of administrative remedies within the agency prior to engaging in litigation, so that FDA has the opportunity to reconsider and review any dispute concerning an FDA action before it is referred to judicial review.28  In the event that a petitioner brings judicial action relating to a matter that is subject to a pending review under 21 CFR 10.75 or 10.33, or any other administrative process, the Commissioner may request that the court refer the matter back to the Agency or hold its review in abeyance pending completion of administrative reconsideration.29  Moreover, the Commissioner will generally consider a petition for reconsideration only before the petitioner brings legal action in the courts.
+## VII. Paperwork Reduction Act of 1995
+This guidance contains information collection provisions that are subject to review by the
+Office of Management and Budget (OMB) under the Paperwork Reduction Act of 1995 (44 U.S.C. 3501-3520).
+The time required to complete this information collection is estimated to average 8 hours per response, including the time to review instructions, search existing data sources, gather the data needed, and complete and review the information collection.  Send comments regarding this burden estimate to: FDA PRA Staff Office of Operations Food and Drug Administration PRAStaff@fda.hhs.gov
+An Agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid OMB control number.  The OMB control number for this information collection is 0910-0738 (expires 08/31/2022).
 
 ---
 
-<!-- Page 23 -->
-Contains Nonbinding Recommendations
-19
-regulatory action, or when provided by law or regulation.  Part 16 provides an opportunity 
-for a regulatory hearing on various matters including but not limited to: 
-§
-Sections 520(g)(4) and (g)(5) of the FD&C Act, relating to disapproval of an 
-Investigational Device Exemption, or notice of a proposed withdrawal of approval;
-§
-21 CFR 814.46(c), relating to withdrawal of approval of a PMA;
-§
-Rescission of a 510(k) clearance;
-§
-An order suspending or revoking an FDA certificate issued to a U.S. mammography 
-facility pursuant to the MQSA.
-A regulatory hearing is initiated by a notice of opportunity for hearing from FDA.  A person 
-offered a hearing has the amount of time specified in the notice to request a hearing.  Under 
-21 CFR 16.26(a), a request for a hearing may be denied if the request fails to demonstrate a 
-genuine and substantial issue of fact that warrants a hearing; therefore, the request should 
-specify the grounds for the hearing request.  FDA and the party requesting the hearing will, if 
-feasible, at least one day before the hearing provide to each other written notice of any 
-published articles or written information to be presented or relied on at the hearing.  A 
-regulatory hearing is informal and the rules of evidence do not apply.27  
-VI.  Judicial Review
-FDA is frequently asked about judicial remedies.  A party seeking judicial review of a final 
-action taken by FDA should consult its attorney or perform its own research of applicable 
-statutes and regulations.  It is not appropriate for FDA to offer advice or assistance 
-concerning whether, and how, a party may seek judicial review of an adverse decision, and 
-nothing in this guidance should be construed as constraining the ability of a stakeholder to 
-exercise any remedies provided by statute or regulation. 
-In general, FDA believes it is in the public interest for parties to avail themselves of 
-administrative remedies within the agency prior to engaging in litigation, so that FDA has the 
-opportunity to reconsider and review any dispute concerning an FDA action before it is 
-referred to judicial review.28  In the event that a petitioner brings judicial action relating to a 
-matter that is subject to a pending review under 21 CFR 10.75 or 10.33, or any other 
-administrative process, the Commissioner may request that the court refer the matter back to 
-the Agency or hold its review in abeyance pending completion of administrative 
-reconsideration.29  Moreover, the Commissioner will generally consider a petition for 
-reconsideration only before the petitioner brings legal action in the courts.
-27 21 CFR 16.60(c).
-28 21 CFR 10.45.  
-29 21 CFR 10.33(h).
+## Footnotes
 
----
+[^5]: For example, a sponsor of a PMA that has been disapproved may file a petition for review of such denial on or before the thirtieth day after receipt of the notice of denial. See section 515(d)(4) of the FD&C Act.
 
-<!-- Page 24 -->
-Contains Nonbinding Recommendations
-20
-VII.  Paperwork Reduction Act of 1995
-This guidance contains information collection provisions that are subject to review by the 
-Office of Management and Budget (OMB) under the Paperwork Reduction Act of 1995 (44 
-U.S.C. 3501-3520).
-The time required to complete this information collection is estimated to average 8 hours per 
-response, including the time to review instructions, search existing data sources, gather the 
-data needed, and complete and review the information collection.  Send comments regarding 
-this burden estimate to:
-FDA PRA Staff
-Office of Operations
-Food and Drug Administration
-PRAStaff@fda.hhs.gov 
-An Agency may not conduct or sponsor, and a person is not required to respond to, a 
-collection of information unless it displays a currently valid OMB control number.  The 
-OMB control number for this information collection is 0910-0738 (expires 08/31/2022).
+[^7]: 21 CFR 10.35 for requests for stays. helpful in establishing a basis for requesting relief. Contact with the Ombudsman can be on a confidential basis if so requested, in which case the Center will protect the confidentiality of the information provided and the source of such information to the maximum extent possible under governing disclosure laws.
+
+[^8]: 21 CFR 800.75(b)(2). Good cause is related to circumstances beyond the control of the submitter, such as snow emergency, Federal Government shutdown, or other unforeseen emergency event, for which CDRH may permit the request to be filed after 60 days.
+
+[^13]: 21 CFR 814.44(e)(2)(ii), (f)(2). 14Center for Devices and Radiological Health (CDRH) Appeals Processes: Questions and Answers About 517A – Guidance for Industry and Food and Drug Administration Staff,” available at: https://www.fda.gov/regulatory-information/search-fda-guidance-documents/center-devices-and-radiological- health-appeals-processes-questions-and-answers-about-517a
+
+[^16]: 21 CFR 814.45(e)(3).
+
+[^17]: FDA’s Docket Management Staff available at: https://www.fda.gov/regulatory-information/dockets- management
+
+[^18]: 21 CFR 800.75(b)(2).
+
+[^19]: FDA’s Docket Management Staff available at: https://www.fda.gov/regulatory-information/dockets- management
+
+[^20]: 21 CFR 800.75(b)(2). Good cause is related to circumstances beyond the control of the submitter, such as snow emergency, Federal Government shutdown, or other unforeseen emergency event, for which CDRH may permit the request to be filed after 60 days. including enforcement action.  A request for a stay of action should be filed with FDA’s
+
+[^22]: FDA’s Docket Management Staff available at: https://www.fda.gov/regulatory-information/dockets- management A Part 12 hearing involving the issuance, amendment, or revocation of a regulation is initiated by the Commissioner, through a petition in the form specified in Part 12 or as described for a Citizen’s Petition under 21 CFR 10.30(h).
+
+[^23]: 21 CFR 10.33(b). § classification of devices under Part 860; § establishment, amendment or revocation of a performance standard; § review of a PMA or PDP; § review of the Quality System (formerly Good Manufacturing Practice) regulation; § establishment of minimum national uniform quality standards for mammography facilities.
+
+[^24]: 21 CFR 14.35(a).
+
+[^25]: 21 CFR 808.25(e).
+
+[^26]: 21 CFR 15.25. regulatory action, or when provided by law or regulation.  Part 16 provides an opportunity for a regulatory hearing on various matters including but not limited to: §
+
+[^27]: 21 CFR 16.60(c).
+
+[^28]: 21 CFR 10.45.
+
+[^29]: 21 CFR 10.33(h).
 
 <!-- fulltext-end -->

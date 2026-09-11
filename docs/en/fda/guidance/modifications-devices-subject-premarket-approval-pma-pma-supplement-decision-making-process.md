@@ -25,1460 +25,299 @@ PDF: [https://www.fda.gov/media/81431/download](https://www.fda.gov/media/81431/
 
 ## Official Full Text
 
-<!-- Page 1 -->
-On November 26, 2024, FDA issued a guidance titled “Transitional Enforcement Policy for Ethylene 
-Oxide Sterilization Facility Changes for Class III Devices.” This Ethylene Oxide Sterilization guidance 
-provides information regarding FDA recommendations and general principles PMA and HDE holders of 
-Class III devices sterilized by ethylene oxide (EtO) whose products are affected by the potential, actual, 
-or temporary operation reductions at a sterilization facility may reference if they wish to have FDA 
-consider whether the exercise of enforcement discretion relating to the implementation of certain types 
-of sterilization site changes is appropriate.
-On November 2, 2023, FDA issued a guidance titled “Enforcement Policy for Certain Supplements for 
-Approved Premarket Approval (PMA) or Humanitarian Device Exemption (HDE) Submissions.” This 
-guidance provides clarification on FDA’s policies and regulatory review expectations for certain limited 
-modifications affecting the safety and effectiveness of a device required to have an approved PMA or 
-the safety and probable benefit of a device required to have an approved HDE at the conclusion of the 
-COVID-19 public health emergency.
+On November 26, 2024, FDA issued a guidance titled “Transitional Enforcement Policy for Ethylene
+Oxide Sterilization Facility Changes for Class III Devices.” This Ethylene Oxide Sterilization guidance provides information regarding FDA recommendations and general principles PMA and HDE holders of
+Class III devices sterilized by ethylene oxide (EtO) whose products are affected by the potential, actual, or temporary operation reductions at a sterilization facility may reference if they wish to have FDA consider whether the exercise of enforcement discretion relating to the implementation of certain types of sterilization site changes is appropriate.
+On November 2, 2023, FDA issued a guidance titled “Enforcement Policy for Certain Supplements for
+Approved Premarket Approval (PMA) or Humanitarian Device Exemption (HDE) Submissions.” This guidance provides clarification on FDA’s policies and regulatory review expectations for certain limited modifications affecting the safety and effectiveness of a device required to have an approved PMA or the safety and probable benefit of a device required to have an approved HDE at the conclusion of the COVID-19 public health emergency.
 
----
 
-<!-- Page 2 -->
-Contains Nonbinding Recommendations
-Modifications to Devices Subject to 
-Premarket Approval (PMA) - The 
-PMA Supplement Decision-Making 
-Process
-Guidance for Industry and 
-Food and Drug Administration Staff
-Document issued on December 11, 2008.
-This document supersedes “Modifications to Devices Subject to Premarket 
-Approval (PMA) - The PMA Supplement Decision-Making Process” dated 
-March 9, 2007.
-For questions about this document regarding CDRH-regulated devices, contact the Office of 
-Regulatory Policy/Division of Submission Support at 301-796-5640 or 
-opeqsubmissionsupport@fda.hhs.gov. For questions about this document regarding CBER-
-regulated devices, contact the Office of Communication, Outreach, and Development (OCOD) at 
-1-800-835-4709 or 240-402-8010, or by email at ocod@fda.hhs.gov.
-U.S. Department of Health and Human Services
-Food and Drug Administration
-Center for Devices and Radiological Health
-Center for Biologics Evaluation and Research
+Modifications to Devices Subject to Premarket Approval (PMA) - The PMA Supplement Decision-Making Process
 
----
-
-<!-- Page 3 -->
-Contains Nonbinding Recommendations
-Public Comment
-Preface
-You may submit electronic comments and suggestions at any time for Agency consideration to 
-https://www.regulations.gov. Submit written comments to the Dockets Management Staff, Food and 
-Drug Administration, 5630 Fishers Lane, Room 1061, (HFA-305), Rockville, MD 20852-1740. 
-Identify all comments with the docket number FDA-2007-D-0025. Comments may not be acted 
-upon by the Agency until the document is next revised or updated.
-Additional Copies
-CDRH
-Additional copies are available from the Internet. You may also send an e-mail request to CDRH-
-Guidance@fda.hhs.gov to receive a copy of the guidance. Please include the document number 
-GUI00001584 and complete title of the guidance in the request.
-CBER
-Additional copies are available from the Center for Biologics Evaluation and Research (CBER), 
-Office of Communication, Outreach, and Development (OCOD), 10903 New Hampshire Ave., 
-WO71, Room 3128, Silver Spring, MD 20993-0002, or by calling 1-800-835-4709 or 240-402-
-8010, by email, ocod@fda.hhs.gov, or from the Internet at 
-https://www.fda.gov/vaccines-blood-biologics/guidance-compliance-regulatory-information-
-biologics/biologics-guidances.
-
----
-
-<!-- Page 4 -->
-Contains Nonbinding Recommendations
-Table of Contents
-I. 
-Introduction ................................................................................................................................................. 5
-The Least Burdensome Approach ................................................................................................................... 6
-II. 
-Background ................................................................................................................................................. 6
-III. General Requirements for When a PMA Supplement is Needed ................................................................. 7
-IV. Determining the Type of PMA Submission ................................................................................................. 8
-A. 
-When to Submit a Traditional PMA ........................................................................................................ 9
-(1) 
-Modified Device for a New Indication for Use ............................................................................... 9
-(2) 
-Modified Device with New Clinical Effects ................................................................................. 10
-(3) 
-Modified Analyte and Indication/Patient Population (OIVD) ...................................................... 10
-(4) 
-Significant Modification of Technology (OIVD) .......................................................................... 11
-B. 
-When to Submit a Panel-Track Supplement ......................................................................................... 11
-(1) 
-Change in Indication for Use - Different Patient Population ........................................................ 12
-(2) 
-Change in Indication for Use - Different Patient Population ........................................................ 13
-(3) 
-Change in Indication for Use - Different Patient Population ........................................................ 13
-(4) 
-Change in Indication for Use - Different Patient Population (OIVD) ........................................... 14
-(5) 
-Change in Indication for Use - Different Surgical Procedure ....................................................... 14
-(6) 
-Change in Indication for Use - Different Conditions of Use ......................................................... 14
-(7) 
-Change in Indication for Use - Different Specimen (Sample) Type (CBER) ............................... 15
-(8) 
-Change in Indication for Use - Different Physiological Location ................................................. 15
-C. 
-When to Submit a 180-Day Supplement ............................................................................................... 15
-(1) 
-Design Change .............................................................................................................................. 16
-(2) 
-New Device Feature ...................................................................................................................... 16
-(3) 
-Modified Chemical Formulation ................................................................................................... 16
-(4) 
-Hardware and Software Modifications .......................................................................................... 17
-(5) 
-New Analyzer – Assay Unchanged (OIVD) ................................................................................. 17
-(6) 
-Design and Software Modification ................................................................................................ 17
-(7) 
-Modified Physical Characteristics ................................................................................................. 17
-(8) 
-New Device Feature ...................................................................................................................... 18
-(9) 
-Design Change .............................................................................................................................. 18
-(10) 
-New Specimen (Sample) Type (CBER) ........................................................................................ 18
-D. 
-When to Submit a Real-Time Supplement ............................................................................................ 18
-(1) 
-Minor Modification to Correct Battery Failures ........................................................................... 19
-(2) 
-Alternative Sterilization Method ................................................................................................... 19
-(3) 
-Storage Temperature Change ........................................................................................................ 19
-(4) 
-Extended Shelf Life ....................................................................................................................... 20
-(5) 
-Component Offered as Stand Alone System ................................................................................. 20
-(6) 
-Alternate Wet Shipping Solution .................................................................................................. 20
-(7) 
-Modified Bonding Method ............................................................................................................ 20
-E. 
-When to Submit a Special PMA Supplement – Changes Being Effected ............................................ 21
-(1) 
-New Warning Added ..................................................................................................................... 22
-(2) 
-Manufacturing Process Change..................................................................................................... 22
-(3) 
-Improved Instructions .................................................................................................................... 22
-(4) 
-Additional Inspection Step in the Manufacturing Process ............................................................ 22
-(5) 
-Additional Inspection Step in the Manufacturing Process ............................................................ 23
-F. 
-When to Submit a 30-Day Notice .......................................................................................................... 23
-(1) 
-Manual to Automated Process ....................................................................................................... 23
-(2) 
-Alternate Qualified Supplier of Critical Component (OIVD) ....................................................... 23
-(3) 
-Alternate Qualified Supplier of Critical Material .......................................................................... 24
-(4) 
-In-Process Quality Control Step Change....................................................................................... 24
-
----
-
-<!-- Page 5 -->
-Contains Nonbinding Recommendations
-(5) 
-Manual to Automated Process Conversion ................................................................................... 24
-(6) 
-Modified In-Process Test .............................................................................................................. 24
-(7) 
-Modified Sterilization Process Parameters .................................................................................... 24
-G. 
-When to Submit a Manufacturing Site Change Supplement.................................................................. 24
-V. 
-Periodic Reports ........................................................................................................................................ 25
-
----
-
-<!-- Page 6 -->
-Contains Nonbinding Recommendations
-5
-Modifications to Devices Subject to 
-Premarket Approval (PMA) - The 
-PMA Supplement Decision-Making 
-Process
-Guidance for Industry and
-Food and Drug Administration Staff
-This guidance represents the current thinking of the Food and Drug Administration (FDA or 
-Agency) on this topic. It does not establish any rights for any person and is not binding on 
-FDA or the public. You can use an alternative approach if it satisfies the requirements of the 
-applicable statutes and regulations. To discuss an alternative approach, contact the FDA staff 
-or Office responsible for this guidance as listed on the title page. 
-I.
-Introduction 
-This guidance document has been developed to provide the underlying principles and examples 
-to establish a clear and consistent way to approach the decision-making process you follow to 
-determine the type of regulatory submission, if any, that may be required when you modify your 
-lawfully marketed PMA device.
-This guidance applies to class III devices that are subject to premarket approval application 
-(PMA) requirements of section 515 of the Federal Food, Drug, and Cosmetic Act (the Act) (21 
-U.S.C. 360e). This guidance provides the criteria for industry and Food and Drug 
-Administration (FDA) staff to use in determining the type of PMA submission (i.e., traditional 
-PMAs, panel track supplements, 180-day supplements, real-time supplements, Special PMA 
-Supplements-Changes Being Effected, 30-day notices, manufacturing site change supplements, 
-or periodic reports) that you should submit to FDA when you modify the design or labeling of 
-your PMA device; its manufacturing process; or the location of manufacturing, processing, or 
-packaging. The guidance also provides examples of various types of device modifications, 
-describes the types of testing that were performed to support the safety and effectiveness for each 
-device modification, and the type of PMA submission that was submitted. It does not address 
-how to test a specific device to determine the effects of modifications.
-This guidance applies to PMAs reviewed by CDRH and CBER. This guidance also applies if you
-
----
-
-<!-- Page 7 -->
-Contains Nonbinding Recommendations
-6
-modify your PMA device in response to a recall or field corrective action to assure the continued 
-safety and/or effectiveness of the device.
-This guidance is not intended to replace existing, device-specific guidance or other guidance 
-documents related to the PMA program.1
+This guidance represents the current thinking of the Food and Drug Administration (FDA or Agency) on this topic. It does not establish any rights for any person and is not binding on
+FDA or the public. You can use an alternative approach if it satisfies the requirements of the applicable statutes and regulations. To discuss an alternative approach, contact the FDA staff or Office responsible for this guidance as listed on the title page.
+## I. Introduction
+This guidance document has been developed to provide the underlying principles and examples to establish a clear and consistent way to approach the decision-making process you follow to determine the type of regulatory submission, if any, that may be required when you modify your lawfully marketed PMA device.
+This guidance applies to class III devices that are subject to premarket approval application (PMA) requirements of section 515 of the Federal Food, Drug, and Cosmetic Act (the Act) (21 U.S.C. 360e). This guidance provides the criteria for industry and Food and Drug
+Administration (FDA) staff to use in determining the type of PMA submission (i.e., traditional PMAs, panel track supplements, 180-day supplements, real-time supplements, Special PMA Supplements-Changes Being Effected, 30-day notices, manufacturing site change supplements, or periodic reports) that you should submit to FDA when you modify the design or labeling of your PMA device; its manufacturing process; or the location of manufacturing, processing, or packaging. The guidance also provides examples of various types of device modifications, describes the types of testing that were performed to support the safety and effectiveness for each device modification, and the type of PMA submission that was submitted. It does not address how to test a specific device to determine the effects of modifications.
+This guidance applies to PMAs reviewed by CDRH and CBER. This guidance also applies if you modify your PMA device in response to a recall or field corrective action to assure the continued safety and/or effectiveness of the device.
+This guidance is not intended to replace existing, device-specific guidance or other guidance documents related to the PMA program.1
 The Least Burdensome Approach
-We believe we should consider the least burdensome approach in all areas of medical device 
-regulation. This guidance reflects our careful review of the relevant scientific and legal 
-requirements and what we believe is the least burdensome way for you to comply with those 
-requirements. However, if you believe that an alternative approach would be less burdensome, 
-please contact us so we can consider your point of view. You may send your written comments 
-to the contacts listed in the preface to this guidance or to the Ombudsman of CDRH and, where 
-relevant, CBER. Comprehensive information on CDRH's Ombudsman and CBER Ombudsman, 
-including contact information, can be found on the Internet at CDRH Ombudsman and CBER 
-Ombudsman, respectively.
-In general, FDA’s guidance documents do not establish legally enforceable responsibilities. 
-Instead, guidances describe the Agency’s current thinking on a topic and should be viewed only 
-as recommendations, unless specific regulatory or statutory requirements are cited. The use of 
-the word should in Agency guidances means that something is suggested or recommended, but 
-not required.
-II.
-Background 
-The “PMA regulation” (21 CFR Part 814) sets forth general criteria for determining when you 
-must submit a PMA supplement or a 30-day notice for a device modification or manufacturing 
-change (21 CFR 814.39). Subpart B “Premarket Approval Application” of the PMA regulation 
-in Part 814 describes PMA amendments and supplements. Subpart E -“Post Approval 
-Requirements” describes requirements for continuing evaluation (post-approval studies), 
-periodic reporting, and other requirements related to the continued reasonable assurance of safety 
-and effectiveness of an approved PMA device. The Act defines different types of PMA 
-supplements that are used to request approval of a change to a device that has an approved PMA 
-(see section 737(4) of the Act (21 U.S.C. 379i(4)) for definitions of 180-day supplements, real- 
-time supplements, panel-track supplements). These definitions form the basis for the 
-recommendations provided in this guidance document.
-The draft version of this guidance document, which was issued on March 9, 2007, was the result 
-of an extensive effort by a working group consisting of regulatory and scientific experts from 
-CDRH and CBER. That March 2007 draft guidance replaced the August 6, 1998 draft guidance 
-titled “Modifications To Devices Subject to Premarket Approval – The PMA Supplement 
-1 All CDRH guidance documents are available at FDA Guidance Documents webpage using the online search 
-feature.
-
----
-
-<!-- Page 8 -->
-Contains Nonbinding Recommendations
-7
-Decision Making Process.”2 Comments by the industry on the August 1998 draft and comments 
-we received at subsequent meetings on this issue were considered by FDA during the 
-development of the March 2007 draft guidance document.
-In response to the comment period for the March 2007 draft guidance, FDA received the 
-following five general categories of comments from industry. Each category of comment, below, 
-is followed by FDA’s response.
-·
-Industry requested clearer interpretation of the PMA regulation as to when a supplement 
-is necessary (i.e., when a change to a device impacts or could impact safety and/or 
-effectiveness). Our response to this is included in Sections III and IV below.
-·
-Industry requested a detailed flowchart that would identify the type of supplement to be 
-submitted based on any specific change for any device. FDA understands that there is a 
-general desire among PMA applicants for such a detailed flowchart or easy-to-use 
-paradigm. However, FDA believes the complexity and variability of class III devices 
-makes it unfeasible to develop such a flowchart.
-·
-Industry requested specific definitions for some terms, such as “substantial clinical data,” 
-“significant change,” and “limited confirmatory clinical data.” Where possible, FDA 
-provided additional clarity for some terminology. Again, because of the complexity and 
-variability of class III devices, we do not believe it is feasible to provide detailed 
-definitions for certain terms and instead use examples to help illustrate the meaning of 
-these terms.
-·
-Industry requested that the guidance address 30-day supplements (21 CFR 814.39(e)). 
-However, FDA has chosen not to include 30-day supplements within the scope of the 
-guidance document, in part, because we have not identified cases for which this provision 
-can be effectively applied.
-·
-Industry requested the addition of examples to illustrate the various supplement types as 
-well as periodic reports. While industry provided a number of examples, many such 
-examples did not contain sufficient details for inclusion in this guidance document. 
-However, examples that provided further clarification on the underlying principles were 
-added. In addition, the periodic report section was significantly increased in detail and 
-includes examples.
-III. General Requirements for When a PMA Supplement is 
-Needed 
-Examples of the types of modifications that require a PMA supplement (21 CFR 814.39(a)), if 
-such changes affect the safety or effectiveness of the device, include, but are not limited to, the 
-following:
-·
-new indications for use of the device;
-2 The 1998 guidance titled “Modifications To Devices Subject to Premarket Approval – The PMA Supplement 
-Decision Making Process” was withdrawn on January 5, 2005 (70 FR 824) because of amendments made to the 
-Act after 1998 that affected our recommendations (i.e., the amendments made by the Medical Device User Fee 
-and Modernization Act of 2002 (MDUFMA) (Pub. L. 107-250), which added specific definitions for 180-day 
-supplement, real-time supplement, and panel-track supplement (section 737(4) of the Act)).
-
----
-
-<!-- Page 9 -->
-Contains Nonbinding Recommendations
-8
-·
-labeling changes;
-·
-the use of a different facility or establishment to manufacture, process, or package the 
-device;
-·
-changes in sterilization procedures;
-·
-changes in packaging;
-·
-changes in the performance or design specifications, circuits, components, ingredients, 
-principle of operation, or physical layout of the device; and
-·
-extension of the expiration date of the device based on data obtained under a new or 
-revised shelf life testing protocol that has not been approved by FDA. If FDA has 
-approved your protocol, the change should be reported in a periodic report (21 CFR 
-814.39(b)).
-Under 21 CFR 814.39(f), you may submit, instead of a PMA supplement, a 30-day notice for 
-changes to manufacturing procedures or methods of manufacture that affect the safety and 
-effectiveness of your device. We recommend that you carefully assess whether a PMA 
-supplement (21 CFR 814.39(a)) or a 30-day notice (21 CFR 814.39(f)) is appropriate for any 
-modification you plan to undertake. The Quality System (QS) regulation (21 CFR Part 820) 
-requires that you have in place a system to document and assess design changes (21 CFR 
-820.30). Part of the assessment for all changes should include a risk analysis and validation (or, 
-where appropriate, verification) of the changes to the design or manufacturing process and 
-subsequent assessment of the need for regulatory submission. (More information regarding 30- 
-day notices is provided in Section F of this guidance document.)
-IV. Determining the Type of PMA Submission 
-A primary indicator of what type of PMA submission is needed is the nature of the data, if any, 
-that is needed to demonstrate the safety and effectiveness of the modified device. Each of the 
-following sections describes one of the various types of PMA submissions that may be submitted 
-to FDA (traditional PMA, a panel-track supplement, a 180-day supplement, a real-time 
-supplement, a Special PMA Supplement – Changes Being Effected, 30-day notice, and 
-manufacturing site change supplement). For each type of PMA submission, we discuss the kinds 
-of changes we would consider to be appropriate for the type of submission, the general nature of 
-test data we believe are needed to support the safety and effectiveness of such changes, and 
-criteria we may use when determining whether that type of submission should be submitted.
-We also provide, in each section, examples of device modifications submitted to CDRH/Office 
-of Device Evaluation (ODE), CDRH/Office of In Vitro Diagnostic Device Evaluation and Safety 
-(OIVD), and CBER to illustrate what we believe are appropriate submissions for the type of 
-PMA submission discussed in that section. For each example, we provide the specific changes 
-that were made to the approved device, the impact that changes had on the intended patients or 
-on the use of the device, and the test data that FDA believes are needed to demonstrate that the 
-modified device remains safe and effective.
-The examples below illustrate how FDA determines which particular supplement type is 
-warranted. These examples are straightforward in nature to demonstrate the underlying 
-principles. We expect that there may be more complex situations. If you need additional input
-
----
-
-<!-- Page 10 -->
-Contains Nonbinding Recommendations
-9
-from FDA to determine the appropriate supplement type, please contact the appropriate review 
-branch or division.
-Figure 1 at the end of this guidance document illustrates the steps we recommend you follow in 
-selecting the appropriate regulatory path for a modification to your PMA device.
-A.
-When to Submit a Traditional PMA 
-In general, a traditional PMA (rather than a PMA supplement) is appropriate when the 
-modifications you make to your approved PMA device result in a new device. We would 
-consider a new device to be one where a modification results in a device design so different from 
-the original version that the preclinical3 (“analytical” for in vitro diagnostics (IVDs)) and clinical 
-data4 you previously submitted on your original device are not applicable (i.e., not supportive) 
-for the specific change in demonstrating a reasonable assurance of the safety and effectiveness of 
-the modified device.
-In deciding whether to submit a supplement to your approved traditional PMA or to submit a 
-new traditional PMA5 for a modified device, we recommend you first ascertain whether, and to 
-what extent, you can rely on the preclinical testing and clinical data submitted in your traditional 
-PMA to support the safety and effectiveness of your modified device. If you need to conduct 
-both new preclinical testing and new clinical testing to demonstrate reasonable assurance of 
-safety and effectiveness of the modified device, you should assume that this is a new device that 
-will require a submission of a new traditional PMA.6
-The examples below illustrate when FDA has considered a traditional PMA to be appropriate for 
-a device modification based on the types of changes made and the testing that was necessary to 
-demonstrate a reasonable assurance of safety and effectiveness. Each example describes a device 
-reviewed in ODE, unless indicated as reviewed in OIVD or CBER.
+We believe we should consider the least burdensome approach in all areas of medical device regulation. This guidance reflects our careful review of the relevant scientific and legal requirements and what we believe is the least burdensome way for you to comply with those requirements. However, if you believe that an alternative approach would be less burdensome, please contact us so we can consider your point of view. You may send your written comments to the contacts listed in the preface to this guidance or to the Ombudsman of CDRH and, where relevant, CBER. Comprehensive information on CDRH's Ombudsman and CBER Ombudsman, including contact information, can be found on the Internet at CDRH Ombudsman and CBER Ombudsman, respectively.
+In general, FDA’s guidance documents do not establish legally enforceable responsibilities.
+Instead, guidances describe the Agency’s current thinking on a topic and should be viewed only as recommendations, unless specific regulatory or statutory requirements are cited. The use of the word should in Agency guidances means that something is suggested or recommended, but not required.
+## II. Background
+The “PMA regulation” (21 CFR Part 814) sets forth general criteria for determining when you must submit a PMA supplement or a 30-day notice for a device modification or manufacturing change (21 CFR 814.39). Subpart B “Premarket Approval Application” of the PMA regulation in Part 814 describes PMA amendments and supplements. Subpart E -“Post Approval Requirements” describes requirements for continuing evaluation (post-approval studies), periodic reporting, and other requirements related to the continued reasonable assurance of safety and effectiveness of an approved PMA device. The Act defines different types of PMA supplements that are used to request approval of a change to a device that has an approved PMA (see section 737(4) of the Act (21 U.S.C. 379i(4)) for definitions of 180-day supplements, real-time supplements, panel-track supplements). These definitions form the basis for the recommendations provided in this guidance document.
+The draft version of this guidance document, which was issued on March 9, 2007, was the result of an extensive effort by a working group consisting of regulatory and scientific experts from CDRH and CBER. That March 2007 draft guidance replaced the August 6, 1998 draft guidance titled “Modifications To Devices Subject to Premarket Approval – The PMA Supplement 1 All CDRH guidance documents are available at FDA Guidance Documents webpage using the online search feature.
+Decision Making Process.”2 Comments by the industry on the August 1998 draft and comments we received at subsequent meetings on this issue were considered by FDA during the development of the March 2007 draft guidance document.
+In response to the comment period for the March 2007 draft guidance, FDA received the following five general categories of comments from industry. Each category of comment, below, is followed by FDA’s response.
+- Industry requested clearer interpretation of the PMA regulation as to when a supplement is necessary (i.e., when a change to a device impacts or could impact safety and/or effectiveness). Our response to this is included in Sections III and IV below.
+- Industry requested a detailed flowchart that would identify the type of supplement to be submitted based on any specific change for any device. FDA understands that there is a general desire among PMA applicants for such a detailed flowchart or easy-to-use paradigm. However, FDA believes the complexity and variability of class III devices makes it unfeasible to develop such a flowchart.
+- Industry requested specific definitions for some terms, such as “substantial clinical data,”
+“significant change,” and “limited confirmatory clinical data.” Where possible, FDA provided additional clarity for some terminology. Again, because of the complexity and variability of class III devices, we do not believe it is feasible to provide detailed definitions for certain terms and instead use examples to help illustrate the meaning of these terms.
+- Industry requested that the guidance address 30-day supplements (21 CFR 814.39(e)).
+However, FDA has chosen not to include 30-day supplements within the scope of the guidance document, in part, because we have not identified cases for which this provision can be effectively applied.
+- Industry requested the addition of examples to illustrate the various supplement types as well as periodic reports. While industry provided a number of examples, many such examples did not contain sufficient details for inclusion in this guidance document.
+However, examples that provided further clarification on the underlying principles were added. In addition, the periodic report section was significantly increased in detail and includes examples.
+## III. General Requirements for When a PMA Supplement is Needed
+Examples of the types of modifications that require a PMA supplement (21 CFR 814.39(a)), if such changes affect the safety or effectiveness of the device, include, but are not limited to, the following: · new indications for use of the device; 2 The 1998 guidance titled “Modifications To Devices Subject to Premarket Approval – The PMA Supplement
+Decision Making Process” was withdrawn on January 5, 2005 (70 FR 824) because of amendments made to the
+Act after 1998 that affected our recommendations (i.e., the amendments made by the Medical Device User Fee and Modernization Act of 2002 (MDUFMA) (Pub. L. 107-250), which added specific definitions for 180-day supplement, real-time supplement, and panel-track supplement (section 737(4) of the Act)).
+- labeling changes; ·
+the use of a different facility or establishment to manufacture, process, or package the device; · changes in sterilization procedures; · changes in packaging; · changes in the performance or design specifications, circuits, components, ingredients, principle of operation, or physical layout of the device; and · extension of the expiration date of the device based on data obtained under a new or revised shelf life testing protocol that has not been approved by FDA. If FDA has approved your protocol, the change should be reported in a periodic report (21 CFR 814.39(b)).
+Under 21 CFR 814.39(f), you may submit, instead of a PMA supplement, a 30-day notice for changes to manufacturing procedures or methods of manufacture that affect the safety and effectiveness of your device. We recommend that you carefully assess whether a PMA supplement (21 CFR 814.39(a)) or a 30-day notice (21 CFR 814.39(f)) is appropriate for any modification you plan to undertake. The Quality System (QS) regulation (21 CFR Part 820) requires that you have in place a system to document and assess design changes (21 CFR 820.30). Part of the assessment for all changes should include a risk analysis and validation (or, where appropriate, verification) of the changes to the design or manufacturing process and subsequent assessment of the need for regulatory submission. (More information regarding 30day notices is provided in Section F of this guidance document.)
+## IV. Determining the Type of PMA Submission
+A primary indicator of what type of PMA submission is needed is the nature of the data, if any, that is needed to demonstrate the safety and effectiveness of the modified device. Each of the following sections describes one of the various types of PMA submissions that may be submitted to FDA (traditional PMA, a panel-track supplement, a 180-day supplement, a real-time supplement, a Special PMA Supplement – Changes Being Effected, 30-day notice, and manufacturing site change supplement). For each type of PMA submission, we discuss the kinds of changes we would consider to be appropriate for the type of submission, the general nature of test data we believe are needed to support the safety and effectiveness of such changes, and criteria we may use when determining whether that type of submission should be submitted.
+We also provide, in each section, examples of device modifications submitted to CDRH/Office of Device Evaluation (ODE), CDRH/Office of In Vitro Diagnostic Device Evaluation and Safety (OIVD), and CBER to illustrate what we believe are appropriate submissions for the type of PMA submission discussed in that section. For each example, we provide the specific changes that were made to the approved device, the impact that changes had on the intended patients or on the use of the device, and the test data that FDA believes are needed to demonstrate that the modified device remains safe and effective.
+The examples below illustrate how FDA determines which particular supplement type is warranted. These examples are straightforward in nature to demonstrate the underlying principles. We expect that there may be more complex situations. If you need additional input from FDA to determine the appropriate supplement type, please contact the appropriate review branch or division.
+Figure 1 at the end of this guidance document illustrates the steps we recommend you follow in selecting the appropriate regulatory path for a modification to your PMA device.
+### A. When to Submit a Traditional PMA
+In general, a traditional PMA (rather than a PMA supplement) is appropriate when the modifications you make to your approved PMA device result in a new device. We would consider a new device to be one where a modification results in a device design so different from the original version that the preclinical3 (“analytical” for in vitro diagnostics (IVDs)) and clinical data4 you previously submitted on your original device are not applicable (i.e., not supportive) for the specific change in demonstrating a reasonable assurance of the safety and effectiveness of the modified device.
+In deciding whether to submit a supplement to your approved traditional PMA or to submit a new traditional PMA5 for a modified device, we recommend you first ascertain whether, and to what extent, you can rely on the preclinical testing and clinical data submitted in your traditional PMA to support the safety and effectiveness of your modified device. If you need to conduct both new preclinical testing and new clinical testing to demonstrate reasonable assurance of safety and effectiveness of the modified device, you should assume that this is a new device that will require a submission of a new traditional PMA.6
+The examples below illustrate when FDA has considered a traditional PMA to be appropriate for a device modification based on the types of changes made and the testing that was necessary to demonstrate a reasonable assurance of safety and effectiveness. Each example describes a device reviewed in ODE, unless indicated as reviewed in OIVD or CBER.
 (1)
-Modified Device for a New Indication for Use 
-FDA approved a PMA for the TransMyocardial Revascularization (TMR) holmium laser for 
-surgical treatment of stable patients with angina that is refractory to medical treatment and not 
-amenable to direct coronary revascularization. In this procedure, the chest is opened by surgical 
-incision. Once the heart is exposed, the surgeon places the end of a fiber light guide onto the 
-surface of the epicardium and the laser is activated making a hole through the ventricular wall, 
-penetrating entirely through the wall into the ventricular cavity. This is repeated at several 
-3 For purposes of this guidance document, the term “preclinical testing” refers to non-clinical testing that is used 
-to characterize a device (e.g., animal, bench, biocompatibility, electrical safety, software, reproducibility, 
-reliability, accuracy, limit of detection, analytical testing).
-4 For purposes of this guidance document, the term “clinical data” refers to data derived from a study using a patient 
-population with a defined clinical condition to determine the safety and effectiveness of the device, including 
-clinical performance characteristics (e.g., clinical specificity, clinical sensitivity). Clinical data are not limited to data 
-obtained from an investigational device exemption (IDE) study and could include foreign data and literature.
-5 In lieu of a traditional PMA, you may submit a modular PMA. The criteria and process for the modular review 
-program are discussed in FDA guidance document titled “Premarket Approval Application Modular Review”.
-6 For the purposes of this guidance document, new preclinical or clinical data are those collected in accordance 
-with an existing or different protocol.
-
----
-
-<!-- Page 11 -->
-Contains Nonbinding Recommendations
-10
-locations in the region to be treated.
-The PMA applicant modified its laser system by incorporating it into a fiber optic guide to make 
-it suitable for percutaneous use. The PMA applicant also modified the indication for use to 
-include percutaneous myocardial revascularization (PMR), a non-surgical procedure. In PMR, 
-the surgeon percutaneously places a catheter containing a fiber optic light guide into the left 
-ventricle and uses the laser to make several gouges in the endocardium (inside) ventricular wall.
-The TMR device creates a hole that penetrates the inside ventricular wall and the PMR device 
-creates a gouge that scoops out tissue, but does not penetrate through the ventricular wall (i.e., 
-the injury to the myocardial tissue is different). To assess the impact of this change, new 
-preclinical testing was necessary to demonstrate that the performance of the device, such as 
-maneuverability, and reliable deployment and retraction, were adequate for percutaneous use. 
-New clinical data were also necessary because of the possibility of differences in the clinical 
-outcome that could result from the differences in the indication for use of the devices (TMR vs. 
-PMR), as well as to assess the difference in risk between an open surgical procedure and a 
-percutaneous procedure.
-Because new preclinical and clinical data were necessary to demonstrate a reasonable assurance 
-of safety and effectiveness for the modification, FDA determined that the changes resulted in a 
-new device and as such, a submission of a traditional PMA was appropriate for this modification.
+Modified Device for a New Indication for Use
+FDA approved a PMA for the TransMyocardial Revascularization (TMR) holmium laser for surgical treatment of stable patients with angina that is refractory to medical treatment and not amenable to direct coronary revascularization. In this procedure, the chest is opened by surgical incision. Once the heart is exposed, the surgeon places the end of a fiber light guide onto the surface of the epicardium and the laser is activated making a hole through the ventricular wall, penetrating entirely through the wall into the ventricular cavity. This is repeated at several 3 For purposes of this guidance document, the term “preclinical testing” refers to non-clinical testing that is used to characterize a device (e.g., animal, bench, biocompatibility, electrical safety, software, reproducibility, reliability, accuracy, limit of detection, analytical testing).
+4 For purposes of this guidance document, the term “clinical data” refers to data derived from a study using a patient population with a defined clinical condition to determine the safety and effectiveness of the device, including clinical performance characteristics (e.g., clinical specificity, clinical sensitivity). Clinical data are not limited to data obtained from an investigational device exemption (IDE) study and could include foreign data and literature.
+5 In lieu of a traditional PMA, you may submit a modular PMA. The criteria and process for the modular review program are discussed in FDA guidance document titled “Premarket Approval Application Modular Review”.
+The PMA applicant modified its laser system by incorporating it into a fiber optic guide to make it suitable for percutaneous use. The PMA applicant also modified the indication for use to include percutaneous myocardial revascularization (PMR), a non-surgical procedure. In PMR, the surgeon percutaneously places a catheter containing a fiber optic light guide into the left ventricle and uses the laser to make several gouges in the endocardium (inside) ventricular wall.
+The TMR device creates a hole that penetrates the inside ventricular wall and the PMR device creates a gouge that scoops out tissue, but does not penetrate through the ventricular wall (i.e., the injury to the myocardial tissue is different). To assess the impact of this change, new preclinical testing was necessary to demonstrate that the performance of the device, such as maneuverability, and reliable deployment and retraction, were adequate for percutaneous use.
+New clinical data were also necessary because of the possibility of differences in the clinical outcome that could result from the differences in the indication for use of the devices (TMR vs.
+PMR), as well as to assess the difference in risk between an open surgical procedure and a percutaneous procedure.
+Because new preclinical and clinical data were necessary to demonstrate a reasonable assurance of safety and effectiveness for the modification, FDA determined that the changes resulted in a new device and as such, a submission of a traditional PMA was appropriate for this modification.
 (2)
-Modified Device with New Clinical Effects 
-FDA approved a PMA for an implantable cardiac pacemaker system consisting of a pulse 
-generator and a lead. The system is indicated for patients who have bradyarrhythmias or other 
-cardiac conduction abnormalities. The PMA applicant modified the lead by adding a steroid 
-eluting piece to the distal lead tip to reduce the inflammatory process (where the lead comes in 
-contact with the endocardial tissue) and the impedance between the lead and the tissue. As a 
-result, the amount of energy (the stimulation threshold) needed to achieve heart pacing was 
-reduced, and the battery life was improved. The indication for use for the modified device 
-remained the same as the original device.
-The modified lead design raised questions related to device performance such as longer battery 
-life and lower stimulation threshold, as well as questions of clinical safety and effectiveness. To 
-adequately assess these changes, it was necessary for the PMA applicant to conduct new 
-preclinical testing to characterize the electrical performance and biocompatibility of the modified 
-lead, as well as animal studies to demonstrate the in vivo effect of the steroid on pacing 
-stimulation thresholds. New clinical data were also needed to demonstrate that the steroid- 
-eluting lead remained as safe and effective as the approved non-steroid lead. Because new 
-preclinical and clinical data were needed to demonstrate a reasonable assurance of safety and 
-effectiveness of the modified design, FDA determined that this change resulted in a new device 
-and as such, a submission of a traditional PMA was appropriate for this modification.
+Modified Device with New Clinical Effects
+FDA approved a PMA for an implantable cardiac pacemaker system consisting of a pulse generator and a lead. The system is indicated for patients who have bradyarrhythmias or other cardiac conduction abnormalities. The PMA applicant modified the lead by adding a steroid eluting piece to the distal lead tip to reduce the inflammatory process (where the lead comes in contact with the endocardial tissue) and the impedance between the lead and the tissue. As a result, the amount of energy (the stimulation threshold) needed to achieve heart pacing was reduced, and the battery life was improved. The indication for use for the modified device remained the same as the original device.
+The modified lead design raised questions related to device performance such as longer battery life and lower stimulation threshold, as well as questions of clinical safety and effectiveness. To adequately assess these changes, it was necessary for the PMA applicant to conduct new preclinical testing to characterize the electrical performance and biocompatibility of the modified lead, as well as animal studies to demonstrate the in vivo effect of the steroid on pacing stimulation thresholds. New clinical data were also needed to demonstrate that the steroideluting lead remained as safe and effective as the approved non-steroid lead. Because new preclinical and clinical data were needed to demonstrate a reasonable assurance of safety and effectiveness of the modified design, FDA determined that this change resulted in a new device and as such, a submission of a traditional PMA was appropriate for this modification.
 (3)
-Modified Analyte and Indication/Patient Population (OIVD) 
-FDA approved a PMA for an in vitro diagnostic immunoassay for the detection of total prostate- 
-specific antigen (total PSA) in serum to aid in detection of prostate cancer in conjunction with
-
----
-
-<!-- Page 12 -->
-Contains Nonbinding Recommendations
-11
-the digital rectal exam (DRE). Free prostate-specific antigen (free PSA) is a component of the 
-total PSA. The PMA applicant modified the device to detect free PSA in serum, which was 
-considered a new analyte, and added a new indication, to distinguish prostate cancer from benign 
-prostate disease. The PMA applicant also intended that the device be used in a new patient 
-population with defined total PSA levels and specific DRE characteristics. Consequently, the 
-original preclinical and clinical data were no longer adequate to support a finding of safety and 
-effectiveness of the modified device. The analytical performance characteristics, (e.g., precision, 
-reproducibility, and sensitivity) of the two assays differ. In addition, the clinical performance 
-characteristics (e.g., clinical sensitivity and specificity) also differ.
-To demonstrate reasonable assurance of the safety and effectiveness of the modified device in the 
-new patient population, new analytical (i.e., preclinical testing) and clinical data were necessary. 
+Modified Analyte and Indication/Patient Population (OIVD)
+FDA approved a PMA for an in vitro diagnostic immunoassay for the detection of total prostate-specific antigen (total PSA) in serum to aid in detection of prostate cancer in conjunction with the digital rectal exam (DRE). Free prostate-specific antigen (free PSA) is a component of the total PSA. The PMA applicant modified the device to detect free PSA in serum, which was considered a new analyte, and added a new indication, to distinguish prostate cancer from benign prostate disease. The PMA applicant also intended that the device be used in a new patient population with defined total PSA levels and specific DRE characteristics. Consequently, the original preclinical and clinical data were no longer adequate to support a finding of safety and effectiveness of the modified device. The analytical performance characteristics, (e.g., precision, reproducibility, and sensitivity) of the two assays differ. In addition, the clinical performance characteristics (e.g., clinical sensitivity and specificity) also differ.
+To demonstrate reasonable assurance of the safety and effectiveness of the modified device in the new patient population, new analytical (i.e., preclinical testing) and clinical data were necessary.
 Therefore, FDA determined that a traditional PMA was appropriate for this modification.
 (4)
-Significant Modification of Technology (OIVD) 
-FDA approved a PMA for the in vitro detection of bladder cancer in urine that used microwell 
-enzyme immunoassay (EIA) technology (i.e., the reagents and analyte react in solution). The 
-PMA applicant modified the technology to a membrane-bound EIA (i.e., the reagents are bound 
-to a membrane and the urine specimen is applied to the membrane). Because of the differences 
-in the two technologies, the analytical performance characteristics (e.g., precision, 
-reproducibility, and sensitivity) and the clinical performance characteristics (e.g., clinical 
-sensitivity and specificity) of the two assays differ. Therefore, to demonstrate a reasonable 
-assurance of safety and effectiveness for this new technology, new analytical and clinical data 
-were necessary. Therefore, FDA determined that the submission of a traditional PMA was 
-appropriate for this modification.
-B.
-When to Submit a Panel­Track Supplement7 
-The FDA regulation 21 CFR 814.39(c) refers to any type of PMA supplement. However, 
-specific types of PMA supplements are defined under the Act. The term "panel-track 
-supplement" is defined in section 737(4)(B) of the Act (21 U.S.C. 379i(4)(B)), (added by 
-MDUFMA, as amended by the Medical Devices Technical Corrections Act (MDTCA) (Pub. L. 
-108-214 (2004))), as:
-“a supplement to an approved premarket application or premarket report under section 
-515 that requests a significant change in design or performance of the device, or a new 
-indication for use of the device, and for which substantial clinical8 data are necessary to 
-provide a reasonable assurance of safety and effectiveness.”
-7 21 CFR 814.44 describes when a Panel meeting may be held. Not all panel-track supplements require a Panel 
-meeting or input. For more guidance on Panel meetings, please refer to the FDA guidance document titled 
-“Procedures for Meetings of the Medical Devices Advisory Committee”.
-8 For the purposes of this guidance only, FDA considers the term "substantial clinical data" in the definition of 
-panel-track supplement to refer to a new clinical data set that is intended to provide valid scientific evidence 
-necessary to support the safety and effectiveness of the modified device (i.e., the clinical data provided in support of 
-the original device approval is no longer applicable in supporting the approval of the modified device). Human 
-factors data are not considered substantial clinical data because they are specifically focused on evaluating the 
-interaction between the device and the user and not to answer whether the device does what it is intended to do.
-
----
-
-<!-- Page 13 -->
-Contains Nonbinding Recommendations
-12
-We consider panel-track supplements to be the most appropriate supplement type for changes in 
-the indication for use requiring substantial clinical data (i.e., new clinical data), with or without 
-limited new preclinical testing. A change in the indication for use may incorporate a change to 
-the intended patient population, disease state, or to other clinical aspects of the device use, such 
-as duration of use, anatomical site, or surgical procedure. Changes in these clinical aspects 
-would generally require significant labeling changes for which new clinical data are generally 
-needed to support those changes. We also consider a panel-track supplement to be the most 
-appropriate supplement type for a change to, or removal of, a contraindication.9
-A panel-track supplement, therefore, should be submitted for a change in indication for use or a 
-change to (or removal of) a contraindication of the device because:
-·
-substantial clinical data (i.e., new clinical data) are necessary to provide reasonable 
-assurance of safety and effectiveness for that change; and
-·
-indication or contraindication changes generally either do not require or require very 
-limited new preclinical testing (i.e., all or most of the preclinical data previously 
-submitted and reviewed in the traditional PMA are still applicable for the change in 
-indication).
-The following examples illustrate when FDA has considered a panel-track supplement to be 
-appropriate for a modification based on the types of changes made and the testing that was 
-necessary to demonstrate a reasonable assurance of safety and effectiveness.
+Significant Modification of Technology (OIVD)
+FDA approved a PMA for the in vitro detection of bladder cancer in urine that used microwell enzyme immunoassay (EIA) technology (i.e., the reagents and analyte react in solution). The PMA applicant modified the technology to a membrane-bound EIA (i.e., the reagents are bound to a membrane and the urine specimen is applied to the membrane). Because of the differences in the two technologies, the analytical performance characteristics (e.g., precision, reproducibility, and sensitivity) and the clinical performance characteristics (e.g., clinical sensitivity and specificity) of the two assays differ. Therefore, to demonstrate a reasonable assurance of safety and effectiveness for this new technology, new analytical and clinical data were necessary. Therefore, FDA determined that the submission of a traditional PMA was appropriate for this modification.
+### B. When to Submit a Panel­Track Supplement7
+The FDA regulation 21 CFR 814.39(c) refers to any type of PMA supplement. However, specific types of PMA supplements are defined under the Act. The term "panel-track supplement" is defined in section 737(4)(B) of the Act (21 U.S.C. 379i(4)(B)), (added by MDUFMA, as amended by the Medical Devices Technical Corrections Act (MDTCA) (Pub. L.
+108-214 (2004))), as: “a supplement to an approved premarket application or premarket report under section 515 that requests a significant change in design or performance of the device, or a new indication for use of the device, and for which substantial clinical8 data are necessary to provide a reasonable assurance of safety and effectiveness.”
+We consider panel-track supplements to be the most appropriate supplement type for changes in the indication for use requiring substantial clinical data (i.e., new clinical data), with or without limited new preclinical testing. A change in the indication for use may incorporate a change to the intended patient population, disease state, or to other clinical aspects of the device use, such as duration of use, anatomical site, or surgical procedure. Changes in these clinical aspects would generally require significant labeling changes for which new clinical data are generally needed to support those changes. We also consider a panel-track supplement to be the most appropriate supplement type for a change to, or removal of, a contraindication.9
+A panel-track supplement, therefore, should be submitted for a change in indication for use or a change to (or removal of) a contraindication of the device because: · substantial clinical data (i.e., new clinical data) are necessary to provide reasonable assurance of safety and effectiveness for that change; and · indication or contraindication changes generally either do not require or require very limited new preclinical testing (i.e., all or most of the preclinical data previously submitted and reviewed in the traditional PMA are still applicable for the change in indication).
+The following examples illustrate when FDA has considered a panel-track supplement to be appropriate for a modification based on the types of changes made and the testing that was necessary to demonstrate a reasonable assurance of safety and effectiveness.
 (1)
-Change in Indication for Use - Different Patient Population 
-FDA approved a PMA for a ventricular assist device (VAD) indicated for the temporary, 
-mechanical circulatory support of nonreversible left ventricular failure in patients awaiting 
-cardiac transplant (as a temporary bridge to transplantation). The PMA applicant modified the 
-indication for use to include patients not eligible for cardiac transplantation (i.e., “destination 
-therapy”). No modifications were made to the device itself. In destination therapy, the VAD is 
-permanently implanted.
-There are significant differences in the clinical conditions of these two patient populations. For 
-example, destination therapy patients are precluded from a transplant because they do not meet 
-the age requirement or they have one or more co-morbid conditions (e.g., diabetes). The PMA 
-applicant conducted clinical studies for the proposed change to the indication for use to 
-demonstrate safety and effectiveness in this new patient population.
-In addition, destination therapy patients will use the device for a much longer period (years) 
-compared to patients who use it as a temporary bridge to transplantation where the device may 
-be used only for a few weeks or months, and rarely longer than 1 year. New clinical data were 
-needed to demonstrate reasonable assurance of safety and effectiveness for longer term 
-implantation. Although the device itself was not modified, the new conditions of use raise a new 
-preclinical concern regarding device reliability. Therefore, the reliability test that was conducted 
-for the original PMA had to be repeated to support the safety and effectiveness for use in the new 
-patient population. The test conditions were modified to reflect the new clinical use conditions.
-9 For example, the original contraindication specified all pediatric patients, but the applicant wants to modify the 
-contraindication so that only neonate patients are contraindicated.
-
----
-
-<!-- Page 14 -->
-Contains Nonbinding Recommendations
-13
-FDA determined that a panel-track supplement was appropriate for this modification because 
-new clinical data were needed to support the safety and effectiveness of the device and, although 
-some additional preclinical testing was needed to address the new conditions of use, the full 
-battery of preclinical testing was not needed because the device itself was not modified.
-(2)
-Change in Indication for Use - Different Patient Population 
-FDA approved a PMA for a urethral stent indicated to relieve urinary obstruction secondary to 
-recurrent bulbar urethral strictures. The PMA applicant requested FDA’s approval to market the 
-identical device for the treatment of urinary obstruction secondary to benign prostate hyperplasia 
-(BPH). In the original indication for urethral strictures, the device is inserted into the bulbar 
-urethra in order to improve urine flow and prevent recurrence of strictures. In the new indication 
-for BPH, the urethral stent compresses the enlarged prostatic tissue widening the urinary tract 
-within the prostatic urethra in order to relieve urinary symptoms. The use of the permanent stent 
-in this new urethral location (i.e., the prostate) introduces different safety concerns as compared 
-to the traditional indication because the new target patient population has different risks related 
-to age, overall health and anatomical location where the device is to be used. Strictures typically 
-occur in younger healthy men, whereas patients with BPH are generally men greater than 60 
-years of age and who may have more health problems. The different anatomical location also 
-presents new risks (e.g., adverse tissue response due to the presence of the stent in hyperplastic 
-tissue, ejaculatory impairment, and associated reduced fertility).
-Because of the clinical differences related to age, overall health, and anatomical location where 
-the device is to be used between the new and traditional patient populations, new clinical data 
-were needed to support the safety and effectiveness of the new indication for use. No new 
-preclinical data were needed because the device was not modified and the conditions of use (e.g., 
-implant duration) were similar. Therefore, FDA determined that a panel-track supplement was 
-appropriate for this modification.
+Change in Indication for Use - Different Patient Population
+FDA approved a PMA for a ventricular assist device (VAD) indicated for the temporary, mechanical circulatory support of nonreversible left ventricular failure in patients awaiting cardiac transplant (as a temporary bridge to transplantation). The PMA applicant modified the indication for use to include patients not eligible for cardiac transplantation (i.e., “destination therapy”). No modifications were made to the device itself. In destination therapy, the VAD is permanently implanted.
+There are significant differences in the clinical conditions of these two patient populations. For example, destination therapy patients are precluded from a transplant because they do not meet the age requirement or they have one or more co-morbid conditions (e.g., diabetes). The PMA applicant conducted clinical studies for the proposed change to the indication for use to demonstrate safety and effectiveness in this new patient population.
+In addition, destination therapy patients will use the device for a much longer period (years) compared to patients who use it as a temporary bridge to transplantation where the device may be used only for a few weeks or months, and rarely longer than 1 year. New clinical data were needed to demonstrate reasonable assurance of safety and effectiveness for longer term implantation. Although the device itself was not modified, the new conditions of use raise a new preclinical concern regarding device reliability. Therefore, the reliability test that was conducted for the original PMA had to be repeated to support the safety and effectiveness for use in the new patient population. The test conditions were modified to reflect the new clinical use conditions.
+Change in Indication for Use - Different Patient Population
+FDA approved a PMA for a urethral stent indicated to relieve urinary obstruction secondary to recurrent bulbar urethral strictures. The PMA applicant requested FDA’s approval to market the identical device for the treatment of urinary obstruction secondary to benign prostate hyperplasia (BPH). In the original indication for urethral strictures, the device is inserted into the bulbar urethra in order to improve urine flow and prevent recurrence of strictures. In the new indication for BPH, the urethral stent compresses the enlarged prostatic tissue widening the urinary tract within the prostatic urethra in order to relieve urinary symptoms. The use of the permanent stent in this new urethral location (i.e., the prostate) introduces different safety concerns as compared to the traditional indication because the new target patient population has different risks related to age, overall health and anatomical location where the device is to be used. Strictures typically occur in younger healthy men, whereas patients with BPH are generally men greater than 60 years of age and who may have more health problems. The different anatomical location also presents new risks (e.g., adverse tissue response due to the presence of the stent in hyperplastic tissue, ejaculatory impairment, and associated reduced fertility).
+Because of the clinical differences related to age, overall health, and anatomical location where the device is to be used between the new and traditional patient populations, new clinical data were needed to support the safety and effectiveness of the new indication for use. No new preclinical data were needed because the device was not modified and the conditions of use (e.g., implant duration) were similar. Therefore, FDA determined that a panel-track supplement was appropriate for this modification.
 (3)
-Change in Indication for Use - Different Patient Population 
-FDA approved a PMA for a high frequency oscillatory ventilator (HFOV) indicated for 
-ventilatory support and treatment of respiratory failure and barotrauma in low birth weight 
-neonates. The PMA applicant modified the indication to include ventilatory support and 
-treatment in adult patients with (adult) respiratory distress syndrome. The device itself was not 
-modified. The patients in the original PMA consisted of infants with respiratory failure 
-associated with lung immaturity, or other causes of respiratory failure in newborns. The new 
-indication was for adults with adult respiratory distress syndrome, which is a condition 
-associated with trauma and sepsis. Although both groups suffered from respiratory failure, the 
-underlying lung pathology, the cause of the lung pathology, and the potential clinical outcomes 
-for the two populations are different. Because of these clinical differences between these two 
-patient populations, new clinical data were needed to evaluate the safety and effectiveness of the 
-device in the new population. Since the device and the conditions of use remained the same, no 
-new preclinical testing was necessary. Therefore, FDA determined that a panel-track supplement 
-was appropriate for this modification.
-
----
-
-<!-- Page 15 -->
-Contains Nonbinding Recommendations
-14
+Change in Indication for Use - Different Patient Population
+FDA approved a PMA for a high frequency oscillatory ventilator (HFOV) indicated for ventilatory support and treatment of respiratory failure and barotrauma in low birth weight neonates. The PMA applicant modified the indication to include ventilatory support and treatment in adult patients with (adult) respiratory distress syndrome. The device itself was not modified. The patients in the original PMA consisted of infants with respiratory failure associated with lung immaturity, or other causes of respiratory failure in newborns. The new indication was for adults with adult respiratory distress syndrome, which is a condition associated with trauma and sepsis. Although both groups suffered from respiratory failure, the underlying lung pathology, the cause of the lung pathology, and the potential clinical outcomes for the two populations are different. Because of these clinical differences between these two patient populations, new clinical data were needed to evaluate the safety and effectiveness of the device in the new population. Since the device and the conditions of use remained the same, no new preclinical testing was necessary. Therefore, FDA determined that a panel-track supplement was appropriate for this modification.
 (4)
-Change in Indication for Use - Different Patient Population 
-(OIVD) 
-FDA approved a PMA for a glucose monitoring system for detecting trends and tracking patterns 
-in glucose levels in adults with diabetes. The PMA applicant modified the indication for use to 
-add pediatric patients. The differences between adults and children, in body surface area, daily 
-activities, physiology, and underlying disease may affect clinical outcomes in the two patient 
-populations. For this reason, it was necessary to conduct new clinical testing to demonstrate that 
-the device provided reasonable assurance of safety and effectiveness for the new pediatric patient 
-population. Since the device and the conditions of use remained the same, no new preclinical 
-testing was necessary. Therefore, FDA determined that the submission of a new panel-track 
-supplement was appropriate for this modification. 
+Change in Indication for Use - Different Patient Population (OIVD)
+FDA approved a PMA for a glucose monitoring system for detecting trends and tracking patterns in glucose levels in adults with diabetes. The PMA applicant modified the indication for use to add pediatric patients. The differences between adults and children, in body surface area, daily activities, physiology, and underlying disease may affect clinical outcomes in the two patient populations. For this reason, it was necessary to conduct new clinical testing to demonstrate that the device provided reasonable assurance of safety and effectiveness for the new pediatric patient population. Since the device and the conditions of use remained the same, no new preclinical testing was necessary. Therefore, FDA determined that the submission of a new panel-track supplement was appropriate for this modification.
 (5)
-Change in Indication for Use - Different Surgical Procedure 
-FDA approved a PMA for an excimer laser system for photorefractive keratectomy (PRK) for 
-the reduction or elimination of myopia (nearsightedness). The PMA applicant modified the 
-indication to add laser assisted in-situ keratomileusis (LASIK), a different procedure, for the 
-reduction or elimination of myopia using the identical laser system. PRK uses laser ablation on 
-the surface of the cornea to reshape it, whereas LASIK involves cutting a flap in the cornea and 
-using laser ablation underneath the flap. The new indication involves a more invasive procedure 
-with different risks associated with the creation, replacement, and maintenance of the flap.
-There were also new risks and clinical effectiveness concerns associated with the intrastomal 
-ablation used in the new indication. These concerns include a different healing response, longer 
-recovery times, different ablation profiles and deeper ablation into the cornea, potentially leaving 
-it thinner, which may affect the physical integrity of the eye. Therefore, new clinical data were 
-needed to demonstrate reasonable assurance of safety and effectiveness for the new indication 
-for use. No preclinical testing was necessary because the device was not modified and the 
-conditions of use remained the same. Therefore, FDA determined that the submission of a
-panel-track supplement was appropriate for this modification.
+Change in Indication for Use - Different Surgical Procedure
+FDA approved a PMA for an excimer laser system for photorefractive keratectomy (PRK) for the reduction or elimination of myopia (nearsightedness). The PMA applicant modified the indication to add laser assisted in-situ keratomileusis (LASIK), a different procedure, for the reduction or elimination of myopia using the identical laser system. PRK uses laser ablation on the surface of the cornea to reshape it, whereas LASIK involves cutting a flap in the cornea and using laser ablation underneath the flap. The new indication involves a more invasive procedure with different risks associated with the creation, replacement, and maintenance of the flap.
+There were also new risks and clinical effectiveness concerns associated with the intrastomal ablation used in the new indication. These concerns include a different healing response, longer recovery times, different ablation profiles and deeper ablation into the cornea, potentially leaving it thinner, which may affect the physical integrity of the eye. Therefore, new clinical data were needed to demonstrate reasonable assurance of safety and effectiveness for the new indication for use. No preclinical testing was necessary because the device was not modified and the conditions of use remained the same. Therefore, FDA determined that the submission of a panel-track supplement was appropriate for this modification.
 (6)
-Change in Indication for Use - Different Conditions of Use 
-FDA approved a PMA for a soft silicone hydrogel extended wear (1 to 7 days) contact lens 
-indicated for the correction of myopia or hyperopia. The PMA applicant modified the indication 
-to include extended wear up to 30 days. The device remained unchanged and the intended 
-patient population remained the same; however, the conditions of use changed. The extended 
-time of wear raised new safety concerns including increased risk of ocular adverse events, such 
-as corneal microbial keratitis, and corneal infiltrated lesions. To evaluate the risks associated 
-with extended wear from 7 days to up to 30 days, substantial clinical data were necessary to 
-demonstrate a reasonable assurance of safety and effectiveness. No new preclinical testing was 
-needed because the testing previously performed adequately addressed the new conditions of 
-use. Therefore, FDA determined that the submission of a panel-track supplement was 
-appropriate for this modification.
-
----
-
-<!-- Page 16 -->
-Contains Nonbinding Recommendations
-15
+Change in Indication for Use - Different Conditions of Use
+FDA approved a PMA for a soft silicone hydrogel extended wear (1 to 7 days) contact lens indicated for the correction of myopia or hyperopia. The PMA applicant modified the indication to include extended wear up to 30 days. The device remained unchanged and the intended patient population remained the same; however, the conditions of use changed. The extended time of wear raised new safety concerns including increased risk of ocular adverse events, such as corneal microbial keratitis, and corneal infiltrated lesions. To evaluate the risks associated with extended wear from 7 days to up to 30 days, substantial clinical data were necessary to demonstrate a reasonable assurance of safety and effectiveness. No new preclinical testing was needed because the testing previously performed adequately addressed the new conditions of use. Therefore, FDA determined that the submission of a panel-track supplement was appropriate for this modification.
 (7)
-Change in Indication for Use - Different Specimen (Sample) 
-Type (CBER) 
-FDA approved a PMA for an HIV diagnostic (whole blood specimens). The PMA applicant 
-modified the indication to oral fluid specimens without any modification to the device itself, i.e., 
-a new sample type only. The characteristics of oral fluid specimens are different from that of 
-whole blood specimens. Therefore, clinical data were necessary to determine the safety and 
-effectiveness of the device. However, while the specimen matrix changed, the actual analyte 
-(HIV antibodies) did not. In this case, limited analytical studies were sufficient to examine 
-specimen matrix effects. A panel-track supplement would be appropriate for this modification 
-because only new clinical data and limited additional analytical data would be needed to support 
-the safety and effectiveness of the device.
+Change in Indication for Use - Different Specimen (Sample)
+Type (CBER)
+FDA approved a PMA for an HIV diagnostic (whole blood specimens). The PMA applicant modified the indication to oral fluid specimens without any modification to the device itself, i.e., a new sample type only. The characteristics of oral fluid specimens are different from that of whole blood specimens. Therefore, clinical data were necessary to determine the safety and effectiveness of the device. However, while the specimen matrix changed, the actual analyte (HIV antibodies) did not. In this case, limited analytical studies were sufficient to examine specimen matrix effects. A panel-track supplement would be appropriate for this modification because only new clinical data and limited additional analytical data would be needed to support the safety and effectiveness of the device.
 (8)
-Change in Indication for Use - Different Physiological 
-Location 
-FDA approved a PMA for a prosthetic heart valve for use in the aortic position. The PMA 
-applicant modified the indication to include the mitral position. No changes were made to the 
-device itself. In the mitral position, the valve is subjected to different physiological conditions, 
-such as valve closing pressures and flow rates, from the aortic position. These conditions can 
-affect the performance of the valve by affecting the hemodynamics (e.g., forward flow pressure 
-drop (gradient) and regurgitation). These conditions can also affect the complication rates for 
-thrombosis, thromboembolism, and hemolysis. The physiological and potential performance 
-differences between the two positions may significantly impact clinical outcome. Therefore, new 
-clinical data were needed to ensure that the heart valve remained safe and effective when 
-implanted in the new location. Additional preclinical testing was not needed because the test 
-data provided in the original PMA to support the valve for use in the aortic position were 
-sufficient to support the valve for use in the mitral position. Therefore, FDA determined that the 
-submission of a panel-track supplement was appropriate for this change.
-C.
-When to Submit a 180­Day Supplement 
-According to section 737(4)(C) of the Act (21 U.S.C. 379i(4)(C)), "180-day supplement" is 
-defined as:
-“a supplement to an approved premarket application or premarket report under section 
-515 that is not a panel-track supplement and requests a significant change in components, 
-materials, design, specification, software, color additives, or labeling.”
-Submission of a 180-day supplement is required for certain types of significant changes to the 
-approved device that affect safety or effectiveness of the device. In general, for a change to be 
-submitted as a 180-day supplement, the clinical data provided in support of the traditional device 
-approval should still be applicable in supporting the approval of the modified device.
-In most cases, for such modifications, only new preclinical testing is needed to demonstrate 
-reasonable assurance of safety and effectiveness of the modified device. In some instances, 
-however, additional limited confirmatory clinical data may be necessary to provide a bridge 
-between the clinical data set for the original device and the expected clinical performance of the 
-modified device. Confirmatory clinical data typically involve a limited number of patients,
-
----
-
-<!-- Page 17 -->
-Contains Nonbinding Recommendations
-16
-shorter study duration, and/or a subset of endpoints as compared to the clinical data set for a 
-traditional PMA. In these situations, FDA believes that a 180-day supplement, rather than a 
-panel-track supplement, is appropriate because of the limited nature of the supplementary clinical 
-data.
-The applicant should submit a 180-day supplement for certain significant changes, including the 
-following changes:
-·
-the principle of operation;
-·
-the control mechanism;
-·
-the device design or performance;
-·
-the labeling; and
-·
-new testing requirements or acceptance criteria.
-Below are examples illustrating when FDA has considered a 180-day supplement to be 
-appropriate for a device modification, based on the types of changes made and the testing that 
-was necessary to demonstrate a reasonable assurance of safety and effectiveness.
+Change in Indication for Use - Different Physiological Location
+FDA approved a PMA for a prosthetic heart valve for use in the aortic position. The PMA applicant modified the indication to include the mitral position. No changes were made to the device itself. In the mitral position, the valve is subjected to different physiological conditions, such as valve closing pressures and flow rates, from the aortic position. These conditions can affect the performance of the valve by affecting the hemodynamics (e.g., forward flow pressure drop (gradient) and regurgitation). These conditions can also affect the complication rates for thrombosis, thromboembolism, and hemolysis. The physiological and potential performance differences between the two positions may significantly impact clinical outcome. Therefore, new clinical data were needed to ensure that the heart valve remained safe and effective when implanted in the new location. Additional preclinical testing was not needed because the test data provided in the original PMA to support the valve for use in the aortic position were sufficient to support the valve for use in the mitral position. Therefore, FDA determined that the submission of a panel-track supplement was appropriate for this change.
+### C. When to Submit a 180­Day Supplement
+According to section 737(4)(C) of the Act (21 U.S.C. 379i(4)(C)), "180-day supplement" is defined as: “a supplement to an approved premarket application or premarket report under section 515 that is not a panel-track supplement and requests a significant change in components, materials, design, specification, software, color additives, or labeling.”
+Submission of a 180-day supplement is required for certain types of significant changes to the approved device that affect safety or effectiveness of the device. In general, for a change to be submitted as a 180-day supplement, the clinical data provided in support of the traditional device approval should still be applicable in supporting the approval of the modified device.
+In most cases, for such modifications, only new preclinical testing is needed to demonstrate reasonable assurance of safety and effectiveness of the modified device. In some instances, however, additional limited confirmatory clinical data may be necessary to provide a bridge between the clinical data set for the original device and the expected clinical performance of the modified device. Confirmatory clinical data typically involve a limited number of patients, shorter study duration, and/or a subset of endpoints as compared to the clinical data set for a traditional PMA. In these situations, FDA believes that a 180-day supplement, rather than a panel-track supplement, is appropriate because of the limited nature of the supplementary clinical data.
+The applicant should submit a 180-day supplement for certain significant changes, including the following changes: · the principle of operation; · the control mechanism; · the device design or performance; · the labeling; and · new testing requirements or acceptance criteria.
+Below are examples illustrating when FDA has considered a 180-day supplement to be appropriate for a device modification, based on the types of changes made and the testing that was necessary to demonstrate a reasonable assurance of safety and effectiveness.
 (1)
-Design Change 
-FDA approved a ventricular assist device (VAD) intended as temporary mechanical circulatory 
-support for patients awaiting a cardiac transplant. The applicant changed the design of the 
-percutaneous ventricular lead in order to improve the interaction between the lead and the patient 
-by making the lead more flexible and smaller in diameter. This design change was intended to 
-reduce the physical damage to the lead at the site where it exits the patient. No change was made 
-to the indication for use and the patient population. To demonstrate that the modified device 
-remained safe and effective, only mechanical tests, such as pull/bend/twist testing were needed. 
-Since FDA determined that this change could be evaluated with mechanical tests and no new 
-clinical data were needed, the submission of a 180-day supplement was appropriate for this 
-change.
+Design Change
+FDA approved a ventricular assist device (VAD) intended as temporary mechanical circulatory support for patients awaiting a cardiac transplant. The applicant changed the design of the percutaneous ventricular lead in order to improve the interaction between the lead and the patient by making the lead more flexible and smaller in diameter. This design change was intended to reduce the physical damage to the lead at the site where it exits the patient. No change was made to the indication for use and the patient population. To demonstrate that the modified device remained safe and effective, only mechanical tests, such as pull/bend/twist testing were needed.
+Since FDA determined that this change could be evaluated with mechanical tests and no new clinical data were needed, the submission of a 180-day supplement was appropriate for this change.
 (2)
-New Device Feature 
-FDA approved a PMA for an excimer laser system indicated for wavefront-guided LASIK to 
-reduce or eliminate myopia and astigmatism. The PMA applicant added an iris identification and 
-registration system to the device to control for torsional movement of the eye. No changes were 
-made to the indication for use, the intended patient population, the ablation characteristics of the 
-excimer laser, or the intended clinical outcome. For this change, FDA determined that 
-preclinical testing such as engineering tests, visual optics evaluation, and software validation 
-along with the revised labeling were adequate to demonstrate reasonable assurance of the safety 
-and effectiveness of the modification. Therefore, FDA determined that the submission of a 180- 
-day supplement was appropriate.
+New Device Feature
+FDA approved a PMA for an excimer laser system indicated for wavefront-guided LASIK to reduce or eliminate myopia and astigmatism. The PMA applicant added an iris identification and registration system to the device to control for torsional movement of the eye. No changes were made to the indication for use, the intended patient population, the ablation characteristics of the excimer laser, or the intended clinical outcome. For this change, FDA determined that preclinical testing such as engineering tests, visual optics evaluation, and software validation along with the revised labeling were adequate to demonstrate reasonable assurance of the safety and effectiveness of the modification. Therefore, FDA determined that the submission of a 180day supplement was appropriate.
 (3)
-Modified Chemical Formulation 
-FDA approved a PMA for a hydrophilic contact lens. The PMA applicant modified the chemical 
-formulation of the lens by adding an ultraviolet (UV) light blocking material and also modified 
-the manufacturing process. For this change, FDA determined that preclinical testing to assess 
-the modified manufacturing processes, biocompatibility, shelf-life, UV light transmission, and
-
----
-
-<!-- Page 18 -->
-Contains Nonbinding Recommendations
-17
-materials characterization, including an assessment of leachability, was sufficient to demonstrate 
-a reasonable assurance of the safety and effectiveness of this modification. Therefore, FDA 
-determined that the submission of a 180-day supplement was appropriate for this change.
+Modified Chemical Formulation
+FDA approved a PMA for a hydrophilic contact lens. The PMA applicant modified the chemical formulation of the lens by adding an ultraviolet (UV) light blocking material and also modified the manufacturing process. For this change, FDA determined that preclinical testing to assess the modified manufacturing processes, biocompatibility, shelf-life, UV light transmission, and materials characterization, including an assessment of leachability, was sufficient to demonstrate a reasonable assurance of the safety and effectiveness of this modification. Therefore, FDA determined that the submission of a 180-day supplement was appropriate for this change.
 (4)
-Hardware and Software Modifications 
-FDA approved a PMA for a transurethral microwave system that is indicated to relieve 
-symptoms associated with benign prostatic hyperplasia (BPH). The PMA applicant modified 
-several critical components of the system, including the computer motherboard, computer 
-operating system, and software for the user interface screens. To demonstrate that the modified 
-device met the specifications of the original device (and remained safe and effective), 
-comparative bench testing was needed, including software, electromagnetic compatibility 
-(EMC), electrical safety, shock, vibration, and functional testing. The treatment parameters and 
-algorithm remained unchanged such that clinical data were not needed to evaluate the 
-performance of the modified device. Therefore, FDA determined that the submission of a 180- 
-day supplement was appropriate for this change.
+Hardware and Software Modifications
+FDA approved a PMA for a transurethral microwave system that is indicated to relieve symptoms associated with benign prostatic hyperplasia (BPH). The PMA applicant modified several critical components of the system, including the computer motherboard, computer operating system, and software for the user interface screens. To demonstrate that the modified device met the specifications of the original device (and remained safe and effective), comparative bench testing was needed, including software, electromagnetic compatibility (EMC), electrical safety, shock, vibration, and functional testing. The treatment parameters and algorithm remained unchanged such that clinical data were not needed to evaluate the performance of the modified device. Therefore, FDA determined that the submission of a 180day supplement was appropriate for this change.
 (5)
-New Analyzer – Assay Unchanged (OIVD) 
-FDA approved a PMA for a total prostate-specific antigen (total PSA) immunoassay using an 
-automated analyzer. The PMA applicant developed a new automated analyzer to perform the 
-total PSA assay. The indications for use and the technology of the total PSA assay remained 
-unchanged, and no new clinical data were warranted. The PMA applicant conducted new 
-analytical performance testing at internal and external sites to demonstrate that the new analyzer 
-does not alter the performance of the assay. Therefore, FDA determined that a submission of a 
-180-day supplement was appropriate for this change.
+New Analyzer – Assay Unchanged (OIVD)
+FDA approved a PMA for a total prostate-specific antigen (total PSA) immunoassay using an automated analyzer. The PMA applicant developed a new automated analyzer to perform the total PSA assay. The indications for use and the technology of the total PSA assay remained unchanged, and no new clinical data were warranted. The PMA applicant conducted new analytical performance testing at internal and external sites to demonstrate that the new analyzer does not alter the performance of the assay. Therefore, FDA determined that a submission of a 180-day supplement was appropriate for this change.
 (6)
-Design and Software Modification 
-FDA approved a PMA for a bone growth stimulator for use as an adjunct to primary lumbar 
-spinal fusion surgery. The PMA applicant changed the type of battery used and modified the 
-LCD display, which required modifications to the housing, the printed circuit board, and the 
-software. Because these changes impacted the electrical characteristics of the device, it was 
-necessary to conduct preclinical testing, including EMC, electrical safety, shock and vibration, 
-battery life, software and functionality to verify that the modified device operated within the 
-original device’s specifications. Clinical data were not necessary to support the safety and 
-effectiveness of the modified device. Therefore, FDA determined that the submission of a 180- 
-day supplement was appropriate for this change.
+Design and Software Modification
+FDA approved a PMA for a bone growth stimulator for use as an adjunct to primary lumbar spinal fusion surgery. The PMA applicant changed the type of battery used and modified the LCD display, which required modifications to the housing, the printed circuit board, and the software. Because these changes impacted the electrical characteristics of the device, it was necessary to conduct preclinical testing, including EMC, electrical safety, shock and vibration, battery life, software and functionality to verify that the modified device operated within the original device’s specifications. Clinical data were not necessary to support the safety and effectiveness of the modified device. Therefore, FDA determined that the submission of a 180day supplement was appropriate for this change.
 (7)
-Modified Physical Characteristics 
-FDA approved a PMA for an endovascular stent graft system for the treatment of infra- renal 
-abdominal aortic or aorto-iliac vessels. The PMA applicant modified the physical characteristics 
-of the material used in the manufacture of the stent graft. The modified material had the same 
-chemical composition as the original material; however, the weaving process was different. The 
-new graft was woven into a denser weave configuration, which was intended to enhance the 
-robustness of the graft material. Bench testing (e.g., dimension verification, joint strength, burst 
-strength, tensile strength, fatigue, and water permeability) was needed to demonstrate that the 
-new weaving process did not adversely affect the physical performance properties of the device. 
-Animal testing was also needed to compare the vessel healing and patency of the new material
-
----
-
-<!-- Page 19 -->
-Contains Nonbinding Recommendations
-18
-with the material used in the original device. Preclinical testing, including animal testing, was 
-adequate to demonstrate a reasonable assurance of the safety and effectiveness of the device.
-Therefore, FDA determined that the submission of a 180-day supplement was appropriate for this 
-change.
+Modified Physical Characteristics
+FDA approved a PMA for an endovascular stent graft system for the treatment of infra- renal abdominal aortic or aorto-iliac vessels. The PMA applicant modified the physical characteristics of the material used in the manufacture of the stent graft. The modified material had the same chemical composition as the original material; however, the weaving process was different. The new graft was woven into a denser weave configuration, which was intended to enhance the robustness of the graft material. Bench testing (e.g., dimension verification, joint strength, burst strength, tensile strength, fatigue, and water permeability) was needed to demonstrate that the new weaving process did not adversely affect the physical performance properties of the device.
+Animal testing was also needed to compare the vessel healing and patency of the new material with the material used in the original device. Preclinical testing, including animal testing, was adequate to demonstrate a reasonable assurance of the safety and effectiveness of the device.
+Therefore, FDA determined that the submission of a 180-day supplement was appropriate for this change.
 (8)
-New Device Feature 
-FDA approved a PMA for a cardiac radiofrequency (RF) ablation system. The PMA applicant 
-modified the system by adding a feature that allows the physician to visualize catheter navigation 
-during the procedure. The modification did not change the delivery of RF energy to the tissue, 
-and therefore, the clinical performance of the device was not impacted by this modification. 
-Consequently, clinical data were not necessary to support this change. However, verification and 
-validation testing were needed to assess the performance of the modified device. This 
-assessment consisted of bench testing including functionality, EMC, lesion qualification, 
-compatibility testing (between the generator, which has the new feature, and the approved 
-catheters) and animal testing. Bench testing and animal testing were adequate to demonstrate a 
-reasonable assurance of safety and effectiveness of the modified device. Therefore, FDA 
-determined that the submission of a 180-day supplement was appropriate for this change.
+New Device Feature
+FDA approved a PMA for a cardiac radiofrequency (RF) ablation system. The PMA applicant modified the system by adding a feature that allows the physician to visualize catheter navigation during the procedure. The modification did not change the delivery of RF energy to the tissue, and therefore, the clinical performance of the device was not impacted by this modification.
+Consequently, clinical data were not necessary to support this change. However, verification and validation testing were needed to assess the performance of the modified device. This assessment consisted of bench testing including functionality, EMC, lesion qualification, compatibility testing (between the generator, which has the new feature, and the approved catheters) and animal testing. Bench testing and animal testing were adequate to demonstrate a reasonable assurance of safety and effectiveness of the modified device. Therefore, FDA determined that the submission of a 180-day supplement was appropriate for this change.
 (9)
-Design Change 
-FDA approved a PMA for a pneumatic ventricular assist device (VAD) intended as temporary 
-mechanical circulatory support for patients with heart failure awaiting a cardiac transplant. The 
-PMA applicant modified the system from a pneumatically driven system to an electrically driven 
-one by replacing the original controller with a new device controller. The PMA applicant was 
-asked to conduct bench testing to demonstrate the similarities and differences between the 
-performance characteristics (e.g., flow pattern, pressures, alarm functions) of the new controller 
-and the original controller. A limited confirmatory clinical study was also needed to confirm that 
-the modification did not raise new safety and effectiveness questions. The new bench testing and 
-the limited confirmatory clinical study of the modified device, along with the original clinical 
-data set, were sufficient to demonstrate reasonable assurance of safety and effectiveness of the 
-modified device. Therefore, FDA determined that the submission of a 180-day supplement was 
-appropriate for this change.
+Design Change
+FDA approved a PMA for a pneumatic ventricular assist device (VAD) intended as temporary mechanical circulatory support for patients with heart failure awaiting a cardiac transplant. The PMA applicant modified the system from a pneumatically driven system to an electrically driven one by replacing the original controller with a new device controller. The PMA applicant was asked to conduct bench testing to demonstrate the similarities and differences between the performance characteristics (e.g., flow pattern, pressures, alarm functions) of the new controller and the original controller. A limited confirmatory clinical study was also needed to confirm that the modification did not raise new safety and effectiveness questions. The new bench testing and the limited confirmatory clinical study of the modified device, along with the original clinical data set, were sufficient to demonstrate reasonable assurance of safety and effectiveness of the modified device. Therefore, FDA determined that the submission of a 180-day supplement was appropriate for this change.
 (10)
-New Specimen (Sample) Type (CBER) 
-FDA approved a PMA for an HIV diagnostic intended for fingerstick, whole blood specimens. 
-The PMA applicant modified the device for use with venipuncture, whole blood specimens. 
-Specimen characteristics of venipuncture blood and fingerstick blood are not significantly 
-different. The PMA applicant conducted analytical (e.g., reproducibility) and limited clinical 
-data (e.g., clinical sensitivity and specificity) to confirm adequate performance of the 
-modification to demonstrate reasonable assurance of safety and effectiveness for the 
-modification. The clinical data necessary to support this modification was limited. Therefore, 
+New Specimen (Sample) Type (CBER)
+FDA approved a PMA for an HIV diagnostic intended for fingerstick, whole blood specimens.
+The PMA applicant modified the device for use with venipuncture, whole blood specimens.
+Specimen characteristics of venipuncture blood and fingerstick blood are not significantly different. The PMA applicant conducted analytical (e.g., reproducibility) and limited clinical data (e.g., clinical sensitivity and specificity) to confirm adequate performance of the modification to demonstrate reasonable assurance of safety and effectiveness for the modification. The clinical data necessary to support this modification was limited. Therefore,
 FDA determined that the submission of a 180-day supplement was appropriate for the change.
-D.
-When to Submit a Real­Time Supplement 
-According to section 737(4)(D) of the Act (21 U.S.C. 379i(4)(D)) (added by MDUFMA, as 
-amended by MDTCA), a "real-time supplement" is defined as:
-“a supplement to an approved premarket application or premarket report under section
-
----
-
-<!-- Page 20 -->
-Contains Nonbinding Recommendations
-19
-515 that requests a minor change to the device, such as a minor change to the design of 
-the device, software, sterilization, or labeling, and for which the applicant has requested 
-and the agency has granted a meeting or similar forum to jointly review and determine 
-the status of the supplement.”
-For additional information about the type of changes that qualify for a real-time supplement, as 
-well as the process for the real-time review program, please refer to the FDA guidance document 
-titled “Real-Time Premarket Approval Application (PMA) Supplements.”
-The following examples illustrate when FDA has considered a real-time PMA supplement to be 
-appropriate, based on the types of changes made, the testing that was necessary to demonstrate a 
-reasonable assurance of safety and effectiveness, and other applicable criteria. Please note that 
-FDA is not aware of a situation in which a real-time supplement would be appropriate for 
-changes that affect an indication for use; therefore, there are no discussions of changes to 
-indications in the examples below.
+### D. When to Submit a Real­Time Supplement
+According to section 737(4)(D) of the Act (21 U.S.C. 379i(4)(D)) (added by MDUFMA, as amended by MDTCA), a "real-time supplement" is defined as: “a supplement to an approved premarket application or premarket report under section 515 that requests a minor change to the device, such as a minor change to the design of the device, software, sterilization, or labeling, and for which the applicant has requested and the agency has granted a meeting or similar forum to jointly review and determine the status of the supplement.”
+For additional information about the type of changes that qualify for a real-time supplement, as well as the process for the real-time review program, please refer to the FDA guidance document titled “Real-Time Premarket Approval Application (PMA) Supplements.”
+The following examples illustrate when FDA has considered a real-time PMA supplement to be appropriate, based on the types of changes made, the testing that was necessary to demonstrate a reasonable assurance of safety and effectiveness, and other applicable criteria. Please note that
+FDA is not aware of a situation in which a real-time supplement would be appropriate for changes that affect an indication for use; therefore, there are no discussions of changes to indications in the examples below.
 (1)
-Minor Modification to Correct Battery Failures 
-The PMA applicant made minor modifications to the circuitry associated with the battery 
-supervisor chip in the portable driver used with its ventricular assist device (VAD). The 
-modification was intended to correct a battery failure problem. The bench testing was conducted 
-using a test method that was previously accepted by FDA and was sufficient to support the 
-change to the device. In addition, the supporting test data for this change were within the single 
-scientific discipline of electrical engineering. Therefore, FDA determined that a real-time 
-supplement was appropriate for this change.
+Minor Modification to Correct Battery Failures
+The PMA applicant made minor modifications to the circuitry associated with the battery supervisor chip in the portable driver used with its ventricular assist device (VAD). The modification was intended to correct a battery failure problem. The bench testing was conducted using a test method that was previously accepted by FDA and was sufficient to support the change to the device. In addition, the supporting test data for this change were within the single scientific discipline of electrical engineering. Therefore, FDA determined that a real-time supplement was appropriate for this change.
 (2)
-Alternative Sterilization Method 
-The PMA applicant employed an alternative sterilization method for its cardiac ablation catheter. 
-The sterilization method used was a method that was previously reviewed and approved by FDA 
-for this type of device. Validation testing alone was sufficient to ensure the alternative method 
-adequately sterilized the ablation catheter. In addition, the supporting test data for this change 
-were within the single scientific discipline of sterilization. Therefore, FDA determined that a 
-real-time supplement was appropriate for this change.10 
+Alternative Sterilization Method
+The PMA applicant employed an alternative sterilization method for its cardiac ablation catheter.
+The sterilization method used was a method that was previously reviewed and approved by FDA for this type of device. Validation testing alone was sufficient to ensure the alternative method adequately sterilized the ablation catheter. In addition, the supporting test data for this change were within the single scientific discipline of sterilization. Therefore, FDA determined that a real-time supplement was appropriate for this change.10
 (3)
-Storage Temperature Change 
-The PMA applicant increased the upper limit for the storage temperature from 25°C to 30°C for 
-its bone graft (i.e., recombinant human bone morphogenetic protein). This is a minor change to 
-the storage condition and device labeling. Stability data at the new higher temperature was 
-sufficient to support the change and was conducted using an accepted test method. In addition, 
-the supporting data for this change were within the single scientific discipline of materials 
-engineering. Therefore, FDA determined that a real-time supplement was appropriate for this 
-change. 
-10 Changes in sterilization method (e.g., dry heat sterilization to gamma radiation) should not be reviewed under the 
-30-day notice program because a change in sterilization method could impact the device specifications and/or 
-performance.
-
----
-
-<!-- Page 21 -->
-Contains Nonbinding Recommendations
-20
+Storage Temperature Change
+The PMA applicant increased the upper limit for the storage temperature from 25°C to 30°C for its bone graft (i.e., recombinant human bone morphogenetic protein). This is a minor change to the storage condition and device labeling. Stability data at the new higher temperature was sufficient to support the change and was conducted using an accepted test method. In addition, the supporting data for this change were within the single scientific discipline of materials engineering. Therefore, FDA determined that a real-time supplement was appropriate for this change.
+10 Changes in sterilization method (e.g., dry heat sterilization to gamma radiation) should not be reviewed under the 30-day notice program because a change in sterilization method could impact the device specifications and/or performance.
 (4)
-Extended Shelf Life 
-The PMA applicant modified the labeling of its injectable gel for facial wrinkles and folds to 
-extend the shelf life from 24 months to 36 months. Accelerated and long-term testing was 
-performed to evaluate the physical, chemical, and biological stability of the device during 
-storage. This is a minor change to the labeling and the stability studies are well understood and 
-have a well defined protocol. In addition, the supporting data for this change were within the 
-single scientific discipline of microbiology. Therefore, FDA determined that a real-time 
-supplement was appropriate for this change.11
+Extended Shelf Life
+The PMA applicant modified the labeling of its injectable gel for facial wrinkles and folds to extend the shelf life from 24 months to 36 months. Accelerated and long-term testing was performed to evaluate the physical, chemical, and biological stability of the device during storage. This is a minor change to the labeling and the stability studies are well understood and have a well defined protocol. In addition, the supporting data for this change were within the single scientific discipline of microbiology. Therefore, FDA determined that a real-time supplement was appropriate for this change.11
 (5)
-Component Offered as Stand Alone System 
-The PMA applicant proposed to modify an excimer laser system by offering the wavefront 
-system and the surgery planning software included in the original system as a stand-alone system 
-to allow the surgeon to prepare for surgical cases in advance. There were no actual changes to 
-the wavefront system or the surgery planning software, and both were included in the original 
-PMA. Verification and validation of data transfer from the excimer laser system to the stand- 
-alone system was sufficient to support this minor change. In addition, the supporting data for 
-this change were within the single scientific discipline of electrical engineering. Therefore, FDA 
-determined that a real-time supplement was appropriate for this change.
+Component Offered as Stand Alone System
+The PMA applicant proposed to modify an excimer laser system by offering the wavefront system and the surgery planning software included in the original system as a stand-alone system to allow the surgeon to prepare for surgical cases in advance. There were no actual changes to the wavefront system or the surgery planning software, and both were included in the original PMA. Verification and validation of data transfer from the excimer laser system to the standalone system was sufficient to support this minor change. In addition, the supporting data for this change were within the single scientific discipline of electrical engineering. Therefore, FDA determined that a real-time supplement was appropriate for this change.
 (6)
-Alternate Wet Shipping Solution 
-The PMA applicant proposed to use an alternate wet shipping solution for its permeable 
-extended wear contact lenses. This solution was one that was previously approved by the FDA 
-for other contact lenses. The concerns with this type of change included biocompatibility of the 
-new solution, compatibility with the contact lens, adequate preservative efficacy (i.e., ability to 
-maintain low bioburden), and adequate labeling (identification of solution and preservative).
-The supporting data for this change were within the single scientific discipline of microbiology. 
+Alternate Wet Shipping Solution
+The PMA applicant proposed to use an alternate wet shipping solution for its permeable extended wear contact lenses. This solution was one that was previously approved by the FDA for other contact lenses. The concerns with this type of change included biocompatibility of the new solution, compatibility with the contact lens, adequate preservative efficacy (i.e., ability to maintain low bioburden), and adequate labeling (identification of solution and preservative).
+The supporting data for this change were within the single scientific discipline of microbiology.
 Therefore, FDA determined that a real-time supplement was appropriate for this change.
 (7)
-Modified Bonding Method 
-The PMA applicant modified the method of bonding the retention balloon to the catheter in its 
-transurethral microwave system to enhance balloon reliability. This was a minor change, 
-adequately supported by bench testing using the test method previously described in the original 
-approved PMA. In addition, the supporting data for this change were within the single scientific 
-discipline of mechanical engineering. (Note that it was also determined that this particular 
-change in bonding method could impact the device specifications and/or performance.12) 
-Therefore, FDA determined that a real-time supplement was appropriate for this change.
-11 If a shelf life protocol was approved for extended shelf life testing in an approval order for a traditional PMA 
-(or an approval order for a subsequent supplement), then the shelf life testing results can be reported as part of the 
-annual report.
-12 If the change in bonding method had no potential impact on the device specifications and/or performance, 
-then this type of change may be appropriate for review under the 30-day notice program.
-
----
-
-<!-- Page 22 -->
-Contains Nonbinding Recommendations
-21
-E.
-When to Submit a Special PMA Supplement – Changes 
-Being Effected13
-Sections 21 CFR 814.39(d)(1) and (d)(2) provide that certain labeling and manufacturing 
-changes that enhance the safety of the device or the safety in the use of the device may be 
-submitted as a supplement marked “Special PMA Supplement – Changes Being Effected.” The 
-Special PMA Supplement is a narrow exception to the general rule that prior FDA approval of 
-changes to a PMA, including the labeling for a device, is a condition of lawful distribution and, 
-therefore, may only be utilized when (1) the applicant has newly acquired safety-related 
-information; (2) the information in question was not previously submitted to the FDA; and (3) 
-the information involves labeling changes that add or strengthen a contraindication, warning, 
-precaution, or information about an adverse reaction for which there is reasonable evidence of a 
-causal association.
-Prior to approving a PMA, the FDA undertakes a detailed review of the proposed labeling, 
-allowing only those safety-related warnings for which there is reasonable evidence of a causal 
-association. Allowing the applicant to add a safety-related warning using a Special PMA 
-Supplement based on information that was known to the FDA during the rigorous PMA review 
-process would undermine that important process. For the same reason, the applicant may not add 
-a safety-related warning to avoid potential liability under state tort law if there is not reasonable 
-evidence of a causal association for the new warning. Instead, the applicant may utilize the 
-limited Special PMA Supplement only when it possesses new information that provides a 
-scientifically legitimate foundation for modifying the FDA-approved labeling. For these types of 
-changes, the applicant may place the change in effect prior to receipt of a written FDA order 
-approving the supplement, provided that the following exist:
-·
-the PMA supplement and its mailing cover are plainly marked “Special PMA Supplement 
-– Changes Being Effected;”
-·
-the PMA supplement provides a full explanation of the basis for the changes;
-·
-the applicant has received acknowledgement from FDA of receipt of the supplement; and
-·
-the PMA supplement specifically identifies the date that such changes are being effected.
-Although the applicant may place a change into effect prior to the receipt of a written FDA order 
-approving the change, any such change should be considered temporary while FDA reviews the 
-supplement, including the basis for how the change enhances the safety of the device or the 
-safety in the use of the device. Design changes are not considered appropriate for a Special 
-PMA Supplement. For example, if the applicant attempted to change the design of an 
-implantable cardiac device so that it can be more securely held in place inside the patient's chest 
-cavity, such a change would be inappropriate for a Special PMA Supplement.
-Although the regulation allows both labeling and manufacturing changes that enhance the safety 
-of the device or the safety in the use of the device to be submitted as a Special PMA Supplement, 
-13 FDA recently published a final rule entitled, “Supplemental Applications Proposing Labeling Changes for 
-Approved Drugs, Biologics, and Medical Devices” (73 Fed. Reg. 49603, August 22, 2008, 
-https://www.federalregister.gov/documents/2008/08/22/E8-19572/supplemental-applications-proposing-
-labeling-changes-for-approved-drugs-biologics-and-medical). This final rule, in part, amends 21 CFR 
-§§ 814.3, 814.39(d)(1) and (2). The recommendations in this guidance are consistent with the final rule.
-
----
-
-<!-- Page 23 -->
-Contains Nonbinding Recommendations
-22
-FDA believes that labeling changes (as described in 21 CFR 814.39(d)(2)) are most appropriate 
-for a Special PMA Supplement. However, changes to the quality control or manufacturing 
-process may fall under the scope of this provision. The manufacturing changes that may be 
-reviewed as a Special PMA Supplement are generally those that add a step to the quality control 
-or manufacturing processes to enhance safety but not to impact effectiveness.
-If the quality control or manufacturing process modification enhances safety and also impacts 
-effectiveness, then we believe that change is not appropriate for a Special PMA Supplement and, 
-instead, a 30-day notice is more appropriate. However, a PMA supplement (e.g., real-time 
-supplement, 180-day supplement) may be more appropriate if the quality control or 
-manufacturing process change impacts the device specifications and/or performance of the 
-device.
-Below we provide examples to illustrate when FDA has considered a Special PMA Supplement 
-to be appropriate, based on the types of labeling and manufacturing changes made.
+Modified Bonding Method
+The PMA applicant modified the method of bonding the retention balloon to the catheter in its transurethral microwave system to enhance balloon reliability. This was a minor change, adequately supported by bench testing using the test method previously described in the original approved PMA. In addition, the supporting data for this change were within the single scientific discipline of mechanical engineering. (Note that it was also determined that this particular change in bonding method could impact the device specifications and/or performance.12) Therefore, FDA determined that a real-time supplement was appropriate for this change.
+11 If a shelf life protocol was approved for extended shelf life testing in an approval order for a traditional PMA (or an approval order for a subsequent supplement), then the shelf life testing results can be reported as part of the annual report.
+12 If the change in bonding method had no potential impact on the device specifications and/or performance, then this type of change may be appropriate for review under the 30-day notice program.
+### E. When to Submit a Special PMA Supplement – Changes Being Effected13
+Sections 21 CFR 814.39(d)(1) and (d)(2) provide that certain labeling and manufacturing changes that enhance the safety of the device or the safety in the use of the device may be submitted as a supplement marked “Special PMA Supplement – Changes Being Effected.” The
+Special PMA Supplement is a narrow exception to the general rule that prior FDA approval of changes to a PMA, including the labeling for a device, is a condition of lawful distribution and, therefore, may only be utilized when (1) the applicant has newly acquired safety-related information; (2) the information in question was not previously submitted to the FDA; and (3) the information involves labeling changes that add or strengthen a contraindication, warning, precaution, or information about an adverse reaction for which there is reasonable evidence of a causal association.
+Prior to approving a PMA, the FDA undertakes a detailed review of the proposed labeling, allowing only those safety-related warnings for which there is reasonable evidence of a causal association. Allowing the applicant to add a safety-related warning using a Special PMA
+Supplement based on information that was known to the FDA during the rigorous PMA review process would undermine that important process. For the same reason, the applicant may not add a safety-related warning to avoid potential liability under state tort law if there is not reasonable evidence of a causal association for the new warning. Instead, the applicant may utilize the limited Special PMA Supplement only when it possesses new information that provides a scientifically legitimate foundation for modifying the FDA-approved labeling. For these types of changes, the applicant may place the change in effect prior to receipt of a written FDA order approving the supplement, provided that the following exist: · the PMA supplement and its mailing cover are plainly marked “Special PMA Supplement – Changes Being Effected;”
+- the PMA supplement provides a full explanation of the basis for the changes; · the applicant has received acknowledgement from FDA of receipt of the supplement; and · the PMA supplement specifically identifies the date that such changes are being effected.
+Although the applicant may place a change into effect prior to the receipt of a written FDA order approving the change, any such change should be considered temporary while FDA reviews the supplement, including the basis for how the change enhances the safety of the device or the safety in the use of the device. Design changes are not considered appropriate for a Special PMA Supplement. For example, if the applicant attempted to change the design of an implantable cardiac device so that it can be more securely held in place inside the patient's chest cavity, such a change would be inappropriate for a Special PMA Supplement.
+Although the regulation allows both labeling and manufacturing changes that enhance the safety of the device or the safety in the use of the device to be submitted as a Special PMA Supplement, 13 FDA recently published a final rule entitled, “Supplemental Applications Proposing Labeling Changes for
+Approved Drugs, Biologics, and Medical Devices” (73 Fed. Reg. 49603, August 22, 2008, https://www.federalregister.gov/documents/2008/08/22/E8-19572/supplemental-applications-proposinglabeling-changes-for-approved-drugs-biologics-and-medical). This final rule, in part, amends 21 CFR §§ 814.3, 814.39(d)(1) and (2). The recommendations in this guidance are consistent with the final rule.
+FDA believes that labeling changes (as described in 21 CFR 814.39(d)(2)) are most appropriate for a Special PMA Supplement. However, changes to the quality control or manufacturing process may fall under the scope of this provision. The manufacturing changes that may be reviewed as a Special PMA Supplement are generally those that add a step to the quality control or manufacturing processes to enhance safety but not to impact effectiveness.
+If the quality control or manufacturing process modification enhances safety and also impacts effectiveness, then we believe that change is not appropriate for a Special PMA Supplement and, instead, a 30-day notice is more appropriate. However, a PMA supplement (e.g., real-time supplement, 180-day supplement) may be more appropriate if the quality control or manufacturing process change impacts the device specifications and/or performance of the device.
+Below we provide examples to illustrate when FDA has considered a Special PMA Supplement to be appropriate, based on the types of labeling and manufacturing changes made.
 (1)
-New Warning Added 
-The PMA applicant made a labeling change in the technical manual for its neurological 
-implantable programmer, by adding a warning against using the device in the presence of any 
-flammable anesthetic mixture in conformance with the FDA-recognized standard (i.e., 
-International Electrotechnical Commission (IEC) 60601-1 Medical Electrical Equipment - Part 1: 
-General Requirements for Safety). Because this modification to the warning of the labeling 
-enhanced safety with no impact on effectiveness, a Special PMA Supplement was appropriate.
+New Warning Added
+The PMA applicant made a labeling change in the technical manual for its neurological implantable programmer, by adding a warning against using the device in the presence of any flammable anesthetic mixture in conformance with the FDA-recognized standard (i.e.,
+International Electrotechnical Commission (IEC) 60601-1 Medical Electrical Equipment - Part 1:
+General Requirements for Safety). Because this modification to the warning of the labeling enhanced safety with no impact on effectiveness, a Special PMA Supplement was appropriate.
 (2)
-Manufacturing Process Change 
-The PMA applicant made a modification to its manufacturing process for the source wire 
-component of its intravascular brachytherapy system, by adding a secondary wipe station to the 
-manufacturing process. The PMA applicant made this change as a result of detecting incidental 
-radioactive contamination during routine cartridge exchanges. This change was made to provide 
-an additional safeguard to ensure effective removal of contaminants from the wire surface prior 
-to transfer in a production cartridge. Because this modification enhanced safety with no impact 
-on effectiveness, a Special PMA Supplement was appropriate.
+Manufacturing Process Change
+The PMA applicant made a modification to its manufacturing process for the source wire component of its intravascular brachytherapy system, by adding a secondary wipe station to the manufacturing process. The PMA applicant made this change as a result of detecting incidental radioactive contamination during routine cartridge exchanges. This change was made to provide an additional safeguard to ensure effective removal of contaminants from the wire surface prior to transfer in a production cartridge. Because this modification enhanced safety with no impact on effectiveness, a Special PMA Supplement was appropriate.
 (3)
-Improved Instructions 
-The PMA applicant made a labeling change to its urethral stent to improve the instructions for 
-device removal after urothelial coverage. Because this modification enhanced safety with no 
-impact on effectiveness, a Special PMA Supplement was appropriate. 
+Improved Instructions
+The PMA applicant made a labeling change to its urethral stent to improve the instructions for device removal after urothelial coverage. Because this modification enhanced safety with no impact on effectiveness, a Special PMA Supplement was appropriate.
 (4)
-Additional Inspection Step in the Manufacturing Process 
-The PMA applicant added an additional incoming inspection step (i.e., measuring the outer 
-diameter of the distal end of the stopcock) to the manufacturing process of a duett sealing device 
-(sealing femoral arterial puncture site). The purpose of this step was to ensure that there was a 
-tight fit between the two mating parts: the distal end of the stopcock and the proximal end of the 
-hub sleeve knob. This change enhanced the reliability of the catheter by more reliably ensuring a 
-proper fit when the user attached these two components together. Since the change enhanced the 
-safety in the use of the device with no impact on effectiveness, a Special PMA Supplement was
-
----
-
-<!-- Page 24 -->
-Contains Nonbinding Recommendations
-23
-appropriate.
+Additional Inspection Step in the Manufacturing Process
+The PMA applicant added an additional incoming inspection step (i.e., measuring the outer diameter of the distal end of the stopcock) to the manufacturing process of a duett sealing device (sealing femoral arterial puncture site). The purpose of this step was to ensure that there was a tight fit between the two mating parts: the distal end of the stopcock and the proximal end of the hub sleeve knob. This change enhanced the reliability of the catheter by more reliably ensuring a proper fit when the user attached these two components together. Since the change enhanced the safety in the use of the device with no impact on effectiveness, a Special PMA Supplement was appropriate.
 (5)
-Additional Inspection Step in the Manufacturing Process 
-The PMA applicant added an additional inspection step to the manufacturing process for its bone 
-growth stimulator as a result of observing an increased frequency of a particular error message. 
-A greater than normal air gap between two inductors on one of the circuit boards was the source 
-of the error. The process was modified to assess the air gap between the conductors, thereby 
-better ensuring the reliability of the device. Since the change enhanced the safety of the device 
-and did not impact effectiveness, a Special PMA Supplement was appropriate. 
-F. 
-When to Submit a 30­Day Notice 
-Section 515(d) of the Act (21 U.S.C. 360e), as amended by the Food and Drug Administration 
-Modernization Act of 1997 (FDAMA)(Pub. L. 105-115), permits a PMA applicant to submit 
-written notification to the agency of a modification to the manufacturing procedure or method of 
-manufacture affecting the safety and effectiveness of the device rather than submitting such 
-change as a PMA supplement. The applicant may distribute the device 30 days after the date on 
-which FDA receives the notice, unless FDA finds such information in the 30-day notice is not 
-adequate, notifies the applicant that the submission has been converted to a 135-day supplement 
-(21 CFR 814.39(f)), and describes further information or action that is required for acceptance of 
-the modification. For additional information about the type of changes that qualify for a 30-day 
-notice and for information on when FDA may convert a 30-day notice to a 135-day supplement, 
-refer to the FDA guidance document titled “30-Day Notices, 135-Day Premarket Approval (PMA) 
-Supplements and 75-Day Humanitarian Device Exemption (HDE) Supplements for Manufacturing 
-Method or Process Changes”.
-Below, we provide examples of the types of changes that FDA has considered to be appropriate 
-for the submission of a 30-day notice. In some cases, the 30-day notice was converted to a 135- 
-day supplement because the supporting information was inadequate. For those cases, we have 
-included an explanation for the conversion.
+Additional Inspection Step in the Manufacturing Process
+The PMA applicant added an additional inspection step to the manufacturing process for its bone growth stimulator as a result of observing an increased frequency of a particular error message.
+A greater than normal air gap between two inductors on one of the circuit boards was the source of the error. The process was modified to assess the air gap between the conductors, thereby better ensuring the reliability of the device. Since the change enhanced the safety of the device and did not impact effectiveness, a Special PMA Supplement was appropriate.
+### F. When to Submit a 30­Day Notice
+Section 515(d) of the Act (21 U.S.C. 360e), as amended by the Food and Drug Administration
+Modernization Act of 1997 (FDAMA)(Pub. L. 105-115), permits a PMA applicant to submit written notification to the agency of a modification to the manufacturing procedure or method of manufacture affecting the safety and effectiveness of the device rather than submitting such change as a PMA supplement. The applicant may distribute the device 30 days after the date on which FDA receives the notice, unless FDA finds such information in the 30-day notice is not adequate, notifies the applicant that the submission has been converted to a 135-day supplement (21 CFR 814.39(f)), and describes further information or action that is required for acceptance of the modification. For additional information about the type of changes that qualify for a 30-day notice and for information on when FDA may convert a 30-day notice to a 135-day supplement, refer to the FDA guidance document titled “30-Day Notices, 135-Day Premarket Approval (PMA)
+Supplements and 75-Day Humanitarian Device Exemption (HDE) Supplements for Manufacturing Method or Process Changes”.
+Below, we provide examples of the types of changes that FDA has considered to be appropriate for the submission of a 30-day notice. In some cases, the 30-day notice was converted to a 135day supplement because the supporting information was inadequate. For those cases, we have included an explanation for the conversion.
 (1)
-Manual to Automated Process 
-The PMA applicant has a specified manufacturing process for a cardiac resynchronization 
-therapy pacemaker (CRT-P). As part of its manufacturing process, there is a manual process for 
-applying medical adhesive. The PMA applicant made a change that involved automating the 
-process of applying the medical adhesive to the device header and affixing the header to the 
-device case. Adequate information was submitted to support the 30-day notice for the 
-manufacturing change.
+Manual to Automated Process
+The PMA applicant has a specified manufacturing process for a cardiac resynchronization therapy pacemaker (CRT-P). As part of its manufacturing process, there is a manual process for applying medical adhesive. The PMA applicant made a change that involved automating the process of applying the medical adhesive to the device header and affixing the header to the device case. Adequate information was submitted to support the 30-day notice for the manufacturing change.
 (2)
-Alternate Qualified Supplier of Critical Component (OIVD) 
-The PMA applicant has a qualified supplier for the manufacture of a critical component used in 
-the calibrator of its Hepatitis B surface antigen assay. The change in manufacturing process 
-involved identifying a different qualified supplier for this component that met the same 
-specifications. Adequate information was submitted to support the 30-day notice for the change 
-in supplier. This included, but was not limited to, specifications for the raw material, supplier 
-evaluation procedures, and a description of the type and extent of control over the raw 
-material/supplier for the old and new material/supplier.
-
----
-
-<!-- Page 25 -->
-Contains Nonbinding Recommendations
-24
+Alternate Qualified Supplier of Critical Component (OIVD)
+The PMA applicant has a qualified supplier for the manufacture of a critical component used in the calibrator of its Hepatitis B surface antigen assay. The change in manufacturing process involved identifying a different qualified supplier for this component that met the same specifications. Adequate information was submitted to support the 30-day notice for the change in supplier. This included, but was not limited to, specifications for the raw material, supplier evaluation procedures, and a description of the type and extent of control over the raw material/supplier for the old and new material/supplier.
 (3)
-Alternate Qualified Supplier of Critical Material 
-The PMA applicant has a qualified supplier for polymethylmethacrylate (PMMA) material, a 
-critical material used in the manufacture of a single-piece intra-ocular lens. The PMA applicant 
-submitted a 30-day notice identifying a different qualified supplier for the PMMA material that 
-met the same specifications. This 30-day notice was converted to a 135-day supplement because 
-the submission did not contain all the tests necessary to qualify the new supplier, such as optic 
-tilt test and axial displacement test.
+Alternate Qualified Supplier of Critical Material
+The PMA applicant has a qualified supplier for polymethylmethacrylate (PMMA) material, a critical material used in the manufacture of a single-piece intra-ocular lens. The PMA applicant submitted a 30-day notice identifying a different qualified supplier for the PMMA material that met the same specifications. This 30-day notice was converted to a 135-day supplement because the submission did not contain all the tests necessary to qualify the new supplier, such as optic tilt test and axial displacement test.
 (4)
-In-Process Quality Control Step Change 
-The PMA applicant has numerous quality control steps for the manufacture of an inflatable 
-penile prosthesis. An in-process quality control monitoring step for endotoxin testing is part of 
-the manufacturing process. The PMA applicant made a change that included moving the in- 
-process quality control monitoring step for endotoxin to a different location in the process flow. 
-The PMA applicant provided adequate documentation in the 30-day notice to support this change 
-in the manufacturing process of the prosthesis.
+In-Process Quality Control Step Change
+The PMA applicant has numerous quality control steps for the manufacture of an inflatable penile prosthesis. An in-process quality control monitoring step for endotoxin testing is part of the manufacturing process. The PMA applicant made a change that included moving the inprocess quality control monitoring step for endotoxin to a different location in the process flow.
+The PMA applicant provided adequate documentation in the 30-day notice to support this change in the manufacturing process of the prosthesis.
 (5)
-Manual to Automated Process Conversion 
-The PMA applicant submitted a change to the manufacturing process for forming and folding the 
-balloon wings of an Over-the-Wire Percutaneous Transluminal Angioplasty (PTCA) catheter 
-from a manual process to an automated process. This 30-day notice was converted to a 135-day 
-supplement because the submission did not contain all of the appropriate testing (e.g., balloon 
-fatigue test, rated burst pressure test, and validation data) to support the change. 
+Manual to Automated Process Conversion
+The PMA applicant submitted a change to the manufacturing process for forming and folding the balloon wings of an Over-the-Wire Percutaneous Transluminal Angioplasty (PTCA) catheter from a manual process to an automated process. This 30-day notice was converted to a 135-day supplement because the submission did not contain all of the appropriate testing (e.g., balloon fatigue test, rated burst pressure test, and validation data) to support the change.
 (6)
-Modified In-Process Test 
-The PMA applicant of a vascular closure device submitted a 30-day notice to incorporate an 
-alternate backup deployment test methodology in its manufacturing process. The notice was 
-converted to a 135-day supplement because the test methods and acceptance criteria used to 
-support this change were either not clearly explained or not provided in the submission.
+Modified In-Process Test
+The PMA applicant of a vascular closure device submitted a 30-day notice to incorporate an alternate backup deployment test methodology in its manufacturing process. The notice was converted to a 135-day supplement because the test methods and acceptance criteria used to support this change were either not clearly explained or not provided in the submission.
 (7)
-Modified Sterilization Process Parameters 
-The PMA applicant submitted a change to allow sterile product release based on demonstration 
-of conformity to pre-defined sterilization parameters (parametric release) rather than release 
-based on demonstrating no growth of biological indicators (conventional release). The PMA 
-applicant provided adequate documentation in the 30-day notice to support this change in the 
-sterilization process. 
- 
-G. 
-When to Submit a Manufacturing Site Change 
-Supplement 
-After approval of a PMA, an applicant shall submit a PMA supplement for review and approval 
-by FDA before making a change that affects the safety or effectiveness of the device, including a 
-change that uses a different facility or establishment to manufacture, process, or package the 
-device.14 Such a PMA supplement for a move to a different facility or establishment is called a 
-14 See 21 CFR 814.39(a).
+Modified Sterilization Process Parameters
+The PMA applicant submitted a change to allow sterile product release based on demonstration of conformity to pre-defined sterilization parameters (parametric release) rather than release based on demonstrating no growth of biological indicators (conventional release). The PMA applicant provided adequate documentation in the 30-day notice to support this change in the sterilization process.
 
----
-
-<!-- Page 26 -->
-Contains Nonbinding Recommendations
-25
-“manufacturing site change supplement.”
-Manufacturing site change supplements are 180-day supplements (21 CFR 814.39(c) and
-814.40) that are reviewed by CDRH’s Office of Compliance (CDRH/OC) or OIVD (for in vitro 
-diagnostic devices).15 Manufacturing site change supplements include those that require pre- 
-approval inspection, as well as those that do not.16 CDRH intends to issue a separate guidance 
-document for manufacturing site change supplements that describes the criteria for 
-manufacturing site change supplements and when an inspection would likely occur. Accordingly, 
-this information is not included in this guidance document. Applicants should contact 
-CDRH/OC or OIVD in advance of the submission to discuss what information should be 
-provided.
-V.
-Periodic Reports 
-In accordance with 21 CFR 814.82(a)(7), FDA may require as a condition of approval 
-submission to FDA at intervals specified in the approval order of periodic reports containing the 
-information required by 21 CFR 814.84(b). In most cases, after the PMA is approved, the PMA 
-applicant is required to submit reports to FDA annually unless a different time frame is specified 
-in the approval order. Accordingly, periodic reports are typically referred to by FDA and 
-industry as “annual reports.”
-For changes that do not require the submission of a traditional PMA or a PMA supplement, you 
-should provide this information as part of your annual report.17 However, it should be noted that 
-simple changes related to the device documentation or manufacturing process documentation, 
-such as rewording or expanding for clarification, translating from one language to another, 
-correcting typographical errors, and moving component characteristics from an engineering 
-drawing note to a different document (e.g., standard operating procedure), do not need to be 
-reported in the annual report.
-Below, we provide examples of the types of changes that FDA has considered to be appropriate 
-to be submitted as part of an annual report because the Agency did not believe that these impact 
-safety or effectiveness.
-·
-Extension of the expiration date of the device based on data obtained under an approved 
-protocol, as specified in an approval order.
-·
-Lowered the clean room temperature shutdown limit to provide a comfortable 
-environment for personnel per environmental, health, and safety requirements. Reducing 
-15 If the applicant submits a supplement that includes both a design change and a manufacturing site change, then 
-ODE or OIVD will be the lead review office and will consult with OC.
-16 In previous guidance to industry, FDA described “express supplements” as manufacturing site change 
-supplements that did not require pre-approval inspection. However, FDA no longer uses the “express 
-supplement” terminology to distinguish these supplements from the other types of manufacturing site change 
-supplements. Nevertheless, the expectation is that for a manufacturing site change supplement that does not 
-require a pre-approval inspection, the review process is shorter.
-17 Refer to the annual report guidance document titled “Annual Reports for Approved Premarket Approval Applications 
-(PMA)” for more details.
-
----
-
-<!-- Page 27 -->
-Contains Nonbinding Recommendations
-26
-a maximum temperature specification does not impact the safety and effectiveness of the 
-device.
-·
-Increased the number of products sampled for release testing. Increasing the number 
-better assures that product released meets the specifications.
-·
-Tightened the allowed viscosity range for the balloon dipping process from 27.0 – 157.0 
-to 78 – 82. The larger range is acceptable, but the restricted range is optimal for low 
-processing times and high yields.
-·
-Changed the in-process testing data collection form to record actual resistance readings 
-for the continuity failure test rather than recording pass/fail.
-·
-Added a clarification to include a minimum cure time to the manufacturing instructions 
-for the boot adhesive step. The prior manufacturing instructions contained no minimum 
-cure time.
-·
-Updated the processing instructions to incorporate an alert limit (±0.2°C) and tolerance 
-limit (±0.4°C) around the processing temperature (35°C). Although the processing 
-temperature is unchanged, these limits are new. Per industry standards, the limits are 
-based on the calibration tolerance of the thermocouple used to control this process. The 
-alert and tolerance limits provide additional assurance of device quality, and were set 
-using industry standards.
-·
-Updated the in-process test procedures to re-implement a back-up method for testing 
-poppet pressure and pump flow rate. The primary test method uses an automated test 
-procedure. This specific change re-implements the non-automated (mechanical) test 
-method, to be used as an alternate method in the event that the automated method is off- 
-line. The non-automated test evaluates the same performance characteristics as the 
-automated test. Also, since the non-automated test was previously validated and 
-incorporated in the pump manufacturing process, re-implementation of this change 
-restores the manufacturing procedures to their previous state.
-
----
-
-<!-- Page 28 -->
-Contains Nonbinding Recommendations
-27
-Attachment I. Types of PMA Supplements
-Type
-Panel-Track 
-Supplement
-180-Day Supplement
-Real-Time Supplement
-Special PMA 
-Supplement
-30-Day Notice
-Manufacturing Site 
-Change Supplement
-Definition
-"... significant change 
-in design or 
-performance of the 
-device, or a new 
-indication for use of 
-the device, and for 
-which substantial 
-clinical data are 
-generally necessary
-..."
-"...significant change in 
-components, materials, 
-design, specification, 
-software, color additives, 
-or labeling."
-"... minor change to the device, 
-such as a minor change to the 
-design of the device, software, 
-sterilization, or labeling, and for 
-which the applicant has 
-requested and the agency has 
-granted a meeting or similar 
-forum to jointly review and
-determine the status of the 
-supplement."
-Changes in labeling, 
-quality control, or 
-manufacturing processes 
-“that enhance[s] the 
-safety of the device or 
-the safety in the use of 
-the device …”
-Changes to a 
-manufacturing 
-procedure or 
-method of 
-manufacturing, and 
-the applicant of the 
-approved 
-submission submits 
-a written notice.
-The use of a different 
-facility or 
-establishment to 
-manufacture, 
-process, or package 
-the device.
-Statute / 
-Regulation 
-Provision
-Section 737(4)(B) of 
-the Act (as modified 
-by the Medical 
-Devices Technical 
-Corrections Act 
-(MDTCA), Public
-Law 108-214)
-Section 737(4)(C) of the 
-Act
-Section 737(4)(D) of the Act 
-(and as modified by MDTCA)
-Sections 21 CFR 
-814.39(d)(1) and
-814.39(d)(2)
-Section 
-515(d)(6)(A)(ii) of
-the Act; 21 CFR 
-814.39(f)
-Section 21 CFR 
-814.39(a)(3)
-Description A change in: 
-indication for use; 
-design; and/or 
-performance.
-Substantial clinical 
-data generally 
-necessary to support 
-the change. B
-A significant change 
-involving:
-principle of operation; 
-control mechanism; 
-design; or 
-performance; labeling; 
-and new testing or 
-acceptance criteria.
-Preclinical and, in some 
-instances, confirmatory 
-clinical data to support 
-the change.
-Minor changes A (e.g., for which 
-clinical data or FDA inspections 
-are not needed), such as changes 
-in design; software; labeling 
-(other than contraindications); 
-and/or sterilization and 
-packaging.
-Changes can be reviewed 
-adequately by a reviewer in one 
-scientific discipline; there is a 
-FDA-accepted test method, 
-FDA-recognized standard, or an 
-applicable guidance document.
-If effectiveness is not 
-altered, changes in: 
-labeling to add, 
-strengthen, or delete 
-information; and/or 
-manufacturing process 
-that adds a new 
-specification or test 
-method or provides 
-additional assurance of 
-purity, identity, strength, 
-or reliability of the 
-device.
-Changes in 
-manufacturing that 
-affect safety and 
-effectiveness.
-A move to a different 
-manufacturing 
-facility or 
-establishment.
+### G. When to Submit a Manufacturing Site Change Supplement
+After approval of a PMA, an applicant shall submit a PMA supplement for review and approval by FDA before making a change that affects the safety or effectiveness of the device, including a change that uses a different facility or establishment to manufacture, process, or package the device.14 Such a PMA supplement for a move to a different facility or establishment is called a
+Manufacturing site change supplements are 180-day supplements (21 CFR 814.39(c) and 814.40) that are reviewed by CDRH’s Office of Compliance (CDRH/OC) or OIVD (for in vitro diagnostic devices).15 Manufacturing site change supplements include those that require pre-approval inspection, as well as those that do not.16 CDRH intends to issue a separate guidance document for manufacturing site change supplements that describes the criteria for manufacturing site change supplements and when an inspection would likely occur. Accordingly, this information is not included in this guidance document. Applicants should contact CDRH/OC or OIVD in advance of the submission to discuss what information should be provided.
+### V. Periodic Reports
+In accordance with 21 CFR 814.82(a)(7), FDA may require as a condition of approval submission to FDA at intervals specified in the approval order of periodic reports containing the information required by 21 CFR 814.84(b). In most cases, after the PMA is approved, the PMA applicant is required to submit reports to FDA annually unless a different time frame is specified in the approval order. Accordingly, periodic reports are typically referred to by FDA and industry as “annual reports.”
+For changes that do not require the submission of a traditional PMA or a PMA supplement, you should provide this information as part of your annual report.17 However, it should be noted that simple changes related to the device documentation or manufacturing process documentation, such as rewording or expanding for clarification, translating from one language to another, correcting typographical errors, and moving component characteristics from an engineering drawing note to a different document (e.g., standard operating procedure), do not need to be reported in the annual report.
+Below, we provide examples of the types of changes that FDA has considered to be appropriate to be submitted as part of an annual report because the Agency did not believe that these impact safety or effectiveness.
+- Extension of the expiration date of the device based on data obtained under an approved protocol, as specified in an approval order.
+- Lowered the clean room temperature shutdown limit to provide a comfortable environment for personnel per environmental, health, and safety requirements. Reducing 15 If the applicant submits a supplement that includes both a design change and a manufacturing site change, then ODE or OIVD will be the lead review office and will consult with OC.
+16 In previous guidance to industry, FDA described “express supplements” as manufacturing site change supplements that did not require pre-approval inspection. However, FDA no longer uses the “express supplement” terminology to distinguish these supplements from the other types of manufacturing site change supplements. Nevertheless, the expectation is that for a manufacturing site change supplement that does not require a pre-approval inspection, the review process is shorter.
+17 Refer to the annual report guidance document titled “Annual Reports for Approved Premarket Approval Applications (PMA)” for more details.
+a maximum temperature specification does not impact the safety and effectiveness of the device.
+- Increased the number of products sampled for release testing. Increasing the number better assures that product released meets the specifications.
+- Tightened the allowed viscosity range for the balloon dipping process from 27.0 – 157.0
+to 78 – 82. The larger range is acceptable, but the restricted range is optimal for low processing times and high yields.
+- Changed the in-process testing data collection form to record actual resistance readings for the continuity failure test rather than recording pass/fail.
+- Added a clarification to include a minimum cure time to the manufacturing instructions for the boot adhesive step. The prior manufacturing instructions contained no minimum cure time.
+- Updated the processing instructions to incorporate an alert limit (±0.2°C) and tolerance limit (±0.4°C) around the processing temperature (35°C). Although the processing temperature is unchanged, these limits are new. Per industry standards, the limits are based on the calibration tolerance of the thermocouple used to control this process. The alert and tolerance limits provide additional assurance of device quality, and were set using industry standards.
+- Updated the in-process test procedures to re-implement a back-up method for testing poppet pressure and pump flow rate. The primary test method uses an automated test procedure. This specific change re-implements the non-automated (mechanical) test method, to be used as an alternate method in the event that the automated method is offline. The non-automated test evaluates the same performance characteristics as the automated test. Also, since the non-automated test was previously validated and incorporated in the pump manufacturing process, re-implementation of this change restores the manufacturing procedures to their previous state.
+Attachment I. Types of PMA Supplements Type Panel-Track Supplement 180-Day Supplement Real-Time Supplement Special PMA Supplement 30-Day Notice Manufacturing Site Change Supplement Definition "... significant change in design or performance of the device, or a new indication for use of the device, and for which substantial clinical data are generally necessary ..."
+"...significant change in components, materials, design, specification, software, color additives, or labeling."
+"... minor change to the device, such as a minor change to the design of the device, software, sterilization, or labeling, and for which the applicant has requested and the agency has granted a meeting or similar forum to jointly review and determine the status of the supplement."
+Changes in labeling, quality control, or manufacturing processes “that enhance[s] the safety of the device or the safety in the use of the device …” Changes to a manufacturing procedure or method of manufacturing, and the applicant of the approved submission submits a written notice.
+The use of a different facility or establishment to manufacture, process, or package the device.
+Statute /
+Regulation Provision Section 737(4)(B) of the Act (as modified by the Medical Devices Technical Corrections Act (MDTCA), Public Law 108-214) Section 737(4)(C) of the Act Section 737(4)(D) of the Act (and as modified by MDTCA) Sections 21 CFR 814.39(d)(1) and 814.39(d)(2) Section 515(d)(6)(A)(ii) of the Act; 21 CFR 814.39(f) Section 21 CFR 814.39(a)(3) Description A change in: indication for use; design; and/or performance.
+Substantial clinical data generally necessary to support the change. B A significant change involving: principle of operation; control mechanism; design; or performance; labeling; and new testing or acceptance criteria.
+Preclinical and, in some instances, confirmatory clinical data to support the change.
+Minor changes A (e.g., for which clinical data or FDA inspections are not needed), such as changes in design; software; labeling (other than contraindications); and/or sterilization and packaging.
+Changes can be reviewed adequately by a reviewer in one scientific discipline; there is a FDA-accepted test method, FDA-recognized standard, or an applicable guidance document.
+If effectiveness is not altered, changes in: labeling to add, strengthen, or delete information; and/or manufacturing process that adds a new specification or test method or provides additional assurance of purity, identity, strength, or reliability of the device.
+Changes in manufacturing that affect safety and effectiveness.
+A move to a different manufacturing facility or establishment.
 A Assuming there is also an accepted test method, FDA-recognized standard, or guidance, and FDA agrees that a real-time supplement is appropriate.
 B As discussed in Section B of this document, we have considered panel-track supplements to be most appropriate for changes in the indication for use.
+Figure 1. Recommended Steps to Decide the Regulatory Path for a Modified PMA Device Step 1: Identify the modification and reason for it.
+Step 2: Conduct a risk analysis.
+Step 3:
+Define data to assess the impact of the modification on safety and effectiveness (S&E).
+Step 4: Choose the regulatory pathway from the options below.A New clinical & new preclinical New clinical & potentially some new preclinical Preclinical & potentially limited confirmatory clinical Preclinical only Manufacturing change affecting S&E Manufacturing Site Change Supplement Change that enhances the safety of the device Change that does not affect S&E Traditional PMA Panel-Track Supplement 180-Day Supplement Real-Time Supplement 30-Day Notice Special Supplement: Changes Being Effected Annual Report
+A FDA may or may not agree with your assessment as to the regulatory pathway. If we disagree with your pathway, FDA will provide the reasons.
 
 ---
 
-<!-- Page 29 -->
-Contains Nonbinding Recommendations
-28
-Figure 1. Recommended Steps to Decide the Regulatory Path for a Modified PMA Device
-Step 1:
-Identify the modification and reason for it.
-Step 2: 
-Conduct a risk analysis.
-Step 3:
-Define data to assess the impact of the modification 
-on safety and effectiveness (S&E).
-Step 4:
-Choose the regulatory pathway 
-from the options below.A
-New clinical & 
-new preclinical
-New clinical & 
-potentially 
-some new 
-preclinical
-Preclinical & 
-potentially 
-limited 
-confirmatory 
-clinical
-Preclinical 
-only
-Manufacturing 
-change 
-affecting S&E
-Manufacturing 
-Site Change 
-Supplement
-Change that 
-enhances the 
-safety of the 
-device
-Change that 
-does not affect 
-S&E
-Traditional 
-PMA
-Panel-Track 
-Supplement
-180-Day
-Supplement
-Real-Time 
-Supplement
-30-Day Notice
-Special 
-Supplement: 
-Changes Being 
-Effected
-Annual Report
-A FDA may or may not agree with your assessment as to the regulatory pathway. If we disagree with your pathway, FDA will provide the reasons.
+## Footnotes
+
+[^6]: For the purposes of this guidance document, new preclinical or clinical data are those collected in accordance with an existing or different protocol. locations in the region to be treated.
+
+[^7]: 21 CFR 814.44 describes when a Panel meeting may be held. Not all panel-track supplements require a Panel meeting or input. For more guidance on Panel meetings, please refer to the FDA guidance document titled “Procedures for Meetings of the Medical Devices Advisory Committee”.
+
+[^8]: For the purposes of this guidance only, FDA considers the term "substantial clinical data" in the definition of panel-track supplement to refer to a new clinical data set that is intended to provide valid scientific evidence necessary to support the safety and effectiveness of the modified device (i.e., the clinical data provided in support of the original device approval is no longer applicable in supporting the approval of the modified device). Human factors data are not considered substantial clinical data because they are specifically focused on evaluating the interaction between the device and the user and not to answer whether the device does what it is intended to do.
+
+[^9]: For example, the original contraindication specified all pediatric patients, but the applicant wants to modify the contraindication so that only neonate patients are contraindicated. FDA determined that a panel-track supplement was appropriate for this modification because new clinical data were needed to support the safety and effectiveness of the device and, although some additional preclinical testing was needed to address the new conditions of use, the full battery of preclinical testing was not needed because the device itself was not modified. (2)
+
+[^14]: See 21 CFR 814.39(a). “manufacturing site change supplement.”
 
 <!-- fulltext-end -->

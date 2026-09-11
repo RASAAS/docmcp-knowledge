@@ -4,681 +4,168 @@
 
 **Published:** 2018-04-13
 
----
-
-<!-- Page 1 -->
-Use of Public Human Genetic Variant 
-Databases to Support Clinical Validity 
-for Genetic and Genomic-Based In 
-Vitro Diagnostics 
-Guidance for Stakeholders and 
-Food and Drug Administration Staff
-Document issued on April 13, 2018.
-The draft of this document was issued on July 8, 2016.
-See additional PRA statement in Section 7 of the guidance.
-For questions about this document concerning devices regulated by CDRH, contact 
-OIRPMGroup@fda.hhs.gov.  For questions regarding this document as applied to devices 
-regulated by CBER, contact the Office of Communication, Outreach and Development in CBER at 
-1-800-835-4709 or 240-402-8010 or by email at ocod@fda.hhs.gov.
-U.S. Department of Health and Human Services
-Food and Drug Administration
-Center for Devices and Radiological Health
-Center for Biologics Evaluation and Research
-An agency may not conduct or sponsor, and a person is not required to respond to, a 
-collection of information unless it displays a currently valid OMB control number. 
-The OMB control number for this information collection is 0910-0850 (expires 03-31-
-2024).
 
 ---
 
-<!-- Page 2 -->
-Contains Nonbinding Recommendations 
- 
-Preface 
-Public Comment 
-You may submit electronic comments and suggestions at any time for Agency consideration to 
-https://www.regulations.gov. Submit written comments to the Dockets Management Staff, Food 
-2 
- 
-and Drug Administration, 5630 Fishers Lane, Room 1061, (HFA-305), Rockville, MD 20852. 
-Identify all comments with the docket number FDA-2016-D-1233. Comments may not be acted 
-upon by the Agency until the document is next revised or updated 
-Additional Copies 
-CDRH 
-Additional copies are available from the Internet.  You may also send an e-mail request to CDRH-
-Guidance@fda.hhs.gov to receive a copy of the guidance.  Please use the document number 16008 
-to identify the guidance you are requesting. 
-CBER 
-Additional copies are available from the Center for Biologics Evaluation and Research (CBER), by 
-written request, Office of Communication, Outreach, and Development (OCOD), 10903 New 
-Hampshire Ave., Bldg. 71, Room 3128, Silver Spring, MD 20993-0002, or by calling 1-800-835-
-4709 or 240-402-8010, by email, ocod@fda.hhs.govor from the Internet at 
-http://www.fda.gov/BiologicsBloodVaccines/GuidanceComplianceRegulatoryInformation/Guidan
-ces/default.htm.
+Use of Public Human Genetic Variant Databases to Support Clinical Validity for Genetic and Genomic-Based In Vitro Diagnostics Guidance for Stakeholders and Food and Drug Administration Staff
 
----
+This guidance represents the current thinking of the Food and Drug Administration (FDA or Agency) on this topic. It does not establish any rights for any person and is not binding on
+FDA or the public. You can use an alternative approach if it satisfies the requirements of the applicable statutes and regulations. To discuss an alternative approach, contact the FDA staff or Office responsible for this guidance as listed on the title page.
+## I. Introduction
+This guidance document describes one part of FDA’s efforts to create a flexible and adaptive regulatory approach to the oversight of next generation sequencing (NGS)-based tests. The goal of this effort is to help ensure patients receive accurate, reliable, and clinically meaningful test results, while promoting innovation in test development. This guidance document describes how publicly accessible databases of human genetic variants can serve as sources of valid scientific evidence to support the clinical validity of genotype-phenotype relationships in FDA’s regulatory review of both NGS-based tests and genetic and genomic tests based on other technologies. Publicly accessible genetic databases may be useful to support the clinical validity of NGS tests as well as single gene or panel tests that use other technology.
+FDA’s guidance documents, including this guidance document, do not establish legally enforceable responsibilities. Instead, guidance documents describe the Agency’s current thinking on a topic and should be viewed only as recommendations, unless specific regulatory or statutory requirements are cited. The use of the word should in Agency guidance means that something is suggested or recommended, but not required.
+## II. Background
+Advances in genetic testing, such as NGS, can enable rapid, broad, and deep sequencing of a portion of a gene, an entire exome(s), or a whole genome and may be used clinically for a variety of diagnostic purposes, including risk prediction, diagnosis, and treatment selection for a disease
 
-<!-- Page 3 -->
-Contains Nonbinding Recommendations 
- 
-Table of Contents 
-I. 
-Introduction ................................
-3 
- 
-......................................................................................... 4
-II. 
-Background......................................................................................................................... 4
-III. 
-Scope ................................................................................................................................... 7
-IV. 
-Definitions........................................................................................................................... 7
-V. 
-Recommendations to Support Recognition of Publicly Accessible Genetic Variant 
-Databases of Human Genetic Variants as Sources of Valid Scientific Evidence 
-Supporting Clinical Validity of Genetic and Genomic-Based Tests .................................. 8
-A. Database Procedures and Operations .................................................................... 9
-B. Data Quality ........................................................................................................ 10
-C. Variant Evaluation and Assertions ...................................................................... 10
-D. Professional Training and Conflicts of Interest ................................................... 12
-VI. 
-FDA’s Genetic Variant Database Recognition Process .................................................... 12
-A. Recognition Process for Genetic Variant Databases ........................................... 13
-1. Submission for Recognition ........................................................................... 13
-2. FDA Review of Genetic Variant Database Policies and Procedures ............. 14
-3. Maintenance of FDA Recognition ................................................................. 15
-B. Use of Third Parties ............................................................................................. 15
-C. Use of Data and Assertions from FDA-Recognized Genetic Variant Databases 16
-VII. 
-Paperwork Reduction Act of 1995 .................................................................................... 16
 
----
 
-<!-- Page 4 -->
-Contains Nonbinding Recommendations 
- 
-Use of Public Human Genetic Variant 
-Databases to Support Clinical Validity 
-for Genetic and Genomic-Based In 
-Vitro Diagnostics  
-4 
- 
-Guidance for Stakeholders and  
-Food and Drug Administration Staff 
-This guidance represents the current thinking of the Food and Drug Administration (FDA or 
-Agency) on this topic. It does not establish any rights for any person and is not binding on 
-FDA or the public. You can use an alternative approach if it satisfies the requirements of the 
-applicable statutes and regulations. To discuss an alternative approach, contact the FDA staff 
-or Office responsible for this guidance as listed on the title page.  
-I. 
-Introduction 
-This guidance document describes one part of FDA’s efforts to create a flexible and adaptive 
-regulatory approach to the oversight of next generation sequencing (NGS)-based tests. The goal 
-of this effort is to help ensure patients receive accurate, reliable, and clinically meaningful test 
-results, while promoting innovation in test development. This guidance document describes how 
-publicly accessible databases of human genetic variants can serve as sources of valid scientific 
-evidence to support the clinical validity of genotype-phenotype relationships in FDA’s 
-regulatory review of both NGS-based tests and genetic and genomic tests based on other 
-technologies. Publicly accessible genetic databases may be useful to support the clinical validity 
-of NGS tests as well as single gene or panel tests that use other technology.  
-FDA’s guidance documents, including this guidance document, do not establish legally 
-enforceable responsibilities. Instead, guidance documents describe the Agency’s current thinking 
-on a topic and should be viewed only as recommendations, unless specific regulatory or statutory 
-requirements are cited. The use of the word should in Agency guidance means that something is 
-suggested or recommended, but not required.  
-II. Background 
-Advances in genetic testing, such as NGS, can enable rapid, broad, and deep sequencing of a 
-portion of a gene, an entire exome(s), or a whole genome and may be used clinically for a variety 
-of diagnostic purposes, including risk prediction, diagnosis, and treatment selection for a disease
+or condition.  The rapid adoption of NGS-based tests in both research and clinical practice is leading to identification of an increasing number of genetic variants, including rare variants that may be unique to a single individual or family. Understanding the clinical significance of these genetic variants holds great promise for the future of personalized medicine.
+Although the importance of genetic variant data aggregation is widely recognized, today much of the data that would be useful to support clinical validity of genetic and genomic-based tests is generally stored in a manner in which it is not publicly accessible.  Aggregation of clinical genotype-phenotype associations and evaluation of the evidence underlying these associations under a well-defined process will continue to promote more rapid translation of genetic information into useful clinical evidence.
+For the purposes of this guidance document, a “genetic variant database” is a publicly accessible database of human genetic variants that aggregates and curates reports of human genotypephenotype relationships to a disease or condition with publicly available documentation of evidence supporting those linkages. Genetic variant databases also include assertions about specific genotype-phenotype correlations. As a best practice, these databases should follow an open-access model (e.g., information about an assertion and the evidence underlying it is publicly accessible to anyone at no charge), to foster greater accuracy, understanding, and use.
+However, databases that use licensing models and charge fees for commercial use may also fall within the scope of this guidance.  While out of the scope of this guidance document, proprietary databases or ones that charge fees for public access may also be sources of valid scientific evidence that could be used to support the clinical validity of genetic or genomic-based tests.
+Test developers who rely upon these databases may find the recommendations within this guidance useful in preparing premarket submissions for those IVDs.  Any database administrator who has questions about whether or not data from their database could be relied on as valid scientific evidence should contact the FDA using the contact information referenced above.
+FDA believes that the aggregation, curation, and evaluation of clinical genotype-phenotype associations in genetic variant databases could support the clinical validity of assertions made about a variant detected by a genetic or genomic-based test and a disease or condition.  In relying on assertions in genetic variant databases that follow the recommendations in this guidance, FDA hopes to encourage the deposition of genetic variant information in such publicly accessible databases, reduce regulatory burden on test developers, and spur advancements in the evaluation and implementation of precision medicine.
+Publicly Accessible Databases of Human Genetic Variants as Sources of Valid Scientific Evidence Supporting Clinical Validity
+To determine whether a genetic or genomic-based test has a reasonable assurance of safety and effectiveness, which, for IVDs, generally means a reasonable assurance of analytical and clinical validity, the Agency relies upon the review of valid scientific evidence to support the analytical and clinical performance of the test. Valid scientific evidence 1 could be evidence from wellcontrolled investigations, partially controlled studies, studies and objective trials without
 
----
 
-<!-- Page 5 -->
-Contains Nonbinding Recommendations 
- 
-or condition.  The rapid adoption of NGS-based tests in both research and clinical practice is 
-leading to identification of an increasing number of genetic variants, including rare variants that 
-may be unique to a single individual or family. Understanding the clinical significance of these 
-genetic variants holds great promise for the future of personalized medicine. 
-Although the importance of genetic variant data aggregation is widely recognized, today much of 
-the data that would be useful to support clinical validity of genetic and genomic-based tests is 
-generally stored in a manner in which it is not publicly accessible.  Aggregation of clinical 
-genotype-phenotype associations and evaluation of the evidence underlying these associations 
-under a well-defined process will continue to promote more rapid translation of genetic 
-information into useful clinical evidence. 
-For the purposes of this guidance document, a “genetic variant database” is a publicly accessible 
-database of human genetic variants that aggregates and curates reports of human genotype-
-phenotype relationships to a disease or condition with publicly available documentation of 
-evidence supporting those linkages. Genetic variant databases also include assertions about 
-specific genotype-phenotype correlations. As a best practice, these databases should follow an 
-open-access model (e.g., information about an assertion and the evidence underlying it is 
-publicly accessible to anyone at no charge), to foster greater accuracy, understanding, and use.  
-However, databases that use licensing models and charge fees for commercial use may also fall 
-within the scope of this guidance.  While out of the scope of this guidance document, proprietary 
-databases or ones that charge fees for public access may also be sources of valid scientific 
-evidence that could be used to support the clinical validity of genetic or genomic-based tests. 
-Test developers who rely upon these databases may find the recommendations within this 
-guidance useful in preparing premarket submissions for those IVDs.  Any database administrator 
-who has questions about whether or not data from their database could be relied on as valid 
-scientific evidence should contact the FDA using the contact information referenced above. 
-FDA believes that the aggregation, curation, and evaluation of clinical genotype-phenotype 
-associations in genetic variant databases could support the clinical validity of assertions made 
-about a variant detected by a genetic or genomic-based test and a disease or condition.  In relying 
-on assertions in genetic variant databases that follow the recommendations in this guidance, FDA 
-hopes to encourage the deposition of genetic variant information in such publicly accessible 
-databases, reduce regulatory burden on test developers, and spur advancements in the evaluation 
-and implementation of precision medicine.   
-Publicly Accessible Databases of Human Genetic Variants as Sources of Valid Scientific 
-Evidence Supporting Clinical Validity  
-To determine whether a genetic or genomic-based test has a reasonable assurance of safety and 
-effectiveness, which, for IVDs, generally means a reasonable assurance of analytical and clinical 
-validity, the Agency relies upon the review of valid scientific evidence to support the analytical 
-and clinical performance of the test. Valid scientific evidence
-5 
- 
-1 could be evidence from well-
-controlled investigations, partially controlled studies, studies and objective trials without 
-                                                 
-1 21 CFR 860.7.
 
----
 
-<!-- Page 6 -->
-Contains Nonbinding Recommendations 
- 
-matched controls, which includes the testing of banked human specimens, well-documented case 
-histories conducted by qualified experts, and reports of significant human experience with a 
-marketed device, such as in certain clinical practice guidelines, from which it can fairly and 
-responsibly be concluded by qualified experts that there is [a] reasonable assurance of safety and 
-effectiveness.  In determining whether a particular genetic and genomic-based test has a 
-reasonable assurance of safety and effectiveness, FDA must determine, based on valid scientific 
-evidence, that “in a significant portion of the target population, the use of the device for its 
-intended uses and conditions of use, when accompanied by adequate directions for use and 
-warnings against unsafe use, will provide clinically significant results.”
-6 
- 
-2 
-The evidence residing in many genetic variant databases has been collected from multiple 
-sources that can meet the valid scientific evidence definition, such as evidence from well-
-controlled clinical investigations, clinical evidence generated in CLIA (Clinical Laboratory 
-Improvement Amendments of 1988)-certified laboratories, published peer-reviewed literature, 
-and certain case study reports.  Some organizations that are developing genetic variant databases 
-have adopted protocols and methodologies and/or external guidelines (e.g., from professional 
-societies or standards development organizations) for evidence aggregation, curation, and 
-evaluation practices. While evaluation processes may vary across databases and organizations, 
-they typically involve the use of qualified experts who make informed conclusions about the 
-presence or absence of a genetic variant and its meaning for a particular disease or clinical 
-decision.     
-Further, there are several parallels between the processes set forth by well-recognized 
-professional guidelines for variant evaluation and FDA review of clinical validity.  Individuals 
-evaluating variants use a range of evidence, including the types and positions of variants, 
-inheritance, prevalence, well-established functional studies, and prior knowledge of gene-disease 
-relationships. Generally, the standards for use of evidence appear to parallel the types of 
-evidence appropriate to support an FDA premarket submission. Under 21 CFR 860.7(c)(2), 
-“isolated case reports, random experience, reports lacking sufficient details to permit scientific 
-evaluation, and unsubstantiated opinions are not regarded as valid scientific evidence.” FDA 
-assesses clinical validity based on the totality of available evidence provided in a given 
-submission. Similarly, well-recognized professional guidelines recommend that individuals 
-evaluating variants integrate multiple lines of evidence to make an assertion of clinical validity. 
-As such, case series that consist of two or more similar observational studies are more highly 
-regarded as evidence to support a genotype-phenotype association.  
-The Agency believes such practices for evaluation of genetic variants help assure the quality of 
-data and assertions within genetic variant databases and has built upon these approaches in 
-developing the recommendations in this guidance. 
-FDA has long believed that public access to supporting data is important so that all interested 
-persons (e.g., healthcare providers and patients) can make the most informed medical treatment 
-decisions possible.  To that end, for all IVDs that have received premarket clearance or De Novo 
-classification from FDA since November 2003, FDA has published a Decision Summary that 
-                                                 
-2 21 CFR 860.7(e)(1).
+matched controls, which includes the testing of banked human specimens, well-documented case histories conducted by qualified experts, and reports of significant human experience with a marketed device, such as in certain clinical practice guidelines, from which it can fairly and responsibly be concluded by qualified experts that there is [a] reasonable assurance of safety and effectiveness.  In determining whether a particular genetic and genomic-based test has a reasonable assurance of safety and effectiveness, FDA must determine, based on valid scientific evidence, that “in a significant portion of the target population, the use of the device for its intended uses and conditions of use, when accompanied by adequate directions for use and warnings against unsafe use, will provide clinically significant results.”
+2
+The evidence residing in many genetic variant databases has been collected from multiple sources that can meet the valid scientific evidence definition, such as evidence from wellcontrolled clinical investigations, clinical evidence generated in CLIA (Clinical Laboratory
+Improvement Amendments of 1988)-certified laboratories, published peer-reviewed literature, and certain case study reports.  Some organizations that are developing genetic variant databases have adopted protocols and methodologies and/or external guidelines (e.g., from professional societies or standards development organizations) for evidence aggregation, curation, and evaluation practices. While evaluation processes may vary across databases and organizations, they typically involve the use of qualified experts who make informed conclusions about the presence or absence of a genetic variant and its meaning for a particular disease or clinical decision.
+Further, there are several parallels between the processes set forth by well-recognized professional guidelines for variant evaluation and FDA review of clinical validity.  Individuals evaluating variants use a range of evidence, including the types and positions of variants, inheritance, prevalence, well-established functional studies, and prior knowledge of gene-disease relationships. Generally, the standards for use of evidence appear to parallel the types of evidence appropriate to support an FDA premarket submission. Under 21 CFR 860.7(c)(2), “isolated case reports, random experience, reports lacking sufficient details to permit scientific evaluation, and unsubstantiated opinions are not regarded as valid scientific evidence.” FDA assesses clinical validity based on the totality of available evidence provided in a given submission. Similarly, well-recognized professional guidelines recommend that individuals evaluating variants integrate multiple lines of evidence to make an assertion of clinical validity.
+As such, case series that consist of two or more similar observational studies are more highly regarded as evidence to support a genotype-phenotype association.
+The Agency believes such practices for evaluation of genetic variants help assure the quality of data and assertions within genetic variant databases and has built upon these approaches in developing the recommendations in this guidance.
+FDA has long believed that public access to supporting data is important so that all interested persons (e.g., healthcare providers and patients) can make the most informed medical treatment decisions possible.  To that end, for all IVDs that have received premarket clearance or De Novo classification from FDA since November 2003, FDA has published a Decision Summary that
 
----
 
-<!-- Page 7 -->
-Contains Nonbinding Recommendations 
- 
-includes a review of the analytical and clinical validity data submitted by the applicant to support 
-the submission and FDA’s justification in clearing or classifying the IVD; FDA is also required 
-to publish Summaries of Safety and Effectiveness Data for approved PMAs under Section 520(h) 
-of the Federal Food, Drug, and Cosmetic Act (FD&C Act). FDA believes that similar public 
-availability and access to data contained in genetic variant databases is important to patients and 
-healthcare providers in order to make fully informed medical decisions. 
-FDA believes that if genetic variant databases follow the recommendations in this document, the 
-data and assertions within would generally constitute valid scientific evidence that can be used to 
-support clinical validity for purposes of FDA approval.   
-III. Scope  
-This guidance document describes FDA’s considerations in determining whether a genetic 
-variant database is a source of valid scientific evidence that could support the clinical validity of 
-genetic and genomic-based tests in a premarket submission, regardless of the type of technology 
-for the test (e.g., NGS, Sanger sequencing, PCR). This guidance further outlines the process by 
-which administrators of publicly accessible genetic variant databases could voluntarily apply to 
-FDA for recognition, and how FDA would assess such applications and periodically reevaluate 
-recognized databases.  
-The genetic variant databases discussed in this guidance only include those that make assertions 
-about human genetic variants, and do not include databases that direct therapies and databases 
-used for microbial genome identification and detection of antimicrobial resistance and virulence 
-markers. This guidance does not apply to software used to classify and interpret genetic variants, 
-but instead, only regards use of curated databases using expert human evaluation.  
-IV. Definitions 
-The following definitions are supplied to provide the reader with an understanding of the specific 
-terms used in this guidance. These definitions should not be construed to be new interpretations 
-or clarification of similar words or phrases in the FD&C Act, FDA regulations, other laws, or 
-other guidance documents.  
-· Aggregation: the process by which variant data are systematically collected, input, and 
-maintained in a genetic variant database. This process may require that data conform to 
-specified formats. 
-· Assertion: the informed assessment of a genotype-phenotype correlation (or lack thereof) 
-given the current state of knowledge for a particular variant. An assertion is generally 
-noted in the genetic variant database entry for a particular variant (e.g., benign, drug 
-resistant, etc.). 
-· Curation: the process by which data regarding a specific variant are selected from various 
-sources and annotated over time. 
-7
 
----
 
-<!-- Page 8 -->
-Contains Nonbinding Recommendations 
- 
-· Data Administrator: FDA acknowledges that many databases may not use the term 
-“administrator” or may have a committee of individuals that oversee the database. 
-Therefore, for the purpose of this guidance, a genetic variant database administrator is the 
-entity or entities that oversee database operations.  
-· Evaluation: the process by which individuals associated with a genetic variant database 
-assess the evidence regarding a linkage between a genetic variant and a disease or 
-condition and make an assertion about that linkage (or lack thereof). 
-· Protocol: an evidence-based tool (e.g., decision matrix, scoring system, algorithm, etc.) 
-used to guide the evaluation of the genotype-phenotype relationship between variants and 
-diseases or conditions.   
-V. Recommendations to Support Recognition of Publicly 
-Accessible Genetic Variant Databases of Human Genetic 
-Variants as Sources of Valid Scientific Evidence 
+includes a review of the analytical and clinical validity data submitted by the applicant to support the submission and FDA’s justification in clearing or classifying the IVD; FDA is also required to publish Summaries of Safety and Effectiveness Data for approved PMAs under Section 520(h) of the Federal Food, Drug, and Cosmetic Act (FD&C Act). FDA believes that similar public availability and access to data contained in genetic variant databases is important to patients and healthcare providers in order to make fully informed medical decisions.
+FDA believes that if genetic variant databases follow the recommendations in this document, the data and assertions within would generally constitute valid scientific evidence that can be used to support clinical validity for purposes of FDA approval.
+## III. Scope
+This guidance document describes FDA’s considerations in determining whether a genetic variant database is a source of valid scientific evidence that could support the clinical validity of genetic and genomic-based tests in a premarket submission, regardless of the type of technology for the test (e.g., NGS, Sanger sequencing, PCR). This guidance further outlines the process by which administrators of publicly accessible genetic variant databases could voluntarily apply to
+FDA for recognition, and how FDA would assess such applications and periodically reevaluate recognized databases.
+The genetic variant databases discussed in this guidance only include those that make assertions about human genetic variants, and do not include databases that direct therapies and databases used for microbial genome identification and detection of antimicrobial resistance and virulence markers. This guidance does not apply to software used to classify and interpret genetic variants, but instead, only regards use of curated databases using expert human evaluation.
+## IV. Definitions
+The following definitions are supplied to provide the reader with an understanding of the specific terms used in this guidance. These definitions should not be construed to be new interpretations or clarification of similar words or phrases in the FD&C Act, FDA regulations, other laws, or other guidance documents.
+- Aggregation: the process by which variant data are systematically collected, input, and maintained in a genetic variant database. This process may require that data conform to specified formats.
+- Assertion: the informed assessment of a genotype-phenotype correlation (or lack thereof) given the current state of knowledge for a particular variant. An assertion is generally noted in the genetic variant database entry for a particular variant (e.g., benign, drug resistant, etc.).
+- Curation: the process by which data regarding a specific variant are selected from various sources and annotated over time.
+- Data Administrator: FDA acknowledges that many databases may not use the term “administrator” or may have a committee of individuals that oversee the database.
+Therefore, for the purpose of this guidance, a genetic variant database administrator is the entity or entities that oversee database operations.
+- Evaluation: the process by which individuals associated with a genetic variant database assess the evidence regarding a linkage between a genetic variant and a disease or condition and make an assertion about that linkage (or lack thereof).
+- Protocol: an evidence-based tool (e.g., decision matrix, scoring system, algorithm, etc.) used to guide the evaluation of the genotype-phenotype relationship between variants and diseases or conditions.
+### V. Recommendations to Support Recognition of Publicly
+Accessible Genetic Variant Databases of Human Genetic Variants as Sources of Valid Scientific Evidence
 Supporting Clinical Validity of Genetic and Genomic-
-Based Tests  
-FDA believes that the evidence and assertions contained in a genetic variant database that 
-conforms to the recommendations described below would generally constitute valid scientific 
-evidence that can be used to support the clinical validity of a genetic and genomic-based test in a 
-premarket submission, and therefore such database could be recognized by FDA for such use. 
-FDA believes that such a genetic variant database would: (1) operate in a manner that provides 
-sufficient information and assurances regarding the quality of source data and its evidence 
-review and variant assertions; (2) provide transparency regarding its data sources and its 
-operations, particularly around how variant evidence is evaluated; (3) collect, store, and report 
-data and conclusions in compliance with all applicable requirements regarding protected health 
-information, patient privacy, research subject protections, and data security; and (4) house 
-genetic variant information generated by validated methods.   
-In the subsections below, FDA discusses recommendations for the operation of a genetic variant 
-database, and the aggregation, curation, and evaluation of data therein, so that such data would 
-generally constitute valid scientific evidence supportive of clinical validity.  FDA acknowledges 
-that individual genetic variant databases may have different, but equally scientifically valid, 
-approaches to assuring data quality, clinical relevance, data security, patient privacy, and 
-transparency. Additionally, FDA recognizes that several professional societies have developed or 
-are developing guidelines for genetic variant curation and evaluation that may differ depending 
-upon discipline, but may each be appropriate in the context of their purpose. Genetic variant 
-database administrators should focus on ensuring that their procedures and quality requirements 
-are sufficiently robust to provide a high degree of confidence in their assertions regarding 
-genotype-phenotype associations. 
-8
+Based Tests
+FDA believes that the evidence and assertions contained in a genetic variant database that conforms to the recommendations described below would generally constitute valid scientific evidence that can be used to support the clinical validity of a genetic and genomic-based test in a premarket submission, and therefore such database could be recognized by FDA for such use.
+FDA believes that such a genetic variant database would: (1) operate in a manner that provides sufficient information and assurances regarding the quality of source data and its evidence review and variant assertions; (2) provide transparency regarding its data sources and its operations, particularly around how variant evidence is evaluated; (3) collect, store, and report data and conclusions in compliance with all applicable requirements regarding protected health information, patient privacy, research subject protections, and data security; and (4) house genetic variant information generated by validated methods.
+In the subsections below, FDA discusses recommendations for the operation of a genetic variant database, and the aggregation, curation, and evaluation of data therein, so that such data would generally constitute valid scientific evidence supportive of clinical validity.  FDA acknowledges that individual genetic variant databases may have different, but equally scientifically valid, approaches to assuring data quality, clinical relevance, data security, patient privacy, and transparency. Additionally, FDA recognizes that several professional societies have developed or are developing guidelines for genetic variant curation and evaluation that may differ depending upon discipline, but may each be appropriate in the context of their purpose. Genetic variant database administrators should focus on ensuring that their procedures and quality requirements are sufficiently robust to provide a high degree of confidence in their assertions regarding genotype-phenotype associations.
+### A. Database Procedures and Operations
+Transparency and Public Accessibility:  FDA recommends that genetic variant database administrators make publicly available sufficient information regarding data sources and standard operating procedures (SOPs) for evaluation of evidence to allow FDA and the public to understand the criteria and processes used to collect and evaluate evidence about variants and enable patients and healthcare providers to make fully informed medical decisions.
+SOP Version Control: SOPs should define how variant information is aggregated, curated, and evaluated. These SOPs should be documented and versioned. Changes to SOPs should be clearly documented with sufficiently detailed information regarding the change accompanied by any necessary explanation to ensure all stakeholders understand any limitations created by or implications of the change in procedure. To maintain quality variant assertions and ensure that genetic variant database operations keep pace with advances in technology and scientific knowledge, operations and SOPs should be reviewed at least annually.
+Data Preservation: FDA recommends that genetic variant database administrators have processes in place for assessing overall database stability and architecture and for ensuring that data linkages are properly maintained.  When a genetic variant database contains linkages to secondary databases, the genetic variant database administrator should have predefined processes in place to recognize changes to the secondary databases and account for them in version control of the primary database. FDA recommends genetic variant database administrators back-up the database on a regular basis so that it can be reinstated as necessary.
+Genetic variant database administrators should have a plan in place to ensure database content and processes are preserved in the event a genetic variant database ceases operations permanently or temporarily (e.g., a database loses funding, infrastructure upgrades). A location to deposit data, including versioning information and supporting SOPs and documentation, in the event that the genetic variant database ceases operation should be identified.
+Security and Privacy: Genetic variant database operations must be in compliance with all applicable federal laws and regulations (e.g., the Health Insurance Portability and Accountability Act, the Genetic Information Nondiscrimination Act, the Privacy Act, the Federal Policy for the
+Protection of Human Subjects (“Common Rule”), etc.) regarding protected health information, patient privacy, research involving human subjects, and data security, as applicable.  The genetic database administrator should identify the applicable laws and regulations to assure that any requirements are addressed and transparently documented. Genetic variant database administrators should also put in place adequate security measures to ensure the protection and privacy of personally identifiable information and protected health information and provide training for database staff on security and privacy protection.
+Data formats and nomenclature: To facilitate genetic variant database use for regulatory purposes and to help assure the accuracy and quality of variant assertions, genetic variant database administrators should employ commonly accepted data formats and identify which format is used by the genetic database.  Furthermore, genetic variant databases should use consistent nomenclature that is widely accepted by the genomics community for gene names and/or symbols, genomic coordinates, variants, described clinical and functional characteristics, and classifications.  The genetic variant database administrator should also make available a description of which nomenclature is used to allow FDA and external users to accurately understand the information presented. This standardization will help minimize ambiguity regarding variants and better enable comparisons of variant assertions between different databases or other entities.
+### B. Data Quality
+It is essential that the data regarding genotypes and phenotypes or clinical information placed into the genetic variant database are of sufficient quality and based on current scientific knowledge in order for there to be a reasonable assurance that the assertions made linking specific genetic variants to diseases or conditions are accurate.
+Metadata: Variant data in the genetic variant database should be accompanied by metadata appropriate to the type of variant. To the extent possible or applicable, this metadata should include information about the analytical performance of the test used to detect the variant, including the number of independent laboratories and/or studies reporting the variant, name of the laboratory(ies) that reported the variant, the name of the test used to detect the variant, and details of the technical characteristics of the test that was used (e.g., reference sequence version or build, instrument, software, bioinformatics tools, etc.). For germline variants, metadata should also include, to the extent possible, variant characteristics (which could include but is not limited to, patient ethnicity, zygosity, phasing, and segregation). For somatic variants, metadata should include, to the extent possible, additional information about the context in which the variant was detected (which could include but is not limited to, variant allele frequency, tumor only versus tumor-normal matched sequencing, cellularity).  For cases in which multiple genetic variants factor into determining the overall risk of developing a disease or condition, database administrators should include any multivariant or polygenic scoring methods used in the metadata. As applicable, database administrators should also include as much information as is available regarding the contribution of environmental exposures to the development of a genotype-associated disease or condition.
+Genetic variant databases should clearly and transparently document evidence source(s) used to support variant assertions (e.g., literature, well-documented case histories).  As discussed in
+Section IV.A., database administrators should take into consideration applicable security and privacy requirements when collecting and reporting this metadata.
+Data Uniqueness: Genetic variant database operations should also include methods to ensure that individual data points (e.g., a variant from one individual for a particular phenotype) are not represented more than once in the database.
 
----
+### C. Variant Evaluation and Assertions
 
-<!-- Page 9 -->
-Contains Nonbinding Recommendations 
- 
-A. 
-Database Procedures and Operations 
-Transparency and Public Accessibility:  FDA recommends that genetic variant database 
-administrators make publicly available sufficient information regarding data sources and 
-standard operating procedures (SOPs) for evaluation of evidence to allow FDA and the public to 
-understand the criteria and processes used to collect and evaluate evidence about variants and 
-enable patients and healthcare providers to make fully informed medical decisions.  
-SOP Version Control: SOPs should define how variant information is aggregated, curated, and 
-evaluated. These SOPs should be documented and versioned. Changes to SOPs should be clearly 
-documented with sufficiently detailed information regarding the change accompanied by any 
-necessary explanation to ensure all stakeholders understand any limitations created by or 
-implications of the change in procedure. To maintain quality variant assertions and ensure that 
-genetic variant database operations keep pace with advances in technology and scientific 
-knowledge, operations and SOPs should be reviewed at least annually.  
-Data Preservation: FDA recommends that genetic variant database administrators have 
-processes in place for assessing overall database stability and architecture and for ensuring that 
-data linkages are properly maintained.  When a genetic variant database contains linkages to 
-secondary databases, the genetic variant database administrator should have predefined processes 
-in place to recognize changes to the secondary databases and account for them in version control 
-of the primary database. FDA recommends genetic variant database administrators back-up the 
-database on a regular basis so that it can be reinstated as necessary. 
-Genetic variant database administrators should have a plan in place to ensure database content 
-and processes are preserved in the event a genetic variant database ceases operations 
-permanently or temporarily (e.g., a database loses funding, infrastructure upgrades). A location 
-to deposit data, including versioning information and supporting SOPs and documentation, in the 
-event that the genetic variant database ceases operation should be identified.  
-Security and Privacy: Genetic variant database operations must be in compliance with all 
-applicable federal laws and regulations (e.g., the Health Insurance Portability and Accountability 
-Act, the Genetic Information Nondiscrimination Act, the Privacy Act, the Federal Policy for the 
-Protection of Human Subjects (“Common Rule”), etc.) regarding protected health information, 
-patient privacy, research involving human subjects, and data security, as applicable.  The genetic 
-database administrator should identify the applicable laws and regulations to assure that any 
-requirements are addressed and transparently documented. Genetic variant database 
-administrators should also put in place adequate security measures to ensure the protection and 
-privacy of personally identifiable information and protected health information and provide 
-training for database staff on security and privacy protection.  
-Data formats and nomenclature: To facilitate genetic variant database use for regulatory 
-purposes and to help assure the accuracy and quality of variant assertions, genetic variant 
-database administrators should employ commonly accepted data formats and identify which 
-format is used by the genetic database.  Furthermore, genetic variant databases should use 
-9
 
----
 
-<!-- Page 10 -->
-Contains Nonbinding Recommendations 
- 
-consistent nomenclature that is widely accepted by the genomics community for gene names 
-and/or symbols, genomic coordinates, variants, described clinical and functional characteristics, 
-and classifications.  The genetic variant database administrator should also make available a 
-description of which nomenclature is used to allow FDA and external users to accurately 
-understand the information presented. This standardization will help minimize ambiguity 
-regarding variants and better enable comparisons of variant assertions between different 
-databases or other entities.  
-B. Data Quality 
-It is essential that the data regarding genotypes and phenotypes or clinical information placed 
-into the genetic variant database are of sufficient quality and based on current scientific 
-knowledge in order for there to be a reasonable assurance that the assertions made linking 
-specific genetic variants to diseases or conditions are accurate.  
-10 
- 
-Metadata: Variant data in the genetic variant database should be accompanied by metadata 
-appropriate to the type of variant. To the extent possible or applicable, this metadata should 
-include information about the analytical performance of the test used to detect the variant, 
-including the number of independent laboratories and/or studies reporting the variant, name of 
-the laboratory(ies) that reported the variant, the name of the test used to detect the variant, and 
-details of the technical characteristics of the test that was used (e.g., reference sequence version 
-or build, instrument, software, bioinformatics tools, etc.). For germline variants, metadata should 
-also include, to the extent possible, variant characteristics (which could include but is not limited 
-to, patient ethnicity, zygosity, phasing, and segregation). For somatic variants, metadata should 
-include, to the extent possible, additional information about the context in which the variant was 
-detected (which could include but is not limited to, variant allele frequency, tumor only versus 
-tumor-normal matched sequencing, cellularity).  For cases in which multiple genetic variants 
-factor into determining the overall risk of developing a disease or condition, database 
-administrators should include any multivariant or polygenic scoring methods used in the 
-metadata. As applicable, database administrators should also include as much information as is 
-available regarding the contribution of environmental exposures to the development of a 
-genotype-associated disease or condition. 
-Genetic variant databases should clearly and transparently document evidence source(s) used to 
-support variant assertions (e.g., literature, well-documented case histories).  As discussed in 
-Section IV.A., database administrators should take into consideration applicable security and 
-privacy requirements when collecting and reporting this metadata. 
-Data Uniqueness: Genetic variant database operations should also include methods to ensure that 
-individual data points (e.g., a variant from one individual for a particular phenotype) are not 
-represented more than once in the database.  
- 
-C. 
-Variant Evaluation and Assertions
+Variant Evaluation: Written SOPs for variant evaluation, including evaluation of data from clinical practice guidelines, peer-reviewed literature, and pre-curated knowledge bases, should be available to the public for review. SOPs should generally include validated protocols  for evaluation. All genetic variant database evaluation rules, and future modifications of those rules, should be explained and made available to the public. Furthermore, if variant assertions from other sources are to be integrated into the genetic variant database, then the evaluation processes and data quality of those outside sources should be clearly identified and audited by the database administrator on a regular basis.
+FDA believes that each variant evaluation should be performed by at least two qualified and trained professionals to lessen the risk that any single assertion could be incorrectly made.  In cases where it is not feasible for a database administrator to have two independent professionals evaluating the same variant, there should be other ways to mitigate the risk of an incorrect assertion (e.g., multiple levels of review, use of curator training modules). Furthermore, genetic variant databases should have SOPs for resolving internal differences in evaluation. Providing SOPs publicly for each of these activities will facilitate outside users review of the evidence used in variant evaluation.
+FDA believes that use of publicly available and validated protocols for variant evaluation is important to assuring that assertions from genetic variant databases constitute valid scientific evidence supporting the clinical validity of a test.  FDA reviewers evaluate evidence in the context of a test’s intended use and conditions of use, 3 including specific facts about genes or diseases under consideration (e.g., population incidence of a disease, variant incidence, relationship of a variant with respect to ethnicity or haplotype) in their review.  Similarly, such factors should be incorporated into a finalized protocol.
+Assertions: The types of evidence used for evaluating variants, and their corresponding strengths, should be defined and combined in a protocol. Generally, these protocols should meet the following recommendations: · Protocols should incorporate multiple lines of scientific evidence, where available, and appropriately weigh each line of evidence.
+- Protocols should use a tiered system of assertions (e.g., pathogenic, likely pathogenic) and adequately describe the meanings of each tier.
+- Protocols should incorporate unique details of the gene/disease or condition being evaluated, where available or applicable.
+- Protocols should be validated.
+- All protocols and details supporting each variant assertion should be made available to the public.
+Assertions within a genetic variant database should be appropriate to the level of certainty and the nature of the genotype-phenotype relationship, as well as be adequately supported.
+Assertions should report known variant associations with respect to ethnicity or haplotype, when
 
----
-
-<!-- Page 11 -->
-Contains Nonbinding Recommendations 
- 
-Variant Evaluation: Written SOPs for variant evaluation, including evaluation of data from 
-clinical practice guidelines, peer-reviewed literature, and pre-curated knowledge bases, should be 
-available to the public for review. SOPs should generally include validated protocols  for 
-evaluation. All genetic variant database evaluation rules, and future modifications of those rules, 
-should be explained and made available to the public. Furthermore, if variant assertions from 
-other sources are to be integrated into the genetic variant database, then the evaluation processes 
-and data quality of those outside sources should be clearly identified and audited by the database 
-administrator on a regular basis.  
-FDA believes that each variant evaluation should be performed by at least two qualified and 
-trained professionals to lessen the risk that any single assertion could be incorrectly made.  In 
-cases where it is not feasible for a database administrator to have two independent professionals 
-evaluating the same variant, there should be other ways to mitigate the risk of an incorrect 
-assertion (e.g., multiple levels of review, use of curator training modules). Furthermore, genetic 
-variant databases should have SOPs for resolving internal differences in evaluation. Providing 
-SOPs publicly for each of these activities will facilitate outside users review of the evidence used 
-in variant evaluation. 
-FDA believes that use of publicly available and validated protocols for variant evaluation is 
-important to assuring that assertions from genetic variant databases constitute valid scientific 
-evidence supporting the clinical validity of a test.  FDA reviewers evaluate evidence in the 
-context of a test’s intended use and conditions of use,
-11 
- 
-3 including specific facts about genes or 
-diseases under consideration (e.g., population incidence of a disease, variant incidence, 
-relationship of a variant with respect to ethnicity or haplotype) in their review.  Similarly, such 
-factors should be incorporated into a finalized protocol.  
-Assertions: The types of evidence used for evaluating variants, and their corresponding strengths, 
-should be defined and combined in a protocol. Generally, these protocols should meet the 
-following recommendations:  
-· Protocols should incorporate multiple lines of scientific evidence, where 
-available, and appropriately weigh each line of evidence. 
-· Protocols should use a tiered system of assertions (e.g., pathogenic, likely 
-pathogenic) and adequately describe the meanings of each tier. 
-· Protocols should incorporate unique details of the gene/disease or condition being 
-evaluated, where available or applicable. 
-· Protocols should be validated. 
-· All protocols and details supporting each variant assertion should be made 
-available to the public. 
-Assertions within a genetic variant database should be appropriate to the level of certainty and 
-the nature of the genotype-phenotype relationship, as well as be adequately supported.  
-Assertions should report known variant associations with respect to ethnicity or haplotype, when 
-                                                 
 3 Section 513(a)(2) of the FD&C Act; 21 CFR 860.7(e)(1).
 
----
 
-<!-- Page 12 -->
-Contains Nonbinding Recommendations 
- 
-relevant. Assertions should be versioned, such that changes in assertions over time are identified 
-and maintained. Genetic variant databases should also have mechanisms in place to receive 
-feedback about individual variant assertions (e.g., ability for users to report that there is new or 
-contradictory evidence available regarding a variant assertion) and processes to document, 
-evaluate, and resolve, if necessary, such discordances. 
-Assertions and the evidence underlying them should be truthful and not misleading and be made 
-in language that is clear and understandable.  In order to be FDA-recognized, a genetic variant 
-database should not include any recommendations regarding clinical treatment or diagnosis.  
-However, an assertion that states that a variant is clinically significant as an actionable mutation 
-may be found within an FDA-recognized genetic variant database.  
-FDA recommends that assertions include descriptive language about a variant such as clinically 
-significant, pathogenic, benign, likely pathogenic, likely benign, variant of unknown 
-significance, etc. as long as such language is truthful, not misleading, and supported by adequate 
-evidence detailed within the genetic variant database.  
-FDA believes that it is generally not scientifically appropriate to make a definitive assertion 
-(e.g., pathogenic) about the clinical validity of a variant based on a single piece of evidence, or 
-only on weak evidence.  Assertions that a particular genotype-phenotype association is clinically 
-valid should generally involve multiple lines of evidence and, at a minimum, should identify a 
-primary source of scientific evidence and other supporting evidence. Further, wherever 
-appropriate to avoid any potential misunderstanding regarding the strength of the evidence 
-supporting an assertion, the assertion should include a clear description of the evidence 
-associated with it.   
-D. 
-Professional Training and Conflicts of Interest 
-Professional Training: FDA recognizes that many different types of genetics professionals may 
-be involved in the curation and processes for evaluation as part of a team (e.g., genetic 
-counselors, Ph.D.-level scientists, physicians). Adequate training and expertise of individuals 
-evaluating variants plays an important role in the quality of variant review and evaluation. 
-Individuals evaluating variants should have received adequate training and there should be 
-methodologies in place to ensure that such individuals meet and maintain high quality standards 
-over time. 
-Conflicts of Interest: Conflicts of interest, especially financial ones, could introduce bias and 
-undermine the quality of variant assertions in genetic variant databases, as well as the confidence 
-in such assertions, if not adequately mitigated.  To be considered for recognition by FDA, efforts 
-should be made to minimize, and make transparent, any potential conflicts of interest.   
-12 
- 
- 
-VI. FDA’s Genetic Variant Database Recognition Process 
-FDA believes that data and assertions from genetic variant databases that follow the 
-recommendations discussed in this document would generally constitute valid scientific evidence
 
----
+relevant. Assertions should be versioned, such that changes in assertions over time are identified and maintained. Genetic variant databases should also have mechanisms in place to receive feedback about individual variant assertions (e.g., ability for users to report that there is new or contradictory evidence available regarding a variant assertion) and processes to document, evaluate, and resolve, if necessary, such discordances.
+Assertions and the evidence underlying them should be truthful and not misleading and be made in language that is clear and understandable.  In order to be FDA-recognized, a genetic variant database should not include any recommendations regarding clinical treatment or diagnosis.
+However, an assertion that states that a variant is clinically significant as an actionable mutation may be found within an FDA-recognized genetic variant database.
+FDA recommends that assertions include descriptive language about a variant such as clinically significant, pathogenic, benign, likely pathogenic, likely benign, variant of unknown significance, etc. as long as such language is truthful, not misleading, and supported by adequate evidence detailed within the genetic variant database.
+FDA believes that it is generally not scientifically appropriate to make a definitive assertion (e.g., pathogenic) about the clinical validity of a variant based on a single piece of evidence, or only on weak evidence.  Assertions that a particular genotype-phenotype association is clinically valid should generally involve multiple lines of evidence and, at a minimum, should identify a primary source of scientific evidence and other supporting evidence. Further, wherever appropriate to avoid any potential misunderstanding regarding the strength of the evidence supporting an assertion, the assertion should include a clear description of the evidence associated with it.
+### D. Professional Training and Conflicts of Interest
+Professional Training: FDA recognizes that many different types of genetics professionals may be involved in the curation and processes for evaluation as part of a team (e.g., genetic counselors, Ph.D.-level scientists, physicians). Adequate training and expertise of individuals evaluating variants plays an important role in the quality of variant review and evaluation.
+Individuals evaluating variants should have received adequate training and there should be methodologies in place to ensure that such individuals meet and maintain high quality standards over time.
+Conflicts of Interest: Conflicts of interest, especially financial ones, could introduce bias and undermine the quality of variant assertions in genetic variant databases, as well as the confidence in such assertions, if not adequately mitigated.  To be considered for recognition by FDA, efforts should be made to minimize, and make transparent, any potential conflicts of interest.
+## VI. FDA’s Genetic Variant Database Recognition Process
+FDA believes that data and assertions from genetic variant databases that follow the recommendations discussed in this document would generally constitute valid scientific evidence
 
-<!-- Page 13 -->
-Contains Nonbinding Recommendations 
- 
-supportive of clinical validity in a premarket submission. Therefore, FDA intends to implement a 
-recognition process for publicly accessible genetic variant databases and their assertions to 
-streamline premarket review of genetic and genomic-based tests. The genetic variant database 
-recognition process discussed in this document is similar to the standards recognition process 
-under section 514 of the FD&C Act, but would not be conducted under this provision. Specific 
-variant assertions and underlying data from a recognized genetic variant database could generally 
-be submitted by genetic and genomic-based test developers as part of their premarket review 
-submission, if applicable, in some cases without submission of additional clinical data regarding 
-that variant.  
-Participation in the FDA database recognition process is voluntary and participation would not 
-subject the database to FDA oversight, beyond that needed to retain the recognition. For genetic 
-variant database administrators who wish to undergo voluntary recognition, this section describes 
-FDA’s recommended process for genetic variant database recognition. When evidence from 
-proprietary sources or genetic variant databases that have not been recognized by FDA are used 
-to support the clinical performance of genetic and genomic-based tests, detailed information 
-regarding such sources of evidence should be included in the premarket submission for that test.  
-FDA intends for its process for recognition of genetic variant databases to involve three steps: 
-(1) voluntary submission of detailed information about the database; (2) FDA review of genetic 
-variant database policies and procedures for obtaining and maintaining data and making variant 
-assertions; and (3) maintenance of FDA recognition of a database. These steps are discussed in 
-detail below.   
-A. 
-Recognition Process for Genetic Variant Databases  
-1. Submission for Recognition 
-Administrators of genetic variant databases seeking to have their assertions be considered by 
-FDA as valid scientific evidence that could provide support for the clinical validity of genetic 
-and genomic-based tests should make a voluntary submission to FDA for genetic variant 
-database recognition. FDA notes that such a request could be for the totality of a genetic variant 
-database, or, at the database administrator’s discretion, a subset of the database as defined by the 
-database administrator. Such a submission should demonstrate that the recommendations in this 
-document have been followed or explain why an alternative approach was taken. FDA 
-encourages genetic variant database administrators seeking recognition of their genetic variant 
-database to contact FDA through the Q-Submission Program.
-13 
- 
-4  More information on the 
-Database Recognition Program and instructions for recognition requests are available on the  
-FDA Recognition of Public Human Genetic Variant Databases webpage.5 
-                                                 
-4 Further information about the Q-Submission Program can be found in the FDA guidance document entitled 
-“Requests for Feedback on Medical Device Submissions: The Pre-Submission Program and Meetings with Food and 
-Drug Administration Staff – Guidance for Industry and Food Administration Staff” 
-(https://www.fda.gov/downloads/medicaldevices/deviceregulationandguidance/guidancedocuments/ucm311176.pdf) 
-5 See https://www.fda.gov/MedicalDevices/ProductsandMedicalProcedures/InVitroDiagnostics/PrecisionMedicine-
-MedicalDevices/ucm603675.htm.
 
----
 
-<!-- Page 14 -->
-Contains Nonbinding Recommendations 
- 
-2. FDA Review of Genetic Variant Database Policies and 
-Procedures 
-The intent of this section is to provide additional information to genetic variant database 
-administrators regarding the type of documentation that should be provided to FDA staff for the 
-purpose of voluntary genetic variant database recognition.  Complete documentation should 
-address all of the recommendations in this guidance.  
-The following types of documents, which show that the recommendations in this guidance have 
-been met, should be submitted in an application for recognition:  
-· SOPs, policies or other documents related to the recommendations in this guidance, such 
-as: 
-o General operation of the genetic variant database 
-o Personally identifiable information and protected health information 
-confidentiality and privacy  
-o Data integrity and security 
-o Curation, variant evaluation, and reevaluation 
-o Training for curation, evaluation, privacy and security, and other relevant 
-activities 
-· Validation studies for evaluation SOPs 
-· Documentation of the qualifications of the individuals evaluating variants and policies for 
-approving those individuals 
-· Data preservation plan  
-· Conflict of interest policies and disclosures of conflicts of interest  
-· A commitment to make all recommended documents publicly accessible via weblinks 
-Applications should be accompanied by a cover letter, which should detail the following 
-information: 
-· Statement of the types of variants the genetic variant database assertions address (e.g., 
-germline) 
-· Scope or portion of the database for which recognition is being sought 
-· Point of contact 
-· Entity name 
-· Statement that the submitter believes, to the best of his or her knowledge, that all 
-information submitted are truthful and accurate and that no material fact has been omitted  
-As part of its recognition process, FDA may verify a subset of variant assertions, as appropriate, 
-to assure they are supported and that the genetic variant database is following its SOPs.  
-14
+supportive of clinical validity in a premarket submission. Therefore, FDA intends to implement a recognition process for publicly accessible genetic variant databases and their assertions to streamline premarket review of genetic and genomic-based tests. The genetic variant database recognition process discussed in this document is similar to the standards recognition process under section 514 of the FD&C Act, but would not be conducted under this provision. Specific variant assertions and underlying data from a recognized genetic variant database could generally be submitted by genetic and genomic-based test developers as part of their premarket review submission, if applicable, in some cases without submission of additional clinical data regarding that variant.
+Participation in the FDA database recognition process is voluntary and participation would not subject the database to FDA oversight, beyond that needed to retain the recognition. For genetic variant database administrators who wish to undergo voluntary recognition, this section describes FDA’s recommended process for genetic variant database recognition. When evidence from proprietary sources or genetic variant databases that have not been recognized by FDA are used to support the clinical performance of genetic and genomic-based tests, detailed information regarding such sources of evidence should be included in the premarket submission for that test.
+FDA intends for its process for recognition of genetic variant databases to involve three steps: (1) voluntary submission of detailed information about the database; (2) FDA review of genetic variant database policies and procedures for obtaining and maintaining data and making variant assertions; and (3) maintenance of FDA recognition of a database. These steps are discussed in detail below.
+### A. Recognition Process for Genetic Variant Databases
+1. Submission for Recognition
+Administrators of genetic variant databases seeking to have their assertions be considered by
+FDA as valid scientific evidence that could provide support for the clinical validity of genetic and genomic-based tests should make a voluntary submission to FDA for genetic variant database recognition. FDA notes that such a request could be for the totality of a genetic variant database, or, at the database administrator’s discretion, a subset of the database as defined by the database administrator. Such a submission should demonstrate that the recommendations in this document have been followed or explain why an alternative approach was taken. FDA encourages genetic variant database administrators seeking recognition of their genetic variant database to contact FDA through the Q-Submission Program.
+4  More information on the
+Database Recognition Program and instructions for recognition requests are available on the
+FDA Recognition of Public Human Genetic Variant Databases webpage.5
 
----
+4 Further information about the Q-Submission Program can be found in the FDA guidance document entitled “Requests for Feedback on Medical Device Submissions: The Pre-Submission Program and Meetings with Food and
+Drug Administration Staff – Guidance for Industry and Food Administration Staff”
+(https://www.fda.gov/downloads/medicaldevices/deviceregulationandguidance/guidancedocuments/ucm311176.pdf)
 
-<!-- Page 15 -->
-Contains Nonbinding Recommendations 
- 
-Prior to recognition, FDA generally intends to treat this information confidentially and not 
-publicly disclose it except as required by law.
-15 
- 
-6 At the time of recognition, the database 
-administrator should make this information publicly available and accessible on the genetic 
-variant database’s website.  FDA also intends to make available on its own website a list of all 
-FDA-recognized genetic variant databases and other relevant, public information about those 
-databases, such as a summary of the recognition decision.  
-3. Maintenance of FDA Recognition 
-FDA intends to review FDA-recognized databases annually but may review more or less 
-frequently as appropriate to verify they continue to follow their SOPs and the recommendations 
-in this guidance.  
-Continued transparency about policies, procedures, and assertions will play a critical role in 
-maintaining confidence in a genetic variant database and thus, to maintaining recognition. FDA 
-believes that it is important that users and the public have access to information about the 
-capabilities and limitations of a genetic variant database so that patients and healthcare providers 
-can make fully informed medical decisions. Genetic variant database administrators should 
-document and make publicly accessible any changes or updates to the database SOPs on its 
-website. FDA plans to periodically review its recognition of a genetic variant database based 
-upon this transparently documented and publicly available information. As part of this process, 
-FDA will verify that updates to SOPs, as described in Section IV, have been posted.  FDA may 
-also “spot-check” assertions about genetic variants to assure they continue to be supported and 
-that the genetic variant database continues to follow its SOPs for evaluation.  If the genetic 
-variant database is not maintained according to the specifications under which it was recognized, 
-FDA may withdraw recognition.  If recognition is withdrawn, it would be unlikely that FDA 
-would consider assertions from such a genetic variant database to constitute valid scientific 
-evidence supportive of the clinical validity of a test, and FDA would assess what regulatory 
-actions may be appropriate with respect to IVDs supported by such assertions.  
-B. 
-Use of Third Parties 
-FDA has an established third party 510(k) review program for eligible medical devices.7 For 
-genetic variant databases, FDA may consider utilizing third parties to assist with genetic variant 
-database recognition in the future.  FDA seeks to work with interested parties that have 
-experience with genetic variant databases and genetic and genomic-based tests and can comply 
-with FDA policies, including those regarding screening for conflicts of interest.   
-                                                 
-6 See, e.g., the FD&C Act sections 301(j) and 520(c), the Trade Secrets Act, 18 U.S.C. 1905, the Freedom of 
-Information Act, 5 U.S.C. 552, and FDA’s regulations covering information disclosure at 21 CFR part 20. 
-7 For additional information, including guidance documents on the topic, please see FDA’s website for the Third 
-Party Review Program 
-(https:/www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/HowtoMarketYourDevice/PremarketSubmissi
-ons/ThirdParyReview/default.htm).
 
----
 
-<!-- Page 16 -->
-Contains Nonbinding Recommendations
-16
-C. 
-Use of Data and Assertions from FDA-Recognized 
-Genetic Variant Databases
-Data from FDA-recognized genetic variant databases would generally constitute valid scientific 
-evidence that can be used to support the clinical validity of the genotype-phenotype relationships 
-embodied in the assertions from such databases provided in a premarket submission.  Under this 
-policy, FDA expects that test developers will be able to use FDA-recognized genetic variant 
-databases to establish, at least in part, the clinical validity of their test. For premarket 
-submissions that rely upon genetic variant databases recognized by FDA, the Agency may 
-determine that submission of any additional valid scientific evidence for certain variant 
-assertions found in these genetic variant databases is not necessary, depending on the sufficiency 
-of the evidence for these assertions. 
-VII. Paperwork Reduction Act of 1995
-This guidance contains information collection provisions that are subject to review by the Office 
-of Management and Budget (OMB) under the Paperwork Reduction Act of 1995 (44 U.S.C. 
+2. FDA Review of Genetic Variant Database Policies and
+Procedures
+The intent of this section is to provide additional information to genetic variant database administrators regarding the type of documentation that should be provided to FDA staff for the purpose of voluntary genetic variant database recognition.  Complete documentation should address all of the recommendations in this guidance.
+The following types of documents, which show that the recommendations in this guidance have been met, should be submitted in an application for recognition: · SOPs, policies or other documents related to the recommendations in this guidance, such as: o General operation of the genetic variant database o Personally identifiable information and protected health information confidentiality and privacy o Data integrity and security o Curation, variant evaluation, and reevaluation o Training for curation, evaluation, privacy and security, and other relevant activities · Validation studies for evaluation SOPs · Documentation of the qualifications of the individuals evaluating variants and policies for approving those individuals · Data preservation plan · Conflict of interest policies and disclosures of conflicts of interest · A commitment to make all recommended documents publicly accessible via weblinks
+Applications should be accompanied by a cover letter, which should detail the following information: · Statement of the types of variants the genetic variant database assertions address (e.g., germline)
+- Scope or portion of the database for which recognition is being sought · Point of contact · Entity name · Statement that the submitter believes, to the best of his or her knowledge, that all information submitted are truthful and accurate and that no material fact has been omitted
+As part of its recognition process, FDA may verify a subset of variant assertions, as appropriate, to assure they are supported and that the genetic variant database is following its SOPs.
+Prior to recognition, FDA generally intends to treat this information confidentially and not publicly disclose it except as required by law.
+6 At the time of recognition, the database administrator should make this information publicly available and accessible on the genetic variant database’s website.  FDA also intends to make available on its own website a list of all FDA-recognized genetic variant databases and other relevant, public information about those databases, such as a summary of the recognition decision.
+3. Maintenance of FDA Recognition
+FDA intends to review FDA-recognized databases annually but may review more or less frequently as appropriate to verify they continue to follow their SOPs and the recommendations in this guidance.
+Continued transparency about policies, procedures, and assertions will play a critical role in maintaining confidence in a genetic variant database and thus, to maintaining recognition. FDA believes that it is important that users and the public have access to information about the capabilities and limitations of a genetic variant database so that patients and healthcare providers can make fully informed medical decisions. Genetic variant database administrators should document and make publicly accessible any changes or updates to the database SOPs on its website. FDA plans to periodically review its recognition of a genetic variant database based upon this transparently documented and publicly available information. As part of this process,
+FDA will verify that updates to SOPs, as described in Section IV, have been posted.  FDA may also “spot-check” assertions about genetic variants to assure they continue to be supported and that the genetic variant database continues to follow its SOPs for evaluation.  If the genetic variant database is not maintained according to the specifications under which it was recognized,
+FDA may withdraw recognition.  If recognition is withdrawn, it would be unlikely that FDA would consider assertions from such a genetic variant database to constitute valid scientific evidence supportive of the clinical validity of a test, and FDA would assess what regulatory actions may be appropriate with respect to IVDs supported by such assertions.
+### B. Use of Third Parties
+FDA has an established third party 510(k) review program for eligible medical devices.7 For genetic variant databases, FDA may consider utilizing third parties to assist with genetic variant database recognition in the future.  FDA seeks to work with interested parties that have experience with genetic variant databases and genetic and genomic-based tests and can comply with FDA policies, including those regarding screening for conflicts of interest.
+
+6 See, e.g., the FD&C Act sections 301(j) and 520(c), the Trade Secrets Act, 18 U.S.C. 1905, the Freedom of
+Information Act, 5 U.S.C. 552, and FDA’s regulations covering information disclosure at 21 CFR part 20.
+Party Review Program (https:/www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/HowtoMarketYourDevice/PremarketSubmissi ons/ThirdParyReview/default.htm).
+### C. Use of Data and Assertions from FDA-Recognized Genetic Variant Databases
+Data from FDA-recognized genetic variant databases would generally constitute valid scientific evidence that can be used to support the clinical validity of the genotype-phenotype relationships embodied in the assertions from such databases provided in a premarket submission.  Under this policy, FDA expects that test developers will be able to use FDA-recognized genetic variant databases to establish, at least in part, the clinical validity of their test. For premarket submissions that rely upon genetic variant databases recognized by FDA, the Agency may determine that submission of any additional valid scientific evidence for certain variant assertions found in these genetic variant databases is not necessary, depending on the sufficiency of the evidence for these assertions.
+## VII. Paperwork Reduction Act of 1995
+This guidance contains information collection provisions that are subject to review by the Office of Management and Budget (OMB) under the Paperwork Reduction Act of 1995 (44 U.S.C.
 3501-3520).
-The time required to complete this information collection is estimated to average 101 hours per 
-response, including the time to review instructions, search existing data sources, gather the data 
-needed, and complete and review the information collection.  Send comments regarding this 
-burden estimate to:
-FDA PRA Staff,
-Office of Operations,
-Food and Drug Administration,
-PRAStaff@fda.hhs.gov 
-An agency may not conduct or sponsor, and a person is not required to respond to, a collection of 
-information unless it displays a currently valid OMB control number.  The OMB control number 
-for this information collection is 0910-0850 (expires 03-31-2024).
+The time required to complete this information collection is estimated to average 101 hours per response, including the time to review instructions, search existing data sources, gather the data needed, and complete and review the information collection.  Send comments regarding this burden estimate to: FDA PRA Staff, Office of Operations, Food and Drug Administration, PRAStaff@fda.hhs.gov
+An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid OMB control number.  The OMB control number for this information collection is 0910-0850 (expires 03-31-2024).
+
+---
+
+## Footnotes
+
+[^1]: 21 CFR 860.7.
+
+[^2]: 21 CFR 860.7(e)(1).
+
+[^5]: See https://www.fda.gov/MedicalDevices/ProductsandMedicalProcedures/InVitroDiagnostics/PrecisionMedicine- MedicalDevices/ucm603675.htm.
+
+[^7]: For additional information, including guidance documents on the topic, please see FDA’s website for the Third
