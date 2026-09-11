@@ -14,6 +14,9 @@ import re
 import sys
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from json_to_markdown import _escape_vue_tags  # noqa: E402
+
 FULLTEXT_DIR = Path(__file__).resolve().parent.parent / "fda" / "guidance" / "fulltext"
 
 REPEATED_HEADERS = [
@@ -48,6 +51,9 @@ def clean_fulltext(text: str) -> str:
     body = _fix_broken_list_items(body)
     body = _normalize_section_headings(body)
     body = _collapse_blank_lines(body)
+    # Escape PDF placeholder angle-brackets so VitePress/Vue does not
+    # treat them as HTML tags (e.g. <Insert Month and\nYear>).
+    body = _escape_vue_tags(body)
 
     result = header + "\n" + body.strip()
     if footnotes:

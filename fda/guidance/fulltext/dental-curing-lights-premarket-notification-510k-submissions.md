@@ -501,7 +501,7 @@ Contains Nonbinding Recommendations
  
 • Total spectral irradiance (mW/cm2  • nm-1) plot at maximum irradiance output (mW/cm2) 
 versus wavelength (nm) at the tip of the device light guide showing the peak wavelength 
-(nm) and ultraviolet wavelengths (i.e., < 380 nm); 
+(nm) and ultraviolet wavelengths (i.e., &lt; 380 nm); 
 • Radiant exposure (or optical radiation dose) output range (J/cm2) calculated by 
 multiplying irradiance (mW/cm2) outputs of the various curing modes by recommended 
 curing times (s); 

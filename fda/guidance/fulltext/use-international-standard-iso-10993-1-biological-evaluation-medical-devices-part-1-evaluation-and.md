@@ -1187,7 +1187,7 @@ risk for nickel toxicity is minimized, and testing to assess biological endpoint
 nickel leaching may not be necessary. 35
 D.
 Submicron or Nanotechnology Components 
-There can be unique properties associated with submicron (< 1 micron) or 
+There can be unique properties associated with submicron (&lt; 1 micron) or 
 nanotechnology components such as aggregation, agglomeration, immunogenicity, or 
 toxicity. 36,37 Medical devices with submicron components may warrant specialized 
 techniques if characterization and biocompatibility testing is needed.38 Limitations may 
@@ -1319,7 +1319,7 @@ article, this will dilute the amount of component materials being presented to t
 system and may not accurately identify potentially toxic agents that would have been 
 found if the components were tested separately. For example, we recommend testing 
 implants separately from delivery systems or other kit components.
-40 In many cases, it is acceptable to combine components with limited (< 24 hour) use, with an appropriate 
+40 In many cases, it is acceptable to combine components with limited (&lt; 24 hour) use, with an appropriate 
 supporting rationale. However, separate assessments of devices with prolonged (24 hour to 30 day) or long term (> 
 30 day) duration of contact are recommended.
 
@@ -1687,7 +1687,7 @@ information indicate that all patient-contacting components have been adequately
 assessed for pyrogenicity. Otherwise, we recommend that you assess material-mediated 
 pyrogenicity using traditional biocompatibility extraction methods (e.g., 50 °C for 72 
 hours; 70 °C for 24 hours; or 121 °C for 1 hour per ISO 10993-12:2021), using a 
-pyrogenicity test such as the one outlined in USP <151> Pyrogen Test (USP Rabbit Test) 
+pyrogenicity test such as the one outlined in USP &lt;151> Pyrogen Test (USP Rabbit Test) 
 or an equivalent validated method. For devices that contain heat labile or heat sensitive 
 materials (e.g., drugs, biomolecules, tissue-derived components), which may have the 
 potential to undergo deformation or material configuration/structural change at high 
@@ -2206,7 +2206,7 @@ material certification to indicate that natural rubber latex or BPA is not used 
 device component. If this statement is made without any qualification, it should apply to the 
 entire device and all of its packaging. A sponsor can also elect to make a statement that certain 
 components of the medical device or device container are not made with the material of concern. 
-For example, “The <vial stopper> is not made with natural rubber latex.”69
+For example, “The &lt;vial stopper> is not made with natural rubber latex.”69
 If a sponsor elects to include a “-free” statement, in their labeling, at the time of submission, 
 FDA recommends that the sponsor provide data to support that the device does not include the 
 material at a level that could result in an adverse event (e.g., allergic reaction or toxicity).
@@ -2254,7 +2254,7 @@ Degradation@
 Category
 Contact
 A – limited
-(<24 h)
+(&lt;24 h)
 B – prolonged
 (>24 h to 30 d)
 C – long term
@@ -2437,7 +2437,7 @@ Degradation@
 Category
 Contact
 A – limited
-(<24 h)
+(&lt;24 h)
 B – prolonged
 (>24 h to 30 d)
 C – long term
@@ -2753,7 +2753,7 @@ link)
 n/a
 Material X is a known carcinogen, 
 but device is used in patients with 
-< 6 month life expectancy, and 
+&lt; 6 month life expectancy, and 
 benefits outweigh risks, so no 
 mitigations or additional testing 
 needed.

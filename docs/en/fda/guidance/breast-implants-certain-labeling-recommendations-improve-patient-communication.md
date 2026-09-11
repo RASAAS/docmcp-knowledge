@@ -754,31 +754,31 @@ D3 Siloxane
 D4 Siloxane 
 0.46 
 D4 Siloxane 
-<2.5 
+&lt;2.5 
 D5 Siloxane 
 1.47 
 D5 Siloxane 
-<4.8 
+&lt;4.8 
 Methoxytrimethylsilane 
 0.43 
 D6 Siloxane 
-<8.4 
+&lt;8.4 
 Dimethoxydimethylsilane 
 0.03 
 D7 Siloxane 
-<8.4 
+&lt;8.4 
 Methoxytriethoxysilane 
 ND 
 D8 Siloxane 
-<8.3 
+&lt;8.3 
 Tetramethyldiethyldisiloxane 
 0.04 
 D9 Siloxane 
-<10.92 
+&lt;10.92 
 Acetone 
 0.18 
 D10 Siloxane 
-<21.86 
+&lt;21.86 
 17
 
 ---
@@ -828,7 +828,7 @@ D20 Siloxane
 Decane 
 ND 
 o-Xylene 
-<0.4 
+&lt;0.4 
 Benzaldehyde 
 0.01 
 Siloxane 
@@ -840,7 +840,7 @@ ND
 Limonene 
 0.01 
 Total Extractables (µg/g) 
-<4086.7 
+&lt;4086.7 
 Undecane 
 0.35 
 Acetophenone 
@@ -849,7 +849,7 @@ Dodecane
 0.07 
 Total Volatiles 
 3.67 
-Data preceded with a “<” symbol means that the level of the individual component, if present, was below the 
+Data preceded with a “&lt;” symbol means that the level of the individual component, if present, was below the 
 method detection limit indicated. ND=Not detected. 
 *ppm = parts per million 
 3. Heavy Metals Found in Breast Implants 

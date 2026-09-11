@@ -634,7 +634,7 @@ with the comparator method.
 For each claimed anatomical site, the samples should adequately span the claimed 
 measuring range of the SMBG.  Though it may be difficult to obtain samples at the 
 extreme ends of the measuring range, the study should contain at least 10 unaltered 
-samples with blood glucose concentrations < 80 mg/dL, and at least 10 unaltered samples 
+samples with blood glucose concentrations &lt; 80 mg/dL, and at least 10 unaltered samples 
 between 250 mg/dL glucose and the upper limit of the claimed measuring range of the 
 device.  It may be necessary to enroll more than 350 patients for each anatomical site 
 (fingertip, forearm, palm, etc.) in order to obtain the necessary unaltered samples.  Data 

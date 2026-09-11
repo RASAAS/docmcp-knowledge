@@ -646,7 +646,7 @@ adverse events are related, directly or indirectly, to the device should be thor
 Retrospective testimonials and statements made by study directors, their designees, or their 
 consultants that explain veterinary clinical outcomes should be supported by appropriate records 
 and reports. In the event of an unscheduled death, FDA recommends that a timely (for example, 
-<24 hours to minimize tissue degradation), complete necropsy be performed on the animal to 
+&lt;24 hours to minimize tissue degradation), complete necropsy be performed on the animal to 
 provide information to support the cause of death. 
  
 Post­Mortem Assessment Methods 

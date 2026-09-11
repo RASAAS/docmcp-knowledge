@@ -718,7 +718,7 @@ study.
 For each claimed sample type, the samples tested should adequately span the claimed 
 glucose measuring range of the BGMS device. Though it may be difficult to obtain 
 samples at the extreme ends of the measuring range, the study for each sample matrix 
-should contain at least 10 unaltered samples < 80 mg/dL and at least 10 unaltered 
+should contain at least 10 unaltered samples &lt; 80 mg/dL and at least 10 unaltered 
 samples between 300 mg/dL and the upper limit of the claimed measuring range of the 
 device. It may be necessary to enroll more than 350 patients for each sample type in order 
 to obtain the necessary unaltered samples. Testing should be performed by the intended 
@@ -809,9 +809,9 @@ treatment; therefore, it is important that the results are accurate so that medi
 errors are better avoided. In order to demonstrate that a BGMS is sufficiently accurate for 
 use by health care professionals, you should demonstrate that 95% of all values are 
 within +/- 12% of the comparator method for glucose concentrations > 75 mg/dL and 
-within +/- 12 mg/dL at glucose concentrations < 75 mg/dL. In addition, 98% of values 
+within +/- 12 mg/dL at glucose concentrations &lt; 75 mg/dL. In addition, 98% of values 
 should be within +/- 15% of the comparator method for glucose concentrations >75
-mg/dL and within +/- 15 mg/dL at glucose concentrations < 75 mg/dL. The BGMS 
+mg/dL and within +/- 15 mg/dL at glucose concentrations &lt; 75 mg/dL. The BGMS 
 should be as accurate as possible to avoid critical patient management errors. Though we 
 expect that BGMSs will be able to meet these criteria, there may be instances where 
 meters may be determined to be substantially equivalent when performance does not 
@@ -877,7 +877,7 @@ comparison/user evaluation described above and may be performed in a laboratory
 setting, though untrained intended users typical of users in a CLIA waived setting should 
 perform the testing to support CLIA waiver of the device. 
 Your study of accuracy at extreme glucose values should include a minimum of 50 
-prepared samples with glucose concentrations < 80 mg/dL and a minimum of 50 prepared 
+prepared samples with glucose concentrations &lt; 80 mg/dL and a minimum of 50 prepared 
 samples with glucose concentrations > 300 mg/dL. These samples should evenly cover 
 the lower and upper limits of the claimed measuring range. Samples may be altered by 
 spiking or allowing the samples to glycolyze in order to obtain appropriate glucose 
@@ -950,7 +950,7 @@ You should present results in the following tabular format for each sample matri
 Table 2 and Table 3 below, X= the number of samples within the specified difference 
 from the comparator method, and Y= total number of samples. 
 Summary of data within specified mg/dL of the comparator method. 
-Table 2. For glucose concentrations <75 mg/dL: 
+Table 2. For glucose concentrations &lt;75 mg/dL: 
 Within 
 +/- 5 mg/dL
 Within 

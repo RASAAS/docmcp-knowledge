@@ -1206,7 +1206,7 @@ risk for nickel toxicity is minimized, and testing to assess biological endpoint
 nickel leaching may not be necessary. 35
 D.
 Submicron or Nanotechnology Components 
-There can be unique properties associated with submicron (< 1 micron) or 
+There can be unique properties associated with submicron (&lt; 1 micron) or 
 nanotechnology components such as aggregation, agglomeration, immunogenicity, or 
 toxicity. 36,37 Medical devices with submicron components may warrant specialized 
 techniques if characterization and biocompatibility testing is needed.38 Limitations may 
@@ -1338,7 +1338,7 @@ article, this will dilute the amount of component materials being presented to t
 system and may not accurately identify potentially toxic agents that would have been 
 found if the components were tested separately. For example, we recommend testing 
 implants separately from delivery systems or other kit components.
-40 In many cases, it is acceptable to combine components with limited (< 24 hour) use, with an appropriate 
+40 In many cases, it is acceptable to combine components with limited (&lt; 24 hour) use, with an appropriate 
 supporting rationale. However, separate assessments of devices with prolonged (24 hour to 30 day) or long term (> 
 30 day) duration of contact are recommended.
 
@@ -2273,7 +2273,7 @@ Degradation@
 Category
 Contact
 A – limited
-(<24 h)
+(&lt;24 h)
 B – prolonged
 (>24 h to 30 d)
 C – long term
@@ -2456,7 +2456,7 @@ Degradation@
 Category
 Contact
 A – limited
-(<24 h)
+(&lt;24 h)
 B – prolonged
 (>24 h to 30 d)
 C – long term
@@ -2772,7 +2772,7 @@ link)
 n/a
 Material X is a known carcinogen, 
 but device is used in patients with 
-< 6 month life expectancy, and 
+&lt; 6 month life expectancy, and 
 benefits outweigh risks, so no 
 mitigations or additional testing 
 needed.

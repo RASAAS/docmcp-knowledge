@@ -672,7 +672,7 @@ Studies to validate that fail-
 safe mechanisms, or failure 
 alerts, including control 
 procedures, alert the 
-operator of an error when <2 
+operator of an error when &lt;2 
 drops or >5 drops are added. 
 V. Demonstrating Insignificant Risk of an Erroneous 
 Result – “Accuracy” 

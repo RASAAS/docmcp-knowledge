@@ -1864,7 +1864,7 @@ Sec.
 Contents
 1
 Conclusion and high-level summary
-The <device> has been found to be adequately designed for the intended users, uses, and use 
+The &lt;device> has been found to be adequately designed for the intended users, uses, and use 
 environments, such that the device can be used by the intended users without serious use errors or 
 problems, for the intended uses and under the expected conditions of use.  
 ·
@@ -1926,7 +1926,7 @@ Sec.
 Contents
 1
 Conclusion and high-level summary
-The <device> has been found to be adequately designed for the intended users, uses, and use 
+The &lt;device> has been found to be adequately designed for the intended users, uses, and use 
 environments, such that the device can be used by the intended users without serious use errors or 
 problems, for the intended uses and under the expected conditions of use.  
 ·
@@ -2115,7 +2115,7 @@ Sec.
 Contents
 1
 Conclusion and high-level summary
-The <device> has been found to be adequately designed for the intended users, uses, and use 
+The &lt;device> has been found to be adequately designed for the intended users, uses, and use 
 environments, such that the device can be used by the intended users without serious use errors or 
 problems, for the intended uses and under the expected conditions of use.  
 ·

@@ -1352,7 +1352,7 @@ study. The measure most commonly used is the disease-specific quality of life qu
 included with the AUA-SI (or IPSS) questionnaire.
 •
 Return to “Normal” symptom severity: There is value in knowing the percentage of 
-subjects whose symptoms improve to what is considered “normal” (i.e., AUA-SI < 8) 
+subjects whose symptoms improve to what is considered “normal” (i.e., AUA-SI &lt; 8) 
 after therapy. Conversely, the proportion of subjects whose symptoms worsen after 
 therapy is also important to know. Therefore, we recommend you collect pre- and post-
 treatment AUA-SI scores.
@@ -1498,7 +1498,7 @@ For example, an AUA-SI > 20 is consistent with the current clinical definition o
 BPH.40  
 • Peak urine flow rate: Reduced urinary flow rates are indicative of bladder outlet 
 obstruction and are suggestive of BPH. We recommend you include subjects with peak 
-urine flow rates that are indicative of obstruction (e.g., < 12 ml/sec).41 
+urine flow rates that are indicative of obstruction (e.g., &lt; 12 ml/sec).41 
 • Subject compliance and suitability: We recommend enrolling subjects who are able to 
 understand all study requirements and have life expectancies greater than the study 
 period. Further, we recommend enrolling subjects who are able to tolerate the procedure 
@@ -1558,7 +1558,7 @@ transrectal ultrasound (TRUS), or prostate specific antigen (PSA) level. We reco
 your protocol include testing the PSA level of all subjects. Currently clinical guidelines 
 indicate that a PSA level > 10 ng/ml is indicative of prostate cancer. We recommend your 
 protocol include a prostate biopsy prior to enrollment, if indicated, based on DRE, or if 
-the subject’s PSA level is > 2.5 ng/ml and ≤ 10 ng/ml and his free PSA is < 25% of total 
+the subject’s PSA level is > 2.5 ng/ml and ≤ 10 ng/ml and his free PSA is &lt; 25% of total 
 PSA.43 Finally, we recommend you follow the aforementioned American Urological 
 Association (AUA) guidelines to help determine in which subjects prostate cancer 
 screening is appropriate based upon age, ethnicity, family history. 
@@ -1686,7 +1686,7 @@ diagnosing carcinoma of the prostate. J Urol, 1997, 157:199-203.
 47 Levine MA, Ittman M, Melamed J, et al. 2 consecutive set of transrectal ultrasound guided sextant biopsies of the 
 prostate for the detection of prostate cancer. J Urol, 1998, 159:471-476. 
 48 We recommend that a prostate biopsy be performed if indicated based on DRE or if the subject’s PSA is > 2.5 
-ng/ml and ≤ 10 ng/ml and his free PSA is < 25% of total PSA (see Barry MJ, Prostate-specific-antigen testing for 
+ng/ml and ≤ 10 ng/ml and his free PSA is &lt; 25% of total PSA (see Barry MJ, Prostate-specific-antigen testing for 
 early diagnosis of prostate cancer, N Engl J Med, 2001, 344:1373-1377).
 
 ---

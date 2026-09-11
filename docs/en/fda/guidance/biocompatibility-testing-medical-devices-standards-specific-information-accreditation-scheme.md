@@ -930,7 +930,7 @@ For hemolysis testing (per ASTM F756):
 - 
 the positive control material mean hemolytic index is ≥ 5%  
 - 
-the negative control material mean hemolytic index is < 2%  
+the negative control material mean hemolytic index is &lt; 2%  
 • 
 For complement activation testing using SC5b-9 (a product of the terminal 
 pathway for complement activation),  
@@ -1479,7 +1479,7 @@ Contains Nonbinding Recommendations
 Extraction Ratio: 
  
  
-  6cm2/ml (<0.5mm thick) 
+  6cm2/ml (&lt;0.5mm thick) 
  
  
   3cm2/ml (0.5-1.0mm thick or molded items > 1.0mm) 
@@ -1817,7 +1817,7 @@ Contains Nonbinding Recommendations
 Extraction Ratio: 
  
  
-  6cm2/ml (<0.5mm thick) 
+  6cm2/ml (&lt;0.5mm thick) 
  
  
   3cm2/ml (0.5-1.0mm thick or molded items > 1.0mm) 
@@ -2049,7 +2049,7 @@ Extraction Solvent:
 Extraction Ratio: 
  
  
-  6cm2/ml (<0.5mm thick) 
+  6cm2/ml (&lt;0.5mm thick) 
  
  
   3cm2/ml (0.5-1.0mm thick or molded items > 1.0mm) 
@@ -2427,7 +2427,7 @@ Contains Nonbinding Recommendations
 Extraction Ratio: 
  
  
-  6cm2/ml (<0.5mm thick) 
+  6cm2/ml (&lt;0.5mm thick) 
  
  
   3cm2/ml (0.5-1.0mm thick or molded items > 1.0mm) 
@@ -2879,7 +2879,7 @@ Extraction Solvent:
 Extraction Ratio: 
  
  
-  6cm2/ml (<0.5mm thick) 
+  6cm2/ml (&lt;0.5mm thick) 
  
  
   3cm2/ml (0.5-1.0mm thick or molded items > 1.0mm) 
@@ -3227,7 +3227,7 @@ Contains Nonbinding Recommendations
 Extraction Ratio: 
  
  
-  6cm2/ml (<0.5mm thick) 
+  6cm2/ml (&lt;0.5mm thick) 
  
  
   3cm2/ml (0.5-1.0mm thick or molded items > 1.0mm) 
@@ -3571,7 +3571,7 @@ Contains Nonbinding Recommendations
 Extraction Ratio: 
  
  
-  6cm2/ml (<0.5mm thick) 
+  6cm2/ml (&lt;0.5mm thick) 
  
  
   3cm2/ml (0.5-1.0mm thick or molded items > 1.0mm) 
@@ -3806,7 +3806,7 @@ Contains Nonbinding Recommendations
 Extraction Ratio: 
  
  
-  6cm2/ml (<0.5mm thick) 
+  6cm2/ml (&lt;0.5mm thick) 
  
  
   3cm2/ml (0.5-1.0mm thick or molded items > 1.0mm) 
@@ -3887,7 +3887,7 @@ Contains Nonbinding Recommendations
 Exposure Ratio: 
  
  
-  6cm2/ml (<0.5mm thick) 
+  6cm2/ml (&lt;0.5mm thick) 
  
  
   3cm2/ml (0.5-1.0mm thick or molded items > 1.0mm) 
@@ -4193,7 +4193,7 @@ Test Medium:
 Exposure Ratio: 
  
  
-  6cm2/ml (<0.5mm thick) 
+  6cm2/ml (&lt;0.5mm thick) 
  
  
   3cm2/ml (0.5-1.0mm thick or molded items > 1.0mm) 

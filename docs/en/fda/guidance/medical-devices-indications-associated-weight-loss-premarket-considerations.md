@@ -2156,17 +2156,17 @@ TBWL
 Duration of Device Use
 Short-Term Limited 
 Weight Loss
-≥2% and <5%
+≥2% and &lt;5%
 50%
-6 months to <12 months
+6 months to &lt;12 months
 Limited Weight Loss
-≥2% and <5%
+≥2% and &lt;5%
 50%
 ≥12 months
 Short-Term Weight Loss
 ≥5%
 50%
-6 months to <12 months
+6 months to &lt;12 months
 Weight Loss
 ≥5%
 50%

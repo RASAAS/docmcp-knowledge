@@ -542,7 +542,7 @@ biocompatibility testing is not needed for the needle.  If you are unable to cit
 conformance to a recognized standard and/or if your needle is coated, biocompatibility 
 testing should be conducted on the needle component in accordance with ISO 10993-1 
 for the appropriate contact classification – e.g., external communicating device with 
-limited contact duration (< 24 hours). 
+limited contact duration (&lt; 24 hours). 
 Submission Information: Refer to FDA Biocompatibility Guidance
 
 <!-- fulltext-end -->

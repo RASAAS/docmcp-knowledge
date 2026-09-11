@@ -1637,7 +1637,7 @@ will be used to quantify thread engagement and calculate the theoretical pullout
 strengths for the smallest axial thread lengthened screws in the device system 
 using the following equation:  
  
-𝐹𝐹𝐹𝐹= 𝑆𝑆∗𝐴𝐴= {𝑆𝑆∗𝐿𝐿∗𝜋𝜋∗𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷∗𝑇𝑇𝑇𝑇𝑇𝑇} 
+𝐹𝐹𝐹𝐹= 𝑆𝑆∗𝐴𝐴= &#123;𝑆𝑆∗𝐿𝐿∗𝜋𝜋∗𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷∗𝑇𝑇𝑇𝑇𝑇𝑇&#125; 
  
 Fs = predicted shear failure force (N) 
 S = material ultimate shear stress (MPa) 

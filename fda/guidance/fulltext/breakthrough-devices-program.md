@@ -1421,7 +1421,7 @@ Safety Endpoints
 Safety endpoints.
 Example: No statistically-based safety endpoint, but the below 
 adverse events will be captured; treatment-related adverse events as
-defined below <30%>.
+defined below &lt;30%>.
 Effectiveness Endpoints
 Effectiveness endpoints.
 Examples: No statistically-based effectiveness endpoint, but the 

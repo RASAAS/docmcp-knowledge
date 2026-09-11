@@ -1847,7 +1847,7 @@ acceptance criteria:
 Applied Biosystems KB Basecaller, or similar software packages (this 
 represents a probability of an error of 1% or lower) [15]. 
 • The sequence should match the reference or consensus sequence with an 
-Expected Value (E-Value) < 10-30 for the specific target (for a BLAST search 
+Expected Value (E-Value) &lt; 10-30 for the specific target (for a BLAST search 
 in GenBank, http://www.ncbi.nlm.nih.gov/Genbank/).   
  
 Additionally, if public health authorities recommend against culturing a specimen 

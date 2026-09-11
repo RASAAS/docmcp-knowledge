@@ -645,7 +645,7 @@ guidance “Use of International Standard ISO-10993-1, 'Biological evaluation of
 Additionally, we recommend providing your routine batch release Limulus Amebocyte Lysate 
 (LAL) monitoring procedures. For guidance, refer to FDA’s Guidance for Industry “Pyrogen and 
 Endotoxins Testing: Questions and Answers” and the USP Endotoxin Reference Standard (USP 
-Chapter <161> Medical Devices – Bacterial Endotoxin and Pyrogen Tests). You may also refer 
+Chapter &lt;161> Medical Devices – Bacterial Endotoxin and Pyrogen Tests). You may also refer 
 to ANSI AAMI ST72: Bacterial endotoxins – Test methodologies, routine monitoring, and 
 alternatives to batch testing for endotoxin testing on your device. 
 For devices intended to be labeled as “non-pyrogenic,” we recommend that both bacterial 
