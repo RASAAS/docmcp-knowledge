@@ -1,20 +1,3 @@
----
-id: nmpa-gp-椎体成形球囊扩张导管注册技术审查指导原则-e70893
-title:
-  zh: 椎体成形球囊扩张导管注册技术审查指导原则
-  en: ''
-regulation: nmpa
-category: nmpa/guidance
-status: active
-document_number: 国家药品监督管理局2020年第31号通告
-source_format: markdown
-translation: original
-effective_date: '2020-01-01'
-contributor: RASAAS
-promoted_from: fulltext
----
-# 椎体成形球囊扩张导管注册技术审查指导原则
-
 <!-- source: cmde-skill-batch 椎体成形球囊扩张导管注册技术审查指导原则（2020年第31号）.doc -->
 <!-- source_url: https://www.cmde.org.cn/flfg/zdyz/zdyzwbk/20200511084901364.html -->
 <!-- title: 椎体成形球囊扩张导管注册技术审查指导原则 -->

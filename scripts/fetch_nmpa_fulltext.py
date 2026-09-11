@@ -602,8 +602,11 @@ def _check_attachment_body_mismatch(text: str, expected_title: str) -> bool:
                 if exp_bg and body_bg:
                     overlap = exp_bg & body_bg
                     score = len(overlap) / max(len(exp_bg), len(body_bg))
-                    if score < 0.3:
-                        return True
+                    # High bigram overlap => same topic (near-title variants
+                    # like 配套/研究 inserts). Low overlap => real mismatch.
+                    if score >= 0.3:
+                        return False
+                    return True
 
             return True
 
@@ -615,6 +618,9 @@ def content_matches_title(text: str, expected_title: str) -> bool:
 
     Also detects the NMPA "attachment mismatch" pattern where the title
     appears in the header but the body is a different guidance document.
+
+    Accepts near-title variants where the document heading and index title
+    differ by small insertions (e.g. 配套, 研究) or line wrapping.
     """
     if not text or not expected_title:
         return False
@@ -630,6 +636,8 @@ def content_matches_title(text: str, expected_title: str) -> bool:
         norm_first = _normalize_title(first_flat)
         if norm_expected in norm_first:
             title_found = True
+        elif _near_title_match(norm_expected, norm_first):
+            title_found = True
 
     if title_found:
         if _check_attachment_body_mismatch(text, expected_title):
@@ -642,6 +650,41 @@ def content_matches_title(text: str, expected_title: str) -> bool:
 
     keyword_hits = sum(1 for kw in title_keywords if kw in first_section)
     return keyword_hits / len(title_keywords) >= 0.3
+
+
+def _is_subsequence(short: str, long: str) -> bool:
+    it = iter(long)
+    return all(c in it for c in short)
+
+
+def _near_title_match(norm_expected: str, norm_first: str) -> bool:
+    """True when expected title is nearly the document heading (small inserts)."""
+    if not norm_expected or len(norm_expected) < 10:
+        return False
+    # Prefer matching against an early heading-like span containing 指导原则
+    heading = ""
+    for m in re.finditer(r".{0,40}指导原则", norm_first[:800]):
+        cand = m.group(0)
+        if len(cand) >= 10:
+            heading = cand
+            break
+    target = heading or norm_first[:120]
+    if not target:
+        return False
+    if norm_expected in target or target in norm_expected:
+        return True
+    shorter, longer = (
+        (norm_expected, target)
+        if len(norm_expected) <= len(target)
+        else (target, norm_expected)
+    )
+    if len(shorter) < 10:
+        return False
+    # Require high overlap and sequential subsequence (allows 配套/研究 inserts)
+    overlap = sum(1 for c in shorter if c in longer) / len(shorter)
+    if overlap < 0.9:
+        return False
+    return _is_subsequence(shorter, longer)
 
 
 def is_draft_content(text: str) -> bool:
