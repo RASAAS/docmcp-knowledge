@@ -1,34 +1,10 @@
----
-title: "关于宫细胞学设备的注意点"
-description: "Points to Consider for Cervical Cytology Devices"
-published: 1994-07-25
----
+# 宫颈细胞学器械的注意要点
 
-# 关于宫细胞学设备的注意点
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/points-consider-cervical-cytology-devices](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/points-consider-cervical-cytology-devices)
 
-**Points to Consider for Cervical Cytology Devices**
-
-**发布日期**：1994-07-25
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：一般 / 其他
-**案卷号**：FDA-2020-D-0957
-
-::: tip 官方来源
-[https://www.fda.gov/regulatory-information/search-fda-guidance-documents/points-consider-cervical-cytology-devices](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/points-consider-cervical-cytology-devices)
-PDF：[https://www.fda.gov/media/73795/download](https://www.fda.gov/media/73795/download)
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 1994-07-25
 
 ---
-
-## 官方文件全文
 
 本指南写于1997年2月27日FDA良好指南规范（GGP）实施之前。它不为任何人创设或授予任何权利，亦不约束FDA或公众。替代方法若满足适用法规、条例或二者的要求，可采用。本指南将在下次修订时更新，以纳入GGP的标准要素。
 

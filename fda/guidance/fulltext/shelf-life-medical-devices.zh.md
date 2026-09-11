@@ -1,34 +1,10 @@
----
-title: "医疗器械的使用寿命"
-description: "Shelf Life of Medical Devices"
-published: 1991-04-01
----
+# 医疗器械货架期
 
-# 医疗器械的使用寿命
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/shelf-life-medical-devices](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/shelf-life-medical-devices)
 
-**Shelf Life of Medical Devices**
-
-**发布日期**：1991-04-01
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：一般 / 其他
-**案卷号**：FDA-2020-D-0957
-
-::: tip 官方来源
-[https://www.fda.gov/regulatory-information/search-fda-guidance-documents/shelf-life-medical-devices](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/shelf-life-medical-devices)
-PDF：[https://www.fda.gov/media/72487/download](https://www.fda.gov/media/72487/download)
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 1991-04-01
 
 ---
-
-## 官方文件全文
 
 本指南写于1997年2月27日FDA良好指南规范（GGP）实施之前。它不为任何人创设或授予任何权利，亦不约束FDA或公众。替代方法若满足适用法规、条例或二者的要求，可采用。本指南将在下次修订时更新，以纳入GGP的标准要素。
 

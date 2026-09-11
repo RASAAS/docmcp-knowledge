@@ -1,34 +1,10 @@
----
-title: "整体产品生命周期中自愿患者偏好信息的集成：行业、食品药品管理局工作人员及其他相关方指南"
-description: "Incorporating Voluntary Patient Preference Information over the Total Product Life Cycle: Guidance for Industry, Food and Drug Administration Staff, and Other Interested Parties"
-published: 2026-03-30
----
+# 在整个产品生命周期中纳入自愿性患者偏好信息：行业、食品药品管理局工作人员及其他利益相关方指南
 
-# 整体产品生命周期中自愿患者偏好信息的集成：行业、食品药品管理局工作人员及其他相关方指南
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/incorporating-voluntary-patient-preference-information-over-total-product-life-cycle](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/incorporating-voluntary-patient-preference-information-over-total-product-life-cycle)
 
-**Incorporating Voluntary Patient Preference Information over the Total Product Life Cycle: Guidance for Industry, Food and Drug Administration Staff, and Other Interested Parties**
-
-**发布日期**：2026-03-30
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：一般 / 其他
-**案卷号**：FDA-2015-D-1580
-
-::: tip 官方来源
-[https://www.fda.gov/regulatory-information/search-fda-guidance-documents/incorporating-voluntary-patient-preference-information-over-total-product-life-cycle](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/incorporating-voluntary-patient-preference-information-over-total-product-life-cycle)
-PDF：[https://www.fda.gov/media/92593/download](https://www.fda.gov/media/92593/download)
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 2026-03-30
 
 ---
-
-## 官方文件全文
 
 本指南代表食品药品管理局（FDA或本机构）目前对该主题的观点。它不为任何人确立任何权利，对FDA或公众亦不具约束力。若替代方法满足适用法规与条例的要求，您可采用该替代方法。如需讨论替代方法，请联系本指南扉页所列的负责本指南的FDA工作人员或办公室。
 

@@ -1,34 +1,10 @@
----
-title: "微波合规性调查仪器的校准定位交换系统的建立和维护指南 (FDA 88-8264) ] (仅为PDF)"
-description: "Guide for Establishing and Maintaining a Calibration Constancy Intercomparison System for Microwave Oven Compliance Survey Instruments (FDA 88-8264)] (PDF Only)"
-published: 1988-03-01
----
+# 建立并维持微波炉校准恒定性比对系统的指南
 
-# 微波合规性调查仪器的校准定位交换系统的建立和维护指南 (FDA 88-8264) ] (仅为PDF)
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guide-establishing-and-maintaining-calibration-constancy-intercomparison-system-microwave-oven](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guide-establishing-and-maintaining-calibration-constancy-intercomparison-system-microwave-oven)
 
-**Guide for Establishing and Maintaining a Calibration Constancy Intercomparison System for Microwave Oven Compliance Survey Instruments (FDA 88-8264)] (PDF Only)**
-
-**发布日期**：1988-03-01
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：辐射 / 影像
-**主题**：Radiological Health
-
-::: tip 官方来源
-[https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guide-establishing-and-maintaining-calibration-constancy-intercomparison-system-microwave-oven](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guide-establishing-and-maintaining-calibration-constancy-intercomparison-system-microwave-oven)
-PDF：[https://www.fda.gov/media/74066/download](https://www.fda.gov/media/74066/download)
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 1983-03-01
 
 ---
-
-## 官方文件全文
 
 本指南说明如何建立并维持用于微波炉泄漏测量仪器的校准恒定性比对系统，以确保辐射泄漏测试结果可靠并符合联邦微波炉性能标准相关测量期望。
 

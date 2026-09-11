@@ -1,34 +1,10 @@
----
-title: "耐冲击镜头:问题及 答案：行业与FDA工作人员指南"
-description: "Impact-Resistant Lenses: Questions and Answers: Guidance for Industry and FDA Staff"
-published: 2010-09-02
----
+# 耐冲击镜片：问答——行业与FDA工作人员指南
 
-# 耐冲击镜头:问题及 答案：行业与FDA工作人员指南
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/impact-resistant-lenses-questions-and-answers](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/impact-resistant-lenses-questions-and-answers)
 
-**Impact-Resistant Lenses: Questions and Answers: Guidance for Industry and FDA Staff**
-
-**发布日期**：2010-09-02
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：一般 / 其他
-**案卷号**：FDA-2007-D-0367
-
-::: tip 官方来源
-[https://www.fda.gov/regulatory-information/search-fda-guidance-documents/impact-resistant-lenses-questions-and-answers](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/impact-resistant-lenses-questions-and-answers)
-PDF：[https://www.fda.gov/media/71020/download](https://www.fda.gov/media/71020/download)
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 2010-09-02
 
 ---
-
-## 官方文件全文
 
 FDA的指南文件（包括本指南）不确立具有法律强制力的责任。相反，指南描述本机构目前对某一主题的观点，应仅视为建议，除非引用了具体的监管或法定要求。本机构指南中使用“应当（should）”一词，表示建议或推荐，而非强制要求。
 

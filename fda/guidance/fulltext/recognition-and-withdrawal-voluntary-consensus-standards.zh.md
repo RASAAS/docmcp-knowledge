@@ -1,35 +1,10 @@
----
-title: "承认和撤销自愿共识标准：行业与食品药品管理局工作人员指南"
-description: "Recognition and Withdrawal of Voluntary Consensus Standards: Guidance for Industry and Food and Drug Administration Staff"
-published: 2020-09-15
----
+# 自愿共识标准的认可与撤销：行业与食品药品管理局工作人员指南
 
-# 承认和撤销自愿共识标准：行业与食品药品管理局工作人员指南
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/recognition-and-withdrawal-voluntary-consensus-standards](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/recognition-and-withdrawal-voluntary-consensus-standards)
 
-**Recognition and Withdrawal of Voluntary Consensus Standards: Guidance for Industry and Food and Drug Administration Staff**
-
-**发布日期**：2020-09-15
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：一般 / 其他
-**主题**：Administrative / Procedural
-**案卷号**：FDA-2018-D-2936
-
-::: tip 官方来源
-[https://www.fda.gov/regulatory-information/search-fda-guidance-documents/recognition-and-withdrawal-voluntary-consensus-standards](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/recognition-and-withdrawal-voluntary-consensus-standards)
-PDF：[https://www.fda.gov/media/71995/download](https://www.fda.gov/media/71995/download)
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 2020-09-15
 
 ---
-
-## 官方文件全文
 
 本指南代表食品药品管理局（FDA或本机构）目前对该主题的观点。它不为任何人确立任何权利，对FDA或公众亦不具约束力。若替代方法满足适用法规与条例的要求，您可采用该替代方法。如需讨论替代方法，请联系本指南扉页所列的FDA工作人员或负责办公室。
 ## I. 简介

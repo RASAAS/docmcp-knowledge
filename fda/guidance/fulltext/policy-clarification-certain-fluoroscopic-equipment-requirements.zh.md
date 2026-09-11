@@ -1,35 +1,10 @@
----
-title: "关于某些光镜设备要求的政策澄清：行业与食品药品管理局工作人员指南"
-description: "Policy Clarification for Certain Fluoroscopic Equipment Requirements: Guidance for Industry and Food and Drug Administration Staff"
-published: 2019-05-08
----
+# 关于某些透视设备要求的政策澄清：行业与食品药品管理局工作人员指南
 
-# 关于某些光镜设备要求的政策澄清：行业与食品药品管理局工作人员指南
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/policy-clarification-certain-fluoroscopic-equipment-requirements](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/policy-clarification-certain-fluoroscopic-equipment-requirements)
 
-**Policy Clarification for Certain Fluoroscopic Equipment Requirements: Guidance for Industry and Food and Drug Administration Staff**
-
-**发布日期**：2019-05-08
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：辐射 / 影像
-**主题**：Radiological Health
-**案卷号**：FDA-2014-D-1344
-
-::: tip 官方来源
-[https://www.fda.gov/regulatory-information/search-fda-guidance-documents/policy-clarification-certain-fluoroscopic-equipment-requirements](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/policy-clarification-certain-fluoroscopic-equipment-requirements)
-PDF：[https://www.fda.gov/media/89919/download](https://www.fda.gov/media/89919/download)
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 2019-05-08
 
 ---
-
-## 官方文件全文
 
 本指南代表食品药品管理局（FDA或本机构）目前对该主题的观点。它不为任何人确立任何权利，对FDA或公众亦不具约束力。若替代方法满足适用法规与条例的要求，您可采用该替代方法。如需讨论替代方法，请联系本指南扉页所列的FDA工作人员或负责办公室。
 ## I. 简介

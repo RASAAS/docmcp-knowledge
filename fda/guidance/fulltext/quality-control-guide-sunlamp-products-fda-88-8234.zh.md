@@ -1,35 +1,10 @@
----
-title: "太阳灯产品质量控制指南 (FDA 88-8234)"
-description: "Quality Control Guide for Sunlamp Products (FDA 88-8234)"
-published: 1988-03-01
----
+# 日光灯产品质量控制指南（FDA 88-8234）
 
-# 太阳灯产品质量控制指南 (FDA 88-8234)
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/quality-control-guide-sunlamp-products-fda-88-8234](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/quality-control-guide-sunlamp-products-fda-88-8234)
 
-**Quality Control Guide for Sunlamp Products (FDA 88-8234)**
-
-**发布日期**：1988-03-01
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：辐射 / 影像
-**主题**：Tanning Lamps、Booths & Beds
-**案卷号**：FDA-2020-D-0957
-
-::: tip 官方来源
-[https://www.fda.gov/regulatory-information/search-fda-guidance-documents/quality-control-guide-sunlamp-products-fda-88-8234](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/quality-control-guide-sunlamp-products-fda-88-8234)
-PDF：[https://www.fda.gov/media/74980/download](https://www.fda.gov/media/74980/download)
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 1988-09-01
 
 ---
-
-## 官方文件全文
 
 本指南为日光灯产品（美黑灯床/灯具等）制造商提供质量控制与辐射测量方面的建议，以支持符合联邦日光灯产品性能标准。
 

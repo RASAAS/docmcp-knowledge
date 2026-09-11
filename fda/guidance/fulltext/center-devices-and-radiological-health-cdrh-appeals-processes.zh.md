@@ -1,35 +1,10 @@
----
-title: "设备和放射性健康中心 (CDRH) 诉讼程序：行业与食品药品管理局工作人员指南"
-description: "Center for Devices and Radiological Health (CDRH) Appeals Processes: Guidance for Industry and Food and Drug Administration Staff"
-published: 2022-03-02
----
+# 器械与放射健康中心（CDRH）申诉流程：行业与食品药品管理局工作人员指南
 
-# 设备和放射性健康中心 (CDRH) 诉讼程序：行业与食品药品管理局工作人员指南
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/center-devices-and-radiological-health-cdrh-appeals-processes](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/center-devices-and-radiological-health-cdrh-appeals-processes)
 
-**Center for Devices and Radiological Health (CDRH) Appeals Processes: Guidance for Industry and Food and Drug Administration Staff**
-
-**发布日期**：2022-03-02
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：一般 / 其他
-**主题**：Administrative / Procedural
-**案卷号**：FDA-2011-D-0893
-
-::: tip 官方来源
-[https://www.fda.gov/regulatory-information/search-fda-guidance-documents/center-devices-and-radiological-health-cdrh-appeals-processes](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/center-devices-and-radiological-health-cdrh-appeals-processes)
-PDF：[https://www.fda.gov/media/128444/download](https://www.fda.gov/media/128444/download)
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 2022-03-02
 
 ---
-
-## 官方文件全文
 
 作为《2023年综合拨款法》一部分颁布的《2022年食品药品综合改革法》（FDORA）第3308条（2022年12月29日）修订了《联邦食品、药品和化妆品法》第517A(a)(1)条。本指南在FDORA颁布之前制定并发布，因此本指南某些章节可能因此不再现行。经修订后，第517A(a)(1)条不再包括突破性器械指定请求。更多信息请联系CDRH申诉专员：CDRHOmbudsman@fda.hhs.gov。
 

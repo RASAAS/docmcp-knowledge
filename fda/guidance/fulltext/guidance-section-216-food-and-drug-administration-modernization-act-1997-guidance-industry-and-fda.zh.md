@@ -1,34 +1,10 @@
----
-title: "关于1997年食品和药物管理现代化法案第216条的指南和FDA审查人员的指南：行业指南"
-description: "Guidance on Section 216 of the Food and Drug Administration Modernization Act of 1997 - Guidance for Industry and for FDA Reviewers"
-published: 2000-08-08
----
+# 关于1997年《食品药品管理现代化法案》第216条的指南——行业与FDA审评人员指南
 
-# 关于1997年食品和药物管理现代化法案第216条的指南和FDA审查人员的指南：行业指南
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-section-216-food-and-drug-administration-modernization-act-1997-guidance-industry-and-fda](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-section-216-food-and-drug-administration-modernization-act-1997-guidance-industry-and-fda)
 
-**Guidance on Section 216 of the Food and Drug Administration Modernization Act of 1997 - Guidance for Industry and for FDA Reviewers**
-
-**发布日期**：2000-08-08
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：一般 / 其他
-**案卷号**：FDA-2020-D-0957
-
-::: tip 官方来源
-[https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-section-216-food-and-drug-administration-modernization-act-1997-guidance-industry-and-fda](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-section-216-food-and-drug-administration-modernization-act-1997-guidance-industry-and-fda)
-PDF：[https://www.fda.gov/media/71743/download](https://www.fda.gov/media/71743/download)
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 2000-08-08
 
 ---
-
-## 官方文件全文
 
 I. 简介
 本文件为行业与FDA审评人员提供关于食品药品管理局（FDA）对1997年《食品药品管理现代化法案》（FDAMA）第216条解释的指南。本文件说明器械与放射健康中心（CDRH）将如何适用该新规定，并解释FDA通过CDRH采取该方法的理由。
