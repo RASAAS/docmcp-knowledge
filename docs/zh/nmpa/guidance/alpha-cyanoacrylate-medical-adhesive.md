@@ -6,7 +6,8 @@ title:
 regulation: nmpa
 category: nmpa/guidance
 status: active
-source_url: https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/02-non-active-surgical/%ce%b1-cyanoacrylate-medical-adhesive/
+document_number: 国家药品监督管理局医疗器械技术审评中心2024年第23号通告
+source_url: "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/02-non-active-surgical/%ce%b1-cyanoacrylate-medical-adhesive/"
 source_url_verified: '2026-02-23'
 source_url_status: migrated
 source_format: html
@@ -15,7 +16,7 @@ last_verified: '2026-02-23'
 contributor: RASAAS
 migrated_from: wordpress
 wordpress_id: 3873
-effective_date: '2025-04-19'
+effective_date: '2024-01-01'
 ---
 
 # α -氰基丙烯酸酯类医用粘合剂注册审查指导原则(2024年修订版)

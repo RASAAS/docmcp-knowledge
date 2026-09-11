@@ -1,6 +1,6 @@
 ---
 title: NMPA 法规规章
-generated: '2026-02-23'
+generated: '2026-09-11'
 doc_count: 25
 ---
 
@@ -8,7 +8,7 @@ doc_count: 25
 
 <!-- AUTO-GENERATED: do not edit below this line -->
 
-> 共 **25** 篇文档，最后更新：2026-07-20
+> 共 **25** 篇文档，最后更新：2026-09-11
 
 | 文档名称 | 文号 | 发布年份 |
 |----------|------|----------|

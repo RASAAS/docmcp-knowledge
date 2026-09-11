@@ -470,5 +470,3 @@ Japanese Medical Device Nomenclature（JMDN）
 ## 七、起草单位
 
 本指导原则由国家药品监督管理局医疗器械标准管理中心编写并负责解释。
-
-<!-- fulltext-end -->

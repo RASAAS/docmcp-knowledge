@@ -5,8 +5,10 @@ title:
   en: ''
 regulation: nmpa
 category: nmpa/guidance
-status: active
-source_url: https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/09-physical-therapy/magnetic-therapy-device-2016/
+status: superseded
+superseded_by: magnetic-therapy-device-2024
+document_number: 2016年第22号
+source_url: "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/09-physical-therapy/magnetic-therapy-device-2016/"
 source_url_verified: '2026-02-23'
 source_url_status: migrated
 source_format: html
@@ -15,7 +17,7 @@ last_verified: '2026-02-23'
 contributor: RASAAS
 migrated_from: wordpress
 wordpress_id: 3275
-effective_date: '2025-04-19'
+effective_date: '2016-01-01'
 ---
 
 # 磁疗产品注册技术审查指导原则（2016年第22号）

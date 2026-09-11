@@ -178,7 +178,7 @@ def get_doc_entries(data_dir: Path, section_key: str) -> List[dict]:
         entries.append({
             "slug": md_file.stem.replace(".zh", ""),
             "title_zh": title_zh,
-            "doc_number": fm.get("document_number", ""),
+            "doc_number": fm.get("document_number") or fm.get("doc_number") or "",
             "effective_date": fm.get("effective_date", ""),
             "published_date": fm.get("published_date", ""),
             "status": fm.get("status", "active"),
@@ -269,9 +269,21 @@ def generate_section_page(
     fm_str += f"doc_count: {fm['doc_count']}\n"
     fm_str += "---\n\n"
 
-    # Build intro section (preserve existing if present, otherwise generate)
+    # Build intro section (preserve existing prose if present, otherwise generate).
+    # Always refresh YAML frontmatter so doc_count / generated stay accurate.
     if auto_marker in existing_content:
-        intro = existing_content.split(auto_marker)[0]
+        preserved = existing_content.split(auto_marker)[0]
+        if preserved.startswith("---"):
+            fm_end = preserved.find("\n---", 3)
+            if fm_end >= 0:
+                body_intro = preserved[fm_end + 4:].lstrip("\n")
+                intro = fm_str + body_intro
+                if not intro.endswith("\n"):
+                    intro += "\n"
+            else:
+                intro = fm_str + f"# {section_title}\n\n"
+        else:
+            intro = fm_str + preserved
     else:
         intro = fm_str + f"# {section_title}\n\n"
 
@@ -642,6 +654,14 @@ def main():
         if not entries:
             continue
 
+        # Keep superseded/withdrawn pages synced for historical routes, but
+        # de-list them from the auto-generated index table and sidebar.
+        index_entries = [
+            e for e in entries
+            if str(e.get("status", "active")).lower()
+            not in {"superseded", "withdrawn", "obsolete", "replaced"}
+        ]
+
         if sync_content:
             # Sync full content files into docs/zh/ for VitePress rendering
             synced = sync_content_to_docs(section_key, entries, repo_root, dry_run=args.dry_run)
@@ -649,7 +669,7 @@ def main():
             # Sync English content files into docs/en/ for VitePress rendering
             en_synced = sync_en_content_to_docs(section_key, entries, repo_root, dry_run=args.dry_run)
             total_synced += en_synced
-            all_section_entries[section_key] = entries
+            all_section_entries[section_key] = index_entries
 
         # eu_mdr/mdcg has a hand-written index page — skip auto-generation to avoid overwriting
         if section_key == "eu_mdr/mdcg":
@@ -658,9 +678,9 @@ def main():
 
         generate_section_page(
             section_key, docs_page_path, section_title,
-            entries, repo_root, dry_run=args.dry_run
+            index_entries, repo_root, dry_run=args.dry_run
         )
-        total_entries += len(entries)
+        total_entries += len(index_entries)
         total_pages += 1
 
     # Generate dynamic sidebar config

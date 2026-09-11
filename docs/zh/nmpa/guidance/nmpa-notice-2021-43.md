@@ -6,7 +6,7 @@ title:
 regulation: nmpa
 category: nmpa/guidance
 status: active
-source_url: https://reguverse.com/documentation/nmpa-regulations-index/pms/nmpa-notice-2021-43/
+source_url: "https://reguverse.com/documentation/nmpa-regulations-index/pms/nmpa-notice-2021-43/"
 source_url_verified: '2026-02-23'
 source_url_status: migrated
 source_format: html
@@ -15,7 +15,7 @@ last_verified: '2026-02-23'
 contributor: RASAAS
 migrated_from: wordpress
 wordpress_id: 540
-effective_date: '2025-04-20'
+effective_date: '2021-01-01'
 ---
 
 # 医疗器械注册人备案人开展不良事件监测工作检查要点

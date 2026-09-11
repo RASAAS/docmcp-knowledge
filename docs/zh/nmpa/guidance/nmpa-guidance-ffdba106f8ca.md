@@ -775,5 +775,3 @@ published:
 ### 13.李家泰.临床药理学. 人民卫生出版社.1998年2月第二版.
 
 14.Caroline Smith, Carol Burley, Mick Ireson, Tony Johnson, Debbie Jordan, Sidonie Knight f,.Trevor Mason, Dan Massey, Julie Moss and Keith Williams. .Clinical trials of antibacterial agents: a practical guide to design and analysis. Journal of Antimicrobial Chemotherapy (1998) 41, 467–480.
-
-<!-- fulltext-end -->

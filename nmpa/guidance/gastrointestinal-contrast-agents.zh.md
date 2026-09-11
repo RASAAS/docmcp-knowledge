@@ -6,7 +6,8 @@ title:
 regulation: nmpa
 category: nmpa/guidance
 status: active
-source_url: https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/06-imaging/gastrointestinal-contrast-agents/
+document_number: 国家药品监督管理局医疗器械技术审评中心2025年第20号通告
+source_url: "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/06-imaging/gastrointestinal-contrast-agents/"
 source_url_verified: '2026-02-23'
 source_url_status: migrated
 source_format: html

@@ -6,7 +6,7 @@ title:
 regulation: nmpa
 category: nmpa/guidance
 status: active
-source_url: https://reguverse.com/documentation/nmpa-regulations-index/general/nmpa-notice-2022-91/
+source_url: "https://reguverse.com/documentation/nmpa-regulations-index/general/nmpa-notice-2022-91/"
 source_url_verified: '2026-02-23'
 source_url_status: migrated
 source_format: html
@@ -15,7 +15,7 @@ last_verified: '2026-02-23'
 contributor: RASAAS
 migrated_from: wordpress
 wordpress_id: 168
-effective_date: '2025-04-20'
+effective_date: '2022-01-01'
 ---
 
 # 国家药监局关于全面实施医疗器械电子注册证的公告

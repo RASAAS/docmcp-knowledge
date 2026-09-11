@@ -6,7 +6,8 @@ title:
 regulation: nmpa
 category: nmpa/guidance
 status: active
-source_url: https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/17-dentistry/oral-repair-membrane-2025/
+document_number: 国家药品监督管理局医疗器械技术审评中心2025年第6号通告
+source_url: "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/17-dentistry/oral-repair-membrane-2025/"
 source_url_verified: '2026-02-23'
 source_url_status: migrated
 source_format: html

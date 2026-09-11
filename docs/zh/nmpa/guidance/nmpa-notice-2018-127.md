@@ -6,7 +6,8 @@ title:
 regulation: nmpa
 category: nmpa/guidance
 status: active
-source_url: https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/innovative-medical-devices-special-review/nmpa-notice-2018-127/
+document_number: 国家药品监督管理局2018年第127号通告
+source_url: "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/innovative-medical-devices-special-review/nmpa-notice-2018-127/"
 source_url_verified: '2026-02-23'
 source_url_status: migrated
 source_format: html
@@ -15,7 +16,7 @@ last_verified: '2026-02-23'
 contributor: RASAAS
 migrated_from: wordpress
 wordpress_id: 259
-effective_date: '2025-04-20'
+effective_date: '2018-01-01'
 ---
 
 # 创新医疗器械特别审查申报资料编写指南

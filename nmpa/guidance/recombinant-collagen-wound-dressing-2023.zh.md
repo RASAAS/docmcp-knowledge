@@ -6,7 +6,8 @@ title:
 regulation: nmpa
 category: nmpa/guidance
 status: active
-source_url: https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/14-infusion-care-and-protection/recombinant-collagen-wound-dressing-2023/
+document_number: 国家药品监督管理局医疗器械技术审评中心2023年第16号通告
+source_url: "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/14-infusion-care-and-protection/recombinant-collagen-wound-dressing-2023/"
 source_url_verified: '2026-02-23'
 source_url_status: migrated
 source_format: html
@@ -15,7 +16,7 @@ last_verified: '2026-02-23'
 contributor: RASAAS
 migrated_from: wordpress
 wordpress_id: 4141
-effective_date: '2025-04-20'
+effective_date: '2023-01-01'
 ---
 
 # 重组胶原蛋白创面敷料注册审查指导原则

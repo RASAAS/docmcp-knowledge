@@ -283,5 +283,3 @@ published:
 5.Guidance for Industry:Recommendations for Collecting Red Blood Celles by Automated Apheresis Methods；January 2001 ,CBER  US FDA
 
 6.Guidance for Industry and FDA Staff:Class II Special Controls Guidance Docunment:Automated Blood Cell Separator Device Operating by Centrifugal or Filtration Separation Principle；November 2007 ,CBER  US FDA
-
-<!-- fulltext-end -->

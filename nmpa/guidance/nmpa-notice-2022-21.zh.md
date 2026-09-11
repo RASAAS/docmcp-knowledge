@@ -6,7 +6,7 @@ title:
 regulation: nmpa
 category: nmpa/guidance
 status: active
-source_url: https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/clinical-investigation/nmpa-notice-2022-21/
+source_url: "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/clinical-investigation/nmpa-notice-2022-21/"
 source_url_verified: '2026-02-23'
 source_url_status: migrated
 source_format: html
@@ -15,7 +15,7 @@ last_verified: '2026-02-23'
 contributor: RASAAS
 migrated_from: wordpress
 wordpress_id: 223
-effective_date: '2025-04-20'
+effective_date: '2022-01-01'
 ---
 
 # 国家药监局关于实施《医疗器械临床试验质量管理规范》有关事项的通告
