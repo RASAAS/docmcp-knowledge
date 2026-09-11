@@ -31,14 +31,6 @@ PDF：https://www.fda.gov/media/166704/download
 
 ## 官方文件全文
 
-# 关于人工智能器械软件功能预先确定的变更控制计划的营销提交建议:工业、美国食品药品监督管理局工作人员指南
-
-**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/marketing-submission-recommendations-predetermined-change-control-plan-artificial-intelligence](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/marketing-submission-recommendations-predetermined-change-control-plan-artificial-intelligence)
-
-**发布日期：** 2025-08-18
-
----
-
 本指南代表了美国食品药品监督管理局(美国食品药品监督管理局或机构)目前对这一专题的想法。它没有规定任何人的任何权利,对FDA或公众没有约束力。您可采取另一种方式,即满足适用的法规和条例的要求。为了讨论另一种办法,请与标题页所列FDA工作人员或负责本指南的办公室联系。
 
 ## I. 简介
@@ -751,4 +743,3 @@ AI-DSF被纳入成像系统,目的是帮助医疗服务提供者在获取成人�
 [^109]: 见《FD&C法》第502(a)(1)节,其中指出,如果医疗器械的标签在任何特定方面都是虚假或误导的,则该装置被视为错误的标志。更新后操作将保持安全和有效;以及(4) 如何使所有用户了解设备功能和性能的最新情况。此外,FDA必须了解如何减轻与更新进程本身有关的潜在风险。
 
 [^114]: 21 CFR 807.81(a)(3)或21 CFR 814.39(a)表示需要迅速临床行动,以防止对病人的潜在伤害。人工智能辅助医疗器械得到PCCP授权。
-

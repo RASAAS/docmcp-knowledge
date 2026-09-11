@@ -31,14 +31,6 @@ PDF：https://www.fda.gov/media/150141/download
 
 ## 官方文件全文
 
-# 医疗器械的再制造
-
-**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/remanufacturing-medical-devices](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/remanufacturing-medical-devices)
-
-**发布日期：** 2024-05-09
-
----
-
 本指南代表了美国食品药品监督管理局(美国食品药品监督管理局或机构)目前对这一专题的想法。它没有规定任何人的任何权利,对FDA或公众没有约束力。您可采取另一种方式,即满足适用的法规和条例的要求。为了讨论另一种办法,请与标题页所列FDA工作人员或负责本指南的办公室联系。
 
 ## I. 简介
@@ -705,4 +697,3 @@ UDI: H123PARTNO 123454567890120美元/420020216LOT 12345678989012345SXYZ 4567898
 [^68]: 关于UDI系统的其他资料,包括全球独特设备识别数据库(GUDID)提交要求,见FDA网站 " 独特装置识别系统(UDI系统) " ,可在以下网站查阅: @0___可根据新的特征或功能安全有效地再利用。制造商有责任修改和验证与具体再制造活动相关的任何必要的标签更改,包括:但不仅限于重新制造者识别信息、获得新的UDI、修改使用指示、装置规格和所需警告。
 
 [^69]: 见《FD & C法》第502(a)、201(n)、502(c)和502(f)(2)节。其标签没有包含充分的警告;或在标签中必须列入的任何资料没有明显地标明,其用词会使普通人根据购买和使用习惯条件阅读和理解。
-

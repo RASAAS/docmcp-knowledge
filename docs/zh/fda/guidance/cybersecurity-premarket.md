@@ -31,14 +31,6 @@ PDF：https://www.fda.gov/media/119933/download
 
 ## 官方文件全文
 
-# 医疗设备网络安全:质量管理体系的考虑和预先提交文件的内容
-
-**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/cybersecurity-medical-devices-quality-management-system-considerations-and-content-premarket](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/cybersecurity-medical-devices-quality-management-system-considerations-and-content-premarket)
-
-**发布日期：** 2026-02-03
-
----
-
 本指南代表了美国食品药品监督管理局(美国食品药品监督管理局或机构)目前对这一专题的想法。它没有规定任何人的任何权利,对FDA或公众没有约束力。您可采取另一种方式,即满足适用的法规和条例的要求。为了讨论另一种办法,请与标题页所列FDA工作人员或负责本指南的办公室联系。
 ## I. 简介
 随着无线、互联网和网络连接能力、便携式媒体(如USB或CD)的日益一体化,以及经常以电子方式交流与医疗器械有关的健康信息和其他信息,需要强有力的网络安全控制,以确保医疗器械的安全和有效性,这一点已变得更加重要。
@@ -582,4 +574,3 @@ NTIA的Framing软件组成部分透明度:建立共同的软件材料法案(SBOM
 [^84]: 为本指南的目的,“身份管理”系指对用户对装置和资产的认证和授权进行规范的程序。
 
 [^114]: 为本指南的目的,制定了“产品安全开发框架”这一术语,以帮助反映和包含与安全开发生命周期和框架有关的概念。虽然SPDF一词是新的,但有关安全产品开发和风险管理的概念并不是新的,符合《质量、计量、标准和标签条例》和《标签条例》的期望。随着网络安全不断演变,FDA继续调整其术语,以反映最佳做法。以及基于数据和信息必须如何保护的安全领域之间。* 在安全领域安排与安保有关的要素,安保相关要素之间的相互联系和信任关系,以及与安全有关的要素之间的行为和相互作用。
-

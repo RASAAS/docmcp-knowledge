@@ -31,14 +31,6 @@ PDF：https://www.fda.gov/media/87134/download
 
 ## 官方文件全文
 
-# 医疗器械开发工具的认定：行业、工具开发者与食品药品管理局工作人员指南
-
-**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/qualification-medical-device-development-tools](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/qualification-medical-device-development-tools)
-
-**发布日期：** 2023-07-17
-
----
-
 本指南代表美国食品药品监督管理局（FDA或本机构）对该主题的当前观点。它不赋予任何个人任何权利，对FDA或公众不具有约束力。如果您采用的替代方法满足适用法律法规的要求，则可以采用该替代方法。如需讨论替代方法，请联系本指南标题页所列的负责FDA工作人员或办公室。
 
 ## I. 简介
@@ -297,4 +289,3 @@ MDDT计划无意对MDDT许可或费用，或工具开发者可向医疗器械制
 [^13]: https://www.fda.gov/drugs/development-approval-process-drugs/drug-development-tool-ddt-qualification-programs
 
 [^14]: 若作为研究对象的器械属21 CFR 812.3(m)所定义的显著风险器械，则该研究（包括MDDT的使用）须遵守21 CFR Part 812的全部要求。若作为研究对象的器械非显著风险器械，则适用于21 CFR 812.2(b)所列简化要求，包括MDDT的使用。符合21 CFR 812.2(c)（包括812.2(c)(3)）所述豁免标准之一的研究（包括MDDT的使用），除812.119节外，无需遵守21 CFR Part 812。
-

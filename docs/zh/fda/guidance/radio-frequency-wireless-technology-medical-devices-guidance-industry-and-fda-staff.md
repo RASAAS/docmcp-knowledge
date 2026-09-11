@@ -31,14 +31,6 @@ PDF：https://www.fda.gov/media/71975/download
 
 ## 官方文件全文
 
-# 医疗设备无无线电频率无线技术 -- -- 工业和FDA工作人员指南
-
-**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/radio-frequency-wireless-technology-medical-devices-guidance-industry-and-fda-staff](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/radio-frequency-wireless-technology-medical-devices-guidance-industry-and-fda-staff)
-
-**发布日期：** 2013-08-14
-
----
-
 FDA的指南文件,包括本指南,没有规定法律上可执行的责任。相反,指导说明工程处目前对某一专题的想法,只应视为建议,除非引述具体的规章或法规要求。在原子能机构的指导意见中使用这个词意味着建议或建议某种东西,但并不要求。
 2.  范围 范围
 
@@ -302,4 +294,3 @@ RTCA/DO-160G,环境条件和空气携带设备测试程序
 [^11]: 21 CFR 820.100(a)。
 
 [^12]: 21 CFR 820.100(a)。
-

@@ -31,14 +31,6 @@ PDF：https://www.fda.gov/media/113967/download
 
 ## 官方文件全文
 
-# 体外诊断检测的逻辑观察标识符名称与代码（LOINC）：行业与食品药品管理局工作人员指南
-
-**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/logical-observation-identifiers-names-and-codes-in-vitro-diagnostic-tests](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/logical-observation-identifiers-names-and-codes-in-vitro-diagnostic-tests)
-
-**发布日期：** 2018-06-15
-
----
-
 本指南代表美国食品药品监督管理局（FDA或本机构）对该主题的当前观点。它不赋予任何个人任何权利，对FDA或公众不具有约束力。如果您采用的替代方法满足适用法律法规的要求，则可以采用该替代方法。如需讨论替代方法，请联系本指南标题页所列的负责FDA工作人员或办公室。
 ## I. 简介
 美国食品药品监督管理局（FDA或本机构）认识到，随着电子健康记录（EHR）的日益实施，对体外诊断（IVD）检测编码方式进行标准化的需求也在增加。协调并标准化在电子医疗系统中采集与存储的信息，对公共卫生具有重要意义，包括加快医疗服务提供者获取患者诊断信息、减轻实验室将新诊断系统接入实验室信息系统（LIS）的负担，以及便于将医疗信息用于决策支持工具等，还有更多潜在用途。
@@ -102,4 +94,3 @@ FDA不打算对制造商可能选择向临床实验室或其他用户提供的LO
 [^12]: 见《FD&C法》第501(f)(1)、502(o)、513(f)(1)和515条（21 U.S.C. 351(f)(1)、352(o)、360c(f)(1)和360e）。另见FDA行业指南《药品和器械制造商与付费方、处方集委员会及类似实体的沟通——问答》。
 
 [^14]: 见 http://ivdconnectivity.org/livd/
-

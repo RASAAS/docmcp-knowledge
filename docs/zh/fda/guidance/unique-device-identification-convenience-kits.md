@@ -123,4 +123,3 @@ https://www.fda.gov/downloads/MedicalDevices/DeviceRegulationandGuidance/Guidanc
 [^16]: 见AccessGUDID：https://accessgudid.nlm.nih.gov/。
 
 [^17]: 见 https://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/UniqueDeviceIdentification/default.htm。
-

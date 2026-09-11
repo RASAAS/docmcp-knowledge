@@ -31,14 +31,6 @@ PDF：https://www.fda.gov/media/90652/download
 
 ## 官方文件全文
 
-# 一般健康：低风险器械政策：行业与食品药品管理局工作人员指南
-
-**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/general-wellness-policy-low-risk-devices](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/general-wellness-policy-low-risk-devices)
-
-**发布日期：** 2026-01-06
-
----
-
 本指南代表美国食品药品监督管理局（FDA或本机构）对该主题的当前观点。它不赋予任何个人任何权利，对FDA或公众不具有约束力。如果您采用的替代方法满足适用法律法规的要求，则可以采用该替代方法。如需讨论替代方法，请联系本指南标题页所列的负责FDA工作人员或办公室。
 本指南澄清FDA对该条款的解释及其对一般健康产品的适用。
 
@@ -180,4 +172,3 @@ A3. 产品是否为低风险？
 [^10]: 见FDA指南：《II类特殊控制指南文件：外用阴茎勃起装置》，2004年12月28日发布：https://www.fda.gov/regulatory-information/search-fda-guidance-documents/class-ii-special-controls-guidance-document-external-penile-rigidity-devices-guidance-industry-and
 
 [^11]: 见将旨在晒黑皮肤的紫外线灯从豁免上市前通知的I类重新分类为II类（特殊控制）的最终命令：《普通与整形外科器械：紫外线灯晒黑用途的重新分类》。
-

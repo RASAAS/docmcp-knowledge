@@ -31,14 +31,6 @@ PDF：https://www.fda.gov/media/95636/download
 
 ## 官方文件全文
 
-# 关于可互操作器械的设计考虑和上市前提交建议:工业及美国食品药品监督管理局工作人员指南
-
-**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/design-considerations-and-pre-market-submission-recommendations-interoperable-medical-devices](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/design-considerations-and-pre-market-submission-recommendations-interoperable-medical-devices)
-
-**发布日期：** 2017-09-06
-
----
-
 关于可互操作器械的设计考虑和上市前提交建议
 
 本指南代表了美国食品药品监督管理局(美国食品药品监督管理局或机构)目前对这一专题的想法。它没有规定任何人的任何权利,对FDA或公众没有约束力。您可采取另一种方式,即满足适用的法规和条例的要求。为了讨论另一种办法,请与标题页所列FDA工作人员或负责本指南的办公室联系。
@@ -191,4 +183,3 @@ FDA建议根据医疗设备接口的目的,酌情将下列信息列入设备标�
 [^9]: 关于医疗设备网络安全的其他资料,请参见我们的指南文件,“医疗设备网络安全管理预市场呈件的内容”,可在以下网址查阅:涉及电子接口;正常使用以及可合理预见的滥用引起的风险。
 
 [^12]: 详情请查阅FDA指南,“医疗设备应用人的因素和可用性工程”如下:推荐连接; 推荐设置,或电子界面配置;就如何连接或安装、切断或卸载该设备,向信息技术人员等具体用户提供指导。
-
