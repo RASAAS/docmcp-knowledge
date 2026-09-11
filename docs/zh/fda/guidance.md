@@ -9,7 +9,7 @@ doc_count: 434
 目前有效的 **CDRH Final** 指南（Guidance Document 与 Special Controls）。不含 Draft、CPG、Memorandum 与 Small Entity Compliance Guides。
 
 共 **434** 份。本波次已填写全部中文标题，并生成分类中文目录与元数据页。
-英文结构质检（PR #113）已通过。`digital_health_cyber` 中文全文已补齐。本波次补齐 `radiation_imaging`、`clinical_rwe`、`other` 中全部已有英文全文的中文正文（无英文全文者仍为元数据页；`premarket` 留待后续）。
+英文结构质检（PR #113）已通过。非 premarket 类别中文全文已按既有英文补齐。本波次（wave1）补齐 `premarket` 中最新发布且已有英文全文的 40 份中文正文；其余 premarket 仍为元数据页，后续分波继续。
 
 各类别内按发布日期由新到旧排列。标注〔全文〕=已有中文全文，〔仅元数据〕=本波次元数据页（英文全文见对应 EN 页）。
 
@@ -55,48 +55,48 @@ doc_count: 434
 
 ## 上市前（510(k) / PMA / De Novo / IDE） {#premarket}
 
-290 份文件，其中中文全文 0 份，其余为元数据页。
+290 份文件，其中中文全文 40 份，其余为元数据页。
 
-- [牙科护理灯 - 上市前通知 (510(k)) 提交：行业与食品药品管理局工作人员指南](./guidance/dental-curing-lights-premarket-notification-510k-submissions) (2026-09-02) 〔仅元数据〕
-- [牙科复合树脂设备 - 上市前通知 (510(k)) 提交：行业与食品药品管理局工作人员指南](./guidance/dental-composite-resin-devices-premarket-notification-510k-submissions) (2026-09-02) 〔仅元数据〕
-- [应用人类因素和可用性工程到医疗器械：行业与食品药品管理局工作人员指南](./guidance/applying-human-factors-and-usability-engineering-medical-devices) (2026-08-03) 〔仅元数据〕
-- [血液管组 - 上市前通知 (510(k)) 提交：行业与食品药品管理局工作人员指南](./guidance/hemodialysis-blood-tubing-sets-premarket-notification-510k-submissions) (2026-07-23) 〔仅元数据〕
-- [意图免除某些未分类的医疗器械的预销售通知要求：行业与食品药品管理局工作人员指南](./guidance/intent-exempt-certain-unclassified-medical-devices-premarket-notification-requirements) (2026-06-05) 〔仅元数据〕
-- [医疗器械市场营销提交中的人体因素信息内容：行业与食品药品管理局工作人员指南](./guidance/content-human-factors-information-medical-device-marketing-submissions) (2026-05-29) 〔仅元数据〕
-- [整形植入器的患者匹配指南：行业与食品药品管理局工作人员指南](./guidance/patient-matched-guides-orthopedic-implants) (2026-05-07) 〔仅元数据〕
-- [减肥相关的标志性医疗器械 - 上市前考虑因素：行业与食品药品管理局工作人员指南](./guidance/medical-devices-indications-associated-weight-loss-premarket-considerations) (2026-03-13) 〔仅元数据〕
-- [实实世界证据的使用,支持医疗器械的监管决策：行业与食品药品管理局工作人员指南](./guidance/use-real-world-evidence-support-regulatory-decision-making-medical-devices) (2025-12-18) 〔仅元数据〕
-- [医疗器械提交的eCopy计划：行业与食品药品管理局工作人员指南](./guidance/ecopy-program-medical-device-submissions) (2025-12-03) 〔仅元数据〕
-- [牙移植材料设备的动物研究 - 上市前通知 (510(k)) 提交：行业与食品药品管理局工作人员指南](./guidance/animal-studies-dental-bone-grafting-material-devices-premarket-notification-510k-submissions) (2025-08-22) 〔仅元数据〕
-- [医疗器械提交的反请求和会议:Q提交计划：行业与食品药品管理局工作人员最终指南](./guidance/requests-feedback-and-meetings-medical-device-submissions-q-submission-program) (2025-05-29) 〔仅元数据〕
-- [在医疗器械临床研究中评估性别特定数据：行业与食品药品管理局工作人员指南](./guidance/evaluation-sex-specific-data-medical-device-clinical-studies-guidance-industry-and-food-and-drug) (2025-03-31) 〔仅元数据〕
-- [预销售许可申请和人道主义设备豁免模块化审查：行业与FDA工作人员指南](./guidance/premarket-approval-application-and-humanitarian-device-exemption-modular-review) (2025-01-13) 〔仅元数据〕
-- [乙烯氧化物灭菌设施的过渡执行政策变化：行业与食品药品管理局工作人员指南](./guidance/transitional-enforcement-policy-ethylene-oxide-sterilization-facility-changes-class-iii-devices) (2024-11-26) 〔仅元数据〕
-- [整形非脊椎金属骨螺丝和洗衣机 - 安全性和性能的性能标准：行业与食品药品管理局工作人员指南](./guidance/orthopedic-non-spinal-metallic-bone-screws-and-washers-performance-criteria-safety-and-performance) (2024-11-22) 〔仅元数据〕
-- [整形骨板,螺丝和洗衣机 - 上市前通知 (510(k)) 提交：行业与食品药品管理局工作人员指南](./guidance/orthopedic-non-spinal-bone-plates-screws-and-washers-premarket-notification-510k-submissions) (2024-11-22) 〔仅元数据〕
-- [510(k) 第三方审查计划和第三方紧急使用许可 (EUA) 审查：行业、食品药品管理局工作人员与第三方审评组织指南](./guidance/510k-third-party-review-program-and-third-party-emergency-use-authorization-eua-review) (2024-11-21) 〔仅元数据〕
-- [肠道牙植入物和肠道牙植入物 - 安全性和性能的性能标准：行业与食品药品管理局工作人员指南](./guidance/endosseous-dental-implants-and-endosseous-dental-implant-abutments-performance-criteria-safety-and) (2024-10-15) 〔仅元数据〕
-- [牙印花材料 - 安全性和性能标准的基础路径：行业与食品药品管理局工作人员指南](./guidance/dental-impression-materials-performance-criteria-safety-and-performance-based-pathway) (2024-09-30) 〔仅元数据〕
-- [牙科陶 -安全性和性能基础的性能标准：行业与食品药品管理局工作人员指南](./guidance/dental-ceramics-performance-criteria-safety-and-performance-based-pathway) (2024-09-30) 〔仅元数据〕
-- [牙水泥 - 安全性和性能基础的性能标准：行业与食品药品管理局工作人员指南](./guidance/dental-cements-performance-criteria-safety-and-performance-based-pathway) (2024-09-30) 〔仅元数据〕
-- [气动牙科手机和气动马达 - 基于安全与性能路径的性能标准：行业与食品药品管理局工作人员指南](./guidance/air-powered-dental-handpieces-and-air-motors-performance-criteria-safety-and-performance-based) (2024-09-30) 〔仅元数据〕
-- [根据《联邦食品、药品和化妆品法案》要求获取信息的要求：行业与食品药品管理局工作人员指南](./guidance/fda-and-industry-procedures-section-513g-requests-information-under-federal-food-drug-and-cosmetic) (2024-08-23) 〔仅元数据〕
-- [电子提交医疗器械的模板 De Novo 要求：行业与食品药品管理局工作人员指南](./guidance/electronic-submission-template-medical-device-de-novo-requests) (2024-08-23) 〔仅元数据〕
-- [提交和审查产不菌性信息在上市前通知 (510(k)) 提交以无菌标记的设备：行业与食品药品管理局工作人员指南](./guidance/submission-and-review-sterility-information-premarket-notification-510k-submissions-devices-labeled) (2024-01-08) 〔仅元数据〕
-- [关于批准预销售许可 (PMA) 或人道主义设备豁免 (HDE) 申请的某些补充剂的执行政策：行业与食品药品管理局工作人员指南](./guidance/enforcement-policy-certain-supplements-approved-premarket-approval-pma-or-humanitarian-device) (2023-11-02) 〔仅元数据〕
-- [支持患者监测的非侵入式远程监测设备的执行政策：行业与食品药品管理局工作人员指南](./guidance/enforcement-policy-non-invasive-remote-monitoring-devices-used-support-patient-monitoring) (2023-10-19) 〔仅元数据〕
-- [在磁共振环境中安全性检测和标签医疗器械：行业与食品药品管理局工作人员指南](./guidance/testing-and-labeling-medical-devices-safety-magnetic-resonance-mr-environment) (2023-10-10) 〔仅元数据〕
-- [发送磁共振诊断设备的预销售通知：行业与食品药品管理局工作人员指南](./guidance/submission-premarket-notifications-magnetic-resonance-diagnostic-devices) (2023-10-10) 〔仅元数据〕
-- [电子提交医疗器械模板 510(k) 提交：行业与食品药品管理局工作人员指南](./guidance/electronic-submission-template-medical-device-510k-submissions) (2023-10-02) 〔仅元数据〕
-- [突破性设备计划：行业与食品药品管理局工作人员指南](./guidance/breakthrough-devices-program) (2023-09-14) 〔仅元数据〕
-- [国际标准ISO 10993-1的使用"医疗器械生物评估 - 第1部分:在风险管理过程中进行评估和测试"：行业与食品药品管理局工作人员指南](./guidance/use-international-standard-iso-10993-1-biological-evaluation-medical-devices-part-1-evaluation-and) (2023-09-08) 〔仅元数据〕
-- [在新冠病毒 (COVID-19) 疫情期间,面具和屏障面具的执行政策：行业与食品药品管理局工作人员指南](./guidance/enforcement-policy-face-masks-and-barrier-face-coverings-during-coronavirus-disease-covid-19-public) (2023-09-05) 〔仅元数据〕
-- [基于 Peroxide 的接触镜护理产品:消费者标签建议 - 上市前通知 (510(k)) 提交：行业与食品药品管理局工作人员指南](./guidance/hydrogen-peroxide-based-contact-lens-care-products-consumer-labeling-recommendations-premarket) (2023-07-27) 〔仅元数据〕
-- [在电力结过程中使用的组织控制系统的非临床性能评估：行业与食品药品管理局工作人员指南](./guidance/non-clinical-performance-assessment-tissue-containment-systems-used-during-power-morcellation) (2023-05-26) 〔仅元数据〕
-- [周围皮肤转光血管 (PTA) 和专业管 - 上市前通知 (510(k)) 提交：行业与食品药品管理局工作人员指南](./guidance/peripheral-percutaneous-transluminal-angioplasty-pta-and-specialty-catheters-premarket-notification) (2023-04-14) 〔仅元数据〕
-- [软 (水力) 日用隐形眼镜 - 基于安全与性能路径的性能标准：行业与食品药品管理局工作人员指南](./guidance/soft-hydrophilic-daily-wear-contact-lenses-performance-criteria-safety-and-performance-based-pathway) (2023-03-28) 〔仅元数据〕
-- [动物研究的一般考虑因素,用于评估医疗器械：行业与食品药品管理局工作人员指南](./guidance/general-considerations-animal-studies-intended-evaluate-medical-devices) (2023-03-28) 〔仅元数据〕
-- [2019年新冠病毒疫情 (COVID-19) 期间发布的执法政策中属于医疗器械的过渡计划：行业、其他利益相关方与食品药品管理局工作人员指南](./guidance/transition-plan-medical-devices-fall-within-enforcement-policies-issued-during-coronavirus-disease) (2023-03-27) 〔仅元数据〕
+- [牙科护理灯 - 上市前通知 (510(k)) 提交：行业与食品药品管理局工作人员指南](./guidance/dental-curing-lights-premarket-notification-510k-submissions) (2026-09-02) 〔全文〕
+- [牙科复合树脂设备 - 上市前通知 (510(k)) 提交：行业与食品药品管理局工作人员指南](./guidance/dental-composite-resin-devices-premarket-notification-510k-submissions) (2026-09-02) 〔全文〕
+- [应用人类因素和可用性工程到医疗器械：行业与食品药品管理局工作人员指南](./guidance/applying-human-factors-and-usability-engineering-medical-devices) (2026-08-03) 〔全文〕
+- [血液管组 - 上市前通知 (510(k)) 提交：行业与食品药品管理局工作人员指南](./guidance/hemodialysis-blood-tubing-sets-premarket-notification-510k-submissions) (2026-07-23) 〔全文〕
+- [意图免除某些未分类的医疗器械的预销售通知要求：行业与食品药品管理局工作人员指南](./guidance/intent-exempt-certain-unclassified-medical-devices-premarket-notification-requirements) (2026-06-05) 〔全文〕
+- [医疗器械市场营销提交中的人体因素信息内容：行业与食品药品管理局工作人员指南](./guidance/content-human-factors-information-medical-device-marketing-submissions) (2026-05-29) 〔全文〕
+- [整形植入器的患者匹配指南：行业与食品药品管理局工作人员指南](./guidance/patient-matched-guides-orthopedic-implants) (2026-05-07) 〔全文〕
+- [减肥相关的标志性医疗器械 - 上市前考虑因素：行业与食品药品管理局工作人员指南](./guidance/medical-devices-indications-associated-weight-loss-premarket-considerations) (2026-03-13) 〔全文〕
+- [实实世界证据的使用,支持医疗器械的监管决策：行业与食品药品管理局工作人员指南](./guidance/use-real-world-evidence-support-regulatory-decision-making-medical-devices) (2025-12-18) 〔全文〕
+- [医疗器械提交的eCopy计划：行业与食品药品管理局工作人员指南](./guidance/ecopy-program-medical-device-submissions) (2025-12-03) 〔全文〕
+- [牙移植材料设备的动物研究 - 上市前通知 (510(k)) 提交：行业与食品药品管理局工作人员指南](./guidance/animal-studies-dental-bone-grafting-material-devices-premarket-notification-510k-submissions) (2025-08-22) 〔全文〕
+- [医疗器械提交的反请求和会议:Q提交计划：行业与食品药品管理局工作人员最终指南](./guidance/requests-feedback-and-meetings-medical-device-submissions-q-submission-program) (2025-05-29) 〔全文〕
+- [在医疗器械临床研究中评估性别特定数据：行业与食品药品管理局工作人员指南](./guidance/evaluation-sex-specific-data-medical-device-clinical-studies-guidance-industry-and-food-and-drug) (2025-03-31) 〔全文〕
+- [预销售许可申请和人道主义设备豁免模块化审查：行业与FDA工作人员指南](./guidance/premarket-approval-application-and-humanitarian-device-exemption-modular-review) (2025-01-13) 〔全文〕
+- [乙烯氧化物灭菌设施的过渡执行政策变化：行业与食品药品管理局工作人员指南](./guidance/transitional-enforcement-policy-ethylene-oxide-sterilization-facility-changes-class-iii-devices) (2024-11-26) 〔全文〕
+- [整形非脊椎金属骨螺丝和洗衣机 - 安全性和性能的性能标准：行业与食品药品管理局工作人员指南](./guidance/orthopedic-non-spinal-metallic-bone-screws-and-washers-performance-criteria-safety-and-performance) (2024-11-22) 〔全文〕
+- [整形骨板,螺丝和洗衣机 - 上市前通知 (510(k)) 提交：行业与食品药品管理局工作人员指南](./guidance/orthopedic-non-spinal-bone-plates-screws-and-washers-premarket-notification-510k-submissions) (2024-11-22) 〔全文〕
+- [510(k) 第三方审查计划和第三方紧急使用许可 (EUA) 审查：行业、食品药品管理局工作人员与第三方审评组织指南](./guidance/510k-third-party-review-program-and-third-party-emergency-use-authorization-eua-review) (2024-11-21) 〔全文〕
+- [肠道牙植入物和肠道牙植入物 - 安全性和性能的性能标准：行业与食品药品管理局工作人员指南](./guidance/endosseous-dental-implants-and-endosseous-dental-implant-abutments-performance-criteria-safety-and) (2024-10-15) 〔全文〕
+- [牙印花材料 - 安全性和性能标准的基础路径：行业与食品药品管理局工作人员指南](./guidance/dental-impression-materials-performance-criteria-safety-and-performance-based-pathway) (2024-09-30) 〔全文〕
+- [牙科陶 -安全性和性能基础的性能标准：行业与食品药品管理局工作人员指南](./guidance/dental-ceramics-performance-criteria-safety-and-performance-based-pathway) (2024-09-30) 〔全文〕
+- [牙水泥 - 安全性和性能基础的性能标准：行业与食品药品管理局工作人员指南](./guidance/dental-cements-performance-criteria-safety-and-performance-based-pathway) (2024-09-30) 〔全文〕
+- [气动牙科手机和气动马达 - 基于安全与性能路径的性能标准：行业与食品药品管理局工作人员指南](./guidance/air-powered-dental-handpieces-and-air-motors-performance-criteria-safety-and-performance-based) (2024-09-30) 〔全文〕
+- [根据《联邦食品、药品和化妆品法案》要求获取信息的要求：行业与食品药品管理局工作人员指南](./guidance/fda-and-industry-procedures-section-513g-requests-information-under-federal-food-drug-and-cosmetic) (2024-08-23) 〔全文〕
+- [电子提交医疗器械的模板 De Novo 要求：行业与食品药品管理局工作人员指南](./guidance/electronic-submission-template-medical-device-de-novo-requests) (2024-08-23) 〔全文〕
+- [提交和审查产不菌性信息在上市前通知 (510(k)) 提交以无菌标记的设备：行业与食品药品管理局工作人员指南](./guidance/submission-and-review-sterility-information-premarket-notification-510k-submissions-devices-labeled) (2024-01-08) 〔全文〕
+- [关于批准预销售许可 (PMA) 或人道主义设备豁免 (HDE) 申请的某些补充剂的执行政策：行业与食品药品管理局工作人员指南](./guidance/enforcement-policy-certain-supplements-approved-premarket-approval-pma-or-humanitarian-device) (2023-11-02) 〔全文〕
+- [支持患者监测的非侵入式远程监测设备的执行政策：行业与食品药品管理局工作人员指南](./guidance/enforcement-policy-non-invasive-remote-monitoring-devices-used-support-patient-monitoring) (2023-10-19) 〔全文〕
+- [在磁共振环境中安全性检测和标签医疗器械：行业与食品药品管理局工作人员指南](./guidance/testing-and-labeling-medical-devices-safety-magnetic-resonance-mr-environment) (2023-10-10) 〔全文〕
+- [发送磁共振诊断设备的预销售通知：行业与食品药品管理局工作人员指南](./guidance/submission-premarket-notifications-magnetic-resonance-diagnostic-devices) (2023-10-10) 〔全文〕
+- [电子提交医疗器械模板 510(k) 提交：行业与食品药品管理局工作人员指南](./guidance/electronic-submission-template-medical-device-510k-submissions) (2023-10-02) 〔全文〕
+- [突破性设备计划：行业与食品药品管理局工作人员指南](./guidance/breakthrough-devices-program) (2023-09-14) 〔全文〕
+- [国际标准ISO 10993-1的使用"医疗器械生物评估 - 第1部分:在风险管理过程中进行评估和测试"：行业与食品药品管理局工作人员指南](./guidance/use-international-standard-iso-10993-1-biological-evaluation-medical-devices-part-1-evaluation-and) (2023-09-08) 〔全文〕
+- [在新冠病毒 (COVID-19) 疫情期间,面具和屏障面具的执行政策：行业与食品药品管理局工作人员指南](./guidance/enforcement-policy-face-masks-and-barrier-face-coverings-during-coronavirus-disease-covid-19-public) (2023-09-05) 〔全文〕
+- [基于 Peroxide 的接触镜护理产品:消费者标签建议 - 上市前通知 (510(k)) 提交：行业与食品药品管理局工作人员指南](./guidance/hydrogen-peroxide-based-contact-lens-care-products-consumer-labeling-recommendations-premarket) (2023-07-27) 〔全文〕
+- [在电力结过程中使用的组织控制系统的非临床性能评估：行业与食品药品管理局工作人员指南](./guidance/non-clinical-performance-assessment-tissue-containment-systems-used-during-power-morcellation) (2023-05-26) 〔全文〕
+- [周围皮肤转光血管 (PTA) 和专业管 - 上市前通知 (510(k)) 提交：行业与食品药品管理局工作人员指南](./guidance/peripheral-percutaneous-transluminal-angioplasty-pta-and-specialty-catheters-premarket-notification) (2023-04-14) 〔全文〕
+- [软 (水力) 日用隐形眼镜 - 基于安全与性能路径的性能标准：行业与食品药品管理局工作人员指南](./guidance/soft-hydrophilic-daily-wear-contact-lenses-performance-criteria-safety-and-performance-based-pathway) (2023-03-28) 〔全文〕
+- [动物研究的一般考虑因素,用于评估医疗器械：行业与食品药品管理局工作人员指南](./guidance/general-considerations-animal-studies-intended-evaluate-medical-devices) (2023-03-28) 〔全文〕
+- [2019年新冠病毒疫情 (COVID-19) 期间发布的执法政策中属于医疗器械的过渡计划：行业、其他利益相关方与食品药品管理局工作人员指南](./guidance/transition-plan-medical-devices-fall-within-enforcement-policies-issued-during-coronavirus-disease) (2023-03-27) 〔全文〕
 - [关于2019年新冠病毒疾病 (COVID-19) 的医疗器械紧急使用许可证 (EUA) 的过渡计划：行业、其他利益相关方与食品药品管理局工作人员指南](./guidance/transition-plan-medical-devices-issued-emergency-use-authorizations-euas-related-coronavirus-disease) (2023-03-27) 〔仅元数据〕
 - [政策澄清和上市前通知 [510(k) ] 超声波透膜设备的申请：行业与食品药品管理局工作人员指南](./guidance/policy-clarification-and-premarket-notification-510k-submissions-ultrasonic-diathermy-devices) (2023-02-21) 〔仅元数据〕
 - [医疗X射线成像设备符合IEC标准：行业与食品药品管理局工作人员指南](./guidance/medical-x-ray-imaging-devices-conformance-iec-standards) (2023-02-21) 〔仅元数据〕
