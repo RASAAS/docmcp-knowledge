@@ -313,10 +313,11 @@ def main():
         print(f"  [DRY] Would write docs/en/fda/guidance.md and docs/zh/fda/guidance.md")
     else:
         (DOCS_EN / "guidance.md").write_text(en_index, encoding="utf-8")
-        (DOCS_ZH / "guidance.md").write_text(zh_index, encoding="utf-8")
+        # ZH categorized index / stubs are owned by the FDA ZH wave scripts;
+        # do not overwrite with the legacy 3-item pointer.
         print(f"  Wrote {wrote_pages} EN pages")
         print("  Wrote docs/en/fda/guidance.md")
-        print("  Wrote docs/zh/fda/guidance.md (pointer)")
+        print("  Skipped docs/zh/fda/guidance.md (managed by ZH catalog wave)")
 
     merge_sidebar_en(entries, dry_run=args.dry_run)
 
