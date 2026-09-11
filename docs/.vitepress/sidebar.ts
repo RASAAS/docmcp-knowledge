@@ -1548,16 +1548,12 @@ export default {
       ]
     },
     {
-      "text": "骨科与植入器械 (24)",
+      "text": "骨科与植入器械 (22)",
       "collapsed": true,
       "items": [
         {
           "text": "04 骨科手术器械",
           "link": "/zh/nmpa/guidance/04-orthopedic-surgical"
-        },
-        {
-          "text": "个性化匹配骨植入物及工具医工交互质控审查指导原则",
-          "link": "/zh/nmpa/guidance/nmpa-gp-个性化匹配骨植入物及工具医工交互质控审查指导原则-f97374"
         },
         {
           "text": "人工耳蜗植入系统注册技术审查指导原则",
@@ -1578,10 +1574,6 @@ export default {
         {
           "text": "同种异体植入性医疗器械病毒灭活工艺验证指导原则（2020年修订版）",
           "link": "/zh/nmpa/guidance/cmde-2020-62-8fc8"
-        },
-        {
-          "text": "定制式个性化骨植入物等效性模型注册技术审查指导原则",
-          "link": "/zh/nmpa/guidance/nmpa-gp-定制式个性化骨植入物等效性模型注册技术审查指导原则-20b4fd"
         },
         {
           "text": "无源植入器械通用名称命名指导原则",
@@ -1748,7 +1740,7 @@ export default {
       ]
     },
     {
-      "text": "眼科器械 (9)",
+      "text": "眼科器械 (8)",
       "collapsed": true,
       "items": [
         {
@@ -1782,15 +1774,11 @@ export default {
         {
           "text": "硬性角膜接触镜说明书编写指导原则（2023年修订版）",
           "link": "/zh/nmpa/guidance/cmde-2023-9-a891"
-        },
-        {
-          "text": "角膜塑形用硬性透气接触镜说明书编写指导原则（2020年修订版）",
-          "link": "/zh/nmpa/guidance/nmpa-gp-角膜塑形用硬性透气接触镜说明书编写指导原则-2020年修订版-5d0ae8"
         }
       ]
     },
     {
-      "text": "心血管器械 (19)",
+      "text": "心血管器械 (18)",
       "collapsed": true,
       "items": [
         {
@@ -1804,10 +1792,6 @@ export default {
         {
           "text": "体外经皮起搏产品注册技术审查指导原则",
           "link": "/zh/nmpa/guidance/cmde-2020-42-56ae"
-        },
-        {
-          "text": "冠状动脉药物洗脱支架临床前研究指导原则",
-          "link": "/zh/nmpa/guidance/nmpa-gp-冠状动脉药物洗脱支架临床前研究指导原则-0709d7"
         },
         {
           "text": "子宫输卵管造影球囊导管注册审查指导原则（2025年修订版）",
@@ -2596,7 +2580,7 @@ export default {
       ]
     },
     {
-      "text": "输液与护理器械 (20)",
+      "text": "输液与护理器械 (19)",
       "collapsed": true,
       "items": [
         {
@@ -2670,10 +2654,6 @@ export default {
         {
           "text": "麻醉咽喉镜注册技术审查指导原则",
           "link": "/zh/nmpa/guidance/nmpa-gp-麻醉咽喉镜注册技术审查指导原则-f8ce67"
-        },
-        {
-          "text": "麻醉机注册技术审查指导原则",
-          "link": "/zh/nmpa/guidance/nmpa-gp-麻醉机注册技术审查指导原则-f0b0c3"
         },
         {
           "text": "麻醉面罩产品注册审查指导原则（2021年第102号）",
