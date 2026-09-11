@@ -1,19 +1,20 @@
 ---
 title: Harmonised Standards — Labelling & Symbols
-description: "EU MDR 2017/745 harmonised standards: Labelling & Symbols (1 standards in the OJ list), applicable to GSPR 23. Based on CID (EU) 2021/1182 and amendment 2026/760."
+description: "EU MDR 2017/745 harmonised standards: Labelling & Symbols (2 standards in the OJ list), applicable to GSPR 23. Based on CID (EU) 2021/1182 and amendment 2026/1231."
 regulation: EU MDR 2017/745
 category: Labelling & Symbols
 ---
 
 # Harmonised Standards — Labelling & Symbols
 
-**Official Source**: [EC Health — Harmonised Standards](https://health.ec.europa.eu/medical-devices-topics-interest/harmonised-standards_en) | Based on CID (EU) 2021/1182 (consolidated) and amendment [CID (EU) 2026/760](https://eur-lex.europa.eu/eli/dec_impl/2026/760/oj)
+**Official Source**: [EC Health — Harmonised Standards](https://health.ec.europa.eu/medical-devices-topics-interest/harmonised-standards_en) | Based on CID (EU) 2021/1182 (consolidated) and amendment [CID (EU) 2026/1231](https://eur-lex.europa.eu/eli/dec_impl/2026/1231/oj)
 
-## Harmonised Standards List (1 standards)
+## Harmonised Standards List (2 standards)
 
 | Standard | Title Summary | GSPR Reference | Status |
 |----------|--------------|---------------|--------|
-| **EN ISO 15223-1:2021** | Symbols to be used with information to be supplied by the manufacturer - Part 1: General requirements (ISO 15223-1:2021) | GSPR 23 (Labelling) | Current |
+| **EN ISO 15223-1:2021 + 2025** | Symbols to be used with information to be supplied by the manufacturer - Part 1: General requirements (ISO 15223-1:2021) | GSPR 23 (Labelling) | Current |
+| **EN ISO 17664-1:2021** | Information to be provided by the medical device manufacturer for the processing of medical devices - Part 1: Critical and semi-critical medical devices | GSPR 23 (Labelling) | Current |
 
 ## Related Pages
 
