@@ -25,2223 +25,584 @@ PDF: [https://www.fda.gov/media/119827/download](https://www.fda.gov/media/11982
 
 ## Official Full Text
 
-<!-- Page 1 -->
-FOOD & DRUG 
-Contains Nonbinding Recommendations 
-Clarification of Radiation Control 
-Regulations 
-For Manufacturers of Diagnostic 
-X-Ray Equipment 
-Guidance for Industry and 
-Food and Drug Administration Staff 
-Document issued on September 30, 2024. 
-The draft of this document was issued on December 17, 2018. 
-This guidance supersedes FDA’s guidance entitled “Clarification of Radiation 
-Control Regulations for Diagnostic X-Ray Equipment” (HHS Publication FDA 
-89-8221 issued in March 1989). 
-For questions regarding this document, contact the Office of Radiological Health at 
-RadHealth@fda.hhs.gov. 
-U.S. Department of Health and Human Services 
-U.S. 
-Food and Drug Administration 
-Center for Devices and Radiological Health 
-1
+FOOD & DRUG
 
----
+Clarification of Radiation Control Regulations For Manufacturers of Diagnostic X-Ray Equipment
 
-<!-- Page 2 -->
-Contains Nonbinding Recommendations 
-Preface 
-Public Comment 
-You may submit electronic comments and suggestions at any time for Agency consideration to 
-https://www.regulations.gov. Submit written comments to the Dockets Management Staff, Food 
-and Drug Administration, 5630 Fishers Lane, Room 1061, (HFA-305), Rockville, MD 20852­
-1740. Identify all comments with the docket number FDA-2018-D-4115. Comments may not be 
-acted upon by the Agency until the document is next revised or updated. 
-Additional Copies 
-Additional copies are available from the Internet. You may also send an email request to CDRH­
-Guidance@fda.hhs.gov to receive a copy of the guidance. Please use the document number 
-GUI01500029 and complete title of the guidance in the request. 
-2
-
----
-
-<!-- Page 3 -->
-Contains Nonbinding Recommendations 
-Table of Contents 
-I. Introduction ................................................................................................................................. 5 
-II. Background ................................................................................................................................ 6 
-III. Scope......................................................................................................................................... 6 
-IV. General Information for Manufacturers of Diagnostic X-Ray Equipment............................... 8 
-V. Specific Topics of Importance to Manufacturers of Diagnostic X-Ray Equipment................ 10 
-A. 
-Introduction into Commerce and Certification (See also questions 38, 39, 91, 95, 96, 99, 
-100, and 101) ................................................................................................................. 10 
-B. 
-Labeling (see also questions 46, 84, 102, and 103)........................................................ 15 
-(1) 
-General Labeling ........................................................................................................ 15 
-(2) 
-Label Location............................................................................................................ 19 
-(3) 
-Certification Labels .................................................................................................... 22 
-(4) 
-Identification Labels................................................................................................... 23 
-(5) 
-Warning Labels........................................................................................................... 26 
-C. 
-Date of Manufacture (See also question 30) .................................................................. 27 
-D. 
-Measurements................................................................................................................. 28 
-E. 
-Models (See also questions 34 and 35) .......................................................................... 30 
-F. 
-Assembly (See also questions 6, 7, 24, 25, and 39) ....................................................... 30 
-(1) 
-Assembly Instructions (See also questions 50, 51, and 52)........................................ 34 
-G. 
-Accidental Radiation Occurrence................................................................................... 38 
-H. 
-Records........................................................................................................................... 39 
-I. 
-Defects (See also questions 52 and 53).......................................................................... 39 
-J. 
-Fluoroscopy (See also questions 52 and 53) .................................................................. 42 
-K. 
-Specific components ...................................................................................................... 45 
-(1) 
-Beam Limiting Devices (see also questions 14, 17, 20, 23,  and 101)....................... 45 
-(2) 
-Controls (See also questions 20, 36, and 37).............................................................. 46 
-(3) 
-Filters.......................................................................................................................... 47 
-(4) 
-Image Receptors ......................................................................................................... 49 
-(5) 
-Mechanical Tomographic Systems............................................................................. 51 
-3
-
----
-
-<!-- Page 4 -->
-Contains Nonbinding Recommendations 
-(6) 
-Source-Image Receptor Distance Indicators .............................................................. 52 
-(7) 
-Timers (See also question 96) .................................................................................... 52 
-(8) 
-Tube Housing Assemblies (See also questions 14 and 35) ........................................ 53 
-4
-
----
-
-<!-- Page 5 -->
-Contains Nonbinding Recommendations 
-Clarification of Radiation Control 
-Regulations 
-For Manufacturers of Diagnostic 
-X-Ray Equipment 
-Guidance for Industry and 
-Food and Drug Administration Staff 
-This guidance represents the current thinking of the Food and Drug Administration (FDA or 
-Agency) on this topic. It does not establish any rights for any person and is not binding on 
-FDA or the public. You can use an alternative approach if it satisfies the requirements of the 
-applicable statutes and regulations. To discuss an alternative approach, contact the FDA staff 
-or Office responsible for this guidance as listed on the title page. 
-I. Introduction 
-This guidance provides clarification to industry and FDA staff of the Federal regulations that relate 
-to diagnostic x-ray equipment. For purposes of this guidance, diagnostic x-ray systems and their 
-major components are referred to as diagnostic x-ray equipment. This guidance supersedes FDA’s 
-guidance entitled “Clarification of Radiation Control Regulations for Diagnostic X-Ray 
-Equipment” (HHS Publication FDA 89-8221 issued in March 1989). For the current edition of the 
-FDA-recognized standards referenced in this document, see the FDA Recognized Consensus 
-1
-Standards Database. 
-1 Available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfStandards/search.cfm 
-5
-
----
-
-<!-- Page 6 -->
-Contains Nonbinding Recommendations 
-In general, FDA’s guidance documents do not establish legally enforceable responsibilities. 
-Instead, guidances describe the Agency’s current thinking on a topic and should be viewed only 
-as recommendations, unless specific regulatory or statutory requirements are cited. The use of 
-the word should in Agency guidances means that something is suggested or recommended, but 
-not required. 
-II. Background 
-CDRH is charged with the responsibility of enforcing regulations created under the Electronic 
-Product Radiation Control (EPRC) provisions (sections 531-542) of the Federal Food, Drug, and 
-Cosmetic Act (FD&C Act) (21 U.S.C. § 360hh through § 360ss). (Such provisions were 
-originally adopted in the Radiation Control for Health and Safety Act of 1968 (Public Law 90­
-602), but were incorporated into the FD&C Act with the passage of the Safe Medical Devices 
-Act of 1990 (Public Law 101-629).) FDA’s EPRC regulations are covered in 21 CFR Chapter I, 
-Subchapter J-Radiological Health (“Radiological Health Regulations,” as used in this document). 
-These regulations pertain to the recordkeeping, reporting, manufacturing, importing, and 
-installation of an “electronic product” as defined under 21 CFR 1000.3(j). General performance 
-standards for electronic products are covered in 21 CFR Part 1010, while specific performance 
-standards for diagnostic x-ray systems and equipment are covered in “Diagnostic x-ray systems 
-and their major components” (21 CFR 1020.30), “Radiographic equipment” (21 CFR 1020.31), 
-“Fluoroscopic equipment” (21 CFR 1020.32), and “Computed tomography (CT) equipment” (21 
-CFR 1020.33), which cover aspects of the performance of each listed type of equipment and 
-place specific requirements on the manufacturers, importers, dealers, distributors, and assemblers 
-of the covered equipment. The term “Performance Standards” as used in this document refers to 
-21 CFR Part 1010 and 21 CFR 1020.30, 1020.31, 1020.32, and 1020.33. The term “Specific 
-Performance Standards” as used in this document refers to 21 CFR 1020.30, 1020.31, 1020.32, 
-and 1020.33. 
-III. Scope 
-Pursuant to sections 201(h) (21 U.S.C. §321(h)) and 531 (21 U.S.C. §360hh) of the FD&C Act, 
-diagnostic x-ray systems are considered to be both medical devices and electronic products. As 
-such, they are subject to the provisions of the FD&C Act that apply to medical devices (e.g., 
-sections 510 and 520 of the FD&C Act (21 U.S.C. §§ 360 and 360j)) and their implementing 
-regulations, as well as the provisions of the FD&C Act that apply to electronic products, known 
-as the EPRC provisions2 and their implementing regulations. 
-2 More information on the EPRC provisions can be found at https://www.fda.gov/radiation-emitting­
-products/electronic-product-radiation-control-program/laws-and-regulations-radiation-emitting-products 
-6
-
----
-
-<!-- Page 7 -->
-Contains Nonbinding Recommendations 
-The substantive portion of this guidance document consists of two sections. The first is the 
-general section (section IV), which contains information of a general nature relating to diagnostic 
-x-ray equipment. The second is the specific section (section V), which contains information 
-specific to particular sections of the Performance Standards for diagnostic x-ray systems and 
-equipment, which can be found in 21 CFR 1020.30 through 1020.33.  
-This guidance document addresses only the requirements that apply to diagnostic x-ray 
-equipment under the EPRC provisions of the FD&C Act and the regulations implementing those 
-provisions.3 This guidance document does not address requirements that may apply to such 
-equipment as medical devices under provisions of the FD&C Act and its implementing 
-regulations. For more information on the regulation of diagnostic x-ray equipment as a medical 
-device, see FDA’s website.4 
-FDA acknowledges the importance of simplifying compliance for global manufacturers of 
-diagnostic x-ray equipment. Similar to the approach taken in the guidance entitled “Medical X-
-Ray Imaging Devices Conformance with International Electrotechnical Commission (IEC) 
-Standards,” in this guidance, FDA is seeking to harmonize many of its requirements for 
-diagnostic x-ray equipment with IEC standards, where appropriate, to help to ensure more 
-efficient and consistent regulatory review of submissions for these products. Manufacturers are 
-encouraged to review the following guidance documents and regularly check the FDA website5 
-for new developments on radiation-emitting products: 
-• Medical X-Ray Imaging Devices Conformance with IEC Standards6 
-• Policy Clarification for Certain Fluoroscopic Equipment Requirements7 
-3 In many instances, the statute and regulations governing electronic products are applicable based in part on the date 
-the component or system was manufactured (e.g., 21 CFR 1020.30(a), 21 CFR 1020.31). This guidance is intended 
-to provide clarification of the regulations that relate to diagnostic x-ray equipment. If there is a question as to 
-whether a statutory provision or regulation applies to a particular component or system, manufacturers and others 
-are encouraged to review information on FDA’s EPRC website (https://www.fda.gov/radiation-emitting­
-products/electronic-product-radiation-control-program/laws-and-regulations-radiation-emitting-products) or contact 
-RadHealth@fda.hhs.gov 
-4 Available at https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-assistance/overview­
-device-regulation 
-5 Available at https://www.fda.gov/radiation-emitting-products 
-6 Available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/medical-x-ray-imaging­
-devices-conformance-iec-standards 
-7 Available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/policy-clarification­
-certain-fluoroscopic-equipment-requirements 
-7
-
----
-
-<!-- Page 8 -->
-Contains Nonbinding Recommendations 
-IV. General Information for Manufacturers of Diagnostic 
-X-Ray Equipment 
-Section 531 of the FD&C Act (21 U.S.C. § 360hh) and its implementing regulations in 21 CFR 
-1000.3(d) define “commerce” for the purposes of EPRC as: commerce between any place in any 
-State and any place outside thereof; and commerce wholly within the District of Columbia. 
-Section 538(a)(1) of the FD&C Act (21 U.S.C. § 360oo(a)(1)) prohibits manufacturers from 
-introducing, or delivering for introduction, into commerce, or importing into the United States, 
-any electronic product which does not comply with an applicable standard prescribed pursuant to 
-section 534 of the FD&C Act (21 U.S.C. § 360kk). For more information on the introduction of 
-an electronic product “into commerce” within the meaning of section 538(a)(1) of the FD&C Act 
-(21 U.S.C. § 360oo(a)(1)), see the guidance entitled Compliance Policy Guide Sec. 390.100 
-Definition of “Commerce” - 21 CFR 1000.3(d).8 
-The Performance Standards in the Radiological Health Regulations do not apply to any 
-electronic product which is intended solely for export if: (a) such product and the outside of any 
-shipping container used in the export of such product are labeled or tagged to show that such 
-product is intended for export, and (b) such product meets all the applicable requirements of the 
-country to which such product is intended for export (21 CFR 1010.20). 
-Under the Radiological Health Regulations, the manufacturer (any person engaged in the 
-business of manufacturing, assembling, or importing electronic products (21 CFR 1000.3(n))) of 
-diagnostic x-ray equipment must comply with applicable requirements, potentially including, but 
-not limited to: 
-• 21 CFR 1002.20: Reporting of accidental radiation occurrences 
-• 21 CFR 1002.30: Records to be maintained by manufacturers 
-• 21 CFR Part 1003: Notification of defects or failure to comply 
-• 21 CFR Part 1004: Repurchase, repairs, or replacement of electronic products 
-Manufacturers of an electronic product for which an applicable standard is in effect under the 
-Radiological Health Regulations must furnish to the dealer or distributor, at the time of delivery 
-of such product, the certification that such product conforms to all applicable standards under the 
-Radiological Health Regulations (21 CFR 1010.2(a)). Such manufacturers must also set forth the 
-full name and address of the manufacturer and the place and month and year of manufacture (21 
-CFR 1010.3(a)). Such certification and identification shall generally be in the form of a label or 
-tag permanently affixed to or inscribed on such product (21 CFR 1010.2(b), 1010.3(a)). Many 
-8 Available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/compliance-policy­
-guide-sec-390100-definition-commerce-21-cfr-10003d-2 
-8
-
----
-
-<!-- Page 9 -->
-Contains Nonbinding Recommendations 
-diagnostic x-ray systems (as defined in 21 CFR 1020.30(b)) consist of components from 
-different manufacturers; other systems use components from a single manufacturer. In either 
-case, compliance with the Performance Standards is dependent upon proper installation and final 
-testing of the complete system at the user location.  
-To allow for faster review, all required information, reports, and other submitted documentation 
-to FDA should be written in the English language or accompanied by a complete English 
-translation. 
-Additional information in question and answer format regarding assembler responsibilities is 
-provided in FDA’s guidance entitled “Guidance for Industry and Food and Drug Administration 
-Staff - Assembler’s Guide to Diagnostic X-Ray Equipment.”9 
-In general, under the Performance Standards, manufacturers of diagnostic x-ray equipment must: 
-• Certify that each component meets all applicable requirements, including applicable 
-Performance Standards, when installed into a diagnostic x-ray system according to 
-instructions (21 CFR 1020.30(c)).10 
-• Permanently affix to or inscribe on the component or system (as applicable) a 
-certification label or tag and an identification label or tag (21 CFR 1010.2, 1010.3). 
-The identification label or tag must include the name and address of the manufacturer, 
-the place and month and year of manufacture (21 CFR 1010.3(a)), and, except for 
-high-voltage generators contained within tube housings and beam-limiting devices 
-that are integral parts of tube housings, the model number and serial number of the 
-product (21 CFR 1020.30(e)). 
-• Provide to assemblers and, upon request, to others at a cost not to exceed the cost of 
-publication and distribution, instructions for assembly, installation, adjustment, and 
-testing of such components adequate to assure that the products will comply with 
-applicable provisions of the Specific Performance Standards when assembled, 
-installed, adjusted, and tested as directed. Such instructions must include 
-specifications of other components compatible with that to be installed when 
-compliance of the system or subsystem depends on their compatibility. Such 
-specifications may describe pertinent physical characteristics of the components 
-and/or may list by manufacturer model number the components which are 
-compatible. (21 CFR 1020.30(g).) 
-9 Available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-industry-and­
-food-and-drug-administration-staff-assemblers-guide-diagnostic-x-ray-equipment 
-10 For more information about instructions manufacturers must provide to assemblers, see 21 CFR 1020.30(g). For 
-more information about instructions manufacturers must provide to users, see 21 CFR 1020.30(h)(1)(i). 
-9
-
----
-
-<!-- Page 10 -->
-Contains Nonbinding Recommendations 
-• Provide to purchasers and, upon request, to others at a cost not to exceed the cost of 
-publication and distribution, manuals or instruction sheets which shall include 
-adequate instructions concerning any radiological safety procedures and precautions 
-which may be necessary because of unique features of the equipment and a schedule 
-of the maintenance necessary to keep the equipment in compliance with the Specific 
-Performance Standards (21 CFR 1020.30(h)(1)). 
-V. Specific Topics of Importance to Manufacturers of 
-Diagnostic X-Ray Equipment 
-A. 
-Introduction into Commerce and Certification (See also 
-questions 38, 39, 91, 95, 96, 99, 100, and 101) 
-The certification process for diagnostic x-ray equipment is generally a component-by-component 
-process where individually certified components are assembled into a complete diagnostic x-ray 
-system. Alternatively, a manufacturer of a complete x-ray system may choose to certify the 
-system as a whole (21 CFR 1002.1 Table 1, footnote 4), or a combination of two or more 
-components if they obtain prior authorization in writing from the Director, Center for Devices 
-and Radiological Health (21 CFR 1020.30(c)). 21 CFR 1020.30(a)(1)(i) identifies the 
-components of diagnostic x-ray systems to which the provisions of 21 CFR 1020.30 apply and 
-that are therefore subject to the certification requirement of 21 CFR 1010.2 (hereinafter, 
-“certifiable” means a component or system subject to this certification requirement). These x-ray 
-components may also qualify as medical devices under section 201(h) of the FD&C Act (21 
-U.S.C. 321(h)) and therefore be subject to the provisions of the FD&C Act that apply to medical 
-devices. The component by itself may not be able to produce diagnostic x-rays (for purposes of 
-this guidance, x-rays intended for irradiation of any part of the human body for the purpose of 
-diagnosis or visualization) but is intended to be installed or assembled with other compatible 
-components into a complete diagnostic x-ray system at the user location. 
-1. 
-QUESTION: When must a diagnostic x-ray system or certifiable x-ray component be 
-certified? 
-ANSWER: Section 538(a)(1) of the FD&C Act (21 U.S.C. § 360oo(a)(1)) provides that it 
-shall be unlawful for any manufacturer to introduce, or to deliver for introduction, into 
-commerce any electronic product which does not comply with an applicable standard 
-prescribed pursuant to section 534 (21 U.S.C. § 360kk). Additionally, section 538(a)(5) (21 
-U.S.C. § 360oo(a)(5)) provides that it shall be unlawful for any person to fail to issue a 
-certification as required by section 534(h) (21 U.S.C. § 360kk(h)). Section 534(h) (21 
-U.S.C. § 360kk(h)) provides that every manufacturer of an electronic product to which is 
-applicable a standard in effect under section 534 (21 U.S.C. § 360kk) shall furnish to the 
-10
-
----
-
-<!-- Page 11 -->
-Contains Nonbinding Recommendations 
-distributor or dealer at the time of delivery of such product a certification that such product 
-conforms to all applicable standards under section 534 (21 U.S.C. § 360kk). And 21 CFR 
-1010.2(a), which was prescribed pursuant to section 534 of the FD&C Act (21 U.S.C. § 
-360kk), among other provisions, provides that every manufacturer of an electronic product 
-for which an applicable standard is in effect under the Radiological Health Regulations 
-shall furnish to the dealer or distributor, at the time of delivery of such product, the 
-certification that such product conforms to all applicable standards under the Radiological 
-Health Regulations. 
-Consequently, at the time of delivery to the distributor or dealer, any diagnostic x-ray 
-system or certifiable component must have been certified to conform to all applicable 
-Performance Standards under section 534 (21 U.S.C. § 360kk). 
-2. 
-QUESTION: Can I import certifiable diagnostic x-ray components that have not been 
-certified? 
-ANSWER: Section 538(a)(1) of the FD&C Act (21 U.S.C. § 360oo(a)(1)) states that a 
-manufacturer may not import into the United States any electronic product which does not 
-comply with an applicable standard prescribed pursuant to section 534 (21 U.S.C. § 
-360kk), including the certification requirement of section 534(h) (21 U.S.C. § 360kk(h)). 
-But, under section 538(b) (21 U.S.C. § 360oo(b)), FDA may exempt any electronic 
-product, or class thereof, from this requirement, upon such conditions as it may find 
-necessary to protect the public health or welfare, for the purpose of research, investigations, 
-studies, demonstrations, or training, or for reasons of national security. Accordingly, in 
-Form FDA 2877 - Declaration for Imported Electronic Products Subject to Radiation 
-Control Standards, FDA allows, under limited circumstances, for the importation of 
-certifiable components that are not certified. If such components are being imported only 
-for research, investigations/studies, demonstration or training, the filer would choose 
-Declaration C (“DO NOT COMPLY WITH PERFORMANCE STANDARDS; ARE 
-BEING HELD UNDER A TEMPORARY IMPORT BOND; WILL NOT BE 
-INTRODUCED INTO COMMERCE; WILL BE USED UNDER A RADIATION 
-PROTECTION PLAN; AND WILL BE DESTROYED OR EXPORTED UNDER U.S. 
-CUSTOMS SUPERVISION WHEN THE FOLLOWING MISSION IS COMPLETE: . . 
-.”), and would have to export or destroy such product when the purpose of the importation 
-has been achieved or the length of time stated has expired. If certifiable components that 
-are not certified being imported are to be brought into compliance with applicable 
-standards through reconditioning, the filer would choose Declaration D (“DO NOT 
-COMPLY WITH PERFORMANCE STANDARDS; ARE HELD AND WILL 
-REMAIN UNDER BOND; AND WILL NOT BE INTRODUCED INTO COMMERCE 
-UNTIL NOTIFICATION IS RECEIVED FROM FDA THAT PRODUCTS HAVE BEEN 
-BROUGHT INTO COMPLIANCE IN ACCORDANCE WITH AN FDA APPROVED 
-PETITION.”), and would have to export or destroy such product if not appropriately 
-11
-
----
-
-<!-- Page 12 -->
-Contains Nonbinding Recommendations 
-brought into compliance. The components will be held under bond. Additional instructions 
-regarding this process are provided on page 2 of Form FDA 2877. 
-3. 
-QUESTION: If a certifiable diagnostic x-ray component or system has been installed for use 
-on humans under an investigational device exemption (IDE), must it be certified? 
-ANSWER: Yes. If a certifiable diagnostic x-ray component or system has been installed 
-for use on humans under an IDE (see section 520(g) of the FD&C Act (21 U.S.C. 360j(g)) 
-and 21 CFR part 812), it must comply with all applicable standards prescribed pursuant to 
-section 534 of the FD&C Act (21 U.SC. § 360kk) and be certified (sections 538(a)(1) and 
-(5) of the FD&C Act (21 U.S.C. § 360oo(a)(1) and (5))). 
-4. 
-QUESTION: After a diagnostic x-ray system or component has been sold and installed, who 
-is responsible for ensuring continued equipment compliance with the Performance Standards? 
-ANSWER: The certifying manufacturer is responsible for designing systems and 
-components to guarantee compliance with the Performance Standards for the life of the 
-equipment when the equipment is properly maintained (21 CFR 1020.30(c)). A certified 
-product that is maintained according to the maintenance schedule provided by the 
-certifying manufacturer is expected to conform to the regulations and Performance 
-Standards in effect on the date of manufacture (21 CFR 1020.30(c) and 1020.30(h)). For 
-example, a product manufactured in 2004 is expected to be in compliance with the 
-regulations in effect in 2004.  
-Because diagnostic x-ray equipment usually will remain in use for many years, the 
-certifying manufacturer is required to provide a maintenance schedule that, if properly 
-implemented by the user, will keep the equipment in compliance with the Performance 
-Standards (21 CFR 1020.30(h)(1)(ii)). If the assembler installs the equipment following the 
-instructions provided by the certifying manufacturer (21 CFR 1020.30(g)), and the user 
-maintains the equipment according to the maintenance schedule provided by the certifying 
-manufacturer (21 CFR 1020.30(h)(1)(ii)), the certifying manufacturer may be held 
-responsible for manufacturer-related compliance issues until the equipment is permanently 
-removed from service. However, the certifying manufacturer will not be held responsible 
-for noncompliance of their products if that noncompliance is due solely to the improper 
-installation, assembly, or maintenance of that product by another person. (21 CFR 
-1020.30(c) and 1020.30(h)). (See also question 58). 
-5. 
-QUESTION: A firm manufactures x-ray equipment for use in veterinary offices, for 
-microscopic examination of materials in pathology laboratories, and for training radiologic 
-technologists when no living human subjects are imaged. Must this x-ray equipment be 
-certified? Is the firm required to file a Form FDA 2579 (“Report of Assembly of a Diagnostic 
-X-Ray System”)? 
-12
-
----
-
-<!-- Page 13 -->
-Contains Nonbinding Recommendations 
-ANSWER: A “diagnostic x-ray system” is defined, for the purposes of the Performance 
-Standards, as “an x-ray system designed for irradiation of any part of the human body for 
-the purpose of diagnosis or visualization.” (21 CFR 1020.30(b)). Because the electronic 
-products in this question are not intended for use on humans, they are not diagnostic x-ray 
-systems, and do not need to be certified as such. However, these systems are considered 
-electronic products under the Radiological Health Regulations, and the firm must comply 
-with all of the EPRC requirements for equipment without a specific performance standard 
-(21 CFR 1002.1). This includes any reporting requirements in Table 1 of 21 CFR 1002.1 
-and reporting Accidental Radiation Occurrences (AROs) to the FDA. 
-The firm is not required to file Form FDA 2579. Form FDA 2579 is filed to report 
-assembly of certified diagnostic equipment intended for irradiation of any part of the 
-human body for the purpose of diagnosis or visualization. The completion and filing of the 
-form is not required for any non-human application. Even though certified equipment is 
-often installed in veterinary facilities, when such equipment will be used as dedicated 
-veterinary equipment, it does not require certification to the Performance Standards. 
-NOTE: Some state and local agencies may have more stringent reporting requirements, and 
-the firm should check with relevant state and local agencies regarding those state and local 
-agency requirements. 
-6. 
-QUESTION: Are there specific requirements for diagnostic x-ray systems installed in mobile 
-vehicles? 
-ANSWER: No. There are no specific requirements in 21 CFR 1020.30 for diagnostic x-ray 
-systems installed in mobile vehicles. Diagnostic x-ray systems installed in mobile vehicles 
-may be subjected to adverse environmental conditions. Manufacturers should provide 
-specific instructions for installation, assembly, testing, and maintenance of diagnostic x-ray 
-systems that are designed for, or routinely installed in, mobile vehicles in order to take into 
-account potential adverse environmental conditions.  
-NOTE: Diagnostic x-ray systems installed in mobile vehicles are subject to the general 
-requirements for diagnostic x-ray systems provided in the Performance Standards. 
-7. 
-QUESTION: If a component or system is designed or modified so that it performs a function 
-that is characteristic of a certifiable component or system, does it need to be certified with 
-respect to that function? 
-ANSWER: Yes. Any component or system that serves substantially the same function as a 
-certified component or system (see 21 CFR 1002.1 and 21 CFR 1020.30(a)) meets the 
-definition of that component or system, and therefore must be certified (21 CFR 
-1020.30(c)). 
-13
-
----
-
-<!-- Page 14 -->
-Contains Nonbinding Recommendations 
-For example, if software included with a digital detector controls the technique factors 
-(e.g., duration of an exposure), then the software performs the same function as an x-ray 
-control and therefore is itself an x-ray control. Because an x-ray control is a certifiable 
-component (see 21 CFR 1020.30(a)(1)(i)(A)), the software is subject to the requirements of 
-the Performance Standards relevant to x-ray controls. These requirements include a 
-statement of compatibility with other components in the system (21 CFR 1020.30(g)). 
-As another example, if a digital detector is marketed with a front panel (e.g., dust cover) 
-that is not necessary for the digital detector’s operation, then the front panel performs the 
-same function as a cassette holder with front panel and therefore is itself considered a 
-cassette holder with front panel under the EPRC regulations. Because a cassette holder with 
-front panel is a certifiable component (see 21 CFR 1020.30(a)(1)(i)(A)), the front panel is 
-subject to the requirements of the Performance Standards relevant to cassette holders with 
-front panels. These requirements include maximum aluminum equivalence requirements 
-under 21 CFR 1020.30(n) and the front panel must be certified as a cassette holder with 
-front panel (21 CFR 1020.30(c)). 
-These are two examples and not an exhaustive discussion. For questions related to other 
-design features, please contact the FDA program at RadHealth@fda.hhs.gov. 
-Note that adding functionality to a product may affect labeling applied to a component or 
-system. See also section V.B.(i), “General Labeling,” for more information on labeling 
-requirements for various components and systems. 
-8. 
-QUESTION: Must a manufacturer of certifiable components provide information regarding 
-the compatibility of their components with other components? 
-ANSWER: Manufacturers of certified components must provide to assemblers, and others 
-who request it, at a cost not to exceed the cost of publication and distribution, instructions 
-for assembly, installation, adjustment, and testing (21 CFR 1020.30(g)). When compliance 
-of the component(s) or system depends on component compatibility, the information 
-provided must include specifications of compatible components (21 CFR 1020.30(g)). 
-Such specifications may describe pertinent physical characteristics of the components 
-and/or may list by manufacturer model number the components which are compatible. 
-While it is permissible to list manufacturer model numbers to specify compatible 
-components, that is not the only acceptable means for identifying compatible components. 
-A manufacturer may also describe pertinent physical characteristics of the components to 
-identify those which are compatible. While manufacturers are generally not required to 
-disclose trade secrets or confidential information, all instructions for the assembly, 
-installation, adjustment, and testing of certified components must be adequate to assure that 
-the products will comply with applicable provisions of the Specific Performance Standards 
-when assembled, installed, adjusted, and tested as directed. See also section V.F., 
-“Assembly.” 
-14
-
----
-
-<!-- Page 15 -->
-Contains Nonbinding Recommendations 
-9. 
-QUESTION: Do the Specific Performance Standards apply to x-ray based image-guidance 
-used with radiation therapy devices? 
-ANSWER: If the x-ray based image-guidance used with radiation therapy devices is only 
-intended to assist with radiation therapy administration and not for diagnostic imaging or 
-visualization, then 21 CFR 1020.30 is not applicable. Other EPRC requirements are still 
-applicable to image guided radiation therapy systems. 
-FDA recommends that manufacturers of x-ray based image-guidance used with radiation 
-therapy devices evaluate safety and performance using applicable FDA-recognized 
-standards, which include IEC 60601-2-68: Medical electrical equipment - Part 2-68: 
-Particular requirements for the basic safety and essential performance of X-ray-based 
-image-guided radiotherapy equipment for use with electron accelerators, light ion beam 
-therapy equipment and radionuclide beam therapy equipment. 
-10. QUESTION: Are cone-beam computed tomography x-ray systems with applications such as 
-dental, ENT, or extremity use required to conform to the Computed Tomography (CT) 
-performance standard (21 CFR 1020.33) even though certain sections do not seem appropriate 
-for cone-beam technology? 
-ANSWER: Cone-beam Computed Tomography (CBCT) devices are considered CT 
-systems because they depict the x-ray attenuation properties of a section through the body 
-by the acquisition and computer processing of x-ray transmission data. They are therefore 
-subject to the CT performance standard under 21 CFR 1020.33, including but not limited to 
-the quality assurance requirements provided in 21 CFR 1020.33(d). If one or more 
-provisions of the CT performance standard under 21 CFR 1020.33 do not appear 
-appropriate for a CBCT device, the manufacturer should apply for a variance from such 
-provision(s) as described in 21 CFR 1010.4. For dental CBCT systems which are primarily 
-intended to produce three-dimensional CT images, 21 CFR 1020.33 applies. For 
-fluoroscopy systems that include CBCT functions where the device is primarily intended 
-for fluoroscopic imaging or for recording images from the fluoroscopic image receptor, 21 
-CFR 1020.33 does not apply (in this circumstance 21 CFR 1020.32 applies). For CBCT 
-intended only to assist with radiation therapy administration, see question 9. 
-B. 
-Labeling (see also questions 45, 83, 101, and 102) 
-(1) 
-General Labeling 
-11. QUESTION: Must certification and identification labels be written in the English language? 
-ANSWER: The certification label or tag and the identification label or tag required under 
-21 CFR 1010.2 and 1010.3, respectively, must be written in the English language (21 CFR 
-15
-
----
-
-<!-- Page 16 -->
-Contains Nonbinding Recommendations 
-1010.2(b) and 1010.3(a)), with the exception that the identification label or tag may include 
-foreign equivalents to abbreviations such as “Co.,” and “Inc.” (21 CFR 1010.3(a)(1)). 
-12. QUESTION: A firm sells diagnostic x-ray systems, all of which consist of the same 
-combination of components. May the firm place the identification and certification 
-information for the system, with specific component information (e.g., model number, serial 
-number, and date of manufacture), in the user’s manual rather than on the individual 
-components? 
-ANSWER: No. The required labeling must be placed on each component subject to 
-certification (21 CFR 1010.2, 1010.3, and 1020.30(c)). 
-13. QUESTION: May a combination of certifiable components be identified with a single 
-identification label and a single certification label? 
-ANSWER: A combination of two or more certifiable components may bear a single 
-certification label if prior authorization is obtained in writing from the Director, Center for 
-Devices and Radiological Health, to single label such a specific combination of 
-components (21 CFR 1020.30(c)). In the case of products for which it is not feasible to 
-affix identification labeling to each component, upon application by the manufacturer, the 
-Director, Center for Devices and Radiological Health may approve an alternate means by 
-which such identification may be provided through single labeling of that combination of 
-components (21 CFR 1010.3(b)). In the absence of prior authorization under 21 CFR 
-1010.3(b) or 1020.30(c), FDA does not intend to object to the use of a single identification 
-label and/or a single certification label under the following circumstances: 
-• High-voltage generators contained inseparably within tube housing assemblies. 
-• Beam-limiting devices that are integral, inseparable parts of tube housing assemblies. 
-• High-voltage generators and x-ray controls when inseparable, combined in a single 
-housing, and marketed under a single model designation. 
-• Combination of x-ray control panels and air kerma displays when inseparable, combined 
-in a single housing, and marketed under a single model designation. 
-14. QUESTION: How should a manufacturer apply for FDA authorization to single label 
-combinations of certifiable components not identified in question 13? 
-ANSWER: A written request must be submitted to FDA as required by 21 CFR 1020.30(c). 
-The written request should specify the components to be single labeled and include the 
-reasons why the manufacturer believes the labeling request should be authorized. 
-16
-
----
-
-<!-- Page 17 -->
-Contains Nonbinding Recommendations 
-Manufacturers interested in requesting permission to single label a combination of 
-components should send their request to the attention of the Director, Center for Devices 
-and Radiological Health, Food and Drug Administration, 10903 New Hampshire Avenue, 
-Bldg. 66, Silver Spring, MD 20993-0002. Requests may also be sent via email to the 
-following inbox: RadHealthCustomerService@fda.hhs.gov. 
-15. QUESTION: How does FDA evaluate a request submitted pursuant to 21 CFR 1020.30(c) to 
-certify single label combinations of certifiable components? 
-ANSWER: The manufacturer must demonstrate that the combination of certifiable 
-components is compliant with the applicable Performance Standards under a testing 
-program (see 21 CFR 1010.2(c)) for the single label to denote product certification. Each 
-request will be evaluated on a case-by-case basis, but the certifiable components should be 
-contained in a single housing and marketed as a single certified entity, except for repair 
-parts. For some products, for example, portable x-ray equipment (x-ray equipment 
-designed to be hand-carried, see 21 CFR 1020.30(b)), this single label combination may 
-encompass the entire system. 
-16. QUESTION: Items such as phototimers, automatic exposure controls, and positive beam 
-limiting systems (including collimator, sensing tray, and electrical chassis), are made up of 
-subassemblies located in various parts of the system, including in or on other certifiable 
-components. Must each of these subassemblies be labeled with manufacturer identification, 
-model, and certification information as specified in 21 CFR 1010.3 and 1020.30(e), or may 
-one model number be assigned to the multiple parts? 
-ANSWER: Assignment of more than one model number and nameplate to the scattered 
-parts of certifiable components is permissible. FDA does not intend to object if only one 
-model number is assigned to multiple parts if they belong to the same system as a whole 
-and each part contains appropriate labeling. In the example of a distributed set of 
-subassemblies (including client-server software architectures), FDA does not intend to 
-object if only the essential part(s) of a certifiable component are labeled as specified under 
-21 CFR 1010.3 and 1020.30(e). These required labels should be placed on the portion of 
-the subassembly which would appear to the user to be performing the function of the 
-certified component. 
-17. QUESTION: Laptop or desktop computers that use software to control diagnostic x-ray 
-systems have become widespread. Are both the original and replacement computers required 
-to be labeled with identification, certification, and warning labels? 
-ANSWER: Yes. FDA considers a laptop computer or desktop computer with an off-the­
-shelf monitor that uses software to control diagnostic x-ray systems to serve the same 
-function as an x-ray control. Therefore, they are subject to the same labeling requirements 
-as any other diagnostic x-ray control as described in 21 CFR 1020.30(b). 
-17
-
----
-
-<!-- Page 18 -->
-Contains Nonbinding Recommendations 
-The manufacturer of such diagnostic x-ray system control software may state that a laptop 
-computer or desktop computer with an off-the-shelf monitor meets their compatibility 
-criteria. However, once a user installs a laptop computer or desktop computer with an off-
-the-shelf monitor which meets the x-ray system control software manufacturer’s statement 
-of compatibility into a completed diagnostic x-ray system, the diagnostic x-ray system 
-control software manufacturer continues to be responsible for compliance with the 
-applicable requirements and management of the risks of the x-ray control aspects of the 
-diagnostic x-ray system. 
-The replacement of a diagnostic x-ray system control’s monitor by a user may affect the 
-component’s compliance with applicable labeling requirements. The certification and 
-identification labels (or the display of their contents) must be readily accessible by the user 
-(see 21 CFR 1010.2 and 1010.3) and the required warning statement must be displayed on 
-each laptop computer or desktop computer with an off-the-shelf monitor used as a control 
-panel (21 CFR 1020.30(j)). 
-The labeling for a laptop computer or desktop computer with an off-the-shelf monitor used 
-as x-ray controls may have been approached in several ways. Below are two examples of 
-labeling methods: 
-• Physical labels consistent with 21 CFR 1010.2 (Certification), 1010.3 (Identification), 
-and 1020.30(j) (Warning label), accompanied by adequate instructions for placement and 
-verification of the labels. 
-• Electronically: FDA does not intend to object if (1) each time the system is started, the 
-screen displays the identification label and the certification label, requiring user action 
-before removing these labels and resuming the start-up sequence; and (2) during use, the 
-required warning label is continuously displayed on the screen. If the screen is used as 
-both an acquisition and review work station, the warning label need not be displayed 
-when in the review mode, but the warning label should be continuously displayed when 
-in the acquisition mode. 
-18. QUESTION: Device labeling regulations under 21 CFR Parts 801 and 809 generally permit 
-the use of symbols in device labeling without adjacent explanatory text if certain requirements 
-are met.11 Is the use of a symbol found in standards such as ISO 7000 permitted in the 
-mandatory labeling for certified x-ray components? 
-11 For more information regarding the use of symbols in labeling, please see 
-https://www.federalregister.gov/documents/2016/06/15/2016-13989/use-of-symbols-in-labeling 
-18
-
----
-
-<!-- Page 19 -->
-Contains Nonbinding Recommendations 
-ANSWER: FDA does not intend to object to the use of a symbol in certain labeling 
-required by 21 CFR 1020.30 where the use of such a symbol is consistent with the device 
-labeling regulations under 21 CFR Parts 801 and 809. 
-For example, certain FDA-recognized standards such as ISO 7000: Graphical symbols for 
-use on equipment and IEC 60417: Graphical symbols for use on equipment include 
-symbols to which FDA does not intend to object when used on labels required by the 
-Performance Standards. Some examples of such symbols from ISO 7000:2019 include 
-catalogue number, serial number, and date of manufacture.  However, this policy does not 
-apply to other required labels, including the certification label (21 CFR 1010.2) and 
-warning label (21 CFR 1020.30(j)), that require complete phrases written in English and 
-which cannot be adequately represented by symbols. 
-(2) 
-Label Location 
-19. QUESTION: Items such as phototimers, automatic exposure controls, and positive beam 
-limiting systems (including collimator, sensing tray, and electrical chassis), are made up of 
-subassemblies located in various parts of the system including in or on other certifiable 
-components. May a manufacturer label only the essential part(s) of a major component? If 
-yes, where should such labels be located? 
-ANSWER: As noted in the answer to question 16, in the example of a distributed set of 
-subassemblies (including client-server software architectures), FDA does not intend to 
-object if only the essential part(s) of a certifiable component are labeled as specified under 
-21 CFR 1010.3 and 1020.30(e). These required labels should be placed on the portion of 
-the subassembly which would appear to the user to be performing the function of the 
-certified component. 
-Table 1 lists several major components and suggested label locations for each major 
-component. If you have received written authorization from FDA (21 CFR 1020.30(c)) to 
-certify a combination of two or more major components (i.e., one catalog item that is not 
-intended to be subdivided for use with other components), only one label is required. 
-NOTE: All tube housing assemblies must be labeled with the name of the manufacturer, 
-model number, and serial number of the x-ray tube which the tube housing assembly 
-incorporates, since they are subject to frequent replacement (21 CFR 1020.30(e)(1)). 
-Table 1. Suggested Label Locations for Major Components 
-Major Component 
-Label Location 
-Tube Housing Assembly 
-On housing, including under-table tubes 
-19
-
----
-
-<!-- Page 20 -->
-Contains Nonbinding Recommendations 
-X-ray Control 
-Warning Label on each x-ray control panel (21 
-CFR 1020.30(j)) and Identification and 
-Certification Labels on the control panel or the 
-control electronics cabinet 
-X-ray HV Generator 
-On generator housing 
-Fluoroscopic Imaging Assembly 
-On certifiable image receptors 
-Table 
-On each table 
-Cradle 
-On each cradle 
-Film Changer 
-On changer (if separate control unit is 
-provided, this must also be labeled) 
-Cassette Holder 
-On each cassette holder 
-Beam Limiting Device 
-On outside of each collimator 
-Air Kerma Display 
-On the air kerma display device as an 
-electronic display (if multiple air kerma 
-displays are present, only one need be labeled) 
-20. QUESTION: What is FDA’s policy concerning the location of the certification and 
-identification labels and the warning label for diagnostic x-ray systems? 
-ANSWER: Certification and identification labels must be legible and readily accessible to 
-view when the product is fully assembled for use (21 CFR 1010.2(b) and 1010.3(a)). For 
-the purposes of this guidance, “legible and readily accessible to view” for diagnostic x-ray 
-systems means a location where a person can read the label without having to relocate the 
-x-ray system or use a tool to remove or open panels, doors, etc. The certification and 
-identification labels should be accessible to view once installed and not on a side that is 
-normally placed against a wall. For some components, such as a tube housing assembly 
-mounted under a table, the certification and identification labels might not be visible from 
-outside the completed system. In such a case, the certification and identification labels 
-should be mounted on the component, although the component itself is not visible. If this 
-location is behind a door, panel, under a table, etc., or otherwise in a location that is not 
-readily accessible without the need to unbolt, unlock, or relocate the diagnostic x-ray 
-system, wording should appear on the door, panel, etc., indicating the location of the 
-20
-
----
-
-<!-- Page 21 -->
-Contains Nonbinding Recommendations 
-certification and identification labels (see 21 CFR 1010.2 and 1010.3 regarding general 
-label requirements). 
-The warning label serves to alert users to the hazards associated with the use of the 
-diagnostic x-ray equipment and should be conspicuous to the user. It should be situated so 
-that a user of an x-ray machine can see the warning when the user is preparing to initiate an 
-exposure (21 CFR 1020.30(j)). There should be a warning label visible at each location 
-where technique factors may be set and where x-ray exposure may be initiated. 
-21. QUESTION: For aesthetic reasons, some manufacturers place certified components behind 
-cosmetic covers and then place duplicate certification and identification labels on the covers. 
-Is this acceptable? 
-ANSWER: Yes, but only when the components themselves are also appropriately labeled. 
-This duplicate label placement satisfies the “readily accessible to view” requirements of the 
-Performance Standards (21 CFR 1010.2(b) and 1010.3(a)) so long as the manufacturer 
-provides adequate assembly instructions to verify that the component label and the 
-duplicate label on the outside casing are identical. The placement of the duplicate label 
-should be on the covering over the certified component or immediately adjacent to the 
-component. The assembly instructions provided with replacement components should 
-address replacement labeling when component replacement is necessary. 
-22. QUESTION: A firm manufactures fluoroscopic systems used for angiography and 
-interventional procedures. The diagnostic source assembly is covered by a plastic shield. The 
-shield makes cleaning of the diagnostic source assembly easier. The certification and 
-identification labels on the tube housing assembly and beam limiting device are covered by 
-the shield. There is a panel on the shield that can be removed with a screwdriver that would 
-allow access to the certification and identification labels. Is this acceptable? 
-ANSWER: No. Because the panel requires a screwdriver to open, the certification and 
-identification labels are not considered accessible to view. Since the certification and 
-identification labels are not accessible to view under normal use (see 21 CFR 1010.2(b), 
-1010.3(a), and 1020.30(e)), this is not acceptable under the regulations. Acceptable 
-solutions may include designing the panel to be removable without the use of tools, placing 
-the labels behind a clear shield so that they remain accessible to view, or designing labels 
-such that they remain legible despite cleaning practices and placing them without the 
-protective shield. 
-23. QUESTION: A firm has been asked to install a diagnostic x-ray system in a facility where a 
-wall will prevent anyone from seeing the certification and identification labels on the x-ray 
-table. Is this acceptable? 
-21
-
----
-
-<!-- Page 22 -->
-Contains Nonbinding Recommendations 
-ANSWER: No. Even if the x-ray table was otherwise properly labeled, the proposed 
-placement would render the assembly noncompliant (see 21 CFR 1010.2(b), 1010.3(a), 
-and1020.30(e)) because the labels will not be accessible to view. 
-24. QUESTION: 21 CFR 1020.30(e) requires that the model number and serial number be 
-accessible to view. Since the installation of equipment is frequently performed by personnel 
-other than the manufacturer, how can a manufacturer assure visibility after installation? 
-ANSWER: A manufacturer must provide instructions to the assembler so that the products 
-will comply with applicable provisions of the Specific Performance Standards, including 
-the requirement that the model number and serial number be accessible to view, when 
-assembled, installed, adjusted, and tested as directed (21 CFR 1020.30(g)).  
-(3) 
-Certification Labels 
-21 CFR 1010.2(a) requires every manufacturer of an electronic product for which an applicable 
-standard is in effect to furnish to the dealer or distributor, at the time of delivery, the certification 
-that such product conforms to all applicable Performance Standards, unless FDA has approved 
-an alternate means to provide certification (21 CFR 1010.2(d)). Such certification must be in the 
-form of a label or tag permanently affixed to or inscribed on such product so as to be legible and 
-readily accessible to view when the product is fully assembled for use (21 CFR 1010.2(b)). Each 
-certifiable component of a diagnostic x-ray system must have its own certification label unless 
-the system falls under the provisions for single labeling (21 CFR 1020.30(e)). Single labeling 
-questions and answers are provided in section V.B.(i), “General Labeling.” 
-25. QUESTION: Is there specific wording required to meet the certification labeling requirement 
-in 21 CFR 1010.2(a)? 
-ANSWER: No. The regulation concerning certification (21 CFR 1010.2(a)) does not 
-specify the wording of the certification label; it states that “Every manufacturer of an 
-electronic product for which an applicable standard is in effect under this subchapter shall 
-furnish to the dealer or distributor, at the time of delivery of such product, the certification 
-that such product conforms to all applicable standards under this subchapter.” 
-Two examples of acceptable wording are: 
-• “Complies with DHHS radiation performance standards, 21 CFR Chapter I, Subchapter 
-J.” 
-• “Product complies with applicable DHHS standards under Subchapter C - Electronic 
-Product Radiation Control of Chapter V of the Federal Food, Drug and Cosmetic Act.” 
-22
-
----
-
-<!-- Page 23 -->
-Contains Nonbinding Recommendations 
-26. QUESTION: May a manufacturer use the words “at the time of manufacture” in the 
-certification label to indicate that the certification statement applies to the regulations in effect 
-at the time of manufacture? 
-ANSWER: Yes, if the phrase is qualified appropriately. Some manufacturers use the term 
-“at the time of manufacture” in their certification statement because the regulations are 
-amended from time to time. However, the addition of this phrase can cause confusion as to 
-what information is being conveyed. 
-If the phrase “at the time of manufacture” is placed on the certification label, then the 
-words “in effect” should be included with the phrase to clearly indicate that the 
-certification statement means that the component complies with the regulations in effect at 
-the time of manufacture. Two examples of acceptable wording are: 
-• “Complies with applicable DHHS radiation performance standards, 21 CFR Chapter I, 
-Subchapter J, in effect at time of manufacture.” 
-• “Product complies with applicable DHHS standards in effect at time of manufacture 
-under Subchapter C - Electronic Product Radiation Control of Chapter V of the Federal 
-Food, Drug and Cosmetic Act.” 
-27. QUESTION: Since shipping containers of diagnostic x-ray components being imported into 
-the U.S. are typically not opened at the time of customs inspection, is any certification 
-labeling required on the outside of the shipping container? 
-ANSWER: No. However, the importer must file a declaration (Form FDA 2877) upon 
-entry of the product into the U.S. (19 CFR 12.91(b)). 
-(4) 
-Identification Labels 
-28. QUESTION: How should the manufacturer be identified on diagnostic x-ray component 
-identification labels? 
-ANSWER: 21 CFR 1010.3(a)(1) requires that the full name and address (in English) of the 
-certifying manufacturer be stated on each certifiable component, in the form of a label or 
-tag permanently affixed to or inscribed on the product. Under the EPRC provisions of the 
-FD&C Act, the certifying firm (whether manufacturer, importer, or assembler) is the 
-responsible manufacturer for compliance of the certified component. 
-If the product is sold under a name other than that of the certifying manufacturer, the full 
-name and address of the individual or company selling the product may be placed on the 
-label as long as prior to introduction of the product into commerce, the Director, Center for 
-Devices and Radiological Health, has been provided sufficient information to identify the 
-23
-
----
-
-<!-- Page 24 -->
-Contains Nonbinding Recommendations 
-manufacturer of the product (21 CFR 1010.3(a)(1)). This label must also contain the place 
-and month and year of manufacture of the component (21 CFR 1010.3(a)(2)). Where a 
-medical device is not manufactured by the person whose name appears on the label 
-required under 21 CFR Part 801, the name shall be qualified by a phrase that reveals the 
-connection such person has with such device, such as, “Manufactured for ___”, or 
-“Distributed by ___” or other wording that expresses the facts (21 CFR 801.1(c)). 
-29. QUESTION: Under 21 CFR 1010.3(a)(2)(ii), the format for the date of manufacture is 
-“Manufactured: (Insert Month and Year of Manufacture).” May a manufacturer use other 
-formats instead, such as 12/2/2009, 2-Dec-09, or 2009-12-02? May a manufacturer use “Date 
-of Manufacture:” instead of “Manufactured:”? 
-ANSWER: 21 CFR 1010.3(a)(2)(ii) requires that the month and year of manufacture be 
-provided clearly and legibly, without abbreviation, and with the year shown as a four-digit 
-number as follows: “Manufactured: (Insert Month and Year of Manufacture.)” (21 CFR 
-1010.3(a)(2)(ii)).  
-Federal regulations provide that, alternatively, a manufacturer may utilize a manufacturing 
-symbol and date format that conforms with an applicable FDA recognized consensus 
-standard. (See also question 18). 
-30. QUESTION: What is the “place of manufacture” as used in 21 CFR 1010.3? 
-ANSWER: The place of manufacture is the location where the certifiable component or 
-system is produced. This should include, at a minimum, the country and city. A code may 
-be used to identify the place of manufacture if the Director, Center for Devices and 
-Radiological Health, has previously been provided the key to such code (see 21 CFR 
-1010.3(a)(2)(i)). 
-31. QUESTION: A firm manufactures certifiable x-ray components and systems at several 
-locations. The firm would like to include its corporate office name and address on the 
-identification label. Is the firm required to also identify the place of manufacture? May it use a 
-code on the label to identify the place of manufacture? 
-ANSWER: Yes, to both questions. The firm is required to identify the place of manufacture 
-(21 CFR 1010.3(a)(2)). A code may be used to identify the place of manufacture if the 
-Director, Center for Devices and Radiological Health, has previously been provided the 
-key to such code (21 CFR 1010.3(a)(2)(i)). (See also questions 28 and 30). 
-32. QUESTION: 21 CFR 1010.3(a)(1) and (2) require that manufacturers include their full name, 
-address, and place of manufacture on their electronic product identification tags or labels. 
-May a manufacturer place its Uniform Resource Locator (URL) on its electronic product 
-labels instead? 
-24
-
----
-
-<!-- Page 25 -->
-Contains Nonbinding Recommendations 
-ANSWER: No. The Performance Standards do not permit manufacturers to place the URL 
-information on a label instead of the required information. The product label must include 
-the information required in the regulations (see 21 CFR 1010.3(a)(1) and (2)). 
+This guidance represents the current thinking of the Food and Drug Administration (FDA or Agency) on this topic. It does not establish any rights for any person and is not binding on
+FDA or the public. You can use an alternative approach if it satisfies the requirements of the applicable statutes and regulations. To discuss an alternative approach, contact the FDA staff or Office responsible for this guidance as listed on the title page.
+## I. Introduction
+This guidance provides clarification to industry and FDA staff of the Federal regulations that relate to diagnostic x-ray equipment. For purposes of this guidance, diagnostic x-ray systems and their major components are referred to as diagnostic x-ray equipment. This guidance supersedes FDA’s guidance entitled “Clarification of Radiation Control Regulations for Diagnostic X-Ray Equipment” (HHS Publication FDA 89-8221 issued in March 1989). For the current edition of the FDA-recognized standards referenced in this document, see the FDA Recognized Consensus Standards Database.
+In general, FDA’s guidance documents do not establish legally enforceable responsibilities.
+Instead, guidances describe the Agency’s current thinking on a topic and should be viewed only as recommendations, unless specific regulatory or statutory requirements are cited. The use of the word should in Agency guidances means that something is suggested or recommended, but not required.
+## II. Background
+CDRH is charged with the responsibility of enforcing regulations created under the Electronic
+Product Radiation Control (EPRC) provisions (sections 531-542) of the Federal Food, Drug, and
+Cosmetic Act (FD&C Act) (21 U.S.C. § 360hh through § 360ss). (Such provisions were originally adopted in the Radiation Control for Health and Safety Act of 1968 (Public Law 90­ 602), but were incorporated into the FD&C Act with the passage of the Safe Medical Devices
+Act of 1990 (Public Law 101-629).) FDA’s EPRC regulations are covered in 21 CFR Chapter I,
+Subchapter J-Radiological Health (“Radiological Health Regulations,” as used in this document).
+These regulations pertain to the recordkeeping, reporting, manufacturing, importing, and installation of an “electronic product” as defined under 21 CFR 1000.3(j). General performance standards for electronic products are covered in 21 CFR Part 1010, while specific performance standards for diagnostic x-ray systems and equipment are covered in “Diagnostic x-ray systems and their major components” (21 CFR 1020.30), “Radiographic equipment” (21 CFR 1020.31), “Fluoroscopic equipment” (21 CFR 1020.32), and “Computed tomography (CT) equipment” (21 CFR 1020.33), which cover aspects of the performance of each listed type of equipment and place specific requirements on the manufacturers, importers, dealers, distributors, and assemblers of the covered equipment. The term “Performance Standards” as used in this document refers to 21 CFR Part 1010 and 21 CFR 1020.30, 1020.31, 1020.32, and 1020.33. The term “Specific
+Performance Standards” as used in this document refers to 21 CFR 1020.30, 1020.31, 1020.32, and 1020.33.
+## III. Scope
+Pursuant to sections 201(h) (21 U.S.C. §321(h)) and 531 (21 U.S.C. §360hh) of the FD&C Act, diagnostic x-ray systems are considered to be both medical devices and electronic products. As such, they are subject to the provisions of the FD&C Act that apply to medical devices (e.g., sections 510 and 520 of the FD&C Act (21 U.S.C. §§ 360 and 360j)) and their implementing regulations, as well as the provisions of the FD&C Act that apply to electronic products, known as the EPRC provisions2 and their implementing regulations.
+2 More information on the EPRC provisions can be found at https://www.fda.gov/radiation-emittingproducts/electronic-product-radiation-control-program/laws-and-regulations-radiation-emitting-products
+The substantive portion of this guidance document consists of two sections. The first is the general section (section IV), which contains information of a general nature relating to diagnostic x-ray equipment. The second is the specific section (section V), which contains information specific to particular sections of the Performance Standards for diagnostic x-ray systems and equipment, which can be found in 21 CFR 1020.30 through 1020.33.
+This guidance document addresses only the requirements that apply to diagnostic x-ray equipment under the EPRC provisions of the FD&C Act and the regulations implementing those provisions.3 This guidance document does not address requirements that may apply to such equipment as medical devices under provisions of the FD&C Act and its implementing regulations. For more information on the regulation of diagnostic x-ray equipment as a medical device, see FDA’s website.4
+FDA acknowledges the importance of simplifying compliance for global manufacturers of diagnostic x-ray equipment. Similar to the approach taken in the guidance entitled “Medical X-
+Ray Imaging Devices Conformance with International Electrotechnical Commission (IEC) Standards,” in this guidance, FDA is seeking to harmonize many of its requirements for diagnostic x-ray equipment with IEC standards, where appropriate, to help to ensure more efficient and consistent regulatory review of submissions for these products. Manufacturers are encouraged to review the following guidance documents and regularly check the FDA website5 for new developments on radiation-emitting products: • Medical X-Ray Imaging Devices Conformance with IEC Standards6
+• Policy Clarification for Certain Fluoroscopic Equipment Requirements7
+3 In many instances, the statute and regulations governing electronic products are applicable based in part on the date the component or system was manufactured (e.g., 21 CFR 1020.30(a), 21 CFR 1020.31). This guidance is intended to provide clarification of the regulations that relate to diagnostic x-ray equipment. If there is a question as to whether a statutory provision or regulation applies to a particular component or system, manufacturers and others are encouraged to review information on FDA’s EPRC website (https://www.fda.gov/radiation-emittingproducts/electronic-product-radiation-control-program/laws-and-regulations-radiation-emitting-products) or contact RadHealth@fda.hhs.gov
+## IV. General Information for Manufacturers of Diagnostic X-Ray Equipment
+Section 531 of the FD&C Act (21 U.S.C. § 360hh) and its implementing regulations in 21 CFR 1000.3(d) define “commerce” for the purposes of EPRC as: commerce between any place in any
+State and any place outside thereof; and commerce wholly within the District of Columbia.
+Section 538(a)(1) of the FD&C Act (21 U.S.C. § 360oo(a)(1)) prohibits manufacturers from introducing, or delivering for introduction, into commerce, or importing into the United States, any electronic product which does not comply with an applicable standard prescribed pursuant to section 534 of the FD&C Act (21 U.S.C. § 360kk). For more information on the introduction of an electronic product “into commerce” within the meaning of section 538(a)(1) of the FD&C Act (21 U.S.C. § 360oo(a)(1)), see the guidance entitled Compliance Policy Guide Sec. 390.100
+Definition of “Commerce” - 21 CFR 1000.3(d).8
+The Performance Standards in the Radiological Health Regulations do not apply to any electronic product which is intended solely for export if: (a) such product and the outside of any shipping container used in the export of such product are labeled or tagged to show that such product is intended for export, and (b) such product meets all the applicable requirements of the country to which such product is intended for export (21 CFR 1010.20).
+Under the Radiological Health Regulations, the manufacturer (any person engaged in the business of manufacturing, assembling, or importing electronic products (21 CFR 1000.3(n))) of diagnostic x-ray equipment must comply with applicable requirements, potentially including, but not limited to: • 21 CFR 1002.20: Reporting of accidental radiation occurrences • 21 CFR 1002.30: Records to be maintained by manufacturers • 21 CFR Part 1003: Notification of defects or failure to comply • 21 CFR Part 1004: Repurchase, repairs, or replacement of electronic products
+Manufacturers of an electronic product for which an applicable standard is in effect under the
+Radiological Health Regulations must furnish to the dealer or distributor, at the time of delivery of such product, the certification that such product conforms to all applicable standards under the
+Radiological Health Regulations (21 CFR 1010.2(a)). Such manufacturers must also set forth the full name and address of the manufacturer and the place and month and year of manufacture (21 CFR 1010.3(a)). Such certification and identification shall generally be in the form of a label or tag permanently affixed to or inscribed on such product (21 CFR 1010.2(b), 1010.3(a)). Many
+To allow for faster review, all required information, reports, and other submitted documentation to FDA should be written in the English language or accompanied by a complete English translation.
+Additional information in question and answer format regarding assembler responsibilities is provided in FDA’s guidance entitled “Guidance for Industry and Food and Drug Administration
+Staff - Assembler’s Guide to Diagnostic X-Ray Equipment.”9
+In general, under the Performance Standards, manufacturers of diagnostic x-ray equipment must: • Certify that each component meets all applicable requirements, including applicable
+Performance Standards, when installed into a diagnostic x-ray system according to instructions (21 CFR 1020.30(c)).10
+• Permanently affix to or inscribe on the component or system (as applicable) a certification label or tag and an identification label or tag (21 CFR 1010.2, 1010.3).
+The identification label or tag must include the name and address of the manufacturer, the place and month and year of manufacture (21 CFR 1010.3(a)), and, except for high-voltage generators contained within tube housings and beam-limiting devices that are integral parts of tube housings, the model number and serial number of the product (21 CFR 1020.30(e)).
+• Provide to assemblers and, upon request, to others at a cost not to exceed the cost of publication and distribution, instructions for assembly, installation, adjustment, and testing of such components adequate to assure that the products will comply with applicable provisions of the Specific Performance Standards when assembled, installed, adjusted, and tested as directed. Such instructions must include specifications of other components compatible with that to be installed when compliance of the system or subsystem depends on their compatibility. Such specifications may describe pertinent physical characteristics of the components and/or may list by manufacturer model number the components which are compatible. (21 CFR 1020.30(g).) Performance Standards (21 CFR 1020.30(h)(1)).
+### V. Specific Topics of Importance to Manufacturers of Diagnostic X-Ray Equipment
+### A. Introduction into Commerce and Certification (See also questions 38, 39, 91, 95, 96, 99, 100, and 101)
+The certification process for diagnostic x-ray equipment is generally a component-by-component process where individually certified components are assembled into a complete diagnostic x-ray system. Alternatively, a manufacturer of a complete x-ray system may choose to certify the system as a whole (21 CFR 1002.1 Table 1, footnote 4), or a combination of two or more components if they obtain prior authorization in writing from the Director, Center for Devices and Radiological Health (21 CFR 1020.30(c)). 21 CFR 1020.30(a)(1)(i) identifies the components of diagnostic x-ray systems to which the provisions of 21 CFR 1020.30 apply and that are therefore subject to the certification requirement of 21 CFR 1010.2 (hereinafter, “certifiable” means a component or system subject to this certification requirement). These x-ray components may also qualify as medical devices under section 201(h) of the FD&C Act (21 U.S.C. 321(h)) and therefore be subject to the provisions of the FD&C Act that apply to medical devices. The component by itself may not be able to produce diagnostic x-rays (for purposes of this guidance, x-rays intended for irradiation of any part of the human body for the purpose of diagnosis or visualization) but is intended to be installed or assembled with other compatible components into a complete diagnostic x-ray system at the user location.
+1. QUESTION: When must a diagnostic x-ray system or certifiable x-ray component be certified?
+ANSWER: Section 538(a)(1) of the FD&C Act (21 U.S.C. § 360oo(a)(1)) provides that it shall be unlawful for any manufacturer to introduce, or to deliver for introduction, into commerce any electronic product which does not comply with an applicable standard prescribed pursuant to section 534 (21 U.S.C. § 360kk). Additionally, section 538(a)(5) (21 U.S.C. § 360oo(a)(5)) provides that it shall be unlawful for any person to fail to issue a certification as required by section 534(h) (21 U.S.C. § 360kk(h)). Section 534(h) (21 U.S.C. § 360kk(h)) provides that every manufacturer of an electronic product to which is applicable a standard in effect under section 534 (21 U.S.C. § 360kk) shall furnish to the distributor or dealer at the time of delivery of such product a certification that such product conforms to all applicable standards under section 534 (21 U.S.C. § 360kk). And 21 CFR 1010.2(a), which was prescribed pursuant to section 534 of the FD&C Act (21 U.S.C. §
+360kk), among other provisions, provides that every manufacturer of an electronic product for which an applicable standard is in effect under the Radiological Health Regulations shall furnish to the dealer or distributor, at the time of delivery of such product, the certification that such product conforms to all applicable standards under the Radiological Health Regulations.
+Consequently, at the time of delivery to the distributor or dealer, any diagnostic x-ray system or certifiable component must have been certified to conform to all applicable
+Performance Standards under section 534 (21 U.S.C. § 360kk).
+2. QUESTION: Can I import certifiable diagnostic x-ray components that have not been certified?
+ANSWER: Section 538(a)(1) of the FD&C Act (21 U.S.C. § 360oo(a)(1)) states that a manufacturer may not import into the United States any electronic product which does not comply with an applicable standard prescribed pursuant to section 534 (21 U.S.C. §
+360kk), including the certification requirement of section 534(h) (21 U.S.C. § 360kk(h)).
+But, under section 538(b) (21 U.S.C. § 360oo(b)), FDA may exempt any electronic product, or class thereof, from this requirement, upon such conditions as it may find necessary to protect the public health or welfare, for the purpose of research, investigations, studies, demonstrations, or training, or for reasons of national security. Accordingly, in
+Form FDA 2877 - Declaration for Imported Electronic Products Subject to Radiation
+Control Standards, FDA allows, under limited circumstances, for the importation of certifiable components that are not certified. If such components are being imported only for research, investigations/studies, demonstration or training, the filer would choose
+Declaration C (“DO NOT COMPLY WITH PERFORMANCE STANDARDS; ARE BEING HELD UNDER A TEMPORARY IMPORT BOND; WILL NOT BE INTRODUCED INTO COMMERCE; WILL BE USED UNDER A RADIATION PROTECTION PLAN; AND WILL BE DESTROYED OR EXPORTED UNDER U.S.
+CUSTOMS SUPERVISION WHEN THE FOLLOWING MISSION IS COMPLETE: . .
+.”), and would have to export or destroy such product when the purpose of the importation has been achieved or the length of time stated has expired. If certifiable components that are not certified being imported are to be brought into compliance with applicable standards through reconditioning, the filer would choose Declaration D (“DO NOT COMPLY WITH PERFORMANCE STANDARDS; ARE HELD AND WILL REMAIN UNDER BOND; AND WILL NOT BE INTRODUCED INTO COMMERCE UNTIL NOTIFICATION IS RECEIVED FROM FDA THAT PRODUCTS HAVE BEEN BROUGHT INTO COMPLIANCE IN ACCORDANCE WITH AN FDA APPROVED PETITION.”), and would have to export or destroy such product if not appropriately brought into compliance. The components will be held under bond. Additional instructions regarding this process are provided on page 2 of Form FDA 2877.
+3. QUESTION: If a certifiable diagnostic x-ray component or system has been installed for use on humans under an investigational device exemption (IDE), must it be certified?
+ANSWER: Yes. If a certifiable diagnostic x-ray component or system has been installed for use on humans under an IDE (see section 520(g) of the FD&C Act (21 U.S.C. 360j(g)) and 21 CFR part 812), it must comply with all applicable standards prescribed pursuant to section 534 of the FD&C Act (21 U.SC. § 360kk) and be certified (sections 538(a)(1) and (5) of the FD&C Act (21 U.S.C. § 360oo(a)(1) and (5))).
+4. QUESTION: After a diagnostic x-ray system or component has been sold and installed, who is responsible for ensuring continued equipment compliance with the Performance Standards?
+ANSWER: The certifying manufacturer is responsible for designing systems and components to guarantee compliance with the Performance Standards for the life of the equipment when the equipment is properly maintained (21 CFR 1020.30(c)). A certified product that is maintained according to the maintenance schedule provided by the certifying manufacturer is expected to conform to the regulations and Performance
+Standards in effect on the date of manufacture (21 CFR 1020.30(c) and 1020.30(h)). For example, a product manufactured in 2004 is expected to be in compliance with the regulations in effect in 2004.
+Because diagnostic x-ray equipment usually will remain in use for many years, the certifying manufacturer is required to provide a maintenance schedule that, if properly implemented by the user, will keep the equipment in compliance with the Performance
+Standards (21 CFR 1020.30(h)(1)(ii)). If the assembler installs the equipment following the instructions provided by the certifying manufacturer (21 CFR 1020.30(g)), and the user maintains the equipment according to the maintenance schedule provided by the certifying manufacturer (21 CFR 1020.30(h)(1)(ii)), the certifying manufacturer may be held responsible for manufacturer-related compliance issues until the equipment is permanently removed from service. However, the certifying manufacturer will not be held responsible for noncompliance of their products if that noncompliance is due solely to the improper installation, assembly, or maintenance of that product by another person. (21 CFR 1020.30(c) and 1020.30(h)). (See also question 58).
+5. QUESTION: A firm manufactures x-ray equipment for use in veterinary offices, for microscopic examination of materials in pathology laboratories, and for training radiologic technologists when no living human subjects are imaged. Must this x-ray equipment be certified? Is the firm required to file a Form FDA 2579 (“Report of Assembly of a Diagnostic X-Ray System”)?
+ANSWER: A “diagnostic x-ray system” is defined, for the purposes of the Performance Standards, as “an x-ray system designed for irradiation of any part of the human body for the purpose of diagnosis or visualization.” (21 CFR 1020.30(b)). Because the electronic products in this question are not intended for use on humans, they are not diagnostic x-ray systems, and do not need to be certified as such. However, these systems are considered electronic products under the Radiological Health Regulations, and the firm must comply with all of the EPRC requirements for equipment without a specific performance standard (21 CFR 1002.1). This includes any reporting requirements in Table 1 of 21 CFR 1002.1
+and reporting Accidental Radiation Occurrences (AROs) to the FDA.
+The firm is not required to file Form FDA 2579. Form FDA 2579 is filed to report assembly of certified diagnostic equipment intended for irradiation of any part of the human body for the purpose of diagnosis or visualization. The completion and filing of the form is not required for any non-human application. Even though certified equipment is often installed in veterinary facilities, when such equipment will be used as dedicated veterinary equipment, it does not require certification to the Performance Standards.
+NOTE: Some state and local agencies may have more stringent reporting requirements, and the firm should check with relevant state and local agencies regarding those state and local agency requirements.
+6. QUESTION: Are there specific requirements for diagnostic x-ray systems installed in mobile vehicles?
+ANSWER: No. There are no specific requirements in 21 CFR 1020.30 for diagnostic x-ray systems installed in mobile vehicles. Diagnostic x-ray systems installed in mobile vehicles may be subjected to adverse environmental conditions. Manufacturers should provide specific instructions for installation, assembly, testing, and maintenance of diagnostic x-ray systems that are designed for, or routinely installed in, mobile vehicles in order to take into account potential adverse environmental conditions.
+NOTE: Diagnostic x-ray systems installed in mobile vehicles are subject to the general requirements for diagnostic x-ray systems provided in the Performance Standards.
+7. QUESTION: If a component or system is designed or modified so that it performs a function that is characteristic of a certifiable component or system, does it need to be certified with respect to that function?
+ANSWER: Yes. Any component or system that serves substantially the same function as a certified component or system (see 21 CFR 1002.1 and 21 CFR 1020.30(a)) meets the definition of that component or system, and therefore must be certified (21 CFR 1020.30(c)).
+For example, if software included with a digital detector controls the technique factors (e.g., duration of an exposure), then the software performs the same function as an x-ray control and therefore is itself an x-ray control. Because an x-ray control is a certifiable component (see 21 CFR 1020.30(a)(1)(i)(A)), the software is subject to the requirements of the Performance Standards relevant to x-ray controls. These requirements include a statement of compatibility with other components in the system (21 CFR 1020.30(g)).
+As another example, if a digital detector is marketed with a front panel (e.g., dust cover) that is not necessary for the digital detector’s operation, then the front panel performs the same function as a cassette holder with front panel and therefore is itself considered a cassette holder with front panel under the EPRC regulations. Because a cassette holder with front panel is a certifiable component (see 21 CFR 1020.30(a)(1)(i)(A)), the front panel is subject to the requirements of the Performance Standards relevant to cassette holders with front panels. These requirements include maximum aluminum equivalence requirements under 21 CFR 1020.30(n) and the front panel must be certified as a cassette holder with front panel (21 CFR 1020.30(c)).
+These are two examples and not an exhaustive discussion. For questions related to other design features, please contact the FDA program at RadHealth@fda.hhs.gov.
+Note that adding functionality to a product may affect labeling applied to a component or system. See also section V.B.(i), “General Labeling,” for more information on labeling requirements for various components and systems.
+8. QUESTION: Must a manufacturer of certifiable components provide information regarding the compatibility of their components with other components?
+ANSWER: Manufacturers of certified components must provide to assemblers, and others who request it, at a cost not to exceed the cost of publication and distribution, instructions for assembly, installation, adjustment, and testing (21 CFR 1020.30(g)). When compliance of the component(s) or system depends on component compatibility, the information provided must include specifications of compatible components (21 CFR 1020.30(g)).
+Such specifications may describe pertinent physical characteristics of the components and/or may list by manufacturer model number the components which are compatible.
+While it is permissible to list manufacturer model numbers to specify compatible components, that is not the only acceptable means for identifying compatible components.
+A manufacturer may also describe pertinent physical characteristics of the components to identify those which are compatible. While manufacturers are generally not required to disclose trade secrets or confidential information, all instructions for the assembly, installation, adjustment, and testing of certified components must be adequate to assure that the products will comply with applicable provisions of the Specific Performance Standards when assembled, installed, adjusted, and tested as directed. See also section V.F., “Assembly.”
+9. QUESTION: Do the Specific Performance Standards apply to x-ray based image-guidance used with radiation therapy devices?
+ANSWER: If the x-ray based image-guidance used with radiation therapy devices is only intended to assist with radiation therapy administration and not for diagnostic imaging or visualization, then 21 CFR 1020.30 is not applicable. Other EPRC requirements are still applicable to image guided radiation therapy systems.
+FDA recommends that manufacturers of x-ray based image-guidance used with radiation therapy devices evaluate safety and performance using applicable FDA-recognized standards, which include IEC 60601-2-68: Medical electrical equipment - Part 2-68:
+Particular requirements for the basic safety and essential performance of X-ray-based image-guided radiotherapy equipment for use with electron accelerators, light ion beam therapy equipment and radionuclide beam therapy equipment.
+10. QUESTION: Are cone-beam computed tomography x-ray systems with applications such as
+dental, ENT, or extremity use required to conform to the Computed Tomography (CT) performance standard (21 CFR 1020.33) even though certain sections do not seem appropriate for cone-beam technology?
+ANSWER: Cone-beam Computed Tomography (CBCT) devices are considered CT systems because they depict the x-ray attenuation properties of a section through the body by the acquisition and computer processing of x-ray transmission data. They are therefore subject to the CT performance standard under 21 CFR 1020.33, including but not limited to the quality assurance requirements provided in 21 CFR 1020.33(d). If one or more provisions of the CT performance standard under 21 CFR 1020.33 do not appear appropriate for a CBCT device, the manufacturer should apply for a variance from such provision(s) as described in 21 CFR 1010.4. For dental CBCT systems which are primarily intended to produce three-dimensional CT images, 21 CFR 1020.33 applies. For fluoroscopy systems that include CBCT functions where the device is primarily intended for fluoroscopic imaging or for recording images from the fluoroscopic image receptor, 21 CFR 1020.33 does not apply (in this circumstance 21 CFR 1020.32 applies). For CBCT intended only to assist with radiation therapy administration, see question 9.
+### B. Labeling (see also questions 45, 83, 101, and 102)
+(1)
+General Labeling
+11. QUESTION: Must certification and identification labels be written in the English language?
+ANSWER: The certification label or tag and the identification label or tag required under 21 CFR 1010.2 and 1010.3, respectively, must be written in the English language (21 CFR 1010.2(b) and 1010.3(a)), with the exception that the identification label or tag may include foreign equivalents to abbreviations such as “Co.,” and “Inc.” (21 CFR 1010.3(a)(1)).
+12. QUESTION: A firm sells diagnostic x-ray systems, all of which consist of the same
+combination of components. May the firm place the identification and certification information for the system, with specific component information (e.g., model number, serial number, and date of manufacture), in the user’s manual rather than on the individual components?
+ANSWER: No. The required labeling must be placed on each component subject to certification (21 CFR 1010.2, 1010.3, and 1020.30(c)).
+13. QUESTION: May a combination of certifiable components be identified with a single
+identification label and a single certification label?
+ANSWER: A combination of two or more certifiable components may bear a single certification label if prior authorization is obtained in writing from the Director, Center for
+Devices and Radiological Health, to single label such a specific combination of components (21 CFR 1020.30(c)). In the case of products for which it is not feasible to affix identification labeling to each component, upon application by the manufacturer, the Director, Center for Devices and Radiological Health may approve an alternate means by which such identification may be provided through single labeling of that combination of components (21 CFR 1010.3(b)). In the absence of prior authorization under 21 CFR 1010.3(b) or 1020.30(c), FDA does not intend to object to the use of a single identification label and/or a single certification label under the following circumstances: • High-voltage generators contained inseparably within tube housing assemblies.
+• Beam-limiting devices that are integral, inseparable parts of tube housing assemblies.
+• High-voltage generators and x-ray controls when inseparable, combined in a single housing, and marketed under a single model designation.
+• Combination of x-ray control panels and air kerma displays when inseparable, combined in a single housing, and marketed under a single model designation.
+14. QUESTION: How should a manufacturer apply for FDA authorization to single label
+combinations of certifiable components not identified in question 13?
+ANSWER: A written request must be submitted to FDA as required by 21 CFR 1020.30(c).
+The written request should specify the components to be single labeled and include the reasons why the manufacturer believes the labeling request should be authorized.
+Manufacturers interested in requesting permission to single label a combination of components should send their request to the attention of the Director, Center for Devices and Radiological Health, Food and Drug Administration, 10903 New Hampshire Avenue, Bldg. 66, Silver Spring, MD 20993-0002. Requests may also be sent via email to the following inbox: RadHealthCustomerService@fda.hhs.gov.
+15. QUESTION: How does FDA evaluate a request submitted pursuant to 21 CFR 1020.30(c) to
+certify single label combinations of certifiable components?
+ANSWER: The manufacturer must demonstrate that the combination of certifiable components is compliant with the applicable Performance Standards under a testing program (see 21 CFR 1010.2(c)) for the single label to denote product certification. Each request will be evaluated on a case-by-case basis, but the certifiable components should be contained in a single housing and marketed as a single certified entity, except for repair parts. For some products, for example, portable x-ray equipment (x-ray equipment designed to be hand-carried, see 21 CFR 1020.30(b)), this single label combination may encompass the entire system.
+16. QUESTION: Items such as phototimers, automatic exposure controls, and positive beam
+limiting systems (including collimator, sensing tray, and electrical chassis), are made up of subassemblies located in various parts of the system, including in or on other certifiable components. Must each of these subassemblies be labeled with manufacturer identification, model, and certification information as specified in 21 CFR 1010.3 and 1020.30(e), or may one model number be assigned to the multiple parts?
+ANSWER: Assignment of more than one model number and nameplate to the scattered parts of certifiable components is permissible. FDA does not intend to object if only one model number is assigned to multiple parts if they belong to the same system as a whole and each part contains appropriate labeling. In the example of a distributed set of subassemblies (including client-server software architectures), FDA does not intend to object if only the essential part(s) of a certifiable component are labeled as specified under 21 CFR 1010.3 and 1020.30(e). These required labels should be placed on the portion of the subassembly which would appear to the user to be performing the function of the certified component.
+17. QUESTION: Laptop or desktop computers that use software to control diagnostic x-ray
+systems have become widespread. Are both the original and replacement computers required to be labeled with identification, certification, and warning labels?
+ANSWER: Yes. FDA considers a laptop computer or desktop computer with an off-the­shelf monitor that uses software to control diagnostic x-ray systems to serve the same function as an x-ray control. Therefore, they are subject to the same labeling requirements as any other diagnostic x-ray control as described in 21 CFR 1020.30(b).
+The manufacturer of such diagnostic x-ray system control software may state that a laptop computer or desktop computer with an off-the-shelf monitor meets their compatibility criteria. However, once a user installs a laptop computer or desktop computer with an off-the-shelf monitor which meets the x-ray system control software manufacturer’s statement of compatibility into a completed diagnostic x-ray system, the diagnostic x-ray system control software manufacturer continues to be responsible for compliance with the applicable requirements and management of the risks of the x-ray control aspects of the diagnostic x-ray system.
+The replacement of a diagnostic x-ray system control’s monitor by a user may affect the component’s compliance with applicable labeling requirements. The certification and identification labels (or the display of their contents) must be readily accessible by the user (see 21 CFR 1010.2 and 1010.3) and the required warning statement must be displayed on each laptop computer or desktop computer with an off-the-shelf monitor used as a control panel (21 CFR 1020.30(j)).
+The labeling for a laptop computer or desktop computer with an off-the-shelf monitor used as x-ray controls may have been approached in several ways. Below are two examples of labeling methods: • Physical labels consistent with 21 CFR 1010.2 (Certification), 1010.3 (Identification), and 1020.30(j) (Warning label), accompanied by adequate instructions for placement and verification of the labels.
+• Electronically: FDA does not intend to object if (1) each time the system is started, the screen displays the identification label and the certification label, requiring user action before removing these labels and resuming the start-up sequence; and (2) during use, the required warning label is continuously displayed on the screen. If the screen is used as both an acquisition and review work station, the warning label need not be displayed when in the review mode, but the warning label should be continuously displayed when in the acquisition mode.
+18. QUESTION: Device labeling regulations under 21 CFR Parts 801 and 809 generally permit
+the use of symbols in device labeling without adjacent explanatory text if certain requirements are met.11 Is the use of a symbol found in standards such as ISO 7000 permitted in the mandatory labeling for certified x-ray components?
+For example, certain FDA-recognized standards such as ISO 7000: Graphical symbols for use on equipment and IEC 60417: Graphical symbols for use on equipment include symbols to which FDA does not intend to object when used on labels required by the
+Performance Standards. Some examples of such symbols from ISO 7000:2019 include catalogue number, serial number, and date of manufacture.  However, this policy does not apply to other required labels, including the certification label (21 CFR 1010.2) and warning label (21 CFR 1020.30(j)), that require complete phrases written in English and which cannot be adequately represented by symbols.
+(2)
+Label Location
+19. QUESTION: Items such as phototimers, automatic exposure controls, and positive beam
+limiting systems (including collimator, sensing tray, and electrical chassis), are made up of subassemblies located in various parts of the system including in or on other certifiable components. May a manufacturer label only the essential part(s) of a major component? If yes, where should such labels be located?
+ANSWER: As noted in the answer to question 16, in the example of a distributed set of subassemblies (including client-server software architectures), FDA does not intend to object if only the essential part(s) of a certifiable component are labeled as specified under 21 CFR 1010.3 and 1020.30(e). These required labels should be placed on the portion of the subassembly which would appear to the user to be performing the function of the certified component.
+Table 1 lists several major components and suggested label locations for each major component. If you have received written authorization from FDA (21 CFR 1020.30(c)) to certify a combination of two or more major components (i.e., one catalog item that is not intended to be subdivided for use with other components), only one label is required.
+NOTE: All tube housing assemblies must be labeled with the name of the manufacturer, model number, and serial number of the x-ray tube which the tube housing assembly incorporates, since they are subject to frequent replacement (21 CFR 1020.30(e)(1)).
+Table 1. Suggested Label Locations for Major Components Major Component Label Location Tube Housing Assembly
+On housing, including under-table tubes X-ray Control Warning Label on each x-ray control panel (21 CFR 1020.30(j)) and Identification and Certification Labels on the control panel or the control electronics cabinet X-ray HV Generator On generator housing Fluoroscopic Imaging Assembly On certifiable image receptors Table On each table Cradle On each cradle Film Changer
+On changer (if separate control unit is provided, this must also be labeled) Cassette Holder On each cassette holder Beam Limiting Device On outside of each collimator Air Kerma Display
+On the air kerma display device as an electronic display (if multiple air kerma displays are present, only one need be labeled)
+20. QUESTION: What is FDA’s policy concerning the location of the certification and
+identification labels and the warning label for diagnostic x-ray systems?
+ANSWER: Certification and identification labels must be legible and readily accessible to view when the product is fully assembled for use (21 CFR 1010.2(b) and 1010.3(a)). For the purposes of this guidance, “legible and readily accessible to view” for diagnostic x-ray systems means a location where a person can read the label without having to relocate the x-ray system or use a tool to remove or open panels, doors, etc. The certification and identification labels should be accessible to view once installed and not on a side that is normally placed against a wall. For some components, such as a tube housing assembly mounted under a table, the certification and identification labels might not be visible from outside the completed system. In such a case, the certification and identification labels should be mounted on the component, although the component itself is not visible. If this location is behind a door, panel, under a table, etc., or otherwise in a location that is not readily accessible without the need to unbolt, unlock, or relocate the diagnostic x-ray system, wording should appear on the door, panel, etc., indicating the location of the certification and identification labels (see 21 CFR 1010.2 and 1010.3 regarding general label requirements).
+The warning label serves to alert users to the hazards associated with the use of the diagnostic x-ray equipment and should be conspicuous to the user. It should be situated so that a user of an x-ray machine can see the warning when the user is preparing to initiate an exposure (21 CFR 1020.30(j)). There should be a warning label visible at each location where technique factors may be set and where x-ray exposure may be initiated.
+21. QUESTION: For aesthetic reasons, some manufacturers place certified components behind
+cosmetic covers and then place duplicate certification and identification labels on the covers.
+Is this acceptable?
+ANSWER: Yes, but only when the components themselves are also appropriately labeled.
+This duplicate label placement satisfies the “readily accessible to view” requirements of the
+Performance Standards (21 CFR 1010.2(b) and 1010.3(a)) so long as the manufacturer provides adequate assembly instructions to verify that the component label and the duplicate label on the outside casing are identical. The placement of the duplicate label should be on the covering over the certified component or immediately adjacent to the component. The assembly instructions provided with replacement components should address replacement labeling when component replacement is necessary.
+22. QUESTION: A firm manufactures fluoroscopic systems used for angiography and
+interventional procedures. The diagnostic source assembly is covered by a plastic shield. The shield makes cleaning of the diagnostic source assembly easier. The certification and identification labels on the tube housing assembly and beam limiting device are covered by the shield. There is a panel on the shield that can be removed with a screwdriver that would allow access to the certification and identification labels. Is this acceptable?
+ANSWER: No. Because the panel requires a screwdriver to open, the certification and identification labels are not considered accessible to view. Since the certification and identification labels are not accessible to view under normal use (see 21 CFR 1010.2(b), 1010.3(a), and 1020.30(e)), this is not acceptable under the regulations. Acceptable solutions may include designing the panel to be removable without the use of tools, placing the labels behind a clear shield so that they remain accessible to view, or designing labels such that they remain legible despite cleaning practices and placing them without the protective shield.
+23. QUESTION: A firm has been asked to install a diagnostic x-ray system in a facility where a
+wall will prevent anyone from seeing the certification and identification labels on the x-ray table. Is this acceptable?
+ANSWER: No. Even if the x-ray table was otherwise properly labeled, the proposed placement would render the assembly noncompliant (see 21 CFR 1010.2(b), 1010.3(a), and1020.30(e)) because the labels will not be accessible to view.
+24. QUESTION: 21 CFR 1020.30(e) requires that the model number and serial number be
+accessible to view. Since the installation of equipment is frequently performed by personnel other than the manufacturer, how can a manufacturer assure visibility after installation?
+ANSWER: A manufacturer must provide instructions to the assembler so that the products will comply with applicable provisions of the Specific Performance Standards, including the requirement that the model number and serial number be accessible to view, when assembled, installed, adjusted, and tested as directed (21 CFR 1020.30(g)).
+(3)
+Certification Labels 21 CFR 1010.2(a) requires every manufacturer of an electronic product for which an applicable standard is in effect to furnish to the dealer or distributor, at the time of delivery, the certification that such product conforms to all applicable Performance Standards, unless FDA has approved an alternate means to provide certification (21 CFR 1010.2(d)). Such certification must be in the form of a label or tag permanently affixed to or inscribed on such product so as to be legible and readily accessible to view when the product is fully assembled for use (21 CFR 1010.2(b)). Each certifiable component of a diagnostic x-ray system must have its own certification label unless the system falls under the provisions for single labeling (21 CFR 1020.30(e)). Single labeling questions and answers are provided in section V.B.(i), “General Labeling.”
+25. QUESTION: Is there specific wording required to meet the certification labeling requirement
+in 21 CFR 1010.2(a)?
+ANSWER: No. The regulation concerning certification (21 CFR 1010.2(a)) does not specify the wording of the certification label; it states that “Every manufacturer of an electronic product for which an applicable standard is in effect under this subchapter shall furnish to the dealer or distributor, at the time of delivery of such product, the certification that such product conforms to all applicable standards under this subchapter.” Two examples of acceptable wording are: • “Complies with DHHS radiation performance standards, 21 CFR Chapter I, Subchapter J.”
+• “Product complies with applicable DHHS standards under Subchapter C - Electronic
+Product Radiation Control of Chapter V of the Federal Food, Drug and Cosmetic Act.”
+26. QUESTION: May a manufacturer use the words “at the time of manufacture” in the
+certification label to indicate that the certification statement applies to the regulations in effect at the time of manufacture?
+ANSWER: Yes, if the phrase is qualified appropriately. Some manufacturers use the term “at the time of manufacture” in their certification statement because the regulations are amended from time to time. However, the addition of this phrase can cause confusion as to what information is being conveyed.
+If the phrase “at the time of manufacture” is placed on the certification label, then the words “in effect” should be included with the phrase to clearly indicate that the certification statement means that the component complies with the regulations in effect at the time of manufacture. Two examples of acceptable wording are: • “Complies with applicable DHHS radiation performance standards, 21 CFR Chapter I, Subchapter J, in effect at time of manufacture.”
+• “Product complies with applicable DHHS standards in effect at time of manufacture under Subchapter C - Electronic Product Radiation Control of Chapter V of the Federal Food, Drug and Cosmetic Act.”
+27. QUESTION: Since shipping containers of diagnostic x-ray components being imported into
+the U.S. are typically not opened at the time of customs inspection, is any certification labeling required on the outside of the shipping container?
+ANSWER: No. However, the importer must file a declaration (Form FDA 2877) upon entry of the product into the U.S. (19 CFR 12.91(b)).
+(4)
+Identification Labels
+28. QUESTION: How should the manufacturer be identified on diagnostic x-ray component
+identification labels?
+ANSWER: 21 CFR 1010.3(a)(1) requires that the full name and address (in English) of the certifying manufacturer be stated on each certifiable component, in the form of a label or tag permanently affixed to or inscribed on the product. Under the EPRC provisions of the FD&C Act, the certifying firm (whether manufacturer, importer, or assembler) is the responsible manufacturer for compliance of the certified component.
+If the product is sold under a name other than that of the certifying manufacturer, the full name and address of the individual or company selling the product may be placed on the label as long as prior to introduction of the product into commerce, the Director, Center for
+Devices and Radiological Health, has been provided sufficient information to identify the manufacturer of the product (21 CFR 1010.3(a)(1)). This label must also contain the place and month and year of manufacture of the component (21 CFR 1010.3(a)(2)). Where a medical device is not manufactured by the person whose name appears on the label required under 21 CFR Part 801, the name shall be qualified by a phrase that reveals the connection such person has with such device, such as, “Manufactured for ___”, or “Distributed by ___” or other wording that expresses the facts (21 CFR 801.1(c)).
+29. QUESTION: Under 21 CFR 1010.3(a)(2)(ii), the format for the date of manufacture is
+“Manufactured: (Insert Month and Year of Manufacture).” May a manufacturer use other formats instead, such as 12/2/2009, 2-Dec-09, or 2009-12-02? May a manufacturer use “Date of Manufacture:” instead of “Manufactured:”?
+ANSWER: 21 CFR 1010.3(a)(2)(ii) requires that the month and year of manufacture be provided clearly and legibly, without abbreviation, and with the year shown as a four-digit number as follows: “Manufactured: (Insert Month and Year of Manufacture.)” (21 CFR 1010.3(a)(2)(ii)).
+Federal regulations provide that, alternatively, a manufacturer may utilize a manufacturing symbol and date format that conforms with an applicable FDA recognized consensus standard. (See also question 18).
+30. QUESTION: What is the “place of manufacture” as used in 21 CFR 1010.3?
+ANSWER: The place of manufacture is the location where the certifiable component or system is produced. This should include, at a minimum, the country and city. A code may be used to identify the place of manufacture if the Director, Center for Devices and
+Radiological Health, has previously been provided the key to such code (see 21 CFR 1010.3(a)(2)(i)).
+31. QUESTION: A firm manufactures certifiable x-ray components and systems at several
+locations. The firm would like to include its corporate office name and address on the identification label. Is the firm required to also identify the place of manufacture? May it use a code on the label to identify the place of manufacture?
+ANSWER: Yes, to both questions. The firm is required to identify the place of manufacture (21 CFR 1010.3(a)(2)). A code may be used to identify the place of manufacture if the Director, Center for Devices and Radiological Health, has previously been provided the key to such code (21 CFR 1010.3(a)(2)(i)). (See also questions 28 and 30).
+32. QUESTION: 21 CFR 1010.3(a)(1) and (2) require that manufacturers include their full name,
+address, and place of manufacture on their electronic product identification tags or labels.
+May a manufacturer place its Uniform Resource Locator (URL) on its electronic product labels instead?
+ANSWER: No. The Performance Standards do not permit manufacturers to place the URL information on a label instead of the required information. The product label must include the information required in the regulations (see 21 CFR 1010.3(a)(1) and (2)).
 However, as discussed in FDA’s guidance entitled “Guidance for Industry and FDA Staff ­
-Addition of URLs to Electronic Product Labeling,”12 FDA recommends, when feasible, 
-that manufacturers add their URL to their electronic product tag or label, in addition to the 
-identification information required under 21 CFR 1010.3(a)(1) and (2). 
-33. QUESTION: 21 CFR 1020.30(e) requires manufacturers of diagnostic x-ray components that 
-are subject to the Performance Standards to permanently inscribe or affix to each component 
-the model number and serial number (identification labels) of the component. How does the 
-FDA interpret this requirement? 
-ANSWER: 21 CFR 1020.30(e) specifies that a model number and serial number shall be 
-inscribed or affixed to a component, and that the word “model” or “type” shall appear as 
-part of the manufacturer’s required identification of certified x-ray components. A model 
-designation should describe only one certified component, and it should not be used to 
-describe an assemblage of components except as specified in 21 CFR 1020.30(e) or as 
-specifically authorized by the FDA. (See also questions 12, 13, 14, 15 16, and 18). High-
-voltage generators contained within tube housings and beam-limiting devices that are 
-integral parts of tube housings are excepted from the requirement of 21 CFR 1020.30(e) 
-that manufacturers of components subject to the Specific Performance Standards 
-permanently inscribe or affix thereon the model number and serial number of the product 
-so that they are legible and accessible to view. 
-34. QUESTION: Is specific wording required to meet the labeling requirement for specific 
-component identification? 
-ANSWER: Yes, in addition to the identification requirements of 21 CFR 1010.3, 21 CFR 
-1020.30(e) describes additional identification labeling requirements for components of a 
-diagnostic x-ray system by specifying the listing of model and serial numbers. The 
-specified format calls for the word “model” or “type” to appear on the label. Tube housing 
-assemblies require additional information on their identification label. The name of the 
-manufacturer, the model number, and the serial number of the x-ray tube insert must also 
-appear on the identification label (21 CFR 1020.30(e)(1)). The replacement of the x-ray 
-tube insert in a previously certified tube housing assembly constitutes manufacture of a 
-new tube housing assembly; this requires the manufacturer to remove, cover, or deface any 
-12 Available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/addition-urls-electronic­
-product-labeling 
-25
-
----
-
-<!-- Page 26 -->
-Contains Nonbinding Recommendations 
-previously affixed tube insert inscriptions, tags, or labels that are no longer applicable, and 
-apply new tube insert labels (21 CFR 1020.30(e)(2)). (See also question 18). 
-(5) 
-Warning Labels 
-The control panel is the means used by the operator to set technique factors (21 CFR 
-1020.30(b)). The prescribed warning statement must be present on the control panel, and this 
-label must be legible and accessible to view and should be viewable by the operator during 
-adjustment of technique factors (21 CFR 1020.30(j)) (see also questions 20, 36, and 83). The 
-control panel may be physically co-located with the control (i.e., mounted directly to the cabinet) 
-or separated from the control (i.e., a satellite or remote panel). The control panel may consist of a 
-single operator interface or multiple operator interfaces. 
-35. QUESTION: Has the wording for the warning label (21 CFR 1020.30(j)) on the control panel 
-changed as a result of the June 10, 2006 amendments to the performance standard? 
-ANSWER: Yes. The change adds “maintenance schedules” to the required wording of the 
-warning label as prescribed in 21 CFR 1020.30(j), as follows: 
-a. New controls manufactured on or after June 10, 2006: 
-“Warning: This x-ray unit may be dangerous to patient and operator unless safe 
-exposure factors, operating instructions and maintenance schedules are observed.” 
-b. Old controls manufactured prior to June 10, 2006: 
-“Warning: This x-ray unit may be dangerous to patient and operator unless safe 
-exposure factors and operating instructions are observed.” 
-NOTE: FDA does not intend to object to a warning that differs slightly from the standard if 
-it is more forceful and restrictive in content and each aspect of the warning label (i.e., safe 
-exposure factors, operating instructions, and maintenance schedules) is addressed in the 
-warning. 
-36. QUESTION: 21 CFR 1020.30(j) requires a warning label on the control panel. Modern 
-control panels may incorporate or be wholly replaced by a computer that serves as a user 
-interface for purposes of adjusting technique factors and for the initiation of x-ray exposure. 
-Can a manufacturer propose to display the required warning statement on the computer 
-monitor screen? 
-ANSWER: Yes. 21 CFR 1020.30(j) does not specifically address computerized control of 
-x-ray production. A control panel may include controls and control panels utilizing a 
-computer as a user interface. 
-26
-
----
-
-<!-- Page 27 -->
-Contains Nonbinding Recommendations 
-Software may incorporate certification and identification statements within the code that 
-are reflective of labels affixed to the x-ray control (e.g., on the electronics cabinet or 
-operator console). Software performing x-ray control functions should also incorporate a 
-means to electronically display the required warning statement on each computer/terminal 
-used as a control panel unless a permanent warning label is present. (See also question 20).  
-C. 
-Date of Manufacture (See also question 29) 
-37. QUESTION: Several of the applicable Performance Standards differ based on whether the 
-equipment was manufactured before June 10, 2006. How does a manufacturer determine if its 
-system is required to comply with the updated Performance Standards? 
-ANSWER: An x-ray system must comply with the updated Performance Standards that are 
-in effect for equipment manufactured on or after June 10, 2006, when: 
-1) The complete system is certified (21 CFR 1002.1, Table 1, Footnote 4) and the system’s 
-date of manufacture falls on or after June 10, 2006; or 
-2) All of the certified components in the system were manufactured on or after June 10, 
-2006, as provided by each of their identification labels. 
-If a system’s date of manufacture is before June 10, 2006, and a certified component with a 
-date of manufacture on or after June 10, 2006 is used to replace an existing component in 
-this system, the new component must comply with the applicable updated Performance 
-Standards; however, the system is not required to comply with all of the updated 
-Performance Standards as a result of installing the single new certified component. 
-If a certified component with a date of manufacture before June 10, 2006 is installed into a 
-certified system manufactured on or after June 10, 2006, then the system is still required to 
-conform to all of the updated Performance Standards. Repair of a certified component does 
-not change the date of manufacture of either the component or system used to determine 
-which Performance Standards are applicable. 
-Example 1: An air kerma display manufactured in 2007 could be used to replace an air 
-kerma display on a fluoroscopic x-ray system manufactured in 2005. This new air kerma 
-display must be certified to conform to the Performance Standards applicable on its date of 
-manufacture (e.g., 21 CFR 1020.32(k)). However, the fluoroscopic x-ray system would not 
-be required to conform to other updated Performance Standards applicable on or after June 
-10, 2006 as a result of installing the single new certified air kerma display. 
-Example 2: A fluoroscopic x-ray system was manufactured in 2007 and certified as a 
-system using a certified air kerma display which was manufactured in 2005. Because the x-
-ray system was certified as a system and the system’s date of manufacture is in 2007, the 
-27
-
----
-
-<!-- Page 28 -->
-Contains Nonbinding Recommendations 
-system is still required to conform to all of the updated Performance Standards applicable 
-on or after June 10, 2006, even though the updated Performance Standards did not apply to 
-the air kerma display as of its own date of manufacture. 
-For CT systems manufactured on or after September 3, 1985, the date of manufacture of 
-the system is defined as the date of manufacture of the CT gantry, as provided by the 
-identification labeling (21 CFR 1020.30(a)(3)). 
-38. QUESTION: When an existing diagnostic x-ray system is disassembled or removed from its 
-original location and reassembled at a different location, does its “date of manufacture” 
-change? 
-ANSWER: No. A system that is disassembled and reassembled with the same components 
-retains its previous date(s) of manufacture. 
-For additional information on assembly of diagnostic x-ray equipment, see FDA’s guidance 
-entitled “Guidance for Industry and Food and Drug Administration Staff - Assembler’s 
-Guide to Diagnostic X-Ray Equipment.”13 
-D. 
-Measurements 
-39. QUESTION: There are many references in Radiological Health Regulations to test programs 
-used to determine compliance with the Performance Standards. (See 21 CFR 1020.30(k), (l), 
-(m)(3), (n), 1020.31(b)(2), (c)(3), (d)(2)(iii), (e)(4), (g)(3), (h)(2), (l), (m)(3), 1020.32(a)(2), 
-(b)(1), (d)(3)). Is a manufacturer required to develop its quality control testing program to use 
-these test programs exactly? 
-ANSWER: The test programs described in these portions of the Performance Standards 
-must generally be used in a manufacturer’s quality control testing program. If a 
-manufacturer wishes to use test programs other than those set forth in the Radiological 
-Health Regulations, it may submit a written application to that effect, in which case the 
-Director, Center for Devices and Radiological Health, will decide the matter in accordance 
-with 21 CFR 1010.13. However, in the absence of an alternate test procedure authorized 
-under 21 CFR 1010.13, FDA does not intend to object to an alternate test procedure for 
-diagnostic x-ray equipment if a manufacturer has validated its test program and the test 
-program is adequate to ensure conformance of the assembled x-ray system to the relevant 
-Performance Standards. It is the manufacturer’s responsibility to maintain records 
-13 Available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-industry-and­
-food-and-drug-administration-staff-assemblers-guide-diagnostic-x-ray-equipment 
-28
-
----
-
-<!-- Page 29 -->
-Contains Nonbinding Recommendations 
-pertaining to its quality control testing, including the basis for selecting any alternate test 
-procedures (21 CFR 1002.30(a)(2)). 
-40. QUESTION: Is it permissible to round off measured test results if the measured values are 
-slightly in excess of regulatory limits stated in the Performance Standards and the rounding 
-would allow the values to fall within the regulatory limits? 
-ANSWER: No. The regulatory limits in the Performance Standards are absolute values and 
-as such, they cannot be exceeded. Rounding measured test results to obtain compliant 
-values is not acceptable. For example, during testing of a fluoroscopic system, a measured 
-maximum air kerma rate of 88.1 mGy per minute was obtained. Since the limit for the 
-applicable requirement is 88 mGy per minute for this system, the measured value of 88.1 
-mGy per minute exceeds the limit in the performance standard, and the unit is not 
-compliant. Manufacturers (including assemblers) should employ action limits more 
-stringent than the regulatory limits to assure that equipment meets all regulatory limits in 
-the relevant Performance Standards. 
-41. QUESTION: What is meant by the term “measurement criteria” as related to “technique 
-factors” in 21 CFR 1020.30(h)(3)(viii)? 
-ANSWER: The regulations define technique factors such as peak tube potential, tube 
-current, etc. (21 CFR 1020.30(b)). However, the definitions are general in nature and more 
-precise information is needed to interpret the technique factors. Specifically, the criteria 
-used to obtain the indicated technique factors must be given (21 CFR 1020.30(h)(3)(viii)). 
-For example, when measuring exposure time for three-phase equipment, one manufacturer 
-may specify the measurement by defining it as the time between the beginning and end of 
-the exposure cycle, while another manufacturer may define it in some other way. In some 
-cases, the measurement criteria may vary among models produced by the same 
-manufacturer. A statement of the measurement criteria used must be provided in the 
-manufacturer’s literature to allow meaningful comparisons (21 CFR 1020.30(h)(3)(viii)). 
-42. QUESTION: Does the linearity requirement of 21 CFR 1020.31(c) apply to the x-ray system 
-as a whole or to individual components? Some systems are composed of components that may 
-have different maximum limiting specifications. If so, is the linearity requirement of the 
-system in a compliance test restricted to the maximum value as specified by the 
-manufacturer’s rating of the limiting component? 
-ANSWER: The requirement in 21 CFR 1020.31(c) applies to the x-ray system.  Testing 
-compliance for linearity of the maximum milliampere-second product selection or 
-maximum current setting of the system is limited by the manufacturer’s rating of the 
-limiting component. 
-29
-
----
-
-<!-- Page 30 -->
-Contains Nonbinding Recommendations 
-43. QUESTION: When measuring leakage from the diagnostic source assembly, may the main 
-beam be blocked at the exit end of the beam-limiting device? 
-ANSWER: Yes. Note that, as defined in 21 CFR 1020.30(b), leakage radiation “means 
-radiation emanating from the diagnostic source assembly except for . . . [t]he useful beam,” 
-and useful beam is defined in 21 CFR 1020.30(b) as “radiation which passes through the 
-tube housing port and the aperture of the beam-limiting device . . .” This means radiation 
-passing through the aperture of the beam-limiting device is not leakage radiation and 
-therefore is not subject to the leakage requirement. Thus, the proposal of blocking the 
-aperture at the exit end of the beam-limiting device is appropriate. 
-E. 
-Models (See also questions 33and 34) 
-44. QUESTION: A firm manufactures several slightly different versions of certain component 
-models. Must each version have its own unique model number? 
-ANSWER: It depends on the differences among the versions. 21 CFR 1000.3(o) defines 
-model as “any identifiable, unique electronic product design, and refers to products having 
-the same structural and electrical design characteristics and to which the manufacturer has 
-assigned a specific designation to differentiate between it and other products produced by 
-that manufacturer.” If the different versions have different structural or electrical design 
-characteristics, including compatibility issues, they must have different model numbers (21 
-CFR 1000.3(o), 1020.30(e)). However, if the differences are cosmetic (such as different 
-paint colors), it is acceptable to use the same model number for the different versions. 
-45. QUESTION: Under 21 CFR 1020.30(e), each certifiable component must have a model and 
-serial number. May manufacturers use any alphanumeric format in standard English 
-characters for these numbers (e.g., “BLK012,” “100245,” or “ALMM”)? 
-ANSWER: Any alphanumeric format is acceptable for model and serial numbers as long as 
-the model number and the serial number are unique to that component, or approved single-
-labeled system or single-labeled subsystem as authorized by FDA. 
-F. 
-Assembly (See also questions 5, 6, 23, 24, and 38)14 
-46. QUESTION: Form FDA 2579, “Report of Assembly of a Diagnostic X-ray System” is used 
-by assemblers to report the installation of diagnostic x-ray systems and/or their major 
-components. In a case where purchasers or their employees install certified components or 
-14 For additional assembler information see FDA’s guidance entitled “Guidance for Industry and Food and Drug 
-Administration Staff - Assembler’s Guide to Diagnostic X-Ray Equipment.” 
-30
-
----
-
-<!-- Page 31 -->
-Contains Nonbinding Recommendations 
-systems, do the purchasers then become “assemblers,” as defined in the regulations? Must 
-they file Form FDA 2579? 
-ANSWER: In this situation, the purchasers or their employees become assemblers. 21 CFR 
-1020.30(b) defines an assembler as “any person engaged in the business of assembling, 
-replacing, or installing one or more components into a diagnostic x-ray system or 
-subsystem. The term includes the owner of an x-ray system or his or her employee or agent 
-who assembles components into an x-ray system that is subsequently used to provide 
-professional or commercial services.” Therefore, anyone who installs certified components 
-or systems meets the definition of an assembler (21 CFR 1020.30(b)). Unless they meet 
-one of the exceptions to the reporting requirements provided under 21 CFR 1020.30(d)(2), 
-the assembler must submit a report of assembly (Form FDA 2579, see 21 CFR 
-1020.30(d)(1)) to the purchaser, and, where applicable, to the State agency responsible for 
-radiation protection. The form does not need to be submitted to FDA. The requirements of 
-21 CFR Part 1002—Records and Reports are not applicable to assemblers of diagnostic x-
-ray equipment subject to the provisions of 21 CFR 1020.30(d), provided the assembler has 
-submitted the required report of assembly and retains a copy of such report for a period of 
-5 years from its date (21 CFR 1002.1(c)(4)).15 For additional details and exceptions on 
-when to file Form FDA 2579, see FDA’s guidance entitled “Guidance for Industry and 
-Food and Drug Administration Staff - Assembler’s Guide to Diagnostic X-Ray 
-Equipment.”16 
-47. QUESTION: Must a Form FDA 2579 be filed when an assembler installs used certified 
-equipment that has been donated? 
-ANSWER: Yes. The regulations make no distinction regarding the method of acquisition 
-of the equipment. When an assembler installs certified equipment for use on humans, they 
-are required to file Form FDA 2579 (21 CFR 1020.30(d)(1)), regardless of how the 
-equipment is acquired. 
-48. QUESTION: What date should be used as the “date of installation” on Form FDA 2579 
-(Report of Assembly of a Diagnostic X-ray System)? 
-ANSWER: The date of installation of a diagnostic x-ray system or component is 
-considered to be the date the x-ray system or component is released by the assembler to the 
-facility or user for use on humans. Assemblers have fifteen (15) days following completion 
-of assembly to complete and distribute Form FDA 2579 before they are considered to be in 
-violation of 21 CFR 1020.30(d)(1). Form FDA 2579 should properly indicate the actual 
-15 Information on obtaining Form FDA 2579 may be found at https://www.fda.gov/about-fda/reports-manuals­
-forms/forms 
-16 Available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-industry-and­
-food-and-drug-administration-staff-assemblers-guide-diagnostic-x-ray-equipment 
-31
-
----
-
-<!-- Page 32 -->
-Contains Nonbinding Recommendations 
-date of installation, and not the date on which the assembler completes and distributes 
-Form FDA 2579.  
-49. QUESTION: What are the manufacturer’s and assembler’s responsibilities relative to final 
-testing of a newly-assembled x-ray system or component before it is released to the user? 
-ANSWER: Manufacturer’s Responsibilities: Manufacturers certify that each of their 
-products meet all applicable requirements when installed according to their instructions for 
-assembly, installation, adjustment, and testing. Descriptions of any testing that must be 
-performed after installation in order to ensure compliance with the applicable Performance 
-Standards should be included in these instructions. This information shall be provided to 
-assemblers (21 CFR 1020.30(g)). The instructions for testing of components must be 
-adequate to assure that the products will comply with the applicable Performance Standards 
-when assembled, installed, adjusted, and tested as directed. 
-Step-by-step instructions and a thorough explanation of the required test equipment should 
-be provided. The instructions should include a requirement to record those key data that 
-will permit demonstration that all specified tests were performed and that the equipment 
-was installed and tested in compliance with the assembly instructions. Manufacturers who 
-rely on the results from tests performed during assembly to support their certification but 
-do not include final compliance testing in their assembler instructions may have their 
-quality control and testing programs disapproved (21 CFR 1010.2(c)). 
-Assembler’s Responsibilities: Assemblers of diagnostic x-ray equipment must perform all 
-testing specified in the assembly instructions provided by the component or system 
-manufacturer(s) at the time of installation (21 CFR 1020.30(d)). Assemblers who file a 
-report of assembly (pursuant to 21 CFR 1020.30(d)(1)), but fail to perform, and document 
-the results of, final compliance tests as required by the manufacturer(s) may be considered 
-by the FDA to have issued a false and misleading certification and may be subject to 
-regulatory action by the FDA. Assemblers shall not be liable for noncompliance of a 
-certified component if the assembly of that component was performed according to the 
-component manufacturer’s instruction (21 CFR 1020.30(d)). 
-50. QUESTION: An assembler determines that the available rated line voltage and/or range of 
-line voltage regulation is not within the manufacturer’s specified requirements. May this 
-installation be completed? 
-ANSWER: No. The installation described here is not permitted. The manufacturer must 
-provide assembly instructions adequate to assure compliance of its components with the 
-applicable Performance Standards (21 CFR 1020.30(c) and (g)), which must include a 
-statement of the rated line voltage and the range of line-voltage regulation for operation at 
-maximum line current (21 CFR 1020.30(g)(1)), and the assembler shall assemble, install, 
-adjust, and test the certified components according to the instructions of the manufacturer 
-32
-
----
-
-<!-- Page 33 -->
-Contains Nonbinding Recommendations 
-(21 CFR 1020.30(d)). The assembly described here cannot be performed according to the 
-manufacturer’s instructions and should not be completed. 
-51. QUESTION: A firm manufactured and sold a fluoroscopic C-arm system that was fully 
-compliant with the Performance Standards if installed and assembled according to its 
-instructions. However, this particular system was incorrectly installed and assembled, and is 
-noncompliant with the Performance Standards. Is the manufacturer responsible for correcting 
-the noncompliant system? 
-ANSWER: No. Manufacturers are not responsible for noncompliance of their products if 
-that noncompliance is due solely to the improper installation or assembly of that product by 
-another person (21 CFR 1020.30(c)). However, manufacturers are responsible for 
-providing assembly instructions adequate to assure compliance of their components with 
-the applicable provisions of the Performance Standards (21 CFR 1020.30(g)). 
-52. QUESTION: A firm manufactured, sold, and installed a fluoroscopic C-arm system that was 
-fully compliant with the Performance Standards when it was assembled. However, the 
-owner’s service engineer adjusted the tube output to increase the air kerma rate. The 
-maximum air kerma rate after the adjustment was found to be 120 mGy per minute and, as a 
-result, the system fails to comply with 21 CFR 1020.32(d)(2)(ii). The facility’s medical 
-physicist notified the assembler that the system needs to be adjusted to comply with the 
-Performance Standards. Is the assembler or manufacturer responsible for adjusting the system 
-at no cost to the user? 
-ANSWER: No. If the owner’s service engineer did not adjust the system by following the 
-assembly, installation, adjustment, and testing instructions, the manufacturer is not 
-responsible for the failure to comply. (See also question 51). However, if the owner’s 
-service engineer adjusted the system by following the assembly, installation, adjustment, 
-and testing instructions, and the resulting air kerma rate did not meet the requirement 
-provided in 21 CFR 1020.32(d)(2)(ii), the manufacturer is responsible for the failure to 
-comply and must act according to 21 CFR 1003.10, including notification to the Secretary 
-(21 CFR 1003.20), notification to affected persons (21 CFR 1003.21), and unless exempted 
-from notification requirements (21 CFR Part 1003, Subpart D), repurchase, repair, or 
-replace the system at no cost to the user (21 CFR Part 1004). 
-53. QUESTION: 21 CFR 1020.31(b)(2), “Measuring Compliance,” appears to limit an assembler 
-to install systems where only plus or minus 1 percent (1%) line-voltage regulation is 
-available. Is this correct? 
-ANSWER: 21 CFR 1020.31(b) provides certain requirements that apply when the 
-equipment is operated on an adequate power supply as specified by the manufacturer in 
-accordance with the requirements of 21 CFR 1020.30(h)(3). The plus or minus 1 percent 
-(1%) line-voltage regulation in 21 CFR 1020.31(b)(2) means that if the line voltage 
-33
-
----
-
-<!-- Page 34 -->
-Contains Nonbinding Recommendations 
-regulation (expressed as a percent) for one measurement departs from the mean value of 
-line voltage regulation for any of the 10 measurements (expressed as a percent) by more 
-than 1 percent, the test result does not demonstrate compliance. However, because the 
-available line voltage regulation may vary in real world hospital installations settings (e.g., 
-plus or minus 2 percent), FDA does not intend to object if a manufacturer establishes 
-alternative specifications for adequate line voltage regulation that must be provided for the 
-assembled system. The manufacturer must provide a statement of the rated line voltage and 
-the range of line-voltage regulation for operation at maximum line current to assemblers 
-(21 CFR 1020.30(g)(1)). Further, 21 CFR 1020.31(b)(1) provides that, for any specific 
-combination of selected technique factors, the estimated coefficient of variation of the air 
-kerma shall be no greater than 0.05. FDA does not intend to object if a manufacturer uses 
-alternate test procedures in their test program to measure compliance to 21 CFR 
-1020.31(b)(1) under their modified line-voltage regulation specifications, provided that 
-they have been validated as adequate to ensure conformance when a line-voltage regulation 
-of plus or minus 1 percent is used. It is the manufacturer’s responsibility to maintain 
-records pertaining to its quality control testing, including the basis for selecting any 
-alternate test procedures (21 CFR 1002.30(a)(2)). (See also question 39). 
-(1) 
-Assembly Instructions (See also questions 49, 50, and 51) 
-Manufacturers of components identified in 21 CFR 1020.30(a)(1) are required to provide 
-assemblers with adequate instructions for assembly, installation, adjustment and testing of those 
-components (21 CFR 1020.30(g)). While manufacturers are generally not required to disclose 
-trade secrets or confidential information, the instructions must be adequate to assure that the 
-products will comply with the applicable provisions of the Performance Standards when 
-assembled, installed, adjusted, and tested as directed (21 CFR 1020.30(g)). Manufacturers of 
-diagnostic x-ray systems and components must provide these instructions to assemblers and, 
-upon request, to other interested parties at a cost not to exceed the cost of publication and 
-distribution (21 CFR 1020.30(g)).  
-In addition, manufacturers of x-ray equipment, including components, are required to provide to 
-purchasers, and upon request, to others, manuals or instruction sheets with the information 
-required under 21 CFR 1020.30(h). 
-Additional information is available in FDA’s guidance entitled “Information Disclosure by 
-Manufacturers to Assemblers for Diagnostic X-ray Systems – Guidance for Industry and FDA 
-Staff.”17 
-17 Available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/information-disclosure­
-manufacturers-assemblers-diagnostic-x-ray-systems-guidance-industry-and-fda 
-34
-
----
-
-<!-- Page 35 -->
-Contains Nonbinding Recommendations 
-54. QUESTION: 21 CFR 1020.30(g) requires manufacturers to provide adequate instructions to 
-complete a compliant installation of their component(s) into a diagnostic x-ray system. 
-However, assembly of a manufacturer’s system may require the use of unique software 
-programs to assure a compliant assembly. Must the manufacturer provide access to these 
-software programs as part of the information to be provided to assemblers? 
-ANSWER: Yes. If assembly, installation, adjustment, and testing of the certified 
-components requires the use of unique software programs, then access to those software 
-programs must be provided to assemblers and, upon request, to others at a cost not to 
-exceed the cost of publication and distribution (21 CFR 1020.30(g)). If adequate 
-instructions to complete a compliant installation can only be conveyed by other modes 
-(e.g., instructional videos or in-person training), then those forms of instructions must 
-similarly be provided at a cost not to exceed the cost of publication and distribution. 
-Some manufacturers bundle the unique software programs covered by 21 CFR 1020.30(g) 
-with other types of proprietary software; in some instances, the proprietary software cannot 
-be deleted from the bundled information. Nothing in 21 CFR 1020.30 prohibits bundling 
-software information or programs; however, the practice does not relieve manufacturers of 
-their responsibilities under the performance standard to provide the necessary 
-documentation or software at a cost not to exceed the cost of publication and distribution. 
-55. QUESTION: 21 CFR 1020.30(g) requires manufacturers to provide adequate instructions to 
-complete a compliant installation of their component(s) into diagnostic x-ray systems. It is 
-understood that if software is required to assure a compliant assembly, the manufacturer is 
-required to provide the software. However, does 21 CFR 1020.30(g) apply to ancillary 
-software developed by the manufacturer that may be helpful but is not required for such an 
-installation? 
-ANSWER: No. Some manufacturers have developed proprietary software beyond that 
-required by 21 CFR 1020.30(g) for use as an aid during the assembly process. They are not 
-required to provide such additional ancillary software.  
-Additional information is available in FDA’s guidance entitled “Information Disclosure by 
-Manufacturers to Assemblers for Diagnostic X-ray Systems – Guidance for Industry and 
-FDA Staff.”18 
-56. QUESTION: What should assemblers or others do if they believe they are not being provided 
-access to software programs that are necessary to comply with the performance standard 
-governing information to be provided to assemblers or believe that they do not have adequate 
-18 Available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/information-disclosure­
-manufacturers-assemblers-diagnostic-x-ray-systems-guidance-industry-and-fda 
-35
-
----
-
-<!-- Page 36 -->
-Contains Nonbinding Recommendations 
-instructions to complete the installation? In these situations, what are manufacturer’s 
-responsibilities? May assemblers or others obtain access to the software through other means? 
-ANSWER: Assemblers or others who believe they are not being provided access to 
-software programs that are necessary to comply with the performance standard governing 
-assembly, installation, adjustment, and testing or believe that they do not have adequate 
-assembly, installation, adjustment, and testing instructions to comply with applicable 
-regulations when assembled, installed, adjusted, and tested as directed should inform the 
-manufacturer and request clarification or access to the software. When evaluating this 
-information, FDA expects manufacturers to assess whether existing assembly, installation, 
-adjustment, and testing instructions meet the performance standard. Manufacturers must 
-take any corrective actions or submit any regulatory notifications that are required, such as 
-notifying FDA in accordance with 21 CFR 1003.20 (see 21 CFR 1003.10(a)) regarding the 
-manufacturer’s noncompliance with a performance standard governing information to be 
-provided to assemblers (21 CFR 1020.30(g)). 
-Additionally, the assembler may advise FDA about the concern in writing through the 
-CDRH Device Allegation process by submitting an allegation using the “Allegations of 
-Regulatory Misconduct” Form19 by email at CDRHDeviceAllegations@fda.hhs.gov, or by 
-regular mail.20 Should FDA determine that the manufacturer’s assembly, installation, 
-adjustment, and testing instructions are insufficient, then FDA has authority to review and 
-take suitable action. 
-All other persons who believe a manufacturer’s assembly, installation, adjustment, and 
-testing instructions are confusing, unclear, inadequate, or incorrect should inform the 
-manufacturer of the concern. 
-57. QUESTION: Are manufacturers required by the Performance Standards to provide 
-maintenance and repair instructions to users or others? 
-ANSWER: No. The Performance Standards only require manufacturers to provide a 
-schedule of maintenance (if any) necessary to maintain compliance with Performance 
-Standards (21 CFR 1020.30(h)(1)(ii)). For more direction regarding information disclosure 
-by manufacturers to assemblers, see FDA’s guidance entitled “Information Disclosure by 
-19 Available at https://www.fda.gov/medical-devices/reporting-allegations-regulatory-misconduct/allegations­
-regulatory-misconduct-form 
-20 The general steps CDRH takes after receiving an allegation of regulatory misconduct and some examples of the 
-kind of allegations the FDA has received are provided on our website at https://www.fda.gov/medical­
-devices/medical-device-safety/reporting-allegations-regulatory-misconduct 
-36
-
----
-
-<!-- Page 37 -->
-Contains Nonbinding Recommendations 
-Manufacturers to Assemblers for Diagnostic X-Ray Systems – Guidance for Industry and 
-FDA Staff.”21 
-58. QUESTION: How does the FDA interpret the phrase “cost not to exceed the cost of 
-publication and distribution,” as used in 21 CFR 1020.30(g)? 
-ANSWER: Manufacturers may charge for the cost of producing and distributing each 
-additional package or copy of instructions. The charge can incorporate expenses such as the 
-cost of paper, labor, use of a copying machine, shipping cost, or other costs associated with 
-each package or copy the manufacturer provides under the performance standard. For 
-software, recoverable charges equivalent to printed materials would include such expenses 
-as the cost of the labor (e.g., technical and clerical) of producing such additional package or 
-copy, computer disks, and packaging materials used to produce each additional package or 
-copy of software.  
-59. QUESTION: Some manufacturers include the assembly of their x-ray equipment as part of 
-the initial purchase. Are such manufacturers required to provide assembly instructions to 
-anyone who requests a copy? 
-ANSWER: Yes. Assembly instructions must be provided to assemblers and, upon request, 
-to others at a cost not to exceed the cost of publication and distribution (21 CFR 
-1020.30(g)). Even though the manufacturer may perform the initial assembly, the system 
-could subsequently be moved or sold and might need to be dismantled and then re­
-assembled by an assembler. 
-60. QUESTION: If two certified components depend on their compatibility to ensure compliance 
-with applicable Performance Standards (e.g., a high-voltage generator and a tube housing 
-assembly), but are made by different manufacturers, must both manufacturers state 
-compatibility between the two components? 
-ANSWER: In the information to be provided to assemblers (21 CFR 1020.30(g)), a 
-certified component manufacturer must include “specifications of other components 
-compatible with that to be installed when compliance of the system or subsystem depends 
-on their compatibility.” Any manufacturer that states compatibility is responsible for 
-ensuring that the integration of their component with the compatible component does not 
-interfere with the compliance of the compatible component or the assembled x-ray system, 
-and must in its instructions provide the specifications of other compatible components. 
-21 Available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/information-disclosure­
-manufacturers-assemblers-diagnostic-x-ray-systems-guidance-industry-and-fda 
-37
-
----
-
-<!-- Page 38 -->
-Contains Nonbinding Recommendations 
-G. 
-Accidental Radiation Occurrence 
-61. QUESTION: Does the requirement in 21 CFR 1002.20 concerning the reporting of 
-“accidental radiation occurrences” apply to foreign manufacturers of products sold in the 
-U.S.? 
-ANSWER: Yes. Foreign manufacturers of products sold in the U.S. are subject to, among 
-other requirements, the reporting requirements provided in 21 CFR 1002.20. 
-62. QUESTION: If an x-ray system initiated an exposure but encountered a fault and did not 
-collect an adequate image for review and a new exposure (rescan or restart) was initiated by 
-the operator to obtain an adequate image, should this be reported as an accidental radiation 
-occurrence (ARO)? 
-ANSWER: FDA does not consider an additional exposure commanded by the operator 
-(rescan or restart) to be an ARO reportable event (though, depending on the reason for the 
-additional exposure, such system might have a defect which relates to the safety of use by 
-reason of the emission of electronic product radiation under 21 CFR 1003.2(b)). FDA does 
-consider the following events to be reportable as AROs: 
-• Events where radiation emission was generated without a valid command from the 
-operator. 
-• Events where radiation emission was produced that was not at the technique factors 
-prescribed. 
-• Events where radiation emission does not stop when commanded. 
-63. QUESTION: Is there a lower threshold of radiation emission or received dose below which an 
-accidental radiation exposure is not reportable as an ARO? 
-ANSWER: Any dose of x-ray radiation is considered injurious or potentially injurious. 
-Leakage radiation from x-ray components, such as the diagnostic source assembly, is 
-known to occur. If the level does not exceed those prescribed in 21 CFR 1020.30(k) 
-(leakage radiation from the diagnostic source assembly) and 1020.30(l) (radiation from 
-components other than the diagnostic source assembly), it is not reportable as an ARO. But 
-any other exposure as a result of the manufacturing, testing, or use of an x-ray system that 
-was accidental should be reported as an ARO.  (See also question 62). In addition, if an 
-event occurs where the leakage radiation exceeds the limits of 21 CFR 1020.30(k) and 
-1020.30(l), then those events must be reported as AROs and the x-ray system may have a 
-defect (see also section I below). 
-38
-
----
-
-<!-- Page 39 -->
-Contains Nonbinding Recommendations 
-H. 
-Records 
-64. QUESTION: 21 CFR 1002.30(a)(1) and (2) require maintaining records relating to quality 
-control procedures and test results. How do these requirements apply to foreign 
-manufacturers, and where does FDA expect the records to be maintained? 
-ANSWER: Because all manufacturers are required to have quality control procedures and 
-testing programs (21 CFR 1010.2(c)), they are responsible for generating and maintaining 
-records of the results of these programs. Records must be maintained in a manner that 
-makes them available within a reasonable timeframe during an FDA inspection of the 
-manufacturing facility.  
-I. 
-Defects (See also questions 51 and 52) 
-65. QUESTION: Does a failure which prevents a diagnostic x-ray system from producing x-rays 
-meet the definition of a “defect” under 21 CFR 1003.2(b)? 
-ANSWER: Under 21 CFR 1003.2(b), an electronic product is considered to have a defect 
-which relates to the safety of use by reason of the emission of electronic product radiation 
-if it is a product which utilizes electronic product radiation to accomplish its primary 
-purpose and from which such emissions are intended, and as a result of its design, 
-production or assembly it fails to accomplish the intended purpose (21 CFR 1003.2(b)(3)) 
-or fails to conform to its design specifications relating to the emission of electronic product 
-radiation, including through the production of x-rays not in conformance with design 
-specifications (21 CFR 1003.2(b)(1)). If, as a result of the design, production, or assembly 
-of the x-ray system, the system emits x-rays not in conformance with its design 
-specifications or starts and then prematurely stops emitting x-rays during a procedure, then 
-the failure will be considered a defect in an electronic product by FDA under 21 CFR 
-1003.2(b). 
-For example, if, as a result of the system’s design, production, or assembly, the x-ray tube 
-in an x-ray system fails mid-exam, the amount of radiation emitted will result in an image 
-of inadequate quality, necessitating a retake of the image and, cumulatively, resulting in 
-excess radiation exposure to the patient. This x-ray system has a defect relating to safety of 
-use by reason of the emission of electronic product radiation. 
-Additionally, if, as a result of the system’s design, production, or assembly, the x-ray tube 
-in a fluoroscopic imaging device fails during an interventional surgical procedure, the loss 
-of imaging during the procedure is a serious safety issue; the procedure would need to be 
-halted or performed without the guidance of imaging, or the patient would need to be 
-transferred mid-procedure so that imaging can be resumed. This fluoroscopic imaging 
-device also has a defect relating to safety of use by reason of the emission of electronic 
-product radiation. 
-39
-
----
-
-<!-- Page 40 -->
-Contains Nonbinding Recommendations 
-66. QUESTION: Should a manufacturer give notification of the failure of a mechanism that is not 
-responsible for the emission of electronic product radiation (e.g., broken wheel or drive 
-mechanism failure on a mobile x-ray system) as a “defect” under 21 CFR 1003.2(b)? 
-ANSWER: FDA does not intend to enforce the notification requirements arising under 21 
-CFR Part 1003, subpart B, with respect to defects arising from mechanisms that are not 
-responsible for the emission of electronic product radiation at this time. Here, the broken 
-wheel or drive mechanism failure may be the result of the design, production, or assembly 
-of the system, but these mechanisms are not responsible for the emission of electronic 
-product radiation. 
-67. QUESTION: Does a burned-out x-ray tube that does not produce an x-ray as intended meet 
-the definition of a “defect” under 21 CFR 1003.2(b)? 
-ANSWER: A defect might arise under 21 CFR 1003.2(b)(3) if the product fails to 
-accomplish the intended purpose “as a result of its design, production or assembly.” 
-Because x-ray tubes have an expected lifetime that is influenced by the age and use of the 
-tube, the failure of an x-ray tube due to age and use will generally not be considered a 
-defect under 21 CFR 1003.2(b)(3), but rather a normal and expected failure of the x-ray 
-tube. However, an x-ray tube that stops producing an x-ray (e.g., burns out prematurely) as 
-a result of the design, production, or assembly of the tube housing assembly or other 
-components in the system might be considered to have a defect under 21 CFR 
-1003.2(b)(3), if it fails mid-exam, for example. A burned-out x-ray tube that emits 
-radiation but, as a result of its design, production or assembly, fails to emit x-rays in 
-conformance with its design specifications would be considered to have a defect under 21 
-CFR 1003.2(b)(1) due to a failure to conform to its design specifications relating to the 
-emission of electronic product radiation. (See also questions 65 and 69). 
-68. QUESTION: Are image artifacts such as blurring from patient motion, beam hardening 
-resulting from dense objects in the x-ray field, or CT reconstruction artifacts, considered 
-defects? 
-ANSWER: No. Artifacts such as those caused by patient motion, beam hardening resulting 
-from dense objects in the x-ray field, and CT reconstruction, are not considered defects. 
-However, an artifact caused by a failure related to the emission of radiation, such as 
-blurring caused by unexpected device movement during an exposure, which is the result of 
-the product’s design, production, or assembly, would indicate the presence of a defect. 
-69. QUESTION: Is a tube with an excessively large focal spot a “defect” under 21 CFR 1003.2 
-(i.e., the tube fails to meet the manufacturer’s specifications for focal spot size)? 
-ANSWER: If a tube is sold with a focal-spot size that exceeds its specifications, then there 
-is a defect because the product fails to conform to its design specifications relating to the 
-40
-
----
-
-<!-- Page 41 -->
-Contains Nonbinding Recommendations 
-emission of electronic product radiation (21 CFR 1003.2(b)(1)). If the tube met 
-specifications when it was sold, but no longer meets the specifications due to age or 
-misuse, that failure to meet specifications may or may not be considered a defect. Relevant 
-information may include whether the nonconformance with the specifications results from 
-its design, production, or assembly, whether the nonconformance results from normal wear, 
-and whether the nonconformance results from misuse of the equipment. A certain amount 
-of normal wear will occur in electronic products. If such normal wear results in radiation 
-emitted by the product exceeding the limit prescribed in an applicable standard, the 
-manufacturer may be charged with noncompliance because of their failure to design the 
-product to maintain an acceptable level of radiation leakage over its useful life. See FDA’s 
-Compliance Policy Guide (CPG) 390.200 Determination by Secretary that Product Fails to 
-Comply or has Defect – 21 CFR 1003.11.22 
-70. QUESTION: A manufacturer has found that some diagnostic x-ray systems that it shipped are 
-noncompliant with the beam quality requirements under 21 CFR 1020.30(m)(1) because the 
-manufacturer failed to install an aluminum filter plate in these systems. The manufacturer 
-knows that other systems tested at its manufacturing facility passed this requirement with the 
-filter plate installed, and therefore installing a filter plate will correct the noncompliant 
-systems. Can the manufacturer start correcting the noncompliant installed systems concurrent 
-with notification to FDA? 
-ANSWER: Yes. Upon discovery of a defect or failure to comply with an applicable 
-performance standard, a manufacturer shall immediately notify the FDA in accordance 
-with 21 CFR 1003.20 (see 21 CFR 1003.10(a)). Implementation of a corrective action plan 
-may begin prior to the plan’s approval by FDA. However, if the plan fails to correct the 
-noncompliance or defect, or if FDA otherwise does not approve the corrective action plan, 
-the manufacturer may be required to perform additional actions (21 CFR 1004.2 and 
-1004.6). To avoid this situation, a manufacturer should contact FDA regarding its 
-corrective action plan prior to the plan’s implementation. 
-71. QUESTION: What procedure does FDA follow upon discovering that a diagnostic x-ray 
-system or component fails to comply with the regulations or has a defect? 
-ANSWER: If FDA, through testing, inspection, research, or examination of reports or other 
-data, determines that a diagnostic x-ray system or component does not comply with an 
-applicable Federal standard issued pursuant to the Act or has a defect, it immediately 
-notifies the manufacturer of the product in writing specifying: 
-22 Available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/compliance-policy­
-guide-sec-390200-determination-secretary-product-fails-comply-or-has-defect-21-cfr 
-41
-
----
-
-<!-- Page 42 -->
-Contains Nonbinding Recommendations 
-a. FDA’s findings, with references to the tests, inspections, studies, or reports upon which 
-such findings are based (21 CFR 1003.11(a)(2)); 
-b. The defect in the product or the manner in which the product fails to comply with the 
-applicable Federal standard (21 CFR 1003.11(a)(1)); and 
-c. A reasonable period of time during which the manufacturer may present its views and 
-evidence to establish that there is no failure of compliance or that the alleged defect does 
-not exist or does not relate to safety of use of the product by reason of the emission of 
-electronic product radiation (21 CFR 1003.11(a)(3)). 
-21 CFR 1004.1 describes a manufacturer’s obligation to repair, replace, or refund the cost of 
-electronic products when any electronic product fails to comply with an applicable Federal 
-standard or has a defect and the notification specified in 21 CFR 1003.10(b) (required to be 
-submitted to FDA by a manufacturer who discovers that any electronic product produced, 
-assembled, or imported by it, which product has left its place of manufacture, has a defect or 
-fails to comply with an applicable Federal standard) is required to be furnished. 
-J. 
-Fluoroscopy (See also questions 51 and 52) 
-72. QUESTION: On June 10, 2006, several new requirements became effective for fluoroscopic 
-x-ray systems manufactured on or after that date. If new components manufactured on or after 
-June 10, 2006 are added to a fluoroscopic system manufactured before June 10, 2006, are the 
-new requirements applicable to the system? 
-ANSWER: No, the new requirements that became effective for fluoroscopic x-ray systems 
-manufactured on or after June 10, 2006 are only applicable if: 
-a. The complete system is certified and the system’s date of manufacture falls on or after 
-June 10, 2006; or 
-b. All of the certified components in the system were manufactured on or after June 10, 
-2006, as provided by each of their identification labels. 
-For additional information on these requirements, see FDA’s guidance entitled “Policy 
-Clarification for Certain Fluoroscopic Equipment Requirements.”23 
-73. QUESTION: The regulatory changes that became effective June 10, 2006 require 
-fluoroscopic equipment manufactured on or after that date to have a “last image hold” (LIH) 
-display and “clearly indicate” whether the displayed image is the LIH radiograph or 
-23 Available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/policy-clarification­
-certain-fluoroscopic-equipment-requirements 
-42
-
----
-
-<!-- Page 43 -->
-Contains Nonbinding Recommendations 
-fluoroscopy (i.e., a live image; 21 CFR 1020.32(j)(3)). How does FDA interpret the 
-requirement to “clearly indicate” which image is being displayed? 
-ANSWER: Any readily recognizable and distinguishable wording, icon, or image that is 
-prominently displayed on the images or at the location where the “image hold” and “live 
-image” information is displayed, in conjunction with clear explanations and descriptions in 
-the information to be provided to users (21 CFR 1020.30(h)(1)(i)) (e.g., manuals or 
-instructions) will satisfy the requirement under 21 CFR 1020.32(j)(3). 
-74. QUESTION: 21 CFR 1020.32(k) specifies that fluoroscopic equipment manufactured on or 
-after June 10, 2006 must display at the fluoroscopist’s working position both the air kerma 
-rate (AKR) and the cumulative air kerma. Would the display of the dose area product (DAP) 
-(also called kerma-area product) and the cumulative DAP satisfy these requirements? 
-ANSWER: No. Display of the DAP and cumulative DAP provide significantly different 
-information relating to the x-ray field than the AKR and the cumulative air kerma, and thus 
-do not satisfy 21 CFR 1020.32(k). 
-75. QUESTION: If a fluoroscopic system uses an under-table tube, and is also capable of spot-
-film exposures, is the tube considered a radiographic tube when used for spot-film exposures? 
-If it is considered a radiographic tube, where should the indicator be placed to show that it 
-was selected for an exposure, as required by 21 CFR 1020.31(k)? 
-ANSWER: The under-table tube is considered a radiographic tube when used for spot-film 
-exposures, but a separate indicator is not required. 21 CFR 1020.31(k) applies to the 
-situation where two or more tubes are controlled by the same exposure switch. Even 
-though the tube is typically controlled by a separate exposure switch when used for 
-radiography, it is not a separate tube. Therefore, the separate indication required by 21 CFR 
-1020.31(k) does not apply to the scenario here. 
-76. QUESTION: A fluoroscopic x-ray system was manufactured after May 19, 1995, and the 
-system limits the air kerma rate (AKR) to 88 mGy per minute (10 R per minute) by limiting 
-the maximum peak tube potential. However, the fluoroscopic AKR could exceed the 88 mGy 
-per minute limit momentarily (less than two seconds) if the operator changes to a higher mA 
-setting while x-rays are being produced. This occurs during the time that the peak tube 
-potential is driven down to a value sufficient to limit the AKR to 88 mGy per minute. The 
-alternative would be to terminate production of x-rays during this time, but that could lead to 
-a loss of important diagnostic information. The audible signal for high-level control (HLC) 
-mode is set so that anytime the AKR exceeds 88 mGy per minute, the signal is activated. Is 
-such a system acceptable? 
-ANSWER: No. For fluoroscopic equipment manufactured on or after May 19, 1995, AKRs 
-greater than 88 mGy per minute are allowed only during activation of HLC or during 
-43
-
----
-
-<!-- Page 44 -->
-Contains Nonbinding Recommendations 
-recording of fluoroscopic images (21 CFR 1020.32(d)(2)(iii)). A special means of HLC 
-activation is required (21 CFR 1020.32(d)(2)(iii)(C)). When HLC is activated, the audible 
-signal must also be activated, regardless of the actual AKR (21 CFR 1020.32(d)(2)(iii)(C)). 
-77. QUESTION: A manufacturer is planning to provide a HLC mode switch for fluoroscopy that 
-does not require continuous pressure for activation. The manufacturer believes this would be 
-safer because it would avoid accidental use of HLC by operators, free the operator from using 
-a hand or foot consciously and allow them to concentrate on the clinical procedure, and would 
-still provide a visual and audible warning immediately if the previous operator had left the 
-unit in HLC mode. Is this acceptable? 
-ANSWER: No. HLC mode shall be operable only when continuous manual activation of 
-the fluoroscopic HLC switch is provided by the operator (21 CFR 1020.32(d)(2)(iii)(C)). A 
-switch that activates the HLC mode without continuous pressure could activate HLC mode 
-indefinitely and does not provide the positive means required in the Performance Standards 
-(21 CFR 1020.32(d)(2)(iii)(C)). 
-78. QUESTION: In certain fluoroscopy systems, the peak tube current is not user selectable. It 
-remains constant and the average current changes automatically by varying pulse width and 
-frequency (frame rate). In these systems, where peak tube current is held constant, will a label 
-that provides the specified tube current meet the requirement of 21 CFR 1020.32(f)? 
-ANSWER: No. 21 CFR 1020.32(f) requires continuous indication of both x-ray tube 
-potential and tube current during any fluoroscopic exposure. A label is not an acceptable 
-substitute for a continuous indication and is noncompliant with 21 CFR 1020.32(f). 
-79. QUESTION: The June 10, 2006 regulatory changes in the fluoroscopic regulations included a 
-change under 21 CFR 1020.32(h)(2). A preset timer having a maximum cumulative time of 5 
-minutes is no longer required. Since this timer is not required for new equipment, may a 
-manufacturer remove or disable the 5 minute preset feature from older equipment when 
-customers request this modification? 
-ANSWER: Yes, as long as the fluoroscopic system is modified appropriately. The 
-regulatory changes that became effective on June 10, 2006 removed the requirement for the 
-5 minute preset timer limit, but replaced it with new requirements for several additional 
-features, as specified in 21 CFR 1020.32(h)(2). Under 21 CFR 1020.30(q)(2), the owner of 
-a diagnostic x-ray system may modify the system as long as the modification does not 
-create a failure to comply with any requirements in effect at the time the affected system or 
-component was manufactured. (See also question 4). Simply removing or disabling the 
-timer would create such a problem. However, under 21 CFR 1020.32(h)(1)(i) this 
-modification is permitted if the system is also modified to meet the requirements of 21 
-CFR 1020.32(h)(2), and if a label stating “Modified to comply with 21 CFR 1020.32(h)(2)” 
-is affixed to the control. 
-44
-
----
-
-<!-- Page 45 -->
-Contains Nonbinding Recommendations 
-K. 
-Specific components 
-(1) 
-Beam Limiting Devices (see also questions 13, 16, 19, 22, 
-and 100) 
-80. QUESTION: To produce a radiograph in a particular panoramic dental system, the diagnostic 
-source assembly and film cassette rotate about the patient’s head at a fixed Source-Image 
-Receptor Distance (SID) while the film is advanced through the film holder. A narrow slit in 
-the film cassette holder allows the useful x-ray beam to pass through while blocking scatter 
-radiation from the exposed and unexposed sections of the film. This produces a laminographic 
-view of the patient’s jaw and teeth. Is such a design consistent with the requirements of 21 
-CFR 1020.31? 
-ANSWER: Yes. However, for the panoramic unit described in the question, the image 
-receptor size is equal to that portion of the film instantaneously exposed through the slot in 
-the cassette holder, rather than the entire image receptor. This means that for dental 
-panoramic type units designed with a fixed SID and one image receptor size, the 
-dimensions of the portion of the x-ray beam whose intensity is equal to or greater than 25 
-percent of the maximum intensity of the x-ray field (21 CFR 1020.30(b)) at the front plane 
-of the cassette holder must be limited to the dimensions of the film instantaneously exposed 
-through the slot in the cassette holder (21 CFR 1020.31(f)(2)) and the center of the x-ray 
-field must be aligned with the center of the slot in the cassette holder within 2 percent of 
-the SID. Alternatively, means may be provided to both size and align an x-ray field such 
-that the x-ray field at the front plane of the cassette holder does not extend beyond any 
-edge of the slot in the cassette holder. 
-For dental panoramic type units in which the SID is variable, the x-ray beam dimensions 
-where the intensity is equal to or greater than 25 percent of the maximum intensity of the x-
-ray field (21 CFR 1020.30(b)) at the front plane of the cassette holder shall not exceed the 
-dimensions of the slot by more than 2 percent of the SID (21 CFR 1020.31(f)(4)). 
-Alternatively, means may be provided to both size and align an x-ray field such that the x-
-ray field at the front plane of the cassette holder does not extend beyond any edge of the 
-slot in the cassette holder. 
-81. QUESTION: A firm plans to manufacture and assemble cephalometric attachments designed 
-for use with conventional intraoral dental x-ray equipment. What beam limitation 
-requirements are applicable to the resulting system? 
-ANSWER: When a certified cephalometric beam limiting device is added to any existing 
-diagnostic x-ray system, means must be provided to limit and align the x-ray field to the 
-image receptor as specified in 21 CFR 1020.31(f)(2) or (f)(4), depending on which 
-regulation is applicable. Therefore, if the means for alignment is dependent on other 
-45
-
----
-
-<!-- Page 46 -->
-Contains Nonbinding Recommendations 
-apparatuses or certified components being installed (e.g., head positioners, cassette 
-holders), it may be necessary to install a complete cephalometric system. If the resulting 
-cephalometric system is designed to be operated at one SID and one image receptor size, 
-21 CFR 1020.31(f)(2) is applicable; otherwise, 21 CFR 1020.31(f)(4) is applicable. 
-82. QUESTION: Is it permissible for a beam limiting device to indicate the field size with a 
-number that, along with the SID, must be taken to a lookup table located elsewhere to 
-determine the numerical field size? 
-ANSWER: No. The beam limiting device shall numerically indicate the field size in the 
-plane of the image receptor to which it is adjusted (21 CFR 1020.31(e)(2)) and shall be 
-specified in inches and/or centimeters (21 CFR 1020.31(e)(3)). The use of a lookup table 
-which is not located on the beam limiting device does not satisfy the requirements of 21 
-CFR 1020.31(e). 
-(2) 
-Controls (See also questions 19, 35, and 36) 
-83. QUESTION: Users have requested that manufacturers install a remote exposure switch to 
-permit the operator to be located further away from the x-ray beam and patient than normally 
-would be permitted by the use of a retractable cord. The remote exposure switch would be 
-provided in a separate box, on which are mounted the exposure switch, a light indicating that 
-power is on to the entire control, and a light that indicates exposure. Is such an installation 
-allowed by the regulations? 
-ANSWER: Yes, as long as the following requirements are met: 
-• The control panel containing the main power switch bears the warning statement 
-required under 21 CFR 1020.30(j), legible and accessible to view, and indication of 
-technique factors to be used during an exposure are visible from the operator’s position 
-except in the case of spot films made by the fluoroscopist. (21 CFR 1020.31(a)(1)); 
-• At the remote location, the beam-on indicators required by 21 CFR 1020.31(j) are 
-provided (both a visual indication of x-ray production and a signal audible to the 
-operator to indicate that the exposure has terminated); and 
-• The instructions for assembly governing this remote switch option clearly address the 
-two conditions above (21 CFR 1020.30(g)). 
-84. QUESTION: When a diagnostic x-ray system with a single x-ray control is used to control the 
-operation of two or more diagnostic source assemblies (DSAs), how should the system 
-indicate which tube or tubes have been selected? 
-46
-
----
-
-<!-- Page 47 -->
-Contains Nonbinding Recommendations 
-ANSWER: Where two or more radiographic tubes are controlled by one exposure switch, 
-the tube or tubes which have been selected must be clearly indicated before initiation of the 
-exposure (21 CFR 1020.31(k)). This indication must be provided on both the x-ray control 
-and at or near the tube housing assembly that has been selected (21 CFR 1020.31(k)). This 
-could be accomplished with a graphical representation of the x-ray system at the x-ray 
-control which indicates the active tube with lights or color accents. Alternatively, clear 
-language may be presented to the user at the x-ray control such as “under-table tube active” 
-or “over-table tube active”. 
-85. QUESTION: When a diagnostic x-ray system with a single x-ray control is used to control the 
-operation of two or more DSAs, does the linearity requirement (21 CFR 1020.31(c)) apply 
-between the two DSAs? 
-ANSWER: No. If two or more DSAs are operated from the same control, each combination 
-of DSA and x-ray control will be considered as a separate system for the purpose of 
-determining applicability of the linearity requirement. Therefore, linearity is applicable for 
-each such combination of DSA and x-ray control, but not between the two DSAs. 
-(3) 
-Filters 
-86. QUESTION: How have the minimum half-value layer (HVL) requirements (21 CFR 
-1020.30(m)) changed since June 9, 2006? 
-ANSWER: The minimum HVL requirements for all x-ray systems manufactured on or 
-after June 10, 2006 (except dental x-ray systems designed for use with intraoral image 
-receptors), have been increased as specified by Table 1 of 21 CFR 1020.30(m). 
-The shaded-gray, right-most column in Table 2 (21 CFR 1020.30(m), Table 1) shows the 
-increased values. 
-Table 2. Minimum HVL requirements (21 CFR 1020.30(m) TABLE 1) 
-X-Ray Tube Voltage 
-(kilovolt peak) 
-Minimum HVL 
-(mm of aluminum) 
-Designed 
-Operating 
-Range 
-Measured 
-Operating 
-Potential 
-Specified 
-Dental 
-Systems1 
-I—Other 
-X-Ray 
-Systems2 
-II—Other 
-X-Ray 
-Systems3 
-Below 51 
-30 
-1.5 
-0.3 
-0.3 
-40 
-1.5 
-0.4 
-0.4 
-47
-
----
-
-<!-- Page 48 -->
-Contains Nonbinding Recommendations 
-50 
-1.5 
-0.5 
-0.5 
-51 to 70 
-51 
-1.5 
-1.2 
-1.3 
-60 
-1.5 
-1.3 
-1.5 
-70 
-1.5 
-1.5 
-1.8 
-Above 70 
-71 
-2.1 
-2.1 
-2.5 
-80 
-2.3 
-2.3 
-2.9 
-90 
-2.5 
-2.5 
-3.2 
-100 
-2.7 
-2.7 
-3.6 
-110 
-3.0 
-3.0 
-3.9 
-120 
-3.2 
-3.2 
-4.3 
-130 
-3.5 
-3.5 
-4.7 
-140 
-3.8 
-3.8 
-5.0 
-150 
-4.1 
-4.1 
-5.4 
-1 Dental x-ray systems designed for use with intraoral image receptors and manufactured 
-after December 1, 1980. 
-2 Dental x-ray systems designed for use with intraoral image receptors and manufactured 
-before or on December 1, 1980, and all other x-ray systems subject to this section and 
-manufactured before June 10, 2006. 
-3 All x-ray systems, except dental x-ray systems designed for use with intraoral image 
-receptors, subject to this section and manufactured on or after June 10, 2006. 
-87. QUESTION: 21 CFR 1020.30(m)(1) specifies that, for diagnostic x-ray systems, “positive 
-means” must be provided to ensure the minimum filtration beam quality requirement is met 
-for each exposure. In systems having variable filtration capability, where special radiographic 
-techniques require temporary disengagement of the filter and/or mirror optic system, would a 
-special tool with appropriate warnings and instructions that would disengage the filtration 
-elements meet the requirements of “positive means”? 
-ANSWER: No, a special tool would not qualify as being a “positive means.” To meet the 
-requirement of “positive means,” the manufacturer should design the equipment so that 
-exposure is inhibited until the proper filtration is in the beam (21 CFR 1020.30(m)(1)). 
-Although special tools may be used to remove the filter during servicing, the operator 
-should not have to routinely add and/or remove it during normal use. In the case of a 
-diagnostic x-ray system that is to be operated with more than one thickness of filtration, 
-this requirement can be met by a filter interlocked with the kilovoltage selector that will 
-prevent x-ray emissions if the minimum required filtration is not in the beam. 
-48
-
----
-
-<!-- Page 49 -->
-Contains Nonbinding Recommendations 
-NOTE: A requirement to provide optional additional filtration is provided in 21 CFR 
-1020.30(m)(2) for certain fluoroscopic systems manufactured on or after June 10, 2006. 
-88. QUESTION: Do the Performance Standards cover use of a filter of varying thickness (beam-
-shaper) to obtain a uniform exposure at the surface of the film during an examination? 
-ANSWER: No. The Performance Standards do not place requirements on such filtration, 
-but they do set requirements in Table 1 of 21 CFR 1020.30(m)(1) for minimum beam 
-quality. (See also questions 86 and 87). FDA will test systems for compliance with the 
-compensation filter in place and the beam-limiting device opened to the widest setting to 
-make the half-value layer determination. Since the filtration is not uniform across the 
-useful beam, the region of minimum thickness will be the value used to determine 
-compliance. 
-89. QUESTION: A manufacturer produces an x-ray system rated nominally at 70 kVp and has 
-established a kVp tolerance of plus or minus 5 percent (±5%). If the measured kVp of the 
-system is 73, and referencing Table 1 of 21 CFR 1020.30(m)(1), must the minimum half-
-value layer (HVL) be at least 2.6 mm of aluminum (by linear interpolation from the “above 
-70” kVp section) or 1.9 mm of aluminum (by linear extrapolation from the “51 to 70” kVp 
-designed operating range)? 
-ANSWER: 1.9 mm of aluminum is an acceptable value. In 21 CFR 1020.30(h)(3) and 
-1020.31(a)(4), each manufacturer is required to establish and state its own technique factor 
-accuracy specifications. If a machine is designed to operate only in the range of 51 to 70 
-kVp, the appropriate range in Table 1 of 21 CFR 1020.30(m)(1) for determining HVL 
-compliance is the 51 to 70 kVp range, regardless of whether the measured kVp exceeds 70 
-or falls below 51 kVp. If the measured kVp value falls outside of this range, the 
-manufacturer should determine the correct HVL by linear extrapolation from Table 1 under 
-21 CFR 1020.30(m)(1). The manufacturer should extrapolate from the values for HVL 
-given for the two kVp values (within the designed operating range) that are closest to the 
-measured kVp. In this example, the HVL value for 73 kVp should be extrapolated from the 
-51 to 70 kVp operating range and the correct minimum HVL is 1.89 mm of aluminum. 
-If a system is designed to operate in multiple kVp ranges, the appropriate range for 
-determining HVL compliance is dictated by the selected operating tube potential. 
-(4) 
-Image Receptors 
-90. QUESTION: Under 21 CFR 1020.30(a)(1)(i)(F), the June 10, 2006 update of the Performance 
-Standards now includes “Image receptors that are electrically powered or connected with the 
-x-ray system manufactured on or after June 10, 2006,” as certifiable components of diagnostic 
-x-ray systems. How does FDA interpret this change and what requirements are applicable to 
-the covered products? 
-49
-
----
-
-<!-- Page 50 -->
-Contains Nonbinding Recommendations 
-ANSWER: FDA generally enforces 21 CFR 1020.30(a)(1)(i)(F) only with respect to those 
-electrically powered image receptors that are used as fluoroscopic image receptors. This 
-includes image receptors that are used for a combination of both fluoroscopy and 
-radiography. FDA does not intend to enforce the requirements under 21 CFR 
-1020.30(a)(1)(i)(F) to electrically powered image receptors used in radiographic-only 
-systems at this time. 
-NOTE: Additional requirements may apply to image receptors if they perform additional 
-functions where requirements are specified in the Performance Standards. (See also 
-question 7). 
-91. QUESTION: What additional information is required to be provided to users regarding image 
-receptors that are electrically powered or connected? 
-ANSWER: For x-ray systems manufactured on or after June 10, 2006 that produce images 
-using a fluoroscopic image receptor, the following information is required by 21 CFR 
-1020.30(h)(5) and must be provided in a separate, single section of the user’s instruction 
-manual or in a separate manual devoted to this information: 
-“(i) For each mode of operation, a description of the mode and detailed instructions on how 
-the mode is engaged and disengaged. The description of the mode shall identify those 
-technique factors and system controls that are fixed or automatically adjusted by selection of 
-the mode of operation, including the manner in which the automatic adjustment is 
-controlled. This information shall include how the operator can recognize which mode of 
-operation has been selected prior to initiation of x-ray production. 
-(ii) For each mode of operation, a descriptive example(s) of any specific clinical 
-procedure(s) or imaging task(s) for which the mode is recommended or designed and how 
-each mode should be used. Such recommendations do not preclude other clinical uses.” 
-For additional information on requirements for these image receptors, see FDA’s guidance 
-entitled “Guidance for the Submission of 510(k)s for Solid State X-ray Imaging 
-Devices.”24 
-92. QUESTION: Would it be permissible to control a light localizer with two switches 
-performing the following functions: 
-a. When switch number 1 is activated, the light intensity is equal to about 100 lux at 100 
-cm; and 
-24 Available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-submission­
-510ks-solid-state-x-ray-imaging-devices 
+Addition of URLs to Electronic Product Labeling,”12 FDA recommends, when feasible, that manufacturers add their URL to their electronic product tag or label, in addition to the identification information required under 21 CFR 1010.3(a)(1) and (2).
+33. QUESTION: 21 CFR 1020.30(e) requires manufacturers of diagnostic x-ray components that
+are subject to the Performance Standards to permanently inscribe or affix to each component the model number and serial number (identification labels) of the component. How does the FDA interpret this requirement?
+ANSWER: 21 CFR 1020.30(e) specifies that a model number and serial number shall be inscribed or affixed to a component, and that the word “model” or “type” shall appear as part of the manufacturer’s required identification of certified x-ray components. A model designation should describe only one certified component, and it should not be used to describe an assemblage of components except as specified in 21 CFR 1020.30(e) or as specifically authorized by the FDA. (See also questions 12, 13, 14, 15 16, and 18). Highvoltage generators contained within tube housings and beam-limiting devices that are integral parts of tube housings are excepted from the requirement of 21 CFR 1020.30(e) that manufacturers of components subject to the Specific Performance Standards permanently inscribe or affix thereon the model number and serial number of the product so that they are legible and accessible to view.
+34. QUESTION: Is specific wording required to meet the labeling requirement for specific
+component identification?
+ANSWER: Yes, in addition to the identification requirements of 21 CFR 1010.3, 21 CFR 1020.30(e) describes additional identification labeling requirements for components of a diagnostic x-ray system by specifying the listing of model and serial numbers. The specified format calls for the word “model” or “type” to appear on the label. Tube housing assemblies require additional information on their identification label. The name of the manufacturer, the model number, and the serial number of the x-ray tube insert must also appear on the identification label (21 CFR 1020.30(e)(1)). The replacement of the x-ray tube insert in a previously certified tube housing assembly constitutes manufacture of a new tube housing assembly; this requires the manufacturer to remove, cover, or deface any Warning Labels
+The control panel is the means used by the operator to set technique factors (21 CFR 1020.30(b)). The prescribed warning statement must be present on the control panel, and this label must be legible and accessible to view and should be viewable by the operator during adjustment of technique factors (21 CFR 1020.30(j)) (see also questions 20, 36, and 83). The control panel may be physically co-located with the control (i.e., mounted directly to the cabinet) or separated from the control (i.e., a satellite or remote panel). The control panel may consist of a single operator interface or multiple operator interfaces.
+35. QUESTION: Has the wording for the warning label (21 CFR 1020.30(j)) on the control panel
+changed as a result of the June 10, 2006 amendments to the performance standard?
+ANSWER: Yes. The change adds “maintenance schedules” to the required wording of the warning label as prescribed in 21 CFR 1020.30(j), as follows: a. New controls manufactured on or after June 10, 2006: “Warning: This x-ray unit may be dangerous to patient and operator unless safe exposure factors, operating instructions and maintenance schedules are observed.” b. Old controls manufactured prior to June 10, 2006: “Warning: This x-ray unit may be dangerous to patient and operator unless safe exposure factors and operating instructions are observed.” NOTE: FDA does not intend to object to a warning that differs slightly from the standard if it is more forceful and restrictive in content and each aspect of the warning label (i.e., safe exposure factors, operating instructions, and maintenance schedules) is addressed in the warning.
+36. QUESTION: 21 CFR 1020.30(j) requires a warning label on the control panel. Modern
+control panels may incorporate or be wholly replaced by a computer that serves as a user interface for purposes of adjusting technique factors and for the initiation of x-ray exposure.
+Can a manufacturer propose to display the required warning statement on the computer monitor screen?
+ANSWER: Yes. 21 CFR 1020.30(j) does not specifically address computerized control of x-ray production. A control panel may include controls and control panels utilizing a computer as a user interface.
+Software may incorporate certification and identification statements within the code that are reflective of labels affixed to the x-ray control (e.g., on the electronics cabinet or operator console). Software performing x-ray control functions should also incorporate a means to electronically display the required warning statement on each computer/terminal used as a control panel unless a permanent warning label is present. (See also question 20).
+### C. Date of Manufacture (See also question 29)
+37. QUESTION: Several of the applicable Performance Standards differ based on whether the
+equipment was manufactured before June 10, 2006. How does a manufacturer determine if its system is required to comply with the updated Performance Standards?
+ANSWER: An x-ray system must comply with the updated Performance Standards that are in effect for equipment manufactured on or after June 10, 2006, when: 1) The complete system is certified (21 CFR 1002.1, Table 1, Footnote 4) and the system’s date of manufacture falls on or after June 10, 2006; or 2) All of the certified components in the system were manufactured on or after June 10, 2006, as provided by each of their identification labels.
+If a system’s date of manufacture is before June 10, 2006, and a certified component with a date of manufacture on or after June 10, 2006 is used to replace an existing component in this system, the new component must comply with the applicable updated Performance Standards; however, the system is not required to comply with all of the updated
+Performance Standards as a result of installing the single new certified component.
+If a certified component with a date of manufacture before June 10, 2006 is installed into a certified system manufactured on or after June 10, 2006, then the system is still required to conform to all of the updated Performance Standards. Repair of a certified component does not change the date of manufacture of either the component or system used to determine which Performance Standards are applicable.
+Example 1: An air kerma display manufactured in 2007 could be used to replace an air kerma display on a fluoroscopic x-ray system manufactured in 2005. This new air kerma display must be certified to conform to the Performance Standards applicable on its date of manufacture (e.g., 21 CFR 1020.32(k)). However, the fluoroscopic x-ray system would not be required to conform to other updated Performance Standards applicable on or after June 10, 2006 as a result of installing the single new certified air kerma display.
+Example 2: A fluoroscopic x-ray system was manufactured in 2007 and certified as a system using a certified air kerma display which was manufactured in 2005. Because the xray system was certified as a system and the system’s date of manufacture is in 2007, the system is still required to conform to all of the updated Performance Standards applicable on or after June 10, 2006, even though the updated Performance Standards did not apply to the air kerma display as of its own date of manufacture.
+For CT systems manufactured on or after September 3, 1985, the date of manufacture of the system is defined as the date of manufacture of the CT gantry, as provided by the identification labeling (21 CFR 1020.30(a)(3)).
+38. QUESTION: When an existing diagnostic x-ray system is disassembled or removed from its
+original location and reassembled at a different location, does its “date of manufacture” change?
+ANSWER: No. A system that is disassembled and reassembled with the same components retains its previous date(s) of manufacture.
+For additional information on assembly of diagnostic x-ray equipment, see FDA’s guidance entitled “Guidance for Industry and Food and Drug Administration Staff - Assembler’s Guide to Diagnostic X-Ray Equipment.”13
+### D. Measurements
+39. QUESTION: There are many references in Radiological Health Regulations to test programs
+used to determine compliance with the Performance Standards. (See 21 CFR 1020.30(k), (l), (m)(3), (n), 1020.31(b)(2), (c)(3), (d)(2)(iii), (e)(4), (g)(3), (h)(2), (l), (m)(3), 1020.32(a)(2), (b)(1), (d)(3)). Is a manufacturer required to develop its quality control testing program to use these test programs exactly?
+ANSWER: The test programs described in these portions of the Performance Standards must generally be used in a manufacturer’s quality control testing program. If a manufacturer wishes to use test programs other than those set forth in the Radiological
+Health Regulations, it may submit a written application to that effect, in which case the Director, Center for Devices and Radiological Health, will decide the matter in accordance with 21 CFR 1010.13. However, in the absence of an alternate test procedure authorized under 21 CFR 1010.13, FDA does not intend to object to an alternate test procedure for diagnostic x-ray equipment if a manufacturer has validated its test program and the test program is adequate to ensure conformance of the assembled x-ray system to the relevant
+Performance Standards. It is the manufacturer’s responsibility to maintain records
+For example, when measuring exposure time for three-phase equipment, one manufacturer may specify the measurement by defining it as the time between the beginning and end of the exposure cycle, while another manufacturer may define it in some other way. In some cases, the measurement criteria may vary among models produced by the same manufacturer. A statement of the measurement criteria used must be provided in the manufacturer’s literature to allow meaningful comparisons (21 CFR 1020.30(h)(3)(viii)).
+42. QUESTION: Does the linearity requirement of 21 CFR 1020.31(c) apply to the x-ray system
+as a whole or to individual components? Some systems are composed of components that may have different maximum limiting specifications. If so, is the linearity requirement of the system in a compliance test restricted to the maximum value as specified by the manufacturer’s rating of the limiting component?
+ANSWER: The requirement in 21 CFR 1020.31(c) applies to the x-ray system.  Testing compliance for linearity of the maximum milliampere-second product selection or maximum current setting of the system is limited by the manufacturer’s rating of the limiting component.
+43. QUESTION: When measuring leakage from the diagnostic source assembly, may the main
+beam be blocked at the exit end of the beam-limiting device?
+ANSWER: Yes. Note that, as defined in 21 CFR 1020.30(b), leakage radiation “means radiation emanating from the diagnostic source assembly except for . . . [t]he useful beam,” and useful beam is defined in 21 CFR 1020.30(b) as “radiation which passes through the tube housing port and the aperture of the beam-limiting device . . .” This means radiation passing through the aperture of the beam-limiting device is not leakage radiation and therefore is not subject to the leakage requirement. Thus, the proposal of blocking the aperture at the exit end of the beam-limiting device is appropriate.
+### E. Models (See also questions 33and 34)
+44. QUESTION: A firm manufactures several slightly different versions of certain component
+models. Must each version have its own unique model number?
+ANSWER: It depends on the differences among the versions. 21 CFR 1000.3(o) defines model as “any identifiable, unique electronic product design, and refers to products having the same structural and electrical design characteristics and to which the manufacturer has assigned a specific designation to differentiate between it and other products produced by that manufacturer.” If the different versions have different structural or electrical design characteristics, including compatibility issues, they must have different model numbers (21 CFR 1000.3(o), 1020.30(e)). However, if the differences are cosmetic (such as different paint colors), it is acceptable to use the same model number for the different versions.
+45. QUESTION: Under 21 CFR 1020.30(e), each certifiable component must have a model and
+serial number. May manufacturers use any alphanumeric format in standard English characters for these numbers (e.g., “BLK012,” “100245,” or “ALMM”)?
+ANSWER: Any alphanumeric format is acceptable for model and serial numbers as long as the model number and the serial number are unique to that component, or approved singlelabeled system or single-labeled subsystem as authorized by FDA.
+### F. Assembly (See also questions 5, 6, 23, 24, and 38)14
+46. QUESTION: Form FDA 2579, “Report of Assembly of a Diagnostic X-ray System” is used
+by assemblers to report the installation of diagnostic x-ray systems and/or their major components. In a case where purchasers or their employees install certified components or
+Administration Staff - Assembler’s Guide to Diagnostic X-Ray Equipment.” systems, do the purchasers then become “assemblers,” as defined in the regulations? Must they file Form FDA 2579?
+ANSWER: In this situation, the purchasers or their employees become assemblers. 21 CFR 1020.30(b) defines an assembler as “any person engaged in the business of assembling, replacing, or installing one or more components into a diagnostic x-ray system or subsystem. The term includes the owner of an x-ray system or his or her employee or agent who assembles components into an x-ray system that is subsequently used to provide professional or commercial services.” Therefore, anyone who installs certified components or systems meets the definition of an assembler (21 CFR 1020.30(b)). Unless they meet one of the exceptions to the reporting requirements provided under 21 CFR 1020.30(d)(2), the assembler must submit a report of assembly (Form FDA 2579, see 21 CFR 1020.30(d)(1)) to the purchaser, and, where applicable, to the State agency responsible for radiation protection. The form does not need to be submitted to FDA. The requirements of 21 CFR Part 1002—Records and Reports are not applicable to assemblers of diagnostic xray equipment subject to the provisions of 21 CFR 1020.30(d), provided the assembler has submitted the required report of assembly and retains a copy of such report for a period of 5 years from its date (21 CFR 1002.1(c)(4)).15 For additional details and exceptions on when to file Form FDA 2579, see FDA’s guidance entitled “Guidance for Industry and
+Food and Drug Administration Staff - Assembler’s Guide to Diagnostic X-Ray Equipment.”16
+47. QUESTION: Must a Form FDA 2579 be filed when an assembler installs used certified
+equipment that has been donated?
+ANSWER: Yes. The regulations make no distinction regarding the method of acquisition of the equipment. When an assembler installs certified equipment for use on humans, they are required to file Form FDA 2579 (21 CFR 1020.30(d)(1)), regardless of how the equipment is acquired.
+48. QUESTION: What date should be used as the “date of installation” on Form FDA 2579
+(Report of Assembly of a Diagnostic X-ray System)?
+ANSWER: The date of installation of a diagnostic x-ray system or component is considered to be the date the x-ray system or component is released by the assembler to the facility or user for use on humans. Assemblers have fifteen (15) days following completion of assembly to complete and distribute Form FDA 2579 before they are considered to be in violation of 21 CFR 1020.30(d)(1). Form FDA 2579 should properly indicate the actual 15 Information on obtaining Form FDA 2579 may be found at https://www.fda.gov/about-fda/reports-manualsforms/forms Form FDA 2579.
+49. QUESTION: What are the manufacturer’s and assembler’s responsibilities relative to final
+testing of a newly-assembled x-ray system or component before it is released to the user?
+ANSWER: Manufacturer’s Responsibilities: Manufacturers certify that each of their products meet all applicable requirements when installed according to their instructions for assembly, installation, adjustment, and testing. Descriptions of any testing that must be performed after installation in order to ensure compliance with the applicable Performance
+Standards should be included in these instructions. This information shall be provided to assemblers (21 CFR 1020.30(g)). The instructions for testing of components must be adequate to assure that the products will comply with the applicable Performance Standards when assembled, installed, adjusted, and tested as directed.
+Step-by-step instructions and a thorough explanation of the required test equipment should be provided. The instructions should include a requirement to record those key data that will permit demonstration that all specified tests were performed and that the equipment was installed and tested in compliance with the assembly instructions. Manufacturers who rely on the results from tests performed during assembly to support their certification but do not include final compliance testing in their assembler instructions may have their quality control and testing programs disapproved (21 CFR 1010.2(c)).
+Assembler’s Responsibilities: Assemblers of diagnostic x-ray equipment must perform all testing specified in the assembly instructions provided by the component or system manufacturer(s) at the time of installation (21 CFR 1020.30(d)). Assemblers who file a report of assembly (pursuant to 21 CFR 1020.30(d)(1)), but fail to perform, and document the results of, final compliance tests as required by the manufacturer(s) may be considered by the FDA to have issued a false and misleading certification and may be subject to regulatory action by the FDA. Assemblers shall not be liable for noncompliance of a certified component if the assembly of that component was performed according to the component manufacturer’s instruction (21 CFR 1020.30(d)).
+50. QUESTION: An assembler determines that the available rated line voltage and/or range of
+line voltage regulation is not within the manufacturer’s specified requirements. May this installation be completed?
+ANSWER: No. The installation described here is not permitted. The manufacturer must provide assembly instructions adequate to assure compliance of its components with the applicable Performance Standards (21 CFR 1020.30(c) and (g)), which must include a statement of the rated line voltage and the range of line-voltage regulation for operation at maximum line current (21 CFR 1020.30(g)(1)), and the assembler shall assemble, install, adjust, and test the certified components according to the instructions of the manufacturer (21 CFR 1020.30(d)). The assembly described here cannot be performed according to the manufacturer’s instructions and should not be completed.
+51. QUESTION: A firm manufactured and sold a fluoroscopic C-arm system that was fully
+compliant with the Performance Standards if installed and assembled according to its instructions. However, this particular system was incorrectly installed and assembled, and is noncompliant with the Performance Standards. Is the manufacturer responsible for correcting the noncompliant system?
+ANSWER: No. Manufacturers are not responsible for noncompliance of their products if that noncompliance is due solely to the improper installation or assembly of that product by another person (21 CFR 1020.30(c)). However, manufacturers are responsible for providing assembly instructions adequate to assure compliance of their components with the applicable provisions of the Performance Standards (21 CFR 1020.30(g)).
+52. QUESTION: A firm manufactured, sold, and installed a fluoroscopic C-arm system that was
+fully compliant with the Performance Standards when it was assembled. However, the owner’s service engineer adjusted the tube output to increase the air kerma rate. The maximum air kerma rate after the adjustment was found to be 120 mGy per minute and, as a result, the system fails to comply with 21 CFR 1020.32(d)(2)(ii). The facility’s medical physicist notified the assembler that the system needs to be adjusted to comply with the
+Performance Standards. Is the assembler or manufacturer responsible for adjusting the system at no cost to the user?
+ANSWER: No. If the owner’s service engineer did not adjust the system by following the assembly, installation, adjustment, and testing instructions, the manufacturer is not responsible for the failure to comply. (See also question 51). However, if the owner’s service engineer adjusted the system by following the assembly, installation, adjustment, and testing instructions, and the resulting air kerma rate did not meet the requirement provided in 21 CFR 1020.32(d)(2)(ii), the manufacturer is responsible for the failure to comply and must act according to 21 CFR 1003.10, including notification to the Secretary (21 CFR 1003.20), notification to affected persons (21 CFR 1003.21), and unless exempted from notification requirements (21 CFR Part 1003, Subpart D), repurchase, repair, or replace the system at no cost to the user (21 CFR Part 1004).
+53. QUESTION: 21 CFR 1020.31(b)(2), “Measuring Compliance,” appears to limit an assembler
+to install systems where only plus or minus 1 percent (1%) line-voltage regulation is available. Is this correct?
+ANSWER: 21 CFR 1020.31(b) provides certain requirements that apply when the equipment is operated on an adequate power supply as specified by the manufacturer in accordance with the requirements of 21 CFR 1020.30(h)(3). The plus or minus 1 percent (1%) line-voltage regulation in 21 CFR 1020.31(b)(2) means that if the line voltage regulation (expressed as a percent) for one measurement departs from the mean value of line voltage regulation for any of the 10 measurements (expressed as a percent) by more than 1 percent, the test result does not demonstrate compliance. However, because the available line voltage regulation may vary in real world hospital installations settings (e.g., plus or minus 2 percent), FDA does not intend to object if a manufacturer establishes alternative specifications for adequate line voltage regulation that must be provided for the assembled system. The manufacturer must provide a statement of the rated line voltage and the range of line-voltage regulation for operation at maximum line current to assemblers (21 CFR 1020.30(g)(1)). Further, 21 CFR 1020.31(b)(1) provides that, for any specific combination of selected technique factors, the estimated coefficient of variation of the air kerma shall be no greater than 0.05. FDA does not intend to object if a manufacturer uses alternate test procedures in their test program to measure compliance to 21 CFR 1020.31(b)(1) under their modified line-voltage regulation specifications, provided that they have been validated as adequate to ensure conformance when a line-voltage regulation of plus or minus 1 percent is used. It is the manufacturer’s responsibility to maintain records pertaining to its quality control testing, including the basis for selecting any alternate test procedures (21 CFR 1002.30(a)(2)). (See also question 39).
+(1)
+Assembly Instructions (See also questions 49, 50, and 51)
+Manufacturers of components identified in 21 CFR 1020.30(a)(1) are required to provide assemblers with adequate instructions for assembly, installation, adjustment and testing of those components (21 CFR 1020.30(g)). While manufacturers are generally not required to disclose trade secrets or confidential information, the instructions must be adequate to assure that the products will comply with the applicable provisions of the Performance Standards when assembled, installed, adjusted, and tested as directed (21 CFR 1020.30(g)). Manufacturers of diagnostic x-ray systems and components must provide these instructions to assemblers and, upon request, to other interested parties at a cost not to exceed the cost of publication and distribution (21 CFR 1020.30(g)).
+In addition, manufacturers of x-ray equipment, including components, are required to provide to purchasers, and upon request, to others, manuals or instruction sheets with the information required under 21 CFR 1020.30(h).
+Additional information is available in FDA’s guidance entitled “Information Disclosure by
+Manufacturers to Assemblers for Diagnostic X-ray Systems – Guidance for Industry and FDA Staff.”17 However, assembly of a manufacturer’s system may require the use of unique software programs to assure a compliant assembly. Must the manufacturer provide access to these software programs as part of the information to be provided to assemblers?
+ANSWER: Yes. If assembly, installation, adjustment, and testing of the certified components requires the use of unique software programs, then access to those software programs must be provided to assemblers and, upon request, to others at a cost not to exceed the cost of publication and distribution (21 CFR 1020.30(g)). If adequate instructions to complete a compliant installation can only be conveyed by other modes (e.g., instructional videos or in-person training), then those forms of instructions must similarly be provided at a cost not to exceed the cost of publication and distribution.
+Some manufacturers bundle the unique software programs covered by 21 CFR 1020.30(g) with other types of proprietary software; in some instances, the proprietary software cannot be deleted from the bundled information. Nothing in 21 CFR 1020.30 prohibits bundling software information or programs; however, the practice does not relieve manufacturers of their responsibilities under the performance standard to provide the necessary documentation or software at a cost not to exceed the cost of publication and distribution.
+55. QUESTION: 21 CFR 1020.30(g) requires manufacturers to provide adequate instructions to
+complete a compliant installation of their component(s) into diagnostic x-ray systems. It is understood that if software is required to assure a compliant assembly, the manufacturer is required to provide the software. However, does 21 CFR 1020.30(g) apply to ancillary software developed by the manufacturer that may be helpful but is not required for such an installation?
+ANSWER: No. Some manufacturers have developed proprietary software beyond that required by 21 CFR 1020.30(g) for use as an aid during the assembly process. They are not required to provide such additional ancillary software.
+Additional information is available in FDA’s guidance entitled “Information Disclosure by
+Manufacturers to Assemblers for Diagnostic X-ray Systems – Guidance for Industry and FDA Staff.”18
+56. QUESTION: What should assemblers or others do if they believe they are not being provided
+access to software programs that are necessary to comply with the performance standard governing information to be provided to assemblers or believe that they do not have adequate Additionally, the assembler may advise FDA about the concern in writing through the CDRH Device Allegation process by submitting an allegation using the “Allegations of
+Regulatory Misconduct” Form19 by email at CDRHDeviceAllegations@fda.hhs.gov, or by regular mail.20 Should FDA determine that the manufacturer’s assembly, installation, adjustment, and testing instructions are insufficient, then FDA has authority to review and take suitable action.
+All other persons who believe a manufacturer’s assembly, installation, adjustment, and testing instructions are confusing, unclear, inadequate, or incorrect should inform the manufacturer of the concern.
+57. QUESTION: Are manufacturers required by the Performance Standards to provide
+maintenance and repair instructions to users or others?
+ANSWER: No. The Performance Standards only require manufacturers to provide a schedule of maintenance (if any) necessary to maintain compliance with Performance
+Standards (21 CFR 1020.30(h)(1)(ii)). For more direction regarding information disclosure by manufacturers to assemblers, see FDA’s guidance entitled “Information Disclosure by 20 The general steps CDRH takes after receiving an allegation of regulatory misconduct and some examples of the kind of allegations the FDA has received are provided on our website at https://www.fda.gov/medicaldevices/medical-device-safety/reporting-allegations-regulatory-misconduct
+Manufacturers to Assemblers for Diagnostic X-Ray Systems – Guidance for Industry and FDA Staff.”21
+58. QUESTION: How does the FDA interpret the phrase “cost not to exceed the cost of
+publication and distribution,” as used in 21 CFR 1020.30(g)?
+ANSWER: Manufacturers may charge for the cost of producing and distributing each additional package or copy of instructions. The charge can incorporate expenses such as the cost of paper, labor, use of a copying machine, shipping cost, or other costs associated with each package or copy the manufacturer provides under the performance standard. For software, recoverable charges equivalent to printed materials would include such expenses as the cost of the labor (e.g., technical and clerical) of producing such additional package or copy, computer disks, and packaging materials used to produce each additional package or copy of software.
+59. QUESTION: Some manufacturers include the assembly of their x-ray equipment as part of
+the initial purchase. Are such manufacturers required to provide assembly instructions to anyone who requests a copy?
+ANSWER: Yes. Assembly instructions must be provided to assemblers and, upon request, to others at a cost not to exceed the cost of publication and distribution (21 CFR 1020.30(g)). Even though the manufacturer may perform the initial assembly, the system could subsequently be moved or sold and might need to be dismantled and then reassembled by an assembler.
+60. QUESTION: If two certified components depend on their compatibility to ensure compliance
+with applicable Performance Standards (e.g., a high-voltage generator and a tube housing assembly), but are made by different manufacturers, must both manufacturers state compatibility between the two components?
+ANSWER: In the information to be provided to assemblers (21 CFR 1020.30(g)), a certified component manufacturer must include “specifications of other components compatible with that to be installed when compliance of the system or subsystem depends on their compatibility.” Any manufacturer that states compatibility is responsible for ensuring that the integration of their component with the compatible component does not interfere with the compliance of the compatible component or the assembled x-ray system, and must in its instructions provide the specifications of other compatible components.
+### G. Accidental Radiation Occurrence
+61. QUESTION: Does the requirement in 21 CFR 1002.20 concerning the reporting of
+“accidental radiation occurrences” apply to foreign manufacturers of products sold in the U.S.?
+ANSWER: Yes. Foreign manufacturers of products sold in the U.S. are subject to, among other requirements, the reporting requirements provided in 21 CFR 1002.20.
+62. QUESTION: If an x-ray system initiated an exposure but encountered a fault and did not
+collect an adequate image for review and a new exposure (rescan or restart) was initiated by the operator to obtain an adequate image, should this be reported as an accidental radiation occurrence (ARO)?
+ANSWER: FDA does not consider an additional exposure commanded by the operator (rescan or restart) to be an ARO reportable event (though, depending on the reason for the additional exposure, such system might have a defect which relates to the safety of use by reason of the emission of electronic product radiation under 21 CFR 1003.2(b)). FDA does consider the following events to be reportable as AROs: • Events where radiation emission was generated without a valid command from the operator.
+• Events where radiation emission was produced that was not at the technique factors prescribed.
+• Events where radiation emission does not stop when commanded.
+63. QUESTION: Is there a lower threshold of radiation emission or received dose below which an
+accidental radiation exposure is not reportable as an ARO?
+ANSWER: Any dose of x-ray radiation is considered injurious or potentially injurious.
+Leakage radiation from x-ray components, such as the diagnostic source assembly, is known to occur. If the level does not exceed those prescribed in 21 CFR 1020.30(k)
+(leakage radiation from the diagnostic source assembly) and 1020.30(l) (radiation from components other than the diagnostic source assembly), it is not reportable as an ARO. But any other exposure as a result of the manufacturing, testing, or use of an x-ray system that was accidental should be reported as an ARO.  (See also question 62). In addition, if an event occurs where the leakage radiation exceeds the limits of 21 CFR 1020.30(k) and 1020.30(l), then those events must be reported as AROs and the x-ray system may have a defect (see also section I below).
+### H. Records
+64. QUESTION: 21 CFR 1002.30(a)(1) and (2) require maintaining records relating to quality
+control procedures and test results. How do these requirements apply to foreign manufacturers, and where does FDA expect the records to be maintained?
+ANSWER: Because all manufacturers are required to have quality control procedures and testing programs (21 CFR 1010.2(c)), they are responsible for generating and maintaining records of the results of these programs. Records must be maintained in a manner that makes them available within a reasonable timeframe during an FDA inspection of the manufacturing facility.
+### I. Defects (See also questions 51 and 52)
+65. QUESTION: Does a failure which prevents a diagnostic x-ray system from producing x-rays
+meet the definition of a “defect” under 21 CFR 1003.2(b)?
+ANSWER: Under 21 CFR 1003.2(b), an electronic product is considered to have a defect which relates to the safety of use by reason of the emission of electronic product radiation if it is a product which utilizes electronic product radiation to accomplish its primary purpose and from which such emissions are intended, and as a result of its design, production or assembly it fails to accomplish the intended purpose (21 CFR 1003.2(b)(3)) or fails to conform to its design specifications relating to the emission of electronic product radiation, including through the production of x-rays not in conformance with design specifications (21 CFR 1003.2(b)(1)). If, as a result of the design, production, or assembly of the x-ray system, the system emits x-rays not in conformance with its design specifications or starts and then prematurely stops emitting x-rays during a procedure, then the failure will be considered a defect in an electronic product by FDA under 21 CFR 1003.2(b).
+For example, if, as a result of the system’s design, production, or assembly, the x-ray tube in an x-ray system fails mid-exam, the amount of radiation emitted will result in an image of inadequate quality, necessitating a retake of the image and, cumulatively, resulting in excess radiation exposure to the patient. This x-ray system has a defect relating to safety of use by reason of the emission of electronic product radiation.
+Additionally, if, as a result of the system’s design, production, or assembly, the x-ray tube in a fluoroscopic imaging device fails during an interventional surgical procedure, the loss of imaging during the procedure is a serious safety issue; the procedure would need to be halted or performed without the guidance of imaging, or the patient would need to be transferred mid-procedure so that imaging can be resumed. This fluoroscopic imaging device also has a defect relating to safety of use by reason of the emission of electronic product radiation.
+66. QUESTION: Should a manufacturer give notification of the failure of a mechanism that is not
+responsible for the emission of electronic product radiation (e.g., broken wheel or drive mechanism failure on a mobile x-ray system) as a “defect” under 21 CFR 1003.2(b)?
+ANSWER: FDA does not intend to enforce the notification requirements arising under 21 CFR Part 1003, subpart B, with respect to defects arising from mechanisms that are not responsible for the emission of electronic product radiation at this time. Here, the broken wheel or drive mechanism failure may be the result of the design, production, or assembly of the system, but these mechanisms are not responsible for the emission of electronic product radiation.
+67. QUESTION: Does a burned-out x-ray tube that does not produce an x-ray as intended meet
+the definition of a “defect” under 21 CFR 1003.2(b)?
+ANSWER: A defect might arise under 21 CFR 1003.2(b)(3) if the product fails to accomplish the intended purpose “as a result of its design, production or assembly.”
+Because x-ray tubes have an expected lifetime that is influenced by the age and use of the tube, the failure of an x-ray tube due to age and use will generally not be considered a defect under 21 CFR 1003.2(b)(3), but rather a normal and expected failure of the x-ray tube. However, an x-ray tube that stops producing an x-ray (e.g., burns out prematurely) as a result of the design, production, or assembly of the tube housing assembly or other components in the system might be considered to have a defect under 21 CFR 1003.2(b)(3), if it fails mid-exam, for example. A burned-out x-ray tube that emits radiation but, as a result of its design, production or assembly, fails to emit x-rays in conformance with its design specifications would be considered to have a defect under 21 CFR 1003.2(b)(1) due to a failure to conform to its design specifications relating to the emission of electronic product radiation. (See also questions 65 and 69).
+68. QUESTION: Are image artifacts such as blurring from patient motion, beam hardening
+resulting from dense objects in the x-ray field, or CT reconstruction artifacts, considered defects?
+ANSWER: No. Artifacts such as those caused by patient motion, beam hardening resulting from dense objects in the x-ray field, and CT reconstruction, are not considered defects.
+However, an artifact caused by a failure related to the emission of radiation, such as blurring caused by unexpected device movement during an exposure, which is the result of the product’s design, production, or assembly, would indicate the presence of a defect.
+69. QUESTION: Is a tube with an excessively large focal spot a “defect” under 21 CFR 1003.2
+(i.e., the tube fails to meet the manufacturer’s specifications for focal spot size)?
+ANSWER: If a tube is sold with a focal-spot size that exceeds its specifications, then there is a defect because the product fails to conform to its design specifications relating to the emission of electronic product radiation (21 CFR 1003.2(b)(1)). If the tube met specifications when it was sold, but no longer meets the specifications due to age or misuse, that failure to meet specifications may or may not be considered a defect. Relevant information may include whether the nonconformance with the specifications results from its design, production, or assembly, whether the nonconformance results from normal wear, and whether the nonconformance results from misuse of the equipment. A certain amount of normal wear will occur in electronic products. If such normal wear results in radiation emitted by the product exceeding the limit prescribed in an applicable standard, the manufacturer may be charged with noncompliance because of their failure to design the product to maintain an acceptable level of radiation leakage over its useful life. See FDA’s
+Compliance Policy Guide (CPG) 390.200 Determination by Secretary that Product Fails to Comply or has Defect – 21 CFR 1003.11.22
+70. QUESTION: A manufacturer has found that some diagnostic x-ray systems that it shipped are
+noncompliant with the beam quality requirements under 21 CFR 1020.30(m)(1) because the manufacturer failed to install an aluminum filter plate in these systems. The manufacturer knows that other systems tested at its manufacturing facility passed this requirement with the filter plate installed, and therefore installing a filter plate will correct the noncompliant systems. Can the manufacturer start correcting the noncompliant installed systems concurrent with notification to FDA?
+ANSWER: Yes. Upon discovery of a defect or failure to comply with an applicable performance standard, a manufacturer shall immediately notify the FDA in accordance with 21 CFR 1003.20 (see 21 CFR 1003.10(a)). Implementation of a corrective action plan may begin prior to the plan’s approval by FDA. However, if the plan fails to correct the noncompliance or defect, or if FDA otherwise does not approve the corrective action plan, the manufacturer may be required to perform additional actions (21 CFR 1004.2 and 1004.6). To avoid this situation, a manufacturer should contact FDA regarding its corrective action plan prior to the plan’s implementation.
+71. QUESTION: What procedure does FDA follow upon discovering that a diagnostic x-ray
+system or component fails to comply with the regulations or has a defect?
+ANSWER: If FDA, through testing, inspection, research, or examination of reports or other data, determines that a diagnostic x-ray system or component does not comply with an applicable Federal standard issued pursuant to the Act or has a defect, it immediately notifies the manufacturer of the product in writing specifying: 21 CFR 1004.1 describes a manufacturer’s obligation to repair, replace, or refund the cost of electronic products when any electronic product fails to comply with an applicable Federal standard or has a defect and the notification specified in 21 CFR 1003.10(b) (required to be submitted to FDA by a manufacturer who discovers that any electronic product produced, assembled, or imported by it, which product has left its place of manufacture, has a defect or fails to comply with an applicable Federal standard) is required to be furnished.
+### J. Fluoroscopy (See also questions 51 and 52)
+72. QUESTION: On June 10, 2006, several new requirements became effective for fluoroscopic
+x-ray systems manufactured on or after that date. If new components manufactured on or after
+June 10, 2006 are added to a fluoroscopic system manufactured before June 10, 2006, are the new requirements applicable to the system?
+ANSWER: No, the new requirements that became effective for fluoroscopic x-ray systems manufactured on or after June 10, 2006 are only applicable if: a. The complete system is certified and the system’s date of manufacture falls on or after June 10, 2006; or b. All of the certified components in the system were manufactured on or after June 10, 2006, as provided by each of their identification labels.
+For additional information on these requirements, see FDA’s guidance entitled “Policy
+Clarification for Certain Fluoroscopic Equipment Requirements.”23
+73. QUESTION: The regulatory changes that became effective June 10, 2006 require
+fluoroscopic equipment manufactured on or after that date to have a “last image hold” (LIH) display and “clearly indicate” whether the displayed image is the LIH radiograph or
+If it is considered a radiographic tube, where should the indicator be placed to show that it was selected for an exposure, as required by 21 CFR 1020.31(k)?
+ANSWER: The under-table tube is considered a radiographic tube when used for spot-film exposures, but a separate indicator is not required. 21 CFR 1020.31(k) applies to the situation where two or more tubes are controlled by the same exposure switch. Even though the tube is typically controlled by a separate exposure switch when used for radiography, it is not a separate tube. Therefore, the separate indication required by 21 CFR 1020.31(k) does not apply to the scenario here.
+76. QUESTION: A fluoroscopic x-ray system was manufactured after May 19, 1995, and the
+system limits the air kerma rate (AKR) to 88 mGy per minute (10 R per minute) by limiting the maximum peak tube potential. However, the fluoroscopic AKR could exceed the 88 mGy per minute limit momentarily (less than two seconds) if the operator changes to a higher mA setting while x-rays are being produced. This occurs during the time that the peak tube potential is driven down to a value sufficient to limit the AKR to 88 mGy per minute. The alternative would be to terminate production of x-rays during this time, but that could lead to a loss of important diagnostic information. The audible signal for high-level control (HLC) mode is set so that anytime the AKR exceeds 88 mGy per minute, the signal is activated. Is such a system acceptable?
+ANSWER: No. For fluoroscopic equipment manufactured on or after May 19, 1995, AKRs greater than 88 mGy per minute are allowed only during activation of HLC or during recording of fluoroscopic images (21 CFR 1020.32(d)(2)(iii)). A special means of HLC activation is required (21 CFR 1020.32(d)(2)(iii)(C)). When HLC is activated, the audible signal must also be activated, regardless of the actual AKR (21 CFR 1020.32(d)(2)(iii)(C)).
+77. QUESTION: A manufacturer is planning to provide a HLC mode switch for fluoroscopy that
+does not require continuous pressure for activation. The manufacturer believes this would be safer because it would avoid accidental use of HLC by operators, free the operator from using a hand or foot consciously and allow them to concentrate on the clinical procedure, and would still provide a visual and audible warning immediately if the previous operator had left the unit in HLC mode. Is this acceptable?
+ANSWER: No. HLC mode shall be operable only when continuous manual activation of the fluoroscopic HLC switch is provided by the operator (21 CFR 1020.32(d)(2)(iii)(C)). A switch that activates the HLC mode without continuous pressure could activate HLC mode indefinitely and does not provide the positive means required in the Performance Standards (21 CFR 1020.32(d)(2)(iii)(C)).
+78. QUESTION: In certain fluoroscopy systems, the peak tube current is not user selectable. It
+remains constant and the average current changes automatically by varying pulse width and frequency (frame rate). In these systems, where peak tube current is held constant, will a label that provides the specified tube current meet the requirement of 21 CFR 1020.32(f)?
+ANSWER: No. 21 CFR 1020.32(f) requires continuous indication of both x-ray tube potential and tube current during any fluoroscopic exposure. A label is not an acceptable substitute for a continuous indication and is noncompliant with 21 CFR 1020.32(f).
+79. QUESTION: The June 10, 2006 regulatory changes in the fluoroscopic regulations included a
+change under 21 CFR 1020.32(h)(2). A preset timer having a maximum cumulative time of 5 minutes is no longer required. Since this timer is not required for new equipment, may a manufacturer remove or disable the 5 minute preset feature from older equipment when customers request this modification?
+ANSWER: Yes, as long as the fluoroscopic system is modified appropriately. The regulatory changes that became effective on June 10, 2006 removed the requirement for the 5 minute preset timer limit, but replaced it with new requirements for several additional features, as specified in 21 CFR 1020.32(h)(2). Under 21 CFR 1020.30(q)(2), the owner of a diagnostic x-ray system may modify the system as long as the modification does not create a failure to comply with any requirements in effect at the time the affected system or component was manufactured. (See also question 4). Simply removing or disabling the timer would create such a problem. However, under 21 CFR 1020.32(h)(1)(i) this modification is permitted if the system is also modified to meet the requirements of 21 CFR 1020.32(h)(2), and if a label stating “Modified to comply with 21 CFR 1020.32(h)(2)” is affixed to the control.
+### K. Specific components (1)
+Beam Limiting Devices (see also questions 13, 16, 19, 22, and 100)
+80. QUESTION: To produce a radiograph in a particular panoramic dental system, the diagnostic
+source assembly and film cassette rotate about the patient’s head at a fixed Source-Image
+Receptor Distance (SID) while the film is advanced through the film holder. A narrow slit in the film cassette holder allows the useful x-ray beam to pass through while blocking scatter radiation from the exposed and unexposed sections of the film. This produces a laminographic view of the patient’s jaw and teeth. Is such a design consistent with the requirements of 21 CFR 1020.31?
+ANSWER: Yes. However, for the panoramic unit described in the question, the image receptor size is equal to that portion of the film instantaneously exposed through the slot in the cassette holder, rather than the entire image receptor. This means that for dental panoramic type units designed with a fixed SID and one image receptor size, the dimensions of the portion of the x-ray beam whose intensity is equal to or greater than 25 percent of the maximum intensity of the x-ray field (21 CFR 1020.30(b)) at the front plane of the cassette holder must be limited to the dimensions of the film instantaneously exposed through the slot in the cassette holder (21 CFR 1020.31(f)(2)) and the center of the x-ray field must be aligned with the center of the slot in the cassette holder within 2 percent of the SID. Alternatively, means may be provided to both size and align an x-ray field such that the x-ray field at the front plane of the cassette holder does not extend beyond any edge of the slot in the cassette holder.
+For dental panoramic type units in which the SID is variable, the x-ray beam dimensions where the intensity is equal to or greater than 25 percent of the maximum intensity of the xray field (21 CFR 1020.30(b)) at the front plane of the cassette holder shall not exceed the dimensions of the slot by more than 2 percent of the SID (21 CFR 1020.31(f)(4)).
+Alternatively, means may be provided to both size and align an x-ray field such that the xray field at the front plane of the cassette holder does not extend beyond any edge of the slot in the cassette holder.
+81. QUESTION: A firm plans to manufacture and assemble cephalometric attachments designed
+for use with conventional intraoral dental x-ray equipment. What beam limitation requirements are applicable to the resulting system?
+ANSWER: When a certified cephalometric beam limiting device is added to any existing diagnostic x-ray system, means must be provided to limit and align the x-ray field to the image receptor as specified in 21 CFR 1020.31(f)(2) or (f)(4), depending on which regulation is applicable. Therefore, if the means for alignment is dependent on other apparatuses or certified components being installed (e.g., head positioners, cassette holders), it may be necessary to install a complete cephalometric system. If the resulting cephalometric system is designed to be operated at one SID and one image receptor size, 21 CFR 1020.31(f)(2) is applicable; otherwise, 21 CFR 1020.31(f)(4) is applicable.
+82. QUESTION: Is it permissible for a beam limiting device to indicate the field size with a
+number that, along with the SID, must be taken to a lookup table located elsewhere to determine the numerical field size?
+ANSWER: No. The beam limiting device shall numerically indicate the field size in the plane of the image receptor to which it is adjusted (21 CFR 1020.31(e)(2)) and shall be specified in inches and/or centimeters (21 CFR 1020.31(e)(3)). The use of a lookup table which is not located on the beam limiting device does not satisfy the requirements of 21 CFR 1020.31(e).
+(2)
+Controls (See also questions 19, 35, and 36)
+83. QUESTION: Users have requested that manufacturers install a remote exposure switch to
+permit the operator to be located further away from the x-ray beam and patient than normally would be permitted by the use of a retractable cord. The remote exposure switch would be provided in a separate box, on which are mounted the exposure switch, a light indicating that power is on to the entire control, and a light that indicates exposure. Is such an installation allowed by the regulations?
+ANSWER: Yes, as long as the following requirements are met: • The control panel containing the main power switch bears the warning statement required under 21 CFR 1020.30(j), legible and accessible to view, and indication of technique factors to be used during an exposure are visible from the operator’s position except in the case of spot films made by the fluoroscopist. (21 CFR 1020.31(a)(1)); • At the remote location, the beam-on indicators required by 21 CFR 1020.31(j) are provided (both a visual indication of x-ray production and a signal audible to the operator to indicate that the exposure has terminated); and • The instructions for assembly governing this remote switch option clearly address the two conditions above (21 CFR 1020.30(g)).
+84. QUESTION: When a diagnostic x-ray system with a single x-ray control is used to control the
+operation of two or more diagnostic source assemblies (DSAs), how should the system indicate which tube or tubes have been selected?
+ANSWER: Where two or more radiographic tubes are controlled by one exposure switch, the tube or tubes which have been selected must be clearly indicated before initiation of the exposure (21 CFR 1020.31(k)). This indication must be provided on both the x-ray control and at or near the tube housing assembly that has been selected (21 CFR 1020.31(k)). This could be accomplished with a graphical representation of the x-ray system at the x-ray control which indicates the active tube with lights or color accents. Alternatively, clear language may be presented to the user at the x-ray control such as “under-table tube active” or “over-table tube active”.
+85. QUESTION: When a diagnostic x-ray system with a single x-ray control is used to control the
+operation of two or more DSAs, does the linearity requirement (21 CFR 1020.31(c)) apply between the two DSAs?
+ANSWER: No. If two or more DSAs are operated from the same control, each combination of DSA and x-ray control will be considered as a separate system for the purpose of determining applicability of the linearity requirement. Therefore, linearity is applicable for each such combination of DSA and x-ray control, but not between the two DSAs.
+(3)
+Filters
+86. QUESTION: How have the minimum half-value layer (HVL) requirements (21 CFR
+1020.30(m)) changed since June 9, 2006?
+ANSWER: The minimum HVL requirements for all x-ray systems manufactured on or after June 10, 2006 (except dental x-ray systems designed for use with intraoral image receptors), have been increased as specified by Table 1 of 21 CFR 1020.30(m).
+The shaded-gray, right-most column in Table 2 (21 CFR 1020.30(m), Table 1) shows the increased values.
+Table 2. Minimum HVL requirements (21 CFR 1020.30(m) TABLE 1) X-Ray Tube Voltage (kilovolt peak) Minimum HVL (mm of aluminum) Designed Operating Range Measured Operating Potential Specified Dental Systems1 I—Other X-Ray Systems2 II—Other X-Ray Systems3 Below 51
+1.5
+0.3
+0.3
+1.5
+0.4
+0.4
 50
-
----
-
-<!-- Page 51 -->
-Contains Nonbinding Recommendations 
-b. When both switches are activated, the light intensity is equal to about 160 lux at 100 
-cm, and it is timed so that after 30 seconds, the intensity decreases to about 100 lux? 
-Would such a system meet the requirement in 21 CFR 1020.31(d)(2)(ii)? 
-ANSWER: No. 21 CFR 1020.31(d)(2)(ii) requires that whenever the light localizer is 
-activated, the intensity must be equal to or greater than 160 lux at 100 cm or the maximum 
-SID, if less than 100 cm. 
-93. QUESTION: 21 CFR 1020.31(d)(2)(ii) and (iii) place requirements on the intensity and edge 
-contrast that must be provided when light field localizers are incorporated into general 
-purpose x-ray systems. What requirements, if any, are applicable to special purpose x-ray 
-systems such as mammography, podiatry, and cephalometric systems incorporating light 
-localizers? 
-ANSWER: It depends on how the light field is used. If the light field device is intended for 
-use only as a centering light and is not intended by the manufacturer or perceived by the 
-user as visually defining the perimeter of the x-ray field, then no specific illumination 
-intensity or light field contrast requirements apply. However, if the light field is intended 
-for use by the manufacturer or perceived by the user to visually define the perimeter of the 
-x-ray field, then the illumination intensity requirement of 21 CFR 1020.31(d)(2)(ii) and the 
-light field edge contrast requirements of 21 CFR 1020.31(d)(2)(iii) are applicable. 
-(5) 
-Mechanical Tomographic Systems 
-94. QUESTION: Traditionally, a tomographic attachment for a standard radiographic x-ray 
-system consists of a mechanical interconnecting arm, a drive system, and electrical switches, 
-one of which initiates exposure and another of which terminates the exposure. Thus, the 
-tomographic device becomes an exposure timing device. However, its accuracy may be 
-suspect because of mechanical friction or accuracy of attachment by the user. If the exposure 
-termination switch is removed, the exposure timing function would revert to the x-ray control, 
-to be set by the user. Would the tomographic attachment then no longer be a certifiable 
-component? 
-ANSWER: Yes. 
-95. QUESTION: A manufacturer markets a mechanical tomographic kit to be added to its x-ray 
-table. However, since the kit is capable of controlling exposure time, it is subject to the 
-Performance Standards. The manufacturer’s instructions specify that the console timer must 
-be set to terminate the exposure before the exposure switch in the tomographic attachment 
-would terminate it, thus making the tomographic exposure control serve merely as a back-up. 
-Therefore, the manufacturer concludes that the tomographic timer would not need to be 
-certified. Would this be a satisfactory approach? 
-51
-
----
-
-<!-- Page 52 -->
-Contains Nonbinding Recommendations 
-ANSWER: No. Tomographic attachments that control the exposure time are required to be 
-certified (21 CFR 1020.30(a)(1)(i)(A)). This is true even of tomographic controls used as 
-back-up timers. (See also question 7). 
-96. QUESTION: Are exposures made during the operation of radiographic systems in a 
-tomographic mode subject to the reproducibility and linearity requirements of 21 CFR 
-1020.31(b) and (c)? 
-ANSWER: Yes. The reproducibility and linearity provisions of 21 CFR 1020.31(b) and (c) 
-are applicable during the tomographic mode of operation. 
-(6) 
-Source-Image Receptor Distance Indicators 
-97. QUESTION: 21 CFR 1020.31(e)(1) states that “means shall be provided to indicate when the 
-axis of the x-ray beam is perpendicular to the plane of the image receptor, to align the center 
-of the x-ray field with respect to the center of the image receptor to within 2 percent of the 
-SID, and to indicate the SID to within 2 percent.” A manufacturer proposes meeting the 
-requirement for indicating SID by placing microswitches at discrete operating locations and 
-providing: (1) user instructions specifying the position of each microswitch and the 
-corresponding SID to the permanently-mounted image receptor; and (2) installation of an 
-“exposure ready light” on the beam-limiting device. This light would only be illuminated 
-when a microswitch is activated. The microswitches are frequently used to provide discrete 
-SIDs with a wall-mounted image receptor and are occasionally used to provide discrete SIDs 
-with an under-table image receptor. Would such a configuration satisfy the applicable 
-requirements? 
-ANSWER: No. A statement of the SID(s) in the user instructions alone is not sufficient. 
-With the exception of when spot-film devices are in service, all stationary general purpose 
-radiographic systems must be equipped with means to provide numerical indication of any 
-and all SIDs (21 CFR 1020.31(e)(1)) at which the system is designed to operate when the 
-x-ray beam is perpendicular to the plane of the image receptor. The SID value must be 
-indicated on the system (21 CFR 1020.31(e)(2) and (3)). 
-(7) Timers (See also question 95) 
-98. QUESTION: A firm wants to manufacture and sell replacement electronic timers for 
-installation into existing x-ray controls. Are there any specific requirements for these timers? 
-ANSWER: Yes. FDA considers such timers to be x-ray controls (21 CFR 
-1020.30(a)(1)(i)(A)) and, as such, they must be certified (21 CFR 1020.30(c)). 
-Replacement timers require certification (based upon an appropriate test or testing 
-program) (21 CFR 1010.2(c)), adequate labeling, and compatibility information (21 CFR 
-1020.30(g)). The certification and identification labels must be legible and readily 
-52
-
----
-
-<!-- Page 53 -->
-Contains Nonbinding Recommendations 
-accessible to view when the product is fully assembled (21 CFR 1010.2 and 1010.3). (See 
-also question 21). 
-(8) Tube Housing Assemblies (See also questions 13 and 34) 
-99. QUESTION: A manufacturer produces a number of x-ray tube housing assemblies to be used 
-solely for testing purposes and never to be used on patients. The manufacturer also has tube 
-housing assemblies that are used in trade show displays that will never be sold for patient use 
-and are not intended to be connected to produce x-rays. Does the manufacturer have to certify 
-these tube housing assemblies? 
-ANSWER: No. The intent of electronic product certification for x-ray systems and 
-components is to assure that patients and users are protected from unnecessary electronic 
-product radiation. Since these tube housing assemblies will not be used to irradiate any part 
-of the human body for the purpose of diagnosis or visualization, then they are not 
-considered components of a diagnostic x-ray system (21 CFR 1020.30(b)) and they do not 
-have to be certified. Manufacturers should mark the tube housings clearly as to their 
-intended purpose, make them non-functional, or include assembly instructions to indicate 
-that the tube housings are not to be used on patients. 
-100. QUESTION: The Performance Standards limiting x-ray leakage (21 CFR 1020.30(k)) and 
-radiation from capacitor energy storage equipment (21 CFR 1020.31(l)) apply to the 
-diagnostic source assembly, which includes the tube housing assembly and the beam limiting 
-device. How does a manufacturer who wishes to certify only a tube housing assembly or beam 
-limiting device perform certification testing on this component? 
-ANSWER: The manufacturer must ensure that the tube housing assembly or beam limiting 
-device it is certifying is compatible with the components with which it is intended to be 
-used (21 CFR 1020.30(g)). The firm, or the manufacturer of the other components (if the 
-components are manufactured by different firms), must test the tube housing assemblies or 
-beam limiting devices with those devices with which compatibility is specified (21 CFR 
-1020.30(g)). Such specifications may describe pertinent physical characteristics of the 
-components and/or may list by manufacturer model number the components which are 
-compatible. A firm which specifies compatibility with other components should perform 
-periodic direct testing of the component combinations to confirm continuing compatibility. 
-Once established, compatibility may be specified in terms of manufacturer name and model 
-number and/or in terms of pertinent physical characteristics of the components. (See also 
-question 8). 
-101. QUESTION: If a manufacturer replaces a tube insert in a tube housing assembly, does it need 
-to change the date of manufacture on the tube housing assembly’s identification label? What 
-about any other required labeling on the housing? 
-53
-
----
-
-<!-- Page 54 -->
-Contains Nonbinding Recommendations 
-ANSWER: With the exception of quick-change tubes, replacing the tube insert in a tube 
-housing assembly requires that the tube housing assembly show a new date of manufacture 
-(21 CFR 1020.30(e)(1), (2) and (3)). The previous label must be removed, covered, or 
-defaced so that only the new date is shown (21 CFR 1020.30(e)(2)). In the event that any 
-other information is different, such as name and address of manufacturer or model or serial 
-number, this information also must be changed in the same manner (21 CFR 1020.30(e)(1), 
-(2) and (3)). (See also question 34). 
-102. QUESTION: Does the answer to question 101 change if the system contains a single-labeled 
-group of components that includes the tube housing assembly that is to be re-loaded – the 
-replacement of a new tube insert into an old housing? 
-ANSWER: If there is a single-labeled group of components that includes a tube housing 
-assembly that need to be replaced, there are two options: 
-a. If adding the tube insert may affect some aspect of compliance, re-label the single-
-labeled group of components (date of manufacture, model number and serial number if 
-applicable, tube insert model information and change of certifying manufacturer if 
-applicable) to meet 21 CFR 1020.30(e)(1). The date used should be the date of 
-replacement of the tube insert, not the original date of manufacture. (21 CFR 
-1020.30(e)(2)). 
-b. If adding the tube insert does not affect any aspect of compliance, an additional label 
-may be used to provide tube insert model information and change of certifying 
-manufacturer if applicable. 
-103. QUESTION: Do repairs to a tube housing assembly, including repairs that require the 
-temporary removal and reinstallation of the same insert, constitute the manufacture of a new 
-tube housing assembly? 
-ANSWER: No. Any repair done on any tube housing assembly that does not include 
-insertion of a different tube insert in a previously certified tube housing is considered repair 
-(21 CFR 1020.30(d)(2)(iii)) and does not constitute the manufacture of a new tube housing 
-assembly. However, any time that the integrity of the tube housing assembly shielding has 
-been compromised, evidence should be provided to the user to assure continued 
-compliance of the tube housing assembly with leakage and compatibility requirements. 
+1.5
+0.5
+0.5
+51 to 70
+1.5
+1.2
+1.3
+1.5
+1.3
+1.5
+1.5
+1.5
+1.8
+Above 70
+2.1
+2.1
+2.5
+2.3
+2.3
+2.9
+2.5
+2.5
+3.2
+2.7
+2.7
+3.6
+3.0
+3.0
+3.9
+3.2
+3.2
+4.3
+3.5
+3.5
+4.7
+3.8
+3.8
+5.0
+4.1
+4.1
+5.4
+1 Dental x-ray systems designed for use with intraoral image receptors and manufactured after December 1, 1980.
+2 Dental x-ray systems designed for use with intraoral image receptors and manufactured before or on December 1, 1980, and all other x-ray systems subject to this section and manufactured before June 10, 2006.
+3 All x-ray systems, except dental x-ray systems designed for use with intraoral image receptors, subject to this section and manufactured on or after June 10, 2006.
+87. QUESTION: 21 CFR 1020.30(m)(1) specifies that, for diagnostic x-ray systems, “positive
+means” must be provided to ensure the minimum filtration beam quality requirement is met for each exposure. In systems having variable filtration capability, where special radiographic techniques require temporary disengagement of the filter and/or mirror optic system, would a special tool with appropriate warnings and instructions that would disengage the filtration elements meet the requirements of “positive means”?
+ANSWER: No, a special tool would not qualify as being a “positive means.” To meet the requirement of “positive means,” the manufacturer should design the equipment so that exposure is inhibited until the proper filtration is in the beam (21 CFR 1020.30(m)(1)).
+Although special tools may be used to remove the filter during servicing, the operator should not have to routinely add and/or remove it during normal use. In the case of a diagnostic x-ray system that is to be operated with more than one thickness of filtration, this requirement can be met by a filter interlocked with the kilovoltage selector that will prevent x-ray emissions if the minimum required filtration is not in the beam.
+NOTE: A requirement to provide optional additional filtration is provided in 21 CFR 1020.30(m)(2) for certain fluoroscopic systems manufactured on or after June 10, 2006.
+88. QUESTION: Do the Performance Standards cover use of a filter of varying thickness (beam-
+shaper) to obtain a uniform exposure at the surface of the film during an examination?
+ANSWER: No. The Performance Standards do not place requirements on such filtration, but they do set requirements in Table 1 of 21 CFR 1020.30(m)(1) for minimum beam quality. (See also questions 86 and 87). FDA will test systems for compliance with the compensation filter in place and the beam-limiting device opened to the widest setting to make the half-value layer determination. Since the filtration is not uniform across the useful beam, the region of minimum thickness will be the value used to determine compliance.
+89. QUESTION: A manufacturer produces an x-ray system rated nominally at 70 kVp and has
+established a kVp tolerance of plus or minus 5 percent (±5%). If the measured kVp of the system is 73, and referencing Table 1 of 21 CFR 1020.30(m)(1), must the minimum halfvalue layer (HVL) be at least 2.6 mm of aluminum (by linear interpolation from the “above 70” kVp section) or 1.9 mm of aluminum (by linear extrapolation from the “51 to 70” kVp designed operating range)?
+ANSWER: 1.9 mm of aluminum is an acceptable value. In 21 CFR 1020.30(h)(3) and 1020.31(a)(4), each manufacturer is required to establish and state its own technique factor accuracy specifications. If a machine is designed to operate only in the range of 51 to 70 kVp, the appropriate range in Table 1 of 21 CFR 1020.30(m)(1) for determining HVL compliance is the 51 to 70 kVp range, regardless of whether the measured kVp exceeds 70 or falls below 51 kVp. If the measured kVp value falls outside of this range, the manufacturer should determine the correct HVL by linear extrapolation from Table 1 under 21 CFR 1020.30(m)(1). The manufacturer should extrapolate from the values for HVL given for the two kVp values (within the designed operating range) that are closest to the measured kVp. In this example, the HVL value for 73 kVp should be extrapolated from the 51 to 70 kVp operating range and the correct minimum HVL is 1.89 mm of aluminum.
+If a system is designed to operate in multiple kVp ranges, the appropriate range for determining HVL compliance is dictated by the selected operating tube potential.
+(4)
+Image Receptors
+90. QUESTION: Under 21 CFR 1020.30(a)(1)(i)(F), the June 10, 2006 update of the Performance
+Standards now includes “Image receptors that are electrically powered or connected with the x-ray system manufactured on or after June 10, 2006,” as certifiable components of diagnostic x-ray systems. How does FDA interpret this change and what requirements are applicable to the covered products?
+ANSWER: FDA generally enforces 21 CFR 1020.30(a)(1)(i)(F) only with respect to those electrically powered image receptors that are used as fluoroscopic image receptors. This includes image receptors that are used for a combination of both fluoroscopy and radiography. FDA does not intend to enforce the requirements under 21 CFR 1020.30(a)(1)(i)(F) to electrically powered image receptors used in radiographic-only systems at this time.
+NOTE: Additional requirements may apply to image receptors if they perform additional functions where requirements are specified in the Performance Standards. (See also question 7).
+91. QUESTION: What additional information is required to be provided to users regarding image
+receptors that are electrically powered or connected?
+ANSWER: For x-ray systems manufactured on or after June 10, 2006 that produce images using a fluoroscopic image receptor, the following information is required by 21 CFR 1020.30(h)(5) and must be provided in a separate, single section of the user’s instruction manual or in a separate manual devoted to this information: “(i) For each mode of operation, a description of the mode and detailed instructions on how the mode is engaged and disengaged. The description of the mode shall identify those technique factors and system controls that are fixed or automatically adjusted by selection of the mode of operation, including the manner in which the automatic adjustment is controlled. This information shall include how the operator can recognize which mode of operation has been selected prior to initiation of x-ray production.
+(ii) For each mode of operation, a descriptive example(s) of any specific clinical procedure(s) or imaging task(s) for which the mode is recommended or designed and how each mode should be used. Such recommendations do not preclude other clinical uses.”
+For additional information on requirements for these image receptors, see FDA’s guidance entitled “Guidance for the Submission of 510(k)s for Solid State X-ray Imaging Devices.”24
+92. QUESTION: Would it be permissible to control a light localizer with two switches
+performing the following functions: a. When switch number 1 is activated, the light intensity is equal to about 100 lux at 100 cm; and
+Would such a system meet the requirement in 21 CFR 1020.31(d)(2)(ii)?
+ANSWER: No. 21 CFR 1020.31(d)(2)(ii) requires that whenever the light localizer is activated, the intensity must be equal to or greater than 160 lux at 100 cm or the maximum SID, if less than 100 cm.
+93. QUESTION: 21 CFR 1020.31(d)(2)(ii) and (iii) place requirements on the intensity and edge
+contrast that must be provided when light field localizers are incorporated into general purpose x-ray systems. What requirements, if any, are applicable to special purpose x-ray systems such as mammography, podiatry, and cephalometric systems incorporating light localizers?
+ANSWER: It depends on how the light field is used. If the light field device is intended for use only as a centering light and is not intended by the manufacturer or perceived by the user as visually defining the perimeter of the x-ray field, then no specific illumination intensity or light field contrast requirements apply. However, if the light field is intended for use by the manufacturer or perceived by the user to visually define the perimeter of the x-ray field, then the illumination intensity requirement of 21 CFR 1020.31(d)(2)(ii) and the light field edge contrast requirements of 21 CFR 1020.31(d)(2)(iii) are applicable.
+(5)
+Mechanical Tomographic Systems
+94. QUESTION: Traditionally, a tomographic attachment for a standard radiographic x-ray
+system consists of a mechanical interconnecting arm, a drive system, and electrical switches, one of which initiates exposure and another of which terminates the exposure. Thus, the tomographic device becomes an exposure timing device. However, its accuracy may be suspect because of mechanical friction or accuracy of attachment by the user. If the exposure termination switch is removed, the exposure timing function would revert to the x-ray control, to be set by the user. Would the tomographic attachment then no longer be a certifiable component?
+ANSWER: Yes.
+95. QUESTION: A manufacturer markets a mechanical tomographic kit to be added to its x-ray
+table. However, since the kit is capable of controlling exposure time, it is subject to the
+Performance Standards. The manufacturer’s instructions specify that the console timer must be set to terminate the exposure before the exposure switch in the tomographic attachment would terminate it, thus making the tomographic exposure control serve merely as a back-up.
+Therefore, the manufacturer concludes that the tomographic timer would not need to be certified. Would this be a satisfactory approach?
+ANSWER: No. Tomographic attachments that control the exposure time are required to be certified (21 CFR 1020.30(a)(1)(i)(A)). This is true even of tomographic controls used as back-up timers. (See also question 7).
+96. QUESTION: Are exposures made during the operation of radiographic systems in a
+tomographic mode subject to the reproducibility and linearity requirements of 21 CFR 1020.31(b) and (c)?
+ANSWER: Yes. The reproducibility and linearity provisions of 21 CFR 1020.31(b) and (c) are applicable during the tomographic mode of operation.
+(6)
+Source-Image Receptor Distance Indicators
+97. QUESTION: 21 CFR 1020.31(e)(1) states that “means shall be provided to indicate when the
+axis of the x-ray beam is perpendicular to the plane of the image receptor, to align the center of the x-ray field with respect to the center of the image receptor to within 2 percent of the SID, and to indicate the SID to within 2 percent.” A manufacturer proposes meeting the requirement for indicating SID by placing microswitches at discrete operating locations and providing: (1) user instructions specifying the position of each microswitch and the corresponding SID to the permanently-mounted image receptor; and (2) installation of an “exposure ready light” on the beam-limiting device. This light would only be illuminated when a microswitch is activated. The microswitches are frequently used to provide discrete SIDs with a wall-mounted image receptor and are occasionally used to provide discrete SIDs with an under-table image receptor. Would such a configuration satisfy the applicable requirements?
+ANSWER: No. A statement of the SID(s) in the user instructions alone is not sufficient.
+With the exception of when spot-film devices are in service, all stationary general purpose radiographic systems must be equipped with means to provide numerical indication of any and all SIDs (21 CFR 1020.31(e)(1)) at which the system is designed to operate when the x-ray beam is perpendicular to the plane of the image receptor. The SID value must be indicated on the system (21 CFR 1020.31(e)(2) and (3)).
+(7) Timers (See also question 95)
+98. QUESTION: A firm wants to manufacture and sell replacement electronic timers for
+installation into existing x-ray controls. Are there any specific requirements for these timers?
+ANSWER: Yes. FDA considers such timers to be x-ray controls (21 CFR 1020.30(a)(1)(i)(A)) and, as such, they must be certified (21 CFR 1020.30(c)).
+Replacement timers require certification (based upon an appropriate test or testing program) (21 CFR 1010.2(c)), adequate labeling, and compatibility information (21 CFR 1020.30(g)). The certification and identification labels must be legible and readily accessible to view when the product is fully assembled (21 CFR 1010.2 and 1010.3). (See also question 21).
+(8) Tube Housing Assemblies (See also questions 13 and 34)
+99. QUESTION: A manufacturer produces a number of x-ray tube housing assemblies to be used
+solely for testing purposes and never to be used on patients. The manufacturer also has tube housing assemblies that are used in trade show displays that will never be sold for patient use and are not intended to be connected to produce x-rays. Does the manufacturer have to certify these tube housing assemblies?
+ANSWER: No. The intent of electronic product certification for x-ray systems and components is to assure that patients and users are protected from unnecessary electronic product radiation. Since these tube housing assemblies will not be used to irradiate any part of the human body for the purpose of diagnosis or visualization, then they are not considered components of a diagnostic x-ray system (21 CFR 1020.30(b)) and they do not have to be certified. Manufacturers should mark the tube housings clearly as to their intended purpose, make them non-functional, or include assembly instructions to indicate that the tube housings are not to be used on patients.
+100. QUESTION: The Performance Standards limiting x-ray leakage (21 CFR 1020.30(k)) and
+radiation from capacitor energy storage equipment (21 CFR 1020.31(l)) apply to the diagnostic source assembly, which includes the tube housing assembly and the beam limiting device. How does a manufacturer who wishes to certify only a tube housing assembly or beam limiting device perform certification testing on this component?
+ANSWER: The manufacturer must ensure that the tube housing assembly or beam limiting device it is certifying is compatible with the components with which it is intended to be used (21 CFR 1020.30(g)). The firm, or the manufacturer of the other components (if the components are manufactured by different firms), must test the tube housing assemblies or beam limiting devices with those devices with which compatibility is specified (21 CFR 1020.30(g)). Such specifications may describe pertinent physical characteristics of the components and/or may list by manufacturer model number the components which are compatible. A firm which specifies compatibility with other components should perform periodic direct testing of the component combinations to confirm continuing compatibility.
+Once established, compatibility may be specified in terms of manufacturer name and model number and/or in terms of pertinent physical characteristics of the components. (See also question 8).
+101. QUESTION: If a manufacturer replaces a tube insert in a tube housing assembly, does it need
+to change the date of manufacture on the tube housing assembly’s identification label? What about any other required labeling on the housing?
+ANSWER: With the exception of quick-change tubes, replacing the tube insert in a tube housing assembly requires that the tube housing assembly show a new date of manufacture (21 CFR 1020.30(e)(1), (2) and (3)). The previous label must be removed, covered, or defaced so that only the new date is shown (21 CFR 1020.30(e)(2)). In the event that any other information is different, such as name and address of manufacturer or model or serial number, this information also must be changed in the same manner (21 CFR 1020.30(e)(1), (2) and (3)). (See also question 34).
+102. QUESTION: Does the answer to question 101 change if the system contains a single-labeled
+group of components that includes the tube housing assembly that is to be re-loaded – the replacement of a new tube insert into an old housing?
+ANSWER: If there is a single-labeled group of components that includes a tube housing assembly that need to be replaced, there are two options: a. If adding the tube insert may affect some aspect of compliance, re-label the singlelabeled group of components (date of manufacture, model number and serial number if applicable, tube insert model information and change of certifying manufacturer if applicable) to meet 21 CFR 1020.30(e)(1). The date used should be the date of replacement of the tube insert, not the original date of manufacture. (21 CFR 1020.30(e)(2)).
+b. If adding the tube insert does not affect any aspect of compliance, an additional label may be used to provide tube insert model information and change of certifying manufacturer if applicable.
+103. QUESTION: Do repairs to a tube housing assembly, including repairs that require the
+temporary removal and reinstallation of the same insert, constitute the manufacture of a new tube housing assembly?
+ANSWER: No. Any repair done on any tube housing assembly that does not include insertion of a different tube insert in a previously certified tube housing is considered repair (21 CFR 1020.30(d)(2)(iii)) and does not constitute the manufacture of a new tube housing assembly. However, any time that the integrity of the tube housing assembly shielding has been compromised, evidence should be provided to the user to assure continued compliance of the tube housing assembly with leakage and compatibility requirements.
 54
+
+---
+
+## Footnotes
+
+[^1]: Available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfStandards/search.cfm
+
+[^4]: Available at https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-assistance/overview­ device-regulation
+
+[^5]: Available at https://www.fda.gov/radiation-emitting-products
+
+[^6]: Available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/medical-x-ray-imaging­ devices-conformance-iec-standards
+
+[^7]: Available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/policy-clarification­ certain-fluoroscopic-equipment-requirements
+
+[^8]: Available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/compliance-policy­ guide-sec-390100-definition-commerce-21-cfr-10003d-2 diagnostic x-ray systems (as defined in 21 CFR 1020.30(b)) consist of components from different manufacturers; other systems use components from a single manufacturer. In either case, compliance with the Performance Standards is dependent upon proper installation and final testing of the complete system at the user location.
+
+[^9]: Available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-industry-and­ food-and-drug-administration-staff-assemblers-guide-diagnostic-x-ray-equipment
+
+[^10]: For more information about instructions manufacturers must provide to assemblers, see 21 CFR 1020.30(g). For more information about instructions manufacturers must provide to users, see 21 CFR 1020.30(h)(1)(i). • Provide to purchasers and, upon request, to others at a cost not to exceed the cost of publication and distribution, manuals or instruction sheets which shall include adequate instructions concerning any radiological safety procedures and precautions which may be necessary because of unique features of the equipment and a schedule of the maintenance necessary to keep the equipment in compliance with the Specific
+
+[^11]: For more information regarding the use of symbols in labeling, please see https://www.federalregister.gov/documents/2016/06/15/2016-13989/use-of-symbols-in-labeling ANSWER: FDA does not intend to object to the use of a symbol in certain labeling required by 21 CFR 1020.30 where the use of such a symbol is consistent with the device labeling regulations under 21 CFR Parts 801 and 809.
+
+[^12]: Available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/addition-urls-electronic­ product-labeling previously affixed tube insert inscriptions, tags, or labels that are no longer applicable, and apply new tube insert labels (21 CFR 1020.30(e)(2)). (See also question 18). (5)
+
+[^13]: Available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-industry-and­ food-and-drug-administration-staff-assemblers-guide-diagnostic-x-ray-equipment pertaining to its quality control testing, including the basis for selecting any alternate test procedures (21 CFR 1002.30(a)(2)). 40. QUESTION: Is it permissible to round off measured test results if the measured values are slightly in excess of regulatory limits stated in the Performance Standards and the rounding would allow the values to fall within the regulatory limits? ANSWER: No. The regulatory limits in the Performance Standards are absolute values and as such, they cannot be exceeded. Rounding measured test results to obtain compliant values is not acceptable. For example, during testing of a fluoroscopic system, a measured maximum air kerma rate of 88.1 mGy per minute was obtained. Since the limit for the applicable requirement is 88 mGy per minute for this system, the measured value of 88.1 mGy per minute exceeds the limit in the performance standard, and the unit is not compliant. Manufacturers (including assemblers) should employ action limits more stringent than the regulatory limits to assure that equipment meets all regulatory limits in the relevant Performance Standards. 41. QUESTION: What is meant by the term “measurement criteria” as related to “technique factors” in 21 CFR 1020.30(h)(3)(viii)? ANSWER: The regulations define technique factors such as peak tube potential, tube current, etc. (21 CFR 1020.30(b)). However, the definitions are general in nature and more precise information is needed to interpret the technique factors. Specifically, the criteria used to obtain the indicated technique factors must be given (21 CFR 1020.30(h)(3)(viii)).
+
+[^14]: For additional assembler information see FDA’s guidance entitled “Guidance for Industry and Food and Drug
+
+[^16]: Available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-industry-and­ food-and-drug-administration-staff-assemblers-guide-diagnostic-x-ray-equipment date of installation, and not the date on which the assembler completes and distributes
+
+[^17]: Available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/information-disclosure­ manufacturers-assemblers-diagnostic-x-ray-systems-guidance-industry-and-fda 54. QUESTION: 21 CFR 1020.30(g) requires manufacturers to provide adequate instructions to complete a compliant installation of their component(s) into a diagnostic x-ray system.
+
+[^18]: Available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/information-disclosure­ manufacturers-assemblers-diagnostic-x-ray-systems-guidance-industry-and-fda instructions to complete the installation? In these situations, what are manufacturer’s responsibilities? May assemblers or others obtain access to the software through other means? ANSWER: Assemblers or others who believe they are not being provided access to software programs that are necessary to comply with the performance standard governing assembly, installation, adjustment, and testing or believe that they do not have adequate assembly, installation, adjustment, and testing instructions to comply with applicable regulations when assembled, installed, adjusted, and tested as directed should inform the manufacturer and request clarification or access to the software. When evaluating this information, FDA expects manufacturers to assess whether existing assembly, installation, adjustment, and testing instructions meet the performance standard. Manufacturers must take any corrective actions or submit any regulatory notifications that are required, such as notifying FDA in accordance with 21 CFR 1003.20 (see 21 CFR 1003.10(a)) regarding the manufacturer’s noncompliance with a performance standard governing information to be provided to assemblers (21 CFR 1020.30(g)).
+
+[^19]: Available at https://www.fda.gov/medical-devices/reporting-allegations-regulatory-misconduct/allegations­ regulatory-misconduct-form
+
+[^21]: Available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/information-disclosure­ manufacturers-assemblers-diagnostic-x-ray-systems-guidance-industry-and-fda
+
+[^22]: Available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/compliance-policy­ guide-sec-390200-determination-secretary-product-fails-comply-or-has-defect-21-cfr a. FDA’s findings, with references to the tests, inspections, studies, or reports upon which such findings are based (21 CFR 1003.11(a)(2)); b. The defect in the product or the manner in which the product fails to comply with the applicable Federal standard (21 CFR 1003.11(a)(1)); and c. A reasonable period of time during which the manufacturer may present its views and evidence to establish that there is no failure of compliance or that the alleged defect does not exist or does not relate to safety of use of the product by reason of the emission of electronic product radiation (21 CFR 1003.11(a)(3)).
+
+[^23]: Available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/policy-clarification­ certain-fluoroscopic-equipment-requirements fluoroscopy (i.e., a live image; 21 CFR 1020.32(j)(3)). How does FDA interpret the requirement to “clearly indicate” which image is being displayed? ANSWER: Any readily recognizable and distinguishable wording, icon, or image that is prominently displayed on the images or at the location where the “image hold” and “live image” information is displayed, in conjunction with clear explanations and descriptions in the information to be provided to users (21 CFR 1020.30(h)(1)(i)) (e.g., manuals or instructions) will satisfy the requirement under 21 CFR 1020.32(j)(3). 74. QUESTION: 21 CFR 1020.32(k) specifies that fluoroscopic equipment manufactured on or after June 10, 2006 must display at the fluoroscopist’s working position both the air kerma rate (AKR) and the cumulative air kerma. Would the display of the dose area product (DAP) (also called kerma-area product) and the cumulative DAP satisfy these requirements? ANSWER: No. Display of the DAP and cumulative DAP provide significantly different information relating to the x-ray field than the AKR and the cumulative air kerma, and thus do not satisfy 21 CFR 1020.32(k). 75. QUESTION: If a fluoroscopic system uses an under-table tube, and is also capable of spot- film exposures, is the tube considered a radiographic tube when used for spot-film exposures?
+
+[^24]: Available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-submission­ 510ks-solid-state-x-ray-imaging-devices b. When both switches are activated, the light intensity is equal to about 160 lux at 100 cm, and it is timed so that after 30 seconds, the intensity decreases to about 100 lux?
 
 <!-- fulltext-end -->

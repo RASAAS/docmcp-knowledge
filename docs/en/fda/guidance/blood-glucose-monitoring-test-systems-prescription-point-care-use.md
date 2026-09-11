@@ -25,1894 +25,429 @@ PDF: [https://www.fda.gov/media/119829/download](https://www.fda.gov/media/11982
 
 ## Official Full Text
 
-<!-- Page 1 -->
-On June 14, 2023, FDA issued a guidance titled “Content of Premarket Submissions for Device 
-Software Functions.”1 This final guidance supersedes the Guidance for the Content of Premarket 
-Submissions for Software Contained in Medical Devices, issued on May 11, 2005. The final 
-guidance issued on June 14, 2023, provides information regarding the recommended 
-documentation sponsors should include in premarket submissions for FDA’s evaluation of the 
-safety and effectiveness of device software functions. In particular, the final guidance includes 
-information to help determine a device’s Documentation Level (formerly known as Level of 
-Concern). The purpose of the Documentation Level is to help identify the minimum amount of 
-information that would support a premarket submission that includes device software functions.
-Within the framework of the superseded guidance, blood glucose monitoring systems for 
-prescription point of care use were considered a device with a Moderate Level of Concern. Based 
-on the device’s risk in the context of the device’s intended use, as discussed in the final guidance 
-“Content of Premarket Submissions for Device Software Functions,” blood glucose monitoring 
-systems for prescription point of care use should generally address the recommendations for a 
-Basic Documentation Level. The actual Documentation Level for your device may vary based on 
-the specifics of your device. For more information about Documentation Level and 
-recommended documentation for a premarket submission, sponsors are encouraged to review the 
-guidance “Content of Premarket Submissions for Device Software Functions.” 
- 
-1 Available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/content-premarket-
-submissions-device-software-functions.
+On June 14, 2023, FDA issued a guidance titled “Content of Premarket Submissions for Device
+Software Functions.”1 This final guidance supersedes the Guidance for the Content of Premarket
+Submissions for Software Contained in Medical Devices, issued on May 11, 2005. The final guidance issued on June 14, 2023, provides information regarding the recommended documentation sponsors should include in premarket submissions for FDA’s evaluation of the safety and effectiveness of device software functions. In particular, the final guidance includes information to help determine a device’s Documentation Level (formerly known as Level of Concern). The purpose of the Documentation Level is to help identify the minimum amount of information that would support a premarket submission that includes device software functions.
+Within the framework of the superseded guidance, blood glucose monitoring systems for prescription point of care use were considered a device with a Moderate Level of Concern. Based on the device’s risk in the context of the device’s intended use, as discussed in the final guidance “Content of Premarket Submissions for Device Software Functions,” blood glucose monitoring systems for prescription point of care use should generally address the recommendations for a
+Basic Documentation Level. The actual Documentation Level for your device may vary based on the specifics of your device. For more information about Documentation Level and recommended documentation for a premarket submission, sponsors are encouraged to review the guidance “Content of Premarket Submissions for Device Software Functions.”
 
----
 
-<!-- Page 2 -->
-Blood Glucose Monitoring Test 
-Systems for Prescription 
-Point-of-Care Use 
-Guidance for Industry and 
-Food and Drug Administration Staff
- 
-Document issued on: September 29, 2020. 
-The draft of this document was issued on November 30, 2018. 
-This guidance supersedes “Blood Glucose Monitoring Test Systems for 
-Prescription Point-of-Care Use: Guidance for Industry and Food and Drug 
-Administration Staff,” issued October 11, 2016. 
-For questions regarding this document, contact Leslie Landree at leslie.landree@fda.hhs.gov, 
-or at 301-796-6147. 
-U.S. Department of Health and Human Services 
-Food and Drug Administration 
-Center for Devices and Radiological Health
+Blood Glucose Monitoring Test Systems for Prescription Point-of-Care Use
 
----
+This guidance represents the current thinking of the Food and Drug Administration (FDA or Agency) on this topic.  It does not establish any rights for any person and is not binding on FDA or the public.  You can use an alternative approach if it satisfies the requirements of the applicable statutes and regulations.  To discuss an alternative approach, contact the
+FDA staff or Office responsible for this guidance as listed on the title page.
+## I. Introduction
+This guidance document describes studies and information that FDA recommends be used when submitting premarket notifications (510(k)s) for blood glucose monitoring systems (BGMSs) which are for prescription point-of-care use. This guidance document is intended to guide manufacturers in conducting appropriate performance studies and preparing 510(k) submissions for these device types, and replaces the final guidance entitled “Blood Glucose
+Monitoring Test Systems for Prescription Point-of-Care Use” issued on October 11, 2016.
+This guidance is not meant to address self-monitoring blood glucose test systems (SMBGs) for over-the-counter (OTC) home use by lay-users. FDA addresses those device types in another guidance entitled “Self-Monitoring Blood Glucose Test Systems for Over-the-
+Counter Use” (SMBG guidance).1 FDA is also issuing a revised SMBG guidance to reflect similar clarifications to the ones discussed in this guidance.
+For the current edition of FDA-recognized standards referenced in this document, see the
+FDA Recognized Consensus Standards Database Web site.2 For more information regarding use of consensus standards in regulatory submissions, please refer to the FDA guidance titled
 
-<!-- Page 3 -->
-Contains Nonbinding Recommendations 
-Preface 
-Public Comment 
-You may submit electronic comments and suggestions at any time for Agency consideration to 
-https://www.regulations.gov . Submit written comments to the Dockets Management Staff, 
-Food and Drug Administration, 5630 Fishers Lane, Room 1061, (HFA-305), Rockville, MD 
-20852. Identify all comments with the docket number FDA-2013-D-1445.  Comments may not 
-be acted upon by the Agency until the document is next revised or updated. 
-Additional Copies 
-Additional copies are available from the Internet. You may also send an e-mail request to 
-CDRH-Guidance@fda.hhs.gov to receive a copy of the guidance. Please include the 
-document number 1755 and complete title of the guidance in the request.
+Devices.”3
+FDA’s guidance documents, including this guidance, do not establish legally enforceable responsibilities. Instead, guidances describe the Agency’s current thinking on a topic and should be viewed only as recommendations, unless specific regulatory or statutory requirements are cited. The use of the word should in Agency guidances means that something is suggested or recommended, but not required.
+## II. Background
+Portable blood glucose meters that measure blood glucose values are used by millions of people every day as an aid in diabetes self-management. These types of devices are also used by healthcare professionals in a variety of clinical settings including acute and chronic care facilities, general hospital wards and intensive care units, physicians’ offices, assisted living facilities, and nursing homes.
+Historically, the FDA has not recommended different types of information in premarket submissions (510(k)s) for BGMSs intended to be used by healthcare professionals as compared to over-the-counter SMBGs intended for home use by lay-users. However, it has become increasingly clear that these different use settings comprise distinct intended use populations with unique characteristics that can impact device design specifications, and that manufacturers should take these unique characteristics into account when designing their devices. In order to distinguish between FDA recommendations for prescription use blood glucose meters, which are intended for use in point-of-care professional healthcare settings, and those intended for OTC self-monitoring by lay-users, the Agency is issuing two separate guidances for (i) BGMSs intended for use in point-of-care professional healthcare settings, and (ii) SMBGs intended for home use for self-monitoring by lay-users. FDA believes that by making this distinction, each of the devices can be better designed to meet the needs of their intended use populations, thereby providing greater safety and efficacy.
+In recent years, concerns have been raised related to infection control issues involving blood glucose meters and lancing devices. According to the Centers for Medicare and Medicaid
+Services (CMS) and the Centers for Disease Control and Prevention (CDC), blood glucose meters can transmit bloodborne pathogens if these devices are contaminated with blood specimens and are shared between users without effective cleaning, disinfecting, and appropriate infection control measures.4 Because BGMSs used in professional healthcare settings are more likely to be used on multiple patients, this type of use necessitates certain design features and the capacity for cleaning and disinfection to prevent the spread of bloodborne pathogens.5 We recommend manufacturers consider design features that will aid
 
----
+5 Thompson, N.D. and Perez, J.F. (2009) Eliminating the blood: Ongoing outbreaks of hepatitis B virus infection and the need for innovative glucose monitoring technologies. Journal of Diabetes Science and Technology. 3(2), 283-288.
+in user accessibility (for example, features that would increase accessibility to users with visual impairments).
+In addition, concerns have been raised regarding the inability of currently cleared BGMSs to perform effectively in professional healthcare settings because these devices have not been adequately evaluated in some of the populations in which they are being used. Patients in professional healthcare settings are often fundamentally different than lay-users using these devices at home. Patients in professional healthcare settings can be acutely ill and medically fragile and are more likely to present physiological and pathological factors that could interfere with glucose measurements relative to lay-users. Errors in BGMS device accuracy can lead to incorrect insulin dosing, which, when combined with other factors, can lead to increased episodes of hypoglycemia. For hospitalized patients who may be seriously ill, glucose meter inaccuracies could further increase risk to health.
+Previously, most blood glucose meters, even those intended to be used by healthcare professionals, were submitted to FDA with claims for OTC home use by lay-users. Sponsors evaluated these devices for self-use by healthy people with diabetes or by healthcare professionals on healthy people with diabetes. However, they were actually being used by healthcare professionals as point-of-care (POC) devices to monitor blood glucose levels in diabetic and non-diabetic patients in various states of health. Scientific and clinical issues specific to the professional healthcare setting, which could affect glucose meter performance, were never evaluated for these devices. Use of BGMSs in professional healthcare settings on patients in various states of health and receiving intensive medical intervention and therapy, when they were evaluated and cleared based on studies performed in healthy subjects, can put patients at risk. Therefore, when devices are intended for use in professional healthcare settings, the intended use population should be accurately defined, distinct performance parameters should be met, and sponsors should demonstrate substantial equivalence of the device for that particular use.
+The intent of this guidance is to describe the studies that should be conducted to demonstrate BGMS performance for devices which are intended to be used in diverse professional healthcare settings on subjects in various states of health. Intended use populations for a BGMS may include patients in all professional healthcare settings, patients in specific healthcare settings (e.g., in emergency response vehicles), patients in long-term care facilities, or patients at a physician’s office. The Agency expects that not all sponsors will seek clearance for their device to be used across all professional healthcare settings. BGMSs intended for POC use in specific professional healthcare settings should be studied in those specific populations in accordance with the recommendations in this guidance, and labeled appropriately. For BGMSs intended for use in many or all professional healthcare settings, it may be necessary to identify sub-populations in which the BGMS may function differently than in the broader intended use population. The identification and study of patient subpopulations is described in greater detail in Section VI.C below. In all cases, performance studies should account for factors such as disease state, patient condition, physiological state, and medications that might affect device performance in the intended use population for that BGMS.
+CLIA waiver of professional use meters FDA’s clearance of a 510(k) submission for SMBGs intended for OTC home use allows automatic CLIA waived categorization (see 42 U.S.C. 263a(d)(3)). As described above, most blood glucose meters on the market today, even those used in healthcare professional settings, were previously submitted to FDA with claims for OTC use by lay-users and were therefore given CLIA waived categorization pursuant to regulation (see 42 CFR 493.15).
+The use of blood glucose meters cleared for OTC use in professional healthcare settings poses a number of additional risks to patients, as described above. By contrast, clearance of BGMSs as prescription devices intended for point-of-care use in professional healthcare settings, as described in this guidance, means that FDA expects that clearance of BGMSs for prescription point-of-care use will be categorized upon clearance as moderate complexity.
+However, FDA recognizes the importance of having CLIA-waived BGMSs in point-of-care professional healthcare settings and intends, through the studies described in this guidance, to facilitate CLIA waiver for these devices by recommending that the information described below be submitted in a dual 510(k)/CLIA waiver submission or an associated application for CLIA Waiver, and enabling BGMSs to be CLIA waived concurrently with their 510(k) clearance.6
+FDA has proposed several studies in this guidance that can be performed in a way that will allow sponsors to request FDA review of both their 510(k) submission and CLIA waiver for their BGMSs concurrently. For example, the recommended number of samples (for each sample type: arterial, venous, capillary blood) requested in the Method Comparison/User
+Evaluation (Section VI-C below) is specifically recommended to allow results from this study to be used to support a CLIA waiver application. The sponsor should plan to conduct these studies using untrained intended users in a CLIA waived setting. Based on feedback from the clinical community, we understand that because of the settings in which these devices are used, and the types of users who use them in clinical practice, it is beneficial to patients and the healthcare community that BGMSs be CLIA waived; therefore, sponsors should design their studies with CLIA waiver in mind. We recommend that sponsors refer to FDA’s guidance entitled “Recommendations for Clinical Laboratory Improvement
+Amendments of 1988 (CLIA) Waiver Applications for Manufacturers of In Vitro Diagnostic Devices”7 to further understand how the studies described and recommended in this guidance can be performed to support CLIA waived status. We also encourage sponsors to contact the
+Agency with questions prior to starting their studies to ensure that the studies they plan to perform are designed to support CLIA waived use of their device.8
 
-<!-- Page 4 -->
-Contains Nonbinding Recommendations 
-Table of Contents 
-I. 
-INTRODUCTION ..................................................................................................................................... 4 
-II. 
-BACKGROUND ........................................................................................................................................ 5 
-CLIA WAIVER OF PROFESSIONAL USE METERS .................................................................................................... 7 
-III. 
-SCOPE ........................................................................................................................................................ 8 
-IV. 
-REDUCING THE RISK OF BLOODBORNE PATHOGEN TRANSMISSION ................................ 8 
-A. 
-VALIDATED CLEANING AND DISINFECTION PROCEDURES ...................................................................... 10 
-B. 
-DEMONSTRATION THAT THE DEVICE IS ROBUST TO CLEANING AND DISINFECTION PROCEDURES ........... 11 
-V. 
-DEVICE DESCRIPTION ....................................................................................................................... 12 
-VI. 
-PERFORMANCE EVALUATION FOR PRESCRIPTION-USE BGMSS ........................................ 13 
-A. 
-PRECISION EVALUATION STUDY ........................................................................................................... 13 
-B. 
-LINEARITY EVALUATION STUDY ........................................................................................................... 15 
-C. 
-METHOD COMPARISON/USER EVALUATION .......................................................................................... 15 
-1. 
-General Study Design .......................................................................................................................... 15 
-2. 
-Data Analysis ....................................................................................................................................... 20 
-D. 
-INTERFERENCE EVALUATION ................................................................................................................ 21 
-1. 
-Endogenous/Exogenous Substances ................................................................................................... 21 
-2. 
-Hematocrit ........................................................................................................................................... 24 
-3. 
-Oxygen ................................................................................................................................................. 26 
-E. 
-FLEX STUDIES ........................................................................................................................................... 27 
-1. 
-Test Strip Stability Testing ................................................................................................................... 28 
-2. 
-System Operating Conditions Testing ................................................................................................. 30 
-3. 
-Altitude Effects .................................................................................................................................... 30 
-4. 
-Error Codes for Samples Outside the Measuring Range ................................................................... 31 
-You should perform adequate analyses to demonstrate that your meter provides the appropriate error 
-codes when measured glucose concentrations are outside of the BGMS’s claimed measuring range, and 
-include these results in your 510(k) submission. ........................................................................................ 31 
-5. 
-Short Sample Detection ....................................................................................................................... 31 
-6. 
-Sample Perturbation Study .................................................................................................................. 31 
-7. 
-Intermittent Sampling .......................................................................................................................... 31 
-8. 
-Testing with Used Test Strips .............................................................................................................. 32 
-F. 
-METER CALIBRATION AND QUALITY CONTROL MATERIAL ...................................................................... 32 
-VII. TEST STRIP LOT RELEASE CRITERIA ........................................................................................... 32 
-VIII. THIRD PARTY TEST STRIPS ............................................................................................................. 33 
-IX. 
-SOFTWARE ............................................................................................................................................ 33 
-X. 
-LABELING .............................................................................................................................................. 33 
-APPENDIX 1. SOURCES OF ERROR TO CONSIDER FOR BGMSS ....................................................... 39 
-APPENDIX 2. SPECIAL 510(K)S AND BGMSS ............................................................................................ 42
-
----
-
-<!-- Page 5 -->
-Contains Nonbinding Recommendations 
-4
-Blood Glucose Monitoring Test 
-Systems for Prescription 
-Point-of-Care Use 
-Guidance for Industry and 
-Food and Drug Administration Staff 
-This guidance represents the current thinking of the Food and Drug Administration (FDA 
-or Agency) on this topic.  It does not establish any rights for any person and is not binding 
-on FDA or the public.  You can use an alternative approach if it satisfies the requirements 
-of the applicable statutes and regulations.  To discuss an alternative approach, contact the 
-FDA staff or Office responsible for this guidance as listed on the title page. 
-I. 
-Introduction 
-This guidance document describes studies and information that FDA recommends be used 
-when submitting premarket notifications (510(k)s) for blood glucose monitoring systems 
-(BGMSs) which are for prescription point-of-care use. This guidance document is intended 
-to guide manufacturers in conducting appropriate performance studies and preparing 510(k) 
-submissions for these device types, and replaces the final guidance entitled “Blood Glucose 
-Monitoring Test Systems for Prescription Point-of-Care Use” issued on October 11, 2016. 
-This guidance is not meant to address self-monitoring blood glucose test systems (SMBGs) 
-for over-the-counter (OTC) home use by lay-users. FDA addresses those device types in 
-another guidance entitled “Self-Monitoring Blood Glucose Test Systems for Over-the-
-Counter Use” (SMBG guidance).1 FDA is also issuing a revised SMBG guidance to reflect 
-similar clarifications to the ones discussed in this guidance. 
-For the current edition of FDA-recognized standards referenced in this document, see the 
-FDA Recognized Consensus Standards Database Web site.2 For more information regarding 
-use of consensus standards in regulatory submissions, please refer to the FDA guidance titled 
-                                                          
-1 Available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/self-monitoring-
-blood-glucose-test-systems-over-counter-use. 
-2 Available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfStandards/search.cfm.
-
----
-
-<!-- Page 6 -->
-Contains Nonbinding Recommendations 
-5
-“Appropriate Use of Voluntary Consensus Standards in Premarket Submissions for Medical 
-Devices.”3  
-FDA’s guidance documents, including this guidance, do not establish legally enforceable 
-responsibilities. Instead, guidances describe the Agency’s current thinking on a topic and 
-should be viewed only as recommendations, unless specific regulatory or statutory 
-requirements are cited. The use of the word should in Agency guidances means that 
-something is suggested or recommended, but not required. 
-II. 
-Background 
-Portable blood glucose meters that measure blood glucose values are used by millions of 
-people every day as an aid in diabetes self-management. These types of devices are also used 
-by healthcare professionals in a variety of clinical settings including acute and chronic care 
-facilities, general hospital wards and intensive care units, physicians’ offices, assisted living 
-facilities, and nursing homes. 
-Historically, the FDA has not recommended different types of information in premarket 
-submissions (510(k)s) for BGMSs intended to be used by healthcare professionals as 
-compared to over-the-counter SMBGs intended for home use by lay-users. However, it has 
-become increasingly clear that these different use settings comprise distinct intended use 
-populations with unique characteristics that can impact device design specifications, and that 
-manufacturers should take these unique characteristics into account when designing their 
-devices. In order to distinguish between FDA recommendations for prescription use blood 
-glucose meters, which are intended for use in point-of-care professional healthcare settings, 
-and those intended for OTC self-monitoring by lay-users, the Agency is issuing two separate 
-guidances for (i) BGMSs intended for use in point-of-care professional healthcare settings, 
-and (ii) SMBGs intended for home use for self-monitoring by lay-users. FDA believes that 
-by making this distinction, each of the devices can be better designed to meet the needs of 
-their intended use populations, thereby providing greater safety and efficacy. 
-In recent years, concerns have been raised related to infection control issues involving blood 
-glucose meters and lancing devices. According to the Centers for Medicare and Medicaid 
-Services (CMS) and the Centers for Disease Control and Prevention (CDC), blood glucose 
-meters can transmit bloodborne pathogens if these devices are contaminated with blood 
-specimens and are shared between users without effective cleaning, disinfecting, and 
-appropriate infection control measures.4 Because BGMSs used in professional healthcare 
-settings are more likely to be used on multiple patients, this type of use necessitates certain 
-design features and the capacity for cleaning and disinfection to prevent the spread of 
-bloodborne pathogens.5 We recommend manufacturers consider design features that will aid 
-                                                          
-3 Available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/appropriate-use-
-voluntary-consensus-standards-premarket-submissions-medical-devices 
-4 See information at http://www.cdc.gov/injectionsafety/blood-glucose-monitoring.html. 
-5 Thompson, N.D. and Perez, J.F. (2009) Eliminating the blood: Ongoing outbreaks of hepatitis B virus 
-infection and the need for innovative glucose monitoring technologies. Journal of Diabetes Science and 
-Technology. 3(2), 283-288.
-
----
-
-<!-- Page 7 -->
-Contains Nonbinding Recommendations 
-6
-in user accessibility (for example, features that would increase accessibility to users with 
-visual impairments). 
-In addition, concerns have been raised regarding the inability of currently cleared BGMSs to 
-perform effectively in professional healthcare settings because these devices have not been 
-adequately evaluated in some of the populations in which they are being used. Patients in 
-professional healthcare settings are often fundamentally different than lay-users using these 
-devices at home. Patients in professional healthcare settings can be acutely ill and medically 
-fragile and are more likely to present physiological and pathological factors that could 
-interfere with glucose measurements relative to lay-users. Errors in BGMS device accuracy 
-can lead to incorrect insulin dosing, which, when combined with other factors, can lead to 
-increased episodes of hypoglycemia. For hospitalized patients who may be seriously ill, 
-glucose meter inaccuracies could further increase risk to health. 
-Previously, most blood glucose meters, even those intended to be used by healthcare 
-professionals, were submitted to FDA with claims for OTC home use by lay-users. Sponsors 
-evaluated these devices for self-use by healthy people with diabetes or by healthcare 
-professionals on healthy people with diabetes. However, they were actually being used by 
-healthcare professionals as point-of-care (POC) devices to monitor blood glucose levels in 
-diabetic and non-diabetic patients in various states of health. Scientific and clinical issues 
-specific to the professional healthcare setting, which could affect glucose meter performance, 
-were never evaluated for these devices. Use of BGMSs in professional healthcare settings on 
-patients in various states of health and receiving intensive medical intervention and therapy, 
-when they were evaluated and cleared based on studies performed in healthy subjects, can 
-put patients at risk. Therefore, when devices are intended for use in professional healthcare 
-settings, the intended use population should be accurately defined, distinct performance 
-parameters should be met, and sponsors should demonstrate substantial equivalence of the 
-device for that particular use. 
-The intent of this guidance is to describe the studies that should be conducted to demonstrate 
-BGMS performance for devices which are intended to be used in diverse professional 
-healthcare settings on subjects in various states of health. Intended use populations for a 
-BGMS may include patients in all professional healthcare settings, patients in specific 
-healthcare settings (e.g., in emergency response vehicles), patients in long-term care 
-facilities, or patients at a physician’s office. The Agency expects that not all sponsors will 
-seek clearance for their device to be used across all professional healthcare settings. BGMSs 
-intended for POC use in specific professional healthcare settings should be studied in those 
-specific populations in accordance with the recommendations in this guidance, and labeled 
-appropriately. For BGMSs intended for use in many or all professional healthcare settings, it 
-may be necessary to identify sub-populations in which the BGMS may function differently 
-than in the broader intended use population. The identification and study of patient 
-subpopulations is described in greater detail in Section VI.C below. In all cases, performance 
-studies should account for factors such as disease state, patient condition, physiological state, 
-and medications that might affect device performance in the intended use population for that 
-BGMS.
-
----
-
-<!-- Page 8 -->
-Contains Nonbinding Recommendations 
-7
-CLIA waiver of professional use meters 
-FDA’s clearance of a 510(k) submission for SMBGs intended for OTC home use allows 
-automatic CLIA waived categorization (see 42 U.S.C. 263a(d)(3)). As described above, most 
-blood glucose meters on the market today, even those used in healthcare professional 
-settings, were previously submitted to FDA with claims for OTC use by lay-users and were 
-therefore given CLIA waived categorization pursuant to regulation (see 42 CFR 493.15).  
-The use of blood glucose meters cleared for OTC use in professional healthcare settings 
-poses a number of additional risks to patients, as described above. By contrast, clearance of 
-BGMSs as prescription devices intended for point-of-care use in professional healthcare 
-settings, as described in this guidance, means that FDA expects that clearance of BGMSs for 
-prescription point-of-care use will be categorized upon clearance as moderate complexity.  
-However, FDA recognizes the importance of having CLIA-waived BGMSs in point-of-care 
-professional healthcare settings and intends, through the studies described in this guidance, to 
-facilitate CLIA waiver for these devices by recommending that the information described 
-below be submitted in a dual 510(k)/CLIA waiver submission or an associated application 
-for CLIA Waiver, and enabling BGMSs to be CLIA waived concurrently with their 510(k) 
-clearance.6  
-FDA has proposed several studies in this guidance that can be performed in a way that will 
-allow sponsors to request FDA review of both their 510(k) submission and CLIA waiver for 
-their BGMSs concurrently. For example, the recommended number of samples (for each 
-sample type: arterial, venous, capillary blood) requested in the Method Comparison/User 
-Evaluation (Section VI-C below) is specifically recommended to allow results from this 
-study to be used to support a CLIA waiver application. The sponsor should plan to conduct 
-these studies using untrained intended users in a CLIA waived setting. Based on feedback 
-from the clinical community, we understand that because of the settings in which these 
-devices are used, and the types of users who use them in clinical practice, it is beneficial to 
-patients and the healthcare community that BGMSs be CLIA waived; therefore, sponsors 
-should design their studies with CLIA waiver in mind. We recommend that sponsors refer to 
-FDA’s guidance entitled “Recommendations for Clinical Laboratory Improvement 
-Amendments of 1988 (CLIA) Waiver Applications for Manufacturers of In Vitro Diagnostic 
-Devices”7 to further understand how the studies described and recommended in this guidance 
-can be performed to support CLIA waived status. We also encourage sponsors to contact the 
-Agency with questions prior to starting their studies to ensure that the studies they plan to 
-perform are designed to support CLIA waived use of their device.8
-                                                          
-6 For information on FDA’s CLIA administrative procedures, see FDA’s guidance entitled “Administrative 
-Procedures for CLIA Categorization – Guidance for Industry and Food and Drug Administration Staff”. 
-(https://www.fda.gov/regulatory-information/search-fda-guidance-documents/administrative-procedures-clia-
-categorization). 
-7Available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/recommendations-
-clinical-laboratory-improvement-amendments-1988-clia-waiver-applications. 
-8 For further information regarding CLIA waivers by application, please see https://www.fda.gov/medical-
-devices/ivd-regulatory-assistance/clia-waiver-application
-
----
-
-<!-- Page 9 -->
-Contains Nonbinding Recommendations 
-8
-III. 
-Scope 
-This guidance document is limited to BGMSs which are regulated under 21 CFR 862.1345. 
-The following product codes are within the scope of this guidance document: 
-CGA (glucose oxidase method) 
-CFR (hexokinase method) 
-LFR (glucose dehydrogenase method) 
-This document is not meant to address the following types of devices: 
-· SMBGs intended for home use by lay-users (product code NBW). Additional 
-considerations (labeling or other) may be warranted for OTC devices. 
-· Devices used to screen for and/or to diagnose diabetes (such as clinical chemistry 
-analyzers). 
-· Continuous glucose sensors, implanted or external (e.g., continuous glucose 
-monitoring systems (CGMs) or sensors within catheters). 
-· Non-invasive glucose measurement devices (i.e., devices that do not require removal 
-of a blood sample from a finger or other anatomical site). 
-· Blood glucose test technologies labeled for specialized use (e.g., for automated 
-monitoring to aid in glycemic control protocols). 
-While FDA recommends that the information described in this guidance be included in 
-premarket submissions for BGMSs, submissions containing alternative information may be 
-sufficient if able to demonstrate substantial equivalence to a legally marketed predicate 
-device.  
-We recommend that you contact the Division of Chemistry and Toxicology Devices in the 
-Office of In Vitro Diagnostics and Radiological Health (OIR) if you have questions 
-regarding alternative intended uses or similar technologies. 
-IV. 
-Reducing the Risk of Bloodborne Pathogen 
-Transmission 
-Since BGMSs use blood specimens for glucose measurement, their design and instructions 
-for use are very important factors in reducing the risk of bloodborne pathogen transmission 
-during use. This is especially important for blood glucose meters used in professional settings 
-which may be used in the care of multiple patients. According to the CMS and the CDC, 
-blood glucose meters can transmit bloodborne pathogens, such as viral hepatitis, if these 
-devices are contaminated with blood and are shared between users without effective cleaning
-
----
-
-<!-- Page 10 -->
-Contains Nonbinding Recommendations 
-9
-and disinfection.9 To minimize the risk of bloodborne pathogen transmission you should 
-address the following in your device design and labeling: 
-· 
-Meters should be designed such that all external materials can be cleaned (removal of 
-organic soil) and disinfected (microbicidal process). 
-· 
-All external surfaces of the meter, including seams and the test strip port, should be 
-designed for both ease of use and ease of cleaning and disinfection. 
-· You should develop an effective disinfection method and provide the validated 
-cleaning and disinfection procedures for your BGMS device in your 510(k) 
-submission as well as in the labeling. Cleaning and disinfection are different 
-processes and warrants separate validation procedures and specifications. 
-· You should validate the efficacy of any disinfectant you recommend for use with 
-your device, as described below. We recommend you consult the Environmental 
-Protection Agency’s (EPA) list of disinfectants that are registered for use against 
-infectious bacteria and viruses in choosing disinfectants to validate for use with your 
-device.10
-· Your BGMS device should be intended for use with only auto-disabling, single use 
-lancing devices. Single use lancing devices are designed to be used only once, after 
-which the blade is retracted, capped, or otherwise made unusable. The auto-disabling, 
-single use lancing device you recommend for use with your BGMS device should be 
-specified in your labeling. You should emphasize in the labeling that lancing devices 
-are for single patient use and should NEVER be used for more than one person. Your 
-labeling should instruct users to discard lancing devices in designated sharps 
-containers. 
-· Labeling concerning safe device use can reduce the risk of user error. Therefore, 
-instructions for cleaning and disinfection should be clear and detailed. The various 
-test system components should be named in such a way that they are recognized as 
-belonging to the same system or family of products, and to distinguish them from 
-similar devices intended for single-patient use only (e.g., ABC blood glucose test 
-system, ABC blood glucose meter, ABC blood glucose test strips, etc.). See Section 
-X Labeling below for detailed labeling recommendations. For additional information 
-on labeling your reusable medical device, see FDA’s guidance entitled “Reprocessing 
+6 For information on FDA’s CLIA administrative procedures, see FDA’s guidance entitled “Administrative
+Procedures for CLIA Categorization – Guidance for Industry and Food and Drug Administration Staff”.
+(https://www.fda.gov/regulatory-information/search-fda-guidance-documents/administrative-procedures-cliacategorization).
+7Available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/recommendations-clinical-laboratory-improvement-amendments-1988-clia-waiver-applications.
+8 For further information regarding CLIA waivers by application, please see https://www.fda.gov/medicaldevices/ivd-regulatory-assistance/clia-waiver-application
+## III. Scope
+This guidance document is limited to BGMSs which are regulated under 21 CFR 862.1345.
+The following product codes are within the scope of this guidance document: CGA (glucose oxidase method) CFR (hexokinase method) LFR (glucose dehydrogenase method)
+This document is not meant to address the following types of devices: · SMBGs intended for home use by lay-users (product code NBW). Additional considerations (labeling or other) may be warranted for OTC devices.
+- Devices used to screen for and/or to diagnose diabetes (such as clinical chemistry analyzers).
+- Continuous glucose sensors, implanted or external (e.g., continuous glucose monitoring systems (CGMs) or sensors within catheters).
+- Non-invasive glucose measurement devices (i.e., devices that do not require removal of a blood sample from a finger or other anatomical site).
+- Blood glucose test technologies labeled for specialized use (e.g., for automated monitoring to aid in glycemic control protocols).
+While FDA recommends that the information described in this guidance be included in premarket submissions for BGMSs, submissions containing alternative information may be sufficient if able to demonstrate substantial equivalence to a legally marketed predicate device.
+We recommend that you contact the Division of Chemistry and Toxicology Devices in the
+Office of In Vitro Diagnostics and Radiological Health (OIR) if you have questions regarding alternative intended uses or similar technologies.
+## IV. Reducing the Risk of Bloodborne Pathogen Transmission
+Since BGMSs use blood specimens for glucose measurement, their design and instructions for use are very important factors in reducing the risk of bloodborne pathogen transmission during use. This is especially important for blood glucose meters used in professional settings which may be used in the care of multiple patients. According to the CMS and the CDC, blood glucose meters can transmit bloodborne pathogens, such as viral hepatitis, if these devices are contaminated with blood and are shared between users without effective cleaning and disinfection.9 To minimize the risk of bloodborne pathogen transmission you should address the following in your device design and labeling: - Meters should be designed such that all external materials can be cleaned (removal of organic soil) and disinfected (microbicidal process).
+- All external surfaces of the meter, including seams and the test strip port, should be designed for both ease of use and ease of cleaning and disinfection.
+- You should develop an effective disinfection method and provide the validated cleaning and disinfection procedures for your BGMS device in your 510(k) submission as well as in the labeling. Cleaning and disinfection are different processes and warrants separate validation procedures and specifications.
+- You should validate the efficacy of any disinfectant you recommend for use with your device, as described below. We recommend you consult the Environmental
+Protection Agency’s (EPA) list of disinfectants that are registered for use against infectious bacteria and viruses in choosing disinfectants to validate for use with your device.10
+- Your BGMS device should be intended for use with only auto-disabling, single use lancing devices. Single use lancing devices are designed to be used only once, after which the blade is retracted, capped, or otherwise made unusable. The auto-disabling, single use lancing device you recommend for use with your BGMS device should be specified in your labeling. You should emphasize in the labeling that lancing devices are for single patient use and should NEVER be used for more than one person. Your labeling should instruct users to discard lancing devices in designated sharps containers.
+- Labeling concerning safe device use can reduce the risk of user error. Therefore, instructions for cleaning and disinfection should be clear and detailed. The various test system components should be named in such a way that they are recognized as belonging to the same system or family of products, and to distinguish them from similar devices intended for single-patient use only (e.g., ABC blood glucose test system, ABC blood glucose meter, ABC blood glucose test strips, etc.). See Section X Labeling below for detailed labeling recommendations. For additional information on labeling your reusable medical device, see FDA’s guidance entitled “Reprocessing
 Medical Devices in Health Care Settings: Validation Methods and Labeling.”11
-Validation of cleaning and disinfection procedures involves determining both that the 
-cleaning and disinfection products are effective against the primary viruses of concern 
-(Human Immunodeficiency Virus (HIV), Hepatitis B, Hepatitis C) and that the cleaning and 
-disinfection procedures do not deteriorate the device or alter device performance. FDA’s 
-recommendations for such validation procedures are outlined in the following Subsections. 
-                                                          
-9 “Infection Prevention during Blood Glucose Monitoring and Insulin Administration” 
-http://www.cdc.gov/injectionsafety/blood-glucose-monitoring.html. 
-10 Selected EPA-registered Disinfectants available at https://www.epa.gov/pesticide-registration  
-11 Available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/reprocessing-
-medical-devices-health-care-settings-validation-methods-and-labeling.
+Validation of cleaning and disinfection procedures involves determining both that the cleaning and disinfection products are effective against the primary viruses of concern (Human Immunodeficiency Virus (HIV), Hepatitis B, Hepatitis C) and that the cleaning and disinfection procedures do not deteriorate the device or alter device performance. FDA’s recommendations for such validation procedures are outlined in the following Subsections.
 
----
-
-<!-- Page 11 -->
-Contains Nonbinding Recommendations 
-10
-A. Validated cleaning and disinfection procedures 
-You should select cleaning and disinfection products that do not result in physical 
-deterioration of the device overall, or any device component such as the housing, touch 
-pad, or buttons. You should make note of any physical indicators of deterioration during 
-your validation study and provide this information for our review in your 510(k) 
-submission. The disinfectant product you choose should be effective against HIV, 
-Hepatitis B, and Hepatitis C viruses. Of these viruses, Hepatitis B virus is the most 
-difficult to kill and prior outbreak episodes associated with blood glucose meters have 
-been due to transmission of Hepatitis B viruses. Therefore, disinfection efficacy studies 
-should be performed to demonstrate effectiveness of the chosen disinfectant against 
-Hepatitis B virus. Please note that 70% ethanol solutions are not effective against viral 
-bloodborne pathogens, and the use of 10% bleach solutions may lead to physical 
-degradation of your device. 
-To demonstrate that your disinfection procedure is effective against Hepatitis B virus, 
-you should perform disinfection efficacy studies to demonstrate that your procedure is 
-effective with the external meter materials (e.g. case, display, buttons, etc.). Studies have 
-demonstrated that viruses can remain infective for different time periods, depending on 
-the surface. Viral survival may increase or decrease with the number of microbes present 
-on a surface. Increasing amounts of microbes can protect viruses from disinfection, and 
-damaging effects may also result from microbial proteases and fungal enzymes. Factors 
-that influence survival on surfaces include fomite properties, initial viral titer, virus 
-strain, temperature, humidity, and suspending media. The simplest disinfection method 
-would be the use of towelettes pre-saturated with a selected disinfectant. Disinfection 
-with a towelette will reduce the risk of liquid getting into the meter, therefore minimizing 
-the chance of affecting the glucose meter function. However, you should choose a 
-disinfectant that is effective against Hepatitis B virus and is compatible with your device. 
-If you intend to claim that your disinfection protocol is effective against other pathogens, 
-you should consider submitting a pre-submission to discuss this with the Agency prior to 
-conducting your testing. For information about the pre-submission process, see FDA’s 
-guidance entitled “Requests for Feedback on Medical Device Submissions: The Pre-
+9 “Infection Prevention during Blood Glucose Monitoring and Insulin Administration” http://www.cdc.gov/injectionsafety/blood-glucose-monitoring.html.
+10 Selected EPA-registered Disinfectants available at https://www.epa.gov/pesticide-registration
+### A. Validated cleaning and disinfection procedures
+You should select cleaning and disinfection products that do not result in physical deterioration of the device overall, or any device component such as the housing, touch pad, or buttons. You should make note of any physical indicators of deterioration during your validation study and provide this information for our review in your 510(k) submission. The disinfectant product you choose should be effective against HIV,
+Hepatitis B, and Hepatitis C viruses. Of these viruses, Hepatitis B virus is the most difficult to kill and prior outbreak episodes associated with blood glucose meters have been due to transmission of Hepatitis B viruses. Therefore, disinfection efficacy studies should be performed to demonstrate effectiveness of the chosen disinfectant against
+Hepatitis B virus. Please note that 70% ethanol solutions are not effective against viral bloodborne pathogens, and the use of 10% bleach solutions may lead to physical degradation of your device.
+To demonstrate that your disinfection procedure is effective against Hepatitis B virus, you should perform disinfection efficacy studies to demonstrate that your procedure is effective with the external meter materials (e.g. case, display, buttons, etc.). Studies have demonstrated that viruses can remain infective for different time periods, depending on the surface. Viral survival may increase or decrease with the number of microbes present on a surface. Increasing amounts of microbes can protect viruses from disinfection, and damaging effects may also result from microbial proteases and fungal enzymes. Factors that influence survival on surfaces include fomite properties, initial viral titer, virus strain, temperature, humidity, and suspending media. The simplest disinfection method would be the use of towelettes pre-saturated with a selected disinfectant. Disinfection with a towelette will reduce the risk of liquid getting into the meter, therefore minimizing the chance of affecting the glucose meter function. However, you should choose a disinfectant that is effective against Hepatitis B virus and is compatible with your device.
+If you intend to claim that your disinfection protocol is effective against other pathogens, you should consider submitting a pre-submission to discuss this with the Agency prior to conducting your testing. For information about the pre-submission process, see FDA’s guidance entitled “Requests for Feedback on Medical Device Submissions: The Pre-
 Submission Program and Meetings with Food and Drug Administration Staff.”12
-We recommend you refer to the following standards when developing a disinfection 
-protocol for your device: 
-· ASTM standard ASTM E1053-11: Standard Test Method for Efficacy of 
-Virucidal Agents Intended for Inanimate Environmental Surfaces  
-· ASTM standard ASTM E2362-09: Standard Practice for Evaluation of Pre-
-saturated or Impregnated Towelettes for Hard Surface Disinfection. 
-                                                          
-12 Available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/requests-feedback-and-
-meetings-medical-device-submissions-q-submission-program
+We recommend you refer to the following standards when developing a disinfection protocol for your device: · ASTM standard ASTM E1053-11: Standard Test Method for Efficacy of
+Virucidal Agents Intended for Inanimate Environmental Surfaces · ASTM standard ASTM E2362-09: Standard Practice for Evaluation of Presaturated or Impregnated Towelettes for Hard Surface Disinfection.
 
----
+### B. Demonstration that the device is robust to cleaning and disinfection procedures
+You should demonstrate through bench studies that your BGMS device is robust to cleaning and disinfection procedures after multiple cleaning and disinfection cycles. You should describe in your 510(k) submission the study design and results demonstrating that the analytical performance of the BGMS is not impacted by the cleaning and disinfection procedures.
+You should address the following in your study design: · Worst case scenarios with regards to cleaning and disinfection frequency and end user environment should be used to determine the number of cleaning and disinfection cycles that should be tested. For example, the number of times you clean and disinfect the meter should be representative of the cleaning and disinfection that the meter will be exposed to during its use life (typically 3-5 years). A cleaning step should precede the disinfection step for each cleaning and disinfection cycle.
+- The disinfection contact time used in the robustness study should be identical to the contact time used in the disinfection efficacy testing and described in your cleaning and disinfection instructions in the labeling.
+- We recommend using the same disinfectant product for both cleaning and disinfection. The effects of using multiple cleaning products on the efficacy of disinfectant products are not well understood.
+- You should demonstrate that the test strip port and all other openings which are susceptible to blood contamination and could either directly or indirectly be contacted during use are able to withstand your cleaning and disinfection procedures. You should ensure that you test parts of the meter that are particularly susceptible to blood contamination, such as the test strip port and material seams.
+It is important to be able to clean and disinfect all parts of your meter to reduce the risk of bloodborne pathogen transmission.
+- When evaluating your device after the cleaning and disinfection phase, you should ensure that the procedure does not cloud or deface the display of the meter and does not corrode or erode the plastic housing or buttons. All these physical indicators of deterioration should be noted throughout your study and included in your 510(k) submission. You should evaluate the accuracy of the meter using blood samples compared to results obtained by a comparator method (please refer to Section VI below for the definition of comparator method) to ensure that accuracy is not affected by repeated cleaning and disinfection. The study should also evaluate the functionality of meter features (as appropriate), for example, touch screen function, USB port function, speaking functions, etc., to ensure they are not affected by repeated cleaning and disinfection.
+- You should include infection control in your risk analyses and incorporate your validated cleaning and disinfecting procedures into your risk assessment.
+A description of the protocols and acceptance criteria for all studies should be included in your 510(k) submission.
+### V. Device Description
+You should provide the following information in the device description portion of your 510(k) submission: · Description of physical components of the system (including diagrams where appropriate).
+- Manufacturer’s performance specifications.
+- Description and explanation of the test principle, including chemical reactions.
+- Description of the format of results, including units of measurement and whether results are reported in whole blood or plasma equivalents.13
+- Description of the composition and levels of control material recommended for use with your system.
+- User maintenance needs (e.g., batteries).
+- Features of the device, such as data transmission capabilities or features designed to enhance robustness, ease of use, or user accessibility (e.g. features designed to increase accessibility for users with visual impairments).
+- Features designed to minimize the risk of bloodborne pathogen transmission among patients.
+Description of features controlled by the software, which should describe the following: o Displays and user messages:  This includes how the BGMS determines and displays the glucose concentration, messages or displays that appear while a user is taking a measurement, and features such as how a user can retrieve past results from storage in the device.
 
-<!-- Page 12 -->
-Contains Nonbinding Recommendations 
-11
-B. Demonstration that the device is robust to cleaning and disinfection 
-procedures 
-You should demonstrate through bench studies that your BGMS device is robust to 
-cleaning and disinfection procedures after multiple cleaning and disinfection cycles. You 
-should describe in your 510(k) submission the study design and results demonstrating 
-that the analytical performance of the BGMS is not impacted by the cleaning and 
-disinfection procedures. 
-You should address the following in your study design: 
-· Worst case scenarios with regards to cleaning and disinfection frequency and end 
-user environment should be used to determine the number of cleaning and 
-disinfection cycles that should be tested. For example, the number of times you 
-clean and disinfect the meter should be representative of the cleaning and 
-disinfection that the meter will be exposed to during its use life (typically 3-5 
-years). A cleaning step should precede the disinfection step for each cleaning and 
-disinfection cycle. 
-· The disinfection contact time used in the robustness study should be identical to 
-the contact time used in the disinfection efficacy testing and described in your 
-cleaning and disinfection instructions in the labeling. 
-· We recommend using the same disinfectant product for both cleaning and 
-disinfection. The effects of using multiple cleaning products on the efficacy of 
-disinfectant products are not well understood. 
-· You should demonstrate that the test strip port and all other openings which are 
-susceptible to blood contamination and could either directly or indirectly be 
-contacted during use are able to withstand your cleaning and disinfection 
-procedures. You should ensure that you test parts of the meter that are particularly 
-susceptible to blood contamination, such as the test strip port and material seams. 
-It is important to be able to clean and disinfect all parts of your meter to reduce 
-the risk of bloodborne pathogen transmission. 
-· When evaluating your device after the cleaning and disinfection phase, you 
-should ensure that the procedure does not cloud or deface the display of the meter 
-and does not corrode or erode the plastic housing or buttons. All these physical 
-indicators of deterioration should be noted throughout your study and included in 
-your 510(k) submission. You should evaluate the accuracy of the meter using 
-blood samples compared to results obtained by a comparator method (please refer 
-to Section VI below for the definition of comparator method) to ensure that 
-accuracy is not affected by repeated cleaning and disinfection. The study should 
-also evaluate the functionality of meter features (as appropriate), for example, 
-touch screen function, USB port function, speaking functions, etc., to ensure they 
-are not affected by repeated cleaning and disinfection. 
-· You should include infection control in your risk analyses and incorporate your 
-validated cleaning and disinfecting procedures into your risk assessment.
+o User prompts:  You should describe prompts that the BGMS provides to the user, expected user responses, and timing issues (e.g., how quickly does the user need to respond, what happens if they respond after the allowed time). Examples of a user prompt include messages to the user to add specimen to the test strip, insert the test strip into the meter, calibrate the meter, or store a result, etc.
 
----
+o Error messages and alerts: This includes any error messages or alerts that the BGMS displays. You should describe how the system responds to errors in user action, user inaction, or system status. Suggested examples of error messages or alerts include: when a test strip is inserted incorrectly or removed prematurely; too small a sample is applied to the test strip; damaged, incorrect or deteriorated test strips are used; or when there is a low battery or excessively high ambient temperature. This should also include the methods by which the BGMS detects
 
-<!-- Page 13 -->
-Contains Nonbinding Recommendations 
-12
-A description of the protocols and acceptance criteria for all studies should be included in 
-your 510(k) submission. 
-V. 
-Device Description 
-You should provide the following information in the device description portion of your 
-510(k) submission: 
-· Description of physical components of the system (including diagrams where 
-appropriate). 
-· Manufacturer’s performance specifications. 
-· Description and explanation of the test principle, including chemical reactions. 
-· Description of the format of results, including units of measurement and whether 
-results are reported in whole blood or plasma equivalents.13
-· Description of the composition and levels of control material recommended for use 
-with your system. 
-· User maintenance needs (e.g., batteries). 
-· Features of the device, such as data transmission capabilities or features designed to 
-enhance robustness, ease of use, or user accessibility (e.g. features designed to 
-increase accessibility for users with visual impairments). 
-· Features designed to minimize the risk of bloodborne pathogen transmission among 
-patients. 
-Description of features controlled by the software, which should describe the following: 
-o Displays and user messages:  This includes how the BGMS determines and 
-displays the glucose concentration, messages or displays that appear while a user 
-is taking a measurement, and features such as how a user can retrieve past results 
-from storage in the device. 
-  
-o User prompts:  You should describe prompts that the BGMS provides to the user, 
-expected user responses, and timing issues (e.g., how quickly does the user need 
-to respond, what happens if they respond after the allowed time). Examples of a 
-user prompt include messages to the user to add specimen to the test strip, insert 
-the test strip into the meter, calibrate the meter, or store a result, etc. 
-  
-o Error messages and alerts: This includes any error messages or alerts that the 
-BGMS displays. You should describe how the system responds to errors in user 
-action, user inaction, or system status. Suggested examples of error messages or 
-alerts include: when a test strip is inserted incorrectly or removed prematurely; 
-too small a sample is applied to the test strip; damaged, incorrect or deteriorated 
-test strips are used; or when there is a low battery or excessively high ambient 
-temperature. This should also include the methods by which the BGMS detects 
-                                                          
 13 Note that BGMSs intended for use in the U.S. should report results in mg/dL and in plasma equivalents.
+and alerts the user when glucose levels are outside of the linear range of the system. You should describe at what point each message is triggered and describe any self-diagnostic routines that the system performs.
+It is important that you identify the expected responses by the user to the error messages or alerts. This includes whether and how the user should input information or press certain buttons to correctly set up the meter or respond to an error message or alert.
+## VI. Performance Evaluation for Prescription­Use BGMSs
+Subsections A-F below indicate the types of device performance information that you should include in a 510(k) submission for a BGMS. Although many manufacturers design their BGMS validation studies based on the International Organization for Standardization (ISO) document 15197: In vitro diagnostic test systems—Requirements for blood glucose monitoring systems for self-testing in managing diabetes mellitus, FDA believes that the criteria set forth in the ISO 15197 standard do not adequately protect patients using BGMSs in professional settings, and does not recommend using the criteria in ISO 15197 for BGMSs.
+In this guidance, the term “comparator method” refers to a laboratory-based glucose measurement method that has been well-validated for precision and accuracy, and that is traceable to a higher order, e.g., an internationally recognized reference material and/or method. The traceability chain should include as few stages as possible to reduce bias. FDA’s current thinking on the recommended study designs and device performance criteria are discussed below in Subsections A-F.
+### A. Precision Evaluation Study
+You should evaluate both within-run precision and intermediate precision for your BGMS and include these evaluations in your 510(k) submission. The following sections outline FDA’s current thinking on appropriate study design and analyses to evaluate within-run and intermediate precision for BGMSs.
+Within-Run Precision Evaluation:
+In this guidance, within-run precision studies are bench studies designed to evaluate imprecision under conditions of repeated measurement of the same sample with different meters and multiple test strip lots. In order to assess imprecision of the device across the claimed measuring range, you should evaluate samples containing glucose concentrations within each of the five intervals provided in Table 1 below.
+Table 1. Glucose Concentrations for Precision Evaluations Interval Glucose Concentration Range (mg/dL)
+30-50
+51-110
+111-150
+151-250
+251-400
+You should determine within-run precision using venous whole blood samples. Altered venous whole blood samples such as those that are spiked, diluted, or allowed to glycolyze in order to obtain the appropriate glucose concentrations are acceptable in order to facilitate coverage of the entire claimed glucose measuring range. However, you should clearly identify all altered samples (spiked, diluted, or glycolyzed) in all submitted data. A minimum of 500 test strips from at least 10 vials and 3 manufacturing lots should be used in this study. For each sample concentration, a minimum of 10 meters should be used, with at least 10 measurements taken by each meter (i.e., at least 100 measurements per concentration). Test strips should be taken from the same vial and/or package for each meter.
+We recommend you present the results as the mean value of all measurements per meter for each glucose concentration with the corresponding standard deviation (SD) and percent coefficient of variation (CV). In addition, for each glucose concentration range in
+Table 1, you should also provide the mean value, standard deviation (with 95% confidence intervals), and percent CV for data combined over all meters. You should describe the statistical procedures used in the analysis. You should provide the results based on all data, and if you wish to exclude any data points (outliers), a separate, additional data analysis with those points excluded and a full description of the method of outlier identification and the results of your investigations into those outliers, should be included Intermediate Precision Evaluation:
+Intermediate precision measurement studies are bench studies designed to evaluate imprecision under simulated normal use conditions; for example, measurement by multiple operators over multiple days using multiple reagent system lots. These studies may be performed with prepared control solutions rather than whole blood samples.
+The total number of meters and individual operators in these studies is at the discretion of the sponsor; however, a minimum of 10 meters should be used for each glucose concentration. Intermediate precision should be evaluated over a minimum of 10 days, taking at least 1 measurement per meter per day of a sample from each glucose concentration interval listed in Table 1. This should produce a minimum of 10 measurements per meter for each glucose concentration and 100 total measurements per glucose concentration. You should use a minimum of 500 test strips from a minimum of 10 vials or packages that cover a minimum of 3 manufacturing lots. These test strips should be taken from the same vial and/or package for each meter.
+For each glucose concentration in Table 1, you should present data for each test strip lot, as well as for pooled lots, including the mean value of the measurements for each meter with the corresponding standard deviation (SD) and percent coefficient of variation (CV).
+You should also present the mean value, standard deviation (with 95% confidence intervals), and percent CV for data combined over all meters. You should describe the statistical procedures you use and provide results based on all data. If you wish to exclude any data points, a separate, additional data analysis with those points excluded and a full description of the method of outlier identification and the results of your investigations into those outliers, should be included.
+### B. Linearity Evaluation Study
+You should evaluate the linearity of your BGMS across the entire claimed measuring range. We recommend that studies include an evaluation of at least 11 evenly spaced concentrations tested and analyzed according to the guideline “Evaluation of the
+Linearity of Quantitative Measurement Procedures: A Statistical Approach,” CLSI document EP6-A. Linearity studies should be performed using venous whole blood samples. Altered venous whole blood samples such as those that are spiked, diluted, or glycolyzed are acceptable in order to facilitate coverage of the entire glucose concentration range. You should clearly identify the number of altered samples (spiked, diluted, or glycolyzed) within your 510(k) submission.
+You should submit a detailed description of the study design, target concentrations, a list of all data collected in this study, summary of the results and conclusions drawn from the study, and a description of the statistical analysis used.
+### C. Method Comparison/User Evaluation
+1. General Study Design
+When testing samples from the intended patient population, you should design your study to accurately reflect system performance in the hands of the intended user. You should perform a set of comprehensive clinical evaluations to assess system accuracy to support the professional use of these devices in the intended use population.
+FDA recognizes that most study evaluations performed for 510(k) submissions occur in idealized conditions, thereby potentially overestimating the total accuracy of the BGMS, even when performed in the hands of the intended user. Nonetheless, it is important that you design your study to most accurately evaluate how the device will perform in the intended use population. Therefore, the study should be conducted in conditions that reflect the expected use of the device, as well as = environmental conditions that are consistent with the validated environmental conditions of the device (e.g., temperature, humidity, altitude, etc.). You should fully describe the conditions of your study in your 510(k) submission.
+You should evaluate device accuracy for each claimed sample type (e.g., arterial, venous, capillary, heelstick whole blood, etc.) when the device is used by a POC operator.
+Evaluation of each sample type should include a minimum of 350 patients (e.g., samples from at least 350 patients for an arterial study, samples from at least 350 patients for a capillary study, samples from at least 350 patients for a venous study, etc.). FDA recommends sponsors perform their studies to support concurrent CLIA waiver at the time of clearance by performing the studies as described in this guidance with consideration to the aspects of study design described in FDA’s guidance entitled “Recommendations for Clinical Laboratory Improvement Amendments of 1988 (CLIA)
+Waiver Applications for Manufacturers of In Vitro Diagnostic Devices.” 14 Different sample types (e.g., arterial and venous) can be acquired from the same patient and be used in the different studies. Each sample should be fresh and measured on both the candidate device (i.e., new device) and the comparator method. Samples do not have to be collected specifically for your studies; however, to obtain CLIA waiver, the tests should be done per the labeling instructions by untrained users typical of CLIA-waived users.  Note that patient information should be available for each sample to aid in the identification of potential interfering factors.  In order to robustly assess the accuracy of your device, it is important that the glucose value on the comparator method be as reliable as possible. Therefore, more than one comparator measurement may be taken and averaged for each sample in order to allow a better estimate of the true glucose value of that sample. However, no measurements should be excluded from the 510(k) submission and a justification should be provided for any data that is excluded from the analysis. It is not necessary that POC operators perform the comparator method measurements in the study.
+For each claimed sample type, the samples tested should adequately span the claimed glucose measuring range of the BGMS device. Though it may be difficult to obtain samples at the extreme ends of the measuring range, the study for each sample matrix should contain at least 10 unaltered samples &lt; 80 mg/dL and at least 10 unaltered samples between 300 mg/dL and the upper limit of the claimed measuring range of the device. It may be necessary to enroll more than 350 patients for each sample type in order to obtain the necessary unaltered samples. Testing should be performed by the intended POC operators (e.g., nurses, nurse assistants, etc.) to accurately reflect device performance in POC settings; at least 9 operators should participate in each study (e.g., capillary, venous, and arterial studies). Different operators may be used for each study.
+You should submit data from all subjects; no data or subjects should be excluded from your analysis.
+The subjects you enroll in the method comparison/user study should accurately reflect the intended use population of your device. In your 510(k) submission, you should describe the inclusion and exclusion criteria for enrolling study subjects, as well as the demographics of the subjects that participated in the study. If your intended use population is broad but includes patient sub-populations that might be particularly
 
----
-
-<!-- Page 14 -->
-Contains Nonbinding Recommendations 
-13
-and alerts the user when glucose levels are outside of the linear range of the 
-system. You should describe at what point each message is triggered and describe 
-any self-diagnostic routines that the system performs. 
-It is important that you identify the expected responses by the user to the error messages or 
-alerts. This includes whether and how the user should input information or press certain 
-buttons to correctly set up the meter or respond to an error message or alert. 
-VI. 
-Performance Evaluation for Prescription­Use 
-BGMSs
-Subsections A-F below indicate the types of device performance information that you should 
-include in a 510(k) submission for a BGMS. Although many manufacturers design their 
-BGMS validation studies based on the International Organization for Standardization (ISO) 
-document 15197: In vitro diagnostic test systems—Requirements for blood glucose 
-monitoring systems for self-testing in managing diabetes mellitus, FDA believes that the 
-criteria set forth in the ISO 15197 standard do not adequately protect patients using BGMSs 
-in professional settings, and does not recommend using the criteria in ISO 15197 for BGMSs. 
-In this guidance, the term “comparator method” refers to a laboratory-based glucose 
-measurement method that has been well-validated for precision and accuracy, and that is 
-traceable to a higher order, e.g., an internationally recognized reference material and/or 
-method. The traceability chain should include as few stages as possible to reduce bias. FDA’s 
-current thinking on the recommended study designs and device performance criteria are 
-discussed below in Subsections A-F. 
-A. Precision Evaluation Study 
-You should evaluate both within-run precision and intermediate precision for your 
-BGMS and include these evaluations in your 510(k) submission. The following sections 
-outline FDA’s current thinking on appropriate study design and analyses to evaluate 
-within-run and intermediate precision for BGMSs. 
-Within-Run Precision Evaluation: 
-In this guidance, within-run precision studies are bench studies designed to evaluate 
-imprecision under conditions of repeated measurement of the same sample with different 
-meters and multiple test strip lots. In order to assess imprecision of the device across the 
-claimed measuring range, you should evaluate samples containing glucose concentrations 
-within each of the five intervals provided in Table 1 below.
-
----
-
-<!-- Page 15 -->
-Contains Nonbinding Recommendations 
-14
-Table 1. Glucose Concentrations for Precision Evaluations 
-Interval 
-Glucose Concentration 
-Range (mg/dL) 
-1 
-30-50 
-2 
-51-110 
-3 
-111-150 
-4 
-151-250 
-5 
-251-400 
-You should determine within-run precision using venous whole blood samples. Altered 
-venous whole blood samples such as those that are spiked, diluted, or allowed to 
-glycolyze in order to obtain the appropriate glucose concentrations are acceptable in 
-order to facilitate coverage of the entire claimed glucose measuring range. However, you 
-should clearly identify all altered samples (spiked, diluted, or glycolyzed) in all submitted 
-data. A minimum of 500 test strips from at least 10 vials and 3 manufacturing lots should 
-be used in this study. For each sample concentration, a minimum of 10 meters should be 
-used, with at least 10 measurements taken by each meter (i.e., at least 100 measurements 
-per concentration). Test strips should be taken from the same vial and/or package for 
-each meter. 
-We recommend you present the results as the mean value of all measurements per meter 
-for each glucose concentration with the corresponding standard deviation (SD) and 
-percent coefficient of variation (CV). In addition, for each glucose concentration range in 
-Table 1, you should also provide the mean value, standard deviation (with 95% 
-confidence intervals), and percent CV for data combined over all meters. You should 
-describe the statistical procedures used in the analysis. You should provide the results 
-based on all data, and if you wish to exclude any data points (outliers), a separate, 
-additional data analysis with those points excluded and a full description of the method of 
-outlier identification and the results of your investigations into those outliers, should be 
-included 
-Intermediate Precision Evaluation: 
-Intermediate precision measurement studies are bench studies designed to evaluate 
-imprecision under simulated normal use conditions; for example, measurement by 
-multiple operators over multiple days using multiple reagent system lots. These studies 
-may be performed with prepared control solutions rather than whole blood samples. 
-The total number of meters and individual operators in these studies is at the discretion of 
-the sponsor; however, a minimum of 10 meters should be used for each glucose 
-concentration. Intermediate precision should be evaluated over a minimum of 10 days, 
-taking at least 1 measurement per meter per day of a sample from each glucose 
-concentration interval listed in Table 1. This should produce a minimum of 10 
-measurements per meter for each glucose concentration and 100 total measurements per 
-glucose concentration. You should use a minimum of 500 test strips from a minimum of 
-10 vials or packages that cover a minimum of 3 manufacturing lots. These test strips 
-should be taken from the same vial and/or package for each meter.
-
----
-
-<!-- Page 16 -->
-Contains Nonbinding Recommendations 
-15
-For each glucose concentration in Table 1, you should present data for each test strip lot, 
-as well as for pooled lots, including the mean value of the measurements for each meter 
-with the corresponding standard deviation (SD) and percent coefficient of variation (CV). 
-You should also present the mean value, standard deviation (with 95% confidence 
-intervals), and percent CV for data combined over all meters. You should describe the 
-statistical procedures you use and provide results based on all data. If you wish to exclude 
-any data points, a separate, additional data analysis with those points excluded and a full 
-description of the method of outlier identification and the results of your investigations 
-into those outliers, should be included. 
-B.  Linearity Evaluation Study 
-You should evaluate the linearity of your BGMS across the entire claimed measuring 
-range. We recommend that studies include an evaluation of at least 11 evenly spaced 
-concentrations tested and analyzed according to the guideline “Evaluation of the 
-Linearity of Quantitative Measurement Procedures: A Statistical Approach,” CLSI 
-document EP6-A. Linearity studies should be performed using venous whole blood 
-samples. Altered venous whole blood samples such as those that are spiked, diluted, or 
-glycolyzed are acceptable in order to facilitate coverage of the entire glucose 
-concentration range. You should clearly identify the number of altered samples (spiked, 
-diluted, or glycolyzed) within your 510(k) submission. 
-You should submit a detailed description of the study design, target concentrations, a list 
-of all data collected in this study, summary of the results and conclusions drawn from 
-the study, and a description of the statistical analysis used. 
-C. Method Comparison/User Evaluation 
-1. General Study Design 
-When testing samples from the intended patient population, you should design your study 
-to accurately reflect system performance in the hands of the intended user. You should 
-perform a set of comprehensive clinical evaluations to assess system accuracy to support 
-the professional use of these devices in the intended use population. 
-FDA recognizes that most study evaluations performed for 510(k) submissions occur in 
-idealized conditions, thereby potentially overestimating the total accuracy of the BGMS, 
-even when performed in the hands of the intended user. Nonetheless, it is important that 
-you design your study to most accurately evaluate how the device will perform in the 
-intended use population. Therefore, the study should be conducted in conditions that 
-reflect the expected use of the device, as well as = environmental conditions that are 
-consistent with the validated environmental conditions of the device (e.g., temperature, 
-humidity, altitude, etc.). You should fully describe the conditions of your study in your 
-510(k) submission. 
-You should evaluate device accuracy for each claimed sample type (e.g., arterial, venous, 
-capillary, heelstick whole blood, etc.) when the device is used by a POC operator.
-
----
-
-<!-- Page 17 -->
-Contains Nonbinding Recommendations 
-16
-Evaluation of each sample type should include a minimum of 350 patients (e.g., samples 
-from at least 350 patients for an arterial study, samples from at least 350 patients for a 
-capillary study, samples from at least 350 patients for a venous study, etc.). FDA 
-recommends sponsors perform their studies to support concurrent CLIA waiver at the 
-time of clearance by performing the studies as described in this guidance with 
-consideration to the aspects of study design described in FDA’s guidance entitled 
-“Recommendations for Clinical Laboratory Improvement Amendments of 1988 (CLIA) 
-Waiver Applications for Manufacturers of In Vitro Diagnostic Devices.” 14 Different 
-sample types (e.g., arterial and venous) can be acquired from the same patient and be 
-used in the different studies. Each sample should be fresh and measured on both the 
-candidate device (i.e., new device) and the comparator method. Samples do not have to 
-be collected specifically for your studies; however, to obtain CLIA waiver, the tests 
-should be done per the labeling instructions by untrained users typical of CLIA-waived 
-users.  Note that patient information should be available for each sample to aid in the 
-identification of potential interfering factors.  In order to robustly assess the accuracy of 
-your device, it is important that the glucose value on the comparator method be as 
-reliable as possible. Therefore, more than one comparator measurement may be taken and 
-averaged for each sample in order to allow a better estimate of the true glucose value of 
-that sample. However, no measurements should be excluded from the 510(k) submission 
-and a justification should be provided for any data that is excluded from the analysis. It is 
-not necessary that POC operators perform the comparator method measurements in the 
-study. 
-For each claimed sample type, the samples tested should adequately span the claimed 
-glucose measuring range of the BGMS device. Though it may be difficult to obtain 
-samples at the extreme ends of the measuring range, the study for each sample matrix 
-should contain at least 10 unaltered samples &lt; 80 mg/dL and at least 10 unaltered 
-samples between 300 mg/dL and the upper limit of the claimed measuring range of the 
-device. It may be necessary to enroll more than 350 patients for each sample type in order 
-to obtain the necessary unaltered samples. Testing should be performed by the intended 
-POC operators (e.g., nurses, nurse assistants, etc.) to accurately reflect device 
-performance in POC settings; at least 9 operators should participate in each study (e.g., 
-capillary, venous, and arterial studies). Different operators may be used for each study. 
-You should submit data from all subjects; no data or subjects should be excluded from 
-your analysis. 
-The subjects you enroll in the method comparison/user study should accurately reflect the 
-intended use population of your device. In your 510(k) submission, you should describe 
-the inclusion and exclusion criteria for enrolling study subjects, as well as the 
-demographics of the subjects that participated in the study. If your intended use 
-population is broad but includes patient sub-populations that might be particularly 
-                                                          
-14 For example, users should be untrained, and the studies should be performed in intended use settings in the 
-midst of normal working conditions.  Please note that we intend to accept 350 patient samples for each sample 
-type for the purposes of CLIA waiver studies for these devices.  Guidance is available at 
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/recommendations-clinical-
-laboratory-improvement-amendments-1988-clia-waiver-applications.
-
----
-
-<!-- Page 18 -->
-Contains Nonbinding Recommendations 
-17
-vulnerable to potential interferences and/or health risks resulting from meter inaccuracy, 
-you should identify and include patients from these specific vulnerable sub-populations 
-in your study. You should define these sub-populations and provide a rationale for your 
-definitions. For example, vulnerable sub-populations could be defined as patients in 
-specific hospital wards, units, or departments, medical, neonatal, pediatric or surgical 
-intensive care units (ICUs). Vulnerable subpopulations could, for example, also be 
-defined as categories of patients with general types of medical conditions—cardiac, 
-surgical, pulmonary, or oncology patients. These sub-populations are provided as an 
-example of common patient groups found in a hospital setting, however, if you would 
-like to discuss other sub-populations or other aspects of your study with the Agency, we 
-recommend that you submit a request for a Pre-Submission meeting prior to conducting 
-your testing. For information about the pre-submission process, see FDA’s guidance 
-entitled “Requests for Feedback on Medical Device Submissions: The Pre-Submission 
 Program and Meetings with Food and Drug Administration Staff.”15
-Your study should include at least 50 patients from each vulnerable patient sub-
-population you have defined in order to collect sufficient performance data to support the 
-use of your device in these populations. Please note that in some instances, in order to 
-fully characterize your device in your intended use population, FDA suggests that you 
-use more than 50 patients per subpopulation to ensure all conditions and medications 
-have been evaluated. Furthermore, if you intend for your study to also support a broad 
-intended use population, then you should ensure that your study population includes 
-sufficient numbers of patients outside of the vulnerable subpopulations you identified to 
-support the use of your device in the broader intended use population. This broader 
-population might include in-patients dispersed throughout various hospital departments. 
-Depending on the number of specific vulnerable sub-populations you identify, the 
-collection of samples from more than 350 subjects for each sample type (venous, arterial, 
-capillary) may be indicated to support the use of your device in your intended use 
-population. Your results should clearly indicate the specific patient population associated 
-with each sample and you should present the combined results for your entire intended 
-use population and, separately, for each vulnerable patient subpopulation (if present). 
-If you wish to claim suitability of your device with anti-coagulants, then within the 350 
-(minimum) samples you collect for each sample type you should include at least 50 to 75 
-patient samples per claimed anti-coagulant. 
-Your study should include a minimum of 10 test strip vials or packages that cover a 
-minimum of 3 test strip lots. All test strips used in the study should have undergone 
-typical shipping and handling conditions from the site of manufacture to a U.S. user prior 
-to the study. You should describe these shipping and handling conditions in your 510(k) 
-submission. 
-Method comparison and user performance studies for a BGMS should include multiple 
-users and multiple blood glucose meters. Only auto-disabling, single use lancing devices 
-                                                          
-15 Available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/requests-feedback-
-and-meetings-medical-device-submissions-q-submission-program.
+Your study should include at least 50 patients from each vulnerable patient subpopulation you have defined in order to collect sufficient performance data to support the use of your device in these populations. Please note that in some instances, in order to fully characterize your device in your intended use population, FDA suggests that you use more than 50 patients per subpopulation to ensure all conditions and medications have been evaluated. Furthermore, if you intend for your study to also support a broad intended use population, then you should ensure that your study population includes sufficient numbers of patients outside of the vulnerable subpopulations you identified to support the use of your device in the broader intended use population. This broader population might include in-patients dispersed throughout various hospital departments.
+Depending on the number of specific vulnerable sub-populations you identify, the collection of samples from more than 350 subjects for each sample type (venous, arterial, capillary) may be indicated to support the use of your device in your intended use population. Your results should clearly indicate the specific patient population associated with each sample and you should present the combined results for your entire intended use population and, separately, for each vulnerable patient subpopulation (if present).
+If you wish to claim suitability of your device with anti-coagulants, then within the 350
+(minimum) samples you collect for each sample type you should include at least 50 to 75 patient samples per claimed anti-coagulant.
+Your study should include a minimum of 10 test strip vials or packages that cover a minimum of 3 test strip lots. All test strips used in the study should have undergone typical shipping and handling conditions from the site of manufacture to a U.S. user prior to the study. You should describe these shipping and handling conditions in your 510(k) submission.
+Method comparison and user performance studies for a BGMS should include multiple users and multiple blood glucose meters. Only auto-disabling, single use lancing devices
 
----
-
-<!-- Page 19 -->
-Contains Nonbinding Recommendations 
-18
-should be used in these studies. You should incorporate your labeling instructions for 
-cleaning and disinfection in your user study protocol to ensure that the meters are 
-appropriately cleaned and disinfected during the course of this study, and include any 
-additional measures necessary to mitigate the risk of potentially transmitting disease 
-between healthcare providers and subjects during the study (for example, use of 
-disposable gloves or other physical barriers). The study protocol should also include 
-details on how often and when gloves worn by the trained health professionals should be 
-changed between subjects. Meters should be cleaned and disinfected after each subject, 
-using validated procedures for all studies performed. Refer to Section IV, above 
-(Reducing the Risk of Bloodborne Pathogen Transmission) for additional information 
-regarding the validation of cleaning and disinfecting of BGMSs. 
-BGMS test results are used by healthcare professionals to make critical decisions about 
-treatment; therefore, it is important that the results are accurate so that medical decision 
-errors are better avoided. In order to demonstrate that a BGMS is sufficiently accurate for 
-use by health care professionals, you should demonstrate that 95% of all values are 
-within +/- 12% of the comparator method for glucose concentrations > 75 mg/dL and 
-within +/- 12 mg/dL at glucose concentrations &lt; 75 mg/dL. In addition, 98% of values 
-should be within +/- 15% of the comparator method for glucose concentrations >75
-mg/dL and within +/- 15 mg/dL at glucose concentrations &lt; 75 mg/dL. The BGMS 
-should be as accurate as possible to avoid critical patient management errors. Though we 
-expect that BGMSs will be able to meet these criteria, there may be instances where 
-meters may be determined to be substantially equivalent when performance does not 
-meet these criteria because, for example, other features of the meter or its setting of use 
-provide benefits that compensate for different performance. In instances where your 
-BGMS is unable to meet these criteria, you should provide a clinical justification for all
-test results, including those that exceed the above-mentioned criteria, and describe why 
-the potential for that error would not affect patient safety when extrapolated to the 
-intended use setting (e.g., when extrapolated to the volume of testing performed in the 
-intended use setting). FDA will review your justification to determine whether the data 
-suggest that patients may be put at risk or whether your justification and any proposed 
-mitigations are adequate. 
-Hematocrit and sodium values should be measured and recorded for each study subject to 
-help identify potential interference with the device and to inform investigations into 
-outlier results. Similarly, blood oxygen levels should be measured and recorded for each 
-patient for any arterial blood study. You should present these individual values in the 
-510(k) submission along with the BGMS and comparator method results. It is not 
-necessary that hematocrit, sodium, and blood oxygen measurements be made by POC 
-operators. 
-We expect that the measuring range of the meter will meet the clinical needs of the 
-intended use population. BGMSs intended for prescription-use in the hospital setting 
-should be able to measure blood glucose accurately down to 10 mg/dL and up to 500 
-mg/dL, or a clinical justification should be provided for alternate measuring ranges. 
-BGMSs intended for use outside a hospital setting and which will not reasonably be used
-
----
-
-<!-- Page 20 -->
-Contains Nonbinding Recommendations 
-19
-to test neonatal samples should be able to measure blood glucose accurately down to 20 
-mg/dL. The BGMS device should identify and provide an error code in situations where 
-the measured glucose level falls outside of the device’s stated measuring range. For 
-example, if BGMS XYZ has a measuring range that can detect glucose concentrations 
-down to 10 mg/dL, then blood samples with glucose concentrations below 10 mg/dL 
-should provide an appropriate error code (e.g., “LOW - Less than 10”). 
-You should describe the following in your 510(k) submission: 
-· 
-Study setting, including the size, type, and location of each site and a justification 
-of how the selected study conditions simulate intended use conditions. Study sites 
-should be representative of where BGMSs are used in the U.S. and you should 
-include an explanation of why you believe each site is representative. 
-· 
-Criteria used to select study subjects. 
-· 
-Description of the patient demographics, including age, disease states, and all 
-medications for each patient. 
-· 
-Sample types collected (arterial, venous, capillary). 
-· 
-Number of test strip lots, number of test strip vials, and number of meters used in 
-the study. 
-· 
-Description of the shipping and handling conditions of the test strips prior to use 
-in the study. 
-Accuracy at Extreme Glucose Values: 
-Because the study described above using real patient samples may not provide a robust 
-evaluation of BGMS performance in the extreme upper and lower ends of the measuring 
-range, you should perform additional studies using blood samples altered to achieve 
-glucose concentrations of less than 80 mg/dL and greater than 300 mg/dL. This additional 
-extreme glucose value study should be performed separately from the method 
-comparison/user evaluation described above and may be performed in a laboratory 
-setting, though untrained intended users typical of users in a CLIA waived setting should 
-perform the testing to support CLIA waiver of the device. 
-Your study of accuracy at extreme glucose values should include a minimum of 50 
-prepared samples with glucose concentrations &lt; 80 mg/dL and a minimum of 50 prepared 
-samples with glucose concentrations > 300 mg/dL. These samples should evenly cover 
-the lower and upper limits of the claimed measuring range. Samples may be altered by 
-spiking or allowing the samples to glycolyze in order to obtain appropriate glucose 
-concentrations. Samples should be measured on both the BGMS device and the 
-comparator method. You should analyze this data separately from the user evaluation 
-data but using the same methods described below for the user evaluation. FDA will apply 
-the same review criteria to both studies. 
-Neonatal Studies: 
-If your intended use population includes neonates, you should perform studies to support 
-performance in neonatal samples (defined as samples from subjects less than 28 days
-
----
-
-<!-- Page 21 -->
-Contains Nonbinding Recommendations 
-20
-old). Neonatal blood is known to differ from adult blood and these differences may have 
-a direct impact on the safety of blood glucose monitoring in that population. For example, 
-neonatal blood often has higher hematocrit levels (51 to 65%) and lower blood glucose 
-concentrations (20 to 80 mg/dL) compared to adult blood. 
-You should evaluate device performance with neonatal samples in direct comparison to 
-the comparator method by testing 100 -150 fresh neonatal blood specimens, including 
-samples from neonates less than 24 hours old. Samples should be collected and measured 
-by at least three POC users in a POC setting. Glucose concentrations should be measured 
-with the BGMS and the comparator method, and the hematocrit levels for each patient 
-should also be measured and reported in the study. You should present your results as 
-described below in the Data Analysis Subsection. Data from all subjects in the study 
-should be submitted in your 510(k), and no subjects should be excluded from the data 
-analysis. 
-Since it may be difficult to obtain samples at the extreme low end of the measuring range 
-using real neonatal patient samples, you should perform additional studies using blood 
-samples (either adult blood or maternal cord blood) altered to achieve glucose 
-concentrations between 10 and 50 mg/dL.  Blood specimens used in these additional 
-studies should be adjusted to at least two levels of hematocrit at or near 40% and 65%, in 
-order to simulate the high hematocrit levels of neonatal blood. This will allow you to 
-provide a robust evaluation of device performance in the extreme lower end of the 
-measuring range for simulated neonatal blood. These additional studies should be 
-performed separately from the neonatal studies described above and may be performed in 
-a laboratory setting (e.g., at the manufacturer’s facility), however, untrained users typical 
-of CLIA-waived users should perform the testing to support CLIA waiver of the device. 
-2. Data Analysis 
-Data exclusion and outliers: 
-You should present all data in the 510(k) submission, including cases in which the meter 
-displays an error code, a ‘High’ or ‘Low’ message, or no result. All outliers (e.g., data 
-points that do not conform to minimum accuracy criteria) should also be included in your 
-510(k) submission. You should investigate all outlier results and describe the results of 
-these investigations, providing explanations for the occurrence of outliers when possible. 
-To help inform your investigations into outlier results, you should collect information 
-regarding patient medications, hematocrit measurements, oxygen levels, and sodium 
-levels during your study. You should include the following in your description of the 
-results:  
-Analysis of Results: 
-You should present the difference between individual study subject results and results of 
-the comparator method (or mean of the comparator measurement, if multiple replicates 
-are measured using the comparator method) by plotting the data on an X-Y graph.  The 
-plot should include the regression line and line of identity. Your summary of results 
-should include the slope and y-intercept, along with 95% confidence intervals, calculated 
-using a suitable analysis procedure (e.g., Linear Regression, Deming regression), and the
-
----
-
-<!-- Page 22 -->
-Contains Nonbinding Recommendations 
-21
-estimate of the deviation (standard error).  Difference plot of Y-X vs X analysis may also 
-be presented. You should describe all statistical methods used and clearly identify and 
-describe any outliers in the analysis. 
-Tabular data presentation: 
-You should present results in the following tabular format for each sample matrix. In 
-Table 2 and Table 3 below, X= the number of samples within the specified difference 
-from the comparator method, and Y= total number of samples. 
-Summary of data within specified mg/dL of the comparator method. 
-Table 2. For glucose concentrations &lt;75 mg/dL: 
-Within 
-+/- 5 mg/dL
-Within 
-+/- 10 mg/dL
-Within 
-+/- 12 mg/dL
-Within 
-+/- 15 mg/dL
-Exceeds 
-+/- 15 mg/dL
-X/Y (%) 
-X/Y (%) 
-X/Y (%) 
-X/Y (%) 
-X/Y (%) 
+Hematocrit and sodium values should be measured and recorded for each study subject to help identify potential interference with the device and to inform investigations into outlier results. Similarly, blood oxygen levels should be measured and recorded for each patient for any arterial blood study. You should present these individual values in the 510(k) submission along with the BGMS and comparator method results. It is not necessary that hematocrit, sodium, and blood oxygen measurements be made by POC operators.
+We expect that the measuring range of the meter will meet the clinical needs of the intended use population. BGMSs intended for prescription-use in the hospital setting should be able to measure blood glucose accurately down to 10 mg/dL and up to 500 mg/dL, or a clinical justification should be provided for alternate measuring ranges.
+BGMSs intended for use outside a hospital setting and which will not reasonably be used to test neonatal samples should be able to measure blood glucose accurately down to 20 mg/dL. The BGMS device should identify and provide an error code in situations where the measured glucose level falls outside of the device’s stated measuring range. For example, if BGMS XYZ has a measuring range that can detect glucose concentrations down to 10 mg/dL, then blood samples with glucose concentrations below 10 mg/dL should provide an appropriate error code (e.g., “LOW - Less than 10”).
+You should describe the following in your 510(k) submission: - Study setting, including the size, type, and location of each site and a justification of how the selected study conditions simulate intended use conditions. Study sites should be representative of where BGMSs are used in the U.S. and you should include an explanation of why you believe each site is representative.
+- Criteria used to select study subjects.
+- Description of the patient demographics, including age, disease states, and all medications for each patient.
+- Sample types collected (arterial, venous, capillary).
+- Number of test strip lots, number of test strip vials, and number of meters used in the study.
+- Description of the shipping and handling conditions of the test strips prior to use in the study.
+Accuracy at Extreme Glucose Values:
+Because the study described above using real patient samples may not provide a robust evaluation of BGMS performance in the extreme upper and lower ends of the measuring range, you should perform additional studies using blood samples altered to achieve glucose concentrations of less than 80 mg/dL and greater than 300 mg/dL. This additional extreme glucose value study should be performed separately from the method comparison/user evaluation described above and may be performed in a laboratory setting, though untrained intended users typical of users in a CLIA waived setting should perform the testing to support CLIA waiver of the device.
+Your study of accuracy at extreme glucose values should include a minimum of 50 prepared samples with glucose concentrations &lt; 80 mg/dL and a minimum of 50 prepared samples with glucose concentrations > 300 mg/dL. These samples should evenly cover the lower and upper limits of the claimed measuring range. Samples may be altered by spiking or allowing the samples to glycolyze in order to obtain appropriate glucose concentrations. Samples should be measured on both the BGMS device and the comparator method. You should analyze this data separately from the user evaluation data but using the same methods described below for the user evaluation. FDA will apply the same review criteria to both studies.
+Neonatal Studies:
+If your intended use population includes neonates, you should perform studies to support performance in neonatal samples (defined as samples from subjects less than 28 days old). Neonatal blood is known to differ from adult blood and these differences may have a direct impact on the safety of blood glucose monitoring in that population. For example, neonatal blood often has higher hematocrit levels (51 to 65%) and lower blood glucose concentrations (20 to 80 mg/dL) compared to adult blood.
+You should evaluate device performance with neonatal samples in direct comparison to the comparator method by testing 100 -150 fresh neonatal blood specimens, including samples from neonates less than 24 hours old. Samples should be collected and measured by at least three POC users in a POC setting. Glucose concentrations should be measured with the BGMS and the comparator method, and the hematocrit levels for each patient should also be measured and reported in the study. You should present your results as described below in the Data Analysis Subsection. Data from all subjects in the study should be submitted in your 510(k), and no subjects should be excluded from the data analysis.
+Since it may be difficult to obtain samples at the extreme low end of the measuring range using real neonatal patient samples, you should perform additional studies using blood samples (either adult blood or maternal cord blood) altered to achieve glucose concentrations between 10 and 50 mg/dL.  Blood specimens used in these additional studies should be adjusted to at least two levels of hematocrit at or near 40% and 65%, in order to simulate the high hematocrit levels of neonatal blood. This will allow you to provide a robust evaluation of device performance in the extreme lower end of the measuring range for simulated neonatal blood. These additional studies should be performed separately from the neonatal studies described above and may be performed in a laboratory setting (e.g., at the manufacturer’s facility), however, untrained users typical of CLIA-waived users should perform the testing to support CLIA waiver of the device.
+2. Data Analysis
+Data exclusion and outliers:
+You should present all data in the 510(k) submission, including cases in which the meter displays an error code, a ‘High’ or ‘Low’ message, or no result. All outliers (e.g., data points that do not conform to minimum accuracy criteria) should also be included in your 510(k) submission. You should investigate all outlier results and describe the results of these investigations, providing explanations for the occurrence of outliers when possible.
+To help inform your investigations into outlier results, you should collect information regarding patient medications, hematocrit measurements, oxygen levels, and sodium levels during your study. You should include the following in your description of the results: Analysis of Results:
+You should present the difference between individual study subject results and results of the comparator method (or mean of the comparator measurement, if multiple replicates are measured using the comparator method) by plotting the data on an X-Y graph.  The plot should include the regression line and line of identity. Your summary of results should include the slope and y-intercept, along with 95% confidence intervals, calculated using a suitable analysis procedure (e.g., Linear Regression, Deming regression), and the estimate of the deviation (standard error).  Difference plot of Y-X vs X analysis may also be presented. You should describe all statistical methods used and clearly identify and describe any outliers in the analysis.
+Tabular data presentation:
+You should present results in the following tabular format for each sample matrix. In
+Table 2 and Table 3 below, X= the number of samples within the specified difference from the comparator method, and Y= total number of samples.
+Summary of data within specified mg/dL of the comparator method.
+Table 2. For glucose concentrations &lt;75 mg/dL: Within +/- 5 mg/dL Within +/- 10 mg/dL Within +/- 12 mg/dL Within +/- 15 mg/dL Exceeds +/- 15 mg/dL X/Y (%) X/Y (%) X/Y (%) X/Y (%) X/Y (%)
 Table 3. For glucose concentrations >75 mg/dL:
-D. Interference Evaluation
-You should evaluate the effect of potentially interfering endogenous and exogenous 
-substances and conditions, such as icterus, lipemia, and varying hematocrit levels, as well 
-as the effect of common medications on your device’s performance. Conditions that are 
-known to interfere with glucose monitoring test systems, such as ketoacidosis, should be 
-included in the labeling as limitations unless you have provided data demonstrating that 
-these conditions do not interfere with your device.
+### D. Interference Evaluation
+You should evaluate the effect of potentially interfering endogenous and exogenous substances and conditions, such as icterus, lipemia, and varying hematocrit levels, as well as the effect of common medications on your device’s performance. Conditions that are known to interfere with glucose monitoring test systems, such as ketoacidosis, should be included in the labeling as limitations unless you have provided data demonstrating that these conditions do not interfere with your device.
 1. Endogenous/Exogenous Substances
 Study design:
-You should perform interference testing using samples containing glucose concentrations 
-across the range of the device. Specifically, testing should be performed in samples with 
-target glucose values of approximately between 50 - 70 mg/dL, 110-130 mg/dL, and 225-
-270 mg/dL to evaluate clinically relevant decision points. 
-You should evaluate each potentially interfering substance at clinically relevant 
-concentrations. When performing your studies, you should test all substances at the 
-highest concentration that could potentially be observed in a whole blood sample; if 
-interference is observed, you should perform dilutions of the interferent to determine the 
-concentration at which interference begins to occur. For example, if interference is 
-observed with 20 mg/dL acetaminophen, additional testing should be performed with 
-samples containing lower concentrations of acetaminophen, such as 15 mg/dL, 10 mg/dL 
-Within
-+/- 5%
-Within
-+/- 10%
-Within
-+/- 12%
-Within
-+/- 15%
-Within
-+/- 20%
-Exceeds
-+/- 20%
-X/Y (%) 
-X/Y (%)
-X/Y (%)
-X/Y (%)
-X/Y (%)
-X/Y (%)
-
----
-
-<!-- Page 23 -->
-Contains Nonbinding Recommendations 
-22
-and 5 mg/dL, to determine the lowest concentration of acetaminophen where interference 
-is first observed. If the results from the additional testing determine that interference is 
-not observed in the sample containing 5 mg/dL acetaminophen and interference is 
-observed in the sample containing 10 mg/dL acetaminophen, then 5 mg/dL is the highest 
-concentration of acetaminophen where no interference is observed. 
-The substances listed below in Table 4 represent known or potential interferents for 
-current blood glucose measurement technologies and comprise the minimal list of 
-substances that should be tested for interference. 
-Table 4. List of Known or Potential Interferents for BGMSs: 
-Interferent 
-Recommended Test 
-Concentration 
-Acetaminophen 
-20 mg/dL 
-Ascorbic acid 
-6 mg/dL 
-Conjugated Bilirubin 
-50 mg/dL 
-Unconjugated 
-Bilirubin 
-40 mg/dL 
-Cholesterol 
-500 mg/dL 
-Creatinine 
-15 mg/dL 
-Dopamine 
-0.09 mg/dL 
-EDTA* 
-0.1 mg/dL 
-Galactose 
-60 mg/dL 
-Gentisic acid 
-1.8 mg/dL 
-Reduced Glutathione 
-4.6 mg/dL 
-Hemoglobin 
-1000 mg/dL 
-Heparin* 
-300 IU/dL 
-Ibuprofen 
-50 mg/dL 
-L-Dopa 
-0.75 mg/dL 
-Maltose 
-480 mg/dL 
-Mannitol 
-1800 mg/dL 
-Methyldopa 
-2 mg/dL 
-Salicylic acid 
-60 mg/dL 
-Sodium 
-180 mmol/L 
-Tolbutamide 
-72 mg/dL 
-Tolazamide 
-9 mg/dL 
-Triglycerides 
-1500 mg/dL 
-Uric acid 
-23.5 mg/dL 
-Xylose 
-600 mg/dL 
-Sugar Alcohols** 
-0.09 mg/dL 
-*The inclusion of EDTA and Heparin in this table refers to their use as therapeutic substances and not as 
-anticoagulants for sample preparation. Separate studies should be performed to validate the use of these 
-substances as anticoagulants used for sample preparation (as described in Section C, above). 
-**All common sugar alcohols, including but not necessarily limited to, sorbitol, xylitol, lactitol, isomalt, 
-maltitol should be independently tested.
-
----
-
-<!-- Page 24 -->
-Contains Nonbinding Recommendations 
-23
-In addition to the list of potential interferents provided in Table 4, you should conduct an 
-interference risk analysis and carry out bench studies to evaluate interference from 
-additional drugs commonly used in your intended use population. These bench studies of 
-additional drugs should be conducted in the same manner described in this Section. 
-You should provide a reliable estimate of the interference predicted for each potential 
-interferent. To do this, we recommend the following method of measuring and 
-calculating interference. First, blood samples should be generated at each target glucose 
-concentration described above. Each glucose sample should be tested in replicates with 
-the comparator method (we suggest at least 4 replicates in order to reduce standard error) 
-to establish the glucose concentration in the sample. The glucose samples should then be 
-split into a test sample to which a specific amount of potential interferent is added and a 
-control sample containing solvent/vehicle in lieu of the potential interfering substance. 
-Both control samples and test samples should be measured in replicates on the BGMS. At 
-least three test strip lots should be used for this evaluation. Each of the control and test 
-samples should be tested on your BGMS in replicates of 30 across the three lots (10 
-replicates per lot of test strips for a total of 30 replicates per sample). The mean of 
-replicates should be calculated for each control and test sample. The relative bias (mg/dL) 
-and percent bias should be calculated using the results of the control sample relative to 
-test sample for each concentration of potential interferent. These results should be 
-submitted with 95% confidence intervals as part of your 510(k) submission. 
-For BGMSs, the degree of acceptable interference may vary by substance tested and the 
-intended patient population of your device. Therefore, you should report in your 510(k) 
-submission the interference testing data as well as the expected imprecision of the system 
-at that glucose concentration. If interferences are observed, you should propose 
-appropriate labeling to address any observed interferences; the labeling language 
-appropriate for the observed interference will be discussed during the review of the 
-510(k) submission. 
-As new drugs are developed that could potentially interfere with your device, or new 
-interfering substances are identified for other BGMSs, you should evaluate these new 
-drugs or substances for potential interference with your device. For example, if a new 
-drug intended to treat cardiac complications in diabetic patients is approved, you should 
-conduct a careful evaluation to determine whether the new drug interferes with your 
-device. You should report to FDA if significant new interferences are observed with your 
-device or with any cleared glucose monitoring devices that are on the market. New 
-drugs/potential interferents should also be evaluated when new or significantly modified 
-technology is introduced. 
-Data Analysis: 
-You should provide raw data sets as well as a summary table for all interference results. 
-Please note that the summary tables should be presented separately for each test strip lot 
-and for all lots pooled for each glucose level tested. Table 5 below provides a sample 
-format of a summary table.
-
----
-
-<!-- Page 25 -->
-Contains Nonbinding Recommendations 
-24
-Table 5. Recommended Summary Table Format: 
-Test Strip Lot #(s) 
-Interferent 
-Mean 
-Glucose 
-Value 
-(Comparator) 
-Interferent 
-Concentration 
-(mg/dL) 
-Control 
-Sample 
-Mean 
-Test 
-Sample 
-Mean 
-Bias 
-(mg/dL) 
-% 
-Bias 
-Confidence 
-Interval 
-around 
-% Bias 
-Acetaminophen 
-60 mg/dL 
-20 mg/dL 
-120 mg/dL 
-20 mg/dL 
-250 mg/dL 
-20 mg/dL 
-In your 510(k) submission, you should include a detailed description of the study design, 
-a list of all data collected in this study, the summary tables indicated above, and a 
-description of the conclusions drawn from the study. 
-2. Hematocrit 
-Study design: 
-Because a reasonably sized method comparison study may not include the full range of 
-hematocrit values expected in the intended use population, you should perform a separate 
-study to determine how much analytical error is contributed by varying hematocrit levels. 
-This should constitute a bench study designed to evaluate the effect of hematocrit on the 
-performance of your BGMS to assess whether your device can safely be used across the 
-claimed hematocrit range in the intended use population. The observed hematocrit levels 
-may be very broad in the intended use population for this type of device; the intended 
-patient population may reasonably be expected to have hematocrit levels between 10 and 
-65%. Therefore, we recommend a minimum hematocrit range of 10-65% as the claimed 
-range for BGMSs. 
-You should evaluate hematocrit interference by measuring samples containing various 
-glucose concentrations. The samples should be prepared to contain designated levels of 
-hematocrit that span the claimed hematocrit range for the device. Blood samples may be 
-altered by spiking or allowing them to glycolyze to obtain desired glucose concentrations. 
-Specific percentages of hematocrit may be achieved for each sample by manipulating the 
-plasma to packed cell ratio following centrifugation. Hematocrit levels tested should span 
-the claimed range in 5% intervals, as such 5% intervals allow for a more accurate 
-assessment of bias from hematocrit interference than using broader intervals. 
-Additionally, a sample having a nominal hematocrit of 42% should be tested. For 
-example, if your claimed hematocrit range is from 10-65%, you should test samples at 
-10, 15, 20, 25, 30, 35, 42, 50, 55, 60 and 65% hematocrit. The samples should also span 
-the claimed measuring range for blood glucose. Samples should include 5 different blood 
-glucose concentrations evenly spread and targeted to the following ranges: 30 – 50, 51 – 
-110, 111 – 150, 151 – 250, and 251 – 400 mg/dL. 
-Each sample should be tested on the comparator method in multiple replicates (we 
-recommend a minimum of 4 replicates). A mean of the comparator measurements 
-(MeanComp) should give greater confidence in the true glucose concentration of the 
-sample.  You should test a minimum of 3 test strip lots to evaluate interference from
-
----
-
-<!-- Page 26 -->
-Contains Nonbinding Recommendations 
-25
-hematocrit. Each sample should be tested on your new BGMS in replicates of 30 (10 
-replicates per lot of test strips for a total of 30 replicates per sample). 
-Data Analysis: 
-An analysis should be performed for each of the 5 blood glucose concentrations tested 
-and each test strip lot. The bias should first be determined with respect to the comparator 
-method and then with respect to the nominal hematocrit samples, so that the hematocrit 
-effect can be isolated. 
-(1) Estimation of Bias to Comparator Method 
-For each sample, you should calculate the average of 30 replicates of your new 
-BGMS (MeanBGMS). Using the MeanBGMS and the estimate of the true glucose 
-concentration in the sample, MeanComp, you should estimate a bias and percent bias as 
-(MeanBGMS-MeanComp) and (MeanBGMS-MeanComp)/MeanComp, correspondingly, for 
-each sample. The results should be presented as in the table below and in graphical 
-format appropriate for each specific glucose concentration range. 
-For glucose concentrations less than 75 mg/dL, the analysis should be presented as a 
-graph where the X-axis represents hematocrit values and the Y-axis represents the 
-absolute bias values. For glucose concentrations greater than or equal to 75 mg/dL, 
-the analysis should be presented as a graph where the X-axis represents hematocrit 
-values and the Y-axis represents percent bias values. 
-Table 5.  Example table of bias calculated versus the comparator method for the 
-hematocrit evaluation on a BGMS with 120 mg/dL glucose:  
-Hematocrit 
-(%) 
-Average of 
-Comparator 
-measurements 
-(MeanComp) 
-Number of 
-measurements 
-for BGMS 
-Average of 
-BGMS 
-measurements 
-(MeanBGMS) 
-%Bias 
-(MeanBGMS-
-MeanComp)/ 
-MeanComp 
-10 
-118.0 
-30 
-127.6 
-8.1% 
-15 
-118.4 
-30 
-127.6 
-7.8% 
-20 
-122.4 
-30 
-130.4 
-6.5% 
-25 
-120.7 
-30 
-127.1 
-5.3% 
-30 
-123.7 
-30 
-129.5 
-4.7% 
-35 
-121.5 
-30 
-127.1 
-4.6% 
-42 
-119.7 
-30 
-124.6 
-4.1% 
-50 
-121.3 
-30 
-125.4 
-3.4% 
-55 
-120.8 
-30 
-122.7 
-1.6% 
-60 
-120.1 
-30 
-119.5 
--0.5% 
-65 
-118.1 
-30 
-116.0 
--1.8% 
-70 
-117.5 
-30 
-115.6 
--1.6% 
+You should perform interference testing using samples containing glucose concentrations across the range of the device. Specifically, testing should be performed in samples with target glucose values of approximately between 50 - 70 mg/dL, 110-130 mg/dL, and 225-
+270 mg/dL to evaluate clinically relevant decision points.
+You should evaluate each potentially interfering substance at clinically relevant concentrations. When performing your studies, you should test all substances at the highest concentration that could potentially be observed in a whole blood sample; if interference is observed, you should perform dilutions of the interferent to determine the concentration at which interference begins to occur. For example, if interference is observed with 20 mg/dL acetaminophen, additional testing should be performed with samples containing lower concentrations of acetaminophen, such as 15 mg/dL, 10 mg/dL Within +/- 5% Within +/- 10% Within +/- 12% Within +/- 15% Within +/- 20% Exceeds +/- 20% X/Y (%) X/Y (%) X/Y (%) X/Y (%) X/Y (%) X/Y (%) and 5 mg/dL, to determine the lowest concentration of acetaminophen where interference is first observed. If the results from the additional testing determine that interference is not observed in the sample containing 5 mg/dL acetaminophen and interference is observed in the sample containing 10 mg/dL acetaminophen, then 5 mg/dL is the highest concentration of acetaminophen where no interference is observed.
+The substances listed below in Table 4 represent known or potential interferents for current blood glucose measurement technologies and comprise the minimal list of substances that should be tested for interference.
+Table 4. List of Known or Potential Interferents for BGMSs: Interferent Recommended Test Concentration Acetaminophen 20 mg/dL Ascorbic acid 6 mg/dL Conjugated Bilirubin 50 mg/dL Unconjugated Bilirubin 40 mg/dL Cholesterol 500 mg/dL Creatinine 15 mg/dL Dopamine 0.09 mg/dL EDTA*
+0.1 mg/dL Galactose 60 mg/dL Gentisic acid 1.8 mg/dL Reduced Glutathione 4.6 mg/dL Hemoglobin 1000 mg/dL Heparin*
+300 IU/dL Ibuprofen 50 mg/dL L-Dopa 0.75 mg/dL Maltose 480 mg/dL Mannitol 1800 mg/dL Methyldopa 2 mg/dL Salicylic acid 60 mg/dL Sodium 180 mmol/L Tolbutamide 72 mg/dL Tolazamide 9 mg/dL Triglycerides 1500 mg/dL Uric acid 23.5 mg/dL Xylose 600 mg/dL Sugar Alcohols**
+0.09 mg/dL *The inclusion of EDTA and Heparin in this table refers to their use as therapeutic substances and not as anticoagulants for sample preparation. Separate studies should be performed to validate the use of these substances as anticoagulants used for sample preparation (as described in Section C, above).
+**All common sugar alcohols, including but not necessarily limited to, sorbitol, xylitol, lactitol, isomalt, maltitol should be independently tested.
+In addition to the list of potential interferents provided in Table 4, you should conduct an interference risk analysis and carry out bench studies to evaluate interference from additional drugs commonly used in your intended use population. These bench studies of additional drugs should be conducted in the same manner described in this Section.
+You should provide a reliable estimate of the interference predicted for each potential interferent. To do this, we recommend the following method of measuring and calculating interference. First, blood samples should be generated at each target glucose concentration described above. Each glucose sample should be tested in replicates with the comparator method (we suggest at least 4 replicates in order to reduce standard error) to establish the glucose concentration in the sample. The glucose samples should then be split into a test sample to which a specific amount of potential interferent is added and a control sample containing solvent/vehicle in lieu of the potential interfering substance.
+Both control samples and test samples should be measured in replicates on the BGMS. At least three test strip lots should be used for this evaluation. Each of the control and test samples should be tested on your BGMS in replicates of 30 across the three lots (10 replicates per lot of test strips for a total of 30 replicates per sample). The mean of replicates should be calculated for each control and test sample. The relative bias (mg/dL) and percent bias should be calculated using the results of the control sample relative to test sample for each concentration of potential interferent. These results should be submitted with 95% confidence intervals as part of your 510(k) submission.
+For BGMSs, the degree of acceptable interference may vary by substance tested and the intended patient population of your device. Therefore, you should report in your 510(k) submission the interference testing data as well as the expected imprecision of the system at that glucose concentration. If interferences are observed, you should propose appropriate labeling to address any observed interferences; the labeling language appropriate for the observed interference will be discussed during the review of the 510(k) submission.
+As new drugs are developed that could potentially interfere with your device, or new interfering substances are identified for other BGMSs, you should evaluate these new drugs or substances for potential interference with your device. For example, if a new drug intended to treat cardiac complications in diabetic patients is approved, you should conduct a careful evaluation to determine whether the new drug interferes with your device. You should report to FDA if significant new interferences are observed with your device or with any cleared glucose monitoring devices that are on the market. New drugs/potential interferents should also be evaluated when new or significantly modified technology is introduced.
+Data Analysis:
+You should provide raw data sets as well as a summary table for all interference results.
+Please note that the summary tables should be presented separately for each test strip lot and for all lots pooled for each glucose level tested. Table 5 below provides a sample format of a summary table.
+Table 5. Recommended Summary Table Format: Test Strip Lot #(s) Interferent Mean Glucose Value (Comparator) Interferent Concentration (mg/dL) Control Sample Mean Test Sample Mean Bias (mg/dL)
+%
+Bias Confidence Interval around % Bias Acetaminophen 60 mg/dL 20 mg/dL 120 mg/dL 20 mg/dL 250 mg/dL 20 mg/dL
+In your 510(k) submission, you should include a detailed description of the study design, a list of all data collected in this study, the summary tables indicated above, and a description of the conclusions drawn from the study.
+2. Hematocrit
+Study design:
+Because a reasonably sized method comparison study may not include the full range of hematocrit values expected in the intended use population, you should perform a separate study to determine how much analytical error is contributed by varying hematocrit levels.
+This should constitute a bench study designed to evaluate the effect of hematocrit on the performance of your BGMS to assess whether your device can safely be used across the claimed hematocrit range in the intended use population. The observed hematocrit levels may be very broad in the intended use population for this type of device; the intended patient population may reasonably be expected to have hematocrit levels between 10 and 65%. Therefore, we recommend a minimum hematocrit range of 10-65% as the claimed range for BGMSs.
+You should evaluate hematocrit interference by measuring samples containing various glucose concentrations. The samples should be prepared to contain designated levels of hematocrit that span the claimed hematocrit range for the device. Blood samples may be altered by spiking or allowing them to glycolyze to obtain desired glucose concentrations.
+Specific percentages of hematocrit may be achieved for each sample by manipulating the plasma to packed cell ratio following centrifugation. Hematocrit levels tested should span the claimed range in 5% intervals, as such 5% intervals allow for a more accurate assessment of bias from hematocrit interference than using broader intervals.
+Additionally, a sample having a nominal hematocrit of 42% should be tested. For example, if your claimed hematocrit range is from 10-65%, you should test samples at 10, 15, 20, 25, 30, 35, 42, 50, 55, 60 and 65% hematocrit. The samples should also span the claimed measuring range for blood glucose. Samples should include 5 different blood glucose concentrations evenly spread and targeted to the following ranges: 30 – 50, 51 –
+110, 111 – 150, 151 – 250, and 251 – 400 mg/dL.
+Each sample should be tested on the comparator method in multiple replicates (we recommend a minimum of 4 replicates). A mean of the comparator measurements (MeanComp) should give greater confidence in the true glucose concentration of the sample.  You should test a minimum of 3 test strip lots to evaluate interference from hematocrit. Each sample should be tested on your new BGMS in replicates of 30 (10 replicates per lot of test strips for a total of 30 replicates per sample).
+Data Analysis:
+An analysis should be performed for each of the 5 blood glucose concentrations tested and each test strip lot. The bias should first be determined with respect to the comparator method and then with respect to the nominal hematocrit samples, so that the hematocrit effect can be isolated.
+(1) Estimation of Bias to Comparator Method
+For each sample, you should calculate the average of 30 replicates of your new BGMS (MeanBGMS). Using the MeanBGMS and the estimate of the true glucose concentration in the sample, MeanComp, you should estimate a bias and percent bias as (MeanBGMS-MeanComp) and (MeanBGMS-MeanComp)/MeanComp, correspondingly, for each sample. The results should be presented as in the table below and in graphical format appropriate for each specific glucose concentration range.
+For glucose concentrations less than 75 mg/dL, the analysis should be presented as a graph where the X-axis represents hematocrit values and the Y-axis represents the absolute bias values. For glucose concentrations greater than or equal to 75 mg/dL, the analysis should be presented as a graph where the X-axis represents hematocrit values and the Y-axis represents percent bias values.
+Table 5.  Example table of bias calculated versus the comparator method for the hematocrit evaluation on a BGMS with 120 mg/dL glucose: Hematocrit (%) Average of Comparator measurements (MeanComp) Number of measurements for BGMS Average of BGMS measurements (MeanBGMS)
+%Bias (MeanBGMS-
+MeanComp)/
+MeanComp 118.0
+127.6
+8.1%
+118.4
+127.6
+7.8%
+122.4
+130.4
+6.5%
+120.7
+127.1
+5.3%
+123.7
+129.5
+4.7%
+121.5
+127.1
+4.6%
+119.7
+124.6
+4.1%
+121.3
+125.4
+3.4%
+120.8
+122.7
+1.6%
+120.1
+119.5
+-0.5%
+118.1
+116.0
+-1.8%
+117.5
+115.6
+-1.6%
 (2) Estimation of Bias due to Hematocrit
-
----
-
-<!-- Page 27 -->
-Contains Nonbinding Recommendations 
-26
-In order to isolate the effect of hematocrit on device performance, the bias relative to 
-a sample having a nominal hematocrit (42%) should be determined. This nominal 
-hematocrit is representative of the average hematocrit value of the intended use 
-population, and BGMSs are designed to perform optimally with such samples; 
-therefore, bias due to hematocrit is considered 0% (or 0 mg/dL) for the sample with 
-hematocrit value equal to the average (42%).  The estimate bias due to hematocrit for 
-each sample should be calculated by subtracting the bias at the average hematocrit 
-(42%) from the bias of each sample. 
-Table 6. Example table of bias due to hematocrit calculated for the nominal 
-hematocrit value of 42% on a BGMS with 120 mg/dL glucose: 
-You should include in your 510(k) submission a detailed description of the study design, 
-a list of all data collected in this study, the summary tables indicated above, and a 
-summary of the conclusions drawn from the study. 
-3. Oxygen 
-Study design: 
-A typical professional use setting can include patients with a broad range of blood 
-oxygen levels. If you intend for your BGMS to be used in patients with a broad range of 
-blood oxygen levels, you should conduct a study using a validated method appropriate to 
-the sample type to demonstrate the range of blood oxygen levels with which your device 
-can be used. You should supplement the results of this study by collecting data on the 
-blood oxygen levels of patients in your Method Comparison/User Evaluation Study 
-(Subsection C, above), as appropriate, and conducting an analysis for any oxygen effects 
-on BGMS performance. If you believe that blood oxygen levels do not affect the 
-performance of your device you should provide a comprehensive justification for this, 
-Hematocrit 
-(%) 
-Average of 
-Comparator 
-measurements 
-(MeanComp) 
-Number of 
-measurements 
-for BGMS 
-Average of 
-BGMS 
-measurements 
-(MeanBGMS) 
-%Bias 
-(MeanBGMS-
-MeanComp)/ 
-MeanComp 
-%Bias due to 
-hematocrit 
-10 
-118.0 
-30 
-127.6 
-8.1% 
-4.0% 
-15 
-118.4 
-30 
-127.6 
-7.8% 
-3.7% 
-20 
-122.4 
-30 
-130.4 
-6.5% 
-2.4% 
-25 
-120.7 
-30 
-127.1 
-5.3% 
-1.2% 
-30 
-123.7 
-30 
-129.5 
-4.7% 
-0.6% 
-35 
-121.5 
-30 
-127.1 
-4.6% 
-0.5% 
-42 
-119.7 
-30 
-124.6 
-4.1% 
-0.0% 
-50 
-121.3 
-30 
-125.4 
-3.4% 
--0.7% 
-55 
-120.8 
-30 
-122.7 
-1.6% 
--2.5% 
-60 
-120.1 
-30 
-119.5 
--0.5% 
--4.6% 
-65 
-118.1 
-30 
-116.0 
--1.8% 
--5.9% 
-70 
-117.5 
-30 
-115.6 
--1.6% 
+In order to isolate the effect of hematocrit on device performance, the bias relative to a sample having a nominal hematocrit (42%) should be determined. This nominal hematocrit is representative of the average hematocrit value of the intended use population, and BGMSs are designed to perform optimally with such samples; therefore, bias due to hematocrit is considered 0% (or 0 mg/dL) for the sample with hematocrit value equal to the average (42%).  The estimate bias due to hematocrit for each sample should be calculated by subtracting the bias at the average hematocrit (42%) from the bias of each sample.
+Table 6. Example table of bias due to hematocrit calculated for the nominal hematocrit value of 42% on a BGMS with 120 mg/dL glucose:
+You should include in your 510(k) submission a detailed description of the study design, a list of all data collected in this study, the summary tables indicated above, and a summary of the conclusions drawn from the study.
+3. Oxygen
+Study design:
+A typical professional use setting can include patients with a broad range of blood oxygen levels. If you intend for your BGMS to be used in patients with a broad range of blood oxygen levels, you should conduct a study using a validated method appropriate to the sample type to demonstrate the range of blood oxygen levels with which your device can be used. You should supplement the results of this study by collecting data on the blood oxygen levels of patients in your Method Comparison/User Evaluation Study (Subsection C, above), as appropriate, and conducting an analysis for any oxygen effects on BGMS performance. If you believe that blood oxygen levels do not affect the performance of your device you should provide a comprehensive justification for this, Hematocrit (%) Average of Comparator measurements (MeanComp) Number of measurements for BGMS Average of BGMS measurements (MeanBGMS)
+%Bias (MeanBGMS-
+MeanComp)/
+MeanComp %Bias due to hematocrit 118.0
+127.6
+8.1%
+4.0%
+118.4
+127.6
+7.8%
+3.7%
+122.4
+130.4
+6.5%
+2.4%
+120.7
+127.1
+5.3%
+1.2%
+123.7
+129.5
+4.7%
+0.6%
+121.5
+127.1
+4.6%
+0.5%
+119.7
+124.6
+4.1%
+0.0%
+121.3
+125.4
+3.4%
+-0.7%
+120.8
+122.7
+1.6%
+-2.5%
+120.1
+119.5
+-0.5%
+-4.6%
+118.1
+116.0
+-1.8%
+-5.9%
+117.5
+115.6
+-1.6%
 -5.7%
-
----
-
-<!-- Page 28 -->
-Contains Nonbinding Recommendations 
-27
-which should be supported by any analysis of interference of blood oxygen levels on 
-device performance, as evaluated in your Method Comparison/User Evaluation Study 
-(Subsection C, above). 
-E. Flex Studies     
-Generally, the risk of an erroneous result may be greater for POC tests than laboratory-
-based tests. This is because there are fewer controls in place in POC settings to mitigate 
-risks and the users may be untrained and may not know how to identify or address an 
-incorrect result. You should demonstrate that your BGMS design is robust (i.e., 
-insensitive to environmental and usage variation) and that all known sources of error 
-have been assessed through a detailed risk assessment and are effectively controlled. In 
-general, flex studies should be used to demonstrate robust design while risk management 
-should be used to demonstrate the identification and effective control of error sources, 
-although the two are not mutually exclusive. 
-Most risk control measures should be fail-safe mechanisms or failure alert mechanisms. 
-Examples of fail-safe mechanisms are lock-out functions to ensure that a BGMS does not 
-provide a result when test conditions are inappropriate, such as when there is a 
-component malfunction or operator error. Other examples are measures within the BGMS 
-to prevent operator error, such as guides or channels that prevent improper strip 
-placement. We recommend that BGMS design incorporate fail-safe mechanisms 
-whenever technically practicable. If fail-safe mechanisms are not technically practicable 
-for some risks, failure alert mechanisms should be used. Failure alert mechanisms notify 
-the operator of any BGMS malfunction or problem. They may include measures such as 
-internal procedural controls or electronic controls. Devices with such mechanisms allow 
-the operator to correct the error, or put the operator on notice that the results will be 
-unreliable due to the error. For example, in cases where the result exceeds the reportable 
-range (i.e., extremely high or low glucose result) and the result is a critical value, the 
-device should give a message such as "high" or "low." 
-Flex studies, or studies that stress the operational boundaries of a BGMS, should be used 
-to validate the insensitivity of the test system to performance variation under stress 
-conditions. Where appropriate, flex studies should also be used to verify and/or validate 
-the effectiveness of control measures at operational limits. 
-In order to identify all relevant flex studies for your BGMS device, we recommend that 
-you conduct a systematic and comprehensive risk analysis that identifies all potential 
-sources of error, including test system failures and operator errors, and identify which of 
-these errors can lead to a risk of a hazardous situation. You should then identify control 
-measures, including fail-safe mechanisms and failure alert mechanisms that will reduce 
-risks for these sources of error. When the control measures have been implemented, you 
-should (1) verify that each control measure has been properly implemented, and (2) 
-verify and/or validate the effectiveness of each control measure. When appropriate, flex 
-studies should be used to verify and/or validate the effectiveness of these control 
-measures.
-
----
-
-<!-- Page 29 -->
-Contains Nonbinding Recommendations 
-28
-Below, we have identified flex studies that we believe are important for you to perform 
-and recommend including in the 510(k) submission of your BGMS. At the same time, we 
-encourage you to continue to perform risk analyses to determine whether your device 
-includes any unique or new features that should be validated through additional flex 
-studies. 
-If your BGMS does not perform adequately in flex studies, we recommend that you 
-either provide a justification, determined by means of thorough risk analysis, as to why 
-adequate performance in that flex study is not necessary, or alternatively, you should 
-indicate an additional implemented validated control mechanism. FDA will review such 
-justifications to determine whether the proposed mitigation strategies are adequate to 
-protect patients. 
-In the case of the following flex studies, verification should include performance testing; 
-however, it is sufficient if you provide information indicating that flex studies have been 
-conducted in accordance with an FDA-recognized industry standard. We recommend you 
-include information regarding the type of testing performed, the reference standard 
-followed, the acceptance criteria, and whether the BGMS met these acceptance criteria. 
-The flex studies we recommend performing in this manner are: 
-· Mechanical Vibration Testing 
-· Shock Testing 
-· Electromagnetic compatibility (EMC) Testing 
-· Electrostatic Discharge/Electromagnetic Interference Testing 
-We have also identified additional flex studies (described below) that manufacturers 
-should perform in order to demonstrate adequate system performance in intended use 
-settings. Unless otherwise indicated, we recommend that you clearly identify all flex 
-studies performed on your device in your 510(k) submission. A detailed description of 
-the following attributes should be included in your 510(k) submission for each study: 
-· Study goal 
-· Study protocol 
-· Methods used to apply samples to test strips 
-· Sample type and any anticoagulants used 
-· Study results 
-· Conclusions made from the study  
-The recommended flex studies as well as recommended study designs are outlined below 
-in Subsections 1-8. These flex studies should be performed using fresh venous or 
-capillary whole blood samples, not control solutions. 
+which should be supported by any analysis of interference of blood oxygen levels on device performance, as evaluated in your Method Comparison/User Evaluation Study (Subsection C, above).
+### E. Flex Studies
+Generally, the risk of an erroneous result may be greater for POC tests than laboratory-based tests. This is because there are fewer controls in place in POC settings to mitigate risks and the users may be untrained and may not know how to identify or address an incorrect result. You should demonstrate that your BGMS design is robust (i.e., insensitive to environmental and usage variation) and that all known sources of error have been assessed through a detailed risk assessment and are effectively controlled. In general, flex studies should be used to demonstrate robust design while risk management should be used to demonstrate the identification and effective control of error sources, although the two are not mutually exclusive.
+Most risk control measures should be fail-safe mechanisms or failure alert mechanisms.
+Examples of fail-safe mechanisms are lock-out functions to ensure that a BGMS does not provide a result when test conditions are inappropriate, such as when there is a component malfunction or operator error. Other examples are measures within the BGMS to prevent operator error, such as guides or channels that prevent improper strip placement. We recommend that BGMS design incorporate fail-safe mechanisms whenever technically practicable. If fail-safe mechanisms are not technically practicable for some risks, failure alert mechanisms should be used. Failure alert mechanisms notify the operator of any BGMS malfunction or problem. They may include measures such as internal procedural controls or electronic controls. Devices with such mechanisms allow the operator to correct the error, or put the operator on notice that the results will be unreliable due to the error. For example, in cases where the result exceeds the reportable range (i.e., extremely high or low glucose result) and the result is a critical value, the device should give a message such as "high" or "low."
+Flex studies, or studies that stress the operational boundaries of a BGMS, should be used to validate the insensitivity of the test system to performance variation under stress conditions. Where appropriate, flex studies should also be used to verify and/or validate the effectiveness of control measures at operational limits.
+In order to identify all relevant flex studies for your BGMS device, we recommend that you conduct a systematic and comprehensive risk analysis that identifies all potential sources of error, including test system failures and operator errors, and identify which of these errors can lead to a risk of a hazardous situation. You should then identify control measures, including fail-safe mechanisms and failure alert mechanisms that will reduce risks for these sources of error. When the control measures have been implemented, you should (1) verify that each control measure has been properly implemented, and (2) verify and/or validate the effectiveness of each control measure. When appropriate, flex studies should be used to verify and/or validate the effectiveness of these control measures.
+Below, we have identified flex studies that we believe are important for you to perform and recommend including in the 510(k) submission of your BGMS. At the same time, we encourage you to continue to perform risk analyses to determine whether your device includes any unique or new features that should be validated through additional flex studies.
+If your BGMS does not perform adequately in flex studies, we recommend that you either provide a justification, determined by means of thorough risk analysis, as to why adequate performance in that flex study is not necessary, or alternatively, you should indicate an additional implemented validated control mechanism. FDA will review such justifications to determine whether the proposed mitigation strategies are adequate to protect patients.
+In the case of the following flex studies, verification should include performance testing; however, it is sufficient if you provide information indicating that flex studies have been conducted in accordance with an FDA-recognized industry standard. We recommend you include information regarding the type of testing performed, the reference standard followed, the acceptance criteria, and whether the BGMS met these acceptance criteria.
+The flex studies we recommend performing in this manner are: · Mechanical Vibration Testing · Shock Testing · Electromagnetic compatibility (EMC) Testing · Electrostatic Discharge/Electromagnetic Interference Testing
+We have also identified additional flex studies (described below) that manufacturers should perform in order to demonstrate adequate system performance in intended use settings. Unless otherwise indicated, we recommend that you clearly identify all flex studies performed on your device in your 510(k) submission. A detailed description of the following attributes should be included in your 510(k) submission for each study: · Study goal · Study protocol · Methods used to apply samples to test strips · Sample type and any anticoagulants used · Study results · Conclusions made from the study
+The recommended flex studies as well as recommended study designs are outlined below in Subsections 1-8. These flex studies should be performed using fresh venous or capillary whole blood samples, not control solutions.
 1. Test Strip Stability Testing
-
----
-
-<!-- Page 30 -->
-Contains Nonbinding Recommendations 
-29
-You should perform studies that assess test strip performance throughout the test strip 
-stability claims, including both closed and open vial claims. Two studies should be 
-performed to support test strip stability: 1) closed vial stability (shelf life) should be 
-performed to assess the recommended shelf life and conditions when the vial is stored 
-closed throughout the claimed expiration dating, at different combinations of temperature 
-and humidity spanning the recommended storage conditions; and 2) open vial stability 
-should be performed to mimic conditions under which an individual would actually use 
-the strips where the vial is opened and closed throughout its claimed open vial life and 
-stored at different combinations of temperature and humidity throughout the 
-recommended storage conditions. We suggest that you submit only the study protocols 
-for these test strip stability assessments, the acceptance criteria, and the conclusions of 
-any studies which have been completed.  
-These studies (shelf life and open vial stability) should be designed to span both the 
-claimed temperature range and humidity range at various time points throughout the 
-duration of the respective claim. The time points that are assessed (e.g., 1 month, 3 
-months, 2 years) should be specified in the protocol. Combinations of real-time and 
-accelerated stability studies are acceptable. However, if accelerated studies are provided, 
-real-time studies should be ongoing and the protocols and acceptance criteria should be 
-provided for both study types. 
-Separate testing of test strip and meter shipping and storage conditions is not necessary if 
-the temperature and humidity studies outlined here use only packaged blood glucose 
-meters and blood glucose test strips that have undergone appropriate storage conditions 
-and the longest possible shipping duration (both as specified by the manufacturer). 
-You should perform adequate precision and accuracy evaluations at each identified time 
-point.  The following are provided only as examples of such studies. Through these 
-evaluations, you should demonstrate that the CV and accuracy calculated in these studies 
-are within the labeled performance of the BGMS. 
-Precision Evaluation:  
-Precision with Control Materials 
-This study should be completed over 5 days and use glucose controls. At least two 
-meters should be included in this study and at least 10 measurements should be taken 
-per glucose control level, per meter. 
-Precision with Whole Blood Samples 
-This study should use whole blood samples spanning the claimed measuring range of 
-the BGMS. Samples may be altered by spiking with glucose or allowing the samples 
-to glycolyze in order to evaluate the extreme end of the system’s measuring range. At 
-least two meters should be included in this study and at least 10 measurements should 
-be taken per glucose level, per meter. 
+You should perform studies that assess test strip performance throughout the test strip stability claims, including both closed and open vial claims. Two studies should be performed to support test strip stability: 1) closed vial stability (shelf life) should be performed to assess the recommended shelf life and conditions when the vial is stored closed throughout the claimed expiration dating, at different combinations of temperature and humidity spanning the recommended storage conditions; and 2) open vial stability should be performed to mimic conditions under which an individual would actually use the strips where the vial is opened and closed throughout its claimed open vial life and stored at different combinations of temperature and humidity throughout the recommended storage conditions. We suggest that you submit only the study protocols for these test strip stability assessments, the acceptance criteria, and the conclusions of any studies which have been completed.
+These studies (shelf life and open vial stability) should be designed to span both the claimed temperature range and humidity range at various time points throughout the duration of the respective claim. The time points that are assessed (e.g., 1 month, 3 months, 2 years) should be specified in the protocol. Combinations of real-time and accelerated stability studies are acceptable. However, if accelerated studies are provided, real-time studies should be ongoing and the protocols and acceptance criteria should be provided for both study types.
+Separate testing of test strip and meter shipping and storage conditions is not necessary if the temperature and humidity studies outlined here use only packaged blood glucose meters and blood glucose test strips that have undergone appropriate storage conditions and the longest possible shipping duration (both as specified by the manufacturer).
+You should perform adequate precision and accuracy evaluations at each identified time point.  The following are provided only as examples of such studies. Through these evaluations, you should demonstrate that the CV and accuracy calculated in these studies are within the labeled performance of the BGMS.
+Precision Evaluation: Precision with Control Materials
+This study should be completed over 5 days and use glucose controls. At least two meters should be included in this study and at least 10 measurements should be taken per glucose control level, per meter.
+Precision with Whole Blood Samples
+This study should use whole blood samples spanning the claimed measuring range of the BGMS. Samples may be altered by spiking with glucose or allowing the samples to glycolyze in order to evaluate the extreme end of the system’s measuring range. At least two meters should be included in this study and at least 10 measurements should be taken per glucose level, per meter.
 Accuracy Evaluation:
+This study should be performed using whole blood samples that span the claimed measuring range of the BGMS. It is acceptable for samples to be spiked with a known concentration of glucose or allowed to glycolyze to achieve the desired concentration in order to evaluate the extreme ends of the system’s measuring range. Glucose concentrations (e.g., 30-50, 100-150, 200-300, 350-500 mg/dL) should be measured with the BGMS and compared to values obtained with the comparator method.
+2. System Operating Conditions Testing
+You should perform a study to assess the performance of your BGMS when used under various operating temperature and humidity conditions. These studies should be designed to represent actual use conditions experienced by BGMS users. Tested temperature and humidity ranges should not only cover the operating ranges that adequately reflect the intended use environment, and that are specified in the device labeling, but should also stress the BGMS by including ranges outside of the claimed operating range. Testing should incorporate the four extreme temperature and humidity combinations (high temperature/low humidity; high temperature/high humidity; low temperature/low humidity; low temperature/high humidity), or other testing combinations, if a suitable rationale can be provided. Measurements made on whole blood samples with your candidate device should be compared to values obtained using the candidate device at a nominal condition (such as 23oC, 40% relative humidity).
+We also encourage manufacturers to consider ways in which temperature and/or humidity detectors might be incorporated into test strip containers to alert users when strips have not been handled correctly or stored according to recommended and validated conditions.
+3.  Altitude Effects
+Relative to sea level, high altitude comprises a complex set of environmental differences and can induce multiple physiological changes, any or all of which might interfere with BGMS performance. For example, high altitude often involves extremes of temperature and humidity and can result in changes to hematocrit and blood pressure. The intended use environment of BGMSs in the United States includes high altitude conditions and, therefore, manufacturers should conduct studies to assess the effects of altitude on their BMGS, or should provide a justification for why altitude does not have an effect on the performance of their BGMS.
+An altitude effects study should compare results from whole blood samples with your candidate device relative to values obtained using the candidate device at a nominal condition (such as sea level).   These studies should also include a pressure change.
+Studies based on oxygen tension instead of pressure change are not adequate, because oxygen tension is only one component that changes with altitude. Altitude pressure changes can be accomplished by physically increasing altitude (e.g., in an airplane, on a mountain), or by simulating increasing altitudes and atmospheric conditions in a pressurized chamber. Results should support the altitude labeling claim for your device.
+You should provide your definition for terms such as “sea level.” The definition of sea level should not extend above 500 feet. You should test your BGMS at a minimum of 10,000 feet above sea level.
+4. Error Codes for Samples Outside the Measuring Range
+You should perform adequate analyses to demonstrate that your meter provides the appropriate error codes when measured glucose concentrations are outside of the BGMS’s claimed measuring range, and include these results in your 510(k) submission.
+5. Short Sample Detection
+Blood glucose measurement from short samples (samples of reduced sample volume) can lead to inaccurate results. To avoid the risk of inaccurate results, BGMSs should be able to detect that a short blood sample that has been applied to the test strip and should not provide a result to the user. Short sample detection systems should not rely on visual verification by the user.
+The volume that classifies a test sample as a short sample is dependent upon your BGMS.
+In your short sample detection studies, you should include blood samples with known glucose concentrations in the following three ranges: 50-65, 100-120, and 200-250 mg/dL. You should test blood samples with your candidate device at each of the glucose concentrations listed above. Results obtained from the candidate device should be compared to results using the candidate device at a nominal condition (such as the claimed minimum sample volume). Blood samples with serially reduced volumes should be measured on the device until an error is either generated by the BGMS or the test result falls outside of the device’s stated performance range. In your 510(k) submission, you should describe the results from the candidate device under both test and nominal conditions, as well as include the sample volumes tested for each glucose concentration range.
+6. Sample Perturbation Study
+Sample perturbation occurs when a user has applied an appropriate volume of blood to the test strip for glucose measurement but an event, such as wicking of blood away from the test strip, flicking of the test strip, or flicking of the meter, occurs during the start of measurement and alters the volume of the initial sample application. You should adequately demonstrate how your BGMS handles sample perturbation through a sample perturbation study.
+In a sample perturbation study, a sample should be applied to the test strip and after the BGMS has begun to read the sample, but before the measurement is complete, the test strip should be perturbed. The sample perturbation study should incorporate blood samples with known glucose concentrations in the following three ranges: 50-65, 100-
+120, and 200-250 mg/dL. In your 510(k) submission, you should describe your protocol, including your specific method of perturbing the test sample, as well as the candidate device results compared to results using the candidate device under a nominal condition (such as strips with no perturbation).
+7. Intermittent Sampling
+Intermittent sampling occurs when a short sample is applied to a test strip, a glucose measurement begins, and the user adds more sample to the test strip before the glucose measurement is complete. You should adequately demonstrate how your BGMS handles intermittent sampling by conducting an intermittent sampling study.
+The intermittent sampling study should incorporate blood samples with known glucose concentrations in the following three ranges: 50-65, 100-120, and 200-250 mg/dL. You should perform intermittent sampling studies that are representative of actual events. For instance, approximately one half of the sample should be applied to the test strip prior to the start of sample measurement, then the other half of the sample should be applied to the strip after a set period of time, such as once the sample starts reading. For systems that allow a second sample of blood without producing an error message, different time delays throughout the claimed period of second application should be tested once the sample starts reading, but before the measurement is complete. You should describe how the device responds to this scenario, including whether a result is reported by the device, whether the result is accurate (relative to the nominal condition, such as with the minimum claimed sample volume), and when an error code is reported.
+8. Testing with Used Test Strips
+You should perform a study to demonstrate how your BGMS performs when a used test strip is inserted. We recommend that BGMSs be designed to automatically recognize the insertion of used test strips. Insertion of used test strips into a blood glucose meter should not provide glucose measurement results to the user. If an automatic used test strip recognition function has been incorporated into your BGMS, you should perform a study to demonstrate the functionality of this recognition system. In your 510(k) submission, you should provide the study protocol, acceptance criteria, and results of your used test strip study.
+### F. Meter Calibration and Quality Control Material
+Your 510(k) submission should describe how your BGMS recognizes and distinguishes control materials from patient specimens, either automatically or manually by the user, as well as explain how the system compensates for differences between test strip lots (e.g., how the meter is calibrated or coded for each test strip lot). At least two levels of quality control material should be available for use with your system.
+## VII. Test Strip Lot Release Criteria
+Your test strip lot release criteria should be sufficient to ensure consistent quality of the BGMS test strips. You should provide a description of the lot release criteria and a summary of the sampling scheme in your 510(k) submission. In addition, you should explain how the system compensates for differences between strip lots or strip types.
+We recommend that you select a sampling scheme appropriate for the operation of your BGMS to test each outgoing test strip lot or batch. Your test strip lot release criteria should be designed to ensure that all released lots conform to the labeled BGMS device performance in the hands of the intended user. Therefore, these criteria typically should be tighter than the criteria used to evaluate total error in the performance studies, in order to achieve targeted performance in the intended user population.
+## VIII. Third Party Test Strips
+Third party test strips refer to test strips manufactured and distributed by a company other than the company that manufactures and distributes the BGMS. Third party test strip manufacturers should ensure that they are aware of any design changes to the meter because such changes could affect compatibility of the strip with the meter. Because test strips and meters work as integral systems, third party test strip manufacturers should sufficiently address in their 510(k) submissions how they will mitigate the risk of incorrect results due to meter design changes. One way to effectively ensure that the third party test strip manufacturer is made aware of any design changes to the meter is by having in place an agreement between the third party test strip manufacturer and the manufacturer.
+## IX. Software
+For software descriptions of BGMSs, their components, and accessories, we recommend that you follow FDA’s guidance entitled “Guidance for the Content of Premarket
+Submissions for Software Contained in Medical Devices,”16 Generally, we consider blood glucose meters to be moderate level of concern devices because glucose results will be the basis for treatment, including determination of insulin dosage by the patient or health care provider. Incorrect glucose results or failure of the software to detect an error could result in improper therapeutic management. (Also, see Section V, above, regarding software descriptions in your 510(k) submission).
 
----
+In addition, for any such changes, manufacturers should develop and implement appropriate cybersecurity controls to ensure device cybersecurity and maintain device functionality and safety. The following online resources may be helpful in developing and maintaining these cybersecurity controls: · FDA guidance “Content of Premarket Submissions for Management of Cybersecurity in Medical Devices;”17
+- FDA guidance “Postmarket Management of Cybersecurity in Medical Devices;”18
+- FDA Fact Sheet: The FDA’s Role in Medical Device Cybersecurity – Dispelling Myths and Understanding Facts.19
+### X. Labeling
 
-<!-- Page 31 -->
-Contains Nonbinding Recommendations 
-30
-This study should be performed using whole blood samples that span the claimed 
-measuring range of the BGMS. It is acceptable for samples to be spiked with a known 
-concentration of glucose or allowed to glycolyze to achieve the desired concentration in 
-order to evaluate the extreme ends of the system’s measuring range. Glucose 
-concentrations (e.g., 30-50, 100-150, 200-300, 350-500 mg/dL) should be measured with 
-the BGMS and compared to values obtained with the comparator method. 
-2. System Operating Conditions Testing 
-You should perform a study to assess the performance of your BGMS when used under 
-various operating temperature and humidity conditions. These studies should be designed 
-to represent actual use conditions experienced by BGMS users. Tested temperature and 
-humidity ranges should not only cover the operating ranges that adequately reflect the 
-intended use environment, and that are specified in the device labeling, but should also 
-stress the BGMS by including ranges outside of the claimed operating range. Testing 
-should incorporate the four extreme temperature and humidity combinations (high 
-temperature/low humidity; high temperature/high humidity; low temperature/low 
-humidity; low temperature/high humidity), or other testing combinations, if a suitable 
-rationale can be provided. Measurements made on whole blood samples with your 
-candidate device should be compared to values obtained using the candidate device at a 
-nominal condition (such as 23oC, 40% relative humidity). 
-We also encourage manufacturers to consider ways in which temperature and/or humidity 
-detectors might be incorporated into test strip containers to alert users when strips have 
-not been handled correctly or stored according to recommended and validated conditions. 
-3.  Altitude Effects 
-Relative to sea level, high altitude comprises a complex set of environmental differences 
-and can induce multiple physiological changes, any or all of which might interfere with 
-BGMS performance. For example, high altitude often involves extremes of temperature 
-and humidity and can result in changes to hematocrit and blood pressure. The intended 
-use environment of BGMSs in the United States includes high altitude conditions and, 
-therefore, manufacturers should conduct studies to assess the effects of altitude on their 
-BMGS, or should provide a justification for why altitude does not have an effect on the 
-performance of their BGMS. 
-An altitude effects study should compare results from whole blood samples with your 
-candidate device relative to values obtained using the candidate device at a nominal 
-condition (such as sea level).   These studies should also include a pressure change. 
-Studies based on oxygen tension instead of pressure change are not adequate, because 
-oxygen tension is only one component that changes with altitude. Altitude pressure 
-changes can be accomplished by physically increasing altitude (e.g., in an airplane, on a 
-mountain), or by simulating increasing altitudes and atmospheric conditions in a 
-pressurized chamber. Results should support the altitude labeling claim for your device. 
-You should provide your definition for terms such as “sea level.” The definition of sea 
-level should not extend above 500 feet. You should test your BGMS at a minimum of 
-10,000 feet above sea level.
-
----
-
-<!-- Page 32 -->
-Contains Nonbinding Recommendations 
-31
-4. Error Codes for Samples Outside the Measuring Range 
-You should perform adequate analyses to demonstrate that your meter provides the 
-appropriate error codes when measured glucose concentrations are outside of the 
-BGMS’s claimed measuring range, and include these results in your 510(k) submission. 
-5. Short Sample Detection 
-Blood glucose measurement from short samples (samples of reduced sample volume) can 
-lead to inaccurate results. To avoid the risk of inaccurate results, BGMSs should be able 
-to detect that a short blood sample that has been applied to the test strip and should not 
-provide a result to the user. Short sample detection systems should not rely on visual 
-verification by the user. 
-The volume that classifies a test sample as a short sample is dependent upon your BGMS. 
-In your short sample detection studies, you should include blood samples with known 
-glucose concentrations in the following three ranges: 50-65, 100-120, and 200-250 
-mg/dL. You should test blood samples with your candidate device at each of the glucose 
-concentrations listed above. Results obtained from the candidate device should be 
-compared to results using the candidate device at a nominal condition (such as the 
-claimed minimum sample volume). Blood samples with serially reduced volumes should 
-be measured on the device until an error is either generated by the BGMS or the test 
-result falls outside of the device’s stated performance range. In your 510(k) submission, 
-you should describe the results from the candidate device under both test and nominal 
-conditions, as well as include the sample volumes tested for each glucose concentration 
-range. 
-6. Sample Perturbation Study 
-Sample perturbation occurs when a user has applied an appropriate volume of blood to 
-the test strip for glucose measurement but an event, such as wicking of blood away from 
-the test strip, flicking of the test strip, or flicking of the meter, occurs during the start of 
-measurement and alters the volume of the initial sample application. You should 
-adequately demonstrate how your BGMS handles sample perturbation through a sample 
-perturbation study. 
-In a sample perturbation study, a sample should be applied to the test strip and after the 
-BGMS has begun to read the sample, but before the measurement is complete, the test 
-strip should be perturbed. The sample perturbation study should incorporate blood 
-samples with known glucose concentrations in the following three ranges: 50-65, 100-
-120, and 200-250 mg/dL. In your 510(k) submission, you should describe your protocol, 
-including your specific method of perturbing the test sample, as well as the candidate 
-device results compared to results using the candidate device under a nominal condition 
-(such as strips with no perturbation).  
-7. Intermittent Sampling 
-Intermittent sampling occurs when a short sample is applied to a test strip, a glucose 
-measurement begins, and the user adds more sample to the test strip before the glucose
-
----
-
-<!-- Page 33 -->
-Contains Nonbinding Recommendations 
-32
-measurement is complete. You should adequately demonstrate how your BGMS handles 
-intermittent sampling by conducting an intermittent sampling study. 
-The intermittent sampling study should incorporate blood samples with known glucose 
-concentrations in the following three ranges: 50-65, 100-120, and 200-250 mg/dL. You 
-should perform intermittent sampling studies that are representative of actual events. For 
-instance, approximately one half of the sample should be applied to the test strip prior to 
-the start of sample measurement, then the other half of the sample should be applied to 
-the strip after a set period of time, such as once the sample starts reading. For systems 
-that allow a second sample of blood without producing an error message, different time 
-delays throughout the claimed period of second application should be tested once the 
-sample starts reading, but before the measurement is complete. You should describe how 
-the device responds to this scenario, including whether a result is reported by the device, 
-whether the result is accurate (relative to the nominal condition, such as with the 
-minimum claimed sample volume), and when an error code is reported. 
-8. Testing with Used Test Strips 
-You should perform a study to demonstrate how your BGMS performs when a used test 
-strip is inserted. We recommend that BGMSs be designed to automatically recognize the 
-insertion of used test strips. Insertion of used test strips into a blood glucose meter should 
-not provide glucose measurement results to the user. If an automatic used test strip 
-recognition function has been incorporated into your BGMS, you should perform a study 
-to demonstrate the functionality of this recognition system. In your 510(k) submission, 
-you should provide the study protocol, acceptance criteria, and results of your used test 
-strip study. 
-F. Meter Calibration and Quality Control Material 
-Your 510(k) submission should describe how your BGMS recognizes and distinguishes 
-control materials from patient specimens, either automatically or manually by the user, as 
-well as explain how the system compensates for differences between test strip lots (e.g., 
-how the meter is calibrated or coded for each test strip lot). At least two levels of quality 
-control material should be available for use with your system. 
-VII. 
-Test Strip Lot Release Criteria 
-Your test strip lot release criteria should be sufficient to ensure consistent quality of the 
-BGMS test strips. You should provide a description of the lot release criteria and a summary 
-of the sampling scheme in your 510(k) submission. In addition, you should explain how the 
-system compensates for differences between strip lots or strip types. 
-We recommend that you select a sampling scheme appropriate for the operation of your 
-BGMS to test each outgoing test strip lot or batch. Your test strip lot release criteria should 
-be designed to ensure that all released lots conform to the labeled BGMS device performance 
-in the hands of the intended user. Therefore, these criteria typically should be tighter than the 
-criteria used to evaluate total error in the performance studies, in order to achieve targeted 
-performance in the intended user population.
-
----
-
-<!-- Page 34 -->
-Contains Nonbinding Recommendations 
-33
-VIII. Third Party Test Strips 
-Third party test strips refer to test strips manufactured and distributed by a company other 
-than the company that manufactures and distributes the BGMS. Third party test strip 
-manufacturers should ensure that they are aware of any design changes to the meter because 
-such changes could affect compatibility of the strip with the meter. Because test strips and 
-meters work as integral systems, third party test strip manufacturers should sufficiently 
-address in their 510(k) submissions how they will mitigate the risk of incorrect results due to 
-meter design changes. One way to effectively ensure that the third party test strip 
-manufacturer is made aware of any design changes to the meter is by having in place an 
-agreement between the third party test strip manufacturer and the manufacturer. 
-IX. 
-Software 
-For software descriptions of BGMSs, their components, and accessories, we recommend 
-that you follow FDA’s guidance entitled “Guidance for the Content of Premarket 
-Submissions for Software Contained in Medical Devices,”16 Generally, we consider blood 
-glucose meters to be moderate level of concern devices because glucose results will be the 
-basis for treatment, including determination of insulin dosage by the patient or health care 
-provider. Incorrect glucose results or failure of the software to detect an error could result 
-in improper therapeutic management. (Also, see Section V, above, regarding software 
-descriptions in your 510(k) submission). 
- 
-In addition, for any such changes, manufacturers should develop and implement 
-appropriate cybersecurity controls to ensure device cybersecurity and maintain device 
-functionality and safety. The following online resources may be helpful in developing and 
-maintaining these cybersecurity controls: 
-· FDA guidance “Content of Premarket Submissions for Management of 
-Cybersecurity in Medical Devices;”17
-· FDA guidance “Postmarket Management of Cybersecurity in Medical Devices;”18
-· FDA Fact Sheet: The FDA’s Role in Medical Device Cybersecurity – Dispelling 
-Myths and Understanding Facts.19
-X. 
-Labeling 
-                                                          
-16 Available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-content-
-premarket-submissions-software-contained-medical-devices. 
-17 Available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/content-premarket-
-submissions-management-cybersecurity-medical-devices-0. 
-18 Available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/postmarket-
-management-cybersecurity-medical-devices.  
-19 Available at https://www.fda.gov/media/123052/download.
-
----
-
-<!-- Page 35 -->
-Contains Nonbinding Recommendations 
-34
-The 510(k) submission must include labeling in sufficient detail to satisfy the requirements 
-of 21 CFR 807.87(e). Final labeling must also satisfy the requirements of 21 CFR 809.10. 
-Distinct labeling (e.g. user manual, quick start guide (optional), package inserts for both test 
-strips and controls, and box and container labels for the meter, test strips, and control 
-materials) appropriate for the intended user of the BGMS should be provided for each device 
-component. 
-The following items are intended to further assist you in complying with the requirements of 
-21 CFR 809.10 for all labeling. You should refer to that regulation for the complete list of 
-labeling requirements for in vitro diagnostic devices. 
-1. All device labels and labeling must contain the proprietary and common names of the 
-device (21 CFR 809.10(a)(1) and 21 CFR 809.10(b)(1)). The various test system 
-components should be named in such a way that they are recognizable as belonging to the 
-same system, or family of products, and to distinguish them from those components 
-intended for single-patient use only (for example, ABC blood glucose test system, ABC 
-blood glucose meter, ABC blood glucose test strips, etc.) to aid in identification of 
-system components. 
-2. You must include the intended use of the product in your label and labeling (21 CFR 
-809.10(a)(2) and 21 CFR809.10(b)(2)). 
-3. You must include the symbol statement “Rx only” or “℞ only” or the statement “Caution: 
-Federal law restricts this device to sale by or on the order of a ___”, the blank to be filled 
-with the word “physician”, “dentist”, “veterinarian”, or with the descriptive designation 
-of any other practitioner licensed by the law of the State in which the practitioner 
-practices to use or order the use of the device, in your label and labeling (21 CFR 
-809.10(a)(4) and 21 CFR 809.10(b)(5)(ii)). 
-4. Labeling must include the chemical, physical, physiological, or biological principles of 
-the procedure, as per 21 CFR 809.10 (b)(4). The discussion of these principles should 
-include identification and biological source of the enzyme and a description of the 
-reaction. Labeling should clarify whether results are determined in terms of whole blood 
-or plasma equivalents. BGMSs intended for use in the U.S. should report results in terms 
-of plasma equivalents. 
-5. The labeling must provide instructions for specimen collection and preparation, including 
-special precautions regarding specimen collection. as per 21 CFR 809.10(b)(7). 
-Instructions should include a statement to users on the importance of thoroughly washing 
-and drying the skin before taking a sample because contaminants on the skin may affect 
-results. 
-6. You must include a statement of limitations of the procedure in your labeling (21 CFR 
-809.10(b)(10)). Labeling must state known extrinsic factors or interfering substances 
-affecting results, as per 21 CFR 809.10(b)(10). This should include, but is not limited to, 
-the following:
-
----
-
-<!-- Page 36 -->
-Contains Nonbinding Recommendations 
-35
-a. Testing conditions that may cause clinically significant errors (due to bias or 
-imprecision) with your device (e.g., specific drugs, oxygen therapy, testing with 
-venous, arterial, or neonatal blood, high altitude, or EMC interference). Sponsors 
-should indicate the most extreme conditions (e.g., the highest altitude, highest and 
-lowest temperatures, etc.) at which the device should be used based on the results of 
-performance testing. 
-b. Clinical situations, patient populations, or conditions in which the BGMS 
-performance may not be acceptable. For example, FDA recommends statements 
-such as the following: inaccurate results may occur in severely hypotensive 
-individuals or in dehydrated patients or patients in shock; inaccurate results may 
-occur for individuals experiencing a hyperglycemic-hyperosmolar state, with or 
-without ketosis. 
-c. Limitations against alternative site testing and use for tight glycemic control (unless 
-appropriate studies are performed and included in the 510(k) submission). Labeling 
-should also state that results from alternative sampling sites (if used) should not be 
-used to calibrate continuous glucose monitoring systems (CGMS) or entered into 
-insulin dose calculators for dosage recommendations. 
-7. Labeling must provide appropriate storage instructions adequate to protect stability of the 
-product (21 CFR 809.10 (b)(5)(iv)). This type of information should be provided for all 
-components of the system, including control solutions, test strips, etc. 
-8. Labeling must describe details of calibration and quality control procedures (21 CFR 
-809.10(b)(8)(v) and 21 CFR 809.10(b)(8)(vi)). This is to help ensure optimal 
-performance of the system. 
-9. Labeling must include expected values (21 CFR 809.10(b)(11)). FDA recommends that 
-the expected values in the package insert should be those for non-diabetics. FDA does not 
-recommend including additional ranges adjusted for diabetics because such ranges are 
-individually determined by a clinician. The expected values should be cited from in-
-house studies or up-to-date reference sources. 
-10. Labeling must include specific performance characteristics (21 CFR 809.10(b)(12)). 
-Sponsors should briefly describe all studies and summarize results in the package inserts. 
-FDA recommends that this include performance data summaries from in-house and user 
-studies. For presentation of accuracy, in particular, see the suggested representations 
-below for an example. Performance should be presented separately for each anatomical 
-site, matrix (arterial, capillary, etc.), and any additional specific claims (e.g. neonatal). 
-We recommend the following types of presentations to show the results of your accuracy 
-studies in user manuals and package inserts. 
-Suggested Representation of Accuracy for Prescription-use Only Devices – Example: 
-The [XYZ] meter and [XYZ] reagent strips for the [XYZ] monitoring system were tested on 
-capillary blood samples from 350 patients, and the results were compared to the comparator 
-method (e.g., YSI). The tables show differences in glucose values between the XYZ device 
-and the comparator method. Table 8 below represents samples for glucose results lower than
-
----
-
-<!-- Page 37 -->
-Contains Nonbinding Recommendations 
-36
-70 mg/dL (by the XYZ device). Table 9 below table represents samples for glucose results 
-greater than or equal to 70 mg/dL. 
-Table 8. Glucose results lower than 75 mg/dL 
-Difference range between ABC laboratory 
-comparator method and the XYZ device 
-Within 
-+/- 5 
-mg/dL
-Within 
-+/- 10 
-mg/dL
-Within 
-+/- 12 
-mg/dL
-Within
-+/- 15 
-mg/dL
-The percent (and number) of samples for 
-which the difference between the XYZ 
-device and ABC laboratory comparator
-method were within the difference range 
-shown in the top row. 
-90% 
+The 510(k) submission must include labeling in sufficient detail to satisfy the requirements of 21 CFR 807.87(e). Final labeling must also satisfy the requirements of 21 CFR 809.10.
+Distinct labeling (e.g. user manual, quick start guide (optional), package inserts for both test strips and controls, and box and container labels for the meter, test strips, and control materials) appropriate for the intended user of the BGMS should be provided for each device component.
+The following items are intended to further assist you in complying with the requirements of 21 CFR 809.10 for all labeling. You should refer to that regulation for the complete list of labeling requirements for in vitro diagnostic devices.
+1. All device labels and labeling must contain the proprietary and common names of the
+device (21 CFR 809.10(a)(1) and 21 CFR 809.10(b)(1)). The various test system components should be named in such a way that they are recognizable as belonging to the same system, or family of products, and to distinguish them from those components intended for single-patient use only (for example, ABC blood glucose test system, ABC blood glucose meter, ABC blood glucose test strips, etc.) to aid in identification of system components.
+2. You must include the intended use of the product in your label and labeling (21 CFR
+809.10(a)(2) and 21 CFR809.10(b)(2)).
+3. You must include the symbol statement “Rx only” or “℞ only” or the statement “Caution:
+Federal law restricts this device to sale by or on the order of a ___”, the blank to be filled with the word “physician”, “dentist”, “veterinarian”, or with the descriptive designation of any other practitioner licensed by the law of the State in which the practitioner practices to use or order the use of the device, in your label and labeling (21 CFR 809.10(a)(4) and 21 CFR 809.10(b)(5)(ii)).
+4. Labeling must include the chemical, physical, physiological, or biological principles of
+the procedure, as per 21 CFR 809.10 (b)(4). The discussion of these principles should include identification and biological source of the enzyme and a description of the reaction. Labeling should clarify whether results are determined in terms of whole blood or plasma equivalents. BGMSs intended for use in the U.S. should report results in terms of plasma equivalents.
+5. The labeling must provide instructions for specimen collection and preparation, including
+special precautions regarding specimen collection. as per 21 CFR 809.10(b)(7).
+Instructions should include a statement to users on the importance of thoroughly washing and drying the skin before taking a sample because contaminants on the skin may affect results.
+6. You must include a statement of limitations of the procedure in your labeling (21 CFR
+809.10(b)(10)). Labeling must state known extrinsic factors or interfering substances affecting results, as per 21 CFR 809.10(b)(10). This should include, but is not limited to, the following: a. Testing conditions that may cause clinically significant errors (due to bias or imprecision) with your device (e.g., specific drugs, oxygen therapy, testing with venous, arterial, or neonatal blood, high altitude, or EMC interference). Sponsors should indicate the most extreme conditions (e.g., the highest altitude, highest and lowest temperatures, etc.) at which the device should be used based on the results of performance testing.
+b. Clinical situations, patient populations, or conditions in which the BGMS performance may not be acceptable. For example, FDA recommends statements such as the following: inaccurate results may occur in severely hypotensive individuals or in dehydrated patients or patients in shock; inaccurate results may occur for individuals experiencing a hyperglycemic-hyperosmolar state, with or without ketosis.
+c. Limitations against alternative site testing and use for tight glycemic control (unless appropriate studies are performed and included in the 510(k) submission). Labeling should also state that results from alternative sampling sites (if used) should not be used to calibrate continuous glucose monitoring systems (CGMS) or entered into insulin dose calculators for dosage recommendations.
+7. Labeling must provide appropriate storage instructions adequate to protect stability of the
+product (21 CFR 809.10 (b)(5)(iv)). This type of information should be provided for all components of the system, including control solutions, test strips, etc.
+8. Labeling must describe details of calibration and quality control procedures (21 CFR
+809.10(b)(8)(v) and 21 CFR 809.10(b)(8)(vi)). This is to help ensure optimal performance of the system.
+9. Labeling must include expected values (21 CFR 809.10(b)(11)). FDA recommends that
+the expected values in the package insert should be those for non-diabetics. FDA does not recommend including additional ranges adjusted for diabetics because such ranges are individually determined by a clinician. The expected values should be cited from in-house studies or up-to-date reference sources.
+10. Labeling must include specific performance characteristics (21 CFR 809.10(b)(12)).
+Sponsors should briefly describe all studies and summarize results in the package inserts.
+FDA recommends that this include performance data summaries from in-house and user studies. For presentation of accuracy, in particular, see the suggested representations below for an example. Performance should be presented separately for each anatomical site, matrix (arterial, capillary, etc.), and any additional specific claims (e.g. neonatal).
+We recommend the following types of presentations to show the results of your accuracy studies in user manuals and package inserts.
+Suggested Representation of Accuracy for Prescription-use Only Devices – Example:
+The [XYZ] meter and [XYZ] reagent strips for the [XYZ] monitoring system were tested on capillary blood samples from 350 patients, and the results were compared to the comparator method (e.g., YSI). The tables show differences in glucose values between the XYZ device and the comparator method. Table 8 below represents samples for glucose results lower than 70 mg/dL (by the XYZ device). Table 9 below table represents samples for glucose results greater than or equal to 70 mg/dL.
+Table 8. Glucose results lower than 75 mg/dL Difference range between ABC laboratory comparator method and the XYZ device Within +/- 5 mg/dL Within +/- 10 mg/dL Within +/- 12 mg/dL Within +/- 15 mg/dL
+The percent (and number) of samples for which the difference between the XYZ device and ABC laboratory comparator method were within the difference range shown in the top row.
+90%
 (126/140)
-95% 
+95%
 (133/140)
-96% 
+96%
 (135/140)
-98% 
+98%
 (137/140)
-Table 9. Glucose results greater than or equal to 75 mg/dL
-Difference range between ABC 
-laboratory comparator method and 
-the XYZ device.
-Within 
-+/- 5%
-Within 
-+/- 10%
-Within
-+/- 12%
-Within
-+/- 15%
-Within
-+/- 20%
-The percent (and number) of 
-samples for which the difference 
-between the XYZ device and ABC 
-laboratory method were within the 
-difference range shown in the top 
-row. 
-80% 
+Table 9. Glucose results greater than or equal to 75 mg/dL Difference range between ABC laboratory comparator method and the XYZ device.
+Within +/- 5%
+Within +/- 10%
+Within +/- 12%
+Within +/- 15%
+Within +/- 20%
+The percent (and number) of samples for which the difference between the XYZ device and ABC laboratory method were within the difference range shown in the top row.
+80%
 (168/210)
 95%
 (199/210)
@@ -1922,242 +457,93 @@ row.
 (206/210)
 100%
 (210/210)
-The tables above show that 347 (137+210) of the 350 samples met the defined acceptance 
-criteria.
-Note:  When glucose meter results are compared to the laboratory results, differences below 
-70 mg/dL are expressed in mg/dL, while those greater than or equal to 70 mg/dL are 
-expressed in percent.
-11. You must describe the principles of operation for the instrument as well as service and 
-maintenance information (21 CFR 809.10(b)(6)). Labeling should include a list or 
-summary of error messages, descriptions of what those error messages mean, and 
-appropriate troubleshooting procedures for those error messages. 
-12. Label and labeling must include statements of warning or precautions as appropriate to 
-the hazard presented by the product on the outer container and the insert (21 CFR 
-809.10(a)(4) and 21 CFR 809.10(b)(5)(ii)). 
-You should clearly and prominently state the important warnings for your devices, for 
-example, in a section titled Important Safety Instructions. You should stress the risk of 
-disease transmission when using BGMSs and reference any relevant public health 
-notifications, standard practice guidelines, or other resources available to users. At a 
-minimum, the following warnings should be included:
+The tables above show that 347 (137+210) of the 350 samples met the defined acceptance criteria.
+Note:  When glucose meter results are compared to the laboratory results, differences below 70 mg/dL are expressed in mg/dL, while those greater than or equal to 70 mg/dL are expressed in percent.
+11. You must describe the principles of operation for the instrument as well as service and
+maintenance information (21 CFR 809.10(b)(6)). Labeling should include a list or summary of error messages, descriptions of what those error messages mean, and appropriate troubleshooting procedures for those error messages.
+12. Label and labeling must include statements of warning or precautions as appropriate to
+the hazard presented by the product on the outer container and the insert (21 CFR 809.10(a)(4) and 21 CFR 809.10(b)(5)(ii)).
+You should clearly and prominently state the important warnings for your devices, for example, in a section titled Important Safety Instructions. You should stress the risk of disease transmission when using BGMSs and reference any relevant public health notifications, standard practice guidelines, or other resources available to users. At a minimum, the following warnings should be included: · Users need to adhere to Standard Precautions when handling or using this device.
+All parts of the glucose monitoring system should be considered potentially infectious and are capable of transmitting blood-borne pathogens between patients and healthcare professionals. For more information, refer to “2007 Guideline for
+Isolation Precautions: Preventing Transmission of Infectious Agents in Healthcare Settings.”20
+- The meter should be cleaned and disinfected following the manufacturer’s instructions after use on each patient. This Blood Glucose Monitoring System may only be used for testing multiple patients when Standard Precautions and the manufacturer’s cleaning and disinfection procedures are followed.
+- Only auto-disabling, single use lancing devices may be used with this device.
+In the section describing how to obtain a blood sample (see also item 4, above, regarding sample collection), you should re-iterate the risk of bloodborne pathogen transmission and state that only an auto-disabling, single use lancing device should be used. We recommend that you incorporate Standard Precautions and practices in your instructions. Include any graphics demonstrating correct blood draw procedures and ensure that the pictures show users wearing gloves.
+In addition, we recommend that you refer users to the following practice guidelines: “Biosafety in Microbiological and Biomedical Laboratories (BMBL).”21 CLSI (Clinical Laboratory Standards Institute) Document M29-A3: Protection of
+Laboratory Workers From Occupationally Acquired Infections.
+You should stress that the operator should remove their gloves, clean their hands, and wear a new pair of clean gloves before testing each patient.
+13. You must include a step-by-step outline of procedures (21 CFR 809.10(b)(8)). Labeling
+must list any points that may be useful in improving precision and accuracy, as per 21 CFR 809.10(b)(8).
+FDA recommends that the user manual should contain detailed instructions for how users are to perform cleaning and disinfection procedures for the meter between patients.
+This information should be based on the validation studies performed as described above in Section IV. You should also include the following: · An explanation of why the cleaning and disinfection should be performed.
+- The recommended frequency of cleaning and disinfection, i.e., between each patient.
 
----
-
-<!-- Page 38 -->
-Contains Nonbinding Recommendations 
-37
-· Users need to adhere to Standard Precautions when handling or using this device. 
-All parts of the glucose monitoring system should be considered potentially 
-infectious and are capable of transmitting blood-borne pathogens between patients 
-and healthcare professionals. For more information, refer to “2007 Guideline for 
-Isolation Precautions: Preventing Transmission of Infectious Agents in 
-Healthcare Settings.”20
-· The meter should be cleaned and disinfected following the manufacturer’s 
-instructions after use on each patient. This Blood Glucose Monitoring System 
-may only be used for testing multiple patients when Standard Precautions and the 
-manufacturer’s cleaning and disinfection procedures are followed. 
-· Only auto-disabling, single use lancing devices may be used with this device. 
-In the section describing how to obtain a blood sample (see also item 4, above, 
-regarding sample collection), you should re-iterate the risk of bloodborne pathogen 
-transmission and state that only an auto-disabling, single use lancing device should be 
-used. We recommend that you incorporate Standard Precautions and practices in your 
-instructions. Include any graphics demonstrating correct blood draw procedures and 
-ensure that the pictures show users wearing gloves. 
-In addition, we recommend that you refer users to the following practice guidelines: 
-“Biosafety in Microbiological and Biomedical Laboratories (BMBL).”21
-CLSI (Clinical Laboratory Standards Institute) Document M29-A3: Protection of 
-Laboratory Workers From Occupationally Acquired Infections. 
-You should stress that the operator should remove their gloves, clean their hands, and 
-wear a new pair of clean gloves before testing each patient. 
-13. You must include a step-by-step outline of procedures (21 CFR 809.10(b)(8)). Labeling 
-must list any points that may be useful in improving precision and accuracy, as per 21 
-CFR 809.10(b)(8). 
-FDA recommends that the user manual should contain detailed instructions for how users 
-are to perform cleaning and disinfection procedures for the meter between patients. 
-This information should be based on the validation studies performed as described above 
-in Section IV. You should also include the following: 
-· An explanation of why the cleaning and disinfection should be performed. 
-· The recommended frequency of cleaning and disinfection, i.e., between each 
-patient. 
-                                                          
-20 Available at http://www.cdc.gov/hicpac/2007ip/2007isolationprecautions.html. 
-21 Available at http://www.cdc.gov/biosafety/publications/bmbl5/.
-
----
-
-<!-- Page 39 -->
-Contains Nonbinding Recommendations 
-38
-· The materials needed for cleaning and disinfection and how they can be 
-purchased or prepared. 
-· A detailed procedure describing what parts of the device should be cleaned and 
-disinfected, what should not be cleaned and disinfected (avoided), the amount of 
-time the disinfectant should remain on the meter (contact time), etc. You should 
-include graphics/photographs to assist the user. Again, be sure that all graphics 
-show the user wearing gloves. 
-· A statement that, after cleaning and disinfection, users’ gloves should be 
-removed, hands cleaned, and a new pair of clean gloves worn before proceeding 
-to the next patient. 
-· A contact telephone number for technical assistance or questions should be 
-prominently listed in the cleaning and disinfection section. 
-We recommend you also include the references below: 
-“FDA Public Health Notification: Use of Fingerstick Devices on More than One Person 
+We recommend you also include the references below: “FDA Public Health Notification: Use of Fingerstick Devices on More than One Person
 Poses Risk for Transmitting Bloodborne Pathogens: Initial Communication.”22
 “Infection Prevention during Blood Glucose Monitoring and Insulin Administration.”23
-                                                          
-22 Available at https://wayback.archive-
-it.org/7993/20170111013014/http://www.fda.gov/MedicalDevices/Safety/AlertsandNotices/ucm224025.htm. 
-23 Available at http://www.cdc.gov/injectionsafety/blood-glucose-monitoring.html.
+
+## Appendix 1. Sources of Error to Consider for BGMSs
+Table 10 below lists sources of error associated with the design, production, and use of BGMSs. We do not intend for this to be a complete list. You should consider all sources of error based on your knowledge of your specific device. Documents such as CLSI EP-18A2
+(Risk Management Techniques to Identify and Control Laboratory Error Sources) and ISO 14971 (Medical devices – Application of risk management to medical devices)also provide lists of preanalytical, analytical, and post-analytical errors to consider.
+Table 10 – Examples of Sources of Error Category Source of error or failure Operator
+Failure to follow procedure correctly, for example: · Sample contamination · Incorrect specimen collection (e.g., poor lancing technique and incorrect volume)
+- Application of an insufficient amount of blood to the strip or incorrect application of blood to strip · Use of a sample from an alternate site not validated by the manufacturer · Application of the specimen to the strip more than once (for example, if the user believes not enough specimen was added the first time)
+- Incorrect insertion of strip into meter · Inaccurate timing · Use of contaminated, outdated, or damaged strips or reagents, including calibrators or quality control materials · Failure to understand or respond to meter output · Errors in meter maintenance or cleaning · Errors in calibration or failure to calibrate or otherwise adjust the meter or check performance with quality control materials, as directed by labeling · Incorrect saving or use of stored data · Improper storage or handling of the meter, calibrators, quality control materials, or test strips, or improper maintenance of the meter · Inadvertent changes of parameters (such as units of measurement)
+- Incorrect incorporation of results into overall treatment plan (prescription-use)
+- Use of strips not validated for use on the meter Reagent · Expired strips or reagents · Damaged or contaminated strips · Failure of strips, calibrators, or quality control materials to perform adequately · Incorrect manufacturing; product fails to conform with specifications · Incorrect dimensions of reagent strip · Interference with chemical reaction on strip (e.g., reducing substances)
+- Inadequate design of container for strips or other reagents; failure to prevent deterioration; failure of desiccant used to keep strips dry Environmental · DEVICE EFFECTS · Temperature · Humidity · Altitude; hyperbaric oxygen therapy conditions · Electromagnetic radiation · Visible light; sunlight ·
+- HUMAN FACTORS · Lighting, glare off meter surfaces · Distractions, visual and auditory · Stressful conditions · Limited manual dexterity Software · Confusing or obscure user prompts and feedback · Incorrect mathematical algorithm · Undetected or unrecognized signal errors · Timing failure · Incorrect storage of test results in memory, including matching result with correct patient or time of test · Other software failures Hardware · Electronic failure · Physical trauma or vibration · Damage to the device from incorrect strip dimensional tolerances (third party manufacturer)
+- Electrostatic discharge · Electromagnetic/radiofrequency interference · Battery reliability, lifetime, and replacement · Component(s) failure · Incorrect manufacture System · Physical trauma or vibration · Incorrect calibration/adjustment (between lots of strips)
+- Calibration failure, interference, instability, or use beyond the recommended period of stability · Labeling not geared to intended user · Meter or operation complexity not geared to intended user · Inadequate training Clinical · Interference from endogenous substances · Severe conditions (e.g., dehydration, hypoxia, hyperglycemichyperosmolar state, hypotension or shock, ketoacidosis)
+- Interference from other exogenous substances (e.g., maltose intravenous solutions)
+## Appendix 2. Special 510(k)s and BGMSs
+What is a special 510(k) and how does it apply to your blood glucose meter submission?
+A special 510(k) submission is an alternative to the traditional method of demonstrating substantial equivalence for certain modifications to a manufacturer’s own previously cleared device, the Agency believes that the rigorous design control procedure requirements outlined in the Quality System Regulation (QS reg) [See 21 CFR 820] produce highly reliable results that can form, in addition to the other 510(k) content requirements, a basis for the substantial equivalence determination.
+As such, under the special 510(k) option, a manufacturer who is intending to modify his/her own legally marketed device should perform and present the risk analysis and the necessary verification and validation activities, to demonstrate that the design outputs of the modified device meet the design input requirements. Once the manufacturer has ensured the satisfactory completion of this process, a "Special 510(k): Device Modification" may be submitted.
+Eligibility for a Special 510(k):
+To determine whether a modified BGMS device is eligible to be submitted as a special 510(k), you should consult the FDA guidance entitled “The New 510(k) Paradigm - Alternate
+Approaches to Demonstrating Substantial Equivalence in Premarket Notifications - Final Guidance.”24 Sponsors should also consult the document on FDA’s website “How to Prepare a Special 510(k).”25
+As noted above, to be eligible for a special 510(k), the manufacturer should be modifying their own legally marketed device. This usually means that the candidate device and predicate device are part of the same device design file. Similarities between the candidate and predicate devices alone do not necessarily mean that the candidate device is a modification of the predicate device.
+We recommend that you contact the Office of In Vitro Diagnostics and Radiological Health (OIR) to discuss any specific questions you have regarding your BGMS device’s eligibility to be submitted as a special 510(k).
 
 ---
 
-<!-- Page 40 -->
-Contains Nonbinding Recommendations 
-39
-Appendix 1. Sources of Error to Consider for BGMSs 
-Table 10 below lists sources of error associated with the design, production, and use of 
-BGMSs. We do not intend for this to be a complete list. You should consider all sources of 
-error based on your knowledge of your specific device. Documents such as CLSI EP-18A2 
-(Risk Management Techniques to Identify and Control Laboratory Error Sources) and ISO 
-14971 (Medical devices – Application of risk management to medical devices)also provide 
-lists of preanalytical, analytical, and post-analytical errors to consider. 
-Table 10 – Examples of Sources of Error 
-Category 
-Source of error or failure 
-Operator 
-Failure to follow procedure correctly, for example: 
-· Sample contamination 
-· Incorrect specimen collection (e.g., poor lancing technique and 
-incorrect volume) 
-· Application of an insufficient amount of blood to the strip or 
-incorrect application of blood to strip 
-· Use of a sample from an alternate site not validated by the 
-manufacturer 
-· Application of the specimen to the strip more than once (for 
-example, if the user believes not enough specimen was added the 
-first time) 
-· Incorrect insertion of strip into meter 
-· Inaccurate timing 
-· Use of contaminated, outdated, or damaged strips or reagents, 
-including calibrators or quality control materials 
-· Failure to understand or respond to meter output 
-· Errors in meter maintenance or cleaning 
-· Errors in calibration or failure to calibrate or otherwise adjust the 
-meter or check performance with quality control materials, as 
-directed by labeling 
-· Incorrect saving or use of stored data 
-· Improper storage or handling of the meter, calibrators, quality 
-control materials, or test strips, or improper maintenance of the 
-meter 
-· Inadvertent changes of parameters (such as units of measurement) 
-· Incorrect incorporation of results into overall treatment plan 
-(prescription-use) 
-· Use of strips not validated for use on the meter
+## Footnotes
 
----
+[^1]: Available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/self-monitoring- blood-glucose-test-systems-over-counter-use.
 
-<!-- Page 41 -->
-Contains Nonbinding Recommendations 
-40
-Reagent 
-· Expired strips or reagents 
-· Damaged or contaminated strips 
-· Failure of strips, calibrators, or quality control materials to perform 
-adequately 
-· Incorrect manufacturing; product fails to conform with specifications 
-· Incorrect dimensions of reagent strip 
-· Interference with chemical reaction on strip (e.g., reducing 
-substances) 
-· Inadequate design of container for strips or other reagents; failure to 
-prevent deterioration; failure of desiccant used to keep strips dry 
-Environmental 
-· DEVICE EFFECTS 
-· Temperature 
-· Humidity 
-· Altitude; hyperbaric oxygen therapy conditions 
-· Electromagnetic radiation 
-· Visible light; sunlight 
-·  
-· HUMAN FACTORS
-· Lighting, glare off meter surfaces
-· Distractions, visual and auditory
-· Stressful conditions
-· Limited manual dexterity
-Software
-· Confusing or obscure user prompts and feedback
-· Incorrect mathematical algorithm
-· Undetected or unrecognized signal errors
-· Timing failure
-· Incorrect storage of test results in memory, including matching result 
-with correct patient or time of test
-· Other software failures
-Hardware
-· Electronic failure
-· Physical trauma or vibration
-· Damage to the device from incorrect strip dimensional tolerances 
-(third party manufacturer) 
-· Electrostatic discharge
-· Electromagnetic/radiofrequency interference
-· Battery reliability, lifetime, and replacement
-· Component(s) failure 
-·
-Incorrect manufacture
+[^2]: Available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfStandards/search.cfm. “Appropriate Use of Voluntary Consensus Standards in Premarket Submissions for Medical
 
----
+[^3]: Available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/appropriate-use- voluntary-consensus-standards-premarket-submissions-medical-devices
 
-<!-- Page 42 -->
-Contains Nonbinding Recommendations 
-41
-System 
-· Physical trauma or vibration 
-· Incorrect calibration/adjustment (between lots of strips) 
-· Calibration failure, interference, instability, or use beyond the 
-recommended period of stability 
-· Labeling not geared to intended user 
-· Meter or operation complexity not geared to intended user 
-· Inadequate training 
-Clinical 
-· Interference from endogenous substances 
-· Severe conditions (e.g., dehydration, hypoxia, hyperglycemic-
-hyperosmolar state, hypotension or shock, ketoacidosis) 
-· Interference from other exogenous substances (e.g., maltose 
-intravenous solutions)
+[^4]: See information at http://www.cdc.gov/injectionsafety/blood-glucose-monitoring.html.
 
----
+[^11]: Available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/reprocessing- medical-devices-health-care-settings-validation-methods-and-labeling.
 
-<!-- Page 43 -->
-Contains Nonbinding Recommendations 
-42
-Appendix 2. Special 510(k)s and BGMSs 
-What is a special 510(k) and how does it apply to your blood glucose meter submission? 
-A special 510(k) submission is an alternative to the traditional method of demonstrating 
-substantial equivalence for certain modifications to a manufacturer’s own previously cleared 
-device, the Agency believes that the rigorous design control procedure requirements outlined 
-in the Quality System Regulation (QS reg) [See 21 CFR 820] produce highly reliable results 
-that can form, in addition to the other 510(k) content requirements, a basis for the substantial 
-equivalence determination. 
-As such, under the special 510(k) option, a manufacturer who is intending to modify his/her 
-own legally marketed device should perform and present the risk analysis and the necessary 
-verification and validation activities, to demonstrate that the design outputs of the modified 
-device meet the design input requirements. Once the manufacturer has ensured the 
-satisfactory completion of this process, a "Special 510(k): Device Modification" may be 
-submitted. 
-Eligibility for a Special 510(k): 
-To determine whether a modified BGMS device is eligible to be submitted as a special 
-510(k), you should consult the FDA guidance entitled “The New 510(k) Paradigm - Alternate 
-Approaches to Demonstrating Substantial Equivalence in Premarket Notifications - Final 
-Guidance.”24 Sponsors should also consult the document on FDA’s website “How to Prepare 
-a Special 510(k).”25
-As noted above, to be eligible for a special 510(k), the manufacturer should be modifying 
-their own legally marketed device. This usually means that the candidate device and 
-predicate device are part of the same device design file. Similarities between the candidate 
-and predicate devices alone do not necessarily mean that the candidate device is a 
-modification of the predicate device. 
-We recommend that you contact the Office of In Vitro Diagnostics and Radiological Health 
-(OIR) to discuss any specific questions you have regarding your BGMS device’s eligibility 
-to be submitted as a special 510(k). 
-                                                          
-24 Available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/new-510k-
-paradigm-alternate-approaches-demonstrating-substantial-equivalence-premarket-notifications. 
-25 Available at https://www.fda.gov/medical-devices/premarket-notification-510k/how-prepare-special-510k.
+[^12]: Available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/requests-feedback-and- meetings-medical-device-submissions-q-submission-program
+
+[^14]: For example, users should be untrained, and the studies should be performed in intended use settings in the midst of normal working conditions.  Please note that we intend to accept 350 patient samples for each sample type for the purposes of CLIA waiver studies for these devices.  Guidance is available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/recommendations-clinical- laboratory-improvement-amendments-1988-clia-waiver-applications. vulnerable to potential interferences and/or health risks resulting from meter inaccuracy, you should identify and include patients from these specific vulnerable sub-populations in your study. You should define these sub-populations and provide a rationale for your definitions. For example, vulnerable sub-populations could be defined as patients in specific hospital wards, units, or departments, medical, neonatal, pediatric or surgical intensive care units (ICUs). Vulnerable subpopulations could, for example, also be defined as categories of patients with general types of medical conditions—cardiac, surgical, pulmonary, or oncology patients. These sub-populations are provided as an example of common patient groups found in a hospital setting, however, if you would like to discuss other sub-populations or other aspects of your study with the Agency, we recommend that you submit a request for a Pre-Submission meeting prior to conducting your testing. For information about the pre-submission process, see FDA’s guidance entitled “Requests for Feedback on Medical Device Submissions: The Pre-Submission
+
+[^15]: Available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/requests-feedback- and-meetings-medical-device-submissions-q-submission-program. should be used in these studies. You should incorporate your labeling instructions for cleaning and disinfection in your user study protocol to ensure that the meters are appropriately cleaned and disinfected during the course of this study, and include any additional measures necessary to mitigate the risk of potentially transmitting disease between healthcare providers and subjects during the study (for example, use of disposable gloves or other physical barriers). The study protocol should also include details on how often and when gloves worn by the trained health professionals should be changed between subjects. Meters should be cleaned and disinfected after each subject, using validated procedures for all studies performed. Refer to Section IV, above (Reducing the Risk of Bloodborne Pathogen Transmission) for additional information regarding the validation of cleaning and disinfecting of BGMSs. BGMS test results are used by healthcare professionals to make critical decisions about treatment; therefore, it is important that the results are accurate so that medical decision errors are better avoided. In order to demonstrate that a BGMS is sufficiently accurate for use by health care professionals, you should demonstrate that 95% of all values are within +/- 12% of the comparator method for glucose concentrations > 75 mg/dL and within +/- 12 mg/dL at glucose concentrations &lt; 75 mg/dL. In addition, 98% of values should be within +/- 15% of the comparator method for glucose concentrations >75 mg/dL and within +/- 15 mg/dL at glucose concentrations &lt; 75 mg/dL. The BGMS should be as accurate as possible to avoid critical patient management errors. Though we expect that BGMSs will be able to meet these criteria, there may be instances where meters may be determined to be substantially equivalent when performance does not meet these criteria because, for example, other features of the meter or its setting of use provide benefits that compensate for different performance. In instances where your BGMS is unable to meet these criteria, you should provide a clinical justification for all test results, including those that exceed the above-mentioned criteria, and describe why the potential for that error would not affect patient safety when extrapolated to the intended use setting (e.g., when extrapolated to the volume of testing performed in the intended use setting). FDA will review your justification to determine whether the data suggest that patients may be put at risk or whether your justification and any proposed mitigations are adequate.
+
+[^16]: Available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-content- premarket-submissions-software-contained-medical-devices.
+
+[^17]: Available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/content-premarket- submissions-management-cybersecurity-medical-devices-0.
+
+[^18]: Available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/postmarket- management-cybersecurity-medical-devices.
+
+[^19]: Available at https://www.fda.gov/media/123052/download.
+
+[^20]: Available at http://www.cdc.gov/hicpac/2007ip/2007isolationprecautions.html.
+
+[^21]: Available at http://www.cdc.gov/biosafety/publications/bmbl5/. · The materials needed for cleaning and disinfection and how they can be purchased or prepared. · A detailed procedure describing what parts of the device should be cleaned and disinfected, what should not be cleaned and disinfected (avoided), the amount of time the disinfectant should remain on the meter (contact time), etc. You should include graphics/photographs to assist the user. Again, be sure that all graphics show the user wearing gloves. · A statement that, after cleaning and disinfection, users’ gloves should be removed, hands cleaned, and a new pair of clean gloves worn before proceeding to the next patient. · A contact telephone number for technical assistance or questions should be prominently listed in the cleaning and disinfection section.
+
+[^22]: Available at https://wayback.archive- it.org/7993/20170111013014/http://www.fda.gov/MedicalDevices/Safety/AlertsandNotices/ucm224025.htm.
+
+[^23]: Available at http://www.cdc.gov/injectionsafety/blood-glucose-monitoring.html.
+
+[^24]: Available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/new-510k- paradigm-alternate-approaches-demonstrating-substantial-equivalence-premarket-notifications.
+
+[^25]: Available at https://www.fda.gov/medical-devices/premarket-notification-510k/how-prepare-special-510k.
 
 <!-- fulltext-end -->

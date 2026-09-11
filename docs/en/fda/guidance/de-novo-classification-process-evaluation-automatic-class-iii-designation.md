@@ -25,591 +25,133 @@ PDF: [https://www.fda.gov/media/72674/download](https://www.fda.gov/media/72674/
 
 ## Official Full Text
 
-<!-- Page 1 -->
-Contains Nonbinding Recommendations
-De Novo Classification Process 
-(Evaluation of Automatic Class III 
-Designation)
-Guidance for Industry and Food and 
-Drug Administration Staff
-Document issued on October 5, 2021.
-Document originally issued on October 30, 2017.
-For questions about this document regarding CDRH-regulated devices, contact the Division 
-of Industry and Consumer Education (DICE) at 1-800-638-2041, 301-796-7100, or 
-DICE@fda.hhs.gov.
-For questions about this document regarding CBER-regulated devices, contact the Office of 
-Communication, Outreach, and Development (OCOD) at 1-800-835-4709 or 240-402-8010, or 
-by email at ocod@fda.hhs.gov.
-  
-U.S. Department of Health and Human Services
-Food and Drug Administration
-Center for Devices and Radiological Health
-Center for Biologics Evaluation and Research
-OMB Control No. 0910-0844
-Current expiration date available at https://www.reginfo.gov.
-See additional PRA statement in Section V of this guidance.
-
----
-
-<!-- Page 2 -->
-Contains Nonbinding Recommendations
-Preface
-Public Comment
-You may submit electronic comments and suggestions at any time for Agency consideration to 
-https://www.regulations.gov. Submit written comments to the Dockets Management Staff, Food 
-and Drug Administration, 5630 Fishers Lane, Room 1061, (HFA-305), Rockville, MD 20852. 
-Identify all comments with the docket number FDA-2011-D-0689. Comments may not be acted 
-upon by the Agency until the document is next revised or updated.
-Additional Copies
-CDRH
-Additional copies are available from the Internet. You may also send an email request to CDRH-
-Guidance@fda.hhs.gov to receive a copy of the guidance. Please include the document number 
-1760 and complete title of the guidance in the request.
-CBER
-Additional copies are available from the Center for Biologics Evaluation and Research (CBER), 
-Office of Communication, Outreach, and Development (OCOD), 10903 New Hampshire Ave., 
-WO71, Room 3128, Silver Spring, MD 20903, or by calling 1-800-835-4709 or 240-402-8010, 
-by email, ocod@fda.hhs.gov, or from the Internet at 
-https://www.fda.gov/vaccines-blood-biologics/guidance-compliance-regulatory-
-information-biologics/biologics-guidances.
-
----
-
-<!-- Page 3 -->
-Contains Nonbinding Recommendations
-3
-Table of Contents
-I. 
-Introduction ........................................................................................................................... 4
-II. Background ........................................................................................................................... 4
-III. 
-The De Novo Classification Process ................................................................................. 6
-A. 
-When the De Novo Classification Process May and May Not Be Used ..................... 6
-B. 
-Submitting a Pre-Submission for a De Novo Request ................................................ 7
-C. 
-Submitting a De Novo Request for FDA Review ......................................................... 9
-D. 
-Address for De Novo Requests .................................................................................... 10
-IV. 
-FDA Review Process for De Novo Requests .................................................................. 10
-A. 
-510(k) Followed by De Novo Request ......................................................................... 10
-B. 
-De Novo Request – Acceptance Review...................................................................... 10
-C. 
-De Novo Request – Substantive Review ..................................................................... 11
-V. 
-Paperwork Reduction Act of 1995..................................................................................... 13
-Attachment 1 ............................................................................................................................... 14
-
----
-
-<!-- Page 4 -->
-Contains Nonbinding Recommendations
-4
-De Novo Classification Process 
-(Evaluation of Automatic Class III 
-Designation)
-Guidance for Industry and 
-Food and Drug Administration Staff
-This guidance represents the current thinking of the Food and Drug Administration (FDA or 
-Agency) on this topic.  It does not establish any rights for any person and is not binding on 
-FDA or the public.  You can use an alternative approach if it satisfies the requirements of the 
-applicable statutes and regulations.  To discuss an alternative approach, contact the FDA staff 
-or Office responsible for this guidance as listed on the title page. 
-I. 
-Introduction
-The purpose of this document is to provide guidance on the process for the submission and 
-review of a De Novo classification request (hereafter a “De Novo request”) under section 
-513(f)(2) of the Federal Food, Drug, and Cosmetic Act (the FD&C Act), also known as the De 
-Novo classification process.  This process provides a pathway to class I or class II classification 
-for medical devices for which general controls or general and special controls provide a 
-reasonable assurance of safety and effectiveness, but for which there is no legally marketed 
-predicate device.  
-Throughout this guidance document, the terms “we,” “us” and “our” refer to FDA staff from the 
-Center for Devices and Radiological Health (CDRH) or the Center for Biologics Evaluation and 
-Research (CBER) involved in the review and decision-making aspects of the De Novo 
-classification process.  “You” and “your” refers to the submitter of a De Novo request and/or 
-related materials. 
-The contents of this document do not have the force and effect of law and are not meant to bind 
-the public in any way, unless specifically incorporated into a contract. This document is intended 
-only to provide clarity to the public regarding existing requirements under the law. FDA 
-guidance documents, including this guidance, should be viewed only as recommendations, unless 
-specific regulatory or statutory requirements are cited.  The use of the word should in Agency 
-guidance means that something is suggested or recommended, but not required.
-II. Background
-
----
-
-<!-- Page 5 -->
-Contains Nonbinding Recommendations
-5
-A device may be classified in class III and be subject to premarket approval (PMA) via several 
-different regulatory vehicles.  In accordance with the criteria at section 513(a)(1)(C) of the 
-FD&C Act, FDA may promulgate a regulation classifying, or issue an order reclassifying,1 a 
-device type into class III based on the risks posed by the device and the inability of general and 
-special controls to provide reasonable assurance of the safety and effectiveness of the device.  
-All particular devices of such a type are considered to be in class III and such devices are not 
-eligible for the De Novo classification process.
-Alternatively, devices of a new type that FDA has not previously classified based on the criteria 
-at section 513(a)(1) of the FD&C Act are “automatically” or “statutorily” classified into class III 
-by operation of section 513(f)(1) of the FD&C Act, regardless of the level of risk they pose or 
-the ability of general and special controls to assure safety and effectiveness.  This is because, by 
-definition, a new type of device would not be within a type that was on the market before the 
-1976 Medical Device Amendments or that has since been classified into class I or class II.  Thus, 
-there would be no available predicate device.
-This second scenario is what Congress targeted when it enacted section 513(f)(2) of the FD&C 
-Act as part of the Food and Drug Administration Modernization Act of 1997 (FDAMA).  The 
-process created by this provision, which was referred to in FDAMA as the Evaluation of 
-Automatic Class III Designation, will be referred to as the “De Novo classification process”2
-throughout this guidance document.  Congress included this section to limit unnecessary 
-expenditure of FDA and industry resources that could occur if devices for which general controls 
-or general and special controls provide a reasonable assurance of safety and effectiveness were 
-subject to premarket approval under section 515 of the FD&C Act.  Section 513(f)(2) of the 
-FD&C Act has allowed manufacturers to submit a De Novo request to FDA for devices 
-“automatically” classified into Class III by operation of section 513(f)(1).  As enacted by 
-FDAMA, in order to submit a De Novo request, a device first had to be found not substantially 
-equivalent (NSE) to legally-marketed predicate devices through a premarket notification 
-(510(k)).  The 21st Century Cures Act3 removed a requirement that a De Novo request be 
-submitted within 30 days of receiving an NSE determination.4
-Section 513(f)(2) was modified by section 607 of FDASIA, which created an alternative 
-mechanism for submitting a De Novo request that does not require that a device be reviewed first 
-under a 510(k) and found NSE prior to submission of a De Novo request.  If a person believes 
-their device is appropriate for classification into Class I or Class II and determines, based on 
-1 Prior to the Food and Drug Administration Safety and Innovation Act (FDASIA) enacted in 2012, FDA 
-reclassified devices under section 513(e) of the FD&C Act through rulemaking; FDASIA changed this to an order 
-process.  
-2 The process has been termed “De Novo” because it requires the agency to evaluate novel devices anew, in 
-accordance with the criteria at section 513(a)(1) of the FD&C Act.
-3 On December 13, 2016, as part of the 21st Century Cures Act (Pub. L. 114-255), Congress revised § 513(f)(2)(i) of 
-the FD&C Act.
-4 For more information regarding demonstration of substantial equivalence, please see the FDA guidance document 
-entitled “The 510(k) Program: Evaluating Substantial Equivalence in Premarket Notifications [510(k)]”, available at 
-https://www.fda.gov/downloads/medicaldevices/deviceregulationandguidance/guidancedocuments/UCM284443.pdf
-.
-
----
-
-<!-- Page 6 -->
-Contains Nonbinding Recommendations
-6
-currently available information, there is no legally marketed predicate device, they may submit a 
-De Novo request without a preceding 510(k) and NSE (hereafter “Direct De Novo”).    
-On October 5, 2021, FDA issued a final rule on the De Novo Classification Process.5 This final 
-rule will add new regulations at 21 CFR Part 860, Subpart D--De Novo Classification that 
-describe the procedures and criteria FDA will use in assessing whether a request for an 
-evaluation of automatic class III designation (De Novo classification request or De Novo 
-request) contains the information necessary to permit a substantive review.  FDA is updating this 
-guidance to reflect the De Novo final rule. This guidance provides recommendations for 
-interactions with FDA related to the De Novo classification process, including what information 
-to submit when seeking a path to market via the De Novo classification process.  This guidance 
-replaces “New Section 513(f)(2) – Evaluation of Automatic Class III Designation, Guidance for 
-Industry and CDRH Staff,” dated February 19, 1998.  
-III. The De Novo Classification Process
-In accordance with section 513(f)(2) of the FD&C Act, you may submit a De Novo request for 
-FDA to make a classification determination for the device according to the criteria at section 
-513(a)(1) of the FD&C Act.  The De Novo request must include a description of the device and 
-detailed information and reasons for any recommended classification (see section 
-513(f)(2)(A)(v) of the FD&C Act and 21 CFR 860.220).  FDA must make a classification 
-determination for the device that is the subject of the De Novo request by written order within 
-120 days of receipt of the request (see section 513(f)(2)(A)(iii) of the FD&C Act and 21 CFR 
-860.240).
-If the requester demonstrates that the criteria at section 513(a)(1)(A) or (B) of the FD&C Act are 
-met, we will grant the De Novo request, in which case the specific device and device type is 
-classified in class I or class II.  The granting of the De Novo request allows the device to be 
-marketed immediately, creates a classification regulation for devices of this type, and permits the 
-device to serve as a predicate device.  We will publish a notice in the Federal Register 
-announcing the classification and the controls necessary to provide reasonable assurance of 
-safety and effectiveness.  Note that the classification, including any special controls, is effective 
-on the date the order letter is issued granting the De Novo request. If the De Novo request is 
-declined, the device remains in class III and may not be marketed, unless the device is found 
-substantially equivalent to an existing legally marketed class I, class II, or preamendments 
-device, the device is reclassified under section 513(f)(3) of the FD&C Act, a PMA is approved, 
-or a new De Novo request is granted. 
-A. 
-When the De Novo Classification Process May and May 
-Not Be Used
-FDA will review De Novo requests for devices that are not within a device type that has been 
-classified under the criteria at section 513(a)(1) of the FD&C Act (21 CFR 860.200).  This 
-includes devices that do not fall within any existing classification regulation, where the De Novo
-5 “Medical Device De Novo Classification Process” (86 FR 54826) available at 
-https://www.federalregister.gov/d/2021-21677
-
----
-
-<!-- Page 7 -->
-Contains Nonbinding Recommendations
-7
-requester either determines that there is no predicate device (21 CFR 860.200(b)(2)) or has 
-received an NSE determination on a 510(k) submission (21 CFR 860.200(b)(1)). If the device is 
-of a type for which there is an existing classification regulation or one or more approved PMAs, 
-the appropriate mechanism for classification into class I or II would be reclassification under 
-section 513(e) or section 513(f)(3) of the FD&C Act.6
-For devices that have already undergone 510(k) review, FDA will consider a De Novo request if 
-the device has been determined to be NSE due to: (1) the lack of an identifiable predicate device, 
-(2) a new intended use, or (3) different technological characteristics that raise different questions 
-of safety and effectiveness.  Devices that have been found to be NSE due solely to performance 
-data that is inadequate to demonstrate substantial equivalence (SE) would generally be ineligible 
-for the De Novo classification process.7
-In considering whether to submit a De Novo request, the device should appear, based on what is 
-known about the device, to meet the statutory standards for classification into class I or class II 
-under section 513(a)(1) of the FD&C Act, i.e., general controls or general and special controls 
-would provide reasonable assurance of the safety and effectiveness of the device (see 21 CFR 
-860.200(a)). Furthermore, you should sufficiently understand and be able to explain all of the 
-probable risks to health associated with use of the device that are known or should reasonably be 
-known to you and the proposed mitigations, including general controls and, if applicable, special 
-controls for each risk8 (21 CFR 860.220(a)(9)).  
-B. 
-Submitting a Pre-Submission for a De Novo Request
-A Pre-Submission (Pre-Sub) is not required in order to obtain FDA review of a De Novo request, 
-but it is a useful way for requesters to obtain early feedback from FDA and is therefore strongly 
-recommended prior to the submission of a De Novo request, especially for devices we have not 
-previously reviewed under a 510(k).  A Pre-Sub allows FDA to provide feedback on whether a 
-device may be eligible for the De Novo classification process, including whether a potential 
-predicate device exists, and/or to advise you on the documentation needed in a subsequent De 
-Novo request.  The primary advantage of a Pre-Sub is that it provides an opportunity to obtain 
-our preliminary perspective on the likely regulatory controls necessary to provide a reasonable 
-assurance of safety and effectiveness, as well as feedback on the evidence, including non-clinical 
-and/or clinical data, that will likely be necessary to support the De Novo request.  By obtaining 
-this feedback, you can optimize your resources in collecting the safety and effectiveness 
-6 See the Agency’s Reclassification web page at:  
-https://www.fda.gov/AboutFDA/CentersOffices/OfficeofMedicalProductsandTobacco/CDRH/CDRHTransparency/
-ucm378724.htm. 
-7 For more information regarding demonstration of substantial equivalence, please see “The 510(k) Program: 
-Evaluating Substantial Equivalence in Premarket Notifications [510(k)]” (https://www.fda.gov/regulatory-
-information/search-fda-guidance-documents/510k-program-evaluating-substantial-equivalence-premarket-
-notifications-510k).
-8 For more information on benefit-risk determinations, please see “Factors to Consider When Making Benefit-Risk 
-Determinations in Medical Device Premarket Approvals and De Novo Classification” 
-(https://www.fda.gov/regulatory-information/search-fda-guidance-documents/factors-consider-when-making-
-benefit-risk-determinations-medical-device-premarket-approval-and-de).
-
----
-
-<!-- Page 8 -->
-Contains Nonbinding Recommendations
-8
-evidence needed to support a De Novo request, without performing additional unnecessary tests.  
+This guidance represents the current thinking of the Food and Drug Administration (FDA or Agency) on this topic.  It does not establish any rights for any person and is not binding on
+FDA or the public.  You can use an alternative approach if it satisfies the requirements of the applicable statutes and regulations.  To discuss an alternative approach, contact the FDA staff or Office responsible for this guidance as listed on the title page.
+## I. Introduction
+The purpose of this document is to provide guidance on the process for the submission and review of a De Novo classification request (hereafter a “De Novo request”) under section 513(f)(2) of the Federal Food, Drug, and Cosmetic Act (the FD&C Act), also known as the De
+Novo classification process.  This process provides a pathway to class I or class II classification for medical devices for which general controls or general and special controls provide a reasonable assurance of safety and effectiveness, but for which there is no legally marketed predicate device.
+Throughout this guidance document, the terms “we,” “us” and “our” refer to FDA staff from the
+Center for Devices and Radiological Health (CDRH) or the Center for Biologics Evaluation and
+Research (CBER) involved in the review and decision-making aspects of the De Novo classification process.  “You” and “your” refers to the submitter of a De Novo request and/or related materials.
+The contents of this document do not have the force and effect of law and are not meant to bind the public in any way, unless specifically incorporated into a contract. This document is intended only to provide clarity to the public regarding existing requirements under the law. FDA guidance documents, including this guidance, should be viewed only as recommendations, unless specific regulatory or statutory requirements are cited.  The use of the word should in Agency guidance means that something is suggested or recommended, but not required.
+## II. Background
+A device may be classified in class III and be subject to premarket approval (PMA) via several different regulatory vehicles.  In accordance with the criteria at section 513(a)(1)(C) of the FD&C Act, FDA may promulgate a regulation classifying, or issue an order reclassifying,1 a device type into class III based on the risks posed by the device and the inability of general and special controls to provide reasonable assurance of the safety and effectiveness of the device.
+All particular devices of such a type are considered to be in class III and such devices are not eligible for the De Novo classification process.
+Alternatively, devices of a new type that FDA has not previously classified based on the criteria at section 513(a)(1) of the FD&C Act are “automatically” or “statutorily” classified into class III by operation of section 513(f)(1) of the FD&C Act, regardless of the level of risk they pose or the ability of general and special controls to assure safety and effectiveness.  This is because, by definition, a new type of device would not be within a type that was on the market before the 1976 Medical Device Amendments or that has since been classified into class I or class II.  Thus, there would be no available predicate device.
+This second scenario is what Congress targeted when it enacted section 513(f)(2) of the FD&C
+Act as part of the Food and Drug Administration Modernization Act of 1997 (FDAMA).  The process created by this provision, which was referred to in FDAMA as the Evaluation of
+Automatic Class III Designation, will be referred to as the “De Novo classification process”2 throughout this guidance document.  Congress included this section to limit unnecessary expenditure of FDA and industry resources that could occur if devices for which general controls or general and special controls provide a reasonable assurance of safety and effectiveness were subject to premarket approval under section 515 of the FD&C Act.  Section 513(f)(2) of the FD&C Act has allowed manufacturers to submit a De Novo request to FDA for devices “automatically” classified into Class III by operation of section 513(f)(1).  As enacted by FDAMA, in order to submit a De Novo request, a device first had to be found not substantially equivalent (NSE) to legally-marketed predicate devices through a premarket notification (510(k)).  The 21st Century Cures Act3 removed a requirement that a De Novo request be submitted within 30 days of receiving an NSE determination.4
+Section 513(f)(2) was modified by section 607 of FDASIA, which created an alternative mechanism for submitting a De Novo request that does not require that a device be reviewed first under a 510(k) and found NSE prior to submission of a De Novo request.  If a person believes their device is appropriate for classification into Class I or Class II and determines, based on 1 Prior to the Food and Drug Administration Safety and Innovation Act (FDASIA) enacted in 2012, FDA reclassified devices under section 513(e) of the FD&C Act through rulemaking; FDASIA changed this to an order process.
+2 The process has been termed “De Novo” because it requires the agency to evaluate novel devices anew, in accordance with the criteria at section 513(a)(1) of the FD&C Act.
+3 On December 13, 2016, as part of the 21st Century Cures Act (Pub. L. 114-255), Congress revised § 513(f)(2)(i) of the FD&C Act.
+De Novo request without a preceding 510(k) and NSE (hereafter “Direct De Novo”).
+On October 5, 2021, FDA issued a final rule on the De Novo Classification Process.5 This final rule will add new regulations at 21 CFR Part 860, Subpart D--De Novo Classification that describe the procedures and criteria FDA will use in assessing whether a request for an evaluation of automatic class III designation (De Novo classification request or De Novo request) contains the information necessary to permit a substantive review.  FDA is updating this guidance to reflect the De Novo final rule. This guidance provides recommendations for interactions with FDA related to the De Novo classification process, including what information to submit when seeking a path to market via the De Novo classification process.  This guidance replaces “New Section 513(f)(2) – Evaluation of Automatic Class III Designation, Guidance for Industry and CDRH Staff,” dated February 19, 1998.
+## III. The De Novo Classification Process
+In accordance with section 513(f)(2) of the FD&C Act, you may submit a De Novo request for
+FDA to make a classification determination for the device according to the criteria at section 513(a)(1) of the FD&C Act.  The De Novo request must include a description of the device and detailed information and reasons for any recommended classification (see section 513(f)(2)(A)(v) of the FD&C Act and 21 CFR 860.220).  FDA must make a classification determination for the device that is the subject of the De Novo request by written order within 120 days of receipt of the request (see section 513(f)(2)(A)(iii) of the FD&C Act and 21 CFR 860.240).
+If the requester demonstrates that the criteria at section 513(a)(1)(A) or (B) of the FD&C Act are met, we will grant the De Novo request, in which case the specific device and device type is classified in class I or class II.  The granting of the De Novo request allows the device to be marketed immediately, creates a classification regulation for devices of this type, and permits the device to serve as a predicate device.  We will publish a notice in the Federal Register announcing the classification and the controls necessary to provide reasonable assurance of safety and effectiveness.  Note that the classification, including any special controls, is effective on the date the order letter is issued granting the De Novo request. If the De Novo request is declined, the device remains in class III and may not be marketed, unless the device is found substantially equivalent to an existing legally marketed class I, class II, or preamendments device, the device is reclassified under section 513(f)(3) of the FD&C Act, a PMA is approved, or a new De Novo request is granted.
+### A. When the De Novo Classification Process May and May Not Be Used
+FDA will review De Novo requests for devices that are not within a device type that has been classified under the criteria at section 513(a)(1) of the FD&C Act (21 CFR 860.200).  This includes devices that do not fall within any existing classification regulation, where the De Novo 5 “Medical Device De Novo Classification Process” (86 FR 54826) available at https://www.federalregister.gov/d/2021-21677 requester either determines that there is no predicate device (21 CFR 860.200(b)(2)) or has received an NSE determination on a 510(k) submission (21 CFR 860.200(b)(1)). If the device is of a type for which there is an existing classification regulation or one or more approved PMAs, the appropriate mechanism for classification into class I or II would be reclassification under section 513(e) or section 513(f)(3) of the FD&C Act.6
+For devices that have already undergone 510(k) review, FDA will consider a De Novo request if the device has been determined to be NSE due to: (1) the lack of an identifiable predicate device, (2) a new intended use, or (3) different technological characteristics that raise different questions of safety and effectiveness.  Devices that have been found to be NSE due solely to performance data that is inadequate to demonstrate substantial equivalence (SE) would generally be ineligible for the De Novo classification process.7
+In considering whether to submit a De Novo request, the device should appear, based on what is known about the device, to meet the statutory standards for classification into class I or class II under section 513(a)(1) of the FD&C Act, i.e., general controls or general and special controls would provide reasonable assurance of the safety and effectiveness of the device (see 21 CFR 860.200(a)). Furthermore, you should sufficiently understand and be able to explain all of the probable risks to health associated with use of the device that are known or should reasonably be known to you and the proposed mitigations, including general controls and, if applicable, special controls for each risk8 (21 CFR 860.220(a)(9)).
+### B. Submitting a Pre-Submission for a De Novo Request
+A Pre-Submission (Pre-Sub) is not required in order to obtain FDA review of a De Novo request, but it is a useful way for requesters to obtain early feedback from FDA and is therefore strongly recommended prior to the submission of a De Novo request, especially for devices we have not previously reviewed under a 510(k).  A Pre-Sub allows FDA to provide feedback on whether a device may be eligible for the De Novo classification process, including whether a potential predicate device exists, and/or to advise you on the documentation needed in a subsequent De
+Novo request.  The primary advantage of a Pre-Sub is that it provides an opportunity to obtain our preliminary perspective on the likely regulatory controls necessary to provide a reasonable assurance of safety and effectiveness, as well as feedback on the evidence, including non-clinical and/or clinical data, that will likely be necessary to support the De Novo request.  By obtaining this feedback, you can optimize your resources in collecting the safety and effectiveness
+Evaluating Substantial Equivalence in Premarket Notifications [510(k)]” (https://www.fda.gov/regulatoryinformation/search-fda-guidance-documents/510k-program-evaluating-substantial-equivalence-premarketnotifications-510k).
+Determinations in Medical Device Premarket Approvals and De Novo Classification”
+(https://www.fda.gov/regulatory-information/search-fda-guidance-documents/factors-consider-when-making-benefit-risk-determinations-medical-device-premarket-approval-and-de).
+evidence needed to support a De Novo request, without performing additional unnecessary tests.
 This should also facilitate the review of a subsequent De Novo request.
-A Pre-Sub may be submitted early in the development process for a device; however, we believe 
-it is most useful after you have identified the proposed intended use and key aspects of the 
-device design sufficient to permit a meaningful discussion.  A Pre-Sub related to a future 
-anticipated De Novo request should contain sufficient information to enable us to provide 
-guidance on the test methods and protocols that should be used for the collection of non-clinical 
-and/or clinical data.  De Novo Pre-Subs will be handled in accordance with our normal pre-
-submission process.  For information on Pre-Subs, please see the FDA guidance document 
-entitled “Requests for Feedback on Medical Device Submissions:  The Q-Submission Program 
-and Meetings with Food and Drug Administration Staff” (Q-Sub Guidance)].9
-In addition to the recommended content for all Pre-Subs (device description, proposed intended 
-use/indications for use, previous submissions, etc.), we suggest that a Pre-Sub prior to 
-submission of a De Novo request also include:
-·
-Proposed class (I or II). Describe why you believe general or general and special controls 
-are adequate to provide reasonable assurance of safety and effectiveness. 
-·
-The searches of FDA public databases and other resources, including search terms, used 
-to establish that no legally marketed device and no classification regulation for the same 
-device type exists.  Provide a list of regulations, 510(k)s, PMAs, and/or product codes 
-that may be relevant to the subject device.  You should also provide a rationale for why 
-the subject device does not fit within and/or is different from any identified classification 
-regulations, 510(k)s, PMAs, and/or product codes, based on available information.  
-·
-Specific questions regarding review issues relevant to a planned De Novo request.  
-Insofar as they are necessary in order for us to consider the specific questions, the Pre-
-Sub should also include the following:
-o Each identified risk to health associated with the device and the reason for each 
-risk (tracing back to risk analysis, clinical testing, etc.).  Briefly describe any 
-ongoing and/or planned protocols/studies that need to be completed to collect the 
-necessary data to establish the device’s risk profile.
-o Information regarding the safety and effectiveness of the device.  Cite the types of 
-valid scientific evidence you anticipate providing in your De Novo request, 
-including types of data/studies relating to the device’s safety and effectiveness.  
-Briefly describe any ongoing and/or planned protocols/studies that need to be 
-completed to collect the necessary safety and effectiveness data.
-o Protocols for non-clinical and clinical studies (if applicable), including how they 
-will address the risks you anticipate and targeted performance levels that will 
-demonstrate that general controls or general and special controls are sufficient to 
-provide reasonable assurance of safety and effectiveness. 
-o The proposed mitigation measure(s)/control(s) for each risk, based on the best 
-available information at the time of the submission.  Highlight which mitigations 
-are general controls and which are special controls.  Provide details in the Pre-Sub 
-9 Available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/requests-feedback-and-
-meetings-medical-device-submissions-q-submission-program.
-
----
-
-<!-- Page 9 -->
-Contains Nonbinding Recommendations
-9
-on each recommended mitigation measure (e.g., specific testing required, 
-labeling).  
-Examples of questions to pose to FDA in a De Novo Pre-Sub include:
-·
-Based on the device description, its intended use/indications for use, and/or technological 
-characteristics, and information on the search performed for legally marketed devices, 
-does FDA believe the device is eligible for De Novo classification?
-·
-Are there other risks, in addition to those identified in the Pre-Sub, given the indications 
-for use for the device?
-·
-If applicable, are there controls that should be considered to provide a reasonable 
-assurance of safety and effectiveness for the device?
-·
-Are the non-clinical study protocols sufficient to allow the collection of data from which 
-conclusions about device safety and/or effectiveness can be drawn? For example:
-o Is the identified level of concern the appropriate level of concern for the device 
-software?10
-o What, if any, additional biocompatibility and/or sterility testing would be 
-appropriate?
-·
-If clinical data are needed, are the proposed study design and selected control group 
-appropriate? 
-After you submit your Pre-Sub, we may ask you for clarification or to provide more information.  
-You may also request meetings with us.  For more information on Pre-Subs and meetings with 
+A Pre-Sub may be submitted early in the development process for a device; however, we believe it is most useful after you have identified the proposed intended use and key aspects of the device design sufficient to permit a meaningful discussion.  A Pre-Sub related to a future anticipated De Novo request should contain sufficient information to enable us to provide guidance on the test methods and protocols that should be used for the collection of non-clinical and/or clinical data.  De Novo Pre-Subs will be handled in accordance with our normal presubmission process.  For information on Pre-Subs, please see the FDA guidance document entitled “Requests for Feedback on Medical Device Submissions:  The Q-Submission Program and Meetings with Food and Drug Administration Staff” (Q-Sub Guidance)].9
+In addition to the recommended content for all Pre-Subs (device description, proposed intended use/indications for use, previous submissions, etc.), we suggest that a Pre-Sub prior to submission of a De Novo request also include: - Proposed class (I or II). Describe why you believe general or general and special controls are adequate to provide reasonable assurance of safety and effectiveness.
+- The searches of FDA public databases and other resources, including search terms, used to establish that no legally marketed device and no classification regulation for the same device type exists.  Provide a list of regulations, 510(k)s, PMAs, and/or product codes that may be relevant to the subject device.  You should also provide a rationale for why the subject device does not fit within and/or is different from any identified classification regulations, 510(k)s, PMAs, and/or product codes, based on available information.
+- Specific questions regarding review issues relevant to a planned De Novo request.
+Insofar as they are necessary in order for us to consider the specific questions, the Pre- Sub should also include the following: o Each identified risk to health associated with the device and the reason for each risk (tracing back to risk analysis, clinical testing, etc.).  Briefly describe any ongoing and/or planned protocols/studies that need to be completed to collect the necessary data to establish the device’s risk profile.
+o Information regarding the safety and effectiveness of the device.  Cite the types of valid scientific evidence you anticipate providing in your De Novo request, including types of data/studies relating to the device’s safety and effectiveness.
+Briefly describe any ongoing and/or planned protocols/studies that need to be completed to collect the necessary safety and effectiveness data.
+o Protocols for non-clinical and clinical studies (if applicable), including how they will address the risks you anticipate and targeted performance levels that will demonstrate that general controls or general and special controls are sufficient to provide reasonable assurance of safety and effectiveness.
+o The proposed mitigation measure(s)/control(s) for each risk, based on the best available information at the time of the submission.  Highlight which mitigations are general controls and which are special controls.  Provide details in the Pre-Sub
+Examples of questions to pose to FDA in a De Novo Pre-Sub include: - Based on the device description, its intended use/indications for use, and/or technological characteristics, and information on the search performed for legally marketed devices, does FDA believe the device is eligible for De Novo classification?
+- Are there other risks, in addition to those identified in the Pre-Sub, given the indications for use for the device?
+- If applicable, are there controls that should be considered to provide a reasonable assurance of safety and effectiveness for the device?
+- Are the non-clinical study protocols sufficient to allow the collection of data from which conclusions about device safety and/or effectiveness can be drawn? For example: o Is the identified level of concern the appropriate level of concern for the device software?10
+o What, if any, additional biocompatibility and/or sterility testing would be appropriate?
+- If clinical data are needed, are the proposed study design and selected control group appropriate?
+After you submit your Pre-Sub, we may ask you for clarification or to provide more information.
+You may also request meetings with us.  For more information on Pre-Subs and meetings with
 FDA staff, please see the Q-Sub Guidance.
-C. 
-Submitting a De Novo Request for FDA Review
-A De Novo request may be submitted with or without a preceding 510(k) premarket notification.  
-The success of a De Novo request that is filed without a preceding 510(k) or without a Pre-Sub 
-will depend more on how well you search for a potential predicate device, identify the risks to 
-health and special controls (if applicable), and provide adequate valid scientific evidence to 
-support granting the De Novo request.
-The De Novo review process is outlined in Attachment 1.  
-In preparing to submit a De Novo request, we suggest you review publicly posted information, 
-including classification orders, for recently granted CDRH De Novo requests, available on our 
-website at https://www.fda.gov/about-fda/cdrh-transparency/evaluation-automatic-class-iii-
-designation-de-novo-summaries and 
-https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/denovo.cfm or the CBER website 
-(see https://www.fda.gov/vaccines-blood-biologics/substantially-equivalent-510k-device-
-information/evaluation-automatic-class-iii-designation-de-novo-summaries-cber).
-10 For more information on  software, please see “Guidance for the Content of Premarket Submissions for Software 
-Contained in Medical Devices” (https://www.fda.gov/regulatory-information/search-fda-guidance-
-documents/guidance-content-premarket-submissions-software-contained-medical-devices)
-
----
-
-<!-- Page 10 -->
-Contains Nonbinding Recommendations
-10
-The required content for a De Novo request can be found at 21 CFR 860.220. This includes, for 
-example, the device’s regulatory history (21 CFR 860.220(a)(3)), indications for use (21 CFR 
-860.220(a)(5)), and device description (21 CFR 860.220(a)(6)), among other requirements.  The 
-De Novo request should include a discussion demonstrating that the data and information in the 
-De Novo request constitute valid scientific evidence within the meaning of § 860.7(c) and 
-pursuant to § 860.7, when subject to general controls, or general and special controls, the 
-probable benefit to health from use of the device outweighs any probable injury or illness from 
-such use (21 CFR 860.220(a)(14)).  
-For De Novo requests, sponsors must submit at least one valid electronic copy (eCopy).  See 
-section 745A(b) of the FD&C Act and FDA’s eCopy guidance, “eCopy Program for Medical 
-Device Submissions.”11  De Novo requests (and subsequent submissions, as applicable) 
-submitted without valid eCopies will be placed on hold and the review clock will not start until a 
-valid eCopy is received.  
-D. 
-Address for De Novo Requests 
-For devices regulated by CDRH, De Novo requests should be submitted to the current mailing 
-address displayed on the website https://www.fda.gov/cdrhsubmissionaddress.  
-For devices regulated by CBER, De Novo requests should be submitted to to the current mailing 
-address displayed on the website https://www.fda.gov/about-fda/center-biologics-evaluation-
-and-research-cber/regulatory-submissions-electronic-and-paper. 
-IV. FDA Review Process for De Novo Requests     
-A. 
-510(k) Followed by De Novo Request
-If, at the end of our review of a 510(k), we determine that a device is NSE due to lack of a 
-predicate, a new intended use or different types of technology issues, and if we believe general 
-controls or general and special controls may provide reasonable assurance of safety and 
-effectiveness, we may indicate in the NSE letter that the product may be appropriate for the De 
-Novo classification process under section 513(f)(2) of the FD&C Act.  Inclusion of this language 
-within an NSE letter does not indicate that sufficient information currently exists within the 
-510(k) submission to support a successful De Novo request, but simply indicates that given the 
-risk profile of the device, it seems reasonable that De Novo classification may be appropriate.          
-B. 
-De Novo Request – Acceptance Review
-Once a De Novo request is received, whether or not it is preceded by a 510(k), FDA intends to 
-conduct an acceptance review to make a threshold determination that the De Novo request 
-contains the information necessary to permit a substantive review (Section IV.C below).  The 
-acceptance review process, including the criteria for whether a De Novo request should be 
-11 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/ecopy-program-medical-device-
-submissions
-
----
-
-<!-- Page 11 -->
-Contains Nonbinding Recommendations
-11
-refused or accepted for review, is described in 21 CFR 860.230.  FDA also explains the required 
-elements, as well as additional recommendations for preparing your De Novo request, in the 
-FDA guidance document “Acceptance Review for De Novo Classification Requests.”12
-If your De Novo request is not accepted for review, the review clock stops and we will notify 
-you that it is on hold pending receipt of additional information.  In the event you do not provide 
-the requested information within 180 calendar days, we will consider your De Novo request to be 
-withdrawn (21 CFR 860.250(a)(2)).  
-Within 15 calendar days after a De Novo request is received by FDA, FDA will notify the 
-requester whether the De Novo request has been accepted (21 CFR 860.230(a)).  If FDA fails to 
-complete the acceptance review within 15 days, FDA will accept the De Novo request for review 
-and notify the requester (21 CFR 860.230(b)).
-C. 
-De Novo Request – Substantive Review
-After FDA has accepted the De Novo request for review, FDA will begin the substantive review 
-of the De Novo request.  As part of FDA’s substantive review, FDA intends to conduct a 
-classification review of legally marketed device types.  FDA intends to analyze whether an 
-existing legally marketed device of the same type exists (e.g., whether your device likely falls 
-under an existing class II classification regulation), including whether a predicate was 
-established through the De Novo classification process.  If a likely predicate device exists or 
-your device falls under a class III classification regulation, your product is not eligible for De 
-Novo classification and  your De Novo request will be declined (section 513(f)(2)(A)(iv) and 21 
-CFR 860.260(c)(5)-(6)).  FDA will inform you of the deficiencies in your De Novo request, 
-including each applicable ground for declining the De Novo request (21 CFR 860.260(d)).  If the 
-device falls within a class III classification regulation or there is one or more approved PMAs for 
-the same type of device and FDA believes general and/or special controls are adequate to 
-provide a reasonable assurance of safety and effectiveness, the appropriate mechanism for 
-classification into class I or II would be reclassification under section 513(e) or 513(f)(3) of the 
-FD&C Act.  If no existing legally marketed device of the same type is identified, we will 
-continue our review.
-If the De Novo request is missing information and/or data necessary to determine whether 
-general controls or general and special controls can provide reasonable assurance of safety and 
-effectiveness, we may issue an additional information (AI) letter or request information via 
-interactive review (21 CFR 860.240(b)).  Issuance of an AI letter stops the review clock, and 
-once you provide a complete response, the clock will resume and review will continue.  If you 
-fail to provide a complete response within 180 calendar days of the date of the AI request, we 
-will consider the De Novo request to be withdrawn (21 CFR 860.250(a)(1)).  If a De Novo 
-request is withdrawn due to failure to submit adequate information, a new De Novo request is 
-required in order to reinitiate review of the device under the De Novo classification process.  
-12 Available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/acceptance-review-de-
-novo-classification-requests.
-
----
-
-<!-- Page 12 -->
-Contains Nonbinding Recommendations
-12
-A De Novo request may be declined for a number of reasons (21 CFR 860.260(c)).13  If a De 
-Novo request is declined, we will issue a written order (21 CFR 860.260(b)) to the requester 
-identifying the reasons, including lack of performance data, which warrant declining the De 
-Novo request (21 CFR 860.260(d)) and the device remains in class III and may not be legally 
-marketed (section 513(f)(2)(B)(ii) of the FD&C Act).  You may either submit an application for 
-premarket approval (PMA) under section 515 of the FD&C Act or collect additional information 
-to address the issues and submit a new De Novo request that includes the additional information.
-FDA will issue to the requester an order granting a De Novo request if none of the reasons in 21 
-CFR 860.260(c) for declining the De Novo request applies (21 CFR 860.260(a)).  If a De Novo 
-request is granted, we will issue you a written order granting the De Novo request and 
-identifying the classification of the device (either class I or class II).  For class II devices, we will 
-also identify the special controls.  Effective on the date of the granting order, the requester may 
-immediately begin marketing the device subject to the general controls and any identified special 
-controls, and the device may be used as a predicate device for future 510(k) submissions as 
-appropriate.  
-Within 30 days of granting the De Novo request, we will then publish a final order in the Federal 
-Register providing public notice of the decision (21 CFR 860.260(a)(2)), which will result in 
-codification of the device’s identification, classification, and applicable requirements in Title 21 
-of the Code of Federal Regulations (device classifications are at parts 862 – 892). 
-A De Novo request for a device that receives marketing authorization via the De Novo 
-classification process is referred to as having been “granted” (similar to “PMA approved” and 
-“510(k) cleared”). If a De Novo request is granted, we intend to make the written order to the 
-submitter granting the De Novo request and a summary of our review of the De Novo request 
-available on the CDRH website (see https://www.fda.gov/about-fda/cdrh-
-transparency/evaluation-automatic-class-iii-designation-de-novo-summaries and 
-https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/denovo.cfm) or the CBER website 
-(see https://www.fda.gov/vaccines-blood-biologics/substantially-equivalent-510k-device-
-information/evaluation-automatic-class-iii-designation-de-novo-summaries-cber). Once a De 
-Novo request is granted, then the subject device may be used as a predicate for any future 510(k) 
-submissions.  Information posted to the FDA website will be redacted to protect any confidential 
-commercial, trade secret, or personal privacy information in accordance with 21 CFR Part 20.
-We do not anticipate that De Novo requests for the same device type will frequently be under 
-review concurrently.  However, in cases where a De Novo request is granted while another 
-device of the same type is under review in a separate De Novo request, after the first De Novo 
-request is granted, FDA intends to notify the submitter of the other De Novo request still under 
-review that a predicate has been established and that the De Novo request still under review will 
-be declined.  The submitter of the declined De Novo request may leverage all information in the 
-De Novo request by incorporating it by reference in a new 510(k) submission but will still be 
-13 Please refer to FDA’s guidance “FDA and Industry Actions on De Novo Classification Requests: Effect on FDA 
-Review Clock and Goals,” available at https://www.fda.gov/regulatory-information/search-fda-guidance-
-documents/fda-and-industry-actions-de-novo-classification-requests-effect-fda-review-clock-and-goals, for 
-additional information.
-
----
-
-<!-- Page 13 -->
-Contains Nonbinding Recommendations
-13
-required to demonstrate substantial equivalence in the 510(k) submission, including conformity 
-with any newly established special controls for the device type if class II.  
-V. Paperwork Reduction Act of 1995
-This guidance contains information collection provisions that are subject to review by the Office 
-of Management and Budget (OMB) under the Paperwork Reduction Act of 1995 (44 U.S.C. 
+### C. Submitting a De Novo Request for FDA Review
+A De Novo request may be submitted with or without a preceding 510(k) premarket notification.
+The success of a De Novo request that is filed without a preceding 510(k) or without a Pre-Sub will depend more on how well you search for a potential predicate device, identify the risks to health and special controls (if applicable), and provide adequate valid scientific evidence to support granting the De Novo request.
+The De Novo review process is outlined in Attachment 1.
+In preparing to submit a De Novo request, we suggest you review publicly posted information, including classification orders, for recently granted CDRH De Novo requests, available on our website at https://www.fda.gov/about-fda/cdrh-transparency/evaluation-automatic-class-iiidesignation-de-novo-summaries and https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/denovo.cfm or the CBER website (see https://www.fda.gov/vaccines-blood-biologics/substantially-equivalent-510k-deviceinformation/evaluation-automatic-class-iii-designation-de-novo-summaries-cber).
+Contained in Medical Devices” (https://www.fda.gov/regulatory-information/search-fda-guidancedocuments/guidance-content-premarket-submissions-software-contained-medical-devices)
+The required content for a De Novo request can be found at 21 CFR 860.220. This includes, for example, the device’s regulatory history (21 CFR 860.220(a)(3)), indications for use (21 CFR 860.220(a)(5)), and device description (21 CFR 860.220(a)(6)), among other requirements.  The
+De Novo request should include a discussion demonstrating that the data and information in the
+De Novo request constitute valid scientific evidence within the meaning of § 860.7(c) and pursuant to § 860.7, when subject to general controls, or general and special controls, the probable benefit to health from use of the device outweighs any probable injury or illness from such use (21 CFR 860.220(a)(14)).
+For De Novo requests, sponsors must submit at least one valid electronic copy (eCopy).  See section 745A(b) of the FD&C Act and FDA’s eCopy guidance, “eCopy Program for Medical
+Device Submissions.”11  De Novo requests (and subsequent submissions, as applicable) submitted without valid eCopies will be placed on hold and the review clock will not start until a valid eCopy is received.
+### D. Address for De Novo Requests
+For devices regulated by CDRH, De Novo requests should be submitted to the current mailing address displayed on the website https://www.fda.gov/cdrhsubmissionaddress.
+For devices regulated by CBER, De Novo requests should be submitted to to the current mailing address displayed on the website https://www.fda.gov/about-fda/center-biologics-evaluation-and-research-cber/regulatory-submissions-electronic-and-paper.
+## IV. FDA Review Process for De Novo Requests
+A. 510(k) Followed by De Novo Request If, at the end of our review of a 510(k), we determine that a device is NSE due to lack of a predicate, a new intended use or different types of technology issues, and if we believe general controls or general and special controls may provide reasonable assurance of safety and effectiveness, we may indicate in the NSE letter that the product may be appropriate for the De
+Novo classification process under section 513(f)(2) of the FD&C Act.  Inclusion of this language within an NSE letter does not indicate that sufficient information currently exists within the 510(k) submission to support a successful De Novo request, but simply indicates that given the risk profile of the device, it seems reasonable that De Novo classification may be appropriate.
+### B. De Novo Request – Acceptance Review
+Once a De Novo request is received, whether or not it is preceded by a 510(k), FDA intends to conduct an acceptance review to make a threshold determination that the De Novo request contains the information necessary to permit a substantive review (Section IV.C below).  The acceptance review process, including the criteria for whether a De Novo request should be
+If your De Novo request is not accepted for review, the review clock stops and we will notify you that it is on hold pending receipt of additional information.  In the event you do not provide the requested information within 180 calendar days, we will consider your De Novo request to be withdrawn (21 CFR 860.250(a)(2)).
+Within 15 calendar days after a De Novo request is received by FDA, FDA will notify the requester whether the De Novo request has been accepted (21 CFR 860.230(a)).  If FDA fails to complete the acceptance review within 15 days, FDA will accept the De Novo request for review and notify the requester (21 CFR 860.230(b)).
+### C. De Novo Request – Substantive Review
+After FDA has accepted the De Novo request for review, FDA will begin the substantive review of the De Novo request.  As part of FDA’s substantive review, FDA intends to conduct a classification review of legally marketed device types.  FDA intends to analyze whether an existing legally marketed device of the same type exists (e.g., whether your device likely falls under an existing class II classification regulation), including whether a predicate was established through the De Novo classification process.  If a likely predicate device exists or your device falls under a class III classification regulation, your product is not eligible for De
+Novo classification and  your De Novo request will be declined (section 513(f)(2)(A)(iv) and 21 CFR 860.260(c)(5)-(6)).  FDA will inform you of the deficiencies in your De Novo request, including each applicable ground for declining the De Novo request (21 CFR 860.260(d)).  If the device falls within a class III classification regulation or there is one or more approved PMAs for the same type of device and FDA believes general and/or special controls are adequate to provide a reasonable assurance of safety and effectiveness, the appropriate mechanism for classification into class I or II would be reclassification under section 513(e) or 513(f)(3) of the FD&C Act.  If no existing legally marketed device of the same type is identified, we will continue our review.
+If the De Novo request is missing information and/or data necessary to determine whether general controls or general and special controls can provide reasonable assurance of safety and effectiveness, we may issue an additional information (AI) letter or request information via interactive review (21 CFR 860.240(b)).  Issuance of an AI letter stops the review clock, and once you provide a complete response, the clock will resume and review will continue.  If you fail to provide a complete response within 180 calendar days of the date of the AI request, we will consider the De Novo request to be withdrawn (21 CFR 860.250(a)(1)).  If a De Novo request is withdrawn due to failure to submit adequate information, a new De Novo request is required in order to reinitiate review of the device under the De Novo classification process.
+Novo request is declined, we will issue a written order (21 CFR 860.260(b)) to the requester identifying the reasons, including lack of performance data, which warrant declining the De
+Novo request (21 CFR 860.260(d)) and the device remains in class III and may not be legally marketed (section 513(f)(2)(B)(ii) of the FD&C Act).  You may either submit an application for premarket approval (PMA) under section 515 of the FD&C Act or collect additional information to address the issues and submit a new De Novo request that includes the additional information.
+FDA will issue to the requester an order granting a De Novo request if none of the reasons in 21 CFR 860.260(c) for declining the De Novo request applies (21 CFR 860.260(a)).  If a De Novo request is granted, we will issue you a written order granting the De Novo request and identifying the classification of the device (either class I or class II).  For class II devices, we will also identify the special controls.  Effective on the date of the granting order, the requester may immediately begin marketing the device subject to the general controls and any identified special controls, and the device may be used as a predicate device for future 510(k) submissions as appropriate.
+Within 30 days of granting the De Novo request, we will then publish a final order in the Federal
+Register providing public notice of the decision (21 CFR 860.260(a)(2)), which will result in codification of the device’s identification, classification, and applicable requirements in Title 21 of the Code of Federal Regulations (device classifications are at parts 862 – 892).
+A De Novo request for a device that receives marketing authorization via the De Novo classification process is referred to as having been “granted” (similar to “PMA approved” and “510(k) cleared”). If a De Novo request is granted, we intend to make the written order to the submitter granting the De Novo request and a summary of our review of the De Novo request available on the CDRH website (see https://www.fda.gov/about-fda/cdrhtransparency/evaluation-automatic-class-iii-designation-de-novo-summaries and https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/denovo.cfm) or the CBER website (see https://www.fda.gov/vaccines-blood-biologics/substantially-equivalent-510k-deviceinformation/evaluation-automatic-class-iii-designation-de-novo-summaries-cber). Once a De
+Novo request is granted, then the subject device may be used as a predicate for any future 510(k) submissions.  Information posted to the FDA website will be redacted to protect any confidential commercial, trade secret, or personal privacy information in accordance with 21 CFR Part 20.
+We do not anticipate that De Novo requests for the same device type will frequently be under review concurrently.  However, in cases where a De Novo request is granted while another device of the same type is under review in a separate De Novo request, after the first De Novo request is granted, FDA intends to notify the submitter of the other De Novo request still under review that a predicate has been established and that the De Novo request still under review will be declined.  The submitter of the declined De Novo request may leverage all information in the
+De Novo request by incorporating it by reference in a new 510(k) submission but will still be 13 Please refer to FDA’s guidance “FDA and Industry Actions on De Novo Classification Requests: Effect on FDA
+Review Clock and Goals,” available at https://www.fda.gov/regulatory-information/search-fda-guidancedocuments/fda-and-industry-actions-de-novo-classification-requests-effect-fda-review-clock-and-goals, for additional information.
+required to demonstrate substantial equivalence in the 510(k) submission, including conformity with any newly established special controls for the device type if class II.
+### V. Paperwork Reduction Act of 1995
+This guidance contains information collection provisions that are subject to review by the Office of Management and Budget (OMB) under the Paperwork Reduction Act of 1995 (44 U.S.C.
 3501-3520).
-The time required to complete this information collection is estimated to average 182 hours per 
-response for De Novo requests or 10 minutes per response for requests for withdrawal of a De 
-Novo request, including the time to review instructions, search existing data sources, gather the 
-data needed, and complete and review the information collection. Send comments regarding this 
-burden estimate or suggestions for reducing this burden to:
-FDA PRA Staff, 
-Office of Operations, 
-Food and Drug Administration, 
-PRAStaff@fda.hhs.gov 
-An agency may not conduct or sponsor, and a person is not required to respond to, a 
-collection of information unless it displays a currently valid OMB control number.  
-The OMB control number for this information collection is 0910-0844 (To find the 
-current expiration date, search for this OMB control number available at 
-https://www.reginfo.gov).
+The time required to complete this information collection is estimated to average 182 hours per response for De Novo requests or 10 minutes per response for requests for withdrawal of a De
+Novo request, including the time to review instructions, search existing data sources, gather the data needed, and complete and review the information collection. Send comments regarding this burden estimate or suggestions for reducing this burden to: FDA PRA Staff, Office of Operations, Food and Drug Administration, PRAStaff@fda.hhs.gov
+An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid OMB control number.
+The OMB control number for this information collection is 0910-0844 (To find the current expiration date, search for this OMB control number available at https://www.reginfo.gov).
+ Attachment 1
+De Novo Request Review Process Pre-Submission (Optional)
+Submission of De Novo Request FDA Substantive Review Requirements for class I or class II met?
+≤120
+FDA calendar days to Grant/
+Decline Refuse Accept No Yes No Likely predicate, class III regulation or approved PMA for same device type exists?
+Decline De Novo Request; PMA Required OR Discuss Reclassification under 513(e) or 513(f)(3) Decline De Novo Request; Submit 510(k)
+(unless 510(k) exempt)
+Yes, class III regulation or approved PMA Yes, likely predicate FDA Acceptance Review De Novo Request placed on hold, requester notified of issue(s) to be resolved Additional information (AI) needed to complete the substantive review?
+De Novo Request placed on hold, request AI Yes Grant De Novo Request; device may be legally marketed Decline De Novo request; PMA or new De Novo request required
 
 ---
 
-<!-- Page 14 -->
-Contains Nonbinding Recommendations 
-14
- Attachment 1
-De Novo Request Review Process
-Pre-Submission
-(Optional)
-Submission of De Novo 
-Request
-FDA Substantive Review
-Requirements for class I 
-or class II met?
-≤120 
-FDA 
-calendar 
-days to 
-Grant/ 
-Decline
-Refuse
-Accept
-No
-Yes
-No
-Likely predicate, class III 
-regulation or approved 
-PMA for same device type 
-exists?
-Decline De Novo Request; 
-PMA Required
-OR
-Discuss Reclassification 
-under 513(e) or 513(f)(3)
-Decline De Novo Request; 
-Submit 510(k) 
-(unless 510(k) exempt) 
-Yes, class III
-regulation or 
-approved PMA
-Yes, likely
-predicate
-FDA Acceptance Review
-De Novo Request placed 
-on hold, requester notified 
-of issue(s) to be resolved
-Additional information (AI) 
-needed to complete the 
-substantive review?
-De Novo Request placed 
-on hold, request AI
-Yes
-Grant De Novo Request; 
-device may be legally 
-marketed
-Decline De Novo request; 
-PMA or new De Novo 
-request required
+## Footnotes
+
+[^4]: For more information regarding demonstration of substantial equivalence, please see the FDA guidance document entitled “The 510(k) Program: Evaluating Substantial Equivalence in Premarket Notifications [510(k)]”, available at https://www.fda.gov/downloads/medicaldevices/deviceregulationandguidance/guidancedocuments/UCM284443.pdf . currently available information, there is no legally marketed predicate device, they may submit a
+
+[^6]: See the Agency’s Reclassification web page at: https://www.fda.gov/AboutFDA/CentersOffices/OfficeofMedicalProductsandTobacco/CDRH/CDRHTransparency/ ucm378724.htm.
+
+[^7]: For more information regarding demonstration of substantial equivalence, please see “The 510(k) Program:
+
+[^8]: For more information on benefit-risk determinations, please see “Factors to Consider When Making Benefit-Risk
+
+[^9]: Available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/requests-feedback-and- meetings-medical-device-submissions-q-submission-program. on each recommended mitigation measure (e.g., specific testing required, labeling).
+
+[^10]: For more information on  software, please see “Guidance for the Content of Premarket Submissions for Software
+
+[^11]: https://www.fda.gov/regulatory-information/search-fda-guidance-documents/ecopy-program-medical-device- submissions refused or accepted for review, is described in 21 CFR 860.230.  FDA also explains the required elements, as well as additional recommendations for preparing your De Novo request, in the FDA guidance document “Acceptance Review for De Novo Classification Requests.”12
+
+[^12]: Available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/acceptance-review-de- novo-classification-requests. A De Novo request may be declined for a number of reasons (21 CFR 860.260(c)).13  If a De
 
 <!-- fulltext-end -->

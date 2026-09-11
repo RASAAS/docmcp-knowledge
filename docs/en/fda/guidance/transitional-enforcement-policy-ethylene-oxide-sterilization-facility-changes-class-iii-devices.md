@@ -25,918 +25,238 @@ PDF: [https://www.fda.gov/media/183833/download](https://www.fda.gov/media/18383
 
 ## Official Full Text
 
-<!-- Page 1 -->
-Contains Nonbinding Recommendations 
-Transitional Enforcement Policy for 
-Ethylene Oxide Sterilization Facility 
-Changes for Class III Devices 
-Guidance for Industry and 
-Food and Drug Administration Staff 
-Document issued on November 26, 2024. 
-For questions about this document regarding CDRH-regulated devices, contact CDRH-ETO-
-SiteChange@fda.hhs.gov. 
-For questions about this document regarding CBER-regulated devices, contact 
-ocod@fda.hhs.gov. 
-U.S. Department of Health and Human Services 
-Food and Drug Administration 
-Center for Devices and Radiological Health 
-Center for Biologics Evaluation and Research
-
----
-
-<!-- Page 2 -->
-Contains Nonbinding Recommendations 
-Preface 
-Public Comment 
-You may submit electronic comments and suggestions at any time for Agency consideration to 
-https://www.regulations.gov. Submit written comments to the Dockets Management Staff, Food 
-and Drug Administration, 5630 Fishers Lane, Room 1061, (HFA-305), Rockville, MD 20852­
-1740. Identify all comments with the docket number FDA-2024-D-2274. Comments may not be 
-acted upon by the Agency until the document is next revised or updated. 
-Additional Copies 
-CDRH 
-Additional copies are available from the Internet. You may also send an email request to CDRH-
-Guidance@fda.hhs.gov to receive a copy of the guidance. Please include the document number 
-GUI00007027 and complete title of the guidance in the request. 
-CBER 
-Additional copies of this guidance are available from the Office of Communication, Outreach 
-and Development (OCOD), 10903 New Hampshire Ave., Bldg. 71, Rm. 3128, Silver Spring, 
-MD 20993-0002, or by calling 1-800-835-4709 or 240-402-8010, or email ocod@fda.hhs.gov, or 
-from the Internet at https://www.fda.gov/vaccines-blood-biologics/guidance-compliance-
-regulatory-information-biologics. 
-For questions on the content of this guidance, contact OCOD at the phone numbers or email 
-address listed above.
-
----
-
-<!-- Page 3 -->
-Contains Nonbinding Recommendations 
-Table of Contents 
-I. 
-Introduction............................................................................................................................. 1 
-II. 
-Background............................................................................................................................. 3 
-III. Scope....................................................................................................................................... 5 
-IV. Policy ...................................................................................................................................... 6 
-V. Notifying FDA of a Potential Ethylene Oxide Sterilization Facility Change......................... 8 
-A. 
-In General......................................................................................................................... 8 
-B. 
-When to Notify................................................................................................................. 8 
-C. 
-Information Recommended for Inclusion in the Notification.......................................... 9 
-D. 
-How to Notify................................................................................................................. 10 
-E. 
-FDA Review of Notification.......................................................................................... 10 
-VI. Considerations for Sterilization Site Change Supplements For Intended Ethylene Oxide 
-Sterilization Site Changes............................................................................................................. 12 
-A. 
-What manufacturing site changes require a site change supplement? ........................... 12 
-B. 
-What should be submitted in the site change supplement?............................................ 14 
-C. 
-Determining whether an inspection may be needed....................................................... 15 
-VII. Appendix............................................................................................................................... 16 
-A. 
-Appendix A – Notification Example.............................................................................. 16 
-B. 
-Appendix B – Statement of Affirmation Format ........................................................... 18
-
----
-
-<!-- Page 4 -->
-Contains Nonbinding Recommendations 
-Transitional Enforcement Policy for 
-Ethylene Oxide Sterilization Facility 
-Changes for Class III Devices 
-Guidance for Industry and 
-Food and Drug Administration Staff 
-This guidance represents the current thinking of the Food and Drug Administration (FDA or 
-Agency) on this topic.  It does not establish any rights for any person and is not binding on 
-FDA or the public.  You can use an alternative approach if it satisfies the requirements of the 
-applicable statutes and regulations. To discuss an alternative approach, contact the FDA staff 
-or Office responsible for this guidance as listed on the title page. 
-I. 
-Introduction 
-The Food and Drug Administration (FDA or the Agency) plays a critical role in helping to 
-protect the medical device supply chain and to prevent and mitigate potential medical product 
-impacts. As part of this work, FDA closely monitors the supply chain effects of temporary or 
-permanent closures and potential closures or capacity reductions of sterilization facilities that use 
-a gas called ethylene oxide (EtO) to sterilize medical devices prior to their use to help prevent 
-and minimize impacts to patients who need access to these sterile medical devices. 
-In April 2024, the Environmental Protection Agency (EPA) published a final rule to amend its 
-National Emission Standards for Hazardous Air Pollutants (NESHAP), which revised EPA’s 
-existing standards and established new standards for previously unregulated EtO emissions.1 
-1 See “National Emission Standards for Hazardous Air Pollutants: Ethylene Oxide Emissions Standards for 
-Sterilization Facilities Residual Risk and Technology Review,” 89 Fed. Reg. 24,090 (April 5, 2024). For a summary 
-of EPA’s final rule for revised national emission standards for EtO, a history of the rule, and links to additional 
-resources, see EPA’s website: https://www.epa.gov/stationary-sources-air-pollution/ethylene-oxide-emissions-
-standards-sterilization-facilities.. 
-EPA is also conducting a registration review of EtO and issued a proposed interim decision in 
-April 2023.2 
-2 Under section 3(g) of the Federal Insecticide, Fungicide, and Rodenticide Act (FIFRA) and the Procedural 
-Regulations for Registration Review at 40 CFR part 155, subpart C, the EPA is conducting a registration review of 
-ethylene oxide. In April 2023, the EPA issued a proposed interim decision, which is available at 
-https://www.regulations.gov/docket/EPA-HQ-OPP-2013-0244/document. 
-Some companies involved in medical device sterilization have installed or are 
-already planning for installation of emissions controls to comply with EPA’s final rule and to 
-anticipate steps they may take related to the registration review, if finalized. FDA anticipates that 
-some EtO sterilization facilities will need to install new or additional controls or make changes 
-1
-
----
-
-<!-- Page 5 -->
-Contains Nonbinding Recommendations 
-to their operations as they prepare to comply with EPA’s final rule (which sets April 6, 2026 as 
-the earliest applicable compliance deadline), and that some facilities may either reduce their 
-sterilization operations or seek to change the location of their sterilization operations during this 
-period of transition. In EPA’s final rule to amend the NESHAP, EPA communicated that it 
-expects reduction in EtO emissions will lower the risk of adverse health effects, including 
-cancer, for individuals in communities near commercial sterilization facilities.3 
-3 See “National Emission Standards for Hazardous Air Pollutants: Ethylene Oxide Emissions Standards for 
-Sterilization Facilities Residual Risk and Technology Review,” 89 Fed. Reg. 24,090 (April 5, 2024). 
-FDA also 
-understands the importance of EtO in sterilizing a number of medical devices, and believes it is 
-important to maintain the nation’s supply of sterile medical devices while reducing the harmful 
-impacts of EtO use on public health while facilities work to comply with EPA’s rule. 
-To that end, FDA is issuing this guidance to provide an enforcement discretion policy to respond 
-to anticipated changes in EtO sterilization activities as facilities work to advance orderly 
-implementation of and compliance with EPA’s rule, and prevent or mitigate the potential risk of 
-supply chain disruptions or medical device shortages during the time period in which 
-manufacturers are transitioning to compliance with new requirements. As described in the 
-guidance, FDA will be making case-by-case decisions as to whether the exercise of enforcement 
-discretion related to such sterilization changes is appropriate. At this time, based on our 
-understanding of the potential impact on sterilization activities as facilities come into compliance 
-with EPA’s rule and potential future action on the interim decision for EtO, if finalized, we 
-anticipate that this enforcement discretion will likely no longer be appropriate after three years 
-and thus anticipate declining any requests after that time. If this view changes, FDA intends to 
-revise this guidance (e.g., extend, modify, or replace the policy in this guidance).4 
-4 FDA recognizes that this enforcement discretion policy is unlikely to be necessary after compliance with EPA’s 
-rule is achieved – as of April 2026 or April 2027, depending on the applicable compliance deadline. However, due 
-to uncertainty regarding the timing of potential EPA action on the proposed interim decision, FDA has provided 
-additional time to ensure orderly implementation of both the rule and that potential future action. 
-This guidance is being issued without prior public comment, but it remains subject to comment 
-in accordance with the Agency’s good guidance practices.5 
-5 See Section 701(h)(1)(c) of the Federal Food, Drug, and Cosmetic Act (FD&C Act) (21 U.S.C. § 371(h)(1)(C)) and 
-21 C.F.R. 10.115(g)(2). 
-FDA has determined that prior public 
-participation for this guidance is not feasible or appropriate because immediate implementation 
-of this guidance is needed to help protect the sterile device supply chain. FDA believes that the 
-enforcement discretion policy described in this guidance will provide an option for facilities that 
-can help them prevent and mitigate possible interruptions in sterile device processing and help 
-maintain adequate supplies of finished sterile medical devices during the time period in which 
-manufacturers are transitioning to compliance with new requirements. Expedited sterilization site 
-changes may be appropriate due to ongoing changes in the medical device sterilization landscape 
-in order to reduce the impact of potential, actual, or temporary operation reductions at 
-sterilization facilities. FDA will continue to work with developers, other agencies, and 
-stakeholders to explore effective, efficient, and innovative solutions that will help maintain a 
-strong supply of medical devices. 
-In general, FDA’s guidance documents do not establish legally enforceable responsibilities. 
-Instead, guidances describe the Agency’s current thinking on a topic and should be viewed only 
-2
-
----
-
-<!-- Page 6 -->
-Contains Nonbinding Recommendations 
-as recommendations, unless specific regulatory or statutory requirements are cited. The use of 
-the word should in Agency guidances means that something is suggested or recommended, but 
-not required. 
-II. Background 
-Although medical devices can be sterilized by several methods, EtO is the most common method 
-of terminal sterilization of medical devices in the US and is a well-established and scientifically 
-proven method of preventing harmful microorganisms from reproducing and causing infections. 
-More than 20 billion devices sold in the U.S. every year are sterilized with EtO, accounting for 
-approximately 50 percent of devices that require sterilization.6 
-6 See “Sterilization for Medical Devices”, available at https://www.fda.gov/medical-devices/general-hospital-
-devices-and-supplies/sterilization-medical-devices. 
-For many medical devices, sterilization with EtO may be the only method that effectively 
-sterilizes and does not damage the device during the sterilization process. Medical devices made 
-from certain materials such as polymers (plastic or resin), metals, or glass, or that have multiple 
-layers of packaging or hard-to-reach places (for example, catheters) are often sterilized with EtO. 
-Devices sterilized with EtO range from wound dressings to more specialized devices, like stents, 
-as well as kits used in routine hospital procedures or surgeries that include multiple components 
-made of different materials. 
-FDA recognizes, however, that sterilization with EtO also involves public health risks. FDA has 
-taken several actions to encourage new, innovative ways to sterilize medical devices while 
-reducing the potential impact on the environment and on the public health.7 
-7 Information on FDA’s ongoing efforts to support the sterile medical device supply chain and ensure safe, effective 
-sterilization of medical devices can be found on our “Sterilization for Medical Devices” webpage, available at 
-https://www.fda.gov/medical-devices/general-hospital-devices-and-supplies/sterilization-medical-devices. 
-In addition, the US 
-Environmental Protection Agency, as part of its statutory mandate under the Clean Air Act to 
-promote the public health and welfare and the productive capacity of the population and to 
-remove unacceptable health risks,8 
-8 See, e.g., 42 U.S.C. §§ 7401(b)(1), 7412(f)(2). 
-reviews and enforces the Clean Air Act regulations applicable 
-to sterilization facilities that emit EtO. In April 2024, as noted above, the EPA published a final 
-rule to amend its National Emission Standards for Hazardous Air Pollutants, which revised 
-EPA’s existing standards and established new standards for previously unregulated EtO 
-emissions.9 
-9 See “National Emission Standards for Hazardous Air Pollutants: Ethylene Oxide Emissions Standards for 
-Sterilization Facilities Residual Risk and Technology Review,” 89 Fed. Reg. 24,090 (April 5, 2024). 
-Implementing the new emission requirements will likely require some EtO sterilization facilities 
-to install controls or make changes to their operations, and may result in temporary reductions in 
-sterilization operations at some facilities or shifts in the location of sterilization operations. FDA 
-is issuing this guidance in response to these anticipated changes in sterilization operations, 
-helping to prevent or mitigate the potential risk of medical device supply chain disruptions or 
-shortages. 
-3
-
----
-
-<!-- Page 7 -->
-Contains Nonbinding Recommendations 
-In general, under section 515(d)(5) of the Federal Food, Drug, and Cosmetic (FD&C) Act, 21 
-U.S.C. § 360e(d)(5), a supplemental application to an approved premarket application (PMA) 
-must be submitted for review and approval by FDA before making a change that affects the 
-device’s safety or effectiveness. Under 21 CFR 814.39(a)(3), a device sponsor must submit a 
-PMA supplement when it uses “a different facility or establishment to manufacture, process, or 
-package the device,” and the change affects the device’s safety or effectiveness. Under 21 CFR 
-814.108 and 814.114, the holder of a humanitarian device exemption (HDE) also must submit 
-site change supplements. Accordingly, sponsors of devices sterilized using EtO generally would 
-be required to obtain FDA approval prior to making a change to the facility at which its devices 
-are sterilized. Under the enforcement discretion policy set forth in this guidance, FDA intends to 
-evaluate specific case-by-case situations related to certain kinds of sterilization site changes such 
-that the Agency’s exercise of enforcement discretion may help device manufacturers more 
-quickly and proactively secure alternative locations for the EtO sterilization of certain devices to 
-prevent and minimize potential supply disruptions. 
-This document is intended to be considered alongside other applicable FDA guidance 
-documents, such as “Manufacturing Site Change Supplements: Content and Submission10
-10 For further information on the PMA supplement decision-making process, please refer to this guidance, available 
-at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/manufacturing-site-change-
-supplements-content-and-submission. 
-,” 
-(hereafter “Site Change Supplements Guidance”) issued December 17, 2018. The Site Change 
-Supplements Guidance explains (a) what constitutes a manufacturing site change and when a 
-device sponsor or applicant should submit a PMA supplement for a site change; (b) what 
-documentation should be included in a site change supplement; and (c) the general factors FDA 
-intends to consider when determining whether to conduct an establishment inspection prior to 
-approval of a site change supplement.11 
-11 This also includes such enforcement policies such as those described in FDA guidance document, “Enforcement 
-Policy for Certain Supplements for Approved Premarket Approval (PMA) or Humanitarian Device Exemption 
-(HDE) Submissions”, available at https://www.fda.gov/regulatory-information/search-fda-guidance-
-documents/enforcement-policy-certain-supplements-approved-premarket-approval-pma-or-humanitarian-device. 
-This guidance document is intended to provide information regarding what guiding principles 
-FDA will consider and what types of information submitted by industry would be helpful to the 
-Agency in making a determination of whether the Agency intends to not object to sterilization 
-site changes geared specifically to PMA and HDE holders of approved Class III devices 
-sterilized by EtO prior to the approval of a PMA or HDE supplement, during the time period in 
-which manufacturers are transitioning to compliance with new requirements. FDA is leveraging 
-lessons learned from CDRH’s EtO Sterilization Master File Pilot Program for PMA approved 
-devices regarding how device sterilization changes are managed between manufacturers and 
-sterilizers to develop this approach for EtO sterilization site changes.12 
-12 The Federal Register notice for CDRH’s Ethylene Oxide Sterilization Master File Pilot Program is available at 
-https://www.federalregister.gov/documents/2019/11/26/2019-25631/center-for-devices-and-radiological-health-
-ethylene-oxide-sterilization-master-file-pilot-program. 
-This approach is intended 
-to help firms manage the possible timeframes associated with implementing changes in the 
-manufacturing site and any related processes, methods, procedures, qualifications, and 
-validations to help prevent and minimize potential impacts to the supply chain for EtO-sterilized 
-Class III devices. 
-4
-
----
-
-<!-- Page 8 -->
-Contains Nonbinding Recommendations 
-III. Scope 
-This guidance document is intended to describe information that certain PMA and HDE holders 
-of Class III devices sterilized by EtO with products that might be or are affected by potential, 
-actual, or temporary stops or reductions in operations at a sterilization facility during the time 
-period in which manufacturers are transitioning to compliance with new requirements, should 
-provide to FDA if a PMA or HDE holder wishes to have FDA consider whether the exercise of 
-enforcement discretion relating to the implementation of certain types of sterilization site 
-changes is appropriate. Such changes, described in further detail below, generally will involve 
-the planned use of an alternative facility to sterilize products (e.g., before a PMA supplement 
-detailing the switch to such an alternative facility is approved by FDA).  
-In particular, this guidance document explains the guiding principles FDA intends to consider in 
-its determination of whether to exercise enforcement discretion related to certain types of 
-sterilization site changes, and what kinds of information from a PMA or HDE holder, submitted 
-voluntarily, would be helpful in determining whether the Agency’s exercise of enforcement 
-discretion is appropriate. Should a PMA or HDE holder wish to submit such information to FDA 
-in evaluating whether enforcement discretion is appropriate in a specific case, FDA recommends 
-that such information be provided through an informal notification to the Agency regarding a 
-proposed sterilization facility site change to help prevent and mitigate potential, actual, or 
-temporary stops or reductions in operations at an EtO sterilization facility previously approved 
-by FDA that may affect the availability of some sterile medical devices. 
-As described in further detail below, FDA intends to evaluate the information voluntarily 
-provided by a PMA or HDE holder in an informal notification for the purpose of making a 
-determination as to whether enforcement discretion is appropriate. 
-This guidance uses the term “site” to encompass both establishments and facilities. 
-“Establishment” and “facility” are not defined in 21 CFR Part 814. For purposes of this 
-guidance, FDA is using the term “establishment” as defined in 21 CFR 807.3(c), which means a 
-place of business under one management at one general physical location at which a device is 
-manufactured, assembled, or otherwise processed. FDA is defining the term “facility” for 
-purposes of this guidance to mean the physical structures or buildings within an “establishment.” 
-Please note that this guidance document only applies to PMA holders and HDE holders of Class 
-III devices provided sterile and for single-use that are sterilized by ethylene oxide (either in a 
-fixed, rigid chamber, or in a flexible bag system). 
-This guidance does not apply to sterilization site changes for: 
-· Class III devices (PMA or HDE) sterilized by other sterilization methods (e.g., dry heat, 
-moist heat or steam, radiation, hydrogen peroxide, ozone, etc.). 
-· Class III devices (PMA or HDE) where the site change includes a change in sterilant 
-(e.g., a change from using EtO to using a different sterilant, or from using a different 
-sterilant to EtO). 
-5
-
----
-
-<!-- Page 9 -->
-Contains Nonbinding Recommendations 
-· Combination products.13 
-13 See Section 503(g) of the FD&C Act and 21 CFR Part 3. 
-· Reusable devices, reprocessed single-use devices, or devices that are not provided sterile. 
-· Devices cleared under premarket notification (510(k)) submissions, granted premarket 
-authorization through the De Novo pathway, or approved and distributed as part of an 
-investigational device exemption (IDE).14 
-14 Devices cleared under 510(k) submissions are outside the scope of this guidance because FDA guidance, Deciding 
-When to Submit a 510(k) for a Change to an Existing Device, recommends that changes to an EtO sterilization 
-process for previously cleared devices sterilized with EtO are unlikely to require submission of a new 510(k) if the 
-change to the EtO sterilization process could not significantly affect the performance or biocompatibility of the 
-device. This guidance is available at https://www.fda.gov/regulatory-information/search-fda-guidance-
-documents/deciding-when-submit-510k-change-existing-device. 
-· Devices licensed under section 351 of the Public Health Service Act.15 
-15 See 42 U.S.C. § 262, “Regulation of Biological Products.” CBER regulates certain medical devices and tests used 
-to safeguard blood, blood components, and cellular products from HIV, hepatitis, and other infectious agents under 
-section 351 of the PHS Act by approving biologics licenses applications (BLA). 
-Additionally, this guidance does not apply to other changes for which an applicant may submit a 
-PMA or HDE supplement including but not limited to, the following types of changes if they 
-effect the safety or effectiveness of the device: 
-· New indications for use of the device. 
-· Labeling changes. 
-· The use of a different facility or establishment to manufacture, process, or package the 
-device outside of sterilization. 
-· Changes in packaging. 
-· Changes in the performance or design specifications, circuits, components, ingredients, 
-principle of operation, or physical layout of the device. 
-· Extension of the expiration date of the device based on data obtained under a new or 
-revised stability or sterility testing protocol that has not been approved by FDA. 
-This guidance does not apply to 506J notifications submitted by device manufacturers under 
-Section 506J of the Federal Food, Drug, and Cosmetic Act (FD&C Act).16 
-16 See FDA website on “Notify the FDA About a Medical Device Supply Issue” available at 
-https://www.fda.gov/medical-devices/medical-device-supply-chain-and-shortages/notify-fda-about-medical-device-
-supply-issue. As noted with the Site Change Supplement Guidance, this guidance is also intended to be considered 
-alongside other relevant guidance regarding notifications under Section 506J of the FD&C Act, including, but not 
-limited to “Notifying FDA of a Permanent Discontinuance or Interruption in Manufacturing of a Device Under 
-Section 506J of the FD&C Act”, issued November 2023, available at https://www.fda.gov/regulatory-
-information/search-fda-guidance-documents/notifying-fda-permanent-discontinuance-or-interruption-
-manufacturing-device-under-section-506j-fdc. 
-IV. Policy 
-The recommendations in this guidance are part of FDA’s efforts to help ensure the availability of 
-safe, effective, and high-quality Class III devices. FDA believes that the recommendations herein 
-6
-
----
-
-<!-- Page 10 -->
-Contains Nonbinding Recommendations 
-may help prevent and mitigate potential medical device shortages caused by a potential, actual, 
-or temporary stop or reduction of operations of certain EtO sterilization facilities while 
-protecting patient safety, during the time period in which manufacturers are transitioning to 
-compliance with new requirements, by taking a risk-based approach. 
-For devices subject to PMA or HDE requirements, submission of a 180-day PMA site change 
-supplement or 75-day HDE site change supplement is required prior to use of a different 
-manufacturing site17 
-17 A “different site” for which a site change supplement should be submitted is described under Section V.A. of the 
-Site Change Supplement Guidance. Supra note 10. 
-that affects the device’s safety or effectiveness.18 
-18 See 21 CFR 814.39(a)(3). 
-However, to prevent and 
-mitigate potential concerns with medical device availability that may result from changes in 
-sterilization operations during the time period in which manufacturers are transitioning to 
-compliance with new requirements, FDA seeks to facilitate sterilization site changes more 
-quickly to help prevent and minimize potential supply interruptions. 
-This policy outlines the general framework wherein FDA will determine, on a case-by-case 
-basis, whether the exercise of enforcement discretion related to the sterilization of Class III 
-devices at a proposed new sterilization location and subsequent distribution of such devices prior 
-to approval of a PMA or HDE site change supplement is appropriate. FDA recommends that 
-device manufacturers who wish to have FDA consider the exercise of enforcement discretion 
-related to the implementation of a sterilization site change and subsequent distribution of sterile 
-devices submit an informal notification as recommended in Section V. 
-Following receipt of this informal notification, FDA will evaluate the information and issue 
-correspondence to a PMA or HDE holder with its determination of whether enforcement 
-discretion is appropriate in a given case. Where enforcement discretion is determined to be 
-appropriate, FDA does not intend to object to a device manufacturer beginning sterilization of 
-the subject device(s) at the proposed alternate sterilization facility prior to approval of the 
-required PMA or HDE site change supplement. Once the correspondence is issued to the PMA or 
-HDE holder that enforcement discretion is appropriate for their specific case, the device 
-manufacturer should begin preparing a PMA 180-day site change supplement or HDE 75-day 
-site change supplement for submission to FDA within 120 calendar days. If enforcement 
-discretion is determined to not be appropriate, a PMA or HDE holder may still submit a site 
-change supplement to be reviewed according to the normal timeline for this type of 
-supplement.19 
-19 For more information on site change supplements and the normal timeline for review of site change supplements 
-for PMA or HDE holders, see FDA guidance, “Manufacturing Site Change Supplements: Content and Submission”, 
-available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/manufacturing-site-
-change-supplements-content-and-submission. 
-Upon receipt of the PMA 180-day site change supplement or HDE 75-day site change 
-supplement, FDA intends to conduct an expedited review of the supplement and make a 
-determination on the proposed sterilization site change consistent with 21 CFR Part 814. 
-If FDA exercises enforcement discretion to not object to the sterilization of a device at a new 
-facility and subsequent distribution of that device but a corresponding PMA or HDE site change 
-7
-
----
-
-<!-- Page 11 -->
-Contains Nonbinding Recommendations 
-supplement is ultimately not approved or timely submitted, FDA may take additional action 
-appropriate to the specific situation and reason(s) for which the supplement was not approved. 
-For example, FDA may request that the manufacturer cease distribution of the device until a 
-subsequent site change supplement for the change is approved or may request a recall of 
-distributed product. 
-V. Notifying FDA of a Potential Ethylene Oxide 
-Sterilization Facility Change 
-A. 
-In General 
-This section provides information for device manufacturers who would like to submit an 
-informal notification because they wish to have FDA consider the exercise of enforcement 
-discretion related to the implementation of a sterilization site change and subsequent distribution 
-of sterile devices. Class III device manufacturers whose products are affected by a potential, 
-actual, or temporary stop, or reduction of operations at an EtO sterilization facility and are 
-planning to use an alternate sterilization facility may notify FDA once they are aware of such a 
-potential temporary or permanent facility closure or reduction of operations. 
-If a manufacturer is not certain whether to notify FDA about a potential EtO sterilization facility 
-closure or reduction of operations, we recommend the manufacturer contact the Agency at 
-CDRH-ETO-SiteChange@fda.hhs.gov for devices regulated by CDRH or the appropriate review 
-office in the Center for Biologics Evaluation and Research for devices regulated by CBER. 
-B. 
-When to Notify 
-Irrespective of whether a PMA or HDE holder wishes to have FDA consider the exercise of 
-enforcement discretion as detailed in this guidance, FDA notes that as a general matter, and 
-consistent with current guidance on Section 506J of the FD&C Act, device manufacturers are 
-encouraged to voluntarily notify the Agency with information on potential supply chain issues 
-that may result from a temporary or permanent closure or reduction of sterilization activities at 
-an EtO sterilization facility.20 Early awareness of a potential change in operations and any 
-potential impacts on the supply chain enables the FDA to work proactively with stakeholders to 
-develop a plan to protect patient care. 
-For the purposes of this guidance, FDA intends to evaluate information related to potential 
-supply chain issues that may result from temporary or permanent closures or reductions of 
-sterilization activities at an EtO sterilization facility primarily to determine whether the exercise 
-of enforcement discretion in a particular case is appropriate. FDA recommends that such 
-information be submitted in an informal notification to FDA when manufacturers determine that 
-there is a potential, actual, or temporary stop or reduction of operations of certain EtO 
-20 See, e.g., “Notifying FDA of a Permanent Discontinuance or Interruption in Manufacturing of a Device Under 
-Section 506J of the FD&C Act”, issued November 2023, available at https://www.fda.gov/regulatory­
-information/search-fda-guidance-documents/notifying-fda-permanent-discontinuance-or-interruption­
-manufacturing-device-under-section-506j-fdc. 
-8
-
----
-
-<!-- Page 12 -->
-Contains Nonbinding Recommendations 
-sterilization facilities such that a change in EtO sterilization sites may be warranted to prevent 
-and mitigate potential impacts to supply chains for EtO-sterilized Class III devices. 
-C. 
-Information Recommended for Inclusion in the 
-Notification 
-When a manufacturer chooses to notify the Agency that there may be potential supply chain 
-issues with their device due to a temporary or permanent closure or reduction of sterilization 
-activities at an EtO sterilization facility, the following recommended information provided in the 
-notification will help enable FDA to identify the specific device(s) impacted: 
-· Device/trade name, associated product code(s), and the PMA or HDE number for the 
-device. This is the marketing submission number (i.e., original PMA or HDE number) 
-under which the device was approved. 
-· Sponsor/applicant name, address, and contact information, including a main contact 
-person, title, email address, and phone number. 
-· Reason for the notification.21 
-21 The reason for the notification, along with other information described in Section C, is consistent with information 
-FDA normally requires as a part of a PMA (or HDE) supplement under the Part 814 regulations. See 21 CFR 
-814.39(c)(1) (“information required in a supplement is limited to that needed to support the change . . . [including] 
-information relevant to the proposed changes [and] a separate section that identifies each change for which approval 
-is being requested and explains the reason for such change.”). 
-Additionally, FDA recommends that manufacturers include the following sterilization related 
-information in their notification. Having this information enables FDA to appropriately identify 
-the specific sterilization sites that are affected and evaluate any potential impacts of the 
-notification. 
-· The site(s) at which sterilization currently takes place, including the name, address, and 
-FDA Establishment Identification (FEI) number of the facility. 
-· The proposed new or additional site where sterilization will take place, including the 
-name, address, and FDA Establishment Identification (FEI) number of the facility. 
-· Identification of whether the proposed sterilization site(s) were previously cleared under 
-the original PMA or HDE or a PMA or HDE supplement. 
-· Identification of whether current and proposed alternate/additional sterilization sites are 
-ready for FDA inspection, if applicable.  
-· The date on which the site change will be implemented. 
-· A brief summary of any changes to the sterilization process that may result from the site 
-change. This includes a description of any changes in sterilization equipment, e.g., 
-manufacturer, model, chamber size. This information may be provided as a set of 
-statements or in a tabular format. 
-FDA also recommends that the notification include a signed statement, provided as a PDF 
-attachment, affirming that: 
-9
-
----
-
-<!-- Page 13 -->
-Contains Nonbinding Recommendations 
-· The notification pertains to a Class III device that is not considered a combination 
-product. 
-· No changes have been made to the device’s: 
-o Indications for use; 
-o Labeling; 
-o Facilities or establishments used for manufacturing, processing, or packaging the 
-device outside of sterilization; 
-o Packaging; 
-o Performance or design specifications, circuits, components, ingredients, principle 
-of operation, or physical layout of the device; 
-o Expiration date based on data obtained under a new or revised stability or sterility 
-testing protocol that has not been approved by FDA; 
-o Or any other change that affects the safety or effectiveness of the device. 
-· No changes have been made to the sterilization process apart from the location of the 
-sterilization facilities and those changes necessary to facilitate a change in location (e.g., 
-no change to a different sterilant, release criteria for the cycle, the sterility assurance level 
-(SAL), and no major changes to critical sterilization process parameters). 
-The statement of affirmation should be signed by a responsible person of the firm required to 
-submit the premarket approval supplement (e.g., not a consultant for the PMA or HDE 
-submitter). This information will help FDA identify whether the proposed sterilization site 
-change is within the scope of the policy described in this guidance. 
-Appendix A of this guidance provides an example of the information that FDA recommends be 
-included in the notification. Appendix B of this guidance provides an example of the format that 
-could be used for the statement of affirmation. 
-Any information provided to the FDA that is trade secret or confidential information will be 
-subject to 5 U.S.C. § 552(b)(4), 18 U.S.C. § 1905, and other applicable statutes and regulations. 
-D. 
-How to Notify 
-Manufacturers can notify the FDA of a potential, actual, or temporary stop or reduction of 
-operations at an EtO sterilization facility that will result in a site change by either sending an 
-email to CDRH-ETO-SiteChange@fda.hhs.gov, or by contacting the appropriate review office 
-within CBER. Section V.C. of this guidance outlines the info we recommend including in the 
-email. 
-E. 
-FDA Review of Notification 
-FDA will carefully review each notification received and make case-by-case decisions on 
-whether the exercise of enforcement discretion related to sterilization at the proposed new 
-location and subsequent distribution of Class III devices prior to submission and approval of a 
-PMA or HDE site change supplement is appropriate. These decisions will be based on the 
-information provided in the notification, along with relevant information and data available to 
-10
-
----
-
-<!-- Page 14 -->
-Contains Nonbinding Recommendations 
-the Agency. The other information FDA may consider in making these case-by-case decisions 
-includes, but is not limited to: 
-· Indications of potential supply disruptions (e.g., 506J notifications, voluntary 
-manufacturer information, or FDA shortage assessments). 
-· Identification of whether the change in manufacturing facility or establishment involves 
-an alternative site that is in compliance with 21 CFR Part 820 or similar quality systems 
-standards (e.g., ISO 13485)). 
-In determining whether to object to a device manufacturer implementing sterilization of the 
-subject device at the alternate sterilization facility being proposed, FDA intends to consider the 
-entirety of relevant information and data available to the Agency at the time of a decision. FDA 
-will communicate its decision to the manufacturer via correspondence after considering the 
-information included in the manufacturer’s notification. 
-If FDA indicates that it does not intend to object to sterilization of Class III devices at the 
-proposed new location and subsequent distribution prior to submission and approval of a PMA or 
-HDE site change supplement and the device manufacturer proceeds with the change, FDA 
-recommends that the device manufacturer promptly inform FDA of any issues encountered 
-related to implementation of the sterilization facility change. In the interim, a manufacturer 
-should: 
-· Successfully complete process verification and validation testing prior to device 
-distribution. 
-· Prepare a PMA 180-day (or HDE 75-day) site change supplement22 
-22 See 21 CFR 814.39(a)(3). 
-as described in 
-FDA’s Site Change Supplement Guidance, including, but not limited to, information 
-regarding sterilization sites, sterilization method, release criteria for the cycle, the 
-sterility assurance level (SAL), and sterilization critical process parameters. 
-· Submit a PMA 180-day (or HDE 75-day) site change supplement for the subject device, 
-consistent with this guidance, within 120 days from the date of FDA’s correspondence 
-indicating it does not intend to object to the implementation of the alternate sterilization 
-facility. 
-Alternatively, if FDA indicates that the exercise of enforcement discretion related to the 
-implementation of the alternate sterilization facility is not appropriate, the Agency intends to 
-provide an explanation of its decision. FDA also provides notification of approved PMA or HDE 
-supplements in the publicly available PMA and HDE databases.23
-23 FDA’s PMA database is available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm. 
-, 24 
-24 FDA’s HDE database is available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfhde/hde.cfm. 
-11
-
----
-
-<!-- Page 15 -->
-Contains Nonbinding Recommendations 
-VI. Considerations for Sterilization Site Change 
-Supplements for Intended Ethylene Oxide Sterilization Site 
-Changes 
-A. 
-What manufacturing site changes require a site change 
-supplement? 
-For purposes of this guidance, FDA references Section V of the Site Change Supplement 
-Guidance 25
-25 Supra note 10. 
-, reproduced here, to detail the types of manufacturing site changes that likely fall 
-under this enforcement discretion policy. 
-Situations where a site change supplement should ordinarily be submitted include: 1) where the 
-site was not approved as part of the original PMA or HDE application or a PMA or HDE 
-supplement; or 2) where the site(s) was approved as part of the original PMA or HDE application 
-or PMA or HDE supplement, but only for the performance of different manufacturing activities. 
-Under these circumstances, the different site would not have had experience with either the 
-process or the technology, or a similar process or technology, for manufacturing the same or a 
-similar device, and FDA would not have had the opportunity to evaluate the change because it 
-would not have been evaluated in any way in the PMA or HDE application. 
-In such instances, we would consider the change to constitute “the use of a different facility or 
-establishment” under 21 CFR 814.39(a)(3) and the manufacturer should submit a 180-day site 
-change PMA or HDE supplement for review and approval before making the change if the 
-change affects the device’s safety or effectiveness (section 515(d)(5)(A)(i) of FD&C Act). FDA 
-recognizes that a manufacturing site change would rarely involve a completely new 
-manufacturing technology for which the firm has no experience or the manufacture of a 
-dissimilar device at the new site, but for completeness of defining the underlying principle for 
-what constitutes a different site, it is important for FDA to consider both the site’s familiarity 
-with the manufacturing technology and the similarity to the devices manufactured at the site. 
-As detailed below, Table 1 addresses various manufacturing site changes relating to EtO 
-sterilization that FDA believes may affect a device’s safety and effectiveness and may involve 
-moving the site in which manufacturing activities take place or expanding an existing site, 
-building a new facility or establishment, or moving equipment within a facility. The table 
-describes when a particular scenario would be considered “use [of] a different facility or 
-establishment” for which a manufacturer should file a PMA or HDE site change supplement per 
-FDA’s Site Change Supplement Guidance.26 
-26 Supra note 10. 
-For those PMA or HDE site change scenarios not 
-outlined under Table 1, FDA recommends that a manufacturer evaluate the Site Change 
-Supplement Guidance to help determine whether that scenario may affect device safety or 
-effectiveness.27 
-27 Id. 
-12
-
----
-
-<!-- Page 16 -->
-Contains Nonbinding Recommendations 
-Table 1 
-Types of Manufacturing Site Changes that May Affect Device Safety or Effectiveness 
-1) Moving EtO sterilization activities for a finished device from one site to a new 
-manufacturing site, both of which were approved as part of the PMA or HDE 
-application or a PMA or HDE supplement for the subject device if the moved 
-sterilization activities are not already conducted at the new manufacturing site. 
-2) Moving EtO sterilization activities for a finished device to a new manufacturing site 
-that was not part of the PMA or HDE application or a PMA or HDE supplement for 
-the subject device. (This includes moving activities to a new or additional site.) 
-3) Moving EtO sterilization activities for a finished device from a contract 
-manufacturer included in the PMA or HDE application or a PMA or HDE 
-supplement to an in-house facility previously approved in the PMA or HDE 
-application or a PMA or HDE supplement for sterilization activities not already 
-conducted in-house for the finished device. 
-4) Moving EtO sterilization activities for a finished device to a contract manufacturer 
-not approved as part of the PMA or HDE application or a PMA or HDE supplement. 
-Illustrative examples are provided below that correspond with each situation identified in 
-Table 1. 
-1) Moving EtO sterilization activities for a finished device from one site to a new 
-manufacturing site, both of which were approved as part of the PMA or HDE application 
-or a PMA or HDE supplement for the subject device if the moved EtO sterilization 
-activities are not already conducted at the new manufacturing site. 
-For example, Company A, an applicant, received approval of a PMA application 
-that included manufacturing cardiovascular catheters at the firm’s Any Town, NY 
-site and sterilizing them using EtO at the firm’s Somewhere, CA site. Company A 
-now plans to move the EtO sterilization process into the Any Town, NY facility 
-that manufactures the catheters after receiving information about a possible 
-reduction in EtO sterilization activity at the firm’s Somewhere, CA site. However, 
-the Any Town, NY facility has no previous experience with this sterilization 
-process for this device, and this move may affect the device’s safety or 
-effectiveness. 
-2) Moving EtO sterilization activities for a finished device to a new manufacturing site that 
-was not part of the PMA or HDE application or a PMA or HDE supplement for the 
-subject device. (This includes moving activities to a new or additional site.) 
-For example, Company B, an applicant, received approval to conduct EtO 
-sterilization for a spinal disc replacement device at its site in Hometown, NY. 
-Company B now plans to sterilize the device at another site in Anywhere, CA due 
-to concerns about a potential closure of their existing sterilization site. The 
-Anywhere, CA site was not included in the PMA application for the subject 
-device. 
-13
-
----
-
-<!-- Page 17 -->
-Contains Nonbinding Recommendations 
-For example, Company B, an applicant, received approval to conduct EtO 
-sterilization for a spinal disc replacement device at its site in Hometown, NY. 
-There is a concern that the site in Hometown, NY may experience a reduction in 
-sterilization activity. To enhance supply chain stability, Company B is planning to 
-sterilize the device at an additional site in Anywhere, CA. The Anywhere, CA site 
-was not included in the PMA application for the subject device. 
-3) Moving EtO sterilization activities for a finished device from a contract manufacturer 
-included in the PMA or HDE application or a PMA or HDE supplement to an in-house 
-facility previously approved in the PMA or HDE application or a PMA or HDE 
-supplement for EtO sterilization activities not already conducted in-house for the finished 
-device. 
-For example, Company C, an applicant, uses contract manufacturer ABC to 
-perform EtO sterilization for components of their spinal cord stimulation system. 
-Company C plans on moving EtO sterilization in-house as contract manufacturer 
-ABC temporarily stops operations to undergo construction to minimize ethylene 
-oxide emissions. This change will require Company C to perform manufacturing 
-steps that it does not currently perform in-house for the PMA device. 
-4) Moving EtO sterilization activities for a finished device to a contract manufacturer not 
-approved as part of the PMA or HDE application or a PMA or HDE supplement. 
-For example, Company D, an applicant, manufactures permanent defibrillator 
-electrodes. The PMA was approved for DEF, Inc. to sterilize the defibrillator 
-electrodes using EtO. Company D learns that DEF, Inc. will be closing within a 
-year and will no longer be able to sterilize the devices. Company D plans to move 
-EtO sterilization of the defibrillator electrodes to another contract sterilizer who 
-uses EtO that was not part of the PMA application or a PMA supplement. 
-B. 
-What should be submitted in the site change supplement? 
-Under 21 CFR 814.39(c), the PMA supplement must contain information needed to support the 
-use of a different facility or establishment to manufacture, process, or package the device. In 
-order to approve a site change supplement, the information submitted must show that, for the 
-different site, the methods used in the manufacture and processing (i.e., sterilization) of the 
-device conform to the requirements of the QS regulation, 21 CFR Part 820. See sections 
-515(c)(1)(C), 515(d)(2)(C) and 520(f) of the FD&C Act, 21 U.S.C. §§ 360e(c)(1)(C), 
-360e(d)(2)(C) and 360j(f). 
-FDA recommends that manufacturers considering submission of a PMA or HDE site change 
-supplement to support a sterilization site change as discussed in this guidance review the 
-information in the Site Change Supplement Guidance.28 
-28 Supra note 10. 
-Section IV.B. of that guidance includes 
-helpful information regarding the recommended content of a site change supplement. In addition 
-14
-
----
-
-<!-- Page 18 -->
-Contains Nonbinding Recommendations 
-to the recommendations in that guidance, FDA also recommends that manufacturers who choose 
-to have FDA consider whether the exercise of enforcement discretion relating to the 
-implementation of certain types of sterilization site changes is appropriate include in their site 
-change supplement a cover letter29 
-29 For further information on the contents of a cover letter, please refer to the FDA guidance “Quality System 
-Information for Certain Premarket Application Reviews – Guidance for Industry and FDA Staff” available at 
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/quality-system-information-certain-
-premarket-application-reviews 
-containing a statement that the FDA was previously notified 
-about the EtO sterilization site change as per the FDA guidance, “Transitional Enforcement 
-Policy for Ethylene Oxide Sterilization Facility Changes for Class III Devices.” Additionally, we 
-recommend that the submitter provide process validation or revalidation protocols and completed 
-reports for all the processes that require validation in their site change supplement. 
-C. 
-Determining whether an inspection may be needed. 
-As with an original premarket approval application, a supplemental premarket approval 
-application may be approved if it meets the applicable statutory and regulatory requirements. 
-One such requirement is that the methods used in, or the facilities or controls used for, the 
-manufacture, processing, packaging, storage, or installation of a device conforms to the 
-requirements of section 520(f) of the FD&C Act. A preapproval inspection for a site change 
-supplement may be appropriate or necessary for FDA to find that the methods used in, or the 
-facilities or controls used for, the manufacture, processing, packaging, storage or installation of 
-the device conform to the requirements of the QS regulation, 21 CFR Part 820.30 
-30 See 21 C.F.R. 814.44(e)(1)(iii). 
-FDA 
-anticipates that manufacturers who choose to have FDA consider whether the exercise of 
-enforcement discretion relating to the implementation of certain types of sterilization site 
-changes is appropriate may also consider the possibility that the new site may need to be 
-inspected prior to approval of the sterilization site change supplement. We recommend 
-manufacturers review Section IV.C. of the Site Change Supplement Guidance31 
-31 Supra note 10. 
-for helpful 
-information regarding determining whether an inspection may be needed prior to the approval of 
-a sterilization site change supplement. 
-In developing this policy, FDA’s intent is to help foster continued availability of medical devices 
-while being flexible regarding EtO sterilization facility changes where the modification does not 
-create an undue risk to public health or safety considering the specific technological 
-characteristics of the device and its intended use, and is appropriate or necessary to prevent or 
-mitigate current manufacturing limitations or potential supply chain issues due to a potential, 
-actual, or temporary stop or reduction of operations at an EtO sterilization facility. Therefore, 
-CDRH and CBER intend to consider the factors outlined in the Site Change Supplement 
-guidance when determining the need for an inspection in light of any potential device supply 
-chain disruptions. While CDRH and CBER generally do not intend to require a pre-approval 
-inspection before confirming our intention not to object to the use of an alternate sterilization 
-facility or prior to approval of the PMA or HDE supplement when the sterilization site has a 
-history of compliance with applicable regulations, there may be situations where FDA may 
-15
-
----
-
-<!-- Page 19 -->
-Contains Nonbinding Recommendations 
-conduct an inspection prior to approval of the PMA or HDE supplement or a postmarket 
-inspection following approval of the PMA or HDE supplement. 
-VII. Appendix 
-A. 
-Appendix A – Notification Example 
-The following is a hypothetical example of a notification submitted by a Class III device 
-manufacturer to inform the Agency of a sterilization facility closure that will warrant a 
-sterilization site change to help prevent and minimize potential supply disruptions. This example 
-is intended to be illustrative of how information can be provided in the notification described 
-under Section V.C. of this guidance. 
-Identifier Information 
-· Device/Trade Name: Device X 
-· PMA Number: P123456 
-· Sponsor/Applicant Name and Address: 
-Any Company. Inc. 
-456 Some Place Street 
-Anywhere, CA 12345 
-· Contact Information: 
-Jane Doe, RAC 
-Regulatory Affairs Manager 
-email@email.com 
-(123) 123-4567 
-Reason for the Notification 
-Any Company, Inc. manufactures Device X, which are permanent pacemaker electrodes that are 
-currently sterilized via ethylene oxide at Sterilization Company, Inc. (FEI #: 1002003000). Any 
-Company, Inc. is submitting this notification to inform the FDA that Sterilization Company, Inc. 
-will be shutting down their facility in eight months to undergo construction to minimize ethylene 
-oxide emissions. Construction is expected to last approximately 1 year. 
-In order to prevent and minimize potential supply disruptions of Device X, we are submitting 
-this notification to FDA to propose an alternate sterilization site, Sterilizers R Us (FEI #: 
-1001001000), and request a determination as to whether FDA would intend to not object to 
-implementation of that alternate sterilization site, as described under the FDA guidance, 
-“Transitional Enforcement Policy for Ethylene Oxide Sterilization Facility Changes for Class III 
-Devices.” We are planning to implement this site change on December 15, 2025. 
-16
-
----
-
-<!-- Page 20 -->
-Contains Nonbinding Recommendations 
-Sterilization Facility Information 
-Current Sterilization Site 
-Prospective Sterilization Site 
-Sterilization Company, Inc. 
-123 Hollywood Drive 
-Anywhere, CA 54321 
-FEI #: 1002003000 
-Sterilizers R Us 
-200 Somewhere Avenue 
-Any Town, NY 56789 
-FEI #: 1001001000 
-Site approved as part of the original PMA or 
-a PMA supplement? Yes 
-Site approved as part of the original PMA or 
-a PMA supplement? No 
-Site ready for FDA inspection? Yes 
-Site ready for FDA inspection? Yes 
-· Date of site change implementation: December 15, 2025 
-· A signed statement, provided as a PDF attachment, affirming that: 
-o The notification pertains to a Class III device that is not considered a 
-combination product. 
-o No changes have been made to device design, specifications, or materials or to 
-packaging. 
-o No changes have been made to the sterilization process apart from the location of 
-the sterilization facilities. This includes no changes to a different sterilant, 
-success criteria for the cycle, and the sterility assurance level (SAL). 
-See attachment titled Statement of Affirmation. 
-· A brief summary of any changes to the sterilization process that may result from the site 
-change. Device X is a single-use sterile device currently sterilized by ethylene oxide at 
-Sterilization Company, Inc., which was approved under P123456. The chamber 
-dimensions and load configuration for Device X remains unchanged. The table below 
-provides a summary of the current sterilization parameters utilized at Sterilization 
-Company, Inc. as compared to the proposed sterilization process to be used at Sterilizers 
-R Us.32 
-32 This table is an example of a format that may be used to present an overview of cycle information in the 
-notification. The specific information provided may vary based on the specific process parameters used in individual 
-sterilization processes. 
-Current Site 
-Proposed Site 
-Cycle 1 
-Sterilization Company, Inc. 
-Cycle 5 
-Sterilizers R Us 
-Parameter 
-Set Point 
-Tolerance 
-Set Point 
-Tolerance 
-Preconditioning 
-Temperature 
-%RH 
-Time 
-Initial Vacuum Level & Rate 
-Load %RH Range at End of 
-Conditioning 
-EO Gas Concentration 
-EO Exposure Time 
-17
-
----
-
-<!-- Page 21 -->
-Contains Nonbinding Recommendations 
-Temperature During Exposure 
-Gas Wash Pressure 
-Vacuum Level 
-Rate of Vacuum 
-Aeration Temperature 
-B. 
-Appendix B – Statement of Affirmation Format 
-I certify that, in my capacity as (the position held in company) of (company name), I affirm that 
-to the best of my knowledge, that: 
-· This notification pertains to a Class III device that is not considered a combination 
-product. 
-· No changes have been made to device design, specifications, or materials or to 
-packaging. 
-· No changes have been made to the sterilization process apart from the location of the 
-sterilization facilities. This includes no changes to a different sterilant, success criteria for 
-the cycle, and the sterility assurance level (SAL). 
-(Signature) 
-(Typed Name) 
-(Date) 
-(Original PMA or HDE Number) 
+This guidance represents the current thinking of the Food and Drug Administration (FDA or Agency) on this topic.  It does not establish any rights for any person and is not binding on
+FDA or the public.  You can use an alternative approach if it satisfies the requirements of the applicable statutes and regulations. To discuss an alternative approach, contact the FDA staff or Office responsible for this guidance as listed on the title page.
+## I. Introduction
+The Food and Drug Administration (FDA or the Agency) plays a critical role in helping to protect the medical device supply chain and to prevent and mitigate potential medical product impacts. As part of this work, FDA closely monitors the supply chain effects of temporary or permanent closures and potential closures or capacity reductions of sterilization facilities that use a gas called ethylene oxide (EtO) to sterilize medical devices prior to their use to help prevent and minimize impacts to patients who need access to these sterile medical devices.
+In April 2024, the Environmental Protection Agency (EPA) published a final rule to amend its
+National Emission Standards for Hazardous Air Pollutants (NESHAP), which revised EPA’s existing standards and established new standards for previously unregulated EtO emissions.1
+Sterilization Facilities Residual Risk and Technology Review,” 89 Fed. Reg. 24,090 (April 5, 2024). For a summary of EPA’s final rule for revised national emission standards for EtO, a history of the rule, and links to additional resources, see EPA’s website: https://www.epa.gov/stationary-sources-air-pollution/ethylene-oxide-emissionsstandards-sterilization-facilities..
+EPA is also conducting a registration review of EtO and issued a proposed interim decision in April 2023.2
+Regulations for Registration Review at 40 CFR part 155, subpart C, the EPA is conducting a registration review of ethylene oxide. In April 2023, the EPA issued a proposed interim decision, which is available at https://www.regulations.gov/docket/EPA-HQ-OPP-2013-0244/document.
+Some companies involved in medical device sterilization have installed or are already planning for installation of emissions controls to comply with EPA’s final rule and to anticipate steps they may take related to the registration review, if finalized. FDA anticipates that some EtO sterilization facilities will need to install new or additional controls or make changes to their operations as they prepare to comply with EPA’s final rule (which sets April 6, 2026 as the earliest applicable compliance deadline), and that some facilities may either reduce their sterilization operations or seek to change the location of their sterilization operations during this period of transition. In EPA’s final rule to amend the NESHAP, EPA communicated that it expects reduction in EtO emissions will lower the risk of adverse health effects, including cancer, for individuals in communities near commercial sterilization facilities.3
+Sterilization Facilities Residual Risk and Technology Review,” 89 Fed. Reg. 24,090 (April 5, 2024).
+FDA also understands the importance of EtO in sterilizing a number of medical devices, and believes it is important to maintain the nation’s supply of sterile medical devices while reducing the harmful impacts of EtO use on public health while facilities work to comply with EPA’s rule.
+To that end, FDA is issuing this guidance to provide an enforcement discretion policy to respond to anticipated changes in EtO sterilization activities as facilities work to advance orderly implementation of and compliance with EPA’s rule, and prevent or mitigate the potential risk of supply chain disruptions or medical device shortages during the time period in which manufacturers are transitioning to compliance with new requirements. As described in the guidance, FDA will be making case-by-case decisions as to whether the exercise of enforcement discretion related to such sterilization changes is appropriate. At this time, based on our understanding of the potential impact on sterilization activities as facilities come into compliance with EPA’s rule and potential future action on the interim decision for EtO, if finalized, we anticipate that this enforcement discretion will likely no longer be appropriate after three years and thus anticipate declining any requests after that time. If this view changes, FDA intends to revise this guidance (e.g., extend, modify, or replace the policy in this guidance).4
+4 FDA recognizes that this enforcement discretion policy is unlikely to be necessary after compliance with EPA’s rule is achieved – as of April 2026 or April 2027, depending on the applicable compliance deadline. However, due to uncertainty regarding the timing of potential EPA action on the proposed interim decision, FDA has provided additional time to ensure orderly implementation of both the rule and that potential future action.
+This guidance is being issued without prior public comment, but it remains subject to comment in accordance with the Agency’s good guidance practices.5
+21 C.F.R. 10.115(g)(2).
+FDA has determined that prior public participation for this guidance is not feasible or appropriate because immediate implementation of this guidance is needed to help protect the sterile device supply chain. FDA believes that the enforcement discretion policy described in this guidance will provide an option for facilities that can help them prevent and mitigate possible interruptions in sterile device processing and help maintain adequate supplies of finished sterile medical devices during the time period in which manufacturers are transitioning to compliance with new requirements. Expedited sterilization site changes may be appropriate due to ongoing changes in the medical device sterilization landscape in order to reduce the impact of potential, actual, or temporary operation reductions at sterilization facilities. FDA will continue to work with developers, other agencies, and stakeholders to explore effective, efficient, and innovative solutions that will help maintain a strong supply of medical devices.
+In general, FDA’s guidance documents do not establish legally enforceable responsibilities.
+Instead, guidances describe the Agency’s current thinking on a topic and should be viewed only as recommendations, unless specific regulatory or statutory requirements are cited. The use of the word should in Agency guidances means that something is suggested or recommended, but not required.
+## II. Background
+Although medical devices can be sterilized by several methods, EtO is the most common method of terminal sterilization of medical devices in the US and is a well-established and scientifically proven method of preventing harmful microorganisms from reproducing and causing infections.
+More than 20 billion devices sold in the U.S. every year are sterilized with EtO, accounting for approximately 50 percent of devices that require sterilization.6
+For many medical devices, sterilization with EtO may be the only method that effectively sterilizes and does not damage the device during the sterilization process. Medical devices made from certain materials such as polymers (plastic or resin), metals, or glass, or that have multiple layers of packaging or hard-to-reach places (for example, catheters) are often sterilized with EtO.
+Devices sterilized with EtO range from wound dressings to more specialized devices, like stents, as well as kits used in routine hospital procedures or surgeries that include multiple components made of different materials.
+FDA recognizes, however, that sterilization with EtO also involves public health risks. FDA has taken several actions to encourage new, innovative ways to sterilize medical devices while reducing the potential impact on the environment and on the public health.7
+7 Information on FDA’s ongoing efforts to support the sterile medical device supply chain and ensure safe, effective sterilization of medical devices can be found on our “Sterilization for Medical Devices” webpage, available at https://www.fda.gov/medical-devices/general-hospital-devices-and-supplies/sterilization-medical-devices.
+In addition, the US
+Environmental Protection Agency, as part of its statutory mandate under the Clean Air Act to promote the public health and welfare and the productive capacity of the population and to remove unacceptable health risks,8
+8 See, e.g., 42 U.S.C. §§ 7401(b)(1), 7412(f)(2).
+reviews and enforces the Clean Air Act regulations applicable to sterilization facilities that emit EtO. In April 2024, as noted above, the EPA published a final rule to amend its National Emission Standards for Hazardous Air Pollutants, which revised EPA’s existing standards and established new standards for previously unregulated EtO emissions.9
+Sterilization Facilities Residual Risk and Technology Review,” 89 Fed. Reg. 24,090 (April 5, 2024).
+Implementing the new emission requirements will likely require some EtO sterilization facilities to install controls or make changes to their operations, and may result in temporary reductions in sterilization operations at some facilities or shifts in the location of sterilization operations. FDA is issuing this guidance in response to these anticipated changes in sterilization operations, helping to prevent or mitigate the potential risk of medical device supply chain disruptions or shortages.
+In general, under section 515(d)(5) of the Federal Food, Drug, and Cosmetic (FD&C) Act, 21 U.S.C. § 360e(d)(5), a supplemental application to an approved premarket application (PMA) must be submitted for review and approval by FDA before making a change that affects the device’s safety or effectiveness. Under 21 CFR 814.39(a)(3), a device sponsor must submit a PMA supplement when it uses “a different facility or establishment to manufacture, process, or package the device,” and the change affects the device’s safety or effectiveness. Under 21 CFR 814.108 and 814.114, the holder of a humanitarian device exemption (HDE) also must submit site change supplements. Accordingly, sponsors of devices sterilized using EtO generally would be required to obtain FDA approval prior to making a change to the facility at which its devices are sterilized. Under the enforcement discretion policy set forth in this guidance, FDA intends to evaluate specific case-by-case situations related to certain kinds of sterilization site changes such that the Agency’s exercise of enforcement discretion may help device manufacturers more quickly and proactively secure alternative locations for the EtO sterilization of certain devices to prevent and minimize potential supply disruptions.
+This document is intended to be considered alongside other applicable FDA guidance documents, such as “Manufacturing Site Change Supplements: Content and Submission10
+10 For further information on the PMA supplement decision-making process, please refer to this guidance, available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/manufacturing-site-changesupplements-content-and-submission.
+,”
+(hereafter “Site Change Supplements Guidance”) issued December 17, 2018. The Site Change
+Supplements Guidance explains (a) what constitutes a manufacturing site change and when a device sponsor or applicant should submit a PMA supplement for a site change; (b) what documentation should be included in a site change supplement; and (c) the general factors FDA intends to consider when determining whether to conduct an establishment inspection prior to approval of a site change supplement.11
+11 This also includes such enforcement policies such as those described in FDA guidance document, “Enforcement
+Policy for Certain Supplements for Approved Premarket Approval (PMA) or Humanitarian Device Exemption (HDE) Submissions”, available at https://www.fda.gov/regulatory-information/search-fda-guidancedocuments/enforcement-policy-certain-supplements-approved-premarket-approval-pma-or-humanitarian-device.
+This guidance document is intended to provide information regarding what guiding principles
+FDA will consider and what types of information submitted by industry would be helpful to the
+Agency in making a determination of whether the Agency intends to not object to sterilization site changes geared specifically to PMA and HDE holders of approved Class III devices sterilized by EtO prior to the approval of a PMA or HDE supplement, during the time period in which manufacturers are transitioning to compliance with new requirements. FDA is leveraging lessons learned from CDRH’s EtO Sterilization Master File Pilot Program for PMA approved devices regarding how device sterilization changes are managed between manufacturers and sterilizers to develop this approach for EtO sterilization site changes.12
+12 The Federal Register notice for CDRH’s Ethylene Oxide Sterilization Master File Pilot Program is available at https://www.federalregister.gov/documents/2019/11/26/2019-25631/center-for-devices-and-radiological-healthethylene-oxide-sterilization-master-file-pilot-program.
+This approach is intended to help firms manage the possible timeframes associated with implementing changes in the manufacturing site and any related processes, methods, procedures, qualifications, and validations to help prevent and minimize potential impacts to the supply chain for EtO-sterilized Class III devices.
+## III. Scope
+This guidance document is intended to describe information that certain PMA and HDE holders of Class III devices sterilized by EtO with products that might be or are affected by potential, actual, or temporary stops or reductions in operations at a sterilization facility during the time period in which manufacturers are transitioning to compliance with new requirements, should provide to FDA if a PMA or HDE holder wishes to have FDA consider whether the exercise of enforcement discretion relating to the implementation of certain types of sterilization site changes is appropriate. Such changes, described in further detail below, generally will involve the planned use of an alternative facility to sterilize products (e.g., before a PMA supplement detailing the switch to such an alternative facility is approved by FDA).
+In particular, this guidance document explains the guiding principles FDA intends to consider in its determination of whether to exercise enforcement discretion related to certain types of sterilization site changes, and what kinds of information from a PMA or HDE holder, submitted voluntarily, would be helpful in determining whether the Agency’s exercise of enforcement discretion is appropriate. Should a PMA or HDE holder wish to submit such information to FDA in evaluating whether enforcement discretion is appropriate in a specific case, FDA recommends that such information be provided through an informal notification to the Agency regarding a proposed sterilization facility site change to help prevent and mitigate potential, actual, or temporary stops or reductions in operations at an EtO sterilization facility previously approved by FDA that may affect the availability of some sterile medical devices.
+As described in further detail below, FDA intends to evaluate the information voluntarily provided by a PMA or HDE holder in an informal notification for the purpose of making a determination as to whether enforcement discretion is appropriate.
+This guidance uses the term “site” to encompass both establishments and facilities.
+“Establishment” and “facility” are not defined in 21 CFR Part 814. For purposes of this guidance, FDA is using the term “establishment” as defined in 21 CFR 807.3(c), which means a place of business under one management at one general physical location at which a device is manufactured, assembled, or otherwise processed. FDA is defining the term “facility” for purposes of this guidance to mean the physical structures or buildings within an “establishment.”
+Please note that this guidance document only applies to PMA holders and HDE holders of Class III devices provided sterile and for single-use that are sterilized by ethylene oxide (either in a fixed, rigid chamber, or in a flexible bag system).
+This guidance does not apply to sterilization site changes for: · Class III devices (PMA or HDE) sterilized by other sterilization methods (e.g., dry heat, moist heat or steam, radiation, hydrogen peroxide, ozone, etc.).
+- Class III devices (PMA or HDE) where the site change includes a change in sterilant (e.g., a change from using EtO to using a different sterilant, or from using a different sterilant to EtO).
+- Combination products.13
+14 Devices cleared under 510(k) submissions are outside the scope of this guidance because FDA guidance, Deciding
+When to Submit a 510(k) for a Change to an Existing Device, recommends that changes to an EtO sterilization process for previously cleared devices sterilized with EtO are unlikely to require submission of a new 510(k) if the change to the EtO sterilization process could not significantly affect the performance or biocompatibility of the device. This guidance is available at https://www.fda.gov/regulatory-information/search-fda-guidancedocuments/deciding-when-submit-510k-change-existing-device.
+- Devices licensed under section 351 of the Public Health Service Act.15
+Additionally, this guidance does not apply to other changes for which an applicant may submit a PMA or HDE supplement including but not limited to, the following types of changes if they effect the safety or effectiveness of the device: · New indications for use of the device.
+- Labeling changes.
+- The use of a different facility or establishment to manufacture, process, or package the device outside of sterilization.
+- Changes in packaging.
+- Changes in the performance or design specifications, circuits, components, ingredients, principle of operation, or physical layout of the device.
+- Extension of the expiration date of the device based on data obtained under a new or revised stability or sterility testing protocol that has not been approved by FDA.
+This guidance does not apply to 506J notifications submitted by device manufacturers under
+Section 506J of the Federal Food, Drug, and Cosmetic Act (FD&C Act).16
+Section 506J of the FD&C Act”, issued November 2023, available at https://www.fda.gov/regulatoryinformation/search-fda-guidance-documents/notifying-fda-permanent-discontinuance-or-interruptionmanufacturing-device-under-section-506j-fdc.
+## IV. Policy
+The recommendations in this guidance are part of FDA’s efforts to help ensure the availability of safe, effective, and high-quality Class III devices. FDA believes that the recommendations herein may help prevent and mitigate potential medical device shortages caused by a potential, actual, or temporary stop or reduction of operations of certain EtO sterilization facilities while protecting patient safety, during the time period in which manufacturers are transitioning to compliance with new requirements, by taking a risk-based approach.
+For devices subject to PMA or HDE requirements, submission of a 180-day PMA site change supplement or 75-day HDE site change supplement is required prior to use of a different manufacturing site17
+17 A “different site” for which a site change supplement should be submitted is described under Section V.A. of the Site Change Supplement Guidance. Supra note 10.
+that affects the device’s safety or effectiveness.18
+However, to prevent and mitigate potential concerns with medical device availability that may result from changes in sterilization operations during the time period in which manufacturers are transitioning to compliance with new requirements, FDA seeks to facilitate sterilization site changes more quickly to help prevent and minimize potential supply interruptions.
+This policy outlines the general framework wherein FDA will determine, on a case-by-case basis, whether the exercise of enforcement discretion related to the sterilization of Class III devices at a proposed new sterilization location and subsequent distribution of such devices prior to approval of a PMA or HDE site change supplement is appropriate. FDA recommends that device manufacturers who wish to have FDA consider the exercise of enforcement discretion related to the implementation of a sterilization site change and subsequent distribution of sterile devices submit an informal notification as recommended in Section V.
+Following receipt of this informal notification, FDA will evaluate the information and issue correspondence to a PMA or HDE holder with its determination of whether enforcement discretion is appropriate in a given case. Where enforcement discretion is determined to be appropriate, FDA does not intend to object to a device manufacturer beginning sterilization of the subject device(s) at the proposed alternate sterilization facility prior to approval of the required PMA or HDE site change supplement. Once the correspondence is issued to the PMA or HDE holder that enforcement discretion is appropriate for their specific case, the device manufacturer should begin preparing a PMA 180-day site change supplement or HDE 75-day site change supplement for submission to FDA within 120 calendar days. If enforcement discretion is determined to not be appropriate, a PMA or HDE holder may still submit a site change supplement to be reviewed according to the normal timeline for this type of supplement.19
+Upon receipt of the PMA 180-day site change supplement or HDE 75-day site change supplement, FDA intends to conduct an expedited review of the supplement and make a determination on the proposed sterilization site change consistent with 21 CFR Part 814.
+If FDA exercises enforcement discretion to not object to the sterilization of a device at a new facility and subsequent distribution of that device but a corresponding PMA or HDE site change supplement is ultimately not approved or timely submitted, FDA may take additional action appropriate to the specific situation and reason(s) for which the supplement was not approved.
+For example, FDA may request that the manufacturer cease distribution of the device until a subsequent site change supplement for the change is approved or may request a recall of distributed product.
+### V. Notifying FDA of a Potential Ethylene Oxide Sterilization Facility Change
+### A. In General
+This section provides information for device manufacturers who would like to submit an informal notification because they wish to have FDA consider the exercise of enforcement discretion related to the implementation of a sterilization site change and subsequent distribution of sterile devices. Class III device manufacturers whose products are affected by a potential, actual, or temporary stop, or reduction of operations at an EtO sterilization facility and are planning to use an alternate sterilization facility may notify FDA once they are aware of such a potential temporary or permanent facility closure or reduction of operations.
+If a manufacturer is not certain whether to notify FDA about a potential EtO sterilization facility closure or reduction of operations, we recommend the manufacturer contact the Agency at CDRH-ETO-SiteChange@fda.hhs.gov for devices regulated by CDRH or the appropriate review office in the Center for Biologics Evaluation and Research for devices regulated by CBER.
+### B. When to Notify
+Irrespective of whether a PMA or HDE holder wishes to have FDA consider the exercise of enforcement discretion as detailed in this guidance, FDA notes that as a general matter, and consistent with current guidance on Section 506J of the FD&C Act, device manufacturers are encouraged to voluntarily notify the Agency with information on potential supply chain issues that may result from a temporary or permanent closure or reduction of sterilization activities at an EtO sterilization facility.20 Early awareness of a potential change in operations and any potential impacts on the supply chain enables the FDA to work proactively with stakeholders to develop a plan to protect patient care.
+For the purposes of this guidance, FDA intends to evaluate information related to potential supply chain issues that may result from temporary or permanent closures or reductions of sterilization activities at an EtO sterilization facility primarily to determine whether the exercise of enforcement discretion in a particular case is appropriate. FDA recommends that such information be submitted in an informal notification to FDA when manufacturers determine that there is a potential, actual, or temporary stop or reduction of operations of certain EtO 20 See, e.g., “Notifying FDA of a Permanent Discontinuance or Interruption in Manufacturing of a Device Under
+Section 506J of the FD&C Act”, issued November 2023, available at https://www.fda.gov/regulatoryinformation/search-fda-guidance-documents/notifying-fda-permanent-discontinuance-or-interruptionmanufacturing-device-under-section-506j-fdc.
+sterilization facilities such that a change in EtO sterilization sites may be warranted to prevent and mitigate potential impacts to supply chains for EtO-sterilized Class III devices.
+### C. Information Recommended for Inclusion in the Notification
+When a manufacturer chooses to notify the Agency that there may be potential supply chain issues with their device due to a temporary or permanent closure or reduction of sterilization activities at an EtO sterilization facility, the following recommended information provided in the notification will help enable FDA to identify the specific device(s) impacted: · Device/trade name, associated product code(s), and the PMA or HDE number for the device. This is the marketing submission number (i.e., original PMA or HDE number) under which the device was approved.
+- Sponsor/applicant name, address, and contact information, including a main contact person, title, email address, and phone number.
+- Reason for the notification.21
+21 The reason for the notification, along with other information described in Section C, is consistent with information
+FDA normally requires as a part of a PMA (or HDE) supplement under the Part 814 regulations. See 21 CFR 814.39(c)(1) (“information required in a supplement is limited to that needed to support the change . . . [including] information relevant to the proposed changes [and] a separate section that identifies each change for which approval is being requested and explains the reason for such change.”).
+Additionally, FDA recommends that manufacturers include the following sterilization related information in their notification. Having this information enables FDA to appropriately identify the specific sterilization sites that are affected and evaluate any potential impacts of the notification.
+- The site(s) at which sterilization currently takes place, including the name, address, and
+FDA Establishment Identification (FEI) number of the facility.
+- The proposed new or additional site where sterilization will take place, including the name, address, and FDA Establishment Identification (FEI) number of the facility.
+- Identification of whether the proposed sterilization site(s) were previously cleared under the original PMA or HDE or a PMA or HDE supplement.
+- Identification of whether current and proposed alternate/additional sterilization sites are ready for FDA inspection, if applicable.
+- The date on which the site change will be implemented.
+- A brief summary of any changes to the sterilization process that may result from the site change. This includes a description of any changes in sterilization equipment, e.g., manufacturer, model, chamber size. This information may be provided as a set of statements or in a tabular format.
+FDA also recommends that the notification include a signed statement, provided as a PDF attachment, affirming that: · The notification pertains to a Class III device that is not considered a combination product.
+- No changes have been made to the device’s: o Indications for use; o Labeling; o Facilities or establishments used for manufacturing, processing, or packaging the device outside of sterilization; o Packaging; o Performance or design specifications, circuits, components, ingredients, principle of operation, or physical layout of the device; o Expiration date based on data obtained under a new or revised stability or sterility testing protocol that has not been approved by FDA; o Or any other change that affects the safety or effectiveness of the device.
+- No changes have been made to the sterilization process apart from the location of the sterilization facilities and those changes necessary to facilitate a change in location (e.g., no change to a different sterilant, release criteria for the cycle, the sterility assurance level (SAL), and no major changes to critical sterilization process parameters).
+The statement of affirmation should be signed by a responsible person of the firm required to submit the premarket approval supplement (e.g., not a consultant for the PMA or HDE submitter). This information will help FDA identify whether the proposed sterilization site change is within the scope of the policy described in this guidance.
+Appendix A of this guidance provides an example of the information that FDA recommends be
+included in the notification. Appendix B of this guidance provides an example of the format that could be used for the statement of affirmation.
+Any information provided to the FDA that is trade secret or confidential information will be subject to 5 U.S.C. § 552(b)(4), 18 U.S.C. § 1905, and other applicable statutes and regulations.
+### D. How to Notify
+Manufacturers can notify the FDA of a potential, actual, or temporary stop or reduction of operations at an EtO sterilization facility that will result in a site change by either sending an email to CDRH-ETO-SiteChange@fda.hhs.gov, or by contacting the appropriate review office within CBER. Section V.C. of this guidance outlines the info we recommend including in the email.
+### E. FDA Review of Notification
+FDA will carefully review each notification received and make case-by-case decisions on whether the exercise of enforcement discretion related to sterilization at the proposed new location and subsequent distribution of Class III devices prior to submission and approval of a PMA or HDE site change supplement is appropriate. These decisions will be based on the information provided in the notification, along with relevant information and data available to the Agency. The other information FDA may consider in making these case-by-case decisions includes, but is not limited to: · Indications of potential supply disruptions (e.g., 506J notifications, voluntary manufacturer information, or FDA shortage assessments).
+- Identification of whether the change in manufacturing facility or establishment involves an alternative site that is in compliance with 21 CFR Part 820 or similar quality systems standards (e.g., ISO 13485)).
+In determining whether to object to a device manufacturer implementing sterilization of the subject device at the alternate sterilization facility being proposed, FDA intends to consider the entirety of relevant information and data available to the Agency at the time of a decision. FDA will communicate its decision to the manufacturer via correspondence after considering the information included in the manufacturer’s notification.
+If FDA indicates that it does not intend to object to sterilization of Class III devices at the proposed new location and subsequent distribution prior to submission and approval of a PMA or HDE site change supplement and the device manufacturer proceeds with the change, FDA recommends that the device manufacturer promptly inform FDA of any issues encountered related to implementation of the sterilization facility change. In the interim, a manufacturer should: · Successfully complete process verification and validation testing prior to device distribution.
+- Prepare a PMA 180-day (or HDE 75-day) site change supplement22 Alternatively, if FDA indicates that the exercise of enforcement discretion related to the implementation of the alternate sterilization facility is not appropriate, the Agency intends to provide an explanation of its decision. FDA also provides notification of approved PMA or HDE supplements in the publicly available PMA and HDE databases.23
+## VI. Considerations for Sterilization Site Change
+Supplements for Intended Ethylene Oxide Sterilization Site Changes
+### A. What manufacturing site changes require a site change supplement?
+For purposes of this guidance, FDA references Section V of the Site Change Supplement Guidance 25
+25 Supra note 10.
+, reproduced here, to detail the types of manufacturing site changes that likely fall under this enforcement discretion policy.
+Situations where a site change supplement should ordinarily be submitted include: 1) where the site was not approved as part of the original PMA or HDE application or a PMA or HDE supplement; or 2) where the site(s) was approved as part of the original PMA or HDE application or PMA or HDE supplement, but only for the performance of different manufacturing activities.
+Under these circumstances, the different site would not have had experience with either the process or the technology, or a similar process or technology, for manufacturing the same or a similar device, and FDA would not have had the opportunity to evaluate the change because it would not have been evaluated in any way in the PMA or HDE application.
+In such instances, we would consider the change to constitute “the use of a different facility or establishment” under 21 CFR 814.39(a)(3) and the manufacturer should submit a 180-day site change PMA or HDE supplement for review and approval before making the change if the change affects the device’s safety or effectiveness (section 515(d)(5)(A)(i) of FD&C Act). FDA recognizes that a manufacturing site change would rarely involve a completely new manufacturing technology for which the firm has no experience or the manufacture of a dissimilar device at the new site, but for completeness of defining the underlying principle for what constitutes a different site, it is important for FDA to consider both the site’s familiarity with the manufacturing technology and the similarity to the devices manufactured at the site.
+As detailed below, Table 1 addresses various manufacturing site changes relating to EtO sterilization that FDA believes may affect a device’s safety and effectiveness and may involve moving the site in which manufacturing activities take place or expanding an existing site, building a new facility or establishment, or moving equipment within a facility. The table describes when a particular scenario would be considered “use [of] a different facility or establishment” for which a manufacturer should file a PMA or HDE site change supplement per FDA’s Site Change Supplement Guidance.26
+26 Supra note 10.
+For those PMA or HDE site change scenarios not outlined under Table 1, FDA recommends that a manufacturer evaluate the Site Change
+Supplement Guidance to help determine whether that scenario may affect device safety or effectiveness.27
+Table 1
+Types of Manufacturing Site Changes that May Affect Device Safety or Effectiveness 1) Moving EtO sterilization activities for a finished device from one site to a new manufacturing site, both of which were approved as part of the PMA or HDE application or a PMA or HDE supplement for the subject device if the moved sterilization activities are not already conducted at the new manufacturing site.
+2) Moving EtO sterilization activities for a finished device to a new manufacturing site that was not part of the PMA or HDE application or a PMA or HDE supplement for the subject device. (This includes moving activities to a new or additional site.)
+3) Moving EtO sterilization activities for a finished device from a contract manufacturer included in the PMA or HDE application or a PMA or HDE supplement to an in-house facility previously approved in the PMA or HDE application or a PMA or HDE supplement for sterilization activities not already conducted in-house for the finished device.
+4) Moving EtO sterilization activities for a finished device to a contract manufacturer not approved as part of the PMA or HDE application or a PMA or HDE supplement.
+Illustrative examples are provided below that correspond with each situation identified in Table 1.
+1) Moving EtO sterilization activities for a finished device from one site to a new manufacturing site, both of which were approved as part of the PMA or HDE application or a PMA or HDE supplement for the subject device if the moved EtO sterilization activities are not already conducted at the new manufacturing site.
+For example, Company A, an applicant, received approval of a PMA application that included manufacturing cardiovascular catheters at the firm’s Any Town, NY site and sterilizing them using EtO at the firm’s Somewhere, CA site. Company A now plans to move the EtO sterilization process into the Any Town, NY facility that manufactures the catheters after receiving information about a possible reduction in EtO sterilization activity at the firm’s Somewhere, CA site. However, the Any Town, NY facility has no previous experience with this sterilization process for this device, and this move may affect the device’s safety or effectiveness.
+2) Moving EtO sterilization activities for a finished device to a new manufacturing site that was not part of the PMA or HDE application or a PMA or HDE supplement for the subject device. (This includes moving activities to a new or additional site.)
+For example, Company B, an applicant, received approval to conduct EtO sterilization for a spinal disc replacement device at its site in Hometown, NY.
+Company B now plans to sterilize the device at another site in Anywhere, CA due to concerns about a potential closure of their existing sterilization site. The Anywhere, CA site was not included in the PMA application for the subject device.
+For example, Company B, an applicant, received approval to conduct EtO sterilization for a spinal disc replacement device at its site in Hometown, NY.
+There is a concern that the site in Hometown, NY may experience a reduction in sterilization activity. To enhance supply chain stability, Company B is planning to sterilize the device at an additional site in Anywhere, CA. The Anywhere, CA site was not included in the PMA application for the subject device.
+3) Moving EtO sterilization activities for a finished device from a contract manufacturer included in the PMA or HDE application or a PMA or HDE supplement to an in-house facility previously approved in the PMA or HDE application or a PMA or HDE supplement for EtO sterilization activities not already conducted in-house for the finished device.
+For example, Company C, an applicant, uses contract manufacturer ABC to perform EtO sterilization for components of their spinal cord stimulation system.
+Company C plans on moving EtO sterilization in-house as contract manufacturer ABC temporarily stops operations to undergo construction to minimize ethylene oxide emissions. This change will require Company C to perform manufacturing steps that it does not currently perform in-house for the PMA device.
+4) Moving EtO sterilization activities for a finished device to a contract manufacturer not approved as part of the PMA or HDE application or a PMA or HDE supplement.
+For example, Company D, an applicant, manufactures permanent defibrillator electrodes. The PMA was approved for DEF, Inc. to sterilize the defibrillator electrodes using EtO. Company D learns that DEF, Inc. will be closing within a year and will no longer be able to sterilize the devices. Company D plans to move EtO sterilization of the defibrillator electrodes to another contract sterilizer who uses EtO that was not part of the PMA application or a PMA supplement.
+### B. What should be submitted in the site change supplement?
+Under 21 CFR 814.39(c), the PMA supplement must contain information needed to support the use of a different facility or establishment to manufacture, process, or package the device. In order to approve a site change supplement, the information submitted must show that, for the different site, the methods used in the manufacture and processing (i.e., sterilization) of the device conform to the requirements of the QS regulation, 21 CFR Part 820. See sections 515(c)(1)(C), 515(d)(2)(C) and 520(f) of the FD&C Act, 21 U.S.C. §§ 360e(c)(1)(C), 360e(d)(2)(C) and 360j(f).
+FDA recommends that manufacturers considering submission of a PMA or HDE site change supplement to support a sterilization site change as discussed in this guidance review the information in the Site Change Supplement Guidance.28
+28 Supra note 10.
+Section IV.B. of that guidance includes helpful information regarding the recommended content of a site change supplement. In addition to the recommendations in that guidance, FDA also recommends that manufacturers who choose to have FDA consider whether the exercise of enforcement discretion relating to the implementation of certain types of sterilization site changes is appropriate include in their site change supplement a cover letter29
+29 For further information on the contents of a cover letter, please refer to the FDA guidance “Quality System
+Information for Certain Premarket Application Reviews – Guidance for Industry and FDA Staff” available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/quality-system-information-certainpremarket-application-reviews containing a statement that the FDA was previously notified about the EtO sterilization site change as per the FDA guidance, “Transitional Enforcement
+Policy for Ethylene Oxide Sterilization Facility Changes for Class III Devices.” Additionally, we recommend that the submitter provide process validation or revalidation protocols and completed reports for all the processes that require validation in their site change supplement.
+### C. Determining whether an inspection may be needed.
+As with an original premarket approval application, a supplemental premarket approval application may be approved if it meets the applicable statutory and regulatory requirements.
+One such requirement is that the methods used in, or the facilities or controls used for, the manufacture, processing, packaging, storage, or installation of a device conforms to the requirements of section 520(f) of the FD&C Act. A preapproval inspection for a site change supplement may be appropriate or necessary for FDA to find that the methods used in, or the facilities or controls used for, the manufacture, processing, packaging, storage or installation of the device conform to the requirements of the QS regulation, 21 CFR Part 820.30
+31 Supra note 10.
+for helpful information regarding determining whether an inspection may be needed prior to the approval of a sterilization site change supplement.
+In developing this policy, FDA’s intent is to help foster continued availability of medical devices while being flexible regarding EtO sterilization facility changes where the modification does not create an undue risk to public health or safety considering the specific technological characteristics of the device and its intended use, and is appropriate or necessary to prevent or mitigate current manufacturing limitations or potential supply chain issues due to a potential, actual, or temporary stop or reduction of operations at an EtO sterilization facility. Therefore, CDRH and CBER intend to consider the factors outlined in the Site Change Supplement guidance when determining the need for an inspection in light of any potential device supply chain disruptions. While CDRH and CBER generally do not intend to require a pre-approval inspection before confirming our intention not to object to the use of an alternate sterilization facility or prior to approval of the PMA or HDE supplement when the sterilization site has a history of compliance with applicable regulations, there may be situations where FDA may conduct an inspection prior to approval of the PMA or HDE supplement or a postmarket inspection following approval of the PMA or HDE supplement.
+## VII. Appendix
+### A. Appendix A – Notification Example
+The following is a hypothetical example of a notification submitted by a Class III device manufacturer to inform the Agency of a sterilization facility closure that will warrant a sterilization site change to help prevent and minimize potential supply disruptions. This example is intended to be illustrative of how information can be provided in the notification described under Section V.C. of this guidance.
+Identifier Information · Device/Trade Name: Device X · PMA Number: P123456
+- Sponsor/Applicant Name and Address: Any Company. Inc.
+456 Some Place Street Anywhere, CA 12345
+- Contact Information: Jane Doe, RAC Regulatory Affairs Manager email@email.com (123) 123-4567 Reason for the Notification
+Any Company, Inc. manufactures Device X, which are permanent pacemaker electrodes that are currently sterilized via ethylene oxide at Sterilization Company, Inc. (FEI #: 1002003000). Any Company, Inc. is submitting this notification to inform the FDA that Sterilization Company, Inc.
+will be shutting down their facility in eight months to undergo construction to minimize ethylene oxide emissions. Construction is expected to last approximately 1 year.
+In order to prevent and minimize potential supply disruptions of Device X, we are submitting this notification to FDA to propose an alternate sterilization site, Sterilizers R Us (FEI #: 1001001000), and request a determination as to whether FDA would intend to not object to implementation of that alternate sterilization site, as described under the FDA guidance, “Transitional Enforcement Policy for Ethylene Oxide Sterilization Facility Changes for Class III Devices.” We are planning to implement this site change on December 15, 2025.
+Sterilization Facility Information Current Sterilization Site Prospective Sterilization Site Sterilization Company, Inc.
+123 Hollywood Drive Anywhere, CA 54321
+FEI #: 1002003000
+Sterilizers R Us 200 Somewhere Avenue Any Town, NY 56789
+FEI #: 1001001000
+Site approved as part of the original PMA or a PMA supplement? Yes Site approved as part of the original PMA or a PMA supplement? No Site ready for FDA inspection? Yes Site ready for FDA inspection? Yes · Date of site change implementation: December 15, 2025
+- A signed statement, provided as a PDF attachment, affirming that: o The notification pertains to a Class III device that is not considered a combination product.
+o No changes have been made to device design, specifications, or materials or to packaging.
+o No changes have been made to the sterilization process apart from the location of the sterilization facilities. This includes no changes to a different sterilant, success criteria for the cycle, and the sterility assurance level (SAL).
+See attachment titled Statement of Affirmation.
+- A brief summary of any changes to the sterilization process that may result from the site change. Device X is a single-use sterile device currently sterilized by ethylene oxide at
+Sterilization Company, Inc., which was approved under P123456. The chamber dimensions and load configuration for Device X remains unchanged. The table below provides a summary of the current sterilization parameters utilized at Sterilization Company, Inc. as compared to the proposed sterilization process to be used at Sterilizers R Us.32
+32 This table is an example of a format that may be used to present an overview of cycle information in the notification. The specific information provided may vary based on the specific process parameters used in individual sterilization processes.
+Current Site Proposed Site Cycle 1
+Sterilization Company, Inc.
+Cycle 5
+Sterilizers R Us Parameter Set Point Tolerance Set Point Tolerance Preconditioning Temperature %RH Time Initial Vacuum Level & Rate Load %RH Range at End of Conditioning EO Gas Concentration EO Exposure Time Temperature During Exposure Gas Wash Pressure Vacuum Level Rate of Vacuum Aeration Temperature
+### B. Appendix B – Statement of Affirmation Format
+I certify that, in my capacity as (the position held in company) of (company name), I affirm that to the best of my knowledge, that: · This notification pertains to a Class III device that is not considered a combination product.
+- No changes have been made to device design, specifications, or materials or to packaging.
+- No changes have been made to the sterilization process apart from the location of the sterilization facilities. This includes no changes to a different sterilant, success criteria for the cycle, and the sterility assurance level (SAL).
+(Signature)
+(Typed Name)
+(Date)
+(Original PMA or HDE Number)
 18
+
+---
+
+## Footnotes
+
+[^1]: See “National Emission Standards for Hazardous Air Pollutants: Ethylene Oxide Emissions Standards for
+
+[^2]: Under section 3(g) of the Federal Insecticide, Fungicide, and Rodenticide Act (FIFRA) and the Procedural
+
+[^3]: See “National Emission Standards for Hazardous Air Pollutants: Ethylene Oxide Emissions Standards for
+
+[^5]: See Section 701(h)(1)(c) of the Federal Food, Drug, and Cosmetic Act (FD&C Act) (21 U.S.C. § 371(h)(1)(C)) and
+
+[^6]: See “Sterilization for Medical Devices”, available at https://www.fda.gov/medical-devices/general-hospital- devices-and-supplies/sterilization-medical-devices.
+
+[^9]: See “National Emission Standards for Hazardous Air Pollutants: Ethylene Oxide Emissions Standards for
+
+[^13]: See Section 503(g) of the FD&C Act and 21 CFR Part 3. · Reusable devices, reprocessed single-use devices, or devices that are not provided sterile. · Devices cleared under premarket notification (510(k)) submissions, granted premarket authorization through the De Novo pathway, or approved and distributed as part of an investigational device exemption (IDE).14
+
+[^15]: See 42 U.S.C. § 262, “Regulation of Biological Products.” CBER regulates certain medical devices and tests used to safeguard blood, blood components, and cellular products from HIV, hepatitis, and other infectious agents under section 351 of the PHS Act by approving biologics licenses applications (BLA).
+
+[^16]: See FDA website on “Notify the FDA About a Medical Device Supply Issue” available at https://www.fda.gov/medical-devices/medical-device-supply-chain-and-shortages/notify-fda-about-medical-device- supply-issue. As noted with the Site Change Supplement Guidance, this guidance is also intended to be considered alongside other relevant guidance regarding notifications under Section 506J of the FD&C Act, including, but not limited to “Notifying FDA of a Permanent Discontinuance or Interruption in Manufacturing of a Device Under
+
+[^18]: See 21 CFR 814.39(a)(3).
+
+[^19]: For more information on site change supplements and the normal timeline for review of site change supplements for PMA or HDE holders, see FDA guidance, “Manufacturing Site Change Supplements: Content and Submission”, available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/manufacturing-site- change-supplements-content-and-submission.
+
+[^22]: See 21 CFR 814.39(a)(3). as described in FDA’s Site Change Supplement Guidance, including, but not limited to, information regarding sterilization sites, sterilization method, release criteria for the cycle, the sterility assurance level (SAL), and sterilization critical process parameters. · Submit a PMA 180-day (or HDE 75-day) site change supplement for the subject device, consistent with this guidance, within 120 days from the date of FDA’s correspondence indicating it does not intend to object to the implementation of the alternate sterilization facility.
+
+[^23]: FDA’s PMA database is available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm. , 24
+
+[^24]: FDA’s HDE database is available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfhde/hde.cfm.
+
+[^27]: Id.
+
+[^30]: See 21 C.F.R. 814.44(e)(1)(iii). FDA anticipates that manufacturers who choose to have FDA consider whether the exercise of enforcement discretion relating to the implementation of certain types of sterilization site changes is appropriate may also consider the possibility that the new site may need to be inspected prior to approval of the sterilization site change supplement. We recommend manufacturers review Section IV.C. of the Site Change Supplement Guidance31
 
 <!-- fulltext-end -->

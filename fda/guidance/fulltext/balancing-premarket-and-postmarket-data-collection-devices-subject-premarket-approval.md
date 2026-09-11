@@ -4,874 +4,209 @@
 
 **Published:** 2015-04-13
 
----
-
-<!-- Page 1 -->
-Balancing Premarket and Postmarket 
-Data Collection for Devices Subject to 
-Premarket Approval 
- 
-Guidance for Industry and Food and 
-Drug Administration Staff 
- 
- 
-Document issued on April 13, 2015. 
-The draft of this document was issued on April 23, 2014. 
- 
- 
- 
- 
- 
- 
- 
- 
-For questions about this document concerning devices regulated by CDRH, contact the Office of 
-the Center Director at 301-796-5900. For questions about this document concerning devices 
-regulated by CBER, contact CBER’s Office of Communication, Outreach and Development 
-(OCOD) at 1-800-835-4709 or 240-402-7800. 
- 
- 
- 
- 
-    
-U.S. Department of Health and Human Services 
-Food and Drug Administration 
- 
-Center for Devices and Radiological Health 
-Center for Biologics Evaluation and Research
 
 ---
 
-<!-- Page 2 -->
-Contains Nonbinding Recommendations 
- 
- 
-2 
-Preface 
-Public Comment 
-You may submit electronic comments and suggestions at any time for Agency consideration to 
-http://www.regulations.gov. Submit written comments to the Division of Dockets 
-Management, Food and Drug Administration, 5630 Fishers Lane, Rm 1061, (HFA-305), 
-Rockville, MD 20852. Identify all comments with the docket number FDA-2014-D-0090. 
-Comments may not be acted upon by the Agency until the document is next revised or updated. 
-Additional Copies 
-CDRH 
-Additional copies are available on the Internet at 
-http://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/default.
-htm. You can also request an electronic copy by sending an e-mail to CDRH-
-Guidance@fda.hhs.gov. Use the document number 1833 to identify this as the guidance you are 
-requesting. 
-CBER 
-Additional copies are available on the Internet at 
-http://www.fda.gov/BiologicsBloodVaccines/GuidanceComplianceRegulatoryInformatio
-n/Guidances/default.htm or by written request to: 
- 
-Center for Biologics Evaluation and Research 
-Office of Communication, Outreach and Development (OCOD) 
-10903 New Hampshire Ave. 
-Bldg. 71, Rm. 3128 
-Silver Spring, MD 20993-0002 
-You can also request a copy by calling 1-800-835-4709 or 240-402-7800, or by sending an email 
-to ocod@fda.hhs.gov.
+Balancing Premarket and Postmarket Data Collection for Devices Subject to Premarket Approval
 
----
+## I. Introduction
+This guidance clarifies the Food and Drug Administration’s (FDA or the Agency) current policy on balancing premarket and postmarket data collection during FDA review of premarket approval applications (PMAs). More specifically, this guidance outlines how FDA considers the role of postmarket information in determining the extent of data that should be collected in the premarket setting to support premarket approval while still meeting the statutory standard of reasonable assurance of safety and effectiveness.1
+The right balance of premarket and postmarket data collection facilitates timely patient access to important new technology without undermining patient safety. FDA believes this guidance document will improve patient access to safe and effective medical devices that are important to the public health by improving the predictability, consistency, transparency, and efficiency of the premarket review process.  This guidance document is intended to support FDA’s efforts to enhance timely availability of devices subject to premarket approval.
+This guidance describes FDA’s existing statutory requirements under the Federal Food, Drug, and Cosmetic Act (FD&C Act), its implementing regulations, and current policies that support this policy.  In addition, FDA clarifies how FDA considers postmarket data as part of the benefit-
 
-<!-- Page 3 -->
-Contains Nonbinding Recommendations 
- 
- 
-3 
-Table of Contents 
-I. 
-Introduction ......................................................................................................................................................... 4 
-II. 
-Background ......................................................................................................................................................... 5 
-A. 
-Least Burdensome ........................................................................................................................................... 6 
-B. 
-Benefit-Risk .................................................................................................................................................... 7 
-III. 
-Postmarket Data .................................................................................................................................................. 8 
-IV. 
-When Post-Approval Studies May Be Appropriate at the Time of PMA Approval ........................................... 9 
-V. 
-Conditions of Approval..................................................................................................................................... 15 
-A. 
-Post-Approval Studies ................................................................................................................................... 16 
-B. 
-Reporting Requirements for Post-Approval Studies ..................................................................................... 16 
-C. 
-Labeling ......................................................................................................................................................... 16 
-D. 
-Registries ....................................................................................................................................................... 17 
-VI. 
-Postmarket Actions ........................................................................................................................................... 17
 
----
+Determinations in Medical Device Premarket Approval and De Novo Classifications,” issued on
+March 28, 2012 (“Benefit-Risk Guidance”).2  This guidance and FDA’s guidance “Expedited
+Access for Premarket Approval Medical Devices Intended for Unmet Medical Need,”3 issued on
+April 13, 2015 (“EAP Guidance”) describe how FDA considers balancing premarket and postmarket data collection during review of a PMA.
+FDA’s guidance documents, including this one, do not establish legally enforceable responsibilities.  Instead, guidance documents describe the Agency’s current thinking on a topic and should be viewed only as recommendations, unless specific regulatory or statutory requirements are cited.  The use of the word should in Agency guidance documents means that something is suggested or recommended, but not required.
+## II. Background
+FDA’s mission is to protect and promote the public health.4  Part of FDA’s mission is to “assure that patients and providers have timely and continued access to safe and effective and high quality medical devices,” and to “facilitate medical device innovation.”5 (Emphasis added).
+FDA recognizes that there are risks associated with every medical device on the market. At the time of device approval, certain safety and effectiveness questions may not be fully resolved due to significant obstacles, such as the time and cost involved to address possible rare adverse events or long-term safety issues, and because controlled clinical studies do not fully represent the benefit-risk profile of a device when used in real-world clinical practice.
+Getting the right balance between premarket and postmarket data collection – specifically, where appropriate, a greater reliance on postmarket collection, including real-world data collection, can reduce the extent of premarket data collection and directly impact when patients will have access to high-quality, safe and effective medical devices.  But, greater reliance on postmarket data collection could undermine patient safety if the necessary and timely data collection does not occur.
+Section 513(a)(3)(C) of the FD&C Act specifically requires FDA to consider the use of postmarket controls in lieu of collecting and reviewing all effectiveness data prior to PMA approval.  Specifically, section 513(a)(3)(C) states:
 
-<!-- Page 4 -->
-Contains Nonbinding Recommendations 
- 
- 
-4 
-Balancing Premarket and Postmarket 
-Data Collection for Devices Subject to 
-Premarket Approval 
-Guidance for Industry and  
-Food and Drug Administration Staff  
- 
-This guidance represents the Food and Drug Administration's (FDA's) current thinking on 
-this topic. It does not create or confer any rights for or on any person and does not operate to 
-bind FDA or the public. You can use an alternative approach if the approach satisfies the 
-requirements of the applicable statutes and regulations. If you want to discuss an alternative 
-approach, contact the FDA staff responsible for implementing this guidance. If you cannot 
-identify the appropriate FDA staff, call the appropriate number listed on the title page of this 
-guidance.  
-I. Introduction  
-This guidance clarifies the Food and Drug Administration’s (FDA or the Agency) current policy 
-on balancing premarket and postmarket data collection during FDA review of premarket 
-approval applications (PMAs). More specifically, this guidance outlines how FDA considers the 
-role of postmarket information in determining the extent of data that should be collected in the 
-premarket setting to support premarket approval while still meeting the statutory standard of 
-reasonable assurance of safety and effectiveness.1 
-The right balance of premarket and postmarket data collection facilitates timely patient access to 
-important new technology without undermining patient safety. FDA believes this guidance 
-document will improve patient access to safe and effective medical devices that are important to 
-the public health by improving the predictability, consistency, transparency, and efficiency of the 
-premarket review process.  This guidance document is intended to support FDA’s efforts to 
-enhance timely availability of devices subject to premarket approval. 
-This guidance describes FDA’s existing statutory requirements under the Federal Food, Drug, 
-and Cosmetic Act (FD&C Act), its implementing regulations, and current policies that support 
-this policy.  In addition, FDA clarifies how FDA considers postmarket data as part of the benefit-
-                                                          
- 
-1 See section 515(d) of the Federal Food, Drug, and Cosmetic Act (FD&C Act).
 
----
-
-<!-- Page 5 -->
-Contains Nonbinding Recommendations 
- 
- 
-5 
-risk framework described in FDA’s guidance, “Factors to Consider When Making Benefit-Risk 
-Determinations in Medical Device Premarket Approval and De Novo Classifications,” issued on 
-March 28, 2012 (“Benefit-Risk Guidance”).2  This guidance and FDA’s guidance “Expedited 
-Access for Premarket Approval Medical Devices Intended for Unmet Medical Need,”3 issued on 
-April 13, 2015 (“EAP Guidance”) describe how FDA considers balancing premarket and 
-postmarket data collection during review of a PMA. 
-FDA’s guidance documents, including this one, do not establish legally enforceable 
-responsibilities.  Instead, guidance documents describe the Agency’s current thinking on a topic 
-and should be viewed only as recommendations, unless specific regulatory or statutory 
-requirements are cited.  The use of the word should in Agency guidance documents means that 
-something is suggested or recommended, but not required.  
-II. Background 
-FDA’s mission is to protect and promote the public health.4  Part of FDA’s mission is to “assure 
-that patients and providers have timely and continued access to safe and effective and high 
-quality medical devices,” and to “facilitate medical device innovation.”5 (Emphasis added).   
-FDA recognizes that there are risks associated with every medical device on the market. At the 
-time of device approval, certain safety and effectiveness questions may not be fully resolved due 
-to significant obstacles, such as the time and cost involved to address possible rare adverse 
-events or long-term safety issues, and because controlled clinical studies do not fully represent 
-the benefit-risk profile of a device when used in real-world clinical practice. 
-Getting the right balance between premarket and postmarket data collection – specifically, where 
-appropriate, a greater reliance on postmarket collection, including real-world data collection, can 
-reduce the extent of premarket data collection and directly impact when patients will have access 
-to high-quality, safe and effective medical devices.  But, greater reliance on postmarket data 
-collection could undermine patient safety if the necessary and timely data collection does not 
-occur. 
-Section 513(a)(3)(C) of the FD&C Act specifically requires FDA to consider the use of 
-postmarket controls in lieu of collecting and reviewing all effectiveness data prior to PMA 
-approval.  Specifically, section 513(a)(3)(C) states: 
-                                                          
- 
-2 Available at: 
-http://www.fda.gov/medicaldevices/deviceregulationandguidance/guidancedocuments/ucm267829.htm. 
-3 For more information on the Expedited Access Pathway program, see FDA’s guidance, “Expedited Access for 
-Premarket Approval and De Novo Medical Devices Intended for Unmet Medical Need for Life Threatening or 
-Irreversibly Debilitating Diseases or Conditions” 
+Premarket Approval and De Novo Medical Devices Intended for Unmet Medical Need for Life Threatening or Irreversibly Debilitating Diseases or Conditions”
 (http://www.fda.gov/downloads/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/UCM393978.
-pdf). 
-4 See http://www.fda.gov/AboutFDA/WhatWeDo/default.htm. 
-5 See “CDRH Mission, Vision and Shared Values,” at 
-http://www.fda.gov/AboutFDA/CentersOffices/OfficeofMedicalProductsandTobacco/CDRH/ucm300639.htm. See 
-also CBER’s similar mission at 
-http://www.fda.gov/AboutFDA/CentersOffices/OfficeofMedicalProductsandTobacco/CBER/ucm122878.htm.
+pdf).
+In making a determination of a reasonable assurance of the effectiveness of a device for which [a premarket approval application] has been submitted, the Secretary shall consider whether the extent of data that otherwise would be required for approval of the application with respect to effectiveness can be reduced through reliance on postmarket controls.
+As discussed below, FDA has long applied postmarket controls as a way to reduce premarket data collection, where appropriate, while assuring that the statutory standard for approval of reasonable assurance of safety and effectiveness is still met.  This guidance provides a resource for industry and FDA staff on how FDA determines when it is appropriate for a sponsor6 of a PMA to collect some data (clinical or non-clinical) in the postmarket setting instead of in the premarket setting.
+FDA believes that applying postmarket controls to reduce premarket data collection, when appropriate, improves patient access to safe and effective medical devices that are important to the public health.  As discussed in this guidance, there are certain circumstances where FDA may consider it acceptable to collect certain data in the postmarket setting instead of in the premarket setting.  FDA applies careful postmarket monitoring to support continued safety and effectiveness of the device.
+### A. Least Burdensome
+Section 513(a)(3)(D)(ii) of the FD&C Act, a “least burdensome provision,” mandates that when
+FDA requests clinical data related to demonstrating a reasonable assurance of effectiveness,
+FDA only request clinical data that are “necessary to establish device effectiveness” for PMAs.
+FDA’s guidance entitled, “The Least Burdensome Provisions of the FDA Modernization Act of 1997: Concept and Principles” (“Least Burdensome Guidance”), issued October 4, 2002,7 interprets least burdensome as “a successful means of addressing a premarket issue that involves the most appropriate investment of time, effort, and resources on the part of industry and FDA,” and specifies that the least burdensome provisions do not affect the statutory premarket review standards for devices.8
+As discussed in the Least Burdensome Guidance, the role of postmarket information should be considered in determining the appropriate type and amount of data that should be collected in the premarket setting to support premarket approval.  Postmarket information should also be considered for assuring long-term device safety and effectiveness, wherever appropriate.
+Reliance on postmarket controls (e.g., compliance with the Quality System regulations, post-approval studies, postmarket surveillance, and the Medical Device Reporting requirements)
 
----
 
-<!-- Page 6 -->
-Contains Nonbinding Recommendations 
- 
- 
-6 
-In making a determination of a reasonable assurance of the effectiveness of a device for 
-which [a premarket approval application] has been submitted, the Secretary shall consider 
-whether the extent of data that otherwise would be required for approval of the 
-application with respect to effectiveness can be reduced through reliance on postmarket 
-controls. 
-As discussed below, FDA has long applied postmarket controls as a way to reduce premarket 
-data collection, where appropriate, while assuring that the statutory standard for approval of 
-reasonable assurance of safety and effectiveness is still met.  This guidance provides a resource 
-for industry and FDA staff on how FDA determines when it is appropriate for a sponsor6 of a 
-PMA to collect some data (clinical or non-clinical) in the postmarket setting instead of in the 
-premarket setting. 
-FDA believes that applying postmarket controls to reduce premarket data collection, when 
-appropriate, improves patient access to safe and effective medical devices that are important to 
-the public health.  As discussed in this guidance, there are certain circumstances where FDA may 
-consider it acceptable to collect certain data in the postmarket setting instead of in the premarket 
-setting.  FDA applies careful postmarket monitoring to support continued safety and 
-effectiveness of the device. 
-A. 
-Least Burdensome 
-Section 513(a)(3)(D)(ii) of the FD&C Act, a “least burdensome provision,” mandates that when 
-FDA requests clinical data related to demonstrating a reasonable assurance of effectiveness, 
-FDA only request clinical data that are “necessary to establish device effectiveness” for PMAs.  
-FDA’s guidance entitled, “The Least Burdensome Provisions of the FDA Modernization Act of 
-1997: Concept and Principles” (“Least Burdensome Guidance”), issued October 4, 2002,7 
-interprets least burdensome as “a successful means of addressing a premarket issue that involves 
-the most appropriate investment of time, effort, and resources on the part of industry and FDA,” 
-and specifies that the least burdensome provisions do not affect the statutory premarket review 
-standards for devices.8   
-As discussed in the Least Burdensome Guidance, the role of postmarket information should be 
-considered in determining the appropriate type and amount of data that should be collected in the 
-premarket setting to support premarket approval.  Postmarket information should also be 
-considered for assuring long-term device safety and effectiveness, wherever appropriate.  
-Reliance on postmarket controls (e.g., compliance with the Quality System regulations, post-
-approval studies, postmarket surveillance, and the Medical Device Reporting requirements) 
-                                                          
- 
-6 The use of the term “sponsor” in this guidance is used, depending on the context, to refer to sponsors of 
-investigational device exemption (IDE) applications, PMA applicants, as well as sponsors of PMA-approved 
-devices. 
-7 http://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/ucm085994.htm. 
-8 Section 513(a)(3)(D)(iv) provides that “[n]othing in this [least burdensome provision] shall alter the criteria for 
-evaluating an application for premarket approval of a device.”
+6 The use of the term “sponsor” in this guidance is used, depending on the context, to refer to sponsors of investigational device exemption (IDE) applications, PMA applicants, as well as sponsors of PMA-approved devices.
+8 Section 513(a)(3)(D)(iv) provides that “[n]othing in this [least burdensome provision] shall alter the criteria for evaluating an application for premarket approval of a device.” should be considered as a mechanism to reduce the extent of the premarket data for PMAs, while still ensuring that the statutory standard for premarket approval is met.
+### B. Benefit-Risk
+Under section 513(a) of the FD&C Act, FDA determines whether PMAs provide a “reasonable assurance of safety and effectiveness” by “weighing any probable benefit to health from the use of the device against any probable risk of injury or illness from such use,” among other relevant factors.  A reasonable assurance of safety occurs when “it can be determined, based upon valid scientific evidence, that the probable benefits … outweigh any probable risks,” and can be demonstrated by establishing “the absence of unreasonable risk of illness or injury associated with the use of the device for its intended uses and conditions of use.”9
+To aid in this process, PMA sponsors submit valid scientific evidence, including one or more clinical investigations where appropriate, which FDA reviews to determine whether “the device will have the effect it purports or is represented to have under the conditions of use prescribed, recommended, or suggested in the labeling of the device.”10  FDA staff review the data submitted as part of the PMA and determine – based on a number of factors – if the data support the intended use and indications for use, and if the data analysis demonstrates that the probable11 benefits of the device outweigh its probable risks.
+FDA’s Benefit-Risk Guidance12 discusses the principal factors that FDA considers when making benefit-risk determinations during the premarket review process for certain medical devices.  As part of this guidance, FDA provides clarity regarding how FDA considers postmarket data in the context of the benefit-risk assessment discussed in the Benefit-Risk Guidance.
+When reviewing a PMA, FDA has the authority to impose postmarket requirements, including the conduct of post-approval studies and postmarket surveillance, as a condition of approval for devices subject to premarket approval.13  As discussed in section VI of this guidance, there are several actions that the sponsor or the FDA may, as appropriate, take in the postmarket setting as a result of the required conditions of approval.  For example, FDA may take enforcement action if the sponsor has not met the required conditions of approval, including failure to initiate or complete a post-approval study specified in the approval order for the device.
 
----
 
-<!-- Page 7 -->
-Contains Nonbinding Recommendations 
- 
- 
-7 
-should be considered as a mechanism to reduce the extent of the premarket data for PMAs, while 
-still ensuring that the statutory standard for premarket approval is met. 
-B. 
-Benefit-Risk 
-Under section 513(a) of the FD&C Act, FDA determines whether PMAs provide a “reasonable 
-assurance of safety and effectiveness” by “weighing any probable benefit to health from the use 
-of the device against any probable risk of injury or illness from such use,” among other relevant 
-factors.  A reasonable assurance of safety occurs when “it can be determined, based upon valid 
-scientific evidence, that the probable benefits … outweigh any probable risks,” and can be 
-demonstrated by establishing “the absence of unreasonable risk of illness or injury associated 
-with the use of the device for its intended uses and conditions of use.”9   
-To aid in this process, PMA sponsors submit valid scientific evidence, including one or more 
-clinical investigations where appropriate, which FDA reviews to determine whether “the device 
-will have the effect it purports or is represented to have under the conditions of use prescribed, 
-recommended, or suggested in the labeling of the device.”10  FDA staff review the data 
-submitted as part of the PMA and determine – based on a number of factors – if the data support 
-the intended use and indications for use, and if the data analysis demonstrates that the probable11 
-benefits of the device outweigh its probable risks.   
-FDA’s Benefit-Risk Guidance12 discusses the principal factors that FDA considers when making 
-benefit-risk determinations during the premarket review process for certain medical devices.  As 
-part of this guidance, FDA provides clarity regarding how FDA considers postmarket data in the 
-context of the benefit-risk assessment discussed in the Benefit-Risk Guidance.   
-When reviewing a PMA, FDA has the authority to impose postmarket requirements, including 
-the conduct of post-approval studies and postmarket surveillance, as a condition of approval for 
-devices subject to premarket approval.13  As discussed in section VI of this guidance, there are 
-several actions that the sponsor or the FDA may, as appropriate, take in the postmarket setting as 
-a result of the required conditions of approval.  For example, FDA may take enforcement action 
-if the sponsor has not met the required conditions of approval, including failure to initiate or 
-complete a post-approval study specified in the approval order for the device.  
-                                                          
- 
-9 21 CFR 860.7(d)(1). 
-10 Section 513(a)(3) of the FD&C Act.  
-11 In general, “probable” and “probability” in this guidance have the same connotation as in 21 CFR 860.7(b)(3), i.e. 
-they refer to the likelihood of the patient experiencing a benefit or risk.  Hypothesis testing, formal concepts of 
-probability and predictive probability, and likelihood, typically are critical elements in the assessment of “probable” 
-benefit and risk.  FDA does not intend for the use of the term “probable benefit” in this guidance to refer to the 
-regulatory context for Humanitarian Device Exemptions (HDE) under section 520(m) of the FD&C Act, and FDA’s 
-implementing HDE regulations.   
-12 See footnote 2.  
-13 21 CFR 814.82 states that “FDA may impose postapproval requirements in a PMA approval order or by 
-regulation at the time of approval of the PMA or by regulation subsequent to approval.”  In addition, under section 
-522 of the FD&C Act, and FDA’s implementing regulations at 21 CFR Part 822, FDA may order postmarket 
-surveillance for certain Class III devices.
+10 Section 513(a)(3) of the FD&C Act.
+11 In general, “probable” and “probability” in this guidance have the same connotation as in 21 CFR 860.7(b)(3), i.e.
+they refer to the likelihood of the patient experiencing a benefit or risk.  Hypothesis testing, formal concepts of probability and predictive probability, and likelihood, typically are critical elements in the assessment of “probable” benefit and risk.  FDA does not intend for the use of the term “probable benefit” in this guidance to refer to the regulatory context for Humanitarian Device Exemptions (HDE) under section 520(m) of the FD&C Act, and FDA’s implementing HDE regulations.
+522 of the FD&C Act, and FDA’s implementing regulations at 21 CFR Part 822, FDA may order postmarket surveillance for certain Class III devices.
+In addition, FDA believes that the implementation of our 2012 strategy for a National Medical
+Device Postmarket Surveillance System entitled “Strengthening Our National System for
+Medical Device Postmarket Surveillance” could address certain limitations with the current medical device surveillance program and allow for a greater shift of premarket data collection to the postmarket setting for appropriate devices.14
+## III. Postmarket Data
+As provided in the Benefit-Risk Guidance,15 postmarket data collection is a factor FDA considers as a part of making benefit-risk determinations.  We state in the Benefit-Risk Guidance:
+FDA may consider the collection of postmarket data as a way to clarify the magnitude and effect of mitigations or as a way to develop additional information regarding benefits or risks for certain device types or in specific patient populations when making a benefit-risk determination. . . .  In addition, pursuant to section 513(a)(3)(C) of the FD&C Act, in certain cases, such as if a device is likely to be denied approval due to uncertainty about its effectiveness, FDA will consider whether postmarket data collection or other conditions might be structured so as to permit approval subject to those conditions.16
+As part of FDA’s benefit-risk determination, one of the factors that FDA considers is the degree of certainty of the probable benefits and probable risks of a device in the Agency’s review of a PMA. As part of the uncertainty factor discussed in the Benefit-Risk Guidance, FDA states that: there is never 100% certainty when determining reasonable assurance of safety and effectiveness of a device. However, the degree of certainty of the benefits and risks of a device is a factor we consider when making benefit-risk determinations.17
+FDA recognizes that medical device approvals are not made with absolute certainty due to significant obstacles, such as the time and cost involved to address possible rare adverse events or long-term safety and because clinical studies do not fully represent how a device will be used in clinical practice.
 
----
 
-<!-- Page 8 -->
-Contains Nonbinding Recommendations 
- 
- 
-8 
-In addition, FDA believes that the implementation of our 2012 strategy for a National Medical 
-Device Postmarket Surveillance System entitled “Strengthening Our National System for 
-Medical Device Postmarket Surveillance” could address certain limitations with the current 
-medical device surveillance program and allow for a greater shift of premarket data collection to 
-the postmarket setting for appropriate devices.14  
-III. Postmarket Data 
-As provided in the Benefit-Risk Guidance,15 postmarket data collection is a factor FDA 
-considers as a part of making benefit-risk determinations.  We state in the Benefit-Risk 
-Guidance: 
-FDA may consider the collection of postmarket data as a way to clarify the magnitude 
-and effect of mitigations or as a way to develop additional information regarding benefits 
-or risks for certain device types or in specific patient populations when making a benefit-
-risk determination. . . .  In addition, pursuant to section 513(a)(3)(C) of the FD&C Act, in 
-certain cases, such as if a device is likely to be denied approval due to uncertainty about 
-its effectiveness, FDA will consider whether postmarket data collection or other 
-conditions might be structured so as to permit approval subject to those conditions.16 
-As part of FDA’s benefit-risk determination, one of the factors that FDA considers is the degree 
-of certainty of the probable benefits and probable risks of a device in the Agency’s review of a 
-PMA. As part of the uncertainty factor discussed in the Benefit-Risk Guidance, FDA states that:  
-there is never 100% certainty when determining reasonable assurance of safety and 
-effectiveness of a device. However, the degree of certainty of the benefits and risks of a 
-device is a factor we consider when making benefit-risk determinations.17 
-FDA recognizes that medical device approvals are not made with absolute certainty due to 
-significant obstacles, such as the time and cost involved to address possible rare adverse events 
-or long-term safety and because clinical studies do not fully represent how a device will be used 
-in clinical practice. 
-                                                          
- 
-14 In September 2012, FDA released an initial report, “Strengthening Our National System for Medical Device 
-Postmarket Surveillance,” providing an overview of FDA's medical device postmarket authorities and the current 
-U.S. medical device postmarket surveillance system and also proposed four specific actions, using existing resources 
-and under current authorities, to strengthen the medical device postmarket surveillance system in the U.S. This 
-report is available at: 
-http://www.fda.gov/downloads/AboutFDA/CentersOffices/CDRH/CDRHReports/UCM301924.pdf.  The update to 
-the report, published in April, 2013, detailed the concrete steps that the FDA intends to complete to more efficiently 
-collect better and more timely data, helping to identify issues more quickly.  This update is available at: 
-http://www.fda.gov/downloads/MedicalDevices/Safety/CDRHPostmarketSurveillance/UCM348845.pdf. 
-15 See footnote 2. 
-16 See footnote 2. 
-17 See footnote 2.
+14 In September 2012, FDA released an initial report, “Strengthening Our National System for Medical Device
+Postmarket Surveillance,” providing an overview of FDA's medical device postmarket authorities and the current U.S. medical device postmarket surveillance system and also proposed four specific actions, using existing resources and under current authorities, to strengthen the medical device postmarket surveillance system in the U.S. This report is available at: http://www.fda.gov/downloads/AboutFDA/CentersOffices/CDRH/CDRHReports/UCM301924.pdf.  The update to the report, published in April, 2013, detailed the concrete steps that the FDA intends to complete to more efficiently collect better and more timely data, helping to identify issues more quickly.  This update is available at: http://www.fda.gov/downloads/MedicalDevices/Safety/CDRHPostmarketSurveillance/UCM348845.pdf.
+When making a determination whether it is appropriate to collect certain data in the postmarket setting, rather than premarket, FDA considers, among other factors, the device’s potential impact on public health.  FDA may approve a device with a greater degree of uncertainty regarding the benefits and risks of the device if this uncertainty is sufficiently balanced by other factors, including the probable benefits of the device and the extent of postmarket controls.  For example, as discussed in FDA’s Expedited Access for Premarket Approval and De Novo Medical Devices
+Intended for Unmet Medical Need for Life Threatening or Irreversibly Debilitating Diseases or
+Conditions Guidance,18 as part of FDA’s Expedited Access Pathway program, FDA may accept greater pre-approval uncertainty regarding specific benefits and risks of devices demonstrating the potential to address unmet medical needs, as long as the premarket data still support a reasonable assurance of safety and effectiveness.  For example, FDA may be willing to allow smaller clinical trials, or nonrandomized trials. In addition, the extent to which FDA will accept certain data to be collected in the postmarket setting, rather than premarket, is impacted by the Agency’s current authority to mandate completion of post-approval studies, and to withdraw PMA approval for the marketed device should FDA later determine that there is a lack of a showing of reasonable assurance that the device is safe or effective under the conditions of use prescribed.
+As discussed in more detail below, FDA may consider it acceptable to collect certain data in the postmarket setting under certain circumstances.  In these circumstances, in accordance with existing statutory requirements under the FD&C Act, including section 513(a)(3)(C) of the FD&C Act, its implementing regulations, and consistent with current guidance, FDA intends to appropriately balance the submission of premarket and postmarket data.  For example, uncommon or minor risks raised prior to PMA approval may, in appropriate instances, be addressed postmarket; assessing the long-term benefit-risk profile of the device may also be deferred to the postmarket phase.  In addition, in cases where FDA has robust experience with the device type, typically a more mature technology, there may be less uncertainty about probable risks and benefits of the device, and it may be appropriate for some data collection to occur in the postmarket setting. FDA appreciates that experience using a device in real-world settings helps healthcare providers learn about ways to improve a device as well as which patients are the best candidates for a device.
+## IV. When Post-Approval Studies May Be Appropriate at the Time of PMA Approval
+FDA may consider it acceptable to collect certain data in the postmarket setting, rather than premarket under certain circumstances when FDA has uncertainty regarding certain benefits or risks of the device, but the degree of uncertainty is acceptable in the context of the overall benefit-risk profile of the device at the time of premarket approval.19
 
----
 
-<!-- Page 9 -->
-Contains Nonbinding Recommendations 
- 
- 
-9 
-When making a determination whether it is appropriate to collect certain data in the postmarket 
-setting, rather than premarket, FDA considers, among other factors, the device’s potential impact 
-on public health.  FDA may approve a device with a greater degree of uncertainty regarding the 
-benefits and risks of the device if this uncertainty is sufficiently balanced by other factors, 
-including the probable benefits of the device and the extent of postmarket controls.  For example, 
-as discussed in FDA’s Expedited Access for Premarket Approval and De Novo Medical Devices 
-Intended for Unmet Medical Need for Life Threatening or Irreversibly Debilitating Diseases or 
-Conditions Guidance,18 as part of FDA’s Expedited Access Pathway program, FDA may accept 
-greater pre-approval uncertainty regarding specific benefits and risks of devices demonstrating 
-the potential to address unmet medical needs, as long as the premarket data still support a 
-reasonable assurance of safety and effectiveness.  For example, FDA may be willing to allow 
-smaller clinical trials, or nonrandomized trials. In addition, the extent to which FDA will accept 
-certain data to be collected in the postmarket setting, rather than premarket, is impacted by the 
-Agency’s current authority to mandate completion of post-approval studies, and to withdraw 
-PMA approval for the marketed device should FDA later determine that there is a lack of a 
-showing of reasonable assurance that the device is safe or effective under the conditions of use 
-prescribed. 
-As discussed in more detail below, FDA may consider it acceptable to collect certain data in the 
-postmarket setting under certain circumstances.  In these circumstances, in accordance with 
-existing statutory requirements under the FD&C Act, including section 513(a)(3)(C) of the 
-FD&C Act, its implementing regulations, and consistent with current guidance, FDA intends to 
-appropriately balance the submission of premarket and postmarket data.  For example, 
-uncommon or minor risks raised prior to PMA approval may, in appropriate instances, be 
-addressed postmarket; assessing the long-term benefit-risk profile of the device may also be 
-deferred to the postmarket phase.  In addition, in cases where FDA has robust experience with 
-the device type, typically a more mature technology, there may be less uncertainty about 
-probable risks and benefits of the device, and it may be appropriate for some data collection to 
-occur in the postmarket setting. FDA appreciates that experience using a device in real-world 
-settings helps healthcare providers learn about ways to improve a device as well as which 
-patients are the best candidates for a device.  
-IV. When Post-Approval Studies May Be Appropriate at 
-the Time of PMA Approval 
-FDA may consider it acceptable to collect certain data in the postmarket setting, rather than 
-premarket under certain circumstances when FDA has uncertainty regarding certain benefits or 
-risks of the device, but the degree of uncertainty is acceptable in the context of the overall 
-benefit-risk profile of the device at the time of premarket approval.19 
-                                                          
- 
-18 See footnote 3.   
-19 While the focus of this guidance is on original PMAs and new medical devices, the concepts and principles 
-discussed in this document can be applied to appropriate PMA supplements supporting a change to a previously 
-approved device if the change addresses an unmet medical need for patients with a life-threatening or irreversibly 
-debilitating disease.
+19 While the focus of this guidance is on original PMAs and new medical devices, the concepts and principles discussed in this document can be applied to appropriate PMA supplements supporting a change to a previously approved device if the change addresses an unmet medical need for patients with a life-threatening or irreversibly debilitating disease.
+Examples: · Mature technology.  A mature technology is a device type that is well understood and the benefits and risks are well-characterized because of a robust history of testing and clinical use.  Therefore, it may be appropriate for some of the data collection that might ordinarily occur in the premarket setting to occur in the postmarket setting, such as when postmarket studies are likely to produce similar results to previously conducted similar studies for the same type of device).
+o Example: Safety and effectiveness of pacing and defibrillation leads requires electrical and mechanical integrity over the life of the implant. While short-term clinical studies are adequately predictive of chronic electrical performance, many mechanical failures are time-dependent and appear years after implant. To demonstrate that short-term benefits outweigh short-term risks, the efficacy of leads can be demonstrated with measures of electrical performance (like pacing capture threshold) and limited longer-term data on mechanical reliability (1 or 2 years compared to an implant life of 10 years). The collection of a more complete data set characterizing the long-term mechanical integrity over the longer life of the implant can be deferred to the postmarket setting.
+o Example: A subcutaneous implantable cardioverter defibrillator (S-ICD) has the same basic elements of an ICD, which have been used for decades. Clinical and preclinical evaluations in the premarket setting for the subcutaneous ICD were tailored to collect data on the new aspects and to evaluate functionality of the device, while more detailed safety data is collected in a postmarket study.
+- Urgent public health need. Diagnostics with a public health impact can address unmet medical needs for both individual patients through early diagnosis, as well as informing the public health response by providing more detailed, timely information on disease incidence.  These types of diagnostic assays can provide information on timing of infections (e.g., whether infection occurred within the last 6 months or further into the past).  Individuals in the early stage of disease are at highest risk of transmission to their partners, and treatment and contact tracing can be effective in lowering risk.  However, in the past, significant barriers existed for properly evaluating the performance of these tests in clinical cohorts.  By allowing postmarket data collection to better confirm these tests’ medical benefits, uncertainties in the timing of infection can be validated while significantly streamlining the review process for devices with such a public health design scope.
+- Migration. Migration is an approach used for approval of Class III in vitro diagnostic devices when a previously approved, licensed, or cleared assay is migrated to another system for which FDA has not evaluated assay performance. The paradigm is suitable in cases when sufficient knowledge can be derived for the documentation of design controls, risk analyses, and prior performance studies on an already marketed system.
+This paradigm uses smaller and more focused analytical and clinical data sets, along with prior knowledge of device design and performance. For more information, see Assay
+Migration Studies for In Vitro Diagnostic Devices: Guidance for Industry and FDA Staff, available at http://www.fda.gov/downloads/MedicalDevices/DeviceRegulationandGuidance/Guidanc eDocuments/ucm092752.pdf.
+o Example: The migration paradigm is often used on Class III devices for hepatitis to support device performance when the previously approved assay is transferred to a new instrument platform.
+- Confirm mitigation effectiveness for a known risk in a post-approval study.  Mitigations may be necessary for known safety risks associated with use of the device.  Confirmation of the adequacy of the mitigation may be evaluated post-approval if mitigation of the risk is not fundamental to FDA’s determination at the time of approval that the probable benefits outweigh the probable risks of the device.
+o Example:  After a permanent implant was recalled due to failures that could lead to death, a firm developed a novel software feature aimed at predicting those failures.   The firm intends to incorporate that feature into its submission for a permanent implant intended for the same use as the recalled implant, which was marketed by a different company. The ability to predict failures would alert at-risk patients to see their clinician (and address the concern) prior to a lifethreatening event.  FDA might typically expect clinical data in a PMA to support this type of feature before approval.  However, due to the public health need,
+FDA worked with the firm to use modeling on the novel software feature coupled with evaluation of published data to support premarket approval of the PMA.
+Clinical data on devices with the software feature were collected postmarket in a post-approval study, which was completed in a timely fashion after approval of the PMA.
+o Example: For pacing and defibrillation leads, the degree of the changes in the products themselves and the potential impact to patient safety of those changes can affect the collection of data premarket and postmarket. For major changes (e.g., a completely new design, including new materials, new arrangement of those materials, and/or new connections) there will likely be more questions about impacts to patient safety, and thus a more rigorous set of premarket data (and a smaller degree of uncertainty) would be required before approval as compared to a lead with only minor changes. For example, even when a lead is new or significantly modified, FDA generally only requires 6 months to 2 years of data with a longer post-approval study to demonstrate long-term performance since the safety risks are well known.
+- Modify warnings, contraindications, precautions in approved labeling.  Post-approval studies may be designed to collect further data on specific adverse events or event types for which there was limited knowledge during premarket review (e.g., small number of adverse events that occur within a subpopulation or uncertainty relating to the probability of minor adverse events), and the review of the postmarket data may result in revision of the warning, contraindications and/or precautions in the labeling.
+o Example:  FDA generally requires that the labeling of certain device types contain warnings and precautions when the device has not been tested in the magnetic resonance imaging (MRI) environment for practitioners to use the device safely and effectively.  However, FDA determined that the results from a limited clinical study, modeling, and bench testing, when assessed together, provided assurance that a new device was safe under certain MRI scanning conditions [i.e., Magnetic
+Resonance (MR) Conditional]. The device could be approved without a contraindication or precaution regarding MRI; instead it only had a labeling limitation regarding the conditions under which an MRI could be done safely. In this scenario, additional clinical data collection to further confirm the safety of multiple scans and demonstrate chronic device durability occurred in the postmarket setting.
+- Approve for an intended population beyond what was fully evaluated in the pivotal trial, with a confirmatory post-approval study.  In some cases, a device may be approved for a patient population that has not been fully evaluated in the premarket clinical studies, if the approval is conditioned on a post-approval confirmatory trial in the indicated patient population and other data support a reasonable assurance of safety and effectiveness for the intended population at the time of approval.  If the device is being studied postmarket in accordance with its approval, there are no 21 CFR Part 812 investigational device exemption (IDE) requirements for the post-approval confirmatory study, as long as the device is studied in accordance with its approved labeling, including the indications for use.
+o Example:  Human papillomavirus (HPV) testing devices have two distinct intended use populations with inherently different risk levels for cervical precancer and cancer.  Approval for both populations was based on full analytical data and agreement of clinical samples against a valid comparator, and clinical evidence of safety and effectiveness for the high risk population.  A post-approval study assessed the longitudinal risk of cervical cancer in the population with lower risk.
+- Assess long-term performance in a post-approval study.  Long-term performance of a specific aspect of a device may be difficult to assess in a premarket study as it may be necessary to collect data over a number of years in order to fully establish the performance of the device.  Shifting the collection and evaluation of long-term performance of a specific aspect of a device to a post-approval study allows FDA to approve the device based on a reasonable assurance of safety and effectiveness demonstrated in the premarket study, with uncertainty regarding the long-term performance to be addressed postmarket.
+o Example:  Long-term chronic performance and mechanical integrity of new pacemaker leads is established through a standard post-approval study design requiring 1000 patients out to 5 years.  This postmarket study is in lieu of requiring chronic/long term data prior to premarket approval, which FDA recognizes would be difficult to obtain in a timely fashion.  Current premarket clinical trials for this device require data out to one or two years.
+- Assess rare adverse events in a post-approval study.  It may be more appropriate to assess rare anticipated adverse events in the postmarket setting when FDA has a low degree of uncertainty regarding the positive benefit-risk balance at the time of premarket approval.
+o Example:  In the 1980s, some contact lenses had been approved for up to 30 days of continuous wear. After some market experience, an epidemiologic study was published showing significant risk of microbial keratitis (severe corneal infection) in the extended wear modality that was correlated to length of continuous wear.
+Discussion between FDA and industry resulted in companies with extended wear approvals voluntarily changing their indications to a maximum of 7-days of continuous wear.  In the late 1990s, a new class of soft contact lens material (silicone hydrogel) was developed that permitted much higher oxygen flow to the cornea, which was widely expected to result in lower risk of microbial keratitis.
+Sponsors sought indications from FDA for 30 days of continuous wear for these new contact lenses.  However, microbial keratitis occurs at such a low rate that improved safety could not be adequately characterized in a conventional contact lens PMA study. FDA proposed a premarket study that, though large, could only assess related, less severe corneal adverse events, which was followed by a much larger post-approval cohort study accumulating approximately 5,000 patient-years of device exposure.  This provided a practical way for the rate of microbial keratitis to be adequately evaluated, while allowing the new technology to come to the market in a timely manner, with an indication for 30 days of continuous wear.
+o Example:  Meta-analyses revealed that patients treated with first generation drugeluting stents had a higher rate of stent thrombosis than patients treated with bare metal stents.  While the overall rates of stent thrombosis were very low, stent thrombosis often results in heart attack, stroke, or death.  Dual antiplatelet therapy provides some protection from stent thrombosis, but it carries risks of bleeding, preventing patients from having even minor surgeries or dental procedures.  There was great debate in the scientific community regarding the optimal duration of dual antiplatelet therapy that would provide the needed protection against stent thrombosis without unduly prolonging a therapy with such substantial associated risks.  FDA proceeded with approval of second-generation drug-eluting stents with no change to premarket requirements, but required additional post-approval studies to determine stent thrombosis rates and the optimal duration of dual antiplatelet therapy.
+- Confirm bench data with clinical data collected in a post-approval study.  It may be possible to approve a new device or a change to an existing device based on bench data with postmarket confirmatory clinical data.
+o Example: When an in vitro diagnostic device is capable of detecting both common and rare targets (e.g., mutations or pathogens), the rare targets may be challenging to evaluate clinically in a timely manner. Such tests may be approved based on robust pre-clinical and clinical data for the common target(s) with masking of the rare target(s) not adequately supported by the data. Masking involves software programming that prevents the user from viewing results for specific targets, and allows the test to reach the market before adequate data on rare targets are available. Sponsors may continue to evaluate the rare targets postmarket to support unmasking. This process thus allows collection of additional clinical data to support the final approval of the device for all targets.
+o Example: When quadripolar lead connectors were introduced, FDA worked with sponsors to capture clinical data in both the premarket and postmarket settings in combination with premarket animal study data and bench testing.
+- Where the performance of a particular device type is well-studied, documented, and understood. It may be possible to approve a new device or a new indication for an existing device based on safety and effectiveness information already known about the device or device type.
+o Clinical data that may be sufficient in cases like this include Objective
+Performance Criteria (OPC), Performance Goals (PG), Patient Reported
+Outcomes (PROs), or other data in lieu of a randomized controlled clinical trial.
+o Example: A sponsor is seeking approval of a 7-day extended wear lens. The same lens was approved for daily wear and the sponsor has a substantial marketing history in the U.S. for the daily wear lens. If the 7-day lens is made of the same material as the daily wear lens, FDA may consider transferring a clinical study to assess most aspects of device safety to the postmarket setting.
+- Where long-term outside the U.S. (OUS) clinical performance data is available but not sufficient. It may be possible to defer to postmarket or otherwise limit the collection of clinical data from patients in the U.S. followed by a post-approval study if data from outside the U.S. is available and provides reasonable assurance of safety and effectiveness.
+FDA’s Expedited Access for Devices Guidance20 also describes circumstances under which FDA may consider it acceptable to collect certain data in the postmarket setting, rather than premarket, while still ensuring that the statutory standard for premarket approval of reasonable assurance of safety and effectiveness is met.  As part of the Expedited Access Pathway program described in the Expedited Access for Devices Guidance, in order to facilitate earlier patient access to devices that demonstrate the potential to address an unmet medical need, FDA may accept a higher degree of uncertainty about the benefit-risk profile of the device at the time of approval by
 
----
 
-<!-- Page 10 -->
-Contains Nonbinding Recommendations 
- 
- 
-10 
-Examples:   
-· Mature technology.  A mature technology is a device type that is well understood and the 
-benefits and risks are well-characterized because of a robust history of testing and clinical 
-use.  Therefore, it may be appropriate for some of the data collection that might 
-ordinarily occur in the premarket setting to occur in the postmarket setting, such as when 
-postmarket studies are likely to produce similar results to previously conducted similar 
-studies for the same type of device). 
-o Example: Safety and effectiveness of pacing and defibrillation leads requires 
-electrical and mechanical integrity over the life of the implant. While short-term 
-clinical studies are adequately predictive of chronic electrical performance, many 
-mechanical failures are time-dependent and appear years after implant. To 
-demonstrate that short-term benefits outweigh short-term risks, the efficacy of 
-leads can be demonstrated with measures of electrical performance (like pacing 
-capture threshold) and limited longer-term data on mechanical reliability (1 or 2 
-years compared to an implant life of 10 years). The collection of a more complete 
-data set characterizing the long-term mechanical integrity over the longer life of 
-the implant can be deferred to the postmarket setting.  
-o Example: A subcutaneous implantable cardioverter defibrillator (S-ICD) has the 
-same basic elements of an ICD, which have been used for decades. Clinical and 
-preclinical evaluations in the premarket setting for the subcutaneous ICD were 
-tailored to collect data on the new aspects and to evaluate functionality of the 
-device, while more detailed safety data is collected in a postmarket study. 
-· Urgent public health need. Diagnostics with a public health impact can address unmet 
-medical needs for both individual patients through early diagnosis, as well as informing 
-the public health response by providing more detailed, timely information on disease 
-incidence.  These types of diagnostic assays can provide information on timing of 
-infections (e.g., whether infection occurred within the last 6 months or further into the 
-past).  Individuals in the early stage of disease are at highest risk of transmission to their 
-partners, and treatment and contact tracing can be effective in lowering risk.  However, in 
-the past, significant barriers existed for properly evaluating the performance of these tests 
-in clinical cohorts.  By allowing postmarket data collection to better confirm these tests’ 
-medical benefits, uncertainties in the timing of infection can be validated while 
-significantly streamlining the review process for devices with such a public health design 
-scope.   
-· Migration. Migration is an approach used for approval of Class III in vitro diagnostic 
-devices when a previously approved, licensed, or cleared assay is migrated to another 
-system for which FDA has not evaluated assay performance. The paradigm is suitable in 
-cases when sufficient knowledge can be derived for the documentation of design 
-controls, risk analyses, and prior performance studies on an already marketed system. 
-This paradigm uses smaller and more focused analytical and clinical data sets, along with 
-prior knowledge of device design and performance. For more information, see Assay 
-Migration Studies for In Vitro Diagnostic Devices: Guidance for Industry and FDA Staff,
+Expedited Access Pathway guidance for more information about how FDA may be willing to accept greater uncertainty.
+FDA believes it is important to routinely reassess whether data that the Agency receives in a premarket submission for a device type may instead be collected postmarket or if the data are no longer necessary for FDA to determine that there is a reasonable assurance of safety and effectiveness for the device type.  Sponsors who believe that the extent of data FDA previously expected in a premarket submission for the device type for which they plan to submit a PMA should be collected postmarket or should no longer be required, should submit a Pre-Submission (“Pre-Sub”),21 as described in FDA’s guidance, “Requests for Feedback on Medical Device Submissions: The Pre-Submission Program and Meetings with Food and Drug Administration Staff”22 (“Pre-Sub Guidance”).23
+### V. Conditions of Approval
+As discussed above, the extent to which FDA will accept certain data to be collected in the postmarket setting, rather than premarket, is affected by the Agency’s current authority to mandate completion of post-approval studies and to withdraw PMA approval for marketed devices for which FDA later determines that there is insufficient data demonstrating reasonable assurance that the device is safe or effective under the conditions of use prescribed.  Therefore,
+FDA may impose postmarket requirements at the time of approval of the device, including conditioning the device approval on continuing evaluation and periodic reporting on the safety, effectiveness, and reliability of these devices for their intended uses, in accordance with 21 CFR 814.82(a)(2).  These postmarket data will enable the Agency to assess the risks and benefits of these devices with a higher degree of certainty and take action where this information raises concerns regarding the safety or effectiveness of these devices.
+FDA may also impose conditions of approval on the labeling of the devices under 21 CFR 814.82(a)(3) if important for the device’s safe and effective use (e.g., in order to ensure that patients and healthcare providers have complete and accurate information regarding the benefits and risks of the device).  In addition, if necessary to provide for a reasonable assurance of the
 
----
 
-<!-- Page 11 -->
-Contains Nonbinding Recommendations 
- 
- 
-11 
-available at 
-http://www.fda.gov/downloads/MedicalDevices/DeviceRegulationandGuidance/Guidanc
-eDocuments/ucm092752.pdf.    
-o Example: The migration paradigm is often used on Class III devices for hepatitis 
-to support device performance when the previously approved assay is transferred 
-to a new instrument platform. 
-· Confirm mitigation effectiveness for a known risk in a post-approval study.  Mitigations 
-may be necessary for known safety risks associated with use of the device.  Confirmation 
-of the adequacy of the mitigation may be evaluated post-approval if mitigation of the risk 
-is not fundamental to FDA’s determination at the time of approval that the probable 
-benefits outweigh the probable risks of the device.   
-o Example:  After a permanent implant was recalled due to failures that could lead 
-to death, a firm developed a novel software feature aimed at predicting those 
-failures.   The firm intends to incorporate that feature into its submission for a 
-permanent implant intended for the same use as the recalled implant, which was 
-marketed by a different company. The ability to predict failures would alert at-
-risk patients to see their clinician (and address the concern) prior to a life-
-threatening event.  FDA might typically expect clinical data in a PMA to support 
-this type of feature before approval.  However, due to the public health need, 
-FDA worked with the firm to use modeling on the novel software feature coupled 
-with evaluation of published data to support premarket approval of the PMA. 
-Clinical data on devices with the software feature were collected postmarket in a 
-post-approval study, which was completed in a timely fashion after approval of 
-the PMA. 
-o Example: For pacing and defibrillation leads, the degree of the changes in the 
-products themselves and the potential impact to patient safety of those changes 
-can affect the collection of data premarket and postmarket. For major changes 
-(e.g., a completely new design, including new materials, new arrangement of 
-those materials, and/or new connections) there will likely be more questions about 
-impacts to patient safety, and thus a more rigorous set of premarket data (and a 
-smaller degree of uncertainty) would be required before approval as compared to 
-a lead with only minor changes. For example, even when a lead is new or 
-significantly modified, FDA generally only requires 6 months to 2 years of data 
-with a longer post-approval study to demonstrate long-term performance since the 
-safety risks are well known. 
-· Modify warnings, contraindications, precautions in approved labeling.  Post-approval 
-studies may be designed to collect further data on specific adverse events or event types 
-for which there was limited knowledge during premarket review (e.g., small number of 
-adverse events that occur within a subpopulation or uncertainty relating to the probability 
-of minor adverse events), and the review of the postmarket data may result in revision of 
-the warning, contraindications and/or precautions in the labeling.
-
----
-
-<!-- Page 12 -->
-Contains Nonbinding Recommendations 
- 
- 
-12 
-o Example:  FDA generally requires that the labeling of certain device types contain 
-warnings and precautions when the device has not been tested in the magnetic 
-resonance imaging (MRI) environment for practitioners to use the device safely 
-and effectively.  However, FDA determined that the results from a limited clinical 
-study, modeling, and bench testing, when assessed together, provided assurance 
-that a new device was safe under certain MRI scanning conditions [i.e., Magnetic 
-Resonance (MR) Conditional]. The device could be approved without a 
-contraindication or precaution regarding MRI; instead it only had a labeling 
-limitation regarding the conditions under which an MRI could be done safely. In 
-this scenario, additional clinical data collection to further confirm the safety of 
-multiple scans and demonstrate chronic device durability occurred in the 
-postmarket setting. 
-· Approve for an intended population beyond what was fully evaluated in the pivotal trial, 
-with a confirmatory post-approval study.  In some cases, a device may be approved for a 
-patient population that has not been fully evaluated in the premarket clinical studies, if 
-the approval is conditioned on a post-approval confirmatory trial in the indicated patient 
-population and other data support a reasonable assurance of safety and effectiveness for 
-the intended population at the time of approval.  If the device is being studied postmarket 
-in accordance with its approval, there are no 21 CFR Part 812 investigational device 
-exemption (IDE) requirements for the post-approval confirmatory study, as long as the 
-device is studied in accordance with its approved labeling, including the indications for 
-use.   
-o Example:  Human papillomavirus (HPV) testing devices have two distinct 
-intended use populations with inherently different risk levels for cervical pre-
-cancer and cancer.  Approval for both populations was based on full analytical 
-data and agreement of clinical samples against a valid comparator, and clinical 
-evidence of safety and effectiveness for the high risk population.  A post-approval 
-study assessed the longitudinal risk of cervical cancer in the population with 
-lower risk. 
-· Assess long-term performance in a post-approval study.  Long-term performance of a 
-specific aspect of a device may be difficult to assess in a premarket study as it may be 
-necessary to collect data over a number of years in order to fully establish the 
-performance of the device.  Shifting the collection and evaluation of long-term 
-performance of a specific aspect of a device to a post-approval study allows FDA to 
-approve the device based on a reasonable assurance of safety and effectiveness 
-demonstrated in the premarket study, with uncertainty regarding the long-term 
-performance to be addressed postmarket.   
-o Example:  Long-term chronic performance and mechanical integrity of new 
-pacemaker leads is established through a standard post-approval study design 
-requiring 1000 patients out to 5 years.  This postmarket study is in lieu of 
-requiring chronic/long term data prior to premarket approval, which FDA
-
----
-
-<!-- Page 13 -->
-Contains Nonbinding Recommendations 
- 
- 
-13 
-recognizes would be difficult to obtain in a timely fashion.  Current premarket 
-clinical trials for this device require data out to one or two years.  
-· Assess rare adverse events in a post-approval study.  It may be more appropriate to 
-assess rare anticipated adverse events in the postmarket setting when FDA has a low 
-degree of uncertainty regarding the positive benefit-risk balance at the time of premarket 
-approval. 
-o Example:  In the 1980s, some contact lenses had been approved for up to 30 days 
-of continuous wear. After some market experience, an epidemiologic study was 
-published showing significant risk of microbial keratitis (severe corneal infection) 
-in the extended wear modality that was correlated to length of continuous wear.  
-Discussion between FDA and industry resulted in companies with extended wear 
-approvals voluntarily changing their indications to a maximum of 7-days of 
-continuous wear.  In the late 1990s, a new class of soft contact lens material 
-(silicone hydrogel) was developed that permitted much higher oxygen flow to the 
-cornea, which was widely expected to result in lower risk of microbial keratitis.  
-Sponsors sought indications from FDA for 30 days of continuous wear for these 
-new contact lenses.  However, microbial keratitis occurs at such a low rate that 
-improved safety could not be adequately characterized in a conventional contact 
-lens PMA study. FDA proposed a premarket study that, though large, could only 
-assess related, less severe corneal adverse events, which was followed by a much 
-larger post-approval cohort study accumulating approximately 5,000 patient-years 
-of device exposure.  This provided a practical way for the rate of microbial 
-keratitis to be adequately evaluated, while allowing the new technology to come 
-to the market in a timely manner, with an indication for 30 days of continuous 
-wear. 
-o Example:  Meta-analyses revealed that patients treated with first generation drug-
-eluting stents had a higher rate of stent thrombosis than patients treated with bare 
-metal stents.  While the overall rates of stent thrombosis were very low, stent 
-thrombosis often results in heart attack, stroke, or death.  Dual antiplatelet therapy 
-provides some protection from stent thrombosis, but it carries risks of bleeding, 
-preventing patients from having even minor surgeries or dental procedures.  There 
-was great debate in the scientific community regarding the optimal duration of 
-dual antiplatelet therapy that would provide the needed protection against stent 
-thrombosis without unduly prolonging a therapy with such substantial associated 
-risks.  FDA proceeded with approval of second-generation drug-eluting stents 
-with no change to premarket requirements, but required additional post-approval 
-studies to determine stent thrombosis rates and the optimal duration of dual anti-
-platelet therapy.     
-· Confirm bench data with clinical data collected in a post-approval study.  It may be 
-possible to approve a new device or a change to an existing device based on bench data 
-with postmarket confirmatory clinical data.
-
----
-
-<!-- Page 14 -->
-Contains Nonbinding Recommendations 
- 
- 
-14 
-o Example: When an in vitro diagnostic device is capable of detecting both 
-common and rare targets (e.g., mutations or pathogens), the rare targets may be 
-challenging to evaluate clinically in a timely manner. Such tests may be approved 
-based on robust pre-clinical and clinical data for the common target(s) with 
-masking of the rare target(s) not adequately supported by the data. Masking 
-involves software programming that prevents the user from viewing results for 
-specific targets, and allows the test to reach the market before adequate data on 
-rare targets are available. Sponsors may continue to evaluate the rare targets 
-postmarket to support unmasking. This process thus allows collection of 
-additional clinical data to support the final approval of the device for all targets. 
-o Example: When quadripolar lead connectors were introduced, FDA worked with 
-sponsors to capture clinical data in both the premarket and postmarket settings in 
-combination with premarket animal study data and bench testing. 
-· Where the performance of a particular device type is well-studied, documented, and 
-understood. It may be possible to approve a new device or a new indication for an 
-existing device based on safety and effectiveness information already known about the 
-device or device type. 
-o Clinical data that may be sufficient in cases like this include Objective 
-Performance Criteria (OPC), Performance Goals (PG), Patient Reported 
-Outcomes (PROs), or other data in lieu of a randomized controlled clinical trial. 
-o Example: A sponsor is seeking approval of a 7-day extended wear lens. The same 
-lens was approved for daily wear and the sponsor has a substantial marketing 
-history in the U.S. for the daily wear lens. If the 7-day lens is made of the same 
-material as the daily wear lens, FDA may consider transferring a clinical study to 
-assess most aspects of device safety to the postmarket setting. 
-· Where long-term outside the U.S. (OUS) clinical performance data is available but not 
-sufficient. It may be possible to defer to postmarket or otherwise limit the collection of 
-clinical data from patients in the U.S. followed by a post-approval study if data from 
-outside the U.S. is available and provides reasonable assurance of safety and 
-effectiveness. 
-FDA’s Expedited Access for Devices Guidance20 also describes circumstances under which FDA 
-may consider it acceptable to collect certain data in the postmarket setting, rather than premarket, 
-while still ensuring that the statutory standard for premarket approval of reasonable assurance of 
-safety and effectiveness is met.  As part of the Expedited Access Pathway program described in 
-the Expedited Access for Devices Guidance, in order to facilitate earlier patient access to devices 
-that demonstrate the potential to address an unmet medical need, FDA may accept a higher 
-degree of uncertainty about the benefit-risk profile of the device at the time of approval by 
-                                                          
- 
-20 See footnote 3.
-
----
-
-<!-- Page 15 -->
-Contains Nonbinding Recommendations 
- 
- 
-15 
-collecting certain data in the postmarket setting rather than premarket.  Please reference the 
-Expedited Access Pathway guidance for more information about how FDA may be willing to 
-accept greater uncertainty. 
-FDA believes it is important to routinely reassess whether data that the Agency receives in a 
-premarket submission for a device type may instead be collected postmarket or if the data are no 
-longer necessary for FDA to determine that there is a reasonable assurance of safety and 
-effectiveness for the device type.  Sponsors who believe that the extent of data FDA previously 
-expected in a premarket submission for the device type for which they plan to submit a PMA 
-should be collected postmarket or should no longer be required, should submit a Pre-Submission 
-(“Pre-Sub”),21 as described in FDA’s guidance, “Requests for Feedback on Medical Device 
-Submissions: The Pre-Submission Program and Meetings with Food and Drug Administration 
-Staff”22 (“Pre-Sub Guidance”).23   
-V. Conditions of Approval  
-As discussed above, the extent to which FDA will accept certain data to be collected in the 
-postmarket setting, rather than premarket, is affected by the Agency’s current authority to 
-mandate completion of post-approval studies and to withdraw PMA approval for marketed 
-devices for which FDA later determines that there is insufficient data demonstrating reasonable 
-assurance that the device is safe or effective under the conditions of use prescribed.  Therefore, 
-FDA may impose postmarket requirements at the time of approval of the device, including 
-conditioning the device approval on continuing evaluation and periodic reporting on the safety, 
-effectiveness, and reliability of these devices for their intended uses, in accordance with 21 CFR 
-814.82(a)(2).  These postmarket data will enable the Agency to assess the risks and benefits of 
-these devices with a higher degree of certainty and take action where this information raises 
-concerns regarding the safety or effectiveness of these devices.   
-FDA may also impose conditions of approval on the labeling of the devices under 21 CFR 
-814.82(a)(3) if important for the device’s safe and effective use (e.g., in order to ensure that 
-patients and healthcare providers have complete and accurate information regarding the benefits 
-and risks of the device).  In addition, if necessary to provide for a reasonable assurance of the 
-                                                          
- 
-21 Section 745A(b) of the FD&C Act, added by section 1136 of FDASIA, requires applicants to include an 
-electronic copy of certain submission types, including PMA submissions and Pre-Subs, after issuance of final 
-guidance implementing that provision.  FDA issued the guidance eCopy Program for Medical Devices Submissions 
-(available at 
-http://www.fda.gov/downloads/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/UCM313794.
-pdf), on December 31, 2012.  Sponsors are therefore required to include an eCopy for all PMA submission types and 
-Pre-Subs.   
-22 For more information on the Pre-Sub Program, see FDA’s guidance “Requests for Feedback on Medical Device 
-Submissions: The Pre-Submission Program and Meetings with Food and Drug Administration Staff” 
+21 Section 745A(b) of the FD&C Act, added by section 1136 of FDASIA, requires applicants to include an electronic copy of certain submission types, including PMA submissions and Pre-Subs, after issuance of final guidance implementing that provision.  FDA issued the guidance eCopy Program for Medical Devices Submissions (available at http://www.fda.gov/downloads/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/UCM313794.
+pdf), on December 31, 2012.  Sponsors are therefore required to include an eCopy for all PMA submission types and Pre-Subs.
+Submissions: The Pre-Submission Program and Meetings with Food and Drug Administration Staff”
 (http://www.fda.gov/downloads/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/UCM311176.
-pdf).  FDA’s draft guidance represents FDA’s proposed approach on this topic.    
-23 As another option, for devices that have been automatically classified into class III under Section 513(f)(1) of the 
-FD&C Act, if there is an approved PMA for a device of that type, sponsors may seek reclassification under Section 
-513(f)(3) of the FD&C Act. If there is no approved PMA for a device of that type, a de novo request may be an 
-appropriate option for such a device.
+pdf).  FDA’s draft guidance represents FDA’s proposed approach on this topic.
+23 As another option, for devices that have been automatically classified into class III under Section 513(f)(1) of the FD&C Act, if there is an approved PMA for a device of that type, sponsors may seek reclassification under Section 513(f)(3) of the FD&C Act. If there is no approved PMA for a device of that type, a de novo request may be an appropriate option for such a device.
+safety and effectiveness of these devices, FDA may restrict the device as a condition of approval under 21 CFR 814.82(a)(1).
+FDA intends to work with sponsors regarding the conditions of approval that may be imposed, including discussing post-approval study type and size, the types of follow-up necessary, and other details to ensure postmarket activities meet requirements for data collection. Further, FDA recognizes that postmarket studies should not be limited to repeating or conducting variations of premarket studies. FDA intends to work with sponsors to identify the best way to collect the information necessary to demonstrate safety and effectiveness in the postmarket setting.
+### A. Post-Approval Studies
+In circumstances where post-approval data collection is appropriate, FDA may require post-approval studies as a condition of approval.  These studies may include both clinical and non-clinical testing.  The post-approval study design should take into account possible sample size implications for conduct of interim analyses to the extent such analyses are required by FDA.
+FDA also recommends post-approval study designs consider market conditions and potential recruitment challenges with respect to the risk level of the device, among other factors. The approval order will specify the agreed upon timeframe for the sponsor to complete the post-approval study, conduct analyses and submit the data to FDA.
+In appropriate instances, FDA may order the sponsor to conduct postmarket surveillance under section 522 of the FD&C Act in lieu of a post-approval study.  Note that the failure or refusal of a manufacturer to comply with section 522 is a prohibited act under section 301(q)(1)(C) of the FD&C Act, 21 U.S.C. 331(q)(1)(C). Further, under section 502(t)(3) of the act, 21 U.S.C.
+352(t)(3), a device is misbranded if there is a failure or refusal to comply with any requirement under section 522 of the FD&C Act.  Please note that violations of sections 301(q)(1)(C) or 502(t)(3) may lead to enforcement action including seizure, injunction, prosecution, or civil money penalties.
+### B. Reporting Requirements for Post-Approval Studies
+FDA may impose continuing periodic reporting on the safety, effectiveness, and reliability of the device for its intended use under 21 CFR 814.82(a)(2) (e.g., periodic reporting of the status and interim data or analyses of the required postmarket data collection).  The reports required to be submitted will be included in the post-approval order.
+### C. Labeling
+FDA may impose certain labeling requirements as a condition to PMA approval, under 21 CFR 814.82(a)(3) that are important for the device’s safe and effective use (e.g., information on the risks and benefits of the use of the device).  Any labeling requirements will be included in the approval order.
+The labeling of an approved device should include a succinct description of the uncertainty about anticipated benefits and risks and the extent of data that supported approval, including the required post-approval study or studies.
+### D. Registries
+In some cases, it may be appropriate to use data from a registry to meet the requirements of the condition of approval study.  Maintenance of registry data may help provide further information about the safety and effectiveness of the device, or to verify records, reports, or information submitted to the agency [21 CFR 814.82(a)].
+## VI. Postmarket Actions
+There are several actions that the sponsor or the FDA may, as appropriate, take in the postmarket setting as a result of the required conditions of approval, depending on whether the sponsor conducts and completes the required post-approval study and submits, in a timely manner, the data from the study to FDA as specified in the approval order, as well as the study’s results.
+FDA may take enforcement action if the sponsor has not met the required conditions of approval, including failure to initiate or complete a post-approval study specified in the approval order for the device.
+In addition, as provided in the FDA guidance entitled, “Procedures for Handling Post-Approval
+Studies Imposed by PMA Order,” issued June 15, 2009 (“post-approval guidance”),24 FDA posts certain information about the post-approval studies for devices on FDA’s website at: http://www.accessdata.fda.gov/scripts/ cdrh/cfdocs/cfPMA/PMA_pas.cfm.
+The actions that the sponsor or FDA may take in the postmarket setting include, but are not limited to, the following: (1) Submission of a PMA Supplement
+The results from the post-approval study may trigger the need for the sponsor to submit a PMA supplement to FDA in accordance with 21 CFR 814.39(a) if the sponsor makes a change affecting the safety or effectiveness of the device.  Examples include, but are not limited to, narrowing or expanding the indication for use of the device, labeling changes, and changes in the performance or design specifications.
+Labeling Changes
+Information learned about a device from postmarket use may result in changes in the information required in the device’s approved labeling. Depending on the results of the post-approval study, the sponsor could revise the device’s labeling, with the approval of FDA, to reflect the population and condition for which a clinical benefit was directly established in the post-approval study or studies, including expanding or narrowing the indication for use, or removing or revising language in the labeling regarding the level of uncertainty about the approved indication for use.
+
+
+The sponsor may decide to revise other sections of labeling (e.g., contraindications, warnings, precautions, adverse events and clinical studies), with FDA’s approval, to ensure that, based on the new data, the labeling adequately describes the safety and effectiveness of the device. For example, new information about an adverse event may require labeling changes to device instructions for use or to warnings or precautions to ensure the device complies with section 502(f) of the FD&C Act and 21 CFR Part 801.  During its review of post-approval study reports,
+FDA may discuss changes to the labeling based on the study findings to ensure the device labeling has adequate directions for use.
+(2)
+Safety Communications
+In some instances, it may be in the best interest of public health for FDA to issue a safety communication, such as if the post-approval study raises new safety concerns, but FDA believes there is still a reasonable assurance of safety and effectiveness.
+(3)
+Panel Meeting
+As described in the post-approval guidance, FDA may seek the advice of panels when considering the progress of, or data from the post-approval study, such as when the results of the study may be difficult to interpret.25
+(4)
+Administrative and Enforcement Actions
+FDA may take a variety of administrative or enforcement actions if the Agency concludes that, based on the data from the required post-approval study or other source, there is a lack of reasonable assurance that the device is safe or effective under the conditions of use, or if the sponsor has not met the required conditions of approval under 21 CFR 814.82, including failure to initiate or complete a post-approval study specified in the approval order.  For example, failure to comply with post-approval requirements under 21 CFR 814.82(a)(2) when conducting postmarket surveillance may cause the device to be misbranded under section 502(t)(2) of the FD&C Act and constitute a prohibited act under section 301(q)(1)(B) of the FD&C Act, which could result in seizure, injunction, or civil money penalties.  Also, failure to comply with post-approval labeling and advertising requirements under 21 CFR 814.82(a)(3) may cause the device to be misbranded under section 502 of the FD&C Act.
+FDA recognizes that circumstances may arise outside of the sponsor’s control that may adversely affect the ability of the sponsor to complete the post-approval study on time.  Therefore, although FDA expects sponsors to undertake efforts to complete the study on time, when appropriate, FDA intends to be reasonably flexible about the timeframe for completing a post-approval study and submitting data to the Agency.
+In accordance with section 515(e) of the FD&C Act and 21 CFR 814.46, FDA may also withdraw PMA approval of a device if, for example: · On the basis of the data from the required post-approval study(ies), or other new information with respect to such device, evaluated together with the evidence available to
+
+
+If FDA determines there are grounds for withdrawal, the Agency may ask the sponsor if they would like to voluntarily request withdrawal of approval under 21 CFR 814.37(d).  If the sponsor does not voluntarily request the Agency to withdraw approval, FDA will notify the sponsor of FDA’s proposal to withdraw approval in a notice of opportunity for an informal hearing under 21 CFR Part 16.26  If the sponsor does not request a hearing or if after the part 16 hearing, FDA decides to proceed with the withdrawal, FDA will issue the sponsor an order withdrawing approval of the application.27  The order will be issued under 21 CFR 814.17, will state each ground for withdrawing approval, and will include a notice of an opportunity for administrative review under section 515(e)(2) of the FD&C Act. FDA will give the public notice of an order withdrawing approval of a PMA, in accordance with 21 CFR 814.46(e).
 
 ---
 
-<!-- Page 16 -->
-Contains Nonbinding Recommendations 
- 
- 
-16 
-safety and effectiveness of these devices, FDA may restrict the device as a condition of approval 
-under 21 CFR 814.82(a)(1).   
-FDA intends to work with sponsors regarding the conditions of approval that may be imposed, 
-including discussing post-approval study type and size, the types of follow-up necessary, and 
-other details to ensure postmarket activities meet requirements for data collection. Further, FDA 
-recognizes that postmarket studies should not be limited to repeating or conducting variations of 
-premarket studies. FDA intends to work with sponsors to identify the best way to collect the 
-information necessary to demonstrate safety and effectiveness in the postmarket setting. 
-A. 
-Post-Approval Studies  
-In circumstances where post-approval data collection is appropriate, FDA may require post-
-approval studies as a condition of approval.  These studies may include both clinical and non-
-clinical testing.  The post-approval study design should take into account possible sample size 
-implications for conduct of interim analyses to the extent such analyses are required by FDA. 
-FDA also recommends post-approval study designs consider market conditions and potential 
-recruitment challenges with respect to the risk level of the device, among other factors. The 
-approval order will specify the agreed upon timeframe for the sponsor to complete the post-
-approval study, conduct analyses and submit the data to FDA.   
-In appropriate instances, FDA may order the sponsor to conduct postmarket surveillance under 
-section 522 of the FD&C Act in lieu of a post-approval study.  Note that the failure or refusal of 
-a manufacturer to comply with section 522 is a prohibited act under section 301(q)(1)(C) of the 
-FD&C Act, 21 U.S.C. 331(q)(1)(C). Further, under section 502(t)(3) of the act, 21 U.S.C. 
-352(t)(3), a device is misbranded if there is a failure or refusal to comply with any requirement 
-under section 522 of the FD&C Act.  Please note that violations of sections 301(q)(1)(C) or 
-502(t)(3) may lead to enforcement action including seizure, injunction, prosecution, or civil 
-money penalties. 
-B. 
-Reporting Requirements for Post-Approval Studies 
-FDA may impose continuing periodic reporting on the safety, effectiveness, and reliability of the 
-device for its intended use under 21 CFR 814.82(a)(2) (e.g., periodic reporting of the status and 
-interim data or analyses of the required postmarket data collection).  The reports required to be 
-submitted will be included in the post-approval order. 
-C. 
-Labeling 
-FDA may impose certain labeling requirements as a condition to PMA approval, under 21 CFR 
-814.82(a)(3) that are important for the device’s safe and effective use (e.g., information on the 
-risks and benefits of the use of the device).  Any labeling requirements will be included in the 
-approval order.   
-The labeling of an approved device should include a succinct description of the uncertainty about 
-anticipated benefits and risks and the extent of data that supported approval, including the 
-required post-approval study or studies.
+## Footnotes
 
----
+[^1]: See section 515(d) of the Federal Food, Drug, and Cosmetic Act (FD&C Act). risk framework described in FDA’s guidance, “Factors to Consider When Making Benefit-Risk
 
-<!-- Page 17 -->
-Contains Nonbinding Recommendations 
- 
- 
-17 
-D. 
-Registries  
-In some cases, it may be appropriate to use data from a registry to meet the requirements of the 
-condition of approval study.  Maintenance of registry data may help provide further information 
-about the safety and effectiveness of the device, or to verify records, reports, or information 
-submitted to the agency [21 CFR 814.82(a)]. 
-VI. Postmarket Actions  
-There are several actions that the sponsor or the FDA may, as appropriate, take in the postmarket 
-setting as a result of the required conditions of approval, depending on whether the sponsor 
-conducts and completes the required post-approval study and submits, in a timely manner, the 
-data from the study to FDA as specified in the approval order, as well as the study’s results.  
-FDA may take enforcement action if the sponsor has not met the required conditions of approval, 
-including failure to initiate or complete a post-approval study specified in the approval order for 
-the device. 
-In addition, as provided in the FDA guidance entitled, “Procedures for Handling Post-Approval 
-Studies Imposed by PMA Order,” issued June 15, 2009 (“post-approval guidance”),24 FDA posts 
-certain information about the post-approval studies for devices on FDA’s website at: 
-http://www.accessdata.fda.gov/scripts/ cdrh/cfdocs/cfPMA/PMA_pas.cfm.   
-The actions that the sponsor or FDA may take in the postmarket setting include, but are not 
-limited to, the following: 
-(1) 
-Submission of a PMA Supplement 
-The results from the post-approval study may trigger the need for the sponsor to submit a PMA 
-supplement to FDA in accordance with 21 CFR 814.39(a) if the sponsor makes a change 
-affecting the safety or effectiveness of the device.  Examples include, but are not limited to, 
-narrowing or expanding the indication for use of the device, labeling changes, and changes in the 
-performance or design specifications.   
-Labeling Changes 
-Information learned about a device from postmarket use may result in changes in the information 
-required in the device’s approved labeling. Depending on the results of the post-approval study, 
-the sponsor could revise the device’s labeling, with the approval of FDA, to reflect the 
-population and condition for which a clinical benefit was directly established in the post-
-approval study or studies, including expanding or narrowing the indication for use, or removing 
-or revising language in the labeling regarding the level of uncertainty about the approved 
-indication for use. 
-                                                          
- 
-24 Available at:  
-http://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/ucm070974.htm.
+[^2]: Available at: http://www.fda.gov/medicaldevices/deviceregulationandguidance/guidancedocuments/ucm267829.htm.
 
----
+[^3]: For more information on the Expedited Access Pathway program, see FDA’s guidance, “Expedited Access for
 
-<!-- Page 18 -->
-Contains Nonbinding Recommendations 
- 
- 
-18 
-The sponsor may decide to revise other sections of labeling (e.g., contraindications, warnings, 
-precautions, adverse events and clinical studies), with FDA’s approval, to ensure that, based on 
-the new data, the labeling adequately describes the safety and effectiveness of the device. For 
-example, new information about an adverse event may require labeling changes to device 
-instructions for use or to warnings or precautions to ensure the device complies with section 
-502(f) of the FD&C Act and 21 CFR Part 801.  During its review of post-approval study reports, 
-FDA may discuss changes to the labeling based on the study findings to ensure the device 
-labeling has adequate directions for use. 
-(2) 
-Safety Communications 
-In some instances, it may be in the best interest of public health for FDA to issue a safety 
-communication, such as if the post-approval study raises new safety concerns, but FDA believes 
-there is still a reasonable assurance of safety and effectiveness. 
-(3) 
-Panel Meeting 
-As described in the post-approval guidance, FDA may seek the advice of panels when 
-considering the progress of, or data from the post-approval study, such as when the results of the 
-study may be difficult to interpret.25   
-(4) 
-Administrative and Enforcement Actions 
-FDA may take a variety of administrative or enforcement actions if the Agency concludes that, 
-based on the data from the required post-approval study or other source, there is a lack of 
-reasonable assurance that the device is safe or effective under the conditions of use, or if the 
-sponsor has not met the required conditions of approval under 21 CFR 814.82, including failure 
-to initiate or complete a post-approval study specified in the approval order.  For example, 
-failure to comply with post-approval requirements under 21 CFR 814.82(a)(2) when conducting 
-postmarket surveillance may cause the device to be misbranded under section 502(t)(2) of the 
-FD&C Act and constitute a prohibited act under section 301(q)(1)(B) of the FD&C Act, which 
-could result in seizure, injunction, or civil money penalties.  Also, failure to comply with post-
-approval labeling and advertising requirements under 21 CFR 814.82(a)(3) may cause the device 
-to be misbranded under section 502 of the FD&C Act.   
-FDA recognizes that circumstances may arise outside of the sponsor’s control that may adversely 
-affect the ability of the sponsor to complete the post-approval study on time.  Therefore, 
-although FDA expects sponsors to undertake efforts to complete the study on time, when 
-appropriate, FDA intends to be reasonably flexible about the timeframe for completing a post-
-approval study and submitting data to the Agency. 
-In accordance with section 515(e) of the FD&C Act and 21 CFR 814.46, FDA may also 
-withdraw PMA approval of a device if, for example:  
-· On the basis of the data from the required post-approval study(ies), or other new 
-information with respect to such device, evaluated together with the evidence available to 
-                                                          
- 
-25 See footnote 23.
+[^4]: See http://www.fda.gov/AboutFDA/WhatWeDo/default.htm.
 
----
+[^5]: See “CDRH Mission, Vision and Shared Values,” at http://www.fda.gov/AboutFDA/CentersOffices/OfficeofMedicalProductsandTobacco/CDRH/ucm300639.htm. See also CBER’s similar mission at http://www.fda.gov/AboutFDA/CentersOffices/OfficeofMedicalProductsandTobacco/CBER/ucm122878.htm.
 
-<!-- Page 19 -->
-Contains Nonbinding Recommendations 
- 
- 
-19 
-FDA when the PMA was approved, FDA finds that there is a lack of a showing of 
-reasonable assurance that the device is safe or effective under the conditions of use 
-prescribed, recommended or suggested in the labeling; 
-· The sponsor fails to meet any post-approval requirement imposed by the PMA approval 
-order, which includes failure to complete a post-approval requirement within the 
-timeframe established in the approval order; or 
-· On the basis of new information, evaluated together with the evidence available to FDA 
-when the PMA was approved, FDA finds that the labeling, based on a fair evaluation of 
-all material facts, is false or misleading in any particular, and such labeling is not 
-corrected within a reasonable time after receipt of written notice from FDA. 
-If FDA determines there are grounds for withdrawal, the Agency may ask the sponsor if they 
-would like to voluntarily request withdrawal of approval under 21 CFR 814.37(d).  If the sponsor 
-does not voluntarily request the Agency to withdraw approval, FDA will notify the sponsor of 
-FDA’s proposal to withdraw approval in a notice of opportunity for an informal hearing under 21 
-CFR Part 16.26  If the sponsor does not request a hearing or if after the part 16 hearing, FDA 
-decides to proceed with the withdrawal, FDA will issue the sponsor an order withdrawing 
-approval of the application.27  The order will be issued under 21 CFR 814.17, will state each 
-ground for withdrawing approval, and will include a notice of an opportunity for administrative 
-review under section 515(e)(2) of the FD&C Act. FDA will give the public notice of an order 
-withdrawing approval of a PMA, in accordance with 21 CFR 814.46(e). 
-                                                          
- 
-26 21 CFR 814.46(c) 
-27 21 CFR 814.46(d).
+[^7]: http://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/ucm085994.htm.
+
+[^9]: 21 CFR 860.7(d)(1).
+
+[^12]: See footnote 2.
+
+[^13]: 21 CFR 814.82 states that “FDA may impose postapproval requirements in a PMA approval order or by regulation at the time of approval of the PMA or by regulation subsequent to approval.”  In addition, under section
+
+[^15]: See footnote 2.
+
+[^16]: See footnote 2.
+
+[^17]: See footnote 2.
+
+[^18]: See footnote 3.
+
+[^20]: See footnote 3. collecting certain data in the postmarket setting rather than premarket.  Please reference the
+
+[^22]: For more information on the Pre-Sub Program, see FDA’s guidance “Requests for Feedback on Medical Device
+
+[^24]: Available at: http://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/ucm070974.htm.
+
+[^25]: See footnote 23. FDA when the PMA was approved, FDA finds that there is a lack of a showing of reasonable assurance that the device is safe or effective under the conditions of use prescribed, recommended or suggested in the labeling; · The sponsor fails to meet any post-approval requirement imposed by the PMA approval order, which includes failure to complete a post-approval requirement within the timeframe established in the approval order; or · On the basis of new information, evaluated together with the evidence available to FDA when the PMA was approved, FDA finds that the labeling, based on a fair evaluation of all material facts, is false or misleading in any particular, and such labeling is not corrected within a reasonable time after receipt of written notice from FDA.
+
+[^26]: 21 CFR 814.46(c)
+
+[^27]: 21 CFR 814.46(d).

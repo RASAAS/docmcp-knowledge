@@ -4,900 +4,172 @@
 
 **Published:** 2017-09-06
 
----
-
-<!-- Page 1 -->
-Contains Nonbinding Recommendations 
- 
-Design Considerations and Pre-
-market Submission 
-Recommendations for Interoperable 
-Medical Devices  
-Guidance for Industry and Food and 
-Drug Administration Staff  
- 
- 
- 
-Document issued on: September 6, 2017 
-The draft of this document was issued on January 26, 2016. 
-For questions about this document regarding CDRH-regulated devices, email them to: 
-DigitalHealth@fda.hhs.gov. 
-For questions about this document regarding CBER-regulated devices, contact the Office of 
-Communication, Outreach and Development (OCOD), by calling 1-800-835-4709 or 240-
-402-8010. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-    
- 
-U.S. Department of Health and Human Services 
-Food and Drug Administration 
-Center for Devices and Radiological Health 
-Center for Biologics Evaluation and Research
 
 ---
 
-<!-- Page 2 -->
-Contains Nonbinding Recommendations 
- 
-Preface 
-Public Comment 
-You may submit electronic comments and suggestions at any time for Agency consideration to 
-http://www.regulations.gov .  Submit written comments to the Dockets Management Staff, 
-Food and Drug Administration, 5630 Fishers Lane, Room 1061, (HFA-305), Rockville, MD 
-20852.  Identify all comments with the docket number [FDA-2015-4852]. Comments may not 
-be acted upon by the Agency until the document is next revised or updated. 
- 
-Additional Copies 
-CDRH 
-Additional copies are available from the Internet.  You may also send an e-mail request to 
-CDRH-Guidance@fda.hhs.gov to receive a copy of the guidance. Please use the document 
-number 1500015 to identify the guidance you are requesting. 
-CBER 
-Additional copies are available from the Center for Biologics Evaluation and Research 
-(CBER), by written request, Office of Communication, Outreach, and Development 
-(OCOD), 10903 New Hampshire Ave., Bldg. 71, Room 3128, Silver Spring, MD 20993-
-0002, or by calling 1-800-835-4709 or 240-402-8010, by email, ocod@fda.hhs.gov or from 
-the Internet at 
-http://www.fda.gov/BiologicsBloodVaccines/GuidanceComplianceRegulatoryInformation/G
-uidances/default.htm.
+Design Considerations and Pre-market Submission Recommendations for Interoperable Medical Devices
 
----
+This guidance represents the current thinking of the Food and Drug Administration (FDA or Agency) on this topic.  It does not establish any rights for any person and is not binding on FDA or the public.  You can use an alternative approach if it satisfies the requirements of the applicable statutes and regulations.  To discuss an alternative approach, contact the
+FDA staff or Office responsible for this guidance as listed on the title page.
+## I. Introduction
+As electronic medical devices are increasingly connected to each other and to other technology, the ability of these connected systems to safely and effectively exchange and use the information that has been exchanged becomes increasingly important.  Advancing the ability of medical devices to exchange and use information safely and effectively with other medical devices as well as other technology offers the potential to increase efficiency in patient care.
+FDA intends to promote the development and availability of safe and effective interoperable medical devices.  FDA is issuing this guidance to assist industry and FDA staff in identifying specific considerations related to the ability of electronic medical devices to safely and effectively exchange information and use exchanged information.  This document highlights considerations that should be included in the development and design of interoperable medical devices and provides recommendations for the content of premarket submissions and labeling for such devices.
+For the current edition of the FDA-recognized standard(s) referenced in this document, see the FDA Recognized Consensus Standards Database Web site at http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfStandards/search.cfm.”
+FDA recognizes and anticipates that the agency and industry may need up to 60 days to perform activities to operationalize the policies within the guidance.  If new information regarding device interoperability as outlined in this guidance is not included in a premarket submission received by FDA before or up to 60 days after the publication of this guidance, CDRH staff does not generally intend to request such information during the review of the submission.  CDRH does, however, intend to review any such information if submitted.
 
-<!-- Page 3 -->
-Contains Nonbinding Recommendations 
- 
-Table of Contents 
-I. 
-Introduction ....................................................................................................................................................1
-II. 
-Background ...............................................................................................................................................2
-III. 
-Scope.........................................................................................................................................................3
-IV. 
-Definitions .................................................................................................................................................4
-V.
-Design Considerations for Interoperable Medical Devices .......................................................................5
-A. 
-Purpose of the Electronic Interface ...........................................................................................................6
-B. 
-Anticipated Users ................................................................
-C. 
-Risk Management Considerations ................................
-......................................................................7
-.............................................................................8
-D. 
-Verification and Validation Considerations ............................................................................................ 10
-E. 
-Labeling Considerations .......................................................................................................................... 11
-F. 
-Use of Consensus Standards .................................................................................................................... 12
-VI. 
-Recommendations for Contents of Pre-market Submissions .................................................................. 12
-A. 
-Device Description .................................................................................................................................. 13
-B. 
-Risk Analysis ........................................................................................................................................... 14
-C. 
-Verification and Validation ..................................................................................................................... 15
-D. 
-Labeling ................................................................................................................................................... 16
+FDA's guidance documents, including this guidance, do not establish legally enforceable responsibilities.  Instead, guidances describe the Agency's current thinking on a topic and should be viewed only as recommendations, unless specific regulatory or statutory requirements are cited.  The use of the word should in Agency guidance means that something is suggested or recommended, but not required.
+## II. Background
+The need and desire to connect medical devices to each other as well as other products, technologies and systems is growing in the healthcare community.  This interconnectivity of various products or systems that may include medical devices has been characterized by many as “interoperability.”1  Interoperability in healthcare has the potential to encourage innovation and facilitate new models of health care delivery by promoting the availability and sharing of information across systems even when products from different manufacturers are used.
+In this guidance we refer to interoperability as the ability of two or more products, technologies or systems to exchange information and to use the information that has been exchanged.  In this context, exchange of information includes transmission, reception or both, regardless of the means or protocol by which the exchange happens.  The use of the exchanged information can include displaying, storing, interpreting, analyzing, and automatically acting on or controlling another product.  When medical devices are involved in an interoperable system (a system of connected devices in which information is exchanged and used across the connections and which includes at least one medical device), the safety of the patient and operator are the most important considerations.
+Systems that include interoperable medical devices may be composed of existing devices, products, or technologies acting together to achieve a function different from the individual medical device.  Medical devices may be standalone, may broadcast data so anyone can access the data, may connect and exchange information with other medical devices, non-medical device technologies, and systems, or may be incorporated in a complex system of medical devices and/or non-medical device technologies.  Increased use of interoperable medical devices has the potential to foster rapid innovation at lower
 
----
+1See Institute of Electrical and Electronics Engineering (IEEE) Standard Computer Dictionary: A Compilation of IEEE Standard Computer Glossaries (New York, NY: 1990).
+cost.  However, appropriate safety considerations including those at the system level that are not taken into account in the device design can result in unforeseen safety and effectiveness issues for the patient, operator, device or system.
+Medical device interoperability is not limited to unidirectional patient data but includes more complex interactions, such as exerting command and control over a medical device(s).  Establishing and implementing appropriate functional, performance, and interface requirements for devices with such interactions is important.  One way to achieve this is through use of standardized architectures and communication protocols.
+Another way is to specify non-standard interface requirements and characteristics in labeling.
+Device design elements that factor in interoperability considerations may improve data portability and patient safety.  However, errors stemming from inadequate interoperability can occur, such as the transmission of weight in kilograms when the receiving medical device assumes the measurement is in pounds, and could lead to patient harm and even death. Therefore the failure to establish and implement appropriate functional, performance, and interface requirements during product development may lead to the exchange of inaccurate, untimely, or misleading information.  It may also lead to device malfunction, including the failure to operate, and could lead to patient injury and even death.
+Device-specific identification information, such as UDI (unique device identifier), and patient-specific data, such as ECG (electrocardiogram) waveforms, can contribute importantly to patient care and improved patient outcomes.  In addition, such information and data may be used, in conjunction with authoritative data sources like the Global
+Unique Device Identification Database (GUDID) to populate electronic health records and allow patients, their families, and health care providers to make better informed healthcare decisions.  FDA has taken steps to facilitate the use of medical device data and promote safe and effective interoperability.  For example, FDA has recognized various consensus standards that support medical device interoperability.
+This guidance is intended to highlight the following items that medical device manufacturers should consider to provide a reasonable assurance of safety and effectiveness of their interoperable medical devices: 1) designing systems with interoperability as an objective; 2) conducting appropriate verification, validation and risk management activities; and 3) specifying the relevant functional, performance, and interface characteristics in a useravailable manner such as labeling.
+## III. Scope
+This guidance provides manufacturers with design considerations when developing interoperable medical devices, and recommendations regarding information to include in pre-market submissions and device labeling.
+This document focuses on the information content exchanged over the connections (e.g., USB (Universal Serial Bus), wireless connection).  This document does not focus on aspects of physical compatibility such as physical connectors, but does recommend that manufacturers specify the type of connection that supports the electronic interface.
+This document is not intended to provide guidance on whether or not a specific product or modification to a product requires a pre-market submission.  We intend this document to complement other FDA guidance documents.
+The pre-market discussion within this guidance applies to the following premarket submissions for interoperable medical devices;2
+- Premarket Notification (510(k)) including Traditional, Special, and Abbreviated 510(k) submissions; · De novo requests; · Premarket Approval Applications (PMAs); · Product Development Protocols (PDPs); · Humanitarian Device Exemption (HDE) submissions; and · Biologics License Applications (BLAs).
+## IV. Definitions Electronic interface:
+For purposes of this guidance, the electronic interface is the medium by which systems interact and/or communicate with each other thereby allowing the exchange of information between systems.  It includes both the type of connection (e.g. USB port, wireless connection) and the information content.  It is a medium by which a medical device exchanges and uses information with other equipment or other medical devices.
+Interoperable medical devices:
+For purposes of this guidance, interoperable medical devices are devices as defined in section 201(h) of the Federal Food, Drug, and Cosmetic Act (FD&C Act) that have the ability to exchange and use information through an electronic interface with another medical/nonmedical product, system, or device.  Interoperable medical devices can be involved in simple unidirectional transmission of data to another device or product or in more complex interactions, such as exerting command and control over one or more medical devices.
+Interoperable medical devices can also be part of a complex system containing multiple medical devices.
 
-<!-- Page 4 -->
-Contains Nonbinding Recommendations 
- 
-1 
-Design Considerations and Pre-
-market Submission 
-Recommendations for 
-Interoperable Medical Devices  
- 
-Guidance for Industry and  
-Food and Drug Administration Staff  
-This guidance represents the current thinking of the Food and Drug Administration (FDA 
-or Agency) on this topic.  It does not establish any rights for any person and is not binding 
-on FDA or the public.  You can use an alternative approach if it satisfies the requirements 
-of the applicable statutes and regulations.  To discuss an alternative approach, contact the 
-FDA staff or Office responsible for this guidance as listed on the title page.  
-I.  Introduction  
-As electronic medical devices are increasingly connected to each other and to other 
-technology, the ability of these connected systems to safely and effectively exchange and use 
-the information that has been exchanged becomes increasingly important.  Advancing the 
-ability of medical devices to exchange and use information safely and effectively with other 
-medical devices as well as other technology offers the potential to increase efficiency in 
-patient care.   
-FDA intends to promote the development and availability of safe and effective interoperable 
-medical devices.  FDA is issuing this guidance to assist industry and FDA staff in identifying 
-specific considerations related to the ability of electronic medical devices to safely and 
-effectively exchange information and use exchanged information.  This document highlights 
-considerations that should be included in the development and design of interoperable 
-medical devices and provides recommendations for the content of premarket submissions and 
-labeling for such devices.       
-For the current edition of the FDA-recognized standard(s) referenced in this document, see 
-the FDA Recognized Consensus Standards Database Web site at 
-http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfStandards/search.cfm.”
 
----
+2 Manufacturers may also consider applying this guidance as appropriate to Investigational Device Exemption (IDE) submissions, Investigational New Drug (IND) submissions, and to devices exempt from premarket review.  For studies in which the primary purpose of the IDE study includes the interaction of two or more devices, the sponsor may wish to consider the recommendations within this guidance document.
+### V. Design Considerations for Interoperable Medical Devices
+Manufacturers can choose from many design solutions to create interoperable medical devices.  The information model (data attributes), the functional model (role played within the interoperable system), and the architectural model (how the device is connected within the system) should be considered during the design and development of an interoperable medical device.  Design inputs should include the desired functional and performance characteristics of the electronic interface.
 
-<!-- Page 5 -->
-Contains Nonbinding Recommendations 
- 
-2 
-FDA recognizes and anticipates that the agency and industry may need up to 60 days to 
-perform activities to operationalize the policies within the guidance.  If new information 
-regarding device interoperability as outlined in this guidance is not included in a premarket 
-submission received by FDA before or up to 60 days after the publication of this guidance, 
-CDRH staff does not generally intend to request such information during the review of the 
-submission.  CDRH does, however, intend to review any such information if submitted. 
- 
-FDA's guidance documents, including this guidance, do not establish legally enforceable 
-responsibilities.  Instead, guidances describe the Agency's current thinking on a topic and 
-should be viewed only as recommendations, unless specific regulatory or statutory 
-requirements are cited.  The use of the word should in Agency guidance means that 
-something is suggested or recommended, but not required.  
-II. Background  
-The need and desire to connect medical devices to each other as well as other products, 
-technologies and systems is growing in the healthcare community.  This interconnectivity of 
-various products or systems that may include medical devices has been characterized by 
-many as “interoperability.”1  Interoperability in healthcare has the potential to encourage 
-innovation and facilitate new models of health care delivery by promoting the availability 
-and sharing of information across systems even when products from different manufacturers 
-are used.  
-In this guidance we refer to interoperability as the ability of two or more products, 
-technologies or systems to exchange information and to use the information that has been 
-exchanged.  In this context, exchange of information includes transmission, reception or 
-both, regardless of the means or protocol by which the exchange happens.  The use of the 
-exchanged information can include displaying, storing, interpreting, analyzing, and 
-automatically acting on or controlling another product.  When medical devices are involved 
-in an interoperable system (a system of connected devices in which information is exchanged 
-and used across the connections and which includes at least one medical device), the safety 
-of the patient and operator are the most important considerations.   
-Systems that include interoperable medical devices may be composed of existing devices, 
-products, or technologies acting together to achieve a function different from the 
-individual medical device.  Medical devices may be standalone, may broadcast data so 
-anyone can access the data, may connect and exchange information with other medical 
-devices, non-medical device technologies, and systems, or may be incorporated in a 
-complex system of medical devices and/or non-medical device technologies.  Increased 
-use of interoperable medical devices has the potential to foster rapid innovation at lower 
-                                                          
-1See Institute of Electrical and Electronics Engineering (IEEE) Standard Computer Dictionary: A Compilation 
-of IEEE Standard Computer Glossaries (New York, NY: 1990).
+Manufacturers of interoperable medical devices should perform a risk analysis and conduct appropriate testing that considers the risks associated with interoperability, the anticipated users, reasonably foreseeable misuse, and reasonably foreseeable combinations of events that can result in a hazardous situation.
+As a general matter, one action manufacturers can take to reduce risk and facilitate safe and effective interoperability is to clearly set forth in device labeling the functional and performance requirements of their electronic interface.  Providing these characteristics along with limitations of the interface or use of the device in an interoperable system can minimize the risks associated with failure to exchange and use data as intended.
+As part of a comprehensive quality system under 21 CFR part 820, medical device manufacturers must manage risks including those associated with an electronic interface that is incorporated into the medical device.  The following considerations should be appropriately tailored to the selected interface technology, and the intended use and use environments for the medical device.
+1. Purpose of the Electronic Interface: Device manufacturers should consider
+the purpose for each of the electronic interfaces.  This should include the types of data exchanges taking place (e.g., sending, receiving, issue command and control).
+2. The Anticipated Users: Manufacturers should determine the anticipated
+user(s) for each of the electronic interfaces.  Examples of users include: clinical user, biomedical engineers, home healthcare user, IT (information technology) professional, system integrator, system designers, patients, researchers, and medical device designers.
+3. Risk Management: Manufacturers should consider ways to mitigate risks
+identified in the risk analysis.  This includes risks that arise from others connecting to the electronic interface.
+4. Verification and Validation: Manufacturers should establish, maintain, and
+implement appropriate verification and validation to ensure that their devices with electronic interfaces work correctly prior to delivery, during the integration process, continue to work while in use, and through maintenance and release of software updates.
+5. Labeling Considerations: Manufacturers should include information that
+users may need to connect predictably and safely to the interface for its intended purpose.
+6. Use of Consensus Standards: Manufacturers should consider the use of
+consensus standards related to medical device interoperability.
+### A. Purpose of the Electronic Interface
+Manufacturers should, as part of their device design, clearly establish the purpose of electronic interfaces that are included on a medical device and consider that purpose when they are both designing the device (including the electronic interface) and developing the device instructions.  There may be times when the purpose of the interface is included in the intended use and other times when the purpose of the interface plays a much smaller role and is not included in the intended use.
+In designing a medical device’s electronic interface, manufacturers should consider the level of interoperability3 needed to achieve the purpose of the interface, as well as the information necessary to describe the interface.  The labeling should be in sufficient detail to allow anticipated users to connect and use the medical device and interface as it is intended.
 
----
+Design considerations may be different for different kinds of electronic interfaces.  An interface intended to deliver an electrical pulse for synchronization purposes has different requirements compared to an interface that delivers information to an information system.
+Elements that should be considered in the design of the device’s electronic interface include but are not limited to the following: · types of devices that it is meant to connect to;
 
-<!-- Page 6 -->
-Contains Nonbinding Recommendations 
- 
-3 
-cost.  However, appropriate safety considerations including those at the system level that 
-are not taken into account in the device design can result in unforeseen safety and 
-effectiveness issues for the patient, operator, device or system. 
-Medical device interoperability is not limited to unidirectional patient data but includes 
-more complex interactions, such as exerting command and control over a medical 
-device(s).  Establishing and implementing appropriate functional, performance, and 
-interface requirements for devices with such interactions is important.  One way to 
-achieve this is through use of standardized architectures and communication protocols. 
-Another way is to specify non-standard interface requirements and characteristics in 
-labeling. 
-Device design elements that factor in interoperability considerations may improve data 
-portability and patient safety.  However, errors stemming from inadequate 
-interoperability can occur, such as the transmission of weight in kilograms when the 
-receiving medical device assumes the measurement is in pounds, and could lead to 
-patient harm and even death. Therefore the failure to establish and implement appropriate 
-functional, performance, and interface requirements during product development may 
-lead to the exchange of inaccurate, untimely, or misleading information.  It may also lead 
-to device malfunction, including the failure to operate, and could lead to patient injury 
-and even death. 
-Device-specific identification information, such as UDI (unique device identifier), and 
-patient-specific data, such as ECG (electrocardiogram) waveforms, can contribute 
-importantly to patient care and improved patient outcomes.  In addition, such information 
-and data may be used, in conjunction with authoritative data sources like the Global 
-Unique Device Identification Database (GUDID) to populate electronic health records 
-and allow patients, their families, and health care providers to make better informed 
-healthcare decisions.  FDA has taken steps to facilitate the use of medical device data and 
-promote safe and effective interoperability.  For example, FDA has recognized various 
-consensus standards that support medical device interoperability.  
-This guidance is intended to highlight the following items that medical device manufacturers 
-should consider to provide a reasonable assurance of safety and effectiveness of their 
-interoperable medical devices: 1) designing systems with interoperability as an objective; 2) 
-conducting appropriate verification, validation and risk management activities; and 3) 
-specifying the relevant functional, performance, and interface characteristics in a user-
-available manner such as labeling. 
-III. 
-Scope 
-This guidance provides manufacturers with design considerations when developing 
-interoperable medical devices, and recommendations regarding information to include in pre-
-market submissions and device labeling.
+3 As a reference the concept of “Levels of interoperability” are described by others as follows: · Turnitsa, C.D. (2005). “Extending the Levels of Conceptual Interoperability Model”.  Proceedings IEEE
+Summer Computer Simulation Conference, IEEE CS Press.
+- Healthcare Information and Management System Society (HiMMS) Dictionary of Healthcare Information
+Technology Terms, Acronyms and Organizations, 2nd Edition, 2010, Appendix B, p190, original source: HIMSS Electronic Health Record Association.
+- M. Robkin, S. Weininger, B. Preciado and J. Goldman, "Levels of conceptual interoperability model for
+healthcare framework for safe medical device interoperability," Product Compliance Engineering (ISPCE), 2015 IEEE Symposium on, Chicago, IL, 2015, pp. 1-8.
+- type of data exchange taking place (e.g., sending, receiving, issue command and control); · the use of standards (e.g., data format, transmission, interface standards, standard terminologies); · the need for time synchronization4; · method of data transmission; · the necessary timeliness and the reliability of information (e.g., sample rate, transmission rate); · what the user should or should not do with the electronic interface including contraindications, warnings and precautions on the use of the exchanged information; · clinical context for the use of the information exchanged in the interface, such as an infusion pump used to deliver anesthesia to a sedated patient in the intensive care unit; · interoperability scenarios for the use of the interface, i.e., how the manufacturer anticipates the interface being used.  For example an interface on a pulse oximeter is used to send data to a computer system in an eight hour study on neonates to assess sleep.  The computer system is also gathering information from ECG.  Therefore the information from the pulse oximeter and ECG need to have their times synchronized and data collected at a specific rate.  Knowing the scenario would demonstrate the need for specific features; · the functional and performance requirements of the device as a result of the exchanged information; · expected flow of information or exchange of information through an application programming interface (API) which may include considerations of acceptable and unacceptable commands on the interface and impact of such interface on the device safety and effectiveness; and · the transmission of metadata (e.g., unique device identifier (UDI), software version, configurations, settings).
+### B. Anticipated Users
+It is important to identify not just the purpose of the electronic interface, but also the anticipated users of the electronic interface.  Determining the anticipated users will help in appropriately applying risk management strategies for activities such as developing appropriate instructions for use and setting limitations for use of the device, including contraindications, warnings and precautions.  Manufacturers should identify the anticipated user(s) for their device and how the device is expected to be used in the interoperable system.
+The manufacturer should make sufficient information available so that the anticipated user(s)
 
----
+4 For time synchronization, one should consider using (RFC 1305) Network Time Protocol Version 3 or (RFC 5905) Network Time Protocol Version 4, or another appropriate protocol.
+can use the electronic interface safely and effectively.  Different types of users may need different information.  For example: · users, operators, and clinicians need to know the clinical uses and potential risks relevant to the use environment and the clinical task at hand; · equipment maintenance personnel and hospital clinical engineers need to know what actions to take to verify correct configuration and operation.  They need to assure that the system is performing as specified; · IT professionals need to understand the performance needs and security requirements of the devices connected to the networks they maintain and operate; · system integrators, system designers, and medical device designers are responsible for the safe and effective operation of their systems or devices and need to know the capabilities of the components they use so that they can perform adequate risk management and validation; and · patients may need specific instructions on how to use their device in a home environment.
+Manufacturers should consider the different users when they are both designing the device (including the electronic interface) and developing the device instructions.  These considerations may influence whether the manufacturer places certain limitations on the users of the device or limitations on how the device may be used.  Developing different instructions for different users may help to mitigate the risks.
+Manufacturers’ risk management strategies should address the risks associated with the anticipated users of the device, reasonably foreseeable misuse of the device, and reasonably foreseeable combinations of events that could result in a hazardous situation.  However, FDA recognizes that a manufacturer cannot be responsible for all possible uses outside of the purpose of the interface.  Based upon the risks associated with reasonably foreseeable use and misuse, a manufacturer may want to change the design of the device, the intended interoperability scenarios, or include warnings, precautions or contraindications in device labeling to reduce risks to acceptable levels.
+### C. Risk Management Considerations
+Including an electronic interface on a medical device may have an impact on risk management considerations including security for the medical device, the network, and other interfaced devices.  Analysis of risks due to both the intended and unintended access of the medical device through the interface should be considered.  FDA recognizes that managing interoperable medical devices includes balancing how to allow intended access while implementing security features to restrict unintended access to the medical devices.5
 
-<!-- Page 7 -->
-Contains Nonbinding Recommendations 
- 
-4 
-This document focuses on the information content exchanged over the connections (e.g., 
-USB (Universal Serial Bus), wireless connection).  This document does not focus on aspects 
-of physical compatibility such as physical connectors, but does recommend that 
-manufacturers specify the type of connection that supports the electronic interface. 
-This document is not intended to provide guidance on whether or not a specific product or 
-modification to a product requires a pre-market submission.  We intend this document to 
-complement other FDA guidance documents. 
-The pre-market discussion within this guidance applies to the following premarket 
-submissions for interoperable medical devices;2 
-· Premarket Notification (510(k)) including Traditional, Special, and Abbreviated 
-510(k) submissions; 
-· De novo requests;  
-· Premarket Approval Applications (PMAs); 
-· Product Development Protocols (PDPs); 
-· Humanitarian Device Exemption (HDE) submissions; and 
-· Biologics License Applications (BLAs).  
-IV. 
-Definitions 
-Electronic interface: 
-For purposes of this guidance, the electronic interface is the medium by which systems 
-interact and/or communicate with each other thereby allowing the exchange of information 
-between systems.  It includes both the type of connection (e.g. USB port, wireless 
-connection) and the information content.  It is a medium by which a medical device 
-exchanges and uses information with other equipment or other medical devices. 
-Interoperable medical devices: 
-For purposes of this guidance, interoperable medical devices are devices as defined in section 
-201(h) of the Federal Food, Drug, and Cosmetic Act (FD&C Act) that have the ability to 
-exchange and use information through an electronic interface with another medical/non-
-medical product, system, or device.  Interoperable medical devices can be involved in simple 
-unidirectional transmission of data to another device or product or in more complex 
-interactions, such as exerting command and control over one or more medical devices.  
-Interoperable medical devices can also be part of a complex system containing multiple 
-medical devices. 
- 
-                                                          
-2 Manufacturers may also consider applying this guidance as appropriate to Investigational Device Exemption 
-(IDE) submissions, Investigational New Drug (IND) submissions, and to devices exempt from premarket 
-review.  For studies in which the primary purpose of the IDE study includes the interaction of two or more 
-devices, the sponsor may wish to consider the recommendations within this guidance document.
-
----
-
-<!-- Page 8 -->
-Contains Nonbinding Recommendations 
- 
-5 
-V. 
-Design Considerations for Interoperable Medical 
-Devices 
-Manufacturers can choose from many design solutions to create interoperable medical 
-devices.  The information model (data attributes), the functional model (role played within 
-the interoperable system), and the architectural model (how the device is connected within 
-the system) should be considered during the design and development of an interoperable 
-medical device.  Design inputs should include the desired functional and performance 
-characteristics of the electronic interface.   
-  
-Manufacturers of interoperable medical devices should perform a risk analysis and conduct 
-appropriate testing that considers the risks associated with interoperability, the anticipated 
-users, reasonably foreseeable misuse, and reasonably foreseeable combinations of events that 
-can result in a hazardous situation.     
-As a general matter, one action manufacturers can take to reduce risk and facilitate safe and 
-effective interoperability is to clearly set forth in device labeling the functional and 
-performance requirements of their electronic interface.  Providing these characteristics along 
-with limitations of the interface or use of the device in an interoperable system can minimize 
-the risks associated with failure to exchange and use data as intended.   
-As part of a comprehensive quality system under 21 CFR part 820, medical device 
-manufacturers must manage risks including those associated with an electronic interface 
-that is incorporated into the medical device.  The following considerations should be 
-appropriately tailored to the selected interface technology, and the intended use and use 
-environments for the medical device.  
-1. Purpose of the Electronic Interface: Device manufacturers should consider 
-the purpose for each of the electronic interfaces.  This should include the types 
-of data exchanges taking place (e.g., sending, receiving, issue command and 
-control).   
-2. The Anticipated Users: Manufacturers should determine the anticipated 
-user(s) for each of the electronic interfaces.  Examples of users include: 
-clinical user, biomedical engineers, home healthcare user, IT (information 
-technology) professional, system integrator, system designers, patients, 
-researchers, and medical device designers.  
-3. Risk Management: Manufacturers should consider ways to mitigate risks 
-identified in the risk analysis.  This includes risks that arise from others 
-connecting to the electronic interface.
-
----
-
-<!-- Page 9 -->
-Contains Nonbinding Recommendations 
- 
-6 
-4. Verification and Validation: Manufacturers should establish, maintain, and 
-implement appropriate verification and validation to ensure that their devices 
-with electronic interfaces work correctly prior to delivery, during the 
-integration process, continue to work while in use, and through maintenance 
-and release of software updates. 
-5. Labeling Considerations: Manufacturers should include information that 
-users may need to connect predictably and safely to the interface for its 
-intended purpose. 
-6. Use of Consensus Standards: Manufacturers should consider the use of 
-consensus standards related to medical device interoperability. 
-A. 
-Purpose of the Electronic Interface 
-Manufacturers should, as part of their device design, clearly establish the purpose of 
-electronic interfaces that are included on a medical device and consider that purpose when 
-they are both designing the device (including the electronic interface) and developing the 
-device instructions.  There may be times when the purpose of the interface is included in the 
-intended use and other times when the purpose of the interface plays a much smaller role and 
-is not included in the intended use. 
-In designing a medical device’s electronic interface, manufacturers should consider the level 
-of interoperability3 needed to achieve the purpose of the interface, as well as the information 
-necessary to describe the interface.  The labeling should be in sufficient detail to allow 
-anticipated users to connect and use the medical device and interface as it is intended.   
-  
-Design considerations may be different for different kinds of electronic interfaces.  An 
-interface intended to deliver an electrical pulse for synchronization purposes has different 
-requirements compared to an interface that delivers information to an information system.  
-Elements that should be considered in the design of the device’s electronic interface include 
-but are not limited to the following:  
-· types of devices that it is meant to connect to; 
-                                                          
-3 As a reference the concept of “Levels of interoperability” are described by others as follows: 
-· 
-Turnitsa, C.D. (2005). “Extending the Levels of Conceptual Interoperability Model”.  Proceedings IEEE 
-Summer Computer Simulation Conference, IEEE CS Press. 
-· 
-Healthcare Information and Management System Society (HiMMS) Dictionary of Healthcare Information 
-Technology Terms, Acronyms and Organizations, 2nd Edition, 2010, Appendix B, p190, original source: 
-HIMSS Electronic Health Record Association. 
-· 
-M. Robkin, S. Weininger, B. Preciado and J. Goldman, "Levels of conceptual interoperability model for 
-healthcare framework for safe medical device interoperability," Product Compliance Engineering (ISPCE), 
-2015 IEEE Symposium on, Chicago, IL, 2015, pp. 1-8.
-
----
-
-<!-- Page 10 -->
-Contains Nonbinding Recommendations 
- 
-7 
-· type of data exchange taking place (e.g., sending, receiving, issue command 
-and control); 
-· the use of standards (e.g., data format, transmission, interface standards, 
-standard terminologies);  
-· the need for time synchronization4; 
-· method of data transmission; 
-· the necessary timeliness and the reliability of information (e.g., sample rate, 
-transmission rate); 
-· what the user should or should not do with the electronic interface including 
-contraindications, warnings and precautions on the use of the exchanged 
-information; 
-· clinical context for the use of the information exchanged in the interface, such 
-as an infusion pump used to deliver anesthesia to a sedated patient in the 
-intensive care unit; 
-· interoperability scenarios for the use of the interface, i.e., how the 
-manufacturer anticipates the interface being used.  For example an interface 
-on a pulse oximeter is used to send data to a computer system in an eight hour 
-study on neonates to assess sleep.  The computer system is also gathering 
-information from ECG.  Therefore the information from the pulse oximeter 
-and ECG need to have their times synchronized and data collected at a 
-specific rate.  Knowing the scenario would demonstrate the need for specific 
-features;   
-· the functional and performance requirements of the device as a result of the 
-exchanged information; 
-· expected flow of information or exchange of information through an 
-application programming interface (API) which may include considerations of 
-acceptable and unacceptable commands on the interface and impact of such 
-interface on the device safety and effectiveness; and 
-· the transmission of metadata (e.g., unique device identifier (UDI), software 
-version, configurations, settings). 
-B. 
-Anticipated Users 
-It is important to identify not just the purpose of the electronic interface, but also the 
-anticipated users of the electronic interface.  Determining the anticipated users will help in 
-appropriately applying risk management strategies for activities such as developing 
-appropriate instructions for use and setting limitations for use of the device, including 
-contraindications, warnings and precautions.  Manufacturers should identify the anticipated 
-user(s) for their device and how the device is expected to be used in the interoperable system.  
-The manufacturer should make sufficient information available so that the anticipated user(s) 
-                                                          
-4 For time synchronization, one should consider using (RFC 1305) Network Time Protocol Version 3 or (RFC 
-5905) Network Time Protocol Version 4, or another appropriate protocol.
-
----
-
-<!-- Page 11 -->
-Contains Nonbinding Recommendations 
- 
-8 
-can use the electronic interface safely and effectively.  Different types of users may need 
-different information.  For example:  
-· users, operators, and clinicians need to know the clinical uses and potential 
-risks relevant to the use environment and the clinical task at hand; 
-· equipment maintenance personnel and hospital clinical engineers need to 
-know what actions to take to verify correct configuration and operation.  They 
-need to assure that the system is performing as specified;  
-· IT professionals need to understand the performance needs and security 
-requirements of the devices connected to the networks they maintain and 
-operate; 
-· system integrators, system designers, and medical device designers are 
-responsible for the safe and effective operation of their systems or devices and 
-need to know the capabilities of the components they use so that they can 
-perform adequate risk management and validation; and 
-· patients may need specific instructions on how to use their device in a home 
-environment. 
-Manufacturers should consider the different users when they are both designing the device 
-(including the electronic interface) and developing the device instructions.  These 
-considerations may influence whether the manufacturer places certain limitations on the 
-users of the device or limitations on how the device may be used.  Developing different 
-instructions for different users may help to mitigate the risks.  
-Manufacturers’ risk management strategies should address the risks associated with the 
-anticipated users of the device, reasonably foreseeable misuse of the device, and reasonably 
-foreseeable combinations of events that could result in a hazardous situation.  However, FDA 
-recognizes that a manufacturer cannot be responsible for all possible uses outside of the 
-purpose of the interface.  Based upon the risks associated with reasonably foreseeable use 
-and misuse, a manufacturer may want to change the design of the device, the intended 
-interoperability scenarios, or include warnings, precautions or contraindications in device 
-labeling to reduce risks to acceptable levels.      
-C. 
-Risk Management Considerations 
-Including an electronic interface on a medical device may have an impact on risk 
-management considerations including security for the medical device, the network, and other 
-interfaced devices.  Analysis of risks due to both the intended and unintended access of the 
-medical device through the interface should be considered.  FDA recognizes that managing 
-interoperable medical devices includes balancing how to allow intended access while 
-implementing security features to restrict unintended access to the medical devices.5 
-                                                          
-5 For more information on cybersecurity, please see our guidance, “Content of Premarket Submissions for 
 Management of Cybersecurity in Medical Devices” available at:
+FDA recommends that manufacturers include in their risk management approach a particular focus on the potential hazards, safety concerns, and security issues introduced when including an electronic interface.  For example, as part of the evaluation and design process, manufacturers should consider the following: · whether implementation and use of the interface degrades the basic safety or risk controls of the device; · whether implementation and use of the interface/interfaces degrades the essential performance of the device as defined in IEC 60601-1; · whether appropriate security features are included in the design; and · whether the device has the ability to handle data that is corrupted or outside the appropriate parameters.
+Note that this list is not intended to be a comprehensive list of the issues that a manufacturer should address for its individual medical device.  Manufacturers should conduct their own assessment and address the issues identified during their risk management activities.
+In addition, existing communication and interoperability standards can be useful in deciding what issues or concerns should be addressed in the risk analysis of an electronic interface.
+FDA believes that an interoperable system should maintain basic safety and essential performance during normal and fault conditions.  A manufacturer should design an interoperable medical device that can appropriately mitigate risks associated with possible error scenarios such as:6
+- failures or malfunctions caused by direct or indirect connection of intended devices; · failures or malfunctions caused by invalid commands; · failures or malfunctions caused by receiving and processing erroneous data or commands; and · failures or malfunctions caused by not adhering to the non-functional requirements of the communication specification.  By non-functional requirements, FDA refers to the examples listed in ASTM 2761-09(2013)(e.g., bandwidth, latency, time synchronization).
+Medical device manufacturers should complete a risk assessment of their connection that considers reasonably foreseeable uses and misuses.  The manufacturer should ensure that the risks are mitigated.  For complex systems that contain multiple medical devices, identifying
 
----
-
-<!-- Page 12 -->
-Contains Nonbinding Recommendations 
- 
-9 
-FDA recommends that manufacturers include in their risk management approach a particular 
-focus on the potential hazards, safety concerns, and security issues introduced when 
-including an electronic interface.  For example, as part of the evaluation and design process, 
-manufacturers should consider the following:   
-· whether implementation and use of the interface degrades the basic safety or 
-risk controls of the device;  
-· whether implementation and use of the interface/interfaces degrades the 
-essential performance of the device as defined in IEC 60601-1;  
-· whether appropriate security features are included in the design; and 
-· whether the device has the ability to handle data that is corrupted or outside 
-the appropriate parameters. 
-Note that this list is not intended to be a comprehensive list of the issues that a manufacturer 
-should address for its individual medical device.  Manufacturers should conduct their own 
-assessment and address the issues identified during their risk management activities.   
-In addition, existing communication and interoperability standards can be useful in deciding 
-what issues or concerns should be addressed in the risk analysis of an electronic interface.   
-FDA believes that an interoperable system should maintain basic safety and essential 
-performance during normal and fault conditions.  A manufacturer should design an 
-interoperable medical device that can appropriately mitigate risks associated with possible 
-error scenarios such as:6 
-· failures or malfunctions caused by direct or indirect connection of intended 
-devices; 
-· failures or malfunctions caused by invalid commands; 
-· failures or malfunctions caused by receiving and processing erroneous data or 
-commands; and 
-· failures or malfunctions caused by not adhering to the non-functional requirements of 
-the communication specification.  By non-functional requirements, FDA refers to the 
-examples listed in ASTM 2761-09(2013)(e.g., bandwidth, latency, time 
-synchronization).   
-Medical device manufacturers should complete a risk assessment of their connection that 
-considers reasonably foreseeable uses and misuses.  The manufacturer should ensure that the 
-risks are mitigated.  For complex systems that contain multiple medical devices, identifying 
-                                                                                                                                                                                    
 http://www.fda.gov/downloads/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/UCM356
-190.pdf 
-6 See Section 5.4 of ASTM 2761-09 (2013), “Medical Devices and Medical Systems - Essential safety 
-requirements for equipment comprising the patient-centric integrated clinical environment (ICE) - Part 1: 
-General requirements and conceptual model.”
+190.pdf General requirements and conceptual model.”
+and managing the risks can be quite complicated.  To address complex systems containing multiple medical devices, manufacturers should use a systems approach as well as apply the considerations listed within this section.
+As part of their risk management process consistent with 21 CFR part 820, a manufacturer should establish, document, and maintain throughout the medical device lifecycle an ongoing process for identifying hazards, estimating and evaluating the associated risks, controlling these risks, and monitoring the effectiveness of the controls.  This process should include risk analysis, risk evaluation, risk control, and incorporation of production and post-production information.  FDA recognizes that medical device interoperability is a shared risk among stakeholders, including health care facilities, patients, providers, and manufacturers of medical devices.  Manufacturers should have a defined process to systematically conduct a risk evaluation and determine whether a risk is acceptable or unacceptable.  It is not possible to describe all hazards and risks associated with medical device interoperability in this guidance.  One example is the risks associated with unforeseen use of an interface by a third party.  FDA recommends manufacturers define and document their process for objectively assessing the foreseeable use and reasonably foreseeable misuse of their medical device throughout the device lifecycle.
+### D. Verification and Validation Considerations
+The verification and validation warranted will depend on the level of risks associated with the device, the purpose of the interface, the anticipated use of the device in the target system, and the intended use of the device.
+Interoperable medical devices should undergo an appropriate level of testing to demonstrate that the interactions on the electronic interface perform as intended.  The medical device manufacturer should test the electronic interface based upon the purpose of the interface and should make sure that it complies with the intended specifications.  For devices meant to be used with a limited number of specific devices, appropriate testing demonstrating safe operation with those specific devices may be appropriate.  For devices meant to work with many devices, it may be appropriate to test the device against the interface specification and with representative devices for verification.  If the medical device is meant to be a part of a larger interoperable system, the manufacturer should conduct testing to reasonably assure that the medical device will continue to safely and effectively fulfill its intended use when it is assembled, installed, and maintained according to its instructions.
+For example, a manufacturer should: · verify and validate that when data is corrupted it can be detected and appropriately managed; · perform testing to assure that the device continues to operate safely when data is received in a manner outside of the bounds of the parameters specified.
+Determine how or whether this can be detected and what impact this will have on the rest of the system; · implement a fault-tolerant design and verify its performance; · establish and specify fail safe states for critical functions (e.g., delivering energy, real-time monitoring); · if conforming to consensus standards, verify and validate that the design meets the intent and scope identified in the standards; · verify only authorized users (individuals, devices and systems) are allowed to exchange information with the interoperable medical device; · validate the user(s) interface.  Determine that the user(s) are capable of correctly using the interface(s); · assure that reasonably foreseeable interactions do not cause incorrect operation of other networked systems; and · conduct testing that simulates real-world use of the device.
+As part of the specification for an interoperable medical device, the manufacturer should also consider developing appropriate test scenarios which may allow a user to assess if the basic safety and effectiveness of the medical device is maintained when incorporated into the intended interoperable system.
+### E. Labeling Considerations
+One way to reduce risk and facilitate safe and effective medical device interoperability is to include in labeling the functional and performance requirements of the electronic interfaces that may be used to connect medical devices with other electronic equipment.7  Labeling options may include materials within the packing of the device, the instructions for use, or device-specific information posted on the manufacturer’s web site.  The manufacturer should determine the appropriate way to provide the information based upon the anticipated users and the risk analysis.
 
----
+7 Section 201(k) of the FD&C Act defines 'label' as a: ·
+'display of written, printed, or graphic matter upon the immediate container of any article...'
+The term 'immediate container' does not include package liners.  Any word, statement, or other information appearing on the immediate container must also appear 'on the outside container or wrapper, if any there be, or the retail package of such article, or is easily legible through the outside container of wrapper.'
+Section 201(m) defines 'labeling' as: ·
+'all labels and other written, printed, or graphic matter (1) upon any article or any of its containers or wrappers, or (2) accompanying such article' at any time while a device is held for sale after shipment or delivery for shipment in interstate commerce.
+The term 'accompanying' is interpreted liberally to mean more than physical association with the product.  It extends to posters, tags, pamphlets, circulars, booklets, brochures, instruction books, direction sheets, fillers, etc.  ' Accompanying' also includes labeling that is brought together with the device after shipment or delivery for shipment in interstate commerce.
+Even if a device is not subject to pre-market submission, the recommendations found in
+Section VI.D, which gives labeling recommendations for pre-market submissions, may be helpful to develop clear labeling and minimize risk.
+### F. Use of Consensus Standards
+FDA recognizes the benefits of relying on published consensus standards in the design of medical devices, in general, and in the development of interoperable medical devices, in particular.  As such, FDA has recognized numerous consensus standards relevant to the development and design of interoperable medical devices and encourages their use.  In many cases, the standards that support interoperability may be used by not only manufacturers of medical devices, but also many other stakeholders such as healthcare delivery organizations, including system integrators, system designers, and information technology professionals who work in health care settings.
+Many of the currently available standards that support medical device interoperability are design standards.  These standards may help manufacturers with other design considerations identified above.  For example, standards may specify data format, interoperability architecture design, or other aspects associated with interoperability.  Conformance with recognized consensus standards is voluntary for a medical device manufacturer.  FDA recognition of design standards does not mean that FDA is recommending a particular design standard over another.  FDA recognition of design standards that support interoperability are meant to encourage manufacturers, health care organizations, and others to implement interoperability in a standardized way.  Alternatively, manufacturers may choose to use their own design preferences for their interface (in lieu of a published consensus standard) for their medical devices.  In either case, problems or misuse of interoperable medical devices can be minimized by making the functional, performance, and interface requirements openly available to all users.
+FDA continues to evaluate standards that support interoperability of medical devices for recognition.  In addition, FDA welcomes recommendations of published consensus standards for consideration of recognition (http://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/Standards/ucm123739.
+htm). Please refer to the FDA Recognized Consensus Standards Database for a current listing of recognized standards (http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfStandards/search.cfm).
 
-<!-- Page 13 -->
-Contains Nonbinding Recommendations 
- 
-10
-and managing the risks can be quite complicated.  To address complex systems containing 
-multiple medical devices, manufacturers should use a systems approach as well as apply the 
-considerations listed within this section.   
-As part of their risk management process consistent with 21 CFR part 820, a manufacturer 
-should establish, document, and maintain throughout the medical device lifecycle an ongoing 
-process for identifying hazards, estimating and evaluating the associated risks, controlling 
-these risks, and monitoring the effectiveness of the controls.  This process should include risk 
-analysis, risk evaluation, risk control, and incorporation of production and post-production 
-information.  FDA recognizes that medical device interoperability is a shared risk among 
-stakeholders, including health care facilities, patients, providers, and manufacturers of 
-medical devices.  Manufacturers should have a defined process to systematically conduct a 
-risk evaluation and determine whether a risk is acceptable or unacceptable.  It is not possible 
-to describe all hazards and risks associated with medical device interoperability in this 
-guidance.  One example is the risks associated with unforeseen use of an interface by a third 
-party.  FDA recommends manufacturers define and document their process for objectively 
-assessing the foreseeable use and reasonably foreseeable misuse of their medical device 
-throughout the device lifecycle. 
-D. 
-Verification and Validation Considerations 
-The verification and validation warranted will depend on the level of risks associated with 
-the device, the purpose of the interface, the anticipated use of the device in the target system, 
-and the intended use of the device.  
-Interoperable medical devices should undergo an appropriate level of testing to demonstrate 
-that the interactions on the electronic interface perform as intended.  The medical device 
-manufacturer should test the electronic interface based upon the purpose of the interface and 
-should make sure that it complies with the intended specifications.  For devices meant to be 
-used with a limited number of specific devices, appropriate testing demonstrating safe 
-operation with those specific devices may be appropriate.  For devices meant to work with 
-many devices, it may be appropriate to test the device against the interface specification and 
-with representative devices for verification.  If the medical device is meant to be a part of a 
-larger interoperable system, the manufacturer should conduct testing to reasonably assure 
-that the medical device will continue to safely and effectively fulfill its intended use when it 
-is assembled, installed, and maintained according to its instructions.   
-For example, a manufacturer should:   
-· verify and validate that when data is corrupted it can be detected and 
-appropriately managed;    
-· perform testing to assure that the device continues to operate safely when data 
-is received in a manner outside of the bounds of the parameters specified.  
-Determine how or whether this can be detected and what impact this will have 
-on the rest of the system;
+## VI. Recommendations for Contents of Pre-market Submissions
+Not all interoperable medical devices require premarket submission to the FDA.  This section provides guidance for those interoperable medical devices that require a premarket submission.  The premarket submission may just cover one device that is part of the intended interoperable system or may cover the whole system.
+When preparing a premarket submission, consider any other relevant FDA guidances or special controls applicable to the device.  For a medical device that is intended to exchange and use information with or from another product, technology, or system, FDA recommends that sponsors provide basic information similar to what would normally be provided to support other functions or features on a medical device.  Specifically, when considering the presence of an electronic interface, we recommend considering the elements that were discussed in the “Design Considerations for Interoperable Medical Devices” section of this document.  As with any submission, when making a claim that a device exchanges and uses information with or from other devices, technologies, or products, the information submitted should be sufficient to support the claim.
+### A. Device Description
+As part of the device description typically submitted in a premarket submission, a sponsor should include a discussion of each externally-facing electronic interface found on the device, the purpose of each interface, and the anticipated users of the interface.
+Sponsors should also describe how each interface is meant to be used and/or the limitations of the use of the interfaces.  If the interface is only meant to be used by the manufacturer, this should be clearly stated.  If the interface is meant to be used with only specific devices, those devices should be clearly specified.
+If the device is meant to exchange or use data with or from other medical devices, products, technologies, or systems, then the device description should include a description of the information exchanged, how it is exchanged, and the impact the exchanged information has on the device or other impacted devices.  This may include some or all of the following elements based upon the claims of data exchange and use made for the medical device: · explain the purpose of the interface and the role the device plays within an interoperable system.  This may be as simple as stating that the device is meant to deliver device data to a specific product, technology, or system architecture described in a particular standard; · specify if the interface is meant to transmit, receive, or exchange information; · specify any standards used including relevant version numbers and dates.
+- describe the requirements for timeliness and the integrity of the information (e.g. sample rate, transmission rate); · describe the communication format, rate, and transmission method; · discuss the limitations (what the user should not do), contraindications, precautions, and warnings; · describe the functional and performance requirements; and · list the Application Programming Interface (API) if the device is software that can be used by other software, medical device or system.
+Please note that the level of detail necessary may depend upon the intended interoperable scenario(s) in which the manufacturer expects the interoperable medical device to be used.
+### B. Risk Analysis
+Manufacturers’ risk analysis should consider the risks associated with interoperability, reasonably foreseeable misuse, and reasonably foreseeable combinations of events that could result in a hazardous situation.   Based upon these risks, a manufacturer may want to change the design of the device, the intended interoperability scenarios, or include device limitations and/or warnings to reduce risks to acceptable levels.  As discussed in ISO 14971, risk control measures may not be necessary for risks that are broadly acceptable;8 these decisions should be captured within the risk analysis documentation.
+FDA emphasizes that the same process of defining hazardous situations, risks, and mitigations can be used when considering a system that contains more than one connected medical device.  There may be additional hazardous situations that arise in these conditions.  The manufacturer should specify which mitigations are implemented and which are necessary for safe use but may require implementation by other parties, such as the party responsible for set-up or installation.  These should be included in the risk analysis section of the submission.
+For devices subject to the risk analysis in 21 CFR 820.30(g), FDA recommends including an analysis of the interface or interfaces on the devices, the intended connections, and any effects that the connection may have on the device performance.  The normal risk analysis submitted should include hazards that were considered, possible hazardous situations, the risks that may result from each, and how the hazards and risks were addressed.  Your submitted analysis should include the normal elements in a risk analysis and address: · the risk control measures for reducing unacceptable risks to acceptable levels; · fault tolerant behavior, boundary conditions, and fail safe behavior such as how the device handles delays, corrupted data, data provided in the wrong format, unsynchronized or time mismatched data, and any other issues with the reception and transmission of data; · any risks potentially arising from security vulnerabilities9 that may be
 
----
+For example, a manufacturer may want to include in the labeling an explicit warning against foreseeable uses that could result in harm.
+It is important to note that there are a variety of methods including assurance cases that can be used to capture information on risk and how it is addressed in the design and implementation of a device.  This document does not specify which method should be used; rather it emphasizes the need to capture this information.
+### C. Verification and Validation
+As part of the device performance testing typically submitted in a pre-market submission, a sponsor should include results of verification and validation testing for the electronic interfaces on the device.  The nature and extent of the validation depends upon the risks associated with the device, the purpose of the interface, the anticipated use of the device in the interoperable system, and the intended use of the device.  Manufacturers should consider aspects highlighted in section V.D. under design considerations.
+For those devices that are only meant to be used with a limited number of specific devices, documentation demonstrating appropriate testing with those specific devices may be appropriate.  For those devices meant to connect with a class of devices or to be used by any device or computer system, documentation demonstrating appropriate testing with a representative of that class of devices or within the context of the system may be more appropriate.  Documentation which demonstrates the following performance testing should be included in the submission: · verification that the device interface meets its design specifications; · validation that the device interface performs as intended; · determination and verification of the information that should be provided to a user to connect to the interface and to allow the user to ensure that the connection has been made correctly; and · verification that the device will perform safely and within specification when used under normal conditions and abnormal conditions that are reasonably likely to occur (e.g. receives data outside of specification, connected to an unintended device or system, does not lock up the system when the interface is exercised).
+The degree of documentation can vary based upon the risks associated with the device,
 
-<!-- Page 14 -->
-Contains Nonbinding Recommendations 
- 
-11
-· implement a fault-tolerant design and verify its performance; 
-· establish and specify fail safe states for critical functions (e.g., delivering 
-energy, real-time monitoring); 
-· if conforming to consensus standards, verify and validate that the design 
-meets the intent and scope identified in the standards; 
-· verify only authorized users (individuals, devices and systems) are allowed to 
-exchange information with the interoperable medical device; 
-· validate the user(s) interface.  Determine that the user(s) are capable of 
-correctly using the interface(s); 
-· assure that reasonably foreseeable interactions do not cause incorrect 
-operation of other networked systems; and 
-· conduct testing that simulates real-world use of the device.   
-As part of the specification for an interoperable medical device, the manufacturer should also 
-consider developing appropriate test scenarios which may allow a user to assess if the basic 
-safety and effectiveness of the medical device is maintained when incorporated into the 
-intended interoperable system. 
-E. 
-Labeling Considerations 
-One way to reduce risk and facilitate safe and effective medical device interoperability is to 
-include in labeling the functional and performance requirements of the electronic interfaces 
-that may be used to connect medical devices with other electronic equipment.7  Labeling 
-options may include materials within the packing of the device, the instructions for use, or 
-device-specific information posted on the manufacturer’s web site.  The manufacturer should 
-determine the appropriate way to provide the information based upon the anticipated users 
-and the risk analysis. 
-                                                          
-7 Section 201(k) of the FD&C Act defines 'label' as a:  
-· 
-'display of written, printed, or graphic matter upon the immediate container of any article...' 
-The term 'immediate container' does not include package liners.  Any word, statement, or other information 
-appearing on the immediate container must also appear 'on the outside container or wrapper, if any there be, or 
-the retail package of such article, or is easily legible through the outside container of wrapper.' 
-Section 201(m) defines 'labeling' as: 
-· 
-'all labels and other written, printed, or graphic matter 
-(1) upon any article or any of its containers or wrappers, or 
-(2) accompanying such article' at any time while a device is held for sale after shipment or delivery for 
-shipment in interstate commerce. 
-The term 'accompanying' is interpreted liberally to mean more than physical association with the product.  It 
-extends to posters, tags, pamphlets, circulars, booklets, brochures, instruction books, direction sheets, fillers, 
-etc.  ' Accompanying' also includes labeling that is brought together with the device after shipment or delivery 
-for shipment in interstate commerce.
-
----
-
-<!-- Page 15 -->
-Contains Nonbinding Recommendations 
- 
-12
-Even if a device is not subject to pre-market submission, the recommendations found in 
-Section VI.D, which gives labeling recommendations for pre-market submissions, may be 
-helpful to develop clear labeling and minimize risk.   
-F. 
-Use of Consensus Standards 
-FDA recognizes the benefits of relying on published consensus standards in the design of 
-medical devices, in general, and in the development of interoperable medical devices, in 
-particular.  As such, FDA has recognized numerous consensus standards relevant to the 
-development and design of interoperable medical devices and encourages their use.  In many 
-cases, the standards that support interoperability may be used by not only manufacturers of 
-medical devices, but also many other stakeholders such as healthcare delivery organizations, 
-including system integrators, system designers, and information technology professionals 
-who work in health care settings.   
-Many of the currently available standards that support medical device interoperability are 
-design standards.  These standards may help manufacturers with other design considerations 
-identified above.  For example, standards may specify data format, interoperability 
-architecture design, or other aspects associated with interoperability.  Conformance with 
-recognized consensus standards is voluntary for a medical device manufacturer.  FDA 
-recognition of design standards does not mean that FDA is recommending a particular design 
-standard over another.  FDA recognition of design standards that support interoperability are 
-meant to encourage manufacturers, health care organizations, and others to implement 
-interoperability in a standardized way.  Alternatively, manufacturers may choose to use their 
-own design preferences for their interface (in lieu of a published consensus standard) for their 
-medical devices.  In either case, problems or misuse of interoperable medical devices can be 
-minimized by making the functional, performance, and interface requirements openly 
-available to all users.   
-FDA continues to evaluate standards that support interoperability of medical devices for 
-recognition.  In addition, FDA welcomes recommendations of published consensus standards 
-for consideration of recognition 
-(http://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/Standards/ucm123739.
-htm). Please refer to the FDA Recognized Consensus Standards Database for a current listing 
-of recognized standards 
-(http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfStandards/search.cfm). 
- 
-VI. 
-Recommendations for Contents of Pre-market 
-Submissions 
-Not all interoperable medical devices require premarket submission to the FDA.  This section 
-provides guidance for those interoperable medical devices that require a premarket
-
----
-
-<!-- Page 16 -->
-Contains Nonbinding Recommendations 
- 
-13
-submission.  The premarket submission may just cover one device that is part of the intended 
-interoperable system or may cover the whole system. 
-When preparing a premarket submission, consider any other relevant FDA guidances or 
-special controls applicable to the device.  For a medical device that is intended to 
-exchange and use information with or from another product, technology, or system, FDA 
-recommends that sponsors provide basic information similar to what would normally be 
-provided to support other functions or features on a medical device.  Specifically, when 
-considering the presence of an electronic interface, we recommend considering the 
-elements that were discussed in the “Design Considerations for Interoperable Medical 
-Devices” section of this document.  As with any submission, when making a claim that a 
-device exchanges and uses information with or from other devices, technologies, or 
-products, the information submitted should be sufficient to support the claim.   
-A. 
-Device Description 
-As part of the device description typically submitted in a premarket submission, a 
-sponsor should include a discussion of each externally-facing electronic interface found 
-on the device, the purpose of each interface, and the anticipated users of the interface.  
-Sponsors should also describe how each interface is meant to be used and/or the 
-limitations of the use of the interfaces.  If the interface is only meant to be used by the 
-manufacturer, this should be clearly stated.  If the interface is meant to be used with only 
-specific devices, those devices should be clearly specified.   
-If the device is meant to exchange or use data with or from other medical devices, 
-products, technologies, or systems, then the device description should include a 
-description of the information exchanged, how it is exchanged, and the impact the 
-exchanged information has on the device or other impacted devices.  This may include 
-some or all of the following elements based upon the claims of data exchange and use 
-made for the medical device:  
-· explain the purpose of the interface and the role the device plays within an 
-interoperable system.  This may be as simple as stating that the device is 
-meant to deliver device data to a specific product, technology, or system 
-architecture described in a particular standard;   
-· specify if the interface is meant to transmit, receive, or exchange 
-information;   
-· specify any standards used including relevant version numbers and dates. 
-· describe the requirements for timeliness and the integrity of the 
-information (e.g. sample rate, transmission rate); 
-· describe the communication format, rate, and transmission method; 
-· discuss the limitations (what the user should not do), contraindications, 
-precautions, and warnings; 
-· describe the functional and performance requirements; and
-
----
-
-<!-- Page 17 -->
-Contains Nonbinding Recommendations 
- 
-14
-· list the Application Programming Interface (API) if the device is software 
-that can be used by other software, medical device or system. 
-Please note that the level of detail necessary may depend upon the intended interoperable 
-scenario(s) in which the manufacturer expects the interoperable medical device to be 
-used. 
-B. 
-Risk Analysis 
-Manufacturers’ risk analysis should consider the risks associated with interoperability, 
-reasonably foreseeable misuse, and reasonably foreseeable combinations of events that 
-could result in a hazardous situation.   Based upon these risks, a manufacturer may want 
-to change the design of the device, the intended interoperability scenarios, or include 
-device limitations and/or warnings to reduce risks to acceptable levels.  As discussed in 
-ISO 14971, risk control measures may not be necessary for risks that are broadly 
-acceptable;8 these decisions should be captured within the risk analysis documentation.   
-FDA emphasizes that the same process of defining hazardous situations, risks, and 
-mitigations can be used when considering a system that contains more than one 
-connected medical device.  There may be additional hazardous situations that arise in 
-these conditions.  The manufacturer should specify which mitigations are implemented 
-and which are necessary for safe use but may require implementation by other parties, 
-such as the party responsible for set-up or installation.  These should be included in the 
-risk analysis section of the submission. 
-For devices subject to the risk analysis in 21 CFR 820.30(g), FDA recommends including 
-an analysis of the interface or interfaces on the devices, the intended connections, and any 
-effects that the connection may have on the device performance.  The normal risk 
-analysis submitted should include hazards that were considered, possible hazardous 
-situations, the risks that may result from each, and how the hazards and risks were 
-addressed.  Your submitted analysis should include the normal elements in a risk analysis 
-and address: 
-· the risk control measures for reducing unacceptable risks to acceptable 
-levels;  
-· fault tolerant behavior, boundary conditions, and fail safe behavior such as 
-how the device handles delays, corrupted data, data provided in the wrong 
-format, unsynchronized or time mismatched data, and any other issues 
-with the reception and transmission of data; 
-· any risks potentially arising from security vulnerabilities9 that may be 
-                                                          
-8 ISO 14971:2007, “Medical devices -- Application of risk management to medical devices.” 
-9 For additional information on cybersecurity in medical devices, please see our guidance document, “Content 
-of Premarket Submissions for Management of Cybersecurity in Medical Devices” available at:
-
----
-
-<!-- Page 18 -->
-Contains Nonbinding Recommendations 
- 
-15
-involved with the presence of an electronic interface; and 
-· risks arising from normal use as well as reasonably foreseeable misuse.  
-For example, a manufacturer may want to include in the labeling an 
-explicit warning against foreseeable uses that could result in harm.  
-It is important to note that there are a variety of methods including assurance cases that 
-can be used to capture information on risk and how it is addressed in the design and 
-implementation of a device.  This document does not specify which method should be 
-used; rather it emphasizes the need to capture this information.   
-C. 
-Verification and Validation 
-As part of the device performance testing typically submitted in a pre-market submission, 
-a sponsor should include results of verification and validation testing for the electronic 
-interfaces on the device.  The nature and extent of the validation depends upon the risks 
-associated with the device, the purpose of the interface, the anticipated use of the device 
-in the interoperable system, and the intended use of the device.  Manufacturers should 
-consider aspects highlighted in section V.D. under design considerations. 
-For those devices that are only meant to be used with a limited number of specific 
-devices, documentation demonstrating appropriate testing with those specific devices 
-may be appropriate.  For those devices meant to connect with a class of devices or to be 
-used by any device or computer system, documentation demonstrating appropriate testing 
-with a representative of that class of devices or within the context of the system may be 
-more appropriate.  Documentation which demonstrates the following performance testing 
-should be included in the submission: 
-· verification that the device interface meets its design specifications; 
-· validation that the device interface performs as intended; 
-· determination and verification of the information that should be provided 
-to a user to connect to the interface and to allow the user to ensure that the 
-connection has been made correctly; and 
-· verification that the device will perform safely and within specification 
-when used under normal conditions and abnormal conditions that are 
-reasonably likely to occur (e.g. receives data outside of specification, 
-connected to an unintended device or system, does not lock up the system 
-when the interface is exercised). 
-The degree of documentation can vary based upon the risks associated with the device, 
-                                                                                                                                                                                    
 http://www.fda.gov/downloads/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/UCM356
-190.pdf and 
-“Guidance for Industry - Cybersecurity for Networked Medical Devices Containing Off-the-Shelf (OTS) 
-Software” available at: 
-http://www.fda.gov/medicaldevices/deviceregulationandguidance/guidancedocuments/ucm077812.htm.
+190.pdf and “Guidance for Industry - Cybersecurity for Networked Medical Devices Containing Off-the-Shelf (OTS) Software” available at: http://www.fda.gov/medicaldevices/deviceregulationandguidance/guidancedocuments/ucm077812.htm.
+the purpose of the interface, the anticipated use of the device in the interoperable system, and the intended use of the device.  For those elements of the interface that use a standard, demonstrating conformance to that standard may be sufficient10.  For example, if the purpose of the interface along with the intended scenarios for use of the interface do not add significant risk to the operation of the medical device, then test summaries may be sufficient.
+The following examples describe situations in which different levels of documentation have been determined appropriate for submission to FDA; one in which complete test reports should be submitted and another when only a testing summary should be submitted.
+- If an infusion pump is intended to receive patient data from several devices (e.g., a pulse oximeter, ventilator, and blood pressure monitor) and use this data to change infusion pump settings, complete test reports should be provided to the FDA in the planned submission; and · If a non-invasive blood pressure monitor has an interface intended to allow historical data to be downloaded to a computer, then a summary of the testing performed on the interface may be sufficient.
+### D. Labeling
+The following recommendations are intended to help prepare labeling that satisfies the requirements of 21 CFR parts 801 and 809, as appropriate.  Note that labeling must comply with the requirements of 21 CFR parts 801 and 809, as appropriate, before a medical device is introduced into interstate commerce.11  For additional information on developing labeling, please consult FDA Guidance: Labeling - Regulatory Requirements for Medical Devices (http://www.fda.gov/downloads/MedicalDevices/DeviceRegulationandGuidance/Guidanc eDocuments/UCM095308.pdf)
+Information regarding the electronic interface on the device should be included in the labeling, so that the device can be used safely and effectively for its intended uses.  This information should enable users to connect to the device in the specified manner, and should give proper instruction on how to use the connection to the device in the ways for which it was designed.  Manufacturers should also include in labeling any limitations of the connection to discourage any misuse of the device.  Precautions, warnings and
+
+10 To determine the appropriate amount of documentation to support conforming to a standard, see the guidance document, “Guidance for Industry and FDA Staff - Recognition and Use of Consensus Standards,” http://www.fda.gov/medicaldevices/deviceregulationandguidance/guidancedocuments/ucm077274.htm.
+
+11 Devices with approved BLAs may also be subject to certain labeling requirements in 21 CFR parts 610 and
+660. contraindications should be included in device labeling as well.  Validation of labeling regarding the use of the electronic interface should consider human factors12 as appropriate.
+If the device is meant to interact with only a few specific devices, the labeling should explicitly state that the medical device is meant to connect with the specific devices listed (including the version) and that it should not be used with other medical devices or nonmedical device technologies.  If the interface is only meant to be used by the manufacturer’s technicians for software updates or diagnostics, this should be explicitly stated in the labeling.  When appropriate, the labeling should include instructions that the electronic interfaces found on the device are not meant for connecting to other medical devices or non-medical device technologies and that use of the electronic interface is reserved for representatives of the manufacturers.
+FDA recommends that the following information be included in the device labeling as appropriate, based on the purpose of the medical device interface: · the purpose of the interface including any devices, device types, interface standard/specification, or software (including the version of the software) with which it is meant to connect; · the anticipated user(s); · whether the connection is meant to control the operations of another device; · specifications for each interface (e.g., physiological waveforms, probe type, accuracy, frequency of response, update rate, data rate, bandwidth), as well as the necessary performance and functional requirements from the device related to the sending or receiving of data/control; · list of the data attributes being exchanged; · summary of the testing performed on the interfaces to verify interoperability claims and any activities suggested for the user to verify safe operation.  In the case where testing was performed to an interface specification and verified with a representative device, the manufacturer should specify the representative device used; · relevant standards used and certifications received; · any method used for time synchronization; · a description of any fault tolerance behavior, boundary condition testing, or fail safe for critical functions (e.g., delivering energy) that will allow the user to understand how to use the interface correctly; · any known limitations (what the user should not do), contraindications, precautions and warnings;
 
 ---
 
-<!-- Page 19 -->
-Contains Nonbinding Recommendations 
- 
-16
-the purpose of the interface, the anticipated use of the device in the interoperable system, 
-and the intended use of the device.  For those elements of the interface that use a 
-standard, demonstrating conformance to that standard may be sufficient10.  For example, 
-if the purpose of the interface along with the intended scenarios for use of the interface do 
-not add significant risk to the operation of the medical device, then test summaries may 
-be sufficient.   
-The following examples describe situations in which different levels of documentation 
-have been determined appropriate for submission to FDA; one in which complete test 
-reports should be submitted and another when only a testing summary should be 
-submitted. 
-· If an infusion pump is intended to receive patient data from several 
-devices (e.g., a pulse oximeter, ventilator, and blood pressure monitor) and 
-use this data to change infusion pump settings, complete test reports 
-should be provided to the FDA in the planned submission; and 
-· If a non-invasive blood pressure monitor has an interface intended to 
-allow historical data to be downloaded to a computer, then a summary of 
-the testing performed on the interface may be sufficient. 
-D. 
-Labeling 
-The following recommendations are intended to help prepare labeling that satisfies the 
-requirements of 21 CFR parts 801 and 809, as appropriate.  Note that labeling must 
-comply with the requirements of 21 CFR parts 801 and 809, as appropriate, before a 
-medical device is introduced into interstate commerce.11  For additional information on 
-developing labeling, please consult FDA Guidance: Labeling - Regulatory Requirements 
-for Medical Devices 
-(http://www.fda.gov/downloads/MedicalDevices/DeviceRegulationandGuidance/Guidanc
-eDocuments/UCM095308.pdf)  
-Information regarding the electronic interface on the device should be included in the 
-labeling, so that the device can be used safely and effectively for its intended uses.  This 
-information should enable users to connect to the device in the specified manner, and 
-should give proper instruction on how to use the connection to the device in the ways for 
-which it was designed.  Manufacturers should also include in labeling any limitations of 
-the connection to discourage any misuse of the device.  Precautions, warnings and 
-                                                          
-10 To determine the appropriate amount of documentation to support conforming to a standard, see the guidance 
-document, “Guidance for Industry and FDA Staff - Recognition and Use of Consensus Standards,” 
-http://www.fda.gov/medicaldevices/deviceregulationandguidance/guidancedocuments/ucm077274.htm. 
- 
-11 Devices with approved BLAs may also be subject to certain labeling requirements in 21 CFR parts 610 and 
-660.
+## Footnotes
 
----
+[^5]: For more information on cybersecurity, please see our guidance, “Content of Premarket Submissions for
 
-<!-- Page 20 -->
-Contains Nonbinding Recommendations 
- 
-17
-contraindications should be included in device labeling as well.  Validation of labeling 
-regarding the use of the electronic interface should consider human factors12 as 
-appropriate.  
-If the device is meant to interact with only a few specific devices, the labeling should 
-explicitly state that the medical device is meant to connect with the specific devices listed 
-(including the version) and that it should not be used with other medical devices or non-
-medical device technologies.  If the interface is only meant to be used by the 
-manufacturer’s technicians for software updates or diagnostics, this should be explicitly 
-stated in the labeling.  When appropriate, the labeling should include instructions that the 
-electronic interfaces found on the device are not meant for connecting to other medical 
-devices or non-medical device technologies and that use of the electronic interface is 
-reserved for representatives of the manufacturers.  
-FDA recommends that the following information be included in the device labeling as 
-appropriate, based on the purpose of the medical device interface: 
-· the purpose of the interface including any devices, device types, interface 
-standard/specification, or software (including the version of the software) with 
-which it is meant to connect;  
-· the anticipated user(s); 
-· whether the connection is meant to control the operations of another device; 
-· specifications for each interface (e.g., physiological waveforms, probe type, 
-accuracy, frequency of response, update rate, data rate, bandwidth), as well as 
-the necessary performance and functional requirements from the device 
-related to the sending or receiving of data/control; 
-· list of the data attributes being exchanged; 
-· summary of the testing performed on the interfaces to verify interoperability 
-claims and any activities suggested for the user to verify safe operation.  In the 
-case where testing was performed to an interface specification and verified 
-with a representative device, the manufacturer should specify the 
-representative device used; 
-· relevant standards used and certifications received; 
-· any method used for time synchronization; 
-· a description of any fault tolerance behavior, boundary condition testing, or 
-fail safe for critical functions (e.g., delivering energy) that will allow the user 
-to understand how to use the interface correctly; 
-· any known limitations (what the user should not do), contraindications, 
-precautions and warnings; 
-                                                          
-12 For more information please refer to the FDA guidance, “Applying Human Factors and Usability Engineering 
-to Medical Devices” available at: http://www.fda.gov/downloads/MedicalDevices/.../UCM259760.pdf
+[^6]: See Section 5.4 of ASTM 2761-09 (2013), “Medical Devices and Medical Systems - Essential safety requirements for equipment comprising the patient-centric integrated clinical environment (ICE) - Part 1:
 
----
+[^8]: ISO 14971:2007, “Medical devices -- Application of risk management to medical devices.”
 
-<!-- Page 21 -->
-Contains Nonbinding Recommendations 
- 
-18
-· recommended connections; 
-· recommended settings, or configurations for the electronic interface; and 
-· instructions for specific users such as IT personnel on how to connect or 
-install and disconnect or uninstall the device.
+[^9]: For additional information on cybersecurity in medical devices, please see our guidance document, “Content of Premarket Submissions for Management of Cybersecurity in Medical Devices” available at: involved with the presence of an electronic interface; and · risks arising from normal use as well as reasonably foreseeable misuse.
+
+[^12]: For more information please refer to the FDA guidance, “Applying Human Factors and Usability Engineering to Medical Devices” available at: http://www.fda.gov/downloads/MedicalDevices/.../UCM259760.pdf · recommended connections; · recommended settings, or configurations for the electronic interface; and · instructions for specific users such as IT personnel on how to connect or install and disconnect or uninstall the device.
