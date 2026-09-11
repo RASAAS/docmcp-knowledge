@@ -1,6 +1,6 @@
 ---
-title: "发布上市后医疗器械新出现信号 ("新出现信号") 的公开通知：行业与食品药品管理局工作人员指南"
-description: "Public Notification of Emerging Postmarket Medical Device Signals ('Emerging Signals'): Guidance for Industry and Food and Drug Administration Staff"
+title: "发布上市后医疗器械新出现信号 (\"新出现信号\") 的公开通知：行业与食品药品管理局工作人员指南"
+description: "Public Notification of Emerging Postmarket Medical Device Signals (\"Emerging Signals\"): Guidance for Industry and Food and Drug Administration Staff"
 published: 2016-12-14
 ---
 
