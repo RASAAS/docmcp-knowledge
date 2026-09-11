@@ -9,7 +9,7 @@ doc_count: 434
 目前有效的 **CDRH Final** 指南（Guidance Document 与 Special Controls）。不含 Draft、CPG、Memorandum 与 Small Entity Compliance Guides。
 
 共 **434** 份。本波次已填写全部中文标题，并生成分类中文目录与元数据页。
-英文结构质检（PR #113）已通过。非 premarket 类别中文全文已按既有英文补齐。本波次（wave1）补齐 `premarket` 中最新发布且已有英文全文的 40 份中文正文；其余 premarket 仍为元数据页，后续分波继续。
+英文结构质检（PR #113）已通过。非 premarket 类别中文全文已按既有英文补齐。`premarket` 已完成 wave1+wave2 共 80 份中文正文（按发布日期由新到旧）；其余已有英文全文的 premarket 仍为元数据页，后续分波继续。
 
 各类别内按发布日期由新到旧排列。标注〔全文〕=已有中文全文，〔仅元数据〕=本波次元数据页（英文全文见对应 EN 页）。
 
@@ -55,7 +55,7 @@ doc_count: 434
 
 ## 上市前（510(k) / PMA / De Novo / IDE） {#premarket}
 
-290 份文件，其中中文全文 40 份，其余为元数据页。
+290 份文件，其中中文全文 80 份，其余为元数据页。
 
 - [牙科护理灯 - 上市前通知 (510(k)) 提交：行业与食品药品管理局工作人员指南](./guidance/dental-curing-lights-premarket-notification-510k-submissions) (2026-09-02) 〔全文〕
 - [牙科复合树脂设备 - 上市前通知 (510(k)) 提交：行业与食品药品管理局工作人员指南](./guidance/dental-composite-resin-devices-premarket-notification-510k-submissions) (2026-09-02) 〔全文〕
@@ -97,46 +97,46 @@ doc_count: 434
 - [软 (水力) 日用隐形眼镜 - 基于安全与性能路径的性能标准：行业与食品药品管理局工作人员指南](./guidance/soft-hydrophilic-daily-wear-contact-lenses-performance-criteria-safety-and-performance-based-pathway) (2023-03-28) 〔全文〕
 - [动物研究的一般考虑因素,用于评估医疗器械：行业与食品药品管理局工作人员指南](./guidance/general-considerations-animal-studies-intended-evaluate-medical-devices) (2023-03-28) 〔全文〕
 - [2019年新冠病毒疫情 (COVID-19) 期间发布的执法政策中属于医疗器械的过渡计划：行业、其他利益相关方与食品药品管理局工作人员指南](./guidance/transition-plan-medical-devices-fall-within-enforcement-policies-issued-during-coronavirus-disease) (2023-03-27) 〔全文〕
-- [关于2019年新冠病毒疾病 (COVID-19) 的医疗器械紧急使用许可证 (EUA) 的过渡计划：行业、其他利益相关方与食品药品管理局工作人员指南](./guidance/transition-plan-medical-devices-issued-emergency-use-authorizations-euas-related-coronavirus-disease) (2023-03-27) 〔仅元数据〕
-- [政策澄清和上市前通知 [510(k) ] 超声波透膜设备的申请：行业与食品药品管理局工作人员指南](./guidance/policy-clarification-and-premarket-notification-510k-submissions-ultrasonic-diathermy-devices) (2023-02-21) 〔仅元数据〕
-- [医疗X射线成像设备符合IEC标准：行业与食品药品管理局工作人员指南](./guidance/medical-x-ray-imaging-devices-conformance-iec-standards) (2023-02-21) 〔仅元数据〕
-- [诊断超声波系统和转换器的市场许可：行业与食品药品管理局工作人员指南](./guidance/marketing-clearance-diagnostic-ultrasound-systems-and-transducers) (2023-02-21) 〔仅元数据〕
-- [评估病毒突变对COVID-19测试的影响的政策 (修订)：检测开发者与食品药品管理局工作人员指南](./guidance/policy-evaluating-impact-viral-mutations-covid-19-tests-revised) (2023-01-12) 〔仅元数据〕
-- [关于2019年新冠病毒检测政策 (修订)：开发者与食品药品管理局工作人员指南](./guidance/policy-coronavirus-disease-2019-tests-revised) (2023-01-12) 〔仅元数据〕
-- [根据最轻重的规定,制定和应对缺陷：行业与食品药品管理局工作人员指南](./guidance/developing-and-responding-deficiencies-accordance-least-burdensome-provisions) (2022-10-26) 〔仅元数据〕
-- [通过PMA命令强制执行批准后研究处理程序：行业与食品药品管理局工作人员指南](./guidance/procedures-handling-post-approval-studies-imposed-pma-order) (2022-10-07) 〔仅元数据〕
-- [对于513的用户费用：行业与食品药品管理局工作人员指南](./guidance/user-fees-513g-requests-information) (2022-10-05) 〔仅元数据〕
-- [对于上市前通知提交的用户费用和退款 (510(k)：行业与食品药品管理局工作人员指南](./guidance/user-fees-and-refunds-premarket-notification-submissions-510ks) (2022-10-05) 〔仅元数据〕
-- [上市前许可申请和设备生物技术许可申请的用户费用和退款：行业与食品药品管理局工作人员指南](./guidance/user-fees-and-refunds-premarket-approval-applications-and-device-biologics-license-applications) (2022-10-05) 〔仅元数据〕
-- [对于De Novo分类申请的用户费用和退款：行业与食品药品管理局工作人员指南](./guidance/user-fees-and-refunds-de-novo-classification-requests) (2022-10-05) 〔仅元数据〕
-- [食品和产业对上市前通知的行动 (510(k)) 提交:对FDA审查时钟和目标的影响：行业与食品药品管理局工作人员指南](./guidance/fda-and-industry-actions-premarket-notification-510k-submissions-effect-fda-review-clock-and-goals) (2022-10-03) 〔仅元数据〕
-- [食品和产业对市场前批准申请 (PMA) 的行动:对FDA审查时钟和目标的影响：行业与食品药品管理局工作人员指南](./guidance/fda-and-industry-actions-premarket-approval-applications-pmas-effect-fda-review-clock-and-goals) (2022-10-03) 〔仅元数据〕
-- [食品和工业对"新品分类要求"的行动:对FDA审查时钟和目标的影响：行业与食品药品管理局工作人员指南](./guidance/fda-and-industry-actions-de-novo-classification-requests-effect-fda-review-clock-and-goals) (2022-10-03) 〔仅元数据〕
-- [诊断放射学显示器：行业与食品药品管理局工作人员指南](./guidance/display-devices-diagnostic-radiology) (2022-09-28) 〔仅元数据〕
-- [听力助理设备和个人音响增强产品的监管要求：行业与食品药品管理局工作人员指南](./guidance/regulatory-requirements-hearing-aid-devices-and-personal-sound-amplification-products) (2022-08-17) 〔仅元数据〕
-- [放射性设备上市前的数量成像技术性能评估：行业与食品药品管理局工作人员指南](./guidance/technical-performance-assessment-quantitative-imaging-radiological-device-premarket-submissions) (2022-06-16) 〔仅元数据〕
-- [医疗器械的电磁兼容性 (EMC)：行业与食品药品管理局工作人员指南](./guidance/electromagnetic-compatibility-emc-medical-devices) (2022-06-06) 〔仅元数据〕
-- [可行性和早期可行性 针对某些医疗器械的临床研究,旨在治疗性改善2型糖尿病患者的血糖控制：行业与食品药品管理局工作人员指南](./guidance/feasibility-and-early-feasibility-clinical-studies-certain-medical-devices-intended-therapeutically) (2022-05-06) 〔仅元数据〕
-- [拒绝接受510k政策：行业与食品药品管理局工作人员指南](./guidance/refuse-accept-policy-510ks) (2022-04-21) 〔仅元数据〕
-- [面系统 - 安全性和性能基础的性能标准：行业与食品药品管理局工作人员指南](./guidance/facet-screw-systems-performance-criteria-safety-and-performance-based-pathway) (2022-04-13) 〔仅元数据〕
-- [牙基树脂 - 安全性和性能基础的性能标准：行业与食品药品管理局工作人员指南](./guidance/denture-base-resins-performance-criteria-safety-and-performance-based-pathway) (2022-04-13) 〔仅元数据〕
-- [术接 - 安全性和性能基础的性能标准：行业与食品药品管理局工作人员指南](./guidance/surgical-sutures-performance-criteria-safety-and-performance-based-pathway) (2022-04-11) 〔仅元数据〕
-- [整形骨折固定板 - 安全性和性能基础的性能标准：行业与食品药品管理局工作人员指南](./guidance/orthopedic-fracture-fixation-plates-performance-criteria-safety-and-performance-based-pathway) (2022-04-11) 〔仅元数据〕
-- [选择,开发,修改和调整患者报告结果仪器的原则,用于医疗器械评估和其他利益相关者：行业与食品药品管理局工作人员指南](./guidance/principles-selecting-developing-modifying-and-adapting-patient-reported-outcome-instruments-use) (2022-01-26) 〔仅元数据〕
-- [患者参与医疗器械临床研究,食品药品管理局工作人员和其他利益相关者设计和进行：行业指南](./guidance/patient-engagement-design-and-conduct-medical-device-clinical-studies) (2022-01-26) 〔仅元数据〕
-- [用于治疗良性前列腺高血压 (BPH) 的设备的非临床和临床研究：行业与食品药品管理局工作人员指南](./guidance/non-clinical-and-clinical-investigation-devices-used-treatment-benign-prostatic-hyperplasia-bph) (2021-12-27) 〔仅元数据〕
-- [专用于多种患者使用的管组 - 上市前通知 (510(k)) 提交：行业与食品药品管理局工作人员指南](./guidance/arthroscopy-pump-tubing-sets-intended-multiple-patient-use-premarket-notification-510k-submissions) (2021-12-23) 〔仅元数据〕
-- [德诺级分类过程 (自动级 III 名称的评估)：行业与食品药品管理局工作人员指南](./guidance/de-novo-classification-process-evaluation-automatic-class-iii-designation) (2021-10-05) 〔仅元数据〕
-- [对于De Novo分类申请的接受审查：行业与食品药品管理局工作人员指南](./guidance/acceptance-review-de-novo-classification-requests) (2021-10-05) 〔仅元数据〕
-- [含尼丁醇的医疗器械非临床评估的技术考虑因素：行业与食品药品管理局工作人员指南](./guidance/technical-considerations-non-clinical-assessment-medical-devices-containing-nitinol) (2021-07-09) 〔仅元数据〕
-- [周边血管除器件 - 上市前通知 [510(k) ] 提交：行业与食品药品管理局工作人员指南](./guidance/peripheral-vascular-atherectomy-devices-premarket-notification-510k-submissions) (2021-05-20) 〔仅元数据〕
-- [或截肢患者的脑电脑接口设备 - 非临床测试和临床考虑：行业与食品药品管理局工作人员指南](./guidance/implanted-brain-computer-interface-bci-devices-patients-paralysis-or-amputation-non-clinical-testing) (2021-05-20) 〔仅元数据〕
-- [医疗器械安全技术计划：行业与食品药品管理局工作人员指南](./guidance/safer-technologies-program-medical-devices) (2021-01-06) 〔仅元数据〕
-- [鼠胚胎测试辅助生殖技术设备](./guidance/mouse-embryo-assay-assisted-reproduction-technology-devices) (2021-01-05) 〔仅元数据〕
-- [拉巴洛斯科普式电力缩器的产品标签：行业与食品药品管理局工作人员指南](./guidance/product-labeling-laparoscopic-power-morcellators) (2020-12-30) 〔仅元数据〕
-- [脊柱涂层系统 - 安全性和性能基础的性能标准：行业与食品药品管理局工作人员指南](./guidance/spinal-plating-systems-performance-criteria-safety-and-performance-based-pathway) (2020-12-11) 〔仅元数据〕
-- [仅接收磁共振 (MR) 卷轴 - 基于安全与性能路径的性能标准：行业与食品药品管理局工作人员指南](./guidance/magnetic-resonance-mr-receive-only-coil-performance-criteria-safety-and-performance-based-pathway) (2020-12-11) 〔仅元数据〕
-- [微针制品的监管考虑：行业与食品药品管理局工作人员指南](./guidance/regulatory-considerations-microneedling-products) (2020-11-10) 〔仅元数据〕
+- [关于2019年新冠病毒疾病 (COVID-19) 的医疗器械紧急使用许可证 (EUA) 的过渡计划：行业、其他利益相关方与食品药品管理局工作人员指南](./guidance/transition-plan-medical-devices-issued-emergency-use-authorizations-euas-related-coronavirus-disease) (2023-03-27) 〔全文〕
+- [政策澄清和上市前通知 [510(k) ] 超声波透膜设备的申请：行业与食品药品管理局工作人员指南](./guidance/policy-clarification-and-premarket-notification-510k-submissions-ultrasonic-diathermy-devices) (2023-02-21) 〔全文〕
+- [医疗X射线成像设备符合IEC标准：行业与食品药品管理局工作人员指南](./guidance/medical-x-ray-imaging-devices-conformance-iec-standards) (2023-02-21) 〔全文〕
+- [诊断超声波系统和转换器的市场许可：行业与食品药品管理局工作人员指南](./guidance/marketing-clearance-diagnostic-ultrasound-systems-and-transducers) (2023-02-21) 〔全文〕
+- [评估病毒突变对COVID-19测试的影响的政策 (修订)：检测开发者与食品药品管理局工作人员指南](./guidance/policy-evaluating-impact-viral-mutations-covid-19-tests-revised) (2023-01-12) 〔全文〕
+- [关于2019年新冠病毒检测政策 (修订)：开发者与食品药品管理局工作人员指南](./guidance/policy-coronavirus-disease-2019-tests-revised) (2023-01-12) 〔全文〕
+- [根据最轻重的规定,制定和应对缺陷：行业与食品药品管理局工作人员指南](./guidance/developing-and-responding-deficiencies-accordance-least-burdensome-provisions) (2022-10-26) 〔全文〕
+- [通过PMA命令强制执行批准后研究处理程序：行业与食品药品管理局工作人员指南](./guidance/procedures-handling-post-approval-studies-imposed-pma-order) (2022-10-07) 〔全文〕
+- [对于513的用户费用：行业与食品药品管理局工作人员指南](./guidance/user-fees-513g-requests-information) (2022-10-05) 〔全文〕
+- [对于上市前通知提交的用户费用和退款 (510(k)：行业与食品药品管理局工作人员指南](./guidance/user-fees-and-refunds-premarket-notification-submissions-510ks) (2022-10-05) 〔全文〕
+- [上市前许可申请和设备生物技术许可申请的用户费用和退款：行业与食品药品管理局工作人员指南](./guidance/user-fees-and-refunds-premarket-approval-applications-and-device-biologics-license-applications) (2022-10-05) 〔全文〕
+- [对于De Novo分类申请的用户费用和退款：行业与食品药品管理局工作人员指南](./guidance/user-fees-and-refunds-de-novo-classification-requests) (2022-10-05) 〔全文〕
+- [食品和产业对上市前通知的行动 (510(k)) 提交:对FDA审查时钟和目标的影响：行业与食品药品管理局工作人员指南](./guidance/fda-and-industry-actions-premarket-notification-510k-submissions-effect-fda-review-clock-and-goals) (2022-10-03) 〔全文〕
+- [食品和产业对市场前批准申请 (PMA) 的行动:对FDA审查时钟和目标的影响：行业与食品药品管理局工作人员指南](./guidance/fda-and-industry-actions-premarket-approval-applications-pmas-effect-fda-review-clock-and-goals) (2022-10-03) 〔全文〕
+- [食品和工业对"新品分类要求"的行动:对FDA审查时钟和目标的影响：行业与食品药品管理局工作人员指南](./guidance/fda-and-industry-actions-de-novo-classification-requests-effect-fda-review-clock-and-goals) (2022-10-03) 〔全文〕
+- [诊断放射学显示器：行业与食品药品管理局工作人员指南](./guidance/display-devices-diagnostic-radiology) (2022-09-28) 〔全文〕
+- [听力助理设备和个人音响增强产品的监管要求：行业与食品药品管理局工作人员指南](./guidance/regulatory-requirements-hearing-aid-devices-and-personal-sound-amplification-products) (2022-08-17) 〔全文〕
+- [放射性设备上市前的数量成像技术性能评估：行业与食品药品管理局工作人员指南](./guidance/technical-performance-assessment-quantitative-imaging-radiological-device-premarket-submissions) (2022-06-16) 〔全文〕
+- [医疗器械的电磁兼容性 (EMC)：行业与食品药品管理局工作人员指南](./guidance/electromagnetic-compatibility-emc-medical-devices) (2022-06-06) 〔全文〕
+- [可行性和早期可行性 针对某些医疗器械的临床研究,旨在治疗性改善2型糖尿病患者的血糖控制：行业与食品药品管理局工作人员指南](./guidance/feasibility-and-early-feasibility-clinical-studies-certain-medical-devices-intended-therapeutically) (2022-05-06) 〔全文〕
+- [拒绝接受510k政策：行业与食品药品管理局工作人员指南](./guidance/refuse-accept-policy-510ks) (2022-04-21) 〔全文〕
+- [面系统 - 安全性和性能基础的性能标准：行业与食品药品管理局工作人员指南](./guidance/facet-screw-systems-performance-criteria-safety-and-performance-based-pathway) (2022-04-13) 〔全文〕
+- [牙基树脂 - 安全性和性能基础的性能标准：行业与食品药品管理局工作人员指南](./guidance/denture-base-resins-performance-criteria-safety-and-performance-based-pathway) (2022-04-13) 〔全文〕
+- [术接 - 安全性和性能基础的性能标准：行业与食品药品管理局工作人员指南](./guidance/surgical-sutures-performance-criteria-safety-and-performance-based-pathway) (2022-04-11) 〔全文〕
+- [整形骨折固定板 - 安全性和性能基础的性能标准：行业与食品药品管理局工作人员指南](./guidance/orthopedic-fracture-fixation-plates-performance-criteria-safety-and-performance-based-pathway) (2022-04-11) 〔全文〕
+- [选择,开发,修改和调整患者报告结果仪器的原则,用于医疗器械评估和其他利益相关者：行业与食品药品管理局工作人员指南](./guidance/principles-selecting-developing-modifying-and-adapting-patient-reported-outcome-instruments-use) (2022-01-26) 〔全文〕
+- [患者参与医疗器械临床研究,食品药品管理局工作人员和其他利益相关者设计和进行：行业指南](./guidance/patient-engagement-design-and-conduct-medical-device-clinical-studies) (2022-01-26) 〔全文〕
+- [用于治疗良性前列腺高血压 (BPH) 的设备的非临床和临床研究：行业与食品药品管理局工作人员指南](./guidance/non-clinical-and-clinical-investigation-devices-used-treatment-benign-prostatic-hyperplasia-bph) (2021-12-27) 〔全文〕
+- [专用于多种患者使用的管组 - 上市前通知 (510(k)) 提交：行业与食品药品管理局工作人员指南](./guidance/arthroscopy-pump-tubing-sets-intended-multiple-patient-use-premarket-notification-510k-submissions) (2021-12-23) 〔全文〕
+- [德诺级分类过程 (自动级 III 名称的评估)：行业与食品药品管理局工作人员指南](./guidance/de-novo-classification-process-evaluation-automatic-class-iii-designation) (2021-10-05) 〔全文〕
+- [对于De Novo分类申请的接受审查：行业与食品药品管理局工作人员指南](./guidance/acceptance-review-de-novo-classification-requests) (2021-10-05) 〔全文〕
+- [含尼丁醇的医疗器械非临床评估的技术考虑因素：行业与食品药品管理局工作人员指南](./guidance/technical-considerations-non-clinical-assessment-medical-devices-containing-nitinol) (2021-07-09) 〔全文〕
+- [周边血管除器件 - 上市前通知 [510(k) ] 提交：行业与食品药品管理局工作人员指南](./guidance/peripheral-vascular-atherectomy-devices-premarket-notification-510k-submissions) (2021-05-20) 〔全文〕
+- [或截肢患者的脑电脑接口设备 - 非临床测试和临床考虑：行业与食品药品管理局工作人员指南](./guidance/implanted-brain-computer-interface-bci-devices-patients-paralysis-or-amputation-non-clinical-testing) (2021-05-20) 〔全文〕
+- [医疗器械安全技术计划：行业与食品药品管理局工作人员指南](./guidance/safer-technologies-program-medical-devices) (2021-01-06) 〔全文〕
+- [鼠胚胎测试辅助生殖技术设备](./guidance/mouse-embryo-assay-assisted-reproduction-technology-devices) (2021-01-05) 〔全文〕
+- [拉巴洛斯科普式电力缩器的产品标签：行业与食品药品管理局工作人员指南](./guidance/product-labeling-laparoscopic-power-morcellators) (2020-12-30) 〔全文〕
+- [脊柱涂层系统 - 安全性和性能基础的性能标准：行业与食品药品管理局工作人员指南](./guidance/spinal-plating-systems-performance-criteria-safety-and-performance-based-pathway) (2020-12-11) 〔全文〕
+- [仅接收磁共振 (MR) 卷轴 - 基于安全与性能路径的性能标准：行业与食品药品管理局工作人员指南](./guidance/magnetic-resonance-mr-receive-only-coil-performance-criteria-safety-and-performance-based-pathway) (2020-12-11) 〔全文〕
+- [微针制品的监管考虑：行业与食品药品管理局工作人员指南](./guidance/regulatory-considerations-microneedling-products) (2020-11-10) 〔全文〕
 - [无需过分使用的血糖检测系统：行业与食品药品管理局工作人员指南](./guidance/self-monitoring-blood-glucose-test-systems-over-counter-use) (2020-09-29) 〔仅元数据〕
 - [盐水,凝和其他乳腺植入物：行业与FDA工作人员指南](./guidance/saline-silicone-gel-and-alternative-breast-implants) (2020-09-29) 〔仅元数据〕
 - [乳腺植入物 - 某些标签建议有助于改善患者的沟通：行业与食品药品管理局工作人员指南](./guidance/breast-implants-certain-labeling-recommendations-improve-patient-communication) (2020-09-29) 〔仅元数据〕
