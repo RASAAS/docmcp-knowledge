@@ -1,20 +1,3 @@
----
-id: nmpa-gp-医用洁净工作台注册技术审查指导原则-852952
-title:
-  zh: 医用洁净工作台注册技术审查指导原则
-  en: ''
-regulation: nmpa
-category: nmpa/guidance
-status: active
-document_number: 国家药品监督管理局2018年第25号通告
-source_format: markdown
-translation: original
-effective_date: '2018-01-01'
-contributor: RASAAS
-promoted_from: fulltext
----
-# 医用洁净工作台注册技术审查指导原则
-
 <!-- source: cmde-skill-batch 医用洁净工作台注册技术审查指导原则_2018年第25号.doc -->
 <!-- source_url: https://www.cmde.org.cn/flfg/zdyz/zdyzwbk/20180704145919610.html -->
 <!-- title: 医用洁净工作台注册技术审查指导原则 -->

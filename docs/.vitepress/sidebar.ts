@@ -10,7 +10,7 @@ export default {
       "link": "/zh/nmpa/guidance"
     },
     {
-      "text": "其他 (448)",
+      "text": "其他 (453)",
       "collapsed": true,
       "items": [
         {
@@ -564,6 +564,10 @@ export default {
         {
           "text": "医用气体报警系统注册审查指导原则",
           "link": "/zh/nmpa/guidance/nmpa-gp-医用气体报警系统注册审查指导原则-4b226e"
+        },
+        {
+          "text": "医用洁净工作台注册技术审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-医用洁净工作台注册技术审查指导原则-90e5b6"
         },
         {
           "text": "医用激光光纤产品注册技术审查指导原则",
@@ -1202,6 +1206,10 @@ export default {
           "link": "/zh/nmpa/guidance/cmde-2013-3-2b89"
         },
         {
+          "text": "用于罕见病防治医疗器械注册审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-用于罕见病防治医疗器械注册审查指导原则-8e5979"
+        },
+        {
           "text": "甲氨蝶呤检测试剂注册审查指导原则",
           "link": "/zh/nmpa/guidance/nmpa-gp-甲氨蝶呤检测试剂注册审查指导原则-817a9c"
         },
@@ -1486,12 +1494,20 @@ export default {
           "link": "/zh/nmpa/guidance/cmde-2025-20"
         },
         {
+          "text": "脉搏波速度和踝臂指数检测产品注册技术审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-脉搏波速度和踝臂指数检测产品注册技术审查指导原则-ce4da6"
+        },
+        {
           "text": "脉搏血氧仪注册技术审查指导原则（2017年修订版）",
           "link": "/zh/nmpa/guidance/cmde-2017-177"
         },
         {
           "text": "脊柱后路内固定系统注册审查指导原则（2024年修订版）",
           "link": "/zh/nmpa/guidance/cmde-2024-24-002e"
+        },
+        {
+          "text": "脑利钠肽/氨基末端脑利钠肽前体检测试剂注册技术审查指导原则",
+          "link": "/zh/nmpa/guidance/cmde-2019-11-1243"
         },
         {
           "text": "脑电图机产品注册审查指导原则",
@@ -1652,6 +1668,10 @@ export default {
         {
           "text": "软性亲水接触镜说明书编写指导原则（2023年修订版）",
           "link": "/zh/nmpa/guidance/cmde-2023-9-5e81"
+        },
+        {
+          "text": "软性接触镜注册技术审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-软性接触镜注册技术审查指导原则-807b84"
         },
         {
           "text": "载脂蛋白A1测定试剂注册技术审查指导原则",
@@ -2032,7 +2052,7 @@ export default {
       ]
     },
     {
-      "text": "眼科器械 (11)",
+      "text": "眼科器械 (13)",
       "collapsed": true,
       "items": [
         {
@@ -2062,6 +2082,14 @@ export default {
         {
           "text": "眼科超声乳化和眼前节玻璃体切除设备及附件注册技术审查指导原则",
           "link": "/zh/nmpa/guidance/nmpa-guidance-6e86cd87141a"
+        },
+        {
+          "text": "眼科超声诊断设备注册技术审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-眼科超声诊断设备注册技术审查指导原则-c18ec0"
+        },
+        {
+          "text": "眼科飞秒激光治疗机注册技术审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-眼科飞秒激光治疗机注册技术审查指导原则-a844dd"
         },
         {
           "text": "眼科高频超声诊断仪注册技术审查指导原则",
@@ -2406,7 +2434,7 @@ export default {
       ]
     },
     {
-      "text": "临床评价 (72)",
+      "text": "临床评价 (73)",
       "collapsed": true,
       "items": [
         {
@@ -2428,6 +2456,10 @@ export default {
         {
           "text": "临床试验数据管理工作技术指南",
           "link": "/zh/nmpa/guidance/nmpa-guidance-42e9615bfb44"
+        },
+        {
+          "text": "主动脉覆膜支架系统临床试验指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-主动脉覆膜支架系统临床试验指导原则-86dd31"
         },
         {
           "text": "人工晶状体临床试验指导原则",
@@ -3320,6 +3352,482 @@ export default {
         {
           "text": "药品医疗器械飞行检查办法",
           "link": "/zh/nmpa/regulations/nmpa-order-14"
+        }
+      ]
+    }
+  ],
+  "/zh/insights/": [
+    {
+      "text": "法规解读",
+      "link": "/zh/insights/"
+    },
+    {
+      "text": "NMPA 合规动态 (8)",
+      "collapsed": true,
+      "items": [
+        {
+          "text": "NMPA合规信息更新：2024.07-2024.09",
+          "link": "/zh/insights/nmpa-updates/2407-2409"
+        },
+        {
+          "text": "NMPA合规信息更新：2024.10 - 2024.12",
+          "link": "/zh/insights/nmpa-updates/2410-2412"
+        },
+        {
+          "text": "NMPA合规信息更新：2025.01 - 2025.03",
+          "link": "/zh/insights/nmpa-updates/2501-2503"
+        },
+        {
+          "text": "NMPA合规信息更新：2025.04 – 2025.06",
+          "link": "/zh/insights/nmpa-updates/2504-2506"
+        },
+        {
+          "text": "NMPA合规信息更新：2025.07 – 2025.09",
+          "link": "/zh/insights/nmpa-updates/2507-2509"
+        },
+        {
+          "text": "NMPA合规信息更新：2025.10 – 2025.12",
+          "link": "/zh/insights/nmpa-updates/2510-2512"
+        },
+        {
+          "text": "MDR合规深度解析：按照各国语言要求优化欧洲市场准入",
+          "link": "/zh/insights/nmpa-updates/mdr-language-requirements"
+        },
+        {
+          "text": "国务院关于修改和废止部分行政法规的决定",
+          "link": "/zh/insights/nmpa-updates/state-council-order-797"
+        }
+      ]
+    },
+    {
+      "text": "EU MDR 合规动态 (15)",
+      "collapsed": true,
+      "items": [
+        {
+          "text": "欧盟AI法案对医疗器械的影响：合规路线图与实施策略解析",
+          "link": "/zh/insights/eu-mdr-updates/ai-act-compliance"
+        },
+        {
+          "text": "临床试验报告管理新规解读：EUDAMED缺位下的合规路径",
+          "link": "/zh/insights/eu-mdr-updates/cir-requirements"
+        },
+        {
+          "text": "EU MDR 分类",
+          "link": "/zh/insights/eu-mdr-updates/classification"
+        },
+        {
+          "text": "EU IVDR 分类",
+          "link": "/zh/insights/eu-mdr-updates/eu-ivdr-classification"
+        },
+        {
+          "text": "EU MDR Classification Explanations",
+          "link": "/zh/insights/eu-mdr-updates/eu-mdr-classification-explanations"
+        },
+        {
+          "text": "欧盟医疗器械监管新框架解析：网络安全与责任制度的多维革新",
+          "link": "/zh/insights/eu-mdr-updates/eu-mdr-cybersecurity"
+        },
+        {
+          "text": "EUDAMED数据库分阶段实施政策重要更新解读",
+          "link": "/zh/insights/eu-mdr-updates/eudamed-implementation-phases"
+        },
+        {
+          "text": "官方指南：EUDAMED UDI/器械模块操作详解",
+          "link": "/zh/insights/eu-mdr-updates/eudamed-udi-user-guide-v3110"
+        },
+        {
+          "text": "IVDR 分类规则与实例汇总 (基于 MDCG 2020-16 Rev.4)",
+          "link": "/zh/insights/eu-mdr-updates/ivdr-rules-examples"
+        },
+        {
+          "text": "MDCG 2019-6 Rev5关于公告机构要求问答解析",
+          "link": "/zh/insights/eu-mdr-updates/mdcg-2019-6-rev5"
+        },
+        {
+          "text": "医疗器械法规 (MDR) 技术文档编写说明",
+          "link": "/zh/insights/eu-mdr-updates/mdr-td-bpg"
+        },
+        {
+          "text": "PMCF 问卷调查的伦理审查和知情同意",
+          "link": "/zh/insights/eu-mdr-updates/pmcf-survey-ec-ic"
+        },
+        {
+          "text": "Practical issues and examples",
+          "link": "/zh/insights/eu-mdr-updates/practical-issues-and-examples"
+        },
+        {
+          "text": "公告机构认证流程全解析：欧盟医疗器械合规的关键路径",
+          "link": "/zh/insights/eu-mdr-updates/team-nb-mdr-certification-process"
+        },
+        {
+          "text": "欧盟医疗器械技术审评机构发布 MDR 认证流程共识文件",
+          "link": "/zh/insights/eu-mdr-updates/team-nb-position-paper-on-mdr-certification-process"
+        }
+      ]
+    },
+    {
+      "text": "FDA 合规动态 (4)",
+      "collapsed": true,
+      "items": [
+        {
+          "text": "2025年伊始FDA密集发布指南文件",
+          "link": "/zh/insights/fda-updates/2025-beginning-guidelines"
+        },
+        {
+          "text": "FDA医疗器械网络安全指南解析：从合规走向卓越",
+          "link": "/zh/insights/fda-updates/fda-cybersecurity-editors-note"
+        },
+        {
+          "text": "解读FDA GUDID包装配置管理要求：医疗器械UDI合规的关键要素",
+          "link": "/zh/insights/fda-updates/fda-guidance-gudid-2024"
+        },
+        {
+          "text": "美国FDA对于重组胶原蛋白修复面膜类产品的分类与法规要求",
+          "link": "/zh/insights/fda-updates/fda-recombinant-collagen-dressing"
+        }
+      ]
+    },
+    {
+      "text": "法规解读分析 (26)",
+      "collapsed": true,
+      "items": [
+        {
+          "text": "网式雾化器设计技术参数",
+          "link": "/zh/insights/analysis/网式雾化器设计技术参数"
+        },
+        {
+          "text": "国家药监局关于发布34项医疗器械行业标准的公告（2024年第120号）",
+          "link": "/zh/insights/analysis/2024-120"
+        },
+        {
+          "text": "国家药监局关于发布36项医疗器械行业标准的公告（2024年第92号）",
+          "link": "/zh/insights/analysis/2024-92"
+        },
+        {
+          "text": "废止标准",
+          "link": "/zh/insights/analysis/abolished-standards"
+        },
+        {
+          "text": "医疗器械合规文件翻译助手使用指南",
+          "link": "/zh/insights/analysis/ai-translator"
+        },
+        {
+          "text": "洁净室合规性标准 ISO 14698 与 EN 17141 的选择困境",
+          "link": "/zh/insights/analysis/clean-room-iso-14698-and-en-17141"
+        },
+        {
+          "text": "中国药典2020年版与2025年版通则1105和1106实质性差异对比检查",
+          "link": "/zh/insights/analysis/cp-2020-vs-2025-part4-general-1105-1106"
+        },
+        {
+          "text": "网络安全生命周期",
+          "link": "/zh/insights/analysis/cybersecurity-lifecycle"
+        },
+        {
+          "text": "EU MDR下的UDI实施操作指南",
+          "link": "/zh/insights/analysis/eu-mdr-udi"
+        },
+        {
+          "text": "GB 9706.1-2020及配套并列标准、专用标准实施公告",
+          "link": "/zh/insights/analysis/gb-9706-1-2020及配套并列标准、专用标准实施公告"
+        },
+        {
+          "text": "GSPR 10.4.1与CMR",
+          "link": "/zh/insights/analysis/gspr-10_4_1-and-cmr"
+        },
+        {
+          "text": "香港医疗器械市场准入与监管合规：外国制造商战略指南",
+          "link": "/zh/insights/analysis/hk-medical-device-regulatory-compliance"
+        },
+        {
+          "text": "ISO 13485质量管理体系的深度解析与卓越实践",
+          "link": "/zh/insights/analysis/iso-13485-qms-best-practice"
+        },
+        {
+          "text": "有源医疗器械外部标记要求",
+          "link": "/zh/insights/analysis/marking-requirements"
+        },
+        {
+          "text": "关于医疗器械软件和GB/T 25000.51测试",
+          "link": "/zh/insights/analysis/mdsw-gbt25000-51"
+        },
+        {
+          "text": "标准发布",
+          "link": "/zh/insights/analysis/new-standards"
+        },
+        {
+          "text": "医疗器械产业本土化转型的助推剂：国家药监局2025年第30号公告深度解析",
+          "link": "/zh/insights/analysis/nmpa-2025-30-notice"
+        },
+        {
+          "text": "其他可能适用于医疗器械的法规和指令",
+          "link": "/zh/insights/analysis/other-regulation-directive"
+        },
+        {
+          "text": "构建智能化PDF文档翻译平台：从痛点到解决方案",
+          "link": "/zh/insights/analysis/pdf-translation-tool"
+        },
+        {
+          "text": "医疗器械中剩余风险的概念及其在风险管理和说明书编写中的意义",
+          "link": "/zh/insights/analysis/residual-risk-and-information-in-ifu"
+        },
+        {
+          "text": "现有技术水平(State-of-the-art)",
+          "link": "/zh/insights/analysis/state-of-the-art"
+        },
+        {
+          "text": "标准修改",
+          "link": "/zh/insights/analysis/std-update"
+        },
+        {
+          "text": "无菌和化学性能检验样品数量",
+          "link": "/zh/insights/analysis/sterile-and-chemical-characteristics-testing"
+        },
+        {
+          "text": "泰国医疗器械市场准入与监管合规：外国制造商战略指南",
+          "link": "/zh/insights/analysis/thailand-medical-device-regulatory-compliance"
+        },
+        {
+          "text": "医疗器械可用性工程注册审查指导原则的应用说明",
+          "link": "/zh/insights/analysis/usability-explanation"
+        },
+        {
+          "text": "如何撰写临床评价报告：IMDRF临床评价指南（2019）",
+          "link": "/zh/insights/analysis/writing-cer"
+        }
+      ]
+    },
+    {
+      "text": "临床评价方法论 (22)",
+      "collapsed": true,
+      "items": [
+        {
+          "text": "临床评价范围",
+          "link": "/zh/insights/clinical-evaluation/临床评价范围"
+        },
+        {
+          "text": "基准或类似产品",
+          "link": "/zh/insights/clinical-evaluation/benchmark-and-similar-device"
+        },
+        {
+          "text": "临床开发计划(CDP)",
+          "link": "/zh/insights/clinical-evaluation/cdp"
+        },
+        {
+          "text": "临床评价报告(CER)",
+          "link": "/zh/insights/clinical-evaluation/cer"
+        },
+        {
+          "text": "临床评价相关服务",
+          "link": "/zh/insights/clinical-evaluation/clincial-evaluation-services"
+        },
+        {
+          "text": "临床数据的分析",
+          "link": "/zh/insights/clinical-evaluation/clinical-data-analysis"
+        },
+        {
+          "text": "相关数据的评估与分析",
+          "link": "/zh/insights/clinical-evaluation/data-appraisal-and-analysis"
+        },
+        {
+          "text": "制造商产生的数据",
+          "link": "/zh/insights/clinical-evaluation/data-generated-by-the-manufacturer"
+        },
+        {
+          "text": "数据收集报告(DCR)",
+          "link": "/zh/insights/clinical-evaluation/dcr"
+        },
+        {
+          "text": "Endnote导入和导出",
+          "link": "/zh/insights/clinical-evaluation/endnote-import-export"
+        },
+        {
+          "text": "等同器械",
+          "link": "/zh/insights/clinical-evaluation/equivalency"
+        },
+        {
+          "text": "ISO 14155:2026 临床研究文档体系（CIP/IB/ICF/SAP/CIR）",
+          "link": "/zh/insights/clinical-evaluation/iso-14155-2026-ci-documents"
+        },
+        {
+          "text": "文献来源及选择理由",
+          "link": "/zh/insights/clinical-evaluation/lit-database"
+        },
+        {
+          "text": "文献评估标准",
+          "link": "/zh/insights/clinical-evaluation/lit-review-standard"
+        },
+        {
+          "text": "文献检索计划(LSP)",
+          "link": "/zh/insights/clinical-evaluation/lsp"
+        },
+        {
+          "text": "欧盟 MDCG 2025-9 指南解读：突破性医疗器械（BtX）",
+          "link": "/zh/insights/clinical-evaluation/mdcg-2025-9"
+        },
+        {
+          "text": "目标、输入和待评价产品信息",
+          "link": "/zh/insights/clinical-evaluation/objective-input-due"
+        },
+        {
+          "text": "风险管理",
+          "link": "/zh/insights/clinical-evaluation/risk-management"
+        },
+        {
+          "text": "文献选择标准",
+          "link": "/zh/insights/clinical-evaluation/screening-criteria"
+        },
+        {
+          "text": "文献选择过程",
+          "link": "/zh/insights/clinical-evaluation/screening-process"
+        },
+        {
+          "text": "检索方法",
+          "link": "/zh/insights/clinical-evaluation/search-strategy"
+        },
+        {
+          "text": "临床背景信息(SOTA)",
+          "link": "/zh/insights/clinical-evaluation/sota"
+        }
+      ]
+    }
+  ],
+  "/zh/eu_mdr/mdcg/": [
+    {
+      "text": "<- EU MDR 概览",
+      "link": "/zh/eu_mdr/"
+    },
+    {
+      "text": "MDCG 指南索引",
+      "link": "/zh/eu_mdr/mdcg"
+    },
+    {
+      "text": "MDCG 指南文件 (31)",
+      "collapsed": false,
+      "items": [
+        {
+          "text": "MDCG 2019-15 rev.1：I类器械制造商指南",
+          "link": "/zh/eu_mdr/mdcg/mdcg-2019-15"
+        },
+        {
+          "text": "MDCG 2019-16 rev.1：医疗器械网络安全指南",
+          "link": "/zh/eu_mdr/mdcg/mdcg-2019-16"
+        },
+        {
+          "text": "MDCG 2019-7 rev.1：法规合规负责人（PRRC）指南",
+          "link": "/zh/eu_mdr/mdcg/mdcg-2019-7"
+        },
+        {
+          "text": "MDCG 2019-9 rev.1：安全性和临床性能摘要（SSCP）",
+          "link": "/zh/eu_mdr/mdcg/mdcg-2019-9"
+        },
+        {
+          "text": "MDCG 2020-13：临床评价评估报告模板（CEAR）",
+          "link": "/zh/eu_mdr/mdcg/mdcg-2020-13"
+        },
+        {
+          "text": "MDCG 2020-1：医疗器械软件临床评价指南",
+          "link": "/zh/eu_mdr/mdcg/mdcg-2020-1"
+        },
+        {
+          "text": "MDCG 2020-3 rev.1：过渡期重大变更指南",
+          "link": "/zh/eu_mdr/mdcg/mdcg-2020-3"
+        },
+        {
+          "text": "MDCG 2020-5：临床评价 — 等同性指南",
+          "link": "/zh/eu_mdr/mdcg/mdcg-2020-5"
+        },
+        {
+          "text": "MDCG 2020-6：遗留器械充分临床证据指南",
+          "link": "/zh/eu_mdr/mdcg/mdcg-2020-6"
+        },
+        {
+          "text": "MDCG 2020-7：PMCF计划模板",
+          "link": "/zh/eu_mdr/mdcg/mdcg-2020-7"
+        },
+        {
+          "text": "MDCG 2020-8：PMCF评估报告模板",
+          "link": "/zh/eu_mdr/mdcg/mdcg-2020-8"
+        },
+        {
+          "text": "MDCG 2021-24：医疗器械分类指南",
+          "link": "/zh/eu_mdr/mdcg/mdcg-2021-24"
+        },
+        {
+          "text": "MDCG 2021-25 rev.1：遗留器械MDR要求适用指南",
+          "link": "/zh/eu_mdr/mdcg/mdcg-2021-25"
+        },
+        {
+          "text": "MDCG 2021-27 rev.1：授权代表、进口商、经销商问答",
+          "link": "/zh/eu_mdr/mdcg/mdcg-2021-27"
+        },
+        {
+          "text": "MDCG 2021-5 rev.1：医疗器械标准化指南",
+          "link": "/zh/eu_mdr/mdcg/mdcg-2021-5"
+        },
+        {
+          "text": "MDCG 2021-6 rev.1：临床调查问答（MDR）",
+          "link": "/zh/eu_mdr/mdcg/mdcg-2021-6"
+        },
+        {
+          "text": "MDCG 2021-8：临床调查申请/通知文件",
+          "link": "/zh/eu_mdr/mdcg/mdcg-2021-8"
+        },
+        {
+          "text": "MDCG 2022-21：定期安全更新报告（PSUR）指南",
+          "link": "/zh/eu_mdr/mdcg/mdcg-2022-21"
+        },
+        {
+          "text": "MDCG 2022-5 rev.1：器械与药品边界指南",
+          "link": "/zh/eu_mdr/mdcg/mdcg-2022-5"
+        },
+        {
+          "text": "MDCG 2023-1：机构自制器械豁免指南（第5(5)条）",
+          "link": "/zh/eu_mdr/mdcg/mdcg-2023-1"
+        },
+        {
+          "text": "MDCG 2023-4：MDSW与硬件组合指南",
+          "link": "/zh/eu_mdr/mdcg/mdcg-2023-4"
+        },
+        {
+          "text": "MDCG 2023-5：附件XVI产品资质认定与分类指南",
+          "link": "/zh/eu_mdr/mdcg/mdcg-2023-5"
+        },
+        {
+          "text": "MDCG 2023-6：附件XVI产品等同性证明指南",
+          "link": "/zh/eu_mdr/mdcg/mdcg-2023-6"
+        },
+        {
+          "text": "MDCG 2023-7：临床调查豁免及等同性数据访问指南",
+          "link": "/zh/eu_mdr/mdcg/mdcg-2023-7"
+        },
+        {
+          "text": "MDCG 2024-10：孤儿医疗器械临床评价",
+          "link": "/zh/eu_mdr/mdcg/mdcg-2024-10"
+        },
+        {
+          "text": "MDCG 2024-3：临床调查计划（CIP）内容指南",
+          "link": "/zh/eu_mdr/mdcg/mdcg-2024-3"
+        },
+        {
+          "text": "MDCG 2024-5：研究者手册（IB）内容指南",
+          "link": "/zh/eu_mdr/mdcg/mdcg-2024-5"
+        },
+        {
+          "text": "MDCG 2025-10：医疗器械和体外诊断医疗器械上市后监督指南",
+          "link": "/zh/eu_mdr/mdcg/mdcg-2025-10"
+        },
+        {
+          "text": "MDCG 2025-4：在线平台上安全提供MDSW应用指南",
+          "link": "/zh/eu_mdr/mdcg/mdcg-2025-4"
+        },
+        {
+          "text": "MDCG 2025-6：MDR/IVDR与AI法案互动FAQ",
+          "link": "/zh/eu_mdr/mdcg/mdcg-2025-6"
+        },
+        {
+          "text": "MDCG 2025-9：突破性医疗器械（BtX）指南",
+          "link": "/zh/eu_mdr/mdcg/mdcg-2025-9"
         }
       ]
     }

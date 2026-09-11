@@ -1,20 +1,3 @@
----
-id: nmpa-gp-用于罕见病防治医疗器械注册审查指导原则-ac938e
-title:
-  zh: 用于罕见病防治医疗器械注册审查指导原则
-  en: ''
-regulation: nmpa
-category: nmpa/guidance
-status: active
-document_number: 国家药品监督管理局2018年第101号通告
-source_format: markdown
-translation: original
-effective_date: '2018-01-01'
-contributor: RASAAS
-promoted_from: fulltext
----
-# 用于罕见病防治医疗器械注册审查指导原则
-
 <!-- source: cmde-skill-batch 用于罕见病防治医疗器械注册审查指导原则_2018年第101号.doc -->
 <!-- source_url: https://www.cmde.org.cn/flfg/zdyz/zdyzwbk/20181026111100309.html -->
 <!-- title: 用于罕见病防治医疗器械注册审查指导原则 -->

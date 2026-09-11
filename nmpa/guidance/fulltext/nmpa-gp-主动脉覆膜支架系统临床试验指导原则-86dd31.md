@@ -1,20 +1,3 @@
----
-id: nmpa-gp-主动脉覆膜支架系统临床试验指导原则-d0c183
-title:
-  zh: 主动脉覆膜支架系统临床试验指导原则
-  en: ''
-regulation: nmpa
-category: nmpa/guidance
-status: active
-document_number: 国家药品监督管理局2019年第8号通告
-source_format: markdown
-translation: original
-effective_date: '2019-01-01'
-contributor: RASAAS
-promoted_from: fulltext
----
-# 主动脉覆膜支架系统临床试验指导原则
-
 <!-- source: cmde-skill-batch 主动脉覆膜支架系统临床试验指导原则_2019年第8号.doc -->
 <!-- source_url: https://www.cmde.org.cn/flfg/zdyz/zdyzwbk/20190304084546354.html -->
 <!-- title: 主动脉覆膜支架系统临床试验指导原则 -->
