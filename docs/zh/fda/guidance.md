@@ -9,7 +9,7 @@ doc_count: 434
 目前有效的 **CDRH Final** 指南（Guidance Document 与 Special Controls）。不含 Draft、CPG、Memorandum 与 Small Entity Compliance Guides。
 
 共 **434** 份。本波次已填写全部中文标题，并生成分类中文目录与元数据页。
-英文结构质检（PR #113）已通过。非 premarket 类别中文全文已按既有英文补齐。`premarket` 已完成 wave1+wave2+wave3+wave4 共 160 份中文正文（按发布日期由新到旧）；其余已有英文全文的 premarket 仍为元数据页，后续分波继续。
+英文结构质检（PR #113）已通过。非 premarket 类别中文全文已按既有英文补齐。`premarket` 已完成 wave1+wave2+wave3+wave4+wave5 共 200 份中文正文（按发布日期由新到旧）；其余已有英文全文的 premarket 仍为元数据页，后续分波继续。
 
 各类别内按发布日期由新到旧排列。标注〔全文〕=已有中文全文，〔仅元数据〕=本波次元数据页（英文全文见对应 EN 页）。
 
@@ -55,7 +55,7 @@ doc_count: 434
 
 ## 上市前（510(k) / PMA / De Novo / IDE） {#premarket}
 
-290 份文件，其中中文全文 160 份，其余为元数据页。
+290 份文件，其中中文全文 200 份，其余为元数据页。
 
 - [牙科护理灯 - 上市前通知 (510(k)) 提交：行业与食品药品管理局工作人员指南](./guidance/dental-curing-lights-premarket-notification-510k-submissions) (2026-09-02) 〔全文〕
 - [牙科复合树脂设备 - 上市前通知 (510(k)) 提交：行业与食品药品管理局工作人员指南](./guidance/dental-composite-resin-devices-premarket-notification-510k-submissions) (2026-09-02) 〔全文〕
@@ -217,46 +217,46 @@ doc_count: 434
 - [在"维特罗伴侣"诊断设备中：行业与食品药品管理局工作人员指南](./guidance/in-vitro-companion-diagnostic-devices) (2014-08-06) 〔全文〕
 - [项目:在上市前通知中评估 等效性 [510(k]：行业与食品药品管理局工作人员指南](./guidance/510k-program-evaluating-substantial-equivalence-premarket-notifications-510k) (2014-07-28) 〔全文〕
 - [磁共振诊断设备的重大 风险调查标准：行业与食品药品管理局工作人员指南](./guidance/criteria-significant-risk-investigations-magnetic-resonance-diagnostic-devices-guidance-industry-and) (2014-06-19) 〔全文〕
-- [提供儿童医疗器械的使用信息 ：行业与FDA工作人员指南](./guidance/providing-information-about-pediatric-uses-medical-devices) (2014-05-01) 〔仅元数据〕
-- [医疗器械提交的审查过程 通信：行业与FDA工作人员指南](./guidance/types-communication-during-review-medical-device-submissions) (2014-04-04) 〔仅元数据〕
-- [儿童医疗器械的市场前 评估：行业与FDA工作人员指南](./guidance/premarket-assessment-pediatric-medical-devices) (2014-03-24) 〔仅元数据〕
-- [仅用于研究或仅用于研究标 的内诊断产品的分销：行业与FDA工作人员指南](./guidance/distribution-in-vitro-diagnostic-products-labeled-research-use-only-or-investigational-use-only) (2013-11-25) 〔仅元数据〕
-- [医疗器械,临床调查 ,机构审查委员会和FDA工作人员的关键临床研究的设计考虑：行业指南](./guidance/design-considerations-pivotal-clinical-investigations-medical-devices) (2013-11-07) 〔仅元数据〕
-- [早期可行性医疗器械临床研究的研究设备豁免 (IDEs),包括人类研究中的某些首次 (FIH)：行业与食品药品管理局工作人员指南](./guidance/investigational-device-exemptions-ides-early-feasibility-medical-device-clinical-studies-including) (2013-10-01) 〔仅元数据〕
-- [试验在内体诊断设备 的迁移研究：行业与FDA工作人员指南](./guidance/assay-migration-studies-in-vitro-diagnostic-devices) (2013-04-25) 〔仅元数据〕
-- [医疗器械分类产品代码：行业与食品药品管理局工作人员指南](./guidance/medical-device-classification-product-codes-guidance-industry-and-food-and-drug-administration-staff) (2013-04-10) 〔仅元数据〕
-- [确定对虫病菌抗体 检测的直体诊断设备的性能特性：行业与FDA工作人员指南](./guidance/establishing-performance-characteristics-in-vitro-diagnostic-devices-detection-antibodies-borrelia) (2013-03-27) 〔仅元数据〕
-- [视网膜假肢的检查设备豁免 (IDE) 指南：行业与FDA工作人员指南](./guidance/investigational-device-exemption-ide-guidance-retinal-prostheses) (2013-03-06) 〔仅元数据〕
-- [脉冲氧化仪 - 预 市场通知提交 [510(k) 项]：行业与食品药品管理局工作人员指南](./guidance/pulse-oximeters-premarket-notification-submissions-510ks-guidance-industry-and-food-and-drug) (2013-03-03) 〔仅元数据〕
-- [临床研究设计用于治疗前 կոչ的外科摘除器件：行业与食品药品管理局工作人员指南](./guidance/clinical-study-designs-surgical-ablation-devices-treatment-atrial-fibrillation-guidance-industry-and) (2013-02-14) 〔仅元数据〕
-- [关于人工胰腺装置系统的研究 豁免和预销售许可申请 (PMA) 的内容：行业与食品药品管理局工作人员指南](./guidance/content-investigational-device-exemption-ide-and-premarket-approval-pma-applications-artificial) (2012-11-09) 〔仅元数据〕
-- [针对尿液不的治疗指 的设备的临床研究：行业与FDA工作人员指南](./guidance/clinical-investigations-devices-indicated-treatment-urinary-incontinence-guidance-industry-and-fda) (2011-03-07) 〔仅元数据〕
-- [血兰塞标签：行业与食品药品管理局工作人员指南](./guidance/blood-lancet-labeling-guidance-industry-and-food-and-drug-administration-staff) (2010-11-28) 〔仅元数据〕
-- [接触镜头护理产品标 ：行业与食品药品管理局工作人员指南](./guidance/contact-lens-care-products-labeling) (2010-08-15) 〔仅元数据〕
-- [体诊断器 (IVD) 研究 - - 常见问题：行业与FDA工作人员指南](./guidance/in-vitro-diagnostic-ivd-device-studies-frequently-asked-questions) (2010-06-25) 〔仅元数据〕
-- [对于静脉内和相关输送 (STS) 的非临床工程测试和建议标签：行业与FDA工作人员指南](./guidance/non-clinical-engineering-tests-and-recommended-labeling-intravascular-stents-and-associated-delivery) (2010-04-17) 〔仅元数据〕
-- [医疗器械临床试验中使用 (PDF版) 的拜塞统计指南](./guidance/guidance-use-bayesian-statistics-medical-device-clinical-trials-pdf-version) (2010-02-05) 〔仅元数据〕
-- [适用于产品的产品,可 (以) 预销售批准 (PMA) 的变更 - PMA补充决策过程：行业与FDA工作人员指南](./guidance/modifications-devices-subject-premarket-approval-pma-pma-supplement-decision-making-process) (2008-12-11) 〔仅元数据〕
-- [门的治疗用门 器的临床研究设计：行业与FDA工作人员指南](./guidance/clinical-study-designs-catheter-ablation-devices-treatment-atrial-flutter) (2008-08-05) 〔仅元数据〕
-- [静脉内管管理集 上市前 通知提交 [510(k) ]：行业与FDA工作人员指南](./guidance/intravascular-administration-sets-premarket-notification-submissions-510k) (2008-07-11) 〔仅元数据〕
-- [对于夜间家庭血分析所指向的设备的调查设备豁免 (IDE)：行业与FDA工作人员指南](./guidance/investigational-device-exemptions-ides-devices-indicated-nocturnal-home-hemodialysis) (2008-04-15) 〔仅元数据〕
-- [准备和审查对整体人工盘 (Total Artificial Discs) 的检查设备豁免申请：行业与FDA工作人员指南](./guidance/preparation-and-review-investigational-device-exemption-applications-ides-total-artificial-discs) (2008-04-11) 〔仅元数据〕
-- [冠状病毒和状体保护 (冠状病毒) 设备 - 上市前通知 [510(k) ] 提交：行业与FDA工作人员指南](./guidance/coronary-and-carotid-embolic-protection-devices-premarket-notification-510k-submissions) (2008-02-15) 〔仅元数据〕
-- [医疗手套指南：行业与FDA工作人员指南](./guidance/medical-glove-guidance-manual) (2008-01-22) 〔仅元数据〕
-- [生物指标 (BI) 上市前 通知 [510(k) ] 提交：行业与FDA工作人员指南](./guidance/biological-indicator-bi-premarket-notification-510k-submissions) (2007-10-04) 〔仅元数据〕
-- [茎假肢的非临床信息：行业与FDA工作人员指南](./guidance/non-clinical-information-femoral-stem-prostheses) (2007-09-17) 〔仅元数据〕
-- [商业分布的分析物特异反应 (ASR):常见问题：行业与FDA工作人员指南](./guidance/commercially-distributed-analyte-specific-reagents-asrs-frequently-asked-questions) (2007-09-13) 〔仅元数据〕
-- [单个提交单个设备或多个 标示的捆绑：行业与FDA工作人员指南](./guidance/bundling-multiple-devices-or-multiple-indications-single-submission) (2007-06-22) 〔仅元数据〕
-- [对于神经瘤外科设备的 (Neurothrombectomy) 前临床和临床研究：行业与FDA工作人员指南](./guidance/pre-clinical-and-clinical-studies-neurothrombectomy-devices) (2007-06-18) 〔仅元数据〕
-- [牙科手工 - 上市前通知 [510(k) ] 提交：行业与FDA工作人员指南](./guidance/dental-handpieces-premarket-notification-510k-submissions) (2007-05-02) 〔仅元数据〕
-- [基拉和替代基拉 叶片上市前通知 [510(k) ] 提交：行业与FDA工作人员指南](./guidance/keratome-and-replacement-keratome-blades-premarket-notification-510k-submissions) (2006-09-18) 〔仅元数据〕
-- [关于使用非个人可识别的遗留人类样本进行内置诊断设备研究的信息同意指导: 赞助商,机构审查ritionvoj,食品药品管理局工作人员的指导](./guidance/guidance-informed-consent-in-vitro-diagnostic-device-studies-using-leftover-human-specimens-are-not) (2006-04-25) 〔仅元数据〕
-- [仪 - 上市前通知 [510 ]：行业与FDA工作人员指南](./guidance/tonometers-premarket-notification-510k-submissions) (2006-03-27) 〔仅元数据〕
-- [药物遗传检测和遗传标志物遗传检测：行业与FDA工作人员指南](./guidance/pharmacogenetic-tests-and-genetic-tests-heritable-markers) (2006-02-09) 〔仅元数据〕
-- [医疗器械具有防伤性特征：行业与FDA工作人员指南](./guidance/medical-devices-sharps-injury-prevention-features-guidance-industry-and-fda-staff) (2005-08-08) 〔仅元数据〕
-- [季节性囊和囊:上市前通知提交的信息 (510k)：行业与FDA工作人员指南](./guidance/menstrual-tampons-and-pads-information-premarket-notification-submissions-510ks-guidance-industry) (2005-07-26) 〔仅元数据〕
-- [整形器械应用的临床数据介绍：行业与FDA工作人员指南](./guidance/clinical-data-presentations-orthopedic-device-applications-guidance-industry-and-fda-staff) (2004-12-01) 〔仅元数据〕
-- [临床试验考虑:脊椎增长器件用于治疗脊椎不够骨折：行业与FDA工作人员指南](./guidance/clinical-trial-considerations-vertebral-augmentation-devices-treat-spinal-insufficiency-fractures) (2004-10-23) 〔仅元数据〕
+- [提供儿童医疗器械的使用信息 ：行业与FDA工作人员指南](./guidance/providing-information-about-pediatric-uses-medical-devices) (2014-05-01) 〔全文〕
+- [医疗器械提交的审查过程 通信：行业与FDA工作人员指南](./guidance/types-communication-during-review-medical-device-submissions) (2014-04-04) 〔全文〕
+- [儿童医疗器械的市场前 评估：行业与FDA工作人员指南](./guidance/premarket-assessment-pediatric-medical-devices) (2014-03-24) 〔全文〕
+- [仅用于研究或仅用于研究标 的内诊断产品的分销：行业与FDA工作人员指南](./guidance/distribution-in-vitro-diagnostic-products-labeled-research-use-only-or-investigational-use-only) (2013-11-25) 〔全文〕
+- [医疗器械,临床调查 ,机构审查委员会和FDA工作人员的关键临床研究的设计考虑：行业指南](./guidance/design-considerations-pivotal-clinical-investigations-medical-devices) (2013-11-07) 〔全文〕
+- [早期可行性医疗器械临床研究的研究设备豁免 (IDEs),包括人类研究中的某些首次 (FIH)：行业与食品药品管理局工作人员指南](./guidance/investigational-device-exemptions-ides-early-feasibility-medical-device-clinical-studies-including) (2013-10-01) 〔全文〕
+- [试验在内体诊断设备 的迁移研究：行业与FDA工作人员指南](./guidance/assay-migration-studies-in-vitro-diagnostic-devices) (2013-04-25) 〔全文〕
+- [医疗器械分类产品代码：行业与食品药品管理局工作人员指南](./guidance/medical-device-classification-product-codes-guidance-industry-and-food-and-drug-administration-staff) (2013-04-10) 〔全文〕
+- [确定对虫病菌抗体 检测的直体诊断设备的性能特性：行业与FDA工作人员指南](./guidance/establishing-performance-characteristics-in-vitro-diagnostic-devices-detection-antibodies-borrelia) (2013-03-27) 〔全文〕
+- [视网膜假肢的检查设备豁免 (IDE) 指南：行业与FDA工作人员指南](./guidance/investigational-device-exemption-ide-guidance-retinal-prostheses) (2013-03-06) 〔全文〕
+- [脉冲氧化仪 - 预 市场通知提交 [510(k) 项]：行业与食品药品管理局工作人员指南](./guidance/pulse-oximeters-premarket-notification-submissions-510ks-guidance-industry-and-food-and-drug) (2013-03-03) 〔全文〕
+- [临床研究设计用于治疗前 կոչ的外科摘除器件：行业与食品药品管理局工作人员指南](./guidance/clinical-study-designs-surgical-ablation-devices-treatment-atrial-fibrillation-guidance-industry-and) (2013-02-14) 〔全文〕
+- [关于人工胰腺装置系统的研究 豁免和预销售许可申请 (PMA) 的内容：行业与食品药品管理局工作人员指南](./guidance/content-investigational-device-exemption-ide-and-premarket-approval-pma-applications-artificial) (2012-11-09) 〔全文〕
+- [针对尿液不的治疗指 的设备的临床研究：行业与FDA工作人员指南](./guidance/clinical-investigations-devices-indicated-treatment-urinary-incontinence-guidance-industry-and-fda) (2011-03-07) 〔全文〕
+- [血兰塞标签：行业与食品药品管理局工作人员指南](./guidance/blood-lancet-labeling-guidance-industry-and-food-and-drug-administration-staff) (2010-11-28) 〔全文〕
+- [接触镜头护理产品标 ：行业与食品药品管理局工作人员指南](./guidance/contact-lens-care-products-labeling) (2010-08-15) 〔全文〕
+- [体诊断器 (IVD) 研究 - - 常见问题：行业与FDA工作人员指南](./guidance/in-vitro-diagnostic-ivd-device-studies-frequently-asked-questions) (2010-06-25) 〔全文〕
+- [对于静脉内和相关输送 (STS) 的非临床工程测试和建议标签：行业与FDA工作人员指南](./guidance/non-clinical-engineering-tests-and-recommended-labeling-intravascular-stents-and-associated-delivery) (2010-04-17) 〔全文〕
+- [医疗器械临床试验中使用 (PDF版) 的拜塞统计指南](./guidance/guidance-use-bayesian-statistics-medical-device-clinical-trials-pdf-version) (2010-02-05) 〔全文〕
+- [适用于产品的产品,可 (以) 预销售批准 (PMA) 的变更 - PMA补充决策过程：行业与FDA工作人员指南](./guidance/modifications-devices-subject-premarket-approval-pma-pma-supplement-decision-making-process) (2008-12-11) 〔全文〕
+- [门的治疗用门 器的临床研究设计：行业与FDA工作人员指南](./guidance/clinical-study-designs-catheter-ablation-devices-treatment-atrial-flutter) (2008-08-05) 〔全文〕
+- [静脉内管管理集 上市前 通知提交 [510(k) ]：行业与FDA工作人员指南](./guidance/intravascular-administration-sets-premarket-notification-submissions-510k) (2008-07-11) 〔全文〕
+- [对于夜间家庭血分析所指向的设备的调查设备豁免 (IDE)：行业与FDA工作人员指南](./guidance/investigational-device-exemptions-ides-devices-indicated-nocturnal-home-hemodialysis) (2008-04-15) 〔全文〕
+- [准备和审查对整体人工盘 (Total Artificial Discs) 的检查设备豁免申请：行业与FDA工作人员指南](./guidance/preparation-and-review-investigational-device-exemption-applications-ides-total-artificial-discs) (2008-04-11) 〔全文〕
+- [冠状病毒和状体保护 (冠状病毒) 设备 - 上市前通知 [510(k) ] 提交：行业与FDA工作人员指南](./guidance/coronary-and-carotid-embolic-protection-devices-premarket-notification-510k-submissions) (2008-02-15) 〔全文〕
+- [医疗手套指南：行业与FDA工作人员指南](./guidance/medical-glove-guidance-manual) (2008-01-22) 〔全文〕
+- [生物指标 (BI) 上市前 通知 [510(k) ] 提交：行业与FDA工作人员指南](./guidance/biological-indicator-bi-premarket-notification-510k-submissions) (2007-10-04) 〔全文〕
+- [茎假肢的非临床信息：行业与FDA工作人员指南](./guidance/non-clinical-information-femoral-stem-prostheses) (2007-09-17) 〔全文〕
+- [商业分布的分析物特异反应 (ASR):常见问题：行业与FDA工作人员指南](./guidance/commercially-distributed-analyte-specific-reagents-asrs-frequently-asked-questions) (2007-09-13) 〔全文〕
+- [单个提交单个设备或多个 标示的捆绑：行业与FDA工作人员指南](./guidance/bundling-multiple-devices-or-multiple-indications-single-submission) (2007-06-22) 〔全文〕
+- [对于神经瘤外科设备的 (Neurothrombectomy) 前临床和临床研究：行业与FDA工作人员指南](./guidance/pre-clinical-and-clinical-studies-neurothrombectomy-devices) (2007-06-18) 〔全文〕
+- [牙科手工 - 上市前通知 [510(k) ] 提交：行业与FDA工作人员指南](./guidance/dental-handpieces-premarket-notification-510k-submissions) (2007-05-02) 〔全文〕
+- [基拉和替代基拉 叶片上市前通知 [510(k) ] 提交：行业与FDA工作人员指南](./guidance/keratome-and-replacement-keratome-blades-premarket-notification-510k-submissions) (2006-09-18) 〔全文〕
+- [关于使用非个人可识别的遗留人类样本进行内置诊断设备研究的信息同意指导: 赞助商,机构审查ritionvoj,食品药品管理局工作人员的指导](./guidance/guidance-informed-consent-in-vitro-diagnostic-device-studies-using-leftover-human-specimens-are-not) (2006-04-25) 〔全文〕
+- [仪 - 上市前通知 [510 ]：行业与FDA工作人员指南](./guidance/tonometers-premarket-notification-510k-submissions) (2006-03-27) 〔全文〕
+- [药物遗传检测和遗传标志物遗传检测：行业与FDA工作人员指南](./guidance/pharmacogenetic-tests-and-genetic-tests-heritable-markers) (2006-02-09) 〔全文〕
+- [医疗器械具有防伤性特征：行业与FDA工作人员指南](./guidance/medical-devices-sharps-injury-prevention-features-guidance-industry-and-fda-staff) (2005-08-08) 〔全文〕
+- [季节性囊和囊:上市前通知提交的信息 (510k)：行业与FDA工作人员指南](./guidance/menstrual-tampons-and-pads-information-premarket-notification-submissions-510ks-guidance-industry) (2005-07-26) 〔全文〕
+- [整形器械应用的临床数据介绍：行业与FDA工作人员指南](./guidance/clinical-data-presentations-orthopedic-device-applications-guidance-industry-and-fda-staff) (2004-12-01) 〔全文〕
+- [临床试验考虑:脊椎增长器件用于治疗脊椎不够骨折：行业与FDA工作人员指南](./guidance/clinical-trial-considerations-vertebral-augmentation-devices-treat-spinal-insufficiency-fractures) (2004-10-23) 〔全文〕
 - [类II特殊控制指南文件:用于检测β-glucan的血清检测 (PDF版本)](./guidance/class-ii-special-controls-guidance-document-serological-assays-detection-beta-glucan-pdf-version) (2004-09-23) 〔仅元数据〕
 - [2002年医疗器械用户费和现代化法,一次性使用重工医疗器械的上市前通知提交中的验证数据 (510(k)：行业与FDA工作人员指南](./guidance/medical-device-user-fee-and-modernization-act-2002-validation-data-premarket-notification) (2004-06-02) 〔仅元数据〕
 - [类 II 特殊控制指南:免疫磁流通癌细胞选择和编号系统 (PDF版本)](./guidance/class-ii-special-controls-guidance-document-immunomagnetic-circulating-cancer-cell-selection-and) (2004-05-11) 〔仅元数据〕
