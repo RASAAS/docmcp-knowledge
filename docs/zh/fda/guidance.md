@@ -9,7 +9,7 @@ doc_count: 434
 目前有效的 **CDRH Final** 指南（Guidance Document 与 Special Controls）。不含 Draft、CPG、Memorandum 与 Small Entity Compliance Guides。
 
 共 **434** 份。本波次已填写全部中文标题，并生成分类中文目录与元数据页。
-英文结构质检（PR #113）已通过。非 premarket 类别中文全文已按既有英文补齐。`premarket` 已完成 wave1+wave2+wave3 共 120 份中文正文（按发布日期由新到旧）；其余已有英文全文的 premarket 仍为元数据页，后续分波继续。
+英文结构质检（PR #113）已通过。非 premarket 类别中文全文已按既有英文补齐。`premarket` 已完成 wave1+wave2+wave3+wave4 共 160 份中文正文（按发布日期由新到旧）；其余已有英文全文的 premarket 仍为元数据页，后续分波继续。
 
 各类别内按发布日期由新到旧排列。标注〔全文〕=已有中文全文，〔仅元数据〕=本波次元数据页（英文全文见对应 EN 页）。
 
@@ -55,7 +55,7 @@ doc_count: 434
 
 ## 上市前（510(k) / PMA / De Novo / IDE） {#premarket}
 
-290 份文件，其中中文全文 120 份，其余为元数据页。
+290 份文件，其中中文全文 160 份，其余为元数据页。
 
 - [牙科护理灯 - 上市前通知 (510(k)) 提交：行业与食品药品管理局工作人员指南](./guidance/dental-curing-lights-premarket-notification-510k-submissions) (2026-09-02) 〔全文〕
 - [牙科复合树脂设备 - 上市前通知 (510(k)) 提交：行业与食品药品管理局工作人员指南](./guidance/dental-composite-resin-devices-premarket-notification-510k-submissions) (2026-09-02) 〔全文〕
@@ -177,46 +177,46 @@ doc_count: 434
 - [医疗器械前销售的自愿共识标准的适当使用：行业与食品药品管理局工作人员指南](./guidance/appropriate-use-voluntary-consensus-standards-premarket-submissions-medical-devices) (2018-09-14) 〔全文〕
 - [公共人类基因变体数据库的使用,以支持基因和基因组基因在体诊断的临床有效性：利益相关方与食品药品管理局工作人员指南](./guidance/use-public-human-genetic-variant-databases-support-clinical-validity-genetic-and-genomic-based-vitro) (2018-04-13) 〔全文〕
 - [接受临床数据支持医疗器械申请和提交:常见问题：行业与食品药品管理局工作人员指南](./guidance/acceptance-clinical-data-support-medical-device-applications-and-submissions-frequently-asked) (2018-02-21) 〔全文〕
-- [添加剂制造医疗器械的技术考虑因素：行业与食品药品管理局工作人员指南](./guidance/technical-considerations-additive-manufactured-medical-devices) (2017-12-05) 〔仅元数据〕
-- [医疗保险和医疗补助服务中心 (CMS) 提供覆盖决策的研究设备豁免 (IDE) 设备的FDA分类:赞助商,临床调查人员,工业,机构审查委员会和食品药品管理局工作人员的指导](./guidance/fda-categorization-investigational-device-exemption-ide-devices-assist-centers-medicare-and-medicaid) (2017-12-05) 〔仅元数据〕
-- [儿童X射线成像设备上市前通知：行业与食品药品管理局工作人员指南](./guidance/pediatric-information-x-ray-imaging-device-premarket-notifications) (2017-11-28) 〔仅元数据〕
-- [某些超声波外科吸尘器的产品标签：行业与食品药品管理局工作人员指南](./guidance/product-labeling-certain-ultrasonic-surgical-aspirator-devices) (2017-10-30) 〔仅元数据〕
-- [决定何时提交510k) 对于已有的设备的更改：行业与食品药品管理局工作人员指南](./guidance/deciding-when-submit-510k-change-existing-device) (2017-10-25) 〔仅元数据〕
-- [建立人类瘤病毒检测或检测和区分的内置诊断设备的性能特性：行业与食品药品管理局工作人员指南](./guidance/establishing-performance-characteristics-in-vitro-diagnostic-devices-detection-or-detection-and-0) (2017-09-15) 〔仅元数据〕
-- [在医疗器械临床研究中评估和报告年龄,种族和种族特定数据：行业与食品药品管理局工作人员指南](./guidance/evaluation-and-reporting-age-race-and-ethnicity-specific-data-medical-device-clinical-studies) (2017-09-12) 〔仅元数据〕
-- [医疗器械咨询委员会会议程序：行业与食品药品管理局工作人员指南](./guidance/procedures-meetings-medical-devices-advisory-committee) (2017-09-01) 〔仅元数据〕
-- [医疗器械检查器件豁免的利害风险确定时考虑因素:研究器件豁免赞助商,赞助商-调查人员和食品药品管理局工作人员的指导](./guidance/factors-consider-when-making-benefit-risk-determinations-medical-device-investigational-device) (2017-01-13) 〔仅元数据〕
-- [医疗器械产品可用性,合规性和执行决策中考虑的因素：行业与食品药品管理局工作人员指南](./guidance/factors-consider-regarding-benefit-risk-medical-device-product-availability-compliance-and) (2016-12-27) 〔仅元数据〕
-- [通过灵活的胃肠内镜来灌使用的门和配件的十字污染风险：行业与食品药品管理局工作人员指南](./guidance/mitigating-risk-cross-contamination-valves-and-accessories-used-irrigation-through-flexible) (2016-11-29) 〔仅元数据〕
-- [针对疾病进展和临床结果的神经系统的研究设备豁免的临床考虑：行业与食品药品管理局工作人员指南](./guidance/clinical-considerations-investigational-device-exemptions-ides-neurological-devices-targeting) (2016-11-07) 〔仅元数据〕
-- [菌的永久性管植入物标签：行业与食品药品管理局工作人员指南](./guidance/labeling-permanent-hysteroscopically-placed-tubal-implants-intended-sterilization) (2016-10-31) 〔仅元数据〕
-- [报告医疗器械提交的计算建模研究：行业与食品药品管理局工作人员指南](./guidance/reporting-computational-modeling-studies-medical-device-submissions) (2016-09-21) 〔仅元数据〕
-- [关于固体X射线成像设备提交510k指南：行业与食品药品管理局工作人员指南](./guidance/guidance-submission-510ks-solid-state-x-ray-imaging-devices) (2016-09-01) 〔仅元数据〕
-- [上市前通知 (510(k)) 关于一般手术双极电脑器具密封器的申请：行业与食品药品管理局工作人员指南](./guidance/premarket-notification-510k-submissions-bipolar-electrosurgical-vessel-sealers-general-surgery) (2016-08-15) 〔仅元数据〕
-- [适应性设计用于医疗器械临床研究：行业与食品药品管理局工作人员指南](./guidance/adaptive-designs-medical-device-clinical-studies) (2016-07-27) 〔仅元数据〕
-- [利用现有临床数据将其用于儿童医疗器械的使用：行业与食品药品管理局工作人员指南](./guidance/leveraging-existing-clinical-data-extrapolation-pediatric-uses-medical-devices) (2016-06-21) 〔仅元数据〕
-- [数字病理整体幻灯片成像设备的技术性能评估：行业与食品药品管理局工作人员指南](./guidance/technical-performance-assessment-digital-pathology-whole-slide-imaging-devices) (2016-04-20) 〔仅元数据〕
-- [放射生物计量医疗反措施设备：行业与食品药品管理局工作人员指南](./guidance/radiation-biodosimetry-medical-countermeasure-devices) (2016-04-18) 〔仅元数据〕
-- [对于多配置被动医疗器械,磁共振环境中的射频诱导加热评估：行业与食品药品管理局工作人员指南](./guidance/assessment-radiofrequency-induced-heating-magnetic-resonance-mr-environment-multi-configuration) (2016-03-22) 〔仅元数据〕
-- [医疗器械和临床试验设计,用于治疗或改善菌感染的指的外观：行业与食品药品管理局工作人员指南](./guidance/medical-devices-and-clinical-trial-design-treatment-or-improvement-appearance-fungally-infected) (2016-03-07) 〔仅元数据〕
-- [关于拉莫特里金和尼萨米德试剂的预销通知的建议：行业与食品药品管理局工作人员指南](./guidance/recommendations-premarket-notifications-lamotrigine-and-zonisamide-assays) (2016-02-09) 〔仅元数据〕
-- [植入式最小入侵性血瘤手术设备 (MIGS) 的前市场研究：行业与食品药品管理局工作人员指南](./guidance/premarket-studies-implantable-minimally-invasive-glaucoma-surgical-migs-devices) (2015-12-15) 〔仅元数据〕
-- [关于卫生保健环境中使用的服装的上市前通知要求：行业与食品药品管理局工作人员指南](./guidance/premarket-notification-requirements-concerning-gowns-intended-use-health-care-settings) (2015-12-09) 〔仅元数据〕
-- [选择非临床工程测试更新和内血管和相关输送系统的建议标签：行业与食品药品管理局工作人员指南](./guidance/select-updates-non-clinical-engineering-tests-and-recommended-labeling-intravascular-stents-and) (2015-08-18) 〔仅元数据〕
-- [单次使用眼内眼科仪器的内毒素检测建议](./guidance/endotoxin-testing-recommendations-single-use-intraocular-ophthalmic-devices) (2015-08-17) 〔仅元数据〕
-- [早期生长反应1 (EGR1) 基因光性现场混合化 (FISH) 测试系统的缩写510k的内容和格式：行业与食品药品管理局工作人员指南](./guidance/content-and-format-abbreviated-510ks-early-growth-response-1-egr1-gene-fluorescence-situ) (2015-06-17) 〔仅元数据〕
-- [产品前销售和后销售数据收集的平衡：行业与食品药品管理局工作人员指南](./guidance/balancing-premarket-and-postmarket-data-collection-devices-subject-premarket-approval) (2015-04-13) 〔仅元数据〕
-- [医疗保健环境中医疗器械的重工:验证方法和标签：行业与食品药品管理局工作人员指南](./guidance/reprocessing-medical-devices-health-care-settings-validation-methods-and-labeling) (2015-03-17) 〔仅元数据〕
-- [为了减轻对口腔应用的小孔连接器的错误连接风险的安全考虑：行业与食品药品管理局工作人员指南](./guidance/safety-considerations-mitigate-risks-misconnections-small-bore-connectors-intended-enteral) (2015-02-11) 〔仅元数据〕
-- [标签医疗产品的建议,以告知用户,产品或产品容器不是用天然乳制品：行业与食品药品管理局工作人员指南](./guidance/recommendations-labeling-medical-products-inform-users-product-or-product-container-not-made-natural) (2014-12-02) 〔仅元数据〕
-- [输入 产品总寿命周期：行业与FDA工作人员指南](./guidance/infusion-pumps-total-product-life-cycle) (2014-12-02) 〔仅元数据〕
-- [设计设计方法:为家庭使用的 设备：行业与食品药品管理局工作人员指南](./guidance/design-considerations-devices-intended-home-use) (2014-11-24) 〔仅元数据〕
-- [具有组合功能的分子诊断 仪器：行业与食品药品管理局工作人员指南](./guidance/molecular-diagnostic-instruments-combined-functions) (2014-11-12) 〔仅元数据〕
-- [专用设备豁免：行业与食品药品管理局工作人员指南](./guidance/custom-device-exemption) (2014-09-24) 〔仅元数据〕
-- [美国食品药品管理局 (FDA) 关于研究设备豁免的决定 临床调查:赞助商,临床调查人员,机构审查委员会和食品药品管理局工作人员的指导](./guidance/fda-decisions-investigational-device-exemption-clinical-investigations) (2014-08-19) 〔仅元数据〕
-- [在"维特罗伴侣"诊断设备中：行业与食品药品管理局工作人员指南](./guidance/in-vitro-companion-diagnostic-devices) (2014-08-06) 〔仅元数据〕
-- [项目:在上市前通知中评估 等效性 [510(k]：行业与食品药品管理局工作人员指南](./guidance/510k-program-evaluating-substantial-equivalence-premarket-notifications-510k) (2014-07-28) 〔仅元数据〕
-- [磁共振诊断设备的重大 风险调查标准：行业与食品药品管理局工作人员指南](./guidance/criteria-significant-risk-investigations-magnetic-resonance-diagnostic-devices-guidance-industry-and) (2014-06-19) 〔仅元数据〕
+- [添加剂制造医疗器械的技术考虑因素：行业与食品药品管理局工作人员指南](./guidance/technical-considerations-additive-manufactured-medical-devices) (2017-12-05) 〔全文〕
+- [医疗保险和医疗补助服务中心 (CMS) 提供覆盖决策的研究设备豁免 (IDE) 设备的FDA分类:赞助商,临床调查人员,工业,机构审查委员会和食品药品管理局工作人员的指导](./guidance/fda-categorization-investigational-device-exemption-ide-devices-assist-centers-medicare-and-medicaid) (2017-12-05) 〔全文〕
+- [儿童X射线成像设备上市前通知：行业与食品药品管理局工作人员指南](./guidance/pediatric-information-x-ray-imaging-device-premarket-notifications) (2017-11-28) 〔全文〕
+- [某些超声波外科吸尘器的产品标签：行业与食品药品管理局工作人员指南](./guidance/product-labeling-certain-ultrasonic-surgical-aspirator-devices) (2017-10-30) 〔全文〕
+- [决定何时提交510k) 对于已有的设备的更改：行业与食品药品管理局工作人员指南](./guidance/deciding-when-submit-510k-change-existing-device) (2017-10-25) 〔全文〕
+- [建立人类瘤病毒检测或检测和区分的内置诊断设备的性能特性：行业与食品药品管理局工作人员指南](./guidance/establishing-performance-characteristics-in-vitro-diagnostic-devices-detection-or-detection-and-0) (2017-09-15) 〔全文〕
+- [在医疗器械临床研究中评估和报告年龄,种族和种族特定数据：行业与食品药品管理局工作人员指南](./guidance/evaluation-and-reporting-age-race-and-ethnicity-specific-data-medical-device-clinical-studies) (2017-09-12) 〔全文〕
+- [医疗器械咨询委员会会议程序：行业与食品药品管理局工作人员指南](./guidance/procedures-meetings-medical-devices-advisory-committee) (2017-09-01) 〔全文〕
+- [医疗器械检查器件豁免的利害风险确定时考虑因素:研究器件豁免赞助商,赞助商-调查人员和食品药品管理局工作人员的指导](./guidance/factors-consider-when-making-benefit-risk-determinations-medical-device-investigational-device) (2017-01-13) 〔全文〕
+- [医疗器械产品可用性,合规性和执行决策中考虑的因素：行业与食品药品管理局工作人员指南](./guidance/factors-consider-regarding-benefit-risk-medical-device-product-availability-compliance-and) (2016-12-27) 〔全文〕
+- [通过灵活的胃肠内镜来灌使用的门和配件的十字污染风险：行业与食品药品管理局工作人员指南](./guidance/mitigating-risk-cross-contamination-valves-and-accessories-used-irrigation-through-flexible) (2016-11-29) 〔全文〕
+- [针对疾病进展和临床结果的神经系统的研究设备豁免的临床考虑：行业与食品药品管理局工作人员指南](./guidance/clinical-considerations-investigational-device-exemptions-ides-neurological-devices-targeting) (2016-11-07) 〔全文〕
+- [菌的永久性管植入物标签：行业与食品药品管理局工作人员指南](./guidance/labeling-permanent-hysteroscopically-placed-tubal-implants-intended-sterilization) (2016-10-31) 〔全文〕
+- [报告医疗器械提交的计算建模研究：行业与食品药品管理局工作人员指南](./guidance/reporting-computational-modeling-studies-medical-device-submissions) (2016-09-21) 〔全文〕
+- [关于固体X射线成像设备提交510k指南：行业与食品药品管理局工作人员指南](./guidance/guidance-submission-510ks-solid-state-x-ray-imaging-devices) (2016-09-01) 〔全文〕
+- [上市前通知 (510(k)) 关于一般手术双极电脑器具密封器的申请：行业与食品药品管理局工作人员指南](./guidance/premarket-notification-510k-submissions-bipolar-electrosurgical-vessel-sealers-general-surgery) (2016-08-15) 〔全文〕
+- [适应性设计用于医疗器械临床研究：行业与食品药品管理局工作人员指南](./guidance/adaptive-designs-medical-device-clinical-studies) (2016-07-27) 〔全文〕
+- [利用现有临床数据将其用于儿童医疗器械的使用：行业与食品药品管理局工作人员指南](./guidance/leveraging-existing-clinical-data-extrapolation-pediatric-uses-medical-devices) (2016-06-21) 〔全文〕
+- [数字病理整体幻灯片成像设备的技术性能评估：行业与食品药品管理局工作人员指南](./guidance/technical-performance-assessment-digital-pathology-whole-slide-imaging-devices) (2016-04-20) 〔全文〕
+- [放射生物计量医疗反措施设备：行业与食品药品管理局工作人员指南](./guidance/radiation-biodosimetry-medical-countermeasure-devices) (2016-04-18) 〔全文〕
+- [对于多配置被动医疗器械,磁共振环境中的射频诱导加热评估：行业与食品药品管理局工作人员指南](./guidance/assessment-radiofrequency-induced-heating-magnetic-resonance-mr-environment-multi-configuration) (2016-03-22) 〔全文〕
+- [医疗器械和临床试验设计,用于治疗或改善菌感染的指的外观：行业与食品药品管理局工作人员指南](./guidance/medical-devices-and-clinical-trial-design-treatment-or-improvement-appearance-fungally-infected) (2016-03-07) 〔全文〕
+- [关于拉莫特里金和尼萨米德试剂的预销通知的建议：行业与食品药品管理局工作人员指南](./guidance/recommendations-premarket-notifications-lamotrigine-and-zonisamide-assays) (2016-02-09) 〔全文〕
+- [植入式最小入侵性血瘤手术设备 (MIGS) 的前市场研究：行业与食品药品管理局工作人员指南](./guidance/premarket-studies-implantable-minimally-invasive-glaucoma-surgical-migs-devices) (2015-12-15) 〔全文〕
+- [关于卫生保健环境中使用的服装的上市前通知要求：行业与食品药品管理局工作人员指南](./guidance/premarket-notification-requirements-concerning-gowns-intended-use-health-care-settings) (2015-12-09) 〔全文〕
+- [选择非临床工程测试更新和内血管和相关输送系统的建议标签：行业与食品药品管理局工作人员指南](./guidance/select-updates-non-clinical-engineering-tests-and-recommended-labeling-intravascular-stents-and) (2015-08-18) 〔全文〕
+- [单次使用眼内眼科仪器的内毒素检测建议](./guidance/endotoxin-testing-recommendations-single-use-intraocular-ophthalmic-devices) (2015-08-17) 〔全文〕
+- [早期生长反应1 (EGR1) 基因光性现场混合化 (FISH) 测试系统的缩写510k的内容和格式：行业与食品药品管理局工作人员指南](./guidance/content-and-format-abbreviated-510ks-early-growth-response-1-egr1-gene-fluorescence-situ) (2015-06-17) 〔全文〕
+- [产品前销售和后销售数据收集的平衡：行业与食品药品管理局工作人员指南](./guidance/balancing-premarket-and-postmarket-data-collection-devices-subject-premarket-approval) (2015-04-13) 〔全文〕
+- [医疗保健环境中医疗器械的重工:验证方法和标签：行业与食品药品管理局工作人员指南](./guidance/reprocessing-medical-devices-health-care-settings-validation-methods-and-labeling) (2015-03-17) 〔全文〕
+- [为了减轻对口腔应用的小孔连接器的错误连接风险的安全考虑：行业与食品药品管理局工作人员指南](./guidance/safety-considerations-mitigate-risks-misconnections-small-bore-connectors-intended-enteral) (2015-02-11) 〔全文〕
+- [标签医疗产品的建议,以告知用户,产品或产品容器不是用天然乳制品：行业与食品药品管理局工作人员指南](./guidance/recommendations-labeling-medical-products-inform-users-product-or-product-container-not-made-natural) (2014-12-02) 〔全文〕
+- [输入 产品总寿命周期：行业与FDA工作人员指南](./guidance/infusion-pumps-total-product-life-cycle) (2014-12-02) 〔全文〕
+- [设计设计方法:为家庭使用的 设备：行业与食品药品管理局工作人员指南](./guidance/design-considerations-devices-intended-home-use) (2014-11-24) 〔全文〕
+- [具有组合功能的分子诊断 仪器：行业与食品药品管理局工作人员指南](./guidance/molecular-diagnostic-instruments-combined-functions) (2014-11-12) 〔全文〕
+- [专用设备豁免：行业与食品药品管理局工作人员指南](./guidance/custom-device-exemption) (2014-09-24) 〔全文〕
+- [美国食品药品管理局 (FDA) 关于研究设备豁免的决定 临床调查:赞助商,临床调查人员,机构审查委员会和食品药品管理局工作人员的指导](./guidance/fda-decisions-investigational-device-exemption-clinical-investigations) (2014-08-19) 〔全文〕
+- [在"维特罗伴侣"诊断设备中：行业与食品药品管理局工作人员指南](./guidance/in-vitro-companion-diagnostic-devices) (2014-08-06) 〔全文〕
+- [项目:在上市前通知中评估 等效性 [510(k]：行业与食品药品管理局工作人员指南](./guidance/510k-program-evaluating-substantial-equivalence-premarket-notifications-510k) (2014-07-28) 〔全文〕
+- [磁共振诊断设备的重大 风险调查标准：行业与食品药品管理局工作人员指南](./guidance/criteria-significant-risk-investigations-magnetic-resonance-diagnostic-devices-guidance-industry-and) (2014-06-19) 〔全文〕
 - [提供儿童医疗器械的使用信息 ：行业与FDA工作人员指南](./guidance/providing-information-about-pediatric-uses-medical-devices) (2014-05-01) 〔仅元数据〕
 - [医疗器械提交的审查过程 通信：行业与FDA工作人员指南](./guidance/types-communication-during-review-medical-device-submissions) (2014-04-04) 〔仅元数据〕
 - [儿童医疗器械的市场前 评估：行业与FDA工作人员指南](./guidance/premarket-assessment-pediatric-medical-devices) (2014-03-24) 〔仅元数据〕
