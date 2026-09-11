@@ -9,7 +9,7 @@ doc_count: 434
 目前有效的 **CDRH Final** 指南（Guidance Document 与 Special Controls）。不含 Draft、CPG、Memorandum 与 Small Entity Compliance Guides。
 
 共 **434** 份。本波次已填写全部中文标题，并生成分类中文目录与元数据页。
-英文结构质检（PR #113）已通过。非 premarket 类别中文全文已按既有英文补齐。`premarket` 已完成 wave1+wave2+wave3+wave4+wave5 共 200 份中文正文（按发布日期由新到旧）；其余已有英文全文的 premarket 仍为元数据页，后续分波继续。
+英文结构质检（PR #113）已通过。非 premarket 类别中文全文已按既有英文补齐。`premarket` 已完成 wave1–wave6 共 240 份中文正文（按发布日期由新到旧）；其余已有英文全文的 premarket 仍为元数据页，后续分波继续。
 
 各类别内按发布日期由新到旧排列。标注〔全文〕=已有中文全文，〔仅元数据〕=本波次元数据页（英文全文见对应 EN 页）。
 
@@ -55,7 +55,7 @@ doc_count: 434
 
 ## 上市前（510(k) / PMA / De Novo / IDE） {#premarket}
 
-290 份文件，其中中文全文 200 份，其余为元数据页。
+290 份文件，其中中文全文 240 份，其余为元数据页。
 
 - [牙科护理灯 - 上市前通知 (510(k)) 提交：行业与食品药品管理局工作人员指南](./guidance/dental-curing-lights-premarket-notification-510k-submissions) (2026-09-02) 〔全文〕
 - [牙科复合树脂设备 - 上市前通知 (510(k)) 提交：行业与食品药品管理局工作人员指南](./guidance/dental-composite-resin-devices-premarket-notification-510k-submissions) (2026-09-02) 〔全文〕
@@ -257,47 +257,47 @@ doc_count: 434
 - [季节性囊和囊:上市前通知提交的信息 (510k)：行业与FDA工作人员指南](./guidance/menstrual-tampons-and-pads-information-premarket-notification-submissions-510ks-guidance-industry) (2005-07-26) 〔全文〕
 - [整形器械应用的临床数据介绍：行业与FDA工作人员指南](./guidance/clinical-data-presentations-orthopedic-device-applications-guidance-industry-and-fda-staff) (2004-12-01) 〔全文〕
 - [临床试验考虑:脊椎增长器件用于治疗脊椎不够骨折：行业与FDA工作人员指南](./guidance/clinical-trial-considerations-vertebral-augmentation-devices-treat-spinal-insufficiency-fractures) (2004-10-23) 〔全文〕
-- [类II特殊控制指南文件:用于检测β-glucan的血清检测 (PDF版本)](./guidance/class-ii-special-controls-guidance-document-serological-assays-detection-beta-glucan-pdf-version) (2004-09-23) 〔仅元数据〕
-- [2002年医疗器械用户费和现代化法,一次性使用重工医疗器械的上市前通知提交中的验证数据 (510(k)：行业与FDA工作人员指南](./guidance/medical-device-user-fee-and-modernization-act-2002-validation-data-premarket-notification) (2004-06-02) 〔仅元数据〕
-- [类 II 特殊控制指南:免疫磁流通癌细胞选择和编号系统 (PDF版本)](./guidance/class-ii-special-controls-guidance-document-immunomagnetic-circulating-cancer-cell-selection-and) (2004-05-11) 〔仅元数据〕
-- [工业和FDA工作人员:脊髓系统510](./guidance/guidance-industry-and-fda-staff-spinal-system-510ks) (2004-05-02) 〔仅元数据〕
-- [医疗面具 - 上市前通知 [510(k) ] 提交：行业与FDA工作人员指南](./guidance/surgical-masks-premarket-notification-510k-submissions) (2004-03-04) 〔仅元数据〕
-- [产业和FDA工作人员的指导:声折媒体化设备 - 上市前通知 [510(k) ] 提交](./guidance/guidance-industry-and-fda-staff-vocal-fold-medialization-devices-premarket-notification-510k) (2004-02-12) 〔仅元数据〕
-- [预销售通知 [510(k) 化学指标的申请：行业与FDA工作人员指南](./guidance/premarket-notification-510k-submissions-chemical-indicators-guidance-industry-and-fda-staff) (2003-12-18) 〔仅元数据〕
-- [对于某些上市前应用程序的信息：行业与FDA工作人员指南](./guidance/quality-system-information-certain-premarket-application-reviews) (2003-02-03) 〔仅元数据〕
-- [确定510(k设备的预期使用 - CDRH人员的指导 (更新至K98-1)](./guidance/determination-intended-use-510k-devices-guidance-cdrh-staff-update-k98-1) (2002-12-02) 〔仅元数据〕
-- [腹和/或骨盆手术使用可吸收的粘合屏障设备的指南：行业指南](./guidance/guidance-resorbable-adhesion-barrier-devices-use-abdominal-andor-pelvic-surgery-guidance-industry) (2002-06-17) 〔仅元数据〕
-- [关于第三方和医院处理器重工和重复使用一次性设备的常见问题: 工业和FDA工作人员的最终指导](./guidance/frequently-asked-questions-about-reprocessing-and-reuse-single-use-devices-third-party-and-hospital) (2001-07-06) 〔仅元数据〕
-- [临床调查期间的变化或修改;对工业和CDRH人员的最终指导](./guidance/changes-or-modifications-during-conduct-clinical-investigation-final-guidance-industry-and-cdrh) (2001-05-28) 〔仅元数据〕
-- [根据FDA现代化法案 (FDAMA) 的早期合作会议; 工业和CDRH工作人员的最终指导](./guidance/early-collaboration-meetings-under-fda-modernization-act-fdama-final-guidance-industry-and-cdrh) (2001-02-27) 〔仅元数据〕
-- [检查装置豁免方案的内容,用于热流出,运输和移植器官的存储：行业与FDA审评人员指南](./guidance/content-investigational-device-exemptions-solutions-hypothermic-flushing-transport-and-storage) (2001-01-15) 〔仅元数据〕
-- [杜拉替代设备的指南：行业指南](./guidance/guidance-document-dura-substitute-devices-guidance-industry) (2000-11-08) 〔仅元数据〕
-- [关于向光子发射疗源提交预销售通知的指南：行业指南](./guidance/guidance-submission-premarket-notifications-photon-emitting-brachytherapy-sources-guidance-industry) (2000-08-01) 〔仅元数据〕
-- [超额代购 (OTC) 人类胆淋病 (hCG) 准则 510(k)：行业与FDA审评人员/工作人员指南](./guidance/guidance-over-counter-otc-human-chorionic-gonadotropin-hcg-510ks-guidance-industry-and-fda) (2000-07-21) 〔仅元数据〕
-- [东正化器械硬气透透镜的前销售指南：行业指南](./guidance/guidance-premarket-submissions-orthokeratology-rigid-gas-permeable-contact-lenses-guidance-industry) (2000-04-09) 〔仅元数据〕
-- [寻求销售许可的制造商的指南 耳鼻喉内膜作为保护障碍：行业指南](./guidance/guidance-manufacturers-seeking-marketing-clearance-ear-nose-and-throat-endoscope-sheaths-used) (2000-03-11) 〔仅元数据〕
-- [关于氧化物输送设备,氧化物分析仪和二氧化物分析仪以及FDA审查人员的上市前通知提交指南：行业指南](./guidance/guidance-document-premarket-notification-submissions-nitric-oxide-delivery-apparatus-nitric-oxide) (2000-01-24) 〔仅元数据〕
-- [部硬化植入物和FDA人员的上市前通知内容指南：行业指南](./guidance/guidance-content-premarket-notifications-penile-rigidity-implants-guidance-industry-and-fda-staff) (2000-01-15) 〔仅元数据〕
-- [编制脊髓系统和/或FDA人员的IDE指南：行业指南](./guidance/guidance-document-preparation-ides-spinal-systems-guidance-industry-andor-fda-staff) (2000-01-12) 〔仅元数据〕
-- [预销售通知的内容和形式 [510(k) ] 液化消毒剂/高水平消毒剂的申请：行业与FDA审评人员指南](./guidance/content-and-format-premarket-notification-510k-submissions-liquid-chemical-sterilantshigh-level) (2000-01-02) 〔仅元数据〕
+- [类II特殊控制指南文件:用于检测β-glucan的血清检测 (PDF版本)](./guidance/class-ii-special-controls-guidance-document-serological-assays-detection-beta-glucan-pdf-version) (2004-09-23) 〔全文〕
+- [2002年医疗器械用户费和现代化法,一次性使用重工医疗器械的上市前通知提交中的验证数据 (510(k)：行业与FDA工作人员指南](./guidance/medical-device-user-fee-and-modernization-act-2002-validation-data-premarket-notification) (2004-06-02) 〔全文〕
+- [类 II 特殊控制指南:免疫磁流通癌细胞选择和编号系统 (PDF版本)](./guidance/class-ii-special-controls-guidance-document-immunomagnetic-circulating-cancer-cell-selection-and) (2004-05-11) 〔全文〕
+- [工业和FDA工作人员:脊髓系统510](./guidance/guidance-industry-and-fda-staff-spinal-system-510ks) (2004-05-02) 〔全文〕
+- [医疗面具 - 上市前通知 [510(k) ] 提交：行业与FDA工作人员指南](./guidance/surgical-masks-premarket-notification-510k-submissions) (2004-03-04) 〔全文〕
+- [产业和FDA工作人员的指导:声折媒体化设备 - 上市前通知 [510(k) ] 提交](./guidance/guidance-industry-and-fda-staff-vocal-fold-medialization-devices-premarket-notification-510k) (2004-02-12) 〔全文〕
+- [预销售通知 [510(k) 化学指标的申请：行业与FDA工作人员指南](./guidance/premarket-notification-510k-submissions-chemical-indicators-guidance-industry-and-fda-staff) (2003-12-18) 〔全文〕
+- [对于某些上市前应用程序的信息：行业与FDA工作人员指南](./guidance/quality-system-information-certain-premarket-application-reviews) (2003-02-03) 〔全文〕
+- [确定510(k设备的预期使用 - CDRH人员的指导 (更新至K98-1)](./guidance/determination-intended-use-510k-devices-guidance-cdrh-staff-update-k98-1) (2002-12-02) 〔全文〕
+- [腹和/或骨盆手术使用可吸收的粘合屏障设备的指南：行业指南](./guidance/guidance-resorbable-adhesion-barrier-devices-use-abdominal-andor-pelvic-surgery-guidance-industry) (2002-06-17) 〔全文〕
+- [关于第三方和医院处理器重工和重复使用一次性设备的常见问题: 工业和FDA工作人员的最终指导](./guidance/frequently-asked-questions-about-reprocessing-and-reuse-single-use-devices-third-party-and-hospital) (2001-07-06) 〔全文〕
+- [临床调查期间的变化或修改;对工业和CDRH人员的最终指导](./guidance/changes-or-modifications-during-conduct-clinical-investigation-final-guidance-industry-and-cdrh) (2001-05-28) 〔全文〕
+- [根据FDA现代化法案 (FDAMA) 的早期合作会议; 工业和CDRH工作人员的最终指导](./guidance/early-collaboration-meetings-under-fda-modernization-act-fdama-final-guidance-industry-and-cdrh) (2001-02-27) 〔全文〕
+- [检查装置豁免方案的内容,用于热流出,运输和移植器官的存储：行业与FDA审评人员指南](./guidance/content-investigational-device-exemptions-solutions-hypothermic-flushing-transport-and-storage) (2001-01-15) 〔全文〕
+- [杜拉替代设备的指南：行业指南](./guidance/guidance-document-dura-substitute-devices-guidance-industry) (2000-11-08) 〔全文〕
+- [关于向光子发射疗源提交预销售通知的指南：行业指南](./guidance/guidance-submission-premarket-notifications-photon-emitting-brachytherapy-sources-guidance-industry) (2000-08-01) 〔全文〕
+- [超额代购 (OTC) 人类胆淋病 (hCG) 准则 510(k)：行业与FDA审评人员/工作人员指南](./guidance/guidance-over-counter-otc-human-chorionic-gonadotropin-hcg-510ks-guidance-industry-and-fda) (2000-07-21) 〔全文〕
+- [东正化器械硬气透透镜的前销售指南：行业指南](./guidance/guidance-premarket-submissions-orthokeratology-rigid-gas-permeable-contact-lenses-guidance-industry) (2000-04-09) 〔全文〕
+- [寻求销售许可的制造商的指南 耳鼻喉内膜作为保护障碍：行业指南](./guidance/guidance-manufacturers-seeking-marketing-clearance-ear-nose-and-throat-endoscope-sheaths-used) (2000-03-11) 〔全文〕
+- [关于氧化物输送设备,氧化物分析仪和二氧化物分析仪以及FDA审查人员的上市前通知提交指南：行业指南](./guidance/guidance-document-premarket-notification-submissions-nitric-oxide-delivery-apparatus-nitric-oxide) (2000-01-24) 〔全文〕
+- [部硬化植入物和FDA人员的上市前通知内容指南：行业指南](./guidance/guidance-content-premarket-notifications-penile-rigidity-implants-guidance-industry-and-fda-staff) (2000-01-15) 〔全文〕
+- [编制脊髓系统和/或FDA人员的IDE指南：行业指南](./guidance/guidance-document-preparation-ides-spinal-systems-guidance-industry-andor-fda-staff) (2000-01-12) 〔全文〕
+- [预销售通知的内容和形式 [510(k) ] 液化消毒剂/高水平消毒剂的申请：行业与FDA审评人员指南](./guidance/content-and-format-premarket-notification-510k-submissions-liquid-chemical-sterilantshigh-level) (2000-01-02) 〔全文〕
 - [关于心血管静脉过器的指南 510 ((k) 提交：行业与FDA工作人员指南](./guidance/guidance-cardiovascular-intravascular-filter-510k-submissions-guidance-industry-and-fda-staff) (1999-11-25) 〔仅元数据〕
-- [动力肌肉刺激器510(k) 指南,FDA审查员/员工和合规性：行业指南](./guidance/guidance-document-powered-muscle-stimulator-510ks-guidance-industry-fda-reviewersstaff-and) (1999-06-08) 〔仅元数据〕
-- [免疫毒性检测指南](./guidance/immunotoxicity-testing-guidance) (1999-05-05) 〔仅元数据〕
-- [准备可用医疗器械的通知,并招募研究人员：行业与FDA工作人员指南](./guidance/preparing-notices-availability-investigational-medical-devices-and-recruiting-study-subjects) (1999-03-19) 〔仅元数据〕
-- [关于510 ((k) 基洛假肢和FDA审查员/工作人员的提交：行业指南](./guidance/guidance-510k-submissions-keratoprostheses-guidance-industry-and-fda-reviewersstaff) (1999-03-02) 〔仅元数据〕
-- [准备上市前通知申请的指南,用于外科网和/或FDA审查员工/人员和/或合规性：行业指南](./guidance/guidance-preparation-premarket-notification-application-surgical-mesh-guidance-industry-andor-fda) (1999-03-01) 〔仅元数据〕
-- [皮肤磨损设备的指南：行业指南](./guidance/guidance-dermabrasion-devices-guidance-industry) (1999-03-01) 〔仅元数据〕
-- [上市前通知 [510(k) ] 提交以天然产品中的化学品感觉化皮肤测试的申请：行业与FDA审评人员/工作人员指南](./guidance/premarket-notification-510k-submissions-testing-skin-sensitization-chemicals-natural-rubber-products) (1999-01-12) 〔仅元数据〕
-- [关于发射计算机镜设备和配件 (SPECT和 PET) 和核镜系统的上市前通知提交指南：行业指南](./guidance/guidance-submission-premarket-notifications-emission-computed-tomography-devices-and-accessories) (1998-12-02) 〔仅元数据〕
-- [关于放射核糖剂量校准器的上市前通知提交指南：行业指南](./guidance/guidance-submission-premarket-notifications-radionuclide-dose-calibrators-guidance-industry) (1998-11-19) 〔仅元数据〕
-- [无自动化气计 (血压袖手套) 指南 - 第1版本：行业指南](./guidance/non-automated-sphygmomanometer-blood-pressure-cuff-guidance-version-1-guidance-industry) (1998-11-18) 〔仅元数据〕
-- [水 - 510(k) 提交和FDA审查员/员工：行业指南](./guidance/aqueous-shunts-510k-submissions-guidance-industry-and-fda-reviewersstaff) (1998-11-15) 〔仅元数据〕
-- [诊断电脑系统指导 (包括非报警性ST段测量)：行业指南](./guidance/diagnostic-ecg-guidance-including-non-alarming-st-segment-measurement-guidance-industry) (1998-11-04) 〔仅元数据〕
-- [心脏监测器指导 (包括心脏计和心率警报仪)：行业指南](./guidance/cardiac-monitor-guidance-including-cardiotachometer-and-rate-alarm-guidance-industry) (1998-11-04) 〔仅元数据〕
-- [总/具体的目的用途：行业指南](./guidance/generalspecific-intended-use-guidance-industry) (1998-11-03) 〔仅元数据〕
-- [听力器标签中的噪音要求：行业指南](./guidance/noise-claims-hearing-aid-labeling-guidance-industry) (1998-10-20) 〔仅元数据〕
-- [无处方日镜的指南文件：行业指南](./guidance/guidance-document-nonprescription-sunglasses-guidance-industry) (1998-10-08) 〔仅元数据〕
-- [动力吸气 510 ((k) 项的指南：行业与FDA审评人员/工作人员指南](./guidance/guidance-document-powered-suction-pump-510ks-guidance-industry-and-fda-reviewersstaff) (1998-09-29) 〔仅元数据〕
+- [动力肌肉刺激器510(k) 指南,FDA审查员/员工和合规性：行业指南](./guidance/guidance-document-powered-muscle-stimulator-510ks-guidance-industry-fda-reviewersstaff-and) (1999-06-08) 〔全文〕
+- [免疫毒性检测指南](./guidance/immunotoxicity-testing-guidance) (1999-05-05) 〔全文〕
+- [准备可用医疗器械的通知,并招募研究人员：行业与FDA工作人员指南](./guidance/preparing-notices-availability-investigational-medical-devices-and-recruiting-study-subjects) (1999-03-19) 〔全文〕
+- [关于510 ((k) 基洛假肢和FDA审查员/工作人员的提交：行业指南](./guidance/guidance-510k-submissions-keratoprostheses-guidance-industry-and-fda-reviewersstaff) (1999-03-02) 〔全文〕
+- [准备上市前通知申请的指南,用于外科网和/或FDA审查员工/人员和/或合规性：行业指南](./guidance/guidance-preparation-premarket-notification-application-surgical-mesh-guidance-industry-andor-fda) (1999-03-01) 〔全文〕
+- [皮肤磨损设备的指南：行业指南](./guidance/guidance-dermabrasion-devices-guidance-industry) (1999-03-01) 〔全文〕
+- [上市前通知 [510(k) ] 提交以天然产品中的化学品感觉化皮肤测试的申请：行业与FDA审评人员/工作人员指南](./guidance/premarket-notification-510k-submissions-testing-skin-sensitization-chemicals-natural-rubber-products) (1999-01-12) 〔全文〕
+- [关于发射计算机镜设备和配件 (SPECT和 PET) 和核镜系统的上市前通知提交指南：行业指南](./guidance/guidance-submission-premarket-notifications-emission-computed-tomography-devices-and-accessories) (1998-12-02) 〔全文〕
+- [关于放射核糖剂量校准器的上市前通知提交指南：行业指南](./guidance/guidance-submission-premarket-notifications-radionuclide-dose-calibrators-guidance-industry) (1998-11-19) 〔全文〕
+- [无自动化气计 (血压袖手套) 指南 - 第1版本：行业指南](./guidance/non-automated-sphygmomanometer-blood-pressure-cuff-guidance-version-1-guidance-industry) (1998-11-18) 〔全文〕
+- [水 - 510(k) 提交和FDA审查员/员工：行业指南](./guidance/aqueous-shunts-510k-submissions-guidance-industry-and-fda-reviewersstaff) (1998-11-15) 〔全文〕
+- [诊断电脑系统指导 (包括非报警性ST段测量)：行业指南](./guidance/diagnostic-ecg-guidance-including-non-alarming-st-segment-measurement-guidance-industry) (1998-11-04) 〔全文〕
+- [心脏监测器指导 (包括心脏计和心率警报仪)：行业指南](./guidance/cardiac-monitor-guidance-including-cardiotachometer-and-rate-alarm-guidance-industry) (1998-11-04) 〔全文〕
+- [总/具体的目的用途：行业指南](./guidance/generalspecific-intended-use-guidance-industry) (1998-11-03) 〔全文〕
+- [听力器标签中的噪音要求：行业指南](./guidance/noise-claims-hearing-aid-labeling-guidance-industry) (1998-10-20) 〔全文〕
+- [无处方日镜的指南文件：行业指南](./guidance/guidance-document-nonprescription-sunglasses-guidance-industry) (1998-10-08) 〔全文〕
+- [动力吸气 510 ((k) 项的指南：行业与FDA审评人员/工作人员指南](./guidance/guidance-document-powered-suction-pump-510ks-guidance-industry-and-fda-reviewersstaff) (1998-09-29) 〔全文〕
 - [其他产品:外卖牙枕,,,维修套件,部分制造牙套件：行业与FDA工作人员指南](./guidance/otc-denture-cushions-pads-reliners-repair-kits-and-partially-fabricated-denture-kits-guidance) (1998-08-17) 〔仅元数据〕
 - [修订了对延长穿戴的固体气体透透式接触镜类III类上市前许可申请的添加镜头制成实验室的程序：行业与FDA工作人员指南](./guidance/revised-procedures-adding-lens-finishing-laboratories-approved-premarket-approval-applications-class) (1998-08-10) 〔仅元数据〕
 - [男人乳安全套 - 510 信息 (k) 上市前通知:使用共识标准来简短提交：行业指南](./guidance/latex-condoms-men-information-510k-premarket-notifications-use-consensus-standards-abbreviated) (1998-07-23) 〔仅元数据〕
