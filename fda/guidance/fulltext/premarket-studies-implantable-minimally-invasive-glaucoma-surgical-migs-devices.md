@@ -680,11 +680,11 @@ equal to 50% of points depressed below 1% level;
 or 
 (b) 
 At least 50% of points (i.e., 2 or more) within 
-central 5 degrees with sensitivity of < 0dB on the 
+central 5 degrees with sensitivity of &lt; 0dB on the 
 dB plot; or 
 (c) 
 Points within the central 5 degrees of fixation with 
-sensitivity < 15dB in both hemifields on the dB 
+sensitivity &lt; 15dB in both hemifields on the dB 
 plot. 
 (3) 
 With fixation-threatening glaucoma in either eye noted at 

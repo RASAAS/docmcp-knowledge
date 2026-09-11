@@ -501,7 +501,7 @@ flow chart for clarification.
 Safety Interlock Requirements 
  
  
-<Graphics here>
+&lt;Graphics here>
 
 ---
 

@@ -545,7 +545,7 @@ the manufacturing facility or by private laboratories in the country of origin m
 2 Firms who believe their medical gloves have been inappropriately placed on Level 1 Detention should contact 
 DIOP to attempt to rebut this placement.  
 3 Type 1 sampling error is the probability that a sampling plan for attributes will reject a lot when true percent 
-defective is equal to or less than (<) the Acceptable Quality Level (AQL), where the AQL is equal (=) to the percent 
+defective is equal to or less than (&lt;) the Acceptable Quality Level (AQL), where the AQL is equal (=) to the percent 
 defective that a sampling plan for attributes will accept with probability equal (=) to 0.95. 
 4 Removal of medical gloves from Level 3, Attachment B, which results in the gloves being returned to listing on 
 Attachment A, is addressed above at pages 8-9. 

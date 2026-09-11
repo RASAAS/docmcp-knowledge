@@ -403,7 +403,7 @@ Inclusion criteria
 a. 
 patients diagnosed as suitable candidates for a hysterectomy
 b. 
-uterine sound measurement < 8 cm
+uterine sound measurement &lt; 8 cm
 c. 
 other device specific criteria
 Note:  If the safety and effectiveness study will include women who have had
@@ -531,7 +531,7 @@ study entrance requirements for excessive uterine bleeding.  (Note:
 the study sponsor is responsible for determining and justifying what
 constitutes excessive uterine bleeding).
 b. 
-uterine sound measurements < 12 cm
+uterine sound measurements &lt; 12 cm
 c. 
 other device-specific criteria
 2. 
@@ -664,7 +664,7 @@ patients from the study, so as to produce a “cleaner” study.  It is
 not intended to reflect the ultimate use of the device once it has
 been cleared by FDA.
 c. 
-uterine sound measurements < 12 cm
+uterine sound measurements &lt; 12 cm
 d. 
 other device specific criteria
 2. 

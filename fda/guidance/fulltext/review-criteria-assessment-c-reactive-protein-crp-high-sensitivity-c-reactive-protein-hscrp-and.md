@@ -364,9 +364,9 @@ assay measuring
 range 
 ≥ 5mg/L to upper 
 range of the assay 
-< 1.0 mg/L to ≤ 10.0 
+&lt; 1.0 mg/L to ≤ 10.0 
 mg/L 
-< 1.0 mg/L to ≤ 10.0 
+&lt; 1.0 mg/L to ≤ 10.0 
 mg/L 
 Analytical 
 Describe 
@@ -855,7 +855,7 @@ Method Comparison
 You should present the method comparison results evenly distributed across the assay 
 range appropriate for the intended use of your assay.  For example, in cardiovascular 
 and peripheral vascular disease risk assessment, the clinically relevant range is from 
-values of < 1.0 mg/L to 5.0 mg/L, but not more than 10 mg/L.  You should 
+values of &lt; 1.0 mg/L to 5.0 mg/L, but not more than 10 mg/L.  You should 
 summarize the study design and results of your analyses, including the slope and 
 intercept, with 95% confidence intervals, standard error, and coefficient of 
 determination. We recommend that you display the data in a scatter plot.   

@@ -1406,8 +1406,8 @@ recommended for device-related chemical residual evaluation.  For the L&E study,
 we recommend that you consider ISO 10993-18 Biological evaluation of medical 
 devices — Part 18: Chemical characterization of materials, 2005.   
  
-• For device-related particulate evaluation, you should follow current USP <788> 
-Particulate Matter in Injections.  FDA considers USP <788> to be limited to 
+• For device-related particulate evaluation, you should follow current USP &lt;788> 
+Particulate Matter in Injections.  FDA considers USP &lt;788> to be limited to 
 evaluation of micron particles.    
                                                           
 12 FDA has issued draft guidance on use of ISO 10993 in testing medical devices for biocompatibility, Use of 

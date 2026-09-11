@@ -859,7 +859,7 @@ sterilization validation. Pyrogenicity can be assessed using the recommendations
 the FDA guidance documents Submission and Review of Sterility Information in Premarket 
 Notification (510(k)) Submissions for Devices Labeled as Sterile45 and Pyrogen and 
 Endotoxins Testing: Questions and Answers,46 and the methods described in the FDA-
-recognized versions of ANSI/AAMI ST7247 and United States Pharmacopeia (USP) <161>.48
+recognized versions of ANSI/AAMI ST7247 and United States Pharmacopeia (USP) &lt;161>.48
 Package integrity and shelf-life for this change can be evaluated through accelerated aging 
 using American Society for Testing and Materials (ASTM) F198049 and package integrity 
 testing for visual integrity, seal integrity, and seal strength using the methods identified in 
@@ -877,7 +877,7 @@ information-premarket-notification-510k-submissions-devices-labeled.
 46 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/pyrogen-and-endotoxins-testing-
 questions-and-answers. 
 47 ANSI/AAMI ST72 Bacterial endotoxins - Test methods, routine monitoring, and alternatives to batch testing. 
-48 USP <161> Medical Devices - Bacterial Endotoxin and Pyrogen Tests. 
+48 USP &lt;161> Medical Devices - Bacterial Endotoxin and Pyrogen Tests. 
 49 ASTM F1980 Standard guide for accelerated aging of sterile barrier systems for medical devices. 
 50 ASTM F1886/F1886M Standard test method for determining integrity of seals for flexible packaging by visual 
 inspection. 
@@ -1694,7 +1694,7 @@ for this device type/duration of contact.
 For externally 
 communicating devices 
 in contact with tissue or 
-bone for < 24 hours, 
+bone for &lt; 24 hours, 
 Table A.1 indicates that 
 implantation and 
 thrombogenicity 

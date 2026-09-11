@@ -679,8 +679,8 @@ Overcorrected
 >+2
 Etc.
 Undercorrected
-<-1
-<-2
+&lt;-1
+&lt;-2
 Etc.
 Not reported
 Total
@@ -1229,7 +1229,7 @@ UNDER FULL
 20/40 or better
 REDUCTION
 REDUCTION
-<1.00 D
+&lt;1.00 D
 %
 %
 %
@@ -1617,7 +1617,7 @@ UNDER FULL
 20/40 or better
 REDUCTION
 REDUCTION
-<1.00 D
+&lt;1.00 D
 %
 %
 %
@@ -2423,7 +2423,7 @@ UNDER FULL
 20/40 or better
 REDUCTION
 REDUCTION
-<1.00 D
+&lt;1.00 D
 %
 %
 %

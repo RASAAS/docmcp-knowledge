@@ -103,7 +103,7 @@ the same properties and characteristics that it possessed at the
 time of manufacture." 
 There is no one exhaustive set of criteria 
 that would apply equally to all medical devices. The USP has a 
-section <1191> entitled "Stability Considerations in Dispensing 
+section &lt;1191> entitled "Stability Considerations in Dispensing 
 Practicen that supplies general information on this topic. It 
 includes a list of five sets of criteria for acceptable levels of 
 stability for drug products as follows on the next page:

@@ -1166,7 +1166,7 @@ c o n d i t i o n s equal t o and
 beyond t h e 1 / 2 c y c l e (
 e
 ,
- no "s:<ips") and corresponding growth 
+ no "s:&lt;ips") and corresponding growth 
 under c o n d i t i o n s l e s s than r h e 1/2 cyzle. 
 A s always, a p p r o p r i a t e 
 c o n t r o l s should be run c o n c - ~ r r e a t l y . Skips o r o t h e r f a i l u r e s 

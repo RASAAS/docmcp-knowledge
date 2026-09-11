@@ -912,7 +912,7 @@ Yes
 compliance meter. Record MAX, MIN. & MEAN. 
 No 
 , 
-< 
+&lt; 
 Has LCR been calibrated 
 in last 12 months? 
 of own highest reading since 

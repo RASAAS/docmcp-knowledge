@@ -158,7 +158,7 @@ is ethylene oxide (EtO) exposure, the maximum levels of ethylene oxide, ethylene
 and ethylene glycol residues which remain on the device should be identified.  Residual levels of
 ethylene oxide, ethylene chlorhydrin, and ethylene glycol which remain on the device following
 EtO sterilization should comply with the maximum limits proposed in the Federal Register of
-June 23, 1978 for small (<10 grams), medium (10-100 grams) or large (>100 grams) implantable
+June 23, 1978 for small (&lt;10 grams), medium (10-100 grams) or large (>100 grams) implantable
 medical devices (see below).
 [Parts per million]
 Implant Size

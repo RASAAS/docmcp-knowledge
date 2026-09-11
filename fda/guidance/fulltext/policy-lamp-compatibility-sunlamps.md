@@ -34,7 +34,7 @@ wlll be considered as marketing a falsely certified product.
 The Center for Devices and Radiological Health (CDRH) has been asked what 
 criteria will be used to evaluate lamp compatibility. 
 POLICY : 
-< 
+&lt; 
 A replacement lamp will be considered compatible with (or equivalent to) 
 another (original) lamp if: 
 1) The replacement lamp will not cause any sunlamp product intended to use 

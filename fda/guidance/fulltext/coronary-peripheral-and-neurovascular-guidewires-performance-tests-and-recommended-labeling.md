@@ -257,7 +257,7 @@ biocompatibility assessments that should be considered and recommendations regar
 to conduct related tests. 
 Per ISO 10993-1: Biological evaluation of medical devices – Part 1: Evaluation and testing 
 within a risk management process and Attachment A of FDA’s guidance on ISO-10993-1, 
-guidewires are externally communicating devices with limited (<24 hour) duration direct 
+guidewires are externally communicating devices with limited (&lt;24 hour) duration direct 
 contact with the circulating blood. Therefore, the following endpoints should be addressed in 
 your biocompatibility evaluation: 
 · cytotoxicity; 

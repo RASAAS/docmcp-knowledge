@@ -159,20 +159,20 @@ bore).
 3 
 Bore diameter at the top and bottom of the taper.
 4 
-Bore straightness (< 3 microns).
+Bore straightness (&lt; 3 microns).
 5 
 Bore surface roughness (no requirements).
 6 
-Articulating surface roughness (Ra < 0.2 microns).
+Articulating surface roughness (Ra &lt; 0.2 microns).
 7 
-Sphericity (< 5 microns).
+Sphericity (&lt; 5 microns).
 8 
 Diameter (no requirements).
 9 
 Defects (no defects on any part of the surface of any ball > 0.5 microns).
 The following must be provided for alumina balls:
 1 
-Grain size (< 5 microns).
+Grain size (&lt; 5 microns).
 2 
 Purity (> 99.7% aluminum oxide).
 
@@ -241,7 +241,7 @@ Balls shall be cycled axially between constant minimum and maximum compressive l
 a stem cone (trunnion) out to 107 cycles following ISO 7206-5.  The load shall be applied to
 the ball through a copper ring or an equivalent method of loading (e.g., an appropriate copper
 ring to load a 32 mm ball would have a 1" O.D., 0.800" width and 0.055" thickness).  The
-minimum load shall be < 10% of the maximum load.  At least 3 balls shall be cycled to a
+minimum load shall be &lt; 10% of the maximum load.  At least 3 balls shall be cycled to a
 maximum load of at 14 kN.  All balls which do not fail shall be inspected for cracks and then
 fractured in static compressive loading.  There shall be no cracks or ball fracture after 107
 cycles and no post-fatigue static compression failures below 20 kN.  Unless data is available

@@ -566,7 +566,7 @@ Contains Nonbinding Recommendations
 has a re-test zone. 
 If your assay with numeric values produces an equivocal result and/or has a 
 re-test zone, then the assay has two cutoffs, E1 and E2: 
-If S/CO < E1 then the assay result is Negative 
+If S/CO &lt; E1 then the assay result is Negative 
 If E1 ≤ S/CO ≤ E2 then the assay result is equivocal or in the re-test zone 
 If S/CO > E2 then the assay result is Positive 
 As an example, the numeric values of the assay with equivocal results defined 
@@ -674,7 +674,7 @@ assay has two cutoffs, E1 and E2. For the purpose of defining acceptable
 concentration ranges of negative and positive panel members, consider the 
 lower bound of the equivocal or re-test zone as E1 and the upper bound as E2 
 noted below: 
-If S/CO < E1 then the assay result is Negative 
+If S/CO &lt; E1 then the assay result is Negative 
 If E1 ≤ S/CO ≤ E2 then the assay result is equivocal, or in the re-test zone. 
 If S/CO > E2 then the assay result is Positive 
 14
@@ -1357,7 +1357,7 @@ Similarly, an amount of analyte in a sample for which the probability of falsely
 absence is β (type II error) given a probability α (type I error) of falsely claiming its presence 
 (CLSI EP17-A; [HTD])  
 Limit of quantitation (LoQ): the lowest amount of analyte in a sample that can be  
-quantitatively determined with {stated} acceptable precision and {stated, acceptable}  
+quantitatively determined with &#123;stated&#125; acceptable precision and &#123;stated, acceptable&#125;  
 accuracy, under stated experimental conditions (CLSI EP17-A; [HTD]).  
 Linearity: ability (within a given range) to provide results that are directly proportional to  
 the concentration (amount) of the analyte in the test sample [HTD].  
@@ -1523,8 +1523,8 @@ may be in-house.
 2. Comparison Panels 
 a. Positive Panel Members 
 A positive comparison panel should consist of approximately 100 positive samples, to 
-include 60-80 specimens with signals <3X the cutoff for an immunoassay or analyte 
-concentrations <3X the 95% LoD for a NAT.  Authentic clinical specimens are preferred: 
+include 60-80 specimens with signals &lt;3X the cutoff for an immunoassay or analyte 
+concentrations &lt;3X the 95% LoD for a NAT.  Authentic clinical specimens are preferred: 
 however, specimens may be diluted to the recommended range in negative matrices 
 (individual, not pooled) if clinical specimens are not available.  The panel should be 
 tested on the new system at three sites, one of which can be in-house.  This panel should 
@@ -1566,8 +1566,8 @@ hyperlipidemia might influence pipetting or washing steps and should be included
 migration studies. Conversely, it would seem unlikely that cross-reactivity of, for instance, 
 an HIV NAT assay with HTLV would likely be influenced by migration to a new system. 
 Each interfering substance/condition may be tested in-house using a panel of approximately 
-10 Low Positives with signals <3X the cutoff for an immunoassay or analyte concentrations 
-<3X the 95% LoD for a NAT. (These studies can be performed by spiking the analyte at the 
+10 Low Positives with signals &lt;3X the cutoff for an immunoassay or analyte concentrations 
+&lt;3X the 95% LoD for a NAT. (These studies can be performed by spiking the analyte at the 
 level described above in negative specimens (for the analyte) with interfering 
 substances/conditions).  
 Each interfering substance/condition may be tested in-house using a panel of approximately 
@@ -1621,11 +1621,11 @@ Old/ σ2
 Old ] which follows an F distribution with 
 degrees of freedom df=ν1 (numerator) and df=ν2 (denominator): F(ν1, ν2).13 For a level of 
 confidence α, let F(1-α/2, ν1, ν2) and F(α/2, ν1, ν2) be critical values that 
-Prob {F(α/2, ν1, ν2) <[SD2
+Prob &#123;F(α/2, ν1, ν2) &lt;[SD2
 New/ σ2
 New ] / [SD2
 Old/ σ2
-Old ] < F(1-α/2, ν1, ν2)} = 1-α; 
+Old ] &lt; F(1-α/2, ν1, ν2)&#125; = 1-α; 
 13 For more details see Searle S.R., Cassella G. and McCullagh C.E. Variance Components (1992) 
 Wiley&Sons; Hahn G.J., Meeker W.Q. Statistical Intervals. A Guide for Practitioners (1991) Wiley&Sons. 
 37
@@ -1634,20 +1634,20 @@ Wiley&Sons; Hahn G.J., Meeker W.Q. Statistical Intervals. A Guide for Practition
 
 <!-- Page 42 -->
 Contains Nonbinding Recommendations 
-• 	 Prob {(1/F(1-α/2, ν1, ν2)) * (SD2
+• 	 Prob &#123;(1/F(1-α/2, ν1, ν2)) * (SD2
 New / SD2
-Old ) < σ2
+Old ) &lt; σ2
 New / σ2
-Old < (1/F(α/2, ν1, ν2)) * 
+Old &lt; (1/F(α/2, ν1, ν2)) * 
 (SD2
 New / SD2
-Old )} = 1-α; 
+Old )&#125; = 1-α; 
 Therefore, the interval from (1/F(1-α/2, ν1, ν2)) * (SD2
 New / SD2
 Old ) to (1/F(α/2, ν1, ν2)) * 
 (SD2
 New / SD2
-Old }is a two-sided 95% confidence interval for σ2
+Old &#125;is a two-sided 95% confidence interval for σ2
 New / σ2
 Old . To find a 
 confidence interval for the ratio of standard deviations σNew / σOld, take square roots. Note 
@@ -1676,8 +1676,8 @@ the following requirements: CVY / CVX = β where β = the slope (it is assumed t
 have approximately the same random measurement errors).  In an article by Passing, H. and 
 Bablok, W.14, the authors performed simulations to investigate how inequality in the random 
 measurement error of X and Y affects Passing-Bablok regression.  The authors found that if 
-0.67<CVY/CVX <1.5 then Passing-Bablok regression is acceptable.  If 1.5<CVY/CVX <2.5 
-(or 0.4<CVY/CVX<0.67) and precision of X is less than 7% then Passing-Bablok regression 
+0.67&lt;CVY/CVX &lt;1.5 then Passing-Bablok regression is acceptable.  If 1.5&lt;CVY/CVX &lt;2.5 
+(or 0.4&lt;CVY/CVX&lt;0.67) and precision of X is less than 7% then Passing-Bablok regression 
 is acceptable. 
 When applying regression analysis of study data for all sites combined, note that only one 
 measurement per sample is reported from the old system (X data), while an average of three 

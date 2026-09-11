@@ -2080,7 +2080,7 @@ Description and analysis of all task failures, implications for
 additional risk mitigation  
 7 
 Conclusion 
-A statement to the effect that “The <device name/model> has been 
+A statement to the effect that “The &lt;device name/model> has been 
 found to be reasonably safe and effective for the intended users, uses 
 and use environments” should be included under the following 
 conditions: 

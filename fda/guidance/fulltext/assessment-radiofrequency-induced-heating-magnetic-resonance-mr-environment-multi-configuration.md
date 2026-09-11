@@ -407,7 +407,7 @@ In generating samples, it is first necessary to estimate the number of samples
 needed to achieve the required accuracy.  An estimate can be calculated from  
 N = 4 / ε2 
 where N is the estimated number of samples and ε is the uncertainty of the 
-mean RF-induced heating; e.g., <10% (Haldar and Mahadevan, 20009). 
+mean RF-induced heating; e.g., &lt;10% (Haldar and Mahadevan, 20009). 
 d. Solving the deterministic model for all samples. 
 e. Combining the individual model solutions into probabilistic system 
 information.  In the present application, the maximum expected level of RF-
@@ -439,7 +439,7 @@ additional random points can be added until a stopping criterion is converged
 upon.  A recommended stopping criterion could be when the standard 
 deviation of the mean RF-induced heating (taken from bootstrapped datasets 
 of e.g., 20 to 50 sub-samples converges within a pre-defined uncertainty of the 
-mean RF-induced heating (e.g., <10%).  Note that this criterion can be applied 
+mean RF-induced heating (e.g., &lt;10%).  Note that this criterion can be applied 
 to evaluate a completed Latin hypercube analysis; however, a post-hoc 
 addition of sample points will disturb the original scheme and result in a non-
 Latin hypercube sample and hence slower convergence to the stopping 
@@ -493,7 +493,7 @@ the standard deviation of the 25 sub-sample means is calculated (e.g., 0.31°C);
 and  
 5. 
 the standard deviation from the mean of all 25 sub-samples is less than 10% of the 
-mean RF-induced heating of the 400 results (i.e., 0.31°C < 10% of 3.5°C), 
+mean RF-induced heating of the 400 results (i.e., 0.31°C &lt; 10% of 3.5°C), 
 indicating that the stopping rule has been satisfied.   
 The device configurations/combinations that result in the highest heating are identified from all 
 400 models tested.  The highest device heating is calculated as the 99th percentile of the 

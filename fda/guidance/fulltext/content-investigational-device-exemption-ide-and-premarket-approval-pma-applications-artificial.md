@@ -1214,7 +1214,7 @@ cumulative percentage (and numbers) of CGM values presented as various
 differences from the paired blood glucose reference result (e.g., within 10, 20, 
 30, 40 or >40 mg/dL).  FDA recommends that blood glucose reference values 
 be stratified according to glucose concentration (as determined by the blood 
-glucose reference values) in various glucose concentration bins (e.g., <40, 41-
+glucose reference values) in various glucose concentration bins (e.g., &lt;40, 41-
 50, 51-60, 61-70, 71-80, 81-120, 121-180, 180-250, 250-325, and 326-400 
 mg/dL). 
 · Bias across the reportable range of the CGM. Sponsors should calculate bias 
@@ -1692,7 +1692,7 @@ o medications, both prescription or over the counter.
 In general, FDA recommends that initial studies for a novel APDS be performed in 
 subjects age >18 years to ensure adequate ability of patients to respond to device 
 problems.  FDA is very interested in promoting the development of a safe and 
-effective APDS for subjects < 18 years.  Younger subjects should generally be 
+effective APDS for subjects &lt; 18 years.  Younger subjects should generally be 
 enrolled after a sufficient number of adults have been studied, and it has been shown 
 that the APDS system does not present a significant risk, and has the potential to 
 demonstrate a therapeutic benefit; thereby justifying that anticipated benefit exceeds 
@@ -1791,13 +1791,13 @@ evaluating or imputing hypoglycemia or hyperglycemia as part of a study:
 · Number of hypoglycemic and hyperglycemic events (biochemical, clinical, 
 or both) or event rate; where an event is defined a priori by the sponsor. 
 · Time spent (hours/week) in hypoglycemia or low glycemic concentrations 
-(e.g., sensor values <70 mg/dL) and hyperglycemic or high glycemic 
+(e.g., sensor values &lt;70 mg/dL) and hyperglycemic or high glycemic 
 concentration events (e.g. sensor values > 240 mg/dL), including both day 
 and night. 
 · Average duration for all hypoglycemic or low glycemic concentration 
-events (e.g. sensor values <70 mg/dL) and hyperglycemic or high glycemic 
+events (e.g. sensor values &lt;70 mg/dL) and hyperglycemic or high glycemic 
 concentration events (e.g. sensor values > 240 mg/dL), within each group. 
-· Mean area under the curve (AUC) for all hypoglycemic events <70 mg/dL 
+· Mean area under the curve (AUC) for all hypoglycemic events &lt;70 mg/dL 
 and hyperglycemic events > 240 mg/dL. 
 HbA1c - HbA1c estimates the average glycemic exposure of red blood cells over a 
 90-day period.  It is the primary efficacy measure used in the majority of trials 
@@ -1850,7 +1850,7 @@ decreased insulin delivery;
 · Severe hypoglycemia (e.g., seizure or need for third party assistance);  
 · Number of CGM-defined hypoglycemic events; 
 · Mean AUC below 60 or 70 mg/dL as calculated from CGM readings; or 
-· Percentage of CGM readings in the hypoglycemic range (< 60 or 70 
+· Percentage of CGM readings in the hypoglycemic range (&lt; 60 or 70 
 mg/dL). 
 There are various other safety endpoints that could be used depending on the 
 intended use of the device. 
@@ -1859,7 +1859,7 @@ use of the device (whether as primary or secondary), include, but are not limite
 to: 
 · Incidence of catheter blockage within each group. 
 · Capillary blood glucose values above and below the Sponsor defined hypo 
-and hyperglycemia thresholds (e.g. < 70 mg/dL and > 240 mg/dL).  
+and hyperglycemia thresholds (e.g. &lt; 70 mg/dL and > 240 mg/dL).  
 · Fasting whole blood ketone concentrations within each group, evaluating 
 elevated beta-hydroxybutyrate concentrations. 
 · Glycemic variability (such as coefficient of variation and standard of 

@@ -2181,7 +2181,7 @@ implantation
 carcinogenicity.
 Delivery Systems 
 Because delivery catheters are externally communicating products in contact with 
-cardiovascular tissue and circulating blood, with a temporary duration of contact (<24 
+cardiovascular tissue and circulating blood, with a temporary duration of contact (&lt;24 
 hrs), we recommend the following tests be considered:  
 •
 cytotoxicity
@@ -2254,7 +2254,7 @@ Material-mediated Pyrogenicity
 We recommend that you assess pyrogenic responses to chemical leachants over 
 the duration of device contact with the patient.  We recommend that you assess 
 material-mediated pyrogenicity using traditional biocompatibility extraction 
-methods, such as those outlined in the USP 28 <151> Rabbit Pyrogen Test (e.g., 
+methods, such as those outlined in the USP 28 &lt;151> Rabbit Pyrogen Test (e.g., 
 50°C for 72 hours; 70°C for 24 hours; or 120°C for 2 hours) or an equivalent 
 method.  You should consider that temperatures above 37°C may result in 
 toxicities not representative of the final product. 
@@ -2587,7 +2587,7 @@ Results
 You should briefly describe the results of the study, including whether the primary 
 endpoint or endpoints were met, for example: 
 The X stent demonstrated a lower rate of TVF as compared to the control group 
-(X% vs. Y%, P<0.001). 
+(X% vs. Y%, P&lt;0.001). 
 You should refer to the Principal Safety and Effectiveness Table, which is described 
 in the next section of this guidance. 
 J. Principal Safety and Effectiveness Table

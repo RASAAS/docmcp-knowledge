@@ -295,10 +295,10 @@ Contains Nonbinding Recommendations
 5 
 the specific component is not made with natural rubber latex.  For example, if the particular 
 presentation or part of the presentation (e.g., vial stopper or syringe) is not made with natural 
-rubber latex, FDA recommends the statement “The <vial stopper> is not made with 
+rubber latex, FDA recommends the statement “The &lt;vial stopper> is not made with 
 natural rubber latex.”   
  
-These statements “Not made with natural rubber latex” and “The <vial stopper> is not 
+These statements “Not made with natural rubber latex” and “The &lt;vial stopper> is not 
 made with natural rubber latex” communicate that natural rubber latex was not used as a 
 material in the finished product or as a material in a specific component, respectively.  At the 
 same time, the statement does not make the unsupportable claim that the medical product is 
@@ -309,7 +309,7 @@ FDA staff, medical product manufacturers, and medical product users.
  
 Manufacturers who currently include statements such as “latex-free” or “does not contain 
 latex” in medical product labeling should update their medical product labeling to show the 
-recommended labeling statement “Not made with natural rubber latex” or “The <vial 
+recommended labeling statement “Not made with natural rubber latex” or “The &lt;vial 
 stopper> is not made with natural rubber latex” as appropriate.  Alternatively, 
 manufacturers should consider removing “latex-free” type statements from medical products, 
 their containers, and packaging.  Manufacturers may contact the Center that regulates the 

@@ -497,7 +497,7 @@ analyses of the condoms in question and evaluate which level of detention, if an
 2 Firms who believe their condoms have been inappropriately placed on Level 1 Detention should contact DIOP to attempt 
 to rebut this placement. 
 3 Type 1 sampling error is the probability that a sampling plan for attributes will reject a lot when true percent defective is equal 
-to or less than (<) the Acceptable Quality Level (AQL), where the AQL is equal (=) to the percent defective that a sampling plan 
+to or less than (&lt;) the Acceptable Quality Level (AQL), where the AQL is equal (=) to the percent defective that a sampling plan 
 for attributes will accept with probability equal (=) to 0.95. 
  
      

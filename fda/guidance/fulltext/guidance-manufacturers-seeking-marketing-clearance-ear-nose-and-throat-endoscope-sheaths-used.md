@@ -562,7 +562,7 @@ The volume of challenge virus suspension needed to account for the virus penetra
 buffer can be calculated for each sheath by the method presented in the previous section. If some loss of virus
 titer occurs either inside the sheath or inside the submersion vessel, the calculation should include the
 appropriate correction for such loss.  For sheaths that apparently did not allow virus transmission, the detection
-limit of that particular test should be given, e.g., as <1x10-6 mL.
+limit of that particular test should be given, e.g., as &lt;1x10-6 mL.
 Report Forms
 Please report the test results for either the Inside Challenge Method or the ASTM method in the following
 manner:
@@ -631,8 +631,8 @@ buffer
 2  10/28  1.23x108      
 0.81x10-6
  0,0,0
-               <1             
- <0.8x10-6
+               &lt;1             
+ &lt;0.8x10-6
 .
 .
 .               

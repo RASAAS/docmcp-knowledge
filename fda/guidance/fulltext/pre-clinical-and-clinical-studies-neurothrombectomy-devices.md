@@ -431,7 +431,7 @@ use of IV heparin in the past 48 hours with PTT > 2.0
 • 
 use of warfarin anticoagulation with INR > 3.0  
 • 
-platelet count < 30,000. 
+platelet count &lt; 30,000. 
  
 Onset to Treatment with Neurothrombectomy Devices 
 We recommend initiating treatment using the neurothrombectomy device within 8 hours 

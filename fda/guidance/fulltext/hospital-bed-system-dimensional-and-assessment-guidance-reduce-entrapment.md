@@ -1125,17 +1125,17 @@ Recommendations
  
 1     
 Within the rail          
-<120 mm (< 4 3/4 “) 
+&lt;120 mm (&lt; 4 3/4 “) 
 2 
 Under the rail, between rail supports      
 or next to a single rail support 
-< 120 mm (< 4 3/4 “) 
+&lt; 120 mm (&lt; 4 3/4 “) 
 3 
 Between rail and mattress  
-<120 mm (< 4 3/4 “) 
+&lt;120 mm (&lt; 4 3/4 “) 
 4 
 Under the rail, at the ends of the rail 
-<60 mm (< 2 3/8 “)  
+&lt;60 mm (&lt; 2 3/8 “)  
 AND 
 >60° angle
 

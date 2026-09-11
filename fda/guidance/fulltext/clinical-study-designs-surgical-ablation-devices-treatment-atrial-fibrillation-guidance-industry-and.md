@@ -822,7 +822,7 @@ for PV stenosis.  If subjects show evidence of PV stenosis, we recommend additio
 follow-up imaging at twelve months post-procedure to evaluate stenosis progression. 
 Consistent with the recommendation from the 2012 HRS/EHRA/ECAS Expert Consensus 
 Statement in Surgical and Catheter Ablation of AF,2 FDA recommends that PV stenosis be 
-categorized as mild < 50%, moderate 50-70% and severe ≥ 70% reduction in the diameter 
+categorized as mild &lt; 50%, moderate 50-70% and severe ≥ 70% reduction in the diameter 
 of a PV or PV branch; a severe PV stenosis should be considered a major complication and 
 thus contribute to the primary safety endpoint.  We also recommend that an independent, 
 masked observer in a central core laboratory perform all evaluations of the imaging studies 

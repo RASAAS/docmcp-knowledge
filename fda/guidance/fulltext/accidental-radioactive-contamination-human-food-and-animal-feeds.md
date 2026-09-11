@@ -462,9 +462,9 @@ C3
 C6 
 Ru-l03 + Ru-106(c) 
 + 
-<1 
+&lt;1 
 + 
-<1 
+&lt;1 
 6800 
 450 
 180,000 
@@ -1136,7 +1136,7 @@ Therefore,
 C3 
 C6
 + 
-< 1.0 
+&lt; 1.0 
 (equation D-1) 
 DIL3 
 DIL6 
@@ -1285,7 +1285,7 @@ committed dose equivalents are computed to age 70 years.
 Table D-2 
 ANNUAL DIETARY INTAKES (kg/y) (a) 
 Food Class 
-< 1 
+&lt; 1 
 1-4 
 5-9 
 10-14 
@@ -1460,8 +1460,8 @@ Adult
  (a) The annual dietary intakes for the ICRP age groups were obtained by assigning or averaging the 
 appropriate annual dietary intakes given in Table D-2 for the EPA age groups, as follows: 
 3 months: 
-<1 
-1 year: average <1 and 1-4 
+&lt;1 
+1 year: average &lt;1 and 1-4 
 5 years: average 1-4 and 5-9 
 10 years: average 5-9 and 10-14 
 15 years: average 10-14 and 15-19 

@@ -191,7 +191,7 @@ inflammation intraocularly than endotoxin in aqueous solution due to the prolong
 sensitive ocular tissue.13   
  
 The general principles of endotoxin testing, as described in the most recent FDA-recognized 
-versions* of United States Pharmacopeia (USP) <85> Bacterial Endotoxin Test,14 and the 
+versions* of United States Pharmacopeia (USP) &lt;85> Bacterial Endotoxin Test,14 and the 
 American National Standards Institute (ANSI)/Association for the Advancement of Medical 
 Instrumentation (AAMI) ST72 Bacterial Endotoxins-Test Methodologies, Routine Monitoring 
 and Alternatives to Batch Testing,1 can be followed to test the endotoxin levels of these single-
@@ -262,7 +262,7 @@ whether the intended site of use is the anterior or posterior segment.
  
 b. Endotoxin test method validation: 
 The viscosity of OVDs can interfere with the BET. In addition to the general 
-validation principles described in USP <85> and ANSI/AAMI ST72, the 
+validation principles described in USP &lt;85> and ANSI/AAMI ST72, the 
 validation of the BET should include recovery of known amounts of endotoxin 
 added/spiked to the OVD. For each OVD that is to be marketed, random samples 
 from 3 lots of the OVD should each be spiked with endotoxin to final 
@@ -400,7 +400,7 @@ Buchen SY, Calogero D, Hilmantel G, Eydelman MB. Rabbit ocular reactivity to
 bacterial endotoxin contained in aqueous solution and ophthalmic viscosurgical devices. 
 Ophthalmology. 2012;119(7):e4-e10. 
 14. 
-The United States Pharmacopeial Convention. USP <85> Bacterial Endotoxin Test. 
+The United States Pharmacopeial Convention. USP &lt;85> Bacterial Endotoxin Test. 
 15. 
 Buchen SY, Calogero D, Hilmantel G, Eydelman MB. Detecting endotoxin 
 contamination of ophthalmic viscosurgical devices: intracameral versus intravitreal 

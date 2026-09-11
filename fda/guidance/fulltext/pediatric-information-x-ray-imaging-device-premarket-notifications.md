@@ -527,9 +527,9 @@ for Quality Computed Tomography.
 Levels for Pediatric Imaging and approximate equivalent ages (European Commission. European Guidelines on 
 Diagnostic Reference Levels for Paediatric Imaging, Radiation Protection 185. 2016.  (European Union: 
 Luxembourg) and in the ICRP “Diagnostic Reference Levels in Medical Imaging (ICRP Ref 4836-8337-6684, 
-Draft published January 11, 2016) [Grouping Name (weight, age)]: Neonate (< 5 kg, < 1 m); Infant, toddler and 
-early childhood (5 - < 15 kg, 1 m - < 4 y); Middle childhood (15 - < 30 kg, 4 - < 10 y); early adolescence (30 - < 
-50 kg, 10 - < 14 y); late adolescence (50 - < 80 kg, 14 - < 18 y).
+Draft published January 11, 2016) [Grouping Name (weight, age)]: Neonate (&lt; 5 kg, &lt; 1 m); Infant, toddler and 
+early childhood (5 - &lt; 15 kg, 1 m - &lt; 4 y); Middle childhood (15 - &lt; 30 kg, 4 - &lt; 10 y); early adolescence (30 - &lt; 
+50 kg, 10 - &lt; 14 y); late adolescence (50 - &lt; 80 kg, 14 - &lt; 18 y).
 
 ---
 
@@ -1020,16 +1020,16 @@ Contains Nonbinding Recommendations
  
 19 
 A. References for pediatric dose optimization: The following resources provide 
-information about pediatric imaging radiation safety and/or radiation safety for <insert 
+information about pediatric imaging radiation safety and/or radiation safety for &lt;insert 
 your device modality, e.g., computed tomography, fluoroscopy, general radiography, 
 dental radiography> devices: 
-<Insert references appropriate to your device>45  
+&lt;Insert references appropriate to your device>45  
  
-B. Device specific features and instructions: The <insert your device name> provides 
+B. Device specific features and instructions: The &lt;insert your device name> provides 
 the following specific design features and instructions that enable safer use of our device 
 with pediatric patients:46 
-<insert design features, noting whether they are standard or extra options> 
-<insert references to labeling, e.g., protocols, dosimetry information, safe use checklists, 
+&lt;insert design features, noting whether they are standard or extra options> 
+&lt;insert references to labeling, e.g., protocols, dosimetry information, safe use checklists, 
 summary of any testing to evaluate pediatric use> 
  
 Design feature important to pediatric imaging47 

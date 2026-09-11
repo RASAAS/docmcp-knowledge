@@ -340,7 +340,7 @@ Instruction for Use:
       leave the lens case open to dry after each use. Turn the case over and shake any 
       excess solution out of the case. Be sure that no residual solution remains in the 
       case before you allow it to air dry.  
-• Replace your lens case at least once every < insert a recommended time period >.  
+• Replace your lens case at least once every &lt; insert a recommended time period >.  
       Contact lens cases can be a source of bacterial growth. 
  
 Proposed WARNING: 
@@ -362,7 +362,7 @@ during any activity involving water.
  
 Discard Date 
 Instruction for Use: 
-• Discard any remaining solution < insert a recommended time period > after opening. 
+• Discard any remaining solution &lt; insert a recommended time period > after opening. 
  
 Proposed WARNING: 
 Using your multi-purpose solution beyond the discard date could result in contamination 

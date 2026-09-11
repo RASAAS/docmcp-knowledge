@@ -1998,7 +1998,7 @@ device should be evaluated with respect to possible changes in biocompatibility 
 need for additional biocompatibility assessment. 
 The previously cleared or approved device should have the same or a more risky type of 
 contact and the same or a longer duration of contact. For example, if a manufacturer 
-intends to use a new material in a limited exposure application (<24 hours), and the 
+intends to use a new material in a limited exposure application (&lt;24 hours), and the 
 manufacturer has used that same material in a cleared or approved device for prolonged 
 exposure (24 hours to 30 days), then it is unlikely that submission of a new 510(k) will be 
 required for this change. If the modified device is intended to have a riskier category of 

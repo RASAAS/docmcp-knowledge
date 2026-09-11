@@ -1550,7 +1550,7 @@ Test setup
 i.  
 When practical, all device components and cables should be elevated at 
 least 0.8 m above any conducting ground plane by low dielectric constant 
-(<2.5), nonconducting RF-transparent material. When this is not 
+(&lt;2.5), nonconducting RF-transparent material. When this is not 
 possible, device components should be mounted on a bulk non­
 conducting support at least 0.1 m high. All device components should be 
 at least 0.8 m away from any RF-reflecting objects (e.g., walls of the 

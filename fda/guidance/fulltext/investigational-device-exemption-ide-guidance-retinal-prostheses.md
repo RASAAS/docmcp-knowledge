@@ -349,7 +349,7 @@ evaluations, where applicable.
 Bacterial Endotoxin Testing  
 We recommend that you provide bacterial endotoxin test results on implanted device 
 components using a validated test method that includes inhibition and enhancement 
-testing, such as USP 34:2011, <85> Bacterial Endotoxins Test, or AAMI 
+testing, such as USP 34:2011, &lt;85> Bacterial Endotoxins Test, or AAMI 
 ST72:2002/(R)2010, Bacterial endotoxins - Test methodologies, routine monitoring, 
 and alternatives to batch testing. 
 Leachables Testing 
@@ -369,7 +369,7 @@ they should be recorded in the device risk assessment.
 Pyrogen Testing 
  
 The implant and its insertion devices should be tested for material-mediated 
-pyrogenicity using the Rabbit Pyrogen Test (USP <151>) unless justification can be 
+pyrogenicity using the Rabbit Pyrogen Test (USP &lt;151>) unless justification can be 
 given.  For device materials, firms should assess the risk of the presence of non-
 endotoxin pyrogens. See FDA’s Guidance for Industry:Pyrogen and Endotoxins 
 Testing: Questions and Answers (available at 
@@ -1189,8 +1189,8 @@ devices - Part 2: Validation requirements for forming, sealing and assembly proc
 ASTM F1980-07, Standard Guide for Accelerated Aging of Sterile Barrier Systems for 
 Medical Devices.  
 ISO-10993, Biological Evaluation of Medical Devices Part 1: Evaluation and Testing.  
-USP 34:2011, <85> Biological Tests and Assays, Bacterial Endotoxin Test (LAL). 
-USP 34:2011, <151> Pyrogen Test (USP Rabbit Test).  
+USP 34:2011, &lt;85> Biological Tests and Assays, Bacterial Endotoxin Test (LAL). 
+USP 34:2011, &lt;151> Pyrogen Test (USP Rabbit Test).  
 AAMI ST72:2002/(R)2010, Bacterial endotoxins - Test methodologies, routine monitoring, 
 and alternatives to batch testing. 
 ASTM F1980-07  Standard Guide for Accelerated Aging of Sterile Barrier Systems for 

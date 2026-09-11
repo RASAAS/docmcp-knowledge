@@ -1422,7 +1422,7 @@ Sponsors of IDE studies for refractive lasers may choose not to conduct contrast
 and glare tests if they agree to include in their labeling a precautionary statement to the effect
 that PRK (LASIK) may impair or disable visual performance under adverse visibility
 conditions such as those encountered while driving at night or in inclement weather.  For
-indications of low to moderate myopia (<-7 diopters) and a 6 mm diameter central optical
+indications of low to moderate myopia (&lt;-7 diopters) and a 6 mm diameter central optical
 ablation zone, the following is an example of the usual precautionary language:
 Precaution: Although the effects of PRK (LASIK) on visual performance under poor
 lighting conditions have not been determined, it is possible that you will find it

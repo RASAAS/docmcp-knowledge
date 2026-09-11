@@ -368,7 +368,7 @@ The following breakout of the patient population is suggested for sensitivity
 testing:     
 a. 
 Initial (acute) samples from patients with documented erythema 
-migrans (EM) or culture positive disease (<1 month, 1-2 months, 2–3 
+migrans (EM) or culture positive disease (&lt;1 month, 1-2 months, 2–3 
 months after symptom onset). 
 b. 
 Convalescent samples from patients with documented EM or culture 

@@ -241,7 +241,7 @@ appropriate.
 Detection Limit
 A typical method to determine the virus titer in the collection buffer would be to assay 1 mL in triplicate (3 mL
 total).  In order to have 95% confidence that an assay will find at least one virus when virus is present [i.e., P(0)
-< 0.05], the average number of infectious particles per total volume assayed must be at least three; e.g., there is
+&lt; 0.05], the average number of infectious particles per total volume assayed must be at least three; e.g., there is
 a 95% probability that a titer of 1 pfu/mL will result in at least one plaque in a 3 mL total assay.  Thus, the
 sensitivity or detection limit of this assay can be claimed as 1 pfu/mL when 3 mL is assayed.
 Detection limit expressed as volume of challenge virus suspension that penetrated the barrier is probably the
@@ -347,7 +347,7 @@ virus
 2.3x10
 0.9x10
 0,0,0      0,0,0
-    <1         <0.9x10
+    &lt;1         &lt;0.9x10
 8
 -6
 -6

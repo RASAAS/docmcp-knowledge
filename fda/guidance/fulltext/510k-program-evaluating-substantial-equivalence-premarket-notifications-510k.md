@@ -2160,7 +2160,7 @@ The reduction in the median score for the Brand X device of 23.0 units (from 29.
 predicate device (79.2%). Therefore, the effectiveness of the Brand X system in successfully treating 
 chronic symptoms of GERD is similar to the effectiveness reported for the predicate device. 
  
-The median value of the percent of time pH < 4.0 decreased from an initial value of 8.3% at baseline 
+The median value of the percent of time pH &lt; 4.0 decreased from an initial value of 8.3% at baseline 
 to 6.75%. Therefore, the study met its secondary endpoint related to the acid exposure test. A 
 comparison to results reported in the literature revealed that the change in the median values of the 
 Brand X device showed a decrease of 19%, while the predicate showed a decrease of 18%.  Hence, 

@@ -157,19 +157,19 @@ ranging from 1 unit to 1,000 units or a variety of fill volumes in prefilled syr
 amounts per syringe ranging from 1 unit to 500 units.  
 In 2007, the USP Parenteral Products-Industrial Expert Committee recommended revisions to the 
 new "Strength and Total Volume for Single- and Multiple-Dose Injectable Drug Products" 
-section of USP General Chapter <1> Injections. These revisions became official in 2009 and this 
-information was subsequently relocated to General Chapter <7> Labeling in 2016. This chapter 
+section of USP General Chapter &lt;1> Injections. These revisions became official in 2009 and this 
+information was subsequently relocated to General Chapter &lt;7> Labeling in 2016. This chapter 
 directs that for single- and multiple-dose injectable drug products, the strength per total volume 
 should be the primary and prominent expression on the principal display panel of the label, 
 followed in close proximity by strength per mL enclosed by parentheses. Following these 
 changes, FDA and ISMP expressed concern that the labeling prescribed in the Heparin Lock 
 Flush Solution monograph (and in the Heparin Sodium Injection monograph) was inconsistent 
-with General Chapter <7> Labeling. USP’s Expert Committees, including the committee 
+with General Chapter &lt;7> Labeling. USP’s Expert Committees, including the committee 
 responsible for these Heparin monographs at that time, Monographs-Biologics and 
 Biotechnology 1, proposed revisions to the labeling sections of the heparin monographs that 
 would incorporate the USP standards for labeling for injectable medications, specifically, USP 
-General Chapter <1> Injections, Strength and Total Volume for Single- and Multiple-Dose 
-Injectable Drug Products (which now appears in <7> Labeling). Those revisions became 
+General Chapter &lt;1> Injections, Strength and Total Volume for Single- and Multiple-Dose 
+Injectable Drug Products (which now appears in &lt;7> Labeling). Those revisions became 
 official May 1, 2013. 
 4. Labeling Statements  
 A.  For Heparin Lock Flush Solution Products 

@@ -610,7 +610,7 @@ truly indicative of the effect being studied.
 Table 3 covers a large number of in vitro and in vivo procedures for measuring changes in
 variables indicative of immunotoxic effects.  However, one common requirement is to ensure a
 sound statistical basis in study design that will permit differences between test and control groups
-to be measured at a desired level of statistical significance (usually at the p<0.05 level). Also, in
+to be measured at a desired level of statistical significance (usually at the p&lt;0.05 level). Also, in
 all studies care should be taken to mimic as closely as possible the intended use with regard to
 route of exposure/site of implantation, dose and duration.
 Results from preclinical immunotoxicity testing should be used to help assess biocompatibility of

@@ -93,7 +93,7 @@ may be used if such approach satisfies the requirements of the applicable statut
 <!-- Page 4 -->
 Abbreviated 510(k) for Male Latex Condoms 
 Page 4 of 16 
-<< Cover Letter >> 
+&lt;&lt; Cover Letter >> 
 [Date of Submission] 
 Food and Drug Administration 
 Center Devices and Radiological Health 

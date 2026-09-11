@@ -735,7 +735,7 @@ should meet all of the following acceptance criteria:
 · Bases have a Quality Value of 20 or higher as measured by PHRED, Applied Biosystems 
 KB Basecaller, or similar software packages (this represents a probability of an error of 
 1% or lower), and  
-· Sequence matches the reference or consensus sequence, e.g. Expected Value (E-Value) < 
+· Sequence matches the reference or consensus sequence, e.g. Expected Value (E-Value) &lt; 
 10-30 for the specific target for a BLAST search in GenBank, 
 (http://www.ncbi.nlm.nih.gov/Genbank/).   
 As Next Generation Sequencing (NGS), also known as High Throughput Sequencing (HTS), 
@@ -757,7 +757,7 @@ identified by your device.
 Please note that there are two scenarios in which the samples are found negative by the HPV test 
 when the clinical cutoff is set above the LoB: 1) the HPV test detected some amount of analyte 
 (analyte level is above the LoB) but this amount was below the clinical cutoff that is used to 
-define positive and negative results (“Detected” in Table 3 below = “LoB<signal<clinical 
+define positive and negative results (“Detected” in Table 3 below = “LoB&lt;signal&lt;clinical 
 cutoff”) or 2) the HPV test did not detect the analyte of interest (“Not Detected” in Table 3 
 below = signal≤LoB).  For the comparison of the HPV test and an appropriate comparator 
 discussed above, please describe whether the analyte was detected or not detected for the 
@@ -1091,7 +1091,7 @@ proportion of individuals who have precancer or cancer [greater than or equal to
 Intraepithelial Neoplasia 2 (≥CIN2)
 25 
 2] that are positive by your test.  The clinical specificity of 
-your device is the proportion of individuals who do not have precancer or cancer (<CIN2) that 
+your device is the proportion of individuals who do not have precancer or cancer (&lt;CIN2) that 
 are negative by your test.  These performance characteristics should be established in prospective 
 clinical studies conducted at a minimum of three study sites that are representative of clinical 
 sites in the United States.  For a test with more than two outcomes, clinical performance is 
@@ -1398,7 +1398,7 @@ investigative or approved HPV test results
 3 at the baseline visit or during follow-up (this 
 is important for avoiding bias).  Note that follow-up will end for women who have a 
 ≥CIN2 colposcopy result at any time during the study and that these women are 
-considered “disease positive.”  Women who go to colposcopy but are <CIN2 should 
+considered “disease positive.”  Women who go to colposcopy but are &lt;CIN2 should 
 continue to be followed for the remainder of the study duration.  The follow-up data 
 should demonstrate a statistically and clinically significant difference in relative risk for 
 ≥CIN2 at least at three years for women who are positive as compared to women who are 
@@ -1562,7 +1562,7 @@ Contains Nonbinding Recommendations
  
  
 examined by the CPR panel.  All subjects with ≥CIN2 by CPR should exit the study and those 
-with <CIN2 by CPR should be invited to proceed to the next year’s follow-up visit.  In order to 
+with &lt;CIN2 by CPR should be invited to proceed to the next year’s follow-up visit.  In order to 
 maximize disease ascertainment, it is recommended that an exit colposcopy and, if needed, an 
 endocervical curettage (ECC) be considered for all follow-up subjects in Year 3. 
 You should consider enrolling a random subset of women who were cytology and HPV negative 

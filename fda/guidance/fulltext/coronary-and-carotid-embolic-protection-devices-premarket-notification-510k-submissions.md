@@ -527,7 +527,7 @@ of a separate canine in vivo thrombogenicity test.
 Material-mediated Pyrogenicity 
 We recommend that you assess pyrogenic responses to chemical leachants over the duration 
 of device contact with the patient using a standard method, such as those described in USP 30 
-<151> Rabbit Pyrogen Test.  We also recommend that you assess material-mediated 
+&lt;151> Rabbit Pyrogen Test.  We also recommend that you assess material-mediated 
 pyrogenicity using traditional biocompatibility extraction methods, such as 50°C for 72 hours, 
 70°C for 24 hours, or 120°C for 2 hours). 
  
@@ -535,7 +535,7 @@ pyrogenicity using traditional biocompatibility extraction methods, such as 50°
  
 Endotoxin-Mediated Pyrogenicity 
 We recommend that you consider pyrogenic responses to gram-negative bacterial endotoxin 
-using a standard method, such as those outlined in the USP 30 <85> Bacterial Endotoxin 
+using a standard method, such as those outlined in the USP 30 &lt;85> Bacterial Endotoxin 
 Limulus Amoebocyte Lysate (LAL) Test, or an equivalent method.  We recommend that 
 your specifications include the test procedure and acceptance criteria for endotoxins.  All 
 blood-contacting cardiovascular devices and combination products should be pyrogen-free.
@@ -1449,8 +1449,8 @@ Materials
  
  
 USP Standards
-USP 30 <85> Biological Tests and Assays, Bacterial Endotoxin Test (LAL) 
-USP 30 <151> Pyrogen Test (USP Rabbit Test) 
+USP 30 &lt;85> Biological Tests and Assays, Bacterial Endotoxin Test (LAL) 
+USP 30 &lt;151> Pyrogen Test (USP Rabbit Test) 
  
 A list of FDA-recognized standards is available at: 
 http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfStandards/search.cfm

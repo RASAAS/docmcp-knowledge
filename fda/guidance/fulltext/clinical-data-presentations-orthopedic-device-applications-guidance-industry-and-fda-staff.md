@@ -315,7 +315,7 @@ Men/women
 Mean age, year (range) 
  
  
-<High School                 
+&lt;High School                 
   
  
 High School Diploma 
@@ -1426,7 +1426,7 @@ Fair (71-80)
  
  
  
-Poor (<71) 
+Poor (&lt;71) 
  
  
  

@@ -859,9 +859,9 @@ between the involved vertebral endplates for intervertebral body replacement
 devices, between the facets, pedicle, and/or transverse processes for pedicle
 screw systems);
 •
-translational motion <3mm; and
+translational motion &lt;3mm; and
 •
-angular motion <5°.
+angular motion &lt;5°.
 The tolerance for presence of radiolucent lines may be dependent on the type of spinal
 system.  If the sponsor chooses to incorporate radiolucency data as a fusion criterion,
 then specific information should be provided in order to better assure that adequate
