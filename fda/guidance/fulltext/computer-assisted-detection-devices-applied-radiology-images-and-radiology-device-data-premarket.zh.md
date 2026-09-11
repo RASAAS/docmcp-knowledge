@@ -1,36 +1,3 @@
----
-title: "应用于放射影像与放射器械数据的计算机辅助检测器械——上市前通知（510(k)）提交：行业与食品药品管理局工作人员指南"
-description: "Computer-Assisted Detection Devices Applied to Radiology Images and Radiology Device Data - Premarket Notification [510(k)] Submissions: Guidance for Industry and Food and Drug Administration Staff"
-published: 2022-09-28
----
-
-# 应用于放射影像与放射器械数据的计算机辅助检测器械——上市前通知（510(k)）提交：行业与食品药品管理局工作人员指南
-
-**Computer-Assisted Detection Devices Applied to Radiology Images and Radiology Device Data - Premarket Notification [510(k)] Submissions: Guidance for Industry and Food and Drug Administration Staff**
-
-**发布日期**：2022-09-28
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：数字健康与网络安全
-**主题**：Premarket、Radiology
-**案卷号**：FDA-2009-D-0503
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/computer-assisted-detection-devices-applied-radiology-images-and-radiology-device-data-premarket
-PDF：https://www.fda.gov/media/77635/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
-
----
-
-## 官方文件全文
-
 # 用于放射图像和放射设备数据的计算机辅助检测装置 -- -- 预告[510(k)]工业、美国食品药品监督管理局工作人员指南
 
 **来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/computer-assisted-detection-devices-applied-radiology-images-and-radiology-device-data-premarket](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/computer-assisted-detection-devices-applied-radiology-images-and-radiology-device-data-premarket)
@@ -429,4 +396,3 @@ CADE 设备的一般性测试实例包括:
 [^23]: 807.87(e).。以下建议旨在协助你制作符合21 CFR Part 801.19要求的标签。
 
 [^25]: 评估考虑-计算机辅助检测-装置-应用-放射学。· 在每个现有装置操作点,采用整体的独立敏感度和独立的假正率度量;• 分层分析(例如,每个损害大小、每个损害类型、每个成像或扫描程序、每个成像或数据特点);• 酌情采用独立FROC业绩。
-

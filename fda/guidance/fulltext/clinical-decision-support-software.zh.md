@@ -1,36 +1,3 @@
----
-title: "临床决策支持软件：行业与食品药品管理局工作人员指南"
-description: "Clinical Decision Support Software: Guidance for Industry and Food and Drug Administration Staff"
-published: 2026-01-29
----
-
-# 临床决策支持软件：行业与食品药品管理局工作人员指南
-
-**Clinical Decision Support Software: Guidance for Industry and Food and Drug Administration Staff**
-
-**发布日期**：2026-01-29
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：数字健康与网络安全
-**主题**：Administrative / Procedural、Digital Health
-**案卷号**：FDA-2017-D-6569
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/clinical-decision-support-software
-PDF：https://www.fda.gov/media/109618/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
-
----
-
-## 官方文件全文
-
 # 临床决定支助软件:工业及美国食品药品监督管理局工作人员指南
 
 **来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/clinical-decision-support-software](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/clinical-decision-support-software)
@@ -310,4 +277,3 @@ ECG报告所报告的抑郁症和EHR的心脏酶实验室结果),以确认可能
 [^20]: 政策-低风险装置
 
 [^24]: 见FDA题为“与FDA要求的标签相一致的医药产品通信”的指南,可查阅“0 ”通讯-符合要求的fda-标签-问答6。重复试验或药物错误预防通知(例如药品核对和试验核对):a。
-

@@ -1,36 +1,3 @@
----
-title: "临床性能评估：应用于放射影像与放射器械数据的计算机辅助检测器械在上市前通知（510(k)）提交中的考量：行业与FDA工作人员指南"
-description: "Clinical Performance Assessment: Considerations for Computer-Assisted Detection Devices Applied to Radiology Images and Radiology Device Data in Premarket Notification (510(k)) Submissions: Guidance for Industry and FDA Staff"
-published: 2022-09-28
----
-
-# 临床性能评估：应用于放射影像与放射器械数据的计算机辅助检测器械在上市前通知（510(k)）提交中的考量：行业与FDA工作人员指南
-
-**Clinical Performance Assessment: Considerations for Computer-Assisted Detection Devices Applied to Radiology Images and Radiology Device Data in Premarket Notification (510(k)) Submissions: Guidance for Industry and FDA Staff**
-
-**发布日期**：2022-09-28
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：数字健康与网络安全
-**主题**：Premarket、510(k)、Digital Health、Radiology、Labeling
-**案卷号**：FDA-2009-D-0503
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/clinical-performance-assessment-considerations-computer-assisted-detection-devices-applied-radiology
-PDF：https://www.fda.gov/media/77642/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
-
----
-
-## 官方文件全文
-
 # 临床绩效评估:用于放射图像和放射设备数据的计算机辅助检测设备在上市前通知中的考虑(510(k))工业和FDA工作人员指南
 
 **来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/clinical-performance-assessment-considerations-computer-assisted-detection-devices-applied-radiology](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/clinical-performance-assessment-considerations-computer-assisted-detection-devices-applied-radiology)
@@ -213,4 +180,3 @@ M.T., Fryd, D., Gur, D., Hadjiiski, L., Huo不愿, Z., Jiang, Y., Morra, L., Paq
 [^27]: 报告结果研究 - 评估 - 诊断 - 诊断 - 测试 - 指导 - 工业 - 信息。
 
 [^28]: 可在 @#0___
-

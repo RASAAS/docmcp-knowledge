@@ -1,36 +1,3 @@
----
-title: "器械软件功能上市前提交内容：行业与食品药品管理局工作人员指南"
-description: "Content of Premarket Submissions for Device Software Functions: Guidance for Industry and Food and Drug Administration Staff"
-published: 2023-06-14
----
-
-# 器械软件功能上市前提交内容：行业与食品药品管理局工作人员指南
-
-**Content of Premarket Submissions for Device Software Functions: Guidance for Industry and Food and Drug Administration Staff**
-
-**发布日期**：2023-06-14
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：数字健康与网络安全
-**主题**：Premarket、Digital Health
-**案卷号**：FDA-2021-D-0775
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/content-premarket-submissions-device-software-functions
-PDF：https://www.fda.gov/media/153781/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
-
----
-
-## 官方文件全文
-
 # 器械软件功能:工业、美国食品药品监督管理局工作人员指南
 
 **来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/content-premarket-submissions-device-software-functions](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/content-premarket-submissions-device-software-functions)
@@ -552,4 +519,3 @@ o 递减分析是根据对有关文件的审查(例如软件要求规格、软�
 [^64]: 支持软件。
 
 [^65]: 有关风险评估的更多信息,请参见本指南第六.C节。 1. 仅硬件、不与病人相配的假肢。
-

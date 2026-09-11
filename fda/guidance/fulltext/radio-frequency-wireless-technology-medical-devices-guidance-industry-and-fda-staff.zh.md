@@ -1,36 +1,3 @@
----
-title: "医疗器械中的射频无线技术——行业与FDA工作人员指南"
-description: "Radio Frequency Wireless Technology in Medical Devices - Guidance for Industry and FDA Staff"
-published: 2013-08-14
----
-
-# 医疗器械中的射频无线技术——行业与FDA工作人员指南
-
-**Radio Frequency Wireless Technology in Medical Devices - Guidance for Industry and FDA Staff**
-
-**发布日期**：2013-08-14
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：数字健康与网络安全
-**主题**：Premarket、Digital Health
-**案卷号**：FDA-2006-D-0300
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/radio-frequency-wireless-technology-medical-devices-guidance-industry-and-fda-staff
-PDF：https://www.fda.gov/media/71975/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
-
----
-
-## 官方文件全文
-
 # 医疗设备无无线电频率无线技术 -- -- 工业和FDA工作人员指南
 
 **来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/radio-frequency-wireless-technology-medical-devices-guidance-industry-and-fda-staff](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/radio-frequency-wireless-technology-medical-devices-guidance-industry-and-fda-staff)
@@ -302,4 +269,3 @@ RTCA/DO-160G,环境条件和空气携带设备测试程序
 [^11]: 21 CFR 820.100(a)。
 
 [^12]: 21 CFR 820.100(a)。
-

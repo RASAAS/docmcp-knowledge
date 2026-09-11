@@ -1,36 +1,3 @@
----
-title: "判定既有器械软件变更何时需提交510(k)：行业与食品药品管理局工作人员指南"
-description: "Deciding When to Submit a 510(k) for a Software Change to an Existing Device: Guidance for Industry and Food and Drug Administration Staff"
-published: 2017-10-25
----
-
-# 判定既有器械软件变更何时需提交510(k)：行业与食品药品管理局工作人员指南
-
-**Deciding When to Submit a 510(k) for a Software Change to an Existing Device: Guidance for Industry and Food and Drug Administration Staff**
-
-**发布日期**：2017-10-25
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：数字健康与网络安全
-**主题**：Premarket、510(k)、Labeling、Laboratory Tests、IVDs (In Vitro Diagnostic Devices)、Digital Health
-**案卷号**：FDA-2016-D-2021
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/deciding-when-submit-510k-software-change-existing-device
-PDF：https://www.fda.gov/media/99785/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
-
----
-
-## 官方文件全文
-
 # 将软件修改的510(k) 提交到现有设备:工业及美国食品药品监督管理局工作人员指南
 
 **来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/deciding-when-submit-510k-software-change-existing-device](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/deciding-when-submit-510k-software-change-existing-device)
@@ -302,4 +269,3 @@ OEM改变了 SPO2 传感器的 A 版 。对SpO2传感器的更改并不要求提
 非临界警报的沉默不会影响临床功能。
 与最近清除的装置相比,警报的标准没有改变。
 结果:如果第六节中查明的因素与这一变动无关,请将变动记录备案。
-

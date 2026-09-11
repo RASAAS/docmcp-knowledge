@@ -1,36 +1,3 @@
----
-title: "器械软件功能与移动医疗应用政策：行业与食品药品管理局工作人员指南"
-description: "Policy for Device Software Functions and Mobile Medical Applications: Guidance for Industry and Food and Drug Administration Staff"
-published: 2022-09-28
----
-
-# 器械软件功能与移动医疗应用政策：行业与食品药品管理局工作人员指南
-
-**Policy for Device Software Functions and Mobile Medical Applications: Guidance for Industry and Food and Drug Administration Staff**
-
-**发布日期**：2022-09-28
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：数字健康与网络安全
-**主题**：Premarket、Digital Health
-**案卷号**：FDA-2011-D-0530
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/policy-device-software-functions-and-mobile-medical-applications
-PDF：https://www.fda.gov/media/80958/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
-
----
-
-## 官方文件全文
-
 # 器械软件功能和移动医疗应用政策:工业及美国食品药品监督管理局工作人员指南
 
 **来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/policy-device-software-functions-and-mobile-medical-applications](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/policy-device-software-functions-and-mobile-medical-applications)
@@ -490,4 +457,3 @@ AAMI = 促进医疗仪器学协会 ANSI = 美国国家标准研究所 IEC = 国�
 [^95]: 可在 @%0 @% 内容中查阅
 
 [^96]: 10. AAMI TIR36验证受管制程序软件。IEC/TR 80002-1 医疗设备软件 -- -- 第1部分:医疗设备软件应用ISO 14971的指南。13. 基本安全和基本履约的一般要求(特别是第14条)。IEC 61508-2 电气/电子/可编程电子安全相关系统的职能安全 -- -- 第2部分:电气/电子/可规划电子安全相关系统的要求。
-

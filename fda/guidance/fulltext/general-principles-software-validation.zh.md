@@ -1,36 +1,3 @@
----
-title: "软件确认通用原则：行业与FDA工作人员指南"
-description: "General Principles of Software Validation: Guidance for Industry and FDA Staff"
-published: 2002-01-11
----
-
-# 软件确认通用原则：行业与FDA工作人员指南
-
-**General Principles of Software Validation: Guidance for Industry and FDA Staff**
-
-**发布日期**：2002-01-11
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：数字健康与网络安全
-**主题**：Premarket、Digital Health、Good Clinical Practice (GCP)
-**案卷号**：FDA-1997-D-0029
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/general-principles-software-validation
-PDF：https://www.fda.gov/media/73141/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
-
----
-
-## 官方文件全文
-
 # 软件验证一般原则:工业和FDA工作人员指南
 
 **来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/general-principles-software-validation](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/general-principles-software-validation)
@@ -424,4 +391,3 @@ Karl E. Wiegers,软件检查,提高软件检查的质量,软件开发,1995年4�
 Karl E. Wiegers,软件要求,微软出版社,1999年,ISBN 0-7356-0631-5。
 
 《工业和FDA工作人员软件验证指南通则》附录B - 发展技术团队设备和放射卫生中心(遵规署)Stewart Crumpler装置评价办公室James Cheng,唐娜·比亚·蒂尔曼 卫生和工业方案办公室 布赖恩·贝内施John Murray 霍华德毒品评价和医学政策研究中心 查尔斯·斯尼佩斯生物学评价和研究中心琼·洛伦
-

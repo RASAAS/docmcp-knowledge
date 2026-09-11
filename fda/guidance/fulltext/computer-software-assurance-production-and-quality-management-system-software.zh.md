@@ -1,36 +1,3 @@
----
-title: "生产与质量管理体系软件的计算机软件保证：行业与食品药品管理局工作人员指南"
-description: "Computer Software Assurance for Production and Quality Management System Software: Guidance for Industry and Food and Drug Administration Staff"
-published: 2026-02-03
----
-
-# 生产与质量管理体系软件的计算机软件保证：行业与食品药品管理局工作人员指南
-
-**Computer Software Assurance for Production and Quality Management System Software: Guidance for Industry and Food and Drug Administration Staff**
-
-**发布日期**：2026-02-03
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：数字健康与网络安全
-**主题**：Postmarket、Current Good Manufacturing Practice (CGMP)、Digital Health
-**案卷号**：FDA-2022-D-0795
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/computer-software-assurance-production-and-quality-management-system-software
-PDF：https://www.fda.gov/media/188844/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
-
----
-
-## 官方文件全文
-
 # 生产和质量管理体系软件:工业及美国食品药品监督管理局工作人员指南
 
 **来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/computer-software-assurance-production-and-quality-management-system-software](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/computer-software-assurance-production-and-quality-management-system-software)
@@ -291,4 +258,3 @@ o 签名日期(D-MM-YYYYY)和时间(hh:mm)已执行。
 [^25]: 关于目前软件测试方法和验证方法的额外资源,制造商可参考各种软件标准和行业指导,例如:但不仅限于GAMMP5 - 对兼容GxP计算机化系统采取基于风险的方法(第二版)。
 
 [^26]: 见“医疗器械的网络安全:质量管理体系的考虑和内容”。
-
