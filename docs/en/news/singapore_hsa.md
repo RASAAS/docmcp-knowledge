@@ -6,6 +6,18 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### HSA Updates GN-15-R14 Guidance on Medical Device Product Registration (Sep 2026)
+
+**2026-09-01** | Singapore HSA | Regulation Update | !! MEDIUM
+
+HSA has published revision R14 of GN-15 Guidance on Medical Device Product Registration, dated 10 September 2026. The update applies to manufacturers, importers, and registrants responsible for medical device registration in Singapore. Affected stakeholders should review the revised guidance and adjust registration dossiers and submission processes to meet the updated HSA requirements.
+
+**Tags**: `singapore_hsa`, `medical_device_registration`, `guidance_update`
+
+[View Source (Official Source)](https://go.gov.sg/gn-15-r14-10-09-2026)
+
+---
+
 ### HSA Publishes Summary of Responses to Public Consultation Feedback on Medical Device Cybersecurity Best Practices Guide
 
 **2026-08-14** | Singapore HSA | Regulation Update | !! MEDIUM

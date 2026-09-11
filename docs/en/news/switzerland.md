@@ -36,6 +36,444 @@ title: Regulatory News
 
 ## Latest Updates
 
+### Swissmedic FSCA: GORE VIABAHN Endoprosthesis with Heparin/PROPATEN Surface – New Language Added
+
+**2026-09-09** | Swissmedic | Safety Communication | !! MEDIUM
+
+This Swissmedic field safety corrective action (FSCA) concerns the GORE VIABAHN Endoprosthesis with Heparin/PROPATEN Surface, a drug-coated peripheral artery endovascular stent-graft from W. L. Gore & Associates Inc. The corrective action is due to the addition of a new language to the product labeling/instructions for use. The Swiss-specific affected reference is PAJR070502E (GTIN 00733132627431); other countries should refer to the field safety notice. Regulatory professionals should ensure the updated language version is distributed and available where required.
+
+**Tags**: `swissmedic`, `fsca`, `labeling_update`, `peripheral_stent_graft`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260902_010)
+
+---
+
+### Swissmedic FSCA: Shimadzu FDR Visionary Suite Digital X-Ray System
+
+**2026-09-09** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has published a Field Safety Corrective Action (FSCA) for the Shimadzu Corporation Medical Systems Division FDR Visionary Suite, a stationary basic diagnostic digital X-ray system. The listed notice does not provide specific reason or model details; the affected device is identified by product name. Regulatory affairs professionals should review the official Swissmedic entry and contact Shimadzu for corrective action details and required measures.
+
+**Tags**: `swissmedic`, `fsca`, `x_ray_system`, `shimadzu`, `field_safety_corrective_action`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260908_022)
+
+---
+
+### Shockwave Reducer - Shockwave Medical, Inc.
+
+**2026-09-09** | Swissmedic | Safety Communication | !! MEDIUM
+
+FSCA: MD: Vascular and cardiac prostheses - other. Reason: . Model: RED-001; R1385CEV.
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260907_025)
+
+---
+
+### Swissmedic FSCA for Cynosure Lutronic DermaV Laser Systems: ICD Gas Type Configuration
+
+**2026-09-09** | Swissmedic | Safety Communication | !! MEDIUM
+
+This Swissmedic field safety corrective action concerns the DermaV dermatological solid-state laser system manufactured by Cynosure Lutronic Technology Corporation. It applies to all DermaV systems configured to use the specified ICD gas type; no model number is listed. Affected users should review the manufacturer’s corrective action and follow recommended measures regarding the ICD gas configuration.
+
+**Tags**: `swissmedic`, `fsca`, `laser_system`, `medical_device`, `cynosure_lutronic`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260903_001)
+
+---
+
+### Philips Medical Systems Nederland B.V. MR 7700 Full-Body MRI (Model 782130): Swissmedic FSCA Upgrade
+
+**2026-09-09** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has published a Field Safety Corrective Action (FSCA) for the Philips Medical Systems Nederland B.V. MR 7700 full-body MRI system, superconducting magnet, model 782130. The notice relates to an upgrade for this device, though the specific risk or reason is not detailed in the Swissmedic entry. Affected facilities should obtain and follow the manufacturer's corrective action instructions and complete the recommended upgrade to maintain safety and compliance.
+
+**Tags**: `swissmedic`, `fsca`, `mri`, `philips`, `medical_device`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260902_004)
+
+---
+
+### Swissmedic FSCA: Philips Upgrade dStream Full-Body MRI System Model 782127
+
+**2026-09-09** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has published a field safety corrective action (FSCA) for the Philips Medical Systems Nederland B.V. full-body MRI system with superconducting magnet, model 782127. The corrective action is identified as 'Upgrade dStream'; the published reason field does not provide further detail. Affected users and regulatory affairs professionals should review the Swissmedic FSCA entry and follow Philips' instructions for the affected systems.
+
+**Tags**: `swissmedic`, `fsca`, `mri`, `philips`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260902_004)
+
+---
+
+### SmartPath to MR 7700 - Philips Medical Systems Nederland B.V.
+
+**2026-09-09** | Swissmedic | Safety Communication | !! MEDIUM
+
+FSCA: MD: Full-body MRI system, superconducting magnet. Reason: . Model: 782178, 782207.
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260902_004)
+
+---
+
+### Philips SmartPath to dStream for 3.0T MRI – Swissmedic FSCA (Models 782145, 782164)
+
+**2026-09-09** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic has issued a Field Safety Corrective Action (FSCA) for the Philips Medical Systems Nederland B.V. SmartPath to dStream for 3.0T full-body MRI system with superconducting magnet. The notice affects models 782145 and 782164. The provided description does not specify the detailed reason or recommended actions, so users should consult the official Swissmedic FSCA and manufacturer communication for corrective measures.
+
+**Tags**: `swissmedic`, `fsca`, `mri`, `philips`, `field_safety_corrective_action`, `medical_device`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260902_004)
+
+---
+
+### Swissmedic FSCA: Philips MR 7700 Full-Body MRI Systems Models 782120, 782153, 782155, 782179, 782199
+
+**2026-09-09** | Swissmedic | Safety Communication | !!! HIGH
+
+This Swissmedic FSCA concerns the Philips Medical Systems Nederland B.V. MR 7700 full-body MRI system with superconducting magnet. The affected models are 782120, 782153, 782155, 782179, and 782199. The published notice does not specify the reason in its summary description; facilities should review the full Swissmedic notice and follow Philips' recommended corrective actions. Users should contact Philips or their local representative to confirm required steps.
+
+**Tags**: `swissmedic`, `fsca`, `mri`, `philips`, `field_safety_corrective_action`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260902_004)
+
+---
+
+### Swissmedic FSCA: Philips MR 5300 Full-Body MRI Systems Models 782110, 782152, 782156, 782196
+
+**2026-09-09** | Swissmedic | Safety Communication | !!! HIGH
+
+This Swissmedic field safety corrective action (FSCA) concerns the Philips Medical Systems Nederland B.V. MR 5300 full-body MRI system with superconducting magnet, affecting models 782110, 782152, 782156, and 782196. The specific reason for the corrective action is not detailed in the available alert listing. Affected users and facilities should consult the official Swissmedic FSCA notice and Philips instructions to implement any required corrective measures.
+
+**Tags**: `swissmedic`, `fsca`, `mri_safety`, `philips`, `field_safety_corrective_action`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260902_004)
+
+---
+
+### Swissmedic FSCA: Philips Ingenia Elition S Full-Body MRI Systems (Models 781357, 782106, 782137, 782157, 782180)
+
+**2026-09-09** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has published a Field Safety Corrective Action (FSCA) for the Philips Medical Systems Nederland B.V. Ingenia Elition S full-body MRI system with superconducting magnet. The affected models are 781357, 782106, 782137, 782157, and 782180. The reason is not specified in the provided metadata, so affected users should review the official Swissmedic notice and implement the required corrective actions.
+
+**Tags**: `swissmedic`, `fsca`, `philips`, `mri_safety`, `field_safety_corrective_action`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260902_004)
+
+---
+
+### Swissmedic FSCA for Philips Ingenia Ambition X MRI Systems (Models 781356, 782109, 782138, 782160, 782195)
+
+**2026-09-09** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has published a Field Safety Corrective Action for the Philips Medical Systems Nederland B.V. Ingenia Ambition X full-body MRI system with superconducting magnet. The notice lists affected models 781356, 782109, 782138, 782160, and 782195. The available excerpt does not specify the detailed reason or required actions; users should consult the official Swissmedic notice and Philips field safety communication for corrective measures.
+
+**Tags**: `swissmedic`, `fsca`, `mri`, `philips`, `field_safety_corrective_action`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260902_004)
+
+---
+
+### Swissmedic FSCA: Philips Ingenia Ambition S MRI System (Models 781359, 782108, 782139, 782159, 782194)
+
+**2026-09-09** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic has published a field safety corrective action (FSCA) for the Philips Medical Systems Nederland B.V. Ingenia Ambition S full-body MRI system with superconducting magnet. Affected models are 781359, 782108, 782139, 782159, and 782194. The specific reason is not detailed in the Swissmedic entry; users should consult the manufacturer's field safety notice and follow required actions.
+
+**Tags**: `swissmedic`, `fsca`, `mri_safety`, `philips`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260902_004)
+
+---
+
+### Swissmedic FSCA for Philips SmartPath to Ingenia Elition X MRI (Models 782118, 782144, 782163)
+
+**2026-09-09** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has published a Field Safety Corrective Action for the Philips Medical Systems Nederland B.V. full-body MRI system 'SmartPath to Ingenia Elition X'. Affected model numbers are 782118, 782144, and 782163. The available summary does not specify the reason or recommended user actions, so facilities should consult the official Swissmedic notice and Philips field safety notice for corrective measures.
+
+**Tags**: `swissmedic`, `fsca`, `philips`, `mri`, `field_safety_corrective_action`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260902_004)
+
+---
+
+### Philips SmartPath to dStream for XR and 3.0T MRI FSCA (Models 781270, 782113, 782129)
+
+**2026-09-09** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has published a field safety corrective action (FSCA) for the Philips Medical Systems Nederland B.V. full-body MRI system with superconducting magnet, covering SmartPath to dStream for XR and 3.0T configurations. The notice lists affected models 781270, 782113, and 782129. The reason for the corrective action and specific recommended actions are not detailed in the alert excerpt; users should review the official Swissmedic notice and follow Philips' instructions.
+
+**Tags**: `swissmedic`, `fsca`, `mri_safety`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260902_004)
+
+---
+
+### Swissmedic FSCA for Philips SmartPath to dStream 1.5T MRI Systems (Models 781260, 782112, 782146, 782165)
+
+**2026-09-09** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has issued a Field Safety Corrective Action (FSCA) for the Philips Medical Systems Nederland B.V. SmartPath to dStream for 1.5T full-body MRI system with superconducting magnet. The affected models are 781260, 782112, 782146, and 782165. The provided entry does not state the specific reason or required actions; affected users should consult the official Philips Field Safety Notice and contact Philips for corrective actions.
+
+**Tags**: `swissmedic`, `fsca`, `mri_safety`, `philips`, `field_safety_corrective_action`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260902_004)
+
+---
+
+### Swissmedic FSCA: Philips Ingenia Elition X MRI Systems (Models 781358–782198)
+
+**2026-09-09** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has published a field safety corrective action (FSCA) for the Philips Ingenia Elition X full-body MRI system with superconducting magnet, manufactured by Philips Medical Systems Nederland B.V. The affected models are 781358, 782107, 782119, 782136, 782151, 782158, 782181, and 782198. The reason for the corrective action is not specified in the available entry; users should consult the manufacturer's field safety notice and follow the recommended actions.
+
+**Tags**: `swissmedic`, `fsca`, `mri`, `philips`, `field_safety_corrective_action`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260902_004)
+
+---
+
+### Swissmedic FSCA: Philips Ingenia 3.0T CX MRI, Model 781271
+
+**2026-09-09** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic has published a field safety corrective action (FSCA) for the Philips Medical Systems Nederland B.V. Ingenia 3.0T CX full-body MRI system, superconducting magnet, model 781271. The specific reason for the corrective action is not detailed in the provided notice. Affected users should review the manufacturer's FSCA communication and follow the recommended safety actions.
+
+**Tags**: `swissmedic`, `fsca`, `mri`, `philips`, `medical_device_safety`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260902_004)
+
+---
+
+### Swissmedic FSCA: Philips Ingenia 3.0T Full-Body MRI Systems (Models 781342, 781377, 782103)
+
+**2026-09-09** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic has issued a Field Safety Corrective Action (FSCA) for the Philips Ingenia 3.0T full-body MRI system with superconducting magnet, manufactured by Philips Medical Systems Nederland B.V. Affected models are 781342, 781377, and 782103. The specific reason for the corrective action is not stated in the alert summary, so facilities should review the official Swissmedic FSCA and the Philips field safety notice. Users should follow the manufacturer's corrective instructions and contact Philips as needed.
+
+**Tags**: `swissmedic`, `fsca`, `mri`, `philips`, `safety_corrective_action`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260902_004)
+
+---
+
+### Swissmedic FSCA for Philips Ingenia 1.5T S MRI System, Model 781347
+
+**2026-09-09** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has published a field safety corrective action (FSCA) for the Philips Medical Systems Nederland B.V. Ingenia 1.5T S full-body MRI system, superconducting magnet, model 781347. The public notice metadata does not specify the exact reason for the correction. Users of this model should review the official Swissmedic notice and follow the manufacturer’s field safety instructions.
+
+**Tags**: `swissmedic`, `fsca`, `philips`, `mri`, `medical_device`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260902_004)
+
+---
+
+### Swissmedic FSCA: Philips Ingenia 1.5T CX Full-Body MRI System, Model 781262
+
+**2026-09-09** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has published a Field Safety Corrective Action (FSCA) for the Philips Ingenia 1.5T CX full-body MRI system, a superconducting magnet device, model 781262, manufactured by Philips Medical Systems Nederland B.V. The published entry does not specify the detailed reason for the corrective action. Healthcare facilities with this model should consult the official Swissmedic FSCA notice and any Philips field safety notification to verify inventory and follow recommended actions.
+
+**Tags**: `swissmedic`, `fsca`, `mri_safety`, `philips_ingenia`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260902_004)
+
+---
+
+### Swissmedic FSCA: Philips Ingenia 1.5T Full-Body MRI (Models 781315, 781341, 781396, 782115, 782140)
+
+**2026-09-09** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic has published a field safety corrective action (FSCA) concerning the Philips Medical Systems Nederland B.V. Ingenia 1.5T full-body superconducting MRI system. The registry entry identifies affected model numbers 781315, 781341, 781396, 782115, and 782140; the specific reason for the corrective action is not detailed in the available item description. Healthcare facilities with these systems should review the official Swissmedic FSCA and Philips field safety notice and implement any required corrective measures.
+
+**Tags**: `swissmedic`, `fsca`, `mri_safety`, `philips_ingenia`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260902_004)
+
+---
+
+### Philips Evolution Upgrade 3.0T MRI – Swissmedic FSCA for Models 782117, 782143, 782162
+
+**2026-09-09** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic has published a field safety corrective action (FSCA) for the Philips Medical Systems Nederland B.V. Evolution upgrade 3.0T, a full-body MRI system with superconducting magnet. The affected models are 782117, 782143, and 782162. The available notice does not specify the detailed reason for the corrective action. Users of the affected models should review the Swissmedic FSCA notice and contact Philips Medical Systems Nederland B.V. for recommended corrective measures.
+
+**Tags**: `swissmedic`, `fsca`, `mri_safety`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260902_004)
+
+---
+
+### Swissmedic FSCA: Philips Evolution Upgrade 1.5T MRI Systems (Models 782116, 782148, 782166, 782201)
+
+**2026-09-09** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has issued a Field Safety Corrective Action (FSCA) for the Philips Medical Systems Nederland B.V. Evolution upgrade 1.5T full-body MRI system with superconducting magnet. Affected models are 782116, 782148, 782166 and 782201. The reason for the corrective action is not detailed in the alert metadata; users should review the official Swissmedic notice and manufacturer instructions, identify affected devices, and implement the manufacturer's corrective action.
+
+**Tags**: `swissmedic`, `fsca`, `mri`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260902_004)
+
+---
+
+### Swissmedic FSCA: Philips BlueSeal XE MRI System, Model 782192
+
+**2026-09-09** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic has published a Field Safety Corrective Action (FSCA) for the Philips Medical Systems Nederland B.V. BlueSeal XE full-body MRI system with superconducting magnet, model 782192. The FSCA concerns a safety-related corrective action for this system; specific hazard details and required measures are provided in the manufacturer's field safety notice. Affected facilities should identify model 782192 devices, review the Philips notice, and implement the recommended actions promptly.
+
+**Tags**: `swissmedic`, `fsca`, `mri`, `philips`, `field_safety_corrective_action`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260902_004)
+
+---
+
+### Swissmedic FSCA: Philips BlueSeal SE Full-Body MRI System (Model 782185)
+
+**2026-09-09** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has published a Field Safety Corrective Action (FSCA) for the Philips Medical Systems Nederland B.V. BlueSeal SE full-body MRI system with superconducting magnet, model 782185. The published excerpt does not state the specific reason for the corrective action; affected facilities should consult the official Swissmedic FSCA entry and the Philips field safety notice for details. Users of this model should verify device status and follow the manufacturer's recommended actions.
+
+**Tags**: `swissmedic`, `fsca`, `mri_safety`, `philips_healthcare`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260902_004)
+
+---
+
+### Swissmedic FSCA: NOxBOXi Nitric Oxide Delivery Unit (NOXBOX-I) by NOxBOX Ltd
+
+**2026-09-09** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic has published a Field Safety Corrective Action (FSCA) for the NOxBOXi nitric oxide delivery unit, a system-based device manufactured by NOxBOX Ltd, affecting model NOXBOX-I. The published summary does not specify the detailed reason for the corrective action. Users and distributors should consult the official FSCA on the Swissmedic portal and follow any manufacturer instructions for affected devices.
+
+**Tags**: `swissmedic`, `fsca`, `nitric_oxide_delivery`, `medical_device`, `noxbox`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260903_045)
+
+---
+
+### Swissmedic FSCA: Dexcom G7 iOS CGM App SW12300 Language Update
+
+**2026-09-08** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic published a Field Safety Corrective Action for the Dexcom G7 iOS CGM App, model SW12300, manufactured by Dexcom, Inc. The action is due to the addition of a new language in the app. Users of the affected Dexcom G7 iOS CGM App should follow Dexcom's instructions and install the updated app version as recommended.
+
+**Tags**: `swissmedic`, `fsca`, `dexcom`, `cgm`, `software_update`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260821_006)
+
+---
+
+### Swissmedic FSCA: GE Healthcare Centricity PACS / Enterprise Archive Radiological PACS Software
+
+**2026-09-08** | Swissmedic | Safety Communication | !! MEDIUM
+
+This Swissmedic Field Safety Corrective Action (FSCA) concerns Centricity PACS and Enterprise Archive, radiological PACS software manufactured by GE Healthcare. The provided notice summary does not specify the reason or affected model/lot. Affected users should consult the official Swissmedic FSCA notice for corrective measures and implement any required actions.
+
+**Tags**: `swissmedic`, `fsca`, `radiology_pacs`, `ge_healthcare`, `software_correction`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260902_005)
+
+---
+
+### Swissmedic FSCA for Dexcom G7 Android CGM App (Model SW12299) by Dexcom, Inc.
+
+**2026-09-08** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic has published a Field Safety Corrective Action (FSCA) for the Dexcom G7 Android CGM App (model SW12299) by Dexcom, Inc., which is part of a percutaneous interstitial fluid glucose monitoring system. The FSCA concerns the Android application used with the Dexcom G7 continuous glucose monitoring system. Healthcare professionals and patients using this app should review the official Swissmedic notice and follow Dexcom’s recommended corrective actions, such as updating to a corrected software version or applying interim safety measures.
+
+**Tags**: `swissmedic`, `fsca`, `dexcom_g7`, `android_app`, `continuous_glucose_monitoring`, `software_correction`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260821_005)
+
+---
+
+### Dexcom G7 iOS CGM App - Dexcom, Inc.
+
+**2026-09-08** | Swissmedic | Safety Communication | !! MEDIUM
+
+FSCA: MD: Percutaneous interstitial fluid glucose monitoring system, electrochemical. Reason: . Model: SW12300 G7 App (iOS).
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260821_005)
+
+---
+
+### Swissmedic FSCA: NDI Passive Spheres by Northern Digital/Medtronic (Models 8801074, 8801075)
+
+**2026-09-08** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic has published a Field Safety Corrective Action for NDI Passive Spheres, manufactured by Northern Digital, Inc. and Medtronic Navigation Inc., used as consumables with stereotactic orthopaedic surgery instruments. The affected models are 8801074 and 8801075. The extracted notice does not specify the corrective reason; affected users should consult the official Swissmedic FSCA Vk_20260902_048 for required actions.
+
+**Tags**: `swissmedic`, `fsca`, `medical_device_safety`, `stereotactic_surgery`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260902_048)
+
+---
+
+### Swissmedic FSCA: Passive Biopsy Needle Kit Model 9733068 by Northern Digital/Medtronic Navigation
+
+**2026-09-08** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic published a Field Safety Corrective Action (FSCA) for the Passive Biopsy Needle Kit, a brain biopsy procedure kit, with model number 9733068. The listed manufacturer/sponsor is Northern Digital, Inc. / Medtronic Navigation Inc. The summary notice does not specify the detailed reason, so regulatory affairs professionals should review the full Swissmedic FSCA and follow the manufacturer’s corrective actions for affected units.
+
+**Tags**: `swissmedic`, `fsca`, `medical_device_recall`, `biopsy_needle_kit`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260902_048)
+
+---
+
+### Swissmedic FSCA: Fluoptics FLUOBEAM LX / FLUOSOFT LX, Model FSLX-CL
+
+**2026-09-08** | Swissmedic | Safety Communication | !! MEDIUM
+
+This Swissmedic FSCA concerns Fluoptics SAS's FLUOBEAM LX imaging system with the FLUOSOFT LX software accessory, specifically model FSLX-CL. The field safety corrective action relates to the software accessory used with bioimaging and radiotherapy instruments; the specific reason is not detailed in the Swissmedic entry. Regulatory affairs professionals should review the notice and follow Fluoptics SAS recommendations for affected model FSLX-CL.
+
+**Tags**: `swissmedic`, `fsca`, `medical_device_software`, `fluorescence_imaging`, `field_safety_corrective_action`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260902_001)
+
+---
+
+### Swissmedic FSCA: Philips IntelliVue Patient Monitor Affected Models 866471, 866470, 867130, etc.
+
+**2026-09-08** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has published a field safety corrective action for the IntelliVue Patient Monitor, manufactured by Philips France / Philips Medizin Systeme Böblingen GmbH, a multiple vital physiological parameter monitoring system. The affected models are 866471, 866470, 867130, 867133, 116465125, 116465126, 116465127, 121218694, and 121218695. The specific reason is not specified in the Swissmedic notice; users should check their inventory and contact Philips for corrective instructions.
+
+**Tags**: `swissmedic`, `fsca`, `patient_monitor`, `philips`, `medical_device_safety`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260827_018)
+
+---
+
+### Swissmedic FSCA: Quantum Pure Flow Standard Heat Exchanger High Flow 3/8 – Additional Affected Lots
+
+**2026-09-07** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic has updated a Field Safety Corrective Action (FSCA) for Spectrum Medical Srl's Quantum Pure Flow Standard Heat Exchanger High Flow 3/8, models HX55V-S0W and HX55V-S0, due to the addition of affected lot numbers. This update expands the scope of affected devices within the extracorporeal and assisted circulation device category. Users should review the updated FSCA, identify affected lots, and follow the manufacturer's corrective action.
+
+**Tags**: `swissmedic`, `fsca`, `extracorporeal_circulation`, `heat_exchanger`, `spectrum_medical`, `lot_expansion`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260825_009)
+
+---
+
+### Swissmedic FSCA: Promedon VICTO Artificial Urinary Sphincters
+
+**2026-09-07** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic has published a Field Safety Corrective Action (FSCA) for VICTO artificial urinary sphincters manufactured by Promedon S.A. The public alert does not state the specific reason; affected model and lot details are provided in the corresponding Field Safety Notice (FSN). Healthcare providers should consult the FSN and follow the manufacturer's corrective actions for impacted devices.
+
+**Tags**: `swissmedic`, `fsca`, `artificial_urinary_sphincter`, `promedon`, `medical_device_safety`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260824_012)
+
+---
+
 ### Automated Impella Controller (AIC) - Abiomed Inc
 
 **2026-09-03** | Swissmedic | Safety Communication | !! MEDIUM

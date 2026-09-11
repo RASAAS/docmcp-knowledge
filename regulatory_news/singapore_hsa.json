@@ -1,7 +1,32 @@
 {
   "framework": "singapore_hsa",
-  "last_updated": "2026-08-14T19:47:40Z",
+  "last_updated": "2026-09-11T21:40:39Z",
   "items": [
+    {
+      "id": "singapore_hsa_20260911_hsa_updates_gn_15_r14_guidance_on_medical_device_product_reg",
+      "framework": "singapore_hsa",
+      "category": "regulation_update",
+      "title": {
+        "en": "HSA Updates GN-15-R14 Guidance on Medical Device Product Registration (Sep 2026)",
+        "zh": "HSA更新医疗器械产品注册指南GN-15-R14（2026年9月）"
+      },
+      "summary": {
+        "en": "HSA has published revision R14 of GN-15 Guidance on Medical Device Product Registration, dated 10 September 2026. The update applies to manufacturers, importers, and registrants responsible for medical device registration in Singapore. Affected stakeholders should review the revised guidance and adjust registration dossiers and submission processes to meet the updated HSA requirements.",
+        "zh": "新加坡卫生科学局（HSA）发布了GN-15-R14《医疗器械产品注册指南》（2026年9月10日）。该更新适用于在新加坡负责医疗器械注册的制造商、进口商和注册人。相关方应审查修订内容，并相应调整注册申报资料和提交流程，以确保符合HSA最新要求。"
+      },
+      "source_url": "https://go.gov.sg/gn-15-r14-10-09-2026",
+      "source_name": "Official Source",
+      "published_date": "2026-09-01",
+      "detected_date": "2026-09-11T21:40:39Z",
+      "importance": "medium",
+      "tags": [
+        "singapore_hsa",
+        "medical_device_registration",
+        "guidance_update"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
     {
       "id": "singapore_hsa_20260814_hsa_publishes_summary_of_responses_to_public_consultation_fe",
       "framework": "singapore_hsa",
