@@ -10,7 +10,7 @@ export default {
       "link": "/zh/nmpa/guidance"
     },
     {
-      "text": "其他 (439)",
+      "text": "其他 (438)",
       "collapsed": true,
       "items": [
         {
@@ -68,10 +68,6 @@ export default {
         {
           "text": "HLA-B*27基因检测试剂注册审查指导原则",
           "link": "/zh/nmpa/guidance/nmpa-guidance-32939c0f1bcf"
-        },
-        {
-          "text": "HLA-B27基因检测试剂注册审查指导原则",
-          "link": "/zh/nmpa/guidance/nmpa-gp-hla-b27基因检测试剂注册审查指导原则-979bde"
         },
         {
           "text": "PD-L1抗体试剂及检测试剂盒注册审查指导原则",
@@ -1772,16 +1768,12 @@ export default {
       ]
     },
     {
-      "text": "骨科与植入器械 (29)",
+      "text": "骨科与植入器械 (28)",
       "collapsed": true,
       "items": [
         {
           "text": "04 骨科手术器械",
           "link": "/zh/nmpa/guidance/04-orthopedic-surgical"
-        },
-        {
-          "text": "个性化匹配骨植入物及工具医工交互质控审查指导原则",
-          "link": "/zh/nmpa/guidance/nmpa-gp-个性化匹配骨植入物及工具医工交互质控审查指导原则-f97374"
         },
         {
           "text": "乳房植入体产品注册审查指导原则（2024年修订版）",
@@ -2046,7 +2038,7 @@ export default {
       ]
     },
     {
-      "text": "心血管器械 (25)",
+      "text": "心血管器械 (24)",
       "collapsed": true,
       "items": [
         {
@@ -2100,10 +2092,6 @@ export default {
         {
           "text": "生物可吸收冠状动脉药物洗脱支架动物实验指导原则",
           "link": "/zh/nmpa/guidance/nmpa-guidance-a1a456a584d6"
-        },
-        {
-          "text": "生物可吸收冠状动脉药物洗脱支架动物实验研究指导原则",
-          "link": "/zh/nmpa/guidance/nmpa-gp-生物可吸收冠状动脉药物洗脱支架动物实验研究指导原则-213a48"
         },
         {
           "text": "神经和心血管手术器械-刀、剪及针注册审查指导原则",
@@ -3092,7 +3080,7 @@ export default {
       ]
     },
     {
-      "text": "灭菌与生物相容性 (9)",
+      "text": "灭菌与生物相容性 (8)",
       "collapsed": true,
       "items": [
         {
@@ -3122,10 +3110,6 @@ export default {
         {
           "text": "小型压力蒸汽灭菌器注册审查指导原则（2025年修订版）",
           "link": "/zh/nmpa/guidance/nmpa-gp-小型压力蒸汽灭菌器注册审查指导原则-2025年修订版-b1204e"
-        },
-        {
-          "text": "应用纳米材料的医疗器械安全性和有效性评价指导原则第三部分生物相容性毒理学评价",
-          "link": "/zh/nmpa/guidance/cmde-2024-23-1880"
         },
         {
           "text": "过氧化氢灭菌器注册审查指导原则",
