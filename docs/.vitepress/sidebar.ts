@@ -10,7 +10,7 @@ export default {
       "link": "/zh/nmpa/guidance"
     },
     {
-      "text": "其他 (460)",
+      "text": "其他 (467)",
       "collapsed": true,
       "items": [
         {
@@ -1010,6 +1010,10 @@ export default {
           "link": "/zh/nmpa/guidance/cmde-2025-20-1b27"
         },
         {
+          "text": "抗甲状腺过氧化物酶抗体测定试剂注册技术审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-抗甲状腺过氧化物酶抗体测定试剂注册技术审查指导原则-9991bb"
+        },
+        {
           "text": "抗缪勒管激素测定试剂注册审查指导原则",
           "link": "/zh/nmpa/guidance/nmpa-gp-抗缪勒管激素测定试剂注册审查指导原则-96fbb5"
         },
@@ -1140,6 +1144,10 @@ export default {
         {
           "text": "氨基酸、肉碱及琥珀酰丙酮检测试剂注册技术审查指导原则",
           "link": "/zh/nmpa/guidance/nmpa-gp-氨基酸-肉碱及琥珀酰丙酮检测试剂注册技术审查指导原则-d3ad0b"
+        },
+        {
+          "text": "沙眼衣原体和/或淋病奈瑟菌核酸检测试剂注册技术审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-沙眼衣原体和-或淋病奈瑟菌核酸检测试剂注册技术审查指导原则-d9ec71"
         },
         {
           "text": "泌乳素检测试剂注册技术审查指导原则",
@@ -1306,6 +1314,10 @@ export default {
           "link": "/zh/nmpa/guidance/nmpa-guidance-e145aa777ac4"
         },
         {
+          "text": "登革病毒核酸检测试剂注册技术审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-登革病毒核酸检测试剂注册技术审查指导原则-f484c0"
+        },
+        {
           "text": "白蛋白测定试剂（盒）注册审查指导原则（2024年修订版）",
           "link": "/zh/nmpa/guidance/cmde-2024-21-135a"
         },
@@ -1364,6 +1376,10 @@ export default {
         {
           "text": "窝沟封闭剂产品注册审查指导原则",
           "link": "/zh/nmpa/guidance/cmde-2022-41-2"
+        },
+        {
+          "text": "笑气吸入镇静镇痛装置注册技术审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-笑气吸入镇静镇痛装置注册技术审查指导原则-2a587d"
         },
         {
           "text": "第一类医疗器械产品目录",
@@ -1436,6 +1452,10 @@ export default {
         {
           "text": "肌电生物反馈治疗仪注册技术审查指导原则",
           "link": "/zh/nmpa/guidance/nmpa-gp-肌电生物反馈治疗仪注册技术审查指导原则-081dfc"
+        },
+        {
+          "text": "肌腱韧带固定系统注册技术审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-肌腱韧带固定系统注册技术审查指导原则-dbbf11"
         },
         {
           "text": "肌酐测定试剂注册技术审查指导原则",
@@ -1694,6 +1714,10 @@ export default {
           "link": "/zh/nmpa/guidance/cmde-2025-27-9638"
         },
         {
+          "text": "轮状病毒抗原检测试剂注册技术审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-轮状病毒抗原检测试剂注册技术审查指导原则-d67362"
+        },
+        {
           "text": "软性亲水接触镜说明书编写指导原则（2023年修订版）",
           "link": "/zh/nmpa/guidance/cmde-2023-9-5e81"
         },
@@ -1760,6 +1784,10 @@ export default {
         {
           "text": "金属骨针注册审查指导原则",
           "link": "/zh/nmpa/guidance/metal-bone-needle-2025"
+        },
+        {
+          "text": "金属髓内钉系统产品注册技术审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-金属髓内钉系统产品注册技术审查指导原则-17439a"
         },
         {
           "text": "金标类检测试剂注册技术审查指导原则",
@@ -1856,12 +1884,16 @@ export default {
       ]
     },
     {
-      "text": "骨科与植入器械 (29)",
+      "text": "骨科与植入器械 (31)",
       "collapsed": true,
       "items": [
         {
           "text": "04 骨科手术器械",
           "link": "/zh/nmpa/guidance/04-orthopedic-surgical"
+        },
+        {
+          "text": "个性化匹配骨植入物及工具医工交互质控审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-个性化匹配骨植入物及工具医工交互质控审查指导原则-f97374"
         },
         {
           "text": "乳房植入体产品注册审查指导原则（2024年修订版）",
@@ -1898,6 +1930,10 @@ export default {
         {
           "text": "定制式个性化骨植入物等效性模型注册技术审查指导原则",
           "link": "/zh/nmpa/guidance/nmpa-gp-定制式个性化骨植入物等效性模型注册技术审查指导原则-20b4fd"
+        },
+        {
+          "text": "整形用面部植入假体注册技术审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-整形用面部植入假体注册技术审查指导原则-de7c1f"
         },
         {
           "text": "无源植入器械通用名称命名指导原则",
@@ -2138,7 +2174,7 @@ export default {
       ]
     },
     {
-      "text": "心血管器械 (25)",
+      "text": "心血管器械 (27)",
       "collapsed": true,
       "items": [
         {
@@ -2182,6 +2218,10 @@ export default {
           "link": "/zh/nmpa/guidance/cmde-2014-5"
         },
         {
+          "text": "椎体成形球囊扩张导管注册技术审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-椎体成形球囊扩张导管注册技术审查指导原则-477bab"
+        },
+        {
           "text": "球囊扩张导管注册技术审查指导原则",
           "link": "/zh/nmpa/guidance/balloon-catheter-2020"
         },
@@ -2192,6 +2232,10 @@ export default {
         {
           "text": "生物可吸收冠状动脉药物洗脱支架动物实验指导原则",
           "link": "/zh/nmpa/guidance/nmpa-guidance-a1a456a584d6"
+        },
+        {
+          "text": "生物可吸收冠状动脉药物洗脱支架动物实验研究指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-生物可吸收冠状动脉药物洗脱支架动物实验研究指导原则-213a48"
         },
         {
           "text": "神经和心血管手术器械-刀、剪及针注册审查指导原则",
@@ -2474,7 +2518,7 @@ export default {
       ]
     },
     {
-      "text": "临床评价 (74)",
+      "text": "临床评价 (75)",
       "collapsed": true,
       "items": [
         {
@@ -2732,6 +2776,10 @@ export default {
         {
           "text": "脉搏血氧仪设备临床评价技术指导原则",
           "link": "/zh/nmpa/guidance/cmde-2016-21"
+        },
+        {
+          "text": "脊柱植入物临床评价质量控制注册技术审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-脊柱植入物临床评价质量控制注册技术审查指导原则-a90220"
         },
         {
           "text": "药物基因组相关基因检测试剂临床评价技术审查指导原则",

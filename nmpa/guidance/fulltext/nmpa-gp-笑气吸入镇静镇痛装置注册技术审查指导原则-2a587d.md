@@ -1,20 +1,3 @@
----
-id: nmpa-gp-笑气吸入镇静镇痛装置注册技术审查指导原则-ba8a10
-title:
-  zh: 笑气吸入镇静镇痛装置注册技术审查指导原则
-  en: ''
-regulation: nmpa
-category: nmpa/guidance
-status: active
-document_number: 国家药品监督管理局2020年第49号通告
-source_format: markdown
-translation: original
-effective_date: '2020-01-01'
-contributor: RASAAS
-promoted_from: fulltext
----
-# 笑气吸入镇静镇痛装置注册技术审查指导原则
-
 <!-- source: cmde-skill-batch 笑气吸入镇静镇痛装置注册技术审查指导原则（2020年第49号）.doc -->
 <!-- source_url: https://www.cmde.org.cn/flfg/zdyz/zdyzwbk/20200721133234822.html -->
 <!-- title: 笑气吸入镇静镇痛装置注册技术审查指导原则 -->

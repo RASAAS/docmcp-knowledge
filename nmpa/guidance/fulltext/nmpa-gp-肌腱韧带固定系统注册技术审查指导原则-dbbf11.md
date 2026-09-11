@@ -1,20 +1,3 @@
----
-id: nmpa-gp-肌腱韧带固定系统注册技术审查指导原则-fbf1f6
-title:
-  zh: 肌腱韧带固定系统注册技术审查指导原则
-  en: ''
-regulation: nmpa
-category: nmpa/guidance
-status: active
-document_number: 国家药品监督管理局2020年第36号通告
-source_format: markdown
-translation: original
-effective_date: '2020-01-01'
-contributor: RASAAS
-promoted_from: fulltext
----
-# 肌腱韧带固定系统注册技术审查指导原则
-
 <!-- source: cmde-skill-batch 肌腱韧带固定系统注册技术审查指导原则（2020年第36号）.doc -->
 <!-- source_url: https://www.cmde.org.cn/flfg/zdyz/zdyzwbk/20200605153959239.html -->
 <!-- title: 肌腱韧带固定系统注册技术审查指导原则 -->

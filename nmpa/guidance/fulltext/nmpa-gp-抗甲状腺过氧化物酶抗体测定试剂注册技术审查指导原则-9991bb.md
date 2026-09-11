@@ -1,20 +1,3 @@
----
-id: nmpa-gp-抗甲状腺过氧化物酶抗体测定试剂注册技术审查指导原则-d25114
-title:
-  zh: 抗甲状腺过氧化物酶抗体测定试剂注册技术审查指导原则
-  en: ''
-regulation: nmpa
-category: nmpa/guidance
-status: active
-document_number: 国家药品监督管理局2020年第14号通告
-source_format: markdown
-translation: original
-effective_date: '2020-01-01'
-contributor: RASAAS
-promoted_from: fulltext
----
-# 抗甲状腺过氧化物酶抗体测定试剂注册技术审查指导原则
-
 <!-- source: cmde-skill-batch 抗甲状腺过氧化物酶抗体测定试剂注册技术审查指导原则（2020年第14号）.docx -->
 <!-- source_url: https://www.cmde.org.cn/flfg/zdyz/zdyzwbk/20200312134141300.html -->
 <!-- title: 抗甲状腺过氧化物酶抗体测定试剂注册技术审查指导原则 -->
