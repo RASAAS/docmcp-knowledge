@@ -527,10 +527,15 @@ def _title_keywords(title: str) -> set[str]:
 def _normalize_title(title: str) -> str:
     """Normalize a Chinese title for comparison (remove spaces, punct variants)."""
     t = re.sub(r'\s+', '', title)
-    t = t.replace('/', '').replace('（', '(').replace('）', ')')
+    t = t.replace('/', '').replace('／', '')
+    t = t.replace('（', '(').replace('）', ')')
+    t = t.replace('：', '').replace(':', '')
+    t = t.replace('*', '').replace('＊', '')
     t = re.sub(r'\(\d{4}年.*?\)', '', t)
     # Official CMDE docs interchangeably use 实验/试验 (e.g. 回收实验 vs 回收试验)
     t = t.replace('实验', '试验')
+    # NOTE: do NOT rewrite 技术审查↔注册审查 here — that creates false
+    # containment hits when a body cites a differently-phrased sibling title.
     return t
 
 
@@ -663,11 +668,17 @@ def _near_title_match(norm_expected: str, norm_first: str) -> bool:
         return False
     # Prefer matching against an early heading-like span containing 指导原则
     heading = ""
-    for m in re.finditer(r".{0,40}指导原则", norm_first[:800]):
+    for m in re.finditer(r".{0,80}指导原则", norm_first[:1200]):
         cand = m.group(0)
+        # Drop leading markdown / 附件N noise that breaks containment checks
+        cand = re.sub(r'^[#\s]*附件\d*', '', cand)
+        cand = re.sub(r'^#+', '', cand)
         if len(cand) >= 10:
             heading = cand
             break
+    # Also allow full early window containment (wrapped titles with ： /)
+    if norm_expected in norm_first[:400]:
+        return True
     target = heading or norm_first[:120]
     if not target:
         return False

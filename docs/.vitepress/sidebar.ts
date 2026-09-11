@@ -10,7 +10,7 @@ export default {
       "link": "/zh/nmpa/guidance"
     },
     {
-      "text": "其他 (467)",
+      "text": "其他 (474)",
       "collapsed": true,
       "items": [
         {
@@ -74,6 +74,10 @@ export default {
           "link": "/zh/nmpa/guidance/nmpa-guidance-32939c0f1bcf"
         },
         {
+          "text": "HLA-B27基因检测试剂注册审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-hla-b27基因检测试剂注册审查指导原则-979bde"
+        },
+        {
           "text": "PD-L1抗体试剂及检测试剂盒注册审查指导原则",
           "link": "/zh/nmpa/guidance/cmde-2025-29"
         },
@@ -112,6 +116,10 @@ export default {
         {
           "text": "一次性使用人体动脉血样采集器注册审查指导原则",
           "link": "/zh/nmpa/guidance/cmde-2023-17-02af"
+        },
+        {
+          "text": "一次性使用侧孔钝针技术审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-一次性使用侧孔钝针技术审查指导原则-92f714"
         },
         {
           "text": "一次性使用内镜用活体取样钳注册技术审查指导原则",
@@ -330,6 +338,10 @@ export default {
           "link": "/zh/nmpa/guidance/cmde-2020-16-8b98"
         },
         {
+          "text": "乙型肝炎病毒脱氧核糖核酸检测试剂注册审查指导原则（2023年修订版）",
+          "link": "/zh/nmpa/guidance/nmpa-gp-乙型肝炎病毒脱氧核糖核酸检测试剂注册审查指导原则-2023年-05512f"
+        },
+        {
           "text": "乳酸脱氢酶测定试剂盒注册审查指导原则（2024年修订版）",
           "link": "/zh/nmpa/guidance/cmde-2024-19-376f"
         },
@@ -386,6 +398,10 @@ export default {
           "link": "/zh/nmpa/guidance/nmpa-gp-人红细胞反定型试剂注册技术审查指导原则-02c755"
         },
         {
+          "text": "人细小病毒B19 IgM/IgG抗体检测试剂注册技术审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-人细小病毒b19-igm-igg抗体检测试剂注册技术审查指导-90a4f9"
+        },
+        {
           "text": "人绒毛膜促性腺激素检测试剂（胶体金免疫层析法）注册审查指导原则（2024年修订版）",
           "link": "/zh/nmpa/guidance/cmde-2024-21-7a00"
         },
@@ -412,6 +428,10 @@ export default {
         {
           "text": "体外同步复律产品注册技术审查指导原则",
           "link": "/zh/nmpa/guidance/cmde-2020-42"
+        },
+        {
+          "text": "体外膜氧合（ECMO）循环套包注册审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-体外膜氧合-ecmo-循环套包注册审查指导原则-8d72b4"
         },
         {
           "text": "体外膜肺氧合（ECMO）温度控制设备注册审查指导原则",
@@ -840,6 +860,10 @@ export default {
         {
           "text": "定量剪切波超声肝脏测量仪注册审查指导原则",
           "link": "/zh/nmpa/guidance/cmde-2023-7"
+        },
+        {
+          "text": "实时荧光PCR分析仪注册技术审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-实时荧光pcr分析仪注册技术审查指导原则-dbaf26"
         },
         {
           "text": "宫内节育器注册技术审查指导原则",
@@ -1508,6 +1532,10 @@ export default {
         {
           "text": "胃管产品注册审查指导原则（2024年修订版）",
           "link": "/zh/nmpa/guidance/nmpa-gp-胃管产品注册审查指导原则-2024年修订版-b63d6f"
+        },
+        {
+          "text": "胃蛋白酶原I II检测试剂注册审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-胃蛋白酶原i-ii检测试剂注册审查指导原则-59f5d1"
         },
         {
           "text": "胰岛素泵注册审查指导原则（2023年第26号）",
@@ -2518,7 +2546,7 @@ export default {
       ]
     },
     {
-      "text": "临床评价 (75)",
+      "text": "临床评价 (76)",
       "collapsed": true,
       "items": [
         {
@@ -2564,6 +2592,10 @@ export default {
         {
           "text": "体外诊断试剂临床试验技术指导原则(2021年修订版)",
           "link": "/zh/nmpa/guidance/cmde-2021-72"
+        },
+        {
+          "text": "体外诊断试剂临床试验数据递交要求注册审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-体外诊断试剂临床试验数据递交要求注册审查指导原则-b4ca49"
         },
         {
           "text": "使用体外诊断试剂境外临床试验数据的注册审查指导原则",
@@ -2922,7 +2954,7 @@ export default {
       ]
     },
     {
-      "text": "影像与诊断器械 (54)",
+      "text": "影像与诊断器械 (55)",
       "collapsed": true,
       "items": [
         {
@@ -3052,6 +3084,10 @@ export default {
         {
           "text": "摄影X射线机注册审查指导原则（2024年修订版）",
           "link": "/zh/nmpa/guidance/cmde-2024-19-4"
+        },
+        {
+          "text": "正电子发射 X射线计算机断层成像系统（数字化技术专用）注册审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-正电子发射-x射线计算机断层成像系统-数字化技术专用-注册审-756b84"
         },
         {
           "text": "正电子发射/X射线计算机断层成像系统注册技术审查指导原则",
@@ -3276,7 +3312,7 @@ export default {
       ]
     },
     {
-      "text": "灭菌与生物相容性 (8)",
+      "text": "灭菌与生物相容性 (9)",
       "collapsed": true,
       "items": [
         {
@@ -3306,6 +3342,10 @@ export default {
         {
           "text": "小型压力蒸汽灭菌器注册审查指导原则（2025年修订版）",
           "link": "/zh/nmpa/guidance/nmpa-gp-小型压力蒸汽灭菌器注册审查指导原则-2025年修订版-b1204e"
+        },
+        {
+          "text": "应用纳米材料的医疗器械安全性和有效性评价指导原则第三部分生物相容性毒理学评价",
+          "link": "/zh/nmpa/guidance/cmde-2024-23-1880"
         },
         {
           "text": "过氧化氢灭菌器注册审查指导原则",

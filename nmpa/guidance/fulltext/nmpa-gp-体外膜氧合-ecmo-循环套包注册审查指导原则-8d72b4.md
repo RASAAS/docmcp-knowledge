@@ -1,20 +1,3 @@
----
-id: nmpa-gp-体外膜氧合-ecmo-循环套包注册审查指导原则-b42df7
-title:
-  zh: 体外膜氧合（ECMO）循环套包注册审查指导原则
-  en: ''
-regulation: nmpa
-category: nmpa/guidance
-status: active
-document_number: 国家药品监督管理局2021年第103号通告
-source_format: markdown
-translation: original
-effective_date: '2021-01-01'
-contributor: RASAAS
-promoted_from: fulltext
----
-# 体外膜氧合（ECMO）循环套包注册审查指导原则
-
 <!-- source: cmde-skill-batch 体外膜氧合（ECMO）循环套包注册审查指导原则（2021年第103号）.docx -->
 <!-- source_url: https://www.cmde.org.cn/flfg/zdyz/zdyzwbk/20211222094539242.html -->
 <!-- title: 体外膜氧合（ECMO）循环套包注册审查指导原则 -->

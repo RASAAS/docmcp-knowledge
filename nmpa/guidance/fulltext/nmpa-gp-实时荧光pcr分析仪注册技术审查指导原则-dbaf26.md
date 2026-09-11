@@ -1,20 +1,3 @@
----
-id: nmpa-gp-实时荧光pcr分析仪注册技术审查指导原则-4dff58
-title:
-  zh: 实时荧光PCR分析仪注册技术审查指导原则
-  en: ''
-regulation: nmpa
-category: nmpa/guidance
-status: active
-document_number: 国家药品监督管理局2021年第24号通告
-source_format: markdown
-translation: original
-effective_date: '2021-01-01'
-contributor: RASAAS
-promoted_from: fulltext
----
-# 实时荧光PCR分析仪注册技术审查指导原则
-
 <!-- source: cmde-skill-batch 实时荧光PCR分析仪注册技术审查指导原则（2021年第24号）.docx -->
 <!-- source_url: https://www.cmde.org.cn/flfg/zdyz/zdyzwbk/20210416143735786.html -->
 <!-- title: 实时荧光PCR分析仪注册技术审查指导原则 -->
