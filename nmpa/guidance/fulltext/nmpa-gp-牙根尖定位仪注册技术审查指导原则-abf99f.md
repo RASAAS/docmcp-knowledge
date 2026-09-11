@@ -1,19 +1,3 @@
----
-id: nmpa-gp-牙根尖定位仪注册技术审查指导原则-ae1ff8
-title:
-  zh: 牙根尖定位仪注册技术审查指导原则
-  en: ''
-regulation: nmpa
-category: nmpa/guidance
-status: active
-document_number: 国家药品监督管理局2019年第79号通告
-source_url: "https://www.situcro.com/news/5477.html"
-source_format: markdown
-translation: original
-effective_date: '2019-01-01'
-contributor: RASAAS
-promoted_from: fulltext
----
 # 牙根尖定位仪注册技术审查指导原则
 
 **国家药品监督管理局2019年第79号通告**

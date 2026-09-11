@@ -10,7 +10,7 @@ export default {
       "link": "/zh/nmpa/guidance"
     },
     {
-      "text": "其他 (438)",
+      "text": "其他 (441)",
       "collapsed": true,
       "items": [
         {
@@ -806,6 +806,10 @@ export default {
           "link": "/zh/nmpa/guidance/cmde-2023-7"
         },
         {
+          "text": "宫内节育器注册技术审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-宫内节育器注册技术审查指导原则-81017f"
+        },
+        {
           "text": "寨卡病毒核酸检测试剂注册审查指导原则",
           "link": "/zh/nmpa/guidance/cmde-2024-1-ace3"
         },
@@ -1398,6 +1402,10 @@ export default {
           "link": "/zh/nmpa/guidance/cmde-2026-4-bc67"
         },
         {
+          "text": "肠内营养泵注册技术审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-肠内营养泵注册技术审查指导原则-b56a61"
+        },
+        {
           "text": "肠道水疗机注册审查指导原则",
           "link": "/zh/nmpa/guidance/nmpa-gp-肠道水疗机注册审查指导原则-36028f"
         },
@@ -1694,6 +1702,10 @@ export default {
           "link": "/zh/nmpa/guidance/cmde-2024-19-10"
         },
         {
+          "text": "防褥疮气床垫注册技术审查指导原则（2017年修订版）",
+          "link": "/zh/nmpa/guidance/nmpa-gp-防褥疮气床垫注册技术审查指导原则-2017年修订版-0d1c53"
+        },
+        {
           "text": "降钙素原检测试剂注册技术审查指导原则",
           "link": "/zh/nmpa/guidance/cmde-2019-11-f457"
         },
@@ -1768,7 +1780,7 @@ export default {
       ]
     },
     {
-      "text": "骨科与植入器械 (28)",
+      "text": "骨科与植入器械 (29)",
       "collapsed": true,
       "items": [
         {
@@ -1850,6 +1862,10 @@ export default {
         {
           "text": "牙科种植体（系统）注册审查指导原则（2024年修订版）",
           "link": "/zh/nmpa/guidance/cmde-2024-24-3cad"
+        },
+        {
+          "text": "牙科种植手术用钻注册技术审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-牙科种植手术用钻注册技术审查指导原则-bae842"
         },
         {
           "text": "牙科种植机注册技术审查指导原则",
@@ -2652,7 +2668,7 @@ export default {
       ]
     },
     {
-      "text": "口腔器械 (22)",
+      "text": "口腔器械 (23)",
       "collapsed": true,
       "items": [
         {
@@ -2686,6 +2702,10 @@ export default {
         {
           "text": "增材制造口腔修复用激光选区熔化金属材料注册审查指导原则",
           "link": "/zh/nmpa/guidance/cmde-2022-5"
+        },
+        {
+          "text": "牙根尖定位仪注册技术审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-牙根尖定位仪注册技术审查指导原则-abf99f"
         },
         {
           "text": "牙科喷砂粉注册审查指导原则",
