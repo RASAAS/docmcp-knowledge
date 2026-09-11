@@ -1,20 +1,3 @@
----
-id: nmpa-gp-血浆速冻机注册技术审查指导原则-7dd935
-title:
-  zh: 血浆速冻机注册技术审查指导原则
-  en: ''
-regulation: nmpa
-category: nmpa/guidance
-status: active
-document_number: 国家药品监督管理局2019年第79号通告
-source_format: markdown
-translation: original
-effective_date: '2019-01-01'
-contributor: RASAAS
-promoted_from: fulltext
----
-# 血浆速冻机注册技术审查指导原则
-
 <!-- source: cmde-skill-batch 血浆速冻机注册技术审查指导原则_2019年第79号.doc -->
 <!-- source_url: https://www.cmde.org.cn/flfg/zdyz/zdyzwbk/20191118135913996.html -->
 <!-- title: 血浆速冻机注册技术审查指导原则 -->

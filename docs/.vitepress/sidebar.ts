@@ -10,7 +10,7 @@ export default {
       "link": "/zh/nmpa/guidance"
     },
     {
-      "text": "其他 (453)",
+      "text": "其他 (460)",
       "collapsed": true,
       "items": [
         {
@@ -260,6 +260,10 @@ export default {
         {
           "text": "一氧化氮治疗仪注册审查指导原则",
           "link": "/zh/nmpa/guidance/cmde-2024-8-c4fe"
+        },
+        {
+          "text": "上下肢主被动运动康复训练设备注册技术审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-上下肢主被动运动康复训练设备注册技术审查指导原则-52cb23"
         },
         {
           "text": "丙型肝炎病毒抗体检测试剂注册审查指导原则",
@@ -790,6 +794,14 @@ export default {
           "link": "/zh/nmpa/guidance/nmpa-gp-地中海贫血相关基因检测试剂注册技术审查指导原则-b6be64"
         },
         {
+          "text": "基于核酸检测方法的金黄色葡萄球菌和耐甲氧西林金黄色葡萄球菌检测试剂注册技术审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-基于核酸检测方法的金黄色葡萄球菌和耐甲氧西林金黄色葡萄球菌检-fca756"
+        },
+        {
+          "text": "基于细胞荧光原位杂交法的人类染色体异常检测试剂注册技术审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-基于细胞荧光原位杂交法的人类染色体异常检测试剂注册技术审查指-db7837"
+        },
+        {
           "text": "基孔肯雅病毒核酸检测试剂技术审评要点（试行）",
           "link": "/zh/nmpa/guidance/nmpa-guidance-bf095b5feb1e"
         },
@@ -844,6 +856,10 @@ export default {
         {
           "text": "小针刀产品注册审查指导原则",
           "link": "/zh/nmpa/guidance/cmde-2022-43"
+        },
+        {
+          "text": "尿动力学分析仪注册技术审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-尿动力学分析仪注册技术审查指导原则-5f029a"
         },
         {
           "text": "尿液分析仪注册审查指导原则（2024年修订版）",
@@ -1418,6 +1434,10 @@ export default {
           "link": "/zh/nmpa/guidance/nmpa-gp-缺血修饰白蛋白测定试剂盒注册审查指导原则-2024年修订版-aa5908"
         },
         {
+          "text": "肌电生物反馈治疗仪注册技术审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-肌电生物反馈治疗仪注册技术审查指导原则-081dfc"
+        },
+        {
           "text": "肌酐测定试剂注册技术审查指导原则",
           "link": "/zh/nmpa/guidance/cmde-2020-14-c8de"
         },
@@ -1444,6 +1464,10 @@ export default {
         {
           "text": "肠道病毒核酸检测试剂注册技术审查指导原则",
           "link": "/zh/nmpa/guidance/cmde-2018-36-1"
+        },
+        {
+          "text": "肢体加压理疗设备注册技术审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-肢体加压理疗设备注册技术审查指导原则-b5cd05"
         },
         {
           "text": "肺炎支原体IgMIgG抗体检测试剂注册技术审查指导原则",
@@ -1560,6 +1584,10 @@ export default {
         {
           "text": "血流变分析仪注册审查指导原则",
           "link": "/zh/nmpa/guidance/blood-rheology-analyzer"
+        },
+        {
+          "text": "血浆速冻机注册技术审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-血浆速冻机注册技术审查指导原则-0d8cf5"
         },
         {
           "text": "血液浓缩器注册技术审查指导原则",
@@ -2110,7 +2138,7 @@ export default {
       ]
     },
     {
-      "text": "心血管器械 (24)",
+      "text": "心血管器械 (25)",
       "collapsed": true,
       "items": [
         {
@@ -2194,6 +2222,10 @@ export default {
           "link": "/zh/nmpa/guidance/cmde-2025-27-5"
         },
         {
+          "text": "辅助生殖用胚胎移植导管注册技术审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-辅助生殖用胚胎移植导管注册技术审查指导原则-8206a0"
+        },
+        {
           "text": "输尿管支架注册审查指导原则",
           "link": "/zh/nmpa/guidance/cmde-2022-41-a0cb"
         },
@@ -2212,7 +2244,7 @@ export default {
       ]
     },
     {
-      "text": "呼吸器械 (19)",
+      "text": "呼吸器械 (20)",
       "collapsed": true,
       "items": [
         {
@@ -2242,6 +2274,10 @@ export default {
         {
           "text": "呼吸系统过滤器注册审查指导原则（2023年第22号）",
           "link": "/zh/nmpa/guidance/bsf-guidance"
+        },
+        {
+          "text": "呼吸道病毒多重核酸检测试剂注册技术审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-呼吸道病毒多重核酸检测试剂注册技术审查指导原则-92a955"
         },
         {
           "text": "呼吸面罩注册审查指导原则",
@@ -2340,7 +2376,7 @@ export default {
       ]
     },
     {
-      "text": "注册申报 (22)",
+      "text": "注册申报 (23)",
       "collapsed": true,
       "items": [
         {
@@ -2408,6 +2444,10 @@ export default {
           "link": "/zh/nmpa/guidance/nmpa-notice-2020-104"
         },
         {
+          "text": "心肺转流系统 体外循环管道注册申报技术审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-心肺转流系统-体外循环管道注册申报技术审查指导原则-e09c86"
+        },
+        {
           "text": "无源植入性医疗器械产品注册申报资料指导原则",
           "link": "/zh/nmpa/guidance/cmde-2009-519"
         },
@@ -2434,7 +2474,7 @@ export default {
       ]
     },
     {
-      "text": "临床评价 (73)",
+      "text": "临床评价 (74)",
       "collapsed": true,
       "items": [
         {
@@ -2674,6 +2714,10 @@ export default {
           "link": "/zh/nmpa/guidance/cmde-2020-77"
         },
         {
+          "text": "离心式血液成分分离设备临床评价注册技术审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-离心式血液成分分离设备临床评价注册技术审查指导原则-449022"
+        },
+        {
           "text": "经导管植入式人工主动脉瓣膜临床试验指导原则",
           "link": "/zh/nmpa/guidance/cmde-2019-8"
         },
@@ -2830,7 +2874,7 @@ export default {
       ]
     },
     {
-      "text": "影像与诊断器械 (53)",
+      "text": "影像与诊断器械 (54)",
       "collapsed": true,
       "items": [
         {
@@ -2908,6 +2952,10 @@ export default {
         {
           "text": "医用射线防护喷剂注册审查指导原则",
           "link": "/zh/nmpa/guidance/medical-radiation-protection-sprays"
+        },
+        {
+          "text": "医用诊断X射线管组件注册技术审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-医用诊断x射线管组件注册技术审查指导原则-60f845"
         },
         {
           "text": "单光子发射X射线计算机断层成像系统注册审查指导原则",

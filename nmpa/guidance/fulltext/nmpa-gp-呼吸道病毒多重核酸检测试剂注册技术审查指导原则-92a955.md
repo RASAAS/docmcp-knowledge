@@ -1,20 +1,3 @@
----
-id: nmpa-gp-呼吸道病毒多重核酸检测试剂注册技术审查指导原则-7ab082
-title:
-  zh: 呼吸道病毒多重核酸检测试剂注册技术审查指导原则
-  en: ''
-regulation: nmpa
-category: nmpa/guidance
-status: active
-document_number: 国家药品监督管理局2019年第80号通告
-source_format: markdown
-translation: original
-effective_date: '2019-01-01'
-contributor: RASAAS
-promoted_from: fulltext
----
-# 呼吸道病毒多重核酸检测试剂注册技术审查指导原则
-
 <!-- source: cmde-skill-batch 呼吸道病毒多重核酸检测试剂注册技术审查指导原则_2019年第80号.docx -->
 <!-- source_url: https://www.cmde.org.cn/flfg/zdyz/zdyzwbk/20191118140757478.html -->
 <!-- title: 呼吸道病毒多重核酸检测试剂注册技术审查指导原则 -->
