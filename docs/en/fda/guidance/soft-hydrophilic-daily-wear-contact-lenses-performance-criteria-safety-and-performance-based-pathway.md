@@ -296,9 +296,9 @@ Properties
 ·
 We recommend measurement of the UV transmittance with the thinnest version 
 of the UV lens to be marketed
-Performance Criteria (polymacon): τUVB < 0.05 τV; τUVA < 0.50 τV
-Performance Criteria (etafilcon A): τUVB < 0.05 τV; τUVA < 0.50 τV
-Performance Criteria (hioxifilcon D): τUVB < 0.05 τV; τUVA < 0.50 τV
+Performance Criteria (polymacon): τUVB &lt; 0.05 τV; τUVA &lt; 0.50 τV
+Performance Criteria (etafilcon A): τUVB &lt; 0.05 τV; τUVA &lt; 0.50 τV
+Performance Criteria (hioxifilcon D): τUVB &lt; 0.05 τV; τUVA &lt; 0.50 τV
 τV = luminous transmittance of the contact lens, τUVB and τUVA are the average ultraviolet 
 radiation transmittances of the contact lens, summated over the UVB (280 nm to 315 nm) 
 and the UVA (316 nm to 380 nm) wavelengths respectively
@@ -382,7 +382,7 @@ Performance Criteria Source: Criteria are based on aggregated data submitted to 
 Ophthalmic optics - Contact lenses - Part 2: Tolerances for tolerances.
 Submission Information: Results summary and DoC
 7.
-Test name: Extractables (< 1% with water and hexane) 
+Test name: Extractables (&lt; 1% with water and hexane) 
 Methodology: One of the following FDA currently-recognized consensus standards (as 
 applicable):
 ·
@@ -392,9 +392,9 @@ properties of contact lens materials
 ANSI Z80.20 American National Standard for Ophthalmics - Contact Lenses - 
 Standard Terminology, Tolerances, Measurements and Physicochemical 
 Properties
-Performance Criteria (polymacon): <1% extractables, hexane and water
-Performance Criteria (etafilcon A): <1% extractables, hexane and water
-Performance Criteria (hioxifilcon D): <1% extractables, hexane and water
+Performance Criteria (polymacon): &lt;1% extractables, hexane and water
+Performance Criteria (etafilcon A): &lt;1% extractables, hexane and water
+Performance Criteria (hioxifilcon D): &lt;1% extractables, hexane and water
 Performance Criteria Source: Criteria are based on aggregated data submitted to FDA in 
 510(k) submissions previously found to be substantially equivalent.
 Submission Information: Results summary and DoC

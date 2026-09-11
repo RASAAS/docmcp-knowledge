@@ -974,7 +974,7 @@ The MR Unsafe symbol and/or the term “MR Unsafe,” and
 ·
 A statement such as: “This person &lt;choose “is implanted with” or “has”&gt; a 
 &lt;insert medical device name&gt;. Do not enter an MRI scanner room or an MR 
-system. Doing so may result in <choose one or more of “injury” or “severe 
+system. Doing so may result in &lt;choose one or more of “injury” or “severe 
 injury” and/or “death”> and
 ·
 URL and/or phone number for the medical device manufacturer.
@@ -1007,9 +1007,9 @@ The MR Conditional symbol and/or the term “MR Conditional,” and
 A statement such as: “This person &lt;choose “is implanted with” or “has”&gt; a 
 &lt;insert medical device name&gt; and can safely undergo an MR exam only 
 under very specific conditions. Scanning under different conditions may 
-result in <choose one or more of “injury” or “severe injury” and/or 
+result in &lt;choose one or more of “injury” or “severe injury” and/or 
 “death”> or device malfunction. Full MRI safety information is available in 
-the MRI Safety Information section of the <insert name of 
+the MRI Safety Information section of the &lt;insert name of 
 document/manual containing MRI safety information>, which can be 
 obtained at www.&lt;insert URL&gt; or by calling &lt;insert phone number&gt;.”
 Patient medical device cards for specific medical device types may need additional 
@@ -1057,7 +1057,7 @@ Maximum B1+rms value [mT] if applicable
 7.
 Scan duration and wait time (e.g., “Scan for up to &lt;insert number&gt; minutes in a 
 &lt;insert number&gt; minute time period. Wait &lt;insert number&gt; minutes before the next 
-imaging session” or “&lt;insert number&gt; W/kg whole-body average SAR for <insert 
+imaging session” or “&lt;insert number&gt; W/kg whole-body average SAR for &lt;insert 
 number> minutes of continuous RF (a sequence or back to back series/scan without 
 breaks) followed by a wait time of &lt;insert number&gt; minutes if this limit is reached.”)
 8. MR exam exclusion zones and information on patient position relative to the MR 
@@ -1443,7 +1443,7 @@ Contains Nonbinding Recommendations
 29
 MRI Safety Information
 The &lt;insert device name&gt; may be safely used in the MR environment under the following 
-conditions. Failure to follow these conditions may result in <choose one or more of “injury” or 
+conditions. Failure to follow these conditions may result in &lt;choose one or more of “injury” or 
 “serious injury”, and/or “death.”>.
 Name/Identification of medical device
 Maximum static magnetic field [mT] and 

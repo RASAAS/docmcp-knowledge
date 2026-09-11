@@ -323,7 +323,7 @@ related procedure(s) pose.
 A common consideration for feasibility and early feasibility clinical studies examining the 
 potential for improving glycemic control in patients with T2DM is that patient treatment targets 
 should be met. The clinical practice guidelines referenced in this guidance recommend the target 
-HbA1c of < 7% or 8%, depending upon the patient’s needs. Some patients may have higher 
+HbA1c of &lt; 7% or 8%, depending upon the patient’s needs. Some patients may have higher 
 HbA1c targets based upon a complex medical history, additional risks from hypoglycemia, 
 and/or shortened life expectancy, but depending on the device and study design, patients who are 
 at their HbA1c target may not be appropriate for inclusion in a feasibility study. Sponsors should 
@@ -509,9 +509,9 @@ HbA1c level) should be built into the clinical study protocol. We recommend that
 patients be assessed at least every three months to consider dose escalation and or 
 addition of another diabetes medication. If at the three-month period glycemic indices 
 have not improved, rescue therapy should be considered. For example, sponsors could 
-consider rescue therapy if HbA1c is not < 8%, or the interval improvement has not been 
+consider rescue therapy if HbA1c is not &lt; 8%, or the interval improvement has not been 
 > 0.5%. At minimum, if at the six-month period the subject has not met treatment targets 
-or an HbA1c < 8%, rescue therapy should again be considered. Though HbA1c of 8% is 
+or an HbA1c &lt; 8%, rescue therapy should again be considered. Though HbA1c of 8% is 
 above most patients’ desired target HbA1c, we recommend the 8% limit to initiate rescue 
 medication to allow the medical device/procedure to demonstrate its potential therapeutic 
 effect, while protecting the subject from prolonged hyperglycemia over the short term. 

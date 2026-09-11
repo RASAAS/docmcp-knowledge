@@ -237,7 +237,7 @@ cytotoxicity
 and skin sensitization 
 • ISO 10993-11: Biological evaluation of medical devices – Part 11: Tests for systemic 
 toxicity 
-• USP <151>: Pyrogen Test 
+• USP &lt;151>: Pyrogen Test 
 • ISO 10993-12: Biological evaluation of medical devices – Part 12: Sample 
 preparation and reference materials 
 The eligible test methods included in the ASCA Pilot for biocompatibility testing of medical 
@@ -911,7 +911,7 @@ For hemolysis testing (per ASTM F756):
 - 
 the positive control material mean hemolytic index is ≥ 5%  
 - 
-the negative control material mean hemolytic index is < 2%  
+the negative control material mean hemolytic index is &lt; 2%  
 • 
 For complement activation testing using SC5b-9 (a product of the terminal 
 pathway for complement activation),  
@@ -1321,7 +1321,7 @@ protocol and data between the complete test report and the supplemental
 documentation: (e.g., Appendix A of this premarket 
 submission)________________________________________ 
  
-<Repeat for each standard in DOC> 
+&lt;Repeat for each standard in DOC> 
  
 Limitations on Validity of DOC
 
@@ -1460,7 +1460,7 @@ Contains Nonbinding Recommendations
 Extraction Ratio: 
  
  
-  6cm2/ml (<0.5mm thick) 
+  6cm2/ml (&lt;0.5mm thick) 
  
  
   3cm2/ml (0.5-1.0mm thick or molded items > 1.0mm) 
@@ -1798,7 +1798,7 @@ Contains Nonbinding Recommendations
 Extraction Ratio: 
  
  
-  6cm2/ml (<0.5mm thick) 
+  6cm2/ml (&lt;0.5mm thick) 
  
  
   3cm2/ml (0.5-1.0mm thick or molded items > 1.0mm) 
@@ -2030,7 +2030,7 @@ Extraction Solvent:
 Extraction Ratio: 
  
  
-  6cm2/ml (<0.5mm thick) 
+  6cm2/ml (&lt;0.5mm thick) 
  
  
   3cm2/ml (0.5-1.0mm thick or molded items > 1.0mm) 
@@ -2408,7 +2408,7 @@ Contains Nonbinding Recommendations
 Extraction Ratio: 
  
  
-  6cm2/ml (<0.5mm thick) 
+  6cm2/ml (&lt;0.5mm thick) 
  
  
   3cm2/ml (0.5-1.0mm thick or molded items > 1.0mm) 
@@ -2860,7 +2860,7 @@ Extraction Solvent:
 Extraction Ratio: 
  
  
-  6cm2/ml (<0.5mm thick) 
+  6cm2/ml (&lt;0.5mm thick) 
  
  
   3cm2/ml (0.5-1.0mm thick or molded items > 1.0mm) 
@@ -3208,7 +3208,7 @@ Contains Nonbinding Recommendations
 Extraction Ratio: 
  
  
-  6cm2/ml (<0.5mm thick) 
+  6cm2/ml (&lt;0.5mm thick) 
  
  
   3cm2/ml (0.5-1.0mm thick or molded items > 1.0mm) 
@@ -3552,7 +3552,7 @@ Contains Nonbinding Recommendations
 Extraction Ratio: 
  
  
-  6cm2/ml (<0.5mm thick) 
+  6cm2/ml (&lt;0.5mm thick) 
  
  
   3cm2/ml (0.5-1.0mm thick or molded items > 1.0mm) 
@@ -3787,7 +3787,7 @@ Contains Nonbinding Recommendations
 Extraction Ratio: 
  
  
-  6cm2/ml (<0.5mm thick) 
+  6cm2/ml (&lt;0.5mm thick) 
  
  
   3cm2/ml (0.5-1.0mm thick or molded items > 1.0mm) 
@@ -3868,7 +3868,7 @@ Contains Nonbinding Recommendations
 Exposure Ratio: 
  
  
-  6cm2/ml (<0.5mm thick) 
+  6cm2/ml (&lt;0.5mm thick) 
  
  
   3cm2/ml (0.5-1.0mm thick or molded items > 1.0mm) 
@@ -4174,7 +4174,7 @@ Test Medium:
 Exposure Ratio: 
  
  
-  6cm2/ml (<0.5mm thick) 
+  6cm2/ml (&lt;0.5mm thick) 
  
  
   3cm2/ml (0.5-1.0mm thick or molded items > 1.0mm) 

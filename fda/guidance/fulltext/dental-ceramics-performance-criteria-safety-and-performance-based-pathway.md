@@ -241,23 +241,23 @@ clinical indications as follows:
 Material Classification
 Chemical solubility [µg/cm2]
 Class 1a
-<100
+&lt;100
 Class 1b
-<100
+&lt;100
 Class 2a
-<100
+&lt;100
 Class 2b
-<2000
+&lt;2000
 Class 3a
-<100
+&lt;100
 Class 3b
-<2000
+&lt;2000
 Class 4a
-<100
+&lt;100
 Class 4b
-<2000
+&lt;2000
 Class 5
-<100
+&lt;100
 Performance Criteria Source: FDA-recognized version of ISO 6872 
 Submission Information: DOC
 3.

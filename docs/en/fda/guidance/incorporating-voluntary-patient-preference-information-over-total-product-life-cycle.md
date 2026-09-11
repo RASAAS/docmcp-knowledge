@@ -1839,7 +1839,7 @@ preferences of each attribute relative to the other attributes included. If the 
 question is to prioritize endpoints, BWS Case 1 may be sufficient to provide a rank ordering, 
 since BWS Case 1 asks the respondent what is most important or least important or what is best 
 or least important and then provides the ordinal ranking. Typically, TT and SW are more 
-accommodating of small sample sizes (<100) compared to DCEs.73 
+accommodating of small sample sizes (&lt;100) compared to DCEs.73 
  
 69 Tervonen T, Veldwijk J, Payne K, et al. Quantitative Benefit-Risk Assessment in Medical Product Decision 
 Making: A Good Practices Report of an ISPOR Task Force. Value Health. Apr 2023;26(4):449-460. 

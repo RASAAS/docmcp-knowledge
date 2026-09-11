@@ -1026,7 +1026,7 @@ it will fail the loading process:
 • apostrophe (’); 
 • greater than sign (>); 
 • single quotation mark (‘); 
-• less than sign (<); 
+• less than sign (&lt;); 
 • double quotation marks (“); 
 • question mark (?); and 
 • colon (:); 

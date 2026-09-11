@@ -649,7 +649,7 @@ All DIs will be checked for uniqueness in the GUDID. Once used, a DI can never b
 reassigned to another device, even if the original device is no longer in commercial 
 distribution (see 21 CFR 830.40(c)).
 o
-When Commercial Distribution End Date <= today (i.e. today or a date in the past), 
+When Commercial Distribution End Date &lt;= today (i.e. today or a date in the past), 
 the device will be considered no longer held or offered for sale by the labeler. The 
 device may or may not still be available for purchase in the marketplace.
 o
@@ -732,7 +732,7 @@ Package Discontinue Date:
 If Package Discontinue Date > today (i.e., a date in the future) or null, then Package 
 Status = “In Commercial Distribution”
 §
-If Package Discontinue Date =< today (i.e., today or a date in the past), then
+If Package Discontinue Date =&lt; today (i.e., today or a date in the past), then
 
 ---
 
@@ -912,7 +912,7 @@ the Publish Date:
 ·
 Unpublished state means Publish Date > today (i.e., a date in the future).
 ·
-Published state means Publish Date =< today (i.e., today or a date in the past).
+Published state means Publish Date =&lt; today (i.e., today or a date in the past).
 Unpublished DI Record: enables users to complete a DI record and Submit it to GUDID prior to 
 the required date. Saving unpublished DI records alone does not fulfill your GUDID submission 
 requirements under 21 CFR 830 Subpart E.
@@ -943,7 +943,7 @@ A Published DI record:
 ·
 Has passed all business rules, i.e., has passed Review.
 ·
-Has Publish Date =< today (i.e., today or a date in the past). Please note that a DI record
+Has Publish Date =&lt; today (i.e., today or a date in the past). Please note that a DI record
 
 ---
 
@@ -997,7 +997,7 @@ Date as shown below.
 When Commercial Distribution End Date> today (i.e., a date in the future) or null, 
 Commercial Distribution Status = “In Commercial Distribution.”
 ·
-When Commercial Distribution End Date =<today (i.e., today or a date in the past), 
+When Commercial Distribution End Date =&lt;today (i.e., today or a date in the past), 
 Commercial Distribution Status = “Not In Commercial Distribution.”
 19 Edits to New DI trigger attributes and attributes with limited editing after-the-grace-period is expected to be an 
 extremely rare occurrence. Labelers should ensure their DI record data is accurate before the record moves to the 
@@ -1087,7 +1087,7 @@ passed GUDID
 business rules, been 
 Submitted to GUDID 
 AND
-Publish Date <= 
+Publish Date &lt;= 
 today (i.e., today or 
 in the past)
 - Cannot move to 
@@ -1219,7 +1219,7 @@ Cancel creation of new DI record.
 Submit the record to GUDID; the DI record state will be set by the system based 
 on Publish Date.
 Ø Unpublished state means Publish Date > today (i.e., a date in the future).
-Ø Published state means Publish Date <= today (i.e., today or a date in the past).
+Ø Published state means Publish Date &lt;= today (i.e., today or a date in the past).
 Note that Submitting a DI record to GUDID does not fulfill your GUDID submission 
 requirements. We will consider you to have complied with the requirements of 21 CFR 830.330 
 on the date the DI record is saved in the published state.

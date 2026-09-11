@@ -5215,7 +5215,7 @@ Solute concentration shall be f5% of stated concentration, except sodium & chlor
 "AAMI Quality water" must be used in manufacture of concentrate 
 Fill volume must be within 2% of labeled volume if for use with batch system 
 Acidity or alkalinity 
-- acetate concentrate: pH range 6.0 to 8.0 and require <1 mEq of acid or base to titrate 1 liter to pH of 7.4 
+- acetate concentrate: pH range 6.0 to 8.0 and require &lt;1 mEq of acid or base to titrate 1 liter to pH of 7.4 
 - bicarbonate concentrate: include directions for proper mixing and prevention of calcium or magnesium 
 precipitation 
 Chemical grade must meet current requirements of USP/National Formulary 
@@ -10824,7 +10824,7 @@ weep :qeh&uy
 z x w p e e ~ 
 . k l n p w e u e d B l u 
 g w r m 
-< ~ . m z k m 
+&lt; ~ . m z k m 
 senm snj 
 sen- 
 snj 

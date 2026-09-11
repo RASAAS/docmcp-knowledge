@@ -272,7 +272,7 @@ Test name: Air-powered handpieces and motors
 Methodology: FDA-recognized version of ISO 14457 Dentistry – Handpieces and 
 motors
 Performance Criteria: Air-powered handpieces and motors should be operated by a 
-pressurized air supply in accordance with your instructions. The flow rate should be < 80 
+pressurized air supply in accordance with your instructions. The flow rate should be &lt; 80 
 NL/min at a pressure of 300 ± 100 kPa [3.0 ± 1.0 bar].
 Performance Criteria Source: FDA-recognized version of ISO 14457
 Submission Information: Test Report Form per ISO 14457 and DOC

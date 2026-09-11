@@ -127,7 +127,7 @@ characteristics and performance criteria are stratified in this document based o
 ranges. 
 Table 1 – Dimensional ranges for facet screws* 
 Facet Screws Parameters 
-< 4.5 mm Diameter 
+&lt; 4.5 mm Diameter 
 ≥ 4.5 mm Diameter 
 Nominal Major Diameter 
 Range 
@@ -240,7 +240,7 @@ for some tests.
 Contains Nonbinding Recommendations 
 Table 2 – Static cantilever bending acceptance criteria for facet screw systems 
 Test Parameter 
-< 4.5 mm diameter 
+&lt; 4.5 mm diameter 
 (Cervical) 
 ≥ 4.5 mm diameter 
 (Lower 
@@ -272,7 +272,7 @@ For all facet screw sizes, extract the relevant dimensions below (i.e., screw ma
 diameter, screw minor diameter, screw pitch, and axial thread length). These dimensions 
 will be used to calculate theoretical pullout strengths for the worst-case screws in the 
 device system using the following equation: 
-𝐹𝐹𝐹𝐹 = 𝑆𝑆 ∗ 𝐴𝐴 = {𝑆𝑆 ∗ 𝐿𝐿 ∗ 𝜋𝜋 ∗ 𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷 ∗ 𝑇𝑇𝑆𝑆𝐹𝐹} 
+𝐹𝐹𝐹𝐹 = 𝑆𝑆 ∗ 𝐴𝐴 = &#123;𝑆𝑆 ∗ 𝐿𝐿 ∗ 𝜋𝜋 ∗ 𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷 ∗ 𝑇𝑇𝑆𝑆𝐹𝐹&#125; 
 Fs = predicted shear failure force (N) 
 S = material ultimate shear stress (MPa) 
 A = thread shear area (mm2) 
@@ -313,7 +313,7 @@ Nominal Major Diameter
 (mm) 
 Theoretical Pullout Strength 
 in Grade 20 Foam (N) 
-< 4.5 mm 
+&lt; 4.5 mm 
 190 
 ≥ 4.5 mm 
 390 

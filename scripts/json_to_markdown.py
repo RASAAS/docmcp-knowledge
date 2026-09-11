@@ -426,51 +426,69 @@ _VUE_TAG_RE = re.compile(
 
 
 def _escape_vue_tags(text: str) -> str:
-    """Escape angle brackets that VitePress/Vue would interpret as components.
+    """Escape angle brackets that VitePress/Vue would interpret as components/HTML.
 
-    Preserves: standard HTML tags, Markdown auto-links <https://...>,
-    HTML comments, and base64 data URIs in img tags.
+    PDF extracts often contain placeholder fragments such as
+    ``<Insert Month and\nYear>`` or comparisons like ``<CIN2`` that span
+    lines and break Vue/VitePress ("Element is missing end tag").
+
+    Preserves: intentional HTML comments, Markdown auto-links <https://...>,
+    known safe HTML tags, and base64 data URIs in img tags.
+    Escapes every other ``<`` (complete or incomplete tag-like sequences).
     """
-    def _replace(m: re.Match) -> str:
-        inner = m.group(1)
-        if inner.startswith(('http://', 'https://', 'mailto:')):
+    if not text:
+        return text
+
+    protected: list[str] = []
+
+    def _protect(m: re.Match) -> str:
+        protected.append(m.group(0))
+        return f"\0PROT{len(protected) - 1}\0"
+
+    # 1) Protect HTML comments (page markers, fulltext markers, etc.)
+    text = re.sub(r"<!--[\s\S]*?-->", _protect, text)
+
+    # 2) Protect markdown autolinks
+    text = re.sub(r"<(?:https?://|mailto:)[^>\s]+>", _protect, text)
+
+    # 3) Protect data-URI image attributes / lines (leave whole line alone)
+    #    Handled by protecting complete <img ...> tags below when valid.
+
+    # 4) Protect known-safe complete HTML tags (open and close)
+    def _protect_html(m: re.Match) -> str:
+        inner = m.group(1).strip()
+        if not inner:
             return m.group(0)
-        if 'data:image' in inner:
+        if inner.startswith("!--"):
+            return _protect(m)
+        if "data:image" in inner:
+            return _protect(m)
+        if inner.startswith("/"):
+            close_tag = inner[1:].strip().split()[0].lower().rstrip("/")
+            if close_tag in _VALID_HTML_TAGS:
+                return _protect(m)
             return m.group(0)
-        return f'&lt;{inner}&gt;'
+        tag_name = inner.split()[0].split("/")[0].lower().rstrip("/")
+        if tag_name in _VALID_HTML_TAGS:
+            return _protect(m)
+        return m.group(0)
 
-    result_lines = []
-    for line in text.split('\n'):
-        if 'data:image' in line:
-            result_lines.append(line)
-            continue
+    text = re.sub(r"<([^>\n]+)>", _protect_html, text)
 
-        new_line = line
-        offset = 0
-        for m in re.finditer(r'<([^>]+)>', line):
-            inner = m.group(1).strip()
-            if not inner:
-                continue
-            if inner.startswith(('http://', 'https://', 'mailto:')):
-                continue
-            if inner.startswith('!--'):
-                continue
-            tag_name = inner.split()[0].split('/')[0].lower().rstrip('/')
-            if tag_name in _VALID_HTML_TAGS:
-                continue
-            if inner.startswith('/'):
-                close_tag = inner[1:].strip().split()[0].lower()
-                if close_tag in _VALID_HTML_TAGS:
-                    continue
-            replacement = f'&lt;{m.group(1)}&gt;'
-            start = m.start() + offset
-            end = m.end() + offset
-            new_line = new_line[:start] + replacement + new_line[end:]
-            offset += len(replacement) - (m.end() - m.start())
+    # 5) Escape every remaining raw '<' — covers incomplete/multiline
+    #    placeholders (<Insert Month and\nYear>) and comparisons (<CIN2).
+    text = text.replace("<", "&lt;")
 
-        result_lines.append(new_line)
+    # 5b) Escape curly braces so VitePress markdown-it-attrs does not treat
+    #     PDF math like ``Fs = S*A = {S*L*π*D*T}`` as element attributes
+    #     (that yields "Unexpected character" / sourcemap build failures).
+    text = text.replace("{", "&#123;").replace("}", "&#125;")
 
-    return '\n'.join(result_lines)
+    # 6) Restore protected segments
+    for i, seg in enumerate(protected):
+        text = text.replace(f"\0PROT{i}\0", seg)
+
+    return text
 
 
 def _load_fulltext(fw_dir: Path, doc_type: str, entry: dict) -> str:

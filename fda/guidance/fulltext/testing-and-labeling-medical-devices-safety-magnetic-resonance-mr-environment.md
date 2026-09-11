@@ -922,7 +922,7 @@ that is not needed for the medical professional to safely administer an MR exam 
 scientific rationale upon which the MR Safe determination was made). Labeling example:
 MRI Safety Information
 or
-And/or a statement such as “The <insert medical device name> is MR Safe.”
+And/or a statement such as “The &lt;insert medical device name> is MR Safe.”
 
 ---
 
@@ -940,7 +940,7 @@ additional information that is not needed for the medical professional to safely
 MR exam (e.g., the scientific rationale upon which the MR Unsafe determination was made). 
 For example:
 MRI Safety Information
-And/or a statement such as “The < insert medical device name > is MR Unsafe.”
+And/or a statement such as “The &lt; insert medical device name > is MR Unsafe.”
 and, if appropriate, the statement “The device presents a projectile hazard.”
 For non-implanted medical devices, the MR Unsafe labeling should appear directly on the 
 medical device if possible. For example: 
@@ -953,9 +953,9 @@ should include the following information:
 ·
 The MR Unsafe symbol and/or the term “MR Unsafe,” and
 ·
-A statement such as: “This person <choose “is implanted with” or “has”> a 
-<insert medical device name>. Do not enter an MRI scanner room or an MR 
-system. Doing so may result in <choose one or more of “injury” or “severe 
+A statement such as: “This person &lt;choose “is implanted with” or “has”> a 
+&lt;insert medical device name>. Do not enter an MRI scanner room or an MR 
+system. Doing so may result in &lt;choose one or more of “injury” or “severe 
 injury” and/or “death”> and
 ·
 URL and/or phone number for the medical device manufacturer.
@@ -985,14 +985,14 @@ least the following MRI safety information:
 ·
 The MR Conditional symbol and/or the term “MR Conditional,” and
 ·
-A statement such as: “This person <choose “is implanted with” or “has”> a 
-<insert medical device name> and can safely undergo an MR exam only 
+A statement such as: “This person &lt;choose “is implanted with” or “has”> a 
+&lt;insert medical device name> and can safely undergo an MR exam only 
 under very specific conditions. Scanning under different conditions may 
-result in <choose one or more of “injury” or “severe injury” and/or 
+result in &lt;choose one or more of “injury” or “severe injury” and/or 
 “death”> or device malfunction. Full MRI safety information is available in 
-the MRI Safety Information section of the <insert name of 
+the MRI Safety Information section of the &lt;insert name of 
 document/manual containing MRI safety information>, which can be 
-obtained at www.<insert URL> or by calling <insert phone number>.”
+obtained at www.&lt;insert URL> or by calling &lt;insert phone number>.”
 Patient medical device cards for specific medical device types may need additional 
 information (e.g., patient name and implantation date).
 Patient medical device cards for devices with relatively few conditions (e.g., many passive 
@@ -1036,11 +1036,11 @@ applicable.
 e.
 Maximum B1+rms value [mT] if applicable
 7.
-Scan duration and wait time (e.g., “Scan for up to <insert number> minutes in a 
-<insert number> minute time period. Wait <insert number> minutes before the next 
-imaging session” or “<insert number> W/kg whole-body average SAR for <insert 
+Scan duration and wait time (e.g., “Scan for up to &lt;insert number> minutes in a 
+&lt;insert number> minute time period. Wait &lt;insert number> minutes before the next 
+imaging session” or “&lt;insert number> W/kg whole-body average SAR for &lt;insert 
 number> minutes of continuous RF (a sequence or back to back series/scan without 
-breaks) followed by a wait time of <insert number> minutes if this limit is reached.”)
+breaks) followed by a wait time of &lt;insert number> minutes if this limit is reached.”)
 8. MR exam exclusion zones and information on patient position relative to the MR 
 system (e.g., laser-landmark positions). Include a diagram showing the exclusion 
 zone(s) for imaging.
@@ -1142,9 +1142,9 @@ circumstances. If used, this information should be included in a section headed 
 Information” and included in the table of contents if the labeling has a table of contents. We 
 recommend you provide a rationale as to why this labeling is appropriate for your medical 
 device in your premarket submission. The labeling should include the following information:
-The <insert medical device name> has not been evaluated for safety in the MR 
+The &lt;insert medical device name> has not been evaluated for safety in the MR 
 environment. It has not been tested for heating or unwanted movement in the MR 
-environment. The safety of <insert medical device name> in the MR environment 
+environment. The safety of &lt;insert medical device name> in the MR environment 
 is unknown. Performing an MR exam on a person who has this medical device 
 may result in injury or device malfunction. 
 You should NOT use the above labeling option if:
@@ -1423,8 +1423,8 @@ additional instructions or information essential for safe use in the MR environm
 Contains Nonbinding Recommendations
 29
 MRI Safety Information
-The <insert device name> may be safely used in the MR environment under the following 
-conditions. Failure to follow these conditions may result in <choose one or more of “injury” or 
+The &lt;insert device name> may be safely used in the MR environment under the following 
+conditions. Failure to follow these conditions may result in &lt;choose one or more of “injury” or 
 “serious injury”, and/or “death.”>.
 Name/Identification of medical device
 Maximum static magnetic field [mT] and 

@@ -47,6 +47,8 @@ except ImportError:
     logger.warning("curl-cffi not installed. Akamai-protected sites may fail. pip install curl-cffi")
 
 KNOWLEDGE_ROOT = Path(__file__).parent.parent
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from json_to_markdown import _escape_vue_tags  # noqa: E402
 USER_AGENT = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
     "AppleWebKit/537.36 (KHTML, like Gecko) "
@@ -322,6 +324,10 @@ def process_entry(entry: dict, dry_run: bool = False) -> bool:
     if not text.strip():
         logger.warning(f"  SKIP: Extracted text is empty (scanned PDF?)")
         return False
+
+    # Escape PDF placeholder angle-brackets (<Insert...>, <choose...>, etc.)
+    # so VitePress/Vue does not treat them as HTML tags.
+    text = _escape_vue_tags(text)
 
     markdown = f"# {display}\n\n"
     markdown += f"**Source:** [{source_url}]({source_url})\n\n"

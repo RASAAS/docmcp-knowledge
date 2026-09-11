@@ -684,7 +684,7 @@ account.
 If the testing is not done on every unit, it may be necessary to have more
 stringent criteria than if every unit were tested.
 3.3 QUALITATIVE TESTING
-{
+&#123;
 Qualitative 
 testing should be conducted on all of the units produced and should
 include checks or testing of the following:
@@ -1663,11 +1663,11 @@ a
 Wavelength 
 (nm)
 The equations descritling the curve are:
-V. (;\.) = 1.0(250 < ;\. < 302 nm)
+V. (;\.) = 1.0(250 &lt; ;\. &lt; 302 nm)
 I
-V.(:.\) = 10°.0 114 (302-A) (302 <:.\ < 325 nm)
+V.(:.\) = 10°.0 114 (302-A) (302 &lt;:.\ &lt; 325 nm)
 I
-V. (;\) = 10°.0161 (159-.\.) (325 < ;\ < 405 nm)
+V. (;\) = 10°.0161 (159-.\.) (325 &lt; ;\ &lt; 405 nm)
 !
 28
 

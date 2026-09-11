@@ -647,13 +647,13 @@ Flex studies consist of adding
 1, 2, 3, 4, 5, and 6 drops and 
 observing when incorrect 
 results are obtained. Studies 
-show that <2 drops or >5 
+show that &lt;2 drops or >5 
 drops give erroneous results. 
 Studies to validate that fail- 
 safe mechanisms, or failure 
 alerts, including control 
 procedures, alert the 
-operator of an error when <2 
+operator of an error when &lt;2 
 drops or >5 drops are added. 
 V. Demonstrating Insignificant Risk of an Erroneous 
 Result – “Accuracy” 

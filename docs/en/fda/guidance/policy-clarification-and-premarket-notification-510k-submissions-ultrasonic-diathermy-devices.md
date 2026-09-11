@@ -543,7 +543,7 @@ wireless-technology-medical-devices-guidance-industry-and-fda-staff
 <!-- Page 14 -->
 Contains Nonbinding Recommendations 
 10
-b) the place and month and year of manufacture (e.g., Manufactured: <Insert Month and 
+b) the place and month and year of manufacture (e.g., Manufactured: &lt;Insert Month and 
 Year of Manufacture>);
 c) the brand name, model designation, and unique serial number or other unique 
 identification so that it is individually identifiable;

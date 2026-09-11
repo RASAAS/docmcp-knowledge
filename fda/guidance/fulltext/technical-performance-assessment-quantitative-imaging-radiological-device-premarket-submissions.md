@@ -431,7 +431,7 @@ and may not fully reflect the performance of the device in clinical situations.
 We recommend that the technical performance assessment of a quantitative imaging function of your 
 device include the following steps:
 1. Define the quantitative imaging function, its relationship to the measurand, and the use 
-conditions.  For example, if the input to your algorithm is required to have a pixel size of < 1 
+conditions.  For example, if the input to your algorithm is required to have a pixel size of &lt; 1 
 mm, you would not be expected to evaluate the performance of your algorithm for pixels > 1 
 mm. 
 2. Determine an appropriate reference standard and the performance metrics applicable to your 

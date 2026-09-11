@@ -166,7 +166,7 @@ Single-Channel, Non-Volume Coils in Diagnostic Magnetic Resonance Imaging
 (MRI) 
 · NEMA MS 9 Characterization of Phased Array Coils for Diagnostic Magnetic 
 Resonance Images (MRI) 
-Performance Criteria: Worst-case non-uniformity < 50% (e.g., without any optional 
+Performance Criteria: Worst-case non-uniformity &lt; 50% (e.g., without any optional 
 software correction algorithms applied) 
                                                 
 6 Available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/safety-and-performance-
@@ -196,7 +196,7 @@ Methodology: Conformance to the following FDA recognized consensus standard:
 NEMA MS 14 Characterization of Radiofrequency (RF) Coil Heating in 
 Magnetic Resonance Imaging Systems 
 Performance Criteria: Temperature criteria as defined by ANSI/AAMI ES 60601-1: 
-<41°C for both normal use and single fault (coil not plugged in) condition. 
+&lt;41°C for both normal use and single fault (coil not plugged in) condition. 
 Performance Criteria Source: FDA currently recognized version of ANSI/AAMI 
 ES60601-1 (2012) Medical electrical equipment – Part 1: General requirements for 
 basic safety and essential performance, Section 11.1.2 Temperature of Applied Parts 
