@@ -83,8 +83,23 @@ def validate_md_file(md_file: Path, errors: list, warnings: list) -> bool:
         warnings.append(f"  WARN: No front matter in {md_file.relative_to(ROOT)}")
         return True  # Not an error, might be a README
 
-    # Check required fields
-    missing = [f for f in REQUIRED_FRONT_MATTER_FIELDS if f not in fm]
+    # Insights / blog-style pages use a different front-matter shape.
+    if fm.get("type") == "insight" or str(md_file).endswith(".insight.md"):
+        return True
+    rel = str(md_file.relative_to(ROOT))
+    if rel.startswith("insights/"):
+        return True
+
+    # Only enforce guidance-style required fields when path maps to a schema
+    # (e.g. nmpa/guidance, eu_mdr/mdcg). Other markdown is informational.
+    schema_name = get_schema_for_path(md_file)
+    if schema_name is None:
+        return True
+
+    # source_url may be unknown for catalog-only promotes; treat absent like empty
+    # (warning below) rather than a hard failure.
+    required = [f for f in REQUIRED_FRONT_MATTER_FIELDS if f != "source_url"]
+    missing = [f for f in required if f not in fm]
     if missing:
         errors.append(
             f"  ERROR: {md_file.relative_to(ROOT)}: missing fields: {', '.join(missing)}"
@@ -138,6 +153,16 @@ def validate_index_file(index_file: Path, errors: list, warnings: list) -> bool:
         errors.append(f"  ERROR: {index_file.relative_to(ROOT)}: invalid JSON: {e}")
         return False
 
+    # Alternate index shapes (standards/regulations directories) use documents/
+    # categories instead of entries — skip hard schema for those.
+    if "entries" not in data:
+        if "last_updated" in data:
+            return True
+        errors.append(
+            f"  ERROR: {index_file.relative_to(ROOT)}: missing fields: entries"
+        )
+        return False
+
     required = ["category", "last_updated", "entries"]
     missing = [f for f in required if f not in data]
     if missing:
@@ -146,9 +171,9 @@ def validate_index_file(index_file: Path, errors: list, warnings: list) -> bool:
         )
         return False
 
-    # Validate each entry has required fields
+    # Validate each entry has required fields (source_url may be omitted)
     for i, entry in enumerate(data.get("entries", [])):
-        entry_required = ["id", "title", "status", "source_url"]
+        entry_required = ["id", "title", "status"]
         entry_missing = [f for f in entry_required if f not in entry]
         if entry_missing:
             errors.append(
@@ -156,8 +181,31 @@ def validate_index_file(index_file: Path, errors: list, warnings: list) -> bool:
                 f"{', '.join(entry_missing)}"
             )
             return False
+        if "source_url" not in entry or not entry.get("source_url"):
+            warnings.append(
+                f"  WARN: {index_file.relative_to(ROOT)}: entry[{i}] source_url empty/missing"
+            )
 
     return True
+
+
+# Paths that are not regulatory data-layer content (VitePress, assets, tooling).
+SKIP_PATH_PARTS = {
+    "docs", "docs-cn", "assets", "scripts", "community-worker",
+    ".github", ".git", "node_modules", "fulltext", "_unmatched",
+    "_quarantine_drafts",
+}
+
+
+def _should_skip(path: Path) -> bool:
+    """Skip VitePress/tooling trees and non-file paths named *.md."""
+    if not path.exists():
+        return True
+    try:
+        rel_parts = path.relative_to(ROOT).parts
+    except ValueError:
+        rel_parts = path.parts
+    return any(part in SKIP_PATH_PARTS for part in rel_parts)
 
 
 def validate_path(search_path: Path, errors: list, warnings: list) -> tuple[int, int]:
@@ -165,18 +213,24 @@ def validate_path(search_path: Path, errors: list, warnings: list) -> tuple[int,
     checked = 0
     failed = 0
 
-    # Validate .md files (skip README.md files)
+    # Validate .md files (skip README.md, VitePress, dirs named *.md, tooling trees)
     for md_file in sorted(search_path.rglob("*.md")):
+        if not md_file.is_file():
+            continue  # assets/images has dirs named like *.zh.md
         if md_file.name == "README.md":
             continue
         if ".vitepress" in str(md_file):
+            continue
+        if _should_skip(md_file):
             continue
         checked += 1
         if not validate_md_file(md_file, errors, warnings):
             failed += 1
 
-    # Validate _index.json files
+    # Validate _index.json files (skip VitePress/tooling; skip non-entries schemas)
     for index_file in sorted(search_path.rglob("_index.json")):
+        if _should_skip(index_file):
+            continue
         checked += 1
         if not validate_index_file(index_file, errors, warnings):
             failed += 1
@@ -193,7 +247,7 @@ def main():
     args = parser.parse_args()
 
     search_path = ROOT / args.path if args.path != "." else ROOT
-    # Exclude docs/ and scripts/ directories
+    # docs/assets/scripts excluded inside validate_path via SKIP_PATH_PARTS
     if not search_path.exists():
         print(f"ERROR: Path not found: {search_path}")
         sys.exit(1)

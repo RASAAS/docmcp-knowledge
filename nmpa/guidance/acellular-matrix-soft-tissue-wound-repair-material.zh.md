@@ -6,7 +6,8 @@ title:
 regulation: nmpa
 category: nmpa/guidance
 status: active
-source_url: https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/general-and-others/acellular-matrix-soft-tissue-wound-repair-material/
+document_number: 国家药品监督管理局医疗器械技术审评中心2025年第12号通告
+source_url: "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/general-and-others/acellular-matrix-soft-tissue-wound-repair-material/"
 source_url_verified: '2026-02-23'
 source_url_status: migrated
 source_format: html

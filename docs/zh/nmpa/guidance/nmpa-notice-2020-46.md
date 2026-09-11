@@ -6,7 +6,7 @@ title:
 regulation: nmpa
 category: nmpa/guidance
 status: active
-source_url: https://reguverse.com/documentation/nmpa-regulations-index/pms/nmpa-notice-2020-46/
+source_url: "https://reguverse.com/documentation/nmpa-regulations-index/pms/nmpa-notice-2020-46/"
 source_url_verified: '2026-02-23'
 source_url_status: migrated
 source_format: html
@@ -15,7 +15,7 @@ last_verified: '2026-02-23'
 contributor: RASAAS
 migrated_from: wordpress
 wordpress_id: 546
-effective_date: '2025-04-20'
+effective_date: '2020-01-01'
 ---
 
 # 医疗器械定期风险评价报告撰写规范

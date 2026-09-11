@@ -11,3 +11,4 @@ eu_mdr/standards/fulltext/*.md
 eu_mdr/other_standards/fulltext/*.md
 !eu_mdr/standards/fulltext/.gitkeep
 !eu_mdr/other_standards/fulltext/.gitkeep
+nmpa/guidance/_quarantine_drafts/

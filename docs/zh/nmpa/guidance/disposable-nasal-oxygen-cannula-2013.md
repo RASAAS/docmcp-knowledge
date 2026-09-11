@@ -5,8 +5,10 @@ title:
   en: ''
 regulation: nmpa
 category: nmpa/guidance
-status: active
-source_url: https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/08-respiratory-anesthesia/disposable-nasal-oxygen-cannula-2013/
+status: superseded
+superseded_by: disposable-nasal-oxygen-cannula-2024
+document_number: 2013年第8号
+source_url: "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/08-respiratory-anesthesia/disposable-nasal-oxygen-cannula-2013/"
 source_url_verified: '2026-02-23'
 source_url_status: migrated
 source_format: html
@@ -15,7 +17,7 @@ last_verified: '2026-02-23'
 contributor: RASAAS
 migrated_from: wordpress
 wordpress_id: 454
-effective_date: '2025-04-19'
+effective_date: '2013-01-01'
 ---
 
 # 一次性使用鼻氧管产品注册技术审查指导原则（2013年第8号）

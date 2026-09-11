@@ -1,7 +1,7 @@
 {
   "category": "nmpa/guidance",
   "description": "NMPA medical device registration review guidance principles (CMDE classification)",
-  "last_updated": "2026-04-09",
+  "last_updated": "2026-09-11",
   "count": 691,
   "categories": {
     "general": {
@@ -1631,14 +1631,15 @@
         "zh": "定制式义齿注册技术审查指导原则",
         "en": ""
       },
-      "status": "active",
+      "status": "superseded",
       "doc_number": "国家药品监督管理局2018年第80号通告",
       "category": "dental",
       "slug": "cmde-2018-80-da50",
       "source_url": "https://www.nmpa.gov.cn/directory/web/nmpa/images/uL28jOjutK9wcbG99C1yfqy+tbKwb+53MDtuea3tri9wry2qNbGyr3S5bPdvLDP1rOhvOyy6da4tbzUrdTyuauqtX3xPS4rz7uvO1xNb30qrQ3rjExNrI3cu1wcuZG9jeA==.docx",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "none"
+      "classification_confidence": "none",
+      "superseded_by": "nmpa-gp-定制式义齿注册技术审查指导原则-2026年修订版-11f631"
     },
     {
       "id": "nmpa-gp-鼻饲营养导管注册技术审查指导原则-2018年修订-a5ae14",
@@ -1675,14 +1676,15 @@
         "zh": "骨科外固定支架注册技术审查指导原则（2018年修订）",
         "en": ""
       },
-      "status": "active",
+      "status": "superseded",
       "source_url": "",
       "doc_number": "国家药品监督管理局2018年第107号通告",
       "category": "implant_ortho",
       "slug": "nmpa-gp-骨科外固定支架注册技术审查指导原则-2018年修订-31f5ff",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "none"
+      "classification_confidence": "none",
+      "superseded_by": "nmpa-gp-骨科外固定支架注册技术审查指导原则-2026年修订版-16c847"
     },
     {
       "id": "nmpa-gp-一次性使用医用喉罩注册技术审查指导原则-2018年修订-d91960",
@@ -1690,14 +1692,15 @@
         "zh": "一次性使用医用喉罩注册技术审查指导原则（2018年修订）",
         "en": ""
       },
-      "status": "active",
+      "status": "superseded",
       "source_url": "",
       "doc_number": "国家药品监督管理局2018年第107号通告",
       "category": "respiratory",
       "slug": "nmpa-gp-一次性使用医用喉罩注册技术审查指导原则-2018年修订-5ccda9",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "none"
+      "classification_confidence": "none",
+      "superseded_by": "nmpa-gp-一次性使用医用喉罩注册审查指导原则-2026年修订版-f77cac"
     },
     {
       "id": "nmpa-gp-骨水泥套管组件注册技术审查指导原则-f1cbdc",
@@ -1735,14 +1738,15 @@
         "zh": "全瓷义齿用氧化锆瓷块注册技术审查指导原则（2018年修订）",
         "en": ""
       },
-      "status": "active",
+      "status": "superseded",
       "source_url": "https://www.nmpa.gov.cn/directory/web/nmpa/images/ufq80tKpxre84La9udzA7b7WMjAxOMTqtdoxMTa6xc2ouOa4vbz+Mi5kb2M=.doc",
       "doc_number": "国家药品监督管理局2018年第116号通告",
       "category": "dental",
       "slug": "cmde-2018-116-3dbf",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "none"
+      "classification_confidence": "none",
+      "superseded_by": "nmpa-gp-全瓷义齿用氧化锆瓷块注册技术审查指导原则-2026年修订版-9f8738"
     },
     {
       "id": "nmpa-gp-手动轮椅车注册技术审查指导原则-69a01c",
@@ -1765,14 +1769,15 @@
         "zh": "外科纱布敷料注册技术审查指导原则（2018年修订）",
         "en": ""
       },
-      "status": "active",
+      "status": "superseded",
       "source_url": "https://www.nmpa.gov.cn/directory/web/nmpa/images/ufq80tKpxre84La9udzA7b7WMjAxOMTqtdoxMjC6xc2ouOa4vbz+MS5kb2M=.doc",
       "doc_number": "国家药品监督管理局2018年第120号通告",
       "category": "wound_care",
       "slug": "cmde-2018-120-a556",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "none"
+      "classification_confidence": "none",
+      "superseded_by": "nmpa-gp-外科纱布敷料注册审查指导原则-2026年修订版-6cab90"
     },
     {
       "id": "nmpa-gp-吻-缝-合器产品注册技术审查指导原则-2018年修订-04b868",
@@ -10702,7 +10707,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "0742b091a0a9e3b7",
@@ -10716,7 +10722,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "21d470322a86a86f",
@@ -10730,7 +10737,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "43ff1382ecd1f595",
@@ -10744,7 +10752,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "68f7ae2a99e51d1a",
@@ -10758,7 +10767,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "4b08afb9b0e53890",
@@ -10772,7 +10782,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "88cc4e76a0d54c0d",
@@ -10786,7 +10797,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "9132c517c9f73852",
@@ -10800,7 +10812,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "c91a4ff6a658d160",
@@ -10814,7 +10827,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "4924bc473181d165",
@@ -10828,7 +10842,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "ea1fc52b0a644c10",
@@ -10842,7 +10857,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "6f842e7992c43763",
@@ -10856,7 +10872,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "2e0472aa26842b6b",
@@ -10870,7 +10887,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "0671d21f3e476592",
@@ -10884,7 +10902,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "91adb0cc91d0074b",
@@ -10898,7 +10917,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "77356dd471f15b6a",
@@ -10912,7 +10932,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "3ccb8c88e9917d18",
@@ -10926,7 +10947,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "46f3760d6de406e0",
@@ -10940,7 +10962,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "6a4a255e77c612c3",
@@ -10954,7 +10977,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "9f9f9dddb99138c6",
@@ -10968,7 +10992,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "d49bf82ed618f3bc",
@@ -10982,7 +11007,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "cf86d27df31c38ce",
@@ -10996,7 +11022,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "4da3991c4f2811dd",
@@ -11010,7 +11037,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "7b74c63dd4e3c670",
@@ -11024,7 +11052,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "f34f54a56df3293e",
@@ -11038,7 +11067,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "98c7c7760e72df00",
@@ -11052,7 +11082,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "261be32dfa1c523f",
@@ -11066,7 +11097,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "787fd37fb0b058ff",
@@ -11080,7 +11112,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "f0892b7d1399b27d",
@@ -11094,7 +11127,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "a858bef0c4dc1a80",
@@ -11108,7 +11142,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "4c4c8e26956d9827",
@@ -11122,7 +11157,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "b4b64118e64c893d",
@@ -11136,7 +11172,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "43195fb6358277df",
@@ -11150,7 +11187,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "763ec1bd07da2b20",
@@ -11164,7 +11202,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "4880346b15eb541e",
@@ -11178,7 +11217,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "752462a1b4de00e8",
@@ -11192,7 +11232,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "5550faeef8829efa",
@@ -11206,7 +11247,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "129cd4c63c8d0aaa",
@@ -11220,7 +11262,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "9bd8fc580b49420f",
@@ -11234,7 +11277,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "714e90a6fa2700f9",
@@ -11248,7 +11292,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "91d0c2f8478b5c11",
@@ -11262,7 +11307,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "72466ccb33d002d9",
@@ -11276,7 +11322,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "25bfb859ebb83a61",
@@ -11290,7 +11337,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "0f05e96153a10ca7",
@@ -11304,7 +11352,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "e2d36cd9920f8ffb",
@@ -11318,7 +11367,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "fee0572d07c2e303",
@@ -11332,7 +11382,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "69f29b1492bba2fe",
@@ -11346,7 +11397,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "1280ae374d7a045a",
@@ -11360,7 +11412,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "55c1fb12416c0ad3",
@@ -11374,7 +11427,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "b8b1f968058cce13",
@@ -11388,7 +11442,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "a2ecfcb54c73fb3e",
@@ -11402,7 +11457,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "5c2296ad04eb6f92",
@@ -11416,7 +11472,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "de9221d7cedcc249",
@@ -11430,7 +11487,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "ee3e189c0d6d7f8e",
@@ -11444,7 +11502,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "43d30cbeea689281",
@@ -11458,7 +11517,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "69cadeaf34331d77",
@@ -11472,7 +11532,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "ef0c80b21374f2c6",
@@ -11486,7 +11547,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "d4ec97c3a0996f66",
@@ -11500,7 +11562,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "a7c4f06de55389cb",
@@ -11514,7 +11577,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "20503a7d076db8b3",
@@ -11528,7 +11592,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "8975973754ebe184",
@@ -11542,7 +11607,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "fad39dde5a0dad22",
@@ -11556,7 +11622,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "5b65217a59239788",
@@ -11570,7 +11637,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "4792cee5f8a59764",
@@ -11584,7 +11652,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "d2f7bdb7a6f86fbd",
@@ -11598,7 +11667,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "278d2cbe306ef8ef",
@@ -11612,7 +11682,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "ff5a5eadc6a8cdd8",
@@ -11626,7 +11697,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "fd4d62bfb7136608",
@@ -11640,7 +11712,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "663aa2cd248a27ec",
@@ -11654,7 +11727,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "e83fd315cc82e1ea",
@@ -11668,7 +11742,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "f60d1fd27dcfc3c9",
@@ -11682,7 +11757,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "95b84805eab375bc",
@@ -11696,7 +11772,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "2e245828346f7268",
@@ -11710,7 +11787,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "5a8b52b5a6f50ef5",
@@ -11724,7 +11802,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "6ba05cec6f2a3c34",
@@ -11738,7 +11817,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "3f6742ad50a6d229",
@@ -11752,7 +11832,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "b38bfea4ad44ed68",
@@ -11766,7 +11847,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "2504938dbb8fda7b",
@@ -11780,7 +11862,8 @@
       "source_url": "",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "cross_cutting"
+      "classification_confidence": "cross_cutting",
+      "status": "active"
     },
     {
       "id": "nmpa-gp-52a354fdab74",
@@ -11793,7 +11876,88 @@
       "slug": "nmpa-gp-正电子发射X射线计算机断层成像系统（数字-52a354",
       "classification_codes": [],
       "classification_l1_codes": [],
-      "classification_confidence": "none"
+      "classification_confidence": "none",
+      "status": "active"
+    },
+    {
+      "id": "nmpa-gp-骨科外固定支架注册技术审查指导原则-2026年修订版-16c847",
+      "title": {
+        "zh": "骨科外固定支架注册技术审查指导原则（2026年修订版）",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://www.cmde.org.cn/flfg/zdyz/zdyzwbk/20260810160918137.html",
+      "doc_number": "国家药品监督管理局医疗器械技术审评中心2026年第24号通告",
+      "category": "implant_ortho",
+      "slug": "cmde-2026-24-ortho-fixator",
+      "classification_codes": [],
+      "classification_l1_codes": [],
+      "classification_confidence": "none",
+      "publish_date": "2026-07-21"
+    },
+    {
+      "id": "nmpa-gp-全瓷义齿用氧化锆瓷块注册技术审查指导原则-2026年修订版-9f8738",
+      "title": {
+        "zh": "全瓷义齿用氧化锆瓷块注册技术审查指导原则（2026年修订版）",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://www.cmde.org.cn/flfg/zdyz/zdyzwbk/20260810160954130.html",
+      "doc_number": "国家药品监督管理局医疗器械技术审评中心2026年第24号通告",
+      "category": "dental",
+      "slug": "cmde-2026-24-zirconia",
+      "classification_codes": [],
+      "classification_l1_codes": [],
+      "classification_confidence": "none",
+      "publish_date": "2026-07-21"
+    },
+    {
+      "id": "nmpa-gp-定制式义齿注册技术审查指导原则-2026年修订版-11f631",
+      "title": {
+        "zh": "定制式义齿注册技术审查指导原则（2026年修订版）",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://www.cmde.org.cn/flfg/zdyz/zdyzwbk/20260810161033141.html",
+      "doc_number": "国家药品监督管理局医疗器械技术审评中心2026年第24号通告",
+      "category": "dental",
+      "slug": "cmde-2026-24-custom-denture",
+      "classification_codes": [],
+      "classification_l1_codes": [],
+      "classification_confidence": "none",
+      "publish_date": "2026-07-21"
+    },
+    {
+      "id": "nmpa-gp-一次性使用医用喉罩注册审查指导原则-2026年修订版-f77cac",
+      "title": {
+        "zh": "一次性使用医用喉罩注册审查指导原则（2026年修订版）",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://www.cmde.org.cn/flfg/zdyz/zdyzwbk/20260810161330194.html",
+      "doc_number": "国家药品监督管理局医疗器械技术审评中心2026年第24号通告",
+      "category": "respiratory",
+      "slug": "cmde-2026-24-laryngeal-mask",
+      "classification_codes": [],
+      "classification_l1_codes": [],
+      "classification_confidence": "none",
+      "publish_date": "2026-07-21"
+    },
+    {
+      "id": "nmpa-gp-外科纱布敷料注册审查指导原则-2026年修订版-6cab90",
+      "title": {
+        "zh": "外科纱布敷料注册审查指导原则（2026年修订版）",
+        "en": ""
+      },
+      "status": "active",
+      "source_url": "https://www.cmde.org.cn/flfg/zdyz/zdyzwbk/20260810161410115.html",
+      "doc_number": "国家药品监督管理局医疗器械技术审评中心2026年第24号通告",
+      "category": "wound_care",
+      "slug": "cmde-2026-24-gauze-dressing",
+      "classification_codes": [],
+      "classification_l1_codes": [],
+      "classification_confidence": "none",
+      "publish_date": "2026-07-21"
     }
   ]
 }

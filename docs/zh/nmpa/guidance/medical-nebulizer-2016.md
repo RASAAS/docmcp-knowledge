@@ -5,8 +5,9 @@ title:
   en: ''
 regulation: nmpa
 category: nmpa/guidance
-status: active
-source_url: https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/08-respiratory-anesthesia/medical-nebulizer-2016/
+status: superseded
+superseded_by: medical-nebulizer-2024
+source_url: "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/08-respiratory-anesthesia/medical-nebulizer-2016/"
 source_url_verified: '2026-02-23'
 source_url_status: migrated
 source_format: html
@@ -15,7 +16,7 @@ last_verified: '2026-02-23'
 contributor: RASAAS
 migrated_from: wordpress
 wordpress_id: 402
-effective_date: '2025-04-19'
+effective_date: '2016-01-01'
 ---
 
 # 医用雾化器注册技术审查指导原则（2016年修订版）

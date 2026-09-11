@@ -6,7 +6,8 @@ title:
 regulation: nmpa
 category: nmpa/guidance
 status: active
-source_url: https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/general-and-others/recombinant-humanized-collagen-raw-materials-2023/
+document_number: 国家药品监督管理局医疗器械技术审评中心2023年第16号通告
+source_url: "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/general-and-others/recombinant-humanized-collagen-raw-materials-2023/"
 source_url_verified: '2026-02-23'
 source_url_status: migrated
 source_format: html
@@ -15,7 +16,7 @@ last_verified: '2026-02-23'
 contributor: RASAAS
 migrated_from: wordpress
 wordpress_id: 4145
-effective_date: '2025-04-20'
+effective_date: '2023-01-01'
 ---
 
 # 重组人源化胶原蛋白原材料评价指导原则

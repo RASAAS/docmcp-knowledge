@@ -1,13 +1,13 @@
 ---
 title: 协调标准 — 呼吸气路生物相容性
-description: "EU MDR 2017/745 协调标准：呼吸气路生物相容性（4条入官方公报标准），适用于。基于 CID (EU) 2021/1182 及修正案 2026/760。"
+description: "EU MDR 2017/745 协调标准：呼吸气路生物相容性（4条入官方公报标准），适用于。基于 CID (EU) 2021/1182 及修正案 2026/1231。"
 regulation: EU MDR 2017/745
 category: Breathing Gas Pathways
 ---
 
 # 协调标准 — 呼吸气路生物相容性
 
-**官方来源**：[EC Health — Harmonised Standards](https://health.ec.europa.eu/medical-devices-topics-interest/harmonised-standards_en) | 基于 CID (EU) 2021/1182（合并版）及修正案 [CID (EU) 2026/760](https://eur-lex.europa.eu/eli/dec_impl/2026/760/oj)
+**官方来源**：[EC Health — Harmonised Standards](https://health.ec.europa.eu/medical-devices-topics-interest/harmonised-standards_en) | 基于 CID (EU) 2021/1182（合并版）及修正案 [CID (EU) 2026/1231](https://eur-lex.europa.eu/eli/dec_impl/2026/1231/oj)
 
 ## 协调标准列表（4条）
 

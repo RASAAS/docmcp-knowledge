@@ -6,7 +6,8 @@ title:
 regulation: nmpa
 category: nmpa/guidance
 status: active
-source_url: https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/08-respiratory-anesthesia/bsf-guidance/
+document_number: 国家药品监督管理局医疗器械技术审评中心2023年第22号通告
+source_url: "https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/guidance-document/08-respiratory-anesthesia/bsf-guidance/"
 source_url_verified: '2026-02-23'
 source_url_status: migrated
 source_format: html
@@ -15,7 +16,7 @@ last_verified: '2026-02-23'
 contributor: RASAAS
 migrated_from: wordpress
 wordpress_id: 32
-effective_date: '2025-04-19'
+effective_date: '2023-01-01'
 ---
 
 # 呼吸系统过滤器注册审查指导原则（2023年第22号）
