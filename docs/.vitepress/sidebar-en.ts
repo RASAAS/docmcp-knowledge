@@ -279,5 +279,1805 @@ export default {
         }
       ]
     }
+  ],
+  "/en/fda/guidance/": [
+    {
+      "text": "<- FDA Overview",
+      "link": "/en/fda/"
+    },
+    {
+      "text": "Guidance Index",
+      "link": "/en/fda/guidance"
+    },
+    {
+      "text": "Digital Health & Cybersecurity (23)",
+      "collapsed": true,
+      "items": [
+        {
+          "text": "Cybersecurity in Medical Devices: Quality Management System Considera...",
+          "link": "/en/fda/guidance/cybersecurity-premarket"
+        },
+        {
+          "text": "Computer Software Assurance for Production and Quality Management Sys...",
+          "link": "/en/fda/guidance/computer-software-assurance-production-and-quality-management-system-software"
+        },
+        {
+          "text": "Clinical Decision Support Software: Guidance for Industry and Food an...",
+          "link": "/en/fda/guidance/clinical-decision-support-software"
+        },
+        {
+          "text": "General Wellness: Policy for Low Risk Devices: Guidance for Industry ...",
+          "link": "/en/fda/guidance/general-wellness-policy-low-risk-devices"
+        },
+        {
+          "text": "Marketing Submission Recommendations for a Predetermined Change Contr...",
+          "link": "/en/fda/guidance/marketing-submission-recommendations-predetermined-change-control-plan-artificial-intelligence"
+        },
+        {
+          "text": "Assessing the Credibility of Computational Modeling and Simulation in...",
+          "link": "/en/fda/guidance/assessing-credibility-computational-modeling-and-simulation-medical-device-submissions"
+        },
+        {
+          "text": "Technical Considerations for Medical Devices with Physiologic Closed-...",
+          "link": "/en/fda/guidance/technical-considerations-medical-devices-physiologic-closed-loop-control-technology"
+        },
+        {
+          "text": "Off-The-Shelf Software Use in Medical Devices: Guidance for Industry ...",
+          "link": "/en/fda/guidance/shelf-software-use-medical-devices"
+        },
+        {
+          "text": "Qualification of Medical Device Development Tools: Guidance for Indus...",
+          "link": "/en/fda/guidance/qualification-medical-device-development-tools"
+        },
+        {
+          "text": "Content of Premarket Submissions for Device Software Functions: Guida...",
+          "link": "/en/fda/guidance/content-premarket-submissions-device-software-functions"
+        },
+        {
+          "text": "Policy for Device Software Functions and Mobile Medical Applications:...",
+          "link": "/en/fda/guidance/policy-device-software-functions-and-mobile-medical-applications"
+        },
+        {
+          "text": "Medical Device Data Systems, Medical Image Storage Devices, and Medic...",
+          "link": "/en/fda/guidance/medical-device-data-systems-medical-image-storage-devices-and-medical-image-communications-devices"
+        },
+        {
+          "text": "Computer-Assisted Detection Devices Applied to Radiology Images and R...",
+          "link": "/en/fda/guidance/computer-assisted-detection-devices-applied-radiology-images-and-radiology-device-data-premarket"
+        },
+        {
+          "text": "Clinical Performance Assessment: Considerations for Computer-Assisted...",
+          "link": "/en/fda/guidance/clinical-performance-assessment-considerations-computer-assisted-detection-devices-applied-radiology"
+        },
+        {
+          "text": "Multiple Function Device Products: Policy and Considerations: Guidanc...",
+          "link": "/en/fda/guidance/multiple-function-device-products-policy-and-considerations"
+        },
+        {
+          "text": "Changes to Existing Medical Software Policies Resulting from Section ...",
+          "link": "/en/fda/guidance/changes-existing-medical-software-policies-resulting-section-3060-21st-century-cures-act"
+        },
+        {
+          "text": "Logical Observation Identifiers Names and Codes for In Vitro Diagnost...",
+          "link": "/en/fda/guidance/logical-observation-identifiers-names-and-codes-in-vitro-diagnostic-tests"
+        },
+        {
+          "text": "Medical Device Accessories - Describing Accessories and Classificatio...",
+          "link": "/en/fda/guidance/medical-device-accessories-describing-accessories-and-classification-pathways"
+        },
+        {
+          "text": "Deciding When to Submit a 510(k) for a Software Change to an Existing...",
+          "link": "/en/fda/guidance/deciding-when-submit-510k-software-change-existing-device"
+        },
+        {
+          "text": "Design Considerations and Pre-market Submission Recommendations for I...",
+          "link": "/en/fda/guidance/design-considerations-and-pre-market-submission-recommendations-interoperable-medical-devices"
+        },
+        {
+          "text": "Postmarket Management of Cybersecurity in Medical Devices: Guidance f...",
+          "link": "/en/fda/guidance/postmarket-cybersecurity"
+        },
+        {
+          "text": "Radio Frequency Wireless Technology in Medical Devices - Guidance for...",
+          "link": "/en/fda/guidance/radio-frequency-wireless-technology-medical-devices-guidance-industry-and-fda-staff"
+        },
+        {
+          "text": "General Principles of Software Validation: Guidance for Industry and ...",
+          "link": "/en/fda/guidance/general-principles-software-validation"
+        }
+      ]
+    },
+    {
+      "text": "Premarket (510(k) / PMA / De Novo / IDE) (290)",
+      "collapsed": true,
+      "items": [
+        {
+          "text": "Dental Curing Lights - Premarket Notification (510(k)) Submissions: G...",
+          "link": "/en/fda/guidance/dental-curing-lights-premarket-notification-510k-submissions"
+        },
+        {
+          "text": "Dental Composite Resin Devices - Premarket Notification (510(k)) Subm...",
+          "link": "/en/fda/guidance/dental-composite-resin-devices-premarket-notification-510k-submissions"
+        },
+        {
+          "text": "Applying Human Factors and Usability Engineering to Medical Devices: ...",
+          "link": "/en/fda/guidance/applying-human-factors-and-usability-engineering-medical-devices"
+        },
+        {
+          "text": "Hemodialysis Blood Tubing Sets - Premarket Notification (510(k)) Subm...",
+          "link": "/en/fda/guidance/hemodialysis-blood-tubing-sets-premarket-notification-510k-submissions"
+        },
+        {
+          "text": "Intent to Exempt Certain Unclassified Medical Devices from Premarket ...",
+          "link": "/en/fda/guidance/intent-exempt-certain-unclassified-medical-devices-premarket-notification-requirements"
+        },
+        {
+          "text": "Content of Human Factors Information in Medical Device Marketing Subm...",
+          "link": "/en/fda/guidance/content-human-factors-information-medical-device-marketing-submissions"
+        },
+        {
+          "text": "Patient-Matched Guides for Orthopedic Implants: Guidance for Industry...",
+          "link": "/en/fda/guidance/patient-matched-guides-orthopedic-implants"
+        },
+        {
+          "text": "Medical Devices with Indications Associated with Weight Loss - Premar...",
+          "link": "/en/fda/guidance/medical-devices-indications-associated-weight-loss-premarket-considerations"
+        },
+        {
+          "text": "Use of Real-World Evidence to Support Regulatory Decision-Making for ...",
+          "link": "/en/fda/guidance/use-real-world-evidence-support-regulatory-decision-making-medical-devices"
+        },
+        {
+          "text": "eCopy Program for Medical Device Submissions: Guidance for Industry a...",
+          "link": "/en/fda/guidance/ecopy-program-medical-device-submissions"
+        },
+        {
+          "text": "Animal Studies for Dental Bone Grafting Material Devices - Premarket ...",
+          "link": "/en/fda/guidance/animal-studies-dental-bone-grafting-material-devices-premarket-notification-510k-submissions"
+        },
+        {
+          "text": "Requests for Feedback and Meetings for Medical Device Submissions: Th...",
+          "link": "/en/fda/guidance/requests-feedback-and-meetings-medical-device-submissions-q-submission-program"
+        },
+        {
+          "text": "Evaluation of Sex-Specific Data in Medical Device Clinical Studies - ...",
+          "link": "/en/fda/guidance/evaluation-sex-specific-data-medical-device-clinical-studies-guidance-industry-and-food-and-drug"
+        },
+        {
+          "text": "Premarket Approval Application and Humanitarian Device Exemption Modu...",
+          "link": "/en/fda/guidance/premarket-approval-application-and-humanitarian-device-exemption-modular-review"
+        },
+        {
+          "text": "Transitional Enforcement Policy for Ethylene Oxide Sterilization Faci...",
+          "link": "/en/fda/guidance/transitional-enforcement-policy-ethylene-oxide-sterilization-facility-changes-class-iii-devices"
+        },
+        {
+          "text": "Orthopedic Non-Spinal Metallic Bone Screws and Washers - Performance ...",
+          "link": "/en/fda/guidance/orthopedic-non-spinal-metallic-bone-screws-and-washers-performance-criteria-safety-and-performance"
+        },
+        {
+          "text": "Orthopedic Non-Spinal Bone Plates, Screws, and Washers - Premarket No...",
+          "link": "/en/fda/guidance/orthopedic-non-spinal-bone-plates-screws-and-washers-premarket-notification-510k-submissions"
+        },
+        {
+          "text": "510(k) Third Party Review Program and Third Party Emergency Use Autho...",
+          "link": "/en/fda/guidance/510k-third-party-review-program-and-third-party-emergency-use-authorization-eua-review"
+        },
+        {
+          "text": "Endosseous Dental Implants and Endosseous Dental Implant Abutments - ...",
+          "link": "/en/fda/guidance/endosseous-dental-implants-and-endosseous-dental-implant-abutments-performance-criteria-safety-and"
+        },
+        {
+          "text": "Dental Impression Materials - Performance Criteria for Safety and Per...",
+          "link": "/en/fda/guidance/dental-impression-materials-performance-criteria-safety-and-performance-based-pathway"
+        },
+        {
+          "text": "Dental Ceramics - Performance Criteria for Safety and Performance Bas...",
+          "link": "/en/fda/guidance/dental-ceramics-performance-criteria-safety-and-performance-based-pathway"
+        },
+        {
+          "text": "Dental Cements - Performance Criteria for Safety and Performance Base...",
+          "link": "/en/fda/guidance/dental-cements-performance-criteria-safety-and-performance-based-pathway"
+        },
+        {
+          "text": "Air Powered Dental Handpieces and Air Motors - Performance Criteria f...",
+          "link": "/en/fda/guidance/air-powered-dental-handpieces-and-air-motors-performance-criteria-safety-and-performance-based"
+        },
+        {
+          "text": "FDA and Industry Procedures for Section 513(g) Requests for Informati...",
+          "link": "/en/fda/guidance/fda-and-industry-procedures-section-513g-requests-information-under-federal-food-drug-and-cosmetic"
+        },
+        {
+          "text": "Electronic Submission Template for Medical Device De Novo Requests: G...",
+          "link": "/en/fda/guidance/electronic-submission-template-medical-device-de-novo-requests"
+        },
+        {
+          "text": "Submission and Review of Sterility Information in Premarket Notificat...",
+          "link": "/en/fda/guidance/submission-and-review-sterility-information-premarket-notification-510k-submissions-devices-labeled"
+        },
+        {
+          "text": "Enforcement Policy for Certain Supplements for Approved Premarket App...",
+          "link": "/en/fda/guidance/enforcement-policy-certain-supplements-approved-premarket-approval-pma-or-humanitarian-device"
+        },
+        {
+          "text": "Enforcement Policy for Non-Invasive Remote Monitoring Devices Used to...",
+          "link": "/en/fda/guidance/enforcement-policy-non-invasive-remote-monitoring-devices-used-support-patient-monitoring"
+        },
+        {
+          "text": "Testing and Labeling Medical Devices for Safety in the Magnetic Reson...",
+          "link": "/en/fda/guidance/testing-and-labeling-medical-devices-safety-magnetic-resonance-mr-environment"
+        },
+        {
+          "text": "Submission of Premarket Notifications for Magnetic Resonance Diagnost...",
+          "link": "/en/fda/guidance/submission-premarket-notifications-magnetic-resonance-diagnostic-devices"
+        },
+        {
+          "text": "Electronic Submission Template for Medical Device 510(k) Submissions:...",
+          "link": "/en/fda/guidance/electronic-submission-template-medical-device-510k-submissions"
+        },
+        {
+          "text": "Breakthrough Devices Program: Guidance for Industry and Food and Drug...",
+          "link": "/en/fda/guidance/breakthrough-devices-program"
+        },
+        {
+          "text": "Use of International Standard ISO 10993-1, \"Biological evaluation of ...",
+          "link": "/en/fda/guidance/use-international-standard-iso-10993-1-biological-evaluation-medical-devices-part-1-evaluation-and"
+        },
+        {
+          "text": "Enforcement Policy for Face Masks and Barrier Face Coverings During t...",
+          "link": "/en/fda/guidance/enforcement-policy-face-masks-and-barrier-face-coverings-during-coronavirus-disease-covid-19-public"
+        },
+        {
+          "text": "Hydrogen Peroxide-Based Contact Lens Care Products: Consumer Labeling...",
+          "link": "/en/fda/guidance/hydrogen-peroxide-based-contact-lens-care-products-consumer-labeling-recommendations-premarket"
+        },
+        {
+          "text": "Non-Clinical Performance Assessment of Tissue Containment Systems Use...",
+          "link": "/en/fda/guidance/non-clinical-performance-assessment-tissue-containment-systems-used-during-power-morcellation"
+        },
+        {
+          "text": "Peripheral Percutaneous Transluminal Angioplasty (PTA) and Specialty ...",
+          "link": "/en/fda/guidance/peripheral-percutaneous-transluminal-angioplasty-pta-and-specialty-catheters-premarket-notification"
+        },
+        {
+          "text": "Soft (Hydrophilic) Daily Wear Contact Lenses - Performance Criteria f...",
+          "link": "/en/fda/guidance/soft-hydrophilic-daily-wear-contact-lenses-performance-criteria-safety-and-performance-based-pathway"
+        },
+        {
+          "text": "General Considerations for Animal Studies Intended to Evaluate Medica...",
+          "link": "/en/fda/guidance/general-considerations-animal-studies-intended-evaluate-medical-devices"
+        },
+        {
+          "text": "Transition Plan for Medical Devices That Fall Within Enforcement Poli...",
+          "link": "/en/fda/guidance/transition-plan-medical-devices-fall-within-enforcement-policies-issued-during-coronavirus-disease"
+        },
+        {
+          "text": "Transition Plan for Medical Devices Issued Emergency Use Authorizatio...",
+          "link": "/en/fda/guidance/transition-plan-medical-devices-issued-emergency-use-authorizations-euas-related-coronavirus-disease"
+        },
+        {
+          "text": "Policy Clarification and Premarket Notification [510(k)] Submissions ...",
+          "link": "/en/fda/guidance/policy-clarification-and-premarket-notification-510k-submissions-ultrasonic-diathermy-devices"
+        },
+        {
+          "text": "Medical X-Ray Imaging Devices Conformance with IEC Standards: Guidanc...",
+          "link": "/en/fda/guidance/medical-x-ray-imaging-devices-conformance-iec-standards"
+        },
+        {
+          "text": "Marketing Clearance of Diagnostic Ultrasound Systems and Transducers ...",
+          "link": "/en/fda/guidance/marketing-clearance-diagnostic-ultrasound-systems-and-transducers"
+        },
+        {
+          "text": "Policy for Evaluating Impact of Viral Mutations on COVID-19 Tests (Re...",
+          "link": "/en/fda/guidance/policy-evaluating-impact-viral-mutations-covid-19-tests-revised"
+        },
+        {
+          "text": "Policy for Coronavirus Disease-2019 Tests (Revised): Guidance for Dev...",
+          "link": "/en/fda/guidance/policy-coronavirus-disease-2019-tests-revised"
+        },
+        {
+          "text": "Developing and Responding to Deficiencies in Accordance with the Leas...",
+          "link": "/en/fda/guidance/developing-and-responding-deficiencies-accordance-least-burdensome-provisions"
+        },
+        {
+          "text": "Procedures for Handling Post-Approval Studies Imposed by PMA Order: G...",
+          "link": "/en/fda/guidance/procedures-handling-post-approval-studies-imposed-pma-order"
+        },
+        {
+          "text": "User Fees for 513(g) Requests for Information: Guidance for Industry ...",
+          "link": "/en/fda/guidance/user-fees-513g-requests-information"
+        },
+        {
+          "text": "User Fees and Refunds for Premarket Notification Submissions (510(k)s...",
+          "link": "/en/fda/guidance/user-fees-and-refunds-premarket-notification-submissions-510ks"
+        },
+        {
+          "text": "User Fees and Refunds for Premarket Approval Applications and Device ...",
+          "link": "/en/fda/guidance/user-fees-and-refunds-premarket-approval-applications-and-device-biologics-license-applications"
+        },
+        {
+          "text": "User Fees and Refunds for De Novo Classification Requests : Guidance ...",
+          "link": "/en/fda/guidance/user-fees-and-refunds-de-novo-classification-requests"
+        },
+        {
+          "text": "FDA and Industry Actions on Premarket Notification (510(k)) Submissio...",
+          "link": "/en/fda/guidance/fda-and-industry-actions-premarket-notification-510k-submissions-effect-fda-review-clock-and-goals"
+        },
+        {
+          "text": "FDA and Industry Actions on Premarket Approval Applications (PMAs): E...",
+          "link": "/en/fda/guidance/fda-and-industry-actions-premarket-approval-applications-pmas-effect-fda-review-clock-and-goals"
+        },
+        {
+          "text": "FDA and Industry Actions on De Novo Classification Requests: Effect o...",
+          "link": "/en/fda/guidance/fda-and-industry-actions-de-novo-classification-requests-effect-fda-review-clock-and-goals"
+        },
+        {
+          "text": "Display Devices for Diagnostic Radiology: Guidance for Industry and F...",
+          "link": "/en/fda/guidance/display-devices-diagnostic-radiology"
+        },
+        {
+          "text": "Regulatory Requirements for Hearing Aid Devices and Personal Sound Am...",
+          "link": "/en/fda/guidance/regulatory-requirements-hearing-aid-devices-and-personal-sound-amplification-products"
+        },
+        {
+          "text": "Technical Performance Assessment of Quantitative Imaging in Radiologi...",
+          "link": "/en/fda/guidance/technical-performance-assessment-quantitative-imaging-radiological-device-premarket-submissions"
+        },
+        {
+          "text": "Electromagnetic Compatibility (EMC) of Medical Devices: Guidance for ...",
+          "link": "/en/fda/guidance/electromagnetic-compatibility-emc-medical-devices"
+        },
+        {
+          "text": "Feasibility and Early Feasibility Clinical Studies for Certain Medica...",
+          "link": "/en/fda/guidance/feasibility-and-early-feasibility-clinical-studies-certain-medical-devices-intended-therapeutically"
+        },
+        {
+          "text": "Refuse to Accept Policy for 510(k)s: Guidance for Industry and Food a...",
+          "link": "/en/fda/guidance/refuse-accept-policy-510ks"
+        },
+        {
+          "text": "Facet Screw Systems - Performance Criteria for Safety and Performance...",
+          "link": "/en/fda/guidance/facet-screw-systems-performance-criteria-safety-and-performance-based-pathway"
+        },
+        {
+          "text": "Denture Base Resins - Performance Criteria for Safety and Performance...",
+          "link": "/en/fda/guidance/denture-base-resins-performance-criteria-safety-and-performance-based-pathway"
+        },
+        {
+          "text": "Surgical Sutures - Performance Criteria for Safety and Performance Ba...",
+          "link": "/en/fda/guidance/surgical-sutures-performance-criteria-safety-and-performance-based-pathway"
+        },
+        {
+          "text": "Orthopedic Fracture Fixation Plates - Performance Criteria for Safety...",
+          "link": "/en/fda/guidance/orthopedic-fracture-fixation-plates-performance-criteria-safety-and-performance-based-pathway"
+        },
+        {
+          "text": "Principles for Selecting, Developing, Modifying, and Adapting Patient...",
+          "link": "/en/fda/guidance/principles-selecting-developing-modifying-and-adapting-patient-reported-outcome-instruments-use"
+        },
+        {
+          "text": "Patient Engagement in the Design and Conduct of Medical Device Clinic...",
+          "link": "/en/fda/guidance/patient-engagement-design-and-conduct-medical-device-clinical-studies"
+        },
+        {
+          "text": "Non-Clinical and Clinical Investigation of Devices Used for the Treat...",
+          "link": "/en/fda/guidance/non-clinical-and-clinical-investigation-devices-used-treatment-benign-prostatic-hyperplasia-bph"
+        },
+        {
+          "text": "Arthroscopy Pump Tubing Sets Intended for Multiple Patient Use - Prem...",
+          "link": "/en/fda/guidance/arthroscopy-pump-tubing-sets-intended-multiple-patient-use-premarket-notification-510k-submissions"
+        },
+        {
+          "text": "De Novo Classification Process (Evaluation of Automatic Class III Des...",
+          "link": "/en/fda/guidance/de-novo-classification-process-evaluation-automatic-class-iii-designation"
+        },
+        {
+          "text": "Acceptance Review for De Novo Classification Requests: Guidance for I...",
+          "link": "/en/fda/guidance/acceptance-review-de-novo-classification-requests"
+        },
+        {
+          "text": "Technical Considerations for Non-Clinical Assessment of Medical Devic...",
+          "link": "/en/fda/guidance/technical-considerations-non-clinical-assessment-medical-devices-containing-nitinol"
+        },
+        {
+          "text": "Peripheral Vascular Atherectomy Devices - Premarket Notification [510...",
+          "link": "/en/fda/guidance/peripheral-vascular-atherectomy-devices-premarket-notification-510k-submissions"
+        },
+        {
+          "text": "Implanted Brain-Computer Interface (BCI) Devices for Patients with Pa...",
+          "link": "/en/fda/guidance/implanted-brain-computer-interface-bci-devices-patients-paralysis-or-amputation-non-clinical-testing"
+        },
+        {
+          "text": "Safer Technologies Program for Medical Devices: Guidance for Industry...",
+          "link": "/en/fda/guidance/safer-technologies-program-medical-devices"
+        },
+        {
+          "text": "Mouse Embryo Assay for Assisted Reproduction Technology Devices",
+          "link": "/en/fda/guidance/mouse-embryo-assay-assisted-reproduction-technology-devices"
+        },
+        {
+          "text": "Product Labeling for Laparoscopic Power Morcellators: Guidance for In...",
+          "link": "/en/fda/guidance/product-labeling-laparoscopic-power-morcellators"
+        },
+        {
+          "text": "Spinal Plating Systems - Performance Criteria for Safety and Performa...",
+          "link": "/en/fda/guidance/spinal-plating-systems-performance-criteria-safety-and-performance-based-pathway"
+        },
+        {
+          "text": "Magnetic Resonance (MR) Receive-only Coil - Performance Criteria for ...",
+          "link": "/en/fda/guidance/magnetic-resonance-mr-receive-only-coil-performance-criteria-safety-and-performance-based-pathway"
+        },
+        {
+          "text": "Regulatory Considerations for Microneedling Products: Guidance for In...",
+          "link": "/en/fda/guidance/regulatory-considerations-microneedling-products"
+        },
+        {
+          "text": "Self-Monitoring Blood Glucose Test Systems for Over-the-Counter Use: ...",
+          "link": "/en/fda/guidance/self-monitoring-blood-glucose-test-systems-over-counter-use"
+        },
+        {
+          "text": "Saline, Silicone Gel, and Alternative Breast Implants: Guidance for I...",
+          "link": "/en/fda/guidance/saline-silicone-gel-and-alternative-breast-implants"
+        },
+        {
+          "text": "Breast Implants - Certain Labeling Recommendations to Improve Patient...",
+          "link": "/en/fda/guidance/breast-implants-certain-labeling-recommendations-improve-patient-communication"
+        },
+        {
+          "text": "Blood Glucose Monitoring Test Systems for Prescription Point-of-Care ...",
+          "link": "/en/fda/guidance/blood-glucose-monitoring-test-systems-prescription-point-care-use"
+        },
+        {
+          "text": "The Accreditation Scheme for Conformity Assessment (ASCA) Pilot Progr...",
+          "link": "/en/fda/guidance/accreditation-scheme-conformity-assessment-asca-pilot-program"
+        },
+        {
+          "text": "Biocompatibility Testing of Medical Devices - Standards Specific Info...",
+          "link": "/en/fda/guidance/biocompatibility-testing-medical-devices-standards-specific-information-accreditation-scheme"
+        },
+        {
+          "text": "Basic Safety and Essential Performance of Medical Electrical Equipmen...",
+          "link": "/en/fda/guidance/basic-safety-and-essential-performance-medical-electrical-equipment-medical-electrical-systems-and"
+        },
+        {
+          "text": "Cutaneous Electrodes for Recording Purposes - Performance Criteria fo...",
+          "link": "/en/fda/guidance/cutaneous-electrodes-recording-purposes-performance-criteria-safety-and-performance-based-pathway"
+        },
+        {
+          "text": "Conventional Foley Catheters - Performance Criteria for Safety and Pe...",
+          "link": "/en/fda/guidance/conventional-foley-catheters-performance-criteria-safety-and-performance-based-pathway"
+        },
+        {
+          "text": "Clinical Investigations for Prostate Tissue Ablation Devices: Guidanc...",
+          "link": "/en/fda/guidance/clinical-investigations-prostate-tissue-ablation-devices"
+        },
+        {
+          "text": "Center for Devices and Radiological Health (CDRH) Appeals Processes: ...",
+          "link": "/en/fda/guidance/center-devices-and-radiological-health-cdrh-appeals-processes-questions-and-answers-about-517a"
+        },
+        {
+          "text": "Premarket Notification (510(k)) Submissions for Electrosurgical Devic...",
+          "link": "/en/fda/guidance/premarket-notification-510k-submissions-electrosurgical-devices-general-surgery"
+        },
+        {
+          "text": "Bone Anchors - Premarket Notification (510(k)) Submissions: Guidance ...",
+          "link": "/en/fda/guidance/bone-anchors-premarket-notification-510k-submissions"
+        },
+        {
+          "text": "Recommendations for Dual 510(k) and CLIA Waiver by Application Studie...",
+          "link": "/en/fda/guidance/recommendations-dual-510k-and-clia-waiver-application-studies"
+        },
+        {
+          "text": "Recommended Content and Format of Non-Clinical Bench Performance Test...",
+          "link": "/en/fda/guidance/recommended-content-and-format-non-clinical-bench-performance-testing-information-premarket"
+        },
+        {
+          "text": "Real-Time Premarket Approval Application (PMA) Supplements: Guidance ...",
+          "link": "/en/fda/guidance/real-time-premarket-approval-application-pma-supplements"
+        },
+        {
+          "text": "Annual Reports for Approved Premarket Approval Applications (PMA) : G...",
+          "link": "/en/fda/guidance/annual-reports-approved-premarket-approval-applications-pma"
+        },
+        {
+          "text": "Acceptance and Filing Reviews for Premarket Approval Applications (PM...",
+          "link": "/en/fda/guidance/acceptance-and-filing-reviews-premarket-approval-applications-pmas"
+        },
+        {
+          "text": "30-Day Notices, 135-Day Premarket Approval (PMA) Supplements and 75-D...",
+          "link": "/en/fda/guidance/30-day-notices-135-day-premarket-approval-pma-supplements-and-75-day-humanitarian-device-exemption"
+        },
+        {
+          "text": "Intravascular Catheters, Wires, and Delivery Systems with Lubricious ...",
+          "link": "/en/fda/guidance/intravascular-catheters-wires-and-delivery-systems-lubricious-coatings-labeling-considerations"
+        },
+        {
+          "text": "Coronary, Peripheral, and Neurovascular Guidewires - Performance Test...",
+          "link": "/en/fda/guidance/coronary-peripheral-and-neurovascular-guidewires-performance-tests-and-recommended-labeling"
+        },
+        {
+          "text": "Safety and Performance Based Pathway: Guidance for Industry and Food ...",
+          "link": "/en/fda/guidance/safety-and-performance-based-pathway"
+        },
+        {
+          "text": "The Special 510(k) Program: Guidance for Industry and Food and Drug A...",
+          "link": "/en/fda/guidance/special-510k-program"
+        },
+        {
+          "text": "The Abbreviated 510(k) Program: Guidance for Industry and Food and Dr...",
+          "link": "/en/fda/guidance/abbreviated-510k-program"
+        },
+        {
+          "text": "Humanitarian Device Exemption (HDE) Program: Guidance for Industry an...",
+          "link": "/en/fda/guidance/humanitarian-device-exemption-hde-program"
+        },
+        {
+          "text": "Factors to Consider When Making Benefit-Risk Determinations in Medica...",
+          "link": "/en/fda/guidance/factors-consider-when-making-benefit-risk-determinations-medical-device-premarket-approval-and-de"
+        },
+        {
+          "text": "Consideration of Uncertainty in Making Benefit-Risk Determinations in...",
+          "link": "/en/fda/guidance/consideration-uncertainty-making-benefit-risk-determinations-medical-device-premarket-approvals-de"
+        },
+        {
+          "text": "Metal Expandable Biliary Stents - Premarket Notification (510(k)) Sub...",
+          "link": "/en/fda/guidance/metal-expandable-biliary-stents-premarket-notification-510k-submissions"
+        },
+        {
+          "text": "Live Case Presentations During Investigational Device Exemption (IDE)...",
+          "link": "/en/fda/guidance/live-case-presentations-during-investigational-device-exemption-ide-clinical-trials"
+        },
+        {
+          "text": "Utilizing Animal Studies to Evaluate Organ Preservation Devices: Guid...",
+          "link": "/en/fda/guidance/utilizing-animal-studies-evaluate-organ-preservation-devices"
+        },
+        {
+          "text": "Characterization of Ultrahigh Molecular Weight Polyethylene (UHMWPE) ...",
+          "link": "/en/fda/guidance/characterization-ultrahigh-molecular-weight-polyethylene-uhmwpe-used-orthopedic-devices"
+        },
+        {
+          "text": "Medical Devices Containing Materials Derived from Animal Sources (Exc...",
+          "link": "/en/fda/guidance/medical-devices-containing-materials-derived-animal-sources-except-in-vitro-diagnostic-devices"
+        },
+        {
+          "text": "The Least Burdensome Provisions: Concept and Principles: Guidance for...",
+          "link": "/en/fda/guidance/least-burdensome-provisions-concept-and-principles"
+        },
+        {
+          "text": "Coordinated Development of Antimicrobial Drugs and Antimicrobial Susc...",
+          "link": "/en/fda/guidance/coordinated-development-antimicrobial-drugs-and-antimicrobial-susceptibility-test-devices"
+        },
+        {
+          "text": "Manufacturing Site Change Supplements: Content and Submission: Guidan...",
+          "link": "/en/fda/guidance/manufacturing-site-change-supplements-content-and-submission"
+        },
+        {
+          "text": "Benefit-Risk Factors to Consider When Determining Substantial Equival...",
+          "link": "/en/fda/guidance/benefit-risk-factors-consider-when-determining-substantial-equivalence-premarket-notifications-510k"
+        },
+        {
+          "text": "Heparin-Containing Medical Devices and Combination Products: Recommen...",
+          "link": "/en/fda/guidance/heparin-containing-medical-devices-and-combination-products-recommendations-labeling-and-safety"
+        },
+        {
+          "text": "Appropriate Use of Voluntary Consensus Standards in Premarket Submiss...",
+          "link": "/en/fda/guidance/appropriate-use-voluntary-consensus-standards-premarket-submissions-medical-devices"
+        },
+        {
+          "text": "Use of Public Human Genetic Variant Databases to Support Clinical Val...",
+          "link": "/en/fda/guidance/use-public-human-genetic-variant-databases-support-clinical-validity-genetic-and-genomic-based-vitro"
+        },
+        {
+          "text": "Acceptance of Clinical Data to Support Medical Device Applications an...",
+          "link": "/en/fda/guidance/acceptance-clinical-data-support-medical-device-applications-and-submissions-frequently-asked"
+        },
+        {
+          "text": "Technical Considerations for Additive Manufactured Medical Devices: G...",
+          "link": "/en/fda/guidance/technical-considerations-additive-manufactured-medical-devices"
+        },
+        {
+          "text": "FDA Categorization of Investigational Device Exemption (IDE) Devices ...",
+          "link": "/en/fda/guidance/fda-categorization-investigational-device-exemption-ide-devices-assist-centers-medicare-and-medicaid"
+        },
+        {
+          "text": "Pediatric Information for X-ray Imaging Device Premarket Notification...",
+          "link": "/en/fda/guidance/pediatric-information-x-ray-imaging-device-premarket-notifications"
+        },
+        {
+          "text": "Product Labeling for Certain Ultrasonic Surgical Aspirator Devices: G...",
+          "link": "/en/fda/guidance/product-labeling-certain-ultrasonic-surgical-aspirator-devices"
+        },
+        {
+          "text": "Deciding When to Submit a 510(k) for a Change to an Existing Device: ...",
+          "link": "/en/fda/guidance/deciding-when-submit-510k-change-existing-device"
+        },
+        {
+          "text": "Establishing the Performance Characteristics of In Vitro Diagnostic D...",
+          "link": "/en/fda/guidance/establishing-performance-characteristics-in-vitro-diagnostic-devices-detection-or-detection-and-0"
+        },
+        {
+          "text": "Evaluation and Reporting of Age-, Race-, and Ethnicity-Specific Data ...",
+          "link": "/en/fda/guidance/evaluation-and-reporting-age-race-and-ethnicity-specific-data-medical-device-clinical-studies"
+        },
+        {
+          "text": "Procedures for Meetings of the Medical Devices Advisory Committee: Gu...",
+          "link": "/en/fda/guidance/procedures-meetings-medical-devices-advisory-committee"
+        },
+        {
+          "text": "Factors to Consider When Making Benefit-Risk Determinations for Medic...",
+          "link": "/en/fda/guidance/factors-consider-when-making-benefit-risk-determinations-medical-device-investigational-device"
+        },
+        {
+          "text": "Factors to Consider Regarding Benefit-Risk in Medical Device Product ...",
+          "link": "/en/fda/guidance/factors-consider-regarding-benefit-risk-medical-device-product-availability-compliance-and"
+        },
+        {
+          "text": "Mitigating the Risk of Cross-Contamination from Valves and Accessorie...",
+          "link": "/en/fda/guidance/mitigating-risk-cross-contamination-valves-and-accessories-used-irrigation-through-flexible"
+        },
+        {
+          "text": "Clinical Considerations for Investigational Device Exemptions (IDEs) ...",
+          "link": "/en/fda/guidance/clinical-considerations-investigational-device-exemptions-ides-neurological-devices-targeting"
+        },
+        {
+          "text": "Labeling for Permanent Hysteroscopically-Placed Tubal Implants Intend...",
+          "link": "/en/fda/guidance/labeling-permanent-hysteroscopically-placed-tubal-implants-intended-sterilization"
+        },
+        {
+          "text": "Reporting of Computational Modeling Studies in Medical Device Submiss...",
+          "link": "/en/fda/guidance/reporting-computational-modeling-studies-medical-device-submissions"
+        },
+        {
+          "text": "Guidance for the Submission of 510(k)s for Solid State X-ray Imaging ...",
+          "link": "/en/fda/guidance/guidance-submission-510ks-solid-state-x-ray-imaging-devices"
+        },
+        {
+          "text": "Premarket Notification (510(k)) Submissions for Bipolar Electrosurgic...",
+          "link": "/en/fda/guidance/premarket-notification-510k-submissions-bipolar-electrosurgical-vessel-sealers-general-surgery"
+        },
+        {
+          "text": "Adaptive Designs for Medical Device Clinical Studies: Guidance for In...",
+          "link": "/en/fda/guidance/adaptive-designs-medical-device-clinical-studies"
+        },
+        {
+          "text": "Leveraging Existing Clinical Data for Extrapolation to Pediatric Uses...",
+          "link": "/en/fda/guidance/leveraging-existing-clinical-data-extrapolation-pediatric-uses-medical-devices"
+        },
+        {
+          "text": "Technical Performance Assessment of Digital Pathology Whole Slide Ima...",
+          "link": "/en/fda/guidance/technical-performance-assessment-digital-pathology-whole-slide-imaging-devices"
+        },
+        {
+          "text": "Radiation Biodosimetry Medical Countermeasure Devices: Guidance for I...",
+          "link": "/en/fda/guidance/radiation-biodosimetry-medical-countermeasure-devices"
+        },
+        {
+          "text": "Assessment of Radiofrequency-Induced Heating in the Magnetic Resonanc...",
+          "link": "/en/fda/guidance/assessment-radiofrequency-induced-heating-magnetic-resonance-mr-environment-multi-configuration"
+        },
+        {
+          "text": "Medical Devices and Clinical Trial Design for the Treatment or Improv...",
+          "link": "/en/fda/guidance/medical-devices-and-clinical-trial-design-treatment-or-improvement-appearance-fungally-infected"
+        },
+        {
+          "text": "Recommendations for Premarket Notifications for Lamotrigine and Zonis...",
+          "link": "/en/fda/guidance/recommendations-premarket-notifications-lamotrigine-and-zonisamide-assays"
+        },
+        {
+          "text": "Premarket Studies of Implantable Minimally Invasive Glaucoma Surgical...",
+          "link": "/en/fda/guidance/premarket-studies-implantable-minimally-invasive-glaucoma-surgical-migs-devices"
+        },
+        {
+          "text": "Premarket Notification Requirements Concerning Gowns Intended for Use...",
+          "link": "/en/fda/guidance/premarket-notification-requirements-concerning-gowns-intended-use-health-care-settings"
+        },
+        {
+          "text": "Select Updates for Non-Clinical Engineering Tests and Recommended Lab...",
+          "link": "/en/fda/guidance/select-updates-non-clinical-engineering-tests-and-recommended-labeling-intravascular-stents-and"
+        },
+        {
+          "text": "Endotoxin Testing Recommendations for Single-Use Intraocular Ophthalm...",
+          "link": "/en/fda/guidance/endotoxin-testing-recommendations-single-use-intraocular-ophthalmic-devices"
+        },
+        {
+          "text": "Content and Format for Abbreviated 510(k)s for Early Growth Response ...",
+          "link": "/en/fda/guidance/content-and-format-abbreviated-510ks-early-growth-response-1-egr1-gene-fluorescence-situ"
+        },
+        {
+          "text": "Balancing Premarket and Postmarket Data Collection for Devices Subjec...",
+          "link": "/en/fda/guidance/balancing-premarket-and-postmarket-data-collection-devices-subject-premarket-approval"
+        },
+        {
+          "text": "Reprocessing Medical Devices in Health Care Settings: Validation Meth...",
+          "link": "/en/fda/guidance/reprocessing-medical-devices-health-care-settings-validation-methods-and-labeling"
+        },
+        {
+          "text": "Safety Considerations to Mitigate the Risks of Misconnections with Sm...",
+          "link": "/en/fda/guidance/safety-considerations-mitigate-risks-misconnections-small-bore-connectors-intended-enteral"
+        },
+        {
+          "text": "Recommendations for Labeling Medical Products to Inform Users that th...",
+          "link": "/en/fda/guidance/recommendations-labeling-medical-products-inform-users-product-or-product-container-not-made-natural"
+        },
+        {
+          "text": "Infusion Pumps Total Product Life Cycle: Guidance for Industry and FD...",
+          "link": "/en/fda/guidance/infusion-pumps-total-product-life-cycle"
+        },
+        {
+          "text": "Design Considerations for Devices Intended for Home Use: Guidance for...",
+          "link": "/en/fda/guidance/design-considerations-devices-intended-home-use"
+        },
+        {
+          "text": "Molecular Diagnostic Instruments with Combined Functions: Guidance fo...",
+          "link": "/en/fda/guidance/molecular-diagnostic-instruments-combined-functions"
+        },
+        {
+          "text": "Custom Device Exemption: Guidance for Industry and Food and Drug Admi...",
+          "link": "/en/fda/guidance/custom-device-exemption"
+        },
+        {
+          "text": "FDA Decisions for Investigational Device Exemption Clinical Investiga...",
+          "link": "/en/fda/guidance/fda-decisions-investigational-device-exemption-clinical-investigations"
+        },
+        {
+          "text": "In Vitro Companion Diagnostic Devices: Guidance for Industry and Food...",
+          "link": "/en/fda/guidance/in-vitro-companion-diagnostic-devices"
+        },
+        {
+          "text": "The 510(k) Program: Evaluating Substantial Equivalence in Premarket N...",
+          "link": "/en/fda/guidance/510k-program-evaluating-substantial-equivalence-premarket-notifications-510k"
+        },
+        {
+          "text": "Criteria for Significant Risk Investigations of Magnetic Resonance Di...",
+          "link": "/en/fda/guidance/criteria-significant-risk-investigations-magnetic-resonance-diagnostic-devices-guidance-industry-and"
+        },
+        {
+          "text": "Providing Information about Pediatric Uses of Medical Devices: Guidan...",
+          "link": "/en/fda/guidance/providing-information-about-pediatric-uses-medical-devices"
+        },
+        {
+          "text": "Types of Communication During the Review of Medical Device Submission...",
+          "link": "/en/fda/guidance/types-communication-during-review-medical-device-submissions"
+        },
+        {
+          "text": "Premarket Assessment of Pediatric Medical Devices: Guidance for Indus...",
+          "link": "/en/fda/guidance/premarket-assessment-pediatric-medical-devices"
+        },
+        {
+          "text": "Distribution of In Vitro Diagnostic Products Labeled for Research Use...",
+          "link": "/en/fda/guidance/distribution-in-vitro-diagnostic-products-labeled-research-use-only-or-investigational-use-only"
+        },
+        {
+          "text": "Design Considerations for Pivotal Clinical Investigations for Medical...",
+          "link": "/en/fda/guidance/design-considerations-pivotal-clinical-investigations-medical-devices"
+        },
+        {
+          "text": "Investigational Device Exemptions (IDEs) for Early Feasibility Medica...",
+          "link": "/en/fda/guidance/investigational-device-exemptions-ides-early-feasibility-medical-device-clinical-studies-including"
+        },
+        {
+          "text": "Assay Migration Studies for In Vitro Diagnostic Devices: Guidance for...",
+          "link": "/en/fda/guidance/assay-migration-studies-in-vitro-diagnostic-devices"
+        },
+        {
+          "text": "Medical Device Classification Product Codes - Guidance for Industry a...",
+          "link": "/en/fda/guidance/medical-device-classification-product-codes-guidance-industry-and-food-and-drug-administration-staff"
+        },
+        {
+          "text": "Establishing the Performance Characteristics of In Vitro Diagnostic D...",
+          "link": "/en/fda/guidance/establishing-performance-characteristics-in-vitro-diagnostic-devices-detection-antibodies-borrelia"
+        },
+        {
+          "text": "Investigational Device Exemption (IDE) Guidance for Retinal Prosthese...",
+          "link": "/en/fda/guidance/investigational-device-exemption-ide-guidance-retinal-prostheses"
+        },
+        {
+          "text": "Pulse Oximeters - Premarket Notification Submissions [510(k)s]: Guida...",
+          "link": "/en/fda/guidance/pulse-oximeters-premarket-notification-submissions-510ks-guidance-industry-and-food-and-drug"
+        },
+        {
+          "text": "Clinical Study Designs for Surgical Ablation Devices for Treatment of...",
+          "link": "/en/fda/guidance/clinical-study-designs-surgical-ablation-devices-treatment-atrial-fibrillation-guidance-industry-and"
+        },
+        {
+          "text": "The Content of Investigational Device Exemption (IDE) and Premarket A...",
+          "link": "/en/fda/guidance/content-investigational-device-exemption-ide-and-premarket-approval-pma-applications-artificial"
+        },
+        {
+          "text": "Clinical Investigations of Devices Indicated for the Treatment of Uri...",
+          "link": "/en/fda/guidance/clinical-investigations-devices-indicated-treatment-urinary-incontinence-guidance-industry-and-fda"
+        },
+        {
+          "text": "Blood Lancet Labeling - Guidance for Industry and Food and Drug Admin...",
+          "link": "/en/fda/guidance/blood-lancet-labeling-guidance-industry-and-food-and-drug-administration-staff"
+        },
+        {
+          "text": "Contact Lens Care Products Labeling: Guidance for Industry and Food a...",
+          "link": "/en/fda/guidance/contact-lens-care-products-labeling"
+        },
+        {
+          "text": "In Vitro Diagnostic (IVD) Device Studies - Frequently Asked Questions...",
+          "link": "/en/fda/guidance/in-vitro-diagnostic-ivd-device-studies-frequently-asked-questions"
+        },
+        {
+          "text": "Non-Clinical Engineering Tests and Recommended Labeling for Intravasc...",
+          "link": "/en/fda/guidance/non-clinical-engineering-tests-and-recommended-labeling-intravascular-stents-and-associated-delivery"
+        },
+        {
+          "text": "Guidance for the Use of Bayesian Statistics in Medical Device Clinica...",
+          "link": "/en/fda/guidance/guidance-use-bayesian-statistics-medical-device-clinical-trials-pdf-version"
+        },
+        {
+          "text": "Modifications to Devices Subject to Premarket Approval (PMA) - The PM...",
+          "link": "/en/fda/guidance/modifications-devices-subject-premarket-approval-pma-pma-supplement-decision-making-process"
+        },
+        {
+          "text": "Clinical Study Designs for Catheter Ablation Devices for Treatment of...",
+          "link": "/en/fda/guidance/clinical-study-designs-catheter-ablation-devices-treatment-atrial-flutter"
+        },
+        {
+          "text": "Intravascular Administration Sets Premarket Notification Submissions ...",
+          "link": "/en/fda/guidance/intravascular-administration-sets-premarket-notification-submissions-510k"
+        },
+        {
+          "text": "Investigational Device Exemptions (IDEs) for Devices Indicated for No...",
+          "link": "/en/fda/guidance/investigational-device-exemptions-ides-devices-indicated-nocturnal-home-hemodialysis"
+        },
+        {
+          "text": "Preparation and Review of Investigational Device Exemption Applicatio...",
+          "link": "/en/fda/guidance/preparation-and-review-investigational-device-exemption-applications-ides-total-artificial-discs"
+        },
+        {
+          "text": "Coronary and Carotid Embolic Protection Devices - Premarket Notificat...",
+          "link": "/en/fda/guidance/coronary-and-carotid-embolic-protection-devices-premarket-notification-510k-submissions"
+        },
+        {
+          "text": "Medical Glove Guidance Manual: Guidance for Industry and FDA Staff",
+          "link": "/en/fda/guidance/medical-glove-guidance-manual"
+        },
+        {
+          "text": "Biological Indicator (BI) Premarket Notification [510(k)] Submissions...",
+          "link": "/en/fda/guidance/biological-indicator-bi-premarket-notification-510k-submissions"
+        },
+        {
+          "text": "Non-clinical Information for Femoral Stem Prostheses: Guidance for In...",
+          "link": "/en/fda/guidance/non-clinical-information-femoral-stem-prostheses"
+        },
+        {
+          "text": "Commercially Distributed Analyte Specific Reagents (ASRs): Frequently...",
+          "link": "/en/fda/guidance/commercially-distributed-analyte-specific-reagents-asrs-frequently-asked-questions"
+        },
+        {
+          "text": "Bundling Multiple Devices or Multiple Indications in a Single Submiss...",
+          "link": "/en/fda/guidance/bundling-multiple-devices-or-multiple-indications-single-submission"
+        },
+        {
+          "text": "Pre-Clinical and Clinical Studies for Neurothrombectomy Devices: Guid...",
+          "link": "/en/fda/guidance/pre-clinical-and-clinical-studies-neurothrombectomy-devices"
+        },
+        {
+          "text": "Dental Handpieces - Premarket Notification [510(k)] Submissions: Guid...",
+          "link": "/en/fda/guidance/dental-handpieces-premarket-notification-510k-submissions"
+        },
+        {
+          "text": "Keratome and Replacement Keratome Blades Premarket Notification [510(...",
+          "link": "/en/fda/guidance/keratome-and-replacement-keratome-blades-premarket-notification-510k-submissions"
+        },
+        {
+          "text": "Guidance on Informed Consent for In Vitro Diagnostic Device Studies U...",
+          "link": "/en/fda/guidance/guidance-informed-consent-in-vitro-diagnostic-device-studies-using-leftover-human-specimens-are-not"
+        },
+        {
+          "text": "Tonometers - Premarket Notification [510(k)] Submissions : Guidance f...",
+          "link": "/en/fda/guidance/tonometers-premarket-notification-510k-submissions"
+        },
+        {
+          "text": "Pharmacogenetic Tests and Genetic Tests for Heritable Markers: Guidan...",
+          "link": "/en/fda/guidance/pharmacogenetic-tests-and-genetic-tests-heritable-markers"
+        },
+        {
+          "text": "Medical Devices with Sharps Injury Prevention Features - Guidance for...",
+          "link": "/en/fda/guidance/medical-devices-sharps-injury-prevention-features-guidance-industry-and-fda-staff"
+        },
+        {
+          "text": "Menstrual Tampons and Pads: Information for Premarket Notification Su...",
+          "link": "/en/fda/guidance/menstrual-tampons-and-pads-information-premarket-notification-submissions-510ks-guidance-industry"
+        },
+        {
+          "text": "Clinical Data Presentations for Orthopedic Device Applications - Guid...",
+          "link": "/en/fda/guidance/clinical-data-presentations-orthopedic-device-applications-guidance-industry-and-fda-staff"
+        },
+        {
+          "text": "Clinical Trial Considerations: Vertebral Augmentation Devices to Trea...",
+          "link": "/en/fda/guidance/clinical-trial-considerations-vertebral-augmentation-devices-treat-spinal-insufficiency-fractures"
+        },
+        {
+          "text": "Class II Special Controls Guidance Document: Serological Assays for t...",
+          "link": "/en/fda/guidance/class-ii-special-controls-guidance-document-serological-assays-detection-beta-glucan-pdf-version"
+        },
+        {
+          "text": "Medical Device User Fee and Modernization Act of 2002, Validation Dat...",
+          "link": "/en/fda/guidance/medical-device-user-fee-and-modernization-act-2002-validation-data-premarket-notification"
+        },
+        {
+          "text": "Class II Special Controls Guidance Document: Immunomagnetic Circulati...",
+          "link": "/en/fda/guidance/class-ii-special-controls-guidance-document-immunomagnetic-circulating-cancer-cell-selection-and"
+        },
+        {
+          "text": "Guidance for Industry and FDA Staff: Spinal System 510(k)s",
+          "link": "/en/fda/guidance/guidance-industry-and-fda-staff-spinal-system-510ks"
+        },
+        {
+          "text": "Surgical Masks - Premarket Notification [510(k)] Submissions: Guidanc...",
+          "link": "/en/fda/guidance/surgical-masks-premarket-notification-510k-submissions"
+        },
+        {
+          "text": "Guidance for Industry and FDA Staff: Vocal Fold Medialization Devices...",
+          "link": "/en/fda/guidance/guidance-industry-and-fda-staff-vocal-fold-medialization-devices-premarket-notification-510k"
+        },
+        {
+          "text": "Premarket Notification [510(k)] Submissions for Chemical Indicators -...",
+          "link": "/en/fda/guidance/premarket-notification-510k-submissions-chemical-indicators-guidance-industry-and-fda-staff"
+        },
+        {
+          "text": "Quality System Information for Certain Premarket Application Reviews ...",
+          "link": "/en/fda/guidance/quality-system-information-certain-premarket-application-reviews"
+        },
+        {
+          "text": "Determination of Intended Use for 510(k) Devices - Guidance for CDRH ...",
+          "link": "/en/fda/guidance/determination-intended-use-510k-devices-guidance-cdrh-staff-update-k98-1"
+        },
+        {
+          "text": "Guidance for Resorbable Adhesion Barrier Devices for Use in Abdominal...",
+          "link": "/en/fda/guidance/guidance-resorbable-adhesion-barrier-devices-use-abdominal-andor-pelvic-surgery-guidance-industry"
+        },
+        {
+          "text": "Frequently-Asked-Questions about the Reprocessing and Reuse of Single...",
+          "link": "/en/fda/guidance/frequently-asked-questions-about-reprocessing-and-reuse-single-use-devices-third-party-and-hospital"
+        },
+        {
+          "text": "Changes or Modifications During the Conduct of a Clinical Investigati...",
+          "link": "/en/fda/guidance/changes-or-modifications-during-conduct-clinical-investigation-final-guidance-industry-and-cdrh"
+        },
+        {
+          "text": "Early Collaboration Meetings Under the FDA Modernization Act (FDAMA);...",
+          "link": "/en/fda/guidance/early-collaboration-meetings-under-fda-modernization-act-fdama-final-guidance-industry-and-cdrh"
+        },
+        {
+          "text": "Content of Investigational Device Exemptions for Solutions for Hypoth...",
+          "link": "/en/fda/guidance/content-investigational-device-exemptions-solutions-hypothermic-flushing-transport-and-storage"
+        },
+        {
+          "text": "Guidance Document for Dura Substitute Devices - Guidance for Industry",
+          "link": "/en/fda/guidance/guidance-document-dura-substitute-devices-guidance-industry"
+        },
+        {
+          "text": "Guidance for the Submission of Premarket Notifications for Photon-Emi...",
+          "link": "/en/fda/guidance/guidance-submission-premarket-notifications-photon-emitting-brachytherapy-sources-guidance-industry"
+        },
+        {
+          "text": "Guidance for Over-the-Counter (OTC) Human Chorionic Gonadotropin (hCG...",
+          "link": "/en/fda/guidance/guidance-over-counter-otc-human-chorionic-gonadotropin-hcg-510ks-guidance-industry-and-fda"
+        },
+        {
+          "text": "Guidance for Premarket Submissions of Orthokeratology Rigid Gas Perme...",
+          "link": "/en/fda/guidance/guidance-premarket-submissions-orthokeratology-rigid-gas-permeable-contact-lenses-guidance-industry"
+        },
+        {
+          "text": "Guidance for Manufacturers Seeking Marketing Clearance of Ear, Nose, ...",
+          "link": "/en/fda/guidance/guidance-manufacturers-seeking-marketing-clearance-ear-nose-and-throat-endoscope-sheaths-used"
+        },
+        {
+          "text": "Guidance Document for Premarket Notification Submissions for Nitric O...",
+          "link": "/en/fda/guidance/guidance-document-premarket-notification-submissions-nitric-oxide-delivery-apparatus-nitric-oxide"
+        },
+        {
+          "text": "Guidance for the Content of Premarket Notifications for Penile Rigidi...",
+          "link": "/en/fda/guidance/guidance-content-premarket-notifications-penile-rigidity-implants-guidance-industry-and-fda-staff"
+        },
+        {
+          "text": "Guidance Document for the Preparation of IDEs for Spinal Systems - Gu...",
+          "link": "/en/fda/guidance/guidance-document-preparation-ides-spinal-systems-guidance-industry-andor-fda-staff"
+        },
+        {
+          "text": "Content and Format of Premarket Notification [510(k)] Submissions for...",
+          "link": "/en/fda/guidance/content-and-format-premarket-notification-510k-submissions-liquid-chemical-sterilantshigh-level"
+        },
+        {
+          "text": "Guidance for Cardiovascular Intravascular Filter 510(k) Submissions -...",
+          "link": "/en/fda/guidance/guidance-cardiovascular-intravascular-filter-510k-submissions-guidance-industry-and-fda-staff"
+        },
+        {
+          "text": "Guidance Document for Powered Muscle Stimulator 510(k)s - Guidance fo...",
+          "link": "/en/fda/guidance/guidance-document-powered-muscle-stimulator-510ks-guidance-industry-fda-reviewersstaff-and"
+        },
+        {
+          "text": "Immunotoxicity Testing Guidance",
+          "link": "/en/fda/guidance/immunotoxicity-testing-guidance"
+        },
+        {
+          "text": "Preparing Notices of Availability of Investigational Medical Devices ...",
+          "link": "/en/fda/guidance/preparing-notices-availability-investigational-medical-devices-and-recruiting-study-subjects"
+        },
+        {
+          "text": "Guidance on 510(k) Submissions for Keratoprostheses - Guidance for In...",
+          "link": "/en/fda/guidance/guidance-510k-submissions-keratoprostheses-guidance-industry-and-fda-reviewersstaff"
+        },
+        {
+          "text": "Guidance for the Preparation of a Premarket Notification Application ...",
+          "link": "/en/fda/guidance/guidance-preparation-premarket-notification-application-surgical-mesh-guidance-industry-andor-fda"
+        },
+        {
+          "text": "Guidance for Dermabrasion Devices - Guidance for Industry",
+          "link": "/en/fda/guidance/guidance-dermabrasion-devices-guidance-industry"
+        },
+        {
+          "text": "Premarket Notification [510(k)] Submissions for Testing for Skin Sens...",
+          "link": "/en/fda/guidance/premarket-notification-510k-submissions-testing-skin-sensitization-chemicals-natural-rubber-products"
+        },
+        {
+          "text": "Guidance for the Submission of Premarket Notifications for Emission C...",
+          "link": "/en/fda/guidance/guidance-submission-premarket-notifications-emission-computed-tomography-devices-and-accessories"
+        },
+        {
+          "text": "Guidance for the Submission of Premarket Notifications For Radionucli...",
+          "link": "/en/fda/guidance/guidance-submission-premarket-notifications-radionuclide-dose-calibrators-guidance-industry"
+        },
+        {
+          "text": "Non-Automated Sphygmomanometer (Blood Pressure Cuff) Guidance - Versi...",
+          "link": "/en/fda/guidance/non-automated-sphygmomanometer-blood-pressure-cuff-guidance-version-1-guidance-industry"
+        },
+        {
+          "text": "Aqueous Shunts - 510(k) Submissions - Guidance for Industry and for F...",
+          "link": "/en/fda/guidance/aqueous-shunts-510k-submissions-guidance-industry-and-fda-reviewersstaff"
+        },
+        {
+          "text": "Diagnostic ECG Guidance (Including Non-Alarming ST Segment Measuremen...",
+          "link": "/en/fda/guidance/diagnostic-ecg-guidance-including-non-alarming-st-segment-measurement-guidance-industry"
+        },
+        {
+          "text": "Cardiac Monitor Guidance (including Cardiotachometer and Rate Alarm) ...",
+          "link": "/en/fda/guidance/cardiac-monitor-guidance-including-cardiotachometer-and-rate-alarm-guidance-industry"
+        },
+        {
+          "text": "General/Specific Intended Use - Guidance for Industry",
+          "link": "/en/fda/guidance/generalspecific-intended-use-guidance-industry"
+        },
+        {
+          "text": "Noise Claims in Hearing Aid Labeling - Guidance for Industry",
+          "link": "/en/fda/guidance/noise-claims-hearing-aid-labeling-guidance-industry"
+        },
+        {
+          "text": "Guidance Document For Nonprescription Sunglasses - Guidance for Industry",
+          "link": "/en/fda/guidance/guidance-document-nonprescription-sunglasses-guidance-industry"
+        },
+        {
+          "text": "Guidance Document for Powered Suction Pump 510(k)s - Guidance for Ind...",
+          "link": "/en/fda/guidance/guidance-document-powered-suction-pump-510ks-guidance-industry-and-fda-reviewersstaff"
+        },
+        {
+          "text": "OTC Denture Cushions, Pads, Reliners, Repair Kits, and Partially Fabr...",
+          "link": "/en/fda/guidance/otc-denture-cushions-pads-reliners-repair-kits-and-partially-fabricated-denture-kits-guidance"
+        },
+        {
+          "text": "Revised Procedures for Adding Lens Finishing Laboratories to Approved...",
+          "link": "/en/fda/guidance/revised-procedures-adding-lens-finishing-laboratories-approved-premarket-approval-applications-class"
+        },
+        {
+          "text": "Latex Condoms for Men - Information for 510(k) Premarket Notification...",
+          "link": "/en/fda/guidance/latex-condoms-men-information-510k-premarket-notifications-use-consensus-standards-abbreviated"
+        },
+        {
+          "text": "Uniform Contraceptive Labeling - Guidance for Industry",
+          "link": "/en/fda/guidance/uniform-contraceptive-labeling-guidance-industry"
+        },
+        {
+          "text": "Guidance Document For Washers And Washer-Disinfectors Intended For Pr...",
+          "link": "/en/fda/guidance/guidance-document-washers-and-washer-disinfectors-intended-processing-reusable-medical-devices"
+        },
+        {
+          "text": "Supplements to Approved Applications for Class III Medical Devices: U...",
+          "link": "/en/fda/guidance/supplements-approved-applications-class-iii-medical-devices-use-published-literature-use-previously"
+        },
+        {
+          "text": "Guidance For The Content Of Premarket Notifications For Esophageal An...",
+          "link": "/en/fda/guidance/guidance-content-premarket-notifications-esophageal-and-tracheal-prostheses-guidance-industry"
+        },
+        {
+          "text": "Procedures for Class II Device Exemptions from Premarket Notification...",
+          "link": "/en/fda/guidance/procedures-class-ii-device-exemptions-premarket-notification-guidance-industry-and-cdrh-staff"
+        },
+        {
+          "text": "Kit Certification for 510(k)s",
+          "link": "/en/fda/guidance/kit-certification-510ks"
+        },
+        {
+          "text": "Convenience Kits Interim Regulatory Guidance",
+          "link": "/en/fda/guidance/convenience-kits-interim-regulatory-guidance"
+        },
+        {
+          "text": "Non-Invasive Blood Pressure (NIBP) Monitor Guidance",
+          "link": "/en/fda/guidance/non-invasive-blood-pressure-nibp-monitor-guidance"
+        },
+        {
+          "text": "Reviewers Guidance Checklist For Orthopedic External Fixation Devices...",
+          "link": "/en/fda/guidance/reviewers-guidance-checklist-orthopedic-external-fixation-devices-version-5"
+        },
+        {
+          "text": "510(K) Information Needed for Hydroxyapatite Coated Orthopedic Implants",
+          "link": "/en/fda/guidance/510k-information-needed-hydroxyapatite-coated-orthopedic-implants"
+        },
+        {
+          "text": "Third Party Review Guidance for Phacofragmentation System Device Prem...",
+          "link": "/en/fda/guidance/third-party-review-guidance-phacofragmentation-system-device-premarket-notification-510k"
+        },
+        {
+          "text": "Third Party Review Guidance For Vitreous Aspiration and Cutting Devic...",
+          "link": "/en/fda/guidance/third-party-review-guidance-vitreous-aspiration-and-cutting-device-premarket-notification-510k"
+        },
+        {
+          "text": "Checklist of Information Usually Submitted in an Investigational Devi...",
+          "link": "/en/fda/guidance/checklist-information-usually-submitted-investigational-device-exemptions-ide-application-refractive"
+        },
+        {
+          "text": "Suggested Format For IDE Progress Report",
+          "link": "/en/fda/guidance/suggested-format-ide-progress-report"
+        },
+        {
+          "text": "Thermal Endometrial Ablation Devices (Submission Guidance for an IDE)",
+          "link": "/en/fda/guidance/thermal-endometrial-ablation-devices-submission-guidance-ide"
+        },
+        {
+          "text": "Hysteroscopes and Gynecology Laparoscopes - Submission Guidance for a...",
+          "link": "/en/fda/guidance/hysteroscopes-and-gynecology-laparoscopes-submission-guidance-510k"
+        },
+        {
+          "text": "Addendum to: Guidance on Premarket Notification [510(k)] Submissions ...",
+          "link": "/en/fda/guidance/addendum-guidance-premarket-notification-510k-submissions-sterilizers-intended-use-health-care"
+        },
+        {
+          "text": "Hysteroscopic and Laparoscopic Insufflators: Submission Guidance for ...",
+          "link": "/en/fda/guidance/hysteroscopic-and-laparoscopic-insufflators-submission-guidance-510k"
+        },
+        {
+          "text": "Guidance Document for the Preparation of Premarket Notification [510(...",
+          "link": "/en/fda/guidance/guidance-document-preparation-premarket-notification-510k-applications-mechanical-and-powered"
+        },
+        {
+          "text": "Guidance Document for the Preparation of Premarket Notification [510(...",
+          "link": "/en/fda/guidance/guidance-document-preparation-premarket-notification-510k-applications-heating-and-cooling-devices"
+        },
+        {
+          "text": "Guidance Document for the Preparation of Premarket Notification [510(...",
+          "link": "/en/fda/guidance/guidance-document-preparation-premarket-notification-510k-applications-exercise-equipment"
+        },
+        {
+          "text": "Testing Guidance for Male Condoms Made From New Material (Non-Latex)",
+          "link": "/en/fda/guidance/testing-guidance-male-condoms-made-new-material-non-latex"
+        },
+        {
+          "text": "Guidance on the Content and Organization of a Premarket Notification ...",
+          "link": "/en/fda/guidance/guidance-content-and-organization-premarket-notification-medical-laser"
+        },
+        {
+          "text": "Guidance Document for Testing Non-Articulating, 'Mechanically Locked'...",
+          "link": "/en/fda/guidance/guidance-document-testing-non-articulating-mechanically-locked-modular-implant-components"
+        },
+        {
+          "text": "Guidance Document For The Preparation of Premarket Notification For C...",
+          "link": "/en/fda/guidance/guidance-document-preparation-premarket-notification-ceramic-ball-hip-systems"
+        },
+        {
+          "text": "Checklist for Mechanical Lithotripters and Stone Dislodgers used in G...",
+          "link": "/en/fda/guidance/checklist-mechanical-lithotripters-and-stone-dislodgers-used-gastroenterology-and-urology"
+        },
+        {
+          "text": "510(k) Checklist for Sterile Lubricating Jelly Used With Transurethra...",
+          "link": "/en/fda/guidance/510k-checklist-sterile-lubricating-jelly-used-transurethral-surgical-instruments"
+        },
+        {
+          "text": "Guidance for the Content of Premarket Notifications for Conventional ...",
+          "link": "/en/fda/guidance/guidance-content-premarket-notifications-conventional-and-antimicrobial-foley-catheters"
+        },
+        {
+          "text": "Guidance for the Preparation of a Premarket Notification for Extended...",
+          "link": "/en/fda/guidance/guidance-preparation-premarket-notification-extended-laparoscopy-devices-eld"
+        },
+        {
+          "text": "Guidance for the Content of Premarket Notifications for Urine Drainag...",
+          "link": "/en/fda/guidance/guidance-content-premarket-notifications-urine-drainage-bags"
+        },
+        {
+          "text": "Guidance Document for Testing Orthopedic Implants with Modified Metal...",
+          "link": "/en/fda/guidance/guidance-document-testing-orthopedic-implants-modified-metallic-surfaces-apposing-bone-or-bone"
+        },
+        {
+          "text": "Letter - Manufacturers, Distributors and Importers of Condom Products...",
+          "link": "/en/fda/guidance/letter-manufacturers-distributors-and-importers-condom-products-included-condom-packet-398"
+        },
+        {
+          "text": "Reviewer Guidance for Nebulizers, Metered Dose Inhalers, Spacers and ...",
+          "link": "/en/fda/guidance/reviewer-guidance-nebulizers-metered-dose-inhalers-spacers-and-actuators"
+        },
+        {
+          "text": "Guidance on Premarket Notification [510(k)] Submissions for Surgical ...",
+          "link": "/en/fda/guidance/guidance-premarket-notification-510k-submissions-surgical-gowns-and-surgical-drapes"
+        },
+        {
+          "text": "Guidance on Premarket Notification [510(k)] Submissions for Automated...",
+          "link": "/en/fda/guidance/guidance-premarket-notification-510k-submissions-automated-endoscope-washers-washerdisinfectors-and"
+        },
+        {
+          "text": "Guidance on the Content of Premarket Notification [510(K)] Submission...",
+          "link": "/en/fda/guidance/guidance-content-premarket-notification-510k-submissions-piston-syringes"
+        },
+        {
+          "text": "Guidance on Premarket Notification 510(k) for Sterilizers Intended fo...",
+          "link": "/en/fda/guidance/guidance-premarket-notification-510k-sterilizers-intended-use-health-care-facilities"
+        },
+        {
+          "text": "Guidance for the Content of Premarket Notifications for Ureteral Stents",
+          "link": "/en/fda/guidance/guidance-content-premarket-notifications-ureteral-stents"
+        },
+        {
+          "text": "Guidance for the Content of Premarket Notifications for Biopsy Device...",
+          "link": "/en/fda/guidance/guidance-content-premarket-notifications-biopsy-devices-used-gastroenterology-and-urology"
+        },
+        {
+          "text": "Review Criteria For Premarket Approval of In Vitro Diagnostic Devices...",
+          "link": "/en/fda/guidance/review-criteria-premarket-approval-in-vitro-diagnostic-devices-detection-antibodies-parvovirus-b19"
+        },
+        {
+          "text": "Device Labeling Guidance #G91-1 (Blue Book Memo)",
+          "link": "/en/fda/guidance/device-labeling-guidance-g91-1-blue-book-memo"
+        },
+        {
+          "text": "Guidance for Oxygen Conserving Device 510(k) Review 73 BZD 868.5905 N...",
+          "link": "/en/fda/guidance/guidance-oxygen-conserving-device-510k-review-73-bzd-8685905-non-continuous-ventilator-class-ii"
+        },
+        {
+          "text": "Master Files Part III - Guidance on Scientific and Technical Information",
+          "link": "/en/fda/guidance/master-files-part-iii-guidance-scientific-and-technical-information"
+        },
+        {
+          "text": "All U.S. Condom Manufacturers, Importers and Repackagers",
+          "link": "/en/fda/guidance/all-us-condom-manufacturers-importers-and-repackagers"
+        },
+        {
+          "text": "Guidance ('Guidelines') for Evaluation of Hysteroscopic Sterilization...",
+          "link": "/en/fda/guidance/guidance-guidelines-evaluation-hysteroscopic-sterilization-devices"
+        },
+        {
+          "text": "Review Guidelines for Oxygen Generators and Oxygen Equipment for Emer...",
+          "link": "/en/fda/guidance/review-guidelines-oxygen-generators-and-oxygen-equipment-emergency-use"
+        }
+      ]
+    },
+    {
+      "text": "Quality / QMSR / Manufacturing (7)",
+      "collapsed": true,
+      "items": [
+        {
+          "text": "Remanufacturing of Medical Devices: Guidance for Industry, Entities T...",
+          "link": "/en/fda/guidance/remanufacturing"
+        },
+        {
+          "text": "Fostering Medical Device Improvement: FDA Activities and Engagement w...",
+          "link": "/en/fda/guidance/fostering-medical-device-improvement-fda-activities-and-engagement-voluntary-improvement-program"
+        },
+        {
+          "text": "Inspection and Field Testing of Radiation-Emitting Electronic Product...",
+          "link": "/en/fda/guidance/inspection-and-field-testing-radiation-emitting-electronic-products-attachment-c-specific"
+        },
+        {
+          "text": "Inspection and Field Testing of Radiation-Emitting Electronic Product...",
+          "link": "/en/fda/guidance/inspection-and-field-testing-radiation-emitting-electronic-products-attachment"
+        },
+        {
+          "text": "Frequently-Asked-Questions about the Reprocessing and Reuse of Single...",
+          "link": "/en/fda/guidance/frequently-asked-questions-about-reprocessing-and-reuse-single-use-devices-third-party-and-hospital-0"
+        },
+        {
+          "text": "Labeling Recommendations for Single-Use Devices Reprocessed by Third ...",
+          "link": "/en/fda/guidance/labeling-recommendations-single-use-devices-reprocessed-third-parties-and-hospitals"
+        },
+        {
+          "text": "Quality Assurance Guidelines for Hemodialysis Devices",
+          "link": "/en/fda/guidance/quality-assurance-guidelines-hemodialysis-devices"
+        }
+      ]
+    },
+    {
+      "text": "IVD / Companion Diagnostics (7)",
+      "collapsed": true,
+      "items": [
+        {
+          "text": "Consideration of Enforcement Policies for In Vitro Diagnostic Tests D...",
+          "link": "/en/fda/guidance/consideration-enforcement-policies-in-vitro-diagnostic-tests-during-section-564-declared-emergency"
+        },
+        {
+          "text": "Replacement Reagent and Instrument Family Policy for In Vitro Diagnos...",
+          "link": "/en/fda/guidance/replacement-reagent-and-instrument-family-policy-in-vitro-diagnostic-devices"
+        },
+        {
+          "text": "Recommendations for Clinical Laboratory Improvement Amendments of 198...",
+          "link": "/en/fda/guidance/recommendations-clinical-laboratory-improvement-amendments-1988-clia-waiver-applications"
+        },
+        {
+          "text": "Considerations for Design, Development, and Analytical Validation of ...",
+          "link": "/en/fda/guidance/considerations-design-development-and-analytical-validation-next-generation-sequencing-ngs-based"
+        },
+        {
+          "text": "Administrative Procedures for CLIA Categorization: Guidance for Indus...",
+          "link": "/en/fda/guidance/administrative-procedures-clia-categorization"
+        },
+        {
+          "text": "Highly Multiplexed Microbiological/Medical Countermeasure In Vitro Nu...",
+          "link": "/en/fda/guidance/highly-multiplexed-microbiologicalmedical-countermeasure-in-vitro-nucleic-acid-based-diagnostic-devices"
+        },
+        {
+          "text": "Establishing the Performance Characteristics of In Vitro Diagnostic D...",
+          "link": "/en/fda/guidance/establishing-performance-characteristics-in-vitro-diagnostic-devices-detection-or-detection-and"
+        }
+      ]
+    },
+    {
+      "text": "Labeling / UDI (14)",
+      "collapsed": true,
+      "items": [
+        {
+          "text": "Global Unique Device Identification Database (GUDID): Guidance for In...",
+          "link": "/en/fda/guidance/global-unique-device-identification-database-gudid"
+        },
+        {
+          "text": "Clarification of Radiation Control Regulations For Manufacturers of D...",
+          "link": "/en/fda/guidance/clarification-radiation-control-regulations-manufacturers-diagnostic-x-ray-equipment"
+        },
+        {
+          "text": "Antimicrobial Susceptibility Test (AST) System Devices – Updating Bre...",
+          "link": "/en/fda/guidance/antimicrobial-susceptibility-test-ast-system-devices-updating-breakpoints-device-labeling"
+        },
+        {
+          "text": "Unique Device Identification: Policy Regarding Compliance Dates for C...",
+          "link": "/en/fda/guidance/unique-device-identification-policy-regarding-compliance-dates-class-i-and-unclassified-devices"
+        },
+        {
+          "text": "Surgical Staplers and Staples for Internal Use - Labeling Recommendat...",
+          "link": "/en/fda/guidance/surgical-staplers-and-staples-internal-use-labeling-recommendations"
+        },
+        {
+          "text": "Unique Device Identification System: Form and Content of the Unique D...",
+          "link": "/en/fda/guidance/unique-device-identification-system-form-and-content-unique-device-identifier-udi"
+        },
+        {
+          "text": "Unique Device Identification: Convenience Kits : Guidance for Industr...",
+          "link": "/en/fda/guidance/unique-device-identification-convenience-kits"
+        },
+        {
+          "text": "Unique Device Identification: Direct Marking of Devices : Guidance fo...",
+          "link": "/en/fda/guidance/unique-device-identification-direct-marking-devices"
+        },
+        {
+          "text": "Unique Device Identifier System: Frequently Asked Questions, Vol. 1 :...",
+          "link": "/en/fda/guidance/unique-device-identifier-system-frequently-asked-questions-vol-1"
+        },
+        {
+          "text": "Addition of URLs to Electronic Product Labeling: Guidance for Industr...",
+          "link": "/en/fda/guidance/addition-urls-electronic-product-labeling"
+        },
+        {
+          "text": "Approval of Alternate Means of Labeling for Laser Products (Laser Not...",
+          "link": "/en/fda/guidance/approval-alternate-means-labeling-laser-products-laser-notice-53"
+        },
+        {
+          "text": "Compliance with Section 301 of the Medical Device User Fee and Modern...",
+          "link": "/en/fda/guidance/compliance-section-301-medical-device-user-fee-and-modernization-act-2002-amended-prominent-and"
+        },
+        {
+          "text": "Guidance on Medical Device Patient Labeling: Final Guidance for Indus...",
+          "link": "/en/fda/guidance/guidance-medical-device-patient-labeling"
+        },
+        {
+          "text": "Labeling - Regulatory Requirements for Medical Devices (FDA 89-4203)",
+          "link": "/en/fda/guidance/labeling-regulatory-requirements-medical-devices-fda-89-4203"
+        }
+      ]
+    },
+    {
+      "text": "Postmarket / Recalls / Vigilance (25)",
+      "collapsed": true,
+      "items": [
+        {
+          "text": "Notifying FDA of a Permanent Discontinuance or Interruption in Manufa...",
+          "link": "/en/fda/guidance/notifying-fda-permanent-discontinuance-or-interruption-manufacturing-device-under-section-506j-fdc"
+        },
+        {
+          "text": "Voluntary Malfunction Summary Reporting (VMSR) Program for Manufactur...",
+          "link": "/en/fda/guidance/voluntary-malfunction-summary-reporting-vmsr-program-manufacturers"
+        },
+        {
+          "text": "Process to Request a Review of FDA's Decision Not to Issue Certain Ex...",
+          "link": "/en/fda/guidance/process-request-review-fdas-decision-not-issue-certain-export-certificates-devices"
+        },
+        {
+          "text": "Postmarket Surveillance Under Section 522 of the Federal Food, Drug, ...",
+          "link": "/en/fda/guidance/postmarket-surveillance-under-section-522-federal-food-drug-and-cosmetic-act"
+        },
+        {
+          "text": "Nonbinding Feedback After Certain FDA Inspections of Device Establish...",
+          "link": "/en/fda/guidance/nonbinding-feedback-after-certain-fda-inspections-device-establishments"
+        },
+        {
+          "text": "Manufacturers Sharing Patient-Specific Information from Medical Devic...",
+          "link": "/en/fda/guidance/manufacturers-sharing-patient-specific-information-medical-devices-patients-upon-request"
+        },
+        {
+          "text": "Public Notification of Emerging Postmarket Medical Device Signals (\"E...",
+          "link": "/en/fda/guidance/public-notification-emerging-postmarket-medical-device-signals-emerging-signals"
+        },
+        {
+          "text": "Medical Device Reporting for Manufacturers : Guidance for Industry an...",
+          "link": "/en/fda/guidance/medical-device-reporting-manufacturers"
+        },
+        {
+          "text": "Distinguishing Medical Device Recalls from Medical Device Enhancement...",
+          "link": "/en/fda/guidance/distinguishing-medical-device-recalls-medical-device-enhancements"
+        },
+        {
+          "text": "Medical Device Tracking : Guidance for Industry and FDA Staff",
+          "link": "/en/fda/guidance/medical-device-tracking"
+        },
+        {
+          "text": "Questions and Answers about eMDR - Electronic Medical Device Reportin...",
+          "link": "/en/fda/guidance/questions-and-answers-about-emdr-electronic-medical-device-reporting-guidance-industry-user"
+        },
+        {
+          "text": "Radiation Safety Considerations for X-Ray Equipment Designed for Hand...",
+          "link": "/en/fda/guidance/radiation-safety-considerations-x-ray-equipment-designed-hand-held-use"
+        },
+        {
+          "text": "Surveillance and Detention Without Physical Examination of Surgeons' ...",
+          "link": "/en/fda/guidance/surveillance-and-detention-without-physical-examination-surgeons-andor-patient-examination-gloves"
+        },
+        {
+          "text": "Surveillance and Detention Without Physical Examination of Condoms: G...",
+          "link": "/en/fda/guidance/surveillance-and-detention-without-physical-examination-condoms"
+        },
+        {
+          "text": "Writing Dear Doctor Letters for Recalls of Implantable Cardioverter D...",
+          "link": "/en/fda/guidance/writing-dear-doctor-letters-recalls-implantable-cardioverter-defibrillators-icds"
+        },
+        {
+          "text": "Hospital Bed System Dimensional and Assessment Guidance to Reduce Ent...",
+          "link": "/en/fda/guidance/hospital-bed-system-dimensional-and-assessment-guidance-reduce-entrapment"
+        },
+        {
+          "text": "Review Criteria for Assessment of C-Reactive Protein (CRP), High Sens...",
+          "link": "/en/fda/guidance/review-criteria-assessment-c-reactive-protein-crp-high-sensitivity-c-reactive-protein-hscrp-and"
+        },
+        {
+          "text": "Information Disclosure by Manufacturers to Assemblers for Diagnostic ...",
+          "link": "/en/fda/guidance/information-disclosure-manufacturers-assemblers-diagnostic-x-ray-systems-guidance-industry-and-fda"
+        },
+        {
+          "text": "Needlesticks - Medical Device Reporting Guidance for User Facilities,...",
+          "link": "/en/fda/guidance/needlesticks-medical-device-reporting-guidance-user-facilities-manufacturers-and-importers"
+        },
+        {
+          "text": "Sterilized Convenience Kits for Clinical and Surgical Use: Final Guid...",
+          "link": "/en/fda/guidance/sterilized-convenience-kits-clinical-and-surgical-use"
+        },
+        {
+          "text": "Information for Keratome Manufacturers Regarding LASIK - Final Guidan...",
+          "link": "/en/fda/guidance/information-keratome-manufacturers-regarding-lasik-final-guidance-industry"
+        },
+        {
+          "text": "Guidance for Industry on the Testing of Metallic Plasma Sprayed Coati...",
+          "link": "/en/fda/guidance/guidance-industry-testing-metallic-plasma-sprayed-coatings-orthopedic-implants-support"
+        },
+        {
+          "text": "Variance from Manufacturer Report Number Format - No. 5",
+          "link": "/en/fda/guidance/variance-manufacturer-report-number-format-no-5"
+        },
+        {
+          "text": "Variance from Manufacturer Report Number Format [MDR letter]",
+          "link": "/en/fda/guidance/variance-manufacturer-report-number-format-mdr-letter"
+        },
+        {
+          "text": "Medical Device Reporting for User Facilities",
+          "link": "/en/fda/guidance/medical-device-reporting-user-facilities"
+        }
+      ]
+    },
+    {
+      "text": "Radiation / Imaging (44)",
+      "collapsed": true,
+      "items": [
+        {
+          "text": "Appeal Options Available to Mammography Facilities Concerning Adverse...",
+          "link": "/en/fda/guidance/appeal-options-available-mammography-facilities-concerning-adverse-accreditation-decisions"
+        },
+        {
+          "text": "Acceptable Media for Electronic Product User Manuals: Guidance for In...",
+          "link": "/en/fda/guidance/acceptable-media-electronic-product-user-manuals"
+        },
+        {
+          "text": "Laser Products - Conformance with IEC 60825-1 Ed. 3 and IEC 60601-2-2...",
+          "link": "/en/fda/guidance/laser-products-conformance-iec-60825-1-ed-3-and-iec-60601-2-22-ed-31-laser-notice-no-56"
+        },
+        {
+          "text": "Guidance for Industry and Food and Drug Administration Staff - Assemb...",
+          "link": "/en/fda/guidance/guidance-industry-and-food-and-drug-administration-staff-assemblers-guide-diagnostic-x-ray-equipment"
+        },
+        {
+          "text": "Surveying, Leveling, and Alignment Laser Products: Guidance for Indus...",
+          "link": "/en/fda/guidance/surveying-leveling-and-alignment-laser-products"
+        },
+        {
+          "text": "Policy Clarification for Certain Fluoroscopic Equipment Requirements:...",
+          "link": "/en/fda/guidance/policy-clarification-certain-fluoroscopic-equipment-requirements"
+        },
+        {
+          "text": "Classification and Requirements for Laser Illuminated Projectors (LIP...",
+          "link": "/en/fda/guidance/classification-and-requirements-laser-illuminated-projectors-lips-laser-notice-no-57"
+        },
+        {
+          "text": "Minimizing Risk for Children's Toy Laser Products: Guidance for Indus...",
+          "link": "/en/fda/guidance/minimizing-risk-childrens-toy-laser-products"
+        },
+        {
+          "text": "Procedures for Renewal and Amendment of Certain Laser Light Show Vari...",
+          "link": "/en/fda/guidance/procedures-renewal-and-amendment-certain-laser-light-show-variances-laser-notice-55"
+        },
+        {
+          "text": "Compliance Guide for Cabinet X-Ray Systems",
+          "link": "/en/fda/guidance/compliance-guide-cabinet-x-ray-systems"
+        },
+        {
+          "text": "Exemption from Reporting and Recordkeeping Requirements for Low Power...",
+          "link": "/en/fda/guidance/exemption-reporting-and-recordkeeping-requirements-low-power-laser-products-laser-notice-54"
+        },
+        {
+          "text": "Applicability of the Performance Standard for High-Intensity Mercury ...",
+          "link": "/en/fda/guidance/applicability-performance-standard-high-intensity-mercury-vapor-discharge-lamps-21-cfr-104030"
+        },
+        {
+          "text": "Guidance on the Department of Defense Exemption from the FDA Performa...",
+          "link": "/en/fda/guidance/guidance-department-defense-exemption-fda-performance-standard-laser-products"
+        },
+        {
+          "text": "Responsibilities of Laser Light Show Projector Manufacturers, Dealers...",
+          "link": "/en/fda/guidance/responsibilities-laser-light-show-projector-manufacturers-dealers-and-distributors-laser-notice-51"
+        },
+        {
+          "text": "Accidental Radioactive Contamination of Human Food and Animal Feeds: ...",
+          "link": "/en/fda/guidance/accidental-radioactive-contamination-human-food-and-animal-feeds"
+        },
+        {
+          "text": "Identification Labels for Certain Class I Laser Products (Laser Notic...",
+          "link": "/en/fda/guidance/identification-labels-certain-class-i-laser-products-laser-notice-48"
+        },
+        {
+          "text": "Emitted Laser Beam as Emission Indicator for Class II and Class IIIa ...",
+          "link": "/en/fda/guidance/emitted-laser-beam-emission-indicator-class-ii-and-class-iiia-laser-products-laser-notice-49"
+        },
+        {
+          "text": "Effective Visual Control of Laser Projections (Laser Notice 47)",
+          "link": "/en/fda/guidance/effective-visual-control-laser-projections-laser-notice-47"
+        },
+        {
+          "text": "User Instruction for Medical Products (Laser Notice 44)",
+          "link": "/en/fda/guidance/user-instruction-medical-products-laser-notice-44"
+        },
+        {
+          "text": "Beam Attenuators and Emission Indicators for Class II and IIIa Laser ...",
+          "link": "/en/fda/guidance/beam-attenuators-and-emission-indicators-class-ii-and-iiia-laser-systems-laser-notice-43"
+        },
+        {
+          "text": "Compliance Guide for Laser Products (FDA 86-8260)",
+          "link": "/en/fda/guidance/compliance-guide-laser-products-fda-86-8260"
+        },
+        {
+          "text": "Clarification of Radiation Control Regulations for Diagnostic X-Ray E...",
+          "link": "/en/fda/guidance/clarification-radiation-control-regulations-diagnostic-x-ray-equipment-part-3"
+        },
+        {
+          "text": "Clarification of Radiation Control Regulations for Diagnostic X-Ray E...",
+          "link": "/en/fda/guidance/clarification-radiation-control-regulations-diagnostic-x-ray-equipment-part-1"
+        },
+        {
+          "text": "Clarification of Radiation Control Regulations for Diagnostic X-Ray E...",
+          "link": "/en/fda/guidance/clarification-radiation-control-regulations-diagnostic-x-ray-equipment-fda-89-8221"
+        },
+        {
+          "text": "Quality Control Guide for Sunlamp Products (FDA 88-8234)",
+          "link": "/en/fda/guidance/quality-control-guide-sunlamp-products-fda-88-8234"
+        },
+        {
+          "text": "Guide for Establishing and Maintaining a Calibration Constancy Interc...",
+          "link": "/en/fda/guidance/guide-establishing-and-maintaining-calibration-constancy-intercomparison-system-microwave-oven"
+        },
+        {
+          "text": "Class II and IIIA Laser Light Show Projectors and Shows (Laser Notice...",
+          "link": "/en/fda/guidance/class-ii-and-iiia-laser-light-show-projectors-and-shows-laser-notice-40"
+        },
+        {
+          "text": "User Instructions - Multi Axis Workstations (Laser Notice 39)",
+          "link": "/en/fda/guidance/user-instructions-multi-axis-workstations-laser-notice-39"
+        },
+        {
+          "text": "Walk-In Workstations (Laser Notice 37)",
+          "link": "/en/fda/guidance/walk-workstations-laser-notice-37"
+        },
+        {
+          "text": "Policy On Maximum Timer Interval and Exposure Schedule For Sunlamp Pr...",
+          "link": "/en/fda/guidance/policy-maximum-timer-interval-and-exposure-schedule-sunlamp-products"
+        },
+        {
+          "text": "Policy on Warning Label Required on Sunlamp Products",
+          "link": "/en/fda/guidance/policy-warning-label-required-sunlamp-products"
+        },
+        {
+          "text": "User Instruction Hazard Warnings (Laser Notice 35)",
+          "link": "/en/fda/guidance/user-instruction-hazard-warnings-laser-notice-35"
+        },
+        {
+          "text": "Medical Laser Delivery System Interlocks (Laser Notice 34)",
+          "link": "/en/fda/guidance/medical-laser-delivery-system-interlocks-laser-notice-34"
+        },
+        {
+          "text": "Exemption from Reporting and Record keeping Requirements for Certain ...",
+          "link": "/en/fda/guidance/exemption-reporting-and-record-keeping-requirements-certain-sunlamp-product-manufacturers"
+        },
+        {
+          "text": "Investigational Medical Laser Significant Risk Device (Laser Notice 31)",
+          "link": "/en/fda/guidance/investigational-medical-laser-significant-risk-device-laser-notice-31"
+        },
+        {
+          "text": "Alternate Wording For Caution Statement (Laser Notice 30)",
+          "link": "/en/fda/guidance/alternate-wording-caution-statement-laser-notice-30"
+        },
+        {
+          "text": "Laser Light Shows Subject to Laser Product Performance Standard (Lase...",
+          "link": "/en/fda/guidance/laser-light-shows-subject-laser-product-performance-standard-laser-notice-22"
+        },
+        {
+          "text": "Warning Labels For Dye And Multiple Wavelength Lasers (Laser Notice 16)",
+          "link": "/en/fda/guidance/warning-labels-dye-and-multiple-wavelength-lasers-laser-notice-16"
+        },
+        {
+          "text": "Lasers Manufactured and Used In-House (Laser Notice 14)",
+          "link": "/en/fda/guidance/lasers-manufactured-and-used-house-laser-notice-14"
+        },
+        {
+          "text": "Manufacture and Certification of Laser Kits (Laser Notice 13)",
+          "link": "/en/fda/guidance/manufacture-and-certification-laser-kits-laser-notice-13"
+        },
+        {
+          "text": "Remote Interlock Connectors (Laser Notice 11)",
+          "link": "/en/fda/guidance/remote-interlock-connectors-laser-notice-11"
+        },
+        {
+          "text": "Viewing Optics - Sighting Telescope (Laser Notice 8)",
+          "link": "/en/fda/guidance/viewing-optics-sighting-telescope-laser-notice-8"
+        },
+        {
+          "text": "Quality Control Practices for Compliance with the Federal Laser Perfo...",
+          "link": "/en/fda/guidance/quality-control-practices-compliance-federal-laser-performance-standard"
+        },
+        {
+          "text": "Laser Energy Source (Laser Notice 2)",
+          "link": "/en/fda/guidance/laser-energy-source-laser-notice-2"
+        }
+      ]
+    },
+    {
+      "text": "Clinical / Real-World Evidence (3)",
+      "collapsed": true,
+      "items": [
+        {
+          "text": "Guidance for the Use of Bayesian Statistics in Medical Device Clinica...",
+          "link": "/en/fda/guidance/guidance-use-bayesian-statistics-medical-device-clinical-trials"
+        },
+        {
+          "text": "Statistical Guidance on Reporting Results from Studies Evaluating Dia...",
+          "link": "/en/fda/guidance/statistical-guidance-reporting-results-studies-evaluating-diagnostic-tests-guidance-industry-and-fda"
+        },
+        {
+          "text": "Recommended Clinical Study Design for Ventricular Tachycardia Ablation",
+          "link": "/en/fda/guidance/recommended-clinical-study-design-ventricular-tachycardia-ablation"
+        }
+      ]
+    },
+    {
+      "text": "General / Other (21)",
+      "collapsed": true,
+      "items": [
+        {
+          "text": "Incorporating Voluntary Patient Preference Information over the Total...",
+          "link": "/en/fda/guidance/incorporating-voluntary-patient-preference-information-over-total-product-life-cycle"
+        },
+        {
+          "text": "Medical Device User Fee Small Business Qualification and Determinatio...",
+          "link": "/en/fda/guidance/medical-device-user-fee-small-business-qualification-and-determination"
+        },
+        {
+          "text": "Clinical Considerations for Studies of Devices Intended to Treat Opio...",
+          "link": "/en/fda/guidance/clinical-considerations-studies-devices-intended-treat-opioid-use-disorder"
+        },
+        {
+          "text": "Referencing the Definition of \"Device\" in the Federal Food, Drug, and...",
+          "link": "/en/fda/guidance/referencing-definition-device-federal-food-drug-and-cosmetic-act-guidance-regulatory-documents"
+        },
+        {
+          "text": "Policy for Monkeypox Tests to Address the Public Health Emergency: Gu...",
+          "link": "/en/fda/guidance/policy-monkeypox-tests-address-public-health-emergency"
+        },
+        {
+          "text": "Center for Devices and Radiological Health (CDRH) Appeals Processes: ...",
+          "link": "/en/fda/guidance/center-devices-and-radiological-health-cdrh-appeals-processes"
+        },
+        {
+          "text": "Recognition and Withdrawal of Voluntary Consensus Standards: Guidance...",
+          "link": "/en/fda/guidance/recognition-and-withdrawal-voluntary-consensus-standards"
+        },
+        {
+          "text": "Providing Regulatory Submissions for Medical Devices in Electronic Fo...",
+          "link": "/en/fda/guidance/providing-regulatory-submissions-medical-devices-electronic-format-submissions-under-section-745ab"
+        },
+        {
+          "text": "Implanted Blood Access Devices for Hemodialysis: Guidance for Industr...",
+          "link": "/en/fda/guidance/implanted-blood-access-devices-hemodialysis"
+        },
+        {
+          "text": "Impact-Resistant Lenses: Questions and Answers: Guidance for Industry...",
+          "link": "/en/fda/guidance/impact-resistant-lenses-questions-and-answers"
+        },
+        {
+          "text": "Decorative, Non-corrective Contact Lenses: Guidance for Industry, FDA...",
+          "link": "/en/fda/guidance/decorative-non-corrective-contact-lenses"
+        },
+        {
+          "text": "Pediatric Expertise for Advisory Panels - Guidance for Industry and F...",
+          "link": "/en/fda/guidance/pediatric-expertise-advisory-panels-guidance-industry-and-fda-staff"
+        },
+        {
+          "text": "Guidance on Section 216 of the Food and Drug Administration Moderniza...",
+          "link": "/en/fda/guidance/guidance-section-216-food-and-drug-administration-modernization-act-1997-guidance-industry-and-fda"
+        },
+        {
+          "text": "1-Consolidated Annual Report for a Device product line (1-CARD) - Gui...",
+          "link": "/en/fda/guidance/1-consolidated-annual-report-device-product-line-1-card-guidance-industry-and-cdrh-reviewers"
+        },
+        {
+          "text": "FDA Animal Products Database Data Entry Form",
+          "link": "/en/fda/guidance/fda-animal-products-database-data-entry-form"
+        },
+        {
+          "text": "Prospective Manufacturers of Barrier Devices Used During Oral Sex for...",
+          "link": "/en/fda/guidance/prospective-manufacturers-barrier-devices-used-during-oral-sex-std-protection"
+        },
+        {
+          "text": "Points to Consider for Cervical Cytology Devices",
+          "link": "/en/fda/guidance/points-consider-cervical-cytology-devices"
+        },
+        {
+          "text": "Letter to Industry, Powered Wheelchair Manufacturers from RMJohnson",
+          "link": "/en/fda/guidance/letter-industry-powered-wheelchair-manufacturers-rmjohnson"
+        },
+        {
+          "text": "Shelf Life of Medical Devices",
+          "link": "/en/fda/guidance/shelf-life-medical-devices"
+        },
+        {
+          "text": "Color Additive Petitions - Medical Devices",
+          "link": "/en/fda/guidance/color-additive-petitions-medical-devices"
+        },
+        {
+          "text": "Policy on Lamp Compatibility (sunlamps)",
+          "link": "/en/fda/guidance/policy-lamp-compatibility-sunlamps"
+        }
+      ]
+    }
   ]
 }

@@ -1,0 +1,371 @@
+---
+title: "Consideration of Enforcement Policies for In Vitro Diagnostic Tests During a Section 564 Declared Emergency: Guidance for Industry and Food and Drug Administration Staff"
+description: "FDA CDRH Final Guidance Document"
+published: 2025-09-23
+---
+
+# Consideration of Enforcement Policies for In Vitro Diagnostic Tests During a Section 564 Declared Emergency: Guidance for Industry and Food and Drug Administration Staff
+
+**Published**: 2025-09-23
+
+**Status**: Final
+**Type**: Guidance Document
+**Category**: IVD / Companion Diagnostics
+**Topics**: Outbreak, IVDs (In Vitro Diagnostic Devices)
+**Docket**: FDA-2023-D-5365
+
+::: tip Official Source
+[https://www.fda.gov/regulatory-information/search-fda-guidance-documents/consideration-enforcement-policies-in-vitro-diagnostic-tests-during-section-564-declared-emergency](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/consideration-enforcement-policies-in-vitro-diagnostic-tests-during-section-564-declared-emergency)
+PDF: [https://www.fda.gov/media/178123/download](https://www.fda.gov/media/178123/download)
+:::
+
+<!-- fulltext-start -->
+
+---
+
+## Official Full Text
+
+<!-- Page 1 -->
+Contains Nonbinding Recommendations
+Consideration of Enforcement Policies 
+for In Vitro Diagnostic Tests During a 
+Section 564 Declared Emergency
+Guidance for Industry and 
+Food and Drug Administration Staff 
+Document issued on September 23, 2025. 
+The draft of this document was issued on May 6, 2024.
+For questions about this document, contact CDRH at CDRH-OIR-Policy@fda.hhs.gov.
+U.S. Department of Health and Human Services
+Food and Drug Administration
+Center for Devices and Radiological Health
+
+---
+
+<!-- Page 2 -->
+Contains Nonbinding Recommendations
+Preface
+Public Comment
+You may submit electronic comments and suggestions at any time for Agency consideration to 
+https://www.regulations.gov. Submit written comments to the Dockets Management Staff, Food 
+and Drug Administration, 5630 Fishers Lane, Room 1061, (HFA-305), Rockville, MD 20852-
+1740. Identify all comments with the docket number FDA-2023-D-5365. Comments may not be 
+acted upon by the Agency until the document is next revised or updated.
+Additional Copies
+Additional copies are available from the Internet. You may also send an email request to
+CDRH-Guidance@fda.hhs.gov to receive a copy of the guidance. Please include the document 
+number GUI00007009 and complete title of the guidance in the request.
+
+---
+
+<!-- Page 3 -->
+Contains Nonbinding Recommendations
+Table of Contents
+I. 
+Introduction ............................................................................................................................ 1
+II. 
+Background ............................................................................................................................ 2
+III. Factors to Consider in Deciding When to Begin and End an Enforcement Policy for 
+Unapproved In Vitro Diagnostic Tests ........................................................................................... 4
+
+---
+
+<!-- Page 4 -->
+Contains Nonbinding Recommendations
+1
+Consideration of Enforcement Policies 
+for In Vitro Diagnostic Tests During a 
+Section 564 Declared Emergency
+Guidance for Industry and
+Food and Drug Administration Staff
+This guidance represents the current thinking of the Food and Drug Administration (FDA or 
+Agency) on this topic. It does not establish any rights for any person and is not binding on 
+FDA or the public. You can use an alternative approach if it satisfies the requirements of the 
+applicable statutes and regulations. To discuss an alternative approach, contact the FDA staff 
+or Office responsible for this guidance as listed on the title page. 
+I.
+Introduction1 
+FDA plays a critical role in protecting the United States (U.S.) from emergencies and public 
+health threats such as emerging infectious diseases and chemical agents. In certain 
+circumstances, emergencies and threats could lead to an HHS Secretary declaration for certain 
+devices (or other medical products) under section 564 of the Federal Food, Drug, and Cosmetic 
+Act (FD&C Act) enabling FDA to issue emergency use authorizations (EUAs). After such a 
+declaration, FDA also may decide to issue an enforcement policy to help expand availability of 
+certain devices. FDA is issuing this guidance that describes the factors FDA plans to assess in 
+deciding when to issue an enforcement policy regarding in vitro diagnostic test manufacturers’2
+1 This guidance has been prepared by the Center for Devices and Radiological Health (CDRH) in consultation with 
+the Center for Biologics Evaluation and Research (CBER).
+2 For purposes of this document, we use “manufacturers” for those entities conducting any activity that constitutes 
+manufacturing as described in FDA regulations (e.g., design, preparation, propagation, assembly, and processing). 
+See 21 CFR 807.3(d) and 820.3(o).
+
+---
+
+<!-- Page 5 -->
+Contains Nonbinding Recommendations
+2
+offering of certain devices,3 specifically unapproved in vitro diagnostic tests4 and unapproved 
+uses of approved in vitro diagnostic tests,5 for the diagnosis of disease or other conditions during 
+a declared emergency (collectively referred to hereafter as “unapproved in vitro diagnostic 
+tests”) and when to end such an enforcement policy. 
+In general, FDA’s guidance documents do not establish legally enforceable responsibilities. 
+Instead, guidances describe the Agency’s current thinking on a topic and should be viewed only 
+as recommendations, unless specific regulatory or statutory requirements are cited. The use of 
+the word should in Agency guidances means that something is suggested or recommended, but 
+not required.
+II.
+Background 
+Appropriately safe and effective tests are critical to the diagnosis, treatment, tracking, and 
+interruption of transmission of infectious diseases during outbreaks, as well as for diagnosing 
+and treating diseases or conditions caused by chemical, biological, radiological, and nuclear 
+(CBRN) threat agents. In vitro diagnostic tests are also critical for evaluating the impact or 
+effectiveness of certain public health interventions. In the event of these types of emergencies 
+and threats, often there is no available FDA-approved in vitro diagnostic test to diagnose the 
+disease or condition.  
+Under section 564 of the FD&C Act, FDA may authorize emergency use of unapproved medical 
+products, or unapproved uses of approved medical products, when certain criteria are met, after 
+the HHS Secretary has made a relevant declaration of emergency or threat justifying 
+authorization of emergency use, to diagnose, treat, or prevent diseases or conditions caused by 
+3 Under section 201(h)(1) of the FD&C Act, the term “device” is defined as follows: 
+“an instrument, apparatus, implement, machine, contrivance, implant, in vitro reagent, or other similar or 
+related article, including any component, part, or accessory, which is--  
+(A) recognized in the official National Formulary, or the United States Pharmacopeia, or any 
+supplement to them,  
+(B) intended for use in the diagnosis of disease or other conditions, or in the cure, mitigation, 
+treatment, or prevention of disease, in man or other animals, or  
+(C) intended to affect the structure or any function of the body of man or other animals, and  
+which does not achieve its primary intended purposes through chemical action within or on the body of 
+man or other animals and which is not dependent upon being metabolized for the achievement of its 
+primary intended purposes. The term ‘device’ does not include software functions excluded pursuant to 
+section 520(o)” of the FD&C Act. 
+4 Consistent with section 564 of the FD&C Act and other FDA authorities, “unapproved in vitro diagnostic test” 
+refers to a test that is not approved, licensed, granted or cleared under section 510(k), 513(f)(2) or 515 of the FD&C 
+Act or section 351 of the Public Health Service Act (PHS Act), as applicable. See “unapproved product” in section 
+564(a)(2)(A) of the FD&C Act. The terms “approved test” and “FDA-approved test” refer to a test that is approved, 
+licensed, granted or cleared under section 510(k), 513(f)(2) or 515 of the FD&C Act or section 351 of the PHS Act, 
+as applicable.  
+5 Consistent with section 564 of the FD&C Act and other FDA authorities, "unapproved use of an approved in vitro 
+diagnostic test" refers to a test that is approved, licensed, granted or cleared under section 510(k), 513(f)(2) or 515 of 
+the FD&C Act or section 351 of the PHS Act, but for which the specific use is not an approved, licensed, granted or 
+cleared use of the product. See “unapproved use of an approved product” in section 564(a)(2)(B) of the FD&C Act. 
+Examples of unapproved uses of approved tests would be the over-the-counter use of a test approved for prescription 
+use only or the use of nasal swab samples with a test approved for use with nasopharyngeal swab samples.
+
+---
+
+<!-- Page 6 -->
+Contains Nonbinding Recommendations
+3
+CBRN threat agents, as well as other agents that may present a heightened risk to the U.S. 
+military forces. For information on FDA’s implementation of this and other emergency use 
+authorities, see FDA’s guidance “Emergency Use Authorization of Medical Products and 
+Related Authorities.” 
+In certain situations, even when there is a relevant declaration under section 564 of the FD&C 
+Act and FDA has issued EUAs for certain in vitro diagnostic tests, FDA may find it appropriate 
+to also issue an enforcement policy regarding the distribution and use of certain unapproved in 
+vitro diagnostic tests for which EUAs have not been issued to help further expand access to such 
+in vitro diagnostic tests as quickly as possible. During the COVID-196 and mpox7 responses, 
+FDA issued guidance with enforcement policies for certain in vitro diagnostic tests to help 
+facilitate availability and quickly increase national testing capacity. Those enforcement policies 
+helped to supplement the availability of in vitro diagnostic tests when, even with access to EUA-
+authorized or FDA-approved in vitro diagnostic tests, there were still insufficient tests to meet 
+demand during the emergencies. These guidance documents also discussed the FDA’s intended 
+review priorities for EUA requests to address public health needs.
+In May 2022, following a request by Congress to review FDA’s oversight of tests for COVID-
+19, the U.S. Government Accountability Office (GAO) published a report to Congress titled 
+“FDA Took Steps to Help Make Tests Available; Policy for Future Public Health Emergencies 
+Needed.”8 In this report, GAO recommended “that FDA develop a policy for the use of 
+enforcement discretion regarding unauthorized tests in future public health emergencies. This 
+policy should include the conditions under which FDA would begin and end the use of such 
+discretion.”9 In determining when to begin and end any enforcement discretion policy, FDA will 
+consider the public health needs and the benefits and risks of such a policy to address those 
+needs. As part of this consideration, and as discussed further in the next section of this guidance, 
+FDA believes the factors in this guidance will help to ensure that appropriate tests are included in 
+such a policy and that a timeframe is determined that is appropriate for the circumstances of the 
+particular public health emergency. This will allow FDA to end any such policy at a time when 
+the benefits no longer outweigh the risks, such as when emergency use authorized tests are 
+sufficiently available.
+This guidance describes the factors FDA intends to consider in determining when to begin and 
+end an enforcement policy regarding unapproved in vitro diagnostic tests for which EUAs have 
+not been issued during a declared emergency.10  
+6 See “Policy for Coronavirus Disease-2019 Tests (Revised).” 
+7 See “Policy for Monkeypox Tests to Address the Public Health Emergency.” 
+8 Available at https://www.gao.gov/products/gao-22-104266
+9 See footnote 8. 
+10 We note that this guidance relates to the time period after the exposure or outbreak results in an applicable section 
+564 declaration.
+
+---
+
+<!-- Page 7 -->
+Contains Nonbinding Recommendations
+4
+III. Factors to Consider in Deciding When to Begin and End 
+an Enforcement Policy for Unapproved In Vitro Diagnostic 
+Tests  
+FDA may decide it is appropriate to issue an enforcement policy (or policies) indicating its intent 
+not to object to the limited offering of certain unapproved and unauthorized in vitro diagnostic 
+tests for the diagnosis of a specific disease or other condition under certain circumstances, such 
+as to help quickly increase test availability, during a declared emergency under section 564 of the 
+FD&C Act. FDA intends to outline any such policy in guidance that identifies, among other 
+things, the intended scope of the enforcement policy regarding certain legal requirements (e.g., 
+premarket review, quality system), the rationale for the policy, FDA’s general performance 
+expectations for in vitro diagnostic tests offered as described in the policy, and the intended 
+duration of the policy. FDA may also identify any applicable legal requirements that are outside 
+the scope of the enforcement policy (e.g., complying with applicable medical device reporting 
+(MDR) requirements under 21 CFR Part 803) and clarify that the enforcement policies would not 
+apply to tests falling outside the scope of the guidance.  
+In determining when to begin and end an enforcement policy for certain unapproved in vitro 
+diagnostic tests for which EUAs have not been issued, FDA intends to assess, among other 
+things: (1) the need for accelerated availability of such in vitro diagnostic tests, (2) the known or 
+potential benefits and risks when such in vitro diagnostic tests are used, (3) the availability of 
+appropriate alternative in vitro diagnostic tests that are authorized or approved, and (4) the 
+availability of sufficient mitigations to address risks of false results, as discussed more fully 
+below:
+·
+Public Health Need: FDA intends to look at the testing needs in the context of the 
+emergency response. This may include consideration of the number of, and access to, 
+FDA-approved/authorized in vitro diagnostic tests available and how time sensitive the 
+need for a test is (i.e., if there is sufficient time to wait for an in vitro diagnostic test to be 
+cleared, granted, approved, or authorized for emergency use). In considering the time 
+sensitivity of the need, factors such as the transmission levels, potential for asymptomatic 
+infections, the size of the population potentially exposed, and morbidity and mortality 
+rates may be considered. FDA also may consider the volume of in vitro diagnostic tests 
+needed to address the testing needs, considering the patient population(s) in need of in 
+vitro diagnostic testing, including estimates based on appropriate modeling for 
+transmission or exposure, and whether the ability to scale up production to account for 
+the needed in vitro diagnostic test capacity should be accounted for in an enforcement 
+policy. In determining need, FDA also intends to examine the type of in vitro diagnostic 
+test best suited to assist in the response. This may include highly accurate or high-
+throughput molecular diagnostic tests that can rule out infection, antigen diagnostic tests 
+that may be less accurate but more accessible and less costly, or in rare cases, serology 
+tests that can detect recent infection. Different types of in vitro diagnostic tests may be 
+helpful to the response depending on the type of emergency. For example, while 
+molecular diagnostic tests may be appropriate for detection of a virus, different types of 
+specialized in vitro diagnostic tests may be needed for a radiological exposure. Further,
+
+---
+
+<!-- Page 8 -->
+Contains Nonbinding Recommendations
+5
+while serological tests may not always be useful during an initial outbreak, during the 
+Zika outbreak, serology tests were important for understanding whether a pregnant 
+person had a recent infection. Evaluation of need may also include consideration of the 
+turnaround time for results with approved or authorized in vitro diagnostic tests. For 
+example, in the early stages of the COVID-19 pandemic, FDA issued an enforcement 
+policy to help increase in vitro diagnostic testing options when FDA became aware that a 
+backlog of specimens was contributing to test results taking many days to be processed. 
+Later in the COVID-19 pandemic, FDA narrowed the enforcement policy to focus only 
+on specific types of in vitro diagnostic tests for which increased access was still 
+appropriate. 
+·
+Benefits and Risks: FDA intends to consider the potential benefits and risks to public 
+health when unapproved/unauthorized in vitro diagnostic tests are used. Consideration of 
+potential benefits to public health include, among others, timely clinical management of 
+patients and infection control. Consideration of potential risks to public health include the 
+seriousness of the life-threatening disease or condition, the complexity of the technology 
+of the in vitro diagnostic test, and the impact of a false result on patient care and spread 
+of infection, among other things. FDA considered these factors for COVID-19 and mpox, 
+and the different public health benefits and risks (along with different needs), among 
+other things, led to different enforcement policies. FDA also intends to consider other 
+benefits and risks as appropriate, such as benefits of rapid access, risks associated with 
+sample collection, or risks presented by certain in vitro diagnostic test components. FDA 
+may also consider the experience of in vitro diagnostic test manufacturers and users with 
+the specific type of test needed.
+FDA intends to reconsider the potential benefits weighed against the potential risks of 
+unapproved in vitro diagnostic tests at each stage of the declared emergency based on the 
+available information.
+In balancing the benefits and risks of the use of unapproved/unauthorized in vitro diagnostic tests 
+in light of the particular public health needs, FDA also intends to consider the following factors:
+·
+Alternatives: FDA intends to assess the extent to which appropriate alternative approved 
+or authorized in vitro diagnostic tests to diagnose the disease or condition may be 
+available. In considering the adequacy of such alternatives, FDA intends to look at the 
+manufacturing capacity of any alternatives and ability for the alternative(s) to meet the in 
+vitro diagnostic testing need. For example, when considering whether to issue an 
+enforcement policy for COVID-19 tests at the beginning of the emergency, FDA 
+considered that there was only one in vitro diagnostic test authorized for emergency use, 
+and supply was limited. When considering whether to issue an enforcement policy for 
+mpox in vitro diagnostic tests, FDA considered that there was an FDA-cleared in vitro 
+diagnostic test for the detection of non-variola Orthopoxvirus DNA that was able to
+
+---
+
+<!-- Page 9 -->
+Contains Nonbinding Recommendations
+6
+detect mpox,11 but the cleared in vitro diagnostic test was limited to use by certain 
+laboratories and the turnaround times for results were up to a few days.
+·
+Mitigations: FDA intends to consider the availability of factors that may mitigate the risk 
+of false results from unapproved/unauthorized in vitro diagnostic tests. False results not 
+only negatively impact the individual patient relying on an in vitro diagnostic test but can 
+also have an impact on broad public health decisions during an emergency. FDA intends 
+to consider such factors as manufacturer experience (e.g., manufacturers who have 
+successfully been issued an EUA for an in vitro diagnostic test during a public health 
+emergency, received approval, grant, or clearance for an in vitro diagnostic test, or have 
+similar experience and are manufacturers for whom FDA does not have current 
+compliance concerns), manufacturer participation in a government evaluation program 
+such as the National Institutes of Health (NIH) Rapid Acceleration of Diagnostics 
+(RADx) Tech program’s Independent Test Assessment Program (ITAP),12 certain 
+validation recommendations, certain labeling statements, availability of confirmatory 
+testing, public disclosure by manufacturers that the tests have not been reviewed by FDA, 
+and submission of an EUA request within a reasonable period of time, among others. 
+FDA intends to provide any relevant recommendations for in vitro diagnostic test 
+validation specific to a particular emergency or potential emergency in the guidance 
+document for a specific enforcement policy, as appropriate.13
+To summarize, while each public health emergency has unique factors that influence FDA’s 
+policy decisions, the general concepts discussed in this section describe how FDA considers the 
+various factors in evaluating the benefits and risks relevant to initiating and ending an 
+enforcement policy. FDA intends to begin any enforcement policy regarding the use of 
+unapproved/unauthorized tests when it believes the potential benefits of such policy outweigh the 
+potential risks, taking into consideration, for example, the critical and urgent need to test large 
+portions of the population, available authorized tests, and likelihood of correct results based on 
+the technology and experience of manufacturers. FDA will reconsider the public health needs 
+and benefits/risks balance periodically during the declared emergency and adjust its enforcement 
+policy as appropriate. FDA further intends to end any such enforcement policy when, for 
+example, testing needs have declined and/or additional tests have been approved/authorized, 
+such that testing needs can be met by available approved/authorized tests. 
+When issuing an enforcement policy, FDA generally intends to describe the circumstances in 
+which the agency intends to exercise enforcement discretion, including, for example, when the in 
+vitro diagnostic test has been validated. Any such policy may include recommendations for 
+11 The CDC non-variola Orthopoxvirus test was first cleared in 2018. In 2022, the FDA cleared additional 510(k)s 
+from CDC, which expanded testing capacity through use of additional components and testing in additional 
+laboratories. At the time of issuance of the enforcement policy for mpox, the latest cleared 510(k) was K222558, 
+available at: https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K222558
+12 For more information on ITAP, see https://www.nibib.nih.gov/covid-19/radx-tech-program/ITAP
+13In January 2025, FDA issued a draft guidance entitled “Validation of Certain In Vitro Diagnostic Devices for 
+Emerging Pathogens During a Section 564 Declared Emergency.” (When final, the guidance will represent FDA’s 
+current thinking on this topic.) Some of the concepts and information regarding diagnostic test validation described 
+in the guidance, once finalized, may be applicable to in vitro diagnostic tests described in an enforcement policy 
+during a relevant section 564 declaration.
+
+---
+
+<!-- Page 10 -->
+Contains Nonbinding Recommendations
+7
+validation procedures and labeling, among other considerations. FDA’s COVID-19 and mpox 
+test guidances both described recommended validation procedures and labeling for in vitro 
+diagnostic tests offered as described in those guidances.
+In any such enforcement policy, FDA may identify an initial period in which the enforcement 
+policy is intended to be in effect. In accordance with FDA’s Good Guidance Practices, FDA may 
+adjust, including shortening or lengthening this period, as appropriate. 
+Additionally, as discussed in FDA’s guidance “Emergency Use Authorization of Medical 
+Products and Related Authorities,” FDA intends to establish priorities for its review of requests 
+to issue an EUA based on a variety of factors. FDA also described certain prioritization policies 
+in COVID-19 and mpox guidances, as noted above. Similarly here, FDA has assessed the need 
+for prioritization policies and intends to include such policies, as appropriate, when issuing a 
+future enforcement policy to help expand availability of certain in vitro diagnostic tests during a 
+declared emergency. 
+Consistent with 21 CFR 10.115(k), FDA will periodically review any issued enforcement policy 
+guidance to determine whether it needs to be changed or withdrawn. For example, during the 
+COVID-19 declared emergency, FDA issued six updates to the “Policy for Coronavirus Disease-
+2019 Tests (Revised)” guidance to reflect the changes in the country’s needs and in vitro 
+diagnostic test landscape. 
+Regardless of an enforcement policy, FDA retains discretion to pursue enforcement action 
+against the offering of unapproved in vitro diagnostic tests with respect to violations of the 
+FD&C Act, Public Health Service (PHS Act), or FDA regulations, and FDA intends to pursue 
+such actions in individual cases when appropriate for public health.
+
+<!-- fulltext-end -->

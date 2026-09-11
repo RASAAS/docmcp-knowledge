@@ -1,0 +1,663 @@
+---
+title: "Policy for Coronavirus Disease-2019 Tests (Revised): Guidance for Developers and Food and Drug Administration Staff"
+description: "FDA CDRH Final Guidance Document"
+published: 2023-01-12
+---
+
+# Policy for Coronavirus Disease-2019 Tests (Revised): Guidance for Developers and Food and Drug Administration Staff
+
+**Published**: 2023-01-12
+
+**Status**: Final
+**Type**: Guidance Document
+**Category**: Premarket (510(k) / PMA / De Novo / IDE)
+**Topics**: Premarket, CLIA (Clinical Laboratory Improvement Amendments), Immunology & Microbiology, IVDs (In Vitro Diagnostic Devices)
+**Docket**: FDA-2020-D-0987
+
+::: tip Official Source
+[https://www.fda.gov/regulatory-information/search-fda-guidance-documents/policy-coronavirus-disease-2019-tests-revised](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/policy-coronavirus-disease-2019-tests-revised)
+PDF: [https://www.fda.gov/media/135659/download](https://www.fda.gov/media/135659/download)
+:::
+
+<!-- fulltext-start -->
+
+---
+
+## Official Full Text
+
+<!-- Page 1 -->
+Contains Nonbinding Recommendations
+1
+Policy for Coronavirus Disease-2019 
+Tests (Revised)*
+Guidance for Developers and
+Food and Drug Administration Staff
+Document issued January 12, 2023.
+This document supersedes “Policy for Coronavirus Disease-2019 Tests During 
+the Public Health Emergency (Revised): Guidance for Developers and
+Food and Drug Administration Staff” issued September 27, 2022.
+U.S. Department of Health and Human Services
+Food and Drug Administration
+Center for Devices and Radiological Health
+*This is the seventh edition of this guidance, which originally issued February 29, 2020, and was 
+subsequently revised on March 16, May 4, May 11, 2020, November 15, 2021, and September 
+27, 2022.
+
+---
+
+<!-- Page 2 -->
+Contains Nonbinding Recommendations
+2
+Preface
+Public Comment
+Comments may be submitted at any time for Agency consideration.  Submit written comments to 
+the Dockets Management Staff (HFA-305), Food and Drug Administration, 5630 Fishers Lane, 
+Rm. 1061, Rockville, MD 20852. Submit electronic comments to https://www.regulations.gov.  
+All comments should be identified with the docket number FDA-2020-D-0987 and complete title 
+of the guidance in the request.
+Additional Copies
+Additional copies are available from the FDA webpage titled “COVID-19-Related Guidance 
+Documents for Industry, FDA Staff, and Other Stakeholders,” available at 
+https://www.fda.gov/emergency-preparedness-and-response/mcm-issues/covid-19-related-
+guidance-documents-industry-fda-staff-and-other-stakeholders, and the FDA webpage titled 
+“Search for FDA Guidance Documents,” available at https://www.fda.gov/regulatory-
+information/search-fda-guidance-documents.  You may also send an e-mail request to CDRH-
+Guidance@fda.hhs.gov to receive an additional copy of the guidance.  Please include the 
+document number GUI00020010 and complete title of the guidance in the request.
+Questions
+For questions about this document, contact CDRH-EUA-Templates@fda.hhs.gov.
+
+---
+
+<!-- Page 3 -->
+Contains Nonbinding Recommendations
+3
+Table of Contents
+I. 
+Introduction .......................................................................................................................... 4 
+II. 
+Background .......................................................................................................................... 5
+III. 
+Scope .................................................................................................................................... 6
+IV. 
+Policy ................................................................................................................................... 7
+A. 
+Review of EUA Requests for COVID-19 Tests .............................................................. 7
+B. 
+State Authorization of High-Complexity CLIA-Certified Laboratories .......................... 8
+C. 
+Distribution and Offering of SARS-CoV-2 Diagnostic and Serology Tests During FDA 
+Review ...................................................................................................................................... 10
+(1) 
+FDA Review of EUA Requests .................................................................................. 10
+(2) 
+Recommendations Regarding Test Reports and Other Information for Tests Offered 
+During FDA Review of EUA Requests ................................................................................ 11
+D. 
+Modifications to EUA-Authorized Diagnostic COVID-19 Tests .................................. 11
+(1) 
+Modifications Made After Issuance of this Updated Guidance ................................. 12
+(2) 
+Certain Modifications Made Before Issuance of this Updated Guidance .................. 13
+V. 
+Validation ........................................................................................................................... 14
+VI. 
+Availability of EUA Templates and Inquiries Regarding Validation ................................ 15
+
+---
+
+<!-- Page 4 -->
+Contains Nonbinding Recommendations
+4
+Policy for Coronavirus Disease-2019 
+Tests (Revised)
+Guidance for Developers and Food 
+and Drug Administration Staff
+This guidance represents the current thinking of the Food and Drug Administration (FDA or 
+Agency) on this topic. It does not establish any rights for any person and is not binding on 
+FDA or the public. You can use an alternative approach if it satisfies the requirements of the 
+applicable statutes and regulations. To discuss an alternative approach, contact the FDA staff 
+or Office responsible for this guidance as listed on the title page. 
+I. 
+Introduction
+FDA plays a critical role in protecting the United States from threats such as emerging infectious 
+diseases, including the Coronavirus Disease 2019 (COVID-19) pandemic. FDA is committed to 
+providing timely guidance to support response efforts to this pandemic. 
+FDA is issuing this guidance to provide FDA’s review priorities and enforcement policies 
+regarding novel coronavirus (COVID-19) tests. Rapid detection of COVID-19 cases in the 
+United States requires wide availability of testing to control the spread of this highly contagious 
+infection. 
+The policies in this guidance are intended to remain in effect only for the duration of the 
+declaration under section 564 of the Federal Food, Drug, and Cosmetic Act (FD&C Act) by the 
+Secretary of Health and Human Services (HHS) on February 4, 2020, declaring that 
+circumstances exist justifying the authorization of emergency use of in vitro diagnostics for 
+detection and/or diagnosis of the novel coronavirus (2019-nCoV).1 FDA continues to assess the 
+evolving situation and intends to update this guidance as appropriate.
+In general, FDA’s guidance documents do not establish legally enforceable responsibilities. 
+Instead, guidances describe the Agency’s current thinking on a topic and should be viewed only 
+as recommendations, unless specific regulatory or statutory requirements are cited. The use of 
+the word should in Agency guidance means that something is suggested or recommended, 
+but not required.
+1 See 85 FR 7316; available at https://www.federalregister.gov/documents/2020/02/07/2020-02496/determination-
+of-public-health-emergency.
+
+---
+
+<!-- Page 5 -->
+Contains Nonbinding Recommendations
+5
+II. Background
+There is currently a pandemic of respiratory disease caused by a novel coronavirus. The virus has 
+been named “severe acute respiratory syndrome coronavirus 2” (SARS-CoV-2) and the disease it 
+causes has been named “Coronavirus Disease 2019” (COVID-19). On January 31, 2020, the 
+Secretary of HHS issued a declaration of a public health emergency under section 319 of the 
+Public Health Services Act related to COVID-19 and mobilized the Operating Divisions of 
+HHS.2 On February 4, 2020, the Secretary of HHS issued a declaration that circumstances exist 
+justifying the authorization of emergency use of in vitro diagnostics for detection and/or 
+diagnosis of SARS-CoV-2 based on the HHS Secretary’s public health emergency determination 
+under section 564(b)(1)(C) of the FD&C Act.3 In addition, on March 13, 2020, the President 
+declared a national emergency in response to COVID-19.4  
+Under section 564 of the FD&C Act, the FDA Commissioner may authorize the use of 
+unapproved medical products, or unapproved uses of approved medical products, in certain 
+emergency circumstances, after the HHS Secretary has made a declaration of emergency or 
+threat justifying authorization of emergency use, to diagnose, treat, or prevent serious or life-
+threatening diseases or conditions caused by chemical, biological, radiological, and nuclear 
+(CBRN) threat agents when certain criteria are met. The Emergency Use Authorization (EUA) 
+authorities allow FDA to help strengthen the nation’s public health protections against CBRN 
+threats by facilitating the availability and use of medical countermeasures needed during certain 
+public health emergencies.
+As of August 15, 2022, FDA has issued EUAs for more than 439 tests for COVID-19, including 
+more than 354 diagnostic and 85 serology or other immune response tests. Further, two 
+molecular diagnostic COVID-19 tests have been granted marketing authorization through the 
+traditional device premarket review pathways. In the context of a public health emergency 
+involving pandemic infectious disease, it is critically important that tests are validated because 
+false results not only can negatively impact the individual patient but also can have a broad 
+public health impact. False positive results for diagnostic tests, for example, can lead to 
+unnecessary quarantine and potential further spread when presumed positive individuals are 
+quarantined together, wasted contact tracing and testing resources, and delay in accurate 
+diagnosis and appropriate treatment for the individual. False negative results can lead to lack of 
+appropriate treatment for the individual and further spread of the disease.
+2 Secretary of Health and Human Services, Determination that a Public Health Emergency Exists (originally issued 
+on Jan. 31, 2020, and subsequently renewed), available at 
+https://www.phe.gov/emergency/news/healthactions/phe/Pages/default.aspx.
+3 85 FR 7316; available at https://www.federalregister.gov/documents/2020/02/07/2020-02496/determination-of-
+public-health-emergency.
+4 Proclamation on Declaring a National Emergency Concerning the Novel Coronavirus Disease (COVID-19) 
+Outbreak (Mar. 13, 2020), available at https://trumpwhitehouse.archives.gov/presidential-actions/proclamation-
+declaring-national-emergency-concerning-novel-coronavirus-disease-covid-19-outbreak/. On February 24, 2021, 
+there was a Presidential Declaration continuing the national emergency concerning the COVID-19 pandemic beyond 
+March 1, 2021. See Continuation of the National Emergency Concerning the Coronavirus Disease 2019 (COVID-
+19) Pandemic (February 24, 2021), available at https://www.federalregister.gov/documents/2021/02/26/2021-
+04173/continuation-of-the-national-emergency-concerning-the-coronavirus-disease-2019-covid-19-pandemic.
+
+---
+
+<!-- Page 6 -->
+Contains Nonbinding Recommendations
+6
+Previous versions of this guidance described policies regarding the distribution and offering of 
+certain tests for clinical use prior to or without an EUA. These policies were issued to help 
+quickly increase availability of tests in the early stages of the pandemic. Unless and until an 
+EUA is issued that authorizes additional testing environments for a specific test, under the 
+Clinical Laboratory Improvement Amendments (CLIA), section 353 of the Public Health Service 
+Act (42 USC 263a), use of that test is limited to laboratories that are certified under CLIA, and 
+meet the requirements to perform tests of high complexity, and at the point-of-care (POC) when 
+covered by such a laboratory’s CLIA certificate. Throughout this guidance, references to “high-
+complexity CLIA-certified laboratories” are referring to laboratories that are certified under 
+CLIA and meet the requirements to perform tests of high complexity. These policies did not 
+apply to at-home tests or tests with home specimen collection. 
+FDA has updated these policies when appropriate in response to the changing landscape of this 
+pandemic. The previous update on November 15, 2021, explained FDA’s intent to review EUA 
+requests for certain types of tests that FDA believed would be most beneficial at that stage of the 
+pandemic. In addition, in the November 15, 2021, version, FDA revised the previous 
+enforcement policies to reflect that, at that stage of the pandemic, the Agency generally expected 
+COVID-19 tests to have been issued an EUA prior to the tests being distributed or offered.
+FDA has continued to closely monitor the COVID-19 testing landscape and believes it is again 
+appropriate to update its policies to reflect the current needs of the pandemic. As explained 
+throughout this guidance, FDA intends to review the EUA requests for a small subset of tests 
+based on the review priorities described in section IV.A. Traditional marketing pathways remain 
+available to all developers and FDA encourages developers of tests that fall outside the scope of 
+the priorities outlined in this guidance to pursue those routes. In sum, in the September 27, 2022, 
+update, FDA revised this guidance to update the types of COVID-19 tests for which the Agency 
+intends to review EUA requests, to discuss the use of the traditional premarket review pathways 
+for other types of COVID-19 tests for which the Agency does not intend to review EUA 
+requests, and to make minor updates to the enforcement policies. In the current version of this 
+guidance, FDA has revised the duration for which the policies in this guidance are intended to 
+remain in effect.
+III. Scope
+This guidance applies to diagnostic and serology tests for COVID-19.5 The policies and 
+recommendations described in this guidance are intended to facilitate availability of tests for 
+5 Throughout this guidance, the term “diagnostic test” is generally used to refer to molecular or antigen tests, both of 
+which can be used to diagnose infection with the SARS-CoV-2 virus. Diagnostic tests may be designed for use in 
+various settings, such as in a CLIA-certified laboratory, at the point of care at a site covered by a laboratory’s CLIA 
+certificate, or at home.  Screening tests, which are used for testing individuals without symptoms or other reasons to 
+suspect COVID-19, are a subset of diagnostic tests. Molecular tests detect the presence of viral RNA and antigen 
+tests detect the presence of viral proteins that are part of the SARS-CoV-2 virus. There may also be diagnostic tests 
+that incorporate different technologies, such as breath tests, that have a reasonable expectation of technical and 
+clinical success. While the principles in this guidance are generally still applicable to such tests, there are fewer 
+available, so different approaches may be appropriate. Therefore, FDA recommends that developers of such tests 
+contact FDA at CDRH-EUA-Templates@fda.hhs.gov to discuss the best approach for their test. The terms
+
+---
+
+<!-- Page 7 -->
+Contains Nonbinding Recommendations
+7
+COVID-19 that FDA believes will be most beneficial at the current stage of the public health 
+emergency. 
+FDA notes that the enforcement policies in this guidance do not address medical device reporting 
+(MDR) under 21 CFR Part 803 for tests offered prior to authorization as described in the 
+guidance. Developers offering such tests are expected to comply with applicable MDR 
+requirements, including reporting of medical device events that reasonably suggest that their 
+device may have caused or contributed to a death or serious injury, and malfunctions that would 
+be likely to cause or contribute to a death or serious injury if they were to recur. Moreover, 
+unless and until an EUA is issued that authorizes additional testing environments for a specific 
+test, under CLIA, use of that test is limited to high-complexity CLIA-certified laboratories, 
+including testing at the point-of-care when the site is covered by the laboratory’s CLIA 
+certificate for high complexity testing.   
+IV. Policy 
+A. 
+Review of EUA Requests for COVID­19 Tests 
+The issuance of an EUA is discretionary. FDA’s decision to review and process an EUA request, 
+and ultimately issue an EUA if the relevant statutory criteria are met, is based on a 
+determination, on a case-by-case basis, that such action is necessary to protect the public health 
+in an emergency. It is an authorization that the government “may” issue when necessary to 
+protect the public health in an emergency (see section 564(a)(1) of the FD&C Act (21 U.S.C. 
+360bbb-3(a)(1)), which states, in relevant part, “subject to the provisions of this section, the 
+Secretary may authorize the introduction into interstate commerce…a drug, device, or biological 
+product intended for use in an actual or potential emergency”). FDA’s January 2017 guidance, 
+Emergency Use Authorization of Medical Products and Related Authorities, 6 describes factors 
+that FDA intends to use in its prioritization of EUA requests, such as the public health need for 
+the product, the availability of the product, the availability and adequacy of the information 
+concerning the likelihood that the product may be safe and effective in preventing, treating, or 
+diagnosing the condition, and whether the product is included in government stakeholder 
+stockpiles. 
+Given the need to address urgent public health priorities, FDA has and continues to prioritize 
+among the EUA requests it receives for COVID-19 tests. 
+At this stage of the pandemic, FDA intends to prioritize its review of EUA requests and 
+supplemental EUA requests from experienced developers7 for diagnostic tests that are likely to 
+“serology” or “antibody” tests are generally used to refer to tests that detect antibodies to the SARS-CoV-2 virus. 
+Because the antibodies are part of the body’s immune response to exposure and not the virus itself, such testing 
+cannot be used for diagnosis of acute infection. 
+6 See https://www.fda.gov/regulatory-information/search-fda-guidance-documents/emergency-use-authorization-
+medical-products-and-related-authorities. 
+7 For the purposes of this guidance, “experienced developers” refers to developers who have interacted with FDA 
+through a successful EUA request or have similar experience. FDA has interacted with over 1,000 test developers 
+through the EUA and pre-EUA processes during the SARS-CoV-2 pandemic. The Agency has found that EUA
+
+---
+
+<!-- Page 8 -->
+Contains Nonbinding Recommendations
+8
+have a significant public health benefit (e.g., employ innovative technology) or are likely to 
+fulfill an unmet need (e.g., diagnosing infection with a new variant or subvariant).
+FDA generally intends to focus its review on EUA requests and supplemental EUA requests for 
+tests that are within these priorities.8 In addition to the above priorities, FDA also intends to 
+focus its review on EUA requests that are from or supported by a U.S. government stakeholder,9
+such as tests funded by the Biomedical Advanced Research and Development Authority 
+(BARDA) or the National Institutes of Health’s Rapid Acceleration of Diagnostics (RADx). 
+FDA intends to notify test developers of its intent by email if FDA declines to review or 
+otherwise decides not to authorize a test/modification in an EUA request or supplemental EUA 
+request.
+In general, FDA believes these priorities are appropriate to address the public health needs at the 
+current stage of the public health emergency based on the available information and may adjust 
+these priorities as public health needs change. Specifically, there is generally sufficient 
+availability of authorized high-throughput laboratory-based diagnostic tests intended for use with 
+pooled samples and authorized home-use antigen tests that are available for over the-counter 
+(OTC) or prescription use. 
+FDA believes that the number of EUA requests that fall within FDA’s current review priorities 
+described in this guidance are likely limited and generally encourages developers to submit 
+COVID-19 tests through traditional premarket review pathways. If you are unsure whether your 
+test may be prioritized for review, we encourage you to reach out to CDRH-EUA-
+Templates@fda.hhs.gov; however, at this stage, FDA strongly encourages developers of new 
+tests and existing tests for which modifications are sought to pursue traditional pre-market 
+pathways. 
+B. 
+State Authorization of High­Complexity CLIA­Certified 
+Laboratories 
+Versions of this guidance prior to November 15, 2021, described a policy regarding States and 
+territories that authorize laboratories within their State or territory to develop their own COVID-
+19 tests and perform specimen testing, where the notification of SARS-CoV-2 test validation is 
+not submitted to FDA and the laboratory does not submit an EUA request to FDA.
+requests from inexperienced developers are more resource intensive to review. At this phase of the pandemic, and 
+given our experiences to date, we believe that for COVID-19 tests, FDA’s review resources are more impactful 
+when working with experienced developers given the design and validation complexities associated with such tests. 
+As a result, FDA intends to prioritize the review of EUA requests for tests from experienced developers.
+8 Developers of tests that are not within these priorities should consider pursuing marketing authorization through a 
+traditional premarket review pathway. Test developers are welcome to reach out to the team at CDRH-EUA-
+Templates@fda.hhs.gov to discuss whether review of their EUA request may be prioritized. 
+9 Prioritization of EUA requests from (or supported by) government stakeholders is discussed in the Guidance for 
+Industry and Other Stakeholders: Emergency Use Authorization of Medical Products and Related Authorities, 
+available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/emergency-use-
+authorization-medical-products-and-related-authorities.
+
+---
+
+<!-- Page 9 -->
+Contains Nonbinding Recommendations
+9
+Under such policy, a State or territory choosing to authorize laboratories within that State or 
+territory to develop and perform a test for COVID-19 would do so under authority of its own 
+State law, and under a process that it established, and FDA did not intend to object to the use of 
+such tests for specimen testing where the notification of SARS-CoV-2 test validation was not 
+submitted to FDA and the laboratory did not submit an EUA request to FDA, and where instead 
+the State or territory took responsibility for COVID-19 testing by laboratories in its State during 
+the COVID-19 outbreak. This policy applied only to tests designed, developed, and used within a 
+single, high-complexity, CLIA-certified laboratory. The policy did not apply to at-home tests or 
+tests with home specimen collection, or any testing outside of a high-complexity CLIA-certified 
+laboratory.10
+In versions of this guidance prior to November 15, 2021, FDA requested that the State or 
+territory notify us if it chose to use this flexibility to expedite COVID-19 testing.11 FDA 
+indicated that it would not be reviewing the process adopted by the State or territory. FDA 
+expected that such States and territories as part of their oversight process would require 
+laboratories developing SARS-CoV-2 tests to validate those tests prior to use. FDA encouraged 
+laboratories that developed and performed a test for COVID-19 that was authorized by a State or 
+territory to notify FDA that they have started clinical testing by sending an email to that effect to 
+CDRH-EUA-Templates@FDA.HHS.GOV, and provide information on testing capacity. 
+In the November 15, 2021, version of this guidance, FDA revised this policy such that FDA no 
+longer intended to apply the policy to any additional States or territories going forward.12 The 
+FDA is maintaining the policy in Section IV.B. of the November 15, 2021, policy, without 
+further revision. For the States and territories listed on the notification list on FDA’s website 
+prior to November 15, 2021, that are continuing to authorize laboratories within that State or 
+territory to develop and perform a test for COVID-19, FDA does not intend to object to the use 
+of such tests for specimen testing where notification of SARS-CoV-2 test validation is not 
+submitted to FDA and the laboratory does not submit an EUA request to FDA, and where instead 
+the State or territory takes responsibility. This policy applies only to tests designed, developed, 
+and used within a single, high-complexity CLIA-certified laboratory. This policy does not apply 
+to at-home tests or tests with home specimen collection, or any testing outside of a high-
+complexity CLIA-certified laboratory.13
+10 There are different risks associated with testing in different settings and different issues need to be addressed. For 
+example, home collection raises several issues of importance, including whether the lay user can safely and properly 
+collect the specimen, whether the components of the specimen transport media are safe for use in the home 
+environment (because some may be toxic), proper shipment, and adequate stability of the specimen given the time 
+lapse between collection and testing and the potential impact of shipping conditions (such as, if the specimen sits in 
+a hot truck). Tests performed fully at home raise additional issues such as whether the lay user can safely and 
+properly perform the test and read and accurately interpret the results.
+11 A list of States and territories that have notified FDA under this policy is available on FDA’s FAQ website at: 
+https://www.fda.gov/medical-devices/coronavirus-covid-19-and-medical-devices/notifications-and-emergency-use-
+authorizations-faqs-testing-sars-cov-2. 
+12 A State or territory that believes there would be a particular benefit to the policy applying to the State or territory 
+is welcome to reach out to FDA to discuss further by sending an email to CDRH-EUA-Templates@fda.hhs.gov.
+13 As discussed in FN [8], there are different risks associated with testing in different settings and different issues 
+need to be addressed.
+
+---
+
+<!-- Page 10 -->
+Contains Nonbinding Recommendations
+10
+FDA notes that laboratories should be aware of requirements to report test results to appropriate 
+federal, state, and local public health agencies in accordance with applicable federal, state, and 
+local laws.14
+C. 
+Distribution and Offering of SARS­CoV­2 Diagnostic and 
+Serology Tests During FDA Review 
+Previous versions of this guidance document described enforcement policies where FDA 
+generally did not intend to object to developers distributing and offering certain tests prior to 
+FDA authorization, as described in the policies. Those policies were updated in the November 
+15, 2021, version of the guidance, and FDA is generally continuing those updated policies and 
+clarifying them, as discussed below.
+(1) FDA Review of EUA Requests 
+For the following tests, FDA does not intend to object to the continued distribution or offering of 
+the test while FDA reviews the EUA request for the test:
+·
+Tests on one of the notification lists15 on FDA’s website at the time of issuance of 
+this updated guidance; and,
+·
+Laboratory developed tests (LDTs)16 offered following the HHS August 2020 
+Web Statement entitled, “Rescission of Guidances and Other Informal Issuances 
+Concerning Premarket Review of Laboratory Developed Tests” (“August 2020 
+HHS Announcement”) and prior to November 15, 2021, where an EUA request 
+was submitted to FDA as described in Section IV.C.2 of the November 15, 2021 
+version of this guidance document.17
+For tests described in this section, FDA intends to notify test developers by email if FDA 
+declines to review, declines to issue, or otherwise decides not to authorize the test for any reason, 
+including lack of response or a determination that there is a lack of adequate data to support 
+authorization. If so notified, FDA generally expects developers to cease distributing, marketing, 
+and offering their tests within 15 calendar days. Moreover, if FDA identifies a significant 
+problem or concern with a test, based either on the provided information or external reports, 
+FDA generally would expect the developer to take appropriate steps to address such problems, 
+14 Under section 18115 of the CARES Act (Public Law 116-136), laboratories, including those in patient care 
+settings operating under a CLIA Certificate of Waiver, Certificate of Compliance or Certificate of Accreditation, 
+must report the results of COVID-19 tests to HHS or its designee, in such form and manner as the Secretary may 
+prescribe, during the declared public health emergency. For additional information on the laboratory data reporting 
+guidance and FAQs from HHS, please see: https://www.hhs.gov/coronavirus/testing/covid-19-diagnostic-data-
+reporting/index.html.
+15 https://www.fda.gov/medical-devices/coronavirus-covid-19-and-medical-devices/notifications-and-emergency-
+use-authorizations-faqs-testing-sars-cov-2 
+16 LDTs are typically considered tests that are designed, manufactured, and used within a single laboratory that is 
+certified under CLIA and meets the requirements to perform tests of high complexity.
+17 This does not apply to EUA requests for which FDA has already notified the test developer by email that FDA 
+declines to review, declines to issue, or otherwise decides not to authorize the test for any reason, including lack of 
+response or a determination that there is a lack of adequate data to support authorization. Developers of such tests 
+were generally expected to cease distributing, marketing, and offering their tests within 15 calendar days of 
+receiving such an email.
+
+---
+
+<!-- Page 11 -->
+Contains Nonbinding Recommendations
+11
+which could include conducting a recall of the test and/or notification concerning corrected test 
+reports indicating prior test results may not be accurate. 
+(2) Recommendations Regarding Test Reports and Other 
+Information for Tests Offered During FDA Review of EUA 
+Requests
+FDA continues to recommend the following:
+1. Test reports should prominently disclose that the test has not been reviewed by FDA. 
+Until the test is authorized by FDA, any statements in the test reports and other labeling 
+that expressly state or imply that the test has been authorized by FDA would be false. 
+Similarly, any statements in the test reports and other labeling that state or imply that 
+EUA issuance or FDA authorization are imminent or pending could be misleading.  
+2. Developers should make publicly available on their website the instructions for use for 
+the test and data about the test’s performance characteristics, including a summary of 
+assay performance. 
+3. Instructions for use and patient test reports for serology tests should include information 
+that helps users and patients understand the test results, including the following:
+· Negative results do not preclude acute SARS-CoV-2 infection. If acute infection is 
+suspected, direct (i.e., diagnostic) testing for SARS-CoV-2 is necessary.
+·
+Results from antibody testing should not be used to diagnose or exclude acute 
+SARS-CoV-2 infection.
+·
+Positive results may be due to past or present infection with non-SARS-CoV-2 
+coronavirus strains, such as coronavirus HKU1, NL63, OC43, or 229E. 
+In addition, as noted in previous versions of this guidance and earlier in this updated guidance, 
+unless and until an EUA is issued that authorizes additional testing environments for a specific 
+test, under CLIA, use of that test is limited to high-complexity CLIA-certified laboratories, 
+including testing at the POC when the site is covered by such a laboratory’s CLIA certificate. 
+D. 
+Modifications to EUA­Authorized Diagnostic COVID­19 
+Tests 
+Throughout the course of the pandemic, FDA has issued various policies with respect to 
+modifications and, as discussed further below, FDA is updating these policies. The policies in 
+this section do not apply to at-home tests or tests with at-home specimen collection.
+In order to provide transparency, when a developer is distributing or offering a test that is a 
+modification of an EUA-authorized diagnostic test prior to or without authorization of the 
+modified test, as discussed in this section, the recommendations in Section IV.C.2 of this updated 
+guidance apply. FDA further recommends that the developer post data about the modified test’s 
+performance characteristics on the developer’s website, and that the instructions for use or test
+
+---
+
+<!-- Page 12 -->
+Contains Nonbinding Recommendations
+12
+protocol and the test reports accurately reflect the modification and prominently disclose that the 
+test has been modified since authorization by FDA and that the modified test has not been 
+reviewed by FDA. 
+If FDA identifies a significant problem or concern with a modified test, based either on the 
+provided information or external reports, that cannot be addressed in a timely manner, FDA 
+generally would expect the developer to cease distribution, marketing and offering the modified 
+test and address such problem, which could include conducting a recall of the modified test 
+and/or notification concerning corrected test reports indicating prior test results may not be 
+accurate.
+(1) Modifications Made After Issuance of this Updated Guidance 
+In addition to the priorities above, FDA intends to review supplemental EUA requests that fulfill 
+a condition of an EUA. For other supplemental requests, such as those that are beyond the 
+priorities outlined above, FDA encourages developers to consider including the modification in a 
+submission through a traditional premarket review pathway. In general, FDA expects such 
+modified tests to be authorized under an EUA or pursuant to a traditional premarket review 
+pathway before being distributed or offered.   
+When a high-complexity CLIA-certified laboratory is modifying an authorized COVID-19 
+molecular diagnostic test, including one for which such laboratory is not the developer of the 
+original, EUA-authorized test, and the modifications do not change the indication for use set 
+forth in the EUA (e.g., including new/different extraction kits or instruments that would not be 
+expected to change the indication for use) and do not change the analyte specific reagents (e.g., 
+the modifications do not change the PCR primers and/or probes),18 FDA does not intend to 
+object to implementation of the modification to the diagnostic test without notification to FDA or 
+a new or amended EUA where the laboratory has validated the modification and confirmed that 
+the performance of the modified test is equivalent to the performance of the authorized test, and 
+use of the test is limited to the high-complexity CLIA-certified laboratory in which the 
+modification was made.19     
+In such cases, where the laboratory modifying and performing the test is not the developer of the 
+original, EUA-authorized test, FDA encourages the laboratory to collaborate with the developer 
+of the authorized test so that validation data supporting the modifications can be submitted by the 
+original developer to FDA in a supplemental EUA request or incorporated into a future 
+submission through the traditional premarket review pathways.    
+18 Other modifications, including new specimen types, test settings (e.g., point-of-care, home testing), and new 
+patient populations (e.g., asymptomatic individuals), among others, do not fall under this policy.
+19 FDA generally considers equivalent performance to be where the LoD of the modified test (using the same 
+validation material used in the LoD study described in the authorized test’s Instructions For Use (IFU)) is within 3x 
+of the LoD established in the authorized test’s IFU or that the LoD of the modified test is within 3x of the LoD of 
+the authorized test in a direct comparison LoD study.
+
+---
+
+<!-- Page 13 -->
+Contains Nonbinding Recommendations
+13
+(2) Certain Modifications Made Before Issuance of this Updated 
+Guidance
+Under previous versions of this guidance, when a commercial manufacturer made certain 
+modifications to its EUA-authorized COVID-19 diagnostic test, and where validation data 
+supporting the modification had been submitted in a supplemental EUA request, FDA stated that 
+it did not intend to object to implementation of the modification while FDA conducted its 
+review, except for modifications to add specimen types that have not been previously authorized 
+with another test of the same technology. For such modifications made and implemented as 
+discussed in the policies in the previous version of the guidance, FDA does not intend to object 
+to such commercial manufacturers continuing to implement the modification while FDA 
+conducts its review.  
+Under previous versions of the guidance, when a high-complexity CLIA-certified laboratory 
+modified an EUA-authorized COVID-19 diagnostic test20 prior to November 15, 2021, for use 
+with a new specimen type, where the new specimen type has been previously authorized for 
+another test of the same technology21 and where the laboratory had validated the test for the new 
+specimen type, FDA stated that it did not intend to object to the use of such a modified test 
+without notification to FDA or a new or amended EUA. For all other types of modifications 
+made by the high-complexity CLIA-certified laboratory prior to November 15, 2021, for an 
+EUA-authorized COVID-19 diagnostic test, in previous versions of the guidance, FDA stated 
+that it did not intend to object to the use of the test by high-complexity CLIA-certified 
+laboratories, without notification to FDA or a new or amended EUA, where the modified test is 
+validated using a bridging study to the EUA-authorized test. 
+For high-complexity CLIA-certified laboratories that modified an authorized COVID-19 
+molecular diagnostic test after November 15, 2021, but before issuance of the September 27, 
+2022, version of the guidance, including one for which such laboratory is not the developer of 
+the original, EUA-authorized test, and the modifications do not change the indication for use set 
+forth in the EUA (e.g., including new/different extraction kits or instruments that would not be 
+expected to change the indication for use) and do not change the analyte specific reagents (e.g., 
+the modifications do not change the PCR primers and/or probes),22 FDA stated that it did not 
+intend to object to implementation of the modification to the diagnostic test without notification 
+to FDA or a new or amended EUA where the laboratory has validated the modification and 
+confirmed that the performance of the modified test is equivalent to the performance of the 
+authorized test, and use of the test is limited to the high-complexity CLIA-certified laboratory in 
+which the modification was made.23
+20 This applies to modifications to any EUA-authorized diagnostic test, including a laboratory’s own test with an 
+EUA or a purchased kit from a commercial manufacturer with an EUA, but does not apply to modifications of 
+authorized home collection kits.
+21 For the purposes of this guidance, all nucleic acid amplification tests are considered to have the same technology.
+22 Other modifications, including new specimen types, test settings (e.g., point-of-care, home testing), and new 
+patient populations (e.g., asymptomatic individuals), among others, do not fall under this policy.
+23 FDA generally considers equivalent performance to be where the LoD of the modified test (using the same 
+validation material used in the LoD study described in the authorized test’s Instructions For Use (IFU)) is within 3x 
+of the LoD established in the authorized test’s IFU or that the LoD of the modified test is within 3x of the LoD of 
+the authorized test in a direct comparison LoD study.
+
+---
+
+<!-- Page 14 -->
+Contains Nonbinding Recommendations
+14
+For such modifications made and implemented by high-complexity CLIA-certified laboratories 
+as discussed in the policies in the previous versions of the guidance, FDA does not intend to 
+object to such laboratories continuing to offer any of those modified tests.
+In such cases, where the laboratory performing the modified test is not the developer of the 
+original, EUA-authorized test, FDA encourages the laboratory to share its validation data with 
+the developer of the original, EUA-authorized test so that the developer of the original, EUA-
+authorized test can use the validation data in support of a supplemental EUA request to add the 
+modification or can incorporate it into a future submission through the traditional premarket 
+review pathways.   
+V. Validation
+All clinical tests should be validated using clinical specimens and an appropriate comparator test 
+prior to use. 
+In the context of a public health emergency, it is critically important that tests be validated prior 
+to use because false results not only can negatively impact the individual patient but also can 
+have a broad public health impact. However, FDA also generally accepts a lower level of 
+evidence of validation for an EUA than for traditional premarket review pathways. FDA has 
+provided recommendations regarding testing that should be performed to ensure analytical and 
+clinical validity to the level of evidence expected for an EUA, including descriptions of 
+appropriate comparators for different types of tests, in the EUA templates available through 
+download from our website.24 Depending on the characteristics of a developer’s test, additional 
+validation studies may be recommended. 
+Because the level of evidence required for authorization under traditional premarket review 
+pathways is higher than that required for an EUA, the recommendations in the EUA templates 
+may not be sufficient for developers seeking marketing authorization of their tests through 
+traditional premarket review pathways. FDA can provide recommendations specific to a test 
+developer’s situation through inquiries to CDRH-EUA-Templates@fda.hhs.gov or through pre-
+submission interactions.25  
+Developers can use alternative approaches. FDA encourages developers to discuss any 
+alternative technological approaches to validating their test with FDA through CDRH-EUA-
+Templates@FDA.HHS.GOV. 
+24 See https://www.fda.gov/medical-devices/coronavirus-disease-2019-covid-19-emergency-use-authorizations-
+medical-devices/in-vitro-diagnostics-euas. 
+25 See FDA Guidance document “Requests for Feedback and Meetings for Medical Device Submissions: The Q-
+Submission Program,” available at: https://www.fda.gov/regulatory-information/search-fda-guidance-
+documents/requests-feedback-and-meetings-medical-device-submissions-q-submission-program.
+
+---
+
+<!-- Page 15 -->
+Contains Nonbinding Recommendations
+15
+Additionally, FDA continues to expect certain serology tests to be independently evaluated by 
+NIH/NCI,26 prior to authorization, when requested by the FDA. When performed, this additional 
+testing can assist FDA in determining whether the EUA issuance criteria in section 564 of the 
+FD&C Act have been met and whether FDA should authorize the test. This independent 
+evaluation may also be used to assist FDA in determining whether the criteria for marketing 
+authorization have been met for tests submitted through traditional premarket review pathways.   
+VI. Availability of EUA Templates and Inquiries Regarding 
+Validation 
+FDA has made available through download from our website27 a series of templates that 
+developers may choose to use to facilitate the preparation and submission of an EUA request for 
+various types of COVID-19 tests. The templates reflect FDA’s current thinking on validation 
+recommendations for SARS-CoV-2 tests and the data and information that developers should 
+submit to facilitate the EUA process. The templates provide information and recommendations, 
+and FDA plans to update them as appropriate as more is learned about COVID-19 and more 
+experience is gained with the EUA process for the various types of COVID-19 tests. Developers 
+may use alternative approaches. Developers who are considering alternative approaches should 
+consider seeking FDA’s feedback.
+FDA can provide validation recommendations specific to a test developer’s situation both for 
+those seeking EUA and for those seeking marketing authorization through traditional review 
+pathways. Developers can send simple inquiries to CDRH-EUA-Templates@fda.hhs.gov or 
+submit a pre-EUA or pre-submission for more complex inquiries.28 For tests seeking marketing 
+authorization through traditional premarket review pathways, FDA may recommend validation 
+studies or supportive evidence in addition to the recommendations in the EUA templates.  
+Members of the public can submit questions about the templates to CDRH-EUA-
+Templates@FDA.HHS.GOV, or they can submit comments regarding the templates to the public 
+docket established for this guidance.
+26 The FDA is working with the NIH, the Centers for Disease Control and Prevention (CDC), and BARDA to assess 
+the performance of certain commercial manufacturers’ serology tests. As part of this project, the FDA, working with 
+partnering agencies, has designed a performance assessment protocol that offers a mechanism for an independent 
+evaluation of certain lateral flow and certain enzyme-linked immunosorbent assay (ELISA) or similar technology-
+based SARS-CoV-2 antibody tests in a laboratory environment. Under this protocol, each test evaluated at the 
+NIH/NCI will be evaluated with a well-characterized sample panel consisting of positive and negative plasma and/or 
+serum samples. The approach represents a balanced attempt to provide a reasonable understanding of the potential 
+performance of a significant number of the tests within a short time period. Performance results are considered 
+during FDA’s review of an EUA request for the test.
+27 See https://www.fda.gov/medical-devices/coronavirus-disease-2019-covid-19-emergency-use-authorizations-
+medical-devices/in-vitro-diagnostics-euas.
+28 See FDA Guidance document “Requests for Feedback and Meetings for Medical Device Submissions: The Q-
+Submission Program,” available at: https://www.fda.gov/regulatory-information/search-fda-guidance-
+documents/requests-feedback-and-meetings-medical-device-submissions-q-submission-program.
+
+<!-- fulltext-end -->

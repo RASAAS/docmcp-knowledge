@@ -1,0 +1,1027 @@
+---
+title: "Clinical Performance Assessment: Considerations for Computer-Assisted Detection Devices Applied to Radiology Images and Radiology Device Data in Premarket Notification (510(k)) Submissions: Guidance for Industry and FDA Staff"
+description: "FDA CDRH Final Guidance Document"
+published: 2022-09-28
+---
+
+# Clinical Performance Assessment: Considerations for Computer-Assisted Detection Devices Applied to Radiology Images and Radiology Device Data in Premarket Notification (510(k)) Submissions: Guidance for Industry and FDA Staff
+
+**Published**: 2022-09-28
+
+**Status**: Final
+**Type**: Guidance Document
+**Category**: Digital Health & Cybersecurity
+**Topics**: Premarket, 510(k), Digital Health, Radiology, Labeling
+**Docket**: FDA-2009-D-0503
+
+::: tip Official Source
+[https://www.fda.gov/regulatory-information/search-fda-guidance-documents/clinical-performance-assessment-considerations-computer-assisted-detection-devices-applied-radiology](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/clinical-performance-assessment-considerations-computer-assisted-detection-devices-applied-radiology)
+PDF: [https://www.fda.gov/media/77642/download](https://www.fda.gov/media/77642/download)
+:::
+
+<!-- fulltext-start -->
+
+---
+
+## Official Full Text
+
+<!-- Page 1 -->
+Contains Nonbinding Recommendations
+Clinical Performance Assessment: 
+Considerations for Computer-Assisted 
+Detection Devices Applied to Radiology 
+Images and Radiology Device Data in 
+Premarket Notification (510(k)) 
+Submissions
+Guidance for Industry and Food and 
+Drug Administration Staff
+Document issued on September 28, 2022.
+Document originally issued on July 3, 2012.
+This document supersedes Clinical Performance Assessment: Considerations 
+for Computer-Assisted Detection Devices Applied to Radiology Images and 
+Radiology Device Data in Premarket Notification (510(k)) Submissions issued 
+January 22, 2020.
+For questions regarding this document, please contact RadHealth@fda.hhs.gov. 
+U.S. Department of Health and Human Services
+Food and Drug Administration
+Center for Devices and Radiological Health
+
+---
+
+<!-- Page 2 -->
+Contains Nonbinding Recommendations
+Preface
+Public Comment
+You may submit electronic comments and suggestions at any time for Agency consideration to 
+https://www.regulations.gov. Submit written comments to the Dockets Management Staff, Food 
+and Drug Administration, 5630 Fishers Lane, Room 1061, (HFA-305), Rockville, MD 20852.  
+Identify all comments with the docket number FDA-2009-D-0503. Comments may not be acted 
+upon by the Agency until the document is next revised or updated.
+Additional Copies
+Additional copies are available from the Internet. You may also send an email request to CDRH-
+Guidance@fda.hhs.gov to receive a copy of the guidance. Please include the document number 
+1698 and complete title of the guidance in the request.
+
+---
+
+<!-- Page 3 -->
+Contains Nonbinding Recommendations
+Table of Contents
+I.
+Introduction ............................................................................................................................. 2
+II.
+Scope ....................................................................................................................................... 3
+III.
+Rationale ................................................................................................................................. 5
+IV.
+Clinical Study Design ............................................................................................................. 6
+A.
+Evaluation Paradigm and Study Endpoints ......................................................................... 8
+B.
+Control Arm ....................................................................................................................... 10
+C.
+Reading Scenarios and Randomization ............................................................................. 11
+D.
+Rating Scale ....................................................................................................................... 11
+E.
+Scoring ............................................................................................................................... 12
+F.
+Training of Clinical Readers.............................................................................................. 12
+V.
+Study Population ................................................................................................................... 13
+A.
+Data Poolability ................................................................................................................. 14
+B.
+Test Data Reuse ................................................................................................................. 14
+VI.
+Reference Standard ............................................................................................................... 16
+VII.
+Reporting............................................................................................................................... 17
+Appendix ......................................................................................................................................... 17
+A.
+Potential Sources of Bias in a Retrospective Reader Study .............................................. 17
+B.
+Additional References ....................................................................................................... 19
+
+---
+
+<!-- Page 4 -->
+Contains Nonbinding Recommendations
+2
+Clinical Performance Assessment: 
+Considerations for Computer-Assisted 
+Detection Devices Applied to Radiology 
+Images and Radiology Device Data in 
+Premarket Notification (510(k)) 
+Submissions
+Guidance for Industry and Food and 
+Drug Administration Staff
+This guidance represents the current thinking of the Food and Drug Administration (FDA or 
+Agency) on this topic.  It does not establish any rights for any person and is not binding on FDA 
+or the public.  You can use an alternative approach if it satisfies the requirements of the 
+applicable statutes and regulations.  To discuss an alternative approach, contact the FDA staff 
+or Office responsible for this guidance as listed on the title page. 
+I. 
+Introduction
+This guidance document provides recommendations to industry, systems and service providers, 
+consultants, FDA staff, and others regarding clinical performance assessment of computer-
+assisted detection (CADe1) devices applied to radiology images and radiology device data (often 
+referred to as “radiological data” in this document). CADe devices are computerized systems that 
+incorporate pattern recognition and data analysis capabilities (i.e., combine values, 
+measurements, or features extracted from the patient radiological data) intended to identify, 
+mark, highlight, or in any other manner direct attention to portions of an image, or aspects of 
+radiology device data, that may reveal abnormalities during interpretation of patient radiology 
+images or patient radiology device data by the intended user (i.e., a physician or other health care 
+professional), referred to as the “clinician” in this document. We have considered the 
+recommendations on documentation and performance testing for CADe devices made during the 
+1 The use of the acronym CADe for computer-assisted detection may not be a generally recognized acronym in the 
+community at large.  It is used here to identify the specific type of devices discussed in this document.
+
+---
+
+<!-- Page 5 -->
+Contains Nonbinding Recommendations
+3
+public meetings of the Radiology Devices Panel on March 4-5, 2008,2 and November 17-18, 
+2009.3 We have also considered the public comments received on the draft guidance announced 
+in the Federal Register on October 21, 2009 (74 FR 54053).4  
+In addition, FDA has issued a final order reclassifying medical image analyzers applied to 
+mammography breast cancer, ultrasound breast lesions, radiograph lung nodules, and radiograph 
+dental caries into Class II (special controls) and subject to premarket notification (510(k)) 
+requirements.5 This guidance provides recommendations that may be useful for compliance with 
+the special controls codified in 21 CFR 892.2070(b)(1) and noted in italic font for clarity in the 
+guidance.
+This guidance also is being revised with minor updates to reflect the issuance of the final rule, 
+“Medical Devices; Medical Device Classification Regulations To Conform to Medical Software 
+Provisions in the 21st Century Cures Act” (86 FR 20278).6
+In general, FDA’s guidance documents do not establish legally enforceable responsibilities. 
+Instead, guidances describe the Agency’s current thinking on a topic and should be viewed only 
+as recommendations, unless specific regulatory or statutory requirements are cited. The use of 
+the word should in Agency guidances means that something is suggested or recommended, 
+but not required.
+II. Scope
+This document provides guidance regarding clinical performance assessment studies for CADe 
+devices applied to radiology images and radiology device data and CADe devices applied to 
+mammography breast cancer, ultrasound breast lesions, radiograph lung nodules, and radiograph 
+dental caries. Radiological data include, for example, images that are produced during patient 
+examination with ultrasound, radiography, magnetic resonance imaging (MRI), computed 
+tomography (CT), positron emission tomography (PET), and digitized film images. As stated 
+above, CADe devices are computerized systems intended to identify, mark, highlight, or in any 
+other manner direct attention to portions of an image, or aspects of radiology device data, that 
+may reveal abnormalities during interpretation of patient radiology images or patient radiology 
+device data by the clinician. This guidance applies to CADe devices, including when a CADe 
+2 Available at https://wayback.archive-
+it.org/7993/20170405191951/https:/www.fda.gov/AdvisoryCommittees/CommitteesMeetingMaterials/MedicalDevi
+ces/MedicalDevicesAdvisoryCommittee/RadiologicalDevicesPanel/ucm124890.htm. 
+3 Available at https://wayback.archive-
+it.org/7993/20170405191949/https:/www.fda.gov/AdvisoryCommittees/CommitteesMeetingMaterials/MedicalDevi
+ces/MedicalDevicesAdvisoryCommittee/RadiologicalDevicesPanel/ucm147063.htm. 
+4 See 74 FR 54053 at https://www.federalregister.gov/documents/2009/10/21/E9-25233/draft-guidances-for-
+industry-and-food-and-drug-administration-staff-computer-assisted-detection.
+5 See “Radiology Devices; Reclassification of Medical Image Analyzers” (85 FR 3545) at 
+https://www.federalregister.gov/documents/2020/01/22/2020-00494/radiology-devices-reclassification-of-medical-
+image-analyzers. 
+6 See 86 FR 20278 at https://www.federalregister.gov/documents/2021/04/19/2021-07860/medical-devices-medical-
+device-classification-regulations-to-conform-to-medical-software-provisions.
+
+---
+
+<!-- Page 6 -->
+Contains Nonbinding Recommendations
+4
+device is part of a combined system, such as the detection portion of combined computer-aided 
+detection and diagnostic devices.
+This guidance document applies to the CADe devices classified under 21 CFR 892.2050
+“medical image management and processing system” and to devices classified under 21 CFR 
+892.2070 “Medical image analyzer” including the following product codes:
+·
+NWE (Colon computed tomography system, computer aided detection);
+·
+OEB (Lung computed tomography system, computer-aided detection);
+·
+OMJ (Chest X-ray computer aided detection); and
+·
+MYN (Medical image analyzer).
+The Agency intends to create new product codes to identify and track new types of CADe
+products as necessary.7
+By design, a CADe device can be a unique detection scheme specific to only one type of 
+potential abnormality, or a combination or bundle of multiple parallel detection schemes, each 
+one specifically designed to detect one type of potential abnormality revealed in the patient 
+radiological data. Examples of CADe devices that fall within the scope of this guidance include:
+·
+a CADe algorithm designed to identify and prompt microcalcification clusters and 
+masses on digital mammograms;
+·
+a CADe device designed to identify and prompt colonic polyps on CT colonography 
+studies;
+·
+a CADe designed to identify and prompt filling defects on thoracic CT examination; and
+·
+a CADe designed to identify and prompt brain lesions on head MRI studies.
+We may consider a CADe algorithm to be modified, for the purposes of this guidance, if, for 
+example, a change has been made to the image processing components, features, classification 
+algorithms, training methods, training data sets, or algorithm parameters. See FDA’s guidance 
+entitled “Computer-Assisted Detection Devices Applied to Radiology Images and Radiology 
+Device Data - Premarket Notification [510(k)] Submissions”8 for information on CADe 510(k) 
+submissions, including when a clinical performance assessment may be recommended for a 
+CADe 510(k) submission. 
+This guidance does not apply to (1) clinical performance assessment studies for CADe devices 
+that are intended for use during intra-operative procedures, (2) radiological computer-assisted 
+diagnostic (CADx) devices (classified under 21 CFR 892.2060), (3) computer-assisted 
+detection/diagnosis (CADe/x) devices (classified under 21 CFR 892.2090), (4) computer-assisted 
+acquisition/optimization (CADa/o) devices (classified under 21 CFR 892.2100), or (5) 
+7 For more information on product codes, please refer to FDA’s guidance entitled “Medical Device Classification 
+Product Codes” available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/medical-
+device-classification-product-codes-guidance-industry-and-food-and-drug-administration-staff. 
+8 Available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/computer-assisted-
+detection-devices-applied-radiology-images-and-radiology-device-data-premarket.
+
+---
+
+<!-- Page 7 -->
+Contains Nonbinding Recommendations
+5
+radiological computer-assisted triage and notification (CADt) devices (classified under 21 CFR 
+892.2080), whether marketed as unique devices or bundled with a CADe device that, by itself, 
+may be subject to this guidance. The guidance also does not apply to the many non-CADe 
+devices that are also classified under 21 CFR 892.2050, including, for example, product codes 
+LLZ (System, Image Processing, Radiological) and NFJ (System, Image Management, 
+Ophthalmic). Therefore, most basic radiological image processing and image acquisition 
+products fall outside the scope of this guidance document.
+For any of these types of devices, we recommend that you contact the Agency to seek feedback 
+on questions related to the regulatory pathways, regulatory requirements, and recommendations 
+about nonclinical and clinical data.
+III. Rationale
+Devices classified as medical image analyzers under 21 CFR 892.2070, are required to comply 
+with the special controls under 21 CFR 892.2070(b), including the requirement for a detailed 
+description of pre-specified performance testing methods and dataset(s) used to assess whether 
+the device will improve reader performance as intended in their design verification and 
+validation.9
+Medical image analyzers are also required to include results from performance testing that 
+demonstrate that the device improves reader performance in the intended use population when 
+used in accordance with the instructions for use. The performance assessment must be based on 
+appropriate diagnostic accuracy measures. The test dataset must contain a sufficient number of 
+cases from important cohorts (e.g., subsets defined by clinically relevant confounders, effect 
+modifiers, concomitant diseases, and subsets defined by image acquisition characteristics) such 
+that the performance estimates and confidence intervals of the device for these individual subsets 
+can be characterized for the intended use population and imaging equipment.10 The 
+recommendations that follow may be useful in demonstrating compliance with those special 
+controls.
+Recommendations: The following sections provide recommendations on the clinical study 
+design, methods, study population, and reporting for evaluating CADe systems. This guidance 
+provides recommendations as to how you should design and conduct your clinical performance 
+assessment studies (i.e., well-controlled clinical investigations) for your CADe device. These 
+studies may be part of your 510(k) submission to FDA. The recommendations in this document 
+are meant to guide you as you develop and test your CADe device; they are not meant to specify 
+the full content or type of premarket submission that may be applicable to your device.11  If you 
+would like the Agency's advice about the classification and the regulatory requirements that may 
+9 21 CFR 892.2070(b)(1)(ii). 
+10 21 CFR 892.2070(b)(1)(iii). 
+11 A 510(k) submission is the most common submission type for the CADe devices addressed in this guidance. The 
+guidance “Computer-Assisted Detection Devices Applied to Radiology Images and Radiology Device Data - 
+Premarket Notification [510(k)] Submissions” provides additional information on the device description and 
+standalone performance assessment for 510(k) submissions.
+
+---
+
+<!-- Page 8 -->
+Contains Nonbinding Recommendations
+6
+be applicable to your device, you may submit a request under section 513(g) of the Federal Food, 
+Drug, and Cosmetic Act (the FD&C Act).12
+We recommend that you request the Agency’s review of your protocols prior to initiating your 
+standalone performance assessment and clinical performance assessment studies for your CADe 
+device. To request the Agency’s review of your protocols, you may submit a Pre-Submission to 
+the Agency.13
+IV. Clinical Study Design
+The clinical performance assessment of a CADe device is intended to demonstrate the clinical 
+safety and effectiveness of your device for its intended use, when used by the intended user and 
+in accordance with its proposed labeling and instructions.
+As described above in the scope, a CADe device, by design, is intended to identify data that may 
+reveal abnormalities during interpretation of patient radiology images or data by the clinician. 
+There is a complex relationship between the CADe output and the clinician such that clinical 
+performance may depend on a variety of factors that should be considered in any study design 
+including:
+·
+timing of CADe application in the interpretive process (e.g., concurrent or second read);
+·
+physical characteristics of the CADe mark, i.e., size and shape, type of boundary (e.g., 
+solid, dashed, circle, isocontour), and proximity of the CADe mark to the abnormality; 
+·
+user’s knowledge of the type of abnormalities that the CADe is designed to mark; and
+·
+number of CADe marks.
+Your clinical performance assessment should use a well-controlled study design to preclude or 
+limit various biases that might impact conclusions on the device’s safety or effectiveness (see 
+Appendix). We especially recommend this when your clinical performance assessment is 
+performed in a laboratory setting (i.e., off site of the clinical arena) since it is difficult to 
+duplicate the clinical environment in the laboratory. Some study designs that may be utilized to 
+assess your CADe device include:
+·
+A field test or prospective reader study (e.g., randomized controlled trial) that evaluates a 
+device in actual clinical conditions. A field test may not be practical in situations, for 
+example, where there is very low disease prevalence that may necessitate enrollment of 
+an excessively large number of patients.
+12 Section 513(g) of the FD&C Act (21 U.S.C. 360c(g)) provides a means for obtaining the Agency's views about 
+the classification and the regulatory requirements that may be applicable to your device.  
+13 For more information on Pre-Submissions, see FDA’s guidance entitled “Requests for Feedback and Meetings for 
+Medical Device Submissions: The Q-Submission Program” available at https://www.fda.gov/regulatory-
+information/search-fda-guidance-documents/requests-feedback-and-meetings-medical-device-submissions-q-
+submission-program.
+
+---
+
+<!-- Page 9 -->
+Contains Nonbinding Recommendations
+7
+·
+A retrospective reader study consisting of a retrospective case collection enriched with 
+diseased/abnormal cases is a possible surrogate for a field test.
+·
+A stress test is another option for the clinical performance assessment of some CADe 
+devices. A stress test is a retrospective reader study enriched with patient cases that 
+contain more challenging imaging findings (or other image data) than normally seen in 
+routine clinical practice but that still fall within the device’s intended use population (see 
+Section V. Study Population). Note that the use of sample enrichment will likely alter 
+reader performance in the trial compared with clinical practice because of the differences 
+in disease prevalence (and case difficulty for stress testing) between the trial and clinical 
+practice.  
+The clinical performance assessment of CADe devices is typically performed by utilizing a 
+multiple reader multiple case (MRMC) study design, where a set of clinical readers (i.e., 
+clinicians evaluating the radiological images or data in the MRMC study) evaluate image data 
+under multiple reading conditions or modalities (e.g., readers unaided versus readers aided by 
+CADe). The MRMC design can be “fully-crossed” whereby all readers independently read all of 
+the cases. This design offers the greatest statistical power for a given number of cases. However, 
+non-fully crossed study designs may be acceptable, for example in prospective studies where 
+interpretations of the same patient data by multiple clinicians may not be feasible.  
+Whether you decide on a fully-crossed study design or not, we recommend the use of an MRMC 
+evaluation paradigm to assess the clinical performance of a CADe device using one of the study 
+designs described above. A complete clinical study design protocol should be included in your 
+submission. Pre-specification of the statistical analysis is a key factor for obtaining consistent 
+and convincing scientific evidence. We recommend that you provide: 
+·
+a description of the study design;
+·
+a description of how the imaging data are to be collected (e.g., make and model of the 
+imaging device and the imaging protocol);
+·
+a copy of the protocol, including the following:
+o hypothesis to be tested and study endpoints, 
+o plans for checking any assumptions required to validate the tests, 
+o alternative procedures/tests to be used if the required assumptions are not met, 
+o study success criteria that indicate which hypotheses should be met in order for 
+the clinical study to be considered a success,
+o statistical and clinical justification of the selected case sample size, 
+o statistical and clinical justification of the selected number of readers, 
+o image interpretation methodology and relationship to clinical practice,
+o randomization methods, and
+o reader task including rating scale used (see Section IV.D. Rating Scale); 
+·
+the reader qualifications and experience;
+·
+a description of the reader training; and
+·
+a statistical analysis plan (i.e., endpoints, statistical methods) with description of:
+o the process for defining truth (see Section VI. Reference Standard), 
+o the details of the scoring technique used (see Section IV.E. Scoring), and
+o any results from a pilot study supporting the proposed design.
+
+---
+
+<!-- Page 10 -->
+Contains Nonbinding Recommendations
+8
+Valid estimation of clinical performance for CADe devices is dependent upon sound study 
+design. Aspects of sound clinical study design should include the following: 
+·
+study populations (both diseased and normal cases) are appropriately representative of or 
+sampled from the intended use population;
+·
+study design avoids confounding of the CADe effect (e.g., reading session effects);
+·
+sample size is sufficient to demonstrate performance claims;
+·
+truth definition is appropriate for assessment of performance, and uncertainty in the 
+reference standard is correctly accounted for in the study analysis, if applicable;
+·
+appropriate data cohorts are represented in the data set; 
+·
+readers are selected such that they are representative of the intended population of 
+clinical users; and
+·
+imaging hardware are selected such that they are consistent with current clinical practice.
+A. 
+Evaluation Paradigm and Study Endpoints
+You should select study endpoints to demonstrate that your CADe device is effective (i.e., in a 
+significant portion of the target population, the use of the device for its intended uses and 
+conditions of use, when accompanied by adequate directions for use and warnings against unsafe 
+use, will provide clinically significant results).14 Selection of the primary and secondary 
+endpoints will depend on the intended use of your device and should be fixed prior to initiating 
+your evaluation. Performance metrics based on the receiver operating characteristic (ROC) curve 
+or variant of ROC (e.g., free-response receiver operating characteristic (FROC) curve or 
+location-specific receiver operating characteristic (LROC) curve), in addition to sensitivity (Se) 
+and specificity (Sp) at a clinical action point will be likely candidates as endpoints. An ROC- 
+based endpoint allows evaluation of the device over a range of operating points. An ROC curve 
+is a plot of Se versus 1-Sp and is a summary of diagnostic performance of a device or a clinician.  
+An FROC curve is a plot of Se versus the number of false positive marks per image set. FROC 
+metrics summarize diagnostic performance when disease location and multiple disease sites per 
+patient are accounted for in the analysis. 15 Reporting the Se and Sp pair allows for the evaluation 
+of the device at a clinical threshold or cut-point the reader would act upon. Se is defined as the 
+probability that a test is positive for a population of patients with the 
+disease/condition/abnormality while Sp is defined as the probability that the test is negative for a 
+population of normal patients (i.e., patients without the disease/condition/abnormality).16
+Se and Sp estimates should be based on an explicit clinical determination by the clinical readers 
+(e.g., recall or no recall), not indirectly from ratings data used to generate the ROC curves. Data 
+collection for ROC, Se, and Sp can be done simultaneously within a single reader study. An 
+14 See 21 CFR 860.7(e).
+15 For additional details on these assessment paradigms, see Wagner, R.F., Metz, C.E., and Campbell, G., 
+Assessment of medical imaging systems and computer aids: A tutorial review. Acad. Radiol., 2007. 14(6):723–48. 
+https://doi.org/10.1016/j.acra.2007.03.001. 
+16 Altman, D.G., Practical Statistics for Medical Research. Chapman & Hall, London, 1991. 
+https://doi.org/10.1002/sim.4780101015.
+
+---
+
+<!-- Page 11 -->
+Contains Nonbinding Recommendations
+9
+example reading scenario could be to first have the readers give a clinically justified binary 
+response for Se and Sp evaluation and then to immediately follow with a rating response 
+consistent with the binary response to be used for ROC evaluation.
+You may employ various summary performance metrics to assess the effectiveness of the use of 
+your CADe device by readers (and such metrics may vary based on the specific device and 
+clinical indication). Examples of these include:
+·
+area, partial area, or other measures of the ROC curve; 
+·
+area, partial area, or other measures of the FROC curve;
+·
+area, partial area, or other measures of the LROC curve;
+·
+reader Se and Sp (or Se and recall rate17); and
+·
+reader localization accuracy.
+We recommend using an ROC summary performance metric as part of your primary analysis, 
+although we recognize that alternate performance metrics may also be appropriate. As mentioned 
+above, we recommend that you include Se and Sp as a secondary endpoint in your analysis when 
+an ROC summary performance metric is used. Reporting Se and Sp (or Se and recall rate) may 
+provide additional information for understanding the expected impact of a device on clinical 
+practice. We also recommend that you contact the Agency when you are considering an alternate 
+performance metric.
+For study endpoints based on the area under the ROC/FROC/LROC curve or partial area under 
+the ROC/FROC/LROC curve, we recommend that you provide plots of the actual curves along 
+with summary performance information for both parametric and non-parametric analysis 
+approaches when possible.18 Finally, you should check all methods utilized in your analysis for 
+the adequacy of their fit to the data as appropriate.
+The selection of lesion-based, patient-based, or another unit-based measure of performance as a 
+primary or secondary endpoint will depend on the intended use and the expected impact of the 
+device on clinical practice. Powering any additional units-based analyses for statistical 
+significance should not be necessary unless you intend to make specific performance claims.
+We recommend that you describe your statistical evaluation methodology and provide results 
+including:
+·
+overall reader performance;
+·
+stratified performance by relevant confounders or effect modifiers (e.g., lesion type, 
+lesion size, lesion location, scanning protocol, imaging hardware, concomitant diseases)
+17 Recall rate refers to the percentage of patients (including diseased and non-diseased patients) that are called back 
+or recalled for additional medical assessment.
+18 For more information on potential limitations of relying on only one type of ROC analyses, see Gur, D., Bandos, 
+A.I., and Rockette, H.E., Comparing Areas under Receiver Operating Characteristic Curves: Potential Impact of the 
+“Last” Experimentally Measured Operating Point. Radiology, 2008. 247(1):12–15. 
+https://doi.org/10.1148/radiol.2471071321.
+
+---
+
+<!-- Page 12 -->
+Contains Nonbinding Recommendations
+10
+(see Section V. Study Population) (powering each cohort for statistical significance is not 
+necessary unless you are making specific subset performance claims); and
+·
+confidence intervals (CIs) that account for reader variability, case variability, and truth 
+variability or other sources of variability when appropriate.
+We recommend that you identify and validate your analysis software.19 You should provide a 
+reference to the analysis approach used, clarify the software implementation, and specify a 
+version number if appropriate. Certain validated MRMC analysis approaches, examples of which 
+can be found in the literature or obtained online, may be appropriate for your device evaluation 
+depending on its intended use and conditions of use.20, 21
+The definitions of a true positive, true negative, false positive, and false negative CADe mark 
+should be consistent with the intended use of the device and the characterization of the reference 
+standard (see Section VI. Reference Standard).
+B. 
+Control Arm
+We recommend that you assess the clinical performance of your CADe device relative to a 
+control modality. A study control arm that uses conventional clinical interpretation (i.e., reader 
+interpretation without the CADe device) should generally be the most relevant comparator in 
+CADe performance assessment. For CADe devices intended as second readers, another possible 
+control is double reading by two clinicians. These controls or a direct comparison with the 
+predicate CADe device should generally be appropriate for establishing substantial equivalence. 
+Other control arms may be valid. We recommend that you contact the Agency to discuss your 
+choice of a control arm prior to conducting your clinical study.
+The study control arm should utilize the same reading methodology as the device arm and be 
+consistent with clinical practice. The same population of cases, if not the same cases themselves, 
+should be in all study arms to minimize potential bias. For designs that include distinct cases in 
+each study arm, we recommend that you provide a description and flow chart demonstrating how 
+you randomized patients and readers into the different arms.  
+19 For more information on MRMC analysis software, see, for example, Obuchowski, N.A., Beiden, S.V., Berbaum, 
+K.S., Hillis, S.L., Ishwaran, H., Song, H.H., and Wagner, R.F., Multi-reader, multi-case ROC analysis: An empirical 
+comparison of five methods. Acad. Radiol., 2004. 11(9); 980–995. https://doi.org/10.1016/j.acra.2004.04.014.
+20 For MRMC literature references, see, for example: Metz, C.E., Fundamental ROC analysis. Handbook of Medical 
+Imaging,  Vol. 1. Physics and Psychophysics. SPIE Press, 2000. Chapter 15, 751–769. 
+https://doi.org/10.1117/3.832716.ch15; Wagner, R.F., Metz, C.E., and Campbell, G., Assessment of medical 
+imaging systems and computer aids: A tutorial review. Acad. Radiol., 2007. 14(6):723–48. 
+https://doi.org/10.1016/j.acra.2007.03.001; and Obuchowski, N.A., Beiden, S.V., Berbaum, K.S., Hillis, S.L., 
+Ishwaran, H., Song, H.H., and Wagner, R.F., Multi-reader, multi-case ROC analysis: An empirical comparison of 
+five methods. Acad. Radiol., 2004. 11(9); 980–995. https://doi.org/10.1016/j.acra.2004.04.014.
+21 For online access to software that analyzes MRMC data based on validated techniques, see, for example:  
+LABMRMC software and general ROC software, The University of Chicago: http://metz-roc.uchicago.edu/ (for 
+either quasi-continuous or categorical data); University of Iowa MRMC software: 
+https://perception.lab.uiowa.edu/OR-DBM-MRMC-program-manual (for categorical data); or OBUMRM software: 
+https://www.lerner.ccf.org/qhs/software/.
+
+---
+
+<!-- Page 13 -->
+Contains Nonbinding Recommendations
+11
+C. 
+Reading Scenarios and Randomization
+Reading scenarios in the clinical evaluation should be consistent with the intended use of the 
+device. The following are examples of reading scenarios that may be part of a CADe clinical 
+evaluation.22
+· Devices for second reader use only (sequential design):
+o a conventional reading by the readers without the CADe device (i.e., reader alone);
+o a second-read by the readers in which the CADe output is displayed immediately 
+after conducting a conventional interpretation (this reading could occur within the 
+same reading session as the conventional read in what is termed a “sequential” 
+reading scheme). 
+· Devices for concurrent reading (cross-over design):
+o a conventional reading by the readers without the CADe device (i.e., reader alone);
+o a concurrent or simultaneous read by the readers in which the CADe output is 
+available at any time during the interpretation process (this reading would be 
+conducted in a separate reading session from the conventional read).
+You should randomize readers, cases, and reading scenarios to reduce bias in performance 
+measures. We recommend that you describe your randomization methodology and provide an 
+associated flowchart. One approach to randomization is to make use of the principle of Latin 
+squares as part of a block design to the reader study.23
+In case of multiple reading sessions where the same cases are read multiple times, we 
+recommend that you separate each reading session in time by at least four weeks to avoid 
+memory bias. However, longer time gaps may be advisable. For shorter or longer time gaps 
+between reading sessions, we recommend that you provide data supporting your proposed time 
+gaps.
+D. 
+Rating Scale
+You should use conventional medical interpretation and reporting for lesion location, extent, and 
+patient management. ROC-based endpoints (see Section IV.A. Evaluation Paradigm and Study 
+Endpoints) may support collecting data with a finer rating scale (e.g., a 7-point or 100-point 
+scale) when readers rate the lesion and/or disease status in a patient. We recommend providing 
+training to the readers on the use of the rating scale (see Section IV.F. Training of Study 
+Participants). 
+22 Obuchowski N.A., Meziane M., Dachman A.H., Lieber M.L., Mazzone P.J., What's the control in studies 
+measuring the effect of computer-aided detection (CAD) on observer performance? Acad Radiol., 2010. 17(6):761-
+7. https://doi.org/10.1016/j.acra.2010.01.018.
+23 Bailey, R.A., Design of Comparative Experiments. Cambridge University Press, 2008. 
+https://doi.org/10.1017/CBO9780511611483.
+
+---
+
+<!-- Page 14 -->
+Contains Nonbinding Recommendations
+12
+E. 
+Scoring
+We refer to the procedure for determining the correspondence between the reader’s interpretation 
+and the ground truth (e.g., disease status) as the scoring process. The scoring process and the 
+scoring definition are important components in the clinical assessment of a CADe device and 
+you should describe them. We recommend that you describe the process (i.e., rationale, 
+definition, and criteria) for determining whether a reader’s interpretation corresponds to the truth 
+status established during the truthing process (see Section VI. Reference Standard for 
+information on the truthing process). 
+In this guidance, we describe scoring in terms of the clinical performance assessment. A different 
+type of scoring is used to evaluate device standalone performance, which is described in FDA’s 
+guidance entitled “Computer-Assisted Detection Devices Applied to Radiology Images and 
+Radiology Device Data - Premarket Notification [510(k)] Submissions.”24  
+The scoring process for the clinical studies should be consistent with the abnormalities marked 
+by the CADe and the intended use of your device. You should describe and fix the scoring 
+process prior to initiating your evaluation. In your description of the scoring process, we 
+recommend that you indicate whether the scoring is based on:
+·
+electronic or non-electronic means;
+·
+physical overlap of the boundary, area, or volume of a reader mark in relation to the 
+boundary, area, or volume of reference standard;
+·
+relationship of the centroid of a reader mark to the boundary or spatial location of 
+reference standard;
+·
+relationship of the centroid of the reference standard to the boundary or spatial location of 
+a reader mark;
+·
+interpretation by reviewing reader(s); or
+·
+other methods. 
+For scoring that relies on interpretations by reviewing readers, we recommend that you provide 
+the number of readers involved, their qualifications, their levels of experience and expertise, the 
+specific instructions conveyed to them prior to their participation in the scoring process, and any 
+specific criteria used as part of the scoring process. When multiple readers are involved in 
+scoring, you should describe the process by which you combine their interpretations to make an 
+overall scoring determination or how you incorporate their interpretations into the performance 
+evaluation, including how you address any inconsistencies.
+F. 
+Training of Clinical Readers
+We recommend that you specify instructions and provide training to clinical readers in the study 
+on the use of the CADe device and the details on how to participate in the clinical study.  
+Training should include a description of the device and instructions for how to use the device.  
+24 Available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/computer-assisted-
+detection-devices-applied-radiology-images-and-radiology-device-data-premarket.
+
+---
+
+<!-- Page 15 -->
+Contains Nonbinding Recommendations
+13
+For specialized reading instructions or rules (e.g., rules for changing initial without-CADe 
+interpretation when reviewing the CADe marks), we recommend that you justify their clinical 
+relevance according to reading task, clinical workflow, and medical practice.
+We also recommend that you provide training to the readers on the use of the rating scale (see 
+Section IV.D. Rating Scale), especially if such a rating scale is not generally utilized in clinical 
+practice. Such training helps avoid incorrect or un-interpretable results. We recommend that 
+reader training include rating a representative set of normal and abnormal cases according to the 
+study design methodology, and making use of cases that are not part of the testing database. 
+V. Study Population
+You may collect patient data (i.e., cases) prospectively or retrospectively based on well-defined 
+inclusion and exclusion criteria. We recommend that you provide the protocol for your case 
+collections. Note that cases collected for your clinical trial should be independent of the cases 
+used during your device development. An acceptable approach for acquiring data is the 
+collection of consecutive cases that are within the inclusion and outside of the exclusion criteria 
+from each participating collection site.
+Enrichment with diseased/abnormal cases is permissible for an efficient and less burdensome 
+representative case data set. Enrichment may affect reader performance, so the extent of 
+enrichment should be weighed against the introduction of biases into the study design. You may 
+also enrich the study population with patient cases that contain imaging findings (or other image 
+data) that are challenging to clinicians but that still fall within the device’s intended use 
+population. This enrichment is often referred to as stress testing and will introduce biases into the 
+study design. Therefore, not all approaches in developing a stress population may be appropriate 
+for use in your clinical assessment. For example, a study population enriched with cases 
+containing small colonic polyps may be appropriate when assessing a general CADe device 
+designed to assist in detecting a wide range of polyp sizes. However, we do not recommend 
+enrichment with cases based on the performance of the CADe device.
+You should sample the study population from the intended use population for your device so that 
+the case set includes an appropriate range of diseased/abnormal and normal cases. Selective 
+sampling from cohorts within the intended use population is appropriate when you utilize stress 
+testing. The sample size of the study should be large enough such that the study has adequate 
+power to detect with statistical significance your proposed performance claims. When 
+appropriate, the study should contain a sufficient number of cases from important cohorts (e.g., 
+subsets defined by clinically relevant confounders, effect modifiers, and concomitant diseases) 
+such that clinical performance estimates and confidence intervals can be obtained for these 
+individual subsets. Powering each cohort for statistical significance should not be necessary 
+unless you are making specific subset performance claims. When you make multiple 
+performance claims, a pre-specified statistical adjustment for the testing of multiple subsets 
+would be necessary.
+When describing your study population, we recommend that you provide specific information, 
+where appropriate, including:
+
+---
+
+<!-- Page 16 -->
+Contains Nonbinding Recommendations
+14
+·
+the patient demographic data (e.g., age, ethnicity, race, sex);
+·
+the patient medical history relevant to the CADe application;
+·
+the patient disease state and indications for the radiologic test;
+·
+the conditions of radiologic testing (e.g., technique, including whether the test was 
+performed with/without contrast, contrast type and dose per patient, patient body mass 
+index, radiation exposure, T-weighting for MRI images, and views taken);
+·
+a description of how the imaging data were collected (e.g., make and model of imaging 
+devices and the imaging protocol);
+·
+the collection sites;
+·
+the processing sites, if applicable (e.g., patient data digitization); 
+·
+the number of cases:
+o the number of diseased cases,
+o the number of normal cases,
+o methods used to determine disease status, location, and extent (see Section VI. 
+Reference Standard);
+·
+the case distributions stratified by relevant confounders or effect modifiers, such as lesion 
+type (e.g., hyperplastic vs. adenomatous colonic polyps), lesion size, lesion location, 
+disease stage, organ characteristics (e.g., breast composition), concomitant diseases, 
+imaging hardware (e.g., makes and models), imaging or scanning protocols, collection 
+sites, and processing sites (if applicable); and
+·
+a comparison of the clinical, imaging, and pathologic characteristics of the patient data 
+compared to the target population.
+A. 
+Data Poolability
+Premarket approval applications based solely on foreign clinical data and otherwise meeting the 
+criteria for approval may be approved if, among other requirements, the foreign data are 
+applicable to the United States (U.S.) population and U.S. medical practice and clinical 
+investigators of recognized competence have performed the studies.25 You should justify why 
+non-U.S. data reflect what is expected for a U.S. population with respect to disease occurrence, 
+characteristics, practice of medicine, and clinician competency. In accordance with good clinical 
+study design, you should justify, both statistically and clinically, the poolability of data from 
+multiple sites. We recommend that 510(k) submissions follow similar quality data practices with 
+regard to foreign data and data poolability. You are encouraged to contact the Agency if you 
+intend to rely on foreign clinical data as the basis of your premarket submission. 
+B. 
+Test Data Reuse
+The Agency recognizes the difficulty in acquiring data for CADe assessment. The Agency also 
+recognizes that the readers and CADe algorithm may implicitly or explicitly become tuned to the 
+test data if the same test set is used multiple times. If no algorithm training has occurred between 
+two tests (e.g., if the sponsor is investigating the effect of a new prompt type), then a new set of 
+25 21 CFR 814.15.
+
+---
+
+<!-- Page 17 -->
+Contains Nonbinding Recommendations
+15
+readers with no knowledge of the results of the previous study may address concerns about the 
+use of the same test data set. If CADe algorithm training has occurred between tests, or if this is 
+a new CADe algorithm, the Agency encourages evaluation of the CADe system using newly 
+acquired independent test cases (i.e., the Agency discourages repeated use of test data in 
+evaluating device performance). If you are considering data reuse in the evaluation of your 
+CADe device, you should demonstrate that reusing any part of the test data does not introduce 
+unreasonable bias into estimates of CADe performance and that test data integrity is maintained.
+In the event that you would like the Agency to consider the reuse of any test data, you should 
+control the access of your staff to performance results for the test subpopulations and individual 
+cases. It may therefore be necessary for you to set up a “firewall” to ensure those outside of the 
+regulatory assessment team (e.g., algorithm developers) are completely insulated from 
+knowledge of the radiology images and radiological data, and anything but the appropriate 
+summary performance results. You should maintain test data integrity throughout the lifecycle of 
+the product. This is analogous to data integrity involving clinical trial data monitoring 
+committees and the use of a “firewall” to insulate personnel responsible for proposing interim 
+protocol changes from knowledge of interim comparative results. For more information on data 
+integrity for clinical trial data monitoring committees, refer to Section 4.4.1.4 of the FDA 
+guidance entitled “Establishment and Operation of Clinical Trial Data Monitoring Committees 
+for Clinical Trial Sponsors.”26
+To minimize the risk of tuning to the test data and to maintain data integrity, we recommend that 
+you develop an audit trail and implement the following controls when you contemplate the reuse 
+of any test data:
+·
+you randomly select the data from a larger database that grows over time;
+·
+you retire data acquired with outdated image acquisition protocols or equipment that no 
+longer represents current practice;
+·
+you place a small fixed limit on the number of times a case can be used for assessment;
+·
+you maintain a “firewall” such that data access is tightly controlled to ensure that nobody 
+outside of the regulatory assessment team, especially anyone associated with algorithm 
+development, has access to the data (i.e., only summary performance results are reported 
+outside of the assessment team);
+·
+you maintain a data access log to track each time the data is accessed, including a record 
+of who accessed the data, the test conditions, and the summary performance results; and
+·
+you use new readers in each new clinical reader study.
+The purposes of the audit trail include: (1) establishing that you defined the cases in the training 
+and test sets appropriately such that data leakage between training and test sets did not occur; (2) 
+ensuring that you fixed the new CADe algorithm in advance (i.e., before application to the test 
+set); and (3) providing information concerning the extent to which you used the same test set or a 
+subset thereof for testing other CADe algorithms or designs, including results reported to the 
+Agency as well as non-reported results. The controls we are recommending are intended to 
+26Available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/establishment-and-
+operation-clinical-trial-data-monitoring-committees.
+
+---
+
+<!-- Page 18 -->
+Contains Nonbinding Recommendations
+16
+substantially reduce the chance that you evaluate a new CADe algorithm in a subsequent study 
+using the same test data set that you used for a prior CADe algorithm.
+If you reuse test data, you should report the test performance for relevant subsets in addition to 
+the overall performance. These subsets include: (1) the portion of the test set for the new CADe 
+algorithm that overlaps with previously used test sets; and (2) the portion of the test set that you 
+have never been used before. Since these subsets will be smaller in size compared to the overall 
+test set for the new CADe algorithm, confidence intervals for the subsets will be wider. 
+However, the trends for the mean performances would be helpful to indicate whether you have 
+tuned the CADe system to previously used portions of the test set.
+VI. Reference Standard 
+For purposes of this guidance, the reference standard (also often called the “gold standard” or 
+“ground truth” in the imaging community) for patient data indicates whether the 
+disease/condition/abnormality is present and may include such attributes as the extent or location 
+of the disease/condition/abnormality. We refer to the characterization of the reference standard 
+for the patient (e.g., disease status) as the truthing process.
+We recommend that you provide the rationale for your truthing process and indicate if it is based 
+on:
+·
+the output from another device;
+·
+an established clinical determination (e.g., biopsy, specific laboratory test);
+·
+a follow-up clinical imaging examination;
+·
+a follow-up medical examination other than imaging; or
+·
+an interpretation by a reviewing clinician(s) (i.e., clinical truther(s)).
+We also recommend that you describe the methodology utilized to make this reference standard 
+determination (e.g., based on pathology or based on a standard of care determination). For 
+truthing that relies on the interpretation by a reviewing clinician(s), we recommend that you 
+provide:
+·
+the number of clinical truthers involved; 
+·
+their qualifications;
+·
+their levels of experience and expertise;
+·
+the instructions conveyed to them prior to participating in the truthing process;
+·
+all available clinical information from the patient utilized by the clinical truthers in the 
+identification of disease/condition/abnormality and in the marking of the location and 
+extent of the disease/condition/abnormality; and
+·
+any specific criteria used as part of the truthing process.  
+When multiple clinical truthers are involved, you should describe the process by which you 
+combine their interpretations to make an overall reference standard determination and how your 
+process accounts for inconsistencies between clinicians participating in the truthing process
+
+---
+
+<!-- Page 19 -->
+Contains Nonbinding Recommendations
+17
+(truth variability) (see Section IV.A. Evaluation Paradigm and Study Endpoints). Note that 
+clinicians participating in the truthing process should not be the same as those who participate in 
+the core clinical performance assessment of the CADe device.
+VII. Reporting 
+Reporting of performance results may be guided by the FDA guidance entitled “Statistical 
+Guidance on Reporting Results from Studies Evaluating Diagnostic Tests.”27 We recommend 
+submitting electronically the data used in any statistical analysis in your study including the 
+following: 
+·
+patient information, 
+·
+disease or normal status,
+·
+concomitant diseases, 
+·
+lesion size, 
+·
+lesion type, 
+·
+lesion location, 
+·
+disease stage,
+·
+organ characteristics,
+·
+imaging hardware,
+·
+imaging or scanning protocol, 
+·
+imaging and data characteristics (e.g., characteristics associated with differences in 
+digitization architectures for a CADe using scanned films), and
+·
+statistical analysis.
+For more information on submitting data electronically, please see FDA’s website on “Clinical 
+Data for Premarket Submissions.”28
+Appendix
+A. 
+Potential Sources of Bias in a Retrospective Reader Study
+Despite their practical value, the design of retrospective reader studies for evaluating CADe 
+devices may generate estimates of CADe performance that are subject to one or more potential 
+sources of statistical bias. Statistical bias is a tendency for a performance estimate in a study to 
+be misaligned with the true performance in the intended use population. Many sources of 
+statistical bias can often be minimized or at least mitigated through good study design. Some 
+potential sources of bias in reader studies include, but are not limited to:
+·
+Selection Bias: The sample of subjects (or readers) is not representative of the target 
+population. 
+27 Available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/statistical-guidance-
+reporting-results-studies-evaluating-diagnostic-tests-guidance-industry-and-fda.
+28 Available at https://www.fda.gov/medical-devices/premarket-submissions/clinical-data-premarket-submissions.
+
+---
+
+<!-- Page 20 -->
+Contains Nonbinding Recommendations
+18
+·
+Spectrum Bias: The sample of subjects (or readers) studied does not include a complete 
+spectrum of the target population.
+·
+Imperfect Reference (Gold) Standard Bias: The reference procedure is not 100% accurate 
+at classifying subjects by presence or absence of the condition of interest (e.g., breast 
+cancer, polyps in colon).
+·
+Verification Bias: Statistical analysis of diagnostic performance is based only on subjects 
+verified for presence or absence of the condition of interest by the reference standard.
+·
+Reading-Order Bias: When comparing two or more tests, the reader’s interpretation is 
+affected by his or her memory of the results from the competing test. 
+·
+Context Bias: When the sample prevalence of the abnormal condition differs greatly from 
+the prevalence in the target population, the reader’s interpretations may be affected, 
+resulting in biased estimates of his/her diagnostic accuracy.
+Selection bias is introduced when subjects (cases) selected for study are not representative of the 
+intended use population. Retrospective selection of subjects with available images can introduce 
+a selection bias. Random or consecutive sampling of subjects may eliminate or mitigate selection 
+bias. Selection bias can also occur in terms of the readers selected to participate in the study. 
+Readers should reflect the population of readers that will use the device. A small number of 
+readers having similar training or clinical experiences (e.g., readers all from the same clinic) may 
+not generalize to the full population of readers expected to use a CADe device. 
+Spectrum bias is a special form of selection bias in which the study subjects represent an 
+incomplete spectrum of characteristics of subjects in the intended use population (i.e., important 
+subgroups are missing from the study). 
+Enriching a CADe study with subjects that are difficult to diagnose (i.e., stress testing) can bias 
+the CADe effect. For example, if the CADe is most helpful for these difficult cases, then the 
+CADe effect can be enhanced with stress testing relative to the intended use population. 
+Nonetheless, stress testing is encouraged because it provides value in evaluating CADe in 
+important subgroups, and results in study designs with smaller sample sizes when applied 
+appropriately.
+Enriching a CADe study with subjects having the abnormal condition produces biased estimates 
+of CADe positive and negative predictive value because these depend on the prevalence of the 
+abnormal condition. “Corrected” estimates of predictive values would have to rely on an estimate 
+of prevalence external to the study. The enhanced prevalence may also indirectly cause biased 
+estimates of area under the ROC curve (AUC), of Se, and of Sp if readers are “tipped off” to the 
+enhanced prevalence in the study and change their reading behavior, accordingly creating context 
+bias. 
+Retrospective reading of image sets may also introduce bias into CADe performance. The basic 
+concern is that reading behavior may change relative to actual clinical practice because readers 
+know that they are participating in a study in which patient management is not affected by their 
+diagnostic readings.
+
+---
+
+<!-- Page 21 -->
+Contains Nonbinding Recommendations
+19
+Ground truth determination for the presence or absence of the condition of interest can be subject 
+to several sources of bias. A reference standard is used to determine ground truth. Imperfect 
+reference standard bias refers to the reference standard misclassifying some subjects as having 
+or not having the condition. For example, ground truth determination is incomplete if subjects 
+diagnosed as negative for the abnormal condition on initial evaluation are not followed up for 
+confirmation that they were indeed free of the condition. 
+Verification bias refers to the ground truth being missing for some subjects. If in the statistical 
+analysis, only the subjects on whom ground truth has been established are included, estimates of 
+CADe performance can be biased.  
+The study design of a retrospective reader study can produce potential sources of statistical bias. 
+For example, in a sequential reading design, readers are instructed to read sequentially first 
+unaided by CADe, and then aided by CADe as a second reader. The comparison is between an 
+unaided read and the unaided read combined with the CAD-aided read. The sequential reading 
+design is attractive because the proximity of the readings in the two modalities minimizes intra-
+reader variability. However, if the reading condition in the indications for use (IFU) of the device 
+are different from that in the reader study, a concern might be that the effect of CADe on the 
+diagnostic performance of readers may be confounded with the effect due to the additional time 
+given readers to read each case. Another concern is that a reader may undercall the unaided 
+reading relative to the reading aided by CADe, producing an enhanced CADe effect. If this 
+concern is real, mitigation may be to randomize a fraction of the cases to be read only in the 
+initial unaided reading mode. Randomization is revealed only after the initial unaided read is 
+made. Randomization of the cases should be done separately for each reader in a way that 
+ensures that all cases are given a CADe-aided reading by some readers. 
+An alternative to the sequential reading design is the cross-over design. Cases are read unaided 
+and aided by the CADe output in two independent reading sessions separated by a washout 
+period to erase reader memory of the images. Half of the cases are randomly assigned to group A 
+and the other half to group B. In reading session 1, group A cases are read unaided and group B 
+cases are read aided by CADe. In reading session 2, the cases are “crossed over” to the other 
+modality (aided reading for group A, unaided reading for group B). Any effects the particular 
+reading sessions have on the readings cancel in the comparison of the two modalities. However, 
+relative to the sequential reading design, the two reading sessions contribute additional 
+variability to estimate of the CADe effect. The cross-over design may be particularly appropriate 
+for concurrent reading. It can also be generalized for use in evaluating more than two modalities 
+(e.g., if in addition to unaided reading, the CADe has two or more modalities itself).
+B. 
+Additional References
+1. Gallas, B.D., Chen W., Cole E., Ochs R., Petrick N., Pisano E.D., Sahiner B., Samuelson 
+F.W., Myers K.J., Impact of prevalence and case distribution in lab-based diagnostic imaging 
+studies. Journal of Medical Imaging, 2019. 6(1): 015501. 
+https://dx.doi.org/10.1117%2F1.JMI.6.1.015501.
+
+---
+
+<!-- Page 22 -->
+Contains Nonbinding Recommendations
+20
+2. Bossuyt, P.M., Reitsma, J.B., Bruns, D.E., Gatsonis, C.A., Glasziou, P.P., Irwig, L., Lijme,r 
+J.G., Moher, D., Rennie, D., de Vet, H.C., Kressel, H.Y., Rifai, N., Golub, R.M., Altman, 
+D.G., Hooft, L., Korevaar, D.A., Cohen, J.F., STARD Group, STARD 2015: An Updated 
+List of Essential Items for Reporting Diagnostic Accuracy Studies. Radiology, 2015. 
+277(3):826-832. https://doi.org/10.1148/radiol.2015151516. 
+3. Obuchowski, N.A., Gallas, B.D., Hillis, S.L., Multi-reader ROC Studies with Split-plot 
+Designs: A Comparison of Statistical Methods. Acad Radiol, 2012. 19(12): 1508-1517. 
+https://dx.doi.org/10.1016%2Fj.acra.2012.09.012. 
+4. Obuchowski, N.A., Meziane, M., Dachman, A.H., Lieber, M.L., Mazzone, P.J., What's the 
+control in studies measuring the effect of computer-aided detection (CAD) on observer 
+performance? Acad Radiol, 2010. 17(6):761-767. https://doi.org/10.1016/j.acra.2010.01.018. 
+5. Pepe M.S., Statistical evaluation of medical tests for classification and prediction. Oxford 
+University Press, 2003. 24(16). https://doi.org/10.1002/sim.2185. 
+6. Petrick, N., Sahiner, B., Armato, S.G. 3rd, Bert, A., Correale, L., Delsanto, S., Freedman, 
+M.T., Fryd, D., Gur, D., Hadjiiski, L., Huo, Z., Jiang, Y., Morra, L., Paquerault, S., Raykar, 
+V., Samuelson, F., Summers, R.M., Tourassi, G., Yoshida, H., Zheng, B., Zhou, C., Chan, 
+H.P., Evaluation of computer-aided detection and diagnosis systems. Med Phys, 2013. 40(8), 
+087001. https://doi.org/10.1118/1.4816310. 
+7. Zhou, X., Obuchowski, N.A., McClish, D.K., Statistical Methods in Diagnostic Medicine, 
+Second Edition. Wiley, 2011. https://doi.org/10.1002/9780470906514.
+
+<!-- fulltext-end -->

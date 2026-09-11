@@ -275,8 +275,10 @@ def process_entry(entry: dict, dry_run: bool = False) -> bool:
         logger.info(f"  SKIP: Fulltext already exists")
         return False
 
-    pdf_url = KNOWN_PDF_URLS.get(eid)
-    if pdf_url:
+    pdf_url = (entry.get("pdf_url") or "").strip() or KNOWN_PDF_URLS.get(eid)
+    if entry.get("pdf_url"):
+        logger.info(f"  Using pdf_url from index")
+    elif KNOWN_PDF_URLS.get(eid):
         logger.info(f"  Using known PDF URL")
     elif fw == "fda" or "fda.gov" in source_url:
         if source_url.endswith("/download"):
@@ -342,6 +344,14 @@ def main():
     parser.add_argument("--all", action="store_true", help="Process all documents")
     parser.add_argument("--dry-run", action="store_true", help="Show what would be done without fetching")
     parser.add_argument("--force", action="store_true", help="Re-fetch even if fulltext exists")
+    parser.add_argument("--since-year", type=int, default=0,
+                        help="Only fetch documents published on/after this year")
+    parser.add_argument("--categories", default="",
+                        help="Comma-separated fda_category filter")
+    parser.add_argument("--limit", type=int, default=0,
+                        help="Max documents to fetch this run (0 = no limit)")
+    parser.add_argument("--priority", action="store_true",
+                        help="FDA: 2020+ OR digital_health_cyber/quality/ivd/labeling")
     args = parser.parse_args()
 
     if not args.framework and not args.id and not args.all:
@@ -362,28 +372,66 @@ def main():
         logger.info("No entries found matching criteria.")
         return
 
+    PRIORITY_CATS = {
+        "digital_health_cyber", "quality_manufacturing", "ivd", "labeling_udi",
+    }
+
+    def _year(entry):
+        d = entry.get("published_date") or ""
+        try:
+            return int(d[:4])
+        except Exception:
+            return 0
+
+    cats = {c.strip() for c in args.categories.split(",") if c.strip()}
+    filtered = []
+    for entry in entries:
+        if args.priority:
+            y = _year(entry)
+            cat = entry.get("fda_category") or ""
+            if not (y >= 2020 or cat in PRIORITY_CATS):
+                continue
+        if args.since_year and _year(entry) < args.since_year:
+            continue
+        if cats and (entry.get("fda_category") or "") not in cats:
+            continue
+        filtered.append(entry)
+    entries = filtered
+
+    # Fetch newer + priority categories first
+    entries.sort(key=lambda e: (
+        0 if (e.get("fda_category") or "") in PRIORITY_CATS else 1,
+        -_year(e),
+    ))
+
     logger.info(f"Found {len(entries)} entries to process")
 
     success = 0
     skipped = 0
     failed = 0
+    attempted = 0
 
     for entry in entries:
         if not args.force and fulltext_exists(entry):
             skipped += 1
             continue
+        if args.limit and attempted >= args.limit:
+            skipped += 1
+            continue
+        attempted += 1
 
         try:
             ok = process_entry(entry, dry_run=args.dry_run)
             if ok:
                 success += 1
             else:
-                skipped += 1
+                failed += 1
         except Exception as e:
             logger.error(f"  EXCEPTION: {e}")
             failed += 1
 
-        time.sleep(1)
+        if not args.dry_run:
+            time.sleep(0.4)
 
     logger.info(f"\nSummary: {success} processed, {skipped} skipped, {failed} failed (total: {len(entries)})")
 
