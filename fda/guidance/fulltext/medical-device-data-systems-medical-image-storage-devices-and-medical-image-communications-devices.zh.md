@@ -1,36 +1,3 @@
----
-title: "医疗器械数据系统、医学影像存储器械与医学影像通信器械：行业与食品药品管理局工作人员指南"
-description: "Medical Device Data Systems, Medical Image Storage Devices, and Medical Image Communications Devices: Guidance for Industry and Food and Drug Administration Staff"
-published: 2022-09-28
----
-
-# 医疗器械数据系统、医学影像存储器械与医学影像通信器械：行业与食品药品管理局工作人员指南
-
-**Medical Device Data Systems, Medical Image Storage Devices, and Medical Image Communications Devices: Guidance for Industry and Food and Drug Administration Staff**
-
-**发布日期**：2022-09-28
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：数字健康与网络安全
-**主题**：Digital Health
-**案卷号**：FDA-2014-D-0798
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/medical-device-data-systems-medical-image-storage-devices-and-medical-image-communications-devices
-PDF：https://www.fda.gov/media/88572/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
-
----
-
-## 官方文件全文
-
 # 医疗器械数据系统、医学影像存储器械与医学影像通信器械：行业与食品药品管理局工作人员指南
 
 **来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/medical-device-data-systems-medical-image-storage-devices-and-medical-image-communications-devices](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/medical-device-data-systems-medical-image-storage-devices-and-medical-image-communications-devices)
@@ -104,4 +71,3 @@ FDA也不打算对符合上述法规所定定义的硬件功能强制执行监�
 [^8]: 见 https://www.ecfr.gov/current/title-21/chapter-I/subchapter-H/part-892/subpart-B/section-892.2020。此类医疗显示器硬件器械以及对医疗器械不可或缺的其他专用医疗显示器硬件，从未被视为MDDS、医学影像存储器械或医学影像通信器械；其未被Cures法案排除在器械定义之外。
 
 [^9]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/multiple-function-device-products-policy-and-considerations。
-

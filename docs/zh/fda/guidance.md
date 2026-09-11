@@ -9,7 +9,7 @@ doc_count: 434
 目前有效的 **CDRH Final** 指南（Guidance Document 与 Special Controls）。不含 Draft、CPG、Memorandum 与 Small Entity Compliance Guides。
 
 共 **434** 份。本波次已填写全部中文标题，并生成分类中文目录与元数据页。
-中文全文暂保留既有 **3** 篇（网络安全上市前/上市后、再制造）；**数字健康与网络安全等其余全文翻译**待英文 PDF 多级结构（I/A/1…、段落与列表）质检完成后再合并。
+英文结构质检（PR #113）已通过。本波次正在补齐 `digital_health_cyber` 中文全文，并刷新既有网络安全/再制造全文；已完成部分见〔全文〕标记。
 
 各类别内按发布日期由新到旧排列。标注〔全文〕=已有中文全文，〔仅元数据〕=本波次元数据页（英文全文见对应 EN 页）。
 
@@ -27,12 +27,12 @@ doc_count: 434
 
 ## 数字健康与网络安全 {#digital_health_cyber}
 
-23 份文件，其中中文全文 2 份，其余为元数据页。
+23 份文件，其中中文全文 6 份，其余为元数据页。
 
 - [医疗器械网络安全：质量管理体系考量与上市前提交内容](./guidance/cybersecurity-premarket) (2026-02-03) 〔全文〕
 - [生产与质量管理体系软件的计算机软件保证：行业与食品药品管理局工作人员指南](./guidance/computer-software-assurance-production-and-quality-management-system-software) (2026-02-03) 〔仅元数据〕
 - [临床决策支持软件：行业与食品药品管理局工作人员指南](./guidance/clinical-decision-support-software) (2026-01-29) 〔仅元数据〕
-- [一般健康：低风险器械政策：行业与食品药品管理局工作人员指南](./guidance/general-wellness-policy-low-risk-devices) (2026-01-06) 〔仅元数据〕
+- [一般健康：低风险器械政策：行业与食品药品管理局工作人员指南](./guidance/general-wellness-policy-low-risk-devices) (2026-01-06) 〔全文〕
 - [人工智能赋能器械软件功能预定变更控制计划的上市提交建议：行业与食品药品管理局工作人员指南](./guidance/marketing-submission-recommendations-predetermined-change-control-plan-artificial-intelligence) (2025-08-18) 〔仅元数据〕
 - [医疗器械提交中计算建模与仿真可信度评估：行业与食品药品管理局工作人员指南](./guidance/assessing-credibility-computational-modeling-and-simulation-medical-device-submissions) (2023-11-17) 〔仅元数据〕
 - [具有生理闭环控制技术的医疗器械技术考量：行业与食品药品管理局工作人员指南](./guidance/technical-considerations-medical-devices-physiologic-closed-loop-control-technology) (2023-09-29) 〔仅元数据〕
@@ -40,13 +40,13 @@ doc_count: 434
 - [医疗器械开发工具的认定：行业、工具开发者与食品药品管理局工作人员指南](./guidance/qualification-medical-device-development-tools) (2023-07-17) 〔仅元数据〕
 - [器械软件功能上市前提交内容：行业与食品药品管理局工作人员指南](./guidance/content-premarket-submissions-device-software-functions) (2023-06-14) 〔仅元数据〕
 - [器械软件功能与移动医疗应用政策：行业与食品药品管理局工作人员指南](./guidance/policy-device-software-functions-and-mobile-medical-applications) (2022-09-28) 〔仅元数据〕
-- [医疗器械数据系统、医学影像存储器械与医学影像通信器械：行业与食品药品管理局工作人员指南](./guidance/medical-device-data-systems-medical-image-storage-devices-and-medical-image-communications-devices) (2022-09-28) 〔仅元数据〕
+- [医疗器械数据系统、医学影像存储器械与医学影像通信器械：行业与食品药品管理局工作人员指南](./guidance/medical-device-data-systems-medical-image-storage-devices-and-medical-image-communications-devices) (2022-09-28) 〔全文〕
 - [应用于放射影像与放射器械数据的计算机辅助检测器械——上市前通知（510(k)）提交：行业与食品药品管理局工作人员指南](./guidance/computer-assisted-detection-devices-applied-radiology-images-and-radiology-device-data-premarket) (2022-09-28) 〔仅元数据〕
 - [临床性能评估：应用于放射影像与放射器械数据的计算机辅助检测器械在上市前通知（510(k)）提交中的考量：行业与FDA工作人员指南](./guidance/clinical-performance-assessment-considerations-computer-assisted-detection-devices-applied-radiology) (2022-09-28) 〔仅元数据〕
 - [多功能器械产品：政策与考量：行业与食品药品管理局指南](./guidance/multiple-function-device-products-policy-and-considerations) (2020-07-29) 〔仅元数据〕
 - [因《21世纪治愈法案》第3060条导致的既有医疗软件政策变更：行业与食品药品管理局工作人员指南](./guidance/changes-existing-medical-software-policies-resulting-section-3060-21st-century-cures-act) (2019-09-27) 〔仅元数据〕
-- [体外诊断检测的逻辑观察标识符名称与代码（LOINC）：行业与食品药品管理局工作人员指南](./guidance/logical-observation-identifiers-names-and-codes-in-vitro-diagnostic-tests) (2018-06-15) 〔仅元数据〕
-- [医疗器械附件——附件描述与分类路径：行业与FDA工作人员指南](./guidance/medical-device-accessories-describing-accessories-and-classification-pathways) (2017-12-20) 〔仅元数据〕
+- [体外诊断检测的逻辑观察标识符名称与代码（LOINC）：行业与食品药品管理局工作人员指南](./guidance/logical-observation-identifiers-names-and-codes-in-vitro-diagnostic-tests) (2018-06-15) 〔全文〕
+- [医疗器械附件——附件描述与分类路径：行业与FDA工作人员指南](./guidance/medical-device-accessories-describing-accessories-and-classification-pathways) (2017-12-20) 〔全文〕
 - [判定既有器械软件变更何时需提交510(k)：行业与食品药品管理局工作人员指南](./guidance/deciding-when-submit-510k-software-change-existing-device) (2017-10-25) 〔仅元数据〕
 - [可互操作医疗器械的设计考量与上市前提交建议：行业与食品药品管理局工作人员指南](./guidance/design-considerations-and-pre-market-submission-recommendations-interoperable-medical-devices) (2017-09-06) 〔仅元数据〕
 - [医疗器械网络安全的上市后管理](./guidance/postmarket-cybersecurity) (2016-12-28) 〔全文〕

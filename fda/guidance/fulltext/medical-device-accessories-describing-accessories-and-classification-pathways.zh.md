@@ -1,36 +1,3 @@
----
-title: "医疗器械附件——附件描述与分类路径：行业与FDA工作人员指南"
-description: "Medical Device Accessories - Describing Accessories and Classification Pathways: Guidance for Industry and FDA Staff"
-published: 2017-12-20
----
-
-# 医疗器械附件——附件描述与分类路径：行业与FDA工作人员指南
-
-**Medical Device Accessories - Describing Accessories and Classification Pathways: Guidance for Industry and FDA Staff**
-
-**发布日期**：2017-12-20
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：数字健康与网络安全
-**主题**：Premarket、Administrative / Procedural、Digital Health
-**案卷号**：FDA-2015-D-0025
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/medical-device-accessories-describing-accessories-and-classification-pathways
-PDF：https://www.fda.gov/media/90647/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
-
----
-
-## 官方文件全文
-
 # 医疗器械附件——附件描述与分类路径：行业与FDA工作人员指南
 
 **来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/medical-device-accessories-describing-accessories-and-classification-pathways](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/medical-device-accessories-describing-accessories-and-classification-pathways)
@@ -136,4 +103,3 @@ FDA必须在收到请求后120天内以书面命令对该De Novo请求标的器�
 [^14]: 见《FD&C法》第513(f)(6)(D)(ii)条。
 [^15]: 见《FD&C法》第513(f)(2)(A)条。
 [^16]: 开展De Novo分类的请求可能因包括De Novo请求中提供的性能数据不支持一般控制或一般控制与特殊控制可适当缓解已识别健康风险以合理保证安全有效性等原因而被拒绝。
-

@@ -1,36 +1,3 @@
----
-title: "一般健康：低风险器械政策：行业与食品药品管理局工作人员指南"
-description: "General Wellness: Policy for Low Risk Devices: Guidance for Industry and Food and Drug Administration Staff"
-published: 2026-01-06
----
-
-# 一般健康：低风险器械政策：行业与食品药品管理局工作人员指南
-
-**General Wellness: Policy for Low Risk Devices: Guidance for Industry and Food and Drug Administration Staff**
-
-**发布日期**：2026-01-06
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：数字健康与网络安全
-**主题**：Premarket、Digital Health
-**案卷号**：FDA-2014-N-1039
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/general-wellness-policy-low-risk-devices
-PDF：https://www.fda.gov/media/90652/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
-
----
-
-## 官方文件全文
-
 # 一般健康：低风险器械政策：行业与食品药品管理局工作人员指南
 
 **来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/general-wellness-policy-low-risk-devices](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/general-wellness-policy-low-risk-devices)
@@ -180,4 +147,3 @@ A3. 产品是否为低风险？
 [^10]: 见FDA指南：《II类特殊控制指南文件：外用阴茎勃起装置》，2004年12月28日发布：https://www.fda.gov/regulatory-information/search-fda-guidance-documents/class-ii-special-controls-guidance-document-external-penile-rigidity-devices-guidance-industry-and
 
 [^11]: 见将旨在晒黑皮肤的紫外线灯从豁免上市前通知的I类重新分类为II类（特殊控制）的最终命令：《普通与整形外科器械：紫外线灯晒黑用途的重新分类》。
-
