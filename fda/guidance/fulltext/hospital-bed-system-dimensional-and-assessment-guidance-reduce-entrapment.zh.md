@@ -1,35 +1,10 @@
----
-title: "医院床系统维度和评估指南减少被困：行业与FDA工作人员指南"
-description: "Hospital Bed System Dimensional and Assessment Guidance to Reduce Entrapment: Guidance for Industry and FDA Staff"
-published: 2006-03-10
----
+# 医院住院床位系统分层和评估指南,减少诱捕:工业和FDA工作人员指南
 
-# 医院床系统维度和评估指南减少被困：行业与FDA工作人员指南
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/hospital-bed-system-dimensional-and-assessment-guidance-reduce-entrapment](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/hospital-bed-system-dimensional-and-assessment-guidance-reduce-entrapment)
 
-**Hospital Bed System Dimensional and Assessment Guidance to Reduce Entrapment: Guidance for Industry and FDA Staff**
-
-**发布日期**：2006-03-10
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：上市后
-**主题**：Postmarket
-**案卷号**：FDA-2004-D-0499
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/hospital-bed-system-dimensional-and-assessment-guidance-reduce-entrapment
-PDF：https://www.fda.gov/media/71460/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 2006-03-10
 
 ---
-
-## 官方文件全文
 
 FDA的指南文件,包括本指南,没有规定法律上可执行的责任。相反,指导说明工程处目前对某一专题的想法,只应视为建议,除非引述具体的规章或法规要求。在原子能机构的指导意见中使用这个词意味着建议或建议某种东西,但并不要求。
 
@@ -734,4 +709,3 @@ P F 如果床只有两条铁轨 用这些盒子记录你的病历
 第3区:PF区2:PF区
 
 第3区:PF枕头(拆除)
-

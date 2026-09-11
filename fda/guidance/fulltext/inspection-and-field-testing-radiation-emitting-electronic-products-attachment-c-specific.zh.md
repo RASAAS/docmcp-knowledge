@@ -1,33 +1,10 @@
----
-title: "放射性电子产品的检查和测试现场:附件C:日照灯产品检查和测试的具体说明"
-description: "Inspection and Field Testing of Radiation-Emitting Electronic Products: Attachment C: Specific Instructions for Sunlamp Product Inspections and Tests"
-published: 2007-10-30
----
+# 辐射排放电子产品的视察和实地测试:附件C:日光产品检验和试验的具体指示
 
-# 放射性电子产品的检查和测试现场:附件C:日照灯产品检查和测试的具体说明
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/inspection-and-field-testing-radiation-emitting-electronic-products-attachment-c-specific](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/inspection-and-field-testing-radiation-emitting-electronic-products-attachment-c-specific)
 
-**Inspection and Field Testing of Radiation-Emitting Electronic Products: Attachment C: Specific Instructions for Sunlamp Product Inspections and Tests**
-
-**发布日期**：2007-10-30
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：质量与生产
-**案卷号**：FDA-2020-D-0957
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/inspection-and-field-testing-radiation-emitting-electronic-products-attachment-c-specific
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 2007-10-30
 
 ---
-
-## 官方文件全文
 
 卫生组织合作中心:1988年3月核医学取代了FDA 84-8234 u.s.。
 公共卫生部门公共卫生服务食品和药品管理设备和放射卫生中心,马里兰州罗克维尔,20857
@@ -270,4 +247,3 @@ CDRH认为,上述标准平衡了限制无意长期接触造成的急性(和延�
 379097E-03 325531 105481E-01 34972E-03 325072 E-02 32572E/91137E-02 322593E-03 324613 E-03 32645E-02 297577E-03 324154 . 679336E-02.274534E-03 323695 55866E-02 253236E-03 323236 E-056748E-0233591E-03 321445 E-03 7483E-02 215506E-03 319609E-03 3909E.37
 189296E-03 509732 161113E-02 196594E-03 576885 156385E-0 194804E-03 194804E-03 .652851 151841E-02 193014E-03 738778 1473888E-02 191224E-03 836088 143074E-02 .18948E-03 861518 E-03 1388897 E-02 187735E-03 887498 1384812E-02 186037E-03 E.91435
 103232E-02 405 171257E-03 ~U.5. 种植O "ICE,1968.201.650,60453
-

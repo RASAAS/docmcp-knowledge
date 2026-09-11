@@ -1,34 +1,10 @@
----
-title: "根据《联邦食品、药品和化妆品法案》第522条的市场后监督：行业与食品药品管理局工作人员指南"
-description: "Postmarket Surveillance Under Section 522 of the Federal Food, Drug, and Cosmetic Act: Guidance for Industry and Food and Drug Administration Staff"
-published: 2022-10-07
----
+# 根据《联邦食品、药品和化妆品法:工业、美国食品药品监督管理局工作人员指南》第522条
 
-# 根据《联邦食品、药品和化妆品法案》第522条的市场后监督：行业与食品药品管理局工作人员指南
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/postmarket-surveillance-under-section-522-federal-food-drug-and-cosmetic-act](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/postmarket-surveillance-under-section-522-federal-food-drug-and-cosmetic-act)
 
-**Postmarket Surveillance Under Section 522 of the Federal Food, Drug, and Cosmetic Act: Guidance for Industry and Food and Drug Administration Staff**
-
-**发布日期**：2022-10-07
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：上市后
-**案卷号**：FDA-2011-D-0514
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/postmarket-surveillance-under-section-522-federal-food-drug-and-cosmetic-act
-PDF：https://www.fda.gov/media/81015/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 2022-10-07
 
 ---
-
-## 官方文件全文
 
 根据《联邦食品、药品和化妆品法》第522条
 
@@ -435,4 +411,3 @@ FDA打算在其网站上发布或以其他方式公布信息,与后市场监测�
 [^62]: 21 CFR 822.23
 
 [^63]: • 医疗专业(例如心血管、肺部、脑部)• 研究/监视计划总状况(见第九节,第1节,第2节)(本指南表3)
-

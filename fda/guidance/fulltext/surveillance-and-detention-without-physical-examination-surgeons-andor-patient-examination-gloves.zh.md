@@ -1,35 +1,10 @@
----
-title: "医生和/或患者检查手的监控和拘留没有身体检查：行业与FDA工作人员指南"
-description: "Surveillance and Detention Without Physical Examination of Surgeons' and/or Patient Examination Gloves: Guidance for Industry and FDA Staff"
-published: 2008-07-11
----
+# 没有对外科医生和(或)病人检查手套进行身体检查的监视和拘留:工业和FDA工作人员指南
 
-# 医生和/或患者检查手的监控和拘留没有身体检查：行业与FDA工作人员指南
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/surveillance-and-detention-without-physical-examination-surgeons-andor-patient-examination-gloves](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/surveillance-and-detention-without-physical-examination-surgeons-andor-patient-examination-gloves)
 
-**Surveillance and Detention Without Physical Examination of Surgeons' and/or Patient Examination Gloves: Guidance for Industry and FDA Staff**
-
-**发布日期**：2008-07-11
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：上市后
-**主题**：Postmarket
-**案卷号**：FDA-2000-D-0186
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/surveillance-and-detention-without-physical-examination-surgeons-andor-patient-examination-gloves
-PDF：https://www.fda.gov/media/71086/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 2008-07-11
 
 ---
-
-## 官方文件全文
 
 2024年2月2日,FDA在21 CFR 第820部分(89 FR 7496,自2月2日起,2026年2月2日起生效)公布了修订质量管理体系法规的最后规则。经修订的21 CFR Part 820现题为 " 质量管理体系法规 " 。QMSR统一了质量管理体系的要求,以参考方式纳入了国际标准化组织(标准化组织)为医疗设备质量管理体系制定的国际标准,ISO 13485:2016. FDA确定,ISO 13485中的要求如果全部采用,与质量保障制度条例的要求基本相似,在企业的质量管理体系中提供类似程度的保证,并有能力始终如一地制造安全和有效的、在其他方面符合《联邦食品法》的装置,《毒品和化妆法》(FD和C法)。
 本指南文件是在最后规则生效日期之前印发的。FDA鼓励制造商审查当前的质量和计量及计量标准,以确保遵守相关监管要求。
@@ -148,4 +123,3 @@ FDA在21 CFR §800.20中具体界定了取样计划、泄漏测试方法以及�
 否 根据本周期以前第二级第三级公司样品的失败,提出拘留建议?
 否 是 否 上图 上图 数月已过
 循环结束 是 是 IA 80-04 Att. B实验室分析不足以从3 D1 D2 D2 L3 D3 D3 O1 D4 D4 L1 O2 O3 D5 输入上移
-

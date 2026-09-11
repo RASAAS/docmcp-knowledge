@@ -1,35 +1,10 @@
----
-title: "内部使用的手术具和具 - 标签建议：行业与食品药品管理局工作人员指南"
-description: "Surgical Staplers and Staples for Internal Use - Labeling Recommendations: Guidance for Industry and Food and Drug Administration Staff"
-published: 2021-10-08
----
+# 内部使用外外外科外
 
-# 内部使用的手术具和具 - 标签建议：行业与食品药品管理局工作人员指南
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/surgical-staplers-and-staples-internal-use-labeling-recommendations](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/surgical-staplers-and-staples-internal-use-labeling-recommendations)
 
-**Surgical Staplers and Staples for Internal Use - Labeling Recommendations: Guidance for Industry and Food and Drug Administration Staff**
-
-**发布日期**：2021-10-08
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：标签标识 / UDI
-**主题**：Device & Drug Safety、General & Plastic Surgery、Labeling
-**案卷号**：FDA-2019-D-1262
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/surgical-staplers-and-staples-internal-use-labeling-recommendations
-PDF：https://www.fda.gov/media/123572/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 2021-10-08
 
 ---
-
-## 官方文件全文
 
 外科外
 
@@ -219,4 +194,3 @@ FDA还鼓励制造商制造第三节(范围)(即:不属于21 CFR 878.4740的商�
 [^17]: 见“重新分类某些外科外科刺伤”的最后命令,2021年10月8日发布(86 FR 56195),可在___ Cooper___
 
 [^18]: 改变 - 现有设备。
-

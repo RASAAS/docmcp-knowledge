@@ -1,34 +1,10 @@
----
-title: "基于体诊断 (IVD) 的下一代测序 (NGS) 的设计,开发和分析验证的考虑,用于帮助诊断疑似菌根病：利益相关方与食品药品管理局工作人员指南"
-description: "Considerations for Design, Development, and Analytical Validation of Next Generation Sequencing (NGS) - Based In Vitro Diagnostics (IVDs) Intended to Aid in the Diagnosis of Suspected Germline Diseases: Guidance for Stakeholders and Food and Drug Administration Staff"
-published: 2018-04-13
----
+# 设计、发展、用于协助诊断可疑热线疾病:利益攸关方及美国食品药品监督管理局工作人员指南
 
-# 基于体诊断 (IVD) 的下一代测序 (NGS) 的设计,开发和分析验证的考虑,用于帮助诊断疑似菌根病：利益相关方与食品药品管理局工作人员指南
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/considerations-design-development-and-analytical-validation-next-generation-sequencing-ngs-based](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/considerations-design-development-and-analytical-validation-next-generation-sequencing-ngs-based)
 
-**Considerations for Design, Development, and Analytical Validation of Next Generation Sequencing (NGS) - Based In Vitro Diagnostics (IVDs) Intended to Aid in the Diagnosis of Suspected Germline Diseases: Guidance for Stakeholders and Food and Drug Administration Staff**
-
-**发布日期**：2018-04-13
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：体外诊断 / 伴随诊断
-**案卷号**：FDA-2016-D-1270
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/considerations-design-development-and-analytical-validation-next-generation-sequencing-ngs-based
-PDF：https://www.fda.gov/media/99208/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 2018-04-13
 
 ---
-
-## 官方文件全文
 
 设计、发展、用于协助诊断可疑热线疾病(IVDs)
 
@@ -536,7 +512,7 @@ o 表示覆盖面的平均深度和在覆盖率最低深度覆盖的目标区域
 • 如果适用,指出多路转换的水平。
 
 · 具体说明所有软件组件,无论是内部开发的还是从第三方获得的。记录对开放源代码软件的任何修改。
-有关软件验证的进一步信息,见题为“软件验证一般原则”的指南文件(&#123;_0&#125;nts/ucm085281.htm)。
+有关软件验证的进一步信息,见题为“软件验证一般原则”的指南文件({_0}nts/ucm085281.htm)。
 
 • 指出用于数据分析的数据库和版本,并说明如何将现有数据库或新数据库的新版本纳入测试和验证。
 表明序列是否与整个人参照组或目标序列对齐,以及用于校正的完整人类参考组群的文件加入和版本号。
@@ -776,7 +752,6 @@ TPPV取决于PPA和NPA, 也取决于准确性研究样本中所有受调查区�
 
 [^11]: 见CLSI 统一术语数据库,第%0-- " 负百分比协议(NPA) -- -- 同意测试方法取得负结果的能力与比较方法取得负结果的能力的百分比 " (CLSI MM17-A,第1段)。核查和验证多氧化核
 
-[^14]: 见FDA指南,利用公共人类遗传变异数据库支持基于遗传学和基因组的活性诊断临床有效性(ZQ0 &#123;__ 9837.pdf)。• 一份根据业绩调查结果摘要
+[^14]: 见FDA指南,利用公共人类遗传变异数据库支持基于遗传学和基因组的活性诊断临床有效性(ZQ0 {__ 9837.pdf)。• 一份根据业绩调查结果摘要
 
 [^16]: 见21 CFR 807.81(a)(3)。 用于支持原第510(k)项的议定书和标准,原第510(k)节规定的议定书和标准,其中说明如何评价预期的变化)表明(a) 修改后的测试系统的性能符合标准,(b) 与以前已结清的索偿要求相比,经修改的测试系统的性能没有重大变化,(c) 现有风险没有其他新的风险或重大变化,因此这种变化可能不会对安全或效力产生重大影响,a 510(k) 很可能不需要。
-

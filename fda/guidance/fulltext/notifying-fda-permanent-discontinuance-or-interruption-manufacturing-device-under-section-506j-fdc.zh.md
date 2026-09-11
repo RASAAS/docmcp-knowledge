@@ -1,35 +1,10 @@
----
-title: "根据FD&C法第506J条,通知FDA关于设备生产永久停产或中断：行业与食品药品管理局工作人员指南"
-description: "Notifying FDA of a Permanent Discontinuance or Interruption in Manufacturing of a Device Under Section 506J of the FD&C Act: Guidance for Industry and Food and Drug Administration Staff"
-published: 2025-01-07
----
+# 根据《FD&C法》第506J节,通知FDA在制造装置时永久中断或中断:工业、美国食品药品监督管理局工作人员指南
 
-# 根据FD&C法第506J条,通知FDA关于设备生产永久停产或中断：行业与食品药品管理局工作人员指南
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/notifying-fda-permanent-discontinuance-or-interruption-manufacturing-device-under-section-506j-fdc](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/notifying-fda-permanent-discontinuance-or-interruption-manufacturing-device-under-section-506j-fdc)
 
-**Notifying FDA of a Permanent Discontinuance or Interruption in Manufacturing of a Device Under Section 506J of the FD&C Act: Guidance for Industry and Food and Drug Administration Staff**
-
-**发布日期**：2025-01-07
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：上市后
-**主题**：Postmarket
-**案卷号**：FDA-2022-D-0053
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/notifying-fda-permanent-discontinuance-or-interruption-manufacturing-device-under-section-506j-fdc
-PDF：https://www.fda.gov/media/155245/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 2025-01-07
 
 ---
-
-## 官方文件全文
 
 根据《FD&C法》第506J节,通知FDA在制造装置时永久中断或中断
 
@@ -210,4 +185,3 @@ FDA将酌情与制造商合作,确保信息的准确性和适当性,然后公布
 [^36]: 见第506J(e)(3)节,确定供应链中断的可能性和关键程度。根据第三.D.2节中的例子,我们建议制造商在遇到下列任何情况时向FDA提交506J通知:
 
 [^38]: 见第506J(g)(3)(C)节。
-

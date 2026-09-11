@@ -1,34 +1,10 @@
----
-title: "标签 - 医疗器械的监管要求 (FDA 89-4203)"
-description: "Labeling - Regulatory Requirements for Medical Devices (FDA 89-4203)"
-published: 1989-09-01
----
+# 标签 -- -- 医疗设备监管要求(FDA 89-4203)
 
-# 标签 - 医疗器械的监管要求 (FDA 89-4203)
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/labeling-regulatory-requirements-medical-devices-fda-89-4203](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/labeling-regulatory-requirements-medical-devices-fda-89-4203)
 
-**Labeling - Regulatory Requirements for Medical Devices (FDA 89-4203)**
-
-**发布日期**：1989-09-01
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：标签标识 / UDI
-**案卷号**：FDA-2020-D-0957
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/labeling-regulatory-requirements-medical-devices-fda-89-4203
-PDF：https://www.fda.gov/media/74034/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 1989-09-01
 
 ---
-
-## 官方文件全文
 
 这份指南是在1997年2月27日执行FDA的《良好指导做法》,GGP之前编写的。它不为任何人创造或授予权利,也不赋予任何人权利,也不为约束FDA或公众而运作。如果替代办法符合适用法规、条例或两者的要求,则可以采用另一种办法。
 该指南将在下一次修订时更新,以包括全球采购总计划的标准精子。
@@ -691,4 +667,3 @@ FDA 86-4209 FDA 86-4209 FDA 86-421 FDA 86-4210 FDA 86-421 1 FDA 86-4212 FDA 86-4
 上市前通知:510(k) - 医疗设备监管要求(1988年11月)(GPO 017-012-00342-7,3.75美元)。
 
 美国公共卫生服务机构公共卫生服务食品和药物设备和放射卫生管理中心Rockville,马里兰州,20857
-

@@ -1,35 +1,10 @@
----
-title: "医疗器械患者标签指南:工业和FDA工作人员的最终指南"
-description: "Guidance on Medical Device Patient Labeling: Final Guidance for Industry and FDA Staff"
-published: 2001-04-19
----
+# 医疗设备病人标签标签指南:工业和FDA工作人员最后指南
 
-# 医疗器械患者标签指南:工业和FDA工作人员的最终指南
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-medical-device-patient-labeling](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-medical-device-patient-labeling)
 
-**Guidance on Medical Device Patient Labeling: Final Guidance for Industry and FDA Staff**
-
-**发布日期**：2001-04-19
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：标签标识 / UDI
-**主题**：Labeling
-**案卷号**：FDA-2000-D-0067
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-medical-device-patient-labeling
-PDF：https://www.fda.gov/media/71030/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 2001-04-19
 
 ---
-
-## 官方文件全文
 
 医疗设备患者标签指南; 工业和FDA审查者最后指南文件:2001年4月19日:本文件取代2000年3月3日《医疗设备患者标签指南》草案。
 美国卫生和公共服务部卫生和公共服务部美国食品药品监督管理局设备和辐射健康标签研究和 健康方案设备用户方案和健康与工业方案系统分析办公室设备用户方案和系统分析处
@@ -539,4 +514,3 @@ Zeitlin LR. 不遵守安全指示:沟通不当或作出危险决定? 人类因�
 O ' Brien、Thomas G.、Chartlon、Samuel G.《人类因素测试和评价手册》。
 新泽西:Lawrence Erlbaum Associates;1996年,第359页。
 Salvendy, Gavriel, 编辑,《人的因素和人类工程学手册》,纽约:John Wiley and Sons, Inc. 1997 2137, p. 217, p.
-

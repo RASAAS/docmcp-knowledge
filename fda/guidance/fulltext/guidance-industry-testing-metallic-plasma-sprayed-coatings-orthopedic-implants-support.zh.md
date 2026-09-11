@@ -1,35 +1,10 @@
----
-title: "产业关于在整形植入物上测试金属质涂层的指导,以支持重新考虑市场后监控要求,以及FDA审查员/工作人员：行业指南"
-description: "Guidance for Industry on the Testing of Metallic Plasma Sprayed Coatings on Orthopedic Implants to Support Reconsideration of Postmarket Surveillance Requirements - Guidance for Industry and for FDA Reviewers/Staff"
-published: 2000-02-01
----
+# 工业关于测试矫形植物金属等离子体喷发的金属等离子体涂层以支持重新考虑上市后监测要求的行业指南 -- -- 工业指南和FDA审查员/工作人员指南
 
-# 产业关于在整形植入物上测试金属质涂层的指导,以支持重新考虑市场后监控要求,以及FDA审查员/工作人员：行业指南
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-industry-testing-metallic-plasma-sprayed-coatings-orthopedic-implants-support](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-industry-testing-metallic-plasma-sprayed-coatings-orthopedic-implants-support)
 
-**Guidance for Industry on the Testing of Metallic Plasma Sprayed Coatings on Orthopedic Implants to Support Reconsideration of Postmarket Surveillance Requirements - Guidance for Industry and for FDA Reviewers/Staff**
-
-**发布日期**：2000-02-01
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：上市后
-**主题**：Postmarket
-**案卷号**：FDA-2020-D-0957
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-industry-testing-metallic-plasma-sprayed-coatings-orthopedic-implants-support
-PDF：https://www.fda.gov/media/74184/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 2000-02-01
 
 ---
-
-## 官方文件全文
 
 工业指南和FDA审查员/工作人员关于工业测试矫形植物金属等离子体喷射涂层以支持重新考虑上市后监测要求文件的指南/工作人员指导:2 22000年,该文件取代了《工业关于测试矫形植物金属等离子体喷发涂料以支持重新考虑后市场监测要求的指南》发布指南草案。美国1999年2月22日卫生和人力资源部卫生和公共服务部美国食品药品监督管理局设备和放射卫生设备及放射卫生后市场监测中心
 
@@ -137,4 +112,3 @@ _ 空白的平均数量百分比。
 9 整形毁损效果@ 2 周期@ 5 周期@ 5 周期 @ 10 周期 @ 100 周期质量损失 + 标准反动累积损失 + 标准反动制造 提供最终产品和所有测试标本的制造过程的简要说明。列出试验样品和市场销售装置之间在成分、材料结构和处理方法方面的所有差异。
 提供详细的测试报告,包括方法、材料、结果、原始数据和结论。
 来源(例如:应当确定以这种形式归纳的每项试验结果的数据。参考引文可以放在其各自测试结果旁边,也可以在单独的书目中以试验名称列出。
-

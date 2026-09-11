@@ -1,35 +1,10 @@
----
-title: "诊断X射线设备制造商的辐射控制条例的澄清：行业与食品药品管理局工作人员指南"
-description: "Clarification of Radiation Control Regulations For Manufacturers of Diagnostic X-Ray Equipment: Guidance for Industry and Food and Drug Administration Staff"
-published: 2024-09-27
----
+# 澄清诊断X光器械制造商的辐射管制条例:工业及美国食品药品监督管理局工作人员指南
 
-# 诊断X射线设备制造商的辐射控制条例的澄清：行业与食品药品管理局工作人员指南
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/clarification-radiation-control-regulations-manufacturers-diagnostic-x-ray-equipment](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/clarification-radiation-control-regulations-manufacturers-diagnostic-x-ray-equipment)
 
-**Clarification of Radiation Control Regulations For Manufacturers of Diagnostic X-Ray Equipment: Guidance for Industry and Food and Drug Administration Staff**
-
-**发布日期**：2024-09-27
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：标签标识 / UDI
-**主题**：Export、Import、Labeling、Radiology
-**案卷号**：FDA-2018-D-4115
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/clarification-radiation-control-regulations-manufacturers-diagnostic-x-ray-equipment
-PDF：https://www.fda.gov/media/119827/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 2024-09-27
 
 ---
-
-## 官方文件全文
 
 食品和药品
 
@@ -500,4 +475,3 @@ b. 如果加入管插件不影响遵守规定的任何方面,还可以使用附�
 [^23]: 可在以下网址查阅: ++%%%21 CFR 1020.32(j)(3)。 FDA如何解释“清楚标明”正在展示的哪些图像的要求?任何易于识别和区别的文字、图标、或显示在图像上或显示“图像持有”和“实况图像”信息位置的突出位置的图像,在向用户提供的信息中,应加上清楚的解释和说明(21 CFR 1020.30(h)(1)(i))(例如,)将满足21 CFR 1020.32(j)(3)的要求。21 CFR 1020.32(k)规定6月10日或之后制造的含氟设备,2006年必须显示在含氟公译员的工作位置上,既包括空气中心率(AKR),也包括累积空气中心率(AKR)。剂量区产品(也称为克马地区产品)和累计剂量区产品的显示是否满足这些要求?DAP 显示和累积 DAP 提供与X射线字段有关的信息与AKR 和累计空气中枢有很大不同,因而不符合21 CFR 1020.32(k)。如果含氟谱系使用下流管,而且能够进行现场薄膜接触,当用于现场薄膜接触时该管是否被视为放射管?
 
 [^24]: 510ks-固态X射线成像装置b。当两个开关被激活时,光强度等于100厘米时的约160次通航,而且时间定在30秒后,强度降至约100次通航时?
-

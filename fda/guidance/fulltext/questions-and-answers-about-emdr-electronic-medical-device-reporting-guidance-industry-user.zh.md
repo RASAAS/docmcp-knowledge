@@ -1,35 +1,10 @@
----
-title: "关于eMDR - 电子医 报告,用户设施和FDA工作人员的问题和答案：行业指南"
-description: "Questions and Answers about eMDR - Electronic Medical Device Reporting - Guidance for Industry, User Facilities and FDA Staff"
-published: 2014-02-13
----
+# eMDR-电子医疗设备报告-工业、用户设施和FDA工作人员指南
 
-# 关于eMDR - 电子医 报告,用户设施和FDA工作人员的问题和答案：行业指南
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/questions-and-answers-about-emdr-electronic-medical-device-reporting-guidance-industry-user](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/questions-and-answers-about-emdr-electronic-medical-device-reporting-guidance-industry-user)
 
-**Questions and Answers about eMDR - Electronic Medical Device Reporting - Guidance for Industry, User Facilities and FDA Staff**
-
-**发布日期**：2014-02-13
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：上市后
-**主题**：Adverse Event Reporting System (FAERS)、Adverse Event Reporting
-**案卷号**：FDA-2008-N-0393
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/questions-and-answers-about-emdr-electronic-medical-device-reporting-guidance-industry-user
-PDF：https://www.fda.gov/media/76993/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 2014-02-13
 
 ---
-
-## 官方文件全文
 
 FDA的指导性文件,包括本指南性文件,没有规定法律上可执行的责任。相反,指导准则描述了工程处目前对某一专题的想法,应仅视为建议,除非有具体的规章或法定要求
 
@@ -130,7 +105,7 @@ FDA认为eMDR的接收日期是eMDR抵达ESG的日期(确认日期1),但前提�
 
 如果我发邮件给电子MDR 却没有收到一个或一个以上的认可,
 若您没有收到第1或第2号确认信,请查看 ESG 的状态 : @_0 @__/__如果ESG系统状况网站显示ESG正常运行,请联系ESG工作人员,地址是:ESGHelpDesk@fda.hhs.gov。
-如果你们不领到三声嘉奖,检查 eMDR Status page at &#123;0&#125; ents/ reportingAviewEvents/eMDR-eMDR- 电子医疗设备报告/ucm179299.htm。如果eMDR系统状况网站显示eMDR正常运行,请联系eMDR@fda.hhs.gov。
+如果你们不领到三声嘉奖,检查 eMDR Status page at {0} ents/ reportingAviewEvents/eMDR-eMDR- 电子医疗设备报告/ucm179299.htm。如果eMDR系统状况网站显示eMDR正常运行,请联系eMDR@fda.hhs.gov。
 
 我是否应该保留一份电子数据报告的副本?
 我应该保留这些确认吗?
@@ -169,11 +144,11 @@ FDA的紧急安保小组网站提供定期维护通知,并保存状况记录,记
 
 哪里能找到关于eSubmitter软件的技术信息?
 
-技术信息,例如关于下载软件、eSubmitter系统的技术信息,可在 &#123;__
+技术信息,例如关于下载软件、eSubmitter系统的技术信息,可在 {__
 
 关于HL7 ICSR的技术资料,请问在哪里找到?
 
-技术资料,包括技术规格,可在以下网站查阅HL7 ICSR: &#123;0&#125; ents/ ReportingAviewEvents/ucm127948.htm。
+技术资料,包括技术规格,可在以下网站查阅HL7 ICSR: {0} ents/ ReportingAviewEvents/ucm127948.htm。
 
 如果我找不到问题答案 我该联系谁?
 
@@ -189,4 +164,3 @@ eMDR - 电子医疗设计报告/默认。 htm
 * 0 - rket requires/ reporting Abview Events/ucm127951.htm
 4. FDA电子提交书网
 ~ ~
-

@@ -1,34 +1,10 @@
----
-title: "制造商自愿故障总结报告 (VMSR) 计划：行业与食品药品管理局工作人员指南"
-description: "Voluntary Malfunction Summary Reporting (VMSR) Program for Manufacturers: Guidance for Industry and Food and Drug Administration Staff"
-published: 2024-08-29
----
+# 制造商自愿报告功能缺陷简要报告方案:工业、美国食品药品监督管理局工作人员指南
 
-# 制造商自愿故障总结报告 (VMSR) 计划：行业与食品药品管理局工作人员指南
+**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/voluntary-malfunction-summary-reporting-vmsr-program-manufacturers](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/voluntary-malfunction-summary-reporting-vmsr-program-manufacturers)
 
-**Voluntary Malfunction Summary Reporting (VMSR) Program for Manufacturers: Guidance for Industry and Food and Drug Administration Staff**
-
-**发布日期**：2024-08-29
-
-**状态**：Final（最终）
-**类型**：Guidance Document
-**类别**：上市后
-**案卷号**：FDA-2022-D-2873
-
-::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/voluntary-malfunction-summary-reporting-vmsr-program-manufacturers
-PDF：https://www.fda.gov/media/163692/download
-:::
-
-::: info
-本内容由英文原文机器辅助翻译，并经结构校对。如有歧义，以英文官方文本为准。
-:::
-
-<!-- fulltext-start -->
+**发布日期：** 2024-08-29
 
 ---
-
-## 官方文件全文
 
 本指南代表了美国食品药品监督管理局(美国食品药品监督管理局或机构)目前对这一专题的想法。它没有规定任何人的任何权利,对FDA或公众没有约束力。您可采取另一种方式,即满足适用的法规和条例的要求。为了讨论另一种办法,请与标题页所列FDA工作人员或负责本指南的办公室联系。
 ## I. 简介
@@ -194,4 +170,3 @@ FDA在本指南文件附录 " 功能缺陷摘要报告示例格式 " 中列入�
 [^28]: 如2018年通知(83 FR 40973)所述,根据《VMSR方案》备选方案提交的简要报告必须使用特定格式。FDA在联邦登记册中发出通知,宣布对根据21 CFR 803.19批准的VMSR方案替代方案进行一项轻微的技术修改,以与FDA 3500A表格的最新版本和当前有害事件代码(修改通知)保持一致。
 
 [^30]: 详情见FDA网站eMDR-电子医疗设备报告。
-
