@@ -31,14 +31,6 @@ PDF：https://www.fda.gov/media/77635/download
 
 ## 官方文件全文
 
-# 用于放射图像和放射设备数据的计算机辅助检测装置 -- -- 预告[510(k)]工业、美国食品药品监督管理局工作人员指南
-
-**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/computer-assisted-detection-devices-applied-radiology-images-and-radiology-device-data-premarket](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/computer-assisted-detection-devices-applied-radiology-images-and-radiology-device-data-premarket)
-
-**发布日期：** 2022-09-28
-
----
-
 2023年6月14日FDA发布了一项题为“器械软件功能预先提交材料的内容”的指南。 1 这份最后指南取代了《医疗设备中所含软件预先提交材料内容指南》,2005年5月11日发布 2005年6月14日发布的最后指南提供建议文件赞助者的资料,说明应列入供FDA评价器械软件功能的安全和有效性的上市前呈件中。特别是,最后指南包括有助于确定设备文件水平(以前称为关注程度)的资料。文件级的目的是帮助确定支持包括器械软件功能在内的上市前提交材料的最低限度信息量。
 在被取代的指导意见的框架内,用于放射图象的计算机辅助检测装置和放射器械数据被视为一种中等关注程度的设备。根据装置在预定用途方面的风险,适用于放射图象的计算机辅助检测(CADE)装置,以及放射器械数据,一般应涉及基本文件水平的建议。您设备的实际文档级别可能根据您设备的具体内容而有所不同。欲了解更多关于文件水平的资料和预售前提交文件的建议文件,鼓励赞助方审查“设备软件函数上市前提交文件的内容”指南。
 
@@ -392,7 +384,7 @@ CADE 设备的一般性测试实例包括:
 
 [^1]: 可在以下网站查阅:+++0+++提交-设备-软件功能。
 
-[^2]: 可在以下网址查阅: < https:/www.fda.gov/AdvisoryCommittees/CommitteesMeetingMaterials/MedicalDevis Advisory Commission/RadicialDevicesPanel/ucm124890.htm。
+[^2]: 可在以下网址查阅: &lt; https:/www.fda.gov/AdvisoryCommittees/CommitteesMeetingMaterials/MedicalDevis Advisory Commission/RadicialDevicesPanel/ucm124890.htm。
 
 [^3]: 可查阅: https/www.fda.gov/AdvisoryCommittees/CommitteesMeetingMaterials/MedicalDevis Advisory Commission/RadicialDevicesPanel/ucm1470.63.htm。
 
@@ -429,4 +421,3 @@ CADE 设备的一般性测试实例包括:
 [^23]: 807.87(e).。以下建议旨在协助你制作符合21 CFR Part 801.19要求的标签。
 
 [^25]: 评估考虑-计算机辅助检测-装置-应用-放射学。· 在每个现有装置操作点,采用整体的独立敏感度和独立的假正率度量;• 分层分析(例如,每个损害大小、每个损害类型、每个成像或扫描程序、每个成像或数据特点);• 酌情采用独立FROC业绩。
-

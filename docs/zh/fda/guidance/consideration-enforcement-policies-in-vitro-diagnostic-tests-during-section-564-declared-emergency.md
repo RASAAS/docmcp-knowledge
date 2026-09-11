@@ -87,4 +87,3 @@ FDA拟在特定执法政策的指南文件中，酌情提供针对特定紧急�
 [^9]: 见脚注8。
 
 [^12]: 关于ITAP的更多信息，见 https://www.nibib.nih.gov/covid-19/radx-tech-program/ITAP ¹³2025年1月，FDA发布题为“某些体外诊断器械的验证
-

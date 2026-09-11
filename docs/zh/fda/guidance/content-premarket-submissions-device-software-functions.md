@@ -31,14 +31,6 @@ PDF：https://www.fda.gov/media/153781/download
 
 ## 官方文件全文
 
-# 器械软件功能:工业、美国食品药品监督管理局工作人员指南
-
-**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/content-premarket-submissions-device-software-functions](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/content-premarket-submissions-device-software-functions)
-
-**发布日期：** 2023-06-14
-
----
-
 本指南代表了美国食品药品监督管理局(美国食品药品监督管理局或机构)目前对这一专题的想法。它没有规定任何人的任何权利,对FDA或公众没有约束力。您可采取另一种方式,即满足适用的法规和条例的要求。为了讨论另一种办法,请与标题页所列FDA工作人员或负责本指南的办公室联系。
 ## I. 简介
 
@@ -552,4 +544,3 @@ o 递减分析是根据对有关文件的审查(例如软件要求规格、软�
 [^64]: 支持软件。
 
 [^65]: 有关风险评估的更多信息,请参见本指南第六.C节。 1. 仅硬件、不与病人相配的假肢。
-

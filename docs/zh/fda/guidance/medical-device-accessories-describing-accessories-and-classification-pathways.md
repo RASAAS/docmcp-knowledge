@@ -31,14 +31,6 @@ PDF：https://www.fda.gov/media/90647/download
 
 ## 官方文件全文
 
-# 医疗器械附件——附件描述与分类路径：行业与FDA工作人员指南
-
-**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/medical-device-accessories-describing-accessories-and-classification-pathways](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/medical-device-accessories-describing-accessories-and-classification-pathways)
-
-**发布日期：** 2017-12-20
-
----
-
 本指南代表美国食品药品监督管理局（FDA或本机构）对该主题的当前观点。它不赋予任何个人任何权利，对FDA或公众不具有约束力。如果您采用的替代方法满足适用法律法规的要求，则可以采用该替代方法。如需讨论替代方法，请联系本指南标题页所列的负责FDA工作人员或办公室。
 ## I. 简介
 美国食品药品监督管理局（FDA）制定本文件，旨在就医疗器械附件的监管向行业和FDA工作人员提供指南。本指南旨在描述FDA关于附件分类的政策，并讨论该政策对通常作为其他医疗器械附件使用的器械的适用。此外，本指南说明FDA一般将哪些器械视为“附件”，并描述根据《联邦食品、药品和化妆品法》（《FD&C法》）第513(f)(6)条允许请求基于风险和监管控制对附件进行分类的程序。
@@ -136,4 +128,3 @@ FDA必须在收到请求后120天内以书面命令对该De Novo请求标的器�
 [^14]: 见《FD&C法》第513(f)(6)(D)(ii)条。
 [^15]: 见《FD&C法》第513(f)(2)(A)条。
 [^16]: 开展De Novo分类的请求可能因包括De Novo请求中提供的性能数据不支持一般控制或一般控制与特殊控制可适当缓解已识别健康风险以合理保证安全有效性等原因而被拒绝。
-

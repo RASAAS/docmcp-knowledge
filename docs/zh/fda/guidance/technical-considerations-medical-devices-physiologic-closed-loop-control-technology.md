@@ -31,14 +31,6 @@ PDF：https://www.fda.gov/media/154994/download
 
 ## 官方文件全文
 
-# 采用闭闭液控制技术的医疗设备技术考虑:工业及美国食品药品监督管理局工作人员指南
-
-**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/technical-considerations-medical-devices-physiologic-closed-loop-control-technology](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/technical-considerations-medical-devices-physiologic-closed-loop-control-technology)
-
-**发布日期：** 2023-09-29
-
----
-
 2024年2月2日,FDA在21 CFR 第820部分(89 FR 7496,自2月2日起,2026年2月2日起生效)公布了修订质量管理体系法规的最后规则。经修订的21 CFR Part 820现题为 " 质量管理体系法规 " 。QMSR统一了质量管理体系的要求,以参考方式纳入了国际标准化组织(标准化组织)为医疗设备质量管理体系制定的国际标准,ISO 13485:2016. FDA确定,ISO 13485中的要求如果全部采用,与质量保障制度条例的要求基本相似,在企业的质量管理体系中提供类似程度的保证,并有能力始终如一地制造安全和有效的、在其他方面符合《联邦食品法》的装置,《毒品和化妆法》(FD和C法)。
 本指南文件是在最后规则生效日期之前印发的。FDA鼓励制造商审查当前的质量和计量及计量标准,以确保遵守相关监管要求。
 
@@ -453,4 +445,3 @@ FDA指南文件 " 医疗设备提交材料中计算模型研究报告 " 39,供FD
 [^44]: • 如何从自动模式(例如:当用户认为所提供的治疗不是根据临床情况预期或适当的时)。• 如何发现控制战略何时接近其局限性并可能失败(例如,如果治疗以最高速度提供,而病人没有反应)以及使用者的反应应该如何。• 应对装置错误或警告信息(如排除预期装置问题)应采取的步骤。• 应对用户预料不到的与自动化有关的使用错误。
 
 [^45]: 可在以下网站查阅:+++0++和上市前提交建议-可互操作的医疗设备
-

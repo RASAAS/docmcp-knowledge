@@ -99,4 +99,3 @@ General requirements for basic safety and essential performance – Collateral S
 Radiation Protection and Measurements, Bethesda, MD, 2003).
 4. Suggested State Regulations for the Control of Radiation,
 http://www.crcpd.org/publications.asp#ssrcr,(Conference of Radiation Control Program Directors, 2008).
-

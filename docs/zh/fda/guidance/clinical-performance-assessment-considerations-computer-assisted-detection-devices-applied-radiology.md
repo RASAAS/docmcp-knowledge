@@ -31,14 +31,6 @@ PDF：https://www.fda.gov/media/77642/download
 
 ## 官方文件全文
 
-# 临床绩效评估:用于放射图像和放射设备数据的计算机辅助检测设备在上市前通知中的考虑(510(k))工业和FDA工作人员指南
-
-**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/clinical-performance-assessment-considerations-computer-assisted-detection-devices-applied-radiology](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/clinical-performance-assessment-considerations-computer-assisted-detection-devices-applied-radiology)
-
-**发布日期：** 2022-09-28
-
----
-
 临床绩效评估:用于放射图像和放射设备数据计算机辅助检测设备在上市前通知中的考虑(510(k))
 
 本指南代表了美国食品药品监督管理局(美国食品药品监督管理局或机构)目前对这一专题的想法。它没有规定任何人的任何权利,对FDA或公众没有约束力。您可采取另一种方式,即满足适用的法规和条例的要求。为了讨论另一种办法,请与标题页所列FDA工作人员或负责本指南的办公室联系。
@@ -91,7 +83,7 @@ FROC 曲线是 Se 的图案, 相对于每个图像集的假正数标记数 。FR
 20 关于MRMC文献参考资料,例如,见:Metz, C.E.,基本ROC分析,《医学成像手册》,第一卷,《物理和心理物理学》,SPIE出版社,2000年。第15章,751-769。
 Wagner,R.F.,Metz,C.E.和Campbell,G.,《医疗成像系统和计算机辅助器具的评估:辅导性审查》,Acad. Radiol.,2007年。14(6):723-48。
 ~ ~以及Obuchowski、N.A.、Beiden、S.V.、Berbaum、K.S.、Hillis、S.L.、Ishwaran、H.、Song、H.H.和Wagner、R.F.、多读者、多案例ROC分析:对五种方法的经验比较:Radiol,2004年,11(9);980-995.0**
-21 关于在线获取软件,用以分析基于验证技术的MRMC数据,例如,见:LABMRMC软件和一般ROC软件,芝加哥大学:=0 {(用于准连续数据或绝对数据);爱荷华大学MRMC软件:*0+%(用于绝对数据);或 OBUMRM 软件:%1+%
+21 关于在线获取软件,用以分析基于验证技术的MRMC数据,例如,见:LABMRMC软件和一般ROC软件,芝加哥大学:=0 &#123;(用于准连续数据或绝对数据);爱荷华大学MRMC软件:*0+%(用于绝对数据);或 OBUMRM 软件:%1+%
 ### C. 阅读情景和随机化
 临床评价中的阅读情景应与该器械的预期用途相一致。以下是阅读假想的例子,这些假想可能是CADE临床评价的一部分。
 - 第二读取器仅使用设备(顺序设计): O 读者在没有 CADE 设备的情况下按常规阅读(即仅读取器);o 由读者在进行常规解释后立即展示CADE输出的第二读(这一读物可在与所谓的“顺序”读取办法中的传统读物相同的阅读环节内进行)。
@@ -178,7 +170,7 @@ M.T., Fryd, D., Gur, D., Hadjiiski, L., Huo不愿, Z., Jiang, Y., Morra, L., Paq
 
 ## 脚注
 
-[^2]: 可在以下网址查阅: < https:/www.fda.gov/AdvisoryCommittees/Com不愿与他人接触/MedicalDevices AdvisoryCommittee/RadicialDevicesPanel/ucm124890.htm。
+[^2]: 可在以下网址查阅: &lt; https:/www.fda.gov/AdvisoryCommittees/Com不愿与他人接触/MedicalDevices AdvisoryCommittee/RadicialDevicesPanel/ucm124890.htm。
 
 [^3]: 可查阅: https/www.fda.gov/AdvisoryCommittees/Committees Meting不愿透露/MedicalDevice Advisory Commission/RadicialDevicesPanel/ucm1470.63.htm。
 
@@ -213,4 +205,3 @@ M.T., Fryd, D., Gur, D., Hadjiiski, L., Huo不愿, Z., Jiang, Y., Morra, L., Paq
 [^27]: 报告结果研究 - 评估 - 诊断 - 诊断 - 测试 - 指导 - 工业 - 信息。
 
 [^28]: 可在 @#0___
-

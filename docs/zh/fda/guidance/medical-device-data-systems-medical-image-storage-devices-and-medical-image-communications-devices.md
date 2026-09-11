@@ -31,14 +31,6 @@ PDF：https://www.fda.gov/media/88572/download
 
 ## 官方文件全文
 
-# 医疗器械数据系统、医学影像存储器械与医学影像通信器械：行业与食品药品管理局工作人员指南
-
-**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/medical-device-data-systems-medical-image-storage-devices-and-medical-image-communications-devices](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/medical-device-data-systems-medical-image-storage-devices-and-medical-image-communications-devices)
-
-**发布日期：** 2022-09-28
-
----
-
 医疗器械数据系统、医学影像存储器械与医学影像通信器械
 
 本指南代表美国食品药品监督管理局（FDA或本机构）对该主题的当前观点。它不赋予任何个人任何权利，对FDA或公众不具有约束力。如果您采用的替代方法满足适用法律法规的要求，则可以采用该替代方法。如需讨论替代方法，请联系本指南标题页所列的负责FDA工作人员或办公室。
@@ -104,4 +96,3 @@ FDA也不打算对符合上述法规所定定义的硬件功能强制执行监�
 [^8]: 见 https://www.ecfr.gov/current/title-21/chapter-I/subchapter-H/part-892/subpart-B/section-892.2020。此类医疗显示器硬件器械以及对医疗器械不可或缺的其他专用医疗显示器硬件，从未被视为MDDS、医学影像存储器械或医学影像通信器械；其未被Cures法案排除在器械定义之外。
 
 [^9]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/multiple-function-device-products-policy-and-considerations。
-

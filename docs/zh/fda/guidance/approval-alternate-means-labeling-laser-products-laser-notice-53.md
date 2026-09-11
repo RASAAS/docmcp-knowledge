@@ -60,4 +60,3 @@ FDA指南文件（包括本指南）不确立具有法律强制执行力的责�
 您可从我们的电子产品辐射控制网页 http://www.fda.gov/cdrh/radhealth/ 获取更多关于激光要求的信息。
 
 如对本指南有任何疑问，请联系Jerome Dennis，医疗器械与放射健康中心（HFZ-240），食品药品监督管理局，1350 Piccard Drive, Rockville, Maryland 20850，或 jerome.dennis@fda.hhs.gov。
-

@@ -31,14 +31,6 @@ PDF：https://www.fda.gov/media/188844/download
 
 ## 官方文件全文
 
-# 生产和质量管理体系软件:工业及美国食品药品监督管理局工作人员指南
-
-**来源：** [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/computer-software-assurance-production-and-quality-management-system-software](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/computer-software-assurance-production-and-quality-management-system-software)
-
-**发布日期：** 2026-02-03
-
----
-
 生产和质量管理体系计算机软件保证软件
 
 本指南代表了美国食品药品监督管理局(美国食品药品监督管理局或机构)目前对这一专题的想法。它没有规定任何人的任何权利,对FDA或公众没有约束力。您可采取另一种方式,即满足适用的法规和条例的要求。为了讨论另一种办法,请与标题页所列FDA工作人员或负责本指南的办公室联系。
@@ -291,4 +283,3 @@ o 签名日期(D-MM-YYYYY)和时间(hh:mm)已执行。
 [^25]: 关于目前软件测试方法和验证方法的额外资源,制造商可参考各种软件标准和行业指导,例如:但不仅限于GAMMP5 - 对兼容GxP计算机化系统采取基于风险的方法(第二版)。
 
 [^26]: 见“医疗器械的网络安全:质量管理体系的考虑和内容”。
-
