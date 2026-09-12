@@ -1,0 +1,8 @@
+# 7 example files for retranslation (sorted by size, smallest first)
+# surgical-sutures already done
+general-wellness-policy-low-risk-devices
+characterization-ultrahigh-molecular-weight-polyethylene-uhmwpe-used-orthopedic-devices
+transitional-enforcement-policy-ethylene-oxide-sterilization-facility-changes-class-iii-devices
+applying-human-factors-and-usability-engineering-medical-devices
+use-real-world-evidence-support-regulatory-decision-making-medical-devices
+factors-consider-when-making-benefit-risk-determinations-medical-device-premarket-approval-and-de
