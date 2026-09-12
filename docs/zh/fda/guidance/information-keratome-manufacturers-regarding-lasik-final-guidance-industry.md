@@ -1,10 +1,10 @@
 ---
-title: "关于拉斯IK的信息 - 工业的最终指导"
+title: "关于LASIK的信息 - 工业的最终指导"
 description: "Information for Keratome Manufacturers Regarding LASIK - Final Guidance for Industry"
 published: 2001-06-20
 ---
 
-# 关于拉斯IK的信息 - 工业的最终指导
+# 关于LASIK的信息 - 工业的最终指导
 
 **Information for Keratome Manufacturers Regarding LASIK - Final Guidance for Industry**
 
