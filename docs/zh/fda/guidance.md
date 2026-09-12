@@ -125,7 +125,7 @@ doc_count: 434
 - [患者参与医疗器械临床研究,FDA工作人员和其他利益相关者设计和进行：行业指南](./guidance/patient-engagement-design-and-conduct-medical-device-clinical-studies) (2022-01-26) 〔全文〕
 - [用于治疗良性前列腺增生(BPH)器械的非临床和临床研究：行业与FDA工作人员指南](./guidance/non-clinical-and-clinical-investigation-devices-used-treatment-benign-prostatic-hyperplasia-bph) (2021-12-27) 〔全文〕
 - [专用于多种患者使用的管组 - 上市前通知 (510(k)) 提交：行业与FDA工作人员指南](./guidance/arthroscopy-pump-tubing-sets-intended-multiple-patient-use-premarket-notification-510k-submissions) (2021-12-23) 〔全文〕
-- [德诺级分类过程 (自动级 III 名称的评估)：行业与FDA工作人员指南](./guidance/de-novo-classification-process-evaluation-automatic-class-iii-designation) (2021-10-05) 〔全文〕
+- [De Novo分类程序（自动III类指定的评估）：行业与FDA工作人员指南](./guidance/de-novo-classification-process-evaluation-automatic-class-iii-designation) (2021-10-05) 〔全文〕
 - [对于De Novo分类申请的接受审查：行业与FDA工作人员指南](./guidance/acceptance-review-de-novo-classification-requests) (2021-10-05) 〔全文〕
 - [含镍钛诺的医疗器械非临床评估的技术考虑因素：行业与FDA工作人员指南](./guidance/technical-considerations-non-clinical-assessment-medical-devices-containing-nitinol) (2021-07-09) 〔全文〕
 - [外周血管斑块旋切器械 - 上市前通知[510(k)]提交：行业与FDA工作人员指南](./guidance/peripheral-vascular-atherectomy-devices-premarket-notification-510k-submissions) (2021-05-20) 〔全文〕

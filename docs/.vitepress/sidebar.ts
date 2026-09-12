@@ -4380,7 +4380,7 @@ export default {
           "link": "/zh/fda/guidance/arthroscopy-pump-tubing-sets-intended-multiple-patient-use-premarket-notification-510k-submissions"
         },
         {
-          "text": "德诺级分类过程 (自动级 III 名称的评估)：行业与FDA工作人员指南",
+          "text": "De Novo分类程序（自动III类指定的评估）：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/de-novo-classification-process-evaluation-automatic-class-iii-designation"
         },
         {
