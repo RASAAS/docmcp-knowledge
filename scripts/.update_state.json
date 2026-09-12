@@ -1552,7 +1552,7 @@
   },
   "newzealand_medsafe/safety_comms": {
     "url": "https://medsafe.govt.nz/safety/SafetyCommunications.asp",
-    "last_checked": "2026-09-05T20:49:27.544740",
+    "last_checked": "2026-09-12T21:06:41.571353",
     "seen_ids": [
       "[Alert] Product \r\n\t\t\t\tAlert of Dexcom US G7 Sensors: Lots 1725204004 and 1725069002",
       "[Alert] Stop using Euky Bear \r\n\t\t\t\tWarm Steam Vaporiser â model number EBSV2013"
@@ -1580,26 +1580,27 @@
   },
   "mexico_cofepris/safety_alerts": {
     "url": "https://www.gob.mx/cofepris/acciones-y-programas/alertas-sanitarias-336947",
-    "last_checked": "2026-09-05T20:49:21.954752",
+    "last_checked": "2026-09-12T21:06:35.183465",
     "seen_titles": [
-      "Imprime la página completa",
-      "En la investigación por Cyclospora cayetanensis, ni México ni EE.UU. han encontrado el parásito en lechugas de origen mexicano",
-      "Riesgo de recolectar y consumir hongos silvestres",
+      "COFEPRIS publica Visor de Registros Sanitarios de Dispositivos Médicos",
       "COFEPRIS realiza investigación en la planta empacadora de chiles jalapeños en Nuevo León",
-      "COFEPRIS acata declaratoria de inconstitucionalidad emitida por la SCJN en materia de autoconsumo lúdico de cannabis y tetrahidrocannabinol",
+      "Imprime la página completa",
       "Contesta nuestra encuesta de satisfacción.",
-      "COFEPRIS publica Visor de Registros Sanitarios de Dispositivos Médicos"
+      "En la investigación por Cyclospora cayetanensis, ni México ni EE.UU. han encontrado el parásito en lechugas de origen mexicano",
+      "COFEPRIS acata declaratoria de inconstitucionalidad emitida por la SCJN en materia de autoconsumo lúdico de cannabis y tetrahidrocannabinol",
+      "Riesgo de recolectar y consumir hongos silvestres",
+      "COFEPRIS fortalece acciones de coordinación para atender emergencias sanitarias en temporada de lluvias y huracanes 2026"
     ]
   },
   "argentina_anmat/safety_alerts": {
     "url": "https://www.argentina.gob.ar/anmat/alertas",
-    "last_checked": "2026-09-05T20:49:23.149995",
+    "last_checked": "2026-09-12T21:06:37.566290",
     "seen_titles": [
-      "20 de agosto de 2026ANMAT prohíbe un equipo médico de la marca ALMA LASERS SOPRANO ICE",
+      "03 de septiembre de 2026ANMAT prohíbe un lote del producto médico SCULPTRA® de la firma GALDERMA",
       "30 de junio de 2026ANMAT prohíbe un lote de un producto médico falsificado de la firma LINEDERM",
+      "20 de agosto de 2026ANMAT prohíbe un equipo médico de la marca ALMA LASERS SOPRANO ICE",
       "10 de agosto de 2026ANMAT prohíbe una unidad del producto médico DERMATOSCOPIO marca FotoFinder",
-      "03 de septiembre de 2026ANMAT prohibió los productos médicos de la marca “MEDICAL ADVANCE”",
-      "03 de septiembre de 2026ANMAT prohíbe un lote del producto médico SCULPTRA® de la firma GALDERMA"
+      "03 de septiembre de 2026ANMAT prohibió los productos médicos de la marca “MEDICAL ADVANCE”"
     ]
   },
   "taiwan_tfda/safety_alerts": {
