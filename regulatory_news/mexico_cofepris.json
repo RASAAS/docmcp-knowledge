@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "id": "mexico_cofepris_20260912_cofepris_strengthens_coordination_for_health_emergencies_dur",
+      "framework": "mexico_cofepris",
+      "category": "safety_communication",
+      "title": {
+        "en": "COFEPRIS Strengthens Coordination for Health Emergencies During 2026 Rainy and Hurricane Season",
+        "zh": "COFEPRIS加强2026年雨季和飓风季卫生应急协调行动"
+      },
+      "summary": {
+        "en": "This COFEPRIS notice announces strengthened interinstitutional coordination to respond to health emergencies during Mexico’s 2026 rainy and hurricane season. It does not identify a specific medical device, manufacturer, or lot; rather, it addresses system-wide preparedness for ensuring the safety, quality, and availability of medical supplies and devices in affected areas. Healthcare professionals and establishments should review emergency response plans, verify storage and integrity of devices and supplies, and follow COFEPRIS communication channels for incident reporting and guidance.",
+        "zh": "COFEPRIS此通知宣布加强机构间协调，以应对墨西哥2026年雨季和飓风季节的卫生紧急情况。该通知不针对特定医疗器械、制造商或批次，而是涉及系统层面的应急准备，确保受灾地区医疗用品和器械的安全、质量和供应。医疗专业人员和机构应审查应急响应计划，核查器械和用品的储存及完整性，并通过COFEPRIS渠道报告事件和获取指导。"
+      },
+      "source_url": "https://www.gob.mx/cofepris/articulos/cofepris-fortalece-acciones-de-coordinacion-para-atender-emergencias-sanitarias-en-temporada-de-lluvias-y-huracanes-2026",
+      "source_name": "Official Source",
+      "published_date": "2026-09-12",
+      "detected_date": "2026-09-12T21:07:15Z",
+      "importance": "medium",
+      "tags": [
+        "cofepris",
+        "emergency_preparedness",
+        "medical_device_safety",
+        "hurricane_season",
+        "mexico"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
       "id": "mexico_cofepris_20260829_cofepris_publica_visor_de_registros_sanitarios_de_dispositiv",
       "framework": "mexico_cofepris",
       "category": "safety_communication",
@@ -22,5 +49,5 @@
       "status": "published"
     }
   ],
-  "last_updated": "2026-08-29T01:57:40Z"
+  "last_updated": "2026-09-12T21:07:15Z"
 }

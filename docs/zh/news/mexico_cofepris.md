@@ -37,6 +37,18 @@ title: 法规速递
 
 ## 最新动态
 
+### COFEPRIS加强2026年雨季和飓风季卫生应急协调行动
+
+**2026-09-12** | Mexico COFEPRIS | 安全通报 | !! MEDIUM
+
+COFEPRIS此通知宣布加强机构间协调，以应对墨西哥2026年雨季和飓风季节的卫生紧急情况。该通知不针对特定医疗器械、制造商或批次，而是涉及系统层面的应急准备，确保受灾地区医疗用品和器械的安全、质量和供应。医疗专业人员和机构应审查应急响应计划，核查器械和用品的储存及完整性，并通过COFEPRIS渠道报告事件和获取指导。
+
+**标签**: `cofepris`, `emergency_preparedness`, `medical_device_safety`, `hurricane_season`, `mexico`
+
+[查看来源 (Official Source)](https://www.gob.mx/cofepris/articulos/cofepris-fortalece-acciones-de-coordinacion-para-atender-emergencias-sanitarias-en-temporada-de-lluvias-y-huracanes-2026)
+
+---
+
 ### COFEPRIS publica Visor de Registros Sanitarios de Dispositivos Médicos
 
 **2026-08-29** | Mexico COFEPRIS | 安全通报 | !! MEDIUM

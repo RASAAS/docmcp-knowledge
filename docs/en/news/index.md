@@ -6,6 +6,18 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### COFEPRIS Strengthens Coordination for Health Emergencies During 2026 Rainy and Hurricane Season
+
+**2026-09-12** | Mexico COFEPRIS | Safety Communication | !! MEDIUM
+
+This COFEPRIS notice announces strengthened interinstitutional coordination to respond to health emergencies during Mexico’s 2026 rainy and hurricane season. It does not identify a specific medical device, manufacturer, or lot; rather, it addresses system-wide preparedness for ensuring the safety, quality, and availability of medical supplies and devices in affected areas. Healthcare professionals and establishments should review emergency response plans, verify storage and integrity of devices and supplies, and follow COFEPRIS communication channels for incident reporting and guidance.
+
+**Tags**: `cofepris`, `emergency_preparedness`, `medical_device_safety`, `hurricane_season`, `mexico`
+
+[View Source (Official Source)](https://www.gob.mx/cofepris/articulos/cofepris-fortalece-acciones-de-coordinacion-para-atender-emergencias-sanitarias-en-temporada-de-lluvias-y-huracanes-2026)
+
+---
+
 ### Swissmedic FSCA: GORE VIABAHN Endoprosthesis with Heparin/PROPATEN Surface – New Language Added
 
 **2026-09-09** | Swissmedic | Safety Communication | !! MEDIUM
