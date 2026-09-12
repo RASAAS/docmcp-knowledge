@@ -243,7 +243,7 @@ o 编辑后Grace-Period将受到限制 § 新的DI触发属性无法编辑;这�
 商业分销状况=“商业分销”。
 - 当商业分销结束日期 =0 _0 今日(即今天或过去的一个日期),
 商业分销状况=“非商业分销”。 19 编辑新的DI触发属性和属性,但经过有限时间的后期编辑,预计这种编辑极为罕见。标签人应确保在记录移到公布状态之前,其DI记录数据准确无误。
-下表概述了通过公共搜索提供的DI记录中的三个DID记录:DI Record State Registration System sapplement dustrations System saving Propossible decess on the DI Records http://public search? 数据记录中,DI Registration System 保存时间可能采取的行动。
+下表概述了三种DI记录状态:DI记录状态、说明、系统在GUDID中的保存期限、对DI记录可采取的操作,以及是否可通过公开搜索获取。
 请注意,HL SPL提交的材料不能作为DI记录草案提交。
 此状态仅适用于 GUDID 网络界面选项 。
 在180个日历天无活动日后净出;如果编辑并重置为草稿, 180天日历日循环循环将重置并重新开始

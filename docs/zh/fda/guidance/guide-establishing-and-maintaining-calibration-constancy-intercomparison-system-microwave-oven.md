@@ -13,7 +13,7 @@ published: 1988-03-01
 **状态**：Final（最终）
 **类型**：Guidance Document
 **类别**：辐射 / 影像
-**主题**：Radiological Health
+**受试者**：Radiological Health
 
 ::: tip 官方来源
 [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guide-establishing-and-maintaining-calibration-constancy-intercomparison-system-microwave-oven](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guide-establishing-and-maintaining-calibration-constancy-intercomparison-system-microwave-oven)
