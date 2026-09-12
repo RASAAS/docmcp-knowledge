@@ -348,7 +348,7 @@ D值为t h e 负对等值,即t h e 遗属曲线(-1 / m)的t h e 斜度。
 a n y s i s s 是 v i i d i f t h e 微生物k i l 的动态, 依次于 r r d , r k i n e c s , e- 例如, 数据为 r e 线性。
 线性c r r e l a t i o n 被评估为 . p r t t h e ANOVA 分析 。
 注意不要低估当 (1) t h e 是 i n s y f i t r e p i c a t e e t h e i i e p t i o (r a t i i o y i n t e r r e p t h e i t i a l enculum I R = Yo/logno)时发生的D 值。r(3) t h e 死亡 r t t e 曲线不适当地外推。
-i i t I 测试射精性 g r e a t e r r than lo6 CFU/unit, i f 可能, i f建议 t n 命令 t 将低效率计算在 lo2 CFU/unit l e v e l 和 t t 扩展 t h e 保证 l e t h a i t 和 超过 6 对数范围的线性, 以最小化 t h e e f e c t 。
+如有可能,建议初始试验接种物大于10^6 CFU/单位,以尽量减少在10^2 CFU/单位水平以下计数效率的影响,并将致死率线性度的保证范围扩展超过6个对数范围。
 F r a c t i o n n 负法是另一种表示 t o 得出 D 值的方法。
 我一个对一个 r i a t i o n f r a c t i o n 负试验,e e r p l i c a t e 试验生物,如上所述,暴露于 t y r a y r a c t i i n, t h e t o t o t h t h t c r e l a t e s t o t h e quianta1区域(l o 2 t o CFU/unit v s t i m e区域),然后,t h e r e p l i c a t e s r e d o 有效生长介质,并进行孵化。
 上文A节,重复试验 w t h 清洁试验生物体和准备的 i-n 无机和有机载荷应完成。
