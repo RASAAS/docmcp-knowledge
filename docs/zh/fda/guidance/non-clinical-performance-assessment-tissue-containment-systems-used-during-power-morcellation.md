@@ -49,7 +49,7 @@ PDF：https://www.fda.gov/media/159294/download
 组织封闭系统只应用于与获得FDA销售授权的相兼容的LPM系统。参考FDA的指南文件“拉帕罗斯科电动加速器产品标签”。 8 用于妇科或一般用途的腹膜电动加速封闭系统,是一种处方装置,由仪器端口和组织封闭法组成,创造工作空间,以便在以下电动扰动程序期间可直接直直视:
 
 3 本指南使用“拉帕罗斯科电动测热器”或“LPMs”代替“拉帕罗斯科电动电动测热器”。FDA认为,临床医生和非临床医生都理解和承认这一术语(例如,美国产科医生学院和妇科医生特别报告:2014年5月,Gynecologic外科手术中的电动减速和修饰:妇科肿瘤学学会和妇科肿瘤学学会的立场声明:
-2013年12月的停电,可在以下网址查阅:+++0+__
+2013年12月的停电,可在以下网址查阅:[参见原文链接]
 5 Tan-Kim J, Hartzell KA, Reinsch CS, O ' Day CH, Kennedy JS, Menefee SA, 和 Harrison TA. 5 Tan-Kim J, Hartzell KA, Reinsch CS, O ' Day CH, Kennedy JS, Menefee SA, 和 Harrison TA. 5 TA. 5 Tan-Kim J, Hartzell KA, Hartzell KA, Reinsch CS, Reinsch CS, O ' Day CH, Jude Ch, Kennedy《腹腔切除子宫切除后阴道切除和电动细胞切除后的Uterine sarrcomas和寄生虫瘤》,Am J Obstet Gynecol.2015;212:594.e1-10。
 6 Van der Meulen JF、Pijnenborg JMA、Boonuma CM、Verberg MFG、Geomini PMAJ和Bongers MY. 腹腔沉滞后寄生的瘤:对文献的系统审查。BJOG. 2016年;123:69-75。
 7 《I、Gonzalez J、Ugarte L、Barbadillo N、Lapuente O和Alvarez-Sala J. Paciistic liiomyomas:系统审查》,Eur J Obstet Gynecol Repro Biol,2016年;203:250-259。
@@ -108,7 +108,7 @@ PDF：https://www.fda.gov/media/159294/download
 
 以下各节提供非临床性能测试建议。B(1)节就测试提出建议,以遵守要求非临床特别管制规定。
 
-关于本节所述的测试建议内容和测试报告格式的资料,请参看FDA的指南文件:“上市前呈件中非临床法官业绩测试信息的建议内容和格式。”
+关于本节所述的测试建议内容和测试报告格式的资料,请参看FDA的指南文件:“上市前呈件中非临床台架性能测试信息的建议内容和格式。”
 
 (1) 测试以证明符合特殊管制规定
 
@@ -297,7 +297,7 @@ Herman A、Duraiswamy N、Nandy P、Myers MR、Price V、Gibebyly G和Hariharan 
 
 [^1]: 可在 @%0 @%%% 查阅
 
-[^2]: 可在以下网站查阅:++0+++++ 自愿-共识标准-上市前提交书-医疗器械。
+[^2]: 可在以下网站查阅:[参见原文链接]++++ 自愿-共识标准-上市前提交书-医疗器械。
 
 [^4]: org 7993/20170404182209/ @ @1 @
 
@@ -311,7 +311,7 @@ Herman A、Duraiswamy N、Nandy P、Myers MR、Price V、Gibebyly G和Hariharan 
 
 [^12]: 可在以下会议查阅:0-会议-医疗器械提交文件-q-提交方案。性能数据(见21 CFR 884.4050(b)(4)和21 CFR 878.4825(b)(4))。第B(2)节为与特别管制无关的510(k)件划界案提供了额外的测试建议。
 
-[^13]: 可在以下网址查阅:++0+++-Format-n-clinic-clinic-Ben-Bench-product-proference-from-premols。a. 最后完成的含有气体容器系统测试
+[^13]: 可在以下网址查阅:[参见原文链接]++-Format-n-clinic-clinic-Ben-Bench-product-proference-from-premols。a. 最后完成的含有气体容器系统测试
 
 [^15]: 可用于%0 系数-和可用性-工程-医疗器械或较小的医疗器械。我们建议使用高分辨率光学或电子显微镜等成像技术。应考虑评估多个地点的材料样本,包括接缝和带子等薄弱点。
 

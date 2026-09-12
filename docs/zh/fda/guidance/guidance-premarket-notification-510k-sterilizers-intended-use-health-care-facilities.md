@@ -112,7 +112,7 @@ D- 值( Dlo): 杀死90%的同质微生物所需的时间。 (一个对数循环)
 - 联邦食品、药品和化妆品修正条例,或所谓的事先修正 d e v i c s s, w e r e c l a s s i f i e d 由FDA i n o f t h r e 监管 c l a s y i i e d y FD FD i n te nu o f t h r e er ruc c a s
 c a s e s s t a b b i s e e d e e y g e u l a t r y y o c r o t o a p i e d t o 器械 i n r d d r r t o 提供合理的 s s u r n c e 的 f y c t i v e e s s 。第一类器械为 u b j e c t o g ne e r a l c o n t r o l s a 定义 i n t h e act (r e f e r t o DSMA 指导 g e r r a l c o n t r o l s ) 。
 C l s I1 装置 r e s u b j e c t t o g ne r a l c o n r o l s 以及FDA颁布的任何性能标准。
-C r y , t h e a e 没有FDA的补给品 , n d r d s f r  t e r i i y e r s 。
+C r y , t h e a e 没有FDA的补给品 , n d r d s f r t e r i i y e r s 。
 C l s I11 d e v i c e a r e s e y e r e b j e c t o 上市前批准。
 - 蒸气、电流等。c l a s i f i c a i e y i y e i y i y
 它们是1升C1 a s I1 d e v i c e s (e 21 CFR.880.68660, 880.6870和880.6880)。
@@ -142,7 +142,7 @@ FDA在功能系统建立之前,不会找到等效的消毒剂。
 
 (a) 使用或使用电源;
 定义 n e , t , t , r , e , r , y , i f 需要, 和 c , o , t , r , o , r , r f , f f , c t 微生物生长时, 定义 n e , e c t 。
-确保t h a t h e b i i o l i i c 测试 e v a l u a t e t h e s  f e e t y y 和 e f e e c t i v e s s of t h e s t e s e e s t s e y e y y e y y ee e c i f i e d 每一过程参数的范围。
+确保t h a t h e b i i o l i i c 测试 e v a l u a t e t h e s f e e t y y 和 e f e e c t i v e s s of t h e s t e s e e s t s e y e y y e y y ee e c i f i e d 每一过程参数的范围。
 e c t i v e s s e c t i e s s e c t t h e c t t h e c t t h e y e e y e y y e y e
 t 提供 b l e s 和 图表 t o i l u s t r a t e r e e s u t s s t s t t e s t i n g 。
 提供i t e r e r e ne c e e s e s e s e s y e
@@ -154,7 +154,7 @@ Cl s s i f i e d, t r a d i t i t i a 蒸汽, 干 h e a t ,a s w e l I 的 e t h
 cl a s s i f i e d, t r a d i i t i y r y e y y e y e y y e y e e y e y y e y e e y e y e y e e y e e y e
 目前, s m a l l t a b l e t o p te te e a m o r r EtO u i i t s is n o c ne s i d d e d r a d i t i s 文档的目的, b u t FDb m a y y。i n d s t r y 性能 s t n d r a r e s t a b l i i s h e d.
 D. 与《京都议定书》第二条第1款有关的事项
-e r t i f i c a t i o n I f a p i c a b e ,提供环保局指定的任何 r e g i s t r a t i o n number,与环保局管制的 s e r i l  n t 一起提供,与 t h e s t e e r i i z e r 一起使用,e EPX/FDA i n t e r r a c t i i e d i e e y e y r a c t i i o n o d t 。
+e r t i f i c a t i o n I f a p i c a b e ,提供环保局指定的任何 r e g i s t r a t i o n number,与环保局管制的 s e r i l n t 一起提供,与 t h e s t e e r i i z e r 一起使用,e EPX/FDA i n t e r r a c t i i e d i e e y e y r a c t i i o n o d t 。
 提供提交的 t h e d t e o e EPA 的概要。
 
 英. .
@@ -250,7 +250,7 @@ d. 数据
 J. 结 论
 - T ST T 包装
 T e s t 包装 r e 使用 i n v a l i d a t n g 性能% id i n r o u t i n e 器械,一旦是商用器械,即监测该器械:~ a v a i l a b l e。
-测试包的构造为 t r r e p r e e ne ne  n  n t r i y a r o u s c h a l e g e te e s t e r i z r 。
+测试包的构造为 t r r e p r e e ne ne n n t r i y a r o u s c h a l e g e te e s t e r i z r 。
 b i i o l o g i c l anoni=or 被放置在 n t h e 包和 t h e 包被放置在 i 最差的 e 装载 i n t h e 冷点。
 每一类的I应有一个试验包 f o r 。
 例如,第一级 r e f a s r i c, l i q u i d, 包装仪器试验包 i d e n z i f i e d f o r vore s t e r r i z r s 。
@@ -337,7 +337,7 @@ il, r e e r t t h e i i t e r r e 。
 从 c r i e r , i f 中提取, s e r i a l y d i u t e d, 并放置.on 以用于验证增长介质。
 所罗列的活生物体 r e d i r e c t l y。
 在 t h i s 方法 多重 f r a c t i o n a l 测试 r e 需要 r e o 集合 s u f i e n t 数据 t o 定义了幸存者曲线。
-a r e 重复试验和以 d i f f e ne t 设定的曲线,装入 t o e o valuation  v a r i a b i t y n proclek i e t i c s 和最佳负载配置。
+a r e 重复试验和以 d i f f e ne t 设定的曲线,装入 t o e o valuation v a r i a b i t y n proclek i e t i c s 和最佳负载配置。
 T i s 信息定义了 t h e 工艺条件 t h a t 被注意 i n 标签 。
 O t h e r 测试 v a r i o n s 可能使用 B I s 和 B I i s i n 测试包,但不管使用何种方法,申请 y t y t 的情况最差。
 
@@ -349,7 +349,7 @@ a n y s i s s 是 v i i d i f t h e 微生物k i l 的动态, 依次于 r r d , 
 线性c r r e l a t i o n 被评估为 . p r t t h e ANOVA 分析 。
 注意不要低估当 (1) t h e 是 i n s y f i t r e p i c a t e e t h e i i e p t i o (r a t i i o y i n t e r r e p t h e i t i a l enculum I R = Yo/logno)时发生的D 值。r(3) t h e 死亡 r t t e 曲线不适当地外推。
 i i t I 测试射精性 g r e a t e r r than lo6 CFU/unit, i f 可能, i f建议 t n 命令 t 将低效率计算在 lo2 CFU/unit l e v e l 和 t t 扩展 t h e 保证 l e t h a i t 和 超过 6 对数范围的线性, 以最小化 t h e e f e c t 。
-F r a c t i o n n 负法是另一种表示  t o 得出 D 值的方法。
+F r a c t i o n n 负法是另一种表示 t o 得出 D 值的方法。
 我一个对一个 r i a t i o n f r a c t i o n 负试验,e e r p l i c a t e 试验生物,如上所述,暴露于 t y r a y r a c t i i n, t h e t o t o t h t h t c r e l a t e s t o t h e quianta1区域(l o 2 t o CFU/unit v s t i m e区域),然后,t h e r e p l i c a t e s r e d o 有效生长介质,并进行孵化。
 上文A节,重复试验 w t h 清洁试验生物体和准备的 i-n 无机和有机载荷应完成。
 i样本的 f r a c t i o n 试验组为负 f o r e i e i n t e r v a l r e 使用 e i t h e D 值计算 i t h e r (1) Stumbo-Murphy-Cochran方法,r (2) Spearman-Karber方法。
@@ -360,7 +360,7 @@ Nu = t h e nu = s u r v i v r y p l i c a t e s = r e y e y e by D = U/Log a - L
 2. Spearman-Karber 方法:T h i s 方法 - 使用一种平均值 t i i y y o c l c u a te e a D-value。
 T i s c a l c l u a te o n 有点 m r g o s i n c e 它允许对e d D-value e i e e d-valu 进行 a l u a b l e 统计评估。
 以下equua5.on使用D,=US Jlog No + 0.2507,其中:我们,=Spezrman-Karber heatinq t i m e st l l em a t e = 最初的八入门 D,= D-vzlue 每当有人在暗入时,应采用Spearman-Karber方法,并提交该方法。
-a l i d a t i o n, 2 n d 总计 X i 1 1 端点 V a l i d a  t i o n 一次是 D 值和 初步值 ? 过敏参数是 e s t b b i s h e d (e. g.)——..实现《圣保罗共识》第10条(a)项。t h e e f e c i v e s t h e p r c e s , 应该是 f u r t h e r 确认 bf a 1/2 c y c l e V a l i d i o n 和 a o t l k i l l 端点Bracket 7alidz:ion。
+a l i d a t i o n, 2 n d 总计 X i 1 1 端点 V a l i d a t i o n 一次是 D 值和 初步值 ? 过敏参数是 e s t b b i s h e d (e. g.)——..实现《圣保罗共识》第10条(a)项。t h e e f e c i v e s t h e p r c e s , 应该是 f u r t h e r 确认 bf a 1/2 c y c l e V a l i d i o n 和 a o t l k i l l 端点Bracket 7alidz:ion。
 测试可以合并进行。
 y c l e v a l i d a i y y e y y e y e y y i y i d a d i t i y y r s , y(或BI i n 测试包) a r e 放置 i n s i x l a e d c d i o e e 和 暴露 t z 1/2 i e t e进程。
 试验生物在p p r o p r i a te c e e d d i t i y y i y i y i y i y d a i p p r p r i e
@@ -409,7 +409,7 @@ S t e r i a n t 和 加工方式的毒性
 因此,应提交数据摘要 i n t h e 510 (k).
 选择 t h e 适当的试验协议和试验条件 t e s e b l s s h t o x i c i t y t h e s t e r i y , 副产品受若干 f a c t r s 影响,包括 i 接触途径,预计接触量,c o n s t i t u entiro o r 副产品 c 的物理/化学特性。
 t e s t i n g 可能因t h e 抗微生物剂、其预定用途和d i r e c t i o n s f o r 用途而不同。
-申请者 t h 有义务选择 r e e i a b l e 最先进的 m&thology  t o 演示 t h e a f e t y y t t e e 抗菌剂 f r 其预定用途。
+申请者 t h 有义务选择 r e e i a b l e 最先进的 m&thology t o 演示 t h e a f e t y y t t e e 抗菌剂 f r 其预定用途。
 环保局提交的数据可能无法处理上述因素。
 - t t e s t 必要 t o 的种类细节,在 t h i s 文档范围以外的 t h e 范围,从 t o 开始 t i c i t y d a r e 。
 提交者应提及 t o t h e T r i p a r t e 生物兼容性 指导 f o r 医疗器械 , t h e i t e r a t u r e ,以及其他有关出版物 f o r 更多信息。
@@ -442,7 +442,7 @@ e e, f l e x u r r p e, e-e e, f l e x u p r o e, e-e-e, e-e-e, e-, e-, ee e i s
 测试必须在两个过程之间 i n c o r r p o o r a te e imulzted u e c o n d i i t i o n s 上 t h e 测试物品上进行。
 e e x t e n s i v e 已公布的测试方法 f o r e , e p i c a n t r e r t t e e 方法 i n 设计测试协议。
 申请方对每张 r t i c l e e 进行测试,测试 r t i c e e 和 t h e 。
-T r i p a r t  t e 生物兼容性 指导 f o r 医疗器械应使用 s r e f e n c e t o i d e n t i f y t h e p p r o i a te s t s s 。
+T r i p a r t t e 生物兼容性 指导 f o r 医疗器械应使用 s r e f e n c e t o i d e n t i f y t h e p p r o i a te s t s s 。
 a p p l i c a n t 应该 i d ne t i f y y any o t h e r 参考文献 使用 f o r 来确定 t e s 。
 IS0 1 9 4可用作2个参考。
 对于 m e t l s , 某些 s u r f a c e tstss 可能是 u s e f u l, e. g., SEM, c o t a c t 角度。
@@ -455,7 +455,7 @@ q u a l i f i c a t i o o n 文件应被下调 i c l d d e te t h e c e e c e e 
 接受标准摘要 s h o u l d b e s u j mi i t e d r e g r d n g p r c s 参数,i c c r o b i d a l e f e c t i v e s s n d 已处理 d e v i c e 性能。
 C e r y i c a t i o n t h a t t h e 系统按照 s p e e i f i c a t i o n s 进行 i n 。
 ### R. 联系人和地址
-普通 q u e s t t y i o n s 有关 提交预售前的 p p l i c a  t i o n s 应当 d i r e c t e d d t h e 分区,所有制造商 ~ s i s t n c e t (800) 638-2041。
+普通 q u e s t t y i o n s 有关 提交预售前的 p p l i c a t i o n s 应当 d i r e c t e d d t h e 分区,所有制造商 ~ s i s t n c e t (800) 638-2041。
 关于 t h i s 指南文件的问题如下:FDA总和R e s t r a t i v e-410, I n f e c t i o n 控制器械处
 洛克维尔,MD。
 20850(301) 427-1307

@@ -154,13 +154,12 @@ FDA预期体外除颤器被跟踪至购买该器械的车辆、航空器或组�
 
 对于同时受跟踪命令约束的已批准PMA器械，可应申办者请求或由本机构主动，自原PMA批准之日起10年重新评估继续跟踪的需要。
 
-
 ## V. 需要跟踪的医疗器械
 
 FDA已向下列器械的制造商签发跟踪命令，按产品代码——首选名称的字母顺序列出：
 
 Product Code - Preferred Name Procode Aortic valve prosthesis, percutaneously delivered NPT
-Breast prosthesis, non-inflatable, internal, silicone gel filled FTR Defibrillator, auxiliary power supply (AC OR DC) for low energy DC defibrillator MPD Defibrillator, automated, external, wearable MVK Defibrillator, automatic, implantable, cardioverter, with cardiac resynchronization (CRT-D) NIK Defibrillator, DC, high energy (including paddles) DRK Defibrillator, DC, low energy (including paddles) LDD Defibrillator, implantable cardioverter (NON-CRT) LWS Defibrillator, implantable, dual chamber MRM Defibrillator, over-the-counter, automated, external NSA Defibrillators, automated external  (AEDs) (non-wearable) MKJ Electrode, pacemaker, permanent DTB Electrode, pacing and cardioversion, temporary, epicardial NHW Electrodes, defibrillator, permanent NVY Electrodes, pacemaker, drug-eluting, permanent, right ventricular (RV) or right atrial (RA) NVN
+Breast prosthesis, non-inflatable, internal, silicone gel filled FTR Defibrillator, auxiliary power supply (AC OR DC) for low energy DC defibrillator MPD Defibrillator, automated, external, wearable MVK Defibrillator, automatic, implantable, cardioverter, with cardiac resynchronization (CRT-D) NIK Defibrillator, DC, high energy (including paddles) DRK Defibrillator, DC, low energy (including paddles) LDD Defibrillator, implantable cardioverter (NON-CRT) LWS Defibrillator, implantable, dual chamber MRM Defibrillator, over-the-counter, automated, external NSA Defibrillators, automated external (AEDs) (non-wearable) MKJ Electrode, pacemaker, permanent DTB Electrode, pacing and cardioversion, temporary, epicardial NHW Electrodes, defibrillator, permanent NVY Electrodes, pacemaker, drug-eluting, permanent, right ventricular (RV) or right atrial (RA) NVN
 Endovascular graft system, aortic aneurysm treatment MIH Heart valve, mechanical LWQ Heart valve, non-allograft tissue LWR Heart valve, replacement DYE Mandibular prosthesis, condyle, temporary NEI Monitor, apnea, home use NPF Monitor, breathing frequency BZQ Pacemaker battery DSZ Pacemaker, lead adapter DTD Pacemaker, pulse generator (NON-CRT) implantable LWP Pacemaker, pulse generator, implantable DXY
 Pulmonary valve prosthesis, percutaneously delivered NPV Pulmonic valved conduit MWH
 Pulse generator, pacemaker, implantable, with cardiac resynchronization (CRT-P) NKE Pulse generator, permanent, implantable NVZ Pulse generator, single chamber, single LWW Pulse generator, dual chamber, pacemaker, external OVJ

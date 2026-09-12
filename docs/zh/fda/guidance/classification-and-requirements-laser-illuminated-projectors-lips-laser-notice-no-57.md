@@ -70,12 +70,12 @@ FDA认可一套全球统一的激光产品（包括LIP）分类标准的优势�
 (ii)
 确定IEC 62471-5:第1版资料性附录B不适用于该投影仪。
 (iii)
-若LIP输出超过RG2 AEL的0.6（60%）分数，提供特殊标签与用户信息以降低对儿童的暴露风险：a. 在IEC 62471-5:第1版图8符号（禁止凝视）附近放置额外产品警告标签：“WARNING:  MOUNT ABOVE THE HEADS OF CHILDREN” 标签文字与边框为橙底黑字。警告声明亦可与禁止凝视标签合并，前提是警告文字有橙色背景或信号词“WARNING”的橙色页眉。
-b. 用户手册安装说明额外声明：“WARNING: MOUNT ABOVE THE HEADS OF CHILDREN.  The use of a ceiling mount is recommended with this product to place it above the eyes of children.”
+若LIP输出超过RG2 AEL的0.6（60%）分数，提供特殊标签与用户信息以降低对儿童的暴露风险：a. 在IEC 62471-5:第1版图8符号（禁止凝视）附近放置额外产品警告标签：“WARNING: MOUNT ABOVE THE HEADS OF CHILDREN” 标签文字与边框为橙底黑字。警告声明亦可与禁止凝视标签合并，前提是警告文字有橙色背景或信号词“WARNING”的橙色页眉。
+b. 用户手册安装说明额外声明：“WARNING: MOUNT ABOVE THE HEADS OF CHILDREN. The use of a ceiling mount is recommended with this product to place it above the eyes of children.”
 (iv)
 就嵌入式磷光泵浦激光而言，将LIP认证为(1) 符合21 CFR 1010、1040.10与1040.11适用要求的I类激光产品；或(2) 使用激光通告第56号所述流程的IEC 1类激光产品。[^8] 在“维护”与“维修”程序期间（适用时）按21 CFR第1040部分符合可触及激光类别要求。对于仅在维护或维修期间可见的嵌入式对准激光的LIP，就可见对准激光发射将LIP认证为激光I、II或IIIa类，或IEC 1、2或3R类（适用时）。
 (c) 对于属于RG 0、1或2、满足第III节描述并按本节(a)与(b)段程序测量与分类的LIP，制造商：(i)
-在认证标签上使用下列经修改的符合性声明（适用时）：a. “Complies with 21 CFR 1040.10 and 1040.11 except for conformance as a Risk Group [0, 1 or 2 – Select appropriate RG] LIP as defined in IEC 62471-5:Ed. 1.0.  For more information see Laser Notice No. 57, dated May 8, 2019.”；或 b. “Complies with FDA performance standards for laser products except for conformance as a Risk Group [0, 1, or 2 – Select appropriate RG] LIP as defined in IEC 62471-5:Ed. 1.0.  For more information see Laser Notice No. 57, dated May 8, 2019.”；或 c. “Complies with 21 CFR 1040.10 and 1040.11 except for conformance as a Risk Group (0, 1, or 2 – Select appropriate RG) LIP as defined in IEC 62471-5:Ed. 1.0…”
+在认证标签上使用下列经修改的符合性声明（适用时）：a. “Complies with 21 CFR 1040.10 and 1040.11 except for conformance as a Risk Group [0, 1 or 2 – Select appropriate RG] LIP as defined in IEC 62471-5:Ed. 1.0. For more information see Laser Notice No. 57, dated May 8, 2019.”；或 b. “Complies with FDA performance standards for laser products except for conformance as a Risk Group [0, 1, or 2 – Select appropriate RG] LIP as defined in IEC 62471-5:Ed. 1.0. For more information see Laser Notice No. 57, dated May 8, 2019.”；或 c. “Complies with 21 CFR 1040.10 and 1040.11 except for conformance as a Risk Group (0, 1, or 2 – Select appropriate RG) LIP as defined in IEC 62471-5:Ed. 1.0…”
 符合IEC 62471-5:第1.0版提供的全部标签规范，但有下列例外/补充：a. 就RG0 LIP而言，IEC 62471-5:第1版第6.5.2分款第二句不适用。
 b. 始终按IEC 62471-5:第1版第6.5.3分款纳入RG1 LIP标签。IEC 62471-5:第1版第6.5.3分款中RG1 LIP标签为可选的声明不适用。
 (iii)

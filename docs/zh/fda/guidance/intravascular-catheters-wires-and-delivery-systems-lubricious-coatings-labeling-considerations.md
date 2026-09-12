@@ -55,7 +55,7 @@ FDA没有得出结论,认为这些器械的任何特定制造商或品牌的风�
 ## III. 范围
 本指南文件为第三类和第二类装置提供标签建议,如血管导管、电线、电线、电路等。由于在神经、冠心病、心肺病、心肺病、肺部、脑部、FDA将本指南的范围集中在这些血管区域使用的装置上,虽然其中有些考虑可能适用于其他类型的干预程序中使用类似涂层的器械。本指南文件的范围包括各种装置和产品守则,包括以下内容:
 二级和三级装置(分别为表1和表2)按字母顺序列出(不以风险或事件为依据)。
-表1. 产品规范指导产品规范产品编码产品代号(DQO Catherter)中第二类器械,内血管,诊断,870.1200 DQX线,指南,DQXCatherter 870.1330 DQY  Percutaneous Catherter 870.1250 DSP系统、气球、内流和控制 870.3535 DXE Catherter、Empboectomy 870.5150 DXO 传感器、压力Catheter Tip 870.2870 DYB 介绍者,Catherter 870.1340
+表1. 产品规范指导产品规范产品编码产品代号(DQO Catherter)中第二类器械,内血管,诊断,870.1200 DQX线,指南,DQXCatherter 870.1330 DQY Percutaneous Catherter 870.1250 DSP系统、气球、内流和控制 870.3535 DXE Catherter、Empboectomy 870.5150 DXO 传感器、压力Catheter Tip 870.2870 DYB 介绍者,Catherter 870.1340
 
 FOZ Catherter、内穿透、治疗、短期少于30天的HCG器械、LIT Catherter, 血管成像, 近光, 转光 870.1250 LJS Catherter, 内射, 治疗, 治疗,长于30天 880.5970 LJT 港口和卡塞特, 植入, 下层, 内血管 880.5965 LOX Catherter, 转光性冠状血管成形,切切性 870.5100
 MCW Catherter, 周边, 外切, 870.4875 MJN Catherter, 内穿透, 临时 870.4450 MOF 指南, 无线电, Catherter, Neurovastactural 870.1330 NDQ 系统,用于保护Empolic的咖啡室或指南线,可粘性(磁性) 870.1290 NFA 临时冠冕动物-苯性Vein 旁路剖面食堂,用于保护Emplic 870.1250 NRY Catheter,NTE 用于Emplic捕捉的暂时Carotid Catherter 870.1250 NVM Catherter, 血管成像, 外光,870.1250 POL 神经机械性高压切除术

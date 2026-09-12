@@ -89,7 +89,7 @@ FDA不打算对制造商可能选择向临床实验室或其他用户提供的LO
 
 [^10]: 如前所述，本指南既不涉及也不影响UDI要求。
 
-[^11]: 见 LOINC 的认可共识标准页面：https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfstandards/detail.cfm?standard__identification_no=32889。
+[^11]: 见 LOINC 的认可共识标准页面：https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfstandards/detail.cfm?standardidentification_no=32889。
 
 [^12]: 见《FD&C法》第501(f)(1)、502(o)、513(f)(1)和515条（21 U.S.C. 351(f)(1)、352(o)、360c(f)(1)和360e）。另见FDA行业指南《药品和器械制造商与付费方、处方集委员会及类似实体的沟通——问答》。
 

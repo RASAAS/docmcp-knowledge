@@ -31,7 +31,7 @@ https://www.fda.gov/regulatory-information/search-fda-guidance-documents/immunot
 ## 官方文件全文
 
 1 工业和FDA审查员的指南卫生与人类事务部食品和药品美国食品药品监督管理局器械和放射卫生器械及放射卫生管理中心,科学和技术科学处生命科学处分子生物学 campus, 生命科学处, 生命科学处, 序言公众评论评论和建议可在任何时候提交本机构审议,以便:约翰·J·兰隆、博士、HFZ-1113、12709双布鲁克公园道、马里兰州罗克维尔
-20852.  工程处在下一个文件提交之前不得对评论采取行动
+20852. 工程处在下一个文件提交之前不得对评论采取行动
 关于本指南的使用或解释问题,请联系John J. Langone博士,电话:301-443-2911,或电子邮件:jzl@cdrh.fda.gov。
 万维网网页:%0+%PDF文件:CDRH 在1-800-899-0381或301-827-0111号的 需要时请注明文件架号6 campus35。
 1995年5月,装置和辐射健康中心装置评价办公室通过了一般方案备忘录G95-1。本指南是FDA修改后的国际标准ISO-10993,“医疗器械生物评价-第一部分:评价和测试”。报告概述了医疗器械或成分材料应考虑的毒性测试的一般类型。在通过G95-1时,显然可能需要额外的测试指南来评价个别器官或系统毒性。因此,本文件中的框架已经制定,专门侧重于免疫毒性测试。应结合G95-1的大背景使用,作为产品安全总体评价的一部分。
@@ -58,7 +58,7 @@ https://www.fda.gov/regulatory-information/search-fda-guidance-documents/immunot
 免疫毒性测试。适当测试的咨询审查员和免疫学家/免疫毒理学家是否有足够的安全数据,用于与核准用途不同的预定用途材料,将逐案决定。
 流程图显示建议进行免疫毒性测试时,表1-3按顺序使用,以确定可用于帮助评价符合预定用途的产品安全、表明的病人人数和预期风险与预期风险的测试 campuslds 的种类。受益。
 它们旨在捕捉与医疗器械和材料相关的最重要的不良免疫效应和反应,在决定将进行何种特定免疫毒性测试(如果有的话)时,提供灵活性。
-表1 货物和重要材料所含名称的潜在IMOXI效应:- 表面器械 - 皮肤Apbx x B pmbx X X C pmbx X Mucosal Membranes A pmbx x B pmbx pmbx mbx x X C pmbbx pmbx pmbx mbx x X X C pmbbx pmbx Mbx 折射或折射 A pmbx x 表面 B pmbx mbxa pmbxxx 接触循环血液的外部装置(例如,拨号器和免疫吸附剂);或间接进入某一点的血液路径,作为进入血管系统(如溶液和血管)的管道;或组织/骨/ campuspin(如:10)外皮、内脏镜、外皮、外皮直接和间接B pmbx pmbx mbx pmbx pmbx mbbx mbx mbx tux/Bone/Dentin A pmbx x 交流性B pmbx cpmbx mbx pmbx Mbx C pmbbx cpmbbx pmbbx pmbx mbbx mbx Implac 器械 - 组织/骨apmbxx血液,和其他Bpmbxcpmbxmbbxmbx body Flids C pmbx cpmbbx mbx pmbbx mbx Mbx A=有限公司( __ 24小时)
+表1 货物和重要材料所含名称的潜在IMOXI效应:- 表面器械 - 皮肤Apbx x B pmbx X X C pmbx X Mucosal Membranes A pmbx x B pmbx pmbx mbx x X C pmbbx pmbx pmbx mbx x X X C pmbbx pmbx Mbx 折射或折射 A pmbx x 表面 B pmbx mbxa pmbxxx 接触循环血液的外部装置(例如,拨号器和免疫吸附剂);或间接进入某一点的血液路径,作为进入血管系统(如溶液和血管)的管道;或组织/骨/ campuspin(如:10)外皮、内脏镜、外皮、外皮直接和间接B pmbx pmbx mbx pmbx pmbx mbbx mbx mbx tux/Bone/Dentin A pmbx x 交流性B pmbx cpmbx mbx pmbx Mbx C pmbbx cpmbbx pmbbx pmbx mbbx mbx Implac 器械 - 组织/骨apmbxx血液,和其他Bpmbxcpmbxmbbxmbx body Flids C pmbx cpmbbx mbx pmbbx mbx Mbx A=有限公司( 24小时)
 1 = 超敏性B = 延长( > 24小时至30天) 2 = 慢性发炎C = 永久( > 30天) 3 = 免疫抑制4 = 各种材料预期的免疫刺激效应:5 = 自动豁免塑料及其他聚合物= p
 
 金属

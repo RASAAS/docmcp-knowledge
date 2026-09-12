@@ -76,7 +76,7 @@ doc_count: 434
 - [510(k) 第三方审查计划和第三方紧急使用许可 (EUA) 审查：行业、FDA工作人员与第三方审评组织指南](./guidance/510k-third-party-review-program-and-third-party-emergency-use-authorization-eua-review) (2024-11-21) 〔全文〕
 - [骨内牙科种植体和骨内牙科种植体基台 - 安全性和性能的性能标准：行业与FDA工作人员指南](./guidance/endosseous-dental-implants-and-endosseous-dental-implant-abutments-performance-criteria-safety-and) (2024-10-15) 〔全文〕
 - [牙科印模材料 - 安全性和性能标准的基础路径：行业与FDA工作人员指南](./guidance/dental-impression-materials-performance-criteria-safety-and-performance-based-pathway) (2024-09-30) 〔全文〕
-- [牙科陶 -安全性和性能基础的性能标准：行业与FDA工作人员指南](./guidance/dental-ceramics-performance-criteria-safety-and-performance-based-pathway) (2024-09-30) 〔全文〕
+- [牙科陶瓷 - 安全性和性能基础的性能标准：行业与FDA工作人员指南](./guidance/dental-ceramics-performance-criteria-safety-and-performance-based-pathway) (2024-09-30) 〔全文〕
 - [牙科水门汀 - 安全性和性能基础的性能标准：行业与FDA工作人员指南](./guidance/dental-cements-performance-criteria-safety-and-performance-based-pathway) (2024-09-30) 〔全文〕
 - [气动牙科手机和气动马达 - 基于安全与性能路径的性能标准：行业与FDA工作人员指南](./guidance/air-powered-dental-handpieces-and-air-motors-performance-criteria-safety-and-performance-based) (2024-09-30) 〔全文〕
 - [根据《联邦食品、药品和化妆品法案》要求获取信息的要求：行业与FDA工作人员指南](./guidance/fda-and-industry-procedures-section-513g-requests-information-under-federal-food-drug-and-cosmetic) (2024-08-23) 〔全文〕
@@ -90,7 +90,7 @@ doc_count: 434
 - [突破性器械计划：行业与FDA工作人员指南](./guidance/breakthrough-devices-program) (2023-09-14) 〔全文〕
 - [国际标准ISO 10993-1的使用"医疗器械生物评估 - 第1部分:在风险管理过程中进行评估和测试"：行业与FDA工作人员指南](./guidance/use-international-standard-iso-10993-1-biological-evaluation-medical-devices-part-1-evaluation-and) (2023-09-08) 〔全文〕
 - [在新冠病毒 (COVID-19) 疫情期间,面具和屏障面具的执行政策：行业与FDA工作人员指南](./guidance/enforcement-policy-face-masks-and-barrier-face-coverings-during-coronavirus-disease-covid-19-public) (2023-09-05) 〔全文〕
-- [基于 Peroxide 的接触镜护理产品:消费者标签建议 - 上市前通知 (510(k)) 提交：行业与FDA工作人员指南](./guidance/hydrogen-peroxide-based-contact-lens-care-products-consumer-labeling-recommendations-premarket) (2023-07-27) 〔全文〕
+- [基于 过氧化物 的接触镜护理产品:消费者标签建议 - 上市前通知 (510(k)) 提交：行业与FDA工作人员指南](./guidance/hydrogen-过氧化物-based-contact-lens-care-products-consumer-labeling-recommendations-premarket) (2023-07-27) 〔全文〕
 - [在电力结过程中使用的组织控制系统的非临床性能评估：行业与FDA工作人员指南](./guidance/non-clinical-performance-assessment-tissue-containment-systems-used-during-power-morcellation) (2023-05-26) 〔全文〕
 - [经皮腔内血管成形术(PTA)和专用导管 - 上市前通知 (510(k)) 提交：行业与FDA工作人员指南](./guidance/peripheral-percutaneous-transluminal-angioplasty-pta-and-specialty-catheters-premarket-notification) (2023-04-14) 〔全文〕
 - [软 (水力) 日用隐形眼镜 - 基于安全与性能路径的性能标准：行业与FDA工作人员指南](./guidance/soft-hydrophilic-daily-wear-contact-lenses-performance-criteria-safety-and-performance-based-pathway) (2023-03-28) 〔全文〕

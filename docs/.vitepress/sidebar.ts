@@ -555,7 +555,7 @@ export default {
         },
         {
           "text": "医用中心吸引系统注册审查指导原则",
-          "link": "/zh/nmpa/guidance/medical-central-suction-system"
+          "link": "/zh/nmpa/guidance/medical-c-suction-system"
         },
         {
           "text": "医用二氧化碳培养箱注册技术审查指导原则",
@@ -2431,7 +2431,7 @@ export default {
       "items": [
         {
           "text": "中央监护软件注册技术审查指导原则",
-          "link": "/zh/nmpa/guidance/central-monitoring-software-2017"
+          "link": "/zh/nmpa/guidance/c-monitoring-software-2017"
         },
         {
           "text": "人工智能医疗器械注册审查指导原则",
@@ -4180,7 +4180,7 @@ export default {
           "link": "/zh/fda/guidance/endosseous-dental-implants-and-endosseous-dental-implant-abutments-performance-criteria-safety-and"
         },
         {
-          "text": "牙科陶 -安全性和性能基础的性能标准：行业与FDA工作人员指南",
+          "text": "牙科陶瓷 - 安全性和性能基础的性能标准：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/dental-ceramics-performance-criteria-safety-and-performance-based-pathway"
         },
         {
@@ -4240,8 +4240,8 @@ export default {
           "link": "/zh/fda/guidance/enforcement-policy-face-masks-and-barrier-face-coverings-during-coronavirus-disease-covid-19-public"
         },
         {
-          "text": "基于 Peroxide 的接触镜护理产品:消费者标签建议 - 上市前通知 (510(k)) 提交：行业与FDA工作人员指南",
-          "link": "/zh/fda/guidance/hydrogen-peroxide-based-contact-lens-care-products-consumer-labeling-recommendations-premarket"
+          "text": "基于 过氧化物 的接触镜护理产品:消费者标签建议 - 上市前通知 (510(k)) 提交：行业与FDA工作人员指南",
+          "link": "/zh/fda/guidance/hydrogen-过氧化物-based-contact-lens-care-products-consumer-labeling-recommendations-premarket"
         },
         {
           "text": "在电力结过程中使用的组织控制系统的非临床性能评估：行业与FDA工作人员指南",
