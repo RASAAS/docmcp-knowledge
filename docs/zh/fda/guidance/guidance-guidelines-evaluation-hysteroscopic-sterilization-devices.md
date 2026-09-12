@@ -1,10 +1,10 @@
 ---
-title: "关于透性消毒装置的评估指南 (以下简称\"指南\")"
+title: "宫腔镜绝育器械的评估指南"指南\")"
 description: "Guidance ('Guidelines') for Evaluation of Hysteroscopic Sterilization Devices"
 published: 1978-05-09
 ---
 
-# 关于透性消毒装置的评估指南 (以下简称\
+# 宫腔镜绝育器械的评估指南
 
 **Guidance ('Guidelines') for Evaluation of Hysteroscopic Sterilization Devices**
 

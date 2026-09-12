@@ -1,10 +1,10 @@
 ---
-title: "医疗器械再制造指南"
+title: "医疗器械再制造：行业、从事维修或再制造实体与FDA工作人员指南"
 description: "Remanufacturing of Medical Devices: Guidance for Industry, Entities That Perform Servicing or Remanufacturing, and Food and Drug Administration Staff"
 published: 2024-05-10
 ---
 
-# 医疗器械再制造指南
+# 医疗器械再制造：行业、从事维修或再制造实体与FDA工作人员指南
 
 **Remanufacturing of Medical Devices: Guidance for Industry, Entities That Perform Servicing or Remanufacturing, and Food and Drug Administration Staff**
 

@@ -1,10 +1,10 @@
 ---
-title: "脉冲氧化仪 - 预 市场通知提交 [510(k) 项]：行业与FDA工作人员指南"
+title: "脉搏血氧仪 - 上市前通知[510(k)]提交：行业与FDA工作人员指南"
 description: "Pulse Oximeters - Premarket Notification Submissions [510(k)s]: Guidance for Industry and Food and Drug Administration Staff"
 published: 2013-03-03
 ---
 
-# 脉冲氧化仪 - 预 市场通知提交 [510(k) 项]：行业与FDA工作人员指南
+# 脉搏血氧仪 - 上市前通知[510(k)]提交：行业与FDA工作人员指南
 
 **Pulse Oximeters - Premarket Notification Submissions [510(k)s]: Guidance for Industry and Food and Drug Administration Staff**
 

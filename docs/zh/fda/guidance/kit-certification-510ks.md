@@ -1,10 +1,10 @@
 ---
-title: "五百一十的套件认证"
+title: "510(k)套件认证"
 description: "Kit Certification for 510(k)s"
 published: 1997-06-30
 ---
 
-# 五百一十的套件认证
+# 510(k)套件认证
 
 **Kit Certification for 510(k)s**
 

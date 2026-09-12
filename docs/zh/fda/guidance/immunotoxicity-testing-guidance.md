@@ -1,10 +1,10 @@
 ---
-title: "免疫毒性检测指南"
+title: "免疫毒性试验指南"
 description: "Immunotoxicity Testing Guidance"
 published: 1999-05-05
 ---
 
-# 免疫毒性检测指南
+# 免疫毒性试验指南
 
 **Immunotoxicity Testing Guidance**
 

@@ -1,10 +1,10 @@
 ---
-title: "周边血管除器件 - 上市前通知 [510(k) ] 提交：行业与FDA工作人员指南"
+title: "外周血管斑块旋切器械 - 上市前通知[510(k)]提交：行业与FDA工作人员指南"
 description: "Peripheral Vascular Atherectomy Devices - Premarket Notification [510(k)] Submissions: Guidance for Industry and Food and Drug Administration Staff"
 published: 2021-05-20
 ---
 
-# 周边血管除器件 - 上市前通知 [510(k) ] 提交：行业与FDA工作人员指南
+# 外周血管斑块旋切器械 - 上市前通知[510(k)]提交：行业与FDA工作人员指南
 
 **Peripheral Vascular Atherectomy Devices - Premarket Notification [510(k)] Submissions: Guidance for Industry and Food and Drug Administration Staff**
 

@@ -1,10 +1,10 @@
 ---
-title: "透剂和透剂:为510提供指南"
+title: "宫腔镜和腹腔镜气腹机：510(k)提交指南"
 description: "Hysteroscopic and Laparoscopic Insufflators: Submission Guidance for a 510(k)"
 published: 1995-07-31
 ---
 
-# 透剂和透剂:为510提供指南
+# 宫腔镜和腹腔镜气腹机：510(k)提交指南
 
 **Hysteroscopic and Laparoscopic Insufflators: Submission Guidance for a 510(k)**
 

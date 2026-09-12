@@ -4104,7 +4104,7 @@ export default {
       "collapsed": true,
       "items": [
         {
-          "text": "牙科护理灯 - 上市前通知 (510(k)) 提交：行业与FDA工作人员指南",
+          "text": "牙科光固化灯 - 上市前通知(510(k))提交：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/dental-curing-lights-premarket-notification-510k-submissions"
         },
         {
@@ -4128,11 +4128,11 @@ export default {
           "link": "/zh/fda/guidance/content-human-factors-information-medical-device-marketing-submissions"
         },
         {
-          "text": "整形植入器的患者匹配指南：行业与FDA工作人员指南",
+          "text": "骨科植入物的患者匹配导板：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/patient-matched-guides-orthopedic-implants"
         },
         {
-          "text": "减肥相关的标志性医疗器械 - 上市前考虑因素：行业与FDA工作人员指南",
+          "text": "具有减重相关适应症的医疗器械 - 上市前考量：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/medical-devices-indications-associated-weight-loss-premarket-considerations"
         },
         {
@@ -4152,7 +4152,7 @@ export default {
           "link": "/zh/fda/guidance/requests-feedback-and-meetings-medical-device-submissions-q-submission-program"
         },
         {
-          "text": "在医疗器械临床研究中评估性别特定数据：行业与FDA工作人员指南",
+          "text": "医疗器械临床研究中性别相关数据的评估：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/evaluation-sex-specific-data-medical-device-clinical-studies-guidance-industry-and-food-and-drug"
         },
         {
@@ -4396,7 +4396,7 @@ export default {
           "link": "/zh/fda/guidance/implanted-brain-computer-interface-bci-devices-patients-paralysis-or-amputation-non-clinical-testing"
         },
         {
-          "text": "周边血管除器件 - 上市前通知 [510(k) ] 提交：行业与FDA工作人员指南",
+          "text": "外周血管斑块旋切器械 - 上市前通知[510(k)]提交：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/peripheral-vascular-atherectomy-devices-premarket-notification-510k-submissions"
         },
         {
@@ -4632,7 +4632,7 @@ export default {
           "link": "/zh/fda/guidance/clinical-considerations-investigational-device-exemptions-ides-neurological-devices-targeting"
         },
         {
-          "text": "菌的永久性管植入物标签：行业与FDA工作人员指南",
+          "text": "用于绝育的永久性宫腔镜放置输卵管植入物的标签：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/labeling-permanent-hysteroscopically-placed-tubal-implants-intended-sterilization"
         },
         {
@@ -4736,7 +4736,7 @@ export default {
           "link": "/zh/fda/guidance/in-vitro-companion-diagnostic-devices"
         },
         {
-          "text": "项目:在上市前通知中评估 等效性 [510(k]：行业与FDA工作人员指南",
+          "text": "510(k)计划：在上市前通知[510(k)]中评估实质等同性：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/510k-program-evaluating-substantial-equivalence-premarket-notifications-510k"
         },
         {
@@ -4784,7 +4784,7 @@ export default {
           "link": "/zh/fda/guidance/investigational-device-exemption-ide-guidance-retinal-prostheses"
         },
         {
-          "text": "脉冲氧化仪 - 预 市场通知提交 [510(k) 项]：行业与FDA工作人员指南",
+          "text": "脉搏血氧仪 - 上市前通知[510(k)]提交：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/pulse-oximeters-premarket-notification-submissions-510ks-guidance-industry-and-food-and-drug"
         },
         {
@@ -5004,7 +5004,7 @@ export default {
           "link": "/zh/fda/guidance/guidance-document-powered-muscle-stimulator-510ks-guidance-industry-fda-reviewersstaff-and"
         },
         {
-          "text": "免疫毒性检测指南",
+          "text": "免疫毒性试验指南",
           "link": "/zh/fda/guidance/immunotoxicity-testing-guidance"
         },
         {
@@ -5100,7 +5100,7 @@ export default {
           "link": "/zh/fda/guidance/procedures-class-ii-device-exemptions-premarket-notification-guidance-industry-and-cdrh-staff"
         },
         {
-          "text": "五百一十的套件认证",
+          "text": "510(k)套件认证",
           "link": "/zh/fda/guidance/kit-certification-510ks"
         },
         {
@@ -5148,7 +5148,7 @@ export default {
           "link": "/zh/fda/guidance/addendum-guidance-premarket-notification-510k-submissions-sterilizers-intended-use-health-care"
         },
         {
-          "text": "透剂和透剂:为510提供指南",
+          "text": "宫腔镜和腹腔镜气腹机：510(k)提交指南",
           "link": "/zh/fda/guidance/hysteroscopic-and-laparoscopic-insufflators-submission-guidance-510k"
         },
         {
@@ -5256,7 +5256,7 @@ export default {
           "link": "/zh/fda/guidance/all-us-condom-manufacturers-importers-and-repackagers"
         },
         {
-          "text": "关于透性消毒装置的评估指南 (以下简称\"指南\")",
+          "text": "宫腔镜绝育器械的评估指南",
           "link": "/zh/fda/guidance/guidance-guidelines-evaluation-hysteroscopic-sterilization-devices"
         },
         {
@@ -5270,7 +5270,7 @@ export default {
       "collapsed": true,
       "items": [
         {
-          "text": "医疗器械再制造指南",
+          "text": "医疗器械再制造：行业、从事维修或再制造实体与FDA工作人员指南",
           "link": "/zh/fda/guidance/remanufacturing"
         },
         {
@@ -5778,7 +5778,7 @@ export default {
           "link": "/zh/fda/guidance/letter-industry-powered-wheelchair-manufacturers-rmjohnson"
         },
         {
-          "text": "医疗器械的使用寿命",
+          "text": "医疗器械货架寿命",
           "link": "/zh/fda/guidance/shelf-life-medical-devices"
         },
         {

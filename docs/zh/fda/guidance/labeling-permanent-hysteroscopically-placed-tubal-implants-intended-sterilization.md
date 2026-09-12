@@ -1,10 +1,10 @@
 ---
-title: "菌的永久性管植入物标签：行业与FDA工作人员指南"
+title: "用于绝育的永久性宫腔镜放置输卵管植入物的标签：行业与FDA工作人员指南"
 description: "Labeling for Permanent Hysteroscopically-Placed Tubal Implants Intended for Sterilization: Guidance for Industry and Food and Drug Administration Staff"
 published: 2016-10-31
 ---
 
-# 菌的永久性管植入物标签：行业与FDA工作人员指南
+# 用于绝育的永久性宫腔镜放置输卵管植入物的标签：行业与FDA工作人员指南
 
 **Labeling for Permanent Hysteroscopically-Placed Tubal Implants Intended for Sterilization: Guidance for Industry and Food and Drug Administration Staff**
 

@@ -1,10 +1,10 @@
 ---
-title: "在医疗器械临床研究中评估性别特定数据：行业与FDA工作人员指南"
+title: "医疗器械临床研究中性别相关数据的评估：行业与FDA工作人员指南"
 description: "Evaluation of Sex-Specific Data in Medical Device Clinical Studies - Guidance for Industry and Food and Drug Administration Staff"
 published: 2025-03-31
 ---
 
-# 在医疗器械临床研究中评估性别特定数据：行业与FDA工作人员指南
+# 医疗器械临床研究中性别相关数据的评估：行业与FDA工作人员指南
 
 **Evaluation of Sex-Specific Data in Medical Device Clinical Studies - Guidance for Industry and Food and Drug Administration Staff**
 

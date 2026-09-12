@@ -1,10 +1,10 @@
 ---
-title: "医疗器械的使用寿命"
+title: "医疗器械货架寿命"
 description: "Shelf Life of Medical Devices"
 published: 1991-04-01
 ---
 
-# 医疗器械的使用寿命
+# 医疗器械货架寿命
 
 **Shelf Life of Medical Devices**
 

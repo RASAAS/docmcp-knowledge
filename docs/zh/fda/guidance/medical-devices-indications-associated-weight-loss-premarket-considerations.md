@@ -1,10 +1,10 @@
 ---
-title: "减肥相关的标志性医疗器械 - 上市前考虑因素：行业与FDA工作人员指南"
+title: "具有减重相关适应症的医疗器械 - 上市前考量：行业与FDA工作人员指南"
 description: "Medical Devices with Indications Associated with Weight Loss - Premarket Considerations: Guidance for Industry and Food and Drug Administration Staff"
 published: 2026-03-13
 ---
 
-# 减肥相关的标志性医疗器械 - 上市前考虑因素：行业与FDA工作人员指南
+# 具有减重相关适应症的医疗器械 - 上市前考量：行业与FDA工作人员指南
 
 **Medical Devices with Indications Associated with Weight Loss - Premarket Considerations: Guidance for Industry and Food and Drug Administration Staff**
 

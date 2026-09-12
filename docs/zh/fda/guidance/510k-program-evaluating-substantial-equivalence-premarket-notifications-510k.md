@@ -1,10 +1,10 @@
 ---
-title: "项目:在上市前通知中评估 等效性 [510(k]：行业与FDA工作人员指南"
+title: "510(k)计划：在上市前通知[510(k)]中评估实质等同性：行业与FDA工作人员指南"
 description: "The 510(k) Program: Evaluating Substantial Equivalence in Premarket Notifications [510(k)]: Guidance for Industry and Food and Drug Administration Staff"
 published: 2014-07-28
 ---
 
-# 项目:在上市前通知中评估 等效性 [510(k]：行业与FDA工作人员指南
+# 510(k)计划：在上市前通知[510(k)]中评估实质等同性：行业与FDA工作人员指南
 
 **The 510(k) Program: Evaluating Substantial Equivalence in Premarket Notifications [510(k)]: Guidance for Industry and Food and Drug Administration Staff**
 
