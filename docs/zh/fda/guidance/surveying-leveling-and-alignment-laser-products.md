@@ -1,10 +1,10 @@
 ---
-title: "测量,水平和配列激光产品：行业与食品药品管理局工作人员指南"
+title: "测量,水平和配列激光产品：行业与FDA工作人员指南"
 description: "Surveying, Leveling, and Alignment Laser Products: Guidance for Industry and Food and Drug Administration Staff"
 published: 2023-01-31
 ---
 
-# 测量,水平和配列激光产品：行业与食品药品管理局工作人员指南
+# 测量,水平和配列激光产品：行业与FDA工作人员指南
 
 **Surveying, Leveling, and Alignment Laser Products: Guidance for Industry and Food and Drug Administration Staff**
 
@@ -31,9 +31,9 @@ PDF：[https://www.fda.gov/media/88325/download](https://www.fda.gov/media/88325
 
 ## 官方文件全文
 
-本指南代表食品药品管理局（FDA或本机构）目前对该主题的观点。它不为任何人确立任何权利，对FDA或公众亦不具约束力。若替代方法满足适用法规与条例的要求，您可采用该替代方法。如需讨论替代方法，请联系本指南扉页所列的FDA工作人员或负责办公室。
+本指南代表FDA（FDA或本机构）目前对该主题的观点。它不为任何人确立任何权利，对FDA或公众亦不具约束力。若替代方法满足适用法规与条例的要求，您可采用该替代方法。如需讨论替代方法，请联系本指南扉页所列的FDA工作人员或负责办公室。
 ## I. 简介
-本指南面向激光产品制造商，概述食品药品管理局（FDA或本机构）关于FDA性能标准法规对测量、找平与对准（SLA）激光产品适用性的方法。
+本指南面向激光产品制造商，概述FDA（FDA或本机构）关于FDA性能标准法规对测量、找平与对准（SLA）激光产品适用性的方法。
 所涉主题包括：- SLA激光产品的定义 - 何为SLA激光产品的考量 - SLA与非SLA激光产品示例 - SLA激光产品类别限值 - 请求偏离或豁免SLA激光产品类别限值
 一般而言，FDA指南文件不确立具有法律强制力的责任。相反，指南描述本机构目前对某一主题的观点，应仅视为建议，除非引用了具体的监管或法定要求。本机构指南中使用“应当（should）”一词，表示建议或推荐，而非强制要求。
 ## II. 背景

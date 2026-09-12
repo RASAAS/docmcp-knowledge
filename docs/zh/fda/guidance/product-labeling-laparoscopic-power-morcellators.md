@@ -1,10 +1,10 @@
 ---
-title: "拉巴洛斯科普式电力缩器的产品标签：行业与食品药品管理局工作人员指南"
+title: "拉巴洛斯科普式电力缩器的产品标签：行业与FDA工作人员指南"
 description: "Product Labeling for Laparoscopic Power Morcellators: Guidance for Industry and Food and Drug Administration Staff"
 published: 2020-12-30
 ---
 
-# 拉巴洛斯科普式电力缩器的产品标签：行业与食品药品管理局工作人员指南
+# 拉巴洛斯科普式电力缩器的产品标签：行业与FDA工作人员指南
 
 **Product Labeling for Laparoscopic Power Morcellators: Guidance for Industry and Food and Drug Administration Staff**
 
@@ -39,12 +39,12 @@ FDA的指导性文件,包括本指南性文件,没有规定法律上可执行的
 1 本指南使用“拉帕罗斯科电动测热器”或“LPMs”代替“拉帕罗斯科电动测热器”。FDA认为,临床医生和非临床医生都理解和承认这一术语(例如,美国产科医生学院和妇科医生特别报告:2014年5月,Gynecologic外科手术中的电动减速和修饰:和妇科肿瘤学学会的立场声明:2013年12月休养,可在以下网站查阅:)))
 2 癌症的阶段反映了疾病的程度和/或严重程度,有助于确定预测和适当的治疗选择。“提高”是指特定病人的疾病程度或严重程度增加,在这种情况下,由于腹腔内肿瘤的性致癌传播和生长。
 ## II. 背景
-随着新外科技术和新技术的引进,腹腔出血和侵入性极小的手术程序数量增加,关于使用LPM的附加安全信息已经提供。以及经同行审查的医疗文献,提高了人们对以下风险的认识:在用于治疗良性甲状腺的妇科手术中使用LPM时,未发现癌症组织有可能传播到子宫以外。已经公布了许多案例报告和案件系列,FDA收到了医疗设备报告,其中描述了性向传播、植入和植入。以及随后在腹腔腔内未发现的肿瘤组织在腹腔内生长,因为根据术前诊断,宫颈组织被认为含有甲状腺的腹腔细胞组织,32014年4月5日FDA对现有资料进行了分析,表明妇女因假定的甲状腺而接受外科手术的妇女的子宫沙姆菌神秘性的风险大大高于先前假定或报告的危险性。FDA的分析还表明:
+随着新外科技术和新技术的引进,腹腔出血和侵入性极小的手术程序数量增加,关于使用LPM的附加安全信息已经提供。以及经同行审查的医疗文献,提高了人们对以下风险的认识:在用于治疗良性甲状腺的妇科手术中使用LPM时,未发现癌症组织有可能传播到子宫以外。已经公布了许多案例报告和案件系列,FDA收到了医疗器械报告,其中描述了性向传播、植入和植入。以及随后在腹腔腔内未发现的肿瘤组织在腹腔内生长,因为根据术前诊断,宫颈组织被认为含有甲状腺的腹腔细胞组织,32014年4月5日FDA对现有资料进行了分析,表明妇女因假定的甲状腺而接受外科手术的妇女的子宫沙姆菌神秘性的风险大大高于先前假定或报告的危险性。FDA的分析还表明:
 
 3 Oduyebo T, Rauh-Hain A, Meserve E, Seidmen M, Hinchcliff E, George S, Quade B, Nucci M, Del Carmen M, Muto M, Juto M. 3 Oduyebo T, Rauh-Hain A, Rauh-Hain A, Meserve E, Meidmen M, Hinchcriff E, George S, Quade B, Nuc M, Del Carmen M, Muto M. 3 Oduyebo, Rauh-Hain A, Rauh-Hain A, Rauh-Hain A2014年Gyncol Oncol, Gyncol, 2014年;132(2):360-365。
 4 爱因斯坦·姆、巴拉卡特·R、奇·D、索诺达·伊、阿列克蒂亚尔·K、亨斯利·M、阿布·鲁斯图姆·N。2008年,《Int J Gyn癌症》,2008年;18:1065-1070。
 5 Seidman MA、Oduyebo T、Muto MG等人,《子宫中心肌瘤传播并发症》,PLos 1,2012年;7(11):e50058。
-6 FDA分析摘要,见第6页。2014年7月10日至11日FDA医疗设备咨询委员会妇产科和妇科设备小组会议执行摘要第18-24段,可查阅:o es/ medicalDevits Advisory Commission/Obsterics和妇科Devits/UCM404148.pdf。
+6 FDA分析摘要,见第6页。2014年7月10日至11日FDA医疗器械咨询委员会妇产科和妇科设备小组会议执行摘要第18-24段,可查阅:o es/ medicalDevits Advisory Commission/Obsterics和妇科Devits/UCM404148.pdf。
 7 Leibsohn S, d ' Ablaing G, Mishell DR, Schlaerth JB. Leiomyosorcoma, 用于对子宫血清瘤进行一系列子宫切除。1990年;162(4):968-974。
 8 RERER RC, Wagner PL, Gambone JC. 重估无症状子宫皮瘤的子宫切除术。
 Obstet Gynecol. 1992年;79(4):481-484。
@@ -55,7 +55,7 @@ Obstet Gynecol. 1992年;79(4):481-484。
 13 Rowland M, Lesnock J, Edwards R, Richard S, Zorn K, Sukumvanich P等人,患有宫颈癌并死于宫颈切除术的病人。Gynecol Oncol. 2012年;127(1):S29。
 14 Leung F, Terzibackian JJ.,“手术期间肿瘤休克对明显早期子宫白眼瘤患者的预测的影响”。 Gynecol Oncol。2012年;124(1):172-173。
 包括存活在内的患者结果,可能因疾病3、5、15、16、17、6、18 病人选择和选择外科手术技术可以减少癌症传播的风险。患子宫颈切除纤维状瘤的妇女患未发现癌症的流行率随着年龄的增长而增加,因此,与年轻妇女相比,老年妇女使用LPM的受益风险情况比老年妇女要差。20 此外,通过切除组织团团团的外科手术技术消除了进行休眠的必要性,进行彻底的手术前检查; 进行彻底的手术前检查; 进行手术前检查; 进行化验。然而,必须指出,尚未发现任何能够可靠地探测到沙尘暴的筛选程序。作为共同决策的一部分,医生在接受治疗前应与病人讨论所有相关治疗方案的风险和益处。
-FDA认为,上述科学信息代表着对这些器械的惠益风险简介的重大变化,于4月17日发出安全通讯,2014年7月10日至11日 和2014年7月21日 和7月10日至11日 和FDA医疗设备咨询委员会 妇产科和妇科设备小组的开会201423年,进一步讨论妇科外科手术期间LPM的使用和标签问题。FDA在考虑了专家小组和其他利益攸关方的意见后,立即发布了一份有效的指南文件,包括小组会议公开公开听取意见部分期间提出的意见。
+FDA认为,上述科学信息代表着对这些器械的惠益风险简介的重大变化,于4月17日发出安全通讯,2014年7月10日至11日 和2014年7月21日 和7月10日至11日 和FDA医疗器械咨询委员会 妇产科和妇科设备小组的开会201423年,进一步讨论妇科外科手术期间LPM的使用和标签问题。FDA在考虑了专家小组和其他利益攸关方的意见后,立即发布了一份有效的指南文件,包括小组会议公开公开听取意见部分期间提出的意见。
 2014年指南文件发布后,FDA继续审议新的科学信息和利益攸关方的投入。FDA在201724年提供了最新分析,其中考虑了自进行第一次分析以来获得的新信息。最新分析中引用的出版物继续证明,在
 
 15 摩尔西P、罗德里格斯A、雷伊A、帕蒂埃P、阿塔拉达D、Genestie C、波梅尔C、Lhommé C、海-梅德尔C、杜维拉德P、卡斯塔因
@@ -64,8 +64,8 @@ FDA认为,上述科学信息代表着对这些器械的惠益风险简介的重�
 17 朴杰、金D、金J、金Y、金J、金J、南J手术期间肿瘤肿瘤休克对明显低年级院内运动器型沙科马早期患者的结果的影响,Ann Surg Oncol,2011年;18(12):3453-3461。
 18 George S、Barysauskas C、Serrano C. Revrospective群研究,评价腹膜内肿瘤对局部子宫皮瘤、癌症的影响。2014;120(20):3154-3158。
 19 Wright JD、Tergas AI、Burke WM等人的子宫颈病理学,这些妇女使用休眠进行最小侵入性子宫切除术。JAMA 2014;312(12):1253-1255(和补充在线内容)。
-医疗设备咨询委员会的网址:www.fda.gov/AdvisoryCommittees/Committees MeetingMatines/MedicalDevices/MedicalDevits AdvisoryCommittee/Obstetri candGynclogyDevits/ucm404143.htm。 www.fda.gov/AdvisoryCommittees/CommittesMetingMatiles/MedicalDevices/MedicalDevicesAdvisoryCommitte/Obstetri csandGynclogyDevits/ucm404143.htm。
-23 本次会议的材料载于:* 顾问委员会/会议顾问/会议顾问/医疗设备/医疗设备咨询顾问委员会/Obstericsand Gyncol ogyDevits/ucm404143.htm。
+医疗器械咨询委员会的网址:www.fda.gov/AdvisoryCommittees/Committees MeetingMatines/MedicalDevices/MedicalDevits AdvisoryCommittee/Obstetri candGynclogyDevits/ucm404143.htm。 www.fda.gov/AdvisoryCommittees/CommittesMetingMatiles/MedicalDevices/MedicalDevicesAdvisoryCommitte/Obstetri csandGynclogyDevits/ucm404143.htm。
+23 本次会议的材料载于:* 顾问委员会/会议顾问/会议顾问/医疗器械/医疗器械咨询顾问委员会/Obstericsand Gyncol ogyDevits/ucm404143.htm。
 24 “FDA 关于使用拉帕罗斯电动推动器治疗子宫内纤维机的更新评估”,载于: @_0__
 不同群体之间,包括接触电动休克、无动力休克或无休克的群体之间的病人结果。现有补充科学资料,可分辨25岁、26岁、27岁、28岁、29岁、25岁、26岁、27岁、28岁、29岁、630 FDA还审议了有关在使用LPM31、32的妇科手术期间将良性子宫组织传播到子宫组织以外子宫外的风险的科学资料。33 寄生虫瘤,传播腹膜皮瘤,而良性,由于腹部疼痛和腹部衰竭等症状,需要增加外科手术。必须指出,封闭系统不能防止良性组织在这种程序期间扩散的所有病例,因为有些病例可能自发发生,而不会引起休克。
 最后,FDA审议了其他现有缓解子宫组织传播的措施。自2014年以来,FDA对旨在分离和遏制被视为良性组织液态虫害控制封闭系统的LPM封闭系统提供了营销授权。通过轮椅测试和模拟使用测试,在休养期间将此类组织包含在内。无法防止癌症可能因下列原因蔓延:组织在被放入组织封闭系统之前因组织操纵而扩散;外科手术前可能已经通过血液、淋巴系统或输卵管传播的癌症(输卵管迁移)。

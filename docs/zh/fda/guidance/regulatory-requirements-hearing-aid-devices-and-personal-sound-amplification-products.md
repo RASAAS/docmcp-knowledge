@@ -1,10 +1,10 @@
 ---
-title: "听力助理设备和个人音响增强产品的监管要求：行业与食品药品管理局工作人员指南"
+title: "助听器械和个人声音放大产品的监管要求：行业与FDA工作人员指南"
 description: "Regulatory Requirements for Hearing Aid Devices and Personal Sound Amplification Products: Guidance for Industry and Food and Drug Administration Staff"
 published: 2022-08-17
 ---
 
-# 听力助理设备和个人音响增强产品的监管要求：行业与食品药品管理局工作人员指南
+# 助听器械和个人声音放大产品的监管要求：行业与FDA工作人员指南
 
 **Regulatory Requirements for Hearing Aid Devices and Personal Sound Amplification Products: Guidance for Industry and Food and Drug Administration Staff**
 

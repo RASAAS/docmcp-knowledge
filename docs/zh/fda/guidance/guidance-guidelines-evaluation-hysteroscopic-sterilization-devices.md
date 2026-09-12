@@ -4,7 +4,7 @@ description: "Guidance ('Guidelines') for Evaluation of Hysteroscopic Sterilizat
 published: 1978-05-09
 ---
 
-# 关于透性消毒装置的评估指南 (以下简称"指南")
+# 关于透性消毒装置的评估指南 (以下简称\
 
 **Guidance ('Guidelines') for Evaluation of Hysteroscopic Sterilization Devices**
 

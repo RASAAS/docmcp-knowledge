@@ -31,7 +31,7 @@ PDF：[https://www.fda.gov/media/73620/download](https://www.fda.gov/media/73620
 ## 官方文件全文
 
 公共卫生服务署
-食品药品管理局
+FDA
 8757 Georgia Avenue Silver Spring MD 20910
 收件人：所有日光灯产品制造商、进口商及潜在制造商
 主题：日光灯产品所需警告标签政策

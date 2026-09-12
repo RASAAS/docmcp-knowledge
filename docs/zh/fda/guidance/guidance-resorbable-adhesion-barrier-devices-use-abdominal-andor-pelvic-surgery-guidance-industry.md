@@ -1,10 +1,10 @@
 ---
-title: "腹和/或骨盆手术使用可吸收的粘合屏障设备的指南：行业指南"
+title: "用于腹部和/或盆腔手术的可吸收防粘连屏障器械指南：行业指南"
 description: "Guidance for Resorbable Adhesion Barrier Devices for Use in Abdominal and/or Pelvic Surgery - Guidance for Industry"
 published: 2002-06-17
 ---
 
-# 腹和/或骨盆手术使用可吸收的粘合屏障设备的指南：行业指南
+# 用于腹部和/或盆腔手术的可吸收防粘连屏障器械指南：行业指南
 
 **Guidance for Resorbable Adhesion Barrier Devices for Use in Abdominal and/or Pelvic Surgery - Guidance for Industry**
 
@@ -186,7 +186,7 @@ FDA建议进行随机、同时控制、关键审判,因为没有明确界定的�
 您应该通过适当的随机化控制已知或疑似令人困惑的其他变数,例如使用抗炎药物,列入/排除标准,在不同的研究臂中进行评价,分层,或进行预期设计的共变式分析。
 
 4. 补充资料补充资料
-有关研究设计和统计分析问题的其他资料,见CDRH,载于题为 " 研究设计和统计分析 " 的指南文件,“非诊断医疗设备临床试验统计指南”,www.fda.gov/cdrh/ode/ot476.html。中心生物统计司根据ODE、学术界和医疗设备界的投入编写了这份指南。
+有关研究设计和统计分析问题的其他资料,见CDRH,载于题为 " 研究设计和统计分析 " 的指南文件,“非诊断医疗器械临床试验统计指南”,www.fda.gov/cdrh/ode/ot476.html。中心生物统计司根据ODE、学术界和医疗器械界的投入编写了这份指南。
 
 ### H. 案例报告表格
 

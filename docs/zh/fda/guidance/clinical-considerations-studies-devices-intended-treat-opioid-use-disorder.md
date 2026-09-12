@@ -1,10 +1,10 @@
 ---
-title: "治疗阿片类药物使用障碍的设备的临床考量：行业与食品药品管理局工作人员指南"
+title: "治疗阿片类药物使用障碍的器械临床考量：行业与FDA工作人员指南"
 description: "Clinical Considerations for Studies of Devices Intended to Treat Opioid Use Disorder: Guidance for Industry and Food and Drug Administration Staff"
 published: 2024-07-11
 ---
 
-# 治疗阿片类药物使用障碍的设备的临床考量：行业与食品药品管理局工作人员指南
+# 治疗阿片类药物使用障碍的器械临床考量：行业与FDA工作人员指南
 
 **Clinical Considerations for Studies of Devices Intended to Treat Opioid Use Disorder: Guidance for Industry and Food and Drug Administration Staff**
 
@@ -32,7 +32,7 @@ PDF：[https://www.fda.gov/media/170561/download](https://www.fda.gov/media/1705
 
 拟用于治疗阿片类药物使用障碍的器械研究的临床考量
 
-本指南代表食品药品管理局（FDA或本机构）目前对该主题的观点。它不为任何人确立任何权利，对FDA或公众亦不具约束力。若替代方法满足适用法规与条例的要求，您可采用该替代方法。如需讨论替代方法，请联系本指南扉页所列的FDA工作人员或负责办公室。
+本指南代表FDA（FDA或本机构）目前对该主题的观点。它不为任何人确立任何权利，对FDA或公众亦不具约束力。若替代方法满足适用法规与条例的要求，您可采用该替代方法。如需讨论替代方法，请联系本指南扉页所列的FDA工作人员或负责办公室。
 ## I. 简介
 阿片类药物过量危机是美国面临的严重而复杂的挑战。[^1] 本机构已采取重大步骤以减少对阿片类药物的不必要暴露、预防阿片类药物使用障碍（OUD）新发病例，并支持OUD患者的治疗。[^2] 器械与放射健康中心（CDRH）致力于帮助结束这一全国性危机。[^3]
 本指南就用于支持上市提交的、拟治疗OUD的器械关键临床试验设计提供建议。[^4] 一般而言，FDA的指南文件不确立具有法律强制力的责任。相反，指南描述本机构目前对某一主题的观点，应仅视为建议，除非引用了具体的监管或法定要求。本机构指南中使用“应当（should）”一词，表示建议或推荐，而非强制要求。
@@ -107,7 +107,7 @@ FDA鼓励申办者考虑可能有助于证明拟治疗OUD器械临床获益的�
 
 [^10]: CDRH鼓励申办者在拟治疗OUD的器械研究中纳入代表美国OUD人群的多样化人群。
 
-[^11]: 为在OUD治疗试验间保持一致性，本节建议与题为“阿片类药物使用障碍：证明治疗药品有效性的终点——行业指南”的指南一致，美国卫生与公众服务部食品药品管理局药品评价与研究中心（CDER），2020年10月。
+[^11]: 为在OUD治疗试验间保持一致性，本节建议与题为“阿片类药物使用障碍：证明治疗药品有效性的终点——行业指南”的指南一致，美国卫生与公众服务部FDA药品评价与研究中心（CDER），2020年10月。
 
 [^12]: Alan E. Kazdin, The Meanings and Measurement of Clinical Significance. Journal of Consulting and Clinical Psychology, June 1999, Volume 67, No. 3, pages 332-339.
 

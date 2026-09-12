@@ -1,10 +1,10 @@
 ---
-title: "医疗器械数据系统、医学影像存储器械与医学影像通信器械：行业与食品药品管理局工作人员指南"
+title: "医疗器械数据系统、医学影像存储器械与医学影像通信器械：行业与FDA工作人员指南"
 description: "Medical Device Data Systems, Medical Image Storage Devices, and Medical Image Communications Devices: Guidance for Industry and Food and Drug Administration Staff"
 published: 2022-09-28
 ---
 
-# 医疗器械数据系统、医学影像存储器械与医学影像通信器械：行业与食品药品管理局工作人员指南
+# 医疗器械数据系统、医学影像存储器械与医学影像通信器械：行业与FDA工作人员指南
 
 **Medical Device Data Systems, Medical Image Storage Devices, and Medical Image Communications Devices: Guidance for Industry and Food and Drug Administration Staff**
 

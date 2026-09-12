@@ -30,7 +30,7 @@ PDF：[https://www.fda.gov/media/73639/download](https://www.fda.gov/media/73639
 
 ## 官方文件全文
 
-卫生与公众服务部 公共卫生服务署 食品药品管理局
+卫生与公众服务部 公共卫生服务署 FDA
 1981年9月16日
 Rockville MD 20857
 收件人：日光灯产品（含美黑舱）制造商及潜在制造商

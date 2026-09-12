@@ -1,10 +1,10 @@
 ---
-title: "早期生长反应1 (EGR1) 基因光性现场混合化 (FISH) 测试系统的缩写510k的内容和格式：行业与食品药品管理局工作人员指南"
+title: "早期生长反应1 (EGR1) 基因光性现场混合化 (FISH) 测试系统的缩写510k的内容和格式：行业与FDA工作人员指南"
 description: "Content and Format for Abbreviated 510(k)s for Early Growth Response 1 (EGR1) Gene Fluorescence In-Situ Hybridization (FISH) Test System for Specimen Characterization Devices: Guidance for Industry and Food and Drug Administration Staff"
 published: 2015-06-17
 ---
 
-# 早期生长反应1 (EGR1) 基因光性现场混合化 (FISH) 测试系统的缩写510k的内容和格式：行业与食品药品管理局工作人员指南
+# 早期生长反应1 (EGR1) 基因光性现场混合化 (FISH) 测试系统的缩写510k的内容和格式：行业与FDA工作人员指南
 
 **Content and Format for Abbreviated 510(k)s for Early Growth Response 1 (EGR1) Gene Fluorescence In-Situ Hybridization (FISH) Test System for Specimen Characterization Devices: Guidance for Industry and Food and Drug Administration Staff**
 

@@ -1,10 +1,10 @@
 ---
-title: "整形植入器的患者匹配指南：行业与食品药品管理局工作人员指南"
+title: "整形植入器的患者匹配指南：行业与FDA工作人员指南"
 description: "Patient-Matched Guides for Orthopedic Implants: Guidance for Industry and Food and Drug Administration Staff"
 published: 2026-05-07
 ---
 
-# 整形植入器的患者匹配指南：行业与食品药品管理局工作人员指南
+# 整形植入器的患者匹配指南：行业与FDA工作人员指南
 
 **Patient-Matched Guides for Orthopedic Implants: Guidance for Industry and Food and Drug Administration Staff**
 

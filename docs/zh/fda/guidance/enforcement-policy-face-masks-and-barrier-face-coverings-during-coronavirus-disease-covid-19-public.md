@@ -1,10 +1,10 @@
 ---
-title: "在新冠病毒 (COVID-19) 疫情期间,面具和屏障面具的执行政策：行业与食品药品管理局工作人员指南"
+title: "在新冠病毒 (COVID-19) 疫情期间,面具和屏障面具的执行政策：行业与FDA工作人员指南"
 description: "Enforcement Policy for Face Masks and Barrier Face Coverings During the Coronavirus Disease (COVID-19) Public Health Emergency : Guidance for Industry and Food and Drug Administration Staff"
 published: 2023-09-05
 ---
 
-# 在新冠病毒 (COVID-19) 疫情期间,面具和屏障面具的执行政策：行业与食品药品管理局工作人员指南
+# 在新冠病毒 (COVID-19) 疫情期间,面具和屏障面具的执行政策：行业与FDA工作人员指南
 
 **Enforcement Policy for Face Masks and Barrier Face Coverings During the Coronavirus Disease (COVID-19) Public Health Emergency : Guidance for Industry and Food and Drug Administration Staff**
 

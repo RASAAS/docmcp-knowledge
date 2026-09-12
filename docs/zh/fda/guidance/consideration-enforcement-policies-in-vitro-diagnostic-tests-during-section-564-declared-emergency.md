@@ -1,10 +1,10 @@
 ---
-title: "在第564条宣布紧急情况期间,对体外诊断测试的执法政策的考虑：行业与食品药品管理局工作人员指南"
+title: "在第564条宣布紧急情况期间,对体外诊断测试的执法政策的考虑：行业与FDA工作人员指南"
 description: "Consideration of Enforcement Policies for In Vitro Diagnostic Tests During a Section 564 Declared Emergency: Guidance for Industry and Food and Drug Administration Staff"
 published: 2025-09-23
 ---
 
-# 在第564条宣布紧急情况期间,对体外诊断测试的执法政策的考虑：行业与食品药品管理局工作人员指南
+# 在第564条宣布紧急情况期间,对体外诊断测试的执法政策的考虑：行业与FDA工作人员指南
 
 **Consideration of Enforcement Policies for In Vitro Diagnostic Tests During a Section 564 Declared Emergency: Guidance for Industry and Food and Drug Administration Staff**
 

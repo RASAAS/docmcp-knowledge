@@ -1,10 +1,10 @@
 ---
-title: "关于向光子发射疗源提交预销售通知的指南：行业指南"
+title: "光子发射近距离放射治疗源上市前通知提交指南：行业指南"
 description: "Guidance for the Submission of Premarket Notifications for Photon-Emitting Brachytherapy Sources - Guidance for Industry"
 published: 2000-08-01
 ---
 
-# 关于向光子发射疗源提交预销售通知的指南：行业指南
+# 光子发射近距离放射治疗源上市前通知提交指南：行业指南
 
 **Guidance for the Submission of Premarket Notifications for Photon-Emitting Brachytherapy Sources - Guidance for Industry**
 

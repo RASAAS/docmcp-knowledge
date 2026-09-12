@@ -1,10 +1,10 @@
 ---
-title: "电子提交医疗器械的模板 De Novo 要求：行业与食品药品管理局工作人员指南"
+title: "电子提交医疗器械的模板 De Novo 要求：行业与FDA工作人员指南"
 description: "Electronic Submission Template for Medical Device De Novo Requests: Guidance for Industry and Food and Drug Administration Staff"
 published: 2024-08-23
 ---
 
-# 电子提交医疗器械的模板 De Novo 要求：行业与食品药品管理局工作人员指南
+# 电子提交医疗器械的模板 De Novo 要求：行业与FDA工作人员指南
 
 **Electronic Submission Template for Medical Device De Novo Requests: Guidance for Industry and Food and Drug Administration Staff**
 

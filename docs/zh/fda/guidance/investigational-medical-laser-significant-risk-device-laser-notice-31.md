@@ -1,10 +1,10 @@
 ---
-title: "医疗激光研究重大风险设备 (激光通告 31)"
+title: "研究用医疗激光重大风险器械(激光通告31)"
 description: "Investigational Medical Laser Significant Risk Device (Laser Notice 31)"
 published: 1981-05-18
 ---
 
-# 医疗激光研究重大风险设备 (激光通告 31)
+# 研究用医疗激光重大风险器械(激光通告31)
 
 **Investigational Medical Laser Significant Risk Device (Laser Notice 31)**
 

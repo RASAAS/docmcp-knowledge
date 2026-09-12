@@ -1,10 +1,10 @@
 ---
-title: "食品药品管理局动物产品数据库数据输入表"
+title: "FDA动物产品数据库数据输入表"
 description: "FDA Animal Products Database Data Entry Form"
 published: 1998-11-06
 ---
 
-# 食品药品管理局动物产品数据库数据输入表
+# FDA动物产品数据库数据输入表
 
 **FDA Animal Products Database Data Entry Form**
 

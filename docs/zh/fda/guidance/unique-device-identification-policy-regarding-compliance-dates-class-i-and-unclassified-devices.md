@@ -1,10 +1,10 @@
 ---
-title: "唯一设备识别:关于I类和非分类设备的合规日期,直接标记和某些设备的全球唯一设备识别数据库要求的政策：行业与食品药品管理局工作人员指南"
+title: "唯一器械标识：关于I类和未分类器械合规日期、直接标记及某些器械全球唯一器械标识数据库要求的政策：行业与FDA工作人员指南"
 description: "Unique Device Identification: Policy Regarding Compliance Dates for Class I and Unclassified Devices, Direct Marking, and Global Unique Device Identification Database Requirements for Certain Devices: Guidance for Industry and Food and Drug Administration Staff"
 published: 2022-07-25
 ---
 
-# 唯一设备识别:关于I类和非分类设备的合规日期,直接标记和某些设备的全球唯一设备识别数据库要求的政策：行业与食品药品管理局工作人员指南
+# 唯一器械标识：关于I类和未分类器械合规日期、直接标记及某些器械全球唯一器械标识数据库要求的政策：行业与FDA工作人员指南
 
 **Unique Device Identification: Policy Regarding Compliance Dates for Class I and Unclassified Devices, Direct Marking, and Global Unique Device Identification Database Requirements for Certain Devices: Guidance for Industry and Food and Drug Administration Staff**
 

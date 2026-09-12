@@ -32,7 +32,7 @@ PDF：[https://www.fda.gov/media/77779/download](https://www.fda.gov/media/77779
 ## 官方文件全文
 
 卫生与公众服务部 公共卫生服务署
-食品药品管理局
+FDA
 8757 Georgia Avenue Silver Spring MD 20910
 收件人：所有日光灯产品制造商、进口商及潜在制造商
 主题：日光灯产品最大计时器间隔与照射时间表政策

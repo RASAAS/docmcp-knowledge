@@ -1,10 +1,10 @@
 ---
-title: "准备和审查对整体人工盘 (Total Artificial Discs) 的检查设备豁免申请：行业与FDA工作人员指南"
+title: "准备和审查对整体人工盘 (Total Artificial Discs) 的研究用器械豁免申请：行业与FDA工作人员指南"
 description: "Preparation and Review of Investigational Device Exemption Applications (IDEs) for Total Artificial Discs: Guidance for Industry and FDA Staff"
 published: 2008-04-11
 ---
 
-# 准备和审查对整体人工盘 (Total Artificial Discs) 的检查设备豁免申请：行业与FDA工作人员指南
+# 准备和审查对整体人工盘 (Total Artificial Discs) 的研究用器械豁免申请：行业与FDA工作人员指南
 
 **Preparation and Review of Investigational Device Exemption Applications (IDEs) for Total Artificial Discs: Guidance for Industry and FDA Staff**
 
@@ -125,7 +125,7 @@ FDA建议您至少每百万个周期收集和描述一次碎片磨损,以确定�
 我们认为,在具有适当组织学分析的功能动物模型中进行试验,可以对任何涂层进行最佳定性和评估。
 
 4. 生物兼容性数据
-FDA可建议根据用于构成贵系统的材料进行生物兼容性测试。请参阅题为“国际标准ISO-10993的使用,医疗设备生物评价”的指南第1部分:8. 补充信息的评价和测试。我们建议你参考AAMI/ANSI/ISO 10993-1或相当的方法来说明你为解决生物兼容性而应提供哪类资料。
+FDA可建议根据用于构成贵系统的材料进行生物兼容性测试。请参阅题为“国际标准ISO-10993的使用,医疗器械生物评价”的指南第1部分:8. 补充信息的评价和测试。我们建议你参考AAMI/ANSI/ISO 10993-1或相当的方法来说明你为解决生物兼容性而应提供哪类资料。
 
 此外,FDA可以建议动物数据,说明对脊椎内装置材料的反应(见C.2节,动物数据)。
 
@@ -330,7 +330,7 @@ J Bone United Surg Br. 2001;83(7):1075-
 关于主题成功问题的其他建议,请参见脊柱系统指南调查计划一节第10项。
 
 13. 统计分析和数据列报
-我们建议你确定在研究开始之前你打算进行的统计分析的类型。采用贝叶斯或常客统计分析方法可能是适当的。请见“非诊断性医疗设备临床试验统计指南”15 和“医疗设备临床试验中使用贝叶斯统计指南”。
+我们建议你确定在研究开始之前你打算进行的统计分析的类型。采用贝叶斯或常客统计分析方法可能是适当的。请见“非诊断性医疗器械临床试验统计指南”15 和“医疗器械临床试验中使用贝叶斯统计指南”。
 
 如果在研究开始后您转换方法,我们建议您解释并模拟开关的原因,以避免可能的偏差。我们还建议你与FDA讨论任何在改变统计方法之前改变统计方法的建议。
 

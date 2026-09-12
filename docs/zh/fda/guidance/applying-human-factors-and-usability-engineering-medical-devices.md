@@ -1,10 +1,10 @@
 ---
-title: "应用人类因素和可用性工程到医疗器械：行业与食品药品管理局工作人员指南"
+title: "将人因工程和可用性工程应用于医疗器械：行业与FDA工作人员指南"
 description: "Applying Human Factors and Usability Engineering to Medical Devices: Guidance for Industry and Food and Drug Administration Staff"
 published: 2026-08-03
 ---
 
-# 应用人类因素和可用性工程到医疗器械：行业与食品药品管理局工作人员指南
+# 将人因工程和可用性工程应用于医疗器械：行业与FDA工作人员指南
 
 **Applying Human Factors and Usability Engineering to Medical Devices: Guidance for Industry and Food and Drug Administration Staff**
 

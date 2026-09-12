@@ -1,10 +1,10 @@
 ---
-title: "关于宫细胞学设备的注意点"
+title: "宫颈细胞学器械注意要点"
 description: "Points to Consider for Cervical Cytology Devices"
 published: 1994-07-25
 ---
 
-# 关于宫细胞学设备的注意点
+# 宫颈细胞学器械注意要点
 
 **Points to Consider for Cervical Cytology Devices**
 

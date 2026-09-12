@@ -1,10 +1,10 @@
 ---
-title: "对于神经瘤外科设备的 (Neurothrombectomy) 前临床和临床研究：行业与FDA工作人员指南"
+title: "神经血栓切除器械的临床前和临床研究：行业与FDA工作人员指南"
 description: "Pre-Clinical and Clinical Studies for Neurothrombectomy Devices: Guidance for Industry and FDA Staff"
 published: 2007-06-18
 ---
 
-# 对于神经瘤外科设备的 (Neurothrombectomy) 前临床和临床研究：行业与FDA工作人员指南
+# 神经血栓切除器械的临床前和临床研究：行业与FDA工作人员指南
 
 **Pre-Clinical and Clinical Studies for Neurothrombectomy Devices: Guidance for Industry and FDA Staff**
 
@@ -37,7 +37,7 @@ PDF：https://www.fda.gov/media/71411/download
 
 关于510(k)的一般信息,参见21 CFR 807.87,题为“传统和缩写510(k)s1格式”和“预先通知510(k)”的指导,载于(设备和放射健康中心)CDRH 设备建议,第0页。
 
-调查设备豁免信息参见21 CFR Part 812或“IDE简介概览”,第___
+研究用器械豁免信息参见21 CFR Part 812或“IDE简介概览”,第___
 
 关于PMA申请的一般资料,指21 CFR 814或“应用方法”,at @%0__
 

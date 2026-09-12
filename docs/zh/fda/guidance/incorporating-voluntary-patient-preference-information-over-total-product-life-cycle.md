@@ -1,10 +1,10 @@
 ---
-title: "整体产品生命周期中自愿患者偏好信息的集成：行业、食品药品管理局工作人员及其他相关方指南"
+title: "整体产品生命周期中自愿患者偏好信息的集成：行业、FDA工作人员及其他相关方指南"
 description: "Incorporating Voluntary Patient Preference Information over the Total Product Life Cycle: Guidance for Industry, Food and Drug Administration Staff, and Other Interested Parties"
 published: 2026-03-30
 ---
 
-# 整体产品生命周期中自愿患者偏好信息的集成：行业、食品药品管理局工作人员及其他相关方指南
+# 整体产品生命周期中自愿患者偏好信息的集成：行业、FDA工作人员及其他相关方指南
 
 **Incorporating Voluntary Patient Preference Information over the Total Product Life Cycle: Guidance for Industry, Food and Drug Administration Staff, and Other Interested Parties**
 
@@ -30,11 +30,11 @@ PDF：[https://www.fda.gov/media/92593/download](https://www.fda.gov/media/92593
 
 ## 官方文件全文
 
-本指南代表食品药品管理局（FDA或本机构）目前对该主题的观点。它不为任何人确立任何权利，对FDA或公众亦不具约束力。若替代方法满足适用法规与条例的要求，您可采用该替代方法。如需讨论替代方法，请联系本指南扉页所列的负责本指南的FDA工作人员或办公室。
+本指南代表FDA（FDA或本机构）目前对该主题的观点。它不为任何人确立任何权利，对FDA或公众亦不具约束力。若替代方法满足适用法规与条例的要求，您可采用该替代方法。如需讨论替代方法，请联系本指南扉页所列的负责本指南的FDA工作人员或办公室。
 
 ## I. 简介
 
-美国食品药品管理局重视患者的经验与观点。FDA理解，患有疾病或病症并在其照护中使用器械的人（以下简称“患者”）可能对器械的获益与风险形成其自身洞察与观点。FDA认为，患者能够且应当将其自身经验用于帮助FDA评价某些器械的获益—风险特征。此类输入在FDA对这些器械的决策中可能很重要。
+美国FDA重视患者的经验与观点。FDA理解，患有疾病或病症并在其照护中使用器械的人（以下简称“患者”）可能对器械的获益与风险形成其自身洞察与观点。FDA认为，患者能够且应当将其自身经验用于帮助FDA评价某些器械的获益—风险特征。此类输入在FDA对这些器械的决策中可能很重要。
 
 患者以多种形式向FDA提供有价值的输入。《联邦食品、药品和化妆品法》（FD&C法）第569C(c)(2)条（经《21世纪治愈法案》等修订）规定，就第569C条而言，“患者体验数据”一词包括旨在提供关于患者疾病或病症体验之信息的数据。FDA鼓励行业在器械开发与评价中考虑患者体验数据，包括与患者对结局与治疗偏好相关的数据。本指南聚焦于作为患者体验数据一种具体类型的“患者偏好信息”（PPI）。
 

@@ -1,10 +1,10 @@
 ---
-title: "要求审查FDA不颁发某些设备出口证书的决定的程序：行业与食品药品管理局工作人员指南"
+title: "申请复审FDA不颁发某些器械出口证书决定的程序：行业与FDA工作人员指南"
 description: "Process to Request a Review of FDA's Decision Not to Issue Certain Export Certificates for Devices: Guidance for Industry and Food and Drug Administration Staff"
 published: 2023-11-03
 ---
 
-# 要求审查FDA不颁发某些设备出口证书的决定的程序：行业与食品药品管理局工作人员指南
+# 申请复审FDA不颁发某些器械出口证书决定的程序：行业与FDA工作人员指南
 
 **Process to Request a Review of FDA's Decision Not to Issue Certain Export Certificates for Devices: Guidance for Industry and Food and Drug Administration Staff**
 

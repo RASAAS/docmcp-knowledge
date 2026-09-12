@@ -1,10 +1,10 @@
 ---
-title: "医疗器械的患者特定信息与患者分享：行业与食品药品管理局工作人员指南"
+title: "医疗器械的患者特定信息与患者分享：行业与FDA工作人员指南"
 description: "Manufacturers Sharing Patient-Specific Information from Medical Devices with Patients Upon Request: Guidance for Industry and Food and Drug Administration Staff"
 published: 2017-10-30
 ---
 
-# 医疗器械的患者特定信息与患者分享：行业与食品药品管理局工作人员指南
+# 医疗器械的患者特定信息与患者分享：行业与FDA工作人员指南
 
 **Manufacturers Sharing Patient-Specific Information from Medical Devices with Patients Upon Request: Guidance for Industry and Food and Drug Administration Staff**
 

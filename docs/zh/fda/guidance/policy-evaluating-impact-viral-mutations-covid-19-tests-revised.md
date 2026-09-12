@@ -1,10 +1,10 @@
 ---
-title: "评估病毒突变对COVID-19测试的影响的政策 (修订)：检测开发者与食品药品管理局工作人员指南"
+title: "评估病毒突变对COVID-19测试的影响的政策 (修订)：检测开发者与FDA工作人员指南"
 description: "Policy for Evaluating Impact of Viral Mutations on COVID-19 Tests (Revised): Guidance for Test Developers and Food and Drug Administration Staff"
 published: 2023-01-12
 ---
 
-# 评估病毒突变对COVID-19测试的影响的政策 (修订)：检测开发者与食品药品管理局工作人员指南
+# 评估病毒突变对COVID-19测试的影响的政策 (修订)：检测开发者与FDA工作人员指南
 
 **Policy for Evaluating Impact of Viral Mutations on COVID-19 Tests (Revised): Guidance for Test Developers and Food and Drug Administration Staff**
 

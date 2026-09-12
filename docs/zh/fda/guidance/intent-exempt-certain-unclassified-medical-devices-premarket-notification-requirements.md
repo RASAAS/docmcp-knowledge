@@ -1,10 +1,10 @@
 ---
-title: "意图免除某些未分类的医疗器械的预销售通知要求：行业与食品药品管理局工作人员指南"
+title: "拟豁免某些未分类医疗器械上市前通知要求：行业与FDA工作人员指南"
 description: "Intent to Exempt Certain Unclassified Medical Devices from Premarket Notification Requirements: Guidance for Industry and Food and Drug Administration Staff"
 published: 2026-06-05
 ---
 
-# 意图免除某些未分类的医疗器械的预销售通知要求：行业与食品药品管理局工作人员指南
+# 拟豁免某些未分类医疗器械上市前通知要求：行业与FDA工作人员指南
 
 **Intent to Exempt Certain Unclassified Medical Devices from Premarket Notification Requirements: Guidance for Industry and Food and Drug Administration Staff**
 

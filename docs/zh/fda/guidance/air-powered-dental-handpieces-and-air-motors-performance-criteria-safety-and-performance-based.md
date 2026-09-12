@@ -1,10 +1,10 @@
 ---
-title: "气动牙科手机和气动马达 - 基于安全与性能路径的性能标准：行业与食品药品管理局工作人员指南"
+title: "气动牙科手机和气动马达 - 基于安全与性能路径的性能标准：行业与FDA工作人员指南"
 description: "Air Powered Dental Handpieces and Air Motors - Performance Criteria for Safety and Performance Based Pathway: Guidance for Industry and Food and Drug Administration Staff"
 published: 2024-09-30
 ---
 
-# 气动牙科手机和气动马达 - 基于安全与性能路径的性能标准：行业与食品药品管理局工作人员指南
+# 气动牙科手机和气动马达 - 基于安全与性能路径的性能标准：行业与FDA工作人员指南
 
 **Air Powered Dental Handpieces and Air Motors - Performance Criteria for Safety and Performance Based Pathway: Guidance for Industry and Food and Drug Administration Staff**
 

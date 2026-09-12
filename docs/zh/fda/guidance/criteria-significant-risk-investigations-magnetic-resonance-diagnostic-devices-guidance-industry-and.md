@@ -1,10 +1,10 @@
 ---
-title: "磁共振诊断设备的重大 风险调查标准：行业与食品药品管理局工作人员指南"
+title: "磁共振诊断器械重大风险研究标准：行业与FDA工作人员指南"
 description: "Criteria for Significant Risk Investigations of Magnetic Resonance Diagnostic Devices - Guidance for Industry and Food and Drug Administration Staff"
 published: 2014-06-19
 ---
 
-# 磁共振诊断设备的重大 风险调查标准：行业与食品药品管理局工作人员指南
+# 磁共振诊断器械重大风险研究标准：行业与FDA工作人员指南
 
 **Criteria for Significant Risk Investigations of Magnetic Resonance Diagnostic Devices - Guidance for Industry and Food and Drug Administration Staff**
 

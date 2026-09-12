@@ -1,10 +1,10 @@
 ---
-title: "支持患者监测的非侵入式远程监测设备的执行政策：行业与食品药品管理局工作人员指南"
+title: "用于支持患者监测的非侵入式远程监测器械执法政策：行业与FDA工作人员指南"
 description: "Enforcement Policy for Non-Invasive Remote Monitoring Devices Used to Support Patient Monitoring: Guidance for Industry and Food and Drug Administration Staff"
 published: 2023-10-19
 ---
 
-# 支持患者监测的非侵入式远程监测设备的执行政策：行业与食品药品管理局工作人员指南
+# 用于支持患者监测的非侵入式远程监测器械执法政策：行业与FDA工作人员指南
 
 **Enforcement Policy for Non-Invasive Remote Monitoring Devices Used to Support Patient Monitoring: Guidance for Industry and Food and Drug Administration Staff**
 

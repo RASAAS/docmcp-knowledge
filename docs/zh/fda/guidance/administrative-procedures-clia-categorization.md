@@ -1,10 +1,10 @@
 ---
-title: "关于CLI类别的行政程序：行业与食品药品管理局工作人员指南"
+title: "关于CLI类别的行政程序：行业与FDA工作人员指南"
 description: "Administrative Procedures for CLIA Categorization: Guidance for Industry and Food and Drug Administration Staff"
 published: 2017-10-02
 ---
 
-# 关于CLI类别的行政程序：行业与食品药品管理局工作人员指南
+# 关于CLI类别的行政程序：行业与FDA工作人员指南
 
 **Administrative Procedures for CLIA Categorization: Guidance for Industry and Food and Drug Administration Staff**
 

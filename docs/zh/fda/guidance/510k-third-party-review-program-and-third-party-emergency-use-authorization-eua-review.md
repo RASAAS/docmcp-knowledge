@@ -1,10 +1,10 @@
 ---
-title: "510(k) 第三方审查计划和第三方紧急使用许可 (EUA) 审查：行业、食品药品管理局工作人员与第三方审评组织指南"
+title: "510(k) 第三方审查计划和第三方紧急使用许可 (EUA) 审查：行业、FDA工作人员与第三方审评组织指南"
 description: "510(k) Third Party Review Program and Third Party Emergency Use Authorization (EUA) Review: Guidance for Industry, Food and Drug Administration Staff, and Third Party Review Organizations"
 published: 2024-11-21
 ---
 
-# 510(k) 第三方审查计划和第三方紧急使用许可 (EUA) 审查：行业、食品药品管理局工作人员与第三方审评组织指南
+# 510(k) 第三方审查计划和第三方紧急使用许可 (EUA) 审查：行业、FDA工作人员与第三方审评组织指南
 
 **510(k) Third Party Review Program and Third Party Emergency Use Authorization (EUA) Review: Guidance for Industry, Food and Drug Administration Staff, and Third Party Review Organizations**
 

@@ -1,10 +1,10 @@
 ---
-title: "肠道牙植入物和肠道牙植入物 - 安全性和性能的性能标准：行业与食品药品管理局工作人员指南"
+title: "肠道牙植入物和肠道牙植入物 - 安全性和性能的性能标准：行业与FDA工作人员指南"
 description: "Endosseous Dental Implants and Endosseous Dental Implant Abutments - Performance Criteria for Safety and Performance Based Pathway: Guidance for Industry and Food and Drug Administration Staff"
 published: 2024-10-15
 ---
 
-# 肠道牙植入物和肠道牙植入物 - 安全性和性能的性能标准：行业与食品药品管理局工作人员指南
+# 肠道牙植入物和肠道牙植入物 - 安全性和性能的性能标准：行业与FDA工作人员指南
 
 **Endosseous Dental Implants and Endosseous Dental Implant Abutments - Performance Criteria for Safety and Performance Based Pathway: Guidance for Industry and Food and Drug Administration Staff**
 

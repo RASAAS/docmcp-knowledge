@@ -1,10 +1,10 @@
 ---
-title: "专为手动使用的X射线 设备的辐射安全考虑因素"
+title: "手持式X射线设备的辐射安全考量"
 description: "Radiation Safety Considerations for X-Ray Equipment Designed for Hand-Held Use"
 published: 2008-12-23
 ---
 
-# 专为手动使用的X射线 设备的辐射安全考虑因素
+# 手持式X射线设备的辐射安全考量
 
 **Radiation Safety Considerations for X-Ray Equipment Designed for Hand-Held Use**
 

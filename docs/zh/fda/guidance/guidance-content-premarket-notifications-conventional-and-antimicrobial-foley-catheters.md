@@ -1,10 +1,10 @@
 ---
-title: "对于常规和抗微生物片片类的预销售通知内容的指导"
+title: "常规和抗菌弗利导尿管上市前通知内容指南"
 description: "Guidance for the Content of Premarket Notifications for Conventional and Antimicrobial Foley Catheters"
 published: 1994-09-11
 ---
 
-# 对于常规和抗微生物片片类的预销售通知内容的指导
+# 常规和抗菌弗利导尿管上市前通知内容指南
 
 **Guidance for the Content of Premarket Notifications for Conventional and Antimicrobial Foley Catheters**
 

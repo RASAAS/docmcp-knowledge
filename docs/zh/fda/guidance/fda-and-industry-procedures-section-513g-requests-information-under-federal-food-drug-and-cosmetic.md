@@ -1,10 +1,10 @@
 ---
-title: "根据《联邦食品、药品和化妆品法案》要求获取信息的要求：行业与食品药品管理局工作人员指南"
+title: "根据《联邦食品、药品和化妆品法案》要求获取信息的要求：行业与FDA工作人员指南"
 description: "FDA and Industry Procedures for Section 513(g) Requests for Information under the Federal Food, Drug, and Cosmetic Act: Guidance for Industry and Food and Drug Administration Staff"
 published: 2024-08-23
 ---
 
-# 根据《联邦食品、药品和化妆品法案》要求获取信息的要求：行业与食品药品管理局工作人员指南
+# 根据《联邦食品、药品和化妆品法案》要求获取信息的要求：行业与FDA工作人员指南
 
 **FDA and Industry Procedures for Section 513(g) Requests for Information under the Federal Food, Drug, and Cosmetic Act: Guidance for Industry and Food and Drug Administration Staff**
 

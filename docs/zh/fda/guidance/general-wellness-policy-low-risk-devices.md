@@ -1,10 +1,10 @@
 ---
-title: "一般健康：低风险器械政策：行业与食品药品管理局工作人员指南"
+title: "一般健康：低风险器械政策：行业与FDA工作人员指南"
 description: "General Wellness: Policy for Low Risk Devices: Guidance for Industry and Food and Drug Administration Staff"
 published: 2026-01-06
 ---
 
-# 一般健康：低风险器械政策：行业与食品药品管理局工作人员指南
+# 一般健康：低风险器械政策：行业与FDA工作人员指南
 
 **General Wellness: Policy for Low Risk Devices: Guidance for Industry and Food and Drug Administration Staff**
 

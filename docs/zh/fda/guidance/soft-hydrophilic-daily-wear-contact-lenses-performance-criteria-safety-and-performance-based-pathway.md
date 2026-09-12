@@ -1,10 +1,10 @@
 ---
-title: "软 (水力) 日用隐形眼镜 - 基于安全与性能路径的性能标准：行业与食品药品管理局工作人员指南"
+title: "软 (水力) 日用隐形眼镜 - 基于安全与性能路径的性能标准：行业与FDA工作人员指南"
 description: "Soft (Hydrophilic) Daily Wear Contact Lenses - Performance Criteria for Safety and Performance Based Pathway: Guidance for Industry and Food and Drug Administration Staff"
 published: 2023-03-28
 ---
 
-# 软 (水力) 日用隐形眼镜 - 基于安全与性能路径的性能标准：行业与食品药品管理局工作人员指南
+# 软 (水力) 日用隐形眼镜 - 基于安全与性能路径的性能标准：行业与FDA工作人员指南
 
 **Soft (Hydrophilic) Daily Wear Contact Lenses - Performance Criteria for Safety and Performance Based Pathway: Guidance for Industry and Food and Drug Administration Staff**
 

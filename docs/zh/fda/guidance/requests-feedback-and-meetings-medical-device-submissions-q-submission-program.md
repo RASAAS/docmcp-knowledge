@@ -1,10 +1,10 @@
 ---
-title: "医疗器械提交的反请求和会议:Q提交计划：行业与食品药品管理局工作人员最终指南"
+title: "医疗器械提交的反请求和会议:Q提交计划：行业与FDA工作人员最终指南"
 description: "Requests for Feedback and Meetings for Medical Device Submissions: The Q-Submission Program: - Final Guidance for Industry and Food and Drug Administration Staff"
 published: 2025-05-29
 ---
 
-# 医疗器械提交的反请求和会议:Q提交计划：行业与食品药品管理局工作人员最终指南
+# 医疗器械提交的反请求和会议:Q提交计划：行业与FDA工作人员最终指南
 
 **Requests for Feedback and Meetings for Medical Device Submissions: The Q-Submission Program: - Final Guidance for Industry and Food and Drug Administration Staff**
 

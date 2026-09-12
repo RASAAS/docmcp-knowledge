@@ -1,10 +1,10 @@
 ---
-title: "承认和撤销自愿共识标准：行业与食品药品管理局工作人员指南"
+title: "自愿性协调标准的认可和撤销：行业与FDA工作人员指南"
 description: "Recognition and Withdrawal of Voluntary Consensus Standards: Guidance for Industry and Food and Drug Administration Staff"
 published: 2020-09-15
 ---
 
-# 承认和撤销自愿共识标准：行业与食品药品管理局工作人员指南
+# 自愿性协调标准的认可和撤销：行业与FDA工作人员指南
 
 **Recognition and Withdrawal of Voluntary Consensus Standards: Guidance for Industry and Food and Drug Administration Staff**
 
@@ -31,9 +31,9 @@ PDF：[https://www.fda.gov/media/71995/download](https://www.fda.gov/media/71995
 
 ## 官方文件全文
 
-本指南代表食品药品管理局（FDA或本机构）目前对该主题的观点。它不为任何人确立任何权利，对FDA或公众亦不具约束力。若替代方法满足适用法规与条例的要求，您可采用该替代方法。如需讨论替代方法，请联系本指南扉页所列的FDA工作人员或负责办公室。
+本指南代表FDA（FDA或本机构）目前对该主题的观点。它不为任何人确立任何权利，对FDA或公众亦不具约束力。若替代方法满足适用法规与条例的要求，您可采用该替代方法。如需讨论替代方法，请联系本指南扉页所列的FDA工作人员或负责办公室。
 ## I. 简介
-食品药品管理局（FDA）制定本文件，旨在就器械与放射健康中心（CDRH）在收到医疗产品自愿共识标准认可请求时遵循的程序，向行业与FDA工作人员提供指南。[^1] 本指南概述全部、部分或不予认可标准的原则，以及撤销认可的理由与依据。
+FDA（FDA）制定本文件，旨在就器械与放射健康中心（CDRH）在收到医疗产品自愿共识标准认可请求时遵循的程序，向行业与FDA工作人员提供指南。[^1] 本指南概述全部、部分或不予认可标准的原则，以及撤销认可的理由与依据。
 本文件所引用的FDA认可共识标准现行版本，见FDA认可共识标准数据库。[^2]
 FDA的指南文件（包括本指南）不确立具有法律强制力的责任。相反，指南描述本机构目前对某一主题的观点，应仅视为建议，除非引用了具体的监管或法定要求。本机构指南中使用“应当（should）”一词，表示建议或推荐，而非强制要求。
 ## II. 背景

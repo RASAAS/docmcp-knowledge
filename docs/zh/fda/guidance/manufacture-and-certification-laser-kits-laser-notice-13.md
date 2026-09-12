@@ -1,10 +1,10 @@
 ---
-title: "激光设备的制造和认证 (激光设备的通知 13)"
+title: "激光套件的制造和认证(激光通告13)"
 description: "Manufacture and Certification of Laser Kits (Laser Notice 13)"
 published: 1976-10-14
 ---
 
-# 激光设备的制造和认证 (激光设备的通知 13)
+# 激光套件的制造和认证(激光通告13)
 
 **Manufacture and Certification of Laser Kits (Laser Notice 13)**
 

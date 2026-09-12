@@ -1,10 +1,10 @@
 ---
-title: "标签建议:第三方和医院对一次性使用设备进行回收处理:工业和FDA的最终指导"
+title: "第三方和医院再处理的一次性使用器械的标签建议：行业与FDA最终指南"
 description: "Labeling Recommendations for Single-Use Devices Reprocessed by Third Parties and Hospitals: Final Guidance for Industry and FDA"
 published: 2001-07-30
 ---
 
-# 标签建议:第三方和医院对一次性使用设备进行回收处理:工业和FDA的最终指导
+# 第三方和医院再处理的一次性使用器械的标签建议：行业与FDA最终指南
 
 **Labeling Recommendations for Single-Use Devices Reprocessed by Third Parties and Hospitals: Final Guidance for Industry and FDA**
 

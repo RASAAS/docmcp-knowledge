@@ -1,10 +1,10 @@
 ---
-title: "在电力结过程中使用的组织控制系统的非临床性能评估：行业与食品药品管理局工作人员指南"
+title: "在电力结过程中使用的组织控制系统的非临床性能评估：行业与FDA工作人员指南"
 description: "Non-Clinical Performance Assessment of Tissue Containment Systems Used During Power Morcellation Procedures: Guidance for Industry and Food and Drug Administration Staff"
 published: 2023-05-26
 ---
 
-# 在电力结过程中使用的组织控制系统的非临床性能评估：行业与食品药品管理局工作人员指南
+# 在电力结过程中使用的组织控制系统的非临床性能评估：行业与FDA工作人员指南
 
 **Non-Clinical Performance Assessment of Tissue Containment Systems Used During Power Morcellation Procedures: Guidance for Industry and Food and Drug Administration Staff**
 

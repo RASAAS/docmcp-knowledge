@@ -1,10 +1,10 @@
 ---
-title: "突破性设备计划：行业与食品药品管理局工作人员指南"
+title: "突破性器械计划：行业与FDA工作人员指南"
 description: "Breakthrough Devices Program: Guidance for Industry and Food and Drug Administration Staff"
 published: 2023-09-14
 ---
 
-# 突破性设备计划：行业与食品药品管理局工作人员指南
+# 突破性器械计划：行业与FDA工作人员指南
 
 **Breakthrough Devices Program: Guidance for Industry and Food and Drug Administration Staff**
 

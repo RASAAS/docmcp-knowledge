@@ -1,10 +1,10 @@
 ---
-title: "关于批准预销售许可 (PMA) 或人道主义设备豁免 (HDE) 申请的某些补充剂的执行政策：行业与食品药品管理局工作人员指南"
+title: "已批准上市前批准(PMA)或人道主义器械豁免(HDE)申请的某些补充申请的执法政策：行业与FDA工作人员指南"
 description: "Enforcement Policy for Certain Supplements for Approved Premarket Approval (PMA) or Humanitarian Device Exemption (HDE) Submissions: Guidance for Industry and Food and Drug Administration Staff"
 published: 2023-11-02
 ---
 
-# 关于批准预销售许可 (PMA) 或人道主义设备豁免 (HDE) 申请的某些补充剂的执行政策：行业与食品药品管理局工作人员指南
+# 已批准上市前批准(PMA)或人道主义器械豁免(HDE)申请的某些补充申请的执法政策：行业与FDA工作人员指南
 
 **Enforcement Policy for Certain Supplements for Approved Premarket Approval (PMA) or Humanitarian Device Exemption (HDE) Submissions: Guidance for Industry and Food and Drug Administration Staff**
 

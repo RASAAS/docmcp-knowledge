@@ -1,10 +1,10 @@
 ---
-title: "预销售通知 [510(k) 化学指标的申请：行业与FDA工作人员指南"
+title: "化学指示剂上市前通知[510(k)]提交：行业与FDA工作人员指南"
 description: "Premarket Notification [510(k)] Submissions for Chemical Indicators - Guidance for Industry and FDA Staff"
 published: 2003-12-18
 ---
 
-# 预销售通知 [510(k) 化学指标的申请：行业与FDA工作人员指南
+# 化学指示剂上市前通知[510(k)]提交：行业与FDA工作人员指南
 
 **Premarket Notification [510(k)] Submissions for Chemical Indicators - Guidance for Industry and FDA Staff**
 
@@ -311,7 +311,7 @@ ANSI/AAMI ST 66:1999,保健产品绝育 -- -- 化学指标 -- -- 第2部分:2级
 
 ANSI/AAMI/ISO TIR TIR 11139:2002,保健产品绝育-词汇
 
-FDA:“保险:医疗设备管制要求”(HHS出版物,FDA 89-4203)美国食品药品监督管理局,9200 Corporation Blvd.,Rockville,MD 20850,MD 20850,FDA 89-4203。1989年(__
+FDA:“保险:医疗器械管制要求”(HHS出版物,FDA 89-4203)美国食品药品监督管理局,9200 Corporation Blvd.,Rockville,MD 20850,MD 20850,FDA 89-4203。1989年(__
 17个
 ## XIII. 化学指标510(k) 核对清单 是 是 否 N/A 项目
 

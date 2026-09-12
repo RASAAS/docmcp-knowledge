@@ -1,10 +1,10 @@
 ---
-title: "动物研究的一般考虑因素,用于评估医疗器械：行业与食品药品管理局工作人员指南"
+title: "动物研究的一般考虑因素,用于评估医疗器械：行业与FDA工作人员指南"
 description: "General Considerations for Animal Studies Intended to Evaluate Medical Devices: Guidance for Industry and Food and Drug Administration Staff"
 published: 2023-03-28
 ---
 
-# 动物研究的一般考虑因素,用于评估医疗器械：行业与食品药品管理局工作人员指南
+# 动物研究的一般考虑因素,用于评估医疗器械：行业与FDA工作人员指南
 
 **General Considerations for Animal Studies Intended to Evaluate Medical Devices: Guidance for Industry and Food and Drug Administration Staff**
 

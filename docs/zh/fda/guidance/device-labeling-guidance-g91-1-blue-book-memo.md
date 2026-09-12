@@ -1,10 +1,10 @@
 ---
-title: "设备标签指南#G91-1 (蓝色书记)"
+title: "器械标签指南#G91-1(蓝皮书备忘录)"
 description: "Device Labeling Guidance #G91-1 (Blue Book Memo)"
 published: 1991-03-07
 ---
 
-# 设备标签指南#G91-1 (蓝色书记)
+# 器械标签指南#G91-1(蓝皮书备忘录)
 
 **Device Labeling Guidance #G91-1 (Blue Book Memo)**
 

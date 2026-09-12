@@ -1,10 +1,10 @@
 ---
-title: "植入用于血调分析的血液接入设备：行业与食品药品管理局工作人员指南"
+title: "血液透析植入式血管通路器械：行业与FDA工作人员指南"
 description: "Implanted Blood Access Devices for Hemodialysis: Guidance for Industry and Food and Drug Administration Staff"
 published: 2016-01-21
 ---
 
-# 植入用于血调分析的血液接入设备：行业与食品药品管理局工作人员指南
+# 血液透析植入式血管通路器械：行业与FDA工作人员指南
 
 **Implanted Blood Access Devices for Hemodialysis: Guidance for Industry and Food and Drug Administration Staff**
 
@@ -30,7 +30,7 @@ PDF：[https://www.fda.gov/media/83696/download](https://www.fda.gov/media/83696
 
 ## 官方文件全文
 
-本指南代表食品药品管理局（FDA或本机构）目前对该主题的观点。它不为任何人确立任何权利，对FDA或公众亦不具约束力。若替代方法满足适用法规与条例的要求，您可采用该替代方法。如需讨论替代方法，请联系本指南扉页所列的负责本指南的FDA工作人员。
+本指南代表FDA（FDA或本机构）目前对该主题的观点。它不为任何人确立任何权利，对FDA或公众亦不具约束力。若替代方法满足适用法规与条例的要求，您可采用该替代方法。如需讨论替代方法，请联系本指南扉页所列的负责本指南的FDA工作人员。
 
 ## I. 简介
 

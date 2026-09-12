@@ -1,10 +1,10 @@
 ---
-title: "周围皮肤转光血管 (PTA) 和专业管 - 上市前通知 (510(k)) 提交：行业与食品药品管理局工作人员指南"
+title: "周围皮肤转光血管 (PTA) 和专业管 - 上市前通知 (510(k)) 提交：行业与FDA工作人员指南"
 description: "Peripheral Percutaneous Transluminal Angioplasty (PTA) and Specialty Catheters - Premarket Notification (510(k)) Submissions: Guidance for Industry and Food and Drug Administration Staff"
 published: 2023-04-14
 ---
 
-# 周围皮肤转光血管 (PTA) 和专业管 - 上市前通知 (510(k)) 提交：行业与食品药品管理局工作人员指南
+# 周围皮肤转光血管 (PTA) 和专业管 - 上市前通知 (510(k)) 提交：行业与FDA工作人员指南
 
 **Peripheral Percutaneous Transluminal Angioplasty (PTA) and Specialty Catheters - Premarket Notification (510(k)) Submissions: Guidance for Industry and Food and Drug Administration Staff**
 

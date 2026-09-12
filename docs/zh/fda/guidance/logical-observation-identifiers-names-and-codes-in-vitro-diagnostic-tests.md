@@ -1,10 +1,10 @@
 ---
-title: "体外诊断检测的逻辑观察标识符名称与代码（LOINC）：行业与食品药品管理局工作人员指南"
+title: "体外诊断检测的逻辑观察标识符名称与代码(LOINC)：行业与FDA工作人员指南"
 description: "Logical Observation Identifiers Names and Codes for In Vitro Diagnostic Tests : Guidance for Industry and Food and Drug Administration Staff"
 published: 2018-06-15
 ---
 
-# 体外诊断检测的逻辑观察标识符名称与代码（LOINC）：行业与食品药品管理局工作人员指南
+# 体外诊断检测的逻辑观察标识符名称与代码(LOINC)：行业与FDA工作人员指南
 
 **Logical Observation Identifiers Names and Codes for In Vitro Diagnostic Tests : Guidance for Industry and Food and Drug Administration Staff**
 

@@ -1,10 +1,10 @@
 ---
-title: "关于预销售通知的指南 510 ((k) 适用于医疗保健设施的灭菌剂"
+title: "医疗保健设施用灭菌器上市前通知510(k)指南"
 description: "Guidance on Premarket Notification 510(k) for Sterilizers Intended for Use in Health Care Facilities"
 published: 1993-03-01
 ---
 
-# 关于预销售通知的指南 510 ((k) 适用于医疗保健设施的灭菌剂
+# 医疗保健设施用灭菌器上市前通知510(k)指南
 
 **Guidance on Premarket Notification 510(k) for Sterilizers Intended for Use in Health Care Facilities**
 
@@ -90,7 +90,7 @@ D e f i n i t i o s 生物负荷:在接触杀微生物剂过程之前自然产�
 化学指标(CI):承运人浸入或装满化学化合物,在接触特定化学品和/或物理条件时,将经历已知反应,如颜色变化,或产生数量可计量的反应产品。ACI指出,医疗器械受到一种或多种程序条件的照射,除非CCI综合所有程序条件,它不是评估该进程有效性的适当检验标准。
 死亡率曲线(或幸存者曲线):特定微生物群中特定杀微生物剂微生物消毒动脉的图形表示。
 D- 值( Dlo): 杀死90%的同质微生物所需的时间。 (一个对数循环) 。 为计算目的,假设 tk? :杀人率是继一等动动脉后
-无机和有机载荷:自然发生或人工放置无机(例如金属盐类)或有机(例如:医疗设备上的污染物在先受到杀微生物过程的杀菌剂接触,自然生成的有机负荷也称为生物负荷。
+无机和有机载荷:自然发生或人工放置无机(例如金属盐类)或有机(例如:医疗器械上的污染物在先受到杀微生物过程的杀菌剂接触,自然生成的有机负荷也称为生物负荷。
 微生物绝育动因:物理或化学消毒剂或消毒剂对微生物死亡的数量机制和影响。
 
 过精化:绝育手术的根据是任意确定的初始浓度和生物负荷抗药性高于实际预计的绝育医疗器械。超杀法过程通常基于Lo6聚居形成单位/单位的生物负担水平。这种方法将用于确定医疗机构中使用的消毒剂的程序参数。
@@ -167,7 +167,7 @@ FDA可就其他已公布的文件,如以下文件,就可就申请方(e e r t h e
 应提交按照th e ret'crenced Documents和i nadplication t o t h i s 指导准则进行的 l l 测试的概要。
 s ub m i t t e r 产生一项n 义务 t o 遵守 a) 。文档t h e s t e r i l i z e r 被索赔为 t o m e e t 作为支持性证据 o f s f e t y 和有效性。
 下列文件提供a. s. i?i f i c a n t a t a o t a o f 有关新 s t e r i z e r s 的验证信息, 并使用过 i n 的参考文献 i n 开发 t h i s CpziLance :AAMI S t e i z a t i o o n 标准 f o r vore and EtO block, S. E.,《消毒》,S. E., St e ri i z a t i o o n ;《保存》,第四版,《Lea & Fubiger》, Phila. Pa。
-1991. St r i l e医疗设备,格林尼治方案讲习班手册,FDA出版物884-4174
+1991. St r i l e医疗器械,格林尼治方案讲习班手册,FDA出版物884-4174
 
 F. 与《公约》有关
 申请人必须提交消毒剂的标签。标签说明该器械的预定用途、其操作特性和限制。这些因素对于确定该装置是否等同于其他合法销售的消毒剂至关重要。
@@ -412,7 +412,7 @@ t e s t i n g 可能因t h e 抗微生物剂、其预定用途和d i r e c t i o
 申请者 t h 有义务选择 r e e i a b l e 最先进的 m&thology  t o 演示 t h e a f e t y y t t e e 抗菌剂 f r 其预定用途。
 环保局提交的数据可能无法处理上述因素。
 - t t e s t 必要 t o 的种类细节,在 t h i s 文档范围以外的 t h e 范围,从 t o 开始 t i c i t y d a r e 。
-提交者应提及 t o t h e T r i p a r t e 生物兼容性 指导 f o r 医疗设备 , t h e i t e r a t u r e ,以及其他有关出版物 f o r 更多信息。
+提交者应提及 t o t h e T r i p a r t e 生物兼容性 指导 f o r 医疗器械 , t h e i t e r a t u r e ,以及其他有关出版物 f o r 更多信息。
 0. 消除有毒Pr o c e 残留物
 赞助方必须确定副产品残留物在/在th e 医疗产品上残留的成分。
 残留物的 i e n t t y, 其浓度在/处理的各种材料上(范围为l b e l i n g 中定义的 m te e r i a s),必须确定和列报已知 t o x i c 水平的这些数值,并进行比较分析 i n t h e 510 (k).
@@ -442,7 +442,7 @@ e e, f l e x u r r p e, e-e e, f l e x u p r o e, e-e-e, e-e-e, e-, e-, ee e i s
 测试必须在两个过程之间 i n c o r r p o o r a te e imulzted u e c o n d i i t i o n s 上 t h e 测试物品上进行。
 e e x t e n s i v e 已公布的测试方法 f o r e , e p i c a n t r e r t t e e 方法 i n 设计测试协议。
 申请方对每张 r t i c l e e 进行测试,测试 r t i c e e 和 t h e 。
-T r i p a r t  t e 生物兼容性 指导 f o r 医疗设备应使用 s r e f e n c e t o i d e n t i f y t h e p p r o i a te s t s s 。
+T r i p a r t  t e 生物兼容性 指导 f o r 医疗器械应使用 s r e f e n c e t o i d e n t i f y t h e p p r o i a te s t s s 。
 a p p l i c a n t 应该 i d ne t i f y y any o t h e r 参考文献 使用 f o r 来确定 t e s 。
 IS0 1 9 4可用作2个参考。
 对于 m e t l s , 某些 s u r f a c e tstss 可能是 u s e f u l, e. g., SEM, c o t a c t 角度。

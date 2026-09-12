@@ -1,10 +1,10 @@
 ---
-title: "抗微生物敏感性测试系统设备 更新设备标签的断点：行业与食品药品管理局工作人员指南"
+title: "抗菌药敏试验(AST)系统器械 - 更新器械标签中的折点：行业与FDA工作人员指南"
 description: "Antimicrobial Susceptibility Test (AST) System Devices – Updating Breakpoints in Device Labeling: Guidance for Industry and Food and Drug Administration Staff"
 published: 2023-09-29
 ---
 
-# 抗微生物敏感性测试系统设备 更新设备标签的断点：行业与食品药品管理局工作人员指南
+# 抗菌药敏试验(AST)系统器械 - 更新器械标签中的折点：行业与FDA工作人员指南
 
 **Antimicrobial Susceptibility Test (AST) System Devices – Updating Breakpoints in Device Labeling: Guidance for Industry and Food and Drug Administration Staff**
 
@@ -71,7 +71,7 @@ AST系统装置旨在确定细菌或真菌病原体受不同抗微生物剂的�
 PRH PRH 积极血液文化鉴定和Ast Ast Kit
 
 FDA鼓励制造商与微生物装置司、卫生技术厅7、产品评价和质量厅联系,装置和辐射健康中心(DMD/OHT7/OPEQ/CDRH),本指南未涉及其他问题,包括本指南是否适用于特定器械的问题。
-赞助方也可通过提交前程序要求提供反馈。特别是,如果在你的营销材料中有兴趣提出PCCP,我们鼓励你提交一份提交前报告,以便与CDRH进行进一步讨论。请参阅题为“医疗设备提交反馈和会议请求:质量方案”的指南。
+赞助方也可通过提交前程序要求提供反馈。特别是,如果在你的营销材料中有兴趣提出PCCP,我们鼓励你提交一份提交前报告,以便与CDRH进行进一步讨论。请参阅题为“医疗器械提交反馈和会议请求:质量方案”的指南。
 
 ## IV. AST 系统设备设备标签标签中更新中断点
 
@@ -145,7 +145,7 @@ FDA认为,这种办法往往对装置发起人来说负担最轻,他们要及时
 
 [^14]: 可用于 @% 0 @ @ 510k- change- al- along- section
 
-[^16]: 可在下列地点查阅:++0-会议-医疗设备提交文件-q-提交方案
+[^16]: 可在下列地点查阅:++0-会议-医疗器械提交文件-q-提交方案
 
 [^17]: 21 CFR 807.81(a)(3)。 制造商可使用PCCP及时将更新的断点纳入AST系统装置标签。
 

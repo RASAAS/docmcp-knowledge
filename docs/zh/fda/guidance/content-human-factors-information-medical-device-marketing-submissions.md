@@ -1,10 +1,10 @@
 ---
-title: "医疗器械市场营销提交中的人体因素信息内容：行业与食品药品管理局工作人员指南"
+title: "医疗器械市场营销提交中的人体因素信息内容：行业与FDA工作人员指南"
 description: "Content of Human Factors Information in Medical Device Marketing Submissions: Guidance for Industry and Food and Drug Administration Staff"
 published: 2026-05-29
 ---
 
-# 医疗器械市场营销提交中的人体因素信息内容：行业与食品药品管理局工作人员指南
+# 医疗器械市场营销提交中的人体因素信息内容：行业与FDA工作人员指南
 
 **Content of Human Factors Information in Medical Device Marketing Submissions: Guidance for Industry and Food and Drug Administration Staff**
 

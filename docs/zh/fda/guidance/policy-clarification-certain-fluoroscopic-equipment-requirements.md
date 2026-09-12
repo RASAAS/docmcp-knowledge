@@ -1,10 +1,10 @@
 ---
-title: "关于某些光镜设备要求的政策澄清：行业与食品药品管理局工作人员指南"
+title: "某些透视设备要求的政策澄清：行业与FDA工作人员指南"
 description: "Policy Clarification for Certain Fluoroscopic Equipment Requirements: Guidance for Industry and Food and Drug Administration Staff"
 published: 2019-05-08
 ---
 
-# 关于某些光镜设备要求的政策澄清：行业与食品药品管理局工作人员指南
+# 某些透视设备要求的政策澄清：行业与FDA工作人员指南
 
 **Policy Clarification for Certain Fluoroscopic Equipment Requirements: Guidance for Industry and Food and Drug Administration Staff**
 
@@ -31,7 +31,7 @@ PDF：[https://www.fda.gov/media/89919/download](https://www.fda.gov/media/89919
 
 ## 官方文件全文
 
-本指南代表食品药品管理局（FDA或本机构）目前对该主题的观点。它不为任何人确立任何权利，对FDA或公众亦不具约束力。若替代方法满足适用法规与条例的要求，您可采用该替代方法。如需讨论替代方法，请联系本指南扉页所列的FDA工作人员或负责办公室。
+本指南代表FDA（FDA或本机构）目前对该主题的观点。它不为任何人确立任何权利，对FDA或公众亦不具约束力。若替代方法满足适用法规与条例的要求，您可采用该替代方法。如需讨论替代方法，请联系本指南扉页所列的FDA工作人员或负责办公室。
 ## I. 简介
 本指南文件旨在澄清FDA对21 CFR 1020.30与1020.32中透视设备性能标准要求某些方面的解释。
 本文件所引用的FDA认可标准现行版本，见FDA认可共识标准数据库。[^1]

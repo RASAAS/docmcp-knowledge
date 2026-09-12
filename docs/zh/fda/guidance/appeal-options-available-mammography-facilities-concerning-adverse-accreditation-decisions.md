@@ -1,10 +1,10 @@
 ---
-title: "关于不良认证决定,证书暂停/撤销或患者和指导提供商通知命令的镜设施可申请的选择:镜设施和食品药品管理局人员指南"
+title: "关于不良认证决定,证书暂停/撤销或患者和指导提供商通知命令的镜设施可申请的选择:镜设施和FDA人员指南"
 description: "Appeal Options Available to Mammography Facilities Concerning Adverse Accreditation Decisions, Suspension/Revocation of Certificates, or Patient and Referring Provider Notification Orders: Guidance for Mammography Facilities and Food and Drug Administration Staff"
 published: 2024-09-10
 ---
 
-# 关于不良认证决定,证书暂停/撤销或患者和指导提供商通知命令的镜设施可申请的选择:镜设施和食品药品管理局人员指南
+# 关于不良认证决定,证书暂停/撤销或患者和指导提供商通知命令的镜设施可申请的选择:镜设施和FDA人员指南
 
 **Appeal Options Available to Mammography Facilities Concerning Adverse Accreditation Decisions, Suspension/Revocation of Certificates, or Patient and Referring Provider Notification Orders: Guidance for Mammography Facilities and Food and Drug Administration Staff**
 
@@ -31,9 +31,9 @@ PDF：[https://www.fda.gov/media/140242/download](https://www.fda.gov/media/1402
 
 ## 官方文件全文
 
-乳腺X线摄影设施就不利认证决定、证书暂停/撤销或患者与转诊提供者通知命令可获得的申诉选项——乳腺X线摄影设施与食品药品管理局工作人员指南
+乳腺X线摄影设施就不利认证决定、证书暂停/撤销或患者与转诊提供者通知命令可获得的申诉选项——乳腺X线摄影设施与FDA工作人员指南
 
-本指南代表食品药品管理局（FDA或本机构）目前对该主题的观点。它不为任何人确立任何权利，对FDA或公众亦不具约束力。若替代方法满足适用法规与条例的要求，您可采用该替代方法。如需讨论替代方法，请联系本指南扉页所列的FDA工作人员或负责办公室。
+本指南代表FDA（FDA或本机构）目前对该主题的观点。它不为任何人确立任何权利，对FDA或公众亦不具约束力。若替代方法满足适用法规与条例的要求，您可采用该替代方法。如需讨论替代方法，请联系本指南扉页所列的FDA工作人员或负责办公室。
 
 ## I. 简介
 本指南文件描述乳腺X线摄影设施就可就设施认证的不利申诉决定，和/或证书暂停或撤销，和/或患者与转诊提供者通知（PPN）命令请求额外审评的流程。
@@ -71,7 +71,7 @@ Division of Mammography Quality Standards Attention: Program Management Team 109
 对认证机构不利申诉决定的复议请求，是设施请FDA审评认证机构所作不利决定并确保认证机构遵循其FDA批准程序与政策的机会。为确保及时审评，FDA建议设施在其复议请求中提交认证机构在其基础决定中审评的全部影像。若提供新信息，设施应就为何应考虑该新信息提供理由。一般而言，若无设施提供证明该证据与争议事项相关且具有实质性的理由，FDA不打算将先前患者检查的影像、数字乳腺断层合成（DBT）影像，或最初未提交给认证机构的额外审评视为与复议请求相关。
 
 在收到复议请求后60日内，DMQS司长打算签发决定并以书面通知设施该决定以及作为该决定后果的设施选项。对复议后司决定不满意的设施有权在卫生与公众服务部部门上诉委员会举行正式听证（21 CFR 900.15(d)(4)；见42 CFR第498部分D分部分）。在不利认证申诉决定进一步向FDA申诉期间，或在FDA确定证书不再有效的任何期间，乳腺X线摄影设施不得提供乳腺X线摄影服务（见21 CFR 900.13(a)；900.15(d)(6)）。若在21 CFR 900.15下的任何程序期间设施证书不再有效，在这些程序之后，FDA可将证书恢复有效，或在实施任何进一步FDA或设施行动或行动组合的期间使证书继续不再有效。
-### V. 请求在食品药品管理局举行监管听证（21 CFR第16部分）
+### V. 请求在FDA举行监管听证（21 CFR第16部分）
 因被认证机构拒绝认证或再认证（即撤销认证）而无法获得FDA认证或再认证、并希望就认证机构决定提出申诉的乳腺X线摄影设施，应遵循本文件第III节所述流程（若适用，随后遵循本文件第IV节）。
 
 根据21 CFR 900.14(a)，在向设施所有者或运营者提供21 CFR第16部分下监管听证的通知与机会后，FDA可在某些情形下暂停或撤销设施的MQSA证书。在多数情况下，暂停将先于撤销（见21 CFR 900.14(d)）。要根据21 CFR 900.14(a)暂停或撤销MQSA证书，本机构将向设施所有者或运营者发送监管听证机会通知以及暂停或撤销证书的提案（见21 CFR 16.22(a)）。该提案将载明暂停或撤销的理由，并规定设施可就拟议暂停或撤销的理由请求听证的时限（见21 CFR 16.22）。但根据21 CFR 16.26(a)，若请求未能通过证明真实且实质性的事实问题来证明有正当理由举行听证，第16部分听证请求可被拒绝。仅在提供监管听证机会之后，FDA方可根据21 CFR 900.14(a)暂停或撤销证书。

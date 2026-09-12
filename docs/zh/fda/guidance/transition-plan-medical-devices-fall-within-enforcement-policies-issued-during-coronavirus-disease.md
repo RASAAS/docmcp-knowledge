@@ -1,10 +1,10 @@
 ---
-title: "2019年新冠病毒疫情 (COVID-19) 期间发布的执法政策中属于医疗器械的过渡计划：行业、其他利益相关方与食品药品管理局工作人员指南"
+title: "2019年新冠病毒疫情 (COVID-19) 期间发布的执法政策中属于医疗器械的过渡计划：行业、其他利益相关方与FDA工作人员指南"
 description: "Transition Plan for Medical Devices That Fall Within Enforcement Policies Issued During the Coronavirus Disease 2019 (COVID-19) Public Health Emergency: Guidance for Industry, Other Stakeholders, and Food and Drug Administration Staff"
 published: 2023-03-27
 ---
 
-# 2019年新冠病毒疫情 (COVID-19) 期间发布的执法政策中属于医疗器械的过渡计划：行业、其他利益相关方与食品药品管理局工作人员指南
+# 2019年新冠病毒疫情 (COVID-19) 期间发布的执法政策中属于医疗器械的过渡计划：行业、其他利益相关方与FDA工作人员指南
 
 **Transition Plan for Medical Devices That Fall Within Enforcement Policies Issued During the Coronavirus Disease 2019 (COVID-19) Public Health Emergency: Guidance for Industry, Other Stakeholders, and Food and Drug Administration Staff**
 

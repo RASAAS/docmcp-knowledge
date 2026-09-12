@@ -1,10 +1,10 @@
 ---
-title: "血兰塞标签：行业与食品药品管理局工作人员指南"
+title: "血兰塞标签：行业与FDA工作人员指南"
 description: "Blood Lancet Labeling - Guidance for Industry and Food and Drug Administration Staff"
 published: 2010-11-28
 ---
 
-# 血兰塞标签：行业与食品药品管理局工作人员指南
+# 血兰塞标签：行业与FDA工作人员指南
 
 **Blood Lancet Labeling - Guidance for Industry and Food and Drug Administration Staff**
 
@@ -89,7 +89,7 @@ FDA建议,所有血液脱脂器械应贴上标签,仅供单一病人使用。如
 4. Thompson ND, Perz JF, Moorman AC, Holmberg SD, 非医院保健, 医院医疗,
 相关的乙型肝炎和丙型病毒传播:美国,1998-2008年,Ann Int Med,2009年;150:33-39
 
-5. 标签标签:可再使用的医疗设备,用于医疗机构的后处理:FDA审查员
+5. 标签标签:可再使用的医疗器械,用于医疗机构的后处理:FDA审查员
 指导(1996年)。
 +++
 

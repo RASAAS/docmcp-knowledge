@@ -1,10 +1,10 @@
 ---
-title: "临床研究设计用于治疗前 կոչ的外科摘除器件：行业与食品药品管理局工作人员指南"
+title: "临床研究设计用于治疗前 կոչ的外科摘除器件：行业与FDA工作人员指南"
 description: "Clinical Study Designs for Surgical Ablation Devices for Treatment of Atrial Fibrillation - Guidance for Industry and Food and Drug Administration Staff"
 published: 2013-02-14
 ---
 
-# 临床研究设计用于治疗前 կոչ的外科摘除器件：行业与食品药品管理局工作人员指南
+# 临床研究设计用于治疗前 կոչ的外科摘除器件：行业与FDA工作人员指南
 
 **Clinical Study Designs for Surgical Ablation Devices for Treatment of Atrial Fibrillation - Guidance for Industry and Food and Drug Administration Staff**
 
@@ -40,7 +40,7 @@ FDA的指南文件,包括本指南,没有规定法律上可执行的责任。相
 关于“作为节奏扰动的森林”和“作为疾病的森林”之间的区别,见下文“术语”一节。OCM - 外科心脏病加速器,用于处理外发性纤维化,本指南文件的范围具体排除了第3.A节所界定的非打算直接直观下使用的心脏消热器械。心血管内会发生心动
 下表列出了未列入本指南范围的其他装置类型,除非提案国试图扩大所列装置之一的表示范围,以包括“对审判性纤维纤维化的处理”,否则本指南适用于该拟议指示。虽然这些装置可能已经明确表明“心脏组织受到侵蚀”,但FDA指出,这些装置可能没有被评估成AFA作为节奏干扰的治疗。
 分类条例(21 CFR) 分类条例 产品分类编码 说明 878.4350 II GEH 冷冻器件和附件 878.4400 II GEI 电动外科切除和凝固装置及附件 NEY 微波除尘系统和附件 NTB 超声爆裂系统及附件 OAB 低能直接热活烧系统 OCL 心脏组织切除热直接活烧系统 OCL 手术器 878.4810 II GEX 手术激光器
-(三) 用于处理无(修正后)三(修正后)四(用于处理天际纤维化的OAE Percutaneous导管)的处理天际无裂动(修正后)的OAE III OAE 用于处理天际纤维纤维化的 OAE Percutaneous导管管的OAE III OAE 用于处理天际纤维化的 OAE OAE OFFD认为,本指南文件所涉及的装置是第21章所界定的重大风险器械。《联邦条例法典》(CFR)812.3(m);关于补充资料,请参见《移民和难民委员会信息工作表指南》医疗设备一节,临床调查员和赞助者可在#0@nSheetts和Notices/ucm113709.htm#risk上查阅。除了遵守关于机构审查委员会(机构审查委员会)(21 CFR Part 56)和知情同意(21 CFR Part 50)的条例之外,这些研究的赞助者必须获得FDA和移民和归化局批准其申请
+(三) 用于处理无(修正后)三(修正后)四(用于处理天际纤维化的OAE Percutaneous导管)的处理天际无裂动(修正后)的OAE III OAE 用于处理天际纤维纤维化的 OAE Percutaneous导管管的OAE III OAE 用于处理天际纤维化的 OAE OAE OFFD认为,本指南文件所涉及的装置是第21章所界定的重大风险器械。《联邦条例法典》(CFR)812.3(m);关于补充资料,请参见《移民和难民委员会信息工作表指南》医疗器械一节,临床调查员和赞助者可在#0@nSheetts和Notices/ucm113709.htm#risk上查阅。除了遵守关于机构审查委员会(机构审查委员会)(21 CFR Part 56)和知情同意(21 CFR Part 50)的条例之外,这些研究的赞助者必须获得FDA和移民和归化局批准其申请
 在开始对调查装置进行任何研究之前,调查装置豁免(IDE)(见《联邦食品、药品和化妆品法》(FD和C法)第520(g)节),21 U. S. C.
 360j(g);21 CFR 812.22。
 3. 术语名词

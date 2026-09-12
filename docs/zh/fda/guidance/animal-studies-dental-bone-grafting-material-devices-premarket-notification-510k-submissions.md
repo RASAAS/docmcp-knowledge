@@ -1,10 +1,10 @@
 ---
-title: "牙移植材料设备的动物研究 - 上市前通知 (510(k)) 提交：行业与食品药品管理局工作人员指南"
+title: "牙科骨移植材料器械的动物研究 - 上市前通知(510(k))提交：行业与FDA工作人员指南"
 description: "Animal Studies for Dental Bone Grafting Material Devices - Premarket Notification (510(k)) Submissions: Guidance for Industry and Food and Drug Administration Staff"
 published: 2025-08-22
 ---
 
-# 牙移植材料设备的动物研究 - 上市前通知 (510(k)) 提交：行业与食品药品管理局工作人员指南
+# 牙科骨移植材料器械的动物研究 - 上市前通知(510(k))提交：行业与FDA工作人员指南
 
 **Animal Studies for Dental Bone Grafting Material Devices - Premarket Notification (510(k)) Submissions: Guidance for Industry and Food and Drug Administration Staff**
 

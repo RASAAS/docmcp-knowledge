@@ -1,10 +1,10 @@
 ---
-title: "关于第三方和医院处理器重复处理和重复使用一次性设备的常见问题 - 三个额外的问题,FDA工作人员,第三方和医院处理器：行业指南"
+title: "第三方和医院再处理器对一次性使用器械的再处理和再使用常见问题 - 三个附加问题：行业、FDA工作人员、第三方和医院再处理器指南"
 description: "Frequently-Asked-Questions about the Reprocessing and Reuse of Single-Use Devices by Third-Party and Hospital Reprocessors - Three Additional Questions: Guidance for Industry, FDA Staff, Third-Party and Hospital Reprocessors"
 published: 2003-07-16
 ---
 
-# 关于第三方和医院处理器重复处理和重复使用一次性设备的常见问题 - 三个额外的问题,FDA工作人员,第三方和医院处理器：行业指南
+# 第三方和医院再处理器对一次性使用器械的再处理和再使用常见问题 - 三个附加问题：行业、FDA工作人员、第三方和医院再处理器指南
 
 **Frequently-Asked-Questions about the Reprocessing and Reuse of Single-Use Devices by Third-Party and Hospital Reprocessors - Three Additional Questions: Guidance for Industry, FDA Staff, Third-Party and Hospital Reprocessors**
 

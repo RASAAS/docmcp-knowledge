@@ -1,10 +1,10 @@
 ---
-title: "确定对虫病菌抗体 检测的直体诊断设备的性能特性：行业与FDA工作人员指南"
+title: "确定伯氏疏螺旋体抗体检测用体外诊断器械的性能特性：行业与FDA工作人员指南"
 description: "Establishing the Performance Characteristics of In Vitro Diagnostic Devices for the Detection of Antibodies to Borrelia burgdorferi - Guidance for Industry and FDA Staff"
 published: 2013-03-27
 ---
 
-# 确定对虫病菌抗体 检测的直体诊断设备的性能特性：行业与FDA工作人员指南
+# 确定伯氏疏螺旋体抗体检测用体外诊断器械的性能特性：行业与FDA工作人员指南
 
 **Establishing the Performance Characteristics of In Vitro Diagnostic Devices for the Detection of Antibodies to Borrelia burgdorferi - Guidance for Industry and FDA Staff**
 

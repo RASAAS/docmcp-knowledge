@@ -1,10 +1,10 @@
 ---
-title: "牙科护理灯 - 上市前通知 (510(k)) 提交：行业与食品药品管理局工作人员指南"
+title: "牙科护理灯 - 上市前通知 (510(k)) 提交：行业与FDA工作人员指南"
 description: "Dental Curing Lights - Premarket Notification (510(k)) Submissions: Guidance for Industry and Food and Drug Administration Staff"
 published: 2026-09-02
 ---
 
-# 牙科护理灯 - 上市前通知 (510(k)) 提交：行业与食品药品管理局工作人员指南
+# 牙科护理灯 - 上市前通知 (510(k)) 提交：行业与FDA工作人员指南
 
 **Dental Curing Lights - Premarket Notification (510(k)) Submissions: Guidance for Industry and Food and Drug Administration Staff**
 

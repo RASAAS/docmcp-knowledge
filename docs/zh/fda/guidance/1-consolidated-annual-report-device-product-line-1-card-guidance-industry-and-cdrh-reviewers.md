@@ -1,10 +1,10 @@
 ---
-title: "1-设备产品线的综合年度报告 (1-CARD)：行业与CDRH审评人员指南"
+title: "1-器械产品线综合年度报告(1-CARD)：行业与CDRH审评人员指南"
 description: "1-Consolidated Annual Report for a Device product line (1-CARD) - Guidance for Industry and CDRH Reviewers"
 published: 2000-07-05
 ---
 
-# 1-设备产品线的综合年度报告 (1-CARD)：行业与CDRH审评人员指南
+# 1-器械产品线综合年度报告(1-CARD)：行业与CDRH审评人员指南
 
 **1-Consolidated Annual Report for a Device product line (1-CARD) - Guidance for Industry and CDRH Reviewers**
 
@@ -33,7 +33,7 @@ PDF：[https://www.fda.gov/media/71752/download](https://www.fda.gov/media/71752
 行业与CDRH审评人员指南
 器械产品线1-综合年度报告（1-CARD）试点——起搏器上市前批准申请年度报告准备¹
 文件发布日期：2000年7月6日
-美国卫生与公众服务部 食品药品管理局 器械与放射健康中心
+美国卫生与公众服务部 FDA 器械与放射健康中心
 起搏与电生理器械组 心血管与呼吸器械司 器械评价办公室
 
 前言 公众意见
@@ -55,7 +55,7 @@ PDF：[https://www.fda.gov/media/71752/download](https://www.fda.gov/media/71752
 
 建议报告格式
 1. 提交份数
-每份1-CARD提交应一式两份提交至PMA文件邮寄中心（HFZ-401），器械与放射健康中心，食品药品管理局，9200 Corporate Boulevard, Rockville, Maryland 20850。提交应清晰标识为“年度报告”，并引用拟纳入的全部起搏器型号的PMA（或PDP）编号。
+每份1-CARD提交应一式两份提交至PMA文件邮寄中心（HFZ-401），器械与放射健康中心，FDA，9200 Corporate Boulevard, Rockville, Maryland 20850。提交应清晰标识为“年度报告”，并引用拟纳入的全部起搏器型号的PMA（或PDP）编号。
 ________________________
 ¹本文件旨在提供指导。它代表本机构对上述事项的当前观点。它不为任何人创设或授予任何权利，亦不约束FDA或公众。若替代方法满足适用法规、条例或二者的要求，可采用该替代方法。
 

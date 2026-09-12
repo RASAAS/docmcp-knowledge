@@ -64,4 +64,4 @@ FDA进口官员对一般照明以外的HID灯，应避免要求提供进口文�
 
 获取更多信息
 您可从我们的电子产品辐射控制网页获取更多关于高强度汞蒸气放电灯要求的信息：http://www.fda.gov/cdrh/radhlth/mercury-vapor.html。
-如对本指南有疑问，请联系 Jerome Dennis，器械与放射健康中心（HFZ-240），食品药品管理局，10903 New Hampshire Avenue, Silver Spring, MD 20993。
+如对本指南有疑问，请联系 Jerome Dennis，器械与放射健康中心（HFZ-240），FDA，10903 New Hampshire Avenue, Silver Spring, MD 20993。

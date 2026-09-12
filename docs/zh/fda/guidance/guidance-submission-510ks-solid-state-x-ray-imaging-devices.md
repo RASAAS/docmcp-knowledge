@@ -1,10 +1,10 @@
 ---
-title: "关于固体X射线成像设备提交510k指南：行业与食品药品管理局工作人员指南"
+title: "固态X射线成像器械510(k)提交指南：行业与FDA工作人员指南"
 description: "Guidance for the Submission of 510(k)s for Solid State X-ray Imaging Devices: Guidance for Industry and Food and Drug Administration Staff"
 published: 2016-09-01
 ---
 
-# 关于固体X射线成像设备提交510k指南：行业与食品药品管理局工作人员指南
+# 固态X射线成像器械510(k)提交指南：行业与FDA工作人员指南
 
 **Guidance for the Submission of 510(k)s for Solid State X-ray Imaging Devices: Guidance for Industry and Food and Drug Administration Staff**
 
@@ -109,7 +109,7 @@ X光光光子。焚化炉反过来释放 Currentabeth光谱光子,这些光谱�
 根据MDA规定, Ted2装置可通过510(k)上市前通知进行市场营销。为此,必须证明该装置 Tedm与合法销售的上游装置基本等同。SSXI的预设装置是事先修正或清除的装置,其预期用途与提交审批的装置相同或类似。这种前提本身可能不受5 Current(k)要求的约束,这一事实并不能免除SSXI的要求(参见21 CFR 892.9(b))。SSXI使用不同于胶片或图像增强器的基本科技运作,因此不能免于510(k)的要求。
 SSXI产品编码 Ted " 90 MQB " 已经确定,目前被归入第二类。
 
-除了510(k) cabinet提交的所有医疗设备所需的一般资料之外,还须有一般资料
+除了510(k) cabinet提交的所有医疗器械所需的一般资料之外,还须有一般资料
 
 清除(参考:21 CFR 807.87)还应包括下列与SSXI有关的非临床信息。这些信息将有助于确定与担保 Ted/B/C/B/
 除非此处另有说明,或制造商另有说明,否则,在装置在室温下起作用时,即假定采用了所报告的所有特性和测量方法。对于所报告的定量计量,应列入不确定性的程度(例如,对报告的数量计量而言,应列入不确定性的程度)。

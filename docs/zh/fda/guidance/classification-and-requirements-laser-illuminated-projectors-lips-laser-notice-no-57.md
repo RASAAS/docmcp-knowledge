@@ -1,10 +1,10 @@
 ---
-title: "激光照明投影机 (LIP) 的分类和要求 (激光通告第57)：行业与食品药品管理局指南"
+title: "激光照明投影机 (LIP) 的分类和要求 (激光通告第57)：行业与FDA指南"
 description: "Classification and Requirements for Laser Illuminated Projectors (LIPs) (Laser Notice No. 57): Guidance for Industry and Food and Drug Administration"
 published: 2019-05-08
 ---
 
-# 激光照明投影机 (LIP) 的分类和要求 (激光通告第57)：行业与食品药品管理局指南
+# 激光照明投影机 (LIP) 的分类和要求 (激光通告第57)：行业与FDA指南
 
 **Classification and Requirements for Laser Illuminated Projectors (LIPs) (Laser Notice No. 57): Guidance for Industry and Food and Drug Administration**
 
@@ -33,7 +33,7 @@ PDF：[https://www.fda.gov/media/90796/download](https://www.fda.gov/media/90796
 
 激光照明投影仪（LIP）的分类与要求（激光通告第57号）
 
-本指南代表食品药品管理局（FDA或本机构）目前对该主题的观点。它不为任何人确立任何权利，对FDA或公众亦不具约束力。若替代方法满足适用法规与条例的要求，您可采用该替代方法。如需讨论替代方法，请联系本指南扉页所列的FDA工作人员或负责办公室。
+本指南代表FDA（FDA或本机构）目前对该主题的观点。它不为任何人确立任何权利，对FDA或公众亦不具约束力。若替代方法满足适用法规与条例的要求，您可采用该替代方法。如需讨论替代方法，请联系本指南扉页所列的FDA工作人员或负责办公室。
 ## I. 简介
 本指南描述FDA对在《联邦食品、药品和化妆品法》（FD&C法）适用于电子产品的电子产品辐射控制规定下进行激光产品分类时、符合国际电工委员会（IEC）标准的某些激光照明投影仪的政策。[^1]
 为本指南之目的，“激光照明投影仪”（LIP）指受21 CFR 1040.10(b)(13)监管的一类演示激光产品，[^2] 其设计为在不使用光栅扫描准直激光束的情况下投射显示图像。LIP可用于室内或室外电影院、激光表演、会议演示、办公环境中的图像/数据投影仪，或家用等场所。

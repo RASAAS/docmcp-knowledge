@@ -1,10 +1,10 @@
 ---
-title: "工业和食品药品管理局工作人员的指南 - 组装仪器用于诊断X射线设备的指南"
+title: "诊断X射线设备组装指南：行业与FDA工作人员指南"
 description: "Guidance for Industry and Food and Drug Administration Staff - Assembler's Guide to Diagnostic X-Ray Equipment"
 published: 2023-02-21
 ---
 
-# 工业和食品药品管理局工作人员的指南 - 组装仪器用于诊断X射线设备的指南
+# 诊断X射线设备组装指南：行业与FDA工作人员指南
 
 **Guidance for Industry and Food and Drug Administration Staff - Assembler's Guide to Diagnostic X-Ray Equipment**
 

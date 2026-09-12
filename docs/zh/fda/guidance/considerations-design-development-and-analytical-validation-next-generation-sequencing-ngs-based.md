@@ -1,10 +1,10 @@
 ---
-title: "基于体诊断 (IVD) 的下一代测序 (NGS) 的设计,开发和分析验证的考虑,用于帮助诊断疑似菌根病：利益相关方与食品药品管理局工作人员指南"
+title: "基于体诊断 (IVD) 的下一代测序 (NGS) 的设计,开发和分析验证的考虑,用于帮助诊断疑似菌根病：利益相关方与FDA工作人员指南"
 description: "Considerations for Design, Development, and Analytical Validation of Next Generation Sequencing (NGS) - Based In Vitro Diagnostics (IVDs) Intended to Aid in the Diagnosis of Suspected Germline Diseases: Guidance for Stakeholders and Food and Drug Administration Staff"
 published: 2018-04-13
 ---
 
-# 基于体诊断 (IVD) 的下一代测序 (NGS) 的设计,开发和分析验证的考虑,用于帮助诊断疑似菌根病：利益相关方与食品药品管理局工作人员指南
+# 基于体诊断 (IVD) 的下一代测序 (NGS) 的设计,开发和分析验证的考虑,用于帮助诊断疑似菌根病：利益相关方与FDA工作人员指南
 
 **Considerations for Design, Development, and Analytical Validation of Next Generation Sequencing (NGS) - Based In Vitro Diagnostics (IVDs) Intended to Aid in the Diagnosis of Suspected Germline Diseases: Guidance for Stakeholders and Food and Drug Administration Staff**
 
@@ -587,7 +587,7 @@ FDA将批准De Novo公司提出的进行基于NGS的测试的请求,该测试旨
 
 关于审查设备设计和生产变化的建议
 
-无论改变是否需要FDA进行上市前审查,FDA的质量管理体系法规要求成品医疗设备的制造商审查并批准对设备设计和生产作出的改动(21 CFR 820.30和820.70),并记录设备总记录中的改动和批准(21 CFR 820.181)。在对试验进行修改时,应始终对试验性能进行重新评价。
+无论改变是否需要FDA进行上市前审查,FDA的质量管理体系法规要求成品医疗器械的制造商审查并批准对设备设计和生产作出的改动(21 CFR 820.30和820.70),并记录设备总记录中的改动和批准(21 CFR 820.181)。在对试验进行修改时,应始终对试验性能进行重新评价。
 
 • 记录对试验的所有修改,包括议定书,其中应包括软件更新和对生物信息学管道的其他修改。
 
@@ -609,9 +609,9 @@ FDA将批准De Novo公司提出的进行基于NGS的测试的请求,该测试旨
 • 纳入一个程序,说明内部和外部基因变异数据库的更新情况及其对变异评价的潜在影响。记录任何更新,包括但不限于数据库的名称、位置或新版本。
 追加资源
 
-• FDA题为“在医疗设备前期批准和新分类中确定福利风险时应考虑的因素”的指南文件(++0++ccedocuments/ucm517504.pdf)。
+• FDA题为“在医疗器械前期批准和新分类中确定福利风险时应考虑的因素”的指南文件(++0++ccedocuments/ucm517504.pdf)。
 
-• FDA题为“要求就医疗设备提交材料提出反馈意见的指南文件:与美国食品药品监督管理局工作人员举行小组委员会前方案和会议。” (++0 + cecepdocuments/ucm311176.pdf)。
+• FDA题为“要求就医疗器械提交材料提出反馈意见的指南文件:与美国食品药品监督管理局工作人员举行小组委员会前方案和会议。” (++0 + cecepdocuments/ucm311176.pdf)。
 
 • FDA题为“二级装置免于预先通知的程序”的指南文件(NQ0-Q 舞蹈文件/ucm080199.pdf)。
 

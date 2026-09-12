@@ -1,10 +1,10 @@
 ---
-title: "电子提交医疗器械模板 510(k) 提交：行业与食品药品管理局工作人员指南"
+title: "电子提交医疗器械模板 510(k) 提交：行业与FDA工作人员指南"
 description: "Electronic Submission Template for Medical Device 510(k) Submissions: Guidance for Industry and Food and Drug Administration Staff"
 published: 2023-10-02
 ---
 
-# 电子提交医疗器械模板 510(k) 提交：行业与食品药品管理局工作人员指南
+# 电子提交医疗器械模板 510(k) 提交：行业与FDA工作人员指南
 
 **Electronic Submission Template for Medical Device 510(k) Submissions: Guidance for Industry and Food and Drug Administration Staff**
 

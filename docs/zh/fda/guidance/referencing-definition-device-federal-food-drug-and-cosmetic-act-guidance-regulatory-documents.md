@@ -1,10 +1,10 @@
 ---
-title: "参考\"食品,药品和化妆品法\"中的\"设备\"定义,指导,监管文件,通信和其他公共文件：行业与食品药品管理局工作人员指南"
+title: "在指南、监管文件、通信和其他公开文件中引用《联邦食品药品和化妆品法》中的"器械"定义：行业与FDA工作人员指南"器械\"定义：行业与FDA工作人员指南"
 description: "Referencing the Definition of \"Device\" in the Federal Food, Drug, and Cosmetic Act in Guidance, Regulatory Documents, Communications, and Other Public Documents: Guidance for Industry and Food and Drug Administration Staff"
 published: 2022-11-14
 ---
 
-# 参考"食品,药品和化妆品法"中的"设备"定义,指导,监管文件,通信和其他公共文件：行业与食品药品管理局工作人员指南
+# 在指南、监管文件、通信和其他公开文件中引用《联邦食品药品和化妆品法》中的
 
 **Referencing the Definition of "Device" in the Federal Food, Drug, and Cosmetic Act in Guidance, Regulatory Documents, Communications, and Other Public Documents: Guidance for Industry and Food and Drug Administration Staff**
 
@@ -32,10 +32,10 @@ PDF：[https://www.fda.gov/media/154866/download](https://www.fda.gov/media/1548
 
 在指南、监管文件、通信及其他公开文件中引用《联邦食品、药品和化妆品法》中“器械”的定义
 
-本指南代表食品药品管理局（FDA或本机构）目前对该主题的观点。它不为任何人确立任何权利，对FDA或公众亦不具约束力。若替代方法满足适用法规与条例的要求，您可采用该替代方法。如需讨论替代方法，请联系本指南扉页所列的FDA工作人员或负责办公室。
+本指南代表FDA（FDA或本机构）目前对该主题的观点。它不为任何人确立任何权利，对FDA或公众亦不具约束力。若替代方法满足适用法规与条例的要求，您可采用该替代方法。如需讨论替代方法，请联系本指南扉页所列的FDA工作人员或负责办公室。
 
 ## I. 简介
-美国食品药品管理局（FDA或本机构）建议一致使用具有法律意义的术语与定义。鉴于《保障治疗产品法》¹ 颁布导致《联邦食品、药品和化妆品法》（FD&C法）第201(h)条近期修订，FDA发布本指南，以促进就“器械”与“假冒器械”术语引用的清晰性。
+美国FDA（FDA或本机构）建议一致使用具有法律意义的术语与定义。鉴于《保障治疗产品法》¹ 颁布导致《联邦食品、药品和化妆品法》（FD&C法）第201(h)条近期修订，FDA发布本指南，以促进就“器械”与“假冒器械”术语引用的清晰性。
 
 总的来说，FDA指南文件不确立具有法律强制执行力的责任。
 相反，指南描述本机构对某一主题的当前观点，且除非援引具体的法规或法定要求，否则应仅视为建议。在本机构指南中使用“应当（should）”一词，表示某事项被建议或推荐，但并非强制要求。

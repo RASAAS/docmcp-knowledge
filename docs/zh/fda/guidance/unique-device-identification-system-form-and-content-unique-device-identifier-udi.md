@@ -1,10 +1,10 @@
 ---
-title: "唯一设备识别系统:唯一设备识别器 (UDI) 的形式和内容：行业与食品药品管理局工作人员指南"
+title: "唯一器械标识系统：唯一器械标识符(UDI)的形式和内容：行业与FDA工作人员指南"
 description: "Unique Device Identification System: Form and Content of the Unique Device Identifier (UDI): Guidance for Industry and Food and Drug Administration Staff"
 published: 2021-07-07
 ---
 
-# 唯一设备识别系统:唯一设备识别器 (UDI) 的形式和内容：行业与食品药品管理局工作人员指南
+# 唯一器械标识系统：唯一器械标识符(UDI)的形式和内容：行业与FDA工作人员指南
 
 **Unique Device Identification System: Form and Content of the Unique Device Identifier (UDI): Guidance for Industry and Food and Drug Administration Staff**
 

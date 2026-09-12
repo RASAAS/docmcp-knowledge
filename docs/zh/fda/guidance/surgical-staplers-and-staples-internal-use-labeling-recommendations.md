@@ -1,10 +1,10 @@
 ---
-title: "内部使用的手术具和具 - 标签建议：行业与食品药品管理局工作人员指南"
+title: "内部使用的手术具和具 - 标签建议：行业与FDA工作人员指南"
 description: "Surgical Staplers and Staples for Internal Use - Labeling Recommendations: Guidance for Industry and Food and Drug Administration Staff"
 published: 2021-10-08
 ---
 
-# 内部使用的手术具和具 - 标签建议：行业与食品药品管理局工作人员指南
+# 内部使用的手术具和具 - 标签建议：行业与FDA工作人员指南
 
 **Surgical Staplers and Staples for Internal Use - Labeling Recommendations: Guidance for Industry and Food and Drug Administration Staff**
 
@@ -71,7 +71,7 @@ GAG 21 CFR 878.4740 Stapler,外科GDW 21 CFR 878.4750 Staple,可移植NLL 21 CFR
 贴有明确通讯的准确标签将有助于缓解与内部使用的外科主食主食和主食有关的安全问题,并帮助制造商以充分的信息开发标签。根据FDA对上文讨论的不利事件报告的审查结果,这些器械的标签可能没有包含所有关于风险、限制和限制的重要信息。器械的使用方向和用途,因此可能没有包含使用所需的充分信息
 
 8 Brown SL, Woo EK. 向美国食品药品监督管理局报告的外科钉书机相关死亡和不利事件,J Am Coll Surg. 2004;199(3):374-381。
-9 Swayze S,Rich S.《促进安全使用医疗设备》,《护理在线问题期刊》,2011年;17(1)。
+9 Swayze S,Rich S.《促进安全使用医疗器械》,《护理在线问题期刊》,2011年;17(1)。
 10 FDA已最后确定将内部使用的外科主食器从一级重新分类为二级,并实行特别管制,包括本节引述的具体标签要求。见“重新分类某些外科外科刺伤”的最后命令,2021年10月8日发布(86 FR 56195),可在__
 11 尽管21 CFR 878.4740规定的特别管制不适用于产品编码GDW、NLL和NAY,本指南中的建议适用于本表确定的所有产品编码。
 12 分析用于内部使用的机器人外科主机的不利事件(即“roblogic主机”),它们是二级装置,并指定产品编码NAY,这表明,机器人主机订书机作为内部使用的外科主机同样面临风险。因此,FDA认为,本指南中的标签建议也应适用于机器人订书机。

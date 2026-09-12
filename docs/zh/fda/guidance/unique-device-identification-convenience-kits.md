@@ -1,10 +1,10 @@
 ---
-title: "唯一的设备识别:便利套件：行业与食品药品管理局工作人员指南"
+title: "唯一器械标识：便利套件：行业与FDA工作人员指南"
 description: "Unique Device Identification: Convenience Kits : Guidance for Industry and Food and Drug Administration Staff"
 published: 2019-04-26
 ---
 
-# 唯一的设备识别:便利套件：行业与食品药品管理局工作人员指南
+# 唯一器械标识：便利套件：行业与FDA工作人员指南
 
 **Unique Device Identification: Convenience Kits : Guidance for Industry and Food and Drug Administration Staff**
 

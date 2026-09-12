@@ -1,10 +1,10 @@
 ---
-title: "经过某些FDA检查设备机构后的非约束性反：行业与食品药品管理局工作人员指南"
+title: "FDA对器械生产机构特定检查后的非约束性反馈：行业与FDA工作人员指南"
 description: "Nonbinding Feedback After Certain FDA Inspections of Device Establishments: Guidance for Industry and Food and Drug Administration Staff"
 published: 2020-04-22
 ---
 
-# 经过某些FDA检查设备机构后的非约束性反：行业与食品药品管理局工作人员指南
+# FDA对器械生产机构特定检查后的非约束性反馈：行业与FDA工作人员指南
 
 **Nonbinding Feedback After Certain FDA Inspections of Device Establishments: Guidance for Industry and Food and Drug Administration Staff**
 

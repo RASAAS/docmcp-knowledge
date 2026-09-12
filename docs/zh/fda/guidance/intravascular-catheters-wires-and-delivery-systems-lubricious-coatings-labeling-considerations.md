@@ -1,10 +1,10 @@
 ---
-title: "膜内,电线和膜配送系统 - 标签考虑：行业与食品药品管理局工作人员指南"
+title: "膜内,电线和膜配送系统 - 标签考虑：行业与FDA工作人员指南"
 description: "Intravascular Catheters, Wires, and Delivery Systems with Lubricious Coatings - Labeling Considerations: Guidance for Industry and Food and Drug Administration Staff"
 published: 2019-10-10
 ---
 
-# 膜内,电线和膜配送系统 - 标签考虑：行业与食品药品管理局工作人员指南
+# 膜内,电线和膜配送系统 - 标签考虑：行业与FDA工作人员指南
 
 **Intravascular Catheters, Wires, and Delivery Systems with Lubricious Coatings - Labeling Considerations: Guidance for Industry and Food and Drug Administration Staff**
 
@@ -43,7 +43,7 @@ FDA的指导性文件,包括本指南性文件,没有规定法律上可执行的
 虽然这些装置可以给病人带来好处,但最近的证据表明,在某些情况下,涂层可能与血管内装置分离。FDA收到并分析了有关与分离水利和/或疏水涂层有关的严重不利事件的资料(如剥皮、剥片、剥皮等)。从血管内医疗器械中取出。这些资料包括自愿收回制导线、羊皮、检索装置、回收装置和新陈谢装置输电线以及医疗器械。
 报告(MDRs)说明了将水益和/或疏水涂层与导线、导管等医疗器械分离的情况。以及用于脑血管、心血管和外围血管手术的介绍者。
 FDA还评价了其他有关的资料,包括经同行审查的医疗文献、1、2、3、4和医生调查5。这些医学、医学伤痕、组织死亡和死亡:在多发病报告内,与涂层剥皮有关的严重伤害包括,在病人体内长期存在涂层碎片,其中一些需要外科手术干预,以减轻后果、不良组织反应和血栓。与这些分析有关的其他信息,见FDA《关于与内气分离的粗略调温器安全通讯》。
-2015年11月23日发布的医疗设备(++0\ m473794.htm)。发出这一安全通讯是为了让医疗服务提供者认识到,有可能会将水利和/或疏水涂层与医疗设备分开。
+2015年11月23日发布的医疗器械(++0\ m473794.htm)。发出这一安全通讯是为了让医疗服务提供者认识到,有可能会将水利和/或疏水涂层与医疗器械分开。
 
 1 Grundeken MJ、Li X、Kurpershoek E、Kramer MC、Vink A、Piek JJ、Tijssen JGP、Kock KT、Wykrzykowska JJ、De Winter RJ、van der Wal AC、Van der Wal AC、Kykrzykowska JJJ、D Winter RJ、Van der Wal AC、Kykrzykowska JJJ、LJ、KH、Kykrzykkowska 、LJ、KH、KA、KH、《通过过膜性冠状干扰后冠状向导线的氢代谢物氢代谢》,循环:《心血管干预》,2015年;8(2):001816。
 2 Hu YC, Dashmukh VR, Albuquerque FC, Fiorella D, Nixon RR, Heck DH, Barnwell SL, McDougall CG, Hub YC, Dashmukh VR, Durbuquerque FC, Fiorella D, Nixon RR, Heck DH, Barnwell SL, McDougall CG, Huban , Hub、 D. Huboukh VR, D. Hubquerque, D, D. RR, Heck D. R, Heck D., Barnwell SL, 和 McDo在用管道陈代谢装置处理超链类动脉瘤后,对致命的脊髓外膜内出血进行病理学评估。《神经外科杂志》,2014年;120(2);365-374。

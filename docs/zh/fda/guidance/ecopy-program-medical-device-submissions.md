@@ -1,10 +1,10 @@
 ---
-title: "医疗器械提交的eCopy计划：行业与食品药品管理局工作人员指南"
+title: "医疗器械提交的eCopy计划：行业与FDA工作人员指南"
 description: "eCopy Program for Medical Device Submissions: Guidance for Industry and Food and Drug Administration Staff"
 published: 2025-12-03
 ---
 
-# 医疗器械提交的eCopy计划：行业与食品药品管理局工作人员指南
+# 医疗器械提交的eCopy计划：行业与FDA工作人员指南
 
 **eCopy Program for Medical Device Submissions: Guidance for Industry and Food and Drug Administration Staff**
 

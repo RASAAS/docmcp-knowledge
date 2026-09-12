@@ -1,10 +1,10 @@
 ---
-title: "医疗器械用户费 小企业资格和确定性：行业、食品药品管理局工作人员及外国政府指南"
+title: "医疗器械用户费 小企业资格和确定性：行业、FDA工作人员及外国政府指南"
 description: "Medical Device User Fee Small Business Qualification and Determination: Guidance for Industry, Food and Drug Administration Staff and Foreign Governments"
 published: 2025-07-31
 ---
 
-# 医疗器械用户费 小企业资格和确定性：行业、食品药品管理局工作人员及外国政府指南
+# 医疗器械用户费 小企业资格和确定性：行业、FDA工作人员及外国政府指南
 
 **Medical Device User Fee Small Business Qualification and Determination: Guidance for Industry, Food and Drug Administration Staff and Foreign Governments**
 
@@ -31,7 +31,7 @@ PDF：[https://www.fda.gov/media/176439/download](https://www.fda.gov/media/1764
 
 ## 官方文件全文
 
-本指南代表食品药品管理局（FDA或本机构）目前对该主题的观点。它不为任何人确立任何权利，对FDA或公众亦不具约束力。若替代方法满足适用法规与条例的要求，您可采用该替代方法。如需讨论替代方法，请联系本指南扉页所列的FDA工作人员或负责办公室。
+本指南代表FDA（FDA或本机构）目前对该主题的观点。它不为任何人确立任何权利，对FDA或公众亦不具约束力。若替代方法满足适用法规与条例的要求，您可采用该替代方法。如需讨论替代方法，请联系本指南扉页所列的FDA工作人员或负责办公室。
 
 ## I. 简介
 《医疗器械用户费修正案》（MDUFA）要求对多数类型的医疗器械申请与报告以及机构注册支付用户费。但小企业可能有资格获得申请费减免或豁免，以及机构注册费豁免，取决于其是否低于法规规定的适用总收入或销售额上限并满足其他要求。经FDA资格认定并确定为MDUFA“小企业”的企业，有资格大幅降低这些申请用户费。有资格获得降低小企业费用的申请类型为：上市前通知（510(k)）、De Novo请求、上市前申请（上市前批准申请[PMA]、生物制品许可申请[BLA]、产品开发方案[PDP]）、上市前报告（PMR）、PMA/PDP/BLA补充与PMA年度报告，以及513(g)分类信息请求。完整合格申请类型清单见MDUFA用户费网站。此外，根据另一规定被资格认定并确定为“小企业”的企业可能有资格豁免其首次上市前申请或报告的费用，而根据又一规定被资格认定并确定为“小企业”且满足额外要求的企业可能获得机构注册费豁免。本指南描述企业可如何请求认定其就这三项规定（分别以不同总收入或销售额上限定义“小企业”——降低费用为1亿美元；首次上市前申请/报告费豁免为3000万美元；注册费豁免为100万美元）而言符合小企业资格的流程。

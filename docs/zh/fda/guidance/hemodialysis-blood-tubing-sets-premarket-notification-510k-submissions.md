@@ -1,10 +1,10 @@
 ---
-title: "血液管组 - 上市前通知 (510(k)) 提交：行业与食品药品管理局工作人员指南"
+title: "血液管组 - 上市前通知 (510(k)) 提交：行业与FDA工作人员指南"
 description: "Hemodialysis Blood Tubing Sets - Premarket Notification (510(k)) Submissions: Guidance for Industry and Food and Drug Administration Staff"
 published: 2026-07-23
 ---
 
-# 血液管组 - 上市前通知 (510(k)) 提交：行业与食品药品管理局工作人员指南
+# 血液管组 - 上市前通知 (510(k)) 提交：行业与FDA工作人员指南
 
 **Hemodialysis Blood Tubing Sets - Premarket Notification (510(k)) Submissions: Guidance for Industry and Food and Drug Administration Staff**
 

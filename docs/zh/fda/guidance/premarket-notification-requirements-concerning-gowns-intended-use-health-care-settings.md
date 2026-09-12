@@ -1,10 +1,10 @@
 ---
-title: "关于卫生保健环境中使用的服装的上市前通知要求：行业与食品药品管理局工作人员指南"
+title: "关于卫生保健环境中使用的服装的上市前通知要求：行业与FDA工作人员指南"
 description: "Premarket Notification Requirements Concerning Gowns Intended for Use in Health Care Settings: Guidance for Industry and Food and Drug Administration Staff"
 published: 2015-12-09
 ---
 
-# 关于卫生保健环境中使用的服装的上市前通知要求：行业与食品药品管理局工作人员指南
+# 关于卫生保健环境中使用的服装的上市前通知要求：行业与FDA工作人员指南
 
 **Premarket Notification Requirements Concerning Gowns Intended for Use in Health Care Settings: Guidance for Industry and Food and Drug Administration Staff**
 
@@ -78,7 +78,7 @@ FDA于1988年6月24日发布了最后规则1, 将21 CFR 878.4040的“外科服�
 为了确定21以下21CFR 878.4040(b)以下的礼服分类,原子能机构的管制办法是,如果存在下列所有因素,属于本条例范围的服装不是 " 外科服装 " :被贴上外科如果它有关于隔离墙保护的声明,这种声明只针对最低限度或低程度的隔离墙保护。
 
 7 在ANSI/AAMI PB70存在之前,包括但不限于:“防暴罢工”、“最高液流防护”、“最难受保护”和“最难受保护”。 工程处不鼓励使用这些索赔,因为它们在性能特点和测试方法方面缺乏具体性能特征和检验方法。制定了ANSI/AAMI PB70,以解决这些问题,并向用户群体说明服饰提供的液体屏障保护水平。
-8 请见FDA指南文件,《医疗设备提交反馈请求:提交前方案》,与美国食品药品监督管理局工作人员举行的会议:工业、美国食品药品监督管理局工作人员指南。
+8 请见FDA指南文件,《医疗器械提交反馈请求:提交前方案》,与美国食品药品监督管理局工作人员举行的会议:工业、美国食品药品监督管理局工作人员指南。
 (#0__)
 在此情况下,该器械的标签或描述,以及任何最低或低屏障保护(或没有屏障保护)要求,显示其意图用途为非外科长袍。 这种服装被视为I类,在21 CFR 878.4040(b)(2)下不受上市前通知的约束,受21 CFR 878.9的限制,作为外科服,而非外科服和外科面具。设备是I级豁免 因为一般控制 足以提供合理保证 安全 和有效装置,根据《FD & C法》第513(a)(1)(A)节,一般管制包括但不限于质量管理体系法规(21 CFR Part 820),登记和列名(21 CFR Part 807)、医疗器械报告(21 CFR Part 803)、标签(21 CFR Part 801)和标签(21 CFR Part 801)。
 (b) 二级礼服

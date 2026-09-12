@@ -1,10 +1,10 @@
 ---
-title: "标签医疗产品的建议,以告知用户,产品或产品容器不是用天然乳制品：行业与食品药品管理局工作人员指南"
+title: "标签医疗产品的建议,以告知用户,产品或产品容器不是用天然乳制品：行业与FDA工作人员指南"
 description: "Recommendations for Labeling Medical Products to Inform Users that the Product or Product Container is not Made with Natural Rubber Latex: Guidance for Industry and Food and Drug Administration Staff"
 published: 2014-12-02
 ---
 
-# 标签医疗产品的建议,以告知用户,产品或产品容器不是用天然乳制品：行业与食品药品管理局工作人员指南
+# 标签医疗产品的建议,以告知用户,产品或产品容器不是用天然乳制品：行业与FDA工作人员指南
 
 **Recommendations for Labeling Medical Products to Inform Users that the Product or Product Container is not Made with Natural Rubber Latex: Guidance for Industry and Food and Drug Administration Staff**
 

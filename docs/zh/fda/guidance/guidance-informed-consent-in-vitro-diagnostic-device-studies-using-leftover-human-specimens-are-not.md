@@ -1,10 +1,10 @@
 ---
-title: "关于使用非个人可识别的遗留人类样本进行内置诊断设备研究的信息同意指导: 赞助商,机构审查ritionvoj,食品药品管理局工作人员的指导"
+title: "使用非个人可识别的剩余人类样本进行体外诊断器械研究的知情同意指南：申办者、机构审查委员会与FDA工作人员指南"
 description: "Guidance on Informed Consent for In Vitro Diagnostic Device Studies Using Leftover Human Specimens that are Not Individually Identifiable : Guidance for Sponsors, Institutional Review Boards, and Food and Drug Administration Staff"
 published: 2006-04-25
 ---
 
-# 关于使用非个人可识别的遗留人类样本进行内置诊断设备研究的信息同意指导: 赞助商,机构审查ritionvoj,食品药品管理局工作人员的指导
+# 使用非个人可识别的剩余人类样本进行体外诊断器械研究的知情同意指南：申办者、机构审查委员会与FDA工作人员指南
 
 **Guidance on Informed Consent for In Vitro Diagnostic Device Studies Using Leftover Human Specimens that are Not Individually Identifiable : Guidance for Sponsors, Institutional Review Boards, and Food and Drug Administration Staff**
 

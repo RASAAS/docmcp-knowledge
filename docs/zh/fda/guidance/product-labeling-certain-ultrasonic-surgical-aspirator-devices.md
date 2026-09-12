@@ -1,10 +1,10 @@
 ---
-title: "某些超声波外科吸尘器的产品标签：行业与食品药品管理局工作人员指南"
+title: "某些超声波外科吸尘器的产品标签：行业与FDA工作人员指南"
 description: "Product Labeling for Certain Ultrasonic Surgical Aspirator Devices: Guidance for Industry and Food and Drug Administration Staff"
 published: 2017-10-30
 ---
 
-# 某些超声波外科吸尘器的产品标签：行业与食品药品管理局工作人员指南
+# 某些超声波外科吸尘器的产品标签：行业与FDA工作人员指南
 
 **Product Labeling for Certain Ultrasonic Surgical Aspirator Devices: Guidance for Industry and Food and Drug Administration Staff**
 

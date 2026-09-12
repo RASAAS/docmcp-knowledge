@@ -4,7 +4,7 @@ description: "Guidance Document for Testing Non-Articulating, 'Mechanically Lock
 published: 1995-04-30
 ---
 
-# 测试非关节,"机械锁定",模块化植入物组件的指南
+# 测试非关节,\
 
 **Guidance Document for Testing Non-Articulating, 'Mechanically Locked', Modular Implant Components**
 

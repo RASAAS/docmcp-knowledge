@@ -1,10 +1,10 @@
 ---
-title: "医疗器械开发工具的认定：行业、工具开发者与食品药品管理局工作人员指南"
+title: "医疗器械开发工具的认定：行业、工具开发者与FDA工作人员指南"
 description: "Qualification of Medical Device Development Tools: Guidance for Industry, Tool Developers, and Food and Drug Administration Staff"
 published: 2023-07-17
 ---
 
-# 医疗器械开发工具的认定：行业、工具开发者与食品药品管理局工作人员指南
+# 医疗器械开发工具的认定：行业、工具开发者与FDA工作人员指南
 
 **Qualification of Medical Device Development Tools: Guidance for Industry, Tool Developers, and Food and Drug Administration Staff**
 

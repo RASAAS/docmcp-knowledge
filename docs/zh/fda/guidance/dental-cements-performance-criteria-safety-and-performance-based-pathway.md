@@ -1,10 +1,10 @@
 ---
-title: "牙水泥 - 安全性和性能基础的性能标准：行业与食品药品管理局工作人员指南"
+title: "牙水泥 - 安全性和性能基础的性能标准：行业与FDA工作人员指南"
 description: "Dental Cements - Performance Criteria for Safety and Performance Based Pathway: Guidance for Industry and Food and Drug Administration Staff"
 published: 2024-09-30
 ---
 
-# 牙水泥 - 安全性和性能基础的性能标准：行业与食品药品管理局工作人员指南
+# 牙水泥 - 安全性和性能基础的性能标准：行业与FDA工作人员指南
 
 **Dental Cements - Performance Criteria for Safety and Performance Based Pathway: Guidance for Industry and Food and Drug Administration Staff**
 

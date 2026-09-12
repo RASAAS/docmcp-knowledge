@@ -1,10 +1,10 @@
 ---
-title: "皮肤磨损设备的指南：行业指南"
+title: "皮肤磨削器械指南：行业指南"
 description: "Guidance for Dermabrasion Devices - Guidance for Industry"
 published: 1999-03-01
 ---
 
-# 皮肤磨损设备的指南：行业指南
+# 皮肤磨削器械指南：行业指南
 
 **Guidance for Dermabrasion Devices - Guidance for Industry**
 

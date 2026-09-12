@@ -1,10 +1,10 @@
 ---
-title: "实验设备豁免 (IDE) 临床试验期间现场案例演讲:机构审查委员会,工业,临床调查人员和食品药品管理局工作人员的指导"
+title: "研究用器械豁免(IDE)临床试验期间的实况病例演示：机构审查委员会、行业、临床研究者与FDA工作人员指南"
 description: "Live Case Presentations During Investigational Device Exemption (IDE) Clinical Trials: Guidance for Institutional Review Boards, Industry, Clinical Investigators, and Food and Drug Administration Staff"
 published: 2019-07-11
 ---
 
-# 实验设备豁免 (IDE) 临床试验期间现场案例演讲:机构审查委员会,工业,临床调查人员和食品药品管理局工作人员的指导
+# 研究用器械豁免(IDE)临床试验期间的实况病例演示：机构审查委员会、行业、临床研究者与FDA工作人员指南
 
 **Live Case Presentations During Investigational Device Exemption (IDE) Clinical Trials: Guidance for Institutional Review Boards, Industry, Clinical Investigators, and Food and Drug Administration Staff**
 
@@ -31,7 +31,7 @@ PDF：https://www.fda.gov/media/88454/download
 
 ## 官方文件全文
 
-调查设备豁免(IDE)临床试验期间的实况案件陈述 机构审查委员会、工业、临床调查员、以及美国食品药品监督管理局工作人员
+研究用器械豁免(IDE)临床试验期间的实况案件陈述 机构审查委员会、工业、临床调查员、以及美国食品药品监督管理局工作人员
 
 本指南代表了美国食品药品监督管理局(美国食品药品监督管理局或机构)目前对这一专题的想法。它没有规定任何人的任何权利,对FDA或公众没有约束力。您可采取另一种方式,即满足适用的法规和条例的要求。为了讨论另一种办法,请与标题页所列FDA工作人员或负责本指南的办公室联系。
 ## I. 简介

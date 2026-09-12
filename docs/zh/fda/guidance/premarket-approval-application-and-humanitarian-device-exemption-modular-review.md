@@ -1,10 +1,10 @@
 ---
-title: "预销售许可申请和人道主义设备豁免模块化审查：行业与FDA工作人员指南"
+title: "上市前批准申请和人道主义器械豁免模块化审查：行业与FDA工作人员指南"
 description: "Premarket Approval Application and Humanitarian Device Exemption Modular Review: Guidance for Industry and FDA Staff"
 published: 2025-01-13
 ---
 
-# 预销售许可申请和人道主义设备豁免模块化审查：行业与FDA工作人员指南
+# 上市前批准申请和人道主义器械豁免模块化审查：行业与FDA工作人员指南
 
 **Premarket Approval Application and Humanitarian Device Exemption Modular Review: Guidance for Industry and FDA Staff**
 

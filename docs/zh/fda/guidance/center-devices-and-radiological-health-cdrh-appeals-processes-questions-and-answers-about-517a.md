@@ -1,10 +1,10 @@
 ---
-title: "电气设备和放射性健康中心 (CDRH) 诉讼程序:关于517A的问题和答案：行业与食品药品管理局工作人员指南"
+title: "器械和放射卫生中心(CDRH)申诉流程：关于517A条的问答：行业与FDA工作人员指南"
 description: "Center for Devices and Radiological Health (CDRH) Appeals Processes: Questions and Answers About 517A: Guidance for Industry and Food and Drug Administration Staff"
 published: 2020-03-27
 ---
 
-# 电气设备和放射性健康中心 (CDRH) 诉讼程序:关于517A的问题和答案：行业与食品药品管理局工作人员指南
+# 器械和放射卫生中心(CDRH)申诉流程：关于517A条的问答：行业与FDA工作人员指南
 
 **Center for Devices and Radiological Health (CDRH) Appeals Processes: Questions and Answers About 517A: Guidance for Industry and Food and Drug Administration Staff**
 
@@ -97,5 +97,5 @@ FDA解释《FD & C法》第517A(a)(2)条,允许提交或寻求提交510(k)条、
 
 [^5]: 21 CFR 800.75(b)(2) 解释如何按照第513(i)(1)(D)、513(a)(3)(D)节审议和适用最不繁琐的要求,以及《外籍家政工人和外籍家政工人法》第515(c)(5)条和该法第515(c)(5)条。· 记录重大争议或意见分歧,即决议与管制决定直接有关的争议或意见分歧;• 参考决策者所依赖的已出版的文献和协商一致标准。
 
-[^6]: 见指导“医疗设备呈报的eCopy方案”(`0'-信息/搜索-fda-指导-文件/副本-方案-医疗设备呈报)。
+[^6]: 见指导“医疗器械呈报的eCopy方案”(`0'-信息/搜索-fda-指导-文件/副本-方案-医疗器械呈报)。
 

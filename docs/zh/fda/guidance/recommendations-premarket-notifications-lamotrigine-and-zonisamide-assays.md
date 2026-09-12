@@ -1,10 +1,10 @@
 ---
-title: "关于拉莫特里金和尼萨米德试剂的预销通知的建议：行业与食品药品管理局工作人员指南"
+title: "关于拉莫特里金和尼萨米德试剂的预销通知的建议：行业与FDA工作人员指南"
 description: "Recommendations for Premarket Notifications for Lamotrigine and Zonisamide Assays: Guidance for Industry and Food and Drug Administration Staff"
 published: 2016-02-09
 ---
 
-# 关于拉莫特里金和尼萨米德试剂的预销通知的建议：行业与食品药品管理局工作人员指南
+# 关于拉莫特里金和尼萨米德试剂的预销通知的建议：行业与FDA工作人员指南
 
 **Recommendations for Premarket Notifications for Lamotrigine and Zonisamide Assays: Guidance for Industry and Food and Drug Administration Staff**
 
@@ -57,7 +57,7 @@ FDA的指南文件,包括本指南,没有规定法律上可执行的责任。相
 • 所有试剂(分析和分析前),包括对照和校准器,与化验一起销售。
 • 化验技术,包括具体反应和检测方法。
 • 仪器,如具体的分析仪,需要操作分析仪。
-如果你的设备包括了 与你分析相关的软件见“医疗设备中所含软件预先提交材料内容指南”,“%0% ments/ucm089543.htm,您应该包含在您的 510 (k) 中的软件信息 。
+如果你的设备包括了 与你分析相关的软件见“医疗器械中所含软件预先提交材料内容指南”,“%0% ments/ucm089543.htm,您应该包含在您的 510 (k) 中的软件信息 。
 
 ### V. 性能特点
 

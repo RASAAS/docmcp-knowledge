@@ -1,10 +1,10 @@
 ---
-title: "发送磁共振诊断设备的预销售通知：行业与食品药品管理局工作人员指南"
+title: "磁共振诊断器械上市前通知提交：行业与FDA工作人员指南"
 description: "Submission of Premarket Notifications for Magnetic Resonance Diagnostic Devices: Guidance for Industry and Food and Drug Administration Staff"
 published: 2023-10-10
 ---
 
-# 发送磁共振诊断设备的预销售通知：行业与食品药品管理局工作人员指南
+# 磁共振诊断器械上市前通知提交：行业与FDA工作人员指南
 
 **Submission of Premarket Notifications for Magnetic Resonance Diagnostic Devices: Guidance for Industry and Food and Drug Administration Staff**
 

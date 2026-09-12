@@ -1,10 +1,10 @@
 ---
-title: "提交和审查产不菌性信息在上市前通知 (510(k)) 提交以无菌标记的设备：行业与食品药品管理局工作人员指南"
+title: "以无菌标记器械的上市前通知(510(k))提交中无菌信息的提交和审查：行业与FDA工作人员指南"
 description: "Submission and Review of Sterility Information in Premarket Notification (510(k)) Submissions for Devices Labeled as Sterile: Guidance for Industry and Food and Drug Administration Staff"
 published: 2024-01-08
 ---
 
-# 提交和审查产不菌性信息在上市前通知 (510(k)) 提交以无菌标记的设备：行业与食品药品管理局工作人员指南
+# 以无菌标记器械的上市前通知(510(k))提交中无菌信息的提交和审查：行业与FDA工作人员指南
 
 **Submission and Review of Sterility Information in Premarket Notification (510(k)) Submissions for Devices Labeled as Sterile: Guidance for Industry and Food and Drug Administration Staff**
 
@@ -127,7 +127,7 @@ a. 绝育方法说明;b. 绝育室说明,如果不是硬性、固定(例如软�
 11 准备用于医疗机构的消毒剂需要510(k)s。 工业消毒剂不需要510(k)s。
 用于识别包含此信息的设备主控文件 12 。此外,划界案应说明先前在已清理或核准的划界案中评价的周期是否已经改变;绝育地点;13 即放射绝育,辐射剂量;f. 化学消毒剂(例如,EO,H2O2)装置上残留的消毒剂残留物的最高水平,并解释为什么这些水平对于设备类型和与患者接触的预期持续时间来说是可以接受的。
 
-就道德操守办公室绝育而言,根据目前公认的标准版本“ISO 10993-7、ISO 10993-7,CDRH接受了道德操守办公室的残余信息。对医疗器械的生物评估 - 第七部分:乙烯氧化物消毒残留物。
+就道德操守办公室绝育而言,根据目前公认的标准版本“ISO 10993-7、ISO 10993-7,CDRH接受了道德操守办公室的残余信息。对医疗器械的生物评估 - 第七部分:环氧乙烷消毒残留物。
 
 2. 关于绝育方法,提案国应说明绝育方法
 用于验证绝育周期的方法(例如半周期方法),但不包括验证数据本身。提交材料还应指明所采用的所有相关共识标准,并指明未达到标准的任何方面。在没有公认的标准的情况下,应提交和审查对程序和完整的审定议定书的全面说明。
